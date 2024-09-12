@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZv25tLhsWKX.md) - [plain]
 
 > Where Nashville, Memphis & the Shoals meet\. Cover: The War and Treaty
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,302 likes - 76 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,305 likes - 76 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

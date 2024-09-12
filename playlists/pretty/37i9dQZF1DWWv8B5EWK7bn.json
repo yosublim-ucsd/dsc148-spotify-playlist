@@ -1,6 +1,6 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 188628,
+  "num_followers": 188683,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
@@ -469,22 +469,6 @@
       "url": "https://open.spotify.com/track/546luzeHBxdcU8YZmOs6ph"
     },
     {
-      "added_at": "2024-06-27 18:33:54",
-      "album": {
-        "name": "ECRP",
-        "url": "https://open.spotify.com/album/25Acx0aEZgajqNKiZXBJPj"
-      },
-      "artists": [
-        {
-          "name": "Kim Gordon",
-          "url": "https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx"
-        }
-      ],
-      "duration_ms": 236440,
-      "name": "ECRP",
-      "url": "https://open.spotify.com/track/7c6Mo690yENpxGVJzpimLl"
-    },
-    {
       "added_at": "2024-04-29 20:30:55",
       "album": {
         "name": "thieves",
@@ -499,6 +483,22 @@
       "duration_ms": 178616,
       "name": "thieves",
       "url": "https://open.spotify.com/track/34ZXYNErf3WC4tgO0PAnUx"
+    },
+    {
+      "added_at": "2024-06-27 18:33:54",
+      "album": {
+        "name": "ECRP",
+        "url": "https://open.spotify.com/album/25Acx0aEZgajqNKiZXBJPj"
+      },
+      "artists": [
+        {
+          "name": "Kim Gordon",
+          "url": "https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx"
+        }
+      ],
+      "duration_ms": 236440,
+      "name": "ECRP",
+      "url": "https://open.spotify.com/track/7c6Mo690yENpxGVJzpimLl"
     },
     {
       "added_at": "2024-01-04 01:06:11",
@@ -593,6 +593,22 @@
       "url": "https://open.spotify.com/track/6MvywXbpxt5tYk1a5cA0rb"
     },
     {
+      "added_at": "2023-01-04 00:57:30",
+      "album": {
+        "name": "Classic Objects",
+        "url": "https://open.spotify.com/album/71T5vyKWwbd4oUPfDpyNwb"
+      },
+      "artists": [
+        {
+          "name": "Jenny Hval",
+          "url": "https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7"
+        }
+      ],
+      "duration_ms": 362428,
+      "name": "American Coffee",
+      "url": "https://open.spotify.com/track/2ywyJsQa0vew5YEbAr7Jgr"
+    },
+    {
       "added_at": "2022-09-29 00:57:24",
       "album": {
         "name": "Meditations on Crime",
@@ -617,22 +633,6 @@
       "url": "https://open.spotify.com/track/5vyoWTsI8hVl9fJHqW2ieb"
     },
     {
-      "added_at": "2023-01-04 00:57:30",
-      "album": {
-        "name": "Classic Objects",
-        "url": "https://open.spotify.com/album/71T5vyKWwbd4oUPfDpyNwb"
-      },
-      "artists": [
-        {
-          "name": "Jenny Hval",
-          "url": "https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7"
-        }
-      ],
-      "duration_ms": 362428,
-      "name": "American Coffee",
-      "url": "https://open.spotify.com/track/2ywyJsQa0vew5YEbAr7Jgr"
-    },
-    {
       "added_at": "2022-07-15 05:42:04",
       "album": {
         "name": "Arkhon",
@@ -649,42 +649,6 @@
       "url": "https://open.spotify.com/track/5NIrChwN4QRg8sGrFalgMU"
     },
     {
-      "added_at": "2024-04-15 18:24:59",
-      "album": {
-        "name": "Love in Constant Spectacle",
-        "url": "https://open.spotify.com/album/7JQueQibvRMgQ6gHRpUOpd"
-      },
-      "artists": [
-        {
-          "name": "Jane Weaver",
-          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
-        }
-      ],
-      "duration_ms": 257226,
-      "name": "Love in Constant Spectacle",
-      "url": "https://open.spotify.com/track/15EzGKqgmv2DJqrZ64tWM3"
-    },
-    {
-      "added_at": "2024-07-18 21:58:08",
-      "album": {
-        "name": "Taste The Air (Julia Holter Mix)",
-        "url": "https://open.spotify.com/album/0W9ZcPtttitGOYLGVu17kc"
-      },
-      "artists": [
-        {
-          "name": "Emma Anderson",
-          "url": "https://open.spotify.com/artist/3o2G6CrR8dJYHf69yoC8hL"
-        },
-        {
-          "name": "Julia Holter",
-          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
-        }
-      ],
-      "duration_ms": 203031,
-      "name": "Taste The Air - Julia Holter Mix",
-      "url": "https://open.spotify.com/track/0cJwZNBbQwxzzrnWqqWbRU"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Second Spring OST",
@@ -699,6 +663,22 @@
       "duration_ms": 151022,
       "name": "Highway Brain Planet (Credits)",
       "url": "https://open.spotify.com/track/7BGPolTJ1ptq3zxGIf64yR"
+    },
+    {
+      "added_at": "2024-04-15 18:24:59",
+      "album": {
+        "name": "Love in Constant Spectacle",
+        "url": "https://open.spotify.com/album/7JQueQibvRMgQ6gHRpUOpd"
+      },
+      "artists": [
+        {
+          "name": "Jane Weaver",
+          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
+        }
+      ],
+      "duration_ms": 257226,
+      "name": "Love in Constant Spectacle",
+      "url": "https://open.spotify.com/track/15EzGKqgmv2DJqrZ64tWM3"
     },
     {
       "added_at": "2023-08-15 18:36:31",
@@ -719,6 +699,26 @@
       "duration_ms": 276045,
       "name": "Sus Dog",
       "url": "https://open.spotify.com/track/4SIy0CT0thjNx55TAeBq6x"
+    },
+    {
+      "added_at": "2024-07-18 21:58:08",
+      "album": {
+        "name": "Taste The Air (Julia Holter Mix)",
+        "url": "https://open.spotify.com/album/0W9ZcPtttitGOYLGVu17kc"
+      },
+      "artists": [
+        {
+          "name": "Emma Anderson",
+          "url": "https://open.spotify.com/artist/3o2G6CrR8dJYHf69yoC8hL"
+        },
+        {
+          "name": "Julia Holter",
+          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
+        }
+      ],
+      "duration_ms": 203031,
+      "name": "Taste The Air - Julia Holter Mix",
+      "url": "https://open.spotify.com/track/0cJwZNBbQwxzzrnWqqWbRU"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -821,22 +821,6 @@
       "url": "https://open.spotify.com/track/17076c3jEyuTYHYnMN6P1G"
     },
     {
-      "added_at": "2023-12-20 04:44:18",
-      "album": {
-        "name": "Agitprop Alterna",
-        "url": "https://open.spotify.com/album/56o75WZe4MrgNj1wL0769C"
-      },
-      "artists": [
-        {
-          "name": "Peel Dream Magazine",
-          "url": "https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd"
-        }
-      ],
-      "duration_ms": 314059,
-      "name": "Up and Up",
-      "url": "https://open.spotify.com/track/5DICKyBTFX6rzXTRrZH6iz"
-    },
-    {
       "added_at": "2023-06-02 00:24:20",
       "album": {
         "name": "Open the Gates",
@@ -853,6 +837,22 @@
       "url": "https://open.spotify.com/track/4fbvhFhIhItsBS4V5EUdYu"
     },
     {
+      "added_at": "2023-12-20 04:44:18",
+      "album": {
+        "name": "Agitprop Alterna",
+        "url": "https://open.spotify.com/album/56o75WZe4MrgNj1wL0769C"
+      },
+      "artists": [
+        {
+          "name": "Peel Dream Magazine",
+          "url": "https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd"
+        }
+      ],
+      "duration_ms": 314059,
+      "name": "Up and Up",
+      "url": "https://open.spotify.com/track/5DICKyBTFX6rzXTRrZH6iz"
+    },
+    {
       "added_at": "2023-06-07 23:32:59",
       "album": {
         "name": "Spotify Singles",
@@ -867,26 +867,6 @@
       "duration_ms": 289461,
       "name": "Army Of Me - Spotify Single",
       "url": "https://open.spotify.com/track/1tE9hcCoX2CcSSqS78MAZt"
-    },
-    {
-      "added_at": "2023-01-20 04:21:17",
-      "album": {
-        "name": "STORY OF BLOOD",
-        "url": "https://open.spotify.com/album/6voVkae1055milSYpRzzGc"
-      },
-      "artists": [
-        {
-          "name": "John Cale",
-          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
-        },
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 451986,
-      "name": "STORY OF BLOOD",
-      "url": "https://open.spotify.com/track/0MtY5fVdx8fnPzqooOwok4"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -911,6 +891,26 @@
       "duration_ms": 186544,
       "name": "Jour 3",
       "url": "https://open.spotify.com/track/1RLMR4pVuuHEzn8mOe1U2s"
+    },
+    {
+      "added_at": "2023-01-20 04:21:17",
+      "album": {
+        "name": "STORY OF BLOOD",
+        "url": "https://open.spotify.com/album/6voVkae1055milSYpRzzGc"
+      },
+      "artists": [
+        {
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+        },
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 451986,
+      "name": "STORY OF BLOOD",
+      "url": "https://open.spotify.com/track/0MtY5fVdx8fnPzqooOwok4"
     },
     {
       "added_at": "2024-06-13 00:32:04",
@@ -1033,22 +1033,6 @@
       "url": "https://open.spotify.com/track/1PzCaE03jo2hmMm261h0XP"
     },
     {
-      "added_at": "2024-03-05 06:00:54",
-      "album": {
-        "name": "Are You There God? It\u2019s Me, @",
-        "url": "https://open.spotify.com/album/3yH4aVY5yxzxaijksQOOJk"
-      },
-      "artists": [
-        {
-          "name": "@",
-          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
-        }
-      ],
-      "duration_ms": 194200,
-      "name": "Processional",
-      "url": "https://open.spotify.com/track/3leOjmmcUGrjEwpkxVQn3R"
-    },
-    {
       "added_at": "2024-07-05 06:00:00",
       "album": {
         "name": "Para los P\u00e1jaros / Carlos",
@@ -1065,20 +1049,20 @@
       "url": "https://open.spotify.com/track/21i2D8lKOnfT7vOJx5D8z5"
     },
     {
-      "added_at": "2024-07-09 04:26:27",
+      "added_at": "2024-03-05 06:00:54",
       "album": {
-        "name": "Bang (Peanut Butter Wolf Remix)",
-        "url": "https://open.spotify.com/album/1WMAZALQuGGrsWEvQt7S24"
+        "name": "Are You There God? It\u2019s Me, @",
+        "url": "https://open.spotify.com/album/3yH4aVY5yxzxaijksQOOJk"
       },
       "artists": [
         {
-          "name": "Melenas",
-          "url": "https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f"
+          "name": "@",
+          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
         }
       ],
-      "duration_ms": 248312,
-      "name": "Bang - Peanut Butter Wolf Remix",
-      "url": "https://open.spotify.com/track/7vt7cUdUhOce1aYrULANus"
+      "duration_ms": 194200,
+      "name": "Processional",
+      "url": "https://open.spotify.com/track/3leOjmmcUGrjEwpkxVQn3R"
     },
     {
       "added_at": "2023-03-31 19:12:14",
@@ -1095,6 +1079,22 @@
       "duration_ms": 229183,
       "name": "Nothing's Wrong",
       "url": "https://open.spotify.com/track/1BHffF1YV6e1pMyjaujmvT"
+    },
+    {
+      "added_at": "2024-07-09 04:26:27",
+      "album": {
+        "name": "Bang (Peanut Butter Wolf Remix)",
+        "url": "https://open.spotify.com/album/1WMAZALQuGGrsWEvQt7S24"
+      },
+      "artists": [
+        {
+          "name": "Melenas",
+          "url": "https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f"
+        }
+      ],
+      "duration_ms": 248312,
+      "name": "Bang - Peanut Butter Wolf Remix",
+      "url": "https://open.spotify.com/track/7vt7cUdUhOce1aYrULANus"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1129,22 +1129,6 @@
       "url": "https://open.spotify.com/track/3sRMZ7WnXCpRZBAH8nMcSz"
     },
     {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
-        "name": "Eleg\u00eda",
-        "url": "https://open.spotify.com/album/6EEkWd8f7a1zctFgoptqUj"
-      },
-      "artists": [
-        {
-          "name": "Siniestra Pandora",
-          "url": "https://open.spotify.com/artist/1cuq3b3taULpho8MTTZD2U"
-        }
-      ],
-      "duration_ms": 227178,
-      "name": "Pagano",
-      "url": "https://open.spotify.com/track/0K8fmZNZFG2bCxamePeiFE"
-    },
-    {
       "added_at": "2023-01-20 04:21:17",
       "album": {
         "name": "MERCY",
@@ -1163,6 +1147,22 @@
       "duration_ms": 420080,
       "name": "MERCY",
       "url": "https://open.spotify.com/track/1S5KEj2FV5TJAoHJaXHmC0"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
+        "name": "Eleg\u00eda",
+        "url": "https://open.spotify.com/album/6EEkWd8f7a1zctFgoptqUj"
+      },
+      "artists": [
+        {
+          "name": "Siniestra Pandora",
+          "url": "https://open.spotify.com/artist/1cuq3b3taULpho8MTTZD2U"
+        }
+      ],
+      "duration_ms": 227178,
+      "name": "Pagano",
+      "url": "https://open.spotify.com/track/0K8fmZNZFG2bCxamePeiFE"
     },
     {
       "added_at": "2023-08-24 03:26:17",
@@ -1329,20 +1329,20 @@
       "url": "https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ"
     },
     {
-      "added_at": "2024-03-05 06:00:54",
+      "added_at": "2023-05-22 18:30:22",
       "album": {
-        "name": "An Embroidery",
-        "url": "https://open.spotify.com/album/1TgoX6RQQ7xWKeB8ylRwgy"
+        "name": "Vandali / Stranidei",
+        "url": "https://open.spotify.com/album/7mxKYjIXX1kGlV5RRDGvpI"
       },
       "artists": [
         {
-          "name": "Clarissa Connelly",
-          "url": "https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S"
+          "name": "Bud Spencer Blues Explosion",
+          "url": "https://open.spotify.com/artist/1bfWecjdxJOuN7f42oIH5S"
         }
       ],
-      "duration_ms": 249208,
-      "name": "An Embroidery",
-      "url": "https://open.spotify.com/track/3EmzrBnKgnW6ewXjwHopMT"
+      "duration_ms": 245520,
+      "name": "Stranidei",
+      "url": "https://open.spotify.com/track/233ArIuVyP9GNBlfNavB4W"
     },
     {
       "added_at": "2023-06-05 20:56:02",
@@ -1361,20 +1361,20 @@
       "url": "https://open.spotify.com/track/0opHOZfNqPFyqhOXupj363"
     },
     {
-      "added_at": "2023-05-22 18:30:22",
+      "added_at": "2024-03-05 06:00:54",
       "album": {
-        "name": "Vandali / Stranidei",
-        "url": "https://open.spotify.com/album/7mxKYjIXX1kGlV5RRDGvpI"
+        "name": "An Embroidery",
+        "url": "https://open.spotify.com/album/1TgoX6RQQ7xWKeB8ylRwgy"
       },
       "artists": [
         {
-          "name": "Bud Spencer Blues Explosion",
-          "url": "https://open.spotify.com/artist/1bfWecjdxJOuN7f42oIH5S"
+          "name": "Clarissa Connelly",
+          "url": "https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S"
         }
       ],
-      "duration_ms": 245520,
-      "name": "Stranidei",
-      "url": "https://open.spotify.com/track/233ArIuVyP9GNBlfNavB4W"
+      "duration_ms": 249208,
+      "name": "An Embroidery",
+      "url": "https://open.spotify.com/track/3EmzrBnKgnW6ewXjwHopMT"
     },
     {
       "added_at": "2023-01-03 23:48:36",
@@ -1477,26 +1477,6 @@
       "url": "https://open.spotify.com/track/6FbfVLa5lUIJfwW9xPSB1I"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Al Sur",
-        "url": "https://open.spotify.com/album/73vbx7w0BGj1nBolIC4qqy"
-      },
-      "artists": [
-        {
-          "name": "The Notwist",
-          "url": "https://open.spotify.com/artist/1o4xLcugkCtDDOw7POAMha"
-        },
-        {
-          "name": "Juana Molina",
-          "url": "https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3"
-        }
-      ],
-      "duration_ms": 198773,
-      "name": "Al Sur",
-      "url": "https://open.spotify.com/track/6mrxKzfu4L3AcDxPwYPjUs"
-    },
-    {
       "added_at": "2022-03-11 06:40:47",
       "album": {
         "name": "Run",
@@ -1519,6 +1499,26 @@
       "duration_ms": 311533,
       "name": "Run",
       "url": "https://open.spotify.com/track/4mhrqvqLes5QzRelxP3klq"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Al Sur",
+        "url": "https://open.spotify.com/album/73vbx7w0BGj1nBolIC4qqy"
+      },
+      "artists": [
+        {
+          "name": "The Notwist",
+          "url": "https://open.spotify.com/artist/1o4xLcugkCtDDOw7POAMha"
+        },
+        {
+          "name": "Juana Molina",
+          "url": "https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3"
+        }
+      ],
+      "duration_ms": 198773,
+      "name": "Al Sur",
+      "url": "https://open.spotify.com/track/6mrxKzfu4L3AcDxPwYPjUs"
     },
     {
       "added_at": "2023-03-24 15:38:14",
@@ -1545,6 +1545,22 @@
       "url": "https://open.spotify.com/track/4L0npYstL1PDKHV6BdMtIW"
     },
     {
+      "added_at": "2023-08-08 03:45:10",
+      "album": {
+        "name": "Highlight",
+        "url": "https://open.spotify.com/album/2MZZi4fuP7DkF5a59woyIU"
+      },
+      "artists": [
+        {
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "Highlight",
+      "url": "https://open.spotify.com/track/2GF0rZItoo3ptwCjiwShBa"
+    },
+    {
       "added_at": "2023-06-26 14:24:59",
       "album": {
         "name": "Island Family (Deluxe Edition)",
@@ -1563,22 +1579,6 @@
       "duration_ms": 269399,
       "name": "Island Family - uh Remix",
       "url": "https://open.spotify.com/track/6OpTAE9fOLxYzQMMSWyo0s"
-    },
-    {
-      "added_at": "2023-08-08 03:45:10",
-      "album": {
-        "name": "Highlight",
-        "url": "https://open.spotify.com/album/2MZZi4fuP7DkF5a59woyIU"
-      },
-      "artists": [
-        {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "Highlight",
-      "url": "https://open.spotify.com/track/2GF0rZItoo3ptwCjiwShBa"
     },
     {
       "added_at": "2024-04-29 20:30:55",
@@ -1601,6 +1601,22 @@
       "url": "https://open.spotify.com/track/2FKHoqbxcIu2NONNgxaON9"
     },
     {
+      "added_at": "2024-01-03 18:37:44",
+      "album": {
+        "name": "Dog's Life",
+        "url": "https://open.spotify.com/album/5gYTOwpIA1xyeS4olKWPPX"
+      },
+      "artists": [
+        {
+          "name": "plantoid",
+          "url": "https://open.spotify.com/artist/1vrdaOj47E8sKFcc1Ekoxd"
+        }
+      ],
+      "duration_ms": 237702,
+      "name": "Dog's Life",
+      "url": "https://open.spotify.com/track/2W7rrKEKlBGGYcYmTBHLCY"
+    },
+    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Peculiar Machine (Georgia Anne Muldrow Remix)",
@@ -1619,22 +1635,6 @@
       "duration_ms": 182800,
       "name": "Peculiar Machine - Georgia Anne Muldrow Remix",
       "url": "https://open.spotify.com/track/2zHv421xcKeRKkeTU7S042"
-    },
-    {
-      "added_at": "2024-01-03 18:37:44",
-      "album": {
-        "name": "Dog's Life",
-        "url": "https://open.spotify.com/album/5gYTOwpIA1xyeS4olKWPPX"
-      },
-      "artists": [
-        {
-          "name": "plantoid",
-          "url": "https://open.spotify.com/artist/1vrdaOj47E8sKFcc1Ekoxd"
-        }
-      ],
-      "duration_ms": 237702,
-      "name": "Dog's Life",
-      "url": "https://open.spotify.com/track/2W7rrKEKlBGGYcYmTBHLCY"
     },
     {
       "added_at": "2024-02-02 05:28:10",
@@ -1685,22 +1685,6 @@
       "url": "https://open.spotify.com/track/52OBVPpbLif9YczNqUJUUd"
     },
     {
-      "added_at": "2022-03-11 04:34:08",
-      "album": {
-        "name": "P.O.N",
-        "url": "https://open.spotify.com/album/716BZhl3283diYxQJZCSyF"
-      },
-      "artists": [
-        {
-          "name": "TOGITO",
-          "url": "https://open.spotify.com/artist/102etpERD7ol169sTsFdQK"
-        }
-      ],
-      "duration_ms": 174518,
-      "name": "Hasta Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/52FOa3LKl18XqXzQQCIaXG"
-    },
-    {
       "added_at": "2022-08-25 19:38:46",
       "album": {
         "name": "A Liberdade \u00e9 Cara",
@@ -1719,6 +1703,22 @@
       "duration_ms": 380973,
       "name": "A Liberdade \u00e9 Cara",
       "url": "https://open.spotify.com/track/5ZRDV496C5qfNwfrC5yUQb"
+    },
+    {
+      "added_at": "2022-03-11 04:34:08",
+      "album": {
+        "name": "P.O.N",
+        "url": "https://open.spotify.com/album/716BZhl3283diYxQJZCSyF"
+      },
+      "artists": [
+        {
+          "name": "TOGITO",
+          "url": "https://open.spotify.com/artist/102etpERD7ol169sTsFdQK"
+        }
+      ],
+      "duration_ms": 174518,
+      "name": "Hasta Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/52FOa3LKl18XqXzQQCIaXG"
     },
     {
       "added_at": "2023-11-13 17:30:13",

@@ -1,12 +1,12 @@
 {
-  "description": "This is Binomio de Oro de Am\u00e9rica. The essential tracks, all in one playlist.",
-  "num_followers": 58126,
+  "description": "This Is Binomio de Oro de Am\u00e9rica. Los temas esenciales, todos en una lista.",
+  "num_followers": 58142,
   "original_name": "This Is Binomio de Oro de Am\u00e9rica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zt46gAAAAAD1SYmMJUIQRu+xgETMzwQ6",
+  "snapshot_id": "Zt+MAAAAAADocjCnzEDfXZIMxS+BIj+Q",
   "tracks": [
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dif\u00edcil De Igualar",
-        "url": "https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 303413,
-      "name": "Dificil de igualar",
-      "url": "https://open.spotify.com/track/3vhej4TjgOt4d6OS4uMIVO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u2026Que viva el vallenato!",
         "url": "https://open.spotify.com/album/27c9RUtzsuc6OQFgLvK7AY"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 287173,
       "name": "Una Como Tu",
       "url": "https://open.spotify.com/track/0EMt8VJkhRztiR2MRnjAK7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dif\u00edcil De Igualar",
+        "url": "https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 303413,
+      "name": "Dificil de igualar",
+      "url": "https://open.spotify.com/track/3vhej4TjgOt4d6OS4uMIVO"
     },
     {
       "added_at": null,

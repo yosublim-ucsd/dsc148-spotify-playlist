@@ -1,6 +1,6 @@
 {
   "description": "Iconic women from the history of the Blues. Cover: Bessie Smith",
-  "num_followers": 55024,
+  "num_followers": 55059,
   "original_name": "Queens of the Blues",
   "owner": {
     "name": "Spotify",
@@ -151,22 +151,6 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
-        "name": "The Chess Story 1957-1964",
-        "url": "https://open.spotify.com/album/6hLDuFXaABk2LySPldc5CB"
-      },
-      "artists": [
-        {
-          "name": "Betty James",
-          "url": "https://open.spotify.com/artist/4aBu3Gcusv3NI99mFiMI6v"
-        }
-      ],
-      "duration_ms": 171266,
-      "name": "I'm A Little Mixed Up",
-      "url": "https://open.spotify.com/track/4cLPvcojgZHpaxP7d5akhG"
-    },
-    {
-      "added_at": "2024-06-02 16:39:20",
-      "album": {
         "name": "Blues, Candy & Big Maybelle",
         "url": "https://open.spotify.com/album/0fr2opmItHMvdy1N01XcLh"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 155706,
       "name": "That's A Pretty Good Love",
       "url": "https://open.spotify.com/track/0rWLWREgsqvU5hC5nytLtN"
+    },
+    {
+      "added_at": "2024-06-02 16:39:20",
+      "album": {
+        "name": "The Chess Story 1957-1964",
+        "url": "https://open.spotify.com/album/6hLDuFXaABk2LySPldc5CB"
+      },
+      "artists": [
+        {
+          "name": "Betty James",
+          "url": "https://open.spotify.com/artist/4aBu3Gcusv3NI99mFiMI6v"
+        }
+      ],
+      "duration_ms": 171266,
+      "name": "I'm A Little Mixed Up",
+      "url": "https://open.spotify.com/track/4cLPvcojgZHpaxP7d5akhG"
     },
     {
       "added_at": "2024-06-02 16:39:20",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
-        "name": "I Ain't a Gamblin' Woman, I Got Such-A Rowdy Ways",
-        "url": "https://open.spotify.com/album/4kXm3wdVpJoxedVAknvV6D"
-      },
-      "artists": [
-        {
-          "name": "Clara Smith",
-          "url": "https://open.spotify.com/artist/2It5hXbGPFBNCCJQQr7iHH"
-        }
-      ],
-      "duration_ms": 195586,
-      "name": "It's Tight Like That",
-      "url": "https://open.spotify.com/track/5qBpfZS59XfbTnLtFDl3t4"
-    },
-    {
-      "added_at": "2024-06-02 16:39:20",
-      "album": {
         "name": "Hot Boppin Girls Vol. 1",
         "url": "https://open.spotify.com/album/6xeAubcR03QNp2ix1iEcfx"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 130649,
       "name": "Rock the Bop",
       "url": "https://open.spotify.com/track/3EhF0bDSHc4pwyjLEnHpBq"
+    },
+    {
+      "added_at": "2024-06-02 16:39:20",
+      "album": {
+        "name": "I Ain't a Gamblin' Woman, I Got Such-A Rowdy Ways",
+        "url": "https://open.spotify.com/album/4kXm3wdVpJoxedVAknvV6D"
+      },
+      "artists": [
+        {
+          "name": "Clara Smith",
+          "url": "https://open.spotify.com/artist/2It5hXbGPFBNCCJQQr7iHH"
+        }
+      ],
+      "duration_ms": 195586,
+      "name": "It's Tight Like That",
+      "url": "https://open.spotify.com/track/5qBpfZS59XfbTnLtFDl3t4"
     },
     {
       "added_at": "2024-06-02 16:39:20",
@@ -619,22 +619,18 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
-        "name": "Blues Book and Beyond",
-        "url": "https://open.spotify.com/album/7s8fUmFH40RAHThrPdx57E"
+        "name": "Sings Bessie Smith",
+        "url": "https://open.spotify.com/album/2Em2NnnKeKydoEMzlcSHr4"
       },
       "artists": [
         {
-          "name": "Ottilie Patterson",
-          "url": "https://open.spotify.com/artist/4915Sr7uNqzsnJqOLKOnrC"
-        },
-        {
-          "name": "Chris Barber's Jazz Band",
-          "url": "https://open.spotify.com/artist/48CW1rjPSOgZbMsV4LpqoP"
+          "name": "LaVern Baker",
+          "url": "https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw"
         }
       ],
-      "duration_ms": 240760,
-      "name": "Bad Spell Blues",
-      "url": "https://open.spotify.com/track/0GzE9pIJApHUOohOTGplUW"
+      "duration_ms": 285400,
+      "name": "Back Water Blues",
+      "url": "https://open.spotify.com/track/2ABW9AYFdHh1QTGYNVmurr"
     },
     {
       "added_at": "2024-06-02 16:39:20",
@@ -655,34 +651,22 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
-        "name": "Sings Bessie Smith",
-        "url": "https://open.spotify.com/album/2Em2NnnKeKydoEMzlcSHr4"
+        "name": "Blues Book and Beyond",
+        "url": "https://open.spotify.com/album/7s8fUmFH40RAHThrPdx57E"
       },
       "artists": [
         {
-          "name": "LaVern Baker",
-          "url": "https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw"
-        }
-      ],
-      "duration_ms": 285400,
-      "name": "Back Water Blues",
-      "url": "https://open.spotify.com/track/2ABW9AYFdHh1QTGYNVmurr"
-    },
-    {
-      "added_at": "2024-06-02 16:39:20",
-      "album": {
-        "name": "Hot Boppin Girls Vol. 1",
-        "url": "https://open.spotify.com/album/6xeAubcR03QNp2ix1iEcfx"
-      },
-      "artists": [
+          "name": "Ottilie Patterson",
+          "url": "https://open.spotify.com/artist/4915Sr7uNqzsnJqOLKOnrC"
+        },
         {
-          "name": "Irma Thomas",
-          "url": "https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv"
+          "name": "Chris Barber's Jazz Band",
+          "url": "https://open.spotify.com/artist/48CW1rjPSOgZbMsV4LpqoP"
         }
       ],
-      "duration_ms": 136849,
-      "name": "(You Can Have My Husband But) Don\u00b4t Mess with My Man",
-      "url": "https://open.spotify.com/track/78EABXHJPg76VVrxRENUn1"
+      "duration_ms": 240760,
+      "name": "Bad Spell Blues",
+      "url": "https://open.spotify.com/track/0GzE9pIJApHUOohOTGplUW"
     },
     {
       "added_at": "2024-06-02 16:39:20",
@@ -699,6 +683,22 @@
       "duration_ms": 161610,
       "name": "As Long as I\u00b4m Moving",
       "url": "https://open.spotify.com/track/40x5fk9CvdmZKeABp3hKfN"
+    },
+    {
+      "added_at": "2024-06-02 16:39:20",
+      "album": {
+        "name": "Hot Boppin Girls Vol. 1",
+        "url": "https://open.spotify.com/album/6xeAubcR03QNp2ix1iEcfx"
+      },
+      "artists": [
+        {
+          "name": "Irma Thomas",
+          "url": "https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv"
+        }
+      ],
+      "duration_ms": 136849,
+      "name": "(You Can Have My Husband But) Don\u00b4t Mess with My Man",
+      "url": "https://open.spotify.com/track/78EABXHJPg76VVrxRENUn1"
     },
     {
       "added_at": "2024-06-02 16:39:20",
@@ -799,18 +799,18 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
-        "name": "The Complete Okeh Sessions 1952-1955",
-        "url": "https://open.spotify.com/album/4ENn66pgc12XTse3zDQAxZ"
+        "name": "The Trixie's Blues (Original Songs Remastered)",
+        "url": "https://open.spotify.com/album/1mLIyePVxZJ3EZOWTNp6bP"
       },
       "artists": [
         {
-          "name": "Big Maybelle",
-          "url": "https://open.spotify.com/artist/7yJXicqUOMPY5Iofua29C0"
+          "name": "Trixie Smith",
+          "url": "https://open.spotify.com/artist/2PZOCtYZ3hDMpMVN8yIHc9"
         }
       ],
-      "duration_ms": 214293,
-      "name": "I'm Getting 'Long Alright",
-      "url": "https://open.spotify.com/track/7xhxXOiHwzKEcwQuTQgD9P"
+      "duration_ms": 165589,
+      "name": "Jack I'm Mellow",
+      "url": "https://open.spotify.com/track/7d7GT0WEAO9YFsOzampIZF"
     },
     {
       "added_at": "2024-06-02 16:39:20",
@@ -831,18 +831,18 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
-        "name": "The Trixie's Blues (Original Songs Remastered)",
-        "url": "https://open.spotify.com/album/1mLIyePVxZJ3EZOWTNp6bP"
+        "name": "The Complete Okeh Sessions 1952-1955",
+        "url": "https://open.spotify.com/album/4ENn66pgc12XTse3zDQAxZ"
       },
       "artists": [
         {
-          "name": "Trixie Smith",
-          "url": "https://open.spotify.com/artist/2PZOCtYZ3hDMpMVN8yIHc9"
+          "name": "Big Maybelle",
+          "url": "https://open.spotify.com/artist/7yJXicqUOMPY5Iofua29C0"
         }
       ],
-      "duration_ms": 165589,
-      "name": "Jack I'm Mellow",
-      "url": "https://open.spotify.com/track/7d7GT0WEAO9YFsOzampIZF"
+      "duration_ms": 214293,
+      "name": "I'm Getting 'Long Alright",
+      "url": "https://open.spotify.com/track/7xhxXOiHwzKEcwQuTQgD9P"
     },
     {
       "added_at": "2024-06-02 16:39:20",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
-        "name": "Anthology: The Deluxe Collection (Remastered)",
-        "url": "https://open.spotify.com/album/29YtW2554LjHMRYR8ZPTQp"
-      },
-      "artists": [
-        {
-          "name": "Sister Rosetta Tharpe",
-          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
-        }
-      ],
-      "duration_ms": 156373,
-      "name": "Rock Me - Remastered",
-      "url": "https://open.spotify.com/track/7kjSEttzgU84VTgh6zI9s0"
-    },
-    {
-      "added_at": "2024-06-02 16:39:20",
-      "album": {
         "name": "Raunchy Business: Hot Nuts & Lollypops",
         "url": "https://open.spotify.com/album/3cROUoUhbx4nqE1dUyYadx"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 186733,
       "name": "Butcher Shop Blues",
       "url": "https://open.spotify.com/track/3r4yrl1dkGdMFfd6xfXZqr"
+    },
+    {
+      "added_at": "2024-06-02 16:39:20",
+      "album": {
+        "name": "Anthology: The Deluxe Collection (Remastered)",
+        "url": "https://open.spotify.com/album/29YtW2554LjHMRYR8ZPTQp"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "duration_ms": 156373,
+      "name": "Rock Me - Remastered",
+      "url": "https://open.spotify.com/track/7kjSEttzgU84VTgh6zI9s0"
     },
     {
       "added_at": "2024-06-02 16:39:20",

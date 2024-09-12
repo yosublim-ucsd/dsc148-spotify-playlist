@@ -3113,6 +3113,24 @@
     },
     {
       "album": {
+        "name": "Fade/Faded",
+        "url": "https://open.spotify.com/album/4YUCp7sHv6OuJgJcO3xR3T"
+      },
+      "artists": [
+        {
+          "name": "Otherside",
+          "url": "https://open.spotify.com/artist/1tgCXu3R4Q87v25CaUKaJf"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78727,
+      "name": "Fade",
+      "url": "https://open.spotify.com/track/59F6QkEsNpLl9mGiUcpeYJ"
+    },
+    {
+      "album": {
         "name": "Faded Corners (aus Reprise)",
         "url": "https://open.spotify.com/album/1zfCHf4nYBk1ILESV5jqVk"
       },
@@ -9782,8 +9800,8 @@
           "url": "https://open.spotify.com/artist/6BUWT5v73giW6phUFLTcbx"
         },
         {
-          "name": "\u4e45\u4fdd\u7530\u9ebb\u7434",
-          "url": "https://open.spotify.com/artist/0YgNTrOUT8pFW7HehCR5mI"
+          "name": "Makoto Kubota",
+          "url": "https://open.spotify.com/artist/5QlBWlYKw2R1O2NUAV6rnA"
         }
       ],
       "date_added": "2024-08-25",
@@ -11108,7 +11126,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 163693,
       "name": "White Sand",
       "url": "https://open.spotify.com/track/4rNeeZnRjs0dCxpZ6Jdpfg"

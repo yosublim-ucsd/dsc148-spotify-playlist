@@ -1989,6 +1989,28 @@
     },
     {
       "album": {
+        "name": "Faithless",
+        "url": "https://open.spotify.com/album/0mdOEm115gzcsxtjgHiTQP"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        },
+        {
+          "name": "Erin LeCount",
+          "url": "https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215834,
+      "name": "Faithless",
+      "url": "https://open.spotify.com/track/75WGKUulm21jqVSoZETrQT"
+    },
+    {
+      "album": {
         "name": "Faust",
         "url": "https://open.spotify.com/album/1hQzzeC9dpnh7HU29ipXRd"
       },
@@ -2356,7 +2378,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 205897,
       "name": "Girls",
       "url": "https://open.spotify.com/track/5XWwqKNVlQO07sdngDh8iL"
@@ -3213,6 +3235,24 @@
     },
     {
       "album": {
+        "name": "Just A Western",
+        "url": "https://open.spotify.com/album/1vVnnj9S99ub44XnSknEXZ"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166521,
+      "name": "Just A Western - Edit",
+      "url": "https://open.spotify.com/track/32M6UpNkj8FOfbyQiF4GOJ"
+    },
+    {
+      "album": {
         "name": "Kenneth",
         "url": "https://open.spotify.com/album/4C4t410jpJg0H7pBptTuN4"
       },
@@ -3848,7 +3888,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 231708,
       "name": "Method Actor",
       "url": "https://open.spotify.com/track/6I9GeNnqNqQ5Q8DSrFkkvd"

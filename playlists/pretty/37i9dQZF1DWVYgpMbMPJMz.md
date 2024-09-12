@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now\. Cover:  <a href="spotify:artist:0wczmL4iUleqcy10Ek5Eyh">JWLKRS Worship</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 989,678 likes - 99 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 989,756 likes - 99 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 20 | [As For Me And My House](https://open.spotify.com/track/7h5gGePVD30yqhh7WIu3lC) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4), [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [As For Me And My House](https://open.spotify.com/album/2ZTI4YFIoKGoWPHcTLGBoT) | 3:35 |
 | 21 | [Endless Well / Show Me Your Face](https://open.spotify.com/track/6RDfVNCRkNkoXPpncyHTkH) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Brett Lee Miller](https://open.spotify.com/artist/4yPKSKUdN0ah5213zrmEKF), [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [Sounds From The House \- Vol\. 1](https://open.spotify.com/album/5OmEixUzkXth6PVgD7OAoJ) | 5:59 |
 | 22 | [Trample \(with Jon Reddick\)](https://open.spotify.com/track/1oBAvcjcsTqi56hg5E0woo) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz), [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [Trample \(with Jon Reddick\)](https://open.spotify.com/album/5U1XeM9ZrTVUY6fcyQOxfn) | 3:49 |
-| 23 | [There Is Only One Name \- Live](https://open.spotify.com/track/3shaMTWCCgZicNa7zq2wfB) | [Mission House](https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C) | [Family Nights, Vol\. 2: Day For Singing \- Live](https://open.spotify.com/album/75ElVjeppeJFT2d4FHloew) | 6:01 |
+| 23 | [There Is Only One Name \- Live](https://open.spotify.com/track/3shaMTWCCgZicNa7zq2wfB) | [Mission House](https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C), [Abby Siler](https://open.spotify.com/artist/4JmRxJQC4R65Po60AERzGG) | [Family Nights, Vol\. 2: Day For Singing \- Live](https://open.spotify.com/album/75ElVjeppeJFT2d4FHloew) | 6:01 |
 | 24 | [Wash Over Me \- Live](https://open.spotify.com/track/5iIcJhksyVDWo72yag8AYS) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Wash Over Me \(Live\)](https://open.spotify.com/album/2OdJ4uS3VHMruiNKZl4X1Y) | 7:49 |
 | 25 | [The Earth Sings Worthy \- Live](https://open.spotify.com/track/2TDpmf1nPiu7drcI7LLJzW) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [The Earth Sings Worthy \(Live\)](https://open.spotify.com/album/1pLCp06fDlsbHhXEZjqIy6) | 7:25 |
 | 26 | [Mirror](https://open.spotify.com/track/4MwrKy2fv48CkqbHvmddbb) | [LO Worship](https://open.spotify.com/artist/3W1GhZUgWMZBqYwH42Ycuq), [Sadie Robertson Huff](https://open.spotify.com/artist/0nUAd06FDt2FuANL4m8LtI), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [Mirror](https://open.spotify.com/album/5JGAg34L5cYJO4NyHLnpj1) | 5:05 |

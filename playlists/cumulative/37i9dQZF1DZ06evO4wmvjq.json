@@ -228,6 +228,28 @@
           "url": "https://open.spotify.com/artist/3x6qJB8eMJybBLKmqKKVtl"
         }
       ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326000,
+      "name": "A Spark from the Infinite - part 1",
+      "url": "https://open.spotify.com/track/5gch5UySgrXhFRicoEWwJ1"
+    },
+    {
+      "album": {
+        "name": "No Man's Land",
+        "url": "https://open.spotify.com/album/3tK0ZIMXzEbme2OQK1bpP0"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        },
+        {
+          "name": "Krishna Bhatt",
+          "url": "https://open.spotify.com/artist/3x6qJB8eMJybBLKmqKKVtl"
+        }
+      ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
       "date_removed": "2024-07-29",
@@ -442,7 +464,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 293573,
       "name": "Barabas",
       "url": "https://open.spotify.com/track/1lc7hX8e7HtG3yMSTqukkc"
@@ -1524,7 +1546,7 @@
       ],
       "date_added": "2023-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 390000,
       "name": "Jewel Movement",
       "url": "https://open.spotify.com/track/7guINxNSlx0litDHH5FqBc"
@@ -1754,7 +1776,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-27",
+      "date_removed": null,
       "duration_ms": 276146,
       "name": "Llanto",
       "url": "https://open.spotify.com/track/0SI9mmwFW7NGuF2MCecQsu"
@@ -1776,7 +1798,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-08",
+      "date_removed": null,
       "duration_ms": 102076,
       "name": "Long Bus Ride",
       "url": "https://open.spotify.com/track/2u3qI1WiuzNfu7pgbCvo6L"
@@ -3028,7 +3050,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 447063,
       "name": "The Faquir",
       "url": "https://open.spotify.com/track/4Tm5zrS91ImUe2y8HoF09d"

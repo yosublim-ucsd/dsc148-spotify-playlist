@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Discover new favorites or tomorrow's hits today. Cover: Tommy Richman",
+  "description": "Discover new favorites or tomorrow's hits today. Cover: Arash Buana",
   "name": "Pop Rising Singapore & Malaysia",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 189192,
       "name": "15 MINUTES",
       "url": "https://open.spotify.com/track/2Dazu1HgFj1geJOfKKFOpf"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 133805,
       "name": "360",
       "url": "https://open.spotify.com/track/4w2GLmK2wnioVnb5CPQeex"
@@ -248,6 +248,32 @@
       "duration_ms": 151739,
       "name": "Apple",
       "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
+    },
+    {
+      "album": {
+        "name": "Are You Happy Now",
+        "url": "https://open.spotify.com/album/0ZR388M1qoF9cY4cGHH5jy"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "\u5e0c\u6797\u5a1c\u4f9d\u2022\u9ad8",
+          "url": "https://open.spotify.com/artist/2BzEJybfRAL6DxCeYW2e7G"
+        },
+        {
+          "name": "Crazy Donkey",
+          "url": "https://open.spotify.com/artist/4FFIm6lcL4VDCTWteKwspi"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136062,
+      "name": "Are You Happy Now",
+      "url": "https://open.spotify.com/track/01kmeYIgj9UjMOrAbSXO0a"
     },
     {
       "album": {
@@ -580,7 +606,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 197066,
       "name": "Chasin' (feat. Meghan Trainor)",
       "url": "https://open.spotify.com/track/4FtJXKZofhG9jt9reeahSg"
@@ -616,7 +642,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 162615,
       "name": "clouds",
       "url": "https://open.spotify.com/track/1Gp3vNi64EY7sEStAZ51en"
@@ -828,7 +854,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 173361,
       "name": "Dirty (feat. Teddy Swims)",
       "url": "https://open.spotify.com/track/2ZAEbGGj1yXJRCoVaEn16K"
@@ -850,6 +876,28 @@
       "duration_ms": 181714,
       "name": "Divine",
       "url": "https://open.spotify.com/track/30FlUAmPFIns6SaAeoLkQi"
+    },
+    {
+      "album": {
+        "name": "Don't Lie",
+        "url": "https://open.spotify.com/album/4OjKYMqojvunC37Usp9Myf"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148101,
+      "name": "Don't Lie",
+      "url": "https://open.spotify.com/track/5is9ECympHEpAyTw22IDC5"
     },
     {
       "album": {
@@ -904,6 +952,24 @@
       "duration_ms": 187263,
       "name": "drunk text",
       "url": "https://open.spotify.com/track/6EIMUjQ7Q8Zr2VtIUik4He"
+    },
+    {
+      "album": {
+        "name": "Ego",
+        "url": "https://open.spotify.com/album/6uHcRBlMpgXSXv0I0rpxBx"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198498,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/1mGM4dJe4v9DhBY3pRSpRj"
     },
     {
       "album": {
@@ -1259,6 +1325,24 @@
     },
     {
       "album": {
+        "name": "C,XOXO - Magic City Edition",
+        "url": "https://open.spotify.com/album/6mym3v2HWcsH1oBN6A7SPm"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216471,
+      "name": "GODSPEED",
+      "url": "https://open.spotify.com/track/1HA5rqn1k4YQnJ9XxsnApd"
+    },
+    {
+      "album": {
         "name": "Short n' Sweet",
         "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
       },
@@ -1324,7 +1408,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 182093,
       "name": "Ground",
       "url": "https://open.spotify.com/track/5O0EFJLBBQb0byw3t6ycw9"
@@ -1390,6 +1474,24 @@
       "duration_ms": 164011,
       "name": "Guy For That (Feat. Luke Combs)",
       "url": "https://open.spotify.com/track/5crxqqibcvoOQQgg4HjAFQ"
+    },
+    {
+      "album": {
+        "name": "OUCH",
+        "url": "https://open.spotify.com/album/0RE42aBn4kBL7E020tvhQl"
+      },
+      "artists": [
+        {
+          "name": "HONNE",
+          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234132,
+      "name": "HAPPY DAY",
+      "url": "https://open.spotify.com/track/3gtCLTVYbsvSj8I2kBZHty"
     },
     {
       "album": {
@@ -1509,6 +1611,24 @@
     },
     {
       "album": {
+        "name": "life update",
+        "url": "https://open.spotify.com/album/2N4ErYoIxBSIXOTMp7sYtf"
+      },
+      "artists": [
+        {
+          "name": "Arash Buana",
+          "url": "https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245647,
+      "name": "hey, i'm tired",
+      "url": "https://open.spotify.com/track/1vkTwwAwzVVin3wqye5w1k"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3rYLPJVwn2FzXnG5oI6noQ"
       },
@@ -1538,7 +1658,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 184841,
       "name": "HOT TO GO!",
       "url": "https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7"
@@ -1818,7 +1938,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 147071,
       "name": "Jump",
       "url": "https://open.spotify.com/track/0ve0CavjqrUqVmZ605RhTV"
@@ -2050,7 +2170,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 166451,
       "name": "Messy Girl",
       "url": "https://open.spotify.com/track/6vAdrRJEkTlDmS2MxKPWzC"
@@ -2126,6 +2246,28 @@
       "duration_ms": 176027,
       "name": "Nasty",
       "url": "https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4"
+    },
+    {
+      "album": {
+        "name": "Neva Play (feat. RM of BTS)",
+        "url": "https://open.spotify.com/album/0Wmt50XH9EZvSuML0t1hlb"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157173,
+      "name": "Neva Play (feat. RM of BTS)",
+      "url": "https://open.spotify.com/track/2ZqTbIID9vFPTXaGyzbb4q"
     },
     {
       "album": {
@@ -2404,7 +2546,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 195122,
       "name": "Pour Me A Drink (Feat. Blake Shelton)",
       "url": "https://open.spotify.com/track/5ZLL6wYXeqg0k35ZkDRfhZ"
@@ -2588,7 +2730,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 163228,
       "name": "Roots",
       "url": "https://open.spotify.com/track/6DBpDTvXhBbcfpOa1QrVYo"
@@ -2606,7 +2748,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 196852,
       "name": "Ruined Me",
       "url": "https://open.spotify.com/track/6EPxltlaBzRzoe2tQtsyvb"
@@ -2696,7 +2838,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 255636,
       "name": "Show Pony",
       "url": "https://open.spotify.com/track/4O05ZiEmlfUFPhvafHqcIO"
@@ -2790,7 +2932,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 230199,
       "name": "Somebody Save Me",
       "url": "https://open.spotify.com/track/4HMUrFl8y6rQCzEbaGEkcj"
@@ -2931,6 +3073,24 @@
     },
     {
       "album": {
+        "name": "Sunlight!",
+        "url": "https://open.spotify.com/album/2SeBLWi60SECxWFI8LRgeR"
+      },
+      "artists": [
+        {
+          "name": "elijah woods",
+          "url": "https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149093,
+      "name": "Sunlight!",
+      "url": "https://open.spotify.com/track/0wAE8X8R3A0WqIBTuxwRvF"
+    },
+    {
+      "album": {
         "name": "eternal sunshine (slightly deluxe)",
         "url": "https://open.spotify.com/album/5Csjy4XeA7KnizkhIvI7y2"
       },
@@ -3007,6 +3167,24 @@
     },
     {
       "album": {
+        "name": "Texas",
+        "url": "https://open.spotify.com/album/17VJHcUZKAcfT2xyrlSbJQ"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188901,
+      "name": "Texas",
+      "url": "https://open.spotify.com/track/607vRhDNPs67nXVgqk4J1Z"
+    },
+    {
+      "album": {
         "name": "Revenge",
         "url": "https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS"
       },
@@ -3066,6 +3244,24 @@
       "duration_ms": 158400,
       "name": "the cutest pair",
       "url": "https://open.spotify.com/track/0VVD95cRAppHSOGPYrfIG2"
+    },
+    {
+      "album": {
+        "name": "The Emptiness Machine",
+        "url": "https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190427,
+      "name": "The Emptiness Machine",
+      "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
     },
     {
       "album": {
@@ -3298,7 +3494,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 211146,
       "name": "Under The Same Moon",
       "url": "https://open.spotify.com/track/5FjC46LcoJ1rTtHxMoOPFL"
@@ -3498,7 +3694,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 206355,
       "name": "without you",
       "url": "https://open.spotify.com/track/2OLV8r3uk30q6taFSWy6xE"
@@ -3538,7 +3734,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 163000,
       "name": "WOMAN\u2019S WORLD",
       "url": "https://open.spotify.com/track/7hDvcL88hXoofWcxPGmBpW"

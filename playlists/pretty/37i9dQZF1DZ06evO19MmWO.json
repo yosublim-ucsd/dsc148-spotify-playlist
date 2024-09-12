@@ -1,12 +1,12 @@
 {
   "description": "This is Little Walter. The essential tracks, all in one playlist.",
-  "num_followers": 6453,
+  "num_followers": 6454,
   "original_name": "This Is Little Walter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zt46gAAAAACdCAU/FMHwaZ5yadeakHtD",
+  "snapshot_id": "Zt+MAAAAAACnstbVabp6e6F1IN44bg63",
   "tracks": [
     {
       "added_at": null,
@@ -451,22 +451,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anthology: His Early Years (Remastered)",
-        "url": "https://open.spotify.com/album/77Zjw39g47Y37bPn3gOVgR"
+        "name": "Super Blues",
+        "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
       },
       "artists": [
         {
-          "name": "Jimmy Rogers",
-          "url": "https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0"
+          "name": "Bo Diddley",
+          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
+        },
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         },
         {
           "name": "Little Walter",
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 166453,
-      "name": "That's All Right - Remastered",
-      "url": "https://open.spotify.com/track/5fsdMcMEmQGSDTyjXNMuZz"
+      "duration_ms": 250800,
+      "name": "You Don't Love Me",
+      "url": "https://open.spotify.com/track/2mk91c3gWWezEG8UPN3LWq"
     },
     {
       "added_at": null,
@@ -503,26 +507,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Super Blues",
-        "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
+        "name": "Anthology: His Early Years (Remastered)",
+        "url": "https://open.spotify.com/album/77Zjw39g47Y37bPn3gOVgR"
       },
       "artists": [
         {
-          "name": "Bo Diddley",
-          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
-        },
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+          "name": "Jimmy Rogers",
+          "url": "https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0"
         },
         {
           "name": "Little Walter",
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 250800,
-      "name": "You Don't Love Me",
-      "url": "https://open.spotify.com/track/2mk91c3gWWezEG8UPN3LWq"
+      "duration_ms": 166453,
+      "name": "That's All Right - Remastered",
+      "url": "https://open.spotify.com/track/5fsdMcMEmQGSDTyjXNMuZz"
     },
     {
       "added_at": null,

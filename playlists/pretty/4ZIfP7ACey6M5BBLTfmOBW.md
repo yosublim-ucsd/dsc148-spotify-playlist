@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4ZIfP7ACey6M5BBLTfmOBW.md) - [plain]
 
 > All the freshest hip\-hop heaters in one list! Cover: Central Cee.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 29,451 likes - 60 songs - 2 hr 36 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 29,450 likes - 60 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/4ZIfP7ACey6M5BBLTfmOBW.md) - [plain]
 | 4 | [Skyfall \(feat\. Young Thug\)](https://open.spotify.com/track/3QYCCpfbnQ52NOUIVWVF2w) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [DAYS BEFORE RODEO](https://open.spotify.com/album/0XwVkzDyxfDSiWzBtVKn0K) | 5:14 |
 | 5 | [Can't Hold Me Down](https://open.spotify.com/track/59UWPiUEQPd0jVVzikHyoV) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Doodles](https://open.spotify.com/artist/6U0aWTZ4llc1ICfyFPtIzd), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU) | [Can't Hold Me Down](https://open.spotify.com/album/0p8DBORvuoUyEa2GrUFLff) | 3:17 |
 | 6 | [LET YA HAIR DOWN \(feat\. Drezus\)](https://open.spotify.com/track/5J6TeC1lAeFviV6SjN05qG) | [Snotty Nose Rez Kids](https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5), [Drezus](https://open.spotify.com/artist/08G2YWw73h9tgNN1CcqTOZ) | [LET YA HAIR DOWN \(feat\. Drezus\)](https://open.spotify.com/album/5HMduZONOJCywSqtWRqT0R) | 4:01 |
-| 7 | [Wet Dreams \(feat\. coop & gg\)](https://open.spotify.com/track/20LfID5lY83tDZAHZqpFtC) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [coop](https://open.spotify.com/artist/39Fgy3DGHvOP32RcQ8U4bv), [G G](https://open.spotify.com/artist/6hepB9skRNYPl9CkOpwKGj) | [Wet Dreams \(feat\. coop & gg\)](https://open.spotify.com/album/65NAjD3jks0YWWLVkl2VnO) | 2:39 |
+| 7 | [Wet Dreams \(feat\. coop & gg\)](https://open.spotify.com/track/20LfID5lY83tDZAHZqpFtC) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [coop](https://open.spotify.com/artist/39Fgy3DGHvOP32RcQ8U4bv), [gg](https://open.spotify.com/artist/12XC7Vu5zRQ9Q8UFmX6Fnw) | [Wet Dreams \(feat\. coop & gg\)](https://open.spotify.com/album/65NAjD3jks0YWWLVkl2VnO) | 2:39 |
 | 8 | [Billion Streams Freestyle](https://open.spotify.com/track/3rxRWyJrdt6QoWxtFBDiPp) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Bolide Noir](https://open.spotify.com/album/6ujcbx6rGcYFkLw6epuWHW) | 2:06 |
 | 9 | [Nostalgia \(feat\. Gray Hawken\)](https://open.spotify.com/track/2G07BuQr57cyd92Xu74VFS) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Gray Hawken](https://open.spotify.com/artist/6qFnkXKWazlAU0OPb4Q4a1) | [Nostalgia \(feat\. Gray Hawken\)](https://open.spotify.com/album/7Mj5Jdqk2l15XkJqloDpsS) | 2:09 |
 | 10 | [4AM](https://open.spotify.com/track/5T0OwBv2hItWQkKnzvFkNF) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [4AM](https://open.spotify.com/album/7I80383Bwa36xMdj5TamAx) | 1:49 |

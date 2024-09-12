@@ -2,7 +2,7 @@
 
 ### [This Is Fatherson](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4wEnux)
 
-> This Is Fatherson\. Los temas esenciales, todos en una lista.
+> This is Fatherson\. أغانٍ رائعة في قائمة أغانٍ واحدة.
 
 37 songs - 2 hr 15 min
 

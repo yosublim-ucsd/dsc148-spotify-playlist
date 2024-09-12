@@ -1,12 +1,12 @@
 {
-  "description": "This is Calibre 50. The essential tracks, all in one playlist.",
-  "num_followers": 680376,
+  "description": "This Is Calibre 50. Los temas esenciales, todos en una lista.",
+  "num_followers": 680452,
   "original_name": "This Is Calibre 50",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zt46gAAAAABCTTPM+UWrrPeLxycBi93H",
+  "snapshot_id": "Zt+MAAAAAADXxOetZF5qYwWYE9KkmMJO",
   "tracks": [
     {
       "added_at": null,
@@ -191,18 +191,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Buen Ejemplo",
-        "url": "https://open.spotify.com/album/4FNrB1vD9kdIUQpoTPG5K3"
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/67FKNGl2Yujo7UFeDNajHt"
       },
       "artists": [
         {
           "name": "Calibre 50",
           "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        },
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 286920,
-      "name": "El Ni\u00f1o Sicario",
-      "url": "https://open.spotify.com/track/4gLEbXINCGCMmqfnWa5iqw"
+      "duration_ms": 168653,
+      "name": "Qu\u00e9 Tiene De Malo",
+      "url": "https://open.spotify.com/track/06Od4Aeme6RXm1nNVpgxIr"
     },
     {
       "added_at": null,
@@ -223,22 +227,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/67FKNGl2Yujo7UFeDNajHt"
+        "name": "El Buen Ejemplo",
+        "url": "https://open.spotify.com/album/4FNrB1vD9kdIUQpoTPG5K3"
       },
       "artists": [
         {
           "name": "Calibre 50",
           "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        },
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 168653,
-      "name": "Qu\u00e9 Tiene De Malo",
-      "url": "https://open.spotify.com/track/06Od4Aeme6RXm1nNVpgxIr"
+      "duration_ms": 286920,
+      "name": "El Ni\u00f1o Sicario",
+      "url": "https://open.spotify.com/track/4gLEbXINCGCMmqfnWa5iqw"
     },
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Guerra De Poder",
-        "url": "https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 261973,
-      "name": "Corrido De Juanito",
-      "url": "https://open.spotify.com/track/0ehx1p1HMn7NMKisZaO9oL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/67FKNGl2Yujo7UFeDNajHt"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 210440,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/3imJHohXBxDGovFRQ75dUt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Guerra De Poder",
+        "url": "https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 261973,
+      "name": "Corrido De Juanito",
+      "url": "https://open.spotify.com/track/0ehx1p1HMn7NMKisZaO9oL"
     },
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Recompensa",
-        "url": "https://open.spotify.com/album/5YMCgTdT06cMlFlznzO2fo"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 138320,
-      "name": "Ni Que Estuvieras Tan Buena",
-      "url": "https://open.spotify.com/track/3ElOgE8UIHSCqQu1L4FBco"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Buen Ejemplo",
         "url": "https://open.spotify.com/album/4FNrB1vD9kdIUQpoTPG5K3"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 148186,
       "name": "Gente Batallosa",
       "url": "https://open.spotify.com/track/71gk97Oadf8MPN9fCMP9cP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Recompensa",
+        "url": "https://open.spotify.com/album/5YMCgTdT06cMlFlznzO2fo"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 138320,
+      "name": "Ni Que Estuvieras Tan Buena",
+      "url": "https://open.spotify.com/track/3ElOgE8UIHSCqQu1L4FBco"
     },
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Simplemente Gracias",
-        "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 191253,
-      "name": "Sali\u00f3 A La Perfecci\u00f3n",
-      "url": "https://open.spotify.com/track/7L1hiumuXST9N4YgaF0JHs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desde El Rancho",
         "url": "https://open.spotify.com/album/3JGd3lmLv4Z7pQUZPu6EnH"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 156680,
       "name": "Deja De Joder",
       "url": "https://open.spotify.com/track/1Y5rwy1DeOqZ6Q13C4IVF6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Simplemente Gracias",
+        "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 191253,
+      "name": "Sali\u00f3 A La Perfecci\u00f3n",
+      "url": "https://open.spotify.com/track/7L1hiumuXST9N4YgaF0JHs"
     },
     {
       "added_at": null,

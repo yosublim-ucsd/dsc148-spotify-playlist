@@ -284,7 +284,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 276500,
       "name": "Big Men - Chapter 3",
       "url": "https://open.spotify.com/track/2Gz1W4urkGIDOxAdbVP6Lm"
@@ -422,10 +422,28 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 212727,
       "name": "Door Door",
       "url": "https://open.spotify.com/track/1exPCMH8g9oZLMRH6neVG1"
+    },
+    {
+      "album": {
+        "name": "Magical",
+        "url": "https://open.spotify.com/album/0Lp0XnJLL5z4Q51J1tXIKb"
+      },
+      "artists": [
+        {
+          "name": "Nimrat Khaira",
+          "url": "https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "Doubts",
+      "url": "https://open.spotify.com/track/4UX3EfWupj4gu9dGd3Yt0a"
     },
     {
       "album": {
@@ -978,7 +996,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 169032,
       "name": "Kuwait Wala Koka",
       "url": "https://open.spotify.com/track/6rqCGWzwW10e370MIA4lWW"
@@ -1146,6 +1164,24 @@
       "duration_ms": 151384,
       "name": "Main Tenu",
       "url": "https://open.spotify.com/track/6my9ChoBE2Ozs6oVerPzbX"
+    },
+    {
+      "album": {
+        "name": "Main Teri Hoyi",
+        "url": "https://open.spotify.com/album/4t3wYh3M30mRw48ZFYYqPj"
+      },
+      "artists": [
+        {
+          "name": "Amaan Bhullar",
+          "url": "https://open.spotify.com/artist/3k6eT2Sr5ov9qiwZZ7i9wK"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196097,
+      "name": "Main Teri Hoyi",
+      "url": "https://open.spotify.com/track/3ZUzmgQmdAgdiCbVSotcsO"
     },
     {
       "album": {
@@ -1560,6 +1596,28 @@
       "duration_ms": 208124,
       "name": "Rooh",
       "url": "https://open.spotify.com/track/2HuoVplD1lLM8WYUVDd3gE"
+    },
+    {
+      "album": {
+        "name": "Rool Ditta Ee",
+        "url": "https://open.spotify.com/album/4D7XfY3vTeavXDxFndrvHS"
+      },
+      "artists": [
+        {
+          "name": "Asif Masood",
+          "url": "https://open.spotify.com/artist/6zVaELKGjvE7kA3bCzTsBl"
+        },
+        {
+          "name": "Saba Riaz",
+          "url": "https://open.spotify.com/artist/4zmPgXIIr38vLo5N2TRntN"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194742,
+      "name": "Rool Ditta Ee",
+      "url": "https://open.spotify.com/track/2tPM0OjAwMKMACNJeY4ThC"
     },
     {
       "album": {

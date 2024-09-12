@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: BoyWithUke.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,108 likes - 93 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,140 likes - 93 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 16 | [Dancing with my phone](https://open.spotify.com/track/4Zh9zZmEBoDLTKQRjXwict) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Dancing with my phone](https://open.spotify.com/album/3IHG7xkPLLgsm1hSeMlxLH) | 3:23 |
 | 17 | [Be More](https://open.spotify.com/track/4bp4kwe29qY9PBdrEgSa53) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Be More](https://open.spotify.com/album/3td8YUGhx5odYjMPV7HPNF) | 3:51 |
 | 18 | [Separate Ways \(feat\. The Marías\)](https://open.spotify.com/track/4fwPxcF4rZQIBZr1h6Qd2S) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Separate Ways \(feat\. The Marías\)](https://open.spotify.com/album/0RPUD4sJF4iHT97MKwyyNz) | 3:26 |
-| 19 | [WE COULD BE](https://open.spotify.com/track/5GkPPp1nBA28G4LSrj1DVe) | [MARO](https://open.spotify.com/artist/4IgRDYUNOfDQ64aaquFdtw), [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4) | [WE COULD BE](https://open.spotify.com/album/1HdQD8XuoZx6JeJLRnV3c5) | 3:15 |
+| 19 | [WE COULD BE](https://open.spotify.com/track/5GkPPp1nBA28G4LSrj1DVe) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn), [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4) | [WE COULD BE](https://open.spotify.com/album/1HdQD8XuoZx6JeJLRnV3c5) | 3:15 |
 | 20 | [Tadow](https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Lady Lady](https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt) | 5:01 |
 | 21 | [I'll Be Mine](https://open.spotify.com/track/6oNqOzzH5P3X8m7qE7GgbO) | [flu](https://open.spotify.com/artist/6saBjzFSNu2pvTcfWWE04R), [Numcha](https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d) | [I'll Be Mine](https://open.spotify.com/album/4inuQ9tn1ve7GOAsvPD2QC) | 3:30 |
 | 22 | [Mr\. Feelgood](https://open.spotify.com/track/7wYA8mWTOnHltpaxBU7rKH) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [Mr\. Feelgood](https://open.spotify.com/album/0vqeG4DVJYoU0YcfcNnfQF) | 3:50 |

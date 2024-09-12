@@ -2,9 +2,9 @@
 
 ### [Fresh Finds GSA](https://open.spotify.com/playlist/37i9dQZF1DX2ddCYH6QIK5)
 
-> The best new music by independent artists and labels, updated every Wednesday\. Cover:  Die Schere zwischen Arm und Reich, Artwork: Isu Kim.
+> The best new music by independent artists and labels, updated every Wednesday\. Cover:  Quicche, Artwork: Isu Kim.
 
-1,195 songs - 2 day 20 hr 23 min
+1,198 songs - 2 day 20 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,7 @@
 | [Brenn Mich Aus](https://open.spotify.com/track/01bV2KkMJZw5MzAP0QDTy5) | [WOHINN](https://open.spotify.com/artist/7BW1zR1tn0viUXcb8hsQk6) | [Brenn Mich Aus](https://open.spotify.com/album/57RzGLeYSgPjHaINGjctlQ) | 3:03 | 2024-02-21 | 2024-07-25 |
 | [Brich mein Herz](https://open.spotify.com/track/34ekTuJitl8eg2hhdIXmxv) | [KRAMER](https://open.spotify.com/artist/36mCd8l9ElmLnLWgNZ0XLY) | [Brich mein Herz](https://open.spotify.com/album/0WOdKAHtxzb9OrOSxJ1fRt) | 2:41 | 2022-05-18 | 2022-06-01 |
 | [Bring The Beat Back](https://open.spotify.com/track/0EqAZEQA660aYDZAJQvOfX) | [Elisa Elisa](https://open.spotify.com/artist/2Fxcs2AZB1EkSjLon18RHI) | [Infused Roots](https://open.spotify.com/album/3pLdnYGxkDa6yOBZHLvNEH) | 3:12 | 2022-06-08 | 2022-06-30 |
-| [Bring The Witches Back](https://open.spotify.com/track/3sJHkSkno3qYZkXemkoNkW) | [Mel D](https://open.spotify.com/artist/5UXFqyAj973tF87Entr44J) | [Bring The Witches Back](https://open.spotify.com/album/5J9P9buPntwTG6hgWShoYc) | 4:14 | 2024-07-24 |  |
+| [Bring The Witches Back](https://open.spotify.com/track/3sJHkSkno3qYZkXemkoNkW) | [Mel D](https://open.spotify.com/artist/5UXFqyAj973tF87Entr44J) | [Bring The Witches Back](https://open.spotify.com/album/5J9P9buPntwTG6hgWShoYc) | 4:14 | 2024-07-24 | 2024-09-12 |
 | [Buchstabiere Leonie](https://open.spotify.com/track/1BkNxB6qDnbgHRjHXy9pj3) | [Ona](https://open.spotify.com/artist/6BmqNgPvi0shd76X7uIGGr) | [Buchstabiere Leonie](https://open.spotify.com/album/3L79Enm62o7wIVT4e00RMu) | 3:15 | 2023-07-26 | 2023-08-17 |
 | [Build a home](https://open.spotify.com/track/2HQXMaMUL5dTVwQmLClzE2) | [Mimi](https://open.spotify.com/artist/1L2ghKGdjCxlemka3gOyif) | [Build a home](https://open.spotify.com/album/1AIg4j1RNQFjNjNALSjKJ4) | 3:01 | 2023-10-04 | 2024-01-11 |
 | [Built For This](https://open.spotify.com/track/6j5ZJ2jF4mPePeaBnGDqGt) | [KRYSTOF](https://open.spotify.com/artist/7CF7fNQEs6zywjgKSLGE4R) | [Built For This](https://open.spotify.com/album/43fSRuGKZtboo0MJwy9eGG) | 3:10 | 2023-07-12 | 2023-07-27 |
@@ -226,6 +226,7 @@
 | [Court Of Love](https://open.spotify.com/track/02bwDpPdC8SQGp5shMidO9) | [Bad Hammer](https://open.spotify.com/artist/51XuuNQadOwjdUjtW3nhfA) | [Court Of Love](https://open.spotify.com/album/58sGfvNN7ZrC1rnszbg3L4) | 4:13 | 2022-09-14 | 2023-02-09 |
 | [Cover Up](https://open.spotify.com/track/6RPxb376CEUreRiEA86Xgj) | [Like Sundays](https://open.spotify.com/artist/0P3oMAIIWhsnEOnp4Bc6XA) | [Cover Up](https://open.spotify.com/album/2UeVgaoUSxQ4MF1aefQUe9) | 2:26 | 2023-03-15 | 2023-05-24 |
 | [Crack It Up](https://open.spotify.com/track/2zFroQRjuARl7Jb7Mnb4N1) | [I am Korny](https://open.spotify.com/artist/7Bnez3ysypY1N5rXSwiaVf) | [Crack It Up](https://open.spotify.com/album/4dxsOB9UJmkFonYofhkDEo) | 2:31 | 2022-06-08 | 2022-06-30 |
+| [Crashing](https://open.spotify.com/track/4vVHZKT5McNX5dV911htj8) | [CAVA](https://open.spotify.com/artist/43J6iItIIExbh3sEHISaD6) | [Crashing](https://open.spotify.com/album/7vAPnz1vyoI7YeFEGyI0mj) | 2:36 | 2024-09-11 |  |
 | [crave](https://open.spotify.com/track/0Ah7tw6kn6te3qIiGAOmY6) | [RAYNE](https://open.spotify.com/artist/7qDGLQOhaLJSLkGOpEo1Ld) | [crave](https://open.spotify.com/album/6G1OEjAtmAHNJLcsYHj6CI) | 2:27 | 2022-01-05 | 2023-01-05 |
 | [Creeper Deeper](https://open.spotify.com/track/3Nx8BjUdk3hRUSxVpKU8xY) | [Jon Doe](https://open.spotify.com/artist/01VrPMFh7LXpXjf2Yie2xc) | [Creeper Deeper](https://open.spotify.com/album/3gjqmcGtJzRRM5Y6qlxKQG) | 4:32 | 2022-01-12 | 2023-01-05 |
 | [Cruisen](https://open.spotify.com/track/75wcLZXc1mHsGcDABxuIFv) | [Felix Herbst](https://open.spotify.com/artist/5FjvjkbSAOddYcOeOvZh2d) | [Cruisen](https://open.spotify.com/album/456CPopRAisSeK6XfI4fy0) | 3:04 | 2024-03-20 | 2024-04-19 |
@@ -489,7 +490,7 @@
 | [High Again](https://open.spotify.com/track/6suMLfjKlzmYgPb5SiV0Rs) | [Coucou Babe](https://open.spotify.com/artist/64oYZ9wab5dkE4IrGVwPz0) | [High Again](https://open.spotify.com/album/4eLCLiwRIQGAqMUk1VRafi) | 3:29 | 2023-01-04 | 2024-01-04 |
 | [High Expectations](https://open.spotify.com/track/6Itg1Mx1mNAUVaSS7Q3LmS) | [Mimi](https://open.spotify.com/artist/1L2ghKGdjCxlemka3gOyif) | [High Expectations](https://open.spotify.com/album/22du9HwMI8OBYb30fGFiRJ) | 2:49 | 2023-11-22 | 2024-02-15 |
 | [Hoffe, dir geht's mies](https://open.spotify.com/track/2OGDD8ZZBnXLkj3gtbxFf9) | [Victoryaz](https://open.spotify.com/artist/6F71TTGaz9SrRCJhCzGhNk) | [Hoffe, dir geht's mies](https://open.spotify.com/album/5Qag9d6zz6QDY16sB2ZTrq) | 3:13 | 2024-04-17 | 2024-08-01 |
-| [Hold Me](https://open.spotify.com/track/7BUp4RbEmzgrcIorrde4Yv) | [Julian Brown](https://open.spotify.com/artist/79Mk7W8bdPKLU00RCdGQZD) | [Hold Me](https://open.spotify.com/album/59tosTdJvAjD5bQwa0y55r) | 3:10 | 2024-03-13 |  |
+| [Hold Me](https://open.spotify.com/track/7BUp4RbEmzgrcIorrde4Yv) | [Julian Brown](https://open.spotify.com/artist/79Mk7W8bdPKLU00RCdGQZD) | [Hold Me](https://open.spotify.com/album/59tosTdJvAjD5bQwa0y55r) | 3:10 | 2024-03-13 | 2024-09-12 |
 | [Hold On Tight](https://open.spotify.com/track/5q9TIPIzxkBKuACZaJKLNU) | [Sorin](https://open.spotify.com/artist/1aS8vTdASHGGpBDxocq43D), [Tilmann Jarmer](https://open.spotify.com/artist/7IpIokbWG04a82smtUvEp5) | [Hold On Tight](https://open.spotify.com/album/7JLSUpv8B8SNiovFqxXjmm) | 3:41 | 2022-09-14 | 2022-11-10 |
 | [Holding Your Heart](https://open.spotify.com/track/141GEs0sthqirmbpV6nnmF) | [EX GENERATION](https://open.spotify.com/artist/7aePbjQ413f884sVyRtQtn) | [Holding Your Heart](https://open.spotify.com/album/2WAECECNXHxWF6ElsM2PHW) | 3:40 | 2024-04-24 |  |
 | [Hologram](https://open.spotify.com/track/23df8gbzAWOfsfUbXxQCDb) | [Buridan](https://open.spotify.com/artist/2mOHwtga6C4ES7wkxmmT4g) | [Hologram](https://open.spotify.com/album/7K1AACMxBSSTCoCKbUM8eG) | 6:36 | 2023-02-15 | 2023-07-06 |
@@ -689,6 +690,7 @@
 | [Modern Justice](https://open.spotify.com/track/17q4P1AK0Q4VY6O4sagoEC) | [Sweet Tempest](https://open.spotify.com/artist/3CHvSnSovfNQBCwGgGMy3s) | [Modern Justice](https://open.spotify.com/album/6C9AsG2baW7mJobR07ZYAw) | 4:06 | 2022-01-05 | 2022-03-08 |
 | [Molotov](https://open.spotify.com/track/4xZy0OVRbcFDfLiALTSzwo) | [benzii](https://open.spotify.com/artist/2v4qy7Tmy7AcIXZuUH4eJ1) | [Bare Skin](https://open.spotify.com/album/6coKAqe0yemBSTUMSt4cLO) | 2:59 | 2022-11-30 | 2023-01-05 |
 | [Molotov](https://open.spotify.com/track/7L9Fq96bloKKmU4FwLkpXp) | [benzii](https://open.spotify.com/artist/2v4qy7Tmy7AcIXZuUH4eJ1) | [Molotov](https://open.spotify.com/album/5keRcVDlpPHHa2pUNvGqiv) | 2:59 | 2022-01-26 | 2022-05-12 |
+| [Mondlicht](https://open.spotify.com/track/6Y8I0EChdGc7SOfL7yUy43) | [ANNA YUNA](https://open.spotify.com/artist/69NHshm7qWQWGOURezT9b5) | [Mondlicht](https://open.spotify.com/album/0YCSfDr5wwILrPBsSOCVBv) | 3:03 | 2024-09-11 |  |
 | [MONDLICHT](https://open.spotify.com/track/2FSK3jttHrWDlVA3DigDPg) | [Bush.ida](https://open.spotify.com/artist/015bIyYjjyqiy9C74fBLGF), [Moglii](https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS) | [MONDLICHT](https://open.spotify.com/album/4yDyWOKjSLyruosIWQ7usx) | 3:02 | 2023-02-08 | 2023-08-10 |
 | [Money](https://open.spotify.com/track/1DSv4BWoifizJcHYeYreR3) | [BAGAGE](https://open.spotify.com/artist/2dJyAYCRkeCpa8H3sV3mh6) | [Money](https://open.spotify.com/album/7ojk9j5ljNkNk13FrzJtlD) | 2:32 | 2023-07-19 | 2023-08-31 |
 | [Monster](https://open.spotify.com/track/5DIqK65zlDkuDcw8RJC1tO) | [Swatka City](https://open.spotify.com/artist/41Bz7kJeC9sC0R0ckhYCvY) | [Monster](https://open.spotify.com/album/77Bb69izpwhNTPMc90bAnw) | 3:10 | 2023-11-08 | 2024-01-11 |
@@ -955,7 +957,7 @@
 | [Sommernachtstraum](https://open.spotify.com/track/7E5tLqlKWuadSHjkVbdaBI) | [CLÅRA](https://open.spotify.com/artist/47r6hN3XzIyOTzlXEE6vBs) | [Sommernachtstraum](https://open.spotify.com/album/3AKgbWEiNM2fq4IEyND14u) | 3:29 | 2024-05-29 | 2024-07-17 |
 | [Sommerregen](https://open.spotify.com/track/3hmHc8LawSwTMSsBM1qzNx) | [LoSin](https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj) | [Sommerregen](https://open.spotify.com/album/6mZGBF22u5vvze5sEXvrXn) | 2:34 | 2024-05-29 |  |
 | [Sonne](https://open.spotify.com/track/7KbfjdioCBl72AMCxqJ86l) | [Kerker](https://open.spotify.com/artist/1WJcvUFwnFVqBLZqbrmd94) | [Sonne](https://open.spotify.com/album/3v7Vdy4qx5ZfBCt02iJL4q) | 3:28 | 2023-09-20 | 2023-10-19 |
-| [Sonne Nervt](https://open.spotify.com/track/0e1FxQ2jM6JZabqE41xtab) | [monty & robin](https://open.spotify.com/artist/69C6sc7ZESVdDTjMmauEQS) | [Sonne Nervt](https://open.spotify.com/album/5XZc8XeNSgXQxCs9FN79Kj) | 2:18 | 2024-03-13 |  |
+| [Sonne Nervt](https://open.spotify.com/track/0e1FxQ2jM6JZabqE41xtab) | [monty & robin](https://open.spotify.com/artist/69C6sc7ZESVdDTjMmauEQS) | [Sonne Nervt](https://open.spotify.com/album/5XZc8XeNSgXQxCs9FN79Kj) | 2:18 | 2024-03-13 | 2024-09-12 |
 | [Sonnenkind](https://open.spotify.com/track/0YkiKdx7PIRjZbxaJHgw2x) | [piya](https://open.spotify.com/artist/0cEl0cfqLbO7XsDrzJXrzh) | [Sonnenkind](https://open.spotify.com/album/13gmkbNva8ZJtvxQQFXCgF) | 2:47 | 2024-05-08 | 2024-08-01 |
 | [Sooner Than Later](https://open.spotify.com/track/5NG995z19A2ZcjzvkJdxjz) | [Francos Pain](https://open.spotify.com/artist/1piKeAiKzDQwvqwMqbQwPN), [Lucy 22](https://open.spotify.com/artist/1Y2zpWghC2JzicNPGf4VMg) | [Sooner Than Later](https://open.spotify.com/album/3glFPhwa6QQsX9ax3jzFjx) | 4:09 | 2022-07-13 | 2022-09-01 |
 | [SOPHIEA](https://open.spotify.com/track/0E9S8XxSLVgkal2nWtueFU) | [VANDALISBIN](https://open.spotify.com/artist/0yX4mqTXY2LUs3qJh6LsDd) | [SOPHIEA](https://open.spotify.com/album/5mjtx0vINeJ0LjXvzxgemi) | 3:36 | 2023-11-08 | 2024-02-08 |
@@ -1007,6 +1009,7 @@
 | [Swipe](https://open.spotify.com/track/1Z6rx92R2MNjGodjeUrq4e) | [MEMOI](https://open.spotify.com/artist/21OaILBQ3OW6QhilQ32wda) | [Swipe](https://open.spotify.com/album/4RBt7qvZ5wxO78nMZiCLWC) | 3:12 | 2024-06-26 | 2024-08-29 |
 | [Säulen](https://open.spotify.com/track/40K3B0Kcy2opTWPrzvnluf) | [Lele Javel](https://open.spotify.com/artist/7rOPH116KeZsvc5xHjN1Yt) | [Säulen](https://open.spotify.com/album/4GKKZTEU1bmlWXJI64SKj8) | 3:23 | 2022-04-13 | 2022-05-19 |
 | [Süss](https://open.spotify.com/track/2bJoEuX0p2JpZFO2lFrGnF) | [Jambus](https://open.spotify.com/artist/2QZXIiO5fcbdhq7JSaL8ma) | [Süss](https://open.spotify.com/album/5w9QBYNasaifTkoUUmzG4c) | 2:43 | 2024-02-07 | 2024-03-28 |
+| [TAGIOG](https://open.spotify.com/track/1Lfky5cQsG5oEfjInW9Ei4) | [Quicche](https://open.spotify.com/artist/2x6Up6chiUGsIGOYPqJSAR) | [TAGIOG](https://open.spotify.com/album/6KAHIcMI6fVhwNIxKRVVfF) | 2:54 | 2024-09-11 |  |
 | [Take Away Your Pain](https://open.spotify.com/track/06GeHRPeB2vh9PkHX2CWcU) | [Alice DiMar](https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN) | [Take Away Your Pain](https://open.spotify.com/album/4zb2VUjvwJH0h3TOhhuwwJ) | 3:13 | 2022-02-09 | 2022-03-24 |
 | [Take Me Out Tonight](https://open.spotify.com/track/5ugsTuNRDfjaiejmQ8GwFL) | [Annelu](https://open.spotify.com/artist/4STMcsAtacU1KB3EOW5M5o) | [Take Me Out Tonight](https://open.spotify.com/album/2l8ESHUuKaQJMdTViuIG1V) | 4:00 | 2022-03-23 | 2022-05-19 |
 | [Talk About This Love](https://open.spotify.com/track/1TqPdNicnHyymKObNKuDYu) | [Athlete Whippet](https://open.spotify.com/artist/74FtMGqsZm74eumHo8Fi3V) | [Talk About This Love](https://open.spotify.com/album/4tB5cnQfHEnF252ZFiTGZ1) | 5:46 | 2022-10-26 | 2022-11-24 |

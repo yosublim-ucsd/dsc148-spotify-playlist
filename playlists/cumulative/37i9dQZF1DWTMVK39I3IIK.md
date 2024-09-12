@@ -4,14 +4,14 @@
 
 > de skarpeste nye knive i dansk musik..\. Mille på forsiden 🌾
 
-92 songs - 4 hr 56 min
+94 songs - 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1 Dag Er Vi 1 Minde](https://open.spotify.com/track/2VNuO7HSYgqtkxlzfnFtZd) | [Barselona](https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m) | [1 Dag Er Vi 1 Minde](https://open.spotify.com/album/44WAdOT7BNFzQuz71Zuw1y) | 3:30 | 2024-07-04 | 2024-07-29 |
 | [1000 Hænder](https://open.spotify.com/track/26cx3JVqR0zBa2WWsqUl6c) | [Elsked](https://open.spotify.com/artist/1nrf4XbO46RDXE4iuJYKzJ) | [1000 Hænder](https://open.spotify.com/album/7jKVBenHoh5NFs7TCum46z) | 3:05 | 2024-06-27 |  |
 | [Amor](https://open.spotify.com/track/0r3mhkCvXHaIrfh6Fh0ICH) | [LUCY](https://open.spotify.com/artist/3YYCYfeypDt0g0kwgNYIWw) | [Amor](https://open.spotify.com/album/22Es0Jeka50VvECPh4TOpu) | 2:49 | 2024-06-27 | 2024-08-30 |
-| [AUTOSTRADA](https://open.spotify.com/track/0USF4aKnHq5vhyv2EY6Ts7) | [FABRÄK](https://open.spotify.com/artist/1EhjKyONmOvWHQuGANLcU8), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [7"](https://open.spotify.com/album/339UrGqZIVQUud5XLmUNz1) | 2:51 | 2024-06-27 |  |
+| [AUTOSTRADA](https://open.spotify.com/track/0USF4aKnHq5vhyv2EY6Ts7) | [FABRÄK](https://open.spotify.com/artist/1EhjKyONmOvWHQuGANLcU8), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [7"](https://open.spotify.com/album/339UrGqZIVQUud5XLmUNz1) | 2:51 | 2024-06-27 | 2024-09-12 |
 | [Bad Day](https://open.spotify.com/track/0EbOVRTu9uma6G3ZjWH44B) | [ORA](https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA) | [Bad Day](https://open.spotify.com/album/4dVUFrXHHJ7bcm1QmYh1y3) | 2:51 | 2024-08-23 |  |
 | [Bedre](https://open.spotify.com/track/5Ql2mALNZqpOGjIniaI5sY) | [Bette](https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27) | [Bedre](https://open.spotify.com/album/0zsJJ0AfLC7ZBePfhHK88h) | 2:50 | 2024-06-27 | 2024-08-24 |
 | [Begår Tyveri](https://open.spotify.com/track/0e0hgjpnPbO89eobiVAsnV) | [Jung](https://open.spotify.com/artist/2P6G4CYRAhpRKMXy097RSL) | [Forfra Forbundet](https://open.spotify.com/album/0gq6IFI5AgEr5ygk1CjEMW) | 3:14 | 2024-06-27 | 2024-08-30 |
@@ -89,13 +89,15 @@
 | [Strong](https://open.spotify.com/track/6kvS2z82Q6l7h4DnzteKwO) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Strong](https://open.spotify.com/album/3ZrhrH8iDFgDLEgVYfobR7) | 2:59 | 2024-08-15 |  |
 | [Sunshine In Atalaya](https://open.spotify.com/track/10OBHEnPXKI3Bym1Fwmpe3) | [Visti's Vinyl Collective](https://open.spotify.com/artist/6WL26DCfDfQdOeZFWtVDBl), [Emma Sehested Høeg](https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C) | [Sunshine In Atalaya](https://open.spotify.com/album/7i2joJdXELNzwEi1dNmkC9) | 4:22 | 2024-06-27 |  |
 | [Synger Bare](https://open.spotify.com/track/7Icr3LYFjfg1XFeMX1vPZV) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Synger Bare](https://open.spotify.com/album/6GB6K47CUmUged4NVsNPuO) | 1:47 | 2024-08-29 |  |
+| [Syreregn](https://open.spotify.com/track/1P6IhxWSo9KtdCZj87wYo2) | [BONFÍ](https://open.spotify.com/artist/3rDUvh74JdHkHrgV7xyEia) | [Syreregn](https://open.spotify.com/album/0IZtOod9T7rvTCAYcoEsfz) | 2:50 | 2024-09-11 |  |
 | [The Game](https://open.spotify.com/track/364mT4h3GcKYrfkdR6kLK4) | [Dopha](https://open.spotify.com/artist/7KNTK1VIkAqbjrFWGhYSwn) | [The Game](https://open.spotify.com/album/7fguP8EMcSuGjet7VIwBMr) | 3:05 | 2024-06-27 |  |
 | [Til Mit Hjerte Stopper \(feat\. Kundo\)](https://open.spotify.com/track/5aZzTieCOHU3CfhLJ7FSyS) | [Kind mod Kind](https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As), [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr) | [</3](https://open.spotify.com/album/5eLaGyEggzHmcTzRQyGkzq) | 3:23 | 2024-06-27 |  |
 | [Til Solen Er Sort](https://open.spotify.com/track/0h35J8A4GHIlQXcxVAEmF5) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Til Solen Er Sort](https://open.spotify.com/album/3ILCWJ6wNKBI0WVvaL4Bwz) | 3:44 | 2024-06-27 |  |
 | [Tæt På Paradis](https://open.spotify.com/track/7dUd1GZ3DEbL2wyhzjpvoM) | [Zar Paulo](https://open.spotify.com/artist/5Org3M2mFFEFd8A57h9Yv2) | [Elendig Software](https://open.spotify.com/album/63y6pPYBqIlVWzA0xj796o) | 4:03 | 2024-06-27 |  |
 | [Uden At Tænke På Dig](https://open.spotify.com/track/0C3B4j0LFTYz22XvR9tat1) | [Ida Laurberg](https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4) | [Bænkevarmer](https://open.spotify.com/album/1XHFbdl2xxkl4cyAVyCqsd) | 3:54 | 2024-06-27 |  |
 | [Uheldig](https://open.spotify.com/track/7xmVPbxXvp4jyznoElf5RR) | [OLIVVER](https://open.spotify.com/artist/7qdfsnEchf1XUtIJBsBTTO) | [Uheldig](https://open.spotify.com/album/2hE13utkQDgMP4jnbedxOd) | 2:34 | 2024-07-04 | 2024-08-26 |
-| [Uhh Yeah](https://open.spotify.com/track/2WG8EuarYi6f5V8XXTCX7K) | [FRAADS](https://open.spotify.com/artist/0qpVYqW8pjiACu0FasfPnH) | [Uhh Yeah](https://open.spotify.com/album/3rvRRmYzTULJ694xxugyI3) | 2:53 | 2024-08-23 |  |
+| [Uhh Yeah](https://open.spotify.com/track/2WG8EuarYi6f5V8XXTCX7K) | [FRAADS](https://open.spotify.com/artist/0qpVYqW8pjiACu0FasfPnH) | [Uhh Yeah](https://open.spotify.com/album/3rvRRmYzTULJ694xxugyI3) | 2:53 | 2024-08-23 | 2024-09-12 |
+| [Ulykkelig](https://open.spotify.com/track/2YDLTIoCXWBw77xk2Irxe9) | [Karoline Mousing](https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0) | [Ulykkelig](https://open.spotify.com/album/7h7vLjEEYuicY1oBmN37Fc) | 2:16 | 2024-09-11 |  |
 | [Under Din Sne](https://open.spotify.com/track/1D9P6P6yR4LB3Cq0ozn8ZE) | [The Minds Of 99](https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL) | [Under Din Sne](https://open.spotify.com/album/5ay6w69e8LM9fjLAzTxFsZ) | 4:24 | 2024-06-27 |  |
 | [Under Vand](https://open.spotify.com/track/4zDDBqX3XUojNgE8R1q6d6) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn) | [SAMBA](https://open.spotify.com/album/7kaIQ1ArZSy1fcrQytwJOt) | 3:35 | 2024-06-27 |  |
 | [Ung & Smuk](https://open.spotify.com/track/1TXZrOx2LgKZfHsxKyUSia) | [Kind mod Kind](https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As) | [Ung & Smuk](https://open.spotify.com/album/34l6ED81fuFFDNLy4jJWX3) | 2:40 | 2024-06-27 | 2024-09-10 |

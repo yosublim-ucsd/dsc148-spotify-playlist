@@ -1,6 +1,6 @@
 {
   "description": "Aquelas pra come\u00e7ar o dia de alma leve",
-  "num_followers": 561770,
+  "num_followers": 561945,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
@@ -239,26 +239,6 @@
     {
       "added_at": "2024-09-09 18:46:52",
       "album": {
-        "name": "Varrendo a Lua",
-        "url": "https://open.spotify.com/album/7ntYXJA7rWbNjNm8DWV7Lm"
-      },
-      "artists": [
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        },
-        {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
-        }
-      ],
-      "duration_ms": 190960,
-      "name": "De Janeiro a Janeiro",
-      "url": "https://open.spotify.com/track/1de5qtvROLxLtMAQrmZjev"
-    },
-    {
-      "added_at": "2024-09-09 18:46:52",
-      "album": {
         "name": "Zero a Cem",
         "url": "https://open.spotify.com/album/196Sp6RFxVhYFGYjACcsCG"
       },
@@ -275,6 +255,26 @@
       "duration_ms": 190652,
       "name": "Zero a Cem",
       "url": "https://open.spotify.com/track/5dpDnd3Nnw5dRql80RcI7M"
+    },
+    {
+      "added_at": "2024-09-09 18:46:52",
+      "album": {
+        "name": "Varrendo a Lua",
+        "url": "https://open.spotify.com/album/7ntYXJA7rWbNjNm8DWV7Lm"
+      },
+      "artists": [
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        },
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+        }
+      ],
+      "duration_ms": 190960,
+      "name": "De Janeiro a Janeiro",
+      "url": "https://open.spotify.com/track/1de5qtvROLxLtMAQrmZjev"
     },
     {
       "added_at": "2024-09-09 18:46:52",
@@ -507,22 +507,22 @@
     {
       "added_at": "2024-09-09 18:46:52",
       "album": {
-        "name": "Um dia de domingo",
-        "url": "https://open.spotify.com/album/6UsutqrIyl5NVGoP4i4hoz"
+        "name": "Mais Uma Hist\u00f3ria de Amor",
+        "url": "https://open.spotify.com/album/4XXu5ordSf46OyKWo9hCqi"
       },
       "artists": [
         {
-          "name": "Lucas Mamede",
-          "url": "https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD"
+          "name": "Cupertino",
+          "url": "https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD"
         },
         {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+          "name": "Os Garotin",
+          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
         }
       ],
-      "duration_ms": 251903,
-      "name": "Um dia de domingo",
-      "url": "https://open.spotify.com/track/4Hnc4ewhudTuDkXiyZ39Vm"
+      "duration_ms": 150000,
+      "name": "A Gente Tem Tudo a Ver",
+      "url": "https://open.spotify.com/track/1I98yrIyHHnnHTWNMosWEk"
     },
     {
       "added_at": "2024-09-09 18:46:52",
@@ -547,22 +547,22 @@
     {
       "added_at": "2024-09-09 18:46:52",
       "album": {
-        "name": "Mais Uma Hist\u00f3ria de Amor",
-        "url": "https://open.spotify.com/album/4XXu5ordSf46OyKWo9hCqi"
+        "name": "Um dia de domingo",
+        "url": "https://open.spotify.com/album/6UsutqrIyl5NVGoP4i4hoz"
       },
       "artists": [
         {
-          "name": "Cupertino",
-          "url": "https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD"
+          "name": "Lucas Mamede",
+          "url": "https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD"
         },
         {
-          "name": "Os Garotin",
-          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
         }
       ],
-      "duration_ms": 150000,
-      "name": "A Gente Tem Tudo a Ver",
-      "url": "https://open.spotify.com/track/1I98yrIyHHnnHTWNMosWEk"
+      "duration_ms": 251903,
+      "name": "Um dia de domingo",
+      "url": "https://open.spotify.com/track/4Hnc4ewhudTuDkXiyZ39Vm"
     },
     {
       "added_at": "2024-09-09 18:46:52",

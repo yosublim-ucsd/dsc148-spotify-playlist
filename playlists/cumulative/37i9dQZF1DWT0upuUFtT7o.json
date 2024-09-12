@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new indie tracks from independent artists & labels. Cover: SPIRIT OF THE BEEHIVE",
+  "description": "The best new indie tracks from independent artists & labels. Cover: Fcukers",
   "name": "Fresh Finds Indie",
   "tracks": [
     {
@@ -258,7 +258,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 161352,
       "name": "2000SEVEN",
       "url": "https://open.spotify.com/track/7fxGuWIxbIE2jt2Vo3AEGy"
@@ -2479,6 +2479,24 @@
     },
     {
       "album": {
+        "name": "Anxious",
+        "url": "https://open.spotify.com/album/2PkLElF5EkbMStyzivOzFu"
+      },
+      "artists": [
+        {
+          "name": "tomy wyne",
+          "url": "https://open.spotify.com/artist/128zAVxG7lPdR1lHuVQwOa"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257228,
+      "name": "Anxious",
+      "url": "https://open.spotify.com/track/3qn8AfrJzf6w6J02TAT8LQ"
+    },
+    {
+      "album": {
         "name": "anymore",
         "url": "https://open.spotify.com/album/7l5LuCySWubSnrRV7P7doi"
       },
@@ -3186,7 +3204,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 184688,
       "name": "Autopilot",
       "url": "https://open.spotify.com/track/6AS8j20eh4OePe8NYreUbP"
@@ -5038,7 +5056,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 229632,
       "name": "Black and Blue",
       "url": "https://open.spotify.com/track/6keMArAbNcO99gFh8kICMC"
@@ -5836,6 +5854,24 @@
       "duration_ms": 197916,
       "name": "Bolo Tie",
       "url": "https://open.spotify.com/track/5CykahcOwsoqTEEyj7m6eq"
+    },
+    {
+      "album": {
+        "name": "Baggy$$",
+        "url": "https://open.spotify.com/album/0cX9ldzQG2UYMHo6ILXXYk"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210133,
+      "name": "Bon Bon",
+      "url": "https://open.spotify.com/track/6CWvAjwzYoALz72oDqgdzm"
     },
     {
       "album": {
@@ -6810,7 +6846,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 178076,
       "name": "Bug Bite",
       "url": "https://open.spotify.com/track/3n6GIJKukJcU0z2PLR4AgV"
@@ -7106,7 +7142,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 208999,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/2vlZpvxiIYmNuycCV7ffwr"
@@ -9669,6 +9705,42 @@
     },
     {
       "album": {
+        "name": "Cross The Street",
+        "url": "https://open.spotify.com/album/6Dca4zL73vfGNmlVJnMFdH"
+      },
+      "artists": [
+        {
+          "name": "Junior Varsity",
+          "url": "https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167227,
+      "name": "Cross The Street",
+      "url": "https://open.spotify.com/track/2q7ayA58xy4MfsSV1Au7Uw"
+    },
+    {
+      "album": {
+        "name": "Crow",
+        "url": "https://open.spotify.com/album/2AauhD5l1BdFLBQ1JCBvEp"
+      },
+      "artists": [
+        {
+          "name": "Merce Lemon",
+          "url": "https://open.spotify.com/artist/4u2LxHDBsFDH3J9NumXSCH"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209695,
+      "name": "Crow",
+      "url": "https://open.spotify.com/track/7y6kIW8xd0hhuAba5hJl3M"
+    },
+    {
+      "album": {
         "name": "Oxis 5",
         "url": "https://open.spotify.com/album/4FoZxoLPa0HoHITLxl4Xyb"
       },
@@ -10898,6 +10970,24 @@
       "duration_ms": 269902,
       "name": "Did You",
       "url": "https://open.spotify.com/track/1qyzQMrYgzdvMSLFASXj67"
+    },
+    {
+      "album": {
+        "name": "die on your hill",
+        "url": "https://open.spotify.com/album/6uAQ5tXG50xXk14OLbfyei"
+      },
+      "artists": [
+        {
+          "name": "Beforefrances",
+          "url": "https://open.spotify.com/artist/0Sx1GmPY18HuO1ZrzyCnVj"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166741,
+      "name": "die on your hill",
+      "url": "https://open.spotify.com/track/2xDt5hEEoIifTp9y2BeoaN"
     },
     {
       "album": {
@@ -14073,6 +14163,24 @@
     },
     {
       "album": {
+        "name": "Ferrari World",
+        "url": "https://open.spotify.com/album/71UPU96jqlt9jn9akjTEnt"
+      },
+      "artists": [
+        {
+          "name": "j ember",
+          "url": "https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136815,
+      "name": "Ferrari World",
+      "url": "https://open.spotify.com/track/0VLiUu0JSmeBIJfkJv7cLo"
+    },
+    {
+      "album": {
         "name": "Light Split Sparkle",
         "url": "https://open.spotify.com/album/4TFG67gQFv2WAOcpYDLFMJ"
       },
@@ -15126,6 +15234,24 @@
       "duration_ms": 144331,
       "name": "Fortune Green",
       "url": "https://open.spotify.com/track/41arbLAzIm7uV8T0dCZNio"
+    },
+    {
+      "album": {
+        "name": "Forward To The Kill",
+        "url": "https://open.spotify.com/album/5zHPVGxeFrpiD4ljamFRIU"
+      },
+      "artists": [
+        {
+          "name": "Sydney Ross Mitchell",
+          "url": "https://open.spotify.com/artist/6ehbjKYJwaDdHpiw52vdGr"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161200,
+      "name": "Forward To The Kill",
+      "url": "https://open.spotify.com/track/1ofeWTl75uUwmsARpR01Gl"
     },
     {
       "album": {
@@ -20364,7 +20490,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 193032,
       "name": "I DONT LOVE U",
       "url": "https://open.spotify.com/track/0x4dQ9AssAw32YpbY23K4O"
@@ -23391,6 +23517,24 @@
     },
     {
       "album": {
+        "name": "Just The Thought",
+        "url": "https://open.spotify.com/album/7B1KPipFByhyqDq7D1WjWO"
+      },
+      "artists": [
+        {
+          "name": "Lia Pappas-Kemps",
+          "url": "https://open.spotify.com/artist/7N15xabCPo5XjsUSTnGVes"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247862,
+      "name": "Just The Thought",
+      "url": "https://open.spotify.com/track/5AfUzEMxWLsdjRpvobvRhn"
+    },
+    {
+      "album": {
         "name": "just wanted you to know",
         "url": "https://open.spotify.com/album/2eITiqvTCl7YYKKDqjMPNx"
       },
@@ -23546,7 +23690,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 255600,
       "name": "Keep That to Yourself",
       "url": "https://open.spotify.com/track/5JZpOGMOdM05nYGuYmwUt4"
@@ -26247,6 +26391,24 @@
     },
     {
       "album": {
+        "name": "Lucky #8",
+        "url": "https://open.spotify.com/album/5zuFUIdXcfd7o8MiqMrhb7"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Castle",
+          "url": "https://open.spotify.com/artist/2RzmnX5DXwcryxwUyREPbK"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268659,
+      "name": "Lucky #8",
+      "url": "https://open.spotify.com/track/25mWRD3fMSwPxgZzhCAwgN"
+    },
+    {
+      "album": {
         "name": "Lucky Girl",
         "url": "https://open.spotify.com/album/77G5rwJ5sBhLpdIPsF1OVl"
       },
@@ -26337,6 +26499,24 @@
     },
     {
       "album": {
+        "name": "Luxury",
+        "url": "https://open.spotify.com/album/0WM8RmCJpld2sUahzVnnB1"
+      },
+      "artists": [
+        {
+          "name": "Mr Floyd Larry",
+          "url": "https://open.spotify.com/artist/1k8ck5j4cuHYuzy3nPHDrM"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171074,
+      "name": "Luxury",
+      "url": "https://open.spotify.com/track/6NLwURTqayjLhIxmU9nIgj"
+    },
+    {
+      "album": {
         "name": "Yes, No Question",
         "url": "https://open.spotify.com/album/50IJsoyMo22R78EN1jMcPh"
       },
@@ -26348,7 +26528,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 126476,
       "name": "Lying",
       "url": "https://open.spotify.com/track/0TjBfsd2yWRTWLcLjRJncz"
@@ -29878,7 +30058,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 159016,
       "name": "Nightmare Blunt Rotation",
       "url": "https://open.spotify.com/track/4lGlnkSQDh8fJrBrqJzcqK"
@@ -29990,7 +30170,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 231072,
       "name": "No One Else",
       "url": "https://open.spotify.com/track/6vxLhzmneGOW6zRfxc2siq"
@@ -30676,6 +30856,24 @@
       "duration_ms": 138730,
       "name": "Number 02",
       "url": "https://open.spotify.com/track/7vdP0BcWUqgfvegWW72xz1"
+    },
+    {
+      "album": {
+        "name": "number one",
+        "url": "https://open.spotify.com/album/0OYEMjriDnuhzmprcbuYIg"
+      },
+      "artists": [
+        {
+          "name": "asumuh",
+          "url": "https://open.spotify.com/artist/6hjYrTgChYiwxAzggQaqvO"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "number one",
+      "url": "https://open.spotify.com/track/3tVv78w4dQp44aYTGg3kAK"
     },
     {
       "album": {
@@ -36167,6 +36365,24 @@
     },
     {
       "album": {
+        "name": "Saltlick",
+        "url": "https://open.spotify.com/album/5YglHC7ULUEyn8hpGhXMal"
+      },
+      "artists": [
+        {
+          "name": "Grumpy",
+          "url": "https://open.spotify.com/artist/480FcWBc0dlEZc52noh462"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95515,
+      "name": "Saltlick",
+      "url": "https://open.spotify.com/track/4Pu1l1CF4rcN3xIgWbgni6"
+    },
+    {
+      "album": {
         "name": "Same Light",
         "url": "https://open.spotify.com/album/6yMKeDhZFq76X3NpxSnLqm"
       },
@@ -36671,6 +36887,24 @@
     },
     {
       "album": {
+        "name": "see-through",
+        "url": "https://open.spotify.com/album/5Xjc8HwvYQSCMfJ1UQWhU9"
+      },
+      "artists": [
+        {
+          "name": "Rachel Prancer",
+          "url": "https://open.spotify.com/artist/20b2KfO5KOXtq9jTWkfcQO"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247076,
+      "name": "see-through",
+      "url": "https://open.spotify.com/track/3D7nLxVqGSuieatWoamRRc"
+    },
+    {
+      "album": {
         "name": "Seeds of Evil",
         "url": "https://open.spotify.com/album/2iXteeFOazB3q1QuJfTtjf"
       },
@@ -36758,7 +36992,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 256750,
       "name": "Selene",
       "url": "https://open.spotify.com/track/3meXRMEexOIrdQbwvhKfDM"
@@ -39649,6 +39883,24 @@
     },
     {
       "album": {
+        "name": "Spleen / Ever Left",
+        "url": "https://open.spotify.com/album/0yZyO7l4AGgISppbGFZ2Rm"
+      },
+      "artists": [
+        {
+          "name": "EVNTYD",
+          "url": "https://open.spotify.com/artist/3z32J9a8nv9EJKQX07bwxh"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197688,
+      "name": "Spleen",
+      "url": "https://open.spotify.com/track/0SRLyqWl027JnCuzX24gjc"
+    },
+    {
+      "album": {
         "name": "Split Screens",
         "url": "https://open.spotify.com/album/7vkDjmftcRCHYygDYYoy1T"
       },
@@ -41546,7 +41798,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 187377,
       "name": "Swimmer",
       "url": "https://open.spotify.com/track/3CyRPBcyrHdl4e7BJ76yQl"
@@ -42674,7 +42926,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 144705,
       "name": "the crow",
       "url": "https://open.spotify.com/track/6sryBwSVpbKkS8Mk4ZSodd"
@@ -42870,7 +43122,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 222493,
       "name": "The Hand That I Put Down",
       "url": "https://open.spotify.com/track/2zivb1ctJJWO72i4fttutV"
@@ -44362,7 +44614,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 194426,
       "name": "Too Good",
       "url": "https://open.spotify.com/track/1j9RysAbuhHrGemyEaDnwD"
@@ -45348,7 +45600,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 180022,
       "name": "UNDER",
       "url": "https://open.spotify.com/track/2s1z3xRx529F5vq3BDzFUm"
@@ -46200,7 +46452,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 263500,
       "name": "Vinalhaven",
       "url": "https://open.spotify.com/track/4KgTdZON9IsR6jkOUbTIA3"
@@ -47332,7 +47584,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 131764,
       "name": "Well, that's all for now..",
       "url": "https://open.spotify.com/track/0OSwOqUTpBuBN9FdzM4COg"
@@ -48266,7 +48518,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 190080,
       "name": "will you, say your name",
       "url": "https://open.spotify.com/track/0hv4dNi96wfpvX7TifcrZ8"
@@ -48576,6 +48828,42 @@
       "duration_ms": 173070,
       "name": "With The Band",
       "url": "https://open.spotify.com/track/2bY0fCLZ2wzWFqujDEGQKY"
+    },
+    {
+      "album": {
+        "name": "what makes you sick?",
+        "url": "https://open.spotify.com/album/4GQMhPOsWBZf1NoOJTFFfv"
+      },
+      "artists": [
+        {
+          "name": "mioskii",
+          "url": "https://open.spotify.com/artist/5ATiuD7BObN5uz3nIeepr4"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198620,
+      "name": "with you here",
+      "url": "https://open.spotify.com/track/1dQg29gprmGVZtgK515Nme"
+    },
+    {
+      "album": {
+        "name": "Without A Doubt",
+        "url": "https://open.spotify.com/album/3O5qxHEpXqCg6XZ583Aq10"
+      },
+      "artists": [
+        {
+          "name": "Rachel Bochner",
+          "url": "https://open.spotify.com/artist/6AdwNKE3DsPrlNNCIzdZXz"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235002,
+      "name": "Without A Doubt",
+      "url": "https://open.spotify.com/track/7tQa2tjB3Oz0BfkM4P0KWj"
     },
     {
       "album": {

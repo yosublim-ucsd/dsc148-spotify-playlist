@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe indie, rock en alternative\. Cover: <a href="spotify:genre:0JQ5DAqbMKFOOxftoKZxod">RADAR</a>\-artiest The Vices
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,343 likes - 70 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,359 likes - 70 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

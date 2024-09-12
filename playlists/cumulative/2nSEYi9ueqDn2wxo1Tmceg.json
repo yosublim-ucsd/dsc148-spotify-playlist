@@ -1419,6 +1419,24 @@
     },
     {
       "album": {
+        "name": "Audacious",
+        "url": "https://open.spotify.com/album/6tApXgjCNnGOeB176tJiKV"
+      },
+      "artists": [
+        {
+          "name": "Franz Ferdinand",
+          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203692,
+      "name": "Audacious",
+      "url": "https://open.spotify.com/track/53OqecARVvVCUTjL1yg0sq"
+    },
+    {
+      "album": {
         "name": "Audhumla Thaw",
         "url": "https://open.spotify.com/album/1xA0LlYgFcGbF2oXWbnLSa"
       },
@@ -1474,6 +1492,24 @@
       "duration_ms": 222908,
       "name": "Away From The Castle",
       "url": "https://open.spotify.com/track/73oTXbmbelMf3lVJBuLlf7"
+    },
+    {
+      "album": {
+        "name": "Seed Cake On Leap Year",
+        "url": "https://open.spotify.com/album/1EE9n7zmuZqKVN2P5CGkfU"
+      },
+      "artists": [
+        {
+          "name": "Cass McCombs",
+          "url": "https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255626,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/2RaASjlvWWw4pIxogKMEqz"
     },
     {
       "album": {
@@ -3492,6 +3528,24 @@
       "duration_ms": 235417,
       "name": "Contingency/Necessity (Modality of Fate)",
       "url": "https://open.spotify.com/track/5JG967CjnqHz3GloV8W8XB"
+    },
+    {
+      "album": {
+        "name": "Endlessness",
+        "url": "https://open.spotify.com/album/51CQQ3tQLRZlZJZ5jcpoGE"
+      },
+      "artists": [
+        {
+          "name": "Nala Sinephro",
+          "url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247538,
+      "name": "Continuum 3",
+      "url": "https://open.spotify.com/track/0AXfx8KBcjY3TlrHmApvNr"
     },
     {
       "album": {
@@ -7938,7 +7992,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 233035,
       "name": "I Am Dog Now",
       "url": "https://open.spotify.com/track/2V0hvlkjUrp9GxL6iHnOJD"
@@ -9518,7 +9572,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 310319,
       "name": "John Lennon - Crooked Fluxus 1",
       "url": "https://open.spotify.com/track/25PLOc82Uo2YcnFWVXgEg6"
@@ -9562,6 +9616,24 @@
       "duration_ms": 140302,
       "name": "Joker",
       "url": "https://open.spotify.com/track/3HyD8c5C8C7P5TgmNfc8YK"
+    },
+    {
+      "album": {
+        "name": "Manning Fireworks",
+        "url": "https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN"
+      },
+      "artists": [
+        {
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181040,
+      "name": "Joker Lips",
+      "url": "https://open.spotify.com/track/2zFtMNj2s82nml4wSKbtyL"
     },
     {
       "album": {
@@ -11934,7 +12006,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 220177,
       "name": "My Little Lamb",
       "url": "https://open.spotify.com/track/5CrbiO51icmNNZCoqhayzO"
@@ -13466,7 +13538,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 414259,
       "name": "People To The River! - Warmduscher Remix",
       "url": "https://open.spotify.com/track/7Bi4Bes5dzT9lTdLG6lKl9"
@@ -13870,7 +13942,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 412121,
       "name": "Power Melts Away",
       "url": "https://open.spotify.com/track/570fmjtmNPAfPCObDf4RhK"
@@ -17020,7 +17092,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 284747,
       "name": "The Big Man Upstairs",
       "url": "https://open.spotify.com/track/17ruNpoGR6GRkATyxy388E"
@@ -18697,6 +18769,24 @@
     },
     {
       "album": {
+        "name": "Oh My God - That's So Me",
+        "url": "https://open.spotify.com/album/3Pumb6shTeFPOskFWHClay"
+      },
+      "artists": [
+        {
+          "name": "Okay Kaya",
+          "url": "https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133266,
+      "name": "Undulation Days",
+      "url": "https://open.spotify.com/track/5oi9A6XHgjVAic6RrYwuMc"
+    },
+    {
+      "album": {
         "name": "Une Autre Attente",
         "url": "https://open.spotify.com/album/1ySxaH3vNdGtrDk42suuA9"
       },
@@ -19768,7 +19858,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 251767,
       "name": "Wither",
       "url": "https://open.spotify.com/track/5uxQXNOEESKYas8Ln9qR6d"

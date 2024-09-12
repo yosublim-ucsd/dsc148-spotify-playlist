@@ -2,7 +2,7 @@
 
 ### [This Is Toby Keith](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1f6BZ6)
 
-> This is Toby Keith\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is Toby Keith\. The essential tracks, all in one playlist.
 
 60 songs - 3 hr 29 min
 

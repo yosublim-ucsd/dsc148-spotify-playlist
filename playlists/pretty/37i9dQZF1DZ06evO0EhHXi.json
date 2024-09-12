@@ -1,12 +1,12 @@
 {
-  "description": "This is \u30e9\u30e2\u30fc\u30f3\u30ba\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
-  "num_followers": 237816,
-  "original_name": "This Is \u30e9\u30e2\u30fc\u30f3\u30ba",
+  "description": "This Is Ramones. Los temas esenciales, todos en una lista.",
+  "num_followers": 237855,
+  "original_name": "This Is Ramones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zt46gAAAAABYypDUVrraJ7/2P7pjgpwi",
+  "snapshot_id": "Zt+MAAAAAABbFFnmtpfhCb4nYWAremVI",
   "tracks": [
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Animal Boy",
-        "url": "https://open.spotify.com/album/0DaSDEJ5COpsWSlI6mI3yh"
-      },
-      "artists": [
-        {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
-        }
-      ],
-      "duration_ms": 233466,
-      "name": "Bonzo Goes to Bitburg",
-      "url": "https://open.spotify.com/track/2j3PFZXmenUxgjjBUIod7F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pleasant Dreams - Expanded 2005 Remaster",
         "url": "https://open.spotify.com/album/4Z0YHXghWhViyBCpEulR2Z"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 150560,
       "name": "The KKK Took My Baby Away - 1999 Remaster",
       "url": "https://open.spotify.com/track/0N8c4Yf3gp8KnngZggvpqi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Animal Boy",
+        "url": "https://open.spotify.com/album/0DaSDEJ5COpsWSlI6mI3yh"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "duration_ms": 233466,
+      "name": "Bonzo Goes to Bitburg",
+      "url": "https://open.spotify.com/track/2j3PFZXmenUxgjjBUIod7F"
     },
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brain Drain",
-        "url": "https://open.spotify.com/album/2HTLCIs9enszF8Wj4fm3IP"
-      },
-      "artists": [
-        {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
-        }
-      ],
-      "duration_ms": 198826,
-      "name": "I Believe in Miracles",
-      "url": "https://open.spotify.com/track/6YYGoARcDRYdJu9ezMPzUx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ramones (40th Anniversary Deluxe Edition; 2016 Remaster)",
         "url": "https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 144306,
       "name": "I Wanna Be Your Boyfriend - 2016 Remaster",
       "url": "https://open.spotify.com/track/70U8S3FnHJlwPuid3D2A5d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brain Drain",
+        "url": "https://open.spotify.com/album/2HTLCIs9enszF8Wj4fm3IP"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "duration_ms": 198826,
+      "name": "I Believe in Miracles",
+      "url": "https://open.spotify.com/track/6YYGoARcDRYdJu9ezMPzUx"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Leave Home (40th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0iDP2ZcQErXlNrBYFjaaId"
-      },
-      "artists": [
-        {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
-        }
-      ],
-      "duration_ms": 163933,
-      "name": "Pinhead - 2017 Remaster",
-      "url": "https://open.spotify.com/track/3UieIbEtb7evYcdNgKczEa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rocket to Russia (40th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/7Jb0VtDTacuQdXM3pYyrbv"
       },
@@ -443,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Road to Ruin (40th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/43zbrwwFHh5e7cmDQomx8Z"
+        "name": "Leave Home (40th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0iDP2ZcQErXlNrBYFjaaId"
       },
       "artists": [
         {
@@ -452,9 +436,9 @@
           "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
         }
       ],
-      "duration_ms": 162133,
-      "name": "I Just Want to Have Something to Do - 2018 Remaster",
-      "url": "https://open.spotify.com/track/29F9vWkIUVQj2F4kX9EYre"
+      "duration_ms": 163933,
+      "name": "Pinhead - 2017 Remaster",
+      "url": "https://open.spotify.com/track/3UieIbEtb7evYcdNgKczEa"
     },
     {
       "added_at": null,
@@ -471,6 +455,22 @@
       "duration_ms": 95973,
       "name": "Now I Wanna Sniff Some Glue - 2016 Remaster",
       "url": "https://open.spotify.com/track/1KWWXe7kMpVptnBsdiiyVb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Road to Ruin (40th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/43zbrwwFHh5e7cmDQomx8Z"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "duration_ms": 162133,
+      "name": "I Just Want to Have Something to Do - 2018 Remaster",
+      "url": "https://open.spotify.com/track/29F9vWkIUVQj2F4kX9EYre"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Loco Live",
-        "url": "https://open.spotify.com/album/3LwJv6AKCzwgPrdVyisIhJ"
-      },
-      "artists": [
-        {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
-        }
-      ],
-      "duration_ms": 46800,
-      "name": "Durango 95 - Live",
-      "url": "https://open.spotify.com/track/2o8YxKjziubadspvVN20eS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mondo Bizarro",
         "url": "https://open.spotify.com/album/35A0Y71VAqYw1t7QOsvErQ"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 127906,
       "name": "Take It as It Comes",
       "url": "https://open.spotify.com/track/1vfd5QkEplKvTtS9UJHpwo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Loco Live",
+        "url": "https://open.spotify.com/album/3LwJv6AKCzwgPrdVyisIhJ"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "duration_ms": 46800,
+      "name": "Durango 95 - Live",
+      "url": "https://open.spotify.com/track/2o8YxKjziubadspvVN20eS"
     },
     {
       "added_at": null,
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
         }
       ],
-      "duration_ms": 147066,
-      "name": "The Crusher",
-      "url": "https://open.spotify.com/track/1yWz1AZo5g18ZQXYuAVOqr"
+      "duration_ms": 194040,
+      "name": "She Talks to Rainbows",
+      "url": "https://open.spotify.com/track/0GVcm9IeiuWWOQk3yXI7yx"
     },
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mondo Bizarro",
-        "url": "https://open.spotify.com/album/35A0Y71VAqYw1t7QOsvErQ"
+        "name": "Road to Ruin (40th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/43zbrwwFHh5e7cmDQomx8Z"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
         }
       ],
-      "duration_ms": 190520,
-      "name": "Censorshit",
-      "url": "https://open.spotify.com/track/0hfsk5X8VPsaxip5cptvn1"
+      "duration_ms": 129293,
+      "name": "I'm Against It - 2018 Remaster",
+      "url": "https://open.spotify.com/track/0VPvLrFJby7clnTauyU8Ah"
     },
     {
       "added_at": null,
@@ -772,15 +772,15 @@
           "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
         }
       ],
-      "duration_ms": 194040,
-      "name": "She Talks to Rainbows",
-      "url": "https://open.spotify.com/track/0GVcm9IeiuWWOQk3yXI7yx"
+      "duration_ms": 147066,
+      "name": "The Crusher",
+      "url": "https://open.spotify.com/track/1yWz1AZo5g18ZQXYuAVOqr"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Road to Ruin (40th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/43zbrwwFHh5e7cmDQomx8Z"
+        "name": "Mondo Bizarro",
+        "url": "https://open.spotify.com/album/35A0Y71VAqYw1t7QOsvErQ"
       },
       "artists": [
         {
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
         }
       ],
-      "duration_ms": 129293,
-      "name": "I'm Against It - 2018 Remaster",
-      "url": "https://open.spotify.com/track/0VPvLrFJby7clnTauyU8Ah"
+      "duration_ms": 190520,
+      "name": "Censorshit",
+      "url": "https://open.spotify.com/track/0hfsk5X8VPsaxip5cptvn1"
     },
     {
       "added_at": null,
@@ -809,6 +809,6 @@
       "url": "https://open.spotify.com/track/6kncyvw17p7zNhf37TrYRH"
     }
   ],
-  "unique_name": "This Is \u30e9\u30e2\u30fc\u30f3\u30ba",
+  "unique_name": "This Is Ramones",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0EhHXi"
 }

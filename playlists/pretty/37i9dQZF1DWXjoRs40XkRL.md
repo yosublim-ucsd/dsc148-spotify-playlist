@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 
 > Unwind to the best Indian classical sounds out there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,348 likes - 75 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,368 likes - 75 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Jagaave Saari Raina](https://open.spotify.com/track/7CQ0O1bdOHZINqyOf1W3kz) | [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT) | [Dedh Ishqiya](https://open.spotify.com/album/0x33kdKVOuPpUNyuQdX1LR) | 5:38 |
 | 2 | [Saiyaan Hatto Jaao](https://open.spotify.com/track/647uP7tkpOUIdaDNz0YX1Q) | [Sanjay Leela Bhansali](https://open.spotify.com/artist/5eWpthiGD66CLD4bQjvIBp), [Barnali Chattopadhyay](https://open.spotify.com/artist/0PuNZqpWjKq5qMLueUM2UF), [A M Turaz](https://open.spotify.com/artist/1j9brIgutvsw3yb2jwYYNK) | [Heeramandi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6b2vHhEysVp1gXn7WMrBFy) | 5:13 |
-| 3 | [Rut Saawan Ki](https://open.spotify.com/track/4wJi7G1KUVdtmnv5O1OX7f) | [The Anirudh Varma Collective](https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB), [Suhavi Kalsi](https://open.spotify.com/artist/2yW096GBZkULuSAJnF4yRL), [Basudhara Roy Munshi](https://open.spotify.com/artist/6lZAvMzprvMkYhGqoxc1Ej), [Rohan Prasanna](https://open.spotify.com/artist/7l4MibDurgFUAa0b2D8c4X) | [Rut Saawan Ki](https://open.spotify.com/album/2h0eM3wn3M3oiAB2akIxp6) | 4:49 |
+| 3 | [Rut Saawan Ki](https://open.spotify.com/track/4wJi7G1KUVdtmnv5O1OX7f) | [The Anirudh Varma Collective](https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB), [Suhavi Kalsi](https://open.spotify.com/artist/2yW096GBZkULuSAJnF4yRL), [Basudhara Roy Munshi](https://open.spotify.com/artist/2qpcBqB6sjBqr2YNaAufRd), [Rohan Prasanna](https://open.spotify.com/artist/7l4MibDurgFUAa0b2D8c4X) | [Rut Saawan Ki](https://open.spotify.com/album/2h0eM3wn3M3oiAB2akIxp6) | 4:49 |
 | 4 | [Barkha](https://open.spotify.com/track/0uYiSskLUJ6s7acqyUWX68) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Barkha](https://open.spotify.com/album/6ccAHAXH8lV27buSFuvx69) | 4:21 |
 | 5 | [Chandni Raat](https://open.spotify.com/track/25PU3JTQlh3qmleaaZyjIG) | [Pandit Mani Prasad](https://open.spotify.com/artist/2mg9mH0ipBLqyL4eTM1DUS), [Sucheta Bhattacharjee](https://open.spotify.com/artist/5BCIB70Lj3ShanUt22DT9R) | [Chandni Raat](https://open.spotify.com/album/6mXElBJDaOQTvkPLB3ORlt) | 4:39 |
 | 6 | [Jao Ji Jao \- From "Ulajh"](https://open.spotify.com/track/5LKAj1Ed6xJewL8RYa7K0j) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Shanya Kashyap](https://open.spotify.com/artist/2En4ppmO51pQ7t4MXSmw2D), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH), [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU) | [Ulajh \- Original Motion Picture Soundtrack](https://open.spotify.com/album/3ZaDeJrwMgfJExajojAuwC) | 3:59 |

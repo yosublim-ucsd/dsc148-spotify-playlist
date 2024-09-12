@@ -1,6 +1,6 @@
 {
   "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. cover: PK shampoo",
-  "num_followers": 122939,
+  "num_followers": 122983,
   "original_name": "Punk Japan",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,18 @@
     {
       "added_at": "2024-09-03 18:43:44",
       "album": {
-        "name": "Straight Up",
-        "url": "https://open.spotify.com/album/4pIsjjQsa4krzRpcI2sds5"
+        "name": "THE BAND STAR",
+        "url": "https://open.spotify.com/album/7LBnXKfzvkhJIvZcTENgiS"
       },
       "artists": [
         {
-          "name": "The BONEZ",
-          "url": "https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ"
-        },
-        {
-          "name": "Kj",
-          "url": "https://open.spotify.com/artist/2dSWXwLgHi3PrwT9l1CKDq"
+          "name": "\u30cf\u30eb\u30ab\u30df\u30e9\u30a4",
+          "url": "https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI"
         }
       ],
-      "duration_ms": 252300,
-      "name": "Straight Up",
-      "url": "https://open.spotify.com/track/01yS4eW9jeCPXJgz6I7DxJ"
+      "duration_ms": 179626,
+      "name": "PEAK'D YELLOW",
+      "url": "https://open.spotify.com/track/4F8IqZEYs0KePKI7AAgrPv"
     },
     {
       "added_at": "2024-09-03 18:43:44",
@@ -671,18 +667,22 @@
     {
       "added_at": "2024-09-03 18:43:44",
       "album": {
-        "name": "THE BAND STAR",
-        "url": "https://open.spotify.com/album/7LBnXKfzvkhJIvZcTENgiS"
+        "name": "Straight Up",
+        "url": "https://open.spotify.com/album/4pIsjjQsa4krzRpcI2sds5"
       },
       "artists": [
         {
-          "name": "\u30cf\u30eb\u30ab\u30df\u30e9\u30a4",
-          "url": "https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI"
+          "name": "The BONEZ",
+          "url": "https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ"
+        },
+        {
+          "name": "Kj",
+          "url": "https://open.spotify.com/artist/2dSWXwLgHi3PrwT9l1CKDq"
         }
       ],
-      "duration_ms": 179626,
-      "name": "PEAK'D YELLOW",
-      "url": "https://open.spotify.com/track/4F8IqZEYs0KePKI7AAgrPv"
+      "duration_ms": 252300,
+      "name": "Straight Up",
+      "url": "https://open.spotify.com/track/01yS4eW9jeCPXJgz6I7DxJ"
     },
     {
       "added_at": "2024-09-03 18:43:44",
@@ -1011,6 +1011,38 @@
     {
       "added_at": "2024-09-03 18:43:44",
       "album": {
+        "name": "Space Sonic",
+        "url": "https://open.spotify.com/album/4MJpSVLeU2zWaph5ywV60A"
+      },
+      "artists": [
+        {
+          "name": "ELLEGARDEN",
+          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
+        }
+      ],
+      "duration_ms": 213720,
+      "name": "Stereoman",
+      "url": "https://open.spotify.com/track/6ZIOIVey5pvMycER6mSA4y"
+    },
+    {
+      "added_at": "2024-09-03 18:43:44",
+      "album": {
+        "name": "A FORLORN HOPE",
+        "url": "https://open.spotify.com/album/552gufO6U4IFh3WWwA2kWr"
+      },
+      "artists": [
+        {
+          "name": "BRAHMAN",
+          "url": "https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5"
+        }
+      ],
+      "duration_ms": 122493,
+      "name": "DEEP",
+      "url": "https://open.spotify.com/track/3RVr9rPwZ8EwbCshQWonMT"
+    },
+    {
+      "added_at": "2024-09-03 18:43:44",
+      "album": {
         "name": "\u300c\u5b66\u751f\u8857\u3088\u308a\u3001\u629c\u7c8b\u300d",
         "url": "https://open.spotify.com/album/7lG1lbB4URAEYxiY9IDmwj"
       },
@@ -1043,38 +1075,6 @@
     {
       "added_at": "2024-09-03 18:43:44",
       "album": {
-        "name": "STOP THE WAR",
-        "url": "https://open.spotify.com/album/4FiPEUGopzwNJKxdA9TBaU"
-      },
-      "artists": [
-        {
-          "name": "HEY-SMITH",
-          "url": "https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL"
-        }
-      ],
-      "duration_ms": 183009,
-      "name": "Dandadan",
-      "url": "https://open.spotify.com/track/6PiCVwbOFHXCGgKhhscqXf"
-    },
-    {
-      "added_at": "2024-09-03 18:43:44",
-      "album": {
-        "name": "Space Sonic",
-        "url": "https://open.spotify.com/album/4MJpSVLeU2zWaph5ywV60A"
-      },
-      "artists": [
-        {
-          "name": "ELLEGARDEN",
-          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
-        }
-      ],
-      "duration_ms": 213720,
-      "name": "Stereoman",
-      "url": "https://open.spotify.com/track/6ZIOIVey5pvMycER6mSA4y"
-    },
-    {
-      "added_at": "2024-09-03 18:43:44",
-      "album": {
         "name": "\u5927\u4eba\u306e\u90fd\u5408\u30de\u30b8\u3046\u305c\u3048",
         "url": "https://open.spotify.com/album/5D1JbpndO17mX5irHBEvCw"
       },
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2024-09-03 18:43:44",
       "album": {
-        "name": "A FORLORN HOPE",
-        "url": "https://open.spotify.com/album/552gufO6U4IFh3WWwA2kWr"
+        "name": "STOP THE WAR",
+        "url": "https://open.spotify.com/album/4FiPEUGopzwNJKxdA9TBaU"
       },
       "artists": [
         {
-          "name": "BRAHMAN",
-          "url": "https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5"
+          "name": "HEY-SMITH",
+          "url": "https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL"
         }
       ],
-      "duration_ms": 122493,
-      "name": "DEEP",
-      "url": "https://open.spotify.com/track/3RVr9rPwZ8EwbCshQWonMT"
+      "duration_ms": 183009,
+      "name": "Dandadan",
+      "url": "https://open.spotify.com/track/6PiCVwbOFHXCGgKhhscqXf"
     },
     {
       "added_at": "2024-09-03 18:43:44",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-09-03 18:43:44",
       "album": {
-        "name": "GOLD YOUTH",
-        "url": "https://open.spotify.com/album/4GYC2moJkrip8Hct4XskBe"
-      },
-      "artists": [
-        {
-          "name": "FUNNY THINK",
-          "url": "https://open.spotify.com/artist/62JiGgwrhE1PYawKu2qWtC"
-        }
-      ],
-      "duration_ms": 161333,
-      "name": "GOLD YOUTH",
-      "url": "https://open.spotify.com/track/1LPGdMiMhY6LXEMoIAa7ZK"
-    },
-    {
-      "added_at": "2024-09-03 18:43:44",
-      "album": {
         "name": "\u6c38\u9060\u885d\u52d5",
         "url": "https://open.spotify.com/album/1qmSmgNIWi1DwyXGv4Fbtz"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 254130,
       "name": "\u6c38\u9060\u885d\u52d5",
       "url": "https://open.spotify.com/track/5I2A6BkRvTve67HLQbK3WE"
+    },
+    {
+      "added_at": "2024-09-03 18:43:44",
+      "album": {
+        "name": "GOLD YOUTH",
+        "url": "https://open.spotify.com/album/4GYC2moJkrip8Hct4XskBe"
+      },
+      "artists": [
+        {
+          "name": "FUNNY THINK",
+          "url": "https://open.spotify.com/artist/62JiGgwrhE1PYawKu2qWtC"
+        }
+      ],
+      "duration_ms": 161333,
+      "name": "GOLD YOUTH",
+      "url": "https://open.spotify.com/track/1LPGdMiMhY6LXEMoIAa7ZK"
     },
     {
       "added_at": "2024-09-03 18:43:44",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2024-09-03 18:43:44",
       "album": {
+        "name": "DREAMS NEVER END",
+        "url": "https://open.spotify.com/album/1YLr4saK1uW4JUk87gLqMD"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Sunfist",
+          "url": "https://open.spotify.com/artist/66TdubACxGacvormjPazAk"
+        }
+      ],
+      "duration_ms": 203453,
+      "name": "The Dream Is Not Dead",
+      "url": "https://open.spotify.com/track/45YAIPPE3My3zoqOJJnLc8"
+    },
+    {
+      "added_at": "2024-09-03 18:43:44",
+      "album": {
         "name": "TRAIN-TRAIN",
         "url": "https://open.spotify.com/album/3VdSixq61uexxlDKfSG5hI"
       },
@@ -1559,18 +1575,18 @@
     {
       "added_at": "2024-09-03 18:43:44",
       "album": {
-        "name": "DREAMS NEVER END",
-        "url": "https://open.spotify.com/album/1YLr4saK1uW4JUk87gLqMD"
+        "name": "PUT ON FRESH PAINT",
+        "url": "https://open.spotify.com/album/6SgaWf8Yr7C714pmtVZz6x"
       },
       "artists": [
         {
-          "name": "Dizzy Sunfist",
-          "url": "https://open.spotify.com/artist/66TdubACxGacvormjPazAk"
+          "name": "Husking Bee",
+          "url": "https://open.spotify.com/artist/3reslfdzWDC8qHVM36KtZy"
         }
       ],
-      "duration_ms": 203453,
-      "name": "The Dream Is Not Dead",
-      "url": "https://open.spotify.com/track/45YAIPPE3My3zoqOJJnLc8"
+      "duration_ms": 161026,
+      "name": "SUN MYSELF",
+      "url": "https://open.spotify.com/track/6d8qnfUgBXKeiiaPSuuO4z"
     },
     {
       "added_at": "2024-09-03 18:43:44",
@@ -1591,18 +1607,18 @@
     {
       "added_at": "2024-09-03 18:43:44",
       "album": {
-        "name": "PUT ON FRESH PAINT",
-        "url": "https://open.spotify.com/album/6SgaWf8Yr7C714pmtVZz6x"
+        "name": "Goo Goo Goo",
+        "url": "https://open.spotify.com/album/7xgE9X3dQw5GBMognMf1oE"
       },
       "artists": [
         {
-          "name": "Husking Bee",
-          "url": "https://open.spotify.com/artist/3reslfdzWDC8qHVM36KtZy"
+          "name": "PAN",
+          "url": "https://open.spotify.com/artist/2YKxuLK7kkCTYnTkX4O17T"
         }
       ],
-      "duration_ms": 161026,
-      "name": "SUN MYSELF",
-      "url": "https://open.spotify.com/track/6d8qnfUgBXKeiiaPSuuO4z"
+      "duration_ms": 192453,
+      "name": "\"Let it die -Subete wa isutori game-\" (Let it die -All is musical chairs-)",
+      "url": "https://open.spotify.com/track/2TAxUxm124Yt8hvtUS9oXi"
     },
     {
       "added_at": "2024-09-03 18:43:44",
@@ -1619,22 +1635,6 @@
       "duration_ms": 182866,
       "name": "Ato-Ichinene",
       "url": "https://open.spotify.com/track/0dWj7tC2TQaz8854rKZ5xD"
-    },
-    {
-      "added_at": "2024-09-03 18:43:44",
-      "album": {
-        "name": "Goo Goo Goo",
-        "url": "https://open.spotify.com/album/7xgE9X3dQw5GBMognMf1oE"
-      },
-      "artists": [
-        {
-          "name": "PAN",
-          "url": "https://open.spotify.com/artist/2YKxuLK7kkCTYnTkX4O17T"
-        }
-      ],
-      "duration_ms": 192453,
-      "name": "\"Let it die -Subete wa isutori game-\" (Let it die -All is musical chairs-)",
-      "url": "https://open.spotify.com/track/2TAxUxm124Yt8hvtUS9oXi"
     }
   ],
   "unique_name": "Punk Japan",

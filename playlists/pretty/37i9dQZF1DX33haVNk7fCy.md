@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 
 > Dukh Dard Peeda!  🫂
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,796 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,003 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 | 39 | [Dhokha](https://open.spotify.com/track/7K0Br5tRLkicKKpkxC5A9i) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT) | [Dhokha](https://open.spotify.com/album/4fGKGVkgIgCp54qVGXhB81) | 2:50 |
 | 40 | [Mirza](https://open.spotify.com/track/4YQW2LiQxh3efV2En95t6U) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [JAI DHIR](https://open.spotify.com/artist/6T9VTdP8GxXoedKTls26pP) | [Mirza](https://open.spotify.com/album/1ncdWtw7rFMrDYSI49bMWd) | 1:00 |
 | 41 | [Khushi Jab Bhi Teri](https://open.spotify.com/track/0DqXA397QkcVjWq5Wa7DMt) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Khushalii Kumar](https://open.spotify.com/artist/10shJL4t1SGF0r24bg627p) | [Khushi Jab Bhi Teri](https://open.spotify.com/album/2VZlJpjJ4PD4DnVf2yPphq) | 4:00 |
-| 42 | [Dhokebaaz](https://open.spotify.com/track/2QASXYEGqKhN7jnr07c9hP) | [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo) | [Dhokebaaz](https://open.spotify.com/album/4rcQ3AXRzfNkH8tUOz6DeF) | 4:25 |
-| 43 | [Jeene De Na](https://open.spotify.com/track/6cXDuCHAC7NASzRQcCdJb0) | [Harish Sagane](https://open.spotify.com/artist/5v3LPrihYPF2Uu9jDEKnjx), [Raj Barman](https://open.spotify.com/artist/5qERXbPWPdUePjrAW00vuU) | [Jeene De Na](https://open.spotify.com/album/705AQTppp5TzoozTbC5btL) | 4:46 |
+| 42 | [Jeene De Na](https://open.spotify.com/track/6cXDuCHAC7NASzRQcCdJb0) | [Harish Sagane](https://open.spotify.com/artist/5v3LPrihYPF2Uu9jDEKnjx), [Raj Barman](https://open.spotify.com/artist/5qERXbPWPdUePjrAW00vuU) | [Jeene De Na](https://open.spotify.com/album/705AQTppp5TzoozTbC5btL) | 4:46 |
+| 43 | [Dhokebaaz](https://open.spotify.com/track/2QASXYEGqKhN7jnr07c9hP) | [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo) | [Dhokebaaz](https://open.spotify.com/album/4rcQ3AXRzfNkH8tUOz6DeF) | 4:25 |
 | 44 | [Wafa Na Raas Aayee](https://open.spotify.com/track/7rjFYm6THGNETjg3vb1Tof) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo), [Meet Bros.](https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS) | [Wafa Na Raas Aayee](https://open.spotify.com/album/4SJ1Bg3UAbnkLiaqkHcwaz) | 4:48 |
 | 45 | [Rula Ke Gaya Ishq](https://open.spotify.com/track/6G7MtVr7QKMnf7SeHl1BCQ) | [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq), [Sunny Inder](https://open.spotify.com/artist/2cEw7L2gI182OBneTIHBIu), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Stebin Ben Hits](https://open.spotify.com/album/3u7XV1op9it78PwOvyiBRZ) | 4:07 |
 | 46 | [Tu Bhi Sataya Jayega](https://open.spotify.com/track/7Hi1FAuRxHaG9BFJNi2awE) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507) | [Tu Bhi Sataya Jayega](https://open.spotify.com/album/1a9yfMwwtq0SXmV6kGCrgx) | 4:27 |
 | 47 | [Mehendi Wale Haath](https://open.spotify.com/track/3H4H5AuUK3t28rJNo1Pbfl) | [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25), [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Sanjana Sanghi](https://open.spotify.com/artist/0nFIPa2qOn5ODHEWi3Ywan) | [Mehendi Wale Haath](https://open.spotify.com/album/27tWgZZCTAUBHTS7h2sBhQ) | 3:30 |
 | 48 | [Tujhe Bhoolna Toh Chaaha](https://open.spotify.com/track/1mp0zS57ydCqZp9Tm4VvIy) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa) | [Tujhe Bhoolna Toh Chaaha](https://open.spotify.com/album/2W6ZCzLC2pezmRYJQKbr2C) | 4:35 |
 | 49 | [Khata](https://open.spotify.com/track/1yLEjCfSSO1UXAxgXg48d5) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Khata](https://open.spotify.com/album/40p7Y3kJSC4J5r9ZBeYyHe) | 4:10 |
-| 50 | [Rootho Na](https://open.spotify.com/track/3iianNzrInP4BTd6NYCq3g) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H) | [Rootho Na](https://open.spotify.com/album/7hqFafe5aIpab9Tx78q5mn) | 3:50 |
+| 50 | [Jodaa](https://open.spotify.com/track/7t8oWuQ4zBK4Sq5tO2HQCq) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Jatinder Shah](https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr) | [Jodaa](https://open.spotify.com/album/3yCf6sKeJ0ACymcdGX0vJB) | 5:40 |
 
 Snapshot ID: `Zt6U6gAAAAA2eawUz5ZsWkf17PJPJAb3`

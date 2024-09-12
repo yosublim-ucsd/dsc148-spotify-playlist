@@ -1,6 +1,6 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 470488,
+  "num_followers": 470521,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
@@ -8,30 +8,6 @@
   },
   "snapshot_id": "Ztpw5AAAAABWRvGzQawQKKzPRjU3aMRe",
   "tracks": [
-    {
-      "added_at": "2024-09-06 03:03:00",
-      "album": {
-        "name": "Vintage Culture & Friends 2",
-        "url": "https://open.spotify.com/album/3lQMwSJCdt8ECrirIdzELA"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Santti",
-          "url": "https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj"
-        },
-        {
-          "name": "Charlie Brown Jr.",
-          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
-        }
-      ],
-      "duration_ms": 261818,
-      "name": "C\u00e9u Azul - Vintage Culture & Santti Remix",
-      "url": "https://open.spotify.com/track/0davAVsF63UvUwOtbSOhSE"
-    },
     {
       "added_at": "2024-09-06 03:03:00",
       "album": {
@@ -55,6 +31,30 @@
       "duration_ms": 174001,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/4nraNqonMyfc0U3o8VeXVu"
+    },
+    {
+      "added_at": "2024-09-06 03:03:00",
+      "album": {
+        "name": "Vintage Culture & Friends 2",
+        "url": "https://open.spotify.com/album/3lQMwSJCdt8ECrirIdzELA"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Santti",
+          "url": "https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj"
+        },
+        {
+          "name": "Charlie Brown Jr.",
+          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
+        }
+      ],
+      "duration_ms": 261818,
+      "name": "C\u00e9u Azul - Vintage Culture & Santti Remix",
+      "url": "https://open.spotify.com/track/0davAVsF63UvUwOtbSOhSE"
     },
     {
       "added_at": "2024-09-06 03:03:00",
@@ -147,26 +147,6 @@
     {
       "added_at": "2024-09-06 03:03:00",
       "album": {
-        "name": "Outside Of Love (Zerb Remix)",
-        "url": "https://open.spotify.com/album/24mUalHE64ktRE9OiW5PgE"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Zerb",
-          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
-        }
-      ],
-      "duration_ms": 192317,
-      "name": "Outside Of Love - Zerb Remix",
-      "url": "https://open.spotify.com/track/7pO5CuNmPjoG2c27YWliB5"
-    },
-    {
-      "added_at": "2024-09-06 03:03:00",
-      "album": {
         "name": "Bem Melhor (KVSH Remix)",
         "url": "https://open.spotify.com/album/4uytEVyrbKnXwcz0Jxj7rZ"
       },
@@ -183,6 +163,26 @@
       "duration_ms": 183431,
       "name": "Bem Melhor - KVSH Remix",
       "url": "https://open.spotify.com/track/76m2MiAKQvoHsgvwRDPXx5"
+    },
+    {
+      "added_at": "2024-09-06 03:03:00",
+      "album": {
+        "name": "Outside Of Love (Zerb Remix)",
+        "url": "https://open.spotify.com/album/24mUalHE64ktRE9OiW5PgE"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        }
+      ],
+      "duration_ms": 192317,
+      "name": "Outside Of Love - Zerb Remix",
+      "url": "https://open.spotify.com/track/7pO5CuNmPjoG2c27YWliB5"
     },
     {
       "added_at": "2024-09-06 03:03:00",
@@ -231,6 +231,26 @@
     {
       "added_at": "2024-09-06 03:03:00",
       "album": {
+        "name": "Table For 2",
+        "url": "https://open.spotify.com/album/3eH0FdLqQtwQepYe6PazQw"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "iRO",
+          "url": "https://open.spotify.com/artist/3TNpNnN7Y8QhtJJnQ08YeF"
+        }
+      ],
+      "duration_ms": 176283,
+      "name": "Table For 2",
+      "url": "https://open.spotify.com/track/11xOwUHV7P1q7UpEQuMIrx"
+    },
+    {
+      "added_at": "2024-09-06 03:03:00",
+      "album": {
         "name": "Cante por N\u00f3s",
         "url": "https://open.spotify.com/album/7zsQ5suVlsbukzTjgAzrpm"
       },
@@ -251,26 +271,6 @@
       "duration_ms": 209032,
       "name": "Cante por N\u00f3s",
       "url": "https://open.spotify.com/track/7q4aClIlFcgyVQDACJQdmG"
-    },
-    {
-      "added_at": "2024-09-06 03:03:00",
-      "album": {
-        "name": "Table For 2",
-        "url": "https://open.spotify.com/album/3eH0FdLqQtwQepYe6PazQw"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "iRO",
-          "url": "https://open.spotify.com/artist/3TNpNnN7Y8QhtJJnQ08YeF"
-        }
-      ],
-      "duration_ms": 176283,
-      "name": "Table For 2",
-      "url": "https://open.spotify.com/track/11xOwUHV7P1q7UpEQuMIrx"
     },
     {
       "added_at": "2024-09-06 03:03:00",
@@ -315,26 +315,6 @@
     {
       "added_at": "2024-09-06 03:03:00",
       "album": {
-        "name": "A Namorada",
-        "url": "https://open.spotify.com/album/09eU4tqe8H3r8l7iXPK8LR"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "Carlinhos Brown",
-          "url": "https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv"
-        }
-      ],
-      "duration_ms": 181147,
-      "name": "A Namorada",
-      "url": "https://open.spotify.com/track/4XiKD9S5iYetRQJAgb6El1"
-    },
-    {
-      "added_at": "2024-09-06 03:03:00",
-      "album": {
         "name": "Algum Ritmo (Remix)",
         "url": "https://open.spotify.com/album/1FfRtToPv63IurU5tHWyn2"
       },
@@ -375,6 +355,50 @@
       "duration_ms": 342360,
       "name": "Pumped up Kicks (feat. Joy Corporation)",
       "url": "https://open.spotify.com/track/5xSGWKadCR6lZu68cVkrLI"
+    },
+    {
+      "added_at": "2024-09-06 03:03:00",
+      "album": {
+        "name": "A Namorada",
+        "url": "https://open.spotify.com/album/09eU4tqe8H3r8l7iXPK8LR"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "Carlinhos Brown",
+          "url": "https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv"
+        }
+      ],
+      "duration_ms": 181147,
+      "name": "A Namorada",
+      "url": "https://open.spotify.com/track/4XiKD9S5iYetRQJAgb6El1"
+    },
+    {
+      "added_at": "2024-09-06 03:03:00",
+      "album": {
+        "name": "Boa Sorte (Alok, Vanessa da Mata e Cat Dealers)",
+        "url": "https://open.spotify.com/album/0n06oWsR6j9iFYWPpqqibF"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Vanessa Da Mata",
+          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
+        },
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        }
+      ],
+      "duration_ms": 191612,
+      "name": "Boa Sorte (Alok, Vanessa da Mata e Cat Dealers)",
+      "url": "https://open.spotify.com/track/4smXdvRpH5aqlqTzNKCFAh"
     },
     {
       "added_at": "2024-09-06 03:03:00",
@@ -427,50 +451,6 @@
     {
       "added_at": "2024-09-06 03:03:00",
       "album": {
-        "name": "Boa Sorte (Alok, Vanessa da Mata e Cat Dealers)",
-        "url": "https://open.spotify.com/album/0n06oWsR6j9iFYWPpqqibF"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Vanessa Da Mata",
-          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
-        },
-        {
-          "name": "Cat Dealers",
-          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
-        }
-      ],
-      "duration_ms": 191612,
-      "name": "Boa Sorte (Alok, Vanessa da Mata e Cat Dealers)",
-      "url": "https://open.spotify.com/track/4smXdvRpH5aqlqTzNKCFAh"
-    },
-    {
-      "added_at": "2024-09-06 03:03:00",
-      "album": {
-        "name": "Oh! Chuva",
-        "url": "https://open.spotify.com/album/12uCk8CZOUFgd4KdBeCCkU"
-      },
-      "artists": [
-        {
-          "name": "Cat Dealers",
-          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
-        },
-        {
-          "name": "Falamansa",
-          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
-        }
-      ],
-      "duration_ms": 144796,
-      "name": "Oh! Chuva",
-      "url": "https://open.spotify.com/track/1MpLC1n2AenlVxynucQINf"
-    },
-    {
-      "added_at": "2024-09-06 03:03:00",
-      "album": {
         "name": "Sem Ch\u00e3o (Malemol\u00eancia)",
         "url": "https://open.spotify.com/album/1KMNZU2XgBIFejM1j0DHwR"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 158769,
       "name": "Sem Ch\u00e3o (Malemol\u00eancia)",
       "url": "https://open.spotify.com/track/4DEU9APTmDLxnOsZnxhxI2"
+    },
+    {
+      "added_at": "2024-09-06 03:03:00",
+      "album": {
+        "name": "Oh! Chuva",
+        "url": "https://open.spotify.com/album/12uCk8CZOUFgd4KdBeCCkU"
+      },
+      "artists": [
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        },
+        {
+          "name": "Falamansa",
+          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
+        }
+      ],
+      "duration_ms": 144796,
+      "name": "Oh! Chuva",
+      "url": "https://open.spotify.com/track/1MpLC1n2AenlVxynucQINf"
     },
     {
       "added_at": "2024-09-06 03:03:00",
@@ -539,46 +539,6 @@
     {
       "added_at": "2024-09-06 03:03:00",
       "album": {
-        "name": "Toda Forma De Amor (Remix)",
-        "url": "https://open.spotify.com/album/6JrcGklaPVSgStFMVr1D80"
-      },
-      "artists": [
-        {
-          "name": "Make U Sweat",
-          "url": "https://open.spotify.com/artist/2REtZ0a1gh5LzXswkSkQUp"
-        },
-        {
-          "name": "Lulu Santos",
-          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
-        }
-      ],
-      "duration_ms": 228661,
-      "name": "Toda Forma De Amor - Remix",
-      "url": "https://open.spotify.com/track/5OUcQYbAwl4uKlVqnTqs2C"
-    },
-    {
-      "added_at": "2024-09-06 03:03:00",
-      "album": {
-        "name": "Telegrama (Double MZK Remix)",
-        "url": "https://open.spotify.com/album/5CyzZozQCAbNg8t1ww9UD2"
-      },
-      "artists": [
-        {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
-        },
-        {
-          "name": "Double MZK",
-          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
-        }
-      ],
-      "duration_ms": 159193,
-      "name": "Telegrama (Double MZK Remix)",
-      "url": "https://open.spotify.com/track/6ZT3MwKnS3u4IvNFT8iz8i"
-    },
-    {
-      "added_at": "2024-09-06 03:03:00",
-      "album": {
         "name": "Free My Mind",
         "url": "https://open.spotify.com/album/6YoRnsRWfFtEFK2G8s5AaM"
       },
@@ -603,22 +563,22 @@
     {
       "added_at": "2024-09-06 03:03:00",
       "album": {
-        "name": "I Love It",
-        "url": "https://open.spotify.com/album/35VzFsBlvx9XGP2hziKKLh"
+        "name": "Toda Forma De Amor (Remix)",
+        "url": "https://open.spotify.com/album/6JrcGklaPVSgStFMVr1D80"
       },
       "artists": [
         {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+          "name": "Make U Sweat",
+          "url": "https://open.spotify.com/artist/2REtZ0a1gh5LzXswkSkQUp"
         },
         {
-          "name": "DLMT",
-          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
+          "name": "Lulu Santos",
+          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
         }
       ],
-      "duration_ms": 166299,
-      "name": "I Love It",
-      "url": "https://open.spotify.com/track/0XmQPFLkdMEsnKQOrqy9rU"
+      "duration_ms": 228661,
+      "name": "Toda Forma De Amor - Remix",
+      "url": "https://open.spotify.com/track/5OUcQYbAwl4uKlVqnTqs2C"
     },
     {
       "added_at": "2024-09-06 03:03:00",
@@ -639,6 +599,46 @@
       "duration_ms": 168449,
       "name": "T\u00f4 de F\u00e9rias",
       "url": "https://open.spotify.com/track/1xHcw1xHylSNbOZQenjrBn"
+    },
+    {
+      "added_at": "2024-09-06 03:03:00",
+      "album": {
+        "name": "I Love It",
+        "url": "https://open.spotify.com/album/35VzFsBlvx9XGP2hziKKLh"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "DLMT",
+          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
+        }
+      ],
+      "duration_ms": 166299,
+      "name": "I Love It",
+      "url": "https://open.spotify.com/track/0XmQPFLkdMEsnKQOrqy9rU"
+    },
+    {
+      "added_at": "2024-09-06 03:03:00",
+      "album": {
+        "name": "Telegrama (Double MZK Remix)",
+        "url": "https://open.spotify.com/album/5CyzZozQCAbNg8t1ww9UD2"
+      },
+      "artists": [
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+        },
+        {
+          "name": "Double MZK",
+          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
+        }
+      ],
+      "duration_ms": 159193,
+      "name": "Telegrama (Double MZK Remix)",
+      "url": "https://open.spotify.com/track/6ZT3MwKnS3u4IvNFT8iz8i"
     },
     {
       "added_at": "2024-09-06 03:03:00",
@@ -683,6 +683,30 @@
     {
       "added_at": "2024-09-06 03:03:00",
       "album": {
+        "name": "E Depois (Que Sorte A Minha)",
+        "url": "https://open.spotify.com/album/0ICc6IqSIkLkS2idTkFXu0"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        },
+        {
+          "name": "BiD",
+          "url": "https://open.spotify.com/artist/1kDJFTg4KHIPymr1A6Vylm"
+        }
+      ],
+      "duration_ms": 220125,
+      "name": "E Depois (Que Sorte A Minha)",
+      "url": "https://open.spotify.com/track/214FzhGa7IXferIhbZ9KnL"
+    },
+    {
+      "added_at": "2024-09-06 03:03:00",
+      "album": {
         "name": "Descobridor dos Sete Mares: Remix",
         "url": "https://open.spotify.com/album/4WgHM4zYuCkQxR9hV1OsDX"
       },
@@ -699,6 +723,46 @@
       "duration_ms": 191250,
       "name": "Descobridor dos Sete Mares: Remix",
       "url": "https://open.spotify.com/track/5yMMQqhgH2gYraNSD3sv0A"
+    },
+    {
+      "added_at": "2024-09-06 03:03:00",
+      "album": {
+        "name": "Could You Be Loved",
+        "url": "https://open.spotify.com/album/3IyaJ5J4X4a7PtHDD6rYFu"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "Mojjo",
+          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "Could You Be Loved",
+      "url": "https://open.spotify.com/track/74PQjt9auBuTHXoQk9ryS4"
+    },
+    {
+      "added_at": "2024-09-06 03:03:00",
+      "album": {
+        "name": "Amor Pra Recome\u00e7ar",
+        "url": "https://open.spotify.com/album/2xR4lb0yAglnIoEgdvb7Ch"
+      },
+      "artists": [
+        {
+          "name": "Jopin",
+          "url": "https://open.spotify.com/artist/5eOyNvHjfi9EcXeJwrCroz"
+        },
+        {
+          "name": "Saulo",
+          "url": "https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf"
+        }
+      ],
+      "duration_ms": 158095,
+      "name": "Amor Pra Recome\u00e7ar",
+      "url": "https://open.spotify.com/track/6kNZZrEuRbNevp9dW3RPDX"
     },
     {
       "added_at": "2024-09-06 03:03:00",
@@ -727,70 +791,6 @@
       "duration_ms": 160429,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/3Fq1tzIgvxTm0pRcqVbsRy"
-    },
-    {
-      "added_at": "2024-09-06 03:03:00",
-      "album": {
-        "name": "Could You Be Loved",
-        "url": "https://open.spotify.com/album/3IyaJ5J4X4a7PtHDD6rYFu"
-      },
-      "artists": [
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        },
-        {
-          "name": "Mojjo",
-          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "Could You Be Loved",
-      "url": "https://open.spotify.com/track/74PQjt9auBuTHXoQk9ryS4"
-    },
-    {
-      "added_at": "2024-09-06 03:03:00",
-      "album": {
-        "name": "E Depois (Que Sorte A Minha)",
-        "url": "https://open.spotify.com/album/0ICc6IqSIkLkS2idTkFXu0"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        },
-        {
-          "name": "BiD",
-          "url": "https://open.spotify.com/artist/1kDJFTg4KHIPymr1A6Vylm"
-        }
-      ],
-      "duration_ms": 220125,
-      "name": "E Depois (Que Sorte A Minha)",
-      "url": "https://open.spotify.com/track/214FzhGa7IXferIhbZ9KnL"
-    },
-    {
-      "added_at": "2024-09-06 03:03:00",
-      "album": {
-        "name": "Amor Pra Recome\u00e7ar",
-        "url": "https://open.spotify.com/album/2xR4lb0yAglnIoEgdvb7Ch"
-      },
-      "artists": [
-        {
-          "name": "Jopin",
-          "url": "https://open.spotify.com/artist/5eOyNvHjfi9EcXeJwrCroz"
-        },
-        {
-          "name": "Saulo",
-          "url": "https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf"
-        }
-      ],
-      "duration_ms": 158095,
-      "name": "Amor Pra Recome\u00e7ar",
-      "url": "https://open.spotify.com/track/6kNZZrEuRbNevp9dW3RPDX"
     },
     {
       "added_at": "2024-09-06 03:03:00",
@@ -847,26 +847,6 @@
     {
       "added_at": "2024-09-06 03:03:00",
       "album": {
-        "name": "Somebody That You Loved",
-        "url": "https://open.spotify.com/album/2hZK1aGxPqE8XMyUK8bV79"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "New Hope Club",
-          "url": "https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez"
-        }
-      ],
-      "duration_ms": 215998,
-      "name": "Somebody That You Loved",
-      "url": "https://open.spotify.com/track/2x6kFL5AIIwacxHySO4mXP"
-    },
-    {
-      "added_at": "2024-09-06 03:03:00",
-      "album": {
         "name": "Back to Beginning",
         "url": "https://open.spotify.com/album/7Fdhev6cQwBDr5Ltzjd30y"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 209032,
       "name": "Fiz Esse Som Pra Voc\u00ea - Double MZK Remix",
       "url": "https://open.spotify.com/track/2HI7WY6XIzVB47espl3Sho"
+    },
+    {
+      "added_at": "2024-09-06 03:03:00",
+      "album": {
+        "name": "Somebody That You Loved",
+        "url": "https://open.spotify.com/album/2hZK1aGxPqE8XMyUK8bV79"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "New Hope Club",
+          "url": "https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez"
+        }
+      ],
+      "duration_ms": 215998,
+      "name": "Somebody That You Loved",
+      "url": "https://open.spotify.com/track/2x6kFL5AIIwacxHySO4mXP"
     },
     {
       "added_at": "2024-09-06 03:03:00",
@@ -999,26 +999,6 @@
     {
       "added_at": "2024-09-06 03:03:00",
       "album": {
-        "name": "I Do (with Zeeba)",
-        "url": "https://open.spotify.com/album/1m1opaakLIL6TzL7NjFhso"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        }
-      ],
-      "duration_ms": 173446,
-      "name": "I Do - with Zeeba",
-      "url": "https://open.spotify.com/track/6lgLLgwC7vKguYUPSszMNt"
-    },
-    {
-      "added_at": "2024-09-06 03:03:00",
-      "album": {
         "name": "Z\u00e9 do caro\u00e7o",
         "url": "https://open.spotify.com/album/2FlQQe9dVw5Feqdv1HWO2Q"
       },
@@ -1035,6 +1015,26 @@
       "duration_ms": 192000,
       "name": "Z\u00e9 do caro\u00e7o",
       "url": "https://open.spotify.com/track/0AKNWA4m7jhh4SdZxKMC0R"
+    },
+    {
+      "added_at": "2024-09-06 03:03:00",
+      "album": {
+        "name": "I Do (with Zeeba)",
+        "url": "https://open.spotify.com/album/1m1opaakLIL6TzL7NjFhso"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        }
+      ],
+      "duration_ms": 173446,
+      "name": "I Do - with Zeeba",
+      "url": "https://open.spotify.com/track/6lgLLgwC7vKguYUPSszMNt"
     },
     {
       "added_at": "2024-09-06 03:03:00",
@@ -1511,30 +1511,22 @@
     {
       "added_at": "2024-09-06 03:03:00",
       "album": {
-        "name": "A Dois Passos do Para\u00edso (Remix)",
-        "url": "https://open.spotify.com/album/1at0bvTPBCtDv2a9nPnlRB"
+        "name": "Alok Presents Brazilian Bass: Pt. 1",
+        "url": "https://open.spotify.com/album/1tgfni2oyGJMqrl73x3r6Z"
       },
       "artists": [
         {
-          "name": "Blitz",
-          "url": "https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ"
+          "name": "Selva",
+          "url": "https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa"
         },
         {
-          "name": "Guz Zanotto",
-          "url": "https://open.spotify.com/artist/4s2oHxyGNA3QZBeWELgBJI"
-        },
-        {
-          "name": "Overdriver Duo",
-          "url": "https://open.spotify.com/artist/37knAlDxPb6FSnBQJNzM18"
-        },
-        {
-          "name": "Evandro Carlos Tiburski",
-          "url": "https://open.spotify.com/artist/3WnTOvr9Hr4aPgVXr7vun7"
+          "name": "Zerky",
+          "url": "https://open.spotify.com/artist/3DAlQBPv5zWasPxV5Tr8ok"
         }
       ],
-      "duration_ms": 209014,
-      "name": "A Dois Passos do Para\u00edso - Remix",
-      "url": "https://open.spotify.com/track/1pXXIiYHe8sqZlE1yKQG6b"
+      "duration_ms": 173114,
+      "name": "Make Me Wanna",
+      "url": "https://open.spotify.com/track/7EwkcUIoPXh67ampCvRk6I"
     }
   ],
   "unique_name": "Festa na Praia",

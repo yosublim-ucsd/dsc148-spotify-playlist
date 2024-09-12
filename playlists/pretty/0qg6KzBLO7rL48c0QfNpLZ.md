@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 
 > The Best Background Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 100,574 likes - 199 songs - 8 hr 51 min
+[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 100,882 likes - 199 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 | 30 | [Bel Air](https://open.spotify.com/track/228I6cPI71qalWnmpgJGWN) | [s m s n](https://open.spotify.com/artist/7fU0fsPj1ovHWHWghGl65T) | [Bel Air](https://open.spotify.com/album/4WZZlR4Bv2GF4VFwK1XZff) | 2:44 |
 | 31 | [Say My Name](https://open.spotify.com/track/1wFrqd5w0lASQuH8BapeQr) | [RandLover](https://open.spotify.com/artist/69yyvSx8EpEzizZgyIe4Jd), [Catching Sunrises](https://open.spotify.com/artist/1ZRHglRvKYNVcLjp1YAsSz), [Solven](https://open.spotify.com/artist/5pVJy0HEoSMAUOppxBJXZd) | [Say My Name](https://open.spotify.com/album/0ZiYtKj54YR43bBOFfoHyn) | 2:09 |
 | 32 | [Just Fine](https://open.spotify.com/track/11jHthuSox1s2QT9PvCjJZ) | [Drics](https://open.spotify.com/artist/5NlawbBDGkH8W9SblamHZO) | [Just Fine](https://open.spotify.com/album/6dtm2kbe7eyRxLWcWbejD1) | 2:38 |
-| 33 | [Summer Nights](https://open.spotify.com/track/4u56qONxl1x6zApPw0KP2s) | [Harddope](https://open.spotify.com/artist/0wfl4Df1okXQp1cCxkHo6E), [LexMorris](https://open.spotify.com/artist/1IE7Pib3j9e5UDbPer4W6a), [Eleanor Blue](https://open.spotify.com/artist/4CPbf60fZcdgvAeAeh9rlh) | [Summer Nights](https://open.spotify.com/album/7xeBZ3kF5CABeNXcZ2gZFO) | 2:03 |
+| 33 | [Summer Nights](https://open.spotify.com/track/4u56qONxl1x6zApPw0KP2s) | [Harddope](https://open.spotify.com/artist/0wfl4Df1okXQp1cCxkHo6E), [LexMorris](https://open.spotify.com/artist/1IE7Pib3j9e5UDbPer4W6a), [Elle Blue](https://open.spotify.com/artist/0oYf66lhuY6lT7xB5xSXuO) | [Summer Nights](https://open.spotify.com/album/7xeBZ3kF5CABeNXcZ2gZFO) | 2:03 |
 | 34 | [What Is This Happiness?](https://open.spotify.com/track/7cXAN0D6BYxR3YosEZGFWV) | [Luna Blue](https://open.spotify.com/artist/1JNyuExWIvx8kH5NOlSBuA) | [What Is This Happiness?](https://open.spotify.com/album/7kIdn1LBv8kCbsgallVcCO) | 2:37 |
 | 35 | [Because of You](https://open.spotify.com/track/7cnSRPNKIGxvfAVibEdk3O) | [Jake and the colors](https://open.spotify.com/artist/34kFVk5BmD7S3KGGiOnCvJ) | [Because of You](https://open.spotify.com/album/7M48wAYFnZbjPoa6oPP3Nj) | 2:30 |
 | 36 | [Raymo](https://open.spotify.com/track/7zpxgaoaixzogb59CJy3EV) | [MXV](https://open.spotify.com/artist/2CGL9R0HbeFEJgZ7b1ShHG) | [Raymo](https://open.spotify.com/album/6FkoOVfW8ZlnQMbPfcS1qK) | 3:17 |
@@ -157,7 +157,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 | 147 | [Think Of You](https://open.spotify.com/track/1GeErNU963DhkK2hqvbCwB) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu) | [Think Of You](https://open.spotify.com/album/29UeSRbflXTItUqTKO5QZs) | 2:30 |
 | 148 | [Woke up in Bangkok](https://open.spotify.com/track/3x63A5hq4vldKE8hWIi1tE) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Martin Gallop](https://open.spotify.com/artist/46WkN3HXolXQ0uLeZZ8Xym) | [Woke up in Bangkok](https://open.spotify.com/album/3wTF7jBER1wfpq8C6SZmgh) | 2:49 |
 | 149 | [Fast Car](https://open.spotify.com/track/1SN1vSPsr4V4tIUTR3s8YW) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Dakota](https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms) | [Blue](https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L) | 3:32 |
-| 150 | [Cool Kids](https://open.spotify.com/track/13P5rwmk2EsoFRIz9UCeh9) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x) | [Talking Dreams \(Deluxe Edition\)](https://open.spotify.com/album/1oHY6eQmEG8skElDvFgKz2) | 3:57 |
+| 150 | [Cool Kids](https://open.spotify.com/track/13P5rwmk2EsoFRIz9UCeh9) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x) | [Talking Dreams \- Deluxe Edition](https://open.spotify.com/album/1oHY6eQmEG8skElDvFgKz2) | 3:57 |
 | 151 | [Cheerleader \(Felix Jaehn Remix\) \- Radio Edit](https://open.spotify.com/track/7vFoFDWqTX0mHzLfrF1Cfy) | [OMI](https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Me 4 U](https://open.spotify.com/album/7cVXH4slEYzGjDh498OFyL) | 3:00 |
 | 152 | [Prayer in C \- Robin Schulz Radio Edit](https://open.spotify.com/track/5fnA9mkIfScSqHIpeDyvck) | [Lilly Wood and The Prick](https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Prayer in C](https://open.spotify.com/album/6Ps0kbvAjuz75uK0uuZzWa) | 3:09 |
 | 153 | [A Part of You](https://open.spotify.com/track/3PjBLeVb8w5LXwJr8LBm0u) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X) | [6115 Orange St](https://open.spotify.com/album/1MHdrpxvqlnV9cvqg2OhQn) | 2:47 |

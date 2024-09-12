@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 
 > Os hits e novidades de artistas LGBTQIAPN+ estão aqui\. Foto: Boombeat, Jaloo
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,996 likes - 60 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,989 likes - 60 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [CHATA](https://open.spotify.com/track/4VCcq6VeIwwIdTf4KWBBbr) | [Boombeat](https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [CHATA](https://open.spotify.com/album/2ViIh0f9ZLlQA5H00kcncj) | 2:36 |
-| 2 | [Página De Ex \- Ao Vivo](https://open.spotify.com/track/2kFaWbpzQzpaJ0H6PskR6k) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Mari No Barzinho \(Ao Vivo No RJ\)](https://open.spotify.com/album/6iBPOik18bu37n3mLNGwbx) | 2:41 |
+| 2 | [Página De Ex \- Ao Vivo](https://open.spotify.com/track/2kFaWbpzQzpaJ0H6PskR6k) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Mari No Barzinho \- Ao Vivo No RJ](https://open.spotify.com/album/6iBPOik18bu37n3mLNGwbx) | 2:41 |
 | 3 | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq) | 2:41 |
 | 4 | [Quero te ver gozar \- Remix](https://open.spotify.com/track/04RAH5zSxLYDpm08cebkz9) | [Jaloo](https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [MAU \| Quero te ver gozar \(Remix\)](https://open.spotify.com/album/3IRUm0pVq5R9V9LMjw9H4l) | 3:12 |
 | 5 | [O KIKIKI da Jaloo e da Boombeat](https://open.spotify.com/episode/0gjga2PfWTFV60ihqyK0eQ) | [KIKIKI](https://open.spotify.com/show/2VXdtQLsLZN6p2xPOnhQne) | [KIKIKI](https://open.spotify.com/album/2VXdtQLsLZN6p2xPOnhQne) | 36:24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1TJLNVWLtxRWrJYLhaW2hE.md) - [plain]
 
 > Good Trouble official playlist \~ featuring songs from each episode.
 
-[Freeform](https://open.spotify.com/user/abcfamily) - 9,784 likes - 664 songs - 1 day 15 hr 37 min
+[Freeform](https://open.spotify.com/user/abcfamily) - 9,788 likes - 664 songs - 1 day 15 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -153,10 +153,10 @@ pretty - [cumulative](/playlists/cumulative/1TJLNVWLtxRWrJYLhaW2hE.md) - [plain]
 | 143 | [My Man \- Edit](https://open.spotify.com/track/1tizyMv5WQhwx8meZDrAKW) | [Crush Club](https://open.spotify.com/artist/3xxRhjD7z41Q0hnNEjIifc), [Nicki B The Vagabond](https://open.spotify.com/artist/1B76LVvwgQLQ6HTCm0HcrV) | [My Man](https://open.spotify.com/album/7ciCglnjKQ2Y9ezScRAKem) | 2:46 |
 | 144 | [Five Two](https://open.spotify.com/track/3nI8CrzfiHzWOPjkCWnuQF) | [Jacquie](https://open.spotify.com/artist/0SuQEAJ7EMAipBdrAYO4XS) | [Five Two](https://open.spotify.com/album/67a6VEQuYIol0CzjEz2FHK) | 2:12 |
 | 145 | [Torn](https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU) | [Natalie Imbruglia](https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP) | [Left Of The Middle](https://open.spotify.com/album/38alWeQVP9UUAGJvLptys9) | 4:04 |
-| 146 | [Stupid Girl \- Remastered 2015](https://open.spotify.com/track/3fNf71Ktya4CYMqGM6eRud) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Garbage \(20th Anniversary Deluxe Edition/Remastered\)](https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7) | 4:18 |
+| 146 | [Stupid Girl \- Remastered 2015](https://open.spotify.com/track/3fNf71Ktya4CYMqGM6eRud) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Garbage \- 20th Anniversary Deluxe Edition/Remastered](https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7) | 4:18 |
 | 147 | [Let's Talk About Sex](https://open.spotify.com/track/6hTBP6QLwJdxbKyLlLXrGo) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [Blacks' Magic](https://open.spotify.com/album/4iCiqnufcdAdTyKrkKGwqR) | 3:33 |
 | 148 | [All Star](https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Astro Lounge](https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P) | 3:20 |
-| 149 | [Queer](https://open.spotify.com/track/3Huutm0fMOv8gJlARLGENG) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Garbage \(20th Anniversary Deluxe Edition/Remastered\)](https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7) | 4:36 |
+| 149 | [Queer](https://open.spotify.com/track/3Huutm0fMOv8gJlARLGENG) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Garbage \- 20th Anniversary Deluxe Edition/Remastered](https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7) | 4:36 |
 | 150 | [From the Bottom of My Broken Heart](https://open.spotify.com/track/70XtWbcVZcpaOddJftMcVi) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 5:12 |
 | 151 | [Macarena](https://open.spotify.com/track/4oaj36KzXRgDg4McgcTsZK) | [Los Del Rio](https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk) | [Fiesta Macarena](https://open.spotify.com/album/6yPJmxBhq3zxj9gfTddfyU) | 4:09 |
 | 152 | [How Bizarre](https://open.spotify.com/track/0wJyFu6JHwUoKQN5X3uzVe) | [OMC](https://open.spotify.com/artist/4vdt8TD56jjQfmxFCmhubX) | [How Bizarre](https://open.spotify.com/album/3JSCkR1qkv6A0s8MkT49EU) | 3:44 |

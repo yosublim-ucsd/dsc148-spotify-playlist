@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-08-10",
-  "description": "This is Karl Jenkins. The essential tracks, all in one playlist.",
+  "description": "This is Karl Jenkins\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
   "name": "This Is Karl Jenkins",
   "tracks": [
     {
@@ -544,7 +544,7 @@
       ],
       "date_added": "2024-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 260013,
       "name": "Exsultate, jubilate",
       "url": "https://open.spotify.com/track/4mqbR5rN3FhwW6PQC1VXdp"
@@ -1576,6 +1576,32 @@
       "duration_ms": 340360,
       "name": "Stravaganza: 2. Dreams & Drones",
       "url": "https://open.spotify.com/track/2hVkfl9L8QkvyU90dGuGfa"
+    },
+    {
+      "album": {
+        "name": "Stravaganza",
+        "url": "https://open.spotify.com/album/0xDz1S8NMZH7xHmeUjQwB4"
+      },
+      "artists": [
+        {
+          "name": "Karl Jenkins",
+          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
+        },
+        {
+          "name": "Jess Gillam",
+          "url": "https://open.spotify.com/artist/41OHse5xHr1E6wceODGrPB"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340360,
+      "name": "Stravaganza: 2. Dreams & Drones",
+      "url": "https://open.spotify.com/track/6bJfNsrfcILWqf3mapJmlx"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,347 likes - 111 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,362 likes - 111 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 64 | [Inte lojal \(Cest la Vie\)](https://open.spotify.com/track/5wUhoItFsIycDmMDHyKpGe) | [L4baby](https://open.spotify.com/artist/6ys0L4WvzuKY1lCRuNDjpX) | [Inte lojal \(Cest la Vie\)](https://open.spotify.com/album/2QjXqA6EOunBLGSynpB8vB) | 2:20 |
 | 65 | [HOE SH\*T](https://open.spotify.com/track/19G6VkR18yK5V1nYpaGT3m) | [M.I.M.E](https://open.spotify.com/artist/1RdQK73ZgvXjkaBJkibE6X), [Azide](https://open.spotify.com/artist/0jZCd5FFBIaaiXlIJX6I9h), [XAUCE](https://open.spotify.com/artist/4ZB2CXTdB5aCbmgoKZngCd) | [HOE SH\*T](https://open.spotify.com/album/6690qyyPEf7Fg4ArcrZPSo) | 2:03 |
 | 66 | [Forever \(feat\. Shallipopi\)](https://open.spotify.com/track/0MAUM5bJIV77liYMlLLf08) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Forever \(feat\. Shallipopi\)](https://open.spotify.com/album/59uFPaqOx7ASdp3SM6tTFZ) | 2:35 |
-| 67 | [Wet Dreams \(feat\. coop & gg\)](https://open.spotify.com/track/20LfID5lY83tDZAHZqpFtC) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [coop](https://open.spotify.com/artist/39Fgy3DGHvOP32RcQ8U4bv), [G G](https://open.spotify.com/artist/6hepB9skRNYPl9CkOpwKGj) | [Wet Dreams \(feat\. coop & gg\)](https://open.spotify.com/album/65NAjD3jks0YWWLVkl2VnO) | 2:39 |
+| 67 | [Wet Dreams \(feat\. coop & gg\)](https://open.spotify.com/track/20LfID5lY83tDZAHZqpFtC) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [coop](https://open.spotify.com/artist/39Fgy3DGHvOP32RcQ8U4bv), [gg](https://open.spotify.com/artist/12XC7Vu5zRQ9Q8UFmX6Fnw) | [Wet Dreams \(feat\. coop & gg\)](https://open.spotify.com/album/65NAjD3jks0YWWLVkl2VnO) | 2:39 |
 | 68 | [Real Love](https://open.spotify.com/track/6EBmSBk6dYp0LmXH2ZXZib) | [AVEC](https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf) | [Real Love](https://open.spotify.com/album/0pxlcLUC51lJ8BHqJ3dsgC) | 2:44 |
 | 69 | [Jailbreak](https://open.spotify.com/track/0fRi9tPnhwwQsJg5iFFnIa) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol), [Bayker Blankenship](https://open.spotify.com/artist/1iP8yKbscxGv4Yzysz7XLr) | [Jailbreak](https://open.spotify.com/album/5cLpXSs4aAd0v19UvO8yBM) | 3:13 |
 | 70 | [White Flowers](https://open.spotify.com/track/7wp3NvUZAx89LnVn0U59Ow) | [Ronia](https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z) | [White Flowers](https://open.spotify.com/album/2coiUPZSdLdfrtUMw4ZFvJ) | 3:05 |

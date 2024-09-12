@@ -1207,6 +1207,24 @@
     },
     {
       "album": {
+        "name": "Crawling",
+        "url": "https://open.spotify.com/album/75lVQpORGx9xwyyPr55Aa1"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176934,
+      "name": "Crawling",
+      "url": "https://open.spotify.com/track/1khBnYHMABE5yXgKs5p5of"
+    },
+    {
+      "album": {
         "name": "Cutting Loose",
         "url": "https://open.spotify.com/album/1MQoCqxbLS7kf9xWUTxuRF"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: R3HAB x 希林娜依.高 x Crazy Donkey
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,263 likes - 93 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,271 likes - 93 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 31 | [Before I Let You Go \(feat\. MarcLo\)](https://open.spotify.com/track/0MBE2aSvZdmDxmAG9O2Fhs) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [MarcLo](https://open.spotify.com/artist/3Aa8vv6PuVakY8yP8tpi2X) | [To The World](https://open.spotify.com/album/465mvLX0RMXAvsz9KtcSRa) | 2:19 |
 | 32 | [Smile \(feat\. Carolina Liar\)](https://open.spotify.com/track/73SGUxXPloaU5CfeKkJf5D) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Carolina Liar](https://open.spotify.com/artist/0OuSnRyi1OkLPkR4AqzJwi) | [Smile \(feat\. Carolina Liar\)](https://open.spotify.com/album/5MwREpSNM3JMxAq8xqe3im) | 3:12 |
 | 33 | [Wing Girl](https://open.spotify.com/track/6yv1BVL6qDx8QeiWUCNqin) | [GRHHH](https://open.spotify.com/artist/0Nxi8lK4ujPl9gMviGj7TQ), [BOOTY LEAK](https://open.spotify.com/artist/6C8sBC5U3LyUE4GoleJWvx), [7KY](https://open.spotify.com/artist/4Ro5nyci5mmWSB5ot6YtIj) | [Wing Girl](https://open.spotify.com/album/5FnJBpfDEsMCesgyftY7rM) | 3:01 |
-| 34 | [Aries Mean Something 2 U](https://open.spotify.com/track/3TjRsLqcoVBaQyhVb8gHVl) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Z3LLA](https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02), [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg), [STARSIGNS](https://open.spotify.com/artist/4i6h8ZEK64FovE2EQCjMMZ) | [FIRE SIGNS](https://open.spotify.com/album/4dq7yzhWqzXfJDVVKfUW34) | 3:36 |
+| 34 | [Aries \- Mean Something 2 U](https://open.spotify.com/track/3TjRsLqcoVBaQyhVb8gHVl) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Z3LLA](https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02), [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg), [STARSIGNS](https://open.spotify.com/artist/4i6h8ZEK64FovE2EQCjMMZ) | [FIRE SIGNS](https://open.spotify.com/album/4dq7yzhWqzXfJDVVKfUW34) | 3:36 |
 | 35 | [Bloom](https://open.spotify.com/track/35KkZrQ5r4NpHYuoLUT0VI) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Bloom](https://open.spotify.com/album/6HEq0bWaLaL9vFSEiYjqpU) | 2:28 |
 | 36 | [Perfect](https://open.spotify.com/track/2xYtEzR8YNnqtE2HlcFOtw) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH) | [Perfect](https://open.spotify.com/album/4ByTPuHvTEFlEYSfjstrOe) | 2:18 |
 | 37 | [Rafael \(It's Time To Be Free\)](https://open.spotify.com/track/2CaVy1VMw9HGZbLapYIQ4R) | [Moonbeam](https://open.spotify.com/artist/3QiHmFCzfmjt1XDPSdRh0D) | [Rafael \(It’s Time To Be Free\)](https://open.spotify.com/album/0I5KH1EJBptvHmZBZxrY1E) | 3:54 |

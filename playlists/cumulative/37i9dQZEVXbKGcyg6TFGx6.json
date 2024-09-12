@@ -3256,7 +3256,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-10",
+      "date_removed": null,
       "duration_ms": 161977,
       "name": "Aucune attache",
       "url": "https://open.spotify.com/track/3KZN01EuBoqh04jyGXpnxr"
@@ -8538,7 +8538,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 148657,
       "name": "Coco",
       "url": "https://open.spotify.com/track/1HXC5IiGUqTEFl18IJ42Lm"
@@ -13502,6 +13502,24 @@
       "duration_ms": 219187,
       "name": "FADE UP",
       "url": "https://open.spotify.com/track/4ZpIuzx91EAPK3VimONbfB"
+    },
+    {
+      "album": {
+        "name": "Meteora",
+        "url": "https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162106,
+      "name": "Faint",
+      "url": "https://open.spotify.com/track/4Yf5bqU3NK4kNOypcrLYwU"
     },
     {
       "album": {
@@ -20210,7 +20228,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 152304,
       "name": "It's Not Right But It's Okay",
       "url": "https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj"
@@ -23264,7 +23282,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-11",
+      "date_removed": null,
       "duration_ms": 182293,
       "name": "Love Me Again",
       "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
@@ -25776,7 +25794,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 174533,
       "name": "Moi",
       "url": "https://open.spotify.com/track/5AXNh6mEr2z8UFlqm8ftRH"
@@ -26220,6 +26238,28 @@
       "duration_ms": 221406,
       "name": "More M\u2019s",
       "url": "https://open.spotify.com/track/29YW2xXlo6Pc6M0SBTCXYN"
+    },
+    {
+      "album": {
+        "name": "More Of Us",
+        "url": "https://open.spotify.com/album/2ArsLGKPFPXzD1mpLJfwul"
+      },
+      "artists": [
+        {
+          "name": "Dylan Presko",
+          "url": "https://open.spotify.com/artist/2zxzmoaWzhle1k0ggihY6g"
+        },
+        {
+          "name": "Shxnnon",
+          "url": "https://open.spotify.com/artist/3gBgzoMbHQUanMfDhqMAgf"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230545,
+      "name": "More Of Us",
+      "url": "https://open.spotify.com/track/3iu8TT9y4zaErHoWPn4rkm"
     },
     {
       "album": {
@@ -34000,7 +34040,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 118335,
       "name": "Sense N\u2019 Dollarz",
       "url": "https://open.spotify.com/track/2nGHFeFZawXU8m8hEeilJa"
@@ -34396,7 +34436,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 109191,
       "name": "She Wanna Fuck",
       "url": "https://open.spotify.com/track/5aBXBxKYxjV2GuAdFC9EXK"
@@ -37290,7 +37330,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -41953,6 +41993,24 @@
     },
     {
       "album": {
+        "name": "Winkas",
+        "url": "https://open.spotify.com/album/5rSGCLzacxxAsBDE67ZZEe"
+      },
+      "artists": [
+        {
+          "name": "Winkas",
+          "url": "https://open.spotify.com/artist/1CN36QDBcS4JUtE7DvHMIF"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330000,
+      "name": "We Apologize",
+      "url": "https://open.spotify.com/track/4Ve2bNi34RmVaNKnLh1RIg"
+    },
+    {
+      "album": {
         "name": "eternal sunshine",
         "url": "https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw"
       },
@@ -42866,7 +42924,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-10",
+      "date_removed": null,
       "duration_ms": 170887,
       "name": "Who",
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"

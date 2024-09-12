@@ -2,7 +2,7 @@
 
 ### [This Is Sister Rosetta Tharpe](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1gxbKi)
 
-> This is Sister Rosetta Tharpe\. The essential tracks, all in one playlist.
+> This is Sister Rosetta Tharpe\. Todos os maiores hits em uma só playlist.
 
 125 songs - 6 hr 15 min
 
@@ -98,7 +98,7 @@
 | [Sit down \- Live](https://open.spotify.com/track/2UAqjXyASKaa0QAcLLfF0B) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Bound For Glory \(Live Stuttgart '58\)](https://open.spotify.com/album/1SbRXFU9vDp4OrQ4umcCGM) | 1:29 | 2023-07-12 | 2023-12-14 |
 | [Sleep on Darling Mother](https://open.spotify.com/track/5zwea1dgarGWUuCxOZfDvc) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Trouble in Mind](https://open.spotify.com/album/7pd386kkBPHie54j3kyRpG) | 3:05 | 2022-05-28 | 2024-01-08 |
 | [So High, So Low](https://open.spotify.com/track/0GGJAc3cUtcwNkSh3Ch4OT) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Gospel Train \(Expanded Edition\)](https://open.spotify.com/album/3OGOZW8wCyD0zj254FZ0Ei) | 2:21 | 2022-05-26 |  |
-| [Somebody Needs Jesus](https://open.spotify.com/track/6814OBIGcgQOKA0mx52p70) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7), [The Rosettes](https://open.spotify.com/artist/41AAQ12p0hQJzH0ze5ANVD), [Sam Price Trio](https://open.spotify.com/artist/2RWOiWqyH0TkExmKSjZ9sd) | [Blessed Assurance \(Expanded Edition\)](https://open.spotify.com/album/0uwIyZoW8IFjkQzdSjllQc) | 2:27 | 2022-05-29 | 2024-07-24 |
+| [Somebody Needs Jesus](https://open.spotify.com/track/6814OBIGcgQOKA0mx52p70) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7), [The Rosettes](https://open.spotify.com/artist/41AAQ12p0hQJzH0ze5ANVD), [Sam Price Trio](https://open.spotify.com/artist/2RWOiWqyH0TkExmKSjZ9sd) | [Blessed Assurance \(Expanded Edition\)](https://open.spotify.com/album/0uwIyZoW8IFjkQzdSjllQc) | 2:27 | 2022-05-29 |  |
 | [Stand By Me](https://open.spotify.com/track/6wNOmArJVUaztEClcF2r4D) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Decca Singles, Vol\. 1](https://open.spotify.com/album/4KNYUWaNkzdOHQQ2xWlRwD) | 2:51 | 2022-08-09 | 2022-10-11 |
 | [Stand by Me](https://open.spotify.com/track/2MWYCAWmPLl5ILNgwDhL60) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Rock Me](https://open.spotify.com/album/0e5wVllhThB1d91oUItDG0) | 2:53 | 2023-12-19 | 2024-08-23 |
 | [Stand by Me](https://open.spotify.com/track/7j3gsabZNOnUJ8XlvL9WFq) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Original Soul Sister](https://open.spotify.com/album/6O3zPjpqUdG4dg9i9ZLANF) | 3:34 | 2022-05-25 | 2024-07-05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 
 > Versões desplugadas para curtir um reggae com os pés na areia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,336 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,350 likes - 75 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 | 23 | [Reviso Meus Planos \- Ao Vivo Em São Paulo](https://open.spotify.com/track/0qEngYWXqMntXxTTUbdLnZ) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb), [Armandinho](https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH) | [Ao Vivo Em São Paulo](https://open.spotify.com/album/5Wrwotv3hfJp1nDAoQgRzZ) | 4:12 |
 | 24 | [Quem Sabe](https://open.spotify.com/track/4EhMEPnreQE7o1sA47eVXB) | [Julies](https://open.spotify.com/artist/6yDip7RMWxdC6beg5POUvN), [Sofia Gayoso](https://open.spotify.com/artist/1z52rWwye0jbrcEsSXKGJG) | [Quem Sabe](https://open.spotify.com/album/52Zx3yPSSNwEuFBR45BFhc) | 2:53 |
 | 25 | [Beach in Hawaii](https://open.spotify.com/track/7K1QvbTr4KqK8Np5SpFC6S) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/2gT72CpRI4izR1IUohkU7w) | 3:40 |
-| 26 | [Desde as Estrelas \- Acústico](https://open.spotify.com/track/0xGoeHUa0v9b05Nzogh0xK) | [Planta E Raiz](https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO) | [Segue em Frente](https://open.spotify.com/album/46NJvNtoypiHUSQttmnUX3) | 4:10 |
-| 27 | [Uma onda que passou \(E eu não dropei\) \- Ao vivo](https://open.spotify.com/track/5hmTjMenODKpZuE5c4XzCy) | [Tribo De Jah](https://open.spotify.com/artist/6oAqyhJILwJf9S3Of2zTuv) | [15 Anos \(Ao vivo\)](https://open.spotify.com/album/1XRXhmwnkbjh8voQ5rIn0L) | 3:29 |
+| 26 | [Uma onda que passou \(E eu não dropei\) \- Ao vivo](https://open.spotify.com/track/5hmTjMenODKpZuE5c4XzCy) | [Tribo De Jah](https://open.spotify.com/artist/6oAqyhJILwJf9S3Of2zTuv) | [15 Anos \(Ao vivo\)](https://open.spotify.com/album/1XRXhmwnkbjh8voQ5rIn0L) | 3:29 |
+| 27 | [Desde as Estrelas \- Acústico](https://open.spotify.com/track/0xGoeHUa0v9b05Nzogh0xK) | [Planta E Raiz](https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO) | [Segue em Frente](https://open.spotify.com/album/46NJvNtoypiHUSQttmnUX3) | 4:10 |
 | 28 | [Sentimento Bom](https://open.spotify.com/track/0vyKzl0o1lem1sHg5wXgSD) | [Circuito Reggae](https://open.spotify.com/artist/07N5hTxdi3rA5cyaf469Ly), [Filosofia Reggae](https://open.spotify.com/artist/3UuKVWKt06WkHABc5arEXD) | [Circuito Reggae, Vol\. 8](https://open.spotify.com/album/3RuibytHE3NZnO7OgS2iN3) | 4:01 |
 | 29 | [Blusinha Branca](https://open.spotify.com/track/1VHjjOOllU87VRa8B2EWiX) | [Papas Da Língua](https://open.spotify.com/artist/5q4N33QzlyTfRRNq4T1gH9) | [Papas Da Língua](https://open.spotify.com/album/4z5x9CgcV35w6akZkl9H4q) | 4:58 |
 | 30 | [Real Gold](https://open.spotify.com/track/4qQm3DuFEVsqp2GWjkNFli) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Real Gold](https://open.spotify.com/album/5PRS6zL5id8VsFjesEsaw3) | 3:17 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 | 36 | [Serenou/Nosso Mundo \- Acoustic Sessions](https://open.spotify.com/track/69VrPLeXiiQsIgZofFA7tn) | [Yeti Reggae Club](https://open.spotify.com/artist/5VxPLGujYalBJdAOlU5bfs) | [Serenou/Nosso Mundo \(Acoustic Sessions\)](https://open.spotify.com/album/4SfiSAjkRpxELEOsOEskNJ) | 3:41 |
 | 37 | [De Tanto Sol \(Acústico\)](https://open.spotify.com/track/4zOn4Xw4QIXZkFME9IIr5R) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [De Tanto Sol \(Acústico\)](https://open.spotify.com/album/0G9XFPE6847h3nRRL7Ct8n) | 3:16 |
 | 38 | [Johny B\. Goode \(Johny B\. Goode\) \[Acústico\]](https://open.spotify.com/track/1BkxFAodaIkcM2vynl4CVM) | [Cidade Negra](https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ) | [Acústico Cidade Negra](https://open.spotify.com/album/2p9ayxfFobzpbtnF8mJyUL) | 4:14 |
-| 39 | [Tô De Pé \- Acústico](https://open.spotify.com/track/22QdpwlY4mNXPhl2j9RfgD) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Tô De Pé \(Acústico\)](https://open.spotify.com/album/5hdGzsTpsuqyjzFmfSL37v) | 2:49 |
+| 39 | [Tô De Pé \- Acústico](https://open.spotify.com/track/22QdpwlY4mNXPhl2j9RfgD) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Tô De Pé \- Acústico](https://open.spotify.com/album/5hdGzsTpsuqyjzFmfSL37v) | 2:49 |
 | 40 | [Roots Dance](https://open.spotify.com/track/6fkjiRiUOO5UTUC5hPwqcB) | [Chimarruts](https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW) | [Só Pra Brilhar](https://open.spotify.com/album/4dcwRYbS4okDFQiwPcEGuY) | 3:33 |
 | 41 | [Versos Simples \- Ao Vivo](https://open.spotify.com/track/3REzLdUlfQRpRG6psodExG) | [Armandinho](https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH), [Chimarruts](https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW) | [Ao Vivo em Buenos Aires](https://open.spotify.com/album/6awNZk5um5gkMuPZ8Kg8BD) | 3:07 |
 | 42 | [Roots, Rock, Reggae \- Live](https://open.spotify.com/track/2AVcwdUR9479DrbWDRK07l) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Bob Marley 75th Celebration \(Pt.1\) \[Live\]](https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6) | 4:52 |

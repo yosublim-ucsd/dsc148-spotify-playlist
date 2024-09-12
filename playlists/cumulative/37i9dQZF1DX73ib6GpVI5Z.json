@@ -628,7 +628,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 213000,
       "name": "\u30c9\u30ec\u30df\u30d5\u30a1\u30a2\u30f3\u30d1\u30f3\u30de\u30f3",
       "url": "https://open.spotify.com/track/6e5GvWg3K0qdhx3y9Si2mn"
@@ -889,6 +889,24 @@
     },
     {
       "album": {
+        "name": "\u305d\u308c\u3044\u3051\uff01\u30a2\u30f3\u30d1\u30f3\u30de\u30f3 \u3070\u3044\u304d\u3093\u307e\u3093\u3068\u3048\u307b\u3093\u306e\u30eb\u30eb\u30f3",
+        "url": "https://open.spotify.com/album/0JRnXwQrvWWewAjv7Me6ia"
+      },
+      "artists": [
+        {
+          "name": "\u8fd1\u85e4\u6d69\u7ae0",
+          "url": "https://open.spotify.com/artist/5kGOPpvuaRm2XoFKPuAwcr"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298760,
+      "name": "\u6050\u308b\u3079\u3057\uff01\u3059\u3044\u3068\u308b\u30be\u30a6 \u7acb\u3061\u5411\u304b\u3048\uff01\u30a6\u30c3\u30c9\u3060\u3060\u3093\u3060\u3093 - BGM",
+      "url": "https://open.spotify.com/track/2rqWeCUREkjSxb7NnbDreQ"
+    },
+    {
+      "album": {
         "name": "\u305d\u308c\u3044\u3051\uff01\u30a2\u30f3\u30d1\u30f3\u30de\u30f3 \u30d9\u30b9\u30c8\u30d2\u30c3\u30c8'13",
         "url": "https://open.spotify.com/album/6ngjF7VE4ylUtdEpIKody0"
       },
@@ -900,10 +918,28 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 160026,
       "name": "\u624b\u306e\u3072\u3089\u3092\u592a\u967d\u306b",
       "url": "https://open.spotify.com/track/2yuxUdm5xftrvahbWaLCj2"
+    },
+    {
+      "album": {
+        "name": "\u305d\u308c\u3044\u3051\uff01\u30a2\u30f3\u30d1\u30f3\u30de\u30f3 \u3070\u3044\u304d\u3093\u307e\u3093\u3068\u3048\u307b\u3093\u306e\u30eb\u30eb\u30f3",
+        "url": "https://open.spotify.com/album/0JRnXwQrvWWewAjv7Me6ia"
+      },
+      "artists": [
+        {
+          "name": "\u8fd1\u85e4\u6d69\u7ae0",
+          "url": "https://open.spotify.com/artist/5kGOPpvuaRm2XoFKPuAwcr"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303760,
+      "name": "\u68ee\u306e\u5996\u7cbe \u3048\u307b\u3093\u306e\u30eb\u30eb\u30f3\u306e\u5927\u5192\u967a - BGM",
+      "url": "https://open.spotify.com/track/3mXrenMXIKcESaJhdRZUa2"
     },
     {
       "album": {

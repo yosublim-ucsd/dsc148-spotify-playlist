@@ -1,6 +1,6 @@
 {
   "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. Pressive y Nunca Jam\u00e1s en portada. ",
-  "num_followers": 1000796,
+  "num_followers": 1000814,
   "original_name": "La + Chingona",
   "owner": {
     "name": "Spotify",
@@ -87,18 +87,18 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "El Ritmo Mundial",
-        "url": "https://open.spotify.com/album/4jrl8361FYPSK2gdEEKATh"
+        "name": "Caifanes",
+        "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
       },
       "artists": [
         {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
         }
       ],
-      "duration_ms": 279986,
-      "name": "Vasos Vac\u00edos - Remasterizado 2008",
-      "url": "https://open.spotify.com/track/198qSChSMQFuSimdeeY9gK"
+      "duration_ms": 236333,
+      "name": "Viento",
+      "url": "https://open.spotify.com/track/6QJCZyJv1fhkCyZA3lRoAD"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -119,18 +119,18 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "Caifanes",
-        "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
+        "name": "El Ritmo Mundial",
+        "url": "https://open.spotify.com/album/4jrl8361FYPSK2gdEEKATh"
       },
       "artists": [
         {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
         }
       ],
-      "duration_ms": 236333,
-      "name": "Viento",
-      "url": "https://open.spotify.com/track/6QJCZyJv1fhkCyZA3lRoAD"
+      "duration_ms": 279986,
+      "name": "Vasos Vac\u00edos - Remasterizado 2008",
+      "url": "https://open.spotify.com/track/198qSChSMQFuSimdeeY9gK"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -463,26 +463,6 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "Loco Por Volverla a Ver",
-        "url": "https://open.spotify.com/album/7cZTYqv7PwsdLbUepC3GEd"
-      },
-      "artists": [
-        {
-          "name": "Las Pastillas del Abuelo",
-          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
-        },
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 272189,
-      "name": "Loco Por Volverla a Ver",
-      "url": "https://open.spotify.com/track/5286CIWA8QpRrpCr9x7BbQ"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
         "name": "En Vivo en el Palacio de los Deportes - 25 Aniversario",
         "url": "https://open.spotify.com/album/7gSe5tBOrBERCFvQgR6TsC"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 234985,
       "name": "No Me Importa el Dinero (feat. Julieta Venegas) - Vivo en el Palacio de los Deportes",
       "url": "https://open.spotify.com/track/4wXjnoLIMTninCnKRgGsQc"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
+        "name": "Loco Por Volverla a Ver",
+        "url": "https://open.spotify.com/album/7cZTYqv7PwsdLbUepC3GEd"
+      },
+      "artists": [
+        {
+          "name": "Las Pastillas del Abuelo",
+          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
+        },
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 272189,
+      "name": "Loco Por Volverla a Ver",
+      "url": "https://open.spotify.com/track/5286CIWA8QpRrpCr9x7BbQ"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "Con Vos",
-        "url": "https://open.spotify.com/album/7xHsHJ5JbDXhiHhoCfeiN9"
-      },
-      "artists": [
-        {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
-        }
-      ],
-      "duration_ms": 162322,
-      "name": "Con Vos",
-      "url": "https://open.spotify.com/track/5DNRryBkStHmqKtwigXZFR"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
         "name": "Para Mi",
         "url": "https://open.spotify.com/album/4EN6HX2xApPwC7nA7FjI7k"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 267953,
       "name": "Para Mi",
       "url": "https://open.spotify.com/track/3mUPsqEeq0GoIv1wSuivqf"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
+        "name": "Con Vos",
+        "url": "https://open.spotify.com/album/7xHsHJ5JbDXhiHhoCfeiN9"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "duration_ms": 162322,
+      "name": "Con Vos",
+      "url": "https://open.spotify.com/track/5DNRryBkStHmqKtwigXZFR"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
+        "name": "Bueninvento",
+        "url": "https://open.spotify.com/album/0rmEiygdtUfM8jeJ7i1Hvp"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 205466,
+      "name": "Ser\u00eda Feliz",
+      "url": "https://open.spotify.com/track/5vXjOa8QLl65Yoof3bG2C4"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
         "name": "No Puede Parar De So\u00f1ar",
         "url": "https://open.spotify.com/album/5BmtSXjM8FVLNGVWGz63z8"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 197801,
       "name": "No Puede Parar De So\u00f1ar",
       "url": "https://open.spotify.com/track/7ujRdKjA7G7QvFkq0YV0dO"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
-        "name": "Bueninvento",
-        "url": "https://open.spotify.com/album/0rmEiygdtUfM8jeJ7i1Hvp"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 205466,
-      "name": "Ser\u00eda Feliz",
-      "url": "https://open.spotify.com/track/5vXjOa8QLl65Yoof3bG2C4"
     },
     {
       "added_at": "2024-08-30 06:00:00",

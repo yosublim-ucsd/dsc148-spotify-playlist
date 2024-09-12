@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 
 ### [EQUAL Vietnam](https://open.spotify.com/playlist/37i9dQZF1DXbbp0uiGXEBw)
 
-> Cùng Phương Mỹ Chi tôn vinh tài năng và âm nhạc của những nữ nghệ sĩ Việt.
+> Tôn vinh tài năng và âm nhạc của những nữ nghệ sĩ Việt\. Ảnh bìa: Phùng Khánh Linh
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,014 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,027 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 | 49 | [BREATH](https://open.spotify.com/track/4rfZj310KXNfR7qpfCJJNm) | [Mỹ Mỹ](https://open.spotify.com/artist/21trGUfOb8qkRjI4EyF1qm) | [Nữ Hoàng Vũ Đạo Đường Phố \(SWFV\) Nhiệm vụ Cấp bậc](https://open.spotify.com/album/2KFtIUAicQBmIyKV4hoWgT) | 2:40 |
 | 50 | [Bóng Hồng Lẻ Loi](https://open.spotify.com/track/2EvthuGElCn25rjzMGapNh) | [Han Sara](https://open.spotify.com/artist/7sI2avJ3MyFstC9oKNM7py) | [Bóng Hồng Lẻ Loi](https://open.spotify.com/album/2Qql9UdZUywVavkVfQUaEI) | 2:54 |
 
-Snapshot ID: `Zt+TSQAAAAD//XonA5gzRNVWlYioh7x3`
+Snapshot ID: `ZuEUtQAAAAAt6x6016d/boRBNYkobFX/`

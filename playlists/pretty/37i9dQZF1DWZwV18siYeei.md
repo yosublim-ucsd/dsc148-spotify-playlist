@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwV18siYeei.md) - [plain]
 | 77 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 |
 | 78 | [Waterfalls](https://open.spotify.com/track/6qspW4YKycviDFjHBOaqUY) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Crazysexycool](https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f) | 4:39 |
 | 79 | [That Word \(L.O.V.E.\)](https://open.spotify.com/track/6EEhP8TSpMTuIJ3jxPnBTx) | [Rockmelons](https://open.spotify.com/artist/4a8lth8CeT9IQYFWAwXJCx) | [Form One Planet](https://open.spotify.com/album/0Hr5pYpc4oW2drfD62oqMr) | 4:09 |
-| 80 | [Steal My Sunshine](https://open.spotify.com/track/2GRnDQCkcN6BoujfUgywOW) | [LEN](https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ) | [GO Music From The Motion Picture](https://open.spotify.com/album/2jDYpkR8306SzqpZzzNVZr) | 4:08 |
+| 80 | [Steal My Sunshine](https://open.spotify.com/track/2GRnDQCkcN6BoujfUgywOW) | [Len](https://open.spotify.com/artist/48myrQPAhsexXZVSN5YpL6) | [GO Music From The Motion Picture](https://open.spotify.com/album/2jDYpkR8306SzqpZzzNVZr) | 4:08 |
 
 Snapshot ID: `ZXj1tQAAAABlGV2aiezbZ/C+abYI5eB3`

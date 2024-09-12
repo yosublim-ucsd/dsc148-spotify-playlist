@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 > El futuro está aquí\. Foto: Mushkaa
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,101 likes - 43 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,107 likes - 43 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 34 | [La Última](https://open.spotify.com/track/2jGTk6Id9zdIonBH9H18rW) | [Charlie USG](https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw) | [La Última](https://open.spotify.com/album/0dnIzmTItQnjqmG4CNpbuU) | 3:23 |
 | 35 | [Duerme](https://open.spotify.com/track/3nJxOzRqFnsknEP9O07cUX) | [Luis Cortés](https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ), [Demarco Flamenco](https://open.spotify.com/artist/4hFZibFsoIxictRvkZDjIc) | [Duerme](https://open.spotify.com/album/2lh6z9MX5BEJ7dRHuvo5Rh) | 2:37 |
 | 36 | [Mama](https://open.spotify.com/track/7nvrvtHojMocJiGVwoaZHs) | [Luis Cortés](https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ) | [Mama](https://open.spotify.com/album/15hzdim2ConPEvRyrNLeh3) | 3:06 |
-| 37 | [Sin Ti, Sin Mí](https://open.spotify.com/track/2GiY5fsQimLmInOH2QTOQg) | [Luis Cortés](https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ) | [Sin Ti, Sin Mí](https://open.spotify.com/album/28MsRRmYoPUmcI9sYSxEom) | 3:12 |
-| 38 | [Fuego \- A COLORS SHOW](https://open.spotify.com/track/5AzS25cbfhnWra3nQduYlB) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Fuego \- A COLORS SHOW](https://open.spotify.com/album/6hRJWC3lrfRfaXfChbhm6k) | 3:19 |
+| 37 | [Fuego \- A COLORS SHOW](https://open.spotify.com/track/5AzS25cbfhnWra3nQduYlB) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Fuego \- A COLORS SHOW](https://open.spotify.com/album/6hRJWC3lrfRfaXfChbhm6k) | 3:19 |
+| 38 | [Sin Ti, Sin Mí](https://open.spotify.com/track/2GiY5fsQimLmInOH2QTOQg) | [Luis Cortés](https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ) | [Sin Ti, Sin Mí](https://open.spotify.com/album/28MsRRmYoPUmcI9sYSxEom) | 3:12 |
 | 39 | [Lamento](https://open.spotify.com/track/6Srz6ZXOvkajc0c0o6BTMk) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [pablopablo](https://open.spotify.com/album/38EtfKgkkMlr936UGUKadp) | 1:09 |
 | 40 | [Déjame tú](https://open.spotify.com/track/6DMfrXPB2pFQr4sWLQ8NO1) | [Charlie USG](https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw) | [Contacto Cero](https://open.spotify.com/album/6nVG9HSp1l0DdQkAl1tA10) | 3:00 |
 | 41 | [habibi](https://open.spotify.com/track/2jd8SrFiK2arEPZHxlE0ys) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [Bexnil](https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg) | [SexySensible](https://open.spotify.com/album/4GNiikXX4KQZ3lSm0cdgm1) | 2:40 |

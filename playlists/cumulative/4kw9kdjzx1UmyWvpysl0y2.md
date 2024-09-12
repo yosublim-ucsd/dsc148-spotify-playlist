@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-813 songs - 1 day 22 hr 28 min
+814 songs - 1 day 22 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,7 +218,7 @@
 | [Euphoria](https://open.spotify.com/track/4tOrfScwPApEDe0adbNzxh) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377) | [Euphoria](https://open.spotify.com/album/4SfmVWUmmRcNYUUYckepDQ) | 3:04 | 2023-04-24 | 2023-07-22 |
 | [Euphoria Rush](https://open.spotify.com/track/1OUBfd2vYvT6w8ghwbncOq) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3) | [Euphoria Rush](https://open.spotify.com/album/7a3WhUPay2Vg17GgIkmnYt) | 3:56 | 2024-08-14 |  |
 | [Every Little Thing](https://open.spotify.com/track/6CShhNa33zOmCqJ0SkjsWc) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Every Little Thing](https://open.spotify.com/album/51pJrPjCgYxYzzcOk4jsWQ) | 3:14 | 2023-01-31 | 2023-04-19 |
-| [EYES ON ME](https://open.spotify.com/track/2EXdDj1XPGguvSikDzDWqg) | [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19) | [EYES ON ME](https://open.spotify.com/album/3j8dwHYVQ0uplIuhTehmSS) | 3:37 | 2024-06-19 |  |
+| [EYES ON ME](https://open.spotify.com/track/2EXdDj1XPGguvSikDzDWqg) | [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19) | [EYES ON ME](https://open.spotify.com/album/3j8dwHYVQ0uplIuhTehmSS) | 3:37 | 2024-06-19 | 2024-09-12 |
 | [Face Lift](https://open.spotify.com/track/7AGiUADvmOw5MjhGOQKtOr) | [Codd Dubz](https://open.spotify.com/artist/3SsxYsQwnhws0qW0fsO1s5), [Decimate](https://open.spotify.com/artist/6JvIjkaONqopTk15bnpLjz), [XAE](https://open.spotify.com/artist/1ra86Vpi0w0tANidRxSAQT) | [Face Lift](https://open.spotify.com/album/29EfXY9bvJuHDVWI3dD4Ok) | 3:24 | 2024-05-15 | 2024-08-14 |
 | [Faded](https://open.spotify.com/track/7oOgau5yTVoRIDAs5GiMCf) | [Hausman](https://open.spotify.com/artist/1jD9rZnKHp1tqnYMxSxkiQ), [Lumynesynth](https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD) | [Faded](https://open.spotify.com/album/1WAMrFtszAHHxnKavbLG5K) | 4:24 | 2022-03-30 | 2022-06-11 |
 | [Fall](https://open.spotify.com/track/0KhGlkZxxH5btrK6K3Wlpn) | [SKYLER](https://open.spotify.com/artist/6niUPn9Tqcb6KdXkGvbMR9) | [Blue Dream](https://open.spotify.com/album/3roeq4LtJx8ke5ZOFgnqQs) | 3:15 | 2023-06-02 | 2023-08-28 |
@@ -591,6 +591,7 @@
 | [RIOT \- RAIZHELL Remix](https://open.spotify.com/track/4wivSJRYwhnWeuKW3TjIEp) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Selva](https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa), [RAIZHELL](https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq) | [RIOT \(RAIZHELL Remix\)](https://open.spotify.com/album/2qTppH4c5EhgknBK4P8JRN) | 2:33 | 2024-05-08 | 2024-07-31 |
 | [RIOT \- Riot Ten Remix](https://open.spotify.com/track/4VmAeZuMIl1uAXtmTJe17E) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Selva](https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa), [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ) | [RIOT \(Riot Ten Remix\)](https://open.spotify.com/album/07QcNt9Vy78uxGc198SiYO) | 3:30 | 2024-03-15 | 2024-06-05 |
 | [roadtrip](https://open.spotify.com/track/3HAYDWCgHiQ0j7RK5qaohM) | [zensei ゼンセー](https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63), [Mr\. Hilroy](https://open.spotify.com/artist/1SDhLZ6y3x0OEGEHZ96K2T) | [wonder years pt\. 2](https://open.spotify.com/album/5AUfHGT7BVlsxHPQCdlHmG) | 2:28 | 2022-05-13 | 2022-07-23 |
+| [Rocka](https://open.spotify.com/track/1C0PPfiAjOukLff0ucmzsn) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [No Etiquette](https://open.spotify.com/artist/6HXY7iEakhbnG63OH20oeh), [Tima Dee](https://open.spotify.com/artist/4pQIDKoWXRw04D9e37QzbP) | [Rocka](https://open.spotify.com/album/2yzOSjguTqnEt0SbVMC5aJ) | 3:13 | 2024-09-11 |  |
 | [Roots](https://open.spotify.com/track/3jOlncv2CNZ6v1479wYk4z) | [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Roots](https://open.spotify.com/album/3GC5RAYvVkAAQrYEs1S3sF) | 3:32 | 2023-08-15 | 2023-12-14 |
 | [Royalty](https://open.spotify.com/track/6tHBSeIAH5l9o9MjZLl9MJ) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Diandra Faye](https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q) | [Royalty](https://open.spotify.com/album/0CEQ62V2Ip0bXpVhhNYiPQ) | 2:57 | 2022-09-01 | 2022-11-05 |
 | [Ruin U](https://open.spotify.com/track/6fvdPHXZnUl9UX2OgoT7Cq) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n), [LEVEL UP](https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb) | [Ruin U](https://open.spotify.com/album/0p7pEsAnu9yH75AnwlkMPg) | 3:15 | 2023-10-20 | 2024-02-03 |

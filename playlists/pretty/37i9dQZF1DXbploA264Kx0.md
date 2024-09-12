@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 
 > Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Fi\-Né x CHANKA \(粉內 x 陳嘉\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,850 likes - 51 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,865 likes - 51 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 | 14 | [About You](https://open.spotify.com/track/4BqlTz6a3BSQtuOgw58iyT) | [Jimmy KUAN](https://open.spotify.com/artist/0RvW6NX5Txwg455rTgalox) | [About You](https://open.spotify.com/album/5wVxiN2wjVBlSOHGSJC8Rm) | 2:41 |
 | 15 | [One More](https://open.spotify.com/track/1POXmbYNyr8cWmXHMNOnOh) | [LEO37](https://open.spotify.com/artist/1K4p8nRSSUoO6e3Npn77U6), [Robot Swing](https://open.spotify.com/artist/75MsybpGuMiLCp76Ou0LTV), [DCIV](https://open.spotify.com/artist/1ek0Tv8frXGgW6GCCE2jit), [Dac](https://open.spotify.com/artist/0nWX29koulPYFLJoMxIpJx), [Lazy Habits](https://open.spotify.com/artist/3Bwm7GVj1bGNj6fxf80OKP), [Star Wu](https://open.spotify.com/artist/41imUY7LVjxTpJwTDgDR6v), [Minyen Hsieh](https://open.spotify.com/artist/6AcI6agoeBhaaVo0GbjSFp) | [One More](https://open.spotify.com/album/23ricY0LkT2mI0A1Txt2dl) | 3:48 |
 | 16 | [I'm Lost](https://open.spotify.com/track/09aC6XZ5JMPpTnrRovseFJ) | [潘婕](https://open.spotify.com/artist/3qX27u4mAqflYeIhY8dOar) | [I'm Lost](https://open.spotify.com/album/07kG46tge4IaR2NMOhtEwv) | 3:25 |
-| 17 | [Staying up All Night](https://open.spotify.com/track/6V6T7ObBtnC07VQh4BX8Cr) | [壞特 ?te](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb), [babychair](https://open.spotify.com/artist/5wDdxgQC5djHDOI6AuTnuY) | [Staying up All Night](https://open.spotify.com/album/6bMmhb1GtaxLT3YLBknocB) | 3:22 |
+| 17 | [Staying up All Night](https://open.spotify.com/track/6V6T7ObBtnC07VQh4BX8Cr) | [Whyte](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb), [babychair](https://open.spotify.com/artist/5wDdxgQC5djHDOI6AuTnuY) | [Staying up All Night](https://open.spotify.com/album/6bMmhb1GtaxLT3YLBknocB) | 3:22 |
 | 18 | [What Can I Do \(feat\. J.Sheon\)](https://open.spotify.com/track/7E3E4nQdBTv2rm3uMtGFgA) | [Gen Neo](https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK), [J.Sheon](https://open.spotify.com/artist/4DEItwf281SHmTnS8q3Mn9) | [AD ASTRA](https://open.spotify.com/album/0robvGvRNoSzos2Ae9KRyX) | 3:08 |
 | 19 | [HANSEL AND GRETEL](https://open.spotify.com/track/0Ixs4wUwlHockq5iO3zrLn) | [TELEx TELEXs](https://open.spotify.com/artist/1BHYRsFqV0ON7RUFM9qF2Q), [Hormone Boys](https://open.spotify.com/artist/7MR5iqnOtuXv9RMMMQbOIl) | [HANSEL AND GRETEL](https://open.spotify.com/album/3QoHlrglPtVHUcqJnr51mI) | 4:15 |
 | 20 | [the road of death](https://open.spotify.com/track/67HiU3Fmjk108dmyQcrNwj) | [張牧喬](https://open.spotify.com/artist/3PwhR9DEOjrmcRTaPvY2LZ) | [the road of death](https://open.spotify.com/album/0DnAPW0UzsiPm5PByMmYmw) | 2:10 |

@@ -1,6 +1,6 @@
 {
   "description": "Real Rap. All Pressure. Cover: Anycia",
-  "num_followers": 484551,
+  "num_followers": 484561,
   "original_name": "Pressure",
   "owner": {
     "name": "Spotify",
@@ -599,18 +599,26 @@
     {
       "added_at": "2024-08-30 04:01:34",
       "album": {
-        "name": "MEGAN",
-        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
+        "name": "Peaches & Eggplants (feat. Latto & Sexyy Red)",
+        "url": "https://open.spotify.com/album/3v9a1PtWXE5NopNCeaw1sj"
       },
       "artists": [
         {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+          "name": "Young Nudy",
+          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
         }
       ],
-      "duration_ms": 143783,
-      "name": "Figueroa",
-      "url": "https://open.spotify.com/track/18jgn5QOjqsEx9TiqH4e1E"
+      "duration_ms": 217213,
+      "name": "Peaches & Eggplants (feat. Latto & Sexyy Red)",
+      "url": "https://open.spotify.com/track/1BmI4EYdfzbg8DlV6pHYrY"
     },
     {
       "added_at": "2024-08-30 04:01:34",
@@ -635,26 +643,18 @@
     {
       "added_at": "2024-08-30 04:01:34",
       "album": {
-        "name": "Peaches & Eggplants (feat. Latto & Sexyy Red)",
-        "url": "https://open.spotify.com/album/3v9a1PtWXE5NopNCeaw1sj"
+        "name": "MEGAN",
+        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
       },
       "artists": [
         {
-          "name": "Young Nudy",
-          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 217213,
-      "name": "Peaches & Eggplants (feat. Latto & Sexyy Red)",
-      "url": "https://open.spotify.com/track/1BmI4EYdfzbg8DlV6pHYrY"
+      "duration_ms": 143783,
+      "name": "Figueroa",
+      "url": "https://open.spotify.com/track/18jgn5QOjqsEx9TiqH4e1E"
     },
     {
       "added_at": "2024-08-30 04:01:34",
@@ -903,30 +903,6 @@
     {
       "added_at": "2024-08-30 04:01:34",
       "album": {
-        "name": "FAVORITE LADY (with NAV & Cash Cobain)",
-        "url": "https://open.spotify.com/album/78adtlPeGeYd1Am0o9dNz7"
-      },
-      "artists": [
-        {
-          "name": "Diany Dior",
-          "url": "https://open.spotify.com/artist/4A0F4D2N7CtAVHPNUHftem"
-        },
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "Cash Cobain",
-          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
-        }
-      ],
-      "duration_ms": 204935,
-      "name": "FAVORITE LADY (with NAV & Cash Cobain)",
-      "url": "https://open.spotify.com/track/4DCvMCGfSBMoNwvpKqtCpt"
-    },
-    {
-      "added_at": "2024-08-30 04:01:34",
-      "album": {
         "name": "Gorgeous Remix (feat. City Girls)",
         "url": "https://open.spotify.com/album/4vzW9xfVkh6dOKxuGI66pD"
       },
@@ -947,6 +923,30 @@
       "duration_ms": 214468,
       "name": "Gorgeous Remix (feat. City Girls)",
       "url": "https://open.spotify.com/track/7mEyNyiz1n32CX9lbgBpBq"
+    },
+    {
+      "added_at": "2024-08-30 04:01:34",
+      "album": {
+        "name": "FAVORITE LADY (with NAV & Cash Cobain)",
+        "url": "https://open.spotify.com/album/78adtlPeGeYd1Am0o9dNz7"
+      },
+      "artists": [
+        {
+          "name": "Diany Dior",
+          "url": "https://open.spotify.com/artist/4A0F4D2N7CtAVHPNUHftem"
+        },
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        }
+      ],
+      "duration_ms": 204935,
+      "name": "FAVORITE LADY (with NAV & Cash Cobain)",
+      "url": "https://open.spotify.com/track/4DCvMCGfSBMoNwvpKqtCpt"
     }
   ],
   "unique_name": "Pressure",

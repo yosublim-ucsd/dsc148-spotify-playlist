@@ -2,9 +2,9 @@
 
 ### [v o K a l](https://open.spotify.com/playlist/37i9dQZF1DX8eqay1FtdMm)
 
-> Meet the best Korean vocalists who will melt your eardrums! \(Cover: THAMA\(따마\)\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
+> Meet the best Korean vocalists who will melt your eardrums! \(Cover: Solji\(솔지\)\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-562 songs - 1 day 12 hr 42 min
+563 songs - 1 day 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,7 +242,7 @@
 | [I′ll be by your side](https://open.spotify.com/track/1CjOylFGEsCzOlgd2xiEw2) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [I'll be by your side](https://open.spotify.com/album/1pdxVaLPFmbKCtWKP3sfTS) | 3:54 | 2024-03-26 | 2024-08-27 |
 | [I′m Sorry](https://open.spotify.com/track/3LUkaacGXrVcn8jo29Vymi) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Alchemy of Souls: Light and Shadow, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5GeLZHhhxLRaDeL2o6aaTg) | 4:16 | 2023-01-13 |  |
 | [Journey](https://open.spotify.com/track/2kyyJtsitronmU6HMGsm1m) | [KIM BUMSOO](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [Journey](https://open.spotify.com/album/1uEb7pZr66xdSQcbfVVSX7) | 4:34 | 2024-02-27 | 2024-05-17 |
-| [Just as We Were](https://open.spotify.com/track/1gNkZGi3evYz8NNWox7SRS) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Just as We Were](https://open.spotify.com/album/1weCtwUO67iYwytGnHZGfR) | 4:08 | 2024-06-19 |  |
+| [Just as We Were](https://open.spotify.com/track/1gNkZGi3evYz8NNWox7SRS) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Just as We Were](https://open.spotify.com/album/1weCtwUO67iYwytGnHZGfR) | 4:08 | 2024-06-19 | 2024-09-12 |
 | [Just Broke Up Today 오늘 내가 한 이별 \(With Kim Min Seok\)](https://open.spotify.com/track/1qAlxROzuF3LlyIydGQ31E) | [KWON SOON IL](https://open.spotify.com/artist/1e7AZDBG64lv62iUtQ6nTf), [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [With](https://open.spotify.com/album/4pPY24vHNrX6nL5EJyIIT7) | 4:12 | 2021-12-27 | 2022-07-14 |
 | [Just Cry](https://open.spotify.com/track/6rf2JDFWsIxr888KIJ7QzN) | [Lee Hae Ri](https://open.spotify.com/artist/7JE09i08qDhfHKd0rgFeEe) | [from h](https://open.spotify.com/album/3KouwHtDV9HQhf6nQxIO4u) | 4:13 | 2022-03-24 | 2022-05-21 |
 | [Just Look for you](https://open.spotify.com/track/15Xk9pTVjhLH3nldqR89Sl) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Chocolate, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/1IIaSwpqJvJCvxXyM69c3A) | 3:41 | 2022-07-25 | 2024-01-10 |
@@ -333,6 +333,7 @@
 | [Natural](https://open.spotify.com/track/0ACt3PP22HyKfpFIV6AQUW) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Natural](https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ) | 2:24 | 2021-12-20 |  |
 | [Need You \(Outro\)](https://open.spotify.com/track/1cezqft1vwwPCmHlkydESz) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Need You \(Outro\)](https://open.spotify.com/album/0MrrGoUO9vibHBfeVGD5Aw) | 4:05 | 2022-02-10 | 2022-04-21 |
 | [Need you \(With Sung Si Kyung\)](https://open.spotify.com/track/0WhWueHRzb6ctQ4QySvFeD) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt), [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Need you \(With Sung Si Kyung\)](https://open.spotify.com/album/4LsFiCmcvpuz0yD6BoSBpL) | 4:00 | 2023-04-18 | 2024-02-08 |
+| [Night Road in Hannam\-dong](https://open.spotify.com/track/3f3nUxid2xRg4yDRWCvFJG) | [Solji](https://open.spotify.com/artist/54EEMb9uR0v9PWoWtQhTEo) | [Night Road in Hannam\-dong](https://open.spotify.com/album/611Bzy6Nknw70QAEvhNG16) | 3:57 | 2024-09-11 |  |
 | [Nights Into Days \(Prod\. by Naul\)](https://open.spotify.com/track/7yMSnQEier8Kp4iQuIvt0t) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Naul <Ballad Pop City>](https://open.spotify.com/album/5KN5V04kjs7YeTVyQcpqqZ) | 4:20 | 2023-02-02 |  |
 | [No love](https://open.spotify.com/track/02r3fCsVlcFWgMZG9lGTz6) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [No love](https://open.spotify.com/album/4bgDVPwibaY66Ej45yzkyr) | 3:58 | 2023-03-27 | 2023-04-01 |
 | [No place to hide](https://open.spotify.com/track/60zGjGZpEd4EA5EJ6t1Zui) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [No place to hide](https://open.spotify.com/album/6lmLTu9uqEIE7RdS2bWgSz) | 3:39 | 2021-12-27 | 2022-07-17 |

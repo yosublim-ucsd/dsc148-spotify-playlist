@@ -5164,7 +5164,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-11",
+      "date_removed": null,
       "duration_ms": 218423,
       "name": "Good Luck, Babe!",
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
@@ -10898,7 +10898,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 403533,
       "name": "Schism",
       "url": "https://open.spotify.com/track/55mJleti2WfWEFNFcBduhc"
@@ -10942,6 +10942,36 @@
       "duration_ms": 69360,
       "name": "Se Paciente Funk",
       "url": "https://open.spotify.com/track/2f0ICQHa6q8hr5HjeFmDJO"
+    },
+    {
+      "album": {
+        "name": "SE PONE PUPU",
+        "url": "https://open.spotify.com/album/3SBKVI1Tz9duOyrOtRXR1I"
+      },
+      "artists": [
+        {
+          "name": "G Owen",
+          "url": "https://open.spotify.com/artist/6Wa0USoJMqYvngTNyFcg0K"
+        },
+        {
+          "name": "Kroma Ws",
+          "url": "https://open.spotify.com/artist/7DBVzGqIkldPS0Y4fvKaz0"
+        },
+        {
+          "name": "El Noar",
+          "url": "https://open.spotify.com/artist/41n5lFRxd3IizunF5sDQ8E"
+        },
+        {
+          "name": "Taio",
+          "url": "https://open.spotify.com/artist/69fWcfoKvTRnACaerPqDwp"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214629,
+      "name": "SE PONE PUPU",
+      "url": "https://open.spotify.com/track/032M2V3ogPhuECcGM17dXf"
     },
     {
       "album": {
@@ -12502,7 +12532,7 @@
       ],
       "date_added": "2024-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 381946,
       "name": "The Pot",
       "url": "https://open.spotify.com/track/1lATXTBJDHwawvT1UfxWu3"

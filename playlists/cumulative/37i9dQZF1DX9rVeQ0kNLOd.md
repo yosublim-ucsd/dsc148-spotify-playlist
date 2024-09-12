@@ -4,7 +4,7 @@
 
 > いろいろあるかも知れないけれど、ちょっと休憩しませんか？チルな楽曲でゆったりまったりなひと時を。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-323 songs - 19 hr 43 min
+324 songs - 19 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [doll](https://open.spotify.com/track/4LbegEhpVETr2aAOoo6kP5) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Welcome to My Castle](https://open.spotify.com/album/6DSelDneeVFEluC97trMur) | 3:33 | 2023-11-21 | 2023-12-14 |
 | [doll](https://open.spotify.com/track/7lZgyhI0XOvjzi7g0eeHBA) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Welcome to My Castle](https://open.spotify.com/album/7gkjbmsbhiXCDPmKYGPk2l) | 3:33 | 2023-12-12 | 2024-01-11 |
 | [FAKE MOON](https://open.spotify.com/track/44O74u3HNTWVEebEGLAoOk) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [FAKE MOON](https://open.spotify.com/album/049vN5HuMG3Yo6UYLYqD29) | 3:19 | 2024-02-28 | 2024-06-12 |
-| [Fallin'](https://open.spotify.com/track/44hRxKIpU1787XpbuNy38e) | [BLACK BERRY TIMES](https://open.spotify.com/artist/4J8XXHJfFASivijCfQwIj7) | [After Rain Comes Sunshine](https://open.spotify.com/album/4vr6PMzY8qYcHuQ1F4DWgz) | 3:29 | 2024-06-12 |  |
+| [Fallin'](https://open.spotify.com/track/44hRxKIpU1787XpbuNy38e) | [BLACK BERRY TIMES](https://open.spotify.com/artist/4J8XXHJfFASivijCfQwIj7) | [After Rain Comes Sunshine](https://open.spotify.com/album/4vr6PMzY8qYcHuQ1F4DWgz) | 3:29 | 2024-06-12 | 2024-09-12 |
 | [Fantasy](https://open.spotify.com/track/68PdIBBJErUzVtv3Bt0LA5) | [Ryota Oyabu](https://open.spotify.com/artist/1ySrxjDBwFRDFoURBQxTZl) | [Fantasy](https://open.spotify.com/album/2tccW0oHy4LxDwSJgabJsR) | 3:03 | 2022-12-06 | 2024-01-24 |
 | [Fantasy](https://open.spotify.com/track/0YFaFjVx8K3aawRCe5CbeB) | [大藪良多](https://open.spotify.com/artist/5HibPVXd5GueEj3Mj6Gcju) | [Fantasy](https://open.spotify.com/album/508jv0GzDC62i4oe20jEbZ) | 3:03 | 2022-12-06 | 2022-12-08 |
 | [fantasy](https://open.spotify.com/track/2xVfFL5ZUCmTskkFh8k8Ui) | [重盛さと美](https://open.spotify.com/artist/520STFW9IFHZA5A1WPWUeZ) | [fantasy](https://open.spotify.com/album/3U4MMe9HUEe25g3XLqvlAH) | 2:38 | 2022-11-10 | 2022-12-07 |
@@ -270,6 +270,7 @@
 | [嘘つきの君が好き](https://open.spotify.com/track/4f38Jn95Ls3TEpqeeTdJjT) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [嘘つきの君が好き](https://open.spotify.com/album/4aSOGfFjJiJpqsP5HwHYhs) | 3:14 | 2024-01-10 |  |
 | [夏風に溶ける](https://open.spotify.com/track/1l2Jd4haFIUiIkBwkSagL9) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS), [南雲ゆうき](https://open.spotify.com/artist/4dYXHUOE8nJFuJvYtykTuk) | [夏風に溶ける](https://open.spotify.com/album/35lGEqqUinzUucU3G9aHgG) | 3:44 | 2023-06-06 |  |
 | [夜をループ](https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [NIGHT TAPE](https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB) | 4:26 | 2022-10-20 | 2023-04-05 |
+| [夜明けのコロニー](https://open.spotify.com/track/1eZ2uxlVSfkmHrSCdboXcu) | [みゆな](https://open.spotify.com/artist/2eg5oiMWKYEJ5vVwW1YFCC) | [夜明けのコロニー](https://open.spotify.com/album/5KqLX67OCcNHJiS0p9bFCh) | 3:34 | 2024-09-11 |  |
 | [夢で逢えたら](https://open.spotify.com/track/3dTszgeHELrjirdYr5cjr1) | [クボタカイ](https://open.spotify.com/artist/0eg7sMst2b9wLVyMgtRFpY) | [夢で逢えたら](https://open.spotify.com/album/1ULNF5G2B4FJFqPuOJiaCy) | 4:05 | 2023-01-17 | 2023-03-25 |
 | [夢にならないように](https://open.spotify.com/track/7FZEAOoUYZiIhvQCxzUPV0) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [夢にならないように](https://open.spotify.com/album/6fselSaEhSSEmnzcEyNfTV) | 4:28 | 2022-11-23 | 2022-12-14 |
 | [太陽が昇るまで](https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Inner Ocean](https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1) | 3:43 | 2022-12-20 | 2023-03-25 |

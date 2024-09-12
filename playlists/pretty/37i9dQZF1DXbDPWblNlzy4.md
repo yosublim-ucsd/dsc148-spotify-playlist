@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDPWblNlzy4.md) - [plain]
 
 > Los éxitos más POPulares en español los encuentras aquí\. Foto: KAROL G
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,195 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,210 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDPWblNlzy4.md) - [plain]
 | 68 | [Otra Canción](https://open.spotify.com/track/5PjsROhhpXFTnjhAeTd2OB) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Andrés Obregón](https://open.spotify.com/artist/0AQMbCYt6y84wEHGzScKve) | [Otra Canción](https://open.spotify.com/album/6z6fclMwLj1Q2CxFxHGp1q) | 3:36 |
 | 69 | [No Me Hagas Seguir](https://open.spotify.com/track/6Ylv3sfQITiT3szgTKAXE6) | [More](https://open.spotify.com/artist/0vLXnXSAplgnptyE3jKnpi) | [No Me Hagas Seguir](https://open.spotify.com/album/2uFQET4CktuiLQjLKDFXQk) | 2:51 |
 | 70 | [sorry es que soy bipolarrr](https://open.spotify.com/track/33BselzygJVodjKKHVLpiH) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [sorry es que soy bipolarrr](https://open.spotify.com/album/3ll4hIoivK1wpONt3MDxg5) | 3:40 |
-| 71 | [Café](https://open.spotify.com/track/10qhwiwVoeKVnF7mvr9Uqs) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Afro Vibes](https://open.spotify.com/album/1iQijMFf2omolFxF3gL4RQ) | 3:16 |
+| 71 | [Café](https://open.spotify.com/track/10qhwiwVoeKVnF7mvr9Uqs) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Piso 21](https://open.spotify.com/artist/6BHtDxFFPp7S1fjg5P1W3a) | [Afro Vibes](https://open.spotify.com/album/1iQijMFf2omolFxF3gL4RQ) | 3:16 |
 | 72 | [Nos Duele Tanto](https://open.spotify.com/track/5Qpe34hyuUgb83zeNk3q5u) | [Pascal](https://open.spotify.com/artist/2fuu7gBnfDhgJNt1Yr4ERu) | [Nos Duele Tanto](https://open.spotify.com/album/2JZ4R0tmYJu7Wk7TuE4jX5) | 2:21 |
 | 73 | [UN PORRITO](https://open.spotify.com/track/0QPFRCUxYOD1yGc8iiZZ04) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [UN PORRITO](https://open.spotify.com/album/0F48DCxxSzfNeAYnCeEw1v) | 3:24 |
 | 74 | [Ataque de Ansiedad \(Arial 5\)](https://open.spotify.com/track/3bLkpcMFfeZ4uaNFlVyC18) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB) | [Ataque de Ansiedad \(Arial 5\)](https://open.spotify.com/album/22X4Ap36P7CJipc3qOF2Th) | 2:36 |

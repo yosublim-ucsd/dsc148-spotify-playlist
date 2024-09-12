@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,055 songs - 3 day 6 hr 20 min
+2,057 songs - 3 day 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -929,7 +929,7 @@
 | [Kite](https://open.spotify.com/track/2CshcD2ZdSr8lgEkSYcmmK) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB), [Drips Zacheer](https://open.spotify.com/artist/6evg3DBRRbN4YNlzbeS6VN) | [Kite](https://open.spotify.com/album/1SCKTftnhCkK2RlNcAaIkq) | 2:23 | 2022-11-18 | 2023-01-07 |
 | [Kite](https://open.spotify.com/track/2YFpUFkSTOqCDy9hzMi1FY) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB), [Drips Zacheer](https://open.spotify.com/artist/6evg3DBRRbN4YNlzbeS6VN) | [Kite](https://open.spotify.com/album/0Ek36hK7QpAGGcNBwV17y5) | 2:23 | 2022-09-16 | 2022-11-20 |
 | [Kite](https://open.spotify.com/track/0Uyq0exEznwuyPHtUoItQG) | [Name Goes Here](https://open.spotify.com/artist/2A9l28mcw3mO8SSrusXyLs) | [Kite](https://open.spotify.com/album/5S40ObOUh50xGjbuOCsilS) | 3:08 | 2023-03-08 |  |
-| [knox](https://open.spotify.com/track/1hzuZqJ6fnagvFr9mjacKL) | [LVTA](https://open.spotify.com/artist/3xoLUBE5kWiGDw1Dgp8Fcf) | [knox](https://open.spotify.com/album/4OdQCF3d6u2pjwMcWIlEtv) | 2:00 | 2023-03-08 |  |
+| [knox](https://open.spotify.com/track/1hzuZqJ6fnagvFr9mjacKL) | [LVTA](https://open.spotify.com/artist/3xoLUBE5kWiGDw1Dgp8Fcf) | [knox](https://open.spotify.com/album/4OdQCF3d6u2pjwMcWIlEtv) | 2:00 | 2023-03-08 | 2024-09-12 |
 | [kodak](https://open.spotify.com/track/7q8NJyn5JHHzfTwa1auiPH) | [Hype Right](https://open.spotify.com/artist/5WyDwnrZMIyg4iDWrZuva4) | [kodak](https://open.spotify.com/album/0ggeJPPUAeDt8oCadobrvM) | 1:51 | 2023-11-17 |  |
 | [Kodama Hour](https://open.spotify.com/track/4KA3tl17zoh2mpRSmvXCZL) | [azula](https://open.spotify.com/artist/1ExCrobB2mqThavegHEHeS), [juniorodeo](https://open.spotify.com/artist/0UVbCcNJ7xNvJ55Zq2YwrN), [INKY!](https://open.spotify.com/artist/4jlY0hmEPAg8KTa4KVe4R4) | [Spirits](https://open.spotify.com/album/1NZNlyf6Pgr1LbdyUwBVZ9) | 2:00 | 2022-08-05 | 2022-10-01 |
 | [Kreate](https://open.spotify.com/track/6gFVo9UQuTbLgpyhzI3OO8) | [Geórgia Neve](https://open.spotify.com/artist/7oR5FuTIzTDDGzh8c4bEsT) | [Kreate](https://open.spotify.com/album/6gZ0xOaVXVJt4K2c5C70Nv) | 2:30 | 2024-01-19 |  |
@@ -1144,7 +1144,7 @@
 | [Missing You](https://open.spotify.com/track/0IhDHRbFUfg3MaG1iQUClb) | [Tru Beri](https://open.spotify.com/artist/5ycHMRtAIjlIQ2P5NMvI5k) | [Missing You](https://open.spotify.com/album/3qjbuBW6voCrKP8N2xvqGQ) | 1:36 | 2022-04-15 | 2022-10-14 |
 | [Mist](https://open.spotify.com/track/20PI4A6FMkxYnNESr4pF6p) | [New K](https://open.spotify.com/artist/6lBK5GR3B0nhG3e6Kg5MAs) | [Mist](https://open.spotify.com/album/0lvAkLDRDZgi2CntWtw0TI) | 2:57 | 2022-11-25 | 2023-04-21 |
 | [Mister you forgot your hat](https://open.spotify.com/track/7HHLfthMPLGO4INZtNjxHW) | [Meryl Street](https://open.spotify.com/artist/7e6kFvhiwoYl3HM4ewsGOg) | [Mister you forgot your hat](https://open.spotify.com/album/5AMN6MO3ZFp44QI8WeM5X9) | 2:24 | 2023-11-17 |  |
-| [Mistle](https://open.spotify.com/track/09F4NbaDx67AaQdukx5tIw) | [furozun](https://open.spotify.com/artist/5voSeB7AkXaFy0akWb5w3U) | [Mistle](https://open.spotify.com/album/7AdlNag6CqJMNTTpHsqsVs) | 2:16 | 2022-10-07 |  |
+| [Mistle](https://open.spotify.com/track/09F4NbaDx67AaQdukx5tIw) | [furozun](https://open.spotify.com/artist/5voSeB7AkXaFy0akWb5w3U) | [Mistle](https://open.spotify.com/album/7AdlNag6CqJMNTTpHsqsVs) | 2:16 | 2022-10-07 | 2024-09-12 |
 | [Mistletoe](https://open.spotify.com/track/6QA4PFuLTaHGlcakQuEQ1h) | [wake deprived](https://open.spotify.com/artist/7GjL7O7YHh0GpFqxacW7xP) | [Mistletoe](https://open.spotify.com/album/5oOCRsrE5ws6J1cLCLDUSP) | 2:01 | 2023-04-20 | 2023-10-06 |
 | [Misty Woods](https://open.spotify.com/track/0pPlRossaqIMFOkLtwg5XI) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB), [NK Music](https://open.spotify.com/artist/44L4NQt4H6Ru2aXHH3BLQi), [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y) | [Misty Woods](https://open.spotify.com/album/0vDPVK064wZnWv3nMToFf2) | 2:02 | 2023-08-31 |  |
 | [miyu](https://open.spotify.com/track/5Manub8VP5SyKpJ9kcKSTD) | [yudaii](https://open.spotify.com/artist/0Z0ac99LvWHSYfGtxO8Ovv) | [ambassing](https://open.spotify.com/album/7dTO5q5UVSUOZh7YKwCWvC) | 2:14 | 2022-04-15 | 2022-09-17 |
@@ -1753,6 +1753,7 @@
 | [Sunset](https://open.spotify.com/track/3NNhwmJ4W2hsb3ZGMulWb5) | [Mr Argyle](https://open.spotify.com/artist/3uXwEhmJJ8hkRJS7nE07sw) | [Sunset](https://open.spotify.com/album/5Ep6e5SHxyTXCox49BHJ8X) | 2:17 | 2022-12-16 |  |
 | [Sunset Boulevard](https://open.spotify.com/track/7uNB5da4RZLnfWIE8xIQZk) | [Phive O](https://open.spotify.com/artist/3BazVVHaz03CY1JFfedL9L) | [Sunset Boulevard](https://open.spotify.com/album/7nJJah1pdRhcGpQReeDOVb) | 2:15 | 2023-11-17 |  |
 | [Sunset Driver](https://open.spotify.com/track/7sB14XGjDap7MksnZD4kBc) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe) | [Sunset Driver](https://open.spotify.com/album/45L0cycorLNnk9gMiwo2p9) | 3:17 | 2022-04-15 | 2022-09-02 |
+| [Sunset Together](https://open.spotify.com/track/75mJEftO6ErEtCUvJqQWyr) | [XXIII](https://open.spotify.com/artist/1iMewV5kCtODzBgKmPnIq7), [mädmäx](https://open.spotify.com/artist/6e1SIZMnXuUFsXt7xMbkg0) | [Sunset Together](https://open.spotify.com/album/0HC3inL4vY0Ck0lbjOEcNf) | 1:45 | 2024-09-06 |  |
 | [Sunset Wish](https://open.spotify.com/track/5OuutCf0GMIB0fSyI2kHNr) | [HoKø](https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD), [Hoogway](https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ) | [Sunset Wish](https://open.spotify.com/album/63RgFySdicgg8HLgCbSTen) | 2:14 | 2022-04-15 | 2022-09-02 |
 | [sunshine.](https://open.spotify.com/track/7yl5I1XGr8cLd3NbXBcaY4) | [Azukori](https://open.spotify.com/artist/5DRwanve8WNydsqtMtwO3Q), [Beteulan](https://open.spotify.com/artist/2NMzOZnJtj8fTeORPhWyCT), [Brunch Collect](https://open.spotify.com/artist/0kAzoeOzrlScAtTLUy613u) | [evolutions vol\. 1](https://open.spotify.com/album/1pP4xKGVOBN2IQ2NB6e6JK) | 2:08 | 2022-10-28 | 2023-01-20 |
 | [sunsmoke](https://open.spotify.com/track/6O03dtr3K8ra6dmTrGwKYS) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [sunsmoke](https://open.spotify.com/album/0exel9vbsPocCd1v71wkhV) | 1:13 | 2023-10-06 |  |
@@ -1827,6 +1828,7 @@
 | [The Smokeroom Band](https://open.spotify.com/track/21Wl7gBjfJuhNHe66c3LOu) | [Lovetime Rhapsody](https://open.spotify.com/artist/1khPvt8OPAxBnQTIZ0kHJi) | [Sixth Degree](https://open.spotify.com/album/7lD5tqgt3RULe8A2YCSR1h) | 3:27 | 2022-04-15 | 2022-06-25 |
 | [The Spy Hunter](https://open.spotify.com/track/1AMBXDrCOcfzXIKaJF23yx) | [Pensive Strider](https://open.spotify.com/artist/32v1SzCcOazNtxUl8CQQyB) | [Life Finds A Way](https://open.spotify.com/album/2c6XwUzMBg6jbkxrLl9cQi) | 2:53 | 2022-04-15 | 2022-06-25 |
 | [The Thing You Do](https://open.spotify.com/track/0qXKoANAT73DdBjwlpPT5G) | [Ouija Chords](https://open.spotify.com/artist/3tcxWYxIzG1rkrWBRqybBT) | [The Thing You Do](https://open.spotify.com/album/0H95L6BfWccbPaHlAPJJo8) | 1:46 | 2022-08-12 | 2022-12-09 |
+| [The Time](https://open.spotify.com/track/3LSS2cfUMlsXNJ1tPyusHU) | [Akkoro](https://open.spotify.com/artist/7oYEzKdDKAF7DjhsS4nEOt) | [The Time](https://open.spotify.com/album/20IludUO7l4kks8mPAuML5) | 1:58 | 2024-09-06 |  |
 | [The Way To Eden](https://open.spotify.com/track/5hwn92Fpw0VK8y7taEHPrF) | [louke's beats](https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E) | [The Way To Eden](https://open.spotify.com/album/2FyEnKHmb477fH0WRy1iOA) | 1:46 | 2023-11-17 |  |
 | [the willow tree](https://open.spotify.com/track/5iGa3KHzFg7CtCfpqqY0Cp) | [inthedark](https://open.spotify.com/artist/3VODOokOAtBPtnB1aAWtf6) | [the willow tree](https://open.spotify.com/album/079zyUKwiqsOKk6ylm59WU) | 2:29 | 2024-02-02 |  |
 | [Their Name Is Jazz](https://open.spotify.com/track/7k489KmPZjNkvEMgSZdY2g) | [yoranda](https://open.spotify.com/artist/6RASfL9QFAOiqYdKetXooz) | [Their Name Is Jazz](https://open.spotify.com/album/1Z8CkZUbO8MXbOGEP9k7zj) | 2:15 | 2023-09-29 |  |

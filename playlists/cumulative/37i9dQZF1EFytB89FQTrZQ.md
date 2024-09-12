@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-469 songs - 1 day 2 hr 49 min
+470 songs - 1 day 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [Hold Up](https://open.spotify.com/track/42ktzUPAfWnveeZfIQkjbT) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Hold Up \(Video\)](https://open.spotify.com/album/2w0Q2ehrKqwvBiS5AqQPzG) | 5:15 | 2023-12-15 | 2024-02-01 |
 | [Honeymoon Phaze](https://open.spotify.com/track/5cbZFJlt0U08sKS6r0LFQo) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 5:32 | 2022-09-08 |  |
 | [HOT](https://open.spotify.com/track/25a7EWpbv4NjeUIP1PN6T1) | [Pia Mia](https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP) | [HOT](https://open.spotify.com/album/25stFeSXGr3jAPjDhAFZ3E) | 2:34 | 2022-09-08 |  |
+| [HOT \(with Sean Paul & Flo Milli\) \- Remix](https://open.spotify.com/track/2uPfFGg18EsXxWR8m8I7O5) | [Pia Mia](https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [HOT \(Remix\)](https://open.spotify.com/album/5LEpzGrWKZJDfSDd6Xccfp) | 3:25 | 2024-09-11 |  |
 | [House Work \(feat\. Mike Dunn & MNEK\)](https://open.spotify.com/track/4N1NX1NM6hOQDx11jJC8cn) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Mike Dunn](https://open.spotify.com/artist/55UOywvWbUD9c6C3NSGdft), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Snacks](https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb) | 2:37 | 2022-09-08 |  |
 | [I Could Always \(feat\. MNDR\)](https://open.spotify.com/track/2gQMLUE0Bf5ha89MHF7q9L) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [MNDR](https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe) | [I Could Always \(feat\. MNDR\)](https://open.spotify.com/album/4GcfT4lV2LivWd0gqaWEWH) | 3:54 | 2022-09-08 |  |
 | [I Could Get Used To This](https://open.spotify.com/track/0GN9ZMBqfeBTpCWT1XL2hl) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [WEISS](https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB) | [I Could Get Used To This](https://open.spotify.com/album/6AbgWfL0hTYitvnB0iT5gG) | 3:15 | 2023-12-14 | 2024-01-30 |

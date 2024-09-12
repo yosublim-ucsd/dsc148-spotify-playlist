@@ -2,9 +2,9 @@
 
 ### [Satang Mix \(사탕 믹스\)](https://open.spotify.com/playlist/37i9dQZF1DWTTHy0vndijk)
 
-> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: TZUYU \(쯔위\) 상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
+> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: Yerin \(예린\) 상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
-443 songs - 1 day 0 hr 28 min
+444 songs - 1 day 0 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -408,6 +408,7 @@
 | [Warning \(Feat\. lIlBOI\)](https://open.spotify.com/track/1j795THd14Z0PmA3O18EwU) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu), [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved) | [I'm](https://open.spotify.com/album/085XU5PQYl7eUA97BkkE8Z) | 3:28 | 2021-11-29 | 2022-07-29 |
 | [Water Flower](https://open.spotify.com/track/2ef4at7BVtosVfvJcoHP0e) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND The 1st Album 'LOL'](https://open.spotify.com/album/0PlSM2Hml1cFANnzYu6RCg) | 3:41 | 2022-04-04 | 2022-04-14 |
 | [Watermelon](https://open.spotify.com/track/1Hy0XSHNBojwZhkwCLGXQ1) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [XOXO](https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m) | 3:02 | 2021-11-29 | 2022-07-26 |
+| [Wavy](https://open.spotify.com/track/1Bk4mFK1shZUoHfYJMwqWp) | [Yerin](https://open.spotify.com/artist/7htnZJTm5SZsmKRrnOL5mk) | [Rewrite](https://open.spotify.com/album/5H80DTznH6q3sVcb7aKAid) | 2:53 | 2024-09-11 |  |
 | [WE](https://open.spotify.com/track/2UpufoNZBIJfdqr51G32vT) | [PLEDIS GIRLZ](https://open.spotify.com/artist/75DypDT4XBWGMcdpG378AQ) | [WE](https://open.spotify.com/album/6RQnttRHevLZsExKtWSqeO) | 3:54 | 2021-11-29 | 2022-07-14 |
 | [WE ARE YOUNG](https://open.spotify.com/track/3iP1Ii8sXnYNUNpEGQMXx6) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [W.A.Y](https://open.spotify.com/album/7iidKsHRHGmJ1tAMz8tvZo) | 2:57 | 2023-02-14 | 2023-04-25 |
 | [WE GO](https://open.spotify.com/track/7oQqeRSV38YqkRv2UGvmbS) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [9 WAY TICKET](https://open.spotify.com/album/5DPggk2zBmJYqtaUyLOlVW) | 2:55 | 2021-11-29 |  |
@@ -424,7 +425,7 @@
 | [Will you go out with me](https://open.spotify.com/track/3CxFmlsOtbFuv7w4YE2OND) | [DIA](https://open.spotify.com/artist/5Pcx98OUnL52aGZRRQx5v8) | [YOLO](https://open.spotify.com/album/0pk8DIavA3eNBCZXCpPpv5) | 3:11 | 2021-11-29 | 2022-07-29 |
 | [WINDY DAY](https://open.spotify.com/track/4c0P6s4blpNIldqJ5a6oKr) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [WINDY DAY](https://open.spotify.com/album/4myoH0xndN3zGsEOJvuMgv) | 4:09 | 2021-11-29 | 2022-07-29 |
 | [Windy Windy](https://open.spotify.com/track/50trLU8inOxR7cnRitsW8x) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND Summer Mini Album 'Sunny Summer'](https://open.spotify.com/album/65HAyK45TFC2MJSufJwzji) | 3:16 | 2021-11-29 | 2022-07-24 |
-| [Wish You Hell](https://open.spotify.com/track/1zC3wpW5qU7n6KVrBlbAah) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Wish You Hell \- The 2nd Mini Album](https://open.spotify.com/album/4TqtE79sLslimmr8XujDAD) | 2:50 | 2024-04-17 |  |
+| [Wish You Hell](https://open.spotify.com/track/1zC3wpW5qU7n6KVrBlbAah) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Wish You Hell \- The 2nd Mini Album](https://open.spotify.com/album/4TqtE79sLslimmr8XujDAD) | 2:50 | 2024-04-17 | 2024-09-12 |
 | [Wish You Hell](https://open.spotify.com/track/7b8SkcdeiTuo6FQXdPgPWW) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Wish You Hell \- The 2nd Mini Album](https://open.spotify.com/album/3f8n88uX0tNvA8HTROgSkr) | 2:50 | 2024-03-12 | 2024-04-19 |
 | [Witch](https://open.spotify.com/track/4esQGgU0ekQyRXXENzCo9u) | [UiU](https://open.spotify.com/artist/4qmogHXIzvEU3BhuX5YBYy) | [UiU \#1](https://open.spotify.com/album/5mggU4oN75UThUVfKkKOI0) | 3:09 | 2022-04-13 | 2022-06-01 |
 | [Wonderland](https://open.spotify.com/track/1w1BFGe9bPUKi0Tpfsh0a6) | [gugudan](https://open.spotify.com/artist/0h7XZWgoxlY49uSUj7MVRY) | [Act.1 The Little Mermaid](https://open.spotify.com/album/2s65QrFa3eBaqdAlDlffhm) | 3:04 | 2021-11-29 | 2022-04-18 |

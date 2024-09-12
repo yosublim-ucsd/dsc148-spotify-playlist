@@ -1,6 +1,6 @@
 {
   "description": "Rock on repeat during the summers of the 1990s.",
-  "num_followers": 84516,
+  "num_followers": 84518,
   "original_name": "90s Summer Rock",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-07-12 14:58:14",
       "album": {
-        "name": "Sublime",
-        "url": "https://open.spotify.com/album/14eK347GdWO4mBBx78tsut"
-      },
-      "artists": [
-        {
-          "name": "Sublime",
-          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
-        }
-      ],
-      "duration_ms": 182746,
-      "name": "Santeria",
-      "url": "https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f"
-    },
-    {
-      "added_at": "2024-07-12 14:58:14",
-      "album": {
         "name": "Blur (Special Edition)",
         "url": "https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 121160,
       "name": "Song 2 - 2012 Remaster",
       "url": "https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM"
+    },
+    {
+      "added_at": "2024-07-12 14:58:14",
+      "album": {
+        "name": "Sublime",
+        "url": "https://open.spotify.com/album/14eK347GdWO4mBBx78tsut"
+      },
+      "artists": [
+        {
+          "name": "Sublime",
+          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+        }
+      ],
+      "duration_ms": 182746,
+      "name": "Santeria",
+      "url": "https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f"
     },
     {
       "added_at": "2024-07-12 14:58:14",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-07-12 14:58:14",
       "album": {
-        "name": "Pocket Full Of Kryptonite",
-        "url": "https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK"
-      },
-      "artists": [
-        {
-          "name": "Spin Doctors",
-          "url": "https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m"
-        }
-      ],
-      "duration_ms": 256733,
-      "name": "Two Princes",
-      "url": "https://open.spotify.com/track/4ePP9So5xRzspjLFVVbj90"
-    },
-    {
-      "added_at": "2024-07-12 14:58:14",
-      "album": {
         "name": "Blur: The Best Of",
         "url": "https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 259385,
       "name": "Girls & Boys",
       "url": "https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw"
+    },
+    {
+      "added_at": "2024-07-12 14:58:14",
+      "album": {
+        "name": "Pocket Full Of Kryptonite",
+        "url": "https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK"
+      },
+      "artists": [
+        {
+          "name": "Spin Doctors",
+          "url": "https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m"
+        }
+      ],
+      "duration_ms": 256733,
+      "name": "Two Princes",
+      "url": "https://open.spotify.com/track/4ePP9So5xRzspjLFVVbj90"
     },
     {
       "added_at": "2024-07-12 14:58:14",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-07-12 14:58:14",
       "album": {
-        "name": "13",
-        "url": "https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 358773,
-      "name": "Coffee & TV",
-      "url": "https://open.spotify.com/track/5eSllZgRWCIJsDTAqFRwQw"
-    },
-    {
-      "added_at": "2024-07-12 14:58:14",
-      "album": {
         "name": "Load",
         "url": "https://open.spotify.com/album/6ndH0UlQbyCOVqByMXXhdV"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 267933,
       "name": "Until It Sleeps",
       "url": "https://open.spotify.com/track/2Iv4HSoMX2fDeXFcOJWyWX"
+    },
+    {
+      "added_at": "2024-07-12 14:58:14",
+      "album": {
+        "name": "13",
+        "url": "https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 358773,
+      "name": "Coffee & TV",
+      "url": "https://open.spotify.com/track/5eSllZgRWCIJsDTAqFRwQw"
     },
     {
       "added_at": "2024-07-12 14:58:14",
@@ -911,18 +911,18 @@
     {
       "added_at": "2024-07-12 14:58:14",
       "album": {
-        "name": "Cross Road",
-        "url": "https://open.spotify.com/album/0tBfLeYdX3oBnl5NVpot4m"
+        "name": "Yield",
+        "url": "https://open.spotify.com/album/5zsDtoSrXK4usJ4MB1tCh2"
       },
       "artists": [
         {
-          "name": "Jon Bon Jovi",
-          "url": "https://open.spotify.com/artist/6h2bWHWTJL38N8dqocVaif"
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
         }
       ],
-      "duration_ms": 340000,
-      "name": "Blaze Of Glory",
-      "url": "https://open.spotify.com/track/0XwjdpwvEwukcg3XU4Ibzt"
+      "duration_ms": 206586,
+      "name": "Wishlist",
+      "url": "https://open.spotify.com/track/7hObovvcbBpXgZHQ9if4WU"
     },
     {
       "added_at": "2024-07-12 14:58:14",
@@ -943,18 +943,18 @@
     {
       "added_at": "2024-07-12 14:58:14",
       "album": {
-        "name": "Yield",
-        "url": "https://open.spotify.com/album/5zsDtoSrXK4usJ4MB1tCh2"
+        "name": "Cross Road",
+        "url": "https://open.spotify.com/album/0tBfLeYdX3oBnl5NVpot4m"
       },
       "artists": [
         {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+          "name": "Jon Bon Jovi",
+          "url": "https://open.spotify.com/artist/6h2bWHWTJL38N8dqocVaif"
         }
       ],
-      "duration_ms": 206586,
-      "name": "Wishlist",
-      "url": "https://open.spotify.com/track/7hObovvcbBpXgZHQ9if4WU"
+      "duration_ms": 340000,
+      "name": "Blaze Of Glory",
+      "url": "https://open.spotify.com/track/0XwjdpwvEwukcg3XU4Ibzt"
     },
     {
       "added_at": "2024-07-12 14:58:14",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-07-12 14:58:14",
       "album": {
-        "name": "The Man Who",
-        "url": "https://open.spotify.com/album/1cUp1HbKtGF7CiSl962vH5"
-      },
-      "artists": [
-        {
-          "name": "Travis",
-          "url": "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
-        }
-      ],
-      "duration_ms": 213666,
-      "name": "Driftwood",
-      "url": "https://open.spotify.com/track/40l4DYTW2jfArPOL63YogV"
-    },
-    {
-      "added_at": "2024-07-12 14:58:14",
-      "album": {
         "name": "Achtung Baby (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 221373,
       "name": "Even Better Than The Real Thing",
       "url": "https://open.spotify.com/track/4bK2vKMdkS0rNhbzRqAZe0"
+    },
+    {
+      "added_at": "2024-07-12 14:58:14",
+      "album": {
+        "name": "The Man Who",
+        "url": "https://open.spotify.com/album/1cUp1HbKtGF7CiSl962vH5"
+      },
+      "artists": [
+        {
+          "name": "Travis",
+          "url": "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
+        }
+      ],
+      "duration_ms": 213666,
+      "name": "Driftwood",
+      "url": "https://open.spotify.com/track/40l4DYTW2jfArPOL63YogV"
     },
     {
       "added_at": "2024-07-12 14:58:14",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-07-12 14:58:14",
       "album": {
-        "name": "Swagger",
-        "url": "https://open.spotify.com/album/4otuhE6BoXmrxa12vW6deO"
-      },
-      "artists": [
-        {
-          "name": "Gun",
-          "url": "https://open.spotify.com/artist/1dip2dCkBIylIFyDfZQfFu"
-        }
-      ],
-      "duration_ms": 260600,
-      "name": "Word Up - Radio Mix",
-      "url": "https://open.spotify.com/track/17CWwbHJ2ThM5MXj90ObrS"
-    },
-    {
-      "added_at": "2024-07-12 14:58:14",
-      "album": {
         "name": "The Best Of 1990-2000",
         "url": "https://open.spotify.com/album/5I099NUhbRrXaxnxQagElv"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 284600,
       "name": "Hold Me, Thrill Me, Kiss Me, Kill Me - From 'Batman Forever'",
       "url": "https://open.spotify.com/track/5TsHqbDKaSs4ECZX0045YS"
+    },
+    {
+      "added_at": "2024-07-12 14:58:14",
+      "album": {
+        "name": "Swagger",
+        "url": "https://open.spotify.com/album/4otuhE6BoXmrxa12vW6deO"
+      },
+      "artists": [
+        {
+          "name": "Gun",
+          "url": "https://open.spotify.com/artist/1dip2dCkBIylIFyDfZQfFu"
+        }
+      ],
+      "duration_ms": 260600,
+      "name": "Word Up - Radio Mix",
+      "url": "https://open.spotify.com/track/17CWwbHJ2ThM5MXj90ObrS"
     },
     {
       "added_at": "2024-07-12 14:58:14",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2024-07-12 14:58:14",
       "album": {
-        "name": "Adore (2014 Remaster)",
-        "url": "https://open.spotify.com/album/7FI91iB3E4iXZV5hCEEhlc"
+        "name": "The Downward Spiral",
+        "url": "https://open.spotify.com/album/3i13RcPnJ0AkHEamweLGhq"
       },
       "artists": [
         {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
         }
       ],
-      "duration_ms": 270893,
-      "name": "Ava Adore",
-      "url": "https://open.spotify.com/track/16YybWFlwLIqnkkjrw1GHZ"
+      "duration_ms": 373306,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/39tLc4Xp58Lu4KcWHggeE2"
     },
     {
       "added_at": "2024-07-12 14:58:14",

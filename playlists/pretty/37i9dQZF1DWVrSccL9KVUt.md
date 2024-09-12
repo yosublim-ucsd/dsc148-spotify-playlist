@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 
 > Celebrating the women of worship music!  Cover: <a href="spotify:artist:0XnterAMV09fuPjq4joR0c">Rita Springer<br/></a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,347 likes - 44 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,392 likes - 44 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 | 32 | [Saving Grace](https://open.spotify.com/track/43TGCCeAUfq4rnzLZKvYFT) | [Grace Marr](https://open.spotify.com/artist/1P3CFDHqo5bzitX1Y3fOZd) | [Saving Grace](https://open.spotify.com/album/7GM5C8ELDmXpTA4DI9QddT) | 3:13 |
 | 33 | [Send Rescue](https://open.spotify.com/track/62kZfFRexTUqMTSBBdBqeS) | [FAITHFUL](https://open.spotify.com/artist/5v6CYScuXE6A8BGVp5bRqW), [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i) | [Send Rescue](https://open.spotify.com/album/0sGCwp7Wby8sp8WkOGez5n) | 4:56 |
 | 34 | [Genesis](https://open.spotify.com/track/5eXGBAaTQBAsdp1qBqV4U6) | [Emilie Weiss](https://open.spotify.com/artist/58aCPqTdL2wim0FOUm2txg) | [Genesis](https://open.spotify.com/album/7iUI36yYNShQDM6nuUZN3W) | 4:28 |
-| 35 | [debris](https://open.spotify.com/track/3ZHnJKT76nKyVDGwr1ahoW) | [Courtnie Ramirez](https://open.spotify.com/artist/2nWAWrpwIjcyfaGfeZ13qW) | [debris](https://open.spotify.com/album/6OwAhwMHzbRP70wdO3LEbZ) | 4:19 |
+| 35 | [debris](https://open.spotify.com/track/3ZHnJKT76nKyVDGwr1ahoW) | [CORTÉ](https://open.spotify.com/artist/1HPPTOUG07N4P4XsXDQ5Y2) | [debris](https://open.spotify.com/album/6OwAhwMHzbRP70wdO3LEbZ) | 4:19 |
 | 36 | [Paper Thin](https://open.spotify.com/track/4HjHupE2zwoz5GQLWIywhY) | [Dani Miché](https://open.spotify.com/artist/1IAenyCYPeI3B4gpI6I6Cf) | [Hard Truths](https://open.spotify.com/album/34UW86M5riHc8OKtWMJVjd) | 3:21 |
 | 37 | [Fragile \- Reimagined](https://open.spotify.com/track/1xXUBqzkcVqnt26WJLLl5k) | [Natalie Layne](https://open.spotify.com/artist/6N1l2HIYtw3RhoJ2wzLYaB) | [Fragile \(Reimagined\)](https://open.spotify.com/album/4JHezCs3CKgzWUTcaibLlo) | 3:11 |
 | 38 | [Go](https://open.spotify.com/track/30GmfciNhTklAJtIk5GamT) | [Charly Perry](https://open.spotify.com/artist/6ydUqYa9scVm35DpeO3DtE) | [Go](https://open.spotify.com/album/7e3gG58B2ZjVmCUFliCyKG) | 3:28 |

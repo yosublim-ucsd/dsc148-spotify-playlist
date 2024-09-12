@@ -4,7 +4,7 @@
 
 > Enjoy music from legendary "Anpanman" series! /「それいけ!アンパンマン」から数々の名曲を1つのプレイリストに。<br/>\(C\)やなせたかし／フレーベル館・TMS・NTV
 
-51 songs - 2 hr 36 min
+53 songs - 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [サンサンたいそう](https://open.spotify.com/track/1sctpYBPKRMBhzEHk55L97) | [Dreaming](https://open.spotify.com/artist/4M9FTgU2MKVIwZAFfMsr3r) | [それいけ！アンパンマン ベストヒット'13](https://open.spotify.com/album/6ngjF7VE4ylUtdEpIKody0) | 3:14 | 2024-06-25 |  |
 | [ダ ダン ダン！](https://open.spotify.com/track/1tymhkUGldSZJGUAog9Zph) | [中尾隆聖 \(ばいきんまん\)](https://open.spotify.com/artist/468rrFUOTJ2Oa7Wox9ptho) | [それいけ！アンパンマン映画&テレビ25年記念作品 あつまれ！ムービーソングス](https://open.spotify.com/album/5iXfT2ND1lOyJpsxzccgwP) | 3:22 | 2024-06-25 |  |
 | [ドキンのララバイ](https://open.spotify.com/track/13ti30uTQEkVOwiMpjQl8y) | [鶴ひろみ \(ドキンちゃん\)](https://open.spotify.com/artist/11sAsEvOfzI5pzzToXzHWG) | [それいけ！アンパンマン げんき100ばいソングス ドキンちゃん](https://open.spotify.com/album/5wFdjDwHQqafk2KyhVDcAT) | 3:27 | 2024-06-25 |  |
-| [ドレミファアンパンマン](https://open.spotify.com/track/6e5GvWg3K0qdhx3y9Si2mn) | [Dreaming](https://open.spotify.com/artist/4M9FTgU2MKVIwZAFfMsr3r) | [それいけ！アンパンマン ベストヒット'13](https://open.spotify.com/album/6ngjF7VE4ylUtdEpIKody0) | 3:33 | 2024-06-25 |  |
+| [ドレミファアンパンマン](https://open.spotify.com/track/6e5GvWg3K0qdhx3y9Si2mn) | [Dreaming](https://open.spotify.com/artist/4M9FTgU2MKVIwZAFfMsr3r) | [それいけ！アンパンマン ベストヒット'13](https://open.spotify.com/album/6ngjF7VE4ylUtdEpIKody0) | 3:33 | 2024-06-25 | 2024-09-12 |
 | [ナガネギフラメンコ](https://open.spotify.com/track/3soDJhaK8FuVPBIBcCZTs1) | [大塚明夫 \(ナガネギマン\)](https://open.spotify.com/artist/24zSbaZ80y7dHaE2coIWcl) | [それいけ！アンパンマン ベストヒット'14](https://open.spotify.com/album/6EVeFh2PA9ysUf0JWeQL92) | 3:31 | 2024-06-25 |  |
 | [ハヒフヘばいきんまん](https://open.spotify.com/track/4Ny1QQX6pkRYeV047XdLjc) | [中尾隆聖 \(ばいきんまん\)](https://open.spotify.com/artist/468rrFUOTJ2Oa7Wox9ptho), [鶴ひろみ \(ドキンちゃん\)](https://open.spotify.com/artist/11sAsEvOfzI5pzzToXzHWG), [平野綾 \(コキンちゃん\)](https://open.spotify.com/artist/6NpTSv6WZrBUiXtUZMUqim) | [それいけ！アンパンマン ベストヒット'13](https://open.spotify.com/album/6ngjF7VE4ylUtdEpIKody0) | 3:14 | 2024-06-25 |  |
 | [バナナダンス](https://open.spotify.com/track/7E650osfs6gbLgSAOEOCsv) | [いずみたくとそのファミリー](https://open.spotify.com/artist/6KNV7Q5Cd96fexEAuLLrN3) | [それいけ！アンパンマン映画&テレビ25年記念作品 あつまれ！ムービーソングス](https://open.spotify.com/album/5iXfT2ND1lOyJpsxzccgwP) | 3:54 | 2024-06-25 |  |
@@ -52,7 +52,9 @@
 | [山育ちかまめしどん](https://open.spotify.com/track/3ZepeGHQBVqRIcnbtQ7VIO) | [山寺宏一 \(かまめしどん\)](https://open.spotify.com/artist/4HZfYMYleDFBGxXqtsjXvp) | [それいけ！アンパンマン ベストヒット'15](https://open.spotify.com/album/5zO6exCqlJ1HX4co8xfcb6) | 2:57 | 2024-06-25 |  |
 | [希望のハンカチ ～映画バージョン～](https://open.spotify.com/track/4yHA3zcJYbUmFl2S19OO8R) | [戸田恵子](https://open.spotify.com/artist/4z01LLFGSIcJNGTzLYhx0H), [大和田りつこ](https://open.spotify.com/artist/3slm4bBTMsoNjTCgTtKX4o), [岡崎裕美](https://open.spotify.com/artist/2IfDvH22XPDsW8FLVpxDeN) | [それいけ！アンパンマン りんごぼうやと みんなの願い](https://open.spotify.com/album/7pEMj5zjRkByMjj7HKPfeY) | 3:43 | 2024-06-25 |  |
 | [怪傑アンパンマン](https://open.spotify.com/track/4TnlM0ABkEnIRT1l8yLgTD) | [Bonny Jacks](https://open.spotify.com/artist/3JjKFO9SLShHsIvTNos5Ag) | [それいけ！アンパンマン げんき100ばいソングス アンパンマン](https://open.spotify.com/album/0L8uCqjSeQyNfZCDihnNu7) | 3:28 | 2024-06-25 |  |
-| [手のひらを太陽に](https://open.spotify.com/track/2yuxUdm5xftrvahbWaLCj2) | [Dreaming](https://open.spotify.com/artist/4M9FTgU2MKVIwZAFfMsr3r) | [それいけ！アンパンマン ベストヒット'13](https://open.spotify.com/album/6ngjF7VE4ylUtdEpIKody0) | 2:40 | 2024-06-25 |  |
+| [恐るべし！すいとるゾウ 立ち向かえ！ウッドだだんだん \- BGM](https://open.spotify.com/track/2rqWeCUREkjSxb7NnbDreQ) | [近藤浩章](https://open.spotify.com/artist/5kGOPpvuaRm2XoFKPuAwcr) | [それいけ！アンパンマン ばいきんまんとえほんのルルン](https://open.spotify.com/album/0JRnXwQrvWWewAjv7Me6ia) | 4:58 | 2024-06-25 |  |
+| [手のひらを太陽に](https://open.spotify.com/track/2yuxUdm5xftrvahbWaLCj2) | [Dreaming](https://open.spotify.com/artist/4M9FTgU2MKVIwZAFfMsr3r) | [それいけ！アンパンマン ベストヒット'13](https://open.spotify.com/album/6ngjF7VE4ylUtdEpIKody0) | 2:40 | 2024-06-25 | 2024-09-12 |
+| [森の妖精 えほんのルルンの大冒険 \- BGM](https://open.spotify.com/track/3mXrenMXIKcESaJhdRZUa2) | [近藤浩章](https://open.spotify.com/artist/5kGOPpvuaRm2XoFKPuAwcr) | [それいけ！アンパンマン ばいきんまんとえほんのルルン](https://open.spotify.com/album/0JRnXwQrvWWewAjv7Me6ia) | 5:03 | 2024-06-25 |  |
 | [森は枯れても2024](https://open.spotify.com/track/55MQUePmTQwEE4kcX6fw6S) | [Dreaming](https://open.spotify.com/artist/4M9FTgU2MKVIwZAFfMsr3r) | [それいけ！アンパンマン ばいきんまんとえほんのルルン](https://open.spotify.com/album/0JRnXwQrvWWewAjv7Me6ia) | 2:07 | 2024-06-25 |  |
 | [生きてるパンをつくろう ～ Brand New ver.](https://open.spotify.com/track/582MHViAtZy7kzB9zaegFx) | [増岡弘 \(ジャムおじさん\)](https://open.spotify.com/artist/5JJqzE4zHvt6D7LDD0HMbh), [佐久間レイ \(バタコさん\)](https://open.spotify.com/artist/2MiyJpd92keovja5ptjDNt) | [それいけ！アンパンマン ベストヒット’18](https://open.spotify.com/album/6UtksUKDvgPLVlhoQbbVTw) | 2:18 | 2024-06-25 |  |
 | [生きてるパンをつくろう ～Brand New ver.](https://open.spotify.com/track/2QmuiZyfFn2hC8uUFIFIPQ) | [増岡弘 \(ジャムおじさん\)](https://open.spotify.com/artist/5JJqzE4zHvt6D7LDD0HMbh) | [それいけ！アンパンマン ベストヒット'14](https://open.spotify.com/album/6EVeFh2PA9ysUf0JWeQL92) | 2:18 | 2024-06-25 | 2024-09-08 |

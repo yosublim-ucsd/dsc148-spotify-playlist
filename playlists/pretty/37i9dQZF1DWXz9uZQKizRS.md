@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: PIETRUCHA/ZALEWSKA
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,369 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,377 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 99 | [pamiętasz?](https://open.spotify.com/track/17oBC8vG7zlS0e7V0pBIQP) | [Alicja](https://open.spotify.com/artist/1QDigvoDqzcojpLCK6soAb), [Bartek Królik](https://open.spotify.com/artist/4rE8hvv3ZvCVAyaxZVtmTT) | [nie wracam](https://open.spotify.com/album/4Zmx2snI7W2imHGADlCup1) | 2:42 |
 | 100 | [Trzymaj moją głowę nad wodą](https://open.spotify.com/track/49TGbfOaLX90KgXINPBs2O) | [Matylda/Łukasiewicz](https://open.spotify.com/artist/63F505DnjfX3lGnyUSjPW6), [Matylda Damięcka](https://open.spotify.com/artist/6oJbbHi7Jqa8LQYzhE4wmi), [Radek Łukasiewicz](https://open.spotify.com/artist/1dDVE9rqZARiwmJpnuVECt) | [Matka](https://open.spotify.com/album/4tkbfsn4fNMHiFQ8fv6ZU9) | 4:18 |
 
-Snapshot ID: `Ztop4AAAAAD56DnXF541pMfgkU2qB2L8`
+Snapshot ID: `Ztop4AAAAAC9sA1evny+D/DKu9uukVwa`

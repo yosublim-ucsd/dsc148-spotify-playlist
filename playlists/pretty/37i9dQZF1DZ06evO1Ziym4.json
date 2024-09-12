@@ -1,12 +1,12 @@
 {
   "description": "This is Guns N' Roses. The essential tracks, all in one playlist.",
-  "num_followers": 1485655,
+  "num_followers": 1485801,
   "original_name": "This Is Guns N' Roses",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zt46gAAAAAAcgFfODhZSbi8RLrXh4bOZ",
+  "snapshot_id": "Zt+MAAAAAACNUlxqmWuGIvcM6x60C7L9",
   "tracks": [
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Spaghetti Incident?",
-        "url": "https://open.spotify.com/album/4ieR19hRkKeE81CalJPQNu"
+        "name": "Hard Skool",
+        "url": "https://open.spotify.com/album/2UWJ1UJybSEmQZ87lQHmp0"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 305800,
-      "name": "Ain't It Fun",
-      "url": "https://open.spotify.com/track/6O2fGDuLTT67XT6wWbkKHh"
+      "duration_ms": 221892,
+      "name": "Hard Skool",
+      "url": "https://open.spotify.com/track/1Pvmzboyxwp1rOVYqwKIgU"
     },
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hard Skool",
-        "url": "https://open.spotify.com/album/2UWJ1UJybSEmQZ87lQHmp0"
+        "name": "The Spaghetti Incident?",
+        "url": "https://open.spotify.com/album/4ieR19hRkKeE81CalJPQNu"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 221892,
-      "name": "Hard Skool",
-      "url": "https://open.spotify.com/track/1Pvmzboyxwp1rOVYqwKIgU"
+      "duration_ms": 305800,
+      "name": "Ain't It Fun",
+      "url": "https://open.spotify.com/track/6O2fGDuLTT67XT6wWbkKHh"
     },
     {
       "added_at": null,

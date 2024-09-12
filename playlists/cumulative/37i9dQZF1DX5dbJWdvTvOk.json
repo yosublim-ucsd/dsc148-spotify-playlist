@@ -344,7 +344,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 120734,
       "name": "Aegean",
       "url": "https://open.spotify.com/track/6cz8KGBcdCg0V095WH7prM"
@@ -3546,6 +3546,24 @@
       "duration_ms": 148000,
       "name": "Elegia",
       "url": "https://open.spotify.com/track/72dTSVm9IsZD0eYft7H7XV"
+    },
+    {
+      "album": {
+        "name": "Embrace",
+        "url": "https://open.spotify.com/album/5JtSMJQHqrir1O0CY8cPT2"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Fischer",
+          "url": "https://open.spotify.com/artist/2yB2CmOKM98FyiYDq0H1v3"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155365,
+      "name": "Embrace",
+      "url": "https://open.spotify.com/track/2WoTg0pmCpUpakSrIVMyc4"
     },
     {
       "album": {
@@ -9938,7 +9956,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 128807,
       "name": "Share her stories",
       "url": "https://open.spotify.com/track/38Co6nwfiAJkSLc7rlMaKr"
@@ -10014,6 +10032,24 @@
       "duration_ms": 161877,
       "name": "Showers of Peace",
       "url": "https://open.spotify.com/track/4bs9xDSrypNaBwr5gpz13t"
+    },
+    {
+      "album": {
+        "name": "Sighs at Sunrise",
+        "url": "https://open.spotify.com/album/36eNKGSb9Z6hW123nBfyIK"
+      },
+      "artists": [
+        {
+          "name": "Elijah Stone",
+          "url": "https://open.spotify.com/artist/0Z1kuJ3hjjRHW7h8hwowdu"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138849,
+      "name": "Sighs at Sunrise",
+      "url": "https://open.spotify.com/track/2OOeFSreST9tlRmhxBchtz"
     },
     {
       "album": {

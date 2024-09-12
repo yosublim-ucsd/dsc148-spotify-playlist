@@ -4,7 +4,7 @@
 
 > The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/0XFfgHElyw0xANJDuQrHyL?si=1E2\_gp6ZSxKg1sJ9d9Nhdg">Ruff Majik</a>
 
-504 songs - 1 day 6 hr 3 min
+505 songs - 1 day 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,7 +303,7 @@
 | [My Name Is Freedom](https://open.spotify.com/track/6WvHk5ZGK8p945lHPjRpWt) | [Wonderboom](https://open.spotify.com/artist/45Ahb3Z1t6yHM2F2gFrAtx) | [My Name Is Freedom](https://open.spotify.com/album/1JG8bied0mmLZIxrhNYrk4) | 3:42 | 2024-02-22 | 2024-03-30 |
 | [My Obsession](https://open.spotify.com/track/3KSuV9KC96YOR7aaqiHNWS) | [Jack Stone](https://open.spotify.com/artist/1fuZsUTxoFVifBfXGSTOxh) | [My Obsession](https://open.spotify.com/album/2k9v4WSCMwJZH2bmawDQZE) | 3:30 | 2023-07-28 | 2023-09-29 |
 | [My Wolf](https://open.spotify.com/track/1O9wH2a4pYvKvQflK61JVL) | [Hansie Roodt](https://open.spotify.com/artist/78nUGs2i0NV2hsgPQya8E3) | [My Wolf](https://open.spotify.com/album/1zLCBWxCWdinLZLX9KMiCf) | 3:44 | 2023-03-30 | 2023-05-26 |
-| [Nagblind](https://open.spotify.com/track/2Kf0YUHmw60NJEvzJEIeum) | [Arno Carstens](https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE) | [Nagblind](https://open.spotify.com/album/1YRRGTMMIfEySbyPWkXry7) | 3:33 | 2024-06-06 |  |
+| [Nagblind](https://open.spotify.com/track/2Kf0YUHmw60NJEvzJEIeum) | [Arno Carstens](https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE) | [Nagblind](https://open.spotify.com/album/1YRRGTMMIfEySbyPWkXry7) | 3:33 | 2024-06-06 | 2024-09-12 |
 | [Nakhu Ses’Fika](https://open.spotify.com/track/5ldT2XXjE1vGrJqzaeO1Ez) | [Shameless Band](https://open.spotify.com/artist/1WMFWKZqX2Y5lW2SKetrMz) | [Nakhu Ses’Fika](https://open.spotify.com/album/2Wvspa9VimsIhlaKrlmfJp) | 3:30 | 2023-10-26 | 2024-01-05 |
 | [Nameless Days](https://open.spotify.com/track/2JbJOErpX1djQoaH0xMq7j) | [Brynn](https://open.spotify.com/artist/63ayyzMFEPjH8K6ZtOVo9n) | [Nameless Days](https://open.spotify.com/album/5qKOPF5c7lRbycEM4lZf7n) | 4:11 | 2023-02-09 | 2023-05-06 |
 | [Naïef](https://open.spotify.com/track/4d54vmCXTZZ65sOJz7lerr) | [Zoé](https://open.spotify.com/artist/2J1JhQzNtZ3RURghA5aF65) | [Naïef](https://open.spotify.com/album/4bzRnIR8DeBaML62OWNQNK) | 3:16 | 2024-05-09 | 2024-07-06 |
@@ -469,6 +469,7 @@
 | [Twisted](https://open.spotify.com/track/0PZGBkKhUJfPt6kUYE9SPd) | [CrashCarBurn](https://open.spotify.com/artist/184sdcjHnD6iVWbPEhxJoC) | [Long Live Tonight](https://open.spotify.com/album/1SrN5UhQ6uqqkFhMlsQwNo) | 4:04 | 2024-01-04 |  |
 | [Tyd](https://open.spotify.com/track/2gjF0eIvngzCHPCH0F86q0) | [Vrede](https://open.spotify.com/artist/4SqW28gCAQ45aqUa0KszgX) | [Klein Wêreld](https://open.spotify.com/album/1GH5KV0DZzHDTPgf4UTs9A) | 3:38 | 2023-07-13 | 2023-09-16 |
 | [Unbroken](https://open.spotify.com/track/1OtXmZ9Fx1XK96inLpj2MA) | [Naranjo](https://open.spotify.com/artist/1St8wuhPvlGxHp49tsZH2R) | [Unbroken](https://open.spotify.com/album/6Yf1kD6cBNBqRSPbVWgaGm) | 4:51 | 2023-06-01 | 2023-08-05 |
+| [Undercover Español](https://open.spotify.com/track/6gX8UNx5OSKgVWxtsYxGvv) | [Stereo Club](https://open.spotify.com/artist/4NJbKjkR9DcoyVT4ZXgAkv) | [Undercover Español](https://open.spotify.com/album/6Qx9G94fCsW7BcwZ1amHY2) | 3:21 | 2024-09-06 |  |
 | [Undone \- Elephant in the room](https://open.spotify.com/track/0tzBYDsCRT9rZDirLc5gWY) | [Watershed](https://open.spotify.com/artist/6ccmA5oOV7nHvBQj2ft9NW) | [Undone \(Elephant in the room\)](https://open.spotify.com/album/4CifqZXckC4tX4J8rP0DN7) | 3:34 | 2021-03-25 | 2022-11-18 |
 | [Until I Forget You](https://open.spotify.com/track/505KIwDfwJFpwVpza70TmC) | [Wayne Cumming](https://open.spotify.com/artist/7yOrr8uio6byKlQC6NLufS) | [Until I Forget You](https://open.spotify.com/album/5FLo5HPAAhRiKtNnpxuvqg) | 3:32 | 2022-02-03 | 2022-07-22 |
 | [Use Me](https://open.spotify.com/track/3SAvq5q3kuXSQ2qKxuBGMI) | [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [Love Bite](https://open.spotify.com/album/6oriENkGeG0n3RT2EJVFZo) | 2:58 | 2022-02-10 | 2022-11-18 |

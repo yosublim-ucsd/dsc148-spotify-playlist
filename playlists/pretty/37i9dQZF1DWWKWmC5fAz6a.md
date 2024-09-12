@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKWmC5fAz6a.md) - [plain]
 
 > Elle and Tao's mixtape\. Watch <a href="https://open.spotify.com/playlist/37i9dQZF1DX5KARSfd7WcM?si=990a337ebd6d4033">Heartstopper</a> now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,322 likes - 55 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,419 likes - 55 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKWmC5fAz6a.md) - [plain]
 | 22 | [What's It Like?](https://open.spotify.com/track/7aWLrZqeLZULHzmSwo63mN) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [idc](https://open.spotify.com/album/1JfqJMtr7hhtWZ56o2Amdd) | 3:19 |
 | 23 | [Honey](https://open.spotify.com/track/2IgtWhc0W0cbhYqpolqeKh) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Slack](https://open.spotify.com/album/4foNkrb7hHaP2ZFLlRHx3A) | 3:44 |
 | 24 | [Sucker](https://open.spotify.com/track/6IRZc1ZeglfYbGQENnTUnw) | [Connie Campsie](https://open.spotify.com/artist/27ypqOvpNc3CXggjLJNfFs) | [Sucker](https://open.spotify.com/album/5FfRcwOd5DwsvSZlyAFfFp) | 3:43 |
-| 25 | [Run Away With Me](https://open.spotify.com/track/0FS7B5o3QyvOD8eWjnbLoO) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Emotion \(Deluxe Expanded Edition\)](https://open.spotify.com/album/2oj3FG6fos7zAQJxLQGzou) | 4:11 |
+| 25 | [Run Away With Me](https://open.spotify.com/track/0FS7B5o3QyvOD8eWjnbLoO) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Emotion \- Deluxe Expanded Edition](https://open.spotify.com/album/2oj3FG6fos7zAQJxLQGzou) | 4:11 |
 | 26 | [Déjà Vu](https://open.spotify.com/track/2N4I8oPqSNA5MgGrLIyU5A) | [Adiescar Chase](https://open.spotify.com/artist/1oI96ZlUXDKA3KCVPJRVYk) | [Heartstopper \(Soundtrack From The Netflix Series\)](https://open.spotify.com/album/2o3leUqps0lLmKlqfqzRW3) | 0:57 |
 | 27 | [Best Friend](https://open.spotify.com/track/47Bg6IrMed1GPbxRgwH2aC) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Best Friend](https://open.spotify.com/album/51pSyGziPFv8ajzF7ilUAr) | 4:22 |
 | 28 | [Meet Me At Our Spot \- Live](https://open.spotify.com/track/3BrWLBC4WYx393yRUOlTih) | [THE ANXIETY](https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [Meet Me At Our Spot \(Live\)](https://open.spotify.com/album/7x5oZf6cKUstjslCxLsKkT) | 2:27 |

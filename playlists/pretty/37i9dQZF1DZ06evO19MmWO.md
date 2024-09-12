@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19MmWO.md) - [plain]
 
 > This is Little Walter\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,453 likes - 40 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,454 likes - 40 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,10 +33,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19MmWO.md) - [plain]
 | 23 | [One More Chance With You](https://open.spotify.com/track/7IB7kU4E7YesUiqPqmBG1e) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Confessin' The Blues](https://open.spotify.com/album/7BvtYMIphGtQKTLgUHelUL) | 2:52 |
 | 24 | [Thunderbird](https://open.spotify.com/track/1Wl2sGefc5A4r17FgrFxbA) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Blues With A Feelin'](https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg) | 2:48 |
 | 25 | [I'm Your Hoochie Coochie Man](https://open.spotify.com/track/3KAAyjgvTwhAF1ejtLhkEw) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Saga Blues: Blowing With a Feeling](https://open.spotify.com/album/3yvfD8yp4XXUx27DFY3luB) | 2:52 |
-| 26 | [That's All Right \- Remastered](https://open.spotify.com/track/5fsdMcMEmQGSDTyjXNMuZz) | [Jimmy Rogers](https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0), [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Anthology: His Early Years \(Remastered\)](https://open.spotify.com/album/77Zjw39g47Y37bPn3gOVgR) | 2:46 |
+| 26 | [You Don't Love Me](https://open.spotify.com/track/2mk91c3gWWezEG8UPN3LWq) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Super Blues](https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s) | 4:10 |
 | 27 | [Rocker](https://open.spotify.com/track/7C8g8w2ZQIGXzxqB2urzX1) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Confessin' The Blues](https://open.spotify.com/album/7BvtYMIphGtQKTLgUHelUL) | 3:05 |
 | 28 | [Ah'w Baby](https://open.spotify.com/track/0Bs7dKLx8C7LypcCCGbBpo) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Blues With A Feelin'](https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg) | 2:52 |
-| 29 | [You Don't Love Me](https://open.spotify.com/track/2mk91c3gWWezEG8UPN3LWq) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Super Blues](https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s) | 4:10 |
+| 29 | [That's All Right \- Remastered](https://open.spotify.com/track/5fsdMcMEmQGSDTyjXNMuZz) | [Jimmy Rogers](https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0), [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Anthology: His Early Years \(Remastered\)](https://open.spotify.com/album/77Zjw39g47Y37bPn3gOVgR) | 2:46 |
 | 30 | [Don't Have To Hunt No More](https://open.spotify.com/track/0TMbL2oiVtqaB9QXKI9e9S) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Complete Chess Masters \(1950 \- 1967\)](https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr) | 2:59 |
 | 31 | [I Got To Go](https://open.spotify.com/track/1Kf6OIqtYE5QZkLLWJg9DG) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Confessin' The Blues](https://open.spotify.com/album/7BvtYMIphGtQKTLgUHelUL) | 2:40 |
 | 32 | [Worried Life Blues](https://open.spotify.com/track/5EyuudNHIu2xPnTLn3tvq8) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Blues With A Feelin'](https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg) | 2:18 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19MmWO.md) - [plain]
 | 39 | [Last Boogie](https://open.spotify.com/track/3MkzZ99BQH5a7HwzbsgBpP) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Complete Chess Masters \(1950 \- 1967\)](https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr) | 2:30 |
 | 40 | [Make It Alright](https://open.spotify.com/track/1nnMGDzwGPIGMGZ3xWo9w2) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Complete Chess Masters \(1950 \- 1967\)](https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr) | 3:21 |
 
-Snapshot ID: `Zt46gAAAAACdCAU/FMHwaZ5yadeakHtD`
+Snapshot ID: `Zt+MAAAAAACnstbVabp6e6F1IN44bg63`

@@ -1,6 +1,6 @@
 {
   "description": "lofi beats by Latinxs.",
-  "num_followers": 20031,
+  "num_followers": 20073,
   "original_name": "lofi latino",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,26 @@
     {
       "added_at": "2024-08-12 21:28:46",
       "album": {
+        "name": "Moonlight Juice",
+        "url": "https://open.spotify.com/album/438r9WwiloWn5BVNR07tS5"
+      },
+      "artists": [
+        {
+          "name": "Solo San",
+          "url": "https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718"
+        },
+        {
+          "name": "Shetafacker",
+          "url": "https://open.spotify.com/artist/5WU1vju2aPiVy4O56cOhk6"
+        }
+      ],
+      "duration_ms": 147786,
+      "name": "Moonlight Juice",
+      "url": "https://open.spotify.com/track/6UzKVwHnMR2rHjCfOl4XoX"
+    },
+    {
+      "added_at": "2024-08-12 21:28:46",
+      "album": {
         "name": "Morena",
         "url": "https://open.spotify.com/album/4uxHO0UkGVUckaCScCgI5U"
       },
@@ -239,26 +259,6 @@
       "duration_ms": 149647,
       "name": "Morena",
       "url": "https://open.spotify.com/track/7z1q1J4zcB1d736GJZUkLa"
-    },
-    {
-      "added_at": "2024-08-12 21:28:46",
-      "album": {
-        "name": "Moonlight Juice",
-        "url": "https://open.spotify.com/album/438r9WwiloWn5BVNR07tS5"
-      },
-      "artists": [
-        {
-          "name": "Solo San",
-          "url": "https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718"
-        },
-        {
-          "name": "Shetafacker",
-          "url": "https://open.spotify.com/artist/5WU1vju2aPiVy4O56cOhk6"
-        }
-      ],
-      "duration_ms": 147786,
-      "name": "Moonlight Juice",
-      "url": "https://open.spotify.com/track/6UzKVwHnMR2rHjCfOl4XoX"
     },
     {
       "added_at": "2024-08-12 21:28:46",
@@ -399,26 +399,6 @@
     {
       "added_at": "2024-08-12 21:28:46",
       "album": {
-        "name": "De La Selva",
-        "url": "https://open.spotify.com/album/0nOAvowyJmiZVhMvN5Y3Li"
-      },
-      "artists": [
-        {
-          "name": "Alma De La Selva",
-          "url": "https://open.spotify.com/artist/3avEda58Fg6xbTvdBtqzI0"
-        },
-        {
-          "name": "Juan Carlos Montiel Rangel",
-          "url": "https://open.spotify.com/artist/5NcimVgMgYVC50egzHUuj2"
-        }
-      ],
-      "duration_ms": 240981,
-      "name": "Chipek",
-      "url": "https://open.spotify.com/track/2mH8lUthrUdYuahDXfJGlI"
-    },
-    {
-      "added_at": "2024-08-12 21:28:46",
-      "album": {
         "name": "Remixes lofi del Regional Chill",
         "url": "https://open.spotify.com/album/0zYXLwvBFEYXKJg9bI8YAT"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 123875,
       "name": "Los d\u00edas grises (Remix)",
       "url": "https://open.spotify.com/track/5HS4clb7EG8MeRGybBVPRY"
+    },
+    {
+      "added_at": "2024-08-12 21:28:46",
+      "album": {
+        "name": "De La Selva",
+        "url": "https://open.spotify.com/album/0nOAvowyJmiZVhMvN5Y3Li"
+      },
+      "artists": [
+        {
+          "name": "Alma De La Selva",
+          "url": "https://open.spotify.com/artist/3avEda58Fg6xbTvdBtqzI0"
+        },
+        {
+          "name": "Juan Carlos Montiel Rangel",
+          "url": "https://open.spotify.com/artist/5NcimVgMgYVC50egzHUuj2"
+        }
+      ],
+      "duration_ms": 240981,
+      "name": "Chipek",
+      "url": "https://open.spotify.com/track/2mH8lUthrUdYuahDXfJGlI"
     },
     {
       "added_at": "2024-08-12 21:28:46",
@@ -515,26 +515,6 @@
     {
       "added_at": "2024-08-12 21:28:46",
       "album": {
-        "name": "Monte Nativo",
-        "url": "https://open.spotify.com/album/2GAA55MT69UbanFcVRHeku"
-      },
-      "artists": [
-        {
-          "name": "Los Bosques",
-          "url": "https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG"
-        },
-        {
-          "name": "Mindr",
-          "url": "https://open.spotify.com/artist/7AObJiF0vqNNnysunp45om"
-        }
-      ],
-      "duration_ms": 127586,
-      "name": "Viento de Arrabal",
-      "url": "https://open.spotify.com/track/1md8gp3aWVhSu39J92ADYi"
-    },
-    {
-      "added_at": "2024-08-12 21:28:46",
-      "album": {
         "name": "En el Tianguis Lo-Fi",
         "url": "https://open.spotify.com/album/6uf6pQtXpXFos4m5SIWDuF"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 108203,
       "name": "Happiness",
       "url": "https://open.spotify.com/track/5SBRYk2CBIozhelV45ACN4"
+    },
+    {
+      "added_at": "2024-08-12 21:28:46",
+      "album": {
+        "name": "Monte Nativo",
+        "url": "https://open.spotify.com/album/2GAA55MT69UbanFcVRHeku"
+      },
+      "artists": [
+        {
+          "name": "Los Bosques",
+          "url": "https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG"
+        },
+        {
+          "name": "Mindr",
+          "url": "https://open.spotify.com/artist/7AObJiF0vqNNnysunp45om"
+        }
+      ],
+      "duration_ms": 127586,
+      "name": "Viento de Arrabal",
+      "url": "https://open.spotify.com/track/1md8gp3aWVhSu39J92ADYi"
     },
     {
       "added_at": "2024-08-12 21:28:46",
@@ -655,38 +655,6 @@
     {
       "added_at": "2024-08-12 21:28:46",
       "album": {
-        "name": "Guaguansoul",
-        "url": "https://open.spotify.com/album/7xaShaNw21kWDYAhamPXka"
-      },
-      "artists": [
-        {
-          "name": "Kansado",
-          "url": "https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW"
-        }
-      ],
-      "duration_ms": 175156,
-      "name": "Cat\u00e1 Surf",
-      "url": "https://open.spotify.com/track/3UclRg5QnVn3ZArjOh3eBl"
-    },
-    {
-      "added_at": "2024-08-12 21:28:46",
-      "album": {
-        "name": "Dalia",
-        "url": "https://open.spotify.com/album/6A7MFq1El3As1wHIbx6nhV"
-      },
-      "artists": [
-        {
-          "name": "Flora Vida",
-          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Dalia",
-      "url": "https://open.spotify.com/track/27ATmkV5cdLQIJDNgOR0zm"
-    },
-    {
-      "added_at": "2024-08-12 21:28:46",
-      "album": {
         "name": "La Diabla (lofi edit)",
         "url": "https://open.spotify.com/album/1p4uLJLViOIyLrAMgeScZp"
       },
@@ -707,6 +675,38 @@
       "duration_ms": 98630,
       "name": "La Diabla - lofi edit",
       "url": "https://open.spotify.com/track/7okx5ZYlnqOk4MubhZj6jG"
+    },
+    {
+      "added_at": "2024-08-12 21:28:46",
+      "album": {
+        "name": "Dalia",
+        "url": "https://open.spotify.com/album/6A7MFq1El3As1wHIbx6nhV"
+      },
+      "artists": [
+        {
+          "name": "Flora Vida",
+          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Dalia",
+      "url": "https://open.spotify.com/track/27ATmkV5cdLQIJDNgOR0zm"
+    },
+    {
+      "added_at": "2024-08-12 21:28:46",
+      "album": {
+        "name": "Guaguansoul",
+        "url": "https://open.spotify.com/album/7xaShaNw21kWDYAhamPXka"
+      },
+      "artists": [
+        {
+          "name": "Kansado",
+          "url": "https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW"
+        }
+      ],
+      "duration_ms": 175156,
+      "name": "Cat\u00e1 Surf",
+      "url": "https://open.spotify.com/track/3UclRg5QnVn3ZArjOh3eBl"
     },
     {
       "added_at": "2024-08-12 21:28:46",
@@ -899,26 +899,6 @@
     {
       "added_at": "2024-08-12 21:28:46",
       "album": {
-        "name": "soltarte (instrumental)",
-        "url": "https://open.spotify.com/album/5HyAL7Dc0sgIurgdN1swr9"
-      },
-      "artists": [
-        {
-          "name": "Dstance",
-          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
-        },
-        {
-          "name": "BRXWS",
-          "url": "https://open.spotify.com/artist/2kGmQ05bKIjqBTeAcVopQT"
-        }
-      ],
-      "duration_ms": 176202,
-      "name": "soltarte (instrumental)",
-      "url": "https://open.spotify.com/track/1xD7fo4OF6bcULBMbIgwzd"
-    },
-    {
-      "added_at": "2024-08-12 21:28:46",
-      "album": {
         "name": "La Belleza de lo Cotidiano",
         "url": "https://open.spotify.com/album/3ZHXAtp3f7nd4vqgv9d2CC"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 128000,
       "name": "La Belleza de lo Cotidiano",
       "url": "https://open.spotify.com/track/13b0yCb3MXIg29tLhbHE7H"
+    },
+    {
+      "added_at": "2024-08-12 21:28:46",
+      "album": {
+        "name": "soltarte (instrumental)",
+        "url": "https://open.spotify.com/album/5HyAL7Dc0sgIurgdN1swr9"
+      },
+      "artists": [
+        {
+          "name": "Dstance",
+          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
+        },
+        {
+          "name": "BRXWS",
+          "url": "https://open.spotify.com/artist/2kGmQ05bKIjqBTeAcVopQT"
+        }
+      ],
+      "duration_ms": 176202,
+      "name": "soltarte (instrumental)",
+      "url": "https://open.spotify.com/track/1xD7fo4OF6bcULBMbIgwzd"
     },
     {
       "added_at": "2024-08-12 21:28:46",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2024-08-12 21:28:46",
       "album": {
-        "name": "Viendo el mundial con pap\u00e1",
-        "url": "https://open.spotify.com/album/3BeOJF0rFsw8HY32U54oOW"
-      },
-      "artists": [
-        {
-          "name": "SpoonBeats",
-          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
-        },
-        {
-          "name": "Don Raimundo",
-          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
-        }
-      ],
-      "duration_ms": 129854,
-      "name": "Viendo el mundial con pap\u00e1",
-      "url": "https://open.spotify.com/track/4WL5S9cINoUEez1KCBOM0F"
-    },
-    {
-      "added_at": "2024-08-12 21:28:46",
-      "album": {
         "name": "Ocaso Sin Fin",
         "url": "https://open.spotify.com/album/3lZRj273QqSBGw7hq2ctIz"
       },
@@ -1075,18 +1055,22 @@
     {
       "added_at": "2024-08-12 21:28:46",
       "album": {
-        "name": "El D\u00eda M\u00e1s Largo",
-        "url": "https://open.spotify.com/album/5OtT7lgaBIPbXjpMYqcsMj"
+        "name": "Viendo el mundial con pap\u00e1",
+        "url": "https://open.spotify.com/album/3BeOJF0rFsw8HY32U54oOW"
       },
       "artists": [
         {
-          "name": "Barzo",
-          "url": "https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO"
+          "name": "SpoonBeats",
+          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
+        },
+        {
+          "name": "Don Raimundo",
+          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
         }
       ],
-      "duration_ms": 146239,
-      "name": "Cholomuco",
-      "url": "https://open.spotify.com/track/1VACAmytiMZVFqjFB8dtWo"
+      "duration_ms": 129854,
+      "name": "Viendo el mundial con pap\u00e1",
+      "url": "https://open.spotify.com/track/4WL5S9cINoUEez1KCBOM0F"
     },
     {
       "added_at": "2024-08-12 21:28:46",
@@ -1107,6 +1091,22 @@
       "duration_ms": 165976,
       "name": "Lunes Azul",
       "url": "https://open.spotify.com/track/2DJABf6anvoVv9CdereeL3"
+    },
+    {
+      "added_at": "2024-08-12 21:28:46",
+      "album": {
+        "name": "El D\u00eda M\u00e1s Largo",
+        "url": "https://open.spotify.com/album/5OtT7lgaBIPbXjpMYqcsMj"
+      },
+      "artists": [
+        {
+          "name": "Barzo",
+          "url": "https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO"
+        }
+      ],
+      "duration_ms": 146239,
+      "name": "Cholomuco",
+      "url": "https://open.spotify.com/track/1VACAmytiMZVFqjFB8dtWo"
     },
     {
       "added_at": "2024-08-12 21:28:46",
@@ -1183,18 +1183,26 @@
     {
       "added_at": "2024-08-12 21:28:46",
       "album": {
-        "name": "Todo Tranqui",
-        "url": "https://open.spotify.com/album/6PwymJ9ctOXcJubwsSoBbP"
+        "name": "Ipanema Sunset",
+        "url": "https://open.spotify.com/album/2fq3PU3vTiKdUyDsRKc8L7"
       },
       "artists": [
         {
-          "name": "Don Raimundo",
-          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
+          "name": "Praia Sur",
+          "url": "https://open.spotify.com/artist/1rAf2WavxUwfhaeBHUreyf"
+        },
+        {
+          "name": "LaidSisters",
+          "url": "https://open.spotify.com/artist/5Cn511T4oZ0eQO3IddTPRj"
+        },
+        {
+          "name": "M\u00fcx",
+          "url": "https://open.spotify.com/artist/7IGyY5whYR8PVM72XO07yo"
         }
       ],
-      "duration_ms": 100738,
-      "name": "Todo Tranqui",
-      "url": "https://open.spotify.com/track/560SjC0nXPxH9FXWvlfm7M"
+      "duration_ms": 122202,
+      "name": "Ipanema Sunset",
+      "url": "https://open.spotify.com/track/5ZShelOhRxEpV21NiTYQsK"
     },
     {
       "added_at": "2024-08-12 21:28:46",
@@ -1223,6 +1231,22 @@
     {
       "added_at": "2024-08-12 21:28:46",
       "album": {
+        "name": "Todo Tranqui",
+        "url": "https://open.spotify.com/album/6PwymJ9ctOXcJubwsSoBbP"
+      },
+      "artists": [
+        {
+          "name": "Don Raimundo",
+          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
+        }
+      ],
+      "duration_ms": 100738,
+      "name": "Todo Tranqui",
+      "url": "https://open.spotify.com/track/560SjC0nXPxH9FXWvlfm7M"
+    },
+    {
+      "added_at": "2024-08-12 21:28:46",
+      "album": {
         "name": "Mi\u00e9rcoles Azul",
         "url": "https://open.spotify.com/album/1iVDIHm1Zt46HjCsgPYFvI"
       },
@@ -1243,50 +1267,6 @@
     {
       "added_at": "2024-08-12 21:28:46",
       "album": {
-        "name": "Ni\u00f1a",
-        "url": "https://open.spotify.com/album/2OVXzmwAfv0J5kXsxbD1m2"
-      },
-      "artists": [
-        {
-          "name": "Mariana Red",
-          "url": "https://open.spotify.com/artist/0gehovGx04GX2D2GDfpaNQ"
-        },
-        {
-          "name": "SpoonBeats",
-          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
-        }
-      ],
-      "duration_ms": 122250,
-      "name": "Maya",
-      "url": "https://open.spotify.com/track/5Zq5pzQxnCmCAXN2ikRewz"
-    },
-    {
-      "added_at": "2024-08-12 21:28:46",
-      "album": {
-        "name": "Ipanema Sunset",
-        "url": "https://open.spotify.com/album/2fq3PU3vTiKdUyDsRKc8L7"
-      },
-      "artists": [
-        {
-          "name": "Praia Sur",
-          "url": "https://open.spotify.com/artist/1rAf2WavxUwfhaeBHUreyf"
-        },
-        {
-          "name": "LaidSisters",
-          "url": "https://open.spotify.com/artist/5Cn511T4oZ0eQO3IddTPRj"
-        },
-        {
-          "name": "M\u00fcx",
-          "url": "https://open.spotify.com/artist/7IGyY5whYR8PVM72XO07yo"
-        }
-      ],
-      "duration_ms": 122202,
-      "name": "Ipanema Sunset",
-      "url": "https://open.spotify.com/track/5ZShelOhRxEpV21NiTYQsK"
-    },
-    {
-      "added_at": "2024-08-12 21:28:46",
-      "album": {
         "name": "Vueltas",
         "url": "https://open.spotify.com/album/0GnzcCxFuBmx7VWXnHbLUK"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 115714,
       "name": "Vueltas",
       "url": "https://open.spotify.com/track/1eVE0xK0vChhI2Ey8vEN0s"
+    },
+    {
+      "added_at": "2024-08-12 21:28:46",
+      "album": {
+        "name": "Ni\u00f1a",
+        "url": "https://open.spotify.com/album/2OVXzmwAfv0J5kXsxbD1m2"
+      },
+      "artists": [
+        {
+          "name": "Mariana Red",
+          "url": "https://open.spotify.com/artist/0gehovGx04GX2D2GDfpaNQ"
+        },
+        {
+          "name": "SpoonBeats",
+          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
+        }
+      ],
+      "duration_ms": 122250,
+      "name": "Maya",
+      "url": "https://open.spotify.com/track/5Zq5pzQxnCmCAXN2ikRewz"
     },
     {
       "added_at": "2024-08-12 21:28:46",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2024-08-12 21:28:46",
       "album": {
+        "name": "Break",
+        "url": "https://open.spotify.com/album/6rKi0IPsxq0KEaUf2GD2CQ"
+      },
+      "artists": [
+        {
+          "name": "Anto Pla",
+          "url": "https://open.spotify.com/artist/2JVeD3vQo6G80qOlmPW0ee"
+        }
+      ],
+      "duration_ms": 116624,
+      "name": "Break",
+      "url": "https://open.spotify.com/track/5PgfttEzQ6ZJeGKwtzEoZK"
+    },
+    {
+      "added_at": "2024-08-12 21:28:46",
+      "album": {
         "name": "Primer Beso",
         "url": "https://open.spotify.com/album/2N2xwEqO7BfJgdo4SUb18g"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 135000,
       "name": "Primer Beso",
       "url": "https://open.spotify.com/track/4XodJHQma1WbMVezFDt9yn"
-    },
-    {
-      "added_at": "2024-08-12 21:28:46",
-      "album": {
-        "name": "Break",
-        "url": "https://open.spotify.com/album/6rKi0IPsxq0KEaUf2GD2CQ"
-      },
-      "artists": [
-        {
-          "name": "Anto Pla",
-          "url": "https://open.spotify.com/artist/2JVeD3vQo6G80qOlmPW0ee"
-        }
-      ],
-      "duration_ms": 116624,
-      "name": "Break",
-      "url": "https://open.spotify.com/track/5PgfttEzQ6ZJeGKwtzEoZK"
     },
     {
       "added_at": "2024-08-12 21:28:46",

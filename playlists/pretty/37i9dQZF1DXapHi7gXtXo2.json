@@ -1,6 +1,6 @@
 {
   "description": "Dale play y d\u00e9jate llevar por estas finas melod\u00edas Indie.",
-  "num_followers": 86921,
+  "num_followers": 86927,
   "original_name": "Radio Indie",
   "owner": {
     "name": "Spotify",
@@ -919,6 +919,22 @@
     {
       "added_at": "2024-07-25 18:25:00",
       "album": {
+        "name": "La Negaci\u00f3n",
+        "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
+      },
+      "artists": [
+        {
+          "name": "Malena Villa",
+          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
+        }
+      ],
+      "duration_ms": 177818,
+      "name": "Lindos Problemas",
+      "url": "https://open.spotify.com/track/414ts7HIQUC1e8cQ4OwiCJ"
+    },
+    {
+      "added_at": "2024-07-25 18:25:00",
+      "album": {
         "name": "SUR",
         "url": "https://open.spotify.com/album/1oTRpQm1ed2RqFq402ZaeO"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 208908,
       "name": "SUR",
       "url": "https://open.spotify.com/track/2nw7A30Hk2QuCGjcyiWbxj"
-    },
-    {
-      "added_at": "2024-07-25 18:25:00",
-      "album": {
-        "name": "La Negaci\u00f3n",
-        "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
-      },
-      "artists": [
-        {
-          "name": "Malena Villa",
-          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
-        }
-      ],
-      "duration_ms": 177818,
-      "name": "Lindos Problemas",
-      "url": "https://open.spotify.com/track/414ts7HIQUC1e8cQ4OwiCJ"
     },
     {
       "added_at": "2024-07-25 18:25:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-07-25 18:25:00",
       "album": {
-        "name": "Fractal",
-        "url": "https://open.spotify.com/album/4vvUwAGBHBfLNhzhnhDJO2"
-      },
-      "artists": [
-        {
-          "name": "Margarita Siempre Viva",
-          "url": "https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH"
-        }
-      ],
-      "duration_ms": 265173,
-      "name": "Fractal",
-      "url": "https://open.spotify.com/track/6iXXwXnXktrdJrGbiBdBvp"
-    },
-    {
-      "added_at": "2024-07-25 18:25:00",
-      "album": {
         "name": "El Rio",
         "url": "https://open.spotify.com/album/1VpvgK7zD5GMTB33PJ8tlb"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 208790,
       "name": "Llamame",
       "url": "https://open.spotify.com/track/52pBr4O7TlAQ7rDS8TPxlf"
+    },
+    {
+      "added_at": "2024-07-25 18:25:00",
+      "album": {
+        "name": "Fractal",
+        "url": "https://open.spotify.com/album/4vvUwAGBHBfLNhzhnhDJO2"
+      },
+      "artists": [
+        {
+          "name": "Margarita Siempre Viva",
+          "url": "https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH"
+        }
+      ],
+      "duration_ms": 265173,
+      "name": "Fractal",
+      "url": "https://open.spotify.com/track/6iXXwXnXktrdJrGbiBdBvp"
     },
     {
       "added_at": "2024-07-25 18:25:00",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2024-07-25 18:25:00",
       "album": {
-        "name": "pensando en ti",
-        "url": "https://open.spotify.com/album/6bLJ9EbgSDl3rksxqhQfg9"
-      },
-      "artists": [
-        {
-          "name": "Lara91k",
-          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
-        }
-      ],
-      "duration_ms": 197508,
-      "name": "pensando en ti",
-      "url": "https://open.spotify.com/track/3G6Mo5GUWdzPZdsmdU4juo"
-    },
-    {
-      "added_at": "2024-07-25 18:25:00",
-      "album": {
         "name": "Cursi",
         "url": "https://open.spotify.com/album/0w2G1IC8jXzMtBn4Vzsi8M"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 193517,
       "name": "Cursi",
       "url": "https://open.spotify.com/track/2BJ1l2EOTZEiHnJdl2brlG"
+    },
+    {
+      "added_at": "2024-07-25 18:25:00",
+      "album": {
+        "name": "pensando en ti",
+        "url": "https://open.spotify.com/album/6bLJ9EbgSDl3rksxqhQfg9"
+      },
+      "artists": [
+        {
+          "name": "Lara91k",
+          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
+        }
+      ],
+      "duration_ms": 197508,
+      "name": "pensando en ti",
+      "url": "https://open.spotify.com/track/3G6Mo5GUWdzPZdsmdU4juo"
     },
     {
       "added_at": "2024-07-25 18:25:00",
@@ -1759,18 +1759,22 @@
     {
       "added_at": "2024-07-25 18:25:00",
       "album": {
-        "name": "Acto de Fe",
-        "url": "https://open.spotify.com/album/5tgzXgNH7tyOqkZzqcRai0"
+        "name": "GUIAME",
+        "url": "https://open.spotify.com/album/057ObaWRT9nY13cHAEggco"
       },
       "artists": [
         {
-          "name": "Mi Amigo Invencible",
-          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+        },
+        {
+          "name": "Evlay",
+          "url": "https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A"
         }
       ],
-      "duration_ms": 169689,
-      "name": "Acto de Fe",
-      "url": "https://open.spotify.com/track/6aV7Ohi6SKDBlTuFIwycBM"
+      "duration_ms": 198676,
+      "name": "GUIAME",
+      "url": "https://open.spotify.com/track/0b37vDgD47kRYes63nKX5v"
     }
   ],
   "unique_name": "Radio Indie",

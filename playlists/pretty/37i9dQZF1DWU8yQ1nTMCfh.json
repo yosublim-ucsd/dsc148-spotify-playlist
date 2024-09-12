@@ -1,6 +1,6 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Los Outsaiders",
-  "num_followers": 297880,
+  "num_followers": 297882,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
@@ -571,6 +571,22 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
+        "name": "Alaska",
+        "url": "https://open.spotify.com/album/4okxJTqEzEQdyS682cvCKr"
+      },
+      "artists": [
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        }
+      ],
+      "duration_ms": 258573,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/1LpsC9iwh1VK1nOtN7729V"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
         "name": "Yo Me Estreso",
         "url": "https://open.spotify.com/album/4L1khaAO4FthiUXyu2IUj1"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 193281,
       "name": "Yo Me Estreso",
       "url": "https://open.spotify.com/track/5z6gkiZKHoy0T4Ybs8iPZw"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Alaska",
-        "url": "https://open.spotify.com/album/4okxJTqEzEQdyS682cvCKr"
-      },
-      "artists": [
-        {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
-        }
-      ],
-      "duration_ms": 258573,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/1LpsC9iwh1VK1nOtN7729V"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Mirando al techo - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/5gdeUHHlTOoHacuDfAf0jP"
-      },
-      "artists": [
-        {
-          "name": "Alizzz",
-          "url": "https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3"
-        }
-      ],
-      "duration_ms": 213152,
-      "name": "Mirando al techo - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/5y9Xi59ZyLx42gmjX0IYbm"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Noches Largas (feat. Bruses)",
         "url": "https://open.spotify.com/album/02mEkveH5bAH4lMS5PvrMo"
       },
@@ -1067,6 +1051,38 @@
       "duration_ms": 293866,
       "name": "Noches Largas (feat. Bruses)",
       "url": "https://open.spotify.com/track/5cOp5gpIT6HTJ2oDgaQsNu"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Lo hecho est\u00e1",
+        "url": "https://open.spotify.com/album/6f8PmrhD5D5bBEAw11alMB"
+      },
+      "artists": [
+        {
+          "name": "Wiplash",
+          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
+        }
+      ],
+      "duration_ms": 136840,
+      "name": "Lo hecho est\u00e1",
+      "url": "https://open.spotify.com/track/2cn5m61bHMiGPpRYm6GxCs"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Mirando al techo - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/5gdeUHHlTOoHacuDfAf0jP"
+      },
+      "artists": [
+        {
+          "name": "Alizzz",
+          "url": "https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3"
+        }
+      ],
+      "duration_ms": 213152,
+      "name": "Mirando al techo - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/5y9Xi59ZyLx42gmjX0IYbm"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1099,22 +1115,6 @@
       "duration_ms": 183640,
       "name": "La Bas(e)",
       "url": "https://open.spotify.com/track/4kpRAJOlfHuu24AzHvJ1GO"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Lo hecho est\u00e1",
-        "url": "https://open.spotify.com/album/6f8PmrhD5D5bBEAw11alMB"
-      },
-      "artists": [
-        {
-          "name": "Wiplash",
-          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
-        }
-      ],
-      "duration_ms": 136840,
-      "name": "Lo hecho est\u00e1",
-      "url": "https://open.spotify.com/track/2cn5m61bHMiGPpRYm6GxCs"
     },
     {
       "added_at": "2024-09-06 04:00:00",

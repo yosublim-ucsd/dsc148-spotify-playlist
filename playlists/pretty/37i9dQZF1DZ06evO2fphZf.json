@@ -1,12 +1,12 @@
 {
-  "description": "This is th\u1ee7y\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
-  "num_followers": 10306,
+  "description": "This is th\u1ee7y. The essential tracks, all in one playlist.",
+  "num_followers": 10321,
   "original_name": "This Is th\u1ee7y",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zt46gAAAAACP4GknWtDqYuaTw6tYJLY1",
+  "snapshot_id": "Zt+MAAAAAABHFN38oKBxrinjHAcw06tJ",
   "tracks": [
     {
       "added_at": null,
@@ -259,8 +259,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4UNBwrJ55qL75iEqepbIOR"
+        "name": "girls like me don't cry (deluxe)",
+        "url": "https://open.spotify.com/album/3tzL6SeVT3j5ux571sx1nu"
       },
       "artists": [
         {
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         }
       ],
-      "duration_ms": 173482,
-      "name": "so into you - Spotify Singles",
-      "url": "https://open.spotify.com/track/4TQLfbI12rrIVxOeWIr6gI"
+      "duration_ms": 184421,
+      "name": "i got it",
+      "url": "https://open.spotify.com/track/1FQJSuqXclVv2R0ZuAQDmB"
     },
     {
       "added_at": null,
@@ -311,8 +311,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "girls like me don't cry (deluxe)",
-        "url": "https://open.spotify.com/album/3tzL6SeVT3j5ux571sx1nu"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4UNBwrJ55qL75iEqepbIOR"
       },
       "artists": [
         {
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         }
       ],
-      "duration_ms": 184421,
-      "name": "i got it",
-      "url": "https://open.spotify.com/track/1FQJSuqXclVv2R0ZuAQDmB"
+      "duration_ms": 173482,
+      "name": "so into you - Spotify Singles",
+      "url": "https://open.spotify.com/track/4TQLfbI12rrIVxOeWIr6gI"
     },
     {
       "added_at": null,
@@ -735,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Way",
-        "url": "https://open.spotify.com/album/2t1eIuTTN8mxkOXxjRBasL"
+        "name": "wanted",
+        "url": "https://open.spotify.com/album/7hUvM7ObwajUcdqGoH94ZV"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         }
       ],
-      "duration_ms": 174242,
-      "name": "The Way",
-      "url": "https://open.spotify.com/track/1YQJzh01rPQ4fiAuEtxXuW"
+      "duration_ms": 159446,
+      "name": "wanted",
+      "url": "https://open.spotify.com/track/1YXIzmg0unpW7FlY3UZXsh"
     },
     {
       "added_at": null,
@@ -767,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "wanted",
-        "url": "https://open.spotify.com/album/7hUvM7ObwajUcdqGoH94ZV"
+        "name": "The Way",
+        "url": "https://open.spotify.com/album/2t1eIuTTN8mxkOXxjRBasL"
       },
       "artists": [
         {
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         }
       ],
-      "duration_ms": 159446,
-      "name": "wanted",
-      "url": "https://open.spotify.com/track/1YXIzmg0unpW7FlY3UZXsh"
+      "duration_ms": 174242,
+      "name": "The Way",
+      "url": "https://open.spotify.com/track/1YQJzh01rPQ4fiAuEtxXuW"
     },
     {
       "added_at": null,

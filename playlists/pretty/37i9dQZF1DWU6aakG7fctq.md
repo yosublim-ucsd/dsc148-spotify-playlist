@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin Indie you should know\. Cover: Quelle Rox
 
-[Spotify](https://open.spotify.com/user/spotify) - 483,345 likes - 55 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 483,357 likes - 55 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 7 | [Fue un adiós](https://open.spotify.com/track/0VgAyCkQ7nJsSj5sIJvOh9) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Fue un adiós](https://open.spotify.com/album/152wVzzQqVbUHsmnye2wQx) | 3:16 |
 | 8 | [Donde](https://open.spotify.com/track/6wiwcn6GkkKEXCBwOYldLM) | [Xiuhtezcatl](https://open.spotify.com/artist/56bZk5ODMBjqUQm1z44gBE), [Trooko](https://open.spotify.com/artist/6mPl1Nq6hMkto7vsF0PfGi) | [Donde](https://open.spotify.com/album/74w3nm7wWosixhYgX3X9iv) | 3:07 |
 | 9 | [Se siente bien](https://open.spotify.com/track/3bVTNz3OwCutKR6q24jIF9) | [stivijoes](https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx) | [Se siente bien](https://open.spotify.com/album/10Tb4DiM1AKpUXwcvm6upI) | 2:06 |
-| 10 | [TRÊS](https://open.spotify.com/track/2xjwVhT91obFavd67VOo80) | [Letón Pé](https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO), [Giorgio Siladi](https://open.spotify.com/artist/70yXUWs47Ej8wyiChPutgj) | [TRÊS](https://open.spotify.com/album/0KumR96axybpkdPFmLpAsc) | 3:00 |
+| 10 | [TRÊS](https://open.spotify.com/track/2xjwVhT91obFavd67VOo80) | [Giorgio Siladi](https://open.spotify.com/artist/70yXUWs47Ej8wyiChPutgj), [Letón Pé](https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO) | [TRÊS](https://open.spotify.com/album/0KumR96axybpkdPFmLpAsc) | 3:00 |
 | 11 | [Shibari 緊縛](https://open.spotify.com/track/7bJLcYJusVPXFR3xph2l44) | [Gyanma](https://open.spotify.com/artist/2aja7fWFLLR3pBUk2BYf6s) | [Cutie Pie: 3](https://open.spotify.com/album/15qp9JsykZwX2JlkDYJw1R) | 2:59 |
 | 12 | [Me Fui](https://open.spotify.com/track/4PQwFIg4CgTMuYraERrJsC) | [Leanys](https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V) | [Nova](https://open.spotify.com/album/5hCxkCTUg1CSBjcwJYTtnN) | 1:38 |
 | 13 | [I'll Be Your Pleasure](https://open.spotify.com/track/5WsRcTJ5FRnrhqP86LAz1e) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [I'll Be Your Pleasure](https://open.spotify.com/album/3vC9kW3Z7dc6e0VIGny3h7) | 3:18 |

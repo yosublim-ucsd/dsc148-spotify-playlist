@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Chico Chico",
-  "num_followers": 347185,
+  "num_followers": 347221,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -483,26 +483,6 @@
     {
       "added_at": "2024-09-09 18:46:18",
       "album": {
-        "name": "Coment\u00e1rio a Respeito de John",
-        "url": "https://open.spotify.com/album/6WOf0ipvapNBTYVxG1SF54"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Da Mata",
-          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
-        },
-        {
-          "name": "Jo\u00e3o Gomes",
-          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
-        }
-      ],
-      "duration_ms": 205215,
-      "name": "Coment\u00e1rio a Respeito de John",
-      "url": "https://open.spotify.com/track/1WtlomCakUltiZqz4TsV6R"
-    },
-    {
-      "added_at": "2024-09-09 18:46:18",
-      "album": {
         "name": "Quem dir\u00e1?",
         "url": "https://open.spotify.com/album/1d3T6dE5JcdL8jSlMOwA6K"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 172580,
       "name": "Quem dir\u00e1?",
       "url": "https://open.spotify.com/track/099mGrokbzQj9lr88cfFAE"
+    },
+    {
+      "added_at": "2024-09-09 18:46:18",
+      "album": {
+        "name": "Coment\u00e1rio a Respeito de John",
+        "url": "https://open.spotify.com/album/6WOf0ipvapNBTYVxG1SF54"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Da Mata",
+          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
+        },
+        {
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+        }
+      ],
+      "duration_ms": 205215,
+      "name": "Coment\u00e1rio a Respeito de John",
+      "url": "https://open.spotify.com/track/1WtlomCakUltiZqz4TsV6R"
     },
     {
       "added_at": "2024-09-09 18:46:18",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-09-09 18:46:18",
       "album": {
-        "name": "Baianidade Nag\u00f4",
-        "url": "https://open.spotify.com/album/0fFgkGL0MXDuHKsIaFY9lj"
-      },
-      "artists": [
-        {
-          "name": "NAY PORTTELA",
-          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Baianidade Nag\u00f4",
-      "url": "https://open.spotify.com/track/0QShxG90ekt8ZErjtb6p79"
-    },
-    {
-      "added_at": "2024-09-09 18:46:18",
-      "album": {
         "name": "Uma Estrela Misteriosa",
         "url": "https://open.spotify.com/album/3fBnUzq7UsPTNcI6BRww9W"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 426853,
       "name": "Estrela Misteriosa",
       "url": "https://open.spotify.com/track/4Ulq4jkpbjAorWd164P2cG"
+    },
+    {
+      "added_at": "2024-09-09 18:46:18",
+      "album": {
+        "name": "Baianidade Nag\u00f4",
+        "url": "https://open.spotify.com/album/0fFgkGL0MXDuHKsIaFY9lj"
+      },
+      "artists": [
+        {
+          "name": "NAY PORTTELA",
+          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Baianidade Nag\u00f4",
+      "url": "https://open.spotify.com/track/0QShxG90ekt8ZErjtb6p79"
     },
     {
       "added_at": "2024-09-09 18:46:18",
@@ -791,26 +791,6 @@
     {
       "added_at": "2024-09-09 18:46:18",
       "album": {
-        "name": "Me Beija",
-        "url": "https://open.spotify.com/album/3tH1loduDcsGEwNXn8mGWc"
-      },
-      "artists": [
-        {
-          "name": "Renato Piau",
-          "url": "https://open.spotify.com/artist/32iscNidsHbdJTpUR6rI6L"
-        },
-        {
-          "name": "Luiz Melodia",
-          "url": "https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W"
-        }
-      ],
-      "duration_ms": 211812,
-      "name": "Me Beija",
-      "url": "https://open.spotify.com/track/01WaZ4g2GT4GPTRk6GNcKH"
-    },
-    {
-      "added_at": "2024-09-09 18:46:18",
-      "album": {
         "name": "Paisagem",
         "url": "https://open.spotify.com/album/4Z9xkO4lKohbX5JCuW1pbu"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 212300,
       "name": "Paisagem",
       "url": "https://open.spotify.com/track/3EBUi6ngDPHnhtjsQAuPua"
+    },
+    {
+      "added_at": "2024-09-09 18:46:18",
+      "album": {
+        "name": "Me Beija",
+        "url": "https://open.spotify.com/album/3tH1loduDcsGEwNXn8mGWc"
+      },
+      "artists": [
+        {
+          "name": "Renato Piau",
+          "url": "https://open.spotify.com/artist/32iscNidsHbdJTpUR6rI6L"
+        },
+        {
+          "name": "Luiz Melodia",
+          "url": "https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W"
+        }
+      ],
+      "duration_ms": 211812,
+      "name": "Me Beija",
+      "url": "https://open.spotify.com/track/01WaZ4g2GT4GPTRk6GNcKH"
     },
     {
       "added_at": "2024-09-09 18:46:18",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-09-09 18:46:18",
       "album": {
-        "name": "N\u00e3o vejo a hora",
-        "url": "https://open.spotify.com/album/4iuOtGlTt5485mrjYelXSA"
-      },
-      "artists": [
-        {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
-        }
-      ],
-      "duration_ms": 196602,
-      "name": "N\u00e3o vejo a hora",
-      "url": "https://open.spotify.com/track/6Wn7IS6IfsbhmmhZJmurKf"
-    },
-    {
-      "added_at": "2024-09-09 18:46:18",
-      "album": {
         "name": "Multicolorida",
         "url": "https://open.spotify.com/album/6zPdoi602lDbfG4I6YBMfy"
       },
@@ -931,6 +915,62 @@
     {
       "added_at": "2024-09-09 18:46:18",
       "album": {
+        "name": "Paisagem",
+        "url": "https://open.spotify.com/album/6QJfLIoORUht7DGSfZmcNo"
+      },
+      "artists": [
+        {
+          "name": "Tuyo",
+          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
+        },
+        {
+          "name": "Arthur Verocai",
+          "url": "https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Apazigua",
+      "url": "https://open.spotify.com/track/60p6i7sTLp2wVk5Wpv4nqr"
+    },
+    {
+      "added_at": "2024-09-09 18:46:18",
+      "album": {
+        "name": "N\u00e3o vejo a hora",
+        "url": "https://open.spotify.com/album/4iuOtGlTt5485mrjYelXSA"
+      },
+      "artists": [
+        {
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+        }
+      ],
+      "duration_ms": 196602,
+      "name": "N\u00e3o vejo a hora",
+      "url": "https://open.spotify.com/track/6Wn7IS6IfsbhmmhZJmurKf"
+    },
+    {
+      "added_at": "2024-09-09 18:46:18",
+      "album": {
+        "name": "Topo da Minha Cabe\u00e7a",
+        "url": "https://open.spotify.com/album/0kUnqER78fdTcAEPDCpwo0"
+      },
+      "artists": [
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        },
+        {
+          "name": "Barba Negra",
+          "url": "https://open.spotify.com/artist/5BPmokvgi18I0XyI0sK0Rq"
+        }
+      ],
+      "duration_ms": 252074,
+      "name": "Topo da Minha Cabe\u00e7a",
+      "url": "https://open.spotify.com/track/6lAQU9g2xFvFYpQjogi4RL"
+    },
+    {
+      "added_at": "2024-09-09 18:46:18",
+      "album": {
         "name": "Misteriosa",
         "url": "https://open.spotify.com/album/0cRI2LJKrujLPpyJdszCvk"
       },
@@ -943,6 +983,22 @@
       "duration_ms": 348000,
       "name": "Macap\u00e1",
       "url": "https://open.spotify.com/track/3tRFdooeDmoYgvodTqYH5I"
+    },
+    {
+      "added_at": "2024-09-09 18:46:18",
+      "album": {
+        "name": "Eixo",
+        "url": "https://open.spotify.com/album/1MCyjR0XFu2yZiBWgQqm9Z"
+      },
+      "artists": [
+        {
+          "name": "Sued Nunes",
+          "url": "https://open.spotify.com/artist/3CFyVJRAmjkptSfvwMljQi"
+        }
+      ],
+      "duration_ms": 152890,
+      "name": "Eixo",
+      "url": "https://open.spotify.com/track/2fH8Zn4ljEYC1Wgpa4ZgVk"
     },
     {
       "added_at": "2024-09-09 18:46:18",
@@ -971,26 +1027,6 @@
     {
       "added_at": "2024-09-09 18:46:18",
       "album": {
-        "name": "Paisagem",
-        "url": "https://open.spotify.com/album/6QJfLIoORUht7DGSfZmcNo"
-      },
-      "artists": [
-        {
-          "name": "Tuyo",
-          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
-        },
-        {
-          "name": "Arthur Verocai",
-          "url": "https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Apazigua",
-      "url": "https://open.spotify.com/track/60p6i7sTLp2wVk5Wpv4nqr"
-    },
-    {
-      "added_at": "2024-09-09 18:46:18",
-      "album": {
         "name": "Quero Andar Com Voc\u00ea",
         "url": "https://open.spotify.com/album/0Gze0JKX4Ls4QlSfrLQaqy"
       },
@@ -1011,18 +1047,22 @@
     {
       "added_at": "2024-09-09 18:46:18",
       "album": {
-        "name": "Eixo",
-        "url": "https://open.spotify.com/album/1MCyjR0XFu2yZiBWgQqm9Z"
+        "name": "Me D\u00e1 Meu Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/06nyJVwgF5sZEvKLLevisK"
       },
       "artists": [
         {
-          "name": "Sued Nunes",
-          "url": "https://open.spotify.com/artist/3CFyVJRAmjkptSfvwMljQi"
+          "name": "J\u00e1der",
+          "url": "https://open.spotify.com/artist/4kZNQjkGZ4VVovVaFvE1xa"
+        },
+        {
+          "name": "Otto",
+          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
         }
       ],
-      "duration_ms": 152890,
-      "name": "Eixo",
-      "url": "https://open.spotify.com/track/2fH8Zn4ljEYC1Wgpa4ZgVk"
+      "duration_ms": 179025,
+      "name": "Me D\u00e1 Meu Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/3U1NGP9h6oOpyYNp4E8wJS"
     },
     {
       "added_at": "2024-09-09 18:46:18",
@@ -1059,6 +1099,26 @@
     {
       "added_at": "2024-09-09 18:46:18",
       "album": {
+        "name": "Jaqueta",
+        "url": "https://open.spotify.com/album/3EXKMyTGauvzDkaVmxCXSB"
+      },
+      "artists": [
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        },
+        {
+          "name": "Lizandra",
+          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
+        }
+      ],
+      "duration_ms": 136630,
+      "name": "Jaqueta",
+      "url": "https://open.spotify.com/track/3o4Jk3ZgfYzB6iyA3HGZ9u"
+    },
+    {
+      "added_at": "2024-09-09 18:46:18",
+      "album": {
         "name": "Bahia Com H",
         "url": "https://open.spotify.com/album/2UO7PFTEbd7DDwaUVSgVQR"
       },
@@ -1071,26 +1131,6 @@
       "duration_ms": 264729,
       "name": "Bahia Com H",
       "url": "https://open.spotify.com/track/3Wll6TfRJ1bzskJsZQe89P"
-    },
-    {
-      "added_at": "2024-09-09 18:46:18",
-      "album": {
-        "name": "Me D\u00e1 Meu Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/06nyJVwgF5sZEvKLLevisK"
-      },
-      "artists": [
-        {
-          "name": "J\u00e1der",
-          "url": "https://open.spotify.com/artist/4kZNQjkGZ4VVovVaFvE1xa"
-        },
-        {
-          "name": "Otto",
-          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
-        }
-      ],
-      "duration_ms": 179025,
-      "name": "Me D\u00e1 Meu Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/3U1NGP9h6oOpyYNp4E8wJS"
     },
     {
       "added_at": "2024-09-09 18:46:18",
@@ -1143,22 +1183,18 @@
     {
       "added_at": "2024-09-09 18:46:18",
       "album": {
-        "name": "Jaqueta",
-        "url": "https://open.spotify.com/album/3EXKMyTGauvzDkaVmxCXSB"
+        "name": "Na Mi\u00fada",
+        "url": "https://open.spotify.com/album/7Cs7J2fEvx1p6plGf8kPI0"
       },
       "artists": [
         {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        },
-        {
-          "name": "Lizandra",
-          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
+          "name": "Augusta Barna",
+          "url": "https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk"
         }
       ],
-      "duration_ms": 136630,
-      "name": "Jaqueta",
-      "url": "https://open.spotify.com/track/3o4Jk3ZgfYzB6iyA3HGZ9u"
+      "duration_ms": 142011,
+      "name": "Apesar de Agora",
+      "url": "https://open.spotify.com/track/7t5vyu2pZ4rnrJ6azywIaD"
     },
     {
       "added_at": "2024-09-09 18:46:18",
@@ -1179,22 +1215,6 @@
       "duration_ms": 219486,
       "name": "Tobog\u00e3",
       "url": "https://open.spotify.com/track/29NjMX2Wpw01sqXEeX7bDn"
-    },
-    {
-      "added_at": "2024-09-09 18:46:18",
-      "album": {
-        "name": "Na Mi\u00fada",
-        "url": "https://open.spotify.com/album/7Cs7J2fEvx1p6plGf8kPI0"
-      },
-      "artists": [
-        {
-          "name": "Augusta Barna",
-          "url": "https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk"
-        }
-      ],
-      "duration_ms": 142011,
-      "name": "Apesar de Agora",
-      "url": "https://open.spotify.com/track/7t5vyu2pZ4rnrJ6azywIaD"
     },
     {
       "added_at": "2024-09-09 18:46:18",
@@ -1271,6 +1291,22 @@
     {
       "added_at": "2024-09-09 18:46:18",
       "album": {
+        "name": "A Calma Acalma",
+        "url": "https://open.spotify.com/album/1wMB5ZetaZy8rKtzM0yx4c"
+      },
+      "artists": [
+        {
+          "name": "J\u00d8Y Brandt",
+          "url": "https://open.spotify.com/artist/2YRTxRv98WvCsjK4wXtgxk"
+        }
+      ],
+      "duration_ms": 197635,
+      "name": "A Calma Acalma",
+      "url": "https://open.spotify.com/track/40D0bFvyl9ypjQvhjlZ5w4"
+    },
+    {
+      "added_at": "2024-09-09 18:46:18",
+      "album": {
         "name": "Tem Barata Voadora Que Se Acha Borboleta",
         "url": "https://open.spotify.com/album/6Swn45UtkLg3tshqguoBqO"
       },
@@ -1295,74 +1331,6 @@
     {
       "added_at": "2024-09-09 18:46:18",
       "album": {
-        "name": "A Calma Acalma",
-        "url": "https://open.spotify.com/album/1wMB5ZetaZy8rKtzM0yx4c"
-      },
-      "artists": [
-        {
-          "name": "J\u00d8Y Brandt",
-          "url": "https://open.spotify.com/artist/2YRTxRv98WvCsjK4wXtgxk"
-        }
-      ],
-      "duration_ms": 197635,
-      "name": "A Calma Acalma",
-      "url": "https://open.spotify.com/track/40D0bFvyl9ypjQvhjlZ5w4"
-    },
-    {
-      "added_at": "2024-09-09 18:46:18",
-      "album": {
-        "name": "Topo da Minha Cabe\u00e7a",
-        "url": "https://open.spotify.com/album/0kUnqER78fdTcAEPDCpwo0"
-      },
-      "artists": [
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        },
-        {
-          "name": "Barba Negra",
-          "url": "https://open.spotify.com/artist/5BPmokvgi18I0XyI0sK0Rq"
-        }
-      ],
-      "duration_ms": 252074,
-      "name": "Topo da Minha Cabe\u00e7a",
-      "url": "https://open.spotify.com/track/6lAQU9g2xFvFYpQjogi4RL"
-    },
-    {
-      "added_at": "2024-09-09 18:46:18",
-      "album": {
-        "name": "Domingo \u00c0 Noite",
-        "url": "https://open.spotify.com/album/0ELW5yaFYwjFcSuS2iIA1m"
-      },
-      "artists": [
-        {
-          "name": "Tom Karabachian",
-          "url": "https://open.spotify.com/artist/3SRd2GBL1Hpandxreo3kdW"
-        }
-      ],
-      "duration_ms": 221137,
-      "name": "Domingo \u00c0 Noite",
-      "url": "https://open.spotify.com/track/36G4SFxRe5YFAvBeg04OJ6"
-    },
-    {
-      "added_at": "2024-09-09 18:46:18",
-      "album": {
-        "name": "N\u00c3O ME CHAME DE AMOR",
-        "url": "https://open.spotify.com/album/0jhwkzklADeDEVGRgSruhs"
-      },
-      "artists": [
-        {
-          "name": "LAURO",
-          "url": "https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa"
-        }
-      ],
-      "duration_ms": 278033,
-      "name": "N\u00c3O ME CHAME DE AMOR",
-      "url": "https://open.spotify.com/track/3Hgcx0L0wYb0IVikGFOm4O"
-    },
-    {
-      "added_at": "2024-09-09 18:46:18",
-      "album": {
         "name": "real cinema",
         "url": "https://open.spotify.com/album/0eXvtucC2iXVmb3v3mQZgt"
       },
@@ -1379,6 +1347,22 @@
       "duration_ms": 203827,
       "name": "aprender a perder",
       "url": "https://open.spotify.com/track/0zkftqXT4ROiEWwKEOMs8b"
+    },
+    {
+      "added_at": "2024-09-09 18:46:18",
+      "album": {
+        "name": "Domingo \u00c0 Noite",
+        "url": "https://open.spotify.com/album/0ELW5yaFYwjFcSuS2iIA1m"
+      },
+      "artists": [
+        {
+          "name": "Tom Karabachian",
+          "url": "https://open.spotify.com/artist/3SRd2GBL1Hpandxreo3kdW"
+        }
+      ],
+      "duration_ms": 221137,
+      "name": "Domingo \u00c0 Noite",
+      "url": "https://open.spotify.com/track/36G4SFxRe5YFAvBeg04OJ6"
     },
     {
       "added_at": "2024-09-09 18:46:18",
@@ -1403,6 +1387,22 @@
     {
       "added_at": "2024-09-09 18:46:18",
       "album": {
+        "name": "N\u00c3O ME CHAME DE AMOR",
+        "url": "https://open.spotify.com/album/0jhwkzklADeDEVGRgSruhs"
+      },
+      "artists": [
+        {
+          "name": "LAURO",
+          "url": "https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa"
+        }
+      ],
+      "duration_ms": 278033,
+      "name": "N\u00c3O ME CHAME DE AMOR",
+      "url": "https://open.spotify.com/track/3Hgcx0L0wYb0IVikGFOm4O"
+    },
+    {
+      "added_at": "2024-09-09 18:46:18",
+      "album": {
         "name": "Universo de Paix\u00e3o",
         "url": "https://open.spotify.com/album/51QbgpsAkuZE2ejyE7ht7Y"
       },
@@ -1415,6 +1415,22 @@
       "duration_ms": 241860,
       "name": "Melhor Assim",
       "url": "https://open.spotify.com/track/3kf9cCRHPyDYr93nXWAbav"
+    },
+    {
+      "added_at": "2024-09-09 18:46:18",
+      "album": {
+        "name": "Ponto De Oxum",
+        "url": "https://open.spotify.com/album/2gmmafR0LxZ7d0GnGgueea"
+      },
+      "artists": [
+        {
+          "name": "Ana Cacimba",
+          "url": "https://open.spotify.com/artist/2VUDolPxpoiwL3oOXVst58"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Ponto De Oxum",
+      "url": "https://open.spotify.com/track/5DQi62ho5FjIp5Be3bcGeF"
     },
     {
       "added_at": "2024-09-09 18:46:18",
@@ -1499,22 +1515,6 @@
       "duration_ms": 208572,
       "name": "Caminho de Quem Passa",
       "url": "https://open.spotify.com/track/6GBtiFITd44ZzelAFjZW5e"
-    },
-    {
-      "added_at": "2024-09-09 18:46:18",
-      "album": {
-        "name": "Ponto De Oxum",
-        "url": "https://open.spotify.com/album/2gmmafR0LxZ7d0GnGgueea"
-      },
-      "artists": [
-        {
-          "name": "Ana Cacimba",
-          "url": "https://open.spotify.com/artist/2VUDolPxpoiwL3oOXVst58"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Ponto De Oxum",
-      "url": "https://open.spotify.com/track/5DQi62ho5FjIp5Be3bcGeF"
     },
     {
       "added_at": "2024-09-09 18:46:18",

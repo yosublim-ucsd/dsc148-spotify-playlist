@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 27322,
+  "num_followers": 27365,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -1071,6 +1071,26 @@
     {
       "added_at": "2024-09-06 10:56:57",
       "album": {
+        "name": "TEQUILA",
+        "url": "https://open.spotify.com/album/5zpxn2BLJyQ9gZcKfKq8RX"
+      },
+      "artists": [
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        },
+        {
+          "name": "Reekado Banks",
+          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "TEQUILA",
+      "url": "https://open.spotify.com/track/3meLEmr860diy8furP4Bff"
+    },
+    {
+      "added_at": "2024-09-06 10:56:57",
+      "album": {
         "name": "AREA BOYZ",
         "url": "https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd"
       },
@@ -1091,26 +1111,6 @@
       "duration_ms": 211873,
       "name": "TONIGHT (feat. Libianca & Jae5)",
       "url": "https://open.spotify.com/track/17sdMcLIsAvKuQBPKXmiDC"
-    },
-    {
-      "added_at": "2024-09-06 10:56:57",
-      "album": {
-        "name": "TEQUILA",
-        "url": "https://open.spotify.com/album/5zpxn2BLJyQ9gZcKfKq8RX"
-      },
-      "artists": [
-        {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
-        },
-        {
-          "name": "Reekado Banks",
-          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "TEQUILA",
-      "url": "https://open.spotify.com/track/3meLEmr860diy8furP4Bff"
     },
     {
       "added_at": "2024-09-06 10:56:57",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2024-09-06 10:56:57",
       "album": {
+        "name": "Fountain Baby",
+        "url": "https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 176720,
+      "name": "Big Steppa",
+      "url": "https://open.spotify.com/track/0qNH2olGC2AUMMptYsdrK5"
+    },
+    {
+      "added_at": "2024-09-06 10:56:57",
+      "album": {
         "name": "Your Body",
         "url": "https://open.spotify.com/album/78gHWIm7BzgTfUgVAq67z7"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 151462,
       "name": "Your Body",
       "url": "https://open.spotify.com/track/58aqMiOHapRaGUdHnbeE1T"
-    },
-    {
-      "added_at": "2024-09-06 10:56:57",
-      "album": {
-        "name": "Fountain Baby",
-        "url": "https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh"
-      },
-      "artists": [
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 176720,
-      "name": "Big Steppa",
-      "url": "https://open.spotify.com/track/0qNH2olGC2AUMMptYsdrK5"
     },
     {
       "added_at": "2024-09-06 10:56:57",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2024-09-06 10:56:57",
       "album": {
+        "name": "Will I?",
+        "url": "https://open.spotify.com/album/76c9Zwxc1cTq0tfXw7eMSM"
+      },
+      "artists": [
+        {
+          "name": "Majeeed",
+          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
+        }
+      ],
+      "duration_ms": 164081,
+      "name": "Will I?",
+      "url": "https://open.spotify.com/track/76u1M1WWr3TGCJUXR5eKTT"
+    },
+    {
+      "added_at": "2024-09-06 10:56:57",
+      "album": {
         "name": "The Messenger",
         "url": "https://open.spotify.com/album/0hvJW7VOP4196IMePNLzZi"
       },
@@ -1391,18 +1407,22 @@
     {
       "added_at": "2024-09-06 10:56:57",
       "album": {
-        "name": "California / Rollercoaster",
-        "url": "https://open.spotify.com/album/6ocXzmy38tFXV54CL56bga"
+        "name": "Evidence",
+        "url": "https://open.spotify.com/album/1aFBCKDhwC9H6GidbfYvn4"
       },
       "artists": [
         {
-          "name": "Majeeed",
-          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
+          "name": "1da Banton",
+          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
         }
       ],
-      "duration_ms": 140357,
-      "name": "California",
-      "url": "https://open.spotify.com/track/2NJaVPITRe1XCSwTpbIZk3"
+      "duration_ms": 114419,
+      "name": "Evidence",
+      "url": "https://open.spotify.com/track/3EedyRBEZu0u5FH6Z9tHU1"
     },
     {
       "added_at": "2024-09-06 10:56:57",
@@ -1423,26 +1443,6 @@
       "duration_ms": 198000,
       "name": "Best Interest",
       "url": "https://open.spotify.com/track/5IQUPSzuNlYmSzHK8fO0yH"
-    },
-    {
-      "added_at": "2024-09-06 10:56:57",
-      "album": {
-        "name": "Evidence",
-        "url": "https://open.spotify.com/album/1aFBCKDhwC9H6GidbfYvn4"
-      },
-      "artists": [
-        {
-          "name": "1da Banton",
-          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 114419,
-      "name": "Evidence",
-      "url": "https://open.spotify.com/track/3EedyRBEZu0u5FH6Z9tHU1"
     },
     {
       "added_at": "2024-09-06 10:56:57",

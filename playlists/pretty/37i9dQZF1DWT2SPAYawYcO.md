@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Fred again..
 
-[Spotify](https://open.spotify.com/user/spotify) - 379,107 likes - 82 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,132 likes - 82 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 49 | [Biking](https://open.spotify.com/track/2LAhOlxPHwpsxKi74FXi7O) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Biking](https://open.spotify.com/album/2NsIuJ6GalDZSyaRntN0ad) | 2:50 |
 | 50 | [All Night](https://open.spotify.com/track/2VHlTLNsbMuhxiTasirOIn) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [What's Wrong With New York?](https://open.spotify.com/album/7yscvqpYCcpNEgByHSzwrN) | 3:53 |
 | 51 | [Under Water / In Air \- feat\. Ruth Radelet](https://open.spotify.com/track/3KoRqwC6xGerhN8gwYf0hY) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU), [Ruth Radelet](https://open.spotify.com/artist/2Evpx6HIhl4ahwPKjAPvox) | [Parallel Realms \- Deluxe Edition](https://open.spotify.com/album/3BMXL9PrShspDkVlCEvAfO) | 3:08 |
-| 52 | [Wet Dreams \(feat\. coop & gg\)](https://open.spotify.com/track/20LfID5lY83tDZAHZqpFtC) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [coop](https://open.spotify.com/artist/39Fgy3DGHvOP32RcQ8U4bv), [G G](https://open.spotify.com/artist/6hepB9skRNYPl9CkOpwKGj) | [Wet Dreams \(feat\. coop & gg\)](https://open.spotify.com/album/65NAjD3jks0YWWLVkl2VnO) | 2:39 |
+| 52 | [Wet Dreams \(feat\. coop & gg\)](https://open.spotify.com/track/20LfID5lY83tDZAHZqpFtC) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [coop](https://open.spotify.com/artist/39Fgy3DGHvOP32RcQ8U4bv), [gg](https://open.spotify.com/artist/12XC7Vu5zRQ9Q8UFmX6Fnw) | [Wet Dreams \(feat\. coop & gg\)](https://open.spotify.com/album/65NAjD3jks0YWWLVkl2VnO) | 2:39 |
 | 53 | [Do You See Me](https://open.spotify.com/track/7Mo5xjXd4dccZhmqHDD12t) | [Dan Sultan](https://open.spotify.com/artist/35l8C1gkJPCOqrVPiCiICR) | [Do You See Me](https://open.spotify.com/album/7dRTJTJmi4hxWW0ADcJc4Y) | 3:39 |
 | 54 | [Roses Ether](https://open.spotify.com/track/6Ih6oi6CkOfkFaKvcQacw6) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Roses Ether](https://open.spotify.com/album/2otIbQUDCLNjKUM75j315q) | 2:58 |
 | 55 | [Somebody Else But Me](https://open.spotify.com/track/52sscicigpGQsQLp3iuKRY) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc) | [Somebody Else But Me](https://open.spotify.com/album/4a02x4jjFQOr9B9DxocEoH) | 3:30 |

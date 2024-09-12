@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Rex Orange County
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,131 likes - 90 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,123 likes - 90 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 61 | [Purple Teeth, The Bravery](https://open.spotify.com/track/3RbZSOQW9pgZtrnMqrLnAM) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Purple Teeth, The Bravery](https://open.spotify.com/album/0IYQON1mYTy2JaE8VUHnmV) | 3:04 |
 | 62 | [Margot](https://open.spotify.com/track/5szjgJEIylyjvuKoY9ESdT) | [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [Time Is A Flower](https://open.spotify.com/album/0LuIdfbrjQ7v3iw0emE6jU) | 3:35 |
 | 63 | [Mutations \- Edit](https://open.spotify.com/track/5Uzoly9A6Y1SZt4Um5cU5u) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Mutations](https://open.spotify.com/album/3le0WTsv4dcgH7mqZ7bL0Z) | 2:44 |
-| 64 | [Old Tape \(feat\. Adam Granduciel\)](https://open.spotify.com/track/1jAhvw24wQv2puNASTzFvM) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas), [Adam Granduciel](https://open.spotify.com/artist/73KiP7jo5pwsmaAjFZOCY4) | [Old Tape \(feat\. Adam Granduciel\)](https://open.spotify.com/album/2hnTUBlcbAPk0fcnQi1jyn) | 3:32 |
+| 64 | [Old Tape \(feat\. Adam Granduciel\)](https://open.spotify.com/track/1jAhvw24wQv2puNASTzFvM) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Old Tape \(feat\. Adam Granduciel\)](https://open.spotify.com/album/2hnTUBlcbAPk0fcnQi1jyn) | 3:32 |
 | 65 | [Flicker of Light](https://open.spotify.com/track/3etbPFMXnAuShtcImz4UXW) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Flicker of Light](https://open.spotify.com/album/2wwEUTNKOlvU3kfeFuoQbg) | 3:19 |
 | 66 | [Hardcore Romance](https://open.spotify.com/track/2DXmrFjBKWY11AiIlZanYD) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Hardcore Romance](https://open.spotify.com/album/6WAU1dlxzNP5jksM5qr3I3) | 3:19 |
 | 67 | [Space Invader](https://open.spotify.com/track/25Z5WIk6ORaCTU7dLtz349) | [Ten Fé](https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT) | [Space Invader](https://open.spotify.com/album/1vhdCQ2nTd5vupxIwUsEmx) | 4:45 |

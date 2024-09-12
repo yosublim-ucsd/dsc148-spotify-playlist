@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7l9UKjnGuGw5ZR7Lw66uIe.md) - [plain]
 
 > 
 
-[Mert Çodur](https://open.spotify.com/user/mertcodur) - 87 likes - 23 songs - 1 hr 3 min
+[Mert Çodur](https://open.spotify.com/user/mertcodur) - 88 likes - 23 songs - 1 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

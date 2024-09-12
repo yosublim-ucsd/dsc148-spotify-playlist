@@ -304,7 +304,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 339512,
       "name": "A Place To stay, Pt. 2",
       "url": "https://open.spotify.com/track/6LPbzcwuZIrZUkCOwxCxN0"
@@ -1446,7 +1446,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 198546,
       "name": "Better",
       "url": "https://open.spotify.com/track/3nsLmjrN9hwht5VszHwU23"
@@ -2488,7 +2488,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 246836,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/5SqHQPdRnsypIJEJNTspWE"
@@ -2888,7 +2888,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 200353,
       "name": "Colors",
       "url": "https://open.spotify.com/track/61Y8I1rRg4dbf5di8ZEO3S"
@@ -3316,6 +3316,24 @@
       "duration_ms": 222589,
       "name": "Curious",
       "url": "https://open.spotify.com/track/5xzBNmj3NUGsQ9O1VLelKe"
+    },
+    {
+      "album": {
+        "name": "Current Weather",
+        "url": "https://open.spotify.com/album/0SHxpEhPnLjY1K2m792UN8"
+      },
+      "artists": [
+        {
+          "name": "Kymara",
+          "url": "https://open.spotify.com/artist/0fpdyv56I16Z3FyGnN5xR7"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269493,
+      "name": "Current Weather",
+      "url": "https://open.spotify.com/track/6wIWyRP2jIm1Pftx7uyrXN"
     },
     {
       "album": {
@@ -5026,7 +5044,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 213000,
       "name": "Fist Bump (feat. Free Nationals) - Radio Edit",
       "url": "https://open.spotify.com/track/5El5mxXJzfYYr0PM61xrvn"
@@ -6704,7 +6722,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 202139,
       "name": "Here To Stay",
       "url": "https://open.spotify.com/track/16sNdTQnKj1FI0H53LQTYc"
@@ -7376,7 +7394,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 180020,
       "name": "I Got You",
       "url": "https://open.spotify.com/track/49AAuOt0cEnwXFRmxMgrrD"
@@ -8450,7 +8468,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 224633,
       "name": "Karma",
       "url": "https://open.spotify.com/track/2k9R6I6dhAWnNnsU4qS53p"
@@ -9464,7 +9482,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 223240,
       "name": "Love Direction",
       "url": "https://open.spotify.com/track/3GMVK3x0ZxSOpJFvgUVih7"
@@ -10636,7 +10654,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 229193,
       "name": "Mosquito",
       "url": "https://open.spotify.com/track/4XV9pVlrXolvH2ebE7k16K"
@@ -12361,6 +12379,24 @@
     },
     {
       "album": {
+        "name": "Peaceful Place",
+        "url": "https://open.spotify.com/album/6ZJwX0ETt1mAZReAEDbI3X"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255320,
+      "name": "Peaceful Place",
+      "url": "https://open.spotify.com/track/2OiJ2pEQlLPnOywokPkG4N"
+    },
+    {
+      "album": {
         "name": "Warping Youth",
         "url": "https://open.spotify.com/album/376kqbKWKrgMq1m4cGiAeN"
       },
@@ -12687,6 +12723,24 @@
     },
     {
       "album": {
+        "name": "Pressed Out Emotions",
+        "url": "https://open.spotify.com/album/1Fr4rhp7ieOWRdGqhjLkBF"
+      },
+      "artists": [
+        {
+          "name": "Alain Clark",
+          "url": "https://open.spotify.com/artist/68tIJ2KGC2bUs1cmIhJ9mW"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243146,
+      "name": "Pressed Out Emotions",
+      "url": "https://open.spotify.com/track/2FSpYSbXEhFNaNcs0TiXUF"
+    },
+    {
+      "album": {
         "name": "PROUD OF YOU",
         "url": "https://open.spotify.com/album/78syZOIQs6EZ1fvjpfnhV0"
       },
@@ -12810,7 +12864,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 225484,
       "name": "R.L.M",
       "url": "https://open.spotify.com/track/7xrp1M7PQfRh5fsT8dOGnj"
@@ -13469,6 +13523,24 @@
     },
     {
       "album": {
+        "name": "Chapter 22: NAKED",
+        "url": "https://open.spotify.com/album/1ftnFdq2bfUhNP5zP8pil6"
+      },
+      "artists": [
+        {
+          "name": "Shaynah",
+          "url": "https://open.spotify.com/artist/4U7FCOOzMmHazZNQ6eK7RG"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138264,
+      "name": "Round 'n Round",
+      "url": "https://open.spotify.com/track/6l00DjYvvJJAPm4RHtXUuU"
+    },
+    {
+      "album": {
         "name": "Royal (Recall)",
         "url": "https://open.spotify.com/album/6DWmlOGZadzy75IdJ6NOop"
       },
@@ -13956,6 +14028,24 @@
       "duration_ms": 226466,
       "name": "Serena - Feat. Samm Henshaw",
       "url": "https://open.spotify.com/track/3M7CTl6EiNEeeoFl79GiAG"
+    },
+    {
+      "album": {
+        "name": "She Keeps Calling",
+        "url": "https://open.spotify.com/album/04pWdxoC5371dvrDgzDIBO"
+      },
+      "artists": [
+        {
+          "name": "October London",
+          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143000,
+      "name": "She Keeps Calling",
+      "url": "https://open.spotify.com/track/1hG55qzxbHuGaPfAhCPgoF"
     },
     {
       "album": {
@@ -14520,7 +14610,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 192291,
       "name": "SO EASY - Radio Edit",
       "url": "https://open.spotify.com/track/4Z5igGvfyftnH9j0IePsnl"
@@ -14986,7 +15076,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 184128,
       "name": "Stand on Trial",
       "url": "https://open.spotify.com/track/0dAFYiW4zXXhmXXCINl5H7"
@@ -16182,7 +16272,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 301626,
       "name": "The Anthem",
       "url": "https://open.spotify.com/track/59ZIdDvP00CThbvIWxDzn3"
@@ -16873,6 +16963,24 @@
     },
     {
       "album": {
+        "name": "Time Is a Thief",
+        "url": "https://open.spotify.com/album/1dgckFLnVcYFijZyoCpqOW"
+      },
+      "artists": [
+        {
+          "name": "Marc Broussard",
+          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217094,
+      "name": "Time Is a Thief",
+      "url": "https://open.spotify.com/track/4BfoSf5TgJ1hIOPvspKsG8"
+    },
+    {
+      "album": {
         "name": "Time Today",
         "url": "https://open.spotify.com/album/4XmIG6EqLRDjTGsG0i8Bu5"
       },
@@ -16888,6 +16996,28 @@
       "duration_ms": 199718,
       "name": "Time Today",
       "url": "https://open.spotify.com/track/1ENwTLdSFBmbIfmiK6o6Ue"
+    },
+    {
+      "album": {
+        "name": "Tired",
+        "url": "https://open.spotify.com/album/2cvPz7BlmAKDFWxhRyudkP"
+      },
+      "artists": [
+        {
+          "name": "Mosa\u00efq",
+          "url": "https://open.spotify.com/artist/3MkVTx49lYF9gDbkCVGG0U"
+        },
+        {
+          "name": "Kunuku",
+          "url": "https://open.spotify.com/artist/0Za7u25CcZ1LsM3dHhUbkf"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212713,
+      "name": "Tired",
+      "url": "https://open.spotify.com/track/6OuViMk7dsAb39UUiWaby6"
     },
     {
       "album": {
@@ -17003,6 +17133,24 @@
     },
     {
       "album": {
+        "name": "Trampoline",
+        "url": "https://open.spotify.com/album/5gvUf3EhNwPfPZbTHP2tsW"
+      },
+      "artists": [
+        {
+          "name": "GINGE",
+          "url": "https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163561,
+      "name": "Trampoline",
+      "url": "https://open.spotify.com/track/3DotR5tILj4MzrLyjsL3d0"
+    },
+    {
+      "album": {
         "name": "Treat U Good",
         "url": "https://open.spotify.com/album/3ClRTsQuJUaUg340vgZDOA"
       },
@@ -17048,7 +17196,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 203951,
       "name": "Trenches",
       "url": "https://open.spotify.com/track/6s5j4R3OGHYcctR8LGi4h4"
@@ -17355,6 +17503,24 @@
     },
     {
       "album": {
+        "name": "U",
+        "url": "https://open.spotify.com/album/4n8MrOOYW6Fh7ixALNVJ8H"
+      },
+      "artists": [
+        {
+          "name": "JAZMYN",
+          "url": "https://open.spotify.com/artist/6axezvjsY79g2rkEp65ynf"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257946,
+      "name": "U",
+      "url": "https://open.spotify.com/track/3fhl7YifbivGQO2deVLavJ"
+    },
+    {
+      "album": {
         "name": "Unapologetically Me",
         "url": "https://open.spotify.com/album/0FnsVtGkz6TSkwJdiPnKLe"
       },
@@ -17374,7 +17540,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 248262,
       "name": "Unapologetically Me",
       "url": "https://open.spotify.com/track/0bgxUe4obsUVgjAnTCQnq3"

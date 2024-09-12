@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LrQBSMX6aK.md) - [plain]
 
 > Classical compositions from Ravi Shankar and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,694 likes - 51 songs - 12 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,700 likes - 51 songs - 12 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hamari atariya pe](https://open.spotify.com/track/2TSYPHfKmLq28xptg9o48a) | [Piu Mukherjee](https://open.spotify.com/artist/1ccT0TPFhQ22JCgIH7hDar), [Emon Sarkar](https://open.spotify.com/artist/1kp7agAUErQy0sSd9uAq51), [Sudhendu Adhikary](https://open.spotify.com/artist/3pwwUYBpeVuWM5smc4rqI1), [Jyotirmoy Banerjee](https://open.spotify.com/artist/6Qm4nD6Y4CSNuAJRb4rEyn) | [Colors of Varanasi](https://open.spotify.com/album/0oqXnl3WDIAu51tgTeL1KK) | 7:41 |
 | 2 | [Aa Vasant Rajni](https://open.spotify.com/track/2eiOOMb5V2tPY9VTmBbMME) | [Meghdeep Bose](https://open.spotify.com/artist/1e3Yx1PLC5EP8lz0OFOHda) | [Aa Vasant Rajni](https://open.spotify.com/album/5KOiUoOwgiyLQdDQEwR8VW) | 4:49 |
 | 3 | [Akeli Dar Lage](https://open.spotify.com/track/0Fkz1sfYAK6z8Yut4EVD4D) | [Abhijit Pohankar](https://open.spotify.com/artist/04FGMCgYEvpf6my4V7ltxY), [Ramakant Gaikwad](https://open.spotify.com/artist/4qfbDj4ydFDTxGFklq4Ajj), [Samarth Desai](https://open.spotify.com/artist/0GjFXeu7FwaS5KVldRtKw4), [Amit Mishra](https://open.spotify.com/artist/1Cr4oTUz9yoA9FORBlX396) | [Akeli Dar Lage](https://open.spotify.com/album/7gc7BvRVhaXC2r4vtLQLy5) | 4:04 |
-| 4 | [Mangal Din](https://open.spotify.com/track/79XHrJNsROhUxi0UPXor4v) | [Abby V](https://open.spotify.com/artist/73VDhvYEhL7FbnDPaNTUmX), [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl), [K\. Sivaangi](https://open.spotify.com/artist/0VocNHCBQ7Mzn9jNOmuSmz) | [Aarambh](https://open.spotify.com/album/23tB4HqO2xE8DqUkXyhzyc) | 4:35 |
+| 4 | [Mangal Din](https://open.spotify.com/track/79XHrJNsROhUxi0UPXor4v) | [Abby V](https://open.spotify.com/artist/73VDhvYEhL7FbnDPaNTUmX), [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl), [Sivaangi Krishnakumar](https://open.spotify.com/artist/0VocNHCBQ7Mzn9jNOmuSmz) | [Aarambh](https://open.spotify.com/album/23tB4HqO2xE8DqUkXyhzyc) | 4:35 |
 | 5 | [Najariya LoFi Cake Mix](https://open.spotify.com/track/3PRXDT8kUntYccU3L3y0ji) | [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9) | [Article 370](https://open.spotify.com/album/3aPH5BvO8bxZCTJjVMXWwY) | 2:36 |
 | 6 | [Jaa Kaga](https://open.spotify.com/track/33mqdecKrXjGk1JZQGuQ5f) | [Abby V](https://open.spotify.com/artist/73VDhvYEhL7FbnDPaNTUmX), [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ) | [Jaa Kaga](https://open.spotify.com/album/6Rw6ZLW1qBJczNKuJu18E1) | 5:10 |
 | 7 | [Jhuki Aayi Badariya](https://open.spotify.com/track/5SXpSPaHd8y64hMBSQKRnw) | [Pamela Jain](https://open.spotify.com/artist/4BBdp811wrWrr1zk9dENUE) | [Jhuki Aayi Badariya](https://open.spotify.com/album/1qFdxQBXCkn0eayc88DTga) | 5:51 |

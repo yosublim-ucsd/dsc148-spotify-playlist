@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 ### [Mad Decent Weekly](https://open.spotify.com/playlist/5IRdCjOHb6RwaIl1PaomPV)
 
-> The latest tracks from Mad Decent and friends\. New music from evilgiane &amp; Nourished by Time, Eera, Kito + the latest cuts from Miss Mdeline, Merry Lamb Lamb  &amp; more.
+> The latest tracks from Mad Decent and friends\. New music from evilgiane &amp; Nourished by Time, Eera, Kito + the latest cuts from Miss Madeline, Merry Lamb Lamb  &amp; more.
 
 [Mad Decent](https://open.spotify.com/user/maddecent) - 50,749 likes - 101 songs - 5 hr 28 min
 
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 | 100 | [backseat](https://open.spotify.com/track/1bzhYxg44jtG54r4kDmiBa) | [damon r.](https://open.spotify.com/artist/3LE39lgBs68N41XjxH5cLD) | [re](https://open.spotify.com/album/3rxprzmVdO5HkFphAqk2Uw) | 2:44 |
 | 101 | [Emotions](https://open.spotify.com/track/0uMd9pp22GoCf6i1r60lxA) | [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d) | [Like A Ribbon](https://open.spotify.com/album/7zEIMfEjyBreLK9TfrkwBC) | 3:24 |
 
-Snapshot ID: `AAAau83K2/OL6qF5U6MItBtijMWLiAbw`
+Snapshot ID: `AAAavLsLVK0kqIx+bQLhEurEIRypLrBv`

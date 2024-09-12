@@ -1,6 +1,6 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Wild Rivers",
-  "num_followers": 79780,
+  "num_followers": 79800,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
@@ -559,18 +559,18 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "What I Am",
-        "url": "https://open.spotify.com/album/3Q9nQTbbZovRJQfY62oXR0"
+        "name": "Don't Forget Me",
+        "url": "https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ"
       },
       "artists": [
         {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
         }
       ],
-      "duration_ms": 211280,
-      "name": "What I Am",
-      "url": "https://open.spotify.com/track/7qZuRt0v6zox5gMAMCls5M"
+      "duration_ms": 265360,
+      "name": "Don't Forget Me",
+      "url": "https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -595,18 +595,18 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Don't Forget Me",
-        "url": "https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ"
+        "name": "What I Am",
+        "url": "https://open.spotify.com/album/3Q9nQTbbZovRJQfY62oXR0"
       },
       "artists": [
         {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
         }
       ],
-      "duration_ms": 265360,
-      "name": "Don't Forget Me",
-      "url": "https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f"
+      "duration_ms": 211280,
+      "name": "What I Am",
+      "url": "https://open.spotify.com/track/7qZuRt0v6zox5gMAMCls5M"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Risk",
-        "url": "https://open.spotify.com/album/3oFBS1h6VV2eJl1Ynhq4Yw"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 191566,
-      "name": "Risk",
-      "url": "https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "You Could Start A Cult (with Lizzy McAlpine)",
         "url": "https://open.spotify.com/album/6sTwHqzlr0QYUzH5Dx4pwk"
       },
@@ -759,8 +743,8 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "martingale",
-        "url": "https://open.spotify.com/album/61Hkj6ooUZ0SXaHjrkS4R9"
+        "name": "End Of The World",
+        "url": "https://open.spotify.com/album/0yZgstl288CsPgZaS0wmVz"
       },
       "artists": [
         {
@@ -768,9 +752,25 @@
           "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
         }
       ],
-      "duration_ms": 257851,
-      "name": "martingale",
-      "url": "https://open.spotify.com/track/01ATDIJlGtEbk2KbzJdk1e"
+      "duration_ms": 234753,
+      "name": "End Of The World",
+      "url": "https://open.spotify.com/track/5RXjt2s4HBJw3TcaAzwSrD"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Risk",
+        "url": "https://open.spotify.com/album/3oFBS1h6VV2eJl1Ynhq4Yw"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 191566,
+      "name": "Risk",
+      "url": "https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -887,28 +887,24 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Unheard",
-        "url": "https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6"
+        "name": "All For Something",
+        "url": "https://open.spotify.com/album/5oOtwx1qgZoWzvqu1pvmZm"
       },
       "artists": [
         {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        },
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
         }
       ],
-      "duration_ms": 222177,
-      "name": "Wildflower and Barley",
-      "url": "https://open.spotify.com/track/5AchurLxOrkSX5YVoH4FeJ"
+      "duration_ms": 241152,
+      "name": "Malleable",
+      "url": "https://open.spotify.com/track/4InJveZw3lD1gYUKEO4FtH"
     },
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "End Of The World",
-        "url": "https://open.spotify.com/album/0yZgstl288CsPgZaS0wmVz"
+        "name": "martingale",
+        "url": "https://open.spotify.com/album/61Hkj6ooUZ0SXaHjrkS4R9"
       },
       "artists": [
         {
@@ -916,9 +912,9 @@
           "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
         }
       ],
-      "duration_ms": 234753,
-      "name": "End Of The World",
-      "url": "https://open.spotify.com/track/5RXjt2s4HBJw3TcaAzwSrD"
+      "duration_ms": 257851,
+      "name": "martingale",
+      "url": "https://open.spotify.com/track/01ATDIJlGtEbk2KbzJdk1e"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -939,18 +935,22 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "All For Something",
-        "url": "https://open.spotify.com/album/5oOtwx1qgZoWzvqu1pvmZm"
+        "name": "Unheard",
+        "url": "https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6"
       },
       "artists": [
         {
-          "name": "Tiny Habits",
-          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        },
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
         }
       ],
-      "duration_ms": 241152,
-      "name": "Malleable",
-      "url": "https://open.spotify.com/track/4InJveZw3lD1gYUKEO4FtH"
+      "duration_ms": 222177,
+      "name": "Wildflower and Barley",
+      "url": "https://open.spotify.com/track/5AchurLxOrkSX5YVoH4FeJ"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Transmissions",
-        "url": "https://open.spotify.com/album/728yDAYQXAFbonNehUayKY"
-      },
-      "artists": [
-        {
-          "name": "Amos Lee",
-          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
-        }
-      ],
-      "duration_ms": 209770,
-      "name": "Carry You On",
-      "url": "https://open.spotify.com/track/0j8OLkA3YSU1YkkbH9mxIm"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "A Week in Nashville",
         "url": "https://open.spotify.com/album/2fAW7oQpHAHNg31yVgMWg1"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 178823,
       "name": "I Came Here to Leave You",
       "url": "https://open.spotify.com/track/3IfZFiVOaQ72Pd3UfZjtSC"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Transmissions",
+        "url": "https://open.spotify.com/album/728yDAYQXAFbonNehUayKY"
+      },
+      "artists": [
+        {
+          "name": "Amos Lee",
+          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
+        }
+      ],
+      "duration_ms": 209770,
+      "name": "Carry You On",
+      "url": "https://open.spotify.com/track/0j8OLkA3YSU1YkkbH9mxIm"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "4 foot 2",
-        "url": "https://open.spotify.com/album/1IoUGFTNFZPzBuMFq6UDUz"
-      },
-      "artists": [
-        {
-          "name": "Juliet Ivy",
-          "url": "https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3"
-        }
-      ],
-      "duration_ms": 154936,
-      "name": "4 foot 2",
-      "url": "https://open.spotify.com/track/7smmFrbHO0vi23LiwHFipr"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Wishes",
         "url": "https://open.spotify.com/album/5SGGfUHXyfzxU11aAby1S1"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 249138,
       "name": "Wishes",
       "url": "https://open.spotify.com/track/7aQcp936NYgjF1vQOnuKGi"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "4 foot 2",
+        "url": "https://open.spotify.com/album/1IoUGFTNFZPzBuMFq6UDUz"
+      },
+      "artists": [
+        {
+          "name": "Juliet Ivy",
+          "url": "https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3"
+        }
+      ],
+      "duration_ms": 154936,
+      "name": "4 foot 2",
+      "url": "https://open.spotify.com/track/7smmFrbHO0vi23LiwHFipr"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Crying Over U",
-        "url": "https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj"
+        "name": "Name of God",
+        "url": "https://open.spotify.com/album/1qk8EaixtL3TI4xc5dhyiq"
       },
       "artists": [
         {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+          "name": "Mustafa",
+          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
         }
       ],
-      "duration_ms": 234231,
-      "name": "Crying Over U",
-      "url": "https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J"
+      "duration_ms": 208837,
+      "name": "Name of God",
+      "url": "https://open.spotify.com/track/39Mbprj9K0OqHA6vxkREBy"
     }
   ],
   "unique_name": "Today's Singer-Songwriters",

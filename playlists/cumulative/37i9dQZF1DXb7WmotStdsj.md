@@ -2,7 +2,7 @@
 
 ### [Raï Hits](https://open.spotify.com/playlist/37i9dQZF1DXb7WmotStdsj)
 
-> Les meilleurs tubes Raï du moment que vous entendez partout.
+> Les meilleurs tubes Raï du moment.
 
 214 songs - 17 hr 21 min
 

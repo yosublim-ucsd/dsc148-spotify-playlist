@@ -2,9 +2,9 @@
 
 ### [서울 씨티팝 \(Seoul City Pop\)](https://open.spotify.com/playlist/37i9dQZF1DX8cV4ZaSfaxp)
 
-> 찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요\. \(A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers.\)
+> 찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요\. \(Cover: 정예인\(Yein\)\) \(A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers.\)
 
-334 songs - 20 hr 40 min
+336 songs - 20 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Come With Me \(feat\. Aden & H!\)](https://open.spotify.com/track/5cyfnscoiwhmGnOZYvR9QJ) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [Aden](https://open.spotify.com/artist/4DC3zLbfVrTZo2WmvjMMls), [H!](https://open.spotify.com/artist/0VwH1YpRJDhqULKTKjPWX0) | [Seoul Vibes, Oceanic](https://open.spotify.com/album/4DqKZBow5uuKTQQiDoSjTF) | 3:11 | 2022-05-11 | 2022-12-16 |
 | [Cream Dream](https://open.spotify.com/track/3zwMPISRsuNGPyxARsLHkj) | [TrophyCat](https://open.spotify.com/artist/09s92QI9omMEfLrS2TcCKK) | [Cream Dream](https://open.spotify.com/album/7821Pdd8Mo29Hcf8eBGPBj) | 3:16 | 2022-05-11 |  |
 | [Cristal Love](https://open.spotify.com/track/056ve9qgYBqfAadX29x9ds) | [En Sokum](https://open.spotify.com/artist/3RjGXbgDR40y0ZzZhCACfF) | [Cristal Love](https://open.spotify.com/album/5sIhEUT8XBrUpdIsFkXkjK) | 3:37 | 2022-12-21 |  |
+| [Dance with me](https://open.spotify.com/track/5FjWYxObr9sutnoyn0zFg2) | [Yein](https://open.spotify.com/artist/3mZkPqzEdMYwaKSQSd2lJQ) | [Dance with me](https://open.spotify.com/album/5Sc06S5Xx70hzYNyOlUT68) | 3:30 | 2024-09-11 |  |
 | [Dawn](https://open.spotify.com/track/7mE4LGndCfJwJLAzd6KU5M) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Dawn](https://open.spotify.com/album/3vFZZ2VReaSF8S1IaoyYZA) | 4:01 | 2022-07-04 | 2024-05-16 |
 | [DAYDREAM](https://open.spotify.com/track/19vNcjcAM9KC7ykx9V6eBy) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [BLOOM\*IZ](https://open.spotify.com/album/5dm3PMCHxTSOdDFZ1hlfMm) | 3:23 | 2022-07-22 | 2024-04-19 |
 | [DAYDREAM](https://open.spotify.com/track/4qj6sQ5Y3tY4MIEEzqGLhT) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [BLOOM\*IZ](https://open.spotify.com/album/4yAAAWwN4WaxefmncjDsMw) | 3:23 | 2022-05-11 | 2022-06-30 |
@@ -155,7 +156,7 @@
 | [It's Beautiful Digging Club Seoul Version](https://open.spotify.com/track/6jMhNF4hbbB8zr7ugpksLe) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Onstage Digging Club Seoul Pt\. 3](https://open.spotify.com/album/1wODyT1p1d1XjvwMqIChsM) | 3:54 | 2022-05-11 | 2022-07-29 |
 | [It\`s Been A While \(Maxim City Summer Life c.f\)](https://open.spotify.com/track/6bsLkQX7R4JZdROpG9EmVl) | [Kim Hyun Chul](https://open.spotify.com/artist/39Jf69SNjTiIQfCQyLh4Gb) | [The Line](https://open.spotify.com/album/2Tx44eXDJWizJFcVXceY29) | 3:23 | 2022-05-11 |  |
 | [I’m not good at](https://open.spotify.com/track/0lpvVtvprYHA8L0uBYTFtS) | [Mitty](https://open.spotify.com/artist/1RyHoiUL5MomO7N7kzgZjQ) | [I’m not good at](https://open.spotify.com/album/7rTw76epZxmCpniX4WVDjc) | 3:43 | 2024-02-07 |  |
-| [I′m Alright](https://open.spotify.com/track/1EmSHvEUIwjzJOHXSXNhzj) | [QUDO](https://open.spotify.com/artist/5tlKesRTuMzjFhGMxoDRqf), [Sehwan Hong](https://open.spotify.com/artist/3djMK9mGuqKGYH4h9putId) | [INCHEON CITYPOP Vol\. 1](https://open.spotify.com/album/73rd6npj17FEsbxfNfEdJH) | 3:46 | 2022-05-11 |  |
+| [I′m Alright](https://open.spotify.com/track/1EmSHvEUIwjzJOHXSXNhzj) | [QUDO](https://open.spotify.com/artist/5tlKesRTuMzjFhGMxoDRqf), [Sehwan Hong](https://open.spotify.com/artist/3djMK9mGuqKGYH4h9putId) | [INCHEON CITYPOP Vol\. 1](https://open.spotify.com/album/73rd6npj17FEsbxfNfEdJH) | 3:46 | 2022-05-11 | 2024-09-12 |
 | [Jam Jam](https://open.spotify.com/track/3h7WIL3B6nP3171zl6HWj8) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Palette](https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp) | 3:38 | 2022-05-11 |  |
 | [Kona \(feat\. Jennifer Choi\)](https://open.spotify.com/track/2gw0RI5FJUgLHZuyLFYAvx) | [90yonge St.](https://open.spotify.com/artist/1eJGTmb81YxxbykvAezg2r), [Jennifer Choi](https://open.spotify.com/artist/3W2mgO6CNMSZc9qD4J6nJQ) | [Kona \(feat\. Jennifer Choi\)](https://open.spotify.com/album/2O6Q3bYc8H7mi2NkED3LA7) | 3:35 | 2022-05-11 |  |
 | [Ladies Night](https://open.spotify.com/track/73pkNaWK4N5QfkjabwW40s) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival’ Day 2](https://open.spotify.com/album/3DXz6ItR9DzIw9S0h3Cxfc) | 3:56 | 2022-05-11 |  |
@@ -179,7 +180,7 @@
 | [LOVE GAME](https://open.spotify.com/track/5Wa52f7Nem1sQSmpGylpsL) | [Iris 아이리스](https://open.spotify.com/artist/5qPEsDaKe3GFxuTXckfAad) | [LOVE GAME](https://open.spotify.com/album/0WCVzEaKrHPONMERGDE7Ui) | 3:02 | 2022-05-11 | 2022-07-25 |
 | [Love in TV World](https://open.spotify.com/track/71gxvSj62Daqer8F57b22C) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [Love in TV World](https://open.spotify.com/album/0xlWI9eLVuAkMEZqMpklOZ) | 4:03 | 2022-05-11 |  |
 | [Love Note!](https://open.spotify.com/track/0NfXZxnw1e6HdEJzcoWVzF) | [Nahee](https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD) | [Love Note!](https://open.spotify.com/album/01moeo0CfiDeWL7irbhlEq) | 3:14 | 2022-07-13 |  |
-| [LOVE SEEKER](https://open.spotify.com/track/35lDSBBNjB8chnTjMrmzYQ) | [JD](https://open.spotify.com/artist/6BJ76jC5b2bwoRVKrJg2qW) | [LOVE SEEKER](https://open.spotify.com/album/28G2KFtO10rs5ohSIuNdTb) | 3:26 | 2022-05-11 |  |
+| [LOVE SEEKER](https://open.spotify.com/track/35lDSBBNjB8chnTjMrmzYQ) | [JD](https://open.spotify.com/artist/6BJ76jC5b2bwoRVKrJg2qW) | [LOVE SEEKER](https://open.spotify.com/album/28G2KFtO10rs5ohSIuNdTb) | 3:26 | 2022-05-11 | 2024-09-12 |
 | [Love Story](https://open.spotify.com/track/4BtcmECLsMxurQobTp932q) | [Kim Areum](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [WINTER CITY](https://open.spotify.com/album/34684YNjQKgceU3s6D9bx9) | 4:01 | 2022-05-11 | 2022-07-14 |
 | [Love visible](https://open.spotify.com/track/0Oc6ktffxcdpFKfKYqLfxk) | [aiai](https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl) | [Love visible](https://open.spotify.com/album/3dmMH1i3mcYmt4BJTIr3Dg) | 3:05 | 2023-07-13 |  |
 | [Loveholic](https://open.spotify.com/track/6ti3JvY3ZSdqvTA7PaSA1e) | [LIM JIMIN](https://open.spotify.com/artist/6MR6N2h4KSNmJ26OSrROYh) | [MINI](https://open.spotify.com/album/74DqQrYGTSS6NfqZY7Vml0) | 3:07 | 2022-05-11 |  |
@@ -228,6 +229,7 @@
 | [Our love like tonight](https://open.spotify.com/track/5qtYh6ZnzFGwwwJ8BknAsx) | [SOOIN](https://open.spotify.com/artist/1DxQgqC0FRx2RkiGAlXNPb) | [Our love like tonight](https://open.spotify.com/album/54q8WeKHUNWYOvTvMLmy6x) | 4:00 | 2022-05-11 | 2024-08-28 |
 | [Paradise](https://open.spotify.com/track/5dl4insuwy9dfDw3Co0fKO) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND The 7th Mini Album \`FEVER SEASON\`](https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR) | 3:14 | 2022-05-11 | 2024-08-14 |
 | [Passing Light](https://open.spotify.com/track/0eXreZ3kZDgnqhvgXz6Mav) | [NO\_ON](https://open.spotify.com/artist/44CBCqoh0b32RmvSVB5Jiz) | [Passing](https://open.spotify.com/album/5oUO7dUg3pRcaO5SnpLef3) | 2:59 | 2022-05-11 |  |
+| [Pier](https://open.spotify.com/track/1X2LxOHifIksEnDHUTlXCo) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0) | [Pier](https://open.spotify.com/album/12A6nMaKXm2zLGxzLA6UDd) | 2:54 | 2024-09-11 |  |
 | [Pixel](https://open.spotify.com/track/3cuofWllYn8kBdMGVrvPTI) | [Swing](https://open.spotify.com/artist/66bVJmfvszO59SwBAc4z9W), [LiYoon](https://open.spotify.com/artist/6MAEen0SL68c1kJ7Ylaxvn) | [Pixel](https://open.spotify.com/album/3smEGBtxcckJh80i2BA3Ml) | 3:28 | 2022-05-11 | 2024-06-04 |
 | [Plastic Candy](https://open.spotify.com/track/1MxLhOFpRp0XgVgIV9Yakr) | [HaSeul](https://open.spotify.com/artist/5clV5I50OxxG9JGGxeW0C9) | [Plastic Candy](https://open.spotify.com/album/6H85pl4CetdaJl4wNlzXoJ) | 3:34 | 2023-11-02 |  |
 | [Plastic Candy](https://open.spotify.com/track/2IXvqQDvcXYQW2QiACph6B) | [HaSeul](https://open.spotify.com/artist/5clV5I50OxxG9JGGxeW0C9) | [Plastic Candy](https://open.spotify.com/album/2mwOcK4A3O3x9fxpjyFGxW) | 3:34 | 2024-03-29 | 2024-04-19 |

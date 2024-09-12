@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Mltk4BtiL.md) - [plain]
 
 > Nur tote Fische schwimmen mit dem Strom\. Cover: Yu
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,635 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,653 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Mltk4BtiL.md) - [plain]
 | 36 | [Stures dummes Herz](https://open.spotify.com/track/2Jw8Ij0rDWuUDKvkktFzrO) | [TRÄNEN](https://open.spotify.com/artist/4NKHTY0ghFbhkFwl29BxMD) | [Stures dummes Herz](https://open.spotify.com/album/7iTZebDTdiXQC4uluRWoxi) | 2:56 |
 | 37 | [Achtung Fragile](https://open.spotify.com/track/6Mc07uFlXtFxqBDMv1He0f) | [Tropikel Ltd](https://open.spotify.com/artist/15VagIVEAdYm95xs0ayi1x) | [Achtung Fragile](https://open.spotify.com/album/4Suc6drXFcuMj1IofmJeV9) | 2:27 |
 | 38 | [Das Neue Normal](https://open.spotify.com/track/4JZzUgcFrkWisEO1yirDj7) | [ok.danke.tschüss](https://open.spotify.com/artist/73SW9LnBmuff938R5ZbqK4) | [Das Neue Normal](https://open.spotify.com/album/6X5diaWcPFGcsNMjwnWZdC) | 3:33 |
-| 39 | [Therapie](https://open.spotify.com/track/0qDvx4nKq97cNYR3udSFBj) | [Wanda](https://open.spotify.com/artist/6Kg9EvjSnEm5swmrvWCJyB) | [Therapie](https://open.spotify.com/album/42NQ4ja4LsyTICmR1tL3vC) | 2:46 |
-| 40 | [Muttertag](https://open.spotify.com/track/2Fk9KaQrSDCjOBYxcnQmFw) | [Antilopen Gang](https://open.spotify.com/artist/1HORQCHE3Q4m0tAKiRsIAB) | [Muttertag](https://open.spotify.com/album/6gNgUadu6BYTDHjuBx6GWN) | 1:06 |
+| 39 | [Muttertag](https://open.spotify.com/track/2Fk9KaQrSDCjOBYxcnQmFw) | [Antilopen Gang](https://open.spotify.com/artist/1HORQCHE3Q4m0tAKiRsIAB) | [Muttertag](https://open.spotify.com/album/6gNgUadu6BYTDHjuBx6GWN) | 1:06 |
+| 40 | [Therapie](https://open.spotify.com/track/0qDvx4nKq97cNYR3udSFBj) | [Wanda](https://open.spotify.com/artist/6Kg9EvjSnEm5swmrvWCJyB) | [Therapie](https://open.spotify.com/album/42NQ4ja4LsyTICmR1tL3vC) | 2:46 |
 | 41 | [Der Weg zu zweit](https://open.spotify.com/track/1m5sm7IfjJzHWBDsK2FC0r) | [Frittenbude](https://open.spotify.com/artist/7jy0nL3F5ehHJxXYMBImkk) | [Der Weg zu zweit](https://open.spotify.com/album/2oDEOQhPicIKRZ19vWOwF1) | 2:32 |
 | 42 | [Mensch am Mond](https://open.spotify.com/track/3ztlPP5pc0ZiX2Oa4YBYjx) | [Leftovers](https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI) | [Mensch am Mond](https://open.spotify.com/album/7zASnixcrPirKFIjhAwmXu) | 3:05 |
 | 43 | [Van Noten \- Live](https://open.spotify.com/track/1BcilPuV8RJ3mtGvTUC1Xv) | [Faber](https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM) | [Orpheum \(Live\)](https://open.spotify.com/album/70leZm9lR2a4sa7H3eP3qo) | 4:21 |

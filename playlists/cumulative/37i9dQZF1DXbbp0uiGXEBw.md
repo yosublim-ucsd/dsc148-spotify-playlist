@@ -2,7 +2,7 @@
 
 ### [EQUAL Vietnam](https://open.spotify.com/playlist/37i9dQZF1DXbbp0uiGXEBw)
 
-> Cùng Phương Mỹ Chi tôn vinh tài năng và âm nhạc của những nữ nghệ sĩ Việt.
+> Tôn vinh tài năng và âm nhạc của những nữ nghệ sĩ Việt\. Ảnh bìa: Phùng Khánh Linh
 
 276 songs - 17 hr 45 min
 

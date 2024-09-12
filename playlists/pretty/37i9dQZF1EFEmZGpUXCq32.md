@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmZGpUXCq32.md) - [plain]
 | 38 | [Ecstasy](https://open.spotify.com/track/52JtIQpkzgcNLmDoDBHuTp) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Operation Funk](https://open.spotify.com/album/5LOlSBya1sfbXDP53KK2A3) | 2:13 |
 | 39 | [Takes All Time](https://open.spotify.com/track/5pymHGITzflbYApm8qZfGx) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx) | [Art of Love](https://open.spotify.com/album/7GmZgoldBKNdXMNqq0llGh) | 5:03 |
 | 40 | [Just a Word](https://open.spotify.com/track/19WtCpTdybCtlBoWQhQksl) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Art of Love](https://open.spotify.com/album/7GmZgoldBKNdXMNqq0llGh) | 6:29 |
-| 41 | [Something New](https://open.spotify.com/track/2ljyUaG67Vl02atLDM5Bme) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Operation Funk](https://open.spotify.com/album/5LOlSBya1sfbXDP53KK2A3) | 6:02 |
-| 42 | [Therapy](https://open.spotify.com/track/75FQnbNzIeX9QAl21BEnKI) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Alexander Technique](https://open.spotify.com/album/5HSZsS7TGsyMvur547zjVe) | 4:05 |
+| 41 | [Therapy](https://open.spotify.com/track/75FQnbNzIeX9QAl21BEnKI) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Alexander Technique](https://open.spotify.com/album/5HSZsS7TGsyMvur547zjVe) | 4:05 |
+| 42 | [Something New](https://open.spotify.com/track/2ljyUaG67Vl02atLDM5Bme) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Operation Funk](https://open.spotify.com/album/5LOlSBya1sfbXDP53KK2A3) | 6:02 |
 | 43 | [Gotcha Now Doc](https://open.spotify.com/track/5Zo2dogaQhNGoabGLHr4rG) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Gotcha Now Doc](https://open.spotify.com/album/7pHAuTN3sOfBQyouX96uOd) | 6:47 |
 | 44 | [Heart at Midnight](https://open.spotify.com/track/69BZZFF0H84XW4rA5EKzdW) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Gotcha Now Doc](https://open.spotify.com/album/7pHAuTN3sOfBQyouX96uOd) | 6:59 |
 | 45 | [What I Want](https://open.spotify.com/track/6F3XmjeZAABXispoA3Qumm) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Operation Funk](https://open.spotify.com/album/5LOlSBya1sfbXDP53KK2A3) | 2:58 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmZGpUXCq32.md) - [plain]
 | 93 | [Clouds](https://open.spotify.com/track/60TSgKaHNHHa3aeniLVP84) | [Jairus Mozee](https://open.spotify.com/artist/77leQnJv5gxe4Nm3LvDYiG) | [San Pedro](https://open.spotify.com/album/1D4pVBPfFAvG3j1TElDHAy) | 6:31 |
 | 94 | [Offering Song Address](https://open.spotify.com/track/4VotLKO4qyqCJqI75bAiFQ) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 0:18 |
 
-Snapshot ID: `AbbzSgAAAAAFFjevmrG1F6QZvHZtvR05`
+Snapshot ID: `Abb46gAAAACzZS6kRoITNMME5AvQ8fp4`

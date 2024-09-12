@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > Inspired by African drums..\. welcome to the function\. Cover: Spice 🇯🇲
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,522 likes - 99 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,544 likes - 99 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

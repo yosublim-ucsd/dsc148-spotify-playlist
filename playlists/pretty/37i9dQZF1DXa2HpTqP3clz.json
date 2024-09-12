@@ -1,6 +1,6 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Dan Tyminski",
-  "num_followers": 163583,
+  "num_followers": 163601,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
@@ -403,18 +403,18 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "The Light We Bring",
-        "url": "https://open.spotify.com/album/4kXe7lBb8ppsa1DOjc7XaP"
+        "name": "Black Banjo",
+        "url": "https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2"
       },
       "artists": [
         {
-          "name": "Trout Steak Revival",
-          "url": "https://open.spotify.com/artist/7gf4unCQOlGg7UD38XzqPd"
+          "name": "Tray Wellington",
+          "url": "https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh"
         }
       ],
-      "duration_ms": 207319,
-      "name": "The Heart Wants",
-      "url": "https://open.spotify.com/track/6Cta5wxn6czqEtNu6kwg2t"
+      "duration_ms": 198478,
+      "name": "Crooked Mind",
+      "url": "https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -467,18 +467,18 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Black Banjo",
-        "url": "https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2"
+        "name": "The Light We Bring",
+        "url": "https://open.spotify.com/album/4kXe7lBb8ppsa1DOjc7XaP"
       },
       "artists": [
         {
-          "name": "Tray Wellington",
-          "url": "https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh"
+          "name": "Trout Steak Revival",
+          "url": "https://open.spotify.com/artist/7gf4unCQOlGg7UD38XzqPd"
         }
       ],
-      "duration_ms": 198478,
-      "name": "Crooked Mind",
-      "url": "https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g"
+      "duration_ms": 207319,
+      "name": "The Heart Wants",
+      "url": "https://open.spotify.com/track/6Cta5wxn6czqEtNu6kwg2t"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "The Whole of the Moon",
-        "url": "https://open.spotify.com/album/6q6ny6rMWxwRnPWI3AScqC"
-      },
-      "artists": [
-        {
-          "name": "The Travelin' McCourys",
-          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
-        }
-      ],
-      "duration_ms": 282794,
-      "name": "The Whole of the Moon",
-      "url": "https://open.spotify.com/track/4TGWzN6QyzwIPAPCzgjjfs"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
         "name": "Heading East to West Virginia",
         "url": "https://open.spotify.com/album/7LHuigW10cgAx81EuO2AVX"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 156536,
       "name": "Heading East to West Virginia",
       "url": "https://open.spotify.com/track/1UXOHhE9f2YG46Vj4p3xgr"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "The Whole of the Moon",
+        "url": "https://open.spotify.com/album/6q6ny6rMWxwRnPWI3AScqC"
+      },
+      "artists": [
+        {
+          "name": "The Travelin' McCourys",
+          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
+        }
+      ],
+      "duration_ms": 282794,
+      "name": "The Whole of the Moon",
+      "url": "https://open.spotify.com/track/4TGWzN6QyzwIPAPCzgjjfs"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -815,6 +815,22 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
+        "name": "Morning Shift",
+        "url": "https://open.spotify.com/album/5AK94KLNpCTGCWf0r23UQn"
+      },
+      "artists": [
+        {
+          "name": "Steep Canyon Rangers",
+          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
+        }
+      ],
+      "duration_ms": 263216,
+      "name": "Morning Shift",
+      "url": "https://open.spotify.com/track/5LzygrOCvpNbLguxfOGWPD"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
         "name": "Get Lost",
         "url": "https://open.spotify.com/album/0fKAf9b8w95vvx189vGbPM"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 267954,
       "name": "Get Lost",
       "url": "https://open.spotify.com/track/2xoQ9YNPQLEB4U0CluiqMF"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Morning Shift",
-        "url": "https://open.spotify.com/album/5AK94KLNpCTGCWf0r23UQn"
-      },
-      "artists": [
-        {
-          "name": "Steep Canyon Rangers",
-          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
-        }
-      ],
-      "duration_ms": 263216,
-      "name": "Morning Shift",
-      "url": "https://open.spotify.com/track/5LzygrOCvpNbLguxfOGWPD"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
+        "name": "Runaway Train",
+        "url": "https://open.spotify.com/album/1nbbNARDrBRmOD8vEgvEgT"
+      },
+      "artists": [
+        {
+          "name": "The Travelin' McCourys",
+          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
+        }
+      ],
+      "duration_ms": 260493,
+      "name": "Runaway Train",
+      "url": "https://open.spotify.com/track/4d2JF1jbiEmOhZhSg9qFBN"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
         "name": "Memory Lane",
         "url": "https://open.spotify.com/album/0eO2euXynsfsom5xOmq2yP"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 226466,
       "name": "Old Gods",
       "url": "https://open.spotify.com/track/7vp3GZh0b4cgqKZcuVEpbD"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Runaway Train",
-        "url": "https://open.spotify.com/album/1nbbNARDrBRmOD8vEgvEgT"
-      },
-      "artists": [
-        {
-          "name": "The Travelin' McCourys",
-          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
-        }
-      ],
-      "duration_ms": 260493,
-      "name": "Runaway Train",
-      "url": "https://open.spotify.com/track/4d2JF1jbiEmOhZhSg9qFBN"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "No Fear",
-        "url": "https://open.spotify.com/album/7h6jcDbRnEgGckNmHETnxS"
-      },
-      "artists": [
-        {
-          "name": "Sister Sadie",
-          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Cannonball",
-      "url": "https://open.spotify.com/track/1O3PgBXag8FXqk0s7gFQ3A"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
         "name": "White Line Fever",
         "url": "https://open.spotify.com/album/5h6xmbk0GucwMFn6M6irAL"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 201051,
       "name": "White Line Fever",
       "url": "https://open.spotify.com/track/5m9cwQGKeurtZ5P9CqFo1o"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "No Fear",
+        "url": "https://open.spotify.com/album/7h6jcDbRnEgGckNmHETnxS"
+      },
+      "artists": [
+        {
+          "name": "Sister Sadie",
+          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Cannonball",
+      "url": "https://open.spotify.com/track/1O3PgBXag8FXqk0s7gFQ3A"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1339,6 +1339,26 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
+        "name": "Love Train",
+        "url": "https://open.spotify.com/album/2Xrk8uAG4XkUPuaAmp4tgK"
+      },
+      "artists": [
+        {
+          "name": "Dale Ann Bradley",
+          "url": "https://open.spotify.com/artist/5GbwZNguC7FpXnQlIrTiXm"
+        },
+        {
+          "name": "Rebecca Lynn Howard",
+          "url": "https://open.spotify.com/artist/12bBoCZdPZbBEq1xHT0heD"
+        }
+      ],
+      "duration_ms": 209391,
+      "name": "Love Train",
+      "url": "https://open.spotify.com/track/5vlTEeXibOs10LTl0Ugxkh"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
         "name": "Lovin' Of The Game",
         "url": "https://open.spotify.com/album/6RD7EK5EnsvDTxMbZbFrvg"
       },
@@ -1359,26 +1379,6 @@
       "duration_ms": 191813,
       "name": "Sunny Days (Are Comin' Once Again)",
       "url": "https://open.spotify.com/track/1YvyvvCAgGxxxg5RFG7sL8"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Love Train",
-        "url": "https://open.spotify.com/album/2Xrk8uAG4XkUPuaAmp4tgK"
-      },
-      "artists": [
-        {
-          "name": "Dale Ann Bradley",
-          "url": "https://open.spotify.com/artist/5GbwZNguC7FpXnQlIrTiXm"
-        },
-        {
-          "name": "Rebecca Lynn Howard",
-          "url": "https://open.spotify.com/artist/12bBoCZdPZbBEq1xHT0heD"
-        }
-      ],
-      "duration_ms": 209391,
-      "name": "Love Train",
-      "url": "https://open.spotify.com/track/5vlTEeXibOs10LTl0Ugxkh"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "No Matter Where It Goes from Here",
-        "url": "https://open.spotify.com/album/6ufi2rWxnAnHf103FKlZl5"
-      },
-      "artists": [
-        {
-          "name": "Wood & Wire",
-          "url": "https://open.spotify.com/artist/1OWDk6qANVAXtcAPIhJZEX"
-        }
-      ],
-      "duration_ms": 236666,
-      "name": "My Hometown",
-      "url": "https://open.spotify.com/track/4VHUkYbYdbmqNEK3REHZeN"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
         "name": "Railroadin' & Gamblin'",
         "url": "https://open.spotify.com/album/6d7fThh2fKSgxBt4UelCeb"
       },
@@ -1487,6 +1471,22 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
+        "name": "No Matter Where It Goes from Here",
+        "url": "https://open.spotify.com/album/6ufi2rWxnAnHf103FKlZl5"
+      },
+      "artists": [
+        {
+          "name": "Wood & Wire",
+          "url": "https://open.spotify.com/artist/1OWDk6qANVAXtcAPIhJZEX"
+        }
+      ],
+      "duration_ms": 236666,
+      "name": "My Hometown",
+      "url": "https://open.spotify.com/track/4VHUkYbYdbmqNEK3REHZeN"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
         "name": "This Valley",
         "url": "https://open.spotify.com/album/6plNZDHsm8CBOcAACUBGNo"
       },
@@ -1499,38 +1499,6 @@
       "duration_ms": 255505,
       "name": "This Valley",
       "url": "https://open.spotify.com/track/2KicuYyr7rQBmGKNBTckFH"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Slow Lane",
-        "url": "https://open.spotify.com/album/7HkunE8lcrwmcgGkaRL8Tl"
-      },
-      "artists": [
-        {
-          "name": "Admiral Radio",
-          "url": "https://open.spotify.com/artist/2qpKTCEq8tcqBhSibdDV9v"
-        }
-      ],
-      "duration_ms": 260717,
-      "name": "Slow Lane",
-      "url": "https://open.spotify.com/track/1aPOnucEH1cxH2nZBKp0tJ"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Knee Deep in Bluegrass",
-        "url": "https://open.spotify.com/album/1DwPW07YVEUjtv6g3Q2lfC"
-      },
-      "artists": [
-        {
-          "name": "Ashby Frank",
-          "url": "https://open.spotify.com/artist/1Z3CpFgkHqQNA8F73CgkqT"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Knee Deep in Bluegrass",
-      "url": "https://open.spotify.com/track/1OUD7ceuWPD2DHFXly0voV"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1555,6 +1523,22 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
+        "name": "Slow Lane",
+        "url": "https://open.spotify.com/album/7HkunE8lcrwmcgGkaRL8Tl"
+      },
+      "artists": [
+        {
+          "name": "Admiral Radio",
+          "url": "https://open.spotify.com/artist/2qpKTCEq8tcqBhSibdDV9v"
+        }
+      ],
+      "duration_ms": 260717,
+      "name": "Slow Lane",
+      "url": "https://open.spotify.com/track/1aPOnucEH1cxH2nZBKp0tJ"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
         "name": "Dovetail Cabin",
         "url": "https://open.spotify.com/album/4NjaFWxCAdlf9b4DWLKk5u"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 172533,
       "name": "Dovetail Cabin",
       "url": "https://open.spotify.com/track/5nAmwwchqC5sJSwdMRbLWN"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Knee Deep in Bluegrass",
+        "url": "https://open.spotify.com/album/1DwPW07YVEUjtv6g3Q2lfC"
+      },
+      "artists": [
+        {
+          "name": "Ashby Frank",
+          "url": "https://open.spotify.com/artist/1Z3CpFgkHqQNA8F73CgkqT"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Knee Deep in Bluegrass",
+      "url": "https://open.spotify.com/track/1OUD7ceuWPD2DHFXly0voV"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
+        "name": "Rhinestone Revival",
+        "url": "https://open.spotify.com/album/7cblTcbIValrJcdwLdUDvv"
+      },
+      "artists": [
+        {
+          "name": "The Kody Norris Show",
+          "url": "https://open.spotify.com/artist/0l64ISwwNK0l6H3R1bwRha"
+        }
+      ],
+      "duration_ms": 169976,
+      "name": "Let All the Girls Know You're a Cowboy",
+      "url": "https://open.spotify.com/track/3HdHado8GvBIqOBMiGnvvL"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
         "name": "Snake Charmer",
         "url": "https://open.spotify.com/album/2UH01cDPXCH1ln2zcn08Vc"
       },
@@ -1667,18 +1683,18 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Rhinestone Revival",
-        "url": "https://open.spotify.com/album/7cblTcbIValrJcdwLdUDvv"
+        "name": "As the Crow Flies",
+        "url": "https://open.spotify.com/album/2z8ZzHSCHFi0UWjSdqmqg5"
       },
       "artists": [
         {
-          "name": "The Kody Norris Show",
-          "url": "https://open.spotify.com/artist/0l64ISwwNK0l6H3R1bwRha"
+          "name": "Green Mountain Grass",
+          "url": "https://open.spotify.com/artist/1i5eYanA9k3jyo0RfZUIwn"
         }
       ],
-      "duration_ms": 169976,
-      "name": "Let All the Girls Know You're a Cowboy",
-      "url": "https://open.spotify.com/track/3HdHado8GvBIqOBMiGnvvL"
+      "duration_ms": 206373,
+      "name": "The Banker",
+      "url": "https://open.spotify.com/track/0wKrA8JpLv4NHNXIpKA8h7"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1711,22 +1727,6 @@
       "duration_ms": 190764,
       "name": "Hillside",
       "url": "https://open.spotify.com/track/2PwYgS3wfBVsHAAfhAiAOx"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "As the Crow Flies",
-        "url": "https://open.spotify.com/album/2z8ZzHSCHFi0UWjSdqmqg5"
-      },
-      "artists": [
-        {
-          "name": "Green Mountain Grass",
-          "url": "https://open.spotify.com/artist/1i5eYanA9k3jyo0RfZUIwn"
-        }
-      ],
-      "duration_ms": 206373,
-      "name": "The Banker",
-      "url": "https://open.spotify.com/track/0wKrA8JpLv4NHNXIpKA8h7"
     },
     {
       "added_at": "2024-08-16 04:00:00",

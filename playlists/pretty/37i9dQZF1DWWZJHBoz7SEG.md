@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Arranca el Mes Patrio con nueva música, y sus chilitos en nogada! ¡Arre! 🇲🇽🎉 Grupo Frontera y Gabito Ballesteros en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 862,962 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 863,219 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

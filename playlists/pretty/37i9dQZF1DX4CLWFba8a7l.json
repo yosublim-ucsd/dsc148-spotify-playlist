@@ -1,6 +1,6 @@
 {
   "description": "The home of Australian music. Cover: Royel Otis",
-  "num_followers": 121441,
+  "num_followers": 121447,
   "original_name": "The Local List",
   "owner": {
     "name": "Spotify",
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/3fdSaSpVjuR85yKGiGivd3"
+      },
+      "artists": [
+        {
+          "name": "Keenan Te",
+          "url": "https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/2QhqQtwYBua9polldlrK8W"
+    },
+    {
+      "added_at": "2024-08-30 00:24:34",
+      "album": {
         "name": "Date Night (feat. Morgan Evans)",
         "url": "https://open.spotify.com/album/3bAFWQJ9npu4hqjxkpDRYN"
       },
@@ -811,22 +827,6 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/3fdSaSpVjuR85yKGiGivd3"
-      },
-      "artists": [
-        {
-          "name": "Keenan Te",
-          "url": "https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/2QhqQtwYBua9polldlrK8W"
-    },
-    {
-      "added_at": "2024-08-30 00:24:34",
-      "album": {
         "name": "All Your Life",
         "url": "https://open.spotify.com/album/0MeJsDdKFpqVgGX2GqSaXu"
       },
@@ -859,6 +859,22 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
+        "name": "Rebuild Repeat",
+        "url": "https://open.spotify.com/album/57C0DIbkSWXRJMUx5xHTox"
+      },
+      "artists": [
+        {
+          "name": "Hockey Dad",
+          "url": "https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2"
+        }
+      ],
+      "duration_ms": 145197,
+      "name": "Wreck & Ruin",
+      "url": "https://open.spotify.com/track/5HFUDvGysoyCcbPTG4UbYv"
+    },
+    {
+      "added_at": "2024-08-30 00:24:34",
+      "album": {
         "name": "Stop Thinking Start Feeling",
         "url": "https://open.spotify.com/album/1m3JuJHtgpkuoMFtxCpoSS"
       },
@@ -879,18 +895,18 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
-        "name": "Rebuild Repeat",
-        "url": "https://open.spotify.com/album/57C0DIbkSWXRJMUx5xHTox"
+        "name": "Like A Girl Does",
+        "url": "https://open.spotify.com/album/5IktkodoE8Wr2heQRXyBfW"
       },
       "artists": [
         {
-          "name": "Hockey Dad",
-          "url": "https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2"
+          "name": "Peach PRC",
+          "url": "https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS"
         }
       ],
-      "duration_ms": 145197,
-      "name": "Wreck & Ruin",
-      "url": "https://open.spotify.com/track/5HFUDvGysoyCcbPTG4UbYv"
+      "duration_ms": 172427,
+      "name": "Like A Girl Does",
+      "url": "https://open.spotify.com/track/46jKlwucqKdKZR0cPLE4QD"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -911,22 +927,6 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
-        "name": "Touchy Subject",
-        "url": "https://open.spotify.com/album/7E6LnPGLCbh5yZMb5sjWEk"
-      },
-      "artists": [
-        {
-          "name": "Peach PRC",
-          "url": "https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS"
-        }
-      ],
-      "duration_ms": 227142,
-      "name": "Touchy Subject",
-      "url": "https://open.spotify.com/track/5oquffCDI8BAXP7jBewlll"
-    },
-    {
-      "added_at": "2024-08-30 00:24:34",
-      "album": {
         "name": "Enough Of The Sweet Talk",
         "url": "https://open.spotify.com/album/7Cmagko6o1A7RXCWkauw2B"
       },
@@ -939,22 +939,6 @@
       "duration_ms": 240137,
       "name": "Enough Of The Sweet Talk",
       "url": "https://open.spotify.com/track/3QOV1bCaYukb1rUAVP2f6x"
-    },
-    {
-      "added_at": "2024-08-30 00:24:34",
-      "album": {
-        "name": "Field of Vision",
-        "url": "https://open.spotify.com/album/1WzXtuf2SaxT3CsPFrf8d0"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 215235,
-      "name": "Field of Vision",
-      "url": "https://open.spotify.com/track/1DXFQFDYeOW3cZPam0LXTd"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -975,6 +959,38 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
+        "name": "Field of Vision",
+        "url": "https://open.spotify.com/album/1WzXtuf2SaxT3CsPFrf8d0"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 215235,
+      "name": "Field of Vision",
+      "url": "https://open.spotify.com/track/1DXFQFDYeOW3cZPam0LXTd"
+    },
+    {
+      "added_at": "2024-08-30 00:24:34",
+      "album": {
+        "name": "Snack",
+        "url": "https://open.spotify.com/album/4SWIlkB6B9Vh8en9NyVhcg"
+      },
+      "artists": [
+        {
+          "name": "Ivan Ooze",
+          "url": "https://open.spotify.com/artist/3ZIlpGT2OUwyvxiCWJhIel"
+        }
+      ],
+      "duration_ms": 153726,
+      "name": "Snack",
+      "url": "https://open.spotify.com/track/1foj3wbUlhrF4CVu3IBpFY"
+    },
+    {
+      "added_at": "2024-08-30 00:24:34",
+      "album": {
         "name": "Cat 5 (Cyclone)",
         "url": "https://open.spotify.com/album/78oKhBMFr6esRAKFwd0vH8"
       },
@@ -987,6 +1003,22 @@
       "duration_ms": 222154,
       "name": "Cat 5 (Cyclone)",
       "url": "https://open.spotify.com/track/4y1xuzfAT8uUvBBjn6N7wg"
+    },
+    {
+      "added_at": "2024-08-30 00:24:34",
+      "album": {
+        "name": "Touchy Subject",
+        "url": "https://open.spotify.com/album/7E6LnPGLCbh5yZMb5sjWEk"
+      },
+      "artists": [
+        {
+          "name": "Peach PRC",
+          "url": "https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS"
+        }
+      ],
+      "duration_ms": 227142,
+      "name": "Touchy Subject",
+      "url": "https://open.spotify.com/track/5oquffCDI8BAXP7jBewlll"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -1011,22 +1043,6 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
-        "name": "Snack",
-        "url": "https://open.spotify.com/album/4SWIlkB6B9Vh8en9NyVhcg"
-      },
-      "artists": [
-        {
-          "name": "Ivan Ooze",
-          "url": "https://open.spotify.com/artist/3ZIlpGT2OUwyvxiCWJhIel"
-        }
-      ],
-      "duration_ms": 153726,
-      "name": "Snack",
-      "url": "https://open.spotify.com/track/1foj3wbUlhrF4CVu3IBpFY"
-    },
-    {
-      "added_at": "2024-08-30 00:24:34",
-      "album": {
         "name": "Still Have Room",
         "url": "https://open.spotify.com/album/1GmmNjn5tr3pb4ka13c9V1"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 142584,
       "name": "Still Have Room",
       "url": "https://open.spotify.com/track/1CqISEsTc9TDUDyfAtJNmc"
-    },
-    {
-      "added_at": "2024-08-30 00:24:34",
-      "album": {
-        "name": "Like A Girl Does",
-        "url": "https://open.spotify.com/album/5IktkodoE8Wr2heQRXyBfW"
-      },
-      "artists": [
-        {
-          "name": "Peach PRC",
-          "url": "https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS"
-        }
-      ],
-      "duration_ms": 172427,
-      "name": "Like A Girl Does",
-      "url": "https://open.spotify.com/track/46jKlwucqKdKZR0cPLE4QD"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
-        "name": "Losing You",
-        "url": "https://open.spotify.com/album/59w7Rg3eP50OaWrVf1UTnP"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 215331,
-      "name": "Losing You",
-      "url": "https://open.spotify.com/track/68LvDxBvNPKsWmbQ8VNkCe"
-    },
-    {
-      "added_at": "2024-08-30 00:24:34",
-      "album": {
         "name": "Time Will Try",
         "url": "https://open.spotify.com/album/1lOZkHSqxR1hQrf3dzFVKs"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 258600,
       "name": "Time Will Try",
       "url": "https://open.spotify.com/track/69XAsJo6c9KBDc7vNYgT9A"
+    },
+    {
+      "added_at": "2024-08-30 00:24:34",
+      "album": {
+        "name": "Losing You",
+        "url": "https://open.spotify.com/album/59w7Rg3eP50OaWrVf1UTnP"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 215331,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/68LvDxBvNPKsWmbQ8VNkCe"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
+        "name": "Nobody's Baby",
+        "url": "https://open.spotify.com/album/6AyXzG3yU8Xm9IFYS15Fdu"
+      },
+      "artists": [
+        {
+          "name": "Thelma Plum",
+          "url": "https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC"
+        }
+      ],
+      "duration_ms": 155322,
+      "name": "Nobody's Baby",
+      "url": "https://open.spotify.com/track/1Hb6xEZ9eEmalnpNoPTwcc"
+    },
+    {
+      "added_at": "2024-08-30 00:24:34",
+      "album": {
         "name": "I Wish I Never Loved You",
         "url": "https://open.spotify.com/album/51JOrvXnoXJHBNBgHlntJA"
       },
@@ -1219,18 +1235,18 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
-        "name": "Nobody's Baby",
-        "url": "https://open.spotify.com/album/6AyXzG3yU8Xm9IFYS15Fdu"
+        "name": "Good Girl",
+        "url": "https://open.spotify.com/album/15SbOZBDcS9JVtxaiOnpVd"
       },
       "artists": [
         {
-          "name": "Thelma Plum",
-          "url": "https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC"
+          "name": "Jerome Farah",
+          "url": "https://open.spotify.com/artist/4a1J1CCs8vldNEl3MPsBPw"
         }
       ],
-      "duration_ms": 155322,
-      "name": "Nobody's Baby",
-      "url": "https://open.spotify.com/track/1Hb6xEZ9eEmalnpNoPTwcc"
+      "duration_ms": 232978,
+      "name": "Good Girl",
+      "url": "https://open.spotify.com/track/7CFflcTpnR5RGtxnSHlMPk"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -1263,22 +1279,6 @@
       "duration_ms": 229464,
       "name": "Australia",
       "url": "https://open.spotify.com/track/0qiHOHIkb4UEoxpKq6WhVZ"
-    },
-    {
-      "added_at": "2024-08-30 00:24:34",
-      "album": {
-        "name": "Crystal Ball",
-        "url": "https://open.spotify.com/album/19smqXXtyEGibAtZX7clTy"
-      },
-      "artists": [
-        {
-          "name": "Wafia",
-          "url": "https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U"
-        }
-      ],
-      "duration_ms": 173644,
-      "name": "Crystal Ball",
-      "url": "https://open.spotify.com/track/5nr1Ndcw55fBJ002iTUJVJ"
     }
   ],
   "unique_name": "The Local List",

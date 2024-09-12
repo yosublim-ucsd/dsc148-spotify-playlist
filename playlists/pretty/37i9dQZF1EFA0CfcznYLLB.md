@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC">Murda Beatz</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,791 likes - 312 songs - 16 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,790 likes - 312 songs - 16 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -235,9 +235,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 225 | [Get Em In \(Mango Foo, Offset\)](https://open.spotify.com/track/5KD7Le9Mt7dclKEMawarAi) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Mango Foo](https://open.spotify.com/artist/7FRSHbAPSN9RLPSsh2a2rV), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Quality Control: Control The Streets Volume 2](https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9) | 3:42 |
 | 226 | [Faya \(feat\. Maestro & Sav12\)](https://open.spotify.com/track/4VraVj9PLgutKC1NEonOxO) | [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F), [Maestro](https://open.spotify.com/artist/2lpwUyI6sHgmh1DpEcKYIa), [Sav12](https://open.spotify.com/artist/3lDgENYLh2dJYNblkop2PT) | [RIOT](https://open.spotify.com/album/3iT9nm6Y0s0peiRwFKLA7f) | 2:40 |
 | 227 | [Right There \(feat\. French Montana\)](https://open.spotify.com/track/087KF38EQhtsztrIypsL8N) | [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [223](https://open.spotify.com/album/3wXTjWYl5lWpPBC3QAxhIO) | 3:00 |
-| 228 | [VIBES ON ME \(feat\. Kodak Black\)](https://open.spotify.com/track/3cc1U9c0maT9xGxy4vOec4) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [NICE GIRLS FINISH LAST: CUIDADO](https://open.spotify.com/album/76VLDGFn8MiyKRIMV2S4J7) | 3:04 |
-| 229 | [Grandiose](https://open.spotify.com/track/2Tl9IbMw4llG7yFzJPyEuN) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Too Good To Be True](https://open.spotify.com/album/1jhGoiKDR41Qa2mzlveJFX) | 2:54 |
-| 230 | [Thank You Come Again](https://open.spotify.com/track/2TzzuP16s181AccGrXcDu7) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [BAMESIS](https://open.spotify.com/album/402aahHNiFYPoNKZRg7GaF) | 2:45 |
+| 228 | [Thank You Come Again](https://open.spotify.com/track/2TzzuP16s181AccGrXcDu7) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [BAMESIS](https://open.spotify.com/album/402aahHNiFYPoNKZRg7GaF) | 2:45 |
+| 229 | [VIBES ON ME \(feat\. Kodak Black\)](https://open.spotify.com/track/3cc1U9c0maT9xGxy4vOec4) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [NICE GIRLS FINISH LAST: CUIDADO](https://open.spotify.com/album/76VLDGFn8MiyKRIMV2S4J7) | 3:04 |
+| 230 | [Grandiose](https://open.spotify.com/track/2Tl9IbMw4llG7yFzJPyEuN) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Too Good To Be True](https://open.spotify.com/album/1jhGoiKDR41Qa2mzlveJFX) | 2:54 |
 | 231 | [Oh No](https://open.spotify.com/track/3luKdBrlAm7wnJqMtqVQjk) | [BRS Kash](https://open.spotify.com/artist/5jJjvmEwRr8epuGZq4eUUa) | [Oh No](https://open.spotify.com/album/0qOUerwZomSGDHIdfyLeTT) | 2:59 |
 | 232 | [Story I Tell](https://open.spotify.com/track/0rBQ9oH3aKp9l88EDD8m8F) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Rich Ni\*\*a Timeline](https://open.spotify.com/album/0lfwxoyCgsqxo6GGBRQc6j) | 3:44 |
 | 233 | [3 Xans \(feat\. Ugly God\)](https://open.spotify.com/track/4qatmhLz28ByJBcgJMUcEt) | [Wifisfuneral](https://open.spotify.com/artist/1vb1XqzyNMQ16BqbxRz5BV), [Ugly God](https://open.spotify.com/artist/3Fdm9TFJQCLmC3AWMuGExi) | [Boy Who Cried Wolf](https://open.spotify.com/album/6jJ98MlrNGUt0FFkPHS0EA) | 1:54 |
@@ -321,4 +321,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 311 | [On God](https://open.spotify.com/track/1rmWQqmKWRtm9bks6Lr0Sp) | [Majin Murda](https://open.spotify.com/artist/7LLv3nfvIIYTqBAV8XjlO9) | [3K](https://open.spotify.com/album/7zjBIckQRALycP2MCWEYUg) | 3:27 |
 | 312 | [Peace Of Mind](https://open.spotify.com/track/6xISF2zBnsQ8SGWT4KmWsC) | [Heightsbaby](https://open.spotify.com/artist/4fEE1O32L50PqVbKhnfkCD) | [Peace Of Mind](https://open.spotify.com/album/1Kqzy0cn7DIKQKkHqTqQD6) | 2:55 |
 
-Snapshot ID: `AbbzVAAAAADltPCgBd0/zGdwnT+vkuHY`
+Snapshot ID: `Abb49AAAAABgRPtbJzNFL2Q6C2c531VR`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TD2wVgaeIq.md) - [plain]
 
 > Beautiful bansuri flute and sitar from India.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,535 likes - 60 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,692 likes - 60 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TD2wVgaeIq.md) - [plain]
 | 35 | [Puriya Dhanashri](https://open.spotify.com/track/4sLPOn5JQyXvdmFxk7M877) | [Bapu Padmanabha](https://open.spotify.com/artist/5Sf70jLYRR15STASRqsC3x) | [Relaxing Ragas, Vol\. 3](https://open.spotify.com/album/38BIm4DMyHnJhj4c0tjumL) | 2:19 |
 | 36 | [Ganga Bliss](https://open.spotify.com/track/1sjQBblq55bICdWYxXWmSQ) | [Harshit Shankar](https://open.spotify.com/artist/1EFgrLcxuH1vQX6GiEui6R) | [Ganga Bliss](https://open.spotify.com/album/2zfyDcGE7MzVVU7k0hlQwG) | 2:02 |
 | 37 | [Talking to Nature](https://open.spotify.com/track/6ayIQNnuIfw5Dz3RuE7ifP) | [Shastro](https://open.spotify.com/artist/5D7gnyD7U75lCDAJxIW5Ew) | [Satsang](https://open.spotify.com/album/3LJ2FWxDXAb6iuMkxXZgnf) | 4:38 |
-| 38 | [Osho Flute](https://open.spotify.com/track/4O7IzjHZqnIVvyWLzaIquB) | [Osho Flute](https://open.spotify.com/artist/0jWuY9fadcg1Rd3WdIqBEq) | [Osho Flute](https://open.spotify.com/album/5bhTW190ATzt01429I1aWe) | 7:06 |
+| 38 | [](https://open.spotify.com/track/4O7IzjHZqnIVvyWLzaIquB) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/5bhTW190ATzt01429I1aWe) | 0:00 |
 | 39 | [Meeting of Two Oceans](https://open.spotify.com/track/76PToF9tQlklwSUbt4RNbk) | [Chinmaya Dunster](https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY) | [Ragas Relax](https://open.spotify.com/album/2PsPxcW53XCjlO4zaAhELj) | 6:14 |
 | 40 | [Raga Des Alap](https://open.spotify.com/track/4a5DylC4oxQbPV11a7kW1X) | [G.S\. Sachdev](https://open.spotify.com/artist/6jGk8eDMQBWb1IjNLI51Yz) | [Introspection](https://open.spotify.com/album/2pDuvSYsImOFjzdlMf7XpQ) | 3:55 |
 | 41 | [Compassion](https://open.spotify.com/track/5pxPqW9c8F010Cv3VfJIJJ) | [Buddha's Flute](https://open.spotify.com/artist/1j6Futx8f5ywiHqPnX32bl) | [Compassion](https://open.spotify.com/album/6aIorUJ01obK1eRU74UHdj) | 7:10 |

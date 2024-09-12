@@ -2,7 +2,7 @@
 
 ### [This Is Nicky Romero](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3j5vfW)
 
-> This is Nicky Romero\. The essential tracks, all in one playlist.
+> This is Nicky Romero\. Todos os maiores hits em uma só playlist.
 
 118 songs - 6 hr 17 min
 

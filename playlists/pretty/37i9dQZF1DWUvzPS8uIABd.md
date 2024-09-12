@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 
 > Tämän hetken kovimmat suomihitit\. Kannessa Mirella.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,606 likes - 60 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,628 likes - 60 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Löytää mut](https://open.spotify.com/track/5ArcUruMjZyrHzQ0QilgJ4) | [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [Löytää mut](https://open.spotify.com/album/5sKJ8LTvSpyK3yZYEwRWGX) | 2:49 |
-| 2 | [Kauniita](https://open.spotify.com/track/4U8b5tzyjzxaFUpRhuGgtS) | [ANI](https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T), [KIKI](https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF) | [Kauniita](https://open.spotify.com/album/2o5j2odPtpeJ1idbTWnQW5) | 3:15 |
-| 3 | [Rakasta mua, rakasta mua, rakasta](https://open.spotify.com/track/6bALO8Bm07OPy15XYp6Ojb) | [Sara Siipola](https://open.spotify.com/artist/0cv9YYFgE0vLVgTjMrOZup) | [Rakasta mua, rakasta mua, rakasta](https://open.spotify.com/album/07CBnYfIo4ry5oiumvV81z) | 3:04 |
+| 1 | [Rakasta mua, rakasta mua, rakasta](https://open.spotify.com/track/6bALO8Bm07OPy15XYp6Ojb) | [Sara Siipola](https://open.spotify.com/artist/0cv9YYFgE0vLVgTjMrOZup) | [Rakasta mua, rakasta mua, rakasta](https://open.spotify.com/album/07CBnYfIo4ry5oiumvV81z) | 3:04 |
+| 2 | [Löytää mut](https://open.spotify.com/track/5ArcUruMjZyrHzQ0QilgJ4) | [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [Löytää mut](https://open.spotify.com/album/5sKJ8LTvSpyK3yZYEwRWGX) | 2:49 |
+| 3 | [Kauniita](https://open.spotify.com/track/4U8b5tzyjzxaFUpRhuGgtS) | [ANI](https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T), [KIKI](https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF) | [Kauniita](https://open.spotify.com/album/2o5j2odPtpeJ1idbTWnQW5) | 3:15 |
 | 4 | [Syli](https://open.spotify.com/track/6su7guuWR0ACqhs10IcAq7) | [JANNA](https://open.spotify.com/artist/4grOKb7qP9dH5FOhUXn3s3) | [Ihminen](https://open.spotify.com/album/6BNDHDMelqp039ZuccA9N0) | 3:34 |
 | 5 | [Painajaiset](https://open.spotify.com/track/4uja2Q6sXUYoGgjvWUlFez) | [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ) | [Kehykset](https://open.spotify.com/album/1V3KJYqBkdDSHFY3oAurAR) | 2:59 |
 | 6 | [Kolumbus \(feat\. Mikael Gabriel\)](https://open.spotify.com/track/7KijaUZDwGJTD3TrQeBDMZ) | [NOTO](https://open.spotify.com/artist/3aXzx5ES0capjaDyvYsdRI), [Mikael Gabriel](https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw) | [Kolumbus \(feat\. Mikael Gabriel\)](https://open.spotify.com/album/2cH1c3Wvvy5DUX16UPkcPX) | 2:49 |
 | 7 | [Perävalot \(feat\. Ellinoora\)](https://open.spotify.com/track/6s5uloZC7XszTefvo2vTEw) | [Gasellit](https://open.spotify.com/artist/1iVTfRuCrTJJ7QudNpQatF), [Ellinoora](https://open.spotify.com/artist/3c9CUpHeB5BCQOHp8uiPzY) | [Perävalot \(feat\. Ellinoora\)](https://open.spotify.com/album/4Km6npxY0tqUQMALhnSkLw) | 3:03 |
 | 8 | [Ekaa kertaa](https://open.spotify.com/track/0QDClEFoNZVkSjW6ADTiL2) | [TUULI](https://open.spotify.com/artist/4CvGI7cUCGi7gcG0X0nrwc) | [Ekaa kertaa](https://open.spotify.com/album/4XfVGVY6iTZS0ggYpMc7LF) | 3:13 |
-| 9 | [Ärsyttävä](https://open.spotify.com/track/6Wi8ubwyHMnwjCJxTmoEfJ) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Ärsyttävä](https://open.spotify.com/album/06oUPbFhbOhSePYf6paXqX) | 2:38 |
-| 10 | [On / Off](https://open.spotify.com/track/6jRJ1RAvdNxC1TG03VRFVg) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [YUNO](https://open.spotify.com/album/5tC2VozpKDfbpOzO8Ybipj) | 2:15 |
-| 11 | [SELVIYTYJÄ](https://open.spotify.com/track/3atnoHWVZSbgeBUMoKXCJG) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf) | [SELVIYTYJÄ](https://open.spotify.com/album/2xlnq9qgRnJtP1wFh2GfyJ) | 2:23 |
-| 12 | [Viel yhen kerran](https://open.spotify.com/track/3ZzNcbE3sBBSRQlvU1jkqd) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Viel yhen kerran](https://open.spotify.com/album/6Eg1Ua5RJXjfZLCUBzvW4e) | 3:42 |
+| 9 | [Viel yhen kerran](https://open.spotify.com/track/3ZzNcbE3sBBSRQlvU1jkqd) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Viel yhen kerran](https://open.spotify.com/album/6Eg1Ua5RJXjfZLCUBzvW4e) | 3:42 |
+| 10 | [Ärsyttävä](https://open.spotify.com/track/6Wi8ubwyHMnwjCJxTmoEfJ) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Ärsyttävä](https://open.spotify.com/album/06oUPbFhbOhSePYf6paXqX) | 2:38 |
+| 11 | [On / Off](https://open.spotify.com/track/6jRJ1RAvdNxC1TG03VRFVg) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [YUNO](https://open.spotify.com/album/5tC2VozpKDfbpOzO8Ybipj) | 2:15 |
+| 12 | [SELVIYTYJÄ](https://open.spotify.com/track/3atnoHWVZSbgeBUMoKXCJG) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf) | [SELVIYTYJÄ](https://open.spotify.com/album/2xlnq9qgRnJtP1wFh2GfyJ) | 2:23 |
 | 13 | [Aarre](https://open.spotify.com/track/5B0k9KlvIo4r2x1kXJbWhf) | [Ultra Bra](https://open.spotify.com/artist/627dKDcsgfO25s2ScC4sgQ) | [Aarre](https://open.spotify.com/album/2HgCKeiV59lUrCQvVt9a1O) | 3:26 |
 | 14 | [Otan Kii](https://open.spotify.com/track/0msAT2TjdYnHHCkS2WajM4) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Otan Kii](https://open.spotify.com/album/5txkutfbBbOpnGVl5ufKeJ) | 2:57 |
 | 15 | [Pysyvää](https://open.spotify.com/track/18H1buVbJxLAYGcUL3sHhe) | [Bee](https://open.spotify.com/artist/4pR2IcLEPu4KFVAmanNG1f) | [Pysyvää](https://open.spotify.com/album/2c1COKH0Ysq650NMSTp0UG) | 3:10 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 59 | [Selvii päivii](https://open.spotify.com/track/4aDQIhFNwywQ7Ch0kJCXF0) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7) | [Selvii päivii](https://open.spotify.com/album/3acDUN7PzZpC8N21Pm2Ty5) | 3:00 |
 | 60 | [Maailman ainoo](https://open.spotify.com/track/2FO53dXqhiJ6pvh0xndSVl) | [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J) | [Maailman ainoo](https://open.spotify.com/album/4fnhF8aDf8N70tSdJmHooq) | 2:47 |
 
-Snapshot ID: `Zt6RiwAAAADoh2Jz8UeafLeVHx0JJ9gP`
+Snapshot ID: `ZuE8owAAAADOL54svcGGOxR5pBqXCIoe`

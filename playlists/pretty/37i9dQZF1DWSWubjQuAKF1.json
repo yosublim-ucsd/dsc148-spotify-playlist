@@ -367,22 +367,6 @@
     {
       "added_at": "2024-09-06 09:27:32",
       "album": {
-        "name": "Zapomniana Twarz",
-        "url": "https://open.spotify.com/album/1XZIYu5ZTZEeWsjSP2hHC3"
-      },
-      "artists": [
-        {
-          "name": "MAJA",
-          "url": "https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Zapomniana Twarz",
-      "url": "https://open.spotify.com/track/7HznfAgmZ7cHTK5U9DVYts"
-    },
-    {
-      "added_at": "2024-09-06 09:27:32",
-      "album": {
         "name": "MINT",
         "url": "https://open.spotify.com/album/30OQrORu7TyhQhTZ0yB21y"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 164788,
       "name": "Przy Tobie to...",
       "url": "https://open.spotify.com/track/2wkLEogc1aCPETKmZzILtM"
+    },
+    {
+      "added_at": "2024-09-06 09:27:32",
+      "album": {
+        "name": "Zapomniana Twarz",
+        "url": "https://open.spotify.com/album/1XZIYu5ZTZEeWsjSP2hHC3"
+      },
+      "artists": [
+        {
+          "name": "MAJA",
+          "url": "https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Zapomniana Twarz",
+      "url": "https://open.spotify.com/track/7HznfAgmZ7cHTK5U9DVYts"
     },
     {
       "added_at": "2024-09-06 09:27:32",
@@ -451,6 +451,26 @@
     {
       "added_at": "2024-09-06 09:27:32",
       "album": {
+        "name": "Wsch\u00f3d",
+        "url": "https://open.spotify.com/album/0XYL9Ik9aLA9AUs2EPqR3G"
+      },
+      "artists": [
+        {
+          "name": "Daniel Godson",
+          "url": "https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU"
+        },
+        {
+          "name": "Moo Latte",
+          "url": "https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F"
+        }
+      ],
+      "duration_ms": 166857,
+      "name": "Wsch\u00f3d",
+      "url": "https://open.spotify.com/track/09eOvJ9ZLfchwrgBRNSibh"
+    },
+    {
+      "added_at": "2024-09-06 09:27:32",
+      "album": {
         "name": "Instalacja I",
         "url": "https://open.spotify.com/album/3HB7pBioWew0y3VogkkUVw"
       },
@@ -483,26 +503,6 @@
       "duration_ms": 234959,
       "name": "Dzikie R\u00f3\u017ce",
       "url": "https://open.spotify.com/track/5lKovMHSTqq5RR2Q80fGaD"
-    },
-    {
-      "added_at": "2024-09-06 09:27:32",
-      "album": {
-        "name": "Wsch\u00f3d",
-        "url": "https://open.spotify.com/album/0XYL9Ik9aLA9AUs2EPqR3G"
-      },
-      "artists": [
-        {
-          "name": "Daniel Godson",
-          "url": "https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU"
-        },
-        {
-          "name": "Moo Latte",
-          "url": "https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F"
-        }
-      ],
-      "duration_ms": 166857,
-      "name": "Wsch\u00f3d",
-      "url": "https://open.spotify.com/track/09eOvJ9ZLfchwrgBRNSibh"
     },
     {
       "added_at": "2024-09-06 09:27:32",
@@ -559,34 +559,6 @@
     {
       "added_at": "2024-09-06 09:27:32",
       "album": {
-        "name": "KAPEWU",
-        "url": "https://open.spotify.com/album/3UEy7yK76QNnWHh39NlqaB"
-      },
-      "artists": [
-        {
-          "name": "Wiktor Walig\u00f3ra",
-          "url": "https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL"
-        },
-        {
-          "name": "Piotr Odoszewski",
-          "url": "https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk"
-        },
-        {
-          "name": "Kajetan Wolas",
-          "url": "https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj"
-        },
-        {
-          "name": "PROJEKT WOW",
-          "url": "https://open.spotify.com/artist/5PMVw2BdUOLVhFe0Hibkms"
-        }
-      ],
-      "duration_ms": 177095,
-      "name": "Nigdy wi\u0119cej nie ta\u0144cz ze mn\u0105",
-      "url": "https://open.spotify.com/track/42MCChf8AwjmBFOzrwGK0l"
-    },
-    {
-      "added_at": "2024-09-06 09:27:32",
-      "album": {
         "name": "Zadzwo\u0144 do mnie",
         "url": "https://open.spotify.com/album/3jT18pGJZSFp1PWRtl1QgE"
       },
@@ -619,6 +591,34 @@
     {
       "added_at": "2024-09-06 09:27:32",
       "album": {
+        "name": "KAPEWU",
+        "url": "https://open.spotify.com/album/3UEy7yK76QNnWHh39NlqaB"
+      },
+      "artists": [
+        {
+          "name": "Wiktor Walig\u00f3ra",
+          "url": "https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL"
+        },
+        {
+          "name": "Piotr Odoszewski",
+          "url": "https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk"
+        },
+        {
+          "name": "Kajetan Wolas",
+          "url": "https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj"
+        },
+        {
+          "name": "PROJEKT WOW",
+          "url": "https://open.spotify.com/artist/5PMVw2BdUOLVhFe0Hibkms"
+        }
+      ],
+      "duration_ms": 177095,
+      "name": "Nigdy wi\u0119cej nie ta\u0144cz ze mn\u0105",
+      "url": "https://open.spotify.com/track/42MCChf8AwjmBFOzrwGK0l"
+    },
+    {
+      "added_at": "2024-09-06 09:27:32",
+      "album": {
         "name": "origami",
         "url": "https://open.spotify.com/album/2pVvZ1AwfGj9c0gJT7FD8u"
       },
@@ -631,6 +631,22 @@
       "duration_ms": 157698,
       "name": "origami",
       "url": "https://open.spotify.com/track/0pVZChscauW6UcGyGPotBR"
+    },
+    {
+      "added_at": "2024-09-06 09:27:32",
+      "album": {
+        "name": "Day Off",
+        "url": "https://open.spotify.com/album/3BERK2KU0lyYSFfJclRuYD"
+      },
+      "artists": [
+        {
+          "name": "Daniel Godson",
+          "url": "https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU"
+        }
+      ],
+      "duration_ms": 142627,
+      "name": "Day Off",
+      "url": "https://open.spotify.com/track/0CHNm6X7QyULKOG5nTtQhj"
     },
     {
       "added_at": "2024-09-06 09:27:32",
@@ -667,18 +683,18 @@
     {
       "added_at": "2024-09-06 09:27:32",
       "album": {
-        "name": "Day Off",
-        "url": "https://open.spotify.com/album/3BERK2KU0lyYSFfJclRuYD"
+        "name": "jeste\u015b g\u0142upi",
+        "url": "https://open.spotify.com/album/4GTDDsP3d06obFoqZpM6nw"
       },
       "artists": [
         {
-          "name": "Daniel Godson",
-          "url": "https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU"
+          "name": "Wiktoria Zwoli\u0144ska",
+          "url": "https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf"
         }
       ],
-      "duration_ms": 142627,
-      "name": "Day Off",
-      "url": "https://open.spotify.com/track/0CHNm6X7QyULKOG5nTtQhj"
+      "duration_ms": 158692,
+      "name": "jeste\u015b g\u0142upi",
+      "url": "https://open.spotify.com/track/1AeL4E8mv5IGP16PlhmbTb"
     },
     {
       "added_at": "2024-09-06 09:27:32",
@@ -703,22 +719,6 @@
     {
       "added_at": "2024-09-06 09:27:32",
       "album": {
-        "name": "jeste\u015b g\u0142upi",
-        "url": "https://open.spotify.com/album/4GTDDsP3d06obFoqZpM6nw"
-      },
-      "artists": [
-        {
-          "name": "Wiktoria Zwoli\u0144ska",
-          "url": "https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf"
-        }
-      ],
-      "duration_ms": 158692,
-      "name": "jeste\u015b g\u0142upi",
-      "url": "https://open.spotify.com/track/1AeL4E8mv5IGP16PlhmbTb"
-    },
-    {
-      "added_at": "2024-09-06 09:27:32",
-      "album": {
         "name": "Lawenda",
         "url": "https://open.spotify.com/album/3WEJpUAEawGWhW9DseR7KV"
       },
@@ -731,6 +731,22 @@
       "duration_ms": 148571,
       "name": "Lawenda",
       "url": "https://open.spotify.com/track/03zESWjJhCUNKvbIO4W4AQ"
+    },
+    {
+      "added_at": "2024-09-06 09:27:32",
+      "album": {
+        "name": "Upadki i wzloty",
+        "url": "https://open.spotify.com/album/0H5oZPNKpOgMyPp0xKa04S"
+      },
+      "artists": [
+        {
+          "name": "Daniel Godson",
+          "url": "https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU"
+        }
+      ],
+      "duration_ms": 191666,
+      "name": "Upadki i wzloty",
+      "url": "https://open.spotify.com/track/6lmd1iffw55qQIzBxStFOP"
     },
     {
       "added_at": "2024-09-06 09:27:32",
@@ -815,26 +831,6 @@
     {
       "added_at": "2024-09-06 09:27:32",
       "album": {
-        "name": "ZESP\u00d3\u0141 ODSTAWIENNY",
-        "url": "https://open.spotify.com/album/4IwEr0wyufB7BrcKE1uNTM"
-      },
-      "artists": [
-        {
-          "name": "Marie",
-          "url": "https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M"
-        },
-        {
-          "name": "Producent Adam",
-          "url": "https://open.spotify.com/artist/7EtPcu9pZNGR5kWW2oEQDd"
-        }
-      ],
-      "duration_ms": 235592,
-      "name": "ZESP\u00d3\u0141 ODSTAWIENNY",
-      "url": "https://open.spotify.com/track/7E9Rdl4ep6Vs9IFdVr54FL"
-    },
-    {
-      "added_at": "2024-09-06 09:27:32",
-      "album": {
         "name": "Clean girl era",
         "url": "https://open.spotify.com/album/1Yn1UeZ9gBYllO6S1mzfdE"
       },
@@ -851,18 +847,22 @@
     {
       "added_at": "2024-09-06 09:27:32",
       "album": {
-        "name": "Upadki i wzloty",
-        "url": "https://open.spotify.com/album/0H5oZPNKpOgMyPp0xKa04S"
+        "name": "ZESP\u00d3\u0141 ODSTAWIENNY",
+        "url": "https://open.spotify.com/album/4IwEr0wyufB7BrcKE1uNTM"
       },
       "artists": [
         {
-          "name": "Daniel Godson",
-          "url": "https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU"
+          "name": "Marie",
+          "url": "https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M"
+        },
+        {
+          "name": "Producent Adam",
+          "url": "https://open.spotify.com/artist/7EtPcu9pZNGR5kWW2oEQDd"
         }
       ],
-      "duration_ms": 191666,
-      "name": "Upadki i wzloty",
-      "url": "https://open.spotify.com/track/6lmd1iffw55qQIzBxStFOP"
+      "duration_ms": 235592,
+      "name": "ZESP\u00d3\u0141 ODSTAWIENNY",
+      "url": "https://open.spotify.com/track/7E9Rdl4ep6Vs9IFdVr54FL"
     },
     {
       "added_at": "2024-09-06 09:27:32",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2024-09-06 09:27:32",
       "album": {
+        "name": "Tak widz\u0119 nas (za 20 lat)",
+        "url": "https://open.spotify.com/album/3cLG13ntRQcRdQg6QmyJQx"
+      },
+      "artists": [
+        {
+          "name": "Maciej Skiba",
+          "url": "https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq"
+        }
+      ],
+      "duration_ms": 168333,
+      "name": "Tak widz\u0119 nas (za 20 lat)",
+      "url": "https://open.spotify.com/track/0l477aT8AU5rebMZc9ErBB"
+    },
+    {
+      "added_at": "2024-09-06 09:27:32",
+      "album": {
         "name": "nie wracam",
         "url": "https://open.spotify.com/album/4Zmx2snI7W2imHGADlCup1"
       },
@@ -1059,22 +1075,6 @@
     {
       "added_at": "2024-09-06 09:27:32",
       "album": {
-        "name": "Tak widz\u0119 nas (za 20 lat)",
-        "url": "https://open.spotify.com/album/3cLG13ntRQcRdQg6QmyJQx"
-      },
-      "artists": [
-        {
-          "name": "Maciej Skiba",
-          "url": "https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq"
-        }
-      ],
-      "duration_ms": 168333,
-      "name": "Tak widz\u0119 nas (za 20 lat)",
-      "url": "https://open.spotify.com/track/0l477aT8AU5rebMZc9ErBB"
-    },
-    {
-      "added_at": "2024-09-06 09:27:32",
-      "album": {
         "name": "Bal",
         "url": "https://open.spotify.com/album/67gqmsz1PpCnvpJrP6g3Xz"
       },
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-09-06 09:27:32",
       "album": {
-        "name": "Klub Z\u0142amanych Serc",
-        "url": "https://open.spotify.com/album/6UTzEyPvtpmAW3Xp8y4HcU"
-      },
-      "artists": [
-        {
-          "name": "MAJA",
-          "url": "https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM"
-        }
-      ],
-      "duration_ms": 128332,
-      "name": "Klub Z\u0142amanych Serc",
-      "url": "https://open.spotify.com/track/3pfOeXoXWDeLoUSvVagqTM"
-    },
-    {
-      "added_at": "2024-09-06 09:27:32",
-      "album": {
         "name": "MIAMI VICE",
         "url": "https://open.spotify.com/album/5XBFcO4GD7rNxenfYE5ZoU"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 134117,
       "name": "MIAMI VICE",
       "url": "https://open.spotify.com/track/6cvLck4RJ9yABjPuSQrx6w"
+    },
+    {
+      "added_at": "2024-09-06 09:27:32",
+      "album": {
+        "name": "Klub Z\u0142amanych Serc",
+        "url": "https://open.spotify.com/album/6UTzEyPvtpmAW3Xp8y4HcU"
+      },
+      "artists": [
+        {
+          "name": "MAJA",
+          "url": "https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM"
+        }
+      ],
+      "duration_ms": 128332,
+      "name": "Klub Z\u0142amanych Serc",
+      "url": "https://open.spotify.com/track/3pfOeXoXWDeLoUSvVagqTM"
     },
     {
       "added_at": "2024-09-06 09:27:32",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2024-09-06 09:27:32",
       "album": {
-        "name": "AMORE",
-        "url": "https://open.spotify.com/album/7A7Yg3CYOmOtM6XDJtOz8i"
+        "name": "D\u0142ugie Spacery",
+        "url": "https://open.spotify.com/album/4NtdplntD8TeKTki9Y9mIB"
       },
       "artists": [
         {
-          "name": "tomash",
-          "url": "https://open.spotify.com/artist/3F4KehTGmSeMmPd2YQvmeY"
+          "name": "Filip Grodowski",
+          "url": "https://open.spotify.com/artist/3YZ6csVW5tYKTAK5UuWU6f"
         }
       ],
-      "duration_ms": 161000,
-      "name": "AMORE",
-      "url": "https://open.spotify.com/track/044O7GSnrUGZIGt2meiJdj"
+      "duration_ms": 276095,
+      "name": "D\u0142ugie Spacery",
+      "url": "https://open.spotify.com/track/6PN0dwNmzDEBt092pWDfdp"
     },
     {
       "added_at": "2024-09-06 09:27:32",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2024-09-06 09:27:32",
       "album": {
-        "name": "D\u0142ugie Spacery",
-        "url": "https://open.spotify.com/album/4NtdplntD8TeKTki9Y9mIB"
+        "name": "AMORE",
+        "url": "https://open.spotify.com/album/7A7Yg3CYOmOtM6XDJtOz8i"
       },
       "artists": [
         {
-          "name": "Filip Grodowski",
-          "url": "https://open.spotify.com/artist/3YZ6csVW5tYKTAK5UuWU6f"
+          "name": "tomash",
+          "url": "https://open.spotify.com/artist/3F4KehTGmSeMmPd2YQvmeY"
         }
       ],
-      "duration_ms": 276095,
-      "name": "D\u0142ugie Spacery",
-      "url": "https://open.spotify.com/track/6PN0dwNmzDEBt092pWDfdp"
+      "duration_ms": 161000,
+      "name": "AMORE",
+      "url": "https://open.spotify.com/track/044O7GSnrUGZIGt2meiJdj"
     },
     {
       "added_at": "2024-09-06 09:27:32",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-09-06 09:27:32",
       "album": {
-        "name": "STOP!!",
-        "url": "https://open.spotify.com/album/3rgJOTByI5gTZIPnAEY9RP"
-      },
-      "artists": [
-        {
-          "name": "IGNACY",
-          "url": "https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub"
-        }
-      ],
-      "duration_ms": 154554,
-      "name": "STOP!!",
-      "url": "https://open.spotify.com/track/4EdYQ5Sn0lBtvAylTtuOgg"
-    },
-    {
-      "added_at": "2024-09-06 09:27:32",
-      "album": {
         "name": "Zostaniesz na zawsze?",
         "url": "https://open.spotify.com/album/22ItEEmozmJHs3P7mgvdnV"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 174591,
       "name": "Zostaniesz na zawsze?",
       "url": "https://open.spotify.com/track/5uXyJ2mYb4LHQ0gKEMXtEL"
+    },
+    {
+      "added_at": "2024-09-06 09:27:32",
+      "album": {
+        "name": "STOP!!",
+        "url": "https://open.spotify.com/album/3rgJOTByI5gTZIPnAEY9RP"
+      },
+      "artists": [
+        {
+          "name": "IGNACY",
+          "url": "https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub"
+        }
+      ],
+      "duration_ms": 154554,
+      "name": "STOP!!",
+      "url": "https://open.spotify.com/track/4EdYQ5Sn0lBtvAylTtuOgg"
     },
     {
       "added_at": "2024-09-06 09:27:32",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2024-09-06 09:27:32",
       "album": {
-        "name": "szukam",
-        "url": "https://open.spotify.com/album/3t0zAIaiSo023Fcsw0keef"
-      },
-      "artists": [
-        {
-          "name": "damazy",
-          "url": "https://open.spotify.com/artist/05xJeZx7e7PTnIjroXe5OS"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "szukam",
-      "url": "https://open.spotify.com/track/3NUiSTyt0MZtEmWxzAmwT4"
-    },
-    {
-      "added_at": "2024-09-06 09:27:32",
-      "album": {
         "name": "Droga na szczyt",
         "url": "https://open.spotify.com/album/2CtcBO4momVTAkA3cP3cGF"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 165370,
       "name": "Droga na szczyt",
       "url": "https://open.spotify.com/track/22BWCcf3TRftAfP71zauxf"
+    },
+    {
+      "added_at": "2024-09-06 09:27:32",
+      "album": {
+        "name": "szukam",
+        "url": "https://open.spotify.com/album/3t0zAIaiSo023Fcsw0keef"
+      },
+      "artists": [
+        {
+          "name": "damazy",
+          "url": "https://open.spotify.com/artist/05xJeZx7e7PTnIjroXe5OS"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "szukam",
+      "url": "https://open.spotify.com/track/3NUiSTyt0MZtEmWxzAmwT4"
     },
     {
       "added_at": "2024-09-06 09:27:32",

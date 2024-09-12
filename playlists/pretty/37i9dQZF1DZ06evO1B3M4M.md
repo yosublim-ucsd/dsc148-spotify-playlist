@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1B3M4M.md) - [plain]
 
 ### [This Is James Newton Howard](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1B3M4M)
 
-> This Is James Newton Howard\. Les titres incontournables, réunis dans une seule et même playlist.
+> This is James Newton Howard\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,758 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,761 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1B3M4M.md) - [plain]
 | 31 | [Rue's Farewell](https://open.spotify.com/track/2kAwInoNljoVi4SsYCnFeo) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Hunger Games: Original Motion Picture Score](https://open.spotify.com/album/6PH1qpo8wXTJnhZHnQi8YT) | 4:59 |
 | 32 | [Fantastic Beasts Theme \- Solo Piano](https://open.spotify.com/track/18b656dcOv1olz14Xj5EZi) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Fantastic Beasts: The Crimes Of Grindelwald \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0x0bcLcDHfb8j93LslpznF) | 1:37 |
 | 33 | [Flying](https://open.spotify.com/track/2DS7nXQfAFmLzTicXi3riM) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Peter Pan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2zGkIyUeYV5NVS8z3MUGE8) | 3:32 |
-| 34 | [The Village: Morning](https://open.spotify.com/track/6fv5zOzFVGSJBF2N8NCgG2) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2), [Hilary Hahn](https://open.spotify.com/artist/5JdT0LYJdlPbTC58p60WTX), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Night After Night \(Music from the Movies of M\. Night Shyamalan\)](https://open.spotify.com/album/6bZ512Kffdbv911Mbxi1ui) | 4:38 |
-| 35 | [Hope](https://open.spotify.com/track/0ByRFYqhIaKQqWXShfoOTw) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2), [James Ehnes](https://open.spotify.com/artist/0b7df8SeNFCgnJj5Wjg5c8), [Andrew Armstrong](https://open.spotify.com/artist/3pi9i7KYNops33AeHXFGMz) | [A Hidden Life \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1JyFpFS3gUIS5F5NCZRsk7) | 2:30 |
-| 36 | [Primrose \- From "The Hunger Games: Mockingjay, Part 2" Soundtrack](https://open.spotify.com/track/7LYllitjUEHCcCbuUlqEVF) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Hunger Games: Mockingjay, Part 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3a0RwfCB9NRoS6RcNAU9eK) | 3:16 |
+| 34 | [Primrose \- From "The Hunger Games: Mockingjay, Part 2" Soundtrack](https://open.spotify.com/track/7LYllitjUEHCcCbuUlqEVF) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Hunger Games: Mockingjay, Part 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3a0RwfCB9NRoS6RcNAU9eK) | 3:16 |
+| 35 | [The Village: Morning](https://open.spotify.com/track/6fv5zOzFVGSJBF2N8NCgG2) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2), [Hilary Hahn](https://open.spotify.com/artist/5JdT0LYJdlPbTC58p60WTX), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Night After Night \(Music from the Movies of M\. Night Shyamalan\)](https://open.spotify.com/album/6bZ512Kffdbv911Mbxi1ui) | 4:38 |
+| 36 | [Hope](https://open.spotify.com/track/0ByRFYqhIaKQqWXShfoOTw) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2), [James Ehnes](https://open.spotify.com/artist/0b7df8SeNFCgnJj5Wjg5c8), [Andrew Armstrong](https://open.spotify.com/artist/3pi9i7KYNops33AeHXFGMz) | [A Hidden Life \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1JyFpFS3gUIS5F5NCZRsk7) | 2:30 |
 | 37 | [In the Cells](https://open.spotify.com/track/4s52mTzlRIeVofnNlL2qcg) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Fantastic Beasts and Where to Find Them \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0eEZX45VOaWms7TTjVn7dQ) | 2:10 |
 | 38 | [I Know You Are There](https://open.spotify.com/track/02iYSpfKTsnvNxqn4RmSQG) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Fantastic Beasts: The Secrets of Dumbledore \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0wmxJxhdGo9awyHiM1jRtP) | 2:35 |
 | 39 | [Healing Katniss](https://open.spotify.com/track/6ks7BlSGVDpvg8aizTOil2) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Hunger Games: Original Motion Picture Score](https://open.spotify.com/album/5tF7RSw6Zke0WY4fPf6LR9) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1B3M4M.md) - [plain]
 | 49 | [Barbastella](https://open.spotify.com/track/6G0UFydt9FBQtIM9RaZ3My) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Batman Begins \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5djDvf7OozECsKzEB04uYg) | 4:45 |
 | 50 | [Noah Visits \- Score](https://open.spotify.com/track/7zKkGdLK3y77xvOksoUdrT) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Village](https://open.spotify.com/album/1nbaQ8V8yECyjxej3rPF7G) | 2:35 |
 
-Snapshot ID: `Zt46gAAAAADt1Zj8nxzNZgSyJ4QV3ZF7`
+Snapshot ID: `Zt+MAAAAAAAJzeRwzcjMpCdy9Zxcf3o4`

@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,231 songs - 6 day 17 hr 29 min
+4,232 songs - 6 day 17 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,6 +302,7 @@
 | [Bado](https://open.spotify.com/track/4DJBMSRLlPc0y7JQfFHT2l) | [Priesemut](https://open.spotify.com/artist/4VFNwAe2jbnCiPi2OYKa6s) | [Bado & Tubby](https://open.spotify.com/album/4ccrZL9qlKi1c2CiODMseA) | 1:44 | 2019-10-17 | 2020-03-19 |
 | [Badu in the JuJu Cypher](https://open.spotify.com/track/5ckG2eCtby3ABGB6NrU3Wj) | [Kutmah](https://open.spotify.com/artist/5Wn9vkJRR8S8Sr7oMdGzvF) | [Isolation Tapes](https://open.spotify.com/album/5LT0K3MvKsk8uCxWKIGn4g) | 2:50 | 2020-11-21 | 2020-12-18 |
 | [Baduizm](https://open.spotify.com/track/3oKjiHooUXDm2aomYju3Sm) | [Nokimo](https://open.spotify.com/artist/2fjTdMf7j8dewPfWXh2Thq), [Hirokee](https://open.spotify.com/artist/65Tgs3GmQLXn1Snl8Wge6b), [Floating Anarchy](https://open.spotify.com/artist/1NZghQLpDZ1eIeOl0Esd7d) | [Baduizm](https://open.spotify.com/album/0Sd6sQ9lnMZCB8HJ0Gqusu) | 2:30 | 2021-10-10 | 2022-01-14 |
+| [Balance](https://open.spotify.com/track/1Zyrub8wCKUVVMUlV6VstA) | [Cloudsurfin'](https://open.spotify.com/artist/5Dsg7x6lNQTgWSgnYlIpif), [Lightflower](https://open.spotify.com/artist/7LRPMbVSu0U3Dakca6s0t0) | [Balance](https://open.spotify.com/album/3yaiRIuCbDsq0TyWFazSyE) | 2:26 | 2024-09-02 |  |
 | [Balance](https://open.spotify.com/track/3fiOgFT8BOAu3EqtHDhp26) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [okwow](https://open.spotify.com/artist/1Gx2S5p5nWuMKhPq3k2kCq) | [Balance](https://open.spotify.com/album/0q7zdFirG3Oz46K639CNtp) | 1:19 | 2023-05-18 | 2023-05-26 |
 | [Balconia](https://open.spotify.com/track/6bK3vaE8H5miE0gaIIOFoc) | [No Mic](https://open.spotify.com/artist/1Y3A1PoGXSWW6nmI1DNMoT), [SkiDs](https://open.spotify.com/artist/43FpyHh0x1EX3z9kAi2huJ), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Balconia](https://open.spotify.com/album/2uOAfAGiPWVZwg63FTVs7L) | 1:46 | 2022-01-27 | 2022-09-28 |
 | [Balcony Vibes](https://open.spotify.com/track/3qfu4A3XzXzx9fY2eXRsLj) | [Katashi Kaitō](https://open.spotify.com/artist/7BDqewjn6oL3ryvHv78Wkx) | [Balcony Vibes](https://open.spotify.com/album/1xq1PH0YOL6ULbcxkMTmkl) | 2:15 | 2020-04-24 | 2020-12-04 |
@@ -2586,7 +2587,7 @@
 | [Oasis](https://open.spotify.com/track/20MymF25fDU1jGD1kxDpca) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe) | [Oasis](https://open.spotify.com/album/5FCQHUtlLtj4fq8CCkW0HT) | 2:47 | 2021-12-03 | 2022-06-24 |
 | [Oasis](https://open.spotify.com/track/5KvQYvD1axCFjgjYgLxpJn) | [Jazzquarterz](https://open.spotify.com/artist/3z0rwYZuq2g5fblmdIMzkf) | [Oasis / Distant Shores](https://open.spotify.com/album/49TseYQCFnYHV4w1xXRSlJ) | 3:06 | 2019-05-26\* | 2019-08-30 |
 | [Oasis](https://open.spotify.com/track/0R1CjGONKrRmkCm9KTjDJY) | [NICKELMAN](https://open.spotify.com/artist/36pqgmoQFc12FhcRZitq6I) | [Oasis](https://open.spotify.com/album/06TPgMRmQvdxwMFUYbeY4l) | 2:02 | 2020-03-27 | 2020-05-30 |
-| [Ocean Cove](https://open.spotify.com/track/3vgNDsgsE9pyk9pGY2W5zv) | [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j) | [Ocean Cove](https://open.spotify.com/album/2i4JryyVYAglE28hIPWOH9) | 1:58 | 2023-10-12 |  |
+| [Ocean Cove](https://open.spotify.com/track/3vgNDsgsE9pyk9pGY2W5zv) | [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j) | [Ocean Cove](https://open.spotify.com/album/2i4JryyVYAglE28hIPWOH9) | 1:58 | 2023-10-12 | 2024-09-12 |
 | [Ocean Drive](https://open.spotify.com/track/3lpJnTcQ88VKeFskvuGYcN) | [C Y G N](https://open.spotify.com/artist/6OgHTWl7y9oeccoxeXXDPn) | [Discover](https://open.spotify.com/album/7dYAZ8GwqolvrrGPceaxHW) | 3:09 | 2019-10-11 | 2020-03-07 |
 | [Ocean Girl](https://open.spotify.com/track/3Hj0UxhscN8ZtCDUsaApGC) | [Sweet Medicine](https://open.spotify.com/artist/0CF9CnQbK6uS8u78KVnIPv), [Lawrence Walther](https://open.spotify.com/artist/40GMyQ5sv1bfiui9CrEPME) | [Ocean Girl](https://open.spotify.com/album/6Iuxn9dM8YK5ko6dBBnymC) | 2:50 | 2021-07-09 | 2021-09-24 |
 | [Ocean:Atlantic](https://open.spotify.com/track/1neGlhXwDU60QlAdAXi5I1) | [Heather Grey](https://open.spotify.com/artist/0NHdHKgWjJriXzzufBwSqE), [Remulak](https://open.spotify.com/artist/5epeii4aAE7NXFsBkqoJxB) | [Ocean:Atlantic](https://open.spotify.com/album/3Khz25aHM2n7c4WB2Posjx) | 2:45 | 2019-11-20 | 2020-03-31 |

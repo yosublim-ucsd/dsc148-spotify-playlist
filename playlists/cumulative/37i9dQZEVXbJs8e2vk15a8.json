@@ -2970,7 +2970,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-09",
+      "date_removed": null,
       "duration_ms": 184074,
       "name": "Amor Fugaz",
       "url": "https://open.spotify.com/track/21KvzJjEbMwaS6FYYGstkN"
@@ -4754,7 +4754,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-11",
+      "date_removed": null,
       "duration_ms": 139598,
       "name": "Bajo el Sombrero",
       "url": "https://open.spotify.com/track/60yZFPAYb0nKr7SDDQohF7"
@@ -8048,7 +8048,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 174412,
       "name": "CHIKA MALA",
       "url": "https://open.spotify.com/track/2SuosMcETUjDfBRobLLTQm"
@@ -13597,6 +13597,24 @@
     },
     {
       "album": {
+        "name": "Suena Lindo",
+        "url": "https://open.spotify.com/album/6YZwH3Q5TA7u6QMxnVBrKl"
+      },
+      "artists": [
+        {
+          "name": "Grupo Manzanar de Chilo\u00e9",
+          "url": "https://open.spotify.com/artist/3QPoAnDjfEVR0LRe21Zc55"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134801,
+      "name": "Enamorados",
+      "url": "https://open.spotify.com/track/4yZHewo7vTT8geUxNAeYqY"
+    },
+    {
+      "album": {
         "name": "Encima De Mi",
         "url": "https://open.spotify.com/album/1Xj4dSNkUuUzSG8YegWfEf"
       },
@@ -17294,7 +17312,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 218423,
       "name": "Good Luck, Babe!",
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
@@ -21470,7 +21488,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 203120,
       "name": "La Tirana",
       "url": "https://open.spotify.com/track/7iKRhtTI1Caq67NaMNdi0b"
@@ -29826,7 +29844,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 156577,
       "name": "Ohnana",
       "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
@@ -34760,7 +34778,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-23",
+      "date_removed": null,
       "duration_ms": 256426,
       "name": "Rapa Nui Mi Amor",
       "url": "https://open.spotify.com/track/6EUOJhj0E2uBkrNw062vzF"

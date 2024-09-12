@@ -592,10 +592,28 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 244173,
       "name": "IGNITE",
       "url": "https://open.spotify.com/track/5ivhfpfnoHhD8rUI2t3aJG"
+    },
+    {
+      "album": {
+        "name": "in the pocket",
+        "url": "https://open.spotify.com/album/7og4SwTc07Zan2RHIi0ufr"
+      },
+      "artists": [
+        {
+          "name": "Mr.Children",
+          "url": "https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291000,
+      "name": "in the pocket",
+      "url": "https://open.spotify.com/track/7cSnylYfrW2vho71jk52EC"
     },
     {
       "album": {

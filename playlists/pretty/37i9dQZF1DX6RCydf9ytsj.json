@@ -1,6 +1,6 @@
 {
   "description": "The decade when New Traditional artists like George Strait, Reba McEntire, and Randy Travis dominated the Country scene. Cover: The Judds",
-  "num_followers": 646111,
+  "num_followers": 646273,
   "original_name": "80s Country",
   "owner": {
     "name": "Spotify",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-07-05 20:32:07",
       "album": {
-        "name": "Forrest Gump - The Soundtrack",
-        "url": "https://open.spotify.com/album/3LP0jc2J6fvhpVTKWzvFUk"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 148106,
-      "name": "On the Road Again",
-      "url": "https://open.spotify.com/track/3MpK9vnxxgYvh0CNeGvx6G"
-    },
-    {
-      "added_at": "2024-07-05 20:32:07",
-      "album": {
         "name": "Guitars, Cadillacs, Etc., Etc.",
         "url": "https://open.spotify.com/album/5QrjSOgrFBfDyGXOcF9ZMO"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 185239,
       "name": "Guitars, Cadillacs",
       "url": "https://open.spotify.com/track/3HtCJiLV8GH87AViMtUKhO"
+    },
+    {
+      "added_at": "2024-07-05 20:32:07",
+      "album": {
+        "name": "Forrest Gump - The Soundtrack",
+        "url": "https://open.spotify.com/album/3LP0jc2J6fvhpVTKWzvFUk"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 148106,
+      "name": "On the Road Again",
+      "url": "https://open.spotify.com/track/3MpK9vnxxgYvh0CNeGvx6G"
     },
     {
       "added_at": "2024-07-05 20:32:07",
@@ -1027,54 +1027,6 @@
     {
       "added_at": "2024-07-05 20:32:07",
       "album": {
-        "name": "Friday Night Blues",
-        "url": "https://open.spotify.com/album/6ahnIVl7o1IfC6GEOWgafD"
-      },
-      "artists": [
-        {
-          "name": "John Conlee",
-          "url": "https://open.spotify.com/artist/4Wfq6fHhifS8MmQOcJ18TP"
-        }
-      ],
-      "duration_ms": 198453,
-      "name": "Friday Night Blues",
-      "url": "https://open.spotify.com/track/5AgHGO8qE6Gf5HFaY1YHg9"
-    },
-    {
-      "added_at": "2024-07-05 20:32:07",
-      "album": {
-        "name": "The Bocephus Box Set",
-        "url": "https://open.spotify.com/album/7C47twqxgIByOAH9b5Ysh7"
-      },
-      "artists": [
-        {
-          "name": "Hank Williams, Jr.",
-          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "A Country Boy Can Survive",
-      "url": "https://open.spotify.com/track/5jVGZTrDusSvwhRDPmZMSB"
-    },
-    {
-      "added_at": "2024-07-05 20:32:07",
-      "album": {
-        "name": "Special Delivery",
-        "url": "https://open.spotify.com/album/7B0UmyvEgRMfLGgCOmtsER"
-      },
-      "artists": [
-        {
-          "name": "Dottie West",
-          "url": "https://open.spotify.com/artist/2pvPkEAN9xSrDrIVUOxWMB"
-        }
-      ],
-      "duration_ms": 180773,
-      "name": "A Lesson In Leavin'",
-      "url": "https://open.spotify.com/track/0ImxI6CSbQsrYdhv9C8eUO"
-    },
-    {
-      "added_at": "2024-07-05 20:32:07",
-      "album": {
         "name": "Nashville Rebel",
         "url": "https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg"
       },
@@ -1099,6 +1051,54 @@
       "duration_ms": 182973,
       "name": "Highwayman",
       "url": "https://open.spotify.com/track/6uvT4Di9ZRBw5cbexZJDts"
+    },
+    {
+      "added_at": "2024-07-05 20:32:07",
+      "album": {
+        "name": "Friday Night Blues",
+        "url": "https://open.spotify.com/album/6ahnIVl7o1IfC6GEOWgafD"
+      },
+      "artists": [
+        {
+          "name": "John Conlee",
+          "url": "https://open.spotify.com/artist/4Wfq6fHhifS8MmQOcJ18TP"
+        }
+      ],
+      "duration_ms": 198453,
+      "name": "Friday Night Blues",
+      "url": "https://open.spotify.com/track/5AgHGO8qE6Gf5HFaY1YHg9"
+    },
+    {
+      "added_at": "2024-07-05 20:32:07",
+      "album": {
+        "name": "Special Delivery",
+        "url": "https://open.spotify.com/album/7B0UmyvEgRMfLGgCOmtsER"
+      },
+      "artists": [
+        {
+          "name": "Dottie West",
+          "url": "https://open.spotify.com/artist/2pvPkEAN9xSrDrIVUOxWMB"
+        }
+      ],
+      "duration_ms": 180773,
+      "name": "A Lesson In Leavin'",
+      "url": "https://open.spotify.com/track/0ImxI6CSbQsrYdhv9C8eUO"
+    },
+    {
+      "added_at": "2024-07-05 20:32:07",
+      "album": {
+        "name": "The Bocephus Box Set",
+        "url": "https://open.spotify.com/album/7C47twqxgIByOAH9b5Ysh7"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams, Jr.",
+          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "A Country Boy Can Survive",
+      "url": "https://open.spotify.com/track/5jVGZTrDusSvwhRDPmZMSB"
     },
     {
       "added_at": "2024-07-05 20:32:07",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2024-07-05 20:32:07",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/7jXiQrYTKNXnXL7WLpPqkZ"
+        "name": "The Essential Waylon Jennings",
+        "url": "https://open.spotify.com/album/76v3XMhmRuxlakE6e3lKox"
       },
       "artists": [
         {
-          "name": "Hank Williams, Jr.",
-          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
         }
       ],
-      "duration_ms": 240373,
-      "name": "All My Rowdy Friends (Have Settled Down)",
-      "url": "https://open.spotify.com/track/7hBrO5jpSGEbd9X6zxGxQI"
+      "duration_ms": 286120,
+      "name": "I Ain't Living Long Like This",
+      "url": "https://open.spotify.com/track/0NBKvnJAAG865ENj9bOhvD"
     },
     {
       "added_at": "2024-07-05 20:32:07",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2024-07-05 20:32:07",
       "album": {
-        "name": "The Essential Waylon Jennings",
-        "url": "https://open.spotify.com/album/76v3XMhmRuxlakE6e3lKox"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4oj3skAMdx0abpd3XtOrOo"
       },
       "artists": [
         {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+          "name": "Keith Whitley",
+          "url": "https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW"
         }
       ],
-      "duration_ms": 286120,
-      "name": "I Ain't Living Long Like This",
-      "url": "https://open.spotify.com/track/0NBKvnJAAG865ENj9bOhvD"
+      "duration_ms": 251560,
+      "name": "Don't Close Your Eyes",
+      "url": "https://open.spotify.com/track/3eIc0XWlqNkT290DfwNyBJ"
     },
     {
       "added_at": "2024-07-05 20:32:07",
@@ -1260,17 +1260,17 @@
       "added_at": "2024-07-05 20:32:07",
       "album": {
         "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/4oj3skAMdx0abpd3XtOrOo"
+        "url": "https://open.spotify.com/album/7jXiQrYTKNXnXL7WLpPqkZ"
       },
       "artists": [
         {
-          "name": "Keith Whitley",
-          "url": "https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW"
+          "name": "Hank Williams, Jr.",
+          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
         }
       ],
-      "duration_ms": 251560,
-      "name": "Don't Close Your Eyes",
-      "url": "https://open.spotify.com/track/3eIc0XWlqNkT290DfwNyBJ"
+      "duration_ms": 240373,
+      "name": "All My Rowdy Friends (Have Settled Down)",
+      "url": "https://open.spotify.com/track/7hBrO5jpSGEbd9X6zxGxQI"
     },
     {
       "added_at": "2024-07-05 20:32:07",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-07-05 20:32:07",
       "album": {
-        "name": "Greatest Hits, Vol. 2",
-        "url": "https://open.spotify.com/album/1TRb99NpbCbLBiYnCis1fv"
-      },
-      "artists": [
-        {
-          "name": "Hank Williams, Jr.",
-          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
-        }
-      ],
-      "duration_ms": 178840,
-      "name": "All My Rowdy Friends Are Coming Over Tonight",
-      "url": "https://open.spotify.com/track/1yzyhrCfdwPgfWixsCELlH"
-    },
-    {
-      "added_at": "2024-07-05 20:32:07",
-      "album": {
         "name": "Roll On",
         "url": "https://open.spotify.com/album/2wxMN8hgpUMTLpD8CilSPb"
       },
@@ -1335,22 +1319,6 @@
       "duration_ms": 262626,
       "name": "Roll On (Eighteen Wheeler)",
       "url": "https://open.spotify.com/track/31LOzuiEqzfMZ6f8nujDVd"
-    },
-    {
-      "added_at": "2024-07-05 20:32:07",
-      "album": {
-        "name": "I'll Be Your Jukebox Tonight",
-        "url": "https://open.spotify.com/album/69meLNQFtyhpXcye5Hf1l4"
-      },
-      "artists": [
-        {
-          "name": "Barbara Mandrell",
-          "url": "https://open.spotify.com/artist/67BqBdApdbZ0onglFqRoTg"
-        }
-      ],
-      "duration_ms": 172893,
-      "name": "I Wish That I Could Fall In Love Today",
-      "url": "https://open.spotify.com/track/50pAZTEtKGt2oAguhBrnF7"
     },
     {
       "added_at": "2024-07-05 20:32:07",
@@ -1371,6 +1339,22 @@
     {
       "added_at": "2024-07-05 20:32:07",
       "album": {
+        "name": "I'll Be Your Jukebox Tonight",
+        "url": "https://open.spotify.com/album/69meLNQFtyhpXcye5Hf1l4"
+      },
+      "artists": [
+        {
+          "name": "Barbara Mandrell",
+          "url": "https://open.spotify.com/artist/67BqBdApdbZ0onglFqRoTg"
+        }
+      ],
+      "duration_ms": 172893,
+      "name": "I Wish That I Could Fall In Love Today",
+      "url": "https://open.spotify.com/track/50pAZTEtKGt2oAguhBrnF7"
+    },
+    {
+      "added_at": "2024-07-05 20:32:07",
+      "album": {
         "name": "Love Songs",
         "url": "https://open.spotify.com/album/0bP76IDtXusEmR3b1MG3ao"
       },
@@ -1387,22 +1371,6 @@
     {
       "added_at": "2024-07-05 20:32:07",
       "album": {
-        "name": "What Am I Gonna Do About You",
-        "url": "https://open.spotify.com/album/52S2Kk2P6hLkOBzncNWDjL"
-      },
-      "artists": [
-        {
-          "name": "Reba McEntire",
-          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
-        }
-      ],
-      "duration_ms": 205866,
-      "name": "One Promise Too Late",
-      "url": "https://open.spotify.com/track/6BtBykwKhMjp4XDGc1ll1B"
-    },
-    {
-      "added_at": "2024-07-05 20:32:07",
-      "album": {
         "name": "Top 10",
         "url": "https://open.spotify.com/album/3mr4jvGT5p1vw3zxySiCss"
       },
@@ -1415,6 +1383,38 @@
       "duration_ms": 179373,
       "name": "Diggin' Up Bones",
       "url": "https://open.spotify.com/track/6stD0CS3QFs2yY3CoBfK8K"
+    },
+    {
+      "added_at": "2024-07-05 20:32:07",
+      "album": {
+        "name": "Greatest Hits, Vol. 2",
+        "url": "https://open.spotify.com/album/1TRb99NpbCbLBiYnCis1fv"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams, Jr.",
+          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
+        }
+      ],
+      "duration_ms": 178840,
+      "name": "All My Rowdy Friends Are Coming Over Tonight",
+      "url": "https://open.spotify.com/track/1yzyhrCfdwPgfWixsCELlH"
+    },
+    {
+      "added_at": "2024-07-05 20:32:07",
+      "album": {
+        "name": "What Am I Gonna Do About You",
+        "url": "https://open.spotify.com/album/52S2Kk2P6hLkOBzncNWDjL"
+      },
+      "artists": [
+        {
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        }
+      ],
+      "duration_ms": 205866,
+      "name": "One Promise Too Late",
+      "url": "https://open.spotify.com/track/6BtBykwKhMjp4XDGc1ll1B"
     },
     {
       "added_at": "2024-07-05 20:32:07",
@@ -1939,18 +1939,18 @@
     {
       "added_at": "2024-07-05 20:32:07",
       "album": {
-        "name": "Oak Ridge Boys Greatest Hits",
-        "url": "https://open.spotify.com/album/3LeMf9unDBiy665fDBJWcN"
+        "name": "The Forester Sisters",
+        "url": "https://open.spotify.com/album/3LDzLEr1jGClFSMrdwdjcA"
       },
       "artists": [
         {
-          "name": "The Oak Ridge Boys",
-          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
+          "name": "The Forester Sisters",
+          "url": "https://open.spotify.com/artist/27Zy5YAD3Atf56oSRfrfis"
         }
       ],
-      "duration_ms": 182200,
-      "name": "Leaving Louisiana In The Broad Daylight",
-      "url": "https://open.spotify.com/track/1ADDagtKH24eNO8eJ6II6j"
+      "duration_ms": 170146,
+      "name": "Mama's Never Seen Those Eyes",
+      "url": "https://open.spotify.com/track/2CpnNgpSYSjwkyXAJqHSnP"
     },
     {
       "added_at": "2024-07-05 20:32:07",
@@ -1975,34 +1975,18 @@
     {
       "added_at": "2024-07-05 20:32:07",
       "album": {
-        "name": "The Forester Sisters",
-        "url": "https://open.spotify.com/album/3LDzLEr1jGClFSMrdwdjcA"
+        "name": "Oak Ridge Boys Greatest Hits",
+        "url": "https://open.spotify.com/album/3LeMf9unDBiy665fDBJWcN"
       },
       "artists": [
         {
-          "name": "The Forester Sisters",
-          "url": "https://open.spotify.com/artist/27Zy5YAD3Atf56oSRfrfis"
+          "name": "The Oak Ridge Boys",
+          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
         }
       ],
-      "duration_ms": 170146,
-      "name": "Mama's Never Seen Those Eyes",
-      "url": "https://open.spotify.com/track/2CpnNgpSYSjwkyXAJqHSnP"
-    },
-    {
-      "added_at": "2024-07-05 20:32:07",
-      "album": {
-        "name": "Cheat the Night",
-        "url": "https://open.spotify.com/album/6ZMLxQUzTCjKYB1IVhAgLM"
-      },
-      "artists": [
-        {
-          "name": "Deborah Allen",
-          "url": "https://open.spotify.com/artist/0WO15UbgUyKKtn1anzZP5u"
-        }
-      ],
-      "duration_ms": 250120,
-      "name": "Baby I Lied",
-      "url": "https://open.spotify.com/track/5KqGrafc3paz7bNPju5Ne9"
+      "duration_ms": 182200,
+      "name": "Leaving Louisiana In The Broad Daylight",
+      "url": "https://open.spotify.com/track/1ADDagtKH24eNO8eJ6II6j"
     },
     {
       "added_at": "2024-07-05 20:32:07",
@@ -2019,6 +2003,22 @@
       "duration_ms": 194160,
       "name": "Heartbroke",
       "url": "https://open.spotify.com/track/79gYsiFPJ8x6ofr656fVIP"
+    },
+    {
+      "added_at": "2024-07-05 20:32:07",
+      "album": {
+        "name": "Cheat the Night",
+        "url": "https://open.spotify.com/album/6ZMLxQUzTCjKYB1IVhAgLM"
+      },
+      "artists": [
+        {
+          "name": "Deborah Allen",
+          "url": "https://open.spotify.com/artist/0WO15UbgUyKKtn1anzZP5u"
+        }
+      ],
+      "duration_ms": 250120,
+      "name": "Baby I Lied",
+      "url": "https://open.spotify.com/track/5KqGrafc3paz7bNPju5Ne9"
     },
     {
       "added_at": "2024-07-05 20:32:07",
@@ -2107,6 +2107,22 @@
     {
       "added_at": "2024-07-05 20:32:07",
       "album": {
+        "name": "16 Biggest Hits",
+        "url": "https://open.spotify.com/album/7KoA9fS06LDxutPtdt5IUu"
+      },
+      "artists": [
+        {
+          "name": "Ricky Skaggs",
+          "url": "https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks"
+        }
+      ],
+      "duration_ms": 188893,
+      "name": "Highway 40 Blues",
+      "url": "https://open.spotify.com/track/58hXpQTyQLiskPd5XiLzFQ"
+    },
+    {
+      "added_at": "2024-07-05 20:32:07",
+      "album": {
         "name": "Gene Watson's Greatest Hits",
         "url": "https://open.spotify.com/album/1PKnP8QXBvGKbNWEBhxGsp"
       },
@@ -2155,22 +2171,6 @@
     {
       "added_at": "2024-07-05 20:32:07",
       "album": {
-        "name": "16 Biggest Hits",
-        "url": "https://open.spotify.com/album/7KoA9fS06LDxutPtdt5IUu"
-      },
-      "artists": [
-        {
-          "name": "Ricky Skaggs",
-          "url": "https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks"
-        }
-      ],
-      "duration_ms": 188893,
-      "name": "Highway 40 Blues",
-      "url": "https://open.spotify.com/track/58hXpQTyQLiskPd5XiLzFQ"
-    },
-    {
-      "added_at": "2024-07-05 20:32:07",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1YRCRPM4KO5aYfg8LWPw9Z"
       },
@@ -2183,6 +2183,22 @@
       "duration_ms": 208160,
       "name": "If It Don't Come Easy",
       "url": "https://open.spotify.com/track/3YuCV1BpUaitv016B5Lpcu"
+    },
+    {
+      "added_at": "2024-07-05 20:32:07",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/6J6IoDmM8Ls9koPtdm11Yu"
+      },
+      "artists": [
+        {
+          "name": "T.G. Sheppard",
+          "url": "https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh"
+        }
+      ],
+      "duration_ms": 190733,
+      "name": "Do You Wanna Go to Heaven",
+      "url": "https://open.spotify.com/track/27QrAETf4eB2J533ktttTw"
     },
     {
       "added_at": "2024-07-05 20:32:07",
@@ -2203,22 +2219,6 @@
       "duration_ms": 160773,
       "name": "Two Story House",
       "url": "https://open.spotify.com/track/6PzCKkM1FLgIVCaAQkKyuZ"
-    },
-    {
-      "added_at": "2024-07-05 20:32:07",
-      "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/6J6IoDmM8Ls9koPtdm11Yu"
-      },
-      "artists": [
-        {
-          "name": "T.G. Sheppard",
-          "url": "https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh"
-        }
-      ],
-      "duration_ms": 190733,
-      "name": "Do You Wanna Go to Heaven",
-      "url": "https://open.spotify.com/track/27QrAETf4eB2J533ktttTw"
     },
     {
       "added_at": "2024-07-05 20:32:07",

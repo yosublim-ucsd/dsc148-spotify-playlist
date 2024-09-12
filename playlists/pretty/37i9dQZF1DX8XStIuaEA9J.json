@@ -1,12 +1,12 @@
 {
   "description": "\u4eca\u3001\u65e5\u672c\u306e\u30c6\u30a3\u30fc\u30f3\u30a8\u30a4\u30b8\u30e3\u30fc\u306b\u8074\u304b\u308c\u3066\u3044\u308b\u8a71\u984c\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: \u3042\u305f\u3089\u3088",
-  "num_followers": 179817,
+  "num_followers": 179828,
   "original_name": "Teen Culture",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuDY0gAAAAC7Gd3jnp9j6Ct4ooD3cc8w",
+  "snapshot_id": "ZuEeHwAAAABO00F2rNy9F6IlVv3RVECC",
   "tracks": [
     {
       "added_at": "2024-09-10 15:00:00",
@@ -59,6 +59,22 @@
     {
       "added_at": "2024-09-10 15:00:00",
       "album": {
+        "name": "CRAZY",
+        "url": "https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 164554,
+      "name": "CRAZY",
+      "url": "https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi"
+    },
+    {
+      "added_at": "2024-09-10 15:00:00",
+      "album": {
         "name": "WHERE DO WE GO",
         "url": "https://open.spotify.com/album/6GkIf5MU4sXwa1rHurNVAc"
       },
@@ -71,22 +87,6 @@
       "duration_ms": 157946,
       "name": "WHERE DO WE GO",
       "url": "https://open.spotify.com/track/0i2M5m2D1CYl3X1VKhmfW9"
-    },
-    {
-      "added_at": "2024-09-10 15:00:00",
-      "album": {
-        "name": "19.99",
-        "url": "https://open.spotify.com/album/4AvNQasUXJ4uHHmtypy6BF"
-      },
-      "artists": [
-        {
-          "name": "BOYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
-        }
-      ],
-      "duration_ms": 164920,
-      "name": "Nice Guy",
-      "url": "https://open.spotify.com/track/6pqyZNnLKyJKtrlf42FQoq"
     },
     {
       "added_at": "2024-09-10 15:00:00",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-09-10 15:00:00",
       "album": {
-        "name": "CRAZY",
-        "url": "https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 164554,
-      "name": "CRAZY",
-      "url": "https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi"
-    },
-    {
-      "added_at": "2024-09-10 15:00:00",
-      "album": {
         "name": "FIRST",
         "url": "https://open.spotify.com/album/1zcQeP14f6c0LuCRsMnil8"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 194084,
       "name": "FIRST",
       "url": "https://open.spotify.com/track/6YlLUGKM1bsa3yioZHQ258"
+    },
+    {
+      "added_at": "2024-09-10 15:00:00",
+      "album": {
+        "name": "19.99",
+        "url": "https://open.spotify.com/album/4AvNQasUXJ4uHHmtypy6BF"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "duration_ms": 164920,
+      "name": "Nice Guy",
+      "url": "https://open.spotify.com/track/6pqyZNnLKyJKtrlf42FQoq"
     },
     {
       "added_at": "2024-09-10 15:00:00",

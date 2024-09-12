@@ -1,12 +1,12 @@
 {
   "description": "This is Mac Miller. The essential tracks, all in one playlist.",
-  "num_followers": 893030,
+  "num_followers": 893259,
   "original_name": "This Is Mac Miller",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zt46gAAAAACRzOUnvZ1Lo1BrP5kb7D1a",
+  "snapshot_id": "Zt+MAAAAAAANh9SWGTxv7ocm+ONBcUNW",
   "tracks": [
     {
       "added_at": null,
@@ -363,6 +363,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Macadelic",
+        "url": "https://open.spotify.com/album/1xCNBnc7Gm2VudnyeyZ11Q"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 185779,
+      "name": "Thoughts from a Balcony",
+      "url": "https://open.spotify.com/track/1DWDoxqAXqMJ4B8QUMaQUw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Yours Truly",
         "url": "https://open.spotify.com/album/5xSvNPstcxHtR4ap2vvN8A"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 227026,
       "name": "The Way",
       "url": "https://open.spotify.com/track/06EL94D0TA27Ik0Ke5usbj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Macadelic",
-        "url": "https://open.spotify.com/album/1xCNBnc7Gm2VudnyeyZ11Q"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 185779,
-      "name": "Thoughts from a Balcony",
-      "url": "https://open.spotify.com/track/1DWDoxqAXqMJ4B8QUMaQUw"
     },
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faces",
-        "url": "https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 198107,
-      "name": "Diablo",
-      "url": "https://open.spotify.com/track/3BDpkLMkgrtrM3HckrVIXr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Best Day Ever (5th Anniversary Remastered Edition)",
         "url": "https://open.spotify.com/album/0YA7XxxfkaGwecj3liSTvj"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 243034,
       "name": "BDE Bonus",
       "url": "https://open.spotify.com/track/4Pafh2Ndd9O4NgO53rqJxI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Faces",
+        "url": "https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 198107,
+      "name": "Diablo",
+      "url": "https://open.spotify.com/track/3BDpkLMkgrtrM3HckrVIXr"
     },
     {
       "added_at": null,
@@ -583,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "GO:OD AM",
+        "url": "https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 180866,
+      "name": "Clubhouse",
+      "url": "https://open.spotify.com/track/7rdyAfIm1t6h6I1gyLtD17"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Faces",
         "url": "https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY"
       },
@@ -603,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GO:OD AM",
-        "url": "https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 180866,
-      "name": "Clubhouse",
-      "url": "https://open.spotify.com/track/7rdyAfIm1t6h6I1gyLtD17"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Programs",
         "url": "https://open.spotify.com/album/4RRqzZEFULTx6pafDBvOqZ"
       },
@@ -631,6 +631,22 @@
       "duration_ms": 190186,
       "name": "Programs",
       "url": "https://open.spotify.com/track/1883mCuSqnfnrWoq8i3myH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Circles (Deluxe)",
+        "url": "https://open.spotify.com/album/1YZ3k65Mqw3G8FzYlW1mmp"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 287871,
+      "name": "Right",
+      "url": "https://open.spotify.com/track/165cwz4wGlGz0uDBhxdKLY"
     },
     {
       "added_at": null,
@@ -651,22 +667,6 @@
       "duration_ms": 319272,
       "name": "We (feat. CeeLo Green)",
       "url": "https://open.spotify.com/track/4k5UZm89ZX0YAHUp55zpt9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Circles (Deluxe)",
-        "url": "https://open.spotify.com/album/1YZ3k65Mqw3G8FzYlW1mmp"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 287871,
-      "name": "Right",
-      "url": "https://open.spotify.com/track/165cwz4wGlGz0uDBhxdKLY"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Love Life, Thank You",
+        "url": "https://open.spotify.com/album/5LNX3esjvdBJ6hN4XDvCJn"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 163033,
+      "name": "The Scoop On Heaven",
+      "url": "https://open.spotify.com/track/2nZPwKpV75BQpn9snGy2xG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Divine Feminine",
         "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
       },
@@ -739,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Love Life, Thank You",
-        "url": "https://open.spotify.com/album/5LNX3esjvdBJ6hN4XDvCJn"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 163033,
-      "name": "The Scoop On Heaven",
-      "url": "https://open.spotify.com/track/2nZPwKpV75BQpn9snGy2xG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Best Day Ever (5th Anniversary Remastered Edition)",
         "url": "https://open.spotify.com/album/0YA7XxxfkaGwecj3liSTvj"
       },
@@ -767,6 +767,22 @@
       "duration_ms": 159119,
       "name": "Best Day Ever",
       "url": "https://open.spotify.com/track/1sVJY4n3fJOcrSiTA8oAos"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blue Slide Park",
+        "url": "https://open.spotify.com/album/17mAoDs7T8EA9zzlj6QPBv"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 35723,
+      "name": "Hole In My Pocket",
+      "url": "https://open.spotify.com/track/3McH4Z1SYLn2Ibv9pjN51R"
     },
     {
       "added_at": null,
@@ -787,22 +803,6 @@
       "duration_ms": 480186,
       "name": "Cinderella (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blue Slide Park",
-        "url": "https://open.spotify.com/album/17mAoDs7T8EA9zzlj6QPBv"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 35723,
-      "name": "Hole In My Pocket",
-      "url": "https://open.spotify.com/track/3McH4Z1SYLn2Ibv9pjN51R"
     },
     {
       "added_at": null,

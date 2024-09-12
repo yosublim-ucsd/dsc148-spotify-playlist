@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRQOgojqtcs.md) - [plain]
 
 > Love, sex, and heartbreak\. Listen to the official playlist for Heartbreak High, now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,037 likes - 225 songs - 14 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,048 likes - 225 songs - 14 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRQOgojqtcs.md) - [plain]
 | 26 | [The Best](https://open.spotify.com/track/4OeFQtRyT7vsLnRTv7t8YT) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [All The Best](https://open.spotify.com/album/64PNGg3YLgOkJ2ySlbrmPZ) | 5:30 |
 | 27 | [Hopefulessness](https://open.spotify.com/track/5ci7xVR94didqCdSdL3EUK) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Tell Me How You Really Feel](https://open.spotify.com/album/3l7JWewI3ZByxaT5BCgRx2) | 4:48 |
 | 28 | [Make It Up](https://open.spotify.com/track/66aoMO408FA4pLR2xWVH3f) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [Make It Up](https://open.spotify.com/album/7dc8lqqkFo9yNll6VmSsg1) | 3:50 |
-| 29 | [Steal My Sunshine](https://open.spotify.com/track/4agp6oHofabdUedr0B1krj) | [LEN](https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ) | [You Can't Stop The Bum Rush](https://open.spotify.com/album/5NndKV7nc18qRQfFvLgZ1k) | 4:25 |
+| 29 | [Steal My Sunshine](https://open.spotify.com/track/4agp6oHofabdUedr0B1krj) | [Len](https://open.spotify.com/artist/48myrQPAhsexXZVSN5YpL6) | [You Can't Stop The Bum Rush](https://open.spotify.com/album/5NndKV7nc18qRQfFvLgZ1k) | 4:25 |
 | 30 | [Bitches' Fuck\-Off](https://open.spotify.com/track/6q1miD6AVTB0G6gK3vGsQY) | [Country Teasers](https://open.spotify.com/artist/0SAeXDSWQw1qRmwTKh9uoU) | [The Pastoral \- Not Rustic \- World of Their Greatest Hits](https://open.spotify.com/album/42U0JYiNfrvGkxgcjr1uFR) | 1:46 |
 | 31 | [Trust Yourself](https://open.spotify.com/track/4PSR7IZ7pS789At0izH1o5) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1) | [January Never Dies](https://open.spotify.com/album/3KfVspuHZTMj8eg5wAH5t1) | 2:55 |
 | 32 | [S\-S\-S\-Single Bed](https://open.spotify.com/track/4gCMda9LhZWdTvAkRFr4up) | [Fox](https://open.spotify.com/artist/3EyQcW8ccZDVYK9fTlLtoX) | [Blue Hotel](https://open.spotify.com/album/3zZDXLKBGafcklKa0nsh15) | 3:52 |

@@ -2,7 +2,7 @@
 
 ### [Techno State](https://open.spotify.com/playlist/37i9dQZF1DX8ZMwsPgxIOs)
 
-> Techno is a state of mind\. Cover: Lilly Palmer, Alan Fitzpatrick
+> Techno is a state of mind\. Cover: KAS:ST
 
 413 songs - 1 day 7 hr 18 min
 
@@ -319,7 +319,7 @@
 | [See the Sun Rising](https://open.spotify.com/track/0wFXUI6pRUNLdhQYwwPykg) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [See the Sun Rising](https://open.spotify.com/album/0iFK2SVtTRzTLgU1fRiTQm) | 4:07 | 2022-09-23 | 2023-11-05 |
 | [See the Sun Rising](https://open.spotify.com/track/3idWxkGAnciwFL0DL60683) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [Electronic Generations](https://open.spotify.com/album/15XrNU8AkmvwmGkoi6sLSs) | 4:07 | 2023-10-27 | 2023-11-17 |
 | [Send Help](https://open.spotify.com/track/6jVlTi2ftKk02j3mCWsSKQ) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Send Help](https://open.spotify.com/album/2BzFB5SNQazAUMzqi9VXv1) | 3:15 | 2022-04-15 | 2022-05-27 |
-| [Shelter](https://open.spotify.com/track/2scX5RdL0wByroF3sCBzDX) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e), [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [The Belonging](https://open.spotify.com/album/3HOoATRaFgwq2VsAaWvmbh) | 4:14 | 2024-03-06 |  |
+| [Shelter](https://open.spotify.com/track/2scX5RdL0wByroF3sCBzDX) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e), [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [The Belonging](https://open.spotify.com/album/3HOoATRaFgwq2VsAaWvmbh) | 4:14 | 2024-03-06 | 2024-09-12 |
 | [Shine](https://open.spotify.com/track/6GJYSPLEP0sjZzzpuiKIcx) | [Modeā](https://open.spotify.com/artist/6dsy10LVNALrvHyVEadrsJ) | [Shine](https://open.spotify.com/album/5rOgqcs2ZryO3cZg03B27l) | 4:04 | 2022-07-01 | 2023-09-22 |
 | [Shook](https://open.spotify.com/track/3pvthFHMfvalSNxcnSJgUM) | [David Lowe](https://open.spotify.com/artist/52dT7EHXa4b74ozIjFISzD), [Brad Edgar](https://open.spotify.com/artist/32zsdaR0kbqUOgHwMAtiTx) | [Shook](https://open.spotify.com/album/5V9YlNz4b31CggAtQ5ubhV) | 3:39 | 2023-09-22 | 2024-04-05 |
 | [SHOUTOUT 2 LDN](https://open.spotify.com/track/5DcXjYl9DhpycSTarLAwVI) | [IMOGEN](https://open.spotify.com/artist/2zURvWoEmiwX3J9xeTMIgv) | [SHOUTOUT 2 LDN \(Orignal\)](https://open.spotify.com/album/5jVXiQHJImO6GcruxQRBt6) | 4:27 | 2024-05-17 |  |
@@ -382,7 +382,7 @@
 | [TRISHA](https://open.spotify.com/track/3eKCphLVlWBovVgh7veu2l) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [TRISHA](https://open.spotify.com/album/62H21Ioh6LEd8jq0ABjLRP) | 4:22 | 2024-07-03 |  |
 | [True](https://open.spotify.com/track/5W9agjZMdYy8nlZoYYj0XU) | [Cameo Blush](https://open.spotify.com/artist/2Lx2CAHHQ2IC1iXjS6Y70v) | [True](https://open.spotify.com/album/5NNuE4Gc3zvjXaUA0e6zUO) | 4:43 | 2022-04-15 | 2022-07-02 |
 | [Trust Issues](https://open.spotify.com/track/7rISI4OowAaN0ciRUPTsk8) | [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h) | [Trust Issues](https://open.spotify.com/album/0xKCAqdMT4quOxV2KcXVLf) | 2:21 | 2023-10-13 | 2024-04-05 |
-| [Twisted](https://open.spotify.com/track/3px5cJGLZzrIoPNjd7AJJY) | [Pig&Dan](https://open.spotify.com/artist/04jj7dljPI0ixtNsz2pXWK), [Betoko](https://open.spotify.com/artist/48aaubPa3RsbAp4uCPhoS7) | [Twisted](https://open.spotify.com/album/3PnGHglITPklkGdIJMZFcl) | 7:25 | 2024-03-06 |  |
+| [Twisted](https://open.spotify.com/track/3px5cJGLZzrIoPNjd7AJJY) | [Pig&Dan](https://open.spotify.com/artist/04jj7dljPI0ixtNsz2pXWK), [Betoko](https://open.spotify.com/artist/48aaubPa3RsbAp4uCPhoS7) | [Twisted](https://open.spotify.com/album/3PnGHglITPklkGdIJMZFcl) | 7:25 | 2024-03-06 | 2024-09-12 |
 | [U, My](https://open.spotify.com/track/1dMqof5wPCk7WbYCxogYeQ) | [Dense & Pika](https://open.spotify.com/artist/3tlt5onLwIKTuaOAyI6ytC) | [U, My EP](https://open.spotify.com/album/4lVY6VBggb7mEfOhXUOovf) | 6:30 | 2022-04-15 | 2023-03-15 |
 | [Under Belly](https://open.spotify.com/track/5GEHZIYECRhEHf3WKNn6qp) | [Blawan](https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI) | [Under Belly](https://open.spotify.com/album/1woR8kxDQhdBpPoiednqu2) | 3:52 | 2022-04-15 | 2022-05-27 |
 | [Under the Strobe](https://open.spotify.com/track/48TJWuMRb9ZcKAPxu03b5j) | [CAIVA](https://open.spotify.com/artist/0VevbPTec9d8audiahBL3f) | [Walk With Me \- 1st Issue](https://open.spotify.com/album/05lBFERfkGvrL0ilGwK1Jg) | 6:29 | 2022-05-06 | 2023-03-15 |
@@ -409,7 +409,7 @@
 | [When Together](https://open.spotify.com/track/26Ueac9pnDqYTCX04Y9LKK) | [Zaltsman](https://open.spotify.com/artist/64P9QlhICY8oF9DFPHHPco) | [When Together](https://open.spotify.com/album/4WQxdIVOs3LEwHpoR3FWUQ) | 5:40 | 2023-03-14 | 2023-11-28 |
 | [Wildside](https://open.spotify.com/track/5q8imvnixEYjK2YVGOaKE2) | [Yousef](https://open.spotify.com/artist/1HsWNPlqCBv9AwCFBDIEKF), [Penny F.](https://open.spotify.com/artist/3Dh740vRUlju7vg98N3Rkd) | [Wildside](https://open.spotify.com/album/3RRhOM6a9IzhKjrIKTHn0J) | 4:09 | 2022-05-06 | 2023-01-21 |
 | [Wolks Vagon](https://open.spotify.com/track/6T1DlbSvRKOtksXS7gVtel) | [Sasha](https://open.spotify.com/artist/6u4jLGLPuarS3i2XWHVxoS) | [Wolks Vagon](https://open.spotify.com/album/2PmVbQyu5unpOOweO8l6D1) | 7:41 | 2023-10-13 | 2024-04-12 |
-| [Wonderland](https://open.spotify.com/track/3IS0Tjx5Lp3XZVG2EOcxwW) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Wonderland](https://open.spotify.com/album/1hMa6QSJolhH3EYaX7siNR) | 5:44 | 2024-03-06 |  |
+| [Wonderland](https://open.spotify.com/track/3IS0Tjx5Lp3XZVG2EOcxwW) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Wonderland](https://open.spotify.com/album/1hMa6QSJolhH3EYaX7siNR) | 5:44 | 2024-03-06 | 2024-09-12 |
 | [Wonderland](https://open.spotify.com/track/6bEHsyiVaK9agrtndxqX7U) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Wonderland](https://open.spotify.com/album/4ACOWpacKULoUqkTAw8DlL) | 5:44 | 2024-03-06 | 2024-04-19 |
 | [Woohman](https://open.spotify.com/track/06MM3ZN5HKR3cBoNneLwsJ) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [Speicher 119](https://open.spotify.com/album/4nrkHclhKjKWeJJOdR677C) | 5:41 | 2022-04-15 | 2022-10-14 |
 | [X Axis](https://open.spotify.com/track/2KKSzccFD8HPxAaDzAJ9pB) | [Zaltsman](https://open.spotify.com/artist/64P9QlhICY8oF9DFPHHPco) | [X Axis](https://open.spotify.com/album/35s1aB0dcpa0fGRL8tCfof) | 4:38 | 2022-05-26 | 2023-03-15 |

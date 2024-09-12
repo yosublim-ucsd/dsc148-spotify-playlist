@@ -4,7 +4,7 @@
 
 > Pop music driving the current, every week\.  Cover: d4vd
 
-405 songs - 20 hr 19 min
+407 songs - 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Good Vibe](https://open.spotify.com/track/4MYXbphr2Scdue1gPacgWz) | [Anglesh Major](https://open.spotify.com/artist/694TqKBJmHyxenLH517cwZ) | [Ephemere](https://open.spotify.com/album/1CYqUHOrM4xOlysWVtqqRl) | 3:15 | 2022-02-04 | 2023-01-28 |
 | [Gravity \- Live from Spotify Green Screen](https://open.spotify.com/track/4NZVItNtUIaFiCxmnH1Nhn) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Gravity \- Live from Spotify Green Screen](https://open.spotify.com/album/2xIRTMOhxsMp94oFkVdDAQ) | 3:04 | 2023-12-15 | 2024-06-01 |
 | [Gravity \- Live from Spotify Green Screen](https://open.spotify.com/track/4XflKK88OP3lWpwrQxg3ll) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Gravity \- Live from Spotify Green Screen](https://open.spotify.com/album/2lRF5yXvrn9obPYMbsH2ho) | 3:04 | 2023-12-15 | 2024-04-19 |
+| [Green Lights \(La Luz\)](https://open.spotify.com/track/57MAFQ4tFh7vYefz5hyofN) | [Michaela Jaé](https://open.spotify.com/artist/1XtZq3vSEgghxZS9aqITv5) | [Green Lights \(La Luz\)](https://open.spotify.com/album/06mGkV3wuFPcfvUM2MvBhQ) | 3:24 | 2024-09-11 |  |
 | [Growing Up](https://open.spotify.com/track/29cIUh0a7WpoW6ktRdlR0W) | [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL), [Miki Ratsula](https://open.spotify.com/artist/3Yq0Ww7oAbgxcoOxthlS30) | [Growing Up](https://open.spotify.com/album/55v3pVo041pTZ4NHJh7VAI) | 3:07 | 2024-01-26 | 2024-06-01 |
 | [Guitar](https://open.spotify.com/track/6XRquB9kB5WK4FHEF26FhY) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Guitar](https://open.spotify.com/album/11ZzI1n9cMMPkb3jA2gMBc) | 3:02 | 2023-07-14 | 2024-06-01 |
 | [H.O.T.](https://open.spotify.com/track/4ARDoNfzkclZOONnsXnEtB) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [HARDC0RE DR3AMZ](https://open.spotify.com/album/13d9lBpUjqyGa1fE4FgcyD) | 2:35 | 2024-03-29 | 2024-07-16 |
@@ -176,7 +177,7 @@
 | [HUH?](https://open.spotify.com/track/6wvMhmj0Jv7sf4isnzC5RQ) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Voulez\-Vous Me To...](https://open.spotify.com/album/5FWK6nPo20qWr9OAaRyqhk) | 2:43 | 2022-04-22 | 2022-11-13 |
 | [Humble](https://open.spotify.com/track/2bGbWQwWJ6EjLUas1tCWTK) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [Humble](https://open.spotify.com/album/3Joy3iFF57gPJkonUmWPg4) | 3:55 | 2024-08-09 |  |
 | [I AM](https://open.spotify.com/track/12LIQARQMnu1SR3ECd3Fvm) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [I AM](https://open.spotify.com/album/641i013yXfYjOJFpUi9QAf) | 2:43 | 2024-06-14 |  |
-| [I Am](https://open.spotify.com/track/6MVk4SW25q1CNENQE1RHyv) | [Michaela Jaé](https://open.spotify.com/artist/1XtZq3vSEgghxZS9aqITv5) | [I Am](https://open.spotify.com/album/06AscAzNNnjwtxfzXgrElI) | 2:03 | 2024-06-14 |  |
+| [I Am](https://open.spotify.com/track/6MVk4SW25q1CNENQE1RHyv) | [Michaela Jaé](https://open.spotify.com/artist/1XtZq3vSEgghxZS9aqITv5) | [I Am](https://open.spotify.com/album/06AscAzNNnjwtxfzXgrElI) | 2:03 | 2024-06-14 | 2024-09-12 |
 | [I Hate It Here](https://open.spotify.com/track/0Z6940pgaOdtTcq7cRKlHd) | [Kayla Nicole](https://open.spotify.com/artist/0jL5A3JBu46MsYrr5JMPuT) | [I Hate It Here](https://open.spotify.com/album/5Fc124ULQTT8VGQIWLTHCZ) | 2:50 | 2023-02-24 | 2023-12-09 |
 | [I Hate That I Care](https://open.spotify.com/track/2PQSqRFBhbPtQ39sHRbZkE) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [I Hate That I Care](https://open.spotify.com/album/76PLp48INGRaOBffDFT5t3) | 2:46 | 2023-11-17 | 2024-06-01 |
 | [I Love This Song](https://open.spotify.com/track/2VKbUViTadYv4fH8JRPHDc) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [I Love This Song](https://open.spotify.com/album/4I5XWDLmyLUaNsJFulMhh7) | 3:26 | 2022-02-04 | 2023-01-28 |
@@ -255,6 +256,7 @@
 | [Need to Know](https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:30 | 2022-02-04 | 2022-04-16 |
 | [Needs](https://open.spotify.com/track/6sg284TefDkBpFh0317Agp) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [BB/ANG3L](https://open.spotify.com/album/0Ytzeqoskd5VfSVfGGA1SM) | 2:26 | 2023-09-15 | 2024-06-01 |
 | [Never Let You Down](https://open.spotify.com/track/6zWPfPb2nJNYWjAjNK8b2K) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Never Let You Down](https://open.spotify.com/album/53nMugCwdCih4FQorDoNiS) | 3:21 | 2023-09-15 | 2024-04-13 |
+| [NEW DROP](https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 3:37 | 2024-09-11 |  |
 | [New Normal](https://open.spotify.com/track/2CIYemjFXdmCWpJnfbtrD6) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [New Normal](https://open.spotify.com/album/3icfuNPdPHFm1FS8WdBvRk) | 3:18 | 2022-02-04 | 2023-01-28 |
 | [Next Man](https://open.spotify.com/track/1bZGBaMyZg7GBPlrHYIf5r) | [GOODBADUGLY](https://open.spotify.com/artist/1lhpezG9iqq6YgLFcKlIA9) | [Next Man](https://open.spotify.com/album/5ogrytJDkmemHwG7cYMJ19) | 3:04 | 2022-02-04 | 2023-01-28 |
 | [No Broke Boys](https://open.spotify.com/track/5yTYLJY7Atcew0MHm7bmjk) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Quantum Baby](https://open.spotify.com/album/6lCHEpHcYgC24XO87InJjZ) | 2:12 | 2024-08-23 |  |
@@ -399,7 +401,7 @@
 | [Where Do We Go Now? \(Music from Lil Nas X: Long Live Montero\)](https://open.spotify.com/track/0jeRoIMD1LHhUkQEbjkXQv) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [Where Do We Go Now? \(Music from Lil Nas X: Long Live Montero\)](https://open.spotify.com/album/3xYwyMzauc6ENKu2HhpuiP) | 3:15 | 2024-01-26 | 2024-06-01 |
 | [Where you are \(feat\. WILLOW\)](https://open.spotify.com/track/4icnlpI5IbZcRO9mpixVVW) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Where you are \(feat\. WILLOW\)](https://open.spotify.com/album/1wFiFlS50SnyKPAIcBzAQN) | 2:33 | 2022-04-22 | 2023-01-28 |
 | [Who I Am](https://open.spotify.com/track/5rnA7GuOZvPWYHuydZ08zx) | [Wyn Starks](https://open.spotify.com/artist/3rXMN9AbcZXln8vo79ufNQ) | [Black Is Golden](https://open.spotify.com/album/6jjBFckHG6PiKlHNGjvNQK) | 3:23 | 2024-07-01 |  |
-| [Who's Gonna](https://open.spotify.com/track/2X3xur7x1K5PYiWrzJfM1O) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Who's Gonna](https://open.spotify.com/album/4PJdPJ45GyTzBrKYgJIheH) | 2:58 | 2024-05-20 |  |
+| [Who's Gonna](https://open.spotify.com/track/2X3xur7x1K5PYiWrzJfM1O) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Who's Gonna](https://open.spotify.com/album/4PJdPJ45GyTzBrKYgJIheH) | 2:58 | 2024-05-20 | 2024-09-12 |
 | [Why Is She Calling?](https://open.spotify.com/track/5Sb83ml5k9pdRIqIkWfWNv) | [Black Peppa](https://open.spotify.com/artist/07CsKr37FQnxbfQxokCBFs) | [Why Is She Calling?](https://open.spotify.com/album/4XhHHcPjfMsdvuVBGBtOi8) | 2:56 | 2023-01-27 | 2023-11-18 |
 | [Wild Side \(feat\. Cardi B\)](https://open.spotify.com/track/2vXgyN14LX2zl7JEASw242) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Wild Side \(feat\. Cardi B\)](https://open.spotify.com/album/16maAu5lqvFBSEEHyB5GzV) | 3:29 | 2022-04-22 | 2023-01-28 |
 | [Wild Side \(feat\. Cardi B\)](https://open.spotify.com/track/4XkrlDVc8UQUvsyRsxvU0M) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Wild Side \(feat\. Cardi B\)](https://open.spotify.com/album/5RB5wkvts1gXIiDwRa8WQL) | 3:29 | 2022-02-04 | 2022-07-29 |

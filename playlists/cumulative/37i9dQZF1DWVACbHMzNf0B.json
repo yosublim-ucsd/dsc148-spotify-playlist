@@ -7829,6 +7829,24 @@
     },
     {
       "album": {
+        "name": "M\u00e1s Que Perfecta",
+        "url": "https://open.spotify.com/album/1QxDZJJjtY5Z0lLW8QPoeK"
+      },
+      "artists": [
+        {
+          "name": "Bohemio",
+          "url": "https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196280,
+      "name": "M\u00e1s Que Perfecta",
+      "url": "https://open.spotify.com/track/6zhOJG1VaDiXo7i7bg1QL4"
+    },
+    {
+      "album": {
         "name": "M\u00e1s Te Va a Doler",
         "url": "https://open.spotify.com/album/7GXA6EaThSEbjVVdaBvuZg"
       },

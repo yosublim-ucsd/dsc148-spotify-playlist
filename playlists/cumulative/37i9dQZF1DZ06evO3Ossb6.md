@@ -2,7 +2,7 @@
 
 ### [This Is Alejandro Fernández](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Ossb6)
 
-> This is Alejandro Fernández\. The essential tracks, all in one playlist.
+> This Is Alejandro Fernández\. Sus mejores éxitos, todos en una playlist.
 
 64 songs - 3 hr 42 min
 

@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Ana Mena, Emilia",
-  "num_followers": 965369,
+  "num_followers": 965366,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
@@ -767,22 +767,18 @@
     {
       "added_at": "2024-09-09 08:19:00",
       "album": {
-        "name": "to lo ke",
-        "url": "https://open.spotify.com/album/5lMTXM5AoxKNTAS084MQb0"
+        "name": "Tu Loca",
+        "url": "https://open.spotify.com/album/2azunHTrQxU6hJ4qPFDQoP"
       },
       "artists": [
         {
-          "name": "Stay Homas",
-          "url": "https://open.spotify.com/artist/7fUEi9sgiLw8gwQ307T6IU"
-        },
-        {
-          "name": "KICKBOMBO",
-          "url": "https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh"
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
         }
       ],
-      "duration_ms": 166943,
-      "name": "to lo ke",
-      "url": "https://open.spotify.com/track/6aIXhiqT4Oec2VY1tPky8G"
+      "duration_ms": 190928,
+      "name": "Tu Loca",
+      "url": "https://open.spotify.com/track/3rNjg96AJMRTsRZ6GKRICw"
     },
     {
       "added_at": "2024-09-09 08:19:00",
@@ -803,6 +799,26 @@
       "duration_ms": 166400,
       "name": "Mi + 1",
       "url": "https://open.spotify.com/track/7vr6sOiAkiDVteYSmg5FNU"
+    },
+    {
+      "added_at": "2024-09-09 08:19:00",
+      "album": {
+        "name": "to lo ke",
+        "url": "https://open.spotify.com/album/5lMTXM5AoxKNTAS084MQb0"
+      },
+      "artists": [
+        {
+          "name": "Stay Homas",
+          "url": "https://open.spotify.com/artist/7fUEi9sgiLw8gwQ307T6IU"
+        },
+        {
+          "name": "KICKBOMBO",
+          "url": "https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh"
+        }
+      ],
+      "duration_ms": 166943,
+      "name": "to lo ke",
+      "url": "https://open.spotify.com/track/6aIXhiqT4Oec2VY1tPky8G"
     },
     {
       "added_at": "2024-09-09 08:19:00",
@@ -831,22 +847,6 @@
     {
       "added_at": "2024-09-09 08:19:00",
       "album": {
-        "name": "Tu Loca",
-        "url": "https://open.spotify.com/album/2azunHTrQxU6hJ4qPFDQoP"
-      },
-      "artists": [
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        }
-      ],
-      "duration_ms": 190928,
-      "name": "Tu Loca",
-      "url": "https://open.spotify.com/track/3rNjg96AJMRTsRZ6GKRICw"
-    },
-    {
-      "added_at": "2024-09-09 08:19:00",
-      "album": {
         "name": "ni regalao",
         "url": "https://open.spotify.com/album/4hlDcUzlW1igkBjKmt90Ln"
       },
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-09-09 08:19:00",
       "album": {
-        "name": "Lo que fuimos",
-        "url": "https://open.spotify.com/album/36Sg2N2IzHooZ2dTDmYSA2"
-      },
-      "artists": [
-        {
-          "name": "Marlon",
-          "url": "https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs"
-        }
-      ],
-      "duration_ms": 167696,
-      "name": "Lo que fuimos",
-      "url": "https://open.spotify.com/track/3ET7xi7oTO3g6ixCGgYzse"
-    },
-    {
-      "added_at": "2024-09-09 08:19:00",
-      "album": {
         "name": "solo un nombre",
         "url": "https://open.spotify.com/album/4G9SYkkeCeO0jXTQxDOxFz"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 168661,
       "name": "solo un nombre",
       "url": "https://open.spotify.com/track/4WOLdudWcyjYUuRYGYd8uY"
+    },
+    {
+      "added_at": "2024-09-09 08:19:00",
+      "album": {
+        "name": "Lo que fuimos",
+        "url": "https://open.spotify.com/album/36Sg2N2IzHooZ2dTDmYSA2"
+      },
+      "artists": [
+        {
+          "name": "Marlon",
+          "url": "https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs"
+        }
+      ],
+      "duration_ms": 167696,
+      "name": "Lo que fuimos",
+      "url": "https://open.spotify.com/track/3ET7xi7oTO3g6ixCGgYzse"
     },
     {
       "added_at": "2024-09-09 08:19:00",

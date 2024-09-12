@@ -5931,6 +5931,24 @@
     },
     {
       "album": {
+        "name": "I Used To Know Her",
+        "url": "https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243306,
+      "name": "Take You There",
+      "url": "https://open.spotify.com/track/0jq34bzlBreNWsnp8rvlvK"
+    },
+    {
+      "album": {
         "name": "Talk",
         "url": "https://open.spotify.com/album/58kvvQvx6OtLqEDhqYSzyM"
       },

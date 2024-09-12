@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO0urPQk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO0urPQk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO0urPQk)
 
-### [This Is 水樹奈々](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0urPQk)
+### [This Is Nana Mizuki](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0urPQk)
 
-> This is 水樹奈々。アーティストの代表曲をひとつのプレイリストに。
+> This is Nana Mizuki\. Todos os maiores hits em uma só playlist.
 
-117 songs - 8 hr 15 min
+118 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Level Hi!](https://open.spotify.com/track/4TlPCcw4M9clVHqHSHYWP7) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [SECRET AMBITION](https://open.spotify.com/album/2M97BLXBpREKzRgChj527r) | 3:43 | 2024-07-05 |  |
 | [Link or Chains](https://open.spotify.com/track/3KSIV445te911EhHIn25Pn) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [Link or Chains](https://open.spotify.com/album/2c4hiHWpGm1AU31mfIc4Y4) | 3:44 | 2024-07-02 | 2024-08-07 |
 | [Link or Chains](https://open.spotify.com/track/100h1Dh7OLkPvvojCBvspd) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [DELIGHTED REVIVER](https://open.spotify.com/album/3lRVQZ0Gbzk6OqXFIhOkNO) | 3:45 | 2022-07-23 | 2022-10-07 |
+| [Love Brick](https://open.spotify.com/track/6Xo06kovS9cOG5Nrlnk19o) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [Synchrogazer](https://open.spotify.com/album/0em2lAYqDwbG6EZ2tAokS8) | 4:41 | 2024-09-12 |  |
 | [Love Fight!](https://open.spotify.com/track/3U8eJXgb6ciqcb347KYOwm) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [CANNONBALL RUNNING](https://open.spotify.com/album/02moJLic5EMfR2on6CHuJ8) | 3:27 | 2023-09-09 | 2023-09-11 |
 | [MARIA&JOKER](https://open.spotify.com/track/5hiyfMUO0OYNyhTEMfNaAN) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [ULTIMATE DIAMOND](https://open.spotify.com/album/6YjWSq0UNQ7oqLAL7Af6dL) | 4:11 | 2022-08-09 | 2022-09-02 |
 | [MASSIVE WONDERS](https://open.spotify.com/track/193WAoYb9MkQtsm25oOiAd) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM II](https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN) | 4:15 | 2022-06-09 | 2022-10-13 |
@@ -104,7 +105,7 @@
 | [ヒメムラサキ](https://open.spotify.com/track/5vWrf8YWJ0lsRqr6hH67yV) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [WILD EYES](https://open.spotify.com/album/7G8FGpeEVgitvFOuSD9Gkv) | 4:59 | 2022-06-09 |  |
 | [ミラクル☆フライト](https://open.spotify.com/track/3jwF0jz0dcAqGlLMAxK0rc) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [ALIVE&KICKING](https://open.spotify.com/album/1huJVCFa253gaYPx6P2f3i) | 4:09 | 2023-02-24 | 2023-03-04 |
 | [レイジーシンドローム](https://open.spotify.com/track/3xuoTY7rAvOXWlHgoAZNdv) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [SMASHING ANTHEMS](https://open.spotify.com/album/0ebMgBTomQnd3WNUpjnLlK) | 3:57 | 2022-08-31 | 2022-09-05 |
-| [優しい記憶](https://open.spotify.com/track/7aflYr5Lp48MPWH5BTWfiL) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [ADRENALIZED](https://open.spotify.com/album/5YJyrGRr8FE3IRZdaTG94T) | 4:00 | 2024-04-27 |  |
+| [優しい記憶](https://open.spotify.com/track/7aflYr5Lp48MPWH5BTWfiL) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [ADRENALIZED](https://open.spotify.com/album/5YJyrGRr8FE3IRZdaTG94T) | 4:00 | 2024-04-27 | 2024-09-12 |
 | [全力DREAMER](https://open.spotify.com/track/1aIdOv8ouABjERE1nIrjKB) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [DELIGHTED REVIVER](https://open.spotify.com/album/3lRVQZ0Gbzk6OqXFIhOkNO) | 3:32 | 2022-07-09 |  |
 | [嘆きの華](https://open.spotify.com/track/0sykGYWNmdFkBXJurdnWKo) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [NEVER SURRENDER](https://open.spotify.com/album/211qg1BzWTHv6E211iWdzj) | 3:52 | 2022-06-09 |  |
 | [囚われのBabel](https://open.spotify.com/track/1low37x2FWfAv57ISuPKGO) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [IMPACT EXCITER](https://open.spotify.com/album/7eRju7cXN0JfW34mqwVeUA) | 4:30 | 2024-06-26 |  |

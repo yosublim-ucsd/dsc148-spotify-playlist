@@ -6,8 +6,44 @@
     "name": "Jenesaispop",
     "url": "https://open.spotify.com/user/jenesaispop"
   },
-  "snapshot_id": "AACeJh818O/dXd+js0mWBhb0QM6UcbvB",
+  "snapshot_id": "AACeKZkzwh2lpLC1d0l2fsW4aJ0jybnS",
   "tracks": [
+    {
+      "added_at": "2024-09-11 09:13:46",
+      "album": {
+        "name": "In My Dreams",
+        "url": "https://open.spotify.com/album/5XSd8ZVFkVv0VsCznOA6Ia"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 290625,
+      "name": "In My Dreams",
+      "url": "https://open.spotify.com/track/0cs3wJc2hHHGHw13ZTYf5j"
+    },
+    {
+      "added_at": "2024-09-11 09:13:59",
+      "album": {
+        "name": "Audacious",
+        "url": "https://open.spotify.com/album/6tApXgjCNnGOeB176tJiKV"
+      },
+      "artists": [
+        {
+          "name": "Franz Ferdinand",
+          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "duration_ms": 203692,
+      "name": "Audacious",
+      "url": "https://open.spotify.com/track/53OqecARVvVCUTjL1yg0sq"
+    },
     {
       "added_at": "2024-09-06 04:36:20",
       "album": {
@@ -1392,8 +1428,8 @@
           "url": "https://open.spotify.com/artist/39Fgy3DGHvOP32RcQ8U4bv"
         },
         {
-          "name": "G G",
-          "url": "https://open.spotify.com/artist/6hepB9skRNYPl9CkOpwKGj"
+          "name": "gg",
+          "url": "https://open.spotify.com/artist/12XC7Vu5zRQ9Q8UFmX6Fnw"
         }
       ],
       "duration_ms": 159090,

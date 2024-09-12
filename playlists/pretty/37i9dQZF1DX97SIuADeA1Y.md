@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 
 > slap house on repeat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,096 likes - 60 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,102 likes - 60 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,10 +16,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 6 | [Rampampam](https://open.spotify.com/track/1esZgaqm0YKN87CIP3orJ3) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [Rampampam](https://open.spotify.com/album/2T8Pt4GzZ0CgaFeEugC1Zj) | 3:20 |
 | 7 | [Rainy \(with REI AMI\)](https://open.spotify.com/track/4feAKLuq3ShnAA84HcUFvf) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [This Mixtape is Fire TOO](https://open.spotify.com/album/5H1GCTOowyeZzBVBddvdFD) | 2:44 |
 | 8 | [Touch](https://open.spotify.com/track/2nCIE2AVFQ1adRVkocdGOp) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx) | [Touch](https://open.spotify.com/album/5ik87NiTm8sIW95DZjJPUk) | 2:24 |
-| 9 | [Electricity](https://open.spotify.com/track/1Rz3Xw2qOsRncTVajZR3cY) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Electricity](https://open.spotify.com/album/0sh0aEIH7aK0d0sqdYiE6H) | 2:40 |
+| 9 | [BBA \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/2is7SQVl0417fY8Cw56Jkf) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Infinite Icon](https://open.spotify.com/album/1nfalq2GeQblyDqn9wYzWx) | 2:55 |
 | 10 | [SAY IT RIGHT](https://open.spotify.com/track/0OqwQgw65uPda8vhAwC6Dj) | [Ilkay Sencan](https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [SAY IT RIGHT](https://open.spotify.com/album/0JAVn7KQVTjlnoO8nOBhHu) | 3:33 |
-| 11 | [Boots](https://open.spotify.com/track/0i9adAf1xiL0EbOcog6rEo) | [TMW](https://open.spotify.com/artist/2FkO69EvXtiMZfDuq0rN1V), [BE.TH](https://open.spotify.com/artist/1Qh8P106aMcoG0V0zJMGxF) | [Boots](https://open.spotify.com/album/2DbkReYC72KnO92dAL8V0Z) | 2:41 |
-| 12 | [BBA \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/2is7SQVl0417fY8Cw56Jkf) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Infinite Icon](https://open.spotify.com/album/1nfalq2GeQblyDqn9wYzWx) | 2:55 |
+| 11 | [Electricity](https://open.spotify.com/track/1Rz3Xw2qOsRncTVajZR3cY) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Electricity](https://open.spotify.com/album/0sh0aEIH7aK0d0sqdYiE6H) | 2:40 |
+| 12 | [Boots](https://open.spotify.com/track/0i9adAf1xiL0EbOcog6rEo) | [TMW](https://open.spotify.com/artist/2FkO69EvXtiMZfDuq0rN1V), [BE.TH](https://open.spotify.com/artist/1Qh8P106aMcoG0V0zJMGxF) | [Boots](https://open.spotify.com/album/2DbkReYC72KnO92dAL8V0Z) | 2:41 |
 | 13 | [Whistle \(feat\. Bertie Scott\)](https://open.spotify.com/track/6hEJvWfNOvTUhLuV1Or1of) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L), [Bertie Scott](https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro) | [Whistle \(feat\. Bertie Scott\)](https://open.spotify.com/album/2tlaSaJ2IdkVS7agsPP8uJ) | 2:20 |
 | 14 | [Drunk in Love](https://open.spotify.com/track/0rG5jvbdBRAg7paORdTWSe) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [Slap House Party](https://open.spotify.com/album/7risiHnzUvnYXey8cpEdoX) | 2:45 |
 | 15 | [Ring of Ice \- Stereoact Remix](https://open.spotify.com/track/2PyjUxnsU3VA6KtumvtaES) | [Jennifer Rush](https://open.spotify.com/artist/3fsCWTIuWIRvEGS7gerSJX), [Stereoact](https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a) | [Ring of Ice \(Stereoact Remix\)](https://open.spotify.com/album/7pZQV6kTHSUnKIMLBGAicD) | 3:36 |

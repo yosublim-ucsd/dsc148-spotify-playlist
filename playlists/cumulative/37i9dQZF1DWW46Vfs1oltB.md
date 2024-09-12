@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: YUNGIN, Jay Park\(박재범\)\)
 
-1,308 songs - 2 day 22 hr 57 min
+1,309 songs - 2 day 23 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -402,6 +402,7 @@
 | [genius complex](https://open.spotify.com/track/6LOSm4BBw3mM9jT7zl1utx) | [장지수 \(Sou\)](https://open.spotify.com/artist/1vBvAsATHK80ncSc7f8cUZ) | [have](https://open.spotify.com/album/4POsG1g3nbJ4T46CIUlh3f) | 2:59 | 2023-06-13 | 2023-06-21 |
 | [Get It](https://open.spotify.com/track/7cACJwffFNUIEznL65UOc2) | [B\-Free](https://open.spotify.com/artist/5xHC23kCM6goKp7bDDXE3T), [Hukky Shibaseki](https://open.spotify.com/artist/6QcVY6zyMPqZO23XcxNZng) | [Free Hukky Shibaseki & the God Sun Symphony Group : Odyssey.1](https://open.spotify.com/album/2oA8sukittptlD7NRqIaop) | 2:50 | 2024-07-16 |  |
 | [Get That Money](https://open.spotify.com/track/6xUr0E0RDz7WNdA4Hn0Myt) | [Okasian](https://open.spotify.com/artist/5XdnR0kqQUWzeTDdsJNulO) | [Get That Money](https://open.spotify.com/album/5VVe0kiU7ha5ou5lqtb70B) | 3:15 | 2024-02-08 | 2024-03-09 |
+| [Gets Me Hot \(feat\. Tyla Yaweh & The Quiett\)](https://open.spotify.com/track/3CfjGkW8MsMwImYqMRBsob) | [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr) | [ME TIME](https://open.spotify.com/album/35yOKT2x4cwAPm0CQ8DF6s) | 2:55 | 2024-09-11 |  |
 | [gganbu \(Feat\. YUMDDA, ASH ISLAND\) \(Prod\. TOIL\)](https://open.spotify.com/track/4XI5Kdm1zdSFxdIGd9xUVT) | [KOONTA](https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c), [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Show Me The Money 10 Episode 3](https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql) | 4:06 | 2022-01-15 | 2022-04-19 |
 | [Ghost](https://open.spotify.com/track/1RomIFRvHC7GI484Mwpusl) | [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [Ghost](https://open.spotify.com/album/2S26DTyEtqysktNNYLKZCb) | 3:08 | 2024-03-22 | 2024-06-05 |
 | [Ghost \(Feat\. Gaeko, viceversa\)](https://open.spotify.com/track/4HM22JAZV3nf9RI6PLgpdz) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [viceversa](https://open.spotify.com/artist/5M6uaTVVZuyAkdr60oWKrJ) | [\[ Rorschach \] Part 2](https://open.spotify.com/album/1NC8ddXkrZkHcmiuxT1sZX) | 4:24 | 2023-06-20 | 2023-11-04 |

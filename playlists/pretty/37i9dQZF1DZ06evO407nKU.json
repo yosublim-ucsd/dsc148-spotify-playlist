@@ -1,12 +1,12 @@
 {
-  "description": "This is Perdidos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 49667,
+  "description": "This Is Perdidos De Sinaloa. Los temas esenciales, todos en una lista.",
+  "num_followers": 49675,
   "original_name": "This Is Perdidos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zt46gAAAAABZvw2xy3eZjmrks0nAvkJr",
+  "snapshot_id": "Zt+MAAAAAADkGunnOgFzhu31vM47aSfe",
   "tracks": [
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "D\u00edganle",
-        "url": "https://open.spotify.com/album/5koK3UlXNmcyqYkrBLeM5b"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 175842,
-      "name": "Diganle",
-      "url": "https://open.spotify.com/track/0p4jQi8PPHpdtq43nrsNqs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ya Duele Menos",
         "url": "https://open.spotify.com/album/6LqH5ZKr2oQKEQDEmuS5CW"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 184348,
       "name": "Ya Duele Menos",
       "url": "https://open.spotify.com/track/6JeHDdT9XS85PUhpylH2eJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "D\u00edganle",
+        "url": "https://open.spotify.com/album/5koK3UlXNmcyqYkrBLeM5b"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 175842,
+      "name": "Diganle",
+      "url": "https://open.spotify.com/track/0p4jQi8PPHpdtq43nrsNqs"
     },
     {
       "added_at": null,
@@ -879,22 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ayer Ped\u00ed",
-        "url": "https://open.spotify.com/album/16wXgjMSLDvU6xgfq68QMR"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 182158,
-      "name": "Ayer Ped\u00ed",
-      "url": "https://open.spotify.com/track/1gwUbm3lF2PLacBv4OoXgs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Porque Te Amo",
         "url": "https://open.spotify.com/album/4iX8wQOf7j8lD6fYLaSIqg"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 186462,
       "name": "Porque Te Amo",
       "url": "https://open.spotify.com/track/2HNbR9kQlVV6GZNpK8fdvh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ayer Ped\u00ed",
+        "url": "https://open.spotify.com/album/16wXgjMSLDvU6xgfq68QMR"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 182158,
+      "name": "Ayer Ped\u00ed",
+      "url": "https://open.spotify.com/track/1gwUbm3lF2PLacBv4OoXgs"
     },
     {
       "added_at": null,

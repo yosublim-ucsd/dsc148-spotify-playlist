@@ -4,7 +4,7 @@
 
 > 
 
-326 songs - 21 hr 58 min
+328 songs - 22 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Fables](https://open.spotify.com/track/3I49KOk2e2Fxoh6IlSiTKX) | [Rahill](https://open.spotify.com/artist/0a0L1YLGhMT64hsSh9M9aM), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Fables](https://open.spotify.com/album/5H2wrctr9Ft7PL6pn8UE81) | 4:51 | 2023-03-29 | 2023-10-21 |
 | [Fader \- Edit](https://open.spotify.com/track/4oR9onkuU2xWQL3E5apApP) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Fader](https://open.spotify.com/album/2WKucBnirwfJwNMtcxxD1U) | 2:24 | 2023-06-20 | 2023-10-13 |
 | [Faint of Hearts](https://open.spotify.com/track/0CaOlIGjs5oZH8V7zzTEIb) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [Human and Kind](https://open.spotify.com/album/6NVZcL5hrDcO3QlEC6Wy40) | 3:29 | 2022-03-25 | 2022-07-29 |
+| [Faithless](https://open.spotify.com/track/75WGKUulm21jqVSoZETrQT) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [Faithless](https://open.spotify.com/album/0mdOEm115gzcsxtjgHiTQP) | 3:35 | 2024-09-11 |  |
 | [Faust](https://open.spotify.com/track/1S2sO3ExZiT35UOAb9AIQs) | [Kit Sebastian](https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY) | [Faust](https://open.spotify.com/album/1hQzzeC9dpnh7HU29ipXRd) | 4:30 | 2024-06-20 | 2024-09-11 |
 | [Feel](https://open.spotify.com/track/5mMCnnycAkho18eZmZIDwi) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Feel](https://open.spotify.com/album/1xr54fLjHQSPjOF3MF6pEm) | 3:39 | 2024-05-23 | 2024-07-17 |
 | [Feeling Alive](https://open.spotify.com/track/6E8Mb30yWPFcT2Y3be4CjY) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Feeling Alive](https://open.spotify.com/album/3lWtwOXZx0JW7y9ynpcVQ2) | 3:49 | 2024-08-08 |  |
@@ -126,7 +127,7 @@
 | [Gentle Heart](https://open.spotify.com/track/1OFjWqPsPZ2rJLrfPPcvka) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [DREAMER](https://open.spotify.com/album/1Jr7mHRUgVIbdnbC6LI07M) | 5:45 | 2023-04-28 | 2023-08-12 |
 | [Geronimo](https://open.spotify.com/track/50p95vsF3KsQ1Yp4tt6Qkf) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Geronimo](https://open.spotify.com/album/618RtNZZo1Qmgm3CkDaqdn) | 3:33 | 2022-07-12 | 2023-04-21 |
 | [ghosts](https://open.spotify.com/track/0PQ4VI53cK9ZeKluejZmoC) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [ghosts](https://open.spotify.com/album/4q37Z0rAJjMmxHf3ORQHb8) | 3:40 | 2023-08-09 | 2023-09-16 |
-| [Girls](https://open.spotify.com/track/5XWwqKNVlQO07sdngDh8iL) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Girls](https://open.spotify.com/album/1ZVBWask9JSAT7nbkCvCRK) | 3:25 | 2024-06-18 |  |
+| [Girls](https://open.spotify.com/track/5XWwqKNVlQO07sdngDh8iL) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Girls](https://open.spotify.com/album/1ZVBWask9JSAT7nbkCvCRK) | 3:25 | 2024-06-18 | 2024-09-12 |
 | [Give It 2 Me \- Edit](https://open.spotify.com/track/0mQUq0nuO4NOxkCElgp2Y9) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Give It 2 Me](https://open.spotify.com/album/5dWfeTqZw7wL8JR0KuKD33) | 3:48 | 2022-11-17 | 2023-07-19 |
 | [Giving Up](https://open.spotify.com/track/61rELAKbEKXdidjxXviWd0) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Giving Up](https://open.spotify.com/album/2u0L2wbAbJAw5cx00Wk6zE) | 3:23 | 2022-06-14 | 2023-03-02 |
 | [Gold](https://open.spotify.com/track/643aAUhE0s5JNaK1Rn50Q7) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Gold](https://open.spotify.com/album/02OvGMtilHmYxr56GTph7M) | 3:12 | 2023-05-24 | 2023-10-17 |
@@ -172,6 +173,7 @@
 | [Its me \( g 8 \)](https://open.spotify.com/track/3dC6yRjocmprQqEYvv72Ft) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Its me \( g 8 \) / Oway \( f 7 \)](https://open.spotify.com/album/6rZTJHYLDsA564tCn9kEJ9) | 5:17 | 2023-10-12 | 2024-01-26 |
 | [I’m Tight](https://open.spotify.com/track/6kbWgnfjUrDPmuwiROaNVB) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [I’m Tight](https://open.spotify.com/album/3BRjhB1XOxBPM5AGzJZLmi) | 7:00 | 2022-08-23 | 2022-09-30 |
 | [JGS](https://open.spotify.com/track/0lYuxJG0W5ReSZ31j6Lnqv) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [JGS](https://open.spotify.com/album/09134EF46MKmsFGuFU4lZj) | 4:40 | 2022-06-15 | 2023-03-25 |
+| [Just A Western \- Edit](https://open.spotify.com/track/32M6UpNkj8FOfbyQiF4GOJ) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Just A Western](https://open.spotify.com/album/1vVnnj9S99ub44XnSknEXZ) | 2:46 | 2024-09-11 |  |
 | [Kenneth](https://open.spotify.com/track/4ps9Hugwa38njNmedG9c4K) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Kenneth](https://open.spotify.com/album/4C4t410jpJg0H7pBptTuN4) | 3:49 | 2023-05-04 | 2023-07-08 |
 | [Key103](https://open.spotify.com/track/2rqHRjIdGqFNgOqq3nNPkT) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Key103](https://open.spotify.com/album/449cSwxW2mczsRKAV8BetQ) | 7:22 | 2024-07-10 |  |
 | [Kimbara](https://open.spotify.com/track/3iHrGCUXfZ4BoOy615Ydbk) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Kimbara](https://open.spotify.com/album/2lrh7eGF5BhF70i5VPJ3Nu) | 3:09 | 2024-05-01 | 2024-07-18 |
@@ -204,7 +206,7 @@
 | [Meant To Be](https://open.spotify.com/track/4YRw7jcTBGAUHWktyn0msf) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Meant To Be](https://open.spotify.com/album/1Wn3OmksyMkgzvzE7dEIhc) | 3:44 | 2023-05-16 | 2023-06-21 |
 | [Meant To Be](https://open.spotify.com/track/6QPA0xHqefqGqyEfcPQ7Ao) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Guy](https://open.spotify.com/album/1yGK2fGDPhaZ3O9AhGrkRS) | 3:44 | 2023-06-09 | 2023-08-18 |
 | [Meli \(II\)](https://open.spotify.com/track/6nGhGBz7uaE1RngnIFRKep) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Meli \(II\)](https://open.spotify.com/album/6pDZnLDqV5XuiVmuSw7oZs) | 6:57 | 2022-06-28 | 2023-05-19 |
-| [Method Actor](https://open.spotify.com/track/6I9GeNnqNqQ5Q8DSrFkkvd) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Method Actor](https://open.spotify.com/album/0Qg3qoV8Sz5pY01lIImVeE) | 3:51 | 2024-06-10 |  |
+| [Method Actor](https://open.spotify.com/track/6I9GeNnqNqQ5Q8DSrFkkvd) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Method Actor](https://open.spotify.com/album/0Qg3qoV8Sz5pY01lIImVeE) | 3:51 | 2024-06-10 | 2024-09-12 |
 | [munerah](https://open.spotify.com/track/21mWEFHpAdR6k0KvmtXmRE) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [Exodus the North Star](https://open.spotify.com/album/6ygmB4X6ejHZQcpNfxC8um) | 2:42 | 2023-03-24 | 2023-07-29 |
 | [Munitions](https://open.spotify.com/track/58iAMQaKz7UqvFyhknuyAY) | [Forest Swords](https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP) | [Munitions](https://open.spotify.com/album/7tTVaKHuBq94fj2RBplMYo) | 3:44 | 2023-10-03 | 2023-10-17 |
 | [Music To Heal To](https://open.spotify.com/track/2KvkzuYVnHaGEYbY5gfF8R) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Harmonic Frequencies](https://open.spotify.com/album/0xk9jsZcE6LAl9jNEqBQz7) | 6:23 | 2021-11-20 | 2022-07-06 |

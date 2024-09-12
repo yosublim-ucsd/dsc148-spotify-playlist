@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 
 > Khuphuka lapho… seku\-late! Cover:  <a href="https://open.spotify.com/artist/0cgOYKvaAuokmhqrLSNPj6?si=iIOBxGZbSrqsa3qNN53uBg">Abafana Baka Mgqumeni</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,415 likes - 59 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,592 likes - 59 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

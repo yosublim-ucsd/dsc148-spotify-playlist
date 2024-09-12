@@ -1,6 +1,6 @@
 {
   "description": "New music by Grupo Frontera & Gabito Ballesteros, JHAYCO , NATTI NATASHA, Nicky Jam, Calle 24 and more! Updates every Friday.",
-  "num_followers": 593727,
+  "num_followers": 593781,
   "original_name": "All New Latin",
   "owner": {
     "name": "Spotify",
@@ -776,12 +776,12 @@
       },
       "artists": [
         {
-          "name": "Let\u00f3n P\u00e9",
-          "url": "https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO"
-        },
-        {
           "name": "Giorgio Siladi",
           "url": "https://open.spotify.com/artist/70yXUWs47Ej8wyiChPutgj"
+        },
+        {
+          "name": "Let\u00f3n P\u00e9",
+          "url": "https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO"
         }
       ],
       "duration_ms": 180286,

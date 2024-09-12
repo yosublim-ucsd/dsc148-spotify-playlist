@@ -1,12 +1,12 @@
 {
-  "description": "This Is Celia Cruz. Los temas esenciales, todos en una lista.",
-  "num_followers": 103067,
+  "description": "This is Celia Cruz. The essential tracks, all in one playlist.",
+  "num_followers": 103077,
   "original_name": "This Is Celia Cruz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zt46gAAAAACbCCkX0KP+7Ns75/sKR4yQ",
+  "snapshot_id": "Zt+MAAAAAAAbCF66lzMUtYT9QdU2BGHr",
   "tracks": [
     {
       "added_at": null,
@@ -319,6 +319,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Vida Es Un Carnaval (Baile Total)",
+        "url": "https://open.spotify.com/album/2wJymzOZZUBrE0cKzQsvgI"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 187240,
+      "name": "Az\u00facar Negra",
+      "url": "https://open.spotify.com/track/6KVHqj1QJNzDyeomTdUhsw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Canta Celia Cruz",
         "url": "https://open.spotify.com/album/6fARm1KlseDeikTw6xYIop"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 160866,
       "name": "Burundanga",
       "url": "https://open.spotify.com/track/396apIIwi2la2MY4vWDxOM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Vida Es Un Carnaval (Baile Total)",
-        "url": "https://open.spotify.com/album/2wJymzOZZUBrE0cKzQsvgI"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 187240,
-      "name": "Az\u00facar Negra",
-      "url": "https://open.spotify.com/track/6KVHqj1QJNzDyeomTdUhsw"
     },
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siempre Vivir\u00e9",
-        "url": "https://open.spotify.com/album/5jHYfrB7L5rjvqhQgeMnWh"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 257666,
-      "name": "Celia's Oye Como Va (Oye Como Va)",
-      "url": "https://open.spotify.com/track/7fhCXXF7V5jsU06bOgVBqJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bravo",
         "url": "https://open.spotify.com/album/46y4ilGc0rpC9iSSvPaB2E"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 175240,
       "name": "Guantanamera",
       "url": "https://open.spotify.com/track/6bNZH4O72jD4L5hga6DwHj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Siempre Vivir\u00e9",
+        "url": "https://open.spotify.com/album/5jHYfrB7L5rjvqhQgeMnWh"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 257666,
+      "name": "Celia's Oye Como Va (Oye Como Va)",
+      "url": "https://open.spotify.com/track/7fhCXXF7V5jsU06bOgVBqJ"
     },
     {
       "added_at": null,
@@ -787,6 +787,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Anthology: Antolog\u00eda de la Salsa (Remastered)",
+        "url": "https://open.spotify.com/album/4rJIYIlWtTC4VkFhVbjMP1"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 168475,
+      "name": "Ven Bernabe - Remastered",
+      "url": "https://open.spotify.com/track/5v5QvuADGTmk9D0rST4s0e"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "L\u00e1grimas Negras",
         "url": "https://open.spotify.com/album/5F1JlKPnfviPfOPYnNLgpS"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 237356,
       "name": "L\u00e1grimas Negras",
       "url": "https://open.spotify.com/track/4frRPag9czFRfNuQAiMiY7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Anthology: Antolog\u00eda de la Salsa (Remastered)",
-        "url": "https://open.spotify.com/album/4rJIYIlWtTC4VkFhVbjMP1"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 168475,
-      "name": "Ven Bernabe - Remastered",
-      "url": "https://open.spotify.com/track/5v5QvuADGTmk9D0rST4s0e"
     },
     {
       "added_at": null,
@@ -943,26 +943,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Celia & Johnny",
-        "url": "https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1"
-      },
-      "artists": [
-        {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
-        },
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 195360,
-      "name": "Vieja Luna",
-      "url": "https://open.spotify.com/track/2NafN7tmTGpqOJeEvQ9DZU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boleros",
         "url": "https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 156866,
       "name": "No Encuentro Palabras",
       "url": "https://open.spotify.com/track/43T1DZEtE6edC62ojuU5Dw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Celia & Johnny",
+        "url": "https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1"
+      },
+      "artists": [
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 195360,
+      "name": "Vieja Luna",
+      "url": "https://open.spotify.com/track/2NafN7tmTGpqOJeEvQ9DZU"
     },
     {
       "added_at": null,

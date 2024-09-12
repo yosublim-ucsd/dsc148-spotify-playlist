@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 
 > Classic cuts from the alternative country music scene\. Cover: Uncle Tupelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,886 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,919 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 | 43 | [Post to Wire](https://open.spotify.com/track/2vwOmgQGX1abLc6dDqyRry) | [Richmond Fontaine](https://open.spotify.com/artist/2zTCLiQ8OUIWEyV6eZWzFy) | [Post to Wire](https://open.spotify.com/album/1IQSQJop8pMbbWozvZsMbc) | 2:13 |
 | 44 | [Can't Let Go](https://open.spotify.com/track/0kyM6MaS573Gt9Yna1rsqd) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Car Wheels On A Gravel Road](https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig) | 3:28 |
 | 45 | [Silence](https://open.spotify.com/track/0HglUzvGGNtNi7mCqjkW7S) | [The Autumn Defense](https://open.spotify.com/artist/71I7zoXe7aIZvzN19S1gIo) | [Circles](https://open.spotify.com/album/2IsiRbh1i0Pkx2q6n3f6ci) | 4:07 |
-| 46 | [The Ballad of Bitter Honey](https://open.spotify.com/track/20yy7wGUByZptk1ww20KIC) | [Eef Barzelay](https://open.spotify.com/artist/1uRMuS0KuwZwFJSYgV0PaW) | [Bitter Honey \(redux\)](https://open.spotify.com/album/01Uenvl1WeGH8d7oPf0s7z) | 3:34 |
+| 46 | [The Ballad of Bitter Honey](https://open.spotify.com/track/20yy7wGUByZptk1ww20KIC) | [Eef Barzelay](https://open.spotify.com/artist/1uRMuS0KuwZwFJSYgV0PaW) | [Bitter Honey \(Redux\)](https://open.spotify.com/album/01Uenvl1WeGH8d7oPf0s7z) | 3:34 |
 | 47 | [On the Streets](https://open.spotify.com/track/31KmmPSvUorrhCWDRysxUq) | [Rico Bell](https://open.spotify.com/artist/6LrIoFLMuU0yXD86WBmNe0) | [The Return of Rico Bell](https://open.spotify.com/album/6wz72pyGjk99MDs8AgTHzd) | 3:55 |
 | 48 | [Victoria](https://open.spotify.com/track/0mmSXKVBMjfYkLLJVQ5tF9) | [Old 97's](https://open.spotify.com/artist/27AzFtMZhRN78bAMPntbpF) | [Hit By A Train: The Best Of Old 97's](https://open.spotify.com/album/5fyrNg3ZGMZzY0V5gqUAFA) | 3:51 |
 | 49 | [For The Turnstiles](https://open.spotify.com/track/0ShbiDJGWaMyTimkimVohJ) | [The Be Good Tanyas](https://open.spotify.com/artist/37PywjKNsxHji5F9eFODF2) | [Hello Love](https://open.spotify.com/album/1JKxrLcm3e2T9AiWMA18c2) | 4:26 |

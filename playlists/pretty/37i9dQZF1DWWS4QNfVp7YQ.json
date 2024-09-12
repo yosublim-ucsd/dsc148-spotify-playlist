@@ -1,6 +1,6 @@
 {
   "description": "\u00c9chate un zapateo al ritmo del tribal.",
-  "num_followers": 79742,
+  "num_followers": 79791,
   "original_name": "Fiesta Tribal",
   "owner": {
     "name": "Spotify",
@@ -499,22 +499,18 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "NEAS DON'T CRY",
-        "url": "https://open.spotify.com/album/6Tn0Eu7eLlWk1jfZzxhJQD"
+        "name": "Zapatear",
+        "url": "https://open.spotify.com/album/2ZCfbuEez3QTha7TdNcC8s"
       },
       "artists": [
         {
-          "name": "Cornetto",
-          "url": "https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc"
-        },
-        {
-          "name": "Magic Juan",
-          "url": "https://open.spotify.com/artist/4MKKSJyNbrGSBodc8R7vPK"
+          "name": "Los Dutis",
+          "url": "https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi"
         }
       ],
-      "duration_ms": 182866,
-      "name": "Toa Pa' Mi",
-      "url": "https://open.spotify.com/track/3mEEubQKCp0dpWOrSaZHfR"
+      "duration_ms": 162049,
+      "name": "Zapatear",
+      "url": "https://open.spotify.com/track/2ZEruRr8IXykUCQBlEiYhv"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -543,18 +539,22 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Zapatear",
-        "url": "https://open.spotify.com/album/2ZCfbuEez3QTha7TdNcC8s"
+        "name": "NEAS DON'T CRY",
+        "url": "https://open.spotify.com/album/6Tn0Eu7eLlWk1jfZzxhJQD"
       },
       "artists": [
         {
-          "name": "Los Dutis",
-          "url": "https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi"
+          "name": "Cornetto",
+          "url": "https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc"
+        },
+        {
+          "name": "Magic Juan",
+          "url": "https://open.spotify.com/artist/4MKKSJyNbrGSBodc8R7vPK"
         }
       ],
-      "duration_ms": 162049,
-      "name": "Zapatear",
-      "url": "https://open.spotify.com/track/2ZEruRr8IXykUCQBlEiYhv"
+      "duration_ms": 182866,
+      "name": "Toa Pa' Mi",
+      "url": "https://open.spotify.com/track/3mEEubQKCp0dpWOrSaZHfR"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -655,6 +655,26 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
+        "name": "Brindemos Por Ellas",
+        "url": "https://open.spotify.com/album/5MqF13YB9GTHdMIkTerpEs"
+      },
+      "artists": [
+        {
+          "name": "Cornetto",
+          "url": "https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc"
+        },
+        {
+          "name": "Baby Joss",
+          "url": "https://open.spotify.com/artist/2zv53qyEf6YlpmOvRHbRUn"
+        }
+      ],
+      "duration_ms": 208146,
+      "name": "Brindemos Por Ellas",
+      "url": "https://open.spotify.com/track/1MdQvMEpQ6xqsNW7HVH5v2"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
         "name": "Que Suene Mexico, Vol. 3",
         "url": "https://open.spotify.com/album/1fL1fq4l7HoOBgnsTGxxz3"
       },
@@ -683,26 +703,6 @@
       "duration_ms": 196363,
       "name": "Ritmo Suelto",
       "url": "https://open.spotify.com/track/6ykJqXUYnMKFQyN10mRYWT"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
-        "name": "Brindemos Por Ellas",
-        "url": "https://open.spotify.com/album/5MqF13YB9GTHdMIkTerpEs"
-      },
-      "artists": [
-        {
-          "name": "Cornetto",
-          "url": "https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc"
-        },
-        {
-          "name": "Baby Joss",
-          "url": "https://open.spotify.com/artist/2zv53qyEf6YlpmOvRHbRUn"
-        }
-      ],
-      "duration_ms": 208146,
-      "name": "Brindemos Por Ellas",
-      "url": "https://open.spotify.com/track/1MdQvMEpQ6xqsNW7HVH5v2"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -819,26 +819,6 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Tu-Ku-Tu-Tu-Ku",
-        "url": "https://open.spotify.com/album/6TUvxT4tCrCeZGjsYn6z9O"
-      },
-      "artists": [
-        {
-          "name": "Alan Rosales",
-          "url": "https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs"
-        },
-        {
-          "name": "Dj Otto",
-          "url": "https://open.spotify.com/artist/3ldc155y9UrrgKp8GPqVhK"
-        }
-      ],
-      "duration_ms": 202272,
-      "name": "Alegr\u00eda",
-      "url": "https://open.spotify.com/track/1Ktzh5ku3Uej6jKls3cNWN"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
         "name": "Dale Candela Dale Sabor",
         "url": "https://open.spotify.com/album/3sBeRZjVozTei92FLqbNcG"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 168829,
       "name": "Tambor Azteca",
       "url": "https://open.spotify.com/track/7IQ9IZCU8ytPhcUcunwYW9"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
+        "name": "Tu-Ku-Tu-Tu-Ku",
+        "url": "https://open.spotify.com/album/6TUvxT4tCrCeZGjsYn6z9O"
+      },
+      "artists": [
+        {
+          "name": "Alan Rosales",
+          "url": "https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs"
+        },
+        {
+          "name": "Dj Otto",
+          "url": "https://open.spotify.com/artist/3ldc155y9UrrgKp8GPqVhK"
+        }
+      ],
+      "duration_ms": 202272,
+      "name": "Alegr\u00eda",
+      "url": "https://open.spotify.com/track/1Ktzh5ku3Uej6jKls3cNWN"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -903,22 +903,22 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Tu-Ku-Tu-Tu-Ku",
-        "url": "https://open.spotify.com/album/6TUvxT4tCrCeZGjsYn6z9O"
+        "name": "La Ni\u00f1a (Remixes)",
+        "url": "https://open.spotify.com/album/5w4iu4pMgvvqreV9Mov2fN"
       },
       "artists": [
         {
-          "name": "Alan Rosales",
-          "url": "https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs"
+          "name": "Meketrefe",
+          "url": "https://open.spotify.com/artist/3QCqMFfVYxY5RDp5UCT874"
         },
         {
-          "name": "DJ Mouse",
-          "url": "https://open.spotify.com/artist/1Drh9VlADqYyM1RXvTVvsk"
+          "name": "Priscila",
+          "url": "https://open.spotify.com/artist/4Py7WrbyPY21zp4Q8dQDdj"
         }
       ],
-      "duration_ms": 185227,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/09E7BhLRJzvbZu764omlgl"
+      "duration_ms": 264005,
+      "name": "La Ni\u00f1a (Alan Rosales & Manu Morales Tribal Remix)",
+      "url": "https://open.spotify.com/track/3nnM5ioawGAIuDnC29Yw3L"
     },
     {
       "added_at": "2024-07-05 22:41:57",

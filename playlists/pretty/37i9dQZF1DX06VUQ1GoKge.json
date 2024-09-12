@@ -1,6 +1,6 @@
 {
   "description": "Don\u2019t Sweat It!",
-  "num_followers": 555203,
+  "num_followers": 555185,
   "original_name": "Blood, Sweat & Cheers",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,22 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
+        "name": "TRAUMA",
+        "url": "https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik"
+      },
+      "artists": [
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+        }
+      ],
+      "duration_ms": 153613,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/6Q1m1GyNxyOwZ2ud3p7XoS"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
         "name": "Lost and Found",
         "url": "https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 206133,
       "name": "We Got the Moves",
       "url": "https://open.spotify.com/track/0W4N0KzHKWQp2Wn1Mf6uMa"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "TRAUMA",
-        "url": "https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik"
-      },
-      "artists": [
-        {
-          "name": "I Prevail",
-          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
-        }
-      ],
-      "duration_ms": 153613,
-      "name": "Gasoline",
-      "url": "https://open.spotify.com/track/6Q1m1GyNxyOwZ2ud3p7XoS"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -487,6 +487,22 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
+        "name": "Clayman",
+        "url": "https://open.spotify.com/album/1hVhTWO9hlpPr7T8ORczRd"
+      },
+      "artists": [
+        {
+          "name": "In Flames",
+          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+        }
+      ],
+      "duration_ms": 294866,
+      "name": "Only for the Weak",
+      "url": "https://open.spotify.com/track/0JBQnLKfLXmlkquabLtAgd"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
         "name": "can u see me in the dark?",
         "url": "https://open.spotify.com/album/7mrNcgAQuzS3XF3db20WIe"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 238756,
       "name": "can u see me in the dark?",
       "url": "https://open.spotify.com/track/7pugmRsHRy1fnug9NqH5cA"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Clayman",
-        "url": "https://open.spotify.com/album/1hVhTWO9hlpPr7T8ORczRd"
-      },
-      "artists": [
-        {
-          "name": "In Flames",
-          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
-        }
-      ],
-      "duration_ms": 294866,
-      "name": "Only for the Weak",
-      "url": "https://open.spotify.com/track/0JBQnLKfLXmlkquabLtAgd"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -555,18 +555,18 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Crimson Thunder",
-        "url": "https://open.spotify.com/album/2uehY2zRsh0h6ZmJt8LLQi"
+        "name": "Soft Spine",
+        "url": "https://open.spotify.com/album/54Upk1Q8DmVaMR2MrOvoiR"
       },
       "artists": [
         {
-          "name": "HammerFall",
-          "url": "https://open.spotify.com/artist/2o18h28enlHxj887tATc58"
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
         }
       ],
-      "duration_ms": 231386,
-      "name": "Hearts on Fire",
-      "url": "https://open.spotify.com/track/0eV3PB3T0OxW4feG1DlOjQ"
+      "duration_ms": 183990,
+      "name": "Soft Spine",
+      "url": "https://open.spotify.com/track/3t5GlWUzGSt2lPuiSEPBFG"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -587,18 +587,18 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Soft Spine",
-        "url": "https://open.spotify.com/album/54Upk1Q8DmVaMR2MrOvoiR"
+        "name": "Crimson Thunder",
+        "url": "https://open.spotify.com/album/2uehY2zRsh0h6ZmJt8LLQi"
       },
       "artists": [
         {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+          "name": "HammerFall",
+          "url": "https://open.spotify.com/artist/2o18h28enlHxj887tATc58"
         }
       ],
-      "duration_ms": 183990,
-      "name": "Soft Spine",
-      "url": "https://open.spotify.com/track/3t5GlWUzGSt2lPuiSEPBFG"
+      "duration_ms": 231386,
+      "name": "Hearts on Fire",
+      "url": "https://open.spotify.com/track/0eV3PB3T0OxW4feG1DlOjQ"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "backfire",
-        "url": "https://open.spotify.com/album/2KqvKZtVLgLolUw2AMMWB6"
-      },
-      "artists": [
-        {
-          "name": "thrown",
-          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
-        }
-      ],
-      "duration_ms": 120064,
-      "name": "backfire",
-      "url": "https://open.spotify.com/track/2Tt5CzJzz53tVCicnDwh2a"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Reverence",
         "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 255230,
       "name": "Prey",
       "url": "https://open.spotify.com/track/7lMFAK8dv0QkWpIlZcWQlJ"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "backfire",
+        "url": "https://open.spotify.com/album/2KqvKZtVLgLolUw2AMMWB6"
+      },
+      "artists": [
+        {
+          "name": "thrown",
+          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
+        }
+      ],
+      "duration_ms": 120064,
+      "name": "backfire",
+      "url": "https://open.spotify.com/track/2Tt5CzJzz53tVCicnDwh2a"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -875,6 +875,22 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
+        "name": "Darker Still",
+        "url": "https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 261811,
+      "name": "Glitch",
+      "url": "https://open.spotify.com/track/1jKH10ufuA4EzUCdobVxu0"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
         "name": "Aggressive",
         "url": "https://open.spotify.com/album/5nQE80zQR1NqKDBo4oE4EJ"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 376920,
       "name": "Blacklist",
       "url": "https://open.spotify.com/track/3iUJrkMilUVkUKtYZK7Th4"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Darker Still",
-        "url": "https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 261811,
-      "name": "Glitch",
-      "url": "https://open.spotify.com/track/1jKH10ufuA4EzUCdobVxu0"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Dark Days",
-        "url": "https://open.spotify.com/album/2DiNaKLLwBwLPe9oAnNr9i"
-      },
-      "artists": [
-        {
-          "name": "Coal Chamber",
-          "url": "https://open.spotify.com/artist/69k6uTSZMPLpSnhmLCiKxQ"
-        }
-      ],
-      "duration_ms": 180066,
-      "name": "Fiend",
-      "url": "https://open.spotify.com/track/5YCEVdLLSFPnhfma05qx7o"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Obsolete",
         "url": "https://open.spotify.com/album/2hiPqMWbwko9fxKd1JWUI1"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 265750,
       "name": "Obsolete",
       "url": "https://open.spotify.com/track/4d8iN5Re3A6UOYVxZAbJ7v"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Dark Days",
+        "url": "https://open.spotify.com/album/2DiNaKLLwBwLPe9oAnNr9i"
+      },
+      "artists": [
+        {
+          "name": "Coal Chamber",
+          "url": "https://open.spotify.com/artist/69k6uTSZMPLpSnhmLCiKxQ"
+        }
+      ],
+      "duration_ms": 180066,
+      "name": "Fiend",
+      "url": "https://open.spotify.com/track/5YCEVdLLSFPnhfma05qx7o"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "American Capitalist (Standard)",
-        "url": "https://open.spotify.com/album/18bHWmCOOKsAQSHdfFQ0WI"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 218133,
-      "name": "Under and Over It",
-      "url": "https://open.spotify.com/track/3CBoWhq9cd7WGQZ9EDQVnn"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Black Hole",
         "url": "https://open.spotify.com/album/6lhq5amVK8LmVJmF8DUNuB"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 231762,
       "name": "Black Hole",
       "url": "https://open.spotify.com/track/3rjgOeWUEth90mFVR82WtG"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "American Capitalist (Standard)",
+        "url": "https://open.spotify.com/album/18bHWmCOOKsAQSHdfFQ0WI"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 218133,
+      "name": "Under and Over It",
+      "url": "https://open.spotify.com/track/3CBoWhq9cd7WGQZ9EDQVnn"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/5gjdJGvhsqHk1kI9rTTnhV"
+        "name": "Death Diviner",
+        "url": "https://open.spotify.com/album/2vMRAb3qY0ilWVSfLeBEDH"
       },
       "artists": [
         {
-          "name": "Siamese",
-          "url": "https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0"
+          "name": "Soilwork",
+          "url": "https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx"
         }
       ],
-      "duration_ms": 219759,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/6v9xDRtGAWrGO4ceRPadoo"
+      "duration_ms": 305813,
+      "name": "Death Diviner",
+      "url": "https://open.spotify.com/track/4zx54sa1AiERlvrFyLMXtJ"
     }
   ],
   "unique_name": "Blood, Sweat & Cheers",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-05",
-  "description": "Discover new Punjabi artists! Cover: Param Pannu",
+  "description": "Discover new Punjabi artists! Cover: Gagan Deep",
   "name": "Fresh Finds Punjabi",
   "tracks": [
     {
@@ -42,7 +42,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 216086,
       "name": "900TASK",
       "url": "https://open.spotify.com/track/0J6Y7x3emmC5EL8yB2ST8E"
@@ -129,6 +129,32 @@
     },
     {
       "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/5NjEbzjIopBQcY7DL1cQmz"
+      },
+      "artists": [
+        {
+          "name": "Gurmanter",
+          "url": "https://open.spotify.com/artist/7wUItI9mWFKUN9WzyMe0T5"
+        },
+        {
+          "name": "Ruby Chatha",
+          "url": "https://open.spotify.com/artist/0FtxhV7S1fH5nB7aQXLNiN"
+        },
+        {
+          "name": "Showkidd",
+          "url": "https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140232,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/6fjW2zP64LGsUpPTrRzHhJ"
+    },
+    {
+      "album": {
         "name": "Att",
         "url": "https://open.spotify.com/album/7vIksV0AHUeZNYWasymdPw"
       },
@@ -148,6 +174,32 @@
       "duration_ms": 165333,
       "name": "Att",
       "url": "https://open.spotify.com/track/56qSePm8XOkRVKb8u8avmN"
+    },
+    {
+      "album": {
+        "name": "Bach Bach",
+        "url": "https://open.spotify.com/album/3s3Zy5hD6HUiH4Cx9qIYlP"
+      },
+      "artists": [
+        {
+          "name": "Preet Salh",
+          "url": "https://open.spotify.com/artist/7pucEDOXDf1k5JCH9bHfyx"
+        },
+        {
+          "name": "JOLLY BOI",
+          "url": "https://open.spotify.com/artist/6ZGzbykuzOGU4k2FNWOMqM"
+        },
+        {
+          "name": "Dark Soul Studioz",
+          "url": "https://open.spotify.com/artist/3EZPIndtuKArWIo9IgLMwg"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195187,
+      "name": "Bach Bach",
+      "url": "https://open.spotify.com/track/7tvyTWcypYJw71UltNKJBE"
     },
     {
       "album": {
@@ -228,7 +280,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 138322,
       "name": "Breed",
       "url": "https://open.spotify.com/track/6wh2PO9EVUPXCaJYzXXQsE"
@@ -264,7 +316,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 181458,
       "name": "Catalyst",
       "url": "https://open.spotify.com/track/2xeg4WcbQCLKC0LiEd2web"
@@ -304,7 +356,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 165000,
       "name": "Chann",
       "url": "https://open.spotify.com/track/6B4fsij9F9St8IpnKOWZ8j"
@@ -480,7 +532,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 151578,
       "name": "Don't Care Zafar Brar",
       "url": "https://open.spotify.com/track/4MHgUhqvflHic2d2RVsdos"
@@ -520,7 +572,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 169280,
       "name": "Ex Calling",
       "url": "https://open.spotify.com/track/2haaMSm6yleceFFnyyGhff"
@@ -652,6 +704,32 @@
       "duration_ms": 181363,
       "name": "Giftaan",
       "url": "https://open.spotify.com/track/28oAiyevDuOXVgJ6NY7HoG"
+    },
+    {
+      "album": {
+        "name": "Haal Ve",
+        "url": "https://open.spotify.com/album/7KmaMwWUxTMzl1ukhhg3YE"
+      },
+      "artists": [
+        {
+          "name": "Gagan Deep",
+          "url": "https://open.spotify.com/artist/3GnvsfUK9sLJJ8TcK2MMMZ"
+        },
+        {
+          "name": "The Masterz",
+          "url": "https://open.spotify.com/artist/3oEjX8d25D1kQPUzGIgeQi"
+        },
+        {
+          "name": "Guriee",
+          "url": "https://open.spotify.com/artist/7CGsonx7sdAdomeEsM8Odu"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154503,
+      "name": "Haal Ve",
+      "url": "https://open.spotify.com/track/5EWUCd3sdliMTiMKgvwwl4"
     },
     {
       "album": {
@@ -816,6 +894,24 @@
       "duration_ms": 140525,
       "name": "Jhanjar",
       "url": "https://open.spotify.com/track/6yb8rhOJTnEZteHR2RUkwz"
+    },
+    {
+      "album": {
+        "name": "Kan Akhiyaan",
+        "url": "https://open.spotify.com/album/5MKXR6yhcohniMtsKE32xm"
+      },
+      "artists": [
+        {
+          "name": "Ragini Tandan",
+          "url": "https://open.spotify.com/artist/2yuGX61xWhx2Mhhmu1i5WA"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Kan Akhiyaan",
+      "url": "https://open.spotify.com/track/5S0q2V6ny7Zi1SHauBJyfE"
     },
     {
       "album": {
@@ -1020,7 +1116,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 172000,
       "name": "Makeup",
       "url": "https://open.spotify.com/track/6BcO4yobIcPtMZfmSVA0Mi"
@@ -1287,6 +1383,32 @@
     },
     {
       "album": {
+        "name": "My Turn",
+        "url": "https://open.spotify.com/album/4eT5LonmQGAIEJs2BXuUpn"
+      },
+      "artists": [
+        {
+          "name": "Naina Layal",
+          "url": "https://open.spotify.com/artist/5L9qkyX6hhCC8IFlwIwiEa"
+        },
+        {
+          "name": "Prince Saggu",
+          "url": "https://open.spotify.com/artist/0Y0MpZ3QOgITrLikOqB1q4"
+        },
+        {
+          "name": "Aameen",
+          "url": "https://open.spotify.com/artist/3ailw1GLJZKdjIKzPey3IF"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161770,
+      "name": "One Way",
+      "url": "https://open.spotify.com/track/3AscPMNW1cJOP6WDRGIdnp"
+    },
+    {
+      "album": {
         "name": "Paisa",
         "url": "https://open.spotify.com/album/7jLJcHGDgJxbkJtxN14gh9"
       },
@@ -1298,7 +1420,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 128371,
       "name": "Paisa",
       "url": "https://open.spotify.com/track/49Enb7JmNLeNLq8k5YHp9S"
@@ -1345,6 +1467,46 @@
     },
     {
       "album": {
+        "name": "Rool Ditta Ee",
+        "url": "https://open.spotify.com/album/4D7XfY3vTeavXDxFndrvHS"
+      },
+      "artists": [
+        {
+          "name": "Asif Masood",
+          "url": "https://open.spotify.com/artist/6zVaELKGjvE7kA3bCzTsBl"
+        },
+        {
+          "name": "Saba Riaz",
+          "url": "https://open.spotify.com/artist/4zmPgXIIr38vLo5N2TRntN"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194742,
+      "name": "Rool Ditta Ee",
+      "url": "https://open.spotify.com/track/2tPM0OjAwMKMACNJeY4ThC"
+    },
+    {
+      "album": {
+        "name": "Roya Na Karin",
+        "url": "https://open.spotify.com/album/5p9PEFZeGyhZeyrNMm82Zw"
+      },
+      "artists": [
+        {
+          "name": "Jass Sandhu",
+          "url": "https://open.spotify.com/artist/4D615EABEm53Jdr7WZOLf1"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231428,
+      "name": "Roya Na Karin",
+      "url": "https://open.spotify.com/track/3cLkIJGT6y64tuk1On97Lk"
+    },
+    {
+      "album": {
         "name": "More Than Before",
         "url": "https://open.spotify.com/album/2pigEktLHVZmgXKAgNWdFf"
       },
@@ -1364,7 +1526,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 180000,
       "name": "Rumours",
       "url": "https://open.spotify.com/track/0UHAKKGEF136QPQBeOh2kk"
@@ -1552,10 +1714,28 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 200798,
       "name": "Tera Khayal",
       "url": "https://open.spotify.com/track/4k5Q35dvIndAIVwOFlIRq4"
+    },
+    {
+      "album": {
+        "name": "Tere Sher",
+        "url": "https://open.spotify.com/album/1O3G72Xx0uu0TlKBPPuiOy"
+      },
+      "artists": [
+        {
+          "name": "Preet Sidhu",
+          "url": "https://open.spotify.com/artist/5TP4EiR9iVNfpv1IS2iVIz"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122352,
+      "name": "Tere Sher",
+      "url": "https://open.spotify.com/track/2QsH4fYTyCjamaBBUQP41z"
     },
     {
       "album": {
@@ -1666,10 +1846,32 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 359917,
       "name": "VOW",
       "url": "https://open.spotify.com/track/1eR5lUXBuUhNqZjBY1EzNu"
+    },
+    {
+      "album": {
+        "name": "Well Off",
+        "url": "https://open.spotify.com/album/0bS8KwZxyqPymb7ZkVkH3n"
+      },
+      "artists": [
+        {
+          "name": "Jas Dhillon",
+          "url": "https://open.spotify.com/artist/2airdhY6xFwKcT9xEvYkHO"
+        },
+        {
+          "name": "SXRPANCH",
+          "url": "https://open.spotify.com/artist/4BrIojCbr3rc1I2tJBdNYv"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144712,
+      "name": "Well Off",
+      "url": "https://open.spotify.com/track/25E2REAAzyZqPSU7suoRtn"
     },
     {
       "album": {
@@ -1688,6 +1890,28 @@
       "duration_ms": 139298,
       "name": "Wow",
       "url": "https://open.spotify.com/track/6hgtL4QNCjzgYkxw9zUbve"
+    },
+    {
+      "album": {
+        "name": "Yaar Da Viah",
+        "url": "https://open.spotify.com/album/5TaTN1kr6ZxOvObvSds9uW"
+      },
+      "artists": [
+        {
+          "name": "Samar Veer",
+          "url": "https://open.spotify.com/artist/349nyiVdtB4mKn6BhjfkY3"
+        },
+        {
+          "name": "Saga Sounds",
+          "url": "https://open.spotify.com/artist/6JqjmhYjFskJtqjvruCxKN"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142857,
+      "name": "Yaar Da Viah",
+      "url": "https://open.spotify.com/track/18qQLgwJI7hrge4gI2oUxr"
     },
     {
       "album": {
@@ -1710,6 +1934,24 @@
       "duration_ms": 137806,
       "name": "Yaar Tera Ni",
       "url": "https://open.spotify.com/track/1vgF047kQq1a7i9nlpfTBl"
+    },
+    {
+      "album": {
+        "name": "Yes/No",
+        "url": "https://open.spotify.com/album/0qng4ZG4ooOVSjZIHhS4Mu"
+      },
+      "artists": [
+        {
+          "name": "Uday Bath",
+          "url": "https://open.spotify.com/artist/248BJTjfR3ElYcIKa32FqX"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155586,
+      "name": "Yes/No",
+      "url": "https://open.spotify.com/track/3zTsQC9xZzTSrNXRW8ij1b"
     },
     {
       "album": {

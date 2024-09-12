@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana! Cover\- Swanand Kirkire, Hansika Pareek, Shrey Gupta & Bharath
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,544 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,572 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 2 | [Aaja](https://open.spotify.com/track/4HqJGeOsynykhAdGFsB5cz) | [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD), [Gravity](https://open.spotify.com/artist/7ti25GJHIRWZ5f1WN0T2zO), [Dropped Out](https://open.spotify.com/artist/7zN7ZzgJdUZdEcbecViK4N), [The Rish](https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI) | [Bawari](https://open.spotify.com/album/3jf8VwL6rtZIWs2KjHQgRu) | 2:58 |
 | 3 | [Tere Saath](https://open.spotify.com/track/1qokF3Fsxq2bGT6hYCNPQ4) | [maahi](https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV), [Kalki](https://open.spotify.com/artist/3bQQocqN6y43hFBAUPP5v5), [Dheerendra Gautam](https://open.spotify.com/artist/0OG7qbI3Mvd7UdxhqoP6Ly) | [Tere Saath](https://open.spotify.com/album/3sBdjJ5LKtRR3WUvBE76RL) | 2:32 |
 | 4 | [Kho Diya](https://open.spotify.com/track/4pBvC8CVuBnNsg3cm7Cfi9) | [Pratsofficial](https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr) | [Kho Diya](https://open.spotify.com/album/05jQeZR2fmNn2s6JkYgpzp) | 4:45 |
-| 5 | [Rut Saawan Ki](https://open.spotify.com/track/4wJi7G1KUVdtmnv5O1OX7f) | [The Anirudh Varma Collective](https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB), [Suhavi Kalsi](https://open.spotify.com/artist/2yW096GBZkULuSAJnF4yRL), [Basudhara Roy Munshi](https://open.spotify.com/artist/6lZAvMzprvMkYhGqoxc1Ej), [Rohan Prasanna](https://open.spotify.com/artist/7l4MibDurgFUAa0b2D8c4X) | [Rut Saawan Ki](https://open.spotify.com/album/2h0eM3wn3M3oiAB2akIxp6) | 4:49 |
+| 5 | [Rut Saawan Ki](https://open.spotify.com/track/4wJi7G1KUVdtmnv5O1OX7f) | [The Anirudh Varma Collective](https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB), [Suhavi Kalsi](https://open.spotify.com/artist/2yW096GBZkULuSAJnF4yRL), [Basudhara Roy Munshi](https://open.spotify.com/artist/2qpcBqB6sjBqr2YNaAufRd), [Rohan Prasanna](https://open.spotify.com/artist/7l4MibDurgFUAa0b2D8c4X) | [Rut Saawan Ki](https://open.spotify.com/album/2h0eM3wn3M3oiAB2akIxp6) | 4:49 |
 | 6 | [Main Character Energy](https://open.spotify.com/track/78yacUG8akg9bd52nk5RZL) | [Sanjeeta Bhattacharya](https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc), [Jhalli](https://open.spotify.com/artist/4WYrwXBnVA79QFb6pI3xEf) | [Main Character Energy](https://open.spotify.com/album/5M9mshylSiOl4Rz7rpykOb) | 3:21 |
 | 7 | [MEHFOOZ](https://open.spotify.com/track/5rfOUeUYRc7VHnbFgczTQI) | [Raghav & Arjun](https://open.spotify.com/artist/6Q816hDJR1oJMAwQfn2Vot), [Shreya](https://open.spotify.com/artist/4rSaLcdoKWIZiJOsUJzeCT) | [MEHFOOZ](https://open.spotify.com/album/47M5qZnaJ8bKLBhEHj5hII) | 3:01 |
 | 8 | [Birha](https://open.spotify.com/track/15m1kmdQrnlfkwT8N30UmG) | [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD), [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r), [Shayra Apoorva](https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8), [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V) | [Bawari](https://open.spotify.com/album/3jf8VwL6rtZIWs2KjHQgRu) | 3:09 |

@@ -1,6 +1,6 @@
 {
   "description": "Dancing to electro-pop like a robot from 1984. Cover: Bronski Beat",
-  "num_followers": 151882,
+  "num_followers": 151969,
   "original_name": "Synthpop Classics ",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-07-09 02:45:34",
       "album": {
-        "name": "Forever Now",
-        "url": "https://open.spotify.com/album/3dJ67tWrv9EaTD5PBkNBVV"
-      },
-      "artists": [
-        {
-          "name": "The Psychedelic Furs",
-          "url": "https://open.spotify.com/artist/0O0lrN34wrcuBenkqlEDZe"
-        }
-      ],
-      "duration_ms": 213973,
-      "name": "Love My Way",
-      "url": "https://open.spotify.com/track/4dk40nfaQav6b4ZsJ9OYUo"
-    },
-    {
-      "added_at": "2024-07-09 02:45:34",
-      "album": {
         "name": "Brotherhood (Collector's Edition)",
         "url": "https://open.spotify.com/album/0PSWY4XyjTWppfBb0tBtqu"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 263213,
       "name": "Bizarre Love Triangle",
       "url": "https://open.spotify.com/track/6wVViUl2xSRoDK2T7dMZbR"
+    },
+    {
+      "added_at": "2024-07-09 02:45:34",
+      "album": {
+        "name": "Forever Now",
+        "url": "https://open.spotify.com/album/3dJ67tWrv9EaTD5PBkNBVV"
+      },
+      "artists": [
+        {
+          "name": "The Psychedelic Furs",
+          "url": "https://open.spotify.com/artist/0O0lrN34wrcuBenkqlEDZe"
+        }
+      ],
+      "duration_ms": 213973,
+      "name": "Love My Way",
+      "url": "https://open.spotify.com/track/4dk40nfaQav6b4ZsJ9OYUo"
     },
     {
       "added_at": "2024-07-09 02:45:34",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-07-09 02:45:34",
       "album": {
-        "name": "Kim Wilde",
-        "url": "https://open.spotify.com/album/5vf8cU0vjl22ThptA93DDf"
-      },
-      "artists": [
-        {
-          "name": "Kim Wilde",
-          "url": "https://open.spotify.com/artist/73a6pNH4YtLNgDbPQwXveo"
-        }
-      ],
-      "duration_ms": 205533,
-      "name": "Kids In America",
-      "url": "https://open.spotify.com/track/1YGZyfvdgZxzipWoWYVKxi"
-    },
-    {
-      "added_at": "2024-07-09 02:45:34",
-      "album": {
         "name": "The Man-Machine (2009 Remaster)",
         "url": "https://open.spotify.com/album/3eyz60xEK5dGEeZF1JJSi9"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 220533,
       "name": "The Model - 2009 Remaster",
       "url": "https://open.spotify.com/track/1FL9DHDSED6lxNMDJUJQvB"
+    },
+    {
+      "added_at": "2024-07-09 02:45:34",
+      "album": {
+        "name": "Kim Wilde",
+        "url": "https://open.spotify.com/album/5vf8cU0vjl22ThptA93DDf"
+      },
+      "artists": [
+        {
+          "name": "Kim Wilde",
+          "url": "https://open.spotify.com/artist/73a6pNH4YtLNgDbPQwXveo"
+        }
+      ],
+      "duration_ms": 205533,
+      "name": "Kids In America",
+      "url": "https://open.spotify.com/track/1YGZyfvdgZxzipWoWYVKxi"
     },
     {
       "added_at": "2024-07-09 02:45:34",

@@ -1,6 +1,6 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 160701,
+  "num_followers": 160706,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
@@ -975,6 +975,22 @@
     {
       "added_at": "2024-09-02 01:25:58",
       "album": {
+        "name": "I Used To Know Her",
+        "url": "https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 157906,
+      "name": "Be On My Way (Full)",
+      "url": "https://open.spotify.com/track/6kLEV4RF4HySkPmGeNOFT8"
+    },
+    {
+      "added_at": "2024-09-02 01:25:58",
+      "album": {
         "name": "Live on Ice",
         "url": "https://open.spotify.com/album/6K7SjlIebufubxXGf4uA7a"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 215999,
       "name": "Cheap Vacations (feat. Glassface)",
       "url": "https://open.spotify.com/track/7fGmx2dHgPwynQrfwPMemP"
-    },
-    {
-      "added_at": "2024-09-02 01:25:58",
-      "album": {
-        "name": "I Used To Know Her",
-        "url": "https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 157906,
-      "name": "Be On My Way (Full)",
-      "url": "https://open.spotify.com/track/6kLEV4RF4HySkPmGeNOFT8"
     },
     {
       "added_at": "2024-09-02 01:25:58",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2024-09-02 01:25:58",
       "album": {
+        "name": "Wave002",
+        "url": "https://open.spotify.com/album/1YdM5ZC57DMiQLAvsIWwAU"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        }
+      ],
+      "duration_ms": 167766,
+      "name": "Free Form",
+      "url": "https://open.spotify.com/track/04qxabD9hKT45HsrOQqdVg"
+    },
+    {
+      "added_at": "2024-09-02 01:25:58",
+      "album": {
         "name": "Simple Things",
         "url": "https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 316200,
       "name": "Distractions",
       "url": "https://open.spotify.com/track/4DGPON9kch3YXAzVsozF8R"
-    },
-    {
-      "added_at": "2024-09-02 01:25:58",
-      "album": {
-        "name": "Wave002",
-        "url": "https://open.spotify.com/album/1YdM5ZC57DMiQLAvsIWwAU"
-      },
-      "artists": [
-        {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
-        }
-      ],
-      "duration_ms": 167766,
-      "name": "Free Form",
-      "url": "https://open.spotify.com/track/04qxabD9hKT45HsrOQqdVg"
     },
     {
       "added_at": "2024-09-02 01:25:58",
@@ -1151,18 +1151,22 @@
     {
       "added_at": "2024-09-02 01:25:58",
       "album": {
-        "name": "Everything I Didn\u2019t Say",
-        "url": "https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q"
+        "name": "Light (with BENEE)",
+        "url": "https://open.spotify.com/album/5BwsHPXhIgCCpQsa52CBPR"
       },
       "artists": [
         {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+          "name": "Finn Falcon",
+          "url": "https://open.spotify.com/artist/65pTLeNkyT2ob7chnwRzcJ"
+        },
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
         }
       ],
-      "duration_ms": 213133,
-      "name": "Ugly",
-      "url": "https://open.spotify.com/track/2kHQScyzjnhhuBPQQ1AVfo"
+      "duration_ms": 164000,
+      "name": "Light (with BENEE)",
+      "url": "https://open.spotify.com/track/65ZaStHQImXcy15M9pGFwL"
     },
     {
       "added_at": "2024-09-02 01:25:58",
@@ -1187,22 +1191,18 @@
     {
       "added_at": "2024-09-02 01:25:58",
       "album": {
-        "name": "Light (with BENEE)",
-        "url": "https://open.spotify.com/album/5BwsHPXhIgCCpQsa52CBPR"
+        "name": "Everything I Didn\u2019t Say",
+        "url": "https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q"
       },
       "artists": [
         {
-          "name": "Finn Falcon",
-          "url": "https://open.spotify.com/artist/65pTLeNkyT2ob7chnwRzcJ"
-        },
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Light (with BENEE)",
-      "url": "https://open.spotify.com/track/65ZaStHQImXcy15M9pGFwL"
+      "duration_ms": 213133,
+      "name": "Ugly",
+      "url": "https://open.spotify.com/track/2kHQScyzjnhhuBPQQ1AVfo"
     },
     {
       "added_at": "2024-09-02 01:25:58",
@@ -1336,7 +1336,7 @@
       },
       "artists": [
         {
-          "name": "\u58de\u7279 ?te",
+          "name": "Whyte",
           "url": "https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb"
         }
       ],
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2024-09-02 01:25:58",
       "album": {
+        "name": "Leave You Alone",
+        "url": "https://open.spotify.com/album/2kiSvbyjIZCsoSYw40josY"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 209136,
+      "name": "Leave You Alone",
+      "url": "https://open.spotify.com/track/63QC7HvgJXgH8udcfPqW7q"
+    },
+    {
+      "added_at": "2024-09-02 01:25:58",
+      "album": {
         "name": "Virtual Lover",
         "url": "https://open.spotify.com/album/5XkoI4taQeg4Rc6rJxrjMr"
       },
@@ -1635,22 +1651,6 @@
     {
       "added_at": "2024-09-02 01:25:58",
       "album": {
-        "name": "Leave You Alone",
-        "url": "https://open.spotify.com/album/2kiSvbyjIZCsoSYw40josY"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 209136,
-      "name": "Leave You Alone",
-      "url": "https://open.spotify.com/track/63QC7HvgJXgH8udcfPqW7q"
-    },
-    {
-      "added_at": "2024-09-02 01:25:58",
-      "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/4s341L6xFYG4imA1aoCh19"
       },
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2024-09-02 01:25:58",
       "album": {
+        "name": "Falling Over You",
+        "url": "https://open.spotify.com/album/7859QOupXK4fxTzRcNBNKh"
+      },
+      "artists": [
+        {
+          "name": "Elang Defrianto",
+          "url": "https://open.spotify.com/artist/2GaPhI05VetWfykxH7L3oP"
+        }
+      ],
+      "duration_ms": 244778,
+      "name": "Falling Over You",
+      "url": "https://open.spotify.com/track/5r7883oy65HNZZNvmfkLhn"
+    },
+    {
+      "added_at": "2024-09-02 01:25:58",
+      "album": {
         "name": "Toxic",
         "url": "https://open.spotify.com/album/058XNBEpDC6ZGw518wt52d"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 232000,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/6XVFBGAl2x343DCADmkbey"
-    },
-    {
-      "added_at": "2024-09-02 01:25:58",
-      "album": {
-        "name": "Falling Over You",
-        "url": "https://open.spotify.com/album/7859QOupXK4fxTzRcNBNKh"
-      },
-      "artists": [
-        {
-          "name": "Elang Defrianto",
-          "url": "https://open.spotify.com/artist/2GaPhI05VetWfykxH7L3oP"
-        }
-      ],
-      "duration_ms": 244778,
-      "name": "Falling Over You",
-      "url": "https://open.spotify.com/track/5r7883oy65HNZZNvmfkLhn"
     },
     {
       "added_at": "2024-09-02 01:25:58",

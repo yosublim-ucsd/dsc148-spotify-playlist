@@ -1108,7 +1108,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 170895,
       "name": "Hoodie (feat. Alisson Shore)",
       "url": "https://open.spotify.com/track/617TML0prwU24bJPd7uESm"
@@ -2571,6 +2571,24 @@
     },
     {
       "album": {
+        "name": "Apat Na Buwan",
+        "url": "https://open.spotify.com/album/7zKcc6B3ZqbMG117tsGMk3"
+      },
+      "artists": [
+        {
+          "name": "Janine",
+          "url": "https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229205,
+      "name": "Palihim",
+      "url": "https://open.spotify.com/track/7d3lqYm2DtCg7zdulTfBQ8"
+    },
+    {
+      "album": {
         "name": "Panaginip Ko",
         "url": "https://open.spotify.com/album/1yULhjvIedMHjzbgGpSGQD"
       },
@@ -2658,6 +2676,24 @@
       "duration_ms": 197009,
       "name": "Para Sa Akin",
       "url": "https://open.spotify.com/track/5v5dlsJYrw9xiB36GELIUV"
+    },
+    {
+      "album": {
+        "name": "Paraya",
+        "url": "https://open.spotify.com/album/6Rlp7gO2NJv8YEDuCkBRWX"
+      },
+      "artists": [
+        {
+          "name": "December Avenue",
+          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252857,
+      "name": "Paraya",
+      "url": "https://open.spotify.com/track/5DDS1hu1GcEZppuArUcfUA"
     },
     {
       "album": {
@@ -3146,7 +3182,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 281707,
       "name": "Sikulo",
       "url": "https://open.spotify.com/track/4UIfLmvtfUdSnoC9O6uXvv"

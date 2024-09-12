@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mijKNOBDNw.md) - [plain]
 
 > Si tocan a una respondemos todas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,481 likes - 65 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,483 likes - 65 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,6 +72,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mijKNOBDNw.md) - [plain]
 | 62 | [La Loba \- Trooko Remix](https://open.spotify.com/track/5eFI4a7q8Ln0HDZ0lbIPhr) | [La Chica](https://open.spotify.com/artist/7BiV41WZCIDfp0YtYol0Wr), [Trooko](https://open.spotify.com/artist/6mPl1Nq6hMkto7vsF0PfGi) | [La Loba \(Remixes\)](https://open.spotify.com/album/6DV5ObthuIgftL8GaJqwKx) | 4:16 |
 | 63 | [Idealizar, nunca más](https://open.spotify.com/track/454mv67DU2LHuuP2gKh1vx) | [Valentina Marinkovic](https://open.spotify.com/artist/0XGcjQMRjxUa3QQxmxa4el) | [Idealizar, nunca más](https://open.spotify.com/album/5bcdtAzzuqKxdtDgYGAuqz) | 3:41 |
 | 64 | [Se Busca](https://open.spotify.com/track/1bblnw82snIuxpDhxEfBKW) | [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh) | [SE BUSCA](https://open.spotify.com/album/3tITprG2WPraA2ejbTaZVD) | 2:34 |
-| 65 | [Alborotá](https://open.spotify.com/track/4U8TmShsXRikqHGAcHsyhX) | [Alea](https://open.spotify.com/artist/7Ix9zNDM7zF30F2QBQKfNS), [Luisa Bastidas](https://open.spotify.com/artist/63bqOy8a5FlnNVQ3N6TkJv) | [Alborotá](https://open.spotify.com/album/5x4tWBJAy5ciC0GWwksaU9) | 4:16 |
+| 65 | [Se Quemó](https://open.spotify.com/track/2x3pyIaB1hsqU7W06lfYDL) | [La Otra](https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7) | [Pa'fuera y Pa'dentro](https://open.spotify.com/album/29UNByudXjnpljtU2XOU6j) | 4:43 |
 
 Snapshot ID: `ZqAjAAAAAAC4z/Eie4ANbBas6AQiJxzc`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: GEMINI\(제미나이\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,116 likes - 68 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,120 likes - 68 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 33 | [Bake](https://open.spotify.com/track/4hKgaRwrkPLU0lfRb543UE) | [9wall](https://open.spotify.com/artist/6rqYMINHw5oUTaS8K17k2D) | [Bake](https://open.spotify.com/album/0lMKr6wiAPCfF2IY91dS14) | 2:49 |
 | 34 | [Sunset In Seoul](https://open.spotify.com/track/5H4EBz21rV1FYGM3aXZrR7) | [DNYDK](https://open.spotify.com/artist/5t6dhtQGa3M52lnW75gSSc), [DRbug](https://open.spotify.com/artist/45dH4Z5x2J3EQzia7gTqSr) | [SUMMER TAPE](https://open.spotify.com/album/3Sph192hAthWyxJisgLBIU) | 2:42 |
 | 35 | [COLORLESS \(Feat\. Sunnie\) \(Goddess of Victory: NIKKE Original Soundtrack\)](https://open.spotify.com/track/3GUcwsSSt0kGzNbKr6PAHR) | [LEVEL NINE](https://open.spotify.com/artist/4Q4MsHUCFTMr4Nnca9qChC), [Cosmograph](https://open.spotify.com/artist/4en0H7iE6PqEnZnWGmtWuK), [Sunnie](https://open.spotify.com/artist/0v5xONZJ2N9zcriZXfzFK5) | [COLORLESS \(Feat\. Sunnie\) \(Goddess of Victory: NIKKE Original Soundtrack\)](https://open.spotify.com/album/3Gni8Kq2mlijC5Im1LNkr7) | 3:54 |
-| 36 | [grow up](https://open.spotify.com/track/3Ne50Te8Umxvxw5Di8j9Pu) | [ido](https://open.spotify.com/artist/2qJKjapYm6cY0MkeJkWDRj) | [grow up](https://open.spotify.com/album/4XIm6FAUJEcN1RpYA3ql26) | 3:03 |
+| 36 | [grow up](https://open.spotify.com/track/3Ne50Te8Umxvxw5Di8j9Pu) | [ido](https://open.spotify.com/artist/1fZXr8ghnoNg29NRz0bJTJ) | [grow up](https://open.spotify.com/album/4XIm6FAUJEcN1RpYA3ql26) | 3:03 |
 | 37 | [SLOWDOWN](https://open.spotify.com/track/3eQMPW1KsaObLtP9zJHePx) | [ODD Cloud](https://open.spotify.com/artist/0EsmRvqVdlPTIwkpOLw3Gi) | [SLOWDOWN](https://open.spotify.com/album/6uqzxFO5MdPpZKfBoPSyoB) | 3:16 |
 | 38 | [bluelemonhighball](https://open.spotify.com/track/5NUrBAj2bMt5VzagE9ilPj) | [YUWOO](https://open.spotify.com/artist/2pEUm9NMo9GuvmiO0ZS4uC) | [bluelemonhighball](https://open.spotify.com/album/3wSWnlXY6qWAN8F7bg0Wpv) | 3:05 |
 | 39 | [beam](https://open.spotify.com/track/1Q8uOWCxzVBW4GIWBT9YCt) | [b!ni](https://open.spotify.com/artist/1DfPDEvUAWsURAKZKL9JvU) | [beam](https://open.spotify.com/album/4ehaX1UjNgJkzwN3EmVKvc) | 2:32 |

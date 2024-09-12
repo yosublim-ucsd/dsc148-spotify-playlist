@@ -1475,6 +1475,24 @@
     },
     {
       "album": {
+        "name": "Amanita",
+        "url": "https://open.spotify.com/album/5DhJepIh1fdqygxbjsTnD8"
+      },
+      "artists": [
+        {
+          "name": "Cinnamon Gum",
+          "url": "https://open.spotify.com/artist/7IHYKEfIucsNRkp6ge657X"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208990,
+      "name": "Amanita",
+      "url": "https://open.spotify.com/track/60yEgi6Y5iT8VJTuEWFzJT"
+    },
+    {
+      "album": {
         "name": "Outerstate",
         "url": "https://open.spotify.com/album/6g1KJdlbI53M3T97ascW5N"
       },
@@ -9090,7 +9108,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 292361,
       "name": "Fly Without You",
       "url": "https://open.spotify.com/track/7Ip9Aoj20ZoFBde4I0iJaQ"
@@ -9148,6 +9166,28 @@
       "duration_ms": 348160,
       "name": "Flying Tale",
       "url": "https://open.spotify.com/track/6NJXVRIgEqqLMEsirzBUGT"
+    },
+    {
+      "album": {
+        "name": "Flying Thumbtacks",
+        "url": "https://open.spotify.com/album/0tYr4SmyTDfKDF0IVQkhcc"
+      },
+      "artists": [
+        {
+          "name": "Low Poly Cactus",
+          "url": "https://open.spotify.com/artist/4JCLFRwINNq1g4Je8mRod2"
+        },
+        {
+          "name": "PRNDL",
+          "url": "https://open.spotify.com/artist/7lSHLl0pD4rZ1vrBZ0yVPU"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323269,
+      "name": "Flying Thumbtacks",
+      "url": "https://open.spotify.com/track/7L1es21pDm3JNRcvLDI9id"
     },
     {
       "album": {
@@ -10410,7 +10450,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 198430,
       "name": "Hammers",
       "url": "https://open.spotify.com/track/1PcT3ItaCAVwS1teagc8x1"
@@ -22254,7 +22294,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 263424,
       "name": "SILLAGE",
       "url": "https://open.spotify.com/track/4NXri3qT0jPNTSySEJSIwf"
@@ -24808,6 +24848,28 @@
       "duration_ms": 267042,
       "name": "tecnologia",
       "url": "https://open.spotify.com/track/5te5cXCLWzdRXQVTeqwupo"
+    },
+    {
+      "album": {
+        "name": "Tell Me Myths",
+        "url": "https://open.spotify.com/album/6uwL2gRqTfSnjIqNghLzWB"
+      },
+      "artists": [
+        {
+          "name": "SHOLTO",
+          "url": "https://open.spotify.com/artist/7ExeVJhe1xFgmfbrag2v0u"
+        },
+        {
+          "name": "Elle M\u00fasa",
+          "url": "https://open.spotify.com/artist/6U05T6mkHLUdhGxR9rqTi4"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150400,
+      "name": "Tell Me Myths",
+      "url": "https://open.spotify.com/track/7Erkcbf3FC0VEY9wZ7kKkg"
     },
     {
       "album": {
@@ -28018,7 +28080,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 176702,
       "name": "Vienna",
       "url": "https://open.spotify.com/track/5qjJraZSwr6t5Np2vQbDjf"
@@ -30156,6 +30218,24 @@
       "duration_ms": 443666,
       "name": "Zenna",
       "url": "https://open.spotify.com/track/3SzVPug79tufstgxOYG5Bp"
+    },
+    {
+      "album": {
+        "name": "Wild Guys In The Universe",
+        "url": "https://open.spotify.com/album/1entHKqpYIPQygUeAJYpkq"
+      },
+      "artists": [
+        {
+          "name": "\u304b\u3064\u3057\u304b\u30c8\u30ea\u30aa",
+          "url": "https://open.spotify.com/artist/03YKWuEqoYW6MGljsluOxm"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226853,
+      "name": "Zero G",
+      "url": "https://open.spotify.com/track/0qzL6t5JFpEsnLVlezgykn"
     },
     {
       "album": {

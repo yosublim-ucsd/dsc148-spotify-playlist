@@ -1051,6 +1051,24 @@
     },
     {
       "album": {
+        "name": "Chariot",
+        "url": "https://open.spotify.com/album/0PfC70uRWNCjhgJwHZ1uNb"
+      },
+      "artists": [
+        {
+          "name": "The Midnight",
+          "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265491,
+      "name": "Chariot",
+      "url": "https://open.spotify.com/track/7LRx0xmYQqpWPaBsTUWzC2"
+    },
+    {
+      "album": {
         "name": "Chauma",
         "url": "https://open.spotify.com/album/38umTMbcj2n8RB7COoIr18"
       },
@@ -8770,7 +8788,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 481639,
       "name": "Vertical Horizon",
       "url": "https://open.spotify.com/track/2zveRTYGSSfFbqePG6hv3n"

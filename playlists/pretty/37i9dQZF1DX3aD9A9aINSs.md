@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Berrin Keklikler
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,217 likes - 60 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,215 likes - 59 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,32 +41,31 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 31 | [Senden Başka Bi' Dünya Yok](https://open.spotify.com/track/079ODBUjhGR9PZgUX9PmKx) | [Ezgi Erdoğan](https://open.spotify.com/artist/04E93fjneJyca3DegcGoTk) | [Senden Başka Bi' Dünya Yok](https://open.spotify.com/album/3QNHibGZjmOmKDmtVh24Iv) | 2:40 |
 | 32 | [DURMA](https://open.spotify.com/track/4NJGNIZXwTI9DAT6iwxcgR) | [Alara](https://open.spotify.com/artist/73cy4QAQJslj4bVgTxN5bk) | [DURMA](https://open.spotify.com/album/3UjL3kwbHXGvnuxAp9mllB) | 2:06 |
 | 33 | [Baştan Yazdık Filmi](https://open.spotify.com/track/5Gb1zCGEalqoQbXoRFvghC) | [Ayça Özefe](https://open.spotify.com/artist/01GsQzZqKa4M0j3CJ9BF13) | [Baştan Yazdık Filmi](https://open.spotify.com/album/6RKhZ2MpkqoPheyr3F3owf) | 2:36 |
-| 34 | [SÜR BENİMLE](https://open.spotify.com/track/4Jagf5VqnLVftCvVCi5N8E) | [Buse Ayla](https://open.spotify.com/artist/59FSDgp7VBJnjaGk4m6Ud4) | [SÜR BENİMLE](https://open.spotify.com/album/6Fwse3hhK2zaTbGCCLMqmO) | 3:07 |
-| 35 | [Eskisi Gibi](https://open.spotify.com/track/4DTQFLT2ixv9GPCXxgEeKh) | [Eda Suluki](https://open.spotify.com/artist/1yAMATU04rAd820To5cmrb) | [Eskisi Gibi](https://open.spotify.com/album/17YwuSy0hzXMuY8EVFHAVC) | 2:39 |
-| 36 | [Hüzün Bulutları](https://open.spotify.com/track/3eq1EakkzAFsTedVHgVM5h) | [Melis Aydın](https://open.spotify.com/artist/6bO5A4UYdnsR3kpmzLsci6) | [Anka](https://open.spotify.com/album/1JqNIw2Szu3MJ5AsKod78r) | 3:03 |
-| 37 | [Yıldız’ın Şarkısı](https://open.spotify.com/track/4pStKpmFn7ZJzTVQYNwBmi) | [Gülay](https://open.spotify.com/artist/7gZAYKgUSYI7tTxx4ak4d0) | [Yıldız’ın Şarkısı](https://open.spotify.com/album/5EKT8Jc09BsWndJoru1prm) | 4:11 |
-| 38 | [Daha Ne Kaldı?](https://open.spotify.com/track/1xkYBJ0xNafteeF8W3nwBB) | [Sudenur Güntekin](https://open.spotify.com/artist/2w7QA4rdNppD7JQabQdexC) | [Daha Ne Kaldı?](https://open.spotify.com/album/0rmBQrDddlNNsxt0TKeoyQ) | 3:08 |
-| 39 | [Hani Yine Yoksan](https://open.spotify.com/track/1pVKwy1xgTv99BoA0OobY6) | [Naz](https://open.spotify.com/artist/64iFKhLP2ou8VZAxiawTcw) | [Hani Yine Yoksan](https://open.spotify.com/album/4x2w2oYIjliuVD0evvth63) | 3:43 |
-| 40 | [o bi' başka](https://open.spotify.com/track/2b7zktvPnAnWSRKJ3gNB84) | [Öykü Dörter](https://open.spotify.com/artist/610R56u4V2V2kVtyLenbFA) | [o bi' başka](https://open.spotify.com/album/26P0TgguVaq5GqFcfX6xzk) | 2:34 |
-| 41 | [gündoğumundum](https://open.spotify.com/track/2lEvgdnqv6uZOPImNRDjlp) | [Işıl Ayman](https://open.spotify.com/artist/5q6bMEU5EbDAOrTFUvOsC0) | ["Amos'' akustik](https://open.spotify.com/album/1ZbU7mUczloBoFXtyyX8ZD) | 2:30 |
-| 42 | [Bilmek İsterim](https://open.spotify.com/track/5qD9ugU0AK4e0DrWnb9IZl) | [Serenad Bayraktar](https://open.spotify.com/artist/3qWtoHeuQh2uzY7e7FQPzW) | [Bilmek İsterim](https://open.spotify.com/album/3VcsTzeh6clc3BNeSAKnS9) | 2:48 |
-| 43 | [Yeniden Aşk](https://open.spotify.com/track/5cpDeE2DyiCZcFPGlLGbUt) | [Medusa](https://open.spotify.com/artist/5JuKJB6qxlhogFVQXzq9ni) | [Yeniden Aşk](https://open.spotify.com/album/2p6fFPGu069hpUyDQiOQOR) | 3:00 |
-| 44 | [DELİYE](https://open.spotify.com/track/7BTC47jkJ0LzwCVe4uCBVx) | [Ece Barak](https://open.spotify.com/artist/1Z716PsjyNyB5JugwNPvuJ) | [DELİYE](https://open.spotify.com/album/54IflVA1rFOkfqdaDozjY8) | 2:24 |
-| 45 | [Gyuli Çkimi](https://open.spotify.com/track/6XAWmbluNSh9u416kPloEj) | [Ezgi Aktan](https://open.spotify.com/artist/3YWG3RyJkflr9w9LZqK0j8) | [Gyuli Çkimi](https://open.spotify.com/album/6RceX6oLLNqRc8pbFtriti) | 2:33 |
-| 46 | [Öpsem Yaralarını](https://open.spotify.com/track/0x45x0WlUwfNraHkR4mMP5) | [Gökçe Özgül](https://open.spotify.com/artist/5zHvcIv8dp2JeSA3oNbJkd) | [Öpsem Yaralarını](https://open.spotify.com/album/4a4qmFZBddjxdBtfd4Sxlq) | 2:23 |
-| 47 | [Kiraz](https://open.spotify.com/track/1xAnKSPjN9OAYPgPwB6WUA) | [İpek Demir](https://open.spotify.com/artist/7CkESkuNbWFdbPCvyzLLLz) | [Kiraz](https://open.spotify.com/album/5kHooKZ8vzYiY5ajo1tsrt) | 4:12 |
-| 48 | [Rüya](https://open.spotify.com/track/1RasI3ds7WWCVemLXmgD5z) | [Melike Cem](https://open.spotify.com/artist/4KWDW1O48FFRbtgsjgBSVr) | [Rüya](https://open.spotify.com/album/2zCoBnG3hPG0VS6EPeiQZV) | 2:53 |
-| 49 | [Sessiz Öldüm](https://open.spotify.com/track/2ugoBRS5iAMpuQClw2MD4j) | [Birsu Parım](https://open.spotify.com/artist/4YlCeD7EFUrMxEDrQaTEYF) | [Sessiz Öldüm](https://open.spotify.com/album/6JXpaU7YE1cQg2gyfg7OLm) | 3:22 |
-| 50 | [Sen Yoksan Eğer](https://open.spotify.com/track/4RwgG304bClGH9mWXnMWp1) | [Sukriye Tutkun](https://open.spotify.com/artist/3yDRVuxUjUO7l4tJirgCJ3) | [Sen Yoksan Eğer](https://open.spotify.com/album/1YhbuJwODY3vZHdEvKOYka) | 4:09 |
-| 51 | [Ayık Olmak İstemem](https://open.spotify.com/track/2KntuIz5LpUnXQYIyR8447) | [Nihan Belgin](https://open.spotify.com/artist/6v7zvtUlRA6xkUxFZqJnWw) | [Ayık Olmak İstemem](https://open.spotify.com/album/1oKUXPSneTVOy9PEsbmb1E) | 2:18 |
-| 52 | [kendileri](https://open.spotify.com/track/6wdrCPALvbZqylmCPLv5yx) | [Efza](https://open.spotify.com/artist/4gPXQMEdpsYmYZWtbk4ATJ) | [kendileri](https://open.spotify.com/album/3RO33kbfj1GQtiZn3Lk21W) | 3:12 |
-| 53 | [Zincir](https://open.spotify.com/track/3oatMdRVV9b5l1ynzpA7YH) | [Göksu](https://open.spotify.com/artist/6y4JUCgFq7gjI79Luurhyq) | [Zincir](https://open.spotify.com/album/3pzJ71zhgFPCeTwvO0X0B3) | 3:02 |
-| 54 | [GERİDE](https://open.spotify.com/track/3zN7HilxQfTuH4fkq3KLmj) | [aida d](https://open.spotify.com/artist/1FNLoK6PX8Jg7GU23vrZ3v) | [GERİDE](https://open.spotify.com/album/1P53vT8CCKDzp13SWbNNav) | 2:57 |
-| 55 | [İstediğini Yap](https://open.spotify.com/track/6fikhvPbPEs2MQpoxH6JzS) | [Eva Benır](https://open.spotify.com/artist/6KLBlzcPbk9ZzNDhRz6TNS) | [İstediğini Yap](https://open.spotify.com/album/0xobMtwbkKB6rF59SykKVz) | 3:17 |
-| 56 | [Kale](https://open.spotify.com/track/4a0836UcY5gvnnk7yWAY9p) | [Irmak Ecem](https://open.spotify.com/artist/3lEkrfob4dSfzWtK5jdqHg) | [Kale](https://open.spotify.com/album/6J5Sj00lneSbgEtKNoPZhN) | 4:38 |
-| 57 | [Kaybettim Kendimi](https://open.spotify.com/track/1JN0hHuZ3uHSg81jcOxvLU) | [Çağla Yapar](https://open.spotify.com/artist/6865FyiuArtw05YbshLtD8) | [Kaybettim Kendimi](https://open.spotify.com/album/4lQ7MGgsot3oArI01COLAZ) | 2:49 |
-| 58 | [Delirdim Aşkından](https://open.spotify.com/track/4zezp47SmeXhlIXG0y60XD) | [Seher Koçhan](https://open.spotify.com/artist/3sFDQgCbl6lNVx5Ghq8vGs) | [Delirdim Aşkından](https://open.spotify.com/album/2ZCmTV0S3dHamOGyNqJZiX) | 2:04 |
-| 59 | [Üşümesin](https://open.spotify.com/track/58Itf4cKXMiwOT5Su6Ioix) | [Meyra](https://open.spotify.com/artist/31SY4y5GZLDRrW7GIswamU) | [Üşümesin](https://open.spotify.com/album/7ka1RIWFhOMH6mkHMCsxF1) | 3:31 |
-| 60 | [Filmin Sonu](https://open.spotify.com/track/0JTXaxm5G0Hwt498Lm2Xvt) | [Seran Bilgi](https://open.spotify.com/artist/0lPzpQeTJrWSbAjsmvrZar) | [Filmin Sonu](https://open.spotify.com/album/4p5pRa1sJDyjqfuzf05QaG) | 4:05 |
+| 34 | [Eskisi Gibi](https://open.spotify.com/track/4DTQFLT2ixv9GPCXxgEeKh) | [Eda Suluki](https://open.spotify.com/artist/1yAMATU04rAd820To5cmrb) | [Eskisi Gibi](https://open.spotify.com/album/17YwuSy0hzXMuY8EVFHAVC) | 2:39 |
+| 35 | [Hüzün Bulutları](https://open.spotify.com/track/3eq1EakkzAFsTedVHgVM5h) | [Melis Aydın](https://open.spotify.com/artist/6bO5A4UYdnsR3kpmzLsci6) | [Anka](https://open.spotify.com/album/1JqNIw2Szu3MJ5AsKod78r) | 3:03 |
+| 36 | [Yıldız’ın Şarkısı](https://open.spotify.com/track/4pStKpmFn7ZJzTVQYNwBmi) | [Gülay](https://open.spotify.com/artist/7gZAYKgUSYI7tTxx4ak4d0) | [Yıldız’ın Şarkısı](https://open.spotify.com/album/5EKT8Jc09BsWndJoru1prm) | 4:11 |
+| 37 | [Daha Ne Kaldı?](https://open.spotify.com/track/1xkYBJ0xNafteeF8W3nwBB) | [Sudenur Güntekin](https://open.spotify.com/artist/2w7QA4rdNppD7JQabQdexC) | [Daha Ne Kaldı?](https://open.spotify.com/album/0rmBQrDddlNNsxt0TKeoyQ) | 3:08 |
+| 38 | [Hani Yine Yoksan](https://open.spotify.com/track/1pVKwy1xgTv99BoA0OobY6) | [Naz](https://open.spotify.com/artist/64iFKhLP2ou8VZAxiawTcw) | [Hani Yine Yoksan](https://open.spotify.com/album/4x2w2oYIjliuVD0evvth63) | 3:43 |
+| 39 | [o bi' başka](https://open.spotify.com/track/2b7zktvPnAnWSRKJ3gNB84) | [Öykü Dörter](https://open.spotify.com/artist/610R56u4V2V2kVtyLenbFA) | [o bi' başka](https://open.spotify.com/album/26P0TgguVaq5GqFcfX6xzk) | 2:34 |
+| 40 | [gündoğumundum](https://open.spotify.com/track/2lEvgdnqv6uZOPImNRDjlp) | [Işıl Ayman](https://open.spotify.com/artist/5q6bMEU5EbDAOrTFUvOsC0) | ["Amos'' akustik](https://open.spotify.com/album/1ZbU7mUczloBoFXtyyX8ZD) | 2:30 |
+| 41 | [Bilmek İsterim](https://open.spotify.com/track/5qD9ugU0AK4e0DrWnb9IZl) | [Serenad Bayraktar](https://open.spotify.com/artist/3qWtoHeuQh2uzY7e7FQPzW) | [Bilmek İsterim](https://open.spotify.com/album/3VcsTzeh6clc3BNeSAKnS9) | 2:48 |
+| 42 | [Yeniden Aşk](https://open.spotify.com/track/5cpDeE2DyiCZcFPGlLGbUt) | [Medusa](https://open.spotify.com/artist/5JuKJB6qxlhogFVQXzq9ni) | [Yeniden Aşk](https://open.spotify.com/album/2p6fFPGu069hpUyDQiOQOR) | 3:00 |
+| 43 | [DELİYE](https://open.spotify.com/track/7BTC47jkJ0LzwCVe4uCBVx) | [Ece Barak](https://open.spotify.com/artist/1Z716PsjyNyB5JugwNPvuJ) | [DELİYE](https://open.spotify.com/album/54IflVA1rFOkfqdaDozjY8) | 2:24 |
+| 44 | [Gyuli Çkimi](https://open.spotify.com/track/6XAWmbluNSh9u416kPloEj) | [Ezgi Aktan](https://open.spotify.com/artist/3YWG3RyJkflr9w9LZqK0j8) | [Gyuli Çkimi](https://open.spotify.com/album/6RceX6oLLNqRc8pbFtriti) | 2:33 |
+| 45 | [Öpsem Yaralarını](https://open.spotify.com/track/0x45x0WlUwfNraHkR4mMP5) | [Gökçe Özgül](https://open.spotify.com/artist/5zHvcIv8dp2JeSA3oNbJkd) | [Öpsem Yaralarını](https://open.spotify.com/album/4a4qmFZBddjxdBtfd4Sxlq) | 2:23 |
+| 46 | [Kiraz](https://open.spotify.com/track/1xAnKSPjN9OAYPgPwB6WUA) | [İpek Demir](https://open.spotify.com/artist/7CkESkuNbWFdbPCvyzLLLz) | [Kiraz](https://open.spotify.com/album/5kHooKZ8vzYiY5ajo1tsrt) | 4:12 |
+| 47 | [Rüya](https://open.spotify.com/track/1RasI3ds7WWCVemLXmgD5z) | [Melike Cem](https://open.spotify.com/artist/4KWDW1O48FFRbtgsjgBSVr) | [Rüya](https://open.spotify.com/album/2zCoBnG3hPG0VS6EPeiQZV) | 2:53 |
+| 48 | [Sessiz Öldüm](https://open.spotify.com/track/2ugoBRS5iAMpuQClw2MD4j) | [Birsu Parım](https://open.spotify.com/artist/4YlCeD7EFUrMxEDrQaTEYF) | [Sessiz Öldüm](https://open.spotify.com/album/6JXpaU7YE1cQg2gyfg7OLm) | 3:22 |
+| 49 | [Sen Yoksan Eğer](https://open.spotify.com/track/4RwgG304bClGH9mWXnMWp1) | [Sukriye Tutkun](https://open.spotify.com/artist/3yDRVuxUjUO7l4tJirgCJ3) | [Sen Yoksan Eğer](https://open.spotify.com/album/1YhbuJwODY3vZHdEvKOYka) | 4:09 |
+| 50 | [Ayık Olmak İstemem](https://open.spotify.com/track/2KntuIz5LpUnXQYIyR8447) | [Nihan Belgin](https://open.spotify.com/artist/6v7zvtUlRA6xkUxFZqJnWw) | [Ayık Olmak İstemem](https://open.spotify.com/album/1oKUXPSneTVOy9PEsbmb1E) | 2:18 |
+| 51 | [kendileri](https://open.spotify.com/track/6wdrCPALvbZqylmCPLv5yx) | [Efza](https://open.spotify.com/artist/4gPXQMEdpsYmYZWtbk4ATJ) | [kendileri](https://open.spotify.com/album/3RO33kbfj1GQtiZn3Lk21W) | 3:12 |
+| 52 | [Zincir](https://open.spotify.com/track/3oatMdRVV9b5l1ynzpA7YH) | [Göksu](https://open.spotify.com/artist/6y4JUCgFq7gjI79Luurhyq) | [Zincir](https://open.spotify.com/album/3pzJ71zhgFPCeTwvO0X0B3) | 3:02 |
+| 53 | [GERİDE](https://open.spotify.com/track/3zN7HilxQfTuH4fkq3KLmj) | [aida d](https://open.spotify.com/artist/1FNLoK6PX8Jg7GU23vrZ3v) | [GERİDE](https://open.spotify.com/album/1P53vT8CCKDzp13SWbNNav) | 2:57 |
+| 54 | [İstediğini Yap](https://open.spotify.com/track/6fikhvPbPEs2MQpoxH6JzS) | [Eva Benır](https://open.spotify.com/artist/6KLBlzcPbk9ZzNDhRz6TNS) | [İstediğini Yap](https://open.spotify.com/album/0xobMtwbkKB6rF59SykKVz) | 3:17 |
+| 55 | [Kale](https://open.spotify.com/track/4a0836UcY5gvnnk7yWAY9p) | [Irmak Ecem](https://open.spotify.com/artist/3lEkrfob4dSfzWtK5jdqHg) | [Kale](https://open.spotify.com/album/6J5Sj00lneSbgEtKNoPZhN) | 4:38 |
+| 56 | [Kaybettim Kendimi](https://open.spotify.com/track/1JN0hHuZ3uHSg81jcOxvLU) | [Çağla Yapar](https://open.spotify.com/artist/6865FyiuArtw05YbshLtD8) | [Kaybettim Kendimi](https://open.spotify.com/album/4lQ7MGgsot3oArI01COLAZ) | 2:49 |
+| 57 | [Delirdim Aşkından](https://open.spotify.com/track/4zezp47SmeXhlIXG0y60XD) | [Seher Koçhan](https://open.spotify.com/artist/3sFDQgCbl6lNVx5Ghq8vGs) | [Delirdim Aşkından](https://open.spotify.com/album/2ZCmTV0S3dHamOGyNqJZiX) | 2:04 |
+| 58 | [Üşümesin](https://open.spotify.com/track/58Itf4cKXMiwOT5Su6Ioix) | [Meyra](https://open.spotify.com/artist/31SY4y5GZLDRrW7GIswamU) | [Üşümesin](https://open.spotify.com/album/7ka1RIWFhOMH6mkHMCsxF1) | 3:31 |
+| 59 | [Filmin Sonu](https://open.spotify.com/track/0JTXaxm5G0Hwt498Lm2Xvt) | [Seran Bilgi](https://open.spotify.com/artist/0lPzpQeTJrWSbAjsmvrZar) | [Filmin Sonu](https://open.spotify.com/album/4p5pRa1sJDyjqfuzf05QaG) | 4:05 |
 
-Snapshot ID: `Ztd40AAAAAC5EA/LlTmzkbmxDAY0fHEe`
+Snapshot ID: `ZuFNgwAAAADizR9MjRTZIIsZ1+S7r4AH`

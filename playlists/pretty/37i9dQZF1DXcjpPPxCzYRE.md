@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 
 > Música tranquila para evadirse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,053 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,072 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 | 66 | [Lo Contrario](https://open.spotify.com/track/13MoMVQoTxw3EKZnCsvrvs) | [GOMZ](https://open.spotify.com/artist/7BLezVBmCyG6aFk101o7vA), [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Lo Contrario](https://open.spotify.com/album/4j7ez1oEHKlQZzIFspVQI8) | 3:10 |
 | 67 | [Unspoken](https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn) | [Aaron Smith](https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl) | [Unspoken](https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt) | 3:30 |
 | 68 | [The Echo & The Shadow](https://open.spotify.com/track/6FytDcO847O1h7JlWbY838) | [The Well Pennies](https://open.spotify.com/artist/1bkuqagwavNQJVWEmYDoQi) | [Endlings](https://open.spotify.com/album/5v6P6f9bt9tBOUXzuMoVEC) | 3:48 |
-| 69 | [Como Viene Se Va](https://open.spotify.com/track/38k03LCyZORAjGAWg1o18B) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [TANDA](https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq) | 4:00 |
-| 70 | [Suspicious Minds](https://open.spotify.com/track/2OCgVQoRYmBAedBkUSQpjF) | [Casual](https://open.spotify.com/artist/6bYakhjMl4eDSfiETppQmS) | [Casual](https://open.spotify.com/album/0znE3YZtxAkMXevh2LYkYC) | 2:50 |
+| 69 | [Suspicious Minds](https://open.spotify.com/track/2OCgVQoRYmBAedBkUSQpjF) | [Casual](https://open.spotify.com/artist/6bYakhjMl4eDSfiETppQmS) | [Casual](https://open.spotify.com/album/0znE3YZtxAkMXevh2LYkYC) | 2:50 |
+| 70 | [Como Viene Se Va](https://open.spotify.com/track/38k03LCyZORAjGAWg1o18B) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [TANDA](https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq) | 4:00 |
 | 71 | [El Amor](https://open.spotify.com/track/1Ml84YcdHdi34tYc3QEXxf) | [Sandra Bernardo](https://open.spotify.com/artist/5JKn780F1w5aPxnMZEmA5H), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Es el Momento](https://open.spotify.com/album/7BoNtzLMhBC8TfqF7QEMTY) | 3:40 |
 | 72 | [Sin Miedo a Vivir](https://open.spotify.com/track/1tKAg1jPHpBhjVJv8tj18w) | [Jacob Mey](https://open.spotify.com/artist/2I1AeFez28mu7X7Bek4aj5), [Juls Cattáneo](https://open.spotify.com/artist/3GGuxaBVYQDOJjImFOXYkW) | [Sin Miedo a Vivir](https://open.spotify.com/album/5ORbR8fXaWWTnJss0QG5bI) | 2:51 |
 | 73 | [Madrid](https://open.spotify.com/track/6DQQzhWtXNwnFrp3EZRCx7) | [Pajaro Sunrise](https://open.spotify.com/artist/32QlIuGzOsKVaQzQrSGOPq), [Yuri Méndez](https://open.spotify.com/artist/2ymu2JqHgHPUQKj9ZmJW1H) | [Madrid](https://open.spotify.com/album/2ZXY7q485ZgTRc9qiw4uGA) | 4:00 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 | 77 | [Sanadoras Voluntades](https://open.spotify.com/track/7AqHsrlrP34XzmOgx5CmGe) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT) | [Sanadoras Voluntades](https://open.spotify.com/album/4en5TaKhMK6hxjQVW0hHoa) | 2:44 |
 | 78 | [The Great Unknown](https://open.spotify.com/track/7CeJuYHjC7wmtwMWBDKcvV) | [Mighty Oaks](https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC) | [Dreamers](https://open.spotify.com/album/56iF3zN01TJO6yhr1HCVfA) | 4:12 |
 | 79 | [Al oírla cantar](https://open.spotify.com/track/1GmzUjLKmccC28IAMFhW1t) | [Ezequiel Borra](https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon), [Alex Serra](https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r) | [Al oírla cantar](https://open.spotify.com/album/5fk1Gz6X5cPaFm9Yipm75h) | 5:36 |
-| 80 | [Caramelo](https://open.spotify.com/track/3aseGyj0Q3XysLiHkv6Mwd) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa) | [Cosmic Wacho](https://open.spotify.com/album/5sBh9UXGoeqgNCpNVGYQD1) | 3:25 |
-| 81 | [Ressaca a sa platja](https://open.spotify.com/track/09HzKgLwCBBIyyG8bPS3rn) | [Maria Jaume](https://open.spotify.com/artist/2QYudLHQwV6MDxWpZZtMNO) | [Ressaca a sa platja](https://open.spotify.com/album/5BVovxgoK6T5bN8Q5hNReZ) | 2:56 |
+| 80 | [Ressaca a sa platja](https://open.spotify.com/track/09HzKgLwCBBIyyG8bPS3rn) | [Maria Jaume](https://open.spotify.com/artist/2QYudLHQwV6MDxWpZZtMNO) | [Ressaca a sa platja](https://open.spotify.com/album/5BVovxgoK6T5bN8Q5hNReZ) | 2:56 |
+| 81 | [Caramelo](https://open.spotify.com/track/3aseGyj0Q3XysLiHkv6Mwd) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa) | [Cosmic Wacho](https://open.spotify.com/album/5sBh9UXGoeqgNCpNVGYQD1) | 3:25 |
 | 82 | [Aire](https://open.spotify.com/track/1CyOx3yUW9RxGKFA9zHe1M) | [Ombligo](https://open.spotify.com/artist/0xNRgIAgqBPH7ALZjiRA4y), [Club del Río](https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD) | [Aire](https://open.spotify.com/album/4i2nQPFvtxRTXZBssZg66e) | 4:31 |
 | 83 | [C'est La Crème](https://open.spotify.com/track/64hn78Rht6qWoxXq47H66U) | [Vera GRV](https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa), [STEGA](https://open.spotify.com/artist/54FIZzRLP1L5KDxc8wqSxd), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [C'est La Crème](https://open.spotify.com/album/440qCEfkxCZnxuQu1KK8iA) | 2:37 |
 | 84 | [reverie](https://open.spotify.com/track/1g2eirb8uaYn54iEYZl3CS) | [isaac gracie](https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb) | [reverie](https://open.spotify.com/album/4aZGAh90HuhACBbHn9becT) | 5:43 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 | 89 | [Luna](https://open.spotify.com/track/2MYTc4Y84bwo0c9bZmAOaM) | [Judit Neddermann](https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE) | [Luna](https://open.spotify.com/album/25Asvtoguv3oWHJ3yR91ea) | 3:17 |
 | 90 | [Time \(For You\)](https://open.spotify.com/track/3wVS7nupxHDXUKfAcVdtj4) | [St Woods](https://open.spotify.com/artist/7Cj0psFxm34eneGRVePhDI) | [Bones](https://open.spotify.com/album/1wIySeB9NtReed6unvzzm8) | 2:56 |
 | 91 | [Todo Lo Que No Está](https://open.spotify.com/track/4bAiMF8czABeBuz7rKla1Z) | [Luísa Sobral](https://open.spotify.com/artist/4AEYOYl57sXoOtZQp0iaOT), [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [Todo Lo Que No Está](https://open.spotify.com/album/0qVBsWgV60mxtja3ObOaD5) | 3:36 |
-| 92 | [\_El Infinito](https://open.spotify.com/track/6W5Qfu0c3kCFRsD1mNClIB) | [\_juno](https://open.spotify.com/artist/4CwB3q2FWy0SqxMfCSRrJP) | [\_BCN626](https://open.spotify.com/album/6IPGEB4W7g8u88NWZgVLEA) | 3:04 |
+| 92 | [La despedía](https://open.spotify.com/track/6uFo70OQW1xEDeCLyzrlnZ) | [Maestro Espada](https://open.spotify.com/artist/1nlawfs0lTdtL6cVPGvQLu) | [La despedía](https://open.spotify.com/album/5emUivXp1bA0pHQZcVgcKQ) | 3:32 |
 | 93 | [Fuegos Artificiales](https://open.spotify.com/track/36i5UmD04En2yPrykKvmGZ) | [Ire](https://open.spotify.com/artist/4ysRrzj3LSYDIhtty6ErKI) | [Fuegos Artificiales](https://open.spotify.com/album/2LE4HKJTaD3bD2OH6rnPto) | 2:58 |
-| 94 | [Equilibri](https://open.spotify.com/track/5HDvMHInN6E41815Z6ZRlp) | [Guillem Roma](https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro) | [Equilibri](https://open.spotify.com/album/6BPSeyqa5ChOR3DqltpUIR) | 3:56 |
-| 95 | [La despedía](https://open.spotify.com/track/6uFo70OQW1xEDeCLyzrlnZ) | [Maestro Espada](https://open.spotify.com/artist/1nlawfs0lTdtL6cVPGvQLu) | [La despedía](https://open.spotify.com/album/5emUivXp1bA0pHQZcVgcKQ) | 3:32 |
+| 94 | [\_El Infinito](https://open.spotify.com/track/6W5Qfu0c3kCFRsD1mNClIB) | [\_juno](https://open.spotify.com/artist/4CwB3q2FWy0SqxMfCSRrJP) | [\_BCN626](https://open.spotify.com/album/6IPGEB4W7g8u88NWZgVLEA) | 3:04 |
+| 95 | [Equilibri](https://open.spotify.com/track/5HDvMHInN6E41815Z6ZRlp) | [Guillem Roma](https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro) | [Equilibri](https://open.spotify.com/album/6BPSeyqa5ChOR3DqltpUIR) | 3:56 |
 | 96 | [Lento](https://open.spotify.com/track/4a2Bgq4J0Uxs1iEvRieM2z) | [Anne Lukin](https://open.spotify.com/artist/2ZCMed7zvHPqwMcsYzYcGL) | [Lento](https://open.spotify.com/album/0vclQbN2PWFfbPnqsNwAOc) | 2:31 |
 | 97 | [Tu](https://open.spotify.com/track/7q1v3sbmw7UoAxJw555ODh) | [Judit Neddermann](https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE), [Vernat](https://open.spotify.com/artist/5lxFyGjIisTPiz6W2MiOm9) | [Tu](https://open.spotify.com/album/2sgKRpXusixxYI50XOOxaS) | 2:43 |
 | 98 | [Adélia](https://open.spotify.com/track/2sGSEql9SuT6cdRTDN5TQ6) | [Baiuca](https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS), [HAĒMA](https://open.spotify.com/artist/2XhPH41LVitp1CM3NS5pzw) | [Adélia](https://open.spotify.com/album/2pSIXz2becSFLT1KfHgNaQ) | 4:18 |
 | 99 | [Ojos de Miel](https://open.spotify.com/track/0v3IeYFFqUJIC4GOcCddaS) | [Valhua](https://open.spotify.com/artist/7mkOIVa1b0BR4XAS07VEOK), [Lou Cornago](https://open.spotify.com/artist/71QLvXvl9jdkFiGzLIwh9v) | [Ojos de Miel](https://open.spotify.com/album/5rR0DhfL3LupkNTVmSkRFO) | 3:22 |
-| 100 | [Cruzando el Charco](https://open.spotify.com/track/4XPxyC1PRjZzPip0PRRkKO) | [Marilia Monzón](https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93) | [Cruzando el Charco](https://open.spotify.com/album/5i4yms2HXGAn5FW3Up5H3N) | 3:10 |
+| 100 | [Vete Por Ahí \(feat\. Irenegarry\)](https://open.spotify.com/track/28EsJpm5RRLjVFRAp0AmIZ) | [Penélope](https://open.spotify.com/artist/6SHQwrGBd6PmgME2zFXNtr), [Irenegarry](https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB) | [Vete Por Ahí \(feat\. Irenegarry\)](https://open.spotify.com/album/41GaP5r3xPbSu0rZpzCIlr) | 3:20 |
 
 Snapshot ID: `ZshZvQAAAABqzes6RWSTLWQ9teO44ilN`

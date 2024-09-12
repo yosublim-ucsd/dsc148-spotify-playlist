@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lleva el alma musical de M\u00e9xico a donde sea!",
-  "num_followers": 130768,
+  "num_followers": 130884,
   "original_name": "Tradici\u00f3n Mexicana",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2024-09-02 20:58:45",
       "album": {
-        "name": "Son De Madera",
-        "url": "https://open.spotify.com/album/7eyjUckkV8ZrnhCDmPWGnn"
-      },
-      "artists": [
-        {
-          "name": "Son De Madera",
-          "url": "https://open.spotify.com/artist/5IjDhtfKUReD5VeIeynKme"
-        }
-      ],
-      "duration_ms": 565013,
-      "name": "El Amanecer",
-      "url": "https://open.spotify.com/track/5DzsZOW1SSZ7PWkh0e2TQn"
-    },
-    {
-      "added_at": "2024-09-02 20:58:45",
-      "album": {
         "name": "La Belle Epoque",
         "url": "https://open.spotify.com/album/6yfkDfG0OCtjIVVgjSx03g"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 189106,
       "name": "Las Bicicletas",
       "url": "https://open.spotify.com/track/43KGNTOAE6pX5hjqDG7yBg"
+    },
+    {
+      "added_at": "2024-09-02 20:58:45",
+      "album": {
+        "name": "Son De Madera",
+        "url": "https://open.spotify.com/album/7eyjUckkV8ZrnhCDmPWGnn"
+      },
+      "artists": [
+        {
+          "name": "Son De Madera",
+          "url": "https://open.spotify.com/artist/5IjDhtfKUReD5VeIeynKme"
+        }
+      ],
+      "duration_ms": 565013,
+      "name": "El Amanecer",
+      "url": "https://open.spotify.com/track/5DzsZOW1SSZ7PWkh0e2TQn"
     },
     {
       "added_at": "2024-09-02 20:58:45",
@@ -254,11 +254,15 @@
         {
           "name": "Domingo Suarez",
           "url": "https://open.spotify.com/artist/6keBbpvKC7Wrdq6x7ufCvx"
+        },
+        {
+          "name": "Antonio Garcia Isaac",
+          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
         }
       ],
-      "duration_ms": 132672,
-      "name": "Camino A San Miguel",
-      "url": "https://open.spotify.com/track/1LCKlitvr598k9WmOcDv8z"
+      "duration_ms": 100943,
+      "name": "Vamos A Bailar",
+      "url": "https://open.spotify.com/track/67nOZSTKNPgwFt4ObbBPar"
     },
     {
       "added_at": "2024-09-02 20:58:45",
@@ -295,22 +299,6 @@
     {
       "added_at": "2024-09-02 20:58:45",
       "album": {
-        "name": "Caribe Mar Sincopado",
-        "url": "https://open.spotify.com/album/2hCmmR9twhWkwWAm3vgGfx"
-      },
-      "artists": [
-        {
-          "name": "Son De Madera",
-          "url": "https://open.spotify.com/artist/5IjDhtfKUReD5VeIeynKme"
-        }
-      ],
-      "duration_ms": 294000,
-      "name": "El Balaj\u00fa",
-      "url": "https://open.spotify.com/track/71BWI87sAe2JFqOSECGXpX"
-    },
-    {
-      "added_at": "2024-09-02 20:58:45",
-      "album": {
         "name": "M\u00fasica Mexicana de Sal\u00f3n Con Salterio: Finales del Siglo Xix y Principios del Siglo Xx",
         "url": "https://open.spotify.com/album/0NIeTPc7wQYpjgX0ZGodeZ"
       },
@@ -335,6 +323,22 @@
     {
       "added_at": "2024-09-02 20:58:45",
       "album": {
+        "name": "Revent\u00f3n Veracruzano Puros \u00c9xitos De..",
+        "url": "https://open.spotify.com/album/3BKmNEqwNSI8bveYxTGhgh"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Alma Jarocha",
+          "url": "https://open.spotify.com/artist/7CFjxWuOYDOXtSUdMNfi5f"
+        }
+      ],
+      "duration_ms": 155933,
+      "name": "Canto A Veracruz",
+      "url": "https://open.spotify.com/track/0MYecQUlzO9dyJ9lRHpEko"
+    },
+    {
+      "added_at": "2024-09-02 20:58:45",
+      "album": {
         "name": "Mariachi Vol. 1",
         "url": "https://open.spotify.com/album/2YkbFuALq3qadFUQ6W4OTA"
       },
@@ -350,31 +354,11 @@
         {
           "name": "Domingo Suarez",
           "url": "https://open.spotify.com/artist/6keBbpvKC7Wrdq6x7ufCvx"
-        },
-        {
-          "name": "Antonio Garcia Isaac",
-          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
         }
       ],
-      "duration_ms": 100943,
-      "name": "Vamos A Bailar",
-      "url": "https://open.spotify.com/track/67nOZSTKNPgwFt4ObbBPar"
-    },
-    {
-      "added_at": "2024-09-02 20:58:45",
-      "album": {
-        "name": "Revent\u00f3n Veracruzano Puros \u00c9xitos De..",
-        "url": "https://open.spotify.com/album/3BKmNEqwNSI8bveYxTGhgh"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Alma Jarocha",
-          "url": "https://open.spotify.com/artist/7CFjxWuOYDOXtSUdMNfi5f"
-        }
-      ],
-      "duration_ms": 155933,
-      "name": "Canto A Veracruz",
-      "url": "https://open.spotify.com/track/0MYecQUlzO9dyJ9lRHpEko"
+      "duration_ms": 132672,
+      "name": "Camino A San Miguel",
+      "url": "https://open.spotify.com/track/1LCKlitvr598k9WmOcDv8z"
     },
     {
       "added_at": "2024-09-02 20:58:45",
@@ -411,6 +395,38 @@
     {
       "added_at": "2024-09-02 20:58:45",
       "album": {
+        "name": "Caribe Mar Sincopado",
+        "url": "https://open.spotify.com/album/2hCmmR9twhWkwWAm3vgGfx"
+      },
+      "artists": [
+        {
+          "name": "Son De Madera",
+          "url": "https://open.spotify.com/artist/5IjDhtfKUReD5VeIeynKme"
+        }
+      ],
+      "duration_ms": 294000,
+      "name": "El Balaj\u00fa",
+      "url": "https://open.spotify.com/track/71BWI87sAe2JFqOSECGXpX"
+    },
+    {
+      "added_at": "2024-09-02 20:58:45",
+      "album": {
+        "name": "Danzones, Mambos y Cha Cha Chas",
+        "url": "https://open.spotify.com/album/4PipSu48FG3zqHb249qzgL"
+      },
+      "artists": [
+        {
+          "name": "Marimba Chiapas",
+          "url": "https://open.spotify.com/artist/4VLiwcutCWaTpmp2BnCjw5"
+        }
+      ],
+      "duration_ms": 156906,
+      "name": "Las Clases del Cha Cha Cha",
+      "url": "https://open.spotify.com/track/0vCBgiJZPjYXwVqVcqy8FR"
+    },
+    {
+      "added_at": "2024-09-02 20:58:45",
+      "album": {
         "name": "La Belle Epoque",
         "url": "https://open.spotify.com/album/6yfkDfG0OCtjIVVgjSx03g"
       },
@@ -423,26 +439,6 @@
       "duration_ms": 152093,
       "name": "Chapultepec",
       "url": "https://open.spotify.com/track/14jYjGfprvRyvSBq13pAn9"
-    },
-    {
-      "added_at": "2024-09-02 20:58:45",
-      "album": {
-        "name": "Por Los Caminos Del Sur",
-        "url": "https://open.spotify.com/album/3mRRUTh4dFWac0WLajq689"
-      },
-      "artists": [
-        {
-          "name": "Costa M\u00eda Orquesta",
-          "url": "https://open.spotify.com/artist/5gr6ZjgBXbZAcIjsHJgwoL"
-        },
-        {
-          "name": "Vania Fortuna",
-          "url": "https://open.spotify.com/artist/573vmSNtAqa0P3uvg4NqzF"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Por Los Caminos Del Sur",
-      "url": "https://open.spotify.com/track/7lxSrgCOFBcTlcB6bSjXBS"
     },
     {
       "added_at": "2024-09-02 20:58:45",
@@ -471,34 +467,22 @@
     {
       "added_at": "2024-09-02 20:58:45",
       "album": {
-        "name": "Danzones, Mambos y Cha Cha Chas",
-        "url": "https://open.spotify.com/album/4PipSu48FG3zqHb249qzgL"
+        "name": "Por Los Caminos Del Sur",
+        "url": "https://open.spotify.com/album/3mRRUTh4dFWac0WLajq689"
       },
       "artists": [
         {
-          "name": "Marimba Chiapas",
-          "url": "https://open.spotify.com/artist/4VLiwcutCWaTpmp2BnCjw5"
-        }
-      ],
-      "duration_ms": 156906,
-      "name": "Las Clases del Cha Cha Cha",
-      "url": "https://open.spotify.com/track/0vCBgiJZPjYXwVqVcqy8FR"
-    },
-    {
-      "added_at": "2024-09-02 20:58:45",
-      "album": {
-        "name": "Grupo Mono Blanco Y Stone Lips: El Mundo Se Va A Acabar",
-        "url": "https://open.spotify.com/album/3lhBjWndaNcIej2AJW57Vz"
-      },
-      "artists": [
+          "name": "Costa M\u00eda Orquesta",
+          "url": "https://open.spotify.com/artist/5gr6ZjgBXbZAcIjsHJgwoL"
+        },
         {
-          "name": "Grupo Mono Blanco Y Stone Lips",
-          "url": "https://open.spotify.com/artist/3z2qTdU8yUeUZWAgtbTqgu"
+          "name": "Vania Fortuna",
+          "url": "https://open.spotify.com/artist/573vmSNtAqa0P3uvg4NqzF"
         }
       ],
-      "duration_ms": 208040,
-      "name": "El chuchumbe",
-      "url": "https://open.spotify.com/track/1rS8jSEd7TuEeJVf8USMRW"
+      "duration_ms": 158000,
+      "name": "Por Los Caminos Del Sur",
+      "url": "https://open.spotify.com/track/7lxSrgCOFBcTlcB6bSjXBS"
     },
     {
       "added_at": "2024-09-02 20:58:45",
@@ -519,18 +503,18 @@
     {
       "added_at": "2024-09-02 20:58:45",
       "album": {
-        "name": "Vamos A La Fiesta",
-        "url": "https://open.spotify.com/album/6AkQ14Roz7mOJVi6JRc9gZ"
+        "name": "Grupo Mono Blanco Y Stone Lips: El Mundo Se Va A Acabar",
+        "url": "https://open.spotify.com/album/3lhBjWndaNcIej2AJW57Vz"
       },
       "artists": [
         {
-          "name": "Marimba Orquesta Perla De Chiapas",
-          "url": "https://open.spotify.com/artist/69lmWrPp9ZvKMJirt47VMP"
+          "name": "Grupo Mono Blanco Y Stone Lips",
+          "url": "https://open.spotify.com/artist/3z2qTdU8yUeUZWAgtbTqgu"
         }
       ],
-      "duration_ms": 165301,
-      "name": "Zacazonapan",
-      "url": "https://open.spotify.com/track/1JxygrDpw5bLUMQsQqQuPN"
+      "duration_ms": 208040,
+      "name": "El chuchumbe",
+      "url": "https://open.spotify.com/track/1rS8jSEd7TuEeJVf8USMRW"
     },
     {
       "added_at": "2024-09-02 20:58:45",
@@ -567,6 +551,22 @@
       "duration_ms": 227400,
       "name": "La Malaguena",
       "url": "https://open.spotify.com/track/7EvfoiCkbtLTUacNhvPj2m"
+    },
+    {
+      "added_at": "2024-09-02 20:58:45",
+      "album": {
+        "name": "Vamos A La Fiesta",
+        "url": "https://open.spotify.com/album/6AkQ14Roz7mOJVi6JRc9gZ"
+      },
+      "artists": [
+        {
+          "name": "Marimba Orquesta Perla De Chiapas",
+          "url": "https://open.spotify.com/artist/69lmWrPp9ZvKMJirt47VMP"
+        }
+      ],
+      "duration_ms": 165301,
+      "name": "Zacazonapan",
+      "url": "https://open.spotify.com/track/1JxygrDpw5bLUMQsQqQuPN"
     },
     {
       "added_at": "2024-09-02 20:58:45",
@@ -743,18 +743,18 @@
     {
       "added_at": "2024-09-02 20:58:45",
       "album": {
-        "name": "En Tonos Muy Diferentes",
-        "url": "https://open.spotify.com/album/3IJPBiKZUz4UZmxBo8MKNf"
+        "name": "Antolog\u00eda de la M\u00fasica P'urhepecha Vol. VIII",
+        "url": "https://open.spotify.com/album/3CVW7CGhHs7Wg3lyG97sSL"
       },
       "artists": [
         {
-          "name": "Los Vega",
-          "url": "https://open.spotify.com/artist/50Ww2VNPqAF6hgXaT3XuBB"
+          "name": "Gran Banda De Ich\u00e1n Michoac\u00e1n",
+          "url": "https://open.spotify.com/artist/1m1AhZMj1tTgQGuLwAdKh1"
         }
       ],
-      "duration_ms": 345320,
-      "name": "El Siquisir\u00ed",
-      "url": "https://open.spotify.com/track/3GHWRRUTDG5CNPK0ZZQCoc"
+      "duration_ms": 194680,
+      "name": "Los Once Pueblos (Eraxamani)",
+      "url": "https://open.spotify.com/track/3HWQJhwYGZ8CWZefWSDxII"
     },
     {
       "added_at": "2024-09-02 20:58:45",
@@ -787,34 +787,18 @@
     {
       "added_at": "2024-09-02 20:58:45",
       "album": {
-        "name": "Antolog\u00eda de la M\u00fasica P'urhepecha Vol. VIII",
-        "url": "https://open.spotify.com/album/3CVW7CGhHs7Wg3lyG97sSL"
+        "name": "En Tonos Muy Diferentes",
+        "url": "https://open.spotify.com/album/3IJPBiKZUz4UZmxBo8MKNf"
       },
       "artists": [
         {
-          "name": "Gran Banda De Ich\u00e1n Michoac\u00e1n",
-          "url": "https://open.spotify.com/artist/1m1AhZMj1tTgQGuLwAdKh1"
+          "name": "Los Vega",
+          "url": "https://open.spotify.com/artist/50Ww2VNPqAF6hgXaT3XuBB"
         }
       ],
-      "duration_ms": 194680,
-      "name": "Los Once Pueblos (Eraxamani)",
-      "url": "https://open.spotify.com/track/3HWQJhwYGZ8CWZefWSDxII"
-    },
-    {
-      "added_at": "2024-09-02 20:58:45",
-      "album": {
-        "name": "M\u00e9xico 2010 El Salterio",
-        "url": "https://open.spotify.com/album/1PU88tZ22xHSWrdTY1jroX"
-      },
-      "artists": [
-        {
-          "name": "Daniel Armas",
-          "url": "https://open.spotify.com/artist/62m8kgUSiuiUb2cl118JCi"
-        }
-      ],
-      "duration_ms": 161866,
-      "name": "Ay Jalisco No Te Rajes",
-      "url": "https://open.spotify.com/track/5q673d8BBfaK3CrQWBUMOH"
+      "duration_ms": 345320,
+      "name": "El Siquisir\u00ed",
+      "url": "https://open.spotify.com/track/3GHWRRUTDG5CNPK0ZZQCoc"
     },
     {
       "added_at": "2024-09-02 20:58:45",
@@ -831,6 +815,22 @@
       "duration_ms": 131691,
       "name": "Jesusita en Chihuahua",
       "url": "https://open.spotify.com/track/1KbZZUotUeq0C72gu62mIq"
+    },
+    {
+      "added_at": "2024-09-02 20:58:45",
+      "album": {
+        "name": "M\u00e9xico 2010 El Salterio",
+        "url": "https://open.spotify.com/album/1PU88tZ22xHSWrdTY1jroX"
+      },
+      "artists": [
+        {
+          "name": "Daniel Armas",
+          "url": "https://open.spotify.com/artist/62m8kgUSiuiUb2cl118JCi"
+        }
+      ],
+      "duration_ms": 161866,
+      "name": "Ay Jalisco No Te Rajes",
+      "url": "https://open.spotify.com/track/5q673d8BBfaK3CrQWBUMOH"
     },
     {
       "added_at": "2024-09-02 20:58:45",
@@ -875,6 +875,22 @@
     {
       "added_at": "2024-09-02 20:58:45",
       "album": {
+        "name": "En Tonos Muy Diferentes",
+        "url": "https://open.spotify.com/album/3IJPBiKZUz4UZmxBo8MKNf"
+      },
+      "artists": [
+        {
+          "name": "Los Vega",
+          "url": "https://open.spotify.com/artist/50Ww2VNPqAF6hgXaT3XuBB"
+        }
+      ],
+      "duration_ms": 342360,
+      "name": "La Llorona",
+      "url": "https://open.spotify.com/track/1DQKQpOqSSDMrsHkvsQd0J"
+    },
+    {
+      "added_at": "2024-09-02 20:58:45",
+      "album": {
         "name": "San Pedro Hermoso",
         "url": "https://open.spotify.com/album/5XbUpC6yNlA4W9e6K4Cv37"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 239675,
       "name": "San Pedro Hermoso",
       "url": "https://open.spotify.com/track/0xARjffWeQ3NEmseEU4rum"
-    },
-    {
-      "added_at": "2024-09-02 20:58:45",
-      "album": {
-        "name": "En Tonos Muy Diferentes",
-        "url": "https://open.spotify.com/album/3IJPBiKZUz4UZmxBo8MKNf"
-      },
-      "artists": [
-        {
-          "name": "Los Vega",
-          "url": "https://open.spotify.com/artist/50Ww2VNPqAF6hgXaT3XuBB"
-        }
-      ],
-      "duration_ms": 342360,
-      "name": "La Llorona",
-      "url": "https://open.spotify.com/track/1DQKQpOqSSDMrsHkvsQd0J"
     },
     {
       "added_at": "2024-09-02 20:58:45",
@@ -1715,26 +1715,6 @@
     {
       "added_at": "2024-09-02 20:58:45",
       "album": {
-        "name": "Marimbas Clasicas",
-        "url": "https://open.spotify.com/album/48sRia6rlUi7yI5XGaYjJX"
-      },
-      "artists": [
-        {
-          "name": "Mexican Music Factory",
-          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
-        },
-        {
-          "name": "Felipe Gutierrez",
-          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
-        }
-      ],
-      "duration_ms": 134291,
-      "name": "La Cucaracha",
-      "url": "https://open.spotify.com/track/70YB8z8u5OflFK8CWN5rcS"
-    },
-    {
-      "added_at": "2024-09-02 20:58:45",
-      "album": {
         "name": "Mariachi Vol. 1",
         "url": "https://open.spotify.com/album/2YkbFuALq3qadFUQ6W4OTA"
       },
@@ -1759,6 +1739,26 @@
       "duration_ms": 151823,
       "name": "Amanecer",
       "url": "https://open.spotify.com/track/0hk66dcAuWYtc24wXLaShb"
+    },
+    {
+      "added_at": "2024-09-02 20:58:45",
+      "album": {
+        "name": "Marimbas Clasicas",
+        "url": "https://open.spotify.com/album/48sRia6rlUi7yI5XGaYjJX"
+      },
+      "artists": [
+        {
+          "name": "Mexican Music Factory",
+          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
+        },
+        {
+          "name": "Felipe Gutierrez",
+          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
+        }
+      ],
+      "duration_ms": 134291,
+      "name": "La Cucaracha",
+      "url": "https://open.spotify.com/track/70YB8z8u5OflFK8CWN5rcS"
     },
     {
       "added_at": "2024-09-02 20:58:45",

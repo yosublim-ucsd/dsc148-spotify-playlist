@@ -4,7 +4,7 @@
 
 > 
 
-1,695 songs - 3 day 19 hr 8 min
+1,696 songs - 3 day 19 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1463,6 +1463,7 @@
 | [The Limelight](https://open.spotify.com/track/5Q1GQOVxIYkz3UwoPIBtcY) | [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE) | [The Limelight](https://open.spotify.com/album/4yKbI3bQM6YR4TGvAdnE5j) | 4:32 | 2022-09-14 |  |
 | [The Mind](https://open.spotify.com/track/6WW4eJzOLZnlHIqYLKPRKO) | [Furyan](https://open.spotify.com/artist/7KAMvC5fpPMWUgZYu3mEYJ) | [Hardcore Top 100 \- 2022](https://open.spotify.com/album/4Ersy0iDqv2ZCknpTlWaWB) | 2:49 | 2022-08-23 |  |
 | [The Next Level](https://open.spotify.com/track/52Da7df3ErcDwprCRADkgS) | [Act of Rage](https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW), [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3) | [The Next Level](https://open.spotify.com/album/4BIBYeZSRT3z0om94NPXut) | 3:15 | 2022-09-06 |  |
+| [The Night](https://open.spotify.com/track/3jAWf9hMSgXE6t0Zzn6RYd) | [Abaddon](https://open.spotify.com/artist/3ujI46PHi7vombfnkjM8C3) | [The Night](https://open.spotify.com/album/42KHAOgMB93IRU2bY9GBjz) | 3:03 | 2024-09-11 |  |
 | [The Oni Retribution](https://open.spotify.com/track/6QfKWeXzKVcbAhuPLyj9fP) | [Nosferatu](https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY) | [The Oni Retribution](https://open.spotify.com/album/18Wbb2JIGpMv6KAxcg7Cxb) | 4:25 | 2023-10-20 |  |
 | [The only life I’ll ever know](https://open.spotify.com/track/43WYqXJR6sTre80cIv8nRH) | [Nosferatu](https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY) | [Demonic Playgrounds](https://open.spotify.com/album/23jLMFzSBYcGYrdu1f85NC) | 5:11 | 2022-09-06 |  |
 | [The Poison \- N\-Vitral Remix](https://open.spotify.com/track/1ANghLRKAab2CIvOnRNb4w) | [Miss K8](https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO), [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3) | [Up In Smoke](https://open.spotify.com/album/2tmiqyvGEEIbvqK7luL6uM) | 3:50 | 2022-09-09 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Fred again.., Drake, Jungle, Daniela Andrade and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 532,796 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 532,801 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 47 | [Safari](https://open.spotify.com/track/5fV9i1hWdDc4s2ZIlXwO4U) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [Safari](https://open.spotify.com/album/5sQakLdez1abFowsplhLBq) | 2:30 |
 | 48 | [I Wrote Your Name \(Upon My Heart\)](https://open.spotify.com/track/6x52Hw5bZEpGbp3Ir6k7FJ) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [I Wrote Your Name \(Upon My Heart\)](https://open.spotify.com/album/6eZoMvARr3RHr8Xmteqcnu) | 3:20 |
 | 49 | [Vida Rockstar](https://open.spotify.com/track/3HJdVteZQwALBdlr0VFlBZ) | [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Le Clique: Vida Rockstar \(X\)](https://open.spotify.com/album/67JIMv9vCB2ukBdEbtUmUG) | 3:26 |
-| 50 | [Wet Dreams \(feat\. coop & gg\)](https://open.spotify.com/track/20LfID5lY83tDZAHZqpFtC) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [coop](https://open.spotify.com/artist/39Fgy3DGHvOP32RcQ8U4bv), [G G](https://open.spotify.com/artist/6hepB9skRNYPl9CkOpwKGj) | [Wet Dreams \(feat\. coop & gg\)](https://open.spotify.com/album/65NAjD3jks0YWWLVkl2VnO) | 2:39 |
+| 50 | [Wet Dreams \(feat\. coop & gg\)](https://open.spotify.com/track/20LfID5lY83tDZAHZqpFtC) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [coop](https://open.spotify.com/artist/39Fgy3DGHvOP32RcQ8U4bv), [gg](https://open.spotify.com/artist/12XC7Vu5zRQ9Q8UFmX6Fnw) | [Wet Dreams \(feat\. coop & gg\)](https://open.spotify.com/album/65NAjD3jks0YWWLVkl2VnO) | 2:39 |
 | 51 | [Texas](https://open.spotify.com/track/607vRhDNPs67nXVgqk4J1Z) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Texas](https://open.spotify.com/album/17VJHcUZKAcfT2xyrlSbJQ) | 3:08 |
 | 52 | [In The Cut](https://open.spotify.com/track/4VaQSqvF2vX7vqv8f8HLRO) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [In The Cut](https://open.spotify.com/album/6UvvBB9erje8tde7ssRJjM) | 2:47 |
 | 53 | [Trouble](https://open.spotify.com/track/6gx8SHpGPlFeHpPBl7FiMx) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [DJ MAC](https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc), [CrashDummy](https://open.spotify.com/artist/0pyehJ4fIGvJMD8EXGLUAI) | [Trouble](https://open.spotify.com/album/4MlNS3ebhAToBfk8KrgeIg) | 2:19 |

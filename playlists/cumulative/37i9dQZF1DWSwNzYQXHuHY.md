@@ -4,7 +4,7 @@
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요\. \(There is something between us\)
 
-236 songs - 13 hr 16 min
+237 songs - 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [I wonder](https://open.spotify.com/track/0P0VXGVjj3TNoXMyWWSsuK) | [Hello Fox](https://open.spotify.com/artist/5F7gjj7mqSIPMv7hbaAQVd) | [I wonder](https://open.spotify.com/album/4S7Cchlit8FEWzt0a0qrDe) | 2:57 | 2022-07-04 | 2022-07-29 |
 | [I'II be your star](https://open.spotify.com/track/0l9LpCsYufB1e5PJSvOXbU) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [A\-TEEN Part\. 2](https://open.spotify.com/album/0vRTiHetZUMy6HGswfv73J) | 3:24 | 2024-03-08 |  |
 | [I'm busy](https://open.spotify.com/track/21QltCzKyoezfGmgjHhXcM) | [IGWI](https://open.spotify.com/artist/4whp4PfaJKVotmQSuMlO4U) | [I'm busy](https://open.spotify.com/album/3Oj5jVbZ57FS5waEWgAf0K) | 3:21 | 2022-05-11 | 2022-06-30 |
-| [I'm In Love](https://open.spotify.com/track/1D82HRevEEavXuo6U2WIcz) | [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [Woori The Virgin, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/2KEq2SyHbGTZwEBM9ASoii) | 3:00 | 2022-06-13 |  |
+| [I'm In Love](https://open.spotify.com/track/1D82HRevEEavXuo6U2WIcz) | [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [Woori The Virgin, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/2KEq2SyHbGTZwEBM9ASoii) | 3:00 | 2022-06-13 | 2024-09-12 |
 | [If I \(with Yun DDanDDan\)](https://open.spotify.com/track/2Leb6RTSFvdVEXW20Pnv1U) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [If I \(with Yun DDanDDan\)](https://open.spotify.com/album/6qGRlVGMoRhvsKjkixQe6Y) | 3:49 | 2022-05-11 | 2022-07-21 |
 | [Imagine Love](https://open.spotify.com/track/6mjhtxtQab50DeMnphYDjy) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [Adult Trainee, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/0q5ZHEqTgIgiSbyl1chayB) | 3:11 | 2022-05-11 | 2024-03-09 |
 | [INFJ \(Feat\. B.I, BANG YEDAM\)](https://open.spotify.com/track/77GfQKz4WzULTEoLL286cT) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [BANG YEDAM](https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X) | [Dingo X BIG Naughty](https://open.spotify.com/album/1bksL87asiBGZYwVyGR3kp) | 3:29 | 2024-01-08 | 2024-03-09 |
@@ -122,6 +122,7 @@
 | [LOVE SONG](https://open.spotify.com/track/1ivQM7qQCPRfvisivqGIYJ) | [Yoon Jisung](https://open.spotify.com/artist/336NKYVCHaJbC8RrMEO8NM) | [Temperature of Love](https://open.spotify.com/album/243WfskVKVmbYsRLsMnhhV) | 3:17 | 2022-05-11 | 2022-07-27 |
 | [Love to Hate You](https://open.spotify.com/track/3yyyNGcVpZiUydyaDJgegP) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Love to Hate You, Pt\. 3 \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0LKzvEeYhFKchC5hBWkfJx) | 3:20 | 2023-02-25 | 2024-03-09 |
 | [Love, Maybe \(Acoustic Ver.\)](https://open.spotify.com/track/3V2fMXzPJLkIQyRgwOLgip) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [Love, Maybe \(A Business Proposal OST Bonus Track\)](https://open.spotify.com/album/7I3EMy3n72e6ABSq4Ubhoz) | 2:51 | 2022-05-11 | 2024-03-09 |
+| [Lovely](https://open.spotify.com/track/35XaLOtWkqm2ljA9KiphFk) | [Fleen](https://open.spotify.com/artist/5xV9RrMSLYKLArfYM3Qrjo) | [Lovely](https://open.spotify.com/album/5Lzb2gSAuoJkrORPrAhBG4) | 2:57 | 2024-09-11 |  |
 | [lovelylove \- 사랑에 빠진 것을 아무에게도 말하지 않는](https://open.spotify.com/track/4x9IutN92CBDbNM7xaTBF8) | [Swing](https://open.spotify.com/artist/66bVJmfvszO59SwBAc4z9W), [Choi Su Bin](https://open.spotify.com/artist/1VID9LmA67Y0pD63zpR9Px) | [lovelylove \- 사랑에 빠진 것을 아무에게도 말하지 않는](https://open.spotify.com/album/5cbBd9MOAXVGUJrbGUVZEe) | 3:10 | 2022-05-11 | 2022-06-07 |
 | [Lovey Dovey](https://open.spotify.com/track/1FMb1qn3a2JDbMOG8PAu3l) | [TAEIL](https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq) | [Love to Hate You, Pt\. 2 \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3ezMl6HrnKetoZTJEj0me3) | 3:24 | 2023-02-25 | 2024-03-09 |
 | [Lucid Dream \(feat\. MNZU\)](https://open.spotify.com/track/6lJUvqmdG1jt1y3nWT9Exh) | [Camtono](https://open.spotify.com/artist/6hZ5K83wnSmPDM4R3iGF9s), [MNZU](https://open.spotify.com/artist/1juqEV8as6kKzFY3bKSmP9) | [Lucid Dream \(feat\. MNZU\)](https://open.spotify.com/album/5eRzpXBXvklSf1LucQJxdA) | 3:09 | 2022-07-08 | 2022-08-10 |

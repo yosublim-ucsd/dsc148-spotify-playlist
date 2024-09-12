@@ -1,12 +1,12 @@
 {
   "description": "This is Kaliii. The essential tracks, all in one playlist.",
-  "num_followers": 3831,
+  "num_followers": 3835,
   "original_name": "This Is Kaliii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zt46gAAAAAAPgDJ+iBMolOkVKwjVDool",
+  "snapshot_id": "Zt+MAAAAAAB/rk2VbnX0zDEbDIYpDfyL",
   "tracks": [
     {
       "added_at": null,
@@ -155,6 +155,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shiesty (feat. Kaliii & Sexyy Red)",
+        "url": "https://open.spotify.com/album/5KAMwIkKnQW0GLJK2wm83T"
+      },
+      "artists": [
+        {
+          "name": "Finesse2tymes",
+          "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 216541,
+      "name": "Shiesty (feat. Kaliii & Sexyy Red)",
+      "url": "https://open.spotify.com/track/3erWnQRZiMmOzRqnVhHaox"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Reasonable Woman",
         "url": "https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb"
       },
@@ -179,30 +203,6 @@
       "duration_ms": 160723,
       "name": "Champion (feat. Tierra Whack, Kaliii & Jimmy Jolliff)",
       "url": "https://open.spotify.com/track/6LqftaVN35FQ60QmuDm1x9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shiesty (feat. Kaliii & Sexyy Red)",
-        "url": "https://open.spotify.com/album/5KAMwIkKnQW0GLJK2wm83T"
-      },
-      "artists": [
-        {
-          "name": "Finesse2tymes",
-          "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
-        },
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 216541,
-      "name": "Shiesty (feat. Kaliii & Sexyy Red)",
-      "url": "https://open.spotify.com/track/3erWnQRZiMmOzRqnVhHaox"
     },
     {
       "added_at": null,
@@ -575,26 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Why They Mad Now",
-        "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        },
-        {
-          "name": "Ken The Man",
-          "url": "https://open.spotify.com/artist/5shvxSgmdhZdPLXSZjNVhu"
-        }
-      ],
-      "duration_ms": 213133,
-      "name": "Ain't FWM (feat. Ken the Man)",
-      "url": "https://open.spotify.com/track/6tuDN7s1S1ld0FSNGhxhl4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "UonU (feat. Yung Bleu)",
         "url": "https://open.spotify.com/album/1OGeBW31RYFKWz9jtey1B7"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 218205,
       "name": "UonU (feat. Yung Bleu)",
       "url": "https://open.spotify.com/track/3udY2LgfOU8GOWBnoYmFsP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Why They Mad Now",
+        "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "Ken The Man",
+          "url": "https://open.spotify.com/artist/5shvxSgmdhZdPLXSZjNVhu"
+        }
+      ],
+      "duration_ms": 213133,
+      "name": "Ain't FWM (feat. Ken the Man)",
+      "url": "https://open.spotify.com/track/6tuDN7s1S1ld0FSNGhxhl4"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Why They Mad Now",
-        "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 144983,
-      "name": "Nasty Bitch",
-      "url": "https://open.spotify.com/track/5nYb5BCEwJc9z88HFLrr1y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blow It (feat. Kaliii)",
         "url": "https://open.spotify.com/album/5EmxmoOuOzwi2sMH6kLiP9"
       },
@@ -687,22 +671,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Not Yours (Remix)",
-        "url": "https://open.spotify.com/album/58Qs8SIVW4lM8t9ma66Aw0"
+        "name": "This Why They Mad Now",
+        "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
       },
       "artists": [
-        {
-          "name": "Vae Vanilla",
-          "url": "https://open.spotify.com/artist/5C41pFQJ6ht276z97Wh6xb"
-        },
         {
           "name": "Kaliii",
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 130295,
-      "name": "Not Yours (Remix)",
-      "url": "https://open.spotify.com/track/3wMUF96HtzkjviWxFRQUVn"
+      "duration_ms": 144983,
+      "name": "Nasty Bitch",
+      "url": "https://open.spotify.com/track/5nYb5BCEwJc9z88HFLrr1y"
     },
     {
       "added_at": null,
@@ -735,18 +715,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Why They Mad Now",
-        "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
+        "name": "Not Yours (Remix)",
+        "url": "https://open.spotify.com/album/58Qs8SIVW4lM8t9ma66Aw0"
       },
       "artists": [
+        {
+          "name": "Vae Vanilla",
+          "url": "https://open.spotify.com/artist/5C41pFQJ6ht276z97Wh6xb"
+        },
         {
           "name": "Kaliii",
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 153652,
-      "name": "Bad Bad Bad",
-      "url": "https://open.spotify.com/track/3cSupjEV8VcSxD6iChJ8MO"
+      "duration_ms": 130295,
+      "name": "Not Yours (Remix)",
+      "url": "https://open.spotify.com/track/3wMUF96HtzkjviWxFRQUVn"
     },
     {
       "added_at": null,
@@ -767,6 +751,22 @@
       "duration_ms": 155476,
       "name": "Street Nigga (feat. Kaliii)",
       "url": "https://open.spotify.com/track/0enS3HzQvOcZcQARcPQdK2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Why They Mad Now",
+        "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 153652,
+      "name": "Bad Bad Bad",
+      "url": "https://open.spotify.com/track/3cSupjEV8VcSxD6iChJ8MO"
     },
     {
       "added_at": null,
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Why They Mad Now",
-        "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 106285,
-      "name": "Big Body",
-      "url": "https://open.spotify.com/track/44KCsHCsd0yQnyOm71XHQJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RAP SH!T: The Mixtape (From the Max Original Series, S2)",
         "url": "https://open.spotify.com/album/2WhkGLUX16VzmOjr6KSqRX"
       },
@@ -851,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toxic Chocolate",
-        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
+        "name": "This Why They Mad Now",
+        "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
       },
       "artists": [
         {
@@ -860,9 +844,9 @@
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 154453,
-      "name": "New Day",
-      "url": "https://open.spotify.com/track/4w5dESJ47Q36FBlN6ga9Aa"
+      "duration_ms": 106285,
+      "name": "Big Body",
+      "url": "https://open.spotify.com/track/44KCsHCsd0yQnyOm71XHQJ"
     },
     {
       "added_at": null,
@@ -883,8 +867,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Why They Mad Now",
-        "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
+        "name": "Toxic Chocolate",
+        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
       },
       "artists": [
         {
@@ -892,9 +876,9 @@
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 138288,
-      "name": "Spend Dat",
-      "url": "https://open.spotify.com/track/3BketpGVPLcisLVw9ttWc5"
+      "duration_ms": 154453,
+      "name": "New Day",
+      "url": "https://open.spotify.com/track/4w5dESJ47Q36FBlN6ga9Aa"
     },
     {
       "added_at": null,
@@ -911,6 +895,22 @@
       "duration_ms": 130813,
       "name": "OOP",
       "url": "https://open.spotify.com/track/3ZZ2kSbVdgOhgoYFqQEsGB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Why They Mad Now",
+        "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 138288,
+      "name": "Spend Dat",
+      "url": "https://open.spotify.com/track/3BketpGVPLcisLVw9ttWc5"
     },
     {
       "added_at": null,

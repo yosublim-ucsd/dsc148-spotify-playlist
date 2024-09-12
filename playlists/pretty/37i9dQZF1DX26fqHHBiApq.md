@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26fqHHBiApq.md) - [plain]
 
 > Fresh takes\- from new revisions and iconic covers to unexpected versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,387 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,402 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26fqHHBiApq.md) - [plain]
 | 87 | [Jambalaya \(On The Bayou\)](https://open.spotify.com/track/0A3YvB4Go1S8kJnLiQEWPs) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv), [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Jambalaya \(On The Bayou\)](https://open.spotify.com/album/1IFtPm18hbZdeWlixctYCj) | 3:00 |
 | 88 | [Cold Cold Heart](https://open.spotify.com/track/11CPy2MgLdHA3GXzMZJD65) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Moving On Skiffle](https://open.spotify.com/album/5xRbTR4SyCaoyzBMIntehg) | 3:26 |
 | 89 | [I Saw The Light \- How Sweet The Sound Album Version](https://open.spotify.com/track/0VeL11H0QqLFJdAxtDAiSm) | [Charlie Daniels](https://open.spotify.com/artist/6UpFUXmXvDV7Qj1SPymamh) | [How Sweet The Sound](https://open.spotify.com/album/0qxoaPomwHe8Z6xEbA1WdT) | 2:52 |
-| 90 | [Honky Tonk Blues](https://open.spotify.com/track/7AQMCmzirLh21jaoqgrpdR) | [Huey Lewis & The News](https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6) | [Sports \(30th Anniversary Edition\)](https://open.spotify.com/album/7tupdIXanhc5g9n6EsjMW5) | 3:20 |
+| 90 | [Honky Tonk Blues](https://open.spotify.com/track/7AQMCmzirLh21jaoqgrpdR) | [Huey Lewis & The News](https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6) | [Sports \- 30th Anniversary Edition](https://open.spotify.com/album/7tupdIXanhc5g9n6EsjMW5) | 3:20 |
 | 91 | [When God Comes And Gathers His Jewels](https://open.spotify.com/track/7aoZeGvBqDVHRypJEZiES3) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [What A Friend We Have In Jesus](https://open.spotify.com/album/7BlhqXxFdVq6PvjJ8Scg9t) | 2:58 |
 | 92 | [Men with Broken Hearts](https://open.spotify.com/track/0Cwn4gSs8aLwWwcCFn4tH8) | [Porter Wagoner](https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA) | [Confessions of a Broken Man](https://open.spotify.com/album/1l4k4EBIhupdWKB07gLvgf) | 2:41 |
 | 93 | [Why Don't You Love Me Like You Used To Do?](https://open.spotify.com/track/2z4gH2o4Lwa3l78xY56K3d) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [Long Lost Suitcase](https://open.spotify.com/album/7k1rf31Ga1AzbniaALIQlg) | 1:49 |

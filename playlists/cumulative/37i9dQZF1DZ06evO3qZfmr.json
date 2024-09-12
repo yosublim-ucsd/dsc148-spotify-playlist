@@ -579,6 +579,28 @@
     },
     {
       "album": {
+        "name": "Something in the Whiskey",
+        "url": "https://open.spotify.com/album/23D8bKKH3aDkBWkU6oIR19"
+      },
+      "artists": [
+        {
+          "name": "Jeb Gipson",
+          "url": "https://open.spotify.com/artist/3MG8H6zu9EvmL5sRtFpDMF"
+        },
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178730,
+      "name": "Something in the Whiskey",
+      "url": "https://open.spotify.com/track/6cF9cMJ70NKWN7Db7cAp9p"
+    },
+    {
+      "album": {
         "name": "Lucky",
         "url": "https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK"
       },

@@ -1,13 +1,189 @@
 {
-  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: harf.",
-  "num_followers": 76815,
+  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Keni Titus",
+  "num_followers": 77017,
   "original_name": "Fresh Finds Folk ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtFDwAAAAAANq4GD06EzmLG/YOsT2fm6",
+  "snapshot_id": "ZuHKoQAAAACRXmb0JksBYs0OY6Vy7m77",
   "tracks": [
+    {
+      "added_at": "2024-09-11 16:51:45",
+      "album": {
+        "name": "juliet",
+        "url": "https://open.spotify.com/album/3bO8aWJrQzvUZE4kaAvaWh"
+      },
+      "artists": [
+        {
+          "name": "Keni Titus",
+          "url": "https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj"
+        }
+      ],
+      "duration_ms": 169840,
+      "name": "feels like i'm changing",
+      "url": "https://open.spotify.com/track/61urfuiBZq0LfgfdZxFb05"
+    },
+    {
+      "added_at": "2024-09-11 16:51:45",
+      "album": {
+        "name": "amy allen",
+        "url": "https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb"
+      },
+      "artists": [
+        {
+          "name": "Amy Allen",
+          "url": "https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x"
+        }
+      ],
+      "duration_ms": 164065,
+      "name": "reason to forgive",
+      "url": "https://open.spotify.com/track/37WikNaTXg1WdspSS5oHkI"
+    },
+    {
+      "added_at": "2024-09-11 16:51:45",
+      "album": {
+        "name": "Her",
+        "url": "https://open.spotify.com/album/3YsLlWQ9dzG0dFQQZO1jEv"
+      },
+      "artists": [
+        {
+          "name": "The American Dawn",
+          "url": "https://open.spotify.com/artist/3EXC0gkpntFvtLS1R0yf11"
+        }
+      ],
+      "duration_ms": 214086,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/2vlkTkPqdATznKHu9gD2c1"
+    },
+    {
+      "added_at": "2024-08-21 20:53:22",
+      "album": {
+        "name": "Solid Ground",
+        "url": "https://open.spotify.com/album/3zd0VrYymrE7nK1UZTlRCr"
+      },
+      "artists": [
+        {
+          "name": "barrett",
+          "url": "https://open.spotify.com/artist/5s8pSew0l0EfjJLK5a8sSY"
+        }
+      ],
+      "duration_ms": 233730,
+      "name": "Solid Ground",
+      "url": "https://open.spotify.com/track/0jtHUZ69AAVSVWaXpEP60D"
+    },
+    {
+      "added_at": "2024-09-11 16:51:45",
+      "album": {
+        "name": "Pessimist Babe",
+        "url": "https://open.spotify.com/album/10GO6N8nXJ4njbiKJ1X1oe"
+      },
+      "artists": [
+        {
+          "name": "Maia Toakley",
+          "url": "https://open.spotify.com/artist/1B1J5gTh5qjRAykIQMX8Ka"
+        }
+      ],
+      "duration_ms": 195157,
+      "name": "Pessimist Babe",
+      "url": "https://open.spotify.com/track/43XzTSasS0Arc1dgldOMyb"
+    },
+    {
+      "added_at": "2024-08-14 04:00:00",
+      "album": {
+        "name": "Watch Me Drive Them Dogs Wild",
+        "url": "https://open.spotify.com/album/2o5JtJXMyAsQVbHJUhhIvs"
+      },
+      "artists": [
+        {
+          "name": "Merce Lemon",
+          "url": "https://open.spotify.com/artist/4u2LxHDBsFDH3J9NumXSCH"
+        }
+      ],
+      "duration_ms": 290003,
+      "name": "Watch Me Drive Them Dogs Wild",
+      "url": "https://open.spotify.com/track/6iu45OgK2U9qgefiUzQT7l"
+    },
+    {
+      "added_at": "2024-09-11 16:51:45",
+      "album": {
+        "name": "spring will come",
+        "url": "https://open.spotify.com/album/08gU4cgs5HdjAZvFINhRat"
+      },
+      "artists": [
+        {
+          "name": "Nessa McHugh",
+          "url": "https://open.spotify.com/artist/3ctqz5L44tn6Rx0kPHNct6"
+        }
+      ],
+      "duration_ms": 176500,
+      "name": "spring will come",
+      "url": "https://open.spotify.com/track/5E7N0nr63wL3A5lWwlMxHq"
+    },
+    {
+      "added_at": "2024-09-11 16:51:45",
+      "album": {
+        "name": "Get-Go",
+        "url": "https://open.spotify.com/album/1ZkdGFemrVA53TyXujwC5f"
+      },
+      "artists": [
+        {
+          "name": "His His",
+          "url": "https://open.spotify.com/artist/2TMWd2oE1MAzSt4V10lnVO"
+        }
+      ],
+      "duration_ms": 113600,
+      "name": "Get-Go",
+      "url": "https://open.spotify.com/track/6bg7tfA7D8VHhsDdbhsnuU"
+    },
+    {
+      "added_at": "2024-09-11 16:51:45",
+      "album": {
+        "name": "Spooky",
+        "url": "https://open.spotify.com/album/6PDhjBmxVy7exXHUCwjnnS"
+      },
+      "artists": [
+        {
+          "name": "soft star",
+          "url": "https://open.spotify.com/artist/5EpWCM5quwzO5FPjkDxB8E"
+        }
+      ],
+      "duration_ms": 235802,
+      "name": "Spooky",
+      "url": "https://open.spotify.com/track/6ocgYwn6Z0iw3OZkAPhJKO"
+    },
+    {
+      "added_at": "2024-09-11 16:51:45",
+      "album": {
+        "name": "The Upside",
+        "url": "https://open.spotify.com/album/5O7kvXJ8oCFIp03N2NNBtj"
+      },
+      "artists": [
+        {
+          "name": "Raavi",
+          "url": "https://open.spotify.com/artist/2TOe8Cf1hnlJTQWcTStQ64"
+        }
+      ],
+      "duration_ms": 122845,
+      "name": "The Upside",
+      "url": "https://open.spotify.com/track/6nQB4Rrniz1gXtgwHRvR2l"
+    },
+    {
+      "added_at": "2024-09-11 16:51:45",
+      "album": {
+        "name": "Mushrooms",
+        "url": "https://open.spotify.com/album/1GfpD8vxZgfB8YyDLRcM6F"
+      },
+      "artists": [
+        {
+          "name": "Skydaddy",
+          "url": "https://open.spotify.com/artist/3D0kSdrilgR4uCW5smIzEX"
+        }
+      ],
+      "duration_ms": 202739,
+      "name": "Mushrooms",
+      "url": "https://open.spotify.com/track/5snn7VQMZEe41kKoREQf88"
+    },
     {
       "added_at": "2024-08-28 04:00:00",
       "album": {
@@ -41,22 +217,6 @@
       "url": "https://open.spotify.com/track/4836c60FYoDyiMVshhZzev"
     },
     {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "to love me",
-        "url": "https://open.spotify.com/album/7B1eDWH2UGu7aTLeim9dlq"
-      },
-      "artists": [
-        {
-          "name": "Amy Allen",
-          "url": "https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x"
-        }
-      ],
-      "duration_ms": 207866,
-      "name": "to love me",
-      "url": "https://open.spotify.com/track/36QORZpibXC1szSTXKPk7i"
-    },
-    {
       "added_at": "2024-08-21 20:53:22",
       "album": {
         "name": "Sleep Tonight",
@@ -73,22 +233,6 @@
       "url": "https://open.spotify.com/track/2944dK6sVcflROZykZRYFQ"
     },
     {
-      "added_at": "2024-08-21 20:53:22",
-      "album": {
-        "name": "Solid Ground",
-        "url": "https://open.spotify.com/album/3zd0VrYymrE7nK1UZTlRCr"
-      },
-      "artists": [
-        {
-          "name": "barrett",
-          "url": "https://open.spotify.com/artist/5s8pSew0l0EfjJLK5a8sSY"
-        }
-      ],
-      "duration_ms": 233730,
-      "name": "Solid Ground",
-      "url": "https://open.spotify.com/track/0jtHUZ69AAVSVWaXpEP60D"
-    },
-    {
       "added_at": "2024-08-28 04:00:00",
       "album": {
         "name": "everyone says its easier said than done",
@@ -103,22 +247,6 @@
       "duration_ms": 138266,
       "name": "everyone says",
       "url": "https://open.spotify.com/track/257PLZzSh3u2xr9pgcc1RC"
-    },
-    {
-      "added_at": "2024-08-14 04:00:00",
-      "album": {
-        "name": "Watch Me Drive Them Dogs Wild",
-        "url": "https://open.spotify.com/album/2o5JtJXMyAsQVbHJUhhIvs"
-      },
-      "artists": [
-        {
-          "name": "Merce Lemon",
-          "url": "https://open.spotify.com/artist/4u2LxHDBsFDH3J9NumXSCH"
-        }
-      ],
-      "duration_ms": 290003,
-      "name": "Watch Me Drive Them Dogs Wild",
-      "url": "https://open.spotify.com/track/6iu45OgK2U9qgefiUzQT7l"
     },
     {
       "added_at": "2024-08-21 20:53:22",
@@ -183,6 +311,22 @@
       "duration_ms": 115555,
       "name": "Life Plan",
       "url": "https://open.spotify.com/track/6zKvht9MLverqG8p9J835O"
+    },
+    {
+      "added_at": "2024-06-12 16:16:43",
+      "album": {
+        "name": "Inside the Marble",
+        "url": "https://open.spotify.com/album/6Tifn26BUT16VlQ3WG2khN"
+      },
+      "artists": [
+        {
+          "name": "Margaux",
+          "url": "https://open.spotify.com/artist/2ycbMlovjNV5gks2r8Vtsp"
+        }
+      ],
+      "duration_ms": 349093,
+      "name": "Ships",
+      "url": "https://open.spotify.com/track/5hjlZErI051i5te0uGQvmO"
     },
     {
       "added_at": "2024-08-21 20:53:22",
@@ -817,58 +961,6 @@
       "url": "https://open.spotify.com/track/6tgZESj1bDC7wGHllB1MIF"
     },
     {
-      "added_at": "2024-07-17 16:23:52",
-      "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/4oNkFghPD71TQmZd95gErk"
-      },
-      "artists": [
-        {
-          "name": "Beatrix",
-          "url": "https://open.spotify.com/artist/70GG0H4aMaTD5kBzqUfSlh"
-        }
-      ],
-      "duration_ms": 201081,
-      "name": "Tie Your Shoes",
-      "url": "https://open.spotify.com/track/3948zS8tTq9wjS4p6iV3mP"
-    },
-    {
-      "added_at": "2024-07-24 13:34:16",
-      "album": {
-        "name": "Paper Planes",
-        "url": "https://open.spotify.com/album/4VM562qVxAWsocBIeGTDLa"
-      },
-      "artists": [
-        {
-          "name": "&Tilly",
-          "url": "https://open.spotify.com/artist/6ywghg7NMnYNOY8HVATu1N"
-        },
-        {
-          "name": "Patrick Sampson",
-          "url": "https://open.spotify.com/artist/16z03LbZVOCJixvwiYIIb5"
-        }
-      ],
-      "duration_ms": 230500,
-      "name": "Paper Planes",
-      "url": "https://open.spotify.com/track/4iTyAQ2QxKbU1crRidu4QA"
-    },
-    {
-      "added_at": "2024-07-24 13:34:16",
-      "album": {
-        "name": "Scenic Drive",
-        "url": "https://open.spotify.com/album/3NAGeIq8anzuISkZT9Rtea"
-      },
-      "artists": [
-        {
-          "name": "The Braymores",
-          "url": "https://open.spotify.com/artist/7CrVM33l2Pt32fCxJWGVw6"
-        }
-      ],
-      "duration_ms": 102771,
-      "name": "Scenic Drive",
-      "url": "https://open.spotify.com/track/47f8UU39m2Kh70AiRz58hX"
-    },
-    {
       "added_at": "2024-07-17 16:26:54",
       "album": {
         "name": "Next Life",
@@ -1113,22 +1205,6 @@
       "url": "https://open.spotify.com/track/6IgenNSTsv9vVYVP9ZlNAq"
     },
     {
-      "added_at": "2024-06-12 16:16:43",
-      "album": {
-        "name": "Inside the Marble",
-        "url": "https://open.spotify.com/album/6Tifn26BUT16VlQ3WG2khN"
-      },
-      "artists": [
-        {
-          "name": "Margaux",
-          "url": "https://open.spotify.com/artist/2ycbMlovjNV5gks2r8Vtsp"
-        }
-      ],
-      "duration_ms": 349093,
-      "name": "Ships",
-      "url": "https://open.spotify.com/track/5hjlZErI051i5te0uGQvmO"
-    },
-    {
       "added_at": "2024-07-17 16:23:52",
       "album": {
         "name": "Fool\u2019s Parade",
@@ -1143,38 +1219,6 @@
       "duration_ms": 220240,
       "name": "Ball And Key",
       "url": "https://open.spotify.com/track/6rodsrcCg5rqABZiE2RgFk"
-    },
-    {
-      "added_at": "2024-07-10 04:00:00",
-      "album": {
-        "name": "Thank God I Have The Songs",
-        "url": "https://open.spotify.com/album/1CcAwFXhxlJShfRpLJEZsR"
-      },
-      "artists": [
-        {
-          "name": "Fritillaries",
-          "url": "https://open.spotify.com/artist/7hKRzvFr1F5n3811llcUi1"
-        }
-      ],
-      "duration_ms": 228040,
-      "name": "i. Thank God I Have The Songs",
-      "url": "https://open.spotify.com/track/0FHfrdZDVeK9P9xIsv6351"
-    },
-    {
-      "added_at": "2024-07-10 04:00:00",
-      "album": {
-        "name": "Maria",
-        "url": "https://open.spotify.com/album/6QlZ37ICuA48fIBjUq9J4l"
-      },
-      "artists": [
-        {
-          "name": "Emory Duncan",
-          "url": "https://open.spotify.com/artist/1dCRBgIMLRGUkAxZBfCeQ6"
-        }
-      ],
-      "duration_ms": 204306,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/5gz0ZEFQcUq8m5Q1clxpp4"
     },
     {
       "added_at": "2024-07-17 16:23:52",
@@ -1503,38 +1547,6 @@
     {
       "added_at": "2024-06-19 16:02:06",
       "album": {
-        "name": "5432",
-        "url": "https://open.spotify.com/album/5Xz021e2RqUt6x0IdkfE28"
-      },
-      "artists": [
-        {
-          "name": "Mel Parsons",
-          "url": "https://open.spotify.com/artist/2mKPHz3RD0bMrQqKFnrwrC"
-        }
-      ],
-      "duration_ms": 221226,
-      "name": "5432",
-      "url": "https://open.spotify.com/track/61WtMwI3kLeFRt1Q0WRWvm"
-    },
-    {
-      "added_at": "2024-06-19 16:02:06",
-      "album": {
-        "name": "Demons",
-        "url": "https://open.spotify.com/album/5lZbk8VSLTxuaE2itouQVC"
-      },
-      "artists": [
-        {
-          "name": "Nap Eyes",
-          "url": "https://open.spotify.com/artist/1ysOXSDpupZ5RBQ9PNFZU7"
-        }
-      ],
-      "duration_ms": 396134,
-      "name": "Demons",
-      "url": "https://open.spotify.com/track/7pbcnvtJd5xKgYil9gRf6Z"
-    },
-    {
-      "added_at": "2024-06-19 16:02:06",
-      "album": {
         "name": "Kitchen Disco Queen",
         "url": "https://open.spotify.com/album/3BIX57DV8rx4t7PvZblsSc"
       },
@@ -1547,22 +1559,6 @@
       "duration_ms": 195501,
       "name": "Kitchen Disco Queen",
       "url": "https://open.spotify.com/track/2W0p4N8g6iqyU8uSarxroZ"
-    },
-    {
-      "added_at": "2024-06-19 16:02:06",
-      "album": {
-        "name": "Beverly Laurel Motor Hotel",
-        "url": "https://open.spotify.com/album/6w84cg1wKWO5i2SKfu7QjX"
-      },
-      "artists": [
-        {
-          "name": "Super Infinity",
-          "url": "https://open.spotify.com/artist/31Y2XlnQC3i0OHnL5szjXT"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Beverly Laurel Motor Hotel",
-      "url": "https://open.spotify.com/track/6gvO69n1DoTLfeNFz70wHJ"
     },
     {
       "added_at": "2024-06-05 04:00:00",

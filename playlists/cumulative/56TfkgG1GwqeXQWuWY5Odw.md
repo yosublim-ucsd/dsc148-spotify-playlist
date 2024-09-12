@@ -2,7 +2,7 @@
 
 ### [PlayStation 30th Anniversary](https://open.spotify.com/playlist/56TfkgG1GwqeXQWuWY5Odw)
 
-> These songs are the fan favorites that gamers have listened to the most over the past three decades.
+> These songs are the player favorites that gamers have listened to the most over the past three decades.
 
 100 songs - 6 hr 35 min
 

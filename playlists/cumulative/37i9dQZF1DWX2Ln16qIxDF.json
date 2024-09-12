@@ -3915,6 +3915,24 @@
     },
     {
       "album": {
+        "name": "en la cara",
+        "url": "https://open.spotify.com/album/7sxTayioFWNwuZlNPwGzGS"
+      },
+      "artists": [
+        {
+          "name": "Olivia Wald",
+          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157746,
+      "name": "en la cara",
+      "url": "https://open.spotify.com/track/0Xn0NaJ2eqT7yWChjfy2E6"
+    },
+    {
+      "album": {
         "name": "En La Intimidad | CROSSOVER #1",
         "url": "https://open.spotify.com/album/5OT9JgUd8WVWBJgYog7a82"
       },
@@ -5436,7 +5454,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 174986,
       "name": "La Presi\u00f3n",
       "url": "https://open.spotify.com/track/3TL8CnJUblYq8nskNX5bsJ"

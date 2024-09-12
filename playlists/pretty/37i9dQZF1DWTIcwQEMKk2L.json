@@ -1,6 +1,6 @@
 {
   "description": "\u611c\u610f\u653e\u9b06\uff0c\u4f7f\u81ea\u5df1\u6c89\u6d78\u5728\u9019\u4e9b\u52d5\u4eba\u800c\u512a\u7f8e\u7684\u92fc\u7434\u66f2\u4e4b\u4e2d\u3002",
-  "num_followers": 68847,
+  "num_followers": 68863,
   "original_name": "\u5b89\u5be7\u92fc\u7434\u8072",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-09-09 03:33:01",
       "album": {
-        "name": "Intervention",
-        "url": "https://open.spotify.com/album/3SUCGEmj4rxH9R103omShr"
-      },
-      "artists": [
-        {
-          "name": "Helen Jane Long",
-          "url": "https://open.spotify.com/artist/4AChEoOg2kLbShMIN3jgxX"
-        }
-      ],
-      "duration_ms": 205611,
-      "name": "Willow",
-      "url": "https://open.spotify.com/track/3SYpNSW2sXVghgwW1Ffm6I"
-    },
-    {
-      "added_at": "2024-09-09 03:33:01",
-      "album": {
         "name": "Slowing Down",
         "url": "https://open.spotify.com/album/4DOFbLvmNKJhD0mcEv0hUt"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 208777,
       "name": "Slowing Down",
       "url": "https://open.spotify.com/track/1aItJE8RukUc0lnMdj45FJ"
+    },
+    {
+      "added_at": "2024-09-09 03:33:01",
+      "album": {
+        "name": "Intervention",
+        "url": "https://open.spotify.com/album/3SUCGEmj4rxH9R103omShr"
+      },
+      "artists": [
+        {
+          "name": "Helen Jane Long",
+          "url": "https://open.spotify.com/artist/4AChEoOg2kLbShMIN3jgxX"
+        }
+      ],
+      "duration_ms": 205611,
+      "name": "Willow",
+      "url": "https://open.spotify.com/track/3SYpNSW2sXVghgwW1Ffm6I"
     },
     {
       "added_at": "2024-09-09 03:33:01",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-09-09 03:33:01",
       "album": {
-        "name": "First Sunrise",
-        "url": "https://open.spotify.com/album/31TimKFNBjRjS4oLnzfect"
-      },
-      "artists": [
-        {
-          "name": "Haru Kitamura",
-          "url": "https://open.spotify.com/artist/6qjQ8iKIjHkc6x5wodNJiD"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "First Sunrise",
-      "url": "https://open.spotify.com/track/6gDt7eZjJNIkzLj9jVEBZo"
-    },
-    {
-      "added_at": "2024-09-09 03:33:01",
-      "album": {
         "name": "In Love In Vain",
         "url": "https://open.spotify.com/album/0nlZbsqWq2DaRyxKjJ3SsT"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 174239,
       "name": "In Love In Vain",
       "url": "https://open.spotify.com/track/6eV6cumFU53rxA88CnnvZa"
+    },
+    {
+      "added_at": "2024-09-09 03:33:01",
+      "album": {
+        "name": "First Sunrise",
+        "url": "https://open.spotify.com/album/31TimKFNBjRjS4oLnzfect"
+      },
+      "artists": [
+        {
+          "name": "Haru Kitamura",
+          "url": "https://open.spotify.com/artist/6qjQ8iKIjHkc6x5wodNJiD"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "First Sunrise",
+      "url": "https://open.spotify.com/track/6gDt7eZjJNIkzLj9jVEBZo"
     },
     {
       "added_at": "2024-09-09 03:33:01",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-09-09 03:33:01",
       "album": {
-        "name": "Classics",
-        "url": "https://open.spotify.com/album/4hfn002VS0oDKJHiJKs2CM"
-      },
-      "artists": [
-        {
-          "name": "Brandon Mills",
-          "url": "https://open.spotify.com/artist/0lfAQQLGm6TkTJ4JL9La2z"
-        }
-      ],
-      "duration_ms": 179810,
-      "name": "Always On My Mind",
-      "url": "https://open.spotify.com/track/3INNtJyFpOFyQRK0FhT0Iz"
-    },
-    {
-      "added_at": "2024-09-09 03:33:01",
-      "album": {
         "name": "Avenues",
         "url": "https://open.spotify.com/album/0rvrpin8MFriRR4dIIneA1"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 139663,
       "name": "Avenues",
       "url": "https://open.spotify.com/track/6JO9hJYbENVIeo5J6NP8l4"
+    },
+    {
+      "added_at": "2024-09-09 03:33:01",
+      "album": {
+        "name": "Classics",
+        "url": "https://open.spotify.com/album/4hfn002VS0oDKJHiJKs2CM"
+      },
+      "artists": [
+        {
+          "name": "Brandon Mills",
+          "url": "https://open.spotify.com/artist/0lfAQQLGm6TkTJ4JL9La2z"
+        }
+      ],
+      "duration_ms": 179810,
+      "name": "Always On My Mind",
+      "url": "https://open.spotify.com/track/3INNtJyFpOFyQRK0FhT0Iz"
     },
     {
       "added_at": "2024-09-09 03:33:01",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-09-09 03:33:01",
       "album": {
-        "name": "A Place Like This",
-        "url": "https://open.spotify.com/album/4xWZbCHQrhZqL3zqdNHJFy"
-      },
-      "artists": [
-        {
-          "name": "Mildred Wolf",
-          "url": "https://open.spotify.com/artist/3Pj0inogFqTDKgCC5OVTaz"
-        }
-      ],
-      "duration_ms": 121500,
-      "name": "A Place Like This",
-      "url": "https://open.spotify.com/track/40QoUnq2ZWMT04wEjDYMMp"
-    },
-    {
-      "added_at": "2024-09-09 03:33:01",
-      "album": {
         "name": "Oddities",
         "url": "https://open.spotify.com/album/5xl48qsYt6IMQlXSKESZsW"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 212374,
       "name": "Silhouette",
       "url": "https://open.spotify.com/track/4Eq7aF59snLVoxPKUAHhUz"
+    },
+    {
+      "added_at": "2024-09-09 03:33:01",
+      "album": {
+        "name": "A Place Like This",
+        "url": "https://open.spotify.com/album/4xWZbCHQrhZqL3zqdNHJFy"
+      },
+      "artists": [
+        {
+          "name": "Mildred Wolf",
+          "url": "https://open.spotify.com/artist/3Pj0inogFqTDKgCC5OVTaz"
+        }
+      ],
+      "duration_ms": 121500,
+      "name": "A Place Like This",
+      "url": "https://open.spotify.com/track/40QoUnq2ZWMT04wEjDYMMp"
     },
     {
       "added_at": "2024-09-09 03:33:01",

@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\ude08 welcome to the rave \ud83d\ude08  Cover: Indira Paganotto",
-  "num_followers": 101833,
+  "num_followers": 102739,
   "original_name": "Hard Techno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Ztp+QAAAAAB1SEdflMNGdwqRPq059SO9",
+  "snapshot_id": "ZuIDNAAAAABr2flOq43upH3LHK2WyKwg",
   "tracks": [
     {
       "added_at": "2024-09-06 04:00:00",
@@ -385,24 +385,20 @@
       "url": "https://open.spotify.com/track/2ucKoWiCS8eTk5IUwin4fq"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-11 20:53:08",
       "album": {
-        "name": "Prisoner",
-        "url": "https://open.spotify.com/album/0qdNWrDIjtA1yEZtQI7Onk"
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/3e337N4JrILh8eZsyjAL2b"
       },
       "artists": [
         {
           "name": "Sara Landry",
           "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
-        },
-        {
-          "name": "Alex Farell",
-          "url": "https://open.spotify.com/artist/02AllsoWp6Gf9O26tNXf8I"
         }
       ],
-      "duration_ms": 308642,
-      "name": "Prisoner",
-      "url": "https://open.spotify.com/track/4MZvGawjIrPQpViMTfKb66"
+      "duration_ms": 409000,
+      "name": "Legacy",
+      "url": "https://open.spotify.com/track/0aMonkh8OKgqx1K0viRHRT"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -479,22 +475,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Venezia",
-        "url": "https://open.spotify.com/album/2FUWJ7gqHGihl19vdlxjuy"
-      },
-      "artists": [
-        {
-          "name": "AKKI (DE)",
-          "url": "https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs"
-        }
-      ],
-      "duration_ms": 232941,
-      "name": "Venezia",
-      "url": "https://open.spotify.com/track/1TjZTPkdqO3OCo7DX10a0l"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Venom",
         "url": "https://open.spotify.com/album/50m7mrtNRjSiinGaldzPDt"
       },
@@ -515,8 +495,24 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Queen of the Banshees",
-        "url": "https://open.spotify.com/album/7zJn0dr5wJ5mukKnceLiJA"
+        "name": "Venezia",
+        "url": "https://open.spotify.com/album/2FUWJ7gqHGihl19vdlxjuy"
+      },
+      "artists": [
+        {
+          "name": "AKKI (DE)",
+          "url": "https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs"
+        }
+      ],
+      "duration_ms": 232941,
+      "name": "Venezia",
+      "url": "https://open.spotify.com/track/1TjZTPkdqO3OCo7DX10a0l"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Prisoner",
+        "url": "https://open.spotify.com/album/0qdNWrDIjtA1yEZtQI7Onk"
       },
       "artists": [
         {
@@ -524,13 +520,13 @@
           "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
         },
         {
-          "name": "Nico Moreno",
-          "url": "https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S"
+          "name": "Alex Farell",
+          "url": "https://open.spotify.com/artist/02AllsoWp6Gf9O26tNXf8I"
         }
       ],
-      "duration_ms": 342453,
-      "name": "Queen of the Banshees - Nico Moreno Remix",
-      "url": "https://open.spotify.com/track/1RM4nxRkTwXtOKilbWtsKk"
+      "duration_ms": 308642,
+      "name": "Prisoner",
+      "url": "https://open.spotify.com/track/4MZvGawjIrPQpViMTfKb66"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1079,22 +1075,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Oh My God!",
-        "url": "https://open.spotify.com/album/67SRi5JCLpYvM9GaKDsFWS"
-      },
-      "artists": [
-        {
-          "name": "Luca Agnelli",
-          "url": "https://open.spotify.com/artist/4gF60Mys5KoWdQrf0bhRWq"
-        }
-      ],
-      "duration_ms": 367384,
-      "name": "Oh My God!",
-      "url": "https://open.spotify.com/track/3irLlLh1uTben95eKdEALc"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "For your mind",
         "url": "https://open.spotify.com/album/3BwnFfvOQKkIVvRw0BlwsG"
       },
@@ -1111,6 +1091,22 @@
       "duration_ms": 288000,
       "name": "XTC Love",
       "url": "https://open.spotify.com/track/46oG3q3ZvNvEWQOPJcs8Oh"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Oh My God!",
+        "url": "https://open.spotify.com/album/67SRi5JCLpYvM9GaKDsFWS"
+      },
+      "artists": [
+        {
+          "name": "Luca Agnelli",
+          "url": "https://open.spotify.com/artist/4gF60Mys5KoWdQrf0bhRWq"
+        }
+      ],
+      "duration_ms": 367384,
+      "name": "Oh My God!",
+      "url": "https://open.spotify.com/track/3irLlLh1uTben95eKdEALc"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1183,6 +1179,22 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
+        "name": "I Wanna Feel",
+        "url": "https://open.spotify.com/album/0gd2kulMUvdBmb1IXABW32"
+      },
+      "artists": [
+        {
+          "name": "Remon Verhoeve",
+          "url": "https://open.spotify.com/artist/56EmpRe6MZOCu8NYE0BG9T"
+        }
+      ],
+      "duration_ms": 318060,
+      "name": "I Wanna Feel",
+      "url": "https://open.spotify.com/track/4uw9105SB1Rrp3EDoFT2Li"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
         "name": "COVEN, Vol. 3",
         "url": "https://open.spotify.com/album/6btbrFS9tvKTEGk4idAK4r"
       },
@@ -1211,22 +1223,6 @@
       "duration_ms": 206068,
       "name": "Tamara",
       "url": "https://open.spotify.com/track/0iXHcWtw4npb2FPf6Gh5js"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "I Wanna Feel",
-        "url": "https://open.spotify.com/album/0gd2kulMUvdBmb1IXABW32"
-      },
-      "artists": [
-        {
-          "name": "Remon Verhoeve",
-          "url": "https://open.spotify.com/artist/56EmpRe6MZOCu8NYE0BG9T"
-        }
-      ],
-      "duration_ms": 318060,
-      "name": "I Wanna Feel",
-      "url": "https://open.spotify.com/track/4uw9105SB1Rrp3EDoFT2Li"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1323,26 +1319,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Phatt Bass",
-        "url": "https://open.spotify.com/album/5HTz9g0VedB4AA1tbdi8DX"
-      },
-      "artists": [
-        {
-          "name": "Warp Brothers",
-          "url": "https://open.spotify.com/artist/1npPQS3PDH4xmOhYxB2L0T"
-        },
-        {
-          "name": "Drakk",
-          "url": "https://open.spotify.com/artist/1J0JESP0VUhLs4zYm62l5Q"
-        }
-      ],
-      "duration_ms": 255584,
-      "name": "Phatt Bass",
-      "url": "https://open.spotify.com/track/60NIQobRG98JBVgQYU9gyi"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "The Kickdrum",
         "url": "https://open.spotify.com/album/7htNx91SOyDqjQofDpYfdh"
       },
@@ -1367,6 +1343,26 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
+        "name": "Phatt Bass",
+        "url": "https://open.spotify.com/album/5HTz9g0VedB4AA1tbdi8DX"
+      },
+      "artists": [
+        {
+          "name": "Warp Brothers",
+          "url": "https://open.spotify.com/artist/1npPQS3PDH4xmOhYxB2L0T"
+        },
+        {
+          "name": "Drakk",
+          "url": "https://open.spotify.com/artist/1J0JESP0VUhLs4zYm62l5Q"
+        }
+      ],
+      "duration_ms": 255584,
+      "name": "Phatt Bass",
+      "url": "https://open.spotify.com/track/60NIQobRG98JBVgQYU9gyi"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
         "name": "Lose Their Shit (feat. Dottychu)",
         "url": "https://open.spotify.com/album/0oXbCQU7Ophzv84gWr1Cqs"
       },
@@ -1383,6 +1379,26 @@
       "duration_ms": 195096,
       "name": "Lose Their Shit",
       "url": "https://open.spotify.com/track/0L94j90lQBZ1VOyAcBnyXp"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Do You Think About Me",
+        "url": "https://open.spotify.com/album/1VU3tNO6ma7EwcyA85memR"
+      },
+      "artists": [
+        {
+          "name": "Faustix",
+          "url": "https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd"
+        },
+        {
+          "name": "Rave Republic",
+          "url": "https://open.spotify.com/artist/751qvO4d3fNm3WkLvOS5Wa"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Do You Think About Me",
+      "url": "https://open.spotify.com/track/7KdJTAXdgMORxFhla6TPLy"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1419,26 +1435,6 @@
       "duration_ms": 378477,
       "name": "The Show Never Ends",
       "url": "https://open.spotify.com/track/2zPMafxpOc4IGB79uZLjtD"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Do You Think About Me",
-        "url": "https://open.spotify.com/album/1VU3tNO6ma7EwcyA85memR"
-      },
-      "artists": [
-        {
-          "name": "Faustix",
-          "url": "https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd"
-        },
-        {
-          "name": "Rave Republic",
-          "url": "https://open.spotify.com/artist/751qvO4d3fNm3WkLvOS5Wa"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Do You Think About Me",
-      "url": "https://open.spotify.com/track/7KdJTAXdgMORxFhla6TPLy"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1495,26 +1491,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "On Da Beat",
-        "url": "https://open.spotify.com/album/2PJf1l8rN5AP4MXDi5VTDu"
-      },
-      "artists": [
-        {
-          "name": "OMAKS",
-          "url": "https://open.spotify.com/artist/41GRjz5PGO2O66R6aHLVhm"
-        },
-        {
-          "name": "Dissonne",
-          "url": "https://open.spotify.com/artist/6vgIOdboTHh9hQ5P1iza14"
-        }
-      ],
-      "duration_ms": 306580,
-      "name": "On Da Beat",
-      "url": "https://open.spotify.com/track/1BxspcCWrxFVu3HJ4SDAnn"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Sciophobia",
         "url": "https://open.spotify.com/album/3mB37O4ILbfEqwAn8HbE1H"
       },
@@ -1531,6 +1507,26 @@
       "duration_ms": 278999,
       "name": "Sciophobia",
       "url": "https://open.spotify.com/track/0dhK1evthUOmcbXHZ783j6"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "On Da Beat",
+        "url": "https://open.spotify.com/album/2PJf1l8rN5AP4MXDi5VTDu"
+      },
+      "artists": [
+        {
+          "name": "OMAKS",
+          "url": "https://open.spotify.com/artist/41GRjz5PGO2O66R6aHLVhm"
+        },
+        {
+          "name": "Dissonne",
+          "url": "https://open.spotify.com/artist/6vgIOdboTHh9hQ5P1iza14"
+        }
+      ],
+      "duration_ms": 306580,
+      "name": "On Da Beat",
+      "url": "https://open.spotify.com/track/1BxspcCWrxFVu3HJ4SDAnn"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1803,6 +1799,26 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
+        "name": "Atmosphere",
+        "url": "https://open.spotify.com/album/2KO4aVMoXCnZyCGlJDzXLv"
+      },
+      "artists": [
+        {
+          "name": "Zeltak",
+          "url": "https://open.spotify.com/artist/7abM3xmXx55x7dQZot1Dpd"
+        },
+        {
+          "name": "HOEHENANGST",
+          "url": "https://open.spotify.com/artist/5Th92yptJHxyXDEgc5qtQl"
+        }
+      ],
+      "duration_ms": 297290,
+      "name": "Atmosphere",
+      "url": "https://open.spotify.com/track/0K6j9TthnI8F4uvt4ecI1d"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
         "name": "Disfigure",
         "url": "https://open.spotify.com/album/40N5Ez27dWfybAHuOLcue8"
       },
@@ -1819,22 +1835,6 @@
       "duration_ms": 326500,
       "name": "Disfigure",
       "url": "https://open.spotify.com/track/1rbHfStcFOWagdugYdiK5T"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Levada",
-        "url": "https://open.spotify.com/album/79rTwf4jIYHIRhLmat4q7Y"
-      },
-      "artists": [
-        {
-          "name": "Sopik",
-          "url": "https://open.spotify.com/artist/0uiVxrM68v5NoVFPQshjtm"
-        }
-      ],
-      "duration_ms": 316478,
-      "name": "Levada",
-      "url": "https://open.spotify.com/track/4jyL6lRVTyh2j67ObJ0EUH"
     }
   ],
   "unique_name": "Hard Techno",

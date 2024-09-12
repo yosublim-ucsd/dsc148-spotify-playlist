@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaljDe6fISR1.md) - [plain]
 
 > Ouça grandes MCs do hip hop nacional\. Foto: Racionais MC's
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,181 likes - 75 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,212 likes - 75 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Negro Drama \- Ao Vivo](https://open.spotify.com/track/4hPY8Hyit0AqHTZZp4a861) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Racionais 3 Décadas](https://open.spotify.com/album/5gmsqaExyN56rGxJxY6yLX) | 5:54 |
 | 2 | [Compton Brasil](https://open.spotify.com/track/2oREOLfcHFrj7k9leuRZsh) | [ADL](https://open.spotify.com/artist/6Ywb1no2hXLazjIs4LUiQD), [Facção Central](https://open.spotify.com/artist/3V3rRpp5sbiBNY34AdnplK) | [Compton Brasil](https://open.spotify.com/album/2TCNSz7BPIYf2ECMLxbfxI) | 4:15 |
-| 3 | [That's My Way](https://open.spotify.com/track/4M7bbRsVNB8iWQaX8Sbfln) | [Edi Rock](https://open.spotify.com/artist/2fYAyTS2erZgqEHKHYqgi2), [Bagua Records](https://open.spotify.com/artist/7jwWP3mw7kRr5JitmtPItU), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Leon Mobley](https://open.spotify.com/artist/6uEEza0WufPi44ybkWACFc) | [Contra Nós Ninguém Será](https://open.spotify.com/album/23ieEuWkymGJWTP3PlXLRa) | 5:39 |
+| 3 | [That's My Way](https://open.spotify.com/track/4M7bbRsVNB8iWQaX8Sbfln) | [Edi Rock](https://open.spotify.com/artist/2fYAyTS2erZgqEHKHYqgi2), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Leon Mobley](https://open.spotify.com/artist/6uEEza0WufPi44ybkWACFc) | [Contra Nós Ninguém Será](https://open.spotify.com/album/23ieEuWkymGJWTP3PlXLRa) | 5:39 |
 | 4 | [A Procura da Batida Perfeita](https://open.spotify.com/track/5RrGmkgqYdtpavrbDQhLMi) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL) | [A Procura da Batida Perfeita](https://open.spotify.com/album/00J2Y1PJGdkxBhVMjjZ4uw) | 3:04 |
 | 5 | [Oitavo Anjo](https://open.spotify.com/track/73ZFqSslPNdKZBRmGcGzKW) | [509\-E](https://open.spotify.com/artist/66F3yLuWFXacPEAmJNfRBi) | [Provérbios 13](https://open.spotify.com/album/4tWDp6fP9O3wNfko1UCaQo) | 5:28 |
 | 6 | [Raciocínio Carregado](https://open.spotify.com/track/5yceWzubKUcz1JYO2Hd45G) | [De Menos Crime](https://open.spotify.com/artist/0MihNWp86Psp4ss7Evogvv) | [Raciocínio Carregado](https://open.spotify.com/album/0v0ZxXdCXL819DVr3erKDB) | 4:41 |

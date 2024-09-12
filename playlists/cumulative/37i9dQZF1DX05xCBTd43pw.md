@@ -4,11 +4,12 @@
 
 > Grüezi! This is 100% made in Switzerland.
 
-103 songs - 5 hr 5 min
+104 songs - 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2560](https://open.spotify.com/track/20hvdVSrSkh8wZZKSVBH6o) | [James Gruntz](https://open.spotify.com/artist/3vyUTiW9vClzOUXCHVNWsy) | [2560](https://open.spotify.com/album/2dr4Cl4sfBrLoqvFzZcwdv) | 3:18 | 2024-07-04 |  |
+| [A Tu Lado](https://open.spotify.com/track/50n5y9pMihKGBu29fz4Bew) | [BANITO](https://open.spotify.com/artist/3vQFsnNL91bUE3knJ2dLTn) | [A Tu Lado](https://open.spotify.com/album/1OAaPMH8U0FciBbtdY1gV0) | 2:56 | 2024-09-11 |  |
 | [abused](https://open.spotify.com/track/04eAwj1S7LBrImIZVnl2yq) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [abused](https://open.spotify.com/album/0FPHvkFMpuMpVfaNlxadU9) | 3:08 | 2024-09-06 |  |
 | [Again](https://open.spotify.com/track/4wcLynPZWGPThCEdDUFVMx) | [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg), [Marius Bear](https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb) | [Again](https://open.spotify.com/album/1b2MHBqttHQ5kCDNIfu3PE) | 3:09 | 2024-06-27 |  |
 | [Alles was ich will](https://open.spotify.com/track/6UAAkP72FLHWMFmhmxm6rZ) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Alles was ich will](https://open.spotify.com/album/6vqi0ixcuy9pUSlGHFtNRa) | 2:56 | 2024-06-27 |  |
@@ -60,7 +61,7 @@
 | [i'm sry i love u](https://open.spotify.com/track/2QLCvG0lf3n5RKCmcgigEI) | [Julia Alexa](https://open.spotify.com/artist/0Tw99NzcM3Y2t7Q2q88Xss) | [i'm sry i love u](https://open.spotify.com/album/49viDcw7i4XiAfISw95nRm) | 3:15 | 2024-07-04 | 2024-08-14 |
 | [If You Call](https://open.spotify.com/track/5tdBQ0p32owQEMryTSaP1w) | [MARYNE](https://open.spotify.com/artist/2JmyyU2PFaGv5e5zRLNCQr) | [If You Call](https://open.spotify.com/album/1JopgK1F9sJM1ddlPz51Ol) | 2:25 | 2024-06-27 | 2024-07-05 |
 | [Julia](https://open.spotify.com/track/6CTHHyCpJqqZiHQ8IdTKX3) | [Andryy](https://open.spotify.com/artist/7EOSMyuCedHppuXhVBsbEP) | [Julia](https://open.spotify.com/album/59GWFnfxZuC00B708ZeKvk) | 3:14 | 2024-06-27 |  |
-| [Just Like I Love You](https://open.spotify.com/track/7z5EIeDKgPukdh3sve82xJ) | [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg), [Stefanie Heinzmann](https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5) | [Libertad](https://open.spotify.com/album/0oqpXtuxUCEbiIXnauFbXw) | 3:21 | 2024-06-27 |  |
+| [Just Like I Love You](https://open.spotify.com/track/7z5EIeDKgPukdh3sve82xJ) | [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg), [Stefanie Heinzmann](https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5) | [Libertad](https://open.spotify.com/album/0oqpXtuxUCEbiIXnauFbXw) | 3:21 | 2024-06-27 | 2024-09-12 |
 | [King Bed](https://open.spotify.com/track/4EQ9AIMWgeGIjxGiLKbZl0) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [King Bed](https://open.spotify.com/album/17uh7gY4QxzY3gcwQ7SFkI) | 2:40 | 2024-06-27 |  |
 | [Kiss Me in the Morning](https://open.spotify.com/track/29QgJyRmOh5J6vx6oXl1Co) | [Marius Bear](https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb) | [Kiss Me in the Morning](https://open.spotify.com/album/0Z1SeJgduMYHUHThMpMNEc) | 3:27 | 2024-06-27 | 2024-07-12 |
 | [Kompliment](https://open.spotify.com/track/38okoOwbE4iBF7fK9lbz1O) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Kompliment](https://open.spotify.com/album/2NUERsJFzukrqAtbw2bhdG) | 2:45 | 2024-06-27 |  |

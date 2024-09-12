@@ -1,12 +1,12 @@
 {
-  "description": "This is RENEE. The essential tracks, all in one playlist.",
-  "num_followers": 7633,
+  "description": "This Is RENEE. Los temas esenciales, todos en una lista.",
+  "num_followers": 7638,
   "original_name": "This Is RENEE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zt46gAAAAAD3p4Ygg0JJ4HDGVNgfGv5U",
+  "snapshot_id": "Zt+MAAAAAADKkjS4Mhx5srzM4G0j2evU",
   "tracks": [
     {
       "added_at": null,
@@ -743,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Canto Tu Historia (VOL. 1)",
+        "url": "https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 187573,
+      "name": "Soy",
+      "url": "https://open.spotify.com/track/20uLEIzctSD6LCyCN8DI7R"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Todo Te Da Igual",
         "url": "https://open.spotify.com/album/1nFx1eTuIFIgJDtNtVgfwU"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 161000,
       "name": "Todo Te Da Igual",
       "url": "https://open.spotify.com/track/3GpXbieCpFyFhripXlvZLJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Canto Tu Historia (VOL. 1)",
-        "url": "https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 187573,
-      "name": "Soy",
-      "url": "https://open.spotify.com/track/20uLEIzctSD6LCyCN8DI7R"
     },
     {
       "added_at": null,

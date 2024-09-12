@@ -2,7 +2,7 @@
 
 ### [soft life](https://open.spotify.com/playlist/37i9dQZF1DX5biIUI9J7lF)
 
-> I'm just a girl
+> Opted out of strife
 
 183 songs - 9 hr 15 min
 

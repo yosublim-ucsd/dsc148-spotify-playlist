@@ -843,6 +843,24 @@
     },
     {
       "album": {
+        "name": "pok\u00e9 melodrama",
+        "url": "https://open.spotify.com/album/2wTktpdvwoQdSYVhw54Lbz"
+      },
+      "artists": [
+        {
+          "name": "Angelina Mango",
+          "url": "https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147053,
+      "name": "melodrama",
+      "url": "https://open.spotify.com/track/5y7dpbKf0E3TW93k5w0JIs"
+    },
+    {
+      "album": {
         "name": "Met\u00e0 mondo",
         "url": "https://open.spotify.com/album/6dJf5WCRsjpCX0pvDlLdZy"
       },

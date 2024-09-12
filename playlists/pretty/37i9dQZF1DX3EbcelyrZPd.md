@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Zuchu
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,653 likes - 81 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,731 likes - 81 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "You're the paracetamol to my headache \u2764\ufe0f",
-  "num_followers": 38194,
+  "num_followers": 38225,
   "original_name": "Lovin' Beats",
   "owner": {
     "name": "Spotify",
@@ -443,18 +443,22 @@
     {
       "added_at": "2024-09-09 09:13:19",
       "album": {
-        "name": "Avana (Deluxe)",
-        "url": "https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV"
+        "name": "RnB",
+        "url": "https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu"
       },
       "artists": [
         {
-          "name": "Olivetheboy",
-          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 182222,
-      "name": "Asylum",
-      "url": "https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk"
+      "duration_ms": 160885,
+      "name": "Ilashe",
+      "url": "https://open.spotify.com/track/1kW728xFsRBvunN1yiTsNf"
     },
     {
       "added_at": "2024-09-09 09:13:19",
@@ -515,22 +519,18 @@
     {
       "added_at": "2024-09-09 09:13:19",
       "album": {
-        "name": "RnB",
-        "url": "https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu"
+        "name": "Avana (Deluxe)",
+        "url": "https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV"
       },
       "artists": [
         {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        },
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
         }
       ],
-      "duration_ms": 160885,
-      "name": "Ilashe",
-      "url": "https://open.spotify.com/track/1kW728xFsRBvunN1yiTsNf"
+      "duration_ms": 182222,
+      "name": "Asylum",
+      "url": "https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk"
     },
     {
       "added_at": "2024-09-09 09:13:19",
@@ -751,6 +751,22 @@
     {
       "added_at": "2024-09-09 09:13:19",
       "album": {
+        "name": "ONOME",
+        "url": "https://open.spotify.com/album/12Fq69ugTCwPCPzRLEK7yg"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 198545,
+      "name": "ONOME",
+      "url": "https://open.spotify.com/track/7gafxJvox7DDFs3R1dByQH"
+    },
+    {
+      "added_at": "2024-09-09 09:13:19",
+      "album": {
         "name": "Olufunmi Reimagined",
         "url": "https://open.spotify.com/album/7HpccOsoUG11qXcD5i3Pib"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 184267,
       "name": "Olufunmi Reimagined",
       "url": "https://open.spotify.com/track/5QdTZO8YLH3KESTPPZ0lW6"
-    },
-    {
-      "added_at": "2024-09-09 09:13:19",
-      "album": {
-        "name": "ONOME",
-        "url": "https://open.spotify.com/album/12Fq69ugTCwPCPzRLEK7yg"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 198545,
-      "name": "ONOME",
-      "url": "https://open.spotify.com/track/7gafxJvox7DDFs3R1dByQH"
     },
     {
       "added_at": "2024-09-09 09:13:19",
@@ -835,8 +835,8 @@
     {
       "added_at": "2024-09-09 09:13:19",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/1WxjIKagr1Vgwk6XTxYh7X"
+        "name": "My Darling + Angelus",
+        "url": "https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ"
       },
       "artists": [
         {
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 166958,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/4zqRu31aWCiHeYMw9GptOO"
+      "duration_ms": 193500,
+      "name": "My Darling",
+      "url": "https://open.spotify.com/track/1Lyo0G6hpTjWfWi8zjd9Wz"
     },
     {
       "added_at": "2024-09-09 09:13:19",
@@ -975,8 +975,8 @@
     {
       "added_at": "2024-09-09 09:13:19",
       "album": {
-        "name": "My Darling + Angelus",
-        "url": "https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ"
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/1WxjIKagr1Vgwk6XTxYh7X"
       },
       "artists": [
         {
@@ -984,9 +984,9 @@
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 193500,
-      "name": "My Darling",
-      "url": "https://open.spotify.com/track/1Lyo0G6hpTjWfWi8zjd9Wz"
+      "duration_ms": 166958,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/4zqRu31aWCiHeYMw9GptOO"
     },
     {
       "added_at": "2024-09-09 09:13:19",
@@ -1203,22 +1203,22 @@
     {
       "added_at": "2024-09-09 09:13:19",
       "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/2N2sszhtSKyCQGLtGEigLG"
+        "name": "My Heart",
+        "url": "https://open.spotify.com/album/3OmSaK7TjzoCcdB1uZDYAz"
       },
       "artists": [
         {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+          "name": "Konstance",
+          "url": "https://open.spotify.com/artist/4FCCd7RRPKt52KzC30Fp9I"
         },
         {
-          "name": "BhadBoi OML",
-          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
+          "name": "Majeeed",
+          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
         }
       ],
-      "duration_ms": 153098,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/7mE7qAkm5kvgalbtZhTQ0v"
+      "duration_ms": 156448,
+      "name": "My Heart",
+      "url": "https://open.spotify.com/track/0U8tAKDSunJl0Vo64GcqlW"
     },
     {
       "added_at": "2024-09-09 09:13:19",
@@ -1239,22 +1239,22 @@
     {
       "added_at": "2024-09-09 09:13:19",
       "album": {
-        "name": "My Heart",
-        "url": "https://open.spotify.com/album/3OmSaK7TjzoCcdB1uZDYAz"
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/2N2sszhtSKyCQGLtGEigLG"
       },
       "artists": [
         {
-          "name": "Konstance",
-          "url": "https://open.spotify.com/artist/4FCCd7RRPKt52KzC30Fp9I"
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
         },
         {
-          "name": "Majeeed",
-          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
+          "name": "BhadBoi OML",
+          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
         }
       ],
-      "duration_ms": 156448,
-      "name": "My Heart",
-      "url": "https://open.spotify.com/track/0U8tAKDSunJl0Vo64GcqlW"
+      "duration_ms": 153098,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/7mE7qAkm5kvgalbtZhTQ0v"
     },
     {
       "added_at": "2024-09-09 09:13:19",
@@ -1355,6 +1355,26 @@
     {
       "added_at": "2024-09-09 09:13:19",
       "album": {
+        "name": "In The Beginning",
+        "url": "https://open.spotify.com/album/4nCsoi5Obnn9f6aId8fP1K"
+      },
+      "artists": [
+        {
+          "name": "Konstance",
+          "url": "https://open.spotify.com/artist/4FCCd7RRPKt52KzC30Fp9I"
+        },
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        }
+      ],
+      "duration_ms": 152999,
+      "name": "Imagination",
+      "url": "https://open.spotify.com/track/4WVEG9eW2FnxHvnaRAdFwa"
+    },
+    {
+      "added_at": "2024-09-09 09:13:19",
+      "album": {
         "name": "Dalilah II",
         "url": "https://open.spotify.com/album/1axrqyHSrmprv2iwLbClVb"
       },
@@ -1403,26 +1423,6 @@
     {
       "added_at": "2024-09-09 09:13:19",
       "album": {
-        "name": "In The Beginning",
-        "url": "https://open.spotify.com/album/4nCsoi5Obnn9f6aId8fP1K"
-      },
-      "artists": [
-        {
-          "name": "Konstance",
-          "url": "https://open.spotify.com/artist/4FCCd7RRPKt52KzC30Fp9I"
-        },
-        {
-          "name": "Shatta Wale",
-          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
-        }
-      ],
-      "duration_ms": 152999,
-      "name": "Imagination",
-      "url": "https://open.spotify.com/track/4WVEG9eW2FnxHvnaRAdFwa"
-    },
-    {
-      "added_at": "2024-09-09 09:13:19",
-      "album": {
         "name": "Palava",
         "url": "https://open.spotify.com/album/3we5MjWRa9RX9IrYS6kDqW"
       },
@@ -1435,26 +1435,6 @@
       "duration_ms": 155151,
       "name": "Palava",
       "url": "https://open.spotify.com/track/5JJCbMb6uI7vbifC6skGf3"
-    },
-    {
-      "added_at": "2024-09-09 09:13:19",
-      "album": {
-        "name": "IN MY HEAD",
-        "url": "https://open.spotify.com/album/5dI959e51lkReZI50si0ef"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 177692,
-      "name": "IN MY HEAD",
-      "url": "https://open.spotify.com/track/7AoQcUEi2ZzF6vOrutcoZU"
     },
     {
       "added_at": "2024-09-09 09:13:19",
@@ -1475,6 +1455,26 @@
       "duration_ms": 204000,
       "name": "OVAMI",
       "url": "https://open.spotify.com/track/1QO7M1UGJsHno3cf5aHCri"
+    },
+    {
+      "added_at": "2024-09-09 09:13:19",
+      "album": {
+        "name": "IN MY HEAD",
+        "url": "https://open.spotify.com/album/5dI959e51lkReZI50si0ef"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 177692,
+      "name": "IN MY HEAD",
+      "url": "https://open.spotify.com/track/7AoQcUEi2ZzF6vOrutcoZU"
     },
     {
       "added_at": "2024-09-09 09:13:19",

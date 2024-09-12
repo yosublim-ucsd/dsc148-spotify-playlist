@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Fred again..
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,180 likes - 100 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,187 likes - 100 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 25 | [DAY AND NIGHT](https://open.spotify.com/track/70okSTcCa41Nf0hOADlFsT) | [Jacotanu](https://open.spotify.com/artist/0eWrRwbeLfOkcmIYwbA09T), [ONJUICY](https://open.spotify.com/artist/1ZEZD4ScYfzwC3RnQZ5GRD) | [DAY AND NIGHT](https://open.spotify.com/album/44zpTKNrVSUKKG12XX3gpC) | 3:40 |
 | 26 | [Round](https://open.spotify.com/track/7r1gaUJMOm7NPLOM7KUtSU) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3), [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [Round](https://open.spotify.com/album/2kS5zyWNmmh4xbEVxwv8Y7) | 3:26 |
 | 27 | [TYPICAL!](https://open.spotify.com/track/4mOCLJjpD6Q2otZbjQZob6) | [TOWA TEI](https://open.spotify.com/artist/5FLbE1s9bnHwJhmngtVXpD), [Takkyu Ishino](https://open.spotify.com/artist/1Y1eAeGo4bz5wP1CfRGn6c) | [TYPICAL!](https://open.spotify.com/album/0r2o1cdpkQb4SERIdgJ7zk) | 2:57 |
-| 28 | [KANEDA \[金田\] \(Remixed by 久保田麻琴\)](https://open.spotify.com/track/1C3MMuybGUcpDXckoKY5rx) | [芸能山城組](https://open.spotify.com/artist/6BUWT5v73giW6phUFLTcbx), [久保田麻琴](https://open.spotify.com/artist/0YgNTrOUT8pFW7HehCR5mI) | [AKIRA REMIX](https://open.spotify.com/album/0P6kw8h85JdUNyI7Xfcc1B) | 3:22 |
+| 28 | [KANEDA \[金田\] \(Remixed by 久保田麻琴\)](https://open.spotify.com/track/1C3MMuybGUcpDXckoKY5rx) | [芸能山城組](https://open.spotify.com/artist/6BUWT5v73giW6phUFLTcbx), [Makoto Kubota](https://open.spotify.com/artist/5QlBWlYKw2R1O2NUAV6rnA) | [AKIRA REMIX](https://open.spotify.com/album/0P6kw8h85JdUNyI7Xfcc1B) | 3:22 |
 | 29 | [Merpa](https://open.spotify.com/track/6TmHSrZTZY48z3OvSxBS9L) | [GǼG](https://open.spotify.com/artist/2IS0MZpYejuJAOkYL02xhJ), [MONKEY TIMERS](https://open.spotify.com/artist/3tHaliLoFR0AscFTHDiPxE), [Keita Sano](https://open.spotify.com/artist/4dBOdFLRA3l1S7I1eaSYCn) | [Anarcho Disco Vol\. 1](https://open.spotify.com/album/72YwO4P2Y9bVHCnyaGbjKR) | 7:32 |
 | 30 | [Can Imagination Transcend Distance?](https://open.spotify.com/track/1qujYjBgCAaXhG5VcVy1Ec) | [Soshi Takeda](https://open.spotify.com/artist/1ViWSwtEL3r2Xcg30KhD7d) | [Can Imagination Transcend Distance?](https://open.spotify.com/album/48JGXbTcZxgFmvmGeFv0X7) | 7:07 |
 | 31 | [Boli Boli \- Radio Edit](https://open.spotify.com/track/5rsSheOe55xazhGy1Qpa3K) | [Krystal Klear](https://open.spotify.com/artist/0jqr8aeeHSn5pMEVD4aTrI), [La Raf](https://open.spotify.com/artist/372CBPn0cmX7MqOtKG68yF) | [Boli Boli \- Radio Edit](https://open.spotify.com/album/1ElDcEk0ZWzxEDbEPIXbWZ) | 3:50 |

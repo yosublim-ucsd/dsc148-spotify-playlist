@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-738 songs - 2 day 0 hr 18 min
+739 songs - 2 day 0 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [fighting back](https://open.spotify.com/track/5YgIbbLLJxRw9BG21C4Ioe) | [R.A.P\. Ferreira](https://open.spotify.com/artist/2U1vwQRYQmG7ypKJF1JTEb) | [5 to the Eye with Stars](https://open.spotify.com/album/2JdEpcC6E0KsWfft0dwrxf) | 2:15 | 2024-01-03 |  |
 | [Fingertips \(Intro\)](https://open.spotify.com/track/3ZPSyQ3TxrZ5O5lJPw0wVx) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Floorspace](https://open.spotify.com/album/0zJkFKoviOWGLmT5mvWhWC) | 1:56 | 2024-05-27 |  |
 | [Fire](https://open.spotify.com/track/7qisEHSTKvbq6ruMbvemwb) | [Mal Devisa](https://open.spotify.com/artist/3YMOzNArPJIyR5Y5iIxOpi) | [Kiid](https://open.spotify.com/album/2X9yCAdOM19MwZQquN6Fir) | 2:21 | 2024-01-18 |  |
+| [First Light \- Remastered 2004](https://open.spotify.com/track/0r4FEHukFd50r43uTuYmHY) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 2: The Plateaux Of Mirror \(Remastered 2004\)](https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO) | 7:06 | 2024-09-11 |  |
 | [First Time](https://open.spotify.com/track/1mQpK73Pm5cc9Kg3Qm4RtE) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [EMOTION SIDE B](https://open.spotify.com/album/31776n0a6xHYMHSlK4983u) | 3:35 | 2023-10-18 | 2024-01-18 |
 | [Five Years \- 2012 Remaster](https://open.spotify.com/track/1JIzFhI9Lt5FyslawmHCBi) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [The Rise and Fall of Ziggy Stardust and the Spiders from Mars \(2012 Remaster\)](https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56) | 4:43 | 2023-05-19 | 2024-06-11 |
 | [Flimsier](https://open.spotify.com/track/1tzww8WyoZheUB7wmZpTyW) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Space Heavy](https://open.spotify.com/album/31UtR7w5vJtg8AmBvWAwL5) | 3:59 | 2024-01-06 |  |

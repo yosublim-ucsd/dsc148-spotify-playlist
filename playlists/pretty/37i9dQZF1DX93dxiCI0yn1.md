@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93dxiCI0yn1.md) - [plain]
 
 > 新たな“ラップスタア“を発掘する人気オーディション番組「RAPSTAR 2024」歴代出場者、審査員の楽曲を特集。 Cover: Kohjiya
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,013 likes - 99 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,018 likes - 99 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93dxiCI0yn1.md) - [plain]
 | 6 | [JASON](https://open.spotify.com/track/0Z1QwAiYkCnNsnTa214NU7) | [Hezron](https://open.spotify.com/artist/1f9ZbrwYAXYyFCf3PGDWfq) | [JASON](https://open.spotify.com/album/4Rr2Xjh1Qq5JnoTbMtivAZ) | 2:28 |
 | 7 | [ACHICHI](https://open.spotify.com/track/2p5KOcFHMJVYru5GbtKyCi) | [Carz](https://open.spotify.com/artist/2C8Pd4hyOnljituQXkTLZn) | [ACHICHI](https://open.spotify.com/album/24pGifMFw8ulwmUtXFLxbX) | 2:28 |
 | 8 | [Perfect Night](https://open.spotify.com/track/6lFQpInJCEuop8fLbnwXA5) | [Charlu](https://open.spotify.com/artist/0vVBkhJyOXmRoEnVMg6C77) | [Perfect Night](https://open.spotify.com/album/2mfzeqN27BQhiDkFBTtHM8) | 2:18 |
-| 9 | [Rainy Day](https://open.spotify.com/track/3Gd02MdGmacvasxJDXeQNM) | [D3adStock](https://open.spotify.com/artist/62uaSv3EJe0PwHj3mtFFjS) | [Rainy Day](https://open.spotify.com/album/6KQNF7grqYtG4v1XwwEgc9) | 1:50 |
+| 9 | [Rainy Day](https://open.spotify.com/track/3Gd02MdGmacvasxJDXeQNM) | [D3adStock](https://open.spotify.com/artist/4dLZhocl3oLLpp6IcGlhjd) | [Rainy Day](https://open.spotify.com/album/6KQNF7grqYtG4v1XwwEgc9) | 1:50 |
 | 10 | [Holiday Wit U](https://open.spotify.com/track/7fYGPf5bN46Sn5cl5M0SO9) | [sheidA](https://open.spotify.com/artist/4cCmlLDD6JcIEM4RaDIxaZ), [D3adStock](https://open.spotify.com/artist/4dLZhocl3oLLpp6IcGlhjd) | [Holiday Wit U](https://open.spotify.com/album/68bFA1ux6IAc1BwAeT4h7p) | 2:05 |
 | 11 | [言った!! \- Remix](https://open.spotify.com/track/4dCFBIiSAlNuvmrnfG2sh3) | [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM), [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn), [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [言った!! \(Remix\)](https://open.spotify.com/album/0Wqqc41PW0CFX9ztQ0eOGk) | 2:34 |
 | 12 | [Before Famous \- Remix](https://open.spotify.com/track/1IMzNTet4bvT0h0XAdEeaT) | [Yatt](https://open.spotify.com/artist/3EqsmFPUUnJDhDQ7GTdken), [YELLASOMA](https://open.spotify.com/artist/2pwF9CAO9DDTrer0heIUjb), [Tepa Roucci](https://open.spotify.com/artist/6bvWel7yJaCrCjx6PkJwTz), [Yata41](https://open.spotify.com/artist/2Xdx4XGWGFCN6FAevqxODz) | [Before Famous \(Remix\)](https://open.spotify.com/album/2uwZfeziEqthjCMoBHx3fi) | 4:08 |

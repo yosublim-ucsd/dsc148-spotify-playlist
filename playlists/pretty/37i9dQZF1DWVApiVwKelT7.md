@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVApiVwKelT7.md) - [plain]
 
 > Time to mend your broken heart with beautiful melodies!
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,866 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,932 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVApiVwKelT7.md) - [plain]
 | 45 | [Vasantha Kaalangal](https://open.spotify.com/track/6dqcGrdePY7RlV2gm7hTtN) | [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [96 \- Original Motion Picture Soundtrack](https://open.spotify.com/album/3mtHV7uS0a40wYuxWonMyO) | 4:55 |
 | 46 | [En Kadhal \(From "Andhagan"\)](https://open.spotify.com/track/5dSxl1cCBhbslpWT7iXeWY) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [En Kadhal \(From "Andhagan"\)](https://open.spotify.com/album/3x5xVX4XGsKs6ZZbsufRyi) | 4:06 |
 | 47 | [Kan Pesum Varthaigal \(From "7/G Rainbow Colony"\)](https://open.spotify.com/track/6YDJ4XEYgW0jbn8WDZCfsB) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Youth Beats \- Hits of A.R.Rahman and Yuvan Shankar Raja](https://open.spotify.com/album/41JsrslvFMaFxVV6bfpe3O) | 5:48 |
-| 48 | [Pogadhe](https://open.spotify.com/track/2WiYbMi6kTLAWSCUbzf5zm) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Deepavali \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0hzhyT0O6pVNxKMd2LC8pa) | 5:30 |
+| 48 | [Kadhal Valarthen](https://open.spotify.com/track/2zTr8wJO9ZAYDJkpWC1Kpe) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp) | [Manmadhan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2YvUZ2VpPl6SaKiA0Tp6i2) | 7:29 |
 | 49 | [Chakkari Nilave](https://open.spotify.com/track/39Gy68wxBfGhNzu8Lrj7mB) | [Harish Raghavendra](https://open.spotify.com/artist/4Kw0NhqitzjxLy1jH5FlTg) | [Youth \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/08nusuuanxMWEcQVNvxEpE) | 5:40 |
 | 50 | [Kulirudha Pulla](https://open.spotify.com/track/6Kj9YBTJ7n0JBBZrfoXWeG) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Oththa Seruppu](https://open.spotify.com/album/51VpovLUBjVnUMonbaFNaS) | 4:58 |
 

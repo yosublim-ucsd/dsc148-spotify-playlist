@@ -1,12 +1,12 @@
 {
   "description": "This Is Gabriela Rocha. Los temas esenciales, todos en una lista.",
-  "num_followers": 263357,
+  "num_followers": 263389,
   "original_name": "This Is Gabriela Rocha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zt46gAAAAACK0K3a+gaPpt/PCWX5vnRf",
+  "snapshot_id": "Zt+MAAAAAAAopJY5lAGh1xN1GGL6mUgT",
   "tracks": [
     {
       "added_at": null,
@@ -403,26 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atos 2 (feat. Gabriela Rocha)",
-        "url": "https://open.spotify.com/album/5HDVHKvh41RiKifa8fjL5J"
-      },
-      "artists": [
-        {
-          "name": "ALEXANDRE APOSAN",
-          "url": "https://open.spotify.com/artist/5aqyG1NWZsQ3F1puhd9egt"
-        },
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 342221,
-      "name": "Atos 2 (feat. Gabriela Rocha)",
-      "url": "https://open.spotify.com/track/5bvOdRoFQQRHyhdEJ5jk9L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hosana (Ao Vivo)",
         "url": "https://open.spotify.com/album/3cplcet0CoHxlsAfh9O1UA"
       },
@@ -443,38 +423,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tuas \u00c1guas",
-        "url": "https://open.spotify.com/album/0Zbya7Y1hAjWuvkIe7Id8M"
+        "name": "Atos 2 (feat. Gabriela Rocha)",
+        "url": "https://open.spotify.com/album/5HDVHKvh41RiKifa8fjL5J"
       },
       "artists": [
         {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+          "name": "ALEXANDRE APOSAN",
+          "url": "https://open.spotify.com/artist/5aqyG1NWZsQ3F1puhd9egt"
         },
         {
           "name": "Gabriela Rocha",
           "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 310200,
-      "name": "Tuas \u00c1guas",
-      "url": "https://open.spotify.com/track/4viVbBp6H0iP8VeCp3EQge"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Meu Jesus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7fxJm9aiReibkvS3HlMARu"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 520935,
-      "name": "Meu Jesus - Ao Vivo",
-      "url": "https://open.spotify.com/track/0sGPH4r42PqFYKvkST5TVP"
+      "duration_ms": 342221,
+      "name": "Atos 2 (feat. Gabriela Rocha)",
+      "url": "https://open.spotify.com/track/5bvOdRoFQQRHyhdEJ5jk9L"
     },
     {
       "added_at": null,
@@ -495,6 +459,42 @@
       "duration_ms": 506122,
       "name": "\u00danico - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4RInpfmS5zuJ8xKjrfwOaI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meu Jesus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7fxJm9aiReibkvS3HlMARu"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 520935,
+      "name": "Meu Jesus - Ao Vivo",
+      "url": "https://open.spotify.com/track/0sGPH4r42PqFYKvkST5TVP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tuas \u00c1guas",
+        "url": "https://open.spotify.com/album/0Zbya7Y1hAjWuvkIe7Id8M"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 310200,
+      "name": "Tuas \u00c1guas",
+      "url": "https://open.spotify.com/track/4viVbBp6H0iP8VeCp3EQge"
     },
     {
       "added_at": null,

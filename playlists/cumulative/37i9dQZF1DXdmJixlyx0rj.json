@@ -618,7 +618,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 240004,
       "name": "Bambi - h4rdy Remix",
       "url": "https://open.spotify.com/track/6ECpFEjryPvCdGPHVktmFY"
@@ -1724,6 +1724,24 @@
       "duration_ms": 169506,
       "name": "Going Dumb (with Stray Kids)",
       "url": "https://open.spotify.com/track/3Ea1CNsTqBY4RtAESrBeNI"
+    },
+    {
+      "album": {
+        "name": "GRB02",
+        "url": "https://open.spotify.com/album/7jbVRExKqUqRUtAXFAJeHG"
+      },
+      "artists": [
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198774,
+      "name": "GROUSE",
+      "url": "https://open.spotify.com/track/2oKZdWw77Di9ZCLI82zkdv"
     },
     {
       "album": {

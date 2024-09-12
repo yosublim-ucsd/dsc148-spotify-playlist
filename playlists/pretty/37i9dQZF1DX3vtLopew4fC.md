@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 
 > Listen to women in Canada, at full volume\. Cover: Nelly Furtado
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,732 likes - 40 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,737 likes - 40 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 39 | [Pour My Love](https://open.spotify.com/track/0IjbZrUQoSQJJVYT56TSE4) | [Merna](https://open.spotify.com/artist/0aytGYP0dzM1d37B7C31qK) | [Pour My Love](https://open.spotify.com/album/6nIMvmKkgal2reO7O0NHGq) | 3:18 |
 | 40 | [Sérieux](https://open.spotify.com/track/5tU5GlKTWTMnuTgExeh3DP) | [Naomi](https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo) | [Sérieux](https://open.spotify.com/album/54Sei7mz33JumC682Ypuh3) | 2:27 |
 
-Snapshot ID: `Ztix5gAAAAB98HsUVpfZQUPCZcc9YxB3`
+Snapshot ID: `ZuH8qwAAAADQE4Gaovqv/FuzbcdmBkWj`

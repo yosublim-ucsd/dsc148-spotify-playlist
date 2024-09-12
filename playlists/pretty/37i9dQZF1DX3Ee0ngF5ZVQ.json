@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Jenna Paulette",
-  "num_followers": 411161,
+  "num_followers": 411148,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -1023,22 +1023,18 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Whiskey Talkin'",
-        "url": "https://open.spotify.com/album/0D1jO7MDJE07Qc5G0JZIJ7"
+        "name": "Don\u2019t Mess With Exes",
+        "url": "https://open.spotify.com/album/35nVx6SYYd33ss6uWNW956"
       },
       "artists": [
         {
-          "name": "Casey Donahew",
-          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
-        },
-        {
-          "name": "Kylie Frey",
-          "url": "https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4"
+          "name": "Mackenzie Carpenter",
+          "url": "https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ"
         }
       ],
-      "duration_ms": 213354,
-      "name": "Whiskey Talkin'",
-      "url": "https://open.spotify.com/track/77nXV5ruIgLksNc0LsGhRr"
+      "duration_ms": 207893,
+      "name": "Don\u2019t Mess With Exes",
+      "url": "https://open.spotify.com/track/5OeJTsIgXpwacSUj7Wlxa0"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1183,22 +1179,42 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Long Ride In A Short Bed",
-        "url": "https://open.spotify.com/album/1sL3XEro9nzmsMZrLN9aK5"
+        "name": "God Blessed Texas",
+        "url": "https://open.spotify.com/album/23oHCXpMbOCGkvEgvsbSfG"
       },
       "artists": [
         {
-          "name": "Cody Hibbard",
-          "url": "https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5"
+          "name": "Randy Rogers Band",
+          "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
+        },
+        {
+          "name": "Josh Abbott Band",
+          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
+        },
+        {
+          "name": "Casey Donahew",
+          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+        },
+        {
+          "name": "Rodney Crowell",
+          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
         },
         {
           "name": "Aaron Watson",
           "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
+        },
+        {
+          "name": "Pat Green",
+          "url": "https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX"
+        },
+        {
+          "name": "Kevin Fowler",
+          "url": "https://open.spotify.com/artist/6NKQIkHTjxD5Ovj6znGV1n"
         }
       ],
-      "duration_ms": 216341,
-      "name": "Long Ride In A Short Bed",
-      "url": "https://open.spotify.com/track/5IGZSieXiYdhUGuFWdQ21l"
+      "duration_ms": 207933,
+      "name": "God Blessed Texas",
+      "url": "https://open.spotify.com/track/0NCSOMwJ2JUNEXmoaZd7Mb"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1267,46 +1283,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "God Blessed Texas",
-        "url": "https://open.spotify.com/album/23oHCXpMbOCGkvEgvsbSfG"
-      },
-      "artists": [
-        {
-          "name": "Randy Rogers Band",
-          "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
-        },
-        {
-          "name": "Josh Abbott Band",
-          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
-        },
-        {
-          "name": "Casey Donahew",
-          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
-        },
-        {
-          "name": "Rodney Crowell",
-          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
-        },
-        {
-          "name": "Aaron Watson",
-          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
-        },
-        {
-          "name": "Pat Green",
-          "url": "https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX"
-        },
-        {
-          "name": "Kevin Fowler",
-          "url": "https://open.spotify.com/artist/6NKQIkHTjxD5Ovj6znGV1n"
-        }
-      ],
-      "duration_ms": 207933,
-      "name": "God Blessed Texas",
-      "url": "https://open.spotify.com/track/0NCSOMwJ2JUNEXmoaZd7Mb"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "That's What Makes the World Go Around",
         "url": "https://open.spotify.com/album/0WJUACzppmRQemrlwap45e"
       },
@@ -1323,6 +1299,26 @@
       "duration_ms": 197861,
       "name": "That's What Makes The World Go Around",
       "url": "https://open.spotify.com/track/2pDe6RYFsS998K9u4OQKcy"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Long Ride In A Short Bed",
+        "url": "https://open.spotify.com/album/1sL3XEro9nzmsMZrLN9aK5"
+      },
+      "artists": [
+        {
+          "name": "Cody Hibbard",
+          "url": "https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5"
+        },
+        {
+          "name": "Aaron Watson",
+          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
+        }
+      ],
+      "duration_ms": 216341,
+      "name": "Long Ride In A Short Bed",
+      "url": "https://open.spotify.com/track/5IGZSieXiYdhUGuFWdQ21l"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1407,18 +1403,18 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Baker Hotel",
-        "url": "https://open.spotify.com/album/7oj9A1igjcHCBnq6SyfB75"
+        "name": "Times Are Changing",
+        "url": "https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw"
       },
       "artists": [
         {
-          "name": "William Clark Green",
-          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
+          "name": "Dylan Wheeler",
+          "url": "https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87"
         }
       ],
-      "duration_ms": 276280,
-      "name": "Anymore",
-      "url": "https://open.spotify.com/track/5DzqR9xwyVEwbhRVXes5sZ"
+      "duration_ms": 219481,
+      "name": "Shines Through",
+      "url": "https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1439,34 +1435,38 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Times Are Changing",
-        "url": "https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw"
+        "name": "Baker Hotel",
+        "url": "https://open.spotify.com/album/7oj9A1igjcHCBnq6SyfB75"
       },
       "artists": [
         {
-          "name": "Dylan Wheeler",
-          "url": "https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87"
+          "name": "William Clark Green",
+          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
         }
       ],
-      "duration_ms": 219481,
-      "name": "Shines Through",
-      "url": "https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI"
+      "duration_ms": 276280,
+      "name": "Anymore",
+      "url": "https://open.spotify.com/track/5DzqR9xwyVEwbhRVXes5sZ"
     },
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Don\u2019t Mess With Exes",
-        "url": "https://open.spotify.com/album/35nVx6SYYd33ss6uWNW956"
+        "name": "Whiskey Talkin'",
+        "url": "https://open.spotify.com/album/0D1jO7MDJE07Qc5G0JZIJ7"
       },
       "artists": [
         {
-          "name": "Mackenzie Carpenter",
-          "url": "https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ"
+          "name": "Casey Donahew",
+          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+        },
+        {
+          "name": "Kylie Frey",
+          "url": "https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4"
         }
       ],
-      "duration_ms": 207893,
-      "name": "Don\u2019t Mess With Exes",
-      "url": "https://open.spotify.com/track/5OeJTsIgXpwacSUj7Wlxa0"
+      "duration_ms": 213354,
+      "name": "Whiskey Talkin'",
+      "url": "https://open.spotify.com/track/77nXV5ruIgLksNc0LsGhRr"
     },
     {
       "added_at": "2024-09-06 04:00:00",

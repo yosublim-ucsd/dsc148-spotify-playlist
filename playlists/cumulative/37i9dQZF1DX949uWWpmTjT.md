@@ -4,7 +4,7 @@
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-1,097 songs - 2 day 22 hr 43 min
+1,098 songs - 2 day 22 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -562,6 +562,7 @@
 | [Love In Your Arms](https://open.spotify.com/track/4tmD3aQkmBEO9JOR1hEAdY) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Love In Your Arms](https://open.spotify.com/album/16GmRGoCxQ2Iz61Sf02p5o) | 3:22 | 2023-03-02 |  |
 | [Love is a Journey](https://open.spotify.com/track/4eYgjiiahjqmhweRqCHxBm) | [Nathan Hill Trio](https://open.spotify.com/artist/4KDVrZS1ZTq8DvPeEZxbHz) | [Love is a Journey](https://open.spotify.com/album/0ozfnmVBCGIpDt6WuZqBx9) | 3:23 | 2023-08-10 | 2024-04-11 |
 | [Love on a Lonely Street](https://open.spotify.com/track/4Ol91F33J7jGfPjRubHbEk) | [The Ebbing Tides](https://open.spotify.com/artist/4WW6fT5v4jH5eHqCn9myM3) | [Love on a Lonely Street](https://open.spotify.com/album/0o7H8gUcxfOs6Ir1BCAyer) | 3:03 | 2023-04-14 |  |
+| [Love Stories](https://open.spotify.com/track/1YkTLEO57RnNZDXQ699rMh) | [Jennie Reigen](https://open.spotify.com/artist/4gefXT9y8hdGtxBmkHN2HA) | [Love Stories](https://open.spotify.com/album/58QAu607aLpamQZfHDw0mY) | 2:27 | 2024-09-09 |  |
 | [Love Theme From Chinatown](https://open.spotify.com/track/2c6wQCi3dt5vjbpysZIpdr) | [Carl Bagge](https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF) | [Don't Talk \(Put Your Head on My Shoulder\)](https://open.spotify.com/album/5yZjhFDydVDlGniKbYRxTJ) | 5:40 | 2024-03-08 |  |
 | [Love To Be Happy](https://open.spotify.com/track/3wMe1lySKxJeH9iMWXDqgx) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Love To Be Happy](https://open.spotify.com/album/4by10y5bBBZtlfRzUicL60) | 3:15 | 2022-11-10 |  |
 | [Love your confidence](https://open.spotify.com/track/502jiTX9WZhXQyovxvO6ju) | [Charles Daisey & Friends](https://open.spotify.com/artist/3w2I7PA6Gx8aD6IZMBJP20) | [Love your confidence](https://open.spotify.com/album/4I9j3ooj70J3asmDwc5TsI) | 3:24 | 2023-06-01 |  |
@@ -1057,7 +1058,7 @@
 | [Whiplashed](https://open.spotify.com/track/6qJ26rva0vDec7YDB2olDD) | [Garry Cooper Trio](https://open.spotify.com/artist/3cgKynIVkHB5ZWckvrDE3Q) | [Whiplashed](https://open.spotify.com/album/48K8veuVqjwlO3SMUguVHw) | 3:17 | 2023-04-27 |  |
 | [Whispered Longing](https://open.spotify.com/track/6lvJHY1xHZNkbEYMvpYoOp) | [Shay Walsh](https://open.spotify.com/artist/3k192xFg0O2XEadJQZJ10N) | [Whispered Longing](https://open.spotify.com/album/6ftoPFE6hqUw9fVRbmB6TF) | 3:12 | 2024-02-02 |  |
 | [Whispers of jazz in the Wind](https://open.spotify.com/track/1MaPPNPwSHNoEraAbmhsrp) | [Mino Conte & Co](https://open.spotify.com/artist/1kzntvfEnEvuhMeA3IcaZi) | [Whispers of jazz in the Wind](https://open.spotify.com/album/5Oz37JyAwOb2In1O1iMBQZ) | 4:25 | 2023-06-01 |  |
-| [Whitsunday Islands](https://open.spotify.com/track/1zKGVPC73CCFAyTF5Hsyqy) | [Long Island Quartet](https://open.spotify.com/artist/2fmPgnUqExSLjXIwIyigPR) | [Whitsunday Islands](https://open.spotify.com/album/7ysiBzJ6c0Mv8Y1bFTjKdE) | 3:53 | 2023-03-30 |  |
+| [Whitsunday Islands](https://open.spotify.com/track/1zKGVPC73CCFAyTF5Hsyqy) | [Long Island Quartet](https://open.spotify.com/artist/2fmPgnUqExSLjXIwIyigPR) | [Whitsunday Islands](https://open.spotify.com/album/7ysiBzJ6c0Mv8Y1bFTjKdE) | 3:53 | 2023-03-30 | 2024-09-12 |
 | [Why Are We Afraid?](https://open.spotify.com/track/3yRb1s9m2BcKr0m5ktUDTQ) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Gettin' Together!](https://open.spotify.com/album/4eF6FIxcBLOMOLEl3w4QQT) | 3:38 | 2021-12-03 |  |
 | [Willow](https://open.spotify.com/track/0E30aSv1GFX0SG0zbsCxGH) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [Willow](https://open.spotify.com/album/594swB6PoPzgC7NcHFMRB8) | 3:16 | 2022-12-01 |  |
 | [Willow Weep For Me](https://open.spotify.com/track/4W6g5kfwp0LVBFauBSdx08) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady Sings The Blues](https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo) | 3:06 | 2021-12-03 | 2023-10-06 |

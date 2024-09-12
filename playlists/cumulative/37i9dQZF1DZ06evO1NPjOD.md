@@ -2,7 +2,7 @@
 
 ### [This Is City Girls](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1NPjOD)
 
-> This is City Girls แทร็กที่ไม่ควรพลาด ทั้งหมดในเพลย์ลิสต์เดียว
+> This is City Girls\. أغانٍ رائعة في قائمة أغانٍ واحدة.
 
 80 songs - 3 hr 49 min
 

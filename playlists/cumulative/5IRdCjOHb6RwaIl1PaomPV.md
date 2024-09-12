@@ -2,7 +2,7 @@
 
 ### [Mad Decent Weekly](https://open.spotify.com/playlist/5IRdCjOHb6RwaIl1PaomPV)
 
-> The latest tracks from Mad Decent and friends\. New music from evilgiane &amp; Nourished by Time, Eera, Kito + the latest cuts from Miss Mdeline, Merry Lamb Lamb  &amp; more.
+> The latest tracks from Mad Decent and friends\. New music from evilgiane &amp; Nourished by Time, Eera, Kito + the latest cuts from Miss Madeline, Merry Lamb Lamb  &amp; more.
 
 568 songs - 1 day 8 hr 36 min
 

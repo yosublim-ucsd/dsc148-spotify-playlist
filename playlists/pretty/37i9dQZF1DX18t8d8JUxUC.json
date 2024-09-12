@@ -1,6 +1,6 @@
 {
   "description": "This is what folk sounds like en espa\u00f1ol. Cover: Hermanos Guti\u00e9rrez",
-  "num_followers": 23989,
+  "num_followers": 24006,
   "original_name": "Latin Folk",
   "owner": {
     "name": "Spotify",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Lucha",
-        "url": "https://open.spotify.com/album/1EHQiP8a52kT5jcAcrAIib"
-      },
-      "artists": [
-        {
-          "name": "Y La Bamba",
-          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
-        }
-      ],
-      "duration_ms": 262184,
-      "name": "Nunca",
-      "url": "https://open.spotify.com/track/5pU82TRphKp8dTyIICg9zv"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "\u00bfC\u00f3mo decir adi\u00f3s?",
         "url": "https://open.spotify.com/album/4moI6Cg4KkngLNaPJNQv0T"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 156610,
       "name": "Atardeci\u00f3 sin vos",
       "url": "https://open.spotify.com/track/1S588EBvuLIOFffQSar9uF"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Lucha",
+        "url": "https://open.spotify.com/album/1EHQiP8a52kT5jcAcrAIib"
+      },
+      "artists": [
+        {
+          "name": "Y La Bamba",
+          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
+        }
+      ],
+      "duration_ms": 262184,
+      "name": "Nunca",
+      "url": "https://open.spotify.com/track/5pU82TRphKp8dTyIICg9zv"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Sunlight",
-        "url": "https://open.spotify.com/album/7u2qRcWGqQIi8ifEuuefdh"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bejar",
-          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
-        }
-      ],
-      "duration_ms": 203112,
-      "name": "Sunlight",
-      "url": "https://open.spotify.com/track/68rfeiR6CVcaq3XTsH7Ihl"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "C\u00f3smosis",
         "url": "https://open.spotify.com/album/6NESna540i2qvjwpeUmEhx"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 246720,
       "name": "C\u00f3smosis",
       "url": "https://open.spotify.com/track/3vttNxDd4DyFbOJqCsuklx"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Sunlight",
+        "url": "https://open.spotify.com/album/7u2qRcWGqQIi8ifEuuefdh"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "duration_ms": 203112,
+      "name": "Sunlight",
+      "url": "https://open.spotify.com/track/68rfeiR6CVcaq3XTsH7Ihl"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Caf\u00e9 Conmigo",
+        "url": "https://open.spotify.com/album/22jSbACBDtGXlqMbZPeIu5"
+      },
+      "artists": [
+        {
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+        }
+      ],
+      "duration_ms": 176238,
+      "name": "Caf\u00e9 Conmigo",
+      "url": "https://open.spotify.com/track/3X6zoxS109LGpWrz7WysW0"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "azul",
         "url": "https://open.spotify.com/album/4OapkPqaM7mbksJL8WjinK"
       },
@@ -1223,22 +1239,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Caf\u00e9 Conmigo",
-        "url": "https://open.spotify.com/album/22jSbACBDtGXlqMbZPeIu5"
-      },
-      "artists": [
-        {
-          "name": "Escarlata",
-          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
-        }
-      ],
-      "duration_ms": 176238,
-      "name": "Caf\u00e9 Conmigo",
-      "url": "https://open.spotify.com/track/3X6zoxS109LGpWrz7WysW0"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Poquitito de T\u00e9",
         "url": "https://open.spotify.com/album/33Lfsyt0a5KclNLF2gPRAH"
       },
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Cruel",
-        "url": "https://open.spotify.com/album/6sQm9L7CZiYSYdy8EZBENA"
+        "name": "Perla Rosa",
+        "url": "https://open.spotify.com/album/4DonK7uIiQdNGQBMYf1JKf"
       },
       "artists": [
         {
-          "name": "Wuicho kun",
-          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+          "name": "SNENiE",
+          "url": "https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb"
         }
       ],
-      "duration_ms": 224587,
-      "name": "Cruel",
-      "url": "https://open.spotify.com/track/6uEp0bnK53pn0RKs5575wK"
+      "duration_ms": 231604,
+      "name": "Un ratito m\u00e1s",
+      "url": "https://open.spotify.com/track/6oxu4nBUPJonbBptv1bX1n"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Perla Rosa",
-        "url": "https://open.spotify.com/album/4DonK7uIiQdNGQBMYf1JKf"
+        "name": "Cruel",
+        "url": "https://open.spotify.com/album/6sQm9L7CZiYSYdy8EZBENA"
       },
       "artists": [
         {
-          "name": "SNENiE",
-          "url": "https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb"
+          "name": "Wuicho kun",
+          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
         }
       ],
-      "duration_ms": 231604,
-      "name": "Un ratito m\u00e1s",
-      "url": "https://open.spotify.com/track/6oxu4nBUPJonbBptv1bX1n"
+      "duration_ms": 224587,
+      "name": "Cruel",
+      "url": "https://open.spotify.com/track/6uEp0bnK53pn0RKs5575wK"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Perd\u00ed",
+        "url": "https://open.spotify.com/album/2Q4btBxowoXPwjO0fMiJme"
+      },
+      "artists": [
+        {
+          "name": "El David",
+          "url": "https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Perd\u00ed",
+      "url": "https://open.spotify.com/track/5WGQuK64aA6k2xpjUxAek7"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Veintitr\u00e9s",
         "url": "https://open.spotify.com/album/7ARpIwyTK8jDS5lDCoBdFL"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 208029,
       "name": "Veintitr\u00e9s",
       "url": "https://open.spotify.com/track/2co4KEm7qwRBLkBhhy6Z8h"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Perd\u00ed",
-        "url": "https://open.spotify.com/album/2Q4btBxowoXPwjO0fMiJme"
-      },
-      "artists": [
-        {
-          "name": "El David",
-          "url": "https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Perd\u00ed",
-      "url": "https://open.spotify.com/track/5WGQuK64aA6k2xpjUxAek7"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1423,38 +1423,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Prender\u00e9 Una Velita",
-        "url": "https://open.spotify.com/album/3aUvCwP3iJtMUjv1nZr1SI"
-      },
-      "artists": [
-        {
-          "name": "Marilia Monz\u00f3n",
-          "url": "https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93"
-        }
-      ],
-      "duration_ms": 195335,
-      "name": "Tranquilo, Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/26TvgqWxboqekdtCmqt28q"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Sagitario",
-        "url": "https://open.spotify.com/album/53Q3hajYqzob6vYGPays8E"
-      },
-      "artists": [
-        {
-          "name": "Valentina Rico",
-          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
-        }
-      ],
-      "duration_ms": 201861,
-      "name": "Sagitario",
-      "url": "https://open.spotify.com/track/0M8VrzJXhKpzuvXdVdfPlT"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "La \u00daltima Ola",
         "url": "https://open.spotify.com/album/14yYxeHiP07nFfEYanYjSq"
       },
@@ -1479,6 +1447,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Sagitario",
+        "url": "https://open.spotify.com/album/53Q3hajYqzob6vYGPays8E"
+      },
+      "artists": [
+        {
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+        }
+      ],
+      "duration_ms": 201861,
+      "name": "Sagitario",
+      "url": "https://open.spotify.com/track/0M8VrzJXhKpzuvXdVdfPlT"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Iridiscente",
         "url": "https://open.spotify.com/album/6PksDOysvcluD0wAfNSCxB"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 218533,
       "name": "Aguaceros",
       "url": "https://open.spotify.com/track/69dAmQimqO0HFs9AQI0EDX"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Prender\u00e9 Una Velita",
+        "url": "https://open.spotify.com/album/3aUvCwP3iJtMUjv1nZr1SI"
+      },
+      "artists": [
+        {
+          "name": "Marilia Monz\u00f3n",
+          "url": "https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93"
+        }
+      ],
+      "duration_ms": 195335,
+      "name": "Tranquilo, Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/26TvgqWxboqekdtCmqt28q"
     },
     {
       "added_at": "2024-08-30 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09enSktFOuB.md) - [plain]
 
 > Best Love songs, Before Anything Else<br/>Cover : Don
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,961 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,069 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09enSktFOuB.md) - [plain]
 | 32 | [En Fuse Pochu](https://open.spotify.com/track/2StGyGUbGAeXiPXbkBvU4s) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Ramya NSK](https://open.spotify.com/artist/1kymDvCl9hR0bZ9DPy65ie) | [Arrambam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1F2H9ceSOWf74o5bhs2hCw) | 4:42 |
 | 33 | [Im So Cool](https://open.spotify.com/track/5HuK3MFhBiXrjA02XtkgmT) | [Anirudh Ravichander,Sivakarthikeyan](https://open.spotify.com/artist/5xGPyWPyErihkDugkWY68m) | [Kaaki Sattai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IWE32AlR5LdGTO2Z01wox) | 3:49 |
 | 34 | [Paisa Note](https://open.spotify.com/track/1SfZww9mRI9bWHqfvZItl1) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q) | [Comali \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3RpJzMQ79BEK7xCJIzgPSk) | 3:04 |
-| 35 | [Asku Maaro](https://open.spotify.com/track/4gmZ9uup1Jl1AyzLGHdgDQ) | [Dharan Kumar](https://open.spotify.com/artist/1IeJ7wOH2CgIca4B1CBikF), [K\. Sivaangi](https://open.spotify.com/artist/0VocNHCBQ7Mzn9jNOmuSmz) | [Asku Maaro](https://open.spotify.com/album/73N2dOPA0VuWPWfD6LDUPX) | 4:00 |
+| 35 | [Asku Maaro](https://open.spotify.com/track/4gmZ9uup1Jl1AyzLGHdgDQ) | [Dharan Kumar](https://open.spotify.com/artist/1IeJ7wOH2CgIca4B1CBikF), [Sivaangi Krishnakumar](https://open.spotify.com/artist/0VocNHCBQ7Mzn9jNOmuSmz) | [Asku Maaro](https://open.spotify.com/album/73N2dOPA0VuWPWfD6LDUPX) | 4:00 |
 | 36 | [Tamilselvi](https://open.spotify.com/track/7zEqY4oGrTVOx85VlRSymi) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB) | [Remo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/58colQLIZDAInrHq3eT2PF) | 3:50 |
 | 37 | [Thangamey](https://open.spotify.com/track/62KDpF0Hv7KJLZrrKXsz8r) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Naanum Rowdy Dhaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4JPb12l6n12Zo34Ut2XhFx) | 4:22 |
 | 38 | [Mental Manadhil](https://open.spotify.com/track/4mOmWSdTmf6fSAibGWCKp7) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [O Kadhal Kanmani \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6XBC9UsX48MzHICIr9m0hj) | 3:25 |

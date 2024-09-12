@@ -1,12 +1,12 @@
 {
   "description": "This is The Rolling Stones. The essential tracks, all in one playlist.",
-  "num_followers": 1033614,
+  "num_followers": 1033687,
   "original_name": "This Is The Rolling Stones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zt46gAAAAADU1Uoo0UHza7JP1lG9UoFG",
+  "snapshot_id": "Zt+MAAAAAAD4to8vnkxQCcI0eDpUkxo4",
   "tracks": [
     {
       "added_at": null,
@@ -799,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Rolling Stones, Now!",
-        "url": "https://open.spotify.com/album/592dKHbXtiglWyt8AEet23"
+        "name": "Let It Bleed",
+        "url": "https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
         }
       ],
-      "duration_ms": 185786,
-      "name": "Little Red Rooster - Mono Version",
-      "url": "https://open.spotify.com/track/3GgpUEdSy8uO58XG35rRho"
+      "duration_ms": 187466,
+      "name": "Country Honk",
+      "url": "https://open.spotify.com/track/6zD3VBPn2VNDdmLEg0coPt"
     }
   ],
   "unique_name": "This Is The Rolling Stones",

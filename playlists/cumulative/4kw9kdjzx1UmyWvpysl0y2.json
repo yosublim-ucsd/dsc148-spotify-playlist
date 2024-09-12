@@ -4296,7 +4296,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 217846,
       "name": "EYES ON ME",
       "url": "https://open.spotify.com/track/2EXdDj1XPGguvSikDzDWqg"
@@ -12076,6 +12076,32 @@
       "duration_ms": 148000,
       "name": "roadtrip",
       "url": "https://open.spotify.com/track/3HAYDWCgHiQ0j7RK5qaohM"
+    },
+    {
+      "album": {
+        "name": "Rocka",
+        "url": "https://open.spotify.com/album/2yzOSjguTqnEt0SbVMC5aJ"
+      },
+      "artists": [
+        {
+          "name": "Fairlane",
+          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+        },
+        {
+          "name": "No Etiquette",
+          "url": "https://open.spotify.com/artist/6HXY7iEakhbnG63OH20oeh"
+        },
+        {
+          "name": "Tima Dee",
+          "url": "https://open.spotify.com/artist/4pQIDKoWXRw04D9e37QzbP"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193146,
+      "name": "Rocka",
+      "url": "https://open.spotify.com/track/1C0PPfiAjOukLff0ucmzsn"
     },
     {
       "album": {

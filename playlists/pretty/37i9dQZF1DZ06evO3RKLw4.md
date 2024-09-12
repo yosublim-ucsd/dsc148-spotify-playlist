@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RKLw4.md) - [plain]
 
 > This is Rancid\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,249 likes - 50 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,262 likes - 50 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RKLw4.md) - [plain]
 | 44 | [New American](https://open.spotify.com/track/0puOfy2IqL1fRF3wIFV09t) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Tomorrow Never Comes](https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD) | 2:37 |
 | 45 | [You Want It, You Got It](https://open.spotify.com/track/3hzmVSQbFf36B0792LLxcj) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Let The Dominoes Fall \(Expanded Version\)](https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93) | 1:36 |
 | 46 | [Let Me Go](https://open.spotify.com/track/1aABR4wfyq8pESFDGUssSO) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Rancid \(5\)](https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw) | 3:13 |
-| 47 | [The Sentence](https://open.spotify.com/track/25Dri4NJ7U5yrRUPZBMDlv) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Rancid](https://open.spotify.com/album/4ptHCnj9ZvHibMqdPFx5Bt) | 1:37 |
+| 47 | [Just A Feeling](https://open.spotify.com/track/1T0l7luhYfoOoGRKDD4X5P) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [B Sides and C Sides](https://open.spotify.com/album/5qfvA94YQObUVpJCHDxNks) | 1:56 |
 | 48 | [Mud, Blood, & Gold](https://open.spotify.com/track/3bHZv692gQiEzKiQ7iwdvr) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Tomorrow Never Comes](https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD) | 1:12 |
-| 49 | [Just A Feeling](https://open.spotify.com/track/1T0l7luhYfoOoGRKDD4X5P) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [B Sides and C Sides](https://open.spotify.com/album/5qfvA94YQObUVpJCHDxNks) | 1:56 |
+| 49 | [The Sentence](https://open.spotify.com/track/25Dri4NJ7U5yrRUPZBMDlv) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Rancid](https://open.spotify.com/album/4ptHCnj9ZvHibMqdPFx5Bt) | 1:37 |
 | 50 | [Dominoes Fall](https://open.spotify.com/track/6MVkVxTYySDiaL2jAQsZqa) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Let The Dominoes Fall \(Expanded Version\)](https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93) | 2:43 |
 
-Snapshot ID: `Zt46gAAAAAD5Edz88OQtHPKIvQJ52we/`
+Snapshot ID: `Zt+MAAAAAAD1tOk4sT0+pye3w7HgOUtr`

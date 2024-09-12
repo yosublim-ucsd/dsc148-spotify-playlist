@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 30163,
+  "num_followers": 30166,
   "original_name": "Ninja Tune // New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "AAAPVyMuuojF82By97wOrsn0eLAVd8K/",
+  "snapshot_id": "AAAPXf3zNzvorIq1P/CwaN1vvo3dID6A",
   "tracks": [
     {
       "added_at": "2024-02-20 17:59:46",
@@ -23,6 +23,42 @@
       "duration_ms": 201339,
       "name": "Mahal",
       "url": "https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ"
+    },
+    {
+      "added_at": "2024-09-11 15:43:55",
+      "album": {
+        "name": "Just A Western",
+        "url": "https://open.spotify.com/album/1vVnnj9S99ub44XnSknEXZ"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        }
+      ],
+      "duration_ms": 166521,
+      "name": "Just A Western - Edit",
+      "url": "https://open.spotify.com/track/32M6UpNkj8FOfbyQiF4GOJ"
+    },
+    {
+      "added_at": "2024-09-11 15:44:11",
+      "album": {
+        "name": "Faithless",
+        "url": "https://open.spotify.com/album/0mdOEm115gzcsxtjgHiTQP"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        },
+        {
+          "name": "Erin LeCount",
+          "url": "https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3"
+        }
+      ],
+      "duration_ms": 215834,
+      "name": "Faithless",
+      "url": "https://open.spotify.com/track/75WGKUulm21jqVSoZETrQT"
     },
     {
       "added_at": "2024-09-10 10:44:47",
@@ -691,42 +727,6 @@
       "duration_ms": 230000,
       "name": "If We Only Knew (From the Documentary Film \"Blue Carbon\u201d)",
       "url": "https://open.spotify.com/track/56DNY0mhdCjbZihfRRPUEi"
-    },
-    {
-      "added_at": "2024-06-18 10:50:14",
-      "album": {
-        "name": "Girls",
-        "url": "https://open.spotify.com/album/1ZVBWask9JSAT7nbkCvCRK"
-      },
-      "artists": [
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        },
-        {
-          "name": "Rose Gray",
-          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
-        }
-      ],
-      "duration_ms": 205897,
-      "name": "Girls",
-      "url": "https://open.spotify.com/track/5XWwqKNVlQO07sdngDh8iL"
-    },
-    {
-      "added_at": "2024-06-10 17:28:17",
-      "album": {
-        "name": "Method Actor",
-        "url": "https://open.spotify.com/album/0Qg3qoV8Sz5pY01lIImVeE"
-      },
-      "artists": [
-        {
-          "name": "Nil\u00fcfer Yanya",
-          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
-        }
-      ],
-      "duration_ms": 231708,
-      "name": "Method Actor",
-      "url": "https://open.spotify.com/track/6I9GeNnqNqQ5Q8DSrFkkvd"
     }
   ],
   "unique_name": "Ninja Tune // New Releases",

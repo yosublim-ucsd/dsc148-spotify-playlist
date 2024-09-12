@@ -4,7 +4,7 @@
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-173 songs - 9 hr 4 min
+174 songs - 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [City Light](https://open.spotify.com/track/0iyTHcQ6DHU59aJd7z0lru) | [Chillin Cat](https://open.spotify.com/artist/5hZRHVl12MWVq79JcjBJNG) | [City Light](https://open.spotify.com/album/3XB4Ss6DwQVCoybkKE2RDW) | 3:03 | 2024-03-05 |  |
 | [City Light](https://open.spotify.com/track/0oDyEmgdYNE9KZwOHitArr) | [Chillin Cat](https://open.spotify.com/artist/5hZRHVl12MWVq79JcjBJNG) | [City Light](https://open.spotify.com/album/3Juf0EoBQN1ZHJXJJxZXJl) | 3:03 | 2023-03-07 | 2024-04-19 |
 | [Coconut Water](https://open.spotify.com/track/48HATQmXssKoCAqhaFjtAh) | [Dana and Alden](https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr), [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Coconut Water](https://open.spotify.com/album/0cOHCnax9JHkbL3c6zxuV1) | 3:59 | 2022-10-11 | 2023-07-05 |
+| [Colony](https://open.spotify.com/track/1BjZW3ursVAZdZuGfvG2FQ) | [Otokaze](https://open.spotify.com/artist/6m1KnIrJ8bEZ6UX514Iglj) | [flowingtime](https://open.spotify.com/album/1xLKYSBa8nqg2CTfncO5Ma) | 4:32 | 2024-09-11 |  |
 | [Confused](https://open.spotify.com/track/0wrlZhUHqHlLLvdodEqv4W) | [dark cat](https://open.spotify.com/artist/0CW3aaY5gtWFStE6Vj6ZHI) | [Confused](https://open.spotify.com/album/6m34pI3gdhPPJ6YnBDQeQM) | 3:06 | 2022-10-11 | 2022-11-09 |
 | [Confused](https://open.spotify.com/track/6dB3INrWpUQJhywKwiWnJ2) | [dark cat](https://open.spotify.com/artist/0CW3aaY5gtWFStE6Vj6ZHI) | [Confused](https://open.spotify.com/album/2Ta6VUCHyg1UqAMYdzlWeH) | 3:06 | 2022-10-11 | 2023-09-27 |
 | [Cristo Redentor](https://open.spotify.com/track/3WfdmO2714po65ED2nyaXt) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH), [Epektase](https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo) | [Chips & Chill](https://open.spotify.com/album/0E1rfCBX4C7dbg6ozJFJwE) | 2:34 | 2022-10-11 |  |
@@ -171,7 +172,7 @@
 | [Wind](https://open.spotify.com/track/18kpIet027NR4fkxsqpG6R) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Before We Begin](https://open.spotify.com/album/6MNnL9qkX5t3OuVMIDlNy0) | 2:43 | 2024-03-05 |  |
 | [Wind](https://open.spotify.com/track/3LjGELUWmmnJErN3FeQPZL) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Before We Begin](https://open.spotify.com/album/4K7wiPGhUtsuqsSwi01cvG) | 2:43 | 2022-10-11 | 2023-02-24 |
 | [Wind](https://open.spotify.com/track/3lcbXj3b9lMzfuGvQlznmN) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Before We Begin](https://open.spotify.com/album/01BChai4qQGpbKQeDXRi7K) | 2:43 | 2023-02-21 | 2024-04-19 |
-| [Yokaze](https://open.spotify.com/track/7AxTszt3bSsWC81Qei0ODL) | [Itoko Toma](https://open.spotify.com/artist/3HvDJH01baTm3p6Wcqh7x7) | [Yokaze](https://open.spotify.com/album/1roXpyZ4hZzZBSL2Uw6q6L) | 2:32 | 2022-10-11 |  |
+| [Yokaze](https://open.spotify.com/track/7AxTszt3bSsWC81Qei0ODL) | [Itoko Toma](https://open.spotify.com/artist/3HvDJH01baTm3p6Wcqh7x7) | [Yokaze](https://open.spotify.com/album/1roXpyZ4hZzZBSL2Uw6q6L) | 2:32 | 2022-10-11 | 2024-09-12 |
 | [yomichi](https://open.spotify.com/track/1LuJwCQCgT6qZSxRIeSkYj) | [The LASTTRAK](https://open.spotify.com/artist/27tedpw5lwTFuWL8i8xVqT) | [yomichi](https://open.spotify.com/album/3oQXB5jYqCVUI5kmPQSidj) | 2:00 | 2022-10-11 | 2024-04-19 |
 | [yomichi](https://open.spotify.com/track/5tEn5wDeLSd0fX98oGGKJQ) | [The LASTTRAK](https://open.spotify.com/artist/27tedpw5lwTFuWL8i8xVqT) | [yomichi](https://open.spotify.com/album/048Hs52yaVV2YrTTVHeMnj) | 2:00 | 2024-03-05 |  |
 | [Yura Yura](https://open.spotify.com/track/5clAgVJ2jUqP9diNgNuV82) | [paniyolo](https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr) | [Yura Yura](https://open.spotify.com/album/4I6LEZPwd2lRIsbRgfbOBd) | 2:18 | 2022-10-11 |  |

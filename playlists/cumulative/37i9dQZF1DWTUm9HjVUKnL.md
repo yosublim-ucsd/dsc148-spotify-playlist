@@ -4,7 +4,7 @@
 
 > The full collection of Spotify Singles recordings\. Cover: IDLES
 
-1,201 songs - 3 day 1 hr 1 min
+1,203 songs - 3 day 1 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,6 +330,7 @@
 | [Fireworks \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/0tiQwGcxR0W5E7jLqbK3iA) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Spotify Singles](https://open.spotify.com/album/4DyuXP04lvFmYh01L94WH2) | 4:37 | 2022-01-19 |  |
 | [First Began \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/58sz5ZEHAajM9Cy9RIZOnG) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Spotify Singles](https://open.spotify.com/album/2cagFRs8KQSk3gjFR9BxI1) | 3:31 | 2022-01-19 |  |
 | [Flaco \- Spotify Singles](https://open.spotify.com/track/0lhX3lxFDk0KOeXoQdJ6vW) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Spotify Singles](https://open.spotify.com/album/77CJTWwnnZit2KO3LSMpyI) | 4:20 | 2022-01-19 |  |
+| [Flashbacks \- Spotify Singles](https://open.spotify.com/track/73SQt1Bwp4BzPnUrsg7CrH) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Spotify Singles](https://open.spotify.com/album/0WbsQdXEUVIjUWwJcaWkHE) | 2:07 | 2024-09-11 |  |
 | [Flipside \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5KC2AHyckU4ltYMR60aIyY) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Spotify Singles](https://open.spotify.com/album/6uof38bF3vLCZgMhjQKZ5y) | 6:03 | 2022-01-19 |  |
 | [Floods \- Live](https://open.spotify.com/track/4GBjdj1z74h8RVr1Us6YFc) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Spotify Singles](https://open.spotify.com/album/5G16B3RQcCPZ7LDVf3TwQ4) | 4:24 | 2022-01-19 |  |
 | [flower boy \- Spotify Singles](https://open.spotify.com/track/6K9U3U3C5wIB8MCXiPppFa) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [flower boy \- Spotify Singles](https://open.spotify.com/album/0XJmr9bXAu9lqnDzu3CQiq) | 2:54 | 2024-08-29 |  |
@@ -1102,6 +1103,7 @@
 | [Us \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/5rOI6O8olG9nobqsLzEqWZ) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Spotify Singles](https://open.spotify.com/album/2EMazBF6QXkOSpRSVg8Pdj) | 3:03 | 2022-01-19 |  |
 | [Use A Friend \- Live From Electric Lady Studios](https://open.spotify.com/track/2UcL1AVLr0292Rci5S1cpu) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Spotify Singles](https://open.spotify.com/album/0Innco4HcewIE6ClCLB9kS) | 4:03 | 2023-05-24 |  |
 | [Use Somebody \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5My4LtZW8JQJoKFDWodqIt) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Spotify Singles](https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh) | 2:56 | 2022-01-19 |  |
+| [Use Somebody \- Spotify Singles](https://open.spotify.com/track/2XbGfB3cTrWKmQx8fH3ix3) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Spotify Singles](https://open.spotify.com/album/0WbsQdXEUVIjUWwJcaWkHE) | 2:42 | 2024-09-11 |  |
 | [Veneno \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/31CiU58drf9xYA9VEOFDfW) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Spotify Singles](https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ) | 3:05 | 2022-01-19 |  |
 | [Versace On the Floor \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4PiQApOUbCc8sBb0ibobRJ) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Spotify Singles](https://open.spotify.com/album/3Jee64Z2Wkkj9joT4qHT1l) | 4:27 | 2022-01-19 |  |
 | [Via \- Recorded at Abbey Road Studios, London](https://open.spotify.com/track/7I773v0HONs4p8V0CgWiY5) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Spotify Singles](https://open.spotify.com/album/4HXJQjeEgf8pZX1hOKH2ki) | 3:43 | 2022-01-19 |  |

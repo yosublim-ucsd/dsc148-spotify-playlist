@@ -610,7 +610,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 150564,
       "name": "Glo\u2019d Up",
       "url": "https://open.spotify.com/track/1KGJ5ozUB7XOgCJ73IBMz3"
@@ -874,6 +874,28 @@
       "duration_ms": 206733,
       "name": "Life's A Mess II (with Clever & Post Malone)",
       "url": "https://open.spotify.com/track/4O3RwH1TFG1EjPezLIYehI"
+    },
+    {
+      "album": {
+        "name": "The Pre-Party",
+        "url": "https://open.spotify.com/album/2rlWVKCWJo4vpOBl8RiYX4"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192130,
+      "name": "Lightyears (with Young Thug)",
+      "url": "https://open.spotify.com/track/7D5JJXdw98saj80xQxukTQ"
     },
     {
       "album": {
@@ -1274,6 +1296,24 @@
       "duration_ms": 194621,
       "name": "Wishing Well",
       "url": "https://open.spotify.com/track/2U5WueTLIK5WJLD7mvDODv"
+    },
+    {
+      "album": {
+        "name": "The Pre-Party",
+        "url": "https://open.spotify.com/album/2rlWVKCWJo4vpOBl8RiYX4"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155711,
+      "name": "World Tour (Aquafina)",
+      "url": "https://open.spotify.com/track/261EcPb2XfhnPWSnlMOi3G"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover:  Die Schere zwischen Arm und Reich, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover:  Quicche, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -2996,7 +2996,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 254973,
       "name": "Bring The Witches Back",
       "url": "https://open.spotify.com/track/3sJHkSkno3qYZkXemkoNkW"
@@ -4014,6 +4014,24 @@
       "duration_ms": 151040,
       "name": "Crack It Up",
       "url": "https://open.spotify.com/track/2zFroQRjuARl7Jb7Mnb4N1"
+    },
+    {
+      "album": {
+        "name": "Crashing",
+        "url": "https://open.spotify.com/album/7vAPnz1vyoI7YeFEGyI0mj"
+      },
+      "artists": [
+        {
+          "name": "CAVA",
+          "url": "https://open.spotify.com/artist/43J6iItIIExbh3sEHISaD6"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156240,
+      "name": "Crashing",
+      "url": "https://open.spotify.com/track/4vVHZKT5McNX5dV911htj8"
     },
     {
       "album": {
@@ -8914,7 +8932,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 190531,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/7BUp4RbEmzgrcIorrde4Yv"
@@ -12556,6 +12574,24 @@
       "duration_ms": 179124,
       "name": "Molotov",
       "url": "https://open.spotify.com/track/7L9Fq96bloKKmU4FwLkpXp"
+    },
+    {
+      "album": {
+        "name": "Mondlicht",
+        "url": "https://open.spotify.com/album/0YCSfDr5wwILrPBsSOCVBv"
+      },
+      "artists": [
+        {
+          "name": "ANNA YUNA",
+          "url": "https://open.spotify.com/artist/69NHshm7qWQWGOURezT9b5"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183182,
+      "name": "Mondlicht",
+      "url": "https://open.spotify.com/track/6Y8I0EChdGc7SOfL7yUy43"
     },
     {
       "album": {
@@ -17498,7 +17534,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 138661,
       "name": "Sonne Nervt",
       "url": "https://open.spotify.com/track/0e1FxQ2jM6JZabqE41xtab"
@@ -18444,6 +18480,24 @@
       "duration_ms": 163255,
       "name": "S\u00fcss",
       "url": "https://open.spotify.com/track/2bJoEuX0p2JpZFO2lFrGnF"
+    },
+    {
+      "album": {
+        "name": "TAGIOG",
+        "url": "https://open.spotify.com/album/6KAHIcMI6fVhwNIxKRVVfF"
+      },
+      "artists": [
+        {
+          "name": "Quicche",
+          "url": "https://open.spotify.com/artist/2x6Up6chiUGsIGOYPqJSAR"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174555,
+      "name": "TAGIOG",
+      "url": "https://open.spotify.com/track/1Lfky5cQsG5oEfjInW9Ei4"
     },
     {
       "album": {

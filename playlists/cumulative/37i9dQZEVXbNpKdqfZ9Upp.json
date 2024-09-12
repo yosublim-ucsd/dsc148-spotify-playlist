@@ -1431,6 +1431,24 @@
     },
     {
       "album": {
+        "name": "ADN",
+        "url": "https://open.spotify.com/album/19m04BuGOuj3VItdHlX0WG"
+      },
+      "artists": [
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116095,
+      "name": "ADN",
+      "url": "https://open.spotify.com/track/4s2vunLeUyVL1epidTRUTy"
+    },
+    {
+      "album": {
         "name": "AEROBICO REMIX",
         "url": "https://open.spotify.com/album/2kWJzDtmTnGeToG1IAtCXt"
       },
@@ -18086,7 +18104,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 157146,
       "name": "I Love You, I'm Sorry",
       "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
@@ -18976,7 +18994,7 @@
       ],
       "date_added": "2024-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 186093,
       "name": "It's Going Down Now",
       "url": "https://open.spotify.com/track/3znIACSXPLn3HFCf7moZ28"
@@ -20900,7 +20918,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 200000,
       "name": "La Sillita",
       "url": "https://open.spotify.com/track/0XcNKa1sicyfqef7bWQQNm"
@@ -37056,7 +37074,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-11",
+      "date_removed": null,
       "duration_ms": 142022,
       "name": "Soltera - W Sound 01",
       "url": "https://open.spotify.com/track/13BDiikG6y5o5cQTK0HpW6"
@@ -38470,7 +38488,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-11",
+      "date_removed": null,
       "duration_ms": 202500,
       "name": "Tarde o temprano",
       "url": "https://open.spotify.com/track/09np8TCtg5O6yYsaxKJlJ0"

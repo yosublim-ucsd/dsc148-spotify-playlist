@@ -212,7 +212,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 185266,
       "name": "Amber Interior",
       "url": "https://open.spotify.com/track/4E84hKfy5OdYXiYGw2hbAK"
@@ -1859,6 +1859,28 @@
     },
     {
       "album": {
+        "name": "Hit the Lights",
+        "url": "https://open.spotify.com/album/6hESTwKEAi1Qacec4JSuxy"
+      },
+      "artists": [
+        {
+          "name": "yungmerrin",
+          "url": "https://open.spotify.com/artist/5rsVYU0xdA9SUiipNxLmnf"
+        },
+        {
+          "name": "Flowzz",
+          "url": "https://open.spotify.com/artist/2advJF5OsuXyDXirKe9rOv"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126455,
+      "name": "Hit the Lights",
+      "url": "https://open.spotify.com/track/4InFEKneua0HUGrwHuZ78h"
+    },
+    {
+      "album": {
         "name": "Hypnagogia Wakefull Dreams",
         "url": "https://open.spotify.com/album/1rOHNSH1iKXfUrDlzqvwdv"
       },
@@ -2318,7 +2340,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 98173,
       "name": "Koma",
       "url": "https://open.spotify.com/track/58GkabYcH4AIf4Mb6IuyQL"
@@ -4768,6 +4790,24 @@
       "duration_ms": 146437,
       "name": "Verdant",
       "url": "https://open.spotify.com/track/6eopX3Kongrg9P751naBpe"
+    },
+    {
+      "album": {
+        "name": "Viaggio",
+        "url": "https://open.spotify.com/album/0WzejcXI9XV7uLNxLJa6x2"
+      },
+      "artists": [
+        {
+          "name": "Billa Qause",
+          "url": "https://open.spotify.com/artist/7aHDFeKOQ2mgSGb8DTQf8Y"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139625,
+      "name": "Viaggio",
+      "url": "https://open.spotify.com/track/2CbRmg4lse3yTJOLm6AK9q"
     },
     {
       "album": {

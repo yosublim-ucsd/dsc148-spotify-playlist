@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Alesso, David Guetta, Madison Love
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,629 likes - 69 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,663 likes - 69 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 68 | [Handbrake](https://open.spotify.com/track/5lJKkE4D9KjKk5tS22tZvJ) | [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA) | [Handbrake](https://open.spotify.com/album/6dYdr57mOVxzjzDreb0W4h) | 2:44 |
 | 69 | [Sugar Baby](https://open.spotify.com/track/5PTZJWka2Y6esj5u9AvldQ) | [LYOD](https://open.spotify.com/artist/2a97LenVl6Fez8pkVAcFuq) | [Sugar Baby](https://open.spotify.com/album/1zxHxvKGt6z1FZwtYfBTr5) | 2:36 |
 
-Snapshot ID: `Zt7LbgAAAAAyEQ58tW3W+WEM69t1wZMY`
+Snapshot ID: `Zt7LbgAAAAAnUNfEgcWauGQH1snBAXdh`

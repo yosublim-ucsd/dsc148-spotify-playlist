@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "Heavy Stepper",
+        "url": "https://open.spotify.com/album/6GUlB3T4rAWUg0bDVRoFiO"
+      },
+      "artists": [
+        {
+          "name": "Memphis Depay",
+          "url": "https://open.spotify.com/artist/6vHeztszLzqchlxlfUnwAo"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161316,
+      "name": "2 Corinthians 5:7",
+      "url": "https://open.spotify.com/track/3LaqdUuZtvdNlpSiONNnTF"
+    },
+    {
+      "album": {
         "name": "20 Gramas",
         "url": "https://open.spotify.com/album/2cv9qRR8epYf68ljIW33KG"
       },
@@ -22390,7 +22408,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 143330,
       "name": "Guess featuring Billie Eilish",
       "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"

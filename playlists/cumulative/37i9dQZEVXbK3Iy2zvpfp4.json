@@ -3194,7 +3194,7 @@
       ],
       "date_added": "2024-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-11",
+      "date_removed": null,
       "duration_ms": 115906,
       "name": "AURA",
       "url": "https://open.spotify.com/track/2TNv2GxMpIO8AyPiD7TLxj"
@@ -8808,7 +8808,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-11",
+      "date_removed": null,
       "duration_ms": 175708,
       "name": "Cruise",
       "url": "https://open.spotify.com/track/6wmR2TU2ke8vQP5Hv8TsVq"
@@ -11102,7 +11102,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 208487,
       "name": "Drugs You Should Try It",
       "url": "https://open.spotify.com/track/4b7vk8SRcYgnxpk0JOIS7r"
@@ -12474,6 +12474,24 @@
       "duration_ms": 150720,
       "name": "eyes don't lie",
       "url": "https://open.spotify.com/track/2GWCZJWundoYi5IloWIgTX"
+    },
+    {
+      "album": {
+        "name": "Life Of A Ghost",
+        "url": "https://open.spotify.com/album/5Chvs2hsJcGowLm4PgigEl"
+      },
+      "artists": [
+        {
+          "name": "Blue Foundation",
+          "url": "https://open.spotify.com/artist/1FWybrAwiSa0zKibdLfZZr"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302826,
+      "name": "Eyes on Fire",
+      "url": "https://open.spotify.com/track/3XHrTm6WE2BOHafLwTT3GR"
     },
     {
       "album": {
@@ -22644,7 +22662,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 120816,
       "name": "Lecimy Do Dubaju",
       "url": "https://open.spotify.com/track/5FVqfrRcERYVydrEF4HsJW"
@@ -25860,7 +25878,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 151384,
       "name": "Metamorphosis",
       "url": "https://open.spotify.com/track/5b3K300uEiVmkoyKZJlgru"
@@ -31279,6 +31297,28 @@
     },
     {
       "album": {
+        "name": "YO",
+        "url": "https://open.spotify.com/album/7wXd6hDP4E0Jx3wZxigayH"
+      },
+      "artists": [
+        {
+          "name": "Shimmi",
+          "url": "https://open.spotify.com/artist/5QLfxY8Phcamadzx1r79ck"
+        },
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209142,
+      "name": "OT\u00c1ZKY",
+      "url": "https://open.spotify.com/track/0x3E0kc9BWFtT698T30dBg"
+    },
+    {
+      "album": {
         "name": "Hazbin Hotel (Original Soundtrack)",
         "url": "https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq"
       },
@@ -34906,7 +34946,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 171250,
       "name": "Rande",
       "url": "https://open.spotify.com/track/5QpohjX9IC4Mbxpdbv0WYZ"

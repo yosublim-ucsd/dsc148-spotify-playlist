@@ -1,6 +1,6 @@
 {
   "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations. CAN on cover.",
-  "num_followers": 13352,
+  "num_followers": 13357,
   "original_name": "Krautrock",
   "owner": {
     "name": "Spotify",
@@ -1483,18 +1483,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Blood-Drums",
-        "url": "https://open.spotify.com/album/6jzZEvu1JLto8Wqkb6wmBn"
+        "name": "Ship",
+        "url": "https://open.spotify.com/album/4zJ5lyyVewTsSXNvgFQUGk"
       },
       "artists": [
         {
-          "name": "Cavern of Anti-Matter",
-          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
+          "name": "The Notwist",
+          "url": "https://open.spotify.com/artist/1o4xLcugkCtDDOw7POAMha"
+        },
+        {
+          "name": "Saya",
+          "url": "https://open.spotify.com/artist/1WY9uoueo64mwmAj9WiZIv"
         }
       ],
-      "duration_ms": 509853,
-      "name": "Blood-Drums",
-      "url": "https://open.spotify.com/track/10E0V5fhdJ2kJkSomo9LKr"
+      "duration_ms": 246861,
+      "name": "Ship - EP Version",
+      "url": "https://open.spotify.com/track/3zsVBfj35ZQT7ZqN0sMBKm"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1515,22 +1519,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Ship",
-        "url": "https://open.spotify.com/album/4zJ5lyyVewTsSXNvgFQUGk"
+        "name": "Blood-Drums",
+        "url": "https://open.spotify.com/album/6jzZEvu1JLto8Wqkb6wmBn"
       },
       "artists": [
         {
-          "name": "The Notwist",
-          "url": "https://open.spotify.com/artist/1o4xLcugkCtDDOw7POAMha"
-        },
-        {
-          "name": "Saya",
-          "url": "https://open.spotify.com/artist/1WY9uoueo64mwmAj9WiZIv"
+          "name": "Cavern of Anti-Matter",
+          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
         }
       ],
-      "duration_ms": 246861,
-      "name": "Ship - EP Version",
-      "url": "https://open.spotify.com/track/3zsVBfj35ZQT7ZqN0sMBKm"
+      "duration_ms": 509853,
+      "name": "Blood-Drums",
+      "url": "https://open.spotify.com/track/10E0V5fhdJ2kJkSomo9LKr"
     },
     {
       "added_at": "2021-07-30 14:56:06",

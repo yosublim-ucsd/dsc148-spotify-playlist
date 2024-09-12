@@ -1,47 +1,15 @@
 {
-  "description": "The best new music by independent African artists and labels. Cover:  <a href=\"https://open.spotify.com/artist/7qSWBbKrqf8gIGvvZLY2KG?si=3wkD1iK5QgWjudPB0-KxWg\">Sishii</a>. Artwork: Isu Kim. ",
-  "num_followers": 11071,
+  "description": "The best new music by independent African artists and labels. Cover:  <a href=\"https://open.spotify.com/artist/6MafTIO7KWHWHXx1L39BDx?si=CLtzdsdOQiWCS9G3SN3J1Q\">Yamiko</a>. Artwork: Isu Kim. ",
+  "num_followers": 11092,
   "original_name": "Fresh Finds Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtgiOgAAAADUVtV2OjTYs3o3FcNPU8YS",
+  "snapshot_id": "ZuFzvAAAAADqi1LionWbq6Ztz2dsvEZA",
   "tracks": [
     {
-      "added_at": "2024-09-04 09:02:50",
-      "album": {
-        "name": "VIBE",
-        "url": "https://open.spotify.com/album/6GsHPxV3QdKnTfKbynPP9W"
-      },
-      "artists": [
-        {
-          "name": "Sishii",
-          "url": "https://open.spotify.com/artist/7qSWBbKrqf8gIGvvZLY2KG"
-        }
-      ],
-      "duration_ms": 129836,
-      "name": "VIBE",
-      "url": "https://open.spotify.com/track/2V2X9CZ99YVf2oWjyg1DVn"
-    },
-    {
-      "added_at": "2024-09-04 09:02:50",
-      "album": {
-        "name": "One Night",
-        "url": "https://open.spotify.com/album/5Vn70shB3Ff0nxOszcICqp"
-      },
-      "artists": [
-        {
-          "name": "Cznbaby",
-          "url": "https://open.spotify.com/artist/5m2vJFnLqbBvu4cm3Zn0Rf"
-        }
-      ],
-      "duration_ms": 170736,
-      "name": "One Night",
-      "url": "https://open.spotify.com/track/7zjsQXJbCqZUJJgC2M0Bv3"
-    },
-    {
-      "added_at": "2024-09-04 09:02:50",
+      "added_at": "2024-09-11 10:41:00",
       "album": {
         "name": "Rear View Mirror",
         "url": "https://open.spotify.com/album/7oVrQL1uzRnPL9wHmoNbXu"
@@ -57,7 +25,75 @@
       "url": "https://open.spotify.com/track/4LAO2eKtesEscel4u76ShJ"
     },
     {
-      "added_at": "2024-09-04 09:02:50",
+      "added_at": "2024-09-11 10:41:00",
+      "album": {
+        "name": "One Night",
+        "url": "https://open.spotify.com/album/5Vn70shB3Ff0nxOszcICqp"
+      },
+      "artists": [
+        {
+          "name": "Cznbaby",
+          "url": "https://open.spotify.com/artist/5m2vJFnLqbBvu4cm3Zn0Rf"
+        }
+      ],
+      "duration_ms": 170736,
+      "name": "One Night",
+      "url": "https://open.spotify.com/track/7zjsQXJbCqZUJJgC2M0Bv3"
+    },
+    {
+      "added_at": "2024-09-11 10:41:00",
+      "album": {
+        "name": "Awolowo",
+        "url": "https://open.spotify.com/album/457mm5YPmIQgoVWCZci0z3"
+      },
+      "artists": [
+        {
+          "name": "Fido",
+          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
+        }
+      ],
+      "duration_ms": 135576,
+      "name": "Awolowo",
+      "url": "https://open.spotify.com/track/5apzdgGSRLNeBjSFse45i9"
+    },
+    {
+      "added_at": "2024-09-11 10:41:00",
+      "album": {
+        "name": "VIBE",
+        "url": "https://open.spotify.com/album/6GsHPxV3QdKnTfKbynPP9W"
+      },
+      "artists": [
+        {
+          "name": "Sishii",
+          "url": "https://open.spotify.com/artist/7qSWBbKrqf8gIGvvZLY2KG"
+        }
+      ],
+      "duration_ms": 129836,
+      "name": "VIBE",
+      "url": "https://open.spotify.com/track/2V2X9CZ99YVf2oWjyg1DVn"
+    },
+    {
+      "added_at": "2024-09-11 10:41:00",
+      "album": {
+        "name": "When You're Around",
+        "url": "https://open.spotify.com/album/3RIGb42y1erPlKLH1qcSec"
+      },
+      "artists": [
+        {
+          "name": "Lusanda",
+          "url": "https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz"
+        },
+        {
+          "name": "Noxz",
+          "url": "https://open.spotify.com/artist/4gQHI7uYzGmbD7BRBtFLO2"
+        }
+      ],
+      "duration_ms": 197027,
+      "name": "When You're Around",
+      "url": "https://open.spotify.com/track/32RZgcuKaGBZeSZFCjqekc"
+    },
+    {
+      "added_at": "2024-09-11 10:41:00",
       "album": {
         "name": "Misscomplicationship (Yolophonik Remix)",
         "url": "https://open.spotify.com/album/21BfqyBwOTN8auNDYdIFRq"
@@ -81,7 +117,7 @@
       "url": "https://open.spotify.com/track/1ik3F9WhLYRnFroYW3pzyJ"
     },
     {
-      "added_at": "2024-09-04 09:02:50",
+      "added_at": "2024-09-11 10:41:00",
       "album": {
         "name": "ebi from Waterside",
         "url": "https://open.spotify.com/album/2gvDwd9j7ESgS3xJTFtgyG"
@@ -101,7 +137,7 @@
       "url": "https://open.spotify.com/track/2py8kc44JBLG6FDecO4eC3"
     },
     {
-      "added_at": "2024-09-04 09:02:50",
+      "added_at": "2024-09-11 10:41:00",
       "album": {
         "name": "For Di Road",
         "url": "https://open.spotify.com/album/5LcAJxmgI5aipFbysPQ7rw"
@@ -117,7 +153,7 @@
       "url": "https://open.spotify.com/track/1ggEH1usgrs3dQvDKA75kG"
     },
     {
-      "added_at": "2024-09-04 09:02:50",
+      "added_at": "2024-09-11 10:41:00",
       "album": {
         "name": "Mfana kaMakhulu",
         "url": "https://open.spotify.com/album/4HshJlejrlM0iS7vft5wA1"
@@ -133,7 +169,7 @@
       "url": "https://open.spotify.com/track/0BC3WoUwKRdzcsSQOsY4kr"
     },
     {
-      "added_at": "2024-09-04 09:02:50",
+      "added_at": "2024-09-11 10:41:00",
       "album": {
         "name": "Grown",
         "url": "https://open.spotify.com/album/0NqVsIlCwJbxJHuHuANjSb"
@@ -153,7 +189,7 @@
       "url": "https://open.spotify.com/track/04C3f1zE0YHypfmg8hF2cY"
     },
     {
-      "added_at": "2024-09-04 09:02:50",
+      "added_at": "2024-09-11 10:41:00",
       "album": {
         "name": "Von O\u2019clock (FOTM/Company)",
         "url": "https://open.spotify.com/album/1nrHtu2oirpP4R7InMzkkM"
@@ -169,7 +205,7 @@
       "url": "https://open.spotify.com/track/6euaDOrmLdSMkMACb8aP3J"
     },
     {
-      "added_at": "2024-09-04 09:02:50",
+      "added_at": "2024-09-11 10:41:00",
       "album": {
         "name": "ngisebhishi",
         "url": "https://open.spotify.com/album/1ge9EVVEj81VnPR29XETRb"
@@ -185,7 +221,7 @@
       "url": "https://open.spotify.com/track/0VC17bHNBtsoMd0krLHnJf"
     },
     {
-      "added_at": "2024-09-04 09:02:50",
+      "added_at": "2024-09-11 10:41:00",
       "album": {
         "name": "TOYOTA",
         "url": "https://open.spotify.com/album/7LggoxQ82Yqj7hLimHx3K1"
@@ -201,7 +237,7 @@
       "url": "https://open.spotify.com/track/5N55suVRCcouaoIxKjNz6x"
     },
     {
-      "added_at": "2024-09-04 09:02:50",
+      "added_at": "2024-09-11 10:41:00",
       "album": {
         "name": "Last Time",
         "url": "https://open.spotify.com/album/6KKnmBdzuBR4o4Dja6t34z"
@@ -221,23 +257,7 @@
       "url": "https://open.spotify.com/track/7GNEUqWco6aMGNgIlwUqID"
     },
     {
-      "added_at": "2024-09-04 09:02:50",
-      "album": {
-        "name": "Awolowo",
-        "url": "https://open.spotify.com/album/457mm5YPmIQgoVWCZci0z3"
-      },
-      "artists": [
-        {
-          "name": "Fido",
-          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
-        }
-      ],
-      "duration_ms": 135576,
-      "name": "Awolowo",
-      "url": "https://open.spotify.com/track/5apzdgGSRLNeBjSFse45i9"
-    },
-    {
-      "added_at": "2024-09-04 09:02:50",
+      "added_at": "2024-09-11 10:41:00",
       "album": {
         "name": "Dimension",
         "url": "https://open.spotify.com/album/3MPNrjmypE1EsiSeK1h7Sm"
@@ -261,7 +281,7 @@
       "url": "https://open.spotify.com/track/2m70s2T5O9dlRCCpCZHFNM"
     },
     {
-      "added_at": "2024-09-04 09:02:50",
+      "added_at": "2024-09-11 10:41:00",
       "album": {
         "name": "Open Hearts",
         "url": "https://open.spotify.com/album/06XMKyyqiQfvBze41Yi8pv"
@@ -277,7 +297,7 @@
       "url": "https://open.spotify.com/track/0vGaq6yLFIWQTVT1IStvdn"
     },
     {
-      "added_at": "2024-09-04 09:02:50",
+      "added_at": "2024-09-11 10:41:00",
       "album": {
         "name": "Ogo Ni",
         "url": "https://open.spotify.com/album/1HwYp4lUbD8vs4XlEnARWO"
@@ -293,7 +313,7 @@
       "url": "https://open.spotify.com/track/7i7DkX6VtGE7UnXqNiXrZs"
     },
     {
-      "added_at": "2024-09-04 09:02:50",
+      "added_at": "2024-09-11 10:41:00",
       "album": {
         "name": "Coffee In The Morning",
         "url": "https://open.spotify.com/album/7309E3YupTU0JV7Tr3PJuH"
@@ -309,7 +329,7 @@
       "url": "https://open.spotify.com/track/3kNJP86qR3rdhLaCP9Z4bR"
     },
     {
-      "added_at": "2024-09-04 09:02:50",
+      "added_at": "2024-09-11 10:41:00",
       "album": {
         "name": "Feel My Face",
         "url": "https://open.spotify.com/album/6atX0owN0UNIzoMAvXakaQ"
@@ -325,7 +345,27 @@
       "url": "https://open.spotify.com/track/6CK17OvuMlBXOgIkGrhceh"
     },
     {
-      "added_at": "2024-09-04 09:02:50",
+      "added_at": "2024-09-11 10:41:00",
+      "album": {
+        "name": "Finally Found Her",
+        "url": "https://open.spotify.com/album/4plY4J9jXwF5AwDbZwtsYF"
+      },
+      "artists": [
+        {
+          "name": "Halo Yagami",
+          "url": "https://open.spotify.com/artist/3boR2ULQR1CX6TUBboHctW"
+        },
+        {
+          "name": "Shekhinah",
+          "url": "https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB"
+        }
+      ],
+      "duration_ms": 224263,
+      "name": "Sleepyhead",
+      "url": "https://open.spotify.com/track/09WjXUwLRqJc34xz7OFeak"
+    },
+    {
+      "added_at": "2024-09-11 10:41:00",
       "album": {
         "name": "Nevermind.",
         "url": "https://open.spotify.com/album/5vTrYfOMYC8Hh5Vpc9sjnY"
@@ -341,7 +381,7 @@
       "url": "https://open.spotify.com/track/31lU9LGAQ9UhrDBTwdvNm5"
     },
     {
-      "added_at": "2024-09-04 09:02:50",
+      "added_at": "2024-09-11 10:41:00",
       "album": {
         "name": "NOT SO DISTOPIA",
         "url": "https://open.spotify.com/album/5bwWj5bM6uL4zumhXX2wIS"
@@ -357,7 +397,7 @@
       "url": "https://open.spotify.com/track/5qPtQaDS9sdeQ1co9z2Xkb"
     },
     {
-      "added_at": "2024-09-04 09:02:50",
+      "added_at": "2024-09-11 10:41:00",
       "album": {
         "name": "Pick a Date (J33J3)",
         "url": "https://open.spotify.com/album/3n0V8MzBccV6epodNBh3zq"
@@ -377,7 +417,7 @@
       "url": "https://open.spotify.com/track/57gTa3UzvqgK4B3swoVyrd"
     },
     {
-      "added_at": "2024-09-04 09:02:50",
+      "added_at": "2024-09-11 10:41:00",
       "album": {
         "name": "Mijo",
         "url": "https://open.spotify.com/album/745HPEq3csoeefqmtLD6MU"
@@ -393,7 +433,7 @@
       "url": "https://open.spotify.com/track/3xnMDhTJV3QNdoQ2qOnUOb"
     },
     {
-      "added_at": "2024-09-04 09:02:50",
+      "added_at": "2024-09-11 10:41:00",
       "album": {
         "name": "Brand New Me",
         "url": "https://open.spotify.com/album/2tUgcQUy5QVJEAgjr4XdNa"
@@ -409,7 +449,7 @@
       "url": "https://open.spotify.com/track/3e1WiZKZSPqjejsE95MaLJ"
     },
     {
-      "added_at": "2024-09-04 09:02:50",
+      "added_at": "2024-09-11 10:41:00",
       "album": {
         "name": "CRUISE",
         "url": "https://open.spotify.com/album/2u7YBP6ssXmsdolIzGLo56"
@@ -425,7 +465,7 @@
       "url": "https://open.spotify.com/track/1oCMYZ9k98wgiqTw5hdMwq"
     },
     {
-      "added_at": "2024-09-04 09:02:50",
+      "added_at": "2024-09-11 10:41:00",
       "album": {
         "name": "Here Goes Nothing",
         "url": "https://open.spotify.com/album/3JkRHbQXcn6YSGqNvhBPLR"
@@ -445,7 +485,23 @@
       "url": "https://open.spotify.com/track/2wTLsbplu6Pabg5Dg5rWB9"
     },
     {
-      "added_at": "2024-09-04 09:02:50",
+      "added_at": "2024-09-11 10:41:00",
+      "album": {
+        "name": "Took Me For A Nai",
+        "url": "https://open.spotify.com/album/6vc3D35aDIr4sZFicZ00gf"
+      },
+      "artists": [
+        {
+          "name": "Blue Pappi",
+          "url": "https://open.spotify.com/artist/3s08T4PFTVRjVPwgkhNq6D"
+        }
+      ],
+      "duration_ms": 133524,
+      "name": "Took Me For A Nai",
+      "url": "https://open.spotify.com/track/6TffFYos6mnj9Os1nTac4m"
+    },
+    {
+      "added_at": "2024-09-11 10:41:00",
       "album": {
         "name": "PLAYTIME IS OVA.",
         "url": "https://open.spotify.com/album/3ol32U49hYVhECXg6zAD0Z"
@@ -461,7 +517,7 @@
       "url": "https://open.spotify.com/track/5z2Hk6NV60WEEJ6euKbPeD"
     },
     {
-      "added_at": "2024-09-04 09:02:50",
+      "added_at": "2024-09-11 10:41:00",
       "album": {
         "name": "Palmwine",
         "url": "https://open.spotify.com/album/7ucOuSBBNW7mE9C8H7lusS"
@@ -481,7 +537,39 @@
       "url": "https://open.spotify.com/track/22IW4sSH1iPDXgliuhJWfO"
     },
     {
-      "added_at": "2024-09-04 09:02:50",
+      "added_at": "2024-09-11 10:41:00",
+      "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/1Khrq0VrvwzxhY5gZlsQLT"
+      },
+      "artists": [
+        {
+          "name": "Toy\u00e9",
+          "url": "https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi"
+        }
+      ],
+      "duration_ms": 134172,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/77jS1yL8OuZjXP2omoc7Bf"
+    },
+    {
+      "added_at": "2024-09-11 10:41:00",
+      "album": {
+        "name": "falling in love",
+        "url": "https://open.spotify.com/album/0KaGZZ7MjQdrVAy7ZGorFs"
+      },
+      "artists": [
+        {
+          "name": "Leia",
+          "url": "https://open.spotify.com/artist/3EgA3HOFNXFF4bTmDAGzqI"
+        }
+      ],
+      "duration_ms": 205090,
+      "name": "falling",
+      "url": "https://open.spotify.com/track/2CZS9mJns7gUtACHBw2dYl"
+    },
+    {
+      "added_at": "2024-09-11 10:41:00",
       "album": {
         "name": "My Time",
         "url": "https://open.spotify.com/album/31IkWfeidxB3KkzVDFHqM7"
@@ -497,7 +585,7 @@
       "url": "https://open.spotify.com/track/56IzMNcIHJnVvIR4DEMPqj"
     },
     {
-      "added_at": "2024-09-04 09:02:50",
+      "added_at": "2024-09-11 10:41:00",
       "album": {
         "name": "Life Na JeJe",
         "url": "https://open.spotify.com/album/32Xv2PfVbn4dP7XkRT7JBx"
@@ -517,7 +605,7 @@
       "url": "https://open.spotify.com/track/53onRNlVtt6tdIwCOMkWiA"
     },
     {
-      "added_at": "2024-09-04 09:02:50",
+      "added_at": "2024-09-11 10:41:00",
       "album": {
         "name": "Body Language",
         "url": "https://open.spotify.com/album/4c78nRVYctEQFKbEI1iK2M"
@@ -533,7 +621,7 @@
       "url": "https://open.spotify.com/track/78xY0BTS9Aor23iqdAos9h"
     },
     {
-      "added_at": "2024-09-04 09:02:50",
+      "added_at": "2024-09-11 10:41:00",
       "album": {
         "name": "Gumbodi",
         "url": "https://open.spotify.com/album/4XDZ2qpOFGyGVu7b1cJZAK"
@@ -549,7 +637,51 @@
       "url": "https://open.spotify.com/track/5kmml1QAvbqsNuarG8fBII"
     },
     {
-      "added_at": "2024-09-04 09:02:50",
+      "added_at": "2024-09-11 10:41:00",
+      "album": {
+        "name": "boy scout",
+        "url": "https://open.spotify.com/album/5CyQ7GZ2s4uUv357auhfbR"
+      },
+      "artists": [
+        {
+          "name": "mwami",
+          "url": "https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq"
+        },
+        {
+          "name": "Tai Dai",
+          "url": "https://open.spotify.com/artist/77G1P2NHQOnx0leyvpN3ym"
+        },
+        {
+          "name": "Lagum the Rapper",
+          "url": "https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124"
+        }
+      ],
+      "duration_ms": 206911,
+      "name": "boy scout",
+      "url": "https://open.spotify.com/track/1NIuTnph0Svk9KH8l1w3IT"
+    },
+    {
+      "added_at": "2024-09-11 10:41:00",
+      "album": {
+        "name": "ASSUMPTIONS",
+        "url": "https://open.spotify.com/album/4nMwIUlOAHwqIDVaMgMv1C"
+      },
+      "artists": [
+        {
+          "name": "Sipho the Gift",
+          "url": "https://open.spotify.com/artist/3UJed0SE76dXKWetExB4F8"
+        },
+        {
+          "name": "PDOT O",
+          "url": "https://open.spotify.com/artist/7KAvy18LeTZXBZhYxfqN3l"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "ASSUMPTIONS",
+      "url": "https://open.spotify.com/track/5LbwNe7yhEb341wLcvCnh6"
+    },
+    {
+      "added_at": "2024-09-11 10:41:00",
       "album": {
         "name": "Pull",
         "url": "https://open.spotify.com/album/6jaW7bIwqz0i11CnfSNAdu"
@@ -565,7 +697,7 @@
       "url": "https://open.spotify.com/track/3duQZunFoBl8dSYC2SDSAV"
     },
     {
-      "added_at": "2024-09-04 09:02:50",
+      "added_at": "2024-09-11 10:41:00",
       "album": {
         "name": "No One Makes It Out Alive",
         "url": "https://open.spotify.com/album/5FiBjnrwkjz5gn0hzoalNa"
@@ -589,7 +721,7 @@
       "url": "https://open.spotify.com/track/1Wq6ebgaegNGoeecpikMbc"
     },
     {
-      "added_at": "2024-09-04 09:02:50",
+      "added_at": "2024-09-11 10:41:00",
       "album": {
         "name": "Eventually",
         "url": "https://open.spotify.com/album/71Iee29vZ9ndmjzkG5XGiE"
@@ -605,7 +737,7 @@
       "url": "https://open.spotify.com/track/0CibNAlHHhRQk4QVnlwIzE"
     },
     {
-      "added_at": "2024-09-04 09:02:50",
+      "added_at": "2024-09-11 10:41:00",
       "album": {
         "name": "far from grace",
         "url": "https://open.spotify.com/album/4nz5vJQS5pGxyQZZBbnfYj"

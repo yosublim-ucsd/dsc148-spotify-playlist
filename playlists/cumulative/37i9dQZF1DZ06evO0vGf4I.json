@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-11",
-  "description": "This is Travis Scott. The essential tracks, all in one playlist.",
+  "description": "This Is Travis Scott. Los temas esenciales, todos en una lista.",
   "name": "This Is Travis Scott",
   "tracks": [
     {
@@ -1280,7 +1280,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-09",
+      "date_removed": null,
       "duration_ms": 242026,
       "name": "Pussy & Millions (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/2KLwPaRDOB87XOYAT2fgxh"

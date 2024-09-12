@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Carnaval. The essential tracks, all in one playlist.",
-  "num_followers": 57465,
+  "num_followers": 57477,
   "original_name": "This Is Banda Carnaval",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zt46gAAAAAApGe5Inj6xn79Bn+sD+TPP",
+  "snapshot_id": "Zt+MAAAAAADTHYNc09mlKlbdLWAOKmO/",
   "tracks": [
     {
       "added_at": null,
@@ -671,26 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Chulo",
-        "url": "https://open.spotify.com/album/3fqu1APHpe2qBiI3NgBmZj"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        },
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 146146,
-      "name": "El Chulo",
-      "url": "https://open.spotify.com/track/4xydTcMJJGaTEJUdYaEUmQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Ver A Qu\u00e9 Horas (En Vivo)",
         "url": "https://open.spotify.com/album/3wEwmBFOd6wiZ6F0zXMy6a"
       },
@@ -707,18 +687,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e1ximo Nivel",
-        "url": "https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE"
+        "name": "El Chulo",
+        "url": "https://open.spotify.com/album/3fqu1APHpe2qBiI3NgBmZj"
       },
       "artists": [
         {
           "name": "Banda Carnaval",
           "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        },
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
         }
       ],
-      "duration_ms": 199440,
-      "name": "Ya Me Sirvi\u00f3 De Experiencia",
-      "url": "https://open.spotify.com/track/5YYOxnJQZxaGwmHi63EfvI"
+      "duration_ms": 146146,
+      "name": "El Chulo",
+      "url": "https://open.spotify.com/track/4xydTcMJJGaTEJUdYaEUmQ"
     },
     {
       "added_at": null,
@@ -743,6 +727,22 @@
       "duration_ms": 219093,
       "name": "Culpable Soy Yo - En Vivo Desde El Rancho",
       "url": "https://open.spotify.com/track/5GJQBcLwgSldwHYgQJLIgB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M\u00e1ximo Nivel",
+        "url": "https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 199440,
+      "name": "Ya Me Sirvi\u00f3 De Experiencia",
+      "url": "https://open.spotify.com/track/5YYOxnJQZxaGwmHi63EfvI"
     },
     {
       "added_at": null,

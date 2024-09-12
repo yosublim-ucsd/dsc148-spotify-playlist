@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "An Ocean Of Strange Islands",
+        "url": "https://open.spotify.com/album/5Pld9dbaBVoidxPQEhVusV"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 566413,
+      "name": "An Ocean Of Strange Islands",
+      "url": "https://open.spotify.com/track/7HLmjUIFeeCxiJKASRqltT"
+    },
+    {
+      "album": {
         "name": "Century Child",
         "url": "https://open.spotify.com/album/4FFDudC4xBVF6MYJUynRsN"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: <a href="spotify:artist:2EpEo5cgrVpjbLIVlwyyQf">Aodhán King</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,587 likes - 96 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,662 likes - 96 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 18 | [By The Grace Of God](https://open.spotify.com/track/1QHsyfUYoE8s9Z6VpOeAGe) | [Nick Herbert](https://open.spotify.com/artist/2d1xKAOMjV142Pf9cEmYeS) | [By The Grace Of God](https://open.spotify.com/album/4Eiw1Sgm3uJO0HM7KqMOvE) | 4:41 |
 | 19 | [Here I Am \(feat\. Ashley Hess\)](https://open.spotify.com/track/3fXb7uR4CDGALrfKMkdIy3) | [JWLKRS Worship](https://open.spotify.com/artist/0wczmL4iUleqcy10Ek5Eyh), [Ashley Hess](https://open.spotify.com/artist/4s2GYqPWIthqzV5805rY6N) | [Here I Am](https://open.spotify.com/album/0NclZ5R0omscBYFXn5QoyW) | 5:39 |
 | 20 | [Inhabit \- Live](https://open.spotify.com/track/1WHBWjHUi6Nkyw2PZr6qOV) | [Lakewood Music](https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK), [Alexander Pappas](https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC) | [Oh How Worthy \(Live\)](https://open.spotify.com/album/3SimJVri4arEFQqEAbZdmx) | 8:24 |
-| 21 | [There Is Only One Name \- Live](https://open.spotify.com/track/3shaMTWCCgZicNa7zq2wfB) | [Mission House](https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C) | [Family Nights, Vol\. 2: Day For Singing \- Live](https://open.spotify.com/album/75ElVjeppeJFT2d4FHloew) | 6:01 |
+| 21 | [There Is Only One Name \- Live](https://open.spotify.com/track/3shaMTWCCgZicNa7zq2wfB) | [Mission House](https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C), [Abby Siler](https://open.spotify.com/artist/4JmRxJQC4R65Po60AERzGG) | [Family Nights, Vol\. 2: Day For Singing \- Live](https://open.spotify.com/album/75ElVjeppeJFT2d4FHloew) | 6:01 |
 | 22 | [Courage \(feat\. Brandon Lake\)](https://open.spotify.com/track/7I4gqPZBAYCN2FVnGrUZ79) | [Seacoast](https://open.spotify.com/artist/0x6XZndsBaAe2jNT5j3VHv), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Courage](https://open.spotify.com/album/4IuR7tMCTWwYo0X9BEMQkH) | 4:35 |
 | 23 | [The Blood Of Jesus \- Live](https://open.spotify.com/track/4IBee17YDcWnLviAheYZIN) | [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [The Blood Of Jesus \- Live](https://open.spotify.com/album/6GXOSSBgf8U7TXnlvPZUwR) | 5:40 |
 | 24 | [Renew My Life \(He\)](https://open.spotify.com/track/3fKGMCqOdIBh0Tpj47nitd) | [Stillcreek](https://open.spotify.com/artist/11gEoW9B8Wb6GjflubNjOW), [Aaron Williams](https://open.spotify.com/artist/4HRAisqWU6muzcJTkGMquz) | [Renew My Life \(He\)](https://open.spotify.com/album/7nH5hYuaI3D0qTadXR68kR) | 3:39 |

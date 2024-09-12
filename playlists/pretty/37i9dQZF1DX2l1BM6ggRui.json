@@ -1,6 +1,6 @@
 {
   "description": "\ub4e3\uace0\ub9cc \uc788\uc5b4\ub3c4 \ud589\ubcf5\ud55c \ub178\ub798\ub4e4\uacfc \ub354\ub354\uc6b1 \ud589\ubcf5\ud558\uc138\uc694 ;)",
-  "num_followers": 6503,
+  "num_followers": 6502,
   "original_name": "\ud589\ubcf5\uc744 \ub4dc\ub824\uc694 (K-Pop Happy Songs)",
   "owner": {
     "name": "Spotify",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-09-04 08:03:50",
       "album": {
-        "name": "ERROR",
-        "url": "https://open.spotify.com/album/0rOZyialXbHAA4qAKi0YaL"
-      },
-      "artists": [
-        {
-          "name": "LEE CHANHYUK",
-          "url": "https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl"
-        }
-      ],
-      "duration_ms": 198558,
-      "name": "Panorama",
-      "url": "https://open.spotify.com/track/6faF0N0fecqw3dopttNP9i"
-    },
-    {
-      "added_at": "2024-09-04 08:03:50",
-      "album": {
         "name": "Page 0",
         "url": "https://open.spotify.com/album/1MX2MhEx1G8BCiYrlSomgg"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 187360,
       "name": "Page 0",
       "url": "https://open.spotify.com/track/10X2ihhKwPyKzo89h4965O"
+    },
+    {
+      "added_at": "2024-09-04 08:03:50",
+      "album": {
+        "name": "ERROR",
+        "url": "https://open.spotify.com/album/0rOZyialXbHAA4qAKi0YaL"
+      },
+      "artists": [
+        {
+          "name": "LEE CHANHYUK",
+          "url": "https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl"
+        }
+      ],
+      "duration_ms": 198558,
+      "name": "Panorama",
+      "url": "https://open.spotify.com/track/6faF0N0fecqw3dopttNP9i"
     },
     {
       "added_at": "2024-09-04 08:03:50",
@@ -583,6 +583,22 @@
     {
       "added_at": "2024-09-04 08:03:50",
       "album": {
+        "name": "Color It",
+        "url": "https://open.spotify.com/album/5b4eIlmtGlTHfY6yPTjD75"
+      },
+      "artists": [
+        {
+          "name": "MRCH",
+          "url": "https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl"
+        }
+      ],
+      "duration_ms": 199149,
+      "name": "Color It",
+      "url": "https://open.spotify.com/track/5kFDEZPQLyyt7bvaiqPyRc"
+    },
+    {
+      "added_at": "2024-09-04 08:03:50",
+      "album": {
         "name": "Cherry Pink",
         "url": "https://open.spotify.com/album/7y70AqYlhTBHeeUucSv8WX"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 179200,
       "name": "AI (Feat. Loco)",
       "url": "https://open.spotify.com/track/6m59rcNvnRlTkzDPBCwFc3"
-    },
-    {
-      "added_at": "2024-09-04 08:03:50",
-      "album": {
-        "name": "Color It",
-        "url": "https://open.spotify.com/album/5b4eIlmtGlTHfY6yPTjD75"
-      },
-      "artists": [
-        {
-          "name": "MRCH",
-          "url": "https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl"
-        }
-      ],
-      "duration_ms": 199149,
-      "name": "Color It",
-      "url": "https://open.spotify.com/track/5kFDEZPQLyyt7bvaiqPyRc"
     },
     {
       "added_at": "2024-09-04 08:03:50",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-09-04 08:03:50",
       "album": {
-        "name": "Summer Bliss",
-        "url": "https://open.spotify.com/album/6TTyktwPBBDfsgc4ZqrjiF"
-      },
-      "artists": [
-        {
-          "name": "JinE",
-          "url": "https://open.spotify.com/artist/0GCWHNEMDSH4WQ1Ar5T5od"
-        }
-      ],
-      "duration_ms": 185739,
-      "name": "Summer Bliss",
-      "url": "https://open.spotify.com/track/1xVZxMqppn2l2kIRLSR6IN"
-    },
-    {
-      "added_at": "2024-09-04 08:03:50",
-      "album": {
         "name": "DREAMLIKE",
         "url": "https://open.spotify.com/album/2Dlvu7PCAzAHwIswgD6soZ"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 215786,
       "name": "DREAMLIKE",
       "url": "https://open.spotify.com/track/4mBSGhDX6mvp96LJbJpmnq"
+    },
+    {
+      "added_at": "2024-09-04 08:03:50",
+      "album": {
+        "name": "Summer Bliss",
+        "url": "https://open.spotify.com/album/6TTyktwPBBDfsgc4ZqrjiF"
+      },
+      "artists": [
+        {
+          "name": "JinE",
+          "url": "https://open.spotify.com/artist/0GCWHNEMDSH4WQ1Ar5T5od"
+        }
+      ],
+      "duration_ms": 185739,
+      "name": "Summer Bliss",
+      "url": "https://open.spotify.com/track/1xVZxMqppn2l2kIRLSR6IN"
     },
     {
       "added_at": "2024-09-04 08:03:50",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-09-04 08:03:50",
       "album": {
-        "name": "Beautiful Day",
-        "url": "https://open.spotify.com/album/4nuZ991ZDYu4dP5dguWHHq"
-      },
-      "artists": [
-        {
-          "name": "NavyQuokka",
-          "url": "https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW"
-        }
-      ],
-      "duration_ms": 209133,
-      "name": "Beautiful Day",
-      "url": "https://open.spotify.com/track/1E9fF3CfKjBsCGnWWysk3w"
-    },
-    {
-      "added_at": "2024-09-04 08:03:50",
-      "album": {
         "name": "Seoul Check-in OST Part 10",
         "url": "https://open.spotify.com/album/7oCrCB3pOE6zMjHLqnr1r9"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 201266,
       "name": "FREE SMILE",
       "url": "https://open.spotify.com/track/1TEv7OolmCRlF8TuZiNczt"
+    },
+    {
+      "added_at": "2024-09-04 08:03:50",
+      "album": {
+        "name": "Beautiful Day",
+        "url": "https://open.spotify.com/album/4nuZ991ZDYu4dP5dguWHHq"
+      },
+      "artists": [
+        {
+          "name": "NavyQuokka",
+          "url": "https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW"
+        }
+      ],
+      "duration_ms": 209133,
+      "name": "Beautiful Day",
+      "url": "https://open.spotify.com/track/1E9fF3CfKjBsCGnWWysk3w"
     },
     {
       "added_at": "2024-09-04 08:03:50",

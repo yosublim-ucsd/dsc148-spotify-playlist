@@ -1,6 +1,6 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 558492,
+  "num_followers": 558606,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
@@ -919,26 +919,6 @@
     {
       "added_at": "2024-08-22 23:00:00",
       "album": {
-        "name": "Friends",
-        "url": "https://open.spotify.com/album/1dHV230S6HuUq6jLe7Lwl2"
-      },
-      "artists": [
-        {
-          "name": "Naughty Boy",
-          "url": "https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5"
-        },
-        {
-          "name": "Kah-Lo",
-          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
-        }
-      ],
-      "duration_ms": 159640,
-      "name": "Friends",
-      "url": "https://open.spotify.com/track/281msnqvknsXwGvEzrrDd5"
-    },
-    {
-      "added_at": "2024-08-22 23:00:00",
-      "album": {
         "name": "Peace of Mind",
         "url": "https://open.spotify.com/album/6yF8JrEp3yBfFJptdIPLi7"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 189840,
       "name": "Peace of Mind",
       "url": "https://open.spotify.com/track/7h8qrDfxBzUGcXXiR4Jxea"
+    },
+    {
+      "added_at": "2024-08-22 23:00:00",
+      "album": {
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/1dHV230S6HuUq6jLe7Lwl2"
+      },
+      "artists": [
+        {
+          "name": "Naughty Boy",
+          "url": "https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5"
+        },
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        }
+      ],
+      "duration_ms": 159640,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/281msnqvknsXwGvEzrrDd5"
     }
   ],
   "unique_name": "Serotonin",

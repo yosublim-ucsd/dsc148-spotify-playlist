@@ -2331,6 +2331,24 @@
     },
     {
       "album": {
+        "name": "ATE THAT EP",
+        "url": "https://open.spotify.com/album/0SUJCQGGE2SMg1ziHwGFHK"
+      },
+      "artists": [
+        {
+          "name": "YOUNG POSSE",
+          "url": "https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180236,
+      "name": "ATE THAT",
+      "url": "https://open.spotify.com/track/6spCL6M22BQACNDd70Gov3"
+    },
+    {
+      "album": {
         "name": "TOYSTORY3",
         "url": "https://open.spotify.com/album/2g9x0qCPJGKzfxqrVcgrVy"
       },
@@ -11794,7 +11812,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 257687,
       "name": "I Get Lifted X Beenzino",
       "url": "https://open.spotify.com/track/0bf460G9gK1oku2Hsla0SB"
@@ -24711,6 +24729,32 @@
     },
     {
       "album": {
+        "name": "MAGIC",
+        "url": "https://open.spotify.com/album/4R6JJEwoyqf7737pEdR0iK"
+      },
+      "artists": [
+        {
+          "name": "JAEHA",
+          "url": "https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh"
+        },
+        {
+          "name": "Gist",
+          "url": "https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk"
+        },
+        {
+          "name": "TRADE L",
+          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200013,
+      "name": "TOTG (Feat. Gist, TRADE L)",
+      "url": "https://open.spotify.com/track/1lOQmHOLCNvx3z8pea2saM"
+    },
+    {
+      "album": {
         "name": "BIPOLAR",
         "url": "https://open.spotify.com/album/7jfWOLdcSrB7Q4TgRFDwXZ"
       },
@@ -26746,7 +26790,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 217906,
       "name": "What (Feat. Wonstein)",
       "url": "https://open.spotify.com/track/7J0FXQA7ZQiGVD3fKqXTdE"

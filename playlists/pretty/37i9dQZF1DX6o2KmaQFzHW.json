@@ -1,6 +1,6 @@
 {
   "description": "Cl\u00e1sicos del folklore argentino de la mano de sus m\u00e1s grandes int\u00e9rpretes. Foto: Chaque\u00f1o Palavecino.",
-  "num_followers": 190121,
+  "num_followers": 190153,
   "original_name": "Folklore de Siempre",
   "owner": {
     "name": "Spotify",
@@ -339,18 +339,18 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Serie Platino",
-        "url": "https://open.spotify.com/album/6dOjBEMjKsBu498Zxs2a5f"
+        "name": "Las Voces de Or\u00e1n",
+        "url": "https://open.spotify.com/album/6kzs4QXD6lHK3ZzuGbU5Zi"
       },
       "artists": [
         {
-          "name": "Los Chalchaleros",
-          "url": "https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw"
+          "name": "Las Voces De Or\u00e1n",
+          "url": "https://open.spotify.com/artist/4rtxMgmSUuGnQbvf61BDB8"
         }
       ],
-      "duration_ms": 225320,
-      "name": "Yo Vendo Unos Ojos Negros",
-      "url": "https://open.spotify.com/track/4dQUKpts49oFxLV1rxS2NZ"
+      "duration_ms": 130106,
+      "name": "La Chicharra Cantora",
+      "url": "https://open.spotify.com/track/3wlP4yvynVOq292A1C7jq1"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -371,18 +371,18 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Las Voces de Or\u00e1n",
-        "url": "https://open.spotify.com/album/6kzs4QXD6lHK3ZzuGbU5Zi"
+        "name": "Serie Platino",
+        "url": "https://open.spotify.com/album/6dOjBEMjKsBu498Zxs2a5f"
       },
       "artists": [
         {
-          "name": "Las Voces De Or\u00e1n",
-          "url": "https://open.spotify.com/artist/4rtxMgmSUuGnQbvf61BDB8"
+          "name": "Los Chalchaleros",
+          "url": "https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw"
         }
       ],
-      "duration_ms": 130106,
-      "name": "La Chicharra Cantora",
-      "url": "https://open.spotify.com/track/3wlP4yvynVOq292A1C7jq1"
+      "duration_ms": 225320,
+      "name": "Yo Vendo Unos Ojos Negros",
+      "url": "https://open.spotify.com/track/4dQUKpts49oFxLV1rxS2NZ"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Recordando Zambas Con Los Chalchaleros",
-        "url": "https://open.spotify.com/album/4CEzKKz2fMSjjYwXBTlbZR"
-      },
-      "artists": [
-        {
-          "name": "Los Chalchaleros",
-          "url": "https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw"
-        }
-      ],
-      "duration_ms": 214493,
-      "name": "Luna Tucumana - Remastered 2003",
-      "url": "https://open.spotify.com/track/2R85ZXoflj01lCJPWyDQZC"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Ahora",
         "url": "https://open.spotify.com/album/6QmwupG6RMQozuQy04d5NF"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 230093,
       "name": "Todo Est\u00e1 en Vos",
       "url": "https://open.spotify.com/track/3m0iTs6YcT467EhgWMequG"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Recordando Zambas Con Los Chalchaleros",
+        "url": "https://open.spotify.com/album/4CEzKKz2fMSjjYwXBTlbZR"
+      },
+      "artists": [
+        {
+          "name": "Los Chalchaleros",
+          "url": "https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw"
+        }
+      ],
+      "duration_ms": 214493,
+      "name": "Luna Tucumana - Remastered 2003",
+      "url": "https://open.spotify.com/track/2R85ZXoflj01lCJPWyDQZC"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Eternamente Tucu",
-        "url": "https://open.spotify.com/album/1V4WLmq5o6xGosgKdLpq2f"
-      },
-      "artists": [
-        {
-          "name": "Los Tucu Tucu",
-          "url": "https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU"
-        }
-      ],
-      "duration_ms": 221253,
-      "name": "Anoche No Dormi",
-      "url": "https://open.spotify.com/track/4Z6TFi9jac4qmdqeeJjVYn"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Amaneciendo",
         "url": "https://open.spotify.com/album/2mwNRP6pKKgjAAC1zSmKDF"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 247786,
       "name": "Con Todo Y Mi Tristeza",
       "url": "https://open.spotify.com/track/2JqdigoVWQNWwbPf0N9wbS"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Eternamente Tucu",
+        "url": "https://open.spotify.com/album/1V4WLmq5o6xGosgKdLpq2f"
+      },
+      "artists": [
+        {
+          "name": "Los Tucu Tucu",
+          "url": "https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU"
+        }
+      ],
+      "duration_ms": 221253,
+      "name": "Anoche No Dormi",
+      "url": "https://open.spotify.com/track/4Z6TFi9jac4qmdqeeJjVYn"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Por Hacer la Am\u00e9rica (Vol. 1)",
-        "url": "https://open.spotify.com/album/3JA3dlrGcOEaPf2ExetHIU"
-      },
-      "artists": [
-        {
-          "name": "Los 4 De Cordoba",
-          "url": "https://open.spotify.com/artist/3d3pm23Qc0Pa9v1mQqTtj2"
-        }
-      ],
-      "duration_ms": 238027,
-      "name": "Por Hacer la Am\u00e9rica",
-      "url": "https://open.spotify.com/track/1hCPK4befzCeLDdNQuYKtc"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Antig\u00fcedades (En Vivo)",
         "url": "https://open.spotify.com/album/470JBBmJHQWNHuPMDENZ2B"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 303555,
       "name": "Run Run Se Fue Pa'l Norte - En Vivo",
       "url": "https://open.spotify.com/track/5DOwZZbuM3qLU4GzCPVXYn"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Por Hacer la Am\u00e9rica (Vol. 1)",
+        "url": "https://open.spotify.com/album/3JA3dlrGcOEaPf2ExetHIU"
+      },
+      "artists": [
+        {
+          "name": "Los 4 De Cordoba",
+          "url": "https://open.spotify.com/artist/3d3pm23Qc0Pa9v1mQqTtj2"
+        }
+      ],
+      "duration_ms": 238027,
+      "name": "Por Hacer la Am\u00e9rica",
+      "url": "https://open.spotify.com/track/1hCPK4befzCeLDdNQuYKtc"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -2011,22 +2011,6 @@
       "duration_ms": 209626,
       "name": "Voy andando",
       "url": "https://open.spotify.com/track/3IShFn5CIe7b5UUGfw4g5C"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "Canci\u00f3n en Nuestra Casa",
-        "url": "https://open.spotify.com/album/4acj7Ja3ihQwCOnKvvDjuM"
-      },
-      "artists": [
-        {
-          "name": "Los 4 De Cordoba",
-          "url": "https://open.spotify.com/artist/3d3pm23Qc0Pa9v1mQqTtj2"
-        }
-      ],
-      "duration_ms": 201440,
-      "name": "Canci\u00f3n en Nuestra Casa",
-      "url": "https://open.spotify.com/track/4mNF1bgifjsoEifrRW0aZU"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -2111,22 +2095,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Musicos - Cantores Kuska (Juntos) [En Vivo]",
-        "url": "https://open.spotify.com/album/2KruPURJwzR5o8UEo9IGId"
-      },
-      "artists": [
-        {
-          "name": "Sixto Palavecino",
-          "url": "https://open.spotify.com/artist/7J3PlfvQyxabanXsQQtJf0"
-        }
-      ],
-      "duration_ms": 157805,
-      "name": "S\u00f3lo le pido a Dios - En Vivo",
-      "url": "https://open.spotify.com/track/1sCW3cwb0McvHe1RXwg1xA"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Tributo, Sus 20 Mejores Canciones",
         "url": "https://open.spotify.com/album/3XQCWyBzi6lMqpbL8GV7UZ"
       },
@@ -2143,6 +2111,38 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
+        "name": "Canci\u00f3n en Nuestra Casa",
+        "url": "https://open.spotify.com/album/4acj7Ja3ihQwCOnKvvDjuM"
+      },
+      "artists": [
+        {
+          "name": "Los 4 De Cordoba",
+          "url": "https://open.spotify.com/artist/3d3pm23Qc0Pa9v1mQqTtj2"
+        }
+      ],
+      "duration_ms": 201440,
+      "name": "Canci\u00f3n en Nuestra Casa",
+      "url": "https://open.spotify.com/track/4mNF1bgifjsoEifrRW0aZU"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Musicos - Cantores Kuska (Juntos) [En Vivo]",
+        "url": "https://open.spotify.com/album/2KruPURJwzR5o8UEo9IGId"
+      },
+      "artists": [
+        {
+          "name": "Sixto Palavecino",
+          "url": "https://open.spotify.com/artist/7J3PlfvQyxabanXsQQtJf0"
+        }
+      ],
+      "duration_ms": 157805,
+      "name": "S\u00f3lo le pido a Dios - En Vivo",
+      "url": "https://open.spotify.com/track/1sCW3cwb0McvHe1RXwg1xA"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
         "name": "La Fiesta Del Violinero",
         "url": "https://open.spotify.com/album/2DNMVVPeOmnUDUe9b8n5zC"
       },
@@ -2155,6 +2155,38 @@
       "duration_ms": 180639,
       "name": "El Olvidao",
       "url": "https://open.spotify.com/track/523zLOhskKQKBTG8GifGNB"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "El Duende De Las Guitarras",
+        "url": "https://open.spotify.com/album/2bUhI3v2S9vipV0lqPd7xk"
+      },
+      "artists": [
+        {
+          "name": "Argentino Luna",
+          "url": "https://open.spotify.com/artist/3QSFLkwEghCeYY042s6uWs"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Las Manos De Mi Madre",
+      "url": "https://open.spotify.com/track/2xWHt35XioEl0JfPSszwdQ"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Lo Mejor de Mi...",
+        "url": "https://open.spotify.com/album/4WeG5OjOKEeerTLPiZLvUB"
+      },
+      "artists": [
+        {
+          "name": "Tamara Castro",
+          "url": "https://open.spotify.com/artist/11PnNvuse5a0xPupBIeHyW"
+        }
+      ],
+      "duration_ms": 210506,
+      "name": "Zamba de Amor en Vuelo",
+      "url": "https://open.spotify.com/track/0sCOt9VKLDozDUudjMV9a5"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -2195,38 +2227,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "El Duende De Las Guitarras",
-        "url": "https://open.spotify.com/album/2bUhI3v2S9vipV0lqPd7xk"
-      },
-      "artists": [
-        {
-          "name": "Argentino Luna",
-          "url": "https://open.spotify.com/artist/3QSFLkwEghCeYY042s6uWs"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Las Manos De Mi Madre",
-      "url": "https://open.spotify.com/track/2xWHt35XioEl0JfPSszwdQ"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "Lo Mejor de Mi...",
-        "url": "https://open.spotify.com/album/4WeG5OjOKEeerTLPiZLvUB"
-      },
-      "artists": [
-        {
-          "name": "Tamara Castro",
-          "url": "https://open.spotify.com/artist/11PnNvuse5a0xPupBIeHyW"
-        }
-      ],
-      "duration_ms": 210506,
-      "name": "Zamba de Amor en Vuelo",
-      "url": "https://open.spotify.com/track/0sCOt9VKLDozDUudjMV9a5"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Tierra Colorada en el Teatro Col\u00f3n: Chango Spasiuk en Concierto (En Vivo) [En Vivo en el Teatro Col\u00f3n]",
         "url": "https://open.spotify.com/album/7x6C47bUm4asmVz4UIvl2l"
       },
@@ -2239,6 +2239,22 @@
       "duration_ms": 288866,
       "name": "Tierra Colorada - En Vivo en el Teatro Col\u00f3n",
       "url": "https://open.spotify.com/track/54Z1VfgxdIW0n19Df9r9Sy"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Tributo, Sus 20 Mejores Canciones",
+        "url": "https://open.spotify.com/album/3XQCWyBzi6lMqpbL8GV7UZ"
+      },
+      "artists": [
+        {
+          "name": "Los Tucu Tucu",
+          "url": "https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU"
+        }
+      ],
+      "duration_ms": 184546,
+      "name": "Jazm\u00edn de Luna",
+      "url": "https://open.spotify.com/track/4fbY00uU5nctQjO3xhoobi"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -2275,22 +2291,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "Tributo, Sus 20 Mejores Canciones",
-        "url": "https://open.spotify.com/album/3XQCWyBzi6lMqpbL8GV7UZ"
-      },
-      "artists": [
-        {
-          "name": "Los Tucu Tucu",
-          "url": "https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU"
-        }
-      ],
-      "duration_ms": 184546,
-      "name": "Jazm\u00edn de Luna",
-      "url": "https://open.spotify.com/track/4fbY00uU5nctQjO3xhoobi"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Los 3 Del R\u00edo",
         "url": "https://open.spotify.com/album/4BMvkK3SHicB9fj05q4s0Q"
       },
@@ -2323,22 +2323,6 @@
       "duration_ms": 150339,
       "name": "La Vida Del Chaque\u00f1o",
       "url": "https://open.spotify.com/track/3na11WHjTAUWeJ8uT2ropz"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
-        "name": "Arde la Vida",
-        "url": "https://open.spotify.com/album/5WNBaGEHkLenCuWY0Unnl1"
-      },
-      "artists": [
-        {
-          "name": "Peteco Carabajal",
-          "url": "https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT"
-        }
-      ],
-      "duration_ms": 147786,
-      "name": "Volver\u00e9 a Salavina",
-      "url": "https://open.spotify.com/track/78fIapn9oUUBk1B2wCdBJd"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -2387,6 +2371,22 @@
       "duration_ms": 250440,
       "name": "Agitando Pa\u00f1uelos",
       "url": "https://open.spotify.com/track/5UqFwtORjmHX7TF7Oqrjj8"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "Arde la Vida",
+        "url": "https://open.spotify.com/album/5WNBaGEHkLenCuWY0Unnl1"
+      },
+      "artists": [
+        {
+          "name": "Peteco Carabajal",
+          "url": "https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT"
+        }
+      ],
+      "duration_ms": 147786,
+      "name": "Volver\u00e9 a Salavina",
+      "url": "https://open.spotify.com/track/78fIapn9oUUBk1B2wCdBJd"
     },
     {
       "added_at": "2024-07-12 03:00:00",
@@ -2491,22 +2491,6 @@
     {
       "added_at": "2024-07-12 03:00:00",
       "album": {
-        "name": "El Disco de Oro, Folklore de 1940",
-        "url": "https://open.spotify.com/album/1p0g7JuBaWYvV7xzIkZI0I"
-      },
-      "artists": [
-        {
-          "name": "Vitillo Abalos",
-          "url": "https://open.spotify.com/artist/4WtlXAo5Wz2NSoN6CE3tlb"
-        }
-      ],
-      "duration_ms": 141813,
-      "name": "El Gatito de Tchaikovsky",
-      "url": "https://open.spotify.com/track/793bx9EAMbrhlJ82IgTUbl"
-    },
-    {
-      "added_at": "2024-07-12 03:00:00",
-      "album": {
         "name": "Antiguo Rezo",
         "url": "https://open.spotify.com/album/53IUPczZ1pN8hUjqvlUJS0"
       },
@@ -2523,6 +2507,22 @@
       "duration_ms": 332546,
       "name": "Zamba por la Natalia",
       "url": "https://open.spotify.com/track/7dmQjm2O3ojtzaBRtNwwEX"
+    },
+    {
+      "added_at": "2024-07-12 03:00:00",
+      "album": {
+        "name": "El Disco de Oro, Folklore de 1940",
+        "url": "https://open.spotify.com/album/1p0g7JuBaWYvV7xzIkZI0I"
+      },
+      "artists": [
+        {
+          "name": "Vitillo Abalos",
+          "url": "https://open.spotify.com/artist/4WtlXAo5Wz2NSoN6CE3tlb"
+        }
+      ],
+      "duration_ms": 141813,
+      "name": "El Gatito de Tchaikovsky",
+      "url": "https://open.spotify.com/track/793bx9EAMbrhlJ82IgTUbl"
     },
     {
       "added_at": "2024-07-12 03:00:00",

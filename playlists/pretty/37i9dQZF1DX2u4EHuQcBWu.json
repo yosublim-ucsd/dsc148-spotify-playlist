@@ -1,6 +1,6 @@
 {
   "description": "Himnos de Resistencia: Somos un pueblo fuerte que no se calla.",
-  "num_followers": 197644,
+  "num_followers": 197706,
   "original_name": "Himnos de Resistencia Latinoamericana",
   "owner": {
     "name": "Spotify",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "His Great Songs",
+        "url": "https://open.spotify.com/album/4q6egD1rqbJXSaDyoVqVZX"
+      },
+      "artists": [
+        {
+          "name": "Atahualpa Yupanqui",
+          "url": "https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b"
+        }
+      ],
+      "duration_ms": 188066,
+      "name": "Luna Tucumana",
+      "url": "https://open.spotify.com/track/7x22SRygRje0FD7A3jiYmz"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "Bolero Apocal\u00edptico (Deluxe Version)",
         "url": "https://open.spotify.com/album/6TLARwYU6FpUDAA3nxtKM0"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 241023,
       "name": "Cumbia Valiente",
       "url": "https://open.spotify.com/track/1zVN5qe5Jnqwy4Mb7Nu1Vm"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "His Great Songs",
-        "url": "https://open.spotify.com/album/4q6egD1rqbJXSaDyoVqVZX"
-      },
-      "artists": [
-        {
-          "name": "Atahualpa Yupanqui",
-          "url": "https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b"
-        }
-      ],
-      "duration_ms": 188066,
-      "name": "Luna Tucumana",
-      "url": "https://open.spotify.com/track/7x22SRygRje0FD7A3jiYmz"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Oscar Ch\u00e1vez / La M\u00e1s Completa Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/47J1O0MfeIVexX6SpIoAFv"
-      },
-      "artists": [
-        {
-          "name": "\u00d3scar Ch\u00e1vez",
-          "url": "https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb"
-        }
-      ],
-      "duration_ms": 430853,
-      "name": "La Casita",
-      "url": "https://open.spotify.com/track/7cT1pgrHFuUBgBEzvefusg"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Rock Milenium",
         "url": "https://open.spotify.com/album/7sTufh6pGV76HicANbWbSA"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 302600,
       "name": "Transgresores de la Ley",
       "url": "https://open.spotify.com/track/1tWVXH2sHASBg1W9CRObRH"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Oscar Ch\u00e1vez / La M\u00e1s Completa Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/47J1O0MfeIVexX6SpIoAFv"
+      },
+      "artists": [
+        {
+          "name": "\u00d3scar Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb"
+        }
+      ],
+      "duration_ms": 430853,
+      "name": "La Casita",
+      "url": "https://open.spotify.com/track/7cT1pgrHFuUBgBEzvefusg"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1403,22 +1403,6 @@
       "duration_ms": 284413,
       "name": "Ellas",
       "url": "https://open.spotify.com/track/5OqS4GrqPeL1EcFNxGAJ5y"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Somos Hermanas",
-        "url": "https://open.spotify.com/album/5jwDeAqliI9J5t7KXDInjK"
-      },
-      "artists": [
-        {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        }
-      ],
-      "duration_ms": 230877,
-      "name": "Somos Hermanas",
-      "url": "https://open.spotify.com/track/41THofGqCI97EnFDlPr7uZ"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1459,6 +1443,22 @@
       "duration_ms": 275327,
       "name": "Grita Tierra",
       "url": "https://open.spotify.com/track/1TbUrLorDczVuZuPz0U5lZ"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Somos Hermanas",
+        "url": "https://open.spotify.com/album/5jwDeAqliI9J5t7KXDInjK"
+      },
+      "artists": [
+        {
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+        }
+      ],
+      "duration_ms": 230877,
+      "name": "Somos Hermanas",
+      "url": "https://open.spotify.com/track/41THofGqCI97EnFDlPr7uZ"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1559,7 +1559,23 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "AMOR Hayd\u00e9e Milan\u00e9s a d\u00fao con Pablo Milan\u00e9s (EDICI\u00d3N DELUXE)",
+        "name": "Regal\u00e9 Mis Ojos",
+        "url": "https://open.spotify.com/album/5RvjjlORiYbYh5NRSoTybS"
+      },
+      "artists": [
+        {
+          "name": "Nano Stern",
+          "url": "https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X"
+        }
+      ],
+      "duration_ms": 260429,
+      "name": "Regal\u00e9 Mis Ojos",
+      "url": "https://open.spotify.com/track/0OQRpjoRZUBSN7q3VZ1znH"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Cumbia Salvaje",
         "url": "https://open.spotify.com/album/3ytIR3b4QHTDgreNs5bDzU"
       },
       "artists": [
@@ -1575,22 +1591,6 @@
       "duration_ms": 226145,
       "name": "La vida no vale nada (feat. Lila Downs)",
       "url": "https://open.spotify.com/track/2G93TASv7mpom8JIZnWbuv"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Regal\u00e9 Mis Ojos",
-        "url": "https://open.spotify.com/album/5RvjjlORiYbYh5NRSoTybS"
-      },
-      "artists": [
-        {
-          "name": "Nano Stern",
-          "url": "https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X"
-        }
-      ],
-      "duration_ms": 260429,
-      "name": "Regal\u00e9 Mis Ojos",
-      "url": "https://open.spotify.com/track/0OQRpjoRZUBSN7q3VZ1znH"
     },
     {
       "added_at": "2024-05-10 03:00:00",

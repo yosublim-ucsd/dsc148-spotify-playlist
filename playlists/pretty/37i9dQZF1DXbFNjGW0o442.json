@@ -1,6 +1,6 @@
 {
   "description": "Guerreras del rock latinoamericano. Foto: Z\u00f6elle",
-  "num_followers": 39784,
+  "num_followers": 39806,
   "original_name": "Rockeras",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-08-15 20:21:06",
       "album": {
-        "name": "Ibiza Pareo",
-        "url": "https://open.spotify.com/album/299tE0wcgpgbW7OLpoBVla"
-      },
-      "artists": [
-        {
-          "name": "Ibiza Pareo",
-          "url": "https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw"
-        }
-      ],
-      "duration_ms": 250160,
-      "name": "Arido Espejismo",
-      "url": "https://open.spotify.com/track/6JmdO4aKVXFY8qnivKklz6"
-    },
-    {
-      "added_at": "2024-08-15 20:21:06",
-      "album": {
         "name": "Mentiras",
         "url": "https://open.spotify.com/album/7oCLObV17HUtRMsCLL0nXV"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 262057,
       "name": "Esto Que Me Pasa",
       "url": "https://open.spotify.com/track/5nD0dT4XNG1ocl3I1V7GcX"
+    },
+    {
+      "added_at": "2024-08-15 20:21:06",
+      "album": {
+        "name": "Ibiza Pareo",
+        "url": "https://open.spotify.com/album/299tE0wcgpgbW7OLpoBVla"
+      },
+      "artists": [
+        {
+          "name": "Ibiza Pareo",
+          "url": "https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw"
+        }
+      ],
+      "duration_ms": 250160,
+      "name": "Arido Espejismo",
+      "url": "https://open.spotify.com/track/6JmdO4aKVXFY8qnivKklz6"
     },
     {
       "added_at": "2024-08-15 20:21:06",
@@ -747,6 +747,22 @@
     {
       "added_at": "2024-08-15 20:21:06",
       "album": {
+        "name": "Viaje al M\u00e1s Ac\u00e1 (Remastered 2020)",
+        "url": "https://open.spotify.com/album/5ZKr5xm8fTRcD7dwKbytet"
+      },
+      "artists": [
+        {
+          "name": "Metr\u00f3poli",
+          "url": "https://open.spotify.com/artist/03COuk5mSMWgxx8z9NlyE2"
+        }
+      ],
+      "duration_ms": 192811,
+      "name": "H\u00e9roes An\u00f3nimos",
+      "url": "https://open.spotify.com/track/5uuj0ZYfPi6cZJASUfax2B"
+    },
+    {
+      "added_at": "2024-08-15 20:21:06",
+      "album": {
         "name": "Arde",
         "url": "https://open.spotify.com/album/6g9EGDsax2ZfUDOwpuaYy7"
       },
@@ -763,18 +779,18 @@
     {
       "added_at": "2024-08-15 20:21:06",
       "album": {
-        "name": "Viaje al M\u00e1s Ac\u00e1 (Remastered 2020)",
-        "url": "https://open.spotify.com/album/5ZKr5xm8fTRcD7dwKbytet"
+        "name": "Una Pel\u00edcula",
+        "url": "https://open.spotify.com/album/58RLjuIJ93fInTzSvKHoIu"
       },
       "artists": [
         {
-          "name": "Metr\u00f3poli",
-          "url": "https://open.spotify.com/artist/03COuk5mSMWgxx8z9NlyE2"
+          "name": "Mar\u00eda Pien",
+          "url": "https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY"
         }
       ],
-      "duration_ms": 192811,
-      "name": "H\u00e9roes An\u00f3nimos",
-      "url": "https://open.spotify.com/track/5uuj0ZYfPi6cZJASUfax2B"
+      "duration_ms": 320167,
+      "name": "Una Pel\u00edcula",
+      "url": "https://open.spotify.com/track/3TIy0IH3GIA331EKFxKfdm"
     },
     {
       "added_at": "2024-08-15 20:21:06",
@@ -811,22 +827,6 @@
       "duration_ms": 176528,
       "name": "Ego",
       "url": "https://open.spotify.com/track/14ftM04cOvRswUMx8IKaY3"
-    },
-    {
-      "added_at": "2024-08-15 20:21:06",
-      "album": {
-        "name": "Una Pel\u00edcula",
-        "url": "https://open.spotify.com/album/58RLjuIJ93fInTzSvKHoIu"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Pien",
-          "url": "https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY"
-        }
-      ],
-      "duration_ms": 320167,
-      "name": "Una Pel\u00edcula",
-      "url": "https://open.spotify.com/track/3TIy0IH3GIA331EKFxKfdm"
     },
     {
       "added_at": "2024-08-15 20:21:06",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-08-15 20:21:06",
       "album": {
-        "name": "Volar despierto",
-        "url": "https://open.spotify.com/album/3TM68qkX9UrcgTgldIv3AR"
-      },
-      "artists": [
-        {
-          "name": "Denise Romano",
-          "url": "https://open.spotify.com/artist/2cHtJkqOlkQRN852cWpkxx"
-        }
-      ],
-      "duration_ms": 246357,
-      "name": "Volar despierto",
-      "url": "https://open.spotify.com/track/7zMQOuTqy9Kzo6krB6neE9"
-    },
-    {
-      "added_at": "2024-08-15 20:21:06",
-      "album": {
         "name": "Somos",
         "url": "https://open.spotify.com/album/1e1rVTTSCgPWMvkhJLZ8Ik"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 180680,
       "name": "Somos",
       "url": "https://open.spotify.com/track/02s5vAzBU4NodaEq3JIdJr"
+    },
+    {
+      "added_at": "2024-08-15 20:21:06",
+      "album": {
+        "name": "Volar despierto",
+        "url": "https://open.spotify.com/album/3TM68qkX9UrcgTgldIv3AR"
+      },
+      "artists": [
+        {
+          "name": "Denise Romano",
+          "url": "https://open.spotify.com/artist/2cHtJkqOlkQRN852cWpkxx"
+        }
+      ],
+      "duration_ms": 246357,
+      "name": "Volar despierto",
+      "url": "https://open.spotify.com/track/7zMQOuTqy9Kzo6krB6neE9"
     },
     {
       "added_at": "2024-08-15 20:21:06",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2024-08-15 20:21:06",
       "album": {
+        "name": "Hora de No Ver",
+        "url": "https://open.spotify.com/album/7vV8Ye5scpEoP8SsEQvXnR"
+      },
+      "artists": [
+        {
+          "name": "Suarez",
+          "url": "https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n"
+        }
+      ],
+      "duration_ms": 191559,
+      "name": "Morir\u00edan",
+      "url": "https://open.spotify.com/track/53JVw942AQvbqqDy8DqtaN"
+    },
+    {
+      "added_at": "2024-08-15 20:21:06",
+      "album": {
         "name": "Un Dios Nuevo",
         "url": "https://open.spotify.com/album/0Fjiq4GdADJx3I3tVPD1Ll"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 244697,
       "name": "Hay que Creer en Algo",
       "url": "https://open.spotify.com/track/6rYcyDesF9ZlScEaeGq9QA"
-    },
-    {
-      "added_at": "2024-08-15 20:21:06",
-      "album": {
-        "name": "Hora de No Ver",
-        "url": "https://open.spotify.com/album/7vV8Ye5scpEoP8SsEQvXnR"
-      },
-      "artists": [
-        {
-          "name": "Suarez",
-          "url": "https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n"
-        }
-      ],
-      "duration_ms": 191559,
-      "name": "Morir\u00edan",
-      "url": "https://open.spotify.com/track/53JVw942AQvbqqDy8DqtaN"
     },
     {
       "added_at": "2024-08-15 20:21:06",
@@ -1207,38 +1207,6 @@
     {
       "added_at": "2024-08-15 20:21:06",
       "album": {
-        "name": "Promesa",
-        "url": "https://open.spotify.com/album/3lDnDC0ArBlmTpSzJHPNDO"
-      },
-      "artists": [
-        {
-          "name": "Maria Durante",
-          "url": "https://open.spotify.com/artist/6B4Tjeum0gQN48UJWgtnRx"
-        }
-      ],
-      "duration_ms": 208689,
-      "name": "Promesa",
-      "url": "https://open.spotify.com/track/2wzCZ1ol8EPdtSDZ0Zoa48"
-    },
-    {
-      "added_at": "2024-08-15 20:21:06",
-      "album": {
-        "name": "Ghost In The Machine",
-        "url": "https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi"
-      },
-      "artists": [
-        {
-          "name": "Marion Raw",
-          "url": "https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj"
-        }
-      ],
-      "duration_ms": 232975,
-      "name": "Unfuckable",
-      "url": "https://open.spotify.com/track/0reeyWnqibeD6hgYHwVA7C"
-    },
-    {
-      "added_at": "2024-08-15 20:21:06",
-      "album": {
         "name": "Por Mil Noches",
         "url": "https://open.spotify.com/album/0Nifxl170FafOSFrdYgq4d"
       },
@@ -1255,6 +1223,22 @@
     {
       "added_at": "2024-08-15 20:21:06",
       "album": {
+        "name": "Promesa",
+        "url": "https://open.spotify.com/album/3lDnDC0ArBlmTpSzJHPNDO"
+      },
+      "artists": [
+        {
+          "name": "Maria Durante",
+          "url": "https://open.spotify.com/artist/6B4Tjeum0gQN48UJWgtnRx"
+        }
+      ],
+      "duration_ms": 208689,
+      "name": "Promesa",
+      "url": "https://open.spotify.com/track/2wzCZ1ol8EPdtSDZ0Zoa48"
+    },
+    {
+      "added_at": "2024-08-15 20:21:06",
+      "album": {
         "name": "Cuando el sol est\u00e1 as\u00ed",
         "url": "https://open.spotify.com/album/6rM8uPZagSb9CwaBZepDi8"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 230988,
       "name": "Cuando el sol est\u00e1 as\u00ed",
       "url": "https://open.spotify.com/track/328VGo9M8zoespJRuWNpfJ"
+    },
+    {
+      "added_at": "2024-08-15 20:21:06",
+      "album": {
+        "name": "Ghost In The Machine",
+        "url": "https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi"
+      },
+      "artists": [
+        {
+          "name": "Marion Raw",
+          "url": "https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj"
+        }
+      ],
+      "duration_ms": 232975,
+      "name": "Unfuckable",
+      "url": "https://open.spotify.com/track/0reeyWnqibeD6hgYHwVA7C"
     },
     {
       "added_at": "2024-08-15 20:21:06",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-08-15 20:21:06",
       "album": {
-        "name": "Atasco",
-        "url": "https://open.spotify.com/album/5Yh2mHQcwx2NdSLIDGgzbr"
-      },
-      "artists": [
-        {
-          "name": "Lisasinson",
-          "url": "https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32"
-        }
-      ],
-      "duration_ms": 226195,
-      "name": "Atasco",
-      "url": "https://open.spotify.com/track/7hIpozpqki8Lnpu2WwsQ86"
-    },
-    {
-      "added_at": "2024-08-15 20:21:06",
-      "album": {
         "name": "La G\u00e9nesis",
         "url": "https://open.spotify.com/album/7INDQXcbx1ybFp6flr2bah"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 266080,
       "name": "G\u00e9nesis",
       "url": "https://open.spotify.com/track/2Xx1vZX9UEBnwx11RfiElg"
+    },
+    {
+      "added_at": "2024-08-15 20:21:06",
+      "album": {
+        "name": "Atasco",
+        "url": "https://open.spotify.com/album/5Yh2mHQcwx2NdSLIDGgzbr"
+      },
+      "artists": [
+        {
+          "name": "Lisasinson",
+          "url": "https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32"
+        }
+      ],
+      "duration_ms": 226195,
+      "name": "Atasco",
+      "url": "https://open.spotify.com/track/7hIpozpqki8Lnpu2WwsQ86"
     },
     {
       "added_at": "2024-08-15 20:21:06",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-08-15 20:21:06",
       "album": {
-        "name": "Cronos",
-        "url": "https://open.spotify.com/album/00VsknyMSfgH3hE4fHoLjH"
-      },
-      "artists": [
-        {
-          "name": "Carmen S\u00e1nchez Viamonte",
-          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
-        }
-      ],
-      "duration_ms": 229750,
-      "name": "Cronos",
-      "url": "https://open.spotify.com/track/6HWgKKrdh2aaYiqWDyJmZe"
-    },
-    {
-      "added_at": "2024-08-15 20:21:06",
-      "album": {
         "name": "Juego",
         "url": "https://open.spotify.com/album/0Ne1rhsv5UKWtR9zF0f1LU"
       },
@@ -1543,18 +1527,18 @@
     {
       "added_at": "2024-08-15 20:21:06",
       "album": {
-        "name": "Quieta",
-        "url": "https://open.spotify.com/album/0Dyr2BVWw6iFWwBRiP2OIu"
+        "name": "Cronos",
+        "url": "https://open.spotify.com/album/00VsknyMSfgH3hE4fHoLjH"
       },
       "artists": [
         {
-          "name": "Escorpia",
-          "url": "https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv"
+          "name": "Carmen S\u00e1nchez Viamonte",
+          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
         }
       ],
-      "duration_ms": 175957,
-      "name": "Quieta",
-      "url": "https://open.spotify.com/track/0nGXKHrGuaLBSAp7hJAEE6"
+      "duration_ms": 229750,
+      "name": "Cronos",
+      "url": "https://open.spotify.com/track/6HWgKKrdh2aaYiqWDyJmZe"
     },
     {
       "added_at": "2024-08-15 20:21:06",
@@ -1575,6 +1559,22 @@
     {
       "added_at": "2024-08-15 20:21:06",
       "album": {
+        "name": "Hasta Abajo - Ep",
+        "url": "https://open.spotify.com/album/29alHfZaRhQyIYWv2Ug8mg"
+      },
+      "artists": [
+        {
+          "name": "Violeta Castillo",
+          "url": "https://open.spotify.com/artist/2NtYHfTFxDUWZcQAxJBzhe"
+        }
+      ],
+      "duration_ms": 345723,
+      "name": "Las Se\u00f1ales",
+      "url": "https://open.spotify.com/track/0SGP9BI4GBOCISPNlE51sJ"
+    },
+    {
+      "added_at": "2024-08-15 20:21:06",
+      "album": {
         "name": "Arder",
         "url": "https://open.spotify.com/album/7oys3rJDdOuR7TclhkceCG"
       },
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2024-08-15 20:21:06",
       "album": {
-        "name": "Hasta Abajo - Ep",
-        "url": "https://open.spotify.com/album/29alHfZaRhQyIYWv2Ug8mg"
+        "name": "Quieta",
+        "url": "https://open.spotify.com/album/0Dyr2BVWw6iFWwBRiP2OIu"
       },
       "artists": [
         {
-          "name": "Violeta Castillo",
-          "url": "https://open.spotify.com/artist/2NtYHfTFxDUWZcQAxJBzhe"
+          "name": "Escorpia",
+          "url": "https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv"
         }
       ],
-      "duration_ms": 345723,
-      "name": "Las Se\u00f1ales",
-      "url": "https://open.spotify.com/track/0SGP9BI4GBOCISPNlE51sJ"
+      "duration_ms": 175957,
+      "name": "Quieta",
+      "url": "https://open.spotify.com/track/0nGXKHrGuaLBSAp7hJAEE6"
     },
     {
       "added_at": "2024-08-15 20:21:06",

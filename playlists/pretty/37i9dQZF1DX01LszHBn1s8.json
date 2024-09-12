@@ -1,12 +1,12 @@
 {
   "description": "i just wanna be part of your symphony",
-  "num_followers": 264472,
+  "num_followers": 264445,
   "original_name": "pov",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtdxjgAAAADn4ywyG8My1N5P67bfd3ny",
+  "snapshot_id": "ZuFW7QAAAADl7pmnnJdTqtayZ5SZ9Fjj",
   "tracks": [
     {
       "added_at": "2024-08-23 13:28:56",
@@ -163,6 +163,22 @@
       "duration_ms": 143330,
       "name": "Guess featuring Billie Eilish",
       "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
+    },
+    {
+      "added_at": "2024-09-11 08:38:05",
+      "album": {
+        "name": "Timeless - Deluxe",
+        "url": "https://open.spotify.com/album/7mePeoRszpMqgvTAc9uRY0"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 154504,
+      "name": "Criminals",
+      "url": "https://open.spotify.com/track/1gMFAi2auKTgHsYH7nIBhv"
     },
     {
       "added_at": "2024-08-15 08:57:47",
@@ -10407,7 +10423,7 @@
     {
       "added_at": "2024-08-15 08:57:47",
       "album": {
-        "name": "Talking Dreams (Deluxe Edition)",
+        "name": "Talking Dreams - Deluxe Edition",
         "url": "https://open.spotify.com/album/1oHY6eQmEG8skElDvFgKz2"
       },
       "artists": [

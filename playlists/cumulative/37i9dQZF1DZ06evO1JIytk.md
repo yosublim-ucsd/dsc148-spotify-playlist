@@ -2,7 +2,7 @@
 
 ### [This Is Anti\-Flag](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1JIytk)
 
-> This is Anti\-Flag\. The essential tracks, all in one playlist.
+> This is: Anti\-Flag\. Alle wichtigen Tracks in einer Playlist.
 
 119 songs - 5 hr 28 min
 
@@ -71,7 +71,7 @@
 | [Racists](https://open.spotify.com/track/3Y24Ja1ZRzfFsGEOJ7nnHt) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Fall](https://open.spotify.com/album/55oNSkAEaPPS1PnSZimhts) | 3:20 | 2023-05-17 |  |
 | [Rank\-n\-File](https://open.spotify.com/track/1lcSbWCkd56TB7NPedWPDs) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The Terror State](https://open.spotify.com/album/1GHpqoqOxKzUBpHeUcWShP) | 3:46 | 2022-09-18 | 2023-09-16 |
 | [Red, White & Brainwashed](https://open.spotify.com/track/3il4RxV7W7xZFM6AMVXAhm) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Die for the Government](https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP) | 1:51 | 2023-09-15 |  |
-| [Resist](https://open.spotify.com/track/5SDBuRLFSNLozSze4a9c0G) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The General Strike](https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw) | 1:02 | 2024-02-24 |  |
+| [Resist](https://open.spotify.com/track/5SDBuRLFSNLozSze4a9c0G) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The General Strike](https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw) | 1:02 | 2024-02-24 | 2024-09-12 |
 | [Right On](https://open.spotify.com/track/0GsnorDMZ6mbINFtcHHZbY) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [A New Kind of Army](https://open.spotify.com/album/1Y0Z1edYpuumeeELWdseMv) | 1:22 | 2024-05-24 | 2024-07-20 |
 | [SHALLOW GRAVES \(feat\. Tré Burt\)](https://open.spotify.com/track/3l1jIZoo78aare2oxn8OjI) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [LIES THEY TELL OUR CHILDREN](https://open.spotify.com/album/0y6Yl2xeyimgGJvIt2aNbk) | 2:30 | 2023-04-10 | 2023-05-17 |
 | [SHALLOW GRAVES \(feat\. Tré Burt\)](https://open.spotify.com/track/73cjHHahioDVocCvdDcre2) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [LIES THEY TELL OUR CHILDREN](https://open.spotify.com/album/2BM1TbbHbKLqcKmrmqS2aQ) | 2:30 | 2023-01-07 | 2023-04-10 |
@@ -107,7 +107,7 @@
 | [This Machine Kills Fascists](https://open.spotify.com/track/1ZFpMCNOL0IMqNRcOHE5e9) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Underground Network](https://open.spotify.com/album/0b1MZPPx0PqnAs6oiYPUpg) | 1:38 | 2022-09-16 | 2023-09-16 |
 | [Throw It Away](https://open.spotify.com/track/5G9WBRnU2CVOfRtykUk8XQ) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Fall](https://open.spotify.com/album/2zcRMvP3i0me9zZqp61JF9) | 2:49 | 2022-09-16 | 2022-12-24 |
 | [Trouble Follows Me](https://open.spotify.com/track/5INOUHACgzsc79cRSdpRIN) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Fall](https://open.spotify.com/album/2zcRMvP3i0me9zZqp61JF9) | 3:09 | 2022-09-20 | 2022-10-12 |
-| [Turn a Blind Eye](https://open.spotify.com/track/7qQozeAd8GtiiQgisLoRKc) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The General Strike](https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw) | 1:19 | 2024-01-21 | 2024-01-25 |
+| [Turn a Blind Eye](https://open.spotify.com/track/7qQozeAd8GtiiQgisLoRKc) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The General Strike](https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw) | 1:19 | 2024-01-21 |  |
 | [Turn Your Back With Anti\-Flag](https://open.spotify.com/track/4hnR3vkREdoAIk5AMIp1E8) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg), [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Turn Your Back With Anti\-Flag](https://open.spotify.com/album/7td1jC31dkN3AEfY2dosxZ) | 3:24 | 2022-09-16 | 2024-02-25 |
 | [Turncoat](https://open.spotify.com/track/3HA8pLvjBGoBpDJbaLjFNo) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The Terror State](https://open.spotify.com/album/1GHpqoqOxKzUBpHeUcWShP) | 2:10 | 2022-09-16 | 2023-09-16 |
 | [Turncoat](https://open.spotify.com/track/2NhWy78EzqDTNbWCe8R5Us) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Complete Control Sessions](https://open.spotify.com/album/7sKPLjegUKYQewu3ytf0Si) | 2:17 | 2023-09-15 |  |

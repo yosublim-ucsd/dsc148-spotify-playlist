@@ -4,7 +4,7 @@
 
 > Música tranquila para evadirse.
 
-290 songs - 16 hr 49 min
+291 songs - 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Como Viene Se Va](https://open.spotify.com/track/38k03LCyZORAjGAWg1o18B) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [TANDA](https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq) | 4:00 | 2024-04-11 |  |
 | [Confitados \(feat\. El Kanka\)](https://open.spotify.com/track/7MQsvYlWeJUnMuY84MraBg) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Confitados \(feat\. El Kanka\)](https://open.spotify.com/album/0ol8B8mnMgdkTJCR3ipqQx) | 3:16 | 2023-12-28 | 2024-05-03 |
 | [Conversations in the Dark](https://open.spotify.com/track/6TYlDTa9AQDvjqwbxlvFyI) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Conversations in the Dark](https://open.spotify.com/album/5LVi2qET36RvkLil7mJclb) | 3:57 | 2022-11-11 |  |
-| [Cruzando el Charco](https://open.spotify.com/track/4XPxyC1PRjZzPip0PRRkKO) | [Marilia Monzón](https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93) | [Cruzando el Charco](https://open.spotify.com/album/5i4yms2HXGAn5FW3Up5H3N) | 3:10 | 2024-06-06 |  |
+| [Cruzando el Charco](https://open.spotify.com/track/4XPxyC1PRjZzPip0PRRkKO) | [Marilia Monzón](https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93) | [Cruzando el Charco](https://open.spotify.com/album/5i4yms2HXGAn5FW3Up5H3N) | 3:10 | 2024-06-06 | 2024-09-12 |
 | [Delicate](https://open.spotify.com/track/5mb6SzBnxv1ywFSH9V3uxd) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 5:12 | 2023-10-26 | 2024-04-19 |
 | [Delicate](https://open.spotify.com/track/6MY1xABxoZATrEr4FeUhEM) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/3ADELRoZ4I8WLE7clLU7La) | 5:12 | 2024-04-11 |  |
 | [Derramar](https://open.spotify.com/track/3LUGhSGsZfa1Xk6LQ8VIcQ) | [Anselmos](https://open.spotify.com/artist/2uUuNmTYEBiQEB5qOWbAHO) | [Derramar](https://open.spotify.com/album/2liWoQ8Iu9AfbRsLI1RRcr) | 3:42 | 2023-06-09 |  |
@@ -286,6 +286,7 @@
 | [Una y otra vez](https://open.spotify.com/track/7jBP3I3IuxxPEvbsBJypdZ) | [Lou Cornago](https://open.spotify.com/artist/71QLvXvl9jdkFiGzLIwh9v) | [Una y otra vez](https://open.spotify.com/album/26wOMg1h4v6nqQzXng3n9T) | 3:10 | 2024-04-11 |  |
 | [Unchained Melody](https://open.spotify.com/track/2eH4LAMhD20bl8tQseKckb) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Unchained Melody](https://open.spotify.com/album/7BKTOFQtwCo78sCpM7woOG) | 2:36 | 2023-03-30 |  |
 | [Unspoken](https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn) | [Aaron Smith](https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl) | [Unspoken](https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt) | 3:30 | 2024-04-11 |  |
+| [Vete Por Ahí \(feat\. Irenegarry\)](https://open.spotify.com/track/28EsJpm5RRLjVFRAp0AmIZ) | [Penélope](https://open.spotify.com/artist/6SHQwrGBd6PmgME2zFXNtr), [Irenegarry](https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB) | [Vete Por Ahí \(feat\. Irenegarry\)](https://open.spotify.com/album/41GaP5r3xPbSu0rZpzCIlr) | 3:20 | 2024-08-23 |  |
 | [VOLCANITO DORMIDO](https://open.spotify.com/track/4y4ZvtUZbm9hoB9hDBCfN2) | [Tórtel](https://open.spotify.com/artist/7tLkQje1Hr44cnNKqS06w9), [fffflashback](https://open.spotify.com/artist/0FQTy3xRVBrOBtijHUp4U1) | [VOLCANITO DORMIDO](https://open.spotify.com/album/5BEd1syiQ3S1vdZq6i66KZ) | 2:23 | 2024-02-08 | 2024-03-15 |
 | [Waiting In Vain \- Bob Marley: One Love \- Music Inspired By The Film](https://open.spotify.com/track/66TTutUCqCpAzGCBcsBuYy) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Waiting In Vain \(Bob Marley: One Love \- Music Inspired By The Film\)](https://open.spotify.com/album/6ZKGdyXuM5z1nYuCx6YjWP) | 5:01 | 2024-02-08 | 2024-06-22 |
 | [Wishing Well](https://open.spotify.com/track/7DKNr6w1S807VC3DIsFGTK) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Wishing Well](https://open.spotify.com/album/1sDJd52CG9r5lYy7D7ir48) | 4:04 | 2024-03-07 | 2024-05-03 |

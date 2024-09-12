@@ -1,12 +1,12 @@
 {
   "description": "This is Doechii. The essential tracks, all in one playlist.",
-  "num_followers": 11559,
+  "num_followers": 11606,
   "original_name": "This Is Doechii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zt46gAAAAACsJaLJgYC/+u4Efc7TM6GY",
+  "snapshot_id": "Zt+MAAAAAACVvJ4JepDIzeLk5EYO4d5j",
   "tracks": [
     {
       "added_at": null,
@@ -599,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Girls",
-        "url": "https://open.spotify.com/album/1Y8LXsmhhG4XtEo150UCo9"
+        "name": "she / her / black bitch",
+        "url": "https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 317257,
-      "name": "Girls",
-      "url": "https://open.spotify.com/track/7zV60o01JXW3Hff1xgTHOX"
+      "duration_ms": 101040,
+      "name": "This Bitch Matters",
+      "url": "https://open.spotify.com/track/6o7XKljPp21NuqMwqAcDRP"
     },
     {
       "added_at": null,
@@ -631,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "she / her / black bitch",
-        "url": "https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb"
+        "name": "Girls",
+        "url": "https://open.spotify.com/album/1Y8LXsmhhG4XtEo150UCo9"
       },
       "artists": [
         {
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 101040,
-      "name": "This Bitch Matters",
-      "url": "https://open.spotify.com/track/6o7XKljPp21NuqMwqAcDRP"
+      "duration_ms": 317257,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/7zV60o01JXW3Hff1xgTHOX"
     },
     {
       "added_at": null,

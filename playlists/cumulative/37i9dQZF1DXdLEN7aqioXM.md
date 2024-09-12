@@ -4,7 +4,7 @@
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-482 songs - 1 day 10 hr 26 min
+483 songs - 1 day 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Breathe](https://open.spotify.com/track/7c2p2sUWE5gBMlXIFITBJG) | [Ace Buchannon](https://open.spotify.com/artist/0siwLM5U6RGrHmTclF15rb) | [Breathe](https://open.spotify.com/album/1bfAbOA2tIrr9RHx1WDprw) | 4:00 | 2023-10-23 |  |
 | [Breathe](https://open.spotify.com/track/1wdLaeNn73zbpYVqw8mlYz) | [Coastal](https://open.spotify.com/artist/54Eehq7Ls4ZXE8pdTTPClj) | [Breathe](https://open.spotify.com/album/7K3KhtyrxHyaMXO5YlB6in) | 3:48 | 2021-10-15 | 2022-07-28 |
 | [Burn It Down \- Rework](https://open.spotify.com/track/3Is5Q2dJMMVXviLh9PmOXD) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Burn It Down \- Rework](https://open.spotify.com/album/1Bj2waZd2HdJrWChKrQJ1F) | 4:16 | 2022-09-30 | 2022-12-17 |
+| [Chariot](https://open.spotify.com/track/7LRx0xmYQqpWPaBsTUWzC2) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Chariot](https://open.spotify.com/album/0PfC70uRWNCjhgJwHZ1uNb) | 4:25 | 2024-09-11 |  |
 | [Chauma](https://open.spotify.com/track/46U7cjUbIwsMr6XwlEcE35) | [pothOles](https://open.spotify.com/artist/4FsQtPo1pvWq2GKKcKXyRH) | [Chauma](https://open.spotify.com/album/38umTMbcj2n8RB7COoIr18) | 4:50 | 2022-02-04 | 2023-10-24 |
 | [Choose Love \- Gerd Janson Remix](https://open.spotify.com/track/6v5cHVwMYQMDvAIlfr2Kwa) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Choose Love \(Gerd Janson Remix\)](https://open.spotify.com/album/4zYngChJ5qPNtbxb6Z3MSo) | 3:44 | 2022-04-01 | 2022-04-16 |
 | [City Lights](https://open.spotify.com/track/0LiyqVSNN07YMBKdnPhI8A) | [FM Attack](https://open.spotify.com/artist/6nPggL1KGOD5Ba0yK0cxmb) | [City Lights](https://open.spotify.com/album/3mw1X0nqWBSSWlGrbBYkCc) | 3:20 | 2022-07-29 |  |
@@ -465,7 +466,7 @@
 | [Universalis](https://open.spotify.com/track/6atY0RDzRUDd4HFi7ttaDs) | [Peshay](https://open.spotify.com/artist/07ogfrunSUmnsEsPQdRQUB), [VSY](https://open.spotify.com/artist/7nUVCYVFeFP4gKdNEjhcoS) | [Universalis](https://open.spotify.com/album/1Jz4Pat434iCabuHTDRgba) | 8:52 | 2022-04-01 | 2022-04-20 |
 | [UNIX 82](https://open.spotify.com/track/2sMHHYFv6nOLVhQO5RKRpL) | [Ben Elson](https://open.spotify.com/artist/1OuL8Cuw5Ed403k0dUnloa) | [Space Waves](https://open.spotify.com/album/7zuSBEmYo1iPEdQkyZEroD) | 2:48 | 2023-06-30 |  |
 | [Vahiné](https://open.spotify.com/track/26v6llTYEHKniedyvmjizX) | [Zimmer](https://open.spotify.com/artist/2pts5B2shsEtIVC4onTFKb), [Antoine Lang](https://open.spotify.com/artist/6VzqME1rYw3Wo30KRu5ncz) | [Amour](https://open.spotify.com/album/6CXuOOz7PsLFqEJ26tNEJ4) | 3:49 | 2022-11-11 | 2022-12-10 |
-| [Vertical Horizon](https://open.spotify.com/track/2zveRTYGSSfFbqePG6hv3n) | [BLANCAh](https://open.spotify.com/artist/2UlGQzanOYozGMseJ8qBRz) | [Vertical Horizon](https://open.spotify.com/album/2UBOmzhzVWQkC93x1uUHGg) | 8:01 | 2023-10-27 |  |
+| [Vertical Horizon](https://open.spotify.com/track/2zveRTYGSSfFbqePG6hv3n) | [BLANCAh](https://open.spotify.com/artist/2UlGQzanOYozGMseJ8qBRz) | [Vertical Horizon](https://open.spotify.com/album/2UBOmzhzVWQkC93x1uUHGg) | 8:01 | 2023-10-27 | 2024-09-12 |
 | [Victory \(Credits\)](https://open.spotify.com/track/617YOhywR7gXFM5ltHDzU7) | [Kalax](https://open.spotify.com/artist/2o88SjmtVVVyCmTGCuSPoY) | [Outlands](https://open.spotify.com/album/3d410CCpB6wVI4e7JHgZeH) | 4:47 | 2022-04-01 | 2022-07-27 |
 | [Video Knights](https://open.spotify.com/track/7EKCNfwAqGTCyh0u5IrJ7u) | [spring gang](https://open.spotify.com/artist/5MwxRYT0ZWOpQQBPktD0Rf) | [Video Knights](https://open.spotify.com/album/4vpYAUcFWqteJtyu0imsqb) | 4:12 | 2023-11-27 |  |
 | [Visitors](https://open.spotify.com/track/3zT42LxWW5YUFEZDukGp5x) | [Idrissi](https://open.spotify.com/artist/5KYjLxvBWL3P087kSFs3QF) | [Visitors](https://open.spotify.com/album/3pkzUcBrWi0QwOIvmsYEP0) | 6:14 | 2021-10-15 | 2022-08-14 |

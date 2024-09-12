@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 158108,
+  "num_followers": 158156,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -255,18 +255,22 @@
     {
       "added_at": "2024-09-05 23:00:00",
       "album": {
-        "name": "Don't Stop",
-        "url": "https://open.spotify.com/album/0PPTQ6w442u34twxct76hc"
+        "name": "Lose Control (feat. Grace Barton)",
+        "url": "https://open.spotify.com/album/11nJjItPfqK8eoJKo18QNY"
       },
       "artists": [
         {
-          "name": "MUZZ",
-          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
+          "name": "T & Sugah",
+          "url": "https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH"
+        },
+        {
+          "name": "Grace Barton",
+          "url": "https://open.spotify.com/artist/6sliIMvgGGdk8GRPD2FwMx"
         }
       ],
-      "duration_ms": 176914,
-      "name": "Don't Stop",
-      "url": "https://open.spotify.com/track/77Dn9E3WFNMzZGq7K1J6rR"
+      "duration_ms": 191725,
+      "name": "Lose Control (feat. Grace Barton)",
+      "url": "https://open.spotify.com/track/3PXTbB4RjSIPW8LiDrHHrd"
     },
     {
       "added_at": "2024-09-05 23:00:00",
@@ -387,22 +391,18 @@
     {
       "added_at": "2024-09-05 23:00:00",
       "album": {
-        "name": "Lose Control (feat. Grace Barton)",
-        "url": "https://open.spotify.com/album/11nJjItPfqK8eoJKo18QNY"
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/0PPTQ6w442u34twxct76hc"
       },
       "artists": [
         {
-          "name": "T & Sugah",
-          "url": "https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH"
-        },
-        {
-          "name": "Grace Barton",
-          "url": "https://open.spotify.com/artist/6sliIMvgGGdk8GRPD2FwMx"
+          "name": "MUZZ",
+          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
         }
       ],
-      "duration_ms": 191725,
-      "name": "Lose Control (feat. Grace Barton)",
-      "url": "https://open.spotify.com/track/3PXTbB4RjSIPW8LiDrHHrd"
+      "duration_ms": 176914,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/77Dn9E3WFNMzZGq7K1J6rR"
     },
     {
       "added_at": "2024-09-05 23:00:00",
@@ -803,26 +803,6 @@
     {
       "added_at": "2024-09-05 23:00:00",
       "album": {
-        "name": "Savage",
-        "url": "https://open.spotify.com/album/6wTizwMekuDFKmDejb1z3S"
-      },
-      "artists": [
-        {
-          "name": "Freaks & Geeks",
-          "url": "https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU"
-        },
-        {
-          "name": "Mila Falls",
-          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Savage",
-      "url": "https://open.spotify.com/track/04fBENQTDO2gM8NRVNRf4e"
-    },
-    {
-      "added_at": "2024-09-05 23:00:00",
-      "album": {
         "name": "FORWARDS",
         "url": "https://open.spotify.com/album/4jODo10Bdrr47NGz6PvGf4"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 253371,
       "name": "SECRETS",
       "url": "https://open.spotify.com/track/2MHfZtevUlcxFLbyhtT4Q3"
+    },
+    {
+      "added_at": "2024-09-05 23:00:00",
+      "album": {
+        "name": "Savage",
+        "url": "https://open.spotify.com/album/6wTizwMekuDFKmDejb1z3S"
+      },
+      "artists": [
+        {
+          "name": "Freaks & Geeks",
+          "url": "https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU"
+        },
+        {
+          "name": "Mila Falls",
+          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Savage",
+      "url": "https://open.spotify.com/track/04fBENQTDO2gM8NRVNRf4e"
     },
     {
       "added_at": "2024-09-05 23:00:00",
@@ -863,6 +863,22 @@
     {
       "added_at": "2024-09-05 23:00:00",
       "album": {
+        "name": "I Miss The Old Macky",
+        "url": "https://open.spotify.com/album/1dWGmCM3soNePkWxM0Saca"
+      },
+      "artists": [
+        {
+          "name": "Macky Gee",
+          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
+        }
+      ],
+      "duration_ms": 155056,
+      "name": "I Miss The Old Macky",
+      "url": "https://open.spotify.com/track/3QwJmwvUKOnlmoeHDn8MVN"
+    },
+    {
+      "added_at": "2024-09-05 23:00:00",
+      "album": {
         "name": "RAW!",
         "url": "https://open.spotify.com/album/7s9SBne8c7nCJbuCdsEWNj"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 187750,
       "name": "RAW!",
       "url": "https://open.spotify.com/track/0upjyD41tJZjX8IlSLaNhp"
-    },
-    {
-      "added_at": "2024-09-05 23:00:00",
-      "album": {
-        "name": "I Miss The Old Macky",
-        "url": "https://open.spotify.com/album/1dWGmCM3soNePkWxM0Saca"
-      },
-      "artists": [
-        {
-          "name": "Macky Gee",
-          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
-        }
-      ],
-      "duration_ms": 155056,
-      "name": "I Miss The Old Macky",
-      "url": "https://open.spotify.com/track/3QwJmwvUKOnlmoeHDn8MVN"
     },
     {
       "added_at": "2024-09-05 23:00:00",
@@ -995,6 +995,22 @@
     {
       "added_at": "2024-09-05 23:00:00",
       "album": {
+        "name": "Energy In Motion",
+        "url": "https://open.spotify.com/album/45HkcoHxI0wvSk2QqHMdiL"
+      },
+      "artists": [
+        {
+          "name": "Circadian",
+          "url": "https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE"
+        }
+      ],
+      "duration_ms": 260689,
+      "name": "Energy In Motion",
+      "url": "https://open.spotify.com/track/2j3Vsq1Xxoqlvz5UJAr1ED"
+    },
+    {
+      "added_at": "2024-09-05 23:00:00",
+      "album": {
         "name": "So Different",
         "url": "https://open.spotify.com/album/36Qxy0uYkoTu5sVWvIzoVZ"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 180000,
       "name": "So Different",
       "url": "https://open.spotify.com/track/7ncQlEWDcux4xhuoGzY2Lc"
-    },
-    {
-      "added_at": "2024-09-05 23:00:00",
-      "album": {
-        "name": "Energy In Motion",
-        "url": "https://open.spotify.com/album/45HkcoHxI0wvSk2QqHMdiL"
-      },
-      "artists": [
-        {
-          "name": "Circadian",
-          "url": "https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE"
-        }
-      ],
-      "duration_ms": 260689,
-      "name": "Energy In Motion",
-      "url": "https://open.spotify.com/track/2j3Vsq1Xxoqlvz5UJAr1ED"
     },
     {
       "added_at": "2024-09-05 23:00:00",
@@ -1051,22 +1051,6 @@
       "duration_ms": 219577,
       "name": "Jordan 1s - Effy Rework",
       "url": "https://open.spotify.com/track/1PsmJW9eYuXY7zRtYxRzMI"
-    },
-    {
-      "added_at": "2024-09-05 23:00:00",
-      "album": {
-        "name": "Bounce EP",
-        "url": "https://open.spotify.com/album/3is6qL8SHCRDJJXVOjXSev"
-      },
-      "artists": [
-        {
-          "name": "Sub Zero",
-          "url": "https://open.spotify.com/artist/3kMQ0Gx56mVysMT3fqyneR"
-        }
-      ],
-      "duration_ms": 181028,
-      "name": "Bounce",
-      "url": "https://open.spotify.com/track/1xzO3WnBokjD2FksxDoTao"
     },
     {
       "added_at": "2024-09-05 23:00:00",
@@ -1099,6 +1083,22 @@
       "duration_ms": 290742,
       "name": "Gunner",
       "url": "https://open.spotify.com/track/3IpHOdzNvOfeTjlPSajNAV"
+    },
+    {
+      "added_at": "2024-09-05 23:00:00",
+      "album": {
+        "name": "Bounce EP",
+        "url": "https://open.spotify.com/album/3is6qL8SHCRDJJXVOjXSev"
+      },
+      "artists": [
+        {
+          "name": "Sub Zero",
+          "url": "https://open.spotify.com/artist/3kMQ0Gx56mVysMT3fqyneR"
+        }
+      ],
+      "duration_ms": 181028,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/1xzO3WnBokjD2FksxDoTao"
     },
     {
       "added_at": "2024-09-05 23:00:00",
@@ -1207,6 +1207,42 @@
     {
       "added_at": "2024-09-05 23:00:00",
       "album": {
+        "name": "Meta Riddim",
+        "url": "https://open.spotify.com/album/7krieuP9hW1gC6sNnUxC8K"
+      },
+      "artists": [
+        {
+          "name": "Grima x Azza",
+          "url": "https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R"
+        },
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        },
+        {
+          "name": "Shakes",
+          "url": "https://open.spotify.com/artist/4f7G11kEJCEhCDVGaSkS9y"
+        },
+        {
+          "name": "Jhitzu",
+          "url": "https://open.spotify.com/artist/6p5xN1BIOYijBYh94DBE7Y"
+        },
+        {
+          "name": "Harry Shotta",
+          "url": "https://open.spotify.com/artist/1KDOjuXZPd8XA3YBakakMb"
+        },
+        {
+          "name": "TNA",
+          "url": "https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545"
+        }
+      ],
+      "duration_ms": 254232,
+      "name": "Meta Riddim",
+      "url": "https://open.spotify.com/track/2u2vhW0N1UQgq0L1IYyW8w"
+    },
+    {
+      "added_at": "2024-09-05 23:00:00",
+      "album": {
         "name": "Killamanjaro",
         "url": "https://open.spotify.com/album/4h8n2kBOltdmxBg5t4kmIr"
       },
@@ -1243,42 +1279,6 @@
       "duration_ms": 249228,
       "name": "Hardcore Riddim",
       "url": "https://open.spotify.com/track/5R77QOMkCw5Zk7M1Qz016c"
-    },
-    {
-      "added_at": "2024-09-05 23:00:00",
-      "album": {
-        "name": "Meta Riddim",
-        "url": "https://open.spotify.com/album/7krieuP9hW1gC6sNnUxC8K"
-      },
-      "artists": [
-        {
-          "name": "Grima x Azza",
-          "url": "https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R"
-        },
-        {
-          "name": "P Money",
-          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
-        },
-        {
-          "name": "Shakes",
-          "url": "https://open.spotify.com/artist/4f7G11kEJCEhCDVGaSkS9y"
-        },
-        {
-          "name": "Jhitzu",
-          "url": "https://open.spotify.com/artist/6p5xN1BIOYijBYh94DBE7Y"
-        },
-        {
-          "name": "Harry Shotta",
-          "url": "https://open.spotify.com/artist/1KDOjuXZPd8XA3YBakakMb"
-        },
-        {
-          "name": "TNA",
-          "url": "https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545"
-        }
-      ],
-      "duration_ms": 254232,
-      "name": "Meta Riddim",
-      "url": "https://open.spotify.com/track/2u2vhW0N1UQgq0L1IYyW8w"
     },
     {
       "added_at": "2024-09-05 23:00:00",

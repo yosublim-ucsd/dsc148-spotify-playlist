@@ -2,9 +2,9 @@
 
 ### [Armada Today](https://open.spotify.com/playlist/3PCZEuLpGKpsEHeaQ6cKEN)
 
-> The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  Brando
+> The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  Patrick Topping &amp; Green Velvet
 
-1,152 songs - 2 day 13 hr 45 min
+1,153 songs - 2 day 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,6 +309,7 @@
 | [Follow](https://open.spotify.com/track/6yZauLY68KnSQrfAT9Q6mA) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Little Fritter](https://open.spotify.com/artist/4SV6cezgr2EYpAUV7j8ABo) | [Follow](https://open.spotify.com/album/3PSEtooe8ePSXVNQ0sfNG2) | 3:10 | 2024-06-07 |  |
 | [Follow Me](https://open.spotify.com/track/0yPa8O3zDNrrja8ifc6DXi) | [Zac Samuel](https://open.spotify.com/artist/3imlibJrwqYv8gqII7u4r0), [MØØNE](https://open.spotify.com/artist/7kKL0Z6mypwMkgCevMfuQ6) | [Follow Me](https://open.spotify.com/album/6vxtd7e4DG8cHhIgEWvgej) | 3:33 | 2022-06-30 | 2022-09-02 |
 | [Follow Me \(To A Place Called Love\) \- Marco Lys Mix](https://open.spotify.com/track/5zZJhHbVYpPi1TZCxQ5o6f) | [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w), [Plaster Hands](https://open.spotify.com/artist/1s6GdyR9crMX0bYcrVC5bn), [Marco Lys](https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1) | [Follow Me \(To A Place Called Love\) \[Marco Lys Mix\]](https://open.spotify.com/album/2uaOIXRDVuRwah9spH25gx) | 2:36 | 2023-03-16 | 2023-06-28 |
+| [Follow The Light](https://open.spotify.com/track/3EQ70Nq9D03VLRblD2JlJZ) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [Follow The Light](https://open.spotify.com/album/4eSiwGNJjDddi2a7YjVYZ8) | 3:12 | 2024-09-11 |  |
 | [Forever & Always](https://open.spotify.com/track/0moqpuDhgttCjbCW9eYtNq) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Forever & Always](https://open.spotify.com/album/6EmbyEUDThdkWcri5OsTep) | 3:14 | 2022-08-11 | 2022-10-28 |
 | [Forever & Always](https://open.spotify.com/track/6T0e1wKkONiIZQ1FTjMlGZ) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Feel Again, Pt\. 2](https://open.spotify.com/album/3dEp3i7jIlR5VtsOlMhi3Q) | 3:14 | 2022-10-27 | 2022-11-11 |
 | [Forever \(Stay Like This\)](https://open.spotify.com/track/08yyvtQ8CNRH6Ogpj60p0n) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Breathe In](https://open.spotify.com/album/5O5omtkIR6DrDMKM8YCHmw) | 2:32 | 2024-01-18 |  |

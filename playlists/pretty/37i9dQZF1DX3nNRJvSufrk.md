@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 
 > Can you keep up? Get moving to the rapid rhythms of Footwork & Juke, originating in 1990s Chicago\. Cover: DJ Manny
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,300 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,311 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 | 5 | [Chicago \(feat\. Lefty & Nikes\)](https://open.spotify.com/track/7iSYeJOtNFuPwNg0gEStEL) | [BSN Posse](https://open.spotify.com/artist/1fnlGaoXeWH8RMPVKR2gBU), [Lefty](https://open.spotify.com/artist/40VHJIhcpp7hQh4a2fGo4W), [Nikes](https://open.spotify.com/artist/33H4iqgsqXDDWY6FC9NMLc) | [\#UOAI](https://open.spotify.com/album/03PPB3GsJaP65KjNBOKEm2) | 4:20 |
 | 6 | [Bounce](https://open.spotify.com/track/2by9dE80FvGCBjyQxd2zJo) | [Starski and Clutch](https://open.spotify.com/artist/0jGUP5FLOFgZ0nbuQhVGCe) | [Players, Ballers, Rollers](https://open.spotify.com/album/3TCqiFkNsX6O9NfJwKcgu1) | 2:25 |
 | 7 | [WFM](https://open.spotify.com/track/4V7vv7lvro6yMyJZm9Z96F) | [Heavee](https://open.spotify.com/artist/3bTrwZAKTLYI9zozCH6zxw), [Teklife](https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg), [Gant\-Man](https://open.spotify.com/artist/0FRf7YoRwTB4L2HVVwzks4), [DJ Phil](https://open.spotify.com/artist/4L2n1xvdqgPgQjYxLHUAbG), [Sirr TMO](https://open.spotify.com/artist/7wMCA0Cx8O1adCSiTV1IMY) | [WFM](https://open.spotify.com/album/7jlA2sFirrhCJamcIvaEmy) | 3:03 |
-| 8 | [Way You Move](https://open.spotify.com/track/4HJADIxeKfoDyE3HVLzxif) | [DJ Manny](https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7), [Teklife](https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg), [DJ Chap](https://open.spotify.com/artist/09SMSRxhT4hiqiEAtIv69G) | [Greenlight](https://open.spotify.com/album/39Ir1QmErVs5OlVthfAoFq) | 3:13 |
-| 9 | [1luv](https://open.spotify.com/track/2VpNyk111vQhDyHlDwv6qM) | [DJ Chap](https://open.spotify.com/artist/3WbV0kiFoU7G5uLkAdV1YA) | [Footwork Frenzy Ep](https://open.spotify.com/album/6kyXFMA96qp261FU2pnksI) | 4:43 |
+| 8 | [1luv](https://open.spotify.com/track/2VpNyk111vQhDyHlDwv6qM) | [DJ Chap](https://open.spotify.com/artist/3WbV0kiFoU7G5uLkAdV1YA) | [Footwork Frenzy Ep](https://open.spotify.com/album/6kyXFMA96qp261FU2pnksI) | 4:43 |
+| 9 | [Way You Move](https://open.spotify.com/track/4HJADIxeKfoDyE3HVLzxif) | [DJ Manny](https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7), [Teklife](https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg), [DJ Chap](https://open.spotify.com/artist/09SMSRxhT4hiqiEAtIv69G) | [Greenlight](https://open.spotify.com/album/39Ir1QmErVs5OlVthfAoFq) | 3:13 |
 | 10 | [Pass That](https://open.spotify.com/track/4YKjrt7cGTQnu97OgKaFgC) | [DJ Rashad](https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V), [Tripletrain](https://open.spotify.com/artist/47UATnEOiiEMa2OFvZjv6i), [DJ Spinn](https://open.spotify.com/artist/0ZGOz1bQgvsT4KSzHB1dg9), [Teklife](https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg) | [Afterlife](https://open.spotify.com/album/0lFoUvjrmqtll233XwCyko) | 3:13 |
 | 11 | [Skkrtt](https://open.spotify.com/track/0zEgbC1lVNEYUJCv0jbUfc) | [DJ Orange Julius](https://open.spotify.com/artist/4DiPpabfaBSsHYvjlPkazH) | [The Grove](https://open.spotify.com/album/0KRdcfl8C4iPEhmw0Qgwce) | 4:49 |
 | 12 | [Forgotten](https://open.spotify.com/track/69L3zcmAXAW09qTz7HoQlX) | [DJ FLP](https://open.spotify.com/artist/7mcrgPUbytCnGDjt7PYXCA) | [Intuition](https://open.spotify.com/album/7rgcAQIrNsHCPRp8p7CWpM) | 6:03 |

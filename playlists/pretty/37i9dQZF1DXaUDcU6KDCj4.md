@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Ashe
 
-[Spotify](https://open.spotify.com/user/spotify) - 805,579 likes - 150 songs - 8 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 805,835 likes - 150 songs - 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Little Bug](https://open.spotify.com/track/2GAuyIDWQznZyRU3CGyDFy) | [The Army, The Navy](https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI) | [Little Bug](https://open.spotify.com/album/6MzWuLcg9fAsHXEOcIDgY8) | 3:20 |
 | 2 | [Peace of Mind \(Evening\)](https://open.spotify.com/track/6ypqW6kawv0iJFyW1k1UQr) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Peace of Mind \(Evening\)](https://open.spotify.com/album/2vpQDZltXoemtEN90itVg8) | 3:31 |
-| 3 | [Ashe](https://open.spotify.com/track/1NYGXD18EU7QlNuD0sdx9l) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Ashe](https://open.spotify.com/album/3OokDJn75iFhsvGmfOALoY) | 4:21 |
+| 3 | [Ashe](https://open.spotify.com/track/4XlNNW3ySftYPo7s7zRL0n) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Willson](https://open.spotify.com/album/7yi77MD43JR5KZAgrOFdrz) | 4:21 |
 | 4 | [reason to forgive](https://open.spotify.com/track/37WikNaTXg1WdspSS5oHkI) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [amy allen](https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb) | 2:44 |
 | 5 | [Little bit](https://open.spotify.com/track/4BhKnMFUOT1lQHdjTXs3pj) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [Little bit](https://open.spotify.com/album/384EOP7ZXUc7WuawttnJ4v) | 2:18 |
 | 6 | [Above the Clouds of Pompeii](https://open.spotify.com/track/4WFh8KiLmaCLu7QwFgTzA2) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Above the Clouds of Pompeii](https://open.spotify.com/album/5dFQx8kMykeP970uW0zlNq) | 4:00 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Bells and Whistles](https://open.spotify.com/track/5Y5FQ3HD5HD7pBMAzm7JKb) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [Bells and Whistles](https://open.spotify.com/album/7l20u6rZraVZuuh4C7vqPE) | 4:07 |
 | 150 | [I'm Someone New](https://open.spotify.com/track/7hG3voGIQnOEYRqcUQ5hbD) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [I'm Someone New](https://open.spotify.com/album/5QwDXdYTzUiaY6geFpTgZX) | 4:13 |
 
-Snapshot ID: `Ztp+QAAAAACWlwcyof5rC7FwH6fCFj3D`
+Snapshot ID: `ZuG6lAAAAADwXv/gbsp1y/aANkven1Zw`

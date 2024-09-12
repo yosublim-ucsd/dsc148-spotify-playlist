@@ -1,6 +1,6 @@
 {
   "description": "Soothing ASMR whispers to help you drift off to sleep. Slow, soft and calming.",
-  "num_followers": 35634,
+  "num_followers": 35650,
   "original_name": "ASMR Sleep Whispers",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,22 @@
     {
       "added_at": "2024-08-30 08:51:58",
       "album": {
+        "name": "Sleep-Inducing Haircut",
+        "url": "https://open.spotify.com/album/1kM0ELi6Vgv4OiXAtnRIXO"
+      },
+      "artists": [
+        {
+          "name": "HeatheredEffect ASMR",
+          "url": "https://open.spotify.com/artist/11uBB2l2Ne1rZCyS1xnv1L"
+        }
+      ],
+      "duration_ms": 253899,
+      "name": "Sleep-Inducing Haircut Pt.3",
+      "url": "https://open.spotify.com/track/3QcQqTLBYUp0ZjZatm3FUk"
+    },
+    {
+      "added_at": "2024-08-30 08:51:58",
+      "album": {
         "name": "Personal Attention and Positive Affirmations Just For You",
         "url": "https://open.spotify.com/album/6Kf13BVT0bA0m0GsgqX4Hn"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 306201,
       "name": "Personal Attention and Positive Affirmations Just For You Pt.1",
       "url": "https://open.spotify.com/track/1zQ7QdMU2RKHR3mAzPHtJm"
-    },
-    {
-      "added_at": "2024-08-30 08:51:58",
-      "album": {
-        "name": "Anticipatory Ear to Ear Whisepers",
-        "url": "https://open.spotify.com/album/5lqSEu356oV96g0VZXYFTL"
-      },
-      "artists": [
-        {
-          "name": "Slight Sounds ASMR",
-          "url": "https://open.spotify.com/artist/3T3Ygd1CAqQdgzphPcs6ts"
-        }
-      ],
-      "duration_ms": 322455,
-      "name": "Anticipatory Ear to Ear Whispers Pt.1",
-      "url": "https://open.spotify.com/track/1WKMPkedR3z44hL8QifjOT"
     },
     {
       "added_at": "2024-08-30 08:51:58",
@@ -267,18 +267,18 @@
     {
       "added_at": "2024-08-30 08:51:58",
       "album": {
-        "name": "Close Ear to Ear Whispered Countdown to Sleep",
-        "url": "https://open.spotify.com/album/4PsZcKftdyDZcTGFhU9OLk"
+        "name": "Anticipatory Ear to Ear Whisepers",
+        "url": "https://open.spotify.com/album/5lqSEu356oV96g0VZXYFTL"
       },
       "artists": [
         {
-          "name": "HeatheredEffect ASMR",
-          "url": "https://open.spotify.com/artist/11uBB2l2Ne1rZCyS1xnv1L"
+          "name": "Slight Sounds ASMR",
+          "url": "https://open.spotify.com/artist/3T3Ygd1CAqQdgzphPcs6ts"
         }
       ],
-      "duration_ms": 279222,
-      "name": "Close Ear to Ear Whispered Countdown to Sleep Pt.4",
-      "url": "https://open.spotify.com/track/4SizL2yMtF5wkXMuYh1edR"
+      "duration_ms": 322455,
+      "name": "Anticipatory Ear to Ear Whispers Pt.1",
+      "url": "https://open.spotify.com/track/1WKMPkedR3z44hL8QifjOT"
     },
     {
       "added_at": "2024-08-30 08:51:58",
@@ -363,8 +363,8 @@
     {
       "added_at": "2024-08-30 08:51:58",
       "album": {
-        "name": "Sleep-Inducing Haircut",
-        "url": "https://open.spotify.com/album/1kM0ELi6Vgv4OiXAtnRIXO"
+        "name": "Close Ear to Ear Whispered Countdown to Sleep",
+        "url": "https://open.spotify.com/album/4PsZcKftdyDZcTGFhU9OLk"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/11uBB2l2Ne1rZCyS1xnv1L"
         }
       ],
-      "duration_ms": 253899,
-      "name": "Sleep-Inducing Haircut Pt.3",
-      "url": "https://open.spotify.com/track/3QcQqTLBYUp0ZjZatm3FUk"
+      "duration_ms": 279222,
+      "name": "Close Ear to Ear Whispered Countdown to Sleep Pt.4",
+      "url": "https://open.spotify.com/track/4SizL2yMtF5wkXMuYh1edR"
     },
     {
       "added_at": "2024-08-30 08:51:58",

@@ -1,6 +1,6 @@
 {
   "description": "Deep electronic and organic house sounds, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 784714,
+  "num_followers": 784843,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
@@ -67,30 +67,6 @@
     {
       "added_at": "2024-08-22 21:00:00",
       "album": {
-        "name": "Kamili",
-        "url": "https://open.spotify.com/album/59q5fTLywgfKCoensSHdxG"
-      },
-      "artists": [
-        {
-          "name": "Francis Mercier",
-          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
-        },
-        {
-          "name": "Nitefreak",
-          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
-        },
-        {
-          "name": "Idd Aziz",
-          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
-        }
-      ],
-      "duration_ms": 226500,
-      "name": "Kamili",
-      "url": "https://open.spotify.com/track/5JEaCJCehAtt1nQf0gd9Dx"
-    },
-    {
-      "added_at": "2024-08-22 21:00:00",
-      "album": {
         "name": "The Dream (feat. Martina Camargo)",
         "url": "https://open.spotify.com/album/3PUyvnJrykuLTnWyUhyrep"
       },
@@ -115,6 +91,30 @@
       "duration_ms": 210156,
       "name": "The Dream (feat. Martina Camargo)",
       "url": "https://open.spotify.com/track/2dwU9cQumllxZFtXgautY4"
+    },
+    {
+      "added_at": "2024-08-22 21:00:00",
+      "album": {
+        "name": "Kamili",
+        "url": "https://open.spotify.com/album/59q5fTLywgfKCoensSHdxG"
+      },
+      "artists": [
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Nitefreak",
+          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        }
+      ],
+      "duration_ms": 226500,
+      "name": "Kamili",
+      "url": "https://open.spotify.com/track/5JEaCJCehAtt1nQf0gd9Dx"
     },
     {
       "added_at": "2024-08-22 21:00:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-08-22 21:00:00",
       "album": {
-        "name": "Makes Me Wonder",
-        "url": "https://open.spotify.com/album/0HSwb0U6BDrcB1jLUt6e5N"
-      },
-      "artists": [
-        {
-          "name": "Depart",
-          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
-        }
-      ],
-      "duration_ms": 265181,
-      "name": "Makes Me Wonder",
-      "url": "https://open.spotify.com/track/6NdyfsjH0wFovyEqqAP0PP"
-    },
-    {
-      "added_at": "2024-08-22 21:00:00",
-      "album": {
         "name": "The Landing",
         "url": "https://open.spotify.com/album/65jdNET1pQoq35hAb6FXep"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 435466,
       "name": "The Landing - Nadav Dagon & JPattersson",
       "url": "https://open.spotify.com/track/5BmOeZnWcFejkiUsdIRgpl"
+    },
+    {
+      "added_at": "2024-08-22 21:00:00",
+      "album": {
+        "name": "Makes Me Wonder",
+        "url": "https://open.spotify.com/album/0HSwb0U6BDrcB1jLUt6e5N"
+      },
+      "artists": [
+        {
+          "name": "Depart",
+          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
+        }
+      ],
+      "duration_ms": 265181,
+      "name": "Makes Me Wonder",
+      "url": "https://open.spotify.com/track/6NdyfsjH0wFovyEqqAP0PP"
     },
     {
       "added_at": "2024-08-22 21:00:00",
@@ -699,18 +699,22 @@
     {
       "added_at": "2024-08-22 21:00:00",
       "album": {
-        "name": "Love And Hate",
-        "url": "https://open.spotify.com/album/1NEZ9FtarC6DX5hbnC7H1c"
+        "name": "Karanfilce Devojce (PACHIRA Remix)",
+        "url": "https://open.spotify.com/album/2Jr3whqNucBLcaJl096Ut5"
       },
       "artists": [
         {
-          "name": "Bedouin",
-          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+          "name": "Laboratorium Pie\u015bni",
+          "url": "https://open.spotify.com/artist/0dJ5KNObzuV2aK76ucVV1l"
+        },
+        {
+          "name": "PACHIRA",
+          "url": "https://open.spotify.com/artist/7xYPxh4TBh0bkCQwg1YoT0"
         }
       ],
-      "duration_ms": 267004,
-      "name": "Love And Hate",
-      "url": "https://open.spotify.com/track/5Vt5PmlQvb0U9HbEX0qYRi"
+      "duration_ms": 342853,
+      "name": "Karanfilce Devojce - PACHIRA Remix",
+      "url": "https://open.spotify.com/track/7f6bzmieDjJiGr6x0Vl2ps"
     },
     {
       "added_at": "2024-08-22 21:00:00",
@@ -731,22 +735,18 @@
     {
       "added_at": "2024-08-22 21:00:00",
       "album": {
-        "name": "Karanfilce Devojce (PACHIRA Remix)",
-        "url": "https://open.spotify.com/album/2Jr3whqNucBLcaJl096Ut5"
+        "name": "Love And Hate",
+        "url": "https://open.spotify.com/album/1NEZ9FtarC6DX5hbnC7H1c"
       },
       "artists": [
         {
-          "name": "Laboratorium Pie\u015bni",
-          "url": "https://open.spotify.com/artist/0dJ5KNObzuV2aK76ucVV1l"
-        },
-        {
-          "name": "PACHIRA",
-          "url": "https://open.spotify.com/artist/7xYPxh4TBh0bkCQwg1YoT0"
+          "name": "Bedouin",
+          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
         }
       ],
-      "duration_ms": 342853,
-      "name": "Karanfilce Devojce - PACHIRA Remix",
-      "url": "https://open.spotify.com/track/7f6bzmieDjJiGr6x0Vl2ps"
+      "duration_ms": 267004,
+      "name": "Love And Hate",
+      "url": "https://open.spotify.com/track/5Vt5PmlQvb0U9HbEX0qYRi"
     },
     {
       "added_at": "2024-08-22 21:00:00",
@@ -771,6 +771,22 @@
       "duration_ms": 312000,
       "name": "Serbet",
       "url": "https://open.spotify.com/track/5sv8aOslVoZR3PGxBLVnlw"
+    },
+    {
+      "added_at": "2024-08-22 21:00:00",
+      "album": {
+        "name": "Ancestry",
+        "url": "https://open.spotify.com/album/6oMwy9QzP1FzbKhR6BWABP"
+      },
+      "artists": [
+        {
+          "name": "Mux",
+          "url": "https://open.spotify.com/artist/0nqq006Uo7RuKoKdmLAOkE"
+        }
+      ],
+      "duration_ms": 294661,
+      "name": "El Dolor",
+      "url": "https://open.spotify.com/track/5cm8VSk6Iqkp8F1cB2S0Iu"
     },
     {
       "added_at": "2024-08-22 21:00:00",
@@ -811,18 +827,18 @@
     {
       "added_at": "2024-08-22 21:00:00",
       "album": {
-        "name": "Ancestry",
-        "url": "https://open.spotify.com/album/6oMwy9QzP1FzbKhR6BWABP"
+        "name": "Jendayi EP",
+        "url": "https://open.spotify.com/album/6qoVUCC8JnvxUbsox7MGks"
       },
       "artists": [
         {
-          "name": "Mux",
-          "url": "https://open.spotify.com/artist/0nqq006Uo7RuKoKdmLAOkE"
+          "name": "Anber",
+          "url": "https://open.spotify.com/artist/1d4RYfh3ZkMNamEAST8JLc"
         }
       ],
-      "duration_ms": 294661,
-      "name": "El Dolor",
-      "url": "https://open.spotify.com/track/5cm8VSk6Iqkp8F1cB2S0Iu"
+      "duration_ms": 391511,
+      "name": "Jendayi",
+      "url": "https://open.spotify.com/track/0bdNsriJUCQUX4w1LbMKxp"
     },
     {
       "added_at": "2024-08-22 21:00:00",
@@ -843,22 +859,6 @@
       "duration_ms": 273523,
       "name": "Neko (feat Kotoe)",
       "url": "https://open.spotify.com/track/2WId1YWr5MC60ShUrE5dzl"
-    },
-    {
-      "added_at": "2024-08-22 21:00:00",
-      "album": {
-        "name": "Jendayi EP",
-        "url": "https://open.spotify.com/album/6qoVUCC8JnvxUbsox7MGks"
-      },
-      "artists": [
-        {
-          "name": "Anber",
-          "url": "https://open.spotify.com/artist/1d4RYfh3ZkMNamEAST8JLc"
-        }
-      ],
-      "duration_ms": 391511,
-      "name": "Jendayi",
-      "url": "https://open.spotify.com/track/0bdNsriJUCQUX4w1LbMKxp"
     },
     {
       "added_at": "2024-08-22 21:00:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-08-22 21:00:00",
       "album": {
-        "name": "Movimiento",
-        "url": "https://open.spotify.com/album/7g3IfnI0Y593YDLh39eIvL"
-      },
-      "artists": [
-        {
-          "name": "Amal Nemer",
-          "url": "https://open.spotify.com/artist/4dJbkK58s6mj9RGElqCNhm"
-        }
-      ],
-      "duration_ms": 330000,
-      "name": "Movimiento",
-      "url": "https://open.spotify.com/track/7fdSynQodvEutcIRLTJh7e"
-    },
-    {
-      "added_at": "2024-08-22 21:00:00",
-      "album": {
         "name": "Bem a Tempo (Yemanjo Remix)",
         "url": "https://open.spotify.com/album/4hAhIqwRzsd1KLMcHYOlN2"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 337714,
       "name": "Bem a Tempo - Yemanjo Remix",
       "url": "https://open.spotify.com/track/5HSSXa50YSC7TUC32IjwVD"
+    },
+    {
+      "added_at": "2024-08-22 21:00:00",
+      "album": {
+        "name": "Movimiento",
+        "url": "https://open.spotify.com/album/7g3IfnI0Y593YDLh39eIvL"
+      },
+      "artists": [
+        {
+          "name": "Amal Nemer",
+          "url": "https://open.spotify.com/artist/4dJbkK58s6mj9RGElqCNhm"
+        }
+      ],
+      "duration_ms": 330000,
+      "name": "Movimiento",
+      "url": "https://open.spotify.com/track/7fdSynQodvEutcIRLTJh7e"
     },
     {
       "added_at": "2024-08-22 21:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-08-22 21:00:00",
       "album": {
-        "name": "Man Dies Alone",
-        "url": "https://open.spotify.com/album/3UMqCv5HqtHjRCTl4DAoPQ"
-      },
-      "artists": [
-        {
-          "name": "Depart",
-          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
-        }
-      ],
-      "duration_ms": 279000,
-      "name": "Man Dies Alone - Short Version",
-      "url": "https://open.spotify.com/track/06uE6yOg0nc1HFTJWOhFYJ"
-    },
-    {
-      "added_at": "2024-08-22 21:00:00",
-      "album": {
         "name": "Hands (Santi & Tu\u011f\u00e7e Remix)",
         "url": "https://open.spotify.com/album/58wM4X24As1sjTJGQBAj77"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 431565,
       "name": "Hands - Santi & Tu\u011f\u00e7e Remix",
       "url": "https://open.spotify.com/track/1LLhIi8oYXPWYbRp0JdaU6"
+    },
+    {
+      "added_at": "2024-08-22 21:00:00",
+      "album": {
+        "name": "Man Dies Alone",
+        "url": "https://open.spotify.com/album/3UMqCv5HqtHjRCTl4DAoPQ"
+      },
+      "artists": [
+        {
+          "name": "Depart",
+          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
+        }
+      ],
+      "duration_ms": 279000,
+      "name": "Man Dies Alone - Short Version",
+      "url": "https://open.spotify.com/track/06uE6yOg0nc1HFTJWOhFYJ"
     },
     {
       "added_at": "2024-08-22 21:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-08-22 21:00:00",
       "album": {
-        "name": "Thierry",
-        "url": "https://open.spotify.com/album/52FNJyHCljfACoigbzPNkk"
-      },
-      "artists": [
-        {
-          "name": "Omeria",
-          "url": "https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl"
-        }
-      ],
-      "duration_ms": 375652,
-      "name": "Thierry",
-      "url": "https://open.spotify.com/track/7p9J37MMYyR9vqjCuK9Qd0"
-    },
-    {
-      "added_at": "2024-08-22 21:00:00",
-      "album": {
         "name": "Osam",
         "url": "https://open.spotify.com/album/48YFswdVKWAErJjA6IArbb"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 482715,
       "name": "Entrecote",
       "url": "https://open.spotify.com/track/2MBPUcMpWL4EJ709876js0"
+    },
+    {
+      "added_at": "2024-08-22 21:00:00",
+      "album": {
+        "name": "Thierry",
+        "url": "https://open.spotify.com/album/52FNJyHCljfACoigbzPNkk"
+      },
+      "artists": [
+        {
+          "name": "Omeria",
+          "url": "https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl"
+        }
+      ],
+      "duration_ms": 375652,
+      "name": "Thierry",
+      "url": "https://open.spotify.com/track/7p9J37MMYyR9vqjCuK9Qd0"
     },
     {
       "added_at": "2024-08-22 21:00:00",
@@ -1291,6 +1291,26 @@
     {
       "added_at": "2024-08-22 21:00:00",
       "album": {
+        "name": "Unsichtbar (Behrooz Zandi Remix)",
+        "url": "https://open.spotify.com/album/0XqcOaBaLYzrYZllSfU2Rr"
+      },
+      "artists": [
+        {
+          "name": "Tiefe Wasser Berlin",
+          "url": "https://open.spotify.com/artist/1CB3IMXIZ0RJXC9JRrC7x3"
+        },
+        {
+          "name": "Behrooz Zandi",
+          "url": "https://open.spotify.com/artist/3wDZlcLsCTvZ5e6OaPSQP0"
+        }
+      ],
+      "duration_ms": 370196,
+      "name": "Unsichtbar - Behrooz Zandi Remix",
+      "url": "https://open.spotify.com/track/6eOmmUyJYl6RrRTT7P0M4S"
+    },
+    {
+      "added_at": "2024-08-22 21:00:00",
+      "album": {
         "name": "Ay vora",
         "url": "https://open.spotify.com/album/4qpPzg1NDlN4JZQQh9HtWB"
       },
@@ -1323,26 +1343,6 @@
       "duration_ms": 478764,
       "name": "Savage",
       "url": "https://open.spotify.com/track/6UQP9MgBPN1X7GiOomaBkO"
-    },
-    {
-      "added_at": "2024-08-22 21:00:00",
-      "album": {
-        "name": "Unsichtbar (Behrooz Zandi Remix)",
-        "url": "https://open.spotify.com/album/0XqcOaBaLYzrYZllSfU2Rr"
-      },
-      "artists": [
-        {
-          "name": "Tiefe Wasser Berlin",
-          "url": "https://open.spotify.com/artist/1CB3IMXIZ0RJXC9JRrC7x3"
-        },
-        {
-          "name": "Behrooz Zandi",
-          "url": "https://open.spotify.com/artist/3wDZlcLsCTvZ5e6OaPSQP0"
-        }
-      ],
-      "duration_ms": 370196,
-      "name": "Unsichtbar - Behrooz Zandi Remix",
-      "url": "https://open.spotify.com/track/6eOmmUyJYl6RrRTT7P0M4S"
     },
     {
       "added_at": "2024-08-22 21:00:00",

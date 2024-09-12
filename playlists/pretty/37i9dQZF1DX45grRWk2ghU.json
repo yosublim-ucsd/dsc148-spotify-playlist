@@ -1,6 +1,6 @@
 {
   "description": "You're a pink pony girl ",
-  "num_followers": 549880,
+  "num_followers": 550492,
   "original_name": "Hot Pink",
   "owner": {
     "name": "Spotify",
@@ -139,18 +139,18 @@
     {
       "added_at": "2024-08-03 15:31:45",
       "album": {
-        "name": "She's So Unusual",
-        "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
+        "name": "Dance The Night (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
       },
       "artists": [
         {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 238266,
-      "name": "Girls Just Want to Have Fun",
-      "url": "https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe"
+      "duration_ms": 176579,
+      "name": "Dance The Night - From Barbie The Album",
+      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
     },
     {
       "added_at": "2024-08-03 15:31:45",
@@ -171,18 +171,18 @@
     {
       "added_at": "2024-08-03 15:31:45",
       "album": {
-        "name": "Dance The Night (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
+        "name": "She's So Unusual",
+        "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
         }
       ],
-      "duration_ms": 176579,
-      "name": "Dance The Night - From Barbie The Album",
-      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
+      "duration_ms": 238266,
+      "name": "Girls Just Want to Have Fun",
+      "url": "https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe"
     },
     {
       "added_at": "2024-08-03 15:31:45",
@@ -591,6 +591,22 @@
     {
       "added_at": "2024-08-03 15:31:45",
       "album": {
+        "name": "Animal (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 187133,
+      "name": "Your Love Is My Drug",
+      "url": "https://open.spotify.com/track/6vc2Jq2vaGu8z326kSrw92"
+    },
+    {
+      "added_at": "2024-08-03 15:31:45",
+      "album": {
         "name": "I LUV IT (feat. Playboi Carti)",
         "url": "https://open.spotify.com/album/32kJxu3atkwQVZ6iOjw7UB"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 174880,
       "name": "I LUV IT (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/2H2ytI7ompfNmRkI2sq8Uk"
-    },
-    {
-      "added_at": "2024-08-03 15:31:45",
-      "album": {
-        "name": "Animal (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
-      },
-      "artists": [
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        }
-      ],
-      "duration_ms": 187133,
-      "name": "Your Love Is My Drug",
-      "url": "https://open.spotify.com/track/6vc2Jq2vaGu8z326kSrw92"
     },
     {
       "added_at": "2024-08-03 15:31:45",
@@ -873,6 +873,26 @@
       "url": "https://open.spotify.com/track/5cCAZS9VhLGEDV4NCfieeg"
     },
     {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "CRAZY (feat. PinkPantheress)",
+        "url": "https://open.spotify.com/album/6bZk9oecizspP2MeHIhKYL"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        },
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "CRAZY (feat. PinkPantheress)",
+      "url": "https://open.spotify.com/track/3lLH0FlC2pYCeZEf05zKQn"
+    },
+    {
       "added_at": "2024-08-03 15:31:45",
       "album": {
         "name": "COWBOY CARTER",
@@ -955,26 +975,6 @@
       "duration_ms": 166299,
       "name": "Pink Friday Girls",
       "url": "https://open.spotify.com/track/44L2bY93uD65CEHWbozpx4"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "CRAZY (feat. PinkPantheress)",
-        "url": "https://open.spotify.com/album/6bZk9oecizspP2MeHIhKYL"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        },
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "CRAZY (feat. PinkPantheress)",
-      "url": "https://open.spotify.com/track/3lLH0FlC2pYCeZEf05zKQn"
     },
     {
       "added_at": "2024-08-03 15:31:45",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2024-08-03 15:31:45",
       "album": {
+        "name": "Sticks & Stones",
+        "url": "https://open.spotify.com/album/16liSbjaxbH0oamsQlqJ4Z"
+      },
+      "artists": [
+        {
+          "name": "Cher Lloyd",
+          "url": "https://open.spotify.com/artist/4m4SfDVbF5wxrwEjDKgi4k"
+        }
+      ],
+      "duration_ms": 214573,
+      "name": "Want U Back",
+      "url": "https://open.spotify.com/track/6E11E0lT5Zy7yb6iT3y8DN"
+    },
+    {
+      "added_at": "2024-08-03 15:31:45",
+      "album": {
         "name": "Not My Fault (with Megan Thee Stallion)",
         "url": "https://open.spotify.com/album/0CUn0aYLhWWL6LBMFSoaJj"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 170528,
       "name": "Not My Fault (with Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/37kP0yUo66nRnFHtC5rV1M"
-    },
-    {
-      "added_at": "2024-08-03 15:31:45",
-      "album": {
-        "name": "Sticks & Stones",
-        "url": "https://open.spotify.com/album/16liSbjaxbH0oamsQlqJ4Z"
-      },
-      "artists": [
-        {
-          "name": "Cher Lloyd",
-          "url": "https://open.spotify.com/artist/4m4SfDVbF5wxrwEjDKgi4k"
-        }
-      ],
-      "duration_ms": 214573,
-      "name": "Want U Back",
-      "url": "https://open.spotify.com/track/6E11E0lT5Zy7yb6iT3y8DN"
     },
     {
       "added_at": "2024-08-03 15:31:45",

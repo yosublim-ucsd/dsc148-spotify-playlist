@@ -1,12 +1,12 @@
 {
-  "description": "This is Evaluna Montaner. The essential tracks, all in one playlist.",
+  "description": "This Is Evaluna Montaner. Los temas esenciales, todos en una lista.",
   "num_followers": 15115,
   "original_name": "This Is Evaluna Montaner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zt46gAAAAABGk0GooHbYTwBk/tDV5W0b",
+  "snapshot_id": "Zt+MAAAAAACvhWR0oqpwhqQJ87j27NDA",
   "tracks": [
     {
       "added_at": null,
@@ -555,26 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sesi\u00f3n Org\u00e1nica: Parte 2",
-        "url": "https://open.spotify.com/album/4w2gKaPU12CcQC26Vb03Gu"
-      },
-      "artists": [
-        {
-          "name": "Evan Craft",
-          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
-        },
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Beauty Of Grace - Acoustic Version",
-      "url": "https://open.spotify.com/track/2NSUZFHuWB3hQBKLnvpH1N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Avivamiento",
         "url": "https://open.spotify.com/album/5HrZsblI2GKiT8FcKRo3BM"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 359303,
       "name": "Quiero A Cristo",
       "url": "https://open.spotify.com/track/6mAU2YRQkhWdk5LZyxsyz0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sesi\u00f3n Org\u00e1nica: Parte 2",
+        "url": "https://open.spotify.com/album/4w2gKaPU12CcQC26Vb03Gu"
+      },
+      "artists": [
+        {
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        },
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Beauty Of Grace - Acoustic Version",
+      "url": "https://open.spotify.com/track/2NSUZFHuWB3hQBKLnvpH1N"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
-  "description": "This is At the Drive-In. The essential tracks, all in one playlist.",
-  "num_followers": 4146,
-  "original_name": "This Is At the Drive-In",
+  "description": "This is \u30a2\u30c3\u30c8\u30fb\u30b6\u30fb\u30c9\u30e9\u30a4\u30f4\u30a4\u30f3\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "num_followers": 4148,
+  "original_name": "This Is \u30a2\u30c3\u30c8\u30fb\u30b6\u30fb\u30c9\u30e9\u30a4\u30f4\u30a4\u30f3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zt46gAAAAADTayqEGnl7juAhvXBQL2XT",
+  "snapshot_id": "Zt+MAAAAAAANf63YugezexNIu1fMSJxm",
   "tracks": [
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5"
         }
       ],
-      "duration_ms": 158360,
-      "name": "Pickpocket",
-      "url": "https://open.spotify.com/track/7tXHRWpHsYH8Yy8w7v4N7d"
+      "duration_ms": 179293,
+      "name": "Chanbara",
+      "url": "https://open.spotify.com/track/5Gh7uZTnZx3bpCyGaY7wpt"
     },
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5"
         }
       ],
-      "duration_ms": 179293,
-      "name": "Chanbara",
-      "url": "https://open.spotify.com/track/5Gh7uZTnZx3bpCyGaY7wpt"
+      "duration_ms": 158360,
+      "name": "Pickpocket",
+      "url": "https://open.spotify.com/track/7tXHRWpHsYH8Yy8w7v4N7d"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5"
         }
       ],
-      "duration_ms": 219013,
-      "name": "No Wolf Like The Present",
-      "url": "https://open.spotify.com/track/0LbD8kPWxh8kyce8RoC4T7"
+      "duration_ms": 206680,
+      "name": "Tilting At The Univendor",
+      "url": "https://open.spotify.com/track/31tEi0FX1c4bABw8yDNiRu"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5"
         }
       ],
-      "duration_ms": 206680,
-      "name": "Tilting At The Univendor",
-      "url": "https://open.spotify.com/track/31tEi0FX1c4bABw8yDNiRu"
+      "duration_ms": 219013,
+      "name": "No Wolf Like The Present",
+      "url": "https://open.spotify.com/track/0LbD8kPWxh8kyce8RoC4T7"
     },
     {
       "added_at": null,
@@ -521,6 +521,6 @@
       "url": "https://open.spotify.com/track/4qMyKQDubWAiQWOGGX2aaw"
     }
   ],
-  "unique_name": "This Is At the Drive-In",
+  "unique_name": "This Is \u30a2\u30c3\u30c8\u30fb\u30b6\u30fb\u30c9\u30e9\u30a4\u30f4\u30a4\u30f3",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3k8WTC"
 }

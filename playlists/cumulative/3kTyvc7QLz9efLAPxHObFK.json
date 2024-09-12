@@ -30131,6 +30131,24 @@
     },
     {
       "album": {
+        "name": "The Night",
+        "url": "https://open.spotify.com/album/42KHAOgMB93IRU2bY9GBjz"
+      },
+      "artists": [
+        {
+          "name": "Abaddon",
+          "url": "https://open.spotify.com/artist/3ujI46PHi7vombfnkjM8C3"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183078,
+      "name": "The Night",
+      "url": "https://open.spotify.com/track/3jAWf9hMSgXE6t0Zzn6RYd"
+    },
+    {
+      "album": {
         "name": "The Oni Retribution",
         "url": "https://open.spotify.com/album/18Wbb2JIGpMv6KAxcg7Cxb"
       },

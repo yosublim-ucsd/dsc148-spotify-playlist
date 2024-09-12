@@ -4,7 +4,7 @@
 
 > 上質なアンビエントとオルタナティブミュージック / The artisanal ambient and alternative sounds make you float in the air.
 
-649 songs - 2 day 2 hr 36 min
+650 songs - 2 day 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Everything Valley](https://open.spotify.com/track/5uVkQzrRTFQ4FGWKBrj12Y) | [Buffalo Daughter](https://open.spotify.com/artist/66UBlnqgUCqDlalQXK8Nby) | [We Are the Times](https://open.spotify.com/album/2Bigb84w1W99VEpp7PxPda) | 5:57 | 2024-02-08 | 2024-04-19 |
 | [Evocations 2](https://open.spotify.com/track/6kndOSeWrt1cRNZzMgtJCF) | [尾島由郎](https://open.spotify.com/artist/5GekbhuyDcYViZ0BhZc9Iw) | [コレクシオン・デ・シェノン II](https://open.spotify.com/album/2sIk82nBIC7srhgZ6VIbZg) | 7:11 | 2022-03-30 | 2022-07-17 |
 | [f.o.o.3.](https://open.spotify.com/track/46wUZnVDkGtqPUJoFkHKDw) | [Team TENbient](https://open.spotify.com/artist/4jBPIW39WXjI8qA13u0lAt) | [TENbient 3](https://open.spotify.com/album/2F31M0fEMChoZhulEOkprk) | 9:00 | 2022-03-31 | 2022-04-20 |
+| [Fade](https://open.spotify.com/track/59F6QkEsNpLl9mGiUcpeYJ) | [Otherside](https://open.spotify.com/artist/1tgCXu3R4Q87v25CaUKaJf) | [Fade/Faded](https://open.spotify.com/album/4YUCp7sHv6OuJgJcO3xR3T) | 1:18 | 2024-09-06 |  |
 | [Faded Corners \- aus Reprise](https://open.spotify.com/track/3oIMgGY3hWqZl6I2DlhoLW) | [Cuushe](https://open.spotify.com/artist/5mzIOU6Wu4mBabXE3OqhR5), [aus](https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV) | [Faded Corners \(aus Reprise\)](https://open.spotify.com/album/1zfCHf4nYBk1ILESV5jqVk) | 5:04 | 2024-09-06 |  |
 | [Fanfare](https://open.spotify.com/track/6zEkQ585AkgQP6F9nIuAio) | [Woo](https://open.spotify.com/artist/5KqOWuKJPySBjp3mGVBWFR) | [Awaawaa](https://open.spotify.com/album/0AC2qGNY9HR5BlC61Yikqq) | 0:45 | 2022-04-28 | 2022-06-19 |
 | [Faraway](https://open.spotify.com/track/5XyL1qKqfFWX27nA4YwkRI) | [yoshinori takezawa](https://open.spotify.com/artist/0DtSFAYXpepz39MyKktbMD) | [Faraway](https://open.spotify.com/album/40BOmaowFYSnkc3WlecoHD) | 2:30 | 2022-03-31 | 2022-07-27 |
@@ -530,7 +531,7 @@
 | [Tear](https://open.spotify.com/track/77Jnb9dlnX1LZwIYLaDrpV) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Tear](https://open.spotify.com/album/3JEazjKg3or8cAtHi61KgS) | 4:36 | 2023-05-11 | 2023-07-26 |
 | [TEEVEE](https://open.spotify.com/track/4j8X5lYsXlWFr6hZ9Djs3h) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 3:36 | 2022-04-07 | 2022-07-27 |
 | [Terra Recipe](https://open.spotify.com/track/2GWNKsZ7cqicbvWynbOkaW) | [Minami Deutsch](https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ) | [Minami Deutsch](https://open.spotify.com/album/73HnAuOAaL60sprIydSdtd) | 3:50 | 2024-02-08 |  |
-| [TETSUO \[鉄雄\] \(Remixed by 久保田麻琴\)](https://open.spotify.com/track/5LVNUYvVuRfcoIC5ZO3RNt) | [芸能山城組](https://open.spotify.com/artist/6BUWT5v73giW6phUFLTcbx), [久保田麻琴](https://open.spotify.com/artist/0YgNTrOUT8pFW7HehCR5mI) | [AKIRA REMIX](https://open.spotify.com/album/0P6kw8h85JdUNyI7Xfcc1B) | 3:21 | 2024-08-25 |  |
+| [TETSUO \[鉄雄\] \(Remixed by 久保田麻琴\)](https://open.spotify.com/track/5LVNUYvVuRfcoIC5ZO3RNt) | [芸能山城組](https://open.spotify.com/artist/6BUWT5v73giW6phUFLTcbx), [Makoto Kubota](https://open.spotify.com/artist/5QlBWlYKw2R1O2NUAV6rnA) | [AKIRA REMIX](https://open.spotify.com/album/0P6kw8h85JdUNyI7Xfcc1B) | 3:21 | 2024-08-25 |  |
 | [That world](https://open.spotify.com/track/6OnL0UQxLi3CO8eJH4Iabq) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Anoyo](https://open.spotify.com/album/78DUDqx2smwm8ZB8D6zG4T) | 9:10 | 2024-06-15 |  |
 | [That Мorning](https://open.spotify.com/track/5gKCeE1TQeudhmwKQzS0OY) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Afterimage](https://open.spotify.com/album/09JqZXxkKVOdcLkzDSui6S) | 4:53 | 2022-03-30 | 2022-04-03 |
 | [That's All](https://open.spotify.com/track/7L4Ty83tfVpK5PvZB2sF3l) | [Satoshi & Makoto](https://open.spotify.com/artist/4DoCz7g09pGItevU36MmPr) | [CZ\-5000 Sounds & Sequences](https://open.spotify.com/album/7I6mXMQcL6uyGNFVCspar2) | 3:30 | 2022-03-31 | 2022-05-03 |
@@ -596,7 +597,7 @@
 | [Weeping Willow / 枝垂柳](https://open.spotify.com/track/3jzFhXdkG5EPbF0TkbWDlj) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Weeping Willow / 枝垂柳](https://open.spotify.com/album/7An1KBeh1UYMiX7KIkfgam) | 3:13 | 2023-12-21 | 2024-01-12 |
 | [Weightless Moonlit Night](https://open.spotify.com/track/2MwfsAh3apy4cCU8O0oqwo) | [coconoe](https://open.spotify.com/artist/70ekC9BOgSlEQFRcLImPe4) | [Weightless Moonlit Night](https://open.spotify.com/album/0lX3Rz7vq5BEQgDOgroatN) | 3:40 | 2022-11-17 | 2022-11-19 |
 | [Weightless Moonlit Night](https://open.spotify.com/track/4MgDI6XeKfKuinjmKc0o8D) | [coconoe](https://open.spotify.com/artist/70ekC9BOgSlEQFRcLImPe4) | [Weightless Moonlit Night](https://open.spotify.com/album/2oszBYBz8X6dDOfTo75TKG) | 3:40 | 2022-11-17 | 2022-12-24 |
-| [White Sand](https://open.spotify.com/track/4rNeeZnRjs0dCxpZ6Jdpfg) | [Wataru Sato](https://open.spotify.com/artist/7M9OHZ1HUapqspMXEthkvb) | [Haze](https://open.spotify.com/album/4hI1EoRGSpR9SXb0QIFDYq) | 2:43 | 2024-05-23 |  |
+| [White Sand](https://open.spotify.com/track/4rNeeZnRjs0dCxpZ6Jdpfg) | [Wataru Sato](https://open.spotify.com/artist/7M9OHZ1HUapqspMXEthkvb) | [Haze](https://open.spotify.com/album/4hI1EoRGSpR9SXb0QIFDYq) | 2:43 | 2024-05-23 | 2024-09-12 |
 | [White Tape](https://open.spotify.com/track/6306HPSCNNFPDISly6VQFq) | [Twon Lake](https://open.spotify.com/artist/0DWNbLXfqQRTAZz7SJhYuB) | [White Tape](https://open.spotify.com/album/56PwTEBmFR9GRCSCP8KMWg) | 4:08 | 2022-04-07 | 2022-05-30 |
 | [Wine glass assembly waltz \(Wine glass\)](https://open.spotify.com/track/3BkwqiqMdALDZMYf9jYM92) | [Ai Yamamoto](https://open.spotify.com/artist/3qldm1ZFkydAPhpEOCkcRE) | [Pan De Sonic \- Iso](https://open.spotify.com/album/2OvQuWIyhtHfPHS3vschY1) | 1:10 | 2022-03-31 | 2022-07-18 |
 | [Winter Sky](https://open.spotify.com/track/3z2VJIU3KVCak8kS99lmkF) | [Koshun Nakao](https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz) | [Winter Sky](https://open.spotify.com/album/1jz9wwLGQ0H2CJommv1tmS) | 3:30 | 2022-03-31 | 2022-04-17 |

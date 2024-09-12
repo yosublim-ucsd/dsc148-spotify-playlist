@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Cover: SPOOKYPBL
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,098 likes - 56 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,140 likes - 56 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 18 | [QUELLI COME ME \(feat\. 22simba\)](https://open.spotify.com/track/1c56eVvDJVlDAq0rabjKCb) | [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9), [4TheNight](https://open.spotify.com/artist/523cP8Y8ivlsc3sLEgdNTH), [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [QUELLI COME ME \(feat\. 22simba\)](https://open.spotify.com/album/46Af4ep7IeeIUflOxN55RO) | 2:37 |
 | 19 | [1234 POSSE \(feat\. Faneto, Artie 5ive, Digital Astro, Niky Savage, Lito, Low\-Red, Kid Yugi, RRARI DAL TACCO\)](https://open.spotify.com/track/2zYzOaECWTf16Hdp4bc8Zu) | [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [KIID](https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB), [Faneto](https://open.spotify.com/artist/51101YZl9bczaDPDfVHCB4), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq), [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Lito](https://open.spotify.com/artist/3Es16vmqYL43ifHZR4YjbO), [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd) | [NO REGULAR MUSIC \- Deluxe](https://open.spotify.com/album/7MyXBQdWCOgTzq4eORz0fe) | 4:38 |
 | 20 | [Yessir](https://open.spotify.com/track/0RqGvXR15sUv7Ld3f1y3rr) | [YTN Maden](https://open.spotify.com/artist/23kbFdbRpeUNQumiTA88NU) | [Yessir](https://open.spotify.com/album/5imwGwodvC5ZcLpcSoKxFV) | 2:23 |
-| 21 | [Trench Code \(feat\. Faneto\)](https://open.spotify.com/track/348FkFje2GEWdoSHRDB9ok) | [Melons el pejor](https://open.spotify.com/artist/1LGeIi5WWtxGRavjH50STe), [Faneto](https://open.spotify.com/artist/51101YZl9bczaDPDfVHCB4) | [Trench Code \(feat\. Faneto\)](https://open.spotify.com/album/3gShtt4KfJiCrzalsXkxhA) | 3:08 |
+| 21 | [Trench Code \(feat\. Faneto\)](https://open.spotify.com/track/348FkFje2GEWdoSHRDB9ok) | [Melons](https://open.spotify.com/artist/7Lfv2d9WDAdxraeM8B9yUz), [Faneto](https://open.spotify.com/artist/51101YZl9bczaDPDfVHCB4) | [Trench Code \(feat\. Faneto\)](https://open.spotify.com/album/3gShtt4KfJiCrzalsXkxhA) | 3:08 |
 | 22 | [Gli Uomini Ti Scammano \(Tutorial 3\)](https://open.spotify.com/track/74aqL0F3igurqJUxizBt2u) | [Hammon](https://open.spotify.com/artist/606h9T2l7ABnfLC88vWoZ2) | [Gli Uomini Ti Scammano \(Tutorial 3\)](https://open.spotify.com/album/7vOhexKQbbYLH3DRI7spui) | 2:29 |
 | 23 | [MOLLY ROSA](https://open.spotify.com/track/76VxwttPNesap8xfdDn8tG) | [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7), [Faneto](https://open.spotify.com/artist/51101YZl9bczaDPDfVHCB4) | [WE 2FLY](https://open.spotify.com/album/1FkytEcYlexmrA57mgYSC2) | 2:19 |
 | 24 | [KILL AU MIC](https://open.spotify.com/track/6QqG5u7yw2wHVWpiqJVmLm) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [KILL AU MIC](https://open.spotify.com/album/4TOPISag2zNvXTVN0voCoo) | 2:35 |

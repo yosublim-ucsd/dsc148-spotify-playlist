@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 
 > The hottest tracks trending in Pakistan\. Cover: Anuv Jain
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,764 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,807 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 | 12 | [Wishes](https://open.spotify.com/track/5rpCUsEfBLIumvrxrahnKF) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN) | [Maybe, It's Love](https://open.spotify.com/album/5s1E31b6Tli6eCH5TldUS6) | 3:38 |
 | 13 | [Blockbuster](https://open.spotify.com/track/2kQ4qdEtzWR1scQBlsjl8M) | [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD), [Umair Butt](https://open.spotify.com/artist/4E2wX4DFQFhlLyVzRw0C1P), [Gharvi Group](https://open.spotify.com/artist/2zOjtDwrBj757zRzqgHP82) | [Blockbuster](https://open.spotify.com/album/6uqXvhk1Qq1sUUDTDZgxg8) | 4:34 |
 | 14 | [Tu hai kahan](https://open.spotify.com/track/3zSSCPpLZ5Oc8nelhhGjKz) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Tu hai kahan](https://open.spotify.com/album/73vfz6Szer7i3GFIesix6l) | 4:23 |
-| 15 | [Chal Diye Tum Kahan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/track/0C8SMUhJhFXzr4PICotjyB) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Chal Diye Tum Kahan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2UnoNjV8gXzHcOLpVx2yHX) | 4:35 |
+| 15 | [Chal Diye Tum Kahan \(From "Kabhi Main Kabhi Tum"\)](https://open.spotify.com/track/0C8SMUhJhFXzr4PICotjyB) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Chal Diye Tum Kahan \(From "Kabhi Main Kabhi Tum"\)](https://open.spotify.com/album/2UnoNjV8gXzHcOLpVx2yHX) | 4:35 |
 | 16 | [Softly](https://open.spotify.com/track/0YQJoDL6f46J0n1rOVkpxJ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Making Memories](https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I) | 2:35 |
 | 17 | [MVP](https://open.spotify.com/track/5BQePe9rcCJozHK3oPayYk) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [MVP](https://open.spotify.com/album/5oCCfkVCpkSUhBUXe0pyJF) | 3:16 |
 | 18 | [One Love](https://open.spotify.com/track/5ZLkihi6DVsHwDL3B8ym1t) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [One Love](https://open.spotify.com/album/3tNH9Fp4dm3qa3Kr4cv5uJ) | 2:39 |

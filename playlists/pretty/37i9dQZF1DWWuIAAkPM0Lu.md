@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Sommeren går på held: <a href="spotify:artist:6idjJt47PjFydVRrAlNw4C">Hans Philip</a> to the rescue ❤️‍🔥 <a href="spotify:track:12RzHH3ZiYmBP6ehh33L20">Du og jeg</a> ❤️‍🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,790 likes - 103 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,793 likes - 103 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 86 | [Let's Go](https://open.spotify.com/track/21RCoKctRVVVG8nt8r5dsU) | [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q), [Stig Brenner](https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf) | [Let's Go](https://open.spotify.com/album/30pPojWH2mqVN5aXmocwRY) | 2:28 |
 | 87 | [Hope](https://open.spotify.com/track/4hi3xNd6hyMJ7JNsZxLuvZ) | [Tarick](https://open.spotify.com/artist/5okfcG5ILSySJxqMiaRwmH) | [Hope](https://open.spotify.com/album/31nQu9lt43cnsJ5stkFzlN) | 3:12 |
 | 88 | [Lille Stemme](https://open.spotify.com/track/4ne04wDjF3reHlle2Kryqn) | [TERESE](https://open.spotify.com/artist/7mWiz0jbx3wNqidzndHZlR) | [Lille Stemme](https://open.spotify.com/album/3zYOpK3q7p0T0x6yhwqSGg) | 2:45 |
-| 89 | [Fairy In A Bottle](https://open.spotify.com/track/21Juy1OozXucoOIhpYElsA) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [Fairy In A Bottle](https://open.spotify.com/album/3ior6hLixuoy4tUF0TnAN6) | 5:16 |
+| 89 | [Fairy in a Bottle](https://open.spotify.com/track/21Juy1OozXucoOIhpYElsA) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [Fairy in a Bottle](https://open.spotify.com/album/3ior6hLixuoy4tUF0TnAN6) | 5:16 |
 | 90 | [2 Sider](https://open.spotify.com/track/5WmwECFQhBWhyWeNAo6t5m) | [Sli0h](https://open.spotify.com/artist/4kM0BoIoIhOahEhyt0RSNO), [Isah](https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B), [FRAM](https://open.spotify.com/artist/4eo3HSMXtaYqAAW6f14YVt) | [2 Sider](https://open.spotify.com/album/3x3gJlQD07PM82Qni8BK5i) | 2:32 |
 | 91 | [the situation](https://open.spotify.com/track/1121pgLTPEidWPG7J5ualG) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1), [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [the situation](https://open.spotify.com/album/0657U2wMjwUdAiBwWRtV5R) | 3:29 |
 | 92 | [Can I Go Back In Time?](https://open.spotify.com/track/013V9cQ2zRqM3Sy1Tvzfh2) | [Gonçalo](https://open.spotify.com/artist/2ZGAXUydLLiHcpg7mdpiTT) | [Can I Go Back In Time?](https://open.spotify.com/album/0joInyiG4blQpQ4DqyQJTI) | 3:19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MbMfAHb8U0.md) - [plain]
 
 > The tracks that you love from the artists you love\. Cover: Erykah Badu
 
-[Spotify](https://open.spotify.com/user/spotify) - 503,153 likes - 99 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 503,391 likes - 99 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MbMfAHb8U0.md) - [plain]
 | 35 | [Unanswered Question](https://open.spotify.com/track/507JG4hPjRrTAJ82Zq1f5G) | [Amel Larrieux](https://open.spotify.com/artist/4hVcxmC7igpot32EzQf7IR) | [Morning](https://open.spotify.com/album/13Yxiwc6ETb76A6U9VUiZ4) | 3:34 |
 | 36 | [Hopeless \(From the New Line Cinema Film, "Love Jones"\)](https://open.spotify.com/track/5b3MTPM3FsBDFtyMGc5xQL) | [Dionne Farris](https://open.spotify.com/artist/7HO1DbzU86pWWp1vBN7l6k) | [LOVE JONES THE MUSIC](https://open.spotify.com/album/5x9foMlnKm9Ie3MxRK5Kxg) | 3:54 |
 | 37 | [Gettin' in the Way \- Remastered](https://open.spotify.com/track/7KQJFW6TXKX12TDWwVWsW4) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Golden Moments](https://open.spotify.com/album/4ozaleREZDqTnSLuwUeYLQ) | 3:56 |
-| 38 | [More Than A Woman \(feat\. Calvin\) \- Duet w/ Calvin](https://open.spotify.com/track/0fgVs2FjWxf60Gk8aaoECK) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Calvin Richardson](https://open.spotify.com/artist/5lckATQU3N7Ralsw3VfnRb) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 4:53 |
+| 38 | [More Than A Woman \(feat\. Calvin\)](https://open.spotify.com/track/0fgVs2FjWxf60Gk8aaoECK) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Calvin Richardson](https://open.spotify.com/artist/5lckATQU3N7Ralsw3VfnRb) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 4:53 |
 | 39 | [Still Ray](https://open.spotify.com/track/792tOJmf88fWGLyD7Ca1SC) | [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo) | [Instant Vintage](https://open.spotify.com/album/0a0pGpzkkuoDNJhmv2Ti0V) | 3:03 |
 | 40 | [Get Up](https://open.spotify.com/track/5YzK2kmIM7cdpRbv0iGaEs) | [Amel Larrieux](https://open.spotify.com/artist/4hVcxmC7igpot32EzQf7IR) | [Infinite Possibilities](https://open.spotify.com/album/4L3sYcWC4WVWo3auC0WfxL) | 4:04 |
 | 41 | [Love](https://open.spotify.com/track/7cNl9yAs9sScxAPIjM1fb4) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Aijuswanaseing](https://open.spotify.com/album/7qtclyGoUMSYxOgMb0sXg5) | 5:04 |

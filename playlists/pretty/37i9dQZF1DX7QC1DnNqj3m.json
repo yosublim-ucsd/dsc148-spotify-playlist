@@ -1,6 +1,6 @@
 {
   "description": "Bask in the sound of soul, old and new.",
-  "num_followers": 527889,
+  "num_followers": 527914,
   "original_name": "Sweet Soul Sunday",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,22 @@
     {
       "added_at": "2024-09-05 18:18:29",
       "album": {
+        "name": "Soul",
+        "url": "https://open.spotify.com/album/5coBwIJ5Z8h2OlrimmdE1S"
+      },
+      "artists": [
+        {
+          "name": "Seal",
+          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
+        }
+      ],
+      "duration_ms": 242813,
+      "name": "Stand by Me",
+      "url": "https://open.spotify.com/track/5pztwVl6brVgqYjYQ93us6"
+    },
+    {
+      "added_at": "2024-09-05 18:18:29",
+      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/7H2TlAwM0GMWeZbT3XGI0F"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 215573,
       "name": "Everything",
       "url": "https://open.spotify.com/track/3ELZG2YLGrwCVesooFyF4e"
-    },
-    {
-      "added_at": "2024-09-05 18:18:29",
-      "album": {
-        "name": "Soul",
-        "url": "https://open.spotify.com/album/5coBwIJ5Z8h2OlrimmdE1S"
-      },
-      "artists": [
-        {
-          "name": "Seal",
-          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
-        }
-      ],
-      "duration_ms": 242813,
-      "name": "Stand by Me",
-      "url": "https://open.spotify.com/track/5pztwVl6brVgqYjYQ93us6"
     },
     {
       "added_at": "2024-09-05 18:18:29",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-09-05 18:18:29",
       "album": {
+        "name": "Every Great Motown Hit Of Marvin Gaye",
+        "url": "https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 196706,
+      "name": "I Heard It Through The Grapevine",
+      "url": "https://open.spotify.com/track/37j56IWzpplKE5zrlQRmxc"
+    },
+    {
+      "added_at": "2024-09-05 18:18:29",
+      "album": {
         "name": "Waiting In Vain (Feat. Tiwa Savage)",
         "url": "https://open.spotify.com/album/2RZvYVj0L48e6eBXFrL1LN"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 243450,
       "name": "Waiting In Vain (Feat. Tiwa Savage)",
       "url": "https://open.spotify.com/track/47LoDRonq5IUeh7YFOq3zg"
-    },
-    {
-      "added_at": "2024-09-05 18:18:29",
-      "album": {
-        "name": "Every Great Motown Hit Of Marvin Gaye",
-        "url": "https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 196706,
-      "name": "I Heard It Through The Grapevine",
-      "url": "https://open.spotify.com/track/37j56IWzpplKE5zrlQRmxc"
     },
     {
       "added_at": "2024-09-05 18:18:29",
@@ -987,26 +987,6 @@
     {
       "added_at": "2024-09-05 18:18:29",
       "album": {
-        "name": "Ten Cane Row (feat. Jorja Smith)",
-        "url": "https://open.spotify.com/album/5BY7i9MB7Ykwf7hMt1npU1"
-      },
-      "artists": [
-        {
-          "name": "Protoje",
-          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
-        },
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 209586,
-      "name": "Ten Cane Row (feat. Jorja Smith)",
-      "url": "https://open.spotify.com/track/1ObD1mQ91u4yBK46EYNCgl"
-    },
-    {
-      "added_at": "2024-09-05 18:18:29",
-      "album": {
         "name": "Summer Moon (feat. Kevin Kaarl)",
         "url": "https://open.spotify.com/album/3kdPIjFwMkIBCIsUqt3SrV"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 177673,
       "name": "Summer Moon (feat. Kevin Kaarl)",
       "url": "https://open.spotify.com/track/2dNGIZvZF71AR72OHpo3CE"
+    },
+    {
+      "added_at": "2024-09-05 18:18:29",
+      "album": {
+        "name": "Ten Cane Row (feat. Jorja Smith)",
+        "url": "https://open.spotify.com/album/5BY7i9MB7Ykwf7hMt1npU1"
+      },
+      "artists": [
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 209586,
+      "name": "Ten Cane Row (feat. Jorja Smith)",
+      "url": "https://open.spotify.com/track/1ObD1mQ91u4yBK46EYNCgl"
     },
     {
       "added_at": "2024-09-05 18:18:29",

@@ -1,6 +1,6 @@
 {
   "description": "A dose of high-energy rock & alt songs for your workout.",
-  "num_followers": 611503,
+  "num_followers": 611505,
   "original_name": "Rock Me Up",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2024-07-05 16:46:19",
       "album": {
-        "name": "Starburster",
-        "url": "https://open.spotify.com/album/1KkyOpscmbPAQzLNZDyI6o"
-      },
-      "artists": [
-        {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
-        }
-      ],
-      "duration_ms": 221450,
-      "name": "Starburster",
-      "url": "https://open.spotify.com/track/1cg4xD453Wuol9fNsRDbsV"
-    },
-    {
-      "added_at": "2024-07-05 16:46:19",
-      "album": {
         "name": "ZOMBIFIED",
         "url": "https://open.spotify.com/album/7nYa3AJUXbBrRLPXtneIEX"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 218520,
       "name": "ZOMBIFIED",
       "url": "https://open.spotify.com/track/2ib8fuTavdc48X6MjhE4Ft"
+    },
+    {
+      "added_at": "2024-07-05 16:46:19",
+      "album": {
+        "name": "Starburster",
+        "url": "https://open.spotify.com/album/1KkyOpscmbPAQzLNZDyI6o"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "duration_ms": 221450,
+      "name": "Starburster",
+      "url": "https://open.spotify.com/track/1cg4xD453Wuol9fNsRDbsV"
     },
     {
       "added_at": "2024-07-05 16:46:19",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-07-05 16:46:19",
       "album": {
-        "name": "Keep Me Fed",
-        "url": "https://open.spotify.com/album/1rYHznqLeJVXuy0YqwERGv"
-      },
-      "artists": [
-        {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
-        }
-      ],
-      "duration_ms": 192734,
-      "name": "S!CK",
-      "url": "https://open.spotify.com/track/1V0zZKhkSJL8GUOERCZmxf"
-    },
-    {
-      "added_at": "2024-07-05 16:46:19",
-      "album": {
         "name": "only wanna dance",
         "url": "https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 144391,
       "name": "only wanna dance",
       "url": "https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA"
+    },
+    {
+      "added_at": "2024-07-05 16:46:19",
+      "album": {
+        "name": "Keep Me Fed",
+        "url": "https://open.spotify.com/album/1rYHznqLeJVXuy0YqwERGv"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "duration_ms": 192734,
+      "name": "S!CK",
+      "url": "https://open.spotify.com/track/1V0zZKhkSJL8GUOERCZmxf"
     },
     {
       "added_at": "2024-07-05 16:46:19",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-07-05 16:46:19",
       "album": {
-        "name": "Sleepwalking",
-        "url": "https://open.spotify.com/album/4bI5LF5zauGsBIL9z8mLyl"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 187140,
-      "name": "Sleepwalking",
-      "url": "https://open.spotify.com/track/4SOtTsuFYYlkOOvXMbroUv"
-    },
-    {
-      "added_at": "2024-07-05 16:46:19",
-      "album": {
         "name": "RUCKUS!",
         "url": "https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo"
       },
@@ -975,6 +959,22 @@
     {
       "added_at": "2024-07-05 16:46:19",
       "album": {
+        "name": "Sleepwalking",
+        "url": "https://open.spotify.com/album/4bI5LF5zauGsBIL9z8mLyl"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 187140,
+      "name": "Sleepwalking",
+      "url": "https://open.spotify.com/track/4SOtTsuFYYlkOOvXMbroUv"
+    },
+    {
+      "added_at": "2024-07-05 16:46:19",
+      "album": {
         "name": "adios",
         "url": "https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK"
       },
@@ -987,6 +987,22 @@
       "duration_ms": 203502,
       "name": "adios",
       "url": "https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8"
+    },
+    {
+      "added_at": "2024-07-05 16:46:19",
+      "album": {
+        "name": "Love From The Other Side",
+        "url": "https://open.spotify.com/album/6zhsE8Z0CfH68FSjxJn0dD"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 247320,
+      "name": "Love From The Other Side - Edit",
+      "url": "https://open.spotify.com/track/7Gm1XwQL5q72SX76nxuXtW"
     },
     {
       "added_at": "2024-07-05 16:46:19",
@@ -1011,38 +1027,6 @@
     {
       "added_at": "2024-07-05 16:46:19",
       "album": {
-        "name": "Love From The Other Side",
-        "url": "https://open.spotify.com/album/6zhsE8Z0CfH68FSjxJn0dD"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 247320,
-      "name": "Love From The Other Side - Edit",
-      "url": "https://open.spotify.com/track/7Gm1XwQL5q72SX76nxuXtW"
-    },
-    {
-      "added_at": "2024-07-05 16:46:19",
-      "album": {
-        "name": "hotline",
-        "url": "https://open.spotify.com/album/4UkjOqrpHBqN3n3WgqsR8f"
-      },
-      "artists": [
-        {
-          "name": "bby",
-          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
-        }
-      ],
-      "duration_ms": 137404,
-      "name": "hotline",
-      "url": "https://open.spotify.com/track/0ZUZmQiHvcHJY3375xsk3F"
-    },
-    {
-      "added_at": "2024-07-05 16:46:19",
-      "album": {
         "name": "The Atlas Underground Flood",
         "url": "https://open.spotify.com/album/3srOjhcBLQv9XtIiSpyds6"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 184391,
       "name": "Human (feat. Barns Courtney)",
       "url": "https://open.spotify.com/track/5jPWuLGRcVDU50pyTCEjQL"
+    },
+    {
+      "added_at": "2024-07-05 16:46:19",
+      "album": {
+        "name": "hotline",
+        "url": "https://open.spotify.com/album/4UkjOqrpHBqN3n3WgqsR8f"
+      },
+      "artists": [
+        {
+          "name": "bby",
+          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
+        }
+      ],
+      "duration_ms": 137404,
+      "name": "hotline",
+      "url": "https://open.spotify.com/track/0ZUZmQiHvcHJY3375xsk3F"
     },
     {
       "added_at": "2024-07-05 16:46:19",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-07-05 16:46:19",
       "album": {
-        "name": "The Matrix",
-        "url": "https://open.spotify.com/album/6gqw69YjxD8oXGZ2rp1pPd"
-      },
-      "artists": [
-        {
-          "name": "Mother Mother",
-          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
-        }
-      ],
-      "duration_ms": 201722,
-      "name": "The Matrix",
-      "url": "https://open.spotify.com/track/0bpmBKuehVqxXeYtdeTqEG"
-    },
-    {
-      "added_at": "2024-07-05 16:46:19",
-      "album": {
         "name": "Prophets Of Rage",
         "url": "https://open.spotify.com/album/3SQmvD9SGyuJEqLKGVLX8j"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 190180,
       "name": "Prophets Of Rage",
       "url": "https://open.spotify.com/track/1bTVbi6uwmGwlsXy2soxpg"
+    },
+    {
+      "added_at": "2024-07-05 16:46:19",
+      "album": {
+        "name": "The Matrix",
+        "url": "https://open.spotify.com/album/6gqw69YjxD8oXGZ2rp1pPd"
+      },
+      "artists": [
+        {
+          "name": "Mother Mother",
+          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
+        }
+      ],
+      "duration_ms": 201722,
+      "name": "The Matrix",
+      "url": "https://open.spotify.com/track/0bpmBKuehVqxXeYtdeTqEG"
     },
     {
       "added_at": "2024-07-05 16:46:19",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2024-07-05 16:46:19",
       "album": {
+        "name": "Disgraceland",
+        "url": "https://open.spotify.com/album/1fQBO5rMjjml5ynOiiqPi3"
+      },
+      "artists": [
+        {
+          "name": "The Orwells",
+          "url": "https://open.spotify.com/artist/7ia4FaCVsbXvhVwagCJk7l"
+        }
+      ],
+      "duration_ms": 199146,
+      "name": "Who Needs You",
+      "url": "https://open.spotify.com/track/2x4F1O1fGO6yj860N2Or0N"
+    },
+    {
+      "added_at": "2024-07-05 16:46:19",
+      "album": {
         "name": "ALL CAPS (feat. John the Ghost)",
         "url": "https://open.spotify.com/album/0IZ7BqP4lOHnDM7VUsCE8C"
       },
@@ -1423,22 +1439,6 @@
     {
       "added_at": "2024-07-05 16:46:19",
       "album": {
-        "name": "Disgraceland",
-        "url": "https://open.spotify.com/album/1fQBO5rMjjml5ynOiiqPi3"
-      },
-      "artists": [
-        {
-          "name": "The Orwells",
-          "url": "https://open.spotify.com/artist/7ia4FaCVsbXvhVwagCJk7l"
-        }
-      ],
-      "duration_ms": 199146,
-      "name": "Who Needs You",
-      "url": "https://open.spotify.com/track/2x4F1O1fGO6yj860N2Or0N"
-    },
-    {
-      "added_at": "2024-07-05 16:46:19",
-      "album": {
         "name": "Leader of the Pack",
         "url": "https://open.spotify.com/album/00n83NrrZI1uq7BzXInyNS"
       },
@@ -1451,22 +1451,6 @@
       "duration_ms": 183466,
       "name": "Leader of the Pack",
       "url": "https://open.spotify.com/track/5ZrE7guVgMc6Vjvri6aZYg"
-    },
-    {
-      "added_at": "2024-07-05 16:46:19",
-      "album": {
-        "name": "The Blue-Eyed Devil",
-        "url": "https://open.spotify.com/album/7Dfycucrl2tgWwlHgj0iZB"
-      },
-      "artists": [
-        {
-          "name": "Highly Suspect",
-          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
-        }
-      ],
-      "duration_ms": 268317,
-      "name": "The Blue-Eyed Devil",
-      "url": "https://open.spotify.com/track/1mWwtzS4kByon7itf7TGQe"
     },
     {
       "added_at": "2024-07-05 16:46:19",
@@ -1487,18 +1471,18 @@
     {
       "added_at": "2024-07-05 16:46:19",
       "album": {
-        "name": "Down Here Waiting",
-        "url": "https://open.spotify.com/album/7JqkfkMLQj4HWrrqhh2CUz"
+        "name": "The Blue-Eyed Devil",
+        "url": "https://open.spotify.com/album/7Dfycucrl2tgWwlHgj0iZB"
       },
       "artists": [
         {
-          "name": "Blue October",
-          "url": "https://open.spotify.com/artist/1TJbmc7jTpw78GKCiMpvDh"
+          "name": "Highly Suspect",
+          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
         }
       ],
-      "duration_ms": 215495,
-      "name": "Down Here Waiting",
-      "url": "https://open.spotify.com/track/5yqS1eBrDMx7bbcGilON0N"
+      "duration_ms": 268317,
+      "name": "The Blue-Eyed Devil",
+      "url": "https://open.spotify.com/track/1mWwtzS4kByon7itf7TGQe"
     },
     {
       "added_at": "2024-07-05 16:46:19",
@@ -1515,6 +1499,22 @@
       "duration_ms": 164899,
       "name": "Half My Heart",
       "url": "https://open.spotify.com/track/3EMVljpsr9TPKYScAFQNJh"
+    },
+    {
+      "added_at": "2024-07-05 16:46:19",
+      "album": {
+        "name": "Down Here Waiting",
+        "url": "https://open.spotify.com/album/7JqkfkMLQj4HWrrqhh2CUz"
+      },
+      "artists": [
+        {
+          "name": "Blue October",
+          "url": "https://open.spotify.com/artist/1TJbmc7jTpw78GKCiMpvDh"
+        }
+      ],
+      "duration_ms": 215495,
+      "name": "Down Here Waiting",
+      "url": "https://open.spotify.com/track/5yqS1eBrDMx7bbcGilON0N"
     },
     {
       "added_at": "2024-07-05 16:46:19",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2024-07-05 16:46:19",
       "album": {
-        "name": "Wonderful Life",
-        "url": "https://open.spotify.com/album/3Ja3WF7ybMFGiRFNZG3Xz7"
-      },
-      "artists": [
-        {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
-        }
-      ],
-      "duration_ms": 185944,
-      "name": "Wonderful Life - Edit",
-      "url": "https://open.spotify.com/track/3CrDdihSYMmQxSRUuLsPdY"
-    },
-    {
-      "added_at": "2024-07-05 16:46:19",
-      "album": {
         "name": "Drones",
         "url": "https://open.spotify.com/album/2ZfElZEiFCJhbXZa1iVEGb"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 150007,
       "name": "Drones",
       "url": "https://open.spotify.com/track/5QNWATWEQiM9S7rsFUu0Ns"
+    },
+    {
+      "added_at": "2024-07-05 16:46:19",
+      "album": {
+        "name": "Wonderful Life",
+        "url": "https://open.spotify.com/album/3Ja3WF7ybMFGiRFNZG3Xz7"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "duration_ms": 185944,
+      "name": "Wonderful Life - Edit",
+      "url": "https://open.spotify.com/track/3CrDdihSYMmQxSRUuLsPdY"
     },
     {
       "added_at": "2024-07-05 16:46:19",

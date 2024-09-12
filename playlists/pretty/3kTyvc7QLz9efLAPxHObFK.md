@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,694 songs - 3 day 19 hr 5 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,695 songs - 3 day 19 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1702,5 +1702,6 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1692 | [Make A Move](https://open.spotify.com/track/4YZbhg5xO4SNFXB08ly0p2) | [Remzcore](https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp), [Levenkhan](https://open.spotify.com/artist/0ceEjm8IKMdK5BjMmnGMrd) | [Make A Move](https://open.spotify.com/album/4Qz1bnZeyvFcI5OuO3s6fy) | 2:06 |
 | 1693 | [Going Under](https://open.spotify.com/track/4yryIvRSVK41pRW8M4p8Yc) | [Dvastate](https://open.spotify.com/artist/1xMkzNWui7gg9TrYMto6VN), [Daniel Brooke](https://open.spotify.com/artist/5CPFsBS5qmG2TqWfVWnguA) | [Going Under](https://open.spotify.com/album/6qtYf8Tb3lReHjvXZPVVtb) | 2:43 |
 | 1694 | [Give Me a Feel](https://open.spotify.com/track/1Uky1CNhWrQTUmZsCe30Tq) | [Sghenny](https://open.spotify.com/artist/4ciy3r7f8nrBKoLZsJ6oVY) | [Give Me a Feel](https://open.spotify.com/album/3vIC8MEOYs0LUeaZiSn8rA) | 2:45 |
+| 1695 | [The Night](https://open.spotify.com/track/3jAWf9hMSgXE6t0Zzn6RYd) | [Abaddon](https://open.spotify.com/artist/3ujI46PHi7vombfnkjM8C3) | [The Night](https://open.spotify.com/album/42KHAOgMB93IRU2bY9GBjz) | 3:03 |
 
-Snapshot ID: `AAAGy4z4O101DbCtHFWKssmV19fYRvZs`
+Snapshot ID: `AAAGzJb+7Xv8vttWqZIPQWiZoW39wyF1`

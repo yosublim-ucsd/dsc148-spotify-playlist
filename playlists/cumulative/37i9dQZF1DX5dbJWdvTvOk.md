@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-722 songs - 1 day 6 hr 44 min
+724 songs - 1 day 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Absolutely Nothing](https://open.spotify.com/track/3tK6DPMKK0sOFzjtIYO31C) | [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [Absolutely Nothing](https://open.spotify.com/album/2doFeD2JvERQd22iG6AzfF) | 2:01 | 2024-01-12 |  |
 | [Across](https://open.spotify.com/track/01xJAa5YF3Ffnw7VHXvTWf) | [Aurélien Trigo](https://open.spotify.com/artist/1XvEjHuBKBUIbZHuBesoCE) | [The Acoustic Mind Vol.5](https://open.spotify.com/album/6o7WSuz1KmcL6PtxrvgSqd) | 2:06 | 2022-07-15 | 2023-04-22 |
 | [Adelita](https://open.spotify.com/track/5AI6zlfccr8OZBUDT996F9) | [Juan Jose Moreno](https://open.spotify.com/artist/4hQDTsoE4V7uoOvtvxp12P) | [Adelita](https://open.spotify.com/album/1uPC9jQL9J7q8SsjxuphpP) | 2:04 | 2023-03-10 |  |
-| [Aegean](https://open.spotify.com/track/6cz8KGBcdCg0V095WH7prM) | [Ale Imke](https://open.spotify.com/artist/3zs6LXRTOTwSP8r38kQxSy) | [Aegean](https://open.spotify.com/album/4UGR9mcZoSuhvybQmz9CwJ) | 2:00 | 2023-04-21 |  |
+| [Aegean](https://open.spotify.com/track/6cz8KGBcdCg0V095WH7prM) | [Ale Imke](https://open.spotify.com/artist/3zs6LXRTOTwSP8r38kQxSy) | [Aegean](https://open.spotify.com/album/4UGR9mcZoSuhvybQmz9CwJ) | 2:00 | 2023-04-21 | 2024-09-12 |
 | [Afgangurinn](https://open.spotify.com/track/6bploBGfSJclJuxjV65t3r) | [Aiday Ainur](https://open.spotify.com/artist/5BuB7CRnNJKxzSsu6Mznbj) | [Afgangurinn](https://open.spotify.com/album/711Vy0KS3fmb4K2rgMtP6x) | 2:03 | 2023-04-21 | 2023-06-10 |
 | [Afterglow](https://open.spotify.com/track/0g6ooNqnQPI231K12NymuV) | [Leo Vara](https://open.spotify.com/artist/3f2LfaBv92I0qjmfU6fseT) | [Bordeaux](https://open.spotify.com/album/0yU3pYIPQBNVNhEisrJwe6) | 2:38 | 2023-04-21 | 2023-06-03 |
 | [Afternoon in May](https://open.spotify.com/track/1FcvorbsrplfCxOX3ch77B) | [Michelle Qureshi](https://open.spotify.com/artist/2tnTYLzDkug2iNhsBpWmuG) | [Within](https://open.spotify.com/album/65eOKdl0MxptxgnpDiM8ax) | 2:22 | 2024-02-23 |  |
@@ -204,6 +204,7 @@
 | [El Sabio](https://open.spotify.com/track/1BD7TSYXjUvy4TSK32Wdvt) | [Alonso Librado](https://open.spotify.com/artist/0fCLdOidYGZ2fORXrf3zw0) | [El Sabio](https://open.spotify.com/album/7rEdQ9J5cqBWErZkHyLf7n) | 2:06 | 2022-12-09 | 2023-04-22 |
 | [El Viaje](https://open.spotify.com/track/2YFGFwuUBprxAXQjVHS4Q3) | [Juan Jose Moreno](https://open.spotify.com/artist/4hQDTsoE4V7uoOvtvxp12P) | [El Viaje](https://open.spotify.com/album/44HzmqeXrVMkV4XCAb4Muv) | 2:48 | 2022-07-15 | 2022-07-29 |
 | [Elegia](https://open.spotify.com/track/72dTSVm9IsZD0eYft7H7XV) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Elegia](https://open.spotify.com/album/5akwFZfzBFG3ISUpHfIju8) | 2:28 | 2023-04-21 |  |
+| [Embrace](https://open.spotify.com/track/2WoTg0pmCpUpakSrIVMyc4) | [Emmanuel Fischer](https://open.spotify.com/artist/2yB2CmOKM98FyiYDq0H1v3) | [Embrace](https://open.spotify.com/album/5JtSMJQHqrir1O0CY8cPT2) | 2:35 | 2024-09-10 |  |
 | [Emilia](https://open.spotify.com/track/5DdyzYxR6gj2yTdDdc0upl) | [Jacob Ledger](https://open.spotify.com/artist/7Ky67NUialaMahn63a39wg) | [Emilia](https://open.spotify.com/album/2H1UqvpzhDAfML0LSSmkot) | 2:01 | 2023-04-21 | 2024-07-19 |
 | [En el Último Trago](https://open.spotify.com/track/26ZLo3OE6vf6NK56YRn1I4) | [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx) | [Nosotros](https://open.spotify.com/album/6SVKwaelrNUm99Fo0992kJ) | 2:57 | 2022-07-15 | 2022-07-29 |
 | [En Mis Brazos](https://open.spotify.com/track/5IRsN77ZPXy0YmY3cvVFuX) | [Juliana Gonsales](https://open.spotify.com/artist/0rASXzSswkFvGnrpmKIR8D) | [En Mis Brazos](https://open.spotify.com/album/3wd6e9BvUxKEVZf0LCj56t) | 2:02 | 2022-11-25 | 2023-04-22 |
@@ -557,11 +558,12 @@
 | [Shadmoor](https://open.spotify.com/track/5ZdIQzQKjUpVfKgS1uJJwu) | [Adriana Roman](https://open.spotify.com/artist/7HUyaHzmYiELlUuddfvwJp) | [Shadmoor](https://open.spotify.com/album/0cmWpYtEpZ8WT7nV1PbKVi) | 2:41 | 2023-04-21 | 2024-09-06 |
 | [Shadows and Sunlight](https://open.spotify.com/track/3b2eNZja0ok5k8QQjn3ezu) | [K.C Brown](https://open.spotify.com/artist/5p3he9DObPlyFw4iwatApa) | [Shadows and Sunlight](https://open.spotify.com/album/48ererOiL22UHujflBgt0r) | 2:56 | 2024-04-05 |  |
 | [Shape Of My Heart](https://open.spotify.com/track/6PHLD9YXtN4GOeDZofs9op) | [Paolo Velera](https://open.spotify.com/artist/6IA4Wsjyp72OYkvWlkwyeH) | [Shape Of My Heart](https://open.spotify.com/album/03v8TGP1Zc77rJhr1rT8ZF) | 3:28 | 2022-07-15 | 2023-04-22 |
-| [Share her stories](https://open.spotify.com/track/38Co6nwfiAJkSLc7rlMaKr) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [Share her stories](https://open.spotify.com/album/18tauEkO61p1X265CtryAz) | 2:08 | 2024-09-10 |  |
+| [Share her stories](https://open.spotify.com/track/38Co6nwfiAJkSLc7rlMaKr) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [Share her stories](https://open.spotify.com/album/18tauEkO61p1X265CtryAz) | 2:08 | 2024-09-10 | 2024-09-12 |
 | [Sharing the Message](https://open.spotify.com/track/6uQ455iD5ovinVMKWuGbVu) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Sharing the Message](https://open.spotify.com/album/23Fi6Kuce1QLJOZLjTYwbl) | 2:56 | 2024-04-19 |  |
 | [Shifrin](https://open.spotify.com/track/6hcKAG0hvriFgNlhJPfhmU) | [Tomas North](https://open.spotify.com/artist/1JfHydBw6fmjakoFxPjDbF) | [Reise um die Welt](https://open.spotify.com/album/0zYxILZ553vmyZNgbaMMEK) | 3:13 | 2022-07-15 | 2022-09-17 |
 | [Shoes Filled With Water](https://open.spotify.com/track/2yYjoMurH5WOclS46dZU7c) | [Peter Netz](https://open.spotify.com/artist/2IrjMzbLiQJ60OBz4dk1ui) | [Shoes Filled With Water](https://open.spotify.com/album/1wN4NcPAER9ivsoqj5h3yi) | 3:33 | 2023-04-21 |  |
 | [Showers of Peace](https://open.spotify.com/track/4bs9xDSrypNaBwr5gpz13t) | [American Legion](https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3) | [Showers of Peace](https://open.spotify.com/album/4dMEHoghOzPnQajEqi0nKn) | 2:41 | 2023-04-21 |  |
+| [Sighs at Sunrise](https://open.spotify.com/track/2OOeFSreST9tlRmhxBchtz) | [Elijah Stone](https://open.spotify.com/artist/0Z1kuJ3hjjRHW7h8hwowdu) | [Sighs at Sunrise](https://open.spotify.com/album/36eNKGSb9Z6hW123nBfyIK) | 2:18 | 2024-09-10 |  |
 | [Silent Senses](https://open.spotify.com/track/25OjmtlPiAxOBYVK9RJpEB) | [Jónatan Tinek](https://open.spotify.com/artist/3m1CHyq4P8IYZyEn4A2qVF) | [Silent Senses](https://open.spotify.com/album/6FM9tmXDgP3cOofFRSFZ8b) | 2:19 | 2023-04-21 |  |
 | [Silent Sigh](https://open.spotify.com/track/612dMYgROLM8ZTF7ucY41U) | [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [Silent Sigh](https://open.spotify.com/album/5znmBBJ5OV0jVSMFX9a7rT) | 2:45 | 2023-04-21 |  |
 | [Silver Light](https://open.spotify.com/track/6jqOMgW43YKj1Q8mRzQoxS) | [Vincenzo Adelini](https://open.spotify.com/artist/2DCXusMUJpcFfPM786dD8v) | [Silver Light](https://open.spotify.com/album/1LO8pLa7mpZgkLddhh9B8m) | 2:16 | 2023-04-21 | 2023-06-03 |

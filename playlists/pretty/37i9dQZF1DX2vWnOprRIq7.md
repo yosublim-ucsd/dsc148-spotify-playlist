@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vWnOprRIq7.md) - [plain]
 
 > El lado electrónico del indie latino, featuring Vita Set.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,104 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,110 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vWnOprRIq7.md) - [plain]
 | 57 | [LA PLATAFORMA](https://open.spotify.com/track/0ma62XoSLbTZr4Db9POAWz) | [Vita Set](https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy) | [LA PLATAFORMA](https://open.spotify.com/album/1ODhmEjwaYQDYRfcWUHEVY) | 3:47 |
 | 58 | [pétalos](https://open.spotify.com/track/3GGyzRplHTFujmGYnbGm48) | [Yaima Cat](https://open.spotify.com/artist/7lA6PHewYqNvU7FE8W2ohI), [Simón Campusano](https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU) | [pétalos](https://open.spotify.com/album/1z0XIoA6KwsJo7zPoopLqI) | 3:30 |
 | 59 | [Días](https://open.spotify.com/track/033LUswuPS3Hg1QYYd0lJm) | [Ino Guridi](https://open.spotify.com/artist/2VZdNAReEB4AWkJ5MPj3g7) | [Pasará](https://open.spotify.com/album/4dLe34FABKIx05p6u5ajHC) | 3:34 |
-| 60 | [Ficción](https://open.spotify.com/track/19ql2PoaEn31alAgeIpsp1) | [Varese](https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg) | [Ficción](https://open.spotify.com/album/7kqvgYRCFIHjRTEXnVjSWW) | 3:21 |
-| 61 | [De Otra Vida](https://open.spotify.com/track/3c27ZTYS7cKiySSBNElVAh) | [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi) | [Una Dosis de Terciopelo](https://open.spotify.com/album/6UgJn3Do0qF5Q28RsGIdKd) | 4:16 |
+| 60 | [De Otra Vida](https://open.spotify.com/track/3c27ZTYS7cKiySSBNElVAh) | [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi) | [Una Dosis de Terciopelo](https://open.spotify.com/album/6UgJn3Do0qF5Q28RsGIdKd) | 4:16 |
+| 61 | [Ficción](https://open.spotify.com/track/19ql2PoaEn31alAgeIpsp1) | [Varese](https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg) | [Ficción](https://open.spotify.com/album/7kqvgYRCFIHjRTEXnVjSWW) | 3:21 |
 | 62 | [BERLIN](https://open.spotify.com/track/2eeadXZwAZISEqMnUEfMj1) | [FERMIN](https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz) | [BERLIN](https://open.spotify.com/album/49Hpo8cIUT5LxLV9w089Su) | 4:17 |
 | 63 | [Nada que ver](https://open.spotify.com/track/3lD8DZfzilDTI0R42VSCvr) | [Halpe](https://open.spotify.com/artist/5fUaIEaRhzIad7C49MqTsy), [Solo Juan](https://open.spotify.com/artist/6RokCoxONJFwZ3myq6unmI) | [Nada que ver](https://open.spotify.com/album/65G9K1ZVORf6C2esI96EGI) | 3:13 |
 | 64 | [Hemofilia \- Remix](https://open.spotify.com/track/5OK0uhqJ6OZYonsxGK17lQ) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G), [Ferla](https://open.spotify.com/artist/3mnC4xKYX84yK9yRGC6AZW) | [Hemofilia \(Remix\)](https://open.spotify.com/album/4FlmyozlciTYc9RURkfTIV) | 6:47 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vWnOprRIq7.md) - [plain]
 | 81 | [Carmesí](https://open.spotify.com/track/1LdKISORlAZuiuoMxW91FL) | [MARTE](https://open.spotify.com/artist/18ZiM1zKj24fJxeFM4UDlg) | [Carmesí](https://open.spotify.com/album/79Lk7RVCEpU0PJXzp5A0Iz) | 4:14 |
 | 82 | [fotosíntesis](https://open.spotify.com/track/6Z161cZhRgJLlmdyLoWyBd) | [los romances](https://open.spotify.com/artist/7srAOn17fO00nYRZiJkH0J), [El Chacal & Los Alpes Floreados](https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey) | [fotosíntesis](https://open.spotify.com/album/4hLgPK4dCOyUaE8z6Q9AZB) | 3:07 |
 | 83 | [Bocado a Bocado](https://open.spotify.com/track/7HlWjFNcuvzkWhBG699dW4) | [UMA](https://open.spotify.com/artist/6sGX7YU5GYzvsUaqOZLJxP), [Lucas Martí](https://open.spotify.com/artist/4SjBX6jitXDJ7VUfIqeXfP) | [Bocado a Bocado](https://open.spotify.com/album/4kmFRMOjrFEZmhm5xHD5k9) | 3:07 |
-| 84 | [Pervertida](https://open.spotify.com/track/3NdVUpnmEzQgJXREHnOZAk) | [Vera Frod](https://open.spotify.com/artist/2ffhBFNgQMHzaJt0v4A8fX), [Punga](https://open.spotify.com/artist/0wpeDItjD9NshrMSwk6plk), [MAG](https://open.spotify.com/artist/4btSpSQaEy7tSM9zfJk8Iz) | [Pervertida](https://open.spotify.com/album/07oXThRDn2gQ4hvcNMWFRK) | 2:29 |
-| 85 | [Flaps](https://open.spotify.com/track/1KulHWqJTFq3tKAXJxDASc) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [ELETÉ](https://open.spotify.com/artist/1WCFSXLGsuWdA4UyYYumFs) | [FLAPS](https://open.spotify.com/album/5hfIZZICVUZzSVGjSv4fRn) | 3:45 |
+| 84 | [Flaps](https://open.spotify.com/track/1KulHWqJTFq3tKAXJxDASc) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [ELETÉ](https://open.spotify.com/artist/1WCFSXLGsuWdA4UyYYumFs) | [FLAPS](https://open.spotify.com/album/5hfIZZICVUZzSVGjSv4fRn) | 3:45 |
+| 85 | [Pervertida](https://open.spotify.com/track/3NdVUpnmEzQgJXREHnOZAk) | [Vera Frod](https://open.spotify.com/artist/2ffhBFNgQMHzaJt0v4A8fX), [Punga](https://open.spotify.com/artist/0wpeDItjD9NshrMSwk6plk), [MAG](https://open.spotify.com/artist/4btSpSQaEy7tSM9zfJk8Iz) | [Pervertida](https://open.spotify.com/album/07oXThRDn2gQ4hvcNMWFRK) | 2:29 |
 | 86 | [Blue Planet](https://open.spotify.com/track/2qsB52JnIjIKzsWcZwVXzb) | [CVMILLE](https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv) | [Blue Planet](https://open.spotify.com/album/0M9LsY1BnlDDG8kdvFR44S) | 2:33 |
 | 87 | [Amor \- Remix](https://open.spotify.com/track/7aexh1SaZkQDwXoo0v1paF) | [Kush Mama](https://open.spotify.com/artist/7IaPQKeWAra6PB5Vjx5uvJ) | [Amor \(Remix\)](https://open.spotify.com/album/0gWxvPH2Ff45ZHyLPW14pd) | 5:06 |
 | 88 | [Modernos](https://open.spotify.com/track/0fXdGk5hDi1uvtFFq3QjFp) | [La Femme D´Argent](https://open.spotify.com/artist/2322VlBmxItu46m3d5KOyQ) | [Modernos](https://open.spotify.com/album/3fWV46dBC3QBaVNa241fO0) | 4:13 |

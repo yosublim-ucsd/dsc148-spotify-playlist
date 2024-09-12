@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. YoSoyMatt en portada.",
-  "num_followers": 58738,
+  "num_followers": 58755,
   "original_name": "EDM\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "CAJETA",
-        "url": "https://open.spotify.com/album/0uYZaczNoETjWCLYFQVhbH"
-      },
-      "artists": [
-        {
-          "name": "Fend",
-          "url": "https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7"
-        }
-      ],
-      "duration_ms": 146976,
-      "name": "CAJETA",
-      "url": "https://open.spotify.com/track/3gtlrOxwdsrreHMqH1heyw"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
         "name": "Light Up",
         "url": "https://open.spotify.com/album/3lpliBOg303cNhbNCeDMZm"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 161378,
       "name": "Light Up",
       "url": "https://open.spotify.com/track/319XgEPeEfhMw276p5wzg3"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
+        "name": "CAJETA",
+        "url": "https://open.spotify.com/album/0uYZaczNoETjWCLYFQVhbH"
+      },
+      "artists": [
+        {
+          "name": "Fend",
+          "url": "https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7"
+        }
+      ],
+      "duration_ms": 146976,
+      "name": "CAJETA",
+      "url": "https://open.spotify.com/track/3gtlrOxwdsrreHMqH1heyw"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -1255,6 +1255,26 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
+        "name": "Throw Your Hands Up",
+        "url": "https://open.spotify.com/album/58K43P0kCpBXJHSv5anp2L"
+      },
+      "artists": [
+        {
+          "name": "Bear Grillz",
+          "url": "https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe"
+        },
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        }
+      ],
+      "duration_ms": 159103,
+      "name": "Throw Your Hands Up",
+      "url": "https://open.spotify.com/track/41QWpqEoozBbbRhyt1ypyh"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
         "name": "Franca Barona",
         "url": "https://open.spotify.com/album/4wOs4oZxujsDhiUI436gOL"
       },
@@ -1275,26 +1295,6 @@
       "duration_ms": 215294,
       "name": "Franca Barona",
       "url": "https://open.spotify.com/track/29cUhxuaujLL63aQ7yQrtD"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
-        "name": "Throw Your Hands Up",
-        "url": "https://open.spotify.com/album/58K43P0kCpBXJHSv5anp2L"
-      },
-      "artists": [
-        {
-          "name": "Bear Grillz",
-          "url": "https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe"
-        },
-        {
-          "name": "Jessica Audiffred",
-          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
-        }
-      ],
-      "duration_ms": 159103,
-      "name": "Throw Your Hands Up",
-      "url": "https://open.spotify.com/track/41QWpqEoozBbbRhyt1ypyh"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -1351,6 +1351,26 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
+        "name": "Movie Star",
+        "url": "https://open.spotify.com/album/42NaAw7hSOoQ0uAncIEoX0"
+      },
+      "artists": [
+        {
+          "name": "The Wookies",
+          "url": "https://open.spotify.com/artist/6IPSnlQfZiEJxFG4oFAz7a"
+        },
+        {
+          "name": "Midnight Generation",
+          "url": "https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq"
+        }
+      ],
+      "duration_ms": 357703,
+      "name": "Movie Star",
+      "url": "https://open.spotify.com/track/0se0Bv7xJIXPsK5inL0Qo1"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
         "name": "BOOM SHAKALAKA",
         "url": "https://open.spotify.com/album/2BKzS0a2D1tzeXlS2H6TA5"
       },
@@ -1375,46 +1395,6 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "Movie Star",
-        "url": "https://open.spotify.com/album/42NaAw7hSOoQ0uAncIEoX0"
-      },
-      "artists": [
-        {
-          "name": "The Wookies",
-          "url": "https://open.spotify.com/artist/6IPSnlQfZiEJxFG4oFAz7a"
-        },
-        {
-          "name": "Midnight Generation",
-          "url": "https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq"
-        }
-      ],
-      "duration_ms": 357703,
-      "name": "Movie Star",
-      "url": "https://open.spotify.com/track/0se0Bv7xJIXPsK5inL0Qo1"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
-        "name": "Amanecer",
-        "url": "https://open.spotify.com/album/2dpoGIT0FH5ceESag6H3bi"
-      },
-      "artists": [
-        {
-          "name": "Mr. Pig",
-          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
-        },
-        {
-          "name": "DEKKO",
-          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Amanecer",
-      "url": "https://open.spotify.com/track/6hh3qOUupeGORRXwNJXmuL"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
         "name": "Yo No Soy Marinero",
         "url": "https://open.spotify.com/album/7Lg3d27iQnRX3Is6yEXho5"
       },
@@ -1435,6 +1415,26 @@
       "duration_ms": 278413,
       "name": "Hombre Duna",
       "url": "https://open.spotify.com/track/454PpaaytyVPG1FNfVcWhJ"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
+        "name": "Amanecer",
+        "url": "https://open.spotify.com/album/2dpoGIT0FH5ceESag6H3bi"
+      },
+      "artists": [
+        {
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        },
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Amanecer",
+      "url": "https://open.spotify.com/track/6hh3qOUupeGORRXwNJXmuL"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -1519,26 +1519,6 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "Ibiza",
-        "url": "https://open.spotify.com/album/0iwqxPcjXrCe9XtjIQNdLS"
-      },
-      "artists": [
-        {
-          "name": "Mr. Pig",
-          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
-        },
-        {
-          "name": "Mario Bautista",
-          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
-        }
-      ],
-      "duration_ms": 204213,
-      "name": "Ibiza",
-      "url": "https://open.spotify.com/track/3VK6cgdLWEBP7ZMxQJnhRX"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
         "name": "Ancara Messi",
         "url": "https://open.spotify.com/album/045J1gvKL5Uj3AuKMV89Bf"
       },
@@ -1583,22 +1563,6 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "Petricor",
-        "url": "https://open.spotify.com/album/0IVYH4XuCGwV5Xdw6oL1nG"
-      },
-      "artists": [
-        {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
-        }
-      ],
-      "duration_ms": 204427,
-      "name": "Petricor",
-      "url": "https://open.spotify.com/track/5d4DtQUmvFYubKmOhL0p7m"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
         "name": "CONTACTO CERO",
         "url": "https://open.spotify.com/album/4KFLmLBQURkxyttCbReLFT"
       },
@@ -1615,22 +1579,18 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "Su Majestad La Eternidad (C\u00f3dex F\u00e9nix Rework)",
-        "url": "https://open.spotify.com/album/6eNV8XRDWeWfYiWNLmgPko"
+        "name": "Petricor",
+        "url": "https://open.spotify.com/album/0IVYH4XuCGwV5Xdw6oL1nG"
       },
       "artists": [
         {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
-        },
-        {
-          "name": "C\u00f3dex F\u00e9nix",
-          "url": "https://open.spotify.com/artist/0Z2QCuPFA3x3OoH20obELy"
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
         }
       ],
-      "duration_ms": 254386,
-      "name": "Su Majestad La Eternidad - C\u00f3dex F\u00e9nix Rework",
-      "url": "https://open.spotify.com/track/5rfmTvAbeyUMLZKByrCYxC"
+      "duration_ms": 204427,
+      "name": "Petricor",
+      "url": "https://open.spotify.com/track/5d4DtQUmvFYubKmOhL0p7m"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -1659,8 +1619,8 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "CLI CLI Clan Clan",
-        "url": "https://open.spotify.com/album/7CyIk7mlvZK9F5AFggoRWH"
+        "name": "Ibiza",
+        "url": "https://open.spotify.com/album/0iwqxPcjXrCe9XtjIQNdLS"
       },
       "artists": [
         {
@@ -1668,13 +1628,33 @@
           "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
         },
         {
-          "name": "Potencia Lirical",
-          "url": "https://open.spotify.com/artist/6fxEt6A7hRd7Iq4FnwSxVb"
+          "name": "Mario Bautista",
+          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
         }
       ],
-      "duration_ms": 259306,
-      "name": "CLI CLI Clan Clan",
-      "url": "https://open.spotify.com/track/5xLrfv3GK89aV5lL1ger1e"
+      "duration_ms": 204213,
+      "name": "Ibiza",
+      "url": "https://open.spotify.com/track/3VK6cgdLWEBP7ZMxQJnhRX"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
+        "name": "Su Majestad La Eternidad (C\u00f3dex F\u00e9nix Rework)",
+        "url": "https://open.spotify.com/album/6eNV8XRDWeWfYiWNLmgPko"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        },
+        {
+          "name": "C\u00f3dex F\u00e9nix",
+          "url": "https://open.spotify.com/artist/0Z2QCuPFA3x3OoH20obELy"
+        }
+      ],
+      "duration_ms": 254386,
+      "name": "Su Majestad La Eternidad - C\u00f3dex F\u00e9nix Rework",
+      "url": "https://open.spotify.com/track/5rfmTvAbeyUMLZKByrCYxC"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -1727,22 +1707,6 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "LA LLORONA",
-        "url": "https://open.spotify.com/album/4R4l8ss2gfFI0RAw0bk9ZZ"
-      },
-      "artists": [
-        {
-          "name": "LEX",
-          "url": "https://open.spotify.com/artist/7e9fkXTW7DlRaBOPoiaKCV"
-        }
-      ],
-      "duration_ms": 241874,
-      "name": "LA LLORONA",
-      "url": "https://open.spotify.com/track/0yeqFFADufeX5WrPZnYG7V"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
         "name": "Ayanami",
         "url": "https://open.spotify.com/album/5NVQqWiBw9New8cyTEwBsR"
       },
@@ -1787,18 +1751,38 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "Mr.Pig",
-        "url": "https://open.spotify.com/album/6kiD6iS7MAcG9MjCpmUfUa"
+        "name": "LA LLORONA",
+        "url": "https://open.spotify.com/album/4R4l8ss2gfFI0RAw0bk9ZZ"
+      },
+      "artists": [
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/7e9fkXTW7DlRaBOPoiaKCV"
+        }
+      ],
+      "duration_ms": 241874,
+      "name": "LA LLORONA",
+      "url": "https://open.spotify.com/track/0yeqFFADufeX5WrPZnYG7V"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
+        "name": "CLI CLI Clan Clan",
+        "url": "https://open.spotify.com/album/7CyIk7mlvZK9F5AFggoRWH"
       },
       "artists": [
         {
           "name": "Mr. Pig",
           "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        },
+        {
+          "name": "Potencia Lirical",
+          "url": "https://open.spotify.com/artist/6fxEt6A7hRd7Iq4FnwSxVb"
         }
       ],
-      "duration_ms": 174106,
-      "name": "Asereje",
-      "url": "https://open.spotify.com/track/5mkhP5I8alKIYytxsuhYNr"
+      "duration_ms": 259306,
+      "name": "CLI CLI Clan Clan",
+      "url": "https://open.spotify.com/track/5xLrfv3GK89aV5lL1ger1e"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -1839,6 +1823,26 @@
       "duration_ms": 208125,
       "name": "Pass The Dutch",
       "url": "https://open.spotify.com/track/0Tk3EEE8mCTb8VaS5Phqc0"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
+        "name": "Forever (Tonga Conga Remix)",
+        "url": "https://open.spotify.com/album/1AuahjwurBIlkDXjJ2D95I"
+      },
+      "artists": [
+        {
+          "name": "Midnight Generation",
+          "url": "https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq"
+        },
+        {
+          "name": "Tonga Conga",
+          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
+        }
+      ],
+      "duration_ms": 332000,
+      "name": "Forever - Tonga Conga Remix",
+      "url": "https://open.spotify.com/track/5u4rVp6lsWZRgkVmHNPDV2"
     }
   ],
   "unique_name": "EDM\u00e9xico",

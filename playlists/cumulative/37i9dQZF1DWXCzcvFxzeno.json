@@ -231,6 +231,28 @@
     },
     {
       "album": {
+        "name": "Atmosphere",
+        "url": "https://open.spotify.com/album/2KO4aVMoXCnZyCGlJDzXLv"
+      },
+      "artists": [
+        {
+          "name": "Zeltak",
+          "url": "https://open.spotify.com/artist/7abM3xmXx55x7dQZot1Dpd"
+        },
+        {
+          "name": "HOEHENANGST",
+          "url": "https://open.spotify.com/artist/5Th92yptJHxyXDEgc5qtQl"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297290,
+      "name": "Atmosphere",
+      "url": "https://open.spotify.com/track/0K6j9TthnI8F4uvt4ecI1d"
+    },
+    {
+      "album": {
         "name": "Aural Exciter - The Remixes",
         "url": "https://open.spotify.com/album/6RopaDNX28CL1wdag8gzmk"
       },
@@ -1563,6 +1585,24 @@
     },
     {
       "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/3e337N4JrILh8eZsyjAL2b"
+      },
+      "artists": [
+        {
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409000,
+      "name": "Legacy",
+      "url": "https://open.spotify.com/track/0aMonkh8OKgqx1K0viRHRT"
+    },
+    {
+      "album": {
         "name": "Fuck Off",
         "url": "https://open.spotify.com/album/2X2NdphQiFadhokXq1VqdK"
       },
@@ -1610,7 +1650,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 316478,
       "name": "Levada",
       "url": "https://open.spotify.com/track/4jyL6lRVTyh2j67ObJ0EUH"
@@ -2306,7 +2346,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 342453,
       "name": "Queen of the Banshees - Nico Moreno Remix",
       "url": "https://open.spotify.com/track/1RM4nxRkTwXtOKilbWtsKk"

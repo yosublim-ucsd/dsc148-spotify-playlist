@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,601 likes - 270 songs - 12 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,662 likes - 270 songs - 12 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,7 +135,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 125 | [The Origin of Belief](https://open.spotify.com/track/2OGX1pafcLlcqI0fmVCEjr) | [Francesco Le Metre](https://open.spotify.com/artist/6LhB3BzQTnbX8DVi4GCmrs) | [Unknown: Cave Of Bones \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/40UqG0iP6C6U7bAYnebYtn) | 4:00 |
 | 126 | [Gratandi Jeg thig Beiði](https://open.spotify.com/track/1fwdPWwfZ7AjycrxygYTeB) | [Högni](https://open.spotify.com/artist/3HAGb8WLuYRre506Dr8oJm), [Eron Thor Jónsson](https://open.spotify.com/artist/3I25rax1xKExqYyMTIdOae) | [Gratandi Jeg thig Beiði \(From the Netflix Series Katla\)](https://open.spotify.com/album/3dGWrl3PvpMUyMHx7VKrwU) | 2:21 |
 | 127 | [Jamais Carmen ne cèdera](https://open.spotify.com/track/2BVV1sJIiXsIEOAAQQHOR8) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Carmen \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0qmj5YMfe04Ss8MFRg8F5d) | 3:00 |
-| 128 | [Benevolence \- Tetris Original Motion Picture Soundtrack](https://open.spotify.com/track/2Q1QzJ3BGNi484jCdUSf9Z) | [Aaron Hibell](https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj) | [Tetris \(Motion Picture Soundtrack\)](https://open.spotify.com/album/1ADmUnR6Z8kRxwFna9ffK6) | 2:30 |
+| 128 | [Benevolence \- Tetris Original Motion Picture Soundtrack](https://open.spotify.com/track/2Q1QzJ3BGNi484jCdUSf9Z) | [Aaron Hibell](https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj) | [Tetris \- Motion Picture Soundtrack](https://open.spotify.com/album/1ADmUnR6Z8kRxwFna9ffK6) | 2:30 |
 | 129 | [Fencing Duel](https://open.spotify.com/track/0GSJipW8Nt5ZNRtQEpUzfP) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ), [London Contemporary Orchestra](https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M) | [Chevalier \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3y2KkTMbsx3E35iUTb971k) | 2:15 |
 | 130 | [On Our Plates](https://open.spotify.com/track/0iYsrjk7owSIKL2TEv0sRA) | [ABBOTT](https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt), [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc) | [Joko Winterscheidt Presents: The World's Most Dangerous Show \(Amazon Original Series Soundtrack\)](https://open.spotify.com/album/1dhumjxsQOOmrJLUt0gstP) | 4:07 |
 | 131 | [Wednesday Main Titles](https://open.spotify.com/track/3dd9uXh41vmFLO3UvqLJL6) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Wednesday \(Original Series Soundtrack\)](https://open.spotify.com/album/2uuGxhpcN88ctFFHAYOzxF) | 1:09 |

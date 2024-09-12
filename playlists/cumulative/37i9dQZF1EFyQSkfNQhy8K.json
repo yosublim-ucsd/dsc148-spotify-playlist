@@ -3379,6 +3379,24 @@
     },
     {
       "album": {
+        "name": "Trago Al Pecho",
+        "url": "https://open.spotify.com/album/1ZgHIkKZSnxj0DbBKmOdv4"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168120,
+      "name": "Trago Al Pecho",
+      "url": "https://open.spotify.com/track/2FizWFIAvYANGK4CHOzGFw"
+    },
+    {
+      "album": {
         "name": "Calambre",
         "url": "https://open.spotify.com/album/0HvKhpJzjmC5wloza8MjXF"
       },

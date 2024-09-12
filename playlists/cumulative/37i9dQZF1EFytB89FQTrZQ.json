@@ -3707,6 +3707,32 @@
     },
     {
       "album": {
+        "name": "HOT (Remix)",
+        "url": "https://open.spotify.com/album/5LEpzGrWKZJDfSDd6Xccfp"
+      },
+      "artists": [
+        {
+          "name": "Pia Mia",
+          "url": "https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205426,
+      "name": "HOT (with Sean Paul & Flo Milli) - Remix",
+      "url": "https://open.spotify.com/track/2uPfFGg18EsXxWR8m8I7O5"
+    },
+    {
+      "album": {
         "name": "Snacks",
         "url": "https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb"
       },

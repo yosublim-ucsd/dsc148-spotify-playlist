@@ -2,9 +2,9 @@
 
 ### [อินดี้ศาสตร์ Indieology](https://open.spotify.com/playlist/37i9dQZF1DWXPoAK0p4FcE)
 
-> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: LANDOKMAI
+> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: Safeplanet
 
-61 songs - 4 hr 15 min
+62 songs - 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [ดวงอาทิตย์ตก \(Sunset\)](https://open.spotify.com/track/6BKMVMcZF0vB9LEria3th7) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [ดวงอาทิตย์ตก \(Sunset\)](https://open.spotify.com/album/4UYFjP7uXK2MnYY4zTSTIp) | 3:34 | 2024-06-27 | 2024-08-17 |
 | [ดึง \(Tension\)](https://open.spotify.com/track/5ScRHC5BJzjzNWbrEHE6TS) | [Slur](https://open.spotify.com/artist/7G4qd0NlBQf4AxC0klpuDY) | [ดึง \(Tension\)](https://open.spotify.com/album/5CvAyfpneNWmsBodEmZ1kX) | 4:04 | 2024-08-16 | 2024-08-31 |
 | [ด้วยความไม่จริงใจ](https://open.spotify.com/track/0uq8rOoqymhkbRrd676hmd) | [Moving and Cut](https://open.spotify.com/artist/4Ay4SXrEtSvyImMWgFeFZ3) | [ด้วยความไม่จริงใจ](https://open.spotify.com/album/4hjAPx4hSv4NGsgpsNtl6X) | 3:49 | 2024-06-27 |  |
-| [ตลอดไปที่เป็นจริง \(คือโดนทิ้งตลอดกาล\)](https://open.spotify.com/track/33KlpDka9LzP7XGF2onlhh) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [เรนิษรา Radio](https://open.spotify.com/album/3epd1gHGZvz2NBeF0lyyyP) | 3:05 | 2024-06-27 |  |
+| [ตลอดไปที่เป็นจริง \(คือโดนทิ้งตลอดกาล\)](https://open.spotify.com/track/33KlpDka9LzP7XGF2onlhh) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [เรนิษรา Radio](https://open.spotify.com/album/3epd1gHGZvz2NBeF0lyyyP) | 3:05 | 2024-06-27 | 2024-09-12 |
 | [ตาข่ายดักฝัน \(Rainbow Catcher\)](https://open.spotify.com/track/6PAS5UAJQLYgzRJu2s2a8U) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [Rainbow Landscape](https://open.spotify.com/album/1ZwmlC8iroJsQ9o76cYdCd) | 4:25 | 2024-08-16 |  |
 | [ต่อจากคืนนี้ \(ฉันจะไม่มีเธอแล้ว\) \- Gloomy](https://open.spotify.com/track/0dXpGBC0pUivUk96OrptbQ) | [Newery](https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen) | [ต่อจากคืนนี้ \(ฉันจะไม่มีเธอแล้ว\) \[Gloomy\]](https://open.spotify.com/album/15Vu38hxu9KIZHeU9ZKsjW) | 4:17 | 2024-06-27 |  |
 | [ต้องห้ามน้ำตาแบบไหน \(Lacrimal Gland\)](https://open.spotify.com/track/39VELAPLYYqNYjKBpkeYJH) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [ต้องห้ามน้ำตาแบบไหน \(Lacrimal Gland\)](https://open.spotify.com/album/0tbhHsd13yvAyGRFJwXfua) | 4:12 | 2024-08-23 |  |
@@ -67,6 +67,7 @@
 | [ในตอนที่มันเกิด \(Meanwhile\)](https://open.spotify.com/track/0wU9CXGETgREUgHC4YMn7g) | [Slur](https://open.spotify.com/artist/7G4qd0NlBQf4AxC0klpuDY) | [ในตอนที่มันเกิด \(Meanwhile\)](https://open.spotify.com/album/2T0raSSftyOKI6t5SG0QOn) | 4:18 | 2024-06-27 | 2024-07-27 |
 | [ให้เธอรู้](https://open.spotify.com/track/3bxsNh46m1cicdfcNptwOY) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [ให้เธอรู้](https://open.spotify.com/album/7spK5lX3p2nBLYmgyA5CyX) | 4:11 | 2024-06-27 |  |
 | [ไม่ต้องเกรงใจ \(Make Sure\)](https://open.spotify.com/track/03VOGaj0opd5oCVwg1NU30) | [Stoondio](https://open.spotify.com/artist/1aVt6mMj51qleWROhksK8J) | [ไม่ต้องเกรงใจ \(Make Sure\)](https://open.spotify.com/album/3kr9AyWsyMVUnRnatvJQSt) | 3:36 | 2024-08-30 |  |
+| [ไม่เคยรู้](https://open.spotify.com/track/5HCwzA8KgJa7MVj0Gs3pL6) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [ไม่เคยรู้](https://open.spotify.com/album/0QYsMM0FeG6QryoPlf54io) | 5:02 | 2024-09-11 |  |
 | [ไม่เป็นไรนะเธอ](https://open.spotify.com/track/1eQUklIPZutkbl723BdQQy) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [ไม่เป็นไรนะเธอ](https://open.spotify.com/album/0x8o1AMHFKCGIxpmQn8tVL) | 4:36 | 2024-06-27 |  |
 | [ไม่ใกล้เคียงฉันเลย](https://open.spotify.com/track/1xOZwZkn1fFUb2e1pwMjRt) | [Moving and Cut](https://open.spotify.com/artist/4Ay4SXrEtSvyImMWgFeFZ3) | [ไม่ใกล้เคียงฉันเลย](https://open.spotify.com/album/7tFLU2QlYvNCnUQKLV26hD) | 3:42 | 2024-06-27 |  |
 

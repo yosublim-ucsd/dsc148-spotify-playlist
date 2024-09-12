@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 > The biggest house bangers popping off in the UK, let's go! Patrick Topping, Green Velvet
 
-[Spotify](https://open.spotify.com/user/spotify) - 745,537 likes - 120 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 745,549 likes - 120 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 | 15 | [Famax \- Franky Rizardo Remix](https://open.spotify.com/track/2Oocj7yGn2oAKhh3Bg6RD2) | [RAFFA GUIDO](https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ), [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Famax \(Franky Rizardo Remix\)](https://open.spotify.com/album/1Zw8fGD6Ba9SNR5CeTCA6G) | 3:31 |
 | 16 | [Mercy](https://open.spotify.com/track/6u1BgjotlF5sUwMvpTqtdA) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Mercy](https://open.spotify.com/album/3oM67ehG9IkPgF8JqQVPLl) | 2:30 |
 | 17 | [Energy](https://open.spotify.com/track/5YoLcp1bzRTN8sNWXuGvxu) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa) | [Energy](https://open.spotify.com/album/1GdqL2xW6eVsnBhTRQmTVc) | 4:01 |
-| 18 | [Happy People \(feat\. Stevie Appleton\)](https://open.spotify.com/track/4PqgPfXmv76B0CQN8e7ka8) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Happy People \(feat\. Stevie Appleton\)](https://open.spotify.com/album/7v6ECYtA4YDhPxZDwG1kEf) | 2:34 |
+| 18 | [Happy People](https://open.spotify.com/track/4PqgPfXmv76B0CQN8e7ka8) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Happy People](https://open.spotify.com/album/7v6ECYtA4YDhPxZDwG1kEf) | 2:34 |
 | 19 | [Blow My Mind](https://open.spotify.com/track/0XreCaaGPkZpuEiRM1MiWq) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d), [GHSTGHSTGHST](https://open.spotify.com/artist/3SrkcdnKx2kzCHGFk9xE48) | [Blow My Mind](https://open.spotify.com/album/1slkHMzVPHaSr0OIhMrxZ1) | 2:31 |
 | 20 | [Pegao](https://open.spotify.com/track/0LmYyhrISLyWmZKyoNUs02) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Pegao](https://open.spotify.com/album/6y1Fi9CczyD0QDxMKyMwGB) | 3:38 |
 | 21 | [ENERGY](https://open.spotify.com/track/2aGGiMfC7LHqcTVO78OujV) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E) | [ENERGY](https://open.spotify.com/album/2SlDo6WkY27EiEVwjXdtS8) | 2:20 |

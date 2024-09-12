@@ -4,7 +4,7 @@
 
 > The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: ALLMO$T
 
-181 songs - 10 hr 18 min
+183 songs - 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [CRASHING](https://open.spotify.com/track/52ctyXOm7J3niFI1T0Spul) | [O SIDE MAFIA](https://open.spotify.com/artist/4O19i2jHEjPyz17BeiwbDp), [Tu$ Brother$](https://open.spotify.com/artist/7IECoRDgYFidTg3vhiL0sC) | [CRASHING](https://open.spotify.com/album/6iRhMAlVxeM3QJfm8PK3lT) | 4:24 | 2023-11-15 | 2023-12-30 |
 | [DAB \- Leaked interlude](https://open.spotify.com/track/0XfEJcbDfXVpEkVc1kTXUZ) | [HELLMERRY](https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc) | [DAB \(Leaked interlude\)](https://open.spotify.com/album/4ihyVo02StqInn6ZAVn60T) | 2:45 | 2023-09-20 | 2024-01-10 |
 | [Di kita trip](https://open.spotify.com/track/1lS1wmAFXcj4RMbQ3pEhDt) | [CK YG](https://open.spotify.com/artist/57yOAX6apIrclpBG736Uy2) | [Di kita trip](https://open.spotify.com/album/3iYWYMFX37PfR3w4n1Z3fa) | 2:54 | 2024-03-06 | 2024-05-09 |
-| [Di Ko Kasalanan \(feat\. gins&melodies\)](https://open.spotify.com/track/7q5sqrG9X5ZzwSqKIpM77F) | [DEMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO), [gins&melodies](https://open.spotify.com/artist/2WzWSpOB41g3gb78Raj6RK) | [Di Ko Kasalanan \(feat\. gins&melodies\)](https://open.spotify.com/album/0GuFAo9QHxDMdTCMKpix06) | 3:19 | 2024-05-08 |  |
+| [Di Ko Kasalanan \(feat\. gins&melodies\)](https://open.spotify.com/track/7q5sqrG9X5ZzwSqKIpM77F) | [DEMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO), [gins&melodies](https://open.spotify.com/artist/2WzWSpOB41g3gb78Raj6RK) | [Di Ko Kasalanan \(feat\. gins&melodies\)](https://open.spotify.com/album/0GuFAo9QHxDMdTCMKpix06) | 3:19 | 2024-05-08 | 2024-09-12 |
+| [Di man lagi](https://open.spotify.com/track/6GjNUBBNKxrgwVnRJCt4wa) | [Jom](https://open.spotify.com/artist/021sXp6RH5MQCCp2hmal6q), [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [Di man lagi](https://open.spotify.com/album/2sOCSrAwqK7JnmxFp6MIkf) | 2:26 | 2024-09-11 |  |
 | [Diba Wala](https://open.spotify.com/track/0TcSVGN8ROdyBe4fxvMYfT) | [Crakky](https://open.spotify.com/artist/3t80c7XZFuKcSUVyvpI6d3), [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [Diba Wala](https://open.spotify.com/album/62hqwbFoxB9TTpnVnmvXTw) | 2:41 | 2024-07-17 |  |
 | [Dikapamigay](https://open.spotify.com/track/5bEoMNE8AuautKnCVKHyxf) | [Realest Cram](https://open.spotify.com/artist/3d0hhzHPK0jA5mKTeFIZc5), [ENZO MF](https://open.spotify.com/artist/1Miwe0S1KiQu7zZhTYdtJV) | [Dikapamigay](https://open.spotify.com/album/1kISZMlDKKu14boq3Ze9Qp) | 4:17 | 2024-06-26 |  |
 | [Don't Play With Us](https://open.spotify.com/track/029wtk4SD7qKs63ulhgtUc) | [OLG Zak](https://open.spotify.com/artist/3cAaV8C5Lgdvtib9ub4EGs), [Realest Cram](https://open.spotify.com/artist/3d0hhzHPK0jA5mKTeFIZc5), [ENZO MF](https://open.spotify.com/artist/1Miwe0S1KiQu7zZhTYdtJV) | [Don't Play With Us](https://open.spotify.com/album/3JIiRchM7D9BE5Ksj5aUze) | 3:23 | 2023-09-20 | 2024-02-15 |
@@ -99,7 +100,7 @@
 | [Kendeng \- Spotify Singles](https://open.spotify.com/track/5BAvRy2t4VEyl4sAhg92of) | [Morobeats](https://open.spotify.com/artist/7KQiKk7w5wQQp7nATlmXEL) | [Kendeng \(Spotify Singles\)](https://open.spotify.com/album/1eNDHRcQr7cOO6xUIn09jI) | 2:59 | 2023-09-23 | 2024-01-18 |
 | [KG](https://open.spotify.com/track/3311oX5J2qJAyiuuDLpTxP) | [Nik Makino](https://open.spotify.com/artist/3lFMRWaEWZlfXdBig97kks) | [KG](https://open.spotify.com/album/7vLdKTCbTcm4GV2AyKEwBj) | 3:31 | 2023-09-20 | 2023-11-02 |
 | [Kunan Mong Pic](https://open.spotify.com/track/6q07OiEEt6Tz2SkGuwCCGo) | [O SIDE MAFIA](https://open.spotify.com/artist/4O19i2jHEjPyz17BeiwbDp), [BRGR](https://open.spotify.com/artist/44vb4XsoBQRJlLGflZQfkv), [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Kunan Mong Pic](https://open.spotify.com/album/2yo2p2KkXVyYNV5Lo8XxwN) | 3:15 | 2024-05-24 |  |
-| [Lagabog](https://open.spotify.com/track/0pZ1RKuQnKK3TetoSHyx7i) | [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc), [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Lagabog](https://open.spotify.com/album/2eTeeKM6MBnbU67LAlPRqC) | 3:06 | 2024-01-31 |  |
+| [Lagabog](https://open.spotify.com/track/0pZ1RKuQnKK3TetoSHyx7i) | [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc), [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Lagabog](https://open.spotify.com/album/2eTeeKM6MBnbU67LAlPRqC) | 3:06 | 2024-01-31 | 2024-09-12 |
 | [Lil Kasalanan Shortie](https://open.spotify.com/track/6zdryckXPbIeQE5npNqvNp) | [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Lil Kasalanan Shortie](https://open.spotify.com/album/03XSg6TO123KLtT7YusRjO) | 2:43 | 2023-11-15 |  |
 | [LOW](https://open.spotify.com/track/0WXKTXf2dX28zbpaozHcg7) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [LOW](https://open.spotify.com/album/6GudVvbJ370hfdYFDj97G9) | 4:57 | 2024-03-27 | 2024-05-09 |
 | [Low Key](https://open.spotify.com/track/6Eik0bvVyGHACEEJWqfFQl) | [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc) | [Low Key](https://open.spotify.com/album/6sfBOM9O439L3kClbO4aoX) | 2:43 | 2024-07-11 |  |
@@ -189,5 +190,6 @@
 | [Yes Hello](https://open.spotify.com/track/77M3LJt3ldz27LwszuuDfH) | [Bugoy Na Koykoy](https://open.spotify.com/artist/1Hcbuz175YJT1vMX4DnS6E), [Young Blood Neet](https://open.spotify.com/artist/0Vl8gbpWPr8B6N7g5UtPSU) | [Training Day](https://open.spotify.com/album/1vm29cEdbgKVxwFHFztmKB) | 3:05 | 2024-07-01 |  |
 | [Yorokobi feesu](https://open.spotify.com/track/5JGFp7RISGWJnvapcoyqFQ) | [CK YG](https://open.spotify.com/artist/57yOAX6apIrclpBG736Uy2) | [Yorokobi feesu](https://open.spotify.com/album/3Ug4ULajBTwSZlBVWEMpXd) | 3:48 | 2024-04-10 | 2024-07-12 |
 | [Young Gaddy](https://open.spotify.com/track/2zUknMznHhaw5cDfMpFWvg) | [Shanti Dope](https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT) | [Young Gaddy](https://open.spotify.com/album/7I5q9GXoYDRfM0UudEbYxz) | 2:55 | 2023-09-20 | 2023-11-18 |
+| [Zero F\*cks](https://open.spotify.com/track/0hMTCu0bJhqbVcpNsfMP2Y) | [Kris Delano](https://open.spotify.com/artist/4MX8TDXjG2zLcfaaYtDMJC), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Yours Truly](https://open.spotify.com/album/0eLwyUTGyj0nvAsEMWSc7c) | 4:04 | 2024-09-11 |  |
 
 \*This playlist was first scraped on 2023-09-23. Prior content cannot be recovered.

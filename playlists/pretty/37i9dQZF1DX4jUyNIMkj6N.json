@@ -1,6 +1,6 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 205808,
+  "num_followers": 205841,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
@@ -615,6 +615,22 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
+        "name": "Malory",
+        "url": "https://open.spotify.com/album/139qxM4hgaUdqp8UuJS3E7"
+      },
+      "artists": [
+        {
+          "name": "Martin Stahl",
+          "url": "https://open.spotify.com/artist/7ylfdeeD5JK8el6XcP8z8l"
+        }
+      ],
+      "duration_ms": 178003,
+      "name": "Malory",
+      "url": "https://open.spotify.com/track/4C5UxFQ0okYz2NGUGWtees"
+    },
+    {
+      "added_at": "2024-09-05 22:00:00",
+      "album": {
         "name": "Wild Geese, Wild Love / Day 2000 Awake",
         "url": "https://open.spotify.com/album/66GZtWDeK1hpl8runVWZQB"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 232053,
       "name": "Both Sides Now",
       "url": "https://open.spotify.com/track/4msq6mMo1ue59EiCPTFWEr"
-    },
-    {
-      "added_at": "2024-09-05 22:00:00",
-      "album": {
-        "name": "Malory",
-        "url": "https://open.spotify.com/album/139qxM4hgaUdqp8UuJS3E7"
-      },
-      "artists": [
-        {
-          "name": "Martin Stahl",
-          "url": "https://open.spotify.com/artist/7ylfdeeD5JK8el6XcP8z8l"
-        }
-      ],
-      "duration_ms": 178003,
-      "name": "Malory",
-      "url": "https://open.spotify.com/track/4C5UxFQ0okYz2NGUGWtees"
     },
     {
       "added_at": "2024-09-05 22:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
-        "name": "bl\u00f3mi",
-        "url": "https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE"
-      },
-      "artists": [
-        {
-          "name": "Susanne Sundf\u00f8r",
-          "url": "https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow"
-        }
-      ],
-      "duration_ms": 299840,
-      "name": "bl\u00f3mi",
-      "url": "https://open.spotify.com/track/6V4rQnyEzcBefZdUqrNV80"
-    },
-    {
-      "added_at": "2024-09-05 22:00:00",
-      "album": {
         "name": "Waiting For (Demo)",
         "url": "https://open.spotify.com/album/2zdSSXwvguG24MkhGoag9Y"
       },
@@ -979,18 +963,34 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
-        "name": "homebound",
-        "url": "https://open.spotify.com/album/2pwEWAxrNUJ9xWqVifLw4C"
+        "name": "bl\u00f3mi",
+        "url": "https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE"
       },
       "artists": [
         {
-          "name": "SATRE",
-          "url": "https://open.spotify.com/artist/0KMIpYnQZYg0rEYMgDd4Hm"
+          "name": "Susanne Sundf\u00f8r",
+          "url": "https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow"
         }
       ],
-      "duration_ms": 204098,
-      "name": "homebound",
-      "url": "https://open.spotify.com/track/2390QtVcsiBd50QbKd2s6x"
+      "duration_ms": 299840,
+      "name": "bl\u00f3mi",
+      "url": "https://open.spotify.com/track/6V4rQnyEzcBefZdUqrNV80"
+    },
+    {
+      "added_at": "2024-09-05 22:00:00",
+      "album": {
+        "name": "Peaceful Easy Feeling",
+        "url": "https://open.spotify.com/album/2uxvMTMKp8jS3icJPSqIhL"
+      },
+      "artists": [
+        {
+          "name": "Birds are better",
+          "url": "https://open.spotify.com/artist/0ZYJwHf0cMQ2FTg9IMlpIZ"
+        }
+      ],
+      "duration_ms": 171038,
+      "name": "Peaceful Easy Feeling",
+      "url": "https://open.spotify.com/track/2G48AXcYCzTPM7WMCoAKJy"
     }
   ],
   "unique_name": "Nordic Folk",

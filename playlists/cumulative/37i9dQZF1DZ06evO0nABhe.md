@@ -2,7 +2,7 @@
 
 ### [This Is Story Of The Year](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0nABhe)
 
-> This is Story Of The Year\. En önemli parçalar, hepsi tek bir çalma listesinde.
+> This is Story Of The Year\. The essential tracks, all in one playlist.
 
 54 songs - 3 hr 9 min
 

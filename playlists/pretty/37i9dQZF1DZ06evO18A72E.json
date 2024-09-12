@@ -1,12 +1,12 @@
 {
-  "description": "This is Panic! At The Disco. The essential tracks, all in one playlist.",
-  "num_followers": 775795,
+  "description": "This Is Panic! At The Disco. Los temas esenciales, todos en una lista.",
+  "num_followers": 775807,
   "original_name": "This Is Panic! At The Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zt46gAAAAADRX9jnS9TWvR8OzDGOlkH1",
+  "snapshot_id": "Zt+MAAAAAACzyKui/7yYSVN7zegZyLLe",
   "tracks": [
     {
       "added_at": null,
@@ -108,9 +108,9 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 178600,
-      "name": "Victorious",
-      "url": "https://open.spotify.com/track/6od5hFv9IT5JHc7NEF9HRv"
+      "duration_ms": 158666,
+      "name": "Emperor's New Clothes",
+      "url": "https://open.spotify.com/track/3px2rAPu74ltbkf9eZsZ8h"
     },
     {
       "added_at": null,
@@ -172,9 +172,9 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 158666,
-      "name": "Emperor's New Clothes",
-      "url": "https://open.spotify.com/track/3px2rAPu74ltbkf9eZsZ8h"
+      "duration_ms": 178600,
+      "name": "Victorious",
+      "url": "https://open.spotify.com/track/6od5hFv9IT5JHc7NEF9HRv"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 
 > Uma playlist de pura alma pop! Foto: Bárbara Tinoco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,962 likes - 70 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,017 likes - 70 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 | 57 | [Não és tu, sou eu](https://open.spotify.com/track/6vmouKTLdfvqj29t5LUe8d) | [Bárbara Tinoco](https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT) | [Não és tu, sou eu](https://open.spotify.com/album/00UkRecCWhLSZIwxsX55zE) | 2:59 |
 | 58 | [Juntar Estrelas](https://open.spotify.com/track/0OS0JI6vlxidLQnrZQ2G3m) | [Ivo Lucas](https://open.spotify.com/artist/2Py0XQSu8EfmYYOzvbOco5), [Os Azeitonas](https://open.spotify.com/artist/580DM82FybhvbJYUtEjkEz) | [Juntar Estrelas](https://open.spotify.com/album/3Zcv7hf4aVLPbDiIy19p7t) | 3:38 |
 | 59 | [Sem Hora Marcada](https://open.spotify.com/track/6bLIR9R5T73E2idV7vUZQ1) | [Rita Rocha](https://open.spotify.com/artist/6zACiTxKXpO8M50M065iDy), [Guga](https://open.spotify.com/artist/5bHp05UXAArdXldRyU8lJP) | [Sem Hora Marcada](https://open.spotify.com/album/4QFpbqxcgIEylU0I932Khs) | 4:02 |
-| 60 | [CHIQUITINHA](https://open.spotify.com/track/7CCbwO2bTJYavz61WU8OsK) | [MARO](https://open.spotify.com/artist/4IgRDYUNOfDQ64aaquFdtw), [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4) | [CHIQUITINHA](https://open.spotify.com/album/1SW0QWVu5gr2D5wq4gBBpY) | 2:40 |
+| 60 | [CHIQUITINHA](https://open.spotify.com/track/7CCbwO2bTJYavz61WU8OsK) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn), [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4) | [CHIQUITINHA](https://open.spotify.com/album/1SW0QWVu5gr2D5wq4gBBpY) | 2:40 |
 | 61 | [Outro Planeta](https://open.spotify.com/track/5gowKvKBEEpQhdAL2Qklhe) | [Virgul](https://open.spotify.com/artist/0qe3I1MOY8oFj3DuoWNwbq) | [Outro Planeta](https://open.spotify.com/album/2QEjRxraeyKj7iYlLLQUCM) | 3:04 |
 | 62 | [Quero\-te Tanto](https://open.spotify.com/track/5KXvtkQlN2oyT0ZohwFw7Q) | [Anjos](https://open.spotify.com/artist/55emZB6OJOvHmTpuqa6HZz) | [Quero\-te Tanto](https://open.spotify.com/album/4YlvibOyd9OdHdfUZ36N08) | 2:46 |
 | 63 | [Entre O Passado E O Futuro](https://open.spotify.com/track/0CohDEhfKQFP1cuJ5NEoPs) | [João Só](https://open.spotify.com/artist/3iDVVJyqrMCzLkV5s4x1he) | [Entre O Passado E O Futuro](https://open.spotify.com/album/1RGsfRn9pL5WrFJUutdu4V) | 2:38 |

@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "A Tu Lado",
+        "url": "https://open.spotify.com/album/1OAaPMH8U0FciBbtdY1gV0"
+      },
+      "artists": [
+        {
+          "name": "BANITO",
+          "url": "https://open.spotify.com/artist/3vQFsnNL91bUE3knJ2dLTn"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176639,
+      "name": "A Tu Lado",
+      "url": "https://open.spotify.com/track/50n5y9pMihKGBu29fz4Bew"
+    },
+    {
+      "album": {
         "name": "abused",
         "url": "https://open.spotify.com/album/0FPHvkFMpuMpVfaNlxadU9"
       },
@@ -976,7 +994,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 201875,
       "name": "Just Like I Love You",
       "url": "https://open.spotify.com/track/7z5EIeDKgPukdh3sve82xJ"

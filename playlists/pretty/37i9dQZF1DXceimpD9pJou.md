@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: <a href="spotify:artist:5UGUivMfBVd8JcBfjnniBf">Natan El Profeta</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,885 likes - 99 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,913 likes - 99 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

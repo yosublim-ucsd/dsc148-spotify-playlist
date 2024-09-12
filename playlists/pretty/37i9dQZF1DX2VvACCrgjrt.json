@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\ude08\ud83d\ude08 featuring Dillon Francis & Julian Jordan",
-  "num_followers": 448012,
+  "num_followers": 448046,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -847,26 +847,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Skip",
-        "url": "https://open.spotify.com/album/6FGPOgL60G0VhYki83WFCE"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Ingrosso",
-          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
-        },
-        {
-          "name": "Steve Angello",
-          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
-        }
-      ],
-      "duration_ms": 151520,
-      "name": "Skip",
-      "url": "https://open.spotify.com/track/0OHyE7d3EfGT6jIDVRN4Qn"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "DRENCH",
         "url": "https://open.spotify.com/album/2i8ecQjFpCCw6b6e8fHT2H"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 197893,
       "name": "DRENCH",
       "url": "https://open.spotify.com/track/6hEpkJRBkYwTpUe8D4uKgW"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Skip",
+        "url": "https://open.spotify.com/album/6FGPOgL60G0VhYki83WFCE"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Ingrosso",
+          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+        },
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        }
+      ],
+      "duration_ms": 151520,
+      "name": "Skip",
+      "url": "https://open.spotify.com/track/0OHyE7d3EfGT6jIDVRN4Qn"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1269,22 +1269,6 @@
       "url": "https://open.spotify.com/track/4BXAqV100Noy0wBNT7Ui5p"
     },
     {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "MEDUSA",
-        "url": "https://open.spotify.com/album/2r3XGbTst5i9ev1QVTs7Yj"
-      },
-      "artists": [
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        }
-      ],
-      "duration_ms": 183997,
-      "name": "MEDUSA",
-      "url": "https://open.spotify.com/track/3T808KZtBzAJTtZMNQR82g"
-    },
-    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Bumba Bass",
@@ -1303,6 +1287,22 @@
       "duration_ms": 133125,
       "name": "Bumba Bass",
       "url": "https://open.spotify.com/track/119lPAmtAB9PhFXE7XBWV2"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "MEDUSA",
+        "url": "https://open.spotify.com/album/2r3XGbTst5i9ev1QVTs7Yj"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        }
+      ],
+      "duration_ms": 183997,
+      "name": "MEDUSA",
+      "url": "https://open.spotify.com/track/3T808KZtBzAJTtZMNQR82g"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1401,28 +1401,24 @@
       "url": "https://open.spotify.com/track/1OUBfd2vYvT6w8ghwbncOq"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
+      "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Pa Pa Pa (feat. MC Maromba)",
-        "url": "https://open.spotify.com/album/7epfRuG2KTrdbUrVUGyMhR"
+        "name": "Lockdown",
+        "url": "https://open.spotify.com/album/6C2ezhjaFoS7V1GdHD3gbK"
       },
       "artists": [
         {
-          "name": "Henry Fong",
-          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
         },
         {
-          "name": "Mc Maromba",
-          "url": "https://open.spotify.com/artist/3o3p6fGYftm6nJpS6YJ11Q"
-        },
-        {
-          "name": "KAORU",
-          "url": "https://open.spotify.com/artist/3eDtd9oQyjD2OuMNgVHOag"
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
         }
       ],
-      "duration_ms": 139687,
-      "name": "Pa Pa Pa (feat. MC Maromba)",
-      "url": "https://open.spotify.com/track/5FLAWwDuIq8bYZ80uWzgQ4"
+      "duration_ms": 185624,
+      "name": "Lockdown",
+      "url": "https://open.spotify.com/track/6EdnmlpuR9O7ZpUwonIih4"
     },
     {
       "added_at": "2024-06-28 14:01:45",
@@ -1445,24 +1441,28 @@
       "url": "https://open.spotify.com/track/4w8OjBEgU5TY5hFnnSry9B"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-05-31 04:00:00",
       "album": {
-        "name": "Lockdown",
-        "url": "https://open.spotify.com/album/6C2ezhjaFoS7V1GdHD3gbK"
+        "name": "Pa Pa Pa (feat. MC Maromba)",
+        "url": "https://open.spotify.com/album/7epfRuG2KTrdbUrVUGyMhR"
       },
       "artists": [
         {
-          "name": "Nostalgix",
-          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+          "name": "Henry Fong",
+          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
         },
         {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+          "name": "Mc Maromba",
+          "url": "https://open.spotify.com/artist/3o3p6fGYftm6nJpS6YJ11Q"
+        },
+        {
+          "name": "KAORU",
+          "url": "https://open.spotify.com/artist/3eDtd9oQyjD2OuMNgVHOag"
         }
       ],
-      "duration_ms": 185624,
-      "name": "Lockdown",
-      "url": "https://open.spotify.com/track/6EdnmlpuR9O7ZpUwonIih4"
+      "duration_ms": 139687,
+      "name": "Pa Pa Pa (feat. MC Maromba)",
+      "url": "https://open.spotify.com/track/5FLAWwDuIq8bYZ80uWzgQ4"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1577,6 +1577,22 @@
       "url": "https://open.spotify.com/track/20c8JyEhYuPFOH2qZ0CwDZ"
     },
     {
+      "added_at": "2024-06-28 14:01:45",
+      "album": {
+        "name": "Nebula",
+        "url": "https://open.spotify.com/album/0ZxA2UfY6QLTnOtH3rExch"
+      },
+      "artists": [
+        {
+          "name": "NUZB",
+          "url": "https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa"
+        }
+      ],
+      "duration_ms": 195744,
+      "name": "Nebula",
+      "url": "https://open.spotify.com/track/2QBIMr3RAUr6OxoOIHM4r5"
+    },
+    {
       "added_at": "2024-05-24 04:00:00",
       "album": {
         "name": "Get It Now",
@@ -1595,22 +1611,6 @@
       "duration_ms": 168937,
       "name": "Get It Now",
       "url": "https://open.spotify.com/track/1BKM1I18zJBgQBNJ90EFxk"
-    },
-    {
-      "added_at": "2024-06-28 14:01:45",
-      "album": {
-        "name": "Nebula",
-        "url": "https://open.spotify.com/album/0ZxA2UfY6QLTnOtH3rExch"
-      },
-      "artists": [
-        {
-          "name": "NUZB",
-          "url": "https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa"
-        }
-      ],
-      "duration_ms": 195744,
-      "name": "Nebula",
-      "url": "https://open.spotify.com/track/2QBIMr3RAUr6OxoOIHM4r5"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1713,22 +1713,6 @@
       "url": "https://open.spotify.com/track/4syPRodeBvcGLGweHK69SP"
     },
     {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Mr Machine",
-        "url": "https://open.spotify.com/album/3qreINmrmmeC9r7MPMWtl0"
-      },
-      "artists": [
-        {
-          "name": "John Dahlb\u00e4ck",
-          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Mr Machine",
-      "url": "https://open.spotify.com/track/5rFMmCVWuPRqYb0BbSNP7V"
-    },
-    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "I'm Drunk (feat. AMY MIY\u00da)",
@@ -1747,6 +1731,42 @@
       "duration_ms": 150234,
       "name": "I'm Drunk (feat. AMY MIY\u00da)",
       "url": "https://open.spotify.com/track/0WW8txqecanm76y5Je34nf"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Mr Machine",
+        "url": "https://open.spotify.com/album/3qreINmrmmeC9r7MPMWtl0"
+      },
+      "artists": [
+        {
+          "name": "John Dahlb\u00e4ck",
+          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Mr Machine",
+      "url": "https://open.spotify.com/track/5rFMmCVWuPRqYb0BbSNP7V"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Gua Gua",
+        "url": "https://open.spotify.com/album/05hCvePiexeRJkSKVBNb59"
+      },
+      "artists": [
+        {
+          "name": "Gian Varela",
+          "url": "https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF"
+        },
+        {
+          "name": "Maffio",
+          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
+        }
+      ],
+      "duration_ms": 172380,
+      "name": "Gua Gua",
+      "url": "https://open.spotify.com/track/4OlDil0aYB6e9G0ojfKZFy"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1813,6 +1833,26 @@
       "url": "https://open.spotify.com/track/1VPOl6ZBsQYXXWkgXsBvEo"
     },
     {
+      "added_at": "2024-06-24 15:40:12",
+      "album": {
+        "name": "The Power",
+        "url": "https://open.spotify.com/album/2bdfOELL4elrcJ46EQW1jj"
+      },
+      "artists": [
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        },
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        }
+      ],
+      "duration_ms": 197841,
+      "name": "The Power",
+      "url": "https://open.spotify.com/track/2GaS9ec79BY9G6TW850wTe"
+    },
+    {
       "added_at": "2024-07-12 04:00:00",
       "album": {
         "name": "BACK IT UP",
@@ -1841,44 +1881,24 @@
       "url": "https://open.spotify.com/track/5vKSIdnjFFnXX32usUzM4C"
     },
     {
-      "added_at": "2024-06-24 15:40:12",
+      "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "The Power",
-        "url": "https://open.spotify.com/album/2bdfOELL4elrcJ46EQW1jj"
+        "name": "Ascend",
+        "url": "https://open.spotify.com/album/7FjAK5OapRFX541hRkEFlM"
       },
       "artists": [
         {
-          "name": "Marten H\u00f8rger",
-          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+          "name": "OVERWERK",
+          "url": "https://open.spotify.com/artist/2f9PTWJfMMDTAFZcvHy1Z5"
         },
         {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+          "name": "CODEUNIT",
+          "url": "https://open.spotify.com/artist/0OwyvnDOVdvrBhgHAkU9tC"
         }
       ],
-      "duration_ms": 197841,
-      "name": "The Power",
-      "url": "https://open.spotify.com/track/2GaS9ec79BY9G6TW850wTe"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Gua Gua",
-        "url": "https://open.spotify.com/album/05hCvePiexeRJkSKVBNb59"
-      },
-      "artists": [
-        {
-          "name": "Gian Varela",
-          "url": "https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF"
-        },
-        {
-          "name": "Maffio",
-          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
-        }
-      ],
-      "duration_ms": 172380,
-      "name": "Gua Gua",
-      "url": "https://open.spotify.com/track/4OlDil0aYB6e9G0ojfKZFy"
+      "duration_ms": 242437,
+      "name": "Ascend",
+      "url": "https://open.spotify.com/track/46LShzWCnFjCooJVFyKrKK"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1899,26 +1919,6 @@
       "duration_ms": 209523,
       "name": "Swagger Feet",
       "url": "https://open.spotify.com/track/05zlLlHThHGTjH5Xpgb4n2"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Ascend",
-        "url": "https://open.spotify.com/album/7FjAK5OapRFX541hRkEFlM"
-      },
-      "artists": [
-        {
-          "name": "OVERWERK",
-          "url": "https://open.spotify.com/artist/2f9PTWJfMMDTAFZcvHy1Z5"
-        },
-        {
-          "name": "CODEUNIT",
-          "url": "https://open.spotify.com/artist/0OwyvnDOVdvrBhgHAkU9tC"
-        }
-      ],
-      "duration_ms": 242437,
-      "name": "Ascend",
-      "url": "https://open.spotify.com/track/46LShzWCnFjCooJVFyKrKK"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1981,22 +1981,6 @@
       "url": "https://open.spotify.com/track/1emuD0fT5F0ZnZLcoscLQO"
     },
     {
-      "added_at": "2024-06-28 14:01:45",
-      "album": {
-        "name": "Burnin'",
-        "url": "https://open.spotify.com/album/268RkyN1r2leuCx8VDzAmn"
-      },
-      "artists": [
-        {
-          "name": "longstoryshort",
-          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
-        }
-      ],
-      "duration_ms": 172246,
-      "name": "Burnin'",
-      "url": "https://open.spotify.com/track/0U7GpThxNI1BK3MzTVWl9e"
-    },
-    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Mud Season",
@@ -2011,6 +1995,22 @@
       "duration_ms": 199186,
       "name": "Mud Season",
       "url": "https://open.spotify.com/track/3gmgRuhZrpfawnbjWPf6Ov"
+    },
+    {
+      "added_at": "2024-06-28 14:01:45",
+      "album": {
+        "name": "Burnin'",
+        "url": "https://open.spotify.com/album/268RkyN1r2leuCx8VDzAmn"
+      },
+      "artists": [
+        {
+          "name": "longstoryshort",
+          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
+        }
+      ],
+      "duration_ms": 172246,
+      "name": "Burnin'",
+      "url": "https://open.spotify.com/track/0U7GpThxNI1BK3MzTVWl9e"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2147,22 +2147,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Turn Up The Volume",
-        "url": "https://open.spotify.com/album/1VZIx8VbOceGLo2snGw5im"
+        "name": "A Prayer",
+        "url": "https://open.spotify.com/album/40iAAGAi3UrRd3WwGkJLbD"
       },
       "artists": [
         {
-          "name": "Stafford Brothers",
-          "url": "https://open.spotify.com/artist/1dnbud9cuozLQ86MtrDPFr"
+          "name": "Tchami",
+          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
         },
         {
-          "name": "Taylr Renee",
-          "url": "https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8"
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
         }
       ],
-      "duration_ms": 142445,
-      "name": "Turn Up The Volume",
-      "url": "https://open.spotify.com/track/2Y6ighvPsMpW8fIfUQzYXf"
+      "duration_ms": 210000,
+      "name": "A Prayer",
+      "url": "https://open.spotify.com/track/0z5RBNQiOmQgGDiT8jnuiB"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2191,22 +2191,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "A Prayer",
-        "url": "https://open.spotify.com/album/40iAAGAi3UrRd3WwGkJLbD"
+        "name": "Turn Up The Volume",
+        "url": "https://open.spotify.com/album/1VZIx8VbOceGLo2snGw5im"
       },
       "artists": [
         {
-          "name": "Tchami",
-          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+          "name": "Stafford Brothers",
+          "url": "https://open.spotify.com/artist/1dnbud9cuozLQ86MtrDPFr"
         },
         {
-          "name": "Malaa",
-          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+          "name": "Taylr Renee",
+          "url": "https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8"
         }
       ],
-      "duration_ms": 210000,
-      "name": "A Prayer",
-      "url": "https://open.spotify.com/track/0z5RBNQiOmQgGDiT8jnuiB"
+      "duration_ms": 142445,
+      "name": "Turn Up The Volume",
+      "url": "https://open.spotify.com/track/2Y6ighvPsMpW8fIfUQzYXf"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -2257,26 +2257,6 @@
       "url": "https://open.spotify.com/track/5Owdw7WjhY4NxHAecSSwF3"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "BAD",
-        "url": "https://open.spotify.com/album/6BjhnTo2M4j5u5wDZEJzwN"
-      },
-      "artists": [
-        {
-          "name": "Cheyenne Giles",
-          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
-        },
-        {
-          "name": "ALRT",
-          "url": "https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf"
-        }
-      ],
-      "duration_ms": 173571,
-      "name": "BAD",
-      "url": "https://open.spotify.com/track/79rtchRTWKO4AjVKzIAgMy"
-    },
-    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Sport Mode",
@@ -2295,6 +2275,26 @@
       "duration_ms": 210400,
       "name": "Full Speed (feat. Aviella)",
       "url": "https://open.spotify.com/track/5pIJ99J4vVntZgDPFZYBtw"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "BAD",
+        "url": "https://open.spotify.com/album/6BjhnTo2M4j5u5wDZEJzwN"
+      },
+      "artists": [
+        {
+          "name": "Cheyenne Giles",
+          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
+        },
+        {
+          "name": "ALRT",
+          "url": "https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf"
+        }
+      ],
+      "duration_ms": 173571,
+      "name": "BAD",
+      "url": "https://open.spotify.com/track/79rtchRTWKO4AjVKzIAgMy"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2345,6 +2345,30 @@
       "url": "https://open.spotify.com/track/4mbwuwUDEo7xfiietsqNhA"
     },
     {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Mysterious World",
+        "url": "https://open.spotify.com/album/2B5aEC063CNyJD2l2M2fhb"
+      },
+      "artists": [
+        {
+          "name": "CHYL",
+          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
+        },
+        {
+          "name": "Softest Hard",
+          "url": "https://open.spotify.com/artist/1smczP1QDorQcyiGA69tF6"
+        },
+        {
+          "name": "Softest Chyl",
+          "url": "https://open.spotify.com/artist/3UFeSCo9XJzKNt0Y2Yq1Hb"
+        }
+      ],
+      "duration_ms": 180800,
+      "name": "Mysterious World",
+      "url": "https://open.spotify.com/track/1LmBykQ16lapbZCe6EJtAS"
+    },
+    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "By Myself",
@@ -2381,40 +2405,20 @@
       "url": "https://open.spotify.com/track/76IbCTgkgm0t8PaX5x488g"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Apes",
-        "url": "https://open.spotify.com/album/6WLKZ5yo6Zio6uKxXhGXj8"
+        "name": "CASH",
+        "url": "https://open.spotify.com/album/5yPmLk3SMzOtbkHp9jnivj"
       },
       "artists": [
         {
-          "name": "BROHUG",
-          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
-        },
-        {
-          "name": "MOR3L",
-          "url": "https://open.spotify.com/artist/2yQvf6Yx0YNX3AEB5rJ1sc"
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
         }
       ],
-      "duration_ms": 140625,
-      "name": "Apes",
-      "url": "https://open.spotify.com/track/7qIks2ZDbGiSZw4XNTKzWy"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Little Luv",
-        "url": "https://open.spotify.com/album/6kIQiqvRdTriDaBxfWfceo"
-      },
-      "artists": [
-        {
-          "name": "Cheyenne Giles",
-          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
-        }
-      ],
-      "duration_ms": 196190,
-      "name": "Little Luv",
-      "url": "https://open.spotify.com/track/2pWXBBrVw4tqfCcmt4I3Gs"
+      "duration_ms": 195000,
+      "name": "CASH",
+      "url": "https://open.spotify.com/track/10Tg2LXtZG5yHyrYxM8dEk"
     }
   ],
   "unique_name": "Nasty Bits",

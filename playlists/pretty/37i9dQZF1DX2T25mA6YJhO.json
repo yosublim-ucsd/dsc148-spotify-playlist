@@ -1,6 +1,6 @@
 {
   "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Hinds.",
-  "num_followers": 19846,
+  "num_followers": 19857,
   "original_name": "Rock 2024",
   "owner": {
     "name": "Spotify",
@@ -887,6 +887,22 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
+        "name": "Me paso por tu zona",
+        "url": "https://open.spotify.com/album/3IdxqT0QLo5cBiSZOMOcUO"
+      },
+      "artists": [
+        {
+          "name": "LA MILAGROSA",
+          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
+        }
+      ],
+      "duration_ms": 131272,
+      "name": "Me paso por tu zona",
+      "url": "https://open.spotify.com/track/6X4cGXgpvfDPiOV4Z1NCVV"
+    },
+    {
+      "added_at": "2024-09-05 22:00:00",
+      "album": {
         "name": "Ganas de verte",
         "url": "https://open.spotify.com/album/4Ai4xJrsBo8EvvWYl4BcVM"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 174613,
       "name": "Ganas de verte",
       "url": "https://open.spotify.com/track/31ZhYH8vyZceJpm0PYpW6Y"
-    },
-    {
-      "added_at": "2024-09-05 22:00:00",
-      "album": {
-        "name": "Me paso por tu zona",
-        "url": "https://open.spotify.com/album/3IdxqT0QLo5cBiSZOMOcUO"
-      },
-      "artists": [
-        {
-          "name": "LA MILAGROSA",
-          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
-        }
-      ],
-      "duration_ms": 131272,
-      "name": "Me paso por tu zona",
-      "url": "https://open.spotify.com/track/6X4cGXgpvfDPiOV4Z1NCVV"
     },
     {
       "added_at": "2024-09-05 22:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
-        "name": "Por si te pierdes",
-        "url": "https://open.spotify.com/album/28HsLIkRmdYm1C0sW1kgoE"
-      },
-      "artists": [
-        {
-          "name": "Capros",
-          "url": "https://open.spotify.com/artist/5MdESkM2kJYOoUckMNi2HM"
-        }
-      ],
-      "duration_ms": 188638,
-      "name": "Por si te pierdes",
-      "url": "https://open.spotify.com/track/3fCHni7hNDvWU66HdUp2q6"
-    },
-    {
-      "added_at": "2024-09-05 22:00:00",
-      "album": {
         "name": "De aqu\u00ed a un mes",
         "url": "https://open.spotify.com/album/12kOvGvaUrqMDE3Gnygj3w"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 141023,
       "name": "De aqu\u00ed a un mes",
       "url": "https://open.spotify.com/track/0e8H6wIJ5o7OoSMGH9I2iL"
+    },
+    {
+      "added_at": "2024-09-05 22:00:00",
+      "album": {
+        "name": "Por si te pierdes",
+        "url": "https://open.spotify.com/album/28HsLIkRmdYm1C0sW1kgoE"
+      },
+      "artists": [
+        {
+          "name": "Capros",
+          "url": "https://open.spotify.com/artist/5MdESkM2kJYOoUckMNi2HM"
+        }
+      ],
+      "duration_ms": 188638,
+      "name": "Por si te pierdes",
+      "url": "https://open.spotify.com/track/3fCHni7hNDvWU66HdUp2q6"
     },
     {
       "added_at": "2024-09-05 22:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
-        "name": "Cada instante",
-        "url": "https://open.spotify.com/album/67gzE97QWZRtDogSXZq1TR"
-      },
-      "artists": [
-        {
-          "name": "\u00c1rtico",
-          "url": "https://open.spotify.com/artist/3gFAuZ4KboKdPv5NVbJoNQ"
-        }
-      ],
-      "duration_ms": 205263,
-      "name": "Cada instante",
-      "url": "https://open.spotify.com/track/6O1VJVV2MCp5bwvJVtiLCH"
-    },
-    {
-      "added_at": "2024-09-05 22:00:00",
-      "album": {
         "name": "Demasiada Mujer",
         "url": "https://open.spotify.com/album/5gfklqSJCw2qHpWHmHQgTF"
       },
@@ -1067,6 +1051,22 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
+        "name": "Cada instante",
+        "url": "https://open.spotify.com/album/67gzE97QWZRtDogSXZq1TR"
+      },
+      "artists": [
+        {
+          "name": "\u00c1rtico",
+          "url": "https://open.spotify.com/artist/3gFAuZ4KboKdPv5NVbJoNQ"
+        }
+      ],
+      "duration_ms": 205263,
+      "name": "Cada instante",
+      "url": "https://open.spotify.com/track/6O1VJVV2MCp5bwvJVtiLCH"
+    },
+    {
+      "added_at": "2024-09-05 22:00:00",
+      "album": {
         "name": "Que arda Madriz",
         "url": "https://open.spotify.com/album/6DbaSRHWCIjvzXvFLg3IYC"
       },
@@ -1079,22 +1079,6 @@
       "duration_ms": 234067,
       "name": "Que arda Madriz",
       "url": "https://open.spotify.com/track/6kiSbGU14JU9wgcWqQhQAn"
-    },
-    {
-      "added_at": "2024-09-05 22:00:00",
-      "album": {
-        "name": "Repion",
-        "url": "https://open.spotify.com/album/5o72CTv41E3lh2h7yNEm1R"
-      },
-      "artists": [
-        {
-          "name": "Repion",
-          "url": "https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24"
-        }
-      ],
-      "duration_ms": 205957,
-      "name": "Sin Hablar",
-      "url": "https://open.spotify.com/track/4xGAVaRPvewFxX3RGLR433"
     },
     {
       "added_at": "2024-09-05 22:00:00",
@@ -1115,6 +1099,22 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
+        "name": "Repion",
+        "url": "https://open.spotify.com/album/5o72CTv41E3lh2h7yNEm1R"
+      },
+      "artists": [
+        {
+          "name": "Repion",
+          "url": "https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24"
+        }
+      ],
+      "duration_ms": 205957,
+      "name": "Sin Hablar",
+      "url": "https://open.spotify.com/track/4xGAVaRPvewFxX3RGLR433"
+    },
+    {
+      "added_at": "2024-09-05 22:00:00",
+      "album": {
         "name": "El Campe\u00f3n en tus ojos",
         "url": "https://open.spotify.com/album/0D0LLeJuxDzwCRolaazjRC"
       },
@@ -1127,22 +1127,6 @@
       "duration_ms": 163280,
       "name": "El Campe\u00f3n en tus ojos",
       "url": "https://open.spotify.com/track/6Y1Y3z4Uwv2oTzpEbA0q4j"
-    },
-    {
-      "added_at": "2024-09-05 22:00:00",
-      "album": {
-        "name": "Fuera De Lugar",
-        "url": "https://open.spotify.com/album/00yW3R9E734W48i9Umcz1t"
-      },
-      "artists": [
-        {
-          "name": "Natillas",
-          "url": "https://open.spotify.com/artist/5eTXkgo5fxz9qzMrqcTIBu"
-        }
-      ],
-      "duration_ms": 242529,
-      "name": "Fuera De Lugar",
-      "url": "https://open.spotify.com/track/5ep0F3gWVy96PVpp4hf8SA"
     },
     {
       "added_at": "2024-09-05 22:00:00",
@@ -1163,18 +1147,18 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
-        "name": "No Puedo M\u00e1s",
-        "url": "https://open.spotify.com/album/0Kw47uyjzuktMpz6OKZMpj"
+        "name": "Fuera De Lugar",
+        "url": "https://open.spotify.com/album/00yW3R9E734W48i9Umcz1t"
       },
       "artists": [
         {
-          "name": "Mujeres",
-          "url": "https://open.spotify.com/artist/5vnfKgHNYLnKeuFA6c2jJO"
+          "name": "Natillas",
+          "url": "https://open.spotify.com/artist/5eTXkgo5fxz9qzMrqcTIBu"
         }
       ],
-      "duration_ms": 184984,
-      "name": "No Puedo M\u00e1s",
-      "url": "https://open.spotify.com/track/7fdUvlp2k3PFxu9FwxxH9q"
+      "duration_ms": 242529,
+      "name": "Fuera De Lugar",
+      "url": "https://open.spotify.com/track/5ep0F3gWVy96PVpp4hf8SA"
     },
     {
       "added_at": "2024-09-05 22:00:00",
@@ -1191,6 +1175,22 @@
       "duration_ms": 180705,
       "name": "Mat\u00e1ndome",
       "url": "https://open.spotify.com/track/0aTiOLRPBlE0sodetaM1ck"
+    },
+    {
+      "added_at": "2024-09-05 22:00:00",
+      "album": {
+        "name": "No Puedo M\u00e1s",
+        "url": "https://open.spotify.com/album/0Kw47uyjzuktMpz6OKZMpj"
+      },
+      "artists": [
+        {
+          "name": "Mujeres",
+          "url": "https://open.spotify.com/artist/5vnfKgHNYLnKeuFA6c2jJO"
+        }
+      ],
+      "duration_ms": 184984,
+      "name": "No Puedo M\u00e1s",
+      "url": "https://open.spotify.com/track/7fdUvlp2k3PFxu9FwxxH9q"
     },
     {
       "added_at": "2024-09-05 22:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
-        "name": "Recibe lo que hay en m\u00ed (que eres t\u00fa)",
-        "url": "https://open.spotify.com/album/0T8FT4IjeI7gyne5qiGYUf"
-      },
-      "artists": [
-        {
-          "name": "Ramona Flores",
-          "url": "https://open.spotify.com/artist/4nwf3ZjNlcteyEGCh3KSrk"
-        }
-      ],
-      "duration_ms": 235001,
-      "name": "Recibe lo que hay en m\u00ed (que eres t\u00fa)",
-      "url": "https://open.spotify.com/track/7nscz2qQM4pUj9x3MrHruV"
-    },
-    {
-      "added_at": "2024-09-05 22:00:00",
-      "album": {
         "name": "Sofisticado",
         "url": "https://open.spotify.com/album/38hAaDQw9itDaxurry5vrw"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 177887,
       "name": "Sofisticado",
       "url": "https://open.spotify.com/track/2UEtrZwOlCSgUpx0GYeTFY"
+    },
+    {
+      "added_at": "2024-09-05 22:00:00",
+      "album": {
+        "name": "Recibe lo que hay en m\u00ed (que eres t\u00fa)",
+        "url": "https://open.spotify.com/album/0T8FT4IjeI7gyne5qiGYUf"
+      },
+      "artists": [
+        {
+          "name": "Ramona Flores",
+          "url": "https://open.spotify.com/artist/4nwf3ZjNlcteyEGCh3KSrk"
+        }
+      ],
+      "duration_ms": 235001,
+      "name": "Recibe lo que hay en m\u00ed (que eres t\u00fa)",
+      "url": "https://open.spotify.com/track/7nscz2qQM4pUj9x3MrHruV"
     },
     {
       "added_at": "2024-09-05 22:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
-        "name": "Hodeiak",
-        "url": "https://open.spotify.com/album/79KFuR360Eef4wuyX3WosR"
-      },
-      "artists": [
-        {
-          "name": "Mirail",
-          "url": "https://open.spotify.com/artist/0NXP4vNGC4bcTTsBgFNlf9"
-        }
-      ],
-      "duration_ms": 234542,
-      "name": "Hodeiak",
-      "url": "https://open.spotify.com/track/4R2qpsnBHA9vE5JmbMgHhx"
-    },
-    {
-      "added_at": "2024-09-05 22:00:00",
-      "album": {
         "name": "La Reconciliaci\u00f3n",
         "url": "https://open.spotify.com/album/1WxSNibCX2ATr2c4rwO9xA"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 154208,
       "name": "Nuestro Mejor Momento",
       "url": "https://open.spotify.com/track/5Z8so8w3PvZIJDbhN7l5t4"
+    },
+    {
+      "added_at": "2024-09-05 22:00:00",
+      "album": {
+        "name": "Hodeiak",
+        "url": "https://open.spotify.com/album/79KFuR360Eef4wuyX3WosR"
+      },
+      "artists": [
+        {
+          "name": "Mirail",
+          "url": "https://open.spotify.com/artist/0NXP4vNGC4bcTTsBgFNlf9"
+        }
+      ],
+      "duration_ms": 234542,
+      "name": "Hodeiak",
+      "url": "https://open.spotify.com/track/4R2qpsnBHA9vE5JmbMgHhx"
     },
     {
       "added_at": "2024-09-05 22:00:00",
@@ -1403,22 +1403,18 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
-        "name": "Finales Alternativos",
-        "url": "https://open.spotify.com/album/3MMD6gPBZiceeybqsTPUOj"
+        "name": "p0pper",
+        "url": "https://open.spotify.com/album/2WQgZmFIxitM7eGZ9HECWl"
       },
       "artists": [
         {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/5N5JYIR5eyLrUcwutGZdal"
-        },
-        {
-          "name": "J (Los Planetas)",
-          "url": "https://open.spotify.com/artist/4rZQYggyATv0COs3Ku167l"
+          "name": "Ru\u00efnosa y las Strippers de Rahola",
+          "url": "https://open.spotify.com/artist/6JcoLHQLRlm12My6cACmlT"
         }
       ],
-      "duration_ms": 144846,
-      "name": "Finales Alternativos",
-      "url": "https://open.spotify.com/track/5Iz3b8J09zstCwndwYPaOJ"
+      "duration_ms": 213308,
+      "name": "p0pper",
+      "url": "https://open.spotify.com/track/06BKn2S0alWLPcLHH0pkOe"
     },
     {
       "added_at": "2024-09-05 22:00:00",
@@ -1439,18 +1435,22 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
-        "name": "p0pper",
-        "url": "https://open.spotify.com/album/2WQgZmFIxitM7eGZ9HECWl"
+        "name": "Finales Alternativos",
+        "url": "https://open.spotify.com/album/3MMD6gPBZiceeybqsTPUOj"
       },
       "artists": [
         {
-          "name": "Ru\u00efnosa y las Strippers de Rahola",
-          "url": "https://open.spotify.com/artist/6JcoLHQLRlm12My6cACmlT"
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/5N5JYIR5eyLrUcwutGZdal"
+        },
+        {
+          "name": "J (Los Planetas)",
+          "url": "https://open.spotify.com/artist/4rZQYggyATv0COs3Ku167l"
         }
       ],
-      "duration_ms": 213308,
-      "name": "p0pper",
-      "url": "https://open.spotify.com/track/06BKn2S0alWLPcLHH0pkOe"
+      "duration_ms": 144846,
+      "name": "Finales Alternativos",
+      "url": "https://open.spotify.com/track/5Iz3b8J09zstCwndwYPaOJ"
     },
     {
       "added_at": "2024-09-05 22:00:00",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
-        "name": "Deconstrucci\u00f3n",
-        "url": "https://open.spotify.com/album/5Zpuijy5w6Pxbe3IrCn0wU"
+        "name": "Yinkana",
+        "url": "https://open.spotify.com/album/0vz7MwSnHqprH2LBj6e7Jw"
       },
       "artists": [
         {
-          "name": "Havalina",
-          "url": "https://open.spotify.com/artist/2nQcWlLWvXPTX34Ysqr2A2"
+          "name": "Sistema Nervioso",
+          "url": "https://open.spotify.com/artist/3NmIbNtA9v3NxFB1Gi7yfG"
         }
       ],
-      "duration_ms": 280288,
-      "name": "Deconstrucci\u00f3n",
-      "url": "https://open.spotify.com/track/3Idd0RLLacT6ZRcM4Aj0KP"
+      "duration_ms": 160925,
+      "name": "Yinkana",
+      "url": "https://open.spotify.com/track/49KGVbbnsPXGo2BwfCohba"
     }
   ],
   "unique_name": "Rock 2024",

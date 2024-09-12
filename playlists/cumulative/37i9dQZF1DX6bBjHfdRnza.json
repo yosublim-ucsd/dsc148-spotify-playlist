@@ -3146,7 +3146,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 214318,
       "name": "back together",
       "url": "https://open.spotify.com/track/1Mu31xsS4kVaXByJhf9M0A"
@@ -7266,7 +7266,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 189213,
       "name": "Clears",
       "url": "https://open.spotify.com/track/2XNAiUiyDFWG5xzNBMuYxN"
@@ -17485,6 +17485,24 @@
     },
     {
       "album": {
+        "name": "help me",
+        "url": "https://open.spotify.com/album/4r8CyJ2aKoc50l92rOqvMA"
+      },
+      "artists": [
+        {
+          "name": "silvershore",
+          "url": "https://open.spotify.com/artist/5ugiiDMswZlkI97yinhvEt"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "help me",
+      "url": "https://open.spotify.com/track/3Z0vv6Zi5FQZm1RbJh5Qwk"
+    },
+    {
+      "album": {
         "name": "Henny",
         "url": "https://open.spotify.com/album/44Bj4MjYWRm33RGuz2YbRi"
       },
@@ -21330,7 +21348,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 181904,
       "name": "JUMP",
       "url": "https://open.spotify.com/track/1EsZpe7WpvsZ1GxkMDt6I3"
@@ -22928,7 +22946,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 201053,
       "name": "limousine",
       "url": "https://open.spotify.com/track/2sIPLzQMJYBjQRcd8QRLKH"
@@ -25121,6 +25139,24 @@
     },
     {
       "album": {
+        "name": "Midnight Flame",
+        "url": "https://open.spotify.com/album/5A1haYlyRXJMptiWdYnIFP"
+      },
+      "artists": [
+        {
+          "name": "Rool\u00e9h",
+          "url": "https://open.spotify.com/artist/7zCwvjLktz2o5LFYvTquJu"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163636,
+      "name": "Midnight Flame",
+      "url": "https://open.spotify.com/track/7iaDZQjqmQckbtujcC204U"
+    },
+    {
+      "album": {
         "name": "Midnight Shift",
         "url": "https://open.spotify.com/album/7LWahcOy2qcTH9YvWOOIB6"
       },
@@ -26147,6 +26183,24 @@
     },
     {
       "album": {
+        "name": "Moving",
+        "url": "https://open.spotify.com/album/72dWzu72E5zFU0QHLrVMGO"
+      },
+      "artists": [
+        {
+          "name": "Ell Murphy",
+          "url": "https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231527,
+      "name": "Moving",
+      "url": "https://open.spotify.com/track/0QXWcZY9DRDS0e8Czdgdv5"
+    },
+    {
+      "album": {
         "name": "Mr Yonder",
         "url": "https://open.spotify.com/album/56XD4viqqkFDCPGY2VeKTf"
       },
@@ -26942,7 +26996,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 240651,
       "name": "Never Leave",
       "url": "https://open.spotify.com/track/4TZED3XiqWZROYvMGC3jvY"
@@ -29634,6 +29688,24 @@
       "duration_ms": 133953,
       "name": "papercuts",
       "url": "https://open.spotify.com/track/7hk6H482fKMzuUQ2Jf8bG3"
+    },
+    {
+      "album": {
+        "name": "Pappia",
+        "url": "https://open.spotify.com/album/3uqTQNzxU77PXmRBBSypF9"
+      },
+      "artists": [
+        {
+          "name": "Leisan",
+          "url": "https://open.spotify.com/artist/1jtvnvAC4u2YWU7QTqoNDF"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232615,
+      "name": "Pappia",
+      "url": "https://open.spotify.com/track/5qM9dVnxEnSbWdSKC4mSXn"
     },
     {
       "album": {
@@ -42042,6 +42114,24 @@
     {
       "album": {
         "name": "Wait",
+        "url": "https://open.spotify.com/album/4lDtIwmSonyopCoxigYiFH"
+      },
+      "artists": [
+        {
+          "name": "Botev",
+          "url": "https://open.spotify.com/artist/6ocmQ5FlDB3SEfWJWo1Ny0"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273750,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/6LSpFYdHDPiO6FndWILzCP"
+    },
+    {
+      "album": {
+        "name": "Wait",
         "url": "https://open.spotify.com/album/49WFUzx0cnqnqHcyqLfxiT"
       },
       "artists": [
@@ -42382,7 +42472,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 198095,
       "name": "Warm The Room",
       "url": "https://open.spotify.com/track/3o3RBrOBpe1OkJpoSRwDqo"
@@ -44888,6 +44978,24 @@
       "duration_ms": 180845,
       "name": "\u2765attack - LeeJi Remix",
       "url": "https://open.spotify.com/track/1X0wEHyj8mUQd1XJjuRg1t"
+    },
+    {
+      "album": {
+        "name": "lifedrop!",
+        "url": "https://open.spotify.com/album/0FVkI2CneWhahv4afpZYIj"
+      },
+      "artists": [
+        {
+          "name": "Xamd",
+          "url": "https://open.spotify.com/artist/7iru9u1tzWCEe76f7tbRzf"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165333,
+      "name": "\u3042\u306a\u305f\u3060\u3051\u304c",
+      "url": "https://open.spotify.com/track/3qklzOjUkuGl5zDPTHmHKe"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6bBjHfdRnza"

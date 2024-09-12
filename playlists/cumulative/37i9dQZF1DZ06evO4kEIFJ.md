@@ -2,7 +2,7 @@
 
 ### [This Is Lil Nas X](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4kEIFJ)
 
-> This is Lil Nas X\. المقاطع الأساسية، كلها في قايمة أغاني واحدة.
+> This Is Lil Nas X\. Los temas esenciales, todos en una lista.
 
 30 songs - 1 hr 20 min
 

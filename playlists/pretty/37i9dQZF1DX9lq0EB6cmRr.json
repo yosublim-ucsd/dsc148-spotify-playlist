@@ -1,6 +1,6 @@
 {
   "description": "Listen hot and new Korean classical & new age  music in here! (Cover: David DQ Lee(\uc774\ub3d9\uaddc)) \ud55c\uad6d \ud074\ub798\uc2dd \uc74c\uc545 \ud56b & \ucd5c\uc2e0 \ud2b8\ub799\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
-  "num_followers": 4057,
+  "num_followers": 4058,
   "original_name": "Classics Korea",
   "owner": {
     "name": "Spotify",
@@ -611,18 +611,22 @@
     {
       "added_at": "2024-08-14 06:16:07",
       "album": {
-        "name": "THE WAR",
-        "url": "https://open.spotify.com/album/36vxVW2Dnh8vpwOR7wdSNs"
+        "name": "Rachmaninoff, A Reflection",
+        "url": "https://open.spotify.com/album/1ETZFwejOUfhRVxkhG8WmC"
       },
       "artists": [
         {
-          "name": "LA POEM",
-          "url": "https://open.spotify.com/artist/0FnUIVrcXuabu4ec2Wu1tG"
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Yekwon Sunwoo",
+          "url": "https://open.spotify.com/artist/2pR8C1gs05nq2Wc9OL6irv"
         }
       ],
-      "duration_ms": 212986,
-      "name": "The War",
-      "url": "https://open.spotify.com/track/6XxWCHSggKK5lmUGRe1oa0"
+      "duration_ms": 41733,
+      "name": "Variations on a Theme of Corelli, Op. 42: Var. 1. Poco pi\u00f9 mosso",
+      "url": "https://open.spotify.com/track/0N6gEgu138TistgGvFFaeW"
     },
     {
       "added_at": "2024-08-14 06:16:07",
@@ -647,22 +651,18 @@
     {
       "added_at": "2024-08-14 06:16:07",
       "album": {
-        "name": "Rachmaninoff, A Reflection",
-        "url": "https://open.spotify.com/album/1ETZFwejOUfhRVxkhG8WmC"
+        "name": "THE WAR",
+        "url": "https://open.spotify.com/album/36vxVW2Dnh8vpwOR7wdSNs"
       },
       "artists": [
         {
-          "name": "Sergei Rachmaninoff",
-          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
-        },
-        {
-          "name": "Yekwon Sunwoo",
-          "url": "https://open.spotify.com/artist/2pR8C1gs05nq2Wc9OL6irv"
+          "name": "LA POEM",
+          "url": "https://open.spotify.com/artist/0FnUIVrcXuabu4ec2Wu1tG"
         }
       ],
-      "duration_ms": 41733,
-      "name": "Variations on a Theme of Corelli, Op. 42: Var. 1. Poco pi\u00f9 mosso",
-      "url": "https://open.spotify.com/track/0N6gEgu138TistgGvFFaeW"
+      "duration_ms": 212986,
+      "name": "The War",
+      "url": "https://open.spotify.com/track/6XxWCHSggKK5lmUGRe1oa0"
     },
     {
       "added_at": "2024-08-14 06:16:07",
@@ -931,26 +931,6 @@
     {
       "added_at": "2024-08-14 06:16:07",
       "album": {
-        "name": "Espero 1st, Romance on Classic",
-        "url": "https://open.spotify.com/album/1mnrmCrepcylAUQOeHyO27"
-      },
-      "artists": [
-        {
-          "name": "Espero",
-          "url": "https://open.spotify.com/artist/4721MtdS4rhVXrjxjchwLF"
-        },
-        {
-          "name": "KIM HOJOONG",
-          "url": "https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH"
-        }
-      ],
-      "duration_ms": 236400,
-      "name": "Endless",
-      "url": "https://open.spotify.com/track/7nGfKdVLjNJ11H8aHfz0h1"
-    },
-    {
-      "added_at": "2024-08-14 06:16:07",
-      "album": {
         "name": "Il Mondo",
         "url": "https://open.spotify.com/album/5KZRNp9ayuswLvXGyUPmYq"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 234266,
       "name": "Il Mondo",
       "url": "https://open.spotify.com/track/1Ep6pGxu3lZcqPJOLiYRbY"
+    },
+    {
+      "added_at": "2024-08-14 06:16:07",
+      "album": {
+        "name": "Espero 1st, Romance on Classic",
+        "url": "https://open.spotify.com/album/1mnrmCrepcylAUQOeHyO27"
+      },
+      "artists": [
+        {
+          "name": "Espero",
+          "url": "https://open.spotify.com/artist/4721MtdS4rhVXrjxjchwLF"
+        },
+        {
+          "name": "KIM HOJOONG",
+          "url": "https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH"
+        }
+      ],
+      "duration_ms": 236400,
+      "name": "Endless",
+      "url": "https://open.spotify.com/track/7nGfKdVLjNJ11H8aHfz0h1"
     },
     {
       "added_at": "2024-08-14 06:16:07",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2024-08-14 06:16:07",
       "album": {
+        "name": "FLOWER",
+        "url": "https://open.spotify.com/album/4KJnsMyfh7POyObWxf932i"
+      },
+      "artists": [
+        {
+          "name": "YOONHAN",
+          "url": "https://open.spotify.com/artist/5uJNKjOGqmV02sT1ArP5qb"
+        }
+      ],
+      "duration_ms": 216333,
+      "name": "Magnolia",
+      "url": "https://open.spotify.com/track/3ohdGaN55v20ZmO9pIvkty"
+    },
+    {
+      "added_at": "2024-08-14 06:16:07",
+      "album": {
         "name": "Remembering That Time",
         "url": "https://open.spotify.com/album/4t169pzs8XwsLblqQ1Pfhy"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 267986,
       "name": "Remembering That Time",
       "url": "https://open.spotify.com/track/7x9ycPYAFFqQ8o2AnBO9Kb"
-    },
-    {
-      "added_at": "2024-08-14 06:16:07",
-      "album": {
-        "name": "FLOWER",
-        "url": "https://open.spotify.com/album/4KJnsMyfh7POyObWxf932i"
-      },
-      "artists": [
-        {
-          "name": "YOONHAN",
-          "url": "https://open.spotify.com/artist/5uJNKjOGqmV02sT1ArP5qb"
-        }
-      ],
-      "duration_ms": 216333,
-      "name": "Magnolia",
-      "url": "https://open.spotify.com/track/3ohdGaN55v20ZmO9pIvkty"
     },
     {
       "added_at": "2024-08-14 06:16:07",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-08-14 06:16:07",
       "album": {
-        "name": "Une Vie Full album",
-        "url": "https://open.spotify.com/album/2fGe5nCYxVlSFIkk3VAw5p"
-      },
-      "artists": [
-        {
-          "name": "Denis Sungho",
-          "url": "https://open.spotify.com/artist/14AiQlh46InimcwmW3zXdp"
-        }
-      ],
-      "duration_ms": 253360,
-      "name": "Une Vie Part 1",
-      "url": "https://open.spotify.com/track/2tE7v0aS6S78AjerGVTqRH"
-    },
-    {
-      "added_at": "2024-08-14 06:16:07",
-      "album": {
         "name": "psalms",
         "url": "https://open.spotify.com/album/4Ktg38RHv8ILmXSjaQPqMX"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 371146,
       "name": "memorare",
       "url": "https://open.spotify.com/track/6K0CsO1HJbf7k2eOYg9khP"
+    },
+    {
+      "added_at": "2024-08-14 06:16:07",
+      "album": {
+        "name": "Une Vie Full album",
+        "url": "https://open.spotify.com/album/2fGe5nCYxVlSFIkk3VAw5p"
+      },
+      "artists": [
+        {
+          "name": "Denis Sungho",
+          "url": "https://open.spotify.com/artist/14AiQlh46InimcwmW3zXdp"
+        }
+      ],
+      "duration_ms": 253360,
+      "name": "Une Vie Part 1",
+      "url": "https://open.spotify.com/track/2tE7v0aS6S78AjerGVTqRH"
     },
     {
       "added_at": "2024-08-14 06:16:07",
@@ -1643,6 +1643,26 @@
     {
       "added_at": "2024-08-14 06:16:07",
       "album": {
+        "name": "ISLAND",
+        "url": "https://open.spotify.com/album/1P23X6A8ovWM89GeBOjxzT"
+      },
+      "artists": [
+        {
+          "name": "Denis Sungho",
+          "url": "https://open.spotify.com/artist/14AiQlh46InimcwmW3zXdp"
+        },
+        {
+          "name": "COAST82",
+          "url": "https://open.spotify.com/artist/6gv9fIqO7Q8YrI7hUxH0pL"
+        }
+      ],
+      "duration_ms": 279528,
+      "name": "Island baby",
+      "url": "https://open.spotify.com/track/4KK9FI8mWKkbn6ryGdUY6k"
+    },
+    {
+      "added_at": "2024-08-14 06:16:07",
+      "album": {
         "name": "Timepass",
         "url": "https://open.spotify.com/album/1UKIVk5shyZCjcukuCuqnU"
       },
@@ -1691,22 +1711,18 @@
     {
       "added_at": "2024-08-14 06:16:07",
       "album": {
-        "name": "ISLAND",
-        "url": "https://open.spotify.com/album/1P23X6A8ovWM89GeBOjxzT"
+        "name": "Lost In Memory",
+        "url": "https://open.spotify.com/album/4rGJEKeExXYuP5lCajYPwj"
       },
       "artists": [
         {
-          "name": "Denis Sungho",
-          "url": "https://open.spotify.com/artist/14AiQlh46InimcwmW3zXdp"
-        },
-        {
-          "name": "COAST82",
-          "url": "https://open.spotify.com/artist/6gv9fIqO7Q8YrI7hUxH0pL"
+          "name": "Hyungjoo Lim",
+          "url": "https://open.spotify.com/artist/7pvsiQmwTwKk08q7IIxAcG"
         }
       ],
-      "duration_ms": 279528,
-      "name": "Island baby",
-      "url": "https://open.spotify.com/track/4KK9FI8mWKkbn6ryGdUY6k"
+      "duration_ms": 249240,
+      "name": "Blossom of Flower",
+      "url": "https://open.spotify.com/track/5Li6TVmxOA4k7LEpxKU3Um"
     },
     {
       "added_at": "2024-08-14 06:16:07",
@@ -1731,22 +1747,6 @@
       "duration_ms": 361853,
       "name": "Duet for Flute and Oboe No. 1 in E Minor, F. 54: I. Allegro",
       "url": "https://open.spotify.com/track/4xglnE2yA87Ym31aVxBQnW"
-    },
-    {
-      "added_at": "2024-08-14 06:16:07",
-      "album": {
-        "name": "Lost In Memory",
-        "url": "https://open.spotify.com/album/4rGJEKeExXYuP5lCajYPwj"
-      },
-      "artists": [
-        {
-          "name": "Hyungjoo Lim",
-          "url": "https://open.spotify.com/artist/7pvsiQmwTwKk08q7IIxAcG"
-        }
-      ],
-      "duration_ms": 249240,
-      "name": "Blossom of Flower",
-      "url": "https://open.spotify.com/track/5Li6TVmxOA4k7LEpxKU3Um"
     },
     {
       "added_at": "2024-08-14 06:16:07",
@@ -1835,6 +1835,22 @@
     {
       "added_at": "2024-08-14 06:16:07",
       "album": {
+        "name": "Lost In Memory",
+        "url": "https://open.spotify.com/album/4rGJEKeExXYuP5lCajYPwj"
+      },
+      "artists": [
+        {
+          "name": "Hyungjoo Lim",
+          "url": "https://open.spotify.com/artist/7pvsiQmwTwKk08q7IIxAcG"
+        }
+      ],
+      "duration_ms": 279613,
+      "name": "The Red String",
+      "url": "https://open.spotify.com/track/5kyQ1Qio9GeYvsrPBxvqW8"
+    },
+    {
+      "added_at": "2024-08-14 06:16:07",
+      "album": {
         "name": "Schubert: Piano Sonatas III",
         "url": "https://open.spotify.com/album/2eWZeuZu031ycRDsPdGEgX"
       },
@@ -1875,22 +1891,6 @@
       "duration_ms": 451346,
       "name": "Cello Sonata No.1 in D Major, Op.12 : I. Adagio - Andante",
       "url": "https://open.spotify.com/track/2WfGNKZ2gpO2nq2FhLSqnb"
-    },
-    {
-      "added_at": "2024-08-14 06:16:07",
-      "album": {
-        "name": "Lost In Memory",
-        "url": "https://open.spotify.com/album/4rGJEKeExXYuP5lCajYPwj"
-      },
-      "artists": [
-        {
-          "name": "Hyungjoo Lim",
-          "url": "https://open.spotify.com/artist/7pvsiQmwTwKk08q7IIxAcG"
-        }
-      ],
-      "duration_ms": 279613,
-      "name": "The Red String",
-      "url": "https://open.spotify.com/track/5kyQ1Qio9GeYvsrPBxvqW8"
     },
     {
       "added_at": "2024-08-14 06:16:07",
@@ -1999,22 +1999,22 @@
     {
       "added_at": "2024-08-14 06:16:07",
       "album": {
-        "name": "REMINISCENCE: Schubert works for violin and piano",
-        "url": "https://open.spotify.com/album/6STIwez4fhKqtBnc2RDj0M"
+        "name": "\ub108\uc758 \uc790\uc720\uc57c",
+        "url": "https://open.spotify.com/album/3bg2zeyy3LfMkfwnfNgyBz"
       },
       "artists": [
         {
-          "name": "Franz Schubert",
-          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+          "name": "\uc815\ud604\ubb35",
+          "url": "https://open.spotify.com/artist/19AapPEBgno4ABfOB0Nw3d"
         },
         {
-          "name": "Jinsu Park, Jeong Heum Yeon",
-          "url": "https://open.spotify.com/artist/0zCq1VU8PdCyzk2B5xlbck"
+          "name": "\ucd5c\uc6a9\ud638",
+          "url": "https://open.spotify.com/artist/06eCHq3n96anYE1GJo7IzU"
         }
       ],
-      "duration_ms": 507120,
-      "name": "Sonata for Violin and Piano in A, D. 574 - I. Allegro moderato",
-      "url": "https://open.spotify.com/track/2ThAvQYyd3ZqXhXLQfZ0Qa"
+      "duration_ms": 282026,
+      "name": "\ub108\uc758 \uc790\uc720\uc57c",
+      "url": "https://open.spotify.com/track/4h11kTlpCGg60Y18qA9vjV"
     },
     {
       "added_at": "2024-08-14 06:16:07",
@@ -2047,22 +2047,22 @@
     {
       "added_at": "2024-08-14 06:16:07",
       "album": {
-        "name": "\ub108\uc758 \uc790\uc720\uc57c",
-        "url": "https://open.spotify.com/album/3bg2zeyy3LfMkfwnfNgyBz"
+        "name": "REMINISCENCE: Schubert works for violin and piano",
+        "url": "https://open.spotify.com/album/6STIwez4fhKqtBnc2RDj0M"
       },
       "artists": [
         {
-          "name": "\uc815\ud604\ubb35",
-          "url": "https://open.spotify.com/artist/19AapPEBgno4ABfOB0Nw3d"
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
         },
         {
-          "name": "\ucd5c\uc6a9\ud638",
-          "url": "https://open.spotify.com/artist/06eCHq3n96anYE1GJo7IzU"
+          "name": "Jinsu Park, Jeong Heum Yeon",
+          "url": "https://open.spotify.com/artist/0zCq1VU8PdCyzk2B5xlbck"
         }
       ],
-      "duration_ms": 282026,
-      "name": "\ub108\uc758 \uc790\uc720\uc57c",
-      "url": "https://open.spotify.com/track/4h11kTlpCGg60Y18qA9vjV"
+      "duration_ms": 507120,
+      "name": "Sonata for Violin and Piano in A, D. 574 - I. Allegro moderato",
+      "url": "https://open.spotify.com/track/2ThAvQYyd3ZqXhXLQfZ0Qa"
     }
   ],
   "unique_name": "Classics Korea",

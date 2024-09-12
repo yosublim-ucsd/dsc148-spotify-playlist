@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Cold Dream](https://open.spotify.com/track/1JpCGxRT3yexccFeCcxTE5) | [宋柏緯](https://open.spotify.com/artist/1LWJ9mrDCPd3HB2Kp1RDXK) | [一天的交界](https://open.spotify.com/album/77K5EwWtG43DxX6bIFyCIN) | 3:54 | 2024-01-23 |  |
-| [F.O.](https://open.spotify.com/track/6s7dsNAVIvTy6pS3MLWEuN) | [壞特 ?te](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [Way out](https://open.spotify.com/album/4ebUiIXxTDyS9LhtItkPRj) | 3:21 | 2024-01-23 |  |
+| [F.O.](https://open.spotify.com/track/6s7dsNAVIvTy6pS3MLWEuN) | [Whyte](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [Way out](https://open.spotify.com/album/4ebUiIXxTDyS9LhtItkPRj) | 3:21 | 2024-01-23 |  |
 | [One Time](https://open.spotify.com/track/1Paux5JtRTuhuPZagjdBbh) | [Soft Lipa](https://open.spotify.com/artist/3Xp3DA50zRP4TYOtNR7k1T), [Black MIC](https://open.spotify.com/artist/6w62HSgZvXKJpsSHXNPp2l), [Yappy](https://open.spotify.com/artist/28G5rtbvCmWsjyp5G6LwMe) | [One Time](https://open.spotify.com/album/1CjguZo4rflz8qf9ZWDTlu) | 4:15 | 2024-01-23 |  |
 | [otherside](https://open.spotify.com/track/0n7aNLcLoQPPBcY9AryzoQ) | [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [otherside](https://open.spotify.com/album/1KKqUdqRr4bwWaiT6wEKOq) | 2:42 | 2024-01-23 |  |
 | [不介意](https://open.spotify.com/track/4tVLXGYrlv0aysDrZSLRVN) | [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL) | [TALENT](https://open.spotify.com/album/58AtmygL5FdxGhuEUSnWwF) | 3:19 | 2024-01-23 |  |

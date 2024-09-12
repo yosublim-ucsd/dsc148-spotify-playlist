@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Belarus.
 
-301 songs - 13 hr 27 min
+302 songs - 13 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Ameli](https://open.spotify.com/track/3E7pXPvfPnueoZKz4VTg1n) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo), [Toxi$](https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW) | [PEEKABOO](https://open.spotify.com/album/7LP4dCklRhdTncqIYesDqi) | 2:59 | 2024-06-29 |  |
 | [AMMO](https://open.spotify.com/track/1ck5jWKV1chAEdtPHZHl9b) | [FRIENDLY THUG 52 NGG](https://open.spotify.com/artist/5xtbUYHaOycg6HIi10EZdV) | [AMMO](https://open.spotify.com/album/2eeSi3aA8CFBvzzgE8bN5Z) | 1:52 | 2024-06-01 | 2024-06-30 |
 | [Anxiety \- Studio Version](https://open.spotify.com/track/1yrEw57QtDeuuSGsOYbDkg) | [Alexxxasha](https://open.spotify.com/artist/2Hk4G5DIhjKwVQrepXRViW) | [Anxiety \(Studio Version\)](https://open.spotify.com/album/2PScTk2oVhIcsesSR3GV6t) | 3:08 | 2024-08-29 | 2024-08-31 |
+| [Bad Intention](https://open.spotify.com/track/03QWlQeqMd3LIuts3X1BJI) | [Berger](https://open.spotify.com/artist/6oqzwSN4RMDwSArAOJq40u) | [No Living](https://open.spotify.com/album/0KrdEzsZZlbvqYCjNTfl9o) | 2:32 | 2024-09-11 |  |
 | [BALLOUT](https://open.spotify.com/track/20Sfazrl2ErzEguVPa2ByX) | [unki](https://open.spotify.com/artist/157DpdCWsAG42qhS6BCsjT) | [BALLOUT](https://open.spotify.com/album/2KOuGPFQLMMI3UXZc7jMWB) | 1:41 | 2024-02-10 | 2024-03-19 |
 | [BBTEAM FREESTYLE](https://open.spotify.com/track/6e7hcO8NGEmL1Gd0PH1LVz) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT) | [BBTEAM FREESTYLE](https://open.spotify.com/album/6OJUjEBjQD84QWU5jKhAu6) | 2:55 | 2024-02-17 | 2024-02-24 |
 | [Be Mine](https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 3:27 | 2024-07-20 |  |
@@ -231,7 +232,7 @@
 | [ПОДАРОК](https://open.spotify.com/track/1Mm9DXmUXT2xiCQAZPEEaK) | [АКУЛИЧ](https://open.spotify.com/artist/5DUv28BBZb6uQ0VLaZ36XZ), [Молодой Платон](https://open.spotify.com/artist/3yUI9YVLxfPiQHOv07gwAi) | [ПОДАРОК](https://open.spotify.com/album/6CgHw7fVn7IGRn6UxLbIf3) | 2:39 | 2024-02-17 | 2024-07-21 |
 | [Поезда](https://open.spotify.com/track/3DoKepDy2hXhtWizxMszJS) | [Женя Трофимов](https://open.spotify.com/artist/3JYowG5k65ROJjN5PXx9Ce), [Комната культуры](https://open.spotify.com/artist/0dTuwuNVB1hXbxaDM42ncA) | [Поезда](https://open.spotify.com/album/5RjCEj6KIpdgEAdGokQuLU) | 2:59 | 2024-01-29 |  |
 | [Пожары](https://open.spotify.com/track/1zXv6MYOAyjgMA0iPypPkO) | [Xolidayboy](https://open.spotify.com/artist/6oTirjGdJPFt3hycC1Rfxb) | [Пожары](https://open.spotify.com/album/68sNUJIxWC1On3J9PQmEEs) | 3:17 | 2024-06-11 | 2024-09-11 |
-| [Пожары](https://open.spotify.com/track/5pZaiIokYGUANMAJiZg8tt) | [Xolidayboy](https://open.spotify.com/artist/6oTirjGdJPFt3hycC1Rfxb) | [Пожары](https://open.spotify.com/album/3r0AdIFYLk4W3Q2XtSqPer) | 3:17 | 2024-09-10 |  |
+| [Пожары](https://open.spotify.com/track/5pZaiIokYGUANMAJiZg8tt) | [Xolidayboy](https://open.spotify.com/artist/6oTirjGdJPFt3hycC1Rfxb) | [Пожары](https://open.spotify.com/album/3r0AdIFYLk4W3Q2XtSqPer) | 3:17 | 2024-09-10 | 2024-09-12 |
 | [портреты \- Acoustic](https://open.spotify.com/track/7ojBwkKhmZzXDjrqwfLH26) | [zhanulka](https://open.spotify.com/artist/260kWe4y9lg7YFDsZBgsLv) | [портреты \(Acoustic\)](https://open.spotify.com/album/0LNml41jJnwou22TkqmBck) | 2:52 | 2024-01-29 | 2024-08-17 |
 | [последнее лето](https://open.spotify.com/track/0M6DVxO3zzYsAx1PJoG7jO) | [kin](https://open.spotify.com/artist/3gWzZ1G1YylaEyFIwbQMtw) | [мои \(твои\) тёмные желания](https://open.spotify.com/album/1LKztSqCqjJeO7aDFIkhPJ) | 2:17 | 2024-05-10 | 2024-05-13 |
 | [последнее лето](https://open.spotify.com/track/0K5arhAxYWj7QxFhpKJe6z) | [ooes](https://open.spotify.com/artist/0aXi5kveuKNm6t5vGVeUBM) | [мои \(твои\) тёмные желания](https://open.spotify.com/album/4nIqE64E4RzPqiOerVdI01) | 2:17 | 2024-01-29 | 2024-07-21 |

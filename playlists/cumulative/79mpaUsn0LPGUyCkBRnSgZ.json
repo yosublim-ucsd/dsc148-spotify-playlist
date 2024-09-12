@@ -4197,6 +4197,28 @@
     },
     {
       "album": {
+        "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
+        "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426533,
+      "name": "First Light - Remastered 2004",
+      "url": "https://open.spotify.com/track/0r4FEHukFd50r43uTuYmHY"
+    },
+    {
+      "album": {
         "name": "EMOTION SIDE B",
         "url": "https://open.spotify.com/album/31776n0a6xHYMHSlK4983u"
       },

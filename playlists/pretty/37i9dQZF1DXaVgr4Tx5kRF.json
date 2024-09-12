@@ -1,6 +1,6 @@
 {
   "description": "The songs that defined a golden era of British indie. ",
-  "num_followers": 650043,
+  "num_followers": 650115,
   "original_name": "Britpop, Etc.",
   "owner": {
     "name": "Spotify",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "Pills 'N' Thrills And Bellyaches (Collector's Edition)",
-        "url": "https://open.spotify.com/album/2Qo9lJydzuAmcBUjGOvrMQ"
-      },
-      "artists": [
-        {
-          "name": "Happy Mondays",
-          "url": "https://open.spotify.com/artist/339DNkQkuhHKEcHw6oK8f0"
-        }
-      ],
-      "duration_ms": 239746,
-      "name": "Kinky Afro - 2007 Remaster",
-      "url": "https://open.spotify.com/track/3OSJIs8o7v3reK5DHJrG48"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
         "name": "Everything Must Go 20 (Remastered)",
         "url": "https://open.spotify.com/album/0N5NWxZazrftwlXMOgHQrC"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 257653,
       "name": "A Design for Life - 2016 Remastered Version",
       "url": "https://open.spotify.com/track/7rIoot9qXXs4H3n1kH2V4F"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "Pills 'N' Thrills And Bellyaches (Collector's Edition)",
+        "url": "https://open.spotify.com/album/2Qo9lJydzuAmcBUjGOvrMQ"
+      },
+      "artists": [
+        {
+          "name": "Happy Mondays",
+          "url": "https://open.spotify.com/artist/339DNkQkuhHKEcHw6oK8f0"
+        }
+      ],
+      "duration_ms": 239746,
+      "name": "Kinky Afro - 2007 Remaster",
+      "url": "https://open.spotify.com/track/3OSJIs8o7v3reK5DHJrG48"
     },
     {
       "added_at": "2024-03-18 22:10:08",

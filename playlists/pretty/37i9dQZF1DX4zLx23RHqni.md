@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4zLx23RHqni.md) - [plain]
 
 > Explore the Romantic side of Tamil Indie! <br/><br/>Cover: Stephen Zechariah, Priya Jerson
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,588 likes - 51 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,617 likes - 51 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4zLx23RHqni.md) - [plain]
 | 29 | [Orasaadha \- Madras Gig](https://open.spotify.com/track/7fec0UcxeHVe6kHIez2GSs) | [Vivek \- Mervin](https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW) | [Orasaadha \(Madras Gig\)](https://open.spotify.com/album/1mnPDLW0l0ahapG5OXbgJe) | 3:55 |
 | 30 | [Po Po Yen](https://open.spotify.com/track/31qVBkJJd48frcwBgIkBqF) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [A H Kaashif](https://open.spotify.com/artist/3QouDKKier0OwfJnSOvvEI) | [Po Po Yen \- Single](https://open.spotify.com/album/4lRcrxaljMocjoJkQiWjzP) | 4:06 |
 | 31 | [Vaadi Pulla Vaadi](https://open.spotify.com/track/5dQR15IPbFDhTVwjfZgqR0) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q) | [Vaadi Pulla Vaadi](https://open.spotify.com/album/789KWh4Jia0vsisVdo44C3) | 4:06 |
-| 32 | [Adipoli \(From "Think Originals"\)](https://open.spotify.com/track/1rvJahl2EPy25dSsBNzTr4) | [Siddhu Kumar](https://open.spotify.com/artist/652AxOhhHWM3oxqY82UhQ9), [Vineeth Sreenivasan](https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src), [K\. Sivaangi](https://open.spotify.com/artist/0VocNHCBQ7Mzn9jNOmuSmz) | [Adipoli \(From "Think Originals"\)](https://open.spotify.com/album/4QHNXgyNYiMewgQYO3rdSy) | 2:52 |
+| 32 | [Adipoli \(From "Think Originals"\)](https://open.spotify.com/track/1rvJahl2EPy25dSsBNzTr4) | [Siddhu Kumar](https://open.spotify.com/artist/652AxOhhHWM3oxqY82UhQ9), [Vineeth Sreenivasan](https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src), [Sivaangi Krishnakumar](https://open.spotify.com/artist/0VocNHCBQ7Mzn9jNOmuSmz) | [Adipoli \(From "Think Originals"\)](https://open.spotify.com/album/4QHNXgyNYiMewgQYO3rdSy) | 2:52 |
 | 33 | [Ellam Unnale \(From "Think Indie"\)](https://open.spotify.com/track/7bie2UikFoDY3E8u6S4z8y) | [Godwin Winston](https://open.spotify.com/artist/7vqUNeg85N6Ric98foS687) | [Ellam Unnale \(From "Think Indie"\)](https://open.spotify.com/album/0Cl17slMTfhEVwdZmxtthR) | 3:52 |
 | 34 | [Hey Singari](https://open.spotify.com/track/5gwIXB335XKUb6tMlGepQv) | [Arul Raj](https://open.spotify.com/artist/3Cfz36JzWoV8SH9pGokECW), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Hey Singari](https://open.spotify.com/album/4WwSfK1gPABCUFctI3Rjts) | 3:51 |
 | 35 | [Manasara Sollu](https://open.spotify.com/track/5dmLyxAc4JnJ3L6gt3q9ZP) | [Teejay](https://open.spotify.com/artist/0TBQhPUEj1c5PlmTu3Hq5q) | [Manasara Sollu](https://open.spotify.com/album/4SPE8chJmSFveu1QoBUjto) | 4:22 |

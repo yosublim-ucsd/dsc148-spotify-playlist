@@ -1,6 +1,6 @@
 {
   "description": "Una euf\u00f3rica dosis de urbano rom\u00e1ntico en espa\u00f1ol.  ",
-  "num_followers": 176676,
+  "num_followers": 176745,
   "original_name": "Rimas Pa'l Cora",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "Inefable",
-        "url": "https://open.spotify.com/album/5AcfM2EiLTrnFxQjpo7mxp"
-      },
-      "artists": [
-        {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
-        }
-      ],
-      "duration_ms": 207879,
-      "name": "Confianza",
-      "url": "https://open.spotify.com/track/4chzKVwJz3Dt0ryO3Vd9ue"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
         "name": "Dib\u00fajame",
         "url": "https://open.spotify.com/album/46M0YKUmzyQm5yNAmqs3f0"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 236932,
       "name": "Dib\u00fajame",
       "url": "https://open.spotify.com/track/0RKglZdTQ7BLrs6vplb2qm"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
+        "name": "Inefable",
+        "url": "https://open.spotify.com/album/5AcfM2EiLTrnFxQjpo7mxp"
+      },
+      "artists": [
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        }
+      ],
+      "duration_ms": 207879,
+      "name": "Confianza",
+      "url": "https://open.spotify.com/track/4chzKVwJz3Dt0ryO3Vd9ue"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -1127,26 +1127,18 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "Vegetales Con Pescado",
-        "url": "https://open.spotify.com/album/23XssGbWNkixBvuJL48mA3"
+        "name": "Borracha De Amor",
+        "url": "https://open.spotify.com/album/56YlKtQXcwuYq5562zFYIJ"
       },
       "artists": [
         {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "La Loquera",
-          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
-        },
-        {
-          "name": "BCN",
-          "url": "https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd"
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
         }
       ],
-      "duration_ms": 182200,
-      "name": "Vegetales Con Pescado",
-      "url": "https://open.spotify.com/track/5hXIWWxST35rAT5pUCLAer"
+      "duration_ms": 219941,
+      "name": "Borracha De Amor",
+      "url": "https://open.spotify.com/track/2PeQ5QSleIKfW8GfIVsEmj"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -1167,18 +1159,26 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "Borracha De Amor",
-        "url": "https://open.spotify.com/album/56YlKtQXcwuYq5562zFYIJ"
+        "name": "Vegetales Con Pescado",
+        "url": "https://open.spotify.com/album/23XssGbWNkixBvuJL48mA3"
       },
       "artists": [
         {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        },
+        {
+          "name": "BCN",
+          "url": "https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd"
         }
       ],
-      "duration_ms": 219941,
-      "name": "Borracha De Amor",
-      "url": "https://open.spotify.com/track/2PeQ5QSleIKfW8GfIVsEmj"
+      "duration_ms": 182200,
+      "name": "Vegetales Con Pescado",
+      "url": "https://open.spotify.com/track/5hXIWWxST35rAT5pUCLAer"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -1271,6 +1271,30 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
+        "name": "400 Estrellas",
+        "url": "https://open.spotify.com/album/64jUlMiRacXh6dgXaA4Zfr"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Sharif",
+          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
+        },
+        {
+          "name": "Caztro",
+          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
+        }
+      ],
+      "duration_ms": 223875,
+      "name": "400 Estrellas",
+      "url": "https://open.spotify.com/track/7KoRTkn1EfYjEdmo0GbUOE"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
         "name": "Mundo",
         "url": "https://open.spotify.com/album/1ZSEd6KC03jopwyB22gaK9"
       },
@@ -1331,30 +1355,6 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "400 Estrellas",
-        "url": "https://open.spotify.com/album/64jUlMiRacXh6dgXaA4Zfr"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Sharif",
-          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
-        },
-        {
-          "name": "Caztro",
-          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
-        }
-      ],
-      "duration_ms": 223875,
-      "name": "400 Estrellas",
-      "url": "https://open.spotify.com/track/7KoRTkn1EfYjEdmo0GbUOE"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
         "name": "BAD BEHAVIORS",
         "url": "https://open.spotify.com/album/5fASm7hVEv3LWShYTVXqAV"
       },
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "S\u00f3lo Si Es Contigo",
-        "url": "https://open.spotify.com/album/0QItw3Hx1o9LhCj8iJdzon"
-      },
-      "artists": [
-        {
-          "name": "Santa RM",
-          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 239926,
-      "name": "S\u00f3lo Si Es Contigo",
-      "url": "https://open.spotify.com/track/6GTZrTCYaK60pZYvgaOw5Y"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
         "name": "Colibr\u00ed",
         "url": "https://open.spotify.com/album/65f71lgoP71F7dN6ubyg9P"
       },
@@ -1443,6 +1423,26 @@
       "duration_ms": 150318,
       "name": "Colibr\u00ed",
       "url": "https://open.spotify.com/track/3SB4BggLTilRbeqErh059h"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
+        "name": "FINALMENTE LIBRE",
+        "url": "https://open.spotify.com/album/4SOp9ebHU3O2waxCa7cm49"
+      },
+      "artists": [
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        },
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        }
+      ],
+      "duration_ms": 193296,
+      "name": "DISTANTE (with El Malilla)",
+      "url": "https://open.spotify.com/track/2SsriXUrzvmGTdxhgzDeu1"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -1467,22 +1467,22 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "FINALMENTE LIBRE",
-        "url": "https://open.spotify.com/album/4SOp9ebHU3O2waxCa7cm49"
+        "name": "S\u00f3lo Si Es Contigo",
+        "url": "https://open.spotify.com/album/0QItw3Hx1o9LhCj8iJdzon"
       },
       "artists": [
         {
-          "name": "Julianno Sosa",
-          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+          "name": "Santa RM",
+          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
         },
         {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
         }
       ],
-      "duration_ms": 193296,
-      "name": "DISTANTE (with El Malilla)",
-      "url": "https://open.spotify.com/track/2SsriXUrzvmGTdxhgzDeu1"
+      "duration_ms": 239926,
+      "name": "S\u00f3lo Si Es Contigo",
+      "url": "https://open.spotify.com/track/6GTZrTCYaK60pZYvgaOw5Y"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -2207,30 +2207,6 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "T\u00fa Tienes el Son",
-        "url": "https://open.spotify.com/album/0YVNvh5zedGZ2cOmC6tD3E"
-      },
-      "artists": [
-        {
-          "name": "Penyair",
-          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
-        },
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Alka Produce",
-          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
-        }
-      ],
-      "duration_ms": 181418,
-      "name": "T\u00fa Tienes el Son",
-      "url": "https://open.spotify.com/track/5UBSfqsnxc2GW86eHEsuA2"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
         "name": "0cm",
         "url": "https://open.spotify.com/album/5TTk79eZvPAB7D6PvrdANe"
       },
@@ -2299,6 +2275,30 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
+        "name": "T\u00fa Tienes el Son",
+        "url": "https://open.spotify.com/album/0YVNvh5zedGZ2cOmC6tD3E"
+      },
+      "artists": [
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
+        }
+      ],
+      "duration_ms": 181418,
+      "name": "T\u00fa Tienes el Son",
+      "url": "https://open.spotify.com/track/5UBSfqsnxc2GW86eHEsuA2"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
         "name": "Quieres",
         "url": "https://open.spotify.com/album/3u4CFQKwkrcGCCM1VCmXsw"
       },
@@ -2319,22 +2319,6 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "Cada D\u00eda Te Quiero M\u00e1s",
-        "url": "https://open.spotify.com/album/5x4CBMHXg9zVY37KEZSS3J"
-      },
-      "artists": [
-        {
-          "name": "Robot95",
-          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
-        }
-      ],
-      "duration_ms": 192418,
-      "name": "Cada D\u00eda Te Quiero M\u00e1s",
-      "url": "https://open.spotify.com/track/3cj60CwhSsrMr0nxMRIGKP"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
         "name": "Diez Lunas",
         "url": "https://open.spotify.com/album/7tXH1gZ0buTRLVCe1y75vC"
       },
@@ -2347,6 +2331,22 @@
       "duration_ms": 195115,
       "name": "Ni de Ti Ni de Nadie",
       "url": "https://open.spotify.com/track/6dhfCkmjThVA2HmjIg4pXX"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
+        "name": "Cada D\u00eda Te Quiero M\u00e1s",
+        "url": "https://open.spotify.com/album/5x4CBMHXg9zVY37KEZSS3J"
+      },
+      "artists": [
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        }
+      ],
+      "duration_ms": 192418,
+      "name": "Cada D\u00eda Te Quiero M\u00e1s",
+      "url": "https://open.spotify.com/track/3cj60CwhSsrMr0nxMRIGKP"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -2431,6 +2431,22 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
+        "name": "Que Mal Me Hac\u00edas",
+        "url": "https://open.spotify.com/album/6as8gFrgGgyEPuu4PLR41M"
+      },
+      "artists": [
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        }
+      ],
+      "duration_ms": 140893,
+      "name": "Que Mal Me Hac\u00edas",
+      "url": "https://open.spotify.com/track/0pgXLwDXcq2hVxIlUD9XWU"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
         "name": "Te Deseo Lo Mejor",
         "url": "https://open.spotify.com/album/6pGKNM53b4PH1v015cjZfs"
       },
@@ -2447,22 +2463,6 @@
       "duration_ms": 173500,
       "name": "Te Deseo Lo Mejor",
       "url": "https://open.spotify.com/track/4xC6hpXVqIfUkiHswrI8Vr"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
-        "name": "Que Mal Me Hac\u00edas",
-        "url": "https://open.spotify.com/album/6as8gFrgGgyEPuu4PLR41M"
-      },
-      "artists": [
-        {
-          "name": "EMJAY",
-          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
-        }
-      ],
-      "duration_ms": 140893,
-      "name": "Que Mal Me Hac\u00edas",
-      "url": "https://open.spotify.com/track/0pgXLwDXcq2hVxIlUD9XWU"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -2527,6 +2527,22 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
+        "name": "Nuestro Amor Vol\u00e1til",
+        "url": "https://open.spotify.com/album/37c0n3SwXNrs2KXX7qqGEu"
+      },
+      "artists": [
+        {
+          "name": "Oscar Lee",
+          "url": "https://open.spotify.com/artist/4xYRQAYVpIJvtM28VM76cz"
+        }
+      ],
+      "duration_ms": 132732,
+      "name": "Nuestro Amor Vol\u00e1til",
+      "url": "https://open.spotify.com/track/59ycq0jxTFpWC65UWegROp"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
         "name": "Sin Etiquetas",
         "url": "https://open.spotify.com/album/4QPZsHxOOe4JkMrNU5l2Wg"
       },
@@ -2543,22 +2559,6 @@
       "duration_ms": 148235,
       "name": "Sin Etiquetas",
       "url": "https://open.spotify.com/track/04K2EiRnHz4UtEHxvrx4k5"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
-        "name": "Nuestro Amor Vol\u00e1til",
-        "url": "https://open.spotify.com/album/37c0n3SwXNrs2KXX7qqGEu"
-      },
-      "artists": [
-        {
-          "name": "Oscar Lee",
-          "url": "https://open.spotify.com/artist/4xYRQAYVpIJvtM28VM76cz"
-        }
-      ],
-      "duration_ms": 132732,
-      "name": "Nuestro Amor Vol\u00e1til",
-      "url": "https://open.spotify.com/track/59ycq0jxTFpWC65UWegROp"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -2735,26 +2735,6 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "Tu Partida",
-        "url": "https://open.spotify.com/album/3nMyupYS0nMH4ydQz7Uvq9"
-      },
-      "artists": [
-        {
-          "name": "Chikano Jcr",
-          "url": "https://open.spotify.com/artist/0t9TjrJV1Yo3ru7XHs2mOC"
-        },
-        {
-          "name": "Elie Tigre",
-          "url": "https://open.spotify.com/artist/6tM7AHGyfVc57FK5hZlEd1"
-        }
-      ],
-      "duration_ms": 225884,
-      "name": "Tu Partida",
-      "url": "https://open.spotify.com/track/6wJhgxK5yWPppfSz7HYaq1"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
         "name": "Pr\u00f3ximo Diciembre",
         "url": "https://open.spotify.com/album/009pkQIFctOi2Js6ipx6T1"
       },
@@ -2775,6 +2755,26 @@
       "duration_ms": 224000,
       "name": "Pr\u00f3ximo Diciembre",
       "url": "https://open.spotify.com/track/0UYS2UvtAXi0oygPGA0Wmq"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
+        "name": "Tu Partida",
+        "url": "https://open.spotify.com/album/3nMyupYS0nMH4ydQz7Uvq9"
+      },
+      "artists": [
+        {
+          "name": "Chikano Jcr",
+          "url": "https://open.spotify.com/artist/0t9TjrJV1Yo3ru7XHs2mOC"
+        },
+        {
+          "name": "Elie Tigre",
+          "url": "https://open.spotify.com/artist/6tM7AHGyfVc57FK5hZlEd1"
+        }
+      ],
+      "duration_ms": 225884,
+      "name": "Tu Partida",
+      "url": "https://open.spotify.com/track/6wJhgxK5yWPppfSz7HYaq1"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -2911,38 +2911,6 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "Mamasita",
-        "url": "https://open.spotify.com/album/3b1aU0zMLb1tiiHJf4Ijt3"
-      },
-      "artists": [
-        {
-          "name": "Chikis RA",
-          "url": "https://open.spotify.com/artist/77LLHWAIQ3ox7VDtrqofeA"
-        }
-      ],
-      "duration_ms": 182168,
-      "name": "Mamasita",
-      "url": "https://open.spotify.com/track/5KD6klQ0iFE8Xw5oCsAvg6"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
-        "name": "Te Voy a Extra\u00f1ar",
-        "url": "https://open.spotify.com/album/4BICaJLey3jzPoFaGYIp3W"
-      },
-      "artists": [
-        {
-          "name": "Achepe",
-          "url": "https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM"
-        }
-      ],
-      "duration_ms": 198971,
-      "name": "Te Voy a Extra\u00f1ar",
-      "url": "https://open.spotify.com/track/0oUMLrNG36I7PaZHF2MbvL"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
         "name": "Tu sabes",
         "url": "https://open.spotify.com/album/6ARBcLSiUyawYpLI3AV4f6"
       },
@@ -2967,6 +2935,22 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
+        "name": "Te Voy a Extra\u00f1ar",
+        "url": "https://open.spotify.com/album/4BICaJLey3jzPoFaGYIp3W"
+      },
+      "artists": [
+        {
+          "name": "Achepe",
+          "url": "https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM"
+        }
+      ],
+      "duration_ms": 198971,
+      "name": "Te Voy a Extra\u00f1ar",
+      "url": "https://open.spotify.com/track/0oUMLrNG36I7PaZHF2MbvL"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
         "name": "Tres Copas",
         "url": "https://open.spotify.com/album/2MzVCk6nvH77dcOdb0fD0x"
       },
@@ -2987,6 +2971,22 @@
       "duration_ms": 203253,
       "name": "Tres Copas",
       "url": "https://open.spotify.com/track/5XXF2YGeHsFUrNnk4SPe56"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
+        "name": "Mamasita",
+        "url": "https://open.spotify.com/album/3b1aU0zMLb1tiiHJf4Ijt3"
+      },
+      "artists": [
+        {
+          "name": "Chikis RA",
+          "url": "https://open.spotify.com/artist/77LLHWAIQ3ox7VDtrqofeA"
+        }
+      ],
+      "duration_ms": 182168,
+      "name": "Mamasita",
+      "url": "https://open.spotify.com/track/5KD6klQ0iFE8Xw5oCsAvg6"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -3051,22 +3051,6 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "Kintsugi",
-        "url": "https://open.spotify.com/album/6wv6oeVA6fhIA6xXLb1knP"
-      },
-      "artists": [
-        {
-          "name": "Mike Diaz",
-          "url": "https://open.spotify.com/artist/5pR3pEU0bCMZhhAzag3DUz"
-        }
-      ],
-      "duration_ms": 267333,
-      "name": "Kintsugi",
-      "url": "https://open.spotify.com/track/1RRyiDUte8aYs5YNzNIHyv"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
         "name": "Rey de Corazones Rotos",
         "url": "https://open.spotify.com/album/7fGP4JQisjbNudDBD8bnYj"
       },
@@ -3099,6 +3083,22 @@
       "duration_ms": 267558,
       "name": "Lucifer",
       "url": "https://open.spotify.com/track/3E3jX1CLJ9rMViuLr1hNB3"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
+        "name": "Kintsugi",
+        "url": "https://open.spotify.com/album/6wv6oeVA6fhIA6xXLb1knP"
+      },
+      "artists": [
+        {
+          "name": "Mike Diaz",
+          "url": "https://open.spotify.com/artist/5pR3pEU0bCMZhhAzag3DUz"
+        }
+      ],
+      "duration_ms": 267333,
+      "name": "Kintsugi",
+      "url": "https://open.spotify.com/track/1RRyiDUte8aYs5YNzNIHyv"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -3263,6 +3263,34 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
+        "name": "STK",
+        "url": "https://open.spotify.com/album/3uKYgG9LMPN1qPnrdtVPc1"
+      },
+      "artists": [
+        {
+          "name": "Axel Olloqui",
+          "url": "https://open.spotify.com/artist/5G4Gh8x14AwqhaiH9zo5qs"
+        },
+        {
+          "name": "Kodigo",
+          "url": "https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS"
+        },
+        {
+          "name": "Absa G.",
+          "url": "https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1"
+        },
+        {
+          "name": "KALIFRN",
+          "url": "https://open.spotify.com/artist/5Kj0ySkgBEbDp0Xk3Qwl5n"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "STK",
+      "url": "https://open.spotify.com/track/2QVlErwMOFVh8ONQ6rxyWR"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
         "name": "1000 KM",
         "url": "https://open.spotify.com/album/20q9WdJWeO6p1FJF0a5hmO"
       },
@@ -3291,34 +3319,6 @@
       "duration_ms": 157241,
       "name": "1000 KM",
       "url": "https://open.spotify.com/track/5VlVGHwqLnT6JbYbayUdE3"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
-        "name": "STK",
-        "url": "https://open.spotify.com/album/3uKYgG9LMPN1qPnrdtVPc1"
-      },
-      "artists": [
-        {
-          "name": "Axel Olloqui",
-          "url": "https://open.spotify.com/artist/5G4Gh8x14AwqhaiH9zo5qs"
-        },
-        {
-          "name": "Kodigo",
-          "url": "https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS"
-        },
-        {
-          "name": "Absa G.",
-          "url": "https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1"
-        },
-        {
-          "name": "KALIFRN",
-          "url": "https://open.spotify.com/artist/5Kj0ySkgBEbDp0Xk3Qwl5n"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "STK",
-      "url": "https://open.spotify.com/track/2QVlErwMOFVh8ONQ6rxyWR"
     },
     {
       "added_at": "2024-08-30 06:00:00",

@@ -4,7 +4,7 @@
 
 > ジャズを基調にロックやラテン音楽、電子音楽、時にはクラシックなどを融合させた「ジャズフュージョン」を牽引する日本のアーティストを特集。cover: bohemianvoodoo
 
-102 songs - 7 hr 57 min
+103 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [WAVE](https://open.spotify.com/track/3A2PqBP4fJnThiEJ9w8nVg) | [SPECIAL OTHERS](https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5) | [WAVE](https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B) | 7:32 | 2024-02-27 | 2024-07-06 |
 | [Weekender](https://open.spotify.com/track/76oqYLjDjbBb43Ne1qrdlP) | [Knew Roy](https://open.spotify.com/artist/42TMYSBkbTK28DAAePvRdw) | [Weekender](https://open.spotify.com/album/0LmJJ8LqWgjsGXtkrgWSLz) | 2:50 | 2023-03-14 | 2023-09-06 |
 | [We’ll Be Right Back](https://open.spotify.com/track/6AtrtrgIPlpMcHHntj3eT8) | [Blu\-Swing](https://open.spotify.com/artist/3dKCIyXK94LWUnyvD8LepD) | [We’ll Be Right Back](https://open.spotify.com/album/1WTZwZKR56VOLX4q5YgJN2) | 4:21 | 2023-03-14 | 2023-05-30 |
+| [Zero G](https://open.spotify.com/track/0qzL6t5JFpEsnLVlezgykn) | [かつしかトリオ](https://open.spotify.com/artist/03YKWuEqoYW6MGljsluOxm) | [Wild Guys In The Universe](https://open.spotify.com/album/1entHKqpYIPQygUeAJYpkq) | 3:46 | 2024-09-11 |  |
 | [みずいろの雨](https://open.spotify.com/track/75iEGWh5t7ZyqYKuvns6Ma) | [Liquid Stella](https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9) | [みずいろの雨](https://open.spotify.com/album/41aqTAsLAIAMGgW1tOqErz) | 4:50 | 2023-03-14 | 2024-01-31 |
 | [サファリ](https://open.spotify.com/track/4MEXW1zCYDjD3vZy8Sa9uR) | [Sadao Watanabe](https://open.spotify.com/artist/2hGDAhezELu9olOncSWZYI) | [マイ・ディア・ライフ](https://open.spotify.com/album/7dn9EVB0Joi88kXKeFR1qD) | 7:06 | 2024-02-27 |  |
 | [夜になると鮭は](https://open.spotify.com/track/5GXm9bflCSMH3ADala8uIU) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [POLY LIFE MULTI SOUL](https://open.spotify.com/album/4ExqwHRD689BjDf0tUKGBM) | 2:08 | 2023-03-14 | 2024-04-19 |
@@ -106,7 +107,7 @@
 | [朝焼け \- Live at Chuo Kaikan Hall, Tokyo, Feb\. 1982](https://open.spotify.com/track/3kn85OLlFlbQDCiKmj17MO) | [CASIOPEA](https://open.spotify.com/artist/0lRXEutklZUeNdWIJA1NI0) | [MINT JAMS\(Live\)](https://open.spotify.com/album/2yvR4wVM1XLEKVad6F3ja9) | 4:58 | 2023-03-14 |  |
 | [枯葉 \~Autumn Leaves\~ \(jazz standard\)](https://open.spotify.com/track/6qeCyQdxowFD746sApGBYx) | [SANOVA](https://open.spotify.com/artist/15fZ3hlvf6rcqHls6hZAbt) | [BLISS](https://open.spotify.com/album/1YDUWGvyfwxHi8Xwr7muNi) | 3:05 | 2023-04-04 |  |
 | [石の教会](https://open.spotify.com/track/17UXJldxw6BDUxVoDjemkK) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [MOMENTS](https://open.spotify.com/album/1O302L03rMX6CR86W0OfuD) | 4:37 | 2023-10-17 |  |
-| [華火夜景](https://open.spotify.com/track/1RO9fAT9UQWSB8mVaxcvOI) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [華火夜景](https://open.spotify.com/album/57hUpIDR3di336V6dO6U8v) | 4:35 | 2023-07-22 |  |
+| [華火夜景](https://open.spotify.com/track/1RO9fAT9UQWSB8mVaxcvOI) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [華火夜景](https://open.spotify.com/album/57hUpIDR3di336V6dO6U8v) | 4:35 | 2023-07-22 | 2024-09-12 |
 | [街の報せ Rework 黒田卓也](https://open.spotify.com/track/1bBDwauDhzcOxV0pqHgBey) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [街の報せ Rework 黒田卓也](https://open.spotify.com/album/0DpwMSu8p7W6uoua8j7ffC) | 4:46 | 2023-03-14 | 2023-09-16 |
 | [赤いスイートピー \- English Jazz Ver.](https://open.spotify.com/track/7sZvxchusFfJalUdKXxxsU) | [Seiko Matsuda](https://open.spotify.com/artist/3E5NLQpQbd0eJ18XO9zC0h) | [赤いスイートピー \(English Jazz Ver.\)](https://open.spotify.com/album/3yDsynLI0UyD2U8tVp5A2Q) | 4:25 | 2023-12-12 | 2024-01-18 |
 | [（つづく）](https://open.spotify.com/track/2gMxAHUFrJqvBlRvBorkjE) | [Answer to Remember](https://open.spotify.com/artist/0AmjQ7AztgqsgxwtNV7GL9), [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP), [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc), [Gensuke Kanki](https://open.spotify.com/artist/6wKIQpK2Xmxfoto8ezWfZC), [井上銘](https://open.spotify.com/artist/1cw4DRIdgFVPpNEdx0xORg), [MELRAW](https://open.spotify.com/artist/6yFRg2uyPmQP8XfwTrnE6N), [海堀弘太](https://open.spotify.com/artist/2agGhXNQXZhNjIgVKeDkF1), [マーティ・ホロベック](https://open.spotify.com/artist/4PSDkzRHb6bFCNh9wS0Uyj) | [Answer to Remember II](https://open.spotify.com/album/1RV1qtvVjJZzqK2W52QKEy) | 5:42 | 2024-08-06 |  |

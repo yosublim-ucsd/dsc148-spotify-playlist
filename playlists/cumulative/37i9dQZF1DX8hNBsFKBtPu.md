@@ -4,7 +4,7 @@
 
 > Det bedste nye pop! <a href="spotify:artist:6idjJt47PjFydVRrAlNw4C">Anthon Edwards</a> er oppe og flyve men helt rolig 🏆
 
-191 songs - 9 hr 44 min
+192 songs - 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-06-27 | 2024-07-30 |
 | [Tænker Ik På Andre \(feat\. URO\)](https://open.spotify.com/track/7CW3Tjll8pUMZxsuo8GZgV) | [Suspekt](https://open.spotify.com/artist/74HomvqoUecDcUPRespyqg), [URO](https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD) | [Tænker Ik På Andre \(feat\. URO\)](https://open.spotify.com/album/2JmLI48HyAM6YAfQB4z3vm) | 3:23 | 2024-08-29 |  |
 | [Ugly Cry](https://open.spotify.com/track/0laEAr4GUvINBLFQnguMmb) | [Theresa Rex](https://open.spotify.com/artist/6t9tbRO9Lv6Oq6xtVwfdrn) | [Ugly Cry](https://open.spotify.com/album/4oSR3YcFYVtp0wladUo93t) | 2:24 | 2024-08-22 |  |
+| [Ulykkelig](https://open.spotify.com/track/2YDLTIoCXWBw77xk2Irxe9) | [Karoline Mousing](https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0) | [Ulykkelig](https://open.spotify.com/album/7h7vLjEEYuicY1oBmN37Fc) | 2:16 | 2024-09-11 |  |
 | [us\. \(feat\. Taylor Swift\)](https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 4:02 | 2024-06-27 |  |
 | [USB](https://open.spotify.com/track/4S9p8TRkZA9z53rDjwu032) | [Emil Lange](https://open.spotify.com/artist/4UxkyClhUPBeJjyGwHvgaV), [Lord Siva](https://open.spotify.com/artist/5SwsSD9zyWaWeVyK9qIW9l) | [USB](https://open.spotify.com/album/1qBhQXg3Z2yRdDUImIHe5O) | 2:45 | 2024-06-27 |  |
 | [Venus](https://open.spotify.com/track/0vdgqKnjg1tyIgkkzucxyJ) | [Alexander Oscar](https://open.spotify.com/artist/7ypOZKaKGrCf3V6pOuaXiM) | [Venus](https://open.spotify.com/album/5x5grG9u5thsvO2wVGeAbr) | 2:42 | 2024-06-27 | 2024-07-30 |

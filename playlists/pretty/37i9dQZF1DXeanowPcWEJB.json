@@ -1,6 +1,6 @@
 {
   "description": "Viaja al M\u00e9xico tradicional con la expresi\u00f3n de sus guitarras.",
-  "num_followers": 132490,
+  "num_followers": 132549,
   "original_name": "Guitarra Mexicana",
   "owner": {
     "name": "Spotify",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "Noche Negra",
-        "url": "https://open.spotify.com/album/5FuPvDHLQTr3eaxl2r9PCE"
-      },
-      "artists": [
-        {
-          "name": "Las Tres Abejas",
-          "url": "https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi"
-        }
-      ],
-      "duration_ms": 119739,
-      "name": "Noche Negra",
-      "url": "https://open.spotify.com/track/0jm4wpiCZy3wXupv0IAXrN"
-    },
-    {
-      "added_at": "2024-07-11 01:27:02",
-      "album": {
         "name": "25 Exitos",
         "url": "https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 195000,
       "name": "Costumbres",
       "url": "https://open.spotify.com/track/6RGcyQM6Jt2VJ7OBHuVvT4"
+    },
+    {
+      "added_at": "2024-07-11 01:27:02",
+      "album": {
+        "name": "Juan Gabriel Instrumental",
+        "url": "https://open.spotify.com/album/0gwnj5oFg6mpXSCHdu87Fg"
+      },
+      "artists": [
+        {
+          "name": "Chamin Madero",
+          "url": "https://open.spotify.com/artist/2i6crsrnfZnUu1hdEEa1Z4"
+        }
+      ],
+      "duration_ms": 246746,
+      "name": "Costumbres",
+      "url": "https://open.spotify.com/track/7pK8jqZaln51RmaCKcvNr6"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
+        "name": "Noche Negra",
+        "url": "https://open.spotify.com/album/5FuPvDHLQTr3eaxl2r9PCE"
+      },
+      "artists": [
+        {
+          "name": "Las Tres Abejas",
+          "url": "https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi"
+        }
+      ],
+      "duration_ms": 119739,
+      "name": "Noche Negra",
+      "url": "https://open.spotify.com/track/0jm4wpiCZy3wXupv0IAXrN"
+    },
+    {
+      "added_at": "2024-07-11 01:27:02",
+      "album": {
         "name": "Lo Mejor en Guitarras",
         "url": "https://open.spotify.com/album/7nl5EG8xfTaQ4WVyB9dsc3"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 147133,
       "name": "La Bikina",
       "url": "https://open.spotify.com/track/4uzsdjd5zer4uurbqIuEu6"
-    },
-    {
-      "added_at": "2024-07-11 01:27:02",
-      "album": {
-        "name": "Juan Gabriel Instrumental",
-        "url": "https://open.spotify.com/album/0gwnj5oFg6mpXSCHdu87Fg"
-      },
-      "artists": [
-        {
-          "name": "Chamin Madero",
-          "url": "https://open.spotify.com/artist/2i6crsrnfZnUu1hdEEa1Z4"
-        }
-      ],
-      "duration_ms": 246746,
-      "name": "Costumbres",
-      "url": "https://open.spotify.com/track/7pK8jqZaln51RmaCKcvNr6"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -815,18 +815,18 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "Llorando Estoy Por Ti",
-        "url": "https://open.spotify.com/album/5uQXjOkNlz31i1Uz5h7QH1"
+        "name": "Juan Gabriel Instrumental",
+        "url": "https://open.spotify.com/album/0gwnj5oFg6mpXSCHdu87Fg"
       },
       "artists": [
         {
-          "name": "Las Tres Abejas",
-          "url": "https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi"
+          "name": "Chamin Madero",
+          "url": "https://open.spotify.com/artist/2i6crsrnfZnUu1hdEEa1Z4"
         }
       ],
-      "duration_ms": 164500,
-      "name": "Llorando Estoy Por Ti",
-      "url": "https://open.spotify.com/track/2yfiaN5lzgrkosB5QXxBvm"
+      "duration_ms": 221000,
+      "name": "Amor Eterno",
+      "url": "https://open.spotify.com/track/5k7l6Sl8lmLfxqbFg2kLgk"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
+        "name": "Llorando Estoy Por Ti",
+        "url": "https://open.spotify.com/album/5uQXjOkNlz31i1Uz5h7QH1"
+      },
+      "artists": [
+        {
+          "name": "Las Tres Abejas",
+          "url": "https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi"
+        }
+      ],
+      "duration_ms": 164500,
+      "name": "Llorando Estoy Por Ti",
+      "url": "https://open.spotify.com/track/2yfiaN5lzgrkosB5QXxBvm"
+    },
+    {
+      "added_at": "2024-07-11 01:27:02",
+      "album": {
         "name": "Me Vuelves Loco",
         "url": "https://open.spotify.com/album/5CiVVzX1ivSwc5eoBoaukX"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 146250,
       "name": "Me Vuelves Loco",
       "url": "https://open.spotify.com/track/1SPQNLWfqc062pcoDatLxw"
-    },
-    {
-      "added_at": "2024-07-11 01:27:02",
-      "album": {
-        "name": "Juan Gabriel Instrumental",
-        "url": "https://open.spotify.com/album/0gwnj5oFg6mpXSCHdu87Fg"
-      },
-      "artists": [
-        {
-          "name": "Chamin Madero",
-          "url": "https://open.spotify.com/artist/2i6crsrnfZnUu1hdEEa1Z4"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Amor Eterno",
-      "url": "https://open.spotify.com/track/5k7l6Sl8lmLfxqbFg2kLgk"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "Tuyo Es Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1bwStQ80iX18XkjuG0fsL6"
-      },
-      "artists": [
-        {
-          "name": "Juan Veronico",
-          "url": "https://open.spotify.com/artist/6srSERU4ay3tUEK8XbA2Rp"
-        }
-      ],
-      "duration_ms": 173440,
-      "name": "Mar\u00eda Elena",
-      "url": "https://open.spotify.com/track/6dF9JTzb2B1rArAlU5pdcx"
-    },
-    {
-      "added_at": "2024-07-11 01:27:02",
-      "album": {
         "name": "Guitarra Mexicana, Vol. 1",
         "url": "https://open.spotify.com/album/3tQyY3bDlVSJBnXlQzqK7l"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 158250,
       "name": "La Llorona (Duet)",
       "url": "https://open.spotify.com/track/1YBrN8ZzDNbPDH4ay75FsR"
+    },
+    {
+      "added_at": "2024-07-11 01:27:02",
+      "album": {
+        "name": "Tuyo Es Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1bwStQ80iX18XkjuG0fsL6"
+      },
+      "artists": [
+        {
+          "name": "Juan Veronico",
+          "url": "https://open.spotify.com/artist/6srSERU4ay3tUEK8XbA2Rp"
+        }
+      ],
+      "duration_ms": 173440,
+      "name": "Mar\u00eda Elena",
+      "url": "https://open.spotify.com/track/6dF9JTzb2B1rArAlU5pdcx"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "16 Fabulosas Interpretaciones Con Juan Ver\u00f3nico y Su Guitarra",
-        "url": "https://open.spotify.com/album/0aKe13vTjDCDDI5E4kXKJP"
+        "name": "Guitarra Mexicana, Vol. 1",
+        "url": "https://open.spotify.com/album/3tQyY3bDlVSJBnXlQzqK7l"
       },
       "artists": [
         {
-          "name": "Juan Veronico",
-          "url": "https://open.spotify.com/artist/6srSERU4ay3tUEK8XbA2Rp"
+          "name": "Stefan",
+          "url": "https://open.spotify.com/artist/7lAyVgqdNJDgOcno8i62ZU"
         }
       ],
-      "duration_ms": 138760,
-      "name": "En el \u00daltimo Trago",
-      "url": "https://open.spotify.com/track/40rY5j5e4JNkG47sAdq0UB"
+      "duration_ms": 102500,
+      "name": "Cancion Mixteca",
+      "url": "https://open.spotify.com/track/1K6afJuRM0WJF18ecwU4J9"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "Guitarra Mexicana, Vol. 1",
-        "url": "https://open.spotify.com/album/3tQyY3bDlVSJBnXlQzqK7l"
+        "name": "16 Fabulosas Interpretaciones Con Juan Ver\u00f3nico y Su Guitarra",
+        "url": "https://open.spotify.com/album/0aKe13vTjDCDDI5E4kXKJP"
       },
       "artists": [
         {
-          "name": "Stefan",
-          "url": "https://open.spotify.com/artist/7lAyVgqdNJDgOcno8i62ZU"
+          "name": "Juan Veronico",
+          "url": "https://open.spotify.com/artist/6srSERU4ay3tUEK8XbA2Rp"
         }
       ],
-      "duration_ms": 102500,
-      "name": "Cancion Mixteca",
-      "url": "https://open.spotify.com/track/1K6afJuRM0WJF18ecwU4J9"
+      "duration_ms": 138760,
+      "name": "En el \u00daltimo Trago",
+      "url": "https://open.spotify.com/track/40rY5j5e4JNkG47sAdq0UB"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "Tesoros De Colecci\u00f3n - Las Grandes Guitarras Mexicanas",
-        "url": "https://open.spotify.com/album/5oXeGRM1GB8Olw0p1W1FQ3"
+        "name": "Guitarra Mexicana, Vol. 1",
+        "url": "https://open.spotify.com/album/3tQyY3bDlVSJBnXlQzqK7l"
       },
       "artists": [
         {
-          "name": "Juan Veronico",
-          "url": "https://open.spotify.com/artist/6srSERU4ay3tUEK8XbA2Rp"
+          "name": "Stefan",
+          "url": "https://open.spotify.com/artist/7lAyVgqdNJDgOcno8i62ZU"
         }
       ],
-      "duration_ms": 214746,
-      "name": "Volver, Volver",
-      "url": "https://open.spotify.com/track/4pfymBSdH9ppHqTXUuxasn"
+      "duration_ms": 189374,
+      "name": "La Zandunga",
+      "url": "https://open.spotify.com/track/0nU1vk6q6enXEZCCPyYNrM"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
+        "name": "Tesoros De Colecci\u00f3n - Las Grandes Guitarras Mexicanas",
+        "url": "https://open.spotify.com/album/5oXeGRM1GB8Olw0p1W1FQ3"
+      },
+      "artists": [
+        {
+          "name": "Juan Veronico",
+          "url": "https://open.spotify.com/artist/6srSERU4ay3tUEK8XbA2Rp"
+        }
+      ],
+      "duration_ms": 214746,
+      "name": "Volver, Volver",
+      "url": "https://open.spotify.com/track/4pfymBSdH9ppHqTXUuxasn"
+    },
+    {
+      "added_at": "2024-07-11 01:27:02",
+      "album": {
         "name": "Guitarra Mexicana, Vol. 1",
         "url": "https://open.spotify.com/album/3tQyY3bDlVSJBnXlQzqK7l"
       },
@@ -1328,9 +1344,9 @@
           "url": "https://open.spotify.com/artist/7lAyVgqdNJDgOcno8i62ZU"
         }
       ],
-      "duration_ms": 189374,
-      "name": "La Zandunga",
-      "url": "https://open.spotify.com/track/0nU1vk6q6enXEZCCPyYNrM"
+      "duration_ms": 166467,
+      "name": "La Luz",
+      "url": "https://open.spotify.com/track/4uXV0bR99BzZBlaz8rhX4J"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -1347,22 +1363,6 @@
       "duration_ms": 285066,
       "name": "Popurri de la Revolucion: Cielito Lindo / La Valentina / La Adelita / La Rielera",
       "url": "https://open.spotify.com/track/4nT54TLQMAjnpBwg1uDwfF"
-    },
-    {
-      "added_at": "2024-07-11 01:27:02",
-      "album": {
-        "name": "15 Melod\u00edas Inolvidables en la Guitarra de Juan Ver\u00f3nico",
-        "url": "https://open.spotify.com/album/48VLY9rCWIa5bfv4yebksG"
-      },
-      "artists": [
-        {
-          "name": "Juan Veronico",
-          "url": "https://open.spotify.com/artist/6srSERU4ay3tUEK8XbA2Rp"
-        }
-      ],
-      "duration_ms": 205013,
-      "name": "Nunca, Nunca, Nunca",
-      "url": "https://open.spotify.com/track/7u8deMbNEnfhVwZFQeWqDm"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -1447,6 +1447,38 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
+        "name": "8 A\u00f1os",
+        "url": "https://open.spotify.com/album/3d1utyj80pLW7lVZa19pIP"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "duration_ms": 200725,
+      "name": "El Jardin",
+      "url": "https://open.spotify.com/track/73eUiyq2OGr7JtOmgbyMxj"
+    },
+    {
+      "added_at": "2024-07-11 01:27:02",
+      "album": {
+        "name": "15 Melod\u00edas Inolvidables en la Guitarra de Juan Ver\u00f3nico",
+        "url": "https://open.spotify.com/album/48VLY9rCWIa5bfv4yebksG"
+      },
+      "artists": [
+        {
+          "name": "Juan Veronico",
+          "url": "https://open.spotify.com/artist/6srSERU4ay3tUEK8XbA2Rp"
+        }
+      ],
+      "duration_ms": 205013,
+      "name": "Nunca, Nunca, Nunca",
+      "url": "https://open.spotify.com/track/7u8deMbNEnfhVwZFQeWqDm"
+    },
+    {
+      "added_at": "2024-07-11 01:27:02",
+      "album": {
         "name": "Los Poetas de la Guitarra Popurris Inolvidables",
         "url": "https://open.spotify.com/album/09kgUfKZsxwHb5Vphl10YT"
       },
@@ -1463,22 +1495,6 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "Guitarra Mexicana, Vol. 1",
-        "url": "https://open.spotify.com/album/3tQyY3bDlVSJBnXlQzqK7l"
-      },
-      "artists": [
-        {
-          "name": "Stefan",
-          "url": "https://open.spotify.com/artist/7lAyVgqdNJDgOcno8i62ZU"
-        }
-      ],
-      "duration_ms": 166467,
-      "name": "La Luz",
-      "url": "https://open.spotify.com/track/4uXV0bR99BzZBlaz8rhX4J"
-    },
-    {
-      "added_at": "2024-07-11 01:27:02",
-      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/6lumfvD8xwtfHiabaaBXS6"
       },
@@ -1488,25 +1504,9 @@
           "url": "https://open.spotify.com/artist/6HexP8xPE4JxhMkwxx55Pz"
         }
       ],
-      "duration_ms": 129533,
-      "name": "Alla en el Rancho Grande",
-      "url": "https://open.spotify.com/track/64j3RUFP6ZHH4h8ctOxc1o"
-    },
-    {
-      "added_at": "2024-07-11 01:27:02",
-      "album": {
-        "name": "8 A\u00f1os",
-        "url": "https://open.spotify.com/album/3d1utyj80pLW7lVZa19pIP"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
-        }
-      ],
-      "duration_ms": 200725,
-      "name": "El Jardin",
-      "url": "https://open.spotify.com/track/73eUiyq2OGr7JtOmgbyMxj"
+      "duration_ms": 146960,
+      "name": "La Cucaracha",
+      "url": "https://open.spotify.com/track/5AAm1tiVlQgtFRiawen0C2"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/6lumfvD8xwtfHiabaaBXS6"
-      },
-      "artists": [
-        {
-          "name": "Romanticos De La Guitarra",
-          "url": "https://open.spotify.com/artist/6HexP8xPE4JxhMkwxx55Pz"
-        }
-      ],
-      "duration_ms": 146960,
-      "name": "La Cucaracha",
-      "url": "https://open.spotify.com/track/5AAm1tiVlQgtFRiawen0C2"
-    },
-    {
-      "added_at": "2024-07-11 01:27:02",
-      "album": {
         "name": "Tesoros De Colecci\u00f3n - Las Grandes Guitarras Mexicanas",
         "url": "https://open.spotify.com/album/5oXeGRM1GB8Olw0p1W1FQ3"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 266000,
       "name": "Mi Amor",
       "url": "https://open.spotify.com/track/0Qi2p7krDLp04vdTDG2yIb"
+    },
+    {
+      "added_at": "2024-07-11 01:27:02",
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/6lumfvD8xwtfHiabaaBXS6"
+      },
+      "artists": [
+        {
+          "name": "Romanticos De La Guitarra",
+          "url": "https://open.spotify.com/artist/6HexP8xPE4JxhMkwxx55Pz"
+        }
+      ],
+      "duration_ms": 129533,
+      "name": "Alla en el Rancho Grande",
+      "url": "https://open.spotify.com/track/64j3RUFP6ZHH4h8ctOxc1o"
     },
     {
       "added_at": "2024-07-11 01:27:02",

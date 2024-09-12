@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Shiva in cover + le migliori uscite di questa settimana!
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,104 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,120 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 46 | [LA CYBER](https://open.spotify.com/track/64qTTkd9J9eLmJI4pIPYTL) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [LA CYBER](https://open.spotify.com/album/7kKnyUw6HFB7epxToX0QTE) | 3:30 |
 | 47 | [Someone In This Room \(feat\. Bailey Zimmerman\)](https://open.spotify.com/track/3kvgQZmOgwjfVnuduPPDZG) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [That Ain't No Man That's The Devil](https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7) | 3:20 |
 | 48 | [AH \) AH \)](https://open.spotify.com/track/7D9m1E6i0uidnxxBRZtcKg) | [Memento](https://open.spotify.com/artist/0aLqxZ1Hht4j1C66IZ57oR) | [AH \) AH \)](https://open.spotify.com/album/50uqyqDEauW3Efn9tNU2bt) | 2:44 |
-| 49 | [Wet Dreams \(feat\. coop & gg\)](https://open.spotify.com/track/20LfID5lY83tDZAHZqpFtC) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [coop](https://open.spotify.com/artist/39Fgy3DGHvOP32RcQ8U4bv), [G G](https://open.spotify.com/artist/6hepB9skRNYPl9CkOpwKGj) | [Wet Dreams \(feat\. coop & gg\)](https://open.spotify.com/album/65NAjD3jks0YWWLVkl2VnO) | 2:39 |
+| 49 | [Wet Dreams \(feat\. coop & gg\)](https://open.spotify.com/track/20LfID5lY83tDZAHZqpFtC) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [coop](https://open.spotify.com/artist/39Fgy3DGHvOP32RcQ8U4bv), [gg](https://open.spotify.com/artist/12XC7Vu5zRQ9Q8UFmX6Fnw) | [Wet Dreams \(feat\. coop & gg\)](https://open.spotify.com/album/65NAjD3jks0YWWLVkl2VnO) | 2:39 |
 | 50 | [Champs Élysées \(feat\. Gunna\)](https://open.spotify.com/track/2b7jU3d9AZAotfi0pvLaec) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Champs Élysées \(feat\. Gunna\)](https://open.spotify.com/album/4a9IJ72QKdzVHFoj6jflQz) | 2:36 |
 | 51 | [PALETTE](https://open.spotify.com/track/24v7M7PETkMSimX79C1cT4) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [PALETTE](https://open.spotify.com/album/5HzTy1cbSrGNaZ1zBNCQ0M) | 2:01 |
 | 52 | [MY BOO](https://open.spotify.com/track/5KYsIT6wnW54LCJ1inu3Xm) | [Welo](https://open.spotify.com/artist/0dzIqD49huTggBCvkduz72), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [MY BOO](https://open.spotify.com/album/58bUwhJzwrrs1aVuBgN0AT) | 2:23 |

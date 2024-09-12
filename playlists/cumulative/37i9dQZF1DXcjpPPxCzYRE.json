@@ -1274,7 +1274,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 190502,
       "name": "Cruzando el Charco",
       "url": "https://open.spotify.com/track/4XPxyC1PRjZzPip0PRRkKO"
@@ -5294,6 +5294,28 @@
       "duration_ms": 210000,
       "name": "Unspoken",
       "url": "https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn"
+    },
+    {
+      "album": {
+        "name": "Vete Por Ahi\u0301 (feat. Irenegarry)",
+        "url": "https://open.spotify.com/album/41GaP5r3xPbSu0rZpzCIlr"
+      },
+      "artists": [
+        {
+          "name": "Pen\u00e9lope",
+          "url": "https://open.spotify.com/artist/6SHQwrGBd6PmgME2zFXNtr"
+        },
+        {
+          "name": "Irenegarry",
+          "url": "https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200696,
+      "name": "Vete Por Ahi\u0301 (feat. Irenegarry)",
+      "url": "https://open.spotify.com/track/28EsJpm5RRLjVFRAp0AmIZ"
     },
     {
       "album": {

@@ -4463,6 +4463,24 @@
     },
     {
       "album": {
+        "name": "Inside A Dream",
+        "url": "https://open.spotify.com/album/4fBcXrjPHQBdmeYLJELc0l"
+      },
+      "artists": [
+        {
+          "name": "Thiago Izan",
+          "url": "https://open.spotify.com/artist/0Q0myhwEBVvGaX7xTOpAyt"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145952,
+      "name": "Inside A Dream",
+      "url": "https://open.spotify.com/track/0zq6pkcCyyzmzOz6EF6EY2"
+    },
+    {
+      "album": {
         "name": "Insignia",
         "url": "https://open.spotify.com/album/6KljnSEKSgk32JLRN4Vd9H"
       },
@@ -9526,7 +9544,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 137387,
       "name": "Sublime",
       "url": "https://open.spotify.com/track/22ifgaP1tUahdVaIn1K4ik"

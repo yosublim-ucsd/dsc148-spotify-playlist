@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 
 > la nueva ola de artistas con Erich en portada\. 🌊✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,490 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,487 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 27 | [Desastre Emocional](https://open.spotify.com/track/7ra9A7fAuuEjTyadsObgHI) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [Desastre Emocional](https://open.spotify.com/album/1bnsJ7ZuB6TaWW364pwtag) | 2:58 |
 | 28 | [Dame Chance \(Rayuela\)](https://open.spotify.com/track/2czAQ067Yr4PTyCA22I1Pe) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Dame Chance \(Rayuela\)](https://open.spotify.com/album/1hrrlLfySKB6NgmMTcIBhL) | 2:32 |
 | 29 | [ENNI](https://open.spotify.com/track/1pQMCRRfUWhPlDCtZrMvsh) | [Cray Dalton](https://open.spotify.com/artist/1ZDDsezzUM9Ra1w15Ox90C), [ND Kobi'](https://open.spotify.com/artist/65vpTU1WPlaRYEX5UKTfrl) | [ENNI](https://open.spotify.com/album/0BXBqwBYsHsoi2locHuJuc) | 3:15 |
-| 30 | [entre las piernas](https://open.spotify.com/track/5Z8ylWRIPqri4EFRltuHMg) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [entre las piernas](https://open.spotify.com/album/4lC8tWRJRUfADPn6aAjLVl) | 3:31 |
-| 31 | [Butterfly](https://open.spotify.com/track/2ZpTwWC6cUtz5oHcGQexwp) | [Delilah](https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR) | [Butterfly](https://open.spotify.com/album/2cQZ4nIW2huzsxChtie6QV) | 3:13 |
+| 30 | [Butterfly](https://open.spotify.com/track/2ZpTwWC6cUtz5oHcGQexwp) | [Delilah](https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR) | [Butterfly](https://open.spotify.com/album/2cQZ4nIW2huzsxChtie6QV) | 3:13 |
+| 31 | [entre las piernas](https://open.spotify.com/track/5Z8ylWRIPqri4EFRltuHMg) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [entre las piernas](https://open.spotify.com/album/4lC8tWRJRUfADPn6aAjLVl) | 3:31 |
 | 32 | [Me Caga Tu Novia](https://open.spotify.com/track/1xBFsxUw84BMgEClaw09z4) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Me Caga Tu Novia](https://open.spotify.com/album/2uPxcGS41IV2ZH9ie4JWov) | 2:50 |
 | 33 | [Hechizado](https://open.spotify.com/track/6IqqPa90DqA4LtgpF0ON0U) | [ALMAS](https://open.spotify.com/artist/4CB2DwqLVhw2YENG9hyjGC) | [Hechizado](https://open.spotify.com/album/6RyCdyp0xSKFZHPGvsRH78) | 2:30 |
 | 34 | [Más Allá](https://open.spotify.com/track/5y9EP5baygJB9zWQl8549b) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Más Allá](https://open.spotify.com/album/036nFxQ7ocbEdG3FjY88jO) | 3:04 |
@@ -48,16 +48,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 38 | [Dicen Que Eres Arte](https://open.spotify.com/track/2xQLcEFXb3hu8nqJDW3Z8t) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Dicen Que Eres Arte](https://open.spotify.com/album/3r6qB4Ao4PMzrhtgjhmryg) | 2:44 |
 | 39 | [El Cable](https://open.spotify.com/track/1UZQtIbMg0jxgiulIadYpU) | [Besmaya](https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [El Cable](https://open.spotify.com/album/0sxMSSA5KNAIpwGN1UJI3j) | 2:57 |
 | 40 | [radar](https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [radar](https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei) | 2:40 |
-| 41 | [Te Odio / Te Amo](https://open.spotify.com/track/6ln9v1YCxH3e2PvEuTmAdx) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U), [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Te Odio / Te Amo](https://open.spotify.com/album/2JUUJ0VasUnOkaosHgYAAv) | 2:59 |
-| 42 | [las cosas no son lo que parecen](https://open.spotify.com/track/0vZnu6jdjTA4QKhmJm3IQT) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [las cosas no son lo que parecen](https://open.spotify.com/album/6Zs6kAVDytdZAj7J3aaHRD) | 2:54 |
+| 41 | [las cosas no son lo que parecen](https://open.spotify.com/track/0vZnu6jdjTA4QKhmJm3IQT) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [las cosas no son lo que parecen](https://open.spotify.com/album/6Zs6kAVDytdZAj7J3aaHRD) | 2:54 |
+| 42 | [Te Odio / Te Amo](https://open.spotify.com/track/6ln9v1YCxH3e2PvEuTmAdx) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U), [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Te Odio / Te Amo](https://open.spotify.com/album/2JUUJ0VasUnOkaosHgYAAv) | 2:59 |
 | 43 | [MMM](https://open.spotify.com/track/55zce9X7t9rk04W2mBOeoA) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [MMM](https://open.spotify.com/album/1jxUlNVbVBagqhRUvEAQBx) | 2:09 |
 | 44 | [El Crush](https://open.spotify.com/track/5dzakAiRvtFpCx5NtWVb10) | [Alan Navarro](https://open.spotify.com/artist/2OErLAm8iN9bisLoX3E0zH) | [El Crush](https://open.spotify.com/album/0AXvsimNkl1hQ7OFr2FSxm) | 2:28 |
 | 45 | [bruce willisss](https://open.spotify.com/track/3ktkqlpsYxos7nF2CqGPh6) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [blush](https://open.spotify.com/album/6XFmWkqa5i9L4iKQSFZOHK) | 1:46 |
 | 46 | [Te Perdono](https://open.spotify.com/track/7rQWY0VbmgKDVeQ1cqVlwp) | [Agris](https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q) | [Te Perdono](https://open.spotify.com/album/1dxvzNdRqY9OMFCyh5bWIE) | 3:16 |
 | 47 | [Genérico](https://open.spotify.com/track/4XNuxlT1MZ5qD7JFnZ4ci1) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Club 614](https://open.spotify.com/album/6bUyVi8PXGQQObGzCmcPX2) | 2:40 |
 | 48 | [todos los días](https://open.spotify.com/track/4jCxY9Lz53qbTBWNoaA7xD) | [Absa G.](https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1), [YOSHI](https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd) | [todos los días](https://open.spotify.com/album/1V60bSO7MoRte4DJ0YgL2s) | 3:32 |
-| 49 | [maracuyá](https://open.spotify.com/track/47D4eR0SaFkuo6vXEqFI0h) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [maracuyá](https://open.spotify.com/album/7Gpi18GWmvz5jalQ0GsZ07) | 2:18 |
-| 50 | [Escuchado](https://open.spotify.com/track/5znWQU6MXpNBnZo7uvIHLf) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [Escuchado](https://open.spotify.com/album/042ZS5gBLUiURj0qKf02g9) | 3:02 |
+| 49 | [Escuchado](https://open.spotify.com/track/5znWQU6MXpNBnZo7uvIHLf) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [Escuchado](https://open.spotify.com/album/042ZS5gBLUiURj0qKf02g9) | 3:02 |
+| 50 | [maracuyá](https://open.spotify.com/track/47D4eR0SaFkuo6vXEqFI0h) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [maracuyá](https://open.spotify.com/album/7Gpi18GWmvz5jalQ0GsZ07) | 2:18 |
 | 51 | [Money Lovin'](https://open.spotify.com/track/7jjRj5E4Z4yuEpYWckzJrl) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB), [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5) | [Money Lovin'](https://open.spotify.com/album/3qJ7wk5r8r0e3pPo5snnwL) | 2:45 |
 | 52 | [YNQNP](https://open.spotify.com/track/4MYfbMGI7KgUzkYDN1lpnD) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [YNQNP](https://open.spotify.com/album/6MHJtcjTccqn6F5fYKr7Sa) | 2:30 |
 | 53 | [Ámbar](https://open.spotify.com/track/4jRRtDfOARsellhYzIw534) | [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Ámbar](https://open.spotify.com/album/31ckJdxv9vVBPfv2I5FDFj) | 2:44 |

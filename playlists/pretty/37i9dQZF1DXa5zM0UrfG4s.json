@@ -1,6 +1,6 @@
 {
   "description": "ble det en hvit sommer?",
-  "num_followers": 111625,
+  "num_followers": 111633,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Har du lyst har du lov",
-        "url": "https://open.spotify.com/album/5lKiWb3gleGfRPCUrImexs"
-      },
-      "artists": [
-        {
-          "name": "Carina Dahl",
-          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
-        }
-      ],
-      "duration_ms": 147785,
-      "name": "Har du lyst har du lov",
-      "url": "https://open.spotify.com/track/24fZgYryGyJ5ofUKhGRcpy"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "Konge p\u00e5 b\u00f8gda",
         "url": "https://open.spotify.com/album/5usqJIXSD19j31MtHaBQlb"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 180393,
       "name": "Konge p\u00e5 b\u00f8gda",
       "url": "https://open.spotify.com/track/1UJAtQo720sOej8mfEjck3"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Har du lyst har du lov",
+        "url": "https://open.spotify.com/album/5lKiWb3gleGfRPCUrImexs"
+      },
+      "artists": [
+        {
+          "name": "Carina Dahl",
+          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
+        }
+      ],
+      "duration_ms": 147785,
+      "name": "Har du lyst har du lov",
+      "url": "https://open.spotify.com/track/24fZgYryGyJ5ofUKhGRcpy"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -603,26 +603,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Livet Er Herlig",
-        "url": "https://open.spotify.com/album/2TWTHZ6Qv0O9UqIqrTn8HG"
-      },
-      "artists": [
-        {
-          "name": "TIX",
-          "url": "https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9"
-        },
-        {
-          "name": "El Papi",
-          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
-        }
-      ],
-      "duration_ms": 143261,
-      "name": "Livet Er Herlig",
-      "url": "https://open.spotify.com/track/1cb0J9fgwlnQtESfcRV0XJ"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "Lyst p\u00e5 d\u00e6",
         "url": "https://open.spotify.com/album/04zK7xAmi8Mx3A2OVUtT3i"
       },
@@ -639,18 +619,22 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "B\u00e6st I Test",
-        "url": "https://open.spotify.com/album/3uk4DtG5e9pMRXodwV3pxk"
+        "name": "Livet Er Herlig",
+        "url": "https://open.spotify.com/album/2TWTHZ6Qv0O9UqIqrTn8HG"
       },
       "artists": [
         {
-          "name": "Too Far Gone",
-          "url": "https://open.spotify.com/artist/6lrVaoOsYaOwqsG0whjurP"
+          "name": "TIX",
+          "url": "https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9"
+        },
+        {
+          "name": "El Papi",
+          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
         }
       ],
-      "duration_ms": 172613,
-      "name": "Kainn \u00c6 F\u00e5 Lov",
-      "url": "https://open.spotify.com/track/5lBh7KByI6qrCk0u8whPyB"
+      "duration_ms": 143261,
+      "name": "Livet Er Herlig",
+      "url": "https://open.spotify.com/track/1cb0J9fgwlnQtESfcRV0XJ"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -675,22 +659,18 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Dunka",
-        "url": "https://open.spotify.com/album/1nH0DrcdHX0wcTbb60sFs7"
+        "name": "B\u00e6st I Test",
+        "url": "https://open.spotify.com/album/3uk4DtG5e9pMRXodwV3pxk"
       },
       "artists": [
         {
-          "name": "JONE",
-          "url": "https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN"
-        },
-        {
-          "name": "Emil Asserg\u00e5rd",
-          "url": "https://open.spotify.com/artist/3fpHdW8mp95bOCzRLcauZm"
+          "name": "Too Far Gone",
+          "url": "https://open.spotify.com/artist/6lrVaoOsYaOwqsG0whjurP"
         }
       ],
-      "duration_ms": 133800,
-      "name": "Dunka",
-      "url": "https://open.spotify.com/track/33c4dYHCS1bVYGJYF5iTPL"
+      "duration_ms": 172613,
+      "name": "Kainn \u00c6 F\u00e5 Lov",
+      "url": "https://open.spotify.com/track/5lBh7KByI6qrCk0u8whPyB"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -707,6 +687,26 @@
       "duration_ms": 181648,
       "name": "Gamlehjem",
       "url": "https://open.spotify.com/track/2GY30sRduLyBQQHkTDDpK9"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Dunka",
+        "url": "https://open.spotify.com/album/1nH0DrcdHX0wcTbb60sFs7"
+      },
+      "artists": [
+        {
+          "name": "JONE",
+          "url": "https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN"
+        },
+        {
+          "name": "Emil Asserg\u00e5rd",
+          "url": "https://open.spotify.com/artist/3fpHdW8mp95bOCzRLcauZm"
+        }
+      ],
+      "duration_ms": 133800,
+      "name": "Dunka",
+      "url": "https://open.spotify.com/track/33c4dYHCS1bVYGJYF5iTPL"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -759,38 +759,34 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "B\u00e6st I Test",
-        "url": "https://open.spotify.com/album/3uk4DtG5e9pMRXodwV3pxk"
+        "name": "Til deg som alltid er overstadig berusa og aldri kommer inn p\u00e5 konsert (det f\u00e5r'n aldri se)",
+        "url": "https://open.spotify.com/album/2FLzX94cTeOyzdWqMrYfsm"
       },
       "artists": [
         {
-          "name": "Too Far Gone",
-          "url": "https://open.spotify.com/artist/6lrVaoOsYaOwqsG0whjurP"
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
         }
       ],
-      "duration_ms": 186453,
-      "name": "K\u00e6m Tok Ho Me S\u00e6",
-      "url": "https://open.spotify.com/track/6h5hwJ9ZfFZ81JqBjhgLwe"
+      "duration_ms": 167229,
+      "name": "Til deg som alltid er overstadig berusa og aldri kommer inn p\u00e5 konsert - det f\u00e5r'n aldri se",
+      "url": "https://open.spotify.com/track/27oP2aiSv0U4ych4m6jIkN"
     },
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Eventyr",
-        "url": "https://open.spotify.com/album/3k1qxu2Poumv9vMlu3toNt"
+        "name": "Min psykolog",
+        "url": "https://open.spotify.com/album/5BjfK5TCoxyFrR8aQh94Gf"
       },
       "artists": [
         {
-          "name": "JONE",
-          "url": "https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN"
-        },
-        {
-          "name": "Daskeladden",
-          "url": "https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb"
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
         }
       ],
-      "duration_ms": 147600,
-      "name": "Eventyr",
-      "url": "https://open.spotify.com/track/2Fo7dvlTHm2wRVeddiY5vV"
+      "duration_ms": 150878,
+      "name": "Min psykolog",
+      "url": "https://open.spotify.com/track/4K93BTFaJE4QFqxdeNoC1C"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -851,34 +847,38 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Til deg som alltid er overstadig berusa og aldri kommer inn p\u00e5 konsert (det f\u00e5r'n aldri se)",
-        "url": "https://open.spotify.com/album/2FLzX94cTeOyzdWqMrYfsm"
+        "name": "B\u00e6st I Test",
+        "url": "https://open.spotify.com/album/3uk4DtG5e9pMRXodwV3pxk"
       },
       "artists": [
         {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+          "name": "Too Far Gone",
+          "url": "https://open.spotify.com/artist/6lrVaoOsYaOwqsG0whjurP"
         }
       ],
-      "duration_ms": 167229,
-      "name": "Til deg som alltid er overstadig berusa og aldri kommer inn p\u00e5 konsert - det f\u00e5r'n aldri se",
-      "url": "https://open.spotify.com/track/27oP2aiSv0U4ych4m6jIkN"
+      "duration_ms": 186453,
+      "name": "K\u00e6m Tok Ho Me S\u00e6",
+      "url": "https://open.spotify.com/track/6h5hwJ9ZfFZ81JqBjhgLwe"
     },
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Min psykolog",
-        "url": "https://open.spotify.com/album/5BjfK5TCoxyFrR8aQh94Gf"
+        "name": "Eventyr",
+        "url": "https://open.spotify.com/album/3k1qxu2Poumv9vMlu3toNt"
       },
       "artists": [
         {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+          "name": "JONE",
+          "url": "https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN"
+        },
+        {
+          "name": "Daskeladden",
+          "url": "https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb"
         }
       ],
-      "duration_ms": 150878,
-      "name": "Min psykolog",
-      "url": "https://open.spotify.com/track/4K93BTFaJE4QFqxdeNoC1C"
+      "duration_ms": 147600,
+      "name": "Eventyr",
+      "url": "https://open.spotify.com/track/2Fo7dvlTHm2wRVeddiY5vV"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "29 tonn",
-        "url": "https://open.spotify.com/album/5xURrIcRE2TPM5BNmNoYcv"
-      },
-      "artists": [
-        {
-          "name": "Plumbo",
-          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
-        }
-      ],
-      "duration_ms": 198268,
-      "name": "29 tonn",
-      "url": "https://open.spotify.com/track/1pSEXjBnrgZiHHs45k6pEI"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "Hej sk\u00e5l!",
         "url": "https://open.spotify.com/album/0hUNC2NNniMcSHnoYDz7oS"
       },
@@ -951,22 +935,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Naboen har operert kona si",
-        "url": "https://open.spotify.com/album/19ud7C7KPT3xnbdH5EvZwE"
-      },
-      "artists": [
-        {
-          "name": "B\u00f8rse",
-          "url": "https://open.spotify.com/artist/62RvsqaxYtpDuCSwc0w5dl"
-        }
-      ],
-      "duration_ms": 150624,
-      "name": "Naboen har operert kona si",
-      "url": "https://open.spotify.com/track/6zDhN3XzZWfrnOoueF33ZS"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "Kompis",
         "url": "https://open.spotify.com/album/1VzzEbtAMX3anDMFlIWWeE"
       },
@@ -979,6 +947,38 @@
       "duration_ms": 161493,
       "name": "Kompis",
       "url": "https://open.spotify.com/track/0S1czUi29BRmzhNHO84EHf"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "29 tonn",
+        "url": "https://open.spotify.com/album/5xURrIcRE2TPM5BNmNoYcv"
+      },
+      "artists": [
+        {
+          "name": "Plumbo",
+          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
+        }
+      ],
+      "duration_ms": 198268,
+      "name": "29 tonn",
+      "url": "https://open.spotify.com/track/1pSEXjBnrgZiHHs45k6pEI"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Naboen har operert kona si",
+        "url": "https://open.spotify.com/album/19ud7C7KPT3xnbdH5EvZwE"
+      },
+      "artists": [
+        {
+          "name": "B\u00f8rse",
+          "url": "https://open.spotify.com/artist/62RvsqaxYtpDuCSwc0w5dl"
+        }
+      ],
+      "duration_ms": 150624,
+      "name": "Naboen har operert kona si",
+      "url": "https://open.spotify.com/track/6zDhN3XzZWfrnOoueF33ZS"
     },
     {
       "added_at": "2024-08-15 22:00:00",

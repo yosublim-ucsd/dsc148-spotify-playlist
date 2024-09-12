@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 
 > A palavra do Senhor pra você dançar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,212 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,230 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 39 | [Festa de Crente](https://open.spotify.com/track/50YI1QSHPwJAcuO25icep1) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [GV3](https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr), [Bruninho Music](https://open.spotify.com/artist/0IoG0i1kOAShWTr534OXoH) | [Festa de Crente](https://open.spotify.com/album/66c8LxbePEhv4iMeCAtGgZ) | 2:15 |
 | 40 | [Você Me Amou](https://open.spotify.com/track/3Qgh8ad1gvpCMUCmimytUQ) | [Débora Ulhoa](https://open.spotify.com/artist/0WBHp81TcpbOKldBXWTSYz), [GV3](https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr) | [Você Me Amou](https://open.spotify.com/album/4h29dNFAppnSIFqZ83P5ZK) | 2:59 |
 | 41 | [O Leão \- Dj Del Mag Remix](https://open.spotify.com/track/5pkIdWURz7CU2UwW4CBpun) | [Dj Del Mag](https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4), [Victor Rodrigues](https://open.spotify.com/artist/7dvzwrXo4iBUJAlZ3TBcXQ) | [O Leão \(Dj Del Mag Remix\)](https://open.spotify.com/album/76oy0F6n4KZ2pzhcKs8oyp) | 3:31 |
-| 42 | [Dias de Verão](https://open.spotify.com/track/42eIXzoVFJlxIhhn1xkzyN) | [Jacobnew](https://open.spotify.com/artist/4iYksQazRciVcfz7EKjkHI), [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE), [Bruno Jovita](https://open.spotify.com/artist/3lF94UQsakzv27ztMbKKfL) | [Dias de Verão](https://open.spotify.com/album/7k2vszlA8rDdqUWM7ZfLrp) | 3:20 |
-| 43 | [Queima de Novo \- Remix](https://open.spotify.com/track/4uZmD5i0iGXQjDJ6t1fGN5) | [DJ Moisés](https://open.spotify.com/artist/34GTvNHuHtAOPbp2P6oy3X), [Guilherme Miranda](https://open.spotify.com/artist/0pLrMd2rRcow7yJWg45F2e), [Vitinho PAE](https://open.spotify.com/artist/4bUNgC0RTc1p3wdJe76UB9) | [Queima de Novo \(Remix\)](https://open.spotify.com/album/2vx7A0hcCoG3rKSoz9BVP8) | 3:45 |
+| 42 | [Queima de Novo \- Remix](https://open.spotify.com/track/4uZmD5i0iGXQjDJ6t1fGN5) | [DJ Moisés](https://open.spotify.com/artist/34GTvNHuHtAOPbp2P6oy3X), [Guilherme Miranda](https://open.spotify.com/artist/0pLrMd2rRcow7yJWg45F2e), [Vitinho PAE](https://open.spotify.com/artist/4bUNgC0RTc1p3wdJe76UB9) | [Queima de Novo \(Remix\)](https://open.spotify.com/album/2vx7A0hcCoG3rKSoz9BVP8) | 3:45 |
+| 43 | [Dias de Verão](https://open.spotify.com/track/42eIXzoVFJlxIhhn1xkzyN) | [Jacobnew](https://open.spotify.com/artist/4iYksQazRciVcfz7EKjkHI), [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE), [Bruno Jovita](https://open.spotify.com/artist/3lF94UQsakzv27ztMbKKfL) | [Dias de Verão](https://open.spotify.com/album/7k2vszlA8rDdqUWM7ZfLrp) | 3:20 |
 | 44 | [Sobre Todo Nome](https://open.spotify.com/track/392NrPdV17IuOG8YDvgPKj) | [Tomatti](https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR) | [Sobre Todo Nome](https://open.spotify.com/album/0IN2rCcGJsnjar5072ylVh) | 2:31 |
 | 45 | [Imparável](https://open.spotify.com/track/3NxAIuH9Wz0HBEp7uJMVuN) | [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH) | [Imparável](https://open.spotify.com/album/7sYy4zBX7EUhGNbn9AfxF4) | 3:24 |
 | 46 | [Contramão](https://open.spotify.com/track/7hunNVtJ5L547paDaYiSt6) | [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH), [Dj Mello](https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2) | [Contramão](https://open.spotify.com/album/3mdYNZkau7N1HaWFntrpzp) | 2:13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: Jorge & Mateus, Henrique & Juliano
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,726,753 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,726,880 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 6 | [Morar Nesse Motel](https://open.spotify.com/track/5QpcLTQjh0qO7OIuR9q8IR) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Morar Nesse Motel](https://open.spotify.com/album/1i3R2NzmaLZjDDB6txSgqy) | 3:07 |
 | 7 | [Cronômetro \- Ao Vivo](https://open.spotify.com/track/7pkpWcko6KEZANj0xKsCsu) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Praiou \- Ao Vivo / Vol.3](https://open.spotify.com/album/7IrTWvmwWzNs06jd3kEyMQ) | 2:45 |
 | 8 | [Triplex \- Ao Vivo](https://open.spotify.com/track/1NcqLEg2r2LXqMVbam2BJD) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Triplex \(Ao Vivo\)](https://open.spotify.com/album/0PCSUAvZhDq8HVVN50o0U3) | 2:58 |
-| 9 | [Chorosa \- Ao Vivo](https://open.spotify.com/track/1tAls12jSoUZPoj9cv7OAh) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [In Casa Vol\. 02 \(Ao Vivo\)](https://open.spotify.com/album/6piHanzJ5lggugcpXS5mzs) | 2:35 |
+| 9 | [Chorosa \- Ao Vivo](https://open.spotify.com/track/1tAls12jSoUZPoj9cv7OAh) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [In Casa Vol\. 02 \- Ao Vivo](https://open.spotify.com/album/6piHanzJ5lggugcpXS5mzs) | 2:35 |
 | 10 | [Mulher Foda \- Ao Vivo](https://open.spotify.com/track/0GbvYZsvz7bWyijBDESebX) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Cantando Sua História \(Ao Vivo / Vol.2\)](https://open.spotify.com/album/4mXp1YcjxA9i8PrIdpM8dH) | 2:42 |
 | 11 | [Gosta De Rua \- Ao Vivo](https://open.spotify.com/track/1cIS13bqNfZcTs8LSK8r0a) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Questão de Tempo \(Ao Vivo / Vol.2\)](https://open.spotify.com/album/2TGnkCFVDWQ444lFDVxyT9) | 2:51 |
 | 12 | [Nem a Pau \(feat\. Simone Mendes\) \- Ao Vivo](https://open.spotify.com/track/6u9tu5yRDTHpWlY86J1GDa) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Nem a Pau \(feat\. Simone Mendes\) \[Ao Vivo\]](https://open.spotify.com/album/2YD9sBbLCikn0C7ZHLZmjm) | 2:41 |

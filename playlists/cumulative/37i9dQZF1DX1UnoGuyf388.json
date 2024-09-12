@@ -2703,6 +2703,24 @@
     },
     {
       "album": {
+        "name": "Green Lights (La Luz)",
+        "url": "https://open.spotify.com/album/06mGkV3wuFPcfvUM2MvBhQ"
+      },
+      "artists": [
+        {
+          "name": "Michaela Ja\u00e9",
+          "url": "https://open.spotify.com/artist/1XtZq3vSEgghxZS9aqITv5"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204500,
+      "name": "Green Lights (La Luz)",
+      "url": "https://open.spotify.com/track/57MAFQ4tFh7vYefz5hyofN"
+    },
+    {
+      "album": {
         "name": "Growing Up",
         "url": "https://open.spotify.com/album/55v3pVo041pTZ4NHJh7VAI"
       },
@@ -3264,7 +3282,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 123726,
       "name": "I Am",
       "url": "https://open.spotify.com/track/6MVk4SW25q1CNENQE1RHyv"
@@ -4788,6 +4806,24 @@
       "duration_ms": 201437,
       "name": "Never Let You Down",
       "url": "https://open.spotify.com/track/6zWPfPb2nJNYWjAjNK8b2K"
+    },
+    {
+      "album": {
+        "name": "HARDSTONE PSYCHO",
+        "url": "https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217333,
+      "name": "NEW DROP",
+      "url": "https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf"
     },
     {
       "album": {
@@ -7562,7 +7598,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 178027,
       "name": "Who's Gonna",
       "url": "https://open.spotify.com/track/2X3xur7x1K5PYiWrzJfM1O"

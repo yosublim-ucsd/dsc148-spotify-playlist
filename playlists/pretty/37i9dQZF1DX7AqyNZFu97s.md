@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK & Ireland\. Cover: Cap1talA
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,156 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,234 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 99 | [I Lied, I'm Sorry](https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [I Lied, I'm Sorry](https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9) | 2:42 |
 | 100 | [Puppeteer](https://open.spotify.com/track/5XFnbqZvkI3nAqzf0qXAam) | [All Good Folks](https://open.spotify.com/artist/7iRpioETJA4tb40jS8tnjw) | [Puppeteer](https://open.spotify.com/album/7e2WOvTLpIEnyKF4D0MgIQ) | 3:05 |
 
-Snapshot ID: `ZuDPcAAAAACtkm+DjCGKYp+rf8J2HcBS`
+Snapshot ID: `ZuDPcAAAAADGlCXnt6o6CnR2ztTxFzmp`

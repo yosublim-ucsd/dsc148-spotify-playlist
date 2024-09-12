@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ShCuCszBOs.md) - [plain]
 
 > Prepare for the upcoming world tour by listening to ZEROBASEONE's best songs! \(제로베이스원의 베스트 곡들을 들으며 다가오는 월드 투어를 준비해보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,848 likes - 23 songs - 55 min 26 sec
+[Spotify](https://open.spotify.com/user/spotify) - 2,233 likes - 23 songs - 55 min 26 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

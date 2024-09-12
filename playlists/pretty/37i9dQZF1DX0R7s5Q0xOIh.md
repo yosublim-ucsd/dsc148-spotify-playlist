@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0R7s5Q0xOIh.md) - [plain]
 
 > A playlist oficial do Carona Podpah, Original Spotify com o <a href="spotify:show:1GLSDdk9CDEwziGNIlnb8a">Podpah</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,732 likes - 357 songs - 1 day 16 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,730 likes - 357 songs - 1 day 16 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0R7s5Q0xOIh.md) - [plain]
 | 51 | [City Of Dreams \(feat\. Chris Brown\)](https://open.spotify.com/track/2nLKcpdoIX6oFo5npWHVF4) | [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Heart Full of Rage 2](https://open.spotify.com/album/1paIukF9TxaYwBpYbyFdOt) | 2:40 |
 | 52 | [Novo Balanço](https://open.spotify.com/track/4hKLzFvNwHF6dPosGT30ed) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Prod Malax](https://open.spotify.com/artist/5X5jKBLJ88Ji6tzwfL0g4c), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Dos Prédios Deluxe](https://open.spotify.com/album/0D59BFMmnA87oPyk1oSe1b) | 2:20 |
 | 53 | [NATTAN \- Carona Podpah \#21](https://open.spotify.com/episode/4Fg4L09rjq81TGaP4bjezu) | [Podpah](https://open.spotify.com/show/1GLSDdk9CDEwziGNIlnb8a) | [Podpah](https://open.spotify.com/album/1GLSDdk9CDEwziGNIlnb8a) | 50:20 |
-| 54 | [Americana Na Vaquejada](https://open.spotify.com/track/1M6rclDhYmqRBMFGNJOFKB) | [Grandão Vaqueiro](https://open.spotify.com/artist/1gveCzOmKMjqEMwuB5kKNH), [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Americana Na Vaquejada](https://open.spotify.com/album/35vat6W0JnjkK3tXIqx1eX) | 2:36 |
+| 54 | [Americana Na Vaquejada](https://open.spotify.com/track/1M6rclDhYmqRBMFGNJOFKB) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT), [Grandão Vaqueiro](https://open.spotify.com/artist/1gveCzOmKMjqEMwuB5kKNH) | [Americana Na Vaquejada](https://open.spotify.com/album/35vat6W0JnjkK3tXIqx1eX) | 2:36 |
 | 55 | [A Gente Se Entrega](https://open.spotify.com/track/1GOS5OIo4KywJF7Fw9QR4E) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Pra Quebrar a Cara](https://open.spotify.com/album/17noeiLlv35PJi4QcKqv7W) | 2:43 |
 | 56 | [Tem Cabare Essa Noite \- Ao Vivo](https://open.spotify.com/track/26wGpqOPBAV2QAXMMYWolQ) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [O Fantástico Mundo De Nattan \(Ao Vivo\)](https://open.spotify.com/album/3MsdSA7cGEb95F2IMQUGGJ) | 3:33 |
 | 57 | [Voando Pro Pará](https://open.spotify.com/track/0rywmdqLgV4ebmnzPvSqmP) | [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Joelma](https://open.spotify.com/album/6THS2SxEna3SEPoo0oQXTo) | 2:59 |

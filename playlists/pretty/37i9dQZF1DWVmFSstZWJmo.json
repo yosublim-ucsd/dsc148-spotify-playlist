@@ -1,6 +1,6 @@
 {
   "description": "you're invited. ft. The Dare ",
-  "num_followers": 165587,
+  "num_followers": 165917,
   "original_name": "Indie Sleaze",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-09-09 00:08:41",
       "album": {
-        "name": "Writer's Block",
-        "url": "https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2"
-      },
-      "artists": [
-        {
-          "name": "Peter Bjorn and John",
-          "url": "https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86"
-        }
-      ],
-      "duration_ms": 276693,
-      "name": "Young Folks",
-      "url": "https://open.spotify.com/track/4dyx5SzxPPaD8xQIid5Wjj"
-    },
-    {
-      "added_at": "2024-09-09 00:08:41",
-      "album": {
         "name": "Demon Days",
         "url": "https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 244999,
       "name": "DARE",
       "url": "https://open.spotify.com/track/4Hff1IjRbLGeLgFgxvHflk"
+    },
+    {
+      "added_at": "2024-09-09 00:08:41",
+      "album": {
+        "name": "Writer's Block",
+        "url": "https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2"
+      },
+      "artists": [
+        {
+          "name": "Peter Bjorn and John",
+          "url": "https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86"
+        }
+      ],
+      "duration_ms": 276693,
+      "name": "Young Folks",
+      "url": "https://open.spotify.com/track/4dyx5SzxPPaD8xQIid5Wjj"
     },
     {
       "added_at": "2024-09-09 00:08:41",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-09-09 00:08:41",
       "album": {
-        "name": "Starfucker",
-        "url": "https://open.spotify.com/album/4mBSeOEiQ4WgDaCnydb0tZ"
-      },
-      "artists": [
-        {
-          "name": "STRFKR",
-          "url": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
-        }
-      ],
-      "duration_ms": 173693,
-      "name": "Rawnald Gregory Erickson the Second",
-      "url": "https://open.spotify.com/track/4j4pPKE3xAblPIbhxScC1j"
-    },
-    {
-      "added_at": "2024-09-09 00:08:41",
-      "album": {
         "name": "Turn On The Bright Lights",
         "url": "https://open.spotify.com/album/4sW8Eql2e2kdRP1A1R1clG"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 251293,
       "name": "Obstacle 1",
       "url": "https://open.spotify.com/track/1ZBqJilDGBVYktvlCEo9jC"
+    },
+    {
+      "added_at": "2024-09-09 00:08:41",
+      "album": {
+        "name": "Starfucker",
+        "url": "https://open.spotify.com/album/4mBSeOEiQ4WgDaCnydb0tZ"
+      },
+      "artists": [
+        {
+          "name": "STRFKR",
+          "url": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
+        }
+      ],
+      "duration_ms": 173693,
+      "name": "Rawnald Gregory Erickson the Second",
+      "url": "https://open.spotify.com/track/4j4pPKE3xAblPIbhxScC1j"
     },
     {
       "added_at": "2024-09-09 00:08:41",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-09-09 00:08:41",
       "album": {
-        "name": "It's Blitz!",
-        "url": "https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Heads Will Roll",
-      "url": "https://open.spotify.com/track/4WiIscpBgQFm5qIyjoH7M4"
-    },
-    {
-      "added_at": "2024-09-09 00:08:41",
-      "album": {
         "name": "The Con",
         "url": "https://open.spotify.com/album/4QjGIZZqvNrdkgw4LZKLZK"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 180533,
       "name": "Back in Your Head",
       "url": "https://open.spotify.com/track/2Pdo1VvYDB9FqeuNx8D1FW"
+    },
+    {
+      "added_at": "2024-09-09 00:08:41",
+      "album": {
+        "name": "It's Blitz!",
+        "url": "https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Heads Will Roll",
+      "url": "https://open.spotify.com/track/4WiIscpBgQFm5qIyjoH7M4"
     },
     {
       "added_at": "2024-09-09 00:08:41",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-09-09 00:08:41",
       "album": {
-        "name": "Perfume",
-        "url": "https://open.spotify.com/album/5LT1rzo7ro36taxLMaTXUV"
-      },
-      "artists": [
-        {
-          "name": "The Dare",
-          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
-        }
-      ],
-      "duration_ms": 147101,
-      "name": "Perfume",
-      "url": "https://open.spotify.com/track/2e1b8BloDxKE8G8aj3owLA"
-    },
-    {
-      "added_at": "2024-09-09 00:08:41",
-      "album": {
         "name": "Down In Albion",
         "url": "https://open.spotify.com/album/2f35NQiqbGoDuNBG1hyaDA"
       },
@@ -1363,18 +1347,18 @@
     {
       "added_at": "2024-09-09 00:08:41",
       "album": {
-        "name": "We Are Pilots",
-        "url": "https://open.spotify.com/album/7EJf2RoD8f2Tm7hzpwK4bQ"
+        "name": "Perfume",
+        "url": "https://open.spotify.com/album/5LT1rzo7ro36taxLMaTXUV"
       },
       "artists": [
         {
-          "name": "Shiny Toy Guns",
-          "url": "https://open.spotify.com/artist/6UocZe4AprSYBvmn3J0oqY"
+          "name": "The Dare",
+          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
         }
       ],
-      "duration_ms": 203306,
-      "name": "Le Disko",
-      "url": "https://open.spotify.com/track/4jjtFbO4dYu4JO0CIph6Ak"
+      "duration_ms": 147101,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/2e1b8BloDxKE8G8aj3owLA"
     },
     {
       "added_at": "2024-09-09 00:08:41",
@@ -1391,6 +1375,22 @@
       "duration_ms": 284799,
       "name": "Play Your Part (Pt. 1)",
       "url": "https://open.spotify.com/track/5udnrY00yVUOAzupil2H56"
+    },
+    {
+      "added_at": "2024-09-09 00:08:41",
+      "album": {
+        "name": "We Are Pilots",
+        "url": "https://open.spotify.com/album/7EJf2RoD8f2Tm7hzpwK4bQ"
+      },
+      "artists": [
+        {
+          "name": "Shiny Toy Guns",
+          "url": "https://open.spotify.com/artist/6UocZe4AprSYBvmn3J0oqY"
+        }
+      ],
+      "duration_ms": 203306,
+      "name": "Le Disko",
+      "url": "https://open.spotify.com/track/4jjtFbO4dYu4JO0CIph6Ak"
     },
     {
       "added_at": "2024-09-09 00:08:41",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2024-09-09 00:08:41",
       "album": {
-        "name": "I Can Change",
-        "url": "https://open.spotify.com/album/6tXJDrWCenq1PUDLi6eeQT"
-      },
-      "artists": [
-        {
-          "name": "Mindchatter",
-          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
-        }
-      ],
-      "duration_ms": 331525,
-      "name": "I Can Change",
-      "url": "https://open.spotify.com/track/4yhslVvynysGhexambPGcy"
-    },
-    {
-      "added_at": "2024-09-09 00:08:41",
-      "album": {
         "name": "Partie Traumatic",
         "url": "https://open.spotify.com/album/4bWa4HwoyMWq5E25TKewbt"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 217706,
       "name": "I'm Not Gonna Teach Your Boyfriend How to Dance with You",
       "url": "https://open.spotify.com/track/46BMGjAnLVVR1gZcayw93j"
+    },
+    {
+      "added_at": "2024-09-09 00:08:41",
+      "album": {
+        "name": "I Can Change",
+        "url": "https://open.spotify.com/album/6tXJDrWCenq1PUDLi6eeQT"
+      },
+      "artists": [
+        {
+          "name": "Mindchatter",
+          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
+        }
+      ],
+      "duration_ms": 331525,
+      "name": "I Can Change",
+      "url": "https://open.spotify.com/track/4yhslVvynysGhexambPGcy"
     },
     {
       "added_at": "2024-09-09 00:08:41",
@@ -1511,6 +1511,26 @@
     {
       "added_at": "2024-09-09 00:08:41",
       "album": {
+        "name": "Crushed By Everyone",
+        "url": "https://open.spotify.com/album/7eZiMrZzSi2oktv44Or1MU"
+      },
+      "artists": [
+        {
+          "name": "Water From Your Eyes",
+          "url": "https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0"
+        },
+        {
+          "name": "The Dare",
+          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
+        }
+      ],
+      "duration_ms": 193266,
+      "name": "Out There - The Dare Version",
+      "url": "https://open.spotify.com/track/3nenhYDvVKIM7xTwpRdSr0"
+    },
+    {
+      "added_at": "2024-09-09 00:08:41",
+      "album": {
         "name": "Fantastic Playroom",
         "url": "https://open.spotify.com/album/1v1Yp8sNjnCqx5YRf8ZaJA"
       },
@@ -1539,26 +1559,6 @@
       "duration_ms": 180120,
       "name": "Rich Girls",
       "url": "https://open.spotify.com/track/58F6iKkYdIccktJ8i8BuQQ"
-    },
-    {
-      "added_at": "2024-09-09 00:08:41",
-      "album": {
-        "name": "Crushed By Everyone",
-        "url": "https://open.spotify.com/album/7eZiMrZzSi2oktv44Or1MU"
-      },
-      "artists": [
-        {
-          "name": "Water From Your Eyes",
-          "url": "https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0"
-        },
-        {
-          "name": "The Dare",
-          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
-        }
-      ],
-      "duration_ms": 193266,
-      "name": "Out There - The Dare Version",
-      "url": "https://open.spotify.com/track/3nenhYDvVKIM7xTwpRdSr0"
     },
     {
       "added_at": "2024-09-09 00:08:41",

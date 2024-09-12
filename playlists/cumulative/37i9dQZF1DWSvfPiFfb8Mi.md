@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-317 songs - 21 hr 0 min
+318 songs - 21 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Desire](https://open.spotify.com/track/4tVrOiaZJK20ZfjWqHRPAt) | [Swales](https://open.spotify.com/artist/6XK8QXfi1PLT60pBkFeBy7) | [13th Hour Vol\. 4](https://open.spotify.com/album/6kcUuZbp0Txa5dm9JAmNm9) | 5:54 | 2022-06-20 | 2023-05-20 |
 | [Disc Me Bro](https://open.spotify.com/track/6eoPPAY4pQ3w1Gvt2fMt7Q) | [Basixx](https://open.spotify.com/artist/3yoJOUgWeJEC81UoZhYIdd) | [Disc Me Bro](https://open.spotify.com/album/2sEIOSa1osSD7Ilth42W9v) | 2:42 | 2023-10-27 |  |
 | [Disco Dancing \(feat\. Ayoni\) \- Lazywax Remix](https://open.spotify.com/track/0lAz0LS3LhreVvWy58Sdo9) | [Namy](https://open.spotify.com/artist/5b27ajyz5mxl84HYtPE4ih), [Lazywax](https://open.spotify.com/artist/0JmfcW7ntKscmNRiLbKEcw), [Ayoni](https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6) | [Disco Dancing \(feat\. Ayoni\) \[Lazywax Remix\]](https://open.spotify.com/album/3nZuiK8r2Rk89xH240mhH5) | 6:42 | 2023-05-19 | 2023-07-29 |
-| [Disco Maniac](https://open.spotify.com/track/17pipmkDMfqOCTtAwkx3x0) | [Billy Vena](https://open.spotify.com/artist/7EHqnGuGifQoAa3UV6qtvp) | [Disco Maniac](https://open.spotify.com/album/0Gf4OSiPH8dBe6IbgHRUFD) | 2:24 | 2023-05-19 |  |
+| [Disco Maniac](https://open.spotify.com/track/17pipmkDMfqOCTtAwkx3x0) | [Billy Vena](https://open.spotify.com/artist/7EHqnGuGifQoAa3UV6qtvp) | [Disco Maniac](https://open.spotify.com/album/0Gf4OSiPH8dBe6IbgHRUFD) | 2:24 | 2023-05-19 | 2024-09-12 |
 | [Dizzy \(Joe Hertz Remix\)](https://open.spotify.com/track/2vHpvjpGvISOnDrhls2wd4) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH), [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman) | [Dizzy \(Joe Hertz Remix\)](https://open.spotify.com/album/3xdYgfhCPGNKdEihLuEOiB) | 3:59 | 2021-07-24 | 2022-06-21 |
 | [do I really scare you?](https://open.spotify.com/track/0CvIGlsdn8QT4cT3EzMnYS) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [do I really scare you?](https://open.spotify.com/album/5LfpokYXn1BI20ScEELq8h) | 3:00 | 2023-06-23 | 2023-08-18 |
 | [Domino](https://open.spotify.com/track/4VaMlcKj3wWdFhOeyYCDgM) | [Demi Riquísimo](https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac) | [Domino](https://open.spotify.com/album/5QN9QYWzWxqHK80uDXqBvK) | 4:31 | 2021-07-24 | 2023-05-20 |
@@ -257,6 +257,7 @@
 | [Seventies](https://open.spotify.com/track/0HFUOO7GkVBUCYz1u2IcBM) | [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Seventies](https://open.spotify.com/album/6snRQ9zw7mrK0l0vPyY8EJ) | 3:16 | 2021-07-24 | 2023-11-04 |
 | [Seventies](https://open.spotify.com/track/4k0vs6zgt0NYq6tmDum4nP) | [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Seventies](https://open.spotify.com/album/5X6J5NTJIWPCJzcRwIKXmb) | 3:16 | 2023-11-24 | 2024-04-19 |
 | [She's On My Mind](https://open.spotify.com/track/4heve4ydl1u6V3AD4moZq9) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Mid Air](https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE) | 3:01 | 2023-09-15 |  |
+| [Sing It Back \(feat\. Dana Williams\)](https://open.spotify.com/track/6j8TmyhwPunLSpeNA4kVnI) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL), [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD) | [Sing It Back \(feat\. Dana Williams\)](https://open.spotify.com/album/6zAWHfeYvpUBY7hZ5TmnTp) | 3:13 | 2024-09-06 |  |
 | [Situation](https://open.spotify.com/track/2RBKhwns5udznQu3O8fK4s) | [Infinity Ink](https://open.spotify.com/artist/4aulLg9UvpHY9dIRqr30Qh), [Cedric Gasaida](https://open.spotify.com/artist/0rc2hhdzeHeHmvyUVPnJ3C) | [Situation](https://open.spotify.com/album/5ITWMM5JR1SrpGbzO61hj7) | 3:20 | 2021-07-24 | 2023-05-24 |
 | [Skipping Like A Stone \(feat\. Beck\) \- Gerd Janson Remix](https://open.spotify.com/track/3qDaCdP9xU4wMoLYJCipyo) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Skipping Like A Stone \(feat\. Beck\) \[Gerd Janson Remix\]](https://open.spotify.com/album/1sTGjuVWoBksS49T9pOp4b) | 3:05 | 2023-09-22 | 2024-02-13 |
 | [Sleepwalking](https://open.spotify.com/track/050TMrxpzlXGYRDAjnrSp6) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 2:45 | 2023-05-19 | 2024-04-19 |

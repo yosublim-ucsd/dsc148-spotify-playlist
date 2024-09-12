@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 
 > Ouve estas extraordinárias artistas, como Irina Barros, com o volume no máximo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,940 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,947 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [KANORMAL](https://open.spotify.com/track/6m0IN8IwikfsVvA098x0Cw) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [KANORMAL](https://open.spotify.com/album/4uHy7LBc8Iv1wlf18n3K26) | 3:18 |
-| 2 | [CHIQUITINHA](https://open.spotify.com/track/7CCbwO2bTJYavz61WU8OsK) | [MARO](https://open.spotify.com/artist/4IgRDYUNOfDQ64aaquFdtw), [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4) | [CHIQUITINHA](https://open.spotify.com/album/1SW0QWVu5gr2D5wq4gBBpY) | 2:40 |
+| 2 | [CHIQUITINHA](https://open.spotify.com/track/7CCbwO2bTJYavz61WU8OsK) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn), [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4) | [CHIQUITINHA](https://open.spotify.com/album/1SW0QWVu5gr2D5wq4gBBpY) | 2:40 |
 | 3 | [Beijo](https://open.spotify.com/track/5dunxMQdvlU0j0c8AmZasE) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr), [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Beijo](https://open.spotify.com/album/2qSaOo0NNFj9xKWpO6ptMb) | 3:05 |
 | 4 | [Fones nos ouvidos \- Ao vivo no Grovewood Estúdio](https://open.spotify.com/track/3Q4rvGBoHiTxNDqR13iaKF) | [Nena](https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB) | [Fones nos ouvidos \- Ao vivo no Grovewood Estúdio](https://open.spotify.com/album/5QpUym9AFfvPiT74s7T3XM) | 3:53 |
 | 5 | [O Sinal Está Fraco](https://open.spotify.com/track/2ywyJkWhDHfNOesu7wjHUb) | [Margarida Vasconcelos](https://open.spotify.com/artist/6R5cBF5xIxveaGIefYV2C9) | [O Sinal Está Fraco](https://open.spotify.com/album/77EvKexdAATT299lasrDcx) | 2:47 |
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 10 | [01:00](https://open.spotify.com/track/18S10ucsXDBABdSsNsvGHt) | [Kataleya](https://open.spotify.com/artist/17ABH2YXJGKpvpoqeeQLSP), [Eddy Parker](https://open.spotify.com/artist/7LhPIWkSwZTK4znOQ3Eeb1) | [01:00](https://open.spotify.com/album/2z8Ju5UFP2HDHLjbt5EDi0) | 2:33 |
 | 11 | [Zona Vip](https://open.spotify.com/track/3DjnETLUrBi05ANn4Qz8oU) | [Lookalike](https://open.spotify.com/artist/3sBavlvSoGVpOX24MO8HiP) | [Deusa](https://open.spotify.com/album/1JX5puWWNOU3IDxpVKY6JP) | 2:26 |
 | 12 | [Esse Teu Riso](https://open.spotify.com/track/1uUMH1wvPaIEHAp0FXlWS9) | [Ana Mariano](https://open.spotify.com/artist/7MUZ4F7lryA5Hf2d2aTafU) | [Esse Teu Riso](https://open.spotify.com/album/2gyhdosEYJI2l0akhnF09q) | 3:31 |
-| 13 | [Se Ao Menos](https://open.spotify.com/track/0LwMPdaSiQQA3ngHZdDfOp) | [INÊS APENAS](https://open.spotify.com/artist/44lhpTyAjiTTOwOzOfDCUQ), [Irma](https://open.spotify.com/artist/06bkZI3iWhUmFYWNovMkCp) | [Se Ao Menos](https://open.spotify.com/album/1Olpvd2DKsKX5ryVozWKYE) | 3:25 |
+| 13 | [Se Ao Menos](https://open.spotify.com/track/0LwMPdaSiQQA3ngHZdDfOp) | [INÊS APENAS](https://open.spotify.com/artist/44lhpTyAjiTTOwOzOfDCUQ), [IRMA](https://open.spotify.com/artist/06bkZI3iWhUmFYWNovMkCp) | [Se Ao Menos](https://open.spotify.com/album/1Olpvd2DKsKX5ryVozWKYE) | 3:25 |
 | 14 | [Se Me Vens Salvar](https://open.spotify.com/track/4BWxkZDn0IU8zd910YdKYh) | [Mónica Teotónio](https://open.spotify.com/artist/1nXBp09VXajQAxVCbP1Jh4), [Latte](https://open.spotify.com/artist/4hUwAsnHVXjrHIeI27HQ0Y) | [Se Me Vens Salvar](https://open.spotify.com/album/6ilrjQ0tj5N5hEx11BC2Qy) | 3:13 |
 | 15 | [It's Ok](https://open.spotify.com/track/0baQ7755NgHYk8BTzWX7AD) | [Nina R.A.E.](https://open.spotify.com/artist/0QnClU5NDTqMBuZdNTyvK0) | [\(Ch\)ama](https://open.spotify.com/album/0obGb0WzJZ7zZinLihCv7q) | 3:21 |
 | 16 | [Carta Aberta](https://open.spotify.com/track/4WRs8pbAlxHHu8vyd73TIx) | [Mariana Pereira](https://open.spotify.com/artist/6OFJLqSjsWsigPp8MTcNHm) | [Carta Aberta](https://open.spotify.com/album/3wg8ufA3J5aSeNMPGEBSYx) | 2:48 |

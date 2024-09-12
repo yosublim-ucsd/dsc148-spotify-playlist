@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > Fresh new Korean independent & rising talents are here\. \(Cover: Ellui, Richboy Hardy\)\(프레쉬한 한국의 새로운 재능들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,366 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,389 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 28 | [Bake](https://open.spotify.com/track/4hKgaRwrkPLU0lfRb543UE) | [9wall](https://open.spotify.com/artist/6rqYMINHw5oUTaS8K17k2D) | [Bake](https://open.spotify.com/album/0lMKr6wiAPCfF2IY91dS14) | 2:49 |
 | 29 | [Is It Love](https://open.spotify.com/track/3ZqPFmCR4UgxSMV60CIskQ) | [Lim Ji Soo](https://open.spotify.com/artist/1ep5wuvTxwDwBP12DBeM4H) | [Is It Love](https://open.spotify.com/album/2zQSMd6xEd1gKNlsQOyImC) | 3:16 |
 | 30 | [one by one](https://open.spotify.com/track/6Ynd6fV8o4uxjlf8xPxrx5) | [heyseunghey](https://open.spotify.com/artist/7JFpChAurxPuVqG0KsXR9g) | [one by one](https://open.spotify.com/album/4i4M8CmiCriaG709LX1T2K) | 4:03 |
-| 31 | [grow up](https://open.spotify.com/track/3Ne50Te8Umxvxw5Di8j9Pu) | [ido](https://open.spotify.com/artist/2qJKjapYm6cY0MkeJkWDRj) | [grow up](https://open.spotify.com/album/4XIm6FAUJEcN1RpYA3ql26) | 3:03 |
+| 31 | [grow up](https://open.spotify.com/track/3Ne50Te8Umxvxw5Di8j9Pu) | [ido](https://open.spotify.com/artist/1fZXr8ghnoNg29NRz0bJTJ) | [grow up](https://open.spotify.com/album/4XIm6FAUJEcN1RpYA3ql26) | 3:03 |
 | 32 | [SLOWDOWN](https://open.spotify.com/track/3eQMPW1KsaObLtP9zJHePx) | [ODD Cloud](https://open.spotify.com/artist/0EsmRvqVdlPTIwkpOLw3Gi) | [SLOWDOWN](https://open.spotify.com/album/6uqzxFO5MdPpZKfBoPSyoB) | 3:16 |
 | 33 | [A little slower](https://open.spotify.com/track/4Ba3VI0Grn91gnuRE3wljj) | [Youngsang](https://open.spotify.com/artist/0hFSd0WXqSF5eXyARmKtig) | [A little slower](https://open.spotify.com/album/477KPeLAr2M0aMLEtkGQLb) | 3:34 |
 | 34 | [MEM MEM](https://open.spotify.com/track/7o8TSyTGjCMHkJFJLoEBlD) | [KOREA CRACKER](https://open.spotify.com/artist/0SciAzspUVXo1F4txGErsz) | [MEM MEM](https://open.spotify.com/album/3VkepdjUDIcdo1g2P1Zu9B) | 2:43 |

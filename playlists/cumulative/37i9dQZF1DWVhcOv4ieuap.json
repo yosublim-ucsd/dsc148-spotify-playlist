@@ -4197,6 +4197,24 @@
     },
     {
       "album": {
+        "name": "Me Lo Merezco - Versi\u00f3n Ac\u00fastica - En Las Nubes",
+        "url": "https://open.spotify.com/album/6Iaa1mYdP9tS5MV57FTypD"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194866,
+      "name": "Me Lo Merezco - Versi\u00f3n Ac\u00fastica - En Las Nubes",
+      "url": "https://open.spotify.com/track/78rWBQXG8hhRVknCTIo8j6"
+    },
+    {
+      "album": {
         "name": "Me Niego (feat. Ozuna & Wisin)",
         "url": "https://open.spotify.com/album/1QsrAiIvA7njuEMwP9poqt"
       },
@@ -4260,7 +4278,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 170320,
       "name": "Medell\u00edn",
       "url": "https://open.spotify.com/track/7zUUMR5cHF4WIPl7jXORlV"

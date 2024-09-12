@@ -158,7 +158,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 156404,
       "name": "94 Flow",
       "url": "https://open.spotify.com/track/7nfLjhLhQJHiauslrpXgnr"
@@ -2092,10 +2092,32 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 218142,
       "name": "No Reason",
       "url": "https://open.spotify.com/track/3ICNl7gysAiDxFtpYAPOZK"
+    },
+    {
+      "album": {
+        "name": "No Worries",
+        "url": "https://open.spotify.com/album/4382GONaK3geV739wMJDA5"
+      },
+      "artists": [
+        {
+          "name": "Hammy Muzic",
+          "url": "https://open.spotify.com/artist/7zzosAlsXxJJ5vXPymZZAj"
+        },
+        {
+          "name": "Syphr",
+          "url": "https://open.spotify.com/artist/1p0cpaSetvDyBCogumWAXM"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115087,
+      "name": "No Worries",
+      "url": "https://open.spotify.com/track/4hoGOPnhq84doCT0eBohT8"
     },
     {
       "album": {
@@ -2513,6 +2535,28 @@
     },
     {
       "album": {
+        "name": "Scenario",
+        "url": "https://open.spotify.com/album/3rmXU2uoFOFEvgxZYLS4bS"
+      },
+      "artists": [
+        {
+          "name": "Sammohit",
+          "url": "https://open.spotify.com/artist/0cWoBv3cKhNM18FbRFy2x2"
+        },
+        {
+          "name": "Mahlan Wala 59",
+          "url": "https://open.spotify.com/artist/6AONermxpKHYKrOPPAI5gS"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136421,
+      "name": "Scenario",
+      "url": "https://open.spotify.com/track/4A7TPu84Nvaz9RwcHYG2Ol"
+    },
+    {
+      "album": {
         "name": "MONEY OVER MATTERS",
         "url": "https://open.spotify.com/album/6lpZZ6lgUvznUuCjBK36Gp"
       },
@@ -2718,7 +2762,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 181340,
       "name": "Thaa",
       "url": "https://open.spotify.com/track/2NmBCDkjvJVvEZkH5QDOeb"
@@ -3136,6 +3180,24 @@
       "duration_ms": 160159,
       "name": "What's Beef",
       "url": "https://open.spotify.com/track/08XzbojBXDW2GOGKQXt1ga"
+    },
+    {
+      "album": {
+        "name": "Yes/No",
+        "url": "https://open.spotify.com/album/0qng4ZG4ooOVSjZIHhS4Mu"
+      },
+      "artists": [
+        {
+          "name": "Uday Bath",
+          "url": "https://open.spotify.com/artist/248BJTjfR3ElYcIKa32FqX"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155586,
+      "name": "Yes/No",
+      "url": "https://open.spotify.com/track/3zTsQC9xZzTSrNXRW8ij1b"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX4pHb5aF7Ipw"

@@ -4,7 +4,7 @@
 
 > Le migliori nuove uscite, 🇮🇹 e 🌎! Cover: Olly, Angelina Mango
 
-303 songs - 15 hr 32 min
+304 songs - 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Anything](https://open.spotify.com/track/5AjLZX8aPonV4fOdCnoTvl) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Anything](https://open.spotify.com/album/4JVLLc7dHD1pLrryXlcKkm) | 3:08 | 2024-06-27 | 2024-07-19 |
 | [argilla](https://open.spotify.com/track/2V15mNaBXDbWi3Lj3bSUWk) | [EDONiCO](https://open.spotify.com/artist/3sNOdiUrgIw18hNYh5gyH7) | [Concordia](https://open.spotify.com/album/6q4rBIfBEU36r82Qa4e6Wz) | 2:58 | 2024-06-27 | 2024-07-19 |
 | [Arm's Length](https://open.spotify.com/track/5NuUKKMA2qsltM1DnSJZLL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well: Deeper into the Well](https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ) | 3:58 | 2024-08-01 | 2024-09-06 |
+| [Audacious](https://open.spotify.com/track/53OqecARVvVCUTjL1yg0sq) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Audacious](https://open.spotify.com/album/6tApXgjCNnGOeB176tJiKV) | 3:23 | 2024-09-11 |  |
 | [Baby Blue Movie](https://open.spotify.com/track/6kgn7bCEXk0A5ZrPqrRZwc) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Baby Blue Movie](https://open.spotify.com/album/3T7i2gfwdTmMOUD5wiuoAj) | 4:04 | 2024-06-27 | 2024-07-05 |
 | [BACIO DI GIUDA \(feat\. Mida & VillaBanks\)](https://open.spotify.com/track/3zp0YPZ5jA8XS9UPmA3O5j) | [AVA](https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr), [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [BACIO DI GIUDA \(feat\. Mida & VillaBanks\)](https://open.spotify.com/album/3z9ZS5Px2IrcsgagRYUqkt) | 2:47 | 2024-06-27 | 2024-07-05 |
 | [back n forth](https://open.spotify.com/track/2q7BfsGmjmUbxn5VkI6QKN) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Lagbaja](https://open.spotify.com/artist/2caVTY3yVrcZ3iaB7rIaY2) | [adedamola](https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A) | 3:32 | 2024-08-29 |  |
@@ -84,7 +85,7 @@
 | [Dirty \(feat\. Teddy Swims\)](https://open.spotify.com/track/2ZAEbGGj1yXJRCoVaEn16K) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Dirty \(feat\. Teddy Swims\)](https://open.spotify.com/album/3AOLCTndOLnlC2jbi71beG) | 2:53 | 2024-08-01 | 2024-09-06 |
 | [dirty little secret](https://open.spotify.com/track/0RNKTiM7M4dzoCLgg3NgGu) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [dirty little secret](https://open.spotify.com/album/4U3f0EIV3XDBT4jcRytwMZ) | 3:01 | 2024-07-11 | 2024-07-27 |
 | [Disordine](https://open.spotify.com/track/3fiSGrRKR0nAhAnLhDvyPR) | [gIANMARIA](https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1) | [Disordine](https://open.spotify.com/album/4o1Cd9vI7ldENywT64aEIz) | 2:58 | 2024-07-18 | 2024-08-16 |
-| [Doblexxó](https://open.spotify.com/track/1yqagVoTcE3zoGenQTbWI2) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Doblexxó](https://open.spotify.com/album/6u2scPtBaaOFV7WTyR21KZ) | 2:56 | 2024-08-09 |  |
+| [Doblexxó](https://open.spotify.com/track/1yqagVoTcE3zoGenQTbWI2) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Doblexxó](https://open.spotify.com/album/6u2scPtBaaOFV7WTyR21KZ) | 2:56 | 2024-08-09 | 2024-09-12 |
 | [Domani \(feat\. Nashley\)](https://open.spotify.com/track/2m2XT5ZaWwfNg6Rk0a278j) | [VV](https://open.spotify.com/artist/3Lx3LW1eYrkig48NsWAPdh), [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [Domani \(feat\. Nashley\)](https://open.spotify.com/album/5ExwoHtva59kw3nIzFcrnn) | 2:57 | 2024-07-11 | 2024-08-16 |
 | [Don't Lie](https://open.spotify.com/track/5is9ECympHEpAyTw22IDC5) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Don't Lie](https://open.spotify.com/album/4OjKYMqojvunC37Usp9Myf) | 2:28 | 2024-09-05 |  |
 | [Done With You](https://open.spotify.com/track/613Db7CIngP03SE2pAqTwg) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [God Said No](https://open.spotify.com/album/4zP3lXg6RHEiUDOtUkr5yh) | 2:38 | 2024-06-27 | 2024-07-27 |

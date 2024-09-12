@@ -4,7 +4,7 @@
 
 > This is A Boogie Wit da Hoodie\. The essential tracks, all in one playlist.
 
-104 songs - 5 hr 27 min
+105 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Better Off Alone](https://open.spotify.com/track/2y5ufPCn1z5JRTWuUB2b4C) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Better Off Alone](https://open.spotify.com/album/0tvOiqQkHp6bqYzzPfPc4B) | 2:19 | 2024-05-19 |  |
 | [Bleed](https://open.spotify.com/track/5XzombolzpiaOSTdj1W0VS) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Artist 2.0 \(Deluxe\)](https://open.spotify.com/album/4v0IxMbMN975IfxFHzgK9d) | 2:56 | 2023-01-18 | 2024-07-24 |
 | [Blood On My Denim](https://open.spotify.com/track/0LHWHUcUYhFAUkCt2q4Gad) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Artist 2.0](https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae) | 3:16 | 2023-04-30 | 2024-05-19 |
-| [Body \(feat\. Cash Cobain\)](https://open.spotify.com/track/44WjDzEEEy3a7c8ZzJJ8rW) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Better Off Alone](https://open.spotify.com/album/0tvOiqQkHp6bqYzzPfPc4B) | 3:12 | 2024-05-19 |  |
+| [Body \(feat\. Cash Cobain\)](https://open.spotify.com/track/44WjDzEEEy3a7c8ZzJJ8rW) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Better Off Alone](https://open.spotify.com/album/0tvOiqQkHp6bqYzzPfPc4B) | 3:12 | 2024-05-19 | 2024-09-12 |
+| [Body \(feat\. Nemzzz\) \- UK Remix](https://open.spotify.com/track/0J0NdLdtshiKqIFSdB2Ipf) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Body \(feat\. Nemzzz\) \- UK Remix](https://open.spotify.com/album/61snpNX6muUxWFyf5kw3nW) | 2:48 | 2024-09-12 |  |
 | [Booby Trap](https://open.spotify.com/track/4DaPOR4NVoIR8QOlWBn0r7) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Booby Trap](https://open.spotify.com/album/0hgNcobdiPWSRYZMuBlJph) | 2:16 | 2023-12-13 | 2024-03-31 |
 | [Booby Trap](https://open.spotify.com/track/6PqRhA7KUAhWaD0iQeQ6cR) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [B4 BOA](https://open.spotify.com/album/5QDOKezJwT63L54s17jMgw) | 2:16 | 2023-09-09 | 2024-05-19 |
 | [Boogie Chata \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/0KmbZSG6sTyZoflJbg9Uwu) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [LLAMADA PERDIDA](https://open.spotify.com/album/14ZGI8bUlOfVKT8SBLFjjT) | 3:41 | 2024-02-24 | 2024-07-24 |

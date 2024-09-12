@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Australia.",
-  "num_followers": 68487,
+  "num_followers": 68486,
   "original_name": "Viral 50 - Australia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LnOzyAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LnUFSAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-09-10 13:34:43",
+      "added_at": "2024-09-11 14:11:49",
       "album": {
         "name": "I Only Smoke When I Drink",
         "url": "https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR"
     },
     {
-      "added_at": "2024-09-10 13:34:43",
+      "added_at": "2024-09-11 14:11:49",
       "album": {
         "name": "Diet Pepsi",
         "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
     },
     {
-      "added_at": "2024-09-10 13:34:43",
+      "added_at": "2024-09-11 14:11:49",
       "album": {
         "name": "Embrace It",
         "url": "https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES"
     },
     {
-      "added_at": "2024-09-10 13:34:43",
+      "added_at": "2024-09-11 14:11:49",
       "album": {
         "name": "Sailor Song",
         "url": "https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit"
@@ -73,7 +73,23 @@
       "url": "https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"
     },
     {
-      "added_at": "2024-09-10 13:34:43",
+      "added_at": "2024-09-11 14:11:49",
+      "album": {
+        "name": "What's Wrong With New York?",
+        "url": "https://open.spotify.com/album/7ETvH1PHtaY35WhmpTTt7s"
+      },
+      "artists": [
+        {
+          "name": "The Dare",
+          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
+        }
+      ],
+      "duration_ms": 119558,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/7m8wiHGjtlJ5UQvqiCjhV5"
+    },
+    {
+      "added_at": "2024-09-11 14:11:49",
       "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
@@ -93,39 +109,7 @@
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
-      "added_at": "2024-09-10 13:34:43",
-      "album": {
-        "name": "What's Wrong With New York?",
-        "url": "https://open.spotify.com/album/7ETvH1PHtaY35WhmpTTt7s"
-      },
-      "artists": [
-        {
-          "name": "The Dare",
-          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
-        }
-      ],
-      "duration_ms": 119558,
-      "name": "Girls",
-      "url": "https://open.spotify.com/track/7m8wiHGjtlJ5UQvqiCjhV5"
-    },
-    {
-      "added_at": "2024-09-10 13:34:43",
-      "album": {
-        "name": "LET'S GO",
-        "url": "https://open.spotify.com/album/7sma9kYAXjPX6ABANXmCbe"
-      },
-      "artists": [
-        {
-          "name": "Jaden Bojsen",
-          "url": "https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg"
-        }
-      ],
-      "duration_ms": 193091,
-      "name": "LET'S GO",
-      "url": "https://open.spotify.com/track/20Y4EAmSXru3foatDg4OqN"
-    },
-    {
-      "added_at": "2024-09-10 13:34:43",
+      "added_at": "2024-09-11 14:11:49",
       "album": {
         "name": "BACKBONE",
         "url": "https://open.spotify.com/album/364RGa8yL2ZsIWlLoNSzIY"
@@ -145,7 +129,23 @@
       "url": "https://open.spotify.com/track/3HrHhTWonBqF4mDasi8xvC"
     },
     {
-      "added_at": "2024-09-10 13:34:43",
+      "added_at": "2024-09-11 14:11:49",
+      "album": {
+        "name": "LET'S GO",
+        "url": "https://open.spotify.com/album/7sma9kYAXjPX6ABANXmCbe"
+      },
+      "artists": [
+        {
+          "name": "Jaden Bojsen",
+          "url": "https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg"
+        }
+      ],
+      "duration_ms": 193091,
+      "name": "LET'S GO",
+      "url": "https://open.spotify.com/track/20Y4EAmSXru3foatDg4OqN"
+    },
+    {
+      "added_at": "2024-09-11 14:11:49",
       "album": {
         "name": "Touch",
         "url": "https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv"
@@ -161,7 +161,7 @@
       "url": "https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav"
     },
     {
-      "added_at": "2024-09-10 13:34:43",
+      "added_at": "2024-09-11 14:11:49",
       "album": {
         "name": "Deadpool & Wolverine: Madonna's \"Like a Prayer\" EP",
         "url": "https://open.spotify.com/album/4Uolzy4jMibs7tewebgYA0"
@@ -177,7 +177,7 @@
       "url": "https://open.spotify.com/track/492ceDtqmafb6QD1Xfhpmo"
     },
     {
-      "added_at": "2024-09-10 13:34:43",
+      "added_at": "2024-09-11 14:11:49",
       "album": {
         "name": "Short n' Sweet",
         "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
@@ -193,27 +193,7 @@
       "url": "https://open.spotify.com/track/1UHS8Rf6h5Ar3CDWRd3wjF"
     },
     {
-      "added_at": "2024-09-10 13:34:43",
-      "album": {
-        "name": "SE ME OLVIDA",
-        "url": "https://open.spotify.com/album/00ESTj1vBUkIbaTHaXaXu3"
-      },
-      "artists": [
-        {
-          "name": "Maisak",
-          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 225373,
-      "name": "SE ME OLVIDA",
-      "url": "https://open.spotify.com/track/2gmd7lY3QSzLh0xIY4cRvi"
-    },
-    {
-      "added_at": "2024-09-10 13:34:43",
+      "added_at": "2024-09-11 14:11:49",
       "album": {
         "name": "Big Dawgs",
         "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
@@ -233,7 +213,27 @@
       "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
     },
     {
-      "added_at": "2024-09-10 13:34:43",
+      "added_at": "2024-09-11 14:11:49",
+      "album": {
+        "name": "SE ME OLVIDA",
+        "url": "https://open.spotify.com/album/00ESTj1vBUkIbaTHaXaXu3"
+      },
+      "artists": [
+        {
+          "name": "Maisak",
+          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 225373,
+      "name": "SE ME OLVIDA",
+      "url": "https://open.spotify.com/track/2gmd7lY3QSzLh0xIY4cRvi"
+    },
+    {
+      "added_at": "2024-09-11 14:11:49",
       "album": {
         "name": "Wandering",
         "url": "https://open.spotify.com/album/6OWfvkLDLekKnwUsO2VUQq"
@@ -249,7 +249,7 @@
       "url": "https://open.spotify.com/track/5crNpsZuMt06e81Ppqp4PH"
     },
     {
-      "added_at": "2024-09-10 13:34:43",
+      "added_at": "2024-09-11 14:11:49",
       "album": {
         "name": "Short n' Sweet",
         "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
@@ -265,7 +265,7 @@
       "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
     },
     {
-      "added_at": "2024-09-10 13:34:43",
+      "added_at": "2024-09-11 14:11:49",
       "album": {
         "name": "flex fm (freddit)",
         "url": "https://open.spotify.com/album/7GzNHtb9w0K7sEjsKj8jmT"
@@ -293,7 +293,7 @@
       "url": "https://open.spotify.com/track/7qpZh0yIXeZzXZk3mE6Fj9"
     },
     {
-      "added_at": "2024-09-10 13:34:43",
+      "added_at": "2024-09-11 14:11:49",
       "album": {
         "name": "Quitter",
         "url": "https://open.spotify.com/album/6qOS75v0sTFE3K1VrIM4mz"
@@ -309,7 +309,7 @@
       "url": "https://open.spotify.com/track/7EkB5YHjZaOL9f3Wk3kiRw"
     },
     {
-      "added_at": "2024-09-10 13:34:43",
+      "added_at": "2024-09-11 14:11:49",
       "album": {
         "name": "Kisses (feat. bbyclose)",
         "url": "https://open.spotify.com/album/3eIA3WFdBvYVUP8sVD5p34"
@@ -333,7 +333,7 @@
       "url": "https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG"
     },
     {
-      "added_at": "2024-09-10 13:34:43",
+      "added_at": "2024-09-11 14:11:49",
       "album": {
         "name": "Imaginal Disk",
         "url": "https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF"
@@ -349,23 +349,7 @@
       "url": "https://open.spotify.com/track/0QW0KPBXXv67haGjbtkRRB"
     },
     {
-      "added_at": "2024-09-10 13:34:43",
-      "album": {
-        "name": "Short n' Sweet",
-        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 223192,
-      "name": "Juno",
-      "url": "https://open.spotify.com/track/21B4gaTWnTkuSh77iWEXdS"
-    },
-    {
-      "added_at": "2024-09-10 13:34:43",
+      "added_at": "2024-09-11 14:11:49",
       "album": {
         "name": "Disco",
         "url": "https://open.spotify.com/album/46LE2xR4e92aVvo1QlUiS3"
@@ -381,39 +365,7 @@
       "url": "https://open.spotify.com/track/2Lumsra3kuU61wXkEKzKaK"
     },
     {
-      "added_at": "2024-09-10 13:34:43",
-      "album": {
-        "name": "Alligator Bites Never Heal",
-        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 126832,
-      "name": "NISSAN ALTIMA",
-      "url": "https://open.spotify.com/track/2dKkVF2m160z0RNDN2dddc"
-    },
-    {
-      "added_at": "2024-09-10 13:34:43",
-      "album": {
-        "name": "The Secret of Us",
-        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 157146,
-      "name": "I Love You, I'm Sorry",
-      "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
-    },
-    {
-      "added_at": "2024-09-10 13:34:43",
+      "added_at": "2024-09-11 14:11:49",
       "album": {
         "name": "UWAIE",
         "url": "https://open.spotify.com/album/5H7sO778w4hgr2v2600ajN"
@@ -429,7 +381,55 @@
       "url": "https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF"
     },
     {
-      "added_at": "2024-09-10 13:34:43",
+      "added_at": "2024-09-11 14:11:49",
+      "album": {
+        "name": "Alligator Bites Never Heal",
+        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 126832,
+      "name": "NISSAN ALTIMA",
+      "url": "https://open.spotify.com/track/2dKkVF2m160z0RNDN2dddc"
+    },
+    {
+      "added_at": "2024-09-11 14:11:49",
+      "album": {
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 223192,
+      "name": "Juno",
+      "url": "https://open.spotify.com/track/21B4gaTWnTkuSh77iWEXdS"
+    },
+    {
+      "added_at": "2024-09-11 14:11:49",
+      "album": {
+        "name": "The Secret of Us",
+        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 157146,
+      "name": "I Love You, I'm Sorry",
+      "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
+    },
+    {
+      "added_at": "2024-09-11 14:11:49",
       "album": {
         "name": "Yamore",
         "url": "https://open.spotify.com/album/5wKcgs8bejansNdK6IJC0C"
@@ -461,7 +461,23 @@
       "url": "https://open.spotify.com/track/480j122Gpi252OIfy4SNzm"
     },
     {
-      "added_at": "2024-09-10 13:34:43",
+      "added_at": "2024-09-11 14:11:49",
+      "album": {
+        "name": "The Second Act",
+        "url": "https://open.spotify.com/album/1iHEMKyzqipuRw2BPuB2NH"
+      },
+      "artists": [
+        {
+          "name": "Missy Higgins",
+          "url": "https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf"
+        }
+      ],
+      "duration_ms": 305320,
+      "name": "A Complicated Truth",
+      "url": "https://open.spotify.com/track/5aGDfRq5WecvusAoT9HY4G"
+    },
+    {
+      "added_at": "2024-09-11 14:11:49",
       "album": {
         "name": "Wandering (Love Me Back)",
         "url": "https://open.spotify.com/album/3DEtpqVl2R2gEe9fLCa1DE"
@@ -477,7 +493,23 @@
       "url": "https://open.spotify.com/track/4t43d4WVhoUU9FZTq8tZmL"
     },
     {
-      "added_at": "2024-09-10 13:34:43",
+      "added_at": "2024-09-11 14:11:49",
+      "album": {
+        "name": "Flex (Ooh, Ooh, Ooh) - Single",
+        "url": "https://open.spotify.com/album/4DGTGynJ1c17ElQpAbDAqV"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 176744,
+      "name": "Flex (Ooh, Ooh, Ooh)",
+      "url": "https://open.spotify.com/track/4T0ScSPdQKmGvruK7pavNP"
+    },
+    {
+      "added_at": "2024-09-11 14:11:49",
       "album": {
         "name": "Guess featuring Billie Eilish",
         "url": "https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN"
@@ -497,39 +529,7 @@
       "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
     },
     {
-      "added_at": "2024-09-10 13:34:43",
-      "album": {
-        "name": "The Second Act",
-        "url": "https://open.spotify.com/album/1iHEMKyzqipuRw2BPuB2NH"
-      },
-      "artists": [
-        {
-          "name": "Missy Higgins",
-          "url": "https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf"
-        }
-      ],
-      "duration_ms": 305320,
-      "name": "A Complicated Truth",
-      "url": "https://open.spotify.com/track/5aGDfRq5WecvusAoT9HY4G"
-    },
-    {
-      "added_at": "2024-09-10 13:34:43",
-      "album": {
-        "name": "100 GIGS",
-        "url": "https://open.spotify.com/album/5oT8PMXGWiPlhcl930fkII"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 126356,
-      "name": "Circadian Rhythm",
-      "url": "https://open.spotify.com/track/1eroCliWpJrEu1V7VSObcO"
-    },
-    {
-      "added_at": "2024-09-10 13:34:43",
+      "added_at": "2024-09-11 14:11:49",
       "album": {
         "name": "THE FIRST TIME (DELUXE VERSION)",
         "url": "https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt"
@@ -545,55 +545,7 @@
       "url": "https://open.spotify.com/track/5kDgJffgJ0lYHTSiaXFWNw"
     },
     {
-      "added_at": "2024-09-10 13:34:43",
-      "album": {
-        "name": "Flex (Ooh, Ooh, Ooh) - Single",
-        "url": "https://open.spotify.com/album/4DGTGynJ1c17ElQpAbDAqV"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 176744,
-      "name": "Flex (Ooh, Ooh, Ooh)",
-      "url": "https://open.spotify.com/track/4T0ScSPdQKmGvruK7pavNP"
-    },
-    {
-      "added_at": "2024-09-10 13:34:43",
-      "album": {
-        "name": "Chief Boot Knocka",
-        "url": "https://open.spotify.com/album/129ZZNyaPOWi5OsZEyQKIP"
-      },
-      "artists": [
-        {
-          "name": "Sir Mix-A-Lot",
-          "url": "https://open.spotify.com/artist/3TQ9JTBI2n2hfo7aRONEYV"
-        }
-      ],
-      "duration_ms": 240293,
-      "name": "Nasty Dog",
-      "url": "https://open.spotify.com/track/3ZP1AbM0rurWtqQIhTVcln"
-    },
-    {
-      "added_at": "2024-09-10 13:34:43",
-      "album": {
-        "name": "Tempted",
-        "url": "https://open.spotify.com/album/65S8ytLMPeKARLQDg4HPE6"
-      },
-      "artists": [
-        {
-          "name": "Yung Filly",
-          "url": "https://open.spotify.com/artist/3OEJ7D4RwbnNFuG9JczKEa"
-        }
-      ],
-      "duration_ms": 176469,
-      "name": "Tempted",
-      "url": "https://open.spotify.com/track/5rL3pBAs8eR8UCIpHfMwSm"
-    },
-    {
-      "added_at": "2024-09-10 13:34:43",
+      "added_at": "2024-09-11 14:11:49",
       "album": {
         "name": "I Adore You (feat. Daecolm)",
         "url": "https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00"
@@ -621,7 +573,23 @@
       "url": "https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7"
     },
     {
-      "added_at": "2024-09-10 13:34:43",
+      "added_at": "2024-09-11 14:11:49",
+      "album": {
+        "name": "Chief Boot Knocka",
+        "url": "https://open.spotify.com/album/129ZZNyaPOWi5OsZEyQKIP"
+      },
+      "artists": [
+        {
+          "name": "Sir Mix-A-Lot",
+          "url": "https://open.spotify.com/artist/3TQ9JTBI2n2hfo7aRONEYV"
+        }
+      ],
+      "duration_ms": 240293,
+      "name": "Nasty Dog",
+      "url": "https://open.spotify.com/track/3ZP1AbM0rurWtqQIhTVcln"
+    },
+    {
+      "added_at": "2024-09-11 14:11:49",
       "album": {
         "name": "KEEP UP // FROSTBITE",
         "url": "https://open.spotify.com/album/526xuSD6c45Gb5hH4rN8RY"
@@ -637,23 +605,7 @@
       "url": "https://open.spotify.com/track/2yR2sziCF4WEs3klW1F38d"
     },
     {
-      "added_at": "2024-09-10 13:34:43",
-      "album": {
-        "name": "Short n' Sweet",
-        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 152195,
-      "name": "Slim Pickins",
-      "url": "https://open.spotify.com/track/0XkZmBCCcdMY0EPY8ij6Gb"
-    },
-    {
-      "added_at": "2024-09-10 13:34:43",
+      "added_at": "2024-09-11 14:11:49",
       "album": {
         "name": "VANITY",
         "url": "https://open.spotify.com/album/3vKrt8nMzrqcjUf7rdeA3g"
@@ -669,27 +621,39 @@
       "url": "https://open.spotify.com/track/4rJHH484bHZDts51o5i2CB"
     },
     {
-      "added_at": "2024-09-10 13:34:43",
+      "added_at": "2024-09-11 14:11:49",
       "album": {
-        "name": "Gunfinger (Salute)",
-        "url": "https://open.spotify.com/album/1T0ZCkKD1tLyZ35AHnIL58"
+        "name": "100 GIGS",
+        "url": "https://open.spotify.com/album/5oT8PMXGWiPlhcl930fkII"
       },
       "artists": [
         {
-          "name": "IRAH",
-          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
-        },
-        {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 166896,
-      "name": "Gunfinger (Salute)",
-      "url": "https://open.spotify.com/track/30aEleGsSvwoORcXA4mKgT"
+      "duration_ms": 126356,
+      "name": "Circadian Rhythm",
+      "url": "https://open.spotify.com/track/1eroCliWpJrEu1V7VSObcO"
     },
     {
-      "added_at": "2024-09-10 13:34:43",
+      "added_at": "2024-09-11 14:11:49",
+      "album": {
+        "name": "Tempted",
+        "url": "https://open.spotify.com/album/65S8ytLMPeKARLQDg4HPE6"
+      },
+      "artists": [
+        {
+          "name": "Yung Filly",
+          "url": "https://open.spotify.com/artist/3OEJ7D4RwbnNFuG9JczKEa"
+        }
+      ],
+      "duration_ms": 176469,
+      "name": "Tempted",
+      "url": "https://open.spotify.com/track/5rL3pBAs8eR8UCIpHfMwSm"
+    },
+    {
+      "added_at": "2024-09-11 14:11:49",
       "album": {
         "name": "C4STL3",
         "url": "https://open.spotify.com/album/4TQ0GUgul2iN9nFqweWw3h"
@@ -705,7 +669,7 @@
       "url": "https://open.spotify.com/track/4wF8a8E84oCJ14XPNQt6sr"
     },
     {
-      "added_at": "2024-09-10 13:34:43",
+      "added_at": "2024-09-11 14:11:49",
       "album": {
         "name": "Short n' Sweet",
         "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
@@ -716,28 +680,12 @@
           "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 185265,
-      "name": "Good Graces",
-      "url": "https://open.spotify.com/track/102YUQbYmwdBXS7jwamI90"
+      "duration_ms": 152195,
+      "name": "Slim Pickins",
+      "url": "https://open.spotify.com/track/0XkZmBCCcdMY0EPY8ij6Gb"
     },
     {
-      "added_at": "2024-09-10 13:34:43",
-      "album": {
-        "name": "Good Luck, Babe!",
-        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 218423,
-      "name": "Good Luck, Babe!",
-      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
-    },
-    {
-      "added_at": "2024-09-10 13:34:43",
+      "added_at": "2024-09-11 14:11:49",
       "album": {
         "name": "K.O.",
         "url": "https://open.spotify.com/album/1EC9EHPbmFJr9W3rmR2Jee"
@@ -757,23 +705,43 @@
       "url": "https://open.spotify.com/track/7r2cCbhAbGUE4Izor1ZnlZ"
     },
     {
-      "added_at": "2024-09-10 13:34:43",
+      "added_at": "2024-09-11 14:11:49",
       "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5"
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
       },
       "artists": [
         {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 182039,
-      "name": "Bug",
-      "url": "https://open.spotify.com/track/0MXmiqd7zoXxv6Gqn9ahhQ"
+      "duration_ms": 185265,
+      "name": "Good Graces",
+      "url": "https://open.spotify.com/track/102YUQbYmwdBXS7jwamI90"
     },
     {
-      "added_at": "2024-09-10 13:34:43",
+      "added_at": "2024-09-11 14:11:49",
+      "album": {
+        "name": "Gunfinger (Salute)",
+        "url": "https://open.spotify.com/album/1T0ZCkKD1tLyZ35AHnIL58"
+      },
+      "artists": [
+        {
+          "name": "IRAH",
+          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
+        },
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        }
+      ],
+      "duration_ms": 166896,
+      "name": "Gunfinger (Salute)",
+      "url": "https://open.spotify.com/track/30aEleGsSvwoORcXA4mKgT"
+    },
+    {
+      "added_at": "2024-09-11 14:11:49",
       "album": {
         "name": "Lifestyle",
         "url": "https://open.spotify.com/album/4EZDdNda2DHRyqoDgTpS4l"
@@ -797,7 +765,23 @@
       "url": "https://open.spotify.com/track/7DTlsMOQjGysXHpwwpHuPl"
     },
     {
-      "added_at": "2024-09-10 13:34:43",
+      "added_at": "2024-09-11 14:11:49",
+      "album": {
+        "name": "Good Luck, Babe!",
+        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 218423,
+      "name": "Good Luck, Babe!",
+      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
+    },
+    {
+      "added_at": "2024-09-11 14:11:49",
       "album": {
         "name": "Feel It",
         "url": "https://open.spotify.com/album/6jUhWTr06uh84L3x84u1aS"
@@ -817,23 +801,7 @@
       "url": "https://open.spotify.com/track/5qKEArG4jwMAYTAsuG4rpH"
     },
     {
-      "added_at": "2024-09-10 13:34:43",
-      "album": {
-        "name": "Cruise",
-        "url": "https://open.spotify.com/album/2SalYuSmYNeLhZ4Eu70v7U"
-      },
-      "artists": [
-        {
-          "name": "ROYA",
-          "url": "https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh"
-        }
-      ],
-      "duration_ms": 175708,
-      "name": "Cruise",
-      "url": "https://open.spotify.com/track/6wmR2TU2ke8vQP5Hv8TsVq"
-    },
-    {
-      "added_at": "2024-09-10 13:34:43",
+      "added_at": "2024-09-11 14:11:49",
       "album": {
         "name": "Wait For You",
         "url": "https://open.spotify.com/album/0xBVvz5KOwJtgrc9sFpnwQ"
@@ -849,7 +817,55 @@
       "url": "https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw"
     },
     {
-      "added_at": "2024-09-10 13:34:43",
+      "added_at": "2024-09-11 14:11:49",
+      "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "duration_ms": 182039,
+      "name": "Bug",
+      "url": "https://open.spotify.com/track/0MXmiqd7zoXxv6Gqn9ahhQ"
+    },
+    {
+      "added_at": "2024-09-11 14:11:49",
+      "album": {
+        "name": "Cruise",
+        "url": "https://open.spotify.com/album/2SalYuSmYNeLhZ4Eu70v7U"
+      },
+      "artists": [
+        {
+          "name": "ROYA",
+          "url": "https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh"
+        }
+      ],
+      "duration_ms": 175708,
+      "name": "Cruise",
+      "url": "https://open.spotify.com/track/6wmR2TU2ke8vQP5Hv8TsVq"
+    },
+    {
+      "added_at": "2024-09-11 14:11:49",
+      "album": {
+        "name": "Cold Beer & Country Music",
+        "url": "https://open.spotify.com/album/2liHjGjIgWvjrfBgKGBYuF"
+      },
+      "artists": [
+        {
+          "name": "Zach Top",
+          "url": "https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH"
+        }
+      ],
+      "duration_ms": 224906,
+      "name": "I Never Lie",
+      "url": "https://open.spotify.com/track/3t6gUcGYLrUuqwpXjOFWQc"
+    },
+    {
+      "added_at": "2024-09-11 14:11:49",
       "album": {
         "name": "WE PRAY",
         "url": "https://open.spotify.com/album/3dZE98f3OlxeQlm9qWYekK"
@@ -881,40 +897,24 @@
       "url": "https://open.spotify.com/track/2sKHevALE8DKDkwEo04Pbh"
     },
     {
-      "added_at": "2024-09-10 13:34:43",
+      "added_at": "2024-09-11 14:11:49",
       "album": {
-        "name": "Supersonic",
-        "url": "https://open.spotify.com/album/1sxOavrEVy7krHpcbCsiJi"
+        "name": "Never Walk Alone",
+        "url": "https://open.spotify.com/album/1BuWrjAiFiHMHtCYHuUIKM"
       },
       "artists": [
         {
-          "name": "fromis_9",
-          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
-        }
-      ],
-      "duration_ms": 174146,
-      "name": "Supersonic",
-      "url": "https://open.spotify.com/track/6oNLSQX8bcAdbCElZYju3v"
-    },
-    {
-      "added_at": "2024-09-10 13:34:43",
-      "album": {
-        "name": "hungover",
-        "url": "https://open.spotify.com/album/3Fzx4iNVKLcCo7x1yP5q9N"
-      },
-      "artists": [
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
         },
         {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+          "name": "Stevie Appleton",
+          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
         }
       ],
-      "duration_ms": 224280,
-      "name": "you look like you love me (feat. Riley Green)",
-      "url": "https://open.spotify.com/track/2PyJAiQjp1OPkow2FJZKHR"
+      "duration_ms": 188360,
+      "name": "Never Walk Alone",
+      "url": "https://open.spotify.com/track/4HB7ECLzrbgapiZyLlFbxz"
     }
   ],
   "unique_name": "Viral 50 - Australia",

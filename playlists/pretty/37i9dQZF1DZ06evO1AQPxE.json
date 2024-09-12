@@ -1,12 +1,12 @@
 {
-  "description": "This is Jack Harlow. The essential tracks, all in one playlist.",
-  "num_followers": 184794,
+  "description": "This Is Jack Harlow. Los temas esenciales, todos en una lista.",
+  "num_followers": 184806,
   "original_name": "This Is Jack Harlow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zt46gAAAAADse+G/EAU3rlEk/KkGgkYQ",
+  "snapshot_id": "Zt+MAAAAAADOdKtIhGQ1aRuU0RZMrxBt",
   "tracks": [
     {
       "added_at": null,
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         }
       ],
-      "duration_ms": 178968,
-      "name": "OUT FRONT",
-      "url": "https://open.spotify.com/track/6ukXwaLZoMjeqA98ZdKLtq"
+      "duration_ms": 142945,
+      "name": "2STYLISH",
+      "url": "https://open.spotify.com/track/0qoxr5PUFbDqGLHIpEnWAr"
     },
     {
       "added_at": null,
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         }
       ],
-      "duration_ms": 142945,
-      "name": "2STYLISH",
-      "url": "https://open.spotify.com/track/0qoxr5PUFbDqGLHIpEnWAr"
+      "duration_ms": 178968,
+      "name": "OUT FRONT",
+      "url": "https://open.spotify.com/track/6ukXwaLZoMjeqA98ZdKLtq"
     },
     {
       "added_at": null,
@@ -895,26 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Leaf Wraps",
-        "url": "https://open.spotify.com/album/5VfR15U7wjAA20ChsFd3Rg"
-      },
-      "artists": [
-        {
-          "name": "The Homies",
-          "url": "https://open.spotify.com/artist/66V7EUpZplR1MuUbYHZATV"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 213040,
-      "name": "Leaf Wraps",
-      "url": "https://open.spotify.com/track/4f0IS8GKd6RHx0UlvSyJLK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "a liquid breakfast",
         "url": "https://open.spotify.com/album/45QlLBsyMU0XRqw3cxdTKb"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 152533,
       "name": "Comic Sans (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/2dQn5I17lUiQ8ZpjqMh3TU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Leaf Wraps",
+        "url": "https://open.spotify.com/album/5VfR15U7wjAA20ChsFd3Rg"
+      },
+      "artists": [
+        {
+          "name": "The Homies",
+          "url": "https://open.spotify.com/artist/66V7EUpZplR1MuUbYHZATV"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 213040,
+      "name": "Leaf Wraps",
+      "url": "https://open.spotify.com/track/4f0IS8GKd6RHx0UlvSyJLK"
     }
   ],
   "unique_name": "This Is Jack Harlow",

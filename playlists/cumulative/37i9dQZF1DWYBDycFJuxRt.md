@@ -2,9 +2,9 @@
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: あいみょん \*👉 <a href="https://spice.eplus.jp/articles/331675">連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: あいみょん \*👉 <a href="https://spice.eplus.jp/articles/331872?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>をSPICEでチェック!
 
-7,716 songs - 19 day 19 hr 0 min
+7,718 songs - 19 day 19 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -388,6 +388,7 @@
 | [Attention](https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Attention](https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E) | 4:37 | 2023-06-20 | 2023-06-28 |
 | [ATTENTION](https://open.spotify.com/track/1ocrIc0ammblLTOuHfXG3d) | [TAXON](https://open.spotify.com/artist/5P4QZuZGQD2FjvNF6lk49r), [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [ATTENTION](https://open.spotify.com/album/6yyYGRIhEHSd0RW8EU2dO0) | 3:06 | 2024-02-21 | 2024-02-28 |
 | [ATTENTION](https://open.spotify.com/track/6BKZksyx56fu08aIr57r2U) | [TAXON](https://open.spotify.com/artist/5P4QZuZGQD2FjvNF6lk49r), [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [ATTENTION](https://open.spotify.com/album/69hkeaytszlZEHuniaXeJH) | 3:06 | 2024-02-20 | 2024-02-22 |
+| [Audacious](https://open.spotify.com/track/53OqecARVvVCUTjL1yg0sq) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Audacious](https://open.spotify.com/album/6tApXgjCNnGOeB176tJiKV) | 3:23 | 2024-09-11 |  |
 | [Aurora](https://open.spotify.com/track/2GJopQANWr7aQ4CKRMXEBr) | [Ayumi Hamasaki](https://open.spotify.com/artist/3Mvc8kRgr8LRYYgvFmlZqn) | [Aurora](https://open.spotify.com/album/2TsPHXBSYx4vLleOc4PFyM) | 4:37 | 2024-06-25 | 2024-07-03 |
 | [aurora](https://open.spotify.com/track/3TfFyMlTwIvoPBOBvzK4Fy) | [showmore](https://open.spotify.com/artist/5iISQR00Eel3mcB8eKlsRt) | [Δ](https://open.spotify.com/album/4p9YWsADpDBsYl2RfOqW18) | 5:07 | 2023-08-15 | 2023-08-17 |
 | [aurora](https://open.spotify.com/track/5EzFxshZyFFCkhqLh8Gif7) | [showmore](https://open.spotify.com/artist/5iISQR00Eel3mcB8eKlsRt) | [Δ](https://open.spotify.com/album/3TZsIPMjf82EUqMjNb9BG6) | 5:07 | 2023-08-16 | 2023-08-23 |
@@ -4672,7 +4673,8 @@
 | [UNDER THE WAVE](https://open.spotify.com/track/6sOVCgxzCq57zoUcJEK1Kk) | [FUNNYSTREET](https://open.spotify.com/artist/5H9ffxwTyQrD4QqsDR2kHb) | [UNDER THE WAVE](https://open.spotify.com/album/7F36N5XPx2cpigAf8EoAd4) | 2:51 | 2023-08-08 | 2023-08-16 |
 | [Under You](https://open.spotify.com/track/1x0NfY1A4q8eKN3k4X8sfE) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Under You](https://open.spotify.com/album/2XD1xj7tbNEsiwmwyXAKu8) | 3:39 | 2023-05-17 | 2023-05-24 |
 | [Underground](https://open.spotify.com/track/5TuNcDzMwrff3qAtQk6fVP) | [Dios](https://open.spotify.com/artist/6dPVBimWWkHAzbOcfOmOYu) | [Underground](https://open.spotify.com/album/65rPk8s8Glj3rJxAa98hZV) | 3:01 | 2023-06-14 | 2023-06-21 |
-| [Underground \- DJ CHARI Remix](https://open.spotify.com/track/1xD4nF0R0q6jMPRsTzUEjN) | [f5ve](https://open.spotify.com/artist/6aiCF0pornq0j11wvKG4dy), [DJ CHARI](https://open.spotify.com/artist/5vEZZrTMbKhrd5Mgs37m8p), [STARKIDS](https://open.spotify.com/artist/4QMLZWebJZrhxGZsvctR4x) | [Underground Remixes](https://open.spotify.com/album/0Of0aJtTXm48nEHYNSwCJz) | 2:37 | 2024-09-11 |  |
+| [Underground \(DJ CHARI x French Cries Remix\) feat\. STARKIDS](https://open.spotify.com/track/57HEfRvuASDRJK0WL8JYB2) | [f5ve](https://open.spotify.com/artist/6aiCF0pornq0j11wvKG4dy), [STARKIDS](https://open.spotify.com/artist/4QMLZWebJZrhxGZsvctR4x), [DJ CHARI](https://open.spotify.com/artist/5vEZZrTMbKhrd5Mgs37m8p) | [Underground Remixes](https://open.spotify.com/album/6k61JCdFcGlGZcbKvrCE5l) | 2:33 | 2024-09-11 |  |
+| [Underground \- DJ CHARI Remix](https://open.spotify.com/track/1xD4nF0R0q6jMPRsTzUEjN) | [f5ve](https://open.spotify.com/artist/6aiCF0pornq0j11wvKG4dy), [DJ CHARI](https://open.spotify.com/artist/5vEZZrTMbKhrd5Mgs37m8p), [STARKIDS](https://open.spotify.com/artist/4QMLZWebJZrhxGZsvctR4x) | [Underground Remixes](https://open.spotify.com/album/0Of0aJtTXm48nEHYNSwCJz) | 2:37 | 2024-09-11 | 2024-09-12 |
 | [Uneasy \(feat\. Lil Wayne\)](https://open.spotify.com/track/6dotY5Ubbm5cLKBm6KQkZI) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [World Music Radio](https://open.spotify.com/album/0cX1ODY38Nd2LuijmfuSjF) | 5:21 | 2023-08-22 | 2023-08-30 |
 | [UNFORGIVEN \(feat\. Nile Rodgers\)](https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:02 | 2023-05-02 | 2023-05-10 |
 | [UNFORGIVEN \- Japanese ver.](https://open.spotify.com/track/07Kq5cRJkYNieu1rge3PZX) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [ナイル・ロジャース](https://open.spotify.com/artist/7sKzaEQMrAbbO3Q3cTzazQ), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UNFORGIVEN \(Japanese ver.\)](https://open.spotify.com/album/28unbkaJvfdbM5zffw9vpc) | 3:02 | 2023-08-08 | 2023-08-16 |

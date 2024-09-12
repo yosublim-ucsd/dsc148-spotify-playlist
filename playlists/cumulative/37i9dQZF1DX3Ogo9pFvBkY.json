@@ -142,7 +142,7 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 198874,
       "name": "A New Beginning",
       "url": "https://open.spotify.com/track/76kqnBNN1urGgshpBXLUP2"
@@ -322,7 +322,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 147702,
       "name": "Abditory",
       "url": "https://open.spotify.com/track/0sHAK04QYBqPdPL5BUP4aS"
@@ -956,7 +956,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 191408,
       "name": "Armeria",
       "url": "https://open.spotify.com/track/2zUmppqCsTJOlD6u9tWB2s"
@@ -4509,6 +4509,24 @@
     },
     {
       "album": {
+        "name": "Ephemeral",
+        "url": "https://open.spotify.com/album/5dnYf5b2s2I9PuDVadJx0j"
+      },
+      "artists": [
+        {
+          "name": "Zephyrical",
+          "url": "https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170483,
+      "name": "Ephemeral",
+      "url": "https://open.spotify.com/track/09umuNRfuF4eDY7wZtOif3"
+    },
+    {
+      "album": {
         "name": "Epiphany",
         "url": "https://open.spotify.com/album/3QhvbpLgFT2pHsxdirqLW7"
       },
@@ -4664,7 +4682,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 146440,
       "name": "Eternalistic",
       "url": "https://open.spotify.com/track/28vgg790lTkfhaBgsSAaqq"
@@ -5168,7 +5186,7 @@
       ],
       "date_added": "2021-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 178000,
       "name": "Floating",
       "url": "https://open.spotify.com/track/1pyjUJ03bvKKsPojBFeEQi"
@@ -5928,6 +5946,24 @@
       "duration_ms": 310367,
       "name": "Golden Chant",
       "url": "https://open.spotify.com/track/14BDuD5GagBNTMrHekdBzM"
+    },
+    {
+      "album": {
+        "name": "Golden Light",
+        "url": "https://open.spotify.com/album/6Z6UZC8sbuk9letEz6guVe"
+      },
+      "artists": [
+        {
+          "name": "J. Cartwright",
+          "url": "https://open.spotify.com/artist/4DQYUQ3tze2DqQtZUkXdcC"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148541,
+      "name": "Golden Light",
+      "url": "https://open.spotify.com/track/3XEHb3M4yb6CXyXfakxsyC"
     },
     {
       "album": {
@@ -7588,7 +7624,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 187500,
       "name": "Leende",
       "url": "https://open.spotify.com/track/1pgRARnMLlL5Chg1y4L6Uo"
@@ -9053,6 +9089,24 @@
     },
     {
       "album": {
+        "name": "Nightlight",
+        "url": "https://open.spotify.com/album/76gd0kfRgqaCTKWXA7B1cF"
+      },
+      "artists": [
+        {
+          "name": "DEX 1200",
+          "url": "https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164347,
+      "name": "Nightlight",
+      "url": "https://open.spotify.com/track/2g70d5Z9qEF34gLIqxWMg3"
+    },
+    {
+      "album": {
         "name": "Nightscape",
         "url": "https://open.spotify.com/album/4mgoGgYqfrfTi6Ozdl73OE"
       },
@@ -9244,7 +9298,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 297062,
       "name": "Not Giving Up",
       "url": "https://open.spotify.com/track/5f3WC3rzG1MAZrxODeYrll"
@@ -10792,7 +10846,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 153038,
       "name": "Reticence",
       "url": "https://open.spotify.com/track/1VLKeNy3qUe8MNvejjTtoy"
@@ -10832,6 +10886,24 @@
       "duration_ms": 188000,
       "name": "Returning",
       "url": "https://open.spotify.com/track/0jNDmSQYJjV7bi6cMgpDqB"
+    },
+    {
+      "album": {
+        "name": "Reuniquill",
+        "url": "https://open.spotify.com/album/5T86uG0cEnoEd3hvX2emmE"
+      },
+      "artists": [
+        {
+          "name": "Silent Motions",
+          "url": "https://open.spotify.com/artist/0DehDfZmlIYGmO3om2pASu"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "Reuniquill",
+      "url": "https://open.spotify.com/track/2gPqiiRljROHRoXszPkAYu"
     },
     {
       "album": {
@@ -12358,7 +12430,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 154878,
       "name": "Stillheten",
       "url": "https://open.spotify.com/track/45NfL9LFXSj9WpuHkfixOR"
@@ -12920,7 +12992,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 209500,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/0ZGteveKS9XMCxDtjehnG3"
@@ -13118,7 +13190,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 211387,
       "name": "The Day is Done",
       "url": "https://open.spotify.com/track/5cVKlN0vdJiXiwc3F4HcYX"
@@ -13172,7 +13244,7 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 173333,
       "name": "The Gift",
       "url": "https://open.spotify.com/track/1GF0zNrSjuQiw2Y16cYqnW"
@@ -14480,7 +14552,7 @@
       ],
       "date_added": "2020-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 256125,
       "name": "W.E.",
       "url": "https://open.spotify.com/track/3SDO8hL0wQ3Dxr6NN1CUbH"
@@ -14624,7 +14696,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 160800,
       "name": "Water Poem",
       "url": "https://open.spotify.com/track/0pAwPXSKwaf4YqR448MtkI"

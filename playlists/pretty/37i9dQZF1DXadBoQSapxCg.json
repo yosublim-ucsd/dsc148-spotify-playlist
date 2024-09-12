@@ -1,6 +1,6 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 312874,
+  "num_followers": 312900,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
@@ -75,6 +75,26 @@
     {
       "added_at": "2024-09-06 03:01:00",
       "album": {
+        "name": "Afrodite",
+        "url": "https://open.spotify.com/album/1WckKAD1PVdVcLmdN6XLJT"
+      },
+      "artists": [
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        },
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        }
+      ],
+      "duration_ms": 201264,
+      "name": "Afrodite",
+      "url": "https://open.spotify.com/track/3DAlIobCDPVvUkyDZv5oVp"
+    },
+    {
+      "added_at": "2024-09-06 03:01:00",
+      "album": {
         "name": "Cigana",
         "url": "https://open.spotify.com/album/5zujMhc1kwFLiZYBRlwz6m"
       },
@@ -103,26 +123,6 @@
       "duration_ms": 265753,
       "name": "Cigana",
       "url": "https://open.spotify.com/track/2GBwxkBpmhs9UoDxsBeP4a"
-    },
-    {
-      "added_at": "2024-09-06 03:01:00",
-      "album": {
-        "name": "Afrodite",
-        "url": "https://open.spotify.com/album/1WckKAD1PVdVcLmdN6XLJT"
-      },
-      "artists": [
-        {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
-        },
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        }
-      ],
-      "duration_ms": 201264,
-      "name": "Afrodite",
-      "url": "https://open.spotify.com/track/3DAlIobCDPVvUkyDZv5oVp"
     },
     {
       "added_at": "2024-09-06 03:01:00",

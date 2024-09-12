@@ -1,6 +1,6 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 204414,
+  "num_followers": 204437,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
-        "name": "Buy You Flowers",
-        "url": "https://open.spotify.com/album/7sA5pNCvur9QC43OY9GxWa"
-      },
-      "artists": [
-        {
-          "name": "Dawson Hollow",
-          "url": "https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R"
-        }
-      ],
-      "duration_ms": 142091,
-      "name": "Buy You Flowers",
-      "url": "https://open.spotify.com/track/2N7XOhYGsS7AOLylimvyYM"
-    },
-    {
-      "added_at": "2024-07-17 04:46:48",
-      "album": {
         "name": "Carry Me",
         "url": "https://open.spotify.com/album/4xjAeY5J7q6iHlRWEF07b0"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 177658,
       "name": "What A Mystery",
       "url": "https://open.spotify.com/track/2FYSON92zpz3iiDAmG2IMg"
+    },
+    {
+      "added_at": "2024-07-17 04:46:48",
+      "album": {
+        "name": "Buy You Flowers",
+        "url": "https://open.spotify.com/album/7sA5pNCvur9QC43OY9GxWa"
+      },
+      "artists": [
+        {
+          "name": "Dawson Hollow",
+          "url": "https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R"
+        }
+      ],
+      "duration_ms": 142091,
+      "name": "Buy You Flowers",
+      "url": "https://open.spotify.com/track/2N7XOhYGsS7AOLylimvyYM"
     },
     {
       "added_at": "2024-07-17 04:46:48",
@@ -843,6 +843,22 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/063TozOtRM8T8I7fGpLNsG"
+      },
+      "artists": [
+        {
+          "name": "Vic Lucas",
+          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
+        }
+      ],
+      "duration_ms": 178387,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/2CrAx85yam4L1C45LImiHv"
+    },
+    {
+      "added_at": "2024-07-17 04:46:48",
+      "album": {
         "name": "Scared to Love",
         "url": "https://open.spotify.com/album/3aHs0OCAi9GGyQYXSth8ff"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 203268,
       "name": "Just Too Good",
       "url": "https://open.spotify.com/track/23hRAQiS0XqnGIz1Oyb1gR"
-    },
-    {
-      "added_at": "2024-07-17 04:46:48",
-      "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/063TozOtRM8T8I7fGpLNsG"
-      },
-      "artists": [
-        {
-          "name": "Vic Lucas",
-          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
-        }
-      ],
-      "duration_ms": 178387,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/2CrAx85yam4L1C45LImiHv"
     },
     {
       "added_at": "2024-07-17 04:46:48",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
-        "name": "A Red, Red Rose",
-        "url": "https://open.spotify.com/album/3Zl4tzDaW9wCK62lEyRhuf"
-      },
-      "artists": [
-        {
-          "name": "Keith & Kristyn Getty",
-          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
-        }
-      ],
-      "duration_ms": 203699,
-      "name": "A Red, Red Rose",
-      "url": "https://open.spotify.com/track/1g9FU9nMRWjpA1HLsdNNKg"
-    },
-    {
-      "added_at": "2024-07-17 04:46:48",
-      "album": {
         "name": "If Only",
         "url": "https://open.spotify.com/album/5GOzSUBrOb6PaXHMQQixr2"
       },
@@ -1195,18 +1179,18 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
-        "name": "SURREAL",
-        "url": "https://open.spotify.com/album/3gEUKNl13U2UbK5kkpPEkf"
+        "name": "A Red, Red Rose",
+        "url": "https://open.spotify.com/album/3Zl4tzDaW9wCK62lEyRhuf"
       },
       "artists": [
         {
-          "name": "Phil J.",
-          "url": "https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9"
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
         }
       ],
-      "duration_ms": 174409,
-      "name": "SURREAL",
-      "url": "https://open.spotify.com/track/2aWCddpZS2rHZyXlqpHt4H"
+      "duration_ms": 203699,
+      "name": "A Red, Red Rose",
+      "url": "https://open.spotify.com/track/1g9FU9nMRWjpA1HLsdNNKg"
     },
     {
       "added_at": "2024-07-17 04:46:48",
@@ -1223,6 +1207,22 @@
       "duration_ms": 227661,
       "name": "Te Quiero Cerca",
       "url": "https://open.spotify.com/track/480guoEvEQRmEjsmq35ypE"
+    },
+    {
+      "added_at": "2024-07-17 04:46:48",
+      "album": {
+        "name": "SURREAL",
+        "url": "https://open.spotify.com/album/3gEUKNl13U2UbK5kkpPEkf"
+      },
+      "artists": [
+        {
+          "name": "Phil J.",
+          "url": "https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9"
+        }
+      ],
+      "duration_ms": 174409,
+      "name": "SURREAL",
+      "url": "https://open.spotify.com/track/2aWCddpZS2rHZyXlqpHt4H"
     },
     {
       "added_at": "2024-07-17 04:46:48",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
-        "name": "I do",
-        "url": "https://open.spotify.com/album/1eQrGC1qAwhxa9YWpbT37E"
-      },
-      "artists": [
-        {
-          "name": "Caitie Beasley",
-          "url": "https://open.spotify.com/artist/6N4bMAZfwfIeL0qUuahHyF"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "I do",
-      "url": "https://open.spotify.com/track/1HbTfQjhpqXxmedDXkPNoa"
-    },
-    {
-      "added_at": "2024-07-17 04:46:48",
-      "album": {
         "name": "For the Soul",
         "url": "https://open.spotify.com/album/1fccj2iThKlGrHdCq8lNbd"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 199298,
       "name": "Remind You",
       "url": "https://open.spotify.com/track/7BxtjrmedRHDYCTEk50zkt"
+    },
+    {
+      "added_at": "2024-07-17 04:46:48",
+      "album": {
+        "name": "I do",
+        "url": "https://open.spotify.com/album/1eQrGC1qAwhxa9YWpbT37E"
+      },
+      "artists": [
+        {
+          "name": "Caitie Beasley",
+          "url": "https://open.spotify.com/artist/6N4bMAZfwfIeL0qUuahHyF"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "I do",
+      "url": "https://open.spotify.com/track/1HbTfQjhpqXxmedDXkPNoa"
     },
     {
       "added_at": "2024-07-17 04:46:48",
@@ -1459,26 +1459,6 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
-        "name": "Can we\u2026?",
-        "url": "https://open.spotify.com/album/6xhNzjJT8YnzxQLhtspRYX"
-      },
-      "artists": [
-        {
-          "name": "Christian Singleton",
-          "url": "https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE"
-        },
-        {
-          "name": "JSteph",
-          "url": "https://open.spotify.com/artist/0MCSKdSCK4aujv5BeTJPj3"
-        }
-      ],
-      "duration_ms": 143812,
-      "name": "Can we\u2026?",
-      "url": "https://open.spotify.com/track/3vC0yAxytKeY7cteZV63QL"
-    },
-    {
-      "added_at": "2024-07-17 04:46:48",
-      "album": {
         "name": "What a Heart Is Beating For",
         "url": "https://open.spotify.com/album/4lFRCkeRRBG4nnzmeckIyU"
       },
@@ -1515,6 +1495,26 @@
       "duration_ms": 180240,
       "name": "The One Out The Friendzone - Kevin Aleksander Remix",
       "url": "https://open.spotify.com/track/25EsAdUP8d3ENGnlKsKcOc"
+    },
+    {
+      "added_at": "2024-07-17 04:46:48",
+      "album": {
+        "name": "Can we\u2026?",
+        "url": "https://open.spotify.com/album/6xhNzjJT8YnzxQLhtspRYX"
+      },
+      "artists": [
+        {
+          "name": "Christian Singleton",
+          "url": "https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE"
+        },
+        {
+          "name": "JSteph",
+          "url": "https://open.spotify.com/artist/0MCSKdSCK4aujv5BeTJPj3"
+        }
+      ],
+      "duration_ms": 143812,
+      "name": "Can we\u2026?",
+      "url": "https://open.spotify.com/track/3vC0yAxytKeY7cteZV63QL"
     },
     {
       "added_at": "2024-07-17 04:46:48",
@@ -1703,26 +1703,18 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
-        "name": "Sunday Morning",
-        "url": "https://open.spotify.com/album/1RsK0Gb8POxRt08RCVD0mD"
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/2BnDCywIU8HvFlFZqkSOAj"
       },
       "artists": [
         {
-          "name": "Reblah",
-          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
-        },
-        {
-          "name": "Jenge",
-          "url": "https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT"
-        },
-        {
-          "name": "TBabz",
-          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
+          "name": "Steven Curtis Chapman",
+          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
         }
       ],
-      "duration_ms": 154020,
-      "name": "Sunday Morning",
-      "url": "https://open.spotify.com/track/7JIYxxvG7GIh8X9Rgt983V"
+      "duration_ms": 318933,
+      "name": "Go There With You",
+      "url": "https://open.spotify.com/track/66DrxT38CFyYPTciuHP3aR"
     }
   ],
   "unique_name": "Higher Love",

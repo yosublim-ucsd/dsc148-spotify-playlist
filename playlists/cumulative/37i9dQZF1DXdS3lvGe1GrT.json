@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: harf.",
+  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Keni Titus",
   "name": "Fresh Finds Folk ",
   "tracks": [
     {
@@ -214,7 +214,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 221226,
       "name": "5432",
       "url": "https://open.spotify.com/track/61WtMwI3kLeFRt1Q0WRWvm"
@@ -2376,7 +2376,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 176000,
       "name": "Beverly Laurel Motor Hotel",
       "url": "https://open.spotify.com/track/6gvO69n1DoTLfeNFz70wHJ"
@@ -5548,7 +5548,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 396134,
       "name": "Demons",
       "url": "https://open.spotify.com/track/7pbcnvtJd5xKgYil9gRf6Z"
@@ -7635,6 +7635,24 @@
     },
     {
       "album": {
+        "name": "juliet",
+        "url": "https://open.spotify.com/album/3bO8aWJrQzvUZE4kaAvaWh"
+      },
+      "artists": [
+        {
+          "name": "Keni Titus",
+          "url": "https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169840,
+      "name": "feels like i'm changing",
+      "url": "https://open.spotify.com/track/61urfuiBZq0LfgfdZxFb05"
+    },
+    {
+      "album": {
         "name": "Feline Wave Race",
         "url": "https://open.spotify.com/album/4ESu7CGDAaKvCpDET7ZdHm"
       },
@@ -8608,6 +8626,24 @@
       "duration_ms": 229593,
       "name": "Get In Touch With You",
       "url": "https://open.spotify.com/track/3w9nnYMDuH26c4KgUdKIeN"
+    },
+    {
+      "album": {
+        "name": "Get-Go",
+        "url": "https://open.spotify.com/album/1ZkdGFemrVA53TyXujwC5f"
+      },
+      "artists": [
+        {
+          "name": "His His",
+          "url": "https://open.spotify.com/artist/2TMWd2oE1MAzSt4V10lnVO"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113600,
+      "name": "Get-Go",
+      "url": "https://open.spotify.com/track/6bg7tfA7D8VHhsDdbhsnuU"
     },
     {
       "album": {
@@ -9882,6 +9918,24 @@
       "duration_ms": 308440,
       "name": "Hells Backbone",
       "url": "https://open.spotify.com/track/60If0mTq3NspqIFEL07ww9"
+    },
+    {
+      "album": {
+        "name": "Her",
+        "url": "https://open.spotify.com/album/3YsLlWQ9dzG0dFQQZO1jEv"
+      },
+      "artists": [
+        {
+          "name": "The American Dawn",
+          "url": "https://open.spotify.com/artist/3EXC0gkpntFvtLS1R0yf11"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214086,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/2vlkTkPqdATznKHu9gD2c1"
     },
     {
       "album": {
@@ -11266,7 +11320,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 228040,
       "name": "i. Thank God I Have The Songs",
       "url": "https://open.spotify.com/track/0FHfrdZDVeK9P9xIsv6351"
@@ -14202,7 +14256,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 204306,
       "name": "Maria",
       "url": "https://open.spotify.com/track/5gz0ZEFQcUq8m5Q1clxpp4"
@@ -15206,6 +15260,24 @@
       "duration_ms": 161548,
       "name": "mundane",
       "url": "https://open.spotify.com/track/1mRGGMgNmToBG2arFHFhru"
+    },
+    {
+      "album": {
+        "name": "Mushrooms",
+        "url": "https://open.spotify.com/album/1GfpD8vxZgfB8YyDLRcM6F"
+      },
+      "artists": [
+        {
+          "name": "Skydaddy",
+          "url": "https://open.spotify.com/artist/3D0kSdrilgR4uCW5smIzEX"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202739,
+      "name": "Mushrooms",
+      "url": "https://open.spotify.com/track/5snn7VQMZEe41kKoREQf88"
     },
     {
       "album": {
@@ -16968,7 +17040,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 230500,
       "name": "Paper Planes",
       "url": "https://open.spotify.com/track/4iTyAQ2QxKbU1crRidu4QA"
@@ -17116,6 +17188,24 @@
       "duration_ms": 187839,
       "name": "Perfect Delusions",
       "url": "https://open.spotify.com/track/5r81Q3IJfTUC1h3jCX9uHt"
+    },
+    {
+      "album": {
+        "name": "Pessimist Babe",
+        "url": "https://open.spotify.com/album/10GO6N8nXJ4njbiKJ1X1oe"
+      },
+      "artists": [
+        {
+          "name": "Maia Toakley",
+          "url": "https://open.spotify.com/artist/1B1J5gTh5qjRAykIQMX8Ka"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195157,
+      "name": "Pessimist Babe",
+      "url": "https://open.spotify.com/track/43XzTSasS0Arc1dgldOMyb"
     },
     {
       "album": {
@@ -17808,6 +17898,24 @@
       "duration_ms": 215333,
       "name": "Realize It All",
       "url": "https://open.spotify.com/track/1RUbvCZkpXrtSoGUE1WCHz"
+    },
+    {
+      "album": {
+        "name": "amy allen",
+        "url": "https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb"
+      },
+      "artists": [
+        {
+          "name": "Amy Allen",
+          "url": "https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164065,
+      "name": "reason to forgive",
+      "url": "https://open.spotify.com/track/37WikNaTXg1WdspSS5oHkI"
     },
     {
       "album": {
@@ -18654,7 +18762,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 102771,
       "name": "Scenic Drive",
       "url": "https://open.spotify.com/track/47f8UU39m2Kh70AiRz58hX"
@@ -19859,6 +19967,24 @@
     },
     {
       "album": {
+        "name": "Spooky",
+        "url": "https://open.spotify.com/album/6PDhjBmxVy7exXHUCwjnnS"
+      },
+      "artists": [
+        {
+          "name": "soft star",
+          "url": "https://open.spotify.com/artist/5EpWCM5quwzO5FPjkDxB8E"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235802,
+      "name": "Spooky",
+      "url": "https://open.spotify.com/track/6ocgYwn6Z0iw3OZkAPhJKO"
+    },
+    {
+      "album": {
         "name": "Falcon's Heart",
         "url": "https://open.spotify.com/album/5UjqFUJAO7U1R9HSMOlQYb"
       },
@@ -19892,6 +20018,24 @@
       "duration_ms": 214565,
       "name": "Spotless Lamb",
       "url": "https://open.spotify.com/track/6NohYizPxdmPknxgdll2sa"
+    },
+    {
+      "album": {
+        "name": "spring will come",
+        "url": "https://open.spotify.com/album/08gU4cgs5HdjAZvFINhRat"
+      },
+      "artists": [
+        {
+          "name": "Nessa McHugh",
+          "url": "https://open.spotify.com/artist/3ctqz5L44tn6Rx0kPHNct6"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176500,
+      "name": "spring will come",
+      "url": "https://open.spotify.com/track/5E7N0nr63wL3A5lWwlMxHq"
     },
     {
       "album": {
@@ -21891,6 +22035,24 @@
     },
     {
       "album": {
+        "name": "The Upside",
+        "url": "https://open.spotify.com/album/5O7kvXJ8oCFIp03N2NNBtj"
+      },
+      "artists": [
+        {
+          "name": "Raavi",
+          "url": "https://open.spotify.com/artist/2TOe8Cf1hnlJTQWcTStQ64"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122845,
+      "name": "The Upside",
+      "url": "https://open.spotify.com/track/6nQB4Rrniz1gXtgwHRvR2l"
+    },
+    {
+      "album": {
         "name": "The Valley",
         "url": "https://open.spotify.com/album/1e9fhFErBqJBNU7QffUgjT"
       },
@@ -22284,7 +22446,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 201081,
       "name": "Tie Your Shoes",
       "url": "https://open.spotify.com/track/3948zS8tTq9wjS4p6iV3mP"
@@ -22428,7 +22590,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 207866,
       "name": "to love me",
       "url": "https://open.spotify.com/track/36QORZpibXC1szSTXKPk7i"

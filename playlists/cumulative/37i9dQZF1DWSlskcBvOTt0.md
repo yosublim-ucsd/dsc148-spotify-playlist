@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-740 songs - 2 day 18 hr 58 min
+741 songs - 2 day 19 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Another Disaster](https://open.spotify.com/track/607sdsDqekZqncZatOMu4x) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq) | [Another Disaster](https://open.spotify.com/album/5byRdBEonyHtaP8IwaGaFU) | 4:50 | 2023-11-17 | 2023-12-22 |
 | [Another Planet](https://open.spotify.com/track/1aFaTUEi3pNVmPvHJ4rBTp) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [Sun Ra](https://open.spotify.com/artist/0tIODqvzGUoEaK26rK4pvX) | [Another Planet EP](https://open.spotify.com/album/5rX6PK39rcuG2pjYWWA528) | 4:07 | 2021-09-17 | 2022-07-29 |
 | [Antares](https://open.spotify.com/track/1Wtzml7KMFbC3Iq5v1AeUK) | [Rokazer](https://open.spotify.com/artist/0kBZmuhkAKIdZE5YVkdhqV) | [Antares / Stay](https://open.spotify.com/album/2skTHY010QHQpI328uliT0) | 4:48 | 2022-04-11 | 2022-10-06 |
+| [Anywhere](https://open.spotify.com/track/3qSeBxnHuBGBOi89SFb6Tf) | [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [ChopLife SoundSystem](https://open.spotify.com/artist/6s93Sx8tUcsqIWtCJJzQMw), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Anywhere](https://open.spotify.com/album/12uDqYnWnF6wUirHfkjysQ) | 2:26 | 2024-09-06 |  |
 | [ARCO](https://open.spotify.com/track/2jmW1L3I4VjAS5wMf1qpug) | [DAVID AUGUST](https://open.spotify.com/artist/1cS5EoXVqz7aON00AkVBBA) | [ARCO](https://open.spotify.com/album/2AKxzmw5yfZSNJvIwLidWY) | 4:55 | 2023-07-07 | 2023-08-11 |
 | [ASA](https://open.spotify.com/track/5CBTFqctj3Pcepk96hM0vF) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh) | [ASA](https://open.spotify.com/album/2luwSaYCJk1SRCYkhkZs88) | 3:48 | 2024-04-19 | 2024-05-26 |
 | [Asa](https://open.spotify.com/track/1dWWpbUHni0mmv9aaVLhcH) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Asa](https://open.spotify.com/album/2ZqR3WdAJcLqzrAnrfTqyf) | 4:37 | 2024-07-12 |  |
@@ -513,7 +514,7 @@
 | [Palo Santo](https://open.spotify.com/track/6SFGnnxX5VUgpZJiGSKjx7) | [Fiin](https://open.spotify.com/artist/1epLtVgUJz01HSPZbdAT1X) | [Palo Santo](https://open.spotify.com/album/5S2BwJuzdryUUs6sCUuvwC) | 4:36 | 2021-05-07 | 2022-04-23 |
 | [Palomita](https://open.spotify.com/track/5xWzVhDpu6hpcoiO2euL8u) | [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e) | [Endup](https://open.spotify.com/album/4pQWoTRfKzUqH1Zw61czo6) | 8:03 | 2022-07-01 | 2023-09-30 |
 | [Pamparis](https://open.spotify.com/track/7irDOF7IcDhfoQ14kFdpOu) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Pampa EP](https://open.spotify.com/album/10LQNgzRkFqvJwFhKOxTjB) | 8:11 | 2022-02-25 | 2022-07-27 |
-| [Pangea \(feat\. Nathan Nicholson\)](https://open.spotify.com/track/1w80DqxaVfyjXaIo4nL3wr) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Pangea](https://open.spotify.com/album/4xc2sZ2CFUKNLdhuivcP0o) | 4:01 | 2024-03-22 |  |
+| [Pangea \(feat\. Nathan Nicholson\)](https://open.spotify.com/track/1w80DqxaVfyjXaIo4nL3wr) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Pangea](https://open.spotify.com/album/4xc2sZ2CFUKNLdhuivcP0o) | 4:01 | 2024-03-22 | 2024-09-12 |
 | [Paradise \- Chambord Remix](https://open.spotify.com/track/5RzQkSgX1TjGUtnzgFOkzY) | [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Chambord](https://open.spotify.com/artist/5S5jGEkiJMWHt6XYasZOLJ) | [Paradise \(Chambord Remix\)](https://open.spotify.com/album/4rHpK2TRa26iJnqVDgc9Q5) | 4:17 | 2024-04-26 | 2024-06-29 |
 | [Pastel](https://open.spotify.com/track/0QWG9OtA0oHnpQH0iCxicr) | [Theo Gramal](https://open.spotify.com/artist/2cUMjbWPmVjM6hHs18dYbc) | [Pastel](https://open.spotify.com/album/7GORODzuiM1sFSosuxQL5v) | 6:11 | 2024-01-19 | 2024-01-27 |
 | [Patika](https://open.spotify.com/track/0enM3iefQE7ad53N2wLnl5) | [Hezarfen](https://open.spotify.com/artist/0dPdqLZLFoyW8btQ3Z9vZx) | [Patika](https://open.spotify.com/album/0TG92bm0MKdGNIsuPWNwzJ) | 5:33 | 2022-03-11 | 2022-07-19 |

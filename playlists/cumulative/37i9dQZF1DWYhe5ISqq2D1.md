@@ -4,7 +4,7 @@
 
 > たった独りでメロディーと言葉を紡ぐシンガーソングライター。Cover: 石崎ひゅーい
 
-192 songs - 12 hr 13 min
+193 songs - 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Paradise Forever](https://open.spotify.com/track/3uOLzqlQhPqlgLJJxDJ7kD) | [Manatsu Nagahara](https://open.spotify.com/artist/7eiPZxPx3fflpweXb8NbnJ) | [Paradise Forever](https://open.spotify.com/album/34xVl32E3CiI11lzqO6cH2) | 3:58 | 2024-07-30 | 2024-09-04 |
 | [Petillant](https://open.spotify.com/track/1L4uVdBzKUt1so7Pgys21k) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [Love Deluxe](https://open.spotify.com/album/21F5oKkCpE0DuOlA7S3KCl) | 3:32 | 2024-09-03 |  |
 | [Pioneer \- 2024 mined ver.](https://open.spotify.com/track/6Jt0NgRCBuFvCUBSgqmXh2) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [Pioneer \(2024 mined ver.\)](https://open.spotify.com/album/5SspPJZnGKmHBF3FG2gQeh) | 3:52 | 2024-09-03 | 2024-09-11 |
+| [plum](https://open.spotify.com/track/7DnLX5NYns6rw9IqPcyDNg) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [plum](https://open.spotify.com/album/4X1QUjwxbC4aatDurNoZDr) | 3:20 | 2024-09-11 |  |
 | [Rainy Driver](https://open.spotify.com/track/7svKQMA0pJZmeYejScMa3G) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [凡才](https://open.spotify.com/album/2wKpub8y8xRkPboyfBvsEM) | 2:48 | 2024-07-02 |  |
 | [Rose](https://open.spotify.com/track/5AAh7GlAjrLsWYp7FR5kz8) | [坂口喜咲](https://open.spotify.com/artist/5wKDbgHJzrvOoHNYa5M35P) | [FRUITS ALBUM](https://open.spotify.com/album/71DasQerzgtcrHz8ElUWqr) | 3:40 | 2024-07-09 | 2024-07-17 |
 | [Season2](https://open.spotify.com/track/0nSSWsW2QtNx0yTsxUIqUK) | [Huwie Ishizaki](https://open.spotify.com/artist/4NZJF1Qong0IAWBRE2EjTr) | [Season2](https://open.spotify.com/album/467nocuCKclNbJFDAPzEIj) | 3:59 | 2024-09-10 |  |
@@ -115,7 +116,7 @@
 | [コズミックランデヴー](https://open.spotify.com/track/2ZRCKkUtZucYkBnescrtvP) | [楓 幸枝](https://open.spotify.com/artist/2VCpkbUqhSU1FmZFmtozdn) | [コズミックランデヴー](https://open.spotify.com/album/0WQ5cbgonaFywVnvmYPDdi) | 3:38 | 2024-07-30 | 2024-08-07 |
 | [サクラキミワタシ](https://open.spotify.com/track/4bM9itWEyMkLUSd2VeROAd) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [サクラキミワタシ](https://open.spotify.com/album/4gOlBkqSeyF4uZPey6aZAd) | 3:22 | 2024-07-02 |  |
 | [サラダステーション](https://open.spotify.com/track/2l0Mtli9Vi9JyXpcMdAjlk) | [kiss the gambler](https://open.spotify.com/artist/2b7i2PuYkVMs9fAbKpLlCZ) | [サラダステーション](https://open.spotify.com/album/7woGN0kSv27obF3sbopRu7) | 5:19 | 2024-07-30 | 2024-08-07 |
-| [ジェラシー](https://open.spotify.com/track/1D8CQdoa0S86dLwbSXkHq9) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [ジェラシー](https://open.spotify.com/album/0XDavETO2DCvqnciTzdwMj) | 2:46 | 2024-07-26 |  |
+| [ジェラシー](https://open.spotify.com/track/1D8CQdoa0S86dLwbSXkHq9) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [ジェラシー](https://open.spotify.com/album/0XDavETO2DCvqnciTzdwMj) | 2:46 | 2024-07-26 | 2024-09-12 |
 | [スイートメモリー](https://open.spotify.com/track/1ogO3SlbAhuba46ecZ05v8) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [スイートメモリー](https://open.spotify.com/album/5Zxr5RKkTWrkrMmSULCNQD) | 3:19 | 2024-07-09 |  |
 | [タイムパラドックス](https://open.spotify.com/track/3jNwPOqdPvQIr5dRT0hzgY) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [タイムパラドックス](https://open.spotify.com/album/4cHdtiNVgGR80HprOsOdiK) | 3:46 | 2024-07-02 |  |
 | [ダーリン](https://open.spotify.com/track/3mkRGh8v7AOH31yQ38SVdt) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [ダーリン](https://open.spotify.com/album/3nxQoSo8OVyL1wvdiW9Vva) | 2:28 | 2024-07-02 |  |

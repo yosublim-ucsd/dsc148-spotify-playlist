@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX77dWUhnBuLs.md) - [plain]
 
 > Los grandes éxitos de Emmanuel y Mijares en un mismo lugar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,116 likes - 49 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,226 likes - 49 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX77dWUhnBuLs.md) - [plain]
 | 27 | [Se Me Olvidó Olvidarte](https://open.spotify.com/track/3PQW9eCAHJm5RXMTRk84la) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p), [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ), [Lucero Mijares](https://open.spotify.com/artist/3NRfvOGwdqnzGWuHE15nGW) | [Se Me Olvidó Olvidarte](https://open.spotify.com/album/7reK9X26hjUaOSzBKaKqoW) | 3:54 |
 | 28 | [El Día Que Puedas](https://open.spotify.com/track/5eHMSmVfVni0JW1nZ15pUH) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Solo Exitos](https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1) | 4:07 |
 | 29 | [Cuatro Veces Amor \- En Vivo](https://open.spotify.com/track/2EmwqWL6GnDB2v0mm4QBj2) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p), [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [El Encuentro](https://open.spotify.com/album/4iBEwn186Zj1LAnVncCsXa) | 3:41 |
-| 30 | [Pero Que Necesidad](https://open.spotify.com/track/5tiHTqiusHcF4JUR51cgjw) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Los Dúo \(Deluxe\)](https://open.spotify.com/album/2SoR7JnS8nWS32pUvMugpF) | 5:42 |
+| 30 | [Pero Que Necesidad](https://open.spotify.com/track/5tiHTqiusHcF4JUR51cgjw) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Los Dúo \- Deluxe](https://open.spotify.com/album/2SoR7JnS8nWS32pUvMugpF) | 5:42 |
 | 31 | [Cuando me vaya \- En vivo](https://open.spotify.com/track/77idoT8onagHBmAAITmnI8) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Sinfónico Desde el Palacio de Bellas Artes \(En Vivo\)](https://open.spotify.com/album/2SyOyd1McFv5i3m58pU1iD) | 6:03 |
 | 32 | [Pobre Diablo](https://open.spotify.com/track/1BoYWVsb8PqT38YbqysRvr) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Diez Años Cantandole Al Amor](https://open.spotify.com/album/7m0U4kGO3H4QUw5W75HsQ8) | 4:06 |
 | 33 | [En Otra Vida \- En Vivo Los Estudios Churubusco México DF/2011](https://open.spotify.com/track/0xi11udkxLviLO8FTZ5432) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576), [Gian Marco](https://open.spotify.com/artist/2gDqGAadPIPiA7LtmNn74g) | [Acústico En Vivo Edición Especial](https://open.spotify.com/album/3UT78KFaMa9cr1hdSSWUUl) | 3:39 |

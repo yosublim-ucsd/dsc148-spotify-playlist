@@ -1,6 +1,6 @@
 {
   "description": "A playlist oficial do Carona Podpah, Original Spotify com o <a href=\"spotify:show:1GLSDdk9CDEwziGNIlnb8a\">Podpah</a>",
-  "num_followers": 8732,
+  "num_followers": 8730,
   "original_name": "Carona Podpah com m\u00fasica",
   "owner": {
     "name": "Spotify",
@@ -1188,12 +1188,12 @@
       },
       "artists": [
         {
-          "name": "Grand\u00e3o Vaqueiro",
-          "url": "https://open.spotify.com/artist/1gveCzOmKMjqEMwuB5kKNH"
-        },
-        {
           "name": "NATTAN",
           "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+        },
+        {
+          "name": "Grand\u00e3o Vaqueiro",
+          "url": "https://open.spotify.com/artist/1gveCzOmKMjqEMwuB5kKNH"
         }
       ],
       "duration_ms": 156330,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWC2vWhv5hnK.md) - [plain]
 
 > Enjoy music from "Kaiju No\. 8"! アニメ「怪獣8号」の世界をプレイリストで。©防衛隊第３部隊 ©松本直也／集英社
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,713 likes - 71 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,733 likes - 71 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWC2vWhv5hnK.md) - [plain]
 | 11 | [Kaiju Rock](https://open.spotify.com/track/4CrpBOqf4Q9xMIoxOEBPHB) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb), [THE KAIJU BAND](https://open.spotify.com/artist/7fKZU7edSQKr0OmV9LOhED), [佐々木貴之](https://open.spotify.com/artist/0wpZyhoX4YPPBzREJ4AjOj), [新井和輝](https://open.spotify.com/artist/0bgarbMTMeCI4ttU5YuUZM), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [Kaiju Rock](https://open.spotify.com/album/70NuKdtcOhE8H02T0yslkN) | 1:19 |
 | 12 | [Prologue](https://open.spotify.com/track/2Ngyj6vTkOEmGHS93YuKfU) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb) | [怪獣8号のテーマ 〜「怪獣8号」オリジナル・サウンドトラック \-Pre Release\-](https://open.spotify.com/album/4Z7Os2zgNVRSk28ds8dY16) | 1:06 |
 | 13 | [Mina Attacks](https://open.spotify.com/track/0tv2oCSiJKaqQJM7EIBD9Y) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb) | [相模原討伐作戦 〜「怪獣8号」オリジナル・サウンドトラック \-Pre Release\-](https://open.spotify.com/album/0Yq0iuzrVkBqRNJufDpQVT) | 2:12 |
-| 14 | [保科のテーマ](https://open.spotify.com/track/1snJjlCKewQXDHZdAzQjoR) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb), [LEO](https://open.spotify.com/artist/1WxBBV8qyCtx1H0f5oP2dS), [中村滉己](https://open.spotify.com/artist/6OzkQUkv6ClZ1iS1jsCgGG), [MON/KU](https://open.spotify.com/artist/4SpTEmOFzoqGQYI53t13Df) | [相模原討伐作戦 〜「怪獣8号」オリジナル・サウンドトラック \-Pre Release\-](https://open.spotify.com/album/0Yq0iuzrVkBqRNJufDpQVT) | 2:35 |
+| 14 | [保科のテーマ](https://open.spotify.com/track/1snJjlCKewQXDHZdAzQjoR) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb), [LEO](https://open.spotify.com/artist/5z0S6khZtjz0rl1K9Om9A6), [中村滉己](https://open.spotify.com/artist/6OzkQUkv6ClZ1iS1jsCgGG), [MON/KU](https://open.spotify.com/artist/4SpTEmOFzoqGQYI53t13Df) | [相模原討伐作戦 〜「怪獣8号」オリジナル・サウンドトラック \-Pre Release\-](https://open.spotify.com/album/0Yq0iuzrVkBqRNJufDpQVT) | 2:35 |
 | 15 | [防衛隊のテーマ](https://open.spotify.com/track/4QjfqDZZBsMGXFVeesU5TK) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb) | [怪獣8号のテーマ 〜「怪獣8号」オリジナル・サウンドトラック \-Pre Release\-](https://open.spotify.com/album/4Z7Os2zgNVRSk28ds8dY16) | 0:43 |
 | 16 | [怪獣討伐](https://open.spotify.com/track/2tEiU80rdS1gprQo5f6vAw) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb) | [怪獣8号のテーマ 〜「怪獣8号」オリジナル・サウンドトラック \-Pre Release\-](https://open.spotify.com/album/4Z7Os2zgNVRSk28ds8dY16) | 0:17 |
 | 17 | [\#12【最終回‼】MC福西さん×ミナ役瀬戸さん×レノ役加藤さん「そうです。私が緊張ほどきガールです。」](https://open.spotify.com/episode/3b2p8p58c7cUF9KIX5mLKu) | [アニメ『怪獣８号』ポッドキャスト討伐作戦‐Podcast Operation Kaiju No.8](https://open.spotify.com/show/3BjUYFTeSdyOPImcX6GvNt) | [アニメ『怪獣８号』ポッドキャスト討伐作戦‐Podcast Operation Kaiju No.8](https://open.spotify.com/album/3BjUYFTeSdyOPImcX6GvNt) | 53:46 |

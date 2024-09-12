@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/56TfkgG1GwqeXQWuWY5Odw.md) - [plain]
 
 ### [PlayStation 30th Anniversary](https://open.spotify.com/playlist/56TfkgG1GwqeXQWuWY5Odw)
 
-> These songs are the fan favorites that gamers have listened to the most over the past three decades.
+> These songs are the player favorites that gamers have listened to the most over the past three decades.
 
-[PlayStation®️](https://open.spotify.com/user/playstation_music) - 22,479 likes - 100 songs - 6 hr 35 min
+[PlayStation®️](https://open.spotify.com/user/playstation_music) - 23,131 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/56TfkgG1GwqeXQWuWY5Odw.md) - [plain]
 | 99 | [Wonderwall \- Remastered](https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 4:18 |
 | 100 | [Fantastic Voyage](https://open.spotify.com/track/5vpDsiVqiZLRwKAzQO708k) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T) | [It Takes a Thief](https://open.spotify.com/album/72hHodJKJV6cbyA5etLyNb) | 5:34 |
 
-Snapshot ID: `AAABZW4b2IiBca2ardEwDLmvVFvEgtwW`
+Snapshot ID: `AAABZ6danrs34+W3LN8DQd9ml9Zw/QvJ`

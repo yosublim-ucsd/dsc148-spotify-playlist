@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: MENDEZ, Soarito
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,957 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,972 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,10 +71,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 61 | [Agradeço](https://open.spotify.com/track/5GXJgx3zcR3m3ihcqbFBLv) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G), [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [ORDEM & PROGRESSO](https://open.spotify.com/album/3zKhMzs8Hw9XQJVYovzcW1) | 3:29 |
 | 62 | [SINAIS](https://open.spotify.com/track/509CUFQtHu6p5PULNw6D5t) | [MUN](https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr), [Catarina Filipe](https://open.spotify.com/artist/4OhowqCgfvzq9Fc2qcSbc8), [Cunha Beats](https://open.spotify.com/artist/7D094QVmbEkI7e2df0VUq7) | [SINAIS](https://open.spotify.com/album/5loNhqIOFE1wsdKVF8Yd6K) | 3:26 |
 | 63 | [Estrela Maior](https://open.spotify.com/track/1gT41VulD8jslM993Ah8hF) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Estrela Maior](https://open.spotify.com/album/2am7Y7OsEJDh8SOU0w3mz0) | 4:25 |
-| 64 | [Convite](https://open.spotify.com/track/3MLsf0fu4JmIywg73Bs2ej) | [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3) | [Par Perfeito](https://open.spotify.com/album/6TjeNnMWpVYxdNwxOndcLP) | 2:33 |
-| 65 | [Loko Loko](https://open.spotify.com/track/5H3HOVGluYwAntdrrHJrc0) | [Instinto 26](https://open.spotify.com/artist/0XrDy5XUWRVcD4O8sSyzEV) | [Priceless](https://open.spotify.com/album/7yYTfAq087THV6jKKbUSvf) | 3:29 |
-| 66 | [Accelerate](https://open.spotify.com/track/6F037kDQvzNndsorXVKT8h) | [Florito](https://open.spotify.com/artist/6ktGTLhw33T6F08my0ZRQH) | [Accelerate](https://open.spotify.com/album/5VAYpc1ZX3S3ZDfQguDqNm) | 2:59 |
-| 67 | [GUUD](https://open.spotify.com/track/2Ug7Rcy1Cd9Z0y4RqGgPNk) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [GUUD](https://open.spotify.com/album/0sLx2K52GRknvH8AwYBsDI) | 2:48 |
+| 64 | [Loko Loko](https://open.spotify.com/track/5H3HOVGluYwAntdrrHJrc0) | [Instinto 26](https://open.spotify.com/artist/0XrDy5XUWRVcD4O8sSyzEV) | [Priceless](https://open.spotify.com/album/7yYTfAq087THV6jKKbUSvf) | 3:29 |
+| 65 | [Convite](https://open.spotify.com/track/3MLsf0fu4JmIywg73Bs2ej) | [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3) | [Par Perfeito](https://open.spotify.com/album/6TjeNnMWpVYxdNwxOndcLP) | 2:33 |
+| 66 | [GUUD](https://open.spotify.com/track/2Ug7Rcy1Cd9Z0y4RqGgPNk) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [GUUD](https://open.spotify.com/album/0sLx2K52GRknvH8AwYBsDI) | 2:48 |
+| 67 | [Accelerate](https://open.spotify.com/track/6F037kDQvzNndsorXVKT8h) | [Florito](https://open.spotify.com/artist/6ktGTLhw33T6F08my0ZRQH) | [Accelerate](https://open.spotify.com/album/5VAYpc1ZX3S3ZDfQguDqNm) | 2:59 |
 | 68 | [Fica Pra Depois](https://open.spotify.com/track/3W8iBFxQEgAnWYXjx8hrzI) | [Yang](https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci) | [Fica Pra Depois](https://open.spotify.com/album/67vj2sSj58MBegTAI4DZog) | 3:33 |
 | 69 | [Lugar Favorito](https://open.spotify.com/track/52gj1McTFcNmZRlIq3EpO3) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Lugar Favorito](https://open.spotify.com/album/0mTmzf6wbxNPsRbDNOotHU) | 3:17 |
 | 70 | [Partimento](https://open.spotify.com/track/2YEA1CW7n1Aa60AU2Vp9gM) | [Supa Squad](https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw) | [Partimento](https://open.spotify.com/album/4BpbosuLKEhM0UTvKHcAF7) | 1:53 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Alaina Castillo. The essential tracks, all in one playlist.",
-  "num_followers": 4499,
+  "num_followers": 4500,
   "original_name": "This Is Alaina Castillo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zt46gAAAAAB/WmBPZhta/GxexP902Tyn",
+  "snapshot_id": "Zt+MAAAAAACEPH6/1WJ33dKkDWceVwtX",
   "tracks": [
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "valentine's day",
-        "url": "https://open.spotify.com/album/7BR4fDyQhhDVUwPEgiSOZ8"
+        "name": "running water",
+        "url": "https://open.spotify.com/album/6toh8B1dKilWkXSEs0Snpq"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 188560,
-      "name": "valentine's day",
-      "url": "https://open.spotify.com/track/5eIZxYFOZUcCMS0g79r7Qq"
+      "duration_ms": 184633,
+      "name": "running water",
+      "url": "https://open.spotify.com/track/1b90ddTdItBsl0s6cNzKzS"
     },
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "running water",
-        "url": "https://open.spotify.com/album/6toh8B1dKilWkXSEs0Snpq"
+        "name": "valentine's day",
+        "url": "https://open.spotify.com/album/7BR4fDyQhhDVUwPEgiSOZ8"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 184633,
-      "name": "running water",
-      "url": "https://open.spotify.com/track/1b90ddTdItBsl0s6cNzKzS"
+      "duration_ms": 188560,
+      "name": "valentine's day",
+      "url": "https://open.spotify.com/track/5eIZxYFOZUcCMS0g79r7Qq"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "the voicenotes",
-        "url": "https://open.spotify.com/album/0u0XemQDEsApGFSI1Yr379"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 235480,
-      "name": "sad girl",
-      "url": "https://open.spotify.com/track/7ib0T2MIS6ewqgoCbKs93q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "fantasies",
         "url": "https://open.spotify.com/album/1fXLA70J3p1vNZ03dmzZR3"
       },
@@ -491,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "the voicenotes",
+        "url": "https://open.spotify.com/album/0u0XemQDEsApGFSI1Yr379"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 235480,
+      "name": "sad girl",
+      "url": "https://open.spotify.com/track/7ib0T2MIS6ewqgoCbKs93q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "antisocial butterfly",
         "url": "https://open.spotify.com/album/3VjohCH9QginYIiEP4E5Mg"
       },
@@ -503,22 +503,6 @@
       "duration_ms": 87579,
       "name": "back to you",
       "url": "https://open.spotify.com/track/2Ir0OrTswTZwU7BUMVV620"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "wishlist",
-        "url": "https://open.spotify.com/album/4lR8d9biYRzivkjR2YNxN8"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 203093,
-      "name": "wishlist",
-      "url": "https://open.spotify.com/track/5A7c78ufMETDVBmFADFMJv"
     },
     {
       "added_at": null,
@@ -551,6 +535,22 @@
       "duration_ms": 183200,
       "name": "fantasies",
       "url": "https://open.spotify.com/track/4IBBzp0rA5acqhx8oGbYQM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "wishlist",
+        "url": "https://open.spotify.com/album/4lR8d9biYRzivkjR2YNxN8"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 203093,
+      "name": "wishlist",
+      "url": "https://open.spotify.com/track/5A7c78ufMETDVBmFADFMJv"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Relax to the sweet and soothing sound of Bossa nova.",
-  "num_followers": 222878,
+  "num_followers": 223116,
   "original_name": "Bossa Chill",
   "owner": {
     "name": "Spotify",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-08-26 14:22:17",
       "album": {
-        "name": "Verano",
-        "url": "https://open.spotify.com/album/3dLSXvdHsZjBxYfeeZDeHX"
-      },
-      "artists": [
-        {
-          "name": "Vendla",
-          "url": "https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu"
-        }
-      ],
-      "duration_ms": 172162,
-      "name": "Verano",
-      "url": "https://open.spotify.com/track/7qf9r2CuRXyskGOqx2Smen"
-    },
-    {
-      "added_at": "2024-08-26 14:22:17",
-      "album": {
         "name": "Cosme Velho",
         "url": "https://open.spotify.com/album/1CiCakkArtq2iGnRBGcDv0"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 173943,
       "name": "Cosme Velho",
       "url": "https://open.spotify.com/track/4t1NtFuhpXCjdKFsNTfNdJ"
+    },
+    {
+      "added_at": "2024-08-26 14:22:17",
+      "album": {
+        "name": "Verano",
+        "url": "https://open.spotify.com/album/3dLSXvdHsZjBxYfeeZDeHX"
+      },
+      "artists": [
+        {
+          "name": "Vendla",
+          "url": "https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu"
+        }
+      ],
+      "duration_ms": 172162,
+      "name": "Verano",
+      "url": "https://open.spotify.com/track/7qf9r2CuRXyskGOqx2Smen"
     },
     {
       "added_at": "2024-08-26 14:22:17",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-08-26 14:22:17",
       "album": {
+        "name": "P\u00e3o de A\u00e7\u00facar",
+        "url": "https://open.spotify.com/album/5qz7sVtLSdqQatSiYUpJWM"
+      },
+      "artists": [
+        {
+          "name": "El Equipo Del Norte",
+          "url": "https://open.spotify.com/artist/3NlkrQ9iKKw6VZlWr0lk0U"
+        }
+      ],
+      "duration_ms": 222402,
+      "name": "P\u00e3o de A\u00e7\u00facar",
+      "url": "https://open.spotify.com/track/07ZdqvJ37JIGrbybE2iVPZ"
+    },
+    {
+      "added_at": "2024-08-26 14:22:17",
+      "album": {
         "name": "Foz Do Igua\u00e7u",
         "url": "https://open.spotify.com/album/0hlEiLyA2RkFQhTkPu33AW"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 223755,
       "name": "I Left My Heart in San Francisco",
       "url": "https://open.spotify.com/track/6p2Qx196CPwdcxKE7eweKi"
-    },
-    {
-      "added_at": "2024-08-26 14:22:17",
-      "album": {
-        "name": "P\u00e3o de A\u00e7\u00facar",
-        "url": "https://open.spotify.com/album/5qz7sVtLSdqQatSiYUpJWM"
-      },
-      "artists": [
-        {
-          "name": "El Equipo Del Norte",
-          "url": "https://open.spotify.com/artist/3NlkrQ9iKKw6VZlWr0lk0U"
-        }
-      ],
-      "duration_ms": 222402,
-      "name": "P\u00e3o de A\u00e7\u00facar",
-      "url": "https://open.spotify.com/track/07ZdqvJ37JIGrbybE2iVPZ"
     },
     {
       "added_at": "2024-08-26 14:22:17",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-08-26 14:22:17",
       "album": {
-        "name": "Way Down Low",
-        "url": "https://open.spotify.com/album/0QYQcbZ8cNGQxH198kfycR"
-      },
-      "artists": [
-        {
-          "name": "Kat Edmonson",
-          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
-        }
-      ],
-      "duration_ms": 284426,
-      "name": "What Else Can I Do",
-      "url": "https://open.spotify.com/track/1u9dkvRtjzkL8ritczRXsX"
-    },
-    {
-      "added_at": "2024-08-26 14:22:17",
-      "album": {
         "name": "Sunset Martini",
         "url": "https://open.spotify.com/album/7wVdlgOP7d5mRO64fvspVb"
       },
@@ -1091,18 +1075,18 @@
     {
       "added_at": "2024-08-26 14:22:17",
       "album": {
-        "name": "Smile For Me",
-        "url": "https://open.spotify.com/album/72ZwSwMfG0MpC7xMGellJK"
+        "name": "Way Down Low",
+        "url": "https://open.spotify.com/album/0QYQcbZ8cNGQxH198kfycR"
       },
       "artists": [
         {
-          "name": "James Jackson Jazz Trio",
-          "url": "https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ"
+          "name": "Kat Edmonson",
+          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
         }
       ],
-      "duration_ms": 210965,
-      "name": "A Bossa for Love",
-      "url": "https://open.spotify.com/track/2EQ3JTfKv0W4bfpwp7Q0N4"
+      "duration_ms": 284426,
+      "name": "What Else Can I Do",
+      "url": "https://open.spotify.com/track/1u9dkvRtjzkL8ritczRXsX"
     },
     {
       "added_at": "2024-08-26 14:22:17",
@@ -1119,6 +1103,22 @@
       "duration_ms": 215699,
       "name": "C\u00e9u Tropical",
       "url": "https://open.spotify.com/track/1tQDRcG0bYg7zYvTkN98RY"
+    },
+    {
+      "added_at": "2024-08-26 14:22:17",
+      "album": {
+        "name": "Smile For Me",
+        "url": "https://open.spotify.com/album/72ZwSwMfG0MpC7xMGellJK"
+      },
+      "artists": [
+        {
+          "name": "James Jackson Jazz Trio",
+          "url": "https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ"
+        }
+      ],
+      "duration_ms": 210965,
+      "name": "A Bossa for Love",
+      "url": "https://open.spotify.com/track/2EQ3JTfKv0W4bfpwp7Q0N4"
     },
     {
       "added_at": "2024-08-26 14:22:17",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-08-26 14:22:17",
       "album": {
-        "name": "Cora\u00e7\u00e3o Madura",
-        "url": "https://open.spotify.com/album/1iTU5adC5AOkPaI0UmTuOC"
-      },
-      "artists": [
-        {
-          "name": "T\u00e9o Freire",
-          "url": "https://open.spotify.com/artist/2Es2xfsRli23jk1UwvIej3"
-        }
-      ],
-      "duration_ms": 120810,
-      "name": "Cora\u00e7\u00e3o Madura",
-      "url": "https://open.spotify.com/track/3TTQRX8ppicWmBSLDWs5u6"
-    },
-    {
-      "added_at": "2024-08-26 14:22:17",
-      "album": {
         "name": "Amore e Complicado",
         "url": "https://open.spotify.com/album/6TL3WUqoiC9WFyisEvobcZ"
       },
@@ -1235,18 +1219,18 @@
     {
       "added_at": "2024-08-26 14:22:17",
       "album": {
-        "name": "Every Time We Say Goodbye",
-        "url": "https://open.spotify.com/album/40tqbMBeLUEkJsVN6VKJB0"
+        "name": "Cora\u00e7\u00e3o Madura",
+        "url": "https://open.spotify.com/album/1iTU5adC5AOkPaI0UmTuOC"
       },
       "artists": [
         {
-          "name": "Yorkville",
-          "url": "https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn"
+          "name": "T\u00e9o Freire",
+          "url": "https://open.spotify.com/artist/2Es2xfsRli23jk1UwvIej3"
         }
       ],
-      "duration_ms": 213931,
-      "name": "So In Love",
-      "url": "https://open.spotify.com/track/2su3D4cHfobQLqFUdYc3xs"
+      "duration_ms": 120810,
+      "name": "Cora\u00e7\u00e3o Madura",
+      "url": "https://open.spotify.com/track/3TTQRX8ppicWmBSLDWs5u6"
     },
     {
       "added_at": "2024-08-26 14:22:17",
@@ -1267,6 +1251,22 @@
     {
       "added_at": "2024-08-26 14:22:17",
       "album": {
+        "name": "Every Time We Say Goodbye",
+        "url": "https://open.spotify.com/album/40tqbMBeLUEkJsVN6VKJB0"
+      },
+      "artists": [
+        {
+          "name": "Yorkville",
+          "url": "https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn"
+        }
+      ],
+      "duration_ms": 213931,
+      "name": "So In Love",
+      "url": "https://open.spotify.com/track/2su3D4cHfobQLqFUdYc3xs"
+    },
+    {
+      "added_at": "2024-08-26 14:22:17",
+      "album": {
         "name": "Liljeholmsviken",
         "url": "https://open.spotify.com/album/6wrG9MReEESMfnXLh3daCe"
       },
@@ -1279,22 +1279,6 @@
       "duration_ms": 262408,
       "name": "Liljeholmsviken",
       "url": "https://open.spotify.com/track/3Gw26kNDJHfTtHJQOzI1h4"
-    },
-    {
-      "added_at": "2024-08-26 14:22:17",
-      "album": {
-        "name": "Boomerang",
-        "url": "https://open.spotify.com/album/2ii5yi8SZ42Aq4J0q2FoCb"
-      },
-      "artists": [
-        {
-          "name": "Filip Benedetto",
-          "url": "https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7"
-        }
-      ],
-      "duration_ms": 207339,
-      "name": "Boomerang",
-      "url": "https://open.spotify.com/track/04lqMwyxNNijODnl84A1Wq"
     },
     {
       "added_at": "2024-08-26 14:22:17",
@@ -1315,6 +1299,22 @@
     {
       "added_at": "2024-08-26 14:22:17",
       "album": {
+        "name": "Boomerang",
+        "url": "https://open.spotify.com/album/2ii5yi8SZ42Aq4J0q2FoCb"
+      },
+      "artists": [
+        {
+          "name": "Filip Benedetto",
+          "url": "https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7"
+        }
+      ],
+      "duration_ms": 207339,
+      "name": "Boomerang",
+      "url": "https://open.spotify.com/track/04lqMwyxNNijODnl84A1Wq"
+    },
+    {
+      "added_at": "2024-08-26 14:22:17",
+      "album": {
         "name": "Haven't We Met?",
         "url": "https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx"
       },
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-08-26 14:22:17",
       "album": {
-        "name": "Press\u00e1gio",
-        "url": "https://open.spotify.com/album/7LhUawCpzHAfH4MZ3zBLlb"
-      },
-      "artists": [
-        {
-          "name": "Marcio Philomena",
-          "url": "https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2"
-        }
-      ],
-      "duration_ms": 397571,
-      "name": "Press\u00e1gio",
-      "url": "https://open.spotify.com/track/5BdyZTa9TXXdLfOvvwhgGH"
-    },
-    {
-      "added_at": "2024-08-26 14:22:17",
-      "album": {
         "name": "Dindi",
         "url": "https://open.spotify.com/album/77UUjAXL27yMKkyWzam0xL"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 161270,
       "name": "Dindi",
       "url": "https://open.spotify.com/track/0v2LWjMTUcwl49SLxflj9n"
+    },
+    {
+      "added_at": "2024-08-26 14:22:17",
+      "album": {
+        "name": "Press\u00e1gio",
+        "url": "https://open.spotify.com/album/7LhUawCpzHAfH4MZ3zBLlb"
+      },
+      "artists": [
+        {
+          "name": "Marcio Philomena",
+          "url": "https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2"
+        }
+      ],
+      "duration_ms": 397571,
+      "name": "Press\u00e1gio",
+      "url": "https://open.spotify.com/track/5BdyZTa9TXXdLfOvvwhgGH"
     },
     {
       "added_at": "2024-08-26 14:22:17",
@@ -1391,6 +1391,22 @@
       "duration_ms": 263536,
       "name": "Nature Boy",
       "url": "https://open.spotify.com/track/127WDW2MedpO5IpOITKrk8"
+    },
+    {
+      "added_at": "2024-08-26 14:22:17",
+      "album": {
+        "name": "Vamos l\u00e1",
+        "url": "https://open.spotify.com/album/3vHSQw8zTsTt6OTuixhgr1"
+      },
+      "artists": [
+        {
+          "name": "Dave Oakley trio",
+          "url": "https://open.spotify.com/artist/6HOLnnkgNpWVVjZRELl9lc"
+        }
+      ],
+      "duration_ms": 152500,
+      "name": "Vamos l\u00e1",
+      "url": "https://open.spotify.com/track/1eKV8P2IzVa3ISSvbYHIKX"
     },
     {
       "added_at": "2024-08-26 14:22:17",
@@ -1439,22 +1455,6 @@
       "duration_ms": 191156,
       "name": "Just Chill and Breathe",
       "url": "https://open.spotify.com/track/1IibcoE7Dfr7n8AmdnW2EN"
-    },
-    {
-      "added_at": "2024-08-26 14:22:17",
-      "album": {
-        "name": "Vamos l\u00e1",
-        "url": "https://open.spotify.com/album/3vHSQw8zTsTt6OTuixhgr1"
-      },
-      "artists": [
-        {
-          "name": "Dave Oakley trio",
-          "url": "https://open.spotify.com/artist/6HOLnnkgNpWVVjZRELl9lc"
-        }
-      ],
-      "duration_ms": 152500,
-      "name": "Vamos l\u00e1",
-      "url": "https://open.spotify.com/track/1eKV8P2IzVa3ISSvbYHIKX"
     },
     {
       "added_at": "2024-08-26 14:22:17",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-08-26 14:22:17",
       "album": {
-        "name": "I Mean To Say",
-        "url": "https://open.spotify.com/album/3zPx8FFBdTdMDI91doYfa8"
-      },
-      "artists": [
-        {
-          "name": "Mornington",
-          "url": "https://open.spotify.com/artist/1oC6eOjjixPdeV0HvUAviS"
-        }
-      ],
-      "duration_ms": 217194,
-      "name": "I Mean To Say",
-      "url": "https://open.spotify.com/track/7w2wEyWPyUg7NhB2YARJB0"
-    },
-    {
-      "added_at": "2024-08-26 14:22:17",
-      "album": {
         "name": "Dindi",
         "url": "https://open.spotify.com/album/4knjVWNKQlrrsXpfPImum0"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 250000,
       "name": "I didn't know what time it was",
       "url": "https://open.spotify.com/track/2zAErc7IF0XI38zPfaXipU"
+    },
+    {
+      "added_at": "2024-08-26 14:22:17",
+      "album": {
+        "name": "I Mean To Say",
+        "url": "https://open.spotify.com/album/3zPx8FFBdTdMDI91doYfa8"
+      },
+      "artists": [
+        {
+          "name": "Mornington",
+          "url": "https://open.spotify.com/artist/1oC6eOjjixPdeV0HvUAviS"
+        }
+      ],
+      "duration_ms": 217194,
+      "name": "I Mean To Say",
+      "url": "https://open.spotify.com/track/7w2wEyWPyUg7NhB2YARJB0"
     },
     {
       "added_at": "2024-08-26 14:22:17",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-08-26 14:22:17",
       "album": {
-        "name": "Aquele Frevo Ax\u00e9",
-        "url": "https://open.spotify.com/album/5jhcmxv1YOORIADhphS2SE"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 232293,
-      "name": "Aquele Frevo Ax\u00e9",
-      "url": "https://open.spotify.com/track/0Fd5qH2K7UsQh4MU3MB17m"
-    },
-    {
-      "added_at": "2024-08-26 14:22:17",
-      "album": {
         "name": "Bel\u00e9m",
         "url": "https://open.spotify.com/album/3I0E51aqvTUvvTIoDsgW5H"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 173507,
       "name": "Bel\u00e9m",
       "url": "https://open.spotify.com/track/44xJSi2r0VcAAGIkuVeeow"
+    },
+    {
+      "added_at": "2024-08-26 14:22:17",
+      "album": {
+        "name": "Aquele Frevo Ax\u00e9",
+        "url": "https://open.spotify.com/album/5jhcmxv1YOORIADhphS2SE"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 232293,
+      "name": "Aquele Frevo Ax\u00e9",
+      "url": "https://open.spotify.com/track/0Fd5qH2K7UsQh4MU3MB17m"
     },
     {
       "added_at": "2024-08-26 14:22:17",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2024-08-26 14:22:17",
       "album": {
-        "name": "Nara Dez Anos Depois",
-        "url": "https://open.spotify.com/album/14vNVSBK4R5XpKUEUOTjvd"
-      },
-      "artists": [
-        {
-          "name": "Nara Le\u00e3o",
-          "url": "https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3"
-        }
-      ],
-      "duration_ms": 137800,
-      "name": "Medita\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/1KcrfXWVdStS6UtSxmzGps"
-    },
-    {
-      "added_at": "2024-08-26 14:22:17",
-      "album": {
         "name": "Effortlessly",
         "url": "https://open.spotify.com/album/0g04IdZKalfueB9Nr1F0fl"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 297653,
       "name": "Effortlessly",
       "url": "https://open.spotify.com/track/75VrNlO6GbJJHByrwJkpgr"
+    },
+    {
+      "added_at": "2024-08-26 14:22:17",
+      "album": {
+        "name": "Nara Dez Anos Depois",
+        "url": "https://open.spotify.com/album/14vNVSBK4R5XpKUEUOTjvd"
+      },
+      "artists": [
+        {
+          "name": "Nara Le\u00e3o",
+          "url": "https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3"
+        }
+      ],
+      "duration_ms": 137800,
+      "name": "Medita\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/1KcrfXWVdStS6UtSxmzGps"
     },
     {
       "added_at": "2024-08-26 14:22:17",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2024-08-26 14:22:17",
       "album": {
-        "name": "Maneiro",
-        "url": "https://open.spotify.com/album/2sYgZHT6yCVpbu9omNzrEt"
-      },
-      "artists": [
-        {
-          "name": "Eric Merlino",
-          "url": "https://open.spotify.com/artist/1vL7K80AJZnr8Y10olI96q"
-        }
-      ],
-      "duration_ms": 243751,
-      "name": "Maneiro",
-      "url": "https://open.spotify.com/track/5Ibs7bA78QLwMylLggsZpi"
-    },
-    {
-      "added_at": "2024-08-26 14:22:17",
-      "album": {
         "name": "Saudade",
         "url": "https://open.spotify.com/album/6fdG50OGUX9nr0ZW9xMywu"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 160847,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/5BRVuZtqoGuHuqMZjahOe7"
+    },
+    {
+      "added_at": "2024-08-26 14:22:17",
+      "album": {
+        "name": "Maneiro",
+        "url": "https://open.spotify.com/album/2sYgZHT6yCVpbu9omNzrEt"
+      },
+      "artists": [
+        {
+          "name": "Eric Merlino",
+          "url": "https://open.spotify.com/artist/1vL7K80AJZnr8Y10olI96q"
+        }
+      ],
+      "duration_ms": 243751,
+      "name": "Maneiro",
+      "url": "https://open.spotify.com/track/5Ibs7bA78QLwMylLggsZpi"
     },
     {
       "added_at": "2024-08-26 14:22:17",
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2024-08-26 14:22:17",
       "album": {
-        "name": "O Qu\u00e9 e Amar",
-        "url": "https://open.spotify.com/album/5aQw0jC4z1hDAqlb5Tcngu"
-      },
-      "artists": [
-        {
-          "name": "Xavier Mendoza",
-          "url": "https://open.spotify.com/artist/7nhIjZfce2dcORg7gWGp73"
-        }
-      ],
-      "duration_ms": 173306,
-      "name": "O Qu\u00e9 e Amar",
-      "url": "https://open.spotify.com/track/23yWKIqw0l0oYRYWE2wJpe"
-    },
-    {
-      "added_at": "2024-08-26 14:22:17",
-      "album": {
         "name": "Seu Sorriso",
         "url": "https://open.spotify.com/album/7t8vEsRo1BMzxObmka9RKs"
       },
@@ -1987,6 +1971,22 @@
     {
       "added_at": "2024-08-26 14:22:17",
       "album": {
+        "name": "O Qu\u00e9 e Amar",
+        "url": "https://open.spotify.com/album/5aQw0jC4z1hDAqlb5Tcngu"
+      },
+      "artists": [
+        {
+          "name": "Xavier Mendoza",
+          "url": "https://open.spotify.com/artist/7nhIjZfce2dcORg7gWGp73"
+        }
+      ],
+      "duration_ms": 173306,
+      "name": "O Qu\u00e9 e Amar",
+      "url": "https://open.spotify.com/track/23yWKIqw0l0oYRYWE2wJpe"
+    },
+    {
+      "added_at": "2024-08-26 14:22:17",
+      "album": {
         "name": "The Cole Porter Mix",
         "url": "https://open.spotify.com/album/1NGLLk5vTXlmHbIGGPWG1I"
       },
@@ -1999,22 +1999,6 @@
       "duration_ms": 216320,
       "name": "Easy To Love",
       "url": "https://open.spotify.com/track/5tu4L93jf26r7Nak71lcVs"
-    },
-    {
-      "added_at": "2024-08-26 14:22:17",
-      "album": {
-        "name": "Know About This",
-        "url": "https://open.spotify.com/album/3KlQjBMtdNufLzYtmubs7Z"
-      },
-      "artists": [
-        {
-          "name": "Benjamine Leroy Quartet",
-          "url": "https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM"
-        }
-      ],
-      "duration_ms": 165061,
-      "name": "Know About This",
-      "url": "https://open.spotify.com/track/5MqmmihJnGYFs3rXjeAlVY"
     },
     {
       "added_at": "2024-08-26 14:22:17",
@@ -2047,6 +2031,22 @@
       "duration_ms": 305006,
       "name": "Maua",
       "url": "https://open.spotify.com/track/02ngxoQds9K80KQk95QDR1"
+    },
+    {
+      "added_at": "2024-08-26 14:22:17",
+      "album": {
+        "name": "Know About This",
+        "url": "https://open.spotify.com/album/3KlQjBMtdNufLzYtmubs7Z"
+      },
+      "artists": [
+        {
+          "name": "Benjamine Leroy Quartet",
+          "url": "https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM"
+        }
+      ],
+      "duration_ms": 165061,
+      "name": "Know About This",
+      "url": "https://open.spotify.com/track/5MqmmihJnGYFs3rXjeAlVY"
     },
     {
       "added_at": "2024-08-26 14:22:17",
@@ -2167,6 +2167,22 @@
     {
       "added_at": "2024-08-26 14:22:17",
       "album": {
+        "name": "Santa Tereza",
+        "url": "https://open.spotify.com/album/7qiZlKHt1z0FCPz3RuyRFM"
+      },
+      "artists": [
+        {
+          "name": "Joao Silva Olivieira",
+          "url": "https://open.spotify.com/artist/73JoEuxW6Q8dYPQ9oseUmX"
+        }
+      ],
+      "duration_ms": 226924,
+      "name": "Zephyr",
+      "url": "https://open.spotify.com/track/47Bm8HKITZFcEi3WmmpJlG"
+    },
+    {
+      "added_at": "2024-08-26 14:22:17",
+      "album": {
         "name": "Blue Bossa",
         "url": "https://open.spotify.com/album/3PKYPLuQpdIEunkqkE0fnO"
       },
@@ -2195,22 +2211,6 @@
       "duration_ms": 218346,
       "name": "Teleco-Teco",
       "url": "https://open.spotify.com/track/7nZARKu6tzkTBkuCVXWaZa"
-    },
-    {
-      "added_at": "2024-08-26 14:22:17",
-      "album": {
-        "name": "Santa Tereza",
-        "url": "https://open.spotify.com/album/7qiZlKHt1z0FCPz3RuyRFM"
-      },
-      "artists": [
-        {
-          "name": "Joao Silva Olivieira",
-          "url": "https://open.spotify.com/artist/73JoEuxW6Q8dYPQ9oseUmX"
-        }
-      ],
-      "duration_ms": 226924,
-      "name": "Zephyr",
-      "url": "https://open.spotify.com/track/47Bm8HKITZFcEi3WmmpJlG"
     },
     {
       "added_at": "2024-08-26 14:22:17",
@@ -2247,22 +2247,6 @@
     {
       "added_at": "2024-08-26 14:22:17",
       "album": {
-        "name": "We Could Be Lovers",
-        "url": "https://open.spotify.com/album/5HOeQ6IXZTpbwlqSKstF3v"
-      },
-      "artists": [
-        {
-          "name": "Sarah McKenzie",
-          "url": "https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2"
-        }
-      ],
-      "duration_ms": 208773,
-      "name": "Quoi, Quoi, Quoi",
-      "url": "https://open.spotify.com/track/33LLGxCJUrJAX0XvcvN1AH"
-    },
-    {
-      "added_at": "2024-08-26 14:22:17",
-      "album": {
         "name": "Double Rainbow",
         "url": "https://open.spotify.com/album/7a8Zs0ucylEHLa0kPcpPtH"
       },
@@ -2275,6 +2259,22 @@
       "duration_ms": 284133,
       "name": "Felicidade",
       "url": "https://open.spotify.com/track/0E0EAgEgdVDqzPtouCOqQk"
+    },
+    {
+      "added_at": "2024-08-26 14:22:17",
+      "album": {
+        "name": "We Could Be Lovers",
+        "url": "https://open.spotify.com/album/5HOeQ6IXZTpbwlqSKstF3v"
+      },
+      "artists": [
+        {
+          "name": "Sarah McKenzie",
+          "url": "https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2"
+        }
+      ],
+      "duration_ms": 208773,
+      "name": "Quoi, Quoi, Quoi",
+      "url": "https://open.spotify.com/track/33LLGxCJUrJAX0XvcvN1AH"
     },
     {
       "added_at": "2024-08-26 14:22:17",
@@ -2399,22 +2399,6 @@
     {
       "added_at": "2024-08-26 14:22:17",
       "album": {
-        "name": "Momento",
-        "url": "https://open.spotify.com/album/1DLInOTT0GPK7hUhJ8uIUn"
-      },
-      "artists": [
-        {
-          "name": "Bebel Gilberto",
-          "url": "https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz"
-        }
-      ],
-      "duration_ms": 295533,
-      "name": "Night and Day",
-      "url": "https://open.spotify.com/track/73LhDgmupOzN8RPljjgzie"
-    },
-    {
-      "added_at": "2024-08-26 14:22:17",
-      "album": {
         "name": "Once I Loved",
         "url": "https://open.spotify.com/album/0MyW4ebA1Otb0YYXeVOtnP"
       },
@@ -2427,6 +2411,22 @@
       "duration_ms": 434476,
       "name": "Once I Loved",
       "url": "https://open.spotify.com/track/0M6auxy6hLBXBhniH5UR2U"
+    },
+    {
+      "added_at": "2024-08-26 14:22:17",
+      "album": {
+        "name": "Momento",
+        "url": "https://open.spotify.com/album/1DLInOTT0GPK7hUhJ8uIUn"
+      },
+      "artists": [
+        {
+          "name": "Bebel Gilberto",
+          "url": "https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz"
+        }
+      ],
+      "duration_ms": 295533,
+      "name": "Night and Day",
+      "url": "https://open.spotify.com/track/73LhDgmupOzN8RPljjgzie"
     },
     {
       "added_at": "2024-08-26 14:22:17",

@@ -4,7 +4,7 @@
 
 > Home to the Desi Pop Bops\. For more desi bangers check out <a href="https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa">Desi Hits</a>\.  Cover: AP Dhillon
 
-271 songs - 14 hr 41 min
+272 songs - 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Jugnu](https://open.spotify.com/track/2NTVtNcpC0i1R7LVGaCZCF) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Jugnu](https://open.spotify.com/album/1tIBidZ4PMZPqWLgunT4IP) | 3:50 | 2024-02-22 |  |
 | [Just Us](https://open.spotify.com/track/3wm5N6UAVYLF1lRQMW8t0C) | [Aashir Wajahat](https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo) | [Just Us](https://open.spotify.com/album/1s5gQHicm3JMqyyia8YcpF) | 2:48 | 2024-06-13 |  |
 | [Kaali Gaddi \(Black Car\)](https://open.spotify.com/track/7I1411KJ5hHUwuAGG7RwXQ) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf) | [Kaali Gaddi \(Black Car\)](https://open.spotify.com/album/4nIs3K8kEjN0J4bSwFCLAR) | 2:19 | 2021-11-11 | 2022-07-19 |
+| [Kaathu Mela \- From "Think Indie"](https://open.spotify.com/track/2YMxiPx0Mu7ap1TYcLtBKE) | [Paal Dabba](https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx), [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts), [Deva](https://open.spotify.com/artist/1aXtuiimQwgW8Xqztgp4Kf) | [Kaathu Mela \- From "Think Indie"](https://open.spotify.com/album/1QDGfYi6ok12IxZJ6Rf52H) | 2:03 | 2024-09-11 |  |
 | [Kahani Suno 2.0](https://open.spotify.com/track/4VsP4Dm8gsibRxB5I2hEkw) | [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9) | [Kahani Suno 2.0](https://open.spotify.com/album/6BHlJhCk1vjCG6hqTG2SFV) | 2:53 | 2024-01-03 | 2024-02-23 |
 | [Kalaastar \(From "Honey 3.0"\)](https://open.spotify.com/track/0uR4wgF6ksqIEYpztFWGog) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw), [Gill Machhrai](https://open.spotify.com/artist/4r4r2gGaA74pul0n6FiRsE) | [Honey 3.0](https://open.spotify.com/album/1M0Pn9Sjn6dxI5rxOJQW5V) | 3:27 | 2024-09-09 |  |
 | [Kamaal](https://open.spotify.com/track/74MVmjqYoHBNvLghvNsKnm) | [Ezu](https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP), [DJ Harpz](https://open.spotify.com/artist/6ClT6x4LnhH5CDLBePdoaA) | [Arrival](https://open.spotify.com/album/656ie0ZaD1avko2b4WpwOD) | 3:19 | 2021-11-11 | 2022-07-19 |
@@ -166,7 +167,7 @@
 | [Mehrbaan](https://open.spotify.com/track/2iBaJVyzkRj1JipRiCqzUL) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [Mehrbaan](https://open.spotify.com/album/41Icl2KLg9TmtJFGlzCtXg) | 2:32 | 2024-08-02 | 2024-08-10 |
 | [Mere Paas](https://open.spotify.com/track/2kqRMwtyPRzGfkSrW84uC1) | [Twinjabi](https://open.spotify.com/artist/3nU1DJyXFkJps0WK4mDniK) | [Mere Paas](https://open.spotify.com/album/7aiDLxBfJ7ct2oEdZLrKdC) | 3:18 | 2021-11-11 | 2022-07-19 |
 | [Mere Saath](https://open.spotify.com/track/5ylvA51qDXIqTsqAsgfGPX) | [Bhai](https://open.spotify.com/artist/2NnN8kaWWfvuL35FmpNKtR) | [Mere Saath](https://open.spotify.com/album/7xN27PZtjRyAyRy4Il2SOW) | 2:16 | 2021-11-11 | 2022-07-19 |
-| [Millionaire](https://open.spotify.com/track/78BWCd70D1X6LMkDZm1UoF) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [GLORY](https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9) | 3:19 | 2024-08-26 |  |
+| [Millionaire](https://open.spotify.com/track/78BWCd70D1X6LMkDZm1UoF) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [GLORY](https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9) | 3:19 | 2024-08-26 | 2024-09-12 |
 | [Moon Rise](https://open.spotify.com/track/3oWv5qDKYN7MH6FdlglMN5) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [Man Of The Moon](https://open.spotify.com/album/0jasm0jnhQ6Y6OUYTI1NL6) | 2:54 | 2024-02-22 |  |
 | [Moonrise](https://open.spotify.com/track/0uSsibjt7ZjdRwHTJrqWOT) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Moonrise](https://open.spotify.com/album/1Q48FsRM9uF3VvGYaji5bE) | 2:49 | 2024-02-22 |  |
 | [Morni](https://open.spotify.com/track/52L4zA87EinFEoGZ8WPlgE) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Sukh\-E Muzical Doctorz](https://open.spotify.com/artist/0yniDkE5y7ci4X9OtLBXaQ), [Bhumika Sharma](https://open.spotify.com/artist/5DJp3ARWdQg4ISKhk63OFy) | [Morni](https://open.spotify.com/album/6jqVCVKCQYx1BbmXg3JwOx) | 2:41 | 2024-07-15 | 2024-08-10 |

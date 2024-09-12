@@ -53,6 +53,28 @@
     },
     {
       "album": {
+        "name": "4 LIFE",
+        "url": "https://open.spotify.com/album/3y3ecFqLH3IcIMr6owmcQL"
+      },
+      "artists": [
+        {
+          "name": "Gobs",
+          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
+        },
+        {
+          "name": "ICEKIID",
+          "url": "https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166909,
+      "name": "4 LIFE",
+      "url": "https://open.spotify.com/track/0o5ibKv2wHgbjYXtGuKQ2r"
+    },
+    {
+      "album": {
         "name": "911",
         "url": "https://open.spotify.com/album/7AmzcJSCXx4xQgZSFs0kov"
       },
@@ -162,7 +184,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 182206,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/7KvTwW9i8f6RYk5hdcq32z"
@@ -1642,7 +1664,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 182093,
       "name": "Ground",
       "url": "https://open.spotify.com/track/5O0EFJLBBQb0byw3t6ycw9"
@@ -2974,6 +2996,28 @@
       "duration_ms": 161241,
       "name": "Reposado",
       "url": "https://open.spotify.com/track/3xJeUxbt51wpvGk3YzqxLi"
+    },
+    {
+      "album": {
+        "name": "Rick Ross Pt. 2",
+        "url": "https://open.spotify.com/album/1G8rjqtorUe1U5olgSBXXE"
+      },
+      "artists": [
+        {
+          "name": "Medina",
+          "url": "https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF"
+        },
+        {
+          "name": "Tessa",
+          "url": "https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138147,
+      "name": "Rick Ross Pt. 2",
+      "url": "https://open.spotify.com/track/6uIVBE5DHG3szAnaOyvf3l"
     },
     {
       "album": {

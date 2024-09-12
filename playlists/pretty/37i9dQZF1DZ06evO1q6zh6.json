@@ -1,12 +1,12 @@
 {
-  "description": "This Is Judas Priest. Los temas esenciales, todos en una lista.",
-  "num_followers": 169038,
+  "description": "This is Judas Priest. The essential tracks, all in one playlist.",
+  "num_followers": 169067,
   "original_name": "This Is Judas Priest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zt46gAAAAAAw2AK86pKqSwA+hRKMi5FV",
+  "snapshot_id": "Zt+MAAAAAADluCFFDM8prcGSijeurrHb",
   "tracks": [
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 261014,
-      "name": "Trial By Fire",
-      "url": "https://open.spotify.com/track/1NCJOvKrU23yWYbJH5mmEQ"
+      "duration_ms": 259747,
+      "name": "The Serpent and the King",
+      "url": "https://open.spotify.com/track/1qX3Aw57OCHcrEoB35nDfr"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "British Steel",
-        "url": "https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY"
+        "name": "Painkiller",
+        "url": "https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 237800,
-      "name": "Grinder",
-      "url": "https://open.spotify.com/track/54IuIxOITRtbK8cU7fHIQf"
+      "duration_ms": 237266,
+      "name": "All Guns Blazing",
+      "url": "https://open.spotify.com/track/2Ip7WDoKDeVGnWsnOCzinV"
     },
     {
       "added_at": null,
@@ -404,15 +404,15 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 259747,
-      "name": "The Serpent and the King",
-      "url": "https://open.spotify.com/track/1qX3Aw57OCHcrEoB35nDfr"
+      "duration_ms": 261014,
+      "name": "Trial By Fire",
+      "url": "https://open.spotify.com/track/1NCJOvKrU23yWYbJH5mmEQ"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Painkiller",
-        "url": "https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t"
+        "name": "British Steel",
+        "url": "https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 237266,
-      "name": "All Guns Blazing",
-      "url": "https://open.spotify.com/track/2Ip7WDoKDeVGnWsnOCzinV"
+      "duration_ms": 237800,
+      "name": "Grinder",
+      "url": "https://open.spotify.com/track/54IuIxOITRtbK8cU7fHIQf"
     },
     {
       "added_at": null,

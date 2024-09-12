@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > Catch Tolou, Kissimjau, Carlina de Place and Izza Gara on the Fresh Finds Nordics stage at By:Larm! The best new music by independent artists in the Nordics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,339 likes - 104 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,344 likes - 104 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 79 | [Amazing](https://open.spotify.com/track/0HlaXvA9uolQwPpqMviVfP) | [Intertwine](https://open.spotify.com/artist/7G5VWKUR17jFrz2ieoEc38) | [Amazing](https://open.spotify.com/album/1vBLgJFiAsG1pkMqWYmGGN) | 3:24 |
 | 80 | [Love Is Only Fun with You](https://open.spotify.com/track/0CdR8LkcVr8YJEoLrTJ1Bh) | [Dancing on Lego](https://open.spotify.com/artist/7srXfOyKg6eNopdl2VDyj5) | [Love Is Only Fun with You](https://open.spotify.com/album/2Ag5VFOHDYXaBODmVbO1Y7) | 3:21 |
 | 81 | [Längtan \(F\#\)](https://open.spotify.com/track/0dTwPhMpjSNfBFth5tyqr0) | [OLING](https://open.spotify.com/artist/2saqEnwA5wcTmHPpvVM1cv), [Harald Björk](https://open.spotify.com/artist/2VvFUDg4FDXzEQkQdgWz9h) | [DALOM](https://open.spotify.com/album/3UBazi6BvDrmgHhXRbeMSO) | 8:30 |
-| 82 | [CAN'T STOP](https://open.spotify.com/track/6LljQNeHS4fDIHDZsIz654) | [Nova Hall](https://open.spotify.com/artist/6w5hFIuazmYT76EhEJJ0B2) | [VICE](https://open.spotify.com/album/4cAMD9tejjSyJjUWcs7SNS) | 2:56 |
+| 82 | [CAN'T STOP](https://open.spotify.com/track/6LljQNeHS4fDIHDZsIz654) | [Nova Hall](https://open.spotify.com/artist/6w5hFIuazmYT76EhEJJ0B2) | [CAN'T STOP](https://open.spotify.com/album/4cAMD9tejjSyJjUWcs7SNS) | 2:56 |
 | 83 | [Lonely Crowd](https://open.spotify.com/track/48KycotUHUnYcl4aUSqVDT) | [Argenti](https://open.spotify.com/artist/2vYCPMnzzNCODn2GK2xdm3), [Oskar Byggeth](https://open.spotify.com/artist/5mAbmh3sYSrvjY2ekoIvAA), [Ellen K](https://open.spotify.com/artist/5csH1t9m18XNiM8IDEwoAA) | [Lonely Crowd](https://open.spotify.com/album/2OkMyaT7KmgxhBzGGGEcWK) | 2:38 |
 | 84 | [Rouge](https://open.spotify.com/track/0K8EP7nwJp4dFHBl5r3UgF) | [Cecil Opia](https://open.spotify.com/artist/6gDK3tImweSZYhav1QdaYn) | [Rouge](https://open.spotify.com/album/5HxVuK00xM2HjBw2e4sJ8D) | 3:26 |
 | 85 | [i like u...](https://open.spotify.com/track/1igY8lMxx6INXLCJK5xjbR) | [ORZC](https://open.spotify.com/artist/37oTmLY6rQTgMe4v8afZqE) | [i like u...](https://open.spotify.com/album/4CAslFQh9bAEgBPOuVyebG) | 2:35 |

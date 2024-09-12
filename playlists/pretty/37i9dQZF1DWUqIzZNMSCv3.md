@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUqIzZNMSCv3.md) - [plain]
 
 > Relaxing classical piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,997 likes - 85 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,079 likes - 85 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUqIzZNMSCv3.md) - [plain]
 | 7 | [12 Songs, Op\. 21: V\. Lilacs \(Transcr\. Rachmaninoff for Solo Piano\)](https://open.spotify.com/track/4ObQ0m7VUtrgdEwpFeCKua) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Sergei Babayan](https://open.spotify.com/artist/79gBfLMlUJNdcXv1nc33oK) | [Rachmaninoff: Préludes; Études\-Tableaux; Moments musicaux](https://open.spotify.com/album/5952RUol8Nl7Ihk1zcaUb4) | 3:01 |
 | 8 | [Prelude in C Major, BWV 846](https://open.spotify.com/track/70sk23BoP9F6UeppZ2IiL5) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Khatia Buniatishvili](https://open.spotify.com/artist/0bouHpX4JiuPnIfP2jFxRi) | [Labyrinth: Ephemera](https://open.spotify.com/album/1M1tsv2nCOuUkztiGG3tBh) | 2:25 |
 | 9 | [Lyric Pieces, Book 1, Op\. 12: I\. Arietta](https://open.spotify.com/track/76wV53YHl0tGEvT3L0QzvK) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Javier Perianes](https://open.spotify.com/artist/5sYNU2X0Fvw3iAqWTqwWjz) | [Grieg: Piano Concerto; Lyric Pieces](https://open.spotify.com/album/5HokgmfmgFExUbbVgkvz3n) | 1:25 |
-| 10 | [I Giorni](https://open.spotify.com/track/0VLascXUZ2Ze2u5kUD5J1f) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Islands \- Essential Einaudi](https://open.spotify.com/album/7k1Ki5pYinGM3lME2Tv3AM) | 6:51 |
+| 10 | [I Giorni](https://open.spotify.com/track/0VLascXUZ2Ze2u5kUD5J1f) | [Ludovico Einaudi](https://open.spotify.com/artist/4eE1pndp9eq1epaeDM9ICV) | [Islands \- Essential Einaudi](https://open.spotify.com/album/7k1Ki5pYinGM3lME2Tv3AM) | 6:51 |
 | 11 | [Orfeo ed Euridice, Wq\. 30 \(Arranged by Sgambati\): Melodie dell'Orfeo](https://open.spotify.com/track/24cgBBhZD1cWekUqaYuqTB) | [Christoph Willibald Gluck](https://open.spotify.com/artist/7vfydQ0nVBVgJ0ajs8EtRM), [Yuja Wang](https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w) | [Fantasia](https://open.spotify.com/album/4sN9hBE7dLOG6SgjqVPAa5) | 3:01 |
 | 12 | [24 Préludes, Op\. 28: No\. 15 in D\-Flat Major "Raindrop" \- Sostenuto](https://open.spotify.com/track/27ZSb3HbeMmiRiSfIwlfzU) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Mao Fujita](https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl) | [24 Préludes, Op\. 28/No\. 15 in D\-Flat Major "Raindrop" \- Sostenuto](https://open.spotify.com/album/5wRbHwgKw55R4ZQO6Uqq5d) | 4:37 |
 | 13 | [Janáček: On an Overgrown Path, Book I: No\. 7, Good Night!](https://open.spotify.com/track/2DvAljfHQpHfhcGxajeiHj) | [Leoš Janáček](https://open.spotify.com/artist/46xXzoOdtD7SL2PTRq5irp), [Bertrand Chamayou](https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp) | [Good Night! \- Janáček: On an Overgrown Path, Book 1: No\. 7, Good Night!](https://open.spotify.com/album/5eBLo7LpwoA2iLtKS1HPru) | 3:19 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Ludmila Ferber. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 22868,
+  "num_followers": 22865,
   "original_name": "This Is Ludmila Ferber",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zt46gAAAAADM5E//u8u/MPBRW0iPR2+1",
+  "snapshot_id": "Zt+MAAAAAAAJWzhUORK3DEfvoT6Yeuns",
   "tracks": [
     {
       "added_at": null,
@@ -439,30 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ou\u00e7o Deus Me Chamar",
-        "url": "https://open.spotify.com/album/06qcwXnweJvNixBPekCcSd"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        },
-        {
-          "name": "Marcos Freire",
-          "url": "https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g"
-        },
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 298000,
-      "name": "Ou\u00e7o Deus Me Chamar",
-      "url": "https://open.spotify.com/track/78jlmri0xPa63LDt3g4h2E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sopra Esp\u00edrito - Na Igreja (In Memoriam Ludmila Ferber, Ao Vivo)",
         "url": "https://open.spotify.com/album/66pj0nSZDWBLGr6htD3P6i"
       },
@@ -483,6 +459,30 @@
       "duration_ms": 326547,
       "name": "Sopra Esp\u00edrito - Na Igreja - In Memoriam Ludmila Ferber, Ao Vivo",
       "url": "https://open.spotify.com/track/6eFKpkeizLNEbipXtuL9AO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ou\u00e7o Deus Me Chamar",
+        "url": "https://open.spotify.com/album/06qcwXnweJvNixBPekCcSd"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        },
+        {
+          "name": "Marcos Freire",
+          "url": "https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g"
+        },
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 298000,
+      "name": "Ou\u00e7o Deus Me Chamar",
+      "url": "https://open.spotify.com/track/78jlmri0xPa63LDt3g4h2E"
     },
     {
       "added_at": null,
@@ -671,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Adora\u00e7\u00e3o Prof\u00e9tica: Os Sonhos de Deus",
+        "url": "https://open.spotify.com/album/0lv1AZvaQT3BNDV5PztLDX"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 301986,
+      "name": "Eu Dependo de Deus",
+      "url": "https://open.spotify.com/track/59FRWW5q8A8zeWo5TDfHSb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "P\u00e9rolas da Adora\u00e7\u00e3o - M\u00fasicas que Marcaram a Nossa Hist\u00f3ria",
         "url": "https://open.spotify.com/album/5OMvO6gJEnRda4CEV6T7mL"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 391586,
       "name": "Orar e Adorar (feat. David Quinlan)",
       "url": "https://open.spotify.com/track/2uEQpuWq4XyYVe8DWiGCqw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Adora\u00e7\u00e3o Prof\u00e9tica: Os Sonhos de Deus",
-        "url": "https://open.spotify.com/album/0lv1AZvaQT3BNDV5PztLDX"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 301986,
-      "name": "Eu Dependo de Deus",
-      "url": "https://open.spotify.com/track/59FRWW5q8A8zeWo5TDfHSb"
     },
     {
       "added_at": null,
@@ -739,6 +739,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Adora\u00e7\u00e3o Prof\u00e9tica: Os Sonhos de Deus",
+        "url": "https://open.spotify.com/album/0lv1AZvaQT3BNDV5PztLDX"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 163893,
+      "name": "O Perd\u00e3o",
+      "url": "https://open.spotify.com/track/0pd77nLXCJsbyH2pLtDjmH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Adora\u00e7\u00e3o 5 - Quebrando as Maldi\u00e7\u00f5es",
         "url": "https://open.spotify.com/album/2GNk5f7VzqFBea2pmEnOaR"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 200176,
       "name": "Maior Amor",
       "url": "https://open.spotify.com/track/3lfNmjigw0revdL0xkZlxu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Adora\u00e7\u00e3o Prof\u00e9tica: Os Sonhos de Deus",
-        "url": "https://open.spotify.com/album/0lv1AZvaQT3BNDV5PztLDX"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 163893,
-      "name": "O Perd\u00e3o",
-      "url": "https://open.spotify.com/track/0pd77nLXCJsbyH2pLtDjmH"
     },
     {
       "added_at": null,

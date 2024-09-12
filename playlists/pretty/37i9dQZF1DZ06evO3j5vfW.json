@@ -1,12 +1,12 @@
 {
-  "description": "This is Nicky Romero. The essential tracks, all in one playlist.",
-  "num_followers": 71586,
+  "description": "This is Nicky Romero. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 71590,
   "original_name": "This Is Nicky Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zt46gAAAAACpgHOhJkbYFqCmy3RQ2eyH",
+  "snapshot_id": "Zt+MAAAAAAAZMIYp+3z9vdrK6+nzFPrU",
   "tracks": [
     {
       "added_at": null,
@@ -147,30 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stargazing",
-        "url": "https://open.spotify.com/album/05nQu4HN54vSMx506ajfrC"
-      },
-      "artists": [
-        {
-          "name": "Monocule",
-          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
-        },
-        {
-          "name": "Leo Stannard",
-          "url": "https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 239736,
-      "name": "Stargazing",
-      "url": "https://open.spotify.com/track/1cVOEbvsf7N9Su4kZXFcYB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KYGO (The Remixes)",
         "url": "https://open.spotify.com/album/3l8rLJyHoGvEEDmNqPKHGu"
       },
@@ -195,6 +171,30 @@
       "duration_ms": 231477,
       "name": "For Life (feat. Zak Abel & Nile Rodgers) - Nicky Romero Remix",
       "url": "https://open.spotify.com/track/7lc4S03umj2cTbFP4FWPGc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stargazing",
+        "url": "https://open.spotify.com/album/05nQu4HN54vSMx506ajfrC"
+      },
+      "artists": [
+        {
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+        },
+        {
+          "name": "Leo Stannard",
+          "url": "https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 239736,
+      "name": "Stargazing",
+      "url": "https://open.spotify.com/track/1cVOEbvsf7N9Su4kZXFcYB"
     },
     {
       "added_at": null,
@@ -343,30 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Take Me Home",
-        "url": "https://open.spotify.com/album/591dja1K2VghhGHhGw8adX"
-      },
-      "artists": [
-        {
-          "name": "Monocule",
-          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
-        },
-        {
-          "name": "Joe Jury",
-          "url": "https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 188284,
-      "name": "Take Me Home",
-      "url": "https://open.spotify.com/track/5la4c7y1IqBcJiwouVjdy9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "We're Still Young",
         "url": "https://open.spotify.com/album/2HE7fzpBQHBCY6JXhoVAq0"
       },
@@ -391,26 +367,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Okay",
-        "url": "https://open.spotify.com/album/7d5FKzrSPqpKczy9IP5zOE"
+        "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/591dja1K2VghhGHhGw8adX"
       },
       "artists": [
         {
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+        },
+        {
+          "name": "Joe Jury",
+          "url": "https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer"
+        },
+        {
           "name": "Nicky Romero",
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "MARF",
-          "url": "https://open.spotify.com/artist/6y1eDna5tYFgcvKyGhLCy7"
-        },
-        {
-          "name": "Wulf",
-          "url": "https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f"
         }
       ],
-      "duration_ms": 151312,
-      "name": "Okay",
-      "url": "https://open.spotify.com/track/71H8k9qe7DersxR6KyhUnI"
+      "duration_ms": 188284,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/5la4c7y1IqBcJiwouVjdy9"
     },
     {
       "added_at": null,
@@ -431,6 +407,30 @@
       "duration_ms": 200156,
       "name": "Like Home - Radio Mix",
       "url": "https://open.spotify.com/track/2RBq5Dl68WQXwWNpP77FQY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Okay",
+        "url": "https://open.spotify.com/album/7d5FKzrSPqpKczy9IP5zOE"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "MARF",
+          "url": "https://open.spotify.com/artist/6y1eDna5tYFgcvKyGhLCy7"
+        },
+        {
+          "name": "Wulf",
+          "url": "https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f"
+        }
+      ],
+      "duration_ms": 151312,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/71H8k9qe7DersxR6KyhUnI"
     },
     {
       "added_at": null,
@@ -915,6 +915,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Why Do I Call",
+        "url": "https://open.spotify.com/album/5eNuYTGzaZ36i04rdcz3bN"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 158958,
+      "name": "Why Do I Call",
+      "url": "https://open.spotify.com/track/7sRjDSJ5Vp3xC669buQVGi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "18 Months",
         "url": "https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 219653,
       "name": "Iron",
       "url": "https://open.spotify.com/track/0uqMUcdMvQtNQLO4jVockW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Why Do I Call",
-        "url": "https://open.spotify.com/album/5eNuYTGzaZ36i04rdcz3bN"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 158958,
-      "name": "Why Do I Call",
-      "url": "https://open.spotify.com/track/7sRjDSJ5Vp3xC669buQVGi"
     },
     {
       "added_at": null,
@@ -1035,26 +1035,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everybody Clap",
-        "url": "https://open.spotify.com/album/1nm7alSq7eIZXsoLW7xg2r"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 148124,
-      "name": "Everybody Clap",
-      "url": "https://open.spotify.com/track/6lMNMaq2OaE7UIQiBevauB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Destiny",
         "url": "https://open.spotify.com/album/0iYk7ujef4AMfDJJYoCfnq"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 253440,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/4mAFdxKaADfs3t2K0QCOXv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everybody Clap",
+        "url": "https://open.spotify.com/album/1nm7alSq7eIZXsoLW7xg2r"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 148124,
+      "name": "Everybody Clap",
+      "url": "https://open.spotify.com/track/6lMNMaq2OaE7UIQiBevauB"
     },
     {
       "added_at": null,

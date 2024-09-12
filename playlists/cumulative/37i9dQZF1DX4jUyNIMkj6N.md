@@ -4,7 +4,7 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-308 songs - 18 hr 44 min
+309 songs - 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [Here Comes The Sun](https://open.spotify.com/track/3qDlYd3hhaWo1xg6AgbzhQ) | [Hush Forever](https://open.spotify.com/artist/5MIIeE6xoDQNqwSMTweWlv) | [Here Comes The Sun](https://open.spotify.com/album/1Uqnmck9tbT6OSQMrW5Stw) | 3:12 | 2023-12-21 | 2024-05-24 |
 | [Hindsight](https://open.spotify.com/track/1oNhUK7wYAITgmDiAFoKYZ) | [Hafdís Huld](https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5) | [Hindsight](https://open.spotify.com/album/60H5w2fXHEJX2gQjoCCjaQ) | 3:24 | 2024-01-18 | 2024-04-28 |
 | [Holding Hands](https://open.spotify.com/track/4SfqeRYu1yZmEMa0HW1nso) | [Morten Myklebust](https://open.spotify.com/artist/7zFc6IlzgDwyXojYH1GIkI) | [The Sparks Flew Up](https://open.spotify.com/album/5wYo12gI0ZvUSQPCLq2YCm) | 2:33 | 2021-12-02 | 2022-07-17 |
-| [homebound](https://open.spotify.com/track/2390QtVcsiBd50QbKd2s6x) | [SATRE](https://open.spotify.com/artist/0KMIpYnQZYg0rEYMgDd4Hm) | [homebound](https://open.spotify.com/album/2pwEWAxrNUJ9xWqVifLw4C) | 3:24 | 2024-05-02 |  |
+| [homebound](https://open.spotify.com/track/2390QtVcsiBd50QbKd2s6x) | [SATRE](https://open.spotify.com/artist/0KMIpYnQZYg0rEYMgDd4Hm) | [homebound](https://open.spotify.com/album/2pwEWAxrNUJ9xWqVifLw4C) | 3:24 | 2024-05-02 | 2024-09-12 |
 | [Homesick](https://open.spotify.com/track/0WeqauIUZSjsupDGXsXWsP) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Riot On An Empty Street](https://open.spotify.com/album/5QE8eXeN0q8M7atLb1fT6c) | 3:13 | 2021-12-02 | 2023-01-28 |
 | [Homesick](https://open.spotify.com/track/2MTZjX6nfGpXu0tR1AOVou) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Riot On An Empty Street](https://open.spotify.com/album/2AlmzyF5aM1A1Mq9QkwTEI) | 3:13 | 2023-01-26 | 2024-04-19 |
 | [Honey In The Waves](https://open.spotify.com/track/3tSxWyj3XlLqnMCfpzq8Df) | [Alexander Grandjean](https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp) | [Honey In The Waves](https://open.spotify.com/album/4mg7SjpIbWdpdysGU1P8bA) | 4:16 | 2024-02-22 |  |
@@ -203,6 +203,7 @@
 | [Our Friends Don't Think I Deserve You](https://open.spotify.com/track/62fSokXCylmrzxySNTPjrq) | [Nora Legrand](https://open.spotify.com/artist/7G7qvIAfp8DKYAlQH8XH3N) | [Our Friends Don't Think I Deserve You](https://open.spotify.com/album/2LkbmuEzm415toSaCaBzmC) | 2:18 | 2024-05-16 | 2024-06-05 |
 | [Out in the Backyard](https://open.spotify.com/track/5SEdPtbU8mBVtLYbTFjbJ3) | [Konradsen](https://open.spotify.com/artist/59CWeBMEzwj6U2HhTVLJ3O) | [Out in the Backyard](https://open.spotify.com/album/5agiqfFKIiceHwD2E44Zdr) | 3:40 | 2023-11-23 | 2023-12-23 |
 | [Part Of The Story](https://open.spotify.com/track/6jS0yEHw2vNXyCbY1DJJU4) | [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS) | [Part Of The Story](https://open.spotify.com/album/7jUYwxe12GrrCeFQjL6HsG) | 3:07 | 2024-09-05 |  |
+| [Peaceful Easy Feeling](https://open.spotify.com/track/2G48AXcYCzTPM7WMCoAKJy) | [Birds are better](https://open.spotify.com/artist/0ZYJwHf0cMQ2FTg9IMlpIZ) | [Peaceful Easy Feeling](https://open.spotify.com/album/2uxvMTMKp8jS3icJPSqIhL) | 2:51 | 2024-09-05 |  |
 | [Pixie's Parasol](https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Pixie's Parasol](https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw) | 3:02 | 2021-12-02 |  |
 | [Poor Symmetry](https://open.spotify.com/track/4FAiqzB4VQSckzurMJ5wSX) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Poor Symmetry / Cities](https://open.spotify.com/album/624PNGP795hhIwigo5ixXg) | 2:01 | 2024-04-11 | 2024-07-19 |
 | [Right as Rain](https://open.spotify.com/track/5IgCnPZUVKe5PeIZfuwfSK) | [Marianne Sveen](https://open.spotify.com/artist/5kXWa36lvxl2qHX4dGEMJD) | [Right as Rain](https://open.spotify.com/album/5zeC7hP1L3tLcTdrxkXur2) | 4:38 | 2021-12-02 | 2022-07-29 |

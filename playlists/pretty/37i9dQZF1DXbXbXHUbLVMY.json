@@ -235,6 +235,42 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
+        "name": "Let's Go",
+        "url": "https://open.spotify.com/album/30pPojWH2mqVN5aXmocwRY"
+      },
+      "artists": [
+        {
+          "name": "Arif Murakami",
+          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
+        },
+        {
+          "name": "Stig Brenner",
+          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
+        }
+      ],
+      "duration_ms": 148373,
+      "name": "Let's Go",
+      "url": "https://open.spotify.com/track/21RCoKctRVVVG8nt8r5dsU"
+    },
+    {
+      "added_at": "2024-09-05 22:00:00",
+      "album": {
+        "name": "Habibi You",
+        "url": "https://open.spotify.com/album/1oZxYI2x03nykDvfkInDAf"
+      },
+      "artists": [
+        {
+          "name": "Y4ska",
+          "url": "https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8"
+        }
+      ],
+      "duration_ms": 114098,
+      "name": "Habibi You",
+      "url": "https://open.spotify.com/track/4IyVIKG3ecTEMzc9iY1BYb"
+    },
+    {
+      "added_at": "2024-09-05 22:00:00",
+      "album": {
         "name": "Dans fr\u00e5n dig",
         "url": "https://open.spotify.com/album/0cVVi5pOnxXno0Krda4f8g"
       },
@@ -255,22 +291,6 @@
       "duration_ms": 136666,
       "name": "Dans fr\u00e5n dig",
       "url": "https://open.spotify.com/track/2u85ptzhLjdL4iHV5pNUtb"
-    },
-    {
-      "added_at": "2024-09-05 22:00:00",
-      "album": {
-        "name": "Habibi You",
-        "url": "https://open.spotify.com/album/1oZxYI2x03nykDvfkInDAf"
-      },
-      "artists": [
-        {
-          "name": "Y4ska",
-          "url": "https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8"
-        }
-      ],
-      "duration_ms": 114098,
-      "name": "Habibi You",
-      "url": "https://open.spotify.com/track/4IyVIKG3ecTEMzc9iY1BYb"
     },
     {
       "added_at": "2024-09-05 22:00:00",
@@ -311,26 +331,6 @@
       "duration_ms": 160106,
       "name": "Tenke Sj\u00e6l",
       "url": "https://open.spotify.com/track/6RNews4WFfXv1fJdwL0ZQb"
-    },
-    {
-      "added_at": "2024-09-05 22:00:00",
-      "album": {
-        "name": "Let's Go",
-        "url": "https://open.spotify.com/album/30pPojWH2mqVN5aXmocwRY"
-      },
-      "artists": [
-        {
-          "name": "Arif Murakami",
-          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
-        },
-        {
-          "name": "Stig Brenner",
-          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
-        }
-      ],
-      "duration_ms": 148373,
-      "name": "Let's Go",
-      "url": "https://open.spotify.com/track/21RCoKctRVVVG8nt8r5dsU"
     },
     {
       "added_at": "2024-09-05 22:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
-        "name": "Det Regner Penger (Allez Allez)",
-        "url": "https://open.spotify.com/album/0BDINejKpj8cD0DX3D0L8k"
-      },
-      "artists": [
-        {
-          "name": "AVGVSTVS",
-          "url": "https://open.spotify.com/artist/1DegXvs6WLntmyIMrPhaFr"
-        }
-      ],
-      "duration_ms": 93830,
-      "name": "Det Regner Penger (Allez Allez)",
-      "url": "https://open.spotify.com/track/1CfikWPsR1ao5NFuHnp567"
-    },
-    {
-      "added_at": "2024-09-05 22:00:00",
-      "album": {
         "name": "TIL DEG",
         "url": "https://open.spotify.com/album/7bI1OfEsCmIv35F1HPz6KI"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 157217,
       "name": "TIL DEG",
       "url": "https://open.spotify.com/track/1ck8VxAV1xcXiMgfvErURz"
+    },
+    {
+      "added_at": "2024-09-05 22:00:00",
+      "album": {
+        "name": "Det Regner Penger (Allez Allez)",
+        "url": "https://open.spotify.com/album/0BDINejKpj8cD0DX3D0L8k"
+      },
+      "artists": [
+        {
+          "name": "AVGVSTVS",
+          "url": "https://open.spotify.com/artist/1DegXvs6WLntmyIMrPhaFr"
+        }
+      ],
+      "duration_ms": 93830,
+      "name": "Det Regner Penger (Allez Allez)",
+      "url": "https://open.spotify.com/track/1CfikWPsR1ao5NFuHnp567"
     },
     {
       "added_at": "2024-09-05 22:00:00",
@@ -1147,30 +1147,26 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
-        "name": "Tappar kontroll",
-        "url": "https://open.spotify.com/album/1PzBGPCkSnJm1ZuECf5A50"
+        "name": "2 Sider",
+        "url": "https://open.spotify.com/album/3x3gJlQD07PM82Qni8BK5i"
       },
       "artists": [
         {
-          "name": "BELLMAN",
-          "url": "https://open.spotify.com/artist/7GVF8DDjYLdmf5Y4oJHsaC"
+          "name": "Sli0h",
+          "url": "https://open.spotify.com/artist/4kM0BoIoIhOahEhyt0RSNO"
         },
         {
-          "name": "Blizzy",
-          "url": "https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp"
+          "name": "Isah",
+          "url": "https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B"
         },
         {
-          "name": "Imenella",
-          "url": "https://open.spotify.com/artist/6IuS73qKuYfrYqA5g5iq0h"
-        },
-        {
-          "name": "SAMI",
-          "url": "https://open.spotify.com/artist/0GYJScAPulF6GTFYJOpHVr"
+          "name": "FRAM",
+          "url": "https://open.spotify.com/artist/4eo3HSMXtaYqAAW6f14YVt"
         }
       ],
-      "duration_ms": 176495,
-      "name": "Tappar kontroll",
-      "url": "https://open.spotify.com/track/3JzsfvZ8mUk0zW3thtxnx7"
+      "duration_ms": 152586,
+      "name": "2 Sider",
+      "url": "https://open.spotify.com/track/5WmwECFQhBWhyWeNAo6t5m"
     },
     {
       "added_at": "2024-09-05 22:00:00",
@@ -1199,6 +1195,34 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
+        "name": "Tappar kontroll",
+        "url": "https://open.spotify.com/album/1PzBGPCkSnJm1ZuECf5A50"
+      },
+      "artists": [
+        {
+          "name": "BELLMAN",
+          "url": "https://open.spotify.com/artist/7GVF8DDjYLdmf5Y4oJHsaC"
+        },
+        {
+          "name": "Blizzy",
+          "url": "https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp"
+        },
+        {
+          "name": "Imenella",
+          "url": "https://open.spotify.com/artist/6IuS73qKuYfrYqA5g5iq0h"
+        },
+        {
+          "name": "SAMI",
+          "url": "https://open.spotify.com/artist/0GYJScAPulF6GTFYJOpHVr"
+        }
+      ],
+      "duration_ms": 176495,
+      "name": "Tappar kontroll",
+      "url": "https://open.spotify.com/track/3JzsfvZ8mUk0zW3thtxnx7"
+    },
+    {
+      "added_at": "2024-09-05 22:00:00",
+      "album": {
         "name": "Stikk I Brystet",
         "url": "https://open.spotify.com/album/40d4Icn5bTlx1rtVWV0Td7"
       },
@@ -1215,30 +1239,6 @@
       "duration_ms": 154320,
       "name": "King Of The Hill (feat. Roc Boyz)",
       "url": "https://open.spotify.com/track/4x7O0ZgkDIa9a8kkSLvith"
-    },
-    {
-      "added_at": "2024-09-05 22:00:00",
-      "album": {
-        "name": "2 Sider",
-        "url": "https://open.spotify.com/album/3x3gJlQD07PM82Qni8BK5i"
-      },
-      "artists": [
-        {
-          "name": "Sli0h",
-          "url": "https://open.spotify.com/artist/4kM0BoIoIhOahEhyt0RSNO"
-        },
-        {
-          "name": "Isah",
-          "url": "https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B"
-        },
-        {
-          "name": "FRAM",
-          "url": "https://open.spotify.com/artist/4eo3HSMXtaYqAAW6f14YVt"
-        }
-      ],
-      "duration_ms": 152586,
-      "name": "2 Sider",
-      "url": "https://open.spotify.com/track/5WmwECFQhBWhyWeNAo6t5m"
     },
     {
       "added_at": "2024-09-05 22:00:00",

@@ -67,6 +67,24 @@
     },
     {
       "album": {
+        "name": "333",
+        "url": "https://open.spotify.com/album/5CP84pfi4AFe95UTACFWrk"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199389,
+      "name": "04AM",
+      "url": "https://open.spotify.com/track/2fTTmjyF7pfarDBAbsJkvb"
+    },
+    {
+      "album": {
         "name": "The Off-Season",
         "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
       },
@@ -178,6 +196,24 @@
       "duration_ms": 186562,
       "name": "19/01",
       "url": "https://open.spotify.com/track/2l3fPI8SqdgbT8XSS3JMfh"
+    },
+    {
+      "album": {
+        "name": "333",
+        "url": "https://open.spotify.com/album/5CP84pfi4AFe95UTACFWrk"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127826,
+      "name": "1993",
+      "url": "https://open.spotify.com/track/6QsHhB0W9GtLF3cI7mUVkQ"
     },
     {
       "album": {
@@ -305,6 +341,24 @@
     },
     {
       "album": {
+        "name": "333",
+        "url": "https://open.spotify.com/album/5CP84pfi4AFe95UTACFWrk"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324000,
+      "name": "333",
+      "url": "https://open.spotify.com/track/0qsKefQyXCzaxjHbOcd8IU"
+    },
+    {
+      "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
       },
@@ -338,6 +392,28 @@
       "duration_ms": 109440,
       "name": "4 O QUADRADO",
       "url": "https://open.spotify.com/track/4QYam5iPweLNtzKKCokBwy"
+    },
+    {
+      "album": {
+        "name": "333",
+        "url": "https://open.spotify.com/album/5CP84pfi4AFe95UTACFWrk"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        },
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204923,
+      "name": "4Tal",
+      "url": "https://open.spotify.com/track/6OcZP4rUfuxms2r8Mwx5BQ"
     },
     {
       "album": {
@@ -636,7 +712,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 182500,
       "name": "A Nossa Dan\u00e7a",
       "url": "https://open.spotify.com/track/0xKBEEJwpjaLn1QhCdyKcf"
@@ -834,7 +910,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 197862,
       "name": "Acordar",
       "url": "https://open.spotify.com/track/1M7pnSHpd4i5xFE2nUGq2W"
@@ -4104,7 +4180,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 202624,
       "name": "Carro (feat. Dillaz)",
       "url": "https://open.spotify.com/track/5yS8wgwBnmjpXwGislck0n"
@@ -4200,6 +4276,24 @@
       "duration_ms": 157500,
       "name": "Casei Com a Putaria",
       "url": "https://open.spotify.com/track/1OZ4uv7OAP24Ix6j3vojLt"
+    },
+    {
+      "album": {
+        "name": "333",
+        "url": "https://open.spotify.com/album/5CP84pfi4AFe95UTACFWrk"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230181,
+      "name": "Castlevania",
+      "url": "https://open.spotify.com/track/3Kh5a6vXMiJtC35jMEfmyy"
     },
     {
       "album": {
@@ -4416,7 +4510,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 155456,
       "name": "Chamadas",
       "url": "https://open.spotify.com/track/3Id1PlGjXzHJRoX1l58WTK"
@@ -6246,7 +6340,7 @@
       ],
       "date_added": "2023-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 293748,
       "name": "Devia Ir",
       "url": "https://open.spotify.com/track/5KZJORKMEkrsNRD4dfBw1X"
@@ -10258,7 +10352,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 143330,
       "name": "Guess featuring Billie Eilish",
       "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
@@ -10316,7 +10410,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 204489,
       "name": "Habibi",
       "url": "https://open.spotify.com/track/31w82iq7jsYmPAsM8YChIy"
@@ -12115,6 +12209,28 @@
     },
     {
       "album": {
+        "name": "333",
+        "url": "https://open.spotify.com/album/5CP84pfi4AFe95UTACFWrk"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        },
+        {
+          "name": "Brand\u00e3o85",
+          "url": "https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285000,
+      "name": "Isso \u00e9 S\u00e9rio",
+      "url": "https://open.spotify.com/track/3Sa2gVQioE31DcG4nKNDqD"
+    },
+    {
+      "album": {
         "name": "It'll Be Okay",
         "url": "https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r"
       },
@@ -13663,6 +13779,24 @@
     },
     {
       "album": {
+        "name": "333",
+        "url": "https://open.spotify.com/album/5CP84pfi4AFe95UTACFWrk"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208495,
+      "name": "Like This!",
+      "url": "https://open.spotify.com/track/49gGZLLm1d7fBFQkTqskXo"
+    },
+    {
+      "album": {
         "name": "Lingerie",
         "url": "https://open.spotify.com/album/2SopLfpjAF0IespcnP6LG0"
       },
@@ -14612,6 +14746,24 @@
       "duration_ms": 150486,
       "name": "Mango",
       "url": "https://open.spotify.com/track/1giteNoUMOXbI8InMf0azH"
+    },
+    {
+      "album": {
+        "name": "333",
+        "url": "https://open.spotify.com/album/5CP84pfi4AFe95UTACFWrk"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204339,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/2ux3Sb90r5aA74nLMls1u0"
     },
     {
       "album": {
@@ -17491,6 +17643,24 @@
     },
     {
       "album": {
+        "name": "333",
+        "url": "https://open.spotify.com/album/5CP84pfi4AFe95UTACFWrk"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312480,
+      "name": "O Som",
+      "url": "https://open.spotify.com/track/4v0VOuuaZSQHjnjzkC3cnk"
+    },
+    {
+      "album": {
         "name": "GUTS (spilled)",
         "url": "https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu"
       },
@@ -17582,7 +17752,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 156577,
       "name": "Ohnana",
       "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
@@ -19532,7 +19702,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 144360,
       "name": "Problemas de um Milion\u00e1rio",
       "url": "https://open.spotify.com/track/0VybBobSYSzliyEJ1VqwGR"
@@ -24194,7 +24364,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 266666,
       "name": "THE BOX MEDLEY FUNK 2",
       "url": "https://open.spotify.com/track/7IFsTX5H1sWcEl8joV0IdD"
@@ -24974,7 +25144,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-07",
+      "date_removed": null,
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp"
@@ -24992,7 +25162,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C"
@@ -25836,6 +26006,24 @@
       "duration_ms": 210757,
       "name": "UUUUHH",
       "url": "https://open.spotify.com/track/1Jk03rMQGTjdkjNtCGgkPd"
+    },
+    {
+      "album": {
+        "name": "333",
+        "url": "https://open.spotify.com/album/5CP84pfi4AFe95UTACFWrk"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146160,
+      "name": "V de Vil\u00e3o",
+      "url": "https://open.spotify.com/track/7pMfMzfYSTbNxj5lJEbQIp"
     },
     {
       "album": {

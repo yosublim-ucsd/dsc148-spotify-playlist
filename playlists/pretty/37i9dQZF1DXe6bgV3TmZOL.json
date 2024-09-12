@@ -1,6 +1,6 @@
 {
   "description": "If your workout doubles as an outlet for your aggression, this is the playlist for you.",
-  "num_followers": 2400745,
+  "num_followers": 2400975,
   "original_name": "Heavy Workout",
   "owner": {
     "name": "Spotify",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-09-05 15:57:26",
       "album": {
-        "name": "Gold Cobra (Deluxe)",
-        "url": "https://open.spotify.com/album/5SWyjakBNg9n0JpnHaQQSI"
-      },
-      "artists": [
-        {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
-        }
-      ],
-      "duration_ms": 233533,
-      "name": "Gold Cobra",
-      "url": "https://open.spotify.com/track/2PDdjoIa7fHriNPkqu055e"
-    },
-    {
-      "added_at": "2024-09-05 15:57:26",
-      "album": {
         "name": "Bad Vibrations (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5rSgMFmmuaKQxma4bSEviU"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 200676,
       "name": "Paranoia",
       "url": "https://open.spotify.com/track/3HhaSocKwTptze7PySNZlW"
+    },
+    {
+      "added_at": "2024-09-05 15:57:26",
+      "album": {
+        "name": "Gold Cobra (Deluxe)",
+        "url": "https://open.spotify.com/album/5SWyjakBNg9n0JpnHaQQSI"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 233533,
+      "name": "Gold Cobra",
+      "url": "https://open.spotify.com/track/2PDdjoIa7fHriNPkqu055e"
     },
     {
       "added_at": "2024-09-05 15:57:26",
@@ -1179,6 +1179,30 @@
     {
       "added_at": "2024-09-05 15:57:26",
       "album": {
+        "name": "VERITAS",
+        "url": "https://open.spotify.com/album/3A12nZnNwruBUgmEMbaZO7"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        },
+        {
+          "name": "Tatiana Shmayluk",
+          "url": "https://open.spotify.com/artist/4jUJBAkaX0Foc8fjhuyfpa"
+        },
+        {
+          "name": "Jinjer",
+          "url": "https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf"
+        }
+      ],
+      "duration_ms": 184215,
+      "name": "AFRAID TO DIE (feat. Tatiana Shmayluyk from Jinjer)",
+      "url": "https://open.spotify.com/track/70XQAZsck714xP80hqeUsj"
+    },
+    {
+      "added_at": "2024-09-05 15:57:26",
+      "album": {
         "name": "Wisconsin Death Trip",
         "url": "https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5"
       },
@@ -1223,30 +1247,6 @@
       "duration_ms": 179093,
       "name": "PvP",
       "url": "https://open.spotify.com/track/46HFTyFqLMzSye98Arqa98"
-    },
-    {
-      "added_at": "2024-09-05 15:57:26",
-      "album": {
-        "name": "VERITAS",
-        "url": "https://open.spotify.com/album/3A12nZnNwruBUgmEMbaZO7"
-      },
-      "artists": [
-        {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
-        },
-        {
-          "name": "Tatiana Shmayluk",
-          "url": "https://open.spotify.com/artist/4jUJBAkaX0Foc8fjhuyfpa"
-        },
-        {
-          "name": "Jinjer",
-          "url": "https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf"
-        }
-      ],
-      "duration_ms": 184215,
-      "name": "AFRAID TO DIE (feat. Tatiana Shmayluyk from Jinjer)",
-      "url": "https://open.spotify.com/track/70XQAZsck714xP80hqeUsj"
     },
     {
       "added_at": "2024-09-05 15:57:26",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-09-05 15:57:26",
       "album": {
-        "name": "Ember",
-        "url": "https://open.spotify.com/album/2D1s85eD7MLnPd3zjfK4tr"
-      },
-      "artists": [
-        {
-          "name": "Breaking Benjamin",
-          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
-        }
-      ],
-      "duration_ms": 257453,
-      "name": "Torn in Two",
-      "url": "https://open.spotify.com/track/3IiMnjK7S2PlsPVMuAH7rU"
-    },
-    {
-      "added_at": "2024-09-05 15:57:26",
-      "album": {
         "name": "Violent Noise",
         "url": "https://open.spotify.com/album/7J66HLhb0QYzZ5P19tHcZP"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 193653,
       "name": "Why Am I Like This?",
       "url": "https://open.spotify.com/track/1wZy1qIk3qPVv33I9bALi6"
+    },
+    {
+      "added_at": "2024-09-05 15:57:26",
+      "album": {
+        "name": "Ember",
+        "url": "https://open.spotify.com/album/2D1s85eD7MLnPd3zjfK4tr"
+      },
+      "artists": [
+        {
+          "name": "Breaking Benjamin",
+          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
+        }
+      ],
+      "duration_ms": 257453,
+      "name": "Torn in Two",
+      "url": "https://open.spotify.com/track/3IiMnjK7S2PlsPVMuAH7rU"
     },
     {
       "added_at": "2024-09-05 15:57:26",

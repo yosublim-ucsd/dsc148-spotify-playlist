@@ -4,7 +4,7 @@
 
 > New & best K\-Electronic music is here\. \(Cover: GIRIBOY\(기리보이\)\)
 
-195 songs - 10 hr 58 min
+196 songs - 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Baggy Jeans \- KIM MINCHEOL & HAYATE Remix](https://open.spotify.com/track/7zxw70wfBUsKWmOXS3fkq4) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ), [KIM MINCHEOL & HAYATE](https://open.spotify.com/artist/0KF5ZsmNgMLjLtqNsWwhbm) | [iScreaM Vol.27 : Baggy Jeans Remixes](https://open.spotify.com/album/1WiGUxmUf3kqrl144mxTpq) | 3:08 | 2024-04-05 | 2024-04-19 |
 | [Bail\-E](https://open.spotify.com/track/4q5UlYGp3arPnpSFdyWsga) | [Mr\. Ho](https://open.spotify.com/artist/44LzZsFXgy7Ft4EsT3WlI8), [Mogwaa](https://open.spotify.com/artist/0ZMvuGH9qIoI5xBA4g0Tqy) | [Eu li EP](https://open.spotify.com/album/2I9SmVc4Pk5LecDTu52uDG) | 7:52 | 2024-04-05 |  |
 | [Bambi \- BRLLNT Remix](https://open.spotify.com/track/5vzojJMMU60TkCDAfMyvnR) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl), [BRLLNT](https://open.spotify.com/artist/78EdVeIJjaqrSJdEaps9rt) | [iScreaM Vol.8 : Bambi Remixes](https://open.spotify.com/album/3jG3MaPuDcZawL3mKb0LOj) | 2:51 | 2024-04-05 |  |
-| [Bambi \- h4rdy Remix](https://open.spotify.com/track/6ECpFEjryPvCdGPHVktmFY) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl), [h4rdy](https://open.spotify.com/artist/7JvaJdbpBgiVUWfxTal27Z) | [iScreaM Vol.8 : Bambi Remixes](https://open.spotify.com/album/3jG3MaPuDcZawL3mKb0LOj) | 4:00 | 2024-04-05 |  |
+| [Bambi \- h4rdy Remix](https://open.spotify.com/track/6ECpFEjryPvCdGPHVktmFY) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl), [h4rdy](https://open.spotify.com/artist/7JvaJdbpBgiVUWfxTal27Z) | [iScreaM Vol.8 : Bambi Remixes](https://open.spotify.com/album/3jG3MaPuDcZawL3mKb0LOj) | 4:00 | 2024-04-05 | 2024-09-12 |
 | [Be Your Breeze \- Dyako Remix](https://open.spotify.com/track/0CufLeUWzEjOisimpSDVXl) | [Yunsae](https://open.spotify.com/artist/7DLucR65sSvihkpKZcdymt) | [Be Your Breeze \(Remixes\)](https://open.spotify.com/album/50OdjnCJjGLB3aw1rN2CZo) | 3:38 | 2024-09-04 |  |
 | [Before the Dawn](https://open.spotify.com/track/1XxO5dOZ5R3y4q7belU1gx) | [GLORY](https://open.spotify.com/artist/0WAdBPEn1hg0ZnHen70tEr) | [Before the Dawn](https://open.spotify.com/album/0yFqUsqveM9BlSSdqI2zWk) | 2:56 | 2024-04-05 | 2024-06-09 |
 | [Better Off \(feat\. FLANNEL ALBERT\)](https://open.spotify.com/track/2sdEeYl3etMldzUFp0QS0C) | [Pure 100%](https://open.spotify.com/artist/1j6Xsh5L64ZW29gJ7CIhsP), [FLANNEL ALBERT](https://open.spotify.com/artist/1LhOhPJ3Z1uTaybvUVg2lC) | [Better Off \(feat\. FLANNEL ALBERT\)](https://open.spotify.com/album/0s10sDLTOXD2jDXqEqS7nf) | 3:13 | 2024-06-28 | 2024-07-17 |
@@ -89,6 +89,7 @@
 | [Girls \- Minit Remix](https://open.spotify.com/track/7yJktKsS9pNnEpwZWTdX5C) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Minit](https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m) | [iScreaM Vol.18 : Girls Remixes](https://open.spotify.com/album/2jK7H4A5Y2xJaoOyzBedaS) | 3:42 | 2024-04-18 | 2024-05-27 |
 | [Glitch Mode \- JINBO Remix](https://open.spotify.com/track/6gVZB0cp9QmWoduXVWOgHM) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02), [JINBO the SuperFreak](https://open.spotify.com/artist/4PlxqkEk6seCManiTAPTWb) | [iScreaM Vol.16 : Glitch Mode Remix](https://open.spotify.com/album/1qCGvCguJOKwfJbfBH8q8O) | 4:37 | 2024-04-05 |  |
 | [Going Dumb \(with Stray Kids\)](https://open.spotify.com/track/3Ea1CNsTqBY4RtAESrBeNI) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [CORSAK](https://open.spotify.com/artist/1TcbdifqhtxLz77unBYJ7z) | [Going Dumb](https://open.spotify.com/album/5IMZvYqklgYzabWtgtD74l) | 2:49 | 2024-06-28 |  |
+| [GROUSE](https://open.spotify.com/track/2oKZdWw77Di9ZCLI82zkdv) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [GRB02](https://open.spotify.com/album/7jbVRExKqUqRUtAXFAJeHG) | 3:18 | 2024-09-10 |  |
 | [Heart Of Steel](https://open.spotify.com/track/75dE6BHbk7fOra3OEvChg3) | [Raiden](https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ), [Bright Lights](https://open.spotify.com/artist/2AoeqcUs8DySgZRJ9yV4Ou) | [Heart Of Steel](https://open.spotify.com/album/2MvflJ13HmbZoSOOhOcSGS) | 3:27 | 2024-06-28 |  |
 | [Hold You](https://open.spotify.com/track/19DjnoLxpF2Nly502nDPGG) | [Chill Satellite](https://open.spotify.com/artist/4vZ2mRnHWxGV3JEn2SO0aA), [P3PPER](https://open.spotify.com/artist/0iq9s28aS7Tzobq9Yznwnj) | [Hold You](https://open.spotify.com/album/2jNiU6yeQ3Lj8R2uj2fuXw) | 2:48 | 2024-04-05 |  |
 | [Holding On](https://open.spotify.com/track/4ifbptuJonGrbX2tmxg8pw) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx), [Jaime Deraz](https://open.spotify.com/artist/4J7ascv32yT6yE75KRCktv) | [Holding On](https://open.spotify.com/album/5yIFAkA5UJOMEUvtMlrt7A) | 2:48 | 2024-06-28 | 2024-07-17 |

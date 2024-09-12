@@ -1,12 +1,12 @@
 {
   "description": "This is Brenda Fassie. The essential tracks, all in one playlist.",
-  "num_followers": 35797,
+  "num_followers": 35802,
   "original_name": "This Is Brenda Fassie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zt46gAAAAABSOgYuSU4ewjU6f4toiS85",
+  "snapshot_id": "Zt+MAAAAAACCT9LE4x+ZUQhfI32tdl6n",
   "tracks": [
     {
       "added_at": null,
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 205733,
-      "name": "Vuli Ndlela",
-      "url": "https://open.spotify.com/track/68RV0HNYnbkrztSe9sBZ1W"
+      "duration_ms": 220360,
+      "name": "Nomakanjani",
+      "url": "https://open.spotify.com/track/7sAaRNhvkHH87PnV5ArZ98"
     },
     {
       "added_at": null,
@@ -92,9 +92,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 220360,
-      "name": "Nomakanjani",
-      "url": "https://open.spotify.com/track/7sAaRNhvkHH87PnV5ArZ98"
+      "duration_ms": 205733,
+      "name": "Vuli Ndlela",
+      "url": "https://open.spotify.com/track/68RV0HNYnbkrztSe9sBZ1W"
     },
     {
       "added_at": null,
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 290613,
-      "name": "Uyang'Embarasa",
-      "url": "https://open.spotify.com/track/2sYRByVFwMQAx6K0CTWizr"
+      "duration_ms": 298906,
+      "name": "Ngohlala Ngi Nje",
+      "url": "https://open.spotify.com/track/5oV9NjG1DzywliYzg1CLaS"
     },
     {
       "added_at": null,
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 298906,
-      "name": "Ngohlala Ngi Nje",
-      "url": "https://open.spotify.com/track/5oV9NjG1DzywliYzg1CLaS"
+      "duration_ms": 290613,
+      "name": "Uyang'Embarasa",
+      "url": "https://open.spotify.com/track/2sYRByVFwMQAx6K0CTWizr"
     },
     {
       "added_at": null,

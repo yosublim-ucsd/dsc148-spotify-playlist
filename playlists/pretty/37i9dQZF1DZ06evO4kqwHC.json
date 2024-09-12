@@ -1,12 +1,12 @@
 {
-  "description": "This is Foo Fighters. The essential tracks, all in one playlist.",
-  "num_followers": 1076653,
-  "original_name": "This Is Foo Fighters",
+  "description": "This is \u30d5\u30fc\u30fb\u30d5\u30a1\u30a4\u30bf\u30fc\u30ba\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "num_followers": 1076775,
+  "original_name": "This Is \u30d5\u30fc\u30fb\u30d5\u30a1\u30a4\u30bf\u30fc\u30ba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zt46gAAAAAD24k7yzsJKaARDmQ4CCYfu",
+  "snapshot_id": "Zt+MAAAAAAAUxE4l/qFaKl6Br9HWjoeU",
   "tracks": [
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "There Is Nothing Left To Lose",
-        "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
+        "name": "Wasting Light",
+        "url": "https://open.spotify.com/album/5lnQLEUiVDkLbFJHXHQu9m"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 349680,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/7dIh8FF0EzYKS8STv3v4F4"
+      "duration_ms": 286466,
+      "name": "Bridge Burning",
+      "url": "https://open.spotify.com/track/0bHD1nLe7Nhw55ZGJ92332"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wasting Light",
-        "url": "https://open.spotify.com/album/5lnQLEUiVDkLbFJHXHQu9m"
+        "name": "There Is Nothing Left To Lose",
+        "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 286466,
-      "name": "Bridge Burning",
-      "url": "https://open.spotify.com/track/0bHD1nLe7Nhw55ZGJ92332"
+      "duration_ms": 349680,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/7dIh8FF0EzYKS8STv3v4F4"
     },
     {
       "added_at": null,
@@ -809,6 +809,6 @@
       "url": "https://open.spotify.com/track/2styBKRBhlZwPl5geag8KJ"
     }
   ],
-  "unique_name": "This Is Foo Fighters",
+  "unique_name": "This Is \u30d5\u30fc\u30fb\u30d5\u30a1\u30a4\u30bf\u30fc\u30ba",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4kqwHC"
 }

@@ -1,12 +1,12 @@
 {
   "description": "The best new dance & electronic by independent artists and labels. Cover: BOABOA. Artwork by Rewina Beshue.",
-  "num_followers": 183854,
+  "num_followers": 183960,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZttAAQAAAAB38leJ/IAmvz9ygFYeSBeE",
+  "snapshot_id": "ZuHGAgAAAADGm0dwGKuCgqoQxQqNdXmG",
   "tracks": [
     {
       "added_at": "2024-09-06 04:00:00",
@@ -23,6 +23,38 @@
       "duration_ms": 177261,
       "name": "FIREFLY",
       "url": "https://open.spotify.com/track/0H8dcNDVkHUEfQq0EvmMzR"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Switch",
+        "url": "https://open.spotify.com/album/7gBiw8viPA2iL0cxcm2iHv"
+      },
+      "artists": [
+        {
+          "name": "Depart",
+          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
+        }
+      ],
+      "duration_ms": 247741,
+      "name": "Switch",
+      "url": "https://open.spotify.com/track/3He6HI89il6RwEEY3CV5JY"
+    },
+    {
+      "added_at": "2024-09-11 16:32:02",
+      "album": {
+        "name": "lifedrop!",
+        "url": "https://open.spotify.com/album/0FVkI2CneWhahv4afpZYIj"
+      },
+      "artists": [
+        {
+          "name": "Xamd",
+          "url": "https://open.spotify.com/artist/7iru9u1tzWCEe76f7tbRzf"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "\u3042\u306a\u305f\u3060\u3051\u304c",
+      "url": "https://open.spotify.com/track/3qklzOjUkuGl5zDPTHmHKe"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -57,84 +89,68 @@
       "url": "https://open.spotify.com/track/6XhziaA2fyAnIy9NgnHxqX"
     },
     {
-      "added_at": "2024-09-06 17:46:41",
+      "added_at": "2024-09-11 16:32:02",
       "album": {
-        "name": "Rewind",
-        "url": "https://open.spotify.com/album/3PFdCPog0MsyejiQ2KXgjK"
+        "name": "Moving",
+        "url": "https://open.spotify.com/album/72dWzu72E5zFU0QHLrVMGO"
       },
       "artists": [
         {
-          "name": "Bad Friends",
-          "url": "https://open.spotify.com/artist/0zeexLEoXoUJpKmx0PXta8"
+          "name": "Ell Murphy",
+          "url": "https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ"
         }
       ],
-      "duration_ms": 154573,
-      "name": "Rewind",
-      "url": "https://open.spotify.com/track/2qkVQ9BAoeSt762OxF4HrI"
+      "duration_ms": 231527,
+      "name": "Moving",
+      "url": "https://open.spotify.com/track/0QXWcZY9DRDS0e8Czdgdv5"
     },
     {
       "added_at": "2024-09-04 16:07:14",
       "album": {
-        "name": "Firmament / Back To Basics",
-        "url": "https://open.spotify.com/album/3eGUWFX6hTkJJN9KYwUkz9"
+        "name": "A Te",
+        "url": "https://open.spotify.com/album/6PjgiPCi1TiVkBnSptwi8x"
       },
       "artists": [
         {
-          "name": "Deer Jade",
-          "url": "https://open.spotify.com/artist/0QJ6lXlYOHexjfIg4CQrgv"
+          "name": "Disco Bambino",
+          "url": "https://open.spotify.com/artist/3Kd4HaFQtYahGHGqYjIQ93"
         }
       ],
-      "duration_ms": 330531,
-      "name": "Firmament",
-      "url": "https://open.spotify.com/track/5xO5xLmj9LpWABgmIX4zF2"
+      "duration_ms": 183348,
+      "name": "A Te",
+      "url": "https://open.spotify.com/track/3fQPjg4j9p90UURYa0HPNH"
     },
     {
-      "added_at": "2024-08-23 04:00:00",
+      "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Switch",
-        "url": "https://open.spotify.com/album/7gBiw8viPA2iL0cxcm2iHv"
+        "name": "Bring The Beat",
+        "url": "https://open.spotify.com/album/0Pz6LyhxGTMtuSbTRl5UVy"
       },
       "artists": [
         {
-          "name": "Depart",
-          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
+          "name": "VASA",
+          "url": "https://open.spotify.com/artist/2AfkC7SKf63FMnxCKGbncN"
         }
       ],
-      "duration_ms": 247741,
-      "name": "Switch",
-      "url": "https://open.spotify.com/track/3He6HI89il6RwEEY3CV5JY"
+      "duration_ms": 150468,
+      "name": "Bring The Beat",
+      "url": "https://open.spotify.com/track/7f4xsa2uGFACKGXpZ7W2kt"
     },
     {
-      "added_at": "2024-08-14 18:04:42",
+      "added_at": "2024-09-11 16:32:02",
       "album": {
-        "name": "Alene",
-        "url": "https://open.spotify.com/album/5YUGCZfwX8KGs6yVopD5tB"
+        "name": "Midnight Flame",
+        "url": "https://open.spotify.com/album/5A1haYlyRXJMptiWdYnIFP"
       },
       "artists": [
         {
-          "name": "Holdo",
-          "url": "https://open.spotify.com/artist/6KGJwNmZhtZIIcDkMLAfDC"
+          "name": "Rool\u00e9h",
+          "url": "https://open.spotify.com/artist/7zCwvjLktz2o5LFYvTquJu"
         }
       ],
-      "duration_ms": 179538,
-      "name": "Alene",
-      "url": "https://open.spotify.com/track/6plYmlqJjrKvmDVTsy1jtr"
-    },
-    {
-      "added_at": "2024-09-04 16:07:14",
-      "album": {
-        "name": "FALLING (breathing slowly)",
-        "url": "https://open.spotify.com/album/1PWbToqopI8aDJpCP2b0Ew"
-      },
-      "artists": [
-        {
-          "name": "Nanomake",
-          "url": "https://open.spotify.com/artist/5IqyGfpBzT30zaatdUkauJ"
-        }
-      ],
-      "duration_ms": 116571,
-      "name": "FALLING (breathing slowly)",
-      "url": "https://open.spotify.com/track/0Pkwrelbc8cnzZoexCmVeT"
+      "duration_ms": 163636,
+      "name": "Midnight Flame",
+      "url": "https://open.spotify.com/track/7iaDZQjqmQckbtujcC204U"
     },
     {
       "added_at": "2024-08-07 16:28:20",
@@ -173,6 +189,38 @@
       "url": "https://open.spotify.com/track/5Www92j9UCkB0NZJTWnvcg"
     },
     {
+      "added_at": "2024-07-03 22:16:33",
+      "album": {
+        "name": "library",
+        "url": "https://open.spotify.com/album/7a2Gvdzcg91guMenhk4W6G"
+      },
+      "artists": [
+        {
+          "name": "Boone",
+          "url": "https://open.spotify.com/artist/38AjHGnP1jV6bCn2fnx4F5"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "library",
+      "url": "https://open.spotify.com/track/6mz3QCVaJ2RAKqLJiokShY"
+    },
+    {
+      "added_at": "2024-09-11 16:32:02",
+      "album": {
+        "name": "help me",
+        "url": "https://open.spotify.com/album/4r8CyJ2aKoc50l92rOqvMA"
+      },
+      "artists": [
+        {
+          "name": "silvershore",
+          "url": "https://open.spotify.com/artist/5ugiiDMswZlkI97yinhvEt"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "help me",
+      "url": "https://open.spotify.com/track/3Z0vv6Zi5FQZm1RbJh5Qwk"
+    },
+    {
       "added_at": "2024-08-28 16:35:01",
       "album": {
         "name": "Mistral",
@@ -189,36 +237,20 @@
       "url": "https://open.spotify.com/track/1L6YYwpEEjb4DzumPDEY8G"
     },
     {
-      "added_at": "2024-09-04 16:07:14",
+      "added_at": "2024-08-14 18:04:42",
       "album": {
-        "name": "A Te",
-        "url": "https://open.spotify.com/album/6PjgiPCi1TiVkBnSptwi8x"
+        "name": "Alene",
+        "url": "https://open.spotify.com/album/5YUGCZfwX8KGs6yVopD5tB"
       },
       "artists": [
         {
-          "name": "Disco Bambino",
-          "url": "https://open.spotify.com/artist/3Kd4HaFQtYahGHGqYjIQ93"
+          "name": "Holdo",
+          "url": "https://open.spotify.com/artist/6KGJwNmZhtZIIcDkMLAfDC"
         }
       ],
-      "duration_ms": 183348,
-      "name": "A Te",
-      "url": "https://open.spotify.com/track/3fQPjg4j9p90UURYa0HPNH"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Suddenly",
-        "url": "https://open.spotify.com/album/0FSROfBXxYA2CQ7batbBS0"
-      },
-      "artists": [
-        {
-          "name": "KevTheVirgo",
-          "url": "https://open.spotify.com/artist/3bQMjTGXTq7898vbwYzG8s"
-        }
-      ],
-      "duration_ms": 131076,
-      "name": "Suddenly",
-      "url": "https://open.spotify.com/track/7EDsORKGVnfeRwQXYxlZlT"
+      "duration_ms": 179538,
+      "name": "Alene",
+      "url": "https://open.spotify.com/track/6plYmlqJjrKvmDVTsy1jtr"
     },
     {
       "added_at": "2024-06-27 04:03:44",
@@ -237,20 +269,20 @@
       "url": "https://open.spotify.com/track/3HM98iPblYJraH2pQIwlti"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
+      "added_at": "2024-09-11 16:32:02",
       "album": {
-        "name": "Bring The Beat",
-        "url": "https://open.spotify.com/album/0Pz6LyhxGTMtuSbTRl5UVy"
+        "name": "Pappia",
+        "url": "https://open.spotify.com/album/3uqTQNzxU77PXmRBBSypF9"
       },
       "artists": [
         {
-          "name": "VASA",
-          "url": "https://open.spotify.com/artist/2AfkC7SKf63FMnxCKGbncN"
+          "name": "Leisan",
+          "url": "https://open.spotify.com/artist/1jtvnvAC4u2YWU7QTqoNDF"
         }
       ],
-      "duration_ms": 150468,
-      "name": "Bring The Beat",
-      "url": "https://open.spotify.com/track/7f4xsa2uGFACKGXpZ7W2kt"
+      "duration_ms": 232615,
+      "name": "Pappia",
+      "url": "https://open.spotify.com/track/5qM9dVnxEnSbWdSKC4mSXn"
     },
     {
       "added_at": "2024-08-28 16:35:01",
@@ -279,6 +311,22 @@
       "duration_ms": 298253,
       "name": "ADDY",
       "url": "https://open.spotify.com/track/1coEwDG8qGemFUaw8tFvWX"
+    },
+    {
+      "added_at": "2024-09-06 17:46:41",
+      "album": {
+        "name": "Rewind",
+        "url": "https://open.spotify.com/album/3PFdCPog0MsyejiQ2KXgjK"
+      },
+      "artists": [
+        {
+          "name": "Bad Friends",
+          "url": "https://open.spotify.com/artist/0zeexLEoXoUJpKmx0PXta8"
+        }
+      ],
+      "duration_ms": 154573,
+      "name": "Rewind",
+      "url": "https://open.spotify.com/track/2qkVQ9BAoeSt762OxF4HrI"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -333,20 +381,20 @@
       "url": "https://open.spotify.com/track/3grJx7N0S8SyZnTcewEsUY"
     },
     {
-      "added_at": "2024-09-04 16:07:14",
+      "added_at": "2024-09-11 16:32:02",
       "album": {
-        "name": "My Heart Weighs A Ton",
-        "url": "https://open.spotify.com/album/3ZrDgzyEV7A1rwsXPeEFOC"
+        "name": "Wait",
+        "url": "https://open.spotify.com/album/4lDtIwmSonyopCoxigYiFH"
       },
       "artists": [
         {
-          "name": "Prof. Stranger",
-          "url": "https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp"
+          "name": "Botev",
+          "url": "https://open.spotify.com/artist/6ocmQ5FlDB3SEfWJWo1Ny0"
         }
       ],
-      "duration_ms": 183601,
-      "name": "EVERYDAY IS A NEW BEGINNING",
-      "url": "https://open.spotify.com/track/6KWyM51UniwFc6rx3u20Ye"
+      "duration_ms": 273750,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/6LSpFYdHDPiO6FndWILzCP"
     },
     {
       "added_at": "2024-08-28 16:35:01",
@@ -379,6 +427,22 @@
       "duration_ms": 217208,
       "name": "S\u00f3sia",
       "url": "https://open.spotify.com/track/7lSEldgwOg3nYjQm4SBSy1"
+    },
+    {
+      "added_at": "2024-09-04 16:07:14",
+      "album": {
+        "name": "Firmament / Back To Basics",
+        "url": "https://open.spotify.com/album/3eGUWFX6hTkJJN9KYwUkz9"
+      },
+      "artists": [
+        {
+          "name": "Deer Jade",
+          "url": "https://open.spotify.com/artist/0QJ6lXlYOHexjfIg4CQrgv"
+        }
+      ],
+      "duration_ms": 330531,
+      "name": "Firmament",
+      "url": "https://open.spotify.com/track/5xO5xLmj9LpWABgmIX4zF2"
     },
     {
       "added_at": "2024-09-04 16:07:14",
@@ -429,6 +493,22 @@
       "url": "https://open.spotify.com/track/1wfMk1SDMDC6dHeorjsscl"
     },
     {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Suddenly",
+        "url": "https://open.spotify.com/album/0FSROfBXxYA2CQ7batbBS0"
+      },
+      "artists": [
+        {
+          "name": "KevTheVirgo",
+          "url": "https://open.spotify.com/artist/3bQMjTGXTq7898vbwYzG8s"
+        }
+      ],
+      "duration_ms": 131076,
+      "name": "Suddenly",
+      "url": "https://open.spotify.com/track/7EDsORKGVnfeRwQXYxlZlT"
+    },
+    {
       "added_at": "2024-08-21 17:29:31",
       "album": {
         "name": "Only One",
@@ -443,6 +523,22 @@
       "duration_ms": 154424,
       "name": "Only One",
       "url": "https://open.spotify.com/track/2kmgfAlPhh3kCgSzf1tJkL"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Push That",
+        "url": "https://open.spotify.com/album/1yCMePPdB5S7c8MKTudZZH"
+      },
+      "artists": [
+        {
+          "name": "Stoley",
+          "url": "https://open.spotify.com/artist/3zhrErhSD05oqdDKVs8UVR"
+        }
+      ],
+      "duration_ms": 205278,
+      "name": "Push That",
+      "url": "https://open.spotify.com/track/1xOYdelTPr55KdHr3iiojn"
     },
     {
       "added_at": "2024-08-28 16:35:01",
@@ -479,150 +575,6 @@
       "duration_ms": 253521,
       "name": "While We're Young",
       "url": "https://open.spotify.com/track/3SMpdIqBeWnNg61gOJAt6n"
-    },
-    {
-      "added_at": "2024-09-06 17:46:41",
-      "album": {
-        "name": "Tainted",
-        "url": "https://open.spotify.com/album/12IUX9xBkP6IqRMFuXM8yR"
-      },
-      "artists": [
-        {
-          "name": "Depart",
-          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
-        }
-      ],
-      "duration_ms": 265889,
-      "name": "Tainted",
-      "url": "https://open.spotify.com/track/09yHcTOez0ZoZ4nRol9jv7"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Grindin",
-        "url": "https://open.spotify.com/album/0yJsKRcQPhuvkBg1THKhm0"
-      },
-      "artists": [
-        {
-          "name": "Main Phase",
-          "url": "https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3"
-        }
-      ],
-      "duration_ms": 265347,
-      "name": "Can't Cool With Em",
-      "url": "https://open.spotify.com/track/4tVzD0cG2p0pq8Ls7GoVAq"
-    },
-    {
-      "added_at": "2024-09-04 16:07:14",
-      "album": {
-        "name": "BEG 4 U",
-        "url": "https://open.spotify.com/album/4R2EVLx19vi4RStVu3bzPW"
-      },
-      "artists": [
-        {
-          "name": "Veruna",
-          "url": "https://open.spotify.com/artist/338AaaZBkuUP5ojfEcpJUq"
-        }
-      ],
-      "duration_ms": 166701,
-      "name": "BEG 4 U",
-      "url": "https://open.spotify.com/track/5mP10gFra9Cry2hUMh0ihu"
-    },
-    {
-      "added_at": "2024-08-21 17:29:31",
-      "album": {
-        "name": "Bossa",
-        "url": "https://open.spotify.com/album/6SiNyPAzNJASnWYaz0ZrgO"
-      },
-      "artists": [
-        {
-          "name": "Ohmfield",
-          "url": "https://open.spotify.com/artist/49YjxCdOqqRtPByQatxh4z"
-        }
-      ],
-      "duration_ms": 151565,
-      "name": "Bossa",
-      "url": "https://open.spotify.com/track/3h6u0KpvMO0pJ7PtjAvfbe"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Push That",
-        "url": "https://open.spotify.com/album/1yCMePPdB5S7c8MKTudZZH"
-      },
-      "artists": [
-        {
-          "name": "Stoley",
-          "url": "https://open.spotify.com/artist/3zhrErhSD05oqdDKVs8UVR"
-        }
-      ],
-      "duration_ms": 205278,
-      "name": "Push That",
-      "url": "https://open.spotify.com/track/1xOYdelTPr55KdHr3iiojn"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Titatite",
-        "url": "https://open.spotify.com/album/2FYzhHxTqcvHffJWkjQPbJ"
-      },
-      "artists": [
-        {
-          "name": "Luch",
-          "url": "https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp"
-        }
-      ],
-      "duration_ms": 161311,
-      "name": "Titatite - Radio Edit",
-      "url": "https://open.spotify.com/track/2K0oKmsSeBoCp6dEjfv98T"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Cohete",
-        "url": "https://open.spotify.com/album/6fbYYWkGPCfGy7B1TD1mw1"
-      },
-      "artists": [
-        {
-          "name": "Juan Dileju",
-          "url": "https://open.spotify.com/artist/00es8O5qsOBGlhNSvPJtS0"
-        }
-      ],
-      "duration_ms": 211384,
-      "name": "Cohete",
-      "url": "https://open.spotify.com/track/6NIoeWyJ4lyrcywJcs5DQL"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Pu!se",
-        "url": "https://open.spotify.com/album/0Ylubbochq7atUpbaxCsZR"
-      },
-      "artists": [
-        {
-          "name": "SKYTOPIA",
-          "url": "https://open.spotify.com/artist/56jEGEMS3yWgdUKCWuacqM"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Pu!se",
-      "url": "https://open.spotify.com/track/0korDVis4AoQIH1ICWvmLB"
-    },
-    {
-      "added_at": "2024-07-03 22:16:33",
-      "album": {
-        "name": "library",
-        "url": "https://open.spotify.com/album/7a2Gvdzcg91guMenhk4W6G"
-      },
-      "artists": [
-        {
-          "name": "Boone",
-          "url": "https://open.spotify.com/artist/38AjHGnP1jV6bCn2fnx4F5"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "library",
-      "url": "https://open.spotify.com/track/6mz3QCVaJ2RAKqLJiokShY"
     },
     {
       "added_at": "2024-09-04 16:07:14",
@@ -671,6 +623,150 @@
       "duration_ms": 232319,
       "name": "Affection",
       "url": "https://open.spotify.com/track/2LXmCjncKHHcNxXBorMxEV"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Grindin",
+        "url": "https://open.spotify.com/album/0yJsKRcQPhuvkBg1THKhm0"
+      },
+      "artists": [
+        {
+          "name": "Main Phase",
+          "url": "https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3"
+        }
+      ],
+      "duration_ms": 265347,
+      "name": "Can't Cool With Em",
+      "url": "https://open.spotify.com/track/4tVzD0cG2p0pq8Ls7GoVAq"
+    },
+    {
+      "added_at": "2024-09-04 16:07:14",
+      "album": {
+        "name": "My Heart Weighs A Ton",
+        "url": "https://open.spotify.com/album/3ZrDgzyEV7A1rwsXPeEFOC"
+      },
+      "artists": [
+        {
+          "name": "Prof. Stranger",
+          "url": "https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp"
+        }
+      ],
+      "duration_ms": 183601,
+      "name": "EVERYDAY IS A NEW BEGINNING",
+      "url": "https://open.spotify.com/track/6KWyM51UniwFc6rx3u20Ye"
+    },
+    {
+      "added_at": "2024-09-06 17:46:41",
+      "album": {
+        "name": "Tainted",
+        "url": "https://open.spotify.com/album/12IUX9xBkP6IqRMFuXM8yR"
+      },
+      "artists": [
+        {
+          "name": "Depart",
+          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
+        }
+      ],
+      "duration_ms": 265889,
+      "name": "Tainted",
+      "url": "https://open.spotify.com/track/09yHcTOez0ZoZ4nRol9jv7"
+    },
+    {
+      "added_at": "2024-09-04 16:07:14",
+      "album": {
+        "name": "BEG 4 U",
+        "url": "https://open.spotify.com/album/4R2EVLx19vi4RStVu3bzPW"
+      },
+      "artists": [
+        {
+          "name": "Veruna",
+          "url": "https://open.spotify.com/artist/338AaaZBkuUP5ojfEcpJUq"
+        }
+      ],
+      "duration_ms": 166701,
+      "name": "BEG 4 U",
+      "url": "https://open.spotify.com/track/5mP10gFra9Cry2hUMh0ihu"
+    },
+    {
+      "added_at": "2024-09-04 16:07:14",
+      "album": {
+        "name": "FALLING (breathing slowly)",
+        "url": "https://open.spotify.com/album/1PWbToqopI8aDJpCP2b0Ew"
+      },
+      "artists": [
+        {
+          "name": "Nanomake",
+          "url": "https://open.spotify.com/artist/5IqyGfpBzT30zaatdUkauJ"
+        }
+      ],
+      "duration_ms": 116571,
+      "name": "FALLING (breathing slowly)",
+      "url": "https://open.spotify.com/track/0Pkwrelbc8cnzZoexCmVeT"
+    },
+    {
+      "added_at": "2024-08-21 17:29:31",
+      "album": {
+        "name": "Bossa",
+        "url": "https://open.spotify.com/album/6SiNyPAzNJASnWYaz0ZrgO"
+      },
+      "artists": [
+        {
+          "name": "Ohmfield",
+          "url": "https://open.spotify.com/artist/49YjxCdOqqRtPByQatxh4z"
+        }
+      ],
+      "duration_ms": 151565,
+      "name": "Bossa",
+      "url": "https://open.spotify.com/track/3h6u0KpvMO0pJ7PtjAvfbe"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Titatite",
+        "url": "https://open.spotify.com/album/2FYzhHxTqcvHffJWkjQPbJ"
+      },
+      "artists": [
+        {
+          "name": "Luch",
+          "url": "https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp"
+        }
+      ],
+      "duration_ms": 161311,
+      "name": "Titatite - Radio Edit",
+      "url": "https://open.spotify.com/track/2K0oKmsSeBoCp6dEjfv98T"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Cohete",
+        "url": "https://open.spotify.com/album/6fbYYWkGPCfGy7B1TD1mw1"
+      },
+      "artists": [
+        {
+          "name": "Juan Dileju",
+          "url": "https://open.spotify.com/artist/00es8O5qsOBGlhNSvPJtS0"
+        }
+      ],
+      "duration_ms": 211384,
+      "name": "Cohete",
+      "url": "https://open.spotify.com/track/6NIoeWyJ4lyrcywJcs5DQL"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Pu!se",
+        "url": "https://open.spotify.com/album/0Ylubbochq7atUpbaxCsZR"
+      },
+      "artists": [
+        {
+          "name": "SKYTOPIA",
+          "url": "https://open.spotify.com/artist/56jEGEMS3yWgdUKCWuacqM"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Pu!se",
+      "url": "https://open.spotify.com/track/0korDVis4AoQIH1ICWvmLB"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1105,22 +1201,6 @@
       "url": "https://open.spotify.com/track/47d9FnUdu8dWE4P7Yo6Hze"
     },
     {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "honestly, does this smell off to you?",
-        "url": "https://open.spotify.com/album/0eKqePmS9dzF7zjgJmbZDI"
-      },
-      "artists": [
-        {
-          "name": "niina",
-          "url": "https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh"
-        }
-      ],
-      "duration_ms": 201053,
-      "name": "limousine",
-      "url": "https://open.spotify.com/track/2sIPLzQMJYBjQRcd8QRLKH"
-    },
-    {
       "added_at": "2024-08-07 16:47:13",
       "album": {
         "name": "Digital girl",
@@ -1369,22 +1449,6 @@
       "url": "https://open.spotify.com/track/2WRQalginfUIKukTiYdymL"
     },
     {
-      "added_at": "2024-08-07 16:28:20",
-      "album": {
-        "name": "Shug",
-        "url": "https://open.spotify.com/album/4siaOH20Zol8irPjB3TNF7"
-      },
-      "artists": [
-        {
-          "name": "2touch",
-          "url": "https://open.spotify.com/artist/2RikPlsCIooWbVXeFikhcq"
-        }
-      ],
-      "duration_ms": 189213,
-      "name": "Clears",
-      "url": "https://open.spotify.com/track/2XNAiUiyDFWG5xzNBMuYxN"
-    },
-    {
       "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "does your mother know?",
@@ -1465,22 +1529,6 @@
       "url": "https://open.spotify.com/track/0QiOlPQbIBoGHO4mCp2cBC"
     },
     {
-      "added_at": "2024-05-23 03:04:18",
-      "album": {
-        "name": "Never Leave",
-        "url": "https://open.spotify.com/album/1VRL0W2GX4Dqivb2yhweUs"
-      },
-      "artists": [
-        {
-          "name": "Mezraa",
-          "url": "https://open.spotify.com/artist/6oT0L9KXaIDDW38IpYuvRs"
-        }
-      ],
-      "duration_ms": 240651,
-      "name": "Never Leave",
-      "url": "https://open.spotify.com/track/4TZED3XiqWZROYvMGC3jvY"
-    },
-    {
       "added_at": "2024-07-10 17:56:31",
       "album": {
         "name": "Latinas",
@@ -1499,22 +1547,6 @@
       "duration_ms": 146507,
       "name": "Latinas",
       "url": "https://open.spotify.com/track/7wWhS49wnWFdFqVQRBBXvu"
-    },
-    {
-      "added_at": "2024-03-27 17:04:34",
-      "album": {
-        "name": "Warm The Room EP",
-        "url": "https://open.spotify.com/album/6XHIfFyCpIKW4eaKSfm9MY"
-      },
-      "artists": [
-        {
-          "name": "Vales",
-          "url": "https://open.spotify.com/artist/4ivi3u9exYoKCz1c01QfqE"
-        }
-      ],
-      "duration_ms": 198095,
-      "name": "Warm The Room",
-      "url": "https://open.spotify.com/track/3o3RBrOBpe1OkJpoSRwDqo"
     },
     {
       "added_at": "2024-07-10 17:56:31",
@@ -1623,38 +1655,6 @@
       "duration_ms": 211200,
       "name": "BETTER4U",
       "url": "https://open.spotify.com/track/71mh0Jiw6oJrUndhwWyqVi"
-    },
-    {
-      "added_at": "2024-06-20 04:47:08",
-      "album": {
-        "name": "back together",
-        "url": "https://open.spotify.com/album/4Ky0izg255MXVlzeQ31eC6"
-      },
-      "artists": [
-        {
-          "name": "Jimmi King",
-          "url": "https://open.spotify.com/artist/3ekb7bNGfNhTTcWClGgVHV"
-        }
-      ],
-      "duration_ms": 214318,
-      "name": "back together",
-      "url": "https://open.spotify.com/track/1Mu31xsS4kVaXByJhf9M0A"
-    },
-    {
-      "added_at": "2024-04-03 23:31:06",
-      "album": {
-        "name": "JUMP",
-        "url": "https://open.spotify.com/album/1Kl9pOglEGhjWgCHIoqO58"
-      },
-      "artists": [
-        {
-          "name": "me n \u00fc",
-          "url": "https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f"
-        }
-      ],
-      "duration_ms": 181904,
-      "name": "JUMP",
-      "url": "https://open.spotify.com/track/1EsZpe7WpvsZ1GxkMDt6I3"
     },
     {
       "added_at": "2024-04-10 18:23:48",

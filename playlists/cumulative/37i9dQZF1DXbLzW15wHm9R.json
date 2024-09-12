@@ -249,6 +249,24 @@
     },
     {
       "album": {
+        "name": "Timeless - Deluxe",
+        "url": "https://open.spotify.com/album/7mePeoRszpMqgvTAc9uRY0"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154504,
+      "name": "Criminals",
+      "url": "https://open.spotify.com/track/1gMFAi2auKTgHsYH7nIBhv"
+    },
+    {
+      "album": {
         "name": "Dance Before We Walk (From \u201cThe Idea of You\u201d)",
         "url": "https://open.spotify.com/album/6cJvVRDKO1eZcKomjxVQUK"
       },
@@ -260,7 +278,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 157658,
       "name": "Dance Before We Walk (From \u201cThe Idea of You\u201d)",
       "url": "https://open.spotify.com/track/7xELUwXl4BJq1Hm3PE2v1R"
@@ -716,6 +734,24 @@
       "duration_ms": 206038,
       "name": "Love Will Survive (from The Tattooist of Auschwitz)",
       "url": "https://open.spotify.com/track/2kg2umf0E4toQ29Wrobrjz"
+    },
+    {
+      "album": {
+        "name": "A Tramp Shining",
+        "url": "https://open.spotify.com/album/5UZvF4xIz7lbGwxIW7AcV7"
+      },
+      "artists": [
+        {
+          "name": "Richard Harris",
+          "url": "https://open.spotify.com/artist/30Qh39o424P9qgdHNVouvo"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 450106,
+      "name": "MacArthur Park",
+      "url": "https://open.spotify.com/track/5DBEFajBEaHgbbwe7oN0KP"
     },
     {
       "album": {
@@ -1186,7 +1222,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 193443,
       "name": "Sweet Morning Heat (from the Netflix Film \"Unfrosted\")",
       "url": "https://open.spotify.com/track/6rJmvaxHxJofkrGn1azjrd"

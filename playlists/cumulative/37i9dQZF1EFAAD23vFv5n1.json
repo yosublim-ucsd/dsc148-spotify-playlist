@@ -1119,6 +1119,24 @@
     },
     {
       "album": {
+        "name": "Male",
+        "url": "https://open.spotify.com/album/3r06PlP8UOSokqGzE0XWxW"
+      },
+      "artists": [
+        {
+          "name": "Ganzo",
+          "url": "https://open.spotify.com/artist/4N4LelQ5TM7dEhi5TASLLw"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147520,
+      "name": "Male",
+      "url": "https://open.spotify.com/track/26HVAOi74rSqtArB3AwR8v"
+    },
+    {
+      "album": {
         "name": "Maremoto",
         "url": "https://open.spotify.com/album/5qiLpQpRR0eF2fkV3qTJP4"
       },

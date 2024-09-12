@@ -2,7 +2,7 @@
 
 ### [This Is Rev\. Gary Davis](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4wpPxg)
 
-> This is Rev\. Gary Davis\. The essential tracks, all in one playlist.
+> This is: Rev\. Gary Davis\. Alle wichtigen Tracks in einer Playlist.
 
 312 songs - 19 hr 37 min
 

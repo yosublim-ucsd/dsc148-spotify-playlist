@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtOKhkK5Mem.md) - [plain]
 
 > Male artists singing about love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 768,175 likes - 150 songs - 10 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 768,294 likes - 150 songs - 10 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtOKhkK5Mem.md) - [plain]
 | 63 | [How Deep Is Your Love](https://open.spotify.com/track/0pO9wem4wi61QD2PWFpIJQ) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ) | [Never Forget: The Ultimate Collection](https://open.spotify.com/album/7jzGCK8GdjuWEAe1lZ71xI) | 3:40 |
 | 64 | [Careless Whisper](https://open.spotify.com/track/2R7858bg0GHuBBxjTyOL7N) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [The Final](https://open.spotify.com/album/6ZJD7uT643TvniNyAk90bd) | 5:02 |
 | 65 | [The Most Beautiful Girl In the World](https://open.spotify.com/track/0aPaGIX2QIMAH5SMp0VEMe) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [The Gold Experience](https://open.spotify.com/album/7JdnQ7zCfqETcLgS94d3ks) | 4:25 |
-| 66 | [Stop Loving You](https://open.spotify.com/track/73bzcsDjx9FqzqKWcPLMiH) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [The Seventh One](https://open.spotify.com/album/7LVxCg18peWcBBdu7Xr6r3) | 4:29 |
-| 67 | [Hello](https://open.spotify.com/track/0mHyWYXmmCB9iQyK18m3FQ) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Can't Slow Down](https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr) | 4:11 |
+| 66 | [Hello](https://open.spotify.com/track/0mHyWYXmmCB9iQyK18m3FQ) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Can't Slow Down](https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr) | 4:11 |
+| 67 | [Stop Loving You](https://open.spotify.com/track/73bzcsDjx9FqzqKWcPLMiH) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [The Seventh One](https://open.spotify.com/album/7LVxCg18peWcBBdu7Xr6r3) | 4:29 |
 | 68 | [True](https://open.spotify.com/track/0jdeV5dSB3kUBRqe1xQJbh) | [Ryan Cabrera](https://open.spotify.com/artist/3C4t1usFGoKHCSRdujm2GN) | [Take It All Away \(U.S\. Version\)](https://open.spotify.com/album/78IbgGcKueK33SETMOQfaj) | 3:24 |
 | 69 | [All Out of Love](https://open.spotify.com/track/6Nq8YtPAHuL1outooeiFde) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [Ultimate Air Supply](https://open.spotify.com/album/5PXeBHFjvr8EykHfFxJMje) | 4:01 |
 | 70 | [You & I \(Nobody in the World\)](https://open.spotify.com/track/55nlbqqFVnSsArIeYSQlqx) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Love In The Future \(Expanded Edition\)](https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC) | 4:12 |
@@ -109,8 +109,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtOKhkK5Mem.md) - [plain]
 | 99 | [Movie Star](https://open.spotify.com/track/4a7Z10eGGg3th4H5jqFScX) | [KAIRO](https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v) | [Return To Sender](https://open.spotify.com/album/3jOzdF8WPsqwUp9OznStfw) | 2:52 |
 | 100 | [Tuesdays](https://open.spotify.com/track/7r5cRFkwHuPy7HlzvuovLD) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Tuesdays](https://open.spotify.com/album/3DIMaIqQvaGXaYJMFT9LbD) | 3:36 |
 | 101 | [The Actor](https://open.spotify.com/track/7prFpeH9fXA7cL6ZZWLePs) | [Michael Learns To Rock](https://open.spotify.com/artist/7zMVPOJPs5jgU8NorRxqJe) | [Michael Learns To Rock \(1991\)](https://open.spotify.com/album/4GxVVO2T9r3pf0WzseGyYR) | 4:33 |
-| 102 | [Me and You](https://open.spotify.com/track/3f5rOhrNLYP53c9RcPfp02) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [All I Need To Know](https://open.spotify.com/album/2OWY8X9HTnG6srfrO76bBL) | 3:39 |
-| 103 | [Wasn't Expecting That](https://open.spotify.com/track/7nm68uKwGwMqznlOSBxhps) | [Jamie Lawson](https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND) | [Wasn't Expecting That](https://open.spotify.com/album/5XqxTXtO3W4bDntGmNBc9q) | 3:21 |
+| 102 | [Wasn't Expecting That](https://open.spotify.com/track/7nm68uKwGwMqznlOSBxhps) | [Jamie Lawson](https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND) | [Wasn't Expecting That](https://open.spotify.com/album/5XqxTXtO3W4bDntGmNBc9q) | 3:21 |
+| 103 | [Me and You](https://open.spotify.com/track/3f5rOhrNLYP53c9RcPfp02) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [All I Need To Know](https://open.spotify.com/album/2OWY8X9HTnG6srfrO76bBL) | 3:39 |
 | 104 | [Always](https://open.spotify.com/track/3MQMBm2m3UqpT23doEOZc2) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Always](https://open.spotify.com/album/0PKJ1GtB1639K7P0hbjvfM) | 4:07 |
 | 105 | [Because I Love You \(The Postman Song\)](https://open.spotify.com/track/6VmodO1LYuO5RVpaqn5kwp) | [Stevie B](https://open.spotify.com/artist/6V7pNWhlJpD0s0bMdB1PU9) | [Love And Emotion](https://open.spotify.com/album/0ruAWd75Hr6xtUS2ht8HW1) | 5:03 |
 | 106 | [Heaven \- Acoustic](https://open.spotify.com/track/6iianeJmHrWZEjYXYKlAPY) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Heaven \(Acoustic\)](https://open.spotify.com/album/1sgfTxlmBQblQTkhLMNVmM) | 2:54 |
@@ -118,7 +118,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtOKhkK5Mem.md) - [plain]
 | 108 | [Last Request \(Recorded at Bush Studios\) \- Live; Acoustic](https://open.spotify.com/track/35H5pzqUFrwU1A3iUxP1XQ) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Live Sessions](https://open.spotify.com/album/1oCZj5R2pLKiHyTH7QUkGa) | 3:13 |
 | 109 | [I Swear](https://open.spotify.com/track/0XrZybkQwtDUvLNehXqyVR) | [John Michael Montgomery](https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A) | [Love Songs](https://open.spotify.com/album/5AYFktXxjedXNj49mUUv5i) | 4:22 |
 | 110 | [Come Home](https://open.spotify.com/track/0bJfgUyjfPJYqRgUxb12Eh) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) | 4:21 |
-| 111 | [Wishing You Were Here \- 2002 Remaster](https://open.spotify.com/track/3apndFiT1MCYS9qSy4NJCP) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago VII \(Expanded & Remastered\)](https://open.spotify.com/album/4O8dmYS0wfxvY56LJdp280) | 4:35 |
+| 111 | [Will You Still Love Me? \- 2009 Remaster](https://open.spotify.com/track/4gd4GEhNif1J4l78huiiO1) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago 18 \(Expanded Edition\)](https://open.spotify.com/album/6Jb6GQDM1JxfuULJ0icoyE) | 5:43 |
 | 112 | [Have I Told You Lately \- 2008 Remaster](https://open.spotify.com/track/7Lwj4BttdzmwGIL5pigaMV) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Original Album Series](https://open.spotify.com/album/21ljfWHZeBlA8sJoWAoyXq) | 4:01 |
 | 113 | [The Blower's Daughter](https://open.spotify.com/track/7tdXvaCZmWZJOrZE9zFXpr) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [The Blower's Daughter](https://open.spotify.com/album/4TMMcbyi7mC5aJeOvTn6FW) | 4:48 |
 | 114 | [When I Need You](https://open.spotify.com/track/2EmS1b64xEjUdvDcLE1AuX) | [Leo Sayer](https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV) | [Endless Journey – The Essential Leo Sayer](https://open.spotify.com/album/2qcpKdOFBiNMV7DNnTCW6x) | 4:12 |
@@ -128,7 +128,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtOKhkK5Mem.md) - [plain]
 | 118 | [What If](https://open.spotify.com/track/1nyQWVjQ46agLbVmJJbWR7) | [JOP](https://open.spotify.com/artist/3KKxb3BykQhR9HVdXsSlkO) | [What If](https://open.spotify.com/album/3Pc9topjxyaOZodNqU27Mp) | 2:51 |
 | 119 | [In My Time of Need](https://open.spotify.com/track/4JIGrn55PH4BNnoofFKnYc) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker](https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn) | 5:38 |
 | 120 | [Home \- Remix](https://open.spotify.com/track/2jRMDx1Xu8pvsIUxIePXAt) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3), [Humberto Gatica](https://open.spotify.com/artist/67K364KAVvBthhmq70ct4h) | [It's Time](https://open.spotify.com/album/457fktVFXVwjQTl9wOLlfg) | 3:41 |
-| 121 | [Will You Still Love Me? \- 2009 Remaster](https://open.spotify.com/track/4gd4GEhNif1J4l78huiiO1) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago 18 \(Expanded Edition\)](https://open.spotify.com/album/6Jb6GQDM1JxfuULJ0icoyE) | 5:43 |
+| 121 | [Wishing You Were Here \- 2002 Remaster](https://open.spotify.com/track/3apndFiT1MCYS9qSy4NJCP) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago VII \(Expanded & Remastered\)](https://open.spotify.com/album/4O8dmYS0wfxvY56LJdp280) | 4:35 |
 | 122 | [One Life](https://open.spotify.com/track/2lORrsvCKbWd6OZd5GtqwJ) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [= \- Tour Edition](https://open.spotify.com/album/4MOKrYo3bMUWjUnSirhNz3) | 3:51 |
 | 123 | [Don't give up on us](https://open.spotify.com/track/23IWhAK0cYRwnBT5EE8i3u) | [David Soul](https://open.spotify.com/artist/2eFkm34OMSYRUwP4RAtXaT) | [David Soul](https://open.spotify.com/album/3bK8cxPBLUFkeBeoqzoWtx) | 3:38 |
 | 124 | [Truly Madly Deeply](https://open.spotify.com/track/6MXeTGKPhVuaifyloxs8tL) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Love Songs](https://open.spotify.com/album/0Kqw8feGAz7zQ7cELaIeBs) | 4:37 |

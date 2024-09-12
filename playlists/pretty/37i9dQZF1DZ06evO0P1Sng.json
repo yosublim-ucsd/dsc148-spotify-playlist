@@ -1,12 +1,12 @@
 {
-  "description": "This is Azzy. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 8011,
+  "description": "This is Azzy. The essential tracks, all in one playlist.",
+  "num_followers": 8014,
   "original_name": "This Is Azzy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zt46gAAAAACUPIlkSY5ppoyUm5e2qANO",
+  "snapshot_id": "Zt+MAAAAAACsZrL0PdcNvmw6vdsGdy2E",
   "tracks": [
     {
       "added_at": null,
@@ -919,22 +919,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "VIP",
-        "url": "https://open.spotify.com/album/7un1PXzwYc8D8Mk6eiQDtv"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 130800,
-      "name": "VIP",
-      "url": "https://open.spotify.com/track/4b8tsQoH69au6oca7bozA3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00e1 Influ\u00eancia",
         "url": "https://open.spotify.com/album/1enqkS1DrDducYiQkuYJWw"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 177253,
       "name": "As Ruas Sabem Meu Nome",
       "url": "https://open.spotify.com/track/7KlGZR52HMdpzPihpaMTMl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "VIP",
+        "url": "https://open.spotify.com/album/7un1PXzwYc8D8Mk6eiQDtv"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 130800,
+      "name": "VIP",
+      "url": "https://open.spotify.com/track/4b8tsQoH69au6oca7bozA3"
     },
     {
       "added_at": null,
@@ -1379,6 +1379,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mixtape Rock Danger de Ver\u00e3o",
+        "url": "https://open.spotify.com/album/7sjlpFbePwOakGPErXKiBy"
+      },
+      "artists": [
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Btrem",
+          "url": "https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw"
+        },
+        {
+          "name": "Pedro Apoema",
+          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+        }
+      ],
+      "duration_ms": 124000,
+      "name": "Sonho da Braba",
+      "url": "https://open.spotify.com/track/2Uo76VNtjhQOUPZX9gSmoK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Diamante",
         "url": "https://open.spotify.com/album/7vqZdXVpZPA6Jum52y035n"
       },
@@ -1407,34 +1435,6 @@
       "duration_ms": 144000,
       "name": "Diamante",
       "url": "https://open.spotify.com/track/7wIrCJb8dIHDNU0G76eaQB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mixtape Rock Danger de Ver\u00e3o",
-        "url": "https://open.spotify.com/album/7sjlpFbePwOakGPErXKiBy"
-      },
-      "artists": [
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Btrem",
-          "url": "https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw"
-        },
-        {
-          "name": "Pedro Apoema",
-          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
-        }
-      ],
-      "duration_ms": 124000,
-      "name": "Sonho da Braba",
-      "url": "https://open.spotify.com/track/2Uo76VNtjhQOUPZX9gSmoK"
     }
   ],
   "unique_name": "This Is Azzy",

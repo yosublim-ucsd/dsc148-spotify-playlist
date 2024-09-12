@@ -4,7 +4,7 @@
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Ashe
 
-2,366 songs - 5 day 23 hr 13 min
+2,367 songs - 5 day 23 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,8 @@
 | [Arms of a Lover](https://open.spotify.com/track/1Higk6KB3ETVZw6dip0PyY) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Arms of a Lover](https://open.spotify.com/album/2KELaV63XzaF0MJ2FeIjVK) | 4:14 | 2022-06-17 | 2022-08-13 |
 | [Arrow](https://open.spotify.com/track/2TLDx6E35SywKsaz7zrUbb) | [Roland Faunte](https://open.spotify.com/artist/1IMFkgZ2ZpHknO1v2n97CH) | [Arrow](https://open.spotify.com/album/38tbGrEsmQbhjbC9hXKiIb) | 3:59 | 2024-07-05 |  |
 | [As Sure As I’m Speaking](https://open.spotify.com/track/33BAnSQF1eYV3uP2sB47sm) | [Odie Leigh](https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU) | [The Only Thing Worse Than A Woman Who Lies Is A Girl Who’ll Tell Truths](https://open.spotify.com/album/26sB0HxlHsy0oM4LJ6jjNv) | 2:42 | 2023-07-14 | 2023-09-16 |
-| [Ashe](https://open.spotify.com/track/1NYGXD18EU7QlNuD0sdx9l) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Ashe](https://open.spotify.com/album/3OokDJn75iFhsvGmfOALoY) | 4:21 | 2024-09-06 |  |
+| [Ashe](https://open.spotify.com/track/1NYGXD18EU7QlNuD0sdx9l) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Ashe](https://open.spotify.com/album/3OokDJn75iFhsvGmfOALoY) | 4:21 | 2024-09-06 | 2024-09-12 |
+| [Ashe](https://open.spotify.com/track/4XlNNW3ySftYPo7s7zRL0n) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Willson](https://open.spotify.com/album/7yi77MD43JR5KZAgrOFdrz) | 4:21 | 2024-09-11 |  |
 | [Asymmetry](https://open.spotify.com/track/42PkrZXRieevKfmgxOfDFv) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Asymmetry](https://open.spotify.com/album/7hUysjVpItw73HUo8VS5Tq) | 4:04 | 2023-12-22 | 2024-02-24 |
 | [Atlantis](https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [A Pillar of Salt](https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ) | 5:19 | 2021-11-12 | 2022-01-29 |
 | [Atomized](https://open.spotify.com/track/0vSOiAgMIduuVfloqlaf2t) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Atomized](https://open.spotify.com/album/057lK6W2g5aC8x8gtvtkII) | 4:45 | 2022-03-18 | 2022-04-29 |

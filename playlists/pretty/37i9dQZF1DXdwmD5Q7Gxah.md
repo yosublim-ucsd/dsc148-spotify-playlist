@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > DJ Suzy ⭐
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,155,952 likes - 115 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,157,172 likes - 115 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

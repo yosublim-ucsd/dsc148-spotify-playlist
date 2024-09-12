@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAACuWvxqvGCeK9AgwV067HFA",
+  "snapshot_id": "AAAAAAAAAADdRcvDvIPAqHtKOQqOQvQq",
   "tracks": [
     {
       "added_at": "2024-09-06 03:00:00",
@@ -91,6 +91,22 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
+        "name": "The Rest Of The Best - Vol. 2",
+        "url": "https://open.spotify.com/album/6oz2MkC7QlhdGpx3Lsgeui"
+      },
+      "artists": [
+        {
+          "name": "The Cardigans",
+          "url": "https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw"
+        }
+      ],
+      "duration_ms": 260523,
+      "name": "Communication - Polar Session '01",
+      "url": "https://open.spotify.com/track/7z2ooZp4EXJbsVRVxl3OEp"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
         "name": "Cielo de Amor",
         "url": "https://open.spotify.com/album/1CoUowBSIyWqtutcndZCnY"
       },
@@ -107,42 +123,6 @@
       "duration_ms": 178740,
       "name": "Cielo de Amor",
       "url": "https://open.spotify.com/track/4QPmDnHLVNWRTGJSAX79DP"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
-        "name": "Signs And Wonders",
-        "url": "https://open.spotify.com/album/0KbECwliQ7YW1jSS1wG9K3"
-      },
-      "artists": [
-        {
-          "name": "Thousand Frames",
-          "url": "https://open.spotify.com/artist/1hQiBauFKkGx5m9togUnyc"
-        },
-        {
-          "name": "Eyes Set To Kill",
-          "url": "https://open.spotify.com/artist/7omnn7IRrrxdMwSwchVxNP"
-        }
-      ],
-      "duration_ms": 220546,
-      "name": "The Heart Wants What It Wants",
-      "url": "https://open.spotify.com/track/7kYReScqRScFCa6PxRizJb"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
-        "name": "The Rest Of The Best - Vol. 2",
-        "url": "https://open.spotify.com/album/6oz2MkC7QlhdGpx3Lsgeui"
-      },
-      "artists": [
-        {
-          "name": "The Cardigans",
-          "url": "https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw"
-        }
-      ],
-      "duration_ms": 260523,
-      "name": "Communication - Polar Session '01",
-      "url": "https://open.spotify.com/track/7z2ooZp4EXJbsVRVxl3OEp"
     },
     {
       "added_at": "2024-09-06 03:00:00",
@@ -167,6 +147,26 @@
       "duration_ms": 164285,
       "name": "Never Going Home Tonight (feat. Madison Love)",
       "url": "https://open.spotify.com/track/7K1BLb6MpvKuGEPpHw35mO"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
+        "name": "Signs And Wonders",
+        "url": "https://open.spotify.com/album/0KbECwliQ7YW1jSS1wG9K3"
+      },
+      "artists": [
+        {
+          "name": "Thousand Frames",
+          "url": "https://open.spotify.com/artist/1hQiBauFKkGx5m9togUnyc"
+        },
+        {
+          "name": "Eyes Set To Kill",
+          "url": "https://open.spotify.com/artist/7omnn7IRrrxdMwSwchVxNP"
+        }
+      ],
+      "duration_ms": 220546,
+      "name": "The Heart Wants What It Wants",
+      "url": "https://open.spotify.com/track/7kYReScqRScFCa6PxRizJb"
     },
     {
       "added_at": "2024-09-06 03:00:00",
@@ -227,30 +227,6 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
-        "name": "50 Pistas De M\u00fasica Relajante Para El Sue\u00f1o Y La Atenci\u00f3n Plena",
-        "url": "https://open.spotify.com/album/6s8laUKRDOBioIILrSqpOT"
-      },
-      "artists": [
-        {
-          "name": "CANCIONES DE CUNA",
-          "url": "https://open.spotify.com/artist/0Jc8fJzaMqC5bb0hWhH9Xb"
-        },
-        {
-          "name": "Meditaci\u00f3n",
-          "url": "https://open.spotify.com/artist/1CXnoUdfelMmk8FPXwPtb7"
-        },
-        {
-          "name": "M\u00fasica a Relajarse",
-          "url": "https://open.spotify.com/artist/3Sc9GQ6vPuXwXM5D5NYrv0"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "La Sinfon\u00eda del Sue\u00f1o de la Soledad",
-      "url": "https://open.spotify.com/track/65PBCZweYrssRof7NyJZrb"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
         "name": "Can We Fix Our Nation's Broken Heart",
         "url": "https://open.spotify.com/album/0xnIaAMnfjEyt6Vxs4DxXK"
       },
@@ -279,6 +255,30 @@
       "duration_ms": 239173,
       "name": "Fading Like A Rose (Original +2 bpm)",
       "url": "https://open.spotify.com/track/3TbqYPh4PhmpP7zQYt8iRq"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
+        "name": "50 Pistas De M\u00fasica Relajante Para El Sue\u00f1o Y La Atenci\u00f3n Plena",
+        "url": "https://open.spotify.com/album/6s8laUKRDOBioIILrSqpOT"
+      },
+      "artists": [
+        {
+          "name": "CANCIONES DE CUNA",
+          "url": "https://open.spotify.com/artist/0Jc8fJzaMqC5bb0hWhH9Xb"
+        },
+        {
+          "name": "Meditaci\u00f3n",
+          "url": "https://open.spotify.com/artist/1CXnoUdfelMmk8FPXwPtb7"
+        },
+        {
+          "name": "M\u00fasica a Relajarse",
+          "url": "https://open.spotify.com/artist/3Sc9GQ6vPuXwXM5D5NYrv0"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "La Sinfon\u00eda del Sue\u00f1o de la Soledad",
+      "url": "https://open.spotify.com/track/65PBCZweYrssRof7NyJZrb"
     },
     {
       "added_at": "2024-09-06 03:00:00",
@@ -363,6 +363,22 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
+        "name": "Becoming the Bull",
+        "url": "https://open.spotify.com/album/3KWOfHORWTMYpRGnESMFPb"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "duration_ms": 238363,
+      "name": "Becoming the Bull - Reimagined",
+      "url": "https://open.spotify.com/track/6XoxNa6G8rsbj2W2lxBAFZ"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
         "name": "Thrasher (Live at The Boarding House) - from Archives. Vol III",
         "url": "https://open.spotify.com/album/48xhkUBZZF04g3Y2gdb3RH"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 207160,
       "name": "She Don't Love Me Now",
       "url": "https://open.spotify.com/track/74srY0SjUrZMyjIB6sPQ4R"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
-        "name": "Becoming the Bull",
-        "url": "https://open.spotify.com/album/3KWOfHORWTMYpRGnESMFPb"
-      },
-      "artists": [
-        {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
-        }
-      ],
-      "duration_ms": 238363,
-      "name": "Becoming the Bull - Reimagined",
-      "url": "https://open.spotify.com/track/6XoxNa6G8rsbj2W2lxBAFZ"
     },
     {
       "added_at": "2024-09-06 03:00:00",

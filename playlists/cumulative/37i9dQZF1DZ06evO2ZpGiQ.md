@@ -2,7 +2,7 @@
 
 ### [This Is Lil Wayne](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ZpGiQ)
 
-> This Is Lil Wayne\. Les titres incontournables, réunis dans une seule et même playlist.
+> This is Lil Wayne\. The essential tracks, all in one playlist.
 
 78 songs - 5 hr 4 min
 

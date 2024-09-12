@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5v2J2noHVxPWgSrOw6lZsp.md) - [plain]
 
 > Salt in the air..\. Sand in my hair..\. Rooftop sunsets..\. Celebrate a perfect summer day with hours of coastal acoustic, live versions, and chill hits\. \| Image: <a href="spotify:artist:24Bq9F6DJfzTaqgmoxT5vm">Corey Harper</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,400 likes - 157 songs - 9 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,401 likes - 157 songs - 9 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/5v2J2noHVxPWgSrOw6lZsp.md) - [plain]
 | 54 | [Latch \- Acoustic](https://open.spotify.com/track/7cG68oOj0pZYoSVuP1Jzot) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Deluxe\)](https://open.spotify.com/album/48Q27KoyKp38caYPuy0KXD) | 3:43 |
 | 55 | [Wonderwall](https://open.spotify.com/track/4siFdX3QLfjtzg1HHgCPW7) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 4:08 |
 | 56 | [Fast Car](https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 4:56 |
-| 57 | [Bright](https://open.spotify.com/track/3WKg25vrbjJlkhsgl2W4p3) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x) | [Talking Dreams \(Deluxe Edition\)](https://open.spotify.com/album/1oHY6eQmEG8skElDvFgKz2) | 3:40 |
+| 57 | [Bright](https://open.spotify.com/track/3WKg25vrbjJlkhsgl2W4p3) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x) | [Talking Dreams \- Deluxe Edition](https://open.spotify.com/album/1oHY6eQmEG8skElDvFgKz2) | 3:40 |
 | 58 | [Banana Pancakes](https://open.spotify.com/track/0BgbobvykXxEvxo2HhCuvM) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX) | 3:11 |
 | 59 | [Pumpin Blood \- Acoustic Version](https://open.spotify.com/track/2yj5wWvw5Lz6HwEBbRLKKL) | [NONONO](https://open.spotify.com/artist/513t0jZUP0K98C4h7KHtEb) | [Acoustic EP No\. 1](https://open.spotify.com/album/1JTSWanYWwWUeRBYnYxPCc) | 3:41 |
 | 60 | [Apologize \(Acoustic Version\)](https://open.spotify.com/track/6QT53ohGZeLGoYktBPRePD) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Apologize + See You Again \(Acoustic\)](https://open.spotify.com/album/1JJftqO5YmyYuXXAvfIf1A) | 2:31 |
@@ -110,7 +110,7 @@ pretty - [cumulative](/playlists/cumulative/5v2J2noHVxPWgSrOw6lZsp.md) - [plain]
 | 100 | [Tuolumne](https://open.spotify.com/track/33FEUJFG1lhlH4iPh3CHkF) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Music For The Motion Picture Into The Wild](https://open.spotify.com/album/0AF0eSjB3atcLpJ7gQBop5) | 1:00 |
 | 101 | [Better off \(The Captain Planet Song\)](https://open.spotify.com/track/2NGM3UajMjZgSTibvahWWZ) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [Four Feet in the Forest](https://open.spotify.com/album/6tb5Y6m0GxlqlcxljgR9KW) | 5:35 |
 | 102 | [Ready For You \- Acoustic](https://open.spotify.com/track/3Pq9d20H4XRUvoZNsytpZn) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Communion \(Deluxe\)](https://open.spotify.com/album/50jDQcZjE2kdx5rn3AL0c8) | 3:17 |
-| 103 | [Surround You](https://open.spotify.com/track/1D5ZvPtj09MckFOp2NcadQ) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x) | [Endless Love \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2cn6DXanZWGYjUcslSIwWD) | 3:28 |
+| 103 | [Surround You](https://open.spotify.com/track/1D5ZvPtj09MckFOp2NcadQ) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x) | [Endless Love \- Original Motion Picture Soundtrack](https://open.spotify.com/album/2cn6DXanZWGYjUcslSIwWD) | 3:28 |
 | 104 | [You Wanted More \- Acoustic Version](https://open.spotify.com/track/33UdcDQAJEj88YeET1hL6M) | [Tonic](https://open.spotify.com/artist/6qXwLwTLdA44HYsA26vaNU) | [A Casual Affair \- The Best Of Tonic](https://open.spotify.com/album/3T4nMxe1j3LgnyqFimzlWg) | 3:52 |
 | 105 | [The One That Got Away \- Acoustic](https://open.spotify.com/track/5jx8tCxiO0uIbo2uNia23K) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 4:19 |
 | 106 | [XO](https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [XO](https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1) | 3:33 |

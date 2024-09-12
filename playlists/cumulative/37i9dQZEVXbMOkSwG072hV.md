@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Brazil.
 
-2,677 songs - 5 day 19 hr 59 min
+2,678 songs - 5 day 20 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [16 CARRIAGES](https://open.spotify.com/track/7x5ziCOQFir0AQN8dFisK6) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/2m1enA3YrMLVvR3q0MqLpL) | 3:47 | 2024-03-30 | 2024-04-08 |
 | [16 CARRIAGES](https://open.spotify.com/track/3Fwebmu4BzPUpDtPZo0qHb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [16 CARRIAGES](https://open.spotify.com/album/6PeoltoiWQWCyWA0JBHVGN) | 3:53 | 2024-02-27 | 2024-03-01 |
 | [17 de janeiro](https://open.spotify.com/track/6JhK1r09ZViJy723xux4Ty) | [Os Arrais](https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS) | [Mais](https://open.spotify.com/album/4s3DJODPpSqMtiC5rARb0Y) | 4:31 | 2022-01-19 | 2024-01-26 |
+| [2 Corinthians 5:7](https://open.spotify.com/track/3LaqdUuZtvdNlpSiONNnTF) | [Memphis Depay](https://open.spotify.com/artist/6vHeztszLzqchlxlfUnwAo) | [Heavy Stepper](https://open.spotify.com/album/6GUlB3T4rAWUg0bDVRoFiO) | 2:41 | 2024-09-11 |  |
 | [20 Gramas](https://open.spotify.com/track/3VYKBcUHoSM6TqdSYpeDd0) | [MG CDD](https://open.spotify.com/artist/2zjzZE2PUwitmtRDFgrABn), [Derxan](https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Vt no beat](https://open.spotify.com/artist/6FruCl8GUxsP07s6LpsNKs) | [20 Gramas](https://open.spotify.com/album/2cv9qRR8epYf68ljIW33KG) | 2:40 | 2023-06-27 | 2023-07-05 |
 | [20 Ligações](https://open.spotify.com/track/6MvaRZ6JZgJuXz9b1CMB1y) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf) | [QVVJFA?](https://open.spotify.com/album/5HE9DhP8b3m3LmShTreEvq) | 3:13 | 2022-02-22 | 2022-05-10 |
 | [202](https://open.spotify.com/track/3imzmQM2DPPVBLMiBBexRL) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU) | [202](https://open.spotify.com/album/5F5QjUVSgXHrXj7xbhSRW6) | 2:50 | 2022-09-08 | 2022-10-04 |
@@ -1039,7 +1040,7 @@
 | [Grão de Areia](https://open.spotify.com/track/0MEQNyNQA8huagTIfAnqGC) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [Xande De Pilares](https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB) | [AS PALAVRAS, VOL\. 1 & 2](https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg) | 3:43 | 2023-03-28 | 2023-04-15 |
 | [Guard Down](https://open.spotify.com/track/3HpaV46FMvO52VbH0wuxpP) | [August Moon](https://open.spotify.com/artist/4INWJGqEB91KDU1xAwLRaA) | [The Idea of You \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6AB0dNTacbKME51YeXwAuA) | 2:33 | 2024-05-21 | 2024-05-29 |
 | [Guardanapo](https://open.spotify.com/track/12RFg10vyL2N7EwTbytJrL) | [Rainha Musical](https://open.spotify.com/artist/6YcDJECD5zRgzJEg00ugSO) | [Guardanapo](https://open.spotify.com/album/3SrO9Juj0yykFGtEhDwMVp) | 3:34 | 2022-08-08 | 2022-08-11 |
-| [Guess featuring Billie Eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 | 2024-08-20 |  |
+| [Guess featuring Billie Eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 | 2024-08-20 | 2024-09-12 |
 | [Guess featuring Billie Eilish](https://open.spotify.com/track/7qbJ4Dh8xuYUFdAWL8SFPK) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3rQE6GuZuvLF82h0o3Xqqd) | 2:23 | 2024-09-03 | 2024-09-05 |
 | [gugu, bb](https://open.spotify.com/track/5UDBj8YNqryb0AwQJt9Tci) | [goshaaboy](https://open.spotify.com/artist/4T3fmyT9O6EqmCEN1T6pzc) | [gugu, bb](https://open.spotify.com/album/6SKzMcbmUOMQVcGXeqiTQ3) | 1:50 | 2023-10-20 | 2023-10-30 |
 | [Guilty as Sin?](https://open.spotify.com/track/0W0iAC1VGlB82PI6elxFYf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 4:14 | 2024-05-07 | 2024-05-09 |

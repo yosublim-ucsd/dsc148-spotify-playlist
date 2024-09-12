@@ -1519,6 +1519,24 @@
     },
     {
       "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/2BnDCywIU8HvFlFZqkSOAj"
+      },
+      "artists": [
+        {
+          "name": "Steven Curtis Chapman",
+          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318933,
+      "name": "Go There With You",
+      "url": "https://open.spotify.com/track/66DrxT38CFyYPTciuHP3aR"
+    },
+    {
+      "album": {
         "name": "What We Want, What We Get",
         "url": "https://open.spotify.com/album/5KpG1hOTVrioasLt8ndJDp"
       },
@@ -3524,7 +3542,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 154020,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/7JIYxxvG7GIh8X9Rgt983V"

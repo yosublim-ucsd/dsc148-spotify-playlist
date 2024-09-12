@@ -1,6 +1,6 @@
 {
   "description": "El ritmo cumbiero que te mueve el coraz\u00f3n. \nFoto: Leo Mattioli.",
-  "num_followers": 260025,
+  "num_followers": 260169,
   "original_name": "Cumbia Santafesina",
   "owner": {
     "name": "Spotify",
@@ -471,6 +471,22 @@
     {
       "added_at": "2024-05-24 03:00:00",
       "album": {
+        "name": "Para Toda La Vida",
+        "url": "https://open.spotify.com/album/25bzZeH69TvnFcgV4JPKGr"
+      },
+      "artists": [
+        {
+          "name": "La contr\u00e0",
+          "url": "https://open.spotify.com/artist/4mG70wQ5qWBs9GogyP7WuM"
+        }
+      ],
+      "duration_ms": 227857,
+      "name": "Entre t\u00fa y mil mares",
+      "url": "https://open.spotify.com/track/5l4vFZvA9YpHNPWfQJEoo0"
+    },
+    {
+      "added_at": "2024-05-24 03:00:00",
+      "album": {
         "name": "Uriel Lozano: Sin Miedo Session #44 (Lado S) - En Vivo",
         "url": "https://open.spotify.com/album/1BH1jWCMkBBwB7h45mXck7"
       },
@@ -491,22 +507,6 @@
     {
       "added_at": "2024-05-24 03:00:00",
       "album": {
-        "name": "Para Toda La Vida",
-        "url": "https://open.spotify.com/album/25bzZeH69TvnFcgV4JPKGr"
-      },
-      "artists": [
-        {
-          "name": "La contr\u00e0",
-          "url": "https://open.spotify.com/artist/4mG70wQ5qWBs9GogyP7WuM"
-        }
-      ],
-      "duration_ms": 227857,
-      "name": "Entre t\u00fa y mil mares",
-      "url": "https://open.spotify.com/track/5l4vFZvA9YpHNPWfQJEoo0"
-    },
-    {
-      "added_at": "2024-05-24 03:00:00",
-      "album": {
         "name": "El Aguante Contin\u00faa...En Concierto (En Vivo)",
         "url": "https://open.spotify.com/album/7f4w3g6dY0MSm557kPNW0a"
       },
@@ -519,54 +519,6 @@
       "duration_ms": 137786,
       "name": "Hasta el Sol de Hoy (En Vivo)",
       "url": "https://open.spotify.com/track/6BbXZba7DJhKqgk6F1Dswy"
-    },
-    {
-      "added_at": "2024-05-24 03:00:00",
-      "album": {
-        "name": "Placer y Olvido",
-        "url": "https://open.spotify.com/album/3KI5DtLen1YhOUfi2MdJRm"
-      },
-      "artists": [
-        {
-          "name": "Coty Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
-        }
-      ],
-      "duration_ms": 233429,
-      "name": "Placer y Olvido",
-      "url": "https://open.spotify.com/track/5R4Lbt2Y8MIR1SZ0z8nZvw"
-    },
-    {
-      "added_at": "2024-05-24 03:00:00",
-      "album": {
-        "name": "Solo un Momento",
-        "url": "https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG"
-      },
-      "artists": [
-        {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
-        }
-      ],
-      "duration_ms": 204669,
-      "name": "Dej\u00e9moslo As\u00ed",
-      "url": "https://open.spotify.com/track/5tjst7DmSA9UXWncROr3oc"
-    },
-    {
-      "added_at": "2024-05-24 03:00:00",
-      "album": {
-        "name": "Otra Como Tu",
-        "url": "https://open.spotify.com/album/34ueWBDKQLBpK13ocfEZVX"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 220618,
-      "name": "Otra Como Tu",
-      "url": "https://open.spotify.com/track/1LlYzxmXryWRhsysqp47gs"
     },
     {
       "added_at": "2024-05-24 03:00:00",
@@ -587,40 +539,8 @@
     {
       "added_at": "2024-05-24 03:00:00",
       "album": {
-        "name": "20 Grandes Exitos",
-        "url": "https://open.spotify.com/album/3kn66sUZHDEcTHGZBOo26n"
-      },
-      "artists": [
-        {
-          "name": "Los Del Maranaho",
-          "url": "https://open.spotify.com/artist/4pPaTS0Is7K9pHjgp5Pdgs"
-        }
-      ],
-      "duration_ms": 193853,
-      "name": "Te Tengo que Olvidar",
-      "url": "https://open.spotify.com/track/6V1Lh57Dlkf6aQrRC3tAO7"
-    },
-    {
-      "added_at": "2024-05-24 03:00:00",
-      "album": {
-        "name": "M\u00e1s Rom\u00e1nticos Que Nunca",
-        "url": "https://open.spotify.com/album/2HU7nRIB9MrVxWY6c9t01M"
-      },
-      "artists": [
-        {
-          "name": "Grupo Trinidad",
-          "url": "https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ"
-        }
-      ],
-      "duration_ms": 211986,
-      "name": "Tu Mujer En Mi Cama",
-      "url": "https://open.spotify.com/track/44uuHaGX9LpQ8PjpdvXLVM"
-    },
-    {
-      "added_at": "2024-05-24 03:00:00",
-      "album": {
-        "name": "Por Amor A La M\u00fasica",
-        "url": "https://open.spotify.com/album/50Kj1z2Vapl5iSaBQyV7HW"
+        "name": "Solo un Momento",
+        "url": "https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG"
       },
       "artists": [
         {
@@ -628,9 +548,41 @@
           "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
         }
       ],
-      "duration_ms": 201066,
-      "name": "Y Que De M\u00ed",
-      "url": "https://open.spotify.com/track/5XCbEXvT1fZlycw8SlU2ci"
+      "duration_ms": 204669,
+      "name": "Dej\u00e9moslo As\u00ed",
+      "url": "https://open.spotify.com/track/5tjst7DmSA9UXWncROr3oc"
+    },
+    {
+      "added_at": "2024-05-24 03:00:00",
+      "album": {
+        "name": "Placer y Olvido",
+        "url": "https://open.spotify.com/album/3KI5DtLen1YhOUfi2MdJRm"
+      },
+      "artists": [
+        {
+          "name": "Coty Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
+        }
+      ],
+      "duration_ms": 233429,
+      "name": "Placer y Olvido",
+      "url": "https://open.spotify.com/track/5R4Lbt2Y8MIR1SZ0z8nZvw"
+    },
+    {
+      "added_at": "2024-05-24 03:00:00",
+      "album": {
+        "name": "Otra Como Tu",
+        "url": "https://open.spotify.com/album/34ueWBDKQLBpK13ocfEZVX"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 220618,
+      "name": "Otra Como Tu",
+      "url": "https://open.spotify.com/track/1LlYzxmXryWRhsysqp47gs"
     },
     {
       "added_at": "2024-05-24 03:00:00",
@@ -651,6 +603,54 @@
       "duration_ms": 68394,
       "name": "Pechos Calientes - En Vivo",
       "url": "https://open.spotify.com/track/5LCWD4A4yYPWhYKCYtpUei"
+    },
+    {
+      "added_at": "2024-05-24 03:00:00",
+      "album": {
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/3kn66sUZHDEcTHGZBOo26n"
+      },
+      "artists": [
+        {
+          "name": "Los Del Maranaho",
+          "url": "https://open.spotify.com/artist/4pPaTS0Is7K9pHjgp5Pdgs"
+        }
+      ],
+      "duration_ms": 193853,
+      "name": "Te Tengo que Olvidar",
+      "url": "https://open.spotify.com/track/6V1Lh57Dlkf6aQrRC3tAO7"
+    },
+    {
+      "added_at": "2024-05-24 03:00:00",
+      "album": {
+        "name": "Por Amor A La M\u00fasica",
+        "url": "https://open.spotify.com/album/50Kj1z2Vapl5iSaBQyV7HW"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "duration_ms": 201066,
+      "name": "Y Que De M\u00ed",
+      "url": "https://open.spotify.com/track/5XCbEXvT1fZlycw8SlU2ci"
+    },
+    {
+      "added_at": "2024-05-24 03:00:00",
+      "album": {
+        "name": "M\u00e1s Rom\u00e1nticos Que Nunca",
+        "url": "https://open.spotify.com/album/2HU7nRIB9MrVxWY6c9t01M"
+      },
+      "artists": [
+        {
+          "name": "Grupo Trinidad",
+          "url": "https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ"
+        }
+      ],
+      "duration_ms": 211986,
+      "name": "Tu Mujer En Mi Cama",
+      "url": "https://open.spotify.com/track/44uuHaGX9LpQ8PjpdvXLVM"
     },
     {
       "added_at": "2024-05-24 03:00:00",
@@ -723,6 +723,26 @@
     {
       "added_at": "2024-05-24 03:00:00",
       "album": {
+        "name": "Uriel Lozano: Sin Miedo Session #44 (Lado S) - En Vivo",
+        "url": "https://open.spotify.com/album/1BH1jWCMkBBwB7h45mXck7"
+      },
+      "artists": [
+        {
+          "name": "Sin Miedo",
+          "url": "https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY"
+        },
+        {
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+        }
+      ],
+      "duration_ms": 80439,
+      "name": "Mojada Por Dentro - En Vivo",
+      "url": "https://open.spotify.com/track/1NdkMO63A4XFTzLlvRQ36K"
+    },
+    {
+      "added_at": "2024-05-24 03:00:00",
+      "album": {
         "name": "Identidad",
         "url": "https://open.spotify.com/album/1e17k7bGNSUu5x8LHsZs05"
       },
@@ -755,26 +775,6 @@
     {
       "added_at": "2024-05-24 03:00:00",
       "album": {
-        "name": "Diferente",
-        "url": "https://open.spotify.com/album/62CK08DxCnCChEiaNHQaY0"
-      },
-      "artists": [
-        {
-          "name": "Uriel Lozano",
-          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
-        },
-        {
-          "name": "Ulises Bueno",
-          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
-        }
-      ],
-      "duration_ms": 242950,
-      "name": "Perfecto Idiota",
-      "url": "https://open.spotify.com/track/59KZHCDC4BNb1K4wu1rBPo"
-    },
-    {
-      "added_at": "2024-05-24 03:00:00",
-      "album": {
         "name": "Simplemente Nag\u00fcel",
         "url": "https://open.spotify.com/album/2MES3DwHFmsblVObLyLlRh"
       },
@@ -791,22 +791,22 @@
     {
       "added_at": "2024-05-24 03:00:00",
       "album": {
-        "name": "Uriel Lozano: Sin Miedo Session #44 (Lado S) - En Vivo",
-        "url": "https://open.spotify.com/album/1BH1jWCMkBBwB7h45mXck7"
+        "name": "Diferente",
+        "url": "https://open.spotify.com/album/62CK08DxCnCChEiaNHQaY0"
       },
       "artists": [
         {
-          "name": "Sin Miedo",
-          "url": "https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY"
-        },
-        {
           "name": "Uriel Lozano",
           "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+        },
+        {
+          "name": "Ulises Bueno",
+          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
         }
       ],
-      "duration_ms": 80439,
-      "name": "Mojada Por Dentro - En Vivo",
-      "url": "https://open.spotify.com/track/1NdkMO63A4XFTzLlvRQ36K"
+      "duration_ms": 242950,
+      "name": "Perfecto Idiota",
+      "url": "https://open.spotify.com/track/59KZHCDC4BNb1K4wu1rBPo"
     },
     {
       "added_at": "2024-05-24 03:00:00",

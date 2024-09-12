@@ -20,7 +20,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 256362,
       "name": "Alborot\u00e1",
       "url": "https://open.spotify.com/track/4U8TmShsXRikqHGAcHsyhX"
@@ -1598,6 +1598,24 @@
       "duration_ms": 195883,
       "name": "Se Portaba Mal",
       "url": "https://open.spotify.com/track/3TZEryQOpvy8ix7XGmiw6b"
+    },
+    {
+      "album": {
+        "name": "Pa'fuera y Pa'dentro",
+        "url": "https://open.spotify.com/album/29UNByudXjnpljtU2XOU6j"
+      },
+      "artists": [
+        {
+          "name": "La Otra",
+          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283500,
+      "name": "Se Quem\u00f3",
+      "url": "https://open.spotify.com/track/2x3pyIaB1hsqU7W06lfYDL"
     },
     {
       "album": {

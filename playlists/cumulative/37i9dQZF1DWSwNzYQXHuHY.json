@@ -1758,7 +1758,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 180760,
       "name": "I'm In Love",
       "url": "https://open.spotify.com/track/1D82HRevEEavXuo6U2WIcz"
@@ -2186,6 +2186,24 @@
       "duration_ms": 171680,
       "name": "Love, Maybe (Acoustic Ver.)",
       "url": "https://open.spotify.com/track/3V2fMXzPJLkIQyRgwOLgip"
+    },
+    {
+      "album": {
+        "name": "Lovely",
+        "url": "https://open.spotify.com/album/5Lzb2gSAuoJkrORPrAhBG4"
+      },
+      "artists": [
+        {
+          "name": "Fleen",
+          "url": "https://open.spotify.com/artist/5xV9RrMSLYKLArfYM3Qrjo"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177133,
+      "name": "Lovely",
+      "url": "https://open.spotify.com/track/35XaLOtWkqm2ljA9KiphFk"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [This Is Lenin Ramírez](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1UcSd2)
 
-> This Is Lenin Ramírez\. Los temas esenciales, todos en una lista.
+> This is Lenin Ramírez\. Track\-track unggulan, semuanya dalam satu playlist.
 
 109 songs - 5 hr 38 min
 
@@ -56,10 +56,10 @@
 | [El Rayo \(En Vivo\)](https://open.spotify.com/track/3rnur7ATDBD9MUcra7XRrj) | [Jesus Payan e Imparables](https://open.spotify.com/artist/7y24WJ50nXUe8p8P4doUup), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [En Vivo Desde las Cascadas](https://open.spotify.com/album/5V1l94GYXnNAwcMZGYQTio) | 2:46 | 2022-12-28 | 2023-03-07 |
 | [El Rojo](https://open.spotify.com/track/3uTQirB0Tbn2aIAEV8qziP) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Grupo Rebeldia](https://open.spotify.com/artist/5HTV2maKCjFFrTttrcXhsC) | [Siempre Firme](https://open.spotify.com/album/0mPtTRhNimFWmhlPjaTLEG) | 2:30 | 2022-06-01 | 2022-10-13 |
 | [El Señor Zambada](https://open.spotify.com/track/1CBXspim9GK60C4auWiPBe) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Siempre Firme](https://open.spotify.com/album/0mPtTRhNimFWmhlPjaTLEG) | 3:42 | 2022-06-01 |  |
-| [El Teniente Pa' La Clica](https://open.spotify.com/track/7IBCbYw9TWBn5bb6XM4vdW) | [Jesus Payan e Imparables](https://open.spotify.com/artist/7y24WJ50nXUe8p8P4doUup), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [El Teniente Pa' La Clica](https://open.spotify.com/album/66SjzdSEl1T3MLVSLYE3DR) | 2:50 | 2022-06-01 | 2024-09-10 |
+| [El Teniente Pa' La Clica](https://open.spotify.com/track/7IBCbYw9TWBn5bb6XM4vdW) | [Jesus Payan e Imparables](https://open.spotify.com/artist/7y24WJ50nXUe8p8P4doUup), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [El Teniente Pa' La Clica](https://open.spotify.com/album/66SjzdSEl1T3MLVSLYE3DR) | 2:50 | 2022-06-01 |  |
 | [El Tigre](https://open.spotify.com/track/3vRgtOCXF9pTeVQFjwOf67) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [El Tigre](https://open.spotify.com/album/3qHFfrawqIxQZ4nWLfo41w) | 2:54 | 2023-08-27 | 2024-02-24 |
 | [El Tocayo](https://open.spotify.com/track/50fRErqQKkkXLXcf2oQd95) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Sin Perder El Estilo](https://open.spotify.com/album/4NKLTN7nQxOfhKtxZo1MLF) | 3:19 | 2022-06-01 | 2022-08-18 |
-| [Ella Salió A Bailar](https://open.spotify.com/track/2hF1YOQ1H0je4kP6S6Skhc) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Ella Salió A Bailar](https://open.spotify.com/album/1pHE2T5VIuje6yrT3p9vvJ) | 2:48 | 2024-04-28 |  |
+| [Ella Salió A Bailar](https://open.spotify.com/track/2hF1YOQ1H0je4kP6S6Skhc) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Ella Salió A Bailar](https://open.spotify.com/album/1pHE2T5VIuje6yrT3p9vvJ) | 2:48 | 2024-04-28 | 2024-09-12 |
 | [En La Capi Esta El Respaldo](https://open.spotify.com/track/2ItzTIdBXGbJ5SpCbOXvQq) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Bien Positivo](https://open.spotify.com/album/30BSsKftPkHrOGfso3pvcv) | 3:26 | 2024-02-04 | 2024-02-25 |
 | [En Las Momias](https://open.spotify.com/track/4uCMIjpU1MHiY3rqRm721s) | [Nelson Fernández](https://open.spotify.com/artist/0YWSpMQXpphjWLYt2TOdrs), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [En Las Momias](https://open.spotify.com/album/5KcydETHDWB2FZYO3LCjLk) | 2:10 | 2023-11-10 | 2024-07-16 |
 | [En Tu Perra Vida](https://open.spotify.com/track/0ldT3gl7aGNzrJyd4b1CA4) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [En Tu Perra Vida](https://open.spotify.com/album/754Bhr4Ck2WcFAvHWlykmp) | 3:58 | 2022-06-01 | 2024-05-18 |

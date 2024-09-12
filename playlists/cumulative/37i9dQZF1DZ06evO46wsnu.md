@@ -2,7 +2,7 @@
 
 ### [This Is Rise Against](https://open.spotify.com/playlist/37i9dQZF1DZ06evO46wsnu)
 
-> This is Rise Against\. The essential tracks, all in one playlist.
+> This is Rise Against\. Todos os maiores hits em uma só playlist.
 
 73 songs - 4 hr 25 min
 

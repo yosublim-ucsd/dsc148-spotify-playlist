@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0thcze.md) - [plain]
 
 ### [This Is Neto Peña](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0thcze)
 
-> This Is Neto Peña\. Los temas esenciales, todos en una lista.
+> This is Neto Peña\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,554 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,579 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0thcze.md) - [plain]
 | 36 | [Aunque Me Llames](https://open.spotify.com/track/2Ni9hThJLlN7FYiZCc5Hje) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Aunque Me Llames](https://open.spotify.com/album/77XOAYM4BA0PdRbPLKs8d8) | 4:58 |
 | 37 | [Eres Ese Algo 2.0](https://open.spotify.com/track/3uqPmBYZNkLax6vjYXI8VL) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Keith Nieto](https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p) | [Eres Ese Algo 2.0](https://open.spotify.com/album/5sBF9KH0kIVomiZp0DAvMU) | 2:48 |
 | 38 | [Siempre High](https://open.spotify.com/track/2mimHhtQ7lK2JI2Bl4GKow) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Jozue](https://open.spotify.com/artist/4xfZnRMSGaNr3zZ9VG4oGG) | [Siempre High](https://open.spotify.com/album/0WSxsgqE0iWITJVWvvLyBB) | 4:44 |
-| 39 | [Rosas y Serpientes](https://open.spotify.com/track/5TFKNrTQb6qxuKQnSzAabf) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Rosas y Serpientes](https://open.spotify.com/album/5rJCBaZ3ceBV7VR01C8Y39) | 4:30 |
-| 40 | [Carita de Santa](https://open.spotify.com/track/4eYKV4x82gEFKkZy6leFIB) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [Carita de Santa](https://open.spotify.com/album/6mm90NxozSRb53D9Pmw9QN) | 2:21 |
+| 39 | [Carita de Santa](https://open.spotify.com/track/4eYKV4x82gEFKkZy6leFIB) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [Carita de Santa](https://open.spotify.com/album/6mm90NxozSRb53D9Pmw9QN) | 2:21 |
+| 40 | [Rosas y Serpientes](https://open.spotify.com/track/5TFKNrTQb6qxuKQnSzAabf) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Rosas y Serpientes](https://open.spotify.com/album/5rJCBaZ3ceBV7VR01C8Y39) | 4:30 |
 | 41 | [Ni Angel Ni Demonio](https://open.spotify.com/track/6v0DLxSpccrL2DtemB0b56) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Gona](https://open.spotify.com/artist/3yrN2y3XifdxgoTVMiTpDB) | [Ni Angel Ni Demonio](https://open.spotify.com/album/2G5u8pyvsts5QZJIfhYvQl) | 3:08 |
 | 42 | [Alzypher Vol\. 18](https://open.spotify.com/track/4iYPFY7wHMfdFhqJAaPFw6) | [Alzada](https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv), [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j) | [Alzypher Vol\. 18](https://open.spotify.com/album/4G7la9eJr0ZngnCHjV2mYo) | 3:34 |
 | 43 | [CALIENTE](https://open.spotify.com/track/3mh6bL6SJVg7T57IhKNZXA) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [CALIENTE](https://open.spotify.com/album/1xTcDLX3SnSY6rpqEeJlfT) | 5:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0thcze.md) - [plain]
 | 49 | [Vamos a Beber](https://open.spotify.com/track/18cFdBJf22tG8LZtJwWVNP) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Vamos a Beber](https://open.spotify.com/album/2jv5642s9t09nUDQmbVPvN) | 3:10 |
 | 50 | [Lo Fácil Es Difícil](https://open.spotify.com/track/4FlYNoOafUcXBOKqhtC5c1) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Lo Fácil Es Difícil](https://open.spotify.com/album/2tCrAb6z2az7bolBJuGe2V) | 2:52 |
 
-Snapshot ID: `Zt46gAAAAAB4fW+5JzKL94C+2esXmnk8`
+Snapshot ID: `Zt+MAAAAAAACiR4WbCXOmKMJe8+Q+IDi`

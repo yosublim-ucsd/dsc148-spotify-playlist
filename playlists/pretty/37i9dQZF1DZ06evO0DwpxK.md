@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DwpxK.md) - [plain]
 
 ### [This Is Humbe](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0DwpxK)
 
-> This is Humbe\. The essential tracks, all in one playlist.
+> This Is Humbe\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,695 likes - 44 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,060 likes - 44 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DwpxK.md) - [plain]
 | 32 | [yo x3](https://open.spotify.com/track/4RGpNXCSbRSKjvctTXmppw) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [yo x3](https://open.spotify.com/album/4sVjp0ucdVB0H7mGex3J4A) | 3:42 |
 | 33 | [ADULTOS](https://open.spotify.com/track/4FImnjFPw8WAa9KUBNDCWw) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ADULTOS](https://open.spotify.com/album/6WMkdMFLq0M0ihfrClTqCv) | 3:03 |
 | 34 | [QUÍTAME LAS ALAS](https://open.spotify.com/track/4gdIIRAalPd15Ox3JEq9Kc) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [AURORA](https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs) | 3:29 |
-| 35 | [Para Olvidarte](https://open.spotify.com/track/6TS89XsZ9TXdRfESrUurbZ) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Para Olvidarte](https://open.spotify.com/album/7fssJfhage5MSESIqRxJje) | 3:48 |
-| 36 | [Ardemos](https://open.spotify.com/track/3xYvnRj7fODWlrkLzpoEqf) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Ardemos](https://open.spotify.com/album/5eafvTWlzP4LDb3qlSnG9W) | 2:30 |
+| 35 | [Ardemos](https://open.spotify.com/track/3xYvnRj7fODWlrkLzpoEqf) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Ardemos](https://open.spotify.com/album/5eafvTWlzP4LDb3qlSnG9W) | 2:30 |
+| 36 | [Para Olvidarte](https://open.spotify.com/track/6TS89XsZ9TXdRfESrUurbZ) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Para Olvidarte](https://open.spotify.com/album/7fssJfhage5MSESIqRxJje) | 3:48 |
 | 37 | [Ganas de Verte](https://open.spotify.com/track/0F84fAwNfEGg9ZIJZCf8cE) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Sonámbulo](https://open.spotify.com/album/7cDgpvAVujyriu78aIkw4M) | 3:07 |
 | 38 | [Una Vida, Y Ya](https://open.spotify.com/track/5v1LLkuUTtm9Hy6btIPXXn) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Una Vida, Y Ya](https://open.spotify.com/album/4rxU2TZelNYNHYN59cMI10) | 3:31 |
 | 39 | [Arma Perfecta](https://open.spotify.com/track/0v6L9ICzGENuWYpVwQ20CT) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Arma Perfecta](https://open.spotify.com/album/23d7EuquSOt846dFTvqu3m) | 3:28 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DwpxK.md) - [plain]
 | 43 | [Toma Mi Mano \(Live Session\)](https://open.spotify.com/track/4JSXKtwqCVZHuvrHI2wftR) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Toma Mi Mano \(Live Session\)](https://open.spotify.com/album/1y3rU2fetwfnS5v0k8G9eM) | 3:11 |
 | 44 | [Nunca Dijiste Adiós](https://open.spotify.com/track/0lTHLJ03jTiaGnhVBTY2vc) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Sonámbulo](https://open.spotify.com/album/7cDgpvAVujyriu78aIkw4M) | 3:39 |
 
-Snapshot ID: `Zt46gAAAAABhXwJkPwLT8mFuPiHzY0eN`
+Snapshot ID: `Zt+MAAAAAACsRzjNyR+JDUYPH11aHQUc`

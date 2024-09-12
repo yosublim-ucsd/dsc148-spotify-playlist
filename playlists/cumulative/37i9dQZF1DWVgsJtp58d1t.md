@@ -2,7 +2,7 @@
 
 ### [This Is Frequency](https://open.spotify.com/playlist/37i9dQZF1DWVgsJtp58d1t)
 
-> New music from Black artists every Friday\. Cover: <a href="spotify:artist:6vWDO969PvNqNYHIOW5v0m">Beyoncé</a>
+> New music from Black artists every Friday\. Cover: <a href="spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg">Kendrick Lamar</a>
 
 3,741 songs - 7 day 20 hr 26 min
 

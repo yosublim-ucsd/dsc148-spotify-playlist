@@ -1718,7 +1718,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 226173,
       "name": "Almost Oklahoma",
       "url": "https://open.spotify.com/track/2hJXoL9XcJr68LAMWNWlHM"
@@ -1905,6 +1905,24 @@
     },
     {
       "album": {
+        "name": "American Dream",
+        "url": "https://open.spotify.com/album/0RjCy3mhyVcsOdVaFtXIXk"
+      },
+      "artists": [
+        {
+          "name": "Caitlynne Curtis",
+          "url": "https://open.spotify.com/artist/5m984rwcMVTObo3jCSzDCf"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233736,
+      "name": "American Dream",
+      "url": "https://open.spotify.com/track/3XvYu0mPbuZY38Vga0QIVx"
+    },
+    {
+      "album": {
         "name": "American Made",
         "url": "https://open.spotify.com/album/6BX208lfLbDsQpjhCzPupc"
       },
@@ -1970,7 +1988,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 180322,
       "name": "Angels",
       "url": "https://open.spotify.com/track/2YruL9YfuL6wjVROhh8cer"
@@ -5264,6 +5282,24 @@
       "duration_ms": 181333,
       "name": "Born To Run To You",
       "url": "https://open.spotify.com/track/0twsV7eMjVD8IpfIo5NiQn"
+    },
+    {
+      "album": {
+        "name": "Born Yesterday",
+        "url": "https://open.spotify.com/album/1Vb5lt1GZqKm3YpCalIfPa"
+      },
+      "artists": [
+        {
+          "name": "Eric Burgett",
+          "url": "https://open.spotify.com/artist/0XDSGQH1ejpL2C42Sady10"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229517,
+      "name": "Born Yesterday",
+      "url": "https://open.spotify.com/track/5KDpTtnygERh4DzYjfYRrq"
     },
     {
       "album": {
@@ -8856,7 +8892,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 165265,
       "name": "Craving You",
       "url": "https://open.spotify.com/track/1XunthJTG5Wg1BqXONGN5Y"
@@ -8950,6 +8986,24 @@
       "duration_ms": 205629,
       "name": "Crazy On Me",
       "url": "https://open.spotify.com/track/6sIwwpRqvcaJxpbxPQ76du"
+    },
+    {
+      "album": {
+        "name": "Crimson Kisses",
+        "url": "https://open.spotify.com/album/60xkjmZo2DFJPec6TN40Vz"
+      },
+      "artists": [
+        {
+          "name": "Caitlin Quisenberry",
+          "url": "https://open.spotify.com/artist/2yLeptGRMWP64GReoRj85U"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269080,
+      "name": "Crimson Kisses",
+      "url": "https://open.spotify.com/track/6QfZqOXenFN3I4iDE4s8KE"
     },
     {
       "album": {
@@ -10636,6 +10690,24 @@
       "duration_ms": 178834,
       "name": "Does He Know",
       "url": "https://open.spotify.com/track/5yCe9qLpNopp3OI9lElgyj"
+    },
+    {
+      "album": {
+        "name": "Doesn't Kill Ya",
+        "url": "https://open.spotify.com/album/3MmP49hULvxkOwmwOp6Wq0"
+      },
+      "artists": [
+        {
+          "name": "Mike Parker",
+          "url": "https://open.spotify.com/artist/3hzCzAwJH36Ia5R5MIaW8m"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171085,
+      "name": "Doesn't Kill Ya",
+      "url": "https://open.spotify.com/track/53g0gONZisFkaHqXgTa9yt"
     },
     {
       "album": {
@@ -12838,6 +12910,28 @@
     {
       "album": {
         "name": "Excuses",
+        "url": "https://open.spotify.com/album/4k8dck8ljCtHhi0jPOxqQ3"
+      },
+      "artists": [
+        {
+          "name": "Mike Crigs",
+          "url": "https://open.spotify.com/artist/2sPBxeaQuWYPbViLJDPl2k"
+        },
+        {
+          "name": "Nate Good",
+          "url": "https://open.spotify.com/artist/2OPyK48uFk5aZ8GKWa5FPl"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162272,
+      "name": "Excuses",
+      "url": "https://open.spotify.com/track/4x6h5snoqZTbuLdrPVk9PT"
+    },
+    {
+      "album": {
+        "name": "Excuses",
         "url": "https://open.spotify.com/album/7eUPlSbTXXhstEnvMuXrVR"
       },
       "artists": [
@@ -14373,6 +14467,24 @@
     },
     {
       "album": {
+        "name": "From The Outside",
+        "url": "https://open.spotify.com/album/2VW52LnQWUFDNEoYLyTihp"
+      },
+      "artists": [
+        {
+          "name": "Eddie And The Getaway",
+          "url": "https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174753,
+      "name": "From The Outside",
+      "url": "https://open.spotify.com/track/37cLzjEotaIuwsgMJmdfEx"
+    },
+    {
+      "album": {
         "name": "From Where I'm Standing",
         "url": "https://open.spotify.com/album/6TeLYtf5mXdJ9yObYpw0E6"
       },
@@ -14438,7 +14550,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 171900,
       "name": "Gambler",
       "url": "https://open.spotify.com/track/4J8bYGH9ZfZm2wKVe4cU9H"
@@ -16876,7 +16988,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 219662,
       "name": "Halfway",
       "url": "https://open.spotify.com/track/5GiOwpuHSFeh0snoOIGnaH"
@@ -17056,7 +17168,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 171160,
       "name": "Happy Is?",
       "url": "https://open.spotify.com/track/2zCV5Wq6VnYyUkyTsBOksb"
@@ -25529,6 +25641,24 @@
     },
     {
       "album": {
+        "name": "Living In Your Head",
+        "url": "https://open.spotify.com/album/3lbG0JdOi1GkNDCWext0jp"
+      },
+      "artists": [
+        {
+          "name": "Faith Schueler",
+          "url": "https://open.spotify.com/artist/1XMDQqZDjohdydmKXRSL6I"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180159,
+      "name": "Living In Your Head",
+      "url": "https://open.spotify.com/track/3wAIv9hZWMYwlisbJn8L6B"
+    },
+    {
+      "album": {
         "name": "My Country",
         "url": "https://open.spotify.com/album/7D6Zq73SSq14MruLMaflRU"
       },
@@ -27136,7 +27266,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 171068,
       "name": "Make the Memory",
       "url": "https://open.spotify.com/track/4LHx5jUWQHaQQzOVzpUc2i"
@@ -28534,7 +28664,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 220788,
       "name": "Morning Person",
       "url": "https://open.spotify.com/track/5Kr0SsvnXMOUXAPpZVwOkL"
@@ -31223,6 +31353,24 @@
     },
     {
       "album": {
+        "name": "Horseback",
+        "url": "https://open.spotify.com/album/3B9J0OHqfInPblBcgVBQhP"
+      },
+      "artists": [
+        {
+          "name": "Jenna Paulette",
+          "url": "https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187280,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/088J7ID4CTUmdnCntP82Od"
+    },
+    {
+      "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/7KtC5uoAMkFxXGpnZqft9O"
       },
@@ -31234,7 +31382,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 187280,
       "name": "Outside",
       "url": "https://open.spotify.com/track/3rpKax1jhfr1TqDsE0ikGR"
@@ -31677,6 +31825,24 @@
     },
     {
       "album": {
+        "name": "PBR Nights",
+        "url": "https://open.spotify.com/album/6k1Cl6ZgSUsLROWqFskfYX"
+      },
+      "artists": [
+        {
+          "name": "SirLockeHolmes",
+          "url": "https://open.spotify.com/artist/3P40h7b9cyXPGhb2Cdk7ev"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169600,
+      "name": "PBR Nights",
+      "url": "https://open.spotify.com/track/5hqKbCoRAq5ymoB7NNpUDM"
+    },
+    {
+      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/1Lak68tmzbD7jw8V4SEP5u"
       },
@@ -31998,7 +32164,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 205144,
       "name": "Polaroid Picture",
       "url": "https://open.spotify.com/track/5L7v7InVZ4KPcgYLPJb0u8"
@@ -32095,6 +32261,24 @@
     },
     {
       "album": {
+        "name": "Potential",
+        "url": "https://open.spotify.com/album/0QH9mt1qj1cd0PygoO8Sus"
+      },
+      "artists": [
+        {
+          "name": "Kayley Bishop",
+          "url": "https://open.spotify.com/artist/6T6PhZvVp4pb5rbnj1ygeQ"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277558,
+      "name": "Potential",
+      "url": "https://open.spotify.com/track/4JfYV9ljE4Rxa63kLKc7Gz"
+    },
+    {
+      "album": {
         "name": "Onto Something",
         "url": "https://open.spotify.com/album/0N4JgjwIMdu0a7CDG6DlQR"
       },
@@ -32182,6 +32366,24 @@
       "duration_ms": 205309,
       "name": "Prayer Requests",
       "url": "https://open.spotify.com/track/3pKM7paGR7kSSoFIZCLFB0"
+    },
+    {
+      "album": {
+        "name": "Praying in a Bar",
+        "url": "https://open.spotify.com/album/4W5aEX27u8NbyM6oajxTZ9"
+      },
+      "artists": [
+        {
+          "name": "Anslee Davidson",
+          "url": "https://open.spotify.com/artist/3mlqM4lAX2Su8FRDw4E3K7"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191933,
+      "name": "Praying in a Bar",
+      "url": "https://open.spotify.com/track/5xfMTxzCLYD8PZQMSTjrWe"
     },
     {
       "album": {
@@ -33054,6 +33256,24 @@
       "duration_ms": 219946,
       "name": "Remember That Truck",
       "url": "https://open.spotify.com/track/7akcukOUNQPB0LfxWZJ6Q6"
+    },
+    {
+      "album": {
+        "name": "Remembering Somebody",
+        "url": "https://open.spotify.com/album/29sWIvREEmKxb913Z9eifV"
+      },
+      "artists": [
+        {
+          "name": "Connor Hicks",
+          "url": "https://open.spotify.com/artist/62BxwsNqrysVxZpEDvCe3V"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194777,
+      "name": "Remembering Somebody",
+      "url": "https://open.spotify.com/track/0q8xXPrwtXeIHEV9kv2Psg"
     },
     {
       "album": {
@@ -35602,7 +35822,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 179520,
       "name": "Silverado Slow",
       "url": "https://open.spotify.com/track/7eR6Xiq4BJxP7PmwxNPRLm"
@@ -36142,7 +36362,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 192032,
       "name": "Small Talk",
       "url": "https://open.spotify.com/track/3LoAMjPDJoaqd2sXbY0F03"
@@ -37342,6 +37562,24 @@
       "duration_ms": 186824,
       "name": "Something To Do With You",
       "url": "https://open.spotify.com/track/1ids0Y24ua1ioQQTp4kx90"
+    },
+    {
+      "album": {
+        "name": "Something to Me",
+        "url": "https://open.spotify.com/album/4Qz4fVY2jelwzS5JpTfLoW"
+      },
+      "artists": [
+        {
+          "name": "Canaan Cox",
+          "url": "https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152369,
+      "name": "Something to Me",
+      "url": "https://open.spotify.com/track/4OjSPOG4uFAfmC1RumcH7h"
     },
     {
       "album": {
@@ -41279,6 +41517,28 @@
     },
     {
       "album": {
+        "name": "Things a College Town Taught Me",
+        "url": "https://open.spotify.com/album/5lfZwqhidnENZl5VRayOSd"
+      },
+      "artists": [
+        {
+          "name": "Clayton Mullen",
+          "url": "https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g"
+        },
+        {
+          "name": "Grant Gilbert",
+          "url": "https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187792,
+      "name": "Things a College Town Taught Me",
+      "url": "https://open.spotify.com/track/46o9r6yrlgVt9oHkMrhOVr"
+    },
+    {
+      "album": {
         "name": "things i've learned",
         "url": "https://open.spotify.com/album/0T3dxyC6OukwLwZ2rU2Sut"
       },
@@ -42597,6 +42857,24 @@
     },
     {
       "album": {
+        "name": "Trying",
+        "url": "https://open.spotify.com/album/4nqFbwyaXS0dNZfTyCKeb7"
+      },
+      "artists": [
+        {
+          "name": "Kelsey Lamb",
+          "url": "https://open.spotify.com/artist/2eoYr2pnDgyoDe9GLhuBoo"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162576,
+      "name": "Trying",
+      "url": "https://open.spotify.com/track/3nVb7pBCQ9z4Y7HJVKPQbn"
+    },
+    {
+      "album": {
         "name": "Tucson",
         "url": "https://open.spotify.com/album/2uwnmzZtO9SPT69PaM33T1"
       },
@@ -43844,7 +44122,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 195368,
       "name": "We Were Never Gonna (with Abbey Cone)",
       "url": "https://open.spotify.com/track/7sAzQLOa2WXtsvEUDPExIF"
@@ -44590,6 +44868,24 @@
       "duration_ms": 169230,
       "name": "When It Wasn't",
       "url": "https://open.spotify.com/track/2T4lQflLAaLiyXe4nVLAFL"
+    },
+    {
+      "album": {
+        "name": "When She Does",
+        "url": "https://open.spotify.com/album/3G31wvMEmNNqrhoxwwQNY6"
+      },
+      "artists": [
+        {
+          "name": "Jeb Gipson",
+          "url": "https://open.spotify.com/artist/3MG8H6zu9EvmL5sRtFpDMF"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192413,
+      "name": "When She Does",
+      "url": "https://open.spotify.com/track/2Vjf4EJXNLsZ1cxlhAyLn8"
     },
     {
       "album": {
@@ -46840,7 +47136,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 147056,
       "name": "You and Me",
       "url": "https://open.spotify.com/track/6rW3tr0CkuTIwPVBWqHdqP"

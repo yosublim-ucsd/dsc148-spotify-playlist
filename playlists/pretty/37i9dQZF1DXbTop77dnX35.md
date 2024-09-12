@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Tion Wayne, Blaqjerzee, NLE Choppa, Bella Alubo and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,512 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,560 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 12 | [Lets Dance](https://open.spotify.com/track/2Z2p1Znqos094TNvjHQqIS) | [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo), [OSKIDO](https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R), [Olodum](https://open.spotify.com/artist/3tJ9PkBOrG7hFkHeNM2tbw), [X\-wise](https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn) | [Lets Dance](https://open.spotify.com/album/7z0AkhtKqqU9W1GxCdGa8U) | 3:05 |
 | 13 | [Amazing Grace](https://open.spotify.com/track/43RN0F4crBoN8Uv4YrRKUG) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn), [Yinka Bernie](https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL), [Bosco Soundtrack](https://open.spotify.com/artist/4vkkMvu0BYvfIsioM7U7w6) | [Amazing Grace](https://open.spotify.com/album/1kXYVUHCOO5rYsW5kWGXBu) | 3:11 |
 | 14 | [Emmanuella](https://open.spotify.com/track/3sgFQajQAvJTYny1e8pJS4) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Greatness III](https://open.spotify.com/album/2sZqidw4Cdi9gKZ4BarPg1) | 2:15 |
-| 15 | [Time Traveller](https://open.spotify.com/track/2cv0OdZIThSfcPiMsDDQTk) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [Time Traveler](https://open.spotify.com/album/6BS5k06GKg6rsxbkYiVGhS) | 2:46 |
+| 15 | [Time Traveler](https://open.spotify.com/track/2cv0OdZIThSfcPiMsDDQTk) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [Time Traveler](https://open.spotify.com/album/6BS5k06GKg6rsxbkYiVGhS) | 2:46 |
 | 16 | [Hot Stepper](https://open.spotify.com/track/0BMOwfaleAhCJf1qABUCtd) | [Blaq Jerzee](https://open.spotify.com/artist/4on7a4BKixLl1rSlEcaY8Y) | [E.O.V \(ESAMA OF VIBES\)](https://open.spotify.com/album/5r0ooDn6GV0lYtOJdvMQog) | 2:59 |
 | 17 | [Jessy](https://open.spotify.com/track/4fu6Xv1f0LK73K566EkFYQ) | [FS Green](https://open.spotify.com/artist/2xjVYIMLS3nR5Y1UOr02Vb), [Dave Nunes](https://open.spotify.com/artist/1Jo0kVGvfYzeXGjMUvfmLR), [BenjiFlow](https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt) | [Jessy](https://open.spotify.com/album/7rrA3YP0m7l5kwDt89MBKz) | 2:28 |
 | 18 | [On The Low](https://open.spotify.com/track/54ECqpyhrGsp2uwdeSAPqF) | [Xtofa](https://open.spotify.com/artist/6p0sIjj39O6DnWpctMmNVn) | [On The Low](https://open.spotify.com/album/2nK1tBQ4eJtMykr34Mbzbk) | 2:06 |

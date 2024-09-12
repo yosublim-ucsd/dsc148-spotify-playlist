@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0RRbChYKNCUva4pRPwsBbC">Ging FKA Frank Dukes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 285 likes - 233 songs - 13 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 286 likes - 233 songs - 13 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -146,8 +146,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 136 | [Hotel Bathroom](https://open.spotify.com/track/2mR5fQtkgi23sHVDfm5bo3) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Jungle Rules](https://open.spotify.com/album/4c2p3TdN7NcQfCXyueCNnC) | 3:51 |
 | 137 | [Outta My Hands \(Loco\)](https://open.spotify.com/track/6I4vrOusONJw4cUXRFyDZn) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Revival \(Deluxe\)](https://open.spotify.com/album/3Kbuu2tHsIbplFUkB7a5oE) | 3:31 |
 | 138 | [Me Now](https://open.spotify.com/track/5viCJ7GSQxVWUAPBVoV7IL) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Imperial](https://open.spotify.com/album/42fyKPanos0Q3woi848ktg) | 4:39 |
-| 139 | [Tough Love](https://open.spotify.com/track/1Y96TJIhZCg8gyvOKalieY) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Heartbreak on a Full Moon](https://open.spotify.com/album/3zak0kNLcOY5vFcB3Ipskp) | 4:04 |
-| 140 | [Always \(Outro\)](https://open.spotify.com/track/5TY8TK26gzqUcVLSymvNx9) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [True to Self](https://open.spotify.com/album/7nn2Iaphg0Vc1NCGULkhVo) | 2:30 |
+| 139 | [Always \(Outro\)](https://open.spotify.com/track/5TY8TK26gzqUcVLSymvNx9) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [True to Self](https://open.spotify.com/album/7nn2Iaphg0Vc1NCGULkhVo) | 2:30 |
+| 140 | [Tough Love](https://open.spotify.com/track/1Y96TJIhZCg8gyvOKalieY) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Heartbreak on a Full Moon](https://open.spotify.com/album/3zak0kNLcOY5vFcB3Ipskp) | 4:04 |
 | 141 | [In Your River](https://open.spotify.com/track/4lQc6sLF9a6SWeDpdQ7CSv) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Don’t Explain](https://open.spotify.com/album/2yZlo1UzbQDfiokZooVfaF) | 3:54 |
 | 142 | [Outside](https://open.spotify.com/track/7aehX1MYSOcZJ90BkzEzHb) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Outside](https://open.spotify.com/album/3xATsZ74UHQU7eTZawuHTf) | 3:58 |
 | 143 | [Air Forces](https://open.spotify.com/track/5NYwjzQXE8ug35TRHoDeuW) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Air Forces](https://open.spotify.com/album/7aRQJlM2xsWAvVJPxIcnxn) | 2:58 |
@@ -242,4 +242,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 232 | [The Grand Design](https://open.spotify.com/track/3pVOogOInku8irJgvk91yh) | [Saukrates](https://open.spotify.com/artist/4xvUHg4mIFbXo2caP0PO73) | [Season 2](https://open.spotify.com/album/0kWlgwwcyciyZcNe0JXqqy) | 2:41 |
 | 233 | [Lost](https://open.spotify.com/track/6agJafc27z0MwdEDyaVGPN) | [Kateel](https://open.spotify.com/artist/4egOVLqYZVVI4gwzMAcRlT) | [Lost](https://open.spotify.com/album/7xkfLCegBO0SnTIJ1qzChA) | 2:07 |
 
-Snapshot ID: `AbbzSgAAAABXBhZMdPndFP9s83Fn6YvT`
+Snapshot ID: `Abb46gAAAABfxCQLh1N5xRPID072XjVI`

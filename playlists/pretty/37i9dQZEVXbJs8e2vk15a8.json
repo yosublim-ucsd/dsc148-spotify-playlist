@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Chile.",
-  "num_followers": 70690,
+  "num_followers": 70694,
   "original_name": "Viral 50 - Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LnOxcAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LnUFSAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-09-10 13:34:37",
+      "added_at": "2024-09-11 14:11:48",
       "album": {
         "name": "SE ME OLVIDA",
         "url": "https://open.spotify.com/album/00ESTj1vBUkIbaTHaXaXu3"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/2gmd7lY3QSzLh0xIY4cRvi"
     },
     {
-      "added_at": "2024-09-10 13:34:37",
+      "added_at": "2024-09-11 14:11:48",
       "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
@@ -49,7 +49,39 @@
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
-      "added_at": "2024-09-10 13:34:37",
+      "added_at": "2024-09-11 14:11:48",
+      "album": {
+        "name": "El Amor en 48 Compases",
+        "url": "https://open.spotify.com/album/3kQGuwvT1Hdy508DLXGVsQ"
+      },
+      "artists": [
+        {
+          "name": "Entremares",
+          "url": "https://open.spotify.com/artist/7KPcBMsOzS2QvKzkjj1kxU"
+        }
+      ],
+      "duration_ms": 134601,
+      "name": "A Tu Lado",
+      "url": "https://open.spotify.com/track/0HIFkKeys4hC9bosmZShQ9"
+    },
+    {
+      "added_at": "2024-09-11 14:11:48",
+      "album": {
+        "name": "Los Chamantos de Mi Chile",
+        "url": "https://open.spotify.com/album/5QH7qkMGGb849aPyre7eY0"
+      },
+      "artists": [
+        {
+          "name": "Maihuen de los Angeles",
+          "url": "https://open.spotify.com/artist/4vkOLg1AyJgDqF9xwLsgXR"
+        }
+      ],
+      "duration_ms": 131106,
+      "name": "Llorando Ausencia",
+      "url": "https://open.spotify.com/track/1ezJWENT2n38OdTECy1v6r"
+    },
+    {
+      "added_at": "2024-09-11 14:11:48",
       "album": {
         "name": "SOBRE UNA NUBE DE ALGOD\u00d3N",
         "url": "https://open.spotify.com/album/1VNSqvOeEGB0QKNoI3PNBb"
@@ -73,39 +105,7 @@
       "url": "https://open.spotify.com/track/60d2c47Oz2Wf2h0GnU2m9d"
     },
     {
-      "added_at": "2024-09-10 13:34:37",
-      "album": {
-        "name": "El Amor en 48 Compases",
-        "url": "https://open.spotify.com/album/3kQGuwvT1Hdy508DLXGVsQ"
-      },
-      "artists": [
-        {
-          "name": "Entremares",
-          "url": "https://open.spotify.com/artist/7KPcBMsOzS2QvKzkjj1kxU"
-        }
-      ],
-      "duration_ms": 134601,
-      "name": "A Tu Lado",
-      "url": "https://open.spotify.com/track/0HIFkKeys4hC9bosmZShQ9"
-    },
-    {
-      "added_at": "2024-09-10 13:34:37",
-      "album": {
-        "name": "Los Chamantos de Mi Chile",
-        "url": "https://open.spotify.com/album/5QH7qkMGGb849aPyre7eY0"
-      },
-      "artists": [
-        {
-          "name": "Maihuen de los Angeles",
-          "url": "https://open.spotify.com/artist/4vkOLg1AyJgDqF9xwLsgXR"
-        }
-      ],
-      "duration_ms": 131106,
-      "name": "Llorando Ausencia",
-      "url": "https://open.spotify.com/track/1ezJWENT2n38OdTECy1v6r"
-    },
-    {
-      "added_at": "2024-09-10 13:34:37",
+      "added_at": "2024-09-11 14:11:48",
       "album": {
         "name": "UWAIE",
         "url": "https://open.spotify.com/album/5H7sO778w4hgr2v2600ajN"
@@ -121,7 +121,39 @@
       "url": "https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF"
     },
     {
-      "added_at": "2024-09-10 13:34:37",
+      "added_at": "2024-09-11 14:11:48",
+      "album": {
+        "name": "Suena Lindo",
+        "url": "https://open.spotify.com/album/6YZwH3Q5TA7u6QMxnVBrKl"
+      },
+      "artists": [
+        {
+          "name": "Grupo Manzanar de Chilo\u00e9",
+          "url": "https://open.spotify.com/artist/3QPoAnDjfEVR0LRe21Zc55"
+        }
+      ],
+      "duration_ms": 134801,
+      "name": "Enamorados",
+      "url": "https://open.spotify.com/track/4yZHewo7vTT8geUxNAeYqY"
+    },
+    {
+      "added_at": "2024-09-11 14:11:48",
+      "album": {
+        "name": "Diet Pepsi",
+        "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "duration_ms": 169697,
+      "name": "Diet Pepsi",
+      "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
+    },
+    {
+      "added_at": "2024-09-11 14:11:48",
       "album": {
         "name": "YKWGTS",
         "url": "https://open.spotify.com/album/19eKTFbnC5aiE3FPSu1ISn"
@@ -149,23 +181,7 @@
       "url": "https://open.spotify.com/track/6ggOz96WfD8NSPBko8fnJA"
     },
     {
-      "added_at": "2024-09-10 13:34:37",
-      "album": {
-        "name": "Diet Pepsi",
-        "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
-      },
-      "artists": [
-        {
-          "name": "Addison Rae",
-          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
-        }
-      ],
-      "duration_ms": 169697,
-      "name": "Diet Pepsi",
-      "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
-    },
-    {
-      "added_at": "2024-09-10 13:34:37",
+      "added_at": "2024-09-11 14:11:48",
       "album": {
         "name": "Va colgando de un hilito (Guayabo Tech)",
         "url": "https://open.spotify.com/album/3x340A7bEOdmMo5PDr6gaz"
@@ -185,7 +201,7 @@
       "url": "https://open.spotify.com/track/2b3Y03tjsQNRn5Hl5g6Z11"
     },
     {
-      "added_at": "2024-09-10 13:34:37",
+      "added_at": "2024-09-11 14:11:48",
       "album": {
         "name": "La Vida en Versos",
         "url": "https://open.spotify.com/album/5DQh3ygGWESHLVG1Ooco9T"
@@ -201,43 +217,7 @@
       "url": "https://open.spotify.com/track/3hNkXDhrnQ9EEDylGEPrw8"
     },
     {
-      "added_at": "2024-09-10 13:34:37",
-      "album": {
-        "name": "El Traje del PSG",
-        "url": "https://open.spotify.com/album/7si1GXgwYOKGt9y4F0VK90"
-      },
-      "artists": [
-        {
-          "name": "Joaqu\u00edn Da Rosa",
-          "url": "https://open.spotify.com/artist/1aKohXKamlQBtSQz2LwGax"
-        }
-      ],
-      "duration_ms": 163666,
-      "name": "El Traje del PSG",
-      "url": "https://open.spotify.com/track/0aKBAAr9c9blu9ArZ3TGiT"
-    },
-    {
-      "added_at": "2024-09-10 13:34:37",
-      "album": {
-        "name": "ella brilla",
-        "url": "https://open.spotify.com/album/4SUUGxQ9wjP323SAc6VAuD"
-      },
-      "artists": [
-        {
-          "name": "RIZA",
-          "url": "https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1"
-        },
-        {
-          "name": "Humbe",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 263600,
-      "name": "ella brilla",
-      "url": "https://open.spotify.com/track/4xadguhD6ztFKReVXwLTEt"
-    },
-    {
-      "added_at": "2024-09-10 13:34:37",
+      "added_at": "2024-09-11 14:11:48",
       "album": {
         "name": "M\u00e1s Risa Menos Pena <3",
         "url": "https://open.spotify.com/album/1O1iaFKaiJK7CYw4ECRjd9"
@@ -257,7 +237,7 @@
       "url": "https://open.spotify.com/track/6C8J7tzAowu429wel8oxTE"
     },
     {
-      "added_at": "2024-09-10 13:34:37",
+      "added_at": "2024-09-11 14:11:48",
       "album": {
         "name": "Chile Tipico Vol.3 Camino De Luna",
         "url": "https://open.spotify.com/album/2uVyfByDwEX7ZVhgrVP6iS"
@@ -273,7 +253,43 @@
       "url": "https://open.spotify.com/track/4TUMZBtQISdb2NUiaEMemd"
     },
     {
-      "added_at": "2024-09-10 13:34:37",
+      "added_at": "2024-09-11 14:11:48",
+      "album": {
+        "name": "El Traje del PSG",
+        "url": "https://open.spotify.com/album/7si1GXgwYOKGt9y4F0VK90"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Da Rosa",
+          "url": "https://open.spotify.com/artist/1aKohXKamlQBtSQz2LwGax"
+        }
+      ],
+      "duration_ms": 163666,
+      "name": "El Traje del PSG",
+      "url": "https://open.spotify.com/track/0aKBAAr9c9blu9ArZ3TGiT"
+    },
+    {
+      "added_at": "2024-09-11 14:11:48",
+      "album": {
+        "name": "ella brilla",
+        "url": "https://open.spotify.com/album/4SUUGxQ9wjP323SAc6VAuD"
+      },
+      "artists": [
+        {
+          "name": "RIZA",
+          "url": "https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1"
+        },
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 263600,
+      "name": "ella brilla",
+      "url": "https://open.spotify.com/track/4xadguhD6ztFKReVXwLTEt"
+    },
+    {
+      "added_at": "2024-09-11 14:11:48",
       "album": {
         "name": "Short n' Sweet",
         "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
@@ -289,27 +305,7 @@
       "url": "https://open.spotify.com/track/1UHS8Rf6h5Ar3CDWRd3wjF"
     },
     {
-      "added_at": "2024-09-10 13:34:37",
-      "album": {
-        "name": "misteriosa (xulinho)",
-        "url": "https://open.spotify.com/album/0o1Zk7vF0olUTbPDj6AXV1"
-      },
-      "artists": [
-        {
-          "name": "Young Cister",
-          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
-        },
-        {
-          "name": "CJota",
-          "url": "https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH"
-        }
-      ],
-      "duration_ms": 195348,
-      "name": "misteriosa (xulinho)",
-      "url": "https://open.spotify.com/track/7BHPQrmBvbFpXWS1rIsraK"
-    },
-    {
-      "added_at": "2024-09-10 13:34:37",
+      "added_at": "2024-09-11 14:11:48",
       "album": {
         "name": "2 Peine",
         "url": "https://open.spotify.com/album/0FqjTX6ROxnzkSgNQBLSfs"
@@ -329,23 +325,27 @@
       "url": "https://open.spotify.com/track/30wqSNwxGMXVidA53Nhkfe"
     },
     {
-      "added_at": "2024-09-10 13:34:37",
+      "added_at": "2024-09-11 14:11:48",
       "album": {
-        "name": "El Pu\u00f1etazo",
-        "url": "https://open.spotify.com/album/7LK3qSmEwXJLYragpEdqt7"
+        "name": "misteriosa (xulinho)",
+        "url": "https://open.spotify.com/album/0o1Zk7vF0olUTbPDj6AXV1"
       },
       "artists": [
         {
-          "name": "Los Dinos de Chile",
-          "url": "https://open.spotify.com/artist/0IBPiuTlbQq7uLUp7ywXh0"
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        },
+        {
+          "name": "CJota",
+          "url": "https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH"
         }
       ],
-      "duration_ms": 163531,
-      "name": "El Pu\u00f1etazo",
-      "url": "https://open.spotify.com/track/0QvOKVBumpc6z1I3xCTV6F"
+      "duration_ms": 195348,
+      "name": "misteriosa (xulinho)",
+      "url": "https://open.spotify.com/track/7BHPQrmBvbFpXWS1rIsraK"
     },
     {
-      "added_at": "2024-09-10 13:34:37",
+      "added_at": "2024-09-11 14:11:48",
       "album": {
         "name": "Persona 3 Reload Original Soundtrack",
         "url": "https://open.spotify.com/album/20Bf2RVERC5Bc2eo3vyvJv"
@@ -373,23 +373,23 @@
       "url": "https://open.spotify.com/track/3znIACSXPLn3HFCf7moZ28"
     },
     {
-      "added_at": "2024-09-10 13:34:37",
+      "added_at": "2024-09-11 14:11:48",
       "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv"
+        "name": "El Pu\u00f1etazo",
+        "url": "https://open.spotify.com/album/7LK3qSmEwXJLYragpEdqt7"
       },
       "artists": [
         {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+          "name": "Los Dinos de Chile",
+          "url": "https://open.spotify.com/artist/0IBPiuTlbQq7uLUp7ywXh0"
         }
       ],
-      "duration_ms": 129882,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav"
+      "duration_ms": 163531,
+      "name": "El Pu\u00f1etazo",
+      "url": "https://open.spotify.com/track/0QvOKVBumpc6z1I3xCTV6F"
     },
     {
-      "added_at": "2024-09-10 13:34:37",
+      "added_at": "2024-09-11 14:11:48",
       "album": {
         "name": "Hoy",
         "url": "https://open.spotify.com/album/4ENi7P1IV01E2jzbHZeKxn"
@@ -409,23 +409,23 @@
       "url": "https://open.spotify.com/track/0SoBfYjQHvL6cuWHtPUYnq"
     },
     {
-      "added_at": "2024-09-10 13:34:37",
+      "added_at": "2024-09-11 14:11:48",
       "album": {
-        "name": "Folklore en Mi Escuela. Danzas y Cantos de Am\u00e9rica, Vol. 1",
-        "url": "https://open.spotify.com/album/0u9kzGk1hFTp5ITUQye2ww"
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv"
       },
       "artists": [
         {
-          "name": "Conjunto Alerce",
-          "url": "https://open.spotify.com/artist/2pqwxwD3MCX4dM9OSdVoWb"
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
         }
       ],
-      "duration_ms": 113400,
-      "name": "El Costillar",
-      "url": "https://open.spotify.com/track/6iFPOUYTO1HUs3sDGBjM7Y"
+      "duration_ms": 129882,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav"
     },
     {
-      "added_at": "2024-09-10 13:34:37",
+      "added_at": "2024-09-11 14:11:48",
       "album": {
         "name": "Folklore en Mi Escuela. Danzas y Cantos de Am\u00e9rica, Vol. 1",
         "url": "https://open.spotify.com/album/0u9kzGk1hFTp5ITUQye2ww"
@@ -441,7 +441,23 @@
       "url": "https://open.spotify.com/track/5u7FyEcNDbWN2VB9lMi1pd"
     },
     {
-      "added_at": "2024-09-10 13:34:37",
+      "added_at": "2024-09-11 14:11:48",
+      "album": {
+        "name": "Folklore en Mi Escuela. Danzas y Cantos de Am\u00e9rica, Vol. 1",
+        "url": "https://open.spotify.com/album/0u9kzGk1hFTp5ITUQye2ww"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Alerce",
+          "url": "https://open.spotify.com/artist/2pqwxwD3MCX4dM9OSdVoWb"
+        }
+      ],
+      "duration_ms": 113400,
+      "name": "El Costillar",
+      "url": "https://open.spotify.com/track/6iFPOUYTO1HUs3sDGBjM7Y"
+    },
+    {
+      "added_at": "2024-09-11 14:11:48",
       "album": {
         "name": "Samba de Raiz - Ao Vivo, Vol. 2",
         "url": "https://open.spotify.com/album/025CDSYsJnhxdS5o3BDvk9"
@@ -457,7 +473,55 @@
       "url": "https://open.spotify.com/track/1IXlKFVhuqqz4JACzcxNBm"
     },
     {
-      "added_at": "2024-09-10 13:34:37",
+      "added_at": "2024-09-11 14:11:48",
+      "album": {
+        "name": "Los Mismos de Siempre",
+        "url": "https://open.spotify.com/album/3dn5i3dOicnSOb6ryOTt22"
+      },
+      "artists": [
+        {
+          "name": "Los Mismos de Siempre",
+          "url": "https://open.spotify.com/artist/0QlyCyYljfcdWtBNemiXXV"
+        }
+      ],
+      "duration_ms": 121084,
+      "name": "Mi Cueca Chilena",
+      "url": "https://open.spotify.com/track/3FmgudfIL8jtAOa7X1c51w"
+    },
+    {
+      "added_at": "2024-09-11 14:11:48",
+      "album": {
+        "name": "Las Mejores Cuecas Con Maihuen de los Angeles",
+        "url": "https://open.spotify.com/album/5ZPsIKHvrhsNl9KTDNsUBP"
+      },
+      "artists": [
+        {
+          "name": "Maihuen de los Angeles",
+          "url": "https://open.spotify.com/artist/4vkOLg1AyJgDqF9xwLsgXR"
+        }
+      ],
+      "duration_ms": 140013,
+      "name": "Ay Cari\u00f1o",
+      "url": "https://open.spotify.com/track/05GZJN3FA5uHicXdJGpj7i"
+    },
+    {
+      "added_at": "2024-09-11 14:11:48",
+      "album": {
+        "name": "Folklore en Mi Escuela. Danzas y Cantos de Am\u00e9rica, Vol. 1",
+        "url": "https://open.spotify.com/album/0u9kzGk1hFTp5ITUQye2ww"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Folkl\u00f3rico Del Colegio Latinoamericano",
+          "url": "https://open.spotify.com/artist/2XNZrPlUavwHJTA23a4YVA"
+        }
+      ],
+      "duration_ms": 161933,
+      "name": "Trote Tarapaque\u00f1o",
+      "url": "https://open.spotify.com/track/0Jljgxg8hz5Fd1fggqSACU"
+    },
+    {
+      "added_at": "2024-09-11 14:11:48",
       "album": {
         "name": "mg kmo aplaude",
         "url": "https://open.spotify.com/album/7s6DS7IdJuuOP2RO4FxQI7"
@@ -477,23 +541,59 @@
       "url": "https://open.spotify.com/track/4x47CXbaYZ079ASrlcAeBG"
     },
     {
-      "added_at": "2024-09-10 13:34:37",
+      "added_at": "2024-09-11 14:11:48",
       "album": {
-        "name": "Hopefully im doing well",
-        "url": "https://open.spotify.com/album/2Z00szw2lOxyvW7VEn0yHx"
+        "name": "epistolares",
+        "url": "https://open.spotify.com/album/3x6Ske6l38f2tclsOBywWv"
       },
       "artists": [
         {
-          "name": "Beny Jr",
-          "url": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+        },
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
         }
       ],
-      "duration_ms": 152866,
-      "name": "Beso Prohibido",
-      "url": "https://open.spotify.com/track/1blshUZ3s8JOG76XnhdPfb"
+      "duration_ms": 141818,
+      "name": "www.hotxulito.com",
+      "url": "https://open.spotify.com/track/3ubXujtdHQjKWm8JAAn9OP"
     },
     {
-      "added_at": "2024-09-10 13:34:37",
+      "added_at": "2024-09-11 14:11:48",
+      "album": {
+        "name": "30 Cuecas",
+        "url": "https://open.spotify.com/album/6p2coYM4I9zqnkSvpfa1lK"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Campos",
+          "url": "https://open.spotify.com/artist/25iPZnrdjEMSYXjUxdfgc6"
+        }
+      ],
+      "duration_ms": 135546,
+      "name": "El Guat\u00f3n Loyola",
+      "url": "https://open.spotify.com/track/4Dc9LfT50zarvSzaO1ES4Y"
+    },
+    {
+      "added_at": "2024-09-11 14:11:48",
+      "album": {
+        "name": "Bendice el Aire",
+        "url": "https://open.spotify.com/album/7HRWBMohAcaUrqGluXyrRs"
+      },
+      "artists": [
+        {
+          "name": "Silvanita y Los del Quincho",
+          "url": "https://open.spotify.com/artist/2EHb5YBuTpyV4leGdhdfXA"
+        }
+      ],
+      "duration_ms": 123783,
+      "name": "Adi\u00f3s Palomita",
+      "url": "https://open.spotify.com/track/1xhYQI1Kszpv30sfkHzNF0"
+    },
+    {
+      "added_at": "2024-09-11 14:11:48",
       "album": {
         "name": "Short n' Sweet",
         "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
@@ -509,7 +609,111 @@
       "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
     },
     {
-      "added_at": "2024-09-10 13:34:37",
+      "added_at": "2024-09-11 14:11:48",
+      "album": {
+        "name": "Amiga Ya Mat\u00f3",
+        "url": "https://open.spotify.com/album/3vdeLAOCdRgLEYXaoAxpwh"
+      },
+      "artists": [
+        {
+          "name": "Fran Maira",
+          "url": "https://open.spotify.com/artist/62ztrjzw3tYDq5udATPhwN"
+        }
+      ],
+      "duration_ms": 144014,
+      "name": "Amiga Ya Mat\u00f3",
+      "url": "https://open.spotify.com/track/0UONsSefbs5YP6iluxq8Dq"
+    },
+    {
+      "added_at": "2024-09-11 14:11:48",
+      "album": {
+        "name": "Con todo el sabor del puerto",
+        "url": "https://open.spotify.com/album/71em5dA8e6y5phje5xUeSI"
+      },
+      "artists": [
+        {
+          "name": "Silvanita y Los del Quincho",
+          "url": "https://open.spotify.com/artist/2EHb5YBuTpyV4leGdhdfXA"
+        }
+      ],
+      "duration_ms": 141141,
+      "name": "Felon\u00eda de Amor",
+      "url": "https://open.spotify.com/track/6bjCUAIaa6m8POK66eaK6c"
+    },
+    {
+      "added_at": "2024-09-11 14:11:48",
+      "album": {
+        "name": "Isla de Pascua",
+        "url": "https://open.spotify.com/album/72wNEvYXR6J4mnAYtzH7xe"
+      },
+      "artists": [
+        {
+          "name": "Rapanui Hinariru",
+          "url": "https://open.spotify.com/artist/2A6oWfpVSVpC13ejJBEqgs"
+        }
+      ],
+      "duration_ms": 154489,
+      "name": "Uru Te Hami",
+      "url": "https://open.spotify.com/track/607g9792OBarGHbrH4UHDr"
+    },
+    {
+      "added_at": "2024-09-11 14:11:48",
+      "album": {
+        "name": "Hopefully im doing well",
+        "url": "https://open.spotify.com/album/2Z00szw2lOxyvW7VEn0yHx"
+      },
+      "artists": [
+        {
+          "name": "Beny Jr",
+          "url": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
+        }
+      ],
+      "duration_ms": 152866,
+      "name": "Beso Prohibido",
+      "url": "https://open.spotify.com/track/1blshUZ3s8JOG76XnhdPfb"
+    },
+    {
+      "added_at": "2024-09-11 14:11:48",
+      "album": {
+        "name": "30 Cuecas",
+        "url": "https://open.spotify.com/album/6p2coYM4I9zqnkSvpfa1lK"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Campos",
+          "url": "https://open.spotify.com/artist/25iPZnrdjEMSYXjUxdfgc6"
+        }
+      ],
+      "duration_ms": 110053,
+      "name": "Te Miro la Cara y Me Da Sed",
+      "url": "https://open.spotify.com/track/11fJouJwR4m6A48CC40qHi"
+    },
+    {
+      "added_at": "2024-09-11 14:11:48",
+      "album": {
+        "name": "Amor Fugaz",
+        "url": "https://open.spotify.com/album/6T6sWcNxPL2ddJDZeH8g9Q"
+      },
+      "artists": [
+        {
+          "name": "Amigo de Artistas",
+          "url": "https://open.spotify.com/artist/7j6lJVKmCFlcXtfMDf57gP"
+        },
+        {
+          "name": "godie.",
+          "url": "https://open.spotify.com/artist/5VWqDJQziNeUjSkOCzweGH"
+        },
+        {
+          "name": "V.I.C",
+          "url": "https://open.spotify.com/artist/74CA7WjisOioFzIoREi20s"
+        }
+      ],
+      "duration_ms": 184074,
+      "name": "Amor Fugaz",
+      "url": "https://open.spotify.com/track/21KvzJjEbMwaS6FYYGstkN"
+    },
+    {
+      "added_at": "2024-09-11 14:11:48",
       "album": {
         "name": "Soltera - W Sound 01",
         "url": "https://open.spotify.com/album/5UQC6N5rRND3GZKzysRdA4"
@@ -533,75 +737,7 @@
       "url": "https://open.spotify.com/track/13BDiikG6y5o5cQTK0HpW6"
     },
     {
-      "added_at": "2024-09-10 13:34:37",
-      "album": {
-        "name": "Los Mismos de Siempre",
-        "url": "https://open.spotify.com/album/3dn5i3dOicnSOb6ryOTt22"
-      },
-      "artists": [
-        {
-          "name": "Los Mismos de Siempre",
-          "url": "https://open.spotify.com/artist/0QlyCyYljfcdWtBNemiXXV"
-        }
-      ],
-      "duration_ms": 121084,
-      "name": "Mi Cueca Chilena",
-      "url": "https://open.spotify.com/track/3FmgudfIL8jtAOa7X1c51w"
-    },
-    {
-      "added_at": "2024-09-10 13:34:37",
-      "album": {
-        "name": "Folklore en Mi Escuela. Danzas y Cantos de Am\u00e9rica, Vol. 1",
-        "url": "https://open.spotify.com/album/0u9kzGk1hFTp5ITUQye2ww"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Folkl\u00f3rico Del Colegio Latinoamericano",
-          "url": "https://open.spotify.com/artist/2XNZrPlUavwHJTA23a4YVA"
-        }
-      ],
-      "duration_ms": 161933,
-      "name": "Trote Tarapaque\u00f1o",
-      "url": "https://open.spotify.com/track/0Jljgxg8hz5Fd1fggqSACU"
-    },
-    {
-      "added_at": "2024-09-10 13:34:37",
-      "album": {
-        "name": "epistolares",
-        "url": "https://open.spotify.com/album/3x6Ske6l38f2tclsOBywWv"
-      },
-      "artists": [
-        {
-          "name": "AKRIILA",
-          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
-        },
-        {
-          "name": "Young Cister",
-          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
-        }
-      ],
-      "duration_ms": 141818,
-      "name": "www.hotxulito.com",
-      "url": "https://open.spotify.com/track/3ubXujtdHQjKWm8JAAn9OP"
-    },
-    {
-      "added_at": "2024-09-10 13:34:37",
-      "album": {
-        "name": "Tattoo (Spanish Version)",
-        "url": "https://open.spotify.com/album/5Sxoet3bM8FJeRK2J1us86"
-      },
-      "artists": [
-        {
-          "name": "Kevz",
-          "url": "https://open.spotify.com/artist/1bACqFgiKE47Y61x3I8wdg"
-        }
-      ],
-      "duration_ms": 152957,
-      "name": "Tattoo - Spanish Version",
-      "url": "https://open.spotify.com/track/6gP0cvDaIOwiCdaOd1bmcW"
-    },
-    {
-      "added_at": "2024-09-10 13:34:37",
+      "added_at": "2024-09-11 14:11:48",
       "album": {
         "name": "New Woman (feat. ROSAL\u00cdA)",
         "url": "https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch"
@@ -621,23 +757,87 @@
       "url": "https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w"
     },
     {
-      "added_at": "2024-09-10 13:34:37",
+      "added_at": "2024-09-11 14:11:48",
       "album": {
-        "name": "Las Mejores Cuecas Con Maihuen de los Angeles",
-        "url": "https://open.spotify.com/album/5ZPsIKHvrhsNl9KTDNsUBP"
+        "name": "Chief Boot Knocka",
+        "url": "https://open.spotify.com/album/129ZZNyaPOWi5OsZEyQKIP"
       },
       "artists": [
         {
-          "name": "Maihuen de los Angeles",
-          "url": "https://open.spotify.com/artist/4vkOLg1AyJgDqF9xwLsgXR"
+          "name": "Sir Mix-A-Lot",
+          "url": "https://open.spotify.com/artist/3TQ9JTBI2n2hfo7aRONEYV"
         }
       ],
-      "duration_ms": 140013,
-      "name": "Ay Cari\u00f1o",
-      "url": "https://open.spotify.com/track/05GZJN3FA5uHicXdJGpj7i"
+      "duration_ms": 240293,
+      "name": "Nasty Dog",
+      "url": "https://open.spotify.com/track/3ZP1AbM0rurWtqQIhTVcln"
     },
     {
-      "added_at": "2024-09-10 13:34:37",
+      "added_at": "2024-09-11 14:11:48",
+      "album": {
+        "name": "Tattoo (Spanish Version)",
+        "url": "https://open.spotify.com/album/5Sxoet3bM8FJeRK2J1us86"
+      },
+      "artists": [
+        {
+          "name": "Kevz",
+          "url": "https://open.spotify.com/artist/1bACqFgiKE47Y61x3I8wdg"
+        }
+      ],
+      "duration_ms": 152957,
+      "name": "Tattoo - Spanish Version",
+      "url": "https://open.spotify.com/track/6gP0cvDaIOwiCdaOd1bmcW"
+    },
+    {
+      "added_at": "2024-09-11 14:11:48",
+      "album": {
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 223192,
+      "name": "Juno",
+      "url": "https://open.spotify.com/track/21B4gaTWnTkuSh77iWEXdS"
+    },
+    {
+      "added_at": "2024-09-11 14:11:48",
+      "album": {
+        "name": "M\u00fasica Chilena",
+        "url": "https://open.spotify.com/album/4amd4eCAJb5Zqdc0S4t0j1"
+      },
+      "artists": [
+        {
+          "name": "Hai Luau",
+          "url": "https://open.spotify.com/artist/0d584WJKygEacLTwFGYXjf"
+        }
+      ],
+      "duration_ms": 256426,
+      "name": "Rapa Nui Mi Amor",
+      "url": "https://open.spotify.com/track/6EUOJhj0E2uBkrNw062vzF"
+    },
+    {
+      "added_at": "2024-09-11 14:11:48",
+      "album": {
+        "name": "Cuanto Quiero Que Me Quieras",
+        "url": "https://open.spotify.com/album/24IDQKU9KabNPJENJApSsJ"
+      },
+      "artists": [
+        {
+          "name": "A los 4 Vientos",
+          "url": "https://open.spotify.com/artist/4mawQ0P4WNPzCoktK0zuBD"
+        }
+      ],
+      "duration_ms": 139598,
+      "name": "Bajo el Sombrero",
+      "url": "https://open.spotify.com/track/60yZFPAYb0nKr7SDDQohF7"
+    },
+    {
+      "added_at": "2024-09-11 14:11:48",
       "album": {
         "name": "CIEGO SORDO MUDO",
         "url": "https://open.spotify.com/album/1HEIs7pw9riPY4i1qhvBos"
@@ -657,87 +857,7 @@
       "url": "https://open.spotify.com/track/2q7lduBHmZ3HeqkUKZEM7h"
     },
     {
-      "added_at": "2024-09-10 13:34:37",
-      "album": {
-        "name": "30 Cuecas",
-        "url": "https://open.spotify.com/album/6p2coYM4I9zqnkSvpfa1lK"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Campos",
-          "url": "https://open.spotify.com/artist/25iPZnrdjEMSYXjUxdfgc6"
-        }
-      ],
-      "duration_ms": 110053,
-      "name": "Te Miro la Cara y Me Da Sed",
-      "url": "https://open.spotify.com/track/11fJouJwR4m6A48CC40qHi"
-    },
-    {
-      "added_at": "2024-09-10 13:34:37",
-      "album": {
-        "name": "Short n' Sweet",
-        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 223192,
-      "name": "Juno",
-      "url": "https://open.spotify.com/track/21B4gaTWnTkuSh77iWEXdS"
-    },
-    {
-      "added_at": "2024-09-10 13:34:37",
-      "album": {
-        "name": "30 Cuecas",
-        "url": "https://open.spotify.com/album/6p2coYM4I9zqnkSvpfa1lK"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Campos",
-          "url": "https://open.spotify.com/artist/25iPZnrdjEMSYXjUxdfgc6"
-        }
-      ],
-      "duration_ms": 135546,
-      "name": "El Guat\u00f3n Loyola",
-      "url": "https://open.spotify.com/track/4Dc9LfT50zarvSzaO1ES4Y"
-    },
-    {
-      "added_at": "2024-09-10 13:34:37",
-      "album": {
-        "name": "Chief Boot Knocka",
-        "url": "https://open.spotify.com/album/129ZZNyaPOWi5OsZEyQKIP"
-      },
-      "artists": [
-        {
-          "name": "Sir Mix-A-Lot",
-          "url": "https://open.spotify.com/artist/3TQ9JTBI2n2hfo7aRONEYV"
-        }
-      ],
-      "duration_ms": 240293,
-      "name": "Nasty Dog",
-      "url": "https://open.spotify.com/track/3ZP1AbM0rurWtqQIhTVcln"
-    },
-    {
-      "added_at": "2024-09-10 13:34:37",
-      "album": {
-        "name": "Amiga Ya Mat\u00f3",
-        "url": "https://open.spotify.com/album/3vdeLAOCdRgLEYXaoAxpwh"
-      },
-      "artists": [
-        {
-          "name": "Fran Maira",
-          "url": "https://open.spotify.com/artist/62ztrjzw3tYDq5udATPhwN"
-        }
-      ],
-      "duration_ms": 144014,
-      "name": "Amiga Ya Mat\u00f3",
-      "url": "https://open.spotify.com/track/0UONsSefbs5YP6iluxq8Dq"
-    },
-    {
-      "added_at": "2024-09-10 13:34:37",
+      "added_at": "2024-09-11 14:11:48",
       "album": {
         "name": "epistolares",
         "url": "https://open.spotify.com/album/3x6Ske6l38f2tclsOBywWv"
@@ -761,55 +881,7 @@
       "url": "https://open.spotify.com/track/6sDUNBiHIMYI5dC6TeGQNs"
     },
     {
-      "added_at": "2024-09-10 13:34:37",
-      "album": {
-        "name": "Bendice el Aire",
-        "url": "https://open.spotify.com/album/7HRWBMohAcaUrqGluXyrRs"
-      },
-      "artists": [
-        {
-          "name": "Silvanita y Los del Quincho",
-          "url": "https://open.spotify.com/artist/2EHb5YBuTpyV4leGdhdfXA"
-        }
-      ],
-      "duration_ms": 123783,
-      "name": "Adi\u00f3s Palomita",
-      "url": "https://open.spotify.com/track/1xhYQI1Kszpv30sfkHzNF0"
-    },
-    {
-      "added_at": "2024-09-10 13:34:37",
-      "album": {
-        "name": "Chile en mi Escuela",
-        "url": "https://open.spotify.com/album/6a8FYP5NBJGZFALuurxgyh"
-      },
-      "artists": [
-        {
-          "name": "La Banda De Fiesta",
-          "url": "https://open.spotify.com/artist/5VvOtLu8lBn1V71nsWFgxp"
-        }
-      ],
-      "duration_ms": 203120,
-      "name": "La Tirana",
-      "url": "https://open.spotify.com/track/7iKRhtTI1Caq67NaMNdi0b"
-    },
-    {
-      "added_at": "2024-09-10 13:34:37",
-      "album": {
-        "name": "Ohnana",
-        "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
-      },
-      "artists": [
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        }
-      ],
-      "duration_ms": 156577,
-      "name": "Ohnana",
-      "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
-    },
-    {
-      "added_at": "2024-09-10 13:34:37",
+      "added_at": "2024-09-11 14:11:48",
       "album": {
         "name": "El Amor en 48 Compases",
         "url": "https://open.spotify.com/album/3kQGuwvT1Hdy508DLXGVsQ"
@@ -825,47 +897,7 @@
       "url": "https://open.spotify.com/track/1ftGNTvnmH7KRRDUtASTej"
     },
     {
-      "added_at": "2024-09-10 13:34:37",
-      "album": {
-        "name": "Isla de Pascua",
-        "url": "https://open.spotify.com/album/72wNEvYXR6J4mnAYtzH7xe"
-      },
-      "artists": [
-        {
-          "name": "Rapanui Hinariru",
-          "url": "https://open.spotify.com/artist/2A6oWfpVSVpC13ejJBEqgs"
-        }
-      ],
-      "duration_ms": 154489,
-      "name": "Uru Te Hami",
-      "url": "https://open.spotify.com/track/607g9792OBarGHbrH4UHDr"
-    },
-    {
-      "added_at": "2024-09-10 13:34:37",
-      "album": {
-        "name": "CHIKA MALA",
-        "url": "https://open.spotify.com/album/0GQ4CF6ceTtkXZJlo1IHYc"
-      },
-      "artists": [
-        {
-          "name": "Jere Klein",
-          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
-        },
-        {
-          "name": "Mateo on the Beatz",
-          "url": "https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg"
-        },
-        {
-          "name": "EL MURCIELAGO",
-          "url": "https://open.spotify.com/artist/4fVe4Q8NDy3wog4lVZMlOX"
-        }
-      ],
-      "duration_ms": 174412,
-      "name": "CHIKA MALA",
-      "url": "https://open.spotify.com/track/2SuosMcETUjDfBRobLLTQm"
-    },
-    {
-      "added_at": "2024-09-10 13:34:37",
+      "added_at": "2024-09-11 14:11:48",
       "album": {
         "name": "444",
         "url": "https://open.spotify.com/album/5wKKETPKCZbiIxfBTPfz16"
@@ -883,38 +915,6 @@
       "duration_ms": 175280,
       "name": "444",
       "url": "https://open.spotify.com/track/1o4xkdBe0RjSf2u6VXi4OI"
-    },
-    {
-      "added_at": "2024-09-10 13:34:37",
-      "album": {
-        "name": "Con todo el sabor del puerto",
-        "url": "https://open.spotify.com/album/71em5dA8e6y5phje5xUeSI"
-      },
-      "artists": [
-        {
-          "name": "Silvanita y Los del Quincho",
-          "url": "https://open.spotify.com/artist/2EHb5YBuTpyV4leGdhdfXA"
-        }
-      ],
-      "duration_ms": 141141,
-      "name": "Felon\u00eda de Amor",
-      "url": "https://open.spotify.com/track/6bjCUAIaa6m8POK66eaK6c"
-    },
-    {
-      "added_at": "2024-09-10 13:34:37",
-      "album": {
-        "name": "Good Luck, Babe!",
-        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 218423,
-      "name": "Good Luck, Babe!",
-      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
     }
   ],
   "unique_name": "Viral 50 - Chile",

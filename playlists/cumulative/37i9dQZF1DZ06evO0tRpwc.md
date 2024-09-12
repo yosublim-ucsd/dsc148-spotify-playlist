@@ -2,7 +2,7 @@
 
 ### [This Is Daniela Araújo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0tRpwc)
 
-> This is Daniela Araújo\. Todos os maiores hits em uma só playlist.
+> This is Daniela Araújo\. The essential tracks, all in one playlist.
 
 79 songs - 5 hr 20 min
 
@@ -43,10 +43,10 @@
 | [Imensurável](https://open.spotify.com/track/0JwkjDLTgWa3y4CtgB4zMw) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Criador do Mundo](https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6) | 4:04 | 2023-07-09 |  |
 | [Jesus](https://open.spotify.com/track/5a546hu8m59WXDxwAmryIt) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Criador do Mundo](https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6) | 3:46 | 2024-05-22 |  |
 | [Jugo Suave](https://open.spotify.com/track/0RMiTd0mlAeSK94yk3BHKj) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Daniela Araújo](https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ) | 4:21 | 2023-07-09 |  |
-| [Junho](https://open.spotify.com/track/2fOehLLcslyjeaI4QKP35A) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Doze](https://open.spotify.com/album/1sUTbCE2WUT0AHNWzP8QRb) | 4:02 | 2023-07-21 | 2024-09-09 |
+| [Junho](https://open.spotify.com/track/2fOehLLcslyjeaI4QKP35A) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Doze](https://open.spotify.com/album/1sUTbCE2WUT0AHNWzP8QRb) | 4:02 | 2023-07-21 |  |
 | [Lento](https://open.spotify.com/track/1Cq27FmPcRhjg35dsPKUjx) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [La Luz](https://open.spotify.com/album/1XFGH2sQhe9oIJIVMjrnsN) | 3:00 | 2023-07-09 |  |
 | [Liberdade](https://open.spotify.com/track/1MksipefYCj3jjdupynfZi) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Criador do Mundo](https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6) | 4:30 | 2023-07-09 |  |
-| [Limpa Meu Coração Jesus](https://open.spotify.com/track/5CbkJbcQ4IpmLtgf3A7ohW) | [Turma do Barulho](https://open.spotify.com/artist/2qC6KOgQY7n3BjvQLnksoh), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Jorginho Araújo](https://open.spotify.com/artist/4r2RITYiPz9BqPPNGNHJIs), [Elen Diana](https://open.spotify.com/artist/6VCgK0kbVf9l47vjmW6MvE), [Suelen Araújo](https://open.spotify.com/artist/4h9RQxqOLnWCPNuz6ELGmw) | [Turma do Barulho, Vol\. 11](https://open.spotify.com/album/60HQYmzN0FIDT7y3NV9SEE) | 2:33 | 2024-09-09 |  |
+| [Limpa Meu Coração Jesus](https://open.spotify.com/track/5CbkJbcQ4IpmLtgf3A7ohW) | [Turma do Barulho](https://open.spotify.com/artist/2qC6KOgQY7n3BjvQLnksoh), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Jorginho Araújo](https://open.spotify.com/artist/4r2RITYiPz9BqPPNGNHJIs), [Elen Diana](https://open.spotify.com/artist/6VCgK0kbVf9l47vjmW6MvE), [Suelen Araújo](https://open.spotify.com/artist/4h9RQxqOLnWCPNuz6ELGmw) | [Turma do Barulho, Vol\. 11](https://open.spotify.com/album/60HQYmzN0FIDT7y3NV9SEE) | 2:33 | 2024-09-09 | 2024-09-12 |
 | [Lo Que Hace Falta](https://open.spotify.com/track/4QqyzeKCR16fgCz4RGgVEN) | [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Nexus VII](https://open.spotify.com/album/2R3mfkFyi2rdOHqVhdE5fw) | 4:45 | 2023-07-09 | 2024-07-24 |
 | [Manifesto \(Versão Afrobeat\)](https://open.spotify.com/track/0hUHZxjcHR0rZ0zAj7Ou6T) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [Jorginho Araújo](https://open.spotify.com/artist/4r2RITYiPz9BqPPNGNHJIs) | [Manifesto](https://open.spotify.com/album/63n7PZNCS45Ct2tKE29kNn) | 2:21 | 2024-04-19 |  |
 | [Manifesto \(Versão Pop Trap\)](https://open.spotify.com/track/6GouQyMkHVQvk0U1BwCRVN) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [Jorginho Araújo](https://open.spotify.com/artist/4r2RITYiPz9BqPPNGNHJIs) | [Manifesto](https://open.spotify.com/album/63n7PZNCS45Ct2tKE29kNn) | 2:20 | 2024-03-20 | 2024-04-19 |

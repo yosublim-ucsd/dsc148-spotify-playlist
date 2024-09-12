@@ -2,7 +2,7 @@
 
 ### [K\-Pop Fresh](https://open.spotify.com/playlist/37i9dQZF1DX1LU4UHKqdtg)
 
-> The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: ATEEZ + BE:FIRST
+> The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: TZUYU
 
 1,189 songs - 2 day 16 hr 2 min
 

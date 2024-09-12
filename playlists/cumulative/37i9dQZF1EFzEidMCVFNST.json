@@ -415,7 +415,7 @@
     },
     {
       "album": {
-        "name": "S\u00f3 Dessa Vez (Ao Vivo)",
+        "name": "S\u00f3 Dessa Vez - Ao Vivo",
         "url": "https://open.spotify.com/album/3AZip62HavQQz8eTV2Pqbg"
       },
       "artists": [
@@ -997,7 +997,7 @@
     },
     {
       "album": {
-        "name": "Clube Do Ara\u00fajo (Ao Vivo)",
+        "name": "Clube Do Ara\u00fajo - Ao Vivo",
         "url": "https://open.spotify.com/album/5cBNpt7rpxOnPOBnh1NinO"
       },
       "artists": [
@@ -1943,7 +1943,7 @@
     },
     {
       "album": {
-        "name": "Nova Hist\u00f3ria (Ao Vivo)",
+        "name": "Nova Hist\u00f3ria - Ao Vivo",
         "url": "https://open.spotify.com/album/3Ul7XitH9jyzFBl7H9qo8Y"
       },
       "artists": [
@@ -2786,6 +2786,24 @@
       "duration_ms": 167131,
       "name": "Estilo American Pie",
       "url": "https://open.spotify.com/track/0gf7roKbD6H1VUkyRu6GMZ"
+    },
+    {
+      "album": {
+        "name": "O Don Ruann",
+        "url": "https://open.spotify.com/album/1wrp0dovGTUP1JaC4tPJlv"
+      },
+      "artists": [
+        {
+          "name": "Ruann Veras",
+          "url": "https://open.spotify.com/artist/50pcuS0C1MrFnGNhvg8zEI"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167131,
+      "name": "Estilo American Pie",
+      "url": "https://open.spotify.com/track/5FmOh7w0DHBGOkBkApgwc4"
     },
     {
       "album": {

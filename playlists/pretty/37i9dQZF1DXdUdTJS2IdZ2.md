@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 
 > Rising stars and new releases from sunny Singapore\. Cover: Linying
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,802 likes - 102 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,803 likes - 102 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

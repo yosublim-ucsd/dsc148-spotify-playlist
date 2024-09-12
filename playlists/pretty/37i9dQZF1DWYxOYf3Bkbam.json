@@ -1,6 +1,6 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 50673,
+  "num_followers": 50684,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-08-15 20:22:33",
       "album": {
-        "name": "Nuestras Mejores 30 Canciones",
-        "url": "https://open.spotify.com/album/1xeeiW2aNJnj9Vweycehex"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Cardozo",
-          "url": "https://open.spotify.com/artist/2qnTUTsuypizIuMwVM1ffR"
-        }
-      ],
-      "duration_ms": 146600,
-      "name": "Mi \u00daltima Flor",
-      "url": "https://open.spotify.com/track/61g2rmBeHabOCDl72RVFXs"
-    },
-    {
-      "added_at": "2024-08-15 20:22:33",
-      "album": {
         "name": "Los Palmare\u00f1os 23 A\u00f1os",
         "url": "https://open.spotify.com/album/4jjcFw60u6HhcxRaaW4TPj"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 259853,
       "name": "Borracho Sin Destino",
       "url": "https://open.spotify.com/track/0pFq0riT31rbg0tnzJLdE0"
+    },
+    {
+      "added_at": "2024-08-15 20:22:33",
+      "album": {
+        "name": "Nuestras Mejores 30 Canciones",
+        "url": "https://open.spotify.com/album/1xeeiW2aNJnj9Vweycehex"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Cardozo",
+          "url": "https://open.spotify.com/artist/2qnTUTsuypizIuMwVM1ffR"
+        }
+      ],
+      "duration_ms": 146600,
+      "name": "Mi \u00daltima Flor",
+      "url": "https://open.spotify.com/track/61g2rmBeHabOCDl72RVFXs"
     },
     {
       "added_at": "2024-08-15 20:22:33",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-08-15 20:22:33",
       "album": {
-        "name": "Coraz\u00f3n Chamamecero",
-        "url": "https://open.spotify.com/album/0gswITpRLEupnT7EftX6sZ"
-      },
-      "artists": [
-        {
-          "name": "Emiliano Cardozo Y Los Cardocitos",
-          "url": "https://open.spotify.com/artist/1xCZcvonWAPlRE2fsy8Y1j"
-        }
-      ],
-      "duration_ms": 208346,
-      "name": "El Gaucho Gil",
-      "url": "https://open.spotify.com/track/57Fe8WMp65ur02mOXCbYYg"
-    },
-    {
-      "added_at": "2024-08-15 20:22:33",
-      "album": {
         "name": "Sin Fronteras",
         "url": "https://open.spotify.com/album/0cLWAd2Twque4NuHbsqKix"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 296653,
       "name": "La Fiesta Del Chamam\u00e9",
       "url": "https://open.spotify.com/track/4hj1mjGwwg4fVnAegGRfX8"
+    },
+    {
+      "added_at": "2024-08-15 20:22:33",
+      "album": {
+        "name": "Coraz\u00f3n Chamamecero",
+        "url": "https://open.spotify.com/album/0gswITpRLEupnT7EftX6sZ"
+      },
+      "artists": [
+        {
+          "name": "Emiliano Cardozo Y Los Cardocitos",
+          "url": "https://open.spotify.com/artist/1xCZcvonWAPlRE2fsy8Y1j"
+        }
+      ],
+      "duration_ms": 208346,
+      "name": "El Gaucho Gil",
+      "url": "https://open.spotify.com/track/57Fe8WMp65ur02mOXCbYYg"
     },
     {
       "added_at": "2024-08-15 20:22:33",
@@ -779,6 +779,26 @@
     {
       "added_at": "2024-08-15 20:22:33",
       "album": {
+        "name": "20 Superexitos Originales",
+        "url": "https://open.spotify.com/album/49ZEKfNmvCtoiuw03rkSNG"
+      },
+      "artists": [
+        {
+          "name": "Isaco Abitbol",
+          "url": "https://open.spotify.com/artist/1rQkDePEOWFuLgGEtALo5s"
+        },
+        {
+          "name": "Domingo Rodriguez",
+          "url": "https://open.spotify.com/artist/3jJj59ghgeLmEzIanWxaNH"
+        }
+      ],
+      "duration_ms": 142120,
+      "name": "Ah Mi Corrientes Por\u00e1",
+      "url": "https://open.spotify.com/track/1s0inHd3uYxNsvkU2hXYFT"
+    },
+    {
+      "added_at": "2024-08-15 20:22:33",
+      "album": {
         "name": "Los 55 Anos del Cuarteto Santa Ana",
         "url": "https://open.spotify.com/album/07WYgRf0q9zz4TuFPXaBhr"
       },
@@ -811,26 +831,6 @@
       "duration_ms": 204746,
       "name": "Mi ponchillo colorado",
       "url": "https://open.spotify.com/track/7tHIM5cMZgcSvTZPaoAzFP"
-    },
-    {
-      "added_at": "2024-08-15 20:22:33",
-      "album": {
-        "name": "20 Superexitos Originales",
-        "url": "https://open.spotify.com/album/49ZEKfNmvCtoiuw03rkSNG"
-      },
-      "artists": [
-        {
-          "name": "Isaco Abitbol",
-          "url": "https://open.spotify.com/artist/1rQkDePEOWFuLgGEtALo5s"
-        },
-        {
-          "name": "Domingo Rodriguez",
-          "url": "https://open.spotify.com/artist/3jJj59ghgeLmEzIanWxaNH"
-        }
-      ],
-      "duration_ms": 142120,
-      "name": "Ah Mi Corrientes Por\u00e1",
-      "url": "https://open.spotify.com/track/1s0inHd3uYxNsvkU2hXYFT"
     },
     {
       "added_at": "2024-08-15 20:22:33",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-08-15 20:22:33",
       "album": {
-        "name": "Baile de Campo",
-        "url": "https://open.spotify.com/album/7oVDKHLXbxjJOvu9ZuSQ7g"
-      },
-      "artists": [
-        {
-          "name": "Los Taitas del Chamame",
-          "url": "https://open.spotify.com/artist/0JTFmHW2WqRW4GHtDFrl5u"
-        }
-      ],
-      "duration_ms": 165120,
-      "name": "Baile de Campo",
-      "url": "https://open.spotify.com/track/1me7vpj6UO5MhK2lTLRLyn"
-    },
-    {
-      "added_at": "2024-08-15 20:22:33",
-      "album": {
         "name": "Noche de Tormenta",
         "url": "https://open.spotify.com/album/6hr16g3X4a82g8PJww6UUd"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 192042,
       "name": "La Leyenda de la Brasita de Fuego",
       "url": "https://open.spotify.com/track/0TfXM9Etjlz4wn49fl0yxN"
+    },
+    {
+      "added_at": "2024-08-15 20:22:33",
+      "album": {
+        "name": "Baile de Campo",
+        "url": "https://open.spotify.com/album/7oVDKHLXbxjJOvu9ZuSQ7g"
+      },
+      "artists": [
+        {
+          "name": "Los Taitas del Chamame",
+          "url": "https://open.spotify.com/artist/0JTFmHW2WqRW4GHtDFrl5u"
+        }
+      ],
+      "duration_ms": 165120,
+      "name": "Baile de Campo",
+      "url": "https://open.spotify.com/track/1me7vpj6UO5MhK2lTLRLyn"
     },
     {
       "added_at": "2024-08-15 20:22:33",
@@ -1039,38 +1039,34 @@
     {
       "added_at": "2024-08-15 20:22:33",
       "album": {
-        "name": "Los 55 Anos del Cuarteto Santa Ana",
-        "url": "https://open.spotify.com/album/07WYgRf0q9zz4TuFPXaBhr"
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
       },
       "artists": [
         {
-          "name": "Carlos Talavera con el Cuarteto Santa Ana",
-          "url": "https://open.spotify.com/artist/6KmWYyLeQgz4DIQvxLZm9I"
-        },
-        {
-          "name": "Ernesto Montiel",
-          "url": "https://open.spotify.com/artist/0kps7D5aSOND65MD33m9Pd"
+          "name": "Paquito Aranda",
+          "url": "https://open.spotify.com/artist/78SvSuyvRN1LIjHpQd1daf"
         }
       ],
-      "duration_ms": 187013,
-      "name": "Rumbeando Pal Litoral",
-      "url": "https://open.spotify.com/track/5Vb3AxrP4DXsqfpc072wrf"
+      "duration_ms": 170893,
+      "name": "A villa Guillermina",
+      "url": "https://open.spotify.com/track/7cOkr0CjVKEySdqhGlyVvg"
     },
     {
       "added_at": "2024-08-15 20:22:33",
       "album": {
-        "name": "Mi Estrella Perdida",
-        "url": "https://open.spotify.com/album/1gZEqHoM4jZF6OCHNZWuAu"
+        "name": "Oraci\u00f3n del Remanso",
+        "url": "https://open.spotify.com/album/4yWvVRhMCWvBERdaGieOxr"
       },
       "artists": [
         {
-          "name": "Los Alonsitos",
-          "url": "https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H"
+          "name": "Canto Del Alma",
+          "url": "https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa"
         }
       ],
-      "duration_ms": 248320,
-      "name": "Mi Estrella Perdida",
-      "url": "https://open.spotify.com/track/47ugki7NC3Nb0lwUZQEqzd"
+      "duration_ms": 311531,
+      "name": "Oraci\u00f3n del Remanso",
+      "url": "https://open.spotify.com/track/5yXtxFYCdULBj6AOfDHplS"
     },
     {
       "added_at": "2024-08-15 20:22:33",
@@ -1099,34 +1095,38 @@
     {
       "added_at": "2024-08-15 20:22:33",
       "album": {
-        "name": "Oraci\u00f3n del Remanso",
-        "url": "https://open.spotify.com/album/4yWvVRhMCWvBERdaGieOxr"
+        "name": "Mi Estrella Perdida",
+        "url": "https://open.spotify.com/album/1gZEqHoM4jZF6OCHNZWuAu"
       },
       "artists": [
         {
-          "name": "Canto Del Alma",
-          "url": "https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa"
+          "name": "Los Alonsitos",
+          "url": "https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H"
         }
       ],
-      "duration_ms": 311531,
-      "name": "Oraci\u00f3n del Remanso",
-      "url": "https://open.spotify.com/track/5yXtxFYCdULBj6AOfDHplS"
+      "duration_ms": 248320,
+      "name": "Mi Estrella Perdida",
+      "url": "https://open.spotify.com/track/47ugki7NC3Nb0lwUZQEqzd"
     },
     {
       "added_at": "2024-08-15 20:22:33",
       "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+        "name": "Los 55 Anos del Cuarteto Santa Ana",
+        "url": "https://open.spotify.com/album/07WYgRf0q9zz4TuFPXaBhr"
       },
       "artists": [
         {
-          "name": "Paquito Aranda",
-          "url": "https://open.spotify.com/artist/78SvSuyvRN1LIjHpQd1daf"
+          "name": "Carlos Talavera con el Cuarteto Santa Ana",
+          "url": "https://open.spotify.com/artist/6KmWYyLeQgz4DIQvxLZm9I"
+        },
+        {
+          "name": "Ernesto Montiel",
+          "url": "https://open.spotify.com/artist/0kps7D5aSOND65MD33m9Pd"
         }
       ],
-      "duration_ms": 170893,
-      "name": "A villa Guillermina",
-      "url": "https://open.spotify.com/track/7cOkr0CjVKEySdqhGlyVvg"
+      "duration_ms": 187013,
+      "name": "Rumbeando Pal Litoral",
+      "url": "https://open.spotify.com/track/5Vb3AxrP4DXsqfpc072wrf"
     },
     {
       "added_at": "2024-08-15 20:22:33",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2024-08-15 20:22:33",
       "album": {
+        "name": "Con Estilo Mbaret\u00e9",
+        "url": "https://open.spotify.com/album/6eUSdhrjS2jxvJElvx5M4C"
+      },
+      "artists": [
+        {
+          "name": "Los Criollitos del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/1uTJBtek1AfeL07ev0Lg4r"
+        }
+      ],
+      "duration_ms": 474053,
+      "name": "Bien Correntino / L\u00e1grima de Cocodrilo / Masticando / Conocerte a Ti",
+      "url": "https://open.spotify.com/track/6VtBkcpEWpPBCRinLmVmV4"
+    },
+    {
+      "added_at": "2024-08-15 20:22:33",
+      "album": {
         "name": "Refugio de So\u00f1adores",
         "url": "https://open.spotify.com/album/0osgmMUJSxVrgUoOtPXJr2"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 202025,
       "name": "Refugio de So\u00f1adores",
       "url": "https://open.spotify.com/track/4NMcaDDKzlK2fKwdaMX6Km"
-    },
-    {
-      "added_at": "2024-08-15 20:22:33",
-      "album": {
-        "name": "Con Estilo Mbaret\u00e9",
-        "url": "https://open.spotify.com/album/6eUSdhrjS2jxvJElvx5M4C"
-      },
-      "artists": [
-        {
-          "name": "Los Criollitos del Chamam\u00e9",
-          "url": "https://open.spotify.com/artist/1uTJBtek1AfeL07ev0Lg4r"
-        }
-      ],
-      "duration_ms": 474053,
-      "name": "Bien Correntino / L\u00e1grima de Cocodrilo / Masticando / Conocerte a Ti",
-      "url": "https://open.spotify.com/track/6VtBkcpEWpPBCRinLmVmV4"
     },
     {
       "added_at": "2024-08-15 20:22:33",

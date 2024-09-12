@@ -1,12 +1,12 @@
 {
   "description": "This is Deep Purple. The essential tracks, all in one playlist.",
-  "num_followers": 290484,
+  "num_followers": 290513,
   "original_name": "This Is Deep Purple",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zt46gAAAAAA3OHGjFumvWJm/fkgf6F4d",
+  "snapshot_id": "Zt+MAAAAAABDsK9F9VV1wuPSf8V4DZqV",
   "tracks": [
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 250506,
-      "name": "A Bit on the Side",
-      "url": "https://open.spotify.com/track/5bSUWeBOuHzVmtJ3kHF4l1"
+      "duration_ms": 224466,
+      "name": "Sharp Shooter",
+      "url": "https://open.spotify.com/track/3EhtFciZg3T3iZbxEaqJiT"
     },
     {
       "added_at": null,
@@ -436,41 +436,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 231160,
-      "name": "Pictures of You",
-      "url": "https://open.spotify.com/track/6vS3Tx1vR80vXENELsLv79"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Slaves and Masters (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/5SKeGHkVddRpKf0pqVBJAR"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 326013,
-      "name": "King of Dreams",
-      "url": "https://open.spotify.com/track/4HomPKDsqVz9xAtW2zyMO2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Perfect Strangers",
-        "url": "https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 240026,
-      "name": "Nobody's Home",
-      "url": "https://open.spotify.com/track/6x8GeAremuPbjgKJw5ao4D"
+      "duration_ms": 250506,
+      "name": "A Bit on the Side",
+      "url": "https://open.spotify.com/track/5bSUWeBOuHzVmtJ3kHF4l1"
     },
     {
       "added_at": null,
@@ -491,6 +459,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Perfect Strangers",
+        "url": "https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 240026,
+      "name": "Nobody's Home",
+      "url": "https://open.spotify.com/track/6x8GeAremuPbjgKJw5ao4D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slaves and Masters (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/5SKeGHkVddRpKf0pqVBJAR"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 326013,
+      "name": "King of Dreams",
+      "url": "https://open.spotify.com/track/4HomPKDsqVz9xAtW2zyMO2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "=1",
         "url": "https://open.spotify.com/album/4wSHMlOxOpLLs1boWeAteq"
       },
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 224466,
-      "name": "Sharp Shooter",
-      "url": "https://open.spotify.com/track/3EhtFciZg3T3iZbxEaqJiT"
+      "duration_ms": 231160,
+      "name": "Pictures of You",
+      "url": "https://open.spotify.com/track/6vS3Tx1vR80vXENELsLv79"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Grupo Frontera & Gabito Ballesteros, JHAYCO , NATTI NATASHA, Nicky Jam, Calle 24 and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 593,727 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 593,781 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 37 | [En Todos Los Idiomas](https://open.spotify.com/track/5x9zu8G7OXfvUVuQ6W1K0w) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [En Todos Los Idiomas](https://open.spotify.com/album/2jmC9JDvco8CsmnhhcM6Te) | 2:55 |
 | 38 | [OLVIDARTE](https://open.spotify.com/track/6ZIhkMZ9mpDq4vYZ0vuQce) | [deadsoulsociety](https://open.spotify.com/artist/5jK1BdSQerlxAhyHMKpXe6) | [OLVIDARTE](https://open.spotify.com/album/68rUhhHyzsuUXP3wVGLFUF) | 3:29 |
 | 39 | [Chimbita](https://open.spotify.com/track/28yolxkimIL2doVt2QV106) | [Matt Paris](https://open.spotify.com/artist/1w1EFjTCiwLWRZMQwyJU1H) | [Chimbita](https://open.spotify.com/album/6t1qraWw7u88SP3u1Uaq4E) | 2:11 |
-| 40 | [TRÊS](https://open.spotify.com/track/2xjwVhT91obFavd67VOo80) | [Letón Pé](https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO), [Giorgio Siladi](https://open.spotify.com/artist/70yXUWs47Ej8wyiChPutgj) | [TRÊS](https://open.spotify.com/album/0KumR96axybpkdPFmLpAsc) | 3:00 |
+| 40 | [TRÊS](https://open.spotify.com/track/2xjwVhT91obFavd67VOo80) | [Giorgio Siladi](https://open.spotify.com/artist/70yXUWs47Ej8wyiChPutgj), [Letón Pé](https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO) | [TRÊS](https://open.spotify.com/album/0KumR96axybpkdPFmLpAsc) | 3:00 |
 | 41 | [Femenine \(feat\. Urias\) \- Maffalda Remix](https://open.spotify.com/track/1qn0gTkX9foLwawl2OQGKT) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs), [Maffalda](https://open.spotify.com/artist/3Y6LyX8cnJuJLpehsijwEC) | [Femenine \(feat\. Urias\) \- Maffalda Remix](https://open.spotify.com/album/1E4nN7Jz9XuVmQlPfarTfe) | 2:54 |
 | 42 | [Pikito](https://open.spotify.com/track/3aMYvhmBYhBw5nDxY7PZpc) | [La Gabi](https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi) | [Pikito](https://open.spotify.com/album/4B3JLflLxaqQ68mzpLrL5I) | 2:31 |
 | 43 | [PDM](https://open.spotify.com/track/3yk1nkXeZ1dvQdrX44K0Pt) | [LOS MENOR3S](https://open.spotify.com/artist/4FkBhfL2GQLkwBwV6qNhOQ) | [MOCHIMA](https://open.spotify.com/album/7vPu3m68gpdSv9w7TS2KuA) | 2:45 |

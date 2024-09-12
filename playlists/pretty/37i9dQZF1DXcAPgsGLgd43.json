@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb",
-  "num_followers": 59712,
+  "num_followers": 59745,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
+        "name": "La Trumpeta",
+        "url": "https://open.spotify.com/album/1FKabhcumxfcWsrtsekyXd"
+      },
+      "artists": [
+        {
+          "name": "IDRIS",
+          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+        }
+      ],
+      "duration_ms": 200042,
+      "name": "La Trumpeta",
+      "url": "https://open.spotify.com/track/0c1dC4GXVKdyU6AakBrYKw"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
         "name": "Pliva",
         "url": "https://open.spotify.com/album/4EATgaagFfAx7fynhS2gdh"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 244570,
       "name": "Pliva",
       "url": "https://open.spotify.com/track/5tfqO6elC42ZwXfIN1aSDk"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "La Trumpeta",
-        "url": "https://open.spotify.com/album/1FKabhcumxfcWsrtsekyXd"
-      },
-      "artists": [
-        {
-          "name": "IDRIS",
-          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
-        }
-      ],
-      "duration_ms": 200042,
-      "name": "La Trumpeta",
-      "url": "https://open.spotify.com/track/0c1dC4GXVKdyU6AakBrYKw"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1479,30 +1479,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Dame Mas",
-        "url": "https://open.spotify.com/album/1F5d2cfWJjOYIiDnxtmm2B"
-      },
-      "artists": [
-        {
-          "name": "BADDIES ONLY",
-          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
-        },
-        {
-          "name": "CAVALLI",
-          "url": "https://open.spotify.com/artist/3uNSAoHkmTzDxc369XtOv4"
-        },
-        {
-          "name": "Mathieu Ruz",
-          "url": "https://open.spotify.com/artist/3ZGI3NmbFQIhEDMiYekU08"
-        }
-      ],
-      "duration_ms": 185476,
-      "name": "Dame Mas",
-      "url": "https://open.spotify.com/track/5lCS7wZgRyCvJia3VSAvpu"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Barcelona",
         "url": "https://open.spotify.com/album/5ignCxQmULl57kAIiyHxxH"
       },
@@ -1527,6 +1503,30 @@
       "duration_ms": 172815,
       "name": "Barcelona",
       "url": "https://open.spotify.com/track/1h40zA7noYbCerZwu7DS8x"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Dame Mas",
+        "url": "https://open.spotify.com/album/1F5d2cfWJjOYIiDnxtmm2B"
+      },
+      "artists": [
+        {
+          "name": "BADDIES ONLY",
+          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
+        },
+        {
+          "name": "CAVALLI",
+          "url": "https://open.spotify.com/artist/3uNSAoHkmTzDxc369XtOv4"
+        },
+        {
+          "name": "Mathieu Ruz",
+          "url": "https://open.spotify.com/artist/3ZGI3NmbFQIhEDMiYekU08"
+        }
+      ],
+      "duration_ms": 185476,
+      "name": "Dame Mas",
+      "url": "https://open.spotify.com/track/5lCS7wZgRyCvJia3VSAvpu"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1823,6 +1823,26 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
+        "name": "Te Recorde",
+        "url": "https://open.spotify.com/album/753nHiBiBSY5SIJbpn5B5P"
+      },
+      "artists": [
+        {
+          "name": "Calussa",
+          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
+        },
+        {
+          "name": "Subelo NEO",
+          "url": "https://open.spotify.com/artist/5jNjbQYkujIbjSvvKroBlv"
+        }
+      ],
+      "duration_ms": 167640,
+      "name": "Te Recorde",
+      "url": "https://open.spotify.com/track/307t8QD6epX1YcP0MgNXur"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
         "name": "Con La Luna",
         "url": "https://open.spotify.com/album/3EFnE5hXMAZ3jMcKtZOAtK"
       },
@@ -1843,26 +1863,6 @@
       "duration_ms": 127582,
       "name": "Con La Luna",
       "url": "https://open.spotify.com/track/0xFDE8aSHBteczKTDOIzIk"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Te Recorde",
-        "url": "https://open.spotify.com/album/753nHiBiBSY5SIJbpn5B5P"
-      },
-      "artists": [
-        {
-          "name": "Calussa",
-          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
-        },
-        {
-          "name": "Subelo NEO",
-          "url": "https://open.spotify.com/artist/5jNjbQYkujIbjSvvKroBlv"
-        }
-      ],
-      "duration_ms": 167640,
-      "name": "Te Recorde",
-      "url": "https://open.spotify.com/track/307t8QD6epX1YcP0MgNXur"
     },
     {
       "added_at": "2024-09-06 04:00:00",

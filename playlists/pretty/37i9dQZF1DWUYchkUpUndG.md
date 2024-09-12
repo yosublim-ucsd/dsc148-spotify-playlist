@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: "<a href=https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa?si=NX6XK91qTCiwIn6fh8Xx\_Q>Spirit of Praise</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,627 likes - 100 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,637 likes - 100 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

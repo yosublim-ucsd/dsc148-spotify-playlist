@@ -4,11 +4,11 @@
 
 > Si tocan a una respondemos todas.
 
-85 songs - 5 hr 3 min
+86 songs - 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Alborotá](https://open.spotify.com/track/4U8TmShsXRikqHGAcHsyhX) | [Alea](https://open.spotify.com/artist/7Ix9zNDM7zF30F2QBQKfNS), [Luisa Bastidas](https://open.spotify.com/artist/63bqOy8a5FlnNVQ3N6TkJv) | [Alborotá](https://open.spotify.com/album/5x4tWBJAy5ciC0GWwksaU9) | 4:16 | 2024-03-07 |  |
+| [Alborotá](https://open.spotify.com/track/4U8TmShsXRikqHGAcHsyhX) | [Alea](https://open.spotify.com/artist/7Ix9zNDM7zF30F2QBQKfNS), [Luisa Bastidas](https://open.spotify.com/artist/63bqOy8a5FlnNVQ3N6TkJv) | [Alborotá](https://open.spotify.com/album/5x4tWBJAy5ciC0GWwksaU9) | 4:16 | 2024-03-07 | 2024-09-12 |
 | [Alma de Cantaora](https://open.spotify.com/track/68E3IMzPvvgKVXrwW2hXJW) | [Amparo Sánchez](https://open.spotify.com/artist/2VsFlcS7zCbTXd1JpZ74cg) | [Alma de Cantaora](https://open.spotify.com/album/4RZtmfEuBbn9QVZguelVmO) | 4:50 | 2023-03-10 |  |
 | [Amiga](https://open.spotify.com/track/1MyeYdKKegyVW2LHenX63b) | [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Amiga](https://open.spotify.com/album/0YaIQWmzrG5b0iWDwzvf5x) | 2:37 | 2023-07-21 |  |
 | [Antipatriarca](https://open.spotify.com/track/49SpHaonnqks7taOwDfV6Z) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Vengo](https://open.spotify.com/album/4AvYh9UIRwjZJYI9X7p8ua) | 3:04 | 2023-03-10 |  |
@@ -82,6 +82,7 @@
 | [Sacar los Tambores](https://open.spotify.com/track/07T5hgGjxLeEDzrWp31jt3) | [Mariel Mariel](https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz), [Cecilia](https://open.spotify.com/artist/0K2U7B6n9Otcwn19m7tGzO) | [La Batalla](https://open.spotify.com/album/0YXQIt7lz5Rsp7wpbuwhFW) | 4:11 | 2023-03-10 | 2024-04-19 |
 | [Se Busca](https://open.spotify.com/track/1bblnw82snIuxpDhxEfBKW) | [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh) | [SE BUSCA](https://open.spotify.com/album/3tITprG2WPraA2ejbTaZVD) | 2:34 | 2023-03-10 |  |
 | [Se Portaba Mal](https://open.spotify.com/track/3TZEryQOpvy8ix7XGmiw6b) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mesa Para Dos](https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO) | 3:15 | 2023-03-10 |  |
+| [Se Quemó](https://open.spotify.com/track/2x3pyIaB1hsqU7W06lfYDL) | [La Otra](https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7) | [Pa'fuera y Pa'dentro](https://open.spotify.com/album/29UNByudXjnpljtU2XOU6j) | 4:43 | 2024-07-23 |  |
 | [Se Quemó](https://open.spotify.com/track/4tbirX3tFHgyWmgfO9ZQC2) | [La Otra](https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7) | [Pa'fuera y Pa'dentro](https://open.spotify.com/album/32MUPpQPG9ZkTXRRHXehUr) | 4:43 | 2023-03-10 | 2024-04-19 |
 | [Señorita Revolución](https://open.spotify.com/track/7EDmXSg0xZZT3NkcBjijCn) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Señorita Revolución](https://open.spotify.com/album/12rvlwP0OW2UKV1lmTqQtm) | 2:38 | 2023-03-10 |  |
 | [somos flores](https://open.spotify.com/track/34xv9WXxnZxaiHd23LoYxK) | [babas tutsipop](https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv) | [somos flores](https://open.spotify.com/album/3xzMAIxJ88TfqcoaOiFhDd) | 3:26 | 2023-03-10 |  |

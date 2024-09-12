@@ -1,12 +1,12 @@
 {
-  "description": "This is Kendrick Lamar \u0e41\u0e17\u0e23\u0e47\u0e01\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e04\u0e27\u0e23\u0e1e\u0e25\u0e32\u0e14 \u0e17\u0e31\u0e49\u0e07\u0e2b\u0e21\u0e14\u0e43\u0e19\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e40\u0e14\u0e35\u0e22\u0e27",
-  "num_followers": 1565312,
+  "description": "This is Kendrick Lamar. The essential tracks, all in one playlist.",
+  "num_followers": 1566024,
   "original_name": "This Is Kendrick Lamar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zt46gAAAAADMDziSU+ZhcnGcqJ5QTmh3",
+  "snapshot_id": "Zt+MAAAAAACF6dSaDRlj5jYXTvLnGOU6",
   "tracks": [
     {
       "added_at": null,
@@ -128,9 +128,9 @@
           "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 202285,
-      "name": "Rich Spirit",
-      "url": "https://open.spotify.com/track/1QPreu0BNOrUfEb8HTd2qG"
+      "duration_ms": 195950,
+      "name": "N95",
+      "url": "https://open.spotify.com/track/0fX4oNGBWO3dSGUZcVdVV2"
     },
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 195950,
-      "name": "N95",
-      "url": "https://open.spotify.com/track/0fX4oNGBWO3dSGUZcVdVV2"
+      "duration_ms": 202285,
+      "name": "Rich Spirit",
+      "url": "https://open.spotify.com/track/1QPreu0BNOrUfEb8HTd2qG"
     },
     {
       "added_at": null,
@@ -967,22 +967,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drunk",
-        "url": "https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM"
+        "name": "Section.80",
+        "url": "https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J"
       },
       "artists": [
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        },
         {
           "name": "Kendrick Lamar",
           "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 199136,
-      "name": "Walk On By",
-      "url": "https://open.spotify.com/track/6fkL9CjWmjeV6vfDxTp9OZ"
+      "duration_ms": 279854,
+      "name": "HiiiPower",
+      "url": "https://open.spotify.com/track/4WEuEfFiczWxblHyuucSBL"
     }
   ],
   "unique_name": "This Is Kendrick Lamar",

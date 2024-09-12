@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: THAMA(\ub530\ub9c8)) (\uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: Solji(\uc194\uc9c0)) (\uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "v o K a l",
   "tracks": [
     {
@@ -4448,7 +4448,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 248306,
       "name": "Just as We Were",
       "url": "https://open.spotify.com/track/1gNkZGi3evYz8NNWox7SRS"
@@ -6124,6 +6124,24 @@
       "duration_ms": 240066,
       "name": "Need you (With Sung Si Kyung)",
       "url": "https://open.spotify.com/track/0WhWueHRzb6ctQ4QySvFeD"
+    },
+    {
+      "album": {
+        "name": "Night Road in Hannam-dong",
+        "url": "https://open.spotify.com/album/611Bzy6Nknw70QAEvhNG16"
+      },
+      "artists": [
+        {
+          "name": "Solji",
+          "url": "https://open.spotify.com/artist/54EEMb9uR0v9PWoWtQhTEo"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237408,
+      "name": "Night Road in Hannam-dong",
+      "url": "https://open.spotify.com/track/3f3nUxid2xRg4yDRWCvFJG"
     },
     {
       "album": {

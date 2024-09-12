@@ -4,7 +4,7 @@
 
 > Songs of faith, hope, and the greatest of these, love.
 
-246 songs - 14 hr 8 min
+247 songs - 14 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Gave You My Heart](https://open.spotify.com/track/3QVBuJCFgr7Grt0a5awIiA) | [Chris August](https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8) | [Gave You My Heart](https://open.spotify.com/album/2EKQkDOUL7WGVN3L4Cxb0D) | 3:07 | 2020-04-17 | 2024-04-19 |
 | [Girl of My Dreams](https://open.spotify.com/track/2Ar2dRIzmucQyL6xjYiCYo) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [No Turning Back](https://open.spotify.com/album/5OhwoQcGjoHpX46cVyuOUh) | 3:29 | 2020-04-17 | 2024-02-04 |
 | [Giving In](https://open.spotify.com/track/5U3UVEFEdunLJFpbTliCGj) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Giving In](https://open.spotify.com/album/7I1KWEWQ4G2FA84rHEuslm) | 3:27 | 2024-02-03 |  |
+| [Go There With You](https://open.spotify.com/track/66DrxT38CFyYPTciuHP3aR) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [The Ultimate Collection](https://open.spotify.com/album/2BnDCywIU8HvFlFZqkSOAj) | 5:18 | 2024-07-17 |  |
 | [God Gave Me You](https://open.spotify.com/track/0ZgehEjqsRScwDPdb6kWkg) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [What We Want, What We Get](https://open.spotify.com/album/5KpG1hOTVrioasLt8ndJDp) | 3:48 | 2020-04-17 | 2022-07-29 |
 | [God Gave Me You](https://open.spotify.com/track/28lU91CRfUdWJEY7KbhZBL) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [What We Want, What We Get](https://open.spotify.com/album/3M7Z5G7yTzdwncFXnF5vZ6) | 3:48 | 2020-04-17 | 2024-04-19 |
 | [Going Together](https://open.spotify.com/track/0TKgyNeh6qCZ2RPnfMPpzR) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [Going Together](https://open.spotify.com/album/0CMGTIcvtK2aAywGHxQr57) | 2:58 | 2020-04-17 | 2022-07-29 |
@@ -192,7 +193,7 @@
 | [Somebody Loves You](https://open.spotify.com/track/6jOrsBdE4gzgnUuwKjhNdy) | [Jordan Feliz](https://open.spotify.com/artist/7HZ71xA72mMAj94NH7suWy) | [Somebody Loves You](https://open.spotify.com/album/0m1sI2WlgWK2RuYEcB0ExO) | 3:11 | 2024-02-03 | 2024-07-18 |
 | [Soul and Fire](https://open.spotify.com/track/1z9F1fK5wmIsg61n4hCIyK) | [Audrey Marie](https://open.spotify.com/artist/5CMtW6hgiE5LKpoyEbDbnU) | [Soul and Fire](https://open.spotify.com/album/21YGpglvEEaYRLN0e4MG7Q) | 2:57 | 2024-02-03 | 2024-07-18 |
 | [South Florida \(Remix\)](https://open.spotify.com/track/7rcXtR06BJ0D6xU9wmwgkI) | [Drew Ava](https://open.spotify.com/artist/1kuocA53e2MltklnSFSiGR), [Chris Howland](https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc), [Zee](https://open.spotify.com/artist/0d2diExytbLBj7Ff3FLX9p) | [South Florida \(Remix\)](https://open.spotify.com/album/74wMNGzBXYobjUUhZIvg0E) | 2:45 | 2024-02-03 | 2024-07-18 |
-| [Sunday Morning](https://open.spotify.com/track/7JIYxxvG7GIh8X9Rgt983V) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT), [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V) | [Sunday Morning](https://open.spotify.com/album/1RsK0Gb8POxRt08RCVD0mD) | 2:34 | 2024-02-03 |  |
+| [Sunday Morning](https://open.spotify.com/track/7JIYxxvG7GIh8X9Rgt983V) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT), [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V) | [Sunday Morning](https://open.spotify.com/album/1RsK0Gb8POxRt08RCVD0mD) | 2:34 | 2024-02-03 | 2024-09-12 |
 | [SURREAL](https://open.spotify.com/track/2aWCddpZS2rHZyXlqpHt4H) | [Phil J.](https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9) | [SURREAL](https://open.spotify.com/album/3gEUKNl13U2UbK5kkpPEkf) | 2:54 | 2024-02-03 |  |
 | [sweetest love \- live recording](https://open.spotify.com/track/7v3qP1ZU2Xv3Tx13XXjQDT) | [Rhea Marcia](https://open.spotify.com/artist/4Bo5E56WyNTJjVyxbRhksJ), [davecreates](https://open.spotify.com/artist/2KuPNZuwsvJTX9yTDqNeNk) | [sweetest love \(live recording\)](https://open.spotify.com/album/73v6JUuRaryWzqCXEsRh9r) | 4:42 | 2024-02-03 |  |
 | [Take Me to the River \(I Will Swim\)](https://open.spotify.com/track/4yaalj9cPc9FCVi0SXkBuV) | [Alex Yurkiv](https://open.spotify.com/artist/5cnvv9cjeqXdosL5WCFujZ), [Thelma Costolo](https://open.spotify.com/artist/28toNbnExSdk3ejoeDbA4E) | [Take Me to the River \(I Will Swim\)](https://open.spotify.com/album/1iVcfyEbebsg5wQZpxkljD) | 2:56 | 2024-02-03 | 2024-07-18 |

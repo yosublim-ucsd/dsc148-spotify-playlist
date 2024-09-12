@@ -1,6 +1,6 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 18683,
+  "num_followers": 18691,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-09-06 03:01:00",
       "album": {
-        "name": "Xona",
-        "url": "https://open.spotify.com/album/07WYQmujANpy2kmw0Pix8p"
-      },
-      "artists": [
-        {
-          "name": "Rincon Sapi\u00eancia",
-          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
-        }
-      ],
-      "duration_ms": 205431,
-      "name": "Xona",
-      "url": "https://open.spotify.com/track/06paTYzK3uqFZBBbNm7rbh"
-    },
-    {
-      "added_at": "2024-09-06 03:01:00",
-      "album": {
         "name": "Garotas Amam Namorar",
         "url": "https://open.spotify.com/album/4wgbXSLUAfX5DwflkH3YYD"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 127358,
       "name": "Lingerie Azul",
       "url": "https://open.spotify.com/track/04l6YnwfUE1c3M4Ukzrf58"
+    },
+    {
+      "added_at": "2024-09-06 03:01:00",
+      "album": {
+        "name": "Xona",
+        "url": "https://open.spotify.com/album/07WYQmujANpy2kmw0Pix8p"
+      },
+      "artists": [
+        {
+          "name": "Rincon Sapi\u00eancia",
+          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
+        }
+      ],
+      "duration_ms": 205431,
+      "name": "Xona",
+      "url": "https://open.spotify.com/track/06paTYzK3uqFZBBbNm7rbh"
     },
     {
       "added_at": "2024-09-06 03:01:00",
@@ -543,6 +543,30 @@
     {
       "added_at": "2024-09-06 03:01:00",
       "album": {
+        "name": "Intens\u00e3o",
+        "url": "https://open.spotify.com/album/6i5hLAkU4fjwNFihYAtmqm"
+      },
+      "artists": [
+        {
+          "name": "Afrodite Bxd",
+          "url": "https://open.spotify.com/artist/6yofdBnMvY2T1pjLwlN6i5"
+        },
+        {
+          "name": "Maui",
+          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
+        },
+        {
+          "name": "Taleko",
+          "url": "https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz"
+        }
+      ],
+      "duration_ms": 210526,
+      "name": "Intens\u00e3o",
+      "url": "https://open.spotify.com/track/1VCkEjAPU28AFSTMKMG361"
+    },
+    {
+      "added_at": "2024-09-06 03:01:00",
+      "album": {
         "name": "VER\u00c3O",
         "url": "https://open.spotify.com/album/2Btur3SphqfJpOalZeeOFs"
       },
@@ -603,30 +627,6 @@
       "duration_ms": 201600,
       "name": "Sossega (Nada mal)",
       "url": "https://open.spotify.com/track/6mvy9xtCF374eRvxeY6C0d"
-    },
-    {
-      "added_at": "2024-09-06 03:01:00",
-      "album": {
-        "name": "Intens\u00e3o",
-        "url": "https://open.spotify.com/album/6i5hLAkU4fjwNFihYAtmqm"
-      },
-      "artists": [
-        {
-          "name": "Afrodite Bxd",
-          "url": "https://open.spotify.com/artist/6yofdBnMvY2T1pjLwlN6i5"
-        },
-        {
-          "name": "Maui",
-          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
-        },
-        {
-          "name": "Taleko",
-          "url": "https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz"
-        }
-      ],
-      "duration_ms": 210526,
-      "name": "Intens\u00e3o",
-      "url": "https://open.spotify.com/track/1VCkEjAPU28AFSTMKMG361"
     },
     {
       "added_at": "2024-09-06 03:01:00",

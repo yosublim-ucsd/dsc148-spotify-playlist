@@ -1,6 +1,6 @@
 {
   "description": "When the night isn't over just yet.",
-  "num_followers": 197217,
+  "num_followers": 197287,
   "original_name": "4AM Chillout",
   "owner": {
     "name": "Spotify",
@@ -747,26 +747,6 @@
     {
       "added_at": "2024-08-22 23:00:00",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/66O2AlsvHJhKtaXtSZGias"
-      },
-      "artists": [
-        {
-          "name": "bailey",
-          "url": "https://open.spotify.com/artist/11cVIlWcbl4NaDtqlrVCaM"
-        },
-        {
-          "name": "T. Matthias",
-          "url": "https://open.spotify.com/artist/2R7k2SovVWGhTcvPx1JbQv"
-        }
-      ],
-      "duration_ms": 165131,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/1wD2C9vWlPgmRa2hw1RdA0"
-    },
-    {
-      "added_at": "2024-08-22 23:00:00",
-      "album": {
         "name": "CHROMA 003",
         "url": "https://open.spotify.com/album/635sAhOGiqkb11OZDCTRyk"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 236628,
       "name": "CHROMA 003 Bi83",
       "url": "https://open.spotify.com/track/0cBrTgUeXg8oAEfKTlZAP6"
+    },
+    {
+      "added_at": "2024-08-22 23:00:00",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/66O2AlsvHJhKtaXtSZGias"
+      },
+      "artists": [
+        {
+          "name": "bailey",
+          "url": "https://open.spotify.com/artist/11cVIlWcbl4NaDtqlrVCaM"
+        },
+        {
+          "name": "T. Matthias",
+          "url": "https://open.spotify.com/artist/2R7k2SovVWGhTcvPx1JbQv"
+        }
+      ],
+      "duration_ms": 165131,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/1wD2C9vWlPgmRa2hw1RdA0"
     },
     {
       "added_at": "2024-08-22 23:00:00",
@@ -863,18 +863,18 @@
     {
       "added_at": "2024-08-22 23:00:00",
       "album": {
-        "name": "Swim",
-        "url": "https://open.spotify.com/album/7tkmjD2hcGbjZvHhpQnLBI"
+        "name": "could you not go?",
+        "url": "https://open.spotify.com/album/7qE5I0RQDSp3xt5QYPMuF1"
       },
       "artists": [
         {
-          "name": "Henry Green",
-          "url": "https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp"
+          "name": "Vaarwell",
+          "url": "https://open.spotify.com/artist/7jz4ptH9vUGJdMpKFryEEG"
         }
       ],
-      "duration_ms": 243100,
-      "name": "Swim",
-      "url": "https://open.spotify.com/track/76jLlcqIuqBv3SXx5fcnfW"
+      "duration_ms": 167753,
+      "name": "could you not go?",
+      "url": "https://open.spotify.com/track/7KZ9PE9btCfgqqhMGDh7P6"
     }
   ],
   "unique_name": "4AM Chillout",

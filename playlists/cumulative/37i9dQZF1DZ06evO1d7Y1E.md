@@ -2,7 +2,7 @@
 
 ### [This Is Mc Poze do Rodo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1d7Y1E)
 
-> This is Mc Poze do Rodo\. En önemli parçalar, hepsi tek bir çalma listesinde.
+> This is Mc Poze do Rodo\. The essential tracks, all in one playlist.
 
 61 songs - 4 hr 2 min
 

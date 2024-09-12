@@ -4,7 +4,7 @@
 
 > your daily dose of dopamine
 
-612 songs - 1 day 9 hr 19 min
+613 songs - 1 day 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,7 +257,7 @@
 | [hello!](https://open.spotify.com/track/7a2IJHzw9WJjoknwdnCop0) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [oh, how perfect](https://open.spotify.com/album/5xNYe96E1oMXdS1FdboZZv) | 3:08 | 2021-12-29 | 2022-07-29 |
 | [Here Comes The Sun \- Remastered 2009](https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 3:05 | 2022-03-25 | 2024-06-29 |
 | [HERO](https://open.spotify.com/track/2gjEdzgJMgVaZBdRuIRVW5) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [HERO](https://open.spotify.com/album/3VqYEAjG9bMRh0WT6Yc4hL) | 3:58 | 2024-05-10 | 2024-06-16 |
-| [Hey Homie](https://open.spotify.com/track/5HlzvCWmwMFeA0ENrG8ixa) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Hey Homie](https://open.spotify.com/album/0kZYADBXJfq3MIUmG1ebYR) | 3:09 | 2024-07-19 |  |
+| [Hey Homie](https://open.spotify.com/track/5HlzvCWmwMFeA0ENrG8ixa) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Hey Homie](https://open.spotify.com/album/0kZYADBXJfq3MIUmG1ebYR) | 3:09 | 2024-07-19 | 2024-09-12 |
 | [Hey Ya!](https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 3:55 | 2022-03-28 |  |
 | [Heybb!](https://open.spotify.com/track/3sN85u5M7FoMmHa8E2aViO) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Heybb!](https://open.spotify.com/album/5CfgvNG8Y0ZGXAx3rNvjC8) | 2:28 | 2022-03-25 | 2022-04-21 |
 | [High](https://open.spotify.com/track/1xF4jrICj7AgpCD8b7oSHI) | [Jacob Sartorius](https://open.spotify.com/artist/6czdbISBoxGckbBX8F4m8L) | [High](https://open.spotify.com/album/0mfSM4OpXYzHfOkathaNd5) | 2:22 | 2023-01-06 | 2023-01-21 |
@@ -292,6 +292,7 @@
 | [if jesus saves, she's my type](https://open.spotify.com/track/3dmsQjlbcyyn1IUo9dSAJE) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/1PhcZ4Ov6ZxuaUZF8r9rbk) | 3:37 | 2022-05-13 | 2022-07-29 |
 | [If We Ever Broke Up](https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [If We Ever Broke Up](https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO) | 2:22 | 2023-02-10 | 2024-05-02 |
 | [ILYSM](https://open.spotify.com/track/6g5YTzEAhClnTivb4x6iBR) | [The Adoni](https://open.spotify.com/artist/2FE0a7TnyZHfLjcWqTdnBK), [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi) | [ILYSM](https://open.spotify.com/album/3MnWd2qQ1TnZ7eJx80LQRY) | 2:31 | 2023-03-31 | 2023-04-11 |
+| [Image](https://open.spotify.com/track/0QW0KPBXXv67haGjbtkRRB) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Imaginal Disk](https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF) | 3:32 | 2024-09-04 |  |
 | [Incredible](https://open.spotify.com/track/2qwn6whaZf7gax7SaqUZSC) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [HNDRXX](https://open.spotify.com/album/7K6OykPbezfgKgBufihn6X) | 4:08 | 2022-03-25 | 2022-04-16 |
 | [Intimidated \(feat\. H.E.R.\)](https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Intimidated](https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g) | 3:27 | 2022-03-28 | 2022-04-18 |
 | [Is It Magic?](https://open.spotify.com/track/4mRX0FjuzicwZWbkRAE0Ht) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Is It Magic?](https://open.spotify.com/album/52tH77HLGn8Dq3zjXQn20e) | 3:08 | 2023-04-21 | 2024-06-16 |

@@ -4,7 +4,7 @@
 
 > The best of the 1990s classics, from TLC, Backstreet Boys, Destiny's Child, \*NSYNC, Mariah Carey, Christina Aguilera, Britney Spears, Jennifer Lopez + more.
 
-238 songs - 16 hr 34 min
+241 songs - 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Bitter Sweet Symphony \- Remastered 2016](https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Remastered 2016\)](https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD) | 5:57 | 2023-05-08 |  |
 | [Black or White \- Single Version](https://open.spotify.com/track/2Cy7QY8HPLk925AyNAt6OG) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [The Essential Michael Jackson](https://open.spotify.com/album/77dNyQA0z8dV33M4so4eRY) | 3:22 | 2022-06-03 |  |
 | [Blind](https://open.spotify.com/track/1pr9TZGOXeJUggIal1Wq3R) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Korn](https://open.spotify.com/album/7D3XFJlfZIkmGWqZXm2X8z) | 4:18 | 2023-05-19 |  |
+| [Brother Louie Mix '98 \(feat\. Eric Singleton\) \- Radio Edit](https://open.spotify.com/track/2X7jfQnEMQYYmvkhr6mzS9) | [Modern Talking](https://open.spotify.com/artist/79bxUQsBIXO8nVLB9fYKf7), [Eric Singleton](https://open.spotify.com/artist/6omc0asHwVxEm4xYBRkzQK) | [Back For Good/2nd](https://open.spotify.com/album/1JEiGAiEQJkzOGIYnPIHyL) | 3:24 | 2024-09-11 |  |
 | [Buddy Holly](https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 2:39 | 2023-05-08 | 2023-06-15 |
 | [Building a Mystery](https://open.spotify.com/track/3ozomn4PrGEKEuusxX2HpC) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Surfacing](https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP) | 4:07 | 2022-06-03 |  |
 | [Butterfly](https://open.spotify.com/track/4BggEwLhGfrbrl7JBhC8EC) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [The Gift Of Game](https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin) | 3:36 | 2022-06-03 |  |
@@ -204,6 +205,7 @@
 | [The Distance](https://open.spotify.com/track/0fsz7tJ7UKXT9hliLfO7aE) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Fashion Nugget](https://open.spotify.com/album/6kPOXxCYCdXBzEbb9dqE90) | 2:59 | 2023-01-19 |  |
 | [The Distance](https://open.spotify.com/track/0xMEF2WiqKWTIG7Krjungw) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Fashion Nugget](https://open.spotify.com/album/57lJNxlrPSin9SySEnerNb) | 2:59 | 2022-06-03 | 2023-01-20 |
 | [The Freshmen](https://open.spotify.com/track/21jEuMn2lf37715rwjow2M) | [The Verve Pipe](https://open.spotify.com/artist/242iqFnwNhlidVBMI9GYKp) | [Villains](https://open.spotify.com/album/3sV3CL42DZ8C11MuQwVUEi) | 4:29 | 2022-06-03 | 2023-01-20 |
+| [The Horses](https://open.spotify.com/track/5z6a02FGoVsXTrJ4GiVNxE) | [Daryl Braithwaite](https://open.spotify.com/artist/4t52ndk0OkAxtb4vMDLPhe) | [Rise](https://open.spotify.com/album/6Zv9GWVeSi7lqYGxxhawOq) | 4:16 | 2024-09-11 |  |
 | [The Most Beautiful Girl In the World](https://open.spotify.com/track/0aPaGIX2QIMAH5SMp0VEMe) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [The Gold Experience](https://open.spotify.com/album/7JdnQ7zCfqETcLgS94d3ks) | 4:25 | 2023-02-21 |  |
 | [The River of Dreams](https://open.spotify.com/track/30qVCFYKBtAENjTIBA8FPZ) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [River Of Dreams](https://open.spotify.com/album/4HPnwQJAEvTY910q4RNeOu) | 4:07 | 2022-06-03 | 2023-01-20 |
 | [The Sign](https://open.spotify.com/track/68C7Q9IW70v5uaXSXyWVm3) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [Happy Nation \(U.S\. Version\)](https://open.spotify.com/album/6ffpRSfiSJDagQAL76kDRC) | 3:09 | 2022-06-03 | 2023-01-20 |
@@ -245,6 +247,7 @@
 | [You Make Me Wanna...](https://open.spotify.com/track/47TqCCnEliDp8NRDyIQoQq) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [My Way](https://open.spotify.com/album/0fQdoem8dnrl80YcZzQ8f0) | 3:39 | 2023-01-19 |  |
 | [You Make Me Wanna...](https://open.spotify.com/track/3045fb9YLKYjlRq8398U3G) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [90 Sweet 90s Hits!](https://open.spotify.com/album/71WupOKqXgSrgg0CivZDHS) | 3:39 | 2022-06-03 | 2023-01-20 |
 | [You Oughta Know \- 2015 Remaster](https://open.spotify.com/track/3jS7bB0oXVOwGFZn3aE5NV) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 4:09 | 2023-02-21 | 2023-06-15 |
+| [You Owe Me \(feat\. Ginuwine\)](https://open.spotify.com/track/2VqjCBJ4AxpDTrNRKhL0Pw) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [Nastradamus](https://open.spotify.com/album/0yv3K62ndWgrZ0bbAEMzj5) | 4:47 | 2024-09-11 |  |
 | [Zombie](https://open.spotify.com/track/7EZC6E7UjZe63f1jRmkWxt) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(The Complete Sessions 1994\-1995\)](https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21) | 5:06 | 2023-05-08 |  |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

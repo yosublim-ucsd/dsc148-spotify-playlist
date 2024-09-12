@@ -1,6 +1,6 @@
 {
   "description": "Mejor seguimos cantando, como cantaba el abuelo. \u00a1Garganta pa' que te quiero, si no pa' cantarle al pueblo!",
-  "num_followers": 76561,
+  "num_followers": 76559,
   "original_name": "La Dinast\u00eda de... Los Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2024-04-09 17:23:39",
       "album": {
+        "name": "A Mis 80's",
+        "url": "https://open.spotify.com/album/4vuUKI0vh73BF4F85R6dFh"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 201317,
+      "name": "El Caballo de Mi Padre",
+      "url": "https://open.spotify.com/track/7geALLlb83RRB8FX4BEBIw"
+    },
+    {
+      "added_at": "2024-04-09 17:23:39",
+      "album": {
         "name": "Sigue la Dinast\u00eda",
         "url": "https://open.spotify.com/album/56aw5dJng1qL9HUPeMj0B3"
       },
@@ -1735,22 +1751,6 @@
     {
       "added_at": "2024-04-09 17:23:39",
       "album": {
-        "name": "Mano a Mano - Tangos a la Manera de Vicente Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/6sh6Vqdbu9mHsnWvsqyikC"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 193493,
-      "name": "Sombras - Sombras Nada M\u00e1s",
-      "url": "https://open.spotify.com/track/7HmD951OFt2D9PvYpsFBxY"
-    },
-    {
-      "added_at": "2024-04-09 17:23:39",
-      "album": {
         "name": "Rompiendo Fronteras",
         "url": "https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp"
       },
@@ -1767,8 +1767,8 @@
     {
       "added_at": "2024-04-09 17:23:39",
       "album": {
-        "name": "Otra Vez",
-        "url": "https://open.spotify.com/album/4m0gGYxARQYFGbAuXn4AAF"
+        "name": "Mano a Mano - Tangos a la Manera de Vicente Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/6sh6Vqdbu9mHsnWvsqyikC"
       },
       "artists": [
         {
@@ -1776,9 +1776,9 @@
           "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 185360,
-      "name": "Mata El Recuerdo",
-      "url": "https://open.spotify.com/track/4gDTjvWcEVIJNrmutfpFTu"
+      "duration_ms": 193493,
+      "name": "Sombras - Sombras Nada M\u00e1s",
+      "url": "https://open.spotify.com/track/7HmD951OFt2D9PvYpsFBxY"
     },
     {
       "added_at": "2024-04-09 17:23:39",
@@ -1799,8 +1799,8 @@
     {
       "added_at": "2024-04-09 17:23:39",
       "album": {
-        "name": "A Mis 80's",
-        "url": "https://open.spotify.com/album/4vuUKI0vh73BF4F85R6dFh"
+        "name": "Otra Vez",
+        "url": "https://open.spotify.com/album/4m0gGYxARQYFGbAuXn4AAF"
       },
       "artists": [
         {
@@ -1808,25 +1808,9 @@
           "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 201317,
-      "name": "El Caballo de Mi Padre",
-      "url": "https://open.spotify.com/track/7geALLlb83RRB8FX4BEBIw"
-    },
-    {
-      "added_at": "2024-04-09 17:23:39",
-      "album": {
-        "name": "Buscando el Olvido",
-        "url": "https://open.spotify.com/album/49Dk6xhj6vzfkl71ngoMZJ"
-      },
-      "artists": [
-        {
-          "name": "Alex Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
-        }
-      ],
-      "duration_ms": 152487,
-      "name": "Buscando el Olvido",
-      "url": "https://open.spotify.com/track/56aRaS11MbGV9Co9mOKjdP"
+      "duration_ms": 185360,
+      "name": "Mata El Recuerdo",
+      "url": "https://open.spotify.com/track/4gDTjvWcEVIJNrmutfpFTu"
     },
     {
       "added_at": "2024-04-09 17:23:39",
@@ -1843,6 +1827,22 @@
       "duration_ms": 145732,
       "name": "La Media Vuelta",
       "url": "https://open.spotify.com/track/66h0377lmeIXWMvisrAO90"
+    },
+    {
+      "added_at": "2024-04-09 17:23:39",
+      "album": {
+        "name": "Buscando el Olvido",
+        "url": "https://open.spotify.com/album/49Dk6xhj6vzfkl71ngoMZJ"
+      },
+      "artists": [
+        {
+          "name": "Alex Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
+        }
+      ],
+      "duration_ms": 152487,
+      "name": "Buscando el Olvido",
+      "url": "https://open.spotify.com/track/56aRaS11MbGV9Co9mOKjdP"
     },
     {
       "added_at": "2024-04-09 17:23:39",

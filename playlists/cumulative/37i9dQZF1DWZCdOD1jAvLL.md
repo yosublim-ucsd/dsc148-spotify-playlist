@@ -4,7 +4,7 @@
 
 > Ride the bassline\. Cover: bbno$
 
-730 songs - 1 day 15 hr 52 min
+731 songs - 1 day 15 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Body Rhythm](https://open.spotify.com/track/0j6ASjXDZ95nCkOh4B5Zic) | [Stund](https://open.spotify.com/artist/6nNP7Cm5qEpkL9sHNR5Zgk) | [Body Rhythm](https://open.spotify.com/album/6BHmxgouKTnE0iumVWmXWd) | 4:39 | 2022-04-22 | 2022-08-06 |
 | [Body To Body](https://open.spotify.com/track/66ApsTpsJru1RynMvTmR4V) | [TELYKast](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [Body To Body](https://open.spotify.com/album/6QNieC7Wn7A36nDPkSuhEt) | 2:24 | 2022-07-15 | 2022-09-24 |
 | [Bodymorph](https://open.spotify.com/track/2ThE3B5ysWddfWZ4EXWjeR) | [SLUMBERJACK](https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS), [Serathrone](https://open.spotify.com/artist/6VJx4L98UdyXINLjVYMHZt) | [Bodymorph](https://open.spotify.com/album/50YeWlWfzOaFYPJjeQsqm3) | 4:03 | 2023-06-23 | 2023-07-18 |
+| [Bogeyman](https://open.spotify.com/track/1GjwboGNxJlQ65BQRjtyNm) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Bogeyman](https://open.spotify.com/album/7tSOUKrLrPRjmNWoGhNjJm) | 4:45 | 2024-09-06 |  |
 | [Bongoloco](https://open.spotify.com/track/20MM2VpIUqc7FHJ0a8PX3a) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [Bongoloco](https://open.spotify.com/album/6kC3PZyvcdO2XDw8Q7HDOA) | 3:26 | 2023-02-24 | 2023-08-19 |
 | [Boom Boom \(feat\. CHRSTPHR\)](https://open.spotify.com/track/41Fq0oWTtuGes9RR6UhMw1) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [CHRSTPHR](https://open.spotify.com/artist/6yu6ruPHJXpEtX3eQpZTCz) | [Boom Boom \(feat\. CHRSTPHR\)](https://open.spotify.com/album/7pkY5Owef8tkoR7Y88Olwt) | 2:58 | 2022-09-02 | 2022-09-24 |
 | [Boost Up](https://open.spotify.com/track/07Sm4SlYGZ4CRSxgwP3hUr) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Boost Up](https://open.spotify.com/album/58koXuocSFzeYdnmC4gyFK) | 3:31 | 2024-08-16 |  |
@@ -184,7 +185,7 @@
 | [Drop](https://open.spotify.com/track/5iscY6uoraOqqKurX7G8S9) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Zensery](https://open.spotify.com/artist/5B5A66ePBh1rHxaiFwuQIf) | [Drop](https://open.spotify.com/album/4TotKs9vQYC2JnSNNUvUz6) | 2:08 | 2023-01-20 |  |
 | [DUST](https://open.spotify.com/track/2wLZwbz7jsZcUMC6wV4Mf4) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw), [NXSTY](https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU) | [DUST](https://open.spotify.com/album/0uN2BI1IXYXmWpa2W1fbb9) | 2:31 | 2023-12-08 | 2024-05-02 |
 | [DYSPHORIA](https://open.spotify.com/track/23DEUXkuHskvqvM1j5VrGa) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo) | [DYSPHORIA](https://open.spotify.com/album/3Kb1pVUl5FlOTf55LkBZRe) | 2:37 | 2024-01-19 | 2024-04-07 |
-| [EAT THE BASS](https://open.spotify.com/track/1ViErUfDfWkXPXTsjj3kyh) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [EAT THE BASS](https://open.spotify.com/album/0BAJwAHBOc08RczC0TMb7l) | 3:22 | 2024-04-12 |  |
+| [EAT THE BASS](https://open.spotify.com/track/1ViErUfDfWkXPXTsjj3kyh) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [EAT THE BASS](https://open.spotify.com/album/0BAJwAHBOc08RczC0TMb7l) | 3:22 | 2024-04-12 | 2024-09-12 |
 | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ) | 3:17 | 2023-06-05 |  |
 | [Eat Your Soul](https://open.spotify.com/track/1vUNgZq9RLRMe3Oiu9wQrz) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp) | [Eat Your Soul](https://open.spotify.com/album/09d5yd6Df2BOolbiKNudFg) | 2:39 | 2022-05-27 | 2022-08-06 |
 | [Eclipse](https://open.spotify.com/track/2kY3zw2cGQOG3IL6gMW20R) | [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC), [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Eclipse](https://open.spotify.com/album/3XjD5Vaq09m61AYKjQth7K) | 4:13 | 2023-04-14 | 2023-10-28 |

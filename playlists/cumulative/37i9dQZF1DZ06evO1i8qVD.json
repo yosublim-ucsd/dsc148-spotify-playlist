@@ -1445,6 +1445,24 @@
     },
     {
       "album": {
+        "name": "As Good As It Gets",
+        "url": "https://open.spotify.com/album/49L5Gul5usm0h5SqS39ovJ"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338373,
+      "name": "One Room Country Shack",
+      "url": "https://open.spotify.com/track/1oG6p5Ue73whPJODUWTuCe"
+    },
+    {
+      "album": {
         "name": "A Man And The Blues",
         "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
       },
@@ -1456,7 +1474,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 339600,
       "name": "One Room Country Shack",
       "url": "https://open.spotify.com/track/40Gg9yXs1RSE7qcWAferU4"

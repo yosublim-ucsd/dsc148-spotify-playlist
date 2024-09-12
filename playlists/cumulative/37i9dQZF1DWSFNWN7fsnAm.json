@@ -188,7 +188,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 233170,
       "name": "Alive",
       "url": "https://open.spotify.com/track/43yv23e1pejzlyvs5Fsa5w"
@@ -380,7 +380,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 157142,
       "name": "Back To This (feat. SoShy)",
       "url": "https://open.spotify.com/track/3NVCUMDnGDOPDM5jSHuVgt"
@@ -478,7 +478,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 160000,
       "name": "Been Dreaming",
       "url": "https://open.spotify.com/track/3vi0IoO6GQMT9IT96tUKVF"
@@ -500,7 +500,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 183397,
       "name": "Beggin'",
       "url": "https://open.spotify.com/track/74nEGIzIefJhJ5qX7NeIAz"
@@ -781,6 +781,28 @@
     },
     {
       "album": {
+        "name": "Bring Me Down",
+        "url": "https://open.spotify.com/album/0zNUqbx2KGZxAlvwxTKAvs"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        },
+        {
+          "name": "Stanton Warriors",
+          "url": "https://open.spotify.com/artist/7GeAzBsalYANXTi1ReOm1R"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205492,
+      "name": "Bring Me Down",
+      "url": "https://open.spotify.com/track/2VIZvfKJFT2YHqHqkM2qhs"
+    },
+    {
+      "album": {
         "name": "Bring The Heat",
         "url": "https://open.spotify.com/album/48oAYz2T9Iesq20OIMXNBK"
       },
@@ -796,7 +818,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 157440,
       "name": "Bring The Heat",
       "url": "https://open.spotify.com/track/6jWloOddI8GE5qZXu7sir9"
@@ -1287,6 +1309,24 @@
     },
     {
       "album": {
+        "name": "Dance With Me",
+        "url": "https://open.spotify.com/album/4etVqIE0bb6EWDd68nQWxD"
+      },
+      "artists": [
+        {
+          "name": "L.P. Rhythm",
+          "url": "https://open.spotify.com/artist/3K5qBiy5EHwb270817Cy6e"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218507,
+      "name": "Dance With Me",
+      "url": "https://open.spotify.com/track/6BAVulcFKGtQX4B6VGm42s"
+    },
+    {
+      "album": {
         "name": "Darkest Hour",
         "url": "https://open.spotify.com/album/4NTCmfdLHT478UERPtuScI"
       },
@@ -1310,6 +1350,24 @@
       "duration_ms": 236750,
       "name": "Darkest Hour (feat. Diana Miro)",
       "url": "https://open.spotify.com/track/5Vp85oGwYrz7Y9Ca6WS2Ei"
+    },
+    {
+      "album": {
+        "name": "Dat Drip",
+        "url": "https://open.spotify.com/album/0O8NEwXcEISgHS8inDqWKp"
+      },
+      "artists": [
+        {
+          "name": "DEM2",
+          "url": "https://open.spotify.com/artist/0Nbk5J4OjFoABAovNbuEzB"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231802,
+      "name": "Dat Drip",
+      "url": "https://open.spotify.com/track/1Ib8CVpUEKuqfnIB9T5gt8"
     },
     {
       "album": {
@@ -1364,7 +1422,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 205984,
       "name": "Destination",
       "url": "https://open.spotify.com/track/62eI2hOnUOkiHMtACKkqq2"
@@ -1470,7 +1528,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 170196,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/73Aj6vBOimEVHMMm67YmcU"
@@ -1510,7 +1568,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 394761,
       "name": "Down To Earth - Extended Mix",
       "url": "https://open.spotify.com/track/27t1o581hgxN8ypAtNCDyd"
@@ -1606,6 +1664,24 @@
       "duration_ms": 197164,
       "name": "Eat Your Man (with Nelly Furtado)",
       "url": "https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW"
+    },
+    {
+      "album": {
+        "name": "El Trompetta",
+        "url": "https://open.spotify.com/album/6G0Exe4QTIQ36BavjhMIrf"
+      },
+      "artists": [
+        {
+          "name": "Will Watt",
+          "url": "https://open.spotify.com/artist/01GObtyNNir2fl1CBUMwyq"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "El Trompetta",
+      "url": "https://open.spotify.com/track/43oWmmr0Im6ATmWMhGRzA1"
     },
     {
       "album": {
@@ -1813,6 +1889,32 @@
     },
     {
       "album": {
+        "name": "Fetish",
+        "url": "https://open.spotify.com/album/7J4EH4bP7h8oqmDVvpBPAz"
+      },
+      "artists": [
+        {
+          "name": "Solardo",
+          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
+        },
+        {
+          "name": "it's murph",
+          "url": "https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC"
+        },
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185478,
+      "name": "Fetish",
+      "url": "https://open.spotify.com/track/5iuVm0iFFVThDwJ1CC4HHl"
+    },
+    {
+      "album": {
         "name": "Flowcito",
         "url": "https://open.spotify.com/album/6ZdofVuh9nqJcbN6Chr8T8"
       },
@@ -1945,6 +2047,24 @@
     },
     {
       "album": {
+        "name": "FTP",
+        "url": "https://open.spotify.com/album/3zqh5yduUOggkwAsXMJiwR"
+      },
+      "artists": [
+        {
+          "name": "Truth x Lies",
+          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201897,
+      "name": "FTP",
+      "url": "https://open.spotify.com/track/3aSSg5CIj8Fm6RX9oWC8Qf"
+    },
+    {
+      "album": {
         "name": "Get On Down",
         "url": "https://open.spotify.com/album/09D39Cwhfq3VNYp9gw16cz"
       },
@@ -2036,7 +2156,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 199775,
       "name": "Giving Me - Darius Syrossian Remix",
       "url": "https://open.spotify.com/track/21RovuikzBJyiYCUDdairV"
@@ -2054,7 +2174,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 123488,
       "name": "Gold",
       "url": "https://open.spotify.com/track/4y7P4oG7MNei0CmcuwdfZe"
@@ -2722,7 +2842,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 206769,
       "name": "Lights Down",
       "url": "https://open.spotify.com/track/0szIFWz9JGVQazcjI5edd1"
@@ -2824,7 +2944,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 170624,
       "name": "Lost",
       "url": "https://open.spotify.com/track/08rASU8hp7fUAWmQ8CLOgD"
@@ -2982,6 +3102,24 @@
       "duration_ms": 199000,
       "name": "My Church",
       "url": "https://open.spotify.com/track/6TKfUcycoUsmVPPmow9UVl"
+    },
+    {
+      "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/1dKhJGNr0C8dckZXHeWlKe"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200930,
+      "name": "My World",
+      "url": "https://open.spotify.com/track/31BVToYJwvaDoA4SARM2ex"
     },
     {
       "album": {
@@ -3239,6 +3377,28 @@
     },
     {
       "album": {
+        "name": "PAPI",
+        "url": "https://open.spotify.com/album/5FomfAbIMMLUIfe9fTQi9A"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        },
+        {
+          "name": "Sam Collins",
+          "url": "https://open.spotify.com/artist/60OCVcCxsNKT3VgR0hnDKx"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155100,
+      "name": "PAPI",
+      "url": "https://open.spotify.com/track/4CGGFdzBK2fp8QN9GxWwia"
+    },
+    {
+      "album": {
         "name": "Party With A Purpose",
         "url": "https://open.spotify.com/album/3kCg0qwheOSv8P5BeolxXO"
       },
@@ -3272,6 +3432,24 @@
       "duration_ms": 217157,
       "name": "Pitch Thing",
       "url": "https://open.spotify.com/track/6Kea7kd9xbq4bAgEp1srdN"
+    },
+    {
+      "album": {
+        "name": "Places",
+        "url": "https://open.spotify.com/album/5sHlw3rOcrsrij8qvyyNHe"
+      },
+      "artists": [
+        {
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214995,
+      "name": "Places",
+      "url": "https://open.spotify.com/track/7KuDz1GSApiK1mQAA5bcwO"
     },
     {
       "album": {
@@ -3606,7 +3784,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 185625,
       "name": "Rock The Casbah",
       "url": "https://open.spotify.com/track/3D0LkP3sKoCuwPihiRtJfr"
@@ -3672,10 +3850,32 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 141120,
       "name": "Saturday Love",
       "url": "https://open.spotify.com/track/2jGlVbdMM7pzUl5RyeSJrX"
+    },
+    {
+      "album": {
+        "name": "SAVE ME",
+        "url": "https://open.spotify.com/album/4IHs5K9AlUPG2jNNlNR84l"
+      },
+      "artists": [
+        {
+          "name": "Boston Bun",
+          "url": "https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5"
+        },
+        {
+          "name": "Bag Raiders",
+          "url": "https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216960,
+      "name": "SAVE ME",
+      "url": "https://open.spotify.com/track/0TsJzxDrjLNs6szBrho1dG"
     },
     {
       "album": {
@@ -3694,6 +3894,28 @@
       "duration_ms": 220952,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/3doOQLSIrKZzy7Gpls4WxK"
+    },
+    {
+      "album": {
+        "name": "Set Me Free (feat. Robert Courtois)",
+        "url": "https://open.spotify.com/album/4f92p1nVAtD3Kj3ytHgAsB"
+      },
+      "artists": [
+        {
+          "name": "Nic Fanciulli",
+          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
+        },
+        {
+          "name": "Robert Courtois",
+          "url": "https://open.spotify.com/artist/2GH4RemTUuK19ieus3JaLa"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150218,
+      "name": "Set Me Free (feat. Robert Courtois)",
+      "url": "https://open.spotify.com/track/4oWNy3mghAjy8LGsomdCej"
     },
     {
       "album": {
@@ -3804,7 +4026,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 153398,
       "name": "Smack",
       "url": "https://open.spotify.com/track/2hHy4cKWVnOTgj9Cw22zQf"
@@ -4068,10 +4290,50 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 200318,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/5Ly2w3jKYFvHbOv6Jf4HNM"
+    },
+    {
+      "album": {
+        "name": "System Overload",
+        "url": "https://open.spotify.com/album/0GOZ1Ykr3wnlcZar9J39C9"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        },
+        {
+          "name": "Curtiba",
+          "url": "https://open.spotify.com/artist/1ZwpPFrrag8lUXAHwNxyY3"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169545,
+      "name": "System Overload",
+      "url": "https://open.spotify.com/track/0kT99suSJSWK3Imob3PPib"
+    },
+    {
+      "album": {
+        "name": "S\u00fabele",
+        "url": "https://open.spotify.com/album/4ajnal56mm70lkj0l31lay"
+      },
+      "artists": [
+        {
+          "name": "Loz Seka",
+          "url": "https://open.spotify.com/artist/4VFvWNZM0BKFz8F9S5OYHL"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199294,
+      "name": "S\u00fabele",
+      "url": "https://open.spotify.com/track/5ywiblg3K1uCcDnZ8A8xfW"
     },
     {
       "album": {
@@ -4371,6 +4633,28 @@
     },
     {
       "album": {
+        "name": "Tu Camino",
+        "url": "https://open.spotify.com/album/5mRwJTYVUwbDuvWung7Adv"
+      },
+      "artists": [
+        {
+          "name": "Calussa",
+          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
+        },
+        {
+          "name": "Sllash & Doppe",
+          "url": "https://open.spotify.com/artist/1mPUNeOkJql5onhKwqiLMj"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "Tu Camino",
+      "url": "https://open.spotify.com/track/4chazKXFBLQO6DFmv5hwj9"
+    },
+    {
+      "album": {
         "name": "Under The Sun",
         "url": "https://open.spotify.com/album/0nOe03llpGGQNH6Zjyj20Z"
       },
@@ -4502,7 +4786,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 218181,
       "name": "Voodoo - Matt Guy Remix",
       "url": "https://open.spotify.com/track/232ah4ValIgz0yevukwnqJ"
@@ -4612,7 +4896,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 183255,
       "name": "We So Future",
       "url": "https://open.spotify.com/track/6EjgnrMiuRAIVoQ3QH3Ap2"
@@ -4792,7 +5076,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 222786,
       "name": "Wrong - Francis Mercier Sunrise Mix",
       "url": "https://open.spotify.com/track/5cWTsnpNUv45y2jPg2eUF4"

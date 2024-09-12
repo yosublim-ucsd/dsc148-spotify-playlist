@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 
 > Escape with these melodic liquid drum & bass beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,887 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,974 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 34 | [Malkia](https://open.spotify.com/track/45n3JtqEm1v2j6bmG77ywg) | [Degs](https://open.spotify.com/artist/7gYMOxGbwZZgvaOc6z5VJG), [NCT](https://open.spotify.com/artist/5iWNGhdgW9MA0l5AqFLqh9) | [Malkia](https://open.spotify.com/album/1MEdQSsJgrmaVsiNQcQCoU) | 3:01 |
 | 35 | [Afterthought](https://open.spotify.com/track/1SMORwVIMmVDIFXfgUSmsE) | [Monrroe](https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d), [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF) | [Afterthought](https://open.spotify.com/album/5yBSqRAxEt5eRFzPSQDxVh) | 4:22 |
 | 36 | [Before You](https://open.spotify.com/track/4SY259DM3lcZjPSdcfeqTM) | [BCee](https://open.spotify.com/artist/3wdwWQXJbqpJJbMdp7KfEJ), [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w), [Emba](https://open.spotify.com/artist/5scIsOrV9flbeOPUtdv24H) | [Before You](https://open.spotify.com/album/6YKavj8qVTzxsG8aU8xJwV) | 2:59 |
-| 37 | [Dreaming Of You](https://open.spotify.com/track/7iSNRfFHvHeYL3fq4Njqd9) | [Disrupta](https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G) | [Dreaming Of You](https://open.spotify.com/album/3qYlIJsZmQyM9K9CfSv9Ri) | 3:24 |
-| 38 | [Green Silk](https://open.spotify.com/track/28bxBvsA2B8685eMYNFCIP) | [Mohican Sun](https://open.spotify.com/artist/7LzWa2AUty3RU0znyhG70N) | [Green Silk](https://open.spotify.com/album/5RUyn4ntv0Mb3zygj1BjDa) | 4:06 |
-| 39 | [Rest Assured](https://open.spotify.com/track/35sqsNhnZXLUWZYY9yojPY) | [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4), [Elysia Grace](https://open.spotify.com/artist/1ictFFBiAtEwfywuzl27YV) | [We Can Help Each Other / Rest Assured](https://open.spotify.com/album/0sHG7ljdzT7s2jXi3xXazQ) | 5:06 |
+| 37 | [Rest Assured](https://open.spotify.com/track/35sqsNhnZXLUWZYY9yojPY) | [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4), [Elysia Grace](https://open.spotify.com/artist/1ictFFBiAtEwfywuzl27YV) | [We Can Help Each Other / Rest Assured](https://open.spotify.com/album/0sHG7ljdzT7s2jXi3xXazQ) | 5:06 |
+| 38 | [Dreaming Of You](https://open.spotify.com/track/7iSNRfFHvHeYL3fq4Njqd9) | [Disrupta](https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G) | [Dreaming Of You](https://open.spotify.com/album/3qYlIJsZmQyM9K9CfSv9Ri) | 3:24 |
+| 39 | [Green Silk](https://open.spotify.com/track/28bxBvsA2B8685eMYNFCIP) | [Mohican Sun](https://open.spotify.com/artist/7LzWa2AUty3RU0znyhG70N) | [Green Silk](https://open.spotify.com/album/5RUyn4ntv0Mb3zygj1BjDa) | 4:06 |
 | 40 | [Dayfall](https://open.spotify.com/track/6Ajue5zNJ44SGKXnqXSrhg) | [Telomic](https://open.spotify.com/artist/2uCrvTUHRA9kuW4IA67oDn), [Emily Makis](https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX) | [Dayfall](https://open.spotify.com/album/1ui6rZ7vZIt79JfiYxYn8o) | 4:09 |
 | 41 | [Not Alone](https://open.spotify.com/track/2460FCYtdrrcTChzU7G7aT) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Not Alone](https://open.spotify.com/album/3uAGplw7cRRx927H35iokm) | 4:58 |
 | 42 | [All My Life](https://open.spotify.com/track/4n5sqkxZ9Div98rOCulMMm) | [LSB](https://open.spotify.com/artist/7M5ogsZnEm96Va8wLKvftN), [T.R.A.C.](https://open.spotify.com/artist/2EygWXS2PONQf9X130LWtU), [Stamina MC](https://open.spotify.com/artist/4Dj3ahDCFjotIV1O5Ung6o) | [All My Life](https://open.spotify.com/album/1lVZ4hgSVrtI8q0k4O5V0H) | 4:19 |

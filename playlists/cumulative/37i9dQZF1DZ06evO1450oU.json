@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "This is: Salt Creek. Alle wichtigen Tracks in einer Playlist.",
+  "description": "This is Salt Creek. The essential tracks, all in one playlist.",
   "name": "This Is Salt Creek",
   "tracks": [
     {
@@ -322,7 +322,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-31",
+      "date_removed": null,
       "duration_ms": 281319,
       "name": "Swim in Time",
       "url": "https://open.spotify.com/track/5LYh1qa0oN7WzNlJAXimhY"

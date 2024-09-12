@@ -2,7 +2,7 @@
 
 ### [This Is ReoNa](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1F3ObS)
 
-> This Is ReoNa\. Los temas esenciales, todos en una lista.
+> This is ReoNa\. أغانٍ رائعة في قائمة أغانٍ واحدة.
 
 91 songs - 6 hr 53 min
 

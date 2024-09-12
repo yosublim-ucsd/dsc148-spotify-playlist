@@ -3309,6 +3309,24 @@
     },
     {
       "album": {
+        "name": "Ulykkelig",
+        "url": "https://open.spotify.com/album/7h7vLjEEYuicY1oBmN37Fc"
+      },
+      "artists": [
+        {
+          "name": "Karoline Mousing",
+          "url": "https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136950,
+      "name": "Ulykkelig",
+      "url": "https://open.spotify.com/track/2YDLTIoCXWBw77xk2Irxe9"
+    },
+    {
+      "album": {
         "name": "The Secret of Us",
         "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
       },

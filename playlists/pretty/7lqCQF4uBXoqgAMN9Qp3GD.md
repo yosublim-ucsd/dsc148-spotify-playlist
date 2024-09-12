@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/7lqCQF4uBXoqgAMN9Qp3GD.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Mera Dil Bhi Kitna Pagal Hai \- Recreated Version](https://open.spotify.com/track/2n9ylYiF7urpXo36qBwr3g) | [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq) | [Mera Dil Bhi Kitna Pagal Hai \(Recreated Version\)](https://open.spotify.com/album/1TmHxZJ8k1DZABVSvyjXC2) | 3:20 |
+| 1 | [Mera Dil Bhi Kitna Pagal Hai \- Recreated Version](https://open.spotify.com/track/2n9ylYiF7urpXo36qBwr3g) | [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq) | [Mera Dil Bhi Kitna Pagal Hai \- Recreated Version](https://open.spotify.com/album/1TmHxZJ8k1DZABVSvyjXC2) | 3:20 |
 | 2 | [Manjha](https://open.spotify.com/track/0UZLaEOSIc5kg0cc7eszqC) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507) | [Manjha](https://open.spotify.com/album/1N9rGbn2M9lzU6YcJ6081E) | 3:11 |
 | 3 | [Teri Aankhon Mein](https://open.spotify.com/track/3wmI2n0Whs6kg4MT8jFRU1) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh) | [Teri Aankhon Mein](https://open.spotify.com/album/77dwEKk1JI2JN9L5tg8d7t) | 4:21 |
 | 4 | [Labb Par Aaye](https://open.spotify.com/track/1H31HxfIHETvrQ02nWpsLO) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Bandish Bandits \(Original Series Soundtrack\)](https://open.spotify.com/album/778BLlKdQHXXzKm6XEiqTz) | 3:47 |

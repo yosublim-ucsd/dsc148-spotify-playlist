@@ -1,6 +1,6 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 87513,
+  "num_followers": 87600,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "La Vida Es Fr\u00eda",
-        "url": "https://open.spotify.com/album/6DdM7MRFC9G9BAGANWKQvp"
-      },
-      "artists": [
-        {
-          "name": "Jason Joshua",
-          "url": "https://open.spotify.com/artist/47RTTEHKmO94V6qGq5xhbn"
-        }
-      ],
-      "duration_ms": 202234,
-      "name": "La Vida Es Fr\u00eda",
-      "url": "https://open.spotify.com/track/4r3XQQZyf8p30M8fFkZJDa"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "Keeper Of The Castle",
         "url": "https://open.spotify.com/album/0WwvY1uMFowKCrcFqF87o9"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 187773,
       "name": "Ain't No Woman (Like The One I've Got)",
       "url": "https://open.spotify.com/track/6q8NBpF6twALMb86FBpLgQ"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "La Vida Es Fr\u00eda",
+        "url": "https://open.spotify.com/album/6DdM7MRFC9G9BAGANWKQvp"
+      },
+      "artists": [
+        {
+          "name": "Jason Joshua",
+          "url": "https://open.spotify.com/artist/47RTTEHKmO94V6qGq5xhbn"
+        }
+      ],
+      "duration_ms": 202234,
+      "name": "La Vida Es Fr\u00eda",
+      "url": "https://open.spotify.com/track/4r3XQQZyf8p30M8fFkZJDa"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "The Best Of Bobby Vinton",
-        "url": "https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA"
-      },
-      "artists": [
-        {
-          "name": "Bobby Vinton",
-          "url": "https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK"
-        }
-      ],
-      "duration_ms": 161373,
-      "name": "Mr. Lonely",
-      "url": "https://open.spotify.com/track/5KG2ahk1cONbHvg3dBdTbx"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "Hello Stranger",
         "url": "https://open.spotify.com/album/4Xt36EzLCy3PbdpZedoopw"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 166960,
       "name": "Hello Stranger",
       "url": "https://open.spotify.com/track/7v8YDCoM60xCPuSbXerImD"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "The Best Of Bobby Vinton",
+        "url": "https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA"
+      },
+      "artists": [
+        {
+          "name": "Bobby Vinton",
+          "url": "https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK"
+        }
+      ],
+      "duration_ms": 161373,
+      "name": "Mr. Lonely",
+      "url": "https://open.spotify.com/track/5KG2ahk1cONbHvg3dBdTbx"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "Show and Tell: The Best of Al Wilson",
-        "url": "https://open.spotify.com/album/63NKHtOychyEccShIws1KA"
-      },
-      "artists": [
-        {
-          "name": "Al Wilson",
-          "url": "https://open.spotify.com/artist/2RwV62DIxFGEn8aWO3iaMM"
-        }
-      ],
-      "duration_ms": 207986,
-      "name": "Show and Tell",
-      "url": "https://open.spotify.com/track/2vhW1OmaZDYi63Da9d8R5o"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "Star Time",
         "url": "https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 151626,
       "name": "Try Me",
       "url": "https://open.spotify.com/track/44AgaeLQCnvk3PPHIaDeDk"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "Show and Tell: The Best of Al Wilson",
+        "url": "https://open.spotify.com/album/63NKHtOychyEccShIws1KA"
+      },
+      "artists": [
+        {
+          "name": "Al Wilson",
+          "url": "https://open.spotify.com/artist/2RwV62DIxFGEn8aWO3iaMM"
+        }
+      ],
+      "duration_ms": 207986,
+      "name": "Show and Tell",
+      "url": "https://open.spotify.com/track/2vhW1OmaZDYi63Da9d8R5o"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "Talk to Me",
-        "url": "https://open.spotify.com/album/58KDtRZBc0rtcIAMamtrnT"
-      },
-      "artists": [
-        {
-          "name": "Sunny & The Sunliners",
-          "url": "https://open.spotify.com/artist/7vsHbcgOIbaeMqv3GvvHdO"
-        }
-      ],
-      "duration_ms": 167400,
-      "name": "Talk to Me",
-      "url": "https://open.spotify.com/track/5JHwqC86I4RA1cPEBEJRDz"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "I Do Love You",
         "url": "https://open.spotify.com/album/46qsxPOOdmWwTrfhvcqKlU"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 133693,
       "name": "Strange Feeling",
       "url": "https://open.spotify.com/track/5nEr8XUI4oWHD4VLZ8ec3c"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "Talk to Me",
+        "url": "https://open.spotify.com/album/58KDtRZBc0rtcIAMamtrnT"
+      },
+      "artists": [
+        {
+          "name": "Sunny & The Sunliners",
+          "url": "https://open.spotify.com/artist/7vsHbcgOIbaeMqv3GvvHdO"
+        }
+      ],
+      "duration_ms": 167400,
+      "name": "Talk to Me",
+      "url": "https://open.spotify.com/track/5JHwqC86I4RA1cPEBEJRDz"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "Blue Eyes Crying In the Rain",
-        "url": "https://open.spotify.com/album/2F0Y7afprAxthyuz1LFxoC"
-      },
-      "artists": [
-        {
-          "name": "Little Caesar & the Romans",
-          "url": "https://open.spotify.com/artist/4jUkLFuoU0EMZbcP84QhsX"
-        }
-      ],
-      "duration_ms": 179480,
-      "name": "Those Oldies But Goodies Remind Me Of You",
-      "url": "https://open.spotify.com/track/6o3R69ldWuqUIQzSHKlu2I"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "Whatcha Know",
         "url": "https://open.spotify.com/album/0w7NTBLYYYWY5fabjAUyhZ"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 234593,
       "name": "Whatcha Know",
       "url": "https://open.spotify.com/track/50xfWsLVNNvXYdeLbdT0lz"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "Blue Eyes Crying In the Rain",
+        "url": "https://open.spotify.com/album/2F0Y7afprAxthyuz1LFxoC"
+      },
+      "artists": [
+        {
+          "name": "Little Caesar & the Romans",
+          "url": "https://open.spotify.com/artist/4jUkLFuoU0EMZbcP84QhsX"
+        }
+      ],
+      "duration_ms": 179480,
+      "name": "Those Oldies But Goodies Remind Me Of You",
+      "url": "https://open.spotify.com/track/6o3R69ldWuqUIQzSHKlu2I"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -1739,22 +1739,22 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "For Collectors Only",
-        "url": "https://open.spotify.com/album/56XCkJo7HtVwYmGSrt2vHo"
+        "name": "Takin' All My Lovin'",
+        "url": "https://open.spotify.com/album/2uwY4YqgyxMimWaTo1KUsC"
       },
       "artists": [
         {
-          "name": "Johnny Maestro",
-          "url": "https://open.spotify.com/artist/1pXoY8oTJtPVGsrB4jmCRw"
+          "name": "Mikey Jimenez",
+          "url": "https://open.spotify.com/artist/0DgdXuxVB3yXP5U54WZvSL"
         },
         {
-          "name": "The Crests",
-          "url": "https://open.spotify.com/artist/64vw6q9ZBTop3Tf2ol1x4U"
+          "name": "Baby Bash",
+          "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
         }
       ],
-      "duration_ms": 163813,
-      "name": "Earth Angel - Stereo",
-      "url": "https://open.spotify.com/track/7DSnCTcHoQPfCbaaQuyhhP"
+      "duration_ms": 207920,
+      "name": "Takin' All My Lovin'",
+      "url": "https://open.spotify.com/track/5L4FLTgwJtV8teoPKIrzc7"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -1775,22 +1775,22 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "Takin' All My Lovin'",
-        "url": "https://open.spotify.com/album/2uwY4YqgyxMimWaTo1KUsC"
+        "name": "For Collectors Only",
+        "url": "https://open.spotify.com/album/56XCkJo7HtVwYmGSrt2vHo"
       },
       "artists": [
         {
-          "name": "Mikey Jimenez",
-          "url": "https://open.spotify.com/artist/0DgdXuxVB3yXP5U54WZvSL"
+          "name": "Johnny Maestro",
+          "url": "https://open.spotify.com/artist/1pXoY8oTJtPVGsrB4jmCRw"
         },
         {
-          "name": "Baby Bash",
-          "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
+          "name": "The Crests",
+          "url": "https://open.spotify.com/artist/64vw6q9ZBTop3Tf2ol1x4U"
         }
       ],
-      "duration_ms": 207920,
-      "name": "Takin' All My Lovin'",
-      "url": "https://open.spotify.com/track/5L4FLTgwJtV8teoPKIrzc7"
+      "duration_ms": 163813,
+      "name": "Earth Angel - Stereo",
+      "url": "https://open.spotify.com/track/7DSnCTcHoQPfCbaaQuyhhP"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -1935,6 +1935,26 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
+        "name": "I Love You for All Seasons",
+        "url": "https://open.spotify.com/album/06difTfbdKd1uUlYeOxllX"
+      },
+      "artists": [
+        {
+          "name": "Monica Rocha",
+          "url": "https://open.spotify.com/artist/5hmUF4owAsrwthZ4K5k5dy"
+        },
+        {
+          "name": "Malik Malo",
+          "url": "https://open.spotify.com/artist/3CvU8v4vOHDYPw6G7rPqWZ"
+        }
+      ],
+      "duration_ms": 196170,
+      "name": "I Love You for All Seasons",
+      "url": "https://open.spotify.com/track/7tZFmAL5qNhry1hCWIUyng"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
         "name": "Wish I Said I Love You",
         "url": "https://open.spotify.com/album/1iWNb3YzSCVxIsOpHk2PQy"
       },
@@ -1955,26 +1975,6 @@
       "duration_ms": 154142,
       "name": "Wish I Said I Love You",
       "url": "https://open.spotify.com/track/0J9xmb04HpXvAFC7krKY9m"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
-        "name": "I Love You for All Seasons",
-        "url": "https://open.spotify.com/album/06difTfbdKd1uUlYeOxllX"
-      },
-      "artists": [
-        {
-          "name": "Monica Rocha",
-          "url": "https://open.spotify.com/artist/5hmUF4owAsrwthZ4K5k5dy"
-        },
-        {
-          "name": "Malik Malo",
-          "url": "https://open.spotify.com/artist/3CvU8v4vOHDYPw6G7rPqWZ"
-        }
-      ],
-      "duration_ms": 196170,
-      "name": "I Love You for All Seasons",
-      "url": "https://open.spotify.com/track/7tZFmAL5qNhry1hCWIUyng"
     },
     {
       "added_at": "2024-08-14 08:31:40",

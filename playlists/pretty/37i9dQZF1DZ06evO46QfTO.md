@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46QfTO.md) - [plain]
 
 ### [This Is Maren Morris](https://open.spotify.com/playlist/37i9dQZF1DZ06evO46QfTO)
 
-> This is Maren Morris\. The essential tracks, all in one playlist.
+> This Is Maren Morris\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,100 likes - 51 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,112 likes - 51 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46QfTO.md) - [plain]
 | 50 | [Humble Quest](https://open.spotify.com/track/2kxytjpDPwjZGqVLH8eWkr) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 3:24 |
 | 51 | [Get The Hell Out Of Here](https://open.spotify.com/track/6mRkXi6waYNaJTo7g4yDl6) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [The Bridge](https://open.spotify.com/album/2SX47JWeyg4hlKfYwQ3AdA) | 3:07 |
 
-Snapshot ID: `Zt46gAAAAACbs4gBbJuAXk7lmUWMbos9`
+Snapshot ID: `Zt+MAAAAAAD6BANStvX/SOIrlIvsf8u+`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 
 > Celebrate Gospel Heritage Month with weekly takeovers by Gospel legends!  This week's guest curator: <a href="spotify:artist:76dDIM8amCY58U3uvr1Rw1">Karen Clark Sheard</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 625,389 likes - 85 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 625,413 likes - 85 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

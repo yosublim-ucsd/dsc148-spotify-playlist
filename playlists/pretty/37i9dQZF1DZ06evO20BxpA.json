@@ -1,12 +1,12 @@
 {
   "description": "This is Steven Price. The essential tracks, all in one playlist.",
-  "num_followers": 1301,
+  "num_followers": 1300,
   "original_name": "This Is Steven Price",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zt46gAAAAAANo7xsu9BhJGcUP7YdnHTD",
+  "snapshot_id": "Zt+MAAAAAADU+h1P4LtrCdSF2oErH+P4",
   "tracks": [
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "David Attenborough: A Life On Our Planet (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8"
+        "name": "Ophelia (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 175880,
-      "name": "The Process of Extinctions",
-      "url": "https://open.spotify.com/track/0CGFoSLihWAehdjHM8mttL"
+      "duration_ms": 232306,
+      "name": "Ophelia",
+      "url": "https://open.spotify.com/track/0Yrl0rfS7BQL8tG487RsIO"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ophelia (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
+        "name": "David Attenborough: A Life On Our Planet (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 232306,
-      "name": "Ophelia",
-      "url": "https://open.spotify.com/track/0Yrl0rfS7BQL8tG487RsIO"
+      "duration_ms": 175880,
+      "name": "The Process of Extinctions",
+      "url": "https://open.spotify.com/track/0CGFoSLihWAehdjHM8mttL"
     },
     {
       "added_at": null,
@@ -395,18 +395,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coastal Seas (Episode 4 / Soundtrack From The Netflix Original Series \"Our Planet\")",
-        "url": "https://open.spotify.com/album/4pYjqXbSvwfKQ8l04afE5h"
+        "name": "Wonder Park (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6ogk6lqIjf1hjg28loZX9A"
       },
       "artists": [
         {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        {
           "name": "Steven Price",
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        },
+        {
+          "name": "Grace VanderWaal",
+          "url": "https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ"
         }
       ],
-      "duration_ms": 55920,
-      "name": "The Seasonal Seas",
-      "url": "https://open.spotify.com/track/2unzEGoGb2MvAwm3CMP2hD"
+      "duration_ms": 298786,
+      "name": "Hideaway Medley",
+      "url": "https://open.spotify.com/track/3onN9XfJtkJDt2WiYbbAT3"
     },
     {
       "added_at": null,
@@ -443,26 +451,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wonder Park (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6ogk6lqIjf1hjg28loZX9A"
+        "name": "Coastal Seas (Episode 4 / Soundtrack From The Netflix Original Series \"Our Planet\")",
+        "url": "https://open.spotify.com/album/4pYjqXbSvwfKQ8l04afE5h"
       },
       "artists": [
         {
-          "name": "Various Artists",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-        },
-        {
           "name": "Steven Price",
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        },
-        {
-          "name": "Grace VanderWaal",
-          "url": "https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ"
         }
       ],
-      "duration_ms": 298786,
-      "name": "Hideaway Medley",
-      "url": "https://open.spotify.com/track/3onN9XfJtkJDt2WiYbbAT3"
+      "duration_ms": 55920,
+      "name": "The Seasonal Seas",
+      "url": "https://open.spotify.com/track/2unzEGoGb2MvAwm3CMP2hD"
     },
     {
       "added_at": null,
@@ -483,22 +483,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "David Attenborough: A Life On Our Planet (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8"
+        "name": "Gravity (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw"
       },
       "artists": [
         {
           "name": "Steven Price",
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        },
-        {
-          "name": "David Attenborough",
-          "url": "https://open.spotify.com/artist/4QJpMVEZA1B0MkdW0jDMX4"
         }
       ],
-      "duration_ms": 155306,
-      "name": "This Is My Witness Statement",
-      "url": "https://open.spotify.com/track/1WIx5473piMKVOJ7ZD3fdZ"
+      "duration_ms": 102920,
+      "name": "Soyuz",
+      "url": "https://open.spotify.com/track/1k6X3Rug5zeeKBXxIg8prc"
     },
     {
       "added_at": null,
@@ -519,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gravity (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw"
+        "name": "Ophelia (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
       },
       "artists": [
         {
@@ -528,9 +524,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 102920,
-      "name": "Soyuz",
-      "url": "https://open.spotify.com/track/1k6X3Rug5zeeKBXxIg8prc"
+      "duration_ms": 190840,
+      "name": "My Beloved Spake",
+      "url": "https://open.spotify.com/track/47H8iYq8d9XQLJAJ4EwNlg"
     },
     {
       "added_at": null,
@@ -551,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ophelia (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
+        "name": "The Aeronauts (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/56C4vWYQdngTpCxTEdRcFE"
       },
       "artists": [
         {
@@ -560,9 +556,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 190840,
-      "name": "My Beloved Spake",
-      "url": "https://open.spotify.com/track/47H8iYq8d9XQLJAJ4EwNlg"
+      "duration_ms": 289320,
+      "name": "We Took To The Skies",
+      "url": "https://open.spotify.com/track/5oasJluWbEOguKKAQPzLLb"
     },
     {
       "added_at": null,
@@ -579,22 +575,6 @@
       "duration_ms": 191480,
       "name": "Fueled Up and Headed South",
       "url": "https://open.spotify.com/track/1oBK5XvntJSWaz4jHYDPXB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Aeronauts (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/56C4vWYQdngTpCxTEdRcFE"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 289320,
-      "name": "We Took To The Skies",
-      "url": "https://open.spotify.com/track/5oasJluWbEOguKKAQPzLLb"
     },
     {
       "added_at": null,
@@ -663,18 +643,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue Whales - Return of the Giants (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5Jgynk3NCpDbCWdjz1LMdq"
+        "name": "David Attenborough: A Life On Our Planet (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8"
       },
       "artists": [
         {
           "name": "Steven Price",
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        },
+        {
+          "name": "David Attenborough",
+          "url": "https://open.spotify.com/artist/4QJpMVEZA1B0MkdW0jDMX4"
         }
       ],
-      "duration_ms": 240146,
-      "name": "The Age of Giants",
-      "url": "https://open.spotify.com/track/5cFaQ1UlmXa4UHYctK7hpT"
+      "duration_ms": 155306,
+      "name": "This Is My Witness Statement",
+      "url": "https://open.spotify.com/track/1WIx5473piMKVOJ7ZD3fdZ"
     },
     {
       "added_at": null,
@@ -688,9 +672,25 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 66280,
-      "name": "Beauty Turns Men to Beasts",
-      "url": "https://open.spotify.com/track/26iEiBk4vHSnGGqL0KiuBu"
+      "duration_ms": 174186,
+      "name": "You Are Like a Dream I Had",
+      "url": "https://open.spotify.com/track/0yJp0q45dJgyZ5JSfwA3qg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blue Whales - Return of the Giants (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5Jgynk3NCpDbCWdjz1LMdq"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 240146,
+      "name": "The Age of Giants",
+      "url": "https://open.spotify.com/track/5cFaQ1UlmXa4UHYctK7hpT"
     },
     {
       "added_at": null,
@@ -727,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ophelia (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 66280,
+      "name": "Beauty Turns Men to Beasts",
+      "url": "https://open.spotify.com/track/26iEiBk4vHSnGGqL0KiuBu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "American Assassin (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/71nx6a8VGUK8DYjnnXLc5d"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 273720,
       "name": "Katrina",
       "url": "https://open.spotify.com/track/7JX0mO2TxdRphLAS6cRBud"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ophelia (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 174186,
-      "name": "You Are Like a Dream I Had",
-      "url": "https://open.spotify.com/track/0yJp0q45dJgyZ5JSfwA3qg"
     },
     {
       "added_at": null,
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dolphin Reef (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/15xV7Ooj6ZlS9j50gxp4QN"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 212453,
-      "name": "Flook",
-      "url": "https://open.spotify.com/track/71I9kSO11dSWteAgNKuqTB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coastal Seas (Episode 4 / Soundtrack From The Netflix Original Series \"Our Planet\")",
         "url": "https://open.spotify.com/album/4pYjqXbSvwfKQ8l04afE5h"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 66933,
       "name": "A Rich Community Of Life",
       "url": "https://open.spotify.com/track/5Ph3XsyuZi2UEl39r17pAq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dolphin Reef (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/15xV7Ooj6ZlS9j50gxp4QN"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 212453,
+      "name": "Flook",
+      "url": "https://open.spotify.com/track/71I9kSO11dSWteAgNKuqTB"
     }
   ],
   "unique_name": "This Is Steven Price",

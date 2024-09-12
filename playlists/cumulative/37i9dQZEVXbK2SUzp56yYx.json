@@ -132,7 +132,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 378600,
       "name": "3-\u0435 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f",
       "url": "https://open.spotify.com/track/13JjbD8SXv6tljUOfrwvKP"
@@ -694,7 +694,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-11",
+      "date_removed": null,
       "duration_ms": 111642,
       "name": "b0lit :(",
       "url": "https://open.spotify.com/track/0LJRXWJ3x3Oby02RbRl3f6"
@@ -770,7 +770,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 177208,
       "name": "BARMAN",
       "url": "https://open.spotify.com/track/2trw3sZEVbHxqzGX5mvgJI"
@@ -1534,7 +1534,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-08",
+      "date_removed": null,
       "duration_ms": 152760,
       "name": "Disco",
       "url": "https://open.spotify.com/track/2Lumsra3kuU61wXkEKzKaK"
@@ -2939,6 +2939,24 @@
     },
     {
       "album": {
+        "name": "The Movie Star",
+        "url": "https://open.spotify.com/album/428Nty0MTSDzAbUWG31Yoi"
+      },
+      "artists": [
+        {
+          "name": "BewhY",
+          "url": "https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133320,
+      "name": "GOTTASADAE",
+      "url": "https://open.spotify.com/track/5nJvKQsFRmCp2i7EiKjZDg"
+    },
+    {
+      "album": {
         "name": "HA-HA!",
         "url": "https://open.spotify.com/album/7BIfQFbE5RqMZlmh1An5tu"
       },
@@ -3594,10 +3612,28 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 132923,
       "name": "INTERNET LOVE",
       "url": "https://open.spotify.com/track/7B6v2r1R1FchqGVjXVFhpb"
+    },
+    {
+      "album": {
+        "name": "INTERNET LOVE",
+        "url": "https://open.spotify.com/album/7zmy4WcXPmogXfBQCzYNMJ"
+      },
+      "artists": [
+        {
+          "name": "IVOXYGEN",
+          "url": "https://open.spotify.com/artist/6K9KevAu0cpln7xOsM3Wkm"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132923,
+      "name": "INTERNET LOVE",
+      "url": "https://open.spotify.com/track/7GBN1M5T3wF901JTiIDxwb"
     },
     {
       "album": {
@@ -6598,7 +6634,7 @@
       ],
       "date_added": "2024-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-11",
+      "date_removed": null,
       "duration_ms": 86292,
       "name": "SLIDE DE APOSTA - LET'S GO GAMBLING",
       "url": "https://open.spotify.com/track/1WV3kDIRyzcTzG3e0mVX03"
@@ -7522,7 +7558,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 229935,
       "name": "Till The End",
       "url": "https://open.spotify.com/track/2H0wVAvo4EktuSkxoYV2ke"
@@ -8894,7 +8930,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 138556,
       "name": "\u0430\u043f\u0430\u0442\u0438\u044f",
       "url": "https://open.spotify.com/track/6RJqRCDTWgf4zfThYBOOhb"
@@ -9890,7 +9926,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-11",
+      "date_removed": null,
       "duration_ms": 188448,
       "name": "\u0413\u0440\u0430\u0431\u0438\u0442\u0435\u043b\u044c 78",
       "url": "https://open.spotify.com/track/06FMXRY2xu8PIbMRuRnges"
@@ -10658,6 +10694,24 @@
       "duration_ms": 65860,
       "name": "\u041a\u0430\u0432\u0430\u0431\u0430\u043d\u0433\u0430",
       "url": "https://open.spotify.com/track/0IQECQhJWfIlbSGcbppdmU"
+    },
+    {
+      "album": {
+        "name": "\u041a\u0430\u0436\u0434\u044b\u0439 \u0414\u0435\u043d\u044c \u043a\u0430\u043a \u0414\u0435\u043d\u044c \u0420\u043e\u0436\u0434\u0435\u043d\u0438\u044f",
+        "url": "https://open.spotify.com/album/3VHT1Sz59HzX65UOQ1Wn1C"
+      },
+      "artists": [
+        {
+          "name": "Baby Melo",
+          "url": "https://open.spotify.com/artist/72c2wcAnsUn4VlXiN1uDOs"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "\u041a\u0430\u0436\u0434\u044b\u0439 \u0414\u0435\u043d\u044c \u043a\u0430\u043a \u0414\u0435\u043d\u044c \u0420\u043e\u0436\u0434\u0435\u043d\u0438\u044f",
+      "url": "https://open.spotify.com/track/7dpsJr1ZmHEiDbzgHp7UYR"
     },
     {
       "album": {
@@ -14180,7 +14234,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 97750,
       "name": "\u0427\u0423\u0412\u0410\u0423\u0410",
       "url": "https://open.spotify.com/track/1ZhZkD5WD5nFmQoDLrpwgH"
@@ -14608,7 +14662,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 201299,
       "name": "\u30b7\u30ab\u8272\u30c7\u30a4\u30ba",
       "url": "https://open.spotify.com/track/65DUeMw4riBUibAjktAnZD"

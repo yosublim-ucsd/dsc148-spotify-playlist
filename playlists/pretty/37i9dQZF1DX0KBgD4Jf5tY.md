@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Il meglio della musica indipendente italiana! Cover: <a href="spotify:artist:4UH11YIdiHkl8rCyRdSR0P">Lucy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,714 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,718 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 21 | [ALLELUJAH \(freestyle\)](https://open.spotify.com/track/2lCKptGiKvHCuejLN3Robd) | [Jaroslav](https://open.spotify.com/artist/3GrOZIe3jCgnr8eSOxLg4Z) | [ALLELUJAH \(freestyle\)](https://open.spotify.com/album/5rQFANiknu4Eosi9EihbwL) | 2:33 |
 | 22 | [ZAGARA](https://open.spotify.com/track/6kFOTCImd2Dzopo4OQyMbI) | [IDDA](https://open.spotify.com/artist/1pRhf8tFJk2k1ejw6sRqQK) | [ZAGARA](https://open.spotify.com/album/5tUeLnJ3R7pRFGsajyQsvd) | 2:44 |
 | 23 | [MAREA 2024](https://open.spotify.com/track/7KcDcx2ILA1qrWcYl1Mb9i) | [fxs](https://open.spotify.com/artist/75E46nbLjmQvjO478IsXAZ) | [MAREA 2024](https://open.spotify.com/album/1u09BV5mFJI8dgkk94l21X) | 2:40 |
-| 24 | [CTRL Z \(feat\. lica\)](https://open.spotify.com/track/2b4CreHZGsJeMYQAVLryDw) | [HERESIA](https://open.spotify.com/artist/3HG7cwBJ7k7m2JBfFo21tL), [Swan](https://open.spotify.com/artist/6c3y5GxfMe6dWgUtTLnnCE), [lica](https://open.spotify.com/artist/2qjCczhvzHWCP9VtAKYA0R) | [CTRL Z \(feat\. lica\)](https://open.spotify.com/album/6v4DZZ6a16W4euHYJnQt9E) | 2:49 |
+| 24 | [CTRL Z \(feat\. lica\)](https://open.spotify.com/track/2b4CreHZGsJeMYQAVLryDw) | [HERESIA](https://open.spotify.com/artist/3HG7cwBJ7k7m2JBfFo21tL), [Swan](https://open.spotify.com/artist/2N77Xi4sl4nsxDQ68bl3LE), [lica](https://open.spotify.com/artist/2qjCczhvzHWCP9VtAKYA0R) | [CTRL Z \(feat\. lica\)](https://open.spotify.com/album/6v4DZZ6a16W4euHYJnQt9E) | 2:49 |
 | 25 | [Scema](https://open.spotify.com/track/04vILNWDAjKZ2qb3lONcCB) | [Keyra](https://open.spotify.com/artist/5Y0hkP4UJmxdajANUr1IoC) | [Scema](https://open.spotify.com/album/6KaJU8LSNXMkYmWecJG4Bd) | 2:40 |
 | 26 | [Imperdonabile](https://open.spotify.com/track/3jd0rNu8g7J7j2CWON0YPm) | [Santé](https://open.spotify.com/artist/55EIo5yMfuqGqppQzEBep1) | [Imperdonabile](https://open.spotify.com/album/4odVD47NOubjyeuLrV96Ff) | 2:09 |
 | 27 | [L'ultima mezz'ora](https://open.spotify.com/track/6ATipis5X5ZhJtQFtA5Moe) | [ANSIAH](https://open.spotify.com/artist/0TxLShiUYY5YzcUI6t5QdB) | [L'ultima mezz'ora](https://open.spotify.com/album/37H1a1CLMD2QSnj5L4A9sb) | 2:56 |

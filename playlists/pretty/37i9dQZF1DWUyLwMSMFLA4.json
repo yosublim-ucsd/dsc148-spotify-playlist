@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Asadito a pura cumbia con toques de cuarteto!",
-  "num_followers": 566246,
+  "num_followers": 566491,
   "original_name": "Asadito Cumbiero",
   "owner": {
     "name": "Spotify",
@@ -719,8 +719,8 @@
     {
       "added_at": "2024-08-16 03:00:00",
       "album": {
-        "name": "QUE SED",
-        "url": "https://open.spotify.com/album/13Uyz9aJHEkfWPtt7b9lTG"
+        "name": "QUE ME FALTE TODO",
+        "url": "https://open.spotify.com/album/10O0BuUEtx9Rs3S9pgUBKd"
       },
       "artists": [
         {
@@ -728,13 +728,13 @@
           "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
         },
         {
-          "name": "Ulises Bueno",
-          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
         }
       ],
-      "duration_ms": 131032,
-      "name": "QUE SED",
-      "url": "https://open.spotify.com/track/4GLmfc26LRlW5otKs6TewR"
+      "duration_ms": 165918,
+      "name": "QUE ME FALTE TODO",
+      "url": "https://open.spotify.com/track/1NMbORRsowjN8q000xlJ8l"
     },
     {
       "added_at": "2024-08-16 03:00:00",
@@ -823,8 +823,8 @@
     {
       "added_at": "2024-08-16 03:00:00",
       "album": {
-        "name": "QUE ME FALTE TODO",
-        "url": "https://open.spotify.com/album/10O0BuUEtx9Rs3S9pgUBKd"
+        "name": "QUE SED",
+        "url": "https://open.spotify.com/album/13Uyz9aJHEkfWPtt7b9lTG"
       },
       "artists": [
         {
@@ -832,13 +832,13 @@
           "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
         },
         {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+          "name": "Ulises Bueno",
+          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
         }
       ],
-      "duration_ms": 165918,
-      "name": "QUE ME FALTE TODO",
-      "url": "https://open.spotify.com/track/1NMbORRsowjN8q000xlJ8l"
+      "duration_ms": 131032,
+      "name": "QUE SED",
+      "url": "https://open.spotify.com/track/4GLmfc26LRlW5otKs6TewR"
     },
     {
       "added_at": "2024-08-16 03:00:00",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2024-08-16 03:00:00",
       "album": {
-        "name": "Pibes Chorros:Discograf\u00eda Completa Vol.1",
-        "url": "https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP"
-      },
-      "artists": [
-        {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
-        }
-      ],
-      "duration_ms": 308337,
-      "name": "Duraznito",
-      "url": "https://open.spotify.com/track/5tjqwBcn9WsaoaqS2oGJq2"
-    },
-    {
-      "added_at": "2024-08-16 03:00:00",
-      "album": {
         "name": "Linda",
         "url": "https://open.spotify.com/album/5nzxh5W8SlzljFGpkvY5ey"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 178464,
       "name": "Linda",
       "url": "https://open.spotify.com/track/5L4iwTXzuuWcV0m0sEDrgj"
+    },
+    {
+      "added_at": "2024-08-16 03:00:00",
+      "album": {
+        "name": "Pibes Chorros:Discograf\u00eda Completa Vol.1",
+        "url": "https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "duration_ms": 308337,
+      "name": "Duraznito",
+      "url": "https://open.spotify.com/track/5tjqwBcn9WsaoaqS2oGJq2"
     }
   ],
   "unique_name": "Asadito Cumbiero",

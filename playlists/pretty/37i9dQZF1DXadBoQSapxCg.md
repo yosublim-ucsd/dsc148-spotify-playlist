@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 
 > Apaga a luz e deixa rolar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,874 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,900 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [20 Ligações](https://open.spotify.com/track/6MvaRZ6JZgJuXz9b1CMB1y) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf) | [QVVJFA?](https://open.spotify.com/album/5HE9DhP8b3m3LmShTreEvq) | 3:13 |
 | 2 | [Amor de Fim de Noite](https://open.spotify.com/track/1Nmcs8zk7LfcvHRgLtTM5J) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv) | [Celebridade](https://open.spotify.com/album/1O14i0prsw0PrQYgHQ19Pa) | 3:41 |
 | 3 | [Só me ligar](https://open.spotify.com/track/31ySVMbs7U8LOuy7w4McR9) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [Gigantes](https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe), [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE) | [ICARUS](https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS) | 3:13 |
-| 4 | [Cigana](https://open.spotify.com/track/2GBwxkBpmhs9UoDxsBeP4a) | [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Keviin](https://open.spotify.com/artist/3IMEatbnQs6Sumu77hmtOr) | [Cigana](https://open.spotify.com/album/5zujMhc1kwFLiZYBRlwz6m) | 4:25 |
-| 5 | [Afrodite](https://open.spotify.com/track/3DAlIobCDPVvUkyDZv5oVp) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Afrodite](https://open.spotify.com/album/1WckKAD1PVdVcLmdN6XLJT) | 3:21 |
+| 4 | [Afrodite](https://open.spotify.com/track/3DAlIobCDPVvUkyDZv5oVp) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Afrodite](https://open.spotify.com/album/1WckKAD1PVdVcLmdN6XLJT) | 3:21 |
+| 5 | [Cigana](https://open.spotify.com/track/2GBwxkBpmhs9UoDxsBeP4a) | [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Keviin](https://open.spotify.com/artist/3IMEatbnQs6Sumu77hmtOr) | [Cigana](https://open.spotify.com/album/5zujMhc1kwFLiZYBRlwz6m) | 4:25 |
 | 6 | [Sintomas de Prazer](https://open.spotify.com/track/2D1rmVTeaZrr5Ipow29t4b) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [VILÃ](https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh) | 2:28 |
 | 7 | [Flamingos](https://open.spotify.com/track/7wcDSsREsX9wn8P1iEdBgj) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [Bluesman](https://open.spotify.com/album/0QMVSKhzT4u2DEd8qdlz4I) | 3:57 |
 | 8 | [Saudade](https://open.spotify.com/track/3KGCF68zDut37Ug3fzWgVU) | [Luiz Lins](https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0), [Konai](https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp), [Mazili](https://open.spotify.com/artist/44xLFZNn7TzOWooulLGAl4) | [Saudade](https://open.spotify.com/album/3kcHfsXEUlgTQUFimmhkVm) | 3:04 |

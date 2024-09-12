@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKfYX5JxehQ.md) - [plain]
 
 > Se você cheirou a suco em 2023, essa playlist é pros seus treinos, não é mesmo?
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,681 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,662 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKfYX5JxehQ.md) - [plain]
 | 18 | [Devotion \- 2020 Remix](https://open.spotify.com/track/039VxfSo5FErqE65169VZL) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Felguk](https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf), [Fafaq](https://open.spotify.com/artist/0EK2nCt5jxbkN2HCmtKy4V) | [Devotion \(2020 Remix\)](https://open.spotify.com/album/7IEKWKox1xVi1tlUyWnHHk) | 2:32 |
 | 19 | [Summer Days \(feat\. Macklemore & Patrick Stump of Fall Out Boy\) \- Tiësto Remix](https://open.spotify.com/track/55nMnifaQWKe3f9cbwOXwx) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Summer Days \(feat\. Macklemore & Patrick Stump of Fall Out Boy\) \[Remixes\]](https://open.spotify.com/album/2vx3BtBMn8Ed3ygEg1OT2t) | 4:15 |
 | 20 | [Make It to Heaven \(with Raye\)](https://open.spotify.com/track/5dS2dvXVPe7AR6UwBpnomW) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Make It To Heaven \(with Raye\)](https://open.spotify.com/album/3YgpLKWG2xfjEe8vVfcn13) | 2:52 |
-| 21 | [I Love My Friends \- Armin van Buuren & Avian Grays Remix](https://open.spotify.com/track/6Vdrr0BtZNWKxxJTF37qRM) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [AVIAN GRAYS](https://open.spotify.com/artist/6StTE02qIwbcJjGEDSZgg5) | [Neon Future IV \(Remixes\)](https://open.spotify.com/album/43DlYlzuSWTVNUwytMqUqK) | 2:59 |
+| 21 | [I Love My Friends \- Armin van Buuren & Avian Grays Remix](https://open.spotify.com/track/6Vdrr0BtZNWKxxJTF37qRM) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [AVIAN GRAYS](https://open.spotify.com/artist/6StTE02qIwbcJjGEDSZgg5) | [Neon Future IV \- Remixes](https://open.spotify.com/album/43DlYlzuSWTVNUwytMqUqK) | 2:59 |
 | 22 | [Mind Control](https://open.spotify.com/track/2omGDi7r9x4nMMYMdDTu5j) | [Guzz](https://open.spotify.com/artist/2M23z6FczyKLQFTTvB3EI8) | [Mind Control](https://open.spotify.com/album/1RVUXJWDqtxbGwXlhPiOrU) | 4:00 |
 | 23 | [Wash Bass](https://open.spotify.com/track/2r7hmPkON1r2KSdqgYXeFe) | [Sterium](https://open.spotify.com/artist/6mZFMQ4sBi39W9dXCLH77s) | [Wash Bass](https://open.spotify.com/album/3QyqHmtONP5GONspwJThQq) | 3:23 |
 | 24 | [Highest In The Room](https://open.spotify.com/track/2h3t3Foxd1VrOMEM7smWZM) | [SCNDL](https://open.spotify.com/artist/3Y7sK4nACC8R7WwAUUumCL) | [Highest In The Room](https://open.spotify.com/album/1sSGaUZ48mi8qd0KR21RZo) | 2:26 |

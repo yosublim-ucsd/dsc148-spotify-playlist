@@ -1,6 +1,6 @@
 {
   "description": "Welcome to the Nordic queendom of pop.",
-  "num_followers": 6737,
+  "num_followers": 6739,
   "original_name": "GRL PWR",
   "owner": {
     "name": "Spotify",
@@ -411,18 +411,18 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "SHE-REX",
-        "url": "https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9"
+        "name": "Home",
+        "url": "https://open.spotify.com/album/5xIhqzT3uHMgftvTyMWUvn"
       },
       "artists": [
         {
-          "name": "eee gee",
-          "url": "https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN"
+          "name": "Paula Jiv\u00e9n",
+          "url": "https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D"
         }
       ],
-      "duration_ms": 232465,
-      "name": "promise to pick up the phone",
-      "url": "https://open.spotify.com/track/4OkHozB0MJuzeFiHRU2CFC"
+      "duration_ms": 171899,
+      "name": "Pluto - Bonus Track",
+      "url": "https://open.spotify.com/track/1hdcXfKIZmasAWOUHOuvsL"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -443,18 +443,18 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/5xIhqzT3uHMgftvTyMWUvn"
+        "name": "SHE-REX",
+        "url": "https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9"
       },
       "artists": [
         {
-          "name": "Paula Jiv\u00e9n",
-          "url": "https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D"
+          "name": "eee gee",
+          "url": "https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN"
         }
       ],
-      "duration_ms": 171899,
-      "name": "Pluto - Bonus Track",
-      "url": "https://open.spotify.com/track/1hdcXfKIZmasAWOUHOuvsL"
+      "duration_ms": 232465,
+      "name": "promise to pick up the phone",
+      "url": "https://open.spotify.com/track/4OkHozB0MJuzeFiHRU2CFC"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Sweet Night",
-        "url": "https://open.spotify.com/album/6QLBGQ4KS63WbtUbeNive8"
-      },
-      "artists": [
-        {
-          "name": "Elina",
-          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
-        }
-      ],
-      "duration_ms": 238506,
-      "name": "Sweet Night",
-      "url": "https://open.spotify.com/track/7tyrBwLtspTksCyt8SDaXe"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Foam",
         "url": "https://open.spotify.com/album/3X3aYCX8E2cKg9JhhCzH4m"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 144051,
       "name": "Wishing well",
       "url": "https://open.spotify.com/track/2uEGXnrVqAlBgvLLYLZiZi"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Sweet Night",
+        "url": "https://open.spotify.com/album/6QLBGQ4KS63WbtUbeNive8"
+      },
+      "artists": [
+        {
+          "name": "Elina",
+          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
+        }
+      ],
+      "duration_ms": 238506,
+      "name": "Sweet Night",
+      "url": "https://open.spotify.com/track/7tyrBwLtspTksCyt8SDaXe"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Lemonade",
-        "url": "https://open.spotify.com/album/6IP8zOjAoDYlWN8DeynRWL"
-      },
-      "artists": [
-        {
-          "name": "Kiana",
-          "url": "https://open.spotify.com/artist/1USLNG14rIBh2Sj662P22g"
-        }
-      ],
-      "duration_ms": 183733,
-      "name": "Lemonade",
-      "url": "https://open.spotify.com/track/6mXCbiHcFrosLRz2Lnypsx"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Effort",
         "url": "https://open.spotify.com/album/19WN3R2e1vksJnVObrFzQl"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 151947,
       "name": "Effort",
       "url": "https://open.spotify.com/track/7psuJ34tIkm9MTPMeBwn0o"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/6IP8zOjAoDYlWN8DeynRWL"
+      },
+      "artists": [
+        {
+          "name": "Kiana",
+          "url": "https://open.spotify.com/artist/1USLNG14rIBh2Sj662P22g"
+        }
+      ],
+      "duration_ms": 183733,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/6mXCbiHcFrosLRz2Lnypsx"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Down, down, down",
-        "url": "https://open.spotify.com/album/6qSvXRmoheeoc9Cfw2qUGr"
-      },
-      "artists": [
-        {
-          "name": "Matilda Lyn",
-          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
-        }
-      ],
-      "duration_ms": 210810,
-      "name": "Down, down, down",
-      "url": "https://open.spotify.com/track/2o7Yym63nfCcOaFv592Ujp"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "The Ick",
         "url": "https://open.spotify.com/album/4Y2bMtjeJhl8ERBECy7MCN"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 158987,
       "name": "The Ick",
       "url": "https://open.spotify.com/track/4axK3wmqAS5kFlbFfxr4id"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Down, down, down",
+        "url": "https://open.spotify.com/album/6qSvXRmoheeoc9Cfw2qUGr"
+      },
+      "artists": [
+        {
+          "name": "Matilda Lyn",
+          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
+        }
+      ],
+      "duration_ms": 210810,
+      "name": "Down, down, down",
+      "url": "https://open.spotify.com/track/2o7Yym63nfCcOaFv592Ujp"
     },
     {
       "added_at": "2024-02-08 23:00:00",

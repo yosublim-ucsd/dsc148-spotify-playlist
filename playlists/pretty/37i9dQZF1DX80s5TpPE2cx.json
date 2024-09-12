@@ -1,6 +1,6 @@
 {
   "description": "The songs that defined Nigeria's Alt\u00e9 era. Cover: Amaarae",
-  "num_followers": 11764,
+  "num_followers": 11783,
   "original_name": "Alt\u00e9 Classics ",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,26 @@
     {
       "added_at": "2024-06-24 06:54:45",
       "album": {
+        "name": "Where Dem Dey",
+        "url": "https://open.spotify.com/album/2wR1umN5UBv0lE9NGvbJ6d"
+      },
+      "artists": [
+        {
+          "name": "Laime",
+          "url": "https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Where Dem Dey",
+      "url": "https://open.spotify.com/track/5urCHNHBnnucIoZvnzns48"
+    },
+    {
+      "added_at": "2024-06-24 06:54:45",
+      "album": {
         "name": "Sweet Life",
         "url": "https://open.spotify.com/album/47YPQVCAy9zbeRtLasf9EO"
       },
@@ -387,26 +407,6 @@
       "duration_ms": 186401,
       "name": "Sweet Life",
       "url": "https://open.spotify.com/track/1x4VCK4tmq3PfXiyZgCmoq"
-    },
-    {
-      "added_at": "2024-06-24 06:54:45",
-      "album": {
-        "name": "Where Dem Dey",
-        "url": "https://open.spotify.com/album/2wR1umN5UBv0lE9NGvbJ6d"
-      },
-      "artists": [
-        {
-          "name": "Laime",
-          "url": "https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Where Dem Dey",
-      "url": "https://open.spotify.com/track/5urCHNHBnnucIoZvnzns48"
     },
     {
       "added_at": "2024-06-24 06:54:45",

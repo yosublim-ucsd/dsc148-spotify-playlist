@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di  Sixpm, Ernia, Shiva, Artie 5ive e tanti altri! 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,258 likes - 85 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,275 likes - 85 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

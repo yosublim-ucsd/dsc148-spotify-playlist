@@ -335,6 +335,28 @@
     },
     {
       "album": {
+        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
+      },
+      "artists": [
+        {
+          "name": "Foudeqush",
+          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
+        },
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167386,
+      "name": "Con La Brisa",
+      "url": "https://open.spotify.com/track/2LSsSV7V33wM9EKQA2xjGS"
+    },
+    {
+      "album": {
         "name": "Valiente",
         "url": "https://open.spotify.com/album/4M25KZhSDUMpXklhN3X199"
       },
@@ -444,7 +466,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 153786,
       "name": "Did I Mention",
       "url": "https://open.spotify.com/track/1YekSxsAlGlYvm9zjLsKdh"
@@ -560,10 +582,36 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 147946,
       "name": "El Reino de Rosas",
       "url": "https://open.spotify.com/track/7rG7na8ZzhhopBlbirpxuZ"
+    },
+    {
+      "album": {
+        "name": "El Rey Leon (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/1DdGBTfcxge1ganY62TfpD"
+      },
+      "artists": [
+        {
+          "name": "Eduardo Tejedo",
+          "url": "https://open.spotify.com/artist/6ibB3taX7MxloM6rg3gMne"
+        },
+        {
+          "name": "H\u00e9ctor Lama",
+          "url": "https://open.spotify.com/artist/1eTdVPfRP70mS5KFZNxnMn"
+        },
+        {
+          "name": "Alan Piz Mor\u00e1n",
+          "url": "https://open.spotify.com/artist/12lPP3QOiBaHqT9IPpdBO8"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95480,
+      "name": "El Reporte De Hoy",
+      "url": "https://open.spotify.com/track/4h9nt7QsqBHYmS4B0wpLNU"
     },
     {
       "album": {
@@ -648,7 +696,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 182613,
       "name": "Esta Noche Es Para Amar",
       "url": "https://open.spotify.com/track/1UNH5Hps9PVNqwWCJ8J1jp"
@@ -938,7 +986,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 175506,
       "name": "How Far I'll Go - Alessia Cara Version",
       "url": "https://open.spotify.com/track/3x3LDwksbVDJW0P1dAmX4u"
@@ -1258,7 +1306,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 200586,
       "name": "La ruin verdad",
       "url": "https://open.spotify.com/track/6uEX6mm4cDGh8xzyR7SM3f"
@@ -1396,7 +1444,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 218400,
       "name": "Listos Ya - De \"El Rey Le\u00f3n\"/Banda Sonora Original",
       "url": "https://open.spotify.com/track/7ztSV5r08RRxSv9taJDDmb"
@@ -1897,6 +1945,32 @@
     },
     {
       "album": {
+        "name": "Red (From \"Descendants: The Rise of Red\")",
+        "url": "https://open.spotify.com/album/6M4QzYGKgF2nkZw9VztN0s"
+      },
+      "artists": [
+        {
+          "name": "Kylie Cantrall",
+          "url": "https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX"
+        },
+        {
+          "name": "Alex Boniello",
+          "url": "https://open.spotify.com/artist/4bttaKq2XoaBlFlkKkrS40"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188674,
+      "name": "Red - From \"Descendants: The Rise of Red\"",
+      "url": "https://open.spotify.com/track/1AP7xueWwO5AakWFYzttpV"
+    },
+    {
+      "album": {
         "name": "Mulan (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3Ohs7Jo6GM6mydUOL0m5aC"
       },
@@ -2082,6 +2156,24 @@
       "duration_ms": 174120,
       "name": "The Best of Both Worlds - From \"Hannah Montana\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/6Z0F3Mqj7tq1CBZo5qMlUg"
+    },
+    {
+      "album": {
+        "name": "Hannah Montana The Movie",
+        "url": "https://open.spotify.com/album/1fc8tPf36cZhNYpNFrWh7o"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236066,
+      "name": "The Climb",
+      "url": "https://open.spotify.com/track/0V8FYVlBFuXXTIvRnMbZyS"
     },
     {
       "album": {
@@ -2364,7 +2456,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 174786,
       "name": "Una estrella",
       "url": "https://open.spotify.com/track/4pyXG2EVYQarFHT2TdCk2M"
@@ -2558,7 +2650,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 210320,
       "name": "Where You Are",
       "url": "https://open.spotify.com/track/2bwSCIuNtVrQPVddCi8sOW"
@@ -2738,7 +2830,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-12",
       "duration_ms": 194160,
       "name": "\u00bfY as\u00ed van a agradecer?",
       "url": "https://open.spotify.com/track/5Jk0nculuFLEoYICvby4zD"

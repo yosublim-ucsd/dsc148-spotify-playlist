@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Indira Paganotto
 
-167 songs - 13 hr 35 min
+169 songs - 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Adrenaline Assault](https://open.spotify.com/track/4pnmqNJxTQ1hICEv5rOKow) | [CARAVEL](https://open.spotify.com/artist/5od72ceH2aN3pS4hcHNzRy), [Køzløv](https://open.spotify.com/artist/6lmg9kOOeuhhgThuBOE4bX) | [Adrenaline Assault \[HAK002\]](https://open.spotify.com/album/7kR5VLDFHCm8PMiHWnjHCr) | 5:07 | 2024-04-09 | 2024-08-30 |
 | [All In This \- Original mix](https://open.spotify.com/track/3GzkcXSKpe34kAjkFCxo1z) | [MAHTAL](https://open.spotify.com/artist/36mDqPu7kZeSHyrmsy0d2I) | [Omnes EP](https://open.spotify.com/album/4TOVX0sDqNR1LYTYrBpwt1) | 4:49 | 2024-04-09 |  |
 | [alleswirdgut](https://open.spotify.com/track/2ucKoWiCS8eTk5IUwin4fq) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [GOODBYE SALÒ](https://open.spotify.com/album/4kiB2fjPSRxYhqfFA1dSV1) | 3:19 | 2024-08-05 |  |
+| [Atmosphere](https://open.spotify.com/track/0K6j9TthnI8F4uvt4ecI1d) | [Zeltak](https://open.spotify.com/artist/7abM3xmXx55x7dQZot1Dpd), [HOEHENANGST](https://open.spotify.com/artist/5Th92yptJHxyXDEgc5qtQl) | [Atmosphere](https://open.spotify.com/album/2KO4aVMoXCnZyCGlJDzXLv) | 4:57 | 2024-09-06 |  |
 | [Aural Exciter \- Original Mix](https://open.spotify.com/track/5jk06siNYQ9lK5ba3qAC7B) | [Glenn Wilson](https://open.spotify.com/artist/1k0bnsqmUolxbTWG00U8Zb), [Mike Humphries](https://open.spotify.com/artist/1N1e7TFA0jcGad0NlnlMP1) | [Aural Exciter \- The Remixes](https://open.spotify.com/album/6RopaDNX28CL1wdag8gzmk) | 5:20 | 2024-08-13 |  |
 | [Bang Bang Bang](https://open.spotify.com/track/1vwCoX1Pi1pRd6ufweSSc7) | [SIKOTI](https://open.spotify.com/artist/7qWvKoQVe3UdZhG9clKb1y) | [Save Yourself](https://open.spotify.com/album/7z3b4hNGlm067JLa44sujv) | 5:08 | 2024-04-09 |  |
 | [Because They Want Our Seat](https://open.spotify.com/track/4zr7hfFkbtPBUc9c1CeJN6) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S) | [Because They Want Our Seat](https://open.spotify.com/album/1caYLb8S3J4A2IdGzxXRV9) | 3:51 | 2024-09-06 |  |
@@ -85,9 +86,10 @@
 | [Infinity](https://open.spotify.com/track/0KDuVPUR7GuxuOYHJNWEpm) | [LESSSS](https://open.spotify.com/artist/5Os2nUALInDs7MyexVNwrm), [MKRS](https://open.spotify.com/artist/4bJxDOPHGfSNDiOyWfwInJ) | [Infinity](https://open.spotify.com/album/3Otf7rdpoE0oJsyQCd1lB6) | 4:38 | 2024-04-09 |  |
 | [INKAKKEN, BIJPAKKEN](https://open.spotify.com/track/3eQHuognmS2YNbsp5MfmkE) | [DIKKE BAAP](https://open.spotify.com/artist/1vYoGQIgamBW4S335Q0EHb), [Kale Toeter](https://open.spotify.com/artist/6KyR8VRv66fdTFQRlOYSSo) | [INKAKKEN, BIJPAKKEN](https://open.spotify.com/album/1uDdzcp7ZDVFk2dlwWAolb) | 2:10 | 2024-04-09 |  |
 | [introvert problems](https://open.spotify.com/track/7HWpCIF5sfiTcO8DOEp0bg) | [AADJA](https://open.spotify.com/artist/5HPEhGfMkvCmtIiSaSIRmt) | [pyrocbs](https://open.spotify.com/album/4FAQ8phkHnpsmqrQHPbVPJ) | 3:51 | 2024-04-09 | 2024-05-14 |
+| [Legacy](https://open.spotify.com/track/0aMonkh8OKgqx1K0viRHRT) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK) | [Legacy](https://open.spotify.com/album/3e337N4JrILh8eZsyjAL2b) | 6:49 | 2024-09-11 |  |
 | [Les kassos](https://open.spotify.com/track/58JZ6rp2DWa5HbKwhneAs3) | [Darktek](https://open.spotify.com/artist/6KjX86OwTOcAlbcVNVcjsh) | [Fuck Off](https://open.spotify.com/album/2X2NdphQiFadhokXq1VqdK) | 4:07 | 2024-04-09 | 2024-05-03 |
 | [Let's go](https://open.spotify.com/track/64o22Tm6YLaHqEwXbWYqZp) | [DONGURIZU](https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v) | [DONGRHYTHM](https://open.spotify.com/album/24wuIBwGVSr5BuE4SAZVPP) | 2:26 | 2024-08-02 |  |
-| [Levada](https://open.spotify.com/track/4jyL6lRVTyh2j67ObJ0EUH) | [Sopik](https://open.spotify.com/artist/0uiVxrM68v5NoVFPQshjtm) | [Levada](https://open.spotify.com/album/79rTwf4jIYHIRhLmat4q7Y) | 5:16 | 2024-06-18 |  |
+| [Levada](https://open.spotify.com/track/4jyL6lRVTyh2j67ObJ0EUH) | [Sopik](https://open.spotify.com/artist/0uiVxrM68v5NoVFPQshjtm) | [Levada](https://open.spotify.com/album/79rTwf4jIYHIRhLmat4q7Y) | 5:16 | 2024-06-18 | 2024-09-12 |
 | [Limbo](https://open.spotify.com/track/1X1FUGCW2OWcjFRwfL9G56) | [Estella Boersma](https://open.spotify.com/artist/4UCy3TOuu2eA6zNY50JQSV) | [Limbo](https://open.spotify.com/album/438pm70Wvf2G88ZnI9C7Zl) | 4:52 | 2024-06-06 | 2024-08-06 |
 | [Looking 4 Balance](https://open.spotify.com/track/4hiSM6rPD1vv2c4Td9ShFS) | [Regal](https://open.spotify.com/artist/10RlWd6mCUDiRpQ30bGL2E) | [Various Artists \- EP 3](https://open.spotify.com/album/7Drk0jXeEUhOkK7ohIZlil) | 6:22 | 2024-04-09 | 2024-08-14 |
 | [Lose Their Shit](https://open.spotify.com/track/0L94j90lQBZ1VOyAcBnyXp) | [Per Pleks](https://open.spotify.com/artist/2R3wb1vbfcX7igEpay4uPV), [Dottychu](https://open.spotify.com/artist/6yjC123viK1Ap6KEdPRyIm) | [Lose Their Shit \(feat\. Dottychu\)](https://open.spotify.com/album/0oXbCQU7Ophzv84gWr1Cqs) | 3:15 | 2024-07-14 |  |
@@ -121,7 +123,7 @@
 | [Profiler](https://open.spotify.com/track/2tjv041ykwK3QzDLE4AalM) | [Ueberrest](https://open.spotify.com/artist/7JipAMuZSlPJtbRVbi5vnS) | [R009](https://open.spotify.com/album/65B1Fmg0fpHhJmcpnQbSLD) | 6:08 | 2024-04-09 | 2024-07-15 |
 | [Psychotic Mind](https://open.spotify.com/track/6O3Aqqdc4IaSGwNWIfV8bN) | [Zentryc](https://open.spotify.com/artist/1C0qYaeK3MtaDfOWbOnme7), [CDRC](https://open.spotify.com/artist/5zt6G9G28RL3JmkiUiNZCY) | [Psychotic Mind](https://open.spotify.com/album/2RqwbCQR1obP0cIQTkcbRW) | 5:15 | 2024-04-09 | 2024-06-17 |
 | [Purple Widow](https://open.spotify.com/track/04GyfkxwKrbaa9qrZTu3Pa) | [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S) | [Purple Widow \(Original & Remix Versions\)](https://open.spotify.com/album/1u7qntdMJydlDDUPcO27At) | 6:21 | 2024-04-09 |  |
-| [Queen of the Banshees \- Nico Moreno Remix](https://open.spotify.com/track/1RM4nxRkTwXtOKilbWtsKk) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S) | [Queen of the Banshees](https://open.spotify.com/album/7zJn0dr5wJ5mukKnceLiJA) | 5:42 | 2024-04-09 |  |
+| [Queen of the Banshees \- Nico Moreno Remix](https://open.spotify.com/track/1RM4nxRkTwXtOKilbWtsKk) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S) | [Queen of the Banshees](https://open.spotify.com/album/7zJn0dr5wJ5mukKnceLiJA) | 5:42 | 2024-04-09 | 2024-09-12 |
 | [Rage Power](https://open.spotify.com/track/0PX8SXZQLoEKhqdTbCTWhv) | [Stan Christ](https://open.spotify.com/artist/0aby7MYHsm3JS0eSifxu3I), [Zeltak](https://open.spotify.com/artist/7abM3xmXx55x7dQZot1Dpd) | [Rage Power](https://open.spotify.com/album/1CNDOIgDMn3zc77HWT4mOh) | 5:23 | 2024-04-09 | 2024-07-04 |
 | [Ragnarok](https://open.spotify.com/track/7be4su6lYXFKd6Ol77Uzj4) | [BYØRN](https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD) | [Ragnarok](https://open.spotify.com/album/5puvUwsPPI4LCyZSBm1i10) | 5:15 | 2024-05-22 |  |
 | [Rave 4 love](https://open.spotify.com/track/4sGzJs8jikSDbnpN0vXsuO) | [999999999](https://open.spotify.com/artist/6uD2LjPHUjxrpax0se17Nc) | [Rave 4 love](https://open.spotify.com/album/55Xq8cuPZ1qPTijcDm4qsU) | 5:01 | 2024-04-09 |  |

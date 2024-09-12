@@ -1,6 +1,6 @@
 {
   "description": "let the dj set u free",
-  "num_followers": 225480,
+  "num_followers": 225529,
   "original_name": "crying on the dance floor",
   "owner": {
     "name": "Spotify",
@@ -1003,18 +1003,22 @@
     {
       "added_at": "2024-09-06 16:02:49",
       "album": {
-        "name": "Lose It All (I Don't Wanna)",
-        "url": "https://open.spotify.com/album/2oYcDcUIFEuqhDp2wIHx34"
+        "name": "The Last Goodbye",
+        "url": "https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2"
       },
       "artists": [
         {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "Bettye LaVette",
+          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
         }
       ],
-      "duration_ms": 139071,
-      "name": "Lose It All (I Don't Wanna)",
-      "url": "https://open.spotify.com/track/6FWAIkMvnS0ABEdBKcIp5K"
+      "duration_ms": 358983,
+      "name": "The Last Goodbye",
+      "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
     },
     {
       "added_at": "2024-09-06 16:02:49",
@@ -1035,22 +1039,18 @@
     {
       "added_at": "2024-09-06 16:02:49",
       "album": {
-        "name": "The Last Goodbye",
-        "url": "https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2"
+        "name": "Lose It All (I Don't Wanna)",
+        "url": "https://open.spotify.com/album/2oYcDcUIFEuqhDp2wIHx34"
       },
       "artists": [
         {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        },
-        {
-          "name": "Bettye LaVette",
-          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
         }
       ],
-      "duration_ms": 358983,
-      "name": "The Last Goodbye",
-      "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
+      "duration_ms": 139071,
+      "name": "Lose It All (I Don't Wanna)",
+      "url": "https://open.spotify.com/track/6FWAIkMvnS0ABEdBKcIp5K"
     },
     {
       "added_at": "2024-09-06 16:02:49",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-09-06 16:02:49",
       "album": {
-        "name": "Kratos (A Little Closer)",
-        "url": "https://open.spotify.com/album/5pFCMAphKik56FTRTgLgqh"
-      },
-      "artists": [
-        {
-          "name": "Alex LeMirage",
-          "url": "https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Kratos (A Little Closer)",
-      "url": "https://open.spotify.com/track/5xblvfji6HaQl7L4OwBMsm"
-    },
-    {
-      "added_at": "2024-09-06 16:02:49",
-      "album": {
         "name": "BRONSON",
         "url": "https://open.spotify.com/album/7zUK6seRiiD2x2HhzOLdrg"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 209600,
       "name": "HEART ATTACK",
       "url": "https://open.spotify.com/track/4F8wogXmIgCXEsi1FK0gH4"
+    },
+    {
+      "added_at": "2024-09-06 16:02:49",
+      "album": {
+        "name": "Kratos (A Little Closer)",
+        "url": "https://open.spotify.com/album/5pFCMAphKik56FTRTgLgqh"
+      },
+      "artists": [
+        {
+          "name": "Alex LeMirage",
+          "url": "https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Kratos (A Little Closer)",
+      "url": "https://open.spotify.com/track/5xblvfji6HaQl7L4OwBMsm"
     },
     {
       "added_at": "2024-09-06 16:02:49",
@@ -1363,6 +1363,26 @@
     {
       "added_at": "2024-09-06 16:02:49",
       "album": {
+        "name": "Mid Air",
+        "url": "https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        },
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 234053,
+      "name": "Strong",
+      "url": "https://open.spotify.com/track/6P10HAaNFfKsdWPJyKd6Di"
+    },
+    {
+      "added_at": "2024-09-06 16:02:49",
+      "album": {
         "name": "Fade Out (with MKLA)",
         "url": "https://open.spotify.com/album/5TEJE30uV9JsEqO5oJGRtE"
       },
@@ -1383,22 +1403,18 @@
     {
       "added_at": "2024-09-06 16:02:49",
       "album": {
-        "name": "Mid Air",
-        "url": "https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE"
+        "name": "kidsgonemad!",
+        "url": "https://open.spotify.com/album/2rMP8tQaoWn14zQM2zUOzG"
       },
       "artists": [
         {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
-        },
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
         }
       ],
-      "duration_ms": 234053,
-      "name": "Strong",
-      "url": "https://open.spotify.com/track/6P10HAaNFfKsdWPJyKd6Di"
+      "duration_ms": 241714,
+      "name": "how2fly",
+      "url": "https://open.spotify.com/track/2fga4JgHuq91W9HiTfo9GC"
     },
     {
       "added_at": "2024-09-06 16:02:49",
@@ -1431,22 +1447,6 @@
       "duration_ms": 257299,
       "name": "Lone Raver",
       "url": "https://open.spotify.com/track/06r5aMZ8cT6wZXcEyqOLH4"
-    },
-    {
-      "added_at": "2024-09-06 16:02:49",
-      "album": {
-        "name": "kidsgonemad!",
-        "url": "https://open.spotify.com/album/2rMP8tQaoWn14zQM2zUOzG"
-      },
-      "artists": [
-        {
-          "name": "ISOxo",
-          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
-        }
-      ],
-      "duration_ms": 241714,
-      "name": "how2fly",
-      "url": "https://open.spotify.com/track/2fga4JgHuq91W9HiTfo9GC"
     },
     {
       "added_at": "2024-09-06 16:02:49",
@@ -1507,26 +1507,6 @@
     {
       "added_at": "2024-09-06 16:02:49",
       "album": {
-        "name": "Forever In My Mind",
-        "url": "https://open.spotify.com/album/0C20miwgWYO2hHrw66OmYW"
-      },
-      "artists": [
-        {
-          "name": "Madism",
-          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
-        },
-        {
-          "name": "LPW",
-          "url": "https://open.spotify.com/artist/22fLwOqQV0IYn4GTTfg4Ha"
-        }
-      ],
-      "duration_ms": 152610,
-      "name": "Forever In My Mind",
-      "url": "https://open.spotify.com/track/6R0nFHrfq2iCJ1yeWn5IGB"
-    },
-    {
-      "added_at": "2024-09-06 16:02:49",
-      "album": {
         "name": "Little Planets - Remix",
         "url": "https://open.spotify.com/album/1jyr9byDQASsa5aR5oQbqg"
       },
@@ -1543,6 +1523,26 @@
       "duration_ms": 240000,
       "name": "Little Planets - Remix",
       "url": "https://open.spotify.com/track/0kfNu4qJOo7vgRWDCnMiBa"
+    },
+    {
+      "added_at": "2024-09-06 16:02:49",
+      "album": {
+        "name": "Forever In My Mind",
+        "url": "https://open.spotify.com/album/0C20miwgWYO2hHrw66OmYW"
+      },
+      "artists": [
+        {
+          "name": "Madism",
+          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
+        },
+        {
+          "name": "LPW",
+          "url": "https://open.spotify.com/artist/22fLwOqQV0IYn4GTTfg4Ha"
+        }
+      ],
+      "duration_ms": 152610,
+      "name": "Forever In My Mind",
+      "url": "https://open.spotify.com/track/6R0nFHrfq2iCJ1yeWn5IGB"
     },
     {
       "added_at": "2024-09-06 16:02:49",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2024-09-06 16:02:49",
       "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 448800,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/56jH9iqA8f2kwaoK8103hu"
+    },
+    {
+      "added_at": "2024-09-06 16:02:49",
+      "album": {
         "name": "Peace In Silence",
         "url": "https://open.spotify.com/album/2HWW3aVU03g1T6cuHqs3kx"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 130285,
       "name": "Peace In Silence",
       "url": "https://open.spotify.com/track/1GsurkwM6YwfQ9rNr14Of8"
-    },
-    {
-      "added_at": "2024-09-06 16:02:49",
-      "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 448800,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/56jH9iqA8f2kwaoK8103hu"
     },
     {
       "added_at": "2024-09-06 16:02:49",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2024-09-06 16:02:49",
       "album": {
-        "name": "Next to Me",
-        "url": "https://open.spotify.com/album/4g7tDntrExaV34ee2yU4jN"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 314389,
-      "name": "Next to Me",
-      "url": "https://open.spotify.com/track/0sDL6c7BZGffS71ICuJqF4"
-    },
-    {
-      "added_at": "2024-09-06 16:02:49",
-      "album": {
         "name": "Paradise Again",
         "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 275828,
       "name": "Calling On",
       "url": "https://open.spotify.com/track/6ByN6v7D5YUogv622VMGrk"
+    },
+    {
+      "added_at": "2024-09-06 16:02:49",
+      "album": {
+        "name": "Next to Me",
+        "url": "https://open.spotify.com/album/4g7tDntrExaV34ee2yU4jN"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 314389,
+      "name": "Next to Me",
+      "url": "https://open.spotify.com/track/0sDL6c7BZGffS71ICuJqF4"
     },
     {
       "added_at": "2024-09-06 16:02:49",
@@ -1903,18 +1903,22 @@
     {
       "added_at": "2024-09-06 16:02:49",
       "album": {
-        "name": "Discipline",
-        "url": "https://open.spotify.com/album/4N0eQEqf5YaMlGQ3VyFRRq"
+        "name": "SAVE ME",
+        "url": "https://open.spotify.com/album/4IHs5K9AlUPG2jNNlNR84l"
       },
       "artists": [
         {
-          "name": "Petit Biscuit",
-          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
+          "name": "Boston Bun",
+          "url": "https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5"
+        },
+        {
+          "name": "Bag Raiders",
+          "url": "https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46"
         }
       ],
-      "duration_ms": 213106,
-      "name": "Cruel Heart",
-      "url": "https://open.spotify.com/track/1xpSTNyLKRqHKHvBVLXYma"
+      "duration_ms": 216960,
+      "name": "SAVE ME",
+      "url": "https://open.spotify.com/track/0TsJzxDrjLNs6szBrho1dG"
     },
     {
       "added_at": "2024-09-06 16:02:49",
@@ -1935,22 +1939,18 @@
     {
       "added_at": "2024-09-06 16:02:49",
       "album": {
-        "name": "SAVE ME",
-        "url": "https://open.spotify.com/album/4IHs5K9AlUPG2jNNlNR84l"
+        "name": "Discipline",
+        "url": "https://open.spotify.com/album/4N0eQEqf5YaMlGQ3VyFRRq"
       },
       "artists": [
         {
-          "name": "Boston Bun",
-          "url": "https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5"
-        },
-        {
-          "name": "Bag Raiders",
-          "url": "https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46"
+          "name": "Petit Biscuit",
+          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
         }
       ],
-      "duration_ms": 216960,
-      "name": "SAVE ME",
-      "url": "https://open.spotify.com/track/0TsJzxDrjLNs6szBrho1dG"
+      "duration_ms": 213106,
+      "name": "Cruel Heart",
+      "url": "https://open.spotify.com/track/1xpSTNyLKRqHKHvBVLXYma"
     },
     {
       "added_at": "2024-09-06 16:02:49",
@@ -2023,30 +2023,6 @@
     {
       "added_at": "2024-09-06 16:02:49",
       "album": {
-        "name": "Felt A Little Like",
-        "url": "https://open.spotify.com/album/0KRqWwLm35hlggcVVUkpu1"
-      },
-      "artists": [
-        {
-          "name": "James Carter",
-          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
-        },
-        {
-          "name": "Dillistone",
-          "url": "https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33"
-        },
-        {
-          "name": "Tiffany Aris",
-          "url": "https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo"
-        }
-      ],
-      "duration_ms": 217036,
-      "name": "Felt A Little Like",
-      "url": "https://open.spotify.com/track/59UH0rSIE50SCvvj2FNGKv"
-    },
-    {
-      "added_at": "2024-09-06 16:02:49",
-      "album": {
         "name": "It Isn't Easy (feat. EKKSTACY)",
         "url": "https://open.spotify.com/album/6P0yh6kSLJx1S4i48gbyJ2"
       },
@@ -2071,6 +2047,30 @@
     {
       "added_at": "2024-09-06 16:02:49",
       "album": {
+        "name": "Felt A Little Like",
+        "url": "https://open.spotify.com/album/0KRqWwLm35hlggcVVUkpu1"
+      },
+      "artists": [
+        {
+          "name": "James Carter",
+          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
+        },
+        {
+          "name": "Dillistone",
+          "url": "https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33"
+        },
+        {
+          "name": "Tiffany Aris",
+          "url": "https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo"
+        }
+      ],
+      "duration_ms": 217036,
+      "name": "Felt A Little Like",
+      "url": "https://open.spotify.com/track/59UH0rSIE50SCvvj2FNGKv"
+    },
+    {
+      "added_at": "2024-09-06 16:02:49",
+      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/2qzCGspVB8DdrxAmZVzTKO"
       },
@@ -2083,38 +2083,6 @@
       "duration_ms": 224809,
       "name": "Lost",
       "url": "https://open.spotify.com/track/0cFXO8OMdeLeShQoEp7pxi"
-    },
-    {
-      "added_at": "2024-09-06 16:02:49",
-      "album": {
-        "name": "Too Many Questions",
-        "url": "https://open.spotify.com/album/5jsJKDav4rpuCCuB6xfn30"
-      },
-      "artists": [
-        {
-          "name": "NERO",
-          "url": "https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD"
-        }
-      ],
-      "duration_ms": 218181,
-      "name": "Too Many Questions",
-      "url": "https://open.spotify.com/track/6wgL6APgOeanSa2rocFeZY"
-    },
-    {
-      "added_at": "2024-09-06 16:02:49",
-      "album": {
-        "name": "STAMINA",
-        "url": "https://open.spotify.com/album/6zMT3Yq5tATdh6qAPB7IuK"
-      },
-      "artists": [
-        {
-          "name": "EVAN GIIA",
-          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "SOMETIMES I NEED TO YELL",
-      "url": "https://open.spotify.com/track/6dXe3JfA0UVh0PtS6PoB8k"
     },
     {
       "added_at": "2024-09-06 16:02:49",
@@ -2139,6 +2107,22 @@
     {
       "added_at": "2024-09-06 16:02:49",
       "album": {
+        "name": "Too Many Questions",
+        "url": "https://open.spotify.com/album/5jsJKDav4rpuCCuB6xfn30"
+      },
+      "artists": [
+        {
+          "name": "NERO",
+          "url": "https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD"
+        }
+      ],
+      "duration_ms": 218181,
+      "name": "Too Many Questions",
+      "url": "https://open.spotify.com/track/6wgL6APgOeanSa2rocFeZY"
+    },
+    {
+      "added_at": "2024-09-06 16:02:49",
+      "album": {
         "name": "THERE 4 U",
         "url": "https://open.spotify.com/album/0lSwV1L7rakokVE9Uny2Nf"
       },
@@ -2151,6 +2135,22 @@
       "duration_ms": 200000,
       "name": "THERE 4 U",
       "url": "https://open.spotify.com/track/214XTwNwwp16zM1id05Xxj"
+    },
+    {
+      "added_at": "2024-09-06 16:02:49",
+      "album": {
+        "name": "STAMINA",
+        "url": "https://open.spotify.com/album/6zMT3Yq5tATdh6qAPB7IuK"
+      },
+      "artists": [
+        {
+          "name": "EVAN GIIA",
+          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "SOMETIMES I NEED TO YELL",
+      "url": "https://open.spotify.com/track/6dXe3JfA0UVh0PtS6PoB8k"
     },
     {
       "added_at": "2024-09-06 16:02:49",
@@ -2187,6 +2187,22 @@
     {
       "added_at": "2024-09-06 16:02:49",
       "album": {
+        "name": "Visage 6 (Never Loved)",
+        "url": "https://open.spotify.com/album/577ICRjIydiQOkjRzKkGNX"
+      },
+      "artists": [
+        {
+          "name": "Massane",
+          "url": "https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz"
+        }
+      ],
+      "duration_ms": 253780,
+      "name": "Never Loved",
+      "url": "https://open.spotify.com/track/0meP7qfCsxGij4zDvQPDxd"
+    },
+    {
+      "added_at": "2024-09-06 16:02:49",
+      "album": {
         "name": "somewhere i never know",
         "url": "https://open.spotify.com/album/6wGCqXtQyHBZyNTE0bxLvi"
       },
@@ -2203,22 +2219,6 @@
       "duration_ms": 125454,
       "name": "somewhere i never know",
       "url": "https://open.spotify.com/track/3bXFlVhSzkolyOC0qZWHtX"
-    },
-    {
-      "added_at": "2024-09-06 16:02:49",
-      "album": {
-        "name": "Visage 6 (Never Loved)",
-        "url": "https://open.spotify.com/album/577ICRjIydiQOkjRzKkGNX"
-      },
-      "artists": [
-        {
-          "name": "Massane",
-          "url": "https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz"
-        }
-      ],
-      "duration_ms": 253780,
-      "name": "Never Loved",
-      "url": "https://open.spotify.com/track/0meP7qfCsxGij4zDvQPDxd"
     },
     {
       "added_at": "2024-09-06 16:02:49",

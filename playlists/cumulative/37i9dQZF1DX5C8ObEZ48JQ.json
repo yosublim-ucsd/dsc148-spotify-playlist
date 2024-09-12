@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "The best new music by independent African artists and labels. Cover:  <a href=\"https://open.spotify.com/artist/7qSWBbKrqf8gIGvvZLY2KG?si=3wkD1iK5QgWjudPB0-KxWg\">Sishii</a>. Artwork: Isu Kim. ",
+  "description": "The best new music by independent African artists and labels. Cover:  <a href=\"https://open.spotify.com/artist/6MafTIO7KWHWHXx1L39BDx?si=CLtzdsdOQiWCS9G3SN3J1Q\">Yamiko</a>. Artwork: Isu Kim. ",
   "name": "Fresh Finds Africa",
   "tracks": [
     {
@@ -1222,6 +1222,28 @@
       "duration_ms": 137472,
       "name": "Assignment",
       "url": "https://open.spotify.com/track/1Crv7EI1sdcy07OlvvoA2Y"
+    },
+    {
+      "album": {
+        "name": "ASSUMPTIONS",
+        "url": "https://open.spotify.com/album/4nMwIUlOAHwqIDVaMgMv1C"
+      },
+      "artists": [
+        {
+          "name": "Sipho the Gift",
+          "url": "https://open.spotify.com/artist/3UJed0SE76dXKWetExB4F8"
+        },
+        {
+          "name": "PDOT O",
+          "url": "https://open.spotify.com/artist/7KAvy18LeTZXBZhYxfqN3l"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "ASSUMPTIONS",
+      "url": "https://open.spotify.com/track/5LbwNe7yhEb341wLcvCnh6"
     },
     {
       "album": {
@@ -2494,7 +2516,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-05",
+      "date_removed": null,
       "duration_ms": 206911,
       "name": "boy scout",
       "url": "https://open.spotify.com/track/1NIuTnph0Svk9KH8l1w3IT"
@@ -5704,6 +5726,24 @@
       "duration_ms": 184000,
       "name": "Falling",
       "url": "https://open.spotify.com/track/6drtB7tFWbtKvp4QikYuTo"
+    },
+    {
+      "album": {
+        "name": "falling in love",
+        "url": "https://open.spotify.com/album/0KaGZZ7MjQdrVAy7ZGorFs"
+      },
+      "artists": [
+        {
+          "name": "Leia",
+          "url": "https://open.spotify.com/artist/3EgA3HOFNXFF4bTmDAGzqI"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205090,
+      "name": "falling",
+      "url": "https://open.spotify.com/track/2CZS9mJns7gUtACHBw2dYl"
     },
     {
       "album": {
@@ -16019,6 +16059,28 @@
     },
     {
       "album": {
+        "name": "Finally Found Her",
+        "url": "https://open.spotify.com/album/4plY4J9jXwF5AwDbZwtsYF"
+      },
+      "artists": [
+        {
+          "name": "Halo Yagami",
+          "url": "https://open.spotify.com/artist/3boR2ULQR1CX6TUBboHctW"
+        },
+        {
+          "name": "Shekhinah",
+          "url": "https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224263,
+      "name": "Sleepyhead",
+      "url": "https://open.spotify.com/track/09WjXUwLRqJc34xz7OFeak"
+    },
+    {
+      "album": {
         "name": "Slow",
         "url": "https://open.spotify.com/album/0GNeksC7xMQxGc9z4Y6rpL"
       },
@@ -16588,6 +16650,24 @@
       "duration_ms": 229541,
       "name": "Space Roof",
       "url": "https://open.spotify.com/track/4ngIqWBpc55oP0F0h0Im9X"
+    },
+    {
+      "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/1Khrq0VrvwzxhY5gZlsQLT"
+      },
+      "artists": [
+        {
+          "name": "Toy\u00e9",
+          "url": "https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134172,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/77jS1yL8OuZjXP2omoc7Bf"
     },
     {
       "album": {
@@ -18179,6 +18259,24 @@
     },
     {
       "album": {
+        "name": "Took Me For A Nai",
+        "url": "https://open.spotify.com/album/6vc3D35aDIr4sZFicZ00gf"
+      },
+      "artists": [
+        {
+          "name": "Blue Pappi",
+          "url": "https://open.spotify.com/artist/3s08T4PFTVRjVPwgkhNq6D"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133524,
+      "name": "Took Me For A Nai",
+      "url": "https://open.spotify.com/track/6TffFYos6mnj9Os1nTac4m"
+    },
+    {
+      "album": {
         "name": "TopTier",
         "url": "https://open.spotify.com/album/2a3aELls3SgvQSHaCJO5Me"
       },
@@ -19560,6 +19658,28 @@
       "duration_ms": 181743,
       "name": "WHATIF?",
       "url": "https://open.spotify.com/track/2aqfZ5MEY0ZXAMYewiO1V0"
+    },
+    {
+      "album": {
+        "name": "When You're Around",
+        "url": "https://open.spotify.com/album/3RIGb42y1erPlKLH1qcSec"
+      },
+      "artists": [
+        {
+          "name": "Lusanda",
+          "url": "https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz"
+        },
+        {
+          "name": "Noxz",
+          "url": "https://open.spotify.com/artist/4gQHI7uYzGmbD7BRBtFLO2"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197027,
+      "name": "When You're Around",
+      "url": "https://open.spotify.com/track/32RZgcuKaGBZeSZFCjqekc"
     },
     {
       "album": {

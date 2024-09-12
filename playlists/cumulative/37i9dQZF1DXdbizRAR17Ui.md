@@ -4,7 +4,7 @@
 
 > When the night isn't over just yet.
 
-344 songs - 1 day 0 hr 1 min
+345 songs - 1 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Contact \- Karen Nyame KG Remix](https://open.spotify.com/track/6iJnmbCDoNWdnDeEFudk1f) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [Karen Nyame KG](https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz) | [Contact \(Karen Nyame KG Remix\)](https://open.spotify.com/album/3zMv67VTQVoh9lmEax4giy) | 4:29 | 2023-10-20 |  |
 | [Control](https://open.spotify.com/track/0C13caBkmVXP2UMSZN4fy4) | [Does it matter](https://open.spotify.com/artist/00fhyHwDkhykp7qxLsbvch) | [Control](https://open.spotify.com/album/4RcwY3VN7xzksIegr04fph) | 2:05 | 2024-01-05 | 2024-03-01 |
 | [Cosmos \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/1E5y9PZLIAngpD0L699Ul9) | [Paul Epworth](https://open.spotify.com/artist/04ouBKIoUizgF9j6v6TWR8), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Voyager](https://open.spotify.com/album/6inskjOXMnEFnxt0QUFFYu) | 3:49 | 2021-11-24 | 2022-07-25 |
+| [could you not go?](https://open.spotify.com/track/7KZ9PE9btCfgqqhMGDh7P6) | [Vaarwell](https://open.spotify.com/artist/7jz4ptH9vUGJdMpKFryEEG) | [could you not go?](https://open.spotify.com/album/7qE5I0RQDSp3xt5QYPMuF1) | 2:47 | 2024-08-22 |  |
 | [Cruise](https://open.spotify.com/track/6wmR2TU2ke8vQP5Hv8TsVq) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [Cruise](https://open.spotify.com/album/2SalYuSmYNeLhZ4Eu70v7U) | 2:55 | 2024-07-05 |  |
 | [Crush](https://open.spotify.com/track/58Fkphee9r7xCQmKj4SMar) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Crush](https://open.spotify.com/album/7GFnomhPOTcD3hexX6GNRn) | 4:59 | 2024-04-04 | 2024-07-12 |
 | [Curves](https://open.spotify.com/track/14gFoEG2vJmqM7LaYRJ49m) | [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs) | [Infinite Falling Ground Pt.2](https://open.spotify.com/album/1uCUD9nJxidOu4zhKBm3m3) | 3:17 | 2024-08-22 |  |
@@ -305,7 +306,7 @@
 | [Sun\_3hd](https://open.spotify.com/track/3SZNh86XYkpDumjfWaV1b0) | [Rein](https://open.spotify.com/artist/5RUjaQZcU0IX0ayjFQrQQt) | [Sun\_3hd](https://open.spotify.com/album/1h9XUarVfrkzHUk350s4K1) | 6:16 | 2021-11-24 | 2022-07-29 |
 | [Sunshine](https://open.spotify.com/track/3c7s8EXeQpSRfy9UtZ6lN5) | [Surya Sen](https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap) | [Sunshine](https://open.spotify.com/album/27WtbsG9A8Rnaru5BG9ew2) | 2:19 | 2024-08-16 |  |
 | [Swarm](https://open.spotify.com/track/24RVLhKVJv7jivoVTTQhD3) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Swarm](https://open.spotify.com/album/7lQ7md6HKhxlI9Axyw4d8Y) | 4:28 | 2021-11-24 | 2022-05-31 |
-| [Swim](https://open.spotify.com/track/76jLlcqIuqBv3SXx5fcnfW) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Swim](https://open.spotify.com/album/7tkmjD2hcGbjZvHhpQnLBI) | 4:03 | 2024-06-07 |  |
+| [Swim](https://open.spotify.com/track/76jLlcqIuqBv3SXx5fcnfW) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Swim](https://open.spotify.com/album/7tkmjD2hcGbjZvHhpQnLBI) | 4:03 | 2024-06-07 | 2024-09-12 |
 | [Swim](https://open.spotify.com/track/7I1e5uMItJ9kiTWFyUayVs) | [Hugo Mari](https://open.spotify.com/artist/6BmSO09b1cngqE8X2SEygU) | [Swim](https://open.spotify.com/album/1DEJoLpHJgQrKW4g6OtNSp) | 4:12 | 2021-11-24 | 2022-01-08 |
 | [Tahara](https://open.spotify.com/track/4HDyneNRqT6teWLfG5CQ1x) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Tahara](https://open.spotify.com/album/7evkhN1L2LeQjCm1IaCNzS) | 3:33 | 2022-04-21 | 2023-07-28 |
 | [Tastes Like Freedom \- Carista Remix](https://open.spotify.com/track/6g6KLTBmnhBgW77yjuybp3) | [30/70](https://open.spotify.com/artist/2hmDAP9qrP22L93Pbq7FWM), [Carista](https://open.spotify.com/artist/7HbRQEEsvAKurr1v8YjwzZ) | [Tastes Like Freedom: Remixed](https://open.spotify.com/album/3ptgEd1eqt661mb8uCunB1) | 4:54 | 2021-11-24 | 2022-07-29 |
