@@ -540,7 +540,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 147000,
       "name": "Amores de Gueto",
       "url": "https://open.spotify.com/track/2ogA4W2dip7mxKh8ZgWJvt"
@@ -3640,7 +3640,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 175227,
       "name": "Energia",
       "url": "https://open.spotify.com/track/0R62ZmwVNA6vB7SDCcVV90"
@@ -3910,6 +3910,28 @@
       "duration_ms": 270175,
       "name": "Essa Daqui Vira Trend",
       "url": "https://open.spotify.com/track/6gAD9BkdcEXM9X3ObuuWjC"
+    },
+    {
+      "album": {
+        "name": "Essa Vibe",
+        "url": "https://open.spotify.com/album/62av27NXYlmZjwu046ym0e"
+      },
+      "artists": [
+        {
+          "name": "Rare G",
+          "url": "https://open.spotify.com/artist/2D0VerErpBua0yB6lozwRH"
+        },
+        {
+          "name": "BIDUZEN",
+          "url": "https://open.spotify.com/artist/20tJsPo3GVroZHlbdXJ7nX"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176385,
+      "name": "Essa Vibe",
+      "url": "https://open.spotify.com/track/20wWyjgqTyfP9V8AJEAHvQ"
     },
     {
       "album": {
@@ -7979,6 +8001,28 @@
     },
     {
       "album": {
+        "name": "Forma Pura",
+        "url": "https://open.spotify.com/album/6sCFlHRqSZ87Xs9yfX04uG"
+      },
+      "artists": [
+        {
+          "name": "Elo Da Corrente",
+          "url": "https://open.spotify.com/artist/208xLawVEQeZUnQe2FKrZe"
+        },
+        {
+          "name": "BEATDOMK",
+          "url": "https://open.spotify.com/artist/3skj2KZCvizGrCwYD03ApC"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189656,
+      "name": "Nada Mais",
+      "url": "https://open.spotify.com/track/4RPwV1PmBnHMCiwZXNvfoq"
+    },
+    {
+      "album": {
         "name": "NEM SEI",
         "url": "https://open.spotify.com/album/1neIGYEI8oVsVA7uGzUJ4m"
       },
@@ -9574,7 +9618,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 126000,
       "name": "Pertenceu",
       "url": "https://open.spotify.com/track/4rAvTHbGSpgedU3WFr5jpi"
@@ -9662,6 +9706,28 @@
       "duration_ms": 160191,
       "name": "Pintura",
       "url": "https://open.spotify.com/track/285o7txLC8FRxF2nBxyu9W"
+    },
+    {
+      "album": {
+        "name": "PIRANHA",
+        "url": "https://open.spotify.com/album/6Z4aNGAfMAyinhf6wcosiq"
+      },
+      "artists": [
+        {
+          "name": "Aka Rasta",
+          "url": "https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB"
+        },
+        {
+          "name": "G.A",
+          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188244,
+      "name": "PIRANHA",
+      "url": "https://open.spotify.com/track/4GONPEUAsW33cknE8Jj4Rk"
     },
     {
       "album": {
@@ -11410,7 +11476,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 117236,
       "name": "Sentido Duplo",
       "url": "https://open.spotify.com/track/0UT8GK8wartmR4Ryrturvb"
@@ -11550,6 +11616,28 @@
       "duration_ms": 150857,
       "name": "Seu",
       "url": "https://open.spotify.com/track/20uJrdNdBRS6L1SMlaWTyR"
+    },
+    {
+      "album": {
+        "name": "Malandra",
+        "url": "https://open.spotify.com/album/5APTetqYb3l1xIUDLtOBfY"
+      },
+      "artists": [
+        {
+          "name": "Coffee Zk",
+          "url": "https://open.spotify.com/artist/1cCEQ1P7hSW7Oktxst0XzK"
+        },
+        {
+          "name": "Ozzy Mk",
+          "url": "https://open.spotify.com/artist/54sMHWIsoTDjSWdaw3kwEJ"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138285,
+      "name": "Seu Cheiro Ta Na Minha Blusa",
+      "url": "https://open.spotify.com/track/69ZY1GiPkZHZ6HCxZtMJ7r"
     },
     {
       "album": {
@@ -12166,7 +12254,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 196923,
       "name": "Taj Mahal",
       "url": "https://open.spotify.com/track/3xEeoAvid83QuD3BfFc4yK"
@@ -12532,6 +12620,40 @@
       "duration_ms": 173333,
       "name": "Tempo",
       "url": "https://open.spotify.com/track/5h2umbNHTvGiT1gE4tTFCr"
+    },
+    {
+      "album": {
+        "name": "Mem\u00f3rias de Um Quase Sempre",
+        "url": "https://open.spotify.com/album/19z34U05PsO5cXsChV3LcN"
+      },
+      "artists": [
+        {
+          "name": "Fuentx",
+          "url": "https://open.spotify.com/artist/0TcJAEvNvsyaqsdF3ncsAq"
+        },
+        {
+          "name": "Cave",
+          "url": "https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7"
+        },
+        {
+          "name": "Aka Rasta",
+          "url": "https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB"
+        },
+        {
+          "name": "Sotam",
+          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
+        },
+        {
+          "name": "Thiago Kelbert",
+          "url": "https://open.spotify.com/artist/22kCWlXVaiBMYozPgHQhZM"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278783,
+      "name": "Tempo, C\u00ea Volta?",
+      "url": "https://open.spotify.com/track/3Br6b576kRWgi4mTdzuhyQ"
     },
     {
       "album": {

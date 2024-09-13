@@ -1,12 +1,12 @@
 {
   "description": "This is Touch\u00e9 Amor\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 3561,
+  "num_followers": 3566,
   "original_name": "This Is Touch\u00e9 Amor\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zt+MAAAAAACRYi3ND2c6KlsMB9MAdjwv",
+  "snapshot_id": "ZuDdgAAAAAA3luwIdffl0wRitWCLXguT",
   "tracks": [
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Covers Vol. 1",
-        "url": "https://open.spotify.com/album/7Mb0ExnQg3xbgj9OIdhelq"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 210154,
-      "name": "Hard to Explain",
-      "url": "https://open.spotify.com/track/4Ptjci84oTDIh4iSkygdNC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "...To the Beat of a Dead Horse",
         "url": "https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1"
       },
@@ -479,6 +463,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Covers Vol. 1",
+        "url": "https://open.spotify.com/album/7Mb0ExnQg3xbgj9OIdhelq"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 210154,
+      "name": "Hard to Explain",
+      "url": "https://open.spotify.com/track/4Ptjci84oTDIh4iSkygdNC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Is Survived By (Revived [Remixed / Remastered])",
         "url": "https://open.spotify.com/album/67rHrbtzUdHMnN85yh5UxK"
       },
@@ -491,22 +491,6 @@
       "duration_ms": 177400,
       "name": "To Write Content - Revived (Remixed / Remastered)",
       "url": "https://open.spotify.com/track/0m6G3bInllyMRVfNQATn49"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Touch\u00e9 Amor\u00e9",
-        "url": "https://open.spotify.com/album/5K6eWqesCPkdNr7iiK2fnf"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 75600,
-      "name": "Negotiating the Charade",
-      "url": "https://open.spotify.com/track/7Hvl5UF5AKkQiyHL2UC5ku"
     },
     {
       "added_at": null,
@@ -543,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Is Survived By (Revived [Remixed / Remastered])",
-        "url": "https://open.spotify.com/album/67rHrbtzUdHMnN85yh5UxK"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 91906,
-      "name": "Blue Angels - Revived (Remixed / Remastered)",
-      "url": "https://open.spotify.com/track/4bBU5YMY4daFmFFxMj9q9Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dead Horse X",
         "url": "https://open.spotify.com/album/18mkStcF82XtIJT9ENw9pa"
       },
@@ -571,6 +539,22 @@
       "duration_ms": 99320,
       "name": "Cadence (Anniversary Version)",
       "url": "https://open.spotify.com/track/5wzEnAa997Py5C7jACiYr9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Is Survived By (Revived [Remixed / Remastered])",
+        "url": "https://open.spotify.com/album/67rHrbtzUdHMnN85yh5UxK"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 91906,
+      "name": "Blue Angels - Revived (Remixed / Remastered)",
+      "url": "https://open.spotify.com/track/4bBU5YMY4daFmFFxMj9q9Z"
     },
     {
       "added_at": null,
@@ -607,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Touch\u00e9 Amor\u00e9",
+        "url": "https://open.spotify.com/album/5K6eWqesCPkdNr7iiK2fnf"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 75600,
+      "name": "Negotiating the Charade",
+      "url": "https://open.spotify.com/track/7Hvl5UF5AKkQiyHL2UC5ku"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Is Survived By (Revived [Remixed / Remastered])",
         "url": "https://open.spotify.com/album/67rHrbtzUdHMnN85yh5UxK"
       },
@@ -619,22 +619,6 @@
       "duration_ms": 128946,
       "name": "DNA - Revived (Remixed / Remastered)",
       "url": "https://open.spotify.com/track/6du0m5TxO4f8vmvKmtIjPK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Searching For A Pulse/The Worth Of The World",
-        "url": "https://open.spotify.com/album/6tZip1UYmRLpKlI6wIfWQI"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 103520,
-      "name": "I'll Deserve Just That",
-      "url": "https://open.spotify.com/track/31Aw4lTh5VI3lnlifsIP4G"
     },
     {
       "added_at": null,
@@ -655,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Searching For A Pulse/The Worth Of The World",
+        "url": "https://open.spotify.com/album/6tZip1UYmRLpKlI6wIfWQI"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 103520,
+      "name": "I'll Deserve Just That",
+      "url": "https://open.spotify.com/track/31Aw4lTh5VI3lnlifsIP4G"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Crescent-Shaped Depression",
         "url": "https://open.spotify.com/album/0yReIcLlaod3FUytt1cN5o"
       },
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Searching For A Pulse/The Worth Of The World",
-        "url": "https://open.spotify.com/album/6tZip1UYmRLpKlI6wIfWQI"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 94133,
-      "name": "I'll Get My Just Deserve",
-      "url": "https://open.spotify.com/track/5qpT7CVS0r3yfGsMvI7MwS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "...To the Beat of a Dead Horse",
         "url": "https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 98517,
       "name": "Suckerfish",
       "url": "https://open.spotify.com/track/24GkGstdibYrnnhfZWsFE4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Searching For A Pulse/The Worth Of The World",
+        "url": "https://open.spotify.com/album/6tZip1UYmRLpKlI6wIfWQI"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 94133,
+      "name": "I'll Get My Just Deserve",
+      "url": "https://open.spotify.com/track/5qpT7CVS0r3yfGsMvI7MwS"
     }
   ],
   "unique_name": "This Is Touch\u00e9 Amor\u00e9",

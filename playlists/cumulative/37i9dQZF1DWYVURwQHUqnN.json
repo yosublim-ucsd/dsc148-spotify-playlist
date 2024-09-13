@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Photo : Guy2bezbar",
+  "description": "Photo : Naza x Dadi",
   "name": "Best Life",
   "tracks": [
     {
@@ -655,6 +655,28 @@
     },
     {
       "album": {
+        "name": "Coeur lourd",
+        "url": "https://open.spotify.com/album/63OKz3v3s6fubYfJ2RW725"
+      },
+      "artists": [
+        {
+          "name": "Zkr",
+          "url": "https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4"
+        },
+        {
+          "name": "Massine",
+          "url": "https://open.spotify.com/artist/6atz1NxVSI9Nk2YEnhUsFZ"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152523,
+      "name": "Coeur lourd",
+      "url": "https://open.spotify.com/track/4UQ03EmBK1VYPfTwNEPc1W"
+    },
+    {
+      "album": {
         "name": "Confidences",
         "url": "https://open.spotify.com/album/4SU8HMrBkIDyCMXj552kNE"
       },
@@ -1255,6 +1277,28 @@
     },
     {
       "album": {
+        "name": "Joie de filles (feat. Vacra)",
+        "url": "https://open.spotify.com/album/4mX4pHtUevnTpVA4C5ESVD"
+      },
+      "artists": [
+        {
+          "name": "Lacrim",
+          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
+        },
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138306,
+      "name": "Joie de filles (feat. Vacra)",
+      "url": "https://open.spotify.com/track/2JIiyXGlUn6t1yDB80ypWk"
+    },
+    {
+      "album": {
         "name": "Juste une minute",
         "url": "https://open.spotify.com/album/5qAeplYmzvfI5RQ1Jv0pNf"
       },
@@ -1654,6 +1698,28 @@
       "duration_ms": 216469,
       "name": "MA DOUCE",
       "url": "https://open.spotify.com/track/3G9yB5mhAfdq3toymB5Pug"
+    },
+    {
+      "album": {
+        "name": "TPLM",
+        "url": "https://open.spotify.com/album/32HEw0WO1on4Pe8Yx8uxac"
+      },
+      "artists": [
+        {
+          "name": "Dadi",
+          "url": "https://open.spotify.com/artist/2YRHC9O0GHvyHY38yFP434"
+        },
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152626,
+      "name": "Ma Life",
+      "url": "https://open.spotify.com/track/7yIqiHZosw9LaQ2UHRjmuN"
     },
     {
       "album": {
@@ -3464,7 +3530,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 171940,
       "name": "X-ADV",
       "url": "https://open.spotify.com/track/6dOfnTgFvwBZvFTM6jju3n"
@@ -3646,7 +3712,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 169613,
       "name": "\u00c7a va",
       "url": "https://open.spotify.com/track/0SR1xICPYYCFTAv88TyTi9"

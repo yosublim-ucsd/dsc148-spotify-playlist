@@ -2,7 +2,7 @@
 
 ### [This Is Timaya](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4iGtt9)
 
-> This Is Timaya\. Los temas esenciales, todos en una lista.
+> This is Timaya\. The essential tracks, all in one playlist.
 
 114 songs - 6 hr 17 min
 
@@ -83,7 +83,7 @@
 | [Mind over Matter \(feat\. D'banj\)](https://open.spotify.com/track/0O7UTuyxkoqTreqgognjvR) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [D'banj](https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C) | [Mind over Matter \(feat\. D'banj\)](https://open.spotify.com/album/460k6hSGCoT3Ml8dopaCVk) | 3:10 | 2021-12-28 | 2024-02-26 |
 | [My Body](https://open.spotify.com/track/3IjY93g9VbfEyLRuEeRec7) | [Solidstar](https://open.spotify.com/artist/1Nuq9WJb01OoR56vu02bhX), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Solidstar](https://open.spotify.com/album/7ArDChlfOAGE3jBOe507xq) | 3:38 | 2021-12-28 |  |
 | [My Moto](https://open.spotify.com/track/6I0yiEym3CTTYl4E8NKtk8) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [My Moto](https://open.spotify.com/album/3gIFu0CH2CiaLeOBcrP3Hq) | 2:14 | 2023-05-29 | 2024-02-09 |
-| [NA MONEY \(feat\. Konshens\)](https://open.spotify.com/track/4h5MFKBQWttvsigQpnvUiq) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [GLADIATOR](https://open.spotify.com/album/79o1dxPTxk0QJhXjFoQlsE) | 2:21 | 2024-09-02 | 2024-09-11 |
+| [NA MONEY \(feat\. Konshens\)](https://open.spotify.com/track/4h5MFKBQWttvsigQpnvUiq) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [GLADIATOR](https://open.spotify.com/album/79o1dxPTxk0QJhXjFoQlsE) | 2:21 | 2024-09-02 |  |
 | [No Limit](https://open.spotify.com/track/5mkwf1vdNtFVFjJX44o4sV) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Gratitude](https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj) | 3:16 | 2022-09-01 | 2023-06-07 |
 | [No Pressure](https://open.spotify.com/track/2ZfwMwiJnti8JUZAHzvBnG) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [No Pressure](https://open.spotify.com/album/6DB4harKpwZ2IYfwsV6Qs8) | 2:57 | 2022-03-12 |  |
 | [No Stress](https://open.spotify.com/track/4MB9KjYBDN1EsXFGDXVdfC) | [Tony Frank](https://open.spotify.com/artist/6wC3pFGIEB7mzGlBdSbseh), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [No Stress](https://open.spotify.com/album/0oZfRIJnwhVHbtgeHqoPvB) | 2:35 | 2023-05-07 | 2024-07-18 |
@@ -102,7 +102,7 @@
 | [Shake Yuh Bum \- Machel Montano Remix](https://open.spotify.com/track/0iwBqYjcVwtcicenrszV2X) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Happiest Man Alive](https://open.spotify.com/album/6jupllx1C4fwux9s4WD5Id) | 3:30 | 2023-11-10 |  |
 | [Sili\-Kon](https://open.spotify.com/track/4U9RIKgLeaANDbEFOZLcqT) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Sili\-Kon](https://open.spotify.com/album/7hZfm5V8n3sGnk0LS1fvFr) | 2:51 | 2022-01-04 | 2023-05-24 |
 | [Silicon](https://open.spotify.com/track/14eP2vY4pILhupUAUQ6vX9) | [Solidstar](https://open.spotify.com/artist/1Nuq9WJb01OoR56vu02bhX), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [W.E.E.D.](https://open.spotify.com/album/23BR88E4ycb1L19PLZbEuP) | 3:01 | 2022-04-05 | 2022-08-22 |
-| [SMILE](https://open.spotify.com/track/7tMeDQdfjbxDDVMxaLp1C9) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [GLADIATOR](https://open.spotify.com/album/79o1dxPTxk0QJhXjFoQlsE) | 2:39 | 2024-08-18 |  |
+| [SMILE](https://open.spotify.com/track/7tMeDQdfjbxDDVMxaLp1C9) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [GLADIATOR](https://open.spotify.com/album/79o1dxPTxk0QJhXjFoQlsE) | 2:39 | 2024-08-18 | 2024-09-13 |
 | [Something Must to Kill a Man](https://open.spotify.com/track/4Yy4zBe6F5qMFTlRWZOUSq) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Gratitude](https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj) | 3:06 | 2021-12-28 |  |
 | [Stoopid](https://open.spotify.com/track/4VssiQZ9g8eUa3d22eYBcW) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Chulo Vibes](https://open.spotify.com/album/1JlzIGbFMWsyL5WBEADj6Q) | 3:20 | 2021-12-28 | 2022-10-09 |
 | [SWEET US](https://open.spotify.com/track/1mSci6u4udZB5rtU6tGMma) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [SWEET US](https://open.spotify.com/album/0nATH3H1PvnLT1TZBWRgo6) | 2:37 | 2022-11-12 | 2024-09-11 |

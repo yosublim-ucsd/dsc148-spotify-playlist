@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Only the hottest Hip Hop from Travis Scott, A$AP Rocky, Kendrick Lamar, and more...",
+  "description": "Only the hottest Hip Hop from A-Reece, Doechii, Kendrick Lamar, and more...",
   "name": "Hip Hop Circle",
   "tracks": [
     {
@@ -583,6 +583,32 @@
     },
     {
       "album": {
+        "name": "20th: Days Before Maud",
+        "url": "https://open.spotify.com/album/41wiN7FdTbfUJHbjaQW1YH"
+      },
+      "artists": [
+        {
+          "name": "Usimamane",
+          "url": "https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs"
+        },
+        {
+          "name": "ANATII",
+          "url": "https://open.spotify.com/artist/6dX1EJC9XFlM8Ql1wGHC55"
+        },
+        {
+          "name": "Tony Dayimane",
+          "url": "https://open.spotify.com/artist/61JGKpmRAgud7VaFpgesxi"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "BANK",
+      "url": "https://open.spotify.com/track/0HCQHIAqwmLMJsecMU1xth"
+    },
+    {
+      "album": {
         "name": "Becky (feat. 41)",
         "url": "https://open.spotify.com/album/4qxJ6ZOmgNoOZGgnspy9SG"
       },
@@ -874,6 +900,24 @@
       "duration_ms": 185417,
       "name": "Bon App\u00e9tit",
       "url": "https://open.spotify.com/track/6uPML1wimIHQJbTysDFKzQ"
+    },
+    {
+      "album": {
+        "name": "Alligator Bites Never Heal",
+        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130358,
+      "name": "BOOM BAP",
+      "url": "https://open.spotify.com/track/39BZe4t1oLnIcBa1rNndcy"
     },
     {
       "album": {
@@ -1290,7 +1334,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 157866,
       "name": "Cupid's Guidance",
       "url": "https://open.spotify.com/track/48k4TP7v4OtZRnblRrIEQT"
@@ -1804,7 +1848,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 247444,
       "name": "First Person Shooter (feat. J. Cole)",
       "url": "https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU"
@@ -3922,7 +3966,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 261120,
       "name": "Ntja'ka",
       "url": "https://open.spotify.com/track/4dk2L1zuiTfTLMLTQdyceb"
@@ -5156,7 +5200,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 167915,
       "name": "Sorrys & Ferraris",
       "url": "https://open.spotify.com/track/0tCqfQ0MHZBYvsZ169ZnUM"
@@ -5388,6 +5432,24 @@
       "duration_ms": 110706,
       "name": "Stop Breathing",
       "url": "https://open.spotify.com/track/6mM8gri8d2abYYomjOV4ut"
+    },
+    {
+      "album": {
+        "name": "Kill The King: the mixtape",
+        "url": "https://open.spotify.com/album/5XxghpaGYOjMYfaggN0g0t"
+      },
+      "artists": [
+        {
+          "name": "A-Reece",
+          "url": "https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148294,
+      "name": "str8 to hell",
+      "url": "https://open.spotify.com/track/5iRGJi0Nd7uIbSfLXlMKzs"
     },
     {
       "album": {
@@ -5664,6 +5726,24 @@
       "duration_ms": 353754,
       "name": "TELEKINESIS (feat. SZA & Future)",
       "url": "https://open.spotify.com/track/1i9lZvlaDdWDPyXEE95aiq"
+    },
+    {
+      "album": {
+        "name": "TGIF",
+        "url": "https://open.spotify.com/album/3VY29d0cCe38jPSYvAiI0D"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "TGIF",
+      "url": "https://open.spotify.com/track/2hKYtHbwYOSjvYQhVdUpdQ"
     },
     {
       "album": {
@@ -6298,7 +6378,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 81077,
       "name": "VING RHAMES",
       "url": "https://open.spotify.com/track/2YFAsNwdGwtw6oC6DIpT3k"

@@ -1,12 +1,12 @@
 {
-  "description": "This is Black Eyed Peas. The essential tracks, all in one playlist.",
-  "num_followers": 495530,
+  "description": "This is Black Eyed Peas. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 495673,
   "original_name": "This Is Black Eyed Peas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zt+MAAAAAAC9x5By9Qi3b1QshAipX6y5",
+  "snapshot_id": "ZuDdgAAAAADR86L3p2oHlKD0yJEqLQLv",
   "tracks": [
     {
       "added_at": null,
@@ -791,6 +791,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Beginning",
+        "url": "https://open.spotify.com/album/3IpexNXiKbezuY526S4Jvy"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "duration_ms": 225080,
+      "name": "Love You Long Time",
+      "url": "https://open.spotify.com/track/5PdnrnroNNd7n3AOqvv4hD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TRANSLATION",
         "url": "https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 230400,
       "name": "TODO BUENO",
       "url": "https://open.spotify.com/track/4FldXs1bcL6WUrpOcENkfD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Beginning",
-        "url": "https://open.spotify.com/album/3IpexNXiKbezuY526S4Jvy"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        }
-      ],
-      "duration_ms": 225080,
-      "name": "Love You Long Time",
-      "url": "https://open.spotify.com/track/5PdnrnroNNd7n3AOqvv4hD"
     },
     {
       "added_at": null,
@@ -867,6 +867,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Beginning",
+        "url": "https://open.spotify.com/album/3IpexNXiKbezuY526S4Jvy"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "duration_ms": 273440,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/0iO9nE6zE8Oqcl8eXjxCJ7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "#WHERESTHELOVE",
         "url": "https://open.spotify.com/album/2RiLLqGSyYhC3QMk8F0wUu"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 325386,
       "name": "#WHERESTHELOVE",
       "url": "https://open.spotify.com/track/61pl7NmpG9R2KamTBAy5Yo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Beginning",
-        "url": "https://open.spotify.com/album/3IpexNXiKbezuY526S4Jvy"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        }
-      ],
-      "duration_ms": 273440,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/0iO9nE6zE8Oqcl8eXjxCJ7"
     },
     {
       "added_at": null,

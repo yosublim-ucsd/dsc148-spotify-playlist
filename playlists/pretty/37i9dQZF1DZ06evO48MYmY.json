@@ -1,12 +1,12 @@
 {
-  "description": "This is Simon & Garfunkel. The essential tracks, all in one playlist.",
-  "num_followers": 334968,
+  "description": "This is Simon & Garfunkel. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 335014,
   "original_name": "This Is Simon & Garfunkel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zt+MAAAAAAC6ILPq2rAz+mQyDcMyd37b",
+  "snapshot_id": "ZuDdgAAAAABaA2MeK7pbOzOF6WMjyGzg",
   "tracks": [
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bookends",
-        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
+        "name": "Parsley, Sage, Rosemary And Thyme",
+        "url": "https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
         }
       ],
-      "duration_ms": 132613,
-      "name": "Punky's Dilemma",
-      "url": "https://open.spotify.com/track/5UsyaEfEsenoqvWkbVU0Wp"
+      "duration_ms": 114626,
+      "name": "A Poem on the Underground Wall",
+      "url": "https://open.spotify.com/track/0CtuChNoy9SwaiOddQ4EPc"
     },
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parsley, Sage, Rosemary And Thyme",
-        "url": "https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7"
+        "name": "Bookends",
+        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
         }
       ],
-      "duration_ms": 114626,
-      "name": "A Poem on the Underground Wall",
-      "url": "https://open.spotify.com/track/0CtuChNoy9SwaiOddQ4EPc"
+      "duration_ms": 132613,
+      "name": "Punky's Dilemma",
+      "url": "https://open.spotify.com/track/5UsyaEfEsenoqvWkbVU0Wp"
     },
     {
       "added_at": null,

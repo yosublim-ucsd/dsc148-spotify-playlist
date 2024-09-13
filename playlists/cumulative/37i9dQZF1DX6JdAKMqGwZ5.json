@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Descubre los temas emergentes del mundo indie. Foto: Baiuca, CARLANGAS.",
+  "description": "Descubre los temas emergentes del mundo indie. Foto: Yarea.",
   "name": "Radar Indie",
   "tracks": [
     {
@@ -665,6 +665,24 @@
     },
     {
       "album": {
+        "name": "COTILLEO",
+        "url": "https://open.spotify.com/album/5KUSmymFWOTrx3rXafBXXB"
+      },
+      "artists": [
+        {
+          "name": "Nebulossa",
+          "url": "https://open.spotify.com/artist/58M2tktuW3ZTnZGTddqejF"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190222,
+      "name": "COTILLEO",
+      "url": "https://open.spotify.com/track/1EFWFmJ3tPqe3zic7bvDrj"
+    },
+    {
+      "album": {
         "name": "Cre\u00ed que era eterno",
         "url": "https://open.spotify.com/album/0ScaKkT4wLKLPonVW0zLXH"
       },
@@ -814,7 +832,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 238000,
       "name": "Destra",
       "url": "https://open.spotify.com/track/3rxX1ViZZ1zF9FneNNMgQI"
@@ -1042,7 +1060,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 263600,
       "name": "ella brilla",
       "url": "https://open.spotify.com/track/4xadguhD6ztFKReVXwLTEt"
@@ -1144,6 +1162,24 @@
       "duration_ms": 213750,
       "name": "Espera",
       "url": "https://open.spotify.com/track/1UqwvHN3GzqQ8E1JRQZ5w6"
+    },
+    {
+      "album": {
+        "name": "Espina",
+        "url": "https://open.spotify.com/album/5xB3QxKQ5uiNL3YH6aOLtu"
+      },
+      "artists": [
+        {
+          "name": "Yarea",
+          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183093,
+      "name": "Espina",
+      "url": "https://open.spotify.com/track/2rHjLXPpOmu5rKHPaUa8Qb"
     },
     {
       "album": {
@@ -1370,6 +1406,24 @@
       "duration_ms": 211695,
       "name": "Gente Corriente",
       "url": "https://open.spotify.com/track/14nR4STG0GeaCLYtlJXjHI"
+    },
+    {
+      "album": {
+        "name": "Maestro Espada",
+        "url": "https://open.spotify.com/album/3i6B3xwYiAeG7S4yhalD6j"
+      },
+      "artists": [
+        {
+          "name": "Maestro Espada",
+          "url": "https://open.spotify.com/artist/1nlawfs0lTdtL6cVPGvQLu"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249192,
+      "name": "Grana\u00edco",
+      "url": "https://open.spotify.com/track/0WEid1VuBFoCgrxPDjK3P5"
     },
     {
       "album": {
@@ -1702,7 +1756,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 147895,
       "name": "LAS 12",
       "url": "https://open.spotify.com/track/1dXGCiV6HBjCqsp7lzioJi"
@@ -1937,6 +1991,28 @@
     },
     {
       "album": {
+        "name": "MARICARMEN",
+        "url": "https://open.spotify.com/album/3EVKwSXBWb5im9V4EJqwB3"
+      },
+      "artists": [
+        {
+          "name": "Fillas de Cassandra",
+          "url": "https://open.spotify.com/artist/4OETSqPg52NUKHEQEroph5"
+        },
+        {
+          "name": "La Pegatina",
+          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193827,
+      "name": "MARICARMEN",
+      "url": "https://open.spotify.com/track/43IK9P5MlkuDsnvfCo7IDb"
+    },
+    {
+      "album": {
         "name": "MATAR\u00cdA A TODOS LOS HOMBRES",
         "url": "https://open.spotify.com/album/1rFSCBdcIs2ji4hNoqyMGX"
       },
@@ -2006,7 +2082,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 169312,
       "name": "Me Cago En Tus Muertos",
       "url": "https://open.spotify.com/track/7FNZ22EPTcr0wySdMiHAUX"
@@ -2104,6 +2180,24 @@
       "duration_ms": 207750,
       "name": "Mi Culpa",
       "url": "https://open.spotify.com/track/2xGH2s7preCrwHyQJw6tJV"
+    },
+    {
+      "album": {
+        "name": "MICHAL\u00d3",
+        "url": "https://open.spotify.com/album/3MOKpo5JFzcTk8UTkMhx33"
+      },
+      "artists": [
+        {
+          "name": "\u00c7antamarta",
+          "url": "https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181417,
+      "name": "MICHAL\u00d3",
+      "url": "https://open.spotify.com/track/54hGxwAhwQlRadAPl90Kes"
     },
     {
       "album": {
@@ -2820,7 +2914,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 131714,
       "name": "SIMELLAMA",
       "url": "https://open.spotify.com/track/0vfd6WPa548c8FGiCTzh8z"
@@ -3030,7 +3124,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 166943,
       "name": "to lo ke",
       "url": "https://open.spotify.com/track/6aIXhiqT4Oec2VY1tPky8G"
@@ -3172,6 +3266,28 @@
       "duration_ms": 246369,
       "name": "Tu olor",
       "url": "https://open.spotify.com/track/584vMaGygewON9eBMNT5ab"
+    },
+    {
+      "album": {
+        "name": "TUCUCU",
+        "url": "https://open.spotify.com/album/27cB0YSCElG6Q2HeA19K6F"
+      },
+      "artists": [
+        {
+          "name": "el nido",
+          "url": "https://open.spotify.com/artist/6o6UaIWvzYLItWbkQtUbka"
+        },
+        {
+          "name": "Rodrigo Cuevas",
+          "url": "https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183123,
+      "name": "TUCUCU",
+      "url": "https://open.spotify.com/track/6af48Ny0ELO6KOnst9GY32"
     },
     {
       "album": {

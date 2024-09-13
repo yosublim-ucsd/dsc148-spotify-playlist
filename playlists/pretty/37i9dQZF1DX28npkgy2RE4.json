@@ -1,6 +1,6 @@
 {
   "description": "New styles, deep sounds. Cover: Helado Negro",
-  "num_followers": 418982,
+  "num_followers": 419003,
   "original_name": "Modern Eclectic",
   "owner": {
     "name": "Spotify",
@@ -739,26 +739,6 @@
     {
       "added_at": "2024-07-05 20:01:43",
       "album": {
-        "name": "Snowplow",
-        "url": "https://open.spotify.com/album/2pvt0zp6tTBZdF1HZ50LsQ"
-      },
-      "artists": [
-        {
-          "name": "Runnner",
-          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
-        },
-        {
-          "name": "Skullcrusher",
-          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
-        }
-      ],
-      "duration_ms": 161776,
-      "name": "Snowplow",
-      "url": "https://open.spotify.com/track/6LvRXtQfbvMF7m0hNQu5eF"
-    },
-    {
-      "added_at": "2024-07-05 20:01:43",
-      "album": {
         "name": "Deli Daydreams",
         "url": "https://open.spotify.com/album/46PFhovdF7y9Q3Z7qdCohx"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 252052,
       "name": "Back To Oz",
       "url": "https://open.spotify.com/track/0UWXrfsHsy2LUJWEbneShb"
+    },
+    {
+      "added_at": "2024-07-05 20:01:43",
+      "album": {
+        "name": "Snowplow",
+        "url": "https://open.spotify.com/album/2pvt0zp6tTBZdF1HZ50LsQ"
+      },
+      "artists": [
+        {
+          "name": "Runnner",
+          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
+        },
+        {
+          "name": "Skullcrusher",
+          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
+        }
+      ],
+      "duration_ms": 161776,
+      "name": "Snowplow",
+      "url": "https://open.spotify.com/track/6LvRXtQfbvMF7m0hNQu5eF"
     },
     {
       "added_at": "2024-07-05 20:01:43",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2024-07-05 20:01:43",
       "album": {
+        "name": "Cala",
+        "url": "https://open.spotify.com/album/5N1201PBNTiy1gj7b7sPsW"
+      },
+      "artists": [
+        {
+          "name": "Fionn Regan",
+          "url": "https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy"
+        }
+      ],
+      "duration_ms": 148773,
+      "name": "Collar of Fur",
+      "url": "https://open.spotify.com/track/7ytLP3YW58akAQyMTwW78l"
+    },
+    {
+      "added_at": "2024-07-05 20:01:43",
+      "album": {
         "name": "In the Game",
         "url": "https://open.spotify.com/album/0yuuoIvqUqnumxCaqM71j8"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 200161,
       "name": "Chain Reaction",
       "url": "https://open.spotify.com/track/2l2mM35OlTIAV3ewmBblRA"
-    },
-    {
-      "added_at": "2024-07-05 20:01:43",
-      "album": {
-        "name": "Cala",
-        "url": "https://open.spotify.com/album/5N1201PBNTiy1gj7b7sPsW"
-      },
-      "artists": [
-        {
-          "name": "Fionn Regan",
-          "url": "https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy"
-        }
-      ],
-      "duration_ms": 148773,
-      "name": "Collar of Fur",
-      "url": "https://open.spotify.com/track/7ytLP3YW58akAQyMTwW78l"
     },
     {
       "added_at": "2024-07-05 20:01:43",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2024-07-05 20:01:43",
       "album": {
+        "name": "notes to self",
+        "url": "https://open.spotify.com/album/4oZm9dVzOajDU9ATDnJcjU"
+      },
+      "artists": [
+        {
+          "name": "Maria Kelly",
+          "url": "https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV"
+        }
+      ],
+      "duration_ms": 184400,
+      "name": "prelude",
+      "url": "https://open.spotify.com/track/1btCox4dQ6X24ciWGUNRgy"
+    },
+    {
+      "added_at": "2024-07-05 20:01:43",
+      "album": {
         "name": "Mariachi Static",
         "url": "https://open.spotify.com/album/1f7tVn8Ff2Nr3PesnIi9HE"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 224493,
       "name": "Joy'All",
       "url": "https://open.spotify.com/track/5bzMnlKnmaitjCAaJed3Oj"
-    },
-    {
-      "added_at": "2024-07-05 20:01:43",
-      "album": {
-        "name": "notes to self",
-        "url": "https://open.spotify.com/album/4oZm9dVzOajDU9ATDnJcjU"
-      },
-      "artists": [
-        {
-          "name": "Maria Kelly",
-          "url": "https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV"
-        }
-      ],
-      "duration_ms": 184400,
-      "name": "prelude",
-      "url": "https://open.spotify.com/track/1btCox4dQ6X24ciWGUNRgy"
     },
     {
       "added_at": "2024-07-05 20:01:43",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2024-07-05 20:01:43",
       "album": {
+        "name": "Into the Depths of Hell",
+        "url": "https://open.spotify.com/album/7BMZsEBUvcUTxTjnhXbl9c"
+      },
+      "artists": [
+        {
+          "name": "Joshua Burnside",
+          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
+        }
+      ],
+      "duration_ms": 205875,
+      "name": "Under the Concrete",
+      "url": "https://open.spotify.com/track/0P3tGih9Q0WCRZObKwCujT"
+    },
+    {
+      "added_at": "2024-07-05 20:01:43",
+      "album": {
         "name": "Champagne Problems",
         "url": "https://open.spotify.com/album/4KAr2lRE1A7erS2HUspilz"
       },
@@ -1299,18 +1315,18 @@
     {
       "added_at": "2024-07-05 20:01:43",
       "album": {
-        "name": "Into the Depths of Hell",
-        "url": "https://open.spotify.com/album/7BMZsEBUvcUTxTjnhXbl9c"
+        "name": "Dublin, Texas",
+        "url": "https://open.spotify.com/album/2yJ45g1GWeNubkv8o6wGPW"
       },
       "artists": [
         {
-          "name": "Joshua Burnside",
-          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
+          "name": "RF Shannon",
+          "url": "https://open.spotify.com/artist/46CVdgJTvxMLcMqZ7YY0b5"
         }
       ],
-      "duration_ms": 205875,
-      "name": "Under the Concrete",
-      "url": "https://open.spotify.com/track/0P3tGih9Q0WCRZObKwCujT"
+      "duration_ms": 269286,
+      "name": "Dublin, Texas",
+      "url": "https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c"
     },
     {
       "added_at": "2024-07-05 20:01:43",
@@ -1331,18 +1347,18 @@
     {
       "added_at": "2024-07-05 20:01:43",
       "album": {
-        "name": "Dublin, Texas",
-        "url": "https://open.spotify.com/album/2yJ45g1GWeNubkv8o6wGPW"
+        "name": "southwest serenade",
+        "url": "https://open.spotify.com/album/2JE0tvCz2i37PZIQhJqIdY"
       },
       "artists": [
         {
-          "name": "RF Shannon",
-          "url": "https://open.spotify.com/artist/46CVdgJTvxMLcMqZ7YY0b5"
+          "name": "Story Slaughter",
+          "url": "https://open.spotify.com/artist/5xAkUnkKTboVog0nTDtGZY"
         }
       ],
-      "duration_ms": 269286,
-      "name": "Dublin, Texas",
-      "url": "https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c"
+      "duration_ms": 106250,
+      "name": "southwest serenade",
+      "url": "https://open.spotify.com/track/1E5QGnoIIwLprR6zOFWkCO"
     },
     {
       "added_at": "2024-07-05 20:01:43",
@@ -1359,22 +1375,6 @@
       "duration_ms": 225297,
       "name": "Never on My Mind",
       "url": "https://open.spotify.com/track/4z9ViersKJgj1ZwTjjfhtk"
-    },
-    {
-      "added_at": "2024-07-05 20:01:43",
-      "album": {
-        "name": "southwest serenade",
-        "url": "https://open.spotify.com/album/2JE0tvCz2i37PZIQhJqIdY"
-      },
-      "artists": [
-        {
-          "name": "Story Slaughter",
-          "url": "https://open.spotify.com/artist/5xAkUnkKTboVog0nTDtGZY"
-        }
-      ],
-      "duration_ms": 106250,
-      "name": "southwest serenade",
-      "url": "https://open.spotify.com/track/1E5QGnoIIwLprR6zOFWkCO"
     },
     {
       "added_at": "2024-07-05 20:01:43",
@@ -1411,26 +1411,6 @@
       "duration_ms": 230000,
       "name": "Human Emotion",
       "url": "https://open.spotify.com/track/2RZikbqD9j1SRch0eh7Y97"
-    },
-    {
-      "added_at": "2024-07-05 20:01:43",
-      "album": {
-        "name": "Ready or Not (feat. Sierra Ferrell)",
-        "url": "https://open.spotify.com/album/5JcW9l6CD3JJbn7DbJrrkh"
-      },
-      "artists": [
-        {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
-        },
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 192901,
-      "name": "Ready or Not (feat. Sierra Ferrell)",
-      "url": "https://open.spotify.com/track/2NAOqvZIf7onZ4kDLU560I"
     },
     {
       "added_at": "2024-07-05 20:01:43",
@@ -1515,18 +1495,22 @@
     {
       "added_at": "2024-07-05 20:01:43",
       "album": {
-        "name": "Worry No More",
-        "url": "https://open.spotify.com/album/3TS9LGoHqv0vyvIy2Lg6aL"
+        "name": "Ready or Not (feat. Sierra Ferrell)",
+        "url": "https://open.spotify.com/album/5JcW9l6CD3JJbn7DbJrrkh"
       },
       "artists": [
         {
-          "name": "Amos Lee",
-          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        },
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
         }
       ],
-      "duration_ms": 221066,
-      "name": "Worry No More",
-      "url": "https://open.spotify.com/track/6Sf1IjXhbfTIYOHhaj5DG0"
+      "duration_ms": 192901,
+      "name": "Ready or Not (feat. Sierra Ferrell)",
+      "url": "https://open.spotify.com/track/2NAOqvZIf7onZ4kDLU560I"
     },
     {
       "added_at": "2024-07-05 20:01:43",
@@ -1559,6 +1543,22 @@
       "duration_ms": 250962,
       "name": "Diamonds In The Snow",
       "url": "https://open.spotify.com/track/45FWmYpboXilptta3D9fxD"
+    },
+    {
+      "added_at": "2024-07-05 20:01:43",
+      "album": {
+        "name": "Worry No More",
+        "url": "https://open.spotify.com/album/3TS9LGoHqv0vyvIy2Lg6aL"
+      },
+      "artists": [
+        {
+          "name": "Amos Lee",
+          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
+        }
+      ],
+      "duration_ms": 221066,
+      "name": "Worry No More",
+      "url": "https://open.spotify.com/track/6Sf1IjXhbfTIYOHhaj5DG0"
     },
     {
       "added_at": "2024-07-05 20:01:43",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2024-07-05 20:01:43",
       "album": {
-        "name": "Everything Was Beautiful",
-        "url": "https://open.spotify.com/album/4s7idL3BJEZIpsytOCEPZK"
-      },
-      "artists": [
-        {
-          "name": "Spiritualized",
-          "url": "https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv"
-        }
-      ],
-      "duration_ms": 352333,
-      "name": "Best Thing You Never Had (The D Song)",
-      "url": "https://open.spotify.com/track/0jXCy07EPFiG0zanXwcToh"
-    },
-    {
-      "added_at": "2024-07-05 20:01:43",
-      "album": {
         "name": "Loving You Is Lonely",
         "url": "https://open.spotify.com/album/1Zs8YINM2uPmsWes22fCkQ"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 269760,
       "name": "Loving You Is Lonely",
       "url": "https://open.spotify.com/track/1IKSPT8NgQSLz5DwaxrnEe"
+    },
+    {
+      "added_at": "2024-07-05 20:01:43",
+      "album": {
+        "name": "Everything Was Beautiful",
+        "url": "https://open.spotify.com/album/4s7idL3BJEZIpsytOCEPZK"
+      },
+      "artists": [
+        {
+          "name": "Spiritualized",
+          "url": "https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv"
+        }
+      ],
+      "duration_ms": 352333,
+      "name": "Best Thing You Never Had (The D Song)",
+      "url": "https://open.spotify.com/track/0jXCy07EPFiG0zanXwcToh"
     },
     {
       "added_at": "2024-07-05 20:01:43",
@@ -1755,34 +1755,18 @@
     {
       "added_at": "2024-07-05 20:01:43",
       "album": {
-        "name": "pak it in // mama",
-        "url": "https://open.spotify.com/album/7fbNuLkq7MOLzrajDNymJp"
+        "name": "Home Truths",
+        "url": "https://open.spotify.com/album/0gxKWK1zDO0RPD35aab8I7"
       },
       "artists": [
         {
-          "name": "Uly",
-          "url": "https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg"
+          "name": "Lucie Silvas",
+          "url": "https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju"
         }
       ],
-      "duration_ms": 283518,
-      "name": "pak it in",
-      "url": "https://open.spotify.com/track/2CBrwFbrNnzvikGZXq5j9l"
-    },
-    {
-      "added_at": "2024-07-05 20:01:43",
-      "album": {
-        "name": "Modern Woman",
-        "url": "https://open.spotify.com/album/30kbdtHtt6rJShWGeMsVcI"
-      },
-      "artists": [
-        {
-          "name": "Erin Rae",
-          "url": "https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6"
-        }
-      ],
-      "duration_ms": 204946,
-      "name": "Modern Woman",
-      "url": "https://open.spotify.com/track/5ZaSoSM8VR7OUiYyEKBmL9"
+      "duration_ms": 217400,
+      "name": "Home Truths",
+      "url": "https://open.spotify.com/track/4uqEvq2EYdXLYT1M19Wfe3"
     },
     {
       "added_at": "2024-07-05 20:01:43",
@@ -1803,18 +1787,34 @@
     {
       "added_at": "2024-07-05 20:01:43",
       "album": {
-        "name": "Home Truths",
-        "url": "https://open.spotify.com/album/0gxKWK1zDO0RPD35aab8I7"
+        "name": "Modern Woman",
+        "url": "https://open.spotify.com/album/30kbdtHtt6rJShWGeMsVcI"
       },
       "artists": [
         {
-          "name": "Lucie Silvas",
-          "url": "https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju"
+          "name": "Erin Rae",
+          "url": "https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6"
         }
       ],
-      "duration_ms": 217400,
-      "name": "Home Truths",
-      "url": "https://open.spotify.com/track/4uqEvq2EYdXLYT1M19Wfe3"
+      "duration_ms": 204946,
+      "name": "Modern Woman",
+      "url": "https://open.spotify.com/track/5ZaSoSM8VR7OUiYyEKBmL9"
+    },
+    {
+      "added_at": "2024-07-05 20:01:43",
+      "album": {
+        "name": "pak it in // mama",
+        "url": "https://open.spotify.com/album/7fbNuLkq7MOLzrajDNymJp"
+      },
+      "artists": [
+        {
+          "name": "Uly",
+          "url": "https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg"
+        }
+      ],
+      "duration_ms": 283518,
+      "name": "pak it in",
+      "url": "https://open.spotify.com/track/2CBrwFbrNnzvikGZXq5j9l"
     },
     {
       "added_at": "2024-07-05 20:01:43",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2024-07-05 20:01:43",
       "album": {
-        "name": "We Are Olympians",
-        "url": "https://open.spotify.com/album/5KV0wZMvRNqxXLYJOgaIqf"
-      },
-      "artists": [
-        {
-          "name": "Andrew Bird",
-          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
-        }
-      ],
-      "duration_ms": 297453,
-      "name": "Olympians - Acoustic",
-      "url": "https://open.spotify.com/track/0d79BhweRgxqySiFBYelDg"
-    },
-    {
-      "added_at": "2024-07-05 20:01:43",
-      "album": {
         "name": "Strange Weather",
         "url": "https://open.spotify.com/album/3lXZxaI5WDRQjNPSGNG7RF"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 208817,
       "name": "Strange Weather",
       "url": "https://open.spotify.com/track/12O9MpMmewwdDkxZC9uqvS"
+    },
+    {
+      "added_at": "2024-07-05 20:01:43",
+      "album": {
+        "name": "We Are Olympians",
+        "url": "https://open.spotify.com/album/5KV0wZMvRNqxXLYJOgaIqf"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+        }
+      ],
+      "duration_ms": 297453,
+      "name": "Olympians - Acoustic",
+      "url": "https://open.spotify.com/track/0d79BhweRgxqySiFBYelDg"
     },
     {
       "added_at": "2024-07-05 20:01:43",
@@ -1919,22 +1919,18 @@
     {
       "added_at": "2024-07-05 20:01:43",
       "album": {
-        "name": "The Blues Have Blown Away",
-        "url": "https://open.spotify.com/album/7jewmK7nMLWpNw9EV5267b"
+        "name": "Hope Dreams",
+        "url": "https://open.spotify.com/album/2Gjb3T1btQMnGtSYl6c1HD"
       },
       "artists": [
         {
-          "name": "Jill Andrews",
-          "url": "https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc"
-        },
-        {
-          "name": "Josh Oliver",
-          "url": "https://open.spotify.com/artist/1SP0JtRy2Am9t3HTswRbrv"
+          "name": "Piers Faccini",
+          "url": "https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd"
         }
       ],
-      "duration_ms": 167400,
-      "name": "The Blues Have Blown Away",
-      "url": "https://open.spotify.com/track/46KuUSMrcUTcMU72HNkg6o"
+      "duration_ms": 282533,
+      "name": "Hope Dreams",
+      "url": "https://open.spotify.com/track/4UqOJtePJLOlG6enQq7NEE"
     },
     {
       "added_at": "2024-07-05 20:01:43",
@@ -1955,22 +1951,6 @@
     {
       "added_at": "2024-07-05 20:01:43",
       "album": {
-        "name": "Hope Dreams",
-        "url": "https://open.spotify.com/album/2Gjb3T1btQMnGtSYl6c1HD"
-      },
-      "artists": [
-        {
-          "name": "Piers Faccini",
-          "url": "https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd"
-        }
-      ],
-      "duration_ms": 282533,
-      "name": "Hope Dreams",
-      "url": "https://open.spotify.com/track/4UqOJtePJLOlG6enQq7NEE"
-    },
-    {
-      "added_at": "2024-07-05 20:01:43",
-      "album": {
         "name": "First Time Feeling",
         "url": "https://open.spotify.com/album/3qm2g5r2eWFVYiIGZVt4Ro"
       },
@@ -1987,18 +1967,22 @@
     {
       "added_at": "2024-07-05 20:01:43",
       "album": {
-        "name": "Half Moon Light (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4BZtOxZRZVRVf5ufHPlXy3"
+        "name": "The Blues Have Blown Away",
+        "url": "https://open.spotify.com/album/7jewmK7nMLWpNw9EV5267b"
       },
       "artists": [
         {
-          "name": "The Lone Bellow",
-          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
+          "name": "Jill Andrews",
+          "url": "https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc"
+        },
+        {
+          "name": "Josh Oliver",
+          "url": "https://open.spotify.com/artist/1SP0JtRy2Am9t3HTswRbrv"
         }
       ],
-      "duration_ms": 231880,
-      "name": "Dried Up River",
-      "url": "https://open.spotify.com/track/7bNvUAHtAVDee8w6SS6r0S"
+      "duration_ms": 167400,
+      "name": "The Blues Have Blown Away",
+      "url": "https://open.spotify.com/track/46KuUSMrcUTcMU72HNkg6o"
     },
     {
       "added_at": "2024-07-05 20:01:43",
@@ -2035,6 +2019,38 @@
     {
       "added_at": "2024-07-05 20:01:43",
       "album": {
+        "name": "Half Moon Light (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4BZtOxZRZVRVf5ufHPlXy3"
+      },
+      "artists": [
+        {
+          "name": "The Lone Bellow",
+          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
+        }
+      ],
+      "duration_ms": 231880,
+      "name": "Dried Up River",
+      "url": "https://open.spotify.com/track/7bNvUAHtAVDee8w6SS6r0S"
+    },
+    {
+      "added_at": "2024-07-05 20:01:43",
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/0OvSbzmj1pyI5z4PNNFnDA"
+      },
+      "artists": [
+        {
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+        }
+      ],
+      "duration_ms": 197373,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/3tQXwwGZOYrz6xbl7e7yZg"
+    },
+    {
+      "added_at": "2024-07-05 20:01:43",
+      "album": {
         "name": "We Watch The Stars",
         "url": "https://open.spotify.com/album/7CDx9LMmJ9cbFlGRK7cmYY"
       },
@@ -2063,22 +2079,6 @@
       "duration_ms": 285200,
       "name": "Tender Organs",
       "url": "https://open.spotify.com/track/6cst4w2QTOrH5e6FAsLLjI"
-    },
-    {
-      "added_at": "2024-07-05 20:01:43",
-      "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/0OvSbzmj1pyI5z4PNNFnDA"
-      },
-      "artists": [
-        {
-          "name": "Hovvdy",
-          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
-        }
-      ],
-      "duration_ms": 197373,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/3tQXwwGZOYrz6xbl7e7yZg"
     },
     {
       "added_at": "2024-07-05 20:01:43",
@@ -2151,22 +2151,6 @@
     {
       "added_at": "2024-07-05 20:01:43",
       "album": {
-        "name": "Traffic Fiction",
-        "url": "https://open.spotify.com/album/0MkenTu5G8qe0SgyE619fA"
-      },
-      "artists": [
-        {
-          "name": "Tr\u00e9 Burt",
-          "url": "https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc"
-        }
-      ],
-      "duration_ms": 236933,
-      "name": "2 FOR THA SHOW",
-      "url": "https://open.spotify.com/track/6OJzYB7wzVhxI2YIjVrfr6"
-    },
-    {
-      "added_at": "2024-07-05 20:01:43",
-      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/6lYtFfi8POQtZHqToBC1ld"
       },
@@ -2179,6 +2163,22 @@
       "duration_ms": 179893,
       "name": "Desire",
       "url": "https://open.spotify.com/track/12rpkK6BHssFJ3ORBGON5c"
+    },
+    {
+      "added_at": "2024-07-05 20:01:43",
+      "album": {
+        "name": "Traffic Fiction",
+        "url": "https://open.spotify.com/album/0MkenTu5G8qe0SgyE619fA"
+      },
+      "artists": [
+        {
+          "name": "Tr\u00e9 Burt",
+          "url": "https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc"
+        }
+      ],
+      "duration_ms": 236933,
+      "name": "2 FOR THA SHOW",
+      "url": "https://open.spotify.com/track/6OJzYB7wzVhxI2YIjVrfr6"
     },
     {
       "added_at": "2024-07-05 20:01:43",
@@ -2251,26 +2251,18 @@
     {
       "added_at": "2024-07-05 20:01:43",
       "album": {
-        "name": "We Cannot Resist",
-        "url": "https://open.spotify.com/album/1wvs3xZ4xOsFXG6jZJCttW"
+        "name": "Storm Queen",
+        "url": "https://open.spotify.com/album/3hN0ZqYY64lyk6IGhJyLvU"
       },
       "artists": [
         {
-          "name": "LUMP",
-          "url": "https://open.spotify.com/artist/4gQsGkfdB4uVrNBqo4MhmI"
-        },
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
-        },
-        {
-          "name": "Mike Lindsay",
-          "url": "https://open.spotify.com/artist/7JY39clELNh1MLQBJs6MAk"
+          "name": "Grace Cummings",
+          "url": "https://open.spotify.com/artist/3uAWPonHw80gRQRUjhdW5a"
         }
       ],
-      "duration_ms": 193000,
-      "name": "We Cannot Resist - Edit",
-      "url": "https://open.spotify.com/track/6gk9Cnmk1TwKwVJWAJPLPa"
+      "duration_ms": 198750,
+      "name": "Raglan",
+      "url": "https://open.spotify.com/track/2w2cEcgcSTkCE3TiHCmPxM"
     },
     {
       "added_at": "2024-07-05 20:01:43",
@@ -2295,18 +2287,26 @@
     {
       "added_at": "2024-07-05 20:01:43",
       "album": {
-        "name": "Storm Queen",
-        "url": "https://open.spotify.com/album/3hN0ZqYY64lyk6IGhJyLvU"
+        "name": "We Cannot Resist",
+        "url": "https://open.spotify.com/album/1wvs3xZ4xOsFXG6jZJCttW"
       },
       "artists": [
         {
-          "name": "Grace Cummings",
-          "url": "https://open.spotify.com/artist/3uAWPonHw80gRQRUjhdW5a"
+          "name": "LUMP",
+          "url": "https://open.spotify.com/artist/4gQsGkfdB4uVrNBqo4MhmI"
+        },
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        },
+        {
+          "name": "Mike Lindsay",
+          "url": "https://open.spotify.com/artist/7JY39clELNh1MLQBJs6MAk"
         }
       ],
-      "duration_ms": 198750,
-      "name": "Raglan",
-      "url": "https://open.spotify.com/track/2w2cEcgcSTkCE3TiHCmPxM"
+      "duration_ms": 193000,
+      "name": "We Cannot Resist - Edit",
+      "url": "https://open.spotify.com/track/6gk9Cnmk1TwKwVJWAJPLPa"
     },
     {
       "added_at": "2024-07-05 20:01:43",
@@ -2363,22 +2363,6 @@
     {
       "added_at": "2024-07-05 20:01:43",
       "album": {
-        "name": "Slice of Life",
-        "url": "https://open.spotify.com/album/0oAdL3ENxGGow7Fy0mWdoz"
-      },
-      "artists": [
-        {
-          "name": "Liz Cooper",
-          "url": "https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH"
-        }
-      ],
-      "duration_ms": 283922,
-      "name": "Slice of Life",
-      "url": "https://open.spotify.com/track/5oUr4PECM3gisd18Nwlrfr"
-    },
-    {
-      "added_at": "2024-07-05 20:01:43",
-      "album": {
         "name": "Growin' Down",
         "url": "https://open.spotify.com/album/5skKCz7lFau3mYIBFDdkw9"
       },
@@ -2391,6 +2375,22 @@
       "duration_ms": 256000,
       "name": "Growin' Down",
       "url": "https://open.spotify.com/track/364HspDHZe7P1vNHDiO4ic"
+    },
+    {
+      "added_at": "2024-07-05 20:01:43",
+      "album": {
+        "name": "Slice of Life",
+        "url": "https://open.spotify.com/album/0oAdL3ENxGGow7Fy0mWdoz"
+      },
+      "artists": [
+        {
+          "name": "Liz Cooper",
+          "url": "https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH"
+        }
+      ],
+      "duration_ms": 283922,
+      "name": "Slice of Life",
+      "url": "https://open.spotify.com/track/5oUr4PECM3gisd18Nwlrfr"
     },
     {
       "added_at": "2024-07-05 20:01:43",

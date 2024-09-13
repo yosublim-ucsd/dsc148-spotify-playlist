@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnX01c6gE6x.md) - [plain]
 
 > Podcasts que necesitas tener en el RADAR\. En la portada: <a href="https://open.spotify.com/show/1oqmfEuvybQ41YrSbPgEhZ?si=aee7681de4dd411e">Buzón de Quejas</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,922 likes - 10 songs - 11 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,923 likes - 10 songs - 11 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

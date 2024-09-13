@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Real Boston Richey
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,205,878 likes - 100 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,205,977 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 23 | [Count Money \(feat\. Bossman Dlow\)](https://open.spotify.com/track/5qOQkax7uhJmezY1dWjJj6) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Count Money \(feat\. Bossman Dlow\)](https://open.spotify.com/album/4ce8dUVfxMp8FazEMMKBhK) | 2:42 |
 | 24 | [Free Dem Ones](https://open.spotify.com/track/7gh15cs3CH3dgUrnMvAN8Y) | [Lil Zay Osama](https://open.spotify.com/artist/7rkcFChEJ9tCLcVevtu0Nt) | [The Streets Calling My Name](https://open.spotify.com/album/1oqK23RP4WGKRWwvZn2idu) | 2:09 |
 | 25 | [Detroit \(feat\. 42 Dugg\)](https://open.spotify.com/track/0YebffGPds68lEWzM8qruN) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Detroit \(feat\. 42 Dugg\)](https://open.spotify.com/album/6JcBaqDbyPZWj4IeKLzk8v) | 2:30 |
-| 26 | [MALIBU \- WITH TEE GRIZZLEY & G HERBO](https://open.spotify.com/track/72P14Y3mB5PUSEHAnBDIQ4) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [JUST RE'D UP 3](https://open.spotify.com/album/2qkZWTL0e6lDon20SCiP69) | 3:13 |
-| 27 | [Tweakers \(feat\. Rob49 & Skilla Baby\)](https://open.spotify.com/track/296Xh4TLu5TKtTZH5kw3c3) | [Doodie Lo](https://open.spotify.com/artist/5YlfEcVGygV1M3jH9GxkU7), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Tweakers \(feat\. Rob49 & Skilla Baby\)](https://open.spotify.com/album/3qhSnRyepf8dr7KGpAmHpg) | 2:18 |
+| 26 | [MALIBU \(WITH TEE GRIZZLEY & G HERBO\)](https://open.spotify.com/track/72P14Y3mB5PUSEHAnBDIQ4) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [JUST RE'D UP 3](https://open.spotify.com/album/2qkZWTL0e6lDon20SCiP69) | 3:13 |
+| 27 | [TWEAKERS \(feat\. Rob49 & Skilla Baby\)](https://open.spotify.com/track/296Xh4TLu5TKtTZH5kw3c3) | [Doodie Lo](https://open.spotify.com/artist/5YlfEcVGygV1M3jH9GxkU7), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [TWEAKERS \(feat\. Rob49 & Skilla Baby\)](https://open.spotify.com/album/3qhSnRyepf8dr7KGpAmHpg) | 2:18 |
 | 28 | [SHHHH](https://open.spotify.com/track/0cIoiQRGAxt5NnfCO6Muiz) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF) | [More Than A Shooter](https://open.spotify.com/album/4NoSTI3rVH4ylcf8v45eVn) | 1:59 |
 | 29 | [Swear to God \(feat\. Future\)](https://open.spotify.com/track/0N3A0tvQ3ppZerKA8Gsztp) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Swear to God \(feat\. Future\)](https://open.spotify.com/album/5j8aNVtgdhzP7azN05Z9h5) | 3:00 |
 | 30 | [How I Grew Up \(feat\. Polo G\)](https://open.spotify.com/track/6ZnOfn9ylrTmC8d3p6FFXy) | [Lil Zay Osama](https://open.spotify.com/artist/7rkcFChEJ9tCLcVevtu0Nt), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [How I Grew Up \(feat\. Polo G\)](https://open.spotify.com/album/1wW9PQfzz7Q5GO9oLhA67k) | 3:02 |

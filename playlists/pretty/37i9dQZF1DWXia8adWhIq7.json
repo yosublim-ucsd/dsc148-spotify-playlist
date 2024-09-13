@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Os Meireles",
-  "num_followers": 97909,
+  "num_followers": 97947,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "\u00c9 de Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/5i6tJzC8I16Rwc6YTsmFK4"
-      },
-      "artists": [
-        {
-          "name": "Welcson",
-          "url": "https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN"
-        }
-      ],
-      "duration_ms": 196306,
-      "name": "\u00c9 de Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0GcE9fifKZiHDX0EroenSk"
-    },
-    {
-      "added_at": "2024-08-30 03:01:00",
-      "album": {
         "name": "Levanto um Aleluia",
         "url": "https://open.spotify.com/album/5ICoXgfFN4Xr7viHJg0A4U"
       },
@@ -763,22 +747,18 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Fui Liberto",
-        "url": "https://open.spotify.com/album/7lCvaQSTaQluCslUV5UKL3"
+        "name": "\u00c9 de Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/5i6tJzC8I16Rwc6YTsmFK4"
       },
       "artists": [
         {
-          "name": "Nicole Gomes",
-          "url": "https://open.spotify.com/artist/7jB4K4d4UhifvVAH566guA"
-        },
-        {
-          "name": "Gospel Beat Brasil",
-          "url": "https://open.spotify.com/artist/3YqEjhglsMTsj8bIh6L0vU"
+          "name": "Welcson",
+          "url": "https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN"
         }
       ],
-      "duration_ms": 153333,
-      "name": "Fui Liberto",
-      "url": "https://open.spotify.com/track/3rsC6Zxyo2tmsn9LCfsp2t"
+      "duration_ms": 196306,
+      "name": "\u00c9 de Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0GcE9fifKZiHDX0EroenSk"
     },
     {
       "added_at": "2024-08-30 03:01:00",
@@ -799,6 +779,26 @@
       "duration_ms": 135230,
       "name": "minha vida",
       "url": "https://open.spotify.com/track/4u9rhcGy5RjTxJSbETsqsP"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
+        "name": "Deixar para Tr\u00e1s",
+        "url": "https://open.spotify.com/album/3hr6fsLFfPQprq1u4uibdZ"
+      },
+      "artists": [
+        {
+          "name": "Jessi Dias",
+          "url": "https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83"
+        },
+        {
+          "name": "Guimar\u00e3es Beats",
+          "url": "https://open.spotify.com/artist/30dIfXffH1eGAXDb3cZVlo"
+        }
+      ],
+      "duration_ms": 168461,
+      "name": "Deixar para Tr\u00e1s",
+      "url": "https://open.spotify.com/track/7ufGcPQPvEPstuBOyxUiWt"
     },
     {
       "added_at": "2024-08-30 03:01:00",
@@ -843,22 +843,22 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Deixar para Tr\u00e1s",
-        "url": "https://open.spotify.com/album/3hr6fsLFfPQprq1u4uibdZ"
+        "name": "Fui Liberto",
+        "url": "https://open.spotify.com/album/7lCvaQSTaQluCslUV5UKL3"
       },
       "artists": [
         {
-          "name": "Jessi Dias",
-          "url": "https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83"
+          "name": "Nicole Gomes",
+          "url": "https://open.spotify.com/artist/7jB4K4d4UhifvVAH566guA"
         },
         {
-          "name": "Guimar\u00e3es Beats",
-          "url": "https://open.spotify.com/artist/30dIfXffH1eGAXDb3cZVlo"
+          "name": "Gospel Beat Brasil",
+          "url": "https://open.spotify.com/artist/3YqEjhglsMTsj8bIh6L0vU"
         }
       ],
-      "duration_ms": 168461,
-      "name": "Deixar para Tr\u00e1s",
-      "url": "https://open.spotify.com/track/7ufGcPQPvEPstuBOyxUiWt"
+      "duration_ms": 153333,
+      "name": "Fui Liberto",
+      "url": "https://open.spotify.com/track/3rsC6Zxyo2tmsn9LCfsp2t"
     },
     {
       "added_at": "2024-08-30 03:01:00",
@@ -1339,18 +1339,22 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Enganoso Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/3bH6OZFff0l1tkhJg28nUx"
+        "name": "Farol",
+        "url": "https://open.spotify.com/album/39fdEyYkRRWBQ2Vu4WSFe5"
       },
       "artists": [
         {
-          "name": "Bea Rodrigues",
-          "url": "https://open.spotify.com/artist/6QdkjyPcxIa4L8JYoIh16i"
+          "name": "Temis Handeri",
+          "url": "https://open.spotify.com/artist/3fTMaYM5vfKaSY4HiwEQSA"
+        },
+        {
+          "name": "Weslley Fonseca",
+          "url": "https://open.spotify.com/artist/44tt6vxqg3vYCiTm8p8Rg9"
         }
       ],
-      "duration_ms": 190023,
-      "name": "Enganoso Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/61vB9Mg9vX8G4uwLKmn2n9"
+      "duration_ms": 223200,
+      "name": "Farol",
+      "url": "https://open.spotify.com/track/6D4epvcopIMiBNlDUQyLFW"
     },
     {
       "added_at": "2024-08-30 03:01:00",
@@ -1371,22 +1375,18 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Farol",
-        "url": "https://open.spotify.com/album/39fdEyYkRRWBQ2Vu4WSFe5"
+        "name": "Enganoso Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/3bH6OZFff0l1tkhJg28nUx"
       },
       "artists": [
         {
-          "name": "Temis Handeri",
-          "url": "https://open.spotify.com/artist/3fTMaYM5vfKaSY4HiwEQSA"
-        },
-        {
-          "name": "Weslley Fonseca",
-          "url": "https://open.spotify.com/artist/44tt6vxqg3vYCiTm8p8Rg9"
+          "name": "Bea Rodrigues",
+          "url": "https://open.spotify.com/artist/6QdkjyPcxIa4L8JYoIh16i"
         }
       ],
-      "duration_ms": 223200,
-      "name": "Farol",
-      "url": "https://open.spotify.com/track/6D4epvcopIMiBNlDUQyLFW"
+      "duration_ms": 190023,
+      "name": "Enganoso Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/61vB9Mg9vX8G4uwLKmn2n9"
     },
     {
       "added_at": "2024-08-30 03:01:00",

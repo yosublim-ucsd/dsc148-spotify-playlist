@@ -2,12 +2,13 @@
 
 ### [karakter.](https://open.spotify.com/playlist/37i9dQZF1DXa6nwj9J2RnE)
 
-> edgy en met karakter\. cover: Sandor Dayala
+> edgy en met karakter\. cover: YVES
 
-150 songs - 8 hr 3 min
+152 songs - 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [17](https://open.spotify.com/track/1jAJ9FXLqs3HdBZ7o1TF02) | [Suilju](https://open.spotify.com/artist/68UTqb5uLKpStTq7jKW54j) | [17](https://open.spotify.com/album/0MMxrTsLuIeiTYEK8alNJc) | 1:41 | 2024-09-12 |  |
 | [2 SCHORPIOENEN](https://open.spotify.com/track/18jXrwLtijGhDIu3pykVTu) | [Abel](https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [2 SCHORPIOENEN / MENSEN ZOALS WIJ](https://open.spotify.com/album/1LOXaDwD16CU5WVcrcDD9t) | 0:56 | 2024-05-31 | 2024-06-22 |
 | [220](https://open.spotify.com/track/6XOjW4o65uMwEhQTreISpU) | [Shadi](https://open.spotify.com/artist/6KRiktIvEommt5qfwLOxBz) | [220](https://open.spotify.com/album/3WH90hL7AUK8lbPsQ4yTYp) | 3:47 | 2023-02-23 | 2023-03-18 |
 | [24/7](https://open.spotify.com/track/37E6beg4rfSVrJh5XHTad7) | [FLORA](https://open.spotify.com/artist/3QroRhBWtyB95SWJ7kyj5W) | [24/7](https://open.spotify.com/album/6rD5BrQ8q6A1Uw9aIoRgMt) | 3:13 | 2023-08-24 |  |
@@ -73,7 +74,7 @@
 | [just killing \(time\)](https://open.spotify.com/track/0yiXlHnykTqp7srRhFPYQ3) | [Socks;SportsSocks](https://open.spotify.com/artist/5iofxr31yEqGuxH0OIrAEq) | [just killing \(time\)](https://open.spotify.com/album/1dVLxrIx7iT4Vx1cLK9ZKA) | 4:00 | 2023-02-23 | 2023-03-18 |
 | [Kaleidoscope](https://open.spotify.com/track/2AmmNNrgRTKxLCliZaTGUH) | [CHARLOT](https://open.spotify.com/artist/4jwyHfEELByxcUm6JEP5yC) | [Kaleidoscope](https://open.spotify.com/album/6ZgcinB5KSfxxiTbMBO59U) | 3:22 | 2024-03-07 | 2024-06-22 |
 | [Karma \(Symphony In G Minor\)](https://open.spotify.com/track/6ekDpGPpRzBk7HZhWpNrvW) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO), [Ray Fuego](https://open.spotify.com/artist/3UYgneqZCePK5PhrHE8E9U), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [Bae Doven No\. 1](https://open.spotify.com/album/6BMIKnnkgFymPqYSW9GxHH) | 3:45 | 2023-02-23 | 2023-09-01 |
-| [Kaviaar](https://open.spotify.com/track/7DGgPtuR1OC61sTrVYVL1X) | [Rens, Jaïr & Ome Uncle](https://open.spotify.com/artist/6qk91FiZD8n4SeSWZTj9vD) | [Kaviaar](https://open.spotify.com/album/0kd3q6bDKG80xMyUbdUsc1) | 2:26 | 2024-06-13 |  |
+| [Kaviaar](https://open.spotify.com/track/7DGgPtuR1OC61sTrVYVL1X) | [Rens, Jaïr & Ome Uncle](https://open.spotify.com/artist/6qk91FiZD8n4SeSWZTj9vD) | [Kaviaar](https://open.spotify.com/album/0kd3q6bDKG80xMyUbdUsc1) | 2:26 | 2024-06-13 | 2024-09-13 |
 | [Kop In The Sand](https://open.spotify.com/track/4XCw1TmwEKcU2rbUQAvSNk) | [The Dean](https://open.spotify.com/artist/6ado6OQHT11e73WVhbAo4c) | [Kop In The Sand](https://open.spotify.com/album/3lRqcRvlYbaqK65LTnUZno) | 2:12 | 2023-09-22 | 2024-06-26 |
 | [KROKODILLENTRANEN](https://open.spotify.com/track/1MfB3nj3mpBs0kIknCa5Jq) | [Gianski](https://open.spotify.com/artist/1tC6NRB6c1mVgV4xrqrOgy) | [KROKODILLENTRANEN](https://open.spotify.com/album/3kotYFrp56wZNHMruY4lxh) | 2:48 | 2024-02-15 | 2024-06-26 |
 | [laat me niet los](https://open.spotify.com/track/0ITnIwJPzu6GDXgPnM3gFk) | [Sandor Dayala](https://open.spotify.com/artist/34h516CVwMVPYFkeSLSW69) | [OPEN](https://open.spotify.com/album/6ofyMWnnOfhJ7KiCQxtqvx) | 2:22 | 2024-05-17 |  |
@@ -102,6 +103,7 @@
 | [Pelechian](https://open.spotify.com/track/2txPrKoY55bOdb7eO0dxVz) | [Thomas Azier](https://open.spotify.com/artist/6AE7CSJUwDMnTXV4yKVLLv) | [Pelechian](https://open.spotify.com/album/4AlsQL5uhfmbH7uKQvZx4g) | 2:34 | 2023-02-23 | 2024-03-08 |
 | [PRADA STELEN](https://open.spotify.com/track/3KRNIDpr9CVCJ3ai2OGUlG) | [Abel](https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0), [IJSLAND](https://open.spotify.com/artist/6qldO9Y7hb0qI9J50uR1zW) | [IJSLAND](https://open.spotify.com/album/3Rqpc58WsgqBIDG3KVMiNB) | 3:11 | 2024-06-21 | 2024-09-10 |
 | [round and round](https://open.spotify.com/track/4trRNTD2vikuHOb0mJPWXe) | [DEHAZE](https://open.spotify.com/artist/3lFS8jJTgqYqETcnc8rpF4) | [round and round](https://open.spotify.com/album/0jkKfyJLmkKmCGYoo4GA7c) | 3:22 | 2024-03-28 |  |
+| [Safari](https://open.spotify.com/track/63m0FSZlrlvZsw4NqC2ZJA) | [YVES](https://open.spotify.com/artist/4QjFiRcZUcXUppYUR29MuQ) | [Safari](https://open.spotify.com/album/6Ls71z8Zwbzw6zMwxWkv2a) | 3:06 | 2024-09-12 |  |
 | [Same Room](https://open.spotify.com/track/50tVoG8Nxgm306HKSiwYZV) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [UI](https://open.spotify.com/album/27cG0rL8gIm1yQekB8ibjL) | 3:22 | 2023-02-23 | 2024-02-03 |
 | [Same Room](https://open.spotify.com/track/7JKcsNXSjFVKtA6YT7BNGZ) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [Cool Party](https://open.spotify.com/album/1G0VH29venEyfSgCtMddwo) | 3:22 | 2024-01-29 | 2024-03-08 |
 | [Scheef](https://open.spotify.com/track/2vMHhWv9bIS2IpVcwALlKZ) | [THYRZA](https://open.spotify.com/artist/6Y0fFuFrEgAyOD2eIMwUX5) | [Scheef](https://open.spotify.com/album/3KwnniiGH4XmOs5FQgIoSp) | 3:16 | 2023-05-25 | 2024-06-01 |
@@ -152,7 +154,7 @@
 | [wolken](https://open.spotify.com/track/26QmlgDd3OyGvXPjueLSHW) | [damy](https://open.spotify.com/artist/174dVKjThMTw6S3PYfYUZK) | [mensenkind](https://open.spotify.com/album/2ezRCf4Loqn8azlJxAV6QM) | 2:24 | 2023-10-12 |  |
 | [Woman Life Freedom](https://open.spotify.com/track/4pbNBY48GTfZ16X4jJxba5) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [Woman Life Freedom](https://open.spotify.com/album/4GB69MswlOepsu21T0NqUF) | 4:12 | 2023-02-23 | 2023-11-08 |
 | [youandme](https://open.spotify.com/track/51mffAss4N5q3VVkLR02TE) | [Noha Saré](https://open.spotify.com/artist/2r3TXsrjx7eICwgL0Bk2l7) | [Into Your Head](https://open.spotify.com/album/1YgODoJinZO2aL2Zhqtv6r) | 2:59 | 2023-03-16 | 2024-06-26 |
-| [Young Boys](https://open.spotify.com/track/2Z6xysTOfIExe2jyIVkvu0) | [Typhoon](https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx) | [Twintig](https://open.spotify.com/album/5wkHqexQg1M5wNl7PtI3nU) | 2:46 | 2024-07-11 |  |
+| [Young Boys](https://open.spotify.com/track/2Z6xysTOfIExe2jyIVkvu0) | [Typhoon](https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx) | [Twintig](https://open.spotify.com/album/5wkHqexQg1M5wNl7PtI3nU) | 2:46 | 2024-07-11 | 2024-09-13 |
 | [Zo Zijn](https://open.spotify.com/track/1q30hUyUUZyjytlKTJz4cI) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO) | [Zo Zijn](https://open.spotify.com/album/2AaXaMEDHo0ZJbvsoTmynp) | 3:12 | 2023-02-23 | 2023-04-28 |
 | [Zondagskind](https://open.spotify.com/track/5hWgdvdXXvq6l9ezrFeI8F) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Ik Besta Voor Altijd Zolang Jij Aan Mij Denkt](https://open.spotify.com/album/0g6FAxEKgMT5mZMQuEVAQ3) | 2:45 | 2023-02-23 | 2023-04-01 |
 | [Zonder](https://open.spotify.com/track/4ZMYnbAOkyOIhfuA0hHHq0) | [Meis](https://open.spotify.com/artist/5F2t3lvOUglnG8ZqUUWDKW) | [Zonder](https://open.spotify.com/album/1yPgri8VVGPHaHoI8Mc18h) | 3:25 | 2023-04-27 | 2024-06-14 |

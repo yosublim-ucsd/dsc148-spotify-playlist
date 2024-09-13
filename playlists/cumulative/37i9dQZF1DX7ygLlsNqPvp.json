@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The most intense local drill music firing up the continent. Cover:  Kawabanga",
+  "description": "The most intense local drill music firing up the continent. Cover:  Oseikrom Sikanii",
   "name": "Asakaa",
   "tracks": [
     {
@@ -684,7 +684,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 203736,
       "name": "ASOR",
       "url": "https://open.spotify.com/track/50ZxuYLK3Ksexm6GoyqRom"
@@ -2054,7 +2054,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 137372,
       "name": "Heavy",
       "url": "https://open.spotify.com/track/3gx7QVp3Ai7caWWm0MBCW4"
@@ -2196,6 +2196,28 @@
       "duration_ms": 236826,
       "name": "Invoice (feat. JayBhad and Superwozzy)",
       "url": "https://open.spotify.com/track/0OhBrDka6qnfgUAqJmVOep"
+    },
+    {
+      "album": {
+        "name": "Iron Boy",
+        "url": "https://open.spotify.com/album/10UlMBNZDUc1444tKBYJGs"
+      },
+      "artists": [
+        {
+          "name": "Fonye",
+          "url": "https://open.spotify.com/artist/0wtEd1BCIE0Kj5BOOLb3AE"
+        },
+        {
+          "name": "DJ Faculty",
+          "url": "https://open.spotify.com/artist/4H1pPIzeLYZbxNW3Sx1lLG"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163342,
+      "name": "Iron Boy",
+      "url": "https://open.spotify.com/track/2i5Kl8klG0WeHiQ4Z90YYr"
     },
     {
       "album": {
@@ -3059,6 +3081,28 @@
     },
     {
       "album": {
+        "name": "Number One",
+        "url": "https://open.spotify.com/album/0Y97fk9XrGIgug3IhNKwZt"
+      },
+      "artists": [
+        {
+          "name": "Oseikrom Sikanii",
+          "url": "https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN"
+        },
+        {
+          "name": "Beeztrap KOTM",
+          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172094,
+      "name": "Number One",
+      "url": "https://open.spotify.com/track/4u2IJkXgyYQTj0PZEMwcPy"
+    },
+    {
+      "album": {
         "name": "O Di Dan Dan",
         "url": "https://open.spotify.com/album/3g0AJa6WAwfArIjzyGR6yh"
       },
@@ -3390,7 +3434,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 183923,
       "name": "On God",
       "url": "https://open.spotify.com/track/6fOO1B6FqtPa0HON1uQTyC"

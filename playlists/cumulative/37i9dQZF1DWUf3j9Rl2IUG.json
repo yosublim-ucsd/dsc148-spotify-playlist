@@ -1054,7 +1054,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 159965,
       "name": "bend you",
       "url": "https://open.spotify.com/track/6JEVeodVZrjrTZhc1RjMvi"
@@ -1634,6 +1634,32 @@
       "duration_ms": 188629,
       "name": "Confession",
       "url": "https://open.spotify.com/track/4ucXeGcKKzubgHb932T6sl"
+    },
+    {
+      "album": {
+        "name": "Constantly",
+        "url": "https://open.spotify.com/album/6tqG51134jDxxuWMaEgn8O"
+      },
+      "artists": [
+        {
+          "name": "Hyce",
+          "url": "https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA"
+        },
+        {
+          "name": "BoyPee",
+          "url": "https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh"
+        },
+        {
+          "name": "Brown Joel",
+          "url": "https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193567,
+      "name": "Constantly",
+      "url": "https://open.spotify.com/track/3MldGIMtPcupNBI4Dnxolr"
     },
     {
       "album": {
@@ -6220,7 +6246,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 136842,
       "name": "Rent Free",
       "url": "https://open.spotify.com/track/320cXn7htYGuAzNyxLDs3M"
@@ -6538,6 +6564,28 @@
       "duration_ms": 160280,
       "name": "shadow",
       "url": "https://open.spotify.com/track/6Jllvxl97ni5T2bW3zEDGi"
+    },
+    {
+      "album": {
+        "name": "Shagara",
+        "url": "https://open.spotify.com/album/40blKlB4Hlfh19dHcoSoai"
+      },
+      "artists": [
+        {
+          "name": "Iyanya",
+          "url": "https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h"
+        },
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201428,
+      "name": "Shagara",
+      "url": "https://open.spotify.com/track/0yxmn9m8srZL6Ood6LVXfl"
     },
     {
       "album": {

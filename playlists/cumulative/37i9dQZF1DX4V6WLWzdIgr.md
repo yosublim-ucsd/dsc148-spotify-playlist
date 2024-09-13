@@ -4,7 +4,7 @@
 
 > Sedihe koyo ngene, jangan ya dek ya! 😢
 
-98 songs - 8 hr 11 min
+100 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,8 +36,10 @@
 | [Gak Pernah Cukup](https://open.spotify.com/track/3nmsic2kCWqzDTPHVLXVcn) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Gak Pernah Cukup](https://open.spotify.com/album/41Xs0KpcT1GoIZrWahujKJ) | 4:58 | 2021-09-08 |  |
 | [Gampil](https://open.spotify.com/track/6T03CN5UVnCGPz3muqvpOz) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Gampil](https://open.spotify.com/album/0UjiKUCJA3xHzSfhjlqqVk) | 4:51 | 2024-01-11 |  |
 | [Gede Roso](https://open.spotify.com/track/3WdcGNxJHzyjZdu6Y15E6G) | [Abah Lala](https://open.spotify.com/artist/6BkCOBTVHP3E2FoLnEKauW) | [Gede Roso](https://open.spotify.com/album/5CnwfcvfEAJyAImoXTPJtu) | 3:53 | 2021-09-08 |  |
+| [HTS](https://open.spotify.com/track/6qDtRm3pWLFKFW02FoDHVt) | [Lavora](https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4) | [HTS](https://open.spotify.com/album/3cIn9ze7231HGFB6AD72cU) | 4:15 | 2024-09-12 |  |
 | [HTS](https://open.spotify.com/track/04RtfxsXh0VDrEKfnvpXFI) | [Nayla Fardila](https://open.spotify.com/artist/3j0qZWmFuvRwN6OcG4m4Fh) | [HTS](https://open.spotify.com/album/1ZZMNuAJlEXBfcKL7kGOkl) | 4:43 | 2024-08-02 |  |
 | [Jajal Kowe Dadi Aku](https://open.spotify.com/track/0VSNH5XtyjQL8qCurq31Cf) | [Syahiba Saufa](https://open.spotify.com/artist/1a8EV67v0WSk7czvboxGYz) | [Jajal Kowe Dadi Aku](https://open.spotify.com/album/37qGCmUzMc4OH6sO15s4cM) | 3:52 | 2021-09-08 |  |
+| [Jejantunging Kalbu](https://open.spotify.com/track/3ZnKGBeVyJrs4gFVtsEJmD) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Jejantunging Kalbu](https://open.spotify.com/album/2ynImb4jWZArEaeN5MbM1Y) | 4:29 | 2024-09-12 |  |
 | [Kalah](https://open.spotify.com/track/6w7wnRZVLdVQGpvAnpI7Wf) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL), [Restianade](https://open.spotify.com/artist/2snngeuArUgVK4TxAWwe9a) | [Kalah](https://open.spotify.com/album/3sOqpgD6n7tYmN75GdUGYx) | 6:38 | 2024-05-27 |  |
 | [Kalah](https://open.spotify.com/track/0KeuJeDhAHnD0nCgbym7vL) | [Shinta Arsinta](https://open.spotify.com/artist/1NrPlp7STfCyPAoJgc2ZJg), [Arya Galih](https://open.spotify.com/artist/0Wj9YjGnGFIrD6lyThCeZQ) | [Kalah](https://open.spotify.com/album/5BZM4S3KOuVxOr3cfehJaX) | 7:46 | 2024-04-04 |  |
 | [Kalah \- Akustik](https://open.spotify.com/track/7wbEmhR9RaC0pv7kfglpOC) | [Restianade](https://open.spotify.com/artist/7A9lPm8R65nJT5ujGJzy5I), [Surepman](https://open.spotify.com/artist/2b2nAj7iDQts7X8gaX6AdR) | [Kalah \(Akustik\)](https://open.spotify.com/album/2PzvYLgoAndKB4JFTy9bna) | 6:47 | 2024-04-04 |  |

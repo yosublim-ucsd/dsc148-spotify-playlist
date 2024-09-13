@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Fred again.., Camila Cabello, Halsey, Jessie Murph and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,216,629 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,216,820 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 56 | [Body Type](https://open.spotify.com/track/7iD8SlzwQB6zOVEA4wm3oN) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Body Type](https://open.spotify.com/album/6pteqWmVaX9tkjvzUbdmvG) | 2:12 |
 | 57 | [BBA \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/2is7SQVl0417fY8Cw56Jkf) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Infinite Icon](https://open.spotify.com/album/1nfalq2GeQblyDqn9wYzWx) | 2:55 |
 | 58 | [4AM](https://open.spotify.com/track/5T0OwBv2hItWQkKnzvFkNF) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [4AM](https://open.spotify.com/album/7I80383Bwa36xMdj5TamAx) | 1:49 |
-| 59 | [My Town](https://open.spotify.com/track/0altHSdZBn3X55KdiyGGlW) | [BAK Jay](https://open.spotify.com/artist/7L2tttKztwzcNqrKUiEbZR) | [My Town](https://open.spotify.com/album/2sWkuTSaPs51w9AOUxPd8j) | 2:13 |
+| 59 | [My Town](https://open.spotify.com/track/5w01S5kO0adzlpGEO6ttuH) | [BAK Jay](https://open.spotify.com/artist/7L2tttKztwzcNqrKUiEbZR) | [My Town](https://open.spotify.com/album/1LuwwqUfbBJgLpxai9HL07) | 2:13 |
 | 60 | [Chrome](https://open.spotify.com/track/4zh2G1zGXAZUYs5X4FKSRA) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Chrome](https://open.spotify.com/album/5fh2Gvkv8SaLkKO7S4aGVe) | 3:10 |
 | 61 | [Knights](https://open.spotify.com/track/2Itl2vcZYLyn5hNXMYnAAM) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Escaper](https://open.spotify.com/album/1DKZiCIxfbZB5I1p7JhXym) | 3:29 |
 | 62 | [I Can Be Your Mother](https://open.spotify.com/track/4Ugn4h2XTJuRmJ92SLw4GP) | [SOFIA ISELLA](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [I Can Be Your Mother](https://open.spotify.com/album/0BRlexMfgtY7v5ggJP6F4C) | 4:38 |
@@ -89,11 +89,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 79 | [HAPPIER!](https://open.spotify.com/track/2qHm3MPkUJafgf12ZrkB2P) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [HAPPIER!](https://open.spotify.com/album/505DeQT9f4YelWWK9j0t2L) | 3:54 |
 | 80 | [6' Pole](https://open.spotify.com/track/4olRAKphRJyntqrtlNW65v) | [Safe Mind](https://open.spotify.com/artist/4adzRTzhsBKFneEkLp2sts), [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG), [LUCY \(Cooper B\. Handy\)](https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK) | [6' Pole](https://open.spotify.com/album/6hmFxhEYhUvgZXLY2itcj0) | 3:55 |
 | 81 | [The Heat](https://open.spotify.com/track/48dpaw8uNJOaOQqh4tuk7p) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [The Heat](https://open.spotify.com/album/5yz98zU9Q0jqwaBP1ppMI4) | 2:30 |
-| 82 | [Runnit Back](https://open.spotify.com/track/4QN7YaFDyW8SUAneLS86BO) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [THE FORCE](https://open.spotify.com/album/1Q7mpQ7mDOK2snlbb0g5Q2) | 2:46 |
+| 82 | [Runnit Back](https://open.spotify.com/track/3bsRYAhhM86a3egINAKALh) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [THE FORCE](https://open.spotify.com/album/27LiHmMNnXEDUOBUXPqndi) | 2:46 |
 | 83 | [Biking](https://open.spotify.com/track/2LAhOlxPHwpsxKi74FXi7O) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Biking](https://open.spotify.com/album/2NsIuJ6GalDZSyaRntN0ad) | 2:50 |
 | 84 | [Think I Wanna See You Again](https://open.spotify.com/track/72uh3fbNvqqdOu6UDcsbkO) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [Think I Wanna See You Again](https://open.spotify.com/album/1KljxjTkgDYuPxqZejmnay) | 2:28 |
 | 85 | [Soft Spine](https://open.spotify.com/track/3t5GlWUzGSt2lPuiSEPBFG) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Soft Spine](https://open.spotify.com/album/54Upk1Q8DmVaMR2MrOvoiR) | 3:03 |
-| 86 | [Combo](https://open.spotify.com/track/3LUi9n9mMOR1eK3kle7oCe) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [RIIZING : Epilogue \- The 1st Mini Album](https://open.spotify.com/album/7ug3rkXUrzOKpDZ1Sxk7Oh) | 3:39 |
+| 86 | [Combo](https://open.spotify.com/track/0W0STGeR1lBHBbDgdB0uie) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [RIIZING : Epilogue \- The 1st Mini Album](https://open.spotify.com/album/12H3XVm97o4FhhWhtRnBWY) | 3:39 |
 | 87 | [UMPA](https://open.spotify.com/track/470IhQSaAri29VEf2BZq7s) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Baggy$$](https://open.spotify.com/album/0cX9ldzQG2UYMHo6ILXXYk) | 2:32 |
 | 88 | [Mud \(with Kalan.Frfr, Bun B, UnoTheActivist\)](https://open.spotify.com/track/4Ki31w31mvbM6cc4Y4MgG7) | [Anwar Carrots](https://open.spotify.com/artist/1iaMvqXg0uIA3dVMMMiIvS), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly), [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO), [UnoTheActivist](https://open.spotify.com/artist/0bZ9jANLkwEFVcSnHnwrpb) | [Mud](https://open.spotify.com/album/3tpK49I5mRjYMZY2vk6H7n) | 4:31 |
 | 89 | [Closer to God](https://open.spotify.com/track/5zHzofWXEpq1KiYIqTv7s2) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [WOOF.](https://open.spotify.com/album/5zuQQIzkoyry8lZrmW4744) | 3:46 |

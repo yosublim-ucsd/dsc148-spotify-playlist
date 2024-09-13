@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: Cristina Lizzul",
+  "description": "Il meglio dell'R&B italiano. Cover: NIMSAY",
   "name": "anima R&B",
   "tracks": [
     {
@@ -1344,6 +1344,28 @@
       "duration_ms": 167076,
       "name": "bye",
       "url": "https://open.spotify.com/track/73vaEVHisIS9lPpMWRH5HF"
+    },
+    {
+      "album": {
+        "name": "C'AMMISCAMM ANCORA",
+        "url": "https://open.spotify.com/album/2LjYdhVS7Ho0e2kxb3hQmW"
+      },
+      "artists": [
+        {
+          "name": "VISCARDI",
+          "url": "https://open.spotify.com/artist/22dHXO4PwHpTyzfsVCWKlX"
+        },
+        {
+          "name": "Giada De Prisco",
+          "url": "https://open.spotify.com/artist/4FnGClu85ET5xFRwfvePxI"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142050,
+      "name": "C'AMMISCAMM ANCORA",
+      "url": "https://open.spotify.com/track/4li77JVuCpb2Ggp2m6GBKK"
     },
     {
       "album": {
@@ -4290,6 +4312,28 @@
       "duration_ms": 207698,
       "name": "Giorno libero",
       "url": "https://open.spotify.com/track/5FwJ5dvTZ2JVxDV6qlofv7"
+    },
+    {
+      "album": {
+        "name": "Giostre",
+        "url": "https://open.spotify.com/album/5DcKRnwoaptKHGlpeBlnOp"
+      },
+      "artists": [
+        {
+          "name": "Big Dave",
+          "url": "https://open.spotify.com/artist/7mJ5wRuabjjgBefTAQ1mST"
+        },
+        {
+          "name": "Giordano Dan",
+          "url": "https://open.spotify.com/artist/63Gyhf9hKGOAp5HhEqhyqk"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214899,
+      "name": "Giostre",
+      "url": "https://open.spotify.com/track/13Ig49AeCaLKKSX00S1spC"
     },
     {
       "album": {
@@ -8064,6 +8108,24 @@
       "duration_ms": 179478,
       "name": "OLTRELUNA",
       "url": "https://open.spotify.com/track/4dPau6Be8rtUrefrl1zxbZ"
+    },
+    {
+      "album": {
+        "name": "Ombre - Marzo",
+        "url": "https://open.spotify.com/album/77Z9VrKMnJOStCdNO6ftVu"
+      },
+      "artists": [
+        {
+          "name": "AIN\u00c9",
+          "url": "https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170384,
+      "name": "Ombre - Marzo",
+      "url": "https://open.spotify.com/track/4DyF2h99xNCiVM2VoQxMKW"
     },
     {
       "album": {

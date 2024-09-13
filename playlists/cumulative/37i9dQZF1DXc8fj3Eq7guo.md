@@ -4,7 +4,7 @@
 
 > Tag your location, we shall pass by as we go around Africa
 
-85 songs - 5 hr 38 min
+86 songs - 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Kisumu 100](https://open.spotify.com/track/1CrzeybNJCPLZLKoqHnUq5) | [Suzanna Owiyo](https://open.spotify.com/artist/6WayXrPvMCUFpgN3yynb33) | [Mama Africa](https://open.spotify.com/album/4JA5rtL6KDeAGQL2N8avVH) | 6:31 | 2023-09-08 | 2023-09-22 |
 | [LAGOS](https://open.spotify.com/track/0Yg8MfD8PBMTd0FhWWXrqK) | [DEELA](https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4), [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U) | [LAGOS](https://open.spotify.com/album/3PdhofyZlNFvqv3I9UMnef) | 2:41 | 2024-01-19 |  |
 | [Lagos](https://open.spotify.com/track/0YgAGCU3kDEMTvndL9u3Tw) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Loseyi Professor](https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4) | 2:25 | 2024-08-08 |  |
-| [Lagos](https://open.spotify.com/track/5u9wdFL8Gb6RWMtCGUa9Xw) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Lagos](https://open.spotify.com/album/2ZB7h9Nu1OYI0CMStgljYs) | 3:44 | 2023-09-08 |  |
+| [Lagos](https://open.spotify.com/track/5u9wdFL8Gb6RWMtCGUa9Xw) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Lagos](https://open.spotify.com/album/2ZB7h9Nu1OYI0CMStgljYs) | 3:44 | 2023-09-08 | 2024-09-13 |
 | [Lagos 101](https://open.spotify.com/track/7b0dJi7JyafNH4ueg479Qw) | [Bella Alubo](https://open.spotify.com/artist/4QorJVeBcR8p3rOveZtpSk), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Lagos 101](https://open.spotify.com/album/6cHp1TJC51U5R6EAhDnaKw) | 2:31 | 2023-09-08 |  |
 | [Lagos 2 Vegas](https://open.spotify.com/track/7hx0tEGdoAL9KG8k7SRcLT) | [Thutmose](https://open.spotify.com/artist/1igl9M102nuD96lo3ZoW5d) | [Lagos 2 Vegas](https://open.spotify.com/album/3pEhjim9cIerL9CPVaAwlK) | 2:31 | 2024-08-23 |  |
 | [Lagos Anthem](https://open.spotify.com/track/1vVLdumXpjKqiHF8OLdfSM) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Lagos Anthem](https://open.spotify.com/album/5d78fTQDQxh9ryCgymMZZr) | 3:29 | 2024-05-03 |  |
@@ -91,6 +91,7 @@
 | [Ukunda](https://open.spotify.com/track/40OIs7h6ycp9tVl9YJ6CgI) | [Bakhita](https://open.spotify.com/artist/1YC7oOze3tqAKiPk5aNWIy) | [Purge](https://open.spotify.com/album/6aHCku9sNDp37hKfHxdHRW) | 4:21 | 2023-09-08 | 2023-10-10 |
 | [Worldwide](https://open.spotify.com/track/3n7kzSJ246VvIe4lRmxV9X) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 3:02 | 2024-08-08 |  |
 | [Zaire](https://open.spotify.com/track/0yXya1lxf4ATYUAfr7arf1) | [Shane Eagle](https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV), [J\-Tek](https://open.spotify.com/artist/1lSGNvxefF3baOOG9mQtUj) | [Dark Moon Flower](https://open.spotify.com/album/2wbHOXGXPVKp9vezeglRD4) | 3:28 | 2023-09-08 |  |
+| [Zanzibar \(Alubarika\)](https://open.spotify.com/track/5ccyAhQd6y0HO92Td0lE6H) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Zanzibar \(Alubarika\)](https://open.spotify.com/album/1ZxpFOU3CetzatCymXQh1N) | 3:01 | 2024-09-12 |  |
 | [Zimbabwe](https://open.spotify.com/track/3evs5tv8NLr8VXi9LeA0Dv) | [Oliver Mtukudzi](https://open.spotify.com/artist/0HC2dfJHpORLT21AxEiTXJ) | [Grand Masters](https://open.spotify.com/album/1rfHIUUofjhGVV67I5cSZg) | 2:56 | 2023-09-08 | 2024-05-04 |
 | [Zimbabwe](https://open.spotify.com/track/3oerlR534UFui3TItBwvlo) | [Oliver Mtukudzi](https://open.spotify.com/artist/0HC2dfJHpORLT21AxEiTXJ) | [Oliver's Greatest Hits](https://open.spotify.com/album/6JoLBg1dHCeHXhmRd3qeKe) | 2:56 | 2023-11-24 | 2024-04-19 |
 

@@ -2,15 +2,15 @@
 
 ### [Indie GO](https://open.spotify.com/playlist/37i9dQZF1DX6dYPM8db5Sz)
 
-> The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/60oeRht0NXwELSxJNhQw7v?si=wBqRig7eQiGfN35dPviv7g">December Streets</a>
+> The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g?si=fpUT3NygSGya\_bjVTuWRoQ">Jeremy Loops</a>
 
-870 songs - 2 day 1 hr 27 min
+872 songs - 2 day 1 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [031](https://open.spotify.com/track/3wU1yl2Fy9spQUVp8rx8hW) | [Phillip Taylor](https://open.spotify.com/artist/1YYmkWArjQ9gVGDq4BLyVw) | [031](https://open.spotify.com/album/3gwMGJtvH9DtIoey702Ha5) | 2:43 | 2023-12-21 | 2024-01-12 |
 | [1988](https://open.spotify.com/track/60GeeJt1UxTSbZEleGRDTY) | [Hunter As a Horse](https://open.spotify.com/artist/4ymRolHad3YoWJw8rW7G9F) | [1988](https://open.spotify.com/album/2bfvxrn24ZELLxTRi2payd) | 4:04 | 2023-11-09 | 2024-03-09 |
-| [1st of the year](https://open.spotify.com/track/3QlBomUBtNTEnNrQeMTPD0) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [1st of the year](https://open.spotify.com/album/7ek1rhNI104OLRBuZDlIZW) | 3:27 | 2024-08-01 |  |
+| [1st of the year](https://open.spotify.com/track/3QlBomUBtNTEnNrQeMTPD0) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [1st of the year](https://open.spotify.com/album/7ek1rhNI104OLRBuZDlIZW) | 3:27 | 2024-08-01 | 2024-09-13 |
 | [2 Old Dogs](https://open.spotify.com/track/6ACEwvi5FKRLxfS1t9T9uh) | [Lenoy Barkai](https://open.spotify.com/artist/5QFw3kKvmR91Rki5sRRmPP) | [Paper Crown](https://open.spotify.com/album/2wF8bjc8BojLDiuWm3DNKN) | 3:50 | 2023-02-09 | 2023-03-18 |
 | [85](https://open.spotify.com/track/3aA2ckaNAxezqR7jwPJqeJ) | [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [On the way to Beatenberg](https://open.spotify.com/album/414CQfkaibycxv5kLfxsGe) | 3:14 | 2022-11-10 | 2023-01-13 |
 | [A day in the water](https://open.spotify.com/track/4LChcN9DKBz08NgEkxjF8o) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [A day in the water](https://open.spotify.com/album/0XixzPHKM6AIqekkbGNzFH) | 4:01 | 2023-06-08 | 2023-06-15 |
@@ -287,6 +287,7 @@
 | [Give A Little Kindness](https://open.spotify.com/track/7JrYr89YEIGwWqiEFUlSvj) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Seasons](https://open.spotify.com/album/7K4KWIiH8u4q319jECEwAZ) | 2:44 | 2023-03-30 | 2023-06-09 |
 | [Give You My Sun](https://open.spotify.com/track/7xL4IucL4wueiPNkSZuHcx) | [Isla Sutherland](https://open.spotify.com/artist/123Fymzy8c82Cy05n3d08R) | [Give You My Sun](https://open.spotify.com/album/4BmJDQ07i0Vphd0T7SaENh) | 3:52 | 2023-12-14 | 2024-01-12 |
 | [Giving My Love](https://open.spotify.com/track/74dwHoS4dUx7QHElINW0a0) | [Lokaly](https://open.spotify.com/artist/2xMgbeCaxqn40elRsuLMf4) | [Giving My Love](https://open.spotify.com/album/7ke8MXeH1DwX1C9lGJdP8o) | 4:03 | 2022-10-31 | 2023-01-13 |
+| [Go Again](https://open.spotify.com/track/6e5V175wyWLhOyLoM7E4WW) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Go Again](https://open.spotify.com/album/3LPuPizj5umG0kBu3dse5a) | 2:37 | 2024-09-12 |  |
 | [God Complex](https://open.spotify.com/track/3ecSL8AUu6r0yIOrbABTdL) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [Revel](https://open.spotify.com/album/6T2vXhcPF7ZFxJl5rSlelZ) | 3:07 | 2023-06-15 | 2023-07-14 |
 | [Goes To Show](https://open.spotify.com/track/3XzVQKt06W3s43Vvs07wzg) | [Stereo Club](https://open.spotify.com/artist/4NJbKjkR9DcoyVT4ZXgAkv) | [Goes To Show](https://open.spotify.com/album/05JTEh0B7YFchrQX40BXh6) | 3:41 | 2024-02-01 | 2024-03-30 |
 | [Going Home](https://open.spotify.com/track/79nvFhgWdJqI238YcO7cLo) | [Monark](https://open.spotify.com/artist/4fWc4RmQhx0vz05EQV8ekC) | [Going Home](https://open.spotify.com/album/1OrzAjh77eizHTD3m4pAuQ) | 3:29 | 2023-03-30 | 2023-06-09 |
@@ -435,6 +436,7 @@
 | [Like the Ocean](https://open.spotify.com/track/2llr8jZWJaVvAOziLrRy59) | [Bonjo](https://open.spotify.com/artist/3FScxoIylCKOhzDrXagfOp) | [Bonjo](https://open.spotify.com/album/2YsIU5JcYuiFrT9Z5shwcZ) | 3:17 | 2023-01-06 | 2023-01-13 |
 | [Little Girl](https://open.spotify.com/track/1KK3whamg1HmTETY7tl51g) | [Ernest Che Guerro](https://open.spotify.com/artist/31E8QoONQGPHC1j6V4BWmm) | [Little Girl](https://open.spotify.com/album/38OTti2ijv4mARDji7Rx99) | 4:11 | 2023-01-26 | 2023-03-31 |
 | [Little Lifetime](https://open.spotify.com/track/1P1D1Oqq0cLfEniVHzBIsk) | [Year of Dogs](https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj) | [Place To Be](https://open.spotify.com/album/5AWAmIca5EetarIAtvNtZ9) | 3:09 | 2023-04-21 | 2023-07-07 |
+| [Living For The Moment](https://open.spotify.com/track/2PuNqXqbVtxzcLAW2iwNVy) | [Zach Leopard](https://open.spotify.com/artist/32BTikkFQuadVcD1LHVgWd) | [Living For The Moment](https://open.spotify.com/album/1esyrBVXFuhcdAJgmOwWBf) | 2:04 | 2024-09-12 |  |
 | [Living in a Paradise](https://open.spotify.com/track/1kqWv1DW4UxK4uiSmWEAAh) | [Grassy Spark](https://open.spotify.com/artist/4unF31CeJIj7d6M3H0PvCl), [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Portal](https://open.spotify.com/album/7A7aGgIqC9N4lHnHVp3PKg) | 3:29 | 2024-01-11 | 2024-01-27 |
 | [Lonely? \(Come Along\)](https://open.spotify.com/track/4Uo9L4l5evGRj8GB3Sddos) | [Th&o.](https://open.spotify.com/artist/0RYKFLXXxrpiF7e1zmCZLT) | [Lonely? \(Come Along\)](https://open.spotify.com/album/1LsqoJNFx5lsQF9JdMayxA) | 3:44 | 2024-07-18 |  |
 | [loser](https://open.spotify.com/track/3EZVljsec0JN8ia1I9f3U2) | [screwyounick](https://open.spotify.com/artist/6uUXtzAE4Rm9nuLTdh9YxK), [iris day](https://open.spotify.com/artist/76aEuFvHvQUH4BKVPRUSWn), [Belak](https://open.spotify.com/artist/2y83yKCgoia21m1ot4WxPL) | [loser](https://open.spotify.com/album/6ugUDr9rOoVQqLkrwVSgQX) | 2:07 | 2022-11-10 | 2023-01-13 |
@@ -635,7 +637,7 @@
 | [Scumbag](https://open.spotify.com/track/5NJQHLtg873KNDOUJS6Ga0) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore](https://open.spotify.com/album/4OZ6nCbn8w0cHr1m0qiD2s) | 3:03 | 2024-07-18 | 2024-08-30 |
 | [Seasons Change](https://open.spotify.com/track/0K0f1yZYSHiC8B08qYTmiJ) | [Fever Fields](https://open.spotify.com/artist/4Moi2zWtZnsR94AwwLHECC) | [Seasons Change](https://open.spotify.com/album/1CZkeYwmfdyAJthwVKkUac) | 3:08 | 2024-04-05 | 2024-05-04 |
 | [See You Shine](https://open.spotify.com/track/7bzmfqeBpB4crtt1Vm5GRk) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [See You Shine](https://open.spotify.com/album/0pPVLCQw41MZRY6SGKtsQN) | 2:44 | 2024-02-22 | 2024-05-24 |
-| [Seed of a Seed](https://open.spotify.com/track/2dLVXnwdnstcHIRTJMgqsx) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [Seed of a Seed](https://open.spotify.com/album/77Q7ZGkqC4k1GjgoSdMrYa) | 2:44 | 2024-08-01 |  |
+| [Seed of a Seed](https://open.spotify.com/track/2dLVXnwdnstcHIRTJMgqsx) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [Seed of a Seed](https://open.spotify.com/album/77Q7ZGkqC4k1GjgoSdMrYa) | 2:44 | 2024-08-01 | 2024-09-13 |
 | [Self Talk](https://open.spotify.com/track/0J4crYwpC6mNygzXWU6AY3) | [Mike Baz](https://open.spotify.com/artist/1wwKCIcDbJw2jUA2OvGhGQ) | [Self Talk](https://open.spotify.com/album/0hk4okEhyO7aDLiTObO5I7) | 3:09 | 2023-09-15 | 2023-12-08 |
 | [Seriously, Goodluck With That](https://open.spotify.com/track/4GuGH9ty89UAljxqjxJU4H) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Seriously, Goodluck With That](https://open.spotify.com/album/72vFcIJ5QGoRZTjOlx2WYV) | 3:29 | 2023-09-15 | 2023-12-22 |
 | [Setting Suns](https://open.spotify.com/track/0GB6NBQY3nYvuwaCApTbFx) | [Brandon Grant](https://open.spotify.com/artist/3rD8GtrMQjQ8UAQCEQ0RGU) | [Setting Suns](https://open.spotify.com/album/3BqqPFVR6zGtNkkAtLb68y) | 3:19 | 2024-02-22 | 2024-05-24 |

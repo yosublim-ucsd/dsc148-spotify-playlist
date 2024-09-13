@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-20",
-  "description": "Just wanna Praise the Lord and chill. Here is a perfect one! Cover:   <a href=https://open.spotify.com/artist/70HahwExpgNFLm3YKUkiiO?si=7dbL9gMRSDGgTJCqf8jUJQ>Churemi",
+  "description": "Just wanna Praise the Lord and chill. Here is a perfect one! Cover:   <a href=https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr?si=8cFNpouJRZ-r-qzFXQF-EQ>Naffymar",
   "name": "Praise and Chill",
   "tracks": [
     {
@@ -621,6 +621,32 @@
     },
     {
       "album": {
+        "name": "Bank on You",
+        "url": "https://open.spotify.com/album/01lVf8rvZWvZdTrWTvBeX8"
+      },
+      "artists": [
+        {
+          "name": "Naffymar",
+          "url": "https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr"
+        },
+        {
+          "name": "TBabz",
+          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
+        },
+        {
+          "name": "Pawasonic",
+          "url": "https://open.spotify.com/artist/4JnNMhfRwpiknBp80tInQR"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174600,
+      "name": "Bank on You",
+      "url": "https://open.spotify.com/track/5FtvzrbCp3iyf0zYNjDkyq"
+    },
+    {
+      "album": {
         "name": "Be Like",
         "url": "https://open.spotify.com/album/4ZCWEaEuUr17UM1j7zlzdU"
       },
@@ -906,6 +932,24 @@
       "duration_ms": 128000,
       "name": "By Design",
       "url": "https://open.spotify.com/track/3ulfbtT8i30DN94siN76xX"
+    },
+    {
+      "album": {
+        "name": "By Me",
+        "url": "https://open.spotify.com/album/101gyd1ZEtWsxRw8Tw6Bky"
+      },
+      "artists": [
+        {
+          "name": "Ealle",
+          "url": "https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139335,
+      "name": "By Me",
+      "url": "https://open.spotify.com/track/5bfegq0Jj5oqnguTtsero5"
     },
     {
       "album": {
@@ -2340,6 +2384,36 @@
       "duration_ms": 188540,
       "name": "Greatest",
       "url": "https://open.spotify.com/track/4RGma6BvBMPUlES6oAVubZ"
+    },
+    {
+      "album": {
+        "name": "Halle",
+        "url": "https://open.spotify.com/album/6qRwFhhSVMf09KH44a8TJf"
+      },
+      "artists": [
+        {
+          "name": "Clinton Flames",
+          "url": "https://open.spotify.com/artist/3LEYSk47eQzeiwihi4f1Ye"
+        },
+        {
+          "name": "Baron Jay",
+          "url": "https://open.spotify.com/artist/3I92MLYQY4V30w9jXnKhbv"
+        },
+        {
+          "name": "Oba Reengy",
+          "url": "https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC"
+        },
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Halle",
+      "url": "https://open.spotify.com/track/1bJ3uXSAmu1UXHh3yevUYN"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: MAUIM\u00d8ON",
+  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: Brazy",
   "name": "Alt\u00e9 Cruise",
   "tracks": [
     {
@@ -5714,7 +5714,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 117966,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/6rcxnBJWJa9shsD2eZj7He"
@@ -9036,7 +9036,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 138948,
       "name": "Naija Babes",
       "url": "https://open.spotify.com/track/1DCUYnbWTep8rmCcSywMQw"
@@ -13275,6 +13275,36 @@
     },
     {
       "album": {
+        "name": "take your vibes and go",
+        "url": "https://open.spotify.com/album/5ZhVETUeqLAWy2YDmF6VPm"
+      },
+      "artists": [
+        {
+          "name": "Kito",
+          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
+        },
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        },
+        {
+          "name": "brazy",
+          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
+        },
+        {
+          "name": "Baauer",
+          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134844,
+      "name": "take your vibes and go",
+      "url": "https://open.spotify.com/track/4qrP6yd1i6ZRP543jECwIg"
+    },
+    {
+      "album": {
         "name": "Talk To Me",
         "url": "https://open.spotify.com/album/0oQnFQEWTHTkL4n515ZkF0"
       },
@@ -14926,6 +14956,24 @@
       "duration_ms": 168128,
       "name": "WICKED",
       "url": "https://open.spotify.com/track/33ngGj804cbv6bLV3r8ljR"
+    },
+    {
+      "album": {
+        "name": "With Open Arms",
+        "url": "https://open.spotify.com/album/2dO8pR2M34D8IR50t5yEMg"
+      },
+      "artists": [
+        {
+          "name": "Ogranya",
+          "url": "https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "With Open Arms",
+      "url": "https://open.spotify.com/track/2zMkas94Ekim0wZfGsGe23"
     },
     {
       "album": {

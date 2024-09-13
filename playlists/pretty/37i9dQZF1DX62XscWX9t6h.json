@@ -1,6 +1,6 @@
 {
   "description": "21st Century nomadic expressions interwoven into a very unexpected patchwork.",
-  "num_followers": 187322,
+  "num_followers": 187356,
   "original_name": "Folk Fabrique",
   "owner": {
     "name": "Spotify",
@@ -845,22 +845,6 @@
       "url": "https://open.spotify.com/track/1Fu9QYiYh8izSKG0cqUXxn"
     },
     {
-      "added_at": "2024-04-30 04:28:31",
-      "album": {
-        "name": "La Bomba",
-        "url": "https://open.spotify.com/album/2KtK583Hq65HDEkgE0c5qn"
-      },
-      "artists": [
-        {
-          "name": "Los Bitchos",
-          "url": "https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m"
-        }
-      ],
-      "duration_ms": 134720,
-      "name": "La Bomba",
-      "url": "https://open.spotify.com/track/4DVogoYzvFrFOtUMQIamJf"
-    },
-    {
       "added_at": "2022-09-15 12:52:37",
       "album": {
         "name": "Light",
@@ -877,20 +861,20 @@
       "url": "https://open.spotify.com/track/1goTiiRtaNdwiGOsSIgBA4"
     },
     {
-      "added_at": "2024-08-21 02:36:12",
+      "added_at": "2024-04-30 04:28:31",
       "album": {
-        "name": "Puerta de la C\u00e2nne",
-        "url": "https://open.spotify.com/album/175V3sGHAJLIB0sDXAQK6C"
+        "name": "La Bomba",
+        "url": "https://open.spotify.com/album/2KtK583Hq65HDEkgE0c5qn"
       },
       "artists": [
         {
-          "name": "Califato \u00be",
-          "url": "https://open.spotify.com/artist/6APnwoSgygJU8HR7EHVSyK"
+          "name": "Los Bitchos",
+          "url": "https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m"
         }
       ],
-      "duration_ms": 227000,
-      "name": "Cr\u00eetto de l\u00e2 Nabah\u00e2",
-      "url": "https://open.spotify.com/track/1GU309xFsWsQUM6lf4sJoN"
+      "duration_ms": 134720,
+      "name": "La Bomba",
+      "url": "https://open.spotify.com/track/4DVogoYzvFrFOtUMQIamJf"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -907,6 +891,22 @@
       "duration_ms": 142480,
       "name": "Run To Your Mama",
       "url": "https://open.spotify.com/track/6iKRB4SGZp57HsrMLVovL8"
+    },
+    {
+      "added_at": "2024-08-21 02:36:12",
+      "album": {
+        "name": "Puerta de la C\u00e2nne",
+        "url": "https://open.spotify.com/album/175V3sGHAJLIB0sDXAQK6C"
+      },
+      "artists": [
+        {
+          "name": "Califato \u00be",
+          "url": "https://open.spotify.com/artist/6APnwoSgygJU8HR7EHVSyK"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "Cr\u00eetto de l\u00e2 Nabah\u00e2",
+      "url": "https://open.spotify.com/track/1GU309xFsWsQUM6lf4sJoN"
     },
     {
       "added_at": "2022-07-01 02:44:20",
@@ -1129,7 +1129,7 @@
       "url": "https://open.spotify.com/track/6FDGkw2X2Pmp4AaQP8x6mX"
     },
     {
-      "added_at": "2023-11-23 03:51:02",
+      "added_at": "2023-12-12 21:18:55",
       "album": {
         "name": "The Livelong Day",
         "url": "https://open.spotify.com/album/4h6xvRg0yciHX5BidpT1yC"
@@ -1140,9 +1140,9 @@
           "url": "https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z"
         }
       ],
-      "duration_ms": 331500,
-      "name": "Bear Creek",
-      "url": "https://open.spotify.com/track/1olcVMgFm2KGCDVK4g5b76"
+      "duration_ms": 614363,
+      "name": "The Wild Rover",
+      "url": "https://open.spotify.com/track/0hJuFoWIujL61y6bFwUpsL"
     },
     {
       "added_at": "2022-12-29 18:51:03",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Jungle Fire",
-        "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
-      },
-      "artists": [
-        {
-          "name": "Jungle Fire",
-          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
-        }
-      ],
-      "duration_ms": 229080,
-      "name": "At\u00f3mico",
-      "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
         "name": "Nomad",
         "url": "https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 268640,
       "name": "Amidinine",
       "url": "https://open.spotify.com/track/0JRBZ5RZGLhZKUoDIgaxQc"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Jungle Fire",
+        "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
+      },
+      "artists": [
+        {
+          "name": "Jungle Fire",
+          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
+        }
+      ],
+      "duration_ms": 229080,
+      "name": "At\u00f3mico",
+      "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1297,7 +1297,7 @@
       "url": "https://open.spotify.com/track/784k9MLp8Sce2hcItg5eaL"
     },
     {
-      "added_at": "2023-12-12 21:18:55",
+      "added_at": "2023-11-23 03:51:02",
       "album": {
         "name": "The Livelong Day",
         "url": "https://open.spotify.com/album/4h6xvRg0yciHX5BidpT1yC"
@@ -1308,9 +1308,9 @@
           "url": "https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z"
         }
       ],
-      "duration_ms": 614363,
-      "name": "The Wild Rover",
-      "url": "https://open.spotify.com/track/0hJuFoWIujL61y6bFwUpsL"
+      "duration_ms": 331500,
+      "name": "Bear Creek",
+      "url": "https://open.spotify.com/track/1olcVMgFm2KGCDVK4g5b76"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1561,26 +1561,6 @@
       "url": "https://open.spotify.com/track/7oelcLcMEvuvcr8AOqNFdm"
     },
     {
-      "added_at": "2022-02-12 05:45:19",
-      "album": {
-        "name": "Batuco",
-        "url": "https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX"
-      },
-      "artists": [
-        {
-          "name": "Son Rompe Pera",
-          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
-        },
-        {
-          "name": "Macha",
-          "url": "https://open.spotify.com/artist/4nlcyHlvzjmpjOJ09k2nb9"
-        }
-      ],
-      "duration_ms": 192893,
-      "name": "Los Chucos Suaves (featuring Macha)",
-      "url": "https://open.spotify.com/track/71JT61x0b1jpIdjMG2B7u7"
-    },
-    {
       "added_at": "2021-10-20 20:05:06",
       "album": {
         "name": "Black To The Future",
@@ -1599,6 +1579,26 @@
       "duration_ms": 318226,
       "name": "Hustle",
       "url": "https://open.spotify.com/track/2pKdE8YhzKRshWuQkolWlV"
+    },
+    {
+      "added_at": "2022-02-12 05:45:19",
+      "album": {
+        "name": "Batuco",
+        "url": "https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX"
+      },
+      "artists": [
+        {
+          "name": "Son Rompe Pera",
+          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
+        },
+        {
+          "name": "Macha",
+          "url": "https://open.spotify.com/artist/4nlcyHlvzjmpjOJ09k2nb9"
+        }
+      ],
+      "duration_ms": 192893,
+      "name": "Los Chucos Suaves (featuring Macha)",
+      "url": "https://open.spotify.com/track/71JT61x0b1jpIdjMG2B7u7"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1649,6 +1649,22 @@
       "url": "https://open.spotify.com/track/5nXXJeSf9MeDmUmEoafgOH"
     },
     {
+      "added_at": "2024-08-21 02:38:50",
+      "album": {
+        "name": "Se Dan\u00e7ar \u00c9 S\u00f3 Depois",
+        "url": "https://open.spotify.com/album/6a18zeuFmuY1PyHKSAfe9f"
+      },
+      "artists": [
+        {
+          "name": "Ana Lua Caiano",
+          "url": "https://open.spotify.com/artist/6TeD6DGSCfviinhl40SvYF"
+        }
+      ],
+      "duration_ms": 169944,
+      "name": "Se Dan\u00e7ar \u00c9 S\u00f3 Depois",
+      "url": "https://open.spotify.com/track/7JroVEowA4Wpb1sfgPl4xa"
+    },
+    {
       "added_at": "2021-10-20 20:05:06",
       "album": {
         "name": "Zan",
@@ -1679,22 +1695,6 @@
       "duration_ms": 241157,
       "name": "Nautilus",
       "url": "https://open.spotify.com/track/0IVZO1pU0ddXEh0qtN3jMA"
-    },
-    {
-      "added_at": "2024-08-21 02:38:50",
-      "album": {
-        "name": "Se Dan\u00e7ar \u00c9 S\u00f3 Depois",
-        "url": "https://open.spotify.com/album/6a18zeuFmuY1PyHKSAfe9f"
-      },
-      "artists": [
-        {
-          "name": "Ana Lua Caiano",
-          "url": "https://open.spotify.com/artist/6TeD6DGSCfviinhl40SvYF"
-        }
-      ],
-      "duration_ms": 169944,
-      "name": "Se Dan\u00e7ar \u00c9 S\u00f3 Depois",
-      "url": "https://open.spotify.com/track/7JroVEowA4Wpb1sfgPl4xa"
     },
     {
       "added_at": "2021-10-20 20:05:06",

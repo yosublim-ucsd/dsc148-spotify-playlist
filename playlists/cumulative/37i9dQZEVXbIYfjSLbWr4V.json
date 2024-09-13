@@ -184,7 +184,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 152380,
       "name": "Bad Intention",
       "url": "https://open.spotify.com/track/03QWlQeqMd3LIuts3X1BJI"
@@ -1914,7 +1914,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 179560,
       "name": "Rainy Days",
       "url": "https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4"
@@ -2106,7 +2106,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 187026,
       "name": "Slow Dancing",
       "url": "https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe"
@@ -2986,7 +2986,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-23",
+      "date_removed": null,
       "duration_ms": 84000,
       "name": "\u0431\u043e\u043b\u044c\u043d\u043e",
       "url": "https://open.spotify.com/track/2xEFfGz4j5UpL2FNEhVI81"
@@ -3432,7 +3432,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 174842,
       "name": "\u0414\u043e\u043c \u041f\u0435\u0440\u0438\u043d\u044c\u043e\u043d",
       "url": "https://open.spotify.com/track/0i8YObgqnjZYoYJOQbwLHq"
@@ -4584,10 +4584,28 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-12",
+      "date_removed": null,
       "duration_ms": 197771,
       "name": "\u041f\u043e\u0436\u0430\u0440\u044b",
       "url": "https://open.spotify.com/track/5pZaiIokYGUANMAJiZg8tt"
+    },
+    {
+      "album": {
+        "name": "\u041e\u0427\u0415\u041d\u042c \u0421\u0422\u0420\u0410\u0428\u041d\u0410\u042f \u041c\u041e\u041b\u041b\u0418 3, \u0427. 1",
+        "url": "https://open.spotify.com/album/7tc5dEyjZdaKhq1DNo5dPO"
+      },
+      "artists": [
+        {
+          "name": "Poshlaya Molly",
+          "url": "https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246743,
+      "name": "\u041f\u041e\u0420\u041d\u0425\u0410\u0411 \u041a\u0420\u0418\u0421\u041c\u0410\u0421 \u041a\u041b\u0410\u0411",
+      "url": "https://open.spotify.com/track/5jgFvROeP9DlLl9dMHQEtw"
     },
     {
       "album": {
@@ -4602,7 +4620,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-17",
+      "date_removed": null,
       "duration_ms": 172094,
       "name": "\u043f\u043e\u0440\u0442\u0440\u0435\u0442\u044b - Acoustic",
       "url": "https://open.spotify.com/track/7ojBwkKhmZzXDjrqwfLH26"

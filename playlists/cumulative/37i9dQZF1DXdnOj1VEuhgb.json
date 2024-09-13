@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-11",
-  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Wegh\n",
+  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: BLOK3\n",
   "name": "NKVT",
   "tracks": [
     {
@@ -1316,7 +1316,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 146559,
       "name": "Bu D\u00fcnyada",
       "url": "https://open.spotify.com/track/3XCT2hlGuBT14XHx6zhybv"
@@ -2263,6 +2263,24 @@
     },
     {
       "album": {
+        "name": "Eski B\u0131\u00e7aklar Yeni Kesikler",
+        "url": "https://open.spotify.com/album/2aIeBV0qczeiKnZwzwi9s9"
+      },
+      "artists": [
+        {
+          "name": "Sagopa Kajmer",
+          "url": "https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210218,
+      "name": "Eski B\u0131\u00e7aklar Yeni Kesikler",
+      "url": "https://open.spotify.com/track/39zgu9dSk0EenIJJWYnhpZ"
+    },
+    {
+      "album": {
         "name": "Esmeri Sevdim Sar\u0131\u015f\u0131nlara Kand\u0131m",
         "url": "https://open.spotify.com/album/3b2i1X8ufSYWea9POTCMdA"
       },
@@ -3114,6 +3132,24 @@
       "duration_ms": 160000,
       "name": "Habibi",
       "url": "https://open.spotify.com/track/4I29KUtM6IwZyxqAiHZ6RH"
+    },
+    {
+      "album": {
+        "name": "OBSESIF",
+        "url": "https://open.spotify.com/album/6YCjQU0ElZ6YbC2HaBuLic"
+      },
+      "artists": [
+        {
+          "name": "BLOK3",
+          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95342,
+      "name": "HAKO ARTIK BUSINESS",
+      "url": "https://open.spotify.com/track/0G9SQNvU2s3g2o4jatFx8X"
     },
     {
       "album": {
@@ -8494,6 +8530,24 @@
       "duration_ms": 156004,
       "name": "y\u0131ld\u0131zlar \u015fahit a\u015fk\u0131ma",
       "url": "https://open.spotify.com/track/490MqlRWgEby3jzfYi8ULn"
+    },
+    {
+      "album": {
+        "name": "OBSESIF",
+        "url": "https://open.spotify.com/album/6YCjQU0ElZ6YbC2HaBuLic"
+      },
+      "artists": [
+        {
+          "name": "BLOK3",
+          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176833,
+      "name": "ZEH\u0130RL\u0130 G\u00dcL",
+      "url": "https://open.spotify.com/track/0SwRpscOdj6PBhudNVIGpW"
     },
     {
       "album": {

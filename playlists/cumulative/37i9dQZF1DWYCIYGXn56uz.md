@@ -2,9 +2,9 @@
 
 ### [GENERAZIONE Z](https://open.spotify.com/playlist/37i9dQZF1DWYCIYGXn56uz)
 
-> ✨giovane✨pop✨z✨ Cover: Benji & Fede
+> ✨giovane✨pop✨z✨ Cover: Tananai
 
-494 songs - 22 hr 54 min
+496 songs - 22 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Balla \(come la domenica\)](https://open.spotify.com/track/5c5i976D2vDemkPHOMcyDT) | [Deddy](https://open.spotify.com/artist/7FoxLMG7HePgQvwDfJj7VR), [Paps'n'Skar](https://open.spotify.com/artist/7pbBSvkFKdTKLCJl5G1jSV) | [Balla \(come la domenica\)](https://open.spotify.com/album/5hun2luD1TdLOyNPm33U5Z) | 2:46 | 2023-05-18 | 2023-11-24 |
 | [Balla Adrenalina](https://open.spotify.com/track/3EMTN0y6mBpVod7qd33sDa) | [Mose](https://open.spotify.com/artist/6MxxMir5Ey3h9QxsGDfg4L) | [Balla Adrenalina](https://open.spotify.com/album/2qdqzQGIMM7Jy5rql8Pf6Q) | 2:53 | 2023-06-15 | 2023-09-22 |
 | [Balleremo](https://open.spotify.com/track/11MRGCvw1h8TmNTFLDSoOX) | [LUNAR](https://open.spotify.com/artist/5yE4UZ5hln5jeJs40vlvEK) | [Balleremo](https://open.spotify.com/album/2SyHV5TkkeL8DvWUmEZo50) | 2:48 | 2024-06-20 | 2024-08-23 |
+| [Bambola](https://open.spotify.com/track/7itnFCUvnNgQmmiULPAlUl) | [Sillyelly](https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P), [EnimraK](https://open.spotify.com/artist/5aBezG2V4TZr1YpJxeTfYf) | [Bambola](https://open.spotify.com/album/5muRErMN3EKnZDCty6VBfn) | 2:03 | 2024-09-12 |  |
 | [Basta \(feat\. LDA\)](https://open.spotify.com/track/13EWG0TWbIVmyzd2ohpE0B) | [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT), [LDA](https://open.spotify.com/artist/5FwDaIGy29GQC5d0MR7fKf) | [Ammore Malamente](https://open.spotify.com/album/5pydbU79C724udCB6btJsy) | 3:11 | 2023-04-20 | 2023-06-09 |
 | [Bella](https://open.spotify.com/track/3vdJE5XWVax2kVs6OTJzWM) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Dystopic](https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj) | [Bella](https://open.spotify.com/album/66RYsaXoAIodtHYI7iKFZP) | 3:01 | 2023-06-29 | 2024-08-02 |
 | [Bella](https://open.spotify.com/track/5ahyDnrhuLYEKtjZ61iF00) | [Urano](https://open.spotify.com/artist/4boc9WGDp4rS4bObD8WtlU) | [Bella](https://open.spotify.com/album/27GpI3zmiIvkETQKirKqXJ) | 2:11 | 2024-04-04 | 2024-04-19 |
@@ -186,7 +187,7 @@
 | [giusti nei momenti sbagliati](https://open.spotify.com/track/5JRfYMzHxPVikYYOWEBKUn) | [venerdì](https://open.spotify.com/artist/0v9674wp1zmIxhlfpjBXfo) | [giusti nei momenti sbagliati](https://open.spotify.com/album/6JFpUqpSF1TP2xDJfovFXq) | 1:59 | 2024-02-22 | 2024-03-15 |
 | [GLI ZOMBIE DELLA NOTTE](https://open.spotify.com/track/0zwovJ1ZxCaIkAGil34QiD) | [AYLE](https://open.spotify.com/artist/1wUNmZVzUk16mfV42YY1eE) | [GLI ZOMBIE DELLA NOTTE](https://open.spotify.com/album/2dGMqjy8gH7i4jRDSm3izs) | 3:08 | 2024-06-20 |  |
 | [Gocce di Limone](https://open.spotify.com/track/65CCHElK6emN1k1o2KpEwM) | [Alex Wyse](https://open.spotify.com/artist/4ZRTfGCmMJ305FMDCiD1cZ) | [Gocce di Limone](https://open.spotify.com/album/24gE8Qn8jzKvjvKoymmt99) | 2:37 | 2024-06-20 | 2024-08-23 |
-| [Goccia](https://open.spotify.com/track/1d3Ar2b9vFKIkr7PGZBSDM) | [Frada](https://open.spotify.com/artist/1khPlpMPliiZeK53WWSWXY), [DANTE](https://open.spotify.com/artist/24wf3HIkBrQyXagDgNSeTj), [Germo67](https://open.spotify.com/artist/2g8pbTKAMaUasFKyC3GrK1) | [Playa Sanguedoro](https://open.spotify.com/album/64thJHuBUy3jnH7K83DCP6) | 2:41 | 2024-06-27 |  |
+| [Goccia](https://open.spotify.com/track/1d3Ar2b9vFKIkr7PGZBSDM) | [Frada](https://open.spotify.com/artist/1khPlpMPliiZeK53WWSWXY), [DANTE](https://open.spotify.com/artist/24wf3HIkBrQyXagDgNSeTj), [Germo67](https://open.spotify.com/artist/2g8pbTKAMaUasFKyC3GrK1) | [Playa Sanguedoro](https://open.spotify.com/album/64thJHuBUy3jnH7K83DCP6) | 2:41 | 2024-06-27 | 2024-09-13 |
 | [Goccia \(feat\. Sissi\)](https://open.spotify.com/track/4MYgRIZmue4SNzhMw0mxiE) | [Cyrus Yung](https://open.spotify.com/artist/5ntvgaFmaJr8rNJHOZMpNH), [Sissi](https://open.spotify.com/artist/6P7jNZ4DCs766yu5td601i) | [GLORIA](https://open.spotify.com/album/4oJn7mM9OaDqOaffvkW5PW) | 2:55 | 2023-04-27 | 2023-05-19 |
 | [Goodbye Lover](https://open.spotify.com/track/2E9wgIcYIg7POy9eBldS3W) | [Ethos](https://open.spotify.com/artist/12UVpkOIcwo7yXfiHgPUj7) | [Goodbye Lover](https://open.spotify.com/album/2vq1152LsoFIGXxatJ1Gi4) | 2:56 | 2024-03-28 | 2024-04-19 |
 | [GOVERNO PUNK](https://open.spotify.com/track/7He9P5gjaE4cmQOquezZnl) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [GOVERNO PUNK](https://open.spotify.com/album/4I20c4niAvrvALPHZ7Nw9p) | 3:25 | 2024-02-07 | 2024-05-17 |
@@ -196,6 +197,7 @@
 | [Grazie](https://open.spotify.com/track/2AySyotmmvkN6mUH5aitwm) | [wax](https://open.spotify.com/artist/0UYKwcrTJkzFpp5ozPPlMS) | [Grazie](https://open.spotify.com/album/0d6lU09aksGooHDTSfvWB2) | 2:30 | 2023-05-18 | 2023-05-26 |
 | [GRETA](https://open.spotify.com/track/5UmOOuF0uHZ7qMmSgAwMuE) | [Greta](https://open.spotify.com/artist/13GjdjA8k3fmCHSfcAxTH0) | [GRETA](https://open.spotify.com/album/5bpW91E9krBVNx7enxPriy) | 2:56 | 2023-12-15 | 2024-01-05 |
 | [GUAGLIÒ](https://open.spotify.com/track/3XUBw8wZ3lyokCTYjVa6pH) | [Petit](https://open.spotify.com/artist/2miA8jrhyRoCHvWdsrPQde) | [GUAGLIÒ](https://open.spotify.com/album/3dAu3bFbyABqhGonrsIJcS) | 2:42 | 2023-12-15 | 2024-07-12 |
+| [HELLO KITTY \(feat\. Sillyelly\)](https://open.spotify.com/track/3zjwZqLebYTDvRS2RJH5Be) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Sillyelly](https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P) | [VERA BADDIE](https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2) | 2:29 | 2024-09-12 |  |
 | [Ho Fatto Un Sogno](https://open.spotify.com/track/5OiSAWiUSwWQJdmQ5dtFEb) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [Ho Fatto Un Sogno](https://open.spotify.com/album/2aLaFLGNQdGkiUicivMLQ1) | 2:40 | 2024-04-25 | 2024-05-17 |
 | [ho perso il cuore](https://open.spotify.com/track/28jmvssKonCcMnyBrDStYR) | [Chakra](https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv) | [PER IL MIO BENE](https://open.spotify.com/album/6BftqBLM4fJ7alFzUhGuOw) | 2:46 | 2024-06-05 | 2024-07-05 |
 | [HO SMESSO DI PIANGERE](https://open.spotify.com/track/5hqWKyWU0J5DGhAgvNMMTp) | [PARIDE](https://open.spotify.com/artist/738jSDDsbX4Ge4Xa1lSN9F), [Kr1](https://open.spotify.com/artist/4vsRoPHf54OF5D85j8jKej) | [HO SMESSO DI PIANGERE](https://open.spotify.com/album/3BCIfL4HaWt6NwuYce1RSb) | 3:12 | 2024-09-05 |  |
@@ -412,7 +414,7 @@
 | [Sofia </3](https://open.spotify.com/track/5GiNMKuih6zryMHANHrS4U) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [Sofia </3](https://open.spotify.com/album/1o4hP3VBIoS2OwvIIrw2xz) | 2:55 | 2023-09-28 | 2024-02-02 |
 | [Sognando la Bellavita](https://open.spotify.com/track/2vSC8Pp3llvQ3u7YeOQiTn) | [yunghope](https://open.spotify.com/artist/2nX5b035Z6l7lSSwZxQhTO), [2NIS](https://open.spotify.com/artist/7IDvaWfgpwQmllUuCvK0dt) | [Sognando la Bellavita](https://open.spotify.com/album/6nVvtoQAbJpD6wqdm42HPh) | 2:48 | 2024-06-27 | 2024-07-19 |
 | [sogni \- remix](https://open.spotify.com/track/0qXWvDBV3UvsPZsICdYG9S) | [ALCHIMIA](https://open.spotify.com/artist/3AWIge7kWrUwlEsJcejeg4), [MARTE](https://open.spotify.com/artist/38bhsPsHWvbUdlMjnBnuJi), [ICARO](https://open.spotify.com/artist/3ZafdwEd4DFmPKwGpUOtgS), [DANDY TURNER](https://open.spotify.com/artist/3PEzbnNp2kOuNcL0Z19o0w) | [equilibrio \(deluxe\)](https://open.spotify.com/album/3ZNhQlkrhbw7aHLp9qA0pV) | 2:52 | 2023-10-12 | 2023-11-10 |
-| [Sogni Di Carta](https://open.spotify.com/track/4kNHKjNYAzGhnkKQO4Qoto) | [Blue Phelix](https://open.spotify.com/artist/1CfqAv8GdSvNor3kAWFTEt) | [Dimmi a che ora finisce l'amore](https://open.spotify.com/album/4DZWdEA5mqCqkJYXt6VEWq) | 2:45 | 2024-07-11 |  |
+| [Sogni Di Carta](https://open.spotify.com/track/4kNHKjNYAzGhnkKQO4Qoto) | [Blue Phelix](https://open.spotify.com/artist/1CfqAv8GdSvNor3kAWFTEt) | [Dimmi a che ora finisce l'amore](https://open.spotify.com/album/4DZWdEA5mqCqkJYXt6VEWq) | 2:45 | 2024-07-11 | 2024-09-13 |
 | [Sogni più grandi](https://open.spotify.com/track/66iaIDwL6Ud7g30xcdjGcY) | [Sami River](https://open.spotify.com/artist/5PUv5cQdVd7LmHvBj2r4c6) | [Sitcom triste](https://open.spotify.com/album/4s536NBIBRn8q829pTkzn6) | 2:43 | 2023-10-19 | 2023-11-10 |
 | [SOGNO](https://open.spotify.com/track/3nYJsu8sOEhD0PWJPDttWn) | [Lil Zeff](https://open.spotify.com/artist/3NA2FHw8ieXbg4FHvShWL0), [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [SOGNO](https://open.spotify.com/album/1sqrJ50Bu6DKuuRNQE7pk7) | 2:40 | 2023-06-01 | 2023-06-30 |
 | [SOLO GUAI](https://open.spotify.com/track/4w1SJMJf6PtWbPygMrMlI3) | [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [SOLO GUAI](https://open.spotify.com/album/3hOp0inAva2WbhNclSjxcY) | 2:43 | 2024-06-13 | 2024-07-19 |

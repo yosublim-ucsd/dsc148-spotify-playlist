@@ -4,7 +4,7 @@
 
 > Meet the future\. New artists on the horizon\. Cover: The Warning.
 
-1,622 songs - 3 day 16 hr 29 min
+1,624 songs - 3 day 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,6 +241,7 @@
 | [Cartwheels](https://open.spotify.com/track/3tHyJBRSh4B8zwxmDNPVbf) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [Cartwheels](https://open.spotify.com/album/08plypKSnTYVYtGUSSMxUN) | 2:04 | 2024-04-05 | 2024-08-03 |
 | [Casei Com a Putaria](https://open.spotify.com/track/1OZ4uv7OAP24Ix6j3vojLt) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN) | [Casei Com a Putaria](https://open.spotify.com/album/4cLbAcr21lNTq9oTGGTvQi) | 2:37 | 2022-11-11 | 2023-05-31 |
 | [Casualidad](https://open.spotify.com/track/67ii9wXrKQpBjfKS3u1iw1) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [Casualidad](https://open.spotify.com/album/4phSmqrWOtf4GIh6dhwDSI) | 2:41 | 2022-03-24 | 2022-04-12 |
+| [Catch The Rain](https://open.spotify.com/track/6kkiSenLxDFmqhPlwhxbjA) | [RAHEL](https://open.spotify.com/artist/1PiAhtDO04aDUU9VKEi1j7) | [Catch The Rain](https://open.spotify.com/album/4HaWTik9SSWStlldD21OEd) | 3:20 | 2024-09-06 |  |
 | [CATENE](https://open.spotify.com/track/1Ro7tQgsq9qcoDdr1npPwA) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz) | [CATENE](https://open.spotify.com/album/5cu1didsjiJlzmKOYNCiju) | 3:23 | 2024-03-15 | 2024-06-15 |
 | [Catucada de Leve](https://open.spotify.com/track/4V71ohtmEi04KsughuPnMm) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr), [MC Zaquin](https://open.spotify.com/artist/1OwYxVDNKP9JtSpp5E0uA4) | [Catucada de Leve](https://open.spotify.com/album/0CHbJaQv9wbYKsWtPFAa9x) | 2:35 | 2022-03-24 | 2022-04-20 |
 | [Cayó La Noche \(feat\. Cruz Cafuné, Abhir Hathi, Bejo, EL IMA\) \[Remix\]](https://open.spotify.com/track/0Bv7O6fmZk3GrNQFYJaXPn) | [La Pantera](https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Juseph](https://open.spotify.com/artist/5kgDdP7a4TsvkF08gpJGX0), [Abhir Hathi](https://open.spotify.com/artist/2D8UzkIVdg1bj0Iqz6gjk0), [Bejo](https://open.spotify.com/artist/0adJG3bdFTHCkTY28NkY4u), [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3), [EL IMA](https://open.spotify.com/artist/00vsUIEaNHw6qoQnh8DQM2) | [Cayó La Noche \(feat\. Cruz Cafuné, Abhir Hathi, Bejo, EL IMA\) \[Remix\]](https://open.spotify.com/album/0GkI5Xq0n0McicAumkuGyb) | 6:53 | 2022-06-27 | 2022-08-02 |
@@ -970,6 +971,7 @@
 | [OIK](https://open.spotify.com/track/1p8XXEIjVHIqS6EKXG5qhb) | [163 braces](https://open.spotify.com/artist/6gtUGnqU4qnJ2ZB2bvp5TZ) | [OIK](https://open.spotify.com/album/42DetgJYUEjFsXM1rSD3a1) | 2:39 | 2023-08-18 | 2024-03-30 |
 | [Ojos Marrones](https://open.spotify.com/track/7gwT3HGL84vF7bgtwL1N88) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Ojos Marrones](https://open.spotify.com/album/5cgqNq1Esd6F0D1vQ9uD63) | 3:18 | 2022-11-11 | 2023-01-07 |
 | [ok :/](https://open.spotify.com/track/7ELz2ls9JCvT5DyVL8aWRh) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :/](https://open.spotify.com/album/6GHR4Qrtr4GXc7RfGVh8Qv) | 2:52 | 2024-04-19 | 2024-05-27 |
+| [ok :0](https://open.spotify.com/track/03sT1BVGtSRMk96kVtFTHy) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok?](https://open.spotify.com/album/6ez42IrMS6Y1TBbdLt3wBz) | 3:10 | 2024-09-06 |  |
 | [ok </3](https://open.spotify.com/track/7EF7xI1dSQj1dN1dP3YPPW) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok </3](https://open.spotify.com/album/7Cp4NjG6vmRiPDOfihtSg1) | 3:24 | 2024-08-02 | 2024-09-07 |
 | [OKACHIMACHI FRIDAY NIGHT](https://open.spotify.com/track/2VQfT6y27CKMKl4ij5VoQH) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [OKACHIMACHI FRIDAY NIGHT](https://open.spotify.com/album/7oMz6bjlX6lPjG9iS5uV5y) | 3:18 | 2024-01-12 | 2024-01-27 |
 | [okok](https://open.spotify.com/track/5cnzY2pz4gUFNGyhLJRvxh) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok](https://open.spotify.com/album/23YHyxWe8nTsFFHvV2WFLZ) | 3:30 | 2024-03-15 | 2024-03-18 |
@@ -1315,7 +1317,7 @@
 | [Tonę](https://open.spotify.com/track/10W1VlePfIyjrUCTZ15Q1G) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Tonę](https://open.spotify.com/album/4xEZCZwXOlhAfgEYkZSU82) | 2:44 | 2022-09-08 | 2022-11-19 |
 | [Too Late](https://open.spotify.com/track/14Qnu50Sy8uZbJR3zEcbY4) | [Essosa](https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY) | [Essie's World](https://open.spotify.com/album/5POh4uMQRFPQuZcAMKAtRB) | 3:00 | 2024-08-16 |  |
 | [Too Much Time](https://open.spotify.com/track/52Cb0LJqGkhTf1FdZKUXRk) | [Eli Wilson](https://open.spotify.com/artist/5oQxK0KlCYoKZg8wS5Pm0p) | [Too Much Time](https://open.spotify.com/album/7qosDtVE1hK4dZyjJDHOjx) | 3:01 | 2024-05-17 |  |
-| [Too Soon](https://open.spotify.com/track/0WdQjRX7X6amz0BHRcD887) | [Alex Angelo](https://open.spotify.com/artist/6BnmXRCOnTy4iTBlbsgZ5J) | [Too Soon](https://open.spotify.com/album/4xECNkIR9p94yrYa35LAz3) | 4:12 | 2024-05-31 |  |
+| [Too Soon](https://open.spotify.com/track/0WdQjRX7X6amz0BHRcD887) | [Alex Angelo](https://open.spotify.com/artist/6BnmXRCOnTy4iTBlbsgZ5J) | [Too Soon](https://open.spotify.com/album/4xECNkIR9p94yrYa35LAz3) | 4:12 | 2024-05-31 | 2024-09-13 |
 | [Too Well](https://open.spotify.com/track/6Szgu8v7CAapag3XuuJX0b) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 2:36 | 2023-08-18 | 2023-11-18 |
 | [TOSCANA](https://open.spotify.com/track/6ejAYAdo08qbPLrH4FEfYe) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Cardellino](https://open.spotify.com/album/43ngUKpEMUdgNv3cHaWGKC) | 2:49 | 2022-03-24 | 2022-08-20 |
 | [Totoo](https://open.spotify.com/track/2xLdN3oHi4CG89H9g1DJXN) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [Kenaniah](https://open.spotify.com/album/50ZqQAS4Cp2ATe9w1MUHB7) | 4:40 | 2023-07-07 | 2024-03-09 |
@@ -1432,7 +1434,7 @@
 | [X El Barrio](https://open.spotify.com/track/5C23TshL3Y78V8clTfctlO) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [X El Barrio](https://open.spotify.com/album/473EMNLmnFCEoKl11qzABM) | 3:22 | 2022-03-24 | 2022-04-21 |
 | [Ya Acabo](https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [DEV, Vol\. 2](https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU) | 3:09 | 2022-03-24 | 2022-09-16 |
 | [Ya Hayati](https://open.spotify.com/track/6JyHqySGJlaDv5RdLMZ9nA) | [Amir Hasan](https://open.spotify.com/artist/2OAmsrxhQIJQRat9EY8PxL) | [Ya Hayati](https://open.spotify.com/album/0ZfkgUy4g9y5E4pekNGyNE) | 3:29 | 2024-06-28 | 2024-08-25 |
-| [YABANCI](https://open.spotify.com/track/3tkaoklFrXHAlWvdoWhUbY) | [Sena Şahin](https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W) | [YABANCI](https://open.spotify.com/album/0YBe2Fk1Q0V7JnmqzzTrnb) | 2:27 | 2024-06-14 |  |
+| [YABANCI](https://open.spotify.com/track/3tkaoklFrXHAlWvdoWhUbY) | [Sena Şahin](https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W) | [YABANCI](https://open.spotify.com/album/0YBe2Fk1Q0V7JnmqzzTrnb) | 2:27 | 2024-06-14 | 2024-09-13 |
 | [YACHT CLUB](https://open.spotify.com/track/6akyMw7cDDCVGqrAwHA6b2) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [YACHT CLUB](https://open.spotify.com/album/0iwAIB5fDKkgUTpgBrDr7t) | 2:57 | 2024-06-07 |  |
 | [Yakap](https://open.spotify.com/track/4cO62W6CErGU4vrDWF1Ruj) | [Alex Bruce](https://open.spotify.com/artist/65896yX3ZMa0af70HRYNVX) | [Yakap](https://open.spotify.com/album/1nBiqfztbH4xqVgPI01HWg) | 3:20 | 2022-02-03 | 2022-12-15 |
 | [Yalnızlık Bana Kalan](https://open.spotify.com/track/1MLVv52wh7QmiW0mQEKKuV) | [Paptircem](https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b) | [Büyüklere Ninniler](https://open.spotify.com/album/2zviwzygpyVqqab20KQC5T) | 3:17 | 2024-02-26 | 2024-05-04 |

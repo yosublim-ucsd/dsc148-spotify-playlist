@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,369 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,390 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,15 +12,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 2 | [Jo Tum Mere Ho](https://open.spotify.com/track/0eCajpR75pDW0r64U6hP2x) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Jo Tum Mere Ho](https://open.spotify.com/album/0upenH0uUT36nBbVM5mQhW) | 4:11 |
 | 3 | [Iktara \- Male Version](https://open.spotify.com/track/37QFYtNOmvmXrgesLTRhMq) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Tochi Raina](https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx), [Raman Mahadevan](https://open.spotify.com/artist/5jbcmPkWWDvnHws3S60EVd) | [Javeda Sufiaana](https://open.spotify.com/album/4veoDRq0o3nLw4lqVKU4Pl) | 3:44 |
 | 4 | [Yaara Tere Bin \- Reprise \[From "Call Me Bae"\]](https://open.spotify.com/track/72taAwEdg17pI7CHl19jyg) | [RUUH](https://open.spotify.com/artist/70OyR3fSaGkXpkr1hMm9KQ), [JOH](https://open.spotify.com/artist/6chON6pmc2A5MZ2g4oDrNk), [Lisa Mishra](https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs), [Smriti Bhoker](https://open.spotify.com/artist/6h5RK5NeNrsYNoUXJrIFlL) | [Call Me Bae \- Original Series Soundtrack](https://open.spotify.com/album/0lIHIDrZbRZK20gn5Cw3uL) | 1:50 |
-| 5 | [Dooriyan](https://open.spotify.com/track/0ppwDEu7J3NdPNIUHtpsUB) | [Lega\-C](https://open.spotify.com/artist/6PFF32ltwmEyLcwX6FD2mG), [Saubhagya](https://open.spotify.com/artist/21efmh0LXU7EX5pTi6Xr1f), [SoulTrax](https://open.spotify.com/artist/5xyovpABCtEybs55kIQg1b) | [Dooriyan](https://open.spotify.com/album/1inFZC4j9k9thsOvzY6YSI) | 3:20 |
+| 5 | [Chand](https://open.spotify.com/track/3HitRllqCZkOtSsp6rymfS) | [Raymann Rayy](https://open.spotify.com/artist/12O0QpNqkv87j4UoL214OR) | [CHAND](https://open.spotify.com/album/3xqItK7gAwkFJPsNO6oanC) | 3:39 |
 | 6 | [Kasoor \- Acoustic](https://open.spotify.com/track/117gRrOjnRkMCgWxNtDNSv) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Shehron Ke Raaz](https://open.spotify.com/album/0OU05VmEgCYZE5JxpD07BZ) | 3:33 |
-| 7 | [Tuu \- Reprise](https://open.spotify.com/track/6htkmkcpF7CzdrB2xw0hrF) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [Manav](https://open.spotify.com/artist/51JL41wIGc0LJonGMZcsyM) | [Dil Se](https://open.spotify.com/album/241jm308Fldzh7BFcNJWzS) | 3:00 |
-| 8 | [Husn](https://open.spotify.com/track/0TL0LFcwIBF5eX7arDIKxY) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Husn](https://open.spotify.com/album/2SarxpD48O1DOiDIccyZ0W) | 3:37 |
+| 7 | [Husn](https://open.spotify.com/track/0TL0LFcwIBF5eX7arDIKxY) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Husn](https://open.spotify.com/album/2SarxpD48O1DOiDIccyZ0W) | 3:37 |
+| 8 | [Dooriyan](https://open.spotify.com/track/0ppwDEu7J3NdPNIUHtpsUB) | [Lega\-C](https://open.spotify.com/artist/6PFF32ltwmEyLcwX6FD2mG), [Saubhagya](https://open.spotify.com/artist/21efmh0LXU7EX5pTi6Xr1f), [SoulTrax](https://open.spotify.com/artist/5xyovpABCtEybs55kIQg1b) | [Dooriyan](https://open.spotify.com/album/1inFZC4j9k9thsOvzY6YSI) | 3:20 |
 | 9 | [Ishq Ho Jayega \(Unplugged\)](https://open.spotify.com/track/3y1mcRn6VgbrYkChpvQavg) | [Prateek Gandhi](https://open.spotify.com/artist/1QH7G1DjLYaY5EvqO1PA6w) | [Ishq Ho Jayega \(Unplugged\)](https://open.spotify.com/album/6KZpgBjy9zrw5y6uIZF7tL) | 3:59 |
 | 10 | [Malang Sajna \- Jamming Version](https://open.spotify.com/track/5emwpQvSRKbYlIcUziCZN9) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Achha Lag Raha Hai](https://open.spotify.com/album/5rSSwWHFO7BDclf2ktbsML) | 3:04 |
-| 11 | [Faasle](https://open.spotify.com/track/26tmWlMjd3Li1WDJSm9IuJ) | [Peferd Da Costa](https://open.spotify.com/artist/00ubzRw4KemETUjdvwKqJp) | [Faasle](https://open.spotify.com/album/0dWoK0z5NaabRTzQK6KzZ8) | 3:50 |
-| 12 | [Kinaare](https://open.spotify.com/track/349xrTZ3A494zVirLQUeBb) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Kinaare](https://open.spotify.com/album/1atSYZFpKekl0u4JlEuzRC) | 2:41 |
-| 13 | [Gungunata Hun](https://open.spotify.com/track/6i1fue7mLghCZ5DhrqSkIe) | [Prateek Gandhi](https://open.spotify.com/artist/1QH7G1DjLYaY5EvqO1PA6w) | [Gungunata Hun](https://open.spotify.com/album/0aWwvDpUI7QDg522KChgu1) | 2:41 |
+| 11 | [Tuu \- Reprise](https://open.spotify.com/track/6htkmkcpF7CzdrB2xw0hrF) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [Manav](https://open.spotify.com/artist/51JL41wIGc0LJonGMZcsyM) | [Dil Se](https://open.spotify.com/album/241jm308Fldzh7BFcNJWzS) | 3:00 |
+| 12 | [Faasle](https://open.spotify.com/track/26tmWlMjd3Li1WDJSm9IuJ) | [Peferd Da Costa](https://open.spotify.com/artist/00ubzRw4KemETUjdvwKqJp) | [Faasle](https://open.spotify.com/album/0dWoK0z5NaabRTzQK6KzZ8) | 3:50 |
+| 13 | [Kinaare](https://open.spotify.com/track/349xrTZ3A494zVirLQUeBb) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Kinaare](https://open.spotify.com/album/1atSYZFpKekl0u4JlEuzRC) | 2:41 |
 | 14 | [Akelapan](https://open.spotify.com/track/1ITfydBMQbHQzlFLYtkWjy) | [Hashtag Joy](https://open.spotify.com/artist/1hHcZHmSQO9mfhW09ctK0h) | [Akelapan](https://open.spotify.com/album/7v5D9fieXyfV9RFEefdbXV) | 3:05 |
 | 15 | [safar](https://open.spotify.com/track/02lLmFDMpMltZBXVWLZVIQ) | [Ashish Zachariah](https://open.spotify.com/artist/51xtFCX1WhS6mMni1EVMGT), [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [dastaan](https://open.spotify.com/album/0mUNlYODKUyJe5dOep0r22) | 3:16 |
 | 16 | [Aasaan](https://open.spotify.com/track/2BL5cbOyQSghBpFwvvwtDQ) | [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Aasaan](https://open.spotify.com/album/32DqnM6T6NdtNBCyiAamtk) | 3:08 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 74 | [Mahiye Jinna Sohna Unplugged](https://open.spotify.com/track/7k8g09FNAw41bJatQuR6K9) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Dard](https://open.spotify.com/album/0YzF0ImdBeODiCWejSDndM) | 2:27 |
 | 75 | [Baat Itni Si Hai \- Unplugged](https://open.spotify.com/track/2xkyznh2fVteFDmWjUlZ9U) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Baat Itni Si Hai \(Unplugged\)](https://open.spotify.com/album/0rjJuTIRRXK6KOv3UuUSvC) | 3:47 |
 
-Snapshot ID: `Zt/BZgAAAAAeOJTGhbWJGozTIUQRn/Th`
+Snapshot ID: `ZuJrVgAAAABiO21SZKdxu6RJ0PBxFlZb`

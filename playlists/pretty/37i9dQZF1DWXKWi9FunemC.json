@@ -1,6 +1,6 @@
 {
   "description": "For those who like a little bit of coffee with their Jesus.",
-  "num_followers": 334272,
+  "num_followers": 334435,
   "original_name": "Christian Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "If It Wasn\u2019t for the Cross",
-        "url": "https://open.spotify.com/album/013ERHFnsYzmZz8BdfyiEN"
-      },
-      "artists": [
-        {
-          "name": "The Lowly Heirs",
-          "url": "https://open.spotify.com/artist/5Rut8SvWARj6uzDoajjUbX"
-        }
-      ],
-      "duration_ms": 254666,
-      "name": "If It Wasn\u2019t for the Cross",
-      "url": "https://open.spotify.com/track/07zvagUEBLjgBUGRALm963"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "MATIN: Rest",
         "url": "https://open.spotify.com/album/12cExcrLvFwR8xc7TjyIwG"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 329812,
       "name": "Leaning on the Everlasting Arms",
       "url": "https://open.spotify.com/track/0Zs4yEcEo9AIiGZcCiZM7n"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "If It Wasn\u2019t for the Cross",
+        "url": "https://open.spotify.com/album/013ERHFnsYzmZz8BdfyiEN"
+      },
+      "artists": [
+        {
+          "name": "The Lowly Heirs",
+          "url": "https://open.spotify.com/artist/5Rut8SvWARj6uzDoajjUbX"
+        }
+      ],
+      "duration_ms": 254666,
+      "name": "If It Wasn\u2019t for the Cross",
+      "url": "https://open.spotify.com/track/07zvagUEBLjgBUGRALm963"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -635,38 +635,18 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "Holy Love",
-        "url": "https://open.spotify.com/album/5xw7giFJg2lKDi5OKcZESt"
+        "name": "peacefully",
+        "url": "https://open.spotify.com/album/5RMyEOB40hzPZqRSXi5aZI"
       },
       "artists": [
         {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
-        },
-        {
-          "name": "Taylor Leonhardt",
-          "url": "https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i"
+          "name": "Ryce",
+          "url": "https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v"
         }
       ],
-      "duration_ms": 247173,
-      "name": "Holy Love",
-      "url": "https://open.spotify.com/track/6DBGrnhBL00xF2B94oGdd9"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
-        "name": "Refuge",
-        "url": "https://open.spotify.com/album/2rPhIcGwjnoNlXRpM454LH"
-      },
-      "artists": [
-        {
-          "name": "Grant Leslie",
-          "url": "https://open.spotify.com/artist/0ROcoHoVwoXQe33cszx7A6"
-        }
-      ],
-      "duration_ms": 277565,
-      "name": "Refuge",
-      "url": "https://open.spotify.com/track/0NAqAuO6pLsB1IdTQZB3lp"
+      "duration_ms": 121363,
+      "name": "peacefully",
+      "url": "https://open.spotify.com/track/0ElI3XRqlLozGrHzMhTkAM"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -687,6 +667,22 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
+        "name": "Refuge",
+        "url": "https://open.spotify.com/album/2rPhIcGwjnoNlXRpM454LH"
+      },
+      "artists": [
+        {
+          "name": "Grant Leslie",
+          "url": "https://open.spotify.com/artist/0ROcoHoVwoXQe33cszx7A6"
+        }
+      ],
+      "duration_ms": 277565,
+      "name": "Refuge",
+      "url": "https://open.spotify.com/track/0NAqAuO6pLsB1IdTQZB3lp"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
         "name": "24/3",
         "url": "https://open.spotify.com/album/1FIhgPfQqOvDhsy0NBar0T"
       },
@@ -703,6 +699,26 @@
       "duration_ms": 228165,
       "name": "Fascination",
       "url": "https://open.spotify.com/track/5Gw9pGxKswaBAe7NCzxJ1q"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "Holy Love",
+        "url": "https://open.spotify.com/album/5xw7giFJg2lKDi5OKcZESt"
+      },
+      "artists": [
+        {
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        },
+        {
+          "name": "Taylor Leonhardt",
+          "url": "https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i"
+        }
+      ],
+      "duration_ms": 247173,
+      "name": "Holy Love",
+      "url": "https://open.spotify.com/track/6DBGrnhBL00xF2B94oGdd9"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -847,22 +863,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "peacefully",
-        "url": "https://open.spotify.com/album/5RMyEOB40hzPZqRSXi5aZI"
-      },
-      "artists": [
-        {
-          "name": "Ryce",
-          "url": "https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v"
-        }
-      ],
-      "duration_ms": 121363,
-      "name": "peacefully",
-      "url": "https://open.spotify.com/track/0ElI3XRqlLozGrHzMhTkAM"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "Still I Will Praise [Live at Burgess Barn] [Radio Edit]",
         "url": "https://open.spotify.com/album/5jTcdgdYuicOViLgJMqOUh"
       },
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
+        "name": "How Can I",
+        "url": "https://open.spotify.com/album/2tfpzRnVgGRBzbZiydB3jM"
+      },
+      "artists": [
+        {
+          "name": "Senna",
+          "url": "https://open.spotify.com/artist/052ZztbHMDTofTKgYI2Y2K"
+        }
+      ],
+      "duration_ms": 274373,
+      "name": "How Can I",
+      "url": "https://open.spotify.com/track/3awgBVx3iWd3Y2lxhDzaZv"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
         "name": "Still There's Something",
         "url": "https://open.spotify.com/album/4d4EkrXfLUpuQMviLTdNXV"
       },
@@ -1023,38 +1039,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "I See It Now",
-        "url": "https://open.spotify.com/album/3DsswlTLXLTt7VSosshz5D"
-      },
-      "artists": [
-        {
-          "name": "Rock City Worship",
-          "url": "https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB"
-        }
-      ],
-      "duration_ms": 189292,
-      "name": "I See It Now",
-      "url": "https://open.spotify.com/track/6xdGfuz1ZET9CxPGwhdSFW"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
-        "name": "How Can I",
-        "url": "https://open.spotify.com/album/2tfpzRnVgGRBzbZiydB3jM"
-      },
-      "artists": [
-        {
-          "name": "Senna",
-          "url": "https://open.spotify.com/artist/052ZztbHMDTofTKgYI2Y2K"
-        }
-      ],
-      "duration_ms": 274373,
-      "name": "How Can I",
-      "url": "https://open.spotify.com/track/3awgBVx3iWd3Y2lxhDzaZv"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "The Antidote",
         "url": "https://open.spotify.com/album/1t8xLME4vn0Ev7PtLJ4bL3"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 231773,
       "name": "Open My Eyes",
       "url": "https://open.spotify.com/track/6OtT5Foz3yt1uipoxLYuHo"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "I See It Now",
+        "url": "https://open.spotify.com/album/3DsswlTLXLTt7VSosshz5D"
+      },
+      "artists": [
+        {
+          "name": "Rock City Worship",
+          "url": "https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB"
+        }
+      ],
+      "duration_ms": 189292,
+      "name": "I See It Now",
+      "url": "https://open.spotify.com/track/6xdGfuz1ZET9CxPGwhdSFW"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "God of the Breakthrough (Live)",
-        "url": "https://open.spotify.com/album/7CRcUGs2g6haLWjZN5Vcza"
-      },
-      "artists": [
-        {
-          "name": "Milestone Worship",
-          "url": "https://open.spotify.com/artist/5NHwVYlsN0C3iBrfzfj3lo"
-        }
-      ],
-      "duration_ms": 353478,
-      "name": "God of the Breakthrough (Live)",
-      "url": "https://open.spotify.com/track/3IgJjNxYRp86Jqkl3BXmys"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "That's What I Call Free",
         "url": "https://open.spotify.com/album/7q04MbeIiDZ6ij6EWqmqAb"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 231438,
       "name": "That's What I Call Free",
       "url": "https://open.spotify.com/track/45mQtcoDydArdV3L7Fa7Dl"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "God of the Breakthrough (Live)",
+        "url": "https://open.spotify.com/album/7CRcUGs2g6haLWjZN5Vcza"
+      },
+      "artists": [
+        {
+          "name": "Milestone Worship",
+          "url": "https://open.spotify.com/artist/5NHwVYlsN0C3iBrfzfj3lo"
+        }
+      ],
+      "duration_ms": 353478,
+      "name": "God of the Breakthrough (Live)",
+      "url": "https://open.spotify.com/track/3IgJjNxYRp86Jqkl3BXmys"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/1gQS21Tf0ahs1o0jhX7Fbz"
+      },
+      "artists": [
+        {
+          "name": "Faith Rose",
+          "url": "https://open.spotify.com/artist/364y53omHupjImsnsOJkpp"
+        }
+      ],
+      "duration_ms": 229617,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/569CqUlVdNPKC5FOfiXiwJ"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
         "name": "This Wine Is Alive",
         "url": "https://open.spotify.com/album/011OH2t332Xb11kdc7TGMH"
       },
@@ -1351,18 +1367,26 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/1gQS21Tf0ahs1o0jhX7Fbz"
+        "name": "King of Eternity",
+        "url": "https://open.spotify.com/album/7okIu2F7XP4pvAcNpyYwqq"
       },
       "artists": [
         {
-          "name": "Faith Rose",
-          "url": "https://open.spotify.com/artist/364y53omHupjImsnsOJkpp"
+          "name": "LW Music",
+          "url": "https://open.spotify.com/artist/3ZdJUwiDYcaTuQLfNyFfiG"
+        },
+        {
+          "name": "Garett Serban",
+          "url": "https://open.spotify.com/artist/1rz9mPKs2EP0o8R8lbubqj"
+        },
+        {
+          "name": "Nixaide Lopez",
+          "url": "https://open.spotify.com/artist/4hVgOOca8r8vQaYtrX0JMx"
         }
       ],
-      "duration_ms": 229617,
-      "name": "Let Go",
-      "url": "https://open.spotify.com/track/569CqUlVdNPKC5FOfiXiwJ"
+      "duration_ms": 408430,
+      "name": "King of Eternity",
+      "url": "https://open.spotify.com/track/0SFAQWGYFruMwwDfYfHXde"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1395,30 +1419,6 @@
       "duration_ms": 181500,
       "name": "Abide",
       "url": "https://open.spotify.com/track/5vyCmTsxxRdAQEpEcCxZ7Z"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
-        "name": "King of Eternity",
-        "url": "https://open.spotify.com/album/7okIu2F7XP4pvAcNpyYwqq"
-      },
-      "artists": [
-        {
-          "name": "LW Music",
-          "url": "https://open.spotify.com/artist/3ZdJUwiDYcaTuQLfNyFfiG"
-        },
-        {
-          "name": "Garett Serban",
-          "url": "https://open.spotify.com/artist/1rz9mPKs2EP0o8R8lbubqj"
-        },
-        {
-          "name": "Nixaide Lopez",
-          "url": "https://open.spotify.com/artist/4hVgOOca8r8vQaYtrX0JMx"
-        }
-      ],
-      "duration_ms": 408430,
-      "name": "King of Eternity",
-      "url": "https://open.spotify.com/track/0SFAQWGYFruMwwDfYfHXde"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "Anywhere",
-        "url": "https://open.spotify.com/album/2nj79DhXjioJcFbp6L93WD"
-      },
-      "artists": [
-        {
-          "name": "The Gray Havens",
-          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
-        }
-      ],
-      "duration_ms": 297005,
-      "name": "Anywhere",
-      "url": "https://open.spotify.com/track/3ttUhmMipgjIBjfp0TatCm"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "Stay Close",
         "url": "https://open.spotify.com/album/7oYNsctXYKRxdbcvrvXXmN"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 194716,
       "name": "Stay Close",
       "url": "https://open.spotify.com/track/3OAL4fkGJ2sImt2Lhy4D7V"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "Anywhere",
+        "url": "https://open.spotify.com/album/2nj79DhXjioJcFbp6L93WD"
+      },
+      "artists": [
+        {
+          "name": "The Gray Havens",
+          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
+        }
+      ],
+      "duration_ms": 297005,
+      "name": "Anywhere",
+      "url": "https://open.spotify.com/track/3ttUhmMipgjIBjfp0TatCm"
     },
     {
       "added_at": "2024-08-03 00:38:12",

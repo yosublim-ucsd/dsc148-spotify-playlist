@@ -1,6 +1,6 @@
 {
   "description": "bold tracks, serious swagger.",
-  "num_followers": 1344037,
+  "num_followers": 1344091,
   "original_name": "Swagger",
   "owner": {
     "name": "Spotify",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
-        "name": "Wary + Strange",
-        "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 217626,
-      "name": "Fancy Drones (Fracture Me)",
-      "url": "https://open.spotify.com/track/1l9LNsjdOQ3Wfkmnsjetxj"
-    },
-    {
-      "added_at": "2024-08-23 15:39:31",
-      "album": {
         "name": "Fever Breaks",
         "url": "https://open.spotify.com/album/3qL2gdQLgulBvIo7bng2zS"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 286440,
       "name": "Old Black Magic",
       "url": "https://open.spotify.com/track/5lbgaOjchF4QZLdh2gw2Wl"
+    },
+    {
+      "added_at": "2024-08-23 15:39:31",
+      "album": {
+        "name": "Wary + Strange",
+        "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "duration_ms": 217626,
+      "name": "Fancy Drones (Fracture Me)",
+      "url": "https://open.spotify.com/track/1l9LNsjdOQ3Wfkmnsjetxj"
     },
     {
       "added_at": "2024-08-23 15:39:31",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
-        "name": "Want",
-        "url": "https://open.spotify.com/album/0QrNnavvkoA9dehE8N3sSQ"
-      },
-      "artists": [
-        {
-          "name": "Kelsey Waters",
-          "url": "https://open.spotify.com/artist/7rjqEDqvREzfmSP58SLYXT"
-        }
-      ],
-      "duration_ms": 170810,
-      "name": "Want",
-      "url": "https://open.spotify.com/track/7BVRDaghQHyDqtRdjdMTsu"
-    },
-    {
-      "added_at": "2024-08-23 15:39:31",
-      "album": {
         "name": "Ruby Red",
         "url": "https://open.spotify.com/album/7Bsz8Wc2xeIZVr0XC23Vfk"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 222026,
       "name": "Blood on Your Knees",
       "url": "https://open.spotify.com/track/3x6QbnhKGxweFWdqDl8289"
+    },
+    {
+      "added_at": "2024-08-23 15:39:31",
+      "album": {
+        "name": "Want",
+        "url": "https://open.spotify.com/album/0QrNnavvkoA9dehE8N3sSQ"
+      },
+      "artists": [
+        {
+          "name": "Kelsey Waters",
+          "url": "https://open.spotify.com/artist/7rjqEDqvREzfmSP58SLYXT"
+        }
+      ],
+      "duration_ms": 170810,
+      "name": "Want",
+      "url": "https://open.spotify.com/track/7BVRDaghQHyDqtRdjdMTsu"
     },
     {
       "added_at": "2024-08-23 15:39:31",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
-        "name": "Back in '06",
-        "url": "https://open.spotify.com/album/4U313heRCOXknbLrnl0nb3"
-      },
-      "artists": [
-        {
-          "name": "The Parlor Mob",
-          "url": "https://open.spotify.com/artist/1U4d20oJAq9aLa2mhDGwVV"
-        }
-      ],
-      "duration_ms": 191413,
-      "name": "Carnival of Crows '06",
-      "url": "https://open.spotify.com/track/2lO1SCes5TisAXB3S9EN7z"
-    },
-    {
-      "added_at": "2024-08-23 15:39:31",
-      "album": {
         "name": "GREAT NIGHT (feat. Shovels & Rope)",
         "url": "https://open.spotify.com/album/0DzSbOJZt5KxkQnTolpYgA"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 175680,
       "name": "GREAT NIGHT (feat. Shovels & Rope)",
       "url": "https://open.spotify.com/track/53xIMpFKswj3mqbPuiFJC0"
+    },
+    {
+      "added_at": "2024-08-23 15:39:31",
+      "album": {
+        "name": "Back in '06",
+        "url": "https://open.spotify.com/album/4U313heRCOXknbLrnl0nb3"
+      },
+      "artists": [
+        {
+          "name": "The Parlor Mob",
+          "url": "https://open.spotify.com/artist/1U4d20oJAq9aLa2mhDGwVV"
+        }
+      ],
+      "duration_ms": 191413,
+      "name": "Carnival of Crows '06",
+      "url": "https://open.spotify.com/track/2lO1SCes5TisAXB3S9EN7z"
     },
     {
       "added_at": "2024-08-23 15:39:31",

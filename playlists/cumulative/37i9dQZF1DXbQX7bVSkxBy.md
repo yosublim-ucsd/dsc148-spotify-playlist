@@ -4,7 +4,7 @@
 
 > Raise a voice and testify the goodness of God\.  Cover:  <a href=https://open.spotify.com/artist/2xImxpkojQWvXi1RR7hhZh?si=EAyHup5XTMqqLIhp\-bzUrQ>Freke Umoh</a>
 
-304 songs - 1 day 1 hr 7 min
+305 songs - 1 day 1 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [CORRECT](https://open.spotify.com/track/0akvZghvgczbBpV09jxu08) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [CORRECT](https://open.spotify.com/album/4KfMojNZjUJVJnq5eqXvf6) | 2:40 | 2023-12-05 | 2023-12-13 |
 | [Courts](https://open.spotify.com/track/6SHjHB2CAjTu1OCfdqUoT0) | [Linc Worship](https://open.spotify.com/artist/2uJZo3q0ArXJ2R5YjpGh0B), [Ashleigh Duggan](https://open.spotify.com/artist/2v85Z8OOV4n1w7PkG5uXXI) | [Courts](https://open.spotify.com/album/7IyxZ6j0Hpw1dDyXruZBf5) | 7:16 | 2024-09-06 |  |
 | [Cover Me](https://open.spotify.com/track/6I4UKQeC4RZtiegyiXqVxk) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa), [Dj Horphuray](https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L) | [Cover Me](https://open.spotify.com/album/1ulp36eMzjM82qIt6jh3rl) | 2:02 | 2024-01-19 | 2024-01-26 |
+| [Covered by Grace](https://open.spotify.com/track/3vzHLZAnhOUb6eDlKQEHQg) | [MUNGU FENI](https://open.spotify.com/artist/28jInFXJyrUOt031oBINu9) | [AMEN ALBUM](https://open.spotify.com/album/1JvI1Nf9zldyrjWV0tnjNK) | 2:57 | 2024-09-06 |  |
 | [Daddy](https://open.spotify.com/track/7yjKnPwdYwo8jcT4xQtNlb) | [M I L O](https://open.spotify.com/artist/3h8ysJX4brfjOTz1GmlhLa) | [Daddy](https://open.spotify.com/album/29sf3eScVnDNqfBVpCtf8t) | 3:13 | 2023-05-19 | 2023-06-16 |
 | [Daddy Wey Dey Pamper \- Gbedu Version](https://open.spotify.com/track/1TL5gkcrDrX5sOdNOzmCQ6) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Daddy Wey Dey Pamper \(Gbedu Version\)](https://open.spotify.com/album/2vFfnAxG1DEPzxRxakdE5r) | 3:28 | 2023-12-05 | 2023-12-13 |
 | [Daddy Wey Dey Pamper \- Special Version](https://open.spotify.com/track/21K28NfxP5PJQcCdxtbOpL) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Doris Joseph](https://open.spotify.com/artist/52JrpF7KvjwmFvt4MTV5ho) | [Daddy Wey Dey Pamper \(Special Version\)](https://open.spotify.com/album/7MoXTFv7bTm0g5moOX0Tz2) | 4:47 | 2023-04-13 | 2023-07-29 |
@@ -121,7 +122,7 @@
 | [Grateful](https://open.spotify.com/track/7IGCwf8COqsDoZsD8Lz5NT) | [Romeo ThaGreatwhite](https://open.spotify.com/artist/0BREQB4X1tJY2UXIndTzew), [Prifix](https://open.spotify.com/artist/1p9ME7SCoyUhTchumQvPNm) | [Grateful](https://open.spotify.com/album/6DMGM2y7j46To04if4jIam) | 5:04 | 2023-06-16 | 2023-06-30 |
 | [Grave Robber](https://open.spotify.com/track/1AuNDsNLc7b3tApnlyaGdy) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Grave Robber](https://open.spotify.com/album/0wB9OS3MOqEHXAfxEbk5Px) | 2:50 | 2023-12-29 | 2024-07-12 |
 | [Greatest](https://open.spotify.com/track/4RGma6BvBMPUlES6oAVubZ) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [RADICAL](https://open.spotify.com/album/1Wo57u7paNfHF6mFD0W2wE) | 3:08 | 2023-10-20 | 2023-11-25 |
-| [Greatest Name](https://open.spotify.com/track/2cxpb9g4emm1QL01mvupNN) | [Freke Umoh](https://open.spotify.com/artist/2xImxpkojQWvXi1RR7hhZh) | [Greatest Name](https://open.spotify.com/album/2fb2Q6ER8Bx6nFsCLyYfVK) | 10:21 | 2024-08-30 |  |
+| [Greatest Name](https://open.spotify.com/track/2cxpb9g4emm1QL01mvupNN) | [Freke Umoh](https://open.spotify.com/artist/2xImxpkojQWvXi1RR7hhZh) | [Greatest Name](https://open.spotify.com/album/2fb2Q6ER8Bx6nFsCLyYfVK) | 10:21 | 2024-08-30 | 2024-09-13 |
 | [Halle \- Remix](https://open.spotify.com/track/3pYU8E6yHFDkWjsq97RlbH) | [Peterson Okopi](https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz), [Phindi P](https://open.spotify.com/artist/5dE89DuV6VJledFjwVjemU), [TWC](https://open.spotify.com/artist/2OzRLiRiuLhR5QkrwX8lQW) | [Halle \- Remix](https://open.spotify.com/album/2YeAPHd7mDzcnIdpoTeEwE) | 5:04 | 2024-07-26 | 2024-08-16 |
 | [Hallelujah](https://open.spotify.com/track/3FqpxUbn5Glawznnl9caTu) | [Mairos](https://open.spotify.com/artist/6magWqKDY1pnK2maOgtH6s), [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy), [WINNER WAYS.](https://open.spotify.com/artist/29L1pzmDzW3P2FmQBovIFK) | [Hallelujah](https://open.spotify.com/album/5XGwrJRQsdJDppW2j1anx6) | 3:17 | 2024-04-26 | 2024-06-15 |
 | [Hallelujah \(feat\. Sini Dagana\) \[Gyration Version\]](https://open.spotify.com/track/22iQ6kNERAFyCOzzhM161U) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0), [Sini Dagana](https://open.spotify.com/artist/4Qe3zkPW4YTQrde2Ef0dJb) | [Hallelujah \(feat\. Sini Dagana\) \[Gyration Version\]](https://open.spotify.com/album/2anNLVL6hppIExTm0C9IYm) | 2:18 | 2023-06-23 | 2023-10-07 |

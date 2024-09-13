@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "A new world of alternative electronic music. \nCover: Nimino ",
+  "description": "A new world of alternative electronic music. \nCover: RONA.",
   "name": "Portal",
   "tracks": [
     {
@@ -2601,6 +2601,28 @@
     },
     {
       "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/0X9d8aHXFVl0uEApYCpoQF"
+      },
+      "artists": [
+        {
+          "name": "Just A Gent",
+          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
+        },
+        {
+          "name": "OddKidOut",
+          "url": "https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186982,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/5MFbNnmY32OzSI1dYMzWsB"
+    },
+    {
+      "album": {
         "name": "Chez Moi (Waiting For You)",
         "url": "https://open.spotify.com/album/5HwZIHl2vkaEGzuvNorz84"
       },
@@ -3336,7 +3358,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 132352,
       "name": "Deep Diving",
       "url": "https://open.spotify.com/track/4iajAy0CggbXfCU947akZB"
@@ -3596,6 +3618,32 @@
       "duration_ms": 258000,
       "name": "Dive",
       "url": "https://open.spotify.com/track/7oZHQbGCwosUHL1vDE5qdI"
+    },
+    {
+      "album": {
+        "name": "Divine",
+        "url": "https://open.spotify.com/album/3vqjyD50i2FGxdwshFiXV5"
+      },
+      "artists": [
+        {
+          "name": "Solsta",
+          "url": "https://open.spotify.com/artist/1NCH7h2KWh82zxiriFUh3A"
+        },
+        {
+          "name": "Amraks",
+          "url": "https://open.spotify.com/artist/45QSSn5J9uRnJqyCRxTBxw"
+        },
+        {
+          "name": "Jewel Owusu",
+          "url": "https://open.spotify.com/artist/6juZJy9PxiYX2EhuxW4AzW"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167442,
+      "name": "Divine",
+      "url": "https://open.spotify.com/track/4pkSzjnEYghi9kc9BNwuJu"
     },
     {
       "album": {
@@ -3896,7 +3944,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 218793,
       "name": "Drift",
       "url": "https://open.spotify.com/track/4CNDX7ziGuh50BHIq7WuCN"
@@ -6207,6 +6255,24 @@
     },
     {
       "album": {
+        "name": "How Does It Make You Feel (Part of Dekmantel Ten: A Decade of Dekmantel Festival)",
+        "url": "https://open.spotify.com/album/2hSQVfb97oRqZ3bujQs2eX"
+      },
+      "artists": [
+        {
+          "name": "Young Marco",
+          "url": "https://open.spotify.com/artist/7zpN81tVvPwlHcJSkSCyRa"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308328,
+      "name": "How Does It Make You Feel",
+      "url": "https://open.spotify.com/track/6tQWs8upU20Ry9RfKlRikl"
+    },
+    {
+      "album": {
         "name": "How It Feels",
         "url": "https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp"
       },
@@ -6588,6 +6654,28 @@
       "duration_ms": 233755,
       "name": "in a room7 F760",
       "url": "https://open.spotify.com/track/3sFYzy26BTS3te7WV8QeLx"
+    },
+    {
+      "album": {
+        "name": "In My Dreams",
+        "url": "https://open.spotify.com/album/5XSd8ZVFkVv0VsCznOA6Ia"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290625,
+      "name": "In My Dreams",
+      "url": "https://open.spotify.com/track/0cs3wJc2hHHGHw13ZTYf5j"
     },
     {
       "album": {
@@ -9625,6 +9713,24 @@
     },
     {
       "album": {
+        "name": "Pearl",
+        "url": "https://open.spotify.com/album/7uyyNpmNR8yE1MqPNnxik0"
+      },
+      "artists": [
+        {
+          "name": "Anna Lunoe",
+          "url": "https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234832,
+      "name": "Pearl",
+      "url": "https://open.spotify.com/track/1l4fsop2H0buZdcYaa7KM1"
+    },
+    {
+      "album": {
         "name": "People Are Good (Remixes)",
         "url": "https://open.spotify.com/album/6sLLqY8h5eINbeJZE8mYIk"
       },
@@ -10125,6 +10231,24 @@
     },
     {
       "album": {
+        "name": "Raise It",
+        "url": "https://open.spotify.com/album/4sEJD3PPa4sZBycQszlr9e"
+      },
+      "artists": [
+        {
+          "name": "RONA.",
+          "url": "https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207425,
+      "name": "Raise It",
+      "url": "https://open.spotify.com/track/3t65kgzcJyGFkFbtNWhz8L"
+    },
+    {
+      "album": {
         "name": "Ras",
         "url": "https://open.spotify.com/album/2skJsvVXbqFnXE4Tx3S92V"
       },
@@ -10501,6 +10625,24 @@
     },
     {
       "album": {
+        "name": "Roadkilla",
+        "url": "https://open.spotify.com/album/1woYWE9u6mjXXSSli7hyx1"
+      },
+      "artists": [
+        {
+          "name": "Arky Waters",
+          "url": "https://open.spotify.com/artist/1cxe1pFJnavjEUC9hRKZli"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215570,
+      "name": "Roadkilla",
+      "url": "https://open.spotify.com/track/6m7IexIKZSCM8tw0NwpZev"
+    },
+    {
+      "album": {
         "name": "Rosie // On2",
         "url": "https://open.spotify.com/album/2FrNlhkVR83ZNQKJzQpmjj"
       },
@@ -10698,7 +10840,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 174519,
       "name": "Say",
       "url": "https://open.spotify.com/track/6OVWzb8z0HCUscjq9wb1Yo"
@@ -11746,7 +11888,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 251111,
       "name": "Spine",
       "url": "https://open.spotify.com/track/6IZBSemFcZQfKiNsFY12Ac"
@@ -12364,7 +12506,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 298051,
       "name": "Tanzanite",
       "url": "https://open.spotify.com/track/1fgzoxderUvyuqqmo3ErYC"
@@ -13524,6 +13666,24 @@
       "duration_ms": 261176,
       "name": "Walking",
       "url": "https://open.spotify.com/track/6MRrw5wOvERWJCPUmI2oRg"
+    },
+    {
+      "album": {
+        "name": "Want U",
+        "url": "https://open.spotify.com/album/14QzntfqDDNkP00U9rGfSf"
+      },
+      "artists": [
+        {
+          "name": "Friend of a Friend",
+          "url": "https://open.spotify.com/artist/5nHnklHRvprrkkzEQAhtqS"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211014,
+      "name": "Want U",
+      "url": "https://open.spotify.com/track/5Ua8VQMSog6p5li52ntAnJ"
     },
     {
       "album": {

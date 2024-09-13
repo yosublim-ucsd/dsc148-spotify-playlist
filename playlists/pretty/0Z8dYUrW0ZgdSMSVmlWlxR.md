@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Z8dYUrW0ZgdSMSVmlWlxR.md) - [plain]
 
 > The best TikTok Gym playlist\. Your new Release Radar\. Anime Hardstyle, AOT, anime phonk, tatli depression, zyzz, xqc, attack on titan, JCORE
 
-[ig @godmodearc](https://open.spotify.com/user/shihu) - 52,856 likes - 238 songs - 11 hr 40 min
+[ig @godmodearc](https://open.spotify.com/user/shihu) - 52,849 likes - 238 songs - 11 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/0Z8dYUrW0ZgdSMSVmlWlxR.md) - [plain]
 | 31 | [ANIME PHONK](https://open.spotify.com/track/4Pj6Z9svyUSVNVPECGh4Fy) | [FanEOne](https://open.spotify.com/artist/6kQPCQf0NTmbj6hwim0vkT), [Little Trouble](https://open.spotify.com/artist/10gnuyThMyXu9EAoUKJAvS) | [ANIME PHONK](https://open.spotify.com/album/4folnJtcs3iTd5kNMOLoZU) | 2:52 |
 | 32 | [Memories](https://open.spotify.com/track/12I7LPsa9zK4FJqQcHj5Cb) | [descent](https://open.spotify.com/artist/7LnxkP0AcgHvS1yX6xtFbR) | [Memories](https://open.spotify.com/album/3jqxMu3oeX7mTIq0bZmHDV) | 2:38 |
 | 33 | [Eat Clean Lift Weights](https://open.spotify.com/track/3kfHSZ559U5H2DBjV0bZrY) | [Yotora](https://open.spotify.com/artist/5zg5lxcOnAhFFwgYmROxJx), [Yunyakosva](https://open.spotify.com/artist/6Rb96f9TkQqMWLgaqey5tR) | [Eat Clean Lift Weights](https://open.spotify.com/album/3vFnOMZricYB7VYOkvCpnK) | 2:43 |
-| 34 | [LIEBE](https://open.spotify.com/track/3qlukOoDfmgfUFCPsV7dcK) | [$ B](https://open.spotify.com/artist/5qxwWzkjL7zZQJBK4g6M24) | [LIEBE](https://open.spotify.com/album/5tIcPp0ZWfBhskscTyeGoL) | 2:53 |
+| 34 | [LIEBE](https://open.spotify.com/track/3qlukOoDfmgfUFCPsV7dcK) | [Shurik](https://open.spotify.com/artist/5sRqrI9cvAsLCxZ0u8cZ7M) | [LIEBE](https://open.spotify.com/album/5tIcPp0ZWfBhskscTyeGoL) | 2:53 |
 | 35 | [PUSHER](https://open.spotify.com/track/1PmIXXi8zlZZ3cM2vbLNcC) | [Tokyomane](https://open.spotify.com/artist/2GaIPa6dUUQBlVNYeEF6PH) | [PUSHER](https://open.spotify.com/album/2yrbYwPc9Y7ZVkePBb5Mpg) | 2:08 |
 | 36 | [DEMON SLAYER](https://open.spotify.com/track/18QEYQz7U56d9E7u1kK89w) | [Oliver C Beats](https://open.spotify.com/artist/4Ms6ibYanUiQmLfBQTL2jn) | [DEMON SLAYER](https://open.spotify.com/album/07jdx3l1sdi9uiCIqvDMbe) | 1:59 |
 | 37 | [Samurai](https://open.spotify.com/track/1uIybDOAoTSiTquV3aQjwY) | [Love Ghost](https://open.spotify.com/artist/7oYWWttOyiltgT19mfoUWi), [Big Boss Mulaa](https://open.spotify.com/artist/1psB4RmBYaifiXZUyW2Tcv) | [Tales of a Sad Boy](https://open.spotify.com/album/2nLNaNERF12jqdaUX73FeQ) | 3:13 |

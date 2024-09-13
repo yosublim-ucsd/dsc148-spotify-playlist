@@ -3528,7 +3528,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 178579,
       "name": "MOTO",
       "url": "https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5"
@@ -5928,6 +5928,24 @@
       "duration_ms": 150746,
       "name": "Wishlist",
       "url": "https://open.spotify.com/track/50z3YAFMincQJ4jIBlgBGk"
+    },
+    {
+      "album": {
+        "name": "With Open Arms",
+        "url": "https://open.spotify.com/album/2dO8pR2M34D8IR50t5yEMg"
+      },
+      "artists": [
+        {
+          "name": "Ogranya",
+          "url": "https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "With Open Arms",
+      "url": "https://open.spotify.com/track/2zMkas94Ekim0wZfGsGe23"
     },
     {
       "album": {

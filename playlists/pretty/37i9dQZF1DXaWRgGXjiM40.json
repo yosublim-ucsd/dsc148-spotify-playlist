@@ -1,6 +1,6 @@
 {
   "description": "Uma sele\u00e7\u00e3o sertaneja para voc\u00ea curtir a sua paix\u00e3o sem limites.",
-  "num_followers": 943344,
+  "num_followers": 943418,
   "original_name": "Paix\u00e3o Bandida",
   "owner": {
     "name": "Spotify",
@@ -291,6 +291,22 @@
     {
       "added_at": "2024-07-09 12:39:19",
       "album": {
+        "name": "Diego & Victor Hugo Ao Vivo em Bras\u00edlia",
+        "url": "https://open.spotify.com/album/6PlcH8kJmbJIagbWVuqHz7"
+      },
+      "artists": [
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        }
+      ],
+      "duration_ms": 190276,
+      "name": "Entregador de Flor - Ao Vivo em Bras\u00edlia",
+      "url": "https://open.spotify.com/track/5aMgTcyBPH90hWHhbNKTwR"
+    },
+    {
+      "added_at": "2024-07-09 12:39:19",
+      "album": {
         "name": "S de Saudade",
         "url": "https://open.spotify.com/album/07Dh4IqK31xeV1jetfPWvL"
       },
@@ -307,26 +323,6 @@
       "duration_ms": 174863,
       "name": "S de Saudade",
       "url": "https://open.spotify.com/track/3J5Pu25BODMex4Jpy4l6FL"
-    },
-    {
-      "added_at": "2024-07-09 12:39:19",
-      "album": {
-        "name": "Facas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0t4odyaTT5r6RJ7L2CjR8q"
-      },
-      "artists": [
-        {
-          "name": "Diego & Victor Hugo",
-          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
-        },
-        {
-          "name": "Bruno & Marrone",
-          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
-        }
-      ],
-      "duration_ms": 196379,
-      "name": "Facas - Ao Vivo",
-      "url": "https://open.spotify.com/track/1ere9b9vDw2N3m9d4uiXxa"
     },
     {
       "added_at": "2024-07-09 12:39:19",
@@ -431,22 +427,6 @@
     {
       "added_at": "2024-07-09 12:39:19",
       "album": {
-        "name": "Diego & Victor Hugo Ao Vivo em Bras\u00edlia",
-        "url": "https://open.spotify.com/album/6PlcH8kJmbJIagbWVuqHz7"
-      },
-      "artists": [
-        {
-          "name": "Diego & Victor Hugo",
-          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
-        }
-      ],
-      "duration_ms": 190276,
-      "name": "Entregador de Flor - Ao Vivo em Bras\u00edlia",
-      "url": "https://open.spotify.com/track/5aMgTcyBPH90hWHhbNKTwR"
-    },
-    {
-      "added_at": "2024-07-09 12:39:19",
-      "album": {
         "name": "Falando de Amor, Vol. 1",
         "url": "https://open.spotify.com/album/1XNqME96E9GBNYCv8wFbn2"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 161597,
       "name": "M\u00e1gica - Live",
       "url": "https://open.spotify.com/track/5cN5ZOVcYBl4Lnq50Zeqsx"
+    },
+    {
+      "added_at": "2024-07-09 12:39:19",
+      "album": {
+        "name": "Facas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0t4odyaTT5r6RJ7L2CjR8q"
+      },
+      "artists": [
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        },
+        {
+          "name": "Bruno & Marrone",
+          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
+        }
+      ],
+      "duration_ms": 196379,
+      "name": "Facas - Ao Vivo",
+      "url": "https://open.spotify.com/track/1ere9b9vDw2N3m9d4uiXxa"
     },
     {
       "added_at": "2024-07-09 12:39:19",
@@ -567,6 +567,22 @@
     {
       "added_at": "2024-07-09 12:39:19",
       "album": {
+        "name": "No Pelo 3, Pt. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3IfMlmwvbnO0yPVTNCnwAb"
+      },
+      "artists": [
+        {
+          "name": "Hugo & Guilherme",
+          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
+        }
+      ],
+      "duration_ms": 173226,
+      "name": "Cora\u00e7\u00e3o Na Cama - Ao Vivo",
+      "url": "https://open.spotify.com/track/2nZj5YymF54qhAu7RneVP6"
+    },
+    {
+      "added_at": "2024-07-09 12:39:19",
+      "album": {
         "name": "Vagabundo",
         "url": "https://open.spotify.com/album/7fUBlrxykadQWJx0Jikf3v"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 157202,
       "name": "Surto De Amor - Ao Vivo Em Uberl\u00e2ndia / 2018",
       "url": "https://open.spotify.com/track/4N0I8lmbLPmH8qdlFIjuOU"
-    },
-    {
-      "added_at": "2024-07-09 12:39:19",
-      "album": {
-        "name": "No Pelo 3, Pt. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3IfMlmwvbnO0yPVTNCnwAb"
-      },
-      "artists": [
-        {
-          "name": "Hugo & Guilherme",
-          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
-        }
-      ],
-      "duration_ms": 173226,
-      "name": "Cora\u00e7\u00e3o Na Cama - Ao Vivo",
-      "url": "https://open.spotify.com/track/2nZj5YymF54qhAu7RneVP6"
     },
     {
       "added_at": "2024-07-09 12:39:19",
@@ -667,22 +667,6 @@
       "duration_ms": 249846,
       "name": "\u00e1gua com a\u00e7\u00facar - ao vivo",
       "url": "https://open.spotify.com/track/6nI98wtHOJAYSASq22TCYu"
-    },
-    {
-      "added_at": "2024-07-09 12:39:19",
-      "album": {
-        "name": "Intensamente Hoje!",
-        "url": "https://open.spotify.com/album/537cWg3a0Fn9zmPllBPMGh"
-      },
-      "artists": [
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        }
-      ],
-      "duration_ms": 170459,
-      "name": "T\u00f4 Com Moral No C\u00e9u! - Ao Vivo",
-      "url": "https://open.spotify.com/track/0uwaiApk6k7k9POyFjTKeR"
     },
     {
       "added_at": "2024-07-09 12:39:19",
@@ -759,22 +743,6 @@
     {
       "added_at": "2024-07-09 12:39:19",
       "album": {
-        "name": "Ac\u00fastico (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3xCayP2LKZhZotGfzVT9Fx"
-      },
-      "artists": [
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        }
-      ],
-      "duration_ms": 243813,
-      "name": "Escreve A\u00ed - Ao Vivo",
-      "url": "https://open.spotify.com/track/69uKYDeTWn1wFssqP6OZjb"
-    },
-    {
-      "added_at": "2024-07-09 12:39:19",
-      "album": {
         "name": "Pulei na Piscina (Ao Vivo)",
         "url": "https://open.spotify.com/album/59wHxqp3FE5gfK0l4wAIc8"
       },
@@ -787,6 +755,38 @@
       "duration_ms": 181846,
       "name": "Pulei na Piscina - Ao Vivo",
       "url": "https://open.spotify.com/track/1uA7fD01YlQr1Rm0oyNB4H"
+    },
+    {
+      "added_at": "2024-07-09 12:39:19",
+      "album": {
+        "name": "Intensamente Hoje!",
+        "url": "https://open.spotify.com/album/537cWg3a0Fn9zmPllBPMGh"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "duration_ms": 170459,
+      "name": "T\u00f4 Com Moral No C\u00e9u! - Ao Vivo",
+      "url": "https://open.spotify.com/track/0uwaiApk6k7k9POyFjTKeR"
+    },
+    {
+      "added_at": "2024-07-09 12:39:19",
+      "album": {
+        "name": "Ac\u00fastico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3xCayP2LKZhZotGfzVT9Fx"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "duration_ms": 243813,
+      "name": "Escreve A\u00ed - Ao Vivo",
+      "url": "https://open.spotify.com/track/69uKYDeTWn1wFssqP6OZjb"
     },
     {
       "added_at": "2024-07-09 12:39:19",

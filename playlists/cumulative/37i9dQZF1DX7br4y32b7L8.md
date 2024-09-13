@@ -4,7 +4,7 @@
 
 > songs voor je playlist! \#fyp
 
-550 songs - 1 day 3 hr 46 min
+552 songs - 1 day 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [Just Dance](https://open.spotify.com/track/2x7MyWybabEz6Y6wvHuwGE) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Colby O'Donis](https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z) | [The Fame](https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV) | 4:01 | 2023-02-23 | 2023-03-28 |
 | [Kakkerlak Met Nagellak](https://open.spotify.com/track/0drZWSUbgDvb7vS9cnNhOU) | [Michella Kox](https://open.spotify.com/artist/4XWSfTxs3oLrtq2yqpmcHU) | [Kakkerlak Met Nagellak](https://open.spotify.com/album/6hmC6NuXWwQjdQYtY4PmLf) | 1:55 | 2023-04-29 | 2023-09-01 |
 | [Karma](https://open.spotify.com/track/2uqxsofWmgRT0ekghgy3ln) | [JoJo Siwa](https://open.spotify.com/artist/2ai8yQyHp5UEjSS5v9g5fP) | [Karma](https://open.spotify.com/album/0XSC4BVMGrT5ewWnpIcwak) | 3:07 | 2024-04-06 | 2024-05-24 |
+| [KEEP UP](https://open.spotify.com/track/2yR2sziCF4WEs3klW1F38d) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [KEEP UP // FROSTBITE](https://open.spotify.com/album/526xuSD6c45Gb5hH4rN8RY) | 2:13 | 2024-09-12 |  |
 | [KEHLANI](https://open.spotify.com/track/0izPpjfwsu2DuzWGqsABkT) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [KEHLANI](https://open.spotify.com/album/4e9It5Geutbt6LBEqFmHSz) | 2:02 | 2024-06-24 |  |
 | [Kenia](https://open.spotify.com/track/2X7rF1czlF3xh2V6oI92Qc) | [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Kenia](https://open.spotify.com/album/4Otz9RP2y3GE0CXaV2Vyf4) | 3:32 | 2024-02-03 | 2024-04-19 |
 | [Kill Bill](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:33 | 2023-02-23 | 2023-03-02 |
@@ -384,7 +385,7 @@
 | [Past Lives](https://open.spotify.com/track/5kZtNsNOOm3Dp5pClPUEhj) | [Farizki](https://open.spotify.com/artist/0q21wtMM1dK3rI2HzCYPui) | [Past Lives](https://open.spotify.com/album/4mtlhZ8dDdNnXCFu5AzFv8) | 2:33 | 2023-05-01 | 2023-07-05 |
 | [Past Lives](https://open.spotify.com/track/63m0Aq1h71ZhX69s74VRDD) | [Kzzie](https://open.spotify.com/artist/7ib3Hg2NtQtQACtcm5qX0F), [Sapientdreams](https://open.spotify.com/artist/1aOj46eemMayh3HW5ufnw7) | [Past Lives](https://open.spotify.com/album/7fmtAELE4uG319tK93OpGW) | 2:33 | 2023-06-19 | 2023-06-26 |
 | [Peaches](https://open.spotify.com/track/4w9soAM7IrmYDhSXLp14p6) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [The Super Mario Bros\. Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3QITNyRzvTqn0t9tLmS1Vd) | 1:35 | 2023-04-14 | 2023-10-03 |
-| [Pedro](https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Pedro](https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1) | 2:24 | 2024-04-06 |  |
+| [Pedro](https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Pedro](https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1) | 2:24 | 2024-04-06 | 2024-09-13 |
 | [Per Ongeluk Verliefd](https://open.spotify.com/track/0KYlSyEchSuHkbrtVxZ6Ch) | [JOB](https://open.spotify.com/artist/5sSYwtZlYFqpTnHjjxxEXB) | [Per Ongeluk Verliefd](https://open.spotify.com/album/6WKgBHm6gfXfqT0OUrMAfE) | 2:53 | 2024-06-03 | 2024-07-19 |
 | [Perfect \(Exceeder\)](https://open.spotify.com/track/0whmIaItqkT8e5PVuPyhvT) | [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Perfect \(Exceeder\)](https://open.spotify.com/album/2KvtNjXWp2eq4oSUvf882U) | 2:41 | 2024-01-03 | 2024-02-15 |
 | [Perfect \(Exceeder\) \[1234 – Let Me Hear You Scream\] – Sped Up](https://open.spotify.com/track/0JCibql9R5cuYLBFRMocPj) | [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Perfect \(Exceeder\) \[1234 – Let Me Hear You Scream\] – Sped Up](https://open.spotify.com/album/3H2tjX6hu3F3vaLJPkry9D) | 2:27 | 2024-01-11 | 2024-01-30 |
@@ -477,6 +478,7 @@
 | [Supernova](https://open.spotify.com/track/4o15ljBxxossYcAYOhjKpb) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee), [Matthy](https://open.spotify.com/artist/0QHed4AjWDRonljqAa92EF) | [Supernova](https://open.spotify.com/album/66q7bYDHdyVIvFvsrh6COm) | 2:37 | 2023-07-31 | 2023-10-03 |
 | [Sure Thing](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:15 | 2023-02-23 | 2023-04-12 |
 | [Surround Sound \(feat\. 21 Savage & Baby Tate\)](https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 3:49 | 2023-11-23 | 2024-03-19 |
+| [Sweet, Salt, Sour](https://open.spotify.com/track/4wBIyPFm5WKg72pa1qz5Oq) | [Jesse Hydro](https://open.spotify.com/artist/2r9Lzj8IpPYpSqu47KYngJ) | [Sweet, Salt, Sour](https://open.spotify.com/album/0DlOdShIvC2KfD07XDAlzU) | 2:44 | 2024-09-12 |  |
 | [Ta Ta Ta](https://open.spotify.com/track/3rmqNsOiGqqvFNTmGlzl4R) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Bayanni](https://open.spotify.com/album/0XIgw74GKfTD6MCOHzhovL) | 2:39 | 2023-02-23 | 2023-04-07 |
 | [Tell Ur Girlfriend](https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Tell Ur Girlfriend](https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT) | 2:04 | 2024-04-06 | 2024-09-12 |
 | [Terug In De Tijd](https://open.spotify.com/track/0vrKBjEBQAVn3sdhIXmpHE) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Terug In De Tijd](https://open.spotify.com/album/54hRAA81BH7x1af3X7ackS) | 3:07 | 2024-05-22 |  |

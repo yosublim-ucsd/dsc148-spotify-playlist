@@ -2,7 +2,7 @@
 
 ### [Swahili Praise](https://open.spotify.com/playlist/37i9dQZF1DXa9bqOzK42BZ)
 
-> Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl?si=bNiHIB34TMaspnYDyfPLug">Phina</a>
+> Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/6E6bGyrGJM33jnVivvn3kH?si=JlJsBzPuT7\-zfw\_BLEcCQA">Israel Mbonyi</a>
 
 192 songs - 16 hr 46 min
 

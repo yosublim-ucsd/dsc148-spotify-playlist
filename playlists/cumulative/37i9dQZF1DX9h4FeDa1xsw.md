@@ -2,20 +2,22 @@
 
 ### [Vice Versa](https://open.spotify.com/playlist/37i9dQZF1DX9h4FeDa1xsw)
 
-> Photo : A2h
+> Photo : Carbonne
 
-48 songs - 2 hr 22 min
+50 songs - 2 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [30 secondes](https://open.spotify.com/track/2TiyqnbzipvZDBHqRA5vTh) | [Spider ZED](https://open.spotify.com/artist/4kAzmAcboZ0F6bCCb4jj8I) | [30 secondes](https://open.spotify.com/album/7o72sPlRqClFQBiYCXnr4m) | 1:32 | 2024-09-12 |  |
 | [Allo la lune](https://open.spotify.com/track/6cz0ynmReFlfZ3aUqiFnWo) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Demain il fera beau](https://open.spotify.com/album/2u89QX2fEHo9MaZjC1XHiw) | 3:06 | 2024-06-20 |  |
+| [Bazar](https://open.spotify.com/track/4khrqV7xYJWCk0sesxhtwt) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [Bazar](https://open.spotify.com/album/1N9W4DaURi0lQYOM7DpsDW) | 2:46 | 2024-09-12 |  |
 | [Bene](https://open.spotify.com/track/08a2Ve5gCAmvSomD1m2DJB) | [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD) | [Par nous\-mêmes](https://open.spotify.com/album/2X5USMHX1pApuSt0JIRrjA) | 3:13 | 2024-07-11 |  |
 | [Carrousel](https://open.spotify.com/track/2JG62WPQxiKgIrlFoZO09R) | [Mohand Baha](https://open.spotify.com/artist/5Lz6hyIn2iDwHEesU4idwl) | [Carrousel](https://open.spotify.com/album/66NLpOrD1ZixhLTN0toUPC) | 2:19 | 2024-06-20 |  |
 | [CE QU'ON ME DISAIT](https://open.spotify.com/track/0CD4W6TNcMg8FUGmJFEH87) | [Kyana](https://open.spotify.com/artist/1xOGqfYHZ2N0C06PzHE1dx) | [CE QU'ON ME DISAIT](https://open.spotify.com/album/1sqzA2iIBtB3XWYFjydekh) | 3:00 | 2024-06-20 |  |
 | [Ce soir \(feat\. Gazo\)](https://open.spotify.com/track/4wqbWYnwtHFg3nRxJ8hX09) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Ce soir \(feat\. Gazo\)](https://open.spotify.com/album/4YNqVYcimUR3FAgRhA25Mt) | 2:57 | 2024-06-20 |  |
 | [cette nuit](https://open.spotify.com/track/1glPy7m40XTsVccG6OCrqC) | [bgl](https://open.spotify.com/artist/56g0CScgWbbwKWZeU76BQH) | [cette nuit](https://open.spotify.com/album/3PN7F0m9s9xqIgeFSiMf2o) | 3:17 | 2024-06-20 |  |
 | [Comment on s'aime ?](https://open.spotify.com/track/1nsJ7AxCT8GUoNnJRY2dRL) | [Lord Esperanza](https://open.spotify.com/artist/7CPznx8a1emLVLeCHGuJeN) | [Atlas](https://open.spotify.com/album/0bXOpugUlW6u61H9zN6D7L) | 2:47 | 2024-07-18 |  |
-| [Couleur Velours](https://open.spotify.com/track/2qsQNVUWZccCT4BjcBTWA2) | [Thomas Goldberg](https://open.spotify.com/artist/3mJSQo9rHKT7rqI949eCBd), [Nochka](https://open.spotify.com/artist/2LDcDxIuutAEQcHpmDOowg) | [Couleur Velours](https://open.spotify.com/album/1JT57UhhSVXfBG62QBeuvb) | 2:28 | 2024-06-20 |  |
+| [Couleur Velours](https://open.spotify.com/track/2qsQNVUWZccCT4BjcBTWA2) | [Thomas Goldberg](https://open.spotify.com/artist/3mJSQo9rHKT7rqI949eCBd), [Nochka](https://open.spotify.com/artist/2LDcDxIuutAEQcHpmDOowg) | [Couleur Velours](https://open.spotify.com/album/1JT57UhhSVXfBG62QBeuvb) | 2:28 | 2024-06-20 | 2024-09-13 |
 | [Demain](https://open.spotify.com/track/5fhU1hRABiGlPsX84Ufw4w) | [Alien](https://open.spotify.com/artist/5Y80Kn16d4undgMzx4SaYS) | [L'orage](https://open.spotify.com/album/3O6SXe2rtSvjVDWIx0EFHs) | 2:27 | 2024-07-18 |  |
 | [DOMMAGE](https://open.spotify.com/track/5MPLvZ736HKXmY8hjycKfx) | [Pitt](https://open.spotify.com/artist/49ofPLQXico2N1N13l0h8m) | [DOMMAGE](https://open.spotify.com/album/0EsXZDwcFWcVR4cmVNobDb) | 2:33 | 2024-06-20 | 2024-07-19 |
 | [Don du Ciel](https://open.spotify.com/track/0DTUbfyHygkB6P10cvc7qO) | [Princesse](https://open.spotify.com/artist/6btazhSPWJjAUX7Qvk8CEw) | [Prélude Nouvelle Romance](https://open.spotify.com/album/3Y4c4k6fsaXdfOrdWSaM2I) | 2:58 | 2024-06-20 |  |
@@ -40,7 +42,7 @@
 | [Monde](https://open.spotify.com/track/4zD7GnXyl94mNCbyaNw6xf) | [Luidji](https://open.spotify.com/artist/3bRGJQd7b4lE3ZAEMfOXJp), [Ryan Koffi](https://open.spotify.com/artist/53qGMn2ruG0oTwyGyTsBUn) | [Saison 00](https://open.spotify.com/album/0MdN6wfUWZtMFXV0ESjYuf) | 3:36 | 2024-06-20 |  |
 | [Mytho](https://open.spotify.com/track/5XhNXFHAi60G64TB6lr666) | [Rouquine](https://open.spotify.com/artist/7pJxy5TSBacc0UMMppaExZ), [KIK](https://open.spotify.com/artist/3U0pUvFUMv6gJiTFnXiueY) | [Mytho](https://open.spotify.com/album/1oTCVAoOTojhlOzGskugZ2) | 2:56 | 2024-06-20 |  |
 | [Nouvelle Parisienne](https://open.spotify.com/track/4zapAHuwWQ30FI3iYIMwDF) | [Younsss](https://open.spotify.com/artist/78ZEXPRdY2LFBQW2MAO0Hp) | [Nouvelle Parisienne](https://open.spotify.com/album/4Vzp2WLzJUViQKK0UpRJS2) | 2:42 | 2024-06-20 |  |
-| [Pansement](https://open.spotify.com/track/31MUDXdxaJ1S2KTg1LyEf3) | [Spider ZED](https://open.spotify.com/artist/4kAzmAcboZ0F6bCCb4jj8I) | [Pansement](https://open.spotify.com/album/3m3BNRCXasXTyPf2qjsTkZ) | 2:06 | 2024-06-20 |  |
+| [Pansement](https://open.spotify.com/track/31MUDXdxaJ1S2KTg1LyEf3) | [Spider ZED](https://open.spotify.com/artist/4kAzmAcboZ0F6bCCb4jj8I) | [Pansement](https://open.spotify.com/album/3m3BNRCXasXTyPf2qjsTkZ) | 2:06 | 2024-06-20 | 2024-09-13 |
 | [Petite Geek](https://open.spotify.com/track/6AuSytl7mxC6qM9ObcxJHO) | [Maheva](https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz) | [Petite Geek](https://open.spotify.com/album/2ol7vjjSEBz5IUxMvyiySL) | 2:16 | 2024-06-20 |  |
 | [POLAIRE](https://open.spotify.com/track/0eVC2hbCYF2JMXumjz8kBY) | [nelick](https://open.spotify.com/artist/2W2NUrosOnwAI1hZIVbwit) | [POLAIRE](https://open.spotify.com/album/7yni4xIng9iVcPYAuuggU8) | 3:33 | 2024-06-20 |  |
 | [Prends le bien](https://open.spotify.com/track/74bLCiY77MDrikVkjQ9avj) | [Spider ZED](https://open.spotify.com/artist/4kAzmAcboZ0F6bCCb4jj8I) | [Prends le bien](https://open.spotify.com/album/3JlsN1Zhe5AakJW4WdUaBN) | 2:07 | 2024-06-20 |  |

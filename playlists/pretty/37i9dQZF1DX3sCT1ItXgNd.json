@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Ana Mena, Emilia",
-  "num_followers": 965366,
+  "num_followers": 965348,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
@@ -747,6 +747,22 @@
     {
       "added_at": "2024-09-09 08:19:00",
       "album": {
+        "name": "Tu Loca",
+        "url": "https://open.spotify.com/album/2azunHTrQxU6hJ4qPFDQoP"
+      },
+      "artists": [
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        }
+      ],
+      "duration_ms": 190928,
+      "name": "Tu Loca",
+      "url": "https://open.spotify.com/track/3rNjg96AJMRTsRZ6GKRICw"
+    },
+    {
+      "added_at": "2024-09-09 08:19:00",
+      "album": {
         "name": "GARITO EN MALASA\u00d1A",
         "url": "https://open.spotify.com/album/75dBKoirf2XBeXZHsMHsSV"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 155625,
       "name": "GARITO EN MALASA\u00d1A",
       "url": "https://open.spotify.com/track/44KlWlxTCSrKqGG5Clm0CS"
-    },
-    {
-      "added_at": "2024-09-09 08:19:00",
-      "album": {
-        "name": "Tu Loca",
-        "url": "https://open.spotify.com/album/2azunHTrQxU6hJ4qPFDQoP"
-      },
-      "artists": [
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        }
-      ],
-      "duration_ms": 190928,
-      "name": "Tu Loca",
-      "url": "https://open.spotify.com/track/3rNjg96AJMRTsRZ6GKRICw"
     },
     {
       "added_at": "2024-09-09 08:19:00",

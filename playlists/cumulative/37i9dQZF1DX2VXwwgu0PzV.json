@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-04",
-  "description": "Music for when you've got your Jesus on and your swag up . \nCover:  <a href=https://open.spotify.com/artist/16b0fWgIHXMM87ZaHe4ERg?si=8DgACsq-QAGTnfMaI422Uw>Angeloh</a>",
+  "description": "Music for when you've got your Jesus on and your swag up . \nCover:  <a href=https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM?si=OSwO6qz6TDCIRe7cbIpJAg>Moses Bliss</a>",
   "name": "Youth Service",
   "tracks": [
     {
@@ -336,7 +336,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 158646,
       "name": "Accolades",
       "url": "https://open.spotify.com/track/5EX25veDDRIaA0szBnf4YP"
@@ -878,7 +878,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 179666,
       "name": "Amazing Grace",
       "url": "https://open.spotify.com/track/3GIOy5X12wmeLe98EluQNV"
@@ -1028,7 +1028,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 206723,
       "name": "Anytime Anyday",
       "url": "https://open.spotify.com/track/1anvi7u6XDv03ZoPQc8e4r"
@@ -1415,6 +1415,32 @@
     },
     {
       "album": {
+        "name": "Bank on You",
+        "url": "https://open.spotify.com/album/01lVf8rvZWvZdTrWTvBeX8"
+      },
+      "artists": [
+        {
+          "name": "Naffymar",
+          "url": "https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr"
+        },
+        {
+          "name": "TBabz",
+          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
+        },
+        {
+          "name": "Pawasonic",
+          "url": "https://open.spotify.com/artist/4JnNMhfRwpiknBp80tInQR"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174600,
+      "name": "Bank on You",
+      "url": "https://open.spotify.com/track/5FtvzrbCp3iyf0zYNjDkyq"
+    },
+    {
+      "album": {
         "name": "Long Life & Drama",
         "url": "https://open.spotify.com/album/28vwfNtdTYbl5hhCemmMuN"
       },
@@ -1638,7 +1664,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 174857,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/4HUgyepQX5dIy3zoztesAU"
@@ -6910,7 +6936,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 156567,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/17FcmUcWoE5MIf0KGNMc3X"
@@ -6950,7 +6976,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 151578,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/65qgZDPa1QTIANVdIDdfFn"
@@ -10772,7 +10798,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 214158,
       "name": "Mo Wa Dupe (Thank You)",
       "url": "https://open.spotify.com/track/08K3tNcYdKQiACiOiP9EJK"
@@ -10912,7 +10938,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 170832,
       "name": "MOST HIGH - Remix",
       "url": "https://open.spotify.com/track/5NKU7nB9Jtav3OflHPzEuD"
@@ -11320,7 +11346,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 192863,
       "name": "N'Eze",
       "url": "https://open.spotify.com/track/5H0oMU8sGlio8EwlquZqt1"
@@ -11778,7 +11804,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 129647,
       "name": "No Pressure!",
       "url": "https://open.spotify.com/track/1fXj4lS0DxlMe5vOZofklv"
@@ -12048,7 +12074,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 154404,
       "name": "Note To Self",
       "url": "https://open.spotify.com/track/65RSulywhsSnIiVlbUaygE"
@@ -12844,7 +12870,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 156184,
       "name": "Only You",
       "url": "https://open.spotify.com/track/4Cxl6p25tI7hzGg002yhky"
@@ -14933,6 +14959,32 @@
     },
     {
       "album": {
+        "name": "Story",
+        "url": "https://open.spotify.com/album/1zmhT4zC0R4p2UedCDgIZA"
+      },
+      "artists": [
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        },
+        {
+          "name": "Echow Clay",
+          "url": "https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu"
+        },
+        {
+          "name": "Oyije",
+          "url": "https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160294,
+      "name": "Story",
+      "url": "https://open.spotify.com/track/1slM2hgJ5lDQamEF5Otrcj"
+    },
+    {
+      "album": {
         "name": "Stranger",
         "url": "https://open.spotify.com/album/46Xv9JDjZmRr7xXvrRuZ5b"
       },
@@ -15634,7 +15686,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 164210,
       "name": "Thankful",
       "url": "https://open.spotify.com/track/0QJnoEolnrjOTgnkxqFYX7"
@@ -16194,6 +16246,56 @@
       "duration_ms": 168227,
       "name": "Two",
       "url": "https://open.spotify.com/track/6VoKd5RwrDOM39EtbsP79I"
+    },
+    {
+      "album": {
+        "name": "Umbrella",
+        "url": "https://open.spotify.com/album/5oAg51Z7DMqZvqnuW4390Z"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "Festizie",
+          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
+        },
+        {
+          "name": "Chizie",
+          "url": "https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE"
+        },
+        {
+          "name": "S.O.N Music",
+          "url": "https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T"
+        },
+        {
+          "name": "Neeja",
+          "url": "https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi"
+        },
+        {
+          "name": "Membrane",
+          "url": "https://open.spotify.com/artist/0tRGPaX1RkNsyDbz42Vtsg"
+        },
+        {
+          "name": "Doris Joseph",
+          "url": "https://open.spotify.com/artist/52JrpF7KvjwmFvt4MTV5ho"
+        },
+        {
+          "name": "Ajay Asika",
+          "url": "https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1"
+        },
+        {
+          "name": "Godfrey Gad",
+          "url": "https://open.spotify.com/artist/4Q1PLV0sUS4xUzFwpFUvFh"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188727,
+      "name": "Umbrella",
+      "url": "https://open.spotify.com/track/3WQqOfbWCiVSbJebeqdvxx"
     },
     {
       "album": {
@@ -16878,7 +16980,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 223846,
       "name": "WONDERFUL",
       "url": "https://open.spotify.com/track/1gU3Uiu6yX6B0GQu32a9TX"
@@ -17406,7 +17508,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 192027,
       "name": "You Saved Me",
       "url": "https://open.spotify.com/track/3F8n9EaoR8j0PWdCA5S51O"

@@ -4,7 +4,7 @@
 
 > Mooi van eigen bodem, nationaal in elke taal.
 
-68 songs - 3 hr 35 min
+73 songs - 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Hier bij mij](https://open.spotify.com/track/4CwkzrnBCZjuaqROr29LUw) | [Abel](https://open.spotify.com/artist/4jZgb7ktwlvOA56nlmbaFH) | [Geen Water Bij De Wijn](https://open.spotify.com/album/2plkKddAxmd2uGduoVyrZm) | 3:33 | 2024-08-29 |  |
 | [Horizon \(ft\. Julia Zahra\)](https://open.spotify.com/track/1BmKQoSJjf617wC1zbQ8WR) | [ANDRO](https://open.spotify.com/artist/2VOCs6lYNw7KgXminnltr5), [Julia Zahra](https://open.spotify.com/artist/57QuHq7IzyUgZsgl0g5fMI) | [Horizon \(ft\. Julia Zahra\)](https://open.spotify.com/album/7rOWMke1nsdCGJgwtceL9B) | 3:11 | 2024-07-22 |  |
 | [Huil maar niet om mij](https://open.spotify.com/track/7mC3mnQrv7Q7qXpIYzlQIa) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Huil Maar Niet Om Mij](https://open.spotify.com/album/17myds3ynEuOM29OFacYpD) | 2:27 | 2024-06-24 |  |
-| [Hurt Me](https://open.spotify.com/track/2rkf3F19As1KUykfS45TQv) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Hurt Me](https://open.spotify.com/album/36Wlc2fxWoilGfYwd7SaC4) | 3:05 | 2024-06-24 |  |
+| [Hurt Me](https://open.spotify.com/track/2rkf3F19As1KUykfS45TQv) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Hurt Me](https://open.spotify.com/album/36Wlc2fxWoilGfYwd7SaC4) | 3:05 | 2024-06-24 | 2024-09-13 |
 | [I Will Go There](https://open.spotify.com/track/4k7HwknBn8gSBRgqgIMvba) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [I Will Go There](https://open.spotify.com/album/6rmoINRdaMiAsPKrAeJMlt) | 3:25 | 2024-06-24 | 2024-08-30 |
 | [I Will Go There \(feat\. remme\)](https://open.spotify.com/track/71V025BxBhBKJNHAky0ZfM) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX), [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [I Will Go There \(feat\. remme\)](https://open.spotify.com/album/5cs3LTA5B9mHiTzolOdH55) | 3:20 | 2024-08-29 |  |
 | [I Won't Back Down](https://open.spotify.com/track/57Pi3DaG8nmHuFpLhwXRmF) | [Lisa Ploeger](https://open.spotify.com/artist/5wF8hWTn52B6QYhCXVJiuh) | [I Won't Back Down](https://open.spotify.com/album/6pmkV4SFjBSc01k7c8R3Pu) | 3:19 | 2024-06-24 | 2024-08-30 |
@@ -38,7 +38,9 @@
 | [Kwattaweg](https://open.spotify.com/track/3m40Nh93jW2AVB85kwN4I5) | [ANDRO](https://open.spotify.com/artist/2VOCs6lYNw7KgXminnltr5) | [We Zijn Hier](https://open.spotify.com/album/1rsOJSZNmEwcqoHIBcjmMg) | 2:39 | 2024-09-05 |  |
 | [Let You Go](https://open.spotify.com/track/63t1r4qxpc8WmM3sGW03cM) | [Martin Jasper](https://open.spotify.com/artist/7vcAIkOgnOD1L8aXk7YheZ) | [Let You Go](https://open.spotify.com/album/5f0BeyC7OKitwUPFjZl6IW) | 2:46 | 2024-06-24 | 2024-09-06 |
 | [Little darling](https://open.spotify.com/track/091YZFlY55pe02VFuqmutv) | [Laura van Kaam](https://open.spotify.com/artist/4ywz66EHjNFUszU6lXLsXe) | [Little darling](https://open.spotify.com/album/4mh4TeD0yoM0aKIMiBpA4j) | 3:13 | 2024-06-24 | 2024-07-23 |
+| [Los Van Angst](https://open.spotify.com/track/3HYnt1qY5NWg6SIOxlw0gJ) | [Ben Forte](https://open.spotify.com/artist/0W1IlzwhrQJcdagiDZhrz7) | [Los Van Angst](https://open.spotify.com/album/5PizQPjxqmmDVn2m8w6Il0) | 2:48 | 2024-09-12 |  |
 | [Louder](https://open.spotify.com/track/1F3tkkKZrYFxQJ9d8EKePh) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Louder](https://open.spotify.com/album/5sIGXhcUk3h0RyJVw0Mag3) | 3:49 | 2024-06-24 | 2024-08-30 |
+| [Love Song](https://open.spotify.com/track/3caukRr0UZRCvg2QCvbGeH) | [Boaz](https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd) | [Love Song](https://open.spotify.com/album/214tK7D0YvGWW2p7yJgtbP) | 3:04 | 2024-09-12 |  |
 | [Maar Niet Met Jou Erbij](https://open.spotify.com/track/1mYqzZR5sfv0zZhgtyUsna) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Maar Niet Met Jou Erbij](https://open.spotify.com/album/6KGMZMTMQvbFgaqZJDu1ey) | 3:01 | 2024-06-24 |  |
 | [Middenweg](https://open.spotify.com/track/3b9LcqTuGaPtQigdbyuFZE) | [Reyck](https://open.spotify.com/artist/36t2vlP5OiRO1G7EgxgNvU) | [Los](https://open.spotify.com/album/6bgCKabxQJRfIMpQw0oi0f) | 3:03 | 2024-07-25 |  |
 | [Moonlight Drive](https://open.spotify.com/track/5P7QfIkTLyWIF3VYVOHzYi) | [Josha Daniel](https://open.spotify.com/artist/3U0iFfS4kjiAkS1oCUOmuN) | [Moonlight Drive](https://open.spotify.com/album/5S5GtHB5s6tUAnbG1T44we) | 3:18 | 2024-06-24 | 2024-07-23 |
@@ -50,16 +52,17 @@
 | [Queen of my Castle](https://open.spotify.com/track/5xvL8aAtHOj0R7Fpz4eAVS) | [MELL VF](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Queen of my Castle](https://open.spotify.com/album/4RRplsBhzIVuwUeFcQnDJr) | 3:12 | 2024-06-24 |  |
 | [Regenhart](https://open.spotify.com/track/2MIpqsKokjAnNbJKgdKC0e) | [Abel](https://open.spotify.com/artist/4jZgb7ktwlvOA56nlmbaFH) | [Regenhart](https://open.spotify.com/album/1IPe5pTccIVX5WBxFYbm1C) | 3:29 | 2024-06-24 |  |
 | [Rock ‘n Roll in Nederland](https://open.spotify.com/track/5M8nfeMKcqbl6oROJqxDgE) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Thomas Acda](https://open.spotify.com/artist/50o63K3IrY47g46E8R071Y) | [Achtentwintig](https://open.spotify.com/album/0f7y8rn9RXOANKpNK3GW6B) | 3:03 | 2024-06-24 | 2024-07-27 |
-| [Samen](https://open.spotify.com/track/1pwrVAT0Ks9gGCRwrdXaf6) | [IOS](https://open.spotify.com/artist/1xzcQymo5Ejd1PU8XYD0iv) | [Samen](https://open.spotify.com/album/7drCw1YJM30pRxnPrkSFja) | 3:20 | 2024-06-24 |  |
+| [Samen](https://open.spotify.com/track/1pwrVAT0Ks9gGCRwrdXaf6) | [IOS](https://open.spotify.com/artist/1xzcQymo5Ejd1PU8XYD0iv) | [Samen](https://open.spotify.com/album/7drCw1YJM30pRxnPrkSFja) | 3:20 | 2024-06-24 | 2024-09-13 |
 | [Samen Één](https://open.spotify.com/track/00WpTUpQKUgqhGSm1RNd8V) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Samen Één](https://open.spotify.com/album/7jn0vf2mnFQADgZIMcqdSc) | 2:10 | 2024-06-24 |  |
-| [Say Goodbye](https://open.spotify.com/track/58h6HSRIKJeArYdGNUhKQJ) | [Niels Geusebroek](https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l) | [Say Goodbye](https://open.spotify.com/album/5oQqzWjvn2XvuF2NE0C7PV) | 3:04 | 2024-06-24 |  |
+| [Say Goodbye](https://open.spotify.com/track/58h6HSRIKJeArYdGNUhKQJ) | [Niels Geusebroek](https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l) | [Say Goodbye](https://open.spotify.com/album/5oQqzWjvn2XvuF2NE0C7PV) | 3:04 | 2024-06-24 | 2024-09-13 |
 | [Schijnbaar Niet Waar](https://open.spotify.com/track/1WITbzl4lGLokvRBIqKWVj) | [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Schijnbaar Niet Waar](https://open.spotify.com/album/18SrsVBd4z2Y7duRaDdvVS) | 2:31 | 2024-06-24 |  |
 | [Slaapwandelaar](https://open.spotify.com/track/47TXIa09GpZU1zSu9xc3p2) | [Bart Voncken](https://open.spotify.com/artist/313iy3CDtL0MAqtm6ObDTa), [Fluitsma & van Tijn](https://open.spotify.com/artist/6Rt7Udi1gfj5d1jkebhmKg) | [Slaapwandelaar](https://open.spotify.com/album/5ynpuj3Kb6zGCJSJS4NO3R) | 3:16 | 2024-06-24 |  |
+| [Slapeloos](https://open.spotify.com/track/2RrgTyCnqDo2QNsRiJoy28) | [IOS](https://open.spotify.com/artist/1xzcQymo5Ejd1PU8XYD0iv) | [Slapeloos](https://open.spotify.com/album/3rorul1v1uEObKiX6Zn3i4) | 3:09 | 2024-09-12 |  |
 | [Somebody New](https://open.spotify.com/track/1u4RBJArUMeEXHic7VqWjv) | [Jana Mila](https://open.spotify.com/artist/1roi4E4kE3vXaKxQ2n5aKB) | [Somebody New](https://open.spotify.com/album/1esmSMTOShTTI0OqG3rsnO) | 2:52 | 2024-06-24 |  |
 | [Something](https://open.spotify.com/track/37AQpBD3OF7KqbPf8ljGCI) | [Tim Dawn](https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe) | [Something](https://open.spotify.com/album/6OGsIPlUpRU3qrujAMpoes) | 3:22 | 2024-08-29 |  |
-| [Speed Of Light](https://open.spotify.com/track/42bzmBc47mF1HTOi8baDb5) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Speed Of Light](https://open.spotify.com/album/3KJ36A4THBFS2RDTxSjSar) | 3:07 | 2024-06-24 |  |
+| [Speed Of Light](https://open.spotify.com/track/42bzmBc47mF1HTOi8baDb5) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Speed Of Light](https://open.spotify.com/album/3KJ36A4THBFS2RDTxSjSar) | 3:07 | 2024-06-24 | 2024-09-13 |
 | [Still Love](https://open.spotify.com/track/3VN2hCxJRJEVjWwAMd10sL) | [Jack Jarryd](https://open.spotify.com/artist/5Dam89i2XdJgnz3Gk9Achk) | [Still Love](https://open.spotify.com/album/7i076sfhcW2scS62C8bHQQ) | 2:57 | 2024-06-24 |  |
-| [Stukje Van Mij](https://open.spotify.com/track/3k9LdosLHcyy4kE5J6pV2p) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Stukje Van Mij](https://open.spotify.com/album/0WuTTSyph8iJopqrYySkOL) | 3:25 | 2024-06-24 |  |
+| [Stukje Van Mij](https://open.spotify.com/track/3k9LdosLHcyy4kE5J6pV2p) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Stukje Van Mij](https://open.spotify.com/album/0WuTTSyph8iJopqrYySkOL) | 3:25 | 2024-06-24 | 2024-09-13 |
 | [Tainted](https://open.spotify.com/track/1KY71U9JNydW5ZxvUgemc2) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Tainted](https://open.spotify.com/album/2xacv88eGjNUhLTFj4C8w5) | 3:01 | 2024-06-24 | 2024-07-23 |
 | [Tankstation](https://open.spotify.com/track/3N8l96fR93JyiKJhc8qxFY) | [Hiigo](https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX) | [Tankstation](https://open.spotify.com/album/4eu8csS8j5wIwZuTVIRes3) | 3:22 | 2024-06-24 |  |
 | [The Ones We Seek](https://open.spotify.com/track/63H0KKB9i7QO0bchVPffRm) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [The Ones We Seek](https://open.spotify.com/album/2Af8iQCdiVQUjW7RTy15Kc) | 4:34 | 2024-08-29 |  |
@@ -75,6 +78,8 @@
 | [YOUNGER ME](https://open.spotify.com/track/3zltYP3YIcvM1LkMT1Mitr) | [Inge Lamboo](https://open.spotify.com/artist/6XpM8vftkvjA114GyLB8hz) | [YOUNGER ME](https://open.spotify.com/album/6ikyXmmKQY2xBz6EXCxvlX) | 3:06 | 2024-07-11 | 2024-09-06 |
 | [Zeg Niks](https://open.spotify.com/track/5dBGZaXPyxlAZoGqbshZLb) | [Glennis Grace](https://open.spotify.com/artist/3J85lWF7GZWWWLyBPMMX7h) | [Zeg Niks](https://open.spotify.com/album/7tI2nI10T5KYcE11Nt76n3) | 3:13 | 2024-06-24 |  |
 | [Zie Ik Jou Weer Morgen?](https://open.spotify.com/track/07iAKwRXb0yRWPK0cqasFZ) | [Re\-Play](https://open.spotify.com/artist/3P6TDldsIBKCowucdJfFZd), [Ruth Jacott](https://open.spotify.com/artist/0NM27i2hSW1lbc7rYa5D6u) | [Zie Ik Jou Weer Morgen?](https://open.spotify.com/album/0tUcPCqXyt90DHnHWMtaMo) | 3:08 | 2024-06-27 |  |
+| [zij aan zij](https://open.spotify.com/track/7j3gracBYr3MPEg3VLJ306) | [Jooz](https://open.spotify.com/artist/7hUtuXiN0XSFOjQO5OFEvY) | [zij aan zij](https://open.spotify.com/album/3Mjo5eqIC0FEcjlnTtcQc2) | 2:54 | 2024-09-12 |  |
+| [Zin In Het Leven](https://open.spotify.com/track/5dyLNO5s3BKjKYmHAj75VK) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [Zin In Het Leven](https://open.spotify.com/album/4oLXbJ12gAFe9pHFliC2ON) | 3:25 | 2024-09-12 |  |
 | [Zomaar Zomer](https://open.spotify.com/track/6y5URC59KrtzlFxWxhaq5y) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [Zomaar Zomer](https://open.spotify.com/album/07sVqmOJJWQfQHdaushDSO) | 2:18 | 2024-07-22 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

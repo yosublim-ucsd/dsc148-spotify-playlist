@@ -4,7 +4,7 @@
 
 > Fresh country music by independent artists every Wednesday\. Cover: Brian Fuller, Artwork: Fanélie Muselier
 
-2,637 songs - 5 day 22 hr 50 min
+2,638 songs - 5 day 22 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2397,6 +2397,7 @@
 | [Until You Leave](https://open.spotify.com/track/50qHLMparEffBaOLHdNazB) | [Easton Chambers](https://open.spotify.com/artist/026qzzmfC7pDGdnuZgYz8p) | [Until You Leave](https://open.spotify.com/album/2MSmtYeNRam6wQWjnabDET) | 3:36 | 2022-09-21 | 2022-12-01 |
 | [Up for Anything](https://open.spotify.com/track/4NRNJjWZQgWe4k22zpLfuq) | [Landon Parker](https://open.spotify.com/artist/521JXQZX3YA67xdLe42Byy) | [Up for Anything](https://open.spotify.com/album/7AJ3hmhd1cpn4ra44tc2Tf) | 2:54 | 2022-06-29 | 2023-01-12 |
 | [Up in Smoke](https://open.spotify.com/track/2efwnQ5fmjeXmEttRtDfiL) | [Jay Webb](https://open.spotify.com/artist/74a1KhMBkw4iweAtpbjuHk) | [Up in Smoke](https://open.spotify.com/album/7MpSliGMp0LD1bV1XAVcgd) | 2:43 | 2023-02-15 | 2023-03-23 |
+| [Upbringing](https://open.spotify.com/track/7opD9JriMc3ETgAH4InvrJ) | [Noah Thompson](https://open.spotify.com/artist/38dDBc8guRXP1fjvothwyi) | [Upbringing](https://open.spotify.com/album/3kCaVWSYGuEmReU6nDsxtW) | 3:06 | 2024-09-13 |  |
 | [Upx2](https://open.spotify.com/track/54I6A0jhRYW3tzxluW6ChC) | [Amanda Cooksey](https://open.spotify.com/artist/76eXSQJKFO0ugo8CiftJXJ) | [Him](https://open.spotify.com/album/6aPNDVZoiGIRzGoU8YGDwv) | 3:25 | 2022-01-12 | 2022-02-03 |
 | [Us](https://open.spotify.com/track/4iQL5pIhMjKAS6feGjaw5t) | [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [Us](https://open.spotify.com/album/1XixtqL2k7mcV8slS7FpAb) | 3:03 | 2021-12-01 | 2022-01-13 |
 | [Used](https://open.spotify.com/track/60bwaSxCxlCQAv88WCH2eE) | [Leah Blevins](https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW) | [Used](https://open.spotify.com/album/3QWWV0BmDtzR6QcPJlsEej) | 3:31 | 2023-11-15 | 2023-11-30 |

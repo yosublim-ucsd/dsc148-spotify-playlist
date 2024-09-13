@@ -1,6 +1,6 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 160706,
+  "num_followers": 160723,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
@@ -167,6 +167,22 @@
     {
       "added_at": "2024-09-02 01:25:58",
       "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/7hgekZLPc8OHgk8kAaPkel"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "duration_ms": 207546,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/4qgMPzf9QOETWQFUcFkHD4"
+    },
+    {
+      "added_at": "2024-09-02 01:25:58",
+      "album": {
         "name": "Seize The Day",
         "url": "https://open.spotify.com/album/56uC55DMbvL9l8dQAoszp5"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 161512,
       "name": "Seize The Day",
       "url": "https://open.spotify.com/track/04rz2UaJqbK4aUs7TSk7Sw"
-    },
-    {
-      "added_at": "2024-09-02 01:25:58",
-      "album": {
-        "name": "Love Me",
-        "url": "https://open.spotify.com/album/7hgekZLPc8OHgk8kAaPkel"
-      },
-      "artists": [
-        {
-          "name": "RealestK",
-          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
-        }
-      ],
-      "duration_ms": 207546,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/4qgMPzf9QOETWQFUcFkHD4"
     },
     {
       "added_at": "2024-09-02 01:25:58",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-09-02 01:25:58",
       "album": {
-        "name": "Treat Me",
-        "url": "https://open.spotify.com/album/07OIugKUfGzqhgZxJ4v7qP"
-      },
-      "artists": [
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        }
-      ],
-      "duration_ms": 149865,
-      "name": "Treat Me",
-      "url": "https://open.spotify.com/track/2ZCu2xskiEBCV3y0eu0zJG"
-    },
-    {
-      "added_at": "2024-09-02 01:25:58",
-      "album": {
         "name": "Let Me Go",
         "url": "https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 216524,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ"
+    },
+    {
+      "added_at": "2024-09-02 01:25:58",
+      "album": {
+        "name": "Treat Me",
+        "url": "https://open.spotify.com/album/07OIugKUfGzqhgZxJ4v7qP"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "duration_ms": 149865,
+      "name": "Treat Me",
+      "url": "https://open.spotify.com/track/2ZCu2xskiEBCV3y0eu0zJG"
     },
     {
       "added_at": "2024-09-02 01:25:58",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-09-02 01:25:58",
       "album": {
-        "name": "Amniotic (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0t4Ik0UYACGKrHBQ74S3U7"
-      },
-      "artists": [
-        {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
-        }
-      ],
-      "duration_ms": 274138,
-      "name": "Outgrown",
-      "url": "https://open.spotify.com/track/4FhHveCp4LekuCDGPJxAhp"
-    },
-    {
-      "added_at": "2024-09-02 01:25:58",
-      "album": {
         "name": "Tha Carter V",
         "url": "https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 216961,
       "name": "What About Me (feat. Sosamann)",
       "url": "https://open.spotify.com/track/3JX0dOCIAiaR8MP3ryXWuM"
+    },
+    {
+      "added_at": "2024-09-02 01:25:58",
+      "album": {
+        "name": "Amniotic (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0t4Ik0UYACGKrHBQ74S3U7"
+      },
+      "artists": [
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        }
+      ],
+      "duration_ms": 274138,
+      "name": "Outgrown",
+      "url": "https://open.spotify.com/track/4FhHveCp4LekuCDGPJxAhp"
     },
     {
       "added_at": "2024-09-02 01:25:58",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2024-09-02 01:25:58",
       "album": {
-        "name": "Light (with BENEE)",
-        "url": "https://open.spotify.com/album/5BwsHPXhIgCCpQsa52CBPR"
-      },
-      "artists": [
-        {
-          "name": "Finn Falcon",
-          "url": "https://open.spotify.com/artist/65pTLeNkyT2ob7chnwRzcJ"
-        },
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Light (with BENEE)",
-      "url": "https://open.spotify.com/track/65ZaStHQImXcy15M9pGFwL"
-    },
-    {
-      "added_at": "2024-09-02 01:25:58",
-      "album": {
         "name": "Queen Space (with Summer Walker)",
         "url": "https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 230841,
       "name": "Queen Space (with Summer Walker)",
       "url": "https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C"
+    },
+    {
+      "added_at": "2024-09-02 01:25:58",
+      "album": {
+        "name": "Light (with BENEE)",
+        "url": "https://open.spotify.com/album/5BwsHPXhIgCCpQsa52CBPR"
+      },
+      "artists": [
+        {
+          "name": "Finn Falcon",
+          "url": "https://open.spotify.com/artist/65pTLeNkyT2ob7chnwRzcJ"
+        },
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Light (with BENEE)",
+      "url": "https://open.spotify.com/track/65ZaStHQImXcy15M9pGFwL"
     },
     {
       "added_at": "2024-09-02 01:25:58",
@@ -1363,38 +1363,6 @@
     {
       "added_at": "2024-09-02 01:25:58",
       "album": {
-        "name": "Our Time is Blue",
-        "url": "https://open.spotify.com/album/6y85v8s3kgIelDBcYroJgE"
-      },
-      "artists": [
-        {
-          "name": "KATIE",
-          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
-        }
-      ],
-      "duration_ms": 218266,
-      "name": "Our Time",
-      "url": "https://open.spotify.com/track/4ZcnCqkX0wn3uDY0sGUteG"
-    },
-    {
-      "added_at": "2024-09-02 01:25:58",
-      "album": {
-        "name": "Drowning",
-        "url": "https://open.spotify.com/album/0Go0XvWfgTRs2I1ytu7TPy"
-      },
-      "artists": [
-        {
-          "name": "Mario",
-          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
-        }
-      ],
-      "duration_ms": 218627,
-      "name": "Drowning",
-      "url": "https://open.spotify.com/track/28YJsoMPLIiUxtZqxVigbU"
-    },
-    {
-      "added_at": "2024-09-02 01:25:58",
-      "album": {
         "name": "Cheap Queen",
         "url": "https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG"
       },
@@ -1407,6 +1375,22 @@
       "duration_ms": 203946,
       "name": "If You Think It's Love",
       "url": "https://open.spotify.com/track/3iiL6merNpFNX1bny9sfvM"
+    },
+    {
+      "added_at": "2024-09-02 01:25:58",
+      "album": {
+        "name": "Our Time is Blue",
+        "url": "https://open.spotify.com/album/6y85v8s3kgIelDBcYroJgE"
+      },
+      "artists": [
+        {
+          "name": "KATIE",
+          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
+        }
+      ],
+      "duration_ms": 218266,
+      "name": "Our Time",
+      "url": "https://open.spotify.com/track/4ZcnCqkX0wn3uDY0sGUteG"
     },
     {
       "added_at": "2024-09-02 01:25:58",
@@ -1447,6 +1431,22 @@
     {
       "added_at": "2024-09-02 01:25:58",
       "album": {
+        "name": "Drowning",
+        "url": "https://open.spotify.com/album/0Go0XvWfgTRs2I1ytu7TPy"
+      },
+      "artists": [
+        {
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+        }
+      ],
+      "duration_ms": 218627,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/28YJsoMPLIiUxtZqxVigbU"
+    },
+    {
+      "added_at": "2024-09-02 01:25:58",
+      "album": {
         "name": "1995",
         "url": "https://open.spotify.com/album/4Quvgrx92Y7qwsnLj2ht7l"
       },
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-09-02 01:25:58",
       "album": {
-        "name": "WINE",
-        "url": "https://open.spotify.com/album/10bEr4txHrSj4oi8KzOUSy"
-      },
-      "artists": [
-        {
-          "name": "via.",
-          "url": "https://open.spotify.com/artist/57xDI3VtF6ua02FfFQpPb5"
-        }
-      ],
-      "duration_ms": 176750,
-      "name": "WINE",
-      "url": "https://open.spotify.com/track/4HljKZwdFkWYISiyfzdbQR"
-    },
-    {
-      "added_at": "2024-09-02 01:25:58",
-      "album": {
         "name": "Basement Grooves",
         "url": "https://open.spotify.com/album/17oUkIpNKzZMJiKckkUIf6"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 169142,
       "name": "Sweet Love",
       "url": "https://open.spotify.com/track/0lZwumiLo3yINe5vc3Y79M"
+    },
+    {
+      "added_at": "2024-09-02 01:25:58",
+      "album": {
+        "name": "WINE",
+        "url": "https://open.spotify.com/album/10bEr4txHrSj4oi8KzOUSy"
+      },
+      "artists": [
+        {
+          "name": "via.",
+          "url": "https://open.spotify.com/artist/57xDI3VtF6ua02FfFQpPb5"
+        }
+      ],
+      "duration_ms": 176750,
+      "name": "WINE",
+      "url": "https://open.spotify.com/track/4HljKZwdFkWYISiyfzdbQR"
     },
     {
       "added_at": "2024-09-02 01:25:58",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2024-09-02 01:25:58",
       "album": {
-        "name": "seek",
-        "url": "https://open.spotify.com/album/64qXCWlGOwWxciqEPr3M2a"
-      },
-      "artists": [
-        {
-          "name": "53 Thieves",
-          "url": "https://open.spotify.com/artist/4IwM0dNvhWqqtsTyulxe2K"
-        }
-      ],
-      "duration_ms": 170496,
-      "name": "seek",
-      "url": "https://open.spotify.com/track/493vav5k6NZa9Alre82l7z"
-    },
-    {
-      "added_at": "2024-09-02 01:25:58",
-      "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/4s341L6xFYG4imA1aoCh19"
       },
@@ -1667,18 +1651,18 @@
     {
       "added_at": "2024-09-02 01:25:58",
       "album": {
-        "name": "Temporary",
-        "url": "https://open.spotify.com/album/7yrx1Kt6FdZXw7CBuj24TF"
+        "name": "seek",
+        "url": "https://open.spotify.com/album/64qXCWlGOwWxciqEPr3M2a"
       },
       "artists": [
         {
-          "name": "Tim Schaufert",
-          "url": "https://open.spotify.com/artist/3PThWtcE0CEi5IUmfgTvrC"
+          "name": "53 Thieves",
+          "url": "https://open.spotify.com/artist/4IwM0dNvhWqqtsTyulxe2K"
         }
       ],
-      "duration_ms": 124811,
-      "name": "Temporary",
-      "url": "https://open.spotify.com/track/2cRahCZ2Zg5J8AM49CsEv6"
+      "duration_ms": 170496,
+      "name": "seek",
+      "url": "https://open.spotify.com/track/493vav5k6NZa9Alre82l7z"
     },
     {
       "added_at": "2024-09-02 01:25:58",
@@ -1695,6 +1679,22 @@
       "duration_ms": 244778,
       "name": "Falling Over You",
       "url": "https://open.spotify.com/track/5r7883oy65HNZZNvmfkLhn"
+    },
+    {
+      "added_at": "2024-09-02 01:25:58",
+      "album": {
+        "name": "Temporary",
+        "url": "https://open.spotify.com/album/7yrx1Kt6FdZXw7CBuj24TF"
+      },
+      "artists": [
+        {
+          "name": "Tim Schaufert",
+          "url": "https://open.spotify.com/artist/3PThWtcE0CEi5IUmfgTvrC"
+        }
+      ],
+      "duration_ms": 124811,
+      "name": "Temporary",
+      "url": "https://open.spotify.com/track/2cRahCZ2Zg5J8AM49CsEv6"
     },
     {
       "added_at": "2024-09-02 01:25:58",

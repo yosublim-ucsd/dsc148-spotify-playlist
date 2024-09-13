@@ -855,6 +855,32 @@
     },
     {
       "album": {
+        "name": "BADO",
+        "url": "https://open.spotify.com/album/1fDVNJlFOylIlxzbllqADM"
+      },
+      "artists": [
+        {
+          "name": "Shimza",
+          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
+        },
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194395,
+      "name": "BADO",
+      "url": "https://open.spotify.com/track/54ThjvbWJnmRSKI7Jp82cA"
+    },
+    {
+      "album": {
         "name": "Bakone",
         "url": "https://open.spotify.com/album/7KKssScoi6eEnGUYbgiG9l"
       },
@@ -3160,6 +3186,28 @@
       "duration_ms": 381000,
       "name": "Figo",
       "url": "https://open.spotify.com/track/6UjeI3QRwqOwSUQXkTnsdk"
+    },
+    {
+      "album": {
+        "name": "Finally",
+        "url": "https://open.spotify.com/album/5UdlVNeKvUDoaNmy9fhhft"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215583,
+      "name": "Finally",
+      "url": "https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg"
     },
     {
       "album": {
@@ -11054,6 +11102,32 @@
       "duration_ms": 270442,
       "name": "Take It Back - Kasango Remix",
       "url": "https://open.spotify.com/track/6PS4FKjcGqMIyQ81A6235u"
+    },
+    {
+      "album": {
+        "name": "Tanzania (Rampa Remix)",
+        "url": "https://open.spotify.com/album/17X1yha8lkmFmVBuBTIoUP"
+      },
+      "artists": [
+        {
+          "name": "Uncle Waffles",
+          "url": "https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ"
+        },
+        {
+          "name": "Rampa",
+          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235699,
+      "name": "Tanzania - Rampa Remix",
+      "url": "https://open.spotify.com/track/0S4v8Xpbv2qCeYzhVnhULh"
     },
     {
       "album": {

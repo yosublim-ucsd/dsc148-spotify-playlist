@@ -1,6 +1,6 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 17491,
+  "num_followers": 17490,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740, (K-Pop Sad Songs)",
   "owner": {
     "name": "Spotify",
@@ -243,6 +243,22 @@
     {
       "added_at": "2024-09-02 03:43:35",
       "album": {
+        "name": "Despite it all",
+        "url": "https://open.spotify.com/album/0AybLuodK9yOikxRilqpBB"
+      },
+      "artists": [
+        {
+          "name": "Mingginyu",
+          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
+        }
+      ],
+      "duration_ms": 229210,
+      "name": "Despite it all",
+      "url": "https://open.spotify.com/track/7LLnHEOcFGPd0ACRIE6CtP"
+    },
+    {
+      "added_at": "2024-09-02 03:43:35",
+      "album": {
         "name": "one summer",
         "url": "https://open.spotify.com/album/1dSFPUYpKZiSdBb4jonPPK"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 239692,
       "name": "one summer",
       "url": "https://open.spotify.com/track/7EAkXA5TvfYOYE9EzE3mtc"
-    },
-    {
-      "added_at": "2024-09-02 03:43:35",
-      "album": {
-        "name": "Despite it all",
-        "url": "https://open.spotify.com/album/0AybLuodK9yOikxRilqpBB"
-      },
-      "artists": [
-        {
-          "name": "Mingginyu",
-          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
-        }
-      ],
-      "duration_ms": 229210,
-      "name": "Despite it all",
-      "url": "https://open.spotify.com/track/7LLnHEOcFGPd0ACRIE6CtP"
     },
     {
       "added_at": "2024-09-02 03:43:35",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-09-02 03:43:35",
       "album": {
-        "name": "Will spring come?",
-        "url": "https://open.spotify.com/album/42SJRbZgv7qyZsa2uhxa83"
-      },
-      "artists": [
-        {
-          "name": "Def.",
-          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
-        }
-      ],
-      "duration_ms": 198698,
-      "name": "Will spring come?",
-      "url": "https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ"
-    },
-    {
-      "added_at": "2024-09-02 03:43:35",
-      "album": {
         "name": "Undo",
         "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 191191,
       "name": "Distance (Feat. I.M of MONSTA X)",
       "url": "https://open.spotify.com/track/2bfagt2SWQiC0IHhZgMSS7"
+    },
+    {
+      "added_at": "2024-09-02 03:43:35",
+      "album": {
+        "name": "Will spring come?",
+        "url": "https://open.spotify.com/album/42SJRbZgv7qyZsa2uhxa83"
+      },
+      "artists": [
+        {
+          "name": "Def.",
+          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
+        }
+      ],
+      "duration_ms": 198698,
+      "name": "Will spring come?",
+      "url": "https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ"
     },
     {
       "added_at": "2024-09-02 03:43:35",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-09-02 03:43:35",
       "album": {
-        "name": "Thank you for Goodbye",
-        "url": "https://open.spotify.com/album/4gbJXOF7sByWg5P6VrpoN3"
-      },
-      "artists": [
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
-        }
-      ],
-      "duration_ms": 253985,
-      "name": "Thank you for Goodbye",
-      "url": "https://open.spotify.com/track/6Bg4lDnamQKDVbiV7M53z1"
-    },
-    {
-      "added_at": "2024-09-02 03:43:35",
-      "album": {
         "name": "True Song",
         "url": "https://open.spotify.com/album/6u0ZVFTvWEWfgvV3LySMgJ"
       },
@@ -727,18 +711,18 @@
     {
       "added_at": "2024-09-02 03:43:35",
       "album": {
-        "name": "Be My Ocean",
-        "url": "https://open.spotify.com/album/2Vhce1mkaprg4INwzvIqjj"
+        "name": "Thank you for Goodbye",
+        "url": "https://open.spotify.com/album/4gbJXOF7sByWg5P6VrpoN3"
       },
       "artists": [
         {
-          "name": "IOHBOY",
-          "url": "https://open.spotify.com/artist/40lwyp2MgiYdyw674W1t1e"
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
         }
       ],
-      "duration_ms": 167933,
-      "name": "Be My Ocean",
-      "url": "https://open.spotify.com/track/4560QJxyBz4vegD6AA8b10"
+      "duration_ms": 253985,
+      "name": "Thank you for Goodbye",
+      "url": "https://open.spotify.com/track/6Bg4lDnamQKDVbiV7M53z1"
     },
     {
       "added_at": "2024-09-02 03:43:35",
@@ -763,18 +747,18 @@
     {
       "added_at": "2024-09-02 03:43:35",
       "album": {
-        "name": "In your heart",
-        "url": "https://open.spotify.com/album/3BKTYYwjrDoTP3iruSLX0P"
+        "name": "Be My Ocean",
+        "url": "https://open.spotify.com/album/2Vhce1mkaprg4INwzvIqjj"
       },
       "artists": [
         {
-          "name": "Lim Hyunsik",
-          "url": "https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po"
+          "name": "IOHBOY",
+          "url": "https://open.spotify.com/artist/40lwyp2MgiYdyw674W1t1e"
         }
       ],
-      "duration_ms": 221720,
-      "name": "In your heart",
-      "url": "https://open.spotify.com/track/7lgrRhx7ExnO4WBofwYeTR"
+      "duration_ms": 167933,
+      "name": "Be My Ocean",
+      "url": "https://open.spotify.com/track/4560QJxyBz4vegD6AA8b10"
     },
     {
       "added_at": "2024-09-02 03:43:35",
@@ -791,6 +775,22 @@
       "duration_ms": 176111,
       "name": "Why Would I",
       "url": "https://open.spotify.com/track/3eM97YUH843ud44wHHQtjB"
+    },
+    {
+      "added_at": "2024-09-02 03:43:35",
+      "album": {
+        "name": "In your heart",
+        "url": "https://open.spotify.com/album/3BKTYYwjrDoTP3iruSLX0P"
+      },
+      "artists": [
+        {
+          "name": "Lim Hyunsik",
+          "url": "https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po"
+        }
+      ],
+      "duration_ms": 221720,
+      "name": "In your heart",
+      "url": "https://open.spotify.com/track/7lgrRhx7ExnO4WBofwYeTR"
     },
     {
       "added_at": "2024-09-02 03:43:35",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-09-02 03:43:35",
       "album": {
-        "name": "Why break up? (My love X Jeon Sang Keun)",
-        "url": "https://open.spotify.com/album/3fKPvx8jP5KFx7nTatm88K"
-      },
-      "artists": [
-        {
-          "name": "Jeon Sang Keun",
-          "url": "https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd"
-        }
-      ],
-      "duration_ms": 271280,
-      "name": "Why break up? (My love X Jeon Sang Keun)",
-      "url": "https://open.spotify.com/track/668e9vwoz1MhnFai3fNvHF"
-    },
-    {
-      "added_at": "2024-09-02 03:43:35",
-      "album": {
         "name": "Dear.",
         "url": "https://open.spotify.com/album/6VAiBqirKlthgxPQUgP7Tb"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 281493,
       "name": "Your name",
       "url": "https://open.spotify.com/track/5dJg9eVbselFdPqF1MJBwl"
+    },
+    {
+      "added_at": "2024-09-02 03:43:35",
+      "album": {
+        "name": "Why break up? (My love X Jeon Sang Keun)",
+        "url": "https://open.spotify.com/album/3fKPvx8jP5KFx7nTatm88K"
+      },
+      "artists": [
+        {
+          "name": "Jeon Sang Keun",
+          "url": "https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd"
+        }
+      ],
+      "duration_ms": 271280,
+      "name": "Why break up? (My love X Jeon Sang Keun)",
+      "url": "https://open.spotify.com/track/668e9vwoz1MhnFai3fNvHF"
     }
   ],
   "unique_name": "\ub098\uc758 \uc6b0\uc6b8\uc740, (K-Pop Sad Songs)",

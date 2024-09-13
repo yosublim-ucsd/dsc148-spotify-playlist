@@ -2,13 +2,13 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> Gambi x Hamza au top de la première playlist de rap français.
+> Tiakola au top de la première playlist de rap français.
 
-272 songs - 13 hr 57 min
+273 songs - 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1 2 3 4](https://open.spotify.com/track/6feTvFEMNj1ytgfNe6kA88) | [Zokush](https://open.spotify.com/artist/61O1t9W4rYDRcGF9DJUTJw), [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [1 2 3 4](https://open.spotify.com/album/3KnZAkAduQuv5KhcjjxuDJ) | 3:00 | 2023-10-12 |  |
+| [1 2 3 4](https://open.spotify.com/track/6feTvFEMNj1ytgfNe6kA88) | [Zokush](https://open.spotify.com/artist/61O1t9W4rYDRcGF9DJUTJw), [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [1 2 3 4](https://open.spotify.com/album/3KnZAkAduQuv5KhcjjxuDJ) | 3:00 | 2023-10-12 | 2024-09-13 |
 | [10 minutes](https://open.spotify.com/track/3KLqY7E5dOgvfZ6qppQ9u7) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [2069'](https://open.spotify.com/album/50UFRkLAkzL731ZFWym4Vq) | 2:32 | 2023-05-04 | 2023-11-10 |
 | [22](https://open.spotify.com/track/0Q9yA6p8yufj42kYFZMdJa) | [S\-Crew](https://open.spotify.com/artist/1HhXce8PpMmaKjBIWzAxWc) | [SZR 2001](https://open.spotify.com/album/2kkaNm9FAqoUVhazyqobac) | 3:21 | 2022-07-28 | 2022-11-11 |
 | [22](https://open.spotify.com/track/3iarwMZyDiCy1p4M553MWw) | [S\-Crew](https://open.spotify.com/artist/1HhXce8PpMmaKjBIWzAxWc) | [22](https://open.spotify.com/album/5xeUL1ff9wFIl6pNxOnmsk) | 3:21 | 2022-06-16 | 2022-07-29 |
@@ -170,6 +170,7 @@
 | [Magot](https://open.spotify.com/track/7qNQxRHoYd1xB1FnBhWVSm) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Magot](https://open.spotify.com/album/6wPL7UMGoIptE9eWMDwP82) | 3:16 | 2023-10-19 | 2023-10-27 |
 | [Mahmouma](https://open.spotify.com/track/6JFTOgZAgYwTxYDg9T6VDe) | [Niaks](https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W) | [Mandat de Dépôt](https://open.spotify.com/album/41HNUXTQtfRTKZdcxD3qH6) | 2:22 | 2023-10-12 | 2024-06-21 |
 | [Malpolis](https://open.spotify.com/track/4MHEsggGJNsgcK1zKD6W1D) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Malpolis](https://open.spotify.com/album/1cieqTocQSlVT8W0f8sCDh) | 3:20 | 2022-09-29 | 2023-02-24 |
+| [MANON B](https://open.spotify.com/track/2PYlRGF5Wi5sDobsLH5gLX) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Ryflo](https://open.spotify.com/artist/4acowSAiQXmdhs4DCgUQ0U), [Oskoow](https://open.spotify.com/artist/1eXXCUkwhu0MRLTamWEgXE) | [MANON B](https://open.spotify.com/album/4kaRXOJNgAAa3Odl6ojLBf) | 2:49 | 2024-09-12 |  |
 | [Manège](https://open.spotify.com/track/0JyX9jNf4mUdp1eNUVAqyR) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [Spleen](https://open.spotify.com/album/1UEcfpwy8q1TvhATQx6Ntu) | 2:29 | 2022-01-06 | 2022-02-11 |
 | [Mapessa \(feat\. Tiakola\)](https://open.spotify.com/track/4QAv7uyOwIgqOVgzczomOo) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [17%](https://open.spotify.com/album/0opPqJa8MofqpFXI7Eti8z) | 2:48 | 2022-01-06 | 2022-09-30 |
 | [Match](https://open.spotify.com/track/5atXcF9P7BvCIfCwpALYXB) | [Mister V](https://open.spotify.com/artist/5qisLjDrKoHMI9zOK2hfzs), [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Match](https://open.spotify.com/album/1DyKKChdiu0IdEZvz4yt4U) | 2:23 | 2023-02-09 | 2023-05-12 |

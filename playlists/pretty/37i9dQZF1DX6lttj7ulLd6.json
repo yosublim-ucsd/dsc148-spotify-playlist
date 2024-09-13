@@ -1,6 +1,6 @@
 {
   "description": "Instrumental Smooth Jazz for relaxing.",
-  "num_followers": 232974,
+  "num_followers": 233230,
   "original_name": "Smooth Jazz Chill",
   "owner": {
     "name": "Spotify",
@@ -115,18 +115,18 @@
     {
       "added_at": "2024-09-09 11:29:04",
       "album": {
-        "name": "Sudden Burst Of Energy",
-        "url": "https://open.spotify.com/album/7ARlMCZiY2GDXn0WUioRqj"
+        "name": "Babysoul",
+        "url": "https://open.spotify.com/album/7zQNd6E29iEUod4hAFmUMs"
       },
       "artists": [
         {
-          "name": "Earl Klugh",
-          "url": "https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY"
+          "name": "Jackiem Joyner",
+          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
         }
       ],
-      "duration_ms": 287626,
-      "name": "I'll Be Waiting",
-      "url": "https://open.spotify.com/track/3L3GwtfPpOl0Qbq3Md15fT"
+      "duration_ms": 284986,
+      "name": "Elevation",
+      "url": "https://open.spotify.com/track/6mpc681Hb9vbr4tFZJ7Jfc"
     },
     {
       "added_at": "2024-09-09 11:29:04",
@@ -163,18 +163,18 @@
     {
       "added_at": "2024-09-09 11:29:04",
       "album": {
-        "name": "Babysoul",
-        "url": "https://open.spotify.com/album/7zQNd6E29iEUod4hAFmUMs"
+        "name": "Sudden Burst Of Energy",
+        "url": "https://open.spotify.com/album/7ARlMCZiY2GDXn0WUioRqj"
       },
       "artists": [
         {
-          "name": "Jackiem Joyner",
-          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
+          "name": "Earl Klugh",
+          "url": "https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY"
         }
       ],
-      "duration_ms": 284986,
-      "name": "Elevation",
-      "url": "https://open.spotify.com/track/6mpc681Hb9vbr4tFZJ7Jfc"
+      "duration_ms": 287626,
+      "name": "I'll Be Waiting",
+      "url": "https://open.spotify.com/track/3L3GwtfPpOl0Qbq3Md15fT"
     },
     {
       "added_at": "2024-09-09 11:29:04",
@@ -311,6 +311,22 @@
     {
       "added_at": "2024-09-09 11:29:04",
       "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/5OUAQeFRS7Rg73FogwB0df"
+      },
+      "artists": [
+        {
+          "name": "Brian Culbertson",
+          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
+        }
+      ],
+      "duration_ms": 322306,
+      "name": "In The City",
+      "url": "https://open.spotify.com/track/5sjpxYrH0KVtDs6mWGbY7C"
+    },
+    {
+      "added_at": "2024-09-09 11:29:04",
+      "album": {
         "name": "Pearls",
         "url": "https://open.spotify.com/album/6KcEJQThVXSuKpBojJs0bF"
       },
@@ -331,18 +347,22 @@
     {
       "added_at": "2024-09-09 11:29:04",
       "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/5OUAQeFRS7Rg73FogwB0df"
+        "name": "Find Someone Like You",
+        "url": "https://open.spotify.com/album/63okbbo4mM33XJt2DmYRgS"
       },
       "artists": [
         {
-          "name": "Brian Culbertson",
-          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
+          "name": "Jonas Wall",
+          "url": "https://open.spotify.com/artist/2Fawi4h6lz8tvYaHRkq7fo"
+        },
+        {
+          "name": "Umbaji",
+          "url": "https://open.spotify.com/artist/6cMhraoNdQ4lybdCG6veYz"
         }
       ],
-      "duration_ms": 322306,
-      "name": "In The City",
-      "url": "https://open.spotify.com/track/5sjpxYrH0KVtDs6mWGbY7C"
+      "duration_ms": 249230,
+      "name": "Find Someone Like You",
+      "url": "https://open.spotify.com/track/0Y2ILiQA9YbWev5YpkzOu9"
     },
     {
       "added_at": "2024-09-09 11:29:04",
@@ -363,26 +383,6 @@
       "duration_ms": 282666,
       "name": "Surrender (feat. Boney James)",
       "url": "https://open.spotify.com/track/3XS01xqHzkICimJBDwy0iA"
-    },
-    {
-      "added_at": "2024-09-09 11:29:04",
-      "album": {
-        "name": "Find Someone Like You",
-        "url": "https://open.spotify.com/album/63okbbo4mM33XJt2DmYRgS"
-      },
-      "artists": [
-        {
-          "name": "Jonas Wall",
-          "url": "https://open.spotify.com/artist/2Fawi4h6lz8tvYaHRkq7fo"
-        },
-        {
-          "name": "Umbaji",
-          "url": "https://open.spotify.com/artist/6cMhraoNdQ4lybdCG6veYz"
-        }
-      ],
-      "duration_ms": 249230,
-      "name": "Find Someone Like You",
-      "url": "https://open.spotify.com/track/0Y2ILiQA9YbWev5YpkzOu9"
     },
     {
       "added_at": "2024-09-09 11:29:04",
@@ -435,18 +435,18 @@
     {
       "added_at": "2024-09-09 11:29:04",
       "album": {
-        "name": "Fuzzy Logic",
-        "url": "https://open.spotify.com/album/49ZeUMBQWLHtOvp1G0Os7m"
+        "name": "My One And Only One",
+        "url": "https://open.spotify.com/album/4aINB0LIcdX5jTzT55TB5J"
       },
       "artists": [
         {
-          "name": "David Benoit",
-          "url": "https://open.spotify.com/artist/1OLWM7nUNcTjZ9ct4DEPZu"
+          "name": "Jessy J",
+          "url": "https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x"
         }
       ],
-      "duration_ms": 291520,
-      "name": "You Read My Mind",
-      "url": "https://open.spotify.com/track/7clQlmRcKRDWXWu9vmYexQ"
+      "duration_ms": 217843,
+      "name": "Una Mas",
+      "url": "https://open.spotify.com/track/6XtAWAob4B0USWBsX3teoT"
     },
     {
       "added_at": "2024-09-09 11:29:04",
@@ -467,34 +467,18 @@
     {
       "added_at": "2024-09-09 11:29:04",
       "album": {
-        "name": "My One And Only One",
-        "url": "https://open.spotify.com/album/4aINB0LIcdX5jTzT55TB5J"
+        "name": "Fuzzy Logic",
+        "url": "https://open.spotify.com/album/49ZeUMBQWLHtOvp1G0Os7m"
       },
       "artists": [
         {
-          "name": "Jessy J",
-          "url": "https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x"
+          "name": "David Benoit",
+          "url": "https://open.spotify.com/artist/1OLWM7nUNcTjZ9ct4DEPZu"
         }
       ],
-      "duration_ms": 217843,
-      "name": "Una Mas",
-      "url": "https://open.spotify.com/track/6XtAWAob4B0USWBsX3teoT"
-    },
-    {
-      "added_at": "2024-09-09 11:29:04",
-      "album": {
-        "name": "Perfect Moment",
-        "url": "https://open.spotify.com/album/26mZwyn3GPRjgaRZmaCwhr"
-      },
-      "artists": [
-        {
-          "name": "Peter White",
-          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
-        }
-      ],
-      "duration_ms": 274466,
-      "name": "Autumn Day",
-      "url": "https://open.spotify.com/track/2w3XMjQfcfO2cS1T0xXcDu"
+      "duration_ms": 291520,
+      "name": "You Read My Mind",
+      "url": "https://open.spotify.com/track/7clQlmRcKRDWXWu9vmYexQ"
     },
     {
       "added_at": "2024-09-09 11:29:04",
@@ -511,6 +495,22 @@
       "duration_ms": 301240,
       "name": "Mr. Groove",
       "url": "https://open.spotify.com/track/16hiBwYiCd0crSiBtCXsMN"
+    },
+    {
+      "added_at": "2024-09-09 11:29:04",
+      "album": {
+        "name": "Perfect Moment",
+        "url": "https://open.spotify.com/album/26mZwyn3GPRjgaRZmaCwhr"
+      },
+      "artists": [
+        {
+          "name": "Peter White",
+          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
+        }
+      ],
+      "duration_ms": 274466,
+      "name": "Autumn Day",
+      "url": "https://open.spotify.com/track/2w3XMjQfcfO2cS1T0xXcDu"
     },
     {
       "added_at": "2024-09-09 11:29:04",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-09-09 11:29:04",
       "album": {
-        "name": "Can't Stop Now",
-        "url": "https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF"
-      },
-      "artists": [
-        {
-          "name": "Vincent Ingala",
-          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
-        }
-      ],
-      "duration_ms": 255160,
-      "name": "Can't Stop Now",
-      "url": "https://open.spotify.com/track/0CrM8E0DGn8BRu38mbPoiV"
-    },
-    {
-      "added_at": "2024-09-09 11:29:04",
-      "album": {
         "name": "Stay With Me",
         "url": "https://open.spotify.com/album/4SSbfr7UxfTE09XSRUu4Nl"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 263960,
       "name": "Pop's Cool Groove",
       "url": "https://open.spotify.com/track/1ABAAlwDD1HW3pGCA7ReUJ"
+    },
+    {
+      "added_at": "2024-09-09 11:29:04",
+      "album": {
+        "name": "Can't Stop Now",
+        "url": "https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF"
+      },
+      "artists": [
+        {
+          "name": "Vincent Ingala",
+          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+        }
+      ],
+      "duration_ms": 255160,
+      "name": "Can't Stop Now",
+      "url": "https://open.spotify.com/track/0CrM8E0DGn8BRu38mbPoiV"
     },
     {
       "added_at": "2024-09-09 11:29:04",
@@ -755,18 +755,18 @@
     {
       "added_at": "2024-09-09 11:29:04",
       "album": {
-        "name": "Can't Stop Now",
-        "url": "https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF"
+        "name": "Celebration",
+        "url": "https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy"
       },
       "artists": [
         {
-          "name": "Vincent Ingala",
-          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
         }
       ],
-      "duration_ms": 262800,
-      "name": "Read Between the Lines",
-      "url": "https://open.spotify.com/track/2RtFmibwUwhyL9n48yuYfY"
+      "duration_ms": 291840,
+      "name": "Out'a Nowhere",
+      "url": "https://open.spotify.com/track/2yyb2V6a0pBKEJxIi6Zqdj"
     },
     {
       "added_at": "2024-09-09 11:29:04",
@@ -787,18 +787,18 @@
     {
       "added_at": "2024-09-09 11:29:04",
       "album": {
-        "name": "Celebration",
-        "url": "https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy"
+        "name": "Can't Stop Now",
+        "url": "https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF"
       },
       "artists": [
         {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+          "name": "Vincent Ingala",
+          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
         }
       ],
-      "duration_ms": 291840,
-      "name": "Out'a Nowhere",
-      "url": "https://open.spotify.com/track/2yyb2V6a0pBKEJxIi6Zqdj"
+      "duration_ms": 262800,
+      "name": "Read Between the Lines",
+      "url": "https://open.spotify.com/track/2RtFmibwUwhyL9n48yuYfY"
     },
     {
       "added_at": "2024-09-09 11:29:04",
@@ -851,34 +851,34 @@
     {
       "added_at": "2024-09-09 11:29:04",
       "album": {
-        "name": "Working Buttons",
-        "url": "https://open.spotify.com/album/1mVGzvC6G2EyX4uVMFuUfe"
+        "name": "Ready to Play",
+        "url": "https://open.spotify.com/album/2ezdxx2baHQ7qTEUgXR4F5"
       },
       "artists": [
         {
-          "name": "Martin Landstr\u00f6m",
-          "url": "https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN"
+          "name": "Nils",
+          "url": "https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB"
         }
       ],
-      "duration_ms": 270025,
-      "name": "Working Buttons",
-      "url": "https://open.spotify.com/track/2KVOhGRZ4TjY3cXnnt40nn"
+      "duration_ms": 303973,
+      "name": "Catnap",
+      "url": "https://open.spotify.com/track/0x1TSRHlJ2hV63cPBcvrLp"
     },
     {
       "added_at": "2024-09-09 11:29:04",
       "album": {
-        "name": "Divine Morning",
-        "url": "https://open.spotify.com/album/4sR1UNCsD2Q8wrNPCh80jS"
+        "name": "Dressed To Chill",
+        "url": "https://open.spotify.com/album/19oObbehmZIBxRB0lxfxXg"
       },
       "artists": [
         {
-          "name": "Delorme & Co",
-          "url": "https://open.spotify.com/artist/3SHdVmPB4OnBpkkme0OP4W"
+          "name": "Marion Meadows",
+          "url": "https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG"
         }
       ],
-      "duration_ms": 213813,
-      "name": "Divine Morning",
-      "url": "https://open.spotify.com/track/76NCiXYW0Be1Cxgi6tXXX7"
+      "duration_ms": 241386,
+      "name": "Dressed To Chill",
+      "url": "https://open.spotify.com/track/5yEoj9jfZcq2i31RfGIGUk"
     },
     {
       "added_at": "2024-09-09 11:29:04",
@@ -915,34 +915,34 @@
     {
       "added_at": "2024-09-09 11:29:04",
       "album": {
-        "name": "Dressed To Chill",
-        "url": "https://open.spotify.com/album/19oObbehmZIBxRB0lxfxXg"
+        "name": "Working Buttons",
+        "url": "https://open.spotify.com/album/1mVGzvC6G2EyX4uVMFuUfe"
       },
       "artists": [
         {
-          "name": "Marion Meadows",
-          "url": "https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG"
+          "name": "Martin Landstr\u00f6m",
+          "url": "https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN"
         }
       ],
-      "duration_ms": 241386,
-      "name": "Dressed To Chill",
-      "url": "https://open.spotify.com/track/5yEoj9jfZcq2i31RfGIGUk"
+      "duration_ms": 270025,
+      "name": "Working Buttons",
+      "url": "https://open.spotify.com/track/2KVOhGRZ4TjY3cXnnt40nn"
     },
     {
       "added_at": "2024-09-09 11:29:04",
       "album": {
-        "name": "Ready to Play",
-        "url": "https://open.spotify.com/album/2ezdxx2baHQ7qTEUgXR4F5"
+        "name": "Divine Morning",
+        "url": "https://open.spotify.com/album/4sR1UNCsD2Q8wrNPCh80jS"
       },
       "artists": [
         {
-          "name": "Nils",
-          "url": "https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB"
+          "name": "Delorme & Co",
+          "url": "https://open.spotify.com/artist/3SHdVmPB4OnBpkkme0OP4W"
         }
       ],
-      "duration_ms": 303973,
-      "name": "Catnap",
-      "url": "https://open.spotify.com/track/0x1TSRHlJ2hV63cPBcvrLp"
+      "duration_ms": 213813,
+      "name": "Divine Morning",
+      "url": "https://open.spotify.com/track/76NCiXYW0Be1Cxgi6tXXX7"
     },
     {
       "added_at": "2024-09-09 11:29:04",
@@ -959,6 +959,22 @@
       "duration_ms": 230101,
       "name": "Big Dume",
       "url": "https://open.spotify.com/track/2losmatdtyW89YzZuXzD3j"
+    },
+    {
+      "added_at": "2024-09-09 11:29:04",
+      "album": {
+        "name": "Beaches",
+        "url": "https://open.spotify.com/album/0ETUDbr9SDuqPDz0Dau0G5"
+      },
+      "artists": [
+        {
+          "name": "Ennio M\u00e1no",
+          "url": "https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs"
+        }
+      ],
+      "duration_ms": 227328,
+      "name": "Beaches",
+      "url": "https://open.spotify.com/track/1qlNWZGVTcyrCyfeTJgUFD"
     },
     {
       "added_at": "2024-09-09 11:29:04",
@@ -983,18 +999,18 @@
     {
       "added_at": "2024-09-09 11:29:04",
       "album": {
-        "name": "Beaches",
-        "url": "https://open.spotify.com/album/0ETUDbr9SDuqPDz0Dau0G5"
+        "name": "Urban Knights III",
+        "url": "https://open.spotify.com/album/1eFckepvnMBzHnqKaHFOGZ"
       },
       "artists": [
         {
-          "name": "Ennio M\u00e1no",
-          "url": "https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs"
+          "name": "Urban Knights",
+          "url": "https://open.spotify.com/artist/3aCeHneB4PHsdJFVkJzEM5"
         }
       ],
-      "duration_ms": 227328,
-      "name": "Beaches",
-      "url": "https://open.spotify.com/track/1qlNWZGVTcyrCyfeTJgUFD"
+      "duration_ms": 242333,
+      "name": "You're The One For Me",
+      "url": "https://open.spotify.com/track/6HtsA6ZSbdaLoYswmXfPiM"
     },
     {
       "added_at": "2024-09-09 11:29:04",
@@ -1011,22 +1027,6 @@
       "duration_ms": 279040,
       "name": "Candlelight",
       "url": "https://open.spotify.com/track/2IvLn9G9qHouMLwEFirGfy"
-    },
-    {
-      "added_at": "2024-09-09 11:29:04",
-      "album": {
-        "name": "Urban Knights III",
-        "url": "https://open.spotify.com/album/1eFckepvnMBzHnqKaHFOGZ"
-      },
-      "artists": [
-        {
-          "name": "Urban Knights",
-          "url": "https://open.spotify.com/artist/3aCeHneB4PHsdJFVkJzEM5"
-        }
-      ],
-      "duration_ms": 242333,
-      "name": "You're The One For Me",
-      "url": "https://open.spotify.com/track/6HtsA6ZSbdaLoYswmXfPiM"
     },
     {
       "added_at": "2024-09-09 11:29:04",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-09-09 11:29:04",
       "album": {
-        "name": "Howling At The Moon",
-        "url": "https://open.spotify.com/album/6LofXWI8NGoRAyIiam9G9y"
-      },
-      "artists": [
-        {
-          "name": "Josie Stalilao",
-          "url": "https://open.spotify.com/artist/6aqE8FL1Y1WG54YIVoPlXL"
-        }
-      ],
-      "duration_ms": 215291,
-      "name": "Howling At The Moon",
-      "url": "https://open.spotify.com/track/5IyU0HxuVZzOE21069VnO4"
-    },
-    {
-      "added_at": "2024-09-09 11:29:04",
-      "album": {
         "name": "Emily",
         "url": "https://open.spotify.com/album/0wgPQcFKBG31xcIejomfma"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 244874,
       "name": "The Last Kiss",
       "url": "https://open.spotify.com/track/3g9XQQDRluVCngQU9yYLyC"
+    },
+    {
+      "added_at": "2024-09-09 11:29:04",
+      "album": {
+        "name": "Howling At The Moon",
+        "url": "https://open.spotify.com/album/6LofXWI8NGoRAyIiam9G9y"
+      },
+      "artists": [
+        {
+          "name": "Josie Stalilao",
+          "url": "https://open.spotify.com/artist/6aqE8FL1Y1WG54YIVoPlXL"
+        }
+      ],
+      "duration_ms": 215291,
+      "name": "Howling At The Moon",
+      "url": "https://open.spotify.com/track/5IyU0HxuVZzOE21069VnO4"
     },
     {
       "added_at": "2024-09-09 11:29:04",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2024-09-09 11:29:04",
       "album": {
+        "name": "On Top Of Your Game",
+        "url": "https://open.spotify.com/album/5h0gY72fOLWScMTejDedln"
+      },
+      "artists": [
+        {
+          "name": "Sweet Spot Lab",
+          "url": "https://open.spotify.com/artist/1PbqUXqRFkCIIKvm2048At"
+        }
+      ],
+      "duration_ms": 166377,
+      "name": "On Top Of Your Game",
+      "url": "https://open.spotify.com/track/4vFLPCdcUNBoh0gNRreIhU"
+    },
+    {
+      "added_at": "2024-09-09 11:29:04",
+      "album": {
         "name": "Looking Up",
         "url": "https://open.spotify.com/album/7lHBtSn2hMlubVBTXn8e0y"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 324213,
       "name": "Isabella",
       "url": "https://open.spotify.com/track/3auejP8jQXX4soeSvMCtqL"
-    },
-    {
-      "added_at": "2024-09-09 11:29:04",
-      "album": {
-        "name": "Another Door Opens",
-        "url": "https://open.spotify.com/album/5e8Y5tQ9WMOJBEHOHK6gDh"
-      },
-      "artists": [
-        {
-          "name": "Jeff Kashiwa",
-          "url": "https://open.spotify.com/artist/7GVLgt36lHtKdbxooYQhbW"
-        }
-      ],
-      "duration_ms": 284200,
-      "name": "Because of You",
-      "url": "https://open.spotify.com/track/1mzBQnUMTUSs4TkpSJjZES"
     },
     {
       "added_at": "2024-09-09 11:29:04",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2024-09-09 11:29:04",
       "album": {
+        "name": "Another Door Opens",
+        "url": "https://open.spotify.com/album/5e8Y5tQ9WMOJBEHOHK6gDh"
+      },
+      "artists": [
+        {
+          "name": "Jeff Kashiwa",
+          "url": "https://open.spotify.com/artist/7GVLgt36lHtKdbxooYQhbW"
+        }
+      ],
+      "duration_ms": 284200,
+      "name": "Because of You",
+      "url": "https://open.spotify.com/track/1mzBQnUMTUSs4TkpSJjZES"
+    },
+    {
+      "added_at": "2024-09-09 11:29:04",
+      "album": {
         "name": "Pineapple",
         "url": "https://open.spotify.com/album/2swuJYhHOoxBRnal6B0SSx"
       },
@@ -1247,18 +1263,18 @@
     {
       "added_at": "2024-09-09 11:29:04",
       "album": {
-        "name": "On Top Of Your Game",
-        "url": "https://open.spotify.com/album/5h0gY72fOLWScMTejDedln"
+        "name": "Listen",
+        "url": "https://open.spotify.com/album/1w8CYaO0C4L3H9BNZsPHgL"
       },
       "artists": [
         {
-          "name": "Sweet Spot Lab",
-          "url": "https://open.spotify.com/artist/1PbqUXqRFkCIIKvm2048At"
+          "name": "Chuck Loeb",
+          "url": "https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ"
         }
       ],
-      "duration_ms": 166377,
-      "name": "On Top Of Your Game",
-      "url": "https://open.spotify.com/track/4vFLPCdcUNBoh0gNRreIhU"
+      "duration_ms": 308346,
+      "name": "Love To All",
+      "url": "https://open.spotify.com/track/3JixMzROP010wvqclHnxr2"
     },
     {
       "added_at": "2024-09-09 11:29:04",
@@ -1291,18 +1307,18 @@
     {
       "added_at": "2024-09-09 11:29:04",
       "album": {
-        "name": "Listen",
-        "url": "https://open.spotify.com/album/1w8CYaO0C4L3H9BNZsPHgL"
+        "name": "The Catwalk",
+        "url": "https://open.spotify.com/album/5AjtdeM07zySmIaIkVrHoC"
       },
       "artists": [
         {
-          "name": "Chuck Loeb",
-          "url": "https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ"
+          "name": "Peter Olyni Jr.",
+          "url": "https://open.spotify.com/artist/5HI6ncFklodHRqtdX7EFgO"
         }
       ],
-      "duration_ms": 308346,
-      "name": "Love To All",
-      "url": "https://open.spotify.com/track/3JixMzROP010wvqclHnxr2"
+      "duration_ms": 207812,
+      "name": "The Catwalk",
+      "url": "https://open.spotify.com/track/2XILqKv1KhGeVDh7HoDBkR"
     },
     {
       "added_at": "2024-09-09 11:29:04",
@@ -1319,22 +1335,6 @@
       "duration_ms": 280866,
       "name": "Lover For Life",
       "url": "https://open.spotify.com/track/16FwzfpZJii63cnol8sDcA"
-    },
-    {
-      "added_at": "2024-09-09 11:29:04",
-      "album": {
-        "name": "The Catwalk",
-        "url": "https://open.spotify.com/album/5AjtdeM07zySmIaIkVrHoC"
-      },
-      "artists": [
-        {
-          "name": "Peter Olyni Jr.",
-          "url": "https://open.spotify.com/artist/5HI6ncFklodHRqtdX7EFgO"
-        }
-      ],
-      "duration_ms": 207812,
-      "name": "The Catwalk",
-      "url": "https://open.spotify.com/track/2XILqKv1KhGeVDh7HoDBkR"
     },
     {
       "added_at": "2024-09-09 11:29:04",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-09-09 11:29:04",
       "album": {
-        "name": "Embrace",
-        "url": "https://open.spotify.com/album/03PWH8UYNt3it6HVUThJf3"
-      },
-      "artists": [
-        {
-          "name": "Najee",
-          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
-        }
-      ],
-      "duration_ms": 283266,
-      "name": "Eye 2 Eye",
-      "url": "https://open.spotify.com/track/4gvWlsrQogixhISq7Oz1r4"
-    },
-    {
-      "added_at": "2024-09-09 11:29:04",
-      "album": {
         "name": "last of the leather jackets",
         "url": "https://open.spotify.com/album/5miUYG6kDcPOTCwGJqvRHJ"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 285824,
       "name": "last of the leather jackets",
       "url": "https://open.spotify.com/track/5h7gFuZYOB6vlUkhraNDJ2"
+    },
+    {
+      "added_at": "2024-09-09 11:29:04",
+      "album": {
+        "name": "Embrace",
+        "url": "https://open.spotify.com/album/03PWH8UYNt3it6HVUThJf3"
+      },
+      "artists": [
+        {
+          "name": "Najee",
+          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
+        }
+      ],
+      "duration_ms": 283266,
+      "name": "Eye 2 Eye",
+      "url": "https://open.spotify.com/track/4gvWlsrQogixhISq7Oz1r4"
     },
     {
       "added_at": "2024-09-09 11:29:04",

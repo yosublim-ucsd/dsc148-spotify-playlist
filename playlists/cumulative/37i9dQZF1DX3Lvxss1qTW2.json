@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The future hits of today. \nCover: Alpha P",
+  "description": "The future hits of today. \nCover: Kold AF",
   "name": "Bubblin'",
   "tracks": [
+    {
+      "album": {
+        "name": "KAUTION",
+        "url": "https://open.spotify.com/album/5pCpOoJ3fVv0FkPfaIl8SW"
+      },
+      "artists": [
+        {
+          "name": "Kold AF",
+          "url": "https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131134,
+      "name": "365",
+      "url": "https://open.spotify.com/track/04E8u3YScYYjwOoMzTm19T"
+    },
     {
       "album": {
         "name": "4x4 (feat.Tyler ICU)",
@@ -32,6 +50,28 @@
       "duration_ms": 203893,
       "name": "4x4 (feat.Tyler ICU)",
       "url": "https://open.spotify.com/track/49NvGBWwEs9u6ILQd2snYd"
+    },
+    {
+      "album": {
+        "name": "64 \u00b0C",
+        "url": "https://open.spotify.com/album/1MGRqLJfMviTuEBrgszK1d"
+      },
+      "artists": [
+        {
+          "name": "Homa Homa",
+          "url": "https://open.spotify.com/artist/7qUwTAQxAAxweAXWO7Lc2B"
+        },
+        {
+          "name": "1da Banton",
+          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "64 \u00b0C",
+      "url": "https://open.spotify.com/track/7CVTkhet8Si18yfTHtgVuS"
     },
     {
       "album": {
@@ -68,7 +108,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 247880,
       "name": "Abeke",
       "url": "https://open.spotify.com/track/1rOcCMymtbyZBsbO6ADHtg"
@@ -178,7 +218,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 156428,
       "name": "Are you there?",
       "url": "https://open.spotify.com/track/10y7iW3rc8bzGbhAC3mNPA"
@@ -656,7 +696,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 159656,
       "name": "Don julio",
       "url": "https://open.spotify.com/track/0pSvdqdPJsQERhVWKjcfhi"
@@ -1407,6 +1447,24 @@
     },
     {
       "album": {
+        "name": "Liberian Boy",
+        "url": "https://open.spotify.com/album/1l1ZbJu5nz1CQXK3DwcOnc"
+      },
+      "artists": [
+        {
+          "name": "JZyNo",
+          "url": "https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161416,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/4xoWfwadlc6X4MxzL0gXM2"
+    },
+    {
+      "album": {
         "name": "JUJU (feat. Shallipopi)",
         "url": "https://open.spotify.com/album/6xtWvj11zaodhnfa7izxCL"
       },
@@ -1426,7 +1484,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 157756,
       "name": "JUJU (feat. Shallipopi)",
       "url": "https://open.spotify.com/track/6XBIOtdSL47qn201KKNCA0"
@@ -1524,7 +1582,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 145002,
       "name": "Lagos",
       "url": "https://open.spotify.com/track/0YgAGCU3kDEMTvndL9u3Tw"
@@ -1912,6 +1970,24 @@
       "duration_ms": 156448,
       "name": "My Heart",
       "url": "https://open.spotify.com/track/0U8tAKDSunJl0Vo64GcqlW"
+    },
+    {
+      "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/5ew8bhyjYFzX6wgoMdEn4i"
+      },
+      "artists": [
+        {
+          "name": "Hotkeed",
+          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154455,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/3yLREZjJFnYLAN4aOUqqP6"
     },
     {
       "album": {
@@ -2380,6 +2456,24 @@
       "duration_ms": 145500,
       "name": "Small Money",
       "url": "https://open.spotify.com/track/5jYCb3QsnXxS2Qh5HzwT7J"
+    },
+    {
+      "album": {
+        "name": "Level Up (Deluxe)",
+        "url": "https://open.spotify.com/album/77sjfGO9M57HqUiQoebbLQ"
+      },
+      "artists": [
+        {
+          "name": "Tha Boy Myles",
+          "url": "https://open.spotify.com/artist/0kBkGmd0pKKvVpPXBRR5v5"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123350,
+      "name": "Sofri",
+      "url": "https://open.spotify.com/track/4IsTrczvo6vUTXD0qguKkz"
     },
     {
       "album": {

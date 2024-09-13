@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Dendang Dangdut teratas. Cover: Wandra Restusiyan, Projector Band",
+  "description": "Dendang Dangdut teratas. Cover: Riri ",
   "name": "Dangdut Top",
   "tracks": [
     {
@@ -2778,6 +2778,24 @@
       "duration_ms": 272906,
       "name": "Satu Kamu",
       "url": "https://open.spotify.com/track/2E79MZzmwGOJRhfE73DyIo"
+    },
+    {
+      "album": {
+        "name": "Satu Rasa Cinta",
+        "url": "https://open.spotify.com/album/6hjsEcQfDliKpxh1totuC6"
+      },
+      "artists": [
+        {
+          "name": "Riri Chantika",
+          "url": "https://open.spotify.com/artist/45QLgbqjuDQzHSagWxx7VX"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294533,
+      "name": "Satu Rasa Cinta",
+      "url": "https://open.spotify.com/track/2LkIEQEtMp4agDn68uJ4OF"
     },
     {
       "album": {

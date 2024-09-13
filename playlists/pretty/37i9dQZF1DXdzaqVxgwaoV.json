@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Celebrando 90 a\u00f1os de Discos Fuentes, con Pastor L\u00f3pez en portada!",
-  "num_followers": 125405,
+  "num_followers": 125435,
   "original_name": "Desde Septiembre se Siente Diciembre",
   "owner": {
     "name": "Spotify",
@@ -751,6 +751,22 @@
     {
       "added_at": "2024-09-01 08:41:00",
       "album": {
+        "name": "La Orquesta Que Impone El Ritmo",
+        "url": "https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1"
+      },
+      "artists": [
+        {
+          "name": "Los Mel\u00f3dicos",
+          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
+        }
+      ],
+      "duration_ms": 243840,
+      "name": "Ay Amor",
+      "url": "https://open.spotify.com/track/3IIcfSqWExqdjypo8HlMq8"
+    },
+    {
+      "added_at": "2024-09-01 08:41:00",
+      "album": {
         "name": "En Acci\u00f3n",
         "url": "https://open.spotify.com/album/0QQG7YEkrJ7FVTHXmWTmHW"
       },
@@ -771,18 +787,18 @@
     {
       "added_at": "2024-09-01 08:41:00",
       "album": {
-        "name": "La Orquesta Que Impone El Ritmo",
-        "url": "https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1"
+        "name": "\u00c9xitos los Tupamaros",
+        "url": "https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM"
       },
       "artists": [
         {
-          "name": "Los Mel\u00f3dicos",
-          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
+          "name": "Los Tupamaros",
+          "url": "https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo"
         }
       ],
-      "duration_ms": 243840,
-      "name": "Ay Amor",
-      "url": "https://open.spotify.com/track/3IIcfSqWExqdjypo8HlMq8"
+      "duration_ms": 191772,
+      "name": "Todo el Mundo Necesita un Beso",
+      "url": "https://open.spotify.com/track/0YVKaTzwcFyrmQAzS6Jk41"
     },
     {
       "added_at": "2024-09-01 08:41:00",
@@ -807,18 +823,18 @@
     {
       "added_at": "2024-09-01 08:41:00",
       "album": {
-        "name": "\u00c9xitos los Tupamaros",
-        "url": "https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM"
+        "name": "Historia Musical de Pastor L\u00f3pez",
+        "url": "https://open.spotify.com/album/1KsOjvT6ah4LQ7ewBUXWrf"
       },
       "artists": [
         {
-          "name": "Los Tupamaros",
-          "url": "https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo"
+          "name": "Pastor Lopez",
+          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
         }
       ],
-      "duration_ms": 191772,
-      "name": "Todo el Mundo Necesita un Beso",
-      "url": "https://open.spotify.com/track/0YVKaTzwcFyrmQAzS6Jk41"
+      "duration_ms": 213840,
+      "name": "Golpe Con Golpe",
+      "url": "https://open.spotify.com/track/62ebrScTyZO1d93HVmHvnb"
     },
     {
       "added_at": "2024-09-01 08:41:00",
@@ -839,22 +855,6 @@
     {
       "added_at": "2024-09-01 08:41:00",
       "album": {
-        "name": "Historia Musical de Pastor L\u00f3pez",
-        "url": "https://open.spotify.com/album/1KsOjvT6ah4LQ7ewBUXWrf"
-      },
-      "artists": [
-        {
-          "name": "Pastor Lopez",
-          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
-        }
-      ],
-      "duration_ms": 213840,
-      "name": "Golpe Con Golpe",
-      "url": "https://open.spotify.com/track/62ebrScTyZO1d93HVmHvnb"
-    },
-    {
-      "added_at": "2024-09-01 08:41:00",
-      "album": {
         "name": "10 De Colecci\u00f3n",
         "url": "https://open.spotify.com/album/3SqhRQcCP4j8ge7ApdFcsk"
       },
@@ -871,22 +871,18 @@
     {
       "added_at": "2024-09-01 08:41:00",
       "album": {
-        "name": "Inmortal (Vol. 2)",
-        "url": "https://open.spotify.com/album/4tCohV09PLbYN02PiMrwYX"
+        "name": "Homenaje a una Leyenda Viva (Vol. 1)",
+        "url": "https://open.spotify.com/album/7BXMMoJdwto5cJrARGIZNX"
       },
       "artists": [
         {
-          "name": "Joe Arroyo",
-          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
-        },
-        {
-          "name": "La Verdad",
-          "url": "https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM"
+          "name": "Calixto Ochoa",
+          "url": "https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc"
         }
       ],
-      "duration_ms": 311676,
-      "name": "En Barranquilla Me Quedo",
-      "url": "https://open.spotify.com/track/6WNAd46dtiBqakGzvlcCla"
+      "duration_ms": 158727,
+      "name": "Charanga Campesina",
+      "url": "https://open.spotify.com/track/1tjFVXm886ZTNPFbF7oRZP"
     },
     {
       "added_at": "2024-09-01 08:41:00",
@@ -911,18 +907,22 @@
     {
       "added_at": "2024-09-01 08:41:00",
       "album": {
-        "name": "Homenaje a una Leyenda Viva (Vol. 1)",
-        "url": "https://open.spotify.com/album/7BXMMoJdwto5cJrARGIZNX"
+        "name": "Inmortal (Vol. 2)",
+        "url": "https://open.spotify.com/album/4tCohV09PLbYN02PiMrwYX"
       },
       "artists": [
         {
-          "name": "Calixto Ochoa",
-          "url": "https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc"
+          "name": "Joe Arroyo",
+          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
+        },
+        {
+          "name": "La Verdad",
+          "url": "https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM"
         }
       ],
-      "duration_ms": 158727,
-      "name": "Charanga Campesina",
-      "url": "https://open.spotify.com/track/1tjFVXm886ZTNPFbF7oRZP"
+      "duration_ms": 311676,
+      "name": "En Barranquilla Me Quedo",
+      "url": "https://open.spotify.com/track/6WNAd46dtiBqakGzvlcCla"
     },
     {
       "added_at": "2024-09-01 08:41:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-09-01 08:41:00",
       "album": {
-        "name": "\u00c9xitos Pastor L\u00f3pez",
-        "url": "https://open.spotify.com/album/6aYiYSjRloFEj6ecvPFAh8"
-      },
-      "artists": [
-        {
-          "name": "Pastor Lopez",
-          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
-        }
-      ],
-      "duration_ms": 214680,
-      "name": "Traicionera",
-      "url": "https://open.spotify.com/track/1mmR1F48d1taWksNH9mQqa"
-    },
-    {
-      "added_at": "2024-09-01 08:41:00",
-      "album": {
         "name": "Afrosound",
         "url": "https://open.spotify.com/album/5JbuV37huKu6rER4zsyniF"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 215322,
       "name": "Mar de Emociones",
       "url": "https://open.spotify.com/track/5UcCxorHQtfYcU1SRhgGL4"
+    },
+    {
+      "added_at": "2024-09-01 08:41:00",
+      "album": {
+        "name": "\u00c9xitos Pastor L\u00f3pez",
+        "url": "https://open.spotify.com/album/6aYiYSjRloFEj6ecvPFAh8"
+      },
+      "artists": [
+        {
+          "name": "Pastor Lopez",
+          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
+        }
+      ],
+      "duration_ms": 214680,
+      "name": "Traicionera",
+      "url": "https://open.spotify.com/track/1mmR1F48d1taWksNH9mQqa"
     },
     {
       "added_at": "2024-09-01 08:41:00",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2024-09-01 08:41:00",
       "album": {
+        "name": "Grandes \u00c9xitos Grupo Caneo, Vol. 7",
+        "url": "https://open.spotify.com/album/4uPNPjKnVT12mbDxMHUdzN"
+      },
+      "artists": [
+        {
+          "name": "Grupo Caneo",
+          "url": "https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z"
+        }
+      ],
+      "duration_ms": 266797,
+      "name": "Qu\u00e9 Har\u00e9 Sin Ti",
+      "url": "https://open.spotify.com/track/2qGUuQSv0PDWe6CGz8GdcP"
+    },
+    {
+      "added_at": "2024-09-01 08:41:00",
+      "album": {
         "name": "\u00c9xitos los Warahuaco & Hern\u00e1n Rojas",
         "url": "https://open.spotify.com/album/1TtaDXi6YdjxUJo4ri7aTJ"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 170893,
       "name": "El Pescador de Bar\u00fa",
       "url": "https://open.spotify.com/track/74ZKfd2J1nPl5KyAVQ5uyy"
-    },
-    {
-      "added_at": "2024-09-01 08:41:00",
-      "album": {
-        "name": "Grandes \u00c9xitos Grupo Caneo, Vol. 7",
-        "url": "https://open.spotify.com/album/4uPNPjKnVT12mbDxMHUdzN"
-      },
-      "artists": [
-        {
-          "name": "Grupo Caneo",
-          "url": "https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z"
-        }
-      ],
-      "duration_ms": 266797,
-      "name": "Qu\u00e9 Har\u00e9 Sin Ti",
-      "url": "https://open.spotify.com/track/2qGUuQSv0PDWe6CGz8GdcP"
     },
     {
       "added_at": "2024-09-01 08:41:00",

@@ -2,9 +2,9 @@
 
 ### [Ke Seberang](https://open.spotify.com/playlist/37i9dQZF1DXaYWhpF8H0HO)
 
-> Talenta tanah air yang dapat menyeberang lintas negara\. Cover:  Arash Buana
+> Talenta tanah air yang dapat menyeberang lintas negara\. Cover:  GAC \(Gamaliél Audrey Cantika\)
 
-153 songs - 8 hr 54 min
+156 songs - 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [happy ever after](https://open.spotify.com/track/6vkTNFN5FgW3zLEPCiaowP) | [Reikko](https://open.spotify.com/artist/5n4a9seylr5pY9paMr9nWP) | [happy ever after](https://open.spotify.com/album/6dUltwYPdCDF5NWkCFjbdc) | 2:25 | 2024-06-27 | 2024-09-06 |
 | [HARDEST PART \(feat\. Suisei\)](https://open.spotify.com/track/08sjKIRWyeDbtyaMbVxiXs) | [CVX](https://open.spotify.com/artist/3YDAdiXuKjmL0SsiCr1eyz), [Suisei](https://open.spotify.com/artist/2Iw3yPRqjz5Xh4veKj7oqi) | [FRACTURE](https://open.spotify.com/album/1XMXf6XuiIPxprbim1FAwt) | 3:12 | 2024-06-27 | 2024-08-10 |
 | [hey, i'm tired](https://open.spotify.com/track/1vkTwwAwzVVin3wqye5w1k) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [life update](https://open.spotify.com/album/2N4ErYoIxBSIXOTMp7sYtf) | 4:05 | 2024-09-05 |  |
+| [HIGHER](https://open.spotify.com/track/2INBpgdpRNNfUhCBPjNo4a) | [GAC \(Gamaliél Audrey Cantika\)](https://open.spotify.com/artist/3YYdJZO7kX8nwDzN3YJzdW) | [HIGHER](https://open.spotify.com/album/011fc3cGSjwlMpQg0NyLa3) | 4:13 | 2024-09-12 |  |
 | [hold me tight](https://open.spotify.com/track/5vMYg1wLg1ZK5vOweoRorf) | [Skyline](https://open.spotify.com/artist/3jFq99M5yrKG1yihywpcnf) | [hold me tight](https://open.spotify.com/album/2jJOkzVvP8iEFYjfl6qLeA) | 3:11 | 2024-06-27 |  |
 | [Hoping You'll Be Mine](https://open.spotify.com/track/5pVwYwxsuBoc8gNlWR0igt) | [Abeliano](https://open.spotify.com/artist/5MVMpQxOa7Ax5ps1J6E2uE) | [Hoping You'll Be Mine](https://open.spotify.com/album/5dNWRgYdXBdg0GEMmbhsu8) | 3:22 | 2024-06-27 |  |
 | [How Could You Still Love Me](https://open.spotify.com/track/0l7pTIk20PHJZxNYgQcON1) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [How Could You Still Love Me](https://open.spotify.com/album/4nTE31Iy6lAONpS9kT6v33) | 4:24 | 2024-07-11 |  |
@@ -153,6 +154,8 @@
 | [Tsunami](https://open.spotify.com/track/5T9RiaaXbVUQdIG3hLmZDY) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Tsunami](https://open.spotify.com/album/0SX3o2pQvxPaujHIqPVrpP) | 3:51 | 2024-07-25 |  |
 | [Twisted Neurons](https://open.spotify.com/track/5BZT0JzMP5Otk3tw6jFYcB) | [KYNYA](https://open.spotify.com/artist/4zy1Zb5mi7hSWc7MOFevU8) | [Twisted Neurons](https://open.spotify.com/album/6Moma0qD8i4QElK4qubH3C) | 3:45 | 2024-08-09 |  |
 | [Unwavering](https://open.spotify.com/track/5om9MS3yRKxRrt9FSMBq4w) | [Sandrayati](https://open.spotify.com/artist/5rF3UasE0KYra7muGoKpzF), [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [Unwavering](https://open.spotify.com/album/60Ems1fT6kFthRWEaL3Nkj) | 3:37 | 2024-06-27 | 2024-07-24 |
+| [Want Me Back](https://open.spotify.com/track/6nTNtWCDuL2loiO1s7a3kF) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P), [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF) | [Want Me Back](https://open.spotify.com/album/00wqpSXlPgNJpq7oeckRWx) | 2:55 | 2024-09-12 |  |
+| [Wax & Feathers](https://open.spotify.com/track/0tcIc5MaCp672N7iI9qtIV) | [MANJA](https://open.spotify.com/artist/20pZIP8Eb3BEOdPiNqupRX) | [Wax & Feathers](https://open.spotify.com/album/0dFp2sdyM8QzDFHedQnQTc) | 4:10 | 2024-09-12 |  |
 | [what about we.](https://open.spotify.com/track/29500ynLp5KW47YhREJGF1) | [beenmind](https://open.spotify.com/artist/1XZvnhUO8BhpPo6P3q3zba) | [lovexickal](https://open.spotify.com/album/5l2ra1zglhLBDTxwvnTCoa) | 2:48 | 2024-06-27 | 2024-07-27 |
 | [Where Do We Go](https://open.spotify.com/track/5kiytJIDxoUhGHN3rUCJqE) | [Kenny Gabriel](https://open.spotify.com/artist/0UrV86j2SWIzZ98MKxzxYu), [Farrel Hilal](https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np) | [Where Do We Go](https://open.spotify.com/album/6RRlckOrJ2nXRWw2mFsP6j) | 3:23 | 2024-06-27 |  |
 | [wish](https://open.spotify.com/track/6b1vX7JCmPs0PJ9SiCUrfi) | [dilasarah](https://open.spotify.com/artist/2U2xHTxh2E1Y4GX9deASV3) | [wish](https://open.spotify.com/album/518U4ClFTfd27cyWt0PU6a) | 3:13 | 2024-07-23 |  |

@@ -2,9 +2,9 @@
 
 ### [Afro Bars ](https://open.spotify.com/playlist/37i9dQZF1DXdl8xYyG9Dm1)
 
-> The latest straight bars and Afro\-Trap\. Cover: Smada & ODMODUBLVCK
+> The latest straight bars and Afro\-Trap\. Cover: A\-Reece
 
-295 songs - 15 hr 30 min
+296 songs - 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [By Force](https://open.spotify.com/track/7eEY6xTOIbHgZpU4NS6gZP) | [8figurez](https://open.spotify.com/artist/3yJexXx23gh77vExWiL29J), [Gemini Major](https://open.spotify.com/artist/7CmcmdcG6g6XOXueKHgCaM) | [By Force](https://open.spotify.com/album/1eW5AAkt2BYHu4NPEEOlkC) | 3:10 | 2023-01-27 | 2023-02-10 |
 | [CATALYST](https://open.spotify.com/track/3gaYFa4e3JswfToeYHtAKX) | [BURUKLYN BOYZ](https://open.spotify.com/artist/00WWkvpiOhhZNlk2KTqYhX) | [EAST MPAKA LONDON](https://open.spotify.com/album/47vN97kxrAYQUMNEjgBX0G) | 2:44 | 2022-05-19 | 2023-01-28 |
 | [Catalyst](https://open.spotify.com/track/0eYtxjlZfYQEsqCWzzptuO) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [East Mpaka London](https://open.spotify.com/album/0Kz367vVwZ4MKYLanvjUwu) | 2:47 | 2022-05-19 | 2022-12-09 |
-| [Change My Gear](https://open.spotify.com/track/42GXRc2VxjLAzuHmbLcaDP) | [MAXINO](https://open.spotify.com/artist/6LTAaKONuHKKWR8ljjIbCA), [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1) | [Rich And Wacko](https://open.spotify.com/album/6No6i6W4UOm0oJw0PCKs8c) | 4:40 | 2024-05-08 |  |
+| [Change My Gear](https://open.spotify.com/track/42GXRc2VxjLAzuHmbLcaDP) | [MAXINO](https://open.spotify.com/artist/6LTAaKONuHKKWR8ljjIbCA), [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1) | [Rich And Wacko](https://open.spotify.com/album/6No6i6W4UOm0oJw0PCKs8c) | 4:40 | 2024-05-08 | 2024-09-13 |
 | [CINDERELLA GIRL \(WHERE YOU DEY\) \[feat\. Ludacris\]](https://open.spotify.com/track/1E4ed73l5iopAIr9UkAlGy) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [CINDERELLA GIRL \(WHERE YOU DEY\) \[feat\. Ludacris\]](https://open.spotify.com/album/2Qk595xR8M6ar44RYi9aPR) | 3:35 | 2023-05-11 | 2024-05-11 |
 | [Cloak & Dagger \(feat\. J Hus\)](https://open.spotify.com/track/0cE68B5sCz9f3snJ5ueTGZ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:31 | 2022-07-07 | 2024-04-19 |
 | [Cloak & Dagger \(feat\. J Hus\)](https://open.spotify.com/track/519SuHU1ai91BsRxDnT9Ki) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [Love, Damini](https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc) | 3:31 | 2022-07-07 | 2024-07-27 |
@@ -265,6 +265,7 @@
 | [TECHNICIAN \(feat\. Blaqbonez & Lekaa Beats\)](https://open.spotify.com/track/60qIa2znv2BICoDyJS8rNv) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Lekaa Beats](https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY) | [TECHNICIAN](https://open.spotify.com/album/7ChVqPO3roVcHSLi32PnIK) | 2:36 | 2024-04-19 |  |
 | [That Chick \(feat\. Money Badoo\)](https://open.spotify.com/track/5w6n5yb6UPcxz20naEYHlN) | [Faith K](https://open.spotify.com/artist/1KuWBR8nefjdxXkdWvWY0E), [Money Badoo](https://open.spotify.com/artist/3RLZh7s3TdS5bL08ATw7Ba) | [Nangena](https://open.spotify.com/album/7hWvhVZIutFixBf5g62C4f) | 2:18 | 2022-03-04 | 2022-04-22 |
 | [THE 5 YEAR PLAN](https://open.spotify.com/track/4fNGCGYkLvh6zX1bKxs79h) | [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP), [Wordz](https://open.spotify.com/artist/7IPFplrxamAhezF49BeCsQ) | [THE 5 YEAR PLAN](https://open.spotify.com/album/1sNPyElQ3dJQ7rYTkTQz1S) | 3:20 | 2021-10-14 | 2022-04-01 |
+| [the get back](https://open.spotify.com/track/4IQP1L4qKPamrOrfL7WdAZ) | [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP) | [Kill The King: the mixtape](https://open.spotify.com/album/5XxghpaGYOjMYfaggN0g0t) | 3:05 | 2024-09-13 |  |
 | [The Guy](https://open.spotify.com/track/6blCtzooXNbKlyDMgdp5zo) | [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL) | [The Guy](https://open.spotify.com/album/2LKh0iw3OeLCIEkd0HsHeL) | 3:17 | 2022-07-21 | 2024-07-03 |
 | [The Views](https://open.spotify.com/track/5XE6dTAtEqrHp0NRCjuPui) | [Lucasraps](https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [031 To The World 2.0](https://open.spotify.com/album/1rFKpOUsG1tWjGyHgYp3rH) | 3:06 | 2022-08-05 | 2024-07-27 |
 | [This Life](https://open.spotify.com/track/7apKD9mYK4mD1qR0lHgxAF) | [Imadh](https://open.spotify.com/artist/0TOKFUBpQUqy5njsggfDUb), [Mbuzi Gang](https://open.spotify.com/artist/6bhGj7isui9u4aShV8ONrl) | [This Life](https://open.spotify.com/album/7Jpo8hdYQsZWsjpMv8UXRx) | 4:00 | 2022-06-30 | 2022-07-22 |

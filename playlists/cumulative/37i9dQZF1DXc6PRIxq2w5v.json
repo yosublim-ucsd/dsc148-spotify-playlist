@@ -1199,6 +1199,36 @@
     },
     {
       "album": {
+        "name": "BRKD F4IL3D D6VIL",
+        "url": "https://open.spotify.com/album/7yMuK0UQgt3jaf372dzHwu"
+      },
+      "artists": [
+        {
+          "name": "Boanerges",
+          "url": "https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG"
+        },
+        {
+          "name": "MATXS",
+          "url": "https://open.spotify.com/artist/7ich7ebAVHUXP7valh455y"
+        },
+        {
+          "name": "Victtor",
+          "url": "https://open.spotify.com/artist/2FSSM8hRAWQjyfQnvmPgcz"
+        },
+        {
+          "name": "Mu4ilo",
+          "url": "https://open.spotify.com/artist/1ETlAm5JDgJxuYj7XbSSK9"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206668,
+      "name": "BRKD F4IL3D D6VIL",
+      "url": "https://open.spotify.com/track/1L4mG07jrTj6r7Rd7MuAlw"
+    },
+    {
+      "album": {
         "name": "B\u00edblia no Jeans",
         "url": "https://open.spotify.com/album/1p3FBw3lyxNsvspB0k1xjb"
       },
@@ -1628,7 +1658,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 184102,
       "name": "Controle",
       "url": "https://open.spotify.com/track/55wOEFXFsswm2z2xGEQOx1"
@@ -4162,7 +4192,7 @@
           "url": "https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k"
         },
         {
-          "name": "MC Jamil",
+          "name": "Mc Jamil",
           "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
         }
       ],
@@ -5703,6 +5733,28 @@
     },
     {
       "album": {
+        "name": "N\u00e3o Tenha Medo",
+        "url": "https://open.spotify.com/album/3y3DBarikPjm77wkMRcjE5"
+      },
+      "artists": [
+        {
+          "name": "Thiag\u00e3o",
+          "url": "https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw"
+        },
+        {
+          "name": "Wesley Cruz",
+          "url": "https://open.spotify.com/artist/77A1ucBEoXxohcGB3fOSeN"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250158,
+      "name": "N\u00e3o Tenha Medo",
+      "url": "https://open.spotify.com/track/0HX18TZeeix56yE4iMb83h"
+    },
+    {
+      "album": {
         "name": "N\u00e3o Tentar\u00e1s",
         "url": "https://open.spotify.com/album/4betQllYN8d9WMmkrCzPdp"
       },
@@ -6174,7 +6226,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 112000,
       "name": "PASSAPORTE",
       "url": "https://open.spotify.com/track/3a4HH2zpxFtPdFTudw33LH"
@@ -6998,7 +7050,7 @@
           "url": "https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k"
         },
         {
-          "name": "MC Jamil",
+          "name": "Mc Jamil",
           "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
         }
       ],
@@ -7328,7 +7380,7 @@
       },
       "artists": [
         {
-          "name": "MC Jamil",
+          "name": "Mc Jamil",
           "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
         }
       ],
@@ -8327,6 +8379,24 @@
     },
     {
       "album": {
+        "name": "Teologia Negra",
+        "url": "https://open.spotify.com/album/6WQaF4Ig4xJhtw6yFmyBMJ"
+      },
+      "artists": [
+        {
+          "name": "MN MC",
+          "url": "https://open.spotify.com/artist/5fdttSgrBEG0cGc93QlrZV"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124714,
+      "name": "Teologia Negra",
+      "url": "https://open.spotify.com/track/6yoco3ulwjuskHpxH3h9qL"
+    },
+    {
+      "album": {
         "name": "Terra Prometida",
         "url": "https://open.spotify.com/album/3JQ0qcFa7gDWy2MULfJ1RY"
       },
@@ -9136,7 +9206,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 174545,
       "name": "Viv\u00eancias",
       "url": "https://open.spotify.com/track/0jmfZfkd9y1aqT7nvyFssH"

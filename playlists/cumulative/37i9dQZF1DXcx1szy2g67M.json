@@ -4875,6 +4875,24 @@
     },
     {
       "album": {
+        "name": "La Pression",
+        "url": "https://open.spotify.com/album/1nkmjcR3wg4w4rbjoGbWiX"
+      },
+      "artists": [
+        {
+          "name": "Claude",
+          "url": "https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161311,
+      "name": "La Pression",
+      "url": "https://open.spotify.com/track/1JD59B3aSyEcI3yHYPZLIP"
+    },
+    {
+      "album": {
         "name": "Laat Me Nooit Meer Los (Never Let Me Go)",
         "url": "https://open.spotify.com/album/5HJ2BolbLuIdB6fnpmQ5jc"
       },
@@ -6037,7 +6055,7 @@
     },
     {
       "album": {
-        "name": "Read My Lips (Deluxe Version)",
+        "name": "Read My Lips - Deluxe Version",
         "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
       },
       "artists": [
@@ -9225,6 +9243,24 @@
     },
     {
       "album": {
+        "name": "Wait For You",
+        "url": "https://open.spotify.com/album/0xBVvz5KOwJtgrc9sFpnwQ"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201533,
+      "name": "Wait For You",
+      "url": "https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw"
+    },
+    {
+      "album": {
         "name": "Wanna Be Loved (feat. PollyAnna)",
         "url": "https://open.spotify.com/album/1yzDhFOZhvCL0Bah2G2Ge9"
       },
@@ -9554,7 +9590,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 190474,
       "name": "What Do You Believe In?",
       "url": "https://open.spotify.com/track/2j5YYik2gA3Z7FgH3NiybN"
@@ -10004,7 +10040,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 159000,
       "name": "\u00c9coutez-moi",
       "url": "https://open.spotify.com/track/55U5MtDnqyZ5jpdlOjPxON"

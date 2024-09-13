@@ -1043,6 +1043,24 @@
     },
     {
       "album": {
+        "name": "Embran - Live",
+        "url": "https://open.spotify.com/album/2wlYJLa7aHN6e6jsnIjL82"
+      },
+      "artists": [
+        {
+          "name": "Job Kurian",
+          "url": "https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Embran - Live",
+      "url": "https://open.spotify.com/track/3GvKXNTlMlVUI8eCh7clLW"
+    },
+    {
+      "album": {
         "name": "En Sadhai",
         "url": "https://open.spotify.com/album/42S7j3CTmtlgfe1vYATMF1"
       },

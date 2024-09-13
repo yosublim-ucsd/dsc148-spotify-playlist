@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5ITI6SEoUZMIXXkzCfr4oE">Aluna</a>'s favorite tracks\. Updated regularly\. Curated by Aluna\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-337 songs - 20 hr 59 min
+338 songs - 21 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Get Up](https://open.spotify.com/track/3uO4nLDiJMH2DkixEFcHIN) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [ShezAr](https://open.spotify.com/artist/3PPJmIxohGjhNvQIyrksIW) | [Get Up](https://open.spotify.com/album/2XahKuNpWDBxLlbD8eKCuc) | 3:06 | 2023-04-21 | 2023-10-05 |
 | [Get Up](https://open.spotify.com/track/6eqI6rkIXqJO5uIuli36Ey) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd) | [IN:TENSION](https://open.spotify.com/album/5Om5ffiuTukQ7HdnSMxm1h) | 3:03 | 2023-12-08 | 2024-04-19 |
 | [Get Up](https://open.spotify.com/track/7quS3s6bqzPmXRnDU5FeNa) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd) | [Get Up](https://open.spotify.com/album/7G3GRV1k2khC47rPBSvFin) | 3:03 | 2023-09-21 |  |
+| [Ghostin'](https://open.spotify.com/track/6GhIDGCeX6GD3aEb7jaj9J) | [AQUTIE](https://open.spotify.com/artist/5cLrXNIHIhgtTFgrsYXTXF), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Coolest In The City](https://open.spotify.com/album/6slqT0LqNWErkUQU22eIY9) | 3:32 | 2024-09-12 |  |
 | [Give It Up \- REMETI Remix](https://open.spotify.com/track/1x6L5u1efLOz8DQl9PA2C4) | [Ashibah](https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP), [REMETI](https://open.spotify.com/artist/0gSoG6kI3ngqDL32OZfGcR) | [Give It Up \(REMETI Remix\)](https://open.spotify.com/album/1X94E58SxAGr7MdFCrSvpn) | 3:33 | 2023-06-29 | 2023-07-08 |
 | [Giving Me Life](https://open.spotify.com/track/2Je7t8J1MrumV3ClyIRm9N) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [Giving Me Life](https://open.spotify.com/album/4kdnp2y5xRXsv3jZXPMCnq) | 3:15 | 2024-03-15 |  |
 | [Giving Up](https://open.spotify.com/track/61rELAKbEKXdidjxXviWd0) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Mafro](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Giving Up](https://open.spotify.com/album/2u0L2wbAbJAw5cx00Wk6zE) | 3:23 | 2022-09-08 | 2022-12-30 |

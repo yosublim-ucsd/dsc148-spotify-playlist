@@ -891,6 +891,24 @@
     },
     {
       "album": {
+        "name": "Bonifacio",
+        "url": "https://open.spotify.com/album/1XT5heZfUmmMANHgafkGwA"
+      },
+      "artists": [
+        {
+          "name": "Romain Muller",
+          "url": "https://open.spotify.com/artist/2kNosEaCDLK4OdSzpZWaDu"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135560,
+      "name": "Bonifacio",
+      "url": "https://open.spotify.com/track/2kTCB0grV2QxiX46zuzEr3"
+    },
+    {
+      "album": {
         "name": "Boom Boom",
         "url": "https://open.spotify.com/album/1DQ15XaG2nFt9dTMJwtbYA"
       },
@@ -6831,6 +6849,24 @@
     },
     {
       "album": {
+        "name": "Vivant",
+        "url": "https://open.spotify.com/album/3DwFd9rWKeSNKhYeBgRfbD"
+      },
+      "artists": [
+        {
+          "name": "Malik Djoudi",
+          "url": "https://open.spotify.com/artist/5STTEE3TlZg9gb3xNC4RHF"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197497,
+      "name": "Pas vraiment",
+      "url": "https://open.spotify.com/track/1Nl4KaC3oa5HTqvzLOdkQh"
+    },
+    {
+      "album": {
         "name": "Pesanteur",
         "url": "https://open.spotify.com/album/1IUgA2qSFsB4GJOvgDVbrZ"
       },
@@ -7374,7 +7410,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 219773,
       "name": "rentrer chez moi",
       "url": "https://open.spotify.com/track/4lu4t2NkQ8APnm0GwL8Gbl"
@@ -8358,7 +8394,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 154770,
       "name": "Superpouvoirs",
       "url": "https://open.spotify.com/track/4H9bfPHh0Kn298kVKb1Vlo"

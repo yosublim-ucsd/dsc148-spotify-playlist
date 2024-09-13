@@ -1585,6 +1585,32 @@
     },
     {
       "album": {
+        "name": "Badle Sheher",
+        "url": "https://open.spotify.com/album/6qF9GugTEz01v6vwqmHCA8"
+      },
+      "artists": [
+        {
+          "name": "Dikshant",
+          "url": "https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR"
+        },
+        {
+          "name": "Raeyna",
+          "url": "https://open.spotify.com/artist/4cSuJFjNwzW29ciFECV2dg"
+        },
+        {
+          "name": "Bharath",
+          "url": "https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138139,
+      "name": "Badle Sheher",
+      "url": "https://open.spotify.com/track/4ENJihTeZ3AKmpENDgGcXY"
+    },
+    {
+      "album": {
         "name": "Badra",
         "url": "https://open.spotify.com/album/1poqXY7CjbFGT58Ihmr8UR"
       },
@@ -1855,6 +1881,32 @@
     },
     {
       "album": {
+        "name": "Barkha",
+        "url": "https://open.spotify.com/album/0rJs2XjAJZvzqWe4ElYTAM"
+      },
+      "artists": [
+        {
+          "name": "Prateeksha Srivastava",
+          "url": "https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT"
+        },
+        {
+          "name": "Suyash",
+          "url": "https://open.spotify.com/artist/397qVkvMksq20YImjWX9BR"
+        },
+        {
+          "name": "Danny",
+          "url": "https://open.spotify.com/artist/45S9bHFJXp1I4qmHcxio70"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175237,
+      "name": "Barkha",
+      "url": "https://open.spotify.com/track/3AOGBR7ei0ocpvPlM46ofw"
+    },
+    {
+      "album": {
         "name": "Barkha Badariya",
         "url": "https://open.spotify.com/album/5khJdFlQYDkoy02sq99DJo"
       },
@@ -1896,6 +1948,32 @@
       "duration_ms": 244800,
       "name": "Barkha Bahaar",
       "url": "https://open.spotify.com/track/3RasEms9BsZBgdY25u5MVo"
+    },
+    {
+      "album": {
+        "name": "Barsan",
+        "url": "https://open.spotify.com/album/534o0vBS7PLabpbbj5ZnGu"
+      },
+      "artists": [
+        {
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+        },
+        {
+          "name": "Nakul Chugh",
+          "url": "https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V"
+        },
+        {
+          "name": "Alok Ranjan Srivastava",
+          "url": "https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179777,
+      "name": "Barsan",
+      "url": "https://open.spotify.com/track/6jg2EEDFePBZNr19lHNSR8"
     },
     {
       "album": {
@@ -2556,7 +2634,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 300889,
       "name": "Black and White",
       "url": "https://open.spotify.com/track/0NH4E6UL2DUGMBtvsylm1O"
@@ -2932,7 +3010,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 180400,
       "name": "Chhadd Jaave",
       "url": "https://open.spotify.com/track/0R1ME9ewzPRKNqU3Qj5fJQ"
@@ -3516,6 +3594,28 @@
       "duration_ms": 151944,
       "name": "Dil Ki Sun",
       "url": "https://open.spotify.com/track/7v00ixDSFXf7HcqzD1ZK6M"
+    },
+    {
+      "album": {
+        "name": "Dil Kya Kare",
+        "url": "https://open.spotify.com/album/6s8cFxhYpWW7uksyGuSElr"
+      },
+      "artists": [
+        {
+          "name": "Maya",
+          "url": "https://open.spotify.com/artist/1Z4cTmwQ9KWWkxymOBAdPO"
+        },
+        {
+          "name": "Ravator",
+          "url": "https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231818,
+      "name": "Dil Kya Kare",
+      "url": "https://open.spotify.com/track/03ro4H1TiYGuPAVlXuxotX"
     },
     {
       "album": {
@@ -4871,6 +4971,24 @@
     },
     {
       "album": {
+        "name": "Hadd Paar",
+        "url": "https://open.spotify.com/album/2IHX7ILNsacm8J6MKMiWcY"
+      },
+      "artists": [
+        {
+          "name": "Osho Jain",
+          "url": "https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Hadd Paar",
+      "url": "https://open.spotify.com/track/6DZfkiuodQxJqWnoQaZwOu"
+    },
+    {
+      "album": {
         "name": "Halfway",
         "url": "https://open.spotify.com/album/7grcqqugy7VGt4GV72oxpC"
       },
@@ -5828,7 +5946,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 122029,
       "name": "Jaadui",
       "url": "https://open.spotify.com/track/6n8pzV9uqRScejlQ2FFoM6"
@@ -6472,7 +6590,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 153600,
       "name": "Kaahe",
       "url": "https://open.spotify.com/track/2gHbnFPYYswMfT5nu1UPnr"
@@ -9196,7 +9314,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 130524,
       "name": "Mann Ke Panne",
       "url": "https://open.spotify.com/track/7KaXqSjssWCJvVuh2PnDaz"
@@ -9324,6 +9442,24 @@
       "duration_ms": 109090,
       "name": "Maze / Haze",
       "url": "https://open.spotify.com/track/5wrBB8f4odV2bsjd8uIvoP"
+    },
+    {
+      "album": {
+        "name": "Mazhabon",
+        "url": "https://open.spotify.com/album/24MOF0Aw8hHKAxt6WEhH7v"
+      },
+      "artists": [
+        {
+          "name": "The Western Ghats",
+          "url": "https://open.spotify.com/artist/3vX5K7r9Icdjsrlax4FzWv"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243602,
+      "name": "Mazhabon",
+      "url": "https://open.spotify.com/track/0rnpWXyHwDb4fwkNub56B9"
     },
     {
       "album": {
@@ -9795,6 +9931,24 @@
     },
     {
       "album": {
+        "name": "Move On Easily",
+        "url": "https://open.spotify.com/album/1TDsEMuoijSkiP8iy8jlG0"
+      },
+      "artists": [
+        {
+          "name": "Neha Karode",
+          "url": "https://open.spotify.com/artist/4GUWRLqQ58vGlU9aIfC9QN"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189895,
+      "name": "Move On Easily",
+      "url": "https://open.spotify.com/track/6ElUtgbpiJwI78vjyEaHfo"
+    },
+    {
+      "album": {
         "name": "Mujhe Jaane Do",
         "url": "https://open.spotify.com/album/4gBunWnRTT67ZMoY4XHRfs"
       },
@@ -9828,6 +9982,24 @@
       "duration_ms": 254662,
       "name": "Mujhsa Agar Mile",
       "url": "https://open.spotify.com/track/00cuNiTXGhs2ivGjn0Qatl"
+    },
+    {
+      "album": {
+        "name": "Mukhatib",
+        "url": "https://open.spotify.com/album/7hEFhZS4TaY0StC4DDv4of"
+      },
+      "artists": [
+        {
+          "name": "Salman Elahi",
+          "url": "https://open.spotify.com/artist/60X8hzDUpAbID7G8cU2FPT"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232142,
+      "name": "Mukhatib",
+      "url": "https://open.spotify.com/track/7C8p5um8QfjaiFkgB3j2iX"
     },
     {
       "album": {
@@ -9988,7 +10160,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 195348,
       "name": "Muzmahil",
       "url": "https://open.spotify.com/track/4zp7LwUJcqZ0uScoacYa7Z"
@@ -11532,7 +11704,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 197142,
       "name": "Raintalk",
       "url": "https://open.spotify.com/track/6ZbOfUtik0vWC41BiHC6AF"
@@ -11816,7 +11988,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 230322,
       "name": "Rootho Na",
       "url": "https://open.spotify.com/track/3iianNzrInP4BTd6NYCq3g"
@@ -11996,6 +12168,24 @@
       "duration_ms": 195348,
       "name": "Saahiba",
       "url": "https://open.spotify.com/track/76z2uAcGGoOhIxSdOwxlQJ"
+    },
+    {
+      "album": {
+        "name": "Saalo Se",
+        "url": "https://open.spotify.com/album/4ngEajgZgykMDA11vydy0p"
+      },
+      "artists": [
+        {
+          "name": "THE 9TEEN",
+          "url": "https://open.spotify.com/artist/4vLv0CXSxGB1PJijrfokwB"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161500,
+      "name": "Saalo Se",
+      "url": "https://open.spotify.com/track/5V4BoefaIDvg3m3V6g9Cpf"
     },
     {
       "album": {
@@ -12952,7 +13142,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 164318,
       "name": "Shor-Gul",
       "url": "https://open.spotify.com/track/6XTc3oZCCFi8o9FzBx4QJm"
@@ -15623,6 +15813,36 @@
     },
     {
       "album": {
+        "name": "Yaar Mila Ve",
+        "url": "https://open.spotify.com/album/2ltIposF0mekHiEUsYBulf"
+      },
+      "artists": [
+        {
+          "name": "Pragati Nagpal",
+          "url": "https://open.spotify.com/artist/5LUjJOXtKNWa7AmUOJbWgH"
+        },
+        {
+          "name": "Shreya Jain",
+          "url": "https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD"
+        },
+        {
+          "name": "Nakul Chugh",
+          "url": "https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V"
+        },
+        {
+          "name": "Shayra Apoorva",
+          "url": "https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151666,
+      "name": "Yaar Mila Ve",
+      "url": "https://open.spotify.com/track/19W1YDKQCyS9smMP48fQMy"
+    },
+    {
+      "album": {
         "name": "Yaara Ve",
         "url": "https://open.spotify.com/album/7uK9M1tHaA3FZ0rlEDYHVx"
       },
@@ -15642,7 +15862,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 195348,
       "name": "Yaara Ve",
       "url": "https://open.spotify.com/track/3xYySsoM3ClDi5eMs2eaV5"

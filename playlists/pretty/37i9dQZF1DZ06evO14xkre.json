@@ -1,12 +1,12 @@
 {
   "description": "This Is Kali Uchis. Los temas esenciales, todos en una lista.",
-  "num_followers": 242317,
+  "num_followers": 242435,
   "original_name": "This Is Kali Uchis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zt+MAAAAAABAKXacp+Oky06VI0mpbBt5",
+  "snapshot_id": "ZuDdgAAAAAAq2v1j5ofzidIn7FVeL36G",
   "tracks": [
     {
       "added_at": null,
@@ -699,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "ORQU\u00cdDEAS",
+        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 215666,
+      "name": "Dame Beso // Mu\u00e9vete",
+      "url": "https://open.spotify.com/track/21RAJfkAbaq85RWJQWoxkx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mu\u00f1ekita (with El Alfa & JT)",
         "url": "https://open.spotify.com/album/1TNCpCq8peDn03K1qK5If4"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 219642,
       "name": "Mu\u00f1ekita (with El Alfa & JT)",
       "url": "https://open.spotify.com/track/4PzxlHzDM3bDafkHjg1XCX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ORQU\u00cdDEAS",
-        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 215666,
-      "name": "Dame Beso // Mu\u00e9vete",
-      "url": "https://open.spotify.com/track/21RAJfkAbaq85RWJQWoxkx"
     },
     {
       "added_at": null,

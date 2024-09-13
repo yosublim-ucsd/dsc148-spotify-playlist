@@ -1,6 +1,6 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Alejandro y Maria Laura.",
-  "num_followers": 125273,
+  "num_followers": 125275,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
@@ -663,6 +663,22 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
+        "name": "Vida",
+        "url": "https://open.spotify.com/album/0PR1QIMk7rQlm8hVPc1spT"
+      },
+      "artists": [
+        {
+          "name": "Jorge Lebr\u00f3n",
+          "url": "https://open.spotify.com/artist/1LX6bLRTvP6V8hSVdWXbC7"
+        }
+      ],
+      "duration_ms": 179968,
+      "name": "Que Bonito",
+      "url": "https://open.spotify.com/track/3lbaXRttgLyDAQtH9L4Ctl"
+    },
+    {
+      "added_at": "2024-09-06 06:00:00",
+      "album": {
         "name": "Remanso para morrer (con Tanxugueiras) [Sesiones Moraima 2]",
         "url": "https://open.spotify.com/album/77UPQUZuo4ZFVZbec7YNqb"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 186312,
       "name": "Remanso para morrer (con Tanxugueiras) - Sesiones Moraima 2",
       "url": "https://open.spotify.com/track/5C4ofBBIu1yAwwzSul6mtb"
-    },
-    {
-      "added_at": "2024-09-06 06:00:00",
-      "album": {
-        "name": "Vida",
-        "url": "https://open.spotify.com/album/0PR1QIMk7rQlm8hVPc1spT"
-      },
-      "artists": [
-        {
-          "name": "Jorge Lebr\u00f3n",
-          "url": "https://open.spotify.com/artist/1LX6bLRTvP6V8hSVdWXbC7"
-        }
-      ],
-      "duration_ms": 179968,
-      "name": "Que Bonito",
-      "url": "https://open.spotify.com/track/3lbaXRttgLyDAQtH9L4Ctl"
     },
     {
       "added_at": "2024-09-06 06:00:00",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
-        "name": "Camino al Bemb\u00e9",
-        "url": "https://open.spotify.com/album/4XeP79F6lHKf2YZgR3Ggtb"
-      },
-      "artists": [
-        {
-          "name": "Carey",
-          "url": "https://open.spotify.com/artist/0oxfm2BvNWiRi3WwmcOdQy"
-        }
-      ],
-      "duration_ms": 203393,
-      "name": "Camino al Bemb\u00e9",
-      "url": "https://open.spotify.com/track/4PzPtQgbDCaRajfbppvNBd"
-    },
-    {
-      "added_at": "2024-09-06 06:00:00",
-      "album": {
         "name": "El hombre de la habitaci\u00f3n de al lado",
         "url": "https://open.spotify.com/album/7EqHXkO34eYZLPco3EpGZC"
       },
@@ -1855,18 +1839,34 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
-        "name": "M\u00edrame",
-        "url": "https://open.spotify.com/album/2BrwzeYkAzmI4RnzLCgbv8"
+        "name": "Camino al Bemb\u00e9",
+        "url": "https://open.spotify.com/album/4XeP79F6lHKf2YZgR3Ggtb"
       },
       "artists": [
         {
-          "name": "Mar\u00eda de la Flor",
-          "url": "https://open.spotify.com/artist/0kQpC0wjuUoy6ppyXWgYH3"
+          "name": "Carey",
+          "url": "https://open.spotify.com/artist/0oxfm2BvNWiRi3WwmcOdQy"
         }
       ],
-      "duration_ms": 190124,
-      "name": "M\u00edrame",
-      "url": "https://open.spotify.com/track/6NcGTOcFLQiYSrW8pv7fuO"
+      "duration_ms": 203393,
+      "name": "Camino al Bemb\u00e9",
+      "url": "https://open.spotify.com/track/4PzPtQgbDCaRajfbppvNBd"
+    },
+    {
+      "added_at": "2024-09-06 06:00:00",
+      "album": {
+        "name": "La Fuerza",
+        "url": "https://open.spotify.com/album/4qMSZDyLdEJtoL19qzG4ld"
+      },
+      "artists": [
+        {
+          "name": "Paz Court",
+          "url": "https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm"
+        }
+      ],
+      "duration_ms": 240771,
+      "name": "Pajarillo Negro",
+      "url": "https://open.spotify.com/track/4DMhBxXwHcaY8C0Bv8PwFc"
     }
   ],
   "unique_name": "Cancionistas",

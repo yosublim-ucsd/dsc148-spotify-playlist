@@ -866,7 +866,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 194586,
       "name": "SF\u6771\u4eac",
       "url": "https://open.spotify.com/track/4PfVeeAi7n8eOt8CbW8tfy"
@@ -956,7 +956,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 162386,
       "name": "Summer Dreamin\u2019",
       "url": "https://open.spotify.com/track/6jZPK8775hKmzJ5Yzy5VMc"
@@ -974,7 +974,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-08",
+      "date_removed": null,
       "duration_ms": 176786,
       "name": "Summer Princess",
       "url": "https://open.spotify.com/track/2mxLMO0U94w8URMdQgsmtO"
@@ -2201,7 +2201,7 @@
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 219328,
+      "duration_ms": 218580,
       "name": "\u30e9\u30c3\u30ad\u30fc\u30ab\u30e9\u30fc",
       "url": "https://open.spotify.com/track/5Fzv7ho7XOwvvEOvxFnnTp"
     },
@@ -2363,7 +2363,7 @@
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 315386,
+      "duration_ms": 314473,
       "name": "\u4f1a\u3044\u306b\u884c\u304f\u306e\u306b",
       "url": "https://open.spotify.com/track/33KpGlVe9ZCvtOLeETCQPl"
     },
@@ -2568,6 +2568,24 @@
       "duration_ms": 273437,
       "name": "\u5730\u7403\u5100 - Spinning Globe",
       "url": "https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY"
+    },
+    {
+      "album": {
+        "name": "\u5915\u967d\u306e\u4e0a",
+        "url": "https://open.spotify.com/album/66sv143fO5iuUJC7UrDdOX"
+      },
+      "artists": [
+        {
+          "name": "\u5ddd\u5d0e\u9df9\u4e5f",
+          "url": "https://open.spotify.com/artist/3BjFX1nExMNHvSaoLd1I1k"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278954,
+      "name": "\u5915\u967d\u306e\u4e0a",
+      "url": "https://open.spotify.com/track/2EtwEEcVEps5oqyRxkTE6F"
     },
     {
       "album": {
@@ -2817,7 +2835,7 @@
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 242792,
+      "duration_ms": 241481,
       "name": "\u611b\u306e\u82b1",
       "url": "https://open.spotify.com/track/4iBO3Jg6kSXZHw06db0ds3"
     },

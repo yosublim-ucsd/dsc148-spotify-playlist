@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "For your daily dosis of music with an Indie twist. Cover: CHARLOT",
+  "description": "For your daily dosis of music with an Indie twist. Cover: Warhaus",
   "name": "A Shot Of Indie",
   "tracks": [
     {
@@ -1293,6 +1293,24 @@
     },
     {
       "album": {
+        "name": "Nanalou",
+        "url": "https://open.spotify.com/album/2tFghXSQqcPAyEKcqOtcmR"
+      },
+      "artists": [
+        {
+          "name": "Trixie Whitley",
+          "url": "https://open.spotify.com/artist/3MZIxeB762kFLJ8ceou6uJ"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301053,
+      "name": "Nanalou",
+      "url": "https://open.spotify.com/track/1BKn39VqcRuKF2DsbRJydU"
+    },
+    {
+      "album": {
         "name": "Nearness of You",
         "url": "https://open.spotify.com/album/69hePKG2dE7jrvHuMsCz3X"
       },
@@ -1986,6 +2004,24 @@
       "duration_ms": 184312,
       "name": "Underground",
       "url": "https://open.spotify.com/track/34NlD5bQB7Z7UgGHiI4lZh"
+    },
+    {
+      "album": {
+        "name": "Where The Names Are Real",
+        "url": "https://open.spotify.com/album/0SnEZObvH4juxuuJEznkGV"
+      },
+      "artists": [
+        {
+          "name": "Warhaus",
+          "url": "https://open.spotify.com/artist/5uy67fWgovgNdbkP1kAf7m"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321047,
+      "name": "Where The Names Are Real",
+      "url": "https://open.spotify.com/track/6anbHjGgQbYQH5FbF6bAvR"
     },
     {
       "album": {

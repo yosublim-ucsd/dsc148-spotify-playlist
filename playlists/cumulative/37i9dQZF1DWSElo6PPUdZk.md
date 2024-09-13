@@ -4,12 +4,12 @@
 
 > Catch the queens of Punjabi Pop\. Cover: Sunanda Sharma
 
-102 songs - 5 hr 22 min
+103 songs - 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/3HhzqHPEN33a5UCKSfZpgi) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/2jw92hf4mnISbYywvU3Anj) | 0:00 | 2023-03-18 | 2023-04-20 |
-| [2 Raflaan \(feat\. Gurlej Akhtar\)](https://open.spotify.com/track/76TcsS8szd8ZQjwnz78xg9) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [2 Raflaan \(feat\. Gurlej Akhtar\)](https://open.spotify.com/album/7GU2LBCmdNCMJzLTxuPAiR) | 3:28 | 2023-03-18 |  |
+| [2 Raflaan \(feat\. Gurlej Akhtar\)](https://open.spotify.com/track/76TcsS8szd8ZQjwnz78xg9) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [2 Raflaan \(feat\. Gurlej Akhtar\)](https://open.spotify.com/album/7GU2LBCmdNCMJzLTxuPAiR) | 3:28 | 2023-03-18 | 2024-09-13 |
 | [8 Parche](https://open.spotify.com/track/42ETKyApzUl8hTtytFAjen) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [8 Parche](https://open.spotify.com/album/5vMZWQdiqWB8iaeqnBfdRu) | 3:30 | 2023-03-18 |  |
 | [Affair](https://open.spotify.com/track/21SBUUtRtPK2x2OLmZCKTP) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3), [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m) | [Affair](https://open.spotify.com/album/4ubZpOzmJp9haVbf9F97hy) | 3:08 | 2023-03-18 |  |
 | [AKH](https://open.spotify.com/track/2XQK4hKhcSsloYMteu9RbZ) | [Jaswinder Brar](https://open.spotify.com/artist/6r2i43KR94c0Q0fm7OyJEJ), [Sachin Ahuja](https://open.spotify.com/artist/4QTKE90lhb8DlGKB9QqK3h) | [AKH](https://open.spotify.com/album/6B3afVYGezFl6PPl2qJXqB) | 3:35 | 2024-09-09 |  |
@@ -39,6 +39,7 @@
 | [Horse Stick](https://open.spotify.com/track/662pPKD0ssAigYYixY7Isn) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3), [Black Virus](https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU), [Mandeep Maavi](https://open.spotify.com/artist/0nMjrfJdkdeEdNHDU72Rn1) | [Horse Stick](https://open.spotify.com/album/4JzQWrQ5woDnrNGyCJ6wxy) | 2:56 | 2024-05-09 |  |
 | [Ik Geda](https://open.spotify.com/track/5kJVxhYjXnMaY41pzxAGSw) | [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ) | [Ik Geda](https://open.spotify.com/album/1zvbkv7kQqID6FoSADfVqv) | 2:14 | 2023-03-18 |  |
 | [Ik Munda](https://open.spotify.com/track/3RF8VftPBBh7uW4cSqg8z7) | [Simmi Virk](https://open.spotify.com/artist/7dgHHyujaW1YGhycujHnj7), [Bugzy](https://open.spotify.com/artist/4bRpEJ8GG67U3heboTulwI), [Parneet Kaur](https://open.spotify.com/artist/4YA4V26BvUcoNEIkOv3BSd) | [Ik Munda](https://open.spotify.com/album/1q2EEduKcYjkKTMUik6XJd) | 3:31 | 2024-09-02 |  |
+| [In My Heart](https://open.spotify.com/track/0HhWckFjxOVD0wzcHAGXqi) | [Veera Takker](https://open.spotify.com/artist/58btbZKsJzY83FBRiIG9kD) | [In My Heart](https://open.spotify.com/album/5fHuiaZ6nYteSrxTEP8Xuq) | 3:09 | 2024-09-12 |  |
 | [Intezaar](https://open.spotify.com/track/2kMKwLbuwIHCDB4dmR8yCL) | [Subhi](https://open.spotify.com/artist/2n4qix48iT07tbyBdxAjM2) | [Intezaar](https://open.spotify.com/album/7zjPljtqKa0utnZ1LimzTY) | 3:12 | 2024-08-27 |  |
 | [Jaan](https://open.spotify.com/track/3WYzyafR47qwO5w2UtzFv9) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Jaan](https://open.spotify.com/album/6BjpagtcyuPWjTAPxzPHNv) | 3:46 | 2023-03-18 |  |
 | [Jee Jeha Karda](https://open.spotify.com/track/71jkE3pPYmg8v0nrU8Mhn1) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Jee Jeha Karda](https://open.spotify.com/album/1xYMYWzzEYlV1yxpjDYojp) | 3:35 | 2023-03-18 | 2024-01-31 |

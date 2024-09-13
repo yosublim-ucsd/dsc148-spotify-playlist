@@ -2,7 +2,7 @@
 
 ### [This Is Alan Hawkshaw](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2F2K1f)
 
-> This is Alan Hawkshaw。アーティストの代表曲をひとつのプレイリストに。
+> This is Alan Hawkshaw\. The essential tracks, all in one playlist.
 
 145 songs - 6 hr 22 min
 
@@ -111,7 +111,7 @@
 | [Road and Rail](https://open.spotify.com/track/3mYdUtdNzgDKagUA77PkOy) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Big Business / Wind of Change](https://open.spotify.com/album/5KjRUiHG28Lv7rILL40ONY) | 2:17 | 2024-04-24 | 2024-05-10 |
 | [Rocky Mountain Runabout](https://open.spotify.com/track/0onhMFZBampcxMxkIDxmU0) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: The Big Beat](https://open.spotify.com/album/4KEAda0cN0G2cBoXHfd3uD) | 2:15 | 2022-06-26 | 2022-09-09 |
 | [Rollin'](https://open.spotify.com/track/5bvDrcp7xjIuqdhPVT79bW) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Hawk's Hammond Lounge](https://open.spotify.com/album/4X9dIVJaDcGMQCJEUqLS7h) | 2:00 | 2024-07-16 | 2024-08-20 |
-| [Roving Reporter](https://open.spotify.com/track/70ilfw7o4EekgZt3P8EgDz) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: The Big Beat](https://open.spotify.com/album/4KEAda0cN0G2cBoXHfd3uD) | 1:40 | 2022-06-06 | 2024-08-26 |
+| [Roving Reporter](https://open.spotify.com/track/70ilfw7o4EekgZt3P8EgDz) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: The Big Beat](https://open.spotify.com/album/4KEAda0cN0G2cBoXHfd3uD) | 1:40 | 2022-06-06 |  |
 | [Sad Sax](https://open.spotify.com/track/3rUlv34w7XfgVJLHAcilRJ) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Jingles](https://open.spotify.com/album/7ffA6LFEfV4ICI9LTP0dUF) | 0:35 | 2024-07-20 | 2024-08-03 |
 | [Sand Yachting](https://open.spotify.com/track/63MuJGO2yjPZ583DolTJ7E) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [The Kpm 1000 Series \- Volume 2](https://open.spotify.com/album/4jJpvGq7HiXzNSNo7hm9lh) | 1:12 | 2023-07-14 | 2024-01-04 |
 | [Scooter Girl](https://open.spotify.com/track/4bH1kAgbHVCtxhRFl98Q9L) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Friendly Faces](https://open.spotify.com/album/224JifnNZ8kVboTgLkh1JW) | 2:41 | 2022-10-12 |  |
@@ -122,7 +122,7 @@
 | [Smokey Joe](https://open.spotify.com/track/48VkW8HdCDZc4RoOYm4HzF) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [The All American Powerhouse](https://open.spotify.com/album/5opSzualaqCe9iqHQxo6I8) | 2:55 | 2024-05-22 | 2024-05-24 |
 | [Soft Throttle](https://open.spotify.com/track/5US39IzkxO8nRi4wK9NHOV) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Luke Vibert's Nuggets 3](https://open.spotify.com/album/4XhHiKbo6yUr642e0GCrhK) | 2:59 | 2022-05-29 |  |
 | [Soul Organ Impromptu](https://open.spotify.com/track/7wRok4fwH4ygKr1AtrVFTF) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Soul Organ Showcase](https://open.spotify.com/album/0igqSRlReNwphFAqsflrOZ) | 2:57 | 2022-05-31 |  |
-| [Speed Run](https://open.spotify.com/track/0glHvRJiMtJkli6pVUxglI) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [The All American Powerhouse](https://open.spotify.com/album/5opSzualaqCe9iqHQxo6I8) | 2:26 | 2023-02-18 |  |
+| [Speed Run](https://open.spotify.com/track/0glHvRJiMtJkli6pVUxglI) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [The All American Powerhouse](https://open.spotify.com/album/5opSzualaqCe9iqHQxo6I8) | 2:26 | 2023-02-18 | 2024-09-13 |
 | [Speed Speed Speed](https://open.spotify.com/track/0trsIvjLUT4WOq9phJxSz0) | [Alan Parker](https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Music for a Young Generation](https://open.spotify.com/album/7DSXOfsLNItRe1nYDmAGpL) | 1:17 | 2022-08-29 |  |
 | [Speed Speed Speed](https://open.spotify.com/track/6KequWeuLVnMMf1engpVTa) | [Alan Parker](https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [The Kpm 1000 Series \- Volume 1](https://open.spotify.com/album/1svikpX3DorNerwbCIGi6H) | 1:17 | 2022-05-31 | 2022-08-23 |
 | [Sports News](https://open.spotify.com/track/5Yppk7qYxYgsBVk7Ip0sXa) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Live Action](https://open.spotify.com/album/0aK3l7mzwVJOHvdQGqm9I2) | 1:40 | 2023-09-21 | 2023-10-11 |

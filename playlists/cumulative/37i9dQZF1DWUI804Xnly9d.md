@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-402 songs - 22 hr 44 min
+403 songs - 22 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Chal Bhool Ja](https://open.spotify.com/track/48tLTRTLXGx9nj9RHgal6S) | [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH) | [Chal Bhool Ja](https://open.spotify.com/album/2JOUKg6FMICnKDlQS5D6pg) | 2:28 | 2023-06-16 | 2023-06-21 |
 | [Chale Gaye](https://open.spotify.com/track/0eZUo7dcgwmPHalQat5JuJ) | [Navjot Ahuja](https://open.spotify.com/artist/7pVf872VEuJQBwiuRFSg4w) | [Chale Gaye](https://open.spotify.com/album/5uWSN63exQGd7pyABRRDbz) | 3:58 | 2023-09-27 | 2023-12-12 |
 | [Chalenge Wahin](https://open.spotify.com/track/4ivXGD5mirJrO1Y6w88J1K) | [Anushka Gupta](https://open.spotify.com/artist/72383grtnEIxiyYCo76KtJ) | [Chalenge Wahin](https://open.spotify.com/album/7eIWWjP5MxC2AQCoPDQD2A) | 3:37 | 2023-05-24 | 2023-09-21 |
+| [Chand](https://open.spotify.com/track/3HitRllqCZkOtSsp6rymfS) | [Raymann Rayy](https://open.spotify.com/artist/12O0QpNqkv87j4UoL214OR) | [CHAND](https://open.spotify.com/album/3xqItK7gAwkFJPsNO6oanC) | 3:39 | 2024-09-12 |  |
 | [Chandni Si Raat \- Reprise](https://open.spotify.com/track/3BlcYd4T7bcXbMDVasiGVJ) | [Himanshu Pareek](https://open.spotify.com/artist/0J6jTSteCba4UiHRRSqPC2), [Priyanshi Srivastava](https://open.spotify.com/artist/1Vt7a0YpqiUoIcWnIiLXMo) | [Chandni Si Raat \(Reprise\)](https://open.spotify.com/album/3YOBOrTu9G26nGOoMrhOJu) | 3:35 | 2024-02-28 | 2024-04-19 |
 | [Chaukhat \(Acoustic\)](https://open.spotify.com/track/5ieB78xk3KoBcNda4L1nSr) | [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Chaukhat \(Acoustic\)](https://open.spotify.com/album/4YHSH25QEB5aQiotQJByRA) | 3:53 | 2024-06-21 |  |
 | [Chehra 2.0](https://open.spotify.com/track/6d3lOkNs93ZbMkhmoUCGbS) | [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n) | [Thank You for Coming \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3EFK3YhILj3V22ifGoyLsJ) | 4:07 | 2023-10-06 | 2023-11-22 |
@@ -114,7 +115,7 @@
 | [Girta Sambhalta](https://open.spotify.com/track/7zIZRuC4yEsLItRPD3hvf1) | [Aditya N.](https://open.spotify.com/artist/4hywkPZjNnWbisCuDpTB5d), [Nayantara Bhatkal](https://open.spotify.com/artist/6tTt2QJN9fk6o0xePqBiIA), [Class](https://open.spotify.com/artist/55QQRSnrc4sTCDqJPLz2w0) | [Class: Season 1 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3LYcCtX4jQcwUr2q9es85P) | 2:18 | 2023-05-17 | 2023-07-29 |
 | [Gudiya \- From "Joon"](https://open.spotify.com/track/25YSG6rbuHZC6k6yurUnNq) | [Akshay Sharma](https://open.spotify.com/artist/4ybDoPH6SjHh6Ln6LkHJsK) | [Gudiya \(From "Joon"\)](https://open.spotify.com/album/2tIeB8y2UfF5F0bEVXiP4X) | 2:53 | 2023-11-07 | 2024-01-19 |
 | [Gulaab Tum](https://open.spotify.com/track/1yFYVPFQZfRPPvPlVFF71s) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Gulaab Tum](https://open.spotify.com/album/2iya1ghZ9OpUACDggqRBaf) | 4:22 | 2024-03-13 |  |
-| [Gungunata Hun](https://open.spotify.com/track/6i1fue7mLghCZ5DhrqSkIe) | [Prateek Gandhi](https://open.spotify.com/artist/1QH7G1DjLYaY5EvqO1PA6w) | [Gungunata Hun](https://open.spotify.com/album/0aWwvDpUI7QDg522KChgu1) | 2:41 | 2024-08-08 |  |
+| [Gungunata Hun](https://open.spotify.com/track/6i1fue7mLghCZ5DhrqSkIe) | [Prateek Gandhi](https://open.spotify.com/artist/1QH7G1DjLYaY5EvqO1PA6w) | [Gungunata Hun](https://open.spotify.com/album/0aWwvDpUI7QDg522KChgu1) | 2:41 | 2024-08-08 | 2024-09-13 |
 | [Ha Bas Tu](https://open.spotify.com/track/2xissAdak6viTlc3dUxKVS) | [Naman Goswami](https://open.spotify.com/artist/07HSVaNPl7nncH7T2yjKNi) | [Ha Bas Tu](https://open.spotify.com/album/7dAis6NusWiJzXuRWUviXS) | 4:22 | 2023-10-09 | 2023-11-30 |
 | [Hai Pyaar \(Acoustic Version\)](https://open.spotify.com/track/2pcKIrfRJKtjndtEK0danK) | [Nesz](https://open.spotify.com/artist/2G3O79IP2hfuZjJ7RyjZWj), [Swasti Nagar](https://open.spotify.com/artist/3IXozjWpOcyeWvfzndjwA4) | [Hai Pyaar \(Acoustic Version\)](https://open.spotify.com/album/677qn7ZPFnweVzenu7lboo) | 2:37 | 2023-05-17 | 2023-06-03 |
 | [Haq Hai Tujhe](https://open.spotify.com/track/0QeX9QuEdqUlC767B1DPul) | [Krsna Solo](https://open.spotify.com/artist/1fn1zda146dVI8wNdqi9l6), [Prabhjee Kaur](https://open.spotify.com/artist/4eCQSJiqQytxz4IJx0I7Bt) | [Haq Hai Tujhe](https://open.spotify.com/album/1GlOG03Zy4icRF2rxMA0GK) | 3:50 | 2024-03-22 | 2024-04-24 |

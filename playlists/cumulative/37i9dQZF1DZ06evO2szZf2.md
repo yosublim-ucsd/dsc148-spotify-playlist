@@ -2,7 +2,7 @@
 
 ### [This Is Mc Dricka](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2szZf2)
 
-> This is Mc Dricka\. En önemli parçalar, hepsi tek bir çalma listesinde.
+> This is Mc Dricka\. Todos os maiores hits em uma só playlist.
 
 94 songs - 5 hr 42 min
 

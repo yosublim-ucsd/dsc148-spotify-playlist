@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: La Polla Records.",
-  "num_followers": 106821,
+  "num_followers": 106843,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2024-09-09 10:56:10",
       "album": {
-        "name": "La Nueva Mayor\u00eda",
-        "url": "https://open.spotify.com/album/3A4b3Kd8gotRiLHLWbGtpr"
-      },
-      "artists": [
-        {
-          "name": "Manolo Kabezabolo",
-          "url": "https://open.spotify.com/artist/0mCVBnmmGLp7tjBR4J8Q3M"
-        }
-      ],
-      "duration_ms": 88386,
-      "name": "No Komas Keso en Exzeso",
-      "url": "https://open.spotify.com/track/18fkVDXRuHvCYN7yZS6H74"
-    },
-    {
-      "added_at": "2024-09-09 10:56:10",
-      "album": {
         "name": "Ay De Mi!",
         "url": "https://open.spotify.com/album/1d2EOTftTxtZakbykswm5E"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 198135,
       "name": "Tus Bragas",
       "url": "https://open.spotify.com/track/1Hh6pSlEbOSNZJYbHJBIXi"
+    },
+    {
+      "added_at": "2024-09-09 10:56:10",
+      "album": {
+        "name": "La Nueva Mayor\u00eda",
+        "url": "https://open.spotify.com/album/3A4b3Kd8gotRiLHLWbGtpr"
+      },
+      "artists": [
+        {
+          "name": "Manolo Kabezabolo",
+          "url": "https://open.spotify.com/artist/0mCVBnmmGLp7tjBR4J8Q3M"
+        }
+      ],
+      "duration_ms": 88386,
+      "name": "No Komas Keso en Exzeso",
+      "url": "https://open.spotify.com/track/18fkVDXRuHvCYN7yZS6H74"
     },
     {
       "added_at": "2024-09-09 10:56:10",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-09-09 10:56:10",
       "album": {
-        "name": "El Caso del Hombre Serio y Formal",
-        "url": "https://open.spotify.com/album/2ZRETKUQnO5xNj6WX0mKpq"
-      },
-      "artists": [
-        {
-          "name": "Generador",
-          "url": "https://open.spotify.com/artist/1tPQFhoZp0ZlULtuqNyGdm"
-        }
-      ],
-      "duration_ms": 190028,
-      "name": "El Caso del Hombre Serio y Formal",
-      "url": "https://open.spotify.com/track/4jSaHLFYNSAxgG4UY5swEe"
-    },
-    {
-      "added_at": "2024-09-09 10:56:10",
-      "album": {
         "name": "S\u00edganle compadres",
         "url": "https://open.spotify.com/album/1AoAcFTJMxJSjxnXAecHZG"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 127500,
       "name": "No es la primera vez que pasa",
       "url": "https://open.spotify.com/track/4IEUNHdJ55wvFkpfRpIdbs"
+    },
+    {
+      "added_at": "2024-09-09 10:56:10",
+      "album": {
+        "name": "El Caso del Hombre Serio y Formal",
+        "url": "https://open.spotify.com/album/2ZRETKUQnO5xNj6WX0mKpq"
+      },
+      "artists": [
+        {
+          "name": "Generador",
+          "url": "https://open.spotify.com/artist/1tPQFhoZp0ZlULtuqNyGdm"
+        }
+      ],
+      "duration_ms": 190028,
+      "name": "El Caso del Hombre Serio y Formal",
+      "url": "https://open.spotify.com/track/4jSaHLFYNSAxgG4UY5swEe"
     },
     {
       "added_at": "2024-09-09 10:56:10",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-09-09 10:56:10",
       "album": {
-        "name": "ANIMAL",
-        "url": "https://open.spotify.com/album/2ZQYiL82PqyExXwM8W7v9w"
-      },
-      "artists": [
-        {
-          "name": "Demenzia Sozial",
-          "url": "https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O"
-        }
-      ],
-      "duration_ms": 292538,
-      "name": "ANIMAL",
-      "url": "https://open.spotify.com/track/4bVlOjibXi9XLYHZCYz9Oh"
-    },
-    {
-      "added_at": "2024-09-09 10:56:10",
-      "album": {
         "name": "Esto Es un Atraco",
         "url": "https://open.spotify.com/album/6qrOJ9gopojGNYlYBQWZ7Q"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 176000,
       "name": "Esto Es un Atraco",
       "url": "https://open.spotify.com/track/3N8PAev6WMEWX1Qc4rV3hl"
+    },
+    {
+      "added_at": "2024-09-09 10:56:10",
+      "album": {
+        "name": "ANIMAL",
+        "url": "https://open.spotify.com/album/2ZQYiL82PqyExXwM8W7v9w"
+      },
+      "artists": [
+        {
+          "name": "Demenzia Sozial",
+          "url": "https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O"
+        }
+      ],
+      "duration_ms": 292538,
+      "name": "ANIMAL",
+      "url": "https://open.spotify.com/track/4bVlOjibXi9XLYHZCYz9Oh"
     },
     {
       "added_at": "2024-09-09 10:56:10",
@@ -1383,18 +1383,22 @@
     {
       "added_at": "2024-09-09 10:56:10",
       "album": {
-        "name": "Y el Que Sea Feo Que Haga los Recaos de Noche",
-        "url": "https://open.spotify.com/album/5I2wNu3nGj7oHCIFtH1Yne"
+        "name": "Mundo Muerto",
+        "url": "https://open.spotify.com/album/6zyik6tAV3g4jMLeJU8Tei"
       },
       "artists": [
         {
-          "name": "Bellotaris Fallecidos",
-          "url": "https://open.spotify.com/artist/7witIEaYssgO9srRY85ZLl"
+          "name": "Akritud",
+          "url": "https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX"
+        },
+        {
+          "name": "EtsaiakEroak",
+          "url": "https://open.spotify.com/artist/0xmpnK00j3aUbhdXqkX7j6"
         }
       ],
-      "duration_ms": 96666,
-      "name": "Vpo",
-      "url": "https://open.spotify.com/track/3Eo8g7AdbPGmODRv3yZidD"
+      "duration_ms": 157482,
+      "name": "Mundo Muerto",
+      "url": "https://open.spotify.com/track/1QiX7ZF1DC00p3443jzII1"
     },
     {
       "added_at": "2024-09-09 10:56:10",
@@ -1419,22 +1423,18 @@
     {
       "added_at": "2024-09-09 10:56:10",
       "album": {
-        "name": "Mundo Muerto",
-        "url": "https://open.spotify.com/album/6zyik6tAV3g4jMLeJU8Tei"
+        "name": "Y el Que Sea Feo Que Haga los Recaos de Noche",
+        "url": "https://open.spotify.com/album/5I2wNu3nGj7oHCIFtH1Yne"
       },
       "artists": [
         {
-          "name": "Akritud",
-          "url": "https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX"
-        },
-        {
-          "name": "EtsaiakEroak",
-          "url": "https://open.spotify.com/artist/0xmpnK00j3aUbhdXqkX7j6"
+          "name": "Bellotaris Fallecidos",
+          "url": "https://open.spotify.com/artist/7witIEaYssgO9srRY85ZLl"
         }
       ],
-      "duration_ms": 157482,
-      "name": "Mundo Muerto",
-      "url": "https://open.spotify.com/track/1QiX7ZF1DC00p3443jzII1"
+      "duration_ms": 96666,
+      "name": "Vpo",
+      "url": "https://open.spotify.com/track/3Eo8g7AdbPGmODRv3yZidD"
     },
     {
       "added_at": "2024-09-09 10:56:10",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-09-09 10:56:10",
       "album": {
-        "name": "Lev\u00e1ntate",
-        "url": "https://open.spotify.com/album/2guNq5RrYZ1pYEpcCYD4M5"
-      },
-      "artists": [
-        {
-          "name": "Demenzia Sozial",
-          "url": "https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O"
-        }
-      ],
-      "duration_ms": 232307,
-      "name": "Lev\u00e1ntate",
-      "url": "https://open.spotify.com/track/15q28HNmhNYk55EdSh55NV"
-    },
-    {
-      "added_at": "2024-09-09 10:56:10",
-      "album": {
         "name": "Humanos",
         "url": "https://open.spotify.com/album/1HWIcVUKJkWpZ5IF2RsRzy"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 151134,
       "name": "Humanos",
       "url": "https://open.spotify.com/track/0JVOmtC52642nz9zGvIPyY"
+    },
+    {
+      "added_at": "2024-09-09 10:56:10",
+      "album": {
+        "name": "Lev\u00e1ntate",
+        "url": "https://open.spotify.com/album/2guNq5RrYZ1pYEpcCYD4M5"
+      },
+      "artists": [
+        {
+          "name": "Demenzia Sozial",
+          "url": "https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O"
+        }
+      ],
+      "duration_ms": 232307,
+      "name": "Lev\u00e1ntate",
+      "url": "https://open.spotify.com/track/15q28HNmhNYk55EdSh55NV"
     },
     {
       "added_at": "2024-09-09 10:56:10",

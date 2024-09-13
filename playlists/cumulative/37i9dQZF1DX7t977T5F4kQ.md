@@ -2,9 +2,9 @@
 
 ### [Ghana Party](https://open.spotify.com/playlist/37i9dQZF1DX7t977T5F4kQ)
 
-> The hottest hip\-life and highlife bangers from Ghana right now\.  Cover: Ayisi
+> The hottest hip\-life and highlife bangers from Ghana right now\.  Cover: Fameye
 
-403 songs - 21 hr 8 min
+405 songs - 21 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [Limit](https://open.spotify.com/track/2IMHlTEhKOKDm33U6fD7yB) | [The Continent\. Live](https://open.spotify.com/artist/3kLjyGr4QxbGCZisf1qfvc), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [Dove Nicol](https://open.spotify.com/artist/4EivwNwx6JdqaTRF9yT89Q) | [The Continent Live: First Class Vol\. 1](https://open.spotify.com/album/04XOyfHHNmpBJNmS3p3TrD) | 2:45 | 2024-03-15 | 2024-06-01 |
 | [Lit](https://open.spotify.com/track/6pEWLO7rqNC2LgqHk2gbCY) | [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac), [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [Toopeezy](https://open.spotify.com/album/0x4lI6G2ZOBjO3a1GkMFfF) | 3:14 | 2024-05-24 | 2024-08-02 |
 | [Lomo Lomo](https://open.spotify.com/track/12jJRu9yInIX7oTxoXtM0S) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Lomo Lomo](https://open.spotify.com/album/4MTFOFZPAkcVKhnk76J6EK) | 2:55 | 2024-08-02 |  |
+| [Love Or Money](https://open.spotify.com/track/4trjuu29tp3KzJg8M5YYp5) | [Lord Paper](https://open.spotify.com/artist/0PYZYiwCRGI69v56iyfzgb), [Ablekuma Nana Lace](https://open.spotify.com/artist/1q0Ivytvk3QtPjXBDOMNRw) | [Love Or Money](https://open.spotify.com/album/2ImyuAvmH5SUCyHnaDxl1Y) | 2:03 | 2024-09-13 |  |
 | [Lowkey](https://open.spotify.com/track/35rjIaj1FibJnFFz0YJWnQ) | [Dayonthetrack](https://open.spotify.com/artist/7vsaQwuPAG2PSWPVitnXrc), [Malcolm Nuna](https://open.spotify.com/artist/5MMirduKxjz3OQSLiQfBcT) | [Lowkey](https://open.spotify.com/album/15s7cPQMJh3OHcbjgxXhpp) | 3:16 | 2023-12-01 | 2023-12-08 |
 | [Magic \(with Slim Kofi\)](https://open.spotify.com/track/1uvVtqWFD5ur2A45zo9FRm) | [Wiz Ofuasia](https://open.spotify.com/artist/0sRlnqmmepk0FBxtULhUrn), [Slim Kofi](https://open.spotify.com/artist/5pHHQo1zsnAkbnIhEKuMU6) | [Magic \(with Slim Kofi\)](https://open.spotify.com/album/3mHNVPpAT202YZuT0nxNaD) | 3:09 | 2023-04-14 | 2023-04-21 |
 | [Make a Way](https://open.spotify.com/track/6KCczXRB9QHnBgCW99N2uI) | [Larruso](https://open.spotify.com/artist/57oThb5OUWumUvGOib8OUS) | [Sounds from the Slums](https://open.spotify.com/album/1xLyVixg49I9c99vL3CNgu) | 2:52 | 2022-11-04 | 2023-02-10 |
@@ -268,7 +269,7 @@
 | [Obiaa](https://open.spotify.com/track/6kvbug8brYmrPrdoE0QkW1) | [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y), [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO) | [Obiaa](https://open.spotify.com/album/3CoATpvAsRF3nbENgCRVr0) | 4:15 | 2024-06-21 |  |
 | [Obrempong](https://open.spotify.com/track/6vk0AipLoEac7RZIWkW4ZV) | [Lord Paper](https://open.spotify.com/artist/0PYZYiwCRGI69v56iyfzgb) | [Obrempong](https://open.spotify.com/album/1Ha74jk2foDfMrWRVzKAHP) | 3:16 | 2024-03-29 | 2024-04-19 |
 | [OCEAN \(feat\. Ashley Marie\)](https://open.spotify.com/track/28DOtsosQpLafMDvodwU3i) | [KWAMZ](https://open.spotify.com/artist/3xBE0TlbZwkC5tv0pooF58), [Ashley Marie](https://open.spotify.com/artist/4ydpkfKuLSsQSnIpQM8N4C) | [OCEAN \(feat\. Ashley Marie\)](https://open.spotify.com/album/5uQd6dUOcHJQHa78H0zQzw) | 2:44 | 2024-04-26 | 2024-07-27 |
-| [Odo Aduane](https://open.spotify.com/track/1TvtubWwwJKwTu6dnwkqfB) | [Pure Akan](https://open.spotify.com/artist/7gokJukppUKeH1t6RBiclx) | [Odo Aduane](https://open.spotify.com/album/6hGinduqEgrBCJCLjEVBj5) | 2:58 | 2024-03-15 | 2024-03-29 |
+| [Odo Aduane](https://open.spotify.com/track/1TvtubWwwJKwTu6dnwkqfB) | [Pure Akan](https://open.spotify.com/artist/7gokJukppUKeH1t6RBiclx) | [Odo Aduane](https://open.spotify.com/album/6hGinduqEgrBCJCLjEVBj5) | 2:58 | 2024-03-15 |  |
 | [Odo Bi](https://open.spotify.com/track/5vGmaVJOOzntsf8KFFI6wf) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Epistles of Mama](https://open.spotify.com/album/7nnkIiGBMhqnTqwEEqvTrr) | 3:27 | 2022-11-04 | 2024-01-26 |
 | [Odo Bi Ye Bad](https://open.spotify.com/track/0vKCeI0yetwp5BfBNihg3o) | [Rap Fada](https://open.spotify.com/artist/2B2GXzW2b4x6pohKQ5C40a), [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [Odo Bi Ye Bad](https://open.spotify.com/album/2thtAFmA3VQWLZfuMi3LbV) | 3:56 | 2024-02-09 |  |
 | [Odo Dede](https://open.spotify.com/track/5JB0EcpkbUsyaU9EvzK3bw) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [L.I.T.A \(Deluxe Edition\)](https://open.spotify.com/album/3eSs5S46FxMXHK3bTaTeD1) | 3:56 | 2023-06-22 | 2023-09-09 |
@@ -374,6 +375,7 @@
 | [Unfortunately](https://open.spotify.com/track/6vvZsgPWTtMqfCPPwz2fDP) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [PALMWINE DIARIES VOL.1](https://open.spotify.com/album/4ehet3qgwyHG62UNZpgD5N) | 4:00 | 2023-09-14 | 2024-06-01 |
 | [Vacation](https://open.spotify.com/track/6f5EzS0nN8J68LjqM5yIiE) | [Boijake](https://open.spotify.com/artist/7JwNO91xnzO8mqTn1LYS9h) | [Confetti \(EP\)](https://open.spotify.com/album/5dyccxpFr0zuazUQoF7haw) | 2:28 | 2023-11-24 | 2023-12-02 |
 | [Vero](https://open.spotify.com/track/0yjxAenLJwPCCcn19XSYG3) | [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [Vero](https://open.spotify.com/album/7fshzXhS2s2VwC9bvzBFiC) | 2:04 | 2023-06-16 | 2024-06-28 |
+| [Very Soon](https://open.spotify.com/track/1tBfoI9tFVl8ampIRG4eTr) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Very Soon](https://open.spotify.com/album/42R7w5OImRPdU3Ex59eXd2) | 3:09 | 2024-09-13 |  |
 | [Vibrate](https://open.spotify.com/track/4HThzBtkiSPncs7d3kEnTp) | [Lynx](https://open.spotify.com/artist/2CRAIABBJmFohN8CgSyWp2), [DSL](https://open.spotify.com/artist/0VmssGpE5BEED12qn6DJt5), [Maya Blu](https://open.spotify.com/artist/3CppyKARAo3Uldd5ZA04ye) | [Coming Soon](https://open.spotify.com/album/3F2XTxYypkPziaKfYcL0he) | 2:21 | 2023-01-27 | 2023-04-28 |
 | [Vibration](https://open.spotify.com/track/7cZMAQzCnnewnXTYJbajGf) | [Sefa](https://open.spotify.com/artist/5yT8WK3cattPDWL3pzu8AI), [Meiway](https://open.spotify.com/artist/1Vgb3eqBF3DLP6FwY7MuB4) | [Vibration](https://open.spotify.com/album/0pjLALGcQpXH48XPup5kYP) | 3:17 | 2023-09-21 | 2023-11-24 |
 | [Visa \- Remix](https://open.spotify.com/track/0rqehslH5lxoIk6Qp2SSuS) | [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Visa \(Remix\)](https://open.spotify.com/album/7wAkKu2efCLuMsZA6tf5p6) | 4:02 | 2022-11-04 | 2023-01-28 |

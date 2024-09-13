@@ -1066,7 +1066,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 159562,
       "name": "Endless Sky",
       "url": "https://open.spotify.com/track/6yx9SdXE5O69efsGQqNiLp"
@@ -1186,6 +1186,28 @@
       "duration_ms": 138846,
       "name": "Figured U Out",
       "url": "https://open.spotify.com/track/3pGW7CYHTKKFnra9dWnyHw"
+    },
+    {
+      "album": {
+        "name": "Firestarter",
+        "url": "https://open.spotify.com/album/6IDyDOPO6hJIe5l2zZXe7h"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184290,
+      "name": "Firestarter",
+      "url": "https://open.spotify.com/track/40zrIbnQI3a3JRUvlKqoHT"
     },
     {
       "album": {
@@ -1736,7 +1758,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 269067,
       "name": "Is What It Is",
       "url": "https://open.spotify.com/track/1FjWbDfXu195TRmMxXZi99"
@@ -1874,7 +1896,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 244680,
       "name": "Lean On U",
       "url": "https://open.spotify.com/track/26L3AY8of95gl70zbMS47C"
@@ -2166,6 +2188,10 @@
         {
           "name": "Hyan",
           "url": "https://open.spotify.com/artist/6vuDNxdLvvXkOoAL9rZJBU"
+        },
+        {
+          "name": "rede.",
+          "url": "https://open.spotify.com/artist/1YZwoutBQnxaznZsPcTonZ"
         }
       ],
       "date_added": "2024-09-05",
@@ -2614,6 +2640,28 @@
       "duration_ms": 154074,
       "name": "One To Leave",
       "url": "https://open.spotify.com/track/5TStZRNSWIbAfqkXJkTFi6"
+    },
+    {
+      "album": {
+        "name": "Ooh",
+        "url": "https://open.spotify.com/album/14OnuCvu5a5GWrXurrCgjV"
+      },
+      "artists": [
+        {
+          "name": "Dan be",
+          "url": "https://open.spotify.com/artist/7fLE3YVL4L4KWxAFU0EyGL"
+        },
+        {
+          "name": "Alex Bone",
+          "url": "https://open.spotify.com/artist/2iL6iQOjN0zrskyJHksaEJ"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192724,
+      "name": "Ooh",
+      "url": "https://open.spotify.com/track/6Sa9DuLZEgeyXRCRs2oTbW"
     },
     {
       "album": {
@@ -3480,7 +3528,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-08",
+      "date_removed": null,
       "duration_ms": 265454,
       "name": "The Streets",
       "url": "https://open.spotify.com/track/1Znm2edTuEhuuvaGtOPksn"
@@ -3506,7 +3554,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 200106,
       "name": "The Way Things Were - Joe Hertz Remix",
       "url": "https://open.spotify.com/track/4F53yuj2CawwIGo0D2gDj8"
@@ -3848,7 +3896,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-11",
+      "date_removed": null,
       "duration_ms": 178000,
       "name": "Wild - bullet tooth Remix",
       "url": "https://open.spotify.com/track/69fKLi2YhI5C6MmFQegAwE"

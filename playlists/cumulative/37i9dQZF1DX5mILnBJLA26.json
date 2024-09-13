@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover:  <a href=\"https://open.spotify.com/artist/7xDh9xWg5mER07kIArgw1G?si=D242H4dQQ2ejRjapro1ZjQ\">Cooper SA</a>",
+  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover:  <a href=\"https://open.spotify.com/artist/3fdFRgy3GmfiWQqeKbmFS8?si=4t4Wq6FTQHS-AAIj3gsxPw\">Mas Musiq </a>",
   "name": "AMAPIANO GROOVES",
   "tracks": [
     {
@@ -630,7 +630,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 412035,
       "name": "Abantu",
       "url": "https://open.spotify.com/track/3e15GNIqY3yr238yECUb7e"
@@ -1414,6 +1414,44 @@
       "duration_ms": 270194,
       "name": "Amakhamandela - Radio-Edit",
       "url": "https://open.spotify.com/track/6HnjB2NnimZnQRumWzLd2Y"
+    },
+    {
+      "album": {
+        "name": "Lane Yam",
+        "url": "https://open.spotify.com/album/28AZxEOZc6Tk7nAzecfuaY"
+      },
+      "artists": [
+        {
+          "name": "Mas Musiq",
+          "url": "https://open.spotify.com/artist/3fdFRgy3GmfiWQqeKbmFS8"
+        },
+        {
+          "name": "Lawd Weezy",
+          "url": "https://open.spotify.com/artist/5DrdfQwRGTeV7erKmKVZ6i"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "TO Starquality",
+          "url": "https://open.spotify.com/artist/34RwSIfWKAwRdIq6cdYnZv"
+        },
+        {
+          "name": "Chley",
+          "url": "https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N"
+        },
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385747,
+      "name": "Amalanga (feat. TO Starquality, Chley & Kabza De Small)",
+      "url": "https://open.spotify.com/track/0nW9PrcihaknNnldmEx08O"
     },
     {
       "album": {
@@ -2982,7 +3020,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 409717,
       "name": "Bad Romance (feat. KMAT & Tango Supreme)",
       "url": "https://open.spotify.com/track/5Scl2X5AJSC95Pfsh2FWGY"
@@ -4528,6 +4566,36 @@
       "duration_ms": 327079,
       "name": "Big Flexa",
       "url": "https://open.spotify.com/track/16vqEDaCZpq5zdgop8U9uM"
+    },
+    {
+      "album": {
+        "name": "BIG FUN - THUTO THE HUMAN & 2WOBUNNIES VS INNER CITY (FEAT. JAY MUSIC)",
+        "url": "https://open.spotify.com/album/68DnMLu8TDXG6RwZ1AzfeK"
+      },
+      "artists": [
+        {
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+        },
+        {
+          "name": "Thuto The Human",
+          "url": "https://open.spotify.com/artist/5gAHEecJcLAR9qtLcaiVfj"
+        },
+        {
+          "name": "2woBunnies",
+          "url": "https://open.spotify.com/artist/45c90J0Hvj1PMIFtm0b1ML"
+        },
+        {
+          "name": "Jay Music",
+          "url": "https://open.spotify.com/artist/7AE6YSdoxlOzzW4kaYcNdi"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429026,
+      "name": "BIG FUN - THUTO THE HUMAN & 2WOBUNNIES VS INNER CITY (FEAT. JAY MUSIC)",
+      "url": "https://open.spotify.com/track/3JlIWcL8I4XISGbkkVYhvV"
     },
     {
       "album": {
@@ -11768,7 +11836,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 351200,
       "name": "Imithandazo (feat. Young Stunna, DJ Maphorisa, Sizwe Alakine & Umthakathi Kush)",
       "url": "https://open.spotify.com/track/6Kijtp0DB6VwcoJIw7PJ9W"
@@ -12176,7 +12244,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 493064,
       "name": "Imvelaphi (feat. Nia Pearl, Mzizi & Stixx)",
       "url": "https://open.spotify.com/track/769gyteNN9HweXstCr4YgB"
@@ -15794,6 +15862,40 @@
       "duration_ms": 342968,
       "name": "Krueger 2.0",
       "url": "https://open.spotify.com/track/5WqHutOc180qYRh2J97LB7"
+    },
+    {
+      "album": {
+        "name": "Kshubile (feat. Scotts Maphuma & GoodGuy Styles)",
+        "url": "https://open.spotify.com/album/51xo4KX2uPZaNEW3XVKAtr"
+      },
+      "artists": [
+        {
+          "name": "Novatron",
+          "url": "https://open.spotify.com/artist/5rnKcmn5XTpbD9OPEsrV1s"
+        },
+        {
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        },
+        {
+          "name": "Dj 787",
+          "url": "https://open.spotify.com/artist/15IwCeZrdNxjSlaGHkyVwz"
+        },
+        {
+          "name": "Scotts Maphuma",
+          "url": "https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS"
+        },
+        {
+          "name": "GoodGuy Styles",
+          "url": "https://open.spotify.com/artist/5WDJlVFkmrfuBA5r1uZz8u"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414827,
+      "name": "Kshubile (feat. Scotts Maphuma & GoodGuy Styles)",
+      "url": "https://open.spotify.com/track/58jEBxX0Vu6tloAxdOt07H"
     },
     {
       "album": {
@@ -23790,6 +23892,32 @@
       "duration_ms": 350818,
       "name": "Rekere 4 (Reloaded) (feat. DJ Maphorisa)",
       "url": "https://open.spotify.com/track/3YIiUgzweY28enRsqSLDAo"
+    },
+    {
+      "album": {
+        "name": "The EEQualizer",
+        "url": "https://open.spotify.com/album/59OalmK2yPw6B6PLgQdW3U"
+      },
+      "artists": [
+        {
+          "name": "EeQue",
+          "url": "https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft"
+        },
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        },
+        {
+          "name": "Certified Dyan",
+          "url": "https://open.spotify.com/artist/5lD4Tgz3swAAOiKq5F5f9Q"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361116,
+      "name": "Rekisa Kapela (feat. Certified Dyan)",
+      "url": "https://open.spotify.com/track/2R9umN6jc2EoVlIEegbWOT"
     },
     {
       "album": {

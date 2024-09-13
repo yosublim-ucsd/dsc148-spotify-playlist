@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: "<a href=https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa?si=NX6XK91qTCiwIn6fh8Xx\_Q>Spirit of Praise</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,637 likes - 100 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,646 likes - 100 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 28 | [No Greater Love](https://open.spotify.com/track/37raeQxIZHQOG4rQOJPbB8) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Young & Chosen](https://open.spotify.com/album/6brEcgs4ErYAGL7PxpxBF7) | 3:40 |
 | 29 | [SOLITUDE \(in Abba\)](https://open.spotify.com/track/7kHpnNOl6L2fAYZzDxidwr) | [Kushim](https://open.spotify.com/artist/7ySTyvAPMU1SaCLo7fRvHX) | [SOLITUDE \(in Abba\)](https://open.spotify.com/album/75Yt6Mwc8auTIILmu04nQD) | 2:15 |
 | 30 | [Never Far Away](https://open.spotify.com/track/3OHnlR0u3ciN0KvKzUJHcE) | [Quiz Tha Great](https://open.spotify.com/artist/7nFhhSgJh6V2fvLGByut8v), [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21) | [Never Far Away](https://open.spotify.com/album/1ShgCyXzClfNFfqsJz3a5s) | 2:40 |
-| 31 | [Friend](https://open.spotify.com/track/6wnthW5cTPk69iw61WTOXc) | [Olabayo](https://open.spotify.com/artist/5fwsRZi2lECkP2rqK74aaC), [MC Jamil](https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc) | [Friend](https://open.spotify.com/album/2670p85fk1KGgOU5IYP0wb) | 2:58 |
+| 31 | [Friend](https://open.spotify.com/track/6wnthW5cTPk69iw61WTOXc) | [Olabayo](https://open.spotify.com/artist/5fwsRZi2lECkP2rqK74aaC), [Mc Jamil](https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc) | [Friend](https://open.spotify.com/album/2670p85fk1KGgOU5IYP0wb) | 2:58 |
 | 32 | [Break forth \(Isaiah 54:1\-4\) \- Live From The Song Of Sons Project](https://open.spotify.com/track/412oQBTiuIDTCDLuVALKXx) | [David Nkennor](https://open.spotify.com/artist/4IunI41jLkKQaKyb3dYESN) | [Break forth \(Isaiah 54:1\-4\) \- Live From The Song Of Sons Project](https://open.spotify.com/album/6MFNHyKp4ABkLOfzXdpAu9) | 12:24 |
 | 33 | [WHY ME 2](https://open.spotify.com/track/6u1bBYwqCv3nsNcJ2RLn8I) | [Realist Kingsolo](https://open.spotify.com/artist/5NA7wzrYFKmxYrv0GFOSyS), [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG) | [WHY ME 2](https://open.spotify.com/album/2gXbStMiGIL8sOtkeFMzIP) | 3:06 |
 | 34 | [HolyGhost Chant](https://open.spotify.com/track/1LOl3TsI8vXbxM6jQxYacc) | [Thepeterjacobs](https://open.spotify.com/artist/30ikjsa4ad1hwe7NJsfh8Z) | [HolyGhost Chant](https://open.spotify.com/album/1WuVqRsh171PNAtqac99v4) | 9:20 |

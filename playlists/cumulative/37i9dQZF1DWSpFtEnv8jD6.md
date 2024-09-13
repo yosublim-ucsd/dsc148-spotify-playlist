@@ -4,7 +4,7 @@
 
 > Oficjalna playlista Great September Festival\. Posłuchaj wyjątkowych artystów, którzy wystąpią na festiwalu.
 
-206 songs - 12 hr 4 min
+207 songs - 12 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [duch](https://open.spotify.com/track/2fLjvDZMzrwl5CH4JMFVZh) | [Promyki](https://open.spotify.com/artist/4y2gAgEWSOw7AG93lm9dGq) | [duch](https://open.spotify.com/album/6aUd5AD2mwvFyMkwDIqyeK) | 2:19 | 2024-06-19 |  |
 | [Duże Zmiany](https://open.spotify.com/track/4MXgkFce76u0D3VBCONocB) | [Nicole](https://open.spotify.com/artist/0u0v2kVNfDCRjSlND4Od44), [Białas](https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE), [SB Maffija](https://open.spotify.com/artist/0AEQNlJAZeghMaFyIYfrQG), [4Money](https://open.spotify.com/artist/6EjCs0fSiq0HvAbCzIPeq1) | [Duże Zmiany](https://open.spotify.com/album/1VnGFuBjrOdRpe2PZ5Ir8o) | 2:10 | 2024-07-26 |  |
 | [Dym w Obłokach Dymu](https://open.spotify.com/track/7AFTBdE3tgu2H7ZLDxadBy) | [Brudne Place Zabaw](https://open.spotify.com/artist/6Xh0VCAMugf5BOvJDUwSwk) | [Dym w Obłokach Dymu](https://open.spotify.com/album/1zZq1lPgCYeOgRMsOcz73Y) | 3:25 | 2024-07-26 |  |
+| [Dziewczyny](https://open.spotify.com/track/2qXsqVjkvNCHVylWgEJZn8) | [Sujka](https://open.spotify.com/artist/7choVylUIeNr4nUVApiUEC) | [Dziewczyny](https://open.spotify.com/album/3GjljfkYbvQvItuPYrDf85) | 3:26 | 2024-09-12 |  |
 | [dzwony](https://open.spotify.com/track/4EZy3rmXWLoI1lKb6MDMHw) | [Coals](https://open.spotify.com/artist/6epDO0nPVXpbXBUt4Otiik) | [Sanatorium](https://open.spotify.com/album/2fyAniBCpsGLEMTiQKM9CA) | 3:56 | 2024-06-19 |  |
 | [EJ DI EJCZ DI](https://open.spotify.com/track/15kM7XxtDju9m372sMn2un) | [YANN](https://open.spotify.com/artist/7rVhk45gzjlzkf1XOIWlfp), [Zdechły Osa](https://open.spotify.com/artist/509dS4Q0EfUQuG7KvaSsiz), [Aetherboy1](https://open.spotify.com/artist/2t0mfLjdNwJlV4U1maiSta) | [EJ DI EJCZ DI](https://open.spotify.com/album/2X0CJ8o5zMNfTc23nrjNpk) | 3:16 | 2024-06-19 |  |
 | [Elvis](https://open.spotify.com/track/5071R8Z801jQXjviaoYJ8c) | [Zuta](https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui) | [Wszystko ja\. Wszystko my.](https://open.spotify.com/album/7E4Gy6HMKLpOCB27lkoGRu) | 2:54 | 2024-06-19 |  |

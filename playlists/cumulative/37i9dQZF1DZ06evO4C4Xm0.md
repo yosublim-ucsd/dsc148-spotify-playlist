@@ -2,7 +2,7 @@
 
 ### [This Is Brian Eno](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4C4Xm0)
 
-> This is Brian Eno\. The essential tracks, all in one playlist.
+> This Is Brian Eno\. Los temas esenciales, todos en una lista.
 
 168 songs - 13 hr 4 min
 
@@ -47,7 +47,7 @@
 | [Complex Heaven](https://open.spotify.com/track/5EhvDAos2Ppf82XN5EV60u) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Leo Abrahams](https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd) | [Small Craft On A Milk Sea](https://open.spotify.com/album/47e7SP8MtzYKK8Lm3gEK2i) | 3:05 | 2022-05-29 | 2022-10-22 |
 | [Cutting Room I](https://open.spotify.com/track/6iQWxbUdH7SUrEOLwD45b6) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Cutting Room I \(from the Netflix Series "Top Boy"\)](https://open.spotify.com/album/5VWzOEbQh7HL8HolYLWyFi) | 2:18 | 2023-08-19 | 2023-09-22 |
 | [Dead Finks Don't Talk \- 2004 Digital Remaster](https://open.spotify.com/track/2asnQKwHCVy0FT96Jw5H2x) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Here Come The Warm Jets](https://open.spotify.com/album/74jn28Kr29iyh8eZXSvnwi) | 4:19 | 2022-08-04 | 2022-08-26 |
-| [Deep Blue Day \- Remastered 2005](https://open.spotify.com/track/50mL6pbI0uI6YX1xbSer7g) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 3:58 | 2022-05-29 |  |
+| [Deep Blue Day \- Remastered 2005](https://open.spotify.com/track/50mL6pbI0uI6YX1xbSer7g) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 3:58 | 2022-05-29 | 2024-09-13 |
 | [Delta Rain Dream](https://open.spotify.com/track/1mMMpiuaPQe9I6RIqtFWql) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Fourth World Vol 1 Possible Musics](https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9) | 3:29 | 2022-05-30 | 2022-09-25 |
 | [Discreet Music \- Edit](https://open.spotify.com/track/5CzwXEgVrNbMEUTpHuFwAa) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Eno: Soft Edges](https://open.spotify.com/album/79Y0yXjDGSMvMlALXmqUjk) | 3:50 | 2024-08-09 | 2024-08-27 |
 | [Discreet Music \- Remastered 2004](https://open.spotify.com/track/69eD0IfAqEIUnKX63Npksy) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Discreet Music](https://open.spotify.com/album/7b67MKOwyj7mIcEVnoJSOG) | 31:34 | 2022-05-29 | 2022-10-13 |
@@ -166,7 +166,7 @@
 | [Verdigris](https://open.spotify.com/track/6VSIleZcNhbmW03rAheUWp) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Mixing Colours](https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf) | 4:03 | 2022-05-30 | 2024-07-22 |
 | [We Let It In](https://open.spotify.com/track/4GM08ICJRy8IoCN92CzvAj) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE](https://open.spotify.com/album/0lou4Knn7x6349pOoOolah) | 3:28 | 2022-09-11 | 2022-10-21 |
 | [We Let It In](https://open.spotify.com/track/4yWd80KUbRs8nuv8MocOa5) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE](https://open.spotify.com/album/1fsGRseH9xCUSiO1MDSB7W) | 3:28 | 2022-10-20 | 2023-02-27 |
-| [Weightless \- Remastered 2005](https://open.spotify.com/track/64Rc8eAYEcIVK486usaKtb) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 4:35 | 2022-06-04 | 2024-07-18 |
+| [Weightless \- Remastered 2005](https://open.spotify.com/track/64Rc8eAYEcIVK486usaKtb) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 4:35 | 2022-06-04 |  |
 | [Wein](https://open.spotify.com/track/1cPIOYrTA4oEaZgE77yUko) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Holger Czukay](https://open.spotify.com/artist/58nPlJ5CNYu0nGLOuE1Uuk), [J.Peter Schwalm](https://open.spotify.com/artist/3aBB4DpB9xCQldKQtDy63P) | [Sushi\. Roti\. Reibekuchen](https://open.spotify.com/album/1VYhNbORsuEU7WX7l065R9) | 6:56 | 2024-05-26 | 2024-06-23 |
 | [Who Are We \- Instrumental](https://open.spotify.com/track/54kARxSXsa60wlmmduPzcP) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE \(FOREVER VOICELESS EDITION\)](https://open.spotify.com/album/2McOBODIvLon65xiVcB2gt) | 4:23 | 2023-03-29 | 2023-04-25 |
 | [Who Are We \- Instrumental](https://open.spotify.com/track/69ByRD2q0PQEf5m4KJrg7E) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE \(FOREVER VOICELESS EDITION\)](https://open.spotify.com/album/6IyiPFsPNCbehAh0dFYRJ6) | 4:23 | 2023-04-24 | 2023-04-28 |

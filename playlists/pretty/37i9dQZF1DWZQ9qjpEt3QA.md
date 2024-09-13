@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ9qjpEt3QA.md) - [plain]
 
 > Cruising through a shimmering night with the current City Pop wave from Asia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,399 likes - 99 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,403 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ9qjpEt3QA.md) - [plain]
 | 37 | [MASA MUDA](https://open.spotify.com/track/0eSwUxNz2EFlGC7Wn5Lsra) | [Laura Pradipta](https://open.spotify.com/artist/3DjOjSvtE3thRSMBeBR4kH) | [MASA MUDA](https://open.spotify.com/album/53E46YfYxg4Wbogp1ihzSV) | 4:38 |
 | 38 | [Should I Stay](https://open.spotify.com/track/6F8U9rmgjdcyIgVsqKskXY) | [Vintonic](https://open.spotify.com/artist/656eL5tEeJqWHwvkJn5TIW) | [Should I Stay](https://open.spotify.com/album/1HGeO1IiS121ddQktKXf5H) | 4:28 |
 | 39 | [七夕の夜、君に逢いたい](https://open.spotify.com/track/6I250T7L2iSmpdB41Q1BIo) | [Five Ⅱ Four](https://open.spotify.com/artist/5zFs0F6FatcZAYPlTDitgT), [Natsu Summer](https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD) | [七夕の夜、君に逢いたい](https://open.spotify.com/album/6pTHVdpiYlq1KM67Z6eEXP) | 4:52 |
-| 40 | [ใจเกเร](https://open.spotify.com/track/3oYQXrsOO8I2V7lnrhVQz1) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi) | [เรือนแพ ชุดที่ 6](https://open.spotify.com/album/2I9sAfirDryTyaWzd5iSgy) | 3:48 |
+| 40 | [The less, The best of you](https://open.spotify.com/track/2BzRbLvWjMZy3nT4Cre7ZK) | [Secret Police](https://open.spotify.com/artist/6vuITEnveR3E7vk8pNJoy6) | [The less, The best of you](https://open.spotify.com/album/3jkE4qy8QmzYKqeLAMH2aL) | 3:28 |
 | 41 | [Afterglow](https://open.spotify.com/track/38wNASXJl6tNRoVFpnctt9) | [Oakë](https://open.spotify.com/artist/5FFEE3urupCaWwOzfAfV4I) | [Afterglow](https://open.spotify.com/album/44WOydQRUhz1JihfRZT6Zi) | 3:29 |
 | 42 | [Hello Ocean](https://open.spotify.com/track/31f410ElY7WUXOs51HVtmx) | [Rattana](https://open.spotify.com/artist/3cvn81dfHNBsjPglcn9XeL) | [Hello Ocean](https://open.spotify.com/album/4kl4SGRxJut7Lk069v2DPb) | 4:00 |
 | 43 | [真夜中のドア / STAY WITH ME](https://open.spotify.com/track/7pFNLw96R1V5Yxwu0Pw3ie) | [Rainych](https://open.spotify.com/artist/3dTzeO0QCd86cXSgQ04Y3r) | [真夜中のドア / STAY WITH ME](https://open.spotify.com/album/410VVfLKnd8YjwPRCZi4hI) | 5:11 |
@@ -107,5 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ9qjpEt3QA.md) - [plain]
 | 97 | [โรคแอบชอบ \(Love Fever\)](https://open.spotify.com/track/5iDMOWPzjW8ZgSY5cjqdmM) | [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC) | [โรคแอบชอบ \(Love Fever\)](https://open.spotify.com/album/3zOMdMTh1BYNMigeo4eQP0) | 4:01 |
 | 98 | [LAVLA](https://open.spotify.com/track/0Gt5raD0hne7nc3OhRla5M) | [Kisnue](https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F) | [LAYERS](https://open.spotify.com/album/1RWrXLMPZgZrPOjspFejZk) | 3:58 |
 | 99 | [The One](https://open.spotify.com/track/3ToRoy9OQHoiz662kJvTTu) | [Purples n' Oranges](https://open.spotify.com/artist/2TmqQRA5s51zD2C4zbiqPq) | [The One](https://open.spotify.com/album/1mHIev96eFTEdby7dAoT67) | 5:18 |
+| 100 | [ใจเกเร](https://open.spotify.com/track/3oYQXrsOO8I2V7lnrhVQz1) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi) | [เรือนแพ ชุดที่ 6](https://open.spotify.com/album/2I9sAfirDryTyaWzd5iSgy) | 3:48 |
 
-Snapshot ID: `ZtncyAAAAACR9qzKueU5lgrmbWSYevK1`
+Snapshot ID: `ZuMNYQAAAABbPwJEzGMbunLXPBSUZ7mF`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "The hottest Afropop records on the planet.  Cover: CKay",
+  "description": "The hottest Afropop records on the planet.  Cover: Fireboy DML ",
   "name": "Afropop",
   "tracks": [
     {
@@ -8613,6 +8613,32 @@
     },
     {
       "album": {
+        "name": "PINACOLADA",
+        "url": "https://open.spotify.com/album/1pAYhCfEJa2Nz6zF409RvE"
+      },
+      "artists": [
+        {
+          "name": "Thisizlondon",
+          "url": "https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177847,
+      "name": "PINACOLADA",
+      "url": "https://open.spotify.com/track/1kqBTGpxaC5kGz3rPlr1TF"
+    },
+    {
+      "album": {
         "name": "Playboy",
         "url": "https://open.spotify.com/album/1H60asyrMtrrOlieQIPtrI"
       },
@@ -10194,7 +10220,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 228000,
       "name": "Space (feat. Yumbs)",
       "url": "https://open.spotify.com/track/0Seh9U0NFDWegwzEjfjalQ"
@@ -11030,7 +11056,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 276000,
-      "name": "Typhoon (feat. Sastii, LaCabra, Lowfeye, Blue Papi)",
+      "name": "Typhoon (feat. Sastii, LaCabra, Lowfeye, Blue Pappi)",
       "url": "https://open.spotify.com/track/0tIDIj46MoZhTuU7lPw4qD"
     },
     {

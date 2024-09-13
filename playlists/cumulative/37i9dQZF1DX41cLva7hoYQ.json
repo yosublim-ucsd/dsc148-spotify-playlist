@@ -500,7 +500,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 261269,
       "name": "A Sight for Sore Eyes",
       "url": "https://open.spotify.com/track/35Fa1nwTxHXMJPYcK2mSGI"
@@ -1004,7 +1004,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 185593,
       "name": "Another Day Gone By",
       "url": "https://open.spotify.com/track/5ovqTZt3VA1vVsVDv0ecE7"
@@ -1768,7 +1768,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 221701,
       "name": "Break from rehearsals",
       "url": "https://open.spotify.com/track/1tXQgPnVbEDKT0j3z6xDTK"
@@ -2855,6 +2855,24 @@
     },
     {
       "album": {
+        "name": "Elysian",
+        "url": "https://open.spotify.com/album/33k0AKbjULTjJMRbp5GO5r"
+      },
+      "artists": [
+        {
+          "name": "James Leeluck",
+          "url": "https://open.spotify.com/artist/4ny5CQ4SQz5jW9YKbXJ3sZ"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166452,
+      "name": "Elysian",
+      "url": "https://open.spotify.com/track/3jmeMqkueoi6NrM8BpVJ3x"
+    },
+    {
+      "album": {
         "name": "Emerald Dreamscape",
         "url": "https://open.spotify.com/album/5QKH9vfQVg0WzHc9vZBd6k"
       },
@@ -3496,7 +3514,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 239338,
       "name": "From Now on",
       "url": "https://open.spotify.com/track/6r9szXp7Dsh2leEubi0YLI"
@@ -3658,7 +3676,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 162708,
       "name": "Graceful Rhapsody",
       "url": "https://open.spotify.com/track/3VRTgB7okjGGrRg4pTFC8r"
@@ -3766,7 +3784,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 212110,
       "name": "Heaven here",
       "url": "https://open.spotify.com/track/2J0A1Z7djWS3n0vSiyvgwQ"
@@ -4666,7 +4684,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 206000,
       "name": "If I Ask You Now?",
       "url": "https://open.spotify.com/track/3yyVqUxOKGgH47iUGNEyVB"
@@ -4756,7 +4774,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 151110,
       "name": "Ill Wind",
       "url": "https://open.spotify.com/track/2UnqYqJgyjElVUmX87rbrW"
@@ -5386,7 +5404,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 247269,
       "name": "Lady in the Blue Dress",
       "url": "https://open.spotify.com/track/4PtCTyed2hD6brWYYBZSQj"
@@ -5656,7 +5674,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 273795,
       "name": "Let The Right One In",
       "url": "https://open.spotify.com/track/3KYTL4n5b1RPDa2GURS9HC"
@@ -5800,7 +5818,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 169218,
       "name": "Linda\u00b4s Dream",
       "url": "https://open.spotify.com/track/7fPOS25PJGYmLE1qsVXAdp"
@@ -5908,7 +5926,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 217238,
       "name": "Lonely Dreams",
       "url": "https://open.spotify.com/track/06spmhyDpCb9aWQapTZcxY"
@@ -6592,7 +6610,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 259173,
       "name": "Midnight Serenade",
       "url": "https://open.spotify.com/track/20mQhw06M8Hb6859ZuyLeh"
@@ -6614,6 +6632,24 @@
       "duration_ms": 271277,
       "name": "Miles and Miles",
       "url": "https://open.spotify.com/track/6EjkHR4gYfNQjWwoyiCTbh"
+    },
+    {
+      "album": {
+        "name": "Mind Blowing",
+        "url": "https://open.spotify.com/album/0nGXPUr5zgqDjkk0hn5mfK"
+      },
+      "artists": [
+        {
+          "name": "Frank Guardiola",
+          "url": "https://open.spotify.com/artist/5gcPk6Qs7bOVFQDwH5xRcl"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227124,
+      "name": "Mind Blowing",
+      "url": "https://open.spotify.com/track/6akKHUQ9cC4OY7dKQSCrr2"
     },
     {
       "album": {
@@ -6844,7 +6880,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 209425,
       "name": "Moonlit Melodies",
       "url": "https://open.spotify.com/track/5JmSLtYVgrQoP06w7sPy3j"
@@ -7114,7 +7150,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 156000,
       "name": "My Ship",
       "url": "https://open.spotify.com/track/6LfNBoBMp1pJtnm2VQm0gy"
@@ -7877,6 +7913,24 @@
     },
     {
       "album": {
+        "name": "Out of Line",
+        "url": "https://open.spotify.com/album/6UQXj9A15G1eNcMsSkdPB5"
+      },
+      "artists": [
+        {
+          "name": "Nouri",
+          "url": "https://open.spotify.com/artist/1yWmwNuFuUEJ9iwgL57fPK"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212343,
+      "name": "Out of Line",
+      "url": "https://open.spotify.com/track/0VtuZdXqogav9uAAG5NSGQ"
+    },
+    {
+      "album": {
         "name": "Out Of The Blue",
         "url": "https://open.spotify.com/album/6emBxjRNaXLFFBJUtzpUQI"
       },
@@ -7892,6 +7946,24 @@
       "duration_ms": 178652,
       "name": "Out Of The Blue",
       "url": "https://open.spotify.com/track/6pGvi1k9FL1p27JwYDuB8S"
+    },
+    {
+      "album": {
+        "name": "Out of Town",
+        "url": "https://open.spotify.com/album/1R4kynF1INAHu841iniHnd"
+      },
+      "artists": [
+        {
+          "name": "Tiril Brandt",
+          "url": "https://open.spotify.com/artist/1Vor0rs0uaRKRuimiXWd92"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Out of Town",
+      "url": "https://open.spotify.com/track/6o5Hu4NxZPIkOpGjBtViQ8"
     },
     {
       "album": {
@@ -8104,7 +8176,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 207473,
       "name": "Pot of gold",
       "url": "https://open.spotify.com/track/3UFfw35PZHkM0ZM8IvIGDB"
@@ -9130,7 +9202,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 219069,
       "name": "Somewhere",
       "url": "https://open.spotify.com/track/48jwFktr6tdnaArJjhwyhO"
@@ -9929,6 +10001,24 @@
     },
     {
       "album": {
+        "name": "Thanks for Coming",
+        "url": "https://open.spotify.com/album/3cHDD98DUzgNMj05KqY4yz"
+      },
+      "artists": [
+        {
+          "name": "The Holly Molly Trio",
+          "url": "https://open.spotify.com/artist/3g3uNIc5VvWR29BUhjuVAZ"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157291,
+      "name": "Thanks for Coming",
+      "url": "https://open.spotify.com/track/01gKWL5LmFKMjsrBVvV0hH"
+    },
+    {
+      "album": {
         "name": "That\u2019s gotta be it",
         "url": "https://open.spotify.com/album/3PeEeMedpzBi6ab7lCqCJG"
       },
@@ -10444,7 +10534,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 191970,
       "name": "The Swing of Things",
       "url": "https://open.spotify.com/track/159XMXSi4Jwbig1yRYjfvN"
@@ -10552,7 +10642,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 206945,
       "name": "The Workers",
       "url": "https://open.spotify.com/track/1oXb2a7joQ4cre3t2W24hu"
@@ -11182,7 +11272,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 221431,
       "name": "Urban Jazz Chronicles",
       "url": "https://open.spotify.com/track/2GJaiss4EABlUcFad7jCgz"
@@ -11711,6 +11801,24 @@
     },
     {
       "album": {
+        "name": "Where I Live",
+        "url": "https://open.spotify.com/album/4ZydYtbj0uhKgzLe2kP5fn"
+      },
+      "artists": [
+        {
+          "name": "Tom Francis",
+          "url": "https://open.spotify.com/artist/6uaneVpX351id57reqAEff"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "Where I Live",
+      "url": "https://open.spotify.com/track/76uHBO15FZLTUjiwAJ1Wg4"
+    },
+    {
+      "album": {
         "name": "Where or when",
         "url": "https://open.spotify.com/album/1Q1UqyRWrgL4JK2hbyiTQA"
       },
@@ -11812,7 +11920,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 210508,
       "name": "Windless Waters",
       "url": "https://open.spotify.com/track/7FMsiew09v6ICDI5MU1Jc5"

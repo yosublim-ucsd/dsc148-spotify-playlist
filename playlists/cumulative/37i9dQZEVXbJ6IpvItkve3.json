@@ -6966,7 +6966,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 186365,
       "name": "Please Please Please",
       "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
@@ -8683,6 +8683,24 @@
     },
     {
       "album": {
+        "name": "The Emptiness Machine",
+        "url": "https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190427,
+      "name": "The Emptiness Machine",
+      "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
+    },
+    {
+      "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
@@ -8878,7 +8896,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-12",
+      "date_removed": null,
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp"
@@ -8896,7 +8914,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C"
@@ -15109,6 +15127,24 @@
     },
     {
       "album": {
+        "name": "\u05d9\u05dc\u05d3\u05d4 \u05e9\u05dc \u05d0\u05de\u05d5\u05e0\u05d4",
+        "url": "https://open.spotify.com/album/4YAa7wNsDWnh4Js223g5kv"
+      },
+      "artists": [
+        {
+          "name": "\u05d0\u05d5\u05d3\u05d9\u05d4",
+          "url": "https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149316,
+      "name": "\u05dc\u05d9\u05dc\u05d4 \u05d8\u05d5\u05d1",
+      "url": "https://open.spotify.com/track/1WqRnSjBc7L2DnLzsNvqOm"
+    },
+    {
+      "album": {
         "name": "\u05dc\u05d9\u05dc\u05d4 \u05d8\u05d5\u05d1 \u05e9\u05d5\u05df",
         "url": "https://open.spotify.com/album/3pt1jc8qYiHcVyQtB0OKvK"
       },
@@ -17448,7 +17484,7 @@
       ],
       "date_added": "2022-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 216809,
       "name": "\u05e1\u05ea\u05dc\u05d1\u05d8 \u05d1\u05e7\u05d9\u05d1\u05d5\u05e5",
       "url": "https://open.spotify.com/track/2G1o9Mq8KpamOwJPZLuJc7"
@@ -17808,7 +17844,7 @@
       ],
       "date_added": "2023-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 228234,
       "name": "\u05e2\u05d6\u05d1\u05ea \u05ea'\u05d1\u05d9\u05ea",
       "url": "https://open.spotify.com/track/4wEFTT1fmFfsLY1K7Y40Cy"
@@ -20202,7 +20238,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-16",
+      "date_removed": null,
       "duration_ms": 275738,
       "name": "\u200f\u05e9\u05dc\u05d5\u05d5\u05d4 \u05d1\u05d0\u05e8\u05de\u05d5\u05e0\u05d5\u05ea\u05d9\u05d9\u05da",
       "url": "https://open.spotify.com/track/0PfvEnfj3hHl7zlc0WcfGY"

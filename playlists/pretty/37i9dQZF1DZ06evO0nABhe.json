@@ -1,12 +1,12 @@
 {
   "description": "This is Story Of The Year. The essential tracks, all in one playlist.",
-  "num_followers": 10018,
+  "num_followers": 10025,
   "original_name": "This Is Story Of The Year",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zt+MAAAAAAB87BIo5v4xrTsm9xJ4TSTp",
+  "snapshot_id": "ZuDdgAAAAADgJv6Am/7E5MTbPmC+746y",
   "tracks": [
     {
       "added_at": null,
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 232453,
-      "name": "The Dream Is Over",
-      "url": "https://open.spotify.com/track/6wffAUccqKIcvdNiqgJzEA"
+      "duration_ms": 223546,
+      "name": "Holding On To You",
+      "url": "https://open.spotify.com/track/4ZuRyACv6x2R1cWW93l7TA"
     },
     {
       "added_at": null,
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 223546,
-      "name": "Holding On To You",
-      "url": "https://open.spotify.com/track/4ZuRyACv6x2R1cWW93l7TA"
+      "duration_ms": 232453,
+      "name": "The Dream Is Over",
+      "url": "https://open.spotify.com/track/6wffAUccqKIcvdNiqgJzEA"
     },
     {
       "added_at": null,

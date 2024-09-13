@@ -1133,6 +1133,24 @@
     },
     {
       "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/64eTSlCRiKUolrsET9Kl2v"
+      },
+      "artists": [
+        {
+          "name": "Malin Pettersen",
+          "url": "https://open.spotify.com/artist/3kVhFap6wa2EN5yrMZIupm"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194822,
+      "name": "Number and a Street",
+      "url": "https://open.spotify.com/track/1NT3kVjvvjmDPt20F58EDr"
+    },
+    {
+      "album": {
         "name": "N\u00e5 har du meg",
         "url": "https://open.spotify.com/album/5MjN3dWFsEMB2HuyjaeXBy"
       },
@@ -1242,6 +1260,28 @@
       "duration_ms": 187173,
       "name": "Part Of The Story",
       "url": "https://open.spotify.com/track/6jS0yEHw2vNXyCbY1DJJU4"
+    },
+    {
+      "album": {
+        "name": "Peiling (feat. \u00d8ystein Greni)",
+        "url": "https://open.spotify.com/album/29D39IIN621Usm8AB3mv3l"
+      },
+      "artists": [
+        {
+          "name": "Klossmajor",
+          "url": "https://open.spotify.com/artist/1XgbkJNbyHcYaa4WAjGlCc"
+        },
+        {
+          "name": "\u00d8ystein Greni",
+          "url": "https://open.spotify.com/artist/6SnoKMBVd7DLFgQ0PIcFlh"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Peiling (feat. \u00d8ystein Greni)",
+      "url": "https://open.spotify.com/track/7ezryXKj7BMWtsfdp5o8kX"
     },
     {
       "album": {
@@ -1840,7 +1880,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 189773,
       "name": "Tre sekunder",
       "url": "https://open.spotify.com/track/1YG1SeN28PvLdNzyBAeLww"
@@ -1942,7 +1982,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 161139,
       "name": "Vil ikke hjem",
       "url": "https://open.spotify.com/track/0Rpw1FEivr3Io9yjjOLXGw"

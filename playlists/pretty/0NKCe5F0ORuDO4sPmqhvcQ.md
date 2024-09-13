@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,678 likes - 104 songs - 6 hr 1 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,677 likes - 104 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Feel Your Love](https://open.spotify.com/track/4DnB00FZV87InpyIip2sN6) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Digital Youth](https://open.spotify.com/artist/1WQ3wjjb2E0bkwwnt2310s) | [Feel Your Love](https://open.spotify.com/album/7x2MzLbEtRrQZ8qfbfaeMR) | 4:06 |
 | 2 | [Afterglows](https://open.spotify.com/track/5XxBFoqrB2CPwit13EMJ82) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [The Four Stages](https://open.spotify.com/album/6mUWbDKMXnkdqdrljEXEtg) | 5:00 |
-| 3 | [Aries \- Mean Something 2 U](https://open.spotify.com/track/3TjRsLqcoVBaQyhVb8gHVl) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Z3LLA](https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02), [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg), [STARSIGNS](https://open.spotify.com/artist/4i6h8ZEK64FovE2EQCjMMZ) | [FIRE SIGNS](https://open.spotify.com/album/4dq7yzhWqzXfJDVVKfUW34) | 3:36 |
+| 3 | [Aries \(Mean Something 2 U\)](https://open.spotify.com/track/3TjRsLqcoVBaQyhVb8gHVl) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Z3LLA](https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02), [STARSIGNS](https://open.spotify.com/artist/4i6h8ZEK64FovE2EQCjMMZ), [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [FIRE SIGNS](https://open.spotify.com/album/4dq7yzhWqzXfJDVVKfUW34) | 3:36 |
 | 4 | [Shapeshifter](https://open.spotify.com/track/7kOqzZoJ20ssyvx8LlKMbO) | [Lucky Yu](https://open.spotify.com/artist/7EVJloAqLSz0LiDi3308dL), [Lumi Jin](https://open.spotify.com/artist/2YpzKwWnFbUAJJzBvuA0R7) | [Shapeshifter](https://open.spotify.com/album/4I8VD4l96QtADrkwpuYgX0) | 2:56 |
 | 5 | [2 Many Lies](https://open.spotify.com/track/5MtkeJ3mnxiQnkQGrGuIpm) | [CHROMEBODIES](https://open.spotify.com/artist/5SY7jZZAfGLD3R9FYwoYGI), [Centre Court](https://open.spotify.com/artist/5CyxC6fwavhoRAf1n9n7wh) | [2 Many Lies / Your Love](https://open.spotify.com/album/1ZdN5DsyEMxOmt7Vpy8IiL) | 3:40 |
 | 6 | [Slow Down](https://open.spotify.com/track/6V5bzHJ2Azp5LjUurVI0pF) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Luxtides](https://open.spotify.com/artist/22bKgyDEmDgPhvSBYklJBe) | [Slow Down](https://open.spotify.com/album/5XMsC7wGd38x4wmcHC6lEW) | 2:50 |

@@ -43415,6 +43415,24 @@
     },
     {
       "album": {
+        "name": "Upbringing",
+        "url": "https://open.spotify.com/album/3kCaVWSYGuEmReU6nDsxtW"
+      },
+      "artists": [
+        {
+          "name": "Noah Thompson",
+          "url": "https://open.spotify.com/artist/38dDBc8guRXP1fjvothwyi"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186857,
+      "name": "Upbringing",
+      "url": "https://open.spotify.com/track/7opD9JriMc3ETgAH4InvrJ"
+    },
+    {
+      "album": {
         "name": "Him",
         "url": "https://open.spotify.com/album/6aPNDVZoiGIRzGoU8YGDwv"
       },

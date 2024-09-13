@@ -2878,7 +2878,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 252558,
       "name": "Lapse",
       "url": "https://open.spotify.com/track/6rduLWfZ32SDJLco9Pb4jr"
@@ -3042,7 +3042,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 265089,
       "name": "Listen",
       "url": "https://open.spotify.com/track/05D17BU7wl5D6LdAYiKZvn"
@@ -3072,6 +3072,28 @@
       "duration_ms": 152343,
       "name": "Lively (feat. Jaykae & Blair Muir)",
       "url": "https://open.spotify.com/track/4LNJEZ4PEOZH6jyJuKEaUP"
+    },
+    {
+      "album": {
+        "name": "Lo Lo",
+        "url": "https://open.spotify.com/album/2Xg0bqkRobrhZupao0rYp0"
+      },
+      "artists": [
+        {
+          "name": "T & Sugah",
+          "url": "https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH"
+        },
+        {
+          "name": "Grace Barton",
+          "url": "https://open.spotify.com/artist/6sliIMvgGGdk8GRPD2FwMx"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192034,
+      "name": "Lo Lo",
+      "url": "https://open.spotify.com/track/5eNxYmQ2QsFGBYJom4AAiJ"
     },
     {
       "album": {
@@ -4085,6 +4107,32 @@
     },
     {
       "album": {
+        "name": "Peak (Serum Remix)",
+        "url": "https://open.spotify.com/album/5p7ymyIjku9JtrBId646gu"
+      },
+      "artists": [
+        {
+          "name": "Rockwell",
+          "url": "https://open.spotify.com/artist/5Bz409CcH4Rk3sqhmOpcxf"
+        },
+        {
+          "name": "Novelist",
+          "url": "https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc"
+        },
+        {
+          "name": "Serum",
+          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199090,
+      "name": "Peak - Serum Remix",
+      "url": "https://open.spotify.com/track/0AnrXxcc55u7i3jQZZbsqS"
+    },
+    {
+      "album": {
         "name": "Pearl River (Karney Remix)",
         "url": "https://open.spotify.com/album/6osgX9tHLWrPo8pDIn34JK"
       },
@@ -4306,6 +4354,36 @@
       "duration_ms": 279771,
       "name": "Polygon (Circadian Remix)",
       "url": "https://open.spotify.com/track/54hh0ph7BUeFQIcaCX40Qq"
+    },
+    {
+      "album": {
+        "name": "Pon Mi Side (True Tactix Remix)",
+        "url": "https://open.spotify.com/album/5ImnT12yIdUEsoJYvw8gVp"
+      },
+      "artists": [
+        {
+          "name": "Zapya",
+          "url": "https://open.spotify.com/artist/3xD55zd7Ccl05YQv09rZFK"
+        },
+        {
+          "name": "MC Spyda",
+          "url": "https://open.spotify.com/artist/2b4CwhkY6rAscPhxXVxDJl"
+        },
+        {
+          "name": "Persona",
+          "url": "https://open.spotify.com/artist/6ThgoYSZGGGgOtREktW2bq"
+        },
+        {
+          "name": "True Tactix",
+          "url": "https://open.spotify.com/artist/5roNWmUbP4oZ3PMSx58Rc9"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167727,
+      "name": "Pon Mi Side - True Tactix Remix",
+      "url": "https://open.spotify.com/track/0YIPfsaS8gGmlK5CSeQlf4"
     },
     {
       "album": {
@@ -4774,7 +4852,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 192314,
       "name": "Rig Fairy (feat. Kelvin 373, Selecta J-Man and Aries) - VIP",
       "url": "https://open.spotify.com/track/5a97fAfJIHN6GfwwcVUNzA"
@@ -5154,7 +5232,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 204500,
       "name": "Soundguy",
       "url": "https://open.spotify.com/track/3jCVsU1RyLxOpx41CnQM9g"
@@ -5246,6 +5324,28 @@
       "duration_ms": 187339,
       "name": "Spend The Night",
       "url": "https://open.spotify.com/track/4OoNi7RLLVKGlDcLgWPyKX"
+    },
+    {
+      "album": {
+        "name": "Sprinta (Bad Bad)",
+        "url": "https://open.spotify.com/album/7l0SqJre5CRZcGLcMztXrV"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs",
+          "url": "https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k"
+        },
+        {
+          "name": "KIPPO",
+          "url": "https://open.spotify.com/artist/4Bf3pfU2A6dHgR1eZwlE6N"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199090,
+      "name": "Sprinta (Bad Bad)",
+      "url": "https://open.spotify.com/track/3KJD2bb7mnH0fnLDGSJ2dn"
     },
     {
       "album": {

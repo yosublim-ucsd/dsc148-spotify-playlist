@@ -4650,7 +4650,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 151846,
       "name": "f\u00fcr dich",
       "url": "https://open.spotify.com/track/5LIw7pP9e4WvMkPwwUckx8"
@@ -5434,7 +5434,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 161111,
       "name": "g\u00e4steliste",
       "url": "https://open.spotify.com/track/1GRNmHpcVobOQpU4sTotMm"
@@ -5684,7 +5684,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 140528,
       "name": "heimweg",
       "url": "https://open.spotify.com/track/4OwU6J3bkYykrHKINJl42P"
@@ -6196,7 +6196,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 162887,
       "name": "Ich trage Samt",
       "url": "https://open.spotify.com/track/5PXzqB5i6nroTtLJLy9dTr"
@@ -6346,6 +6346,24 @@
       "duration_ms": 152916,
       "name": "Immer du",
       "url": "https://open.spotify.com/track/7e2CmNUn9W9nGf0fX7JYha"
+    },
+    {
+      "album": {
+        "name": "Immer nachts",
+        "url": "https://open.spotify.com/album/72tI9Q6jgsUiwknmmQLBh5"
+      },
+      "artists": [
+        {
+          "name": "BRUCKNER",
+          "url": "https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131413,
+      "name": "Immer nachts",
+      "url": "https://open.spotify.com/track/7uiA0x9kM8WR59rPgGdxIB"
     },
     {
       "album": {
@@ -6676,6 +6694,24 @@
       "duration_ms": 224146,
       "name": "James Blake",
       "url": "https://open.spotify.com/track/6wjiWdFdfcyZNikqjqb9vu"
+    },
+    {
+      "album": {
+        "name": "jeans unten",
+        "url": "https://open.spotify.com/album/1iGk9DeM8rouGoOfRj11wn"
+      },
+      "artists": [
+        {
+          "name": "kevin",
+          "url": "https://open.spotify.com/artist/3AnRJXttxRO7191Fxwkaxz"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152203,
+      "name": "jeans unten",
+      "url": "https://open.spotify.com/track/5EszJ6Av72Chv7s6kJj41e"
     },
     {
       "album": {
@@ -7966,7 +8002,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 134366,
       "name": "Liebe programmiert",
       "url": "https://open.spotify.com/track/1EbXYNG3UegZ7KmQRTkvba"
@@ -10415,6 +10451,24 @@
     },
     {
       "album": {
+        "name": "Regen und Meer",
+        "url": "https://open.spotify.com/album/0rbUqJgSgLV0z1333LA1xm"
+      },
+      "artists": [
+        {
+          "name": "frytz",
+          "url": "https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143653,
+      "name": "Regen und Meer",
+      "url": "https://open.spotify.com/track/0gzxsjdciPPjxHYnMFboZj"
+    },
+    {
+      "album": {
         "name": "Regenbogen",
         "url": "https://open.spotify.com/album/5YZFHjD9QeQfXx646H2MQo"
       },
@@ -10897,6 +10951,28 @@
     },
     {
       "album": {
+        "name": "Schlaflied (feat. MELLER)",
+        "url": "https://open.spotify.com/album/4RzJ7FaPYVCrAUwuj6mqQU"
+      },
+      "artists": [
+        {
+          "name": "Katzi",
+          "url": "https://open.spotify.com/artist/7wELxFDgA5UWcQ4LXFq99m"
+        },
+        {
+          "name": "MELLER",
+          "url": "https://open.spotify.com/artist/01bwyExSOpCwS4qqAtglB9"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168845,
+      "name": "Schlaflied",
+      "url": "https://open.spotify.com/track/1gKwm6VnYXf12VFx4fRGhO"
+    },
+    {
+      "album": {
         "name": "Schrei Es Raus",
         "url": "https://open.spotify.com/album/5SLzzCL9Cse7Mo2crW0gk3"
       },
@@ -10984,6 +11060,28 @@
       "duration_ms": 157071,
       "name": "schwarzes wasser",
       "url": "https://open.spotify.com/track/4deX0Genki7bcPoxU8rNj6"
+    },
+    {
+      "album": {
+        "name": "schweigen uns an_v3",
+        "url": "https://open.spotify.com/album/58AmJ7bYjpsTZD0JqI0vvc"
+      },
+      "artists": [
+        {
+          "name": "Kasi",
+          "url": "https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw"
+        },
+        {
+          "name": "antonius",
+          "url": "https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141582,
+      "name": "schweigen uns an_v3",
+      "url": "https://open.spotify.com/track/3kmlBigDU4d3y9AgYghh70"
     },
     {
       "album": {
@@ -11273,6 +11371,24 @@
     },
     {
       "album": {
+        "name": "seventies",
+        "url": "https://open.spotify.com/album/7otoxpOPVXeGEZT5ICsSaY"
+      },
+      "artists": [
+        {
+          "name": "Dominik Hartz",
+          "url": "https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141904,
+      "name": "seventies",
+      "url": "https://open.spotify.com/track/4mzBvJs9lclIBFhuF9dSD7"
+    },
+    {
+      "album": {
         "name": "Shirt & Handtuch",
         "url": "https://open.spotify.com/album/5E6TabcdFH66gyiurKEmBq"
       },
@@ -11429,6 +11545,24 @@
     },
     {
       "album": {
+        "name": "SIGNS",
+        "url": "https://open.spotify.com/album/0q5qYh11cyZsMOiVPlVvAi"
+      },
+      "artists": [
+        {
+          "name": "error",
+          "url": "https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149120,
+      "name": "SIGNS",
+      "url": "https://open.spotify.com/track/2jwEvLG0lD5CU05dMbTBEQ"
+    },
+    {
+      "album": {
         "name": "Skandal im Patriarchat",
         "url": "https://open.spotify.com/album/4pUqmx6OldfqSmIC864HKB"
       },
@@ -11506,6 +11640,24 @@
       "duration_ms": 214506,
       "name": "so k.o. (feat. JEREMIAS)",
       "url": "https://open.spotify.com/track/0B4gBXd4XLXGvaBl7pI2vL"
+    },
+    {
+      "album": {
+        "name": "So leicht",
+        "url": "https://open.spotify.com/album/1D5TGD4lkOHfOrxVYlZG38"
+      },
+      "artists": [
+        {
+          "name": "Apsilon",
+          "url": "https://open.spotify.com/artist/6JqtADDgBVPjLBRFwqjuFm"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164420,
+      "name": "So leicht",
+      "url": "https://open.spotify.com/track/0vYerVYaZpbilnp57EPra4"
     },
     {
       "album": {
@@ -11650,6 +11802,24 @@
       "duration_ms": 141333,
       "name": "SOLANGE DAS NOCH GEHT",
       "url": "https://open.spotify.com/track/0zDRwSwqTdKzFjq8L9VxgC"
+    },
+    {
+      "album": {
+        "name": "solitude",
+        "url": "https://open.spotify.com/album/4yFUrh1XARnDIKlk1jjWuD"
+      },
+      "artists": [
+        {
+          "name": "katlix",
+          "url": "https://open.spotify.com/artist/2w9SZxjM9DUKiFsMhAk5Lr"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157013,
+      "name": "solitude",
+      "url": "https://open.spotify.com/track/1uGkQ3pJ2IjaQiLF5c7Yh5"
     },
     {
       "album": {
@@ -12322,7 +12492,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 161425,
       "name": "Tatendrang",
       "url": "https://open.spotify.com/track/5JB7I9oC1BWK2FEgsL68km"
@@ -13131,6 +13301,24 @@
     },
     {
       "album": {
+        "name": "Verlierer",
+        "url": "https://open.spotify.com/album/71dS6MrDtwujmBnL9uBBoe"
+      },
+      "artists": [
+        {
+          "name": "Pablu",
+          "url": "https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147404,
+      "name": "Verlierer",
+      "url": "https://open.spotify.com/track/2UbMm8S5eqHwn27aUkPhAW"
+    },
+    {
+      "album": {
         "name": "vermiss nicht mehr",
         "url": "https://open.spotify.com/album/37djXxoBTq8AzNuJBA8XkZ"
       },
@@ -13334,6 +13522,24 @@
       "duration_ms": 142598,
       "name": "Vielleicht Vielleicht",
       "url": "https://open.spotify.com/track/559mLg44MrcA7JzYGbpXfL"
+    },
+    {
+      "album": {
+        "name": "vier songs",
+        "url": "https://open.spotify.com/album/54ecFuPYISdSgPudfDSYyl"
+      },
+      "artists": [
+        {
+          "name": "Keule",
+          "url": "https://open.spotify.com/artist/4YAtpT87My3LTvpLWWvG3Y"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134570,
+      "name": "vier songs",
+      "url": "https://open.spotify.com/track/1bI4H9gpTnZJ57uH4laEuf"
     },
     {
       "album": {
@@ -14274,7 +14480,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 176288,
       "name": "Willst du",
       "url": "https://open.spotify.com/track/0XeyWcuJsrJo28jZGda4IQ"
@@ -14706,6 +14912,24 @@
       "duration_ms": 137122,
       "name": "ZUKUNFTSMUSIK",
       "url": "https://open.spotify.com/track/0CSBizBZqN6GP6W0OTcY3m"
+    },
+    {
+      "album": {
+        "name": "Zur\u00fcck ans Meer",
+        "url": "https://open.spotify.com/album/5h0Q69xyCGm2eiVRmIj7MT"
+      },
+      "artists": [
+        {
+          "name": "Satero",
+          "url": "https://open.spotify.com/artist/39Ny7kCVC5LuxOYDEjMuhJ"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126391,
+      "name": "Zur\u00fcck ans Meer",
+      "url": "https://open.spotify.com/track/1sY2XVttZlnC9yUWXCNK0J"
     },
     {
       "album": {

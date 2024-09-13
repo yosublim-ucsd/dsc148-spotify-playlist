@@ -2,7 +2,7 @@
 
 ### [This Is Marca MP](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2nnqru)
 
-> This is Marca MP。アーティストの代表曲をひとつのプレイリストに。
+> This is Marca MP\. The essential tracks, all in one playlist.
 
 111 songs - 5 hr 56 min
 

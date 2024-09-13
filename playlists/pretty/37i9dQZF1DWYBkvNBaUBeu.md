@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBkvNBaUBeu.md) - [plain]
 
 > Future hits in the Philippines! Cover: Halsey
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,216 likes - 83 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,255 likes - 83 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

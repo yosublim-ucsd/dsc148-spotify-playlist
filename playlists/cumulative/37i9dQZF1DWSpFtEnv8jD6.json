@@ -737,6 +737,24 @@
     },
     {
       "album": {
+        "name": "Dziewczyny",
+        "url": "https://open.spotify.com/album/3GjljfkYbvQvItuPYrDf85"
+      },
+      "artists": [
+        {
+          "name": "Sujka",
+          "url": "https://open.spotify.com/artist/7choVylUIeNr4nUVApiUEC"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206222,
+      "name": "Dziewczyny",
+      "url": "https://open.spotify.com/track/2qXsqVjkvNCHVylWgEJZn8"
+    },
+    {
+      "album": {
         "name": "Sanatorium",
         "url": "https://open.spotify.com/album/2fyAniBCpsGLEMTiQKM9CA"
       },

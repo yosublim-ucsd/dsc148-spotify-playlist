@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto: Celia Becks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,623 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,624 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 16 | [ALLÁ ARRIBITA](https://open.spotify.com/track/1C5K3rwkMi81uq2maBIAfm) | [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO) | [Manual de Romería](https://open.spotify.com/album/74g36yb3N2FdsGIoUf4CH0) | 3:21 |
 | 17 | [Ave María Putísima](https://open.spotify.com/track/4RC0gJ1UzN4cphdoNB0hjD) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [D.Basto](https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF) | [Madre Fundadora](https://open.spotify.com/album/0cW778aXsK6vVGu6QW6XUW) | 2:50 |
 | 18 | [Lip Combo](https://open.spotify.com/track/2XBPRlrllcXr790bNLJwjS) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [D.Basto](https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF), [l0rna](https://open.spotify.com/artist/2kFBKRwutklbaGSKBpc6TS) | [Lip Combo](https://open.spotify.com/album/277TqVAcStMNXa1Tta9cXT) | 2:51 |
-| 19 | [B2B](https://open.spotify.com/track/2O3BEHByns7nuvEL9xvlp6) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [B2B](https://open.spotify.com/album/3mikcTyYjM5eKBjdrOaPfT) | 3:02 |
+| 19 | [Ansiedad](https://open.spotify.com/track/0VjbhTzBNUNFWeIS2fy0Es) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [¿Quién es Billie Max?](https://open.spotify.com/album/1sbuiA6muqHf3S3sbe58O3) | 2:58 |
 | 20 | [Cuatro Bodas](https://open.spotify.com/track/0Ktk8t0AuvCI5iBYA3F2nM) | [LUNA KI](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M) | [Generación de Cristal](https://open.spotify.com/album/6Ypvyl8kqqTy3SMDZweZ8Y) | 2:46 |
-| 21 | [Ansiedad](https://open.spotify.com/track/0VjbhTzBNUNFWeIS2fy0Es) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [¿Quién es Billie Max?](https://open.spotify.com/album/1sbuiA6muqHf3S3sbe58O3) | 2:58 |
+| 21 | [B2B](https://open.spotify.com/track/2O3BEHByns7nuvEL9xvlp6) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [B2B](https://open.spotify.com/album/3mikcTyYjM5eKBjdrOaPfT) | 3:02 |
 | 22 | [DIFERENTE](https://open.spotify.com/track/5jvUkBsdkQNL27VDYSjPzU) | [BRÜNNE ROMEO](https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF) | [DIFERENTE](https://open.spotify.com/album/6cw324kDm9qT2TzAZdxC1R) | 2:43 |
 | 23 | [3 AMIGAS TUYAS](https://open.spotify.com/track/45fYscRYuzAX226WjBnE3S) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm), [EDDI CIRCA](https://open.spotify.com/artist/5Fa143x669siyI5jjBuTIa) | [3 AMIGAS TUYAS](https://open.spotify.com/album/4ifITgh9n4HwL3kwAFqNlv) | 3:04 |
 | 24 | [Nunca Llega 05](https://open.spotify.com/track/7jnSPE7jVrhO9nVFUWcslf) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Nunca Llega 05](https://open.spotify.com/album/1I4mCP5FZrrUX2PYRWO07f) | 2:39 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 45 | [Por España \- Banda Sonora Original de la Película ¡Cortén!](https://open.spotify.com/track/3l3Ea4AyUl64PJ15tLcKCM) | [Samantha Hudson](https://open.spotify.com/artist/3CsPDmTON8MWK0YXmaru92), [Papa Topo](https://open.spotify.com/artist/5bj2pIzyYR99GUinn9fKAN) | [Por España \(Banda Sonora Original de la Película ¡Cortén!\)](https://open.spotify.com/album/46FkNDxYkjXvDxB5VeoHOo) | 4:25 |
 | 46 | [Collar Fular](https://open.spotify.com/track/4s2eThXBozqzc54PX5ZfvJ) | [Ojete Calor](https://open.spotify.com/artist/39OG2j99BjXdZbgj9mgF9x) | [Collar Fular](https://open.spotify.com/album/1JuSedkicPVexihsz6qHuP) | 2:12 |
 | 47 | [Intacto](https://open.spotify.com/track/4jOI70Kq9jCpGbxEt80c7m) | [Agoney](https://open.spotify.com/artist/4jKvQ93sRiKroRRaAI6Fqk) | [Intacto](https://open.spotify.com/album/64rIfd9Cgllr89y2dbkgwU) | 3:15 |
-| 48 | [PRÉNDEME EN GASOLINA](https://open.spotify.com/track/63NKuJQ1KYgH0ZsYQDAFCh) | [BAJOCERO X](https://open.spotify.com/artist/0zry48rNmbs7Qd3gM4YkEq) | [PRÉNDEME EN GASOLINA](https://open.spotify.com/album/4tKZO6PYRrdMYVEnlEBy22) | 2:40 |
-| 49 | [Confieso](https://open.spotify.com/track/0CMhIGS8QEIIq92amMvZCe) | [K!ngdom](https://open.spotify.com/artist/7awzJ795ZYRCpQktKCKgW4) | [Confieso](https://open.spotify.com/album/2ySp1RZ1gkmH1aVIFkR2sU) | 3:00 |
-| 50 | [No vaya a ser](https://open.spotify.com/track/3QVP0l1NB4MS0mVXWVuao6) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Prometo \(Edición especial\)](https://open.spotify.com/album/1jLNPWcykNvUNoWBWBPjep) | 3:18 |
+| 48 | [Confieso](https://open.spotify.com/track/0CMhIGS8QEIIq92amMvZCe) | [K!ngdom](https://open.spotify.com/artist/7awzJ795ZYRCpQktKCKgW4) | [Confieso](https://open.spotify.com/album/2ySp1RZ1gkmH1aVIFkR2sU) | 3:00 |
+| 49 | [No vaya a ser](https://open.spotify.com/track/3QVP0l1NB4MS0mVXWVuao6) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Prometo \(Edición especial\)](https://open.spotify.com/album/1jLNPWcykNvUNoWBWBPjep) | 3:18 |
+| 50 | [PRÉNDEME EN GASOLINA](https://open.spotify.com/track/63NKuJQ1KYgH0ZsYQDAFCh) | [BAJOCERO X](https://open.spotify.com/artist/0zry48rNmbs7Qd3gM4YkEq) | [PRÉNDEME EN GASOLINA](https://open.spotify.com/album/4tKZO6PYRrdMYVEnlEBy22) | 2:40 |
 
 Snapshot ID: `ZteG4AAAAABBeyEm1fo3arjx36yCP0Dh`

@@ -4,7 +4,7 @@
 
 > Rap napoletano e il meglio della scena campana\. Cover: Frezza
 
-361 songs - 16 hr 45 min
+362 songs - 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,6 +284,7 @@
 | [RHLM \(feat\. Rame\)](https://open.spotify.com/track/711TpNrKbnG0qJF7j21I0q) | [Kepa](https://open.spotify.com/artist/0STOPxbjhPEECpskdc6Qjg), [Whizy](https://open.spotify.com/artist/5Cb508kGFzNJvPDsu9KgP2), [Rame](https://open.spotify.com/artist/4jQQ2yfZyDgktZW5eI6BA7) | [RHLM \(feat\. Rame\)](https://open.spotify.com/album/40LRNKQCOgxasBBASHrISS) | 3:00 | 2023-11-16 | 2023-12-15 |
 | [RICCHEZZA](https://open.spotify.com/track/1ZtubpenKBRE4ACrynt0MA) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 3:04 | 2023-01-06 | 2023-04-07 |
 | [RINCELL](https://open.spotify.com/track/0MpD4CbRRc7dd0UBAHxypb) | [Hosawa](https://open.spotify.com/artist/0CA0vPSeG4YNObQrpfUq8H) | [RINCELL](https://open.spotify.com/album/4OWZxHL6TAVfYmJXMZXZwr) | 2:26 | 2024-04-04 | 2024-04-26 |
+| [RNAR SPUORCH](https://open.spotify.com/track/758gBjpv9urbcYbo0n5lGM) | [ALTACARATURA](https://open.spotify.com/artist/4FBfE5lWE8eGkPuUTXzRNr) | [RNAR SPUORCH](https://open.spotify.com/album/16ldGPgb034QKbjtGSbeRI) | 2:50 | 2024-09-12 |  |
 | [Rolex \(feat\. Lele Blade\)](https://open.spotify.com/track/74bfTNttbZDa0x9v57V94K) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn), [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz) | [Lamborghini a Via Marina](https://open.spotify.com/album/2Q3U7ILYYVYLfvWrOLQJXp) | 2:02 | 2024-01-16 | 2024-02-16 |
 | [ROOFTOP \(feat\. Guè\)](https://open.spotify.com/track/14ZxYiB4WZvbma2Jr15MeP) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [FEDE](https://open.spotify.com/album/5y2UTfhxtOcFE1v5S585kK) | 2:56 | 2023-09-22 | 2023-12-13 |
 | [ROOFTOP \(feat\. Guè\)](https://open.spotify.com/track/2I3yY1YL9JPDyOznnyiJnJ) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [FEDE](https://open.spotify.com/album/2eV25SPEQ57dzp4Qs9FonT) | 2:56 | 2023-05-18 |  |

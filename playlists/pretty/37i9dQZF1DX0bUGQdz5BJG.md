@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Bryce Leatherwood
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,555 likes - 181 songs - 9 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,603 likes - 181 songs - 9 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

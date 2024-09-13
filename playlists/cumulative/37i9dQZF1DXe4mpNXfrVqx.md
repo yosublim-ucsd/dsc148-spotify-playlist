@@ -4,7 +4,7 @@
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Amabbi
 
-201 songs - 9 hr 0 min
+202 songs - 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Levado \- Spotify Singles](https://open.spotify.com/track/15psePad9IL6X85xlyjzRh) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Rennan Guerra](https://open.spotify.com/artist/1342WybEuWuTMbl8emV1TA), [Patrick Laplan](https://open.spotify.com/artist/4XfU95qBFC5ZmdhfRXeP6o) | [Levado \- Spotify Singles](https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy) | 2:55 | 2022-09-30 |  |
 | [Linda](https://open.spotify.com/track/5xN4B7ozxZL5kB8q91ShWL) | [ANAJU](https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b) | [Linda](https://open.spotify.com/album/68Q9h5ElIU7CYawTO5AsYh) | 2:07 | 2023-08-18 |  |
 | [LoveSong](https://open.spotify.com/track/2EKr8S6HHKJcuRXdxXDbwD) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [LoveSong](https://open.spotify.com/album/4MHpH5xowDkLR6BgImxHNS) | 2:22 | 2022-03-18 |  |
-| [Luz da Lua](https://open.spotify.com/track/3q4v3jZOaWEfN7AEb3nG6O) | [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Luz da Lua](https://open.spotify.com/album/34BDJMHyUALz7TfmeVtLNe) | 1:48 | 2024-06-28 |  |
+| [Luz da Lua](https://open.spotify.com/track/3q4v3jZOaWEfN7AEb3nG6O) | [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Luz da Lua](https://open.spotify.com/album/34BDJMHyUALz7TfmeVtLNe) | 1:48 | 2024-06-28 | 2024-09-13 |
 | [Madonna](https://open.spotify.com/track/7uzPBNHwKHKA690w4W10cN) | [2050](https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji), [Killua](https://open.spotify.com/artist/7N0gUkzHkjXISZ7WyilZfo), [Billy Billy](https://open.spotify.com/artist/1uUyWteV2hZskmno7GVARe) | [Madonna](https://open.spotify.com/album/1Ow2JpwAA6icfnxI0wDyL4) | 2:07 | 2023-06-30 |  |
 | [Magia](https://open.spotify.com/track/3gxkgQ5ZihoXGnrPsxS9Vx) | [Anne](https://open.spotify.com/artist/3W3JovBaRZsYyIWY2FslWq) | [Magia](https://open.spotify.com/album/2nhzLLb9DgJ9P75xg0FAxn) | 2:54 | 2022-03-18 | 2024-05-18 |
 | [Magnetizar](https://open.spotify.com/track/5SjQLPj91Gx4ZivRRRZd4L) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [Magnetizar](https://open.spotify.com/album/0nPC657aR6ctyejVjVmsBo) | 3:14 | 2022-08-26 | 2022-09-24 |
@@ -134,6 +134,7 @@
 | [Membros Humanos \(Lista de Assassinatos\)](https://open.spotify.com/track/3MbztTv38jaodCxoFoVp2d) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [Uirá Bueno](https://open.spotify.com/artist/3WR2JyTHBxXYftjNpZmrvA) | [Membros Humanos \(Lista de Assassinatos\)](https://open.spotify.com/album/6WzLu1wOWV39SGQisShEXn) | 2:40 | 2022-10-28 | 2023-03-18 |
 | [Mente Criminosa](https://open.spotify.com/track/1GfeZ36WjbNckRDibgDEBg) | [xabru](https://open.spotify.com/artist/5upxbKKhFDBIfZKaplpcCB), [calli.](https://open.spotify.com/artist/6wZZKH7h9HU8Lt0IsphFqo), [Prod Malax](https://open.spotify.com/artist/5X5jKBLJ88Ji6tzwfL0g4c) | [Mente Criminosa](https://open.spotify.com/album/2awpYHettdKZ5W74lGsCXZ) | 2:18 | 2024-01-26 | 2024-06-01 |
 | [Meu Lugar de Fala](https://open.spotify.com/track/0ckL8UjwoAYIOJ8hwQ8ASt) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT) | [Meu Lugar de Fala](https://open.spotify.com/album/6Z24Hr0ndBCzkExWgb7RNV) | 2:03 | 2022-03-18 | 2023-02-11 |
+| [MEU NOME](https://open.spotify.com/track/00CL3XybVZREa07x1jOrG0) | [Calena](https://open.spotify.com/artist/05b2pxULrPTg4M5LCUzlzc), [Thai Flow](https://open.spotify.com/artist/5Ag6yKoGGYp66o9vtpH89s) | [MEU NOME](https://open.spotify.com/album/71OxfGMf96TyHmfw59FsR3) | 2:01 | 2024-09-13 |  |
 | [MEU NÍVEL \(Olha Pra Minha Cara\)](https://open.spotify.com/track/6k6W3B8XYNVBqlKcKbw9Z8) | [Boombeat](https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg), [Los Brasileros](https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW), [DMAX](https://open.spotify.com/artist/2yszywMdom6sSwPPMZKRDp) | [METamorFOSE](https://open.spotify.com/album/3zMBfvaDJbLt68YHUO8Exp) | 2:32 | 2024-07-26 |  |
 | [Moreno](https://open.spotify.com/track/7BA05JWlf0qQjtKF9stcWD) | [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY) | [Moreno](https://open.spotify.com/album/2s7D5gKh8Nvn1Euy1KsZh5) | 2:34 | 2022-06-03 | 2022-06-25 |
 | [N.S.D.P](https://open.spotify.com/track/4O4NvDr8ppUzTUcWv9ksnR) | [Nathy Mc](https://open.spotify.com/artist/5Hh5JFQlFsF2xqhCzJuJCo) | [N.S.D.P](https://open.spotify.com/album/2wv99EMmienicc3M3fXeol) | 2:35 | 2022-03-18 | 2022-10-15 |

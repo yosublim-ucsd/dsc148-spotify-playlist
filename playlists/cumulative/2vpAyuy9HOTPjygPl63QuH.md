@@ -4,7 +4,7 @@
 
 > The freshest tech house &amp; techno \| Submit via Instagram: @subshiftmusic
 
-1,974 songs - 4 day 15 hr 31 min
+1,976 songs - 4 day 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1379,6 +1379,7 @@
 | [Rapture](https://open.spotify.com/track/5lKF3KIuJnXJDjgabjD8tu) | [Carlos Pires](https://open.spotify.com/artist/2XZwN2FxtqAlpsnk1XNr8i) | [Rapture](https://open.spotify.com/album/5i7zFfrVqSp41WhKJz0gKA) | 6:00 | 2023-11-13 | 2023-11-18 |
 | [Rattler](https://open.spotify.com/track/2AyiHUCJE8f59qWTtKvRpV) | [NuKey](https://open.spotify.com/artist/2tmve58Sh3f0WZN76W30x3) | [Rattler](https://open.spotify.com/album/5iwziQIln0r4VpX0PazOpc) | 2:22 | 2023-03-24 | 2023-04-01 |
 | [Rave Is The Weapon](https://open.spotify.com/track/7kCGuVumIpjWec9aexfCLU) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc), [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq) | [Rave Is The Weapon](https://open.spotify.com/album/34sqVY63xSSYwizUAjiLTp) | 3:16 | 2024-03-29 | 2024-05-02 |
+| [Rave On This](https://open.spotify.com/track/6kHUE4lPOkrTknRuF06Lj2) | [RSquared](https://open.spotify.com/artist/3uuAdAghYzgytUdLDQUHZ2), [Hutton](https://open.spotify.com/artist/5U8HUtUnNT9ZosZB2GnHPJ) | [Rave On This](https://open.spotify.com/album/2KcSuDjU45615EYFEm58y9) | 6:14 | 2024-09-12 |  |
 | [Rave W U](https://open.spotify.com/track/6vKgZyVTXpHSHcHVIgvq9Y) | [Boss Doms](https://open.spotify.com/artist/57aMHpsX2SXTbLatmeEd6j), [Siwell](https://open.spotify.com/artist/3ktDOdSifPv7lXzeyXX1J1) | [Rave W U](https://open.spotify.com/album/4d4kanxcEjZMbpr83g9UDs) | 2:26 | 2023-11-17 | 2023-11-28 |
 | [Raver](https://open.spotify.com/track/3F59WaxOiCNUOYYlD101I4) | [Kino Todo](https://open.spotify.com/artist/2kzHzn9DTankt1OfK1U8ol), [Trilion](https://open.spotify.com/artist/3AZEu4bHQKYpUS3vCTLQ3U) | [Raver](https://open.spotify.com/album/0yRlaqCq7cp3dApvY8cMCy) | 3:33 | 2023-09-01 | 2023-09-09 |
 | [Raw \- Tony Romera Extended Mix](https://open.spotify.com/track/0VoT2Cf8VgPLZmLBtQQpJX) | [Julio Navas](https://open.spotify.com/artist/1xTuChuImQkqK7A0aGaZqr), [Gustavo Bravetti](https://open.spotify.com/artist/3COgt6jQqmGpT8vM79C7R9), [David Amo](https://open.spotify.com/artist/6hnD17Gw6ohwryCf3D2AwD), [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Raw \(Tony Romera Remix\)](https://open.spotify.com/album/05RVsgf3zkK6pcTHFmoNkZ) | 5:00 | 2022-08-05 | 2022-09-03 |
@@ -1541,6 +1542,7 @@
 | [So Alive](https://open.spotify.com/track/3I9hemewMQVBd5qpep8Zdl) | [Mismatch \(UK\)](https://open.spotify.com/artist/6ZfK3mmhQuGjhOAAAvSuSY) | [So Alive](https://open.spotify.com/album/59V4ia9qAFxKK7w3jHm2Lj) | 3:14 | 2023-04-22 | 2023-04-29 |
 | [SO BIG](https://open.spotify.com/track/0EuaF8UjE71a0iplWBl9Ua) | [Born Dirty](https://open.spotify.com/artist/0qM78DOdgnNPpq2CpTNgU5) | [SO BIG](https://open.spotify.com/album/2JOSMhOwsTSBmaXai7eFza) | 3:28 | 2023-02-17 | 2023-02-25 |
 | [So Dangerous](https://open.spotify.com/track/1x3vLt1oSARJ8UGnbwL1mz) | [Harpoon](https://open.spotify.com/artist/2Orr52OAMzjLNDRjiXomFP), [Needs No Sleep](https://open.spotify.com/artist/5PBIAEdx1voGTUb8apBiEs), [TAE](https://open.spotify.com/artist/49A1FQ04WWcLPPM700WlVg) | [So Dangerous](https://open.spotify.com/album/1KDleYGzSCJ4OttRKpLjFR) | 2:56 | 2024-02-07 | 2024-03-13 |
+| [So Deep](https://open.spotify.com/track/7vaLOu63uCBn1Rj3buCNJs) | [Wilder \(ITA\)](https://open.spotify.com/artist/3K3Svv7PzPEkx29PHPVwhP) | [So Deep](https://open.spotify.com/album/6yN3CjldTpdxruxtLg0sDa) | 5:44 | 2024-09-12 |  |
 | [So Different](https://open.spotify.com/track/7ncQlEWDcux4xhuoGzY2Lc) | [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt), [TOYZZ](https://open.spotify.com/artist/79WxyVmZBcttTrPqhaAOwV) | [So Different](https://open.spotify.com/album/36Qxy0uYkoTu5sVWvIzoVZ) | 3:00 | 2024-07-26 | 2024-08-31 |
 | [So Done](https://open.spotify.com/track/0mCE8jx5bRIF3pg9D2are3) | [LUCATI](https://open.spotify.com/artist/6l6CFc2kr864voPxTDcYZn) | [So Done](https://open.spotify.com/album/6qXB7L2TBwUp0A10uL5znx) | 3:52 | 2022-07-15 | 2022-07-17 |
 | [So Good](https://open.spotify.com/track/111f87qSJCQ7tYZP1zHlkQ) | [Jeff Service](https://open.spotify.com/artist/4H3t1JPHocqaca99qRD19L) | [So Good](https://open.spotify.com/album/3NUsX6WT9Ct43QjHpdjr1Z) | 2:41 | 2022-06-24 | 2022-07-02 |

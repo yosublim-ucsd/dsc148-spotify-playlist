@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 
 ### [254 Flow](https://open.spotify.com/playlist/37i9dQZF1DWZdKbfDnTWVN)
 
-> The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/7Ijwdl32LSddH695Qn3q5o?si=2wz5EaCuTGmoLDJ6\_gEFcg"> Octopizzo</a>
+> The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6?si=b0HILXSmRjK9I0YpZgVZXQ"> Nyashinski</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,775 likes - 59 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,780 likes - 57 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,15 +57,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 | 47 | [Majirani](https://open.spotify.com/track/4N6oK5NkAG4em9uPUffiWr) | [Groovy Jo](https://open.spotify.com/artist/1IwUZ6iKBJmi7YdDRqAHr6) | [Majirani](https://open.spotify.com/album/5YrYtHlQpj4nDPLB2MNTE9) | 2:31 |
 | 48 | [Bite It](https://open.spotify.com/track/0EZQBAOtK2gQg1YYp1uEcD) | [Musa Kiama](https://open.spotify.com/artist/2HaOR22reVpfXDk5N4sYVw), [HR the Messenger](https://open.spotify.com/artist/13R6yXww8KUSQEx97JGkQc) | [Bite It](https://open.spotify.com/album/26YiUFEdEVY198gp6wdYBE) | 2:43 |
 | 49 | [Stupid](https://open.spotify.com/track/5itPp7vwbbObaeYETYTonq) | [Young Lunya](https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni), [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [Stupid](https://open.spotify.com/album/5hY6eS9rOtoahRhOzQqO5a) | 3:48 |
-| 50 | [Mzigo](https://open.spotify.com/track/75QOnqQyG9HGeiH2HDV6ye) | [Wangechi](https://open.spotify.com/artist/3sRwsuyZVOyczSZUSiAHj6), [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Mzigo](https://open.spotify.com/album/6HsyXPe7DuDcKCQert6a3U) | 3:55 |
-| 51 | [Woo](https://open.spotify.com/track/2X4y4atdcQXSaWn8aBSJZq) | [Boutross](https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y) | [Woo](https://open.spotify.com/album/6JKsNhNlPwfClt6j5ueIJM) | 2:00 |
-| 52 | [Graduation](https://open.spotify.com/track/5jP8QCZmOtmxVZIS23WZUH) | [Wakadinali](https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK), [Andrew Kibe](https://open.spotify.com/artist/54SDA4SxQAFdOpQSy1tCk8) | [Graduation](https://open.spotify.com/album/3v4ptMackvTqlVudDDrZqx) | 4:05 |
-| 53 | [Kuwa Strong](https://open.spotify.com/track/0QM3gpqToq417bchLwu85C) | [Kahu$h](https://open.spotify.com/artist/5XRsIBzy6ampDaZvPzRxxr) | [Kuwa Strong](https://open.spotify.com/album/2QpOPczp4woACSct0s87Gv) | 2:58 |
-| 54 | [Starshine](https://open.spotify.com/track/7JR3NMwh6rLIosFhFtatEF) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Starshine](https://open.spotify.com/album/3reSPpvFtvYOIzMN0S8GC3) | 3:06 |
-| 55 | [Brighter Days](https://open.spotify.com/track/6FkrTePPtL8kAC9lBsITK1) | [Katapilla](https://open.spotify.com/artist/2sV5D5jVpZCszKEyvSbuET) | [Brighter Days](https://open.spotify.com/album/5KEGFl48jAKTNT3AvFN4Y9) | 4:07 |
-| 56 | [Midas Touch](https://open.spotify.com/track/2eoyaHL33pdJ1e0IzUhuIG) | [Breeder LW](https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy) | [Midas Touch](https://open.spotify.com/album/1aJN6BERgVwmJvRinhiDot) | 3:40 |
-| 57 | [Doing It Major](https://open.spotify.com/track/5SWH1zFKXIwNL50sStm7Ei) | [Silverstone Barz](https://open.spotify.com/artist/0ORrak8S66JgLaZFSXH6gg), [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Doing It Major](https://open.spotify.com/album/6LhgJz1N20khvZ9P45nqFN) | 3:11 |
-| 58 | [Mtungi](https://open.spotify.com/track/1D8EvJwAQaBrS5mY2xDZht) | [FEMI ONE](https://open.spotify.com/artist/1Kg4nxeTD9wP3082jp1nkH) | [Mtungi](https://open.spotify.com/album/3yh1hLgnx7f682n9E3kdZ4) | 3:05 |
-| 59 | [GABANNA](https://open.spotify.com/track/1bsmgqxtkjJXYqKNxzbTe3) | [Kuky](https://open.spotify.com/artist/2rxDcEa4Y6mPL7VyQjF8fe), [Groovy Jo](https://open.spotify.com/artist/1IwUZ6iKBJmi7YdDRqAHr6) | [Gabbana](https://open.spotify.com/album/4AhJBCOl3KifNJKy5Vsvcf) | 3:00 |
+| 50 | [Woo](https://open.spotify.com/track/2X4y4atdcQXSaWn8aBSJZq) | [Boutross](https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y) | [Woo](https://open.spotify.com/album/6JKsNhNlPwfClt6j5ueIJM) | 2:00 |
+| 51 | [Graduation](https://open.spotify.com/track/5jP8QCZmOtmxVZIS23WZUH) | [Wakadinali](https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK), [Andrew Kibe](https://open.spotify.com/artist/54SDA4SxQAFdOpQSy1tCk8) | [Graduation](https://open.spotify.com/album/3v4ptMackvTqlVudDDrZqx) | 4:05 |
+| 52 | [Kuwa Strong](https://open.spotify.com/track/0QM3gpqToq417bchLwu85C) | [Kahu$h](https://open.spotify.com/artist/5XRsIBzy6ampDaZvPzRxxr) | [Kuwa Strong](https://open.spotify.com/album/2QpOPczp4woACSct0s87Gv) | 2:58 |
+| 53 | [Starshine](https://open.spotify.com/track/7JR3NMwh6rLIosFhFtatEF) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Starshine](https://open.spotify.com/album/3reSPpvFtvYOIzMN0S8GC3) | 3:06 |
+| 54 | [Brighter Days](https://open.spotify.com/track/6FkrTePPtL8kAC9lBsITK1) | [Katapilla](https://open.spotify.com/artist/2sV5D5jVpZCszKEyvSbuET) | [Brighter Days](https://open.spotify.com/album/5KEGFl48jAKTNT3AvFN4Y9) | 4:07 |
+| 55 | [Doing It Major](https://open.spotify.com/track/5SWH1zFKXIwNL50sStm7Ei) | [Silverstone Barz](https://open.spotify.com/artist/0ORrak8S66JgLaZFSXH6gg), [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Doing It Major](https://open.spotify.com/album/6LhgJz1N20khvZ9P45nqFN) | 3:11 |
+| 56 | [Mtungi](https://open.spotify.com/track/1D8EvJwAQaBrS5mY2xDZht) | [FEMI ONE](https://open.spotify.com/artist/1Kg4nxeTD9wP3082jp1nkH) | [Mtungi](https://open.spotify.com/album/3yh1hLgnx7f682n9E3kdZ4) | 3:05 |
+| 57 | [GABANNA](https://open.spotify.com/track/1bsmgqxtkjJXYqKNxzbTe3) | [Kuky](https://open.spotify.com/artist/2rxDcEa4Y6mPL7VyQjF8fe), [Groovy Jo](https://open.spotify.com/artist/1IwUZ6iKBJmi7YdDRqAHr6) | [Gabbana](https://open.spotify.com/album/4AhJBCOl3KifNJKy5Vsvcf) | 3:00 |
 
-Snapshot ID: `ZuAqbQAAAACM5Gf9u9gmlM0xTBi1vu0y`
+Snapshot ID: `ZuOARAAAAAAk6BckUEZMvF5/wMV+lDYw`

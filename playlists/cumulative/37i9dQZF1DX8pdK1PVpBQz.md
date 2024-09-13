@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. <br/>Cover: Stocker
 
-3,549 songs - 8 day 2 hr 38 min
+3,550 songs - 8 day 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1159,7 +1159,7 @@
 | [FUNERAL](https://open.spotify.com/track/6MH3PWNs3ugmoOxGYOtAc3) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9), [E^ST](https://open.spotify.com/artist/7ASucWaI33cepJbo74Hlo0) | [BRAND NEW YOU](https://open.spotify.com/album/0x3pq7YeJk3pz3yytBVGfD) | 3:53 | 2022-11-30 | 2023-01-13 |
 | [Funklude feat\. Eden Burns](https://open.spotify.com/track/4Q8EqpoVomp4c4jLQJa5Tn) | [Nice Girl](https://open.spotify.com/artist/2y5CM4wbWQ9R4JTjB860lB), [Eden Burns](https://open.spotify.com/artist/6lItMkb0pYOU1DvFUWgYo2) | [Funklude feat\. Eden Burns](https://open.spotify.com/album/2rGaQyCHbJIWBmyaU39EJR) | 1:44 | 2023-09-21 | 2023-10-12 |
 | [future](https://open.spotify.com/track/5pePQBezgnXvhIK7KVwdIs) | [nathan vega](https://open.spotify.com/artist/2FeIDiRttO8dAzQtOfBZjw) | [future](https://open.spotify.com/album/0bLZsBQ6vMaRN9a1TFPPpm) | 4:08 | 2023-05-10 | 2023-06-08 |
-| [Future Exhales](https://open.spotify.com/track/3Srhh0YyL7asTQdJA5LelC) | [Twine](https://open.spotify.com/artist/5MHpGdn6o4ezeRsrN14wZk) | [Future Exhales](https://open.spotify.com/album/3GwTXYJ9walpnWzBIC4fx4) | 3:38 | 2024-08-27 |  |
+| [Future Exhales](https://open.spotify.com/track/3Srhh0YyL7asTQdJA5LelC) | [Twine](https://open.spotify.com/artist/5MHpGdn6o4ezeRsrN14wZk) | [Future Exhales](https://open.spotify.com/album/3GwTXYJ9walpnWzBIC4fx4) | 3:38 | 2024-08-27 | 2024-09-13 |
 | [Future Life](https://open.spotify.com/track/49Z4ep3ToXuPFRykvnFZ0h) | [Mildlife](https://open.spotify.com/artist/1lsJmnN90u3KBvF3tGEWr3) | [Chorus](https://open.spotify.com/album/61vxUvosI96p5brDcwJpUS) | 4:35 | 2024-03-01 | 2024-04-17 |
 | [Future Retro](https://open.spotify.com/track/3mFuparWB4dLExR7kqWIVk) | [Pugilist](https://open.spotify.com/artist/5PXa57bB4y0vrQqeZX7A2S) | [Static](https://open.spotify.com/album/7MfssjcrTOYUYre8GcxDAj) | 4:44 | 2022-02-09 | 2022-03-02 |
 | [Fuzzy](https://open.spotify.com/track/3rbvTHMixDKS84FLygc7ns) | [Freeds](https://open.spotify.com/artist/71OucXLZgracCypSFSaDwi) | [Fuzzy](https://open.spotify.com/album/2YVL66TiPtd66D939cdkKW) | 2:56 | 2022-05-11 | 2022-06-16 |
@@ -1879,6 +1879,7 @@
 | [Love Child](https://open.spotify.com/track/3teoz7vgjOFHCbYbLCNxG8) | [Micra](https://open.spotify.com/artist/0riJKpNDw4fboGdUimavkK) | [Love Child](https://open.spotify.com/album/7McCgFaFYHOLTUpG9dVLfA) | 3:24 | 2022-07-27 | 2022-08-25 |
 | [Love Don't Exist](https://open.spotify.com/track/3x5MdhBFaVldNRJM8H782D) | [KIMMI.](https://open.spotify.com/artist/24S7TE92iNGkM1aT5ApIMD) | [Love Don't Exist](https://open.spotify.com/album/2UE3YPKeSChWXVnAV61mCc) | 2:28 | 2024-03-13 | 2024-03-22 |
 | [Love Drunk](https://open.spotify.com/track/4wIqS0mVjkvxpDrBAQJFUM) | [r.em.edy](https://open.spotify.com/artist/2zimfjugiCq53nziN8cenP) | [Love Drunk](https://open.spotify.com/album/3PdETTKYyFVEjGFdsXgxUU) | 3:33 | 2022-06-22 | 2022-06-30 |
+| [Love Enemy](https://open.spotify.com/track/1w8l4gl6K6f058btfRUVj8) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Love Enemy](https://open.spotify.com/album/4MKGeejGJTYDZFHSDvK1od) | 3:42 | 2024-09-12 |  |
 | [Love In This World](https://open.spotify.com/track/1Fd08siIhiGu7Ys0fxjwDc) | [JYLPO](https://open.spotify.com/artist/1KeT36km8BYQZD79atBWCe) | [Love In This World](https://open.spotify.com/album/7lYohOkxlgPamZnoYz5iGV) | 2:43 | 2022-08-16 | 2022-09-15 |
 | [Love Is The Easiest Salvation](https://open.spotify.com/track/5Ezy7YrrmvtvahoZtSNyi0) | [Elizabeth](https://open.spotify.com/artist/4PeDuiJ3tM8So1Ai7c5szN) | [Love Is The Easiest Salvation](https://open.spotify.com/album/22zNIorzRk6Khd4Q2s8Ixp) | 3:29 | 2023-08-16 | 2023-08-31 |
 | [LOVE JONES](https://open.spotify.com/track/32Hf54CMMSPjNZibCUKNQb) | [Yawdoesitall](https://open.spotify.com/artist/3TtvX6o3U5yzsEIAw0Ls1P) | [LOVE JONES](https://open.spotify.com/album/014x8zhLlyuech4jhqCdXj) | 2:58 | 2023-09-13 | 2023-10-05 |

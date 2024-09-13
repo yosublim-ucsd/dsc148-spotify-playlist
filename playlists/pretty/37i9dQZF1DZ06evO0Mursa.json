@@ -1,12 +1,12 @@
 {
-  "description": "This is Karl Jenkins\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
-  "num_followers": 9190,
+  "description": "This is Karl Jenkins. The essential tracks, all in one playlist.",
+  "num_followers": 9197,
   "original_name": "This Is Karl Jenkins",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zt+MAAAAAAA6gtgTj7lKGJb1tSKTAZzB",
+  "snapshot_id": "ZuDdgAAAAABtMwoAZ9wsfC9rudpKd+xN",
   "tracks": [
     {
       "added_at": null,
@@ -359,50 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adiemus - Songs Of Sanctuary",
-        "url": "https://open.spotify.com/album/1SeuDxCewZcCdxLUFACb8G"
-      },
-      "artists": [
-        {
-          "name": "Karl Jenkins",
-          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
-        },
-        {
-          "name": "Adiemus",
-          "url": "https://open.spotify.com/artist/73GJmUlQIaIhau1wiDsXVB"
-        },
-        {
-          "name": "Miriam Stockley",
-          "url": "https://open.spotify.com/artist/3yBHmpIPyOHa80cQxSedau"
-        },
-        {
-          "name": "Jody K. Jenkins",
-          "url": "https://open.spotify.com/artist/4FjeS3mNCRfJqN4jRTr4Er"
-        },
-        {
-          "name": "London Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
-        },
-        {
-          "name": "Mary Carewe",
-          "url": "https://open.spotify.com/artist/2ZYdpQgTZ31R3tjiX25XNT"
-        },
-        {
-          "name": "Frank Ricotti",
-          "url": "https://open.spotify.com/artist/1An6yhcxEllxaF1rOWyfrM"
-        },
-        {
-          "name": "Mike Taylor",
-          "url": "https://open.spotify.com/artist/5hcN45ZqF2aTQfaQcjApzO"
-        }
-      ],
-      "duration_ms": 476266,
-      "name": "Kayama",
-      "url": "https://open.spotify.com/track/74UiAwqOTEtEBcSKDIayj6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Adiemus IV - The Eternal Knot",
         "url": "https://open.spotify.com/album/1VsVrkxUBJuLlqTiiApYLx"
       },
@@ -447,6 +403,50 @@
       "duration_ms": 105706,
       "name": "Hermit Of The Sea Rock",
       "url": "https://open.spotify.com/track/647hrC5FasZ5NeMznMWqZ7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adiemus - Songs Of Sanctuary",
+        "url": "https://open.spotify.com/album/1SeuDxCewZcCdxLUFACb8G"
+      },
+      "artists": [
+        {
+          "name": "Karl Jenkins",
+          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
+        },
+        {
+          "name": "Adiemus",
+          "url": "https://open.spotify.com/artist/73GJmUlQIaIhau1wiDsXVB"
+        },
+        {
+          "name": "Miriam Stockley",
+          "url": "https://open.spotify.com/artist/3yBHmpIPyOHa80cQxSedau"
+        },
+        {
+          "name": "Jody K. Jenkins",
+          "url": "https://open.spotify.com/artist/4FjeS3mNCRfJqN4jRTr4Er"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        },
+        {
+          "name": "Mary Carewe",
+          "url": "https://open.spotify.com/artist/2ZYdpQgTZ31R3tjiX25XNT"
+        },
+        {
+          "name": "Frank Ricotti",
+          "url": "https://open.spotify.com/artist/1An6yhcxEllxaF1rOWyfrM"
+        },
+        {
+          "name": "Mike Taylor",
+          "url": "https://open.spotify.com/artist/5hcN45ZqF2aTQfaQcjApzO"
+        }
+      ],
+      "duration_ms": 476266,
+      "name": "Kayama",
+      "url": "https://open.spotify.com/track/74UiAwqOTEtEBcSKDIayj6"
     },
     {
       "added_at": null,
@@ -559,30 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Symphonic Adiemus",
-        "url": "https://open.spotify.com/album/3ROSZyD97Qw2M1ZCsrsDgg"
-      },
-      "artists": [
-        {
-          "name": "Karl Jenkins",
-          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
-        },
-        {
-          "name": "Peter Pejtsik",
-          "url": "https://open.spotify.com/artist/2GwrkEbcYi6RODxm5hYSMO"
-        },
-        {
-          "name": "Adiemus Symphony Orchestra Of Europe",
-          "url": "https://open.spotify.com/artist/2bjB9FSML4HEGelnGPxws8"
-        }
-      ],
-      "duration_ms": 258973,
-      "name": "Chorale: Elegia",
-      "url": "https://open.spotify.com/track/71SkYHPsw0PRA6aoreHq3y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Adiemus - Songs Of Sanctuary",
         "url": "https://open.spotify.com/album/1SeuDxCewZcCdxLUFACb8G"
       },
@@ -623,6 +599,30 @@
       "duration_ms": 195600,
       "name": "Cantus Inaequalis",
       "url": "https://open.spotify.com/track/3ZxkVXF4ijNYBsOjRFH7BL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Symphonic Adiemus",
+        "url": "https://open.spotify.com/album/3ROSZyD97Qw2M1ZCsrsDgg"
+      },
+      "artists": [
+        {
+          "name": "Karl Jenkins",
+          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
+        },
+        {
+          "name": "Peter Pejtsik",
+          "url": "https://open.spotify.com/artist/2GwrkEbcYi6RODxm5hYSMO"
+        },
+        {
+          "name": "Adiemus Symphony Orchestra Of Europe",
+          "url": "https://open.spotify.com/artist/2bjB9FSML4HEGelnGPxws8"
+        }
+      ],
+      "duration_ms": 258973,
+      "name": "Chorale: Elegia",
+      "url": "https://open.spotify.com/track/71SkYHPsw0PRA6aoreHq3y"
     },
     {
       "added_at": null,
@@ -691,6 +691,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Miserere: Songs of Mercy and Redemption",
+        "url": "https://open.spotify.com/album/4FgevhPw65z1YYEx3BJr8O"
+      },
+      "artists": [
+        {
+          "name": "Karl Jenkins",
+          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
+        },
+        {
+          "name": "Stephen Layton",
+          "url": "https://open.spotify.com/artist/1K7xwpFg70fiAJnXGWo90o"
+        },
+        {
+          "name": "Abel Selaocoe",
+          "url": "https://open.spotify.com/artist/44LUiqh2zLIWA4UPdPmvWU"
+        },
+        {
+          "name": "Britten Sinfonia",
+          "url": "https://open.spotify.com/artist/3P1VtkpIYbw6YoTo0KYlxy"
+        },
+        {
+          "name": "Catrin Finch",
+          "url": "https://open.spotify.com/artist/5YHCN15OUsjGAg1az5m818"
+        }
+      ],
+      "duration_ms": 158146,
+      "name": "Miserere: Songs of Mercy and Redemption: 4. Sacramentum",
+      "url": "https://open.spotify.com/track/258YLW6YrRGA4pqmVdWBdS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Requiem",
         "url": "https://open.spotify.com/album/6wq82GuuBqD4gIN073fa7O"
       },
@@ -747,38 +779,6 @@
       "duration_ms": 274480,
       "name": "Requiem: IX. Pie Jesu",
       "url": "https://open.spotify.com/track/6sxyG3aGLTP0kcXeLUK4N5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Miserere: Songs of Mercy and Redemption",
-        "url": "https://open.spotify.com/album/4FgevhPw65z1YYEx3BJr8O"
-      },
-      "artists": [
-        {
-          "name": "Karl Jenkins",
-          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
-        },
-        {
-          "name": "Stephen Layton",
-          "url": "https://open.spotify.com/artist/1K7xwpFg70fiAJnXGWo90o"
-        },
-        {
-          "name": "Abel Selaocoe",
-          "url": "https://open.spotify.com/artist/44LUiqh2zLIWA4UPdPmvWU"
-        },
-        {
-          "name": "Britten Sinfonia",
-          "url": "https://open.spotify.com/artist/3P1VtkpIYbw6YoTo0KYlxy"
-        },
-        {
-          "name": "Catrin Finch",
-          "url": "https://open.spotify.com/artist/5YHCN15OUsjGAg1az5m818"
-        }
-      ],
-      "duration_ms": 158146,
-      "name": "Miserere: Songs of Mercy and Redemption: 4. Sacramentum",
-      "url": "https://open.spotify.com/track/258YLW6YrRGA4pqmVdWBdS"
     },
     {
       "added_at": null,
@@ -1399,34 +1399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adiemus III - Dances Of Time",
-        "url": "https://open.spotify.com/album/3OT5afyfJ2dJfDmdzFB8sH"
-      },
-      "artists": [
-        {
-          "name": "Karl Jenkins",
-          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
-        },
-        {
-          "name": "Adiemus",
-          "url": "https://open.spotify.com/artist/73GJmUlQIaIhau1wiDsXVB"
-        },
-        {
-          "name": "London Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
-        },
-        {
-          "name": "Duncan Riddell",
-          "url": "https://open.spotify.com/artist/6xKwhcvmdKIDdEGbSwh1gh"
-        }
-      ],
-      "duration_ms": 306320,
-      "name": "Corrente (Courante)",
-      "url": "https://open.spotify.com/track/6K3sMfHcVak9gMlJcVP0ta"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Adiemus IV - The Eternal Knot",
         "url": "https://open.spotify.com/album/1VsVrkxUBJuLlqTiiApYLx"
       },
@@ -1479,6 +1451,34 @@
       "duration_ms": 238293,
       "name": "Saint Declan's Drone",
       "url": "https://open.spotify.com/track/72lWYRxo9zmA6UHWUtEg6O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adiemus III - Dances Of Time",
+        "url": "https://open.spotify.com/album/3OT5afyfJ2dJfDmdzFB8sH"
+      },
+      "artists": [
+        {
+          "name": "Karl Jenkins",
+          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
+        },
+        {
+          "name": "Adiemus",
+          "url": "https://open.spotify.com/artist/73GJmUlQIaIhau1wiDsXVB"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        },
+        {
+          "name": "Duncan Riddell",
+          "url": "https://open.spotify.com/artist/6xKwhcvmdKIDdEGbSwh1gh"
+        }
+      ],
+      "duration_ms": 306320,
+      "name": "Corrente (Courante)",
+      "url": "https://open.spotify.com/track/6K3sMfHcVak9gMlJcVP0ta"
     },
     {
       "added_at": null,

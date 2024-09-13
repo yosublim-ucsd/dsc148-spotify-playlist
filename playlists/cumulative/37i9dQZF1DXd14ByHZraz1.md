@@ -2,7 +2,7 @@
 
 ### [mint brasil](https://open.spotify.com/playlist/37i9dQZF1DXd14ByHZraz1)
 
-> Vem com as tracks dos maiores nomes da música eletrônica nacional\. Foto: NUZB
+> Vem com as tracks dos maiores nomes da música eletrônica nacional\. Foto: RUBACK, Amesens
 
 205 songs - 10 hr 38 min
 

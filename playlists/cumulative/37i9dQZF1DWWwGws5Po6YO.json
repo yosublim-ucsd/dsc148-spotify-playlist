@@ -185,6 +185,64 @@
     },
     {
       "album": {
+        "name": "Amare",
+        "url": "https://open.spotify.com/album/3oxivy9SmR7lht1flomM6f"
+      },
+      "artists": [
+        {
+          "name": "Hollie Kenniff",
+          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
+        },
+        {
+          "name": "Helios",
+          "url": "https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226613,
+      "name": "Amare",
+      "url": "https://open.spotify.com/track/2gb81DReTCiQpzl7L6wMph"
+    },
+    {
+      "album": {
+        "name": "CHANDANI",
+        "url": "https://open.spotify.com/album/5rltLBY7tp2T0l7O4jHWoh"
+      },
+      "artists": [
+        {
+          "name": "Chiara Dubey",
+          "url": "https://open.spotify.com/artist/4pleWkStGuAIJnSzZF55mH"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189350,
+      "name": "Amma",
+      "url": "https://open.spotify.com/track/6EVlMgdGXNlTQUi9xITR9G"
+    },
+    {
+      "album": {
+        "name": "Analemma",
+        "url": "https://open.spotify.com/album/15lfjXDmpHkn8pIlQTEDWq"
+      },
+      "artists": [
+        {
+          "name": "Maya Shenfeld",
+          "url": "https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 477048,
+      "name": "Analemma",
+      "url": "https://open.spotify.com/track/5HbEM6W17e2vRkiARgWT29"
+    },
+    {
+      "album": {
         "name": "Berlin Atonal: More Light",
         "url": "https://open.spotify.com/album/5oZRcQW7SpQqefRotC20tA"
       },
@@ -214,7 +272,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 399346,
       "name": "Aralkum",
       "url": "https://open.spotify.com/track/5WTL2dxPPRTdKZrrFOvHiD"
@@ -495,6 +553,28 @@
     },
     {
       "album": {
+        "name": "Breathless",
+        "url": "https://open.spotify.com/album/6GiIvMLkoLLSBVNiZuqo0w"
+      },
+      "artists": [
+        {
+          "name": "Helios",
+          "url": "https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w"
+        },
+        {
+          "name": "Hollie Kenniff",
+          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185834,
+      "name": "Breathless",
+      "url": "https://open.spotify.com/track/7q7ADZ5huqi7bf0vdWHDwZ"
+    },
+    {
+      "album": {
         "name": "I Could Be Your Dog / I Could Be Your Moon",
         "url": "https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK"
       },
@@ -579,6 +659,28 @@
     },
     {
       "album": {
+        "name": "Car Alarm, Turn Signal",
+        "url": "https://open.spotify.com/album/5CaNDqcdbSedlvPcCbZ67Z"
+      },
+      "artists": [
+        {
+          "name": "Lia Kohl",
+          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
+        },
+        {
+          "name": "Ka Baird",
+          "url": "https://open.spotify.com/artist/5IzFojkr5NLxvRExo2OnG6"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287030,
+      "name": "Car Alarm, Turn Signal",
+      "url": "https://open.spotify.com/track/5b9RnePfuBFVrNeoxjvkwD"
+    },
+    {
+      "album": {
         "name": "Trian",
         "url": "https://open.spotify.com/album/1HXxTz5eJWOkvmAl9jVnsS"
       },
@@ -633,6 +735,24 @@
     },
     {
       "album": {
+        "name": "Lovegaze",
+        "url": "https://open.spotify.com/album/5wZ1zvJhdu078W27V9mr5U"
+      },
+      "artists": [
+        {
+          "name": "Nailah Hunter",
+          "url": "https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187861,
+      "name": "Cloudbreath",
+      "url": "https://open.spotify.com/track/4NvNjb3LSb1Tb3GJzfFiEZ"
+    },
+    {
+      "album": {
         "name": "Selected Works Preview",
         "url": "https://open.spotify.com/album/0tbXSlNefw8HfRhxu7KBYZ"
       },
@@ -669,6 +789,42 @@
     },
     {
       "album": {
+        "name": "Endlessness",
+        "url": "https://open.spotify.com/album/51CQQ3tQLRZlZJZ5jcpoGE"
+      },
+      "artists": [
+        {
+          "name": "Nala Sinephro",
+          "url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421813,
+      "name": "Continuum 2",
+      "url": "https://open.spotify.com/track/66O3YWGFyDk1UWhi8BTGMF"
+    },
+    {
+      "album": {
+        "name": "Endlessness",
+        "url": "https://open.spotify.com/album/51CQQ3tQLRZlZJZ5jcpoGE"
+      },
+      "artists": [
+        {
+          "name": "Nala Sinephro",
+          "url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247538,
+      "name": "Continuum 3",
+      "url": "https://open.spotify.com/track/0AXfx8KBcjY3TlrHmApvNr"
+    },
+    {
+      "album": {
         "name": "Cradle (Patience Rework)",
         "url": "https://open.spotify.com/album/2SOtUwtSq0hOOT2X7FtziA"
       },
@@ -684,10 +840,28 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 324000,
       "name": "Cradle - Patience Rework",
       "url": "https://open.spotify.com/track/66Qij0mjaVDgFiaQpQkPY3"
+    },
+    {
+      "album": {
+        "name": "Flux Gourmet - Original Motion Soundtrack Early Taste",
+        "url": "https://open.spotify.com/album/6gEUqqA2KBWcG5K3Cl6z6u"
+      },
+      "artists": [
+        {
+          "name": "Marta Salogni",
+          "url": "https://open.spotify.com/artist/3NbcOSuoO2E4yJmfirHXAS"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236286,
+      "name": "Cross-Contamination",
+      "url": "https://open.spotify.com/track/2bLJmoKr9vMFvFRRpXSWvm"
     },
     {
       "album": {
@@ -746,7 +920,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 280000,
       "name": "dana\u00efdes",
       "url": "https://open.spotify.com/track/1NuEOnS4XOfuwFyihgiXiD"
@@ -768,6 +942,32 @@
       "duration_ms": 194004,
       "name": "Dark green",
       "url": "https://open.spotify.com/track/1T9URTwhBOEiQM5atg0jbz"
+    },
+    {
+      "album": {
+        "name": "Deep Dream (Patricia Wolf Remix)",
+        "url": "https://open.spotify.com/album/01GwqFkx9EpzDxXw0zpfzs"
+      },
+      "artists": [
+        {
+          "name": "Johan Agebj\u00f6rn",
+          "url": "https://open.spotify.com/artist/3UAPnOz02rvpWmIsFQizTP"
+        },
+        {
+          "name": "Mikael \u00d6gren",
+          "url": "https://open.spotify.com/artist/4v80ton7nILeznaVsJQOSl"
+        },
+        {
+          "name": "Patricia Wolf",
+          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Deep Dream - Patricia Wolf Remix",
+      "url": "https://open.spotify.com/track/25JI36KSR7RaJ7zbA1Tnwp"
     },
     {
       "album": {
@@ -804,6 +1004,24 @@
       "duration_ms": 291026,
       "name": "Divining (naming of the Lost)",
       "url": "https://open.spotify.com/track/3TbfqBzk796zABgsCNE9nk"
+    },
+    {
+      "album": {
+        "name": "Axis Of Light",
+        "url": "https://open.spotify.com/album/351ZSNdXJfzDCirBBQ7xMm"
+      },
+      "artists": [
+        {
+          "name": "Katatonic Silentio",
+          "url": "https://open.spotify.com/artist/422gpfV70aFki7wUwIUxXm"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217960,
+      "name": "Drip In The Cave",
+      "url": "https://open.spotify.com/track/4A5mCpJSr1mH57EEARNjYs"
     },
     {
       "album": {
@@ -928,7 +1146,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 835000,
       "name": "Firmamento",
       "url": "https://open.spotify.com/track/0KHQIxbitvGI5Hm8AKEtZa"
@@ -950,6 +1168,24 @@
       "duration_ms": 405570,
       "name": "fountainhead",
       "url": "https://open.spotify.com/track/7DojXUhtusbDX5ZytHTUH4"
+    },
+    {
+      "album": {
+        "name": "Frost",
+        "url": "https://open.spotify.com/album/0AS6gymk1bJPNaxgcZXPes"
+      },
+      "artists": [
+        {
+          "name": "Drum & Lace",
+          "url": "https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 460000,
+      "name": "Frost",
+      "url": "https://open.spotify.com/track/4Kzd3EGu9rGa2bydZ2J8XM"
     },
     {
       "album": {
@@ -1022,6 +1258,24 @@
       "duration_ms": 1351601,
       "name": "Grafts",
       "url": "https://open.spotify.com/track/3MNKjPvkQnMNq8BU2GwYFq"
+    },
+    {
+      "album": {
+        "name": "Sky Flesh",
+        "url": "https://open.spotify.com/album/23UUgWs6MW97BvAORIXEV3"
+      },
+      "artists": [
+        {
+          "name": "Marta De Pascalis",
+          "url": "https://open.spotify.com/artist/5mcn2ysmgFilH73FQhQIcr"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "Harmonices Infinity",
+      "url": "https://open.spotify.com/track/4ODfW9GRZ2ePNCY8B8yRLh"
     },
     {
       "album": {
@@ -1166,7 +1420,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 448119,
       "name": "Hymn",
       "url": "https://open.spotify.com/track/1OqQpPHXWlfEZDEwHH1BFa"
@@ -1238,7 +1492,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 321693,
       "name": "In Her Hair",
       "url": "https://open.spotify.com/track/76cA2zwvP6oZXMEMrx7jRV"
@@ -1422,7 +1676,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 434141,
       "name": "Lazuli",
       "url": "https://open.spotify.com/track/3szBS8kp9pGEcCWAzD0hI4"
@@ -1473,6 +1727,24 @@
     },
     {
       "album": {
+        "name": "One Universal Breath",
+        "url": "https://open.spotify.com/album/47WEDEEZNLVuppL1bmHcvj"
+      },
+      "artists": [
+        {
+          "name": "Veryan",
+          "url": "https://open.spotify.com/artist/0VtrpLfJvEkqmDHUGBMhRk"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277333,
+      "name": "Lift Hands",
+      "url": "https://open.spotify.com/track/5Yv6nOfN88vJqLR8X4enQ8"
+    },
+    {
+      "album": {
         "name": "Sketch for Winter IX: Perlita",
         "url": "https://open.spotify.com/album/4v9uUlcfLWHzhZfmoTjAz8"
       },
@@ -1484,7 +1756,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 266057,
       "name": "Light in Phases",
       "url": "https://open.spotify.com/track/46cgCeZNqCMTmzlBKtFPin"
@@ -1596,7 +1868,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 298061,
       "name": "Mary, You Were Wrong",
       "url": "https://open.spotify.com/track/7cAjwU15bF9O81UjiC1HpH"
@@ -1798,7 +2070,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 240000,
       "name": "My People Have Deep Roots",
       "url": "https://open.spotify.com/track/5taMzHf1NWTcjLxGAn3DhX"
@@ -1910,7 +2182,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 436776,
       "name": "Night Journeys II",
       "url": "https://open.spotify.com/track/43uv8HHkDXbCi5JsjpPS0t"
@@ -2268,7 +2540,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 570000,
       "name": "SOTRS",
       "url": "https://open.spotify.com/track/3AFGqSmaHEOYZlNVqAjPo7"
@@ -2286,7 +2558,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 248000,
       "name": "Space 1",
       "url": "https://open.spotify.com/track/1WGvKEkU8c3uvqmZpUt5ZL"
@@ -2340,7 +2612,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 653904,
       "name": "Spectacle Of Ritual",
       "url": "https://open.spotify.com/track/62SMTFdXWQ4g8UMcgk0WLz"
@@ -2448,10 +2720,32 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 184586,
       "name": "Stratus",
       "url": "https://open.spotify.com/track/7G0celL82dCIDYjUxdPyoG"
+    },
+    {
+      "album": {
+        "name": "Big Majestic",
+        "url": "https://open.spotify.com/album/54PPhxM0V8V87txFsNVWgb"
+      },
+      "artists": [
+        {
+          "name": "Ellen Reid",
+          "url": "https://open.spotify.com/artist/4WEngLwjeu7FBLX8Ws2uka"
+        },
+        {
+          "name": "Kronos Quartet",
+          "url": "https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162230,
+      "name": "Strawberry Hill Ascent",
+      "url": "https://open.spotify.com/track/7dcAGnZgECMRTDKRM9pmqg"
     },
     {
       "album": {
@@ -2965,6 +3259,28 @@
     },
     {
       "album": {
+        "name": "Virga (feat. Darlingside)",
+        "url": "https://open.spotify.com/album/4Atmmk5jUaQVGxd0XtvsfG"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Williams",
+          "url": "https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs"
+        },
+        {
+          "name": "Darlingside",
+          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382867,
+      "name": "Virga (feat. Darlingside)",
+      "url": "https://open.spotify.com/track/3hhJFk8PZEb0h3aAMbQRcM"
+    },
+    {
+      "album": {
         "name": "After its own death / Walking in a spiral towards the house",
         "url": "https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB"
       },
@@ -3030,7 +3346,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 230051,
       "name": "We Wave From Our Boats",
       "url": "https://open.spotify.com/track/0udjSw7JY1kClm50cqndkN"

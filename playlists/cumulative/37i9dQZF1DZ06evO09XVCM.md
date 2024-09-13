@@ -4,7 +4,7 @@
 
 > This is Ziggy Marley\. The essential tracks, all in one playlist.
 
-66 songs - 4 hr 17 min
+67 songs - 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Mmmm Mmmm](https://open.spotify.com/track/1rVLXkHg9a2w6A8qGigwsN) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Wild And Free](https://open.spotify.com/album/3JhnFg804zHUlIRjByYytY) | 3:30 | 2024-02-01 | 2024-03-10 |
 | [One Love/People Get Ready \- Live](https://open.spotify.com/track/72O23qlY7x6kh45WWhAhZB) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Bob Marley 75th Celebration \(Pt.1\) \[Live\]](https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6) | 5:06 | 2024-02-01 |  |
 | [Peace & Love](https://open.spotify.com/track/2Y2DiA8VA05lw1SDNCcVhL) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Rebel Queen](https://open.spotify.com/album/6LHuKanB3fdLZhTQNdB2l1) | 3:48 | 2024-07-29 |  |
-| [Personal Revolution](https://open.spotify.com/track/2wtbphcz9aYNU8ONf8OkrB) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Wild and Free](https://open.spotify.com/album/3c7fo7FWxD6XqTlJ77uF0r) | 4:54 | 2024-06-21 |  |
+| [Personal Revolution](https://open.spotify.com/track/18zWYolDSOdfJIEyMLyGWa) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Wild and Free](https://open.spotify.com/album/6yek0cOvHIJMWrqhamDq4o) | 4:54 | 2024-09-13 |  |
+| [Personal Revolution](https://open.spotify.com/track/2wtbphcz9aYNU8ONf8OkrB) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Wild and Free](https://open.spotify.com/album/3c7fo7FWxD6XqTlJ77uF0r) | 4:54 | 2024-06-21 | 2024-09-13 |
 | [Personal Revolution](https://open.spotify.com/track/6pkW8i62ePJGccr8fsVqIY) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Wild And Free](https://open.spotify.com/album/3JhnFg804zHUlIRjByYytY) | 4:54 | 2024-02-01 | 2024-04-15 |
 | [Personal Revolution \- Live](https://open.spotify.com/track/78MJxpgW1vyCpcjkc714KB) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Personal Revolution \(Live\)](https://open.spotify.com/album/4uzWNogETDR04paJciOp1E) | 5:27 | 2024-04-15 | 2024-06-10 |
 | [Positive Vibration \- Live](https://open.spotify.com/track/586RM5fmoVHHCrjMKZHj8O) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Bob Marley 75th Celebration \(Pt.1\) \[Live\]](https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6) | 4:16 | 2024-02-01 |  |

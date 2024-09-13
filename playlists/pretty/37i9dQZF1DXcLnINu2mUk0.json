@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: MENDEZ, Soarito",
-  "num_followers": 46972,
+  "num_followers": 46976,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -435,26 +435,6 @@
     {
       "added_at": "2024-09-05 23:00:00",
       "album": {
-        "name": "Chamadas",
-        "url": "https://open.spotify.com/album/6AWc7VG51dRddGEWXjLpcH"
-      },
-      "artists": [
-        {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
-        },
-        {
-          "name": "Van Zee",
-          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
-        }
-      ],
-      "duration_ms": 156672,
-      "name": "Chamadas",
-      "url": "https://open.spotify.com/track/5qp0l5NUFRlwLuDs9Xxogv"
-    },
-    {
-      "added_at": "2024-09-05 23:00:00",
-      "album": {
         "name": "ROSAS",
         "url": "https://open.spotify.com/album/2R7iGYEwaSDTW68ucY9W4E"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 177272,
       "name": "ROSAS",
       "url": "https://open.spotify.com/track/0elz4WC9ZtAOzqP4fgt8T5"
+    },
+    {
+      "added_at": "2024-09-05 23:00:00",
+      "album": {
+        "name": "Chamadas",
+        "url": "https://open.spotify.com/album/6AWc7VG51dRddGEWXjLpcH"
+      },
+      "artists": [
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        },
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        }
+      ],
+      "duration_ms": 156672,
+      "name": "Chamadas",
+      "url": "https://open.spotify.com/track/5qp0l5NUFRlwLuDs9Xxogv"
     },
     {
       "added_at": "2024-09-05 23:00:00",
@@ -1103,30 +1103,6 @@
     {
       "added_at": "2024-09-05 23:00:00",
       "album": {
-        "name": "ORDEM & PROGRESSO",
-        "url": "https://open.spotify.com/album/3zKhMzs8Hw9XQJVYovzcW1"
-      },
-      "artists": [
-        {
-          "name": "Plutonio",
-          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
-        },
-        {
-          "name": "PL Quest",
-          "url": "https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        }
-      ],
-      "duration_ms": 209150,
-      "name": "Agrade\u00e7o",
-      "url": "https://open.spotify.com/track/5GXJgx3zcR3m3ihcqbFBLv"
-    },
-    {
-      "added_at": "2024-09-05 23:00:00",
-      "album": {
         "name": "SINAIS",
         "url": "https://open.spotify.com/album/5loNhqIOFE1wsdKVF8Yd6K"
       },
@@ -1147,6 +1123,30 @@
       "duration_ms": 206392,
       "name": "SINAIS",
       "url": "https://open.spotify.com/track/509CUFQtHu6p5PULNw6D5t"
+    },
+    {
+      "added_at": "2024-09-05 23:00:00",
+      "album": {
+        "name": "ORDEM & PROGRESSO",
+        "url": "https://open.spotify.com/album/3zKhMzs8Hw9XQJVYovzcW1"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        },
+        {
+          "name": "PL Quest",
+          "url": "https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "duration_ms": 209150,
+      "name": "Agrade\u00e7o",
+      "url": "https://open.spotify.com/track/5GXJgx3zcR3m3ihcqbFBLv"
     },
     {
       "added_at": "2024-09-05 23:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-09-05 23:00:00",
       "album": {
-        "name": "Par Perfeito",
-        "url": "https://open.spotify.com/album/6TjeNnMWpVYxdNwxOndcLP"
-      },
-      "artists": [
-        {
-          "name": "CADU",
-          "url": "https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3"
-        }
-      ],
-      "duration_ms": 153400,
-      "name": "Convite",
-      "url": "https://open.spotify.com/track/3MLsf0fu4JmIywg73Bs2ej"
-    },
-    {
-      "added_at": "2024-09-05 23:00:00",
-      "album": {
         "name": "GUUD",
         "url": "https://open.spotify.com/album/0sLx2K52GRknvH8AwYBsDI"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 168631,
       "name": "GUUD",
       "url": "https://open.spotify.com/track/2Ug7Rcy1Cd9Z0y4RqGgPNk"
+    },
+    {
+      "added_at": "2024-09-05 23:00:00",
+      "album": {
+        "name": "Par Perfeito",
+        "url": "https://open.spotify.com/album/6TjeNnMWpVYxdNwxOndcLP"
+      },
+      "artists": [
+        {
+          "name": "CADU",
+          "url": "https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3"
+        }
+      ],
+      "duration_ms": 153400,
+      "name": "Convite",
+      "url": "https://open.spotify.com/track/3MLsf0fu4JmIywg73Bs2ej"
     },
     {
       "added_at": "2024-09-05 23:00:00",
@@ -1295,26 +1295,6 @@
     {
       "added_at": "2024-09-05 23:00:00",
       "album": {
-        "name": "Boca Boca",
-        "url": "https://open.spotify.com/album/4UUcOH3XKTLyGs7BLO24dg"
-      },
-      "artists": [
-        {
-          "name": "Nice Life",
-          "url": "https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ"
-        },
-        {
-          "name": "Edson Mausse",
-          "url": "https://open.spotify.com/artist/6lCJRK5noJGrc4zxaOy0Lw"
-        }
-      ],
-      "duration_ms": 196911,
-      "name": "Boca Boca",
-      "url": "https://open.spotify.com/track/4EGL3tAihYP71niPmPzk5g"
-    },
-    {
-      "added_at": "2024-09-05 23:00:00",
-      "album": {
         "name": "Soma",
         "url": "https://open.spotify.com/album/6nlMPBV9pvlP9O5sUA1iez"
       },
@@ -1335,6 +1315,26 @@
       "duration_ms": 219266,
       "name": "Mood 111",
       "url": "https://open.spotify.com/track/5ZcyKNKvNX5ZJofCwvTArU"
+    },
+    {
+      "added_at": "2024-09-05 23:00:00",
+      "album": {
+        "name": "Boca Boca",
+        "url": "https://open.spotify.com/album/4UUcOH3XKTLyGs7BLO24dg"
+      },
+      "artists": [
+        {
+          "name": "Nice Life",
+          "url": "https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ"
+        },
+        {
+          "name": "Edson Mausse",
+          "url": "https://open.spotify.com/artist/6lCJRK5noJGrc4zxaOy0Lw"
+        }
+      ],
+      "duration_ms": 196911,
+      "name": "Boca Boca",
+      "url": "https://open.spotify.com/track/4EGL3tAihYP71niPmPzk5g"
     },
     {
       "added_at": "2024-09-05 23:00:00",

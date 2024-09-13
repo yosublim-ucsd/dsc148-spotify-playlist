@@ -1,12 +1,12 @@
 {
   "description": "New music from A$AP Rocky, J. Cole and NLE Choppa.",
-  "num_followers": 16086868,
+  "num_followers": 16079808,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtsPuAAAAABBEr5XdhZ2kL1ogkBz7pjd",
+  "snapshot_id": "ZuJnQAAAAABltAEg3uFxSo3ZQoPpidl6",
   "tracks": [
     {
       "added_at": "2024-09-06 14:20:40",
@@ -183,6 +183,22 @@
       "duration_ms": 158018,
       "name": "U Kno What To Do (UKWTD)",
       "url": "https://open.spotify.com/track/1ZrzdArzDJj71mCOFa2qmV"
+    },
+    {
+      "added_at": "2024-09-12 04:00:00",
+      "album": {
+        "name": "Ready to Die (The Remaster)",
+        "url": "https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "duration_ms": 302760,
+      "name": "Juicy - 2005 Remaster",
+      "url": "https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX"
     },
     {
       "added_at": "2024-09-06 14:20:40",
@@ -873,7 +889,7 @@
         }
       ],
       "duration_ms": 193419,
-      "name": "MALIBU - WITH TEE GRIZZLEY & G HERBO",
+      "name": "MALIBU (WITH TEE GRIZZLEY & G HERBO)",
       "url": "https://open.spotify.com/track/72P14Y3mB5PUSEHAnBDIQ4"
     },
     {

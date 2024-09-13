@@ -2,9 +2,9 @@
 
 ### [Swahili Love ](https://open.spotify.com/playlist/37i9dQZF1DX1YGbV4eeC1J)
 
-> What is your love language? Say it in Swahili\.  Cover: Harmonize
+> What is your love language? Say it in Swahili\.  Cover: Yammi & Mbosso
 
-223 songs - 12 hr 45 min
+224 songs - 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,13 +154,14 @@
 | [Nikilala](https://open.spotify.com/track/6RFGm7BDBsbGM2A4Q332n4) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [Nikilala](https://open.spotify.com/album/1cUWkCUttv5J9EyGJutwWL) | 2:30 | 2023-03-10 | 2023-07-07 |
 | [Nikupende](https://open.spotify.com/track/4Nmk8cdKR6XZadYTGVRoIa) | [Elani](https://open.spotify.com/artist/7v4v8ZiBQC6HHeCuA2lQ26) | [Barua ya Dunia](https://open.spotify.com/album/7fLPbISe7JY8c0O0huAL0Z) | 4:24 | 2022-05-26 | 2022-09-23 |
 | [Nimepona](https://open.spotify.com/track/5QBOkEw7DDaZ8PQ2TuGxrY) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [Nimepona](https://open.spotify.com/album/2rxqrKuaUCUkV4kej5LlJQ) | 3:23 | 2023-03-02 | 2023-09-22 |
-| [Nini Mapenzi](https://open.spotify.com/track/6DZbkBCNOJCrdeelhTt11E) | [Christian Bella](https://open.spotify.com/artist/6aozNU9SYbDun9FIhXKZEn) | [Nini Mapenzi](https://open.spotify.com/album/5s6OQh8EnErELs3qq0YMoY) | 3:24 | 2024-06-07 |  |
+| [Nini Mapenzi](https://open.spotify.com/track/6DZbkBCNOJCrdeelhTt11E) | [Christian Bella](https://open.spotify.com/artist/6aozNU9SYbDun9FIhXKZEn) | [Nini Mapenzi](https://open.spotify.com/album/5s6OQh8EnErELs3qq0YMoY) | 3:24 | 2024-06-07 | 2024-09-13 |
 | [Ninogeshe](https://open.spotify.com/track/2OKwqx3CX9dpU43iW6ycVP) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [The African Princess](https://open.spotify.com/album/4xkMgoIBjnVjk4Vj8YCjD2) | 3:53 | 2022-05-26 | 2023-07-14 |
 | [Nioneshe](https://open.spotify.com/track/6UBHxdwtS4kTvpq3rv7Uxn) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2) | [Nioneshe](https://open.spotify.com/album/3v3I7BtYIjtVQzvj5cJfwi) | 3:25 | 2022-05-26 | 2022-09-24 |
 | [Nipepee](https://open.spotify.com/track/6Cpbvi6GoTfDBYkObnuNNp) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Nipepee](https://open.spotify.com/album/12AXAhxziLLk6R33nyxejH) | 3:26 | 2022-05-26 | 2023-06-03 |
 | [Nipo Nae](https://open.spotify.com/track/69MBM4xMmFI2yq3o6myuAC) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Definition Of Love](https://open.spotify.com/album/6Tc5JDXdbemLvldos05cfp) | 3:26 | 2022-05-26 | 2023-04-14 |
 | [Nishazoea](https://open.spotify.com/track/2aZEeQqaEcQzwOXKSrDw7s) | [Malkia Karen](https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr) | [Nishazoea](https://open.spotify.com/album/0WsAaPPks6bFE1KXWgEigu) | 3:01 | 2022-09-08 | 2023-02-10 |
 | [Nisiulizwe](https://open.spotify.com/track/0CLSneXYlfGvzuzDQeCiao) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [Nisiulizwe](https://open.spotify.com/album/0hM3BzYlQs3FyZQxwZdhpv) | 3:09 | 2024-02-29 |  |
+| [Nitadumu Nae](https://open.spotify.com/track/0BP9o03jFihRWj5aDrBYE2) | [Yammi](https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK), [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Nitadumu Nae](https://open.spotify.com/album/3t9HBzFxZqDGqRMX26xp02) | 3:33 | 2024-09-12 |  |
 | [Nitakupenda](https://open.spotify.com/track/06REPrp2fBDzLX2v7rQW2h) | [Lafrik](https://open.spotify.com/artist/5218C7zgbDGmoMXmf852Fr) | [Love Freaks](https://open.spotify.com/album/1ZSYlH5K7t5wNnM1jq45zT) | 4:05 | 2022-11-17 | 2023-01-20 |
 | [Nitaubeba](https://open.spotify.com/track/4GU6tIn7Ic1kGiHYLP2r18) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Nitaubeba](https://open.spotify.com/album/4hEN4eOrVdc2TbBR85zePI) | 4:10 | 2022-10-27 |  |
 | [Niteke](https://open.spotify.com/track/3dWC1S6dok7pr1B3WyNvQQ) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Niteke](https://open.spotify.com/album/0DJ6lEzgMYxW5om8AUwmpP) | 2:37 | 2022-05-26 | 2023-04-21 |
@@ -173,7 +174,7 @@
 | [Peddi](https://open.spotify.com/track/3aHrxlOER0GudlLbdejqyq) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Qwarantunes](https://open.spotify.com/album/3cg69VcGmpzSHxSV1OA1E5) | 3:47 | 2022-05-26 | 2023-06-16 |
 | [Peke Yangu](https://open.spotify.com/track/6eJGx1fIVOrbz1l9C4udP2) | [Centano](https://open.spotify.com/artist/4LpwKC4lrWuIGRxfbc8GO0) | [Peke Yangu Club Version](https://open.spotify.com/album/79UMH1TfPJ3chYKToIhpM7) | 2:53 | 2024-05-16 | 2024-06-28 |
 | [Pillow Talk](https://open.spotify.com/track/0Cd9nATh0j7UMsDpIYmLxD) | [V\-Be](https://open.spotify.com/artist/4J1fmBdd2R01ls06DjuccW) | [Pillow Talk](https://open.spotify.com/album/6JK8SmKPlxH5OeYR1Kh47j) | 2:47 | 2023-04-06 | 2023-12-01 |
-| [Pooh Nanny \(Nyumbani\)](https://open.spotify.com/track/0Q1yv11VRcHxXQ2ZcEQkWS) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [The Party & The After Party](https://open.spotify.com/album/56Kq8ZQ6hr8weMZ39FfkZq) | 3:05 | 2024-07-25 |  |
+| [Pooh Nanny \(Nyumbani\)](https://open.spotify.com/track/0Q1yv11VRcHxXQ2ZcEQkWS) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [The Party & The After Party](https://open.spotify.com/album/56Kq8ZQ6hr8weMZ39FfkZq) | 3:05 | 2024-07-25 | 2024-09-13 |
 | [Popo](https://open.spotify.com/track/68vAcSVvyxY1j5peKjNYzS) | [Willy Paul](https://open.spotify.com/artist/3CCHaNvCKYNWWrAYo5C8TL), [Miss P](https://open.spotify.com/artist/47oczcod6F5RvQVXD7hDV0) | [Popo](https://open.spotify.com/album/2WeLLoRbfIgWDBvXwnIzFx) | 3:15 | 2023-04-27 | 2023-10-20 |
 | [Pull Up](https://open.spotify.com/track/4eXsImZyEfPFOp5SC2uW8A) | [Ay Masta](https://open.spotify.com/artist/51x9Wi7MSS1v9u89sc63dg), [Taz](https://open.spotify.com/artist/6bzZpgvlwwhSRV6nbsKrXa), [Joh Makini](https://open.spotify.com/artist/7w3tP6LjdsurriXhgJ3Pt0), [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Pull Up](https://open.spotify.com/album/4X2KerKCdtjZbhVHNYIGty) | 3:07 | 2024-08-22 |  |
 | [Rafiki](https://open.spotify.com/track/1zO5X1JsGxihdhwdp3mG6X) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [Rafiki](https://open.spotify.com/album/19iYWFjjmHxMlhJZJlGhdj) | 2:59 | 2024-07-25 |  |

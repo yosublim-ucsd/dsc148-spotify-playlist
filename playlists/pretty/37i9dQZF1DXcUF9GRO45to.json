@@ -1,6 +1,6 @@
 {
   "description": "French scene makes some noise!",
-  "num_followers": 38308,
+  "num_followers": 38307,
   "original_name": "French Noise",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,22 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
+        "name": "Take It or Leave It",
+        "url": "https://open.spotify.com/album/2RHjDtMCXgIFnh1KyoWYpR"
+      },
+      "artists": [
+        {
+          "name": "Teacup Monster",
+          "url": "https://open.spotify.com/artist/4Fqq8tVhE1sYO3MxyZL7sW"
+        }
+      ],
+      "duration_ms": 238947,
+      "name": "Take It",
+      "url": "https://open.spotify.com/track/2gUDcRODF4dwwC6vi90ypV"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
         "name": "Bride",
         "url": "https://open.spotify.com/album/2vxiT1e0xm36rYyn3EwvVj"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 260250,
       "name": "Rebounds",
       "url": "https://open.spotify.com/track/7BTmWEdtfvluFSNxjiudYu"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
-        "name": "Take It or Leave It",
-        "url": "https://open.spotify.com/album/2RHjDtMCXgIFnh1KyoWYpR"
-      },
-      "artists": [
-        {
-          "name": "Teacup Monster",
-          "url": "https://open.spotify.com/artist/4Fqq8tVhE1sYO3MxyZL7sW"
-        }
-      ],
-      "duration_ms": 238947,
-      "name": "Take It",
-      "url": "https://open.spotify.com/track/2gUDcRODF4dwwC6vi90ypV"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "The Butcher's Fantasy",
-        "url": "https://open.spotify.com/album/258BmnVI2s63E5IKM4iUUn"
-      },
-      "artists": [
-        {
-          "name": "Down to the Wire",
-          "url": "https://open.spotify.com/artist/2xP00Vrg8hwhdi121FCxbK"
-        }
-      ],
-      "duration_ms": 237692,
-      "name": "The Butcher's Fantasy",
-      "url": "https://open.spotify.com/track/2xAw4FgHs0lnmEpCXB8vWH"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
         "name": "Bodysick",
         "url": "https://open.spotify.com/album/1Cx9PXN9WJIJEge4JXHknM"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 167280,
       "name": "Hypersects",
       "url": "https://open.spotify.com/track/1uyeiZXzeP2uDViqIDHoMl"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "The Butcher's Fantasy",
+        "url": "https://open.spotify.com/album/258BmnVI2s63E5IKM4iUUn"
+      },
+      "artists": [
+        {
+          "name": "Down to the Wire",
+          "url": "https://open.spotify.com/artist/2xP00Vrg8hwhdi121FCxbK"
+        }
+      ],
+      "duration_ms": 237692,
+      "name": "The Butcher's Fantasy",
+      "url": "https://open.spotify.com/track/2xAw4FgHs0lnmEpCXB8vWH"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Hara",
-        "url": "https://open.spotify.com/album/23RMgtP4v1gGTXnANwQCPU"
-      },
-      "artists": [
-        {
-          "name": "Datcha Mandala",
-          "url": "https://open.spotify.com/artist/6HGIo68pNJojy4jcz9uE88"
-        }
-      ],
-      "duration_ms": 204106,
-      "name": "Stick It Out",
-      "url": "https://open.spotify.com/track/3LglMEtGTUFhAPTxa5ewwa"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
         "name": "Ashamed",
         "url": "https://open.spotify.com/album/2AVURS4qCdrIZkqriAelGo"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 179000,
       "name": "Crystal Glass",
       "url": "https://open.spotify.com/track/6g6kaanB0CkHwZVizWUaGj"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "Hara",
+        "url": "https://open.spotify.com/album/23RMgtP4v1gGTXnANwQCPU"
+      },
+      "artists": [
+        {
+          "name": "Datcha Mandala",
+          "url": "https://open.spotify.com/artist/6HGIo68pNJojy4jcz9uE88"
+        }
+      ],
+      "duration_ms": 204106,
+      "name": "Stick It Out",
+      "url": "https://open.spotify.com/track/3LglMEtGTUFhAPTxa5ewwa"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -715,38 +715,6 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Event Horizon",
-        "url": "https://open.spotify.com/album/0x0gdhe3A8aWCEMktBiQAY"
-      },
-      "artists": [
-        {
-          "name": "Howard",
-          "url": "https://open.spotify.com/artist/3bwdCcoC0DQB3fpQn9fqnm"
-        }
-      ],
-      "duration_ms": 180960,
-      "name": "Heedless",
-      "url": "https://open.spotify.com/track/5Gp3ki8Tvqoop5f1AuvsXr"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
-        "name": "Houses Are Built The Same",
-        "url": "https://open.spotify.com/album/4KeFsz1xKIYgztkHQbyrVh"
-      },
-      "artists": [
-        {
-          "name": "CATHEDRALE",
-          "url": "https://open.spotify.com/artist/1OYppHNOuAIQ69SvpKPR5F"
-        }
-      ],
-      "duration_ms": 190508,
-      "name": "Gold Rush",
-      "url": "https://open.spotify.com/track/2BbJnbjHspWPoNQxUktXam"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
         "name": "Park",
         "url": "https://open.spotify.com/album/5TlXmC4JTP9rrBvQV9O621"
       },
@@ -771,18 +739,34 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Devil's Dance",
-        "url": "https://open.spotify.com/album/5sifGNh0NHOWpxlnIgJZDR"
+        "name": "Houses Are Built The Same",
+        "url": "https://open.spotify.com/album/4KeFsz1xKIYgztkHQbyrVh"
       },
       "artists": [
         {
-          "name": "Goblins On Saturn",
-          "url": "https://open.spotify.com/artist/0XZmQFCZSSXUUQunfVJr4v"
+          "name": "CATHEDRALE",
+          "url": "https://open.spotify.com/artist/1OYppHNOuAIQ69SvpKPR5F"
         }
       ],
-      "duration_ms": 223978,
-      "name": "Devil's Dance",
-      "url": "https://open.spotify.com/track/45dAEqHX92rv5mXyYO82k7"
+      "duration_ms": 190508,
+      "name": "Gold Rush",
+      "url": "https://open.spotify.com/track/2BbJnbjHspWPoNQxUktXam"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "Event Horizon",
+        "url": "https://open.spotify.com/album/0x0gdhe3A8aWCEMktBiQAY"
+      },
+      "artists": [
+        {
+          "name": "Howard",
+          "url": "https://open.spotify.com/artist/3bwdCcoC0DQB3fpQn9fqnm"
+        }
+      ],
+      "duration_ms": 180960,
+      "name": "Heedless",
+      "url": "https://open.spotify.com/track/5Gp3ki8Tvqoop5f1AuvsXr"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -799,6 +783,22 @@
       "duration_ms": 253906,
       "name": "Fireworks",
       "url": "https://open.spotify.com/track/08JoE08IrBh5FOW91eq7Hu"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "Devil's Dance",
+        "url": "https://open.spotify.com/album/5sifGNh0NHOWpxlnIgJZDR"
+      },
+      "artists": [
+        {
+          "name": "Goblins On Saturn",
+          "url": "https://open.spotify.com/artist/0XZmQFCZSSXUUQunfVJr4v"
+        }
+      ],
+      "duration_ms": 223978,
+      "name": "Devil's Dance",
+      "url": "https://open.spotify.com/track/45dAEqHX92rv5mXyYO82k7"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Paradis",
-        "url": "https://open.spotify.com/album/3H70ykleQyOBLTyXlU4Gy9"
-      },
-      "artists": [
-        {
-          "name": "MDNS",
-          "url": "https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA"
-        }
-      ],
-      "duration_ms": 141238,
-      "name": "Paradis",
-      "url": "https://open.spotify.com/track/53CZ1AmFTNPQnLrzGAlw2j"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
         "name": "doityourself",
         "url": "https://open.spotify.com/album/6nNZnKlaKC0RqMHOZjSUYQ"
       },
@@ -915,6 +899,22 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
+        "name": "Paradis",
+        "url": "https://open.spotify.com/album/3H70ykleQyOBLTyXlU4Gy9"
+      },
+      "artists": [
+        {
+          "name": "MDNS",
+          "url": "https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA"
+        }
+      ],
+      "duration_ms": 141238,
+      "name": "Paradis",
+      "url": "https://open.spotify.com/track/53CZ1AmFTNPQnLrzGAlw2j"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
         "name": "Fall Away",
         "url": "https://open.spotify.com/album/5WbqS655AbA289SoaS4x7Q"
       },
@@ -927,22 +927,6 @@
       "duration_ms": 182008,
       "name": "Fall Away",
       "url": "https://open.spotify.com/track/1CEZOLVOKSAQIxbTDT4g8m"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
-        "name": "Liquor Liquor",
-        "url": "https://open.spotify.com/album/36yINXB0OBwSntX5Ae7WXd"
-      },
-      "artists": [
-        {
-          "name": "Ponta Preta",
-          "url": "https://open.spotify.com/artist/4yJHzoFmD1ysQRd3qDR37e"
-        }
-      ],
-      "duration_ms": 222288,
-      "name": "Liquor Liquor",
-      "url": "https://open.spotify.com/track/4xHZ6hH2dbPP1lKn5ZLHYQ"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -975,6 +959,22 @@
       "duration_ms": 308125,
       "name": "Welcome Newcomers",
       "url": "https://open.spotify.com/track/0yPdYvRz6qTo0oI6CFJwDj"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "Liquor Liquor",
+        "url": "https://open.spotify.com/album/36yINXB0OBwSntX5Ae7WXd"
+      },
+      "artists": [
+        {
+          "name": "Ponta Preta",
+          "url": "https://open.spotify.com/artist/4yJHzoFmD1ysQRd3qDR37e"
+        }
+      ],
+      "duration_ms": 222288,
+      "name": "Liquor Liquor",
+      "url": "https://open.spotify.com/track/4xHZ6hH2dbPP1lKn5ZLHYQ"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Linger Over, Linger On",
-        "url": "https://open.spotify.com/album/6TKDj8xVjtCy1ZUyUgSoLX"
-      },
-      "artists": [
-        {
-          "name": "The Great Divide",
-          "url": "https://open.spotify.com/artist/1KDvR3odlKqAOjqT2Rp3Dn"
-        }
-      ],
-      "duration_ms": 283226,
-      "name": "Anyone, Evermore",
-      "url": "https://open.spotify.com/track/6binrNkX9MO9nyFNt2pH1n"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
         "name": "Future Me",
         "url": "https://open.spotify.com/album/5OaYsU9Y4xwSOYZ8N1TntQ"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 258372,
       "name": "Only Weird People Can Fly",
       "url": "https://open.spotify.com/track/75zhMxYeZoLRp2qrKiz5sQ"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "Linger Over, Linger On",
+        "url": "https://open.spotify.com/album/6TKDj8xVjtCy1ZUyUgSoLX"
+      },
+      "artists": [
+        {
+          "name": "The Great Divide",
+          "url": "https://open.spotify.com/artist/1KDvR3odlKqAOjqT2Rp3Dn"
+        }
+      ],
+      "duration_ms": 283226,
+      "name": "Anyone, Evermore",
+      "url": "https://open.spotify.com/track/6binrNkX9MO9nyFNt2pH1n"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
+        "name": "From Blue",
+        "url": "https://open.spotify.com/album/2Tkh9QIKdZ7h4nURbfv5xb"
+      },
+      "artists": [
+        {
+          "name": "Uncut",
+          "url": "https://open.spotify.com/artist/1VnwZ4jMNVIsOnR2X5VwYs"
+        }
+      ],
+      "duration_ms": 249946,
+      "name": "Gold Digger Woman",
+      "url": "https://open.spotify.com/track/6NnzPYNCUGzxiNhSdAVWyO"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
         "name": "Your Great Deception",
         "url": "https://open.spotify.com/album/6oQ0AQ3JRMTPbZRwFhXWP3"
       },
@@ -1399,18 +1415,18 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "From Blue",
-        "url": "https://open.spotify.com/album/2Tkh9QIKdZ7h4nURbfv5xb"
+        "name": "From The Sea To Your Mind",
+        "url": "https://open.spotify.com/album/2jGv5SpNA7IVPGMisdbrw9"
       },
       "artists": [
         {
-          "name": "Uncut",
-          "url": "https://open.spotify.com/artist/1VnwZ4jMNVIsOnR2X5VwYs"
+          "name": "SIZ",
+          "url": "https://open.spotify.com/artist/1CtmxHZBoOqnM9fhtnODEo"
         }
       ],
-      "duration_ms": 249946,
-      "name": "Gold Digger Woman",
-      "url": "https://open.spotify.com/track/6NnzPYNCUGzxiNhSdAVWyO"
+      "duration_ms": 329909,
+      "name": "From The Sea To Your Mind",
+      "url": "https://open.spotify.com/track/7uCaXe0aBw5PdS19PmNDYF"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1427,22 +1443,6 @@
       "duration_ms": 189803,
       "name": "Moments",
       "url": "https://open.spotify.com/track/1ANlexfiMuDYl6T6G8o93v"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
-        "name": "From The Sea To Your Mind",
-        "url": "https://open.spotify.com/album/2jGv5SpNA7IVPGMisdbrw9"
-      },
-      "artists": [
-        {
-          "name": "SIZ",
-          "url": "https://open.spotify.com/artist/1CtmxHZBoOqnM9fhtnODEo"
-        }
-      ],
-      "duration_ms": 329909,
-      "name": "From The Sea To Your Mind",
-      "url": "https://open.spotify.com/track/7uCaXe0aBw5PdS19PmNDYF"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Rhythm + Ethics",
-        "url": "https://open.spotify.com/album/4EM1ezTjVXDTL6p8TaAIRG"
-      },
-      "artists": [
-        {
-          "name": "PURRS",
-          "url": "https://open.spotify.com/artist/0pwgKVwaPpV1hRl4ZSeyCx"
-        }
-      ],
-      "duration_ms": 205386,
-      "name": "Sink",
-      "url": "https://open.spotify.com/track/0M40TJrYk8d8mdSpEmSIzN"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
         "name": "Vomit Candy",
         "url": "https://open.spotify.com/album/3enD08oLyPBEvFL5vSufJF"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 163186,
       "name": "Vomit Candy",
       "url": "https://open.spotify.com/track/21ir1Jx963He5dvy6WeFg5"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "Rhythm + Ethics",
+        "url": "https://open.spotify.com/album/4EM1ezTjVXDTL6p8TaAIRG"
+      },
+      "artists": [
+        {
+          "name": "PURRS",
+          "url": "https://open.spotify.com/artist/0pwgKVwaPpV1hRl4ZSeyCx"
+        }
+      ],
+      "duration_ms": 205386,
+      "name": "Sink",
+      "url": "https://open.spotify.com/track/0M40TJrYk8d8mdSpEmSIzN"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
+        "name": "Homes & Galaxies",
+        "url": "https://open.spotify.com/album/0TvqbBd23TOC2gSxnYbgV3"
+      },
+      "artists": [
+        {
+          "name": "Fl\u00e8che",
+          "url": "https://open.spotify.com/artist/5R5eFkv3lGzBuYpjU6w5qs"
+        }
+      ],
+      "duration_ms": 263100,
+      "name": "Once You Taste Blood",
+      "url": "https://open.spotify.com/track/52npcX3OyVS3Gg5UAYtpbO"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
         "name": "A Breach To The Cosmos",
         "url": "https://open.spotify.com/album/2n2jUjEaw8932DlBLoQsRC"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 225333,
       "name": "A Breach To The Cosmos",
       "url": "https://open.spotify.com/track/2u3GG2oC0rBnjCUbHkbRZv"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
-        "name": "The Lair of Gods",
-        "url": "https://open.spotify.com/album/1snWQPp1HIT5ixB77kRcpf"
-      },
-      "artists": [
-        {
-          "name": "Servo",
-          "url": "https://open.spotify.com/artist/6y5MFAfEupGez5ZLRYDHlN"
-        }
-      ],
-      "duration_ms": 241812,
-      "name": "Tree",
-      "url": "https://open.spotify.com/track/38fLg3qA8mtJTuLDmtVc3x"
     }
   ],
   "unique_name": "French Noise",

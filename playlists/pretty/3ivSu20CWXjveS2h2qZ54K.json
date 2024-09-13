@@ -6,7 +6,7 @@
     "name": "Jenesaispop",
     "url": "https://open.spotify.com/user/jenesaispop"
   },
-  "snapshot_id": "AACeKZkzwh2lpLC1d0l2fsW4aJ0jybnS",
+  "snapshot_id": "AACePpeZ7AZ43F/33BgdRTJAa1I1DMNB",
   "tracks": [
     {
       "added_at": "2024-09-11 09:13:46",
@@ -43,6 +43,290 @@
       "duration_ms": 203692,
       "name": "Audacious",
       "url": "https://open.spotify.com/track/53OqecARVvVCUTjL1yg0sq"
+    },
+    {
+      "added_at": "2024-09-12 19:51:24",
+      "album": {
+        "name": "Talk talk featuring troye sivan",
+        "url": "https://open.spotify.com/album/4hSYRtDjN1XbTqBKTw33sj"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 173076,
+      "name": "Talk talk featuring troye sivan",
+      "url": "https://open.spotify.com/track/2LUD3874dlzeRa34Hi7ohW"
+    },
+    {
+      "added_at": "2024-09-12 19:59:00",
+      "album": {
+        "name": "Just A Western",
+        "url": "https://open.spotify.com/album/1vVnnj9S99ub44XnSknEXZ"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        }
+      ],
+      "duration_ms": 269473,
+      "name": "Just A Western",
+      "url": "https://open.spotify.com/track/69GRL4Pmz6yxw3CUkaeP2A"
+    },
+    {
+      "added_at": "2024-09-12 20:00:18",
+      "album": {
+        "name": "This Is My Guitar",
+        "url": "https://open.spotify.com/album/5Q9S1tdheUX0p93zgggVQZ"
+      },
+      "artists": [
+        {
+          "name": "Christopher Owens",
+          "url": "https://open.spotify.com/artist/0ukgSx1gUt5rUihbNh46qy"
+        }
+      ],
+      "duration_ms": 259211,
+      "name": "This Is My Guitar",
+      "url": "https://open.spotify.com/track/0JDPKiERDI4fZgIiEmkM21"
+    },
+    {
+      "added_at": "2024-09-12 19:59:25",
+      "album": {
+        "name": "Husk",
+        "url": "https://open.spotify.com/album/13KxV6ezroXhAW7sPEG6QS"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 204651,
+      "name": "Husk",
+      "url": "https://open.spotify.com/track/0iMSUfh4oQplV5OrmrlIbm"
+    },
+    {
+      "added_at": "2024-09-12 20:00:30",
+      "album": {
+        "name": "The Museum",
+        "url": "https://open.spotify.com/album/4l1cDTdCU6bqdnl2yjWRvG"
+      },
+      "artists": [
+        {
+          "name": "Half Waif",
+          "url": "https://open.spotify.com/artist/28mCmWkgrWHZ4fm5c3OcIj"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "The Museum",
+      "url": "https://open.spotify.com/track/2N3nDEuwW4R43y32Gz34cs"
+    },
+    {
+      "added_at": "2024-09-12 19:59:17",
+      "album": {
+        "name": "Diets",
+        "url": "https://open.spotify.com/album/63XnTjXGxxDn9jN9KRulAm"
+      },
+      "artists": [
+        {
+          "name": "Dawn Richard",
+          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
+        },
+        {
+          "name": "Spencer Zahn",
+          "url": "https://open.spotify.com/artist/7Besl9VdibJqiIjJ40fphx"
+        }
+      ],
+      "duration_ms": 150161,
+      "name": "Diets",
+      "url": "https://open.spotify.com/track/6w7ZeeQhoeQpONVxHp5ocK"
+    },
+    {
+      "added_at": "2024-09-12 19:57:18",
+      "album": {
+        "name": "Lonely Heart",
+        "url": "https://open.spotify.com/album/39aaxrgq9cZApb6ce0uxXk"
+      },
+      "artists": [
+        {
+          "name": "Neva Dinova",
+          "url": "https://open.spotify.com/artist/3L22OjRkj5Psvqmsn2Q8Ds"
+        }
+      ],
+      "duration_ms": 209453,
+      "name": "Lonely Heart",
+      "url": "https://open.spotify.com/track/2nDZOPtQ6SBboclx0TZrYP"
+    },
+    {
+      "added_at": "2024-09-12 19:56:54",
+      "album": {
+        "name": "Driver",
+        "url": "https://open.spotify.com/album/7lyh2o99pWYe6T9XI8cjXg"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "duration_ms": 252266,
+      "name": "Driver",
+      "url": "https://open.spotify.com/track/3J9fDdirND6efE3VMFROGp"
+    },
+    {
+      "added_at": "2024-09-12 19:51:54",
+      "album": {
+        "name": "feel like home",
+        "url": "https://open.spotify.com/album/0BHk06yY5omfqv47S1vF4O"
+      },
+      "artists": [
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        }
+      ],
+      "duration_ms": 160320,
+      "name": "feel like home",
+      "url": "https://open.spotify.com/track/5suIFrXr4gXhpEzFNjej85"
+    },
+    {
+      "added_at": "2024-09-12 19:55:38",
+      "album": {
+        "name": "benadryl man",
+        "url": "https://open.spotify.com/album/4F0Iq9LS3vwSBucQrkclGu"
+      },
+      "artists": [
+        {
+          "name": "Shower Curtain",
+          "url": "https://open.spotify.com/artist/04vEYZm6KQQCtUWs2hM8Dj"
+        }
+      ],
+      "duration_ms": 168453,
+      "name": "benadryl man",
+      "url": "https://open.spotify.com/track/3XJW85wpIjnjH00AhAmYcw"
+    },
+    {
+      "added_at": "2024-09-12 19:52:37",
+      "album": {
+        "name": "Goldfish",
+        "url": "https://open.spotify.com/album/6c2RbO8BoFXvMHBLk7HIyp"
+      },
+      "artists": [
+        {
+          "name": "Wand",
+          "url": "https://open.spotify.com/artist/53by9P3tpXOW1diWCI6MNu"
+        }
+      ],
+      "duration_ms": 378313,
+      "name": "Goldfish",
+      "url": "https://open.spotify.com/track/7lOA5gvHyzJoST75xgsHvb"
+    },
+    {
+      "added_at": "2024-09-12 20:02:22",
+      "album": {
+        "name": "Midnight Shining",
+        "url": "https://open.spotify.com/album/3fCh7BiO2OHPrZvjhVGvNP"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 212105,
+      "name": "Midnight Shining",
+      "url": "https://open.spotify.com/track/3mYsAOZUuqeqVwQw0BAdgv"
+    },
+    {
+      "added_at": "2024-09-12 19:59:39",
+      "album": {
+        "name": "The Waitress of St Louis'",
+        "url": "https://open.spotify.com/album/4urkioyWXc36qvDwu19u1Q"
+      },
+      "artists": [
+        {
+          "name": "Field Music",
+          "url": "https://open.spotify.com/artist/5P1tdwsQdI6z9MXXfmYRDS"
+        }
+      ],
+      "duration_ms": 191758,
+      "name": "The Waitress of St Louis'",
+      "url": "https://open.spotify.com/track/4gq0rUqmnsPlMX1LHb3v0l"
+    },
+    {
+      "added_at": "2024-09-12 19:48:17",
+      "album": {
+        "name": "CLUB GRASA",
+        "url": "https://open.spotify.com/album/72bmHBiYWuPDOZ1GphH2IR"
+      },
+      "artists": [
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        },
+        {
+          "name": "Lua de Santana",
+          "url": "https://open.spotify.com/artist/1SCoi5U37R1KbEQHuKKgam"
+        },
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        }
+      ],
+      "duration_ms": 180480,
+      "name": "MENINA - MURA MASA REMIX (feat. Mura Masa)",
+      "url": "https://open.spotify.com/track/46xcXrJUZFMYbxnCeKTt0D"
+    },
+    {
+      "added_at": "2024-09-12 19:53:16",
+      "album": {
+        "name": "METHANAL DOLL",
+        "url": "https://open.spotify.com/album/6K9BMoBuSNqO0NGeNNMM3O"
+      },
+      "artists": [
+        {
+          "name": "Pharmakon",
+          "url": "https://open.spotify.com/artist/1ix1aDOd7GSOeT9iqNh5KO"
+        }
+      ],
+      "duration_ms": 320850,
+      "name": "METHANAL DOLL",
+      "url": "https://open.spotify.com/track/6WUcQtvI1kqS8KQ34CfB2w"
+    },
+    {
+      "added_at": "2024-09-12 19:51:10",
+      "album": {
+        "name": "Run It",
+        "url": "https://open.spotify.com/album/2H4D7hjnfvXgvjYk8ig6CG"
+      },
+      "artists": [
+        {
+          "name": "clipping.",
+          "url": "https://open.spotify.com/artist/5HJ2kX5UTwN4Ns8fB5Rn1I"
+        },
+        {
+          "name": "Daveed Diggs",
+          "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
+        },
+        {
+          "name": "Jonathan Snipes",
+          "url": "https://open.spotify.com/artist/5v69lcKunkvGk1SimYwL0M"
+        },
+        {
+          "name": "William Hutson",
+          "url": "https://open.spotify.com/artist/709RUroHgigfxfOrPwVDAm"
+        }
+      ],
+      "duration_ms": 298536,
+      "name": "Run It",
+      "url": "https://open.spotify.com/track/1X7Sx0RqJitRQWnZ1TvtLE"
     },
     {
       "added_at": "2024-09-06 04:36:20",

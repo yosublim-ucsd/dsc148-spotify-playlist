@@ -1,6 +1,6 @@
 {
   "description": "Grandes vozes da m\u00fasica brasileira de hoje e de ontem reunidas em uma \u00fanica playlist. Foto: Gal Costa",
-  "num_followers": 330366,
+  "num_followers": 330386,
   "original_name": "Escuta as Minas",
   "owner": {
     "name": "Spotify",
@@ -75,6 +75,22 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
+        "name": "Esmeraldas (\u00c1lbum Comentado)",
+        "url": "https://open.spotify.com/album/6EtAuxIwZCEuUZEqn2DwII"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ea",
+          "url": "https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7"
+        }
+      ],
+      "duration_ms": 218040,
+      "name": "A noite",
+      "url": "https://open.spotify.com/track/06XSmh92M0FIYNGC4Ss0CX"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
         "name": "The Astrud Gilberto Album",
         "url": "https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E"
       },
@@ -91,22 +107,6 @@
       "duration_ms": 138013,
       "name": "\u00c1gua de Beber",
       "url": "https://open.spotify.com/track/3QKJELWORZZ7rUZDWeMWSA"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "Esmeraldas (\u00c1lbum Comentado)",
-        "url": "https://open.spotify.com/album/6EtAuxIwZCEuUZEqn2DwII"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ea",
-          "url": "https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7"
-        }
-      ],
-      "duration_ms": 218040,
-      "name": "A noite",
-      "url": "https://open.spotify.com/track/06XSmh92M0FIYNGC4Ss0CX"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "C\u00e9u Azul",
-        "url": "https://open.spotify.com/album/4d8qHcNLN7LUC6dogWwKvD"
-      },
-      "artists": [
-        {
-          "name": "Paula Toller",
-          "url": "https://open.spotify.com/artist/5BQveHScm6btG6jfbxwyfs"
-        }
-      ],
-      "duration_ms": 204221,
-      "name": "C\u00e9u Azul",
-      "url": "https://open.spotify.com/track/4VRGyVtzKZWEIw87TSoinl"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Ana",
         "url": "https://open.spotify.com/album/03EODNJC2L3f9Yq6QrgEJX"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 226243,
       "name": "X",
       "url": "https://open.spotify.com/track/0yxu73Lfmnu96II1VxvpfQ"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "C\u00e9u Azul",
+        "url": "https://open.spotify.com/album/4d8qHcNLN7LUC6dogWwKvD"
+      },
+      "artists": [
+        {
+          "name": "Paula Toller",
+          "url": "https://open.spotify.com/artist/5BQveHScm6btG6jfbxwyfs"
+        }
+      ],
+      "duration_ms": 204221,
+      "name": "C\u00e9u Azul",
+      "url": "https://open.spotify.com/track/4VRGyVtzKZWEIw87TSoinl"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Del\u00edrio",
-        "url": "https://open.spotify.com/album/6xOlwAGA7rxAzBfOzkWLhU"
-      },
-      "artists": [
-        {
-          "name": "Roberta S\u00e1",
-          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
-        }
-      ],
-      "duration_ms": 174186,
-      "name": "Del\u00edrio",
-      "url": "https://open.spotify.com/track/6xljIkWM1sM84RPw4coZWZ"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Bandida",
         "url": "https://open.spotify.com/album/57gugEndr41sLF4rRVcUte"
       },
@@ -1675,18 +1659,18 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Silencia",
-        "url": "https://open.spotify.com/album/4Yft0S0ZM9u4m7AlN5wzkF"
+        "name": "Del\u00edrio",
+        "url": "https://open.spotify.com/album/6xOlwAGA7rxAzBfOzkWLhU"
       },
       "artists": [
         {
-          "name": "Ceumar",
-          "url": "https://open.spotify.com/artist/4lTstEgQJelAPnmAuNg5Nu"
+          "name": "Roberta S\u00e1",
+          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
         }
       ],
-      "duration_ms": 250000,
-      "name": "Encantos de Sereia",
-      "url": "https://open.spotify.com/track/02igANx7YEYQPJzDzI2Fob"
+      "duration_ms": 174186,
+      "name": "Del\u00edrio",
+      "url": "https://open.spotify.com/track/6xljIkWM1sM84RPw4coZWZ"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1703,6 +1687,22 @@
       "duration_ms": 179987,
       "name": "Acabou",
       "url": "https://open.spotify.com/track/0kyrKozPm9P5jbQhSvr9Ir"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Silencia",
+        "url": "https://open.spotify.com/album/4Yft0S0ZM9u4m7AlN5wzkF"
+      },
+      "artists": [
+        {
+          "name": "Ceumar",
+          "url": "https://open.spotify.com/artist/4lTstEgQJelAPnmAuNg5Nu"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Encantos de Sereia",
+      "url": "https://open.spotify.com/track/02igANx7YEYQPJzDzI2Fob"
     },
     {
       "added_at": "2022-10-07 03:01:33",

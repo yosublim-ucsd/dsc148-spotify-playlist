@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Aaron Parks",
+  "description": "The best jazz new releases. Cover: RAYE",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -148,7 +148,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 177833,
       "name": "A Beautiful Story",
       "url": "https://open.spotify.com/track/0Ne0fHLGdb8z3au4EClgTo"
@@ -642,6 +642,24 @@
       "duration_ms": 301440,
       "name": "An Ode",
       "url": "https://open.spotify.com/track/59C1gt0M1tvtwFdJR0tzX1"
+    },
+    {
+      "album": {
+        "name": "And Just Keep Playing",
+        "url": "https://open.spotify.com/album/129XBUfdwfMBd7pB7eqEh8"
+      },
+      "artists": [
+        {
+          "name": "Emile Londonien",
+          "url": "https://open.spotify.com/artist/5xl5tvMxqmHqRbSUHajNS7"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166237,
+      "name": "And Just Keep Playing",
+      "url": "https://open.spotify.com/track/6bvI6NfhE9iFQ0hPx8mTVi"
     },
     {
       "album": {
@@ -3500,7 +3518,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 269065,
       "name": "Feelin' Groovy - Live at Orange Lounge",
       "url": "https://open.spotify.com/track/5sktNvNCghzLvPUvLVyV7m"
@@ -5583,6 +5601,24 @@
     },
     {
       "album": {
+        "name": "Live at Montreux Jazz Festival",
+        "url": "https://open.spotify.com/album/0uqyhvc8HEyztLSTE8RKmx"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419683,
+      "name": "It's A Man's Man's Man's World - Live at Montreux Jazz Festival",
+      "url": "https://open.spotify.com/track/6L1bCa0ff2yknczfXwPLId"
+    },
+    {
+      "album": {
         "name": "It's Alright with Me",
         "url": "https://open.spotify.com/album/40iRG6qHYkWd2bbWFZvKeu"
       },
@@ -5962,6 +5998,24 @@
       "duration_ms": 206606,
       "name": "Just the Beginning",
       "url": "https://open.spotify.com/track/5Kah2gopowr7IVS1ZBEOlo"
+    },
+    {
+      "album": {
+        "name": "Kids Are",
+        "url": "https://open.spotify.com/album/6AaxzyieUG8t057Bjl5wNx"
+      },
+      "artists": [
+        {
+          "name": "Andre Ethier",
+          "url": "https://open.spotify.com/artist/6gkurAgv7a4GoBMv87hLyF"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229506,
+      "name": "Kids Are",
+      "url": "https://open.spotify.com/track/1rnVGF6k4bZG6svG4DwpSf"
     },
     {
       "album": {
@@ -7477,6 +7531,24 @@
     },
     {
       "album": {
+        "name": "We Want Stars",
+        "url": "https://open.spotify.com/album/0DnkWoVSqwKmdqQrJ1RV1S"
+      },
+      "artists": [
+        {
+          "name": "Sylvain Rifflet",
+          "url": "https://open.spotify.com/artist/29UYO17BFU01uHhncAy8ni"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275720,
+      "name": "M\u01cem\u01ceh\u016bh\u016b",
+      "url": "https://open.spotify.com/track/4qPOf0XDjEu4BFWECfRayK"
+    },
+    {
+      "album": {
         "name": "What's a Woman ? (Parce que - La Collection)",
         "url": "https://open.spotify.com/album/5kOHgAflrDLzNFzoRMME9W"
       },
@@ -7510,6 +7582,24 @@
       "duration_ms": 234280,
       "name": "Nature Boy",
       "url": "https://open.spotify.com/track/5qRl4AhKqAHyombYJ2SqiZ"
+    },
+    {
+      "album": {
+        "name": "NAVEGA (Live at Union Chapel)",
+        "url": "https://open.spotify.com/album/6ukCtzAgBbxTwJqUvW2WEJ"
+      },
+      "artists": [
+        {
+          "name": "Mayra Andrade",
+          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228097,
+      "name": "NAVEGA - Live at Union Chapel",
+      "url": "https://open.spotify.com/track/62GylEoHLledwT6JkFn3Mx"
     },
     {
       "album": {
@@ -7892,7 +7982,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 210447,
       "name": "ode to rahsaan",
       "url": "https://open.spotify.com/track/2L6sbcKSPsXPW6x8lyiEsU"
@@ -10760,7 +10850,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 271911,
       "name": "The Quest Begins",
       "url": "https://open.spotify.com/track/3pbRUWgefMDCVY0DBFoNkK"
@@ -12126,7 +12216,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 203300,
       "name": "Where or When",
       "url": "https://open.spotify.com/track/4gJXJkd0zFFanZL2w0RsMB"

@@ -1,6 +1,6 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 204650,
+  "num_followers": 204653,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Satanico-Dramatico",
-        "url": "https://open.spotify.com/album/2PqCK6IT8XfxqbezpgEmBv"
-      },
-      "artists": [
-        {
-          "name": "Dia De Los Muertos",
-          "url": "https://open.spotify.com/artist/0zfiIAZ9Pe1zyVz0NLshqD"
-        }
-      ],
-      "duration_ms": 71000,
-      "name": "Sigo Siendo El Rey",
-      "url": "https://open.spotify.com/track/1AFJELZeaTThbCeiGdgJhJ"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
         "name": "Blood-Rooted",
         "url": "https://open.spotify.com/album/1FS91DJzXoWcl8p6AK0CYG"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 107693,
       "name": "Policia",
       "url": "https://open.spotify.com/track/56EDO4Z7CDAbFRHYRjZOmd"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
+        "name": "Satanico-Dramatico",
+        "url": "https://open.spotify.com/album/2PqCK6IT8XfxqbezpgEmBv"
+      },
+      "artists": [
+        {
+          "name": "Dia De Los Muertos",
+          "url": "https://open.spotify.com/artist/0zfiIAZ9Pe1zyVz0NLshqD"
+        }
+      ],
+      "duration_ms": 71000,
+      "name": "Sigo Siendo El Rey",
+      "url": "https://open.spotify.com/track/1AFJELZeaTThbCeiGdgJhJ"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Llora Chiapas",
-        "url": "https://open.spotify.com/album/36qF2Whdrufy2jQwiQ2GBL"
-      },
-      "artists": [
-        {
-          "name": "Leprosy",
-          "url": "https://open.spotify.com/artist/01U6wng00lcRJt0j2W0O3x"
-        }
-      ],
-      "duration_ms": 312447,
-      "name": "Residentes Olvidados",
-      "url": "https://open.spotify.com/track/6XkM2s8SyhPEL2BYpFRh5P"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
         "name": "Carnage Drinking Party",
         "url": "https://open.spotify.com/album/7aepstukqCVA5U97ZbaEYR"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 170161,
       "name": "Poseido Por Mezcal",
       "url": "https://open.spotify.com/track/1OqhBWdoqAhKxucWfyL6Dp"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
+        "name": "Llora Chiapas",
+        "url": "https://open.spotify.com/album/36qF2Whdrufy2jQwiQ2GBL"
+      },
+      "artists": [
+        {
+          "name": "Leprosy",
+          "url": "https://open.spotify.com/artist/01U6wng00lcRJt0j2W0O3x"
+        }
+      ],
+      "duration_ms": 312447,
+      "name": "Residentes Olvidados",
+      "url": "https://open.spotify.com/track/6XkM2s8SyhPEL2BYpFRh5P"
     },
     {
       "added_at": "2023-04-28 03:00:00",

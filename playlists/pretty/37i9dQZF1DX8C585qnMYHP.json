@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Ana Lua Caiano on cover. Artwork by Thami Nabil",
-  "num_followers": 171157,
+  "num_followers": 171240,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -733,22 +733,6 @@
       "url": "https://open.spotify.com/track/78O1YBhuqh6HOQC6u9ad8w"
     },
     {
-      "added_at": "2024-07-17 04:00:00",
-      "album": {
-        "name": "All good?",
-        "url": "https://open.spotify.com/album/0t6tusoh1iWAYXmI4ER144"
-      },
-      "artists": [
-        {
-          "name": "Nonkeen",
-          "url": "https://open.spotify.com/artist/4164ldqgBP6uc3FuA1gA4b"
-        }
-      ],
-      "duration_ms": 483180,
-      "name": "be a",
-      "url": "https://open.spotify.com/track/7gcEP1HTUtSNLhTOvgUPsj"
-    },
-    {
       "added_at": "2024-08-21 04:00:00",
       "album": {
         "name": "Fuse",
@@ -765,20 +749,20 @@
       "url": "https://open.spotify.com/track/3gyjlDVwsH3ghberyPGJZQ"
     },
     {
-      "added_at": "2024-06-19 06:00:00",
+      "added_at": "2024-07-17 04:00:00",
       "album": {
-        "name": "Forest Drone",
-        "url": "https://open.spotify.com/album/3hW3zaNS0WtTBE53J0Eg45"
+        "name": "All good?",
+        "url": "https://open.spotify.com/album/0t6tusoh1iWAYXmI4ER144"
       },
       "artists": [
         {
-          "name": "COLA REN",
-          "url": "https://open.spotify.com/artist/4C1PrnDnrzoe4U8OyrONzs"
+          "name": "Nonkeen",
+          "url": "https://open.spotify.com/artist/4164ldqgBP6uc3FuA1gA4b"
         }
       ],
-      "duration_ms": 287976,
-      "name": "Forest Drone",
-      "url": "https://open.spotify.com/track/34XFYiJ3nq2qgq63k4ylM2"
+      "duration_ms": 483180,
+      "name": "be a",
+      "url": "https://open.spotify.com/track/7gcEP1HTUtSNLhTOvgUPsj"
     },
     {
       "added_at": "2024-08-07 03:33:24",
@@ -799,6 +783,22 @@
       "duration_ms": 212949,
       "name": "Drip Coda",
       "url": "https://open.spotify.com/track/7Bs1LvXNJsTuwNPkXfFq56"
+    },
+    {
+      "added_at": "2024-06-19 06:00:00",
+      "album": {
+        "name": "Forest Drone",
+        "url": "https://open.spotify.com/album/3hW3zaNS0WtTBE53J0Eg45"
+      },
+      "artists": [
+        {
+          "name": "COLA REN",
+          "url": "https://open.spotify.com/artist/4C1PrnDnrzoe4U8OyrONzs"
+        }
+      ],
+      "duration_ms": 287976,
+      "name": "Forest Drone",
+      "url": "https://open.spotify.com/track/34XFYiJ3nq2qgq63k4ylM2"
     },
     {
       "added_at": "2024-08-21 04:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-08-21 04:00:00",
       "album": {
-        "name": "Frutaria Electr\u200b\u00f3\u200bnica",
-        "url": "https://open.spotify.com/album/0OjFgKTNB0Ip1P5EdJnY23"
-      },
-      "artists": [
-        {
-          "name": "Misha Panfilov",
-          "url": "https://open.spotify.com/artist/2mLgv6MF6Te16Qv6VOqx5p"
-        }
-      ],
-      "duration_ms": 280500,
-      "name": "Maracuja Lounge",
-      "url": "https://open.spotify.com/track/5155fLceNWyzwO0Q67dkln"
-    },
-    {
-      "added_at": "2024-08-21 04:00:00",
-      "album": {
         "name": "Whispering Ln",
         "url": "https://open.spotify.com/album/1f7GOOEzx2OfD2TLT2n951"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 234828,
       "name": "Serenade of Secrets",
       "url": "https://open.spotify.com/track/15eZJIz2RatCBhAWXVhVoS"
+    },
+    {
+      "added_at": "2024-08-21 04:00:00",
+      "album": {
+        "name": "Frutaria Electr\u200b\u00f3\u200bnica",
+        "url": "https://open.spotify.com/album/0OjFgKTNB0Ip1P5EdJnY23"
+      },
+      "artists": [
+        {
+          "name": "Misha Panfilov",
+          "url": "https://open.spotify.com/artist/2mLgv6MF6Te16Qv6VOqx5p"
+        }
+      ],
+      "duration_ms": 280500,
+      "name": "Maracuja Lounge",
+      "url": "https://open.spotify.com/track/5155fLceNWyzwO0Q67dkln"
     },
     {
       "added_at": "2024-08-21 04:00:00",
@@ -973,22 +973,6 @@
       "url": "https://open.spotify.com/track/7yy7RGnwUHFYo1BfOoGnIp"
     },
     {
-      "added_at": "2024-08-14 14:21:25",
-      "album": {
-        "name": "Frutaria Electr\u200b\u00f3\u200bnica",
-        "url": "https://open.spotify.com/album/0OjFgKTNB0Ip1P5EdJnY23"
-      },
-      "artists": [
-        {
-          "name": "Misha Panfilov",
-          "url": "https://open.spotify.com/artist/2mLgv6MF6Te16Qv6VOqx5p"
-        }
-      ],
-      "duration_ms": 265548,
-      "name": "Crystals",
-      "url": "https://open.spotify.com/track/0uK2urblhFVH6P4Mlq4YOJ"
-    },
-    {
       "added_at": "2024-08-21 04:00:00",
       "album": {
         "name": "Messimalism (Above Thought)",
@@ -1059,6 +1043,22 @@
       "duration_ms": 241000,
       "name": "Muscle de sable",
       "url": "https://open.spotify.com/track/3qoY2HMgcyJTDEQVBm9Xx5"
+    },
+    {
+      "added_at": "2024-08-14 14:21:25",
+      "album": {
+        "name": "Frutaria Electr\u200b\u00f3\u200bnica",
+        "url": "https://open.spotify.com/album/0OjFgKTNB0Ip1P5EdJnY23"
+      },
+      "artists": [
+        {
+          "name": "Misha Panfilov",
+          "url": "https://open.spotify.com/artist/2mLgv6MF6Te16Qv6VOqx5p"
+        }
+      ],
+      "duration_ms": 265548,
+      "name": "Crystals",
+      "url": "https://open.spotify.com/track/0uK2urblhFVH6P4Mlq4YOJ"
     },
     {
       "added_at": "2024-07-17 04:00:00",
@@ -1149,6 +1149,42 @@
       "url": "https://open.spotify.com/track/0Br1XgqraY0UkXY56QQ0oS"
     },
     {
+      "added_at": "2024-08-14 14:21:25",
+      "album": {
+        "name": "Nostalgia Por Mesoz\u00f3ica",
+        "url": "https://open.spotify.com/album/3bikUiYkbZgJl1A2iabJp0"
+      },
+      "artists": [
+        {
+          "name": "Nikolaienko",
+          "url": "https://open.spotify.com/artist/3fifybKFLHwKbEjATG02ig"
+        },
+        {
+          "name": "Arthur Mine",
+          "url": "https://open.spotify.com/artist/6dtoiMrxTN33pqX8SWewie"
+        }
+      ],
+      "duration_ms": 169214,
+      "name": "Muzak For Mesozoic Showreel",
+      "url": "https://open.spotify.com/track/3SSrgHRP1Ok1BXZdOkgV0O"
+    },
+    {
+      "added_at": "2024-08-21 04:00:00",
+      "album": {
+        "name": "Northern Classic",
+        "url": "https://open.spotify.com/album/49w9XEYsCNsmcRU0mM6Edr"
+      },
+      "artists": [
+        {
+          "name": "Donna Regina",
+          "url": "https://open.spotify.com/artist/28d8oiCt6QMG9d5i95Pn5h"
+        }
+      ],
+      "duration_ms": 336786,
+      "name": "Drifting Around",
+      "url": "https://open.spotify.com/track/1qcL2aoIbuIKsBiR3nXHe0"
+    },
+    {
       "added_at": "2024-07-17 04:00:00",
       "album": {
         "name": "Elixa",
@@ -1181,26 +1217,6 @@
       "url": "https://open.spotify.com/track/3HN6n1NYH7SiEllGshhlzb"
     },
     {
-      "added_at": "2024-08-14 14:21:25",
-      "album": {
-        "name": "Nostalgia Por Mesoz\u00f3ica",
-        "url": "https://open.spotify.com/album/3bikUiYkbZgJl1A2iabJp0"
-      },
-      "artists": [
-        {
-          "name": "Nikolaienko",
-          "url": "https://open.spotify.com/artist/3fifybKFLHwKbEjATG02ig"
-        },
-        {
-          "name": "Arthur Mine",
-          "url": "https://open.spotify.com/artist/6dtoiMrxTN33pqX8SWewie"
-        }
-      ],
-      "duration_ms": 169214,
-      "name": "Muzak For Mesozoic Showreel",
-      "url": "https://open.spotify.com/track/3SSrgHRP1Ok1BXZdOkgV0O"
-    },
-    {
       "added_at": "2024-08-21 04:00:00",
       "album": {
         "name": "Pillars",
@@ -1219,22 +1235,6 @@
     {
       "added_at": "2024-08-21 04:00:00",
       "album": {
-        "name": "Northern Classic",
-        "url": "https://open.spotify.com/album/49w9XEYsCNsmcRU0mM6Edr"
-      },
-      "artists": [
-        {
-          "name": "Donna Regina",
-          "url": "https://open.spotify.com/artist/28d8oiCt6QMG9d5i95Pn5h"
-        }
-      ],
-      "duration_ms": 336786,
-      "name": "Drifting Around",
-      "url": "https://open.spotify.com/track/1qcL2aoIbuIKsBiR3nXHe0"
-    },
-    {
-      "added_at": "2024-08-21 04:00:00",
-      "album": {
         "name": "EXCELSIOR",
         "url": "https://open.spotify.com/album/364BvIMiL3BsjqTJ9teX1E"
       },
@@ -1247,6 +1247,38 @@
       "duration_ms": 65471,
       "name": "Arms, Armor",
       "url": "https://open.spotify.com/track/4rWmroQk2m8xBtNxpDVSXv"
+    },
+    {
+      "added_at": "2024-08-21 04:00:00",
+      "album": {
+        "name": "Near Marineland",
+        "url": "https://open.spotify.com/album/0e874Z59PIEjJNQadE3pvu"
+      },
+      "artists": [
+        {
+          "name": "Crash Course In Science",
+          "url": "https://open.spotify.com/artist/7mifyf6uQQKKffciTy7sOK"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Jump Over Barrels",
+      "url": "https://open.spotify.com/track/1KFEWFokv2egtzT3vzc7ct"
+    },
+    {
+      "added_at": "2024-08-07 03:33:24",
+      "album": {
+        "name": "Unbound",
+        "url": "https://open.spotify.com/album/5hab0z3EOOETkiq1HU2t9B"
+      },
+      "artists": [
+        {
+          "name": "Bizhiki",
+          "url": "https://open.spotify.com/artist/7HkpufNaf4f69MkyBhUJ5d"
+        }
+      ],
+      "duration_ms": 131493,
+      "name": "She\u2019s All We Have",
+      "url": "https://open.spotify.com/track/1CQfbczeKKeYs4c0Sqkn5w"
     },
     {
       "added_at": "2024-05-08 03:43:46",
@@ -1267,22 +1299,6 @@
     {
       "added_at": "2024-08-21 04:00:00",
       "album": {
-        "name": "Near Marineland",
-        "url": "https://open.spotify.com/album/0e874Z59PIEjJNQadE3pvu"
-      },
-      "artists": [
-        {
-          "name": "Crash Course In Science",
-          "url": "https://open.spotify.com/artist/7mifyf6uQQKKffciTy7sOK"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Jump Over Barrels",
-      "url": "https://open.spotify.com/track/1KFEWFokv2egtzT3vzc7ct"
-    },
-    {
-      "added_at": "2024-08-21 04:00:00",
-      "album": {
         "name": "Truest",
         "url": "https://open.spotify.com/album/1wANarMlS8xKdwUxm4WwrI"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 150000,
       "name": "Hesitations\u2026 (Intro)",
       "url": "https://open.spotify.com/track/0sNiWTqzD6LwYnLa9SGuac"
-    },
-    {
-      "added_at": "2024-08-07 03:33:24",
-      "album": {
-        "name": "Unbound",
-        "url": "https://open.spotify.com/album/5hab0z3EOOETkiq1HU2t9B"
-      },
-      "artists": [
-        {
-          "name": "Bizhiki",
-          "url": "https://open.spotify.com/artist/7HkpufNaf4f69MkyBhUJ5d"
-        }
-      ],
-      "duration_ms": 131493,
-      "name": "She\u2019s All We Have",
-      "url": "https://open.spotify.com/track/1CQfbczeKKeYs4c0Sqkn5w"
     },
     {
       "added_at": "2024-08-21 04:00:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-08-21 04:00:00",
       "album": {
-        "name": "Ritual",
-        "url": "https://open.spotify.com/album/4tJVnASLagfFLSjODYXf91"
-      },
-      "artists": [
-        {
-          "name": "Frank Rodas",
-          "url": "https://open.spotify.com/artist/7kgRxGeBAFr0625ouDFXgM"
-        }
-      ],
-      "duration_ms": 548586,
-      "name": "Ritual",
-      "url": "https://open.spotify.com/track/5JW8BNjd9PuNxAmuEdYzvl"
-    },
-    {
-      "added_at": "2024-08-21 04:00:00",
-      "album": {
         "name": "Bearings: Soundtracks for the Bardos",
         "url": "https://open.spotify.com/album/1qDLRV6CagogjyTHxSnwxE"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 240868,
       "name": "Gate VIII",
       "url": "https://open.spotify.com/track/0Zzwh201mYmQCxHtDKSkI2"
+    },
+    {
+      "added_at": "2024-08-21 04:00:00",
+      "album": {
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/4tJVnASLagfFLSjODYXf91"
+      },
+      "artists": [
+        {
+          "name": "Frank Rodas",
+          "url": "https://open.spotify.com/artist/7kgRxGeBAFr0625ouDFXgM"
+        }
+      ],
+      "duration_ms": 548586,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/5JW8BNjd9PuNxAmuEdYzvl"
     },
     {
       "added_at": "2024-08-21 04:00:00",

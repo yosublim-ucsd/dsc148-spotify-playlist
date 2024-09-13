@@ -1331,6 +1331,24 @@
     },
     {
       "album": {
+        "name": "CHAND",
+        "url": "https://open.spotify.com/album/3xqItK7gAwkFJPsNO6oanC"
+      },
+      "artists": [
+        {
+          "name": "Raymann Rayy",
+          "url": "https://open.spotify.com/artist/12O0QpNqkv87j4UoL214OR"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219974,
+      "name": "Chand",
+      "url": "https://open.spotify.com/track/3HitRllqCZkOtSsp6rymfS"
+    },
+    {
+      "album": {
         "name": "Chandni Si Raat (Reprise)",
         "url": "https://open.spotify.com/album/3YOBOrTu9G26nGOoMrhOJu"
       },
@@ -2184,7 +2202,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 161923,
       "name": "Gungunata Hun",
       "url": "https://open.spotify.com/track/6i1fue7mLghCZ5DhrqSkIe"

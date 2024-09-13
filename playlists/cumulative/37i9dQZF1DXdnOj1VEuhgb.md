@@ -2,9 +2,9 @@
 
 ### [NKVT](https://open.spotify.com/playlist/37i9dQZF1DXdnOj1VEuhgb)
 
-> Türkiye'nin en sıkı çalma listesi\. Kapak: Wegh
+> Türkiye'nin en sıkı çalma listesi\. Kapak: BLOK3
 
-426 songs - 18 hr 46 min
+429 songs - 18 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Bitmez Ümitlerim](https://open.spotify.com/track/34CpmKk7afqWw4JpsC7m0R) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Bitmez Ümitlerim](https://open.spotify.com/album/123kCll74XMoPqLsSlG8Z9) | 2:44 | 2024-06-13 | 2024-07-27 |
 | [Bizim Araba](https://open.spotify.com/track/59BQQAlUk4WHdzy6Lf6xxj) | [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ) | [Bizim Araba](https://open.spotify.com/album/3e4nzn2I5xBu2gyDvaTCMT) | 2:11 | 2024-07-04 | 2024-07-19 |
 | [Bruce Lee](https://open.spotify.com/track/1ELDprQdPHj6inFCAu7hlY) | [BEGE](https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC) | [Bruce Lee](https://open.spotify.com/album/1NS2YJ0BYgzM6V4RvGxmUW) | 1:31 | 2023-08-10 | 2023-08-25 |
-| [Bu Dünyada](https://open.spotify.com/track/3XCT2hlGuBT14XHx6zhybv) | [Sansar Salvo](https://open.spotify.com/artist/6hxb4rGrYXtrAZbUK7uzt9) | [Sergi \- EP](https://open.spotify.com/album/7zO8Ogy2NJBERCOehm8Bfe) | 2:26 | 2024-09-05 |  |
+| [Bu Dünyada](https://open.spotify.com/track/3XCT2hlGuBT14XHx6zhybv) | [Sansar Salvo](https://open.spotify.com/artist/6hxb4rGrYXtrAZbUK7uzt9) | [Sergi \- EP](https://open.spotify.com/album/7zO8Ogy2NJBERCOehm8Bfe) | 2:26 | 2024-09-05 | 2024-09-13 |
 | [Bu Gece Karakolluk Olabilirim](https://open.spotify.com/track/2XY8epv0D64xqErIL21PJx) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Azer Bülbül](https://open.spotify.com/artist/2E7qpjo4NUBhV8tEUdPVkJ) | [Bu Gece Karakolluk Olabilirim](https://open.spotify.com/album/59w8ncxczTWGEClNIkYCuG) | 2:55 | 2024-02-15 | 2024-04-05 |
 | [Bu Gece Karakolluk Olabilirim](https://open.spotify.com/track/2SLWxQ1HDxNlkIhxNRtIaT) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Azer Bülbül](https://open.spotify.com/artist/2E7qpjo4NUBhV8tEUdPVkJ) | [Bu Gece Karakolluk Olabilirim](https://open.spotify.com/album/4pmke7Abk1fcNfFTSv63Po) | 2:55 | 2024-01-11 | 2024-02-18 |
 | [Bul Kurtar](https://open.spotify.com/track/31dcmzxjz6jOuix6r4ITA1) | [Kleo](https://open.spotify.com/artist/7Crlr0QgOu2yjCKSNEJcSm), [Segah](https://open.spotify.com/artist/4J3UGufkoUJDn1tMOWPt4P), [Ayaz](https://open.spotify.com/artist/4BNyQQUayFkUOdf2sw9cLY) | [Bul Kurtar](https://open.spotify.com/album/2Y1CbaY7ptuXflDPy2H5vT) | 2:04 | 2024-02-15 | 2024-02-17 |
@@ -119,6 +119,7 @@
 | [Düşmez Kalkmaz](https://open.spotify.com/track/57w7FOfLpXZ9GWlAooYrSK) | [Canbay & Wolker](https://open.spotify.com/artist/1hgaXjbAcED2p80Lj8dzXT) | [Düşmez Kalkmaz](https://open.spotify.com/album/5QQa2jAT5hnyjO4bxBYyer) | 2:35 | 2024-08-22 |  |
 | [Düşüyorum Tekrar](https://open.spotify.com/track/4BK8g9i76nSG0RPe8d2XwR) | [Lia Shine](https://open.spotify.com/artist/5G3OUmDl3R4rEn9zSWZTpw) | [Düşüyorum Tekrar](https://open.spotify.com/album/5ylJtVajxWXRZB2o5MwowF) | 3:01 | 2023-04-06 | 2023-04-28 |
 | [ESC\*BAR](https://open.spotify.com/track/6kWF1fWqA2ZuWn70TQvtmQ) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [ESC\*BAR](https://open.spotify.com/album/2tTgc2Nt5VOExrRYybuZuI) | 2:16 | 2024-07-04 |  |
+| [Eski Bıçaklar Yeni Kesikler](https://open.spotify.com/track/39zgu9dSk0EenIJJWYnhpZ) | [Sagopa Kajmer](https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD) | [Eski Bıçaklar Yeni Kesikler](https://open.spotify.com/album/2aIeBV0qczeiKnZwzwi9s9) | 3:30 | 2024-09-12 |  |
 | [Esmeri Sevdim Sarışınlara Kandım](https://open.spotify.com/track/6YcX9y3PuQ6s8WKRfkMYhb) | [Ahiyan](https://open.spotify.com/artist/0U8sdaBYsYld98xOIX1nYB), [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Esmeri Sevdim Sarışınlara Kandım](https://open.spotify.com/album/3b2i1X8ufSYWea9POTCMdA) | 2:45 | 2024-06-27 | 2024-07-19 |
 | [ESTAFURLA](https://open.spotify.com/track/67FQS0mvwg4j5LgdlTwJuc) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [ESTAFURLA](https://open.spotify.com/album/3iyn3IpyDYMy3myhSUWxXz) | 1:38 | 2023-01-19 | 2023-03-18 |
 | [FACEAPP](https://open.spotify.com/track/67rxR1i70IVDkea4pzwVaF) | [Hidra](https://open.spotify.com/artist/3yzGegJHrOW1CndMVFoo3m), [ERU](https://open.spotify.com/artist/3ijnQoOmFlFrGvYgUZC8tq), [Berkay Duman](https://open.spotify.com/artist/797U4xKy4p5Vi8vpWzJRD6) | [FACEAPP](https://open.spotify.com/album/1a6JCzbpC95pRYhT81vC3Q) | 3:09 | 2024-07-25 | 2024-08-09 |
@@ -160,6 +161,7 @@
 | [GÜZEL VE İDDİALI](https://open.spotify.com/track/3LUFeTIPLxgZYdBxG0eV5k) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [GÜZEL VE İDDİALI](https://open.spotify.com/album/4KiKXZthJfVz0mKIkv7E2G) | 2:55 | 2024-02-08 | 2024-05-10 |
 | [HAA‼️](https://open.spotify.com/track/2XxcYFvfP2XoLmB7nNULSw) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [HAA‼️](https://open.spotify.com/album/0s2NnsBKbMJIZ3CtJKc2uH) | 1:48 | 2024-02-01 | 2024-03-04 |
 | [Habibi](https://open.spotify.com/track/4I29KUtM6IwZyxqAiHZ6RH) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Habibi](https://open.spotify.com/album/0Sy076cJj3zNhy6nEr1PwZ) | 2:40 | 2024-05-09 |  |
+| [HAKO ARTIK BUSINESS](https://open.spotify.com/track/0G9SQNvU2s3g2o4jatFx8X) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [OBSESIF](https://open.spotify.com/album/6YCjQU0ElZ6YbC2HaBuLic) | 1:35 | 2024-09-12 |  |
 | [HAM](https://open.spotify.com/track/7duMMtfNk8IgHDLBh1eMhG) | [Khontkar](https://open.spotify.com/artist/1iJrQKRh5aJnp6cG5lpITr) | [HAM](https://open.spotify.com/album/3POP3LZl3qug1RG0mcBHKF) | 2:12 | 2023-10-12 | 2023-11-11 |
 | [HANIMEFENDİ](https://open.spotify.com/track/7Ikg74SQrxu5DMpEEbestg) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [ROMANTİK](https://open.spotify.com/album/5xrtVOLOp6Yh3hmw8SuJVB) | 2:15 | 2023-06-15 |  |
 | [HANÇER](https://open.spotify.com/track/1HtUpVQAOS8fWcWRYHaCXV) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [HANÇER](https://open.spotify.com/album/5RW7KSlHEC9w1qTTUWadtq) | 2:23 | 2023-03-23 | 2023-04-07 |
@@ -424,6 +426,7 @@
 | [Yıldızlar](https://open.spotify.com/track/4fz5kUfUIaJ1L2alP3sgY8) | [No.1](https://open.spotify.com/artist/4fR3W8XFXsqHB8f8IqEr1y) | [Yıldızlar](https://open.spotify.com/album/6uHgiAGhiUZQsXfATbr6vC) | 2:58 | 2024-08-08 | 2024-09-06 |
 | [Yıldızlar](https://open.spotify.com/track/6p4m4ls8CkXpeWDSyRPvTI) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [Yıldızlar](https://open.spotify.com/album/5G2FtfCdpwmGfZTdurkULN) | 2:18 | 2023-01-10 | 2023-03-03 |
 | [yıldızlar şahit aşkıma](https://open.spotify.com/track/490MqlRWgEby3jzfYi8ULn) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [yıldızlar şahit aşkıma](https://open.spotify.com/album/75stAff8dVdEedkMHAsB74) | 2:36 | 2024-02-15 | 2024-04-19 |
+| [ZEHİRLİ GÜL](https://open.spotify.com/track/0SwRpscOdj6PBhudNVIGpW) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [OBSESIF](https://open.spotify.com/album/6YCjQU0ElZ6YbC2HaBuLic) | 2:56 | 2024-09-12 |  |
 | [ZOR](https://open.spotify.com/track/4wLpDd099QT7TmNpMkFIvT) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [EL CHAVO](https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY) | 2:51 | 2023-01-10 | 2024-06-07 |
 | [Çaresizce](https://open.spotify.com/track/5Owbx90EQ9qYyGQtJmZ8x1) | [Cairo](https://open.spotify.com/artist/7ecHMwo18VtgSVZRULWLId) | [CAITYPE](https://open.spotify.com/album/44lkzLxZrsdJ5iFus1I9Au) | 2:34 | 2024-04-04 | 2024-04-26 |
 | [ÇEK \(feat\. Strick\)](https://open.spotify.com/track/1j8LzWBV8n4LvTjwuSu3CS) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7), [Strick](https://open.spotify.com/artist/2WInxWtfee6mRhUQUmIRAH) | [ÇEK \(feat\. Strick\)](https://open.spotify.com/album/2tJ3W32WmVxCUUcQCZOVWY) | 3:21 | 2023-03-23 | 2023-04-07 |

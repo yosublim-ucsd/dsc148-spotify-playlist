@@ -4,7 +4,7 @@
 
 > Grind day motivation
 
-585 songs - 1 day 4 hr 11 min
+589 songs - 1 day 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,12 +22,14 @@
 | [50\-50](https://open.spotify.com/track/0DUEymQhiRuuFj1rRY7sfo) | [VASA](https://open.spotify.com/artist/2TQT9f1Kn5DhKVULYFBq8Q) | [50\-50](https://open.spotify.com/album/5JO8dOX3Xbh0WgFdVnjqG2) | 3:08 | 2024-01-19 | 2024-02-03 |
 | [9 to 5](https://open.spotify.com/track/72BaHgyd5Zfp1NfDNbkgKp) | [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Mahogany St](https://open.spotify.com/album/6abagto1R8w0tTgUCnDY2d) | 2:55 | 2022-04-28 | 2022-08-13 |
 | [90s Baby](https://open.spotify.com/track/1ubpS2URnVvBNOviMmaesw) | [Tchella](https://open.spotify.com/artist/6XUDmNo0UycZOMBWE3JU1S) | [90s Baby](https://open.spotify.com/album/0OoWdbxeIKoiDg2h4L0IjM) | 1:39 | 2023-02-10 | 2023-02-24 |
+| [Abanikanda](https://open.spotify.com/track/2lJ0B3dBT7nv0uNvu1zY8J) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Abanikanda](https://open.spotify.com/album/6IXc9CiD8vGMREh37slEhE) | 3:27 | 2024-09-13 |  |
 | [Abotr3 \(Patience\)](https://open.spotify.com/track/6N9GrK3OSdZPgiFnXEnucr) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Patience](https://open.spotify.com/album/2PzZi8aAV2myyFYZp6Udna) | 2:58 | 2021-10-28 | 2022-09-10 |
 | [Abronoma](https://open.spotify.com/track/6ilwDSiCw5N9108ykDjvf1) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [Abronoma](https://open.spotify.com/album/5wkgLP3g2t87ag2ZcNolpO) | 3:23 | 2024-01-19 | 2024-04-19 |
 | [Accidentally \(feat\. Seyi Vibez\)](https://open.spotify.com/track/3ZfLSz6tcx19sjKMVCbccG) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Fire & Ice](https://open.spotify.com/album/3EZt8wq3KWXB7gVM9SuLWR) | 3:06 | 2024-05-17 |  |
 | [Accra \(feat\. Akan\)](https://open.spotify.com/track/70VDlfsvRSVu5WrtfqCC0N) | [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU), [Akan](https://open.spotify.com/artist/7baoHltUTBKIDzzHLJ1aXT) | [The Unbroken](https://open.spotify.com/album/42i9e2ejdzOAyBCG0oRSzO) | 4:34 | 2022-08-05 | 2022-08-13 |
 | [Adulthood Anthem](https://open.spotify.com/track/6azpaZYOCLhhWr2amkJ1tQ) | [Ladé](https://open.spotify.com/artist/43Nm4QEBSVkJYcYhsN2Bd1) | [Adulthood Anthem](https://open.spotify.com/album/6pFqcfLHFLCnltmuXQEYky) | 2:44 | 2022-06-13 | 2023-04-15 |
 | [Adura](https://open.spotify.com/track/0AQf6pQyEI2vXHxnxQzE1X) | [Klent Maidas](https://open.spotify.com/artist/5HJZof8HvPVFswmsVbPt6k) | [Adura](https://open.spotify.com/album/6ZNm2eW5rxG18gzgtE7iWR) | 2:40 | 2023-11-17 | 2023-11-28 |
+| [Agba Singing](https://open.spotify.com/track/1r1Xz7MMUotaxziNtqcstp) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Agba Singing](https://open.spotify.com/album/2Mt90xMkv1pP1ZxOpIvg1i) | 2:30 | 2024-09-13 |  |
 | [Aje](https://open.spotify.com/track/0SML7NqZGHWeWdoVBXTGW4) | [Badwolf](https://open.spotify.com/artist/0xXbbSlxdM5nFDIxunsLbD) | [Aje](https://open.spotify.com/album/2nXACAmcwj81IwAJ7AebT7) | 3:10 | 2023-09-14 | 2023-09-22 |
 | [AJÉ](https://open.spotify.com/track/7Gg4MDEWYFezik3XnhU6oW) | [Big Klef](https://open.spotify.com/artist/4VZljMVEAhstVDTphJx2nT), [Ajala](https://open.spotify.com/artist/5jHMGBrU4DTOh7r2XwIZ9s) | [AJÉ](https://open.spotify.com/album/3rqaQmKBtt2QXh6Y7ZXI3y) | 2:40 | 2024-03-29 | 2024-04-04 |
 | [Al Barakah](https://open.spotify.com/track/26YA4VXGjUq8Z8ZQee9xlm) | [Sean Tizzle](https://open.spotify.com/artist/6J5O4svAiMxfVAisbPhA5a) | [Al Barakah](https://open.spotify.com/album/4CBcSSXGCC7q6CPYv9rigq) | 2:45 | 2023-05-19 | 2023-05-27 |
@@ -288,6 +290,7 @@
 | [Jonzing Boy](https://open.spotify.com/track/5ksKJ5a1iawwfoCxWtImP9) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [RU The World](https://open.spotify.com/album/676QN3uS7pzWA0Or87JTcN) | 3:05 | 2024-04-05 | 2024-04-19 |
 | [Journey](https://open.spotify.com/track/6wCcutlZ6e5ZqGRHT90gTH) | [Banzy Banero](https://open.spotify.com/artist/5VjCTOxVwGAA7Blx7jv5WN) | [Journey](https://open.spotify.com/album/6TBtnRStzuKt8He1SfeOlY) | 3:25 | 2024-04-05 | 2024-06-07 |
 | [Journey](https://open.spotify.com/track/56XdgGLcurfb7bC7UFWRU8) | [Zineth](https://open.spotify.com/artist/363ZGUdJndZ1387vEIG5SO), [Billirano](https://open.spotify.com/artist/6Sb1ugPkZ8pwimM3wb378v) | [Journey](https://open.spotify.com/album/48ST5iBCTkwSH6V5zPKHXX) | 2:27 | 2024-03-15 | 2024-03-29 |
+| [Joy](https://open.spotify.com/track/4xoWfwadlc6X4MxzL0gXM2) | [JZyNo](https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ) | [Liberian Boy](https://open.spotify.com/album/1l1ZbJu5nz1CQXK3DwcOnc) | 2:41 | 2024-09-13 |  |
 | [Just Because](https://open.spotify.com/track/6S0SOCYKxo2v4CFbFLgidP) | [EESKAY](https://open.spotify.com/artist/5MizvxELHVyrYak9VwOUbG) | [Just Because](https://open.spotify.com/album/5j391FfDImvRZh71UJqgAK) | 2:44 | 2024-06-28 | 2024-07-19 |
 | [just like me](https://open.spotify.com/track/5KI7I4mEtulXcv5VQJaV35) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 3:51 | 2024-01-12 | 2024-03-29 |
 | [KANTE \(feat\. Fave\)](https://open.spotify.com/track/7vKXc90NT5WBm3UTT4iTVG) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 3:14 | 2023-04-27 | 2024-01-26 |
@@ -591,6 +594,7 @@
 | [Yeni Abre](https://open.spotify.com/track/5PR0Mk6xqpMoKh8D9GXbeQ) | [FRA!](https://open.spotify.com/artist/07Bkdyq0lzTh2ayKwd40HN) | [Yeni Abre](https://open.spotify.com/album/1C9Xf13fBpa09nVuwlxaWW) | 4:18 | 2023-04-27 | 2023-05-05 |
 | [Yoga](https://open.spotify.com/track/79xHOEYZKZEj6fPkmhQboa) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Yoga](https://open.spotify.com/album/63GoanBcE6J4MDIuSQi7jc) | 2:48 | 2023-02-03 | 2023-08-18 |
 | [You Go Know](https://open.spotify.com/track/6sTPT0d9cJtFI3F3b2IA1q) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [You Go Know](https://open.spotify.com/album/7HvwJxPnRDe6DeSGUE1CHG) | 2:22 | 2023-03-24 | 2024-04-05 |
+| [Zanzibar \(Alubarika\)](https://open.spotify.com/track/5ccyAhQd6y0HO92Td0lE6H) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Zanzibar \(Alubarika\)](https://open.spotify.com/album/1ZxpFOU3CetzatCymXQh1N) | 3:01 | 2024-09-13 |  |
 | [Àjàlá Travel \(Remix\)](https://open.spotify.com/track/5SBpWlMbFWtW8XKh6mOWFp) | [Oladips](https://open.spotify.com/artist/5ToaR1at4yUIuHcAxn7won), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Àjàlá Travel \(Remix\)](https://open.spotify.com/album/2DsBLOT4nk3UjFq80hw3Pz) | 3:19 | 2022-05-05 | 2022-10-31 |
 | [Àjàlá Travel \(Remix\)](https://open.spotify.com/track/7vECPXXTtBOScFvOyOE8jn) | [Oladips](https://open.spotify.com/artist/5ToaR1at4yUIuHcAxn7won), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Àjàlá Travel \(Remix\)](https://open.spotify.com/album/3C8imbIaltvztxhHnVOuOu) | 3:19 | 2022-05-05 | 2022-10-02 |
 

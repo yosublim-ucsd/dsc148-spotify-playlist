@@ -4,7 +4,7 @@
 
 > أفضل الأغاني الشعبية من قلب مصر! غلاف:<a href="https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM?si=BAGxzWLhTSGNNpZ3FoAIug">  رضا البحراوي </a>
 
-267 songs - 19 hr 33 min
+268 songs - 19 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Mesaytara](https://open.spotify.com/track/0m9PqpTXUZl1ZFWIdciLXS) | [Hanin Al Kassir](https://open.spotify.com/artist/1V6625kc5Sv1ImXI1iltW2) | [Mesaytara](https://open.spotify.com/album/7qeGAJr2N5GL0MGzlaipIK) | 2:50 | 2021-12-16 | 2023-04-01 |
 | [Mesaytara](https://open.spotify.com/track/4E5kAvLvcq2N3BE8qAcSkL) | [Hanin Al Kassir](https://open.spotify.com/artist/1V6625kc5Sv1ImXI1iltW2) | [Mesaytara](https://open.spotify.com/album/7KkImA31LU2wBR8kAFaoBz) | 2:50 | 2023-02-16 | 2023-06-23 |
 | [Mganenany](https://open.spotify.com/track/4BdczslzGIu6MPYQzkCa2X) | [Hassan El Kholaey](https://open.spotify.com/artist/66cgnb4zHHH8LKIF2Ukyv0) | [Mganenany](https://open.spotify.com/album/43CnQIq5C5ToUNDwrwNlVt) | 4:39 | 2021-12-16 | 2023-05-12 |
-| [Nas Khasisa](https://open.spotify.com/track/4Sjb9HcCQKqvt079Mi9PRD) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [Nas Khasisa](https://open.spotify.com/album/3IX8ZyWax1OABq7c6FG3kt) | 3:51 | 2024-04-11 |  |
+| [Nas Khasisa](https://open.spotify.com/track/4Sjb9HcCQKqvt079Mi9PRD) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [Nas Khasisa](https://open.spotify.com/album/3IX8ZyWax1OABq7c6FG3kt) | 3:51 | 2024-04-11 | 2024-09-13 |
 | [Oul Allah](https://open.spotify.com/track/2bJQO2SegQFc8fOpFhizlc) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Oul Allah](https://open.spotify.com/album/5sOCIhikdDVOPNrVBibxcF) | 3:25 | 2022-07-14 | 2022-12-21 |
 | [Rakam Wahd Fel Grah](https://open.spotify.com/track/6Mp7U4S9GLWsAyRXd0wWwI) | [Tarek El Sheikh](https://open.spotify.com/artist/6dUaKkMGw5Ov1gaokc7YBN) | [Rakam Wahd Fel Grah](https://open.spotify.com/album/5CdROjZfNXC290fVbqQEb6) | 3:03 | 2024-04-11 |  |
 | [Ramo Tobty](https://open.spotify.com/track/1fMfO3xpg1OGfmNBXow57n) | [Mostafa Shawky](https://open.spotify.com/artist/69HsaYqqbiG8d3LxNdlvM7) | [Ramo Tobty](https://open.spotify.com/album/0CKqgpYnHAetUCjrn74BvQ) | 2:41 | 2023-06-22 | 2023-07-12 |
@@ -273,6 +273,7 @@
 | [ولا اتخلق](https://open.spotify.com/track/5UxLwU9gVpev53BUhkB0Rz) | [امير قاسم](https://open.spotify.com/artist/4J3yHkMnoSQr7gJTeFhydd) | [ولا اتخلق](https://open.spotify.com/album/2RQ1woXbZSbxVhfBPIAQy9) | 5:35 | 2021-12-16 | 2022-07-29 |
 | [يا بت يلا](https://open.spotify.com/track/5RCNzhkR0PshCFMCZsnT2t) | [Saad El Soghayar](https://open.spotify.com/artist/1fNhDktKNtf7g7COrlJguP) | [يا بت يلا](https://open.spotify.com/album/6wf0I4IPoVbeEEJQ2kbPqX) | 4:42 | 2021-12-16 | 2023-05-12 |
 | [يا بيبي](https://open.spotify.com/track/0v1f30Ibp7LtFhZ8INxb99) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Sara Al Zakaria](https://open.spotify.com/artist/3kHLrXBjNt9F3bo9ABGvpv) | [يا بيبي](https://open.spotify.com/album/3RnVS4mQx4iFffAEngKKVL) | 3:51 | 2023-06-06 | 2024-02-23 |
+| [يا حبر بدرى لسه](https://open.spotify.com/track/1EzV91uHDaDuyBoAABz6kR) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [يا حبر بدرى لسه](https://open.spotify.com/album/3EmNxHXYXt2ArGVq9dqGCG) | 4:15 | 2024-09-12 |  |
 | [يلا سلام](https://open.spotify.com/track/3ta6cNExN9B19VKESQtsnr) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [يلا سلام](https://open.spotify.com/album/0NHWTldRKmOBfdAQa5yQO3) | 4:02 | 2022-07-14 | 2022-12-21 |
 | [يلا سلام](https://open.spotify.com/track/6GCsl15IwaX7sbXXgoNE6P) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [يلا سلام](https://open.spotify.com/album/3vKVao9HNXPEH41wpgSFQ5) | 4:02 | 2021-12-16 | 2022-07-29 |
 

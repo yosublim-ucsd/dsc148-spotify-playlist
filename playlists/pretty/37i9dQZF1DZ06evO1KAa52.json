@@ -1,12 +1,12 @@
 {
-  "description": "This is Justin Timberlake. The essential tracks, all in one playlist.",
-  "num_followers": 637272,
+  "description": "This Is Justin Timberlake. Los temas esenciales, todos en una lista.",
+  "num_followers": 637409,
   "original_name": "This Is Justin Timberlake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zt+MAAAAAAB8hgvhN7sQe7TbGTMOaeh5",
+  "snapshot_id": "ZuDdgAAAAADwylS0WatuJgH2NuXQI/2x",
   "tracks": [
     {
       "added_at": null,
@@ -1092,33 +1092,37 @@
       "added_at": null,
       "album": {
         "name": "TROLLS World Tour (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/28Orm6S3LezppbfYdgA3aI"
+        "url": "https://open.spotify.com/album/1jOcKmWE1mUEnyt6JdLTr8"
       },
       "artists": [
-        {
-          "name": "Anna Kendrick",
-          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
-        },
         {
           "name": "Justin Timberlake",
           "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
         },
         {
-          "name": "James Corden",
-          "url": "https://open.spotify.com/artist/5E17eRqSfn08FsmvNCds0P"
+          "name": "Anna Kendrick",
+          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
         },
         {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
         },
         {
-          "name": "The Pop Trolls",
-          "url": "https://open.spotify.com/artist/2ossO7Sa8OJ0D0PQjSF1cQ"
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Kenan Thompson",
+          "url": "https://open.spotify.com/artist/712ZtYak5pWK9RJjcyxdKl"
         }
       ],
-      "duration_ms": 61920,
-      "name": "Trolls 2 Many Hits Mashup",
-      "url": "https://open.spotify.com/track/74PmqgIU0EU60QEgrjJIIk"
+      "duration_ms": 221480,
+      "name": "Just Sing",
+      "url": "https://open.spotify.com/track/0ZjmrnH5Uh4WD1L29NTcUs"
     },
     {
       "added_at": null,

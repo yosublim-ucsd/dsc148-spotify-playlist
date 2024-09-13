@@ -1,12 +1,12 @@
 {
   "description": "\u201cWith summer winding down, I wanted to share some songs that I\u2019ve been listening to lately \u2013 and it wouldn\u2019t be my playlist if it didn\u2019t include an eclectic mix,\u201d.  Includes Summer 23 edition &amp; bonus tracks.",
-  "num_followers": 130443,
+  "num_followers": 130700,
   "original_name": "Obama\u2019s Summer Playlist 2024",
   "owner": {
     "name": "soundsdeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "AAAn0r4U2VpzB99EbDQdjksPhEFCk1Th",
+  "snapshot_id": "AAAn196rDK1Z8lWAsdQlE7FvutD/40Pk",
   "tracks": [
     {
       "added_at": "2024-08-12 20:19:27",
@@ -1485,6 +1485,22 @@
       "url": "https://open.spotify.com/track/5W6fuhOICEbXmHzJK6sKuX"
     },
     {
+      "added_at": "2024-09-12 12:46:24",
+      "album": {
+        "name": "Devotion",
+        "url": "https://open.spotify.com/album/55Exy5T5NlPHUNBo73BVj7"
+      },
+      "artists": [
+        {
+          "name": "Honeybear, the Band",
+          "url": "https://open.spotify.com/artist/1t3BkCQTMTGykNPpmj7drk"
+        }
+      ],
+      "duration_ms": 219386,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/7J5DD7cHzCC9eOAo1tx0br"
+    },
+    {
       "added_at": "2024-09-11 13:01:04",
       "album": {
         "name": "In Love With You Boy",
@@ -2185,54 +2201,6 @@
       "url": "https://open.spotify.com/track/6PQxVt63yl1ThgmyrpI2W6"
     },
     {
-      "added_at": "2024-09-04 17:16:51",
-      "album": {
-        "name": "90's Type Love Vol. 1 Be My Everything Tonight",
-        "url": "https://open.spotify.com/album/1RYdmCzObz2EjwO4vxY3i3"
-      },
-      "artists": [
-        {
-          "name": "Janae Music",
-          "url": "https://open.spotify.com/artist/5BaJtkMvJ9yS9PFdTWc0Gd"
-        }
-      ],
-      "duration_ms": 162951,
-      "name": "Be",
-      "url": "https://open.spotify.com/track/0ZQSt7739vSR5ld767J9Wn"
-    },
-    {
-      "added_at": "2024-09-04 17:16:01",
-      "album": {
-        "name": "Triangle",
-        "url": "https://open.spotify.com/album/5ywDAyJXRg6xmQm8rfB1mb"
-      },
-      "artists": [
-        {
-          "name": "Kristii",
-          "url": "https://open.spotify.com/artist/4zs9TM0fX4iHk9ZcV71ftL"
-        }
-      ],
-      "duration_ms": 192004,
-      "name": "Triangle",
-      "url": "https://open.spotify.com/track/6YPBn9891Gdk9m9pny2n1e"
-    },
-    {
-      "added_at": "2024-09-01 19:02:25",
-      "album": {
-        "name": "I'll Find My Way - Unplugged",
-        "url": "https://open.spotify.com/album/6cynT4UJGIbRlhggcJXL9n"
-      },
-      "artists": [
-        {
-          "name": "L.If",
-          "url": "https://open.spotify.com/artist/6fuhH09FA2ZFB9QcGb7oVj"
-        }
-      ],
-      "duration_ms": 221076,
-      "name": "I'll Find My Way - Unplugged",
-      "url": "https://open.spotify.com/track/7oN2Fefb9pOnD6VXgbwbLl"
-    },
-    {
       "added_at": "2024-09-02 23:14:12",
       "album": {
         "name": "Longer",
@@ -2355,58 +2323,6 @@
       "duration_ms": 218125,
       "name": "Puppet (Remix)",
       "url": "https://open.spotify.com/track/0CVYn08YYfxnTtZ2INXoj6"
-    },
-    {
-      "added_at": "2024-09-02 00:02:30",
-      "album": {
-        "name": "More Time",
-        "url": "https://open.spotify.com/album/2wHsJhnP4ss5XXh8KenlHh"
-      },
-      "artists": [
-        {
-          "name": "Crate Classics",
-          "url": "https://open.spotify.com/artist/6Pkxj2NAUsoETNsVLA0DUx"
-        },
-        {
-          "name": "Liam Bailey",
-          "url": "https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO"
-        }
-      ],
-      "duration_ms": 163246,
-      "name": "More Time",
-      "url": "https://open.spotify.com/track/6WdEUkiTCnXXeSyHJuOekf"
-    },
-    {
-      "added_at": "2024-09-02 00:02:12",
-      "album": {
-        "name": "Cali Boys",
-        "url": "https://open.spotify.com/album/5rOs2YcZ8EVyepvXvB4U3V"
-      },
-      "artists": [
-        {
-          "name": "Luke Lewis",
-          "url": "https://open.spotify.com/artist/2Ygfx4GSFj0BUow4RowC1j"
-        }
-      ],
-      "duration_ms": 209535,
-      "name": "Cali Boys",
-      "url": "https://open.spotify.com/track/4GVYCJCThhgJsZ70bul3dF"
-    },
-    {
-      "added_at": "2024-09-02 00:01:43",
-      "album": {
-        "name": "Stuck With Me",
-        "url": "https://open.spotify.com/album/3nKC5inEvqPOUmWUtahMF4"
-      },
-      "artists": [
-        {
-          "name": "Kid Travis",
-          "url": "https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk"
-        }
-      ],
-      "duration_ms": 150153,
-      "name": "Stuck With Me",
-      "url": "https://open.spotify.com/track/00l7tkFvUtKtmNEK4crGuI"
     }
   ],
   "unique_name": "Obama\u2019s Summer Playlist 2024",

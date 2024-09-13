@@ -2,9 +2,9 @@
 
 ### [sanguegiovane 🩸](https://open.spotify.com/playlist/37i9dQZF1DWW9tK1GiTdMf)
 
-> musica da gridare 🗣️ Cover: centomilacarie 🖤👀
+> musica da gridare 🗣️ Cover: blink\-182
 
-1,053 songs - 2 day 0 hr 19 min
+1,056 songs - 2 day 0 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Burn The Witch](https://open.spotify.com/track/4Ne4UbfqgXcBdIsYHjvR6y) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b), [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Burn The Witch](https://open.spotify.com/album/1pZGazPWeMdbQFBdEQUXm0) | 2:55 | 2024-03-07 | 2024-05-24 |
 | [BYE BYE](https://open.spotify.com/track/5iJoUukQtwJ883xshmOuAR) | [Officina011](https://open.spotify.com/artist/2hoEXGtMJgcjgIwSzvRzbK), [Acerbo](https://open.spotify.com/artist/4mUquATp0HZGr9txsE9OZa), [Petraz](https://open.spotify.com/artist/2T6E7Duwy15mxY7JBvWN7i), [Vinny](https://open.spotify.com/artist/3uovMTMDgkldB5gyea3dUU), [collaesse](https://open.spotify.com/artist/6M3AFJ7JHXJc03K2R3z2wL), [donato](https://open.spotify.com/artist/4thYdzPvyqxuVPhUajdqIG), [DJT](https://open.spotify.com/artist/5YwukRXliqHCDC1sZBQSrl) | [BYE BYE](https://open.spotify.com/album/0IlThQ5a3NlzUWV1dmmJgo) | 2:51 | 2023-07-27 | 2023-09-15 |
 | [cages](https://open.spotify.com/track/6zmpq82Tlev82M7BIl5V8b) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [SUCKERPUNCH](https://open.spotify.com/album/0EIqEFEc82T70pVTKh7w1k) | 2:31 | 2022-09-19 | 2022-11-11 |
+| [CALIFORNIA](https://open.spotify.com/track/2Upio2JODVoKIOh2aIJ7T5) | [Piccola kappa](https://open.spotify.com/artist/1OtNgQFoP2nnK8dxxTcLhN), [Giast](https://open.spotify.com/artist/1Sms2Hz4kX49kNnzNW9MKT) | [CALIFORNIA](https://open.spotify.com/album/59yOTe96oUF6wQxl4r2Rv5) | 2:49 | 2024-09-12 |  |
 | [Cambiare mai](https://open.spotify.com/track/66uMoh8K65vxhfluSkx6eF) | [KTB](https://open.spotify.com/artist/4RanGqewn3LGLSogjFniW7), [Thamia](https://open.spotify.com/artist/4s6aa0xhs7T3WdTcaMAFfQ) | [Cambiare mai](https://open.spotify.com/album/4V08PEEMr4On9dgguyf9vA) | 2:36 | 2023-05-04 | 2023-09-15 |
 | [Camelot](https://open.spotify.com/track/5d7x7HeFJ9BksuEwhskqbi) | [Marco444](https://open.spotify.com/artist/5wOm0bGomUCwtrXipTu0KQ) | [Camelot](https://open.spotify.com/album/5rG7vUV0uA0fan4uA6Clua) | 3:05 | 2023-09-28 | 2023-11-17 |
 | [Canzone d'amore](https://open.spotify.com/track/1gCKZvQnUvuyURWo8iJfbS) | [Lost](https://open.spotify.com/artist/2eUAT3EZcrLTorvfc38Opo) | [Canzone d'amore](https://open.spotify.com/album/6in0ilspKm2XlNj6IQ8Y7n) | 3:28 | 2022-06-02 | 2022-08-12 |
@@ -332,6 +333,7 @@
 | [everybody hates me](https://open.spotify.com/track/4vSgdsddL3qTemKDkscyjd) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [everybody hates me](https://open.spotify.com/album/4IkWZIcTHndXokjUNG3B6q) | 2:00 | 2023-03-09 | 2023-04-28 |
 | [EVIDENTE](https://open.spotify.com/track/1SO2cC7r3NTkKpwG689hQt) | [Aspettativa](https://open.spotify.com/artist/0FBFBr8Z7ZaTk8X7jevnRk) | [EVIDENTE](https://open.spotify.com/album/2jqvnsKvQq5jcheP8NVsSp) | 2:16 | 2022-07-21 | 2022-07-28 |
 | [EX](https://open.spotify.com/track/0s2a4lDkvChIBsDfoa69ET) | [Asjatica](https://open.spotify.com/artist/5wu37JsDSxwAvkZIdYT3Nn) | [EX](https://open.spotify.com/album/0KiFaI9kD81ebvrIkGO7Ff) | 2:02 | 2023-06-15 | 2023-07-14 |
+| [F\*\*k Xan 2](https://open.spotify.com/track/0Yd50RXLf3IqBS3P8skh5Q) | [Shama24k](https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm), [Elan Rood](https://open.spotify.com/artist/3vmujWaYbWHmCNWz76zYxy), [Gheb](https://open.spotify.com/artist/5KigfHb4XxYevzO2hAVPAw) | [F\*\*k Xan 2](https://open.spotify.com/album/2pNikwmdPjEKOk2oB4y3FN) | 2:32 | 2024-09-12 |  |
 | [F.B.F.M.](https://open.spotify.com/track/2qYrm20YLABT5JJfAhr1SG) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [F.B.F.M.](https://open.spotify.com/album/1EUcFHuEtHGbzDv43L5WK0) | 3:08 | 2023-01-26 | 2023-06-02 |
 | [FABIO E LUANA](https://open.spotify.com/track/4n3XhfSgAv19xo3nq18yEr) | [COLLETTIVO](https://open.spotify.com/artist/4RUm8rTe3kvhiQl6QmpWBq) | [FABIO E LUANA](https://open.spotify.com/album/3RScocxIxCDgJdjVJBeLP4) | 3:29 | 2023-04-27 | 2023-05-19 |
 | [Facciamo che](https://open.spotify.com/track/3pCWroOvM7nkbUTGqv0s54) | [Werdn](https://open.spotify.com/artist/3nHhNTw0xLkmgPbbTJ3HqC) | [Facciamo che](https://open.spotify.com/album/2IDAnybvNvHgi3pS141tKp) | 2:37 | 2022-08-25 | 2022-12-09 |
@@ -722,6 +724,7 @@
 | [PERDERAI TUTTO SE CONTINUI](https://open.spotify.com/track/3vk66NwzPu5zI6IprAfmGk) | [NXFEIT](https://open.spotify.com/artist/1gU9mTuXPAIAHzudmIXU8k) | [PERDERAI TUTTO SE CONTINUI](https://open.spotify.com/album/2ThemOKLLVEm9LIRq9bgZk) | 2:41 | 2024-07-04 |  |
 | [PERDONACI \(feat\. Dari\)](https://open.spotify.com/track/0IeSw9pH0oLrHjJfyxnwyv) | [Finley](https://open.spotify.com/artist/7JOervne0BnU0raxSI5Ooc), [Dari](https://open.spotify.com/artist/5qqKkW8y9BPVgy1EKBa5Bl) | [POGO MIXTAPE VOL.1](https://open.spotify.com/album/6XmCk9ofF63wwmhE0b3PIS) | 3:02 | 2024-05-16 | 2024-06-28 |
 | [Perdonami Lacie](https://open.spotify.com/track/0IMInGP8WJKzYnriAbIYJJ) | [Nessie](https://open.spotify.com/artist/3TLxw4MtyKKz9Gl8aWLR74) | [Perdonami Lacie](https://open.spotify.com/album/5hV9INuNkuC9BMXef78I4O) | 3:01 | 2024-01-04 | 2024-01-12 |
+| [Perfume](https://open.spotify.com/track/2W4mXowKNimgVuDCstyuqH) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [Perfume](https://open.spotify.com/album/7itlHhAVIV1zxttYpScDHC) | 1:59 | 2024-09-12 |  |
 | [persi x sempre](https://open.spotify.com/track/2UpT1Ka1uWEhd9llS8sbAf) | [Dae](https://open.spotify.com/artist/6O1IK4RD34brPW8hT1JgyQ) | [persi x sempre](https://open.spotify.com/album/0Ce4upQbW6uocBHtEx9zDL) | 2:20 | 2024-01-25 | 2024-03-22 |
 | [PETTING](https://open.spotify.com/track/7uUdvQni4C3rj7DOduNAuQ) | [Dígame](https://open.spotify.com/artist/6duVD4tvbuGfGwK7qJBzMD), [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf) | [PETTING](https://open.spotify.com/album/1ZWMERMXrRI2C2d6gPnqD2) | 2:36 | 2022-05-06 | 2022-05-13 |
 | [Pezzo di Terra](https://open.spotify.com/track/2OiatnaZgOAbVxFeywYYyU) | [18K](https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB), [85Prod](https://open.spotify.com/artist/7n6z8NXRn1fEM15LesQ2Fr) | [Pezzo di Terra](https://open.spotify.com/album/2sFB2Mdu0igpVXJpj3ETnu) | 2:34 | 2023-11-30 | 2024-02-02 |

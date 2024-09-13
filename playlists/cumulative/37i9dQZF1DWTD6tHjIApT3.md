@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: 由薫
 
-2,655 songs - 7 day 2 hr 19 min
+2,656 songs - 7 day 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -428,7 +428,7 @@
 | [Fly High](https://open.spotify.com/track/7ddzu918Njs3S16DGWag6a) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Fly High](https://open.spotify.com/album/1M9qZianzqEvnaW8tBROT2) | 4:08 | 2022-05-29 | 2022-10-05 |
 | [For bbys](https://open.spotify.com/track/2EdLAaW8vO49B8QySpf2fC) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [19.5](https://open.spotify.com/album/7aoxCAZQG1RINt6c0uYqtQ) | 2:31 | 2024-03-05 |  |
 | [Foreigner](https://open.spotify.com/track/4QknbULYyLuSuMuDtQA3Er) | [Uilou](https://open.spotify.com/artist/3CdEu2bSpVDTmpSMWqFKCL) | [Foreigner](https://open.spotify.com/album/5bxqzQA6p054On5eTCeABP) | 1:28 | 2023-10-17 | 2023-10-25 |
-| [FORGIVE ME](https://open.spotify.com/track/5YCujphGH0H7MbNlYnHtI9) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [FORGIVE ME](https://open.spotify.com/album/1YKto8Y7O94ThCnyts7ad4) | 2:23 | 2024-04-30 |  |
+| [FORGIVE ME](https://open.spotify.com/track/5YCujphGH0H7MbNlYnHtI9) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [FORGIVE ME](https://open.spotify.com/album/1YKto8Y7O94ThCnyts7ad4) | 2:23 | 2024-04-30 | 2024-09-13 |
 | [Forgive me not](https://open.spotify.com/track/4Jd2fg1Ie08f5YJXHfatba) | [LOVE PSYCHEDELICO](https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp) | [Forgive me not](https://open.spotify.com/album/7uH4Egzy7FHDR6lGHV6NRH) | 2:58 | 2024-05-21 | 2024-05-29 |
 | [forgotten sun](https://open.spotify.com/track/5Pfl9hACV0IRLyptZ6Gvtx) | [E.scene](https://open.spotify.com/artist/3Gij27vfnbyoFhJ78ZFco5) | [forgotten sun](https://open.spotify.com/album/61EQYgQ6zz88eozjlsegGQ) | 4:11 | 2022-06-02 | 2022-07-14 |
 | [Fragile](https://open.spotify.com/track/01PfUkulXfv8lciqwwElRT) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Fragile](https://open.spotify.com/album/06rg3ryCKSOb090icMKs26) | 3:50 | 2023-10-17 | 2023-11-01 |
@@ -1197,6 +1197,7 @@
 | [Space Girl](https://open.spotify.com/track/45JH44gpL0dGC0Vybv954W) | [MPC GIRL USAGI](https://open.spotify.com/artist/5f2e0f0Q7tv69BzuLHvien), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl), [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8) | [Space Girl](https://open.spotify.com/album/2AQ7QrBX1Zg1VYPFvpRCTy) | 4:04 | 2022-06-16 | 2022-07-27 |
 | [Space Orphans](https://open.spotify.com/track/4IXZoWKRxDqw7hfz3jLwwg) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Space Orphans](https://open.spotify.com/album/5t1LwQUXqYyGxHDbivxXEo) | 4:35 | 2023-05-23 | 2023-07-19 |
 | [Spark](https://open.spotify.com/track/1pO3Nm1ybqXXEXvWHLTIg3) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [Spark](https://open.spotify.com/album/2lm4DxOkkRU5oIKz85u4rj) | 2:45 | 2023-02-16 | 2023-02-22 |
+| [SPARK!!](https://open.spotify.com/track/307iThLshjnMdUev0bqlr8) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [サマラブ](https://open.spotify.com/album/7eUgZkOJL1L3N8mxKC9XOq) | 4:04 | 2024-09-12 |  |
 | [Sparkle](https://open.spotify.com/track/1sbMOKGzOfH82AHgCQPNib) | [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [Sparkle](https://open.spotify.com/album/7D5HZy7UAEmYBj1gXCuAS6) | 2:55 | 2022-05-31 | 2022-07-29 |
 | [Special Girl](https://open.spotify.com/track/3zWgy6snFZzjOOsyRsISRZ) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [Special Girl](https://open.spotify.com/album/1gnWOH3j50tocVe1PFDB83) | 2:50 | 2024-08-13 | 2024-08-28 |
 | [Speechless \(feat\. 福原みほ\)](https://open.spotify.com/track/1gqziOJa2muzilyW88W1Gb) | [UNI\-Qreatives](https://open.spotify.com/artist/5i5sDbeYvK6eliuUwYgk11), [Miho Fukuhara](https://open.spotify.com/artist/7CM9T52YxOcACiOK2sqHqe) | [Speechless \(feat\. 福原みほ\)](https://open.spotify.com/album/2cHg3Vkw38yFBfMO7jNfIH) | 2:58 | 2024-02-22 | 2024-03-06 |
@@ -1983,7 +1984,7 @@
 | [ラジオ](https://open.spotify.com/track/4CIp3DAzzXzly8oF4BUlF4) | [SKYE](https://open.spotify.com/artist/49sJZCQvc3KN6s9VCMnbUa), [Raine](https://open.spotify.com/artist/1hxElSEVvcFYd7lTQaTXYG) | [ラジオ](https://open.spotify.com/album/5A9Q2UfqZ2YMXpCOPsDPPL) | 3:49 | 2023-06-06 | 2023-06-08 |
 | [ラストシーン](https://open.spotify.com/track/5L43elZ4LuEBDBH8KYBGb1) | [GLIM SPANKY](https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig) | [ラストシーン](https://open.spotify.com/album/2HwNyfPBEHlxYmeou5UsUs) | 4:34 | 2023-05-25 | 2023-05-31 |
 | [ラッキー](https://open.spotify.com/track/56JwLFPIor1uzTZCMrkLWj) | [Kaneko Ayano](https://open.spotify.com/artist/4XKIIegkRbSJft0PmMv9NB) | [ラッキー/さびしくない](https://open.spotify.com/album/0l2nlCoKeohFcI3vnF23Sq) | 3:04 | 2024-04-16 | 2024-04-24 |
-| [ラッキーカラー](https://open.spotify.com/track/5Fzv7ho7XOwvvEOvxFnnTp) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [ラッキーカラー](https://open.spotify.com/album/6LYuCN75nHet5fz8Cvzs8H) | 3:39 | 2024-07-04 |  |
+| [ラッキーカラー](https://open.spotify.com/track/5Fzv7ho7XOwvvEOvxFnnTp) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [ラッキーカラー](https://open.spotify.com/album/6LYuCN75nHet5fz8Cvzs8H) | 3:38 | 2024-07-04 |  |
 | [ラッキー・ドライブ](https://open.spotify.com/track/2YgT34Ztg37oBspiPey1ho) | [Gimgigam](https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY), [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK) | [ラッキー・ドライブ](https://open.spotify.com/album/0M1Ss4ejW5LB3ZllXxNEuh) | 3:28 | 2022-07-26 | 2022-09-30 |
 | [ラブソング](https://open.spotify.com/track/5EoqbjrKXDcmnNo1v18Nhg) | [MACO](https://open.spotify.com/artist/7ugEofYR3PMzWl0G2erk81) | [ラブソング](https://open.spotify.com/album/7qaXM0cEi3LVXkcff6taZs) | 3:11 | 2023-09-19 | 2023-09-27 |
 | [ラブ・ストーリーは突然に](https://open.spotify.com/track/4fxQRO8n2oL43gEW4hGjBv) | [Izumi Nakasone](https://open.spotify.com/artist/690c657yKdDGl8XuZ6FE8Q) | [灯 \-10 Cover Songs\-](https://open.spotify.com/album/69nspMaM1eq6wgRgJsngE5) | 4:43 | 2023-11-21 | 2023-12-20 |
@@ -2056,7 +2057,7 @@
 | [会いたいな今夜](https://open.spotify.com/track/6Io2AXv4aURp1d4LHQy6Fh) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [会いたいな今夜](https://open.spotify.com/album/4tNubXrDpUHt5mM9cMybqR) | 2:57 | 2023-02-14 | 2023-02-16 |
 | [会いにいこう](https://open.spotify.com/track/30zHq1T2xqEjuG3H4Mrb0s) | [UA](https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0) | [会いにいこう](https://open.spotify.com/album/4uxuD7Xy53HnWoTP4WVivR) | 4:05 | 2023-05-30 | 2023-06-01 |
 | [会いに来て](https://open.spotify.com/track/068tBNbcqxk7WGleGTlKCm) | [Karin.](https://open.spotify.com/artist/0PZn9J0BdIbkiYVvfzP0eg) | [星屑ドライブ \- ep](https://open.spotify.com/album/3xYJlfLMWIPVlaa4We5XkB) | 4:12 | 2022-06-07 | 2022-07-28 |
-| [会いに行くのに](https://open.spotify.com/track/33KpGlVe9ZCvtOLeETCQPl) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [会いに行くのに](https://open.spotify.com/album/3GOytAyt6Be4ZCl6b6fIja) | 5:15 | 2024-04-30 |  |
+| [会いに行くのに](https://open.spotify.com/track/33KpGlVe9ZCvtOLeETCQPl) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [会いに行くのに](https://open.spotify.com/album/3GOytAyt6Be4ZCl6b6fIja) | 5:14 | 2024-04-30 |  |
 | [低い飛行機](https://open.spotify.com/track/2niGgKLYTEimwlApTnkMbG) | [みらん](https://open.spotify.com/artist/2yfpy1pbfniKZ3I4rMjKnX) | [低い飛行機](https://open.spotify.com/album/33Q6WSWC9Q8T22QeovLvXb) | 3:38 | 2022-05-31 | 2022-07-15 |
 | [低気圧ボーイ](https://open.spotify.com/track/4vZMcTObOGq67qN6aiDgim) | [Natsu Summer](https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD), [流線形](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM) | [低気圧ボーイ](https://open.spotify.com/album/12wpyZQ1Y3JKoQPhUrECsW) | 4:33 | 2022-06-21 | 2022-06-29 |
 | [何度大人になったって](https://open.spotify.com/track/1hqDNBeFeplMihnRMt6ipS) | [KUKIKODAN](https://open.spotify.com/artist/7mzrWoSNJn8MaPPBPNr9yS) | [何度大人になったって](https://open.spotify.com/album/3PV4XJnhX3UI55hZFCjpCL) | 4:09 | 2023-09-26 | 2023-10-04 |
@@ -2283,7 +2284,7 @@
 | [愛のありか](https://open.spotify.com/track/3Y6GGcbWHOqtALVTBjfc2g) | [Saho Terao](https://open.spotify.com/artist/0yLUatFP9McWRDsM42uzCH) | [愛のありか](https://open.spotify.com/album/6eYWjB0vaCmxpwrdHjsGhR) | 4:38 | 2024-05-28 | 2024-06-05 |
 | [愛のしるし](https://open.spotify.com/track/7Huzhd3UpthiZIf1UzRcGA) | [森七菜](https://open.spotify.com/artist/1IDjyCsCk5Xjy7RA7AQ8vy) | [愛のしるし](https://open.spotify.com/album/0E6klzABzldGWMc7DVYaEh) | 2:50 | 2022-08-09 | 2023-02-24 |
 | [愛のせい](https://open.spotify.com/track/4XpqvxRQOeV70xEvAlLoiZ) | [Sakurako Ohara](https://open.spotify.com/artist/5TS11vZTUaDP4maTjFCcBU) | [愛のせい](https://open.spotify.com/album/53xskTOkeEsc9fDxu5bxNA) | 4:16 | 2022-10-11 | 2022-10-13 |
-| [愛の花](https://open.spotify.com/track/4iBO3Jg6kSXZHw06db0ds3) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [愛の花](https://open.spotify.com/album/34svnrcYhteBFCSQMLnfYZ) | 4:02 | 2023-04-05 |  |
+| [愛の花](https://open.spotify.com/track/4iBO3Jg6kSXZHw06db0ds3) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [愛の花](https://open.spotify.com/album/34svnrcYhteBFCSQMLnfYZ) | 4:01 | 2023-04-05 |  |
 | [愛はいつも](https://open.spotify.com/track/3jP8dzUFw0rP3QyE2AdBRC) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [愛はいつも](https://open.spotify.com/album/5pgsBGk0Z5TvzsF5xU4EIp) | 4:39 | 2022-10-25 | 2022-10-27 |
 | [愛はもう](https://open.spotify.com/track/633VJ4gaIGcKrAt5fvZ7Mm) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [愛はもう](https://open.spotify.com/album/5xyPLgqYuuDIuKr5hpB9bi) | 3:08 | 2022-05-29 | 2022-08-18 |
 | [愛をありがとう](https://open.spotify.com/track/5oDEAsNWeomAjcplALgqdw) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [愛をありがとう](https://open.spotify.com/album/5eaaXphQ2C5rwgoOKTbOp1) | 5:14 | 2023-08-31 | 2024-01-31 |

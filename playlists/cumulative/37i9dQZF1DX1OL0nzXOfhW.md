@@ -2,9 +2,9 @@
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 2024 RADAR登場！持續發掘世一超新聲！Cover:  OJ Reambillo
+> 2024 RADAR登場！持續發掘世一超新聲！Cover: Goochan
 
-208 songs - 12 hr 1 min
+210 songs - 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Dancing Cus It's Raining](https://open.spotify.com/track/4yQT0SptGrIAfZbqtyWE9o) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR), [Jan Curious](https://open.spotify.com/artist/1DxU7yGnE1XPeLYzOHdKSy) | [Now You See Me](https://open.spotify.com/album/1g3wmF7jrRUX7UtMFrpi2J) | 3:14 | 2022-06-23 | 2022-10-06 |
 | [Dancing Cus It's Raining](https://open.spotify.com/track/7667IhlsYqSQnXf3PH8p6O) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR), [Jan Curious](https://open.spotify.com/artist/1DxU7yGnE1XPeLYzOHdKSy) | [Now You See Me](https://open.spotify.com/album/3I56h2xHwElfL02U8grGT4) | 3:14 | 2022-09-15 | 2023-04-14 |
 | [Dancing in Delirium](https://open.spotify.com/track/6VPECBUXUyqaHNdwJTRaYs) | [LilithQueenB](https://open.spotify.com/artist/63omHXed38Mlx1DyIlSP3m) | [Dancing in Delirium](https://open.spotify.com/album/072k6yfPLKbZG2iz7cBL51) | 2:40 | 2023-04-13 | 2024-03-29 |
+| [Dear Vicky](https://open.spotify.com/track/0lB8tgI8wTnejGm4ARBDyT) | [Goochan](https://open.spotify.com/artist/1zn9DyqLyJO3M25GcVqnTn) | [Dear Vicky](https://open.spotify.com/album/2KG65Y4EddM3fmtJvK03ws) | 4:05 | 2024-09-12 |  |
 | [DEMONS](https://open.spotify.com/track/0UMhOCEAdwvxWaZ0K7V6KU) | [DEREK DALI](https://open.spotify.com/artist/6ysBnLN6adcJ61Icq0KFk6) | [DEMONS](https://open.spotify.com/album/4ZCF8pOZliBXL2RhM7VDFW) | 2:27 | 2023-09-15 | 2024-03-29 |
 | [devilsdisstrack](https://open.spotify.com/track/1Kg1LZq9x1eittBD2fzD4N) | [Jasmine Kelly](https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr) | [devilsdisstrack](https://open.spotify.com/album/0mFFBAVNg2fzpEI9ryda69) | 2:22 | 2024-07-18 |  |
 | [do//die](https://open.spotify.com/track/5sr6RPNfMWh9tWF4OqJrWV) | [kiyu](https://open.spotify.com/artist/2QliS3HKbo1IrXUmC9hg5C) | [do//die](https://open.spotify.com/album/0GhcEHmamKaqSOlCc3sWfv) | 2:24 | 2022-11-24 | 2023-04-14 |
@@ -171,6 +172,7 @@
 | [憑實力單身](https://open.spotify.com/track/4vTrVuUu1WKna22qQaKgK4) | [Aiden Hung 洪助昇](https://open.spotify.com/artist/7GkuBhIVejk4CThUIuW392) | [憑實力單身](https://open.spotify.com/album/4bvYTZJ2yqZ53ZDFemidF7) | 3:17 | 2023-04-13 | 2024-03-29 |
 | [戀人絮語](https://open.spotify.com/track/4ibMCdl61oRFsUxHYic55o) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [戀人絮語](https://open.spotify.com/album/58yIKevLzgQoi1XBDAFCyz) | 3:40 | 2023-05-11 | 2024-03-29 |
 | [我啊!一句都聽唔明白!Freestyle](https://open.spotify.com/track/4vJWlKoZMLmWMWrmyRjKwz) | [PetPetShawn](https://open.spotify.com/artist/3yL4X4Lk7qA5q9FShkremM) | [我啊!一句都聽唔明白!Freestyle](https://open.spotify.com/album/2ZwoicOeT63UEyBDpSMsUQ) | 1:17 | 2023-04-13 | 2024-03-29 |
+| [我想 I Want](https://open.spotify.com/track/1fuyf4kGxjdEF6ScAR5k0C) | [Wantamnam 我地希望](https://open.spotify.com/artist/0pVaCG8CoflvMHSNfqxPbd) | [想是南 Want Am Nam](https://open.spotify.com/album/1xoswUs26cYFezapHEqxDS) | 8:51 | 2024-09-12 |  |
 | [我的世界地圖](https://open.spotify.com/track/2n0jP1AyLtWiA4kTGf1uTn) | [Jeffrey 魏浚笙](https://open.spotify.com/artist/0T40tPcAKQ5d3a6VuzjrLf) | [我的世界地圖](https://open.spotify.com/album/0Rlcptg7wuzXIb3roe0irv) | 3:32 | 2023-11-23 |  |
 | [房屋供應問題](https://open.spotify.com/track/5GOI8Z0pzra4ZJcERjTbFw) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [房屋供應問題](https://open.spotify.com/album/7ncE4lTIsZrWtoy1KuXRkp) | 2:10 | 2024-03-28 |  |
 | [日出的缺口](https://open.spotify.com/track/7ap3XCfO7Wr5iO4K45sqrk) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n) | [日出的缺口](https://open.spotify.com/album/0f2AGfQ2LZwnjUmbvqY9as) | 3:16 | 2022-10-20 | 2023-04-14 |

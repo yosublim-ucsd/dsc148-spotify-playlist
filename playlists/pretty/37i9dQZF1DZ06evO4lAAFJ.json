@@ -1,12 +1,12 @@
 {
-  "description": "This Is ROSAL\u00cdA. Les titres incontournables, r\u00e9unis dans une seule et m\u00eame playlist.",
-  "num_followers": 631056,
+  "description": "This is ROSAL\u00cdA. The essential tracks, all in one playlist.",
+  "num_followers": 631165,
   "original_name": "This Is ROSAL\u00cdA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zt+MAAAAAAB4gHHt8o7MEykOIXnYigv7",
+  "snapshot_id": "ZuDdgAAAAACatKB4UNqOD40jpOq5pkjz",
   "tracks": [
     {
       "added_at": null,
@@ -915,18 +915,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "MOTOMAMI +",
-        "url": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
+        "name": "Realmente Volando (En Directo)",
+        "url": "https://open.spotify.com/album/6ZEninUB9PobSF5FVMyFK9"
       },
       "artists": [
+        {
+          "name": "Ni\u00f1a Pastori",
+          "url": "https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8"
+        },
         {
           "name": "ROSAL\u00cdA",
           "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 206869,
-      "name": "AISLAMIENTO",
-      "url": "https://open.spotify.com/track/3SxJJJbmgDeLpWHa54LIWK"
+      "duration_ms": 197761,
+      "name": "Cuando Te Beso (with ROSAL\u00cdA) - En Directo",
+      "url": "https://open.spotify.com/track/1uAGwsFrgLgjBzp5F5bO3a"
     }
   ],
   "unique_name": "This Is ROSAL\u00cdA",

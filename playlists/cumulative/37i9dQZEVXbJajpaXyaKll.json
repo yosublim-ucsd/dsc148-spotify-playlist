@@ -2889,6 +2889,24 @@
     },
     {
       "album": {
+        "name": "Flikiti",
+        "url": "https://open.spotify.com/album/2U2UaDJjoabSiGwIyMg7fD"
+      },
+      "artists": [
+        {
+          "name": "Margarita",
+          "url": "https://open.spotify.com/artist/0VX5Df1JG4Y84sGvKjkcrG"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184621,
+      "name": "Corazones Rojos",
+      "url": "https://open.spotify.com/track/5vxZrzoY5pvm8eWvvWVyah"
+    },
+    {
+      "album": {
         "name": "Corte Caco (Remix)",
         "url": "https://open.spotify.com/album/3WpkI8y48aGBQ5zz9t6phN"
       },
@@ -4000,6 +4018,24 @@
       "duration_ms": 107218,
       "name": "ellas",
       "url": "https://open.spotify.com/track/1A2iEt3LpHuVEH5Dz2Lrer"
+    },
+    {
+      "album": {
+        "name": "Flikiti",
+        "url": "https://open.spotify.com/album/2U2UaDJjoabSiGwIyMg7fD"
+      },
+      "artists": [
+        {
+          "name": "Margarita",
+          "url": "https://open.spotify.com/artist/0VX5Df1JG4Y84sGvKjkcrG"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189177,
+      "name": "EmotiHadas",
+      "url": "https://open.spotify.com/track/48Hd63I7WiiTJfzUFbcXlO"
     },
     {
       "album": {
@@ -5164,7 +5200,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 218423,
       "name": "Good Luck, Babe!",
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
@@ -5818,10 +5854,28 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-11",
+      "date_removed": null,
       "duration_ms": 157146,
       "name": "I Love You, I'm Sorry",
       "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
+    },
+    {
+      "album": {
+        "name": "I Only Smoke When I Drink",
+        "url": "https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198425,
+      "name": "I Only Smoke When I Drink",
+      "url": "https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR"
     },
     {
       "album": {
@@ -8182,7 +8236,7 @@
       ],
       "date_added": "2024-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 252560,
       "name": "Morella",
       "url": "https://open.spotify.com/track/0d0oFPdetT7eDWdkDxeJIe"
@@ -8842,7 +8896,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 152981,
       "name": "Ni Lo Intenten",
       "url": "https://open.spotify.com/track/1TokKdKuXjVQgjRnNLH8St"
@@ -14186,7 +14240,7 @@
       ],
       "date_added": "2024-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 232253,
       "name": "Yo Te Esperar\u00e9",
       "url": "https://open.spotify.com/track/0mGvaKpwLYoybnIoboC3uS"

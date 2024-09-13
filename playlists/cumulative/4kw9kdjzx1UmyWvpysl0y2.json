@@ -8287,6 +8287,24 @@
     },
     {
       "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/7qqThyYgtFmqIzhTKbVHRe"
+      },
+      "artists": [
+        {
+          "name": "Bishu",
+          "url": "https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139764,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/2c6PNDLjisZLJe08W3j3PU"
+    },
+    {
+      "album": {
         "name": "Long Ago",
         "url": "https://open.spotify.com/album/0q5IFGu4CPd21YiEbbr81y"
       },

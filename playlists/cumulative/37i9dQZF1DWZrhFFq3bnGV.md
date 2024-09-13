@@ -4,7 +4,7 @@
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Littlefingers
 
-207 songs - 14 hr 43 min
+208 songs - 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Sangfroid](https://open.spotify.com/track/7tng7M3wHsQSLBslv2i9Nd) | [Littlefingers](https://open.spotify.com/artist/7lNcVBJDzjh6sKNIiuh9kU) | [Sangfroid](https://open.spotify.com/album/6jnZR9Unzi708wR0T3vMHe) | 5:00 | 2022-09-02 | 2023-08-18 |
 | [Sapalah Dia](https://open.spotify.com/track/6w3cndfdgSaWRxNwLaFTv6) | [Fadhilonn](https://open.spotify.com/artist/1Dd9BdeYo1NJF7aV76ffUc) | [Ruang malam](https://open.spotify.com/album/2a2XuPGOdKHrMz0tFWJuJF) | 3:44 | 2023-03-03 | 2024-04-19 |
 | [Sapalah Dia](https://open.spotify.com/track/72y8aKnZzuc1OmQZk2jkqo) | [Fadhilonn](https://open.spotify.com/artist/1Dd9BdeYo1NJF7aV76ffUc), [Ferdinand Chandra](https://open.spotify.com/artist/3BSvvioYoBts4vLctGluCg), [Gaung Granitto](https://open.spotify.com/artist/2uHFN9B71lBuDYJUAn4Vio), [Gearda Dewantara](https://open.spotify.com/artist/2vri5OFowsJBeTFKTtPXc9), [Kasyfi Kalyasyena](https://open.spotify.com/artist/69zLpKqzwRVxoh6OnnGXjb), [Nash Ersandy](https://open.spotify.com/artist/3HNMbh9cGOwID5okXQzJnf) | [Ruang Malam](https://open.spotify.com/album/7oTPRaFY44BUTuDqUmFQH5) | 3:44 | 2024-04-18 |  |
+| [Satu Dunia](https://open.spotify.com/track/3JwN2rU6xyirTUUyAx1dqj) | [Avalokiteshvara](https://open.spotify.com/artist/5maaciTj4rHBn2xOGxcPM2), [Tanya Ditaputri](https://open.spotify.com/artist/48ucHKspMenY9DgUjCVbdb) | [Satu Dunia](https://open.spotify.com/album/32jtPwoLQuehtlWkBKa6pC) | 3:41 | 2024-09-12 |  |
 | [Sekuntum Rindu](https://open.spotify.com/track/7dpAPNQjTEHTJs1j7e2ILf) | [Bella Fawzi](https://open.spotify.com/artist/3RnxeXxr5PwsplroB1Y081), [Chiki Fawzi](https://open.spotify.com/artist/2dpXcsschEWywZZepNfUpN), [Dewa Budjana](https://open.spotify.com/artist/1DvbGHKUGTOIns3BXzyKhB) | [Sekuntum Rindu](https://open.spotify.com/album/4cKMXcCcRFWMuq17Fa4BG0) | 3:33 | 2022-09-02 | 2023-06-09 |
 | [Selangkah Lagi](https://open.spotify.com/track/044pFmYIZBYKUWNVbhQJ8e) | [Abdul & The Coffee Theory](https://open.spotify.com/artist/7rTRICDeckWVatQYWZM93J) | [Old Fashioned Way](https://open.spotify.com/album/0z8ipHoQLEcx1nTUAJitTh) | 2:57 | 2022-09-02 | 2023-03-04 |
 | [Sembilan](https://open.spotify.com/track/2h53cB2OyARIKR0QcY5VE4) | [Natasya Elvira](https://open.spotify.com/artist/6lNWlJEtPCkkWE6P17fUIw), [Societeit de Harmonie](https://open.spotify.com/artist/1KH1jCwChcxJG9GKUUfCt9) | [Sembilan](https://open.spotify.com/album/38iZSG6AUGr2zqvAPC7za6) | 2:53 | 2024-05-30 |  |

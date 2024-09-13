@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 233333,
       "name": "28",
       "url": "https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj"
@@ -96,7 +96,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 238493,
       "name": "Arm's Length",
       "url": "https://open.spotify.com/track/5NuUKKMA2qsltM1DnSJZLL"
@@ -335,6 +335,24 @@
     },
     {
       "album": {
+        "name": "Dum & Deilig",
+        "url": "https://open.spotify.com/album/4TBA0VgTjBpVyDTKpciMUm"
+      },
+      "artists": [
+        {
+          "name": "Bargee",
+          "url": "https://open.spotify.com/artist/0lLcVfzo8FYGaqDY47brmP"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168954,
+      "name": "Dum & Deilig",
+      "url": "https://open.spotify.com/track/5FStk7omJkKPRaW8YngDto"
+    },
+    {
+      "album": {
         "name": "En g\u00e5ng till",
         "url": "https://open.spotify.com/album/4DHfWTM0wLOcsvPftNzluD"
       },
@@ -368,7 +386,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
@@ -390,7 +408,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-08",
+      "date_removed": null,
       "duration_ms": 147619,
       "name": "Feel This Way",
       "url": "https://open.spotify.com/track/1uAqpDfjT4ODipqrMTBWgN"
@@ -600,7 +618,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 179791,
       "name": "I'm Back",
       "url": "https://open.spotify.com/track/0tduSYti0mY7p8j5AIO4Pg"
@@ -691,6 +709,24 @@
     },
     {
       "album": {
+        "name": "Kun i kveld",
+        "url": "https://open.spotify.com/album/4jhm1B2vDAGkhlnVJWoZ3S"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8te og Rare Gutter",
+          "url": "https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140769,
+      "name": "Kun i kveld",
+      "url": "https://open.spotify.com/track/6PIkK5x2L0t4v10BofX67d"
+    },
+    {
+      "album": {
         "name": "Kunne vi",
         "url": "https://open.spotify.com/album/285MzfmGoQE0a1MTPzZxPN"
       },
@@ -706,7 +742,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-11",
+      "date_removed": null,
       "duration_ms": 133945,
       "name": "Kunne vi",
       "url": "https://open.spotify.com/track/2zIQ3Sgm3lEMpVRz2hKQao"
@@ -858,7 +894,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 221709,
       "name": "Make You Mine",
       "url": "https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL"
@@ -1000,7 +1036,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-07",
+      "date_removed": null,
       "duration_ms": 156459,
       "name": "R\u00f8de Rubin",
       "url": "https://open.spotify.com/track/0Pdi9usvND947TMv869DmN"
@@ -1242,7 +1278,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 173000,
       "name": "Tenk Inte",
       "url": "https://open.spotify.com/track/2pqQRRFqx4N2vgUpyNCjeZ"
@@ -1470,6 +1506,24 @@
       "duration_ms": 186377,
       "name": "You Need Me Now? (feat. Sabrina Carpenter)",
       "url": "https://open.spotify.com/track/3zPGZBbZEGqu7eY7R0NkqI"
+    },
+    {
+      "album": {
+        "name": "Egoland",
+        "url": "https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO"
+      },
+      "artists": [
+        {
+          "name": "UNDERGRUNN",
+          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266346,
+      "name": "Zanotti",
+      "url": "https://open.spotify.com/track/3nT3EBnBlRgn9X00yrOLHE"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXb0iJOO12OY8"

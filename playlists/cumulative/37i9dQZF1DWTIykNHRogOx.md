@@ -2,7 +2,7 @@
 
 ### [Exception Française](https://open.spotify.com/playlist/37i9dQZF1DWTIykNHRogOx)
 
-> Le meilleur de la chanson française actuelle\. Photo : Coline Rio
+> Le meilleur de la chanson française actuelle\. Photo : Louis Chedid
 
 66 songs - 3 hr 41 min
 

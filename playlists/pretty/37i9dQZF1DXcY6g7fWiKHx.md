@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 
 > <a href="spotify:artist:3QFiymmbJlVBPpnrOatEAkq">Myd</a>'s favourite tracks\. Updated regularly\. Curated by Myd\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,880 likes - 245 songs - 20 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,892 likes - 253 songs - 21 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -253,5 +253,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 | 243 | [Badala Zamana \(Habibi Funk 015\)](https://open.spotify.com/track/0x267yS2OeozYaFzCyqnx6) | [Zohra](https://open.spotify.com/artist/3l2fkH1yrsHsfYYU2ZnwtI) | [Badala Zamana \(Habibi Funk 015\)](https://open.spotify.com/album/04Ok581SPH7eTevAKZUeQB) | 3:10 |
 | 244 | [Don't Be Afraid](https://open.spotify.com/track/1GMcDXY4Z5efyrnG9xswae) | [East Coast Love Affair](https://open.spotify.com/artist/0FKqQAbZijrpGaRw6PqDDI) | [Don't Be Afraid](https://open.spotify.com/album/4plYYFtWKeIWuaeVIiTyPy) | 4:34 |
 | 245 | [Higher](https://open.spotify.com/track/6j7J0nOvFYkNlfQh2NHhkU) | [Antoine Bourachot](https://open.spotify.com/artist/24bH0ZMlrOkri5XncEL7Oy) | [Higher](https://open.spotify.com/album/3r5rShq4UIYsXo7PSzAo5j) | 6:03 |
+| 246 | [One Thousand Waves](https://open.spotify.com/track/1mYROkVrR8J8Zg87GhcGIs) | [Palms Trax](https://open.spotify.com/artist/52XSRQqTAfZ8ZrIqkQvQyA), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [One Thousand Waves](https://open.spotify.com/album/1uyFMVG3dOwjx9nVBMJlqC) | 3:46 |
+| 247 | [Every Night You](https://open.spotify.com/track/2RU3Y48fO51dNWGShBvigu) | [Nyra](https://open.spotify.com/artist/68JPALv2DlQNPeiyyO7PP8) | [Every Night You](https://open.spotify.com/album/3HrSVWXFCzzrignRsrid1r) | 4:04 |
+| 248 | [Perilous Joy](https://open.spotify.com/track/1ZSw4nauY9zUGJyt7nxFtu) | [Demi Riquísimo](https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac) | [Perilous Joy](https://open.spotify.com/album/7f7XR68i5Rl8rlJdLkUzs4) | 7:12 |
+| 249 | [Take It, Take It](https://open.spotify.com/track/4lmrvVjKKslAeolhHV8jSC) | [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t) | [Take It, Take It](https://open.spotify.com/album/4LiT2cntTkflmJsq0v4LYC) | 6:21 |
+| 250 | [Yali Bachata](https://open.spotify.com/track/4zfNuL0jrwRbVBqjzk2XoN) | [Muteng](https://open.spotify.com/artist/3HCYGD14p1jXgUP90Qc0Yc) | [Love Music](https://open.spotify.com/album/0sGe4c9j1GvQwCSRzlsOCN) | 7:25 |
+| 251 | [I Hadn't Known \(I only heard\) \- Bonus Track](https://open.spotify.com/track/1Qd0No0lExyNRkbs7l4PtJ) | [Herbert](https://open.spotify.com/artist/6wXFUcaG7779tb1Ok72GBn) | [Around The House \(Special Edition\)](https://open.spotify.com/album/5tgVDeZ3r2IPYlitzedyjT) | 7:14 |
+| 252 | [In 10,000 Places](https://open.spotify.com/track/2MThJYGRpWfPmfdK04VrjQ) | [Jennifer Loveless](https://open.spotify.com/artist/2Vsiki0qM11ADccRwwvS1c) | [In 10,000 Places](https://open.spotify.com/album/7F67kb9cW8j6aT5OksMoCS) | 6:35 |
+| 253 | [Hustle do Brasil](https://open.spotify.com/track/6ne8agwOHjbFHcDTILeCYS) | [Aroop Roy](https://open.spotify.com/artist/13ZcbaFfAsWtq989FqCXVQ) | [Hustle do Brasil](https://open.spotify.com/album/1u6WFnkNGorTI9lTTgKJ78) | 4:28 |
 
-Snapshot ID: `ZnLsRgAAAAAKGxfI/mbtfbV/3HRBEKgP`
+Snapshot ID: `ZuLjIgAAAACg0SMayWlSE+jP+odCnXbE`

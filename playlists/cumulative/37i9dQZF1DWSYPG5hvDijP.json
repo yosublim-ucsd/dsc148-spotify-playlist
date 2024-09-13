@@ -138,7 +138,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 173239,
       "name": "140",
       "url": "https://open.spotify.com/track/6YS34eGqpfABBaYIjnLFv5"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 121791,
       "name": "2 AM in Mumbai",
       "url": "https://open.spotify.com/track/3lHbWEiu66JgYQuuHy8bqz"
@@ -391,6 +391,28 @@
     },
     {
       "album": {
+        "name": "Aja Meri Jaan",
+        "url": "https://open.spotify.com/album/6gJpWXeOQZpPHkjWAoUC4S"
+      },
+      "artists": [
+        {
+          "name": "KhullarG",
+          "url": "https://open.spotify.com/artist/2yAbjVguK4dIqZ6IdVJP4i"
+        },
+        {
+          "name": "Vision",
+          "url": "https://open.spotify.com/artist/0SqdljKM9fqIV6fuxQOlUI"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140439,
+      "name": "Aja Meri Jaan",
+      "url": "https://open.spotify.com/track/2Dr9qSkkevWiZ5fscVXq05"
+    },
+    {
+      "album": {
         "name": "Akela",
         "url": "https://open.spotify.com/album/1PqapJIkqEoL6CudXe6Rzd"
       },
@@ -484,7 +506,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 191255,
       "name": "All In (feat. Bandzo3rd)",
       "url": "https://open.spotify.com/track/0QE3NomrrrqmxQG75iXCaG"
@@ -1094,7 +1116,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 146977,
       "name": "Bewafa",
       "url": "https://open.spotify.com/track/27sHbRIe50Ae1jfrKbJ4z3"
@@ -1208,7 +1230,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 190666,
       "name": "Big Dawgs",
       "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
@@ -1691,6 +1713,24 @@
     },
     {
       "album": {
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/5P7UVithAmtxiKEOTlQqXO"
+      },
+      "artists": [
+        {
+          "name": "MEMAX",
+          "url": "https://open.spotify.com/artist/244S5iHPahvRSus18nJVxu"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166857,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/6T2sCLSNezPVDacizADYms"
+    },
+    {
+      "album": {
         "name": "MONOPOLY MOVES",
         "url": "https://open.spotify.com/album/5dkmnSddXf47ZX5IJ4WCtr"
       },
@@ -1834,7 +1874,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 184421,
       "name": "Chalis",
       "url": "https://open.spotify.com/track/3Y2QAPM1Vsw7yKKnVMsxhD"
@@ -1936,6 +1976,28 @@
       "duration_ms": 175774,
       "name": "Classy Chapri",
       "url": "https://open.spotify.com/track/4qKKIJ8VLxreHQbDSJB3xo"
+    },
+    {
+      "album": {
+        "name": "Code DY Daring Yankee",
+        "url": "https://open.spotify.com/album/1ClPfIcJeARbMtNCti4foy"
+      },
+      "artists": [
+        {
+          "name": "Veeru Dhillon",
+          "url": "https://open.spotify.com/artist/1hbfMFEmQzs0FxhIwWXe5g"
+        },
+        {
+          "name": "Adrey",
+          "url": "https://open.spotify.com/artist/3bNBehiQ5j9vSNy45Js3eH"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221162,
+      "name": "Code DY Daring Yankee",
+      "url": "https://open.spotify.com/track/60eCvhAWSqkI29GP0K0rSc"
     },
     {
       "album": {
@@ -2441,6 +2503,24 @@
     },
     {
       "album": {
+        "name": "DOWNTOWN",
+        "url": "https://open.spotify.com/album/5fnwo2fKkhLtBAQ1P5H9MD"
+      },
+      "artists": [
+        {
+          "name": "Saabi Bhinder",
+          "url": "https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "DOWNTOWN",
+      "url": "https://open.spotify.com/track/7uw41oKgDSTE9Uq0yRNCmS"
+    },
+    {
+      "album": {
         "name": "Drame",
         "url": "https://open.spotify.com/album/5v9aI0o7wpy7wGVQjWJxKq"
       },
@@ -2929,6 +3009,28 @@
     },
     {
       "album": {
+        "name": "My Turn",
+        "url": "https://open.spotify.com/album/4eT5LonmQGAIEJs2BXuUpn"
+      },
+      "artists": [
+        {
+          "name": "Naina Layal",
+          "url": "https://open.spotify.com/artist/5L9qkyX6hhCC8IFlwIwiEa"
+        },
+        {
+          "name": "Beat Professer",
+          "url": "https://open.spotify.com/artist/54BSQUxhw6wZ1icyGDPFgn"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168800,
+      "name": "Fuck' Em All",
+      "url": "https://open.spotify.com/track/232W3mqpxSkgExwInlDsOu"
+    },
+    {
+      "album": {
         "name": "FUKA SARI RAAT",
         "url": "https://open.spotify.com/album/4obb7ExNOKh59K8JQ3pOy8"
       },
@@ -3003,6 +3105,24 @@
     },
     {
       "album": {
+        "name": "Gaana Baje Gaadi Mein",
+        "url": "https://open.spotify.com/album/5HM7Fra6nT1prdZD6RS88p"
+      },
+      "artists": [
+        {
+          "name": "KHILLARI",
+          "url": "https://open.spotify.com/artist/57i3gH8eXXsBYPHBre63v1"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134777,
+      "name": "Gaana Baje Gaadi Mein",
+      "url": "https://open.spotify.com/track/74vAYjgpsLzolIlEBi38mP"
+    },
+    {
+      "album": {
         "name": "MERI JAAN PEHLE NAACH",
         "url": "https://open.spotify.com/album/0EjqvUumscGjg4Y12yalkV"
       },
@@ -3018,7 +3138,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 241535,
       "name": "GABBAR",
       "url": "https://open.spotify.com/track/1onRB8Y9I8coG52cFeq5oD"
@@ -4037,6 +4157,24 @@
     },
     {
       "album": {
+        "name": "Inner Circle",
+        "url": "https://open.spotify.com/album/0Cgye1OU6oXhSqVC2JjWmX"
+      },
+      "artists": [
+        {
+          "name": "BAWA",
+          "url": "https://open.spotify.com/artist/397KJT6AbxxE3UgpLktTvR"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151826,
+      "name": "Inner Circle",
+      "url": "https://open.spotify.com/track/1yJyVPkov6bAAFV9jEXdEH"
+    },
+    {
+      "album": {
         "name": "Eyes On The Prize",
         "url": "https://open.spotify.com/album/1b46lR5SZxbKQrwNikXDQe"
       },
@@ -4174,6 +4312,28 @@
       "duration_ms": 225000,
       "name": "Itachi & Madara",
       "url": "https://open.spotify.com/track/5vN4OfBFvIV8xpLwY2z8DQ"
+    },
+    {
+      "album": {
+        "name": "JAANEJAANA",
+        "url": "https://open.spotify.com/album/3QU9SPkAgpuBQMAGnuAPwN"
+      },
+      "artists": [
+        {
+          "name": "NseeB",
+          "url": "https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5"
+        },
+        {
+          "name": "Vitamin",
+          "url": "https://open.spotify.com/artist/4pYzHNIyEnFmGEdy6lomXR"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155236,
+      "name": "JAANEJAANA",
+      "url": "https://open.spotify.com/track/2T6twxFVaatlhg5Ocz08Bw"
     },
     {
       "album": {
@@ -5040,7 +5200,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 204935,
       "name": "Like That",
       "url": "https://open.spotify.com/track/2xjK6X8vX06yZK8DnYQ9V0"
@@ -5234,7 +5394,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 193418,
       "name": "Mafia Mentality",
       "url": "https://open.spotify.com/track/6uN1Q7zi64ItazbGHBYud9"
@@ -6149,6 +6309,36 @@
     },
     {
       "album": {
+        "name": "Nehr",
+        "url": "https://open.spotify.com/album/0cfW2WzBbaLZrcPreok1I8"
+      },
+      "artists": [
+        {
+          "name": "tricksingh",
+          "url": "https://open.spotify.com/artist/3xvOoFJqHTgdPqUVWlRYQk"
+        },
+        {
+          "name": "Natasha Noorani",
+          "url": "https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285"
+        },
+        {
+          "name": "Salor",
+          "url": "https://open.spotify.com/artist/5p1vtdUEsj50ZTBe9BuEGF"
+        },
+        {
+          "name": "Khyber13",
+          "url": "https://open.spotify.com/artist/1KefUu2M5QS6jG0XQ8NtiZ"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169808,
+      "name": "Nehr",
+      "url": "https://open.spotify.com/track/01fLCgZV9M3c6tzVGfOmKk"
+    },
+    {
+      "album": {
         "name": "Time Will Tell",
         "url": "https://open.spotify.com/album/2KeoHVqxTVYsOz5ThUyQ6y"
       },
@@ -6636,7 +6826,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 170869,
       "name": "Pitbull",
       "url": "https://open.spotify.com/track/3xJwshLcC50ZXeioGmIcdl"
@@ -6768,7 +6958,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 184329,
       "name": "PREACHER",
       "url": "https://open.spotify.com/track/1C99ZFDmchpWnOXgRk9B2U"
@@ -6834,6 +7024,28 @@
       "duration_ms": 165600,
       "name": "Pyaar Hai",
       "url": "https://open.spotify.com/track/6y7hah32ankOd6kz4nJsEv"
+    },
+    {
+      "album": {
+        "name": "Raastah",
+        "url": "https://open.spotify.com/album/2oSbt2kiTCcDmn87YFHCP7"
+      },
+      "artists": [
+        {
+          "name": "AUR",
+          "url": "https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855"
+        },
+        {
+          "name": "Taimour Baig",
+          "url": "https://open.spotify.com/artist/1yMP2gzEFgUkib4khXN6hi"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227578,
+      "name": "Raastah",
+      "url": "https://open.spotify.com/track/1wv4xwsBlTd8Lp4io5KulE"
     },
     {
       "album": {
@@ -8298,6 +8510,28 @@
       "duration_ms": 216062,
       "name": "Urvashi",
       "url": "https://open.spotify.com/track/1EJLrOy25fZ3l55p4rgPdS"
+    },
+    {
+      "album": {
+        "name": "DSP",
+        "url": "https://open.spotify.com/album/1K7j7CMe82qIGH1OfxuGel"
+      },
+      "artists": [
+        {
+          "name": "Prabh Deep",
+          "url": "https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC"
+        },
+        {
+          "name": "Faris Shafi",
+          "url": "https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170526,
+      "name": "Ustaadi (feat. Faris Shafi)",
+      "url": "https://open.spotify.com/track/0chpoH9CmYkczejkJihaxj"
     },
     {
       "album": {

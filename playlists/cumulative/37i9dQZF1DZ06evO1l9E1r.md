@@ -2,7 +2,7 @@
 
 ### [This Is Hildur Guðnadóttir](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1l9E1r)
 
-> This Is Hildur Guðnadóttir\. Les titres incontournables, réunis dans une seule et même playlist.
+> This is Hildur Guðnadóttir\. The essential tracks, all in one playlist.
 
 99 songs - 4 hr 31 min
 

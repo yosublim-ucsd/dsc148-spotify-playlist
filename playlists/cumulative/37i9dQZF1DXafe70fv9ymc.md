@@ -4,7 +4,7 @@
 
 > you give me shiverssss
 
-93 songs - 4 hr 40 min
+95 songs - 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [6th Heaven](https://open.spotify.com/track/25iO8OFr0spWQlbEOX4gE6) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [6th Heaven](https://open.spotify.com/album/3x6LyrVuG7DCWHNPab60rm) | 3:59 | 2024-02-09 | 2024-06-21 |
 | [Addict](https://open.spotify.com/track/4QllNTTcfilJCmYGM7bJtw) | [Sarnilo](https://open.spotify.com/artist/0ignuXgngSTxY87ZzRwZ8C), [Mzwaa](https://open.spotify.com/artist/0mebykC539Ik5ijTNBY1FJ) | [Addict](https://open.spotify.com/album/6VCFjahARQWF0GW9mEUf7I) | 3:36 | 2024-06-28 |  |
 | [All The Way](https://open.spotify.com/track/0MxWBWLNPdNWtIOgTHD9hO) | [Ess thee Legend](https://open.spotify.com/artist/16ouaa6tZ9jk1hm82V2HaA), [Robin Rozay](https://open.spotify.com/artist/3p5fc6bu54bLBRlv6ZbWlV) | [YOU WILL KNOW MY NAME](https://open.spotify.com/album/3BL6PeAQwWi2vwrj8wfI87) | 2:47 | 2024-03-01 | 2024-04-19 |
+| [BackFat](https://open.spotify.com/track/2mxic3Fzx2iakoVVaHtepk) | [Turunesh](https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv) | [BackFat](https://open.spotify.com/album/0LRhLilERMSRAxszBoq2S9) | 3:57 | 2024-09-13 |  |
 | [Bad Decisions & Foreplay](https://open.spotify.com/track/5OUIh8ATWsEi5H4Oas0tKi) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Bad Decisions & Foreplay](https://open.spotify.com/album/3j3vh7zL3GuCIVdbK8tZzd) | 2:49 | 2024-08-02 |  |
 | [Bad4u](https://open.spotify.com/track/47MrcI6SgwA4FRvURaaaZ1) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Bad4u](https://open.spotify.com/album/6oWQWuCF0BGQSkGCVnzQN8) | 2:59 | 2024-02-09 | 2024-06-21 |
 | [Body to Body \#Ycd](https://open.spotify.com/track/6CqSgmHESBxlRrOkDBIhHT) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Redemption](https://open.spotify.com/album/038SZr5DtjpCRspMtzi6FY) | 3:14 | 2024-02-09 | 2024-03-29 |
@@ -72,7 +73,7 @@
 | [R\-, Pt\. 2 \- Acoustic Version](https://open.spotify.com/track/2X8UWEViu7QZn7uRXAWKmV) | [OSO](https://open.spotify.com/artist/62fPxmuEy5IX40T8omAeB2), [Amoit](https://open.spotify.com/artist/1EO9IOTaipIYiA0K8AnBuA), [Phoebe Thestor](https://open.spotify.com/artist/14Pns33TGKYoRZlxi2sN1I) | [R\-, Pt\. 2 \(Acoustic Version\)](https://open.spotify.com/album/4pjezrOHcAXQkBoe0rw0Zz) | 2:11 | 2024-02-09 | 2024-04-26 |
 | [REASON](https://open.spotify.com/track/1481IQC8BjqGLTer67cWbC) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ), [GR!](https://open.spotify.com/artist/3OLtlWxh8Ht9pL5ke6gFkd) | [REASON](https://open.spotify.com/album/3HsFIS5mJMqpisQXuwL0BN) | 3:41 | 2024-02-23 | 2024-08-02 |
 | [Rising](https://open.spotify.com/track/0RjIsyAX2Cjrhs22Dpfxyn) | [David Docade](https://open.spotify.com/artist/0lFRX34C3tyfJ1XtR1p6MF) | [Rising](https://open.spotify.com/album/7ilXy7MALlKATu0LlvrKQq) | 3:15 | 2024-03-15 |  |
-| [Risk](https://open.spotify.com/track/6qS9yoAUIXNfno5t4YLQdn) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Stubborn](https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc) | 3:22 | 2024-07-19 |  |
+| [Risk](https://open.spotify.com/track/6qS9yoAUIXNfno5t4YLQdn) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Stubborn](https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc) | 3:22 | 2024-07-19 | 2024-09-13 |
 | [Room 69](https://open.spotify.com/track/3dl81ypaK6k0y0RCszBKS4) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ROOM 96](https://open.spotify.com/album/6MFyUXJ1YrcHvraPVirOZ1) | 3:09 | 2024-02-09 | 2024-03-29 |
 | [Rum & Butter](https://open.spotify.com/track/1UVy3p0uQqnWi9kndjhNCC) | [Turunesh](https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv) | [Satin Cassette](https://open.spotify.com/album/6O8YfFylaHXZlCmgkN44hV) | 4:25 | 2024-02-09 | 2024-04-26 |
 | [Shadow](https://open.spotify.com/track/3nRNBZWIeLWfXKvuLuyiWl) | [Salome](https://open.spotify.com/artist/5DxbeMKmMhAE6j80lDhUxq) | [Shadow](https://open.spotify.com/album/2cJLHEoYe1o1NkeexIWMRS) | 2:49 | 2024-02-09 | 2024-03-15 |
@@ -81,7 +82,7 @@
 | [SOS \(Sex on Sight\) \(feat\. USHER\)](https://open.spotify.com/track/2iNMrWUMlqf03NrHCQZY71) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [SOS \(Sex on Sight\) \(feat\. USHER\)](https://open.spotify.com/album/5tVtBhkc0CWO1TKsx6CdQH) | 4:25 | 2024-08-30 |  |
 | [Stuck Inside](https://open.spotify.com/track/5l0YvtHzzyNPJ4rAiw9tYT) | [Play Nice](https://open.spotify.com/artist/1ghxd86r7phiK0vgytiGkh), [Insightful](https://open.spotify.com/artist/0iq8RFnJPaAzjxStLi9Y9z), [Bowtye](https://open.spotify.com/artist/0wms98WJkHZ4bT7Cmo7FVe), [J.Robb](https://open.spotify.com/artist/2DfpfU9DpRLC3EuWLKyy4m), [Zilo](https://open.spotify.com/artist/3fcW2V4zOfFm0IsWCJUuzz), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Home Buddies](https://open.spotify.com/album/5HVCOmfEypAFVDbUatTywe) | 1:55 | 2024-02-09 | 2024-03-01 |
 | [SUNRISE](https://open.spotify.com/track/4HqX6MBbPjnhxqy4Dk2B8f) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV), [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [SUNRISE](https://open.spotify.com/album/6YTlR2MyM23tvEnMBnDsj1) | 2:48 | 2024-06-21 |  |
-| [SUPERSTAR](https://open.spotify.com/track/1UHftfgNHxCF2vw3LmJBsi) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [ITS NOT THAT DEEP](https://open.spotify.com/album/6UAa59miWIjKKbpqVdHfTB) | 1:57 | 2024-07-19 |  |
+| [SUPERSTAR](https://open.spotify.com/track/1UHftfgNHxCF2vw3LmJBsi) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [ITS NOT THAT DEEP](https://open.spotify.com/album/6UAa59miWIjKKbpqVdHfTB) | 1:57 | 2024-07-19 | 2024-09-13 |
 | [Swing](https://open.spotify.com/track/1Ok6aF4jh2Ij3dCD33ARkG) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of), [Shorae Moore](https://open.spotify.com/artist/7oa259fCCMN3S80h0Vmxtp) | [Swing](https://open.spotify.com/album/6dL8SxYZ6TwI0ATlUDEq2F) | 2:54 | 2024-02-09 |  |
 | [Tamagotchi](https://open.spotify.com/track/1rlF4Fn0BIyvEiO059lng1) | [Turunesh](https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv) | [Tamagotchi](https://open.spotify.com/album/46usJ9NwStBHV10Z6GSf6R) | 2:55 | 2024-07-12 | 2024-08-02 |
 | [Tattoo](https://open.spotify.com/track/7yIsvwkZuWuskQrbtVWfrN) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [APOLLO](https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq) | 2:56 | 2024-02-09 | 2024-06-07 |
@@ -100,6 +101,7 @@
 | [Wine](https://open.spotify.com/track/2qpCxK7imR1qbH4fbdgWLg) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:50 | 2024-02-09 | 2024-03-15 |
 | [Wishes And Butterflies](https://open.spotify.com/track/2bJiq43RRoWzh8szaaLD6K) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Wishes And Butterflies](https://open.spotify.com/album/3N9LYpcxF7H0pJGafs44VW) | 1:24 | 2024-02-09 | 2024-04-19 |
 | [Wishes And Butterflies](https://open.spotify.com/track/2sqs1oaraOEEmHRyTFcKT5) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Love Is Contagious](https://open.spotify.com/album/5Wt03bPDbH9Z1C6MUUuNiV) | 1:24 | 2024-04-19 |  |
+| [With Open Arms](https://open.spotify.com/track/2zMkas94Ekim0wZfGsGe23) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of) | [With Open Arms](https://open.spotify.com/album/2dO8pR2M34D8IR50t5yEMg) | 3:00 | 2024-09-13 |  |
 | [XO](https://open.spotify.com/track/0hIJZTluzNb0wFcydgV1gR) | [LottiXTC](https://open.spotify.com/artist/4BrVKxA7fBmB7siL8v7BK3) | [XO](https://open.spotify.com/album/0mRfAuheaBITh9VKYEnjBu) | 2:14 | 2024-02-09 | 2024-03-08 |
 
 \*This playlist was first scraped on 2024-02-20. Prior content cannot be recovered.

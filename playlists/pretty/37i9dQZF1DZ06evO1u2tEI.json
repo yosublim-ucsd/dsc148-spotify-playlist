@@ -1,12 +1,12 @@
 {
-  "description": "This is Elliott Smith. The essential tracks, all in one playlist.",
-  "num_followers": 77378,
+  "description": "This Is Elliott Smith. \u0412\u0441\u0435 \u043b\u0443\u0447\u0448\u0438\u0435 \u0442\u0440\u0435\u043a\u0438 \u0432 \u043e\u0434\u043d\u043e\u043c \u043f\u043b\u0435\u0439\u043b\u0438\u0441\u0442\u0435.",
+  "num_followers": 77402,
   "original_name": "This Is Elliott Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zt+MAAAAAACYOmfhYTFNXa5vZSzj20W6",
+  "snapshot_id": "ZuDdgAAAAAB2j9F9rVObCzrFlcmu7oGz",
   "tracks": [
     {
       "added_at": null,
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 231560,
-      "name": "Going Nowhere",
-      "url": "https://open.spotify.com/track/3j7kIRldLpus5gJK21dhId"
+      "duration_ms": 204573,
+      "name": "Pretty Mary K (Other Version)",
+      "url": "https://open.spotify.com/track/5m80zPT09wNZd3MO7flmEv"
     },
     {
       "added_at": null,
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 204573,
-      "name": "Pretty Mary K (Other Version)",
-      "url": "https://open.spotify.com/track/5m80zPT09wNZd3MO7flmEv"
+      "duration_ms": 231560,
+      "name": "Going Nowhere",
+      "url": "https://open.spotify.com/track/3j7kIRldLpus5gJK21dhId"
     },
     {
       "added_at": null,

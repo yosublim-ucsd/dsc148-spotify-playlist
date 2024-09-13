@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De nieuwste Hollandse hits. Cover: Robert van Hemert",
+  "description": "De nieuwste Hollandse hits. Cover: Mart Hoogkamer",
   "name": "Liever Hollands",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 160763,
       "name": "Allemaal Naar Rhodos",
       "url": "https://open.spotify.com/track/6svays9BgKtZDe9PCgyJWm"
@@ -258,7 +258,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 203252,
       "name": "Buona Sera",
       "url": "https://open.spotify.com/track/2m5T7Fn0PyGZpxZYa0jEnC"
@@ -370,7 +370,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 178333,
       "name": "De Liefde Die Leeft (Stumblin' In Remix)",
       "url": "https://open.spotify.com/track/2rgRnoUQ29DM53zXE2RB0E"
@@ -468,6 +468,24 @@
       "duration_ms": 173684,
       "name": "Frans Thuis",
       "url": "https://open.spotify.com/track/2Hd5d3K74UMj0GGcrIousD"
+    },
+    {
+      "album": {
+        "name": "Ga Als Je Wilt - 2024",
+        "url": "https://open.spotify.com/album/5MWJJ1lNhQ2NfL7PvUougL"
+      },
+      "artists": [
+        {
+          "name": "Frank Van Etten",
+          "url": "https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216513,
+      "name": "Ga Als Je Wilt - 2024",
+      "url": "https://open.spotify.com/track/40UqMDhrBlpFLbQEBkMuBS"
     },
     {
       "album": {
@@ -717,6 +735,24 @@
     },
     {
       "album": {
+        "name": "Ik Spaar Geen Centen",
+        "url": "https://open.spotify.com/album/1zKEr4hhGjFSaeXeO450RS"
+      },
+      "artists": [
+        {
+          "name": "Mart Hoogkamer",
+          "url": "https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166923,
+      "name": "Ik Spaar Geen Centen",
+      "url": "https://open.spotify.com/track/6h6hSyEABJubJdCn7Y8hEE"
+    },
+    {
+      "album": {
         "name": "Ik War Laot",
         "url": "https://open.spotify.com/album/7pooZROmgtmAYjPgVzfGt8"
       },
@@ -764,10 +800,28 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 167670,
       "name": "Ik Zal Geen Traan Meer Om Je Laten",
       "url": "https://open.spotify.com/track/0IG9KSc2YJLOfg0NzKpFZR"
+    },
+    {
+      "album": {
+        "name": "In De Wolken",
+        "url": "https://open.spotify.com/album/0GL6gXnV0Efq6M4YF6Mv04"
+      },
+      "artists": [
+        {
+          "name": "Priscilla Ophof",
+          "url": "https://open.spotify.com/artist/1WPZn8qRmT7tFIeEmm1szs"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200154,
+      "name": "In De Wolken",
+      "url": "https://open.spotify.com/track/0lEEf3dbpEVEpsn67UMhiQ"
     },
     {
       "album": {
@@ -927,6 +981,24 @@
     },
     {
       "album": {
+        "name": "Kleine After",
+        "url": "https://open.spotify.com/album/1rMiNhxe1SzzQRkhSZSbYx"
+      },
+      "artists": [
+        {
+          "name": "Joey Nicolay",
+          "url": "https://open.spotify.com/artist/1uCUEXtWoTs2odKdZTbAaG"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154287,
+      "name": "Kleine After",
+      "url": "https://open.spotify.com/track/1RlvrCBtdbogpHYnrSL1Nq"
+    },
+    {
+      "album": {
         "name": "Kleine Vogel",
         "url": "https://open.spotify.com/album/3V0Fy4UKvz6PHsN68AVtaJ"
       },
@@ -938,7 +1010,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 184007,
       "name": "Kleine Vogel",
       "url": "https://open.spotify.com/track/48WJ59hCbP0PwhZVGgLoS3"
@@ -960,6 +1032,28 @@
       "duration_ms": 180685,
       "name": "Kom Op En Zing Met Me Mee",
       "url": "https://open.spotify.com/track/1kZrr0uwYBuR7fdkTlocto"
+    },
+    {
+      "album": {
+        "name": "Koning van het plein",
+        "url": "https://open.spotify.com/album/3AehYYdSmF4xZ8PDRWbS0N"
+      },
+      "artists": [
+        {
+          "name": "Edo Barends",
+          "url": "https://open.spotify.com/artist/7AnNU4xr4GSDqjrf9sl534"
+        },
+        {
+          "name": "Lange Frans",
+          "url": "https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204002,
+      "name": "Koning van het plein",
+      "url": "https://open.spotify.com/track/3RdTVF7yjt6wFkylc1uRlo"
     },
     {
       "album": {
@@ -1559,6 +1653,28 @@
     },
     {
       "album": {
+        "name": "Space Piloot",
+        "url": "https://open.spotify.com/album/0SDLmoqaTdv3IUfpWO1Py1"
+      },
+      "artists": [
+        {
+          "name": "Ammar",
+          "url": "https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb"
+        },
+        {
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175520,
+      "name": "Space Piloot",
+      "url": "https://open.spotify.com/track/6fSLqvEylA2IUrvD7X6l8T"
+    },
+    {
+      "album": {
         "name": "Sportschool",
         "url": "https://open.spotify.com/album/2NnEEN0jr4SoVC9HD0gqY7"
       },
@@ -1632,7 +1748,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 140061,
       "name": "Tequila",
       "url": "https://open.spotify.com/track/3BLCU1TXLUZqnfuttprVHI"
@@ -1738,7 +1854,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 181916,
       "name": "Vergeef Me",
       "url": "https://open.spotify.com/track/27737JQ5rhBTJyYGLQZkBs"
@@ -2224,6 +2340,24 @@
       "duration_ms": 152285,
       "name": "Zomer In M'n Bol (feat. Andr\u00e9 Hazes)",
       "url": "https://open.spotify.com/track/5VlY1Th1IgoNCLutkFfUVu"
+    },
+    {
+      "album": {
+        "name": "Zou Jij Mij Doen?!",
+        "url": "https://open.spotify.com/album/6AMIJvQID6bAxFp3vMFHR0"
+      },
+      "artists": [
+        {
+          "name": "Henk Dissel",
+          "url": "https://open.spotify.com/artist/1xD7SAwt2tLdg9wGPbCkO2"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180714,
+      "name": "Zou Jij Mij Doen?!",
+      "url": "https://open.spotify.com/track/43oq1u2ymYMSAlNF7h4zy1"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3fVDvRBemdr"

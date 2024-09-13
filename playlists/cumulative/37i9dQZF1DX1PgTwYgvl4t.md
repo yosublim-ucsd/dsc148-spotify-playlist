@@ -4,7 +4,7 @@
 
 > Strictly Nigerian worship songs\. Cover:  <a href=https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU?si=P3aUHJWgRLCGMmhYuDEMtQ>Sunmisola Agbebi</a>
 
-88 songs - 10 hr 11 min
+90 songs - 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Casting Crowns](https://open.spotify.com/track/2AXoz82FM7qwhFwEKztGdm) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [The Son of God \(& Imela\)](https://open.spotify.com/album/17QFKUXHOJcDzNoDijDcXn) | 6:34 | 2024-05-09 |  |
 | [Confessions \- Live](https://open.spotify.com/track/263bKs830B9Ae4UzgtU80Q) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Confessions \(Live\)](https://open.spotify.com/album/69So72vj1mzoGgOjBqZJse) | 7:24 | 2024-05-09 |  |
 | [Deep Worship Medley](https://open.spotify.com/track/0IMjgpxOemOw8P9DYlIKVL) | [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [Deep Worship Medley](https://open.spotify.com/album/5wZgcf3QmwWCHtXTo4l81w) | 4:35 | 2024-06-28 |  |
+| [Dependable](https://open.spotify.com/track/1IkzykEzwPkDovrZAcCCFP) | [Enkay Ogboruche](https://open.spotify.com/artist/3v1qozG4k1E878TKsLr6eX), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Dependable](https://open.spotify.com/album/2aWYCoqfzCRIpRizerkBW4) | 4:22 | 2024-09-13 |  |
 | [Dependable God \(Medley\)](https://open.spotify.com/track/0nFJXe8v5S5J6Jihb33RkN) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Dependable God \(Medley\)](https://open.spotify.com/album/7CzRW6l3bcarSQ8w1wAoKj) | 3:52 | 2024-05-09 |  |
 | [Ebezina \- Remix](https://open.spotify.com/track/4aeJUqWP7Sa1PKd8E0ZpDV) | [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK), [Promise Effiong](https://open.spotify.com/artist/1I9z32ju9HEWHAZcEhKGqp) | [Ebezina \(Remix\)](https://open.spotify.com/album/0WCYtMFPpuBcdlLzeKfztd) | 4:54 | 2024-07-12 |  |
 | [Ekwueme \(In Your Class\)](https://open.spotify.com/track/4VaTVRelsQw9HZDmg45GDs) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [Ekwueme \(In Your Class\)](https://open.spotify.com/album/4aKFnqCvKz4ZDo2apxay1I) | 12:53 | 2024-08-23 |  |
@@ -90,6 +91,7 @@
 | [Worthy of My Praise](https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [The Great Commission](https://open.spotify.com/album/1ceKYPCijmkMxAaD3eIpJc) | 13:28 | 2024-05-09 |  |
 | [Yabo da Sujada \-a Worship Experience \(Live\)](https://open.spotify.com/track/0L7X9VDmvgtXVFuqO1lt7g) | [Jakes Hinjari](https://open.spotify.com/artist/0vHke5zDphp49XceKxztGu), [Koinonia Worship Team](https://open.spotify.com/artist/3Gu1HyCRYShWIkeEM75HsP) | [Yabo da Sujada \-a Worship Experience \(Live\)](https://open.spotify.com/album/624n5JDuYk636uDrB7T9Yh) | 5:40 | 2024-07-12 |  |
 | [You Are Always There](https://open.spotify.com/track/2u1XE762ploDotScizdgh5) | [Dr Paul Enenche](https://open.spotify.com/artist/5bbq9LbEHKVq6FEpVLuz7i) | [In His Presence, Vol\. 2](https://open.spotify.com/album/3I2lS8vcbdBS76PfAJ4fDP) | 8:25 | 2024-05-09 |  |
+| [You Are Here \- Live](https://open.spotify.com/track/0O5gv3GXR0CACUU2RMPQBu) | [FIDEL E\. William](https://open.spotify.com/artist/3ZtLx9dt1d6OMirAEMMToe) | [You Are Here \- Live](https://open.spotify.com/album/4ohxMX3C1PR5OkO5vVsEbf) | 5:08 | 2024-09-13 |  |
 | [You Are My God \(Live\)](https://open.spotify.com/track/1yayw49jO8k7ITlMWsIrjS) | [Freke Umoh](https://open.spotify.com/artist/2xImxpkojQWvXi1RR7hhZh) | [Green Worship 1.0 \(Live\)](https://open.spotify.com/album/3C0d6kHPNfgTU9670QQtC8) | 7:28 | 2024-05-09 |  |
 | [You Are the Reason](https://open.spotify.com/track/1c0ALi1HY9oAkWpVrG1UJe) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [No Limits](https://open.spotify.com/album/0B2Dh7ZBqo6mvDMKNjq0FL) | 6:21 | 2024-05-09 |  |
 | [You Are Worthy](https://open.spotify.com/track/3agNg2Dsn2LpHO9i0M112R) | [Tope Alabi](https://open.spotify.com/artist/1WDoaSGtFrO4ZPMZqLiaEU) | [Yes And Amen](https://open.spotify.com/album/31Zvl6ebdEQwBfqju54Ji0) | 6:45 | 2024-05-09 |  |

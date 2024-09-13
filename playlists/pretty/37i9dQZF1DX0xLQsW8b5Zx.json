@@ -1,6 +1,6 @@
 {
   "description": "Live fast, die awesome! A great mix of the best rockabilly tracks.",
-  "num_followers": 533994,
+  "num_followers": 534002,
   "original_name": "Rockabilly Mania",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-08-22 08:48:23",
       "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/1bZHbHtUvjGqUOKNla4lo0"
-      },
-      "artists": [
-        {
-          "name": "Ricky Nelson",
-          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
-        }
-      ],
-      "duration_ms": 138840,
-      "name": "Hello Mary Lou",
-      "url": "https://open.spotify.com/track/0YOasUp8fxPk3FXEa3fZ9z"
-    },
-    {
-      "added_at": "2024-08-22 08:48:23",
-      "album": {
         "name": "Blue Jean Bop",
         "url": "https://open.spotify.com/album/28VDX5GZcFakGBuh2Uf5En"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 142560,
       "name": "Bluejean Bop",
       "url": "https://open.spotify.com/track/2BgekYyyiCcvina0Ihoii9"
+    },
+    {
+      "added_at": "2024-08-22 08:48:23",
+      "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/1bZHbHtUvjGqUOKNla4lo0"
+      },
+      "artists": [
+        {
+          "name": "Ricky Nelson",
+          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
+        }
+      ],
+      "duration_ms": 138840,
+      "name": "Hello Mary Lou",
+      "url": "https://open.spotify.com/track/0YOasUp8fxPk3FXEa3fZ9z"
     },
     {
       "added_at": "2024-08-22 08:48:23",
@@ -719,22 +719,18 @@
     {
       "added_at": "2024-08-22 08:48:23",
       "album": {
-        "name": "Our Own Way Of Rockin'",
-        "url": "https://open.spotify.com/album/3Tig4FmFOmfxWrwwQhN1DO"
+        "name": "Musta Notta Gotta Lotta",
+        "url": "https://open.spotify.com/album/0Og633EW0zPdlclAXI9TJg"
       },
       "artists": [
         {
-          "name": "Crazy Cavan",
-          "url": "https://open.spotify.com/artist/1GpRTQRruGUoxhRYV0RtEv"
-        },
-        {
-          "name": "The Rhythm Rockers",
-          "url": "https://open.spotify.com/artist/2vUb000rRvIR0OySDVJSat"
+          "name": "Joe Ely",
+          "url": "https://open.spotify.com/artist/388Y4nUQbYSyonhNlBEypT"
         }
       ],
-      "duration_ms": 165293,
-      "name": "My Little Sister Gotta Motorbike",
-      "url": "https://open.spotify.com/track/3jdD1a7GJXh3Q9pMYxLagY"
+      "duration_ms": 155000,
+      "name": "Musta Notta Gotta Lotta",
+      "url": "https://open.spotify.com/track/0MJiECmrhQvEggBvVfBSOj"
     },
     {
       "added_at": "2024-08-22 08:48:23",
@@ -755,18 +751,22 @@
     {
       "added_at": "2024-08-22 08:48:23",
       "album": {
-        "name": "Musta Notta Gotta Lotta",
-        "url": "https://open.spotify.com/album/0Og633EW0zPdlclAXI9TJg"
+        "name": "Our Own Way Of Rockin'",
+        "url": "https://open.spotify.com/album/3Tig4FmFOmfxWrwwQhN1DO"
       },
       "artists": [
         {
-          "name": "Joe Ely",
-          "url": "https://open.spotify.com/artist/388Y4nUQbYSyonhNlBEypT"
+          "name": "Crazy Cavan",
+          "url": "https://open.spotify.com/artist/1GpRTQRruGUoxhRYV0RtEv"
+        },
+        {
+          "name": "The Rhythm Rockers",
+          "url": "https://open.spotify.com/artist/2vUb000rRvIR0OySDVJSat"
         }
       ],
-      "duration_ms": 155000,
-      "name": "Musta Notta Gotta Lotta",
-      "url": "https://open.spotify.com/track/0MJiECmrhQvEggBvVfBSOj"
+      "duration_ms": 165293,
+      "name": "My Little Sister Gotta Motorbike",
+      "url": "https://open.spotify.com/track/3jdD1a7GJXh3Q9pMYxLagY"
     },
     {
       "added_at": "2024-08-22 08:48:23",

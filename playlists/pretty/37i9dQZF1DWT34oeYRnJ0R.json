@@ -1,6 +1,6 @@
 {
   "description": "Just vibes. Cover: Boza & ELENA ROSE",
-  "num_followers": 665446,
+  "num_followers": 665450,
   "original_name": "Vibras",
   "owner": {
     "name": "Spotify",
@@ -895,6 +895,22 @@
     {
       "added_at": "2024-09-06 17:02:34",
       "album": {
+        "name": "Me Lo Merezco",
+        "url": "https://open.spotify.com/album/2v3SbLqPYXwxzwbE6kRJio"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "duration_ms": 172125,
+      "name": "Me Lo Merezco",
+      "url": "https://open.spotify.com/track/0vXKNdPKnNqojeHM696Q88"
+    },
+    {
+      "added_at": "2024-09-06 17:02:34",
+      "album": {
         "name": "Sauce Boyz 2",
         "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 232560,
       "name": "No Te Deseo el Mal",
       "url": "https://open.spotify.com/track/3HQxzXOb4p9pfpD5gP38D5"
-    },
-    {
-      "added_at": "2024-09-06 17:02:34",
-      "album": {
-        "name": "Me Lo Merezco",
-        "url": "https://open.spotify.com/album/2v3SbLqPYXwxzwbE6kRJio"
-      },
-      "artists": [
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        }
-      ],
-      "duration_ms": 172125,
-      "name": "Me Lo Merezco",
-      "url": "https://open.spotify.com/track/0vXKNdPKnNqojeHM696Q88"
     },
     {
       "added_at": "2024-09-06 17:02:34",
@@ -1059,6 +1059,42 @@
     {
       "added_at": "2024-09-06 17:02:34",
       "album": {
+        "name": "Le Clique: Vida Rockstar (X)",
+        "url": "https://open.spotify.com/album/67JIMv9vCB2ukBdEbtUmUG"
+      },
+      "artists": [
+        {
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 166053,
+      "name": "Habibi",
+      "url": "https://open.spotify.com/track/3vqxapus26imChRaRh51T9"
+    },
+    {
+      "added_at": "2024-09-06 17:02:34",
+      "album": {
+        "name": "Lo Intent\u00e9",
+        "url": "https://open.spotify.com/album/2tGIwxt06WELGAEFAI8sKW"
+      },
+      "artists": [
+        {
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
+        }
+      ],
+      "duration_ms": 199139,
+      "name": "Lo Intent\u00e9",
+      "url": "https://open.spotify.com/track/5sQRpQSm2yo2pyE6rGsoIB"
+    },
+    {
+      "added_at": "2024-09-06 17:02:34",
+      "album": {
         "name": "KOMBOLEWA (Remix)",
         "url": "https://open.spotify.com/album/5CYQvAzeyM6VYqBINgo5ST"
       },
@@ -1091,42 +1127,6 @@
       "duration_ms": 138677,
       "name": "COMO SUENAN LAS ESTRELLAS",
       "url": "https://open.spotify.com/track/29MAYnmNwruONslO4E1iZD"
-    },
-    {
-      "added_at": "2024-09-06 17:02:34",
-      "album": {
-        "name": "Lo Intent\u00e9",
-        "url": "https://open.spotify.com/album/2tGIwxt06WELGAEFAI8sKW"
-      },
-      "artists": [
-        {
-          "name": "Yubeili",
-          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
-        },
-        {
-          "name": "Alka Produce",
-          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
-        }
-      ],
-      "duration_ms": 199139,
-      "name": "Lo Intent\u00e9",
-      "url": "https://open.spotify.com/track/5sQRpQSm2yo2pyE6rGsoIB"
-    },
-    {
-      "added_at": "2024-09-06 17:02:34",
-      "album": {
-        "name": "Le Clique: Vida Rockstar (X)",
-        "url": "https://open.spotify.com/album/67JIMv9vCB2ukBdEbtUmUG"
-      },
-      "artists": [
-        {
-          "name": "JHAYCO",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 166053,
-      "name": "Habibi",
-      "url": "https://open.spotify.com/track/3vqxapus26imChRaRh51T9"
     },
     {
       "added_at": "2024-09-06 17:02:34",
@@ -1331,26 +1331,6 @@
     {
       "added_at": "2024-09-06 17:02:34",
       "album": {
-        "name": "TYLA",
-        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 157999,
-      "name": "On My Body",
-      "url": "https://open.spotify.com/track/5uxzcaOKTqgUf6E9KXftKz"
-    },
-    {
-      "added_at": "2024-09-06 17:02:34",
-      "album": {
         "name": "Airplane Tickets",
         "url": "https://open.spotify.com/album/6xEpW40GaWcE663h7cA3Ws"
       },
@@ -1371,6 +1351,26 @@
       "duration_ms": 198514,
       "name": "Airplane Tickets",
       "url": "https://open.spotify.com/track/2v1FKs8SR6tYEYREKM6MNN"
+    },
+    {
+      "added_at": "2024-09-06 17:02:34",
+      "album": {
+        "name": "TYLA",
+        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 157999,
+      "name": "On My Body",
+      "url": "https://open.spotify.com/track/5uxzcaOKTqgUf6E9KXftKz"
     },
     {
       "added_at": "2024-09-06 17:02:34",
@@ -2187,26 +2187,6 @@
     {
       "added_at": "2024-09-06 17:02:34",
       "album": {
-        "name": "CVRBON VRMOR [C_DE: G_D.O.N.]",
-        "url": "https://open.spotify.com/album/3zaBxuBf9zSlxZ20ZRHXXE"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "K4G",
-          "url": "https://open.spotify.com/artist/7iE1RkAmNySaonnYrV8lmU"
-        }
-      ],
-      "duration_ms": 248653,
-      "name": "SHOFAR",
-      "url": "https://open.spotify.com/track/68lSedap260kbjpvdvF7Tp"
-    },
-    {
-      "added_at": "2024-09-06 17:02:34",
-      "album": {
         "name": "POKE FREESTYLE",
         "url": "https://open.spotify.com/album/2GWvS2DZKb8ovA7HquXJQ3"
       },
@@ -2223,6 +2203,26 @@
       "duration_ms": 203293,
       "name": "POKE FREESTYLE",
       "url": "https://open.spotify.com/track/44nurfcBvWwOI2bMBPRzZA"
+    },
+    {
+      "added_at": "2024-09-06 17:02:34",
+      "album": {
+        "name": "CVRBON VRMOR [C_DE: G_D.O.N.]",
+        "url": "https://open.spotify.com/album/3zaBxuBf9zSlxZ20ZRHXXE"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "K4G",
+          "url": "https://open.spotify.com/artist/7iE1RkAmNySaonnYrV8lmU"
+        }
+      ],
+      "duration_ms": 248653,
+      "name": "SHOFAR",
+      "url": "https://open.spotify.com/track/68lSedap260kbjpvdvF7Tp"
     },
     {
       "added_at": "2024-09-06 17:02:34",
@@ -2343,6 +2343,22 @@
     {
       "added_at": "2024-09-06 17:02:34",
       "album": {
+        "name": "Para Mi",
+        "url": "https://open.spotify.com/album/4EN6HX2xApPwC7nA7FjI7k"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 267953,
+      "name": "Para Mi",
+      "url": "https://open.spotify.com/track/3mUPsqEeq0GoIv1wSuivqf"
+    },
+    {
+      "added_at": "2024-09-06 17:02:34",
+      "album": {
         "name": "roadhead",
         "url": "https://open.spotify.com/album/78gARamOGVuP4BfkPTfvx7"
       },
@@ -2359,22 +2375,6 @@
       "duration_ms": 157021,
       "name": "roadhead",
       "url": "https://open.spotify.com/track/3wNTgsllDN3WMqgCAxvGOw"
-    },
-    {
-      "added_at": "2024-09-06 17:02:34",
-      "album": {
-        "name": "Para Mi",
-        "url": "https://open.spotify.com/album/4EN6HX2xApPwC7nA7FjI7k"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 267953,
-      "name": "Para Mi",
-      "url": "https://open.spotify.com/track/3mUPsqEeq0GoIv1wSuivqf"
     },
     {
       "added_at": "2024-09-06 17:02:34",
@@ -2535,26 +2535,6 @@
     {
       "added_at": "2024-09-06 17:02:34",
       "album": {
-        "name": "Himalaya",
-        "url": "https://open.spotify.com/album/2FxYWWfFTazRUhyYb3pofk"
-      },
-      "artists": [
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 168871,
-      "name": "Himalaya",
-      "url": "https://open.spotify.com/track/4JUQCUpWyitHecYN5qFLDw"
-    },
-    {
-      "added_at": "2024-09-06 17:02:34",
-      "album": {
         "name": "Dame Un Break (Remix)",
         "url": "https://open.spotify.com/album/6nLjjJAYSRzGOb3fy2FUcN"
       },
@@ -2575,6 +2555,26 @@
       "duration_ms": 262219,
       "name": "Dame Un Break - Remix",
       "url": "https://open.spotify.com/track/1GrpcJyJteho5VRPr70mYu"
+    },
+    {
+      "added_at": "2024-09-06 17:02:34",
+      "album": {
+        "name": "Himalaya",
+        "url": "https://open.spotify.com/album/2FxYWWfFTazRUhyYb3pofk"
+      },
+      "artists": [
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 168871,
+      "name": "Himalaya",
+      "url": "https://open.spotify.com/track/4JUQCUpWyitHecYN5qFLDw"
     },
     {
       "added_at": "2024-09-06 17:02:34",
@@ -2671,22 +2671,6 @@
     {
       "added_at": "2024-09-06 17:02:34",
       "album": {
-        "name": "Demasiado",
-        "url": "https://open.spotify.com/album/6uoYiEZJ2OfFan01ypD4Mj"
-      },
-      "artists": [
-        {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        }
-      ],
-      "duration_ms": 184748,
-      "name": "Eres T\u00fa",
-      "url": "https://open.spotify.com/track/79SZwWu9dhgyCBeA5YeQRQ"
-    },
-    {
-      "added_at": "2024-09-06 17:02:34",
-      "album": {
         "name": "GANGSTA LUV",
         "url": "https://open.spotify.com/album/6I831rDMtHx8e17mh5xzsP"
       },
@@ -2703,6 +2687,22 @@
       "duration_ms": 231454,
       "name": "GANGSTA LUV",
       "url": "https://open.spotify.com/track/5DW8n9JygY7J4oMFV5M7ti"
+    },
+    {
+      "added_at": "2024-09-06 17:02:34",
+      "album": {
+        "name": "Demasiado",
+        "url": "https://open.spotify.com/album/6uoYiEZJ2OfFan01ypD4Mj"
+      },
+      "artists": [
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        }
+      ],
+      "duration_ms": 184748,
+      "name": "Eres T\u00fa",
+      "url": "https://open.spotify.com/track/79SZwWu9dhgyCBeA5YeQRQ"
     },
     {
       "added_at": "2024-09-06 17:02:34",

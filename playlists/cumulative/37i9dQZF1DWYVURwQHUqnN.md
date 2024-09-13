@@ -2,9 +2,9 @@
 
 ### [Best Life](https://open.spotify.com/playlist/37i9dQZF1DWYVURwQHUqnN)
 
-> Photo : Guy2bezbar
+> Photo : Naza x Dadi
 
-174 songs - 8 hr 29 min
+177 songs - 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Coco](https://open.spotify.com/track/49XICf008slp1Aek6LYzmQ) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [C'est quand qu'il s'éteint ?](https://open.spotify.com/album/1WYGwCvsfFrr7kuQcfNnJr) | 2:33 | 2023-09-28 | 2023-11-10 |
 | [Coco](https://open.spotify.com/track/1HXC5IiGUqTEFl18IJ42Lm) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Coco](https://open.spotify.com/album/230L56lWpmJBSmZA7Fvsua) | 2:28 | 2024-07-11 |  |
 | [Coco \(feat\. Tayc\)](https://open.spotify.com/track/6MG8MRq1odNsWCasM9IehW) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Coco \(feat\. Tayc\)](https://open.spotify.com/album/5hGsaXtfKcheS0r0AzMhgi) | 3:18 | 2024-07-18 |  |
+| [Coeur lourd](https://open.spotify.com/track/4UQ03EmBK1VYPfTwNEPc1W) | [Zkr](https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4), [Massine](https://open.spotify.com/artist/6atz1NxVSI9Nk2YEnhUsFZ) | [Coeur lourd](https://open.spotify.com/album/63OKz3v3s6fubYfJ2RW725) | 2:32 | 2024-09-12 |  |
 | [Confidences](https://open.spotify.com/track/3w3ccBSWumRfMn2lYEwZLi) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Confidences](https://open.spotify.com/album/4SU8HMrBkIDyCMXj552kNE) | 2:08 | 2024-05-09 |  |
 | [Continents](https://open.spotify.com/track/38D17hHTXb59kEULsAZjpV) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [Continents](https://open.spotify.com/album/7zMLIlP82oQBVI0W8D5T5u) | 2:27 | 2024-07-04 |  |
 | [Corazon](https://open.spotify.com/track/0dvgF40E0vh04R4HgbXmC3) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Game Over 3 \- Terminal 2](https://open.spotify.com/album/3NWk02t9Nau9Vd6dtWRVo7) | 3:08 | 2024-02-22 | 2024-05-24 |
@@ -67,6 +68,7 @@
 | [J'fais que danser](https://open.spotify.com/track/0SqLN8ZqucYOGZH7SD4HGC) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [J'fais que danser](https://open.spotify.com/album/4w7f8o2ZkjNPBJalSVrh27) | 2:53 | 2023-11-09 | 2024-06-07 |
 | [J'suis en indé](https://open.spotify.com/track/3OBdpvFPdJptQiwhh0mzli) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Depuis le temps \(Pour la miff\)](https://open.spotify.com/album/1zms2t58lsrP5iyn1twb1J) | 2:29 | 2024-07-25 | 2024-08-22 |
 | [Je remplace mes exs](https://open.spotify.com/track/3QSTzAm336llccLmSrdqzI) | [TK](https://open.spotify.com/artist/5vnUF9uAL0ly7qw25ERLuC), [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o) | [Je remplace mes exs](https://open.spotify.com/album/1JCfwbRtYqlTF6sQChqcuM) | 2:53 | 2023-09-28 | 2023-10-13 |
+| [Joie de filles \(feat\. Vacra\)](https://open.spotify.com/track/2JIiyXGlUn6t1yDB80ypWk) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Joie de filles \(feat\. Vacra\)](https://open.spotify.com/album/4mX4pHtUevnTpVA4C5ESVD) | 2:18 | 2024-09-12 |  |
 | [Juste une minute](https://open.spotify.com/track/2yiIfIO1JYMiXebaBEodWD) | [ZEG P](https://open.spotify.com/artist/1rpxM2mBJnWdfPeieLDYOc), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Juste une minute](https://open.spotify.com/album/5qAeplYmzvfI5RQ1Jv0pNf) | 2:57 | 2024-06-20 |  |
 | [KB9](https://open.spotify.com/track/4PbUJQL1l8FNeskGcW1syj) | [L'Allemand](https://open.spotify.com/artist/3BX2N7cc1OrBUJQiiei3On), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Ma Vie](https://open.spotify.com/album/3XkQtHK3tnk2FSN74TEA8E) | 2:54 | 2023-12-08 | 2024-02-09 |
 | [Kengan Ashura](https://open.spotify.com/track/5XVlrCa2mygLe7jWcg8DL7) | [DJ Flash](https://open.spotify.com/artist/00SMMqx16Zxt7osuqbv3aW), [THABITI](https://open.spotify.com/artist/5Ea2kDQeQNQrIcI6tCthaQ) | [Kengan Ashura](https://open.spotify.com/album/1zamgEDwMF7jU7R5gzIImN) | 2:09 | 2024-04-11 | 2024-05-10 |
@@ -86,6 +88,7 @@
 | [Ma beauté](https://open.spotify.com/track/56ybIzUpbqWYdyzvcEggxo) | [Gambino](https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW) | [Ma beauté](https://open.spotify.com/album/5JtUYSVQrWBBbGobCt1lUb) | 2:59 | 2024-05-09 | 2024-06-01 |
 | [Ma bécane](https://open.spotify.com/track/7iQ14alT39CCTtiakqQe7L) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Depuis le temps \(Part\. 2\)](https://open.spotify.com/album/5liaAwKXqnLAhpBconEDR6) | 2:58 | 2024-06-20 | 2024-07-19 |
 | [MA DOUCE](https://open.spotify.com/track/3G9yB5mhAfdq3toymB5Pug) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [MA DOUCE](https://open.spotify.com/album/2ySxKt2YEOhxUcF0Iw5X1R) | 3:36 | 2024-02-22 | 2024-05-10 |
+| [Ma Life](https://open.spotify.com/track/7yIqiHZosw9LaQ2UHRjmuN) | [Dadi](https://open.spotify.com/artist/2YRHC9O0GHvyHY38yFP434), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [TPLM](https://open.spotify.com/album/32HEw0WO1on4Pe8Yx8uxac) | 2:32 | 2024-09-12 |  |
 | [MAMACITA](https://open.spotify.com/track/3qxnil0JyAWGS3vWxJyXEi) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [MAMACITA](https://open.spotify.com/album/4ZhmFglWYBzjI1hxNsjUPN) | 3:08 | 2024-07-04 | 2024-07-27 |
 | [MAMI WATA](https://open.spotify.com/track/6yqwxY8qifBBhyryjZutxk) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LA MELO EST GANGX](https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1) | 3:53 | 2024-02-15 |  |
 | [Maylin](https://open.spotify.com/track/1xUafVKc4f8jZYX4SM0pMs) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [Maylin](https://open.spotify.com/album/1HsirZCHLxa72qcUu5PWW0) | 2:54 | 2024-08-01 | 2024-09-06 |
@@ -172,7 +175,7 @@
 | [Vibes](https://open.spotify.com/track/5Ewrq10sWq0WYTSW6Br57l) | [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY) | [Vibes](https://open.spotify.com/album/6MHJuglMIWFJBIc9J0MWUG) | 2:14 | 2023-09-28 | 2024-05-24 |
 | [VIDA LOCA](https://open.spotify.com/track/3m4e1Cr5hTz4iF2bU9QTz6) | [Dinor rdt](https://open.spotify.com/artist/3RJNCnIkqvVwEicgGo2nqJ), [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd) | [VIDA LOCA](https://open.spotify.com/album/19SQT2btnkRb7De5XkfpLM) | 2:49 | 2023-09-28 | 2023-12-22 |
 | [VNTR](https://open.spotify.com/track/7C3F77AkLpgs2of59VGJYd) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [VNTR](https://open.spotify.com/album/2IZ78EPVEqj7f7KTiQ9hUV) | 3:38 | 2023-09-28 | 2024-01-19 |
-| [X\-ADV](https://open.spotify.com/track/6dOfnTgFvwBZvFTM6jju3n) | [Zkr](https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4) | [Mode Opératoire, vol\. 1](https://open.spotify.com/album/6NVuqjn7fSJtUukHKnQBAY) | 2:51 | 2024-08-08 |  |
+| [X\-ADV](https://open.spotify.com/track/6dOfnTgFvwBZvFTM6jju3n) | [Zkr](https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4) | [Mode Opératoire, vol\. 1](https://open.spotify.com/album/6NVuqjn7fSJtUukHKnQBAY) | 2:51 | 2024-08-08 | 2024-09-13 |
 | [Xavi Simons](https://open.spotify.com/track/2wXhGTBd3PcjKid4voF9Hg) | [GLK](https://open.spotify.com/artist/3dH7pcBScIJQboDyMzUzez) | [Xavi Simons](https://open.spotify.com/album/4ooljTllzL25meM9959c1g) | 2:23 | 2024-06-20 | 2024-07-19 |
 | [Y Dor](https://open.spotify.com/track/4m4MwgqsswdG67P8SsQEii) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Unleaded](https://open.spotify.com/artist/3zWMcT8MOIAnQMbGFmMFun), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Y Dor](https://open.spotify.com/album/5qfEAZy6hAgoH7uexHM8vR) | 2:25 | 2023-09-28 | 2024-01-26 |
 | [Yemma](https://open.spotify.com/track/3i9rNpToR25Cx5XdkStxn2) | [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q) | [Yemma](https://open.spotify.com/album/1kPducajpmz3HQOF9e8BoA) | 2:37 | 2023-12-14 | 2024-06-21 |
@@ -181,6 +184,6 @@
 | [Zéro Soucis](https://open.spotify.com/track/0eDyUBPdPjS5t2IapdVYim) | [Mkz](https://open.spotify.com/artist/738mFNWDY41RIA4TNT57Dp) | [Zéro Soucis](https://open.spotify.com/album/1ko9mdCInvVZpHv8yeuVUl) | 2:52 | 2023-09-28 | 2023-10-20 |
 | [Ça débite](https://open.spotify.com/track/7AYN9igONRrVZoONAshs14) | [DJ Flash](https://open.spotify.com/artist/00SMMqx16Zxt7osuqbv3aW), [SAF](https://open.spotify.com/artist/6Pr9pssRV0tD0jdh2Z84td) | [Ça débite](https://open.spotify.com/album/5W59ipjIbw7XLeO0Bj4k4c) | 2:23 | 2024-02-01 | 2024-04-12 |
 | [Ça traine la night](https://open.spotify.com/track/42JLHMdXdyTPFDAHGlzPcW) | [Sasso](https://open.spotify.com/artist/35B6bq5keTR1PYEahq1TAF) | [Ça traine la night](https://open.spotify.com/album/13qmUQzma7O1Zgr8G5lOI8) | 2:39 | 2024-06-13 |  |
-| [Ça va](https://open.spotify.com/track/0SR1xICPYYCFTAv88TyTi9) | [Kaneki](https://open.spotify.com/artist/6y9D9asiDbnfHSZETC6pkZ), [DJ SYT](https://open.spotify.com/artist/666wjebcUXtAhPErZc1b7l) | [Ça va](https://open.spotify.com/album/11mdnx1wuRaF9WeIADDU6X) | 2:49 | 2024-07-25 |  |
+| [Ça va](https://open.spotify.com/track/0SR1xICPYYCFTAv88TyTi9) | [Kaneki](https://open.spotify.com/artist/6y9D9asiDbnfHSZETC6pkZ), [DJ SYT](https://open.spotify.com/artist/666wjebcUXtAhPErZc1b7l) | [Ça va](https://open.spotify.com/album/11mdnx1wuRaF9WeIADDU6X) | 2:49 | 2024-07-25 | 2024-09-13 |
 
 \*This playlist was first scraped on 2023-09-29. Prior content cannot be recovered.

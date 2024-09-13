@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz\. Cover: Blue Lab Beats
 
-244 songs - 12 hr 37 min
+245 songs - 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Futuristic Earth](https://open.spotify.com/track/53crbk8yg8EblYm5WVtp9t) | [The Stance Brothers](https://open.spotify.com/artist/1AEh6OX55KCjPJX0Lzkjy1) | [Futuristic Earth](https://open.spotify.com/album/65B4vUhJSJ8ZqVpszxFJ2h) | 3:29 | 2023-10-13 | 2024-08-28 |
 | [Geshem Bejuni](https://open.spotify.com/track/5cNwyrLTHLRN983VHYm7DR) | [Soul Supreme](https://open.spotify.com/artist/3EIBaQfCxQvOXkNh4rywTy) | [Geshem Bejuni](https://open.spotify.com/album/0oM4ceLwHRcQox2J6rY0LP) | 3:07 | 2024-01-26 |  |
 | [Goldfoil](https://open.spotify.com/track/0SVgLGkpkGz8PI6fdQbMeO) | [lophiile](https://open.spotify.com/artist/5g5eVr2vAQnd12Q1XCJD7R) | [Goldfoil](https://open.spotify.com/album/7zOVyVUPJZXiE9vYAwoiuC) | 2:34 | 2023-08-25 |  |
+| [Good Things Happen](https://open.spotify.com/track/2GwRZI8nIoVFCAIsf3qaUu) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek), [Aaron Wood](https://open.spotify.com/artist/1ezDfTAgyNgHfoZNRaEEls) | [Good Things Happen](https://open.spotify.com/album/58xqkw3fRhOKsO9f7lDXtY) | 2:49 | 2024-09-06 |  |
 | [Half Drunk](https://open.spotify.com/track/09TZnkjjydQH8eTmbhYVAS) | [Sless Praismo](https://open.spotify.com/artist/2T7UwxWIrk7NjU3BDRjtrt), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Half Drunk](https://open.spotify.com/album/6k7AaUKAZ67FSDgThrteq0) | 2:14 | 2024-08-23 | 2024-08-28 |
 | [Haven \- An NPR Tiny Desk Concert](https://open.spotify.com/track/1cwoOEudM1r9nPtPIcZ6Hg) | [Svaneborg Kardyb](https://open.spotify.com/artist/2aGCFk3Mvhs9Am7JHwoyRr) | [Haven \- An NPR Tiny Desk Concert](https://open.spotify.com/album/3d18VTjVy0M7B5VBZg4TuY) | 4:10 | 2023-11-10 | 2024-08-31 |
 | [Hejdå Kalvsnäs](https://open.spotify.com/track/1w3sKSxr3tYfapEOijOMkp) | [Ivan Blomqvist](https://open.spotify.com/artist/2oUbOThqfFheldf9E8JXqm) | [Bror](https://open.spotify.com/album/6DWVse4ijyv7htxjpnGiU9) | 6:59 | 2023-08-22 |  |
@@ -122,7 +123,7 @@
 | [La Ligne Claire](https://open.spotify.com/track/3TTzfXXU5wkQAMJ4vlcmfj) | [Cosmic Analog Ensemble](https://open.spotify.com/artist/477PPCXcCS9mi3lRRnudCq) | [La Ligne Claire](https://open.spotify.com/album/3YCCIOLbIJTG6ZYQdVFv3h) | 2:42 | 2024-01-26 | 2024-08-27 |
 | [La Luz](https://open.spotify.com/track/2wPiI06tTvnHyeV2Hn370J) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Myríad](https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an) | [La Luz](https://open.spotify.com/album/1F064LtPXfOAstcUhdylwz) | 2:00 | 2024-08-23 |  |
 | [Lament](https://open.spotify.com/track/1RGNKh9SaJr6UNXiUe33UM) | [KaspaHauser](https://open.spotify.com/artist/2zIhBOpUm3gKL6MOcuc657) | [Blue Turn](https://open.spotify.com/album/1gfJzf9Hu6HKzlGtfbg4km) | 2:48 | 2023-10-13 | 2024-09-08 |
-| [Langeland Frukt & Tobakk](https://open.spotify.com/track/0s7UF7Hx8q9scbkcCDOLZT) | [Orions Belte](https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp), [Kim Åge Furuhaug](https://open.spotify.com/artist/6tdKhFUJ92J50MR4zsmGVu) | [Chris Holm · Øyvind Blomstrøm · Kim Åge Furuhaug](https://open.spotify.com/album/42JZYmmcsuoEXqf3FleBGo) | 5:40 | 2023-08-22 |  |
+| [Langeland Frukt & Tobakk](https://open.spotify.com/track/0s7UF7Hx8q9scbkcCDOLZT) | [Orions Belte](https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp), [Kim Åge Furuhaug](https://open.spotify.com/artist/6tdKhFUJ92J50MR4zsmGVu) | [Chris Holm · Øyvind Blomstrøm · Kim Åge Furuhaug](https://open.spotify.com/album/42JZYmmcsuoEXqf3FleBGo) | 5:40 | 2023-08-22 | 2024-09-13 |
 | [Le club](https://open.spotify.com/track/1ksWrHM0fbcNpBMaKGNnOS) | [The Offline](https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9) | [Le club](https://open.spotify.com/album/2z6MP9UZpaod9KNSKmKDOz) | 3:10 | 2023-08-22 |  |
 | [Le Lac \- FloFilz Reprise](https://open.spotify.com/track/0AsQKm30IMWGJYM0tnwIFS) | [Underground Canopy](https://open.spotify.com/artist/7k7AFLI13ChqpIlQGI1lJo), [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds), [Cidtronyck](https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS) | [Le Lac](https://open.spotify.com/album/1pdGiwyyYUdjCbioTmLpPu) | 2:14 | 2024-08-30 |  |
 | [Legacy](https://open.spotify.com/track/3vjocFB78Hp6WttnDBLwNw) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [h00t](https://open.spotify.com/artist/0HSpA668bhwiKDBvzqTcvX), [B\-Side](https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O) | [Legacy](https://open.spotify.com/album/34kmPC3t0B5zHY4WZhEZ2p) | 1:56 | 2024-08-23 |  |

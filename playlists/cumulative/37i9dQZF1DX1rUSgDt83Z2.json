@@ -410,7 +410,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 185476,
       "name": "Hurt Me",
       "url": "https://open.spotify.com/track/2rkf3F19As1KUykfS45TQv"
@@ -565,6 +565,24 @@
     },
     {
       "album": {
+        "name": "Los Van Angst",
+        "url": "https://open.spotify.com/album/5PizQPjxqmmDVn2m8w6Il0"
+      },
+      "artists": [
+        {
+          "name": "Ben Forte",
+          "url": "https://open.spotify.com/artist/0W1IlzwhrQJcdagiDZhrz7"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168833,
+      "name": "Los Van Angst",
+      "url": "https://open.spotify.com/track/3HYnt1qY5NWg6SIOxlw0gJ"
+    },
+    {
+      "album": {
         "name": "Louder",
         "url": "https://open.spotify.com/album/5sIGXhcUk3h0RyJVw0Mag3"
       },
@@ -580,6 +598,24 @@
       "duration_ms": 229697,
       "name": "Louder",
       "url": "https://open.spotify.com/track/1F3tkkKZrYFxQJ9d8EKePh"
+    },
+    {
+      "album": {
+        "name": "Love Song",
+        "url": "https://open.spotify.com/album/214tK7D0YvGWW2p7yJgtbP"
+      },
+      "artists": [
+        {
+          "name": "Boaz",
+          "url": "https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184369,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/3caukRr0UZRCvg2QCvbGeH"
     },
     {
       "album": {
@@ -796,7 +832,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 200735,
       "name": "Samen",
       "url": "https://open.spotify.com/track/1pwrVAT0Ks9gGCRwrdXaf6"
@@ -832,7 +868,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 184546,
       "name": "Say Goodbye",
       "url": "https://open.spotify.com/track/58h6HSRIKJeArYdGNUhKQJ"
@@ -876,6 +912,24 @@
       "duration_ms": 196968,
       "name": "Slaapwandelaar",
       "url": "https://open.spotify.com/track/47TXIa09GpZU1zSu9xc3p2"
+    },
+    {
+      "album": {
+        "name": "Slapeloos",
+        "url": "https://open.spotify.com/album/3rorul1v1uEObKiX6Zn3i4"
+      },
+      "artists": [
+        {
+          "name": "IOS",
+          "url": "https://open.spotify.com/artist/1xzcQymo5Ejd1PU8XYD0iv"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189396,
+      "name": "Slapeloos",
+      "url": "https://open.spotify.com/track/2RrgTyCnqDo2QNsRiJoy28"
     },
     {
       "album": {
@@ -926,7 +980,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 187832,
       "name": "Speed Of Light",
       "url": "https://open.spotify.com/track/42bzmBc47mF1HTOi8baDb5"
@@ -962,7 +1016,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 205520,
       "name": "Stukje Van Mij",
       "url": "https://open.spotify.com/track/3k9LdosLHcyy4kE5J6pV2p"
@@ -1248,6 +1302,42 @@
       "duration_ms": 188217,
       "name": "Zie Ik Jou Weer Morgen?",
       "url": "https://open.spotify.com/track/07iAKwRXb0yRWPK0cqasFZ"
+    },
+    {
+      "album": {
+        "name": "zij aan zij",
+        "url": "https://open.spotify.com/album/3Mjo5eqIC0FEcjlnTtcQc2"
+      },
+      "artists": [
+        {
+          "name": "Jooz",
+          "url": "https://open.spotify.com/artist/7hUtuXiN0XSFOjQO5OFEvY"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174117,
+      "name": "zij aan zij",
+      "url": "https://open.spotify.com/track/7j3gracBYr3MPEg3VLJ306"
+    },
+    {
+      "album": {
+        "name": "Zin In Het Leven",
+        "url": "https://open.spotify.com/album/4oLXbJ12gAFe9pHFliC2ON"
+      },
+      "artists": [
+        {
+          "name": "Simon Keizer",
+          "url": "https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205530,
+      "name": "Zin In Het Leven",
+      "url": "https://open.spotify.com/track/5dyLNO5s3BKjKYmHAj75VK"
     },
     {
       "album": {

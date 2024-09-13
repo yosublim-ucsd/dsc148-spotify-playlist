@@ -4,7 +4,7 @@
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-558 songs - 1 day 0 hr 26 min
+559 songs - 1 day 0 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -411,6 +411,7 @@
 | [Rushing From Me](https://open.spotify.com/track/1E7R3c2lHdlftcXcK4HnJL) | [Santorelli](https://open.spotify.com/artist/2W3PRQeJoFaEFaLZYiVrkR) | [Rushing From Me](https://open.spotify.com/album/4w1iRgykyDw8c433JRIgFs) | 2:48 | 2024-01-27 | 2024-06-01 |
 | [Safe & Sound](https://open.spotify.com/track/09W35ykeoYUXdlCkEFkqLq) | [Cale](https://open.spotify.com/artist/4pE5amRArtmThtna3eGERQ), [Janet Tung](https://open.spotify.com/artist/5GlnTa5AGHo9hhKuon69KB) | [Safe & Sound](https://open.spotify.com/album/7EO8uLByqZseYCWOZ0pZ0G) | 2:13 | 2023-09-22 | 2024-01-15 |
 | [Safe & Sound](https://open.spotify.com/track/3LCNPUM4TlQ7mNUjuwKyjd) | [Oceanside](https://open.spotify.com/artist/5QCwRUSPkHc6uD78wTCcXR), [ELIJAH](https://open.spotify.com/artist/3BKfCtHSgkQpLqX2n2191z) | [Safe & Sound](https://open.spotify.com/album/06bGpE5F7hsAHngJKIptAj) | 2:29 | 2024-06-09 |  |
+| [Saturday Night](https://open.spotify.com/track/5vvyZn01OanyjFXLuhrz5p) | [DALEXO](https://open.spotify.com/artist/5s4QJTzJRjMrqBDzPiif9l), [july](https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77) | [Saturday Night](https://open.spotify.com/album/0jh1gOwsVek6YoijDpG4gf) | 2:40 | 2024-09-12 |  |
 | [Save Me](https://open.spotify.com/track/3WuCtioRgRisEqZLS6hyy2) | [Dūne](https://open.spotify.com/artist/5TtvkENnGTgiOTO8gTbTmo) | [Save Me](https://open.spotify.com/album/5F6XZV6i7gTz4RuPNKGJ2N) | 2:14 | 2023-10-30 | 2024-05-13 |
 | [Save Tonight](https://open.spotify.com/track/2Jq6SVGQB0aIeTbIe9w1xT) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Save Tonight](https://open.spotify.com/album/1DoruW6kOIvECsIWt1Z3sr) | 2:25 | 2023-11-03 | 2024-06-19 |
 | [Say It Out Loud](https://open.spotify.com/track/3TeoPVvdkk5kB0qDhnq2Zd) | [Boeuv](https://open.spotify.com/artist/4DfrfLaX6lrjdKYOcN0LES), [Vowed](https://open.spotify.com/artist/75xXmkKj5zuv8qNlqP2VIY), [Rachel Morgan Perry](https://open.spotify.com/artist/1VpFjX7r5UVSrMXq0NPyr0) | [Say It Out Loud](https://open.spotify.com/album/3AFZwew6neHkGKRyo5yxxA) | 3:19 | 2024-04-12 | 2024-05-13 |

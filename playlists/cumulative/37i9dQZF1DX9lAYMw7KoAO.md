@@ -2,7 +2,7 @@
 
 ### [African Gospel Hits](https://open.spotify.com/playlist/37i9dQZF1DX9lAYMw7KoAO)
 
-> The Hottest Christian and Gospel music from across the African continent\.  Cover:  <a href="https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT?si=AyaCtbFCTqCzORmLvIzb5Q">Limoblaze</a>
+> The Hottest Christian and Gospel music from across the African continent\.  Cover:  <a href="https://open.spotify.com/artist/6E6bGyrGJM33jnVivvn3kH?si=73lpcNPWRm6asUag9RWULQ">Israel Mbonyi</a>
 
 428 songs - 1 day 13 hr 9 min
 

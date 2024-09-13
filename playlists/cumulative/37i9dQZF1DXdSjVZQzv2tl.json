@@ -121,6 +121,24 @@
     },
     {
       "album": {
+        "name": "Embaixador Ac\u00fastico - Ao Vivo",
+        "url": "https://open.spotify.com/album/029GTh65lJarTNkssUybLW"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201557,
+      "name": "A Noite (La Notte) - Ao Vivo",
+      "url": "https://open.spotify.com/track/2lhTndwmmoMqMq8SSDfwbU"
+    },
+    {
+      "album": {
         "name": "LUAN CITY AVENIDA AMARILDO SANTANA (Ao Vivo)",
         "url": "https://open.spotify.com/album/5kzhYibysBoVBzdWtFsGxF"
       },
@@ -3123,7 +3141,7 @@
     },
     {
       "album": {
-        "name": "Nem a Pau (feat. Simone Mendes) [Ao Vivo]",
+        "name": "Nem a Pau (feat. Simone Mendes) - Ao Vivo",
         "url": "https://open.spotify.com/album/2YD9sBbLCikn0C7ZHLZmjm"
       },
       "artists": [
@@ -4208,7 +4226,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 149429,
       "name": "Sofrimento L\u00edquido - Ao Vivo",
       "url": "https://open.spotify.com/track/4lFhk7Z4wzNqjhJ3ln6AbN"

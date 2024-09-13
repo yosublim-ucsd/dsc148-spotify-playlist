@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 不破湊
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,355 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,349 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 28 | [レゾンデートル](https://open.spotify.com/track/48UvWzoGORRZOuBTtwpIwd) | [灯橙あか](https://open.spotify.com/artist/72uhjxADWYdvxljl2I4jaN) | [レゾンデートル](https://open.spotify.com/album/1LJHxYyaywq0WgZy8g5MtC) | 3:59 |
 | 29 | [Twin Ray](https://open.spotify.com/track/3xk9S6sFdLr2rbdjVaiTfD) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [悪夢のような1週間](https://open.spotify.com/album/0LnARpfUs0NQ94beJ9jAC9) | 3:09 |
 | 30 | [ストーリー \- Remix Version](https://open.spotify.com/track/7uCEN8Dn3wqTAqpBLvekGG) | [スカート](https://open.spotify.com/artist/1rOnNKoQhifOY4rIH4wMtk), [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye) | [Extended Vol.1](https://open.spotify.com/album/4czXp8EeAmeeJtyZPUI93L) | 5:51 |
-| 31 | [ハイブランド \- Remix](https://open.spotify.com/track/1lnbexE94QuadJOo7BMMLe) | [SKRYU](https://open.spotify.com/artist/3YI0IfapXX8M8W3zwzmcbM), [サーヤ](https://open.spotify.com/artist/64yrcDXOdsF87OGnqeXJwZ) | [Element](https://open.spotify.com/album/4RoVtlOwlc8Hbdao669dD8) | 2:53 |
+| 31 | [ハイブランド \- Remix](https://open.spotify.com/track/1lnbexE94QuadJOo7BMMLe) | [SKRYU](https://open.spotify.com/artist/3YI0IfapXX8M8W3zwzmcbM), [サーヤ](https://open.spotify.com/artist/3oVORymq7ZxbdxMnGggffw) | [Element](https://open.spotify.com/album/4RoVtlOwlc8Hbdao669dD8) | 2:53 |
 | 32 | [Weekend Dance](https://open.spotify.com/track/1hyQbVBRvsj2adG9QF20Xr) | [HiiT FACTORY](https://open.spotify.com/artist/79VrjqPueHVfdoI6zJxhlo) | [NOVA](https://open.spotify.com/album/0onUjuuEUCOpc5mFwQKzhs) | 4:53 |
 | 33 | [断捨離](https://open.spotify.com/track/4UTeaHWKXHVzCEo1umGISP) | [ASOBOiSM](https://open.spotify.com/artist/5DdX6WAZixq5ZN5eGg068D), [サーヤ](https://open.spotify.com/artist/3oVORymq7ZxbdxMnGggffw) | [断捨離](https://open.spotify.com/album/38me7n6WhqQ2WpriCLNU5k) | 3:04 |
 | 34 | [交差点](https://open.spotify.com/track/6ST0BbttHl57erq1F46Yem) | [VaVa](https://open.spotify.com/artist/5JlRv2tBZk1f4c7UULHkUY), [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT), [髙比良くるま](https://open.spotify.com/artist/4LX129bbBeg1orJRdZsJwd) | [交差点](https://open.spotify.com/album/7sfiy6psryJg5PlcSnImTX) | 2:42 |

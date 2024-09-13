@@ -1,6 +1,6 @@
 {
   "description": "Himnos de Resistencia: Somos un pueblo fuerte que no se calla.",
-  "num_followers": 197706,
+  "num_followers": 197762,
   "original_name": "Himnos de Resistencia Latinoamericana",
   "owner": {
     "name": "Spotify",
@@ -479,6 +479,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "Viva Italia",
+        "url": "https://open.spotify.com/album/1g5vHoa3aMWXbVIlfhn7mb"
+      },
+      "artists": [
+        {
+          "name": "Inti-Illimani",
+          "url": "https://open.spotify.com/artist/4cCVNFShP38zaKGuo8QSMN"
+        }
+      ],
+      "duration_ms": 292040,
+      "name": "El Pueblo Unido Jam\u00e1s Ser\u00e1 Vencido",
+      "url": "https://open.spotify.com/track/1hcVUv737WNoY1d9BRZpyQ"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos), Vol. 2",
         "url": "https://open.spotify.com/album/7JbbUP152jaRbhQ7CJ1DOy"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 348840,
       "name": "Derecho de Nacimiento (feat. Los Macorinos)",
       "url": "https://open.spotify.com/track/5XkqOjBws8qpEkBW7X5Ppy"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Viva Italia",
-        "url": "https://open.spotify.com/album/1g5vHoa3aMWXbVIlfhn7mb"
-      },
-      "artists": [
-        {
-          "name": "Inti-Illimani",
-          "url": "https://open.spotify.com/artist/4cCVNFShP38zaKGuo8QSMN"
-        }
-      ],
-      "duration_ms": 292040,
-      "name": "El Pueblo Unido Jam\u00e1s Ser\u00e1 Vencido",
-      "url": "https://open.spotify.com/track/1hcVUv737WNoY1d9BRZpyQ"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Sin Fronteras",
-        "url": "https://open.spotify.com/album/4mAVKOe8vgXZf8Yyzfetqz"
-      },
-      "artists": [
-        {
-          "name": "Sergent Garcia",
-          "url": "https://open.spotify.com/artist/6FaSJ1FXpb5QxKu77LPiZr"
-        }
-      ],
-      "duration_ms": 456933,
-      "name": "Los desaparecidos",
-      "url": "https://open.spotify.com/track/5kRPQMhi3LaYuDVy4DPi3b"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "La Nueva Cancion Chilena, Vol. 1",
         "url": "https://open.spotify.com/album/6lXAQ5Gozo845iSrcQEvfI"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 279333,
       "name": "La Muralla",
       "url": "https://open.spotify.com/track/7xTdDHBepVRqP9BqobHI75"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Sin Fronteras",
+        "url": "https://open.spotify.com/album/4mAVKOe8vgXZf8Yyzfetqz"
+      },
+      "artists": [
+        {
+          "name": "Sergent Garcia",
+          "url": "https://open.spotify.com/artist/6FaSJ1FXpb5QxKu77LPiZr"
+        }
+      ],
+      "duration_ms": 456933,
+      "name": "Los desaparecidos",
+      "url": "https://open.spotify.com/track/5kRPQMhi3LaYuDVy4DPi3b"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Mostros",
-        "url": "https://open.spotify.com/album/4gcc4CQKB7Dttr8bMkhhjA"
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/0y9Oz2HQSp0zUEcHN0TguN"
       },
       "artists": [
         {
-          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
-          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
+          "name": "Quilapay\u00fan",
+          "url": "https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup"
         }
       ],
-      "duration_ms": 191306,
-      "name": "2 de Octubre",
-      "url": "https://open.spotify.com/track/66FI8Hc54T8r83QH8vD1LC"
+      "duration_ms": 193933,
+      "name": "Plegaria A Un Labrador",
+      "url": "https://open.spotify.com/track/6RrcBK5hXE6q11tkjbdQ4Z"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "Mostros",
+        "url": "https://open.spotify.com/album/4gcc4CQKB7Dttr8bMkhhjA"
+      },
+      "artists": [
+        {
+          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
+          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
+        }
+      ],
+      "duration_ms": 191306,
+      "name": "2 de Octubre",
+      "url": "https://open.spotify.com/track/66FI8Hc54T8r83QH8vD1LC"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "Hurbanistorias",
         "url": "https://open.spotify.com/album/1o8wNJhnLL493SfrM5McrY"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 256306,
       "name": "Balada Del Asalariado",
       "url": "https://open.spotify.com/track/4DTyt4bAO9MTLeef7ARbvj"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "20 Grandes Exitos",
-        "url": "https://open.spotify.com/album/0y9Oz2HQSp0zUEcHN0TguN"
-      },
-      "artists": [
-        {
-          "name": "Quilapay\u00fan",
-          "url": "https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup"
-        }
-      ],
-      "duration_ms": 193933,
-      "name": "Plegaria A Un Labrador",
-      "url": "https://open.spotify.com/track/6RrcBK5hXE6q11tkjbdQ4Z"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1447,6 +1447,30 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "De Vuelta a Casa: Ayotzinapa Somos Todxs",
+        "url": "https://open.spotify.com/album/3qx8RpeMgbrukkOSRwoLPx"
+      },
+      "artists": [
+        {
+          "name": "Belafonte Sensacional",
+          "url": "https://open.spotify.com/artist/6GzJDY171oHEEUgvoais06"
+        },
+        {
+          "name": "Paulina Lasa",
+          "url": "https://open.spotify.com/artist/1FGlGdkJCdp7XbeZfnigMo"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "duration_ms": 182439,
+      "name": "Verte Regresar",
+      "url": "https://open.spotify.com/track/1Bkjsd1xAsXd2aUcfgSAns"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "Somos Hermanas",
         "url": "https://open.spotify.com/album/5jwDeAqliI9J5t7KXDInjK"
       },
@@ -1459,26 +1483,6 @@
       "duration_ms": 230877,
       "name": "Somos Hermanas",
       "url": "https://open.spotify.com/track/41THofGqCI97EnFDlPr7uZ"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Su Madre Patria",
-        "url": "https://open.spotify.com/album/3BlhpwuACPUsR8xSLO8DwW"
-      },
-      "artists": [
-        {
-          "name": "Edson Velandia",
-          "url": "https://open.spotify.com/artist/3ljnYB3ODjEMEJgdHUPMPi"
-        },
-        {
-          "name": "Adriana Lizcano",
-          "url": "https://open.spotify.com/artist/2vITZovJRCRAywLXzKqEje"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "Su Madre Patria",
-      "url": "https://open.spotify.com/track/644qoF650m6xvB8PHPSz1q"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1503,26 +1507,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "De Vuelta a Casa: Ayotzinapa Somos Todxs",
-        "url": "https://open.spotify.com/album/3qx8RpeMgbrukkOSRwoLPx"
+        "name": "Su Madre Patria",
+        "url": "https://open.spotify.com/album/3BlhpwuACPUsR8xSLO8DwW"
       },
       "artists": [
         {
-          "name": "Belafonte Sensacional",
-          "url": "https://open.spotify.com/artist/6GzJDY171oHEEUgvoais06"
+          "name": "Edson Velandia",
+          "url": "https://open.spotify.com/artist/3ljnYB3ODjEMEJgdHUPMPi"
         },
         {
-          "name": "Paulina Lasa",
-          "url": "https://open.spotify.com/artist/1FGlGdkJCdp7XbeZfnigMo"
-        },
-        {
-          "name": "Various Artists",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          "name": "Adriana Lizcano",
+          "url": "https://open.spotify.com/artist/2vITZovJRCRAywLXzKqEje"
         }
       ],
-      "duration_ms": 182439,
-      "name": "Verte Regresar",
-      "url": "https://open.spotify.com/track/1Bkjsd1xAsXd2aUcfgSAns"
+      "duration_ms": 136000,
+      "name": "Su Madre Patria",
+      "url": "https://open.spotify.com/track/644qoF650m6xvB8PHPSz1q"
     },
     {
       "added_at": "2024-05-10 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Gabriela Rocha
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,435 likes - 47 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,505 likes - 47 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 27 | [Tua Presença](https://open.spotify.com/track/5GjIlSfPlNKBmMZr9mdZWG) | [Tutuzin](https://open.spotify.com/artist/3SaccMFDUNE7d14h7MoWDN) | [Tua Presença](https://open.spotify.com/album/2SHFa2ACXDqWly4CI2he13) | 1:57 |
 | 28 | [Por Onde Eu For](https://open.spotify.com/track/1OoAPYYzUgIt1kJUeh1B0v) | [Ministério F4ces](https://open.spotify.com/artist/7327G3ak6m2PK6Lbu9S5wS) | [Por Onde Eu For](https://open.spotify.com/album/5eE0LvWjIoKYM6bycmdOFL) | 3:38 |
 | 29 | [Curado a Seco \- Ao Vivo](https://open.spotify.com/track/7bGswSxkrDS2ZWSbC7lya7) | [Vanilda Bordieri](https://open.spotify.com/artist/01F5yl9fFsa9QQaM3Z6U3O) | [Curado a Seco \- Ao Vivo](https://open.spotify.com/album/4OemZ165dPIMKMT92G1Qng) | 5:07 |
-| 30 | [Salmos 113](https://open.spotify.com/track/3R4li8HreiKbZC4ztcySQ8) | [MC Jamil](https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc) | [Salmos 113](https://open.spotify.com/album/3bzmo48p1wOToGkgh7mFKl) | 2:11 |
+| 30 | [Salmos 113](https://open.spotify.com/track/3R4li8HreiKbZC4ztcySQ8) | [Mc Jamil](https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc) | [Salmos 113](https://open.spotify.com/album/3bzmo48p1wOToGkgh7mFKl) | 2:11 |
 | 31 | [Digno É O Cordeiro • BRAVE Night \- Ao Vivo](https://open.spotify.com/track/5LVhsXEMFeYNzgo6KWUB3z) | [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h), [Hananiel Eduardo](https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM), [Juliana Kontopp](https://open.spotify.com/artist/4wI3Jgf2m5qf5Zb76UzP0J) | [Digno É O Cordeiro • BRAVE Night \(Ao Vivo\)](https://open.spotify.com/album/6POG9vscV9bFOsyGNRIQCW) | 9:51 |
 | 32 | [Vou Cicatrizar](https://open.spotify.com/track/2CUMfQHGTTj3nqcRElORu4) | [Giovanna Carneiro](https://open.spotify.com/artist/5e27uFpgsSwhEoVAVWHRVZ), [Ventania](https://open.spotify.com/artist/4ZgHby6oTRKwiGbf38dPs1) | [Vou Cicatrizar](https://open.spotify.com/album/5lVzgsJss6a5eo8uoNU51i) | 4:37 |
 | 33 | [Somos Livres \(One ao Vivo\)](https://open.spotify.com/track/3nc9T3LVsyJDv121zCBGEq) | [AtituD](https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p), [Filipe Lancaster](https://open.spotify.com/artist/5ue1WcGZ9D5B9FcmBe7Juw), [Ministério Mergulhar](https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf) | [Somos Livres \(One ao Vivo\)](https://open.spotify.com/album/6uU2YQWL0YjBIRAaH1vD1f) | 3:34 |

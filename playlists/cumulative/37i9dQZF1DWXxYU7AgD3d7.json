@@ -1959,6 +1959,36 @@
     },
     {
       "album": {
+        "name": "TAKA (Caribou Remix)",
+        "url": "https://open.spotify.com/album/7Ez3fr9wboQAP5XDFKrDC5"
+      },
+      "artists": [
+        {
+          "name": "Ahadadream",
+          "url": "https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW"
+        },
+        {
+          "name": "Priya Ragu",
+          "url": "https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237379,
+      "name": "TAKA - Caribou Remix",
+      "url": "https://open.spotify.com/track/5vo0Cu8muNor0U1UM3AHVS"
+    },
+    {
+      "album": {
         "name": "The Answer",
         "url": "https://open.spotify.com/album/7Gs1tiTXsvcplzn15xDkKF"
       },

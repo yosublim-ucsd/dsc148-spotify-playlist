@@ -1,15 +1,15 @@
 {
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/4oPFwE7aF2p4FfqMByg3k8\">Em Walcott</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
-  "num_followers": 91,
+  "num_followers": 93,
   "original_name": "Written By Em Walcott",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Abb46gAAAABtCuKCPg5P0LFyNfFt3v9l",
+  "snapshot_id": "Abb+qAAAAACOC5qV0VwtFggd1pQayf0Y",
   "tracks": [
     {
-      "added_at": "2024-09-11 02:50:09",
+      "added_at": "2024-09-12 03:20:15",
       "album": {
         "name": "The Age of Pleasure",
         "url": "https://open.spotify.com/album/76yGR9gMIP6BdHuWsb7Iun"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/7C4aRmcAQuNGuFyTvmETii"
     },
     {
-      "added_at": "2024-09-11 02:50:09",
+      "added_at": "2024-09-12 03:20:15",
       "album": {
         "name": "Versions of Me (Deluxe)",
         "url": "https://open.spotify.com/album/7mJHNN7NNnPBofreezMbef"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/43eP7iHiKryjETMTDJJYfY"
     },
     {
-      "added_at": "2024-09-11 02:50:09",
+      "added_at": "2024-09-12 03:20:15",
       "album": {
         "name": "The Age of Pleasure",
         "url": "https://open.spotify.com/album/76yGR9gMIP6BdHuWsb7Iun"
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/0aixSIaFcj3Ba0VDACOV62"
     },
     {
-      "added_at": "2024-09-11 02:50:09",
+      "added_at": "2024-09-12 03:20:15",
       "album": {
         "name": "Santa Baby",
         "url": "https://open.spotify.com/album/5ichhxPbZc7s1azvGRrNsO"
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/05DCz0eIhcGAb6YpNiwdbv"
     },
     {
-      "added_at": "2024-09-11 02:50:09",
+      "added_at": "2024-09-12 03:20:15",
       "album": {
         "name": "That Guy",
         "url": "https://open.spotify.com/album/2DN4X7AWNR01Ih7vU7Eo3z"
@@ -97,7 +97,7 @@
       "url": "https://open.spotify.com/track/2JFsVWuXOID7IQhGh1IK8f"
     },
     {
-      "added_at": "2024-09-11 02:50:09",
+      "added_at": "2024-09-12 03:20:15",
       "album": {
         "name": "Bad Thing",
         "url": "https://open.spotify.com/album/0QY0A6aKhw0f2D1RfpCYk7"
@@ -113,7 +113,7 @@
       "url": "https://open.spotify.com/track/4iQz6o1dEA3dZY81d3DiJm"
     },
     {
-      "added_at": "2024-09-11 02:50:09",
+      "added_at": "2024-09-12 03:20:15",
       "album": {
         "name": "HARD",
         "url": "https://open.spotify.com/album/3b1SWPjpkf4jEDtnNQdfu4"
@@ -129,7 +129,27 @@
       "url": "https://open.spotify.com/track/7MGEno7KAP4QgcBMGZzusR"
     },
     {
-      "added_at": "2024-09-11 02:50:09",
+      "added_at": "2024-09-12 03:20:15",
+      "album": {
+        "name": "CLOUD 9",
+        "url": "https://open.spotify.com/album/0KyciVZWjNOZkzvFpnHqb5"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        },
+        {
+          "name": "Levent Geiger",
+          "url": "https://open.spotify.com/artist/7JSBgXyCDzX24iZCHJofIG"
+        }
+      ],
+      "duration_ms": 142213,
+      "name": "CLOUD 9",
+      "url": "https://open.spotify.com/track/1EV5az9KISodiYS8CmfRY0"
+    },
+    {
+      "added_at": "2024-09-12 03:20:15",
       "album": {
         "name": "My Man",
         "url": "https://open.spotify.com/album/6WVs3cfYvBdZVRYqZjfNmg"
@@ -145,10 +165,10 @@
       "url": "https://open.spotify.com/track/4tK0GeX97WbX4jgf1EIGOL"
     },
     {
-      "added_at": "2024-09-11 02:50:09",
+      "added_at": "2024-09-12 03:20:15",
       "album": {
         "name": "Downtown",
-        "url": "https://open.spotify.com/album/1QRMi6OGmvL3PR7uctgSa7"
+        "url": "https://open.spotify.com/album/3PCZx0TcwxK6iT409tDUn8"
       },
       "artists": [
         {
@@ -158,10 +178,10 @@
       ],
       "duration_ms": 131918,
       "name": "Downtown",
-      "url": "https://open.spotify.com/track/1agzjKir1PVW91rkCbiXks"
+      "url": "https://open.spotify.com/track/1FkXVtAp8pkRwJC5dDluGS"
     },
     {
-      "added_at": "2024-09-11 02:50:09",
+      "added_at": "2024-09-12 03:20:15",
       "album": {
         "name": "Broken Healing",
         "url": "https://open.spotify.com/album/7v4EOQybwO4NYQCWNzVoyD"
@@ -177,7 +197,7 @@
       "url": "https://open.spotify.com/track/2Ro5XPGnWXQz2MdL0ZRthK"
     },
     {
-      "added_at": "2024-09-11 02:50:09",
+      "added_at": "2024-09-12 03:20:15",
       "album": {
         "name": "Revel",
         "url": "https://open.spotify.com/album/6T2vXhcPF7ZFxJl5rSlelZ"
@@ -193,7 +213,7 @@
       "url": "https://open.spotify.com/track/1zl0VGUES7bvE9mha2L2K2"
     },
     {
-      "added_at": "2024-09-11 02:50:09",
+      "added_at": "2024-09-12 03:20:15",
       "album": {
         "name": "Your Move",
         "url": "https://open.spotify.com/album/2hWRXUEJ7Fj3K3Dj4BOSoS"
@@ -209,7 +229,7 @@
       "url": "https://open.spotify.com/track/6HNTfx84zrNwNWcxgLFfnn"
     },
     {
-      "added_at": "2024-09-11 02:50:09",
+      "added_at": "2024-09-12 03:20:15",
       "album": {
         "name": "No Hard Feelings",
         "url": "https://open.spotify.com/album/2RSNvfNgodiGerFWq3ETci"
@@ -225,7 +245,7 @@
       "url": "https://open.spotify.com/track/0MnN06Sz5ImI6yL0TLMB0n"
     },
     {
-      "added_at": "2024-09-11 02:50:09",
+      "added_at": "2024-09-12 03:20:15",
       "album": {
         "name": "RAT",
         "url": "https://open.spotify.com/album/60gp59djqb5KOfCxWytU7o"
@@ -241,7 +261,7 @@
       "url": "https://open.spotify.com/track/1U2WEn5UmD3si27l6XO5WI"
     },
     {
-      "added_at": "2024-09-11 02:50:09",
+      "added_at": "2024-09-12 03:20:15",
       "album": {
         "name": "Many Moons, Many Suns",
         "url": "https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7"
@@ -257,7 +277,7 @@
       "url": "https://open.spotify.com/track/0yu2qeSEuZLaLX66VZtF5T"
     },
     {
-      "added_at": "2024-09-11 02:50:09",
+      "added_at": "2024-09-12 03:20:15",
       "album": {
         "name": "ENTRE NOUS",
         "url": "https://open.spotify.com/album/69yCwirEtVkNaqBzviiLQc"
@@ -273,7 +293,7 @@
       "url": "https://open.spotify.com/track/5tmk7NK4zkVrqj9FGtrYqI"
     },
     {
-      "added_at": "2024-09-11 02:50:09",
+      "added_at": "2024-09-12 03:20:15",
       "album": {
         "name": "Many Moons, Many Suns",
         "url": "https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7"
@@ -289,7 +309,7 @@
       "url": "https://open.spotify.com/track/7Ct8rxhUnBUfSSWxb0X7em"
     },
     {
-      "added_at": "2024-09-11 02:50:09",
+      "added_at": "2024-09-12 03:20:15",
       "album": {
         "name": "Alright",
         "url": "https://open.spotify.com/album/7f4I2kZbkzPtxDdi3qX30S"
@@ -309,7 +329,7 @@
       "url": "https://open.spotify.com/track/2OOx9fgzwR1A7mJuldIWvO"
     },
     {
-      "added_at": "2024-09-11 02:50:09",
+      "added_at": "2024-09-12 03:20:15",
       "album": {
         "name": "Self Portrait",
         "url": "https://open.spotify.com/album/3anhy2RLYZnslzRhyjy0Ep"
@@ -329,7 +349,7 @@
       "url": "https://open.spotify.com/track/4RVcEWtAcGr5TwbAk5oQhH"
     },
     {
-      "added_at": "2024-09-11 02:50:09",
+      "added_at": "2024-09-12 03:20:15",
       "album": {
         "name": "Many Moons, Many Suns",
         "url": "https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7"
@@ -345,7 +365,7 @@
       "url": "https://open.spotify.com/track/7MC6izvYsq545k7jDsYTOO"
     },
     {
-      "added_at": "2024-09-11 02:50:09",
+      "added_at": "2024-09-12 03:20:15",
       "album": {
         "name": "Waterfall",
         "url": "https://open.spotify.com/album/62QpeoF9Go7z0aG334JjcA"
@@ -361,7 +381,7 @@
       "url": "https://open.spotify.com/track/5XsNOHjFwJ3d0AYWLX69nr"
     },
     {
-      "added_at": "2024-09-11 02:50:09",
+      "added_at": "2024-09-12 03:20:15",
       "album": {
         "name": "Good Burger 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7bJbc9Qnr5z8OBPGwSc88q"
@@ -381,7 +401,7 @@
       "url": "https://open.spotify.com/track/2ZCxvRA0YuI1Y7a0UOTRcX"
     },
     {
-      "added_at": "2024-09-11 02:50:09",
+      "added_at": "2024-09-12 03:20:15",
       "album": {
         "name": "Self Portrait",
         "url": "https://open.spotify.com/album/3anhy2RLYZnslzRhyjy0Ep"
@@ -401,7 +421,7 @@
       "url": "https://open.spotify.com/track/3bi38Ij1hlTBjp62XipZr6"
     },
     {
-      "added_at": "2024-09-11 02:50:09",
+      "added_at": "2024-09-12 03:20:15",
       "album": {
         "name": "Self Portrait",
         "url": "https://open.spotify.com/album/3anhy2RLYZnslzRhyjy0Ep"

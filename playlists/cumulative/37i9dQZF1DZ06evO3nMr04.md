@@ -2,7 +2,7 @@
 
 ### [This Is Kanye West](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3nMr04)
 
-> This is Kanye West\. Các bản nhạc bạn nên nghe, tất cả trong một danh sách phát.
+> This Is Kanye West\. Los temas esenciales, todos en una lista.
 
 112 songs - 6 hr 46 min
 

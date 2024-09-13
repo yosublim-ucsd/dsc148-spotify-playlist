@@ -2,9 +2,9 @@
 
 ### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> Il meglio dell'R&B italiano\. Cover: Cristina Lizzul
+> Il meglio dell'R&B italiano\. Cover: NIMSAY
 
-637 songs - 1 day 7 hr 40 min
+640 songs - 1 day 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Bruciami](https://open.spotify.com/track/3FdKyrHYU1MQVoKhyaPuVH) | [PABA](https://open.spotify.com/artist/1FXgKZygyeJ7sgiBygQ6gP) | [Bruciami](https://open.spotify.com/album/0dHoTlUchft7epHmdGdQsm) | 2:41 | 2023-06-22 | 2023-07-21 |
 | [Buio \(al sicuro\)](https://open.spotify.com/track/4l0x8auMApmHiMNyNBNVFr) | [Filippo Cattaneo Ponzoni](https://open.spotify.com/artist/7LPEM878eDKFvrV5JejDXr), [Maëlys](https://open.spotify.com/artist/4fuZBTq8KLPsKbYPQl0bZZ) | [Buio \(al sicuro\)](https://open.spotify.com/album/5e0vV5aXeDX55cMrwSXoA5) | 2:12 | 2024-01-18 | 2024-03-21 |
 | [bye](https://open.spotify.com/track/73vaEVHisIS9lPpMWRH5HF) | [The 24 Project](https://open.spotify.com/artist/6ASG7r5gSsBTNJcXtsUOft), [Angela Iris](https://open.spotify.com/artist/7o1XRDbnk24xbZOvVNbn1C) | [bye](https://open.spotify.com/album/3daw0XQDmosXPgbeUIQMh2) | 2:47 | 2023-01-19 | 2023-03-10 |
+| [C'AMMISCAMM ANCORA](https://open.spotify.com/track/4li77JVuCpb2Ggp2m6GBKK) | [VISCARDI](https://open.spotify.com/artist/22dHXO4PwHpTyzfsVCWKlX), [Giada De Prisco](https://open.spotify.com/artist/4FnGClu85ET5xFRwfvePxI) | [C'AMMISCAMM ANCORA](https://open.spotify.com/album/2LjYdhVS7Ho0e2kxb3hQmW) | 2:22 | 2024-09-12 |  |
 | [C'est La Vie](https://open.spotify.com/track/1Unwmq4hYPKCgoOSHSmc8S) | [KIM](https://open.spotify.com/artist/3AMuZJ85HywqN42C3Mc2LL) | [C'est La Vie](https://open.spotify.com/album/76wXnnoIAnR40YQH88e3rR) | 1:30 | 2022-08-05 | 2022-10-14 |
 | [Caffè](https://open.spotify.com/track/5uxfD54NLzsy1AP4ulHEzJ) | [gheb.](https://open.spotify.com/artist/3wv8iLsyRJdqSHBuEURVg6) | [Coffee Break](https://open.spotify.com/album/4BiH3apnfeox0bwYYSSwNA) | 3:25 | 2022-05-05 | 2022-05-27 |
 | [Calibro \(feat\. Pitta\)](https://open.spotify.com/track/2M3fqyXX32HvADmoMfsV8s) | [Joshua](https://open.spotify.com/artist/5MmLJMV7gqiV3RgmqTgAKO), [Pitta](https://open.spotify.com/artist/33KV7opyVMdhw1rHHckMDT) | [Calibro \(feat\. Pitta\)](https://open.spotify.com/album/6SQ02rkmfnqUYSoC9EAUHu) | 2:39 | 2023-02-23 | 2023-04-28 |
@@ -226,6 +227,7 @@
 | [Ghosted](https://open.spotify.com/track/7zmpAz5fdaF2HQFm8OqxUn) | [Isabel Mohr](https://open.spotify.com/artist/54DVheLZCzfAMIu5SAoUc2) | [Ghosted](https://open.spotify.com/album/2G5n7ncP61pKLJeaZttcIg) | 3:12 | 2023-01-19 | 2023-03-10 |
 | [Giorni che esplodono](https://open.spotify.com/track/7KoU2DLPJXnKNIu3ikzgIR) | [Mangrovia Twang](https://open.spotify.com/artist/7rLOdLmfwrFQnKitstFDeg), [Lauryyn](https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4) | [Giorni che esplodono](https://open.spotify.com/album/6SVSdsb4X0w73ZnMqQGRHx) | 3:04 | 2022-05-12 | 2022-10-28 |
 | [Giorno libero](https://open.spotify.com/track/5FwJ5dvTZ2JVxDV6qlofv7) | [Delicatoni](https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq) | [Giorno libero](https://open.spotify.com/album/1T91IU4oG4jewoYT6khMlU) | 3:27 | 2023-03-30 | 2024-06-21 |
+| [Giostre](https://open.spotify.com/track/13Ig49AeCaLKKSX00S1spC) | [Big Dave](https://open.spotify.com/artist/7mJ5wRuabjjgBefTAQ1mST), [Giordano Dan](https://open.spotify.com/artist/63Gyhf9hKGOAp5HhEqhyqk) | [Giostre](https://open.spotify.com/album/5DcKRnwoaptKHGlpeBlnOp) | 3:34 | 2024-09-12 |  |
 | [Giovani](https://open.spotify.com/track/4r5AWNZpuNmAqMxFZ2cLCM) | [LocoLab](https://open.spotify.com/artist/0Z0q0SK9yVrufu1rAY3iOw), [G\-laspada](https://open.spotify.com/artist/73RmVTPm4JCwKXXZz2V7yW), [Il III](https://open.spotify.com/artist/4gOxU8ykTDVpC7ErTI1Cv3) | [Giovani](https://open.spotify.com/album/5VSPR5wdl2yxoszGQaTaO5) | 3:20 | 2022-09-08 | 2022-10-14 |
 | [Goccia goccia](https://open.spotify.com/track/031szRldfCkNk6QR83QG1s) | [Nico Arezzo](https://open.spotify.com/artist/58NJMW79swpy2lbC6BM35V) | [Goccia goccia](https://open.spotify.com/album/3cWxT57YUyi84lqR3oQzOZ) | 3:35 | 2024-04-12 | 2024-04-16 |
 | [God Is Good](https://open.spotify.com/track/0KSMnvQjXjimr0eBa1zzOL) | [Martino](https://open.spotify.com/artist/39zUfhpni3F1uedNxjSIt2) | [God Is Good](https://open.spotify.com/album/0QMymvAm1kRZ1t9bOTvqqO) | 2:28 | 2023-11-30 | 2024-02-02 |
@@ -415,6 +417,7 @@
 | [Offline](https://open.spotify.com/track/7yxDBNu6S9WmylPqJ4bmgX) | [Jay Evans](https://open.spotify.com/artist/1FZWQL1YKwcwBvygAA3YOy) | [Offline](https://open.spotify.com/album/6u8waWibngGHilXlYfsQMC) | 2:03 | 2024-06-27 |  |
 | [Oi Nì](https://open.spotify.com/track/4dXuDQTfZqNZFnMQJQT1rq) | [Livio Cori](https://open.spotify.com/artist/67ZKaYOA7fXtnWve33FcSX), [Jack Langellotti](https://open.spotify.com/artist/5zwprFEgkf4geLBHbIXQXK) | [Oi Nì](https://open.spotify.com/album/7MJlfrfLxP6UI6q53PUaJv) | 2:36 | 2023-12-14 | 2024-01-19 |
 | [OLTRELUNA](https://open.spotify.com/track/4dPau6Be8rtUrefrl1zxbZ) | [Moyre](https://open.spotify.com/artist/0wVBHCMQ4kVTRrhHF7c8cM), [passatempi](https://open.spotify.com/artist/4TWr8W0D5Sgnu4jqumUuRM) | [OLTRELUNA](https://open.spotify.com/album/7oXIOjnOp0zYlEYHR2gqbf) | 2:59 | 2023-01-12 | 2023-02-03 |
+| [Ombre \- Marzo](https://open.spotify.com/track/4DyF2h99xNCiVM2VoQxMKW) | [AINÉ](https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h) | [Ombre \- Marzo](https://open.spotify.com/album/77Z9VrKMnJOStCdNO6ftVu) | 2:50 | 2024-09-12 |  |
 | [Ora Arriva il Bello](https://open.spotify.com/track/3P1ti0xwUdu174if5uLkwg) | [Adriana](https://open.spotify.com/artist/5PEdtrdgUCso8TLij5uhWa) | [Limbo](https://open.spotify.com/album/7HNAbzVX5XDnx5LIexXWid) | 2:59 | 2024-04-25 | 2024-05-17 |
 | [ORA CHE](https://open.spotify.com/track/1xhsbacBkdaTHatjLDfGls) | [Calmo](https://open.spotify.com/artist/4Wx3ZL6d6p1gVMtwQ2YWsz), [Luca Notaro](https://open.spotify.com/artist/1rDD8vsbYTzd3DBR5etA5p), [Ugo Crepa](https://open.spotify.com/artist/2Dnl3zSlmEnQKW5bsqfROS), [PeppOh](https://open.spotify.com/artist/5pMa92RIc1jc0gUnT545G6), [foolviho](https://open.spotify.com/artist/5jey6WrdNNxrVwujdDzDQY), [Alessandro Rase](https://open.spotify.com/artist/5CXKssrGe7iT4wZfge8Vit) | [ORA CHE](https://open.spotify.com/album/2om36mteBQ9j7xLirdzcjf) | 2:48 | 2022-08-05 | 2023-01-13 |
 | [Ora per Ora](https://open.spotify.com/track/3AE0cJVoZIjDdTpOT7B2ZX) | [Federico Di Napoli](https://open.spotify.com/artist/4M2iXQKbmJhbcQEMpxCnxu), [Vinz Turner](https://open.spotify.com/artist/1FCRctfZKE42NfXqfLVs89) | [Ora per Ora](https://open.spotify.com/album/5j9Kj5bVHBqJEen9YbYgiK) | 2:49 | 2023-03-02 | 2023-04-28 |

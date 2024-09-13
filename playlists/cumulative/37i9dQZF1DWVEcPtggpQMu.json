@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap from the streets. \nCover:  <a href=\"https://open.spotify.com/artist/3s08T4PFTVRjVPwgkhNq6D?si=GmoC5sAwTQCbLZF9ErnmDw\">Blue Pappi</a>",
+  "description": "Only the hottest South African rap from the streets. \nCover:  <a href=\"https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs?si=kGyefAXHTP62tJ5iYxL4-g\">Usimamane</a>",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -1579,6 +1579,32 @@
     },
     {
       "album": {
+        "name": "20th: Days Before Maud",
+        "url": "https://open.spotify.com/album/41wiN7FdTbfUJHbjaQW1YH"
+      },
+      "artists": [
+        {
+          "name": "Usimamane",
+          "url": "https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs"
+        },
+        {
+          "name": "ANATII",
+          "url": "https://open.spotify.com/artist/6dX1EJC9XFlM8Ql1wGHC55"
+        },
+        {
+          "name": "Tony Dayimane",
+          "url": "https://open.spotify.com/artist/61JGKpmRAgud7VaFpgesxi"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "BANK",
+      "url": "https://open.spotify.com/track/0HCQHIAqwmLMJsecMU1xth"
+    },
+    {
+      "album": {
         "name": "Bank Account",
         "url": "https://open.spotify.com/album/6IbSsi4TaYE9yFIZaCf3K2"
       },
@@ -2960,7 +2986,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 199384,
       "name": "Car Crash (feat. Sizwe Alakine)",
       "url": "https://open.spotify.com/track/5rQBQ9ja4aFdOdgqM9m7gc"
@@ -3150,6 +3176,36 @@
       "duration_ms": 187354,
       "name": "CHOM",
       "url": "https://open.spotify.com/track/6AhbstjFqrgTO196pZdElf"
+    },
+    {
+      "album": {
+        "name": "Church On Sundayz",
+        "url": "https://open.spotify.com/album/2AChy56MPKTPXlhdjpYfaR"
+      },
+      "artists": [
+        {
+          "name": "Loatinover Pounds",
+          "url": "https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS"
+        },
+        {
+          "name": "G-TECH 2bit",
+          "url": "https://open.spotify.com/artist/7eLNbVknbYJ1S9GHpjR2T0"
+        },
+        {
+          "name": "Thato Saul",
+          "url": "https://open.spotify.com/artist/0R6GDPZ2Hrn2lF4svYJRkn"
+        },
+        {
+          "name": "Tongue-Fu Senseii",
+          "url": "https://open.spotify.com/artist/0wwLeCrkyBWdgQ34XZqEnC"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228919,
+      "name": "Church On Sundayz",
+      "url": "https://open.spotify.com/track/7miQTf9PQBTj9enXXp3dk3"
     },
     {
       "album": {
@@ -3838,7 +3894,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 255371,
       "name": "Di Tlo Ja Fats'e",
       "url": "https://open.spotify.com/track/1mai3wFhoIyLKHOEE18Hkg"
@@ -5854,7 +5910,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 185454,
       "name": "GODS TIMING",
       "url": "https://open.spotify.com/track/0NMYAGETitlHa3Jo0LLJRu"
@@ -7894,7 +7950,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 158020,
       "name": "Khumbula",
       "url": "https://open.spotify.com/track/2KHFOGvOICQylrjPHxqeGJ"
@@ -11178,7 +11234,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 147697,
       "name": "On God",
       "url": "https://open.spotify.com/track/46hGl4NbQr1ZhLBSrOcmQx"
@@ -12682,10 +12738,40 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 130285,
       "name": "Same Song",
       "url": "https://open.spotify.com/track/0jRwmYsABmVTGFIYm4ONVm"
+    },
+    {
+      "album": {
+        "name": "Perspective: BLACK",
+        "url": "https://open.spotify.com/album/12D5keYs0QO1oSQ49JskBh"
+      },
+      "artists": [
+        {
+          "name": "Z\u0101dok",
+          "url": "https://open.spotify.com/artist/72wC9dzKpqHCdw8fQwYpea"
+        },
+        {
+          "name": "Yanga Chief",
+          "url": "https://open.spotify.com/artist/30WlMKuvwN6RrMeLARZeqk"
+        },
+        {
+          "name": "Lesole Monghxdi",
+          "url": "https://open.spotify.com/artist/0WiIw2iRT4Li9ccvj38dWY"
+        },
+        {
+          "name": "Khuli Chana",
+          "url": "https://open.spotify.com/artist/4f2hVqzqXvQdVaC35D8sAc"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "SANGENA (feat. Yanga Chief, Lesole Monghxdi & Khuli Chana)",
+      "url": "https://open.spotify.com/track/2Dl1LskvQrLItLhBj4RphX"
     },
     {
       "album": {
@@ -16002,7 +16088,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 162352,
       "name": "Top Of The Money",
       "url": "https://open.spotify.com/track/7v7Rl1AI7XWBfnkxiXDqrr"
@@ -17080,7 +17166,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 150857,
       "name": "WAR CRY",
       "url": "https://open.spotify.com/track/7d7zvtJ9zyh3Ip78CwZ9kT"

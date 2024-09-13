@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Big One, Emanero, Valentino Merlo
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,306 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,325 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 21 | [No Podrás](https://open.spotify.com/track/7KsMMuKRp7KBvtyvTAQapf) | [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [No Podrás](https://open.spotify.com/album/3ODr65vCT4oSyIIxz4CSpb) | 3:00 |
 | 22 | [Es Mejor Olvidar \- Remix](https://open.spotify.com/track/5CLJys9Ywkf0CU9RAsP5Q9) | [Rossy War y Su Banda Kaliente](https://open.spotify.com/artist/04laTTTa6l3hNn8a1EG7UQ), [Crexx](https://open.spotify.com/artist/0YTIsHLMK7TesRXrf5E341), [4 AM](https://open.spotify.com/artist/73mJrLJYEoN4wPCDdiveDY) | [Es Mejor Olvidar \- Remix](https://open.spotify.com/album/11AIV6joBGE2BsPKG0s4QZ) | 2:38 |
 | 23 | [Ya Supérame](https://open.spotify.com/track/1KErOYjZ8nyzMaH8dk4MoN) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T) | [Ya Supérame](https://open.spotify.com/album/2YXRDWKQNh0De3Vb2UpEKG) | 2:37 |
-| 24 | [No me sale](https://open.spotify.com/track/6tGbECLnN7puAijzjAflJx) | [Campedrinos](https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx), [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [No me sale](https://open.spotify.com/album/4u3sxsJQ69ExpQcsyY8GYB) | 3:28 |
+| 24 | [No me sale](https://open.spotify.com/track/6tGbECLnN7puAijzjAflJx) | [Campedrinos](https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx), [Sele Vera Y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [No me sale](https://open.spotify.com/album/4u3sxsJQ69ExpQcsyY8GYB) | 3:28 |
 | 25 | [Si Es Contigo](https://open.spotify.com/track/7Kvld2OBNdoMtfiOdYw523) | [Adriana Lucia](https://open.spotify.com/artist/5u4ozdMUTJLCJPYkFVoy0o) | [Quisiera Contigo](https://open.spotify.com/album/479KRFndS8hpCiG8NneLsu) | 3:35 |
 | 26 | [Te Lo Pido por Favor Yapeame](https://open.spotify.com/track/3S5LLWQe5msmPMfur4iuVb) | [Kate Candela](https://open.spotify.com/artist/20MItJsTq6XRJ3drVZLp3W), [Wow Popy](https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv) | [Te Lo Pido por Favor Yapeame](https://open.spotify.com/album/2vs2VHK31J94faH4JNEH7u) | 3:49 |
 | 27 | [Me vas a extrañar](https://open.spotify.com/track/50cR5g1QZzPStVzGA9r20J) | [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT), [Mks](https://open.spotify.com/artist/6v36LGGRNEleSpAd2zAeQL) | [Me vas a extrañar](https://open.spotify.com/album/0cCrm6QJuc1PoQZDacA0He) | 2:35 |

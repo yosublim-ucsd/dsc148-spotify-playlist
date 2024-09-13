@@ -1,6 +1,6 @@
 {
   "description": "you're invited. ft. The Dare ",
-  "num_followers": 165917,
+  "num_followers": 166252,
   "original_name": "Indie Sleaze",
   "owner": {
     "name": "Spotify",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-09-09 00:08:41",
       "album": {
-        "name": "Manners",
-        "url": "https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv"
-      },
-      "artists": [
-        {
-          "name": "Passion Pit",
-          "url": "https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh"
-        }
-      ],
-      "duration_ms": 238973,
-      "name": "Little Secrets",
-      "url": "https://open.spotify.com/track/3kb38wezoUA8ki5jPYy3t5"
-    },
-    {
-      "added_at": "2024-09-09 00:08:41",
-      "album": {
         "name": "Just Your Doll",
         "url": "https://open.spotify.com/album/4jyNNtKDiCe5ZJvNxT9BlG"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 147234,
       "name": "Just Your Doll",
       "url": "https://open.spotify.com/track/18n0voG6fG03ogJznGiyWD"
+    },
+    {
+      "added_at": "2024-09-09 00:08:41",
+      "album": {
+        "name": "Manners",
+        "url": "https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv"
+      },
+      "artists": [
+        {
+          "name": "Passion Pit",
+          "url": "https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh"
+        }
+      ],
+      "duration_ms": 238973,
+      "name": "Little Secrets",
+      "url": "https://open.spotify.com/track/3kb38wezoUA8ki5jPYy3t5"
     },
     {
       "added_at": "2024-09-09 00:08:41",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2024-09-09 00:08:41",
       "album": {
-        "name": "Perfume",
-        "url": "https://open.spotify.com/album/5LT1rzo7ro36taxLMaTXUV"
+        "name": "We Are Pilots",
+        "url": "https://open.spotify.com/album/7EJf2RoD8f2Tm7hzpwK4bQ"
       },
       "artists": [
         {
-          "name": "The Dare",
-          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
+          "name": "Shiny Toy Guns",
+          "url": "https://open.spotify.com/artist/6UocZe4AprSYBvmn3J0oqY"
         }
       ],
-      "duration_ms": 147101,
-      "name": "Perfume",
-      "url": "https://open.spotify.com/track/2e1b8BloDxKE8G8aj3owLA"
+      "duration_ms": 203306,
+      "name": "Le Disko",
+      "url": "https://open.spotify.com/track/4jjtFbO4dYu4JO0CIph6Ak"
     },
     {
       "added_at": "2024-09-09 00:08:41",
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2024-09-09 00:08:41",
       "album": {
-        "name": "We Are Pilots",
-        "url": "https://open.spotify.com/album/7EJf2RoD8f2Tm7hzpwK4bQ"
+        "name": "Perfume",
+        "url": "https://open.spotify.com/album/5LT1rzo7ro36taxLMaTXUV"
       },
       "artists": [
         {
-          "name": "Shiny Toy Guns",
-          "url": "https://open.spotify.com/artist/6UocZe4AprSYBvmn3J0oqY"
+          "name": "The Dare",
+          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
         }
       ],
-      "duration_ms": 203306,
-      "name": "Le Disko",
-      "url": "https://open.spotify.com/track/4jjtFbO4dYu4JO0CIph6Ak"
+      "duration_ms": 147101,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/2e1b8BloDxKE8G8aj3owLA"
     },
     {
       "added_at": "2024-09-09 00:08:41",

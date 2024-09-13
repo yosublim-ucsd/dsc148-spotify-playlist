@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Alejandro y Maria Laura.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,273 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,275 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 33 | [Al oírla cantar](https://open.spotify.com/track/1GmzUjLKmccC28IAMFhW1t) | [Ezequiel Borra](https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon), [Alex Serra](https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r) | [Al oírla cantar](https://open.spotify.com/album/5fk1Gz6X5cPaFm9Yipm75h) | 5:36 |
 | 34 | [También de dolor se canta](https://open.spotify.com/track/5vLTaMcdh1Dix7hgVgmHpj) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [También de dolor se canta](https://open.spotify.com/album/3Sdg3x71MeUlOVRbBz4Hdl) | 3:28 |
 | 35 | [Gotas de agua](https://open.spotify.com/track/4V9NBrm7s5EKM7lQef94hO) | [Mercedes Cañas](https://open.spotify.com/artist/4Z3BhshALJKE4dbK8o7ORb) | [Gotas de agua](https://open.spotify.com/album/1WFg5iwtay9ovFMKGnGxD9) | 3:34 |
-| 36 | [Remanso para morrer \(con Tanxugueiras\) \- Sesiones Moraima 2](https://open.spotify.com/track/5C4ofBBIu1yAwwzSul6mtb) | [Andrés Suárez](https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe), [Tanxugueiras](https://open.spotify.com/artist/1iHb53TMjvMaXZm0s4RWZi) | [Remanso para morrer \(con Tanxugueiras\) \[Sesiones Moraima 2\]](https://open.spotify.com/album/77UPQUZuo4ZFVZbec7YNqb) | 3:06 |
-| 37 | [Que Bonito](https://open.spotify.com/track/3lbaXRttgLyDAQtH9L4Ctl) | [Jorge Lebrón](https://open.spotify.com/artist/1LX6bLRTvP6V8hSVdWXbC7) | [Vida](https://open.spotify.com/album/0PR1QIMk7rQlm8hVPc1spT) | 2:59 |
+| 36 | [Que Bonito](https://open.spotify.com/track/3lbaXRttgLyDAQtH9L4Ctl) | [Jorge Lebrón](https://open.spotify.com/artist/1LX6bLRTvP6V8hSVdWXbC7) | [Vida](https://open.spotify.com/album/0PR1QIMk7rQlm8hVPc1spT) | 2:59 |
+| 37 | [Remanso para morrer \(con Tanxugueiras\) \- Sesiones Moraima 2](https://open.spotify.com/track/5C4ofBBIu1yAwwzSul6mtb) | [Andrés Suárez](https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe), [Tanxugueiras](https://open.spotify.com/artist/1iHb53TMjvMaXZm0s4RWZi) | [Remanso para morrer \(con Tanxugueiras\) \[Sesiones Moraima 2\]](https://open.spotify.com/album/77UPQUZuo4ZFVZbec7YNqb) | 3:06 |
 | 38 | [Ventura \- Live](https://open.spotify.com/track/3jxMqzOXht0AfgpWIZtY0O) | [Santero y Los Muchachos](https://open.spotify.com/artist/1KX80l2v6D9jbexW3IkWvR), [Travis Birds](https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB) | [Ventura \(Live\)](https://open.spotify.com/album/4Xpme8SyUVkaIdyme2w8PQ) | 4:55 |
 | 39 | [Pánico \(VMG\)](https://open.spotify.com/track/4kS8Tc0RHoGNS7dCwY3RJo) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX) | [Pánico \(VMG\)](https://open.spotify.com/album/5Qc0kB8kggdylHZkU5P2pk) | 2:57 |
 | 40 | [Tres Otoños \(feat\. alberto.vela\)](https://open.spotify.com/track/0cHAaDELCxNqaGfz9GMwWf) | [Colectivo Panamera](https://open.spotify.com/artist/7aFW3s8aXxis0oiGyOM3Yw), [alberto.vela](https://open.spotify.com/artist/56BJ9TARPYDpPBpxwDdNok) | [Tres Otoños \(feat\. alberto.vela\)](https://open.spotify.com/album/1SqBggflYIVC1nFyj9dXYB) | 3:51 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 95 | [Tanananá](https://open.spotify.com/track/35O39AR91OBFPMWIZfBzoo) | [Travis Birds](https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Tanananá](https://open.spotify.com/album/1WktnsGN1LVZrei84VJXm2) | 4:05 |
 | 96 | [Siembro](https://open.spotify.com/track/6ul1XHxB6IKQ4wCKSebTXk) | [Alvaro Ruiz](https://open.spotify.com/artist/2GIa4g7H34OOiHxGSZPFMg), [Raquel Riba Rossy](https://open.spotify.com/artist/629uR7Xkvj3EDudnJ4Rybe) | [Siembro](https://open.spotify.com/album/5N1HdD5SThy4eh5Fpp7IAA) | 3:51 |
 | 97 | [Simón](https://open.spotify.com/track/4xMiOxgxoJQ12FuRJ6lb0M) | [Montse](https://open.spotify.com/artist/3T0GzJMjk9HMVCWH8cteSm) | [Simón](https://open.spotify.com/album/2msIOoeg2OmpUfWQBw4BkD) | 4:58 |
-| 98 | [Camino al Bembé](https://open.spotify.com/track/4PzPtQgbDCaRajfbppvNBd) | [Carey](https://open.spotify.com/artist/0oxfm2BvNWiRi3WwmcOdQy) | [Camino al Bembé](https://open.spotify.com/album/4XeP79F6lHKf2YZgR3Ggtb) | 3:23 |
-| 99 | [El hombre de la habitación de al lado](https://open.spotify.com/track/0O8cglYEjO4csK9xHbKqp0) | [Pez Mago](https://open.spotify.com/artist/0q7reCakAPlG4G3a0qCYyY) | [El hombre de la habitación de al lado](https://open.spotify.com/album/7EqHXkO34eYZLPco3EpGZC) | 3:54 |
-| 100 | [Mírame](https://open.spotify.com/track/6NcGTOcFLQiYSrW8pv7fuO) | [María de la Flor](https://open.spotify.com/artist/0kQpC0wjuUoy6ppyXWgYH3) | [Mírame](https://open.spotify.com/album/2BrwzeYkAzmI4RnzLCgbv8) | 3:10 |
+| 98 | [El hombre de la habitación de al lado](https://open.spotify.com/track/0O8cglYEjO4csK9xHbKqp0) | [Pez Mago](https://open.spotify.com/artist/0q7reCakAPlG4G3a0qCYyY) | [El hombre de la habitación de al lado](https://open.spotify.com/album/7EqHXkO34eYZLPco3EpGZC) | 3:54 |
+| 99 | [Camino al Bembé](https://open.spotify.com/track/4PzPtQgbDCaRajfbppvNBd) | [Carey](https://open.spotify.com/artist/0oxfm2BvNWiRi3WwmcOdQy) | [Camino al Bembé](https://open.spotify.com/album/4XeP79F6lHKf2YZgR3Ggtb) | 3:23 |
+| 100 | [Pajarillo Negro](https://open.spotify.com/track/4DMhBxXwHcaY8C0Bv8PwFc) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [La Fuerza](https://open.spotify.com/album/4qMSZDyLdEJtoL19qzG4ld) | 4:00 |
 
 Snapshot ID: `ZtqaYAAAAADVs25+cPh28QMXuv+PrUrc`

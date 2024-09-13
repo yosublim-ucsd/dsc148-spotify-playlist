@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HpYqrfrj7c.md) - [plain]
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to keep the vibes chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,296 likes - 78 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,415 likes - 78 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HpYqrfrj7c.md) - [plain]
 | 77 | [Masta I.C.](https://open.spotify.com/track/3XmgQMloJfa6mhCi4D2tBn) | [Mic Geronimo](https://open.spotify.com/artist/3nLE33yBJ82QPWzvvqv7rE), [Royal Flush](https://open.spotify.com/artist/4ihZJgEVoshKe606OAK4xE) | [The Natural](https://open.spotify.com/album/6H6rN4w9PdLZrI9Wql5qUC) | 5:50 |
 | 78 | [DFTF \(J Dilla instrumental\)](https://open.spotify.com/track/0i3TqaKNngr64Tw3WgVsR2) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp), [Illa J](https://open.spotify.com/artist/72zigmOdJbIsz0iIRhCBvp) | [Yancey Boys \(Instrumentals\)](https://open.spotify.com/album/2gdTpQn3jIAWM9ybgwqPLM) | 4:23 |
 
-Snapshot ID: `ZsZIowAAAACDWd9DrjL3Q6ENrB3UlDF6`
+Snapshot ID: `ZsZIowAAAADY4wwnbs+VXxrr+zXqrTL2`

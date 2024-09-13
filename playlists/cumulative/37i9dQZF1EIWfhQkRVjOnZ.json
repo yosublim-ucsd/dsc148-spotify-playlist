@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-23",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a>, <a href=spotify:playlist:37i9dQZF1EIUIEDIU11pe6>Forevermore</a> and <a href=spotify:playlist:37i9dQZF1EIY9Q7Eg6cSFb>Onward To Olympas</a>",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a>, <a href=spotify:playlist:37i9dQZF1EIY9Q7Eg6cSFb>Onward To Olympas</a> and <a href=spotify:playlist:37i9dQZF1EIUIEDIU11pe6>Forevermore</a>",
   "name": "Destroy The Runner Mix",
   "tracks": [
     {
@@ -502,7 +502,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-09",
+      "date_removed": null,
       "duration_ms": 253213,
       "name": "Big Wiggly Style",
       "url": "https://open.spotify.com/track/3mpHOCy0ePkRoHJ5PI3dJn"
@@ -862,7 +862,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 207573,
       "name": "Desperate Times, Desperate Measures",
       "url": "https://open.spotify.com/track/4TLK7Umh2d9UO3ZajvE6AV"
@@ -952,7 +952,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 186000,
       "name": "Endseekers",
       "url": "https://open.spotify.com/track/2Zx9X4HJMDnegzTRy8xdFV"
@@ -1805,6 +1805,24 @@
     },
     {
       "album": {
+        "name": "With Roots Above And Branches Below (Standard Edition)",
+        "url": "https://open.spotify.com/album/3fF0DMCLemCIxQ09OpSq2Y"
+      },
+      "artists": [
+        {
+          "name": "The Devil Wears Prada",
+          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195906,
+      "name": "Sassafras",
+      "url": "https://open.spotify.com/track/09CyJ5SqgQhgBazUBktPrF"
+    },
+    {
+      "album": {
         "name": "Music for the Recently Deceased",
         "url": "https://open.spotify.com/album/6GohKHN5kgvJWB4O83pLXY"
       },
@@ -1888,7 +1906,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-12",
+      "date_removed": null,
       "duration_ms": 182080,
       "name": "Severed Ties Yield Severed Heads",
       "url": "https://open.spotify.com/track/3eQkdO24L0yxKQj9Y0pd1m"
@@ -2482,7 +2500,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 227106,
       "name": "We Stand",
       "url": "https://open.spotify.com/track/1QAz671ewHPs31WxBBVkKG"

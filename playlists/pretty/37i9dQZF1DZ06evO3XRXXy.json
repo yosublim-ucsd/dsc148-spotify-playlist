@@ -1,12 +1,12 @@
 {
-  "description": "This is Kenny G. The essential tracks, all in one playlist.",
-  "num_followers": 137535,
+  "description": "This Is Kenny G. Los temas esenciales, todos en una lista.",
+  "num_followers": 137584,
   "original_name": "This Is Kenny G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zt+MAAAAAABy56pusZmbaCX14PGTK08t",
+  "snapshot_id": "ZuDdgAAAAADdiuVDlWYs8pYSq6ZinQjq",
   "tracks": [
     {
       "added_at": null,
@@ -695,22 +695,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Classics In The Key Of G",
-        "url": "https://open.spotify.com/album/6z3utjo3iGofLUnxWL9zXh"
+        "name": "Brazilian Nights (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4vYG7FNb19Ug5eiqLFZKwS"
       },
       "artists": [
         {
           "name": "Kenny G",
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        },
-        {
-          "name": "Bebel Gilberto",
-          "url": "https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz"
         }
       ],
-      "duration_ms": 245200,
-      "name": "The Girl from Ipanema (feat. Bebel Gilberto)",
-      "url": "https://open.spotify.com/track/0UEGw7vWxDoF1TykX88qeQ"
+      "duration_ms": 281906,
+      "name": "Heart And Soul - Live",
+      "url": "https://open.spotify.com/track/5W41nRwHlIvLwRnYiHMGDp"
     },
     {
       "added_at": null,
@@ -735,18 +731,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brazilian Nights (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4vYG7FNb19Ug5eiqLFZKwS"
+        "name": "Classics In The Key Of G",
+        "url": "https://open.spotify.com/album/6z3utjo3iGofLUnxWL9zXh"
       },
       "artists": [
         {
           "name": "Kenny G",
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        },
+        {
+          "name": "Bebel Gilberto",
+          "url": "https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz"
         }
       ],
-      "duration_ms": 281906,
-      "name": "Heart And Soul - Live",
-      "url": "https://open.spotify.com/track/5W41nRwHlIvLwRnYiHMGDp"
+      "duration_ms": 245200,
+      "name": "The Girl from Ipanema (feat. Bebel Gilberto)",
+      "url": "https://open.spotify.com/track/0UEGw7vWxDoF1TykX88qeQ"
     },
     {
       "added_at": null,

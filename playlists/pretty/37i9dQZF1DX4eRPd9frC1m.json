@@ -1,6 +1,6 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a>.",
-  "num_followers": 2587326,
+  "num_followers": 2587391,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
@@ -739,6 +739,34 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
+        "name": "Never Come Back",
+        "url": "https://open.spotify.com/album/5dP2FwZDkFa1bvOuyKTIPk"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "Kompany",
+          "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+        },
+        {
+          "name": "DIESEL",
+          "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u"
+        },
+        {
+          "name": "Shaquille O'Neal",
+          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
+        }
+      ],
+      "duration_ms": 142714,
+      "name": "Never Come Back",
+      "url": "https://open.spotify.com/track/26rKyTQhCCBojRnx8znqFr"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
         "name": "Ground Shake",
         "url": "https://open.spotify.com/album/4lN9hIcBH3lBzlpWyim3Ud"
       },
@@ -755,26 +783,6 @@
       "duration_ms": 185379,
       "name": "Ground Shake",
       "url": "https://open.spotify.com/track/0h2ZSu1j6YFsGj85eSyrI4"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/7634SoS9OTz1egYy9CFG2e"
-      },
-      "artists": [
-        {
-          "name": "Jauz",
-          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
-        },
-        {
-          "name": "Masked Wolf",
-          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
-        }
-      ],
-      "duration_ms": 190400,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/1NuhAA7NeNwrWcsBh9z8R8"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -819,30 +827,22 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Never Come Back",
-        "url": "https://open.spotify.com/album/5dP2FwZDkFa1bvOuyKTIPk"
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/7634SoS9OTz1egYy9CFG2e"
       },
       "artists": [
         {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
         },
         {
-          "name": "Kompany",
-          "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
-        },
-        {
-          "name": "DIESEL",
-          "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u"
-        },
-        {
-          "name": "Shaquille O'Neal",
-          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
+          "name": "Masked Wolf",
+          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
         }
       ],
-      "duration_ms": 142714,
-      "name": "Never Come Back",
-      "url": "https://open.spotify.com/track/26rKyTQhCCBojRnx8znqFr"
+      "duration_ms": 190400,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/1NuhAA7NeNwrWcsBh9z8R8"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -959,22 +959,22 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Sacrificial",
-        "url": "https://open.spotify.com/album/66jlZyvN4g2VBo9RNDYrOS"
+        "name": "Keep It Moving",
+        "url": "https://open.spotify.com/album/2UoLGeViU5qTIlKLMtxOag"
       },
       "artists": [
         {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
         },
         {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Sacrificial",
-      "url": "https://open.spotify.com/track/5YvYKEQEYJp4orh4z3Dnpk"
+      "duration_ms": 160551,
+      "name": "Keep It Moving",
+      "url": "https://open.spotify.com/track/6S1N4cHzWrCcJ3SCkpOIft"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -995,6 +995,26 @@
       "duration_ms": 139805,
       "name": "Old School",
       "url": "https://open.spotify.com/track/6ctmKiHf2CcHQLwT7g4jpc"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Sacrificial",
+        "url": "https://open.spotify.com/album/66jlZyvN4g2VBo9RNDYrOS"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Sacrificial",
+      "url": "https://open.spotify.com/track/5YvYKEQEYJp4orh4z3Dnpk"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1043,30 +1063,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Blue Mile",
-        "url": "https://open.spotify.com/album/77I9ebOxX1nxDk8vlJNUH9"
-      },
-      "artists": [
-        {
-          "name": "Of The Trees",
-          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
-        },
-        {
-          "name": "Barclay Crenshaw",
-          "url": "https://open.spotify.com/artist/3uWK9g12Kh4IarZX052vJR"
-        },
-        {
-          "name": "Strategy",
-          "url": "https://open.spotify.com/artist/0lFrpd2SX8SmwUr07I4GE3"
-        }
-      ],
-      "duration_ms": 212571,
-      "name": "Blue Mile",
-      "url": "https://open.spotify.com/track/5EIyuLTiZwAmmlsqxdLJC0"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Mad Ting",
         "url": "https://open.spotify.com/album/6xS7QXBUofgwTfAC37cQfg"
       },
@@ -1091,22 +1087,26 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Keep It Moving",
-        "url": "https://open.spotify.com/album/2UoLGeViU5qTIlKLMtxOag"
+        "name": "Blue Mile",
+        "url": "https://open.spotify.com/album/77I9ebOxX1nxDk8vlJNUH9"
       },
       "artists": [
         {
-          "name": "TroyBoi",
-          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+          "name": "Of The Trees",
+          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
         },
         {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+          "name": "Barclay Crenshaw",
+          "url": "https://open.spotify.com/artist/3uWK9g12Kh4IarZX052vJR"
+        },
+        {
+          "name": "Strategy",
+          "url": "https://open.spotify.com/artist/0lFrpd2SX8SmwUr07I4GE3"
         }
       ],
-      "duration_ms": 160551,
-      "name": "Keep It Moving",
-      "url": "https://open.spotify.com/track/6S1N4cHzWrCcJ3SCkpOIft"
+      "duration_ms": 212571,
+      "name": "Blue Mile",
+      "url": "https://open.spotify.com/track/5EIyuLTiZwAmmlsqxdLJC0"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "IN THE ALLEY",
-        "url": "https://open.spotify.com/album/1ULgYsHVDh6c1zn5UPIqGh"
-      },
-      "artists": [
-        {
-          "name": "ALLEYCVT",
-          "url": "https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1"
-        }
-      ],
-      "duration_ms": 162206,
-      "name": "IN THE ALLEY",
-      "url": "https://open.spotify.com/track/6rLZY5Jlr3PJVsMf9k6ixF"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "BRULURE",
         "url": "https://open.spotify.com/album/1KMjCZrj4I7bi29Ujrs8rF"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 247814,
       "name": "DESPAIR",
       "url": "https://open.spotify.com/track/5x5wkfcFZUQsPh8vLs0WTy"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "IN THE ALLEY",
+        "url": "https://open.spotify.com/album/1ULgYsHVDh6c1zn5UPIqGh"
+      },
+      "artists": [
+        {
+          "name": "ALLEYCVT",
+          "url": "https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1"
+        }
+      ],
+      "duration_ms": 162206,
+      "name": "IN THE ALLEY",
+      "url": "https://open.spotify.com/track/6rLZY5Jlr3PJVsMf9k6ixF"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
+        "name": "IN THE ZONE",
+        "url": "https://open.spotify.com/album/0cSvYjnV5i1aU4Mpndu7FC"
+      },
+      "artists": [
+        {
+          "name": "Ryan Nevis",
+          "url": "https://open.spotify.com/artist/3lTv6FUrCLwLJqLkkqWRij"
+        }
+      ],
+      "duration_ms": 169985,
+      "name": "IN THE ZONE",
+      "url": "https://open.spotify.com/track/3EZT1GQldSjQALioFg3XEp"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
         "name": "NEW WIP",
         "url": "https://open.spotify.com/album/5NToLmDgH4V64h5f3Xzhkn"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 186400,
       "name": "NEW WIP",
       "url": "https://open.spotify.com/track/6rv93pYJSTtReQIuwcCYvm"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "IN THE ZONE",
-        "url": "https://open.spotify.com/album/0cSvYjnV5i1aU4Mpndu7FC"
-      },
-      "artists": [
-        {
-          "name": "Ryan Nevis",
-          "url": "https://open.spotify.com/artist/3lTv6FUrCLwLJqLkkqWRij"
-        }
-      ],
-      "duration_ms": 169985,
-      "name": "IN THE ZONE",
-      "url": "https://open.spotify.com/track/3EZT1GQldSjQALioFg3XEp"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
+        "name": "LIKE ME",
+        "url": "https://open.spotify.com/album/4Yag5dp4W2D5lPy3OjjXT4"
+      },
+      "artists": [
+        {
+          "name": "Nikita, the Wicked",
+          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
+        }
+      ],
+      "duration_ms": 207964,
+      "name": "LIKE ME",
+      "url": "https://open.spotify.com/track/3F6DRq9JshCbbjEFjcxHt5"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
         "name": "Echo (Deluxe Version)",
         "url": "https://open.spotify.com/album/2Gy8PtzODbaenwA7aCI6UG"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 185039,
       "name": "Obsolete - Sullivan King Remix",
       "url": "https://open.spotify.com/track/7MUPbvNwlgqY1Sboxe9jJD"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "LIKE ME",
-        "url": "https://open.spotify.com/album/4Yag5dp4W2D5lPy3OjjXT4"
-      },
-      "artists": [
-        {
-          "name": "Nikita, the Wicked",
-          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
-        }
-      ],
-      "duration_ms": 207964,
-      "name": "LIKE ME",
-      "url": "https://open.spotify.com/track/3F6DRq9JshCbbjEFjcxHt5"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1467,6 +1467,26 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
+        "name": "HAWT",
+        "url": "https://open.spotify.com/album/6FhSIhgctT9qOQ7akFXMMV"
+      },
+      "artists": [
+        {
+          "name": "Hydraulix",
+          "url": "https://open.spotify.com/artist/0v6pkn5nWfqK3vgeg0gl0W"
+        },
+        {
+          "name": "Oski",
+          "url": "https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl"
+        }
+      ],
+      "duration_ms": 229714,
+      "name": "HAWT",
+      "url": "https://open.spotify.com/track/5KbDsa9FwfOLlU0lEK4a54"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
         "name": "NEXT LVL",
         "url": "https://open.spotify.com/album/1rhMrfqiJY4q1KtEzmjx2o"
       },
@@ -1487,22 +1507,22 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "HAWT",
-        "url": "https://open.spotify.com/album/6FhSIhgctT9qOQ7akFXMMV"
+        "name": "KILLA",
+        "url": "https://open.spotify.com/album/4nu7wpa375CHZVOAp1zdLt"
       },
       "artists": [
         {
-          "name": "Hydraulix",
-          "url": "https://open.spotify.com/artist/0v6pkn5nWfqK3vgeg0gl0W"
+          "name": "Benda",
+          "url": "https://open.spotify.com/artist/0md3NIXueJZSFZ82HMu26M"
         },
         {
-          "name": "Oski",
-          "url": "https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl"
+          "name": "RZRKT",
+          "url": "https://open.spotify.com/artist/28H813zcseKDMDftpws5ZC"
         }
       ],
-      "duration_ms": 229714,
-      "name": "HAWT",
-      "url": "https://open.spotify.com/track/5KbDsa9FwfOLlU0lEK4a54"
+      "duration_ms": 171428,
+      "name": "KILLA",
+      "url": "https://open.spotify.com/track/0tkweWSDmerhKMIaM2midQ"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1547,26 +1567,6 @@
       "duration_ms": 187000,
       "name": "Cheatcode",
       "url": "https://open.spotify.com/track/3iDtphWASBHIjVEB8lWBqs"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "KILLA",
-        "url": "https://open.spotify.com/album/4nu7wpa375CHZVOAp1zdLt"
-      },
-      "artists": [
-        {
-          "name": "Benda",
-          "url": "https://open.spotify.com/artist/0md3NIXueJZSFZ82HMu26M"
-        },
-        {
-          "name": "RZRKT",
-          "url": "https://open.spotify.com/artist/28H813zcseKDMDftpws5ZC"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "KILLA",
-      "url": "https://open.spotify.com/track/0tkweWSDmerhKMIaM2midQ"
     },
     {
       "added_at": "2024-09-06 04:00:00",

@@ -884,7 +884,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 189973,
       "name": "Birthday Card",
       "url": "https://open.spotify.com/track/1owGgt0obwlyfCXHreFTFc"
@@ -1349,6 +1349,24 @@
     },
     {
       "album": {
+        "name": "Choke You Out",
+        "url": "https://open.spotify.com/album/15jaRIWSKoIhdD7MJ0VPRE"
+      },
+      "artists": [
+        {
+          "name": "The Man Motels",
+          "url": "https://open.spotify.com/artist/4LvYhXU9ZIFnMCmmhgSEhw"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215367,
+      "name": "Choke You Out",
+      "url": "https://open.spotify.com/track/0yMeGSDBBIzOFujL7DeXJq"
+    },
+    {
+      "album": {
         "name": "Lente",
         "url": "https://open.spotify.com/album/0npVagHg875j2gbr4CAvzS"
       },
@@ -1772,7 +1790,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 182589,
       "name": "Dans Deur Die Donker",
       "url": "https://open.spotify.com/track/7qJBfedTGqxSzdqSuBfrW6"
@@ -2076,7 +2094,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 317680,
       "name": "Die Lig",
       "url": "https://open.spotify.com/track/1uC1ABzL9eYbLhASZAiT4r"
@@ -4324,7 +4342,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 247146,
       "name": "Katedraal",
       "url": "https://open.spotify.com/track/0mJcJqP8GWSLCV2TMbnlIY"
@@ -6143,6 +6161,24 @@
     },
     {
       "album": {
+        "name": "People Change",
+        "url": "https://open.spotify.com/album/0HujnlCsE3A24hpcwjkYJ6"
+      },
+      "artists": [
+        {
+          "name": "Lone Tree",
+          "url": "https://open.spotify.com/artist/0VAj0iiD96mFA60tqZrtUU"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206491,
+      "name": "People Change",
+      "url": "https://open.spotify.com/track/5mLtL3i6aZvscX0HlyNK5x"
+    },
+    {
+      "album": {
         "name": "Picture Perfect",
         "url": "https://open.spotify.com/album/60Hh4NmsMVF1BriCanVolb"
       },
@@ -6800,6 +6836,24 @@
       "duration_ms": 194053,
       "name": "Selfish Lover",
       "url": "https://open.spotify.com/track/1Tbgb7vB07zvuKuZKXI0aU"
+    },
+    {
+      "album": {
+        "name": "Send me an Angel - Revisited",
+        "url": "https://open.spotify.com/album/0c9qHMn47Zx3gfFdXqmAgx"
+      },
+      "artists": [
+        {
+          "name": "Naranjo",
+          "url": "https://open.spotify.com/artist/5tf0q9ZsmkmaTYIxfJjsBW"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190643,
+      "name": "Send me an Angel - Revisited",
+      "url": "https://open.spotify.com/track/3EF1oN1PydgDiFC6Dm5HnQ"
     },
     {
       "album": {
@@ -7526,6 +7580,24 @@
       "duration_ms": 184325,
       "name": "Street Lights",
       "url": "https://open.spotify.com/track/3VdOVX3NblTOCcm7FmoXZe"
+    },
+    {
+      "album": {
+        "name": "Streetlights (Director's Cut)",
+        "url": "https://open.spotify.com/album/2x9kCTTCoiFZR75TpkRDRd"
+      },
+      "artists": [
+        {
+          "name": "The Cinematic Rejects",
+          "url": "https://open.spotify.com/artist/0PY9NkUN8qsYGfAI4DqSsd"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278610,
+      "name": "Streetlights (Director's Cut)",
+      "url": "https://open.spotify.com/track/7GcnGzryqM4BOQBj8WHYFL"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [Coupé Décalé](https://open.spotify.com/playlist/37i9dQZF1DX0z1epx5KTtS)
 
-> African dance party music from the continent to Paris\. Photo : Tam Sir
+> African dance party music from the continent to Paris\. Photo : Dydy Yeman
 
 196 songs - 11 hr 10 min
 
@@ -70,7 +70,7 @@
 | [Donne\-lui l'argent](https://open.spotify.com/track/35QFvkmNkPjDa3H3EacJLr) | [Dj Léo le kdo du ciel](https://open.spotify.com/artist/084TMjcRarwgyURTDNr8Xh) | [Donne\-lui l'argent](https://open.spotify.com/album/1kwf8zg7guVu0jG40TL8oi) | 3:01 | 2021-12-20 | 2022-06-03 |
 | [Donnez nous un peu](https://open.spotify.com/track/2XnpZ2HWVvEJqUhyhQBGZj) | [Roseline Layo](https://open.spotify.com/artist/3vrK28yYXzDOifqaD3YyEI) | [Donnez nous un peu](https://open.spotify.com/album/3uF6riPOUySzte9e68eXUu) | 3:51 | 2022-01-21 | 2023-07-28 |
 | [Dora Dance](https://open.spotify.com/track/7JnUwdaJ0FZWfJOCwDglWg) | [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj), [Kadirov Mania](https://open.spotify.com/artist/7l5TdraorF9Nm4j3LTvIcK) | [Dora Dance](https://open.spotify.com/album/74wMcfUmeLcddiJZcvV2xy) | 3:00 | 2022-09-01 | 2023-01-06 |
-| [Dos de chat](https://open.spotify.com/track/4c0hSRKfYD37ZEVN8KzLzL) | [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj), [Peroo](https://open.spotify.com/artist/5zWvgu0NI3AhsBmkHQ7Cv4) | [Dos de chat](https://open.spotify.com/album/5Y8wOOM07VtkJ47PRJ9GPf) | 3:19 | 2024-08-22 |  |
+| [Dos de chat](https://open.spotify.com/track/4c0hSRKfYD37ZEVN8KzLzL) | [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj) | [Dos de chat](https://open.spotify.com/album/5Y8wOOM07VtkJ47PRJ9GPf) | 3:19 | 2024-08-22 |  |
 | [Dosabado](https://open.spotify.com/track/5g9YSheBayQuouTCHXDJt6) | [DJ Arafat](https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8) | [Rhythms of Zamunda \(Music Inspired by the Amazon Original Movie: Coming 2 America\)](https://open.spotify.com/album/3OelY3WvwTxAQGBGgdxEPn) | 2:30 | 2021-12-20 |  |
 | [Dosez \(feat\. Elow'n & Didi B\)](https://open.spotify.com/track/1lpLUb3HAQnCV6ED4PsqcC) | [Revolution](https://open.spotify.com/artist/599jagD7OBej5DjDC24Ext), [Elow'n](https://open.spotify.com/artist/0Gzh0CiahP7loDQP9cn8wt), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [Boîte automatique](https://open.spotify.com/album/1y44R2UA3pHtNPLTfju3Ue) | 3:55 | 2022-02-18 | 2022-09-30 |
 | [Débordement](https://open.spotify.com/track/1O5ZMazV82oegjqaXrphT5) | [Safarel Obiang](https://open.spotify.com/artist/6AmjB7L0xr4B5iriGwHjxK), [Shaggy Sharoof](https://open.spotify.com/artist/2OjFYRzMa5iBpYqJfWVCYg) | [Débordement](https://open.spotify.com/album/6hWIrIYXRphvEAuUy90cpM) | 3:40 | 2022-05-26 | 2023-04-28 |

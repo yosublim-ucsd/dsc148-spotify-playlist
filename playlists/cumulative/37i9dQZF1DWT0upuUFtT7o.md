@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Cover: Fcukers
 
-2,738 songs - 6 day 7 hr 10 min
+2,740 songs - 6 day 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -649,6 +649,7 @@
 | [DON'T FEEL SO GOOD](https://open.spotify.com/track/1UAdwav4NEy4uhIAPQKHtA) | [COLD MEGA](https://open.spotify.com/artist/7ms2CCG69PnGD9gPj7WyRb) | [COLD MEGA](https://open.spotify.com/album/7JIDnDcjXL7bPpPdi2b0zF) | 2:22 | 2022-06-15 | 2022-07-07 |
 | [Don't Get Yourself Dry](https://open.spotify.com/track/3CKSC3Wnq38bitaDJT1scQ) | [GAZEKATE](https://open.spotify.com/artist/4F8TQLHmLbfQbaewX40glp) | [Don't Get Yourself Dry](https://open.spotify.com/album/2QE4Yfo1KiIgpN6Hng3oh6) | 4:20 | 2023-01-25 | 2023-03-02 |
 | [don't go](https://open.spotify.com/track/4KmiXndmCdLWu2dLZfNohN) | [asumuh](https://open.spotify.com/artist/6hjYrTgChYiwxAzggQaqvO), [myno](https://open.spotify.com/artist/6XKJtL78UFsDoGDWtQlaJU) | [don't go](https://open.spotify.com/album/0tCVnDy180xfpyV011oGRh) | 2:21 | 2022-06-29 | 2022-08-04 |
+| [Don't Go Back To Paris](https://open.spotify.com/track/0jeGTzkvrNRBC8Dt8bsDRN) | [Remy Bond](https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo) | [Paris / San Francisco](https://open.spotify.com/album/2VFJG91yaQl6TuCWpP95bw) | 3:47 | 2024-09-12 |  |
 | [DON'T HURRY](https://open.spotify.com/track/5XQkeF5gdSUFuGYIumg1l8) | [Jhung](https://open.spotify.com/artist/0EdSjobhia4cCm2kMTEDDf) | [Always The End](https://open.spotify.com/album/6l7NV0elHJ4SRBrcefGJbp) | 2:17 | 2022-06-08 | 2022-06-30 |
 | [Don't Know Why I Love](https://open.spotify.com/track/4FupR6ny313swFdNuQnAJi) | [Gregory Ackerman](https://open.spotify.com/artist/3ZKxRpn8zCtfawDZtAMlYX) | [Don't Know Why I Love](https://open.spotify.com/album/37yNbAqINO17kJjXlkGLIp) | 2:36 | 2023-03-29 | 2023-05-11 |
 | [Don't Mention It](https://open.spotify.com/track/248Fzx78gOAjXqcATD8jI8) | [Aaron Percy](https://open.spotify.com/artist/1OCGT4W29rXiHvDzMHkJyu), [Ackerman](https://open.spotify.com/artist/5eYDxNdq1HD6iZj1NNLGZC) | [Don't Mention It](https://open.spotify.com/album/4XEzMWmgtU6k4tJaWevI3F) | 2:16 | 2022-07-20 | 2022-08-04 |
@@ -1812,7 +1813,7 @@
 | [People](https://open.spotify.com/track/40MWY7XqoVECo5JLiyh8A3) | [Evan Wright](https://open.spotify.com/artist/4xkRqU2tCsLx2RJO5RXQUX) | [Sound from out the Window](https://open.spotify.com/album/3OSUV7hvKczK7M3colnkH1) | 2:41 | 2021-12-01 | 2022-01-13 |
 | [Peppermint](https://open.spotify.com/track/3ctqg4MEmlXWYFmVOS3scN) | [Juliana Madrid](https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx) | [Peppermint](https://open.spotify.com/album/60pOtoZi07EpHXeae4G9tp) | 3:18 | 2022-04-27 | 2022-05-26 |
 | [Perfect Comms](https://open.spotify.com/track/4PRZX2TyLblnE43M3sNGqF) | [Eterna](https://open.spotify.com/artist/7ekeXKGdf5os6oYTZgKTQP) | [Perfect Comms](https://open.spotify.com/album/2CeGWTVTrk2rA1MpSHFb6M) | 2:49 | 2024-07-31 |  |
-| [Perfect Hand](https://open.spotify.com/track/6liSKA1Va8rggh6HxKHaYr) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [Box for Buddy, Box for Star](https://open.spotify.com/album/3wSIO65dy3pAoBjKBybOcV) | 4:08 | 2024-06-19 | 2024-07-18 |
+| [Perfect Hand](https://open.spotify.com/track/6liSKA1Va8rggh6HxKHaYr) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [Box for Buddy, Box for Star](https://open.spotify.com/album/3wSIO65dy3pAoBjKBybOcV) | 4:08 | 2024-06-19 |  |
 | [Perfectly Blue \(feat\. Winter\)](https://open.spotify.com/track/1yTIls3wv8W1XscrAR00Iy) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [Perfectly Blue \(feat\. Winter\)](https://open.spotify.com/album/65gzOnTds7R6w4Pvej8Brq) | 3:23 | 2024-06-26 | 2024-07-18 |
 | [Periwinkle](https://open.spotify.com/track/6CVHJkSw1VomefpLOOxIUE) | [colleen dow](https://open.spotify.com/artist/1TkYhihp4BiyP0JnhIoyRI) | [Periwinkle](https://open.spotify.com/album/4XKnNKmJotZzQd6Qk3qYLI) | 2:59 | 2022-04-09 | 2022-05-05 |
 | [Petrichor](https://open.spotify.com/track/3xr3NiQnIEVgIlnrWhMuC0) | [Raine](https://open.spotify.com/artist/1hxElSEVvcFYd7lTQaTXYG) | [Petrichor](https://open.spotify.com/album/2ig1OYEpZNZTRaSADMik6b) | 2:42 | 2024-04-03 | 2024-06-01 |
@@ -2654,6 +2655,7 @@
 | [Why](https://open.spotify.com/track/6xy9PGUqhdoTrPTdZodMfs) | [Adrey](https://open.spotify.com/artist/3k4NEqdZ7x9TimSkbComhX) | [Why](https://open.spotify.com/album/05OKofNBUYy21sZlJsej2C) | 3:26 | 2024-08-21 |  |
 | [Why Do I Try?](https://open.spotify.com/track/3SkARVnweIS2HKCRVhvpQ4) | [The Treedome](https://open.spotify.com/artist/5gfEMpgDlkeBGgRbMCI1hC) | [Why Do I Try?](https://open.spotify.com/album/00kYeKmQZTjf63vlNtPPMl) | 3:28 | 2024-07-24 | 2024-08-29 |
 | [why do we keep running away?](https://open.spotify.com/track/33hgcRs7ZzFLMoRHAqpdK3) | [kkanji](https://open.spotify.com/artist/4shTGFJKXoQKYkBEEdURfs) | [why do we keep running away?](https://open.spotify.com/album/3yAHgNFPYf4IX22i7H6xgX) | 2:31 | 2024-01-10 | 2024-02-15 |
+| [Why is everyone a DJ?](https://open.spotify.com/track/3y3JcY50HJob6QfkGz66ti) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [Why is everyone a DJ?](https://open.spotify.com/album/3yscJ56s1RNgZSZngqDBNa) | 2:28 | 2024-09-12 |  |
 | [Why Is It Light Out?](https://open.spotify.com/track/1f6xPiazNywm5rC1krjr5O) | [The Kilans](https://open.spotify.com/artist/4OyAwz3jcZcejoUd3bc5Qt) | [Why Is It Light Out?](https://open.spotify.com/album/6904DB41CM3pjgKkUTKWjm) | 4:02 | 2024-05-08 | 2024-07-04 |
 | [Why'd You Leave Me in the Red?](https://open.spotify.com/track/4yoG9e4BQ5nWYD738dzxEC) | [Jouska](https://open.spotify.com/artist/0uz2Ej3tDwFcK0ujnBcYjn) | [Suddenly My Mind Is Blank](https://open.spotify.com/album/4XvzxNhPgvjdO3h28A9wzb) | 3:56 | 2023-06-05 | 2023-07-12 |
 | [Wicked Love](https://open.spotify.com/track/2UbMqPrxBapGoDjUYTcnsr) | [Visit Neptune](https://open.spotify.com/artist/2NNwTJN1lpxq4k3m03HxeA) | [Wicked Love](https://open.spotify.com/album/1NFuvaVM8dLRRSWawm2bSl) | 4:08 | 2023-08-23 | 2023-10-05 |

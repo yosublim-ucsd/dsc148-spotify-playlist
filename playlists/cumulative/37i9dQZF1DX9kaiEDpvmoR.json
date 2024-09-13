@@ -377,6 +377,24 @@
     },
     {
       "album": {
+        "name": "Den jag kunde blivit - Den jag blev",
+        "url": "https://open.spotify.com/album/7uXYOA68E1WQSfBuVpvGQC"
+      },
+      "artists": [
+        {
+          "name": "Melissa Horn",
+          "url": "https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177479,
+      "name": "Den jag kunde blivit - Den jag blev",
+      "url": "https://open.spotify.com/track/3bXeMeJmDSe8ZPGx2FWnH7"
+    },
+    {
+      "album": {
         "name": "Den var aldrig jag",
         "url": "https://open.spotify.com/album/5eJLPau2afg63p9rCHVQL4"
       },
@@ -614,7 +632,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 309166,
       "name": "Draw Me Closer 2.0",
       "url": "https://open.spotify.com/track/3bGe284cdgFwa0nMOJ9uQA"
@@ -1171,6 +1189,24 @@
     },
     {
       "album": {
+        "name": "Hometown",
+        "url": "https://open.spotify.com/album/4QqbMfkV416w71gmkgGVHs"
+      },
+      "artists": [
+        {
+          "name": "Robin Bengtsson",
+          "url": "https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220346,
+      "name": "Hometown",
+      "url": "https://open.spotify.com/track/1xk71Mxe7bkdB5kFLJk3x8"
+    },
+    {
+      "album": {
         "name": "Honom",
         "url": "https://open.spotify.com/album/3aPG2336pAa2tOP3zCrHD4"
       },
@@ -1370,7 +1406,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 272000,
       "name": "I Will See You",
       "url": "https://open.spotify.com/track/6qmXfmVuBXJw9iZML0k6cr"
@@ -1428,6 +1464,24 @@
       "duration_ms": 199760,
       "name": "If You Lose Her, You're A Loser",
       "url": "https://open.spotify.com/track/1saALmRZoydumb6RaXpZnh"
+    },
+    {
+      "album": {
+        "name": "S\u00e5nger om dig",
+        "url": "https://open.spotify.com/album/39Omlw9UP2xAI1Tbf8NQKz"
+      },
+      "artists": [
+        {
+          "name": "Jens Hult",
+          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174054,
+      "name": "Ingen annan",
+      "url": "https://open.spotify.com/track/6T0osqi96g9nymFKsVXEYq"
     },
     {
       "album": {
@@ -1547,6 +1601,28 @@
     },
     {
       "album": {
+        "name": "Josephine",
+        "url": "https://open.spotify.com/album/4uOsx4KUO4ziKOeKQOZhpH"
+      },
+      "artists": [
+        {
+          "name": "Albin Lee Meldau",
+          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
+        },
+        {
+          "name": "Lissie",
+          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223241,
+      "name": "Josephine",
+      "url": "https://open.spotify.com/track/57KEhRQ7WjjYHjTIMBL8t0"
+    },
+    {
+      "album": {
         "name": "Keep Quiet",
         "url": "https://open.spotify.com/album/0MUwVgg7rxb6PwL4TwWli9"
       },
@@ -1656,7 +1732,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 234106,
       "name": "Leave the Light On",
       "url": "https://open.spotify.com/track/02VIYx4nxhe8wdmOx79eKu"
@@ -1710,7 +1786,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 189583,
       "name": "Lily Of The Valley",
       "url": "https://open.spotify.com/track/39xdvtTXTiWnkkLlJOfqTn"
@@ -2032,7 +2108,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 208153,
       "name": "Not With You",
       "url": "https://open.spotify.com/track/5TVRqKHORb3AhjwaLxOqct"
@@ -2058,6 +2134,28 @@
       "duration_ms": 174946,
       "name": "Now or Never (feat. Lauren Alaina)",
       "url": "https://open.spotify.com/track/6GvYbJ7A0iAnGYFReRMxSa"
+    },
+    {
+      "album": {
+        "name": "Nu n\u00e4r vi \u00e4nd\u00e5 talar om d\u00f6den - Mauro Scocco Remix",
+        "url": "https://open.spotify.com/album/5reJwNJz4dDbftlyrrxyX0"
+      },
+      "artists": [
+        {
+          "name": "Svart Tulpan",
+          "url": "https://open.spotify.com/artist/1WHTAoT9Bd80O0ywsVVr8u"
+        },
+        {
+          "name": "Mauro Scocco",
+          "url": "https://open.spotify.com/artist/0qC4DawW3xCirhuq5cvaKV"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214541,
+      "name": "Nu n\u00e4r vi \u00e4nd\u00e5 talar om d\u00f6den - Mauro Scocco Remix",
+      "url": "https://open.spotify.com/track/3M0Mg0TNCRegl84z83T8oW"
     },
     {
       "album": {
@@ -2498,7 +2596,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 226680,
       "name": "Siljans strand",
       "url": "https://open.spotify.com/track/1H8DYjLRJ8MLtJiz4uKTkK"
@@ -2614,6 +2712,24 @@
       "duration_ms": 228624,
       "name": "Som sommaren",
       "url": "https://open.spotify.com/track/5xDDfIvWw8td3jtA1icOsZ"
+    },
+    {
+      "album": {
+        "name": "Someone You Used To Know",
+        "url": "https://open.spotify.com/album/4XFbOH46yjW67UhgfrVSk0"
+      },
+      "artists": [
+        {
+          "name": "Linus Svenning",
+          "url": "https://open.spotify.com/artist/5NMwwvYHzJ9ItOWj8Xgth8"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175555,
+      "name": "Someone You Used To Know",
+      "url": "https://open.spotify.com/track/1OlVmZGMSpICl9M78258fv"
     },
     {
       "album": {
@@ -2810,7 +2926,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 186278,
       "name": "Sunny Day",
       "url": "https://open.spotify.com/track/4KZZ4pHjwZqGm0WWq8XrAl"
@@ -3042,6 +3158,24 @@
       "duration_ms": 193200,
       "name": "Vi kommer aldrig",
       "url": "https://open.spotify.com/track/7kGS4wTFv3Mzu41Uxbcei8"
+    },
+    {
+      "album": {
+        "name": "Den klarnande april",
+        "url": "https://open.spotify.com/album/5XpmuYfcGCz2P8k73UCnGG"
+      },
+      "artists": [
+        {
+          "name": "Tomas Rimeika",
+          "url": "https://open.spotify.com/artist/6gDITTUXRJ4mb0fhiOcyyz"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197173,
+      "name": "Vi st\u00e5r inte ut",
+      "url": "https://open.spotify.com/track/79SPnz1ts8Qky3HrWxj3YA"
     },
     {
       "album": {

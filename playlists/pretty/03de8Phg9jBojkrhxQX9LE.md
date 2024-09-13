@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 20,839 likes - 115 songs - 6 hr 46 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 20,838 likes - 115 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 6 | [Bogeyman](https://open.spotify.com/track/1GjwboGNxJlQ65BQRjtyNm) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Bogeyman](https://open.spotify.com/album/7tSOUKrLrPRjmNWoGhNjJm) | 4:45 |
 | 7 | [Nowhere to Hide](https://open.spotify.com/track/10qHwlq0QIldNkckgGjI5m) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Into the Unknown](https://open.spotify.com/album/2spge3mzNdBzEl4wxniTa9) | 3:34 |
 | 8 | [Honest](https://open.spotify.com/track/0RRjUxwGkevQ2Tbg0UFcYn) | [Montell2099](https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0) | [Honest](https://open.spotify.com/album/5DHsVZL9oM9aNwCAfpSMRZ) | 3:11 |
-| 9 | [Aries \- Mean Something 2 U](https://open.spotify.com/track/3TjRsLqcoVBaQyhVb8gHVl) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Z3LLA](https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02), [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg), [STARSIGNS](https://open.spotify.com/artist/4i6h8ZEK64FovE2EQCjMMZ) | [FIRE SIGNS](https://open.spotify.com/album/4dq7yzhWqzXfJDVVKfUW34) | 3:36 |
+| 9 | [Aries \(Mean Something 2 U\)](https://open.spotify.com/track/3TjRsLqcoVBaQyhVb8gHVl) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Z3LLA](https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02), [STARSIGNS](https://open.spotify.com/artist/4i6h8ZEK64FovE2EQCjMMZ), [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [FIRE SIGNS](https://open.spotify.com/album/4dq7yzhWqzXfJDVVKfUW34) | 3:36 |
 | 10 | [Feel \(Real Love\)](https://open.spotify.com/track/4PLv9pEMN70ZV3WJEgUsKI) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH) | [Feel \(Real Love\)](https://open.spotify.com/album/6hZzA8GiTJLtiN873lqUwt) | 2:41 |
 | 11 | [Let's Go Back](https://open.spotify.com/track/3fvZo45Y28ly1QBo05pujJ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Let's Go Back](https://open.spotify.com/album/7CRD6yQGeaAmA5AVXluBul) | 2:49 |
 | 12 | [Needed U](https://open.spotify.com/track/5Rt0FZGt2X4IJpo3yaxQNL) | [Conducta](https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn) | [Needed U](https://open.spotify.com/album/7ArFXlBxepiY5mYnMoYc6B) | 4:16 |

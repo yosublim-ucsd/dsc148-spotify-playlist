@@ -1,13 +1,37 @@
 {
-  "description": "The perfect mix of the latest pop hits! Follow this playlist and play Camilo &amp; Carin Leon &quot;Una Vida Pasada,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Shakira &amp; Cardi B &quot;Punter\u00eda,&quot;  Cover: Abraham Mateo",
-  "num_followers": 53655,
-  "original_name": "Top Latin Hits",
+  "description": "The perfect mix of the latest pop hits! Follow this playlist and play Camilo &amp; Carin Leon &quot;Una Vida Pasada,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Shakira &amp; Cardi B &quot;Punter\u00eda,&quot;  Cover: Arthur  Hanlon",
+  "num_followers": 53653,
+  "original_name": "Pop Latin Hits",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "AAASoRtbXkSAii9uM2x4ldCLG6Vw9lI0",
+  "snapshot_id": "AAASox2gWMaxoZLsKMA4dJ98dSN0yZu5",
   "tracks": [
+    {
+      "added_at": "2024-09-12 17:50:19",
+      "album": {
+        "name": "REPETIMOS",
+        "url": "https://open.spotify.com/album/7219pqifUvqNOYNsYtgoeD"
+      },
+      "artists": [
+        {
+          "name": "Arthur Hanlon",
+          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
+        },
+        {
+          "name": "Yotuel",
+          "url": "https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "REPETIMOS",
+      "url": "https://open.spotify.com/track/6fd06SYRA9Fj8oFUhiOFvh"
+    },
     {
       "added_at": "2024-09-06 15:58:57",
       "album": {
@@ -2445,6 +2469,6 @@
       "url": "https://open.spotify.com/track/6r0TaoZh1Oc1KkuL4rC1kB"
     }
   ],
-  "unique_name": "Top Latin Hits",
+  "unique_name": "Pop Latin Hits",
   "url": "https://open.spotify.com/playlist/3vWayw42WNrZX1NdMZBSgZ"
 }

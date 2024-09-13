@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Latest music from your fav I-Pop artists. Cover- Neha Kakkar & Shekhar Ravjiani",
+  "description": "Latest music from your fav I-Pop artists. Cover- Gurnazar",
   "name": "New Music Friday I-Pop ",
   "tracks": [
     {
@@ -338,6 +338,24 @@
       "duration_ms": 192230,
       "name": "Aaina",
       "url": "https://open.spotify.com/track/5BrvrAjXLTuh6dFMH0BrPl"
+    },
+    {
+      "album": {
+        "name": "Aaj Bhi 2",
+        "url": "https://open.spotify.com/album/5OYZCRHN3Dqe29yzFKr630"
+      },
+      "artists": [
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259056,
+      "name": "Aaj Bhi 2",
+      "url": "https://open.spotify.com/track/5Swyv8euhHEJu57t5qbGUs"
     },
     {
       "album": {
@@ -3012,6 +3030,32 @@
       "duration_ms": 252000,
       "name": "Barsai Badaria",
       "url": "https://open.spotify.com/track/2AA8EXOjB6XXlx02QBkEAB"
+    },
+    {
+      "album": {
+        "name": "Barsan",
+        "url": "https://open.spotify.com/album/534o0vBS7PLabpbbj5ZnGu"
+      },
+      "artists": [
+        {
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+        },
+        {
+          "name": "Nakul Chugh",
+          "url": "https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V"
+        },
+        {
+          "name": "Alok Ranjan Srivastava",
+          "url": "https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179777,
+      "name": "Barsan",
+      "url": "https://open.spotify.com/track/6jg2EEDFePBZNr19lHNSR8"
     },
     {
       "album": {
@@ -5904,7 +5948,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 359013,
       "name": "Dil Lage Naa",
       "url": "https://open.spotify.com/track/3JYH70LCF7ZjAoAsbF75tv"
@@ -7136,7 +7180,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 292439,
       "name": "F*CK WHAT THEY SAY",
       "url": "https://open.spotify.com/track/5FO0ye7LMqJPr4bjroUZ8i"
@@ -10194,6 +10238,28 @@
       "duration_ms": 253448,
       "name": "Jaage Re Jaage Naina",
       "url": "https://open.spotify.com/track/0p8xRufxxkLNASWYYGhXFe"
+    },
+    {
+      "album": {
+        "name": "Jaam",
+        "url": "https://open.spotify.com/album/2u4OlZI52Y1vu0pUr6YcJO"
+      },
+      "artists": [
+        {
+          "name": "Gurnazar",
+          "url": "https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W"
+        },
+        {
+          "name": "Chet Singh",
+          "url": "https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227142,
+      "name": "Jaam",
+      "url": "https://open.spotify.com/track/3gZNr53Usg9GVA1NqoNUP1"
     },
     {
       "album": {
@@ -17429,6 +17495,28 @@
     },
     {
       "album": {
+        "name": "Nazdeekiyan",
+        "url": "https://open.spotify.com/album/3slyxXFCyTBbwM0YLo3tsv"
+      },
+      "artists": [
+        {
+          "name": "Krsna Solo",
+          "url": "https://open.spotify.com/artist/1fn1zda146dVI8wNdqi9l6"
+        },
+        {
+          "name": "Prabhjee Kaur",
+          "url": "https://open.spotify.com/artist/4eCQSJiqQytxz4IJx0I7Bt"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Nazdeekiyan",
+      "url": "https://open.spotify.com/track/0ooh6BU5j8DMSZElRHDxja"
+    },
+    {
+      "album": {
         "name": "Nazdeekiyon Mein Bhi",
         "url": "https://open.spotify.com/album/5tjDcisSUE44CT2RMFqw5s"
       },
@@ -19278,7 +19366,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 265201,
       "name": "Raaz Keh Gaye",
       "url": "https://open.spotify.com/track/2XOXP3hSor8znselDEDnRC"
@@ -21644,7 +21732,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 149142,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/6GVYqMsa9Niic3cNrzIiOn"

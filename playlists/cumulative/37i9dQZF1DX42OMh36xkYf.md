@@ -2,9 +2,9 @@
 
 ### [IRIS](https://open.spotify.com/playlist/37i9dQZF1DX42OMh36xkYf)
 
-> Resonancias extraordinarias de luminiscencia inclasificable\. Con Elsa y Elmar en portada.
+> Resonancias extraordinarias de luminiscencia inclasificable\. Con Loyal Lobos en portada.
 
-157 songs - 8 hr 41 min
+158 songs - 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [LAS FURIAS // NOS MIRAN](https://open.spotify.com/track/696gS5v3M9ikaR7hx88UNh) | [MIEL](https://open.spotify.com/artist/7KQCUauVB5CLGrJwq2JoVd) | [MIEL](https://open.spotify.com/album/1OoKdq8qfZZSfANVp3cmGP) | 2:15 | 2023-10-20 | 2023-12-02 |
 | [Lejos](https://open.spotify.com/track/27ACuxbiIuu7BUW1av32i9) | [Cometa Sucre](https://open.spotify.com/artist/3kFFYxvTZaBCm0q04WPlqK) | [El Eco Eterno](https://open.spotify.com/album/5dIDiTOK58RdCmNc5DwlO5) | 3:07 | 2023-09-22 | 2023-11-11 |
 | [Ley universal](https://open.spotify.com/track/3dC9fYYyH5oGu8mQbcE8HQ) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Ley universal](https://open.spotify.com/album/0UoP5K4k5NrxoYmtG3z0XG) | 3:09 | 2024-04-26 |  |
+| [Limón](https://open.spotify.com/track/3Q9nmP7ACk4UG5Ld6D6sYd) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Limón](https://open.spotify.com/album/47VgL6B4zheqaAtnPd5MCo) | 2:27 | 2024-09-12 |  |
 | [LOCO](https://open.spotify.com/track/2sD6GDoVsa55ZN58dwKhrr) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [BELAMOR](https://open.spotify.com/album/6hdJeHwpdYLEZpMPLSKV22) | 3:43 | 2023-09-22 | 2023-10-28 |
 | [Los Lugares Más Bonitos](https://open.spotify.com/track/4slJEqinbznsUEVXQ6GeFW) | [Gonzalo Ávila](https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6), [José y el Toro](https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex) | [Los Lugares Más Bonitos](https://open.spotify.com/album/1jxXdXtX2trPeB1i32e0W5) | 2:38 | 2024-07-19 |  |
 | [Límites](https://open.spotify.com/track/3InU95w7uhcHOxXU9m1294) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Límites](https://open.spotify.com/album/66tUKjngOsWoJj7ccwktRD) | 3:30 | 2023-11-24 | 2024-03-02 |
@@ -109,7 +110,7 @@
 | [Never Be Yours](https://open.spotify.com/track/3cKnHNL40tqnmjXiv4FOlk) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Never Be Yours](https://open.spotify.com/album/3KWfY3MZ8PGDfjQSwqIxJF) | 3:16 | 2024-06-21 | 2024-08-03 |
 | [NINA](https://open.spotify.com/track/75D6ddFBgFvobY7niIcGSv) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K) | [NINA](https://open.spotify.com/album/4K6tYEEDctTzhjXwCXLCXv) | 4:59 | 2023-09-22 | 2023-12-02 |
 | [Niña De La Luna \(Killapa Llullu Warmi\)](https://open.spotify.com/track/7sqrr37MY2BPrlLGs1zKn2) | [Renata Flores](https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT) | [Niña De La Luna \(Killapa Llullu Warmi\)](https://open.spotify.com/album/0K0ewhAtQXotFCmaNwxtmx) | 2:47 | 2024-03-29 | 2024-04-13 |
-| [No es culpa tuya](https://open.spotify.com/track/0vHeN8JovVFOOSta12kaQM) | [yumhji](https://open.spotify.com/artist/1kZW1tP8aoEp0iWuMVbCqx) | [No es culpa tuya](https://open.spotify.com/album/5Gm2ELl1iV8Jk1Il4Zk1QV) | 2:40 | 2024-08-02 |  |
+| [No es culpa tuya](https://open.spotify.com/track/0vHeN8JovVFOOSta12kaQM) | [yumhji](https://open.spotify.com/artist/1kZW1tP8aoEp0iWuMVbCqx) | [No es culpa tuya](https://open.spotify.com/album/5Gm2ELl1iV8Jk1Il4Zk1QV) | 2:40 | 2024-08-02 | 2024-09-13 |
 | [No Me Dan Las Cuentas](https://open.spotify.com/track/5zfvXukZ4FrdNR7gEDScGw) | [Ceci Juno](https://open.spotify.com/artist/1ej99EpQv6okGltIakeNFu), [Pilar Cabrera](https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva) | [No Me Dan Las Cuentas](https://open.spotify.com/album/5D2lSTtk0P7OTtg4WuzJaE) | 3:55 | 2024-08-02 | 2024-08-31 |
 | [NO ME ESTÁS HACIENDO UN FAVOR](https://open.spotify.com/track/2WcPl9wtGox6EUla9BAW7W) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [2030](https://open.spotify.com/album/2BBBxM35Iz9XG9cARYDqlr) | 2:57 | 2023-09-22 |  |
 | [Nublado](https://open.spotify.com/track/41UbjFYSaghFjPo1tgywE6) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Nublado](https://open.spotify.com/album/1yCJX4nC3qogzGEv6a90kw) | 3:07 | 2023-09-22 | 2023-10-28 |

@@ -4,7 +4,7 @@
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: Herman van Veen
 
-173 songs - 10 hr 42 min
+174 songs - 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Dat heb jij gedaan](https://open.spotify.com/track/4wn7cO2iHlWueXGDd4gH9g) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Dat heb jij gedaan](https://open.spotify.com/album/1MwiN9zv6V9GWHdVPsR4Q1) | 3:31 | 2023-02-10 |  |
 | [De Clown](https://open.spotify.com/track/4R0i3XTr6ggZYWG14dVYDX) | [Ben Cramer](https://open.spotify.com/artist/6ZGYLlgUagyNo2UXDTHU1U) | [De Singles](https://open.spotify.com/album/4uI1vbFZyvWlw8xCi0QdY1) | 3:48 | 2023-02-10 | 2023-03-18 |
 | [De halve wereld](https://open.spotify.com/track/1FcoAGOdvv956IkeU61508) | [Pieter Derks](https://open.spotify.com/artist/4JwlHUgIACGdCcQ3lPZTJr) | [De halve wereld](https://open.spotify.com/album/3xBYi7bVVeZvFonx2DThMx) | 3:39 | 2023-02-10 | 2023-04-21 |
+| [De Lucht Is Van Iedereen](https://open.spotify.com/track/1Xyk4wxYztTaLecw1VE9mR) | [Judith Agaath](https://open.spotify.com/artist/0ndMUxZdOrcswYg4RbcxWM) | [De Lucht Is Van Iedereen](https://open.spotify.com/album/3VVl5laRKmRBnYmgC33iBP) | 3:40 | 2024-09-12 |  |
 | [De Onmogelijke Droom](https://open.spotify.com/track/7AnoFzddDc7yIPVQXHlQDT) | [Huub van der Lubbe](https://open.spotify.com/artist/7qMqhA9SZ3pn72ZBhuQhXv) | [De Onmogelijke Droom](https://open.spotify.com/album/7iIOnP2PMi5EmvblGkPcem) | 2:36 | 2023-12-05 |  |
 | [De Rode Lantaarn](https://open.spotify.com/track/3U0oADxG7q6tz6wL50z8id) | [Leo Alkemade](https://open.spotify.com/artist/0dhYbvBvHUyhMTeoqwvus1) | [De Rode Lantaarn](https://open.spotify.com/album/3338PvHA8HekixIqIGbcRD) | 2:55 | 2023-02-10 | 2023-04-21 |
 | [De steen](https://open.spotify.com/track/0C6fXVxj0nPqjkp59RpDjm) | [Bram Vermeulen](https://open.spotify.com/artist/4ymKPNzHwzhCvJbOGWLviV) | [Voltooid Verleden Tijd](https://open.spotify.com/album/7qYL5WgJIzwEYCZszBG5vO) | 4:23 | 2023-02-10 |  |
@@ -131,7 +132,7 @@
 | [Onderwater](https://open.spotify.com/track/208q1Mqq8Y9Sbn5o88qaBC) | [Merle](https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0) | [Onderwater](https://open.spotify.com/album/5tTBQdqzBW0s3uA4pWzf55) | 3:01 | 2023-11-09 |  |
 | [Ongeveer](https://open.spotify.com/track/197PHOBtgwBTSky9oye0u9) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Het Is](https://open.spotify.com/album/1Yc0HbRlIZwaOY9jGpxMY5) | 4:41 | 2023-02-10 | 2023-11-11 |
 | [Ons huis](https://open.spotify.com/track/60gmU9gSmU41iszHNh4GZO) | [Tess Merlot](https://open.spotify.com/artist/4o289mGagoNKNbEJhQuoGP) | [Ons huis](https://open.spotify.com/album/3HRExOCSuLAwYNs7g7gfnT) | 4:17 | 2023-02-10 |  |
-| [Op De Golven Dansen Wij](https://open.spotify.com/track/6berCqnYACzx2FPxRWNLLF) | [Van Dik Hout](https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo) | [Op De Golven Dansen Wij](https://open.spotify.com/album/2TMDybox8xa21ydtLm9Bsn) | 3:03 | 2023-02-10 |  |
+| [Op De Golven Dansen Wij](https://open.spotify.com/track/6berCqnYACzx2FPxRWNLLF) | [Van Dik Hout](https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo) | [Op De Golven Dansen Wij](https://open.spotify.com/album/2TMDybox8xa21ydtLm9Bsn) | 3:03 | 2023-02-10 | 2024-09-13 |
 | [Oude Maasweg](https://open.spotify.com/track/0rY0wiJbmpy42X0EUtgkd6) | [The Amazing Stroopwafels](https://open.spotify.com/artist/4j32y3UVJaypInH9lOKcZ4) | [Badmuts Verplicht](https://open.spotify.com/album/3hiFSfbf6VOf0EfTEUvhem) | 3:25 | 2023-02-10 |  |
 | [Over De Muur](https://open.spotify.com/track/5rAG0XusRfyLrzYV7A7lBL) | [Klein Orkest](https://open.spotify.com/artist/2jtIQ2r2x8P4I23sIDDL3n) | [Het Beste Van Klein Orkest](https://open.spotify.com/album/4s3BG8LwbkOcQ5ktxjt5wf) | 3:29 | 2023-02-10 |  |
 | [Papa](https://open.spotify.com/track/6NP6BCW2M2I4vdcnXMAvjl) | [Stef Bos](https://open.spotify.com/artist/4Rw9pvzG1NLs1RbB8cxBfW) | [Is Dit Nu Later](https://open.spotify.com/album/40pPse6bXBsVtjk8JJmovD) | 3:13 | 2023-02-10 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,695 songs - 3 day 19 hr 8 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,696 songs - 3 day 19 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1703,5 +1703,6 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1693 | [Going Under](https://open.spotify.com/track/4yryIvRSVK41pRW8M4p8Yc) | [Dvastate](https://open.spotify.com/artist/1xMkzNWui7gg9TrYMto6VN), [Daniel Brooke](https://open.spotify.com/artist/5CPFsBS5qmG2TqWfVWnguA) | [Going Under](https://open.spotify.com/album/6qtYf8Tb3lReHjvXZPVVtb) | 2:43 |
 | 1694 | [Give Me a Feel](https://open.spotify.com/track/1Uky1CNhWrQTUmZsCe30Tq) | [Sghenny](https://open.spotify.com/artist/4ciy3r7f8nrBKoLZsJ6oVY) | [Give Me a Feel](https://open.spotify.com/album/3vIC8MEOYs0LUeaZiSn8rA) | 2:45 |
 | 1695 | [The Night](https://open.spotify.com/track/3jAWf9hMSgXE6t0Zzn6RYd) | [Abaddon](https://open.spotify.com/artist/3ujI46PHi7vombfnkjM8C3) | [The Night](https://open.spotify.com/album/42KHAOgMB93IRU2bY9GBjz) | 3:03 |
+| 1696 | [GOLDEN SZN \(Riot Shift Remix\)](https://open.spotify.com/track/6DYjctNg1pAaWa1pSE4Zxw) | [OGUZ](https://open.spotify.com/artist/2n6aFLFLpEBs61Kfy5EX5v), [Riot Shift](https://open.spotify.com/artist/5J3RIw3YwgyXeosItjR9GY), [Nyctonian](https://open.spotify.com/artist/7LexKs9s1tG7Ktkd7lMHBp) | [GOLDEN SZN \(Riot Shift Remix\)](https://open.spotify.com/album/0EyijD0O40lKnTXuxMuDbw) | 2:16 |
 
-Snapshot ID: `AAAGzJb+7Xv8vttWqZIPQWiZoW39wyF1`
+Snapshot ID: `AAAGzW/yWoZkIafBza8F9BkiWVxkYUZB`

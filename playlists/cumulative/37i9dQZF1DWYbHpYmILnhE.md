@@ -4,7 +4,7 @@
 
 > Drilling through Naij\. Cover: Psycho YP
 
-71 songs - 3 hr 13 min
+72 songs - 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,8 +16,9 @@
 | [Bando Diaries](https://open.spotify.com/track/3T27JFvKbp3btufldaKOUU) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [YPSZN3](https://open.spotify.com/album/18fTwvrwISUL4KJiap0Ekp) | 2:38 | 2024-06-28 |  |
 | [Blessings](https://open.spotify.com/track/6brVEF4Ru3xosD8F6zYJXY) | [Kayode](https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [STILL FIGURING LIFE](https://open.spotify.com/album/3lnimhNmAuy3FzBkCiVfT9) | 2:41 | 2024-06-28 |  |
 | [Breaking News](https://open.spotify.com/track/1VHi0TCyl8zcNiPVlXixnP) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Evil Twin](https://open.spotify.com/album/0WlGmF3vsB5mLoYdnvlMTo) | 2:32 | 2024-06-28 |  |
+| [Brothers](https://open.spotify.com/track/19JlNGPLF53t7akcgJrtYW) | [PaBrymo](https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Brothers](https://open.spotify.com/album/7jblLF62kdZvVYFj9ZP4Zk) | 2:24 | 2024-09-13 |  |
 | [Champagne Showers](https://open.spotify.com/track/6sznXlT9DnNxuN9JPgwxcE) | [PaBrymo](https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk), [Psychoyp](https://open.spotify.com/artist/0zXL9AbkRZtWXFFufCX8X6) | [Never Stop Vol\. 1](https://open.spotify.com/album/45fYE42AOHnBxsOFcKSoxw) | 2:32 | 2024-06-28 |  |
-| [Demons & Angels](https://open.spotify.com/track/67GWgzQyDPXRSt8PcodrG4) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [Demons & Angels](https://open.spotify.com/album/1Mbqe3atwMxu9DKRzawdbr) | 3:01 | 2024-06-28 |  |
+| [Demons & Angels](https://open.spotify.com/track/67GWgzQyDPXRSt8PcodrG4) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [Demons & Angels](https://open.spotify.com/album/1Mbqe3atwMxu9DKRzawdbr) | 3:01 | 2024-06-28 | 2024-09-13 |
 | [Disintegrate](https://open.spotify.com/track/0YUs0EG2U7OYjPqRQxFmJ9) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Evil Twin](https://open.spotify.com/album/0WlGmF3vsB5mLoYdnvlMTo) | 2:29 | 2024-06-28 |  |
 | [Drip Check](https://open.spotify.com/track/2ienTom7OQzZ4Ejfur3QJb) | [Sheye Banks](https://open.spotify.com/artist/00LOJMXU6GdbTX8cA0RvJr) | [Drip Check \- Original Motion Picture Soundtrack](https://open.spotify.com/album/6wZAQhyso6laiIvWHdUz55) | 2:19 | 2024-06-28 |  |
 | [Egberi](https://open.spotify.com/track/1pt9MqNMJQUHtdTwaswwwR) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50) | [Egberi](https://open.spotify.com/album/3sL4tYNg9xEmoL5uX5M1RP) | 2:19 | 2024-06-28 |  |

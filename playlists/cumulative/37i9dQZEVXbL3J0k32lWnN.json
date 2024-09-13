@@ -24913,6 +24913,28 @@
     },
     {
       "album": {
+        "name": "Rick Ross Pt. 2",
+        "url": "https://open.spotify.com/album/1G8rjqtorUe1U5olgSBXXE"
+      },
+      "artists": [
+        {
+          "name": "Medina",
+          "url": "https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF"
+        },
+        {
+          "name": "Tessa",
+          "url": "https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138147,
+      "name": "Rick Ross Pt. 2",
+      "url": "https://open.spotify.com/track/6uIVBE5DHG3szAnaOyvf3l"
+    },
+    {
+      "album": {
         "name": "Rider",
         "url": "https://open.spotify.com/album/4KPEUgcr7SLXtrbp0ZsDYw"
       },
@@ -30246,7 +30268,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C"

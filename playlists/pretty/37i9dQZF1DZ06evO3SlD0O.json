@@ -1,12 +1,12 @@
 {
-  "description": "This Is Los Traileros Del Norte. Los temas esenciales, todos en una lista.",
-  "num_followers": 25560,
+  "description": "This is Los Traileros Del Norte. The essential tracks, all in one playlist.",
+  "num_followers": 25567,
   "original_name": "This Is Los Traileros Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zt+MAAAAAAB7Xxpspfb2bo4He6SNBH9C",
+  "snapshot_id": "ZuDdgAAAAACL8L1OXzCrgCSNFe65WVfy",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rosas Blancas",
-        "url": "https://open.spotify.com/album/6K3skX1EmX7Dn56MjhnuC8"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Rosas Blancas",
-      "url": "https://open.spotify.com/track/5TJaE686PQ1CA1qvQuo8Fn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ni Tu Amigo Ni Tu Amante",
         "url": "https://open.spotify.com/album/71FVSUhY9SHjYXYr0DePhJ"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 159146,
       "name": "Ni Tu Amigo Ni Tu Amante",
       "url": "https://open.spotify.com/track/2SeZ4jqXC5gFGaMrIDJOr2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rosas Blancas",
+        "url": "https://open.spotify.com/album/6K3skX1EmX7Dn56MjhnuC8"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Rosas Blancas",
+      "url": "https://open.spotify.com/track/5TJaE686PQ1CA1qvQuo8Fn"
     },
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Abeja Reina (Cl\u00e1sicos Digitalizados)",
-        "url": "https://open.spotify.com/album/6BnRsg4J1Y3HQsJlcrwEZi"
+        "name": "Las M\u00e1s Pedidas, Vol. 1",
+        "url": "https://open.spotify.com/album/1mCM2OJg5uXplzjs9cDTGK"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
         }
       ],
-      "duration_ms": 186586,
-      "name": "Toco Madera",
-      "url": "https://open.spotify.com/track/2qyQTvoprTG6xk05FCtRt7"
+      "duration_ms": 161625,
+      "name": "No Le Hace Que Le Aunque",
+      "url": "https://open.spotify.com/track/0ve58bCVhU6a1BDwsJOEvg"
     },
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las M\u00e1s Pedidas, Vol. 1",
-        "url": "https://open.spotify.com/album/1mCM2OJg5uXplzjs9cDTGK"
+        "name": "Abeja Reina (Cl\u00e1sicos Digitalizados)",
+        "url": "https://open.spotify.com/album/6BnRsg4J1Y3HQsJlcrwEZi"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
         }
       ],
-      "duration_ms": 161625,
-      "name": "No Le Hace Que Le Aunque",
-      "url": "https://open.spotify.com/track/0ve58bCVhU6a1BDwsJOEvg"
+      "duration_ms": 186586,
+      "name": "Toco Madera",
+      "url": "https://open.spotify.com/track/2qyQTvoprTG6xk05FCtRt7"
     },
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Abeja Reina (Cl\u00e1sicos Digitalizados)",
-        "url": "https://open.spotify.com/album/6BnRsg4J1Y3HQsJlcrwEZi"
+        "name": "Ni Tu Amigo Ni Tu Amante",
+        "url": "https://open.spotify.com/album/71FVSUhY9SHjYXYr0DePhJ"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
         }
       ],
-      "duration_ms": 200360,
-      "name": "En La Esquina",
-      "url": "https://open.spotify.com/track/5e2kTy5xWpEfOAFRyLKX7M"
+      "duration_ms": 166773,
+      "name": "Se Burlaron Mis Amigos",
+      "url": "https://open.spotify.com/track/4U3s9W6mUbWHSZqYrXdEUv"
     },
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ni Tu Amigo Ni Tu Amante",
-        "url": "https://open.spotify.com/album/71FVSUhY9SHjYXYr0DePhJ"
+        "name": "Abeja Reina (Cl\u00e1sicos Digitalizados)",
+        "url": "https://open.spotify.com/album/6BnRsg4J1Y3HQsJlcrwEZi"
       },
       "artists": [
         {
@@ -340,25 +340,9 @@
           "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
         }
       ],
-      "duration_ms": 166773,
-      "name": "Se Burlaron Mis Amigos",
-      "url": "https://open.spotify.com/track/4U3s9W6mUbWHSZqYrXdEUv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos De Mi Tierra",
-        "url": "https://open.spotify.com/album/0raXaTso2qdOhLbiopH14V"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 217040,
-      "name": "El Corrido De Amado Carrillo",
-      "url": "https://open.spotify.com/track/0XPviPLJvtGHBuSALz9NPY"
+      "duration_ms": 200360,
+      "name": "En La Esquina",
+      "url": "https://open.spotify.com/track/5e2kTy5xWpEfOAFRyLKX7M"
     },
     {
       "added_at": null,
@@ -379,6 +363,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corridos De Mi Tierra",
+        "url": "https://open.spotify.com/album/0raXaTso2qdOhLbiopH14V"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 217040,
+      "name": "El Corrido De Amado Carrillo",
+      "url": "https://open.spotify.com/track/0XPviPLJvtGHBuSALz9NPY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Apartamento Tres",
         "url": "https://open.spotify.com/album/1axHtpxjBiwMIxjm6AyzRR"
       },
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rosas Blancas",
-        "url": "https://open.spotify.com/album/6K3skX1EmX7Dn56MjhnuC8"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 140973,
-      "name": "Solo Y Triste",
-      "url": "https://open.spotify.com/track/2GNsqriWKJlqCaMCvfTW9H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ni Tu Amigo Ni Tu Amante",
         "url": "https://open.spotify.com/album/71FVSUhY9SHjYXYr0DePhJ"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 153240,
       "name": "Mi Sacrificio",
       "url": "https://open.spotify.com/track/2uUK1y1A53rggDtfqZ1AQ0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rosas Blancas",
+        "url": "https://open.spotify.com/album/6K3skX1EmX7Dn56MjhnuC8"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 140973,
+      "name": "Solo Y Triste",
+      "url": "https://open.spotify.com/track/2GNsqriWKJlqCaMCvfTW9H"
     },
     {
       "added_at": null,
@@ -780,25 +780,9 @@
           "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
         }
       ],
-      "duration_ms": 166373,
-      "name": "Una Noche No",
-      "url": "https://open.spotify.com/track/2lDBDJRUX5OdpzFG0jSmUu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Como Decirte",
-        "url": "https://open.spotify.com/album/3zMm3HTIhFivAyQOSHjfYy"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 168560,
-      "name": "Ven",
-      "url": "https://open.spotify.com/track/1yUMetUWBf8xoh8XBa4PZm"
+      "duration_ms": 154933,
+      "name": "Voy A Tratar De Olvidarte",
+      "url": "https://open.spotify.com/track/47nUD9V3Hlbt3HEAO5rcdQ"
     },
     {
       "added_at": null,
@@ -815,6 +799,22 @@
       "duration_ms": 188120,
       "name": "No Te Paniquees",
       "url": "https://open.spotify.com/track/43fnr1Cv19VCF8YKrU6Wsv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como Decirte",
+        "url": "https://open.spotify.com/album/3zMm3HTIhFivAyQOSHjfYy"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 168560,
+      "name": "Ven",
+      "url": "https://open.spotify.com/track/1yUMetUWBf8xoh8XBa4PZm"
     }
   ],
   "unique_name": "This Is Los Traileros Del Norte",

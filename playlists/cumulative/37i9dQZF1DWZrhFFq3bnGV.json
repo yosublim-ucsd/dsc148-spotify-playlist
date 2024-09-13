@@ -3475,6 +3475,28 @@
     },
     {
       "album": {
+        "name": "Satu Dunia",
+        "url": "https://open.spotify.com/album/32jtPwoLQuehtlWkBKa6pC"
+      },
+      "artists": [
+        {
+          "name": "Avalokiteshvara",
+          "url": "https://open.spotify.com/artist/5maaciTj4rHBn2xOGxcPM2"
+        },
+        {
+          "name": "Tanya Ditaputri",
+          "url": "https://open.spotify.com/artist/48ucHKspMenY9DgUjCVbdb"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221308,
+      "name": "Satu Dunia",
+      "url": "https://open.spotify.com/track/3JwN2rU6xyirTUUyAx1dqj"
+    },
+    {
+      "album": {
         "name": "Sekuntum Rindu",
         "url": "https://open.spotify.com/album/4cKMXcCcRFWMuq17Fa4BG0"
       },

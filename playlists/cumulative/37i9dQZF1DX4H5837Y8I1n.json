@@ -1442,7 +1442,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 292000,
       "name": "Raavanaasura",
       "url": "https://open.spotify.com/track/46FEqrd3hdzL7kS3XR34aD"
@@ -1486,6 +1486,24 @@
       "duration_ms": 210951,
       "name": "Race Gurram",
       "url": "https://open.spotify.com/track/2WrOgEBYljzOgYjgUpQkxw"
+    },
+    {
+      "album": {
+        "name": "Red Sea (From \"Devara Part 1\")",
+        "url": "https://open.spotify.com/album/5FqTXCya4oO6is24rhWDBg"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162043,
+      "name": "Red Sea (From \"Devara Part 1\")",
+      "url": "https://open.spotify.com/track/75IywzsrO67PjCrFHnA9tb"
     },
     {
       "album": {

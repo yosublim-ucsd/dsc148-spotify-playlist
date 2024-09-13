@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 
 ### [This Is Cynthia Luz](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0reIgs)
 
-> This is Cynthia Luz\. The essential tracks, all in one playlist.
+> This is Cynthia Luz\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,482 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,483 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 | 19 | [No Mundo da Lua / Abraço](https://open.spotify.com/track/2KyjaRrklvkqdIGUEJSGto) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [No Mundo da Lua / Abraço](https://open.spotify.com/album/37nOw9dRbFcZIftIN1b4P0) | 5:38 |
 | 20 | [Inverno](https://open.spotify.com/track/0yzMbAtm2RKslDyKNkOViZ) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Oxigênio \(Corona Disco\)](https://open.spotify.com/album/7K4Sn0GxfcQnlcV46ZOaT2) | 4:00 |
 | 21 | [Deixa Ela](https://open.spotify.com/track/6Ko0LtUSamxOleNdwcM5DL) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII) | [Do Caos ao Nirvana](https://open.spotify.com/album/6N88vAiBfbbyjNm2JRgE43) | 3:58 |
-| 22 | [Garota](https://open.spotify.com/track/6ripdgnZJ8hGfVO6jp5ISV) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Teoria do Ciclo da Água](https://open.spotify.com/album/2G0mpuNuqGqCmwuZokY4x5) | 4:35 |
-| 23 | [As 25 Horas de Le Mans](https://open.spotify.com/track/4I5M8Y32OkiQ3YIakP0HTN) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [As 25 Horas de Le Mans](https://open.spotify.com/album/0bH3nq5jLOk2PwSqUA3A5Z) | 3:14 |
+| 22 | [As 25 Horas de Le Mans](https://open.spotify.com/track/4I5M8Y32OkiQ3YIakP0HTN) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [As 25 Horas de Le Mans](https://open.spotify.com/album/0bH3nq5jLOk2PwSqUA3A5Z) | 3:14 |
+| 23 | [Garota](https://open.spotify.com/track/6ripdgnZJ8hGfVO6jp5ISV) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Teoria do Ciclo da Água](https://open.spotify.com/album/2G0mpuNuqGqCmwuZokY4x5) | 4:35 |
 | 24 | [Sorria \(Faixa Bônus\) \- Ao Vivo](https://open.spotify.com/track/7gf10dQJDlAwOcezGQkLMi) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Marcelo Falcão](https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr) | [Não é Só Isso \(Ao Vivo\)](https://open.spotify.com/album/7lrkQh5Pu4778kx6sx6Yll) | 4:39 |
 | 25 | [Poesia Acústica Ep\. Jeri](https://open.spotify.com/track/4tnMSnDkcMj43ovIXIwdMi) | [Menestrel](https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [JayA Luuck](https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Poesia Acústica Ep\. Jeri](https://open.spotify.com/album/1MgfsdHI8sIaBcw97NhwBi) | 4:22 |
 | 26 | [A Culpa É Minha](https://open.spotify.com/track/5eMlIxqhVlYkmQo24csFUR) | [Matheusinho](https://open.spotify.com/artist/7a44CZgtFWpgACFj2G56JX), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [A Culpa É Minha](https://open.spotify.com/album/3m4DBImxvg7UHFGL34BAmO) | 3:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 | 49 | [Bom Te Encontrar](https://open.spotify.com/track/0NFW6UfBWkgpNpsWeDOk1I) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [NOX](https://open.spotify.com/artist/3F6j9XVtOIZaGCJAGNxOXO) | [Ciclo Vicioso](https://open.spotify.com/album/5NN6jAsZ5ePXElnkk3gCuJ) | 2:49 |
 | 50 | [No Cais](https://open.spotify.com/track/2iFG2rANNj7cbebbhKqAv3) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Do Caos ao Nirvana](https://open.spotify.com/album/6N88vAiBfbbyjNm2JRgE43) | 3:28 |
 
-Snapshot ID: `Zt+MAAAAAAD9mDADmJE/issck82pIfln`
+Snapshot ID: `ZuDdgAAAAAAZy/yj0w4fBd8cqpgyAGTK`

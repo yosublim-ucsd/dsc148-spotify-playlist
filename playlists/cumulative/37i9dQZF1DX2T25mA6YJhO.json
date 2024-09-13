@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Hinds.",
+  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Arde Bogot\u00e1.",
   "name": "Rock 2024",
   "tracks": [
+    {
+      "album": {
+        "name": "1 wasap",
+        "url": "https://open.spotify.com/album/3lyjPH7nxCqadApjxnmQr8"
+      },
+      "artists": [
+        {
+          "name": "arrec\u00ed0",
+          "url": "https://open.spotify.com/artist/7q8u6C6inUWxNOA4ZPPxHT"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180581,
+      "name": "1 wasap",
+      "url": "https://open.spotify.com/track/6OvnWc6lKWBSp5Tk1RDCTh"
+    },
     {
       "album": {
         "name": "5 MESES",
@@ -20,6 +38,24 @@
       "duration_ms": 191428,
       "name": "5 meses",
       "url": "https://open.spotify.com/track/2yNYMqWDnZ6Z8cvE1H5D8o"
+    },
+    {
+      "album": {
+        "name": "Plaza patines",
+        "url": "https://open.spotify.com/album/1Z3X0sHBk9tZClCS3yc3NE"
+      },
+      "artists": [
+        {
+          "name": "Go Cactus",
+          "url": "https://open.spotify.com/artist/73Xp0FH6ZuSdhEcq5kcXbE"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199797,
+      "name": "6 AM",
+      "url": "https://open.spotify.com/track/2O9IemDWvMSVmBnhjX3zxe"
     },
     {
       "album": {
@@ -52,7 +88,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 208862,
       "name": "agosto",
       "url": "https://open.spotify.com/track/2rMCjGUXkg9eyweQPcwvRX"
@@ -132,6 +168,24 @@
       "duration_ms": 222040,
       "name": "Amanecer Gal\u00e1ctico",
       "url": "https://open.spotify.com/track/2K2nuQlPhZOwRkkoz6Vbqc"
+    },
+    {
+      "album": {
+        "name": "Entre Amores y Errores",
+        "url": "https://open.spotify.com/album/071E2UPxi3oZfLm9vHTxpc"
+      },
+      "artists": [
+        {
+          "name": "Karavana",
+          "url": "https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165197,
+      "name": "Amores y Errores",
+      "url": "https://open.spotify.com/track/0m9HSvl7fLvBxNPDSFTW2D"
     },
     {
       "album": {
@@ -745,6 +799,24 @@
     },
     {
       "album": {
+        "name": "Fake Glasses",
+        "url": "https://open.spotify.com/album/5XB41iVD4AhapPg77W0tQs"
+      },
+      "artists": [
+        {
+          "name": "San Tosielo",
+          "url": "https://open.spotify.com/artist/1Vp0zKCF6r1aut8Emx7CHH"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163840,
+      "name": "Fake Glasses",
+      "url": "https://open.spotify.com/track/7IwbzcK6oZz2UGXE2TaP1s"
+    },
+    {
+      "album": {
         "name": "Fantasma",
         "url": "https://open.spotify.com/album/5GVjWzf8rgSXBafLaqavPl"
       },
@@ -876,7 +948,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 242529,
       "name": "Fuera De Lugar",
       "url": "https://open.spotify.com/track/5ep0F3gWVy96PVpp4hf8SA"
@@ -934,7 +1006,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 234542,
       "name": "Hodeiak",
       "url": "https://open.spotify.com/track/4R2qpsnBHA9vE5JmbMgHhx"
@@ -1006,7 +1078,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 181000,
       "name": "La Bachata",
       "url": "https://open.spotify.com/track/2EUqLIfO9fhqb6RCWNIj8B"
@@ -1162,6 +1234,24 @@
       "duration_ms": 263942,
       "name": "La Salvaci\u00f3n",
       "url": "https://open.spotify.com/track/0txzIz1WcoAn6m07xypcD5"
+    },
+    {
+      "album": {
+        "name": "La Torre Picasso",
+        "url": "https://open.spotify.com/album/090Jo9iBjpgrcBwezLFTYq"
+      },
+      "artists": [
+        {
+          "name": "Arde Bogot\u00e1",
+          "url": "https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 484573,
+      "name": "La Torre Picasso",
+      "url": "https://open.spotify.com/track/2Czaw41IWZLz5JxwLueamL"
     },
     {
       "album": {
@@ -1534,7 +1624,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 168000,
       "name": "Mi vecino",
       "url": "https://open.spotify.com/track/0HCDbkncaw8CJ4ZGXDGKX7"
@@ -1614,6 +1704,24 @@
       "duration_ms": 183265,
       "name": "No me devuelvas la palabra",
       "url": "https://open.spotify.com/track/7eMijKUlibThL46o6e2fPf"
+    },
+    {
+      "album": {
+        "name": "No Me Voy a Vengar",
+        "url": "https://open.spotify.com/album/3L9koFmgZUL2BW17jt6Zy2"
+      },
+      "artists": [
+        {
+          "name": "Los Bengala",
+          "url": "https://open.spotify.com/artist/5aaHaDy8RxAsa3S0SB8pxW"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178394,
+      "name": "No Me Voy a Vengar",
+      "url": "https://open.spotify.com/track/1eNhxuRrDUB5B1cK8hpX4T"
     },
     {
       "album": {
@@ -2094,7 +2202,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 235001,
       "name": "Recibe lo que hay en m\u00ed (que eres t\u00fa)",
       "url": "https://open.spotify.com/track/7nscz2qQM4pUj9x3MrHruV"
@@ -2808,7 +2916,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 160925,
       "name": "Yinkana",
       "url": "https://open.spotify.com/track/49KGVbbnsPXGo2BwfCohba"
@@ -2834,6 +2942,24 @@
       "duration_ms": 206099,
       "name": "Yo pensaba que me hab\u00eda tocado Dios",
       "url": "https://open.spotify.com/track/0vF9TaEJHO0Zm1ejF7AGC0"
+    },
+    {
+      "album": {
+        "name": "\u00a1Que te pares!",
+        "url": "https://open.spotify.com/album/06EOLh4l8Omuj5Rotc1jB4"
+      },
+      "artists": [
+        {
+          "name": "Parquesvr",
+          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193754,
+      "name": "\u00a1Que te pares!",
+      "url": "https://open.spotify.com/track/53E90T5TUDZ8nO3T0bYZE9"
     },
     {
       "album": {

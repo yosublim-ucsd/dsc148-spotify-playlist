@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the Afro scene. Cover: CKay",
+  "description": "Tracks popping off in the Afro scene. Cover: Bayanni",
   "name": "Afro Station",
   "tracks": [
     {
@@ -630,7 +630,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 148225,
       "name": "AZAMAN",
       "url": "https://open.spotify.com/track/4K5lYtD8r6OFRbzWc6MwCS"
@@ -1680,7 +1680,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 212307,
       "name": "Comment \u00e7a va ?",
       "url": "https://open.spotify.com/track/3hRKgaVHrMsFzMw1rnoFa9"
@@ -1924,7 +1924,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 125042,
       "name": "C\u2019est toi (Kk Yo)",
       "url": "https://open.spotify.com/track/2GXEKAHru6xQ5CTwYlL9jr"
@@ -2510,6 +2510,36 @@
       "duration_ms": 147174,
       "name": "Do You Mind?",
       "url": "https://open.spotify.com/track/6gYHfdySsN4Hqvr4f0g3BX"
+    },
+    {
+      "album": {
+        "name": "Don't",
+        "url": "https://open.spotify.com/album/7viWe4pQ7XpLMFUJNQ3wtv"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        },
+        {
+          "name": "SO7ACE",
+          "url": "https://open.spotify.com/artist/4ibCJiC5KbRm8hhmaXRkIU"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Issairo",
+          "url": "https://open.spotify.com/artist/5plDUJR66Vb8TYzXu9L1YV"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173621,
+      "name": "Don't",
+      "url": "https://open.spotify.com/track/3WEbhtkGe986Nuw6hnq4VR"
     },
     {
       "album": {
@@ -3165,6 +3195,32 @@
     },
     {
       "album": {
+        "name": "Faut Laisser",
+        "url": "https://open.spotify.com/album/0EPhwCg3CMx2Rns8CGhK63"
+      },
+      "artists": [
+        {
+          "name": "Jogga",
+          "url": "https://open.spotify.com/artist/6kByPyGr60aeCsb8TGOWav"
+        },
+        {
+          "name": "wilsko",
+          "url": "https://open.spotify.com/artist/1d38UPGn8PJ9XekumcIBha"
+        },
+        {
+          "name": "Iselena",
+          "url": "https://open.spotify.com/artist/3WGPnBwubp4ERQFAQIEium"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189946,
+      "name": "Faut Laisser",
+      "url": "https://open.spotify.com/track/68KFMTkExnHFRodyHqnOEv"
+    },
+    {
+      "album": {
         "name": "Favourite Story",
         "url": "https://open.spotify.com/album/1UsBck38wVdc89TUPsMluC"
       },
@@ -3426,6 +3482,28 @@
       "duration_ms": 174213,
       "name": "Forgive Me",
       "url": "https://open.spotify.com/track/6S2nSU6FmY2xCJFkh1lHER"
+    },
+    {
+      "album": {
+        "name": "Foutaise",
+        "url": "https://open.spotify.com/album/77KZ2KVZCcFKnTymB1Cwpn"
+      },
+      "artists": [
+        {
+          "name": "Ga\u00eblle",
+          "url": "https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw"
+        },
+        {
+          "name": "Fresh",
+          "url": "https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140242,
+      "name": "Foutaise",
+      "url": "https://open.spotify.com/track/1DGftqE1YlsVHcG0XbTy59"
     },
     {
       "album": {
@@ -4495,6 +4573,24 @@
     },
     {
       "album": {
+        "name": "Liberian Boy",
+        "url": "https://open.spotify.com/album/1l1ZbJu5nz1CQXK3DwcOnc"
+      },
+      "artists": [
+        {
+          "name": "JZyNo",
+          "url": "https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161416,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/4xoWfwadlc6X4MxzL0gXM2"
+    },
+    {
+      "album": {
         "name": "Elements",
         "url": "https://open.spotify.com/album/7l478mo7VlYpgFVUJeZBCm"
       },
@@ -4710,7 +4806,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 113289,
       "name": "Kodiafa",
       "url": "https://open.spotify.com/track/382wfoXQMhEzrXUuRS5K12"
@@ -4932,6 +5028,24 @@
       "duration_ms": 172342,
       "name": "Last Last",
       "url": "https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh"
+    },
+    {
+      "album": {
+        "name": "Le succ\u00e8s",
+        "url": "https://open.spotify.com/album/74UM8JnROs7TFZ6Vk74PYN"
+      },
+      "artists": [
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208484,
+      "name": "Le succ\u00e8s",
+      "url": "https://open.spotify.com/track/0K6Uy7IgLObIJRrsSna6wm"
     },
     {
       "album": {
@@ -5879,6 +5993,32 @@
     },
     {
       "album": {
+        "name": "Minimum",
+        "url": "https://open.spotify.com/album/6Z2aAZ6NgYDBYwAyZdeW9c"
+      },
+      "artists": [
+        {
+          "name": "Youka",
+          "url": "https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6"
+        },
+        {
+          "name": "Agis ou R\u00eave",
+          "url": "https://open.spotify.com/artist/2orsIwfNhcubub42sK74uP"
+        },
+        {
+          "name": "Kany",
+          "url": "https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166928,
+      "name": "Minimum",
+      "url": "https://open.spotify.com/track/1LLjcUP5pUuX3v8yosHKYy"
+    },
+    {
+      "album": {
         "name": "Miss Des Miss",
         "url": "https://open.spotify.com/album/2JHZlpiaErSIdrv69sEt2S"
       },
@@ -6010,7 +6150,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 177931,
       "name": "Mood (feat. Khaid)",
       "url": "https://open.spotify.com/track/7tG4123A00GMjBqFRrblMT"
@@ -6104,7 +6244,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 140367,
       "name": "Moving",
       "url": "https://open.spotify.com/track/2YNLzBRGyCAzHEGPO3J2Sb"
@@ -6789,6 +6929,28 @@
     },
     {
       "album": {
+        "name": "Welcome To The Pack",
+        "url": "https://open.spotify.com/album/4oF2ZFUWmjZsD1wmAJVnln"
+      },
+      "artists": [
+        {
+          "name": "Alpha P",
+          "url": "https://open.spotify.com/artist/3dUPwMGYAsymFv80wkqEKl"
+        },
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141030,
+      "name": "OMW",
+      "url": "https://open.spotify.com/track/2OAO4w8g6RvJn8LUACoHzJ"
+    },
+    {
+      "album": {
         "name": "On Avance",
         "url": "https://open.spotify.com/album/2wbjr0A2y2DEAIBeLwbHYU"
       },
@@ -7328,7 +7490,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 145714,
       "name": "Pimpon",
       "url": "https://open.spotify.com/track/1yXRvMTmXbgxy9p5CS63bc"
@@ -7732,7 +7894,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 158893,
       "name": "Ringing in My Head",
       "url": "https://open.spotify.com/track/5tIikShpskIA8Py5lVkTGN"
@@ -8150,7 +8312,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 135000,
       "name": "Sentiment",
       "url": "https://open.spotify.com/track/1sG781n3XeZNrWu4nRNshh"
@@ -8310,6 +8472,24 @@
       "duration_ms": 153893,
       "name": "Skeu t\u2019attends de moi",
       "url": "https://open.spotify.com/track/6ofVlkwHudUUorfUSwF1ob"
+    },
+    {
+      "album": {
+        "name": "So cold",
+        "url": "https://open.spotify.com/album/2mvv3dJAskkY0kFeKEtJ36"
+      },
+      "artists": [
+        {
+          "name": "Locko",
+          "url": "https://open.spotify.com/artist/7cUFvbLZrLySXBoxk39kCZ"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "So cold",
+      "url": "https://open.spotify.com/track/4pb6YqPnCBPuvCIPhyDMPI"
     },
     {
       "album": {
@@ -8484,6 +8664,28 @@
       "duration_ms": 203198,
       "name": "Spaceman",
       "url": "https://open.spotify.com/track/32CfjCFQicppSwgwm7idbF"
+    },
+    {
+      "album": {
+        "name": "Shea Butter Boy II",
+        "url": "https://open.spotify.com/album/7cuPn33ybJhRdstcPfStI8"
+      },
+      "artists": [
+        {
+          "name": "Yung Dada",
+          "url": "https://open.spotify.com/artist/69G9yOls2tiws5DaLkXZnJ"
+        },
+        {
+          "name": "Moliy",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221819,
+      "name": "Spaceships",
+      "url": "https://open.spotify.com/track/111lORD99rTGIGgMVISJvj"
     },
     {
       "album": {

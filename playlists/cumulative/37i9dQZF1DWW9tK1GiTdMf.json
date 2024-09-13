@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "musica da gridare \ud83d\udde3\ufe0f Cover: centomilacarie \ud83d\udda4\ud83d\udc40",
+  "description": "musica da gridare \ud83d\udde3\ufe0f Cover: blink-182",
   "name": "sanguegiovane \ud83e\ude78",
   "tracks": [
     {
@@ -3020,6 +3020,28 @@
       "duration_ms": 151624,
       "name": "cages",
       "url": "https://open.spotify.com/track/6zmpq82Tlev82M7BIl5V8b"
+    },
+    {
+      "album": {
+        "name": "CALIFORNIA",
+        "url": "https://open.spotify.com/album/59yOTe96oUF6wQxl4r2Rv5"
+      },
+      "artists": [
+        {
+          "name": "Piccola kappa",
+          "url": "https://open.spotify.com/artist/1OtNgQFoP2nnK8dxxTcLhN"
+        },
+        {
+          "name": "Giast",
+          "url": "https://open.spotify.com/artist/1Sms2Hz4kX49kNnzNW9MKT"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169685,
+      "name": "CALIFORNIA",
+      "url": "https://open.spotify.com/track/2Upio2JODVoKIOh2aIJ7T5"
     },
     {
       "album": {
@@ -6574,6 +6596,32 @@
       "duration_ms": 122823,
       "name": "EX",
       "url": "https://open.spotify.com/track/0s2a4lDkvChIBsDfoa69ET"
+    },
+    {
+      "album": {
+        "name": "F**k Xan 2",
+        "url": "https://open.spotify.com/album/2pNikwmdPjEKOk2oB4y3FN"
+      },
+      "artists": [
+        {
+          "name": "Shama24k",
+          "url": "https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm"
+        },
+        {
+          "name": "Elan Rood",
+          "url": "https://open.spotify.com/artist/3vmujWaYbWHmCNWz76zYxy"
+        },
+        {
+          "name": "Gheb",
+          "url": "https://open.spotify.com/artist/5KigfHb4XxYevzO2hAVPAw"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152468,
+      "name": "F**k Xan 2",
+      "url": "https://open.spotify.com/track/0Yd50RXLf3IqBS3P8skh5Q"
     },
     {
       "album": {
@@ -14390,6 +14438,24 @@
       "duration_ms": 181875,
       "name": "Perdonami Lacie",
       "url": "https://open.spotify.com/track/0IMInGP8WJKzYnriAbIYJJ"
+    },
+    {
+      "album": {
+        "name": "Perfume",
+        "url": "https://open.spotify.com/album/7itlHhAVIV1zxttYpScDHC"
+      },
+      "artists": [
+        {
+          "name": "DWLLRS",
+          "url": "https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119466,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/2W4mXowKNimgVuDCstyuqH"
     },
     {
       "album": {

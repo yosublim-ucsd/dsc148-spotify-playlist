@@ -1,12 +1,12 @@
 {
   "description": "This Is Valent\u00edn Elizalde. Los temas esenciales, todos en una lista.",
-  "num_followers": 429086,
+  "num_followers": 429156,
   "original_name": "This Is Valent\u00edn Elizalde",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zt+MAAAAAAD+ij1e0ThaT7UfyGkqvFtd",
+  "snapshot_id": "ZuDdgAAAAAC2zfRRB66pBLURFoGX4fTb",
   "tracks": [
     {
       "added_at": null,
@@ -571,22 +571,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Mejor Colecci\u00f3n De Corridos",
-        "url": "https://open.spotify.com/album/7lk2j5XmLBaWJw40K6lTtZ"
+        "name": "La Historia De Los Exitos",
+        "url": "https://open.spotify.com/album/5oDuUiZkrmZeBgdyVcgFL6"
       },
       "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        },
         {
           "name": "Valent\u00edn Elizalde",
           "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
         }
       ],
-      "duration_ms": 157280,
-      "name": "La Tambora Va A Sonar",
-      "url": "https://open.spotify.com/track/2VeCQKwNIqeEBIu4abOKKO"
+      "duration_ms": 172413,
+      "name": "118 Balazos",
+      "url": "https://open.spotify.com/track/1x7w8NuVvmSP4r65576eUZ"
     },
     {
       "added_at": null,
@@ -607,18 +603,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Historia De Los Exitos",
-        "url": "https://open.spotify.com/album/5oDuUiZkrmZeBgdyVcgFL6"
+        "name": "La Mejor Colecci\u00f3n De Corridos",
+        "url": "https://open.spotify.com/album/7lk2j5XmLBaWJw40K6lTtZ"
       },
       "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        },
         {
           "name": "Valent\u00edn Elizalde",
           "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
         }
       ],
-      "duration_ms": 172413,
-      "name": "118 Balazos",
-      "url": "https://open.spotify.com/track/1x7w8NuVvmSP4r65576eUZ"
+      "duration_ms": 157280,
+      "name": "La Tambora Va A Sonar",
+      "url": "https://open.spotify.com/track/2VeCQKwNIqeEBIu4abOKKO"
     },
     {
       "added_at": null,

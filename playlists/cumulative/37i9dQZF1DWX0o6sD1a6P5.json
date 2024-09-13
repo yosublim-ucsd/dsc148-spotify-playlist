@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The hottest Afropop, Afrobeats and Afro-Caribbean hits, all in one place. Cover: Youka",
+  "description": "The hottest Afropop, Afrobeats and Afro-Caribbean hits, all in one place. Cover: GIMS",
   "name": "Afro Hits",
   "tracks": [
     {
@@ -1168,7 +1168,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 168406,
       "name": "Bad Vibes (feat. Seyi Vibez)",
       "url": "https://open.spotify.com/track/6HTjqv0AsiZ34fOMcGCbSX"
@@ -2946,6 +2946,32 @@
       "duration_ms": 166806,
       "name": "Comme je suis - Bonus",
       "url": "https://open.spotify.com/track/6AkRqxKsks8tf0fylxPV61"
+    },
+    {
+      "album": {
+        "name": "Comment \u00e7a va ?",
+        "url": "https://open.spotify.com/album/6Yk3rXs1IdnLYxODCBJNPu"
+      },
+      "artists": [
+        {
+          "name": "Good Nation",
+          "url": "https://open.spotify.com/artist/0PhzQyacoc63MStTa2Yik1"
+        },
+        {
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+        },
+        {
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212307,
+      "name": "Comment \u00e7a va ?",
+      "url": "https://open.spotify.com/track/3hRKgaVHrMsFzMw1rnoFa9"
     },
     {
       "album": {
@@ -5278,7 +5304,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 169051,
       "name": "Grey",
       "url": "https://open.spotify.com/track/4Fuf1v4kPQ6RIvEGlUfvaq"
@@ -5676,7 +5702,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 157402,
       "name": "Hyp\u00e9 (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/6oi6AAmRd2IbanRMQZC39J"
@@ -6090,6 +6116,28 @@
       "duration_ms": 218181,
       "name": "J'prends la confiance",
       "url": "https://open.spotify.com/track/5OgUa2plRZRIF4IGpzL1QG"
+    },
+    {
+      "album": {
+        "name": "GINGER BOY",
+        "url": "https://open.spotify.com/album/2Qhxf3ya4iieGZHHSdAFV3"
+      },
+      "artists": [
+        {
+          "name": "Low Jay",
+          "url": "https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N"
+        },
+        {
+          "name": "Vegedream",
+          "url": "https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "J'veux pas",
+      "url": "https://open.spotify.com/track/5LnWCmjNkpLf6eHrepqhGO"
     },
     {
       "album": {
@@ -7200,7 +7248,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 161311,
       "name": "LOCO",
       "url": "https://open.spotify.com/track/6MsXDsDuTgFsq9QhpmtAU6"
@@ -7748,7 +7796,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 233240,
       "name": "MAMI WATA",
       "url": "https://open.spotify.com/track/6yqwxY8qifBBhyryjZutxk"
@@ -7934,6 +7982,24 @@
       "duration_ms": 157148,
       "name": "Metti (feat. Emma'a)",
       "url": "https://open.spotify.com/track/71XmYb0EzVXYANode3rbPc"
+    },
+    {
+      "album": {
+        "name": "Minimum \u00e7a",
+        "url": "https://open.spotify.com/album/2q5EahZjBppWAcWXG6nuha"
+      },
+      "artists": [
+        {
+          "name": "Dr. Yaro",
+          "url": "https://open.spotify.com/artist/0C1YfsZSxVHgL0Z8bngOTM"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149811,
+      "name": "Minimum \u00e7a",
+      "url": "https://open.spotify.com/track/1lRtRYr979UcWFC0By63Er"
     },
     {
       "album": {
@@ -8212,6 +8278,24 @@
       "duration_ms": 178579,
       "name": "MOTO",
       "url": "https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5"
+    },
+    {
+      "album": {
+        "name": "Moving",
+        "url": "https://open.spotify.com/album/5ddIWQKK8ViScna6B0ARAl"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140367,
+      "name": "Moving",
+      "url": "https://open.spotify.com/track/2YNLzBRGyCAzHEGPO3J2Sb"
     },
     {
       "album": {
@@ -10717,6 +10801,24 @@
     },
     {
       "album": {
+        "name": "LE NORD SE SOUVIENT",
+        "url": "https://open.spotify.com/album/55DUcp4pTvwD4VzUnWaXfw"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172346,
+      "name": "SAN GOKU",
+      "url": "https://open.spotify.com/track/33RwMBXnqn3V5i5uGoR1Nt"
+    },
+    {
+      "album": {
         "name": "Sans effet",
         "url": "https://open.spotify.com/album/5k5Wvbp7XtOKjXibAH3uLO"
       },
@@ -10794,6 +10896,28 @@
       "duration_ms": 155523,
       "name": "Sans toi",
       "url": "https://open.spotify.com/track/2OujnEePhdoXKYSnsza4Rp"
+    },
+    {
+      "album": {
+        "name": "Satanana (feat. DRE-A)",
+        "url": "https://open.spotify.com/album/6RrXnrMFJMjdzVBploTzHD"
+      },
+      "artists": [
+        {
+          "name": "EBOLOKO",
+          "url": "https://open.spotify.com/artist/3nUEeV8UXAOUqpXm6WahYR"
+        },
+        {
+          "name": "DRE-A",
+          "url": "https://open.spotify.com/artist/7fgp0tqyX3Rccl9P9042mE"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169737,
+      "name": "Satanana (feat. DRE-A)",
+      "url": "https://open.spotify.com/track/0QgxlcdUM6wUniw0ppYQlG"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "The ultimate reggae playlist. Cover: Bob Marley",
-  "num_followers": 3012304,
+  "num_followers": 3012795,
   "original_name": "Reggae Classics",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,6 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "Very Best",
-        "url": "https://open.spotify.com/album/3thlTAxpHldeAVvftG1Aov"
-      },
-      "artists": [
-        {
-          "name": "Cornell Campbell",
-          "url": "https://open.spotify.com/artist/1FOvLj8sNCGHjgueUOVvJi"
-        }
-      ],
-      "duration_ms": 191160,
-      "name": "The Sun Stop Shining",
-      "url": "https://open.spotify.com/track/6O4FoKdYi42CFjfd0MM04n"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
         "name": "Hail H.I.M",
         "url": "https://open.spotify.com/album/1bSUHJjoGnNvkDUjlD79Bg"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 255800,
       "name": "Hail H.I.M - 2002 Remastered Version",
       "url": "https://open.spotify.com/track/155vJ1VsYZ87Gldi1gNss8"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "Very Best",
+        "url": "https://open.spotify.com/album/3thlTAxpHldeAVvftG1Aov"
+      },
+      "artists": [
+        {
+          "name": "Cornell Campbell",
+          "url": "https://open.spotify.com/artist/1FOvLj8sNCGHjgueUOVvJi"
+        }
+      ],
+      "duration_ms": 191160,
+      "name": "The Sun Stop Shining",
+      "url": "https://open.spotify.com/track/6O4FoKdYi42CFjfd0MM04n"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -672,13 +672,13 @@
       },
       "artists": [
         {
-          "name": "The Uniques",
-          "url": "https://open.spotify.com/artist/1EV3e39He1WLxcD1EjluLb"
+          "name": "Derrick Harriott",
+          "url": "https://open.spotify.com/artist/1ht9oSlPiNywrg22T2sM8d"
         }
       ],
-      "duration_ms": 207186,
-      "name": "My Conversation",
-      "url": "https://open.spotify.com/track/2wIOKiZfp8h9ROw3eBAfcc"
+      "duration_ms": 217013,
+      "name": "The Loser",
+      "url": "https://open.spotify.com/track/4iI2N6gFBHWoV99d9q0clR"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -688,13 +688,13 @@
       },
       "artists": [
         {
-          "name": "Derrick Harriott",
-          "url": "https://open.spotify.com/artist/1ht9oSlPiNywrg22T2sM8d"
+          "name": "The Uniques",
+          "url": "https://open.spotify.com/artist/1EV3e39He1WLxcD1EjluLb"
         }
       ],
-      "duration_ms": 217013,
-      "name": "The Loser",
-      "url": "https://open.spotify.com/track/4iI2N6gFBHWoV99d9q0clR"
+      "duration_ms": 207186,
+      "name": "My Conversation",
+      "url": "https://open.spotify.com/track/2wIOKiZfp8h9ROw3eBAfcc"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -768,6 +768,22 @@
       },
       "artists": [
         {
+          "name": "Phyllis Dillon",
+          "url": "https://open.spotify.com/artist/5Gsu4aAUiAALoTVvQduyhh"
+        }
+      ],
+      "duration_ms": 151866,
+      "name": "Don't Stay Away",
+      "url": "https://open.spotify.com/track/0TzactgkoJSMMRVddb8aRK"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "Let's Do Rocksteady: The Story Of Rocksteady 1966-68",
+        "url": "https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD"
+      },
+      "artists": [
+        {
           "name": "Hopeton Lewis",
           "url": "https://open.spotify.com/artist/0mO8aKj6nYryzzlEdPYAPb"
         }
@@ -784,13 +800,13 @@
       },
       "artists": [
         {
-          "name": "Phyllis Dillon",
-          "url": "https://open.spotify.com/artist/5Gsu4aAUiAALoTVvQduyhh"
+          "name": "The Jamaicans",
+          "url": "https://open.spotify.com/artist/1EBXhaDx1Mhu3iZ5oC3PJ5"
         }
       ],
-      "duration_ms": 151866,
-      "name": "Don't Stay Away",
-      "url": "https://open.spotify.com/track/0TzactgkoJSMMRVddb8aRK"
+      "duration_ms": 199120,
+      "name": "Ba Ba Boom",
+      "url": "https://open.spotify.com/track/7GUdxwA5wqhkJI5QaFynFn"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -807,22 +823,6 @@
       "duration_ms": 183576,
       "name": "Street Corner",
       "url": "https://open.spotify.com/track/1lUhuX9dXk4U1xSsx4p74z"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "Let's Do Rocksteady: The Story Of Rocksteady 1966-68",
-        "url": "https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD"
-      },
-      "artists": [
-        {
-          "name": "The Jamaicans",
-          "url": "https://open.spotify.com/artist/1EBXhaDx1Mhu3iZ5oC3PJ5"
-        }
-      ],
-      "duration_ms": 199120,
-      "name": "Ba Ba Boom",
-      "url": "https://open.spotify.com/track/7GUdxwA5wqhkJI5QaFynFn"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "Total Reggae: Classic Roots",
-        "url": "https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30"
-      },
-      "artists": [
-        {
-          "name": "Fred Locks",
-          "url": "https://open.spotify.com/artist/0O9POrd5urnAgUSE9Piuth"
-        }
-      ],
-      "duration_ms": 178426,
-      "name": "Vision Of Redemption",
-      "url": "https://open.spotify.com/track/208LH3OhnvwWjS5CYLi4Tu"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
         "name": "Ska Kings of the First Wave with the Skatalites, The Ethiopians, And Don Drummond",
         "url": "https://open.spotify.com/album/0aqG3e2e7cqcYitynssLLU"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 175360,
       "name": "Dr. Dekker",
       "url": "https://open.spotify.com/track/4JOhRev1re0tKTIDUiHWOn"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "Total Reggae: Classic Roots",
+        "url": "https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30"
+      },
+      "artists": [
+        {
+          "name": "Fred Locks",
+          "url": "https://open.spotify.com/artist/0O9POrd5urnAgUSE9Piuth"
+        }
+      ],
+      "duration_ms": 178426,
+      "name": "Vision Of Redemption",
+      "url": "https://open.spotify.com/track/208LH3OhnvwWjS5CYLi4Tu"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1104,13 +1104,13 @@
       },
       "artists": [
         {
-          "name": "Stranger & Gladdy",
-          "url": "https://open.spotify.com/artist/5Dh9VDwHjpxkdR5rTR6Jnp"
+          "name": "Desmond Dekker & The Aces",
+          "url": "https://open.spotify.com/artist/4fmVPsGxjwP5ruiTEvIcOt"
         }
       ],
-      "duration_ms": 157253,
-      "name": "Just Like A River",
-      "url": "https://open.spotify.com/track/04BTjbEcGVsfzRRPYHr7Y8"
+      "duration_ms": 163440,
+      "name": "Intensified",
+      "url": "https://open.spotify.com/track/34mK7IhVyT10qBzRv5IYSY"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1120,13 +1120,13 @@
       },
       "artists": [
         {
-          "name": "Desmond Dekker & The Aces",
-          "url": "https://open.spotify.com/artist/4fmVPsGxjwP5ruiTEvIcOt"
+          "name": "Stranger & Gladdy",
+          "url": "https://open.spotify.com/artist/5Dh9VDwHjpxkdR5rTR6Jnp"
         }
       ],
-      "duration_ms": 163440,
-      "name": "Intensified",
-      "url": "https://open.spotify.com/track/34mK7IhVyT10qBzRv5IYSY"
+      "duration_ms": 157253,
+      "name": "Just Like A River",
+      "url": "https://open.spotify.com/track/04BTjbEcGVsfzRRPYHr7Y8"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "On the Beach: The Anthology",
-        "url": "https://open.spotify.com/album/5OegFjiVvk3WecDO5Bofbw"
-      },
-      "artists": [
-        {
-          "name": "The Paragons",
-          "url": "https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG"
-        }
-      ],
-      "duration_ms": 161973,
-      "name": "The Tide Is High - Stereo Version",
-      "url": "https://open.spotify.com/track/7056gVvC7P3PpltHgippd2"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
         "name": "Song Book: Chapter a Day",
         "url": "https://open.spotify.com/album/0Ti29W5rhOp8ojKJ28SqtP"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 154333,
       "name": "Tenement Yard",
       "url": "https://open.spotify.com/track/4SNxXAQ8QMlxLhYVX7nuoE"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "On the Beach: The Anthology",
+        "url": "https://open.spotify.com/album/5OegFjiVvk3WecDO5Bofbw"
+      },
+      "artists": [
+        {
+          "name": "The Paragons",
+          "url": "https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG"
+        }
+      ],
+      "duration_ms": 161973,
+      "name": "The Tide Is High - Stereo Version",
+      "url": "https://open.spotify.com/track/7056gVvC7P3PpltHgippd2"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1439,74 +1439,6 @@
       "duration_ms": 155986,
       "name": "Israelites",
       "url": "https://open.spotify.com/track/18GLelA5vVdzd9X7WGPmJ8"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "Scratch Came, Scratch Saw, Scratch Conquered",
-        "url": "https://open.spotify.com/album/6VPuKF7YpjukpMHEDvvUaA"
-      },
-      "artists": [
-        {
-          "name": "Lee \"Scratch\" Perry",
-          "url": "https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9"
-        }
-      ],
-      "duration_ms": 280960,
-      "name": "Having A Party",
-      "url": "https://open.spotify.com/track/1YAXrOLk7EGfv1tlSnGOqi"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "Murder She Wrote Single",
-        "url": "https://open.spotify.com/album/4cEHufQKt2Mqojs9SMwUWQ"
-      },
-      "artists": [
-        {
-          "name": "Chaka Demus & Pliers",
-          "url": "https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm"
-        },
-        {
-          "name": "Sly & Robbie",
-          "url": "https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt"
-        }
-      ],
-      "duration_ms": 247133,
-      "name": "Murder She Wrote (Original Mix)",
-      "url": "https://open.spotify.com/track/0p4uJwIIGfN3tfTFvwALwB"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "One Two",
-        "url": "https://open.spotify.com/album/4H9eL5O62tZRXwksrtMQfN"
-      },
-      "artists": [
-        {
-          "name": "Sister Nancy",
-          "url": "https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB"
-        }
-      ],
-      "duration_ms": 196506,
-      "name": "Bam Bam",
-      "url": "https://open.spotify.com/track/7cKLOenzViwzoHJWciMIrj"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "Let's Do Rocksteady: The Story Of Rocksteady 1966-68",
-        "url": "https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD"
-      },
-      "artists": [
-        {
-          "name": "Techniques",
-          "url": "https://open.spotify.com/artist/6pLkHPCOudEqG1cVJXTckJ"
-        }
-      ],
-      "duration_ms": 152613,
-      "name": "Travelling Man - Version 1",
-      "url": "https://open.spotify.com/track/5uhpcQw9HfN4TMmYaAgxmh"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1559,6 +1491,22 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
+        "name": "Let's Do Rocksteady: The Story Of Rocksteady 1966-68",
+        "url": "https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD"
+      },
+      "artists": [
+        {
+          "name": "Techniques",
+          "url": "https://open.spotify.com/artist/6pLkHPCOudEqG1cVJXTckJ"
+        }
+      ],
+      "duration_ms": 152613,
+      "name": "Travelling Man - Version 1",
+      "url": "https://open.spotify.com/track/5uhpcQw9HfN4TMmYaAgxmh"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
         "name": "Ska & Reggae Classics",
         "url": "https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK"
       },
@@ -1571,6 +1519,26 @@
       "duration_ms": 190760,
       "name": "54-46 Was My Number",
       "url": "https://open.spotify.com/track/36aH0Y3Zy5jCRpVLvbXBL7"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "Murder She Wrote Single",
+        "url": "https://open.spotify.com/album/4cEHufQKt2Mqojs9SMwUWQ"
+      },
+      "artists": [
+        {
+          "name": "Chaka Demus & Pliers",
+          "url": "https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm"
+        },
+        {
+          "name": "Sly & Robbie",
+          "url": "https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt"
+        }
+      ],
+      "duration_ms": 247133,
+      "name": "Murder She Wrote (Original Mix)",
+      "url": "https://open.spotify.com/track/0p4uJwIIGfN3tfTFvwALwB"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1607,6 +1575,22 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
+        "name": "Ska & Reggae Classics",
+        "url": "https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK"
+      },
+      "artists": [
+        {
+          "name": "Lord Creator",
+          "url": "https://open.spotify.com/artist/3KlE1auvNzJPD27W4hEHjs"
+        }
+      ],
+      "duration_ms": 189760,
+      "name": "Kingston Town",
+      "url": "https://open.spotify.com/track/6UP58GoB80kzAX6eowFj3M"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
         "name": "Poor Man Style",
         "url": "https://open.spotify.com/album/4aWOyq1s7lwbdLjCL7rG2H"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 166213,
       "name": "Double Barrel",
       "url": "https://open.spotify.com/track/1TBjuwSsm731S048oMDehz"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "Scratch Came, Scratch Saw, Scratch Conquered",
+        "url": "https://open.spotify.com/album/6VPuKF7YpjukpMHEDvvUaA"
+      },
+      "artists": [
+        {
+          "name": "Lee \"Scratch\" Perry",
+          "url": "https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9"
+        }
+      ],
+      "duration_ms": 280960,
+      "name": "Having A Party",
+      "url": "https://open.spotify.com/track/1YAXrOLk7EGfv1tlSnGOqi"
     }
   ],
   "unique_name": "Reggae Classics",

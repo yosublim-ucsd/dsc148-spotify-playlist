@@ -530,6 +530,24 @@
     {
       "album": {
         "name": "HTS",
+        "url": "https://open.spotify.com/album/3cIn9ze7231HGFB6AD72cU"
+      },
+      "artists": [
+        {
+          "name": "Lavora",
+          "url": "https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255238,
+      "name": "HTS",
+      "url": "https://open.spotify.com/track/6qDtRm3pWLFKFW02FoDHVt"
+    },
+    {
+      "album": {
+        "name": "HTS",
         "url": "https://open.spotify.com/album/1ZZMNuAJlEXBfcKL7kGOkl"
       },
       "artists": [
@@ -562,6 +580,24 @@
       "duration_ms": 232322,
       "name": "Jajal Kowe Dadi Aku",
       "url": "https://open.spotify.com/track/0VSNH5XtyjQL8qCurq31Cf"
+    },
+    {
+      "album": {
+        "name": "Jejantunging Kalbu",
+        "url": "https://open.spotify.com/album/2ynImb4jWZArEaeN5MbM1Y"
+      },
+      "artists": [
+        {
+          "name": "Woro Widowati",
+          "url": "https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269032,
+      "name": "Jejantunging Kalbu",
+      "url": "https://open.spotify.com/track/3ZnKGBeVyJrs4gFVtsEJmD"
     },
     {
       "album": {

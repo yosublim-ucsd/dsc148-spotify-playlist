@@ -1,6 +1,6 @@
 {
   "description": "Tu banda sonora de este verano. Foto: Karol G",
-  "num_followers": 752054,
+  "num_followers": 752183,
   "original_name": "Verano 2024",
   "owner": {
     "name": "Spotify",
@@ -759,6 +759,30 @@
     {
       "added_at": "2024-09-02 07:47:14",
       "album": {
+        "name": "La Rizos [Dime Si Le Comento a la Pura]",
+        "url": "https://open.spotify.com/album/1Kz5RhfbaMniwhbfJAiXzl"
+      },
+      "artists": [
+        {
+          "name": "Las 2K",
+          "url": "https://open.spotify.com/artist/4BnXLYKwUhFGUmYE5mPNox"
+        },
+        {
+          "name": "Chardo Chardemio",
+          "url": "https://open.spotify.com/artist/6mQDo8xYI31LFjmhIsZEWg"
+        },
+        {
+          "name": "Melody Records International",
+          "url": "https://open.spotify.com/artist/3QqpGThGBmUjiYeF8biKlM"
+        }
+      ],
+      "duration_ms": 218119,
+      "name": "La Rizos [Dime Si Le Comento a la Pura]",
+      "url": "https://open.spotify.com/track/7pvqkMcGzRTWU0YpZoJj6U"
+    },
+    {
+      "added_at": "2024-09-02 07:47:14",
+      "album": {
         "name": "El Conjuntito",
         "url": "https://open.spotify.com/album/2gDoGr6IjyCIKuKNM6rmZZ"
       },
@@ -791,30 +815,6 @@
       "duration_ms": 199604,
       "name": "Todo De Ti",
       "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
-    },
-    {
-      "added_at": "2024-09-02 07:47:14",
-      "album": {
-        "name": "La Rizos [Dime Si Le Comento a la Pura]",
-        "url": "https://open.spotify.com/album/1Kz5RhfbaMniwhbfJAiXzl"
-      },
-      "artists": [
-        {
-          "name": "Las 2K",
-          "url": "https://open.spotify.com/artist/4BnXLYKwUhFGUmYE5mPNox"
-        },
-        {
-          "name": "Chardo Chardemio",
-          "url": "https://open.spotify.com/artist/6mQDo8xYI31LFjmhIsZEWg"
-        },
-        {
-          "name": "Melody Records International",
-          "url": "https://open.spotify.com/artist/3QqpGThGBmUjiYeF8biKlM"
-        }
-      ],
-      "duration_ms": 218119,
-      "name": "La Rizos [Dime Si Le Comento a la Pura]",
-      "url": "https://open.spotify.com/track/7pvqkMcGzRTWU0YpZoJj6U"
     },
     {
       "added_at": "2024-09-02 07:47:14",
@@ -911,30 +911,6 @@
     {
       "added_at": "2024-09-02 07:47:14",
       "album": {
-        "name": "Cuando Te Vi | CROSSOVER #5",
-        "url": "https://open.spotify.com/album/5B3AaoOK8o22cYkdoBOVFI"
-      },
-      "artists": [
-        {
-          "name": "Big One",
-          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        },
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        }
-      ],
-      "duration_ms": 218400,
-      "name": "Cuando Te Vi | CROSSOVER #5",
-      "url": "https://open.spotify.com/track/5OwAhFlvFZ4ZdGDfroYgAm"
-    },
-    {
-      "added_at": "2024-09-02 07:47:14",
-      "album": {
         "name": "El Patio",
         "url": "https://open.spotify.com/album/2H1GZRUTnZKiVYm7BQzw4h"
       },
@@ -955,6 +931,30 @@
       "duration_ms": 232645,
       "name": "El Patio",
       "url": "https://open.spotify.com/track/0PtLrH95CQ2lKf6pym5LmA"
+    },
+    {
+      "added_at": "2024-09-02 07:47:14",
+      "album": {
+        "name": "Cuando Te Vi | CROSSOVER #5",
+        "url": "https://open.spotify.com/album/5B3AaoOK8o22cYkdoBOVFI"
+      },
+      "artists": [
+        {
+          "name": "Big One",
+          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "duration_ms": 218400,
+      "name": "Cuando Te Vi | CROSSOVER #5",
+      "url": "https://open.spotify.com/track/5OwAhFlvFZ4ZdGDfroYgAm"
     },
     {
       "added_at": "2024-09-02 07:47:14",
@@ -1343,18 +1343,22 @@
     {
       "added_at": "2024-09-02 07:47:14",
       "album": {
-        "name": "amor de verano",
-        "url": "https://open.spotify.com/album/0fQ4D10TqLArXAxdPRq1RG"
+        "name": "COBARDE",
+        "url": "https://open.spotify.com/album/5OZzcXlWpCUFz5sNa09zy6"
       },
       "artists": [
         {
-          "name": "MARLENA",
-          "url": "https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y"
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
         }
       ],
-      "duration_ms": 176666,
-      "name": "amor de verano",
-      "url": "https://open.spotify.com/track/3ACVz5PwPN9P1PC6869Jn6"
+      "duration_ms": 166081,
+      "name": "COBARDE",
+      "url": "https://open.spotify.com/track/2IEhUsa1s1seGFAySt3zh7"
     }
   ],
   "unique_name": "Verano 2024",

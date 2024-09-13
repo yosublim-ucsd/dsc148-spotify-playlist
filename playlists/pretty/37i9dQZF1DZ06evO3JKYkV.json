@@ -1,12 +1,12 @@
 {
-  "description": "This is Aphex Twin. The essential tracks, all in one playlist.",
-  "num_followers": 66952,
+  "description": "This is Aphex Twin. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 66981,
   "original_name": "This Is Aphex Twin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zt+MAAAAAADaw3Ibr9J5CRcucX/1Vh2F",
+  "snapshot_id": "ZuDdgAAAAAAg2Ef6CDj57S0faHFGMVZ6",
   "tracks": [
     {
       "added_at": null,
@@ -775,22 +775,6 @@
       "duration_ms": 345106,
       "name": "Bucephalus Bouncing Ball [Chosen by Warp co-founder Steve Beckett]",
       "url": "https://open.spotify.com/track/5rpHPGXMnJhEsUUh7ttCY7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Digeridoo (Expanded Edition)",
-        "url": "https://open.spotify.com/album/58H1ArDcd3bUzOK0cn31lD"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 420766,
-      "name": "Flap Head - 2022 Remaster",
-      "url": "https://open.spotify.com/track/24nMZbhkJNqJ70P1J81ZNx"
     }
   ],
   "unique_name": "This Is Aphex Twin",

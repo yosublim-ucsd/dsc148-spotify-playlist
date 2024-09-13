@@ -4,7 +4,7 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-360 songs - 21 hr 21 min
+361 songs - 21 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [傻瓜](https://open.spotify.com/track/2lQNNJ3KsiIGaLAF7hYNzn) | [Sherman Chung](https://open.spotify.com/artist/6meomXUCnPUYEWxITWNVZ0) | [我可以](https://open.spotify.com/album/23YehfrSYxAYWm5vLhOaBD) | 4:05 | 2022-07-11 | 2022-07-19 |
 | [像是中了你的毒](https://open.spotify.com/track/3K9ZM3USNMJOLjJ2xBz6iE) | [Ginger](https://open.spotify.com/artist/4jD5dWcrFo81LgODawZv5k) | [像是中了你的毒](https://open.spotify.com/album/6wKMx1vYfKxc9qa4STUAeA) | 2:54 | 2024-03-04 |  |
 | [像極了愛情](https://open.spotify.com/track/5pUZgW1mHL2BDO7alkxmJM) | [ZouHaoHao](https://open.spotify.com/artist/1nTcm5zOf9aYf7jYmmJStI) | [像極了愛情](https://open.spotify.com/album/4Tbw7aEOvvTyESuHvcwOKK) | 3:23 | 2022-06-06 | 2022-07-21 |
+| [億點點](https://open.spotify.com/track/3gXfPCQRNtS9r2i9W3cvxy) | [Elton 李泓伸](https://open.spotify.com/artist/4SQbIlbyr4vBmwpvwKaN90), [謝慧嫻 Stella](https://open.spotify.com/artist/4LZDii3NkICtWotw25Pt4i) | [億點點](https://open.spotify.com/album/5CCCFBeZXAX3xRgssdX3aC) | 3:08 | 2024-09-12 |  |
 | [全糖生活](https://open.spotify.com/track/2MarMkhBQ2OGMHViXAoKrx) | [王宇彤](https://open.spotify.com/artist/2k3lWdz2zL38YgXlxY3GJO) | [全糖生活](https://open.spotify.com/album/0TEobWuNXXSeQv96V5mcvT) | 2:57 | 2024-01-15 | 2024-01-29 |
 | [兩人世界](https://open.spotify.com/track/57OQCjeVopFXR8hQhCu6lM) | [Huang Yali](https://open.spotify.com/artist/5nLnIboxUroy6N5HBGRTMe) | [黄雅莉的奇幻秀](https://open.spotify.com/album/0xqBcDVlh3ZLrjgmwDTh8U) | 3:41 | 2022-06-27 | 2022-07-05 |
 | [兩隻戀人](https://open.spotify.com/track/16MADi2KjVZgwshXXnCysN) | [Gary Chaw](https://open.spotify.com/artist/1mfzcypCggFwpCJ1gmi8BK) | [SUPERMAN](https://open.spotify.com/album/2n7gL0RbyATH41IgxEIqWN) | 4:04 | 2022-06-06 |  |
@@ -300,7 +301,7 @@
 | [當你孤單你會想起誰](https://open.spotify.com/track/1qBwJa1vOvIUyD3dlLU03P) | [歐得洋](https://open.spotify.com/artist/4bq18ACyIRmH97uzCqrAEx) | [當你孤單你會想起誰](https://open.spotify.com/album/4WyfVslftjtq0Q7aarCGgl) | 3:11 | 2022-06-06 | 2022-07-28 |
 | [直到我遇見了你](https://open.spotify.com/track/3LAgIUioZHAUaCjj4KsX9Y) | [Yo Lee](https://open.spotify.com/artist/1D2LuIU6rgg0MGa0l8wYJh) | [直到我遇見了你](https://open.spotify.com/album/2ahdjX6myx2b9NJ65stXOo) | 4:06 | 2022-06-06 |  |
 | [直到有天我们都变老](https://open.spotify.com/track/4Qr0teCIBWVknFZ6tGpBK0) | [白小白](https://open.spotify.com/artist/2z483yEJXdjguqCQysftmD) | [直到有天我们都变老](https://open.spotify.com/album/4DQtG5hkx5r32CoyQaj4QU) | 3:37 | 2023-01-09 | 2023-01-17 |
-| [直球浪漫](https://open.spotify.com/track/55FEIlNSMb4MR7IAG7VNmz) | [Evan Yo](https://open.spotify.com/artist/7JY6f7uRdLtKSHbHlQXduV), [K.A咔咔](https://open.spotify.com/artist/6We6C4fsLVl4StYXnNeZJL) | [直球浪漫](https://open.spotify.com/album/3G98Lb3s6ENS5AgcRsSplO) | 3:46 | 2022-11-08 |  |
+| [直球浪漫](https://open.spotify.com/track/55FEIlNSMb4MR7IAG7VNmz) | [Evan Yo](https://open.spotify.com/artist/7JY6f7uRdLtKSHbHlQXduV), [K.A咔咔](https://open.spotify.com/artist/6We6C4fsLVl4StYXnNeZJL) | [直球浪漫](https://open.spotify.com/album/3G98Lb3s6ENS5AgcRsSplO) | 3:46 | 2022-11-08 | 2024-09-13 |
 | [相見不恨晚](https://open.spotify.com/track/7agabtgHkr04VODN2mPQv1) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [麋鹿](https://open.spotify.com/album/3stIJfcy7gwLRdrxipRwp0) | 3:28 | 2023-05-22 |  |
 | [突然想見你（《鬼之執行長》電視劇插曲）](https://open.spotify.com/track/0GEoPuKjsC0L0fgCcFPhOh) | [劉奕兒](https://open.spotify.com/artist/1NUGlzcnxDPj8nl9iCuh42), [Marcus Chang](https://open.spotify.com/artist/5GTkwiuc6ayldeGjQVAN4n) | [突然想見你（《鬼之執行長》電視劇插曲）](https://open.spotify.com/album/7EFy9C9dPS2f360H56SX4J) | 3:50 | 2023-07-31 | 2023-09-03 |
 | [第一默契 \(电视剧 《你微笑时很美》 片尾曲\)](https://open.spotify.com/track/4Y7gVsky7KNr4P8Bjbtlcy) | [Kai Xu](https://open.spotify.com/artist/5aL82Rnbtx5DQp5cAcCUdI), [Xiao Cheng](https://open.spotify.com/artist/1o4C8yeeDMUpc2Hq4jRTwT) | [电视剧《你微笑时很美》影视原声带](https://open.spotify.com/album/3chqJvgxqZfXOhISPnJCNs) | 3:28 | 2022-09-26 | 2024-04-19 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The latest straight bars and Afro-Trap. Cover: Smada & ODMODUBLVCK",
+  "description": "The latest straight bars and Afro-Trap. Cover: A-Reece",
   "name": "Afro Bars ",
   "tracks": [
     {
@@ -1166,7 +1166,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 280058,
       "name": "Change My Gear",
       "url": "https://open.spotify.com/track/42GXRc2VxjLAzuHmbLcaDP"
@@ -5660,6 +5660,24 @@
       "duration_ms": 200520,
       "name": "THE 5 YEAR PLAN",
       "url": "https://open.spotify.com/track/4fNGCGYkLvh6zX1bKxs79h"
+    },
+    {
+      "album": {
+        "name": "Kill The King: the mixtape",
+        "url": "https://open.spotify.com/album/5XxghpaGYOjMYfaggN0g0t"
+      },
+      "artists": [
+        {
+          "name": "A-Reece",
+          "url": "https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185620,
+      "name": "the get back",
+      "url": "https://open.spotify.com/track/4IQP1L4qKPamrOrfL7WdAZ"
     },
     {
       "album": {

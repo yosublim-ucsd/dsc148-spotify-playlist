@@ -1,6 +1,6 @@
 {
   "description": "Soul to brighten up your day.",
-  "num_followers": 86284,
+  "num_followers": 86331,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
@@ -57,6 +57,22 @@
       "url": "https://open.spotify.com/track/2XekPGzt01OOtaRY9oAV1b"
     },
     {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
+        "name": "Comin' From Where I'm From",
+        "url": "https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em"
+      },
+      "artists": [
+        {
+          "name": "Anthony Hamilton",
+          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
+        }
+      ],
+      "duration_ms": 246773,
+      "name": "Charlene",
+      "url": "https://open.spotify.com/track/0xiuSFBOEHWaJ6rSuUbJWc"
+    },
+    {
       "added_at": "2024-08-30 05:32:52",
       "album": {
         "name": "Trouble In Paradise",
@@ -75,22 +91,6 @@
       "duration_ms": 152768,
       "name": "Favorite (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/7tWfPoTJQu7QzbQmy3omtL"
-    },
-    {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
-        "name": "Comin' From Where I'm From",
-        "url": "https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em"
-      },
-      "artists": [
-        {
-          "name": "Anthony Hamilton",
-          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
-        }
-      ],
-      "duration_ms": 246773,
-      "name": "Charlene",
-      "url": "https://open.spotify.com/track/0xiuSFBOEHWaJ6rSuUbJWc"
     },
     {
       "added_at": "2024-08-30 05:32:52",
@@ -205,22 +205,6 @@
       "url": "https://open.spotify.com/track/3Rhfga08pNnhLMQVb2nRXp"
     },
     {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
-        "name": "Back To Love (Deluxe Version)",
-        "url": "https://open.spotify.com/album/545a3sdz0JkH85iYFZPiR4"
-      },
-      "artists": [
-        {
-          "name": "Anthony Hamilton",
-          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
-        }
-      ],
-      "duration_ms": 226373,
-      "name": "Best of Me",
-      "url": "https://open.spotify.com/track/1JkhKUXAoNivi87ipmV3rp"
-    },
-    {
       "added_at": "2024-08-30 05:32:52",
       "album": {
         "name": "Why Lawd?",
@@ -243,6 +227,22 @@
       "duration_ms": 167894,
       "name": "MoveOn",
       "url": "https://open.spotify.com/track/6NkpXwmHBAWYQmMDV0AVdw"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
+        "name": "Back To Love (Deluxe Version)",
+        "url": "https://open.spotify.com/album/545a3sdz0JkH85iYFZPiR4"
+      },
+      "artists": [
+        {
+          "name": "Anthony Hamilton",
+          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
+        }
+      ],
+      "duration_ms": 226373,
+      "name": "Best of Me",
+      "url": "https://open.spotify.com/track/1JkhKUXAoNivi87ipmV3rp"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -361,6 +361,22 @@
       "url": "https://open.spotify.com/track/3TkNsftUBh8dwwLUHpmYNC"
     },
     {
+      "added_at": "2024-08-30 05:32:52",
+      "album": {
+        "name": "She Keeps Calling",
+        "url": "https://open.spotify.com/album/04pWdxoC5371dvrDgzDIBO"
+      },
+      "artists": [
+        {
+          "name": "October London",
+          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
+        }
+      ],
+      "duration_ms": 143000,
+      "name": "She Keeps Calling",
+      "url": "https://open.spotify.com/track/1hG55qzxbHuGaPfAhCPgoF"
+    },
+    {
       "added_at": "2024-03-08 13:51:25",
       "album": {
         "name": "My World",
@@ -379,22 +395,6 @@
       "duration_ms": 257386,
       "name": "Ladies",
       "url": "https://open.spotify.com/track/6iNHWlOLt4NuDi9iSvtznO"
-    },
-    {
-      "added_at": "2024-08-30 05:32:52",
-      "album": {
-        "name": "She Keeps Calling",
-        "url": "https://open.spotify.com/album/04pWdxoC5371dvrDgzDIBO"
-      },
-      "artists": [
-        {
-          "name": "October London",
-          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
-        }
-      ],
-      "duration_ms": 143000,
-      "name": "She Keeps Calling",
-      "url": "https://open.spotify.com/track/1hG55qzxbHuGaPfAhCPgoF"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -507,26 +507,6 @@
     {
       "added_at": "2024-03-08 13:51:25",
       "album": {
-        "name": "My World",
-        "url": "https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc"
-      },
-      "artists": [
-        {
-          "name": "Lee Fields & The Expressions",
-          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
-        },
-        {
-          "name": "Lee Fields",
-          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
-        }
-      ],
-      "duration_ms": 246573,
-      "name": "Honey Dove",
-      "url": "https://open.spotify.com/track/1emxi7e5EWFsJmwSKTuUDH"
-    },
-    {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
         "name": "Young Sick Camellia",
         "url": "https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 270306,
       "name": "Next Time",
       "url": "https://open.spotify.com/track/6h7oewjyzSKywtot8sHXj7"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc"
+      },
+      "artists": [
+        {
+          "name": "Lee Fields & The Expressions",
+          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
+        },
+        {
+          "name": "Lee Fields",
+          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
+        }
+      ],
+      "duration_ms": 246573,
+      "name": "Honey Dove",
+      "url": "https://open.spotify.com/track/1emxi7e5EWFsJmwSKTuUDH"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -657,26 +657,6 @@
       "url": "https://open.spotify.com/track/14VwBAL1qSlG4ovOSYUQF4"
     },
     {
-      "added_at": "2024-08-30 05:32:52",
-      "album": {
-        "name": "Whatcha Done Now (feat. Kenyon Dixon)",
-        "url": "https://open.spotify.com/album/1IWE4RBWTV3bV9WKgVPrWn"
-      },
-      "artists": [
-        {
-          "name": "Leela James",
-          "url": "https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2"
-        },
-        {
-          "name": "Kenyon Dixon",
-          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
-        }
-      ],
-      "duration_ms": 228684,
-      "name": "Whatcha Done Now (feat. Kenyon Dixon)",
-      "url": "https://open.spotify.com/track/7cXgHdkX97ix7NuIavCw0L"
-    },
-    {
       "added_at": "2024-03-08 13:51:25",
       "album": {
         "name": "Sea of Noise",
@@ -691,22 +671,6 @@
       "duration_ms": 209440,
       "name": "All I Ever Wonder",
       "url": "https://open.spotify.com/track/6kUfA51KpIMGdKYrzWLkbn"
-    },
-    {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
-        "name": "Gold Mine",
-        "url": "https://open.spotify.com/album/4EC5UTKxVXm4Jk7UlkxDD1"
-      },
-      "artists": [
-        {
-          "name": "Stephen Day",
-          "url": "https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5"
-        }
-      ],
-      "duration_ms": 151350,
-      "name": "Gold Mine",
-      "url": "https://open.spotify.com/track/3eOSNAIQJ8HPNNUZGWJPcf"
     },
     {
       "added_at": "2024-08-30 05:32:52",
@@ -729,6 +693,26 @@
       "url": "https://open.spotify.com/track/3JPckFErTvmkEMwJsOzTOb"
     },
     {
+      "added_at": "2024-08-30 05:32:52",
+      "album": {
+        "name": "Whatcha Done Now (feat. Kenyon Dixon)",
+        "url": "https://open.spotify.com/album/1IWE4RBWTV3bV9WKgVPrWn"
+      },
+      "artists": [
+        {
+          "name": "Leela James",
+          "url": "https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2"
+        },
+        {
+          "name": "Kenyon Dixon",
+          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
+        }
+      ],
+      "duration_ms": 228684,
+      "name": "Whatcha Done Now (feat. Kenyon Dixon)",
+      "url": "https://open.spotify.com/track/7cXgHdkX97ix7NuIavCw0L"
+    },
+    {
       "added_at": "2024-03-08 13:51:25",
       "album": {
         "name": "Lean On Me - The Songs Of Bill Withers (Bonustrack Edition)",
@@ -743,6 +727,22 @@
       "duration_ms": 260506,
       "name": "Just The Two Of Us",
       "url": "https://open.spotify.com/track/2P3YVlcxm5m4cRxjNiZ96q"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
+        "name": "Gold Mine",
+        "url": "https://open.spotify.com/album/4EC5UTKxVXm4Jk7UlkxDD1"
+      },
+      "artists": [
+        {
+          "name": "Stephen Day",
+          "url": "https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5"
+        }
+      ],
+      "duration_ms": 151350,
+      "name": "Gold Mine",
+      "url": "https://open.spotify.com/track/3eOSNAIQJ8HPNNUZGWJPcf"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -917,22 +917,6 @@
       "url": "https://open.spotify.com/track/79oVaKQxheWhtZqtVqqiJS"
     },
     {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
-        "name": "The Woman I Am",
-        "url": "https://open.spotify.com/album/0xUs1n2GTs34q1JeFfZsDz"
-      },
-      "artists": [
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        }
-      ],
-      "duration_ms": 284840,
-      "name": "Love You All My Lifetime",
-      "url": "https://open.spotify.com/track/2yTswsiLkNGzzzX54WroNS"
-    },
-    {
       "added_at": "2024-08-30 05:32:52",
       "album": {
         "name": "Walk With the Father",
@@ -947,6 +931,22 @@
       "duration_ms": 226153,
       "name": "Walk With the Father",
       "url": "https://open.spotify.com/track/7a5VJhBN7zAe8Lv9Y0e84E"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
+        "name": "The Woman I Am",
+        "url": "https://open.spotify.com/album/0xUs1n2GTs34q1JeFfZsDz"
+      },
+      "artists": [
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "duration_ms": 284840,
+      "name": "Love You All My Lifetime",
+      "url": "https://open.spotify.com/track/2yTswsiLkNGzzzX54WroNS"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2024-03-08 13:51:25",
       "album": {
+        "name": "Powerhouse",
+        "url": "https://open.spotify.com/album/7jge7It8TJ7XVSjcKFRFfE"
+      },
+      "artists": [
+        {
+          "name": "Jeff Floyd",
+          "url": "https://open.spotify.com/artist/4daynj4qj7K17EbBzEhtDe"
+        }
+      ],
+      "duration_ms": 339813,
+      "name": "Let's Get It On",
+      "url": "https://open.spotify.com/track/45qbfUvlCkVIAMnHuZpbmU"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
         "name": "Motorway",
         "url": "https://open.spotify.com/album/5K458YIkowsLUlFzo6ENsG"
       },
@@ -1331,22 +1347,6 @@
     {
       "added_at": "2024-03-08 13:51:25",
       "album": {
-        "name": "Powerhouse",
-        "url": "https://open.spotify.com/album/7jge7It8TJ7XVSjcKFRFfE"
-      },
-      "artists": [
-        {
-          "name": "Jeff Floyd",
-          "url": "https://open.spotify.com/artist/4daynj4qj7K17EbBzEhtDe"
-        }
-      ],
-      "duration_ms": 339813,
-      "name": "Let's Get It On",
-      "url": "https://open.spotify.com/track/45qbfUvlCkVIAMnHuZpbmU"
-    },
-    {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
         "name": "Seven: VII",
         "url": "https://open.spotify.com/album/5cbo0UmIkURONNZIbObXbu"
       },
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2024-03-08 13:51:25",
       "album": {
-        "name": "Bags & Suitcases",
-        "url": "https://open.spotify.com/album/3TwHPffWffk3jvRzgTHVWm"
+        "name": "Cure the Jones",
+        "url": "https://open.spotify.com/album/7zG9UizXFG1UiYIjGLxuio"
       },
       "artists": [
         {
-          "name": "Sabrina Starke",
-          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
+          "name": "Mamas Gun",
+          "url": "https://open.spotify.com/artist/09bP40OuEV5tOM1rQnZNxI"
         }
       ],
-      "duration_ms": 209386,
-      "name": "Sunny Days",
-      "url": "https://open.spotify.com/track/6FXis8xolZr1w66kY27zbs"
+      "duration_ms": 200066,
+      "name": "Good Love",
+      "url": "https://open.spotify.com/track/4nKpBjWRzY0MSPvPjvyzSB"
     }
   ],
   "unique_name": "Soulful Day",

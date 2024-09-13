@@ -2,7 +2,7 @@
 
 ### [This Is Rev\. Gary Davis](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4wpPxg)
 
-> This is: Rev\. Gary Davis\. Alle wichtigen Tracks in einer Playlist.
+> This Is Rev\. Gary Davis\. Los temas esenciales, todos en una lista.
 
 312 songs - 19 hr 37 min
 
@@ -167,7 +167,7 @@
 | [Lord, I Looked Down The Road](https://open.spotify.com/track/3DwLIPryx8uGBcchKIrUCj) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Say No To The Devil](https://open.spotify.com/album/0AuRiSze92kbZpRF2cIuwe) | 4:18 | 2022-07-28 | 2024-06-07 |
 | [Lord, I Wish I Could See](https://open.spotify.com/track/6KX8xLpTnIIfa4D5mB9zxS) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Rev\. Blind Gary Davis 1935 \- 1949](https://open.spotify.com/album/6d9OIAdRyHLbwwblrIplW2) | 3:03 | 2022-05-27 | 2024-07-25 |
 | [Lord, On Your Word](https://open.spotify.com/track/02AsEgJMRZ6AI5yVxyf7Px) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels \- the Music of Rev\. Gary Davis](https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox) | 4:24 | 2022-10-12 | 2022-12-31 |
-| [Lord, Stand By Me](https://open.spotify.com/track/43YFUTTItto66K15U3PdIi) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [The Complete Early Recordings Of Reverend Gary Davis](https://open.spotify.com/album/07iVLo7HJnTG7NllteS0FA) | 3:09 | 2022-05-27 |  |
+| [Lord, Stand By Me](https://open.spotify.com/track/43YFUTTItto66K15U3PdIi) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [The Complete Early Recordings Of Reverend Gary Davis](https://open.spotify.com/album/07iVLo7HJnTG7NllteS0FA) | 3:09 | 2022-05-27 | 2024-09-13 |
 | [Lost Boy In The Wilderness](https://open.spotify.com/track/5jp93xHD4KDwc8XNytfCJ6) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Say No To The Devil](https://open.spotify.com/album/0AuRiSze92kbZpRF2cIuwe) | 4:59 | 2022-05-31 |  |
 | [Lovin' Spoonful](https://open.spotify.com/track/0ip6BefXd5LbaNsSwTLRZj) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [At Newport](https://open.spotify.com/album/0hzGNlXzRtBOgcDaaricsc) | 4:34 | 2022-05-25 | 2024-09-05 |
 | [Make Believe Stunt \- Live](https://open.spotify.com/track/69Yvqq5ffEYjB1FMZnVAce) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Live and Kickin'](https://open.spotify.com/album/3AFJAp5xnLiMPBuncEdU79) | 5:01 | 2024-01-03 | 2024-01-05 |
@@ -270,7 +270,7 @@
 | [The Reverend Speaks IV \- Live in Seattle, WA](https://open.spotify.com/track/0WaiMSOQFM4RydXygPmpqI) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Let Us Get Together](https://open.spotify.com/album/5isJaTPlAr6VIv9z24DYF3) | 0:49 | 2022-11-05 | 2022-11-09 |
 | [The Uncloudy Day](https://open.spotify.com/track/50ODpWmYdH0EjbnUlKyuZ7) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [If I Had My Way: Early Home Recordings](https://open.spotify.com/album/59aeoDXr1SZjDRJNqOl3J7) | 4:12 | 2022-05-25 | 2024-01-03 |
 | [There Was A Time That I Was Blind](https://open.spotify.com/track/5JZCOzF5LmTH6UJDdFNrj6) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Gospel, Blues And Street Songs](https://open.spotify.com/album/5HRbXDdVkIBNZkArEAN2XO) | 2:37 | 2022-06-11 | 2023-06-30 |
-| [There Was a Time That I Was Blind](https://open.spotify.com/track/46SadSwrEqLAzLSSEvveW9) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [American Street Songs](https://open.spotify.com/album/4RNBon2cf5qwJBIAQVTmRR) | 2:43 | 2024-06-02 | 2024-08-20 |
+| [There Was a Time That I Was Blind](https://open.spotify.com/track/46SadSwrEqLAzLSSEvveW9) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [American Street Songs](https://open.spotify.com/album/4RNBon2cf5qwJBIAQVTmRR) | 2:43 | 2024-06-02 |  |
 | [There's A Bright Side Somewhere](https://open.spotify.com/track/3BsgSIICiGyLR3niypMiOt) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Have A Little Faith](https://open.spotify.com/album/0hy4BlhOVL04C5h3Rj6hHK) | 3:13 | 2022-06-26 | 2023-12-15 |
 | [There's A Table Sittin' In Heaven](https://open.spotify.com/track/2s5RAEIaTKtvkD1tSWyuoA) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Have A Little Faith](https://open.spotify.com/album/0hy4BlhOVL04C5h3Rj6hHK) | 3:30 | 2022-10-13 | 2023-01-13 |
 | [There's Destruction In That Land \(Message From Heaven\)](https://open.spotify.com/track/20A0XItLKQRCYjKQdxCC5m) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels: The Ultimate Collection, Pt\. 2](https://open.spotify.com/album/6HcG8ChpDekMWRldIsJQm3) | 5:53 | 2023-04-20 | 2024-06-04 |

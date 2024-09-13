@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vpLK1FoEw3.md) - [plain]
 
 > vc tem o que é necessário para entrar no clube?? dê play e descubra \#MeuSpotify com Thiaguinho
 
-[Spotify](https://open.spotify.com/user/spotify) - 627,539 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 627,558 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vpLK1FoEw3.md) - [plain]
 | 49 | [Boa Noite \- Ao Vivo](https://open.spotify.com/track/3Ec06k61M8q8fZOrZXh7rp) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Boa Noite \(Ao Vivo\)](https://open.spotify.com/album/77X6MttMrR8jHcDuNU4Tid) | 3:00 |
 | 50 | [Por Enquanto / Citação: Meu Bem Querer \- Ao Vivo](https://open.spotify.com/track/2d5fHYUDBXByMgA7sgbhtj) | [Mumuzinho](https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7) | [Resenha De Verão \(Ao Vivo\)](https://open.spotify.com/album/7L2kB8r4a0eExXVRwaYsJB) | 2:47 |
 
-Snapshot ID: `ZuCI0gAAAACXPTCrdp+xsB5BvJ1Vk5dh`
+Snapshot ID: `ZuCI0gAAAAA3fS/EIPHXT19RjcV+X6C/`

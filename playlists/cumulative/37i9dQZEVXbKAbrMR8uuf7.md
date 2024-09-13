@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Dominican Republic.
 
-1,560 songs - 3 day 10 hr 41 min
+1,561 songs - 3 day 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -657,7 +657,7 @@
 | [La Baby](https://open.spotify.com/track/460Zx6PCNYFHaA1A9rjiNL) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [La Baby](https://open.spotify.com/album/6sowfPq2DeL2VDArb7pUlj) | 2:41 | 2023-11-03 | 2023-11-23 |
 | [LA BABY](https://open.spotify.com/track/0hDE81j4N2DPLbEY4tiCDs) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [DATA](https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA) | 3:02 | 2023-07-01 | 2023-07-09 |
 | [La Bachata](https://open.spotify.com/track/4fyh2gcq3nPrOi6ZSRoTAG) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [Sabiduria](https://open.spotify.com/album/2AEfHR7PKwnmLir5rWmMRU) | 3:08 | 2022-04-09 | 2022-04-13 |
-| [La Bachata](https://open.spotify.com/track/3tt9i3Hhzq84dPS8H7iSiJ) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [2000](https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH) | 2:42 | 2023-03-18 |  |
+| [La Bachata](https://open.spotify.com/track/3tt9i3Hhzq84dPS8H7iSiJ) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [2000](https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH) | 2:42 | 2023-03-18 | 2024-09-13 |
 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 | 2022-07-21 | 2023-03-19 |
 | [La Bebe \- Remix](https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [La Bebe \(Remix\)](https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti) | 3:54 | 2023-03-30 | 2023-10-06 |
 | [La Botella](https://open.spotify.com/track/5zkZazxkRze7ub2fT8Xv8u) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [FINAL \(Vol.2\)](https://open.spotify.com/album/5LHd4piJoHcz4CXhjsFKxx) | 3:06 | 2024-03-31 | 2024-04-07 |
@@ -897,6 +897,7 @@
 | [Mia](https://open.spotify.com/track/3A9q37nybfCjH4KGr5tk2K) | [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt) | [Mia](https://open.spotify.com/album/3ErPp2TowbYUvIETwv6Rkf) | 2:50 | 2023-10-02 | 2023-10-18 |
 | [Midas](https://open.spotify.com/track/6ZxQu3WmtKGzm6yeSKsaz0) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SEN2 KBRN VOL\. 1](https://open.spotify.com/album/7rzr5GOIXMfA41aIkzGtvo) | 2:04 | 2021-07-04 | 2021-07-11 |
 | [Miedo](https://open.spotify.com/track/1jCjfnzOnvmzyeKB7ikki5) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf), [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [Santo Niño](https://open.spotify.com/album/1m3Ynzb5HhBBuTlVJhFcvd) | 2:40 | 2021-06-20 | 2021-06-22 |
+| [Mientes Tan Bien](https://open.spotify.com/track/072YgF7J2clpY8DsWOpEri) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [De Viaje](https://open.spotify.com/album/0MystbDJBhdcJZBFkpgVbd) | 3:47 | 2024-09-12 |  |
 | [MIENTRAS ME CURO DEL CORA](https://open.spotify.com/track/6otePxalBK8AVa20xhZYVQ) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:44 | 2023-02-25 | 2024-03-24 |
 | [Millonario](https://open.spotify.com/track/15ddWrQcXwXUa7aXXtjPoN) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [Millonario](https://open.spotify.com/album/3qkatJ6F6GYd0p6rJ8enYU) | 2:38 | 2022-01-02 | 2022-01-08 |
 | [Millonario](https://open.spotify.com/track/0Dd5ZquKi6G7y12Dh4mZrJ) | [Unik0](https://open.spotify.com/artist/61QLOHMl58jhCqIBw6s82c), [Mozbeeth](https://open.spotify.com/artist/6TZOCncvkxgkNrcLwIuUYD) | [Millonario](https://open.spotify.com/album/279AWCbdChEdoXnNvxOEkG) | 2:01 | 2024-07-01 | 2024-08-29 |

@@ -109,6 +109,40 @@
     },
     {
       "album": {
+        "name": "Stree 2",
+        "url": "https://open.spotify.com/album/36DaAZreJ2iN4oPZ8HBUeU"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Pawan Singh",
+          "url": "https://open.spotify.com/artist/1T7MiVJ2MJlR5GKi11w4VT"
+        },
+        {
+          "name": "Simran Choudhary",
+          "url": "https://open.spotify.com/artist/1eQsrFTW5NHQs1X7B0mImu"
+        },
+        {
+          "name": "Divya Kumar",
+          "url": "https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178780,
+      "name": "Aayi Nai",
+      "url": "https://open.spotify.com/track/7BdVecQ6n11Qn6m5L9WDBW"
+    },
+    {
+      "album": {
         "name": "Ae Dil Hai Mushkil (Original Motion Picture Soundtrack) [Deluxe Edition]",
         "url": "https://open.spotify.com/album/5xjaz957o6YGSXmlfd2tex"
       },
@@ -208,7 +242,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 260262,
       "name": "Angaaron (From \"Pushpa 2 The Rule\") [HINDI]",
       "url": "https://open.spotify.com/track/2ZDOzySC2g3YF1p26TPzBt"
@@ -1398,7 +1432,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 187006,
       "name": "Kala Chashma",
       "url": "https://open.spotify.com/track/6mdLX10dvBb7rGYbMXpKzz"
@@ -3698,6 +3732,36 @@
       "duration_ms": 264089,
       "name": "Tum Se (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
       "url": "https://open.spotify.com/track/2ceeTJAzKy295Fm0VsaXtE"
+    },
+    {
+      "album": {
+        "name": "Stree 2",
+        "url": "https://open.spotify.com/album/36DaAZreJ2iN4oPZ8HBUeU"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Varun Jain",
+          "url": "https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx"
+        },
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230086,
+      "name": "Tumhare Hi Rahenge Hum",
+      "url": "https://open.spotify.com/track/3W1XHtgu4Pt7ai4d8RrKwD"
     },
     {
       "album": {

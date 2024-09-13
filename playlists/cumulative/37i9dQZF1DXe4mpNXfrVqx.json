@@ -2364,7 +2364,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 108493,
       "name": "Luz da Lua",
       "url": "https://open.spotify.com/track/3q4v3jZOaWEfN7AEb3nG6O"
@@ -2826,6 +2826,28 @@
       "duration_ms": 123750,
       "name": "Meu Lugar de Fala",
       "url": "https://open.spotify.com/track/0ckL8UjwoAYIOJ8hwQ8ASt"
+    },
+    {
+      "album": {
+        "name": "MEU NOME",
+        "url": "https://open.spotify.com/album/71OxfGMf96TyHmfw59FsR3"
+      },
+      "artists": [
+        {
+          "name": "Calena",
+          "url": "https://open.spotify.com/artist/05b2pxULrPTg4M5LCUzlzc"
+        },
+        {
+          "name": "Thai Flow",
+          "url": "https://open.spotify.com/artist/5Ag6yKoGGYp66o9vtpH89s"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121690,
+      "name": "MEU NOME",
+      "url": "https://open.spotify.com/track/00CL3XybVZREa07x1jOrG0"
     },
     {
       "album": {

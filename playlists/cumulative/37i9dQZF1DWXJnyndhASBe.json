@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Malik Montana, OG ENZO",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: bambi",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -188,7 +188,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 170600,
       "name": "3x TAK",
       "url": "https://open.spotify.com/track/2XNOI6IlvrKl5t294ji1jx"
@@ -232,7 +232,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 120902,
       "name": "4 RANO",
       "url": "https://open.spotify.com/track/0yeSXZ4we6LzZUyUhoGOIS"
@@ -786,7 +786,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 147500,
       "name": "ANORAK",
       "url": "https://open.spotify.com/track/1CnWxa71t13iEYsIY6IgmA"
@@ -1356,6 +1356,32 @@
       "duration_ms": 196106,
       "name": "By\u0142em cz\u0142owiekiem",
       "url": "https://open.spotify.com/track/0nQljvBR8fuT0nmLKZ6hqi"
+    },
+    {
+      "album": {
+        "name": "B\u0119dzie ja\u015bniej",
+        "url": "https://open.spotify.com/album/5eDqn2pvDB5RXJ8qd1UhC5"
+      },
+      "artists": [
+        {
+          "name": "Filipek",
+          "url": "https://open.spotify.com/artist/5hqRsNHDZH1jHzI9LgxFRZ"
+        },
+        {
+          "name": "NEL",
+          "url": "https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF"
+        },
+        {
+          "name": "Jonatan",
+          "url": "https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165368,
+      "name": "B\u0119dzie ja\u015bniej",
+      "url": "https://open.spotify.com/track/5dlSal73zNRaMgbaO10xu1"
     },
     {
       "album": {
@@ -2337,6 +2363,32 @@
     },
     {
       "album": {
+        "name": "depeche_mood",
+        "url": "https://open.spotify.com/album/1qkhonUkoj7xUdTELEu2yi"
+      },
+      "artists": [
+        {
+          "name": "Slums Attack",
+          "url": "https://open.spotify.com/artist/5G2bin17kewcOvJbA5MHWx"
+        },
+        {
+          "name": "Peja",
+          "url": "https://open.spotify.com/artist/5IQZA1dxUd3Qv73mHNln59"
+        },
+        {
+          "name": "Dj Decks",
+          "url": "https://open.spotify.com/artist/7rRsXnU1mpJwuBNMwH0Tsn"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165300,
+      "name": "depeche_mood",
+      "url": "https://open.spotify.com/track/2OyVBfYhZUFyUgGXl5xxCy"
+    },
+    {
+      "album": {
         "name": "DEREALIZACJA",
         "url": "https://open.spotify.com/album/2aGtqGgBNQx2tKbjQlFkYg"
       },
@@ -2444,7 +2496,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 265740,
       "name": "DNI LEPSZE NI\u017b TEN",
       "url": "https://open.spotify.com/track/5NrALgHxMvITkF7RF9KjJ6"
@@ -4199,6 +4251,32 @@
     },
     {
       "album": {
+        "name": "King Size",
+        "url": "https://open.spotify.com/album/3sXqTZQZCYJDFMZgJvAxTO"
+      },
+      "artists": [
+        {
+          "name": "Tomb",
+          "url": "https://open.spotify.com/artist/1Fr0Md8mOOg75V07Awv1G5"
+        },
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        },
+        {
+          "name": "Syru",
+          "url": "https://open.spotify.com/artist/3uT7FdWh1z2ATzC6K4UAGT"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153893,
+      "name": "King Size",
+      "url": "https://open.spotify.com/track/1JOddGXpgu2zDexFu5KHOi"
+    },
+    {
+      "album": {
         "name": "KLASA BIZNES",
         "url": "https://open.spotify.com/album/4Tg3fRIvijtCEr4073TNQq"
       },
@@ -4664,6 +4742,24 @@
       "duration_ms": 162833,
       "name": "Lustro",
       "url": "https://open.spotify.com/track/3WX6nwhznaVTD9CazfMV4F"
+    },
+    {
+      "album": {
+        "name": "LV Parano",
+        "url": "https://open.spotify.com/album/3ekTeWvVUxFxgFhuVL4fm1"
+      },
+      "artists": [
+        {
+          "name": "Louis Villain",
+          "url": "https://open.spotify.com/artist/5k96hVqrpJoo0zmlVggVzv"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161684,
+      "name": "LV Parano",
+      "url": "https://open.spotify.com/track/6J7a6S2F6yMGVlNIfEq2P6"
     },
     {
       "album": {
@@ -5342,7 +5438,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 187107,
       "name": "MI\u0118SO",
       "url": "https://open.spotify.com/track/3jvSzgNw7lBOzUMddKoekL"
@@ -7245,6 +7341,32 @@
     },
     {
       "album": {
+        "name": "POMALUJ M\u00d3J \u015aWIAT",
+        "url": "https://open.spotify.com/album/6rmMDwIEyRMHsfx1x9SwV6"
+      },
+      "artists": [
+        {
+          "name": "Kizo",
+          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
+        },
+        {
+          "name": "Bletka",
+          "url": "https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m"
+        },
+        {
+          "name": "BeMelo",
+          "url": "https://open.spotify.com/artist/58n40EtcUlarXICnPb9ohx"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188478,
+      "name": "POMALUJ M\u00d3J \u015aWIAT",
+      "url": "https://open.spotify.com/track/5AOkd7BJEmVj3pxRhW072C"
+    },
+    {
+      "album": {
         "name": "Power Up",
         "url": "https://open.spotify.com/album/0iwUNQApuN2m00w8Y5opQ8"
       },
@@ -9051,6 +9173,28 @@
     },
     {
       "album": {
+        "name": "U\u0142o\u017cy si\u0119",
+        "url": "https://open.spotify.com/album/5VZBorpmrMXMJYVkbe6NBX"
+      },
+      "artists": [
+        {
+          "name": "Paluch",
+          "url": "https://open.spotify.com/artist/462yq5vpZnO172v3nK9ibv"
+        },
+        {
+          "name": "Miroff",
+          "url": "https://open.spotify.com/artist/6BanFN5Xaq11YYRogYOtnD"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163384,
+      "name": "U\u0142o\u017cy si\u0119",
+      "url": "https://open.spotify.com/track/7zNUuHkow2HfGJolhfnyH7"
+    },
+    {
+      "album": {
         "name": "Vanitas",
         "url": "https://open.spotify.com/album/6d7MSutLjG62hZLhhObdx9"
       },
@@ -9434,7 +9578,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 166000,
       "name": "Wosk",
       "url": "https://open.spotify.com/track/7KbJRPtHT3uVD2gmqO8A4u"

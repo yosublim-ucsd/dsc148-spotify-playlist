@@ -146,7 +146,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 125800,
       "name": "Ballad Of Easy Rider",
       "url": "https://open.spotify.com/track/5Nn8SPmzJUV3xUZFBdFjcV"
@@ -204,7 +204,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 259374,
       "name": "Big Grey Boxes",
       "url": "https://open.spotify.com/track/59xbc8TCvpkgVoo9ldOpLz"
@@ -262,7 +262,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 268293,
       "name": "Built And Broken",
       "url": "https://open.spotify.com/track/2oLl22EdWPR8u8hTtfgBPS"
@@ -352,7 +352,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 238018,
       "name": "California",
       "url": "https://open.spotify.com/track/2TeTcoh9iB1uOOLiQBeTkT"
@@ -406,7 +406,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 178805,
       "name": "Changing Lanes",
       "url": "https://open.spotify.com/track/6Qh1GNWfKNx3gn3WOA9sLQ"
@@ -522,7 +522,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 208082,
       "name": "Dancing In The Dark",
       "url": "https://open.spotify.com/track/1mPXB7fe2vK1dJxMbSZuDP"
@@ -1141,6 +1141,28 @@
     },
     {
       "album": {
+        "name": "Highway Queen (feat. Maren Morris)",
+        "url": "https://open.spotify.com/album/6UzzFc365CidnoOcEfs3qb"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211485,
+      "name": "Highway Queen (feat. Maren Morris)",
+      "url": "https://open.spotify.com/track/4KjOZ6Ny13zPbBFH7Od8bt"
+    },
+    {
+      "album": {
         "name": "Holding On",
         "url": "https://open.spotify.com/album/3m9FmFnqFgKJ1XWgZSHUBE"
       },
@@ -1206,7 +1228,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 211633,
       "name": "Honestly",
       "url": "https://open.spotify.com/track/1i2pcGWcErOOZKvanPg0Xw"
@@ -1372,7 +1394,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 204840,
       "name": "I Waited for You",
       "url": "https://open.spotify.com/track/72ekaAHOCACTFM9C5DQ9uw"
@@ -1658,7 +1680,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 158653,
       "name": "Lost & Found",
       "url": "https://open.spotify.com/track/1Mk22y2ZqHMijN57LfOi5U"
@@ -1676,7 +1698,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 247243,
       "name": "Love in the Dark",
       "url": "https://open.spotify.com/track/5rdvOjYb63B0DSEMmA6GLE"
@@ -1748,7 +1770,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 194396,
       "name": "Love You So",
       "url": "https://open.spotify.com/track/7oFbkIDSxQTZN2n4y7cULK"
@@ -1914,6 +1936,24 @@
       "duration_ms": 257346,
       "name": "One Deep River",
       "url": "https://open.spotify.com/track/3Ruhf6RwJbrCmP4LcLw0lZ"
+    },
+    {
+      "album": {
+        "name": "One For You",
+        "url": "https://open.spotify.com/album/30FhQdB4IMOf8kLTzWX01k"
+      },
+      "artists": [
+        {
+          "name": "Johnny & the Dinosaurs",
+          "url": "https://open.spotify.com/artist/3VE3trzA2jZU19LphjsQwS"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243320,
+      "name": "One For You",
+      "url": "https://open.spotify.com/track/35FQibrRmgzCYrAfr4zYLf"
     },
     {
       "album": {
@@ -2120,6 +2160,28 @@
       "duration_ms": 167697,
       "name": "Red White & Blue",
       "url": "https://open.spotify.com/track/7gvAufNOnZygzxFRfTMg6v"
+    },
+    {
+      "album": {
+        "name": "Relapse Night",
+        "url": "https://open.spotify.com/album/5CmHVVEgwNYnB6MfOTPYtI"
+      },
+      "artists": [
+        {
+          "name": "Jasper Mook",
+          "url": "https://open.spotify.com/artist/2T853vs5kgD6rkaRBEiuL0"
+        },
+        {
+          "name": "Dani\u00eblle Mook",
+          "url": "https://open.spotify.com/artist/4vuKwfQFrjLlBKRUCulB2F"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175624,
+      "name": "Relapse Night",
+      "url": "https://open.spotify.com/track/6GJ9KHRxs0zhzvVKfXisFy"
     },
     {
       "album": {
@@ -2434,7 +2496,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 213168,
       "name": "Take A Ride",
       "url": "https://open.spotify.com/track/5lv9ngCtTMuXD6FtEzTGzN"
@@ -2840,7 +2902,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 221905,
       "name": "Underneath This Skin",
       "url": "https://open.spotify.com/track/0aobMBLmusskREM8uF8UMB"
@@ -2952,7 +3014,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 124986,
       "name": "Whatever Turns You On",
       "url": "https://open.spotify.com/track/1IiRUmC1fhDscYS90FxWKz"

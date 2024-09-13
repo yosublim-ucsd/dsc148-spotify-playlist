@@ -4,7 +4,7 @@
 
 > The best French indie tracks right now\. Cover : Victor Marc
 
-523 songs - 1 day 4 hr 37 min
+525 songs - 1 day 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Blinds](https://open.spotify.com/track/5heIFh4Abh0PfvoFviNuc5) | [Nina Versyp](https://open.spotify.com/artist/6MEkTyXq5nV6jeGlirVJjy) | [Blinds](https://open.spotify.com/album/5n40ewDmIxFxsBFTSHyQh8) | 2:45 | 2024-02-01 | 2024-07-12 |
 | [Bloqué](https://open.spotify.com/track/4km8XxyYCw5CSHM5H36K47) | [Météo Mirage](https://open.spotify.com/artist/76eO2ty9LXEKOITbJq6pCc) | [Bloqué](https://open.spotify.com/album/4AghyVNlGwrNpvj8uL7cPG) | 3:11 | 2021-12-16 | 2022-04-08 |
 | [blueberry stains](https://open.spotify.com/track/6YPIckxQBC4boFjWSAtlkb) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [postcard from L.A.](https://open.spotify.com/album/2dIT5g4FDrWXxKscvZkJs5) | 3:06 | 2022-07-28 | 2022-09-23 |
+| [Bonifacio](https://open.spotify.com/track/2kTCB0grV2QxiX46zuzEr3) | [Romain Muller](https://open.spotify.com/artist/2kNosEaCDLK4OdSzpZWaDu) | [Bonifacio](https://open.spotify.com/album/1XT5heZfUmmMANHgafkGwA) | 2:15 | 2024-09-12 |  |
 | [Boom Boom](https://open.spotify.com/track/7ytIPPfpyCWMhnPC5bp5iB) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg) | [Boom Boom](https://open.spotify.com/album/1DQ15XaG2nFt9dTMJwtbYA) | 3:29 | 2021-12-16 | 2022-02-04 |
 | [Bossa Supernova](https://open.spotify.com/track/5OaX0qy9jy6cDerIpMQF4o) | [Napkey](https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE) | [Bossa Supernova](https://open.spotify.com/album/5x7YwAgcrxksduNQwllHZf) | 3:12 | 2023-03-23 | 2023-04-28 |
 | [BPM](https://open.spotify.com/track/7Cd1MBmhMqmTbvRl4A1uaG) | [KLON](https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss) | [BPM](https://open.spotify.com/album/6o7G1i2yGIA8VJsaKoBHCh) | 2:58 | 2024-02-15 | 2024-09-06 |
@@ -367,6 +368,7 @@
 | [Paris en Août](https://open.spotify.com/track/6fXUOK5wb2yZUMz1cWV2zd) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [Paris en Août](https://open.spotify.com/album/3EkxQ6GEnoum2TFhrrXOVg) | 3:11 | 2022-08-25 | 2023-01-20 |
 | [Partir Loin](https://open.spotify.com/track/2604QmkjAd8peUvW2pq6DX) | [Antis](https://open.spotify.com/artist/2juj6BRMaPQO20Q41odCcu) | [Partir Loin](https://open.spotify.com/album/3dHRiGcQVDaxWgsTHKWRIq) | 2:38 | 2022-12-22 | 2023-03-31 |
 | [Pas d'ici](https://open.spotify.com/track/3UBZKE16VUDdeZj1VOPL0b) | [Ehla](https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp) | [Pas d'ici](https://open.spotify.com/album/5bRORAvguXBlmgvTN8SpsU) | 3:37 | 2021-12-16 | 2022-11-18 |
+| [Pas vraiment](https://open.spotify.com/track/1Nl4KaC3oa5HTqvzLOdkQh) | [Malik Djoudi](https://open.spotify.com/artist/5STTEE3TlZg9gb3xNC4RHF) | [Vivant](https://open.spotify.com/album/3DwFd9rWKeSNKhYeBgRfbD) | 3:17 | 2024-09-12 |  |
 | [Pesanteur](https://open.spotify.com/track/4tWdbD3IuTFxz8Sd4Nu6QH) | [Poppy Fusée](https://open.spotify.com/artist/5IFUbcd4w9UlVpsMNfY4FT) | [Pesanteur](https://open.spotify.com/album/1IUgA2qSFsB4GJOvgDVbrZ) | 2:36 | 2021-12-16 | 2022-04-15 |
 | [Petit Poucet](https://open.spotify.com/track/5n1uvSFB3AhKUrIPD61yAZ) | [Saint Michel](https://open.spotify.com/artist/2MYIJPSFNT6JYOPgvLEU1V) | [Petit Poucet](https://open.spotify.com/album/3UaSpVvzrUAxEexaIVt7Ap) | 4:12 | 2022-01-27 | 2022-05-07 |
 | [Petit son doux](https://open.spotify.com/track/0ajRm6fH78Pd3IhndVxOvn) | [Olga Kiav](https://open.spotify.com/artist/0SbgqOJyJPlo0nENeZEOXJ), [TABULÅ RØNDA](https://open.spotify.com/artist/4N8M9pfc4T0TEDfyyXDiWD), [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Petit son doux](https://open.spotify.com/album/5MMuZfpAx056SJ0YmHGqFe) | 3:17 | 2023-05-25 | 2023-06-02 |
@@ -395,7 +397,7 @@
 | [Remedy](https://open.spotify.com/track/1SwdyY367WF7OwvOZl2yml) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL), [Irfane](https://open.spotify.com/artist/3nqQeOUvDPTu4vtYtPfBjX) | [Remedy](https://open.spotify.com/album/3FxEc6csJOvdBtEEOrmJ6I) | 4:28 | 2022-01-27 | 2022-03-11 |
 | [Rendez\-vous](https://open.spotify.com/track/154FZo5XA2j8PqpsWeBzOt) | [Clément Froissart](https://open.spotify.com/artist/7b6v5ZQ3Hg7fPFhchvNoTt) | [Rendez\-Vous](https://open.spotify.com/album/3dsqMctn4QRKBgnkOKjQy9) | 3:23 | 2023-02-16 | 2023-03-10 |
 | [Rengaine](https://open.spotify.com/track/11oSV1uWeXCF4jSzwpZffA) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [11 mai 2020](https://open.spotify.com/album/0BoigvsL13ZlJ54rbTryoq) | 2:50 | 2022-06-30 | 2023-03-25 |
-| [rentrer chez moi](https://open.spotify.com/track/4lu4t2NkQ8APnm0GwL8Gbl) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [rentrer chez moi](https://open.spotify.com/album/3d8yIiEx11x64VMAbpoQcU) | 3:39 | 2024-04-25 |  |
+| [rentrer chez moi](https://open.spotify.com/track/4lu4t2NkQ8APnm0GwL8Gbl) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [rentrer chez moi](https://open.spotify.com/album/3d8yIiEx11x64VMAbpoQcU) | 3:39 | 2024-04-25 | 2024-09-13 |
 | [RESONATE](https://open.spotify.com/track/78FD0s97huTKxCw7Q2tM6J) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm) | [RESONATE](https://open.spotify.com/album/6RhSScp7LgXmw9vikoALss) | 2:41 | 2023-08-24 | 2023-09-29 |
 | [Reviens](https://open.spotify.com/track/2lfuJC4pd1zF9op7fL5qdr) | [Mezzanine](https://open.spotify.com/artist/5jzf34Dm3S5hnp9iwPxVBw) | [Reviens](https://open.spotify.com/album/6B0BFESRyFXWGEjjMxGS7Y) | 3:19 | 2022-06-02 | 2022-09-16 |
 | [rien dire](https://open.spotify.com/track/7nAU7YNFqUCb91FkTDVEUD) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [rien dire](https://open.spotify.com/album/2Kl3eV9Yo13AR4mgAXgWQu) | 3:02 | 2022-09-29 | 2022-11-18 |
@@ -447,7 +449,7 @@
 | [sunny face](https://open.spotify.com/track/4gTNHEwcUaCmHRUQi5n6Cn) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [sunny face](https://open.spotify.com/album/0hEPMULhG0Jt96XKWIPnC4) | 2:52 | 2022-09-01 | 2022-09-10 |
 | [Superficial](https://open.spotify.com/track/0FiuPK0P2AkuBnhcW4Ahmu) | [Victor Mechanick](https://open.spotify.com/artist/3GVjKlC2DChNqIEgXjSYmr) | [Superficial](https://open.spotify.com/album/0sMKi2d10AIPHSyICczf4s) | 3:40 | 2023-04-13 | 2023-05-05 |
 | [Superlove](https://open.spotify.com/track/2HAlxc5ytQPDAeSBfDYiTu) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [Superlove](https://open.spotify.com/album/2Xed5UiAm9CUVasY1uo6RE) | 3:48 | 2022-01-13 | 2022-02-04 |
-| [Superpouvoirs](https://open.spotify.com/track/4H9bfPHh0Kn298kVKb1Vlo) | [Petit Nuage](https://open.spotify.com/artist/3Fda0TI4lWfXB9c9R4xLyg) | [Superpouvoirs](https://open.spotify.com/album/1s03eumLRPRG0deQfniyds) | 2:34 | 2024-04-04 |  |
+| [Superpouvoirs](https://open.spotify.com/track/4H9bfPHh0Kn298kVKb1Vlo) | [Petit Nuage](https://open.spotify.com/artist/3Fda0TI4lWfXB9c9R4xLyg) | [Superpouvoirs](https://open.spotify.com/album/1s03eumLRPRG0deQfniyds) | 2:34 | 2024-04-04 | 2024-09-13 |
 | [SUR LE COEUR](https://open.spotify.com/track/1dBsbSQlzdEAbSehMB6bD9) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE) | [SUR LE COEUR](https://open.spotify.com/album/55x88wSRtzOdANenONxpHI) | 2:35 | 2023-01-05 | 2023-06-02 |
 | [Sweet Life](https://open.spotify.com/track/2cJ2LCRO3UNbf3F20CaUh8) | [Golf Trip](https://open.spotify.com/artist/2cSZwherHAASXofK9ZFK2A) | [Chambre Noire, Vol\. 1](https://open.spotify.com/album/4pam5MIIbElV9WVZibgJJi) | 3:27 | 2023-09-21 | 2024-02-09 |
 | [Série B](https://open.spotify.com/track/0aUOoC8yi2GkWEb3styxmO) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [Série B](https://open.spotify.com/album/7a2Pfndpa3oxlHwJTfKiEb) | 3:21 | 2023-03-09 | 2023-07-07 |

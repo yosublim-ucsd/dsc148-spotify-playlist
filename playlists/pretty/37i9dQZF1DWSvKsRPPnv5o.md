@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: 310babii
 
-[Spotify](https://open.spotify.com/user/spotify) - 732,669 likes - 75 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 732,702 likes - 75 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 43 | [Brand New](https://open.spotify.com/track/3MbOT5mzE94Ne0Hv51akoS) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Brand New](https://open.spotify.com/album/0p82QxkLngaHhRkbET3IZ0) | 3:02 |
 | 44 | [High Value \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/7GrSsLy5jgpgkhABBQ1VoB) | [RJMrLA](https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [The Bitch Tape](https://open.spotify.com/album/4Qw9EzjCe2qK1VIYOfAXix) | 2:38 |
 | 45 | [RIP SUEDE](https://open.spotify.com/track/0oIJgGKQYukfFx6I72NuGS) | [AzChike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw) | [CHIZZLE](https://open.spotify.com/album/4aSqc8dCaaWQho72mHd7ZB) | 2:24 |
-| 46 | [GO BRAZY \- WITH MUSTARD & BABY STONE GORILLAS](https://open.spotify.com/track/2DARY9rFneNKGHr3vyB08c) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Baby Stone Gorillas](https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [JUST RE'D UP 3](https://open.spotify.com/album/2qkZWTL0e6lDon20SCiP69) | 2:40 |
+| 46 | [GO BRAZY \(WITH MUSTARD & BABY STONE GORILLAS\)](https://open.spotify.com/track/2DARY9rFneNKGHr3vyB08c) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Baby Stone Gorillas](https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [JUST RE'D UP 3](https://open.spotify.com/album/2qkZWTL0e6lDon20SCiP69) | 2:40 |
 | 47 | [THank god 4 me](https://open.spotify.com/track/7CwO2esrH095tjxmJVMY2E) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [BLUE LIPS](https://open.spotify.com/album/107WsrBqn5xVPgystkziry) | 2:57 |
 | 48 | [For The Movement \(feat\. Marco Mula, Celly Ru\)](https://open.spotify.com/track/7qwm4mq9QZ5hTsHhxuFllH) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Marco Mula](https://open.spotify.com/artist/1LaX4CefeoOqJJTZR5K4PR), [Celly Ru](https://open.spotify.com/artist/3MeyqB6fA2aj1NZq6ztjRk) | [BRASH DUMMIES](https://open.spotify.com/album/2gaI5fvm0wSI4sn3jVffuw) | 2:50 |
 | 49 | [Pose For Me](https://open.spotify.com/track/1sgTUndxucoDRXlJds4fZ9) | [John Mackk](https://open.spotify.com/artist/57Ay3Ye4cloEzuDSTYQ1kw) | [Pose For Me](https://open.spotify.com/album/1V8F5yi1IO7cmAVD6e7Dfw) | 1:28 |

@@ -1,6 +1,6 @@
 {
   "description": "Lo que necesita cualquier verbena veraniega.",
-  "num_followers": 344360,
+  "num_followers": 344343,
   "original_name": "Cl\u00e1sicos del Verano",
   "owner": {
     "name": "Spotify",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
-        "name": "It's Pony Time/Let's Twist Again",
-        "url": "https://open.spotify.com/album/4btfmKwgAHFtN7BQUSHta0"
-      },
-      "artists": [
-        {
-          "name": "Chubby Checker",
-          "url": "https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2"
-        }
-      ],
-      "duration_ms": 137360,
-      "name": "Let's Twist Again",
-      "url": "https://open.spotify.com/track/1INWPr855fwWdAOeecbu0W"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
         "name": "Middle Of Nowhere",
         "url": "https://open.spotify.com/album/3StpQT9Qd87FSeWeQAdg1h"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 268653,
       "name": "MMMBop",
       "url": "https://open.spotify.com/track/0lnxrQAd9ZxbhBBe7d8FO8"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
+        "name": "It's Pony Time/Let's Twist Again",
+        "url": "https://open.spotify.com/album/4btfmKwgAHFtN7BQUSHta0"
+      },
+      "artists": [
+        {
+          "name": "Chubby Checker",
+          "url": "https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2"
+        }
+      ],
+      "duration_ms": 137360,
+      "name": "Let's Twist Again",
+      "url": "https://open.spotify.com/track/1INWPr855fwWdAOeecbu0W"
     },
     {
       "added_at": "2024-06-18 12:57:48",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
-        "name": "Hums Of The Lovin' Spoonful",
-        "url": "https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY"
-      },
-      "artists": [
-        {
-          "name": "The Lovin' Spoonful",
-          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
-        }
-      ],
-      "duration_ms": 160306,
-      "name": "Summer in the City - Remastered",
-      "url": "https://open.spotify.com/track/7AzFID6u1b3zIWbd9pb8Dk"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
         "name": "Bandido",
         "url": "https://open.spotify.com/album/29QmPdVjXD0c5DpS4U51di"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 261360,
       "name": "Amante Bandido",
       "url": "https://open.spotify.com/track/1hj6nYHeGclSY0VNTHMi27"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
+        "name": "Hums Of The Lovin' Spoonful",
+        "url": "https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY"
+      },
+      "artists": [
+        {
+          "name": "The Lovin' Spoonful",
+          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
+        }
+      ],
+      "duration_ms": 160306,
+      "name": "Summer in the City - Remastered",
+      "url": "https://open.spotify.com/track/7AzFID6u1b3zIWbd9pb8Dk"
     },
     {
       "added_at": "2024-06-18 12:57:48",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
-        "name": "Rayos de Sol",
-        "url": "https://open.spotify.com/album/3ZXPjs7JZejedxBbXobWRA"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 de Rico",
-          "url": "https://open.spotify.com/artist/2ny2IhV61AbrsaWpjvGM7m"
-        },
-        {
-          "name": "Henry Mendez",
-          "url": "https://open.spotify.com/artist/4mnY9Vvz3GXQIyHljvWnY1"
-        }
-      ],
-      "duration_ms": 231562,
-      "name": "Rayos de Sol",
-      "url": "https://open.spotify.com/track/1d5obgzCOtwq9qaxfe4Hpw"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
         "name": "Palabras m\u00e1s, palabras menos",
         "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 234800,
       "name": "Mucho mejor (feat. Coque Malla)",
       "url": "https://open.spotify.com/track/06xLo8Oa53wmBMdWcIsqPL"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
+        "name": "Rayos de Sol",
+        "url": "https://open.spotify.com/album/3ZXPjs7JZejedxBbXobWRA"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 de Rico",
+          "url": "https://open.spotify.com/artist/2ny2IhV61AbrsaWpjvGM7m"
+        },
+        {
+          "name": "Henry Mendez",
+          "url": "https://open.spotify.com/artist/4mnY9Vvz3GXQIyHljvWnY1"
+        }
+      ],
+      "duration_ms": 231562,
+      "name": "Rayos de Sol",
+      "url": "https://open.spotify.com/track/1d5obgzCOtwq9qaxfe4Hpw"
     },
     {
       "added_at": "2024-06-18 12:57:48",
@@ -1799,6 +1799,22 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
+        "name": "Paulina",
+        "url": "https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB"
+      },
+      "artists": [
+        {
+          "name": "Paulina Rubio",
+          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
+        }
+      ],
+      "duration_ms": 254773,
+      "name": "Y Yo Sigo Aqui - Spanglish",
+      "url": "https://open.spotify.com/track/2Ma2f8jV8VKMJoAcnCvZ8h"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
         "name": "Tacat\u00e0",
         "url": "https://open.spotify.com/album/6Th9OWjLOcPPw08RcgvjvF"
       },
@@ -1823,22 +1839,6 @@
       "duration_ms": 210000,
       "name": "Tacat\u00e0 - Radio Edit",
       "url": "https://open.spotify.com/track/51RBDu31r3ynFswDJmidLW"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
-        "name": "Paulina",
-        "url": "https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB"
-      },
-      "artists": [
-        {
-          "name": "Paulina Rubio",
-          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
-        }
-      ],
-      "duration_ms": 254773,
-      "name": "Y Yo Sigo Aqui - Spanglish",
-      "url": "https://open.spotify.com/track/2Ma2f8jV8VKMJoAcnCvZ8h"
     },
     {
       "added_at": "2024-06-18 12:57:48",
@@ -2039,22 +2039,6 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
-        "name": "Are You Ready",
-        "url": "https://open.spotify.com/album/54RErP77YqRriSc1RpQ2sB"
-      },
-      "artists": [
-        {
-          "name": "2 Eivissa",
-          "url": "https://open.spotify.com/artist/3gkV8EZ8pE0eCwyLeUNwzE"
-        }
-      ],
-      "duration_ms": 211253,
-      "name": "Oh La La La",
-      "url": "https://open.spotify.com/track/3y7KI1lRSm9jjrCjmsyFPN"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
         "name": "Como te d\u00e9 la gana",
         "url": "https://open.spotify.com/album/5pZyF7BqhusMyrBd8eOjy8"
       },
@@ -2071,6 +2055,22 @@
       "duration_ms": 300026,
       "name": "Las cosas peque\u00f1itas - Mix",
       "url": "https://open.spotify.com/track/6ILh8Kypi5rnlOV8LzvVtj"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
+        "name": "Are You Ready",
+        "url": "https://open.spotify.com/album/54RErP77YqRriSc1RpQ2sB"
+      },
+      "artists": [
+        {
+          "name": "2 Eivissa",
+          "url": "https://open.spotify.com/artist/3gkV8EZ8pE0eCwyLeUNwzE"
+        }
+      ],
+      "duration_ms": 211253,
+      "name": "Oh La La La",
+      "url": "https://open.spotify.com/track/3y7KI1lRSm9jjrCjmsyFPN"
     },
     {
       "added_at": "2024-06-18 12:57:48",

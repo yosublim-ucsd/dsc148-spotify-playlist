@@ -1,12 +1,12 @@
 {
   "description": "The best new indie tracks from independent artists & labels. Cover: Fcukers",
-  "num_followers": 226090,
+  "num_followers": 226171,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuHKZgAAAABK/o85u8An5oFD/Qta2Im7",
+  "snapshot_id": "ZuNVnwAAAABndCHk7LOXRAtJE9N33vnJ",
   "tracks": [
     {
       "added_at": "2024-09-11 16:50:46",
@@ -57,6 +57,22 @@
       "url": "https://open.spotify.com/track/6CWvAjwzYoALz72oDqgdzm"
     },
     {
+      "added_at": "2024-09-12 20:57:03",
+      "album": {
+        "name": "Paris / San Francisco",
+        "url": "https://open.spotify.com/album/2VFJG91yaQl6TuCWpP95bw"
+      },
+      "artists": [
+        {
+          "name": "Remy Bond",
+          "url": "https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo"
+        }
+      ],
+      "duration_ms": 227096,
+      "name": "Don't Go Back To Paris",
+      "url": "https://open.spotify.com/track/0jeGTzkvrNRBC8Dt8bsDRN"
+    },
+    {
       "added_at": "2024-09-04 16:00:00",
       "album": {
         "name": "One Trick Pony",
@@ -71,6 +87,22 @@
       "duration_ms": 180053,
       "name": "One Trick Pony",
       "url": "https://open.spotify.com/track/12EVjWV5YBZ4kCLa1XQPnb"
+    },
+    {
+      "added_at": "2024-09-12 20:57:03",
+      "album": {
+        "name": "Box for Buddy, Box for Star",
+        "url": "https://open.spotify.com/album/3wSIO65dy3pAoBjKBybOcV"
+      },
+      "artists": [
+        {
+          "name": "This Is Lorelei",
+          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
+        }
+      ],
+      "duration_ms": 248535,
+      "name": "Perfect Hand",
+      "url": "https://open.spotify.com/track/6liSKA1Va8rggh6HxKHaYr"
     },
     {
       "added_at": "2024-09-11 16:50:46",
@@ -103,6 +135,22 @@
       "duration_ms": 95515,
       "name": "Saltlick",
       "url": "https://open.spotify.com/track/4Pu1l1CF4rcN3xIgWbgni6"
+    },
+    {
+      "added_at": "2024-09-12 20:57:03",
+      "album": {
+        "name": "Why is everyone a DJ?",
+        "url": "https://open.spotify.com/album/3yscJ56s1RNgZSZngqDBNa"
+      },
+      "artists": [
+        {
+          "name": "LAUNDRY DAY",
+          "url": "https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk"
+        }
+      ],
+      "duration_ms": 148353,
+      "name": "Why is everyone a DJ?",
+      "url": "https://open.spotify.com/track/3y3JcY50HJob6QfkGz66ti"
     },
     {
       "added_at": "2024-09-11 16:50:46",

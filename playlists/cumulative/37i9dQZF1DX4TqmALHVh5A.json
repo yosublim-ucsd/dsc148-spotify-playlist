@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : La Femme",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Bryan's Magic Tears",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -1018,7 +1018,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 182500,
       "name": "Encore",
       "url": "https://open.spotify.com/track/0MMwBokFBDp14xOgnqeVnR"
@@ -1508,7 +1508,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 201989,
       "name": "JUSTE AMIS",
       "url": "https://open.spotify.com/track/1L9xCQ6PYyAgHqGfFPXC9N"
@@ -1735,6 +1735,24 @@
     },
     {
       "album": {
+        "name": "Le Plus Grand Spectacle De La Terre",
+        "url": "https://open.spotify.com/album/6v3AWuo8JpAn2dvkBnObzY"
+      },
+      "artists": [
+        {
+          "name": "ascendant vierge",
+          "url": "https://open.spotify.com/artist/3IMOGrM63og03I4jMYo35G"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252800,
+      "name": "Le Plus Grand Spectacle De La Terre",
+      "url": "https://open.spotify.com/track/4XrYouAkn2r0SruM46R8Kv"
+    },
+    {
+      "album": {
         "name": "Le saut du tigre",
         "url": "https://open.spotify.com/album/66OhazmOAiQAUw4kJ3R7GN"
       },
@@ -1818,7 +1836,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 220882,
       "name": "Les gar\u00e7ons",
       "url": "https://open.spotify.com/track/5XGju7r47HMtg660vdkBSd"
@@ -2034,10 +2052,28 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 131004,
       "name": "Moins seul sans eux",
       "url": "https://open.spotify.com/track/1c56S0vX15OA4H8X64ziJl"
+    },
+    {
+      "album": {
+        "name": "Trois, Deux, Un",
+        "url": "https://open.spotify.com/album/20yAmWJJUpuJpB3qkkWCng"
+      },
+      "artists": [
+        {
+          "name": "Juniore",
+          "url": "https://open.spotify.com/artist/1vxsourLLLfobrxyWAcuQH"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191440,
+      "name": "Monumental",
+      "url": "https://open.spotify.com/track/7tJlVzsLzzmA7bLI9ytgS9"
     },
     {
       "album": {
@@ -2096,6 +2132,28 @@
       "duration_ms": 194600,
       "name": "My Way (with Creams)",
       "url": "https://open.spotify.com/track/5WvApuKcoXZL1FinExKsRq"
+    },
+    {
+      "album": {
+        "name": "M\u00e9chant gar\u00e7on (feat. Chien Noir)",
+        "url": "https://open.spotify.com/album/2mGz7zRWccHazZEIZnXqBJ"
+      },
+      "artists": [
+        {
+          "name": "Bandit Bandit",
+          "url": "https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h"
+        },
+        {
+          "name": "chien noir",
+          "url": "https://open.spotify.com/artist/2MdOIYu5xlRSog6P2i4uwP"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176088,
+      "name": "M\u00e9chant gar\u00e7on (feat. Chien Noir)",
+      "url": "https://open.spotify.com/track/0UxirFJ2VwSeVI2xLXgSuU"
     },
     {
       "album": {
@@ -3010,6 +3068,24 @@
       "duration_ms": 192557,
       "name": "STP Apaise toi",
       "url": "https://open.spotify.com/track/1JDY621fH5Ufd0y9AuCg59"
+    },
+    {
+      "album": {
+        "name": "Stream Roller",
+        "url": "https://open.spotify.com/album/4QBPUw0lhdW6rg7zau4YLy"
+      },
+      "artists": [
+        {
+          "name": "Bryan's Magic Tears",
+          "url": "https://open.spotify.com/artist/4HgpwARKKErmILpXm5YcST"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272746,
+      "name": "Stream Roller",
+      "url": "https://open.spotify.com/track/6no1ETaFSFnyGHWtki50zI"
     },
     {
       "album": {

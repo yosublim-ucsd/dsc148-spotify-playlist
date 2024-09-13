@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Your future favourite pop stars, fresh for the UK. Cover: Humble The Great",
+  "description": "Your future favourite pop stars, fresh for the UK. Cover: CATTY",
   "name": "New Pop UK",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 222000,
       "name": "8 Hours Behind",
       "url": "https://open.spotify.com/track/1XatdQFGS96OCUSLkVmhDH"
+    },
+    {
+      "album": {
+        "name": "Actress",
+        "url": "https://open.spotify.com/album/2fE2LB3306jWzjQXSHzio5"
+      },
+      "artists": [
+        {
+          "name": "CATTY",
+          "url": "https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194754,
+      "name": "Actress",
+      "url": "https://open.spotify.com/track/4xW5io4CLYdYaGKenBYmvA"
     },
     {
       "album": {
@@ -106,7 +124,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 178021,
       "name": "All The Time",
       "url": "https://open.spotify.com/track/15kh7Rja9cOZZ2yI5bZlvX"
@@ -221,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Break My Own Heart",
+        "url": "https://open.spotify.com/album/0yXm3Hvv1s6D17Fg2jZiei"
+      },
+      "artists": [
+        {
+          "name": "Ruti",
+          "url": "https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215276,
+      "name": "Break My Own Heart",
+      "url": "https://open.spotify.com/track/3nkMwpRcRrVtWiuTfPMK2P"
+    },
+    {
+      "album": {
         "name": "Bruised One",
         "url": "https://open.spotify.com/album/7D3177ySIsW3EfuaLqJRJQ"
       },
@@ -293,6 +329,24 @@
     },
     {
       "album": {
+        "name": "Caravan",
+        "url": "https://open.spotify.com/album/3GRnxf36SwDQH5BkM4veLE"
+      },
+      "artists": [
+        {
+          "name": "ROE",
+          "url": "https://open.spotify.com/artist/6ZgfyJzSGlummUBhUK1hxw"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213569,
+      "name": "Caravan",
+      "url": "https://open.spotify.com/track/0C2zLP42AKkoTmXGASh7HK"
+    },
+    {
+      "album": {
         "name": "Caught Up",
         "url": "https://open.spotify.com/album/4rG8urpRqy180HcCWO1mML"
       },
@@ -322,7 +376,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 183779,
       "name": "Chameleon",
       "url": "https://open.spotify.com/track/0UoXbt3i1BiUmtFn8KbDFE"
@@ -380,6 +434,42 @@
       "duration_ms": 205932,
       "name": "Could You Ever?",
       "url": "https://open.spotify.com/track/6ITKUhLctPRE0lZxgpvw2q"
+    },
+    {
+      "album": {
+        "name": "D&G",
+        "url": "https://open.spotify.com/album/1qGmR85buTull1pvLfQgJR"
+      },
+      "artists": [
+        {
+          "name": "Claudia Valentina",
+          "url": "https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124800,
+      "name": "D&G",
+      "url": "https://open.spotify.com/track/6SqA0ketFw8TP6H6dhIjk3"
+    },
+    {
+      "album": {
+        "name": "Dark Arts",
+        "url": "https://open.spotify.com/album/3cZJKRV8PnPOuBUZJbHZaZ"
+      },
+      "artists": [
+        {
+          "name": "aimei \u5a9a",
+          "url": "https://open.spotify.com/artist/2ij6gLxPV2uEuRxDwnyBfZ"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207348,
+      "name": "Dark Arts",
+      "url": "https://open.spotify.com/track/5q8lO9GDY33DvVH4gkkPNa"
     },
     {
       "album": {
@@ -466,10 +556,28 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 146413,
       "name": "end game",
       "url": "https://open.spotify.com/track/3YyyTcNUwJU4fS01fppkkZ"
+    },
+    {
+      "album": {
+        "name": "erase u",
+        "url": "https://open.spotify.com/album/74Ho6d5Ftge7QFc4LDMwlM"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183043,
+      "name": "erase u",
+      "url": "https://open.spotify.com/track/6PhuO3Usi63YmV8H7jBpU7"
     },
     {
       "album": {
@@ -556,7 +664,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 196899,
       "name": "find your own",
       "url": "https://open.spotify.com/track/64W7JQPeshk6EcT02XbYUP"
@@ -614,6 +722,24 @@
       "duration_ms": 164034,
       "name": "Fuck",
       "url": "https://open.spotify.com/track/1kFEvhWfwYP5Ct75HuETBv"
+    },
+    {
+      "album": {
+        "name": "Gelato",
+        "url": "https://open.spotify.com/album/5dSQCwawyJJIXkoaoRFbRS"
+      },
+      "artists": [
+        {
+          "name": "ili",
+          "url": "https://open.spotify.com/artist/4Yn7SW1ERvmPwQHPMiv8t4"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149390,
+      "name": "Gelato",
+      "url": "https://open.spotify.com/track/1gyn2WucpyJfDTK1ozZznR"
     },
     {
       "album": {
@@ -700,7 +826,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 238685,
       "name": "Got to Let Go",
       "url": "https://open.spotify.com/track/0QOoHq0f7kM5j68yF0DkSk"
@@ -718,7 +844,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 228857,
       "name": "Healing Out of Spite",
       "url": "https://open.spotify.com/track/1OTSZ1Y1GZ8X6HS89iEiaA"
@@ -941,6 +1067,24 @@
     },
     {
       "album": {
+        "name": "MAGIC",
+        "url": "https://open.spotify.com/album/5t2ZdRVGR4wlesejFr47qs"
+      },
+      "artists": [
+        {
+          "name": "Reuben Aziz",
+          "url": "https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187245,
+      "name": "MAGIC",
+      "url": "https://open.spotify.com/track/5jDbIt9JdzAs0CRCf5dYeT"
+    },
+    {
+      "album": {
         "name": "Messy",
         "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
       },
@@ -1089,6 +1233,24 @@
     },
     {
       "album": {
+        "name": "Pretend",
+        "url": "https://open.spotify.com/album/2kVxxNLrZRBPGJXeYYp9vC"
+      },
+      "artists": [
+        {
+          "name": "Eyelar",
+          "url": "https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105595,
+      "name": "Pretend",
+      "url": "https://open.spotify.com/track/1R8ot3FsHvOWiekAkn2sZ9"
+    },
+    {
+      "album": {
         "name": "pretty",
         "url": "https://open.spotify.com/album/0Saa8EmKCUN2EUnCy4szRc"
       },
@@ -1118,7 +1280,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 181042,
       "name": "Queen",
       "url": "https://open.spotify.com/track/4fidflpyukTVL9kPG0f1xj"
@@ -1158,6 +1320,24 @@
       "duration_ms": 220666,
       "name": "right person, wrong time",
       "url": "https://open.spotify.com/track/1i9B60CCWKfNOIKVhXmDzf"
+    },
+    {
+      "album": {
+        "name": "Life Of The Party",
+        "url": "https://open.spotify.com/album/02cnQUDeztCpLawkPAjXtW"
+      },
+      "artists": [
+        {
+          "name": "Glowe",
+          "url": "https://open.spotify.com/artist/2RZUpkLcPheIJuXLexerK0"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128315,
+      "name": "Room Service",
+      "url": "https://open.spotify.com/track/3n3z00AYYXA9PpKjesESux"
     },
     {
       "album": {
@@ -1262,7 +1442,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 145500,
       "name": "Superfan",
       "url": "https://open.spotify.com/track/6dCqCHxMhOjEpx43wgWycn"
@@ -1414,7 +1594,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 149002,
       "name": "What Happened?",
       "url": "https://open.spotify.com/track/1jOvqIzgRTqPwWGzbmeEqh"
@@ -1432,7 +1612,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 187034,
       "name": "Wingman",
       "url": "https://open.spotify.com/track/553ChZNK0odFJhu4aYNh63"

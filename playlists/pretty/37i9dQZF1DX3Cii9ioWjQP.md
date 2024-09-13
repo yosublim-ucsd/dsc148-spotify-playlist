@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 
 > All about Korean Jazz hits & new \(Cover: YUNSEOKCHEOL TRIO\(윤석철트리오\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,578 likes - 110 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,575 likes - 110 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

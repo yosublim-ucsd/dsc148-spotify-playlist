@@ -20319,6 +20319,24 @@
     },
     {
       "album": {
+        "name": "Mastercard",
+        "url": "https://open.spotify.com/album/6jJkHZaIS3bBXBaafuY17p"
+      },
+      "artists": [
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199616,
+      "name": "Mastercard",
+      "url": "https://open.spotify.com/track/4DCm1yyODwqULv5zOb1mkW"
+    },
+    {
+      "album": {
         "name": "Sing Me a Lullaby, My Sweet Temptation",
         "url": "https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3"
       },
@@ -30647,7 +30665,7 @@
     },
     {
       "album": {
-        "name": "Summertime Sadness [Lana Del Rey vs. Cedric Gervais] (Cedric Gervais Remix)",
+        "name": "Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix",
         "url": "https://open.spotify.com/album/1fXwOvaqIdkhp5F3fiFbCv"
       },
       "artists": [

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSZIKOOemBft.md) - [plain]
 
 > Anguished with a tragic past, this character’s demeanor may intimidate some, but deep down they just need a hug.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,947 likes - 40 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,062 likes - 40 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSZIKOOemBft.md) - [plain]
 | 39 | [くじら](https://open.spotify.com/track/5NXUkq6bD0Gg9i8sao4RgN) | [SUDA MASAKI](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [SPIN](https://open.spotify.com/album/2PR7aIU8fs6UQvPGDeoAgu) | 4:38 |
 | 40 | [カルマ](https://open.spotify.com/track/3Ht2iEekMrHRndj0sC5e2X) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [orbital period](https://open.spotify.com/album/17ZzUupJuP54aPsWn7eCKb) | 3:29 |
 
-Snapshot ID: `ZsNB0AAAAACPpZjipGo1p9QnZnrpmeX5`
+Snapshot ID: `ZsNB0AAAAAAkzPavlWZPiTYsuluDQybB`

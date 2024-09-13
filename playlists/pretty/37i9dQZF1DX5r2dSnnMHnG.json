@@ -1,6 +1,6 @@
 {
   "description": "\ubc9a\uaf43\uc774 \ud769\ub0a0\ub9ac\uace0 \uc0c8\uc2f9\uc774 \ud53c\uc5b4\uc624\ub974\ub294 \ubd04\uc758 \uc124\ub808\uc784\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 7165,
+  "num_followers": 7162,
   "original_name": "*\ubd04 \uc124\ub808\uc784",
   "owner": {
     "name": "Spotify",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2024-07-17 05:38:05",
       "album": {
+        "name": "Spring illusion",
+        "url": "https://open.spotify.com/album/0IsKfvMDp1i8iOa0LzZS68"
+      },
+      "artists": [
+        {
+          "name": "YEWON",
+          "url": "https://open.spotify.com/artist/2GJNbshsJuL7t4ME9LOwZ0"
+        }
+      ],
+      "duration_ms": 183645,
+      "name": "Spring illusion",
+      "url": "https://open.spotify.com/track/23AfR0HzE468s6NcPqSGQn"
+    },
+    {
+      "added_at": "2024-07-17 05:38:05",
+      "album": {
         "name": "Love is You",
         "url": "https://open.spotify.com/album/208XzKaQPMlzkOimZbCG9E"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 191872,
       "name": "Wish",
       "url": "https://open.spotify.com/track/3vvJdhNvwogyNhmgaGONZw"
-    },
-    {
-      "added_at": "2024-07-17 05:38:05",
-      "album": {
-        "name": "Spring illusion",
-        "url": "https://open.spotify.com/album/0IsKfvMDp1i8iOa0LzZS68"
-      },
-      "artists": [
-        {
-          "name": "YEWON",
-          "url": "https://open.spotify.com/artist/2GJNbshsJuL7t4ME9LOwZ0"
-        }
-      ],
-      "duration_ms": 183645,
-      "name": "Spring illusion",
-      "url": "https://open.spotify.com/track/23AfR0HzE468s6NcPqSGQn"
     },
     {
       "added_at": "2024-07-17 05:38:05",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2024-07-17 05:38:05",
       "album": {
+        "name": "Weird Boy",
+        "url": "https://open.spotify.com/album/6EJ0l23dnuI89XY09Vbh9s"
+      },
+      "artists": [
+        {
+          "name": "murmoom",
+          "url": "https://open.spotify.com/artist/2vsaAlNouG0tPd8CMKj7l3"
+        }
+      ],
+      "duration_ms": 217035,
+      "name": "Weird Boy",
+      "url": "https://open.spotify.com/track/1S6Kx6dOOWlJecLe1fM3Sm"
+    },
+    {
+      "added_at": "2024-07-17 05:38:05",
+      "album": {
         "name": "I'm on my way to you",
         "url": "https://open.spotify.com/album/6DX3jl8nfeWduJrvXytQ13"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 182928,
       "name": "I wanna walk with you (feat. Subbit & Luhae)",
       "url": "https://open.spotify.com/track/725nZxxHYGcdLZhoeG3NMG"
-    },
-    {
-      "added_at": "2024-07-17 05:38:05",
-      "album": {
-        "name": "Weird Boy",
-        "url": "https://open.spotify.com/album/6EJ0l23dnuI89XY09Vbh9s"
-      },
-      "artists": [
-        {
-          "name": "murmoom",
-          "url": "https://open.spotify.com/artist/2vsaAlNouG0tPd8CMKj7l3"
-        }
-      ],
-      "duration_ms": 217035,
-      "name": "Weird Boy",
-      "url": "https://open.spotify.com/track/1S6Kx6dOOWlJecLe1fM3Sm"
     },
     {
       "added_at": "2024-07-17 05:38:05",

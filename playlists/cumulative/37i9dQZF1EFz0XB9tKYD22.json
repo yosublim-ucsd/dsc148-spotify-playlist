@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-10",
+      "date_removed": null,
       "duration_ms": 240840,
       "name": "23 Degrees And South",
       "url": "https://open.spotify.com/track/3eKwcOjuBr5xKwuguvUIYE"
@@ -146,7 +146,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-02",
+      "date_removed": null,
       "duration_ms": 193561,
       "name": "Afraid to Say It",
       "url": "https://open.spotify.com/track/02kOwnxZ5XHlO7JtPQaueS"
@@ -2510,7 +2510,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-29",
+      "date_removed": null,
       "duration_ms": 200907,
       "name": "I Won't Lie",
       "url": "https://open.spotify.com/track/6eDFmuT7OW5TQGERzto20z"
@@ -3658,7 +3658,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-29",
+      "date_removed": null,
       "duration_ms": 211386,
       "name": "No Worries",
       "url": "https://open.spotify.com/track/1Hz5RFB6MvqlU7O9lN6CZG"
@@ -4122,7 +4122,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-29",
+      "date_removed": null,
       "duration_ms": 169225,
       "name": "Relapse",
       "url": "https://open.spotify.com/track/5FNnv4NtUeXrCBChLiXJq8"
@@ -4872,6 +4872,24 @@
       "duration_ms": 161458,
       "name": "Stunt Double",
       "url": "https://open.spotify.com/track/5LAAz2QNBubOceyLmEDPOY"
+    },
+    {
+      "album": {
+        "name": "Karaoke Quick Tracks - Sing the Hits of Jessica Andrews (Karaoke Version) (Originally Performed By Jessica Andrews)",
+        "url": "https://open.spotify.com/album/4xlhT7jOQJT71ZcJXVtT4O"
+      },
+      "artists": [
+        {
+          "name": "Pro Choice Karaoke",
+          "url": "https://open.spotify.com/artist/39SxEZ3tqMcObAi3T9QJzB"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195305,
+      "name": "Summer Girl (Karaoke Version) - Originally Performed By Jessica Andrews",
+      "url": "https://open.spotify.com/track/2BnTOkStvLMRucaCxvukZb"
     },
     {
       "album": {

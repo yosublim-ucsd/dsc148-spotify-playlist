@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "New and local indie noise. Cover: Molly Payton",
+  "description": "New and local indie noise. Cover: Surf Trash",
   "name": "Local Noise",
   "tracks": [
     {
@@ -150,6 +150,24 @@
       "duration_ms": 222857,
       "name": "all you ever wanted",
       "url": "https://open.spotify.com/track/3e5Naa5Me3ayj6zdalxgh4"
+    },
+    {
+      "album": {
+        "name": "Colours of My Daydream",
+        "url": "https://open.spotify.com/album/4E9plP04VFwVhL4wPJLcr9"
+      },
+      "artists": [
+        {
+          "name": "Charlie Gradon",
+          "url": "https://open.spotify.com/artist/7vMRuONPsONKjwXBbbw2aU"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206525,
+      "name": "Already Offline",
+      "url": "https://open.spotify.com/track/4WubJzxLtpPhcpR6dGZSjy"
     },
     {
       "album": {
@@ -528,7 +546,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 281173,
       "name": "Call It What You Want",
       "url": "https://open.spotify.com/track/1oBGDRf6xUwTMZ2bFS8xnD"
@@ -834,7 +852,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 139756,
       "name": "Cool Moderator",
       "url": "https://open.spotify.com/track/43kHYRjXpqgaq2e8F6skLf"
@@ -1101,6 +1119,24 @@
     },
     {
       "album": {
+        "name": "Eighteen",
+        "url": "https://open.spotify.com/album/5OVoPSjhixqtzZYgjlFHMh"
+      },
+      "artists": [
+        {
+          "name": "Hayley Mary",
+          "url": "https://open.spotify.com/artist/0jVHJ8I9hODEGcXruenrdH"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315760,
+      "name": "Eighteen",
+      "url": "https://open.spotify.com/track/6AYJj0174f801Mz0Yk18wQ"
+    },
+    {
+      "album": {
         "name": "eleveneleven (short)",
         "url": "https://open.spotify.com/album/562h7Ky6nGyVg8fTs1fqfI"
       },
@@ -1188,6 +1224,24 @@
       "duration_ms": 230177,
       "name": "Fading",
       "url": "https://open.spotify.com/track/6NrNZVELovOVKiD9QReeis"
+    },
+    {
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/4oC4FeatPyGuSBbPOeE7K4"
+      },
+      "artists": [
+        {
+          "name": "Velociraptor",
+          "url": "https://open.spotify.com/artist/2oaH5gF2m6OPgZ3vuEUrPH"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180704,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/0C9BgLXXFuyNcxGzfZXhfT"
     },
     {
       "album": {
@@ -1292,10 +1346,28 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 173410,
       "name": "Fine Wine",
       "url": "https://open.spotify.com/track/1CfOSnxdh51BmF95wAaBqP"
+    },
+    {
+      "album": {
+        "name": "The Only Place I Know",
+        "url": "https://open.spotify.com/album/43lrNoD7YTqyHtZL6TaX8M"
+      },
+      "artists": [
+        {
+          "name": "Surf Trash",
+          "url": "https://open.spotify.com/artist/78DoiOUHouyEPI7aNgqkkm"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124663,
+      "name": "First One",
+      "url": "https://open.spotify.com/track/1kwH8rfBYqM9bWf2x8b7iD"
     },
     {
       "album": {
@@ -1332,6 +1404,24 @@
       "duration_ms": 165734,
       "name": "Forget It",
       "url": "https://open.spotify.com/track/3Ua35RDWo0WH4e9OB3oYH2"
+    },
+    {
+      "album": {
+        "name": "Forgiving Spree",
+        "url": "https://open.spotify.com/album/0AawNGk3Ytg62Q97Yjxt8a"
+      },
+      "artists": [
+        {
+          "name": "Slowly Slowly",
+          "url": "https://open.spotify.com/artist/2NNeERUBxmB2UrLFfL1Q8e"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208760,
+      "name": "Forgiving Spree",
+      "url": "https://open.spotify.com/track/1tdUG5ixeBncyeZdB79qEH"
     },
     {
       "album": {
@@ -1440,6 +1530,28 @@
       "duration_ms": 129880,
       "name": "GFC",
       "url": "https://open.spotify.com/track/4qgd5zXsWVL4RBJAO7NDtn"
+    },
+    {
+      "album": {
+        "name": "Ghost of Bendigo",
+        "url": "https://open.spotify.com/album/7tnhOimLWvZTDYd5BxKvSB"
+      },
+      "artists": [
+        {
+          "name": "The Terrys",
+          "url": "https://open.spotify.com/artist/4quStFmDD9EH5uSJQz4oLS"
+        },
+        {
+          "name": "Nooky",
+          "url": "https://open.spotify.com/artist/5CCyr43Q4JJ85Cz6Ln28gs"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150403,
+      "name": "Ghost of Bendigo",
+      "url": "https://open.spotify.com/track/1OTsqG6GfpUXkAX5kQGHql"
     },
     {
       "album": {
@@ -1724,7 +1836,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 146666,
       "name": "HOT MESS",
       "url": "https://open.spotify.com/track/1dKlvNXx9uIOcb4GW8kGE8"
@@ -1962,7 +2074,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 218930,
       "name": "Impasse",
       "url": "https://open.spotify.com/track/1cqerDgdNRkvBJAHPOt5ro"
@@ -2211,6 +2323,24 @@
     },
     {
       "album": {
+        "name": "London",
+        "url": "https://open.spotify.com/album/5rVu1NdGwxavltiQKxaLvw"
+      },
+      "artists": [
+        {
+          "name": "Jess Day",
+          "url": "https://open.spotify.com/artist/5NQljfPqllxB64U0rpCnsk"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181693,
+      "name": "London",
+      "url": "https://open.spotify.com/track/7fE67lIWvHWOpOH12eEJ1u"
+    },
+    {
+      "album": {
         "name": "Loser",
         "url": "https://open.spotify.com/album/6UwUFzDynTFDw8ttNgPLyQ"
       },
@@ -2410,6 +2540,24 @@
       "duration_ms": 238209,
       "name": "Mirror",
       "url": "https://open.spotify.com/track/2dtiiqUuHqdqauMtHtjsVz"
+    },
+    {
+      "album": {
+        "name": "Monster In My Room",
+        "url": "https://open.spotify.com/album/0Gp0Kc9ONfkeTx247wl3TO"
+      },
+      "artists": [
+        {
+          "name": "Peach Fuzz",
+          "url": "https://open.spotify.com/artist/4wyHNbOxItcTYVwQmDt0bV"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193055,
+      "name": "Monster In My Room",
+      "url": "https://open.spotify.com/track/4FaO2weOQ6p2PVybC4pSSC"
     },
     {
       "album": {
@@ -2824,7 +2972,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 248383,
       "name": "Painting My Roof Again",
       "url": "https://open.spotify.com/track/5hzO1rv7G7oYVWuLN7VUsl"
@@ -2990,7 +3138,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 176383,
       "name": "Pyromaniac",
       "url": "https://open.spotify.com/track/4npqEiDQog5sFnAaJcd3BJ"
@@ -3120,6 +3268,24 @@
       "duration_ms": 189688,
       "name": "Remember",
       "url": "https://open.spotify.com/track/7zaZKLmMiZrmNb8TslHSU5"
+    },
+    {
+      "album": {
+        "name": "Heavy Weight Heart",
+        "url": "https://open.spotify.com/album/6mH9asZNJIotnXY0aDRWFY"
+      },
+      "artists": [
+        {
+          "name": "Polish Club",
+          "url": "https://open.spotify.com/artist/2tYm7UbTKfLXw7Jsp0xyzD"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308288,
+      "name": "Repeating Repeating",
+      "url": "https://open.spotify.com/track/2gGlhtCT3htTp18SfRMOi5"
     },
     {
       "album": {
@@ -3332,7 +3498,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 306224,
       "name": "Siberia",
       "url": "https://open.spotify.com/track/1w1nnGhf73p35nG99WLuRn"
@@ -3804,7 +3970,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 252183,
       "name": "The Lonely One",
       "url": "https://open.spotify.com/track/5O8wMCUN8ZvYb4m4HkDNK7"

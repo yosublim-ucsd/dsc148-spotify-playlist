@@ -1405,6 +1405,46 @@
     },
     {
       "album": {
+        "name": "Fastholma",
+        "url": "https://open.spotify.com/album/4AfCDCnQVUT0q6eF6DYDvW"
+      },
+      "artists": [
+        {
+          "name": "Sointi Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/04g062lZmJMKPKgMkL9E4q"
+        },
+        {
+          "name": "Petteri Hietam\u00e4ki",
+          "url": "https://open.spotify.com/artist/2QQslwPIkGGuHP7eYA2s6e"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425653,
+      "name": "Fastholma",
+      "url": "https://open.spotify.com/track/4zpc1m5WNxpu0Fma2b2zxj"
+    },
+    {
+      "album": {
+        "name": "Music From The Zone",
+        "url": "https://open.spotify.com/album/4MOlgwvKV8zo89fNXTSdkD"
+      },
+      "artists": [
+        {
+          "name": "Janne Halonen",
+          "url": "https://open.spotify.com/artist/4MFMMAAOnLJZJiTknZT9RL"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324906,
+      "name": "Filters",
+      "url": "https://open.spotify.com/track/3L9ud04WNKCzgGaLoYRijH"
+    },
+    {
+      "album": {
         "name": "Final Round",
         "url": "https://open.spotify.com/album/5iv71zHywXGWiJsB697xpE"
       },
@@ -1822,7 +1862,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 231000,
       "name": "In A Pickle",
       "url": "https://open.spotify.com/track/73G2MhHSkDCleACVmxwVTP"
@@ -1968,6 +2008,32 @@
       "duration_ms": 384143,
       "name": "It Happens In My Dreams",
       "url": "https://open.spotify.com/track/4vqGTUvFXeV2KtFx2qXRvL"
+    },
+    {
+      "album": {
+        "name": "It's All Happening",
+        "url": "https://open.spotify.com/album/1TX8nK3HbY2Wdk7FyAF7pF"
+      },
+      "artists": [
+        {
+          "name": "Sun Dog",
+          "url": "https://open.spotify.com/artist/5jNgNVcMrjn4Vdkqf7SzSf"
+        },
+        {
+          "name": "Jimi Tenor",
+          "url": "https://open.spotify.com/artist/69H6uUTI29XBzQXV1d3A7D"
+        },
+        {
+          "name": "Petri Kautto",
+          "url": "https://open.spotify.com/artist/12OKfkYtOvRzuWmPe7Qjiv"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320038,
+      "name": "It's All Happening",
+      "url": "https://open.spotify.com/track/2uSWVj0giIMN4d2zyxvBdP"
     },
     {
       "album": {
@@ -2362,7 +2428,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 339308,
       "name": "Laertes in Love",
       "url": "https://open.spotify.com/track/5hcRpnSIeVdAmc7REWOrYX"
@@ -2826,7 +2892,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 121855,
       "name": "Mosaic",
       "url": "https://open.spotify.com/track/6toNcJv5LE65OGYbE4pwUz"
@@ -3015,6 +3081,24 @@
     },
     {
       "album": {
+        "name": "4 + 4",
+        "url": "https://open.spotify.com/album/4m23q0CPK3i2rXqke1DWgc"
+      },
+      "artists": [
+        {
+          "name": "Matti Salo Quartet",
+          "url": "https://open.spotify.com/artist/5XYVA9YzFohVTidBiIqFAN"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405913,
+      "name": "No Goodbyes (reprise)",
+      "url": "https://open.spotify.com/track/6vvj2Whu2b9xCfPnYrl0hG"
+    },
+    {
+      "album": {
         "name": "Nocturne",
         "url": "https://open.spotify.com/album/54j1wZqvFpfXHSdj2joxkF"
       },
@@ -3132,6 +3216,24 @@
       "duration_ms": 318840,
       "name": "One Perfect Morning",
       "url": "https://open.spotify.com/track/0E6lLl60PZYQIVRVsdTzVV"
+    },
+    {
+      "album": {
+        "name": "One Room",
+        "url": "https://open.spotify.com/album/3RAURon5042NskNxGXlC3t"
+      },
+      "artists": [
+        {
+          "name": "Aurora Hentunen",
+          "url": "https://open.spotify.com/artist/1EKGcwLLFmHbD4qLBq1MME"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337373,
+      "name": "One Room",
+      "url": "https://open.spotify.com/track/0wQBQupdAOsf2HG8f9cPuS"
     },
     {
       "album": {
@@ -3538,7 +3640,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 296373,
       "name": "Pressured Speech",
       "url": "https://open.spotify.com/track/78uwjBJlo0HOdrzxFfE03F"

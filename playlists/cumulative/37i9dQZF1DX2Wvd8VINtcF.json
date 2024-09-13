@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-02",
-  "description": "pearls of an oyster. Cover: The Dare",
+  "description": "pearls of an oyster. Cover: Felix Sandman",
   "name": "Oyster",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 204666,
       "name": "\"Roses\"",
       "url": "https://open.spotify.com/track/6ea2h0fftulhGhWEODoU2V"
@@ -2186,8 +2186,8 @@
           "url": "https://open.spotify.com/artist/1cievhIWm14RMdJPC57gYi"
         },
         {
-          "name": "Alma",
-          "url": "https://open.spotify.com/artist/5uZbVKq45nBJMTqDAmhXia"
+          "name": "alma",
+          "url": "https://open.spotify.com/artist/12ohBmDYK1nr9HyfpxE6RF"
         }
       ],
       "date_added": "2024-09-05",
@@ -3173,6 +3173,24 @@
     },
     {
       "album": {
+        "name": "blue",
+        "url": "https://open.spotify.com/album/28nCYvD0I21LuCYCcIO6wq"
+      },
+      "artists": [
+        {
+          "name": "WIINSTON",
+          "url": "https://open.spotify.com/artist/2y83GOxwL8okDqmxSmyX5o"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188180,
+      "name": "blue",
+      "url": "https://open.spotify.com/track/3ZC6C2r3Mgc2ibUWn8JbG5"
+    },
+    {
+      "album": {
         "name": "tentacle",
         "url": "https://open.spotify.com/album/35Yi0L3RtxmFULeg1UQCae"
       },
@@ -3508,6 +3526,24 @@
       "duration_ms": 265107,
       "name": "Break Me Down/ Here with You",
       "url": "https://open.spotify.com/track/7pGmOd8k6HtdhMOiYew8UG"
+    },
+    {
+      "album": {
+        "name": "Break My Love",
+        "url": "https://open.spotify.com/album/52LgW9Zy9r1T3uVsT07Y6Y"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260400,
+      "name": "Break My Love",
+      "url": "https://open.spotify.com/track/3tqyv30P7pO53IAIUo8IeN"
     },
     {
       "album": {
@@ -3908,6 +3944,24 @@
       "duration_ms": 596745,
       "name": "Caf\u00e9 Spaghetti",
       "url": "https://open.spotify.com/track/1H0BKsQ5aaI2isU5fO4rLD"
+    },
+    {
+      "album": {
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/6LELKKMXI1lMMm9tBf55OO"
+      },
+      "artists": [
+        {
+          "name": "Tolou",
+          "url": "https://open.spotify.com/artist/6aJLBAuRRedmYQfUxXUByH"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166624,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/7I8ebrCiAjFs5y4wXPDunW"
     },
     {
       "album": {
@@ -6126,7 +6180,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 195000,
       "name": "devoted",
       "url": "https://open.spotify.com/track/41tN4yZSKJeVIDXQFdvex9"
@@ -7733,6 +7787,24 @@
     },
     {
       "album": {
+        "name": "Eusexua",
+        "url": "https://open.spotify.com/album/79TS6ylaLCH8VRFSLhvLvj"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263693,
+      "name": "Eusexua",
+      "url": "https://open.spotify.com/track/7FdDBpqrdpWtdAromLpv4V"
+    },
+    {
+      "album": {
         "name": "Radical Romantics",
         "url": "https://open.spotify.com/album/0GCoy0h2laaZlhKhnjjRpe"
       },
@@ -8068,7 +8140,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 145096,
       "name": "Expired",
       "url": "https://open.spotify.com/track/4quQsfygttrbZIW3FyV2h7"
@@ -9716,7 +9788,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 230253,
       "name": "Gem Lingo (ovr now)",
       "url": "https://open.spotify.com/track/6dSqM0tWJPlchpmGrEwC1c"
@@ -9964,7 +10036,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 205938,
       "name": "Girl, so confusing featuring lorde",
       "url": "https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R"
@@ -10786,7 +10858,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 208333,
       "name": "HAPPENS",
       "url": "https://open.spotify.com/track/1EQQWbq0FDpj1P5A0SjbJp"
@@ -16397,6 +16469,24 @@
     },
     {
       "album": {
+        "name": "Milkshakes",
+        "url": "https://open.spotify.com/album/1r2Tn585ZGylZPRXe02moV"
+      },
+      "artists": [
+        {
+          "name": "Felix Sandman",
+          "url": "https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Milkshakes",
+      "url": "https://open.spotify.com/track/785wupFFLVza0ZjEJaH5Xy"
+    },
+    {
+      "album": {
         "name": "MILLION DOLLAR BABY",
         "url": "https://open.spotify.com/album/4EYpKEHXWiFaZw6Jo9t74Y"
       },
@@ -16748,7 +16838,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 139604,
       "name": "Moon In The Light",
       "url": "https://open.spotify.com/track/2hAeXkxpajzQ5EF5y6RudU"
@@ -17664,7 +17754,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 246273,
       "name": "No Coke No Dope",
       "url": "https://open.spotify.com/track/4jo9I6p3h4tgt0RXfiSJ7h"
@@ -18466,7 +18556,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 195502,
       "name": "One Wish (feat. Childish Gambino)",
       "url": "https://open.spotify.com/track/3iHpwGD3h3Bj87KrJEBMI4"
@@ -20958,6 +21048,24 @@
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"
+    },
+    {
+      "album": {
+        "name": "Salted Caramel",
+        "url": "https://open.spotify.com/album/7F2umeDOswPV2JebNP9DPm"
+      },
+      "artists": [
+        {
+          "name": "Regina Amado",
+          "url": "https://open.spotify.com/artist/3zx7AylvM0dSHwRa3xF7H5"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181087,
+      "name": "Salted Caramel",
+      "url": "https://open.spotify.com/track/5QhjELiM4ctMXX3tpipYoA"
     },
     {
       "album": {
@@ -23704,7 +23812,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 304000,
       "name": "Summer",
       "url": "https://open.spotify.com/track/0tEhECI70FisYPPYoa8JXL"
@@ -23784,6 +23892,24 @@
       "duration_ms": 163116,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/2eQ9B2SsQFU2qCnHSas3eQ"
+    },
+    {
+      "album": {
+        "name": "sunshine~",
+        "url": "https://open.spotify.com/album/68xXHDSi3oAj6OMzz2Ln5K"
+      },
+      "artists": [
+        {
+          "name": "Corbon Amodio",
+          "url": "https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109090,
+      "name": "sunshine~",
+      "url": "https://open.spotify.com/track/5Jc4vDaFlqyCWUFINwjaTS"
     },
     {
       "album": {
@@ -25532,7 +25658,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 224000,
       "name": "Time",
       "url": "https://open.spotify.com/track/78Uo6eJIPkVo4Xw848NCN7"
@@ -26038,7 +26164,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 202881,
       "name": "TRIPPIN",
       "url": "https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7"
@@ -26707,6 +26833,28 @@
     },
     {
       "album": {
+        "name": "UP DOWN BOUNCE",
+        "url": "https://open.spotify.com/album/4Dm17A5CiFkuDAVSRTPQNd"
+      },
+      "artists": [
+        {
+          "name": "veggi",
+          "url": "https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v"
+        },
+        {
+          "name": "daste.",
+          "url": "https://open.spotify.com/artist/5uXWOfu1kA8mQ9bUp5GgxT"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "UP DOWN BOUNCE",
+      "url": "https://open.spotify.com/track/1inQivxnbFbeUyfeCWgg3Y"
+    },
+    {
+      "album": {
         "name": "updown",
         "url": "https://open.spotify.com/album/2OXEwDrbFYYhTFf2WiNwOJ"
       },
@@ -27068,6 +27216,24 @@
       "duration_ms": 198306,
       "name": "Walked In The Room",
       "url": "https://open.spotify.com/track/4tPHsS7lFxBCe6zRAOWMSR"
+    },
+    {
+      "album": {
+        "name": "Wally",
+        "url": "https://open.spotify.com/album/2NAntlPmxafv0ZvpBhA1lI"
+      },
+      "artists": [
+        {
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128332,
+      "name": "Wally",
+      "url": "https://open.spotify.com/track/2hsb9d9qzr3KnlgQRzrZX9"
     },
     {
       "album": {

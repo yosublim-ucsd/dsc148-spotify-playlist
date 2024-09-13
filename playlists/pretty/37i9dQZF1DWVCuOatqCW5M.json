@@ -1,13 +1,93 @@
 {
-  "description": "Latest music from your fav I-Pop artists. Cover- Neha Kakkar & Shekhar Ravjiani",
-  "num_followers": 59086,
+  "description": "Latest music from your fav I-Pop artists. Cover- Gurnazar",
+  "num_followers": 59149,
   "original_name": "New Music Friday I-Pop ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtqdhgAAAAAqGTjKOlh/y4BhhCiA5YZZ",
+  "snapshot_id": "ZuOFMAAAAADNPk9BAXWa3Wq7Psltq6Xa",
   "tracks": [
+    {
+      "added_at": "2024-09-13 00:20:00",
+      "album": {
+        "name": "Jaam",
+        "url": "https://open.spotify.com/album/2u4OlZI52Y1vu0pUr6YcJO"
+      },
+      "artists": [
+        {
+          "name": "Gurnazar",
+          "url": "https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W"
+        },
+        {
+          "name": "Chet Singh",
+          "url": "https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv"
+        }
+      ],
+      "duration_ms": 227142,
+      "name": "Jaam",
+      "url": "https://open.spotify.com/track/3gZNr53Usg9GVA1NqoNUP1"
+    },
+    {
+      "added_at": "2024-09-13 00:20:00",
+      "album": {
+        "name": "Aaj Bhi 2",
+        "url": "https://open.spotify.com/album/5OYZCRHN3Dqe29yzFKr630"
+      },
+      "artists": [
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        }
+      ],
+      "duration_ms": 259056,
+      "name": "Aaj Bhi 2",
+      "url": "https://open.spotify.com/track/5Swyv8euhHEJu57t5qbGUs"
+    },
+    {
+      "added_at": "2024-09-13 00:20:00",
+      "album": {
+        "name": "Barsan",
+        "url": "https://open.spotify.com/album/534o0vBS7PLabpbbj5ZnGu"
+      },
+      "artists": [
+        {
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+        },
+        {
+          "name": "Nakul Chugh",
+          "url": "https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V"
+        },
+        {
+          "name": "Alok Ranjan Srivastava",
+          "url": "https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep"
+        }
+      ],
+      "duration_ms": 179777,
+      "name": "Barsan",
+      "url": "https://open.spotify.com/track/6jg2EEDFePBZNr19lHNSR8"
+    },
+    {
+      "added_at": "2024-09-13 00:20:00",
+      "album": {
+        "name": "Nazdeekiyan",
+        "url": "https://open.spotify.com/album/3slyxXFCyTBbwM0YLo3tsv"
+      },
+      "artists": [
+        {
+          "name": "Krsna Solo",
+          "url": "https://open.spotify.com/artist/1fn1zda146dVI8wNdqi9l6"
+        },
+        {
+          "name": "Prabhjee Kaur",
+          "url": "https://open.spotify.com/artist/4eCQSJiqQytxz4IJx0I7Bt"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Nazdeekiyan",
+      "url": "https://open.spotify.com/track/0ooh6BU5j8DMSZElRHDxja"
+    },
     {
       "added_at": "2024-09-06 06:08:08",
       "album": {
@@ -719,22 +799,6 @@
     {
       "added_at": "2024-09-06 06:08:08",
       "album": {
-        "name": "Dil Lage Naa",
-        "url": "https://open.spotify.com/album/4il939nQJcIem1nt2pfzUu"
-      },
-      "artists": [
-        {
-          "name": "Raj Barman",
-          "url": "https://open.spotify.com/artist/5qERXbPWPdUePjrAW00vuU"
-        }
-      ],
-      "duration_ms": 359013,
-      "name": "Dil Lage Naa",
-      "url": "https://open.spotify.com/track/3JYH70LCF7ZjAoAsbF75tv"
-    },
-    {
-      "added_at": "2024-09-06 06:08:08",
-      "album": {
         "name": "Mann Laage Na",
         "url": "https://open.spotify.com/album/1aM8UsrZZHEPNEN1HMbQ8k"
       },
@@ -751,46 +815,6 @@
       "duration_ms": 276666,
       "name": "Mann Laage Na",
       "url": "https://open.spotify.com/track/0mjAJHCCIZMW9vTjdbjXym"
-    },
-    {
-      "added_at": "2024-09-06 06:08:08",
-      "album": {
-        "name": "Raaz Keh Gaye",
-        "url": "https://open.spotify.com/album/36AxHDQXAc4KY5Wo9c3wB3"
-      },
-      "artists": [
-        {
-          "name": "Shafqat Amanat Ali",
-          "url": "https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm"
-        }
-      ],
-      "duration_ms": 265201,
-      "name": "Raaz Keh Gaye",
-      "url": "https://open.spotify.com/track/2XOXP3hSor8znselDEDnRC"
-    },
-    {
-      "added_at": "2024-09-06 06:08:08",
-      "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/40urFCK6nr2VZ9lYyryZG8"
-      },
-      "artists": [
-        {
-          "name": "tricksingh",
-          "url": "https://open.spotify.com/artist/3xvOoFJqHTgdPqUVWlRYQk"
-        },
-        {
-          "name": "Hasan Raheem",
-          "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
-        },
-        {
-          "name": "Eyepatch",
-          "url": "https://open.spotify.com/artist/1kmbGVNEUnTbq1yptaiOVj"
-        }
-      ],
-      "duration_ms": 149142,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/6GVYqMsa9Niic3cNrzIiOn"
     },
     {
       "added_at": "2024-09-06 06:08:08",
@@ -851,26 +875,6 @@
       "duration_ms": 251813,
       "name": "Jo Tum Mere Ho",
       "url": "https://open.spotify.com/track/0eCajpR75pDW0r64U6hP2x"
-    },
-    {
-      "added_at": "2024-09-06 06:08:08",
-      "album": {
-        "name": "MONOPOLY MOVES",
-        "url": "https://open.spotify.com/album/5dkmnSddXf47ZX5IJ4WCtr"
-      },
-      "artists": [
-        {
-          "name": "King",
-          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
-        },
-        {
-          "name": "MC STAN",
-          "url": "https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH"
-        }
-      ],
-      "duration_ms": 292439,
-      "name": "F*CK WHAT THEY SAY",
-      "url": "https://open.spotify.com/track/5FO0ye7LMqJPr4bjroUZ8i"
     },
     {
       "added_at": "2024-09-06 06:08:08",

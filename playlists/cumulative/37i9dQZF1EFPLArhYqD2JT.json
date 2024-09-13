@@ -1116,7 +1116,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-26",
+      "date_removed": null,
       "duration_ms": 179840,
       "name": "Come to the Land of the Argentine",
       "url": "https://open.spotify.com/track/1Wtqr2O8vAl5yfY5yYCLFx"
@@ -3060,7 +3060,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-24",
+      "date_removed": null,
       "duration_ms": 143600,
       "name": "If the Managers Only Thought the Same as Mother",
       "url": "https://open.spotify.com/track/664TLQWAxRTpjx7CkmYs78"
@@ -3162,7 +3162,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-31",
+      "date_removed": null,
       "duration_ms": 130573,
       "name": "Innocent Bessie Brown",
       "url": "https://open.spotify.com/track/5ZxgCO4ySATipmGvm1FMO8"
@@ -6086,7 +6086,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-12",
+      "date_removed": null,
       "duration_ms": 184600,
       "name": "The Haunted House",
       "url": "https://open.spotify.com/track/0UAcB0JEstADg6aT7TfdjH"
@@ -7520,6 +7520,24 @@
       "duration_ms": 249066,
       "name": "Yiddisha Nightingale",
       "url": "https://open.spotify.com/track/0R97jCD4YNQ6U6HCobEFh0"
+    },
+    {
+      "album": {
+        "name": "Classic Movie Hits 3, Vol. 7",
+        "url": "https://open.spotify.com/album/1dPoj2fcLHVbK4TAbQ3psi"
+      },
+      "artists": [
+        {
+          "name": "Fanny Brice",
+          "url": "https://open.spotify.com/artist/13dV8RDgoexJINGhkS7sLR"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160026,
+      "name": "Yiddle On the Fiddle (From \"The Great Ziegfeld\")",
+      "url": "https://open.spotify.com/track/53rg7PyBjRPQ40UxU5YkJL"
     },
     {
       "album": {

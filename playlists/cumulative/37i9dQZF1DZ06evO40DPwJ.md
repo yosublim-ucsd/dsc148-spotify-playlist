@@ -2,7 +2,7 @@
 
 ### [This Is Taio Cruz](https://open.spotify.com/playlist/37i9dQZF1DZ06evO40DPwJ)
 
-> This Is Taio Cruz\. Les titres incontournables, réunis dans une seule et même playlist.
+> This is Taio Cruz\. Todos os maiores hits em uma só playlist.
 
 62 songs - 3 hr 39 min
 

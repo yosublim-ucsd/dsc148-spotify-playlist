@@ -1,6 +1,6 @@
 {
   "description": "killer rock & alternative covers. Cover: Paramore",
-  "num_followers": 691389,
+  "num_followers": 691535,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-07-17 15:08:46",
       "album": {
-        "name": "Last Resort (Reimagined)",
-        "url": "https://open.spotify.com/album/3ney9yvE6G6kVMTtIQ6XoA"
-      },
-      "artists": [
-        {
-          "name": "Falling In Reverse",
-          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
-        }
-      ],
-      "duration_ms": 283714,
-      "name": "Last Resort - Reimagined",
-      "url": "https://open.spotify.com/track/73GKs8oNFFmtomWj7EsSU0"
-    },
-    {
-      "added_at": "2024-07-17 15:08:46",
-      "album": {
         "name": "Somebody Told Me",
         "url": "https://open.spotify.com/album/6pCLV8Yt4VGIHuFj3Y1XcS"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 199477,
       "name": "Somebody Told Me",
       "url": "https://open.spotify.com/track/1KF6uW84ksAUlTMy08gP1R"
+    },
+    {
+      "added_at": "2024-07-17 15:08:46",
+      "album": {
+        "name": "Last Resort (Reimagined)",
+        "url": "https://open.spotify.com/album/3ney9yvE6G6kVMTtIQ6XoA"
+      },
+      "artists": [
+        {
+          "name": "Falling In Reverse",
+          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
+        }
+      ],
+      "duration_ms": 283714,
+      "name": "Last Resort - Reimagined",
+      "url": "https://open.spotify.com/track/73GKs8oNFFmtomWj7EsSU0"
     },
     {
       "added_at": "2024-07-17 15:08:46",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-07-17 15:08:46",
       "album": {
-        "name": "The Promise",
-        "url": "https://open.spotify.com/album/7oR8aZ4ECropTmxPydooZ9"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 205146,
-      "name": "Because the Night",
-      "url": "https://open.spotify.com/track/47pgnnmY0R0spkwAMMWpNq"
-    },
-    {
-      "added_at": "2024-07-17 15:08:46",
-      "album": {
         "name": "If I Can Dream (From The Original Motion Picture Soundtrack ELVIS)",
         "url": "https://open.spotify.com/album/5q021NVGXBp7c9QPpZnijt"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 196000,
       "name": "If I Can Dream (From The Original Motion Picture Soundtrack ELVIS)",
       "url": "https://open.spotify.com/track/4yibMEwSzelLmFtyXwWwZs"
+    },
+    {
+      "added_at": "2024-07-17 15:08:46",
+      "album": {
+        "name": "The Promise",
+        "url": "https://open.spotify.com/album/7oR8aZ4ECropTmxPydooZ9"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 205146,
+      "name": "Because the Night",
+      "url": "https://open.spotify.com/track/47pgnnmY0R0spkwAMMWpNq"
     },
     {
       "added_at": "2024-07-17 15:08:46",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2024-07-17 15:08:46",
       "album": {
-        "name": "How To Save A Life",
-        "url": "https://open.spotify.com/album/38ff67UQftBcR3DnBMSsyW"
+        "name": "Just A Girl (From The Original Series \u201cYellowjackets\u201d)",
+        "url": "https://open.spotify.com/album/2g9A59r1lqhUp29wxLY3Nk"
       },
       "artists": [
         {
-          "name": "TALK",
-          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 218354,
-      "name": "How To Save A Life",
-      "url": "https://open.spotify.com/track/73TAUoeGvM7YPA8huwA9Yp"
+      "duration_ms": 274829,
+      "name": "Just A Girl - From The Original Series \u201cYellowjackets\u201d",
+      "url": "https://open.spotify.com/track/7DtbrNlYifGnJc7HY0fS9i"
     },
     {
       "added_at": "2024-07-17 15:08:46",
@@ -1091,34 +1091,18 @@
     {
       "added_at": "2024-07-17 15:08:46",
       "album": {
-        "name": "Just A Girl (From The Original Series \u201cYellowjackets\u201d)",
-        "url": "https://open.spotify.com/album/2g9A59r1lqhUp29wxLY3Nk"
+        "name": "How To Save A Life",
+        "url": "https://open.spotify.com/album/38ff67UQftBcR3DnBMSsyW"
       },
       "artists": [
         {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+          "name": "TALK",
+          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
         }
       ],
-      "duration_ms": 274829,
-      "name": "Just A Girl - From The Original Series \u201cYellowjackets\u201d",
-      "url": "https://open.spotify.com/track/7DtbrNlYifGnJc7HY0fS9i"
-    },
-    {
-      "added_at": "2024-07-17 15:08:46",
-      "album": {
-        "name": "Be Quiet and Drive (Far Away) \u2013 Spotify Singles",
-        "url": "https://open.spotify.com/album/6jAdEVjL2cnwhhywkdmIzr"
-      },
-      "artists": [
-        {
-          "name": "HEALTH",
-          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
-        }
-      ],
-      "duration_ms": 187189,
-      "name": "Be Quiet and Drive (Far Away)",
-      "url": "https://open.spotify.com/track/2SprbOeFdglaLgZoCcytuu"
+      "duration_ms": 218354,
+      "name": "How To Save A Life",
+      "url": "https://open.spotify.com/track/73TAUoeGvM7YPA8huwA9Yp"
     },
     {
       "added_at": "2024-07-17 15:08:46",
@@ -1147,6 +1131,22 @@
       "duration_ms": 181695,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/6TeB7j56k4AbELOl3G4zfj"
+    },
+    {
+      "added_at": "2024-07-17 15:08:46",
+      "album": {
+        "name": "Be Quiet and Drive (Far Away) \u2013 Spotify Singles",
+        "url": "https://open.spotify.com/album/6jAdEVjL2cnwhhywkdmIzr"
+      },
+      "artists": [
+        {
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+        }
+      ],
+      "duration_ms": 187189,
+      "name": "Be Quiet and Drive (Far Away)",
+      "url": "https://open.spotify.com/track/2SprbOeFdglaLgZoCcytuu"
     },
     {
       "added_at": "2024-07-17 15:08:46",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-07-17 15:08:46",
       "album": {
-        "name": "End of Beginning (triple j Like A Version)",
-        "url": "https://open.spotify.com/album/6kYV3c03FkP5EpT9Ow1AZD"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 158617,
-      "name": "End of Beginning - triple j Like A Version",
-      "url": "https://open.spotify.com/track/4zw1CzJ4ePqLazD6xZ32Vz"
-    },
-    {
-      "added_at": "2024-07-17 15:08:46",
-      "album": {
         "name": "Falling In",
         "url": "https://open.spotify.com/album/59ZFxwkLZ1vUJJVqHTdXEU"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 315491,
       "name": "Fade Into You",
       "url": "https://open.spotify.com/track/0v55XuHDYNj4ELPzpRnNo0"
+    },
+    {
+      "added_at": "2024-07-17 15:08:46",
+      "album": {
+        "name": "End of Beginning (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/6kYV3c03FkP5EpT9Ow1AZD"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 158617,
+      "name": "End of Beginning - triple j Like A Version",
+      "url": "https://open.spotify.com/track/4zw1CzJ4ePqLazD6xZ32Vz"
     },
     {
       "added_at": "2024-07-17 15:08:46",
@@ -1971,6 +1971,22 @@
     {
       "added_at": "2024-07-17 15:08:46",
       "album": {
+        "name": "The Chain",
+        "url": "https://open.spotify.com/album/053OECifPxrpiOKbiaP5Nm"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "duration_ms": 252066,
+      "name": "The Chain",
+      "url": "https://open.spotify.com/track/5F29kjOr9bYTUtSPLoixHB"
+    },
+    {
+      "added_at": "2024-07-17 15:08:46",
+      "album": {
         "name": "Rockstar",
         "url": "https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2"
       },
@@ -1991,22 +2007,6 @@
       "duration_ms": 233362,
       "name": "(I Can\u2019t Get No) Satisfaction",
       "url": "https://open.spotify.com/track/2vw3beLeIQSgMxi72RnJHn"
-    },
-    {
-      "added_at": "2024-07-17 15:08:46",
-      "album": {
-        "name": "The Chain",
-        "url": "https://open.spotify.com/album/053OECifPxrpiOKbiaP5Nm"
-      },
-      "artists": [
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        }
-      ],
-      "duration_ms": 252066,
-      "name": "The Chain",
-      "url": "https://open.spotify.com/track/5F29kjOr9bYTUtSPLoixHB"
     },
     {
       "added_at": "2024-07-17 15:08:46",
@@ -2439,22 +2439,6 @@
     {
       "added_at": "2024-07-17 15:08:46",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2tKenSIL0VRCD5tSjWh73P"
-      },
-      "artists": [
-        {
-          "name": "Welles",
-          "url": "https://open.spotify.com/artist/6jobcjsqxweTygItqxfN5l"
-        }
-      ],
-      "duration_ms": 251803,
-      "name": "Lovesong - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5o546Sxsa5KAl90cEdSo4T"
-    },
-    {
-      "added_at": "2024-07-17 15:08:46",
-      "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/1gbZr44u85xj3X7SGrim98"
       },
@@ -2467,6 +2451,22 @@
       "duration_ms": 211019,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/093b1blyOJsbJcX9dyJ8RB"
+    },
+    {
+      "added_at": "2024-07-17 15:08:46",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2tKenSIL0VRCD5tSjWh73P"
+      },
+      "artists": [
+        {
+          "name": "Welles",
+          "url": "https://open.spotify.com/artist/6jobcjsqxweTygItqxfN5l"
+        }
+      ],
+      "duration_ms": 251803,
+      "name": "Lovesong - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5o546Sxsa5KAl90cEdSo4T"
     },
     {
       "added_at": "2024-07-17 15:08:46",

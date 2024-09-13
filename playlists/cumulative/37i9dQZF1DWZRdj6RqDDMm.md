@@ -2,9 +2,9 @@
 
 ### [Praise and Chill](https://open.spotify.com/playlist/37i9dQZF1DWZRdj6RqDDMm)
 
-> Just wanna Praise the Lord and chill\. Here is a perfect one! Cover:   <a href=https://open.spotify.com/artist/70HahwExpgNFLm3YKUkiiO?si=7dbL9gMRSDGgTJCqf8jUJQ>Churemi
+> Just wanna Praise the Lord and chill\. Here is a perfect one! Cover:   <a href=https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr?si=8cFNpouJRZ\-r\-qzFXQF\-EQ>Naffymar
 
-333 songs - 19 hr 35 min
+336 songs - 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Awimayehun](https://open.spotify.com/track/5Y5ngVo5FFyb1vF4MQWVLn) | [Israel the creator](https://open.spotify.com/artist/5SATwYWqLzEg84BWHdQjmX) | [Awimayehun](https://open.spotify.com/album/4wZmEQkWtxvOb5iTAwkN55) | 2:25 | 2024-05-24 | 2024-07-12 |
 | [AYE](https://open.spotify.com/track/5wDtmZ8wKSUN6oozVrSjNA) | [Scott Evans](https://open.spotify.com/artist/7cNvuCgJHQfzdOZlhQ3W5r), [PEREZ MUSIK](https://open.spotify.com/artist/64jhMYAtHXyKNnHxPmCJth) | [GRACE IS LUXURY](https://open.spotify.com/album/5znp5BsEEbvcJkWjXXQLoB) | 2:42 | 2023-11-10 | 2024-01-26 |
 | [Baba O](https://open.spotify.com/track/1wuIyhGG69MYXgJxxLqDa8) | [Sarah Téibo](https://open.spotify.com/artist/2TiTzlqsBiRzHXSHQIIabT) | [Baba O](https://open.spotify.com/album/3VFZNkKuxUWT7SvRxDetQK) | 2:15 | 2024-04-26 | 2024-06-07 |
+| [Bank on You](https://open.spotify.com/track/5FtvzrbCp3iyf0zYNjDkyq) | [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr), [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Pawasonic](https://open.spotify.com/artist/4JnNMhfRwpiknBp80tInQR) | [Bank on You](https://open.spotify.com/album/01lVf8rvZWvZdTrWTvBeX8) | 2:54 | 2024-09-13 |  |
 | [Be Like](https://open.spotify.com/track/0UhB8mb32yNSrlO4c3tohX) | [Eriko NWA](https://open.spotify.com/artist/2oDD4e0DMShnhGj7EyxoH1), [GIDYON](https://open.spotify.com/artist/6DkCYglpnVDHEV9tfCaxW2) | [Be Like](https://open.spotify.com/album/4ZCWEaEuUr17UM1j7zlzdU) | 2:41 | 2024-01-12 | 2024-02-23 |
 | [Beautiful](https://open.spotify.com/track/2iYNgx5z7LymqzPdLShXp4) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG), [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F) | [Beautiful](https://open.spotify.com/album/7jSPocWuerZUORPJVqXimx) | 2:00 | 2024-02-23 | 2024-03-29 |
 | [Beautiful Day](https://open.spotify.com/track/4t5JEHR8C825JhdRtpNELC) | [Rita Meroh](https://open.spotify.com/artist/0yXGza7I1UeHLsdinOAH9Z) | [Beautiful Day](https://open.spotify.com/album/7xCmSZBijKxcn1oKMl5mZS) | 3:32 | 2024-08-16 |  |
@@ -52,6 +53,7 @@
 | [Blood of Jesus](https://open.spotify.com/track/3ZcF9YVstzIGgpZvm1hUo3) | [Reon Rae](https://open.spotify.com/artist/2uZRhmcvow9AsAe6ECGbp8) | [Blood of Jesus](https://open.spotify.com/album/6GrVWY7Fdrgrot9cEg41KS) | 2:32 | 2024-09-06 |  |
 | [Brighter Days](https://open.spotify.com/track/34XwFfq1XGOF0HHyVQl1nx) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Brighter Days](https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6) | 3:28 | 2023-10-20 | 2024-01-26 |
 | [By Design](https://open.spotify.com/track/3ulfbtT8i30DN94siN76xX) | [Echow Clay](https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu) | [By Design](https://open.spotify.com/album/1VPkVKrTUFIw1tWW444IYi) | 2:08 | 2024-02-02 | 2024-02-23 |
+| [By Me](https://open.spotify.com/track/5bfegq0Jj5oqnguTtsero5) | [Ealle](https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5) | [By Me](https://open.spotify.com/album/101gyd1ZEtWsxRw8Tw6Bky) | 2:19 | 2024-09-13 |  |
 | [By Your Side](https://open.spotify.com/track/4U4U6n2cLS9KSgZEyRGvUz) | [Phontera](https://open.spotify.com/artist/71Vn1EeivhPQ4vl4XGOHLm), [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC) | [By Your Side](https://open.spotify.com/album/1nqyl8x6u2qZgu3C9T7ywr) | 2:39 | 2024-08-30 |  |
 | [Call Me Blessed](https://open.spotify.com/track/5CyrCBCWC87Ppz6lNomYrB) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [Call Me Blessed](https://open.spotify.com/album/7KCjQA1lve605tpDbqzSud) | 2:25 | 2024-02-02 | 2024-03-29 |
 | [Calling My Name \(I'm A Soldier\) \- Live](https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Calling My Name \(I'm A Soldier\) \[Live\]](https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO) | 10:38 | 2023-10-20 |  |
@@ -121,6 +123,7 @@
 | [Grace](https://open.spotify.com/track/545wkwUovk2jPQ6qk6yLv3) | [Connie Obn](https://open.spotify.com/artist/2vgfZxc5Z58nokei89tBxA), [Still Blessed Music](https://open.spotify.com/artist/3QLVocBmoPCZGWar970isd) | [Grace](https://open.spotify.com/album/4gIsSa6Waz3CCWuD0sVl8s) | 3:02 | 2024-02-16 | 2024-04-06 |
 | [Grace on Myself](https://open.spotify.com/track/0AeKbsWLgBbIJoKlj5L1al) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [Churemi](https://open.spotify.com/artist/70HahwExpgNFLm3YKUkiiO) | [S.E.L.F](https://open.spotify.com/album/6Nr3TfDODs4l81R8RKWa9B) | 2:51 | 2024-07-05 |  |
 | [Greatest](https://open.spotify.com/track/4RGma6BvBMPUlES6oAVubZ) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [RADICAL](https://open.spotify.com/album/1Wo57u7paNfHF6mFD0W2wE) | 3:08 | 2023-10-20 | 2024-04-06 |
+| [Halle](https://open.spotify.com/track/1bJ3uXSAmu1UXHh3yevUYN) | [Clinton Flames](https://open.spotify.com/artist/3LEYSk47eQzeiwihi4f1Ye), [Baron Jay](https://open.spotify.com/artist/3I92MLYQY4V30w9jXnKhbv), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Halle](https://open.spotify.com/album/6qRwFhhSVMf09KH44a8TJf) | 3:00 | 2024-09-13 |  |
 | [Halle](https://open.spotify.com/track/4GWt6P16WBQQFK4VXsPbX8) | [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG), [Kris Grant](https://open.spotify.com/artist/3ohMd9D8nMYIxHbV9eS0AQ) | [Shepherd](https://open.spotify.com/album/2mf6TRndLJ9XqBGAHfd1vp) | 2:44 | 2023-10-20 | 2024-03-29 |
 | [Hallelujah](https://open.spotify.com/track/3FqpxUbn5Glawznnl9caTu) | [Mairos](https://open.spotify.com/artist/6magWqKDY1pnK2maOgtH6s), [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy), [WINNER WAYS.](https://open.spotify.com/artist/29L1pzmDzW3P2FmQBovIFK) | [Hallelujah](https://open.spotify.com/album/5XGwrJRQsdJDppW2j1anx6) | 3:17 | 2024-04-26 |  |
 | [He Fights For Me](https://open.spotify.com/track/5vQM35aV3Q7tXdITJgc8wi) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Tomi Favored](https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ), [Grace Omosebi](https://open.spotify.com/artist/0MjHUPDq9KVCCqjAcTdVRQ), [121SELAH](https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq) | [HEAVEN HAS COME](https://open.spotify.com/album/6NxdOsigezOUD537lSYTDz) | 6:19 | 2023-10-20 |  |

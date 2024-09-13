@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Deretan musik Indonesia terpopuler saat ini. \nCover: Mahalini",
+  "description": "Deretan musik Indonesia terpopuler saat ini. \nCover: Yuna, Bunga Citra Lestari",
   "name": "Puncak Klasemen",
   "tracks": [
     {
@@ -342,6 +342,24 @@
       "duration_ms": 207647,
       "name": "Benar Salah",
       "url": "https://open.spotify.com/track/5KqEwJnIyjaiLQ866MkHHY"
+    },
+    {
+      "album": {
+        "name": "Berakhir di Aku - Original Soundtrack From \"Home Sweet Loan\"",
+        "url": "https://open.spotify.com/album/3idg3o6wvAgPRwg0atEsbd"
+      },
+      "artists": [
+        {
+          "name": "Idgitaf",
+          "url": "https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236784,
+      "name": "Berakhir di Aku - Original Soundtrack From \"Home Sweet Loan\"",
+      "url": "https://open.spotify.com/track/3KcfLN50nMGR4uH1T0QVxL"
     },
     {
       "album": {
@@ -1386,6 +1404,24 @@
       "duration_ms": 224189,
       "name": "Hiduplah Sebelum Mati",
       "url": "https://open.spotify.com/track/2gdgiNTLNlNJO9qb9TBJbg"
+    },
+    {
+      "album": {
+        "name": "HIGHER",
+        "url": "https://open.spotify.com/album/011fc3cGSjwlMpQg0NyLa3"
+      },
+      "artists": [
+        {
+          "name": "GAC (Gamali\u00e9l Audrey Cantika)",
+          "url": "https://open.spotify.com/artist/3YYdJZO7kX8nwDzN3YJzdW"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253529,
+      "name": "HIGHER",
+      "url": "https://open.spotify.com/track/2INBpgdpRNNfUhCBPjNo4a"
     },
     {
       "album": {
@@ -3587,6 +3623,24 @@
     },
     {
       "album": {
+        "name": "Tak Pernah Sendiri",
+        "url": "https://open.spotify.com/album/7j9qy88hw4ZKfQVJFwy0RX"
+      },
+      "artists": [
+        {
+          "name": "Abeliano",
+          "url": "https://open.spotify.com/artist/5MVMpQxOa7Ax5ps1J6E2uE"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241309,
+      "name": "Tak Pernah Sendiri",
+      "url": "https://open.spotify.com/track/0fL3GBgfFcfQ18iyJmTX1o"
+    },
+    {
+      "album": {
         "name": "Tak Segampang Itu",
         "url": "https://open.spotify.com/album/6gO5mDyNTqiIqHItRil4OG"
       },
@@ -4064,6 +4118,28 @@
       "duration_ms": 245147,
       "name": "Wanita Biasa",
       "url": "https://open.spotify.com/track/5Gk5wniF0YSpkKMPmQqaxZ"
+    },
+    {
+      "album": {
+        "name": "Watak Utama",
+        "url": "https://open.spotify.com/album/0bEfwNHBmyoUUYjMYRPl5D"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        },
+        {
+          "name": "Bunga Citra Lestari",
+          "url": "https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177906,
+      "name": "Watak Utama",
+      "url": "https://open.spotify.com/track/6lyWbnQ85nWXJt6SYQgQW6"
     },
     {
       "album": {

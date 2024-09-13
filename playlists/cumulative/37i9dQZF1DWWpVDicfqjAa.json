@@ -2267,6 +2267,28 @@
     },
     {
       "album": {
+        "name": "Coolest In The City",
+        "url": "https://open.spotify.com/album/6slqT0LqNWErkUQU22eIY9"
+      },
+      "artists": [
+        {
+          "name": "AQUTIE",
+          "url": "https://open.spotify.com/artist/5cLrXNIHIhgtTFgrsYXTXF"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212903,
+      "name": "Ghostin'",
+      "url": "https://open.spotify.com/track/6GhIDGCeX6GD3aEb7jaj9J"
+    },
+    {
+      "album": {
         "name": "Give It Up (REMETI Remix)",
         "url": "https://open.spotify.com/album/1X94E58SxAGr7MdFCrSvpn"
       },

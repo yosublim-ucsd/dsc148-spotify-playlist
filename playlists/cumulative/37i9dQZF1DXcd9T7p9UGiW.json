@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Catching flights and going global. Cover: Juls",
+  "description": "Catching flights and going global. Cover: Pa Salieu",
   "name": "Gone Abroad ",
   "tracks": [
     {
@@ -128,6 +128,28 @@
       "duration_ms": 159477,
       "name": "6 BUSINESS DAYS (feat. Projexx)",
       "url": "https://open.spotify.com/track/2KbFskDFrgLGKBKIVDrzbh"
+    },
+    {
+      "album": {
+        "name": "64 \u00b0C",
+        "url": "https://open.spotify.com/album/1MGRqLJfMviTuEBrgszK1d"
+      },
+      "artists": [
+        {
+          "name": "Homa Homa",
+          "url": "https://open.spotify.com/artist/7qUwTAQxAAxweAXWO7Lc2B"
+        },
+        {
+          "name": "1da Banton",
+          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "64 \u00b0C",
+      "url": "https://open.spotify.com/track/7CVTkhet8Si18yfTHtgVuS"
     },
     {
       "album": {
@@ -289,6 +311,24 @@
     },
     {
       "album": {
+        "name": "Allergy",
+        "url": "https://open.spotify.com/album/26TnKWNugPfAIOY2wt0vUr"
+      },
+      "artists": [
+        {
+          "name": "Pa Salieu",
+          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152613,
+      "name": "Allergy",
+      "url": "https://open.spotify.com/track/64Ntvzfh6V4Cq7i4O1XxW9"
+    },
+    {
+      "album": {
         "name": "The Lion King: The Gift",
         "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
       },
@@ -370,7 +410,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 173714,
       "name": "Ambassador",
       "url": "https://open.spotify.com/track/1J1TrqO93opcc5mx3Xv8DG"
@@ -898,7 +938,7 @@
       ],
       "date_added": "2024-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 185714,
       "name": "Bag of Money",
       "url": "https://open.spotify.com/track/6oB9epBZc6bnBjAgUCiIq0"
@@ -2709,6 +2749,40 @@
     },
     {
       "album": {
+        "name": "Dancehall Girl",
+        "url": "https://open.spotify.com/album/78aHgRARECoi57Qe4n08jP"
+      },
+      "artists": [
+        {
+          "name": "Epik Jones",
+          "url": "https://open.spotify.com/artist/6kI7MtafHYMtYIjCYpXfMb"
+        },
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        },
+        {
+          "name": "Ishawna",
+          "url": "https://open.spotify.com/artist/6qA0pd4E3zPAw9gmo5Kn80"
+        },
+        {
+          "name": "Lisa Mercedez",
+          "url": "https://open.spotify.com/artist/2uL8gbwzpTKZKSNcCTHm0p"
+        },
+        {
+          "name": "Jah Fabio",
+          "url": "https://open.spotify.com/artist/6cMEIQyZxsgtbzzvMmozuc"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179495,
+      "name": "Dancehall Girl",
+      "url": "https://open.spotify.com/track/1wEJSwEfVlUf6PoAJtZrdA"
+    },
+    {
+      "album": {
         "name": "Danger",
         "url": "https://open.spotify.com/album/4gUz8ej6TochFqQemxkGOx"
       },
@@ -3090,6 +3164,36 @@
       "duration_ms": 180000,
       "name": "DO ME JEJE",
       "url": "https://open.spotify.com/track/761wgf2fyosAixTxmR5dpZ"
+    },
+    {
+      "album": {
+        "name": "Don't",
+        "url": "https://open.spotify.com/album/7viWe4pQ7XpLMFUJNQ3wtv"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        },
+        {
+          "name": "SO7ACE",
+          "url": "https://open.spotify.com/artist/4ibCJiC5KbRm8hhmaXRkIU"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Issairo",
+          "url": "https://open.spotify.com/artist/5plDUJR66Vb8TYzXu9L1YV"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173621,
+      "name": "Don't",
+      "url": "https://open.spotify.com/track/3WEbhtkGe986Nuw6hnq4VR"
     },
     {
       "album": {
@@ -4390,7 +4494,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 203326,
       "name": "Happy Survival (feat. Khruangbin)",
       "url": "https://open.spotify.com/track/0Ck3kW2KiRLjMOGiKzW3la"
@@ -5338,7 +5442,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 159157,
       "name": "JEALOUS (feat. Ambr\u00e9)",
       "url": "https://open.spotify.com/track/3UuP7C0942VjdtQHZi4erQ"
@@ -6520,7 +6624,7 @@
       ],
       "date_added": "2024-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 167530,
       "name": "LOVE",
       "url": "https://open.spotify.com/track/6gfLMSo6QuGofJcCBoVgl2"
@@ -12516,6 +12620,28 @@
       "duration_ms": 208968,
       "name": "Vibration",
       "url": "https://open.spotify.com/track/7p1h63u5ATBUVnpQKP9Qzh"
+    },
+    {
+      "album": {
+        "name": "GEM",
+        "url": "https://open.spotify.com/album/0p2MabDPBRWA1B3ltJx5fg"
+      },
+      "artists": [
+        {
+          "name": "Noon Dave",
+          "url": "https://open.spotify.com/artist/7JkLbDtlEwAhFPn3o2kXAm"
+        },
+        {
+          "name": "Projexx",
+          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202736,
+      "name": "Vibration (feat. Projexx)",
+      "url": "https://open.spotify.com/track/0EKkyN2k5huAQZkc4NXJVA"
     },
     {
       "album": {

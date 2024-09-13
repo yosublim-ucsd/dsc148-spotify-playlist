@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "edgy en met karakter. cover: Sandor Dayala",
+  "description": "edgy en met karakter. cover: YVES",
   "name": "karakter.",
   "tracks": [
+    {
+      "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/0MMxrTsLuIeiTYEK8alNJc"
+      },
+      "artists": [
+        {
+          "name": "Suilju",
+          "url": "https://open.spotify.com/artist/68UTqb5uLKpStTq7jKW54j"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101941,
+      "name": "17",
+      "url": "https://open.spotify.com/track/1jAJ9FXLqs3HdBZ7o1TF02"
+    },
     {
       "album": {
         "name": "2 SCHORPIOENEN / MENSEN ZOALS WIJ",
@@ -1294,7 +1312,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 146007,
       "name": "Kaviaar",
       "url": "https://open.spotify.com/track/7DGgPtuR1OC61sTrVYVL1X"
@@ -1850,6 +1868,24 @@
       "duration_ms": 202026,
       "name": "round and round",
       "url": "https://open.spotify.com/track/4trRNTD2vikuHOb0mJPWXe"
+    },
+    {
+      "album": {
+        "name": "Safari",
+        "url": "https://open.spotify.com/album/6Ls71z8Zwbzw6zMwxWkv2a"
+      },
+      "artists": [
+        {
+          "name": "YVES",
+          "url": "https://open.spotify.com/artist/4QjFiRcZUcXUppYUR29MuQ"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186843,
+      "name": "Safari",
+      "url": "https://open.spotify.com/track/63m0FSZlrlvZsw4NqC2ZJA"
     },
     {
       "album": {
@@ -2800,7 +2836,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 166066,
       "name": "Young Boys",
       "url": "https://open.spotify.com/track/2Z6xysTOfIExe2jyIVkvu0"

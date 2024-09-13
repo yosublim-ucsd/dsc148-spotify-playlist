@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Karol Sevilla en portada.",
-  "num_followers": 86667,
+  "num_followers": 86680,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
@@ -507,6 +507,22 @@
     {
       "added_at": "2024-08-30 17:51:28",
       "album": {
+        "name": "Panorama",
+        "url": "https://open.spotify.com/album/4ktP2lR8aPjwFORYmyV1bD"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 157007,
+      "name": "No Molestar",
+      "url": "https://open.spotify.com/track/2jnJDn6efkVJ99hCQUs1Ea"
+    },
+    {
+      "added_at": "2024-08-30 17:51:28",
+      "album": {
         "name": "Hermosa Casualidad",
         "url": "https://open.spotify.com/album/2MvYDDD4PwJZHKZM7YyvZj"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 205779,
       "name": "Hermosa Casualidad",
       "url": "https://open.spotify.com/track/2dtxMxo4srf1VXy6fPkadI"
-    },
-    {
-      "added_at": "2024-08-30 17:51:28",
-      "album": {
-        "name": "Panorama",
-        "url": "https://open.spotify.com/album/4ktP2lR8aPjwFORYmyV1bD"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 157007,
-      "name": "No Molestar",
-      "url": "https://open.spotify.com/track/2jnJDn6efkVJ99hCQUs1Ea"
     },
     {
       "added_at": "2024-08-30 17:51:28",

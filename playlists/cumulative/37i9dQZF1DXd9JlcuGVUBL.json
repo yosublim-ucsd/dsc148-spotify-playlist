@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-24",
+      "date_removed": null,
       "duration_ms": 211053,
       "name": "5 Leaf Clover",
       "url": "https://open.spotify.com/track/2RbIoEQeXBoJzWt09eitEI"
@@ -196,7 +196,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 170375,
       "name": "Black Coffee",
       "url": "https://open.spotify.com/track/4XXNTT4WD4HUthuoSqT97K"
@@ -214,7 +214,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-24",
+      "date_removed": null,
       "duration_ms": 176426,
       "name": "But I Got A Beer In My Hand",
       "url": "https://open.spotify.com/track/3jhV8I9sIPXsjPs2ZOnSaf"
@@ -276,7 +276,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-08",
+      "date_removed": null,
       "duration_ms": 201371,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/2GWIcV2yk2CBHZLKMa1gWd"
@@ -341,6 +341,28 @@
     },
     {
       "album": {
+        "name": "Crying In The Rain",
+        "url": "https://open.spotify.com/album/6eVqKwcleqvmIHMOt5cFFo"
+      },
+      "artists": [
+        {
+          "name": "Babette",
+          "url": "https://open.spotify.com/artist/4U4ZzduTBxu3bSKxWo3DJa"
+        },
+        {
+          "name": "Mark Beling",
+          "url": "https://open.spotify.com/artist/6XuQauMi5r2sQiiek0lz7V"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186111,
+      "name": "Crying In The Rain",
+      "url": "https://open.spotify.com/track/0ggzUgUkwFxNrXdNDe4lfU"
+    },
+    {
+      "album": {
         "name": "Damn Love",
         "url": "https://open.spotify.com/album/1fvyi30P2ZxqMqtxd6wTai"
       },
@@ -352,7 +374,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 190666,
       "name": "Damn Love",
       "url": "https://open.spotify.com/track/7uuMtZ0IkdybIPJvvwfHaI"
@@ -424,7 +446,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 205860,
       "name": "Didn't I",
       "url": "https://open.spotify.com/track/3pKrznV5COeDouofUDzq6F"
@@ -496,7 +518,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-23",
+      "date_removed": null,
       "duration_ms": 174412,
       "name": "First",
       "url": "https://open.spotify.com/track/0GFwR94TMOMi8ev2T39ufA"
@@ -540,7 +562,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-31",
+      "date_removed": null,
       "duration_ms": 237773,
       "name": "Good Horses (feat. Miranda Lambert)",
       "url": "https://open.spotify.com/track/2Y55wplSMT3ltQQOPvMC75"
@@ -758,7 +780,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 209586,
       "name": "I'm On Fire - Spotify Singles",
       "url": "https://open.spotify.com/track/68B1wXoTamV83njf2kLTmf"
@@ -950,7 +972,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 182896,
       "name": "Net Myne",
       "url": "https://open.spotify.com/track/6PdtHsCB9kopQGKLcHjpwM"
@@ -986,7 +1008,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 204064,
       "name": "Old Flames",
       "url": "https://open.spotify.com/track/6bHZO9OxWJMpP0Tpo6QB3e"
@@ -1272,7 +1294,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 211282,
       "name": "Texas Hold 'Em",
       "url": "https://open.spotify.com/track/7MHaEHj7udLdE7JoEGkdWn"
@@ -1312,7 +1334,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 211891,
       "name": "Two Blue Eyes",
       "url": "https://open.spotify.com/track/3c51VLAPb5blL4BjI7UoH3"
@@ -1330,7 +1352,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-16",
+      "date_removed": null,
       "duration_ms": 181742,
       "name": "Vegas",
       "url": "https://open.spotify.com/track/6FEV8FeTA9kKU2sLTSJw7V"
@@ -1352,6 +1374,24 @@
       "duration_ms": 225834,
       "name": "Vroegoggend Koffie",
       "url": "https://open.spotify.com/track/39ayqFuZypxahqYKOMk9Pr"
+    },
+    {
+      "album": {
+        "name": "What Kinda Man",
+        "url": "https://open.spotify.com/album/53HiQCmdwiT4e7SHX74XdM"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259022,
+      "name": "What Kinda Man",
+      "url": "https://open.spotify.com/track/2K6T1iKa7coghsISspjPv8"
     },
     {
       "album": {

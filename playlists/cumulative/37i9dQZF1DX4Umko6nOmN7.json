@@ -1325,6 +1325,28 @@
     },
     {
       "album": {
+        "name": "Josephine",
+        "url": "https://open.spotify.com/album/4uOsx4KUO4ziKOeKQOZhpH"
+      },
+      "artists": [
+        {
+          "name": "Albin Lee Meldau",
+          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
+        },
+        {
+          "name": "Lissie",
+          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223241,
+      "name": "Josephine",
+      "url": "https://open.spotify.com/track/57KEhRQ7WjjYHjTIMBL8t0"
+    },
+    {
+      "album": {
         "name": "Just Because",
         "url": "https://open.spotify.com/album/73Kc0ifKlg9Pw6D8s850BT"
       },
@@ -1380,6 +1402,28 @@
       "duration_ms": 149996,
       "name": "Kite - Acoustic",
       "url": "https://open.spotify.com/track/3N7Xj01q72fQczJlpJyD78"
+    },
+    {
+      "album": {
+        "name": "Last Forever",
+        "url": "https://open.spotify.com/album/08Q5zl0Pi1083nDP01RMna"
+      },
+      "artists": [
+        {
+          "name": "Sarah Klang",
+          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
+        },
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191449,
+      "name": "Last Forever",
+      "url": "https://open.spotify.com/track/3k7fKbbxx0FPxknUdUfOpp"
     },
     {
       "album": {
@@ -1636,7 +1680,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 256047,
       "name": "Oh love",
       "url": "https://open.spotify.com/track/1I0gbWZdUhCo2a6qkJP4m0"
@@ -2206,7 +2250,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 176055,
       "name": "You Could Start A Cult - Live from Spotify Studios",
       "url": "https://open.spotify.com/track/2fWqTX6zcIHCfhJjLA5pxR"

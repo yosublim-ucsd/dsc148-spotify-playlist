@@ -1,12 +1,12 @@
 {
-  "description": "<a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a>, <a href=spotify:playlist:37i9dQZF1EIUIEDIU11pe6>Forevermore</a> and <a href=spotify:playlist:37i9dQZF1EIY9Q7Eg6cSFb>Onward To Olympas</a>",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a>, <a href=spotify:playlist:37i9dQZF1EIY9Q7Eg6cSFb>Onward To Olympas</a> and <a href=spotify:playlist:37i9dQZF1EIUIEDIU11pe6>Forevermore</a>",
   "num_followers": 0,
   "original_name": "Destroy The Runner Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAAfAnFRZZXEhiu8kSLZyudp",
+  "snapshot_id": "AAAAAAAAAAAMC20OeohtMxmeUEEAhejc",
   "tracks": [
     {
       "added_at": null,
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6"
         }
       ],
-      "duration_ms": 85853,
-      "name": "Resolution",
-      "url": "https://open.spotify.com/track/1RcdFNgUuKdFnuvt2ppD03"
+      "duration_ms": 155280,
+      "name": "Thoughts In Reverse",
+      "url": "https://open.spotify.com/track/1rMrqofTog2FCn0PoUHdcN"
     },
     {
       "added_at": null,
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6"
         }
       ],
-      "duration_ms": 155280,
-      "name": "Thoughts In Reverse",
-      "url": "https://open.spotify.com/track/1rMrqofTog2FCn0PoUHdcN"
+      "duration_ms": 85853,
+      "name": "Resolution",
+      "url": "https://open.spotify.com/track/1RcdFNgUuKdFnuvt2ppD03"
     },
     {
       "added_at": null,
@@ -379,38 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Children Of Fire",
-        "url": "https://open.spotify.com/album/0WQNPLhdUZWdBotJTdW73k"
-      },
-      "artists": [
-        {
-          "name": "Oh, Sleeper",
-          "url": "https://open.spotify.com/artist/3HMsQNXUa0je3yG5REHkQ7"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Endseekers",
-      "url": "https://open.spotify.com/track/2Zx9X4HJMDnegzTRy8xdFV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I, Lucifer",
-        "url": "https://open.spotify.com/album/3AYu393Qrn5AEcEJCXO3L5"
-      },
-      "artists": [
-        {
-          "name": "Destroy The Runner",
-          "url": "https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6"
-        }
-      ],
-      "duration_ms": 212266,
-      "name": "Crumbs For The Murder",
-      "url": "https://open.spotify.com/track/10ibre8aP15qdSCopmoZsU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Powerless Rise",
         "url": "https://open.spotify.com/album/4vJxMmzmQsm0lvVo8QF6Lk"
       },
@@ -468,25 +436,25 @@
           "url": "https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6"
         }
       ],
-      "duration_ms": 180506,
-      "name": "A Bag Of Marbles",
-      "url": "https://open.spotify.com/track/0Gv0VlvEqJEjrtv4W6MUsw"
+      "duration_ms": 212266,
+      "name": "Crumbs For The Murder",
+      "url": "https://open.spotify.com/track/10ibre8aP15qdSCopmoZsU"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Apologies Are For The Weak",
-        "url": "https://open.spotify.com/album/4gWkQbpz5yz9hwOxwlgUhn"
+        "name": "With Roots Above And Branches Below (Standard Edition)",
+        "url": "https://open.spotify.com/album/3fF0DMCLemCIxQ09OpSq2Y"
       },
       "artists": [
         {
-          "name": "Miss May I",
-          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
+          "name": "The Devil Wears Prada",
+          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
         }
       ],
-      "duration_ms": 200013,
-      "name": "A Dance With Aera Cura",
-      "url": "https://open.spotify.com/track/0cUIcfGHuMJ12wfEDJdWes"
+      "duration_ms": 253213,
+      "name": "Big Wiggly Style",
+      "url": "https://open.spotify.com/track/3mpHOCy0ePkRoHJ5PI3dJn"
     },
     {
       "added_at": null,
@@ -503,6 +471,38 @@
       "duration_ms": 215693,
       "name": "There Can Be No Hesitation",
       "url": "https://open.spotify.com/track/35A0XPN0zoaQQHPvTOcemg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "With Roots Above And Branches Below (Standard Edition)",
+        "url": "https://open.spotify.com/album/3fF0DMCLemCIxQ09OpSq2Y"
+      },
+      "artists": [
+        {
+          "name": "The Devil Wears Prada",
+          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
+        }
+      ],
+      "duration_ms": 195906,
+      "name": "Sassafras",
+      "url": "https://open.spotify.com/track/09CyJ5SqgQhgBazUBktPrF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I, Lucifer",
+        "url": "https://open.spotify.com/album/3AYu393Qrn5AEcEJCXO3L5"
+      },
+      "artists": [
+        {
+          "name": "Destroy The Runner",
+          "url": "https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6"
+        }
+      ],
+      "duration_ms": 180506,
+      "name": "A Bag Of Marbles",
+      "url": "https://open.spotify.com/track/0Gv0VlvEqJEjrtv4W6MUsw"
     },
     {
       "added_at": null,
@@ -539,18 +539,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Frail Words Collapse",
-        "url": "https://open.spotify.com/album/1atsQ3zl1LR122Y1UZajsE"
+        "name": "Apologies Are For The Weak",
+        "url": "https://open.spotify.com/album/4gWkQbpz5yz9hwOxwlgUhn"
       },
       "artists": [
         {
-          "name": "As I Lay Dying",
-          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+          "name": "Miss May I",
+          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
         }
       ],
-      "duration_ms": 191173,
-      "name": "Collision",
-      "url": "https://open.spotify.com/track/0tnNBASLBWbtQmF5gymU8R"
+      "duration_ms": 200013,
+      "name": "A Dance With Aera Cura",
+      "url": "https://open.spotify.com/track/0cUIcfGHuMJ12wfEDJdWes"
     },
     {
       "added_at": null,
@@ -571,18 +571,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "When Everything Falls",
-        "url": "https://open.spotify.com/album/1XC7lsDtcACzGCujtTcGLp"
+        "name": "Frail Words Collapse",
+        "url": "https://open.spotify.com/album/1atsQ3zl1LR122Y1UZajsE"
       },
       "artists": [
         {
-          "name": "Haste The Day",
-          "url": "https://open.spotify.com/artist/7voCqDg5xgF1LZFrmbPS7w"
+          "name": "As I Lay Dying",
+          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
         }
       ],
-      "duration_ms": 251320,
-      "name": "When Everything Falls",
-      "url": "https://open.spotify.com/track/5z9amXA7pdaWIuHLmcOoaV"
+      "duration_ms": 191173,
+      "name": "Collision",
+      "url": "https://open.spotify.com/track/0tnNBASLBWbtQmF5gymU8R"
     },
     {
       "added_at": null,
@@ -635,18 +635,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "An Ocean Between Us",
-        "url": "https://open.spotify.com/album/2hghqPOGmfBdEfWeMsQWdN"
+        "name": "When Everything Falls",
+        "url": "https://open.spotify.com/album/1XC7lsDtcACzGCujtTcGLp"
       },
       "artists": [
         {
-          "name": "As I Lay Dying",
-          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+          "name": "Haste The Day",
+          "url": "https://open.spotify.com/artist/7voCqDg5xgF1LZFrmbPS7w"
         }
       ],
-      "duration_ms": 294893,
-      "name": "This Is Who We Are",
-      "url": "https://open.spotify.com/track/2lUh4kkepza5MHsPQZNShn"
+      "duration_ms": 251320,
+      "name": "When Everything Falls",
+      "url": "https://open.spotify.com/track/5z9amXA7pdaWIuHLmcOoaV"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shadows Are Security",
-        "url": "https://open.spotify.com/album/3D8V1PlxgpX05jyHLv6e4P"
+        "name": "An Ocean Between Us",
+        "url": "https://open.spotify.com/album/2hghqPOGmfBdEfWeMsQWdN"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
         }
       ],
-      "duration_ms": 191533,
-      "name": "Reflection",
-      "url": "https://open.spotify.com/track/5bOGLDXDi0pbNJ8WFzNoUX"
+      "duration_ms": 294893,
+      "name": "This Is Who We Are",
+      "url": "https://open.spotify.com/track/2lUh4kkepza5MHsPQZNShn"
     },
     {
       "added_at": null,
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
         }
       ],
-      "duration_ms": 203066,
-      "name": "Losing Sight",
-      "url": "https://open.spotify.com/track/21lljWLLI0vIPrco0kQNoV"
+      "duration_ms": 191533,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/5bOGLDXDi0pbNJ8WFzNoUX"
     },
     {
       "added_at": null,
@@ -763,18 +763,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lost In The Sound Of Separation",
-        "url": "https://open.spotify.com/album/613KEpSUb8NIzGmpfqhXAw"
+        "name": "Shadows Are Security",
+        "url": "https://open.spotify.com/album/3D8V1PlxgpX05jyHLv6e4P"
       },
       "artists": [
         {
-          "name": "Underoath",
-          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+          "name": "As I Lay Dying",
+          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
         }
       ],
-      "duration_ms": 207573,
-      "name": "Desperate Times, Desperate Measures",
-      "url": "https://open.spotify.com/track/4TLK7Umh2d9UO3ZajvE6AV"
+      "duration_ms": 203066,
+      "name": "Losing Sight",
+      "url": "https://open.spotify.com/track/21lljWLLI0vIPrco0kQNoV"
     },
     {
       "added_at": null,
@@ -795,18 +795,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Fall Of Ideals",
-        "url": "https://open.spotify.com/album/5LFlBRrSKGrczYQ7avbJ5a"
+        "name": "The Caitiff Choir",
+        "url": "https://open.spotify.com/album/0EZB1xIDFvMnTLKI4YdlAb"
       },
       "artists": [
         {
-          "name": "All That Remains",
-          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
+          "name": "It Dies Today",
+          "url": "https://open.spotify.com/artist/3uFWRtKjp2E2Y1QmJPaKNC"
         }
       ],
-      "duration_ms": 227106,
-      "name": "We Stand",
-      "url": "https://open.spotify.com/track/1QAz671ewHPs31WxBBVkKG"
+      "duration_ms": 182080,
+      "name": "Severed Ties Yield Severed Heads",
+      "url": "https://open.spotify.com/track/3eQkdO24L0yxKQj9Y0pd1m"
     }
   ],
   "unique_name": "Destroy The Runner Mix",

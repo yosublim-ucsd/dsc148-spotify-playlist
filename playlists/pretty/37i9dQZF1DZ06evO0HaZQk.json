@@ -1,12 +1,12 @@
 {
-  "description": "This is Natalia Lafourcade. Tutti i brani in un'unica playlist.",
-  "num_followers": 499356,
+  "description": "This Is Natalia Lafourcade. Los temas esenciales, todos en una lista.",
+  "num_followers": 499418,
   "original_name": "This Is Natalia Lafourcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zt+MAAAAAAAvdwdqMkGDnPOQL+ijc1XP",
+  "snapshot_id": "ZuDdgAAAAADAWEmP1gD1hMDWwpkQqqTf",
   "tracks": [
     {
       "added_at": null,
@@ -135,22 +135,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jet Love",
-        "url": "https://open.spotify.com/album/7hPfPQgLWyKGnCiY6oqOaZ"
+        "name": "HU HU HU",
+        "url": "https://open.spotify.com/album/7wr357GNp9CgeJRUfpX7hf"
       },
       "artists": [
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        },
         {
           "name": "Natalia Lafourcade",
           "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 203193,
-      "name": "Cinco Horas Menos",
-      "url": "https://open.spotify.com/track/6Uu4Jpk4Qc8iFA4APbB2aM"
+      "duration_ms": 194786,
+      "name": "Ella es Bonita",
+      "url": "https://open.spotify.com/track/3GLa0YFGyR9vL33Bw2kjHs"
     },
     {
       "added_at": null,
@@ -171,18 +167,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "HU HU HU",
-        "url": "https://open.spotify.com/album/7wr357GNp9CgeJRUfpX7hf"
+        "name": "Jet Love",
+        "url": "https://open.spotify.com/album/7hPfPQgLWyKGnCiY6oqOaZ"
       },
       "artists": [
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        },
         {
           "name": "Natalia Lafourcade",
           "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 194786,
-      "name": "Ella es Bonita",
-      "url": "https://open.spotify.com/track/3GLa0YFGyR9vL33Bw2kjHs"
+      "duration_ms": 203193,
+      "name": "Cinco Horas Menos",
+      "url": "https://open.spotify.com/track/6Uu4Jpk4Qc8iFA4APbB2aM"
     },
     {
       "added_at": null,

@@ -3218,10 +3218,32 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 233930,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/16LDHU7Ir8BAEQs9j61qDE"
+    },
+    {
+      "album": {
+        "name": "SWAGG",
+        "url": "https://open.spotify.com/album/6ohDfN4WqQolD87G6s3j3U"
+      },
+      "artists": [
+        {
+          "name": "Timati",
+          "url": "https://open.spotify.com/artist/3oLccEy7y6zTe1gCFHxuWr"
+        },
+        {
+          "name": "Shontelle",
+          "url": "https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233930,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/4aTAQCJIGLU5RRcnZNPftn"
     },
     {
       "album": {

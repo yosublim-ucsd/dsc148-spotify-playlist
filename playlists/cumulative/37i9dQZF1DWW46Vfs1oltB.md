@@ -2,9 +2,9 @@
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> The fresh & hottest K\-Hip hop tracks\. \(Cover: YUNGIN, Jay Park\(박재범\)\)
+> The fresh & hottest K\-Hip hop tracks\. \(Cover: Paloalto\(팔로알토\)\)
 
-1,309 songs - 2 day 23 hr 0 min
+1,311 songs - 2 day 23 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Bentley](https://open.spotify.com/track/2LLLwm6I3SMEBbs32llNlM) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [1 Life 2 Live](https://open.spotify.com/album/6r9mSEE0PzpUPlHITEXddP) | 3:51 | 2024-04-05 | 2024-04-12 |
 | [BENTLEY 2](https://open.spotify.com/track/3Lye9n9zKVuJyB51jmp8EL) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR) | [BENTLEY 2](https://open.spotify.com/album/4fSn71IKAOVVu5ujvYG46a) | 4:13 | 2022-12-27 | 2023-01-04 |
 | [BENZO](https://open.spotify.com/track/6rhq5U4vBZ90GpzhodA9rz) | [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [BENZO](https://open.spotify.com/album/0BW5t9qhzscspZ6ozozmOa) | 2:22 | 2022-08-01 | 2023-03-28 |
+| [Best Friend](https://open.spotify.com/track/1Wtu77fXo1U8YvocTZBtD6) | [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [Lovers turn to Haters](https://open.spotify.com/album/7afBmzhh7e1lzbo2ju7q06) | 3:29 | 2024-09-12 |  |
 | [Bet You Wanna \(feat\. Cardi B\)](https://open.spotify.com/track/7iAgNZdotu40NwtoIWJHFe) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 2:41 | 2024-01-23 | 2024-03-09 |
 | [Better Days](https://open.spotify.com/track/4VrBh5AlottbINgmoVlcZg) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [PROMISED LAND](https://open.spotify.com/album/20ba9oqwqyIpYrZHpGTsHy) | 3:43 | 2022-03-24 | 2022-07-08 |
 | [Bi\-elijah](https://open.spotify.com/track/7ew0KJ2Z6d2wpoYFTriF8C) | [Y2K92](https://open.spotify.com/artist/5wXWhMZL137p0cgWaZSry9) | [The Songs for the NOT\-YETs](https://open.spotify.com/album/0bsjvYwdHUzneE7xRDHngX) | 4:47 | 2023-07-05 | 2023-07-14 |
@@ -688,6 +689,7 @@
 | [Love Peace Movement \(Love Peace REMIX\)](https://open.spotify.com/track/3MtaDHBUCkfge8xExxyiQL) | [Tiger JK](https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD), [Paloalto](https://open.spotify.com/artist/5pvgbizg8R3nhrmefYQu2A), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02), [MAN1AC](https://open.spotify.com/artist/4YNvQXYW6XewBzHcWgsXrS), [Los](https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD), [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi), [Bizzy](https://open.spotify.com/artist/4w7y9BkDnf9hhjzQH6Br41), [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Love Peace Movement \(Love Peace REMIX\)](https://open.spotify.com/album/0ZYEIvgcYlfGWdOFCr7KV6) | 4:11 | 2021-12-21 | 2022-06-30 |
 | [Love yourself](https://open.spotify.com/track/7lmA5l9sqoI4U9Q8NHkEEw) | [Owen](https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO) | [P.O.E.M\. IV : Tyler Durden](https://open.spotify.com/album/2VbR5wipiGroNPXrVu4HZt) | 3:20 | 2023-03-22 | 2023-09-15 |
 | [LOVE,ME \(feat\. Dbo\)](https://open.spotify.com/track/5E8N11KrFYhE97aDwMpVh7) | [EXN](https://open.spotify.com/artist/5s57OpnkDtehlRDTZcLGFE), [Dbo](https://open.spotify.com/artist/7pMFAOPNBL5beBLW4Pohst) | [LOVE,ME \(feat\. Dbo\)](https://open.spotify.com/album/31sC3hK0s5lx7NWr4edySi) | 3:04 | 2022-05-04 | 2022-05-25 |
+| [Lovers turn to Haters](https://open.spotify.com/track/6ovu72i1VoFPjYWVSW8I6I) | [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv), [JUPITER KIM](https://open.spotify.com/artist/1tEGfXoTo3Sh7Q4zd1s7iE), [CHANNY D](https://open.spotify.com/artist/23FsJf4Uv89b1kPtqqsUFr) | [Lovers turn to Haters](https://open.spotify.com/album/7afBmzhh7e1lzbo2ju7q06) | 4:00 | 2024-09-12 |  |
 | [Lowlife Princess](https://open.spotify.com/track/0PqUct6dFr4rx1oXhgBysQ) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Lowlife Princess: Noir](https://open.spotify.com/album/2ZYIby6irhfnCE3uQDBCi0) | 2:31 | 2022-11-22 | 2023-03-28 |
 | [Lo′ak \(Feat\. oceanfromtheblue\)](https://open.spotify.com/track/75F8QdnBxSIY0MET5X7Qrv) | [KOREANGROOVE](https://open.spotify.com/artist/51kKa2NlubrcVgPEoxUQv6), [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [BLUE GROOVE](https://open.spotify.com/album/5gB5Rsh711qS5GVO6WKu5A) | 2:45 | 2023-04-25 | 2023-09-15 |
 | [LTOR \(Left Them On Read\)](https://open.spotify.com/track/55KZrqOn7a6qEq511Rjn3U) | [G2](https://open.spotify.com/artist/4ueZwsEtcqcO0IZywqgk66) | [LTOR \(Left Them On Read\)](https://open.spotify.com/album/5HyiPVji6AG0Ei6nZQm3xp) | 2:42 | 2024-06-04 |  |

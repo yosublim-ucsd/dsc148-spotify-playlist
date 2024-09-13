@@ -4041,24 +4041,6 @@
     },
     {
       "album": {
-        "name": "Cart\u00e3o Postal",
-        "url": "https://open.spotify.com/album/7lskQR32sv0sV9zwkdRkKN"
-      },
-      "artists": [
-        {
-          "name": "Evinha",
-          "url": "https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3"
-        }
-      ],
-      "date_added": "2022-12-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 128903,
-      "name": "Espera Pra Ver",
-      "url": "https://open.spotify.com/track/5MlrBIIbUYw0Nj1TEHWhmX"
-    },
-    {
-      "album": {
         "name": "Maldita",
         "url": "https://open.spotify.com/album/6x8roNzupHGF8tJvcINqhT"
       },
@@ -4074,6 +4056,24 @@
       "duration_ms": 347653,
       "name": "Esperanca",
       "url": "https://open.spotify.com/track/4UnwCd0Oesil0d0znEEcc9"
+    },
+    {
+      "album": {
+        "name": "Cart\u00e3o Postal",
+        "url": "https://open.spotify.com/album/7lskQR32sv0sV9zwkdRkKN"
+      },
+      "artists": [
+        {
+          "name": "Evinha",
+          "url": "https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128903,
+      "name": "Esperar Pra Ver",
+      "url": "https://open.spotify.com/track/5MlrBIIbUYw0Nj1TEHWhmX"
     },
     {
       "album": {

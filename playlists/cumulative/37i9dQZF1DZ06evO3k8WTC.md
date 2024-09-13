@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO3k8WTC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO3k8WTC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO3k8WTC)
 
-### [This Is アット・ザ・ドライヴイン](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3k8WTC)
+### [This Is At the Drive\-In](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3k8WTC)
 
-> This is アット・ザ・ドライヴイン。アーティストの代表曲をひとつのプレイリストに。
+> This is At the Drive\-In\. The essential tracks, all in one playlist.
 
 55 songs - 3 hr 11 min
 

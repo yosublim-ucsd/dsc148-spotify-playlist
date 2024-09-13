@@ -1,12 +1,12 @@
 {
   "description": "Work out to these high energy numbers! \nCover : Ram Charan",
-  "num_followers": 74603,
+  "num_followers": 74633,
   "original_name": "Telugu Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zt7DZwAAAAD25gyFYUa/W6RHGWuc1ttz",
+  "snapshot_id": "ZuLfOwAAAAANe7V2TOmdx6BVPY+vCLhr",
   "tracks": [
     {
       "added_at": "2024-02-13 09:36:27",
@@ -187,6 +187,22 @@
       "duration_ms": 207647,
       "name": "Hukum (From \"Jailer\")",
       "url": "https://open.spotify.com/track/1VhFZ2cCflcwp74w5Vzv7y"
+    },
+    {
+      "added_at": "2024-09-12 12:31:55",
+      "album": {
+        "name": "Red Sea (From \"Devara Part 1\")",
+        "url": "https://open.spotify.com/album/5FqTXCya4oO6is24rhWDBg"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "duration_ms": 162043,
+      "name": "Red Sea (From \"Devara Part 1\")",
+      "url": "https://open.spotify.com/track/75IywzsrO67PjCrFHnA9tb"
     },
     {
       "added_at": "2024-07-01 05:40:00",
@@ -599,34 +615,6 @@
       "duration_ms": 285652,
       "name": "Theme Of BRO (From \"BRO\")",
       "url": "https://open.spotify.com/track/6zpANi4RRtyijGYhV2gXJL"
-    },
-    {
-      "added_at": "2023-08-30 09:48:52",
-      "album": {
-        "name": "AGR (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2DRIvzTjUQGjBwgYgMLwxS"
-      },
-      "artists": [
-        {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
-        },
-        {
-          "name": "Deepthi Suresh",
-          "url": "https://open.spotify.com/artist/4PY2xnTu90K0hvkgcljRJl"
-        },
-        {
-          "name": "Sreekanth Hariharan",
-          "url": "https://open.spotify.com/artist/6EI5lmCSICOvroaH1bTwEj"
-        },
-        {
-          "name": "Sarath Santosh",
-          "url": "https://open.spotify.com/artist/4Qv21cLGHUxyffRHV7vaUp"
-        }
-      ],
-      "duration_ms": 292000,
-      "name": "Raavanaasura",
-      "url": "https://open.spotify.com/track/46FEqrd3hdzL7kS3XR34aD"
     },
     {
       "added_at": "2023-07-15 09:48:49",

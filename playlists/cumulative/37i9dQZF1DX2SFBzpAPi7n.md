@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Xdinary Heros\) \(핫한 국내 록 음악을 만나보세요!\)
 
-730 songs - 1 day 20 hr 6 min
+731 songs - 1 day 20 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [All My Friends Kill Me](https://open.spotify.com/track/4C8qPNCHXKTYD56KrPzKQP) | [KYUL](https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm) | [All My Friends Kill Me](https://open.spotify.com/album/12oTig0EoVdptk5abXIcJ9) | 3:02 | 2022-07-22 | 2022-07-26 |
 | [All Those Diaries Just Become Letters](https://open.spotify.com/track/3cv2uvppoO6Y16nCK7yUCD) | [Woogotsa](https://open.spotify.com/artist/4L4Q8o66UwJNBp1KQ61PSX) | [All Those Diaries Just Become Letters](https://open.spotify.com/album/0hnlm6tTqE7YrNpn1NJlLa) | 3:30 | 2022-04-12 | 2022-06-07 |
 | [All Those Realistic Lies](https://open.spotify.com/track/78bZTk487tOffKKz09E60g) | [Broccoli, you too?](https://open.spotify.com/artist/1gq4XavqmZhqOzEkpFBz1j) | [B\-SIDE PART\. 2](https://open.spotify.com/album/0P5NUrjduYP8PqkLfrBc49) | 4:15 | 2022-04-12 | 2022-04-21 |
-| [AMNESIA](https://open.spotify.com/track/0DvArwBhUjoOaRjluR7gCr) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [AMNESIA](https://open.spotify.com/album/6Ux7J1ECzNHlKWw8GOxYNs) | 3:19 | 2024-01-08 |  |
+| [AMNESIA](https://open.spotify.com/track/0DvArwBhUjoOaRjluR7gCr) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [AMNESIA](https://open.spotify.com/album/6Ux7J1ECzNHlKWw8GOxYNs) | 3:19 | 2024-01-08 | 2024-09-13 |
 | [An Ordinary Day](https://open.spotify.com/track/7lTo6C0sGaPdQvS4qAvVzp) | [Weather Boat](https://open.spotify.com/artist/0c5kjsZX8dPw8M1Oepgv4d) | [An Ordinary Day](https://open.spotify.com/album/3T4GnTXcyIHB3syGdr5JIS) | 4:06 | 2022-07-04 | 2022-07-28 |
 | [Analogue](https://open.spotify.com/track/0HtmQKd6mUKlUsUgSpM1RJ) | [BUZZ](https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2) | [The Lost Time](https://open.spotify.com/album/12nDUGuOGoo86f1OrBUMtM) | 3:34 | 2022-04-12 | 2022-07-16 |
 | [Another Day](https://open.spotify.com/track/6dKQ8gHWUIHOkKPhPYyEk1) | [Park Wan Kyu](https://open.spotify.com/artist/3QUst1HlAmRuM48c5n5HSB), [노바소닉](https://open.spotify.com/artist/2zIq92ejtjxbwJ01a6VKkE) | [Another Day](https://open.spotify.com/album/1OGcVFDHhXEKwktaBaHofl) | 4:11 | 2022-04-22 | 2022-07-29 |
@@ -75,6 +75,7 @@
 | [Beautiful Life \(feat\. CRYING NUT\)](https://open.spotify.com/track/716gsCalWOk8pXj1FydBpk) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [CRYING NUT](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [TO DIE FOR](https://open.spotify.com/album/20eYi4s2pkBv0GGp42sCHK) | 3:07 | 2023-06-01 | 2023-07-03 |
 | [Beautiful Night](https://open.spotify.com/track/5TAVtxiijuCtUAvubAy7bY) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [Beautiful Night](https://open.spotify.com/album/3d3Qrwsh70152U0DkClVem) | 2:49 | 2022-08-04 | 2022-08-13 |
 | [Because it’ll be faster for you to forget me than me loving you](https://open.spotify.com/track/7veL3B4K9oQB9VnyLtuPJW) | [from20](https://open.spotify.com/artist/16ODiemwC9iXaQQ7AQBVnt) | [Because it’ll be faster for you to forget me than me loving you](https://open.spotify.com/album/1w0r5U0Sl7YqvdKrtzXROQ) | 3:11 | 2022-04-22 | 2022-07-22 |
+| [Being](https://open.spotify.com/track/7ulCWv7e24VBTQ7lzGWrFP) | [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Madness Always Turns to Sadness](https://open.spotify.com/album/6GcZjO7MFfAGaYqeSBcF6v) | 3:33 | 2024-09-10 |  |
 | [better \(with you\)](https://open.spotify.com/track/7xzeekIeM7lFruBSfK6iIm) | [Crying City](https://open.spotify.com/artist/324QqTOkQyG8CUlphElsdD) | [better \(with you\)](https://open.spotify.com/album/4Z5JK8GrGgp8JYSxxjUYAn) | 2:26 | 2024-07-30 |  |
 | [BICCOY \(Baby I Can′t Concentrate On You\)](https://open.spotify.com/track/39ujFBADdM2S4XyFF48mzc) | [Kisnue](https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F) | [\[LIFE AFTER\]](https://open.spotify.com/album/3bAEQ8KYhz99OWFLGWE2Oy) | 3:11 | 2022-06-13 | 2022-06-16 |
 | [Bichulae \(feat\. Luli Lee\)](https://open.spotify.com/track/0Ygqbr8k7lp9VQpmRWVkzY) | [BULGOGIDISCO](https://open.spotify.com/artist/38IwvgYKTkEVuVg1jaqVQL), [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Bichulae](https://open.spotify.com/album/0wqZQ4tOQj6pB1MlURlFof) | 3:09 | 2022-06-23 | 2022-07-19 |

@@ -4,7 +4,7 @@
 
 > A spine\-chilling selection of classical favourites and supernatural soundtracks.
 
-70 songs - 6 hr 6 min
+71 songs - 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Loi de réforme de l'enseignement du nouveau siècle \- Méthode BR](https://open.spotify.com/track/3RHINlscuMpIBR8IGRJBk9) | [Orchestre Philharmonique National de Varsovie](https://open.spotify.com/artist/5JsiijDCMgs8DrvhKEdi8g), [Masamichi Amano](https://open.spotify.com/artist/0McOFXOF0Nw1u4r7wO9K6t) | [Battle royale \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3C57C7iiURFQWPQItF99KI) | 3:01 | 2021-10-18 |  |
 | [Lyric Pieces Book V, Op\. 54: No\. 3 March Of The Trolls](https://open.spotify.com/track/0aVVfGJTyANYRvi22Kn7x1) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Alice Sara Ott](https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q) | [Wonderland \- Edvard Grieg: Piano Concerto, Lyric Pieces](https://open.spotify.com/album/675zFvCNg3trc61Wm3YRW1) | 2:56 | 2021-10-18 |  |
 | [Lyric Pieces Book V, Op\. 54: No\. 3 March Of The Trolls](https://open.spotify.com/track/4BQhgrI8okU15twRPpekyj) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Alice Sara Ott](https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q) | [Wonderland \- Edvard Grieg: Piano Concerto, Lyric Pieces](https://open.spotify.com/album/2UuimI3vh1uOLs1WemYk1m) | 2:56 | 2023-09-26 | 2024-04-19 |
+| [Main Title Theme \(from "Beetlejuice Beetlejuice"\)](https://open.spotify.com/track/1OAHDtRQCebV0Bq4ixOyes) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Beetlejuice Beetlejuice \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/63PDHCTMl5YxaqmbdQ66jj) | 3:20 | 2024-09-12 |  |
 | [Main Title/John Williams/Jaws \- From The "Jaws" Soundtrack](https://open.spotify.com/track/55xly70WJY1cx5qsoogaqs) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Jaws \(Music From The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1QeYHaWTTPvgu2wqKCPlUc) | 2:20 | 2021-10-18 |  |
 | [March funèbre d'une marionette](https://open.spotify.com/track/7I20iAsOMVV5AdrzDgUL52) | [Charles Gounod](https://open.spotify.com/artist/42Vmza0WYHdhsgxFmf9Tui), [Yan Pascal Tortelier](https://open.spotify.com/artist/64Ne9xbQUL91scDAPm7I7k), [BBC Philharmonic](https://open.spotify.com/artist/1z9u3vLr7gw6IBS8CP8c2X) | [Tortelier's French Bonbons](https://open.spotify.com/album/5Rc6gs1aotS0Bk187LWGDW) | 4:27 | 2021-10-18 | 2024-04-19 |
 | [Marche funebre d'une marionnette \(Funeral March of a Marionette\)](https://open.spotify.com/track/5aS4oXJsJX2YVBlvqj46l7) | [Charles Gounod](https://open.spotify.com/artist/42Vmza0WYHdhsgxFmf9Tui), [BBC Philharmonic](https://open.spotify.com/artist/1z9u3vLr7gw6IBS8CP8c2X), [Yan Pascal Tortelier](https://open.spotify.com/artist/64Ne9xbQUL91scDAPm7I7k) | [Herold: Overture To Zampa / Gounod: Funeral March of A Marionette / Thomas: Overture To Mignon](https://open.spotify.com/album/2EZbxgS0EukBJqOhRTfkBl) | 4:27 | 2021-10-18 |  |

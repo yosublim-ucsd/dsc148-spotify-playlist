@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-12",
-  "description": "This Is blink-182. Los temas esenciales, todos en una lista.",
+  "description": "This is blink-182. The essential tracks, all in one playlist.",
   "name": "This Is blink-182",
   "tracks": [
     {
@@ -160,7 +160,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 161066,
       "name": "Another Girl Another Planet",
       "url": "https://open.spotify.com/track/6klwvrS59j10a8ZqelwK3q"
@@ -744,7 +744,7 @@
       ],
       "date_added": "2024-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 183282,
       "name": "EVERYONE EVERYWHERE",
       "url": "https://open.spotify.com/track/4BbnpMp2j5GJzIjiDEFA6z"
@@ -798,10 +798,28 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 138460,
       "name": "FELL IN LOVE",
       "url": "https://open.spotify.com/track/3wIaPhVmXG6lcIPfm7D0fm"
+    },
+    {
+      "album": {
+        "name": "ONE MORE TIME... PART-2",
+        "url": "https://open.spotify.com/album/3wU2wXacpwqetSRloR0nMX"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138460,
+      "name": "FELL IN LOVE",
+      "url": "https://open.spotify.com/track/3zwRNJfoHAioyZJOkxJJ9Z"
     },
     {
       "album": {
@@ -906,7 +924,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-09",
+      "date_removed": null,
       "duration_ms": 201480,
       "name": "Home Is Such a Lonely Place",
       "url": "https://open.spotify.com/track/6OSb3O57uj7GCavzdjcXHg"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Deretan musisi dalam negeri yang patut diantisipasi. Cover: Nyoman Paul",
+  "description": "Deretan musisi dalam negeri yang patut diantisipasi. Cover: Abeliano",
   "name": "RADAR Indonesia ",
   "tracks": [
     {
@@ -3544,6 +3544,24 @@
       "duration_ms": 249100,
       "name": "Tak Ingin Kau Terluka",
       "url": "https://open.spotify.com/track/3HQgtw9EiCBPXsTQPrO2ZF"
+    },
+    {
+      "album": {
+        "name": "Tak Pernah Sendiri",
+        "url": "https://open.spotify.com/album/7j9qy88hw4ZKfQVJFwy0RX"
+      },
+      "artists": [
+        {
+          "name": "Abeliano",
+          "url": "https://open.spotify.com/artist/5MVMpQxOa7Ax5ps1J6E2uE"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241309,
+      "name": "Tak Pernah Sendiri",
+      "url": "https://open.spotify.com/track/0fL3GBgfFcfQ18iyJmTX1o"
     },
     {
       "album": {

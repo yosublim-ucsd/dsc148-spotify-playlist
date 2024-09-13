@@ -2,7 +2,7 @@
 
 ### [This Is Auli'i Cravalho](https://open.spotify.com/playlist/37i9dQZF1DZ06evO39wmQD)
 
-> This is: Auli'i Cravalho\. Alle wichtigen Tracks in einer Playlist.
+> This is Auli'i Cravalho\. Track\-track unggulan, semuanya dalam satu playlist.
 
 28 songs - 1 hr 20 min
 

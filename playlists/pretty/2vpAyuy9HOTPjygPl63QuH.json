@@ -1,12 +1,12 @@
 {
   "description": "The freshest tech house &amp; techno | Submit via Instagram: @subshiftmusic",
-  "num_followers": 11289,
+  "num_followers": 11302,
   "original_name": "SUBSHIFT SELECTS ",
   "owner": {
     "name": "SUBSHIFT",
     "url": "https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv"
   },
-  "snapshot_id": "AAAjjfNPpLKHNGk5p5yM91sD7hvD4yej",
+  "snapshot_id": "AAAjkaENoG/kF+g26571usAhuNmQ8+zH",
   "tracks": [
     {
       "added_at": "2024-08-31 14:35:42",
@@ -237,6 +237,22 @@
       "url": "https://open.spotify.com/track/4Oc42aPOweEPZyNvTJSoBE"
     },
     {
+      "added_at": "2024-09-12 15:48:04",
+      "album": {
+        "name": "So Deep",
+        "url": "https://open.spotify.com/album/6yN3CjldTpdxruxtLg0sDa"
+      },
+      "artists": [
+        {
+          "name": "Wilder (ITA)",
+          "url": "https://open.spotify.com/artist/3K3Svv7PzPEkx29PHPVwhP"
+        }
+      ],
+      "duration_ms": 344508,
+      "name": "So Deep",
+      "url": "https://open.spotify.com/track/7vaLOu63uCBn1Rj3buCNJs"
+    },
+    {
       "added_at": "2024-08-31 14:36:06",
       "album": {
         "name": "212",
@@ -279,6 +295,26 @@
       "duration_ms": 177724,
       "name": "The Empty Spaces",
       "url": "https://open.spotify.com/track/7DYuawZFCKbnEwU79ALZRu"
+    },
+    {
+      "added_at": "2024-09-12 15:46:13",
+      "album": {
+        "name": "Rave On This",
+        "url": "https://open.spotify.com/album/2KcSuDjU45615EYFEm58y9"
+      },
+      "artists": [
+        {
+          "name": "RSquared",
+          "url": "https://open.spotify.com/artist/3uuAdAghYzgytUdLDQUHZ2"
+        },
+        {
+          "name": "Hutton",
+          "url": "https://open.spotify.com/artist/5U8HUtUnNT9ZosZB2GnHPJ"
+        }
+      ],
+      "duration_ms": 374000,
+      "name": "Rave On This",
+      "url": "https://open.spotify.com/track/6kHUE4lPOkrTknRuF06Lj2"
     },
     {
       "added_at": "2024-09-06 11:41:21",

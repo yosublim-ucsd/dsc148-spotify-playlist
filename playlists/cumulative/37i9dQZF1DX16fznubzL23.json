@@ -865,6 +865,36 @@
     },
     {
       "album": {
+        "name": "Don't",
+        "url": "https://open.spotify.com/album/7viWe4pQ7XpLMFUJNQ3wtv"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        },
+        {
+          "name": "SO7ACE",
+          "url": "https://open.spotify.com/artist/4ibCJiC5KbRm8hhmaXRkIU"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Issairo",
+          "url": "https://open.spotify.com/artist/5plDUJR66Vb8TYzXu9L1YV"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173621,
+      "name": "Don't",
+      "url": "https://open.spotify.com/track/3WEbhtkGe986Nuw6hnq4VR"
+    },
+    {
+      "album": {
         "name": "DON'T",
         "url": "https://open.spotify.com/album/2XU7xRMCtUUtgYhqRldvKT"
       },
@@ -2680,7 +2710,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 193472,
       "name": "NLF (Breakfast)",
       "url": "https://open.spotify.com/track/2mIp18bu4PbAFjS58EpEWc"

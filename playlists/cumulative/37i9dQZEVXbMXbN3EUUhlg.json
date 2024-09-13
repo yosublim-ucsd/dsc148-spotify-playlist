@@ -4367,6 +4367,32 @@
     },
     {
       "album": {
+        "name": "Sem M\u00fasica",
+        "url": "https://open.spotify.com/album/0l6zDsnSn1lM6FWZknjsAI"
+      },
+      "artists": [
+        {
+          "name": "Mc Daniel",
+          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
+        },
+        {
+          "name": "Dj Luan MPC",
+          "url": "https://open.spotify.com/artist/6Xjde3MJ6198WTe9Chv4Ii"
+        },
+        {
+          "name": "DJ PEPI",
+          "url": "https://open.spotify.com/artist/1IMM2r6o40xc7kjaHCEttC"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143225,
+      "name": "Cara da Midia",
+      "url": "https://open.spotify.com/track/68qzO9uhrv6zwONksdHYuj"
+    },
+    {
+      "album": {
         "name": "Carinha de Beb\u00ea",
         "url": "https://open.spotify.com/album/3rUoVCrA04JXWIrpOQqZhl"
       },
@@ -12534,7 +12560,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-11",
+      "date_removed": null,
       "duration_ms": 143060,
       "name": "Louco, Louco - Ao Vivo",
       "url": "https://open.spotify.com/track/7xjV9rXbAUDCreKgx2pkGY"
@@ -13102,6 +13128,28 @@
       "duration_ms": 114461,
       "name": "Macetar",
       "url": "https://open.spotify.com/track/5UcQhx8ulCedDE43IQZNV3"
+    },
+    {
+      "album": {
+        "name": "Mal",
+        "url": "https://open.spotify.com/album/66cKlnpPVfGXR0Xgec7lK7"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        },
+        {
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166255,
+      "name": "Mal",
+      "url": "https://open.spotify.com/track/3Q97FKXvvhX7xNE9T3rp0Z"
     },
     {
       "album": {
@@ -15520,7 +15568,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 177230,
       "name": "Mtg Quero Te Encontrar",
       "url": "https://open.spotify.com/track/5GV7OpSEb8MPTryL0Q5i6c"
@@ -22174,7 +22222,7 @@
       ],
       "date_added": "2024-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 160885,
       "name": "Sombra Desconhecida - Ao Vivo",
       "url": "https://open.spotify.com/track/3Na9gwLmFdEJH2l54AYwpk"
@@ -25992,7 +26040,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 170887,
       "name": "Who",
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"

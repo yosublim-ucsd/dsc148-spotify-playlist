@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : Arma Jackson",
+  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : Angie",
   "name": "le miel",
   "tracks": [
     {
@@ -569,6 +569,24 @@
     },
     {
       "album": {
+        "name": "Club Story",
+        "url": "https://open.spotify.com/album/4hXyiCoTVRpFD1PDtaYjac"
+      },
+      "artists": [
+        {
+          "name": "Malko",
+          "url": "https://open.spotify.com/artist/501Uzli8ksZoUEWZj8uKJI"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136186,
+      "name": "Club Story",
+      "url": "https://open.spotify.com/track/3cMJgBX1cFE9Mpfum5KxCR"
+    },
+    {
+      "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/2lecuAW041jFGznJIATbhz"
       },
@@ -788,6 +806,24 @@
       "duration_ms": 189836,
       "name": "Dimanche Soir",
       "url": "https://open.spotify.com/track/1s8fQVWLb7q8o4bQrLNnUr"
+    },
+    {
+      "album": {
+        "name": "Dis-moi ce que je dois faire",
+        "url": "https://open.spotify.com/album/32yTwatVMuuASNG6BtVUdn"
+      },
+      "artists": [
+        {
+          "name": "Awa Lemen",
+          "url": "https://open.spotify.com/artist/2Q3dL2MjiG85qgYsQNrxXH"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159500,
+      "name": "Dis-moi ce que je dois faire",
+      "url": "https://open.spotify.com/track/69FcnOE8Cvm2ZO0zcaGqcQ"
     },
     {
       "album": {
@@ -1873,6 +1909,24 @@
     },
     {
       "album": {
+        "name": "Loup\u00e9",
+        "url": "https://open.spotify.com/album/4ftlh6NSHyWqfOTzsyJP2S"
+      },
+      "artists": [
+        {
+          "name": "Sabz",
+          "url": "https://open.spotify.com/artist/4qCJ0bax3hxvnJZub4vvZ9"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162560,
+      "name": "Loup\u00e9",
+      "url": "https://open.spotify.com/track/3AgM4kVYWIKloPx1KkTr1m"
+    },
+    {
+      "album": {
         "name": "Gemmes",
         "url": "https://open.spotify.com/album/20pWXGtGy1WYEg30NerPxZ"
       },
@@ -1884,7 +1938,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 170995,
       "name": "Loyaut\u00e9",
       "url": "https://open.spotify.com/track/4U9juZTKtagQarvaH3tSjs"
@@ -2358,7 +2412,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 189979,
       "name": "OK.",
       "url": "https://open.spotify.com/track/1vE9QlPY6du7P63UNVsge5"
@@ -3742,7 +3796,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 185300,
       "name": "Yonc\u00e9",
       "url": "https://open.spotify.com/track/14kKddVV5x6y9sipuT39EW"

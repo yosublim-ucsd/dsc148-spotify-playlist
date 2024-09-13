@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Y qu\u00e9 retumbe la bandona, pariente! Banda MS en portada. ",
-  "num_followers": 1894366,
+  "num_followers": 1894479,
   "original_name": "Cl\u00e1sicas de Banda",
   "owner": {
     "name": "Spotify",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-07-03 20:35:58",
       "album": {
-        "name": "15 Exitos",
-        "url": "https://open.spotify.com/album/6xLX5b3LhCdmqiu78iHfQd"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 165533,
-      "name": "Ebrio De Amor",
-      "url": "https://open.spotify.com/track/4yDTg9PkshhDpmUIVFoYI5"
-    },
-    {
-      "added_at": "2024-07-03 20:35:58",
-      "album": {
         "name": "Tenis M\u00e1gicos",
         "url": "https://open.spotify.com/album/3TIOaRXflNZnZWgYjcCK1D"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 192853,
       "name": "Un loco solitario",
       "url": "https://open.spotify.com/track/0QQROQYcXIlFobzckwOdBx"
+    },
+    {
+      "added_at": "2024-07-03 20:35:58",
+      "album": {
+        "name": "15 Exitos",
+        "url": "https://open.spotify.com/album/6xLX5b3LhCdmqiu78iHfQd"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 165533,
+      "name": "Ebrio De Amor",
+      "url": "https://open.spotify.com/track/4yDTg9PkshhDpmUIVFoYI5"
     },
     {
       "added_at": "2024-07-03 20:35:58",
@@ -887,6 +887,22 @@
     {
       "added_at": "2024-07-03 20:35:58",
       "album": {
+        "name": "\u00bfQui\u00e9n Es Usted?",
+        "url": "https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 168840,
+      "name": "La N\u00famero 20",
+      "url": "https://open.spotify.com/track/4dmOQs3LUlmxGenu1GxogE"
+    },
+    {
+      "added_at": "2024-07-03 20:35:58",
+      "album": {
         "name": "A Trav\u00e9s Del Vaso",
         "url": "https://open.spotify.com/album/5fb92VTFSonh6s4IDFqILN"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 183360,
       "name": "El Antes Y El Despu\u00e9s",
       "url": "https://open.spotify.com/track/6P89ndGzxFpxtdbzhRoVdn"
-    },
-    {
-      "added_at": "2024-07-03 20:35:58",
-      "album": {
-        "name": "\u00bfQui\u00e9n Es Usted?",
-        "url": "https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 168840,
-      "name": "La N\u00famero 20",
-      "url": "https://open.spotify.com/track/4dmOQs3LUlmxGenu1GxogE"
     },
     {
       "added_at": "2024-07-03 20:35:58",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-07-03 20:35:58",
       "album": {
-        "name": "En Vida",
-        "url": "https://open.spotify.com/album/4ERCLcA2hl98lbwkOeqcYz"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
-        }
-      ],
-      "duration_ms": 188586,
-      "name": "Mi Meta Contigo",
-      "url": "https://open.spotify.com/track/5DSreXbE3u1VUtVeSiqlnn"
-    },
-    {
-      "added_at": "2024-07-03 20:35:58",
-      "album": {
         "name": "Tu Ya Lo Conoces",
         "url": "https://open.spotify.com/album/7l8sxsHe2YQVuleL1nQN18"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 183533,
       "name": "Dos Hojas Sin Rumbo",
       "url": "https://open.spotify.com/track/16240HVz8WRk5I0ddFDLFS"
+    },
+    {
+      "added_at": "2024-07-03 20:35:58",
+      "album": {
+        "name": "Me Gusta Estar Contigo",
+        "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 138466,
+      "name": "Me Gusta Estar Contigo",
+      "url": "https://open.spotify.com/track/6Moso5DtGXmTgS3DaXZrRB"
     },
     {
       "added_at": "2024-07-03 20:35:58",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2024-07-03 20:35:58",
       "album": {
+        "name": "En Vida",
+        "url": "https://open.spotify.com/album/4ERCLcA2hl98lbwkOeqcYz"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        }
+      ],
+      "duration_ms": 188586,
+      "name": "Mi Meta Contigo",
+      "url": "https://open.spotify.com/track/5DSreXbE3u1VUtVeSiqlnn"
+    },
+    {
+      "added_at": "2024-07-03 20:35:58",
+      "album": {
         "name": "Volver\u00e9 a Amar",
         "url": "https://open.spotify.com/album/6VMGPpuRXzVUb2zwZjhJ4h"
       },
@@ -1079,38 +1095,6 @@
       "duration_ms": 231160,
       "name": "Volvere A Amar",
       "url": "https://open.spotify.com/track/5QFuPzUEkWsTszwYyswsbB"
-    },
-    {
-      "added_at": "2024-07-03 20:35:58",
-      "album": {
-        "name": "Me Gusta Estar Contigo",
-        "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 138466,
-      "name": "Me Gusta Estar Contigo",
-      "url": "https://open.spotify.com/track/6Moso5DtGXmTgS3DaXZrRB"
-    },
-    {
-      "added_at": "2024-07-03 20:35:58",
-      "album": {
-        "name": "Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/401GeD9PATUU1PELNOD2MY"
-      },
-      "artists": [
-        {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
-        }
-      ],
-      "duration_ms": 197133,
-      "name": "Vanidosa",
-      "url": "https://open.spotify.com/track/4iN0LgZ4SwAIVJ7VRrsd27"
     },
     {
       "added_at": "2024-07-03 20:35:58",
@@ -1131,22 +1115,6 @@
     {
       "added_at": "2024-07-03 20:35:58",
       "album": {
-        "name": "Puras Rancheras",
-        "url": "https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 179400,
-      "name": "Arboles De La Barranca",
-      "url": "https://open.spotify.com/track/3Oa31DdD8vxktKoyUf7RyZ"
-    },
-    {
-      "added_at": "2024-07-03 20:35:58",
-      "album": {
         "name": "Pensando En Ti",
         "url": "https://open.spotify.com/album/5jt17hy0CY3U7NuzbXdX4u"
       },
@@ -1159,6 +1127,38 @@
       "duration_ms": 173226,
       "name": "Amantes Escondidos",
       "url": "https://open.spotify.com/track/4PbrxFKJg5rLkZ77vKhhY9"
+    },
+    {
+      "added_at": "2024-07-03 20:35:58",
+      "album": {
+        "name": "Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/401GeD9PATUU1PELNOD2MY"
+      },
+      "artists": [
+        {
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+        }
+      ],
+      "duration_ms": 197133,
+      "name": "Vanidosa",
+      "url": "https://open.spotify.com/track/4iN0LgZ4SwAIVJ7VRrsd27"
+    },
+    {
+      "added_at": "2024-07-03 20:35:58",
+      "album": {
+        "name": "Puras Rancheras",
+        "url": "https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 179400,
+      "name": "Arboles De La Barranca",
+      "url": "https://open.spotify.com/track/3Oa31DdD8vxktKoyUf7RyZ"
     },
     {
       "added_at": "2024-07-03 20:35:58",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-07-03 20:35:58",
       "album": {
-        "name": "Te So\u00f1\u00e9",
-        "url": "https://open.spotify.com/album/0DtuRnKX8XgK2Os72ACGrY"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 225573,
-      "name": "Te So\u00f1\u00e9",
-      "url": "https://open.spotify.com/track/0hZgBAj7W0EkRH16feKmUu"
-    },
-    {
-      "added_at": "2024-07-03 20:35:58",
-      "album": {
         "name": "El Peor De Tus Antojos",
         "url": "https://open.spotify.com/album/0xCvjzBPz0Ir2t57IaBzim"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 196099,
       "name": "Palabra de Hombre",
       "url": "https://open.spotify.com/track/4UiaP0wBuy9N9voD91OZOg"
+    },
+    {
+      "added_at": "2024-07-03 20:35:58",
+      "album": {
+        "name": "Te So\u00f1\u00e9",
+        "url": "https://open.spotify.com/album/0DtuRnKX8XgK2Os72ACGrY"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 225573,
+      "name": "Te So\u00f1\u00e9",
+      "url": "https://open.spotify.com/track/0hZgBAj7W0EkRH16feKmUu"
     },
     {
       "added_at": "2024-07-03 20:35:58",
@@ -1323,6 +1323,38 @@
     {
       "added_at": "2024-07-03 20:35:58",
       "album": {
+        "name": "Senzu-Rah",
+        "url": "https://open.spotify.com/album/5j4Jj0DflPXIWwrJa3W5hS"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        }
+      ],
+      "duration_ms": 163533,
+      "name": "Soltero Disponible",
+      "url": "https://open.spotify.com/track/4jgKVF6yT6dZJrHQtw5GZe"
+    },
+    {
+      "added_at": "2024-07-03 20:35:58",
+      "album": {
+        "name": "Vuelvo A Nacer",
+        "url": "https://open.spotify.com/album/0NiJIxwdkuvfE3YmqZyYpw"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Lizarraga",
+          "url": "https://open.spotify.com/artist/58kEJAbZ1Knbo4UI2phUQv"
+        }
+      ],
+      "duration_ms": 162580,
+      "name": "Me Pego La Gana",
+      "url": "https://open.spotify.com/track/7KHnN8FA0KBbeZXS2iJfMN"
+    },
+    {
+      "added_at": "2024-07-03 20:35:58",
+      "album": {
         "name": "El Antes Y El Despu\u00e9s",
         "url": "https://open.spotify.com/album/4JPGULe879NrRFAQi1YSJ0"
       },
@@ -1351,38 +1383,6 @@
       "duration_ms": 176169,
       "name": "Prohibido",
       "url": "https://open.spotify.com/track/48bf7pvc1nlsSjnHkoz0VY"
-    },
-    {
-      "added_at": "2024-07-03 20:35:58",
-      "album": {
-        "name": "Vuelvo A Nacer",
-        "url": "https://open.spotify.com/album/0NiJIxwdkuvfE3YmqZyYpw"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1o Lizarraga",
-          "url": "https://open.spotify.com/artist/58kEJAbZ1Knbo4UI2phUQv"
-        }
-      ],
-      "duration_ms": 162580,
-      "name": "Me Pego La Gana",
-      "url": "https://open.spotify.com/track/7KHnN8FA0KBbeZXS2iJfMN"
-    },
-    {
-      "added_at": "2024-07-03 20:35:58",
-      "album": {
-        "name": "Senzu-Rah",
-        "url": "https://open.spotify.com/album/5j4Jj0DflPXIWwrJa3W5hS"
-      },
-      "artists": [
-        {
-          "name": "R\u00e9gulo Caro",
-          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
-        }
-      ],
-      "duration_ms": 163533,
-      "name": "Soltero Disponible",
-      "url": "https://open.spotify.com/track/4jgKVF6yT6dZJrHQtw5GZe"
     },
     {
       "added_at": "2024-07-03 20:35:58",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-07-03 20:35:58",
       "album": {
-        "name": "El Polo Norte",
-        "url": "https://open.spotify.com/album/0mtRgmzxZP7qeD8Sr9yNPy"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 203180,
-      "name": "Cita con un Invento",
-      "url": "https://open.spotify.com/track/773lk88kjUKstndUTL1W7F"
-    },
-    {
-      "added_at": "2024-07-03 20:35:58",
-      "album": {
         "name": "El Katch (Version USA)",
         "url": "https://open.spotify.com/album/7rbt7zaJgkOlVe0KZbH5tw"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 175106,
       "name": "Voy a Pistearme el Dolor",
       "url": "https://open.spotify.com/track/5aJACqGIBk2Z60iT5cuOuC"
+    },
+    {
+      "added_at": "2024-07-03 20:35:58",
+      "album": {
+        "name": "El Polo Norte",
+        "url": "https://open.spotify.com/album/0mtRgmzxZP7qeD8Sr9yNPy"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 203180,
+      "name": "Cita con un Invento",
+      "url": "https://open.spotify.com/track/773lk88kjUKstndUTL1W7F"
     },
     {
       "added_at": "2024-07-03 20:35:58",
@@ -1775,6 +1775,22 @@
     {
       "added_at": "2024-07-03 20:35:58",
       "album": {
+        "name": "Vuelvo A Nacer",
+        "url": "https://open.spotify.com/album/0NiJIxwdkuvfE3YmqZyYpw"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Lizarraga",
+          "url": "https://open.spotify.com/artist/58kEJAbZ1Knbo4UI2phUQv"
+        }
+      ],
+      "duration_ms": 133987,
+      "name": "De Puntitas",
+      "url": "https://open.spotify.com/track/5NtHWfGsl97MXHrT8NaRZK"
+    },
+    {
+      "added_at": "2024-07-03 20:35:58",
+      "album": {
         "name": "Juro por Dios (En Vivo)",
         "url": "https://open.spotify.com/album/2RaLM3MaoI25mqOSsixXTF"
       },
@@ -1791,22 +1807,6 @@
       "duration_ms": 202005,
       "name": "Juro por Dios - En Vivo",
       "url": "https://open.spotify.com/track/6ya4Hq3twTffkM15X389KY"
-    },
-    {
-      "added_at": "2024-07-03 20:35:58",
-      "album": {
-        "name": "Vuelvo A Nacer",
-        "url": "https://open.spotify.com/album/0NiJIxwdkuvfE3YmqZyYpw"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1o Lizarraga",
-          "url": "https://open.spotify.com/artist/58kEJAbZ1Knbo4UI2phUQv"
-        }
-      ],
-      "duration_ms": 133987,
-      "name": "De Puntitas",
-      "url": "https://open.spotify.com/track/5NtHWfGsl97MXHrT8NaRZK"
     },
     {
       "added_at": "2024-07-03 20:35:58",

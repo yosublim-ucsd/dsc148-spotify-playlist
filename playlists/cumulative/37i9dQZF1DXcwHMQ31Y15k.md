@@ -4,7 +4,7 @@
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Woro Widowati
 
-381 songs - 1 day 7 hr 23 min
+382 songs - 1 day 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Apik](https://open.spotify.com/track/4wKs47lXYzgdkhEfU2X1L6) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Apik](https://open.spotify.com/album/0U63NlQb7uOyrEMEv4TCRK) | 5:42 | 2023-11-17 | 2024-08-03 |
 | [Apik](https://open.spotify.com/track/0WYYAgNgtD4GzXfd0rfTiQ) | [Mala Agatha](https://open.spotify.com/artist/4KXTUUytwGCyfH4aOAd4vB), [Ajeng Febria](https://open.spotify.com/artist/7fSK1XqTJMwzDw6zwjK8Sg) | [Apik](https://open.spotify.com/album/5KrGCnrUVPALTTRza5FP3N) | 4:54 | 2024-05-24 | 2024-08-30 |
 | [Apik](https://open.spotify.com/track/0pKMPmXE9W7jQnKsjbEn0p) | [Safira Inema](https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY), [Ajeng Febria](https://open.spotify.com/artist/5qxASy1kvetpJ6N9Utx0mN) | [Apik](https://open.spotify.com/album/349eZo14h3OUaX4V5EzmxV) | 5:45 | 2024-01-18 | 2024-07-06 |
-| [Apik](https://open.spotify.com/track/7H1j4wzIE8lpvAaLNjGHr6) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Apik](https://open.spotify.com/album/5gzh3T0DRLqtuMDeIBtTAy) | 5:47 | 2024-05-24 |  |
+| [Apik](https://open.spotify.com/track/7H1j4wzIE8lpvAaLNjGHr6) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Apik](https://open.spotify.com/album/5gzh3T0DRLqtuMDeIBtTAy) | 5:47 | 2024-05-24 | 2024-09-13 |
 | [Babar Pisan](https://open.spotify.com/track/6fKTvXz9OWB5v7n09d7gHC) | [Ajeng Febria](https://open.spotify.com/artist/5HS265pLgn1JndZjOYDlWh) | [Babar Pisan](https://open.spotify.com/album/7xdp0sRO1CuJbmeb4C9STI) | 4:53 | 2024-01-11 | 2024-03-15 |
 | [Babar Pisan](https://open.spotify.com/track/232sGRW8ROnck5DulLccKc) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ), [Dike Sabrina](https://open.spotify.com/artist/0GNWekJiQIg0kUCCJqjgGF) | [Babar Pisan](https://open.spotify.com/album/760edkyGnqo0jE4NbMLQOn) | 5:41 | 2024-04-04 | 2024-07-27 |
 | [Balik Kanan Wae](https://open.spotify.com/track/3r55XFoo88uz9e084F2RFU) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Balik Kanan Wae](https://open.spotify.com/album/73xxVGK2GFvA8yxTBvDjGz) | 4:06 | 2022-05-26 | 2023-05-20 |
@@ -231,6 +231,7 @@
 | [Ninggal Loro](https://open.spotify.com/track/7rC9pK7Bz2c8K3TSFx6t7o) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Ninggal Loro](https://open.spotify.com/album/4bR3qFvIsBhSYn1JfGExNB) | 4:12 | 2023-12-08 | 2024-04-19 |
 | [Nona Jelita](https://open.spotify.com/track/0uF0r2nmmM90FefkgsbZ63) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Nona Jelita](https://open.spotify.com/album/0O5lGQLkUOq4G6QMiSYlPr) | 5:58 | 2024-05-30 |  |
 | [Nona Jelita](https://open.spotify.com/track/6zBwNBR8SMEDfPL0eRI9Pp) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ), [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Nona Jelita](https://open.spotify.com/album/4nAIj88a6PBtZFCsoy4KJJ) | 5:30 | 2024-07-05 |  |
+| [Nona Jelita](https://open.spotify.com/track/64hz9qk2gzxG2jFZGUCYi9) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Nona Jelita](https://open.spotify.com/album/3SXzuB2428PTauljc8dwbr) | 6:14 | 2024-09-12 |  |
 | [Nostalgia](https://open.spotify.com/track/31JvGZJBhZWUijQvLBqwCG) | [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa) | [Nostalgia](https://open.spotify.com/album/5I3UANRadKoF3ZuXXwjFD0) | 4:19 | 2023-01-26 | 2023-08-11 |
 | [Not You No In](https://open.spotify.com/track/5BYHafet3rl0DMDvUanpwy) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ), [Kristin D](https://open.spotify.com/artist/2DwMeXS8DhOF0fPRRsSZJJ) | [Not You No In](https://open.spotify.com/album/0ttLzRa1gRqg3ROQD19Iwn) | 5:15 | 2024-07-25 |  |
 | [Nutupi Laraku](https://open.spotify.com/track/5LN58cdv408OOXh52VY99L) | [Jihan Audy](https://open.spotify.com/artist/7KlMqMCZbUE9rYpa95R2CV) | [Nutupi Laraku](https://open.spotify.com/album/1QxCes90f7uLhU6swcCyHw) | 5:38 | 2022-05-26 | 2022-08-19 |

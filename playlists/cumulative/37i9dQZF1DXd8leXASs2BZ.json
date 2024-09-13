@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-09",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: \u591c\u732b\u65cf",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: Kohjiya & lj",
   "name": "+81 Connect FRESH",
   "tracks": [
     {
@@ -855,6 +855,24 @@
     },
     {
       "album": {
+        "name": "ALL DAYS",
+        "url": "https://open.spotify.com/album/5IC1xTocv746rgc5ohhStO"
+      },
+      "artists": [
+        {
+          "name": "Palm link",
+          "url": "https://open.spotify.com/artist/0JXZf5IljNgNBtah0ja9CD"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149572,
+      "name": "ALL DAYS",
+      "url": "https://open.spotify.com/track/6EaYcsHsDDuvicUeAt4kBd"
+    },
+    {
+      "album": {
         "name": "All My Life",
         "url": "https://open.spotify.com/album/1nVOfilyAErWuZsYWqzmPQ"
       },
@@ -1122,7 +1140,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 212689,
       "name": "Bad Combat",
       "url": "https://open.spotify.com/track/7CrIm7O7shx3vhEkqeWI7T"
@@ -2251,6 +2269,24 @@
     },
     {
       "album": {
+        "name": "Cointoss (Singlemix)",
+        "url": "https://open.spotify.com/album/27ZZW0bmeoglp9Y6usVqTr"
+      },
+      "artists": [
+        {
+          "name": "ONENESS",
+          "url": "https://open.spotify.com/artist/6LHXDH2zKswgGpGvVzU4TL"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218928,
+      "name": "Cointoss - Singlemix",
+      "url": "https://open.spotify.com/track/05feMR9kM1bxRQBF9s6xfJ"
+    },
+    {
+      "album": {
         "name": "Cold Town",
         "url": "https://open.spotify.com/album/0kVXGkSYMFSQlBKK3e47PQ"
       },
@@ -3292,7 +3328,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 168837,
       "name": "emotion+",
       "url": "https://open.spotify.com/track/0ccu7nyospKvEzOTnPppLD"
@@ -4508,6 +4544,46 @@
       "duration_ms": 144000,
       "name": "Glow Up",
       "url": "https://open.spotify.com/track/4FuIRN72Dd09OupTYap1MN"
+    },
+    {
+      "album": {
+        "name": "TAINT",
+        "url": "https://open.spotify.com/album/2pVCUhGihRMHK35NgCZZya"
+      },
+      "artists": [
+        {
+          "name": "TEITO",
+          "url": "https://open.spotify.com/artist/5FyZiNFoZYDUwFOXBsctGm"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179555,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/4DvVZ6f8ETjA6URCYR6gyn"
+    },
+    {
+      "album": {
+        "name": "Stereotype",
+        "url": "https://open.spotify.com/album/7eGuaXCaPdhpGE6he5L2XP"
+      },
+      "artists": [
+        {
+          "name": "Leviryi",
+          "url": "https://open.spotify.com/artist/0dHYc5ljM3Nocqd42goUM5"
+        },
+        {
+          "name": "KUVIZM",
+          "url": "https://open.spotify.com/artist/2crDfVv0eZDUSL4At5lPCy"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87021,
+      "name": "Goddamn",
+      "url": "https://open.spotify.com/track/2yOpoQHZUUQGiv39XhVKaw"
     },
     {
       "album": {
@@ -5820,7 +5896,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 204117,
       "name": "jikan",
       "url": "https://open.spotify.com/track/0fKtUNIfiFQCXr0Dzmyv5O"
@@ -8378,10 +8454,36 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 135653,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/5TyVH13iBGFmdcA5Sb1vvv"
+    },
+    {
+      "album": {
+        "name": "Jungle 2",
+        "url": "https://open.spotify.com/album/6I0goKP22jU9Sa28xCrfPH"
+      },
+      "artists": [
+        {
+          "name": "\u00a5ellow Bucks",
+          "url": "https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH"
+        },
+        {
+          "name": "Deech",
+          "url": "https://open.spotify.com/artist/1eQUclEDhda3ZCUzi8NQME"
+        },
+        {
+          "name": "Carz",
+          "url": "https://open.spotify.com/artist/2C8Pd4hyOnljituQXkTLZn"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204466,
+      "name": "Phone Call",
+      "url": "https://open.spotify.com/track/19mFwQgujVGYfR62poGMb7"
     },
     {
       "album": {
@@ -8754,6 +8856,28 @@
       "duration_ms": 177676,
       "name": "Re:arrange",
       "url": "https://open.spotify.com/track/1fgvQQCMHH8PdYNgkGtRTy"
+    },
+    {
+      "album": {
+        "name": "\u5f98\u5f8acollection",
+        "url": "https://open.spotify.com/album/14LV4XL3low1elMX8RbjAB"
+      },
+      "artists": [
+        {
+          "name": "lilbesh ramko",
+          "url": "https://open.spotify.com/artist/5bdiD2ANkGjawGUiBFYmRu"
+        },
+        {
+          "name": "AssToro",
+          "url": "https://open.spotify.com/artist/1XVnuN1WPe1VMw78MuYeic"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "re:kazing",
+      "url": "https://open.spotify.com/track/6nCWG9w5v9fY8TKBN0Sno2"
     },
     {
       "album": {
@@ -9328,7 +9452,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 152777,
       "name": "Seaside",
       "url": "https://open.spotify.com/track/00pkjlbzoeNm9DLbLMMFvO"
@@ -11021,6 +11145,28 @@
     },
     {
       "album": {
+        "name": "New Stars Swag",
+        "url": "https://open.spotify.com/album/19tG0IyvryThuOfTC8wTCk"
+      },
+      "artists": [
+        {
+          "name": "Kohjiya",
+          "url": "https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK"
+        },
+        {
+          "name": "lj",
+          "url": "https://open.spotify.com/artist/7bf8nSozw4GvGHRSGJ74ez"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196680,
+      "name": "Very Very Rare",
+      "url": "https://open.spotify.com/track/2VYapRk2F1lbDCiA3vD8wq"
+    },
+    {
+      "album": {
         "name": "Victory Royale",
         "url": "https://open.spotify.com/album/28fup0xuStDyTjR7kKp8Pq"
       },
@@ -11134,7 +11280,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 186407,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/39OJLMt5VrA6xD6rpS3Ark"
@@ -11418,7 +11564,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 150813,
       "name": "Why'd i?",
       "url": "https://open.spotify.com/track/4iV2tFzO92Kp1s3p468ic2"

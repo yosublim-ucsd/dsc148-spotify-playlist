@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > They got next\. Cover: <a href="spotify:artist:7tHTnyrdTNM152slc8aQ3t">Laila!</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,418 likes - 60 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,489 likes - 60 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

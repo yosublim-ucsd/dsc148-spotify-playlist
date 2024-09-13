@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: BoyWithUke.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,140 likes - 93 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,175 likes - 93 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 57 | [détours](https://open.spotify.com/track/6i3q4BXaN42wQ4JdcUUxr6) | [Ivytide](https://open.spotify.com/artist/1FYG11siqeY73Lu2hrFMYp) | [détours](https://open.spotify.com/album/2gdBJRe6IHRlwWLeBY6XYY) | 2:40 |
 | 58 | [Conversar](https://open.spotify.com/track/3q195jF8ZqmnN4AvN8lY2j) | [mokina](https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc), [Jeremy Lachance](https://open.spotify.com/artist/5Xl6EtM9an6yOUSkRaJlfX) | [3 músicas escritas em Londres](https://open.spotify.com/album/1fvZsoZguCsPfaqXu9SkUm) | 2:51 |
 | 59 | [Moon Shaped](https://open.spotify.com/track/4efK771NNGsKNYbCJ1xhkD) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [Moon Shaped](https://open.spotify.com/album/2kgkVKv864qu7CgVSCHuZw) | 5:11 |
-| 60 | [angry angry song](https://open.spotify.com/track/1MCvRQM0VwqHrcEmHdd8QG) | [wadfah](https://open.spotify.com/artist/4VLJF0kk8HDMK7VPDctSzo) | [angry angry song](https://open.spotify.com/album/1gffixbdgJrchljXRZC7h3) | 3:27 |
+| 60 | [angry angry song](https://open.spotify.com/track/1MCvRQM0VwqHrcEmHdd8QG) | [wadfah](https://open.spotify.com/artist/4VLJF0kk8HDMK7VPDctSzo) | [angry angry song](https://open.spotify.com/album/1gffixbdgJrchljXRZC7h3) | 3:25 |
 | 61 | [Overdrive](https://open.spotify.com/track/1OSZ8aDA8R1HwPn1kbhjO3) | [Quadlips](https://open.spotify.com/artist/2G2pl9H7xMw4oYh6PCk3zN) | [Overdrive](https://open.spotify.com/album/2rcjwOpKPxgzmsW6gW14uj) | 3:10 |
 | 62 | [Made You Up](https://open.spotify.com/track/6hZ4lvDpEsIxCjNziyMC5s) | [Tamara Kramar](https://open.spotify.com/artist/5oUUInn3oIsijfbnrmlYhT) | [Made You Up](https://open.spotify.com/album/1LKoQv3Mu0DDPt9lRoYuD0) | 2:46 |
 | 63 | [animal planet](https://open.spotify.com/track/2wQ5Yg8AZKlY6WheocbLM6) | [South Penguin](https://open.spotify.com/artist/2NNLlRoOgdg1EL1jmx2Tjf) | [animal planet](https://open.spotify.com/album/7sgJK1TlHzp4AAuKCfltqG) | 3:28 |

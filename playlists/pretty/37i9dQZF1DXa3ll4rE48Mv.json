@@ -1,6 +1,6 @@
 {
   "description": "The sounds of LGBTQ+ punk. Cover: Bikini Kill",
-  "num_followers": 197488,
+  "num_followers": 197530,
   "original_name": "Queercore",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Sistahs",
-        "url": "https://open.spotify.com/album/7pToEE1w4P0UAMqhaPxoQr"
-      },
-      "artists": [
-        {
-          "name": "Big Joanie",
-          "url": "https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j"
-        }
-      ],
-      "duration_ms": 176617,
-      "name": "Fall Asleep",
-      "url": "https://open.spotify.com/track/0PZQWlZ4A8CSD1f9P9xoTx"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Demo 2015",
         "url": "https://open.spotify.com/album/2v3FQ4S6xMKm9YL0JapDKl"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 91249,
       "name": "G.L.O.S.S. (We're from the Future)",
       "url": "https://open.spotify.com/track/5w8lL6jy9wToBej9Lk9v2f"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Sistahs",
+        "url": "https://open.spotify.com/album/7pToEE1w4P0UAMqhaPxoQr"
+      },
+      "artists": [
+        {
+          "name": "Big Joanie",
+          "url": "https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j"
+        }
+      ],
+      "duration_ms": 176617,
+      "name": "Fall Asleep",
+      "url": "https://open.spotify.com/track/0PZQWlZ4A8CSD1f9P9xoTx"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -635,6 +635,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "The Reson For Hardcore Vibes Again",
+        "url": "https://open.spotify.com/album/2ulPQaaJiq1rK6YK86wPsI"
+      },
+      "artists": [
+        {
+          "name": "Joe & The Shitboys",
+          "url": "https://open.spotify.com/artist/1LQe0AlqV1e2GD3Ry1UFTg"
+        }
+      ],
+      "duration_ms": 55733,
+      "name": "Save the Planet, You Dumb Shit",
+      "url": "https://open.spotify.com/track/6Kk9Zy9dYzgvTEPNCh2s8o"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Facades",
         "url": "https://open.spotify.com/album/2Aw4XGH7jkvd88jzbPSGjn"
       },
@@ -683,22 +699,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "The Reson For Hardcore Vibes Again",
-        "url": "https://open.spotify.com/album/2ulPQaaJiq1rK6YK86wPsI"
-      },
-      "artists": [
-        {
-          "name": "Joe & The Shitboys",
-          "url": "https://open.spotify.com/artist/1LQe0AlqV1e2GD3Ry1UFTg"
-        }
-      ],
-      "duration_ms": 55733,
-      "name": "Save the Planet, You Dumb Shit",
-      "url": "https://open.spotify.com/track/6Kk9Zy9dYzgvTEPNCh2s8o"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Chickens",
         "url": "https://open.spotify.com/album/1aDGrlOO5aCxtArveJH8fI"
       },
@@ -731,18 +731,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Arnos Vale",
-        "url": "https://open.spotify.com/album/7KjTamXxcgfZ2gAmI24BQ5"
+        "name": "Zombie Terrorist",
+        "url": "https://open.spotify.com/album/1b8585sIYVvPbWpdW7Vms3"
       },
       "artists": [
         {
-          "name": "Personal Best",
-          "url": "https://open.spotify.com/artist/3yJdrYDYsEvC5Gu6FtNJ64"
+          "name": "Partyline",
+          "url": "https://open.spotify.com/artist/5LqNtBKweePwvXgJ4BWWuA"
         }
       ],
-      "duration_ms": 223889,
-      "name": "This Is What We Look Like",
-      "url": "https://open.spotify.com/track/3jcjcAPaXCmsTIs8R08Q2q"
+      "duration_ms": 127773,
+      "name": "Trophy Wifey",
+      "url": "https://open.spotify.com/track/2sElL4pdDB9HReW1dCp6hH"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -763,18 +763,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Zombie Terrorist",
-        "url": "https://open.spotify.com/album/1b8585sIYVvPbWpdW7Vms3"
+        "name": "Arnos Vale",
+        "url": "https://open.spotify.com/album/7KjTamXxcgfZ2gAmI24BQ5"
       },
       "artists": [
         {
-          "name": "Partyline",
-          "url": "https://open.spotify.com/artist/5LqNtBKweePwvXgJ4BWWuA"
+          "name": "Personal Best",
+          "url": "https://open.spotify.com/artist/3yJdrYDYsEvC5Gu6FtNJ64"
         }
       ],
-      "duration_ms": 127773,
-      "name": "Trophy Wifey",
-      "url": "https://open.spotify.com/track/2sElL4pdDB9HReW1dCp6hH"
+      "duration_ms": 223889,
+      "name": "This Is What We Look Like",
+      "url": "https://open.spotify.com/track/3jcjcAPaXCmsTIs8R08Q2q"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Girls With Glasses",
-        "url": "https://open.spotify.com/album/5X2W0yH4IF60WJRVV4pMGY"
-      },
-      "artists": [
-        {
-          "name": "Partyline",
-          "url": "https://open.spotify.com/artist/5LqNtBKweePwvXgJ4BWWuA"
-        }
-      ],
-      "duration_ms": 129706,
-      "name": "Girls With Glasses",
-      "url": "https://open.spotify.com/track/1oJP3drbPbHRQAnsjrS9eq"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Bad Girls Go to Hell",
         "url": "https://open.spotify.com/album/1USnl3zRNiSnGZF7toUpcp"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 128880,
       "name": "Queer For You",
       "url": "https://open.spotify.com/track/3wOIv5bly3SnBum3gLRsCa"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Girls With Glasses",
+        "url": "https://open.spotify.com/album/5X2W0yH4IF60WJRVV4pMGY"
+      },
+      "artists": [
+        {
+          "name": "Partyline",
+          "url": "https://open.spotify.com/artist/5LqNtBKweePwvXgJ4BWWuA"
+        }
+      ],
+      "duration_ms": 129706,
+      "name": "Girls With Glasses",
+      "url": "https://open.spotify.com/track/1oJP3drbPbHRQAnsjrS9eq"
     },
     {
       "added_at": "2024-05-22 11:00:00",

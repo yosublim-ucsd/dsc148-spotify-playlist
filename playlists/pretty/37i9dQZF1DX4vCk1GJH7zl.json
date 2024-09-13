@@ -1,6 +1,6 @@
 {
   "description": "Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Ananda, Lou Garcia",
-  "num_followers": 140215,
+  "num_followers": 140218,
   "original_name": "Rock Leve",
   "owner": {
     "name": "Spotify",
@@ -483,26 +483,6 @@
     {
       "added_at": "2024-09-02 13:39:50",
       "album": {
-        "name": "Nada Sei (Apneia)",
-        "url": "https://open.spotify.com/album/0X1QuDiAcgHOZ4zNDQ1AaO"
-      },
-      "artists": [
-        {
-          "name": "Paula Toller",
-          "url": "https://open.spotify.com/artist/5BQveHScm6btG6jfbxwyfs"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 229785,
-      "name": "Nada Sei - Apneia, Ao Vivo",
-      "url": "https://open.spotify.com/track/3x8QrTuZCTbEJI0NrWEye2"
-    },
-    {
-      "added_at": "2024-09-02 13:39:50",
-      "album": {
         "name": "N\u00e3o Vou Me Adaptar (Ao Vivo)",
         "url": "https://open.spotify.com/album/4EdfAeoDFDnsoh1xey5M30"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 276887,
       "name": "N\u00e3o Vou Me Adaptar - Ao Vivo",
       "url": "https://open.spotify.com/track/4EXzmoiU4KAggC3UbBueCl"
+    },
+    {
+      "added_at": "2024-09-02 13:39:50",
+      "album": {
+        "name": "Nada Sei (Apneia)",
+        "url": "https://open.spotify.com/album/0X1QuDiAcgHOZ4zNDQ1AaO"
+      },
+      "artists": [
+        {
+          "name": "Paula Toller",
+          "url": "https://open.spotify.com/artist/5BQveHScm6btG6jfbxwyfs"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 229785,
+      "name": "Nada Sei - Apneia, Ao Vivo",
+      "url": "https://open.spotify.com/track/3x8QrTuZCTbEJI0NrWEye2"
     },
     {
       "added_at": "2024-09-02 13:39:50",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-09-02 13:39:50",
       "album": {
-        "name": "Doomed",
-        "url": "https://open.spotify.com/album/4l5UP0iPZqFq10zg91dOZ0"
-      },
-      "artists": [
-        {
-          "name": "MOTHICA",
-          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
-        }
-      ],
-      "duration_ms": 206657,
-      "name": "Doomed",
-      "url": "https://open.spotify.com/track/4B6fmmAk918hiTBQMVl1K6"
-    },
-    {
-      "added_at": "2024-09-02 13:39:50",
-      "album": {
         "name": "Sex on the Beach (Ao Vivo)",
         "url": "https://open.spotify.com/album/5zdUlB5etflvZE2q0ZWuu5"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 192853,
       "name": "Hear Me Now - Ao Vivo",
       "url": "https://open.spotify.com/track/4kNNWpU47YCCBSfWrsVuwk"
+    },
+    {
+      "added_at": "2024-09-02 13:39:50",
+      "album": {
+        "name": "Doomed",
+        "url": "https://open.spotify.com/album/4l5UP0iPZqFq10zg91dOZ0"
+      },
+      "artists": [
+        {
+          "name": "MOTHICA",
+          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
+        }
+      ],
+      "duration_ms": 206657,
+      "name": "Doomed",
+      "url": "https://open.spotify.com/track/4B6fmmAk918hiTBQMVl1K6"
     },
     {
       "added_at": "2024-09-02 13:39:50",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-09-02 13:39:50",
       "album": {
-        "name": "3 Eternidades",
-        "url": "https://open.spotify.com/album/49EWSDhQgSemVZtc8s4V1h"
-      },
-      "artists": [
-        {
-          "name": "Raphael Ota",
-          "url": "https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q"
-        }
-      ],
-      "duration_ms": 154781,
-      "name": "3 Eternidades",
-      "url": "https://open.spotify.com/track/4nxhDCMbxA4IGZcg2fxJbA"
-    },
-    {
-      "added_at": "2024-09-02 13:39:50",
-      "album": {
         "name": "4AM",
         "url": "https://open.spotify.com/album/23Suwv1qRqeO75u1QUVIGX"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 177397,
       "name": "4AM",
       "url": "https://open.spotify.com/track/4VfrfzD3LTqhsnUbw6SYWy"
+    },
+    {
+      "added_at": "2024-09-02 13:39:50",
+      "album": {
+        "name": "3 Eternidades",
+        "url": "https://open.spotify.com/album/49EWSDhQgSemVZtc8s4V1h"
+      },
+      "artists": [
+        {
+          "name": "Raphael Ota",
+          "url": "https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q"
+        }
+      ],
+      "duration_ms": 154781,
+      "name": "3 Eternidades",
+      "url": "https://open.spotify.com/track/4nxhDCMbxA4IGZcg2fxJbA"
     },
     {
       "added_at": "2024-09-02 13:39:50",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-09-02 13:39:50",
       "album": {
-        "name": "Vida Real",
-        "url": "https://open.spotify.com/album/7pfiQUMW4GxfeLDaIZPKcE"
-      },
-      "artists": [
-        {
-          "name": "Esteban Tavares",
-          "url": "https://open.spotify.com/artist/3IokbxGxDtjuk6wPdisQ6o"
-        }
-      ],
-      "duration_ms": 230565,
-      "name": "Vida Real",
-      "url": "https://open.spotify.com/track/2WZpf1SuDwLWtu5rFFd9il"
-    },
-    {
-      "added_at": "2024-09-02 13:39:50",
-      "album": {
         "name": "Outro Mundo, Outro Lugar",
         "url": "https://open.spotify.com/album/3AgoiJrNp2FvpBca5Vw0Hl"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 187647,
       "name": "Eu Quero Tanto",
       "url": "https://open.spotify.com/track/7y10XfBIaOWkWX5ksbBpuV"
+    },
+    {
+      "added_at": "2024-09-02 13:39:50",
+      "album": {
+        "name": "Vida Real",
+        "url": "https://open.spotify.com/album/7pfiQUMW4GxfeLDaIZPKcE"
+      },
+      "artists": [
+        {
+          "name": "Esteban Tavares",
+          "url": "https://open.spotify.com/artist/3IokbxGxDtjuk6wPdisQ6o"
+        }
+      ],
+      "duration_ms": 230565,
+      "name": "Vida Real",
+      "url": "https://open.spotify.com/track/2WZpf1SuDwLWtu5rFFd9il"
     },
     {
       "added_at": "2024-09-02 13:39:50",
@@ -1067,6 +1067,30 @@
     {
       "added_at": "2024-09-02 13:39:50",
       "album": {
+        "name": "Sweet Virginia / Across the Universe",
+        "url": "https://open.spotify.com/album/5Tp6LVqSOfc5BBV0GjQYn6"
+      },
+      "artists": [
+        {
+          "name": "Pitty",
+          "url": "https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT"
+        },
+        {
+          "name": "Martin Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/3suzN6t3svbUxpSxecrQ4b"
+        },
+        {
+          "name": "Agridoce",
+          "url": "https://open.spotify.com/artist/4SyWhCnXrV0FDnGw1ISMJI"
+        }
+      ],
+      "duration_ms": 273089,
+      "name": "Sweet Virginia",
+      "url": "https://open.spotify.com/track/3S088c3IBFwMRuVBX8NFhT"
+    },
+    {
+      "added_at": "2024-09-02 13:39:50",
+      "album": {
         "name": "Invis\u00edvel",
         "url": "https://open.spotify.com/album/6GaYXQzj5ZGE20joaIDMhf"
       },
@@ -1099,30 +1123,6 @@
       "duration_ms": 202250,
       "name": "Ir Embora",
       "url": "https://open.spotify.com/track/3rzfDmDuPJ8AJhB3K4QAkK"
-    },
-    {
-      "added_at": "2024-09-02 13:39:50",
-      "album": {
-        "name": "Sweet Virginia / Across the Universe",
-        "url": "https://open.spotify.com/album/5Tp6LVqSOfc5BBV0GjQYn6"
-      },
-      "artists": [
-        {
-          "name": "Pitty",
-          "url": "https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT"
-        },
-        {
-          "name": "Martin Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/3suzN6t3svbUxpSxecrQ4b"
-        },
-        {
-          "name": "Agridoce",
-          "url": "https://open.spotify.com/artist/4SyWhCnXrV0FDnGw1ISMJI"
-        }
-      ],
-      "duration_ms": 273089,
-      "name": "Sweet Virginia",
-      "url": "https://open.spotify.com/track/3S088c3IBFwMRuVBX8NFhT"
     },
     {
       "added_at": "2024-09-02 13:39:50",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-09-02 13:39:50",
       "album": {
-        "name": "Mais um Trabalhador",
-        "url": "https://open.spotify.com/album/6YV5T7aupc4j63nw1e3r8d"
-      },
-      "artists": [
-        {
-          "name": "B\u00c1RBARA SILVA",
-          "url": "https://open.spotify.com/artist/2wtqSDlZaxdRlek9nNF5XV"
-        }
-      ],
-      "duration_ms": 199680,
-      "name": "Mais um Trabalhador",
-      "url": "https://open.spotify.com/track/3OPgYlZ4aCCH3VLtzEoNtZ"
-    },
-    {
-      "added_at": "2024-09-02 13:39:50",
-      "album": {
         "name": "Vamos Correr Pro Mar",
         "url": "https://open.spotify.com/album/7oIIi1OY9PXw8le6Rdb5BJ"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 206677,
       "name": "Vamos Correr Pro Mar",
       "url": "https://open.spotify.com/track/5KUNq0bFfXp6mgQv3ZFH35"
+    },
+    {
+      "added_at": "2024-09-02 13:39:50",
+      "album": {
+        "name": "Mais um Trabalhador",
+        "url": "https://open.spotify.com/album/6YV5T7aupc4j63nw1e3r8d"
+      },
+      "artists": [
+        {
+          "name": "B\u00c1RBARA SILVA",
+          "url": "https://open.spotify.com/artist/2wtqSDlZaxdRlek9nNF5XV"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "Mais um Trabalhador",
+      "url": "https://open.spotify.com/track/3OPgYlZ4aCCH3VLtzEoNtZ"
     },
     {
       "added_at": "2024-09-02 13:39:50",

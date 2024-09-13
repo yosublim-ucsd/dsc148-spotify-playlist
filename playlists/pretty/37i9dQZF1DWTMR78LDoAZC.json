@@ -1,6 +1,6 @@
 {
   "description": "Towa Bird takes over, highlighting some of her favorite LGBTQIA+ indie/alternative/rock artists.",
-  "num_followers": 172443,
+  "num_followers": 172503,
   "original_name": "Alternative Pride",
   "owner": {
     "name": "Spotify",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "Tsunami",
+        "url": "https://open.spotify.com/album/0x7J9paGzxBDmZ2n49OWhm"
+      },
+      "artists": [
+        {
+          "name": "FIGHTMASTER",
+          "url": "https://open.spotify.com/artist/3ejIpQTvOb6XjUhX96RrMw"
+        }
+      ],
+      "duration_ms": 240277,
+      "name": "Tsunami",
+      "url": "https://open.spotify.com/track/5Ad3sKScpftuea1ulQYEgR"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "unruly",
         "url": "https://open.spotify.com/album/30qNUbkHpnFRNd8x8sYWNT"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 144446,
       "name": "unruly",
       "url": "https://open.spotify.com/track/2bTrWTnaLwQ5WVnUzS2X46"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Tsunami",
-        "url": "https://open.spotify.com/album/0x7J9paGzxBDmZ2n49OWhm"
-      },
-      "artists": [
-        {
-          "name": "FIGHTMASTER",
-          "url": "https://open.spotify.com/artist/3ejIpQTvOb6XjUhX96RrMw"
-        }
-      ],
-      "duration_ms": 240277,
-      "name": "Tsunami",
-      "url": "https://open.spotify.com/track/5Ad3sKScpftuea1ulQYEgR"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1151,22 +1151,6 @@
       "duration_ms": 137002,
       "name": "All Fucked Out",
       "url": "https://open.spotify.com/track/4VGtUSVZysk8sToKmuxEdN"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "umbrellar",
-        "url": "https://open.spotify.com/album/3QUdaLdeNzvVrVpOmIfRyn"
-      },
-      "artists": [
-        {
-          "name": "Dua Saleh",
-          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
-        }
-      ],
-      "duration_ms": 155762,
-      "name": "umbrellar",
-      "url": "https://open.spotify.com/track/00PXRPuZFlM5dv1FeJa69J"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1251,18 +1235,34 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
-        "name": "Girls Make Me Wanna Die (No Rome Remix)",
-        "url": "https://open.spotify.com/album/6NHWnrF8FvVeo56ZqyKVaX"
+        "name": "umbrellar",
+        "url": "https://open.spotify.com/album/3QUdaLdeNzvVrVpOmIfRyn"
       },
       "artists": [
         {
-          "name": "The Aces",
-          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+          "name": "Dua Saleh",
+          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
         }
       ],
-      "duration_ms": 135297,
-      "name": "Girls Make Me Wanna Die",
-      "url": "https://open.spotify.com/track/0JVdbliSQkwLXsLpvNhFb1"
+      "duration_ms": 155762,
+      "name": "umbrellar",
+      "url": "https://open.spotify.com/track/00PXRPuZFlM5dv1FeJa69J"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "All Girls Go to Heaven",
+        "url": "https://open.spotify.com/album/0dU3VxFjynVOH4jjv7CySV"
+      },
+      "artists": [
+        {
+          "name": "Mint Green",
+          "url": "https://open.spotify.com/artist/5ivuVlLA09RcBnLFkOza7C"
+        }
+      ],
+      "duration_ms": 247659,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/45t5U9tRXXYjp40w4PZpgU"
     }
   ],
   "unique_name": "Alternative Pride",

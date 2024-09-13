@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-2,152 songs - 4 day 18 hr 25 min
+2,153 songs - 4 day 18 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -529,7 +529,8 @@
 | [GRINDR MAYHEM \(feat\. BESS\)](https://open.spotify.com/track/4BdiKWwWtDZ3TA339ZgZnI) | [Antti Tuisku](https://open.spotify.com/artist/54CMkgIraCOO9pSRfPKiKt), [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw) | [GRINDR MAYHEM \(feat\. BESS\)](https://open.spotify.com/album/4FrHzKtnbUyn3QlEEgy9I8) | 2:35 | 2022-06-18 | 2022-09-20 |
 | [Gröna Lund](https://open.spotify.com/track/5g9eiltzjUKWr9GR4Ma2VP) | [Ellinoora](https://open.spotify.com/artist/3c9CUpHeB5BCQOHp8uiPzY) | [Viimeinen romantikko](https://open.spotify.com/album/7IosFLQa3Pp4HM0NEQkr5b) | 3:57 | 2021-09-26 | 2021-10-31 |
 | [Gröna Lund \- Vain elämää kausi 14](https://open.spotify.com/track/3NIOfRXol4efsbyI4LPD54) | [Hätä\-Miikka](https://open.spotify.com/artist/7DrOSQztawCu1w7Ni8uMZK) | [Gröna Lund \(Vain elämää kausi 14\)](https://open.spotify.com/album/6b7VagRHXSJe3TTVdclT2k) | 3:07 | 2023-10-01 | 2023-10-03 |
-| [Guess featuring Billie Eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 | 2024-08-03 |  |
+| [Guess featuring Billie Eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 | 2024-08-03 | 2024-09-13 |
+| [Guess featuring Billie Eilish](https://open.spotify.com/track/7qbJ4Dh8xuYUFdAWL8SFPK) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3rQE6GuZuvLF82h0o3Xqqd) | 2:23 | 2024-09-12 |  |
 | [Gunshit](https://open.spotify.com/track/1IkpXyhRn31NG6VOIsARqj) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Gunshit](https://open.spotify.com/album/0d733Esyd2C6I91zPHBu0p) | 2:09 | 2022-02-05 | 2022-02-13 |
 | [Haamuna](https://open.spotify.com/track/5SAAdQghKMepFbqKJ6Qs0h) | [Mouhous](https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i) | [Haamuna](https://open.spotify.com/album/54rASXLZdLkgpwkTD91NBp) | 3:06 | 2022-07-16 | 2022-08-09 |
 | [Haavcation](https://open.spotify.com/track/1YIPoktkEBmQhwdeEWZTEJ) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Aino](https://open.spotify.com/album/5K7D2ZTuIO2KzrsiqR7Nb6) | 3:26 | 2023-10-28 | 2023-11-05 |
@@ -1065,7 +1066,7 @@
 | [Maalissa](https://open.spotify.com/track/4TwB1uA33Hcxxa7bynsrcA) | [Happoradio](https://open.spotify.com/artist/088hJWSolrJNzoNBo2cyOd) | [Majakka](https://open.spotify.com/album/0g1yCh1hw0utNw50ktxkUC) | 3:08 | 2021-09-05 | 2021-09-06 |
 | [Maamme](https://open.spotify.com/track/3VxDGHvNVcd2aDtOF3zrRs) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Karjalan kunnailta \- Sotaveteraanikuorojen VIII laulujuhla](https://open.spotify.com/album/1lNcTadLmG6x6lCIQuq4S4) | 1:55 | 2021-12-08 | 2023-12-09 |
 | [maasta taivaaseen](https://open.spotify.com/track/3FzUdSK2jCdzreDDJOfKWc) | [pehmoaino](https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr) | [maasta taivaaseen](https://open.spotify.com/album/0IpVecpXjEvmdJ3cPqPwxV) | 2:54 | 2023-12-09 | 2024-01-07 |
-| [maasta taivaaseen](https://open.spotify.com/track/0PWIrADNjGpiXA3EGjIbTW) | [pehmoaino](https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr) | [soittorasia](https://open.spotify.com/album/49lFM84P2mYvVgbDWvDdZu) | 2:54 | 2024-01-06 | 2024-09-01 |
+| [maasta taivaaseen](https://open.spotify.com/track/0PWIrADNjGpiXA3EGjIbTW) | [pehmoaino](https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr) | [soittorasia](https://open.spotify.com/album/49lFM84P2mYvVgbDWvDdZu) | 2:54 | 2024-01-06 |  |
 | [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 | 2022-11-23 | 2022-12-02 |
 | [MAFIA](https://open.spotify.com/track/08F16baYbciTva9P4BvpiI) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ESCAPE PLAN / MAFIA](https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve) | 4:00 | 2021-11-07 | 2021-11-08 |
 | [Magaluf](https://open.spotify.com/track/2QS3MUxQ1oZvaThkIX0SmT) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ), [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf) | [LIMBO](https://open.spotify.com/album/35eRCbiaVPNOpSvleCo6JZ) | 2:49 | 2022-12-10 | 2023-03-19 |
@@ -1503,7 +1504,7 @@
 | [Rakkaus tappaa](https://open.spotify.com/track/1v0MVxPYvBYLsS6rQnV9nq) | [Anna Puu](https://open.spotify.com/artist/4gl9wpGYA4o15ykU2FBnd3) | [Rakkaus tappaa](https://open.spotify.com/album/5844Mz2ZkOnCpLMoojOG9d) | 3:30 | 2023-04-22 | 2023-04-30 |
 | [Rakkauteen](https://open.spotify.com/track/4wqqfH4CBaQURaClv7dsID) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Aino](https://open.spotify.com/album/5K7D2ZTuIO2KzrsiqR7Nb6) | 3:08 | 2023-10-28 | 2023-11-26 |
 | [Rakkautta ja piikkilankaa](https://open.spotify.com/track/3u8gd2SedmlhbV3dA8u5Xz) | [SINI YASEMIN](https://open.spotify.com/artist/4DpQueNEIhOottP5j70XqR), [Mouhous](https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i) | [Rakkautta ja piikkilankaa](https://open.spotify.com/album/1HH7tTIIlzu4JqmzPov9U5) | 2:44 | 2022-05-21 | 2022-07-03 |
-| [Rallikansa](https://open.spotify.com/track/1tE3e0tfkZ4q8wC9fMcAoP) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Rallikansa](https://open.spotify.com/album/5BTt8tCXm12OiXAjQxiNDq) | 3:12 | 2024-04-27 |  |
+| [Rallikansa](https://open.spotify.com/track/1tE3e0tfkZ4q8wC9fMcAoP) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Rallikansa](https://open.spotify.com/album/5BTt8tCXm12OiXAjQxiNDq) | 3:12 | 2024-04-27 | 2024-09-13 |
 | [Ram pam pam](https://open.spotify.com/track/3HkGWngSgieI9DdklKeFkt) | [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw) | [KÄDET YLÖS](https://open.spotify.com/album/2joWaoC7gjMGk1Ilbxxq5p) | 2:59 | 2023-04-15 | 2023-06-28 |
 | [Ram pam pam](https://open.spotify.com/track/55qPuI6NekVyNPM6kh5DN4) | [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw) | [Ram pam pam](https://open.spotify.com/album/6wKDISYcXTFk9y54P06rGz) | 2:59 | 2022-01-15 | 2023-04-16 |
 | [Ramenez la coupe à la maison](https://open.spotify.com/track/1m0UFnuTktOkksvjbF9z0m) | [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd) | [Marchand de sable](https://open.spotify.com/album/6CWb2cr93FdkcNNraD3E0b) | 3:55 | 2021-07-01 | 2021-07-08 |

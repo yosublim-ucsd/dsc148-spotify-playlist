@@ -511,6 +511,24 @@
     },
     {
       "album": {
+        "name": "Body",
+        "url": "https://open.spotify.com/album/4hbkzqBY4OWpiFIoDtqTYl"
+      },
+      "artists": [
+        {
+          "name": "Kynsy",
+          "url": "https://open.spotify.com/artist/1GUxDXleGCxG9ibsZjASo6"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165200,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/1lb8y5ayNhqmoyDMULKPhn"
+    },
+    {
+      "album": {
         "name": "Body Issues",
         "url": "https://open.spotify.com/album/7t3648j4XIiHuZeLTvI26R"
       },
@@ -606,6 +624,24 @@
       "duration_ms": 171620,
       "name": "Can\u2019t Walk Away",
       "url": "https://open.spotify.com/track/71SJspddigbl3qqVoMcRfJ"
+    },
+    {
+      "album": {
+        "name": "Caravan",
+        "url": "https://open.spotify.com/album/3GRnxf36SwDQH5BkM4veLE"
+      },
+      "artists": [
+        {
+          "name": "ROE",
+          "url": "https://open.spotify.com/artist/6ZgfyJzSGlummUBhUK1hxw"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213569,
+      "name": "Caravan",
+      "url": "https://open.spotify.com/track/0C2zLP42AKkoTmXGASh7HK"
     },
     {
       "album": {
@@ -726,6 +762,24 @@
       "duration_ms": 248500,
       "name": "Cold",
       "url": "https://open.spotify.com/track/20d5r7dJunyrLNXZlv7jP5"
+    },
+    {
+      "album": {
+        "name": "Come And See",
+        "url": "https://open.spotify.com/album/4DHXkFCDz154lGUlAWvLPE"
+      },
+      "artists": [
+        {
+          "name": "Gurriers",
+          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327266,
+      "name": "Come And See",
+      "url": "https://open.spotify.com/track/2XGRM9Z3mg71Gsq5saAtbP"
     },
     {
       "album": {
@@ -1432,7 +1486,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 138906,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/5HEx0ZwJEmZhvjlrMYnSuf"
@@ -2222,7 +2276,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 193438,
       "name": "Music",
       "url": "https://open.spotify.com/track/6HrcOG9ILLgEZZ28FyQLaL"
@@ -3124,7 +3178,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 151200,
       "name": "Stereo Games",
       "url": "https://open.spotify.com/track/3huEMTGeCgT2i4fdAeDgCl"
@@ -3460,7 +3514,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 233560,
       "name": "Top Of The Bill",
       "url": "https://open.spotify.com/track/5Nk0fgUhD5DwwjCjN7erYh"
@@ -3518,6 +3572,24 @@
       "duration_ms": 224385,
       "name": "Truth\u2606Truth",
       "url": "https://open.spotify.com/track/6vfJ8MiERPMLsI0g0LQfUt"
+    },
+    {
+      "album": {
+        "name": "Under The Orange Sky",
+        "url": "https://open.spotify.com/album/3ocwxAiQgwQlACZlHgATVL"
+      },
+      "artists": [
+        {
+          "name": "Pa Sheehy",
+          "url": "https://open.spotify.com/artist/7n17tju4Xhlj1IkZR4Q2LX"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199854,
+      "name": "Under The Orange Sky",
+      "url": "https://open.spotify.com/track/3aIzeW6ECynd5TB5q7wP7A"
     },
     {
       "album": {

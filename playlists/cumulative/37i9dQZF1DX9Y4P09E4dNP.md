@@ -2,9 +2,9 @@
 
 ### [Hip\-Life Hits](https://open.spotify.com/playlist/37i9dQZF1DX9Y4P09E4dNP)
 
-> The big Hip\-Life hits rn\. Cover: Darkovibes
+> The big Hip\-Life hits rn\. Cover: King Promise
 
-217 songs - 14 hr 34 min
+218 songs - 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [Ngozi](https://open.spotify.com/track/5xUsuJdA0m0mViZJ8yxPAT) | [Michael Dwamena](https://open.spotify.com/artist/2kgJbByQSqdAsyAJMh8o7c) | [Ngozi](https://open.spotify.com/album/0hE1qM4q2Hcbp3wuacPnXV) | 5:31 | 2020-02-20 | 2022-11-13 |
 | [Ngozi](https://open.spotify.com/track/687b1ZxrRmzvodBCxrpBG4) | [Micheal Dwamena](https://open.spotify.com/artist/6sJP5qdmdznP6PrOkdPwAB) | [Owo Moti](https://open.spotify.com/album/5PcYQfVWxpa7WjjqGSWmYO) | 5:34 | 2020-02-20 | 2024-03-05 |
 | [No Love](https://open.spotify.com/track/0MIUBfQeKzmriC5NTNw9wc) | [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [No Love](https://open.spotify.com/album/15v2CAdHqg1ZTdol3hDdhh) | 2:46 | 2024-05-17 | 2024-06-07 |
-| [No Pressure](https://open.spotify.com/track/4mKGOtHyLWtnYz3dlq7Kkm) | [Samini](https://open.spotify.com/artist/10Cql6DpInZY5O6TBw2m4l) | [No Pressure](https://open.spotify.com/album/0Y9msGVNi7dRprttbC0PGU) | 2:55 | 2024-08-16 |  |
+| [No Pressure](https://open.spotify.com/track/4mKGOtHyLWtnYz3dlq7Kkm) | [Samini](https://open.spotify.com/artist/10Cql6DpInZY5O6TBw2m4l) | [No Pressure](https://open.spotify.com/album/0Y9msGVNi7dRprttbC0PGU) | 2:55 | 2024-08-16 | 2024-09-13 |
 | [Non Living Thing \(feat\. Oxlade\)](https://open.spotify.com/track/5Ky8pIlNDaSQtxfY45dqMw) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 3:49 | 2024-03-04 |  |
 | [Not God](https://open.spotify.com/track/6u15h9ZJMKrV3ZBZ5FwAUH) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Not God](https://open.spotify.com/album/3ACMZjr0WdsIqQiIMo7eRs) | 2:30 | 2023-08-03 | 2024-05-24 |
 | [Obaa No](https://open.spotify.com/track/1AfW3qEZUUn3GbiBEtJfz9) | [Okomfour Kwadee](https://open.spotify.com/artist/4ELqSlk9d15aZFqVzXfSjm) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 5:11 | 2020-02-20 | 2022-03-14 |
@@ -211,6 +211,7 @@
 | [Tuabodom](https://open.spotify.com/track/1ta0PJWhEEwSEoP87N4qqf) | [Nkasei](https://open.spotify.com/artist/2pOlf7KpOxnGoqcplYoC3I) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 5:16 | 2020-02-20 | 2022-07-27 |
 | [U 4 Know](https://open.spotify.com/track/4bc8bWLkD1qAkzEBVnHD9n) | [Buk Bak](https://open.spotify.com/artist/6e6W1oSxPGjoF2iAp2AZtF) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 6:04 | 2020-02-20 | 2022-03-07 |
 | [Uncle Ebo](https://open.spotify.com/track/6nPaMcmh1UHgNwId2TLznB) | [Antwi Ne Antwi](https://open.spotify.com/artist/2sAjglj6lmoAwZxoHSB6IU) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 4:56 | 2020-02-20 | 2022-07-29 |
+| [Very Soon](https://open.spotify.com/track/1tBfoI9tFVl8ampIRG4eTr) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Very Soon](https://open.spotify.com/album/42R7w5OImRPdU3Ex59eXd2) | 3:09 | 2024-09-13 |  |
 | [Wafom](https://open.spotify.com/track/2pY5TiBztBDclvZoGNm90E) | [Daasebre Gyamenah](https://open.spotify.com/artist/6esNAzhyTV6I5TaWXhqO12) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 5:44 | 2020-02-20 | 2022-07-29 |
 | [Wafom](https://open.spotify.com/track/5BZqJbegEpkD2SjCYBxkfC) | [Daasebre Gyamenah](https://open.spotify.com/artist/6esNAzhyTV6I5TaWXhqO12) | [Ultimate Classics, Vol\. 1](https://open.spotify.com/album/0nNcFT8sn4ljkpKvgfxkTi) | 5:44 | 2020-02-20 | 2024-03-05 |
 | [Ware Me](https://open.spotify.com/track/3vyBe2SDEPLhm6peMZnk3n) | [Samini](https://open.spotify.com/artist/10Cql6DpInZY5O6TBw2m4l), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Burning \- EP](https://open.spotify.com/album/7oQTsdePfvrMkeottXJ4Go) | 3:53 | 2021-12-02 | 2023-02-17 |

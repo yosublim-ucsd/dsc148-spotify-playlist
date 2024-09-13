@@ -2,7 +2,7 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu?si=DaXZrLYRQAicawY7XgZAuw">Prop</a>
+> Net die beste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/0F0l2JFPA3u6cBpaqKCm6J?si=0\_DnvTkdR2\-F9vFMrQwb1A">Snotkop</a>
 
 237 songs - 13 hr 14 min
 

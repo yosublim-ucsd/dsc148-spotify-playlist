@@ -4,7 +4,7 @@
 
 > Fresh Punjabi Rap\. Cover: Bir
 
-146 songs - 7 hr 8 min
+147 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Ice](https://open.spotify.com/track/5bnfUWFS4sVeWx1JLA3K9Z) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 2:54 | 2023-07-31 |  |
 | [In Case](https://open.spotify.com/track/3XNdtAldN7TeHWv1vFORY8) | [Raka](https://open.spotify.com/artist/6DaYS7s7hXtNtuGwBICzVB) | [In Case](https://open.spotify.com/album/100gHhW5AZT9yGMajJMtoY) | 4:55 | 2024-09-10 |  |
 | [Infamous](https://open.spotify.com/track/4OUI0zhbSb2nGsHARHpXHF) | [Lakhi Ghuman](https://open.spotify.com/artist/2PCivTfTiXqggCr9Folam6) | [Infamous](https://open.spotify.com/album/2qzB2fBbECaMwqECCIJPN0) | 2:20 | 2024-04-19 | 2024-05-16 |
+| [Insecure](https://open.spotify.com/track/6iD7lRJbxkZrmAMglhqzaD) | [Barinder Dhapai](https://open.spotify.com/artist/7unAVMZwYSIAChXVALfZ9B) | [Insecure](https://open.spotify.com/album/3LcNQMWKN5P2KH8dfSM4Vc) | 2:47 | 2024-09-12 |  |
 | [Iran](https://open.spotify.com/track/0hKQDXkIlbY1IomBdmFiIc) | [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5), [Gurkarn Chahal](https://open.spotify.com/artist/1iX2MDndFDkTdIPAic9B1z), [Vitamin](https://open.spotify.com/artist/4pYzHNIyEnFmGEdy6lomXR) | [Iran](https://open.spotify.com/album/3OD1CRqD1M3ATI71zxcnmQ) | 3:12 | 2023-03-18 | 2023-08-01 |
 | [Jatt Di Pasand](https://open.spotify.com/track/6Y3WQXMeooXhysUaOq7XH3) | [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Youngstarr Pop Boy](https://open.spotify.com/artist/3qQfU4XvZCmz8Hwwu5pSr9) | [Champion](https://open.spotify.com/album/2irCI007oISxePEdTPmxmS) | 2:30 | 2023-04-26 | 2024-09-03 |
 | [Kaka](https://open.spotify.com/track/31JDOPIVK99SMS9gGSi8LY) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu), [Sudesh Kumari](https://open.spotify.com/artist/6ISgfsT7lr3JXu6RfOj46X) | [Kaka](https://open.spotify.com/album/7LQsR1iVrL8BL78lJzu38Q) | 1:56 | 2023-12-06 | 2023-12-19 |
@@ -131,7 +132,7 @@
 | [Speedin](https://open.spotify.com/track/5VimYNGccxbDBktl7aNRCS) | [Bir](https://open.spotify.com/artist/3R1penrqtuKNTeWABjKT5N), [Dhanju](https://open.spotify.com/artist/3SQVNBF31sOSgXeXzkGW9M) | [Speedin](https://open.spotify.com/album/5rytu6XDOtK6JMBK1NmHWi) | 2:21 | 2023-10-11 | 2024-09-04 |
 | [Still Rollin](https://open.spotify.com/track/6oz1L5jcqZWYuId7nxvIan) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 2:54 | 2023-05-26 | 2024-09-10 |
 | [Swing](https://open.spotify.com/track/0hK7JnRaiYq1Mc5L3zX0t3) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [Al Bamania](https://open.spotify.com/artist/4pyPB6M72hmPH7Ec3LGVap) | [Colonial Mindset](https://open.spotify.com/album/3p0Bw5SSaU6CJtRr4CqmJ5) | 4:48 | 2024-06-17 | 2024-08-06 |
-| [SWITCHIN' LANES](https://open.spotify.com/track/0o6IjbwmqxiDZPE5TvNKoJ) | [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [SWITCHIN' LANES](https://open.spotify.com/album/6YCt9sL8Y6kphIOcUalaRl) | 2:12 | 2023-05-26 |  |
+| [SWITCHIN' LANES](https://open.spotify.com/track/0o6IjbwmqxiDZPE5TvNKoJ) | [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [SWITCHIN' LANES](https://open.spotify.com/album/6YCt9sL8Y6kphIOcUalaRl) | 2:12 | 2023-05-26 | 2024-09-13 |
 | [Tere Sher](https://open.spotify.com/track/2QsH4fYTyCjamaBBUQP41z) | [Preet Sidhu](https://open.spotify.com/artist/5TP4EiR9iVNfpv1IS2iVIz) | [Tere Sher](https://open.spotify.com/album/1O3G72Xx0uu0TlKBPPuiOy) | 2:02 | 2024-09-10 |  |
 | [Thaa](https://open.spotify.com/track/2NmBCDkjvJVvEZkH5QDOeb) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV), [Rav Dhaliwal](https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P), [Ultra Beats](https://open.spotify.com/artist/2YzXsQoI3rqYNEVd4nac7g) | [Thaa](https://open.spotify.com/album/6u5RdRVp5HBStyPRWvHcgm) | 3:01 | 2023-05-26 | 2024-09-12 |
 | [They Don't Know](https://open.spotify.com/track/3rQmvM91VG7Yq3gqQXq6nu) | [Jxggi](https://open.spotify.com/artist/3fD8S8sslhiMSVOdXv8yuG), [Sickboi](https://open.spotify.com/artist/2RSjOH1tYnTgkpkz81WICb) | [Breakin Boundaries](https://open.spotify.com/album/4P8OqjU0giUlyoPgCLnR2e) | 2:42 | 2024-09-05 |  |

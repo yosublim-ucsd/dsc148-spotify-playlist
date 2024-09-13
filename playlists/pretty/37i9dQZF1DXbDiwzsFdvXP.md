@@ -9,7 +9,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDiwzsFdvXP.md) - [plain]
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Only Nigerian Restaurant in San Francisco Burns Down](https://open.spotify.com/episode/0PKlZMaUM0ScJQ9O5Lmkhw) | [Extra Spicy](https://open.spotify.com/show/7tOXuwdG0MkzrUouBYv018) | [Extra Spicy](https://open.spotify.com/album/7tOXuwdG0MkzrUouBYv018) | 40:00 |
-| 2 | [America’s Unknown Celebrity Chef](https://open.spotify.com/episode/6k5U1EudZ2ITExq7NBMclq) | [Sidedoor](https://open.spotify.com/show/1XSjN7lgDlwMzHy43gMANd) | [Sidedoor](https://open.spotify.com/album/1XSjN7lgDlwMzHy43gMANd) | 33:13 |
+| 2 | [America’s Unknown Celebrity Chef](https://open.spotify.com/episode/6k5U1EudZ2ITExq7NBMclq) | [Sidedoor](https://open.spotify.com/show/1XSjN7lgDlwMzHy43gMANd) | [Sidedoor](https://open.spotify.com/album/1XSjN7lgDlwMzHy43gMANd) | 32:36 |
 | 3 | [Black vegans; and Gwyneth Paltrow’s vagina scented candle](https://open.spotify.com/episode/3xkofujSiSCwhJxo5b51PT) | [Bleav in The Spice Rack](https://open.spotify.com/show/5mRVZYcdU03oY9RCU0CQxO) | [Bleav in The Spice Rack](https://open.spotify.com/album/5mRVZYcdU03oY9RCU0CQxO) | 33:40 |
 | 4 | [For The Food And To Dance](https://open.spotify.com/episode/2umjAhdZ6E4Vs6AcMJOLRi) | [Living The Principles Podcast](https://open.spotify.com/show/2AfiHHFoCQodgv1i500jFz) | [Living The Principles Podcast](https://open.spotify.com/album/2AfiHHFoCQodgv1i500jFz) | 31:49 |
 | 5 | [Golden Arches in Black America](https://open.spotify.com/episode/7lxw2sUeRAIBNUKo9Egoph) | [A Taste of the Past](https://open.spotify.com/show/5DXcwMjMYJpQOoXYVOwxZA) | [A Taste of the Past](https://open.spotify.com/album/5DXcwMjMYJpQOoXYVOwxZA) | 35:27 |

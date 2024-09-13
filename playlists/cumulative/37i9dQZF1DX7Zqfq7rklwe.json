@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/4e7IBWBfriaWmamxBKCy4q"
+      },
+      "artists": [
+        {
+          "name": "Dead End Finland",
+          "url": "https://open.spotify.com/artist/0CaIj7zL84FAI28Dksrcuv"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198460,
+      "name": "Adrenaline",
+      "url": "https://open.spotify.com/track/5T2BjLvvf2OuOayhv2V9IG"
+    },
+    {
+      "album": {
         "name": "AFRAID TO DIE",
         "url": "https://open.spotify.com/album/2kObu5MHhR6BCsvgtptz2T"
       },
@@ -42,7 +60,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 161213,
       "name": "Ain't Got Time",
       "url": "https://open.spotify.com/track/4fbyV0Q7BpzTad3SjnPxNn"
@@ -64,6 +82,24 @@
       "duration_ms": 162805,
       "name": "ALL IN MY HEAD",
       "url": "https://open.spotify.com/track/7EapAReosYwfwAZbFYJysV"
+    },
+    {
+      "album": {
+        "name": "An Ocean Of Strange Islands",
+        "url": "https://open.spotify.com/album/5Pld9dbaBVoidxPQEhVusV"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 566413,
+      "name": "An Ocean Of Strange Islands",
+      "url": "https://open.spotify.com/track/7HLmjUIFeeCxiJKASRqltT"
     },
     {
       "album": {
@@ -247,6 +283,24 @@
     },
     {
       "album": {
+        "name": "Come To Brazil",
+        "url": "https://open.spotify.com/album/6RvVwqzNo1i8XkRBqXgcqE"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259626,
+      "name": "Come To Brazil",
+      "url": "https://open.spotify.com/track/53NkQOx965C85o2Xxv5ZyC"
+    },
+    {
+      "album": {
         "name": "H.e.a.t II",
         "url": "https://open.spotify.com/album/0NEPDWFsJHcRIF6fKEiSHZ"
       },
@@ -391,6 +445,24 @@
     },
     {
       "album": {
+        "name": "EVERYBODY (BLOODBROS BACK)",
+        "url": "https://open.spotify.com/album/3n1XGYmrurkbhXDEsQAcTm"
+      },
+      "artists": [
+        {
+          "name": "Blind Channel",
+          "url": "https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208396,
+      "name": "EVERYBODY (BLOODBROS BACK)",
+      "url": "https://open.spotify.com/track/3Uu0UjdQUBKuTQK4XsVMfe"
+    },
+    {
+      "album": {
         "name": "Fear of the Dark (2015 Remaster)",
         "url": "https://open.spotify.com/album/16Su3EUFLPqWVyrwN1q5wO"
       },
@@ -474,7 +546,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 297946,
       "name": "Hearts Burst into Fire",
       "url": "https://open.spotify.com/track/6DsILuMLGYN6QqPXlhGHWo"
@@ -568,6 +640,24 @@
       "duration_ms": 217120,
       "name": "Keep That Mother Down",
       "url": "https://open.spotify.com/track/5LwFa31Em0Lp7fqTabNgro"
+    },
+    {
+      "album": {
+        "name": "Kylie",
+        "url": "https://open.spotify.com/album/0B42NGSmFbRlxb6RCvtvsk"
+      },
+      "artists": [
+        {
+          "name": "Balboa Son",
+          "url": "https://open.spotify.com/artist/6ZcJKMHJOCYcDNiKK9TeMi"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247680,
+      "name": "Kylie",
+      "url": "https://open.spotify.com/track/2hq1XgYec0eejLFiDnytUY"
     },
     {
       "album": {
@@ -1146,7 +1236,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 236000,
       "name": "Stormtroopers",
       "url": "https://open.spotify.com/track/7cUHFTxJhxtZ5tpY34SMRw"
@@ -1218,7 +1308,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 273573,
       "name": "The Day Of...",
       "url": "https://open.spotify.com/track/20w340h37XvpPjiO591XCg"
@@ -1420,7 +1510,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 270706,
       "name": "Wings Of Twilight (feat. Melissa Bonny)",
       "url": "https://open.spotify.com/track/0QbaBnjzFD03RergddLUa9"

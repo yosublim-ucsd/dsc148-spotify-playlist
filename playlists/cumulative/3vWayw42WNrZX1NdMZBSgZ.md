@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/3vWayw42WNrZX1NdMZBSgZ.md) - cumulative - [plain](/playlists/plain/3vWayw42WNrZX1NdMZBSgZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3vWayw42WNrZX1NdMZBSgZ)
 
-### [Top Latin Hits](https://open.spotify.com/playlist/3vWayw42WNrZX1NdMZBSgZ)
+### [Pop Latin Hits](https://open.spotify.com/playlist/3vWayw42WNrZX1NdMZBSgZ)
 
-> The perfect mix of the latest pop hits! Follow this playlist and play Camilo &amp; Carin Leon &quot;Una Vida Pasada,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Shakira &amp; Cardi B &quot;Puntería,&quot;  Cover: Abraham Mateo
+> The perfect mix of the latest pop hits! Follow this playlist and play Camilo &amp; Carin Leon &quot;Una Vida Pasada,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Shakira &amp; Cardi B &quot;Puntería,&quot;  Cover: Arthur  Hanlon
 
-820 songs - 1 day 19 hr 49 min
+821 songs - 1 day 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -636,6 +636,7 @@
 | [Reir pa no llorar](https://open.spotify.com/track/4prqRVaMnTzHNWftd76iqN) | [Marcelo Rubio](https://open.spotify.com/artist/5Nk0ZytxbTmln7pHwEEVYG) | [Reir pa no llorar](https://open.spotify.com/album/6yF5XTwDNpaW3yC5l0CAdm) | 2:44 | 2024-04-19 | 2024-07-03 |
 | [Reloj](https://open.spotify.com/track/4loQgPwJHocL3dFwLfjb1J) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Afrodisíaco](https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v) | 3:51 | 2023-06-07 |  |
 | [Reloj](https://open.spotify.com/track/7r9ZhitdQBONTFOiJW5mr8) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Reloj](https://open.spotify.com/album/56vYUqyoaBCrokFauIuXIk) | 3:51 | 2022-02-02 | 2023-05-26 |
+| [REPETIMOS](https://open.spotify.com/track/6fd06SYRA9Fj8oFUhiOFvh) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB), [Yotuel](https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [REPETIMOS](https://open.spotify.com/album/7219pqifUvqNOYNsYtgoeD) | 3:16 | 2024-09-12 |  |
 | [Rewind](https://open.spotify.com/track/7nFIZVAJEYbwbB5nbzkoka) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Rewind](https://open.spotify.com/album/73EtqjVJRVpMMMCNSQ3C3P) | 2:21 | 2024-04-01 |  |
 | [Ride](https://open.spotify.com/track/1JWSvbotktLh1cftm1SyRc) | [Carlos Jean](https://open.spotify.com/artist/3oDsfHaRCBv7Jp8HO6VgeA), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Ride](https://open.spotify.com/album/36yqcY0wmk7Z3RSPo7k452) | 4:03 | 2022-06-15 | 2023-05-26 |
 | [Risueña](https://open.spotify.com/track/277ia0CBOO47RhG7XSLj4b) | [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Daviles de Novelda](https://open.spotify.com/artist/6E94QKXZv8BbO6QQJxcxLI) | [Risueña](https://open.spotify.com/album/7xDIDj3JXGpFFebsgUE5Bx) | 3:31 | 2022-03-10 | 2023-05-26 |

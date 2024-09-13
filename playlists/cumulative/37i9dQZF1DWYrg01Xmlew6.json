@@ -5897,6 +5897,24 @@
     },
     {
       "album": {
+        "name": "RNAR SPUORCH",
+        "url": "https://open.spotify.com/album/16ldGPgb034QKbjtGSbeRI"
+      },
+      "artists": [
+        {
+          "name": "ALTACARATURA",
+          "url": "https://open.spotify.com/artist/4FBfE5lWE8eGkPuUTXzRNr"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170209,
+      "name": "RNAR SPUORCH",
+      "url": "https://open.spotify.com/track/758gBjpv9urbcYbo0n5lGM"
+    },
+    {
+      "album": {
         "name": "Lamborghini a Via Marina",
         "url": "https://open.spotify.com/album/2Q3U7ILYYVYLfvWrOLQJXp"
       },

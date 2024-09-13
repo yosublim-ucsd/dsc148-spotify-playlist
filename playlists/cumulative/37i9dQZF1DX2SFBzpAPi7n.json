@@ -622,7 +622,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 199133,
       "name": "AMNESIA",
       "url": "https://open.spotify.com/track/0DvArwBhUjoOaRjluR7gCr"
@@ -1236,6 +1236,28 @@
       "duration_ms": 191666,
       "name": "Because it\u2019ll be faster for you to forget me than me loving you",
       "url": "https://open.spotify.com/track/7veL3B4K9oQB9VnyLtuPJW"
+    },
+    {
+      "album": {
+        "name": "Madness Always Turns to Sadness",
+        "url": "https://open.spotify.com/album/6GcZjO7MFfAGaYqeSBcF6v"
+      },
+      "artists": [
+        {
+          "name": "Tabber",
+          "url": "https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU"
+        },
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213750,
+      "name": "Being",
+      "url": "https://open.spotify.com/track/7ulCWv7e24VBTQ7lzGWrFP"
     },
     {
       "album": {

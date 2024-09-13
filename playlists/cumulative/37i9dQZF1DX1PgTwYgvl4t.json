@@ -327,6 +327,28 @@
     },
     {
       "album": {
+        "name": "Dependable",
+        "url": "https://open.spotify.com/album/2aWYCoqfzCRIpRizerkBW4"
+      },
+      "artists": [
+        {
+          "name": "Enkay Ogboruche",
+          "url": "https://open.spotify.com/artist/3v1qozG4k1E878TKsLr6eX"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262211,
+      "name": "Dependable",
+      "url": "https://open.spotify.com/track/1IkzykEzwPkDovrZAcCCFP"
+    },
+    {
+      "album": {
         "name": "Dependable God (Medley)",
         "url": "https://open.spotify.com/album/7CzRW6l3bcarSQ8w1wAoKj"
       },
@@ -1658,6 +1680,24 @@
       "duration_ms": 505960,
       "name": "You Are Always There",
       "url": "https://open.spotify.com/track/2u1XE762ploDotScizdgh5"
+    },
+    {
+      "album": {
+        "name": "You Are Here - Live",
+        "url": "https://open.spotify.com/album/4ohxMX3C1PR5OkO5vVsEbf"
+      },
+      "artists": [
+        {
+          "name": "FIDEL E. William",
+          "url": "https://open.spotify.com/artist/3ZtLx9dt1d6OMirAEMMToe"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308385,
+      "name": "You Are Here - Live",
+      "url": "https://open.spotify.com/track/0O5gv3GXR0CACUU2RMPQBu"
     },
     {
       "album": {

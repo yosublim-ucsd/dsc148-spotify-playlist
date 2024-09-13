@@ -6034,7 +6034,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 162951,
       "name": "Be",
       "url": "https://open.spotify.com/track/0ZQSt7739vSR5ld767J9Wn"
@@ -9956,7 +9956,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 209535,
       "name": "Cali Boys",
       "url": "https://open.spotify.com/track/4GVYCJCThhgJsZ70bul3dF"
@@ -16206,6 +16206,24 @@
       "duration_ms": 155376,
       "name": "Deuces",
       "url": "https://open.spotify.com/track/5XBcNDKAYaNuKHZHPU03S9"
+    },
+    {
+      "album": {
+        "name": "Devotion",
+        "url": "https://open.spotify.com/album/55Exy5T5NlPHUNBo73BVj7"
+      },
+      "artists": [
+        {
+          "name": "Honeybear, the Band",
+          "url": "https://open.spotify.com/artist/1t3BkCQTMTGykNPpmj7drk"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219386,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/7J5DD7cHzCC9eOAo1tx0br"
     },
     {
       "album": {
@@ -31226,7 +31244,7 @@
       ],
       "date_added": "2024-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 221076,
       "name": "I'll Find My Way - Unplugged",
       "url": "https://open.spotify.com/track/7oN2Fefb9pOnD6VXgbwbLl"
@@ -43212,7 +43230,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 163246,
       "name": "More Time",
       "url": "https://open.spotify.com/track/6WdEUkiTCnXXeSyHJuOekf"
@@ -60444,7 +60462,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 150153,
       "name": "Stuck With Me",
       "url": "https://open.spotify.com/track/00l7tkFvUtKtmNEK4crGuI"
@@ -66800,7 +66818,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 192004,
       "name": "Triangle",
       "url": "https://open.spotify.com/track/6YPBn9891Gdk9m9pny2n1e"

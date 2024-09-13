@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6f8N8qe1L2qiB0f5U0sCp7">George Gershwin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 341 likes - 148 songs - 11 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 342 likes - 148 songs - 11 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 83 | [Swiss Miss](https://open.spotify.com/track/6qeTkxWiaqZO8XDA2SgQNr) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Maurizio Zaccaria](https://open.spotify.com/artist/4fXE8DJVfCK0NjmUIGYVtQ) | [Gershwin: Complete Piano Works](https://open.spotify.com/album/3LY0vX4TBU0spPk0r0LXDZ) | 2:46 |
 | 84 | [How Long Has This Been Going On](https://open.spotify.com/track/2faM3FzoQh6vIH8I0tkjct) | [Chris Connor](https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ) | [A Foggy Day](https://open.spotify.com/album/55rZXmosS2ehCezw1vnqEg) | 2:32 |
 | 85 | [Sutton Place](https://open.spotify.com/track/5dZzGFR6iAepOQhaEImAVe) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Gershwin Rhapsody](https://open.spotify.com/album/4H3sICPKEhVcepYaIdb4LD) | 1:25 |
-| 86 | [Requiem](https://open.spotify.com/track/3VAOvjPQeaNucFJ7bg38JO) | [Rejuvination](https://open.spotify.com/artist/6P497fZ9wbb6QZVoIxXRo1) | [Introduction](https://open.spotify.com/album/4XCqLiEXH9tmrMotzH6Lkq) | 7:04 |
-| 87 | [Tempo Di Blues](https://open.spotify.com/track/3S6hxatWPPKkOpR0vFHlww) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Bryan Hieronymus](https://open.spotify.com/artist/3SZ5Ax4ZCsAGIFacxsZU0T) | [American Pieces](https://open.spotify.com/album/7FPIvlCwpBvej3vU9pXa27) | 2:52 |
+| 86 | [Tempo Di Blues](https://open.spotify.com/track/3S6hxatWPPKkOpR0vFHlww) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Bryan Hieronymus](https://open.spotify.com/artist/3SZ5Ax4ZCsAGIFacxsZU0T) | [American Pieces](https://open.spotify.com/album/7FPIvlCwpBvej3vU9pXa27) | 2:52 |
+| 87 | [Requiem](https://open.spotify.com/track/3VAOvjPQeaNucFJ7bg38JO) | [Rejuvination](https://open.spotify.com/artist/6P497fZ9wbb6QZVoIxXRo1) | [Introduction](https://open.spotify.com/album/4XCqLiEXH9tmrMotzH6Lkq) | 7:04 |
 | 88 | [Prelude](https://open.spotify.com/track/7GzKLmkKBoMgPdr7B9UNRy) | [Larry Goldings](https://open.spotify.com/artist/6wTD4jLsPadWutQ9nJvzT6), [Peter Bernstein](https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc), [Bill Stewart](https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39) | [Perpetual Pendulum](https://open.spotify.com/album/6t3zbrEc2zc8cSAs9YF9Vf) | 5:28 |
 | 89 | [Porgy And Bess Suite](https://open.spotify.com/track/14K0p1ZdxWJnS0GU1z98lu) | [New Zealand Symphony Orchestra](https://open.spotify.com/artist/5ZvFgRwyPK2Qf4TmSLTtfM), [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [Gershwin: An American In Paris / Porgy And Bess](https://open.spotify.com/album/1GmzcaEZsQLQcDsmcfvXpZ) | 25:08 |
 | 90 | [Leaving for the Promised Land](https://open.spotify.com/track/0RrwqLX0ETxE0MnZKyMxGA) | [Audra McDonald](https://open.spotify.com/artist/7F6surn3OpdyOzupSawyli), [Norm Lewis](https://open.spotify.com/artist/7dHUb3yBmLZdtX3zsjHOgQ), [David Alan Grier](https://open.spotify.com/artist/5aDJFTPB7JCC9T785IH2Fy), [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [DuBose Heyward](https://open.spotify.com/artist/2x5eLqRtwnCXFUALSsEitt), [Ira Gershwin](https://open.spotify.com/artist/6Yd6jR0AcWlI8JjJ954IDV), [Company](https://open.spotify.com/artist/5bse9w1FhvHOjwC110JLe5) | [The Gershwins' Porgy and Bess: New Broadway Cast Recording](https://open.spotify.com/album/3ZOOWaYSagUYPLUrUiHXeI) | 3:32 |
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 147 | [Mary, Queen Of Scots](https://open.spotify.com/track/5CSSuStXPBgDlh9zpWiVI6) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [Primrose](https://open.spotify.com/album/3vzbMJ8Ft5sE4y8pzNv782) | 3:40 |
 | 148 | [If God Want to Kill Me](https://open.spotify.com/track/7FA747HPTXCToNteipCCab) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [George Gershwin's Complete Porgy and Bess \(Hd Remastered\)](https://open.spotify.com/album/1cCswl4XmfcFPvuExNOapI) | 2:05 |
 
-Snapshot ID: `Abb49AAAAADk/cEDQnqX3c0q9ZWG/7mJ`
+Snapshot ID: `Abb+igAAAAASlr1kWZSZjpenCTNUOVK4`

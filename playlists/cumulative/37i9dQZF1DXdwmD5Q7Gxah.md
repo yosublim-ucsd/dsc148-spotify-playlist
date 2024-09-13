@@ -4,7 +4,7 @@
 
 > DJ Suzy ⭐
 
-2,974 songs - 6 day 16 hr 47 min
+2,977 songs - 6 day 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Adore You](https://open.spotify.com/track/5AnCLGg35ziFOloEnXK4uu) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bangerz \(Deluxe Version\)](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) | 4:38 | 2019-07-30\* | 2019-08-02 |
 | [Adore You](https://open.spotify.com/track/6YwYkz0z6tftrTO7Qwe5A5) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Adore You](https://open.spotify.com/album/2LdHQ2qDEVMexB8vJINNYK) | 3:12 | 2021-12-10 | 2022-01-08 |
 | [ADULT](https://open.spotify.com/track/6f8LxEFb7FSNZFRhOo1ZUK) | [LOVE TRULS](https://open.spotify.com/artist/2kx2L7c7ygzdN9H16dKzcw) | [Adult](https://open.spotify.com/album/6hzC0LqnKVnBCJfkCv1j31) | 3:40 | 2020-12-04 | 2021-01-12 |
+| [After Laughter \(Comes Tears\)](https://open.spotify.com/track/1IXa70EPedlpafPL7Ood2z) | [Wendy Rene](https://open.spotify.com/artist/4ba7uNtpOq0us2C5Nx19zN) | [After Laughter \(Comes Tears\)](https://open.spotify.com/album/6wBfFrmOvBu0cyksWWlp94) | 2:59 | 2024-09-12 |  |
 | [After Midnight \(feat\. Clairo\)](https://open.spotify.com/track/0KIpuVYhKUUUpjo6H5NvBY) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [After Midnight \(feat\. Clairo\)](https://open.spotify.com/album/6xsvkBbeMsrk6HPDBsJEwS) | 3:08 | 2023-04-05 | 2023-07-12 |
 | [Afterlife](https://open.spotify.com/track/0Xi1Cs3WebgME5QFZcJQcs) | [Madisenxoxo](https://open.spotify.com/artist/2S2x3n1BXskbkRdEdj5gSB) | [Afterlife](https://open.spotify.com/album/4bTzs8uMPepY1Dv99FesVW) | 2:34 | 2022-05-27 | 2022-07-01 |
 | [Afterthought](https://open.spotify.com/track/1ggYjU6zdFHgANcku82boU) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Nectar](https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm) | 3:14 | 2020-09-25 | 2021-01-12 |
@@ -878,6 +879,7 @@
 | [Feb 14](https://open.spotify.com/track/4KiVBzH3BKhZ4Tni0Vw3N9) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Feb 14](https://open.spotify.com/album/1VXhiLvi0VhRNUuSNf9PCz) | 4:33 | 2019-08-10 | 2020-02-19 |
 | [Feel it Now](https://open.spotify.com/track/4iJLyZWHDIAXxyb7vcT7dM) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr) | [Flower Moon](https://open.spotify.com/album/4McPKoA8FJkn283QeWctx7) | 2:53 | 2021-09-25 | 2021-11-13 |
 | [Feel Like Doing Nothing](https://open.spotify.com/track/2kUQyPvQpScTvEi31bXG9h) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Feel Like Doing Nothing](https://open.spotify.com/album/7Ln0bP0xLLpxm43S1beehA) | 2:32 | 2020-08-07 | 2020-08-21 |
+| [feel like home](https://open.spotify.com/track/5suIFrXr4gXhpEzFNjej85) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [feel like home](https://open.spotify.com/album/0BHk06yY5omfqv47S1vF4O) | 2:40 | 2024-09-12 |  |
 | [feel something](https://open.spotify.com/track/7JDWhC422Gtk1Bq0mL3OTC) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [feel something](https://open.spotify.com/album/6qLQLAHnS54MLHY8wxXDX5) | 3:00 | 2019-07-30\* | 2020-07-31 |
 | [feel your love <3](https://open.spotify.com/track/6f4zOGeP0rbjxpP3aeLCRB) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [Digital girl](https://open.spotify.com/album/1WaLWK5ZcxZVSPYy7GAdtY) | 3:44 | 2024-08-09 | 2024-09-07 |
 | [Feeling Good Today](https://open.spotify.com/track/5AmBayKvA8e1HdhintEELx) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Feeling Good Today](https://open.spotify.com/album/0iQLhH3cu8txsiJOTt3bzR) | 1:26 | 2024-02-09 | 2024-03-16 |
@@ -1216,6 +1218,7 @@
 | [Hush](https://open.spotify.com/track/04kybb0HCt1uaTBgYkSgwQ) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Hush](https://open.spotify.com/album/5r1bbn7yCvl1CrBjfGM6eq) | 3:01 | 2021-05-03 | 2021-07-23 |
 | [Hush](https://open.spotify.com/track/4zXZ5Mq2L6jnsOsTssgRh8) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [CINEMA](https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v) | 3:01 | 2023-11-22 | 2024-01-11 |
 | [Hush \- Still Woozy Remix](https://open.spotify.com/track/4dGuRldChjvboZktprNJFM) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx), [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Hush \(Still Woozy Remix\)](https://open.spotify.com/album/3LcrYJ7ASoQo7SuBy7qGoI) | 3:02 | 2021-09-17 | 2022-08-06 |
+| [Husk](https://open.spotify.com/track/0iMSUfh4oQplV5OrmrlIbm) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Husk](https://open.spotify.com/album/13KxV6ezroXhAW7sPEG6QS) | 3:24 | 2024-09-12 |  |
 | [i <3 u](https://open.spotify.com/track/5EcGSkkNBMAWOePvLgKde1) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Wachito Rico](https://open.spotify.com/album/3PwdobIILbq5GSoptbJrK5) | 4:15 | 2020-10-24 | 2022-02-26 |
 | [I Always Wanna Die \(Sometimes\)](https://open.spotify.com/track/7iPlcFvOMOzt6v0QvcAueZ) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 5:14 | 2019-07-30\* | 2021-12-02 |
 | [I am not the sun](https://open.spotify.com/track/5LgiT8dSS0vTeyJBq7bS4i) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [I am not the sun](https://open.spotify.com/album/51zKbKuuLFfzBPaKgsobdD) | 3:33 | 2023-05-05 | 2023-08-26 |
@@ -2133,7 +2136,7 @@
 | [Rummage \(feat\. Orbiting Human Circus\)](https://open.spotify.com/track/5VTggg4KikE3rBmKHD3i7t) | [quannnic](https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu), [Orbiting Human Circus](https://open.spotify.com/artist/2j6asjJTdzpuwZZXsQVtSH) | [Stepdream](https://open.spotify.com/album/5E3MchKg9tSmjcinajvShd) | 3:50 | 2023-11-10 | 2023-12-14 |
 | [rUN tHE FaDE](https://open.spotify.com/track/2ZrlFzDK4qmEGoUS7GqLzP) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [rUN tHE FaDE](https://open.spotify.com/album/4dPnAsC3Ql4SVtjkDCrnhG) | 4:13 | 2024-01-05 | 2024-02-22 |
 | [Run Your Mouth](https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Run Your Mouth](https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP) | 2:40 | 2024-03-08 | 2024-06-01 |
-| [run!](https://open.spotify.com/track/7oqUxlU0mEv4fGt1CZ727y) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [empathogen](https://open.spotify.com/album/5jsfwcWxZIPtF5aaWx0mlL) | 3:08 | 2024-05-03 |  |
+| [run!](https://open.spotify.com/track/7oqUxlU0mEv4fGt1CZ727y) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [empathogen](https://open.spotify.com/album/5jsfwcWxZIPtF5aaWx0mlL) | 3:08 | 2024-05-03 | 2024-09-13 |
 | [Runaway Blue](https://open.spotify.com/track/1RbipP1W7K6A0KuBlOeLwe) | [Chloe George](https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y) | [Runaway Blue](https://open.spotify.com/album/26fP6qB9XiP01pNDJmwNGL) | 3:33 | 2022-08-18 | 2022-12-24 |
 | [Runaway Man](https://open.spotify.com/track/2bbG9OmvZLCsdWoRu7rj2m) | [Olivia Willhite](https://open.spotify.com/artist/70Mu5ttTV5XTLxs4uzF0H0) | [Runaway Man](https://open.spotify.com/album/1kSqEoIqznzirT0Gi4IxzW) | 3:09 | 2019-07-30\* | 2020-05-05 |
 | [Runner](https://open.spotify.com/track/5PmvRPR1SedsWA08jDDgF9) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Runner](https://open.spotify.com/album/5jhIfSbDYyInZbF9c4EauX) | 2:36 | 2022-06-24 | 2022-08-06 |
@@ -2727,7 +2730,7 @@
 | [Turnham Green](https://open.spotify.com/track/2zzbA5a4ZTzjYEbr4X0zOW) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Turnham Green](https://open.spotify.com/album/20u6ns1ue1dRrjc0cl4U8N) | 3:45 | 2022-08-05 | 2022-08-25 |
 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 | 2022-07-21 | 2022-11-17 |
 | [Twenties](https://open.spotify.com/track/3BeQzzSxNb7lzN1pJwXXDf) | [Bren Joy](https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp) | [Twenties](https://open.spotify.com/album/4PMJ1YwlsWRJYCxr1S8LX9) | 4:15 | 2020-05-14 | 2020-05-28 |
-| [Two Fishes](https://open.spotify.com/track/7qMMw7ngQEtW4Cam5GASW3) | [Benja](https://open.spotify.com/artist/36Bs5vvvt4AfdIvApt1Rid), [Glitter Party](https://open.spotify.com/artist/0aap0g0NB08EJrS6FMDrdB) | [Two Fishes](https://open.spotify.com/album/2PfujAW7ZEEg9T9Ug2xMmK) | 3:23 | 2024-06-21 |  |
+| [Two Fishes](https://open.spotify.com/track/7qMMw7ngQEtW4Cam5GASW3) | [Benja](https://open.spotify.com/artist/36Bs5vvvt4AfdIvApt1Rid), [Glitter Party](https://open.spotify.com/artist/0aap0g0NB08EJrS6FMDrdB) | [Two Fishes](https://open.spotify.com/album/2PfujAW7ZEEg9T9Ug2xMmK) | 3:23 | 2024-06-21 | 2024-09-13 |
 | [Two Moons](https://open.spotify.com/track/5GxUKIEkMXXZo1Tif0IzfC) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Fever Dreams](https://open.spotify.com/album/0NzheutoSuzfMlENTnHTQl) | 3:44 | 2021-06-09 | 2021-08-14 |
 | [two weeks \(and i miss you\)](https://open.spotify.com/track/2cqfTDvCy4v6DIF0wDoWeG) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq) | [i only remember the good parts](https://open.spotify.com/album/4LGSeJINAOVyvKPIuuxPvI) | 1:36 | 2024-05-17 | 2024-06-08 |
 | [u come near](https://open.spotify.com/track/4C5JVzRg7ca8TtVfwJBnXN) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [u come near](https://open.spotify.com/album/5RAgbzI7Aa6fwrC3Vtyrl7) | 3:12 | 2023-12-08 | 2024-02-22 |

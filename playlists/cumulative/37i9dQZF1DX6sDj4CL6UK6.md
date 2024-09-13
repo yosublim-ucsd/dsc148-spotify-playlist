@@ -4,7 +4,7 @@
 
 > English songs from Indian artists<br/>Cover: Farhan
 
-314 songs - 18 hr 4 min
+315 songs - 18 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Dark Blue Sky](https://open.spotify.com/track/2q7SxiB53YPRj4NTLujb0P) | [Mimansa](https://open.spotify.com/artist/1ZChq8269HWtLsjugMFR0l) | [Dark Blue Sky](https://open.spotify.com/album/1aSfpHhHhjceiFnWofOJe6) | 4:07 | 2022-03-25 | 2022-05-26 |
 | [daydream](https://open.spotify.com/track/1vRJrhhctvUFI1X44CVn8V) | [Taarini](https://open.spotify.com/artist/7ha2CwInFLU6MVnKZoH2qv) | [daydream](https://open.spotify.com/album/4JB9jTAwRLkQPG3iLBWHCs) | 3:03 | 2023-03-16 | 2023-04-19 |
 | [Dear Us](https://open.spotify.com/track/1Yt5Jo4jR1eLpxAj05vCvN) | [Jeremiah de Rozario](https://open.spotify.com/artist/77JtYqejZiIOtqTfrtadna) | [Dear Us](https://open.spotify.com/album/3cauT2XM9GVuKgnv0uUEtm) | 3:06 | 2022-03-25 | 2024-08-23 |
-| [Decent People](https://open.spotify.com/track/6VjQrUeEsmje2FqWFr5atT) | [Meera](https://open.spotify.com/artist/1a74S7m7Ce1IRYAC61gXfv), [Raag Sethi](https://open.spotify.com/artist/6peFV7z1UeYlD4aUxDhAv7) | [Smile\-ability](https://open.spotify.com/album/4lp3HLLFeCIg36292oOkmt) | 3:12 | 2024-03-26 |  |
+| [Decent People](https://open.spotify.com/track/6VjQrUeEsmje2FqWFr5atT) | [Meera](https://open.spotify.com/artist/1a74S7m7Ce1IRYAC61gXfv), [Raag Sethi](https://open.spotify.com/artist/6peFV7z1UeYlD4aUxDhAv7) | [Smile\-ability](https://open.spotify.com/album/4lp3HLLFeCIg36292oOkmt) | 3:12 | 2024-03-26 | 2024-09-13 |
 | [Deep Diving](https://open.spotify.com/track/6NslJ8DMabPbslZYKQ8Qer) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [Deep Diving](https://open.spotify.com/album/65YhubUi5rIDZmFr5FINBx) | 2:40 | 2023-08-25 | 2023-12-16 |
 | [Desert Island](https://open.spotify.com/track/4v4lyqBQuvFyIzPkrVX1xQ) | [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [Desert Island](https://open.spotify.com/album/0FOG8vBG0OfDwFVfKDwf29) | 3:28 | 2022-03-25 | 2023-05-20 |
 | [DFWM](https://open.spotify.com/track/6356OPdyCg97sRoBnYyTwe) | [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs), [Oceantied](https://open.spotify.com/artist/755GG4WXDoBMcDlcBEwgp3) | [DFWM](https://open.spotify.com/album/2wu92Nq78NWpXjL6S2Uu0M) | 3:17 | 2022-03-25 | 2022-05-22 |
@@ -199,6 +199,7 @@
 | [Monopoly Money](https://open.spotify.com/track/2HHI9VOqg0nY4SOdwLLllZ) | [Shor Police](https://open.spotify.com/artist/58Wsx9FbcjSM8a6kzLf03W) | [Monopoly Money](https://open.spotify.com/album/6IaKWgpPEkAPo1n0R3G8A6) | 2:48 | 2023-03-20 | 2023-04-29 |
 | [Moondance](https://open.spotify.com/track/17yvccxoD44O8rWIa0P03W) | [Dhruv Visvanath](https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ) | [Moondance](https://open.spotify.com/album/7qQifVVRwztG6YPGvU8sBr) | 3:24 | 2023-10-27 |  |
 | [move](https://open.spotify.com/track/2Ryp5LkAWyJwRqoFd8N7Kk) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [move](https://open.spotify.com/album/1gaYhlmZa4fT0NfH1IiSQ4) | 2:28 | 2023-05-19 | 2024-06-22 |
+| [Move On Easily](https://open.spotify.com/track/6ElUtgbpiJwI78vjyEaHfo) | [Neha Karode](https://open.spotify.com/artist/4GUWRLqQ58vGlU9aIfC9QN) | [Move On Easily](https://open.spotify.com/album/1TDsEMuoijSkiP8iy8jlG0) | 3:09 | 2024-09-13 |  |
 | [Mustard Yellow](https://open.spotify.com/track/2lY8B9x9JyQI6SVyp9OdtL) | [Jeremiah de Rozario](https://open.spotify.com/artist/77JtYqejZiIOtqTfrtadna) | [Mustard Yellow](https://open.spotify.com/album/7BECaIEpCKN0iFmnm8KxWp) | 4:04 | 2022-03-25 | 2022-05-26 |
 | [Mutual](https://open.spotify.com/track/25T9KzOqSe44j3nsWuKfiM) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14) | [Mutual](https://open.spotify.com/album/5zjzWWpPmYwZVTTHXOL3Vy) | 2:35 | 2022-03-25 | 2024-08-23 |
 | [Never](https://open.spotify.com/track/1gfzJ5dFmiciUmt1DXt4ty) | [Sukruth Mallesh](https://open.spotify.com/artist/51tevckKFOo3yISAc0JDh1) | [Never](https://open.spotify.com/album/5Dok14CF9Vg7F9J6NNpohN) | 3:08 | 2022-07-08 | 2023-01-13 |

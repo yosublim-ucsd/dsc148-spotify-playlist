@@ -1835,6 +1835,24 @@
     },
     {
       "album": {
+        "name": "British Dance Invasion, Vol. 1",
+        "url": "https://open.spotify.com/album/23emBcbDlbBqg2sSzXpmNN"
+      },
+      "artists": [
+        {
+          "name": "Jason L. Smith",
+          "url": "https://open.spotify.com/artist/73ynyjKxPklTyMqh11aMog"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256632,
+      "name": "Never Give Up",
+      "url": "https://open.spotify.com/track/1nlGXptwifSiUIrInybCae"
+    },
+    {
+      "album": {
         "name": "Trip The Light Fantastic (International Version)",
         "url": "https://open.spotify.com/album/5OVV3C55OWKmHHP9eY3s74"
       },

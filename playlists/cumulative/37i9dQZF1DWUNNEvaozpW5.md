@@ -4,7 +4,7 @@
 
 > Lo mejor del rock de aquí, como Robe.
 
-453 songs - 1 day 5 hr 14 min
+454 songs - 1 day 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,7 +216,7 @@
 | [Juguemos](https://open.spotify.com/track/7MnS8sUKTd3Vk1Erk2V20D) | [Simón Salinas](https://open.spotify.com/artist/5ogm4ORgtWxbH7ZJPuCiEC), [Alejo](https://open.spotify.com/artist/4pNlsYEjhnTIVPNZRlRx1h) | [Juguemos](https://open.spotify.com/album/4aO6QrQQwNWnFnY4lmZiUn) | 2:58 | 2024-08-29 | 2024-09-06 |
 | [Juliette \- Versión 2005](https://open.spotify.com/track/5J07Go5VORFPvKsN5tzcXe) | [Platero Y Tu](https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav) | [Hay mucho Rock & Roll\- Resumen](https://open.spotify.com/album/0JbOeNFwRRzFZva6WYwQnC) | 3:37 | 2022-05-26 | 2022-06-08 |
 | [Ké Más Nos Da](https://open.spotify.com/track/1JurgyjeCTcDyZErghSV0y) | [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [Estopía](https://open.spotify.com/album/2GdvFrLeOi9qkET2X7lZ02) | 3:20 | 2024-03-14 |  |
-| [La cabecita loca \- Directo Botánico](https://open.spotify.com/track/5uc29SREot10Yu5ToGX4sT) | [Rulo y la contrabanda](https://open.spotify.com/artist/0ewtf5KcA50GVkF6FBXOcs) | [La cabecita loca \- Directo Botánico](https://open.spotify.com/album/59NpAQaaPqOV3LUIwxi6sd) | 3:53 | 2024-09-05 |  |
+| [La cabecita loca \- Directo Botánico](https://open.spotify.com/track/5uc29SREot10Yu5ToGX4sT) | [Rulo y la contrabanda](https://open.spotify.com/artist/0ewtf5KcA50GVkF6FBXOcs) | [La cabecita loca \- Directo Botánico](https://open.spotify.com/album/59NpAQaaPqOV3LUIwxi6sd) | 3:53 | 2024-09-05 | 2024-09-13 |
 | [La casa por el tejado](https://open.spotify.com/track/428cFrawSqeLoyooQjAW9d) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [Lo mas lejos a tu lado](https://open.spotify.com/album/5ARI6MI0J9CnAqT9vfhd4n) | 4:27 | 2022-05-19 | 2022-09-23 |
 | [La chispa adecuada \(Bendecida 3\)](https://open.spotify.com/track/4vkSJSyPddHwL7v3l1cuRf) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Avalancha](https://open.spotify.com/album/3AikSptzlt3YvobRSMqL68) | 5:27 | 2022-07-21 | 2023-01-27 |
 | [La curva de las cosas \- Demo 1994](https://open.spotify.com/track/52hVeIcKXDdsUNL1Ywdf3p) | [Lagartija Nick](https://open.spotify.com/artist/6Ipe0i7N3mneCjxpkNifri) | [Su \(Demos y Rarezas\)](https://open.spotify.com/album/2yQoq7j051We620UNfKhSe) | 3:41 | 2024-08-01 | 2024-08-13 |
@@ -239,6 +239,7 @@
 | [La Salvación](https://open.spotify.com/track/6XY4Zaf0AoE5movPc2FfaZ) | [Arde Bogotá](https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH), [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [La Salvación](https://open.spotify.com/album/6KJVk8Zi4jj3kvj9bL1AhC) | 4:45 | 2024-04-11 |  |
 | [La senda del tiempo](https://open.spotify.com/track/6dMKB6nyxcg8hllDzPCvRc) | [Celtas Cortos](https://open.spotify.com/artist/3hIPQBm8PBt8B5aahP6cVP) | [Gente Impresentable](https://open.spotify.com/album/79gPRqLvpQu9Kc8MYNYfSD) | 4:30 | 2022-05-19 |  |
 | [La sirena varada](https://open.spotify.com/track/185xDOLU8KPZKqhUICnjRz) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Espíritu Del Vino\- Edición Especial](https://open.spotify.com/album/1HL69BuLCP5QTfz6pE0Qg3) | 4:17 | 2022-06-09 | 2023-05-05 |
+| [La Torre Picasso](https://open.spotify.com/track/2Czaw41IWZLz5JxwLueamL) | [Arde Bogotá](https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH) | [La Torre Picasso](https://open.spotify.com/album/090Jo9iBjpgrcBwezLFTYq) | 8:04 | 2024-09-12 |  |
 | [La Ultima Carta](https://open.spotify.com/track/1fdPsxYXocQKnLdB6xlgZr) | [Los Cucas](https://open.spotify.com/artist/3OWk7QjNjgERkwOAqhZeMW) | [Rock en Español](https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV) | 4:52 | 2022-06-16 | 2022-07-21 |
 | [La vereda de la puerta de atrás](https://open.spotify.com/track/4kJP8Z888wREJ8bRMWNMuk) | [Extremoduro](https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK) | [Yo, Minoría Absoluta](https://open.spotify.com/album/3FgvMxabfL5UtlcPzASEhh) | 4:03 | 2022-05-19 |  |
 | [Lady Madrid](https://open.spotify.com/track/5VJOeEGEhphuvtGZH0gbW9) | [Pereza](https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu) | [Los Nº1 De 40 Principales 2010](https://open.spotify.com/album/5PIoj4o0tZSIQjoS46BeLD) | 3:11 | 2022-06-30 | 2022-07-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,447 likes - 60 songs - 2 hr 53 min
+[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,446 likes - 60 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 | 38 | [Dress Code](https://open.spotify.com/track/0rK3a7tLRVgJBoc2DP3tIX) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Dress Code](https://open.spotify.com/album/4LvkMrD1HDDOzWHRS7GKE1) | 3:23 |
 | 39 | [Make Some Noise](https://open.spotify.com/track/3rsXPMYxQ7vl1XCcrZlzAC) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Chris Nasty](https://open.spotify.com/artist/1rGakp9mQfKaLjN7mT9ohd), [Constantin](https://open.spotify.com/artist/1bW3e15ewZUHeQkIpgXoxg) | [Make Some Noise](https://open.spotify.com/album/3mqinTVMorAEwc9TiyI6DH) | 2:58 |
 | 40 | [Lollipop \- Weird Genius Remix](https://open.spotify.com/track/5jEQdAw62xgqgq36en8NDR) | [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8), [Weird Genius](https://open.spotify.com/artist/5B4kCOhcqTywB9YwXPfFtJ) | [Lollipop \(Remixes\)](https://open.spotify.com/album/53Icv1FzHUlgIExWeU0XWB) | 2:33 |
-| 41 | [Tears on the Dance Floor](https://open.spotify.com/track/1oharO6dFvRmHKI2o65GBe) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Club Romantech \(Deluxe\)](https://open.spotify.com/album/0xmI8Oy49CerKEajekFH4I) | 2:41 |
+| 41 | [Tears on the Dance Floor](https://open.spotify.com/track/1oharO6dFvRmHKI2o65GBe) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Club Romantech \- Deluxe](https://open.spotify.com/album/0xmI8Oy49CerKEajekFH4I) | 2:41 |
 | 42 | [Naughty Girl](https://open.spotify.com/track/2BSgGFDMsopz6bHPww0UR4) | [DJ S.K.T](https://open.spotify.com/artist/05z4P0nQO00HG5WeErugd0), [James Haskell](https://open.spotify.com/artist/5ry5gHsT7l1X84yGPZeVIj) | [Naughty Girl](https://open.spotify.com/album/28CvZoubvt5xdr5wyx3ZbW) | 3:04 |
 | 43 | [Take Me](https://open.spotify.com/track/7pWLqM4gqXzUfxdk87TuX4) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Take Me](https://open.spotify.com/album/2gvZvCqYpEEhFJ22SlBFTo) | 2:37 |
 | 44 | [Fed Up](https://open.spotify.com/track/0W2FEBuoaaipzs6pMLJEbu) | [Bessey](https://open.spotify.com/artist/2Y8520emzk5wmRe9zFSVzA) | [Fed Up](https://open.spotify.com/album/3476yoDproOwL6af1dZKgH) | 2:33 |

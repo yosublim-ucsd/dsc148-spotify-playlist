@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "A new wave of rock music. Cover:  ARXX",
+  "description": "A new wave of rock music. Cover:  Gurriers",
   "name": "shockwave",
   "tracks": [
     {
@@ -779,6 +779,24 @@
     },
     {
       "album": {
+        "name": "Body",
+        "url": "https://open.spotify.com/album/4hbkzqBY4OWpiFIoDtqTYl"
+      },
+      "artists": [
+        {
+          "name": "Kynsy",
+          "url": "https://open.spotify.com/artist/1GUxDXleGCxG9ibsZjASo6"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165200,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/1lb8y5ayNhqmoyDMULKPhn"
+    },
+    {
+      "album": {
         "name": "Body In Your Basement",
         "url": "https://open.spotify.com/album/3L6YPRXTg6KSIBIbKbVcXx"
       },
@@ -977,6 +995,24 @@
     },
     {
       "album": {
+        "name": "Hysterical Strength",
+        "url": "https://open.spotify.com/album/0TIs1t3CvFQnwS6T7t2dol"
+      },
+      "artists": [
+        {
+          "name": "DEADLETTER",
+          "url": "https://open.spotify.com/artist/4MfUQ99z2kgMnl9hAwffBx"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Bygones",
+      "url": "https://open.spotify.com/track/0jkye0KLXWdmmrsJ4Uld4H"
+    },
+    {
+      "album": {
         "name": "Candy",
         "url": "https://open.spotify.com/album/69TTf5gGOmechxuZ4AEjsG"
       },
@@ -1096,7 +1132,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 206557,
       "name": "City Streets",
       "url": "https://open.spotify.com/track/6zcW5iHtkhBEuzpTLEit16"
@@ -1158,6 +1194,24 @@
       "duration_ms": 101650,
       "name": "COLD BEER",
       "url": "https://open.spotify.com/track/5pYO1LrXa4dbO2SxSliUhs"
+    },
+    {
+      "album": {
+        "name": "Come And See",
+        "url": "https://open.spotify.com/album/4DHXkFCDz154lGUlAWvLPE"
+      },
+      "artists": [
+        {
+          "name": "Gurriers",
+          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327266,
+      "name": "Come And See",
+      "url": "https://open.spotify.com/track/2XGRM9Z3mg71Gsq5saAtbP"
     },
     {
       "album": {
@@ -1698,6 +1752,42 @@
       "duration_ms": 149497,
       "name": "Dig Me",
       "url": "https://open.spotify.com/track/6nOHuPq8uLpkZVkkX7Y0wy"
+    },
+    {
+      "album": {
+        "name": "DIRTY MOUTH",
+        "url": "https://open.spotify.com/album/4zwC7qM3kltl0s3NnAgTRt"
+      },
+      "artists": [
+        {
+          "name": "UGLY CLUB",
+          "url": "https://open.spotify.com/artist/5s7VdvEojBKMO8vu2EbGmY"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153093,
+      "name": "DIRTY MOUTH",
+      "url": "https://open.spotify.com/track/2r2hIrRNneDYSDtVGEpxve"
+    },
+    {
+      "album": {
+        "name": "Discomfort",
+        "url": "https://open.spotify.com/album/30cdflP7uUg4FgjBE3ShN9"
+      },
+      "artists": [
+        {
+          "name": "bloodmoon",
+          "url": "https://open.spotify.com/artist/26hXUBuoVEiECCwpSCEYPB"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253109,
+      "name": "Discomfort",
+      "url": "https://open.spotify.com/track/1QUPT0Amnm2g7D2IpuvDlk"
     },
     {
       "album": {
@@ -2694,7 +2784,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 307200,
       "name": "Grief In Phantasia",
       "url": "https://open.spotify.com/track/5fpWCZHGKmGjeoRqOM5eQN"
@@ -4221,6 +4311,24 @@
     },
     {
       "album": {
+        "name": "Soft",
+        "url": "https://open.spotify.com/album/632m6v8Y3OStcJabOmAEYR"
+      },
+      "artists": [
+        {
+          "name": "BONES UK",
+          "url": "https://open.spotify.com/artist/16kd5X3pBMOtXdLlX5LcAw"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162541,
+      "name": "Me",
+      "url": "https://open.spotify.com/track/2g1N53haeJ7YuSHVilxUnG"
+    },
+    {
+      "album": {
         "name": "Meal Deal",
         "url": "https://open.spotify.com/album/1vxQHrNWHlXJsKIsozh2UZ"
       },
@@ -4416,6 +4524,24 @@
       "duration_ms": 174200,
       "name": "Money",
       "url": "https://open.spotify.com/track/5rlfh1uoDFgbycSkX0Dms5"
+    },
+    {
+      "album": {
+        "name": "Moral and Consequence",
+        "url": "https://open.spotify.com/album/04miOpfHNxtzJXZ0KEywz0"
+      },
+      "artists": [
+        {
+          "name": "Frost*",
+          "url": "https://open.spotify.com/artist/1Ha9FtCeuoajMbOG4Kz2d7"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 493223,
+      "name": "Moral and Consequence",
+      "url": "https://open.spotify.com/track/3cOfZRIrGGGnNdkndnmtEC"
     },
     {
       "album": {
@@ -4747,6 +4873,24 @@
     },
     {
       "album": {
+        "name": "The Stitches EP",
+        "url": "https://open.spotify.com/album/2urUIJXWhnb5Ta0mbe1COz"
+      },
+      "artists": [
+        {
+          "name": "Lakes",
+          "url": "https://open.spotify.com/artist/3FsRoxn81LEbOBSHb60T8G"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284241,
+      "name": "Nothing Surprising",
+      "url": "https://open.spotify.com/track/12yuvERBgBE36m7pAE1Vqy"
+    },
+    {
+      "album": {
         "name": "Notre Dame Made Out of Flesh",
         "url": "https://open.spotify.com/album/0UFabPWPdCbnptLEJnu5LZ"
       },
@@ -4888,6 +5032,24 @@
       "duration_ms": 156409,
       "name": "Past Vibration",
       "url": "https://open.spotify.com/track/2jLe4rXo1X8o529i7f4k7q"
+    },
+    {
+      "album": {
+        "name": "Pension Fund",
+        "url": "https://open.spotify.com/album/2nkT0bUae7ytUmFV7J4qgO"
+      },
+      "artists": [
+        {
+          "name": "Really Good Time",
+          "url": "https://open.spotify.com/artist/69sUrcdEMJrukvF581bshp"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204800,
+      "name": "Pension Fund",
+      "url": "https://open.spotify.com/track/1XkFfg0fXUZr5kqS4FvShG"
     },
     {
       "album": {
@@ -5072,6 +5234,24 @@
       "duration_ms": 183004,
       "name": "PSYCHO!",
       "url": "https://open.spotify.com/track/49AHu113tqQwWl7JGgvWFp"
+    },
+    {
+      "album": {
+        "name": "Twist Grip",
+        "url": "https://open.spotify.com/album/4tfy7UXtrANEnVc5kDmG4r"
+      },
+      "artists": [
+        {
+          "name": "Hank",
+          "url": "https://open.spotify.com/artist/0yRKzgUID7XrB6LoWCstJK"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152597,
+      "name": "Pull It Off",
+      "url": "https://open.spotify.com/track/62N7hm6eDRcSZnUJgZBY2m"
     },
     {
       "album": {
@@ -5580,6 +5760,24 @@
       "duration_ms": 195699,
       "name": "Sexless",
       "url": "https://open.spotify.com/track/5kNWUx8hTVDX7UcFjksU1F"
+    },
+    {
+      "album": {
+        "name": "shadows",
+        "url": "https://open.spotify.com/album/4bfqROwfRILYdTUzPBn6TI"
+      },
+      "artists": [
+        {
+          "name": "Dylan Flynn and the Dead Poets",
+          "url": "https://open.spotify.com/artist/38RdXLqHcghUbaMAM1EPka"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205479,
+      "name": "shadows",
+      "url": "https://open.spotify.com/track/4NysLVVrIFPdXQe78dlEhl"
     },
     {
       "album": {
@@ -6419,6 +6617,24 @@
     },
     {
       "album": {
+        "name": "The Recogniser",
+        "url": "https://open.spotify.com/album/4XuEfBwoekw0M0WR5WA2Fs"
+      },
+      "artists": [
+        {
+          "name": "Terra Twin",
+          "url": "https://open.spotify.com/artist/1APkoiZBXf5B3YqPruHouT"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206822,
+      "name": "The Recogniser",
+      "url": "https://open.spotify.com/track/417nPuKG03pek6PIuZGtae"
+    },
+    {
+      "album": {
         "name": "The Sound",
         "url": "https://open.spotify.com/album/3GJzkSgCqNsm1kiVqwo5SY"
       },
@@ -6470,6 +6686,24 @@
       "duration_ms": 220000,
       "name": "The Weight of It All",
       "url": "https://open.spotify.com/track/6E7trHVQxQsH6Ve3spYZyv"
+    },
+    {
+      "album": {
+        "name": "The Well",
+        "url": "https://open.spotify.com/album/1WFuZXzMVEZhWbpianejLD"
+      },
+      "artists": [
+        {
+          "name": "Rubber Oh",
+          "url": "https://open.spotify.com/artist/2NaWYydDrHok1ewkoZ0qTL"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283014,
+      "name": "The Well",
+      "url": "https://open.spotify.com/track/08qJtrazqaGVnGfNxjAY2e"
     },
     {
       "album": {
@@ -6744,6 +6978,24 @@
       "duration_ms": 198088,
       "name": "Universal Credit",
       "url": "https://open.spotify.com/track/272KzgZU381dedN18b7qzT"
+    },
+    {
+      "album": {
+        "name": "Violent Undertones",
+        "url": "https://open.spotify.com/album/1fdovsqNoIf0ks7pwY59wL"
+      },
+      "artists": [
+        {
+          "name": "House Warming Party",
+          "url": "https://open.spotify.com/artist/4IsEVhzCwA2zIuscpQHcrF"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164628,
+      "name": "Violent Undertones",
+      "url": "https://open.spotify.com/track/4rsqwhMYVkKY01KAPLd47b"
     },
     {
       "album": {

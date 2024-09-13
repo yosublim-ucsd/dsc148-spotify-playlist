@@ -1,12 +1,12 @@
 {
   "description": "DJ Suzy \u2b50",
-  "num_followers": 1157172,
+  "num_followers": 1158594,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuCsZQAAAADesbcmR2muHX7tBywWetuP",
+  "snapshot_id": "ZuMwygAAAACLtCppjscZZYtHO+tyIH/B",
   "tracks": [
     {
       "added_at": "2024-09-06 04:00:00",
@@ -41,36 +41,20 @@
       "url": "https://open.spotify.com/track/4j9WdbfKvyx7fBQb4qygYr"
     },
     {
-      "added_at": "2024-09-06 16:10:01",
+      "added_at": "2024-09-12 18:07:19",
       "album": {
-        "name": "The Alexander Technique",
-        "url": "https://open.spotify.com/album/5HSZsS7TGsyMvur547zjVe"
+        "name": "feel like home",
+        "url": "https://open.spotify.com/album/0BHk06yY5omfqv47S1vF4O"
       },
       "artists": [
         {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
         }
       ],
-      "duration_ms": 153637,
-      "name": "2008",
-      "url": "https://open.spotify.com/track/5S2fYAHI2zwSIc2RWcFL7V"
-    },
-    {
-      "added_at": "2024-09-04 17:09:22",
-      "album": {
-        "name": "Wristwatch",
-        "url": "https://open.spotify.com/album/5lpIqexNhzFxvwyhzTIeTF"
-      },
-      "artists": [
-        {
-          "name": "MJ Lenderman",
-          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
-        }
-      ],
-      "duration_ms": 222453,
-      "name": "Wristwatch",
-      "url": "https://open.spotify.com/track/6HsIV3KVhmY20DAyt5u0ug"
+      "duration_ms": 160320,
+      "name": "feel like home",
+      "url": "https://open.spotify.com/track/5suIFrXr4gXhpEzFNjej85"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -105,6 +89,54 @@
       "url": "https://open.spotify.com/track/2dUPhgv2YYEnbFrLZ16Ojt"
     },
     {
+      "added_at": "2024-09-12 18:07:19",
+      "album": {
+        "name": "Husk",
+        "url": "https://open.spotify.com/album/13KxV6ezroXhAW7sPEG6QS"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 204651,
+      "name": "Husk",
+      "url": "https://open.spotify.com/track/0iMSUfh4oQplV5OrmrlIbm"
+    },
+    {
+      "added_at": "2024-09-06 16:10:01",
+      "album": {
+        "name": "The Alexander Technique",
+        "url": "https://open.spotify.com/album/5HSZsS7TGsyMvur547zjVe"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 153637,
+      "name": "2008",
+      "url": "https://open.spotify.com/track/5S2fYAHI2zwSIc2RWcFL7V"
+    },
+    {
+      "added_at": "2024-09-09 03:14:43",
+      "album": {
+        "name": "Book Of Love",
+        "url": "https://open.spotify.com/album/55egvXrYk8zuETwYpwMt53"
+      },
+      "artists": [
+        {
+          "name": "Book Of Love",
+          "url": "https://open.spotify.com/artist/0ow8F3xGkmZWVulTtaiFQo"
+        }
+      ],
+      "duration_ms": 179773,
+      "name": "Boy",
+      "url": "https://open.spotify.com/track/4FQhTIpf3bnxGsCr0dHhtr"
+    },
+    {
       "added_at": "2024-09-06 15:35:35",
       "album": {
         "name": "Her",
@@ -119,6 +151,22 @@
       "duration_ms": 214086,
       "name": "Her",
       "url": "https://open.spotify.com/track/2vlkTkPqdATznKHu9gD2c1"
+    },
+    {
+      "added_at": "2024-09-04 17:09:22",
+      "album": {
+        "name": "Wristwatch",
+        "url": "https://open.spotify.com/album/5lpIqexNhzFxvwyhzTIeTF"
+      },
+      "artists": [
+        {
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+        }
+      ],
+      "duration_ms": 222453,
+      "name": "Wristwatch",
+      "url": "https://open.spotify.com/track/6HsIV3KVhmY20DAyt5u0ug"
     },
     {
       "added_at": "2024-08-29 01:24:22",
@@ -137,22 +185,6 @@
       "url": "https://open.spotify.com/track/0QW0KPBXXv67haGjbtkRRB"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Graffiti: A Mix By Roy Blair",
-        "url": "https://open.spotify.com/album/1ZjZa01h6jBETtV16xsNFK"
-      },
-      "artists": [
-        {
-          "name": "Roy Blair",
-          "url": "https://open.spotify.com/artist/6Sa4YbwEdGlfVSJMF1Lp67"
-        }
-      ],
-      "duration_ms": 224906,
-      "name": "Lightleak",
-      "url": "https://open.spotify.com/track/5JqDJQKBcPvFKyyhJKHiki"
-    },
-    {
       "added_at": "2024-08-14 18:06:24",
       "album": {
         "name": "Digital girl",
@@ -169,20 +201,68 @@
       "url": "https://open.spotify.com/track/1Qpri6iU1hsI0idf1wUTe1"
     },
     {
-      "added_at": "2024-09-09 03:14:43",
+      "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Book Of Love",
-        "url": "https://open.spotify.com/album/55egvXrYk8zuETwYpwMt53"
+        "name": "Sad Boiii",
+        "url": "https://open.spotify.com/album/52WgEY29coP4ZokwAqmYbR"
       },
       "artists": [
         {
-          "name": "Book Of Love",
-          "url": "https://open.spotify.com/artist/0ow8F3xGkmZWVulTtaiFQo"
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
         }
       ],
-      "duration_ms": 179773,
-      "name": "Boy",
-      "url": "https://open.spotify.com/track/4FQhTIpf3bnxGsCr0dHhtr"
+      "duration_ms": 166026,
+      "name": "Sad Boiii",
+      "url": "https://open.spotify.com/track/5LOUGL5zAmtxRQIJBmuUay"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Charm",
+        "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 205263,
+      "name": "Add Up My Love",
+      "url": "https://open.spotify.com/track/6FcDxtnGfsYHOcGkXN2OIG"
+    },
+    {
+      "added_at": "2024-09-12 18:19:54",
+      "album": {
+        "name": "After Laughter (Comes Tears)",
+        "url": "https://open.spotify.com/album/6wBfFrmOvBu0cyksWWlp94"
+      },
+      "artists": [
+        {
+          "name": "Wendy Rene",
+          "url": "https://open.spotify.com/artist/4ba7uNtpOq0us2C5Nx19zN"
+        }
+      ],
+      "duration_ms": 179413,
+      "name": "After Laughter (Comes Tears)",
+      "url": "https://open.spotify.com/track/1IXa70EPedlpafPL7Ood2z"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Graffiti: A Mix By Roy Blair",
+        "url": "https://open.spotify.com/album/1ZjZa01h6jBETtV16xsNFK"
+      },
+      "artists": [
+        {
+          "name": "Roy Blair",
+          "url": "https://open.spotify.com/artist/6Sa4YbwEdGlfVSJMF1Lp67"
+        }
+      ],
+      "duration_ms": 224906,
+      "name": "Lightleak",
+      "url": "https://open.spotify.com/track/5JqDJQKBcPvFKyyhJKHiki"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -231,22 +311,6 @@
       "duration_ms": 230053,
       "name": "Beaches",
       "url": "https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Sad Boiii",
-        "url": "https://open.spotify.com/album/52WgEY29coP4ZokwAqmYbR"
-      },
-      "artists": [
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        }
-      ],
-      "duration_ms": 166026,
-      "name": "Sad Boiii",
-      "url": "https://open.spotify.com/track/5LOUGL5zAmtxRQIJBmuUay"
     },
     {
       "added_at": "2024-08-30 04:10:48",
@@ -1105,22 +1169,6 @@
       "url": "https://open.spotify.com/track/6famAoizbKfoETPU9Jobz0"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Charm",
-        "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 205263,
-      "name": "Add Up My Love",
-      "url": "https://open.spotify.com/track/6FcDxtnGfsYHOcGkXN2OIG"
-    },
-    {
       "added_at": "2024-08-07 17:26:36",
       "album": {
         "name": "Joker Lips",
@@ -1593,26 +1641,6 @@
       "url": "https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs"
     },
     {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Two Fishes",
-        "url": "https://open.spotify.com/album/2PfujAW7ZEEg9T9Ug2xMmK"
-      },
-      "artists": [
-        {
-          "name": "Benja",
-          "url": "https://open.spotify.com/artist/36Bs5vvvt4AfdIvApt1Rid"
-        },
-        {
-          "name": "Glitter Party",
-          "url": "https://open.spotify.com/artist/0aap0g0NB08EJrS6FMDrdB"
-        }
-      ],
-      "duration_ms": 203015,
-      "name": "Two Fishes",
-      "url": "https://open.spotify.com/track/7qMMw7ngQEtW4Cam5GASW3"
-    },
-    {
       "added_at": "2024-06-17 15:20:02",
       "album": {
         "name": "You're the Best",
@@ -1811,22 +1839,6 @@
       "duration_ms": 338760,
       "name": "Skin Parade / Fade Into You - Live At Narcissus",
       "url": "https://open.spotify.com/track/2FsPY6AAXMDqU9EsN8Gs0t"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "empathogen",
-        "url": "https://open.spotify.com/album/5jsfwcWxZIPtF5aaWx0mlL"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 188680,
-      "name": "run!",
-      "url": "https://open.spotify.com/track/7oqUxlU0mEv4fGt1CZ727y"
     },
     {
       "added_at": "2024-05-03 04:00:00",

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4hPSreiZZ6R.md) - [plain]
 
 > 日本のSSW\(シンガーソングライター\)を特集するプレイリスト<a href="spotify:playlist:37i9dQZF1DWYhe5ISqq2D1">「ブルーにこんがらがって」</a>総まとめ！ cover: 米津玄師 2023年、プレイリストで再生されたアーティスト別SSWベスト50 ! <a href="https://twitter.com/hashtag/Spotify%E3%81%BE%E3%81%A8%E3%82%81?src=hashtag\_click">\#Spotifyまとめ</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 841 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 842 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [地球儀 \- Spinning Globe](https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [地球儀 \- Spinning Globe](https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W) | 4:33 |
 | 2 | [最低](https://open.spotify.com/track/0qmF7YXfxp15wDexlK1tTt) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [最低](https://open.spotify.com/album/4DV2vgNpPKrd4BS3p2Msb0) | 3:20 |
-| 3 | [愛の花](https://open.spotify.com/track/3BxW9zjOxwVNsJ5AxnR3eE) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [愛の花](https://open.spotify.com/album/2NmG6Y6VLcADLZ9msKxcve) | 4:02 |
+| 3 | [愛の花](https://open.spotify.com/track/3BxW9zjOxwVNsJ5AxnR3eE) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [愛の花](https://open.spotify.com/album/2NmG6Y6VLcADLZ9msKxcve) | 4:01 |
 | 4 | [鯨の子](https://open.spotify.com/track/1b1XlfWkqe6bAsi5go0Ppg) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [鯨の子](https://open.spotify.com/album/72OedMUACIRxK4gVHnPgKB) | 4:13 |
 | 5 | [夢はさめても](https://open.spotify.com/track/0W6XFy7p6rvq2VmEw5JPOh) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [TWO MOON](https://open.spotify.com/album/70LhIB7qVx1UiggKkH2XGa) | 3:42 |
 | 6 | [スーパースター](https://open.spotify.com/track/4ck63glehpxKZeFwFnQsdH) | [平理央](https://open.spotify.com/artist/5XV5kNtCkFTwVcL5rdCUln) | [スーパースター](https://open.spotify.com/album/6dEhL6bUWe5UKZn7hfDm27) | 4:27 |

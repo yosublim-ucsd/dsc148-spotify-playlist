@@ -205,6 +205,24 @@
     },
     {
       "album": {
+        "name": "Forse 1",
+        "url": "https://open.spotify.com/album/1HmOuZVCAp0Y39JaqknZ6K"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 508000,
+      "name": "Basta",
+      "url": "https://open.spotify.com/track/4QNUgONyRtjuzYpP6XI0la"
+    },
+    {
+      "album": {
         "name": "VOLUME MASSIMO",
         "url": "https://open.spotify.com/album/0eQcXzLkavsGjvi6wN81TK"
       },
@@ -402,7 +420,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 2345500,
       "name": "Concordia University (Live) [Montreal 2009]",
       "url": "https://open.spotify.com/track/5YA53lwxWqzmwa0i3UZeNT"
@@ -708,7 +726,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 266000,
       "name": "Fonus",
       "url": "https://open.spotify.com/track/4JcfBaIDwUqeIQVSw8m063"
@@ -2474,7 +2492,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-12",
+      "date_removed": null,
       "duration_ms": 302834,
       "name": "VERDE",
       "url": "https://open.spotify.com/track/5ktQ1ULTNMSHFktFzxuQcl"

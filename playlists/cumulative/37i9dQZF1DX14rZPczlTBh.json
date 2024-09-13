@@ -2185,6 +2185,24 @@
     },
     {
       "album": {
+        "name": "Red Sea (From \"Devara Part 1\")",
+        "url": "https://open.spotify.com/album/5FqTXCya4oO6is24rhWDBg"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162043,
+      "name": "Red Sea (From \"Devara Part 1\")",
+      "url": "https://open.spotify.com/track/75IywzsrO67PjCrFHnA9tb"
+    },
+    {
+      "album": {
         "name": "Mangalavaaram - OST",
         "url": "https://open.spotify.com/album/7HjFGBR2amY3WSJZXZt3o1"
       },

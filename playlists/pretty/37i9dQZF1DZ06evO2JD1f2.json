@@ -1,12 +1,12 @@
 {
-  "description": "This Is EST Gee. Los temas esenciales, todos en una lista.",
-  "num_followers": 11738,
+  "description": "This is EST Gee. The essential tracks, all in one playlist.",
+  "num_followers": 11744,
   "original_name": "This Is EST Gee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zt+MAAAAAABlOFV12s/dxD1EqzfFytgP",
+  "snapshot_id": "ZuDdgAAAAAC3GYwCOfoMNpcO1nfK6o1Q",
   "tracks": [
     {
       "added_at": null,
@@ -907,26 +907,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Survivor Of The Trenches",
-        "url": "https://open.spotify.com/album/41HpilA0zyDdHoAYhS9V13"
-      },
-      "artists": [
-        {
-          "name": "Yungeen Ace",
-          "url": "https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI"
-        },
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 143703,
-      "name": "Gang Nem (feat. EST Gee)",
-      "url": "https://open.spotify.com/track/6t4OP550372zgiAof928AR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bigger Than Life Or Death",
         "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
       },
@@ -947,6 +927,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Survivor Of The Trenches",
+        "url": "https://open.spotify.com/album/41HpilA0zyDdHoAYhS9V13"
+      },
+      "artists": [
+        {
+          "name": "Yungeen Ace",
+          "url": "https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 143703,
+      "name": "Gang Nem (feat. EST Gee)",
+      "url": "https://open.spotify.com/track/6t4OP550372zgiAof928AR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Never Felt Nun",
         "url": "https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn"
       },
@@ -959,26 +959,6 @@
       "duration_ms": 154838,
       "name": "Blood",
       "url": "https://open.spotify.com/track/2mcunJucOjUZfPzfBwXal6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hit",
-        "url": "https://open.spotify.com/album/54IQ94osvt6eRh67IE83n7"
-      },
-      "artists": [
-        {
-          "name": "Yella Beezy",
-          "url": "https://open.spotify.com/artist/7kwCkEJ384PWm0UQW3hxjS"
-        },
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 206331,
-      "name": "PIMP C (feat. EST Gee)",
-      "url": "https://open.spotify.com/track/1YjZFZwlfS2NiEh1HSWxC2"
     },
     {
       "added_at": null,
@@ -1019,6 +999,26 @@
       "duration_ms": 141633,
       "name": "Capitol 1",
       "url": "https://open.spotify.com/track/2MI2Mm4Sfnvz41hJkKZEhK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hit",
+        "url": "https://open.spotify.com/album/54IQ94osvt6eRh67IE83n7"
+      },
+      "artists": [
+        {
+          "name": "Yella Beezy",
+          "url": "https://open.spotify.com/artist/7kwCkEJ384PWm0UQW3hxjS"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 206331,
+      "name": "PIMP C (feat. EST Gee)",
+      "url": "https://open.spotify.com/track/1YjZFZwlfS2NiEh1HSWxC2"
     },
     {
       "added_at": null,

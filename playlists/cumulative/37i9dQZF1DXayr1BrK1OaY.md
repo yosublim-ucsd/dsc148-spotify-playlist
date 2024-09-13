@@ -4,7 +4,7 @@
 
 > let the dj set u free
 
-395 songs - 1 day 0 hr 12 min
+396 songs - 1 day 0 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,6 +252,7 @@
 | [not sorry](https://open.spotify.com/track/6yIBiB7kctd505SPcP2inR) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [not sorry](https://open.spotify.com/album/3L7BJtYn9iXPXqTpHLUYxn) | 3:10 | 2024-06-28 |  |
 | [Nothing Ever Changes](https://open.spotify.com/track/4aoEq1EDG90hq53DR9DT2w) | [Bryce Alakai](https://open.spotify.com/artist/6xq5N3jccoYOrN19UUbo8B) | [Nothing Ever Changes](https://open.spotify.com/album/3NnNgFaFsLgrIKLne8GAys) | 2:54 | 2024-07-10 | 2024-08-17 |
 | [Nothing Feels The Same](https://open.spotify.com/track/66P0qP5U9ymSHio61L0Buy) | [Love,Shaun](https://open.spotify.com/artist/4qvKSBd9PKGZQ7cmWdOllu) | [Nothing Feels The Same](https://open.spotify.com/album/2PBO8ZKmkZ6PU6Jlhf6o8o) | 3:01 | 2024-05-03 |  |
+| [Nothing Hurts](https://open.spotify.com/track/5ETOyLlTJHfwmhgcCl4T56) | [Tre Reynolds](https://open.spotify.com/artist/4htqxxCTnN5A4dSrw1yfP2) | [Nothing Hurts](https://open.spotify.com/album/7vh6lptAxjH1KQMlVAr7MH) | 3:09 | 2024-09-06 |  |
 | [Numb](https://open.spotify.com/track/51NQg3QIzvSwxZrrT6kEDx) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Numb](https://open.spotify.com/album/3fun2FcGeEvBkWWEPhRxYN) | 3:50 | 2021-04-16 | 2024-05-18 |
 | [Ocean](https://open.spotify.com/track/6nJ01PcbcBRG3exsMB7Myd) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI), [KAM\-BU](https://open.spotify.com/artist/2FIE0at8itKGQVx1vfQ7JF) | [Ocean](https://open.spotify.com/album/3gA71Ho6aisuhGi7AzwucT) | 3:20 | 2024-08-30 |  |
 | [Ocean Drive](https://open.spotify.com/track/4b93D55xv3YCH5mT4p6HPn) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E) | [Duality](https://open.spotify.com/album/6AlOjPdNpM41lMVSjjsrUM) | 3:26 | 2021-04-20 | 2024-07-06 |
@@ -341,7 +342,7 @@
 | [Surrender To The Feeling](https://open.spotify.com/track/4k0N1HHajVqshJQGkS9YWk) | [ayokay](https://open.spotify.com/artist/4BzCdhJTyTS3gumq9xmymb) | [Surrender To The Feeling](https://open.spotify.com/album/7KhCchcBtE9dTmbwf52LUo) | 3:27 | 2023-08-25 |  |
 | [Take Me There \- Laurence Guy Remix](https://open.spotify.com/track/1KXShsMkOqnDBaLZSU0Zrx) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA), [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Take Me There \(Laurence Guy Remix\)](https://open.spotify.com/album/5g0fotn5z4w7jLSL4akrb0) | 5:52 | 2022-07-15 | 2022-07-19 |
 | [Talk About](https://open.spotify.com/track/1olCzMxaeiQKNO64ssWVGr) | [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY), [DJ Craig Gorman](https://open.spotify.com/artist/0koQ34MqfcfCFCiMGEY400) | [Talk About](https://open.spotify.com/album/78uu9LcjPwqQEAdBSKz6mV) | 2:41 | 2021-05-14 | 2022-04-12 |
-| [Teardrops](https://open.spotify.com/track/5MgK46SeLyGkhtb81v38Ks) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8) | [Teardrops](https://open.spotify.com/album/48l2WUJtq6tAaaFHVwaLrp) | 3:41 | 2024-03-29 |  |
+| [Teardrops](https://open.spotify.com/track/5MgK46SeLyGkhtb81v38Ks) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8) | [Teardrops](https://open.spotify.com/album/48l2WUJtq6tAaaFHVwaLrp) | 3:41 | 2024-03-29 | 2024-09-13 |
 | [Tears \(with Paige Cavell\)](https://open.spotify.com/track/2NKwz3gyK8da44pR2ZbiM1) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24) | [Comfort In Chaos](https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2) | 3:56 | 2024-07-26 |  |
 | [Tears on the Dance Floor](https://open.spotify.com/track/1oharO6dFvRmHKI2o65GBe) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Club Romantech \(Deluxe\)](https://open.spotify.com/album/0xmI8Oy49CerKEajekFH4I) | 2:41 | 2023-12-08 | 2023-12-16 |
 | [Tell Me](https://open.spotify.com/track/6gOR8xTSQWEMfEJa7r52k7) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Hero Baldwin](https://open.spotify.com/artist/3F5e8tUWnf1MKKwW89rSg6) | [Tell Me \(feat\. Hero Baldwin\)](https://open.spotify.com/album/2zVu8oMOxheVKRKvRqaque) | 3:23 | 2021-10-01 | 2022-08-06 |

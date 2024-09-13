@@ -6273,6 +6273,24 @@
     },
     {
       "album": {
+        "name": "Lock n' Load",
+        "url": "https://open.spotify.com/album/7nnqBWlXiL1f2UtHgRiYW2"
+      },
+      "artists": [
+        {
+          "name": "HXI",
+          "url": "https://open.spotify.com/artist/3yRqd6IO6SamMAmnXwZKeU"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108927,
+      "name": "Lock n' Load",
+      "url": "https://open.spotify.com/track/0918PRLqxy7WJ3bNmjWySj"
+    },
+    {
+      "album": {
         "name": "Loneliness",
         "url": "https://open.spotify.com/album/5VDhzUtDHlYjrSBNn9HHSx"
       },

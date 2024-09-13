@@ -4,7 +4,7 @@
 
 > Celebrate the Savior being born by worshipping along with these Christmas songs.
 
-203 songs - 14 hr 19 min
+204 songs - 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Advent Song \(Christ Has Come\)](https://open.spotify.com/track/5SqjFvC9d9bTn3cCGOYGnt) | [Justin Tweito](https://open.spotify.com/artist/1M9vnVVffOjQGvJ3nSFVUR), [Channing Gillespie](https://open.spotify.com/artist/0PYc251XnbuIb80WbNusnf) | [Advent Song \(Christ Has Come\)](https://open.spotify.com/album/5BDdcMskJYCIcGto5Brtg4) | 3:35 | 2022-11-26 |  |
 | [All I Want For Christmas Is You](https://open.spotify.com/track/0AFjCRwQjZotkRC8qmy1OG) | [Michael Tait](https://open.spotify.com/artist/6DcdhH46Toay7xuWck4jQW) | [I Believe In Christmas](https://open.spotify.com/album/2IozXfRTYqZ9C5CXeKiPsm) | 3:50 | 2022-11-26 | 2024-07-30 |
 | [Anchor of Our Hearts](https://open.spotify.com/track/5Ay9K9Pzf69aVq3SRFPT8A) | [Victory Worship](https://open.spotify.com/artist/11s9ltUDAuDJaDJLJl0vUP) | [Here With Us](https://open.spotify.com/album/1y2mD6ErkiKM0S00QJkQPH) | 4:25 | 2022-11-26 |  |
+| [Angels \(Glory To God\)](https://open.spotify.com/track/4ASV09jmQAEeFZ3HGhVd3W) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Angels \(Glory To God\)](https://open.spotify.com/album/53ZCLnZFLXNuZuMR85fN2u) | 3:43 | 2024-09-12 |  |
 | [Angels We Have Heard On High](https://open.spotify.com/track/4ETJMclUUGGn8YDV4N4XSb) | [Kingdom Kids](https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Angels We Have Heard On High](https://open.spotify.com/album/0YTBVRxwnR5LOGksOnomhP) | 3:17 | 2022-11-26 |  |
 | [Angels We Have Heard On High](https://open.spotify.com/track/6r2uT3BQAYuNygl5BKv3v3) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Christmas](https://open.spotify.com/album/1TzI5wwnlBtglKMxIW0Bx7) | 3:41 | 2020-12-21 | 2022-11-27 |
 | [Angels We Have Heard On High](https://open.spotify.com/track/2mCGyYZna7YLFPonIziP0x) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL), [Tina Colón Williams](https://open.spotify.com/artist/2BH2hojvyoVD7WKMWU8TNl) | [Angels We Have Heard On High](https://open.spotify.com/album/5dQjOApHr2xDsYjfmmwCF2) | 3:49 | 2022-11-26 |  |
@@ -116,7 +117,7 @@
 | [Make Room \(feat\. AB Vital\-Herne\)](https://open.spotify.com/track/5trAlg2Ejz3ISXt50oVbP2) | [Writing Rounds](https://open.spotify.com/artist/5T2nw36a1BS7bxpvciTIve), [AB Vital\-Herne](https://open.spotify.com/artist/3slc5Z3v1tiBUP7VKGAa4I) | [Make Room \(feat\. AB Vital\-Herne\)](https://open.spotify.com/album/3dkSaBic2mMrkF1oSYN8sb) | 4:16 | 2023-12-15 | 2024-07-30 |
 | [MANGER OF MY HEART](https://open.spotify.com/track/0Vga9TGN4Xt6JDWSUNlhM7) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25) | [MANGER OF MY HEART](https://open.spotify.com/album/7FCAJR4cTdqMG7hoTKNbsl) | 4:09 | 2022-11-26 |  |
 | [Manger Throne](https://open.spotify.com/track/1Z0IdyRLTGeUQDincfC5DI) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Manger Throne](https://open.spotify.com/album/6hHBbeDEOg6y1N4OGgcMop) | 4:20 | 2023-11-03 | 2024-04-19 |
-| [Manger Throne](https://open.spotify.com/track/6MoWXK8zQTT0cwTpBuVklQ) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Manger Throne](https://open.spotify.com/album/6uotKRaIiLLx6f3nJ1Ap4a) | 4:20 | 2023-12-15 |  |
+| [Manger Throne](https://open.spotify.com/track/6MoWXK8zQTT0cwTpBuVklQ) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Manger Throne](https://open.spotify.com/album/6uotKRaIiLLx6f3nJ1Ap4a) | 4:20 | 2023-12-15 | 2024-09-13 |
 | [Mary & Joseph](https://open.spotify.com/track/0R1RPMrUi4pNPbI9cLlOc2) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Mary & Joseph](https://open.spotify.com/album/6pPITZmKTHNMS6kf5FV70D) | 4:05 | 2022-11-26 |  |
 | [Mary Did You Know? \- Radio Version](https://open.spotify.com/track/3msuA22zBie3qiCG7BVf9L) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV) | [Mary Did You Know? \(Radio Version\)](https://open.spotify.com/album/0I7r8bytAaTnRtjukX0MJ5) | 2:54 | 2022-12-11 |  |
 | [Mary Was The First One To Carry The Gospel](https://open.spotify.com/track/3GdoDVNfc732wPoMQ3ovBx) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [Mary Was The First One To Carry The Gospel](https://open.spotify.com/album/3OW9iY1xb1YZgAc98v0bZP) | 4:47 | 2022-11-26 |  |

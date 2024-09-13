@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "New and emerging R&B, afropop and Alternative tracks. Cover: Anabel Rose",
+  "description": "New and emerging R&B, afropop and Alternative tracks. Cover: Noon Dave ",
   "name": "Sizzlers ",
   "tracks": [
     {
@@ -428,7 +428,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 141250,
       "name": "6am",
       "url": "https://open.spotify.com/track/48dRw6vJWQRi3R0yzgOeg7"
@@ -5254,7 +5254,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 148930,
       "name": "FADE",
       "url": "https://open.spotify.com/track/2sGCOzmkJCTRzUlurmnRYW"
@@ -9500,7 +9500,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 189026,
       "name": "L'amour Tragique",
       "url": "https://open.spotify.com/track/2exMo2G1fSaHkemQLs6qFw"
@@ -10366,7 +10366,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 160026,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/3MSuBkZsG0AadmK3zv1laN"
@@ -11082,6 +11082,28 @@
       "duration_ms": 206000,
       "name": "Memory Lane",
       "url": "https://open.spotify.com/track/74JVJp8ChK3rHbtY5dity4"
+    },
+    {
+      "album": {
+        "name": "GEM",
+        "url": "https://open.spotify.com/album/0p2MabDPBRWA1B3ltJx5fg"
+      },
+      "artists": [
+        {
+          "name": "Noon Dave",
+          "url": "https://open.spotify.com/artist/7JkLbDtlEwAhFPn3o2kXAm"
+        },
+        {
+          "name": "Oladapo",
+          "url": "https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140198,
+      "name": "Merry Go (feat. Oladapo)",
+      "url": "https://open.spotify.com/track/6stUq4olb8y0AXl83jlDa2"
     },
     {
       "album": {
@@ -12348,6 +12370,24 @@
       "duration_ms": 172800,
       "name": "No One",
       "url": "https://open.spotify.com/track/6fdZJopyom99Ok7TAHVGDi"
+    },
+    {
+      "album": {
+        "name": "FALLING IN LOVE / NO PLANS",
+        "url": "https://open.spotify.com/album/10ywfC7R74WT1uZmZCZWpu"
+      },
+      "artists": [
+        {
+          "name": "Sofie",
+          "url": "https://open.spotify.com/artist/1EJcOEBbh3yXuat8rF7lR0"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189620,
+      "name": "NO PLANS",
+      "url": "https://open.spotify.com/track/0RmMKpfRZsOZkysHpupx5a"
     },
     {
       "album": {
@@ -14345,6 +14385,24 @@
     },
     {
       "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/3Ylu7lFTkR2Ieq4NFFi1y7"
+      },
+      "artists": [
+        {
+          "name": "M3lon",
+          "url": "https://open.spotify.com/artist/1VLCUqqGqOM1tL59axRUNf"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126545,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/4SCODESS6eMZQj6nje5AyV"
+    },
+    {
+      "album": {
         "name": "Soul Searching",
         "url": "https://open.spotify.com/album/4NspnWD3q3ji5ufaeTy7Lq"
       },
@@ -16010,7 +16068,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 160055,
       "name": "Shaye",
       "url": "https://open.spotify.com/track/1DHk3pzFOaVI3Z96ja1KRp"
@@ -17644,7 +17702,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 147600,
       "name": "The Best Part - Remix",
       "url": "https://open.spotify.com/track/2FXWJ4fRWlbdtk3mdwLHct"
@@ -19100,7 +19158,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 171958,
       "name": "Voices",
       "url": "https://open.spotify.com/track/6pRgAsctBATjTrSQWm7vTD"
@@ -19310,7 +19368,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 182491,
       "name": "welcome to my world",
       "url": "https://open.spotify.com/track/31Cg8s9yfeNbL10xo9KyJx"
@@ -19745,6 +19803,24 @@
     },
     {
       "album": {
+        "name": "With Open Arms",
+        "url": "https://open.spotify.com/album/2dO8pR2M34D8IR50t5yEMg"
+      },
+      "artists": [
+        {
+          "name": "Ogranya",
+          "url": "https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "With Open Arms",
+      "url": "https://open.spotify.com/track/2zMkas94Ekim0wZfGsGe23"
+    },
+    {
+      "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/45i20rWbykJztJLUNDqZSP"
       },
@@ -20008,7 +20084,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 124800,
       "name": "Yenkor",
       "url": "https://open.spotify.com/track/3koVHs3SnEsRAOI9ndlCtr"

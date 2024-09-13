@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "I brani italiani che abbiamo on repeat! \ud83d\udd01 Cover: Tananai \ud83d\udd77\ufe0f\ud83d\udd77\ufe0f",
+  "description": "I brani italiani che abbiamo on repeat! \ud83d\udd01 Cover: Olly e Angelina Mango",
   "name": "Alta Rotazione",
   "tracks": [
     {
@@ -410,7 +410,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 151071,
       "name": "Festa Totale",
       "url": "https://open.spotify.com/track/4iNEQbRbTupwcg6rq7GuuU"
@@ -629,6 +629,24 @@
     },
     {
       "album": {
+        "name": "LINGERIE",
+        "url": "https://open.spotify.com/album/18XkozvJyk6ZvqiECks6G0"
+      },
+      "artists": [
+        {
+          "name": "Petit",
+          "url": "https://open.spotify.com/artist/2miA8jrhyRoCHvWdsrPQde"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143124,
+      "name": "LINGERIE",
+      "url": "https://open.spotify.com/track/49aYVCpoDITAMF48VlFOmz"
+    },
+    {
+      "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/02yYEogWL6PjEAsraWFj91"
       },
@@ -738,7 +756,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 180762,
       "name": "Maranza",
       "url": "https://open.spotify.com/track/189QAlCQGRHlHctMkIW0ot"
@@ -901,6 +919,24 @@
     },
     {
       "album": {
+        "name": "NERO GOTICO",
+        "url": "https://open.spotify.com/album/0JiU4u8hx5PbwDgfEHYRmg"
+      },
+      "artists": [
+        {
+          "name": "CLARA",
+          "url": "https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184228,
+      "name": "NERO GOTICO",
+      "url": "https://open.spotify.com/track/6KbUvkzreQlxHvqaCaBLRs"
+    },
+    {
+      "album": {
         "name": "No Me Llames",
         "url": "https://open.spotify.com/album/049aJ3Z6SANuykZlKsZs06"
       },
@@ -974,7 +1010,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 155044,
       "name": "NOTTE CATTIVA",
       "url": "https://open.spotify.com/track/1d4YCwCYfH8coMCIgvnCPl"
@@ -1222,6 +1258,24 @@
       "duration_ms": 151800,
       "name": "REQUIEM",
       "url": "https://open.spotify.com/track/329qNAEH6BYfCFC62j158Z"
+    },
+    {
+      "album": {
+        "name": "Romantico Ma Muori",
+        "url": "https://open.spotify.com/album/0js12ciEGYY4tTcCLKgwwY"
+      },
+      "artists": [
+        {
+          "name": "Pinguini Tattici Nucleari",
+          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166330,
+      "name": "Romantico Ma Muori",
+      "url": "https://open.spotify.com/track/5lTTuESHokJHpSsEvvSR64"
     },
     {
       "album": {

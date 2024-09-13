@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Only the best rock in the world. Cover: M\u00e5neskin",
+  "description": "Only the best rock in the world. Cover: Linkin Park",
   "name": "Just Rock!",
   "tracks": [
     {
@@ -596,6 +596,24 @@
       "duration_ms": 210842,
       "name": "Atomic City",
       "url": "https://open.spotify.com/track/0Zp4PR3jLHfxcXdBdRLh7M"
+    },
+    {
+      "album": {
+        "name": "Audacious",
+        "url": "https://open.spotify.com/album/6tApXgjCNnGOeB176tJiKV"
+      },
+      "artists": [
+        {
+          "name": "Franz Ferdinand",
+          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203692,
+      "name": "Audacious",
+      "url": "https://open.spotify.com/track/53OqecARVvVCUTjL1yg0sq"
     },
     {
       "album": {
@@ -1872,7 +1890,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 197894,
       "name": "Crawling My Way Back To You",
       "url": "https://open.spotify.com/track/5RxxF9fL7SQDgHKi1LR1WS"
@@ -4426,7 +4444,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 354268,
       "name": "Hysteria",
       "url": "https://open.spotify.com/track/3Qmd2CaJzPkqZEh2Tc50Bl"
@@ -4806,6 +4824,28 @@
       "duration_ms": 195280,
       "name": "If You're Blue",
       "url": "https://open.spotify.com/track/0GcYrixlyRkIVsR0IczzDP"
+    },
+    {
+      "album": {
+        "name": "Open \u266deta v6.4",
+        "url": "https://open.spotify.com/album/4lfHkwDW53trUWcRbgbJJk"
+      },
+      "artists": [
+        {
+          "name": "Xdinary Heroes",
+          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
+        },
+        {
+          "name": "Yoon Do Hyun",
+          "url": "https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177250,
+      "name": "iNSTEAD!",
+      "url": "https://open.spotify.com/track/5OOGWXB0EWgAULLPzC27Nc"
     },
     {
       "album": {
@@ -6140,6 +6180,24 @@
       "duration_ms": 208600,
       "name": "METALI!! - feat. Tom Morello",
       "url": "https://open.spotify.com/track/3PNuq4zUgDMTqdBuGeg50m"
+    },
+    {
+      "album": {
+        "name": "Miley",
+        "url": "https://open.spotify.com/album/7BSCiN1DxXoh7ze1vGQE5y"
+      },
+      "artists": [
+        {
+          "name": "Culture Wars",
+          "url": "https://open.spotify.com/artist/0DoNSZa1R1DV69oY1djlbf"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213933,
+      "name": "Miley",
+      "url": "https://open.spotify.com/track/3XOD4lBBCFU1qea6zvdqvZ"
     },
     {
       "album": {
@@ -7876,7 +7934,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 139432,
       "name": "Running",
       "url": "https://open.spotify.com/track/2LeoKjw81T6GWO18MxvGl1"
@@ -8516,6 +8574,24 @@
       "duration_ms": 151623,
       "name": "So Long",
       "url": "https://open.spotify.com/track/38Klg16zOlVdoCcVY17pVC"
+    },
+    {
+      "album": {
+        "name": "HYDE [INSIDE]",
+        "url": "https://open.spotify.com/album/10G25Djhchlk7HbV4rNdL2"
+      },
+      "artists": [
+        {
+          "name": "HYDE",
+          "url": "https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243560,
+      "name": "SOCIAL VIRUS",
+      "url": "https://open.spotify.com/track/6SURzBzfgo2uGHuKUWiTu8"
     },
     {
       "album": {
@@ -11302,7 +11378,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 209400,
       "name": "YUU",
       "url": "https://open.spotify.com/track/3UVkdNR30A94QCfIwbCysw"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX812gZSD3Ky1.md) - [plain]
 
 > รวมเพลงสากลสุดฮิต และเพลงในกระแสตอนนี้\. The latest hits & viral tracks right now\. Cover: Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,728 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,738 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX812gZSD3Ky1.md) - [plain]
 | 64 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 |
 | 65 | [piece of mind](https://open.spotify.com/track/22GeaRbTM6J9MZLA9TqDx0) | [Cupnoodle](https://open.spotify.com/artist/2oxmVxoozyLgoIlPpz1QS2) | [piece of mind](https://open.spotify.com/album/6FiYjPbvIHjKo0pWLn8tt6) | 3:01 |
 | 66 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 |
-| 67 | [angry angry song](https://open.spotify.com/track/1MCvRQM0VwqHrcEmHdd8QG) | [wadfah](https://open.spotify.com/artist/4VLJF0kk8HDMK7VPDctSzo) | [angry angry song](https://open.spotify.com/album/1gffixbdgJrchljXRZC7h3) | 3:27 |
+| 67 | [angry angry song](https://open.spotify.com/track/1MCvRQM0VwqHrcEmHdd8QG) | [wadfah](https://open.spotify.com/artist/4VLJF0kk8HDMK7VPDctSzo) | [angry angry song](https://open.spotify.com/album/1gffixbdgJrchljXRZC7h3) | 3:25 |
 | 68 | [MILLION DOLLAR BABY](https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/2Z1gnUf3nbn6DtwZSUIH54) | 2:35 |
 | 69 | [For the Plot](https://open.spotify.com/track/01VmeaRy54TtkXcqSTgJM0) | [chaopimburabha](https://open.spotify.com/artist/72oN0LjuQweZ8i1xKM3Err) | [For the Plot](https://open.spotify.com/album/3pjhm1U08QCmheqrY5TXHk) | 3:49 |
 | 70 | [DANCING ON A GRAVEYARD](https://open.spotify.com/track/50kPsp9qv18LL7Eh3oSShy) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [DANCING ON A GRAVEYARD](https://open.spotify.com/album/48ierpG5JJ6wAVEVcpU2kU) | 3:16 |

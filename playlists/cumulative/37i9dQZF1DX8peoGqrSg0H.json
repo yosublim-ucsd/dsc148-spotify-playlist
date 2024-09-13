@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27 \u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: FOURTH",
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27 \u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: BUS",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -706,7 +706,7 @@
       ],
       "date_added": "2023-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 207857,
       "name": "DEJAYOU",
       "url": "https://open.spotify.com/track/1bgLH9NEAFkwnMwDmD8ScN"
@@ -915,6 +915,24 @@
     },
     {
       "album": {
+        "name": "GOOD BOY",
+        "url": "https://open.spotify.com/album/19NjYAU2yelvI7LkRHcjhR"
+      },
+      "artists": [
+        {
+          "name": "RedSpin",
+          "url": "https://open.spotify.com/artist/3NM9LMFT0J6AhkQXov8Ck7"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179493,
+      "name": "GOOD BOY",
+      "url": "https://open.spotify.com/track/5qFh3cdm88zbfLmo7SJV3a"
+    },
+    {
+      "album": {
         "name": "Goodbye",
         "url": "https://open.spotify.com/album/4yOyrokpt9SeI9icULlYCB"
       },
@@ -944,7 +962,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 144948,
       "name": "Goodnite",
       "url": "https://open.spotify.com/track/0WIsTmkaxJT8bKYOO1b5od"
@@ -1110,6 +1128,24 @@
       "duration_ms": 205894,
       "name": "I Got That Magic",
       "url": "https://open.spotify.com/track/1bSjf9p0HSAeZmrT2vF41w"
+    },
+    {
+      "album": {
+        "name": "I Just Wanna Know",
+        "url": "https://open.spotify.com/album/58D3a05FTQi0Eo20WgYWWO"
+      },
+      "artists": [
+        {
+          "name": "PUN",
+          "url": "https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226470,
+      "name": "I Just Wanna Know",
+      "url": "https://open.spotify.com/track/2hmelRMnKJLo5toNZ5yqZ7"
     },
     {
       "album": {
@@ -1402,6 +1438,42 @@
       "duration_ms": 253141,
       "name": "Lavender",
       "url": "https://open.spotify.com/track/3BV2YcwoVRxK4dXxyaHpZU"
+    },
+    {
+      "album": {
+        "name": "LET ME BE YOUR BOY",
+        "url": "https://open.spotify.com/album/05G3crGZszISH8RqiC103e"
+      },
+      "artists": [
+        {
+          "name": "DARUNI",
+          "url": "https://open.spotify.com/artist/5q7wcapXkAxngb2JWlrQjO"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "LET ME BE YOUR BOY",
+      "url": "https://open.spotify.com/track/0IX2Qz68voEZVhVl0c99Da"
+    },
+    {
+      "album": {
+        "name": "LIAR",
+        "url": "https://open.spotify.com/album/5ykB9BRD65FWWxEuiED21R"
+      },
+      "artists": [
+        {
+          "name": "BUS",
+          "url": "https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211475,
+      "name": "LIAR",
+      "url": "https://open.spotify.com/track/5dpJemvWkTEM3qIKSbKB82"
     },
     {
       "album": {
@@ -2360,7 +2432,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 136000,
       "name": "TOY",
       "url": "https://open.spotify.com/track/2YRHRAT0c0g4WIZjsf9clK"
@@ -3672,7 +3744,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 198058,
       "name": "\u0e04\u0e37\u0e19\u0e19\u0e35\u0e49\u0e44\u0e1b\u0e2a\u0e48\u0e07",
       "url": "https://open.spotify.com/track/2YrchiaQ6iLlOmShv8GX8f"
@@ -6572,7 +6644,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 210708,
       "name": "\u0e23\u0e31\u0e1a\u0e09\u0e31\u0e19\u0e2b\u0e19\u0e48\u0e2d\u0e22 (Pick Me Up)",
       "url": "https://open.spotify.com/track/1D5UUVv0w4t4yQ3tPIv3gg"
@@ -7402,7 +7474,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 204000,
       "name": "\u0e2b\u0e22\u0e14\u0e19\u0e49\u0e33\u0e15\u0e32 (Tears)",
       "url": "https://open.spotify.com/track/0mItaHP6FLRrRO6xrWwJc1"
@@ -9741,6 +9813,24 @@
     },
     {
       "album": {
+        "name": "\u0e42\u0e2e\u0e48\u0e07! (SUGOI) - Single",
+        "url": "https://open.spotify.com/album/2qDdLdNKIiCxvTM2XQJ8VE"
+      },
+      "artists": [
+        {
+          "name": "LYKN",
+          "url": "https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179200,
+      "name": "\u0e42\u0e2e\u0e48\u0e07! (SUGOI)",
+      "url": "https://open.spotify.com/track/2XjzXB9tMakPdN0u5PWzy1"
+    },
+    {
+      "album": {
         "name": "\u0e43\u0e01\u0e25\u0e49\u0e40\u0e01\u0e34\u0e19 (TOO CLOSE TO HANDLE) - Single",
         "url": "https://open.spotify.com/album/2ERmRtoqbG2L1jpvNXyLcj"
       },
@@ -10214,6 +10304,28 @@
       "duration_ms": 278884,
       "name": "\u0e44\u0e21\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e1f\u0e31\u0e07",
       "url": "https://open.spotify.com/track/5NHUdpYUEHL8fDLmR1qFd8"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e40\u0e18\u0e2d\u0e41\u0e25\u0e49\u0e27 - Single",
+        "url": "https://open.spotify.com/album/47Dp2S3NekrjRlJ2pO28yT"
+      },
+      "artists": [
+        {
+          "name": "MEYOU",
+          "url": "https://open.spotify.com/artist/4G5OlxtrOm9ADmu3VZgFbG"
+        },
+        {
+          "name": "SPRITE",
+          "url": "https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "\u0e44\u0e21\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e40\u0e18\u0e2d\u0e41\u0e25\u0e49\u0e27",
+      "url": "https://open.spotify.com/track/5avoDIqACMBIPebBXBQCFK"
     },
     {
       "album": {

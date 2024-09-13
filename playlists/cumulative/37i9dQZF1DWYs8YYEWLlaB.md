@@ -2,7 +2,7 @@
 
 ### [trend 2024](https://open.spotify.com/playlist/37i9dQZF1DWYs8YYEWLlaB)
 
-> viral, trend ve yükselenler\. Kapak: Shawty
+> viral, trend ve yükselenler\. Kapak: Can Toğrulca
 
 71 songs - 3 hr 34 min
 

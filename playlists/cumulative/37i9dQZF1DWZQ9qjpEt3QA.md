@@ -4,7 +4,7 @@
 
 > Cruising through a shimmering night with the current City Pop wave from Asia.
 
-152 songs - 10 hr 17 min
+153 songs - 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Terbanglah Lepas](https://open.spotify.com/track/0mLvVZ14uhcPI7dbOJ69Un) | [Aya Anjani](https://open.spotify.com/artist/3nslXNEDlUex5fcETXA5Lf), [Parlemen Pop](https://open.spotify.com/artist/4GPfmTXPBtz1eIdrdNOB3e) | [Lagu Baru Dari Masa Lalu, Vol\. 1](https://open.spotify.com/album/5b2swSWZfAc8EZ5v0VTzSi) | 4:53 | 2022-05-26 | 2023-05-19 |
 | [Terdiam](https://open.spotify.com/track/59i9WWRPt1SI7i52M9Uiqz) | [Vintonic](https://open.spotify.com/artist/656eL5tEeJqWHwvkJn5TIW), [Teza Sumendra](https://open.spotify.com/artist/2fS9sWFJcWN8wVhYbCfdC7) | [Terdiam](https://open.spotify.com/album/2uFVxEVwvGmEWAnrv6oVgu) | 3:32 | 2024-01-10 |  |
 | [The Feeling](https://open.spotify.com/track/4fGRVDUgCCAtPkZAy6E7T9) | [Fever](https://open.spotify.com/artist/78emMqMZWaWiYUGSlXwIxw) | [The Feeling](https://open.spotify.com/album/0nQTMDFUcsoxCHsSUoO2J9) | 3:49 | 2022-05-26 | 2023-05-19 |
+| [The less, The best of you](https://open.spotify.com/track/2BzRbLvWjMZy3nT4Cre7ZK) | [Secret Police](https://open.spotify.com/artist/6vuITEnveR3E7vk8pNJoy6) | [The less, The best of you](https://open.spotify.com/album/3jkE4qy8QmzYKqeLAMH2aL) | 3:28 | 2024-09-12 |  |
 | [The Midnight Flight](https://open.spotify.com/track/5dkRhWKooE7u39PHvke1i2) | [Namba](https://open.spotify.com/artist/3f6vHFzOFH0pHidakH57Gy), [Chocolate Kit](https://open.spotify.com/artist/4j5XaWuESB6OHy4Eblktqw) | [The Midnight Flight](https://open.spotify.com/album/5h87AL0dOom7DOBgmFkgCK) | 3:55 | 2022-05-26 |  |
 | [The One](https://open.spotify.com/track/3ToRoy9OQHoiz662kJvTTu) | [Purples n' Oranges](https://open.spotify.com/artist/2TmqQRA5s51zD2C4zbiqPq) | [The One](https://open.spotify.com/album/1mHIev96eFTEdby7dAoT67) | 5:18 | 2022-05-26 |  |
 | [Through the Tunnel](https://open.spotify.com/track/0yuCGyf9UYFjoxQuJqJTm3) | [Yangbans](https://open.spotify.com/artist/2YnwThp48Nrhtf7JIBCpbu) | [Through the Tunnel](https://open.spotify.com/album/1AGVQTchxNPR1BCLzK83CI) | 4:48 | 2022-05-26 |  |

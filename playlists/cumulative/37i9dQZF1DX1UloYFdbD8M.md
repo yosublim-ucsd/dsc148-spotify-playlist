@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Masala Coffee
 
-231 songs - 15 hr 32 min
+232 songs - 15 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Dooram](https://open.spotify.com/track/73JZxTtYEusW3W7sJgkvdc) | [Aravind Chandrasekhar](https://open.spotify.com/artist/5WCtTjYGnQT0zeflxOyPKw) | [Dooram](https://open.spotify.com/album/7lt4WELBY6unUEaS1S89W0) | 1:36 | 2024-02-13 | 2024-03-01 |
 | [Duniyaav](https://open.spotify.com/track/3MS0WFDWxwJ3DNG4NUewEN) | [MUSLI](https://open.spotify.com/artist/05XtLThhzw83Gcv3kFV9BO), [Vocal Dude](https://open.spotify.com/artist/6e7toXPTMHFuuQpnQgoHqI), [BSM](https://open.spotify.com/artist/2KTMQdrxtZNOFAz2jxxth3) | [Duniyaav](https://open.spotify.com/album/0FZItbmrkQxcQ2buwitxE0) | 2:17 | 2024-03-08 | 2024-05-25 |
 | [Eda Mone Kollam Poli Alle](https://open.spotify.com/track/27FIzrQe7xWSCvcfwAGAS3) | [Jay Stellar](https://open.spotify.com/artist/7xf80lxGAylsBqdiQP0mRk), [S\. Sreesanth](https://open.spotify.com/artist/4L9lPMNvEdreunDkSgARg6) | [Eda Mone Kollam Poli Alle](https://open.spotify.com/album/0LUyeasRyRHZSea1b9t14K) | 2:51 | 2024-09-04 |  |
+| [Embran \- Live](https://open.spotify.com/track/3GvKXNTlMlVUI8eCh7clLW) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Embran \- Live](https://open.spotify.com/album/2wlYJLa7aHN6e6jsnIjL82) | 3:48 | 2024-09-12 |  |
 | [En Sadhai](https://open.spotify.com/track/7zbAkNH3VPpgQlUVA60Dzn) | [6091](https://open.spotify.com/artist/0kkM6OpHU2UkpKIvPT05WZ), [Chai Lenin](https://open.spotify.com/artist/3yG7K52cBqJ7HPqrNKsAF3) | [En Sadhai](https://open.spotify.com/album/42S7j3CTmtlgfe1vYATMF1) | 2:36 | 2023-07-27 | 2024-04-04 |
 | [Enthavo](https://open.spotify.com/track/16Ijfdrq8MPcCZoky28NVP) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Enthavo](https://open.spotify.com/album/1KubOLlcV8zJ21veewmxp1) | 3:39 | 2022-12-27 | 2024-07-13 |
 | [Eppo Varuvaro + Kimkim](https://open.spotify.com/track/306LQyajNTdFu8kfzF2suV) | [Sudeep Palanad](https://open.spotify.com/artist/5gEbn8GU8GPvl5V7nnbHF3), [Remya Vinayakumar](https://open.spotify.com/artist/5r5NmEm8qG0QsBas0EKKjI) | [Eppo Varuvaro + Kimkim](https://open.spotify.com/album/0oWPcz6SiFyEUTAC1UXnHa) | 3:57 | 2023-10-06 | 2024-08-21 |

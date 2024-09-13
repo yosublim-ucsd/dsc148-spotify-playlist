@@ -27831,6 +27831,28 @@
     },
     {
       "album": {
+        "name": "Rave On This",
+        "url": "https://open.spotify.com/album/2KcSuDjU45615EYFEm58y9"
+      },
+      "artists": [
+        {
+          "name": "RSquared",
+          "url": "https://open.spotify.com/artist/3uuAdAghYzgytUdLDQUHZ2"
+        },
+        {
+          "name": "Hutton",
+          "url": "https://open.spotify.com/artist/5U8HUtUnNT9ZosZB2GnHPJ"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374000,
+      "name": "Rave On This",
+      "url": "https://open.spotify.com/track/6kHUE4lPOkrTknRuF06Lj2"
+    },
+    {
+      "album": {
         "name": "Rave W U",
         "url": "https://open.spotify.com/album/4d4kanxcEjZMbpr83g9UDs"
       },
@@ -31152,6 +31174,24 @@
       "duration_ms": 176292,
       "name": "So Dangerous",
       "url": "https://open.spotify.com/track/1x3vLt1oSARJ8UGnbwL1mz"
+    },
+    {
+      "album": {
+        "name": "So Deep",
+        "url": "https://open.spotify.com/album/6yN3CjldTpdxruxtLg0sDa"
+      },
+      "artists": [
+        {
+          "name": "Wilder (ITA)",
+          "url": "https://open.spotify.com/artist/3K3Svv7PzPEkx29PHPVwhP"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344508,
+      "name": "So Deep",
+      "url": "https://open.spotify.com/track/7vaLOu63uCBn1Rj3buCNJs"
     },
     {
       "album": {

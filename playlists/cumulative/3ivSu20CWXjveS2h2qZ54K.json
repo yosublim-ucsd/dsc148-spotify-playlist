@@ -2709,6 +2709,24 @@
     },
     {
       "album": {
+        "name": "benadryl man",
+        "url": "https://open.spotify.com/album/4F0Iq9LS3vwSBucQrkclGu"
+      },
+      "artists": [
+        {
+          "name": "Shower Curtain",
+          "url": "https://open.spotify.com/artist/04vEYZm6KQQCtUWs2hM8Dj"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168453,
+      "name": "benadryl man",
+      "url": "https://open.spotify.com/track/3XJW85wpIjnjH00AhAmYcw"
+    },
+    {
+      "album": {
         "name": "BENDECIDO",
         "url": "https://open.spotify.com/album/6cZxeYyFz94Or64pU3hbAQ"
       },
@@ -6689,6 +6707,28 @@
     },
     {
       "album": {
+        "name": "Diets",
+        "url": "https://open.spotify.com/album/63XnTjXGxxDn9jN9KRulAm"
+      },
+      "artists": [
+        {
+          "name": "Dawn Richard",
+          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
+        },
+        {
+          "name": "Spencer Zahn",
+          "url": "https://open.spotify.com/artist/7Besl9VdibJqiIjJ40fphx"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150161,
+      "name": "Diets",
+      "url": "https://open.spotify.com/track/6w7ZeeQhoeQpONVxHp5ocK"
+    },
+    {
+      "album": {
         "name": "Dilemma (feat. Sidhu Moose Wala)",
         "url": "https://open.spotify.com/album/5tnQwGyzqOgg1kQfru1d4F"
       },
@@ -7118,6 +7158,24 @@
       "duration_ms": 223904,
       "name": "Drive",
       "url": "https://open.spotify.com/track/4I95FgYJkKw8HKrEli1WY2"
+    },
+    {
+      "album": {
+        "name": "Driver",
+        "url": "https://open.spotify.com/album/7lyh2o99pWYe6T9XI8cjXg"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252266,
+      "name": "Driver",
+      "url": "https://open.spotify.com/track/3J9fDdirND6efE3VMFROGp"
     },
     {
       "album": {
@@ -8435,6 +8493,24 @@
     },
     {
       "album": {
+        "name": "feel like home",
+        "url": "https://open.spotify.com/album/0BHk06yY5omfqv47S1vF4O"
+      },
+      "artists": [
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160320,
+      "name": "feel like home",
+      "url": "https://open.spotify.com/track/5suIFrXr4gXhpEzFNjej85"
+    },
+    {
+      "album": {
         "name": "Feel Like That (feat. Bradley Nowell)",
         "url": "https://open.spotify.com/album/4Ocj71UOGUGwtn9PSH2wwY"
       },
@@ -9710,6 +9786,24 @@
       "duration_ms": 201111,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/3RhPS4Xw1qCuLz4pVyoh88"
+    },
+    {
+      "album": {
+        "name": "Goldfish",
+        "url": "https://open.spotify.com/album/6c2RbO8BoFXvMHBLk7HIyp"
+      },
+      "artists": [
+        {
+          "name": "Wand",
+          "url": "https://open.spotify.com/artist/53by9P3tpXOW1diWCI6MNu"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378313,
+      "name": "Goldfish",
+      "url": "https://open.spotify.com/track/7lOA5gvHyzJoST75xgsHvb"
     },
     {
       "album": {
@@ -11245,6 +11339,24 @@
     },
     {
       "album": {
+        "name": "Husk",
+        "url": "https://open.spotify.com/album/13KxV6ezroXhAW7sPEG6QS"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204651,
+      "name": "Husk",
+      "url": "https://open.spotify.com/track/0iMSUfh4oQplV5OrmrlIbm"
+    },
+    {
+      "album": {
         "name": "I AM",
         "url": "https://open.spotify.com/album/641i013yXfYjOJFpUi9QAf"
       },
@@ -12568,6 +12680,24 @@
       "duration_ms": 225384,
       "name": "Junebug (feat. JPEGMAFIA)",
       "url": "https://open.spotify.com/track/3E0ulIRg5neojZkEgVM2B7"
+    },
+    {
+      "album": {
+        "name": "Just A Western",
+        "url": "https://open.spotify.com/album/1vVnnj9S99ub44XnSknEXZ"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269473,
+      "name": "Just A Western",
+      "url": "https://open.spotify.com/track/69GRL4Pmz6yxw3CUkaeP2A"
     },
     {
       "album": {
@@ -14125,6 +14255,24 @@
     },
     {
       "album": {
+        "name": "Lonely Heart",
+        "url": "https://open.spotify.com/album/39aaxrgq9cZApb6ce0uxXk"
+      },
+      "artists": [
+        {
+          "name": "Neva Dinova",
+          "url": "https://open.spotify.com/artist/3L22OjRkj5Psvqmsn2Q8Ds"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209453,
+      "name": "Lonely Heart",
+      "url": "https://open.spotify.com/track/2nDZOPtQ6SBboclx0TZrYP"
+    },
+    {
+      "album": {
         "name": "Lonely is the Muse",
         "url": "https://open.spotify.com/album/7pmdgUBwR0tLeE4OQtNdNj"
       },
@@ -15225,6 +15373,32 @@
     },
     {
       "album": {
+        "name": "CLUB GRASA",
+        "url": "https://open.spotify.com/album/72bmHBiYWuPDOZ1GphH2IR"
+      },
+      "artists": [
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        },
+        {
+          "name": "Lua de Santana",
+          "url": "https://open.spotify.com/artist/1SCoi5U37R1KbEQHuKKgam"
+        },
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180480,
+      "name": "MENINA - MURA MASA REMIX (feat. Mura Masa)",
+      "url": "https://open.spotify.com/track/46xcXrJUZFMYbxnCeKTt0D"
+    },
+    {
+      "album": {
         "name": "MENINAS",
         "url": "https://open.spotify.com/album/5o8navfogGMcSbZk2Azggt"
       },
@@ -15298,6 +15472,24 @@
       "duration_ms": 134373,
       "name": "Metaverse",
       "url": "https://open.spotify.com/track/56awJyqhhuQW0p0bu1yTCo"
+    },
+    {
+      "album": {
+        "name": "METHANAL DOLL",
+        "url": "https://open.spotify.com/album/6K9BMoBuSNqO0NGeNNMM3O"
+      },
+      "artists": [
+        {
+          "name": "Pharmakon",
+          "url": "https://open.spotify.com/artist/1ix1aDOd7GSOeT9iqNh5KO"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320850,
+      "name": "METHANAL DOLL",
+      "url": "https://open.spotify.com/track/6WUcQtvI1kqS8KQ34CfB2w"
     },
     {
       "album": {
@@ -15542,6 +15734,24 @@
       "duration_ms": 211525,
       "name": "Midnight Ride",
       "url": "https://open.spotify.com/track/2BFnfCnAW6O1a1vZ8NZvkO"
+    },
+    {
+      "album": {
+        "name": "Midnight Shining",
+        "url": "https://open.spotify.com/album/3fCh7BiO2OHPrZvjhVGvNP"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212105,
+      "name": "Midnight Shining",
+      "url": "https://open.spotify.com/track/3mYsAOZUuqeqVwQw0BAdgv"
     },
     {
       "album": {
@@ -19851,6 +20061,36 @@
     },
     {
       "album": {
+        "name": "Run It",
+        "url": "https://open.spotify.com/album/2H4D7hjnfvXgvjYk8ig6CG"
+      },
+      "artists": [
+        {
+          "name": "clipping.",
+          "url": "https://open.spotify.com/artist/5HJ2kX5UTwN4Ns8fB5Rn1I"
+        },
+        {
+          "name": "Daveed Diggs",
+          "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
+        },
+        {
+          "name": "Jonathan Snipes",
+          "url": "https://open.spotify.com/artist/5v69lcKunkvGk1SimYwL0M"
+        },
+        {
+          "name": "William Hutson",
+          "url": "https://open.spotify.com/artist/709RUroHgigfxfOrPwVDAm"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298536,
+      "name": "Run It",
+      "url": "https://open.spotify.com/track/1X7Sx0RqJitRQWnZ1TvtLE"
+    },
+    {
+      "album": {
         "name": "Loveseat",
         "url": "https://open.spotify.com/album/3CLGTVOXKLB8W4eyLJO85A"
       },
@@ -22399,6 +22639,28 @@
     },
     {
       "album": {
+        "name": "Talk talk featuring troye sivan",
+        "url": "https://open.spotify.com/album/4hSYRtDjN1XbTqBKTw33sj"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173076,
+      "name": "Talk talk featuring troye sivan",
+      "url": "https://open.spotify.com/track/2LUD3874dlzeRa34Hi7ohW"
+    },
+    {
+      "album": {
         "name": "Talkie Talkie",
         "url": "https://open.spotify.com/album/0277ls6sMug6oLmLGmM8q6"
       },
@@ -23177,6 +23439,24 @@
     },
     {
       "album": {
+        "name": "The Museum",
+        "url": "https://open.spotify.com/album/4l1cDTdCU6bqdnl2yjWRvG"
+      },
+      "artists": [
+        {
+          "name": "Half Waif",
+          "url": "https://open.spotify.com/artist/28mCmWkgrWHZ4fm5c3OcIj"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "The Museum",
+      "url": "https://open.spotify.com/track/2N3nDEuwW4R43y32Gz34cs"
+    },
+    {
+      "album": {
         "name": "Beauty In Your Wake",
         "url": "https://open.spotify.com/album/3NLiwJYdhhF59hWVpPj9IF"
       },
@@ -23333,6 +23613,24 @@
     },
     {
       "album": {
+        "name": "The Waitress of St Louis'",
+        "url": "https://open.spotify.com/album/4urkioyWXc36qvDwu19u1Q"
+      },
+      "artists": [
+        {
+          "name": "Field Music",
+          "url": "https://open.spotify.com/artist/5P1tdwsQdI6z9MXXfmYRDS"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191758,
+      "name": "The Waitress of St Louis'",
+      "url": "https://open.spotify.com/track/4gq0rUqmnsPlMX1LHb3v0l"
+    },
+    {
+      "album": {
         "name": "Oh My God - That's So Me",
         "url": "https://open.spotify.com/album/3Pumb6shTeFPOskFWHClay"
       },
@@ -23474,6 +23772,24 @@
       "duration_ms": 217834,
       "name": "Things we tell ourselves",
       "url": "https://open.spotify.com/track/2DDnaa3kJ3Roaetp3rp4IH"
+    },
+    {
+      "album": {
+        "name": "This Is My Guitar",
+        "url": "https://open.spotify.com/album/5Q9S1tdheUX0p93zgggVQZ"
+      },
+      "artists": [
+        {
+          "name": "Christopher Owens",
+          "url": "https://open.spotify.com/artist/0ukgSx1gUt5rUihbNh46qy"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259211,
+      "name": "This Is My Guitar",
+      "url": "https://open.spotify.com/track/0JDPKiERDI4fZgIiEmkM21"
     },
     {
       "album": {

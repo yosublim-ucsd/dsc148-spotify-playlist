@@ -2,9 +2,9 @@
 
 ### [超級女聲](https://open.spotify.com/playlist/37i9dQZF1DX9Sg2GTUELDO)
 
-> 感受超級女聲力量。Cover:  Anna hisbbuR
+> 感受超級女聲力量。Cover:  Kiri T
 
-364 songs - 21 hr 53 min
+367 songs - 22 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,9 @@
 | [Look into my eyes](https://open.spotify.com/track/22A9vU5ZK7nuwySBtwNZFT) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Look into my eyes](https://open.spotify.com/album/34j4lPhObPKCVIgI8V0ZYD) | 2:58 | 2024-06-27 |  |
 | [Lost in Between](https://open.spotify.com/track/407HZCSxQUhks2BW0MyRzv) | [XTIE](https://open.spotify.com/artist/4CTOMcrGypQOoxVO3yFlE9), [Anniina](https://open.spotify.com/artist/44aOM1DNwPKGb0ticurbPT) | [Lost in Between](https://open.spotify.com/album/6f6a0nmZpwbKJrPeCNvv7N) | 2:43 | 2024-08-22 |  |
 | [Mad](https://open.spotify.com/track/1coCAB4dyoJQBapGAvS3Co) | [AGA](https://open.spotify.com/artist/1opXC6lrFxsiDks53X5d3Q) | [Mad](https://open.spotify.com/album/5TkvoT5zEYhBoQA7bnK7g5) | 4:11 | 2024-06-27 |  |
+| [Make my day](https://open.spotify.com/track/6rtVaAz5fMtcTAhwmi6tl5) | [Liza Wang](https://open.spotify.com/artist/1ev4Cp6tdX1PImrinbyLIl) | [Make my day](https://open.spotify.com/album/3UOL7IIB14UFldtK57R7nN) | 3:00 | 2024-09-12 |  |
 | [Matter of a Second](https://open.spotify.com/track/7nLgGo8UT0Nd8SFi2FiDLB) | [STRAYZ](https://open.spotify.com/artist/7buoV5WKCKE71FjDvBm7l3) | [Matter of a Second](https://open.spotify.com/album/4oT2r2qDnL4wua356GdBHh) | 3:03 | 2024-06-27 |  |
+| [Maybe I Have Something Just Like You?](https://open.spotify.com/track/0bSDdr8gb2MblYtr4JLPfV) | [何佩](https://open.spotify.com/artist/3aRY5Cw7kIXQlcEnmSnhTo) | [Maybe I Have Something Just Like You?](https://open.spotify.com/album/6e5cIPCAS7ndpUQxdRUIj1) | 4:00 | 2024-09-12 |  |
 | [Midnight Serenade](https://open.spotify.com/track/3B7lUZfH1GCgQcTsoWBooO) | [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [Midnight Serenade](https://open.spotify.com/album/7ygf4zrLCf8ZFTTuyhXwNj) | 2:56 | 2024-06-27 |  |
 | [Miss u Goodbye](https://open.spotify.com/track/02VC6JaIcpaAxQceTxuTn3) | [AGA](https://open.spotify.com/artist/1opXC6lrFxsiDks53X5d3Q) | [Miss u Goodbye](https://open.spotify.com/album/3e7hBrnnwqIposqklVsKCk) | 5:18 | 2024-06-27 |  |
 | [My Type](https://open.spotify.com/track/71x2nXAO1ytJ6JFFrrfFmc) | [Kerryta](https://open.spotify.com/artist/4Ks5LLyn8jdLnD7J2JKY6s) | [My Type](https://open.spotify.com/album/7yeZXWEBwsX5uo8Q8Xn84A) | 2:38 | 2024-06-27 |  |
@@ -159,6 +161,7 @@
 | [假使世界原來不像你預期](https://open.spotify.com/track/53HxUdYRCRMdzYPG0qhGUP) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [假使世界原來不像你預期](https://open.spotify.com/album/1uIlhInRyOcam9TjlEiGP8) | 4:27 | 2024-06-27 |  |
 | [假如讓你吻下去](https://open.spotify.com/track/0Qsofso1lXDJNIZbFi1bD4) | [Ivana Wong](https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S) | [假如讓你吻下去](https://open.spotify.com/album/0HRhPx2IxvKql2bOvVygna) | 4:35 | 2024-06-27 |  |
 | [偷東西的女孩](https://open.spotify.com/track/7ptKqAuDW94DRMIFxKJHal) | [Angela Hui](https://open.spotify.com/artist/33ciDO8FKA1Cvwz1hjvjGj) | [偷東西的女孩](https://open.spotify.com/album/21cpsk8V7cfhmSpQAKiisF) | 4:18 | 2024-06-27 |  |
+| [傷心的時候別說話](https://open.spotify.com/track/0XU1HkOQwgAmuvkiJwAMcp) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [傷心的時候別說話](https://open.spotify.com/album/4vDyhiJ9rvoLdkJtH8t6Iy) | 3:21 | 2024-09-12 |  |
 | [像我們這種女子 \(電影《女子監獄》主題曲\)](https://open.spotify.com/track/1ZDS8ZRWeRRbYXECjFELhp) | [Joey Yung](https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA) | [像我們這種女子 \(電影《女子監獄》主題曲\)](https://open.spotify.com/album/7Kdd5etsuHT1NuRDByBEFD) | 3:42 | 2024-06-27 |  |
 | [全死角美少女戰士](https://open.spotify.com/track/2uXTxj4B5vtsT8ieJA8U8f) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [全死角美少女戰士](https://open.spotify.com/album/4GCGAl1CFMKWvjZ2vRL256) | 3:43 | 2024-06-27 |  |
 | [兩個月亮 hirsk Remix](https://open.spotify.com/track/39DVBbBivh9J0uJxxg5AVb) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [兩個月亮 hirsk Remix](https://open.spotify.com/album/0e31QRXXBiJltLdFL2xZum) | 3:13 | 2024-06-27 |  |

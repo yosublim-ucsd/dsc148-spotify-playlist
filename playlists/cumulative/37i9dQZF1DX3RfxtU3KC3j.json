@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Gitar ve davulu konu\u015fturanlar. Kapak: Ya\u015fl\u0131 Amca",
+  "description": "Gitar ve davulu konu\u015fturanlar. Kapak: Pinhani",
   "name": "T\u00fcrk\u00e7e Rock",
   "tracks": [
     {
@@ -517,6 +517,24 @@
     },
     {
       "album": {
+        "name": "Geldik Sonuna Kadar",
+        "url": "https://open.spotify.com/album/2gHEO73NdamYaN8gPLYhTE"
+      },
+      "artists": [
+        {
+          "name": "Pinhani",
+          "url": "https://open.spotify.com/artist/4Bdqzh78prwuqwInMb555P"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232896,
+      "name": "Geldik Sonuna Kadar",
+      "url": "https://open.spotify.com/track/77Du8sUBRgjR83eothYqYI"
+    },
+    {
+      "album": {
         "name": "Gelme",
         "url": "https://open.spotify.com/album/113Rdhd0TJoywaB0QeEvLd"
       },
@@ -813,6 +831,24 @@
     },
     {
       "album": {
+        "name": "\u0130nziva",
+        "url": "https://open.spotify.com/album/19yKkXLvEJ64VaPkCJ92Of"
+      },
+      "artists": [
+        {
+          "name": "She Past Away",
+          "url": "https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260083,
+      "name": "\u0130nziva",
+      "url": "https://open.spotify.com/track/6xdWnfLHKxhJQYaZn21I21"
+    },
+    {
+      "album": {
         "name": "Hayali",
         "url": "https://open.spotify.com/album/0mtiJQ5cGF0uZBVw4euHzU"
       },
@@ -954,7 +990,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 204210,
       "name": "Ki\u015fisel Cehennemim - Rashit Greatest Shits",
       "url": "https://open.spotify.com/track/0milex1kMhCBiWhNugQOTJ"
@@ -1420,7 +1456,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 141000,
       "name": "Sevme",
       "url": "https://open.spotify.com/track/4oGecQuYpeIQH7cOGRURkG"
@@ -1785,6 +1821,24 @@
     },
     {
       "album": {
+        "name": "Yaz \u015eark\u0131s\u0131",
+        "url": "https://open.spotify.com/album/3er5EddTFMRK2mrKuEeDpZ"
+      },
+      "artists": [
+        {
+          "name": "melih",
+          "url": "https://open.spotify.com/artist/7v5y2DtJeWGa5dl6y1ntp1"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183913,
+      "name": "Yaz \u015eark\u0131s\u0131",
+      "url": "https://open.spotify.com/track/1oXMrxAVnXhqTpqOXU8hC0"
+    },
+    {
+      "album": {
         "name": "Ya\u015fayamam Bu Benle",
         "url": "https://open.spotify.com/album/1dxmUVPcMQwPFWLfAP9aRM"
       },
@@ -1850,7 +1904,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 189983,
       "name": "\u00c7ilek",
       "url": "https://open.spotify.com/track/3re3q5VMmjZvb0gzQW2Uqs"

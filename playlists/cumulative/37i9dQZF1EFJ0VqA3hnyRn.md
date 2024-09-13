@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-264 songs - 15 hr 44 min
+265 songs - 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,8 @@
 | [Secrets](https://open.spotify.com/track/5pAaXHSlxNLfS6RQBrpjm5) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Secrets](https://open.spotify.com/album/3ETzU5ugHCLSTN2xCgfoBK) | 3:46 | 2024-02-07 |  |
 | [Set](https://open.spotify.com/track/07wgGPEouPHZ2fqB4zcwRL) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Beauty Marks](https://open.spotify.com/album/5rJuc8VCoqz1L3SmUscLkw) | 2:56 | 2024-02-07 |  |
 | [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:03 | 2024-02-07 |  |
-| [Sex in the Bathroom \[Ph Electro Remix\]](https://open.spotify.com/track/72B0PF7qmqPYLCbgIzZrvQ) | [Timati](https://open.spotify.com/artist/3oLccEy7y6zTe1gCFHxuWr), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [PH Electro](https://open.spotify.com/artist/6bwJA8gugndMQxiuMsnYDV) | [Swagg \(Remix Edition\)](https://open.spotify.com/album/1yBOFhH3Sb4HgPxo8M2jRf) | 3:35 | 2024-02-07 |  |
+| [Sex in the Bathroom \[Ph Electro Remix\]](https://open.spotify.com/track/2BE8RCIL9G9XvW81tnqLlY) | [Timati](https://open.spotify.com/artist/3oLccEy7y6zTe1gCFHxuWr), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [PH Electro](https://open.spotify.com/artist/6bwJA8gugndMQxiuMsnYDV) | [Swagg \(Remix Edition\)](https://open.spotify.com/album/2N5vfKSQ6dvGGl9hB0Fpnc) | 3:35 | 2024-09-12 |  |
+| [Sex in the Bathroom \[Ph Electro Remix\]](https://open.spotify.com/track/72B0PF7qmqPYLCbgIzZrvQ) | [Timati](https://open.spotify.com/artist/3oLccEy7y6zTe1gCFHxuWr), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [PH Electro](https://open.spotify.com/artist/6bwJA8gugndMQxiuMsnYDV) | [Swagg \(Remix Edition\)](https://open.spotify.com/album/1yBOFhH3Sb4HgPxo8M2jRf) | 3:35 | 2024-02-07 | 2024-09-13 |
 | [Sexy Beaches \(feat\. Chloe Angelides\)](https://open.spotify.com/track/4QjPFQa2qSqn1GKHwb976V) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Chloe Angelides](https://open.spotify.com/artist/79A4RmgwxYGIDkqQDUHLXK) | [Globalization](https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm) | 3:57 | 2024-02-07 |  |
 | [Sexy!](https://open.spotify.com/track/0wp7AroqGCIs8Nb0bw52Jg) | [Mike Sabath](https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu), [The Moongirls](https://open.spotify.com/artist/7vqBwmmEgT8NctGLs3LxDm) | [Being Human](https://open.spotify.com/album/62zlCb4XOCVGwfRssn3TZB) | 3:05 | 2024-02-07 |  |
 | [Shake It For Me \(feat\. 2 Chainz\)](https://open.spotify.com/track/4SgBlpKCcda9D53mWod31y) | [Austin Mahone](https://open.spotify.com/artist/04abdnqPQe2N4fjztDea6z), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [For Me + You](https://open.spotify.com/album/485tVv2Eq2LvU2AzsZALgc) | 3:54 | 2024-02-07 |  |

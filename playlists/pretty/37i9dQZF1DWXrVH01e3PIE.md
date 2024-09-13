@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 
 > KHEA & C.R.O  en la casa del Trap Argentino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 628,830 likes - 105 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 628,855 likes - 105 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 | 18 | [KFC](https://open.spotify.com/track/1IoJ8K4cHdPj5J6WgBqz4t) | [Muerejoven](https://open.spotify.com/artist/2yGXs7AlyNVetlMvwsFXGk) | [dos temitas](https://open.spotify.com/album/5uIDSXxlxn8h3Zl9xngn6y) | 1:53 |
 | 19 | [No Te La Esperabas](https://open.spotify.com/track/0gh2OVWIv32zWDRK2r5dNJ) | [Mike Southside](https://open.spotify.com/artist/4jIPjVHNkAKmqfWjfwg960), [Doly Flackko](https://open.spotify.com/artist/6Mo5LUenVqXbaxeWw91lAH), [Emirsito](https://open.spotify.com/artist/7h4m4bjcwfXV0zPRRNUaiB) | [No Te La Esperabas](https://open.spotify.com/album/0iPnN8rDwDTWtVas8vzVjW) | 2:38 |
 | 20 | [Lio](https://open.spotify.com/track/2RuCt3zV2PDMzgJy4QBRUS) | [Midel](https://open.spotify.com/artist/4EcIU574ksr6mC1GMEOe0p), [Sixto Yegros](https://open.spotify.com/artist/2mddrRrlMf3ykcKyh1jlSs), [Santos Cuneo](https://open.spotify.com/artist/2FEgeZiCkW82L14BHsDXRZ) | [Lio](https://open.spotify.com/album/1kQpqzd2k62Oqa9cOM3oxX) | 3:20 |
-| 21 | [Si no me olvido](https://open.spotify.com/track/6R0xV2borWxrMLnpJg07dN) | [Mike Southside](https://open.spotify.com/artist/4jIPjVHNkAKmqfWjfwg960), [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C) | [Si no me olvido](https://open.spotify.com/album/4IpaFXotEZwFxrAjqADMgb) | 3:08 |
+| 21 | [Si no me olvido](https://open.spotify.com/track/6R0xV2borWxrMLnpJg07dN) | [Mike Southside](https://open.spotify.com/artist/4jIPjVHNkAKmqfWjfwg960), [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C), [G\-Baby](https://open.spotify.com/artist/0WryO0QvuxSJNF5BnkZzW8) | [Si no me olvido](https://open.spotify.com/album/4IpaFXotEZwFxrAjqADMgb) | 3:08 |
 | 22 | [EL INGRESO](https://open.spotify.com/track/6uqkssNW8ZbJI9PiGEk2k9) | [Falke 912](https://open.spotify.com/artist/2UGqLkLUByrbH1P7d9ThUo) | [EL INGRESO](https://open.spotify.com/album/2uljq0rdllXs8T08IgU6cB) | 2:10 |
 | 23 | [No love](https://open.spotify.com/track/2fOEFoxesWhR60GrFsZGJE) | [Big Deiv](https://open.spotify.com/artist/5c1dsiPU62AjA50VwTPfoF), [808god](https://open.spotify.com/artist/746Q2CaUN4Rfttp6D8rZc8) | [No love](https://open.spotify.com/album/0ZBhPqAqhdoAPFTbhjfNsk) | 2:20 |
 | 24 | [HBO](https://open.spotify.com/track/4jJJEZInxm8vvxmeQC1QqJ) | [PRIZE](https://open.spotify.com/artist/2Xd2pJZdm7FjIFnfuMi66R) | [CERO DOS](https://open.spotify.com/album/79jA47fqlPv46u2VwMcC0e) | 2:21 |

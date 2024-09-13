@@ -2,9 +2,9 @@
 
 ### [Couleur Pop](https://open.spotify.com/playlist/37i9dQZF1DX8HUWm4UDVR3)
 
-> La pop française annonce la couleur\. Photo : Adèle Castillon
+> La pop française annonce la couleur\. Photo : Eddy de Pretto
 
-216 songs - 10 hr 43 min
+217 songs - 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [Sauvée par la nuit](https://open.spotify.com/track/09g6qL7DNxJNeGsr85ltPl) | [Clo](https://open.spotify.com/artist/6fCkytzB2pRVxkmn3awZ1h) | [Sauvée par la nuit](https://open.spotify.com/album/1oxBuZiPXUo6kEJhreMZmr) | 2:43 | 2023-07-27 | 2023-09-15 |
 | [Scoot](https://open.spotify.com/track/0BWHEpxLHY3SwRDUhh6R8a) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Scoot](https://open.spotify.com/album/2aQtwWXSu415RZ8zgl7ll7) | 2:57 | 2024-01-11 | 2024-03-01 |
 | [Siècle](https://open.spotify.com/track/0vX8rhIZdNyTEWx462w0jx) | [Distractions](https://open.spotify.com/artist/0tjYp5aomovObVn97GZjIN) | [Siècle](https://open.spotify.com/album/7Csl8SHuvVbY8ryd7SE4V4) | 3:16 | 2024-02-01 | 2024-03-22 |
+| [Soleil \- Rouge](https://open.spotify.com/track/2RAxX7vRZweXfEss35YTya) | [Vernis Rouge](https://open.spotify.com/artist/6Miu2EYSCD74K7VzDYostC), [Taxi 404](https://open.spotify.com/artist/0k1rMwxE4WYQWR0bInEY0c) | [Soleil \- Rouge](https://open.spotify.com/album/5u1eIgnQxqCaQIWuq1PbNC) | 3:10 | 2024-09-12 |  |
 | [Solo](https://open.spotify.com/track/3RPyV4RQ1Z0SJ4YTLcZzOY) | [Solal Roubine](https://open.spotify.com/artist/6QkOiXleQySLXeqp36LxHQ) | [Solo](https://open.spotify.com/album/3XvOiZG33vA8jpKavJlYK8) | 3:08 | 2024-02-08 | 2024-04-26 |
 | [Souvenirs](https://open.spotify.com/track/6CLY3RUrhyQNVYV8J1dQIg) | [Adrian Ström](https://open.spotify.com/artist/6wx08H9LZLWjuj6gYySyzX), [Louisette](https://open.spotify.com/artist/3X0yWI2mffotaoZ6rvbFVT) | [Souvenirs](https://open.spotify.com/album/0H0JL5VvXBnu5Kg7j8jEnr) | 2:58 | 2023-11-16 | 2024-03-08 |
 | [Spoon](https://open.spotify.com/track/4lrByaHULAk1oFuKI6rOsA) | [Lancelot](https://open.spotify.com/artist/2h6HFDlZrXhfMDob23obTs) | [Spoon](https://open.spotify.com/album/4dFtbwST7q3v77LrcurwP8) | 2:59 | 2023-07-27 | 2024-03-08 |
@@ -213,7 +214,7 @@
 | [Tu me plais](https://open.spotify.com/track/2gXGAKs0YNFxl4Nsv62lWj) | [Foé](https://open.spotify.com/artist/5KRLYv4JDKx5jvR2EOdw7a) | [Tu me plais](https://open.spotify.com/album/7psZewDZnQ8KU77x5zjNoV) | 3:07 | 2024-07-11 |  |
 | [Ultra Chelou](https://open.spotify.com/track/57UBYwVmyJI6vKxU9C5toS) | [Hervé](https://open.spotify.com/artist/3mNXGOPYzxYiGxttEvJ9hx) | [Ultra Chelou](https://open.spotify.com/album/6yREVOqD9UEQb4sR4aZzge) | 2:46 | 2023-10-05 | 2024-03-29 |
 | [Un peu trop](https://open.spotify.com/track/3yhun6KOBDXbOscvC4FCiF) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights \(Edition Deluxe\)](https://open.spotify.com/album/7x5lWIns61zRNE9fThAiSD) | 2:34 | 2024-07-05 |  |
-| [urgences 911](https://open.spotify.com/track/6oPdINOiUOUMn6InuqFrXa) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [CRASH CŒUR](https://open.spotify.com/album/37b90qQXuhhAzmxQlQLWOK) | 2:57 | 2024-02-22 |  |
+| [urgences 911](https://open.spotify.com/track/6oPdINOiUOUMn6InuqFrXa) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [CRASH CŒUR](https://open.spotify.com/album/37b90qQXuhhAzmxQlQLWOK) | 2:57 | 2024-02-22 | 2024-09-13 |
 | [Vanves](https://open.spotify.com/track/5y1qlBZufBrTIIFl9BtMQn) | [Distractions](https://open.spotify.com/artist/0tjYp5aomovObVn97GZjIN) | [Vanves](https://open.spotify.com/album/0UQU72tWqIODSrzyZzE6dK) | 3:50 | 2024-01-26 | 2024-02-02 |
 | [Vent violent](https://open.spotify.com/track/08B3fIzo8bmYNlGgeZMzCM) | [Fleur Copin](https://open.spotify.com/artist/7LcMjf96A3Do8qhgjnn8Fy) | [Vent violent](https://open.spotify.com/album/2ZmUpBmqmuRf2Ev6opeojO) | 2:13 | 2023-09-28 | 2023-10-20 |
 | [Vital](https://open.spotify.com/track/6TmFRumBFH5pe47ifSk6xH) | [Tessa Galli](https://open.spotify.com/artist/2gwcCVXHaxheagUuFstHvI) | [Vital](https://open.spotify.com/album/78JSV318gx3LZyLYnbGqqP) | 2:52 | 2023-09-07 | 2023-10-06 |

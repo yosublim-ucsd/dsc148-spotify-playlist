@@ -1,6 +1,6 @@
 {
   "description": "Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers. (Cover: TAEYEON, Sam Smith(\ud0dc\uc5f0, \uc0d8 \uc2a4\ubbf8\uc2a4))",
-  "num_followers": 386614,
+  "num_followers": 386602,
   "original_name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",
   "owner": {
     "name": "Spotify",
@@ -835,26 +835,6 @@
     {
       "added_at": "2024-08-30 09:10:59",
       "album": {
-        "name": "Q&A (Feat. g0nny)",
-        "url": "https://open.spotify.com/album/4GO1ilSEyFguMadQTkSz9n"
-      },
-      "artists": [
-        {
-          "name": "h3hyeon",
-          "url": "https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz"
-        },
-        {
-          "name": "g0nny",
-          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
-        }
-      ],
-      "duration_ms": 152773,
-      "name": "Q&A (Feat. g0nny)",
-      "url": "https://open.spotify.com/track/1yefeOUbRIYxX7CNovxHMd"
-    },
-    {
-      "added_at": "2024-08-30 09:10:59",
-      "album": {
         "name": "Dinner - SM STATION",
         "url": "https://open.spotify.com/album/34DtbBknXHV8X3w4NLzAx1"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 204215,
       "name": "Dinner",
       "url": "https://open.spotify.com/track/4I48kLVde5Rwvw8MyloC4A"
+    },
+    {
+      "added_at": "2024-08-30 09:10:59",
+      "album": {
+        "name": "Q&A (Feat. g0nny)",
+        "url": "https://open.spotify.com/album/4GO1ilSEyFguMadQTkSz9n"
+      },
+      "artists": [
+        {
+          "name": "h3hyeon",
+          "url": "https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz"
+        },
+        {
+          "name": "g0nny",
+          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
+        }
+      ],
+      "duration_ms": 152773,
+      "name": "Q&A (Feat. g0nny)",
+      "url": "https://open.spotify.com/track/1yefeOUbRIYxX7CNovxHMd"
     },
     {
       "added_at": "2024-08-30 09:10:59",

@@ -1,6 +1,6 @@
 {
   "description": "Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.",
-  "num_followers": 830406,
+  "num_followers": 830426,
   "original_name": "Sol e Churrasco",
   "owner": {
     "name": "Spotify",
@@ -391,6 +391,22 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
+        "name": "Solteiro N\u00e3o Trai (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4c3skW6UyBf6V3pTvpJKhq"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        }
+      ],
+      "duration_ms": 187349,
+      "name": "Solteiro N\u00e3o Trai - Ao Vivo",
+      "url": "https://open.spotify.com/track/7oEr56KG6odStlQH0nvdyr"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
         "name": "Amor Falsificado",
         "url": "https://open.spotify.com/album/39lPbTks55YEHh4J9yZqpT"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 206804,
       "name": "Amor Falsificado",
       "url": "https://open.spotify.com/track/6WnwnMSRkihOPbuC7TN3BR"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
-        "name": "Solteiro N\u00e3o Trai (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4c3skW6UyBf6V3pTvpJKhq"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Mioto",
-          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
-        }
-      ],
-      "duration_ms": 187349,
-      "name": "Solteiro N\u00e3o Trai - Ao Vivo",
-      "url": "https://open.spotify.com/track/7oEr56KG6odStlQH0nvdyr"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -695,26 +695,6 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "SORRIA",
-        "url": "https://open.spotify.com/album/2zGGywHWKqNShqjjpbA3fs"
-      },
-      "artists": [
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        },
-        {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
-        }
-      ],
-      "duration_ms": 181122,
-      "name": "SORRIA",
-      "url": "https://open.spotify.com/track/4cKn3YjlRNowwNQi5LuZkk"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
         "name": "Hit Contagiante",
         "url": "https://open.spotify.com/album/5da8Quq01mGKZvEpBRfFZh"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 137125,
       "name": "Hit Contagiante",
       "url": "https://open.spotify.com/track/5dKesZwp6deuhEeW8F1UEi"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
+        "name": "SORRIA",
+        "url": "https://open.spotify.com/album/2zGGywHWKqNShqjjpbA3fs"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        }
+      ],
+      "duration_ms": 181122,
+      "name": "SORRIA",
+      "url": "https://open.spotify.com/track/4cKn3YjlRNowwNQi5LuZkk"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -799,26 +799,6 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "Amor da Despedida",
-        "url": "https://open.spotify.com/album/2E5eG2FJ0VAkg4rVmLlX1i"
-      },
-      "artists": [
-        {
-          "name": "Os Bar\u00f5es Da Pisadinha",
-          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
-        },
-        {
-          "name": "Fernando & Sorocaba",
-          "url": "https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8"
-        }
-      ],
-      "duration_ms": 169773,
-      "name": "Amor da Despedida",
-      "url": "https://open.spotify.com/track/0WlmiIK5qFQ4dAB4mCA4sI"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
         "name": "Some que ele vem atr\u00e1s",
         "url": "https://open.spotify.com/album/1GjVoPUvfzc1b76xa0stUI"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 194771,
       "name": "Some que ele vem atr\u00e1s",
       "url": "https://open.spotify.com/track/2qD7VoDYcrAPY0cVEfpsR5"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
+        "name": "Amor da Despedida",
+        "url": "https://open.spotify.com/album/2E5eG2FJ0VAkg4rVmLlX1i"
+      },
+      "artists": [
+        {
+          "name": "Os Bar\u00f5es Da Pisadinha",
+          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
+        },
+        {
+          "name": "Fernando & Sorocaba",
+          "url": "https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8"
+        }
+      ],
+      "duration_ms": 169773,
+      "name": "Amor da Despedida",
+      "url": "https://open.spotify.com/track/0WlmiIK5qFQ4dAB4mCA4sI"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -999,18 +999,18 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "Buteco in Boston (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1AebCIKwFh7upRidnha8yo"
+        "name": "S\u00f3 Tem Eu",
+        "url": "https://open.spotify.com/album/1s3EYRI1ZcHN1lZOqYok5e"
       },
       "artists": [
         {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
         }
       ],
-      "duration_ms": 159750,
-      "name": "N\u00e3o Me Arranha - Ao Vivo",
-      "url": "https://open.spotify.com/track/6ve9hbVnSgJ0vrsRpj18OH"
+      "duration_ms": 164307,
+      "name": "S\u00f3 Tem Eu",
+      "url": "https://open.spotify.com/track/1X0MaGErD8rcspqQs9s2m0"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "S\u00f3 Tem Eu",
-        "url": "https://open.spotify.com/album/1s3EYRI1ZcHN1lZOqYok5e"
+        "name": "Buteco in Boston (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1AebCIKwFh7upRidnha8yo"
       },
       "artists": [
         {
-          "name": "Z\u00e9 Felipe",
-          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
         }
       ],
-      "duration_ms": 164307,
-      "name": "S\u00f3 Tem Eu",
-      "url": "https://open.spotify.com/track/1X0MaGErD8rcspqQs9s2m0"
+      "duration_ms": 159750,
+      "name": "N\u00e3o Me Arranha - Ao Vivo",
+      "url": "https://open.spotify.com/track/6ve9hbVnSgJ0vrsRpj18OH"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -1099,22 +1099,22 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "Buteco in Boston (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1AebCIKwFh7upRidnha8yo"
+        "name": "Cobaia",
+        "url": "https://open.spotify.com/album/7CbERGprCKdr9eR5TNG5Rd"
       },
       "artists": [
         {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
         },
         {
-          "name": "Dendelzinho",
-          "url": "https://open.spotify.com/artist/297NNYE3ZnNvyNxHYV1KmN"
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
         }
       ],
-      "duration_ms": 175216,
-      "name": "Quebrando Protocolo - Ao Vivo",
-      "url": "https://open.spotify.com/track/4OjLi2Ji9UhVsHjqzRGCsM"
+      "duration_ms": 219442,
+      "name": "Cobaia",
+      "url": "https://open.spotify.com/track/6qDvzHbstT1Tr45okT8eN4"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -1139,26 +1139,6 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "Cobaia",
-        "url": "https://open.spotify.com/album/7CbERGprCKdr9eR5TNG5Rd"
-      },
-      "artists": [
-        {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
-        },
-        {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
-        }
-      ],
-      "duration_ms": 219442,
-      "name": "Cobaia",
-      "url": "https://open.spotify.com/track/6qDvzHbstT1Tr45okT8eN4"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
         "name": "O Baile do Nego V\u00e9io Ao Vivo Em Jurer\u00ea Internacional",
         "url": "https://open.spotify.com/album/2k6l4PXSBKKxQJkGtYswBi"
       },
@@ -1171,6 +1151,26 @@
       "duration_ms": 176123,
       "name": "Domingo - Ao Vivo",
       "url": "https://open.spotify.com/track/5LBMUgKmkheyVJa1Zn6Qoz"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
+        "name": "Buteco in Boston (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1AebCIKwFh7upRidnha8yo"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        },
+        {
+          "name": "Dendelzinho",
+          "url": "https://open.spotify.com/artist/297NNYE3ZnNvyNxHYV1KmN"
+        }
+      ],
+      "duration_ms": 175216,
+      "name": "Quebrando Protocolo - Ao Vivo",
+      "url": "https://open.spotify.com/track/4OjLi2Ji9UhVsHjqzRGCsM"
     },
     {
       "added_at": "2024-07-09 12:43:17",

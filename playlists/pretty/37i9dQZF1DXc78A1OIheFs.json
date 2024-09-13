@@ -1,32 +1,176 @@
 {
-  "description": "Discover the best in new music from Aotearoa. Cover: Marlin's Dreaming",
+  "description": "Discover the best in new music from Aotearoa. Cover: BENEE",
   "num_followers": 18549,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtERiwAAAAB4mx8HP5tooYkbuAxUW1mv",
+  "snapshot_id": "ZuLz4AAAAAD0IHcPzifWMTXy3MhdH27F",
   "tracks": [
     {
-      "added_at": "2024-08-30 00:25:47",
+      "added_at": "2024-09-12 14:00:00",
       "album": {
-        "name": "One More Chance (feat. Savage)",
-        "url": "https://open.spotify.com/album/08r5GBVNhPJMh6SmdAwUoS"
+        "name": "Cherry Pie",
+        "url": "https://open.spotify.com/album/2RZahuoTag8qddZQrNP2E1"
       },
       "artists": [
         {
-          "name": "COTERIE",
-          "url": "https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY"
-        },
-        {
-          "name": "Savage",
-          "url": "https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf"
+          "name": "Fazerdaze",
+          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
         }
       ],
-      "duration_ms": 196740,
-      "name": "One More Chance (feat. Savage)",
-      "url": "https://open.spotify.com/track/3PIJ6Ng0EOlOR4siwGnLHK"
+      "duration_ms": 249186,
+      "name": "Cherry Pie",
+      "url": "https://open.spotify.com/track/7GKQLqLE8Fsz98l7HHbR0G"
+    },
+    {
+      "added_at": "2024-09-12 14:00:00",
+      "album": {
+        "name": "The Moment",
+        "url": "https://open.spotify.com/album/41FS6HFv3K8xX66nuv3269"
+      },
+      "artists": [
+        {
+          "name": "Kimbra",
+          "url": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
+        },
+        {
+          "name": "Dawn Richard",
+          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
+        }
+      ],
+      "duration_ms": 243013,
+      "name": "The Moment",
+      "url": "https://open.spotify.com/track/2SoLQFVozStiRRyptGbkmW"
+    },
+    {
+      "added_at": "2024-09-12 14:00:00",
+      "album": {
+        "name": "Next Stop",
+        "url": "https://open.spotify.com/album/6i5wh97IMqnO8A3MIo1DA9"
+      },
+      "artists": [
+        {
+          "name": "Fat Freddy's Drop",
+          "url": "https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS"
+        },
+        {
+          "name": "MC Slave",
+          "url": "https://open.spotify.com/artist/1C5mWM86XaAjaX5fiNm5O1"
+        }
+      ],
+      "duration_ms": 371200,
+      "name": "Next Stop",
+      "url": "https://open.spotify.com/track/1THi2wFMXol0p3lOpX9fZd"
+    },
+    {
+      "added_at": "2024-09-12 14:00:00",
+      "album": {
+        "name": "MELLOW CALM & CHILL",
+        "url": "https://open.spotify.com/album/2MwVj2j9jFYmUk2MN14BRe"
+      },
+      "artists": [
+        {
+          "name": "MELODOWNZ",
+          "url": "https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H"
+        },
+        {
+          "name": "Hyan",
+          "url": "https://open.spotify.com/artist/6vuDNxdLvvXkOoAL9rZJBU"
+        },
+        {
+          "name": "rede.",
+          "url": "https://open.spotify.com/artist/1YZwoutBQnxaznZsPcTonZ"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "MELLOW CALM & CHILL",
+      "url": "https://open.spotify.com/track/74AQtgxo3NLWoV9ukri8LU"
+    },
+    {
+      "added_at": "2024-09-12 14:00:00",
+      "album": {
+        "name": "Sunday Stitches",
+        "url": "https://open.spotify.com/album/5y9kaAlRXK6rvPxLP6y7gK"
+      },
+      "artists": [
+        {
+          "name": "Daily J",
+          "url": "https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs"
+        }
+      ],
+      "duration_ms": 183135,
+      "name": "Sunday Stitches",
+      "url": "https://open.spotify.com/track/3M176knH0qYJi7shSNFFBa"
+    },
+    {
+      "added_at": "2024-09-12 14:00:00",
+      "album": {
+        "name": "Sad Boiii",
+        "url": "https://open.spotify.com/album/52WgEY29coP4ZokwAqmYbR"
+      },
+      "artists": [
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "duration_ms": 166026,
+      "name": "Sad Boiii",
+      "url": "https://open.spotify.com/track/5LOUGL5zAmtxRQIJBmuUay"
+    },
+    {
+      "added_at": "2024-09-12 14:00:00",
+      "album": {
+        "name": "Not This Time",
+        "url": "https://open.spotify.com/album/5EW8gVkac63mqb7X8qwqJe"
+      },
+      "artists": [
+        {
+          "name": "Georgia Gets By",
+          "url": "https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9"
+        }
+      ],
+      "duration_ms": 201702,
+      "name": "Not This Time",
+      "url": "https://open.spotify.com/track/325Y0u0dmETOSwgdM4fLAj"
+    },
+    {
+      "added_at": "2024-09-12 14:00:00",
+      "album": {
+        "name": "Changed Unchained",
+        "url": "https://open.spotify.com/album/4FJ5dbXgxv6KlC5ISy9Ahd"
+      },
+      "artists": [
+        {
+          "name": "Nadia Reid",
+          "url": "https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn"
+        }
+      ],
+      "duration_ms": 224880,
+      "name": "Changed Unchained",
+      "url": "https://open.spotify.com/track/024mAy6lQ1jk4QiPFiK5Hc"
+    },
+    {
+      "added_at": "2024-09-12 14:00:00",
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/2TpzrA8WwmRSYYu1v9drok"
+      },
+      "artists": [
+        {
+          "name": "SACHI",
+          "url": "https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR"
+        },
+        {
+          "name": "Kyla Imani",
+          "url": "https://open.spotify.com/artist/6FKeUu8U16w2fzH1vLxPkg"
+        }
+      ],
+      "duration_ms": 172573,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/4V7LChILRB41wjxXAoTYtI"
     },
     {
       "added_at": "2024-08-30 00:25:47",
@@ -59,6 +203,42 @@
       "duration_ms": 201133,
       "name": "So Cold",
       "url": "https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv"
+    },
+    {
+      "added_at": "2024-09-12 14:00:00",
+      "album": {
+        "name": "She's Cruel",
+        "url": "https://open.spotify.com/album/6DITEsAS2SDRhq62gQSgTX"
+      },
+      "artists": [
+        {
+          "name": "Molly Rocket",
+          "url": "https://open.spotify.com/artist/2sjRgLc2ZNNpcI41UGWPCS"
+        }
+      ],
+      "duration_ms": 201208,
+      "name": "She's Cruel",
+      "url": "https://open.spotify.com/track/42ZVLDH2wgSPrds62KoDN7"
+    },
+    {
+      "added_at": "2024-08-30 00:25:47",
+      "album": {
+        "name": "One More Chance (feat. Savage)",
+        "url": "https://open.spotify.com/album/08r5GBVNhPJMh6SmdAwUoS"
+      },
+      "artists": [
+        {
+          "name": "COTERIE",
+          "url": "https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY"
+        },
+        {
+          "name": "Savage",
+          "url": "https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf"
+        }
+      ],
+      "duration_ms": 196740,
+      "name": "One More Chance (feat. Savage)",
+      "url": "https://open.spotify.com/track/3PIJ6Ng0EOlOR4siwGnLHK"
     },
     {
       "added_at": "2024-08-30 00:25:47",

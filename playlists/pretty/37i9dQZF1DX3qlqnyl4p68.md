@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qlqnyl4p68.md) - [plain]
 
 > Every family has its demons\. Curated by Lee Daniels, Cover: The Deliverance
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,944 likes - 38 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,982 likes - 38 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [I Know Who Holds Tomorrow](https://open.spotify.com/track/6Onzje97jHqStYroFzcccP) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [I Know Who Holds Tomorrow](https://open.spotify.com/album/7cXRhvvE90R1HWLyeLLTqv) | 3:20 |
+| 1 | [I Know Who Holds Tomorrow \(From "The Deliverance"\)](https://open.spotify.com/track/6Onzje97jHqStYroFzcccP) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [I Know Who Holds Tomorrow \(From "The Deliverance"\)](https://open.spotify.com/album/7cXRhvvE90R1HWLyeLLTqv) | 3:20 |
 | 2 | [It's You That I Need](https://open.spotify.com/track/51x3PIRdB4V2eNHesIXaxZ) | [Enchantment](https://open.spotify.com/artist/6f8IcmSWG7IH8nc8u6vjnt) | [If You're Ready...The Best Of Enchantment](https://open.spotify.com/album/3B76lgmaPPmzM8OMvHcrAn) | 6:00 |
 | 3 | [Hush, Hush \- Original](https://open.spotify.com/track/45NBEzEMYy2opYywaDZ7SP) | [Brother James Anderson](https://open.spotify.com/artist/6DWOnH9S3EltQk2nzYRtB1) | [Brother James Anderson's What Can I Do?](https://open.spotify.com/album/0zQdvDd3e0FoyNoXVu75SK) | 3:26 |
 | 4 | [Love Can Change It](https://open.spotify.com/track/3f0V9NjUxPa2forcAHt0zG) | [Frankie Knuckles](https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc), [Adeva](https://open.spotify.com/artist/3zSxZFUKZEYmEpHkwZKXzQ) | [Welcome To The Real World](https://open.spotify.com/album/1NJoamn2bFWoVbJKixjFpv) | 5:28 |

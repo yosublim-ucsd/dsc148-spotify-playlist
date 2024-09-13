@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Discover the best in new music from Aotearoa. Cover: Marlin's Dreaming",
+  "description": "Discover the best in new music from Aotearoa. Cover: BENEE",
   "name": "The Local List Aotearoa",
   "tracks": [
     {
@@ -389,6 +389,42 @@
     },
     {
       "album": {
+        "name": "Changed Unchained",
+        "url": "https://open.spotify.com/album/4FJ5dbXgxv6KlC5ISy9Ahd"
+      },
+      "artists": [
+        {
+          "name": "Nadia Reid",
+          "url": "https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224880,
+      "name": "Changed Unchained",
+      "url": "https://open.spotify.com/track/024mAy6lQ1jk4QiPFiK5Hc"
+    },
+    {
+      "album": {
+        "name": "Cherry Pie",
+        "url": "https://open.spotify.com/album/2RZahuoTag8qddZQrNP2E1"
+      },
+      "artists": [
+        {
+          "name": "Fazerdaze",
+          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249186,
+      "name": "Cherry Pie",
+      "url": "https://open.spotify.com/track/7GKQLqLE8Fsz98l7HHbR0G"
+    },
+    {
+      "album": {
         "name": "Circling the City",
         "url": "https://open.spotify.com/album/6sGfZDOIcyYMQRdXdFbytn"
       },
@@ -476,6 +512,28 @@
       "duration_ms": 164307,
       "name": "Country Plaines",
       "url": "https://open.spotify.com/track/6tRhpEikGam1EEI5RTObqQ"
+    },
+    {
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/2TpzrA8WwmRSYYu1v9drok"
+      },
+      "artists": [
+        {
+          "name": "SACHI",
+          "url": "https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR"
+        },
+        {
+          "name": "Kyla Imani",
+          "url": "https://open.spotify.com/artist/6FKeUu8U16w2fzH1vLxPkg"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172573,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/4V7LChILRB41wjxXAoTYtI"
     },
     {
       "album": {
@@ -1761,6 +1819,32 @@
     },
     {
       "album": {
+        "name": "MELLOW CALM & CHILL",
+        "url": "https://open.spotify.com/album/2MwVj2j9jFYmUk2MN14BRe"
+      },
+      "artists": [
+        {
+          "name": "MELODOWNZ",
+          "url": "https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H"
+        },
+        {
+          "name": "Hyan",
+          "url": "https://open.spotify.com/artist/6vuDNxdLvvXkOoAL9rZJBU"
+        },
+        {
+          "name": "rede.",
+          "url": "https://open.spotify.com/artist/1YZwoutBQnxaznZsPcTonZ"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "MELLOW CALM & CHILL",
+      "url": "https://open.spotify.com/track/74AQtgxo3NLWoV9ukri8LU"
+    },
+    {
+      "album": {
         "name": "Memories (feat. Mikeyy)",
         "url": "https://open.spotify.com/album/3bel1jbtwgvU3Yv5b9PSkl"
       },
@@ -1963,6 +2047,28 @@
     },
     {
       "album": {
+        "name": "Next Stop",
+        "url": "https://open.spotify.com/album/6i5wh97IMqnO8A3MIo1DA9"
+      },
+      "artists": [
+        {
+          "name": "Fat Freddy's Drop",
+          "url": "https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS"
+        },
+        {
+          "name": "MC Slave",
+          "url": "https://open.spotify.com/artist/1C5mWM86XaAjaX5fiNm5O1"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371200,
+      "name": "Next Stop",
+      "url": "https://open.spotify.com/track/1THi2wFMXol0p3lOpX9fZd"
+    },
+    {
+      "album": {
         "name": "Night Like This",
         "url": "https://open.spotify.com/album/4wI3VU8L0pgcKBFi3Xa0E3"
       },
@@ -1978,6 +2084,24 @@
       "duration_ms": 179419,
       "name": "Night Like This",
       "url": "https://open.spotify.com/track/6qaRzZs9xEN9BpJ9qxmaKh"
+    },
+    {
+      "album": {
+        "name": "Not This Time",
+        "url": "https://open.spotify.com/album/5EW8gVkac63mqb7X8qwqJe"
+      },
+      "artists": [
+        {
+          "name": "Georgia Gets By",
+          "url": "https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201702,
+      "name": "Not This Time",
+      "url": "https://open.spotify.com/track/325Y0u0dmETOSwgdM4fLAj"
     },
     {
       "album": {
@@ -2311,6 +2435,24 @@
     },
     {
       "album": {
+        "name": "Sad Boiii",
+        "url": "https://open.spotify.com/album/52WgEY29coP4ZokwAqmYbR"
+      },
+      "artists": [
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166026,
+      "name": "Sad Boiii",
+      "url": "https://open.spotify.com/track/5LOUGL5zAmtxRQIJBmuUay"
+    },
+    {
+      "album": {
         "name": "Screaming In Your Driveway",
         "url": "https://open.spotify.com/album/3dBrKXxoVbd4nxPH5p6qv5"
       },
@@ -2356,6 +2498,24 @@
       "duration_ms": 141812,
       "name": "See No Evil",
       "url": "https://open.spotify.com/track/6yaV16TOXIqxQaa14dZ7Sk"
+    },
+    {
+      "album": {
+        "name": "She's Cruel",
+        "url": "https://open.spotify.com/album/6DITEsAS2SDRhq62gQSgTX"
+      },
+      "artists": [
+        {
+          "name": "Molly Rocket",
+          "url": "https://open.spotify.com/artist/2sjRgLc2ZNNpcI41UGWPCS"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201208,
+      "name": "She's Cruel",
+      "url": "https://open.spotify.com/track/42ZVLDH2wgSPrds62KoDN7"
     },
     {
       "album": {
@@ -2521,6 +2681,24 @@
     },
     {
       "album": {
+        "name": "Sunday Stitches",
+        "url": "https://open.spotify.com/album/5y9kaAlRXK6rvPxLP6y7gK"
+      },
+      "artists": [
+        {
+          "name": "Daily J",
+          "url": "https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183135,
+      "name": "Sunday Stitches",
+      "url": "https://open.spotify.com/track/3M176knH0qYJi7shSNFFBa"
+    },
+    {
+      "album": {
         "name": "Blue Dreams",
         "url": "https://open.spotify.com/album/5lljRxy7hHRhUzXOSoNU29"
       },
@@ -2616,6 +2794,28 @@
       "duration_ms": 190734,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/2E9n355lbsJgJg6RuZXL3a"
+    },
+    {
+      "album": {
+        "name": "The Moment",
+        "url": "https://open.spotify.com/album/41FS6HFv3K8xX66nuv3269"
+      },
+      "artists": [
+        {
+          "name": "Kimbra",
+          "url": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
+        },
+        {
+          "name": "Dawn Richard",
+          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243013,
+      "name": "The Moment",
+      "url": "https://open.spotify.com/track/2SoLQFVozStiRRyptGbkmW"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "This Is Edicion Especial. Los temas esenciales, todos en una lista.",
+  "description": "This is Edicion Especial. The essential tracks, all in one playlist.",
   "name": "This Is Edicion Especial",
   "tracks": [
     {
@@ -747,6 +747,24 @@
     },
     {
       "album": {
+        "name": "Mejor Para Los Dos",
+        "url": "https://open.spotify.com/album/3G8jIUQyVMtgpcm2w7gAch"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158433,
+      "name": "Mejor Para Los 2",
+      "url": "https://open.spotify.com/track/6pNCkJBoyHMDdLp5BQqa1i"
+    },
+    {
+      "album": {
         "name": "Mi Amor Por Ti",
         "url": "https://open.spotify.com/album/5r1ngyoVvPgfgYeUl5nZ8K"
       },
@@ -1022,7 +1040,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 203480,
       "name": "Recuerdos Del 1",
       "url": "https://open.spotify.com/track/0YHRIpM2f1sxJEihzeLQeL"

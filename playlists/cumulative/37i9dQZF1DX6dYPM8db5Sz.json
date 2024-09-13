@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The best Indie sounds from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/60oeRht0NXwELSxJNhQw7v?si=wBqRig7eQiGfN35dPviv7g\">December Streets</a>",
+  "description": "The best Indie sounds from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g?si=fpUT3NygSGya_bjVTuWRoQ\">Jeremy Loops</a>",
   "name": "Indie GO",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 207429,
       "name": "1st of the year",
       "url": "https://open.spotify.com/track/3QlBomUBtNTEnNrQeMTPD0"
@@ -5179,6 +5179,24 @@
     },
     {
       "album": {
+        "name": "Go Again",
+        "url": "https://open.spotify.com/album/3LPuPizj5umG0kBu3dse5a"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Loops",
+          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157411,
+      "name": "Go Again",
+      "url": "https://open.spotify.com/track/6e5V175wyWLhOyLoM7E4WW"
+    },
+    {
+      "album": {
         "name": "Revel",
         "url": "https://open.spotify.com/album/6T2vXhcPF7ZFxJl5rSlelZ"
       },
@@ -7904,6 +7922,24 @@
       "duration_ms": 189426,
       "name": "Little Lifetime",
       "url": "https://open.spotify.com/track/1P1D1Oqq0cLfEniVHzBIsk"
+    },
+    {
+      "album": {
+        "name": "Living For The Moment",
+        "url": "https://open.spotify.com/album/1esyrBVXFuhcdAJgmOwWBf"
+      },
+      "artists": [
+        {
+          "name": "Zach Leopard",
+          "url": "https://open.spotify.com/artist/32BTikkFQuadVcD1LHVgWd"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124663,
+      "name": "Living For The Moment",
+      "url": "https://open.spotify.com/track/2PuNqXqbVtxzcLAW2iwNVy"
     },
     {
       "album": {
@@ -11646,7 +11682,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 164000,
       "name": "Seed of a Seed",
       "url": "https://open.spotify.com/track/2dLVXnwdnstcHIRTJMgqsx"

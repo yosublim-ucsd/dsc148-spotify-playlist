@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: .Feast
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,329,036 likes - 91 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,329,331 likes - 91 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

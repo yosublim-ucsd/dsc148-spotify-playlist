@@ -1463,6 +1463,24 @@
     },
     {
       "album": {
+        "name": "Insecure",
+        "url": "https://open.spotify.com/album/3LcNQMWKN5P2KH8dfSM4Vc"
+      },
+      "artists": [
+        {
+          "name": "Barinder Dhapai",
+          "url": "https://open.spotify.com/artist/7unAVMZwYSIAChXVALfZ9B"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167529,
+      "name": "Insecure",
+      "url": "https://open.spotify.com/track/6iD7lRJbxkZrmAMglhqzaD"
+    },
+    {
+      "album": {
         "name": "Iran",
         "url": "https://open.spotify.com/album/3OD1CRqD1M3ATI71zxcnmQ"
       },
@@ -2718,7 +2736,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 132978,
       "name": "SWITCHIN' LANES",
       "url": "https://open.spotify.com/track/0o6IjbwmqxiDZPE5TvNKoJ"

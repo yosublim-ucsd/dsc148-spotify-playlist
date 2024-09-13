@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KAa52.md) - [plain]
 
 ### [This Is Justin Timberlake](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1KAa52)
 
-> This is Justin Timberlake\. The essential tracks, all in one playlist.
+> This Is Justin Timberlake\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 637,272 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 637,409 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KAa52.md) - [plain]
 | 46 | [Motherlover](https://open.spotify.com/track/2zpQ30BpR6teeCeivQoo5p) | [The Lonely Island](https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Turtleneck & Chain \(Explicit Version\)](https://open.spotify.com/album/4IMJWEfkidwtzLanLMAtLP) | 2:49 |
 | 47 | [Keep Going Up \(with Nelly Furtado & Justin Timberlake\)](https://open.spotify.com/track/0MBRKCgePXewM1iBQiPn7Q) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Keep Going Up](https://open.spotify.com/album/0leO4lM0iYTks8dy039b7c) | 2:54 |
 | 48 | [Flame](https://open.spotify.com/track/23OGhdXxQUyaBiWJhBV0zc) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Everything I Thought It Was](https://open.spotify.com/album/716B2iWcwoKolCXrqwLGQh) | 5:41 |
-| 49 | [Trolls 2 Many Hits Mashup](https://open.spotify.com/track/74PmqgIU0EU60QEgrjJIIk) | [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [James Corden](https://open.spotify.com/artist/5E17eRqSfn08FsmvNCds0P), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [The Pop Trolls](https://open.spotify.com/artist/2ossO7Sa8OJ0D0PQjSF1cQ) | [TROLLS World Tour \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/28Orm6S3LezppbfYdgA3aI) | 1:01 |
+| 49 | [Just Sing](https://open.spotify.com/track/0ZjmrnH5Uh4WD1L29NTcUs) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Kenan Thompson](https://open.spotify.com/artist/712ZtYak5pWK9RJjcyxdKl) | [TROLLS World Tour \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1jOcKmWE1mUEnyt6JdLTr8) | 3:41 |
 | 50 | [What U Workin' With?](https://open.spotify.com/track/3IxRWXccxjVsUjyQZnKqYa) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [TROLLS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7) | 3:12 |
 
-Snapshot ID: `Zt+MAAAAAAB8hgvhN7sQe7TbGTMOaeh5`
+Snapshot ID: `ZuDdgAAAAADwylS0WatuJgH2NuXQI/2x`

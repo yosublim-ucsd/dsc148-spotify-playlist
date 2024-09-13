@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Waze e Chefin entram na zona. ",
+  "description": "Dezinho entra na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -756,7 +756,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 238246,
       "name": "Alzheimer",
       "url": "https://open.spotify.com/track/6TxW1rMOxdZCNrW2dEHQ7g"
@@ -1240,7 +1240,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 137142,
       "name": "AUTO:BOOM",
       "url": "https://open.spotify.com/track/34d9T0MSSsle5yPUr1lwsf"
@@ -1870,6 +1870,24 @@
       "duration_ms": 77204,
       "name": "BRIX",
       "url": "https://open.spotify.com/track/2ESbGbEmwTgeLGlrnuwVoI"
+    },
+    {
+      "album": {
+        "name": "Future Rich Nigga",
+        "url": "https://open.spotify.com/album/6oaUrvvzMJtHkvCSoGFId3"
+      },
+      "artists": [
+        {
+          "name": "Mulatooh",
+          "url": "https://open.spotify.com/artist/5i3kAmcQVt7k2zHgolEAvo"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150672,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/1j8jV3iGmvn2a4zvjDsUqW"
     },
     {
       "album": {
@@ -4057,6 +4075,24 @@
     },
     {
       "album": {
+        "name": "ESQUEMA",
+        "url": "https://open.spotify.com/album/2ZYxqsgQhcaHXHWQDgITo7"
+      },
+      "artists": [
+        {
+          "name": "-Mind7-",
+          "url": "https://open.spotify.com/artist/7pVY4sguKOnXbl7telAAzb"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171714,
+      "name": "ESQUEMA",
+      "url": "https://open.spotify.com/track/0S8XtmT3PWVKEVMwoVfK7j"
+    },
+    {
+      "album": {
         "name": "Esta N\u00e3o \u00e9 a Tua Hist\u00f3ria, Mas Podia Ser",
         "url": "https://open.spotify.com/album/0ae6hsbzifk3zC6oXkKFUb"
       },
@@ -5787,6 +5823,24 @@
     },
     {
       "album": {
+        "name": "Je Comprends Pas",
+        "url": "https://open.spotify.com/album/6FR067nKNNlOz76bU8iEDI"
+      },
+      "artists": [
+        {
+          "name": "Dezinho",
+          "url": "https://open.spotify.com/artist/6HV1KRb1BBx4VgcXyBmXxA"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185084,
+      "name": "Je Comprends Pas",
+      "url": "https://open.spotify.com/track/3SGZeGjpb8RTpZcctXzsC6"
+    },
+    {
+      "album": {
         "name": "jingle.tm",
         "url": "https://open.spotify.com/album/5TTL9OOjczMupeEm3u2yM4"
       },
@@ -6050,6 +6104,24 @@
       "duration_ms": 171940,
       "name": "King2da",
       "url": "https://open.spotify.com/track/5KaIAg0fCOhn3U3fz03hLY"
+    },
+    {
+      "album": {
+        "name": "LA",
+        "url": "https://open.spotify.com/album/0kQ5kJQeoszu34F5wMz7iG"
+      },
+      "artists": [
+        {
+          "name": "SleepyThePrince",
+          "url": "https://open.spotify.com/artist/3GWI6Dqtdwmy1KwK4hr7QE"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235500,
+      "name": "LA",
+      "url": "https://open.spotify.com/track/6nQAd0SXizbw60FO184XBX"
     },
     {
       "album": {
@@ -7026,7 +7098,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 139034,
       "name": "Medos",
       "url": "https://open.spotify.com/track/6hLClV48R7Mujp0HxuKbEG"
@@ -7490,7 +7562,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 200681,
       "name": "Mo\u00e7ambique",
       "url": "https://open.spotify.com/track/6hwu64dRXsTdzXrS8Z2Pl8"
@@ -7636,7 +7708,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 192500,
       "name": "M\u00f3nica",
       "url": "https://open.spotify.com/track/1u2fvdaVJXLqupHBx0mn9g"
@@ -8850,6 +8922,24 @@
       "duration_ms": 197142,
       "name": "Paname",
       "url": "https://open.spotify.com/track/4yLbgYPH38Wch2tBnAqyuX"
+    },
+    {
+      "album": {
+        "name": "Pante\u00e3o",
+        "url": "https://open.spotify.com/album/3owYeLWGoOqBfOd6vFhKhY"
+      },
+      "artists": [
+        {
+          "name": "Piruka",
+          "url": "https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153249,
+      "name": "Pante\u00e3o",
+      "url": "https://open.spotify.com/track/52wVyNZ3J2PGHlWEvs0lX1"
     },
     {
       "album": {
@@ -10883,6 +10973,24 @@
     },
     {
       "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/5KtyAVXpW4uqD2TG02NTA4"
+      },
+      "artists": [
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/5ZU1TW5KbwOb7r0ZDILy7c"
+    },
+    {
+      "album": {
         "name": "Sonhos & Ins\u00f3nias",
         "url": "https://open.spotify.com/album/7dqkzYoqf4VSobWNjcHYZc"
       },
@@ -11098,7 +11206,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 174774,
       "name": "Super Alien",
       "url": "https://open.spotify.com/track/4QkfvRXRsnTDrNt601Jowa"
@@ -12207,6 +12315,24 @@
     },
     {
       "album": {
+        "name": "Vingar",
+        "url": "https://open.spotify.com/album/4GLYPwcslvSkasyxtVITE8"
+      },
+      "artists": [
+        {
+          "name": "PARD\u00d8",
+          "url": "https://open.spotify.com/artist/3JaVBT46sUI7pynSmm398D"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154960,
+      "name": "Vingar",
+      "url": "https://open.spotify.com/track/5U9Txm8FYhLTEqP4gNTE5O"
+    },
+    {
+      "album": {
         "name": "Sonhos & Ins\u00f3nias",
         "url": "https://open.spotify.com/album/6MdSiXKQQZU2CUsAx8h8qI"
       },
@@ -12600,7 +12726,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 143750,
       "name": "\u00c0 Vontade",
       "url": "https://open.spotify.com/track/6tt9gbrs55be5KgeBqd7co"

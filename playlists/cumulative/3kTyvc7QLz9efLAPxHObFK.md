@@ -4,7 +4,7 @@
 
 > 
 
-1,696 songs - 3 day 19 hr 11 min
+1,697 songs - 3 day 19 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -631,6 +631,7 @@
 | [Going Down](https://open.spotify.com/track/5RnBQx1orRr1Hx1N7IlU4P) | [THE3](https://open.spotify.com/artist/4UVcF4a3Wt0NsL0GLiaYht), [RiraN](https://open.spotify.com/artist/4TNYuh9JZdMQgkrLl6d5U2) | [Going Down](https://open.spotify.com/album/3FMx4o0YiyIWAxXZpgwDMg) | 2:32 | 2023-06-17 |  |
 | [Going Under](https://open.spotify.com/track/4yryIvRSVK41pRW8M4p8Yc) | [Dvastate](https://open.spotify.com/artist/1xMkzNWui7gg9TrYMto6VN), [Daniel Brooke](https://open.spotify.com/artist/5CPFsBS5qmG2TqWfVWnguA) | [Going Under](https://open.spotify.com/album/6qtYf8Tb3lReHjvXZPVVtb) | 2:43 | 2024-09-08 |  |
 | [Going Under](https://open.spotify.com/track/02fzVxpngTAz66SEyJpSlQ) | [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym), [Colin Hennerz](https://open.spotify.com/artist/4amVINhTSY1Dp0LFDJa1uF) | [Going Under](https://open.spotify.com/album/5aCbOGoVslQ5G4SDGHn7KG) | 3:29 | 2023-05-12 |  |
+| [GOLDEN SZN \(Riot Shift Remix\)](https://open.spotify.com/track/6DYjctNg1pAaWa1pSE4Zxw) | [OGUZ](https://open.spotify.com/artist/2n6aFLFLpEBs61Kfy5EX5v), [Riot Shift](https://open.spotify.com/artist/5J3RIw3YwgyXeosItjR9GY), [Nyctonian](https://open.spotify.com/artist/7LexKs9s1tG7Ktkd7lMHBp) | [GOLDEN SZN \(Riot Shift Remix\)](https://open.spotify.com/album/0EyijD0O40lKnTXuxMuDbw) | 2:16 | 2024-09-12 |  |
 | [GOMORRA](https://open.spotify.com/track/164DZDtFV75bRwTA7yiiY6) | [Kronos](https://open.spotify.com/artist/2B3mYtzGes0f92Yfn4mVQD), [Last Word](https://open.spotify.com/artist/4xhbLq3ngCmSNOIoqyS3AG) | [GOMORRA](https://open.spotify.com/album/1PG3JqVmJoMhUAGyuGd7zK) | 2:39 | 2024-08-25 |  |
 | [GONNA GO INSANE](https://open.spotify.com/track/3h9oX6vlIJZc7nW0BcJJ7Q) | [Malice](https://open.spotify.com/artist/0endjvK01uydkCL84mD3Z5) | [GONNA GO INSANE](https://open.spotify.com/album/37XKFLN2pTxHVllNG8G0CV) | 2:15 | 2024-04-26 |  |
 | [Good Feeling \- Radio Edit](https://open.spotify.com/track/7vSPkqSVZf1e2WKNuwUFYK) | [Joey Riot](https://open.spotify.com/artist/3xKGhixeP24bKwHQ7yPyXF), [Seduction](https://open.spotify.com/artist/7xqY7chCXSNnqB6YEm0bh9) | [Good Feeling](https://open.spotify.com/album/76tFkjUTA0Cnp8sz4MdCzj) | 3:33 | 2022-02-22 |  |

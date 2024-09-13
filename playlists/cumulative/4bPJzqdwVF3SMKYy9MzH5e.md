@@ -4,7 +4,7 @@
 
 > 
 
-1,967 songs - 4 day 9 hr 57 min
+1,968 songs - 4 day 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1085,6 +1085,7 @@
 | [Mask Off](https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [FUTURE](https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r) | 3:24 | 2021-08-05 |  |
 | [masquerade](https://open.spotify.com/track/64EA2RKyciBwCuVczLH6Ct) | [siouxxie sixxsta](https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr) | [masquerade](https://open.spotify.com/album/20blibqF1THTtLCzQq0Ovx) | 2:24 | 2021-08-05 |  |
 | [Masquerade: Waltz](https://open.spotify.com/track/3eCRPMJfd2NFeOuZQWPl9E) | [Aram Khachaturian](https://open.spotify.com/artist/5WIoytpqi3VWoFSHnl49in), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Yuri Ahronovitch](https://open.spotify.com/artist/0iJNhnFm2d1z5ieFdYg3c6) | [Russian Spectacular](https://open.spotify.com/album/2Somoq77AZUOOyCaw6GQXc) | 4:32 | 2022-11-07 |  |
+| [Mastercard](https://open.spotify.com/track/4DCm1yyODwqULv5zOb1mkW) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec) | [Mastercard](https://open.spotify.com/album/6jJkHZaIS3bBXBaafuY17p) | 3:19 | 2024-09-12 |  |
 | [Matte Black](https://open.spotify.com/track/0hPRWztAIbNkt6GcFcLiqF) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Sing Me a Lullaby, My Sweet Temptation](https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3) | 3:58 | 2023-04-15 |  |
 | [Maxwell's Silver Hammer \- Remastered 2009](https://open.spotify.com/track/2S8xyNRJX1XQdo3qnTuovI) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 3:27 | 2021-08-05 |  |
 | [me](https://open.spotify.com/track/5W1xEYWSoRTjekxW3ehnX3) | [lungskull](https://open.spotify.com/artist/2wvTwsc93H5xfsHE6QK1nl) | [me](https://open.spotify.com/album/0c8pksgqCCP3wjUQc2M8ZA) | 1:26 | 2021-08-05 |  |
@@ -1631,7 +1632,7 @@
 | [Summer Love](https://open.spotify.com/track/6mLNU3uGKZ1fLcJv9J1u7G) | [bLAck pARty](https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy) | [Mango](https://open.spotify.com/album/3N9piIqnt2BHomjXpg4BEe) | 1:14 | 2022-05-10 |  |
 | [Summerlove \(feat\. Anabelle\) \- Scorccio Edit](https://open.spotify.com/track/3Nsh3VnzkjXmeO9Do18tq3) | [S\-Connection](https://open.spotify.com/artist/4PqQtYv1WdvwcN44mZupjL) | [Disconnected](https://open.spotify.com/album/7KQuHTUTRPVvKi9LRQp9pg) | 4:19 | 2022-11-20 |  |
 | [Summertime](https://open.spotify.com/track/109rpPw9mmFN1KhQ38zyt0) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [Predestiny](https://open.spotify.com/album/2zQOPsraFfY83OtDoaOjo4) | 3:37 | 2022-07-10 |  |
-| [Summertime Sadness \(Lana Del Rey Vs\. Cedric Gervais\) \- Cedric Gervais Remix](https://open.spotify.com/track/6PUIzlqotEmPuBfjbwYWOB) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724) | [Summertime Sadness \[Lana Del Rey vs\. Cedric Gervais\] \(Cedric Gervais Remix\)](https://open.spotify.com/album/1fXwOvaqIdkhp5F3fiFbCv) | 3:34 | 2021-08-05 |  |
+| [Summertime Sadness \(Lana Del Rey Vs\. Cedric Gervais\) \- Cedric Gervais Remix](https://open.spotify.com/track/6PUIzlqotEmPuBfjbwYWOB) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724) | [Summertime Sadness \(Lana Del Rey Vs\. Cedric Gervais\) \- Cedric Gervais Remix](https://open.spotify.com/album/1fXwOvaqIdkhp5F3fiFbCv) | 3:34 | 2021-08-05 |  |
 | [Sunflower](https://open.spotify.com/track/4EpZ4eYuZOwPSSwyqpdHnJ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Sunflower](https://open.spotify.com/album/1FhmTMNe8AziAPkB29114F) | 4:12 | 2021-08-05 |  |
 | [Sunflower \- Spider\-Man: Into the Spider\-Verse](https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)](https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs) | 2:38 | 2021-08-05 |  |
 | [Supa Dupa Fly](https://open.spotify.com/track/1f1oSxTFtI9WN7X6GvzMtF) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [666](https://open.spotify.com/artist/76TM3QXivQvlLmZxdYxMZr) | [Supa Dupa Fly](https://open.spotify.com/album/6AsthfXuyR0Ue12N7iFLCR) | 3:11 | 2024-08-26 |  |

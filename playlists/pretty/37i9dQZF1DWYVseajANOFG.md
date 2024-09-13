@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVseajANOFG.md) - [plain]
 
 > Así suena la música urbana de Panamá hoy\. Foto: Chicocurlyhead
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,853 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,886 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVseajANOFG.md) - [plain]
 | 36 | [Ya Ni Se](https://open.spotify.com/track/270ZMuPkTL02DYyG2ntJv2) | [DJ Ledezz](https://open.spotify.com/artist/2C4pKlrYpSurcTknihyLhN), [Andiex](https://open.spotify.com/artist/4vICqNWZlcu4zoSfTG05RY), [Akim](https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3) | [Ya Ni Se](https://open.spotify.com/album/2D9M8jbjcqjeovyTzDBPt9) | 3:19 |
 | 37 | [Háblame de Ti](https://open.spotify.com/track/20XMeJgjo5Xrq8MP2kh0p4) | [Haquil](https://open.spotify.com/artist/3JptABIhEERG63NRckg6EG), [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ) | [Háblame de Ti](https://open.spotify.com/album/7bwsis1VLOwTBOOqYkmnGI) | 3:43 |
 | 38 | [Barco de Papel](https://open.spotify.com/track/4Xv8GKn2YSnIWYFyBJji3S) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Barco de Papel](https://open.spotify.com/album/1teao9NhhnP8BsAJQKBy7l) | 2:54 |
-| 39 | [Por Ley](https://open.spotify.com/track/3Zb2735n7CfJ8ZwKd69O01) | [LH](https://open.spotify.com/artist/4ebruhG8pei8qFQOfNxxLs), [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ), [EL ZETA](https://open.spotify.com/artist/5DF0mdf3uHRV1ojnyVFuo4), [Danny Yash](https://open.spotify.com/artist/3tULsHfYJH7joHTmn5vLNn) | [Por Ley](https://open.spotify.com/album/27lo0482W5P6mkzkinHEJD) | 4:11 |
+| 39 | [Por Ley](https://open.spotify.com/track/3Zb2735n7CfJ8ZwKd69O01) | [LH](https://open.spotify.com/artist/4ebruhG8pei8qFQOfNxxLs), [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ), [El Zeta](https://open.spotify.com/artist/24iSgjiesQ2bhUsHsav2uk), [Danny Yash](https://open.spotify.com/artist/3tULsHfYJH7joHTmn5vLNn) | [Por Ley](https://open.spotify.com/album/27lo0482W5P6mkzkinHEJD) | 4:11 |
 | 40 | [Sin Waze](https://open.spotify.com/track/4Q7PAq0JYYX4XRFCIXHYlR) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Sin Sol](https://open.spotify.com/album/2CsypJgFF6iLwdWkHYanv9) | 3:05 |
 | 41 | [Polvo Sano](https://open.spotify.com/track/7nJZcBCBHo9vZbL9rycfwR) | [Rik](https://open.spotify.com/artist/3fx9NeQCytxm0fzefBOqlh), [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ), [Arez](https://open.spotify.com/artist/7lkOYikCqUXJmw9mvuzojx) | [Polvo Sano](https://open.spotify.com/album/6PglDLsz2x1oOmD9xNMPuS) | 3:32 |
 | 42 | [Ego Sexual](https://open.spotify.com/track/0jYb9kx7BNJTJQIQQdffdN) | [LH](https://open.spotify.com/artist/4ebruhG8pei8qFQOfNxxLs), [Anyuri](https://open.spotify.com/artist/3CC7UwBlcBeQtj20V9xjiE), [Tot](https://open.spotify.com/artist/5MjQKoeaNFMabcAgJRo0yB), [SMILE BEATS](https://open.spotify.com/artist/5A0VwTrVvV03LMeBZYT99d), [Johnny Jey B](https://open.spotify.com/artist/3g5oHgO5sO7uzkz67EZbzO) | [Smile Riddim](https://open.spotify.com/album/418F3f9pX5ZW5FJMFrCrJj) | 2:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVseajANOFG.md) - [plain]
 | 49 | [Temple](https://open.spotify.com/track/6Qqo9UEYNbfRBLzzJ7S9Nx) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Bucle](https://open.spotify.com/album/1Bf3zK23ffWtQtySZ75j55) | 3:00 |
 | 50 | [Otra Baby](https://open.spotify.com/track/4f2nbpKWfnj7tNyL2Ihj9n) | [Akim](https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Otra Baby](https://open.spotify.com/album/1f15Kn5Jb4sKbG8bhW5NwZ) | 3:46 |
 
-Snapshot ID: `Ztp+QAAAAADMVbit+Z83tq7XI3x2ZbWS`
+Snapshot ID: `Ztp+QAAAAACgusfXYTUA4ck4tDy4oPbJ`

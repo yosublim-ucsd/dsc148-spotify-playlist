@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "indie & indiepop in het Nederlands. Cover: Elmer",
+  "description": "indie & indiepop in het Nederlands. Cover: De Toegift",
   "name": "indiepuntnl",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 202000,
       "name": "Aardbei en Vanille",
       "url": "https://open.spotify.com/track/4TZjJSHcExsyHgHlgvOmwQ"
@@ -96,6 +96,28 @@
       "duration_ms": 189666,
       "name": "Alles Begint Bij Vandaag",
       "url": "https://open.spotify.com/track/1KE9JCyD0KNMpLT60MLUyN"
+    },
+    {
+      "album": {
+        "name": "Als Jij Zegt Dat Het Liefde Is",
+        "url": "https://open.spotify.com/album/3lOL71xMJrHi69UCRSvnqB"
+      },
+      "artists": [
+        {
+          "name": "Vic Willems",
+          "url": "https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX"
+        },
+        {
+          "name": "Rijnbaart",
+          "url": "https://open.spotify.com/artist/5Ce0Qxr0GqePcWjwx7VZPd"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204462,
+      "name": "Als Jij Zegt Dat Het Liefde Is",
+      "url": "https://open.spotify.com/track/3yKjaxF1VWjzJXJ1uL8l03"
     },
     {
       "album": {
@@ -254,7 +276,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 193738,
       "name": "Geest Van Het Zuiden",
       "url": "https://open.spotify.com/track/3aY93NRQyDNARcblm0javK"
@@ -452,7 +474,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 207836,
       "name": "Ik Zet De Toon",
       "url": "https://open.spotify.com/track/474F96iGzUsZnx5KcWfR1U"
@@ -492,10 +514,28 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 136824,
       "name": "Interessant",
       "url": "https://open.spotify.com/track/2en7wZ9UHVa2tlZeb8itZi"
+    },
+    {
+      "album": {
+        "name": "Je Geeft Me Niets",
+        "url": "https://open.spotify.com/album/5AzbWe7jSCrmcKOEMDQ0iE"
+      },
+      "artists": [
+        {
+          "name": "Aarde aan Daan",
+          "url": "https://open.spotify.com/artist/2vgN5rrQjTeLcQqoZcEQDf"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153831,
+      "name": "Je Geeft Me Niets",
+      "url": "https://open.spotify.com/track/0KKYgORHSuLfmKENVaA53y"
     },
     {
       "album": {
@@ -622,6 +662,24 @@
       "duration_ms": 169744,
       "name": "Koude Kermis",
       "url": "https://open.spotify.com/track/00l6XjUBc3JGWGM0EpBkyD"
+    },
+    {
+      "album": {
+        "name": "liefde is lang",
+        "url": "https://open.spotify.com/album/7IcwezgetR4kkeGAtOlzhx"
+      },
+      "artists": [
+        {
+          "name": "De Toegift",
+          "url": "https://open.spotify.com/artist/61S4CPkzgyQaX4AvEDEWrs"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204221,
+      "name": "liefde is lang",
+      "url": "https://open.spotify.com/track/6jIkLHW9uG6bVGFKsmqEmt"
     },
     {
       "album": {
@@ -966,7 +1024,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 178044,
       "name": "S.O.S.",
       "url": "https://open.spotify.com/track/1Z9B1h99qrDLM2Mg8A2X2y"
@@ -1014,6 +1072,24 @@
       "duration_ms": 207813,
       "name": "Shirt Uit (feat. Sef)",
       "url": "https://open.spotify.com/track/4yf0JCc3idiriPpzISwO0g"
+    },
+    {
+      "album": {
+        "name": "Eclips",
+        "url": "https://open.spotify.com/album/3OvOekPYYw1vNvyAQKSo4l"
+      },
+      "artists": [
+        {
+          "name": "Maan",
+          "url": "https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206154,
+      "name": "Soms Regen Ik Ook",
+      "url": "https://open.spotify.com/track/0tXcrwN1RTLT84LOdbeCxp"
     },
     {
       "album": {
@@ -1162,7 +1238,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 170048,
       "name": "Venus (ft. Noor)",
       "url": "https://open.spotify.com/track/5ImaYkWsroSsnfa0mD7vpD"
@@ -1184,6 +1260,24 @@
       "duration_ms": 182384,
       "name": "Verandering",
       "url": "https://open.spotify.com/track/4d9w7JlpKkJo6CebG6x1Qa"
+    },
+    {
+      "album": {
+        "name": "Vlinders",
+        "url": "https://open.spotify.com/album/4vd7CpSkbw1Vf8phtMg9c1"
+      },
+      "artists": [
+        {
+          "name": "SKINC",
+          "url": "https://open.spotify.com/artist/0LhRix6ewLBCPcH7Kemve6"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136451,
+      "name": "Vlinders",
+      "url": "https://open.spotify.com/track/0kH5uCNI4j4nfsAm7CPMXf"
     },
     {
       "album": {
@@ -1300,6 +1394,24 @@
       "duration_ms": 163032,
       "name": "wist je niet",
       "url": "https://open.spotify.com/track/77Wz0wvJNr55xrQWfbQdeH"
+    },
+    {
+      "album": {
+        "name": "Heimwee",
+        "url": "https://open.spotify.com/album/6IgSZ5VJ7m1dP5zeaWBUWh"
+      },
+      "artists": [
+        {
+          "name": "Eefje de Visser",
+          "url": "https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250230,
+      "name": "Wolk breekt",
+      "url": "https://open.spotify.com/track/6qIfk3xwdbK2GpdqqT0bCQ"
     },
     {
       "album": {

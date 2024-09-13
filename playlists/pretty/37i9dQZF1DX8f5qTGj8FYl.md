@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 
 > When the funk is too funky for words to keep up\. Cover: Cory Wong
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,594 likes - 150 songs - 10 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,651 likes - 150 songs - 10 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 27 | [False Prophets](https://open.spotify.com/track/6sOL29bZBilHSiuFEwtNS9) | [The Motet](https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN) | [False Prophets](https://open.spotify.com/album/5CujzokHgFMEPtzUdetfyO) | 5:52 |
 | 28 | [Voyager One \(feat\. Nate Smith & Bobby Sparks II\)](https://open.spotify.com/track/29p9C7pmhax5CCrfR1SD5m) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP), [Bobby Sparks II](https://open.spotify.com/artist/230coKMlIqckCdCumrrCkG), [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy) | [Deep: The Baritone Sessions, Vol\. 2](https://open.spotify.com/album/695G3vOrMvFhQw2DXkPnOu) | 5:53 |
 | 29 | [Just Funkin' Around](https://open.spotify.com/track/0XiZC42sXa3KdiaqM3rhu2) | [Pieces Of A Dream](https://open.spotify.com/artist/70BRQ5tBte6kVqHviL3srE) | [Just Funkin' Around](https://open.spotify.com/album/4U47phHmbpHhaDKlc9inlu) | 4:07 |
-| 30 | [Spherical \(Tiny Room Sessions\)](https://open.spotify.com/track/0lXo6V2m1WTDNWMjgbhy1U) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd), [Terreon Gully](https://open.spotify.com/artist/1SqJPsQ1Xl7SqS7bNcea5P), [Geoffrey Keezer](https://open.spotify.com/artist/6blxY1iqiaDxSkZ1OGPUZ7), [Benjamin Sheperd](https://open.spotify.com/artist/5hO610eZdaKyNxoLG7Rfw2), [Bob Reynolds](https://open.spotify.com/artist/6GcgRheAQRGpkEhsg5nG6m), [Curtis Taylor](https://open.spotify.com/artist/6BAp78tMVI0vqwkbAePCim) | [Spherical \(Tiny Room Sessions\)](https://open.spotify.com/album/4z46D1eyVfrciFdFbYlNNT) | 8:08 |
+| 30 | [Spherical \(Tiny Room Sessions\)](https://open.spotify.com/track/0lXo6V2m1WTDNWMjgbhy1U) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd), [Terreon Gully](https://open.spotify.com/artist/1SqJPsQ1Xl7SqS7bNcea5P), [Geoffrey Keezer](https://open.spotify.com/artist/6blxY1iqiaDxSkZ1OGPUZ7), [Benjamin Sheperd](https://open.spotify.com/artist/5hO610eZdaKyNxoLG7Rfw2), [Bob Reynolds](https://open.spotify.com/artist/75p5ZVIz6SaEbNC2AUnx9Q), [Curtis Taylor](https://open.spotify.com/artist/6BAp78tMVI0vqwkbAePCim) | [Spherical \(Tiny Room Sessions\)](https://open.spotify.com/album/4z46D1eyVfrciFdFbYlNNT) | 8:08 |
 | 31 | [Basilisk](https://open.spotify.com/track/7v3AjcrNK5pd3pBunzI4DI) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE) | [Basilisk](https://open.spotify.com/album/7qz2BSHveJFW2HNhWZu2kV) | 4:29 |
 | 32 | [Sir Somebody](https://open.spotify.com/track/7aHHRCZdz4ZW9tCN3nX5uv) | [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0) | [Sir Somebody](https://open.spotify.com/album/4SQDM8myIkEa4MDA5hz5fH) | 4:02 |
 | 33 | [Help](https://open.spotify.com/track/0tdSXxG5GIFHRP4pBXJoS9) | [Hot Damn Horns & The Soul Machine](https://open.spotify.com/artist/5qfEwrYeKLDNXgyBHj6UIH) | [Help](https://open.spotify.com/album/6lWd8T8d7iBIlJSl4eiLh9) | 3:36 |

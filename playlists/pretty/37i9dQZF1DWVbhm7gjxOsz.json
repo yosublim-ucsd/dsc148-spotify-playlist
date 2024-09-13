@@ -1,6 +1,6 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 87600,
+  "num_followers": 87723,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "ZrxrbQAAAAC4+3/ltnCzJ55NgukuPzVX",
   "tracks": [
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
-        "name": "Let's Stay Together",
-        "url": "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 199396,
-      "name": "Let's Stay Together",
-      "url": "https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y"
-    },
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 156653,
       "name": "I'd Rather Go Blind",
       "url": "https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "Let's Stay Together",
+        "url": "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 199396,
+      "name": "Let's Stay Together",
+      "url": "https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "The Skyliners",
-        "url": "https://open.spotify.com/album/1NkPqMACJL2PejSrAZzbiQ"
-      },
-      "artists": [
-        {
-          "name": "The Skyliners",
-          "url": "https://open.spotify.com/artist/4JeG1IusHcsL2owYnsJ7wk"
-        }
-      ],
-      "duration_ms": 158840,
-      "name": "Since I Don't Have You (Alternative Take)",
-      "url": "https://open.spotify.com/track/4uAalOPic5WOPJF1kANXCt"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "Baby, I'm Yours",
         "url": "https://open.spotify.com/album/0rmDDX6kd3GGmsfYVAlHfN"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 148706,
       "name": "Baby, I'm Yours",
       "url": "https://open.spotify.com/track/6ldnKaF2UYpOtmpOAOwlQe"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "The Skyliners",
+        "url": "https://open.spotify.com/album/1NkPqMACJL2PejSrAZzbiQ"
+      },
+      "artists": [
+        {
+          "name": "The Skyliners",
+          "url": "https://open.spotify.com/artist/4JeG1IusHcsL2owYnsJ7wk"
+        }
+      ],
+      "duration_ms": 158840,
+      "name": "Since I Don't Have You (Alternative Take)",
+      "url": "https://open.spotify.com/track/4uAalOPic5WOPJF1kANXCt"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "Don't Tell Me",
-        "url": "https://open.spotify.com/album/7mwaHlZf72E7QOdNo6kcyl"
+        "name": "Warm & Tender Soul",
+        "url": "https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750"
       },
       "artists": [
         {
-          "name": "Joey Quinones",
-          "url": "https://open.spotify.com/artist/0I2oicRXKxaqqjpHKlyTpP"
+          "name": "Percy Sledge",
+          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
         }
       ],
-      "duration_ms": 233430,
-      "name": "Don't Tell Me",
-      "url": "https://open.spotify.com/track/2zu0W9Kgo53F0Cbv91jltm"
+      "duration_ms": 173893,
+      "name": "You Really Got a Hold on Me",
+      "url": "https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "Warm & Tender Soul",
-        "url": "https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750"
+        "name": "Don't Tell Me",
+        "url": "https://open.spotify.com/album/7mwaHlZf72E7QOdNo6kcyl"
       },
       "artists": [
         {
-          "name": "Percy Sledge",
-          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
+          "name": "Joey Quinones",
+          "url": "https://open.spotify.com/artist/0I2oicRXKxaqqjpHKlyTpP"
         }
       ],
-      "duration_ms": 173893,
-      "name": "You Really Got a Hold on Me",
-      "url": "https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx"
+      "duration_ms": 233430,
+      "name": "Don't Tell Me",
+      "url": "https://open.spotify.com/track/2zu0W9Kgo53F0Cbv91jltm"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -2267,6 +2267,22 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
+        "name": "Solid Gold Northern Soul",
+        "url": "https://open.spotify.com/album/4IUMwDgxFzz1GDtg6zx8qC"
+      },
+      "artists": [
+        {
+          "name": "Barbara Lewis",
+          "url": "https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq"
+        }
+      ],
+      "duration_ms": 160080,
+      "name": "Hello Stranger",
+      "url": "https://open.spotify.com/track/6p3bMHTo45nQZTg3ntxPzt"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
         "name": "Dead Presidents Volume II / Music From The Motion Picture",
         "url": "https://open.spotify.com/album/52Us0gT9wf2yGMNlwTATGB"
       },
@@ -2459,22 +2475,6 @@
       "duration_ms": 120306,
       "name": "Dedicated To The One I Love",
       "url": "https://open.spotify.com/track/36f5xtZ2CXIc1WOirnnD3j"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
-        "name": "Solid Gold Northern Soul",
-        "url": "https://open.spotify.com/album/4IUMwDgxFzz1GDtg6zx8qC"
-      },
-      "artists": [
-        {
-          "name": "Barbara Lewis",
-          "url": "https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq"
-        }
-      ],
-      "duration_ms": 160080,
-      "name": "Hello Stranger",
-      "url": "https://open.spotify.com/track/6p3bMHTo45nQZTg3ntxPzt"
     },
     {
       "added_at": "2024-08-14 08:31:40",

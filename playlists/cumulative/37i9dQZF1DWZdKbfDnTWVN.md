@@ -2,7 +2,7 @@
 
 ### [254 Flow](https://open.spotify.com/playlist/37i9dQZF1DWZdKbfDnTWVN)
 
-> The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/7Ijwdl32LSddH695Qn3q5o?si=2wz5EaCuTGmoLDJ6\_gEFcg"> Octopizzo</a>
+> The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6?si=b0HILXSmRjK9I0YpZgVZXQ"> Nyashinski</a>
 
 262 songs - 13 hr 33 min
 
@@ -144,7 +144,7 @@
 | [Mbona?](https://open.spotify.com/track/5hJ9UhvS0IFU2docn62NAq) | [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [Mbona?](https://open.spotify.com/album/4VCwHlYHoyBL86bpXbORGh) | 3:53 | 2022-06-23 | 2023-09-22 |
 | [Mbuzi](https://open.spotify.com/track/0kPY62PUCJR2sbT0JTmKT1) | [Boeyylee](https://open.spotify.com/artist/4qMKT1IgMKpk9fnv6FYXLN), [Drop Boy](https://open.spotify.com/artist/2VhB8HqjzPSe2pxNPBrGpJ) | [Mbuzi](https://open.spotify.com/album/4cRYF3YJufPwImOnX0lhSI) | 1:16 | 2023-06-08 | 2023-09-08 |
 | [Mc Mca](https://open.spotify.com/track/0wAgvKKxVwqJghZtNOa4GY) | [Wakadinali](https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK) | [Mc Mca](https://open.spotify.com/album/22YRItlDL5DWrGBWRwfiq4) | 3:58 | 2022-10-21 | 2023-10-20 |
-| [Midas Touch](https://open.spotify.com/track/2eoyaHL33pdJ1e0IzUhuIG) | [Breeder LW](https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy) | [Midas Touch](https://open.spotify.com/album/1aJN6BERgVwmJvRinhiDot) | 3:40 | 2023-11-30 |  |
+| [Midas Touch](https://open.spotify.com/track/2eoyaHL33pdJ1e0IzUhuIG) | [Breeder LW](https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy) | [Midas Touch](https://open.spotify.com/album/1aJN6BERgVwmJvRinhiDot) | 3:40 | 2023-11-30 | 2024-09-13 |
 | [Minimal Pressure](https://open.spotify.com/track/0CPf4M3kS1dVAGkLgtXPwR) | [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [Minimal Pressure](https://open.spotify.com/album/2TfvT358xh2LsMPHZHbqeI) | 4:27 | 2023-07-27 | 2024-04-19 |
 | [Money Talks](https://open.spotify.com/track/0laxguEK88Fn3sXUhuPF21) | [Sora ODG](https://open.spotify.com/artist/4DFcd0At4EozxRkWUxXHEx), [Kxffy](https://open.spotify.com/artist/25ri60pzSMYa2YOUZlumhB), [SUNS3T](https://open.spotify.com/artist/5W3JLL9j3Xwn9wScCLFHSt), [Sxddar](https://open.spotify.com/artist/2pqUV4obCHNB70NpxBjk6E) | [Money Talks](https://open.spotify.com/album/0IxqwSpu9bhrCffTByK2dD) | 2:12 | 2024-07-25 |  |
 | [MONEYLONG MALONG](https://open.spotify.com/track/00y0lRuyrmT1oblzpF7L4r) | [Ill Gee](https://open.spotify.com/artist/3bsKojJ5YjloiR72zszfmW), [Vintix Jr](https://open.spotify.com/artist/13XsdZHCvyYXkAYClwHzxA) | [UGANJA](https://open.spotify.com/album/5UbrwU28Y51I3WXThqODBB) | 4:30 | 2024-01-26 | 2024-03-01 |
@@ -154,7 +154,7 @@
 | [Mtungi](https://open.spotify.com/track/1D8EvJwAQaBrS5mY2xDZht) | [FEMI ONE](https://open.spotify.com/artist/1Kg4nxeTD9wP3082jp1nkH) | [Mtungi](https://open.spotify.com/album/3yh1hLgnx7f682n9E3kdZ4) | 3:05 | 2024-01-11 |  |
 | [Mukta](https://open.spotify.com/track/0oN4a2IN6iaUT3onIIuBYI) | [£g0](https://open.spotify.com/artist/3VfGT695sBZZvATskxjdr0), [LB \(EL PRESIDENTE\)](https://open.spotify.com/artist/19tmkCNT4ZOGkI4cLgSxO3) | [Mukta](https://open.spotify.com/album/71d0dEnWw8vBQ2Ka3MQtKG) | 2:14 | 2022-09-08 | 2023-05-19 |
 | [Mzigo](https://open.spotify.com/track/0U0zmqjmcPg8s9RXZzakcz) | [Wangechi](https://open.spotify.com/artist/3sRwsuyZVOyczSZUSiAHj6), [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [EMOTIONAL GANGSTER](https://open.spotify.com/album/5bOgDyDjL2Iijyr36IRYMd) | 3:55 | 2024-01-26 | 2024-04-19 |
-| [Mzigo](https://open.spotify.com/track/75QOnqQyG9HGeiH2HDV6ye) | [Wangechi](https://open.spotify.com/artist/3sRwsuyZVOyczSZUSiAHj6), [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Mzigo](https://open.spotify.com/album/6HsyXPe7DuDcKCQert6a3U) | 3:55 | 2023-07-07 |  |
+| [Mzigo](https://open.spotify.com/track/75QOnqQyG9HGeiH2HDV6ye) | [Wangechi](https://open.spotify.com/artist/3sRwsuyZVOyczSZUSiAHj6), [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Mzigo](https://open.spotify.com/album/6HsyXPe7DuDcKCQert6a3U) | 3:55 | 2023-07-07 | 2024-09-13 |
 | [Nairobi Pengz](https://open.spotify.com/track/6vYlSCbecwhbLN7LCReItg) | [Wangechi](https://open.spotify.com/artist/3sRwsuyZVOyczSZUSiAHj6), [Scar Mkadinali](https://open.spotify.com/artist/61npyqrvQo2AGnjNqIV6E7) | [CHONJO](https://open.spotify.com/album/7MKDPUsNzh4adGw36ACW9C) | 3:42 | 2022-07-07 | 2023-09-15 |
 | [Natoka Na Nani? \(feat\. Khaligraph Jones\)](https://open.spotify.com/track/3WaClrMeTUUaZyZhzCIpEu) | [Young Lunya](https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni), [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [Mbuzi](https://open.spotify.com/album/22lDZE5BEh0ZYMx0dPzx8j) | 4:25 | 2024-07-25 |  |
 | [Nduki \(feat\. dutchavelli\)](https://open.spotify.com/track/2fLXqKmxFQXZ5qcJVtBuCk) | [Young Lunya](https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni), [dutchavelli](https://open.spotify.com/artist/2tPR06hLUvH5aIY3JXNIxY) | [Mbuzi](https://open.spotify.com/album/22lDZE5BEh0ZYMx0dPzx8j) | 3:21 | 2024-06-27 | 2024-07-27 |

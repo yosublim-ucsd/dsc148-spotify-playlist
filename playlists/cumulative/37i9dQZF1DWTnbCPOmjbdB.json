@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsze polskie piosenki na czasie. Cover: Julia Wieniawa",
+  "description": "Najlepsze polskie piosenki na czasie. Cover: Roxie W\u0119giel, Maryla Rodowicz",
   "name": "Polskie hity",
   "tracks": [
     {
@@ -505,6 +505,24 @@
     },
     {
       "album": {
+        "name": "Chory",
+        "url": "https://open.spotify.com/album/4H7MofJfhX9kDJNGkEFocy"
+      },
+      "artists": [
+        {
+          "name": "Micha\u0142 Szczygie\u0142",
+          "url": "https://open.spotify.com/artist/3LnV4Ef0wfc2ATFF4IAW5z"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201844,
+      "name": "Chory",
+      "url": "https://open.spotify.com/track/7jfmUcIxrhJWXyd18rE26L"
+    },
+    {
+      "album": {
         "name": "Chyba \u017ce z Tob\u0105",
         "url": "https://open.spotify.com/album/1OeMB0KFN400gB3IrwQK7L"
       },
@@ -640,6 +658,46 @@
       "duration_ms": 127500,
       "name": "Dalej",
       "url": "https://open.spotify.com/track/62EtR6rTcBc3b6rCDz28S5"
+    },
+    {
+      "album": {
+        "name": "Dam\u0105 by\u0107",
+        "url": "https://open.spotify.com/album/0LOR9EqAPP89PbN6PeeeSC"
+      },
+      "artists": [
+        {
+          "name": "Maryla Rodowicz",
+          "url": "https://open.spotify.com/artist/1IYFJPQcbXYjgkyebYs1w6"
+        },
+        {
+          "name": "Roxie W\u0119giel",
+          "url": "https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136170,
+      "name": "Dam\u0105 by\u0107",
+      "url": "https://open.spotify.com/track/23zuQy8kOY4rfnMKDor5GA"
+    },
+    {
+      "album": {
+        "name": "Danse Macabre",
+        "url": "https://open.spotify.com/album/01Ud1JJmY6UbrqjMOQa8rt"
+      },
+      "artists": [
+        {
+          "name": "nita",
+          "url": "https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167581,
+      "name": "Danse Macabre",
+      "url": "https://open.spotify.com/track/6q3mJXFVhnRuECh5qyM0wM"
     },
     {
       "album": {
@@ -1032,7 +1090,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 153750,
       "name": "hyperstar",
       "url": "https://open.spotify.com/track/4sUmke1MALyUgdRDseLga1"
@@ -1306,7 +1364,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 154457,
       "name": "Lek",
       "url": "https://open.spotify.com/track/65RM2VsMuzgyUKLFNrzIaR"
@@ -1418,6 +1476,24 @@
       "duration_ms": 195001,
       "name": "milcz\u0119",
       "url": "https://open.spotify.com/track/4nCNsCZt14oI1GodbRKcRo"
+    },
+    {
+      "album": {
+        "name": "MILION",
+        "url": "https://open.spotify.com/album/2uMYW6xYTT6yQeCZorgoaD"
+      },
+      "artists": [
+        {
+          "name": "LIJA",
+          "url": "https://open.spotify.com/artist/46Ke0Gji5QAaMGvsTgBEj5"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177196,
+      "name": "MILION",
+      "url": "https://open.spotify.com/track/5F3tMkclVSZ3sYyhU9knBx"
     },
     {
       "album": {
@@ -1861,6 +1937,24 @@
     },
     {
       "album": {
+        "name": "Noc",
+        "url": "https://open.spotify.com/album/4jD8WuSgVdsaL3WHqCMWcq"
+      },
+      "artists": [
+        {
+          "name": "Julia \u017bugaj",
+          "url": "https://open.spotify.com/artist/77ie7EUxZYh8rjBIUC76S1"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132283,
+      "name": "Noc",
+      "url": "https://open.spotify.com/track/4FNJYW8wIORv52KjOKhfQg"
+    },
+    {
+      "album": {
         "name": "Noc Anio\u0142\u00f3w",
         "url": "https://open.spotify.com/album/7ClftPSzzotBXbkm0qdzka"
       },
@@ -1948,7 +2042,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 164000,
       "name": "od nowa",
       "url": "https://open.spotify.com/track/1DkUo3q5rxndilxYRMRte4"
@@ -2046,6 +2140,32 @@
       "duration_ms": 124235,
       "name": "Poka\u017c Twarz (t\u0105 naprawd\u0119)",
       "url": "https://open.spotify.com/track/3htwuWxUJq0afILxoV7lpy"
+    },
+    {
+      "album": {
+        "name": "POMALUJ M\u00d3J \u015aWIAT",
+        "url": "https://open.spotify.com/album/6rmMDwIEyRMHsfx1x9SwV6"
+      },
+      "artists": [
+        {
+          "name": "Kizo",
+          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
+        },
+        {
+          "name": "Bletka",
+          "url": "https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m"
+        },
+        {
+          "name": "BeMelo",
+          "url": "https://open.spotify.com/artist/58n40EtcUlarXICnPb9ohx"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188478,
+      "name": "POMALUJ M\u00d3J \u015aWIAT",
+      "url": "https://open.spotify.com/track/5AOkd7BJEmVj3pxRhW072C"
     },
     {
       "album": {
@@ -2184,7 +2304,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 164788,
       "name": "Przy Tobie to...",
       "url": "https://open.spotify.com/track/2wkLEogc1aCPETKmZzILtM"
@@ -2638,7 +2758,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 192813,
       "name": "To nie powt\u00f3rzy si\u0119",
       "url": "https://open.spotify.com/track/7pdT1kwrp2X0zJiQKX3Oik"
@@ -2656,7 +2776,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 221860,
       "name": "Twoja mi\u0142o\u015b\u0107",
       "url": "https://open.spotify.com/track/0bjUX2Fm71AMebqvRUZPZd"
@@ -2776,7 +2896,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 140000,
       "name": "VIBE",
       "url": "https://open.spotify.com/track/2t613OFX9O1VTcCJmFjMUN"
@@ -2868,6 +2988,24 @@
       "duration_ms": 163958,
       "name": "Witaj, dzie\u0144 dobry",
       "url": "https://open.spotify.com/track/7uC3p3ixNwDKrOfgTC5eWd"
+    },
+    {
+      "album": {
+        "name": "Wi\u0119cej",
+        "url": "https://open.spotify.com/album/2wLGQoYi4SsbyGmjEbQiNE"
+      },
+      "artists": [
+        {
+          "name": "Carla Fernandes",
+          "url": "https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153024,
+      "name": "Wi\u0119cej",
+      "url": "https://open.spotify.com/track/73l4adiuFKirZH4umyzEog"
     },
     {
       "album": {

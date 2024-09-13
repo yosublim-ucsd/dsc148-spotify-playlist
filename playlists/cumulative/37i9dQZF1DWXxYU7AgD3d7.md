@@ -4,7 +4,7 @@
 
 > <a href="https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et?si=l\_E1EUSFQy6mw967zlio3Q"> Disclosure</a>'s favourite tracks\. Updated regularly\. Curated by Disclosure\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-123 songs - 10 hr 3 min
+124 songs - 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Straight from the Underground](https://open.spotify.com/track/3aChvUQ1AxLrRZM43C1DQm) | [Løne Døg](https://open.spotify.com/artist/5M4CIxy6u5hKcneJxiQQJ7) | [Straight from the Underground](https://open.spotify.com/album/4obZu6Ej9zpn6P2DsTyFpd) | 4:18 | 2024-02-05 | 2024-09-12 |
 | [system](https://open.spotify.com/track/0Tc7p0cKE8078NVGRDcDOX) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [system](https://open.spotify.com/album/6Tb7xosGis8X86XpTn8bx9) | 3:52 | 2024-03-19 | 2024-07-23 |
 | [Sósia](https://open.spotify.com/track/7lSEldgwOg3nYjQm4SBSy1) | [Villager](https://open.spotify.com/artist/5NhirHwHO8nu6MrwjBizh7) | [Sósia](https://open.spotify.com/album/1gjbbdW2LlKpZiT4uEZJuQ) | 3:37 | 2024-09-11 |  |
+| [TAKA \- Caribou Remix](https://open.spotify.com/track/5vo0Cu8muNor0U1UM3AHVS) | [Ahadadream](https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW), [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [TAKA \(Caribou Remix\)](https://open.spotify.com/album/7Ez3fr9wboQAP5XDFKrDC5) | 3:57 | 2024-09-12 |  |
 | [The Answer](https://open.spotify.com/track/1TPKJuyKqAwtlFWZPfJqsi) | [M\-High](https://open.spotify.com/artist/5lNjdR9GxHHF3twNE6ayJW) | [The Answer](https://open.spotify.com/album/7Gs1tiTXsvcplzn15xDkKF) | 7:24 | 2023-10-13 | 2024-09-12 |
 | [The Ride](https://open.spotify.com/track/6zpmG7gEoFtWTH1A76E5qy) | [Leo Pol](https://open.spotify.com/artist/2PBE0KQEqT34oYjjFyI9Mz) | [The Ride](https://open.spotify.com/album/0R0DXjlqw3lSu33q5KqnMe) | 4:39 | 2023-10-13 | 2024-09-12 |
 | [Thinking Of U](https://open.spotify.com/track/0ObFG6JadCEfirwmFRBPFY) | [Attic Beats](https://open.spotify.com/artist/6oGLvkrXYxzfmCdG2Tuadi) | [Thinking Of U](https://open.spotify.com/album/5RPeU8jJYrIrLqLl0zduvl) | 2:00 | 2024-02-05 | 2024-09-12 |

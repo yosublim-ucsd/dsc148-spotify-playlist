@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Diamante El\u00e9ctrico",
-  "num_followers": 86438,
+  "num_followers": 86448,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
@@ -763,6 +763,26 @@
     {
       "added_at": "2024-07-12 18:34:34",
       "album": {
+        "name": "Tierra",
+        "url": "https://open.spotify.com/album/4hONbMfBNGtrslvAqe2wX4"
+      },
+      "artists": [
+        {
+          "name": "Mad Tree",
+          "url": "https://open.spotify.com/artist/7ozAaEiZsgJUvQ8TDm6X1h"
+        },
+        {
+          "name": "Mateo Par\u00eds",
+          "url": "https://open.spotify.com/artist/5g4xkc9ZvfAUuP5UJxvCBG"
+        }
+      ],
+      "duration_ms": 183539,
+      "name": "Desierto",
+      "url": "https://open.spotify.com/track/3Amv0UJc2xJ7YZuhCCSM5i"
+    },
+    {
+      "added_at": "2024-07-12 18:34:34",
+      "album": {
         "name": "Solo t\u00fa",
         "url": "https://open.spotify.com/album/4x11yXJ8tg1D9tnY2DII65"
       },
@@ -775,22 +795,6 @@
       "duration_ms": 247392,
       "name": "Solo t\u00fa",
       "url": "https://open.spotify.com/track/5WyavosRBdYVkapSLgqGC4"
-    },
-    {
-      "added_at": "2024-07-12 18:34:34",
-      "album": {
-        "name": "Voy a Olvidarme de M\u00ed",
-        "url": "https://open.spotify.com/album/2C2OEnCEHih9ZQQ20VSkoJ"
-      },
-      "artists": [
-        {
-          "name": "Tr3sdeCoraZ\u00f3n",
-          "url": "https://open.spotify.com/artist/1KSBih5CRHtXP3yb8GSn0M"
-        }
-      ],
-      "duration_ms": 213136,
-      "name": "Voy a Olvidarme de M\u00ed",
-      "url": "https://open.spotify.com/track/4be75554sgPXfbKdOeLVzI"
     },
     {
       "added_at": "2024-07-12 18:34:34",
@@ -811,6 +815,22 @@
     {
       "added_at": "2024-07-12 18:34:34",
       "album": {
+        "name": "Voy a Olvidarme de M\u00ed",
+        "url": "https://open.spotify.com/album/2C2OEnCEHih9ZQQ20VSkoJ"
+      },
+      "artists": [
+        {
+          "name": "Tr3sdeCoraZ\u00f3n",
+          "url": "https://open.spotify.com/artist/1KSBih5CRHtXP3yb8GSn0M"
+        }
+      ],
+      "duration_ms": 213136,
+      "name": "Voy a Olvidarme de M\u00ed",
+      "url": "https://open.spotify.com/track/4be75554sgPXfbKdOeLVzI"
+    },
+    {
+      "added_at": "2024-07-12 18:34:34",
+      "album": {
         "name": "Antes de Que Sea Muy Tarde",
         "url": "https://open.spotify.com/album/6FFIXNpWmBGwZijE6A9lNe"
       },
@@ -823,26 +843,6 @@
       "duration_ms": 192787,
       "name": "Antes de Que Sea Muy Tarde",
       "url": "https://open.spotify.com/track/5bIuihsCdiDMA6MmlGFgre"
-    },
-    {
-      "added_at": "2024-07-12 18:34:34",
-      "album": {
-        "name": "Tierra",
-        "url": "https://open.spotify.com/album/4hONbMfBNGtrslvAqe2wX4"
-      },
-      "artists": [
-        {
-          "name": "Mad Tree",
-          "url": "https://open.spotify.com/artist/7ozAaEiZsgJUvQ8TDm6X1h"
-        },
-        {
-          "name": "Mateo Par\u00eds",
-          "url": "https://open.spotify.com/artist/5g4xkc9ZvfAUuP5UJxvCBG"
-        }
-      ],
-      "duration_ms": 183539,
-      "name": "Desierto",
-      "url": "https://open.spotify.com/track/3Amv0UJc2xJ7YZuhCCSM5i"
     },
     {
       "added_at": "2024-07-12 18:34:34",
@@ -887,6 +887,22 @@
     {
       "added_at": "2024-07-12 18:34:34",
       "album": {
+        "name": "Lockdownska",
+        "url": "https://open.spotify.com/album/63drV0XsviR9CVU6eRvs0P"
+      },
+      "artists": [
+        {
+          "name": "Burning Caravan",
+          "url": "https://open.spotify.com/artist/6EWzrar8NxPYxH9mLdgkat"
+        }
+      ],
+      "duration_ms": 219506,
+      "name": "Lockdownska",
+      "url": "https://open.spotify.com/track/3wa8cbyJbGoAoFqaJdzlwA"
+    },
+    {
+      "added_at": "2024-07-12 18:34:34",
+      "album": {
         "name": "La Clase Que Trabaja",
         "url": "https://open.spotify.com/album/1chXS9QVcQa8LMDLXOkybe"
       },
@@ -903,34 +919,18 @@
     {
       "added_at": "2024-07-12 18:34:34",
       "album": {
-        "name": "No Hay Tiempo Que Perder",
-        "url": "https://open.spotify.com/album/4Kf9e886i3tTAB4LtmV7dy"
+        "name": "Prende",
+        "url": "https://open.spotify.com/album/4yoIFrJyYMVB78v2oVYzHG"
       },
       "artists": [
         {
-          "name": "Tr3sdeCoraZ\u00f3n",
-          "url": "https://open.spotify.com/artist/1KSBih5CRHtXP3yb8GSn0M"
+          "name": "Tequendama",
+          "url": "https://open.spotify.com/artist/5jtmZEtfuDg8on48lsLxmU"
         }
       ],
-      "duration_ms": 177711,
-      "name": "\u00bfQu\u00e9 se yo?",
-      "url": "https://open.spotify.com/track/3falJgxOYstt60PDeoaLsQ"
-    },
-    {
-      "added_at": "2024-07-12 18:34:34",
-      "album": {
-        "name": "Lockdownska",
-        "url": "https://open.spotify.com/album/63drV0XsviR9CVU6eRvs0P"
-      },
-      "artists": [
-        {
-          "name": "Burning Caravan",
-          "url": "https://open.spotify.com/artist/6EWzrar8NxPYxH9mLdgkat"
-        }
-      ],
-      "duration_ms": 219506,
-      "name": "Lockdownska",
-      "url": "https://open.spotify.com/track/3wa8cbyJbGoAoFqaJdzlwA"
+      "duration_ms": 197886,
+      "name": "Prende",
+      "url": "https://open.spotify.com/track/1MkRoo0Vr7Ol8BMQ6bMbGs"
     },
     {
       "added_at": "2024-07-12 18:34:34",
@@ -951,18 +951,18 @@
     {
       "added_at": "2024-07-12 18:34:34",
       "album": {
-        "name": "Prende",
-        "url": "https://open.spotify.com/album/4yoIFrJyYMVB78v2oVYzHG"
+        "name": "No Hay Tiempo Que Perder",
+        "url": "https://open.spotify.com/album/4Kf9e886i3tTAB4LtmV7dy"
       },
       "artists": [
         {
-          "name": "Tequendama",
-          "url": "https://open.spotify.com/artist/5jtmZEtfuDg8on48lsLxmU"
+          "name": "Tr3sdeCoraZ\u00f3n",
+          "url": "https://open.spotify.com/artist/1KSBih5CRHtXP3yb8GSn0M"
         }
       ],
-      "duration_ms": 197886,
-      "name": "Prende",
-      "url": "https://open.spotify.com/track/1MkRoo0Vr7Ol8BMQ6bMbGs"
+      "duration_ms": 177711,
+      "name": "\u00bfQu\u00e9 se yo?",
+      "url": "https://open.spotify.com/track/3falJgxOYstt60PDeoaLsQ"
     },
     {
       "added_at": "2024-07-12 18:34:34",
@@ -999,18 +999,22 @@
     {
       "added_at": "2024-07-12 18:34:34",
       "album": {
-        "name": "This Is War",
-        "url": "https://open.spotify.com/album/4RGwN6ElLSAlm9sWrkKcgd"
+        "name": "Olvidarme de Todo",
+        "url": "https://open.spotify.com/album/1TwgjOEG8WS6pkjLUstupB"
       },
       "artists": [
         {
-          "name": "Superlitio",
-          "url": "https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB"
+          "name": "Volc\u00e1n",
+          "url": "https://open.spotify.com/artist/1DIDvOLPitMH37cPk30xIY"
+        },
+        {
+          "name": "Oso Pardo",
+          "url": "https://open.spotify.com/artist/5VvrQ69cP2LpCA3io3vCyQ"
         }
       ],
-      "duration_ms": 226945,
-      "name": "This Is War",
-      "url": "https://open.spotify.com/track/5piZGfIPJBGKuUzmfEPjvq"
+      "duration_ms": 201131,
+      "name": "Olvidarme de Todo",
+      "url": "https://open.spotify.com/track/7lwA01yBJAfoVz730sBcox"
     }
   ],
   "unique_name": "Rock Colombia",

@@ -2,9 +2,9 @@
 
 ### [Courant Alternatif](https://open.spotify.com/playlist/37i9dQZF1DX4TqmALHVh5A)
 
-> La scène française branchée sur courant alternatif\. Photo : La Femme
+> La scène française branchée sur courant alternatif\. Photo : Bryan's Magic Tears
 
-192 songs - 10 hr 20 min
+196 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Désolé, mon cœur](https://open.spotify.com/track/2E2sgLXYIFUAEtBtgv0KMT) | [TOMASI](https://open.spotify.com/artist/54Bq5KQLmswXsQyh6kDSJ5) | [Désolé, mon cœur](https://open.spotify.com/album/0P2z4rhMsoaNmOIFSbGuIl) | 3:01 | 2023-10-26 | 2023-11-24 |
 | [ECLIPSE](https://open.spotify.com/track/6YqjF5hxtVoQJmqTAsMt1z) | [VISCERAL](https://open.spotify.com/artist/5AwoTd09zcU8oUJ12Qt4Om) | [ORUMA](https://open.spotify.com/album/7nnGjWjxmXLZNaiMZ0LfDi) | 2:08 | 2024-07-04 |  |
 | [Encore](https://open.spotify.com/track/4unYRu63NeZhNtGo58BCCU) | [Shaga](https://open.spotify.com/artist/4KZhzeqnmQnVt4687rh5qR) | [Encore](https://open.spotify.com/album/2vVTXNxUtGmHacca457lb7) | 3:02 | 2023-11-02 | 2023-11-24 |
-| [Encore](https://open.spotify.com/track/0MMwBokFBDp14xOgnqeVnR) | [TERRIER](https://open.spotify.com/artist/3GdYpfWMn7epxH2sHheonJ) | [Encore](https://open.spotify.com/album/0sLK1piaW1NCzkFXVcQEjq) | 3:02 | 2024-05-16 |  |
+| [Encore](https://open.spotify.com/track/0MMwBokFBDp14xOgnqeVnR) | [TERRIER](https://open.spotify.com/artist/3GdYpfWMn7epxH2sHheonJ) | [Encore](https://open.spotify.com/album/0sLK1piaW1NCzkFXVcQEjq) | 3:02 | 2024-05-16 | 2024-09-13 |
 | [fermer les yeux](https://open.spotify.com/track/71lrP6Unh3jKzRDyTPU6ov) | [L'enfant](https://open.spotify.com/artist/5imgjumuHUmnzZF3vOEmso) | [fermer les yeux](https://open.spotify.com/album/3ROY9Wamd7k7dFoPYzp4I6) | 2:10 | 2024-02-01 | 2024-03-08 |
 | [Fire In Higher Ground](https://open.spotify.com/track/4dlJOy0IXON6qP4XsDwmpT) | [Chester Remington](https://open.spotify.com/artist/2SsHmYd28pfHyHeec39mBM) | [Fire In Higher Ground](https://open.spotify.com/album/6S1FL1pvdpss8fVA6cK5a8) | 4:52 | 2024-01-18 | 2024-02-09 |
 | [Flèche Argentée](https://open.spotify.com/track/56F782Sp56OhuQT9yREuvz) | [Order89](https://open.spotify.com/artist/6ayzB6RMcaJM7POpMjRtTW) | [Flèche Argentée](https://open.spotify.com/album/5RpOAd4JdkkG0cLP5DTJcz) | 3:05 | 2023-11-02 | 2023-12-08 |
@@ -90,7 +90,7 @@
 | [Johnny Cash](https://open.spotify.com/track/5Dpm1jgO5VobfRs8Ub13Uf) | [Julius On The Wave](https://open.spotify.com/artist/3u8hEmcHdXJhkI0d6pHNId) | [Johnny Cash](https://open.spotify.com/album/7MuRvKMSoV3vvVUtz2XT9r) | 2:47 | 2024-04-19 | 2024-06-14 |
 | [Joy](https://open.spotify.com/track/349nICB9NxNabg6WI27ZV5) | [LE BLEU](https://open.spotify.com/artist/0J9AH1bf6gXuhhZY8Ysuz4) | [Porte 11](https://open.spotify.com/album/6MH3JAwwP85b1XQN1bOyF4) | 2:22 | 2023-09-28 | 2023-11-10 |
 | [just a noise](https://open.spotify.com/track/2mgDRx52b1GhnikAJqRFvP) | [Kevin Heartbeats](https://open.spotify.com/artist/3hnYXtcKvZcua5mprGrsTG) | [just a noise](https://open.spotify.com/album/1dfM8mdmfobemurtB4f6qi) | 2:52 | 2024-05-30 | 2024-08-16 |
-| [JUSTE AMIS](https://open.spotify.com/track/1L9xCQ6PYyAgHqGfFPXC9N) | [THÉA](https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL) | [PANAME ŒSTROS POUBELLE](https://open.spotify.com/album/53JDJmBpfYZuJb2nz0v5SE) | 3:21 | 2023-11-16 |  |
+| [JUSTE AMIS](https://open.spotify.com/track/1L9xCQ6PYyAgHqGfFPXC9N) | [THÉA](https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL) | [PANAME ŒSTROS POUBELLE](https://open.spotify.com/album/53JDJmBpfYZuJb2nz0v5SE) | 3:21 | 2023-11-16 | 2024-09-13 |
 | [KLNX](https://open.spotify.com/track/3ZBddPuRshTebTdeZNRRnr) | [Akira & le Sabbat](https://open.spotify.com/artist/1beqcw5P0wds8IzLuuAxZp) | [KLNX](https://open.spotify.com/album/19VEDVCNaVICCxnjhCrCVm) | 3:30 | 2024-04-18 | 2024-04-26 |
 | [KLNX](https://open.spotify.com/track/63cOm5jCSwyRG9szlKdBcC) | [Akira & le Sabbat](https://open.spotify.com/artist/1beqcw5P0wds8IzLuuAxZp) | [KLNX](https://open.spotify.com/album/7kDH9ZPKK5JhmWUUSR1lcj) | 3:30 | 2023-10-19 | 2024-04-19 |
 | [l'amour et la bagarre](https://open.spotify.com/track/6WxZeXxZWF2BVTrmHB4Ijl) | [Lulu Van Trapp](https://open.spotify.com/artist/6N9HDXBvQ0Nd9GVtHg3DMZ) | [l'amour et la bagarre](https://open.spotify.com/album/30eids0YHwyKSvDoEkoWrK) | 3:03 | 2023-11-09 | 2024-04-19 |
@@ -103,11 +103,12 @@
 | [Labrador](https://open.spotify.com/track/37RU5uDagBkmkcf61HGHTZ) | [Ottis Cœur](https://open.spotify.com/artist/0hLbUud67RYSocCdgLf6pR) | [Labrador](https://open.spotify.com/album/464DpW9aRGNKJIHCud8jRl) | 2:39 | 2023-09-28 | 2023-11-17 |
 | [Laisse moi le chat](https://open.spotify.com/track/2zUjP87cBGoW49OPUH8y1H) | [Johan Papaconstantino](https://open.spotify.com/artist/7xuc5o2ysVzV0UDiGordzO) | [Laisse moi le chat](https://open.spotify.com/album/2KqwI0E1dIt9aHnJuLIxMt) | 3:25 | 2023-10-05 | 2023-12-08 |
 | [Le Pigeon](https://open.spotify.com/track/6dT08hM1qO8dx0HEWytgr6) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Le Pigeon](https://open.spotify.com/album/7jf67ZHP55fFr0rDvRFV55) | 2:43 | 2023-10-05 | 2024-03-01 |
+| [Le Plus Grand Spectacle De La Terre](https://open.spotify.com/track/4XrYouAkn2r0SruM46R8Kv) | [ascendant vierge](https://open.spotify.com/artist/3IMOGrM63og03I4jMYo35G) | [Le Plus Grand Spectacle De La Terre](https://open.spotify.com/album/6v3AWuo8JpAn2dvkBnObzY) | 4:12 | 2024-09-12 |  |
 | [Le saut du tigre](https://open.spotify.com/track/2HWc8pXCVL3D3INJshlyYp) | [Aquaserge](https://open.spotify.com/artist/1XOKresOiQtBmduOEskf4s) | [Le saut du tigre](https://open.spotify.com/album/66OhazmOAiQAUw4kJ3R7GN) | 3:10 | 2024-03-28 | 2024-04-26 |
 | [Le silence](https://open.spotify.com/track/2HxU432YufOpu8qaJIed2P) | [Juniore](https://open.spotify.com/artist/1vxsourLLLfobrxyWAcuQH) | [Le silence](https://open.spotify.com/album/3t6o8bS45YQGnLC5xH3DNU) | 3:25 | 2024-04-04 |  |
 | [Le soleil](https://open.spotify.com/track/2lktF3thBYKCdaaTmGbwHu) | [Stuck in the Sound](https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy) | [Le soleil](https://open.spotify.com/album/6YLBbcCJyHaH8XhQOYr3R8) | 4:07 | 2023-09-28 | 2023-12-01 |
 | [Le téléphone](https://open.spotify.com/track/3NAx8hW6fdM9Tyt8RqplNM) | [Jim Bauer](https://open.spotify.com/artist/77kjYcXMhJX87ZjtrlxbLo) | [Le téléphone](https://open.spotify.com/album/7xlJo76BopfAUd4rwiwDPv) | 2:42 | 2023-11-23 | 2023-12-01 |
-| [Les garçons](https://open.spotify.com/track/5XGju7r47HMtg660vdkBSd) | [Lescop](https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W) | [Les garçons](https://open.spotify.com/album/6Yy55S5ELrJMIbGcdQ7qQK) | 3:40 | 2023-11-16 |  |
+| [Les garçons](https://open.spotify.com/track/5XGju7r47HMtg660vdkBSd) | [Lescop](https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W) | [Les garçons](https://open.spotify.com/album/6Yy55S5ELrJMIbGcdQ7qQK) | 3:40 | 2023-11-16 | 2024-09-13 |
 | [Les garçons](https://open.spotify.com/track/3Ff2iqsPtk3vtl0LPbTZx6) | [Lescop](https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W) | [Rêve parti](https://open.spotify.com/album/3cTYOxcJrFZjoTClbbceI9) | 3:41 | 2024-03-28 | 2024-04-19 |
 | [Les sites de rencontre](https://open.spotify.com/track/4nkJVppg7SLJCRnHbkGCrB) | [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA) | [Seule sous ma frange \(Extension\)](https://open.spotify.com/album/6OghTJMXlowG5XyFaQsFsi) | 4:45 | 2023-09-28 | 2023-10-20 |
 | [Lune](https://open.spotify.com/track/2PH10Pa1Yb2yMBZNzeF4Uy) | [Walter Astral](https://open.spotify.com/artist/70OFPH4Nv3kFhCgUU9oGqC) | [Lune](https://open.spotify.com/album/3NFrg3aQ6xeVCaTcfk65iC) | 3:45 | 2024-06-06 |  |
@@ -119,10 +120,12 @@
 | [Miami](https://open.spotify.com/track/3xlzqzAs4T4LK0bsE0FEvB) | [Charlotte Fever](https://open.spotify.com/artist/3j2UtVAHwuHZywdk4zU0vX) | [Paris cyclone](https://open.spotify.com/album/46CCI0ZcsEnvxwMHWkZFqw) | 3:31 | 2023-11-09 | 2023-12-22 |
 | [mignon](https://open.spotify.com/track/532whyQUywJsT8tL5Jgkyz) | [L'enfant](https://open.spotify.com/artist/5imgjumuHUmnzZF3vOEmso) | [mignon](https://open.spotify.com/album/2LPAGoujHArNcmK94Gll3r) | 2:23 | 2023-10-12 | 2023-12-15 |
 | [Modern Love](https://open.spotify.com/track/61rputyFcUsC1ldct1OKRr) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [Modern Love](https://open.spotify.com/album/436QZpEOWnh4wVphHHYbrA) | 3:54 | 2024-05-30 |  |
-| [Moins seul sans eux](https://open.spotify.com/track/1c56S0vX15OA4H8X64ziJl) | [Simia](https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev) | [Moins seul sans eux](https://open.spotify.com/album/02dlfpLJyHZ5uONzXyQcDp) | 2:11 | 2023-12-08 |  |
+| [Moins seul sans eux](https://open.spotify.com/track/1c56S0vX15OA4H8X64ziJl) | [Simia](https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev) | [Moins seul sans eux](https://open.spotify.com/album/02dlfpLJyHZ5uONzXyQcDp) | 2:11 | 2023-12-08 | 2024-09-13 |
+| [Monumental](https://open.spotify.com/track/7tJlVzsLzzmA7bLI9ytgS9) | [Juniore](https://open.spotify.com/artist/1vxsourLLLfobrxyWAcuQH) | [Trois, Deux, Un](https://open.spotify.com/album/20yAmWJJUpuJpB3qkkWCng) | 3:11 | 2024-09-12 |  |
 | [More Love](https://open.spotify.com/track/2u61bnDMLxqboFAZLin2XL) | [Adé](https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s) | [More Love](https://open.spotify.com/album/20hbGMg4Xyaa9sJ0HC3lSH) | 2:40 | 2024-08-15 |  |
 | [Music on Hold 4 Ever](https://open.spotify.com/track/67aBiXoZS81OmkaQtxXpc5) | [Music On Hold](https://open.spotify.com/artist/4iGtVI2ToIjWlynR8WPzda) | [4 Ever](https://open.spotify.com/album/7bda4KpVL4TQDDJt4qRaZO) | 3:08 | 2023-12-14 | 2024-05-03 |
 | [My Way \(with Creams\)](https://open.spotify.com/track/5WvApuKcoXZL1FinExKsRq) | [Moodoïd](https://open.spotify.com/artist/3mQgXwcZz2TZgo9a5diomC), [Creams](https://open.spotify.com/artist/6n7sKOK6qxbEU98EomhFZc) | [My Way \(with Creams\)](https://open.spotify.com/album/1oWzOh4biDkSnj0ZITjuYo) | 3:14 | 2024-01-18 | 2024-03-29 |
+| [Méchant garçon \(feat\. Chien Noir\)](https://open.spotify.com/track/0UxirFJ2VwSeVI2xLXgSuU) | [Bandit Bandit](https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h), [chien noir](https://open.spotify.com/artist/2MdOIYu5xlRSog6P2i4uwP) | [Méchant garçon \(feat\. Chien Noir\)](https://open.spotify.com/album/2mGz7zRWccHazZEIZnXqBJ) | 2:56 | 2024-09-12 |  |
 | [MÉTA DEUIL](https://open.spotify.com/track/0NyCKpKgai5U3iU5MazIld) | [Joanna](https://open.spotify.com/artist/5k7czLtvpvADY4FkRnTS4p) | [MÉTA DEUIL](https://open.spotify.com/album/56HYXJHwbjFKk62U9CIZCv) | 2:54 | 2023-11-02 | 2024-03-29 |
 | [New Place in Town](https://open.spotify.com/track/6VMrf5OUtv67cUAcXyQ9ZE) | [VoX LoW](https://open.spotify.com/artist/7wdA5zANepbxnHVkUNQMg9) | [Keep on Falling](https://open.spotify.com/album/0FBzbc9TbvtCEXvgVsjQCe) | 4:38 | 2023-12-21 | 2024-06-21 |
 | [New World](https://open.spotify.com/track/4j9XjA7cYOeX9KFKNk3WUz) | [Aime Simone](https://open.spotify.com/artist/75oAxYtjhDyLttgvGwQIvM) | [New World](https://open.spotify.com/album/6MTwKUXoJ0zWO8H8bshzqy) | 3:14 | 2023-09-28 | 2023-11-03 |
@@ -172,6 +175,7 @@
 | [Soustraction](https://open.spotify.com/track/6puJaBG3ECZSMWuICFDGIX) | [Claude](https://open.spotify.com/artist/7GwgWrKzqg3WzSD8EAvNZP) | [ADDITION / SOUSTRACTION](https://open.spotify.com/album/3rewEAyDU74VfTIqSmTBWk) | 4:00 | 2024-03-14 | 2024-05-17 |
 | [Stadium](https://open.spotify.com/track/1U5ssXXbZ6TfzBJQzqneZo) | [Servo](https://open.spotify.com/artist/6y5MFAfEupGez5ZLRYDHlN) | [Monsters](https://open.spotify.com/album/7MakO8Dpiuc5ZOA18dWey7) | 5:08 | 2023-11-30 | 2024-03-22 |
 | [STP Apaise toi](https://open.spotify.com/track/1JDY621fH5Ufd0y9AuCg59) | [Petit Fantôme](https://open.spotify.com/artist/3MUJ4wHF8z7MSoIfp1Tt1j), [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk) | [Stave II](https://open.spotify.com/album/4IwLrhUacdpFv13CSIEnZC) | 3:12 | 2023-10-05 | 2023-10-27 |
+| [Stream Roller](https://open.spotify.com/track/6no1ETaFSFnyGHWtki50zI) | [Bryan's Magic Tears](https://open.spotify.com/artist/4HgpwARKKErmILpXm5YcST) | [Stream Roller](https://open.spotify.com/album/4QBPUw0lhdW6rg7zau4YLy) | 4:32 | 2024-09-12 |  |
 | [Strike](https://open.spotify.com/track/4GTA7LtqEO2b5kMT6EHfZ2) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Strike](https://open.spotify.com/album/7j2K75QimzNjpbc316cCxr) | 1:00 | 2023-10-05 | 2024-03-22 |
 | [STUPID CUNT IN THE MALL](https://open.spotify.com/track/2Up0DUfJRoRkA7ynD50Xtl) | [W!ZARD](https://open.spotify.com/artist/3E7Z5zzigflRAScfu3gigd) | [STUPID CUNT IN THE MALL](https://open.spotify.com/album/4tnat0J4elDPH4C144xxxg) | 4:04 | 2024-03-21 | 2024-03-29 |
 | [SUICIDE](https://open.spotify.com/track/1Aw8rYPjcA5kE9qM9KV3Q4) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [SUICIDE](https://open.spotify.com/album/6gJtO81KttmKypH2rQN8Ve) | 3:24 | 2024-04-11 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 
 > Jazz\. But funky\. Cover: Sly5thAve
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,686 likes - 200 songs - 15 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,795 likes - 200 songs - 15 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Mikros Kleftis",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Ivan Greko, Arab",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -86,7 +86,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 172577,
       "name": "9ARI",
       "url": "https://open.spotify.com/track/6vlH3qCZn1PjuBww5Z0e5I"
@@ -452,7 +452,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 162000,
       "name": "BBL",
       "url": "https://open.spotify.com/track/0tkqjVWquebERhbVXrQtMR"
@@ -915,6 +915,36 @@
     },
     {
       "album": {
+        "name": "TURBO DELUXE",
+        "url": "https://open.spotify.com/album/2QLCEk7JTunODh25ZYrE88"
+      },
+      "artists": [
+        {
+          "name": "TAFF",
+          "url": "https://open.spotify.com/artist/7sqEbHUwpaJTFqLv8e0W0J"
+        },
+        {
+          "name": "Don Salva",
+          "url": "https://open.spotify.com/artist/2B07rkNvWrYxV4Ieh7F3Ls"
+        },
+        {
+          "name": "Retro",
+          "url": "https://open.spotify.com/artist/09E3lzgW2TIZZaDAB2y4nb"
+        },
+        {
+          "name": "Evan Spikes",
+          "url": "https://open.spotify.com/artist/6p5qNRLXkVrmKVRPMaL6qP"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "DRIFTERS",
+      "url": "https://open.spotify.com/track/24Id88lGXLgMtHL7HMUAdg"
+    },
+    {
+      "album": {
         "name": "Metal Slang",
         "url": "https://open.spotify.com/album/4bmNVze4PROPrLse71bcjd"
       },
@@ -1213,6 +1243,28 @@
     },
     {
       "album": {
+        "name": "Gang Freestyle",
+        "url": "https://open.spotify.com/album/1aHMZuwPyTaN4vhaAj1VWT"
+      },
+      "artists": [
+        {
+          "name": "Onad",
+          "url": "https://open.spotify.com/artist/4RTFt1VFxH6TYHIpVDCmpV"
+        },
+        {
+          "name": "Alecc",
+          "url": "https://open.spotify.com/artist/0vpzE9GXq41Yg1ixJUrwOG"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Gang Freestyle",
+      "url": "https://open.spotify.com/track/48KLNJPTaz7NrDzTZrcJ7W"
+    },
+    {
+      "album": {
         "name": "Get Up",
         "url": "https://open.spotify.com/album/2OTQt5saR38tyZSn9WoOwf"
       },
@@ -1254,6 +1306,24 @@
       "duration_ms": 136988,
       "name": "GG",
       "url": "https://open.spotify.com/track/63SDCmsnESL8xoY12YZPsc"
+    },
+    {
+      "album": {
+        "name": "GHETTO BABY",
+        "url": "https://open.spotify.com/album/2NG3xFPq61JAAGaf7fO10R"
+      },
+      "artists": [
+        {
+          "name": "Thug Slime",
+          "url": "https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115200,
+      "name": "GHETTO BABY",
+      "url": "https://open.spotify.com/track/1AJWct6oyz8TG4dwzELfA3"
     },
     {
       "album": {
@@ -1320,6 +1390,32 @@
       "duration_ms": 175700,
       "name": "Grammes",
       "url": "https://open.spotify.com/track/0FT7EsckLHPVdfx9K3dwj2"
+    },
+    {
+      "album": {
+        "name": "GUZMAN",
+        "url": "https://open.spotify.com/album/1b5IAxsuk13wd4zUbvKT1i"
+      },
+      "artists": [
+        {
+          "name": "Ivan Greko",
+          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
+        },
+        {
+          "name": "Arab",
+          "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
+        },
+        {
+          "name": "Sanko",
+          "url": "https://open.spotify.com/artist/0ijA6WxysUZ8vZQL7JkUfx"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188852,
+      "name": "GUZMAN",
+      "url": "https://open.spotify.com/track/6P9P1j0v2KiDu4vxW3T1WS"
     },
     {
       "album": {
@@ -1590,7 +1686,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 137812,
       "name": "KALOKAIRI",
       "url": "https://open.spotify.com/track/4f5U2wOXspirNi7GNfJGvO"
@@ -1847,6 +1943,28 @@
     },
     {
       "album": {
+        "name": "Makigiaz",
+        "url": "https://open.spotify.com/album/5KY0qPCraEdJZvXMhHMRB2"
+      },
+      "artists": [
+        {
+          "name": "Yolte",
+          "url": "https://open.spotify.com/artist/41Pv6UAIHbAoaWNKRTdENm"
+        },
+        {
+          "name": "MG",
+          "url": "https://open.spotify.com/artist/6SWOdiks4Ac3lMM8NCqDm0"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129522,
+      "name": "Makigiaz",
+      "url": "https://open.spotify.com/track/0zQydXtbVjEVMwsymWUBIA"
+    },
+    {
+      "album": {
         "name": "Malaga",
         "url": "https://open.spotify.com/album/5ZtXZylrV0qhPjs7ZTh78N"
       },
@@ -2006,7 +2124,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 157227,
       "name": "MBAPPE",
       "url": "https://open.spotify.com/track/0MNvjSqNtUCZ4ikxrRe8kz"
@@ -2062,6 +2180,28 @@
       "duration_ms": 206857,
       "name": "Megali Gata",
       "url": "https://open.spotify.com/track/2GrZtjuqspSXNtWYAnkL4K"
+    },
+    {
+      "album": {
+        "name": "Menei",
+        "url": "https://open.spotify.com/album/5IVGU8Gz6jhRG5UBOTB2DV"
+      },
+      "artists": [
+        {
+          "name": "iLLEOo",
+          "url": "https://open.spotify.com/artist/1SZwJYkX5jEm8xqZXSGXjj"
+        },
+        {
+          "name": "ASL Beats",
+          "url": "https://open.spotify.com/artist/4ChQVaQSb8Vx6MCTqGf5Ds"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117777,
+      "name": "Menei",
+      "url": "https://open.spotify.com/track/6mxWs2iE5YJwO3B3I520HJ"
     },
     {
       "album": {
@@ -2182,7 +2322,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 201818,
       "name": "Nicky Jam",
       "url": "https://open.spotify.com/track/05HPX0PHg8usihHE7eQHjT"
@@ -2586,7 +2726,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 168749,
       "name": "REPORTAGE",
       "url": "https://open.spotify.com/track/7nD3EmNXEg6RI7kRS8Wjdu"
@@ -2656,7 +2796,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 246361,
       "name": "San Emas",
       "url": "https://open.spotify.com/track/4BItWPq63r4WFsPASSNVZI"
@@ -2984,6 +3124,24 @@
       "duration_ms": 164265,
       "name": "TMC",
       "url": "https://open.spotify.com/track/3SHWhHNbN985xOYOsjBncJ"
+    },
+    {
+      "album": {
+        "name": "O Kosmos Pos Allazei",
+        "url": "https://open.spotify.com/album/3TMDuG2Bf9lWeWtsgIjJ8K"
+      },
+      "artists": [
+        {
+          "name": "TAF LATHOS",
+          "url": "https://open.spotify.com/artist/5sMTmnLClGnDFZm4c1yjCP"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237108,
+      "name": "Tou Chelmou To Chioni",
+      "url": "https://open.spotify.com/track/4EwpQXSCSGOxZt3NJO4kqo"
     },
     {
       "album": {

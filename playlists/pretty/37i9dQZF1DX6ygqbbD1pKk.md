@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ygqbbD1pKk.md) - [plain]
 
 > Todos tus éxitos favoritos de Disney.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,750 likes - 98 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,831 likes - 98 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ygqbbD1pKk.md) - [plain]
 | 64 | [Reflection](https://open.spotify.com/track/2AILbz83cBnrAMAG06rZts) | [Lea Salonga](https://open.spotify.com/artist/1GlMjIezcLwV3OFlX0uXOv), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Mulan \(Original Soundtrack\)](https://open.spotify.com/album/3Ohs7Jo6GM6mydUOL0m5aC) | 2:26 |
 | 65 | [It's All Right \- From "Soul"/Duet Version](https://open.spotify.com/track/5aEJj3gYSSp82NUy2yaIpe) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [It's All Right \(From "Soul"/Duet Version\)](https://open.spotify.com/album/3cY3iLpzQzRZcUabdnHH4f) | 2:49 |
 | 66 | [Trabajo duro](https://open.spotify.com/track/5c2gEGVPlMW4HNgLkAaBrq) | [Heidy](https://open.spotify.com/artist/6urU9QGq4o5mz50NGRL23P), [Paula Arias Esquivel](https://open.spotify.com/artist/5pESGTW9dtycz6kSk8cOmS), [The Pinnacle Gospel Choir](https://open.spotify.com/artist/4R1dpQ2VCZsEutiXZKeIzk) | [La Princesa y el sapo \(Banda Sonora Original en Español\)](https://open.spotify.com/album/6fn8DNr1k7mVD1yRHIrcoe) | 2:48 |
-| 67 | [Colores en el Viento](https://open.spotify.com/track/7AsZ5WyFcF0vGRdkPl0F87) | [Susana Zavaleta](https://open.spotify.com/artist/5XOuR06r1s83I1YgX0BWDE) | [Pocahontas \(Banda Sonora Original en Español\)](https://open.spotify.com/album/1g8v8yll56NuzDysJYsxpS) | 3:33 |
+| 67 | [Colores en el Viento](https://open.spotify.com/track/7AsZ5WyFcF0vGRdkPl0F87) | [Susana Zavaleta](https://open.spotify.com/artist/5XOuR06r1s83I1YgX0BWDE) | [Pocahontas \- Banda Sonora Original en Español](https://open.spotify.com/album/1g8v8yll56NuzDysJYsxpS) | 3:33 |
 | 68 | [I2I](https://open.spotify.com/track/7lPxGs556PD8H3bUd9LzHp) | [Tevin Campbell](https://open.spotify.com/artist/5VfqJBmXcf6ZqXoGij5qTE), [Rosie Gaines](https://open.spotify.com/artist/1HRiWIhV7rgiL74L2AqZ5W) | [A Goofy Movie](https://open.spotify.com/album/3gUUrvvTs1JlX5AjiKRV0P) | 4:01 |
 | 69 | [A Dream Is a Wish Your Heart Makes](https://open.spotify.com/track/3s6nfqfT6kyLBT10vs0M4l) | [Lily James](https://open.spotify.com/artist/7gWjOPetXNCBqlVe6axl8K) | [Cinderella \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MaXQAzgpi1UGNNia9r7fx) | 2:00 |
 | 70 | [Ma Belle Evangeline](https://open.spotify.com/track/4i5L7KbZZ9ygJrZFNlc4hI) | [Arturo Mercado](https://open.spotify.com/artist/37o8xXhcDR1fJTpSUDjRul), [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv) | [La Princesa y el sapo \(Banda Sonora Original en Español\)](https://open.spotify.com/album/6fn8DNr1k7mVD1yRHIrcoe) | 1:54 |

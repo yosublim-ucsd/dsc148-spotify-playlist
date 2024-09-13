@@ -4,7 +4,7 @@
 
 > La playlist qui fait du bien ☀️
 
-251 songs - 14 hr 2 min
+253 songs - 14 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +177,7 @@
 | [Paper Thin](https://open.spotify.com/track/0UbW7Igs0aVJ1dQc3k7dkq) | [Caroline Alves](https://open.spotify.com/artist/6H54MC0LiueYOlL3lKLb4r) | [Paper Thin](https://open.spotify.com/album/0ZAZY6FD3Amueh26EH6Gdw) | 3:26 | 2024-01-18 | 2024-04-19 |
 | [Paralyzed](https://open.spotify.com/track/2XPLNZZ7CTnOzq54kZ6M6F) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Paralyzed](https://open.spotify.com/album/0w3f9KcyAau2CzhOmMCTfV) | 3:47 | 2023-09-28 | 2023-11-24 |
 | [Pasadena](https://open.spotify.com/track/5EcxDrQuoP14uKF2RFOy8A) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Pasadena](https://open.spotify.com/album/0zmWwqe1hamqWmBwdnaw3C) | 3:08 | 2024-03-29 | 2024-07-05 |
-| [Payback](https://open.spotify.com/track/07q1dePaFwOwlx1QSqpWZu) | [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Payback b/w Into The Blue](https://open.spotify.com/album/64x5zlmwoaVBxV7hd5jPOA) | 3:03 | 2024-04-11 |  |
+| [Payback](https://open.spotify.com/track/07q1dePaFwOwlx1QSqpWZu) | [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Payback b/w Into The Blue](https://open.spotify.com/album/64x5zlmwoaVBxV7hd5jPOA) | 3:03 | 2024-04-11 | 2024-09-13 |
 | [PLUS FORT](https://open.spotify.com/track/3rBnK1aNhpg4j3HKkVrcbq) | [Julien Granel](https://open.spotify.com/artist/3VvDMiseFeokUqlLPXMh45) | [COOLEUR](https://open.spotify.com/album/4ssdeY6r0pe2Wd2RHWbED8) | 3:05 | 2024-02-15 | 2024-04-12 |
 | [POETRY IN MOTION](https://open.spotify.com/track/6vZRq9JIOGTl3b9dmEgeZV) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [HEAVY](https://open.spotify.com/album/26678sDHO3Xg8g6q3Fo1WX) | 3:11 | 2024-06-27 |  |
 | [Pon Pón](https://open.spotify.com/track/4B3X07DwS1HoviCmfkEKzC) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Pon Pón](https://open.spotify.com/album/6TNu9Fm6dr3ReP1omRRaZl) | 2:58 | 2024-03-21 | 2024-07-05 |
@@ -203,6 +203,7 @@
 | [Side Quest](https://open.spotify.com/track/3CQhLUh7PfobqurGEEoz6h) | [Pearl & The Oysters](https://open.spotify.com/artist/7ovvjgqrTeuMxbzIykUqDs) | [Side Quest](https://open.spotify.com/album/3ws96T2S43qUuNt1vyYjHq) | 3:19 | 2024-07-04 |  |
 | [Simply Paradise](https://open.spotify.com/track/1EKpwGoisV5nUOqqMZ7gAJ) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM), [Ryan Paris](https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC) | [Simply Paradise](https://open.spotify.com/album/4NKglcnKOsi2uFYJOSGkUM) | 2:35 | 2023-10-05 | 2024-01-26 |
 | [Sit Next to Me](https://open.spotify.com/track/4BdGO1CaObRD4La9l5Zanz) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Sacred Hearts Club](https://open.spotify.com/album/5lFvZh6pCTJzr9UStebyCF) | 4:03 | 2024-02-01 | 2024-05-03 |
+| [SIXTEEN WONDERS](https://open.spotify.com/track/1KwH6IwyksTOagfHQm6VpX) | [BLOW](https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266) | [SIXTEEN WONDERS](https://open.spotify.com/album/778Og5tR0wLAoV4bRkhtQU) | 2:58 | 2024-09-12 |  |
 | [Slip Away](https://open.spotify.com/track/0B9QFGFixYDCLKzPmN45KV) | [Dan Croll](https://open.spotify.com/artist/5Rr15NSbi1Xjno1AEP9u21) | [Second Guess](https://open.spotify.com/album/45uB4wf1JEzNmD7QZd6FAi) | 2:12 | 2024-05-30 |  |
 | [Slow Song \(with Dragonette\)](https://open.spotify.com/track/6zTbYrkYJSiNOw6jL7nM5H) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [HISTORY](https://open.spotify.com/album/6IwONZNPHt81ip42NboklH) | 4:13 | 2024-06-06 |  |
 | [Sober](https://open.spotify.com/track/0MaRZUe5QjY56E1pfY3hFY) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Sober](https://open.spotify.com/album/7JKGPSP7UIjxPWWo9KuqMK) | 2:42 | 2024-05-02 |  |
@@ -237,6 +238,7 @@
 | [the way things go](https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [the way things go](https://open.spotify.com/album/2rLVMQbIw1C8JHmad6H0Pk) | 3:07 | 2023-09-28 | 2023-11-08 |
 | [The World](https://open.spotify.com/track/5tVq3U1jHqxLmE5EbF7Ly9) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Young Hearts](https://open.spotify.com/album/7qNttLERG60jtBqhMsLA7J) | 3:06 | 2023-09-28 | 2023-10-27 |
 | [Things I Thought Were Mine](https://open.spotify.com/track/0Y8OIyvMvyTpEUhfLupDoh) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Happiness in Liquid Form](https://open.spotify.com/album/4ljntV811kHlKHhtIctvcG) | 3:13 | 2023-10-19 | 2024-02-09 |
+| [this is what forever feels like \(with Nick Jonas\)](https://open.spotify.com/track/3uTsiaNxy6h6EAd7MsCf9D) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [this is what forever feels like](https://open.spotify.com/album/71fJ7EFsAMMKkfnZMIbtKI) | 2:34 | 2024-09-12 |  |
 | [This Life](https://open.spotify.com/track/4dRqYKhLVujxiBXcq50YzG) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Father of the Bride](https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ) | 4:28 | 2023-09-28 | 2024-05-24 |
 | [Tieduprightnow](https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Tieduprightnow](https://open.spotify.com/album/5v7PsESglCFeVcb7wNEWIW) | 4:09 | 2023-09-28 | 2023-10-06 |
 | [Time Flies When You're Having Fun](https://open.spotify.com/track/09ezRBFOwVroGhwKry8SvI) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7), [Pearl & The Oysters](https://open.spotify.com/artist/7ovvjgqrTeuMxbzIykUqDs) | [Time Flies When You're Having Fun](https://open.spotify.com/album/2EyVmooUGFRDpI5mhvs2s6) | 3:22 | 2024-03-07 | 2024-05-10 |
@@ -248,7 +250,7 @@
 | [Uh](https://open.spotify.com/track/4O2kPvcDfNAJbCA2Lc8l3D) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Uh](https://open.spotify.com/album/3L1yuiFJh0ylDphqb8JKFt) | 3:31 | 2023-09-28 | 2023-10-06 |
 | [Unbelievable](https://open.spotify.com/track/4NVyvRuKdJXqC7vnJycVjb) | [Citizen Papes](https://open.spotify.com/artist/2MNgLXbhja9W7EUYoXmK4l) | [Unbelievable](https://open.spotify.com/album/7uBzED8vXwazMC9Q3MHY0q) | 3:23 | 2024-07-18 |  |
 | [Under Water / In Air](https://open.spotify.com/track/0zDptnFR2ADwjapoENeSzF) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Under Water / In Air](https://open.spotify.com/album/3XvwFrw03TCLjWLeBonhDy) | 3:09 | 2024-02-01 | 2024-04-19 |
-| [Viens on prend le temps](https://open.spotify.com/track/4DzyOw0ACdOdOqzh6suSWj) | [Malik Djoudi](https://open.spotify.com/artist/5STTEE3TlZg9gb3xNC4RHF) | [Viens on prend le temps](https://open.spotify.com/album/7q3GG7E7Lf3Dlvk5XZ9MYA) | 2:56 | 2024-07-18 |  |
+| [Viens on prend le temps](https://open.spotify.com/track/4DzyOw0ACdOdOqzh6suSWj) | [Malik Djoudi](https://open.spotify.com/artist/5STTEE3TlZg9gb3xNC4RHF) | [Viens on prend le temps](https://open.spotify.com/album/7q3GG7E7Lf3Dlvk5XZ9MYA) | 2:56 | 2024-07-18 | 2024-09-13 |
 | [Wait \- Chromeo Remix](https://open.spotify.com/track/0eayB5jay6m21D816D7jF4) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Wait \(Chromeo Remix\)](https://open.spotify.com/album/5OI8zfqy2WwWN4OnfPVXak) | 4:19 | 2024-01-04 | 2024-04-19 |
 | [West Side Jet](https://open.spotify.com/track/0m2Zkf8hxe53ixSJJaVMXy) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Ticket To Shangri\-La](https://open.spotify.com/album/1RnES2KkMW6gEwRkhy53Xx) | 4:06 | 2023-11-23 | 2024-02-16 |
 | [WHEN YOU'RE WITH ME](https://open.spotify.com/track/7DrW56pQPjh9IssRHY5jcV) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm) | [WHEN YOU'RE WITH ME](https://open.spotify.com/album/2A3Ydj3xzNAanvUobhv2YN) | 3:18 | 2024-03-29 | 2024-05-17 |

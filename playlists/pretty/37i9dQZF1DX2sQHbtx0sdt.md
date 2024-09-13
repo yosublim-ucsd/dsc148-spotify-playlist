@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 
 > New and trending hip\-hop from around the world\. Cover: Central Cee 🇬🇧 & JRK 19 🇫🇷
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,253 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,339 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 | 14 | [KEHLANI](https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [KEHLANI](https://open.spotify.com/album/5Zwbll6KYxOjZSuxRjQDEm) | 2:02 |
 | 15 | [PTSD](https://open.spotify.com/track/50NJA7Ds65risvAXLspiWK) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [PTSD](https://open.spotify.com/album/6VUAEJ53jti8LKTEKGydaS) | 2:09 |
 | 16 | [T.I.A \- A COLORS SHOW](https://open.spotify.com/track/1CBcqxqfrImhinNsC08sej) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [T.I.A \- A COLORS SHOW](https://open.spotify.com/album/5bZnJCwm9vRanQPpGbMW5B) | 3:41 |
-| 17 | [MELLOW CALM & CHILL](https://open.spotify.com/track/74AQtgxo3NLWoV9ukri8LU) | [MELODOWNZ](https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H), [Hyan](https://open.spotify.com/artist/6vuDNxdLvvXkOoAL9rZJBU) | [MELLOW CALM & CHILL](https://open.spotify.com/album/2MwVj2j9jFYmUk2MN14BRe) | 2:40 |
+| 17 | [MELLOW CALM & CHILL](https://open.spotify.com/track/74AQtgxo3NLWoV9ukri8LU) | [MELODOWNZ](https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H), [Hyan](https://open.spotify.com/artist/6vuDNxdLvvXkOoAL9rZJBU), [rede.](https://open.spotify.com/artist/1YZwoutBQnxaznZsPcTonZ) | [MELLOW CALM & CHILL](https://open.spotify.com/album/2MwVj2j9jFYmUk2MN14BRe) | 2:40 |
 | 18 | [Incredible Sauce \(feat\. Dave\)](https://open.spotify.com/track/7jxnHknJtjE1MM8IfUidMF) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Zero Tolerance](https://open.spotify.com/album/09XgqxfkwCXTMAkIDtrksk) | 4:03 |
 | 19 | [YO LO SOÑÉ](https://open.spotify.com/track/1NTluDanyn4ET8RTYi0H1I) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [YO LO SOÑÉ](https://open.spotify.com/album/1Ou15E6Sw869LfoFGBZMBx) | 2:55 |
 | 20 | [Better Days \(feat\. JUMADIBA\)](https://open.spotify.com/track/0vBoj1HfKDyB4SGQJPPUEK) | [SamRecks](https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [BALANCE](https://open.spotify.com/album/53TUP9i0S2t2gDRe9pCfYB) | 1:53 |

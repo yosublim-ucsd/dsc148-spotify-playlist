@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Le meilleur de la sc\u00e8ne alternative du moment. Photo : Yannis & The Yaw",
+  "description": "Le meilleur de la sc\u00e8ne alternative du moment. Photo : Franz Ferdinand",
   "name": "Hot Alternative",
   "tracks": [
     {
@@ -288,6 +288,24 @@
       "duration_ms": 199226,
       "name": "Artschool",
       "url": "https://open.spotify.com/track/2sXSfa8TIXgadMsS0Cu9p2"
+    },
+    {
+      "album": {
+        "name": "Audacious",
+        "url": "https://open.spotify.com/album/6tApXgjCNnGOeB176tJiKV"
+      },
+      "artists": [
+        {
+          "name": "Franz Ferdinand",
+          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203692,
+      "name": "Audacious",
+      "url": "https://open.spotify.com/track/53OqecARVvVCUTjL1yg0sq"
     },
     {
       "album": {
@@ -706,6 +724,24 @@
       "duration_ms": 188640,
       "name": "Burning in Flames",
       "url": "https://open.spotify.com/track/1vp0sTWWZVcs8gW0PmDhM8"
+    },
+    {
+      "album": {
+        "name": "Hysterical Strength",
+        "url": "https://open.spotify.com/album/0TIs1t3CvFQnwS6T7t2dol"
+      },
+      "artists": [
+        {
+          "name": "DEADLETTER",
+          "url": "https://open.spotify.com/artist/4MfUQ99z2kgMnl9hAwffBx"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Bygones",
+      "url": "https://open.spotify.com/track/0jkye0KLXWdmmrsJ4Uld4H"
     },
     {
       "album": {
@@ -1871,6 +1907,24 @@
     },
     {
       "album": {
+        "name": "Hardcore Workout Queen",
+        "url": "https://open.spotify.com/album/68pRFIG5YFIYuMkDmApgg1"
+      },
+      "artists": [
+        {
+          "name": "Friedberg",
+          "url": "https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294407,
+      "name": "Hardcore Workout Queen",
+      "url": "https://open.spotify.com/track/7K01ebFNRoaVAogSU8gPiM"
+    },
+    {
+      "album": {
         "name": "Haunt You Still",
         "url": "https://open.spotify.com/album/4hoy0xTJAWSrD0R7t0t46H"
       },
@@ -2902,7 +2956,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 268146,
       "name": "Mother",
       "url": "https://open.spotify.com/track/57g6SFW7Fc8bCyni1BCYTM"
@@ -3507,6 +3561,24 @@
     },
     {
       "album": {
+        "name": "Pink Cactus Caf\u00e9",
+        "url": "https://open.spotify.com/album/0tX1nXVVy096AzQfQApY4s"
+      },
+      "artists": [
+        {
+          "name": "Courteeners",
+          "url": "https://open.spotify.com/artist/1NfJU4hy56Z4UM4iyIa1B2"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205080,
+      "name": "Pink Cactus Caf\u00e9",
+      "url": "https://open.spotify.com/track/7wG9eW4Gdhrvnw1b3r0shg"
+    },
+    {
+      "album": {
         "name": "How Have You Been?",
         "url": "https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO"
       },
@@ -3620,7 +3692,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 296722,
       "name": "Rain Can't Reach Us",
       "url": "https://open.spotify.com/track/6raq4es8xYh6Rp8OJNBFYj"
@@ -4018,7 +4090,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 176483,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/5IXA8J6Xugs507nAzwSa5F"
@@ -4094,7 +4166,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 198080,
       "name": "Solitude Of The Night Bus",
       "url": "https://open.spotify.com/track/0XrRTQNcxOn8tQgrilf4Mp"
@@ -5262,7 +5334,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 128880,
       "name": "You're So Impatient",
       "url": "https://open.spotify.com/track/3C6DObIUb0dvgPtN1SsC0m"
@@ -5320,6 +5392,24 @@
       "duration_ms": 187653,
       "name": "Your Side of Town",
       "url": "https://open.spotify.com/track/3XV77GNuIPYff6T7bzjYy9"
+    },
+    {
+      "album": {
+        "name": "Zombie Love",
+        "url": "https://open.spotify.com/album/356deEcGyHWdmQuPndkR4S"
+      },
+      "artists": [
+        {
+          "name": "Razorlight",
+          "url": "https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157385,
+      "name": "Zombie Love",
+      "url": "https://open.spotify.com/track/0etADF6sDYilpoIAbK3ihw"
     },
     {
       "album": {

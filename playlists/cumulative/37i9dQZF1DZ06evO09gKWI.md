@@ -2,9 +2,9 @@
 
 ### [This Is Bivolt](https://open.spotify.com/playlist/37i9dQZF1DZ06evO09gKWI)
 
-> This is Bivolt\. The essential tracks, all in one playlist.
+> This is Bivolt\. Todos os maiores hits em uma só playlist.
 
-68 songs - 3 hr 55 min
+69 songs - 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Entre Tu e Meu Som](https://open.spotify.com/track/7JNMwXX07GdA5hAK0IGrSA) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ) | [Entre Tu e Meu Som](https://open.spotify.com/album/2cjr3p101x8ba5EgQncL7q) | 2:47 | 2023-12-30 |  |
 | [Essa Onda](https://open.spotify.com/track/5JHDM8gvSfHRxVlGXTN8gJ) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Nitro](https://open.spotify.com/album/4yDw1NdadwEr9WRHp3f41y) | 3:08 | 2023-12-30 |  |
 | [Eu & Tu!](https://open.spotify.com/track/1ymfNLLUGtND2AEe2K0TjF) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Nitro](https://open.spotify.com/album/4yDw1NdadwEr9WRHp3f41y) | 3:24 | 2023-12-30 |  |
+| [Eu Avisei](https://open.spotify.com/track/6WEZWKz0Z6Qgb3nZ32OY8a) | [Boombeat](https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Slim Beats Beat](https://open.spotify.com/artist/1Fdh9nMoTOrtGmlZj9r07V) | [Eu Avisei](https://open.spotify.com/album/5ejkKJZfdzJxNFQGVn5pf9) | 5:18 | 2024-09-13 |  |
 | [Eu Avisei](https://open.spotify.com/track/71r0LXr8KWYQhqeNnIHMf9) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Boombeat](https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Slim Beat](https://open.spotify.com/artist/0JidbbbZv5SFBEwuc4dREP) | [Eu Avisei](https://open.spotify.com/album/7HSWL4Uqv5YJt5LOby2yyk) | 5:18 | 2024-01-22 | 2024-07-10 |
 | [Gato Preto](https://open.spotify.com/track/1uU4cYdQ0AKn2ptDrnoVPo) | [Tarcis](https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Luna](https://open.spotify.com/artist/2uY6iqNed0QZuENdRbxiaW) | [Todo Mundo Ama O Sol](https://open.spotify.com/album/4YfxPY16QwP1KTdtvkz5y3) | 2:52 | 2023-12-30 |  |
 | [Iludida](https://open.spotify.com/track/5r688OEO8p4dtzRMBAPumA) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J), [Red](https://open.spotify.com/artist/5796t3NDVuI6DiaW5avtrL), [Cyclope Beatz](https://open.spotify.com/artist/0VQRHmzky5fo3E5LZB0x3e) | [Chave](https://open.spotify.com/album/6SqzpkCbDN3FjdNvISmWcB) | 2:36 | 2023-12-30 |  |

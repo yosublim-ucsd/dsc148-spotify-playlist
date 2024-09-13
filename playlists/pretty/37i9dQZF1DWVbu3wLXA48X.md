@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: The WAEVE, Graham Coxon and Rose Elinor Dougall
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,586 likes - 96 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,590 likes - 96 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

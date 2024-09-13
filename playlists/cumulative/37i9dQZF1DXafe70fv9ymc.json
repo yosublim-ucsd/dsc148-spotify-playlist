@@ -89,6 +89,24 @@
     },
     {
       "album": {
+        "name": "BackFat",
+        "url": "https://open.spotify.com/album/0LRhLilERMSRAxszBoq2S9"
+      },
+      "artists": [
+        {
+          "name": "Turunesh",
+          "url": "https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237095,
+      "name": "BackFat",
+      "url": "https://open.spotify.com/track/2mxic3Fzx2iakoVVaHtepk"
+    },
+    {
+      "album": {
         "name": "Bad Decisions & Foreplay",
         "url": "https://open.spotify.com/album/3j3vh7zL3GuCIVdbK8tZzd"
       },
@@ -1300,7 +1318,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 202958,
       "name": "Risk",
       "url": "https://open.spotify.com/track/6qS9yoAUIXNfno5t4YLQdn"
@@ -1498,7 +1516,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 117761,
       "name": "SUPERSTAR",
       "url": "https://open.spotify.com/track/1UHftfgNHxCF2vw3LmJBsi"
@@ -1866,6 +1884,24 @@
       "duration_ms": 84346,
       "name": "Wishes And Butterflies",
       "url": "https://open.spotify.com/track/2sqs1oaraOEEmHRyTFcKT5"
+    },
+    {
+      "album": {
+        "name": "With Open Arms",
+        "url": "https://open.spotify.com/album/2dO8pR2M34D8IR50t5yEMg"
+      },
+      "artists": [
+        {
+          "name": "Ogranya",
+          "url": "https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "With Open Arms",
+      "url": "https://open.spotify.com/track/2zMkas94Ekim0wZfGsGe23"
     },
     {
       "album": {

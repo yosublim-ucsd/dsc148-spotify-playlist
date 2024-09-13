@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-594 songs - 1 day 6 hr 9 min
+595 songs - 1 day 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,6 +308,7 @@
 | [Limitless](https://open.spotify.com/track/0rw2up89gUnQRD8mUXjrm1) | [Elektronomia](https://open.spotify.com/artist/7qgorhDacy1FRz5HkAhDtu) | [Limitless](https://open.spotify.com/album/1immYAVOJxgJnZh4iKuJtP) | 4:04 | 2023-08-08 | 2023-12-14 |
 | [Link](https://open.spotify.com/track/4jEFJciScnN2AVmUlxuuxW) | [Jim Yosef](https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO) | [Link](https://open.spotify.com/album/1flrjf18ia3KTFcTcdpx4l) | 3:44 | 2023-08-08 | 2023-12-14 |
 | [Linked](https://open.spotify.com/track/7yfhESjiagb2x1WEWlgpbb) | [Jim Yosef](https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO), [Anna Yvette](https://open.spotify.com/artist/2Ndq6RparrhEoceel7LC4Z) | [Linked](https://open.spotify.com/album/1mGlEwLKAOXtdRvkdyYzTY) | 3:43 | 2023-08-08 | 2024-01-27 |
+| [Lock n' Load](https://open.spotify.com/track/0918PRLqxy7WJ3bNmjWySj) | [HXI](https://open.spotify.com/artist/3yRqd6IO6SamMAmnXwZKeU) | [Lock n' Load](https://open.spotify.com/album/7nnqBWlXiL1f2UtHgRiYW2) | 1:48 | 2024-09-12 |  |
 | [Loneliness](https://open.spotify.com/track/0c2IOjZnVajRBMIQSYq2jZ) | [Poylow](https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq), [Mandrazo](https://open.spotify.com/artist/51ZYyNbFsBlD1EHGHaSFz0), [Barmuda](https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM) | [Loneliness](https://open.spotify.com/album/5VDhzUtDHlYjrSBNn9HHSx) | 2:16 | 2023-08-25 | 2024-01-17 |
 | [Lonely Hour](https://open.spotify.com/track/1uqVKaE5nMAf5GLQGSglly) | [MAD SNAX](https://open.spotify.com/artist/33MJONPoMWD0sKQvCHCdnu), [Poylow](https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq), [New Beat Order](https://open.spotify.com/artist/0gQDOj4OisQbTq7FUEziea) | [Lonely Hour](https://open.spotify.com/album/0jFbYifq12XTyvYpKw1wF1) | 2:09 | 2023-06-23 | 2023-08-10 |
 | [LOOK AT ME!](https://open.spotify.com/track/0Ll9cyI1ZfDXRqeatIVHc2) | [Rxm リム](https://open.spotify.com/artist/6xQr9sbtrCuoW4qJoATNLB) | [LOOK AT ME!](https://open.spotify.com/album/4IoK5B9QJONah9n0d1MurH) | 3:02 | 2023-05-23 | 2023-08-10 |

@@ -11715,6 +11715,24 @@
     },
     {
       "album": {
+        "name": "Paris / San Francisco",
+        "url": "https://open.spotify.com/album/2VFJG91yaQl6TuCWpP95bw"
+      },
+      "artists": [
+        {
+          "name": "Remy Bond",
+          "url": "https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227096,
+      "name": "Don't Go Back To Paris",
+      "url": "https://open.spotify.com/track/0jeGTzkvrNRBC8Dt8bsDRN"
+    },
+    {
+      "album": {
         "name": "Always The End",
         "url": "https://open.spotify.com/album/6l7NV0elHJ4SRBrcefGJbp"
       },
@@ -32928,7 +32946,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-18",
+      "date_removed": null,
       "duration_ms": 248535,
       "name": "Perfect Hand",
       "url": "https://open.spotify.com/track/6liSKA1Va8rggh6HxKHaYr"
@@ -48342,6 +48360,24 @@
       "duration_ms": 151218,
       "name": "why do we keep running away?",
       "url": "https://open.spotify.com/track/33hgcRs7ZzFLMoRHAqpdK3"
+    },
+    {
+      "album": {
+        "name": "Why is everyone a DJ?",
+        "url": "https://open.spotify.com/album/3yscJ56s1RNgZSZngqDBNa"
+      },
+      "artists": [
+        {
+          "name": "LAUNDRY DAY",
+          "url": "https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148353,
+      "name": "Why is everyone a DJ?",
+      "url": "https://open.spotify.com/track/3y3JcY50HJob6QfkGz66ti"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Themes to groove to from Telugu Movies!<br/><br/>Cover: Saripodhaa Sanivaaram
 
-140 songs - 7 hr 55 min
+141 songs - 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Ramuloo Ramulaa \- Duet](https://open.spotify.com/track/4uXJADmybUHUgycBWFHeq6) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Ala Vaikunthapurramuloo](https://open.spotify.com/album/2bP0035NHBzesL59OgAu0M) | 4:05 | 2021-06-24 | 2024-08-24 |
 | [Randali](https://open.spotify.com/track/6iyxgRnqchocfSmRpQgzyR) | [Blaaze](https://open.spotify.com/artist/4DqSAnlpn10M4pHUFPEt4E), [Arjun Chandy](https://open.spotify.com/artist/4UCG3GFuPR4k19M40Mzxip), [Nivas](https://open.spotify.com/artist/4xhaMczwBV4FBeTAxr6I7O) | [2.0 \[Telugu\] \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2gNRVs3kzxkX4uZ8WFbKuC) | 4:12 | 2021-06-24 | 2024-08-24 |
 | [Ratthaalu](https://open.spotify.com/track/49bXxI5G1fTOuVRr56s5fr) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Khaidi No 150](https://open.spotify.com/album/5vVzgxWC3S6eiQ1a5rYvo0) | 4:22 | 2021-06-24 | 2024-08-24 |
+| [Red Sea \(From "Devara Part 1"\)](https://open.spotify.com/track/75IywzsrO67PjCrFHnA9tb) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Red Sea \(From "Devara Part 1"\)](https://open.spotify.com/album/5FqTXCya4oO6is24rhWDBg) | 2:42 | 2024-09-12 |  |
 | [REVEAL](https://open.spotify.com/track/26j1aLwumMRp6aofc7Yros) | [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5) | [Mangalavaaram \- OST](https://open.spotify.com/album/7HjFGBR2amY3WSJZXZt3o1) | 1:06 | 2024-08-23 |  |
 | [Ria](https://open.spotify.com/track/7Bx8NjcmtbItEVRqpaOdau) | [Rabbit Mac](https://open.spotify.com/artist/6XswDHNrF5xRBwCs0eNVC7), [Deepak](https://open.spotify.com/artist/2f1w7WdCu6ePA67yFTlLM3) | [Bruce Lee](https://open.spotify.com/album/2rB63Sy0Lbll94LSvqo0gE) | 4:04 | 2021-06-24 | 2024-08-24 |
 | [Rise of Karthikeya](https://open.spotify.com/track/2tdFX0TdftpyaixQ2OJPvE) | [Shekar Chandra](https://open.spotify.com/artist/5ds7YHzRIeaGrAKGPR62fA) | [Karthikeya](https://open.spotify.com/album/5e0PXRVSqL2hqJ4RysHdTC) | 1:21 | 2024-08-23 |  |

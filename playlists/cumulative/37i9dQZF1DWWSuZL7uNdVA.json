@@ -88,7 +88,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 188040,
       "name": "Ache In My Heart",
       "url": "https://open.spotify.com/track/6a2tRke4g8upaxXAMOWN1H"
@@ -492,6 +492,24 @@
       "duration_ms": 135340,
       "name": "BIG",
       "url": "https://open.spotify.com/track/5zPzmBPamaT9eDGduGtxqG"
+    },
+    {
+      "album": {
+        "name": "Bittersweet Mary",
+        "url": "https://open.spotify.com/album/4A7WRN39gSY88Rd9tYHePB"
+      },
+      "artists": [
+        {
+          "name": "MILLY",
+          "url": "https://open.spotify.com/artist/6LihBQjVynXpEaT3Oe2oof"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234720,
+      "name": "Bittersweet Mary",
+      "url": "https://open.spotify.com/track/6ryKAggOp8dgwFIbgwFwJJ"
     },
     {
       "album": {
@@ -975,6 +993,24 @@
     },
     {
       "album": {
+        "name": "Drummer",
+        "url": "https://open.spotify.com/album/1zPtKycZi8zpHwurCQoDxp"
+      },
+      "artists": [
+        {
+          "name": "Storm Orchestra",
+          "url": "https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212536,
+      "name": "Drummer",
+      "url": "https://open.spotify.com/track/2vYAKa9MpnFSpEPyPSfaNh"
+    },
+    {
+      "album": {
         "name": "Dull",
         "url": "https://open.spotify.com/album/5CbmuaAeWbQRpCAtkoQo1E"
       },
@@ -1336,7 +1372,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 214245,
       "name": "Glasgow",
       "url": "https://open.spotify.com/track/6bu97rYhlHjuEAq3KbmtR9"
@@ -3008,7 +3044,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 178595,
       "name": "Rosie",
       "url": "https://open.spotify.com/track/7oq7adFTDnz7IYMjOCCaEI"
@@ -4165,6 +4201,24 @@
     },
     {
       "album": {
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/77LmRdT32xLJbWxwbwTnNB"
+      },
+      "artists": [
+        {
+          "name": "The Score",
+          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193266,
+      "name": "Visions",
+      "url": "https://open.spotify.com/track/5wbNHLxgWBpIXAmJwRTaxY"
+    },
+    {
+      "album": {
         "name": "Vomit Candy",
         "url": "https://open.spotify.com/album/3enD08oLyPBEvFL5vSufJF"
       },
@@ -4273,6 +4327,24 @@
     },
     {
       "album": {
+        "name": "Where Does The Light Get In?",
+        "url": "https://open.spotify.com/album/5iN0xqyvImRpLehFSWZhbx"
+      },
+      "artists": [
+        {
+          "name": "Hot Milk",
+          "url": "https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188901,
+      "name": "Where Does The Light Get In?",
+      "url": "https://open.spotify.com/track/58eF1vpClUyeL5SfXN6N1x"
+    },
+    {
+      "album": {
         "name": "World Class Entertainment",
         "url": "https://open.spotify.com/album/6DjaWyS3BXCSTPjlzGdGgR"
       },
@@ -4338,7 +4410,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 300487,
       "name": "Wreckage",
       "url": "https://open.spotify.com/track/083LM23MmqS8HTTYZQrYxG"

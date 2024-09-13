@@ -12358,7 +12358,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 195000,
       "name": "SHOW THEM",
       "url": "https://open.spotify.com/track/70Xjen27QvHRdRPLHGu63F"
@@ -12658,6 +12658,24 @@
       "duration_ms": 172586,
       "name": "sober",
       "url": "https://open.spotify.com/track/4NtUaT4zPdsTJZdpalhDtk"
+    },
+    {
+      "album": {
+        "name": "HYDE [INSIDE]",
+        "url": "https://open.spotify.com/album/10G25Djhchlk7HbV4rNdL2"
+      },
+      "artists": [
+        {
+          "name": "HYDE",
+          "url": "https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243560,
+      "name": "SOCIAL VIRUS",
+      "url": "https://open.spotify.com/track/6SURzBzfgo2uGHuKUWiTu8"
     },
     {
       "album": {
@@ -22747,7 +22765,7 @@
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 219328,
+      "duration_ms": 218580,
       "name": "\u30e9\u30c3\u30ad\u30fc\u30ab\u30e9\u30fc",
       "url": "https://open.spotify.com/track/5Fzv7ho7XOwvvEOvxFnnTp"
     },

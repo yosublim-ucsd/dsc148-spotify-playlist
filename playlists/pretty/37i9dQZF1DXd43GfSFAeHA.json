@@ -1,6 +1,6 @@
 {
   "description": "A selection of the finest Hip Hop tracks from the illest Arab Rappers. Cover: The Synaptik ",
-  "num_followers": 132301,
+  "num_followers": 132314,
   "original_name": "Arab Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -207,26 +207,22 @@
     {
       "added_at": "2024-08-12 08:19:10",
       "album": {
-        "name": "3la Wara2a",
-        "url": "https://open.spotify.com/album/419f6PDJdRxfmCFBaTHwND"
+        "name": "( Saudi ) \u062d\u0632\u064a\u0646 \u0627\u0644\u0648\u0642\u062a",
+        "url": "https://open.spotify.com/album/5fUE8SvrynJU3oJFCcIlhn"
       },
       "artists": [
         {
-          "name": "Mared",
-          "url": "https://open.spotify.com/artist/3L9d0CszrLEIR0mCG2eTkV"
+          "name": "Rap Shar3",
+          "url": "https://open.spotify.com/artist/2i6J4zodeqpwK4ZMs1ir3M"
         },
         {
-          "name": "Nubi",
-          "url": "https://open.spotify.com/artist/4ov2ncahZ4b7oLCds5fre8"
-        },
-        {
-          "name": "Big Moe",
-          "url": "https://open.spotify.com/artist/6sBqHpSlcT0xxekqD15BTn"
+          "name": "Djmubarak",
+          "url": "https://open.spotify.com/artist/4VmpUUDOd4ziJN0mXBkinQ"
         }
       ],
-      "duration_ms": 172961,
-      "name": "3la Wara2a",
-      "url": "https://open.spotify.com/track/20KrweTJAU2y90iMkj78Lk"
+      "duration_ms": 210000,
+      "name": "( Saudi ) \u062d\u0632\u064a\u0646 \u0627\u0644\u0648\u0642\u062a",
+      "url": "https://open.spotify.com/track/0DfpLTGoLeQAU8zj4La5Jf"
     },
     {
       "added_at": "2024-08-12 08:19:10",
@@ -251,22 +247,26 @@
     {
       "added_at": "2024-08-12 08:19:10",
       "album": {
-        "name": "( Saudi ) \u062d\u0632\u064a\u0646 \u0627\u0644\u0648\u0642\u062a",
-        "url": "https://open.spotify.com/album/5fUE8SvrynJU3oJFCcIlhn"
+        "name": "3la Wara2a",
+        "url": "https://open.spotify.com/album/419f6PDJdRxfmCFBaTHwND"
       },
       "artists": [
         {
-          "name": "Rap Shar3",
-          "url": "https://open.spotify.com/artist/2i6J4zodeqpwK4ZMs1ir3M"
+          "name": "Mared",
+          "url": "https://open.spotify.com/artist/3L9d0CszrLEIR0mCG2eTkV"
         },
         {
-          "name": "Djmubarak",
-          "url": "https://open.spotify.com/artist/4VmpUUDOd4ziJN0mXBkinQ"
+          "name": "Nubi",
+          "url": "https://open.spotify.com/artist/4ov2ncahZ4b7oLCds5fre8"
+        },
+        {
+          "name": "Big Moe",
+          "url": "https://open.spotify.com/artist/6sBqHpSlcT0xxekqD15BTn"
         }
       ],
-      "duration_ms": 210000,
-      "name": "( Saudi ) \u062d\u0632\u064a\u0646 \u0627\u0644\u0648\u0642\u062a",
-      "url": "https://open.spotify.com/track/0DfpLTGoLeQAU8zj4La5Jf"
+      "duration_ms": 172961,
+      "name": "3la Wara2a",
+      "url": "https://open.spotify.com/track/20KrweTJAU2y90iMkj78Lk"
     },
     {
       "added_at": "2024-08-12 08:19:10",
@@ -799,26 +799,6 @@
     {
       "added_at": "2024-08-12 08:19:10",
       "album": {
-        "name": "Decor",
-        "url": "https://open.spotify.com/album/5x2eEUfDfYex3CG78zvl1I"
-      },
-      "artists": [
-        {
-          "name": "Montiyago",
-          "url": "https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk"
-        },
-        {
-          "name": "77",
-          "url": "https://open.spotify.com/artist/2yOrzp26sCzukpaG23nI9U"
-        }
-      ],
-      "duration_ms": 141428,
-      "name": "Bella Hadid",
-      "url": "https://open.spotify.com/track/5Kguky2KjXEvvLrHMspsiq"
-    },
-    {
-      "added_at": "2024-08-12 08:19:10",
-      "album": {
         "name": "OMW",
         "url": "https://open.spotify.com/album/3lllRihvhGpSdxuJzn1oOQ"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 192000,
       "name": "Luna",
       "url": "https://open.spotify.com/track/3yB9fJ2xV09wfOHRVP9AAB"
+    },
+    {
+      "added_at": "2024-08-12 08:19:10",
+      "album": {
+        "name": "Decor",
+        "url": "https://open.spotify.com/album/5x2eEUfDfYex3CG78zvl1I"
+      },
+      "artists": [
+        {
+          "name": "Montiyago",
+          "url": "https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk"
+        },
+        {
+          "name": "77",
+          "url": "https://open.spotify.com/artist/2yOrzp26sCzukpaG23nI9U"
+        }
+      ],
+      "duration_ms": 141428,
+      "name": "Bella Hadid",
+      "url": "https://open.spotify.com/track/5Kguky2KjXEvvLrHMspsiq"
     },
     {
       "added_at": "2024-08-12 08:19:10",

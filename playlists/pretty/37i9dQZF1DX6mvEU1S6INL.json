@@ -1,6 +1,6 @@
 {
   "description": "It's just us.",
-  "num_followers": 1132415,
+  "num_followers": 1132438,
   "original_name": "You & Me",
   "owner": {
     "name": "Spotify",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-07-02 21:46:28",
       "album": {
-        "name": "Conditions",
-        "url": "https://open.spotify.com/album/47enZlu6ssi5aFaAxHc0wt"
-      },
-      "artists": [
-        {
-          "name": "The Temper Trap",
-          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
-        }
-      ],
-      "duration_ms": 230800,
-      "name": "Sweet Disposition",
-      "url": "https://open.spotify.com/track/5RoIXwyTCdyUjpMMkk4uPd"
-    },
-    {
-      "added_at": "2024-07-02 21:46:28",
-      "album": {
         "name": "Use Me",
         "url": "https://open.spotify.com/album/40J4xZREcFpeJVnXDXntvk"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 321386,
       "name": "Litost",
       "url": "https://open.spotify.com/track/7HyvbdOddwXEGzKoLNxhKG"
+    },
+    {
+      "added_at": "2024-07-02 21:46:28",
+      "album": {
+        "name": "Conditions",
+        "url": "https://open.spotify.com/album/47enZlu6ssi5aFaAxHc0wt"
+      },
+      "artists": [
+        {
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        }
+      ],
+      "duration_ms": 230800,
+      "name": "Sweet Disposition",
+      "url": "https://open.spotify.com/track/5RoIXwyTCdyUjpMMkk4uPd"
     },
     {
       "added_at": "2024-07-02 21:46:28",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2024-07-02 21:46:28",
       "album": {
+        "name": "Youuu",
+        "url": "https://open.spotify.com/album/59F5U8Tft9i1RhW3s9Yb8Z"
+      },
+      "artists": [
+        {
+          "name": "COIN",
+          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
+        }
+      ],
+      "duration_ms": 235266,
+      "name": "Youuu",
+      "url": "https://open.spotify.com/track/0xORFaXxl07BtES8IAJ7OD"
+    },
+    {
+      "added_at": "2024-07-02 21:46:28",
+      "album": {
         "name": "Singles",
         "url": "https://open.spotify.com/album/1dKh4z5Aayt8FFDWjO5FDh"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 240000,
       "name": "Emergency Contact",
       "url": "https://open.spotify.com/track/5xJlzQiPLYkvlqkRPKzBwD"
-    },
-    {
-      "added_at": "2024-07-02 21:46:28",
-      "album": {
-        "name": "Youuu",
-        "url": "https://open.spotify.com/album/59F5U8Tft9i1RhW3s9Yb8Z"
-      },
-      "artists": [
-        {
-          "name": "COIN",
-          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
-        }
-      ],
-      "duration_ms": 235266,
-      "name": "Youuu",
-      "url": "https://open.spotify.com/track/0xORFaXxl07BtES8IAJ7OD"
     },
     {
       "added_at": "2024-07-02 21:46:28",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2024-07-02 21:46:28",
       "album": {
-        "name": "Love Gloom",
-        "url": "https://open.spotify.com/album/12TKPek1DiFYRS8m1Y5Utt"
+        "name": "Blondshell",
+        "url": "https://open.spotify.com/album/46r4MXX8kzBWSwJg2WVm9Y"
       },
       "artists": [
         {
-          "name": "Night Riots",
-          "url": "https://open.spotify.com/artist/67Dg546QfThu4PuanvFD8y"
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
         }
       ],
-      "duration_ms": 235334,
-      "name": "All For You",
-      "url": "https://open.spotify.com/track/6VVd4kRfzBsZqFbvEAjloh"
+      "duration_ms": 143686,
+      "name": "Kiss City",
+      "url": "https://open.spotify.com/track/3BnAP43rJ04D2iAgTon1ji"
     }
   ],
   "unique_name": "You & Me",

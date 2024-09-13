@@ -2,9 +2,9 @@
 
 ### [R&Bae](https://open.spotify.com/playlist/37i9dQZF1DX2LoIIQLAhdb)
 
-> Le R&B français, nouvelle ère\. Photo : Lisandro Cuxi x Merveille
+> Le R&B français, nouvelle ère\. Photo : Low Jay x Leto
 
-343 songs - 16 hr 22 min
+345 songs - 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Comme toi \(Acoustique\)](https://open.spotify.com/track/1acFKTNboEq5oBVI0BumWX) | [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4) | [Comme toi \(Acoustique\)](https://open.spotify.com/album/3jIvEB8gjgp40VnFJFBl9s) | 2:34 | 2023-09-07 | 2024-01-12 |
 | [Comme toi \- Acoustique](https://open.spotify.com/track/1Hc4GdYRgEZIPpdmopnAui) | [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4) | [Comme toi \(Acoustique\)](https://open.spotify.com/album/30Zdh9wOGIaWvotg9Cno5e) | 2:34 | 2023-09-07 | 2023-11-02 |
 | [Compliqué](https://open.spotify.com/track/29rbfFO4JcSMWsFNlQlaxo) | [Melina Sdk](https://open.spotify.com/artist/0VW4UTqUCXXqqs7qeYJ9Nn), [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [Compliqué](https://open.spotify.com/album/5MpMmdwpjfuEYV0sNWrnyn) | 3:11 | 2024-06-27 |  |
+| [Concentrée](https://open.spotify.com/track/5SQo1jGdGwmlBXp9ES2SOL) | [Tayron Kwidan's](https://open.spotify.com/artist/1wlqglR1kdPF2T0Rxee11v), [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Concentrée](https://open.spotify.com/album/09LetmVw1hDVGa1pCAhxDS) | 2:58 | 2024-09-12 |  |
 | [Confiance](https://open.spotify.com/track/1xeaSWiXWVHj34wvcE0ZXI) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Confiance](https://open.spotify.com/album/3paMPs0FH8lqQ7lH5vbVIt) | 2:57 | 2022-11-24 | 2023-02-17 |
 | [Corps Chaud](https://open.spotify.com/track/2la1EtoLdOUr8S5S3lEMv5) | [Luni](https://open.spotify.com/artist/3xEtgUoHv1k1JyqYLEwRGl) | [CAMELLIA](https://open.spotify.com/album/6g6FiZNOFZ29EMnCDKG4s4) | 2:34 | 2023-02-16 | 2023-03-10 |
 | [Coucou](https://open.spotify.com/track/3CFKsMaBP9XXAfGkjS2udj) | [Sirine LV](https://open.spotify.com/artist/2KEL18awtDFoxvOHQiuRw5), [Kaza](https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh) | [Coucou](https://open.spotify.com/album/0tJDjGLZ3rDR3mrzY6PLun) | 2:49 | 2024-06-27 | 2024-08-16 |
@@ -219,7 +220,7 @@
 | [Mère ya Palais](https://open.spotify.com/track/40XrmyoNFxG5KehHeFvrKT) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Mère ya Palais](https://open.spotify.com/album/6URO16cnGDleeYxQFZE8Yj) | 3:16 | 2023-06-15 | 2023-10-13 |
 | [Météo](https://open.spotify.com/track/59r6qkD72YECQbXxegOU5A) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Météo](https://open.spotify.com/album/7ziEaNko5qSnlsZsXRK44J) | 3:02 | 2023-05-25 | 2023-08-25 |
 | [NDENGE NINI](https://open.spotify.com/track/3gOZ4SiL6sfrdU2CDm7A74) | [Kenyon](https://open.spotify.com/artist/3ef02ttcTCxK0cQ68glIQ6) | [NDENGE NINI](https://open.spotify.com/album/5Z5Ws3kl6PTc7jF03H9haF) | 2:56 | 2023-04-13 | 2023-05-12 |
-| [Ne doute pas](https://open.spotify.com/track/3jjR16AsYxadkidrptGLYc) | [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [Ne doute pas](https://open.spotify.com/album/7L3GB3sojKXCcMZtGtPKaO) | 3:05 | 2024-05-16 |  |
+| [Ne doute pas](https://open.spotify.com/track/3jjR16AsYxadkidrptGLYc) | [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [Ne doute pas](https://open.spotify.com/album/7L3GB3sojKXCcMZtGtPKaO) | 3:05 | 2024-05-16 | 2024-09-13 |
 | [Nefertiti](https://open.spotify.com/track/3Zf16Lx6ShUcUgw7X8HwBR) | [iambillies](https://open.spotify.com/artist/6mvtHZpx2xlegpmqCZ3UpG) | [Nefertiti](https://open.spotify.com/album/09xs6YQteSjNMB3LLS5gbo) | 3:15 | 2023-06-08 | 2023-07-07 |
 | [No Love](https://open.spotify.com/track/4HWKKA7uEucipl5npw8F97) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX), [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM), [Marjinal](https://open.spotify.com/artist/2kw3kVYH86s8K0O4Pebofm) | [No Love](https://open.spotify.com/album/2PSJjaggBoCMXXzQgHH8N7) | 2:44 | 2024-02-01 | 2024-02-08 |
 | [Non Stop](https://open.spotify.com/track/4jMzUThjgs1szjOYUZSzFi) | [IPNDEGO](https://open.spotify.com/artist/1NnXEta54oioiS58v4Ahrj) | [Non Stop](https://open.spotify.com/album/5MJA5T2zaFcFJwNRA6t6qq) | 3:09 | 2023-10-12 | 2023-11-10 |
@@ -277,7 +278,7 @@
 | [Rassure\-toi](https://open.spotify.com/track/5Y4ryOk5BqUVPOXLmiHKF0) | [Cadie Nelva](https://open.spotify.com/artist/5bc40hS4uxthRoyQeyAbqG) | [Rassure\-toi](https://open.spotify.com/album/08kXWDkoGFhwlg5NPatEXo) | 2:54 | 2023-08-24 | 2023-10-13 |
 | [Recommencer](https://open.spotify.com/track/6EF6zlUNisqtLfHEvpTsIF) | [AMK](https://open.spotify.com/artist/1AFQg3CpeciNbd120XZDmi) | [La Vie de Roni](https://open.spotify.com/album/778m8T5Wd138JDqikOE8Ef) | 2:43 | 2023-07-27 | 2023-09-08 |
 | [Roses](https://open.spotify.com/track/6Wt11M63GQsTr4FMR8YyMt) | [Melina](https://open.spotify.com/artist/5Igaoo9WzRGgvEV3pXNuZA) | [Roses](https://open.spotify.com/album/7Lfnq16oFlmwsCTYOXkunW) | 3:36 | 2023-05-11 | 2023-06-23 |
-| [S'égarer](https://open.spotify.com/track/5Xd91RDpolFeOh9uXJKPux) | [Tayron Kwidan's](https://open.spotify.com/artist/1wlqglR1kdPF2T0Rxee11v) | [S'égarer](https://open.spotify.com/album/7m3mfDHqK57CJpYTdyEJlA) | 2:16 | 2024-08-08 |  |
+| [S'égarer](https://open.spotify.com/track/5Xd91RDpolFeOh9uXJKPux) | [Tayron Kwidan's](https://open.spotify.com/artist/1wlqglR1kdPF2T0Rxee11v) | [S'égarer](https://open.spotify.com/album/7m3mfDHqK57CJpYTdyEJlA) | 2:16 | 2024-08-08 | 2024-09-13 |
 | [S.O.S](https://open.spotify.com/track/22cx7Yei6YPRaKLCvyKQMQ) | [Prototype](https://open.spotify.com/artist/3igykO7sW43wfhSjvnETTo), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [S.O.S](https://open.spotify.com/album/08ksLbbYidSLVQ3W79Lwt6) | 3:03 | 2024-06-27 | 2024-08-30 |
 | [Salam](https://open.spotify.com/track/3H1O5X7jL7fJ2DKg9cU8Ox) | [Marwa Loud](https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV) | [Cloud](https://open.spotify.com/album/217M10Fi7Xd6PtIYx5cU1Q) | 3:12 | 2023-01-05 | 2023-02-03 |
 | [Salam Aleyk](https://open.spotify.com/track/6sK3czCO2PYyyh9LZDXTpa) | [Yanslo](https://open.spotify.com/artist/3MiqACB1T9VnHWCV490ZPq), [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Salam Aleyk](https://open.spotify.com/album/5ZAzKZhATufFAYrgmLzXiV) | 2:38 | 2024-06-13 | 2024-07-19 |
@@ -320,6 +321,7 @@
 | [Tenez\-les](https://open.spotify.com/track/37ESM3vFbqd9AufCc2Lo8E) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Tenez\-les](https://open.spotify.com/album/33rtoexxM8t9yLuqCIJOO9) | 3:03 | 2023-01-26 | 2023-04-21 |
 | [Terminer](https://open.spotify.com/track/4bpOS8QJ4tT0eeOnKOAOPU) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk) | [Terminer](https://open.spotify.com/album/22XjIC4uwawUAK0m6lcmh2) | 3:03 | 2024-01-25 | 2024-03-29 |
 | [Ti Ki Da](https://open.spotify.com/track/2yWpYK9STGmtCryb95sJvU) | [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY) | [Ti Ki Da](https://open.spotify.com/album/7GUiNTPVHZYiI77Ao6CiJV) | 2:41 | 2023-10-05 | 2023-12-08 |
+| [TIKI](https://open.spotify.com/track/1OllFSK8xhYTE0x0BCJb6B) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [TIKI](https://open.spotify.com/album/5hgEGdVbCxx6caMeRxeS5U) | 2:12 | 2024-09-12 |  |
 | [Tolo \(Faut m'oublier\)](https://open.spotify.com/track/2oxnEx8bPoKUbcIqpfmJZZ) | [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY) | [Tolo \(Faut m'oublier\)](https://open.spotify.com/album/2Ay0zPbqsIp2IwmvHiBtp3) | 2:49 | 2024-05-02 | 2024-06-28 |
 | [Tomber](https://open.spotify.com/track/5Ahu1gSbeqZo1YxPTl7Wzq) | [Leila AD](https://open.spotify.com/artist/29OFoMngbkNzwla2kczgdu) | [Tomber](https://open.spotify.com/album/6Q13IzviW0AWv3dUoXtS1X) | 2:37 | 2022-11-24 | 2022-12-16 |
 | [Ton ami](https://open.spotify.com/track/52Tq0iqfLn1gD9NrID3tqB) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [Ton ami](https://open.spotify.com/album/4xJKYIBg5QKnmTKygdkT5R) | 2:34 | 2024-01-11 | 2024-06-28 |

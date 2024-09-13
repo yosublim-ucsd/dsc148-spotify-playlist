@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO4kqwHC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO4kqwHC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO4kqwHC)
 
-### [This Is フー・ファイターズ](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4kqwHC)
+### [This Is Foo Fighters](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4kqwHC)
 
-> This is フー・ファイターズ。アーティストの代表曲をひとつのプレイリストに。
+> This is Foo Fighters\. The essential tracks, all in one playlist.
 
 71 songs - 5 hr 5 min
 

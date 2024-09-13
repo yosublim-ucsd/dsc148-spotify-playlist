@@ -13013,6 +13013,24 @@
     },
     {
       "album": {
+        "name": "DNA",
+        "url": "https://open.spotify.com/album/4Kyh09qWTkqdGyWxCQ9Szk"
+      },
+      "artists": [
+        {
+          "name": "Sosa La M",
+          "url": "https://open.spotify.com/artist/6bM6rpwjhvxuKSQ2OJ2eQC"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134127,
+      "name": "DNA",
+      "url": "https://open.spotify.com/track/0GXAKI05bFfhHtZIg8ftA6"
+    },
+    {
+      "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
       },
@@ -24618,7 +24636,7 @@
       ],
       "date_added": "2024-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-10",
+      "date_removed": null,
       "duration_ms": 155722,
       "name": "IMMER (MIT MAKKO)",
       "url": "https://open.spotify.com/track/0UZOCEkRQ7kBNFH4NZgmHq"
@@ -24640,7 +24658,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 155722,
       "name": "IMMER (MIT MAKKO)",
       "url": "https://open.spotify.com/track/4FkFhmuX1rnAyZIp336AdB"
@@ -33368,7 +33386,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 164771,
       "name": "Milano",
       "url": "https://open.spotify.com/track/1vjLSrChWwFaA59qlovjAv"

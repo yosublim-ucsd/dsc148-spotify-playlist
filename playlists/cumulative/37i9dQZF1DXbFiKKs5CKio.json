@@ -570,7 +570,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 171500,
       "name": "DESLIGA O TELEFONE",
       "url": "https://open.spotify.com/track/3rDOCyEn7PKiq2gykUphR9"
@@ -898,6 +898,28 @@
       "duration_ms": 216100,
       "name": "Idas e Vindas",
       "url": "https://open.spotify.com/track/15xUgFBITJ10UTCQQ05xXp"
+    },
+    {
+      "album": {
+        "name": "No Ar em Sampa - Ao Vivo",
+        "url": "https://open.spotify.com/album/6xAg9AbgRUfmaboaJrQP6i"
+      },
+      "artists": [
+        {
+          "name": "Mr. Dan",
+          "url": "https://open.spotify.com/artist/0tEbPIVxu2YOmZXOWAkJ52"
+        },
+        {
+          "name": "TALI",
+          "url": "https://open.spotify.com/artist/2lI73BmF57aKMznK2wcy50"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245565,
+      "name": "Implorar Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/2WHe2JzwVCeYXgarB6r9hk"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
-  "description": "This Is Turnstile. Los temas esenciales, todos en una lista.",
-  "num_followers": 24626,
+  "description": "This is Turnstile. The essential tracks, all in one playlist.",
+  "num_followers": 24645,
   "original_name": "This Is Turnstile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zt+MAAAAAAATeHTwYrE+U+W1BaMGrgtk",
+  "snapshot_id": "ZuDdgAAAAACYNr3rjBlk/9gi5nPtztgB",
   "tracks": [
     {
       "added_at": null,
@@ -140,9 +140,9 @@
           "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 172028,
-      "name": "Fazed Out",
-      "url": "https://open.spotify.com/track/31EYM7iJC3FEADrfzA4bmD"
+      "duration_ms": 96588,
+      "name": "Drop",
+      "url": "https://open.spotify.com/track/2RUlE7rP0oKPQE5fI6nQMk"
     },
     {
       "added_at": null,
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 96588,
-      "name": "Drop",
-      "url": "https://open.spotify.com/track/2RUlE7rP0oKPQE5fI6nQMk"
+      "duration_ms": 172028,
+      "name": "Fazed Out",
+      "url": "https://open.spotify.com/track/31EYM7iJC3FEADrfzA4bmD"
     },
     {
       "added_at": null,

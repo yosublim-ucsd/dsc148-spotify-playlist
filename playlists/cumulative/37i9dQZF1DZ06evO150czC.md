@@ -2,7 +2,7 @@
 
 ### [This Is Midian Lima](https://open.spotify.com/playlist/37i9dQZF1DZ06evO150czC)
 
-> This is Midian Lima\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is Midian Lima\. Todos os maiores hits em uma só playlist.
 
 61 songs - 5 hr 6 min
 

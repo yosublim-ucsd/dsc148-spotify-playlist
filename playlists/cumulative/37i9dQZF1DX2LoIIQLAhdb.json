@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Lisandro Cuxi x Merveille",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Low Jay x Leto",
   "name": "R&Bae",
   "tracks": [
     {
@@ -1270,6 +1270,28 @@
       "duration_ms": 191883,
       "name": "Compliqu\u00e9",
       "url": "https://open.spotify.com/track/29rbfFO4JcSMWsFNlQlaxo"
+    },
+    {
+      "album": {
+        "name": "Concentr\u00e9e",
+        "url": "https://open.spotify.com/album/09LetmVw1hDVGa1pCAhxDS"
+      },
+      "artists": [
+        {
+          "name": "Tayron Kwidan's",
+          "url": "https://open.spotify.com/artist/1wlqglR1kdPF2T0Rxee11v"
+        },
+        {
+          "name": "Warren Saada",
+          "url": "https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178500,
+      "name": "Concentr\u00e9e",
+      "url": "https://open.spotify.com/track/5SQo1jGdGwmlBXp9ES2SOL"
     },
     {
       "album": {
@@ -4066,7 +4088,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 185191,
       "name": "Ne doute pas",
       "url": "https://open.spotify.com/track/3jjR16AsYxadkidrptGLYc"
@@ -5174,7 +5196,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 136637,
       "name": "S'\u00e9garer",
       "url": "https://open.spotify.com/track/5Xd91RDpolFeOh9uXJKPux"
@@ -5994,6 +6016,24 @@
       "duration_ms": 161060,
       "name": "Ti Ki Da",
       "url": "https://open.spotify.com/track/2yWpYK9STGmtCryb95sJvU"
+    },
+    {
+      "album": {
+        "name": "TIKI",
+        "url": "https://open.spotify.com/album/5hgEGdVbCxx6caMeRxeS5U"
+      },
+      "artists": [
+        {
+          "name": "Ocevne",
+          "url": "https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132303,
+      "name": "TIKI",
+      "url": "https://open.spotify.com/track/1OllFSK8xhYTE0x0BCJb6B"
     },
     {
       "album": {

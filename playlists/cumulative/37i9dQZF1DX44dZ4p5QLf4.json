@@ -975,6 +975,28 @@
     },
     {
       "album": {
+        "name": "Bring It Back",
+        "url": "https://open.spotify.com/album/3MuKzBvMDz5sFALpKA22CE"
+      },
+      "artists": [
+        {
+          "name": "Full Crate",
+          "url": "https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g"
+        },
+        {
+          "name": "Kenyon Dixon",
+          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193846,
+      "name": "Bring It Back",
+      "url": "https://open.spotify.com/track/2Sv6CK2NjQR1zaieWkO6cq"
+    },
+    {
+      "album": {
         "name": "Brown Sugar Queen [Feat. Janice]",
         "url": "https://open.spotify.com/album/7gd3JStkef9zd2CV9Et7BF"
       },
@@ -1114,6 +1136,24 @@
       "duration_ms": 180000,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/5TtScuQyPfQcuMZLTPMoj8"
+    },
+    {
+      "album": {
+        "name": "Playing Around",
+        "url": "https://open.spotify.com/album/5AfHVG8kDpmfAhfEo7dA98"
+      },
+      "artists": [
+        {
+          "name": "GINGE",
+          "url": "https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197006,
+      "name": "Butterfly Effect",
+      "url": "https://open.spotify.com/track/4W4Tn8xO2C3quM8zNpJbdm"
     },
     {
       "album": {
@@ -1640,7 +1680,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 283160,
       "name": "Cold",
       "url": "https://open.spotify.com/track/4SP3ua2KL5zEH3tfTU9d53"
@@ -1666,7 +1706,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 183286,
       "name": "Cold Nights",
       "url": "https://open.spotify.com/track/1iR2KYd4xQJdoVG7GICA1F"
@@ -4858,7 +4898,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 126682,
       "name": "Masego\u2019s Interlude",
       "url": "https://open.spotify.com/track/6CiOWFRE5AaF3H1yQHWeyq"
@@ -6273,6 +6313,24 @@
     },
     {
       "album": {
+        "name": "Ring By Spring",
+        "url": "https://open.spotify.com/album/50rGdsJG018ecukWIkjUJ6"
+      },
+      "artists": [
+        {
+          "name": "SABRI",
+          "url": "https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187729,
+      "name": "Ring By Spring",
+      "url": "https://open.spotify.com/track/2GX51QSc11hVgtltNPUINv"
+    },
+    {
+      "album": {
         "name": "RISE",
         "url": "https://open.spotify.com/album/7CeHWqHwSeRkV0XY1GePBN"
       },
@@ -6350,6 +6408,42 @@
       "duration_ms": 200000,
       "name": "Roselle",
       "url": "https://open.spotify.com/track/2txQgPnmR08OcKQW7P1x4v"
+    },
+    {
+      "album": {
+        "name": "Roses Ether",
+        "url": "https://open.spotify.com/album/2otIbQUDCLNjKUM75j315q"
+      },
+      "artists": [
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178032,
+      "name": "Roses Ether",
+      "url": "https://open.spotify.com/track/6Ih6oi6CkOfkFaKvcQacw6"
+    },
+    {
+      "album": {
+        "name": "Chapter 22: NAKED",
+        "url": "https://open.spotify.com/album/1ftnFdq2bfUhNP5zP8pil6"
+      },
+      "artists": [
+        {
+          "name": "Shaynah",
+          "url": "https://open.spotify.com/artist/4U7FCOOzMmHazZNQ6eK7RG"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138264,
+      "name": "Round 'n Round",
+      "url": "https://open.spotify.com/track/6l00DjYvvJJAPm4RHtXUuU"
     },
     {
       "album": {
@@ -6566,7 +6660,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 186165,
       "name": "Seconds, Minutes, Hours",
       "url": "https://open.spotify.com/track/7dSu6dQ8dQikkGSq0ZEj3f"
@@ -8800,7 +8894,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 189187,
       "name": "We Found Love",
       "url": "https://open.spotify.com/track/3oYLUvcCdP4lOj926r710J"

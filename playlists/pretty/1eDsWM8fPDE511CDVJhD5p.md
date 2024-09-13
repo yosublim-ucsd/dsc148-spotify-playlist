@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/1eDsWM8fPDE511CDVJhD5p.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Copycat \(SV Version\) \(feat\. メグッポイド\)](https://open.spotify.com/track/4tCZ9HxEu64Dowdz4K9Rdb) | [Circus\-P](https://open.spotify.com/artist/1C0DQxH8vVeXuDuo9eqetl), [メグッポイド](https://open.spotify.com/artist/36JmKF8ae9cmpYmbL5fZXD) | [Copycat \(SV Version\)](https://open.spotify.com/album/7MetESHfUlAXH57rHv8kZN) | 4:43 |
+| 1 | [Copycat \(SV Version\) \(feat\. メグッポイド\)](https://open.spotify.com/track/4tCZ9HxEu64Dowdz4K9Rdb) | [CircusP](https://open.spotify.com/artist/6Wn6kyMvfESmIaVy3Sjjvf), [メグッポイド](https://open.spotify.com/artist/36JmKF8ae9cmpYmbL5fZXD) | [Copycat \(SV Version\)](https://open.spotify.com/album/7MetESHfUlAXH57rHv8kZN) | 4:43 |
 | 2 | [PLUG→OUT \(feat\. 重音テト\)](https://open.spotify.com/track/5UWH8ilDy0pg0kpvkuK1UD) | [tekalu](https://open.spotify.com/artist/15kivPrbU8SkQsiSkNXqFN), [重音テト](https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o) | [PLUG→OUT](https://open.spotify.com/album/618ykehxR4Et4XOereDR5M) | 3:41 |
 | 3 | [KISS ME \(feat\. 初音ミク\)](https://open.spotify.com/track/6RLBeTcAdVed7EgGml6DhD) | [Osanzi](https://open.spotify.com/artist/5sGhbLKSiDfJXWg8A0B7fX), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [KISS ME](https://open.spotify.com/album/5DMAv4uCuf8Nkiz4HOZfHE) | 3:24 |
 | 4 | [Marry Me \(feat\. Hatsune Miku\)](https://open.spotify.com/track/03qaYFAFhqsSNHlRnvsfbT) | [picco](https://open.spotify.com/artist/5Ag3wuPOl3y5hJgqhhqVVM) | [Tokyo Future Girl](https://open.spotify.com/album/3T4C13Fndki4SxN1qpmSVl) | 3:24 |

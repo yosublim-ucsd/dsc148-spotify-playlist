@@ -827,6 +827,24 @@
     },
     {
       "album": {
+        "name": "BackFat",
+        "url": "https://open.spotify.com/album/0LRhLilERMSRAxszBoq2S9"
+      },
+      "artists": [
+        {
+          "name": "Turunesh",
+          "url": "https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237095,
+      "name": "BackFat",
+      "url": "https://open.spotify.com/track/2mxic3Fzx2iakoVVaHtepk"
+    },
+    {
+      "album": {
         "name": "BAD 4 ME",
         "url": "https://open.spotify.com/album/4FDkDPETtPpH0ede2qV1hN"
       },
@@ -1412,6 +1430,24 @@
       "duration_ms": 170960,
       "name": "Borderline",
       "url": "https://open.spotify.com/track/1ETbyYXz3tUyFj9VRMGsEQ"
+    },
+    {
+      "album": {
+        "name": "GEM",
+        "url": "https://open.spotify.com/album/0p2MabDPBRWA1B3ltJx5fg"
+      },
+      "artists": [
+        {
+          "name": "Noon Dave",
+          "url": "https://open.spotify.com/artist/7JkLbDtlEwAhFPn3o2kXAm"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168247,
+      "name": "Bounty",
+      "url": "https://open.spotify.com/track/0ieCZBvfTDZ7KGWE4PHru5"
     },
     {
       "album": {
@@ -2152,7 +2188,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 167755,
       "name": "Dalilah",
       "url": "https://open.spotify.com/track/22xDZE9YEZ2W0f19rVb5Gy"
@@ -7730,7 +7766,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 160200,
       "name": "Obsessed",
       "url": "https://open.spotify.com/track/0V8My1NtUo51470iBrav0Y"
@@ -10372,7 +10408,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 224002,
       "name": "Steady",
       "url": "https://open.spotify.com/track/68ahKiHRBOuyS4GsPqFjsI"
@@ -10654,7 +10690,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 117761,
       "name": "SUPERSTAR",
       "url": "https://open.spotify.com/track/1UHftfgNHxCF2vw3LmJBsi"

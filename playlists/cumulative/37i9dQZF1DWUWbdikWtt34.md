@@ -2,9 +2,9 @@
 
 ### [Dangdut Top](https://open.spotify.com/playlist/37i9dQZF1DWUWbdikWtt34)
 
-> Dendang Dangdut teratas\. Cover: Wandra Restusiyan, Projector Band
+> Dendang Dangdut teratas\. Cover: Riri
 
-193 songs - 15 hr 7 min
+194 songs - 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Satru](https://open.spotify.com/track/0kiLz3NcF1LMbn97OCTlgJ) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG), [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Satru](https://open.spotify.com/album/6iVngjCW7DXIg4Q5f60OVi) | 5:11 | 2021-08-23 | 2024-09-07 |
 | [Satu Hati Sampai Mati](https://open.spotify.com/track/5L51wafs3f9Kd9rWSSoK3k) | [Mala Agatha](https://open.spotify.com/artist/4KXTUUytwGCyfH4aOAd4vB) | [Satu Hati Sampai Mati](https://open.spotify.com/album/0NdTR19Y6d5yS3eTRjnoEz) | 3:49 | 2021-08-23 | 2024-09-07 |
 | [Satu Kamu](https://open.spotify.com/track/2E79MZzmwGOJRhfE73DyIo) | [Fildan](https://open.spotify.com/artist/6uOceknzOyjcK3UdX3SIzl) | [Satu Kamu](https://open.spotify.com/album/0PUJsQZYGFlDliTLrQrZ2A) | 4:32 | 2023-07-13 |  |
+| [Satu Rasa Cinta](https://open.spotify.com/track/2LkIEQEtMp4agDn68uJ4OF) | [Riri Chantika](https://open.spotify.com/artist/45QLgbqjuDQzHSagWxx7VX) | [Satu Rasa Cinta](https://open.spotify.com/album/6hjsEcQfDliKpxh1totuC6) | 4:54 | 2024-09-12 |  |
 | [Sayang](https://open.spotify.com/track/1cs5LFOcznflbTzEKDPXCx) | [Via Vallen](https://open.spotify.com/artist/74YCcIyS1oSkCUJFh5ksRl) | [Sayang](https://open.spotify.com/album/5GuZuYBsOhtIe0xW50jCwm) | 5:06 | 2021-08-23 |  |
 | [Sebiduk Tak Searah](https://open.spotify.com/track/3shQooklj8xY9Wu5dShuyc) | [Erie Suzan](https://open.spotify.com/artist/3FL9QyW1idGhwsTomiGoOK) | [Sebiduk Tak Searah](https://open.spotify.com/album/4Y1uXuCfRJRxx0kxxx7ALs) | 5:00 | 2024-06-13 |  |
 | [Selamat Tinggal Kasih \- From "Cidro Asmoro"](https://open.spotify.com/track/2aIDECu2euEBfAqZrawoAM) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Selamat Tinggal Kasih \(From "Cidro Asmoro"\)](https://open.spotify.com/album/0sS6FE67HV8uJV5ceyGBp2) | 4:51 | 2023-06-01 | 2024-07-19 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: APON",
+  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Josephine",
   "name": "Greek Pop",
   "tracks": [
     {
@@ -342,7 +342,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 213607,
       "name": "EDO POU M'AFISES",
       "url": "https://open.spotify.com/track/7FeFn3Logx1WPueRdk26Rj"
@@ -540,7 +540,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 169183,
       "name": "Halima",
       "url": "https://open.spotify.com/track/51IOc0jl3D1jzh9gxmYB0n"
@@ -562,6 +562,24 @@
       "duration_ms": 228477,
       "name": "Iliggos",
       "url": "https://open.spotify.com/track/2UPMkklYJv15deUPc0a7YZ"
+    },
+    {
+      "album": {
+        "name": "Irema To Leo",
+        "url": "https://open.spotify.com/album/6WmI1u07BIgg1GuoF01Xtp"
+      },
+      "artists": [
+        {
+          "name": "Joanne",
+          "url": "https://open.spotify.com/artist/75z1OhYtUgB075L3zyMfFH"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137400,
+      "name": "Irema To Leo",
+      "url": "https://open.spotify.com/track/4L9tzIelOaND2gIkVVwK4M"
     },
     {
       "album": {
@@ -744,7 +762,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 173265,
       "name": "Magemena",
       "url": "https://open.spotify.com/track/5u2OwdIvRinY1CZ3zpfC4P"
@@ -938,6 +956,24 @@
       "duration_ms": 148032,
       "name": "Mykonos - Afro House Remix",
       "url": "https://open.spotify.com/track/6ojWvKOZz9V2dESo6KBotL"
+    },
+    {
+      "album": {
+        "name": "Mythos",
+        "url": "https://open.spotify.com/album/58ot8gXv5rkCoHrsPKRENm"
+      },
+      "artists": [
+        {
+          "name": "Josephine",
+          "url": "https://open.spotify.com/artist/1fAotS2jUxpI8bnIxd5cIR"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174206,
+      "name": "Mythos",
+      "url": "https://open.spotify.com/track/0fSun9srR8uNjfSMYkxVn5"
     },
     {
       "album": {
@@ -1438,6 +1474,24 @@
       "duration_ms": 165604,
       "name": "XANA",
       "url": "https://open.spotify.com/track/70WlqksyNuh668wCoKD7zn"
+    },
+    {
+      "album": {
+        "name": "Xiliometra",
+        "url": "https://open.spotify.com/album/09fNBzRHU6hyLCgX2XJK5I"
+      },
+      "artists": [
+        {
+          "name": "APON",
+          "url": "https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157578,
+      "name": "Xiliometra",
+      "url": "https://open.spotify.com/track/2acUYxCZbgndtm70LgCCbS"
     },
     {
       "album": {

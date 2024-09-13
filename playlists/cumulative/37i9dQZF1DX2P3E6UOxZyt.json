@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "2024 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01MEET THE FUTURE \u898b\u8a3c\u672a\u4f86\u5de8\u661f\uff01Cover: \u6797\u6f54\u5fc3",
+  "description": "2024 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01MEET THE FUTURE \u898b\u8a3c\u672a\u4f86\u5de8\u661f\uff01Cover: \u6d3e\u5049\u4fca (Patrick Brasca) x Tyson Yoshi",
   "name": "RADAR \u65b0\u52e2\u529b",
   "tracks": [
     {
@@ -1457,6 +1457,28 @@
     },
     {
       "album": {
+        "name": "Fuck You & Your Friends",
+        "url": "https://open.spotify.com/album/0BG3z0bswF2kzXUlUBVeSy"
+      },
+      "artists": [
+        {
+          "name": "Tyson Yoshi",
+          "url": "https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ"
+        },
+        {
+          "name": "Patrick Brasca",
+          "url": "https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189586,
+      "name": "Fuck You & Your Friends",
+      "url": "https://open.spotify.com/track/1eYS3LGdTJQjZh980Y9RbS"
+    },
+    {
+      "album": {
         "name": "\u85e5\u738b\u56de\u4f86\u5230 \"Asia\" Is Back",
         "url": "https://open.spotify.com/album/2dBgxYs9N266RNnRFoxXJ5"
       },
@@ -2640,7 +2662,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 221758,
       "name": "Natural Smoke (feat.Andr)",
       "url": "https://open.spotify.com/track/3fYnpBSctoHlGNWqiJ9SSI"
@@ -4184,7 +4206,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 163263,
       "name": "Yellow Hoodie \u9ec3\u8272\u5e3d\u8e22 feat. \u6591\u6bd4Bambii",
       "url": "https://open.spotify.com/track/6LlUQCMpwWbDgnez3VXZPF"
@@ -6150,7 +6172,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-17",
+      "date_removed": null,
       "duration_ms": 177623,
       "name": "\u591a\u5df4\u80fa",
       "url": "https://open.spotify.com/track/4SeVkGp84CmcPF1W3Y5C2s"
@@ -7632,7 +7654,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-14",
+      "date_removed": null,
       "duration_ms": 105552,
       "name": "\u6230\u65d7",
       "url": "https://open.spotify.com/track/7DQ8CaB50mUptBCRzPgnfW"
@@ -7774,7 +7796,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 134794,
       "name": "\u6307\u91dd",
       "url": "https://open.spotify.com/track/4M8lN6T68TfZHSKlkddFY1"
@@ -8604,7 +8626,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 181998,
       "name": "\u6c92\u6709\u661f\u661f\u7684\u591c\u665a",
       "url": "https://open.spotify.com/track/5cRvWXQoPrb7v8zNaxGSdP"
@@ -8728,6 +8750,24 @@
       "duration_ms": 264274,
       "name": "\u6d77\u670b\u53cb (ft.CHILLBAKA)",
       "url": "https://open.spotify.com/track/6pSW8xGp75rokyqjMNroGs"
+    },
+    {
+      "album": {
+        "name": "\u6d77\u6d0b\u8cdc\u4e88",
+        "url": "https://open.spotify.com/album/1SpWiFUkVLznEOiJcAlsNu"
+      },
+      "artists": [
+        {
+          "name": "Majin",
+          "url": "https://open.spotify.com/artist/6iQuZJoGAkn0UZcayx5fTl"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107368,
+      "name": "\u6d77\u6d0b\u8cdc\u4e88",
+      "url": "https://open.spotify.com/track/4l4vGccAQole4LVUdrmDar"
     },
     {
       "album": {
@@ -11144,6 +11184,24 @@
       "duration_ms": 222500,
       "name": "\u9ad8\u6795\u7121\u6182",
       "url": "https://open.spotify.com/track/4FAPERZU7w7HoBmO4NDbmo"
+    },
+    {
+      "album": {
+        "name": "\u9ad8\u6795\u7121\u6182 - SLASHIE Remix",
+        "url": "https://open.spotify.com/album/48YcbMZHzlVtrSnCtOv7AV"
+      },
+      "artists": [
+        {
+          "name": "ZENB\u00d8",
+          "url": "https://open.spotify.com/artist/4Rh3HXq1VRYzQJ3rl2MUfG"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222112,
+      "name": "\u9ad8\u6795\u7121\u6182 - SLASHIE Remix",
+      "url": "https://open.spotify.com/track/24Cfx04SEVynMymyBxLZwE"
     },
     {
       "album": {

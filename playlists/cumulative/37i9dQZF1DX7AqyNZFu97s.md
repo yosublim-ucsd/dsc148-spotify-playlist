@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the UK & Ireland\. Cover: Cap1talA
 
-2,216 songs - 4 day 21 hr 54 min
+2,217 songs - 4 day 21 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1588,7 +1588,7 @@
 | [Pull Up](https://open.spotify.com/track/2We1Q3i54A8Ns4mcgVs0cc) | [Dumb Buoys Fishing Club](https://open.spotify.com/artist/5zq4xI3RwNWyVVSRHAwO0D) | [Pull Up](https://open.spotify.com/album/29H638L5qqJ68cmiX4a5dG) | 1:55 | 2024-03-20 | 2024-04-24 |
 | [Pulling Me Back](https://open.spotify.com/track/5vRFUuKS7yAvFuXLRJcSfP) | [Phoebe Hall](https://open.spotify.com/artist/3WaAMZL6ZWyDkvxYro8kbw), [Larkins](https://open.spotify.com/artist/6cCfC12LHtD5XIc1rLsm8Y) | [Pulling Me Back](https://open.spotify.com/album/7rH5LmnBoXjlgLfPZdwsoH) | 3:12 | 2023-09-05 | 2024-01-03 |
 | [Puppet Show](https://open.spotify.com/track/5VvEVG2Ym38UWQEDEFHE3I) | [She's In Parties](https://open.spotify.com/artist/3A9BLI8S2rNSxXS3QsMkOY) | [Puppet Show](https://open.spotify.com/album/6MxS4cvWu4MD9v9nLORaKv) | 2:55 | 2024-06-04 | 2024-07-03 |
-| [Puppeteer](https://open.spotify.com/track/5XFnbqZvkI3nAqzf0qXAam) | [All Good Folks](https://open.spotify.com/artist/7iRpioETJA4tb40jS8tnjw) | [Puppeteer](https://open.spotify.com/album/7e2WOvTLpIEnyKF4D0MgIQ) | 3:05 | 2024-08-06 |  |
+| [Puppeteer](https://open.spotify.com/track/5XFnbqZvkI3nAqzf0qXAam) | [All Good Folks](https://open.spotify.com/artist/7iRpioETJA4tb40jS8tnjw) | [Puppeteer](https://open.spotify.com/album/7e2WOvTLpIEnyKF4D0MgIQ) | 3:05 | 2024-08-06 | 2024-09-13 |
 | [Puppy](https://open.spotify.com/track/6lKPZsX33G9uTJ3mDU3pVB) | [L'objectif](https://open.spotify.com/artist/7dB5TtNG9BHNj4QCfS0SQg) | [Puppy](https://open.spotify.com/album/0qjJwpkIck9Qj5IoGdHnT2) | 3:15 | 2024-01-24 | 2024-02-21 |
 | [pure misery](https://open.spotify.com/track/1WwL6QCTxjaBs15RpM1jqt) | [Humour](https://open.spotify.com/artist/5ErUNpyxSBAdjZaKlefsUr) | [pure misery](https://open.spotify.com/album/76PSyOGgcnsIgrwLBr2HWf) | 2:41 | 2022-10-06 | 2022-10-27 |
 | [Pure Shores](https://open.spotify.com/track/0t5AD929dxtbSM5ZWzIuCe) | [Saint Rock](https://open.spotify.com/artist/6C6t0KhFTcGHV7nUlPdjrK) | [Pure Shores](https://open.spotify.com/album/3uyFzS4XUyhgdiFwWnKKQl) | 3:31 | 2023-08-22 | 2023-09-20 |
@@ -1783,6 +1783,7 @@
 | [Skirts & Salads](https://open.spotify.com/track/1hU13my44YNmIVuNor31Te) | [Shelf Lives](https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr) | [Skirts & Salads](https://open.spotify.com/album/4ly36c52NHgaFcFAUBl2Go) | 2:24 | 2022-10-06 | 2022-11-10 |
 | [Skitz](https://open.spotify.com/track/2ziUaTw3sQHI9FHCVk6ob3) | [Yinyang](https://open.spotify.com/artist/5WesO65aRpHO5Cqjg8IMvA) | [Skitz](https://open.spotify.com/album/5zyNyDGWEAw2OnIGomFxCd) | 2:58 | 2022-01-05 | 2022-01-13 |
 | [Sky High](https://open.spotify.com/track/3nlp9QFzqqF0ZPSjBJ0A9G) | [Charlie Bennett](https://open.spotify.com/artist/0tvXkCpAjbDBWXXnYBE9wG) | [Sky High](https://open.spotify.com/album/05HBRD9scoTV55s0kVz7xh) | 3:17 | 2024-05-07 | 2024-06-05 |
+| [SKYLINES \('09\)](https://open.spotify.com/track/3s5tQ2Qj0Q6H5tDpGOI9Sa) | [bib sama.](https://open.spotify.com/artist/5CSb8UNFfwDv80vbAIPEtu) | [SKYLINES \('09\)](https://open.spotify.com/album/0IJpfa4d6EchywR9q1YMML) | 2:36 | 2024-09-12 |  |
 | [Sleep Forever](https://open.spotify.com/track/4BKHayZJtmyfm0NP8erXiC) | [Spyres](https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO) | [Sleep Forever](https://open.spotify.com/album/0aruNZwXtrYUShnQJtqf1b) | 3:07 | 2023-02-22 | 2023-05-11 |
 | [Sleep On It](https://open.spotify.com/track/0pIhXrs1gIJjY49Enh6Fly) | [Pippa Crossland](https://open.spotify.com/artist/1swXaEPVO4MZAaJ3gh738N) | [Sleep On It](https://open.spotify.com/album/2nUw21YonvLAkoH9ZKkFkW) | 3:16 | 2024-03-06 | 2024-04-17 |
 | [Sleeping With The Devil](https://open.spotify.com/track/1f6JYGKTv6Tr3uYTAjdsHh) | [Caitlin](https://open.spotify.com/artist/1JfNRa6vkoWP0k2UASfk7e) | [Sleeping With The Devil](https://open.spotify.com/album/5uxD9wTDfK04r0xSR6DYNf) | 3:50 | 2024-04-23 | 2024-06-05 |

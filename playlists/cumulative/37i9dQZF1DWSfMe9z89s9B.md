@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: RINI
 
-1,284 songs - 2 day 19 hr 53 min
+1,285 songs - 2 day 19 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -365,7 +365,7 @@
 | [Euphoria \(At Night\)](https://open.spotify.com/track/41kClICjtba1W8UVbcHmya) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [Cool Party](https://open.spotify.com/album/2bdOs4BJoK5hI9jAC37H06) | 2:07 | 2023-02-24 | 2023-09-03 |
 | [Everybody's Gotta Learn Sometimes](https://open.spotify.com/track/1NIsLZ5LgLUccEM6XGWYRw) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Sorrow At Sunrise](https://open.spotify.com/album/0rRIa6j19dKRwvAo9Oxe23) | 3:48 | 2023-09-29 | 2023-12-17 |
 | [EVERYTHING \(feat\. Chase Shakur\)](https://open.spotify.com/track/15o9LQkVjPy9R8GaDa8k5D) | [SWAVAY](https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK), [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [BILLY](https://open.spotify.com/album/1rma34mRY4zuSyxr3h2rvT) | 3:06 | 2024-06-14 | 2024-09-10 |
-| [everything will be ok](https://open.spotify.com/track/6U3weHvqJmkdNzeOIioVAS) | [ay3demi](https://open.spotify.com/artist/7gcq03kJfgHiW2qPTwS6q1) | [Everything Will Be Ok](https://open.spotify.com/album/0JMnR6HMV5YIo9NhsrpmEU) | 2:00 | 2024-02-02 |  |
+| [everything will be ok](https://open.spotify.com/track/6U3weHvqJmkdNzeOIioVAS) | [ay3demi](https://open.spotify.com/artist/7gcq03kJfgHiW2qPTwS6q1) | [Everything Will Be Ok](https://open.spotify.com/album/0JMnR6HMV5YIo9NhsrpmEU) | 2:00 | 2024-02-02 | 2024-09-13 |
 | [Everything’s Beautiful](https://open.spotify.com/track/3HkLJLoUHQbKwjn3krWvpg) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Everything’s Beautiful](https://open.spotify.com/album/0rjW3BdMJdjfKhDVKLkJjt) | 2:50 | 2024-01-26 |  |
 | [Everytime the Night Starts Calling](https://open.spotify.com/track/5UY8NELLyxYeziwciKIhJQ) | [Michl](https://open.spotify.com/artist/0qG3lxHmrUeKzL1BJJ7IBN), [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Form Follows Function](https://open.spotify.com/album/55Rfi4oaFbYuWbZuQw5Qxr) | 2:40 | 2023-04-14 | 2023-07-02 |
 | [exodus the north star](https://open.spotify.com/track/6P1X3qgDqlkjf8XmJS9Xiw) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [exodus the north star](https://open.spotify.com/album/31prAWzIqlD3D7R4qPZlfr) | 3:25 | 2023-02-10 | 2024-07-17 |
@@ -582,6 +582,7 @@
 | [Infrastructure \- ESTA\. Remix](https://open.spotify.com/track/3UpEhvJ3SO0kuTaa8cGbsG) | [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0), [ESTA.](https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO) | [Infrastructure \(ESTA\. Remix\)](https://open.spotify.com/album/7iVKEG9mm9jfMCRldZY3TZ) | 3:14 | 2022-04-01 | 2022-04-16 |
 | [Inner Peace](https://open.spotify.com/track/3o5ZrzWvJPJY8vlddeSP19) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [Inner Peace](https://open.spotify.com/album/2gSP7Vxdp72vtYAUOv9siS) | 3:37 | 2022-09-23 | 2022-10-13 |
 | [Inside Out – A COLORS SHOW](https://open.spotify.com/track/6hjiaLxYiZfQTn70mfasJ2) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Inside Out – A COLORS SHOW](https://open.spotify.com/album/6z6puxSN6gXkYqKKXUTPAh) | 3:52 | 2022-09-30 | 2022-12-10 |
+| [intention 4 u](https://open.spotify.com/track/4Xn4gMIwy5bpgbE7HAOKTq) | [Rowena Fysx](https://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3p) | [intention 4 u](https://open.spotify.com/album/5xouGwfdwpVnhldVCy9L57) | 4:00 | 2024-08-30 |  |
 | [Intergalactic Janet](https://open.spotify.com/track/21wYclGDiieKf42kEWxqV9) | [Ley Soul](https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ) | [Intergalactic Janet](https://open.spotify.com/album/3vS1oa8XAK2I4BLsMPEsK2) | 2:40 | 2024-03-22 | 2024-06-11 |
 | [Intergalactic Janet](https://open.spotify.com/track/306RRWvBh2lrCsr08I7v87) | [Ley Soul](https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ) | [Intergalactic Janet](https://open.spotify.com/album/448M9cu48QpSo3zZeELWhj) | 2:40 | 2024-03-22 | 2024-04-04 |
 | [Intergalactic Janet](https://open.spotify.com/track/7zgEoBci3rKmEkLdsZ8ZKJ) | [Ley Soul](https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ) | [Intergalactic Janet](https://open.spotify.com/album/7zu5604lPvQjVBERSdwrTe) | 2:40 | 2024-03-22 | 2024-04-19 |

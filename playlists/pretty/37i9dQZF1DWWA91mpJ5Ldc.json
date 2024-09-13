@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 128340,
+  "num_followers": 128357,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Tudo Que Eu Quero",
-        "url": "https://open.spotify.com/album/1v543NNibkjFZElE3Bu8ig"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 122870,
-      "name": "Tudo Que Eu Quero",
-      "url": "https://open.spotify.com/track/5dnvAFzFy0cON4jq0JFcUF"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
         "name": "Mais de N\u00f3s",
         "url": "https://open.spotify.com/album/1G5UFcEDjBbmEUY14dtppC"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 174361,
       "name": "Mais de N\u00f3s",
       "url": "https://open.spotify.com/track/7vUoWQjOB7Vw0r9aD55bRc"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "Tudo Que Eu Quero",
+        "url": "https://open.spotify.com/album/1v543NNibkjFZElE3Bu8ig"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 122870,
+      "name": "Tudo Que Eu Quero",
+      "url": "https://open.spotify.com/track/5dnvAFzFy0cON4jq0JFcUF"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Bota Pra Tocar Tim Maia",
-        "url": "https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs"
-      },
-      "artists": [
-        {
-          "name": "Diogo Nogueira",
-          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
-        }
-      ],
-      "duration_ms": 222577,
-      "name": "Bota Pra Tocar Tim Maia",
-      "url": "https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
         "name": "O amor te d\u00e1",
         "url": "https://open.spotify.com/album/6qSldIF6nA00siaQqtfhFW"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 247812,
       "name": "O amor te d\u00e1",
       "url": "https://open.spotify.com/track/3x4niJ27HxoLK5JNLRZmSq"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "Bota Pra Tocar Tim Maia",
+        "url": "https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs"
+      },
+      "artists": [
+        {
+          "name": "Diogo Nogueira",
+          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
+        }
+      ],
+      "duration_ms": 222577,
+      "name": "Bota Pra Tocar Tim Maia",
+      "url": "https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -975,18 +975,18 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Tim Maia",
-        "url": "https://open.spotify.com/album/7mKOsYpS2N4KOYPWjSg1ER"
+        "name": "Fim,",
+        "url": "https://open.spotify.com/album/13FYpAYfMYHbOtIl4D3Nah"
       },
       "artists": [
         {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+          "name": "Jo\u00e3o Bragan\u00e7a",
+          "url": "https://open.spotify.com/artist/5rPBZBLffKhkIY4o0dGOry"
         }
       ],
-      "duration_ms": 199944,
-      "name": "Brother, Father, Sister And Mother",
-      "url": "https://open.spotify.com/track/5s1VcHG8oLx5O1ZcrjA0m3"
+      "duration_ms": 199440,
+      "name": "Sos",
+      "url": "https://open.spotify.com/track/0EwkDFJhV8AyA8GxZQlSaE"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
+        "name": "Tim Maia",
+        "url": "https://open.spotify.com/album/7mKOsYpS2N4KOYPWjSg1ER"
+      },
+      "artists": [
+        {
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+        }
+      ],
+      "duration_ms": 199944,
+      "name": "Brother, Father, Sister And Mother",
+      "url": "https://open.spotify.com/track/5s1VcHG8oLx5O1ZcrjA0m3"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
         "name": "Brasileiro",
         "url": "https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 242130,
       "name": "Caju",
       "url": "https://open.spotify.com/track/1WOwgLCv4mCJPatwib6jLi"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
-        "name": "Fim,",
-        "url": "https://open.spotify.com/album/13FYpAYfMYHbOtIl4D3Nah"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Bragan\u00e7a",
-          "url": "https://open.spotify.com/artist/5rPBZBLffKhkIY4o0dGOry"
-        }
-      ],
-      "duration_ms": 199440,
-      "name": "Sos",
-      "url": "https://open.spotify.com/track/0EwkDFJhV8AyA8GxZQlSaE"
     },
     {
       "added_at": "2024-08-23 03:00:00",

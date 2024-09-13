@@ -4,7 +4,7 @@
 
 > Yo Hai Haryanvi Hip\-Hop! Cover: MC Square x Harjas Harjaai
 
-277 songs - 14 hr 27 min
+278 songs - 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Gurgaame](https://open.spotify.com/track/2CvVywwxrGQimsysACwtZT) | [Shiva Choudhary](https://open.spotify.com/artist/3KOSRNy74RLnTAFn0u1tmN), [Nish Tomar](https://open.spotify.com/artist/5qRVWMxyeXRDp2NsgKSwBQ) | [Gurgaame](https://open.spotify.com/album/0FD6RKMyNeU3sD57gbUzLj) | 3:15 | 2024-08-30 |  |
 | [Gurjar Gang](https://open.spotify.com/track/0Suya0KkIIaqvnXtXyGMpJ) | [Jassi Kirarkot](https://open.spotify.com/artist/2MrTNaowqRRDiTj0FKHvZP), [Dc](https://open.spotify.com/artist/2FOKZV8ZRTKsJ9v90qIxoU), [Deepty](https://open.spotify.com/artist/6V0gxfUlhg6fOcQGEhcpel) | [Gurjar Gang](https://open.spotify.com/album/0LcekT7wnn60wsizvduMhe) | 2:28 | 2024-04-10 |  |
 | [Gurjari](https://open.spotify.com/track/2G6xSLWVj94AwzwdsbLJ29) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Alan Sampson](https://open.spotify.com/artist/6jQkBMk5URec0RTNDh8P96), [ADP](https://open.spotify.com/artist/0QAjuB54V29PdceQCHXq2i) | [Gurjari](https://open.spotify.com/album/6zG42VggnsjGC7mJhiq7SZ) | 2:37 | 2023-12-14 |  |
-| [Ha Ha Ha](https://open.spotify.com/track/57JUrL5ZfFN35tLCJuyGmU) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb), [Deep Kalsi](https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I) | [Ha Ha Ha](https://open.spotify.com/album/5gxztKpDmQc00vuOCE9NtV) | 3:09 | 2024-04-15 |  |
+| [Ha Ha Ha](https://open.spotify.com/track/57JUrL5ZfFN35tLCJuyGmU) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb), [Deep Kalsi](https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I) | [Ha Ha Ha](https://open.spotify.com/album/5gxztKpDmQc00vuOCE9NtV) | 3:09 | 2024-04-15 | 2024-09-13 |
 | [Handcuffs](https://open.spotify.com/track/1xwoD9H9i7UiBJt4gS1cbi) | [Miki Malang](https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM), [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [Handcuffs](https://open.spotify.com/album/6U2o1eB1KWcV6d6M8KQnkx) | 3:41 | 2024-01-05 | 2024-04-19 |
 | [Haryana Born](https://open.spotify.com/track/1sT3QTmJ61n7dlUQwCvugq) | [Manish Rawal](https://open.spotify.com/artist/5BMrVOkeM7YwsNjhanu1Zb) | [Haryana Born](https://open.spotify.com/album/7hMuaxPY9NYf8oOoVBqEXf) | 2:26 | 2023-08-02 | 2023-09-28 |
 | [Haryana Flow](https://open.spotify.com/track/6OaC2D3CyPcbhUN4Tunvek) | [Lanedaar](https://open.spotify.com/artist/3XGpQpOzPUuqQ9oDP6jPix) | [Haryana Flow](https://open.spotify.com/album/1H1nnmMFGedsa7ltWj0bDD) | 3:17 | 2023-12-01 | 2024-06-01 |
@@ -235,6 +235,7 @@
 | [Rubicon](https://open.spotify.com/track/6EnDE5S4iX8HsURZtAOh6J) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Rubicon](https://open.spotify.com/album/0ehKmlR1wM75ConoUCIDsD) | 2:54 | 2024-08-19 |  |
 | [Ruffian](https://open.spotify.com/track/3w2UMPNhlpyHjf4g4YxhmX) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Ruffian](https://open.spotify.com/album/3Lx35DFWiKiT8o4jvgTAMP) | 2:50 | 2023-03-28 | 2023-09-28 |
 | [Russian](https://open.spotify.com/track/58iP9XZQkQSQWqx6NATm4l) | [Guru Gera](https://open.spotify.com/artist/5MobrF9MFJPxc05F8p3Boa), [Jumbo](https://open.spotify.com/artist/5dMNUgOiKAXFJYyeEFGZBz) | [Russian](https://open.spotify.com/album/5TN4kHTjG7cqD21DsQ8kFZ) | 2:28 | 2024-02-06 | 2024-03-22 |
+| [Russian Bandana](https://open.spotify.com/track/1dFrZr9eMUsFqeag04ClqD) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Russian Bandana](https://open.spotify.com/album/6CLIf42g7M6k0nE3vlcqud) | 3:17 | 2024-09-12 |  |
 | [Ruthless Jaat](https://open.spotify.com/track/4sgWquR4oC7v1Tm211qSMq) | [BigMoney](https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE) | [Ruthless Jaat](https://open.spotify.com/album/1OjIJ541qftk8kZFazYAT2) | 2:48 | 2023-12-22 | 2024-04-19 |
 | [Rx 100 Part\-3](https://open.spotify.com/track/0KEjwwFOhI3l3bcenOvzjJ) | [Raj Mawer](https://open.spotify.com/artist/2ygqIXEM1r7RaEn9PrbML2), [Triminati Records](https://open.spotify.com/artist/5q39iK8eIGRZgTaazDgHG8) | [Rx 100 Part\-3](https://open.spotify.com/album/5iVn83U9dIuxGftEzw1a5L) | 3:48 | 2024-03-21 | 2024-05-08 |
 | [Saat Samunder](https://open.spotify.com/track/40PqdL77XGJjupj7ZP5YQ4) | [Khatri](https://open.spotify.com/artist/4FQHBinqrB0cMp6SaS06rB), [Upasna Gahlot](https://open.spotify.com/artist/74TLOJfpTu8VtgXi9df557), [Pranjal Dahiya](https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me) | [Saat Samunder](https://open.spotify.com/album/4mdHqn673uePpSOYKA8423) | 2:46 | 2023-04-03 | 2023-06-06 |

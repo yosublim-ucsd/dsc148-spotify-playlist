@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "Guerreras del rock latinoamericano. Foto: Z\u00f6elle",
+  "description": "Guerreras del rock latinoamericano. Foto: Dum Chica.",
   "name": "Rockeras",
   "tracks": [
     {
@@ -708,7 +708,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 221720,
       "name": "Cancion Del Pinar",
       "url": "https://open.spotify.com/track/4YPLZxPs21yQQ1noPsLWNo"
@@ -726,7 +726,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 205704,
       "name": "Carapaz\u00f3n",
       "url": "https://open.spotify.com/track/0mjtqNKNsTyEugEbZ6aXji"
@@ -2266,7 +2266,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-20",
+      "date_removed": null,
       "duration_ms": 127799,
       "name": "Hoy No",
       "url": "https://open.spotify.com/track/6afh2maKkoRe5S9haYRKe3"
@@ -2309,6 +2309,24 @@
     },
     {
       "album": {
+        "name": "I Belong To You",
+        "url": "https://open.spotify.com/album/5V1S9c4tUEjAMml72MuoDb"
+      },
+      "artists": [
+        {
+          "name": "Escorpia",
+          "url": "https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259659,
+      "name": "I Belong To You",
+      "url": "https://open.spotify.com/track/4S3ZYeAVeEtTbiYjBQ6EA0"
+    },
+    {
+      "album": {
         "name": "Igual",
         "url": "https://open.spotify.com/album/0i3T9mspLdgOaOoei0FqKZ"
       },
@@ -2320,7 +2338,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 250770,
       "name": "Igual",
       "url": "https://open.spotify.com/track/4808bFO0Mw34MmuSjAtQSR"
@@ -2536,7 +2554,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-26",
+      "date_removed": null,
       "duration_ms": 204878,
       "name": "La Verdad",
       "url": "https://open.spotify.com/track/41e6XAUwzXXu9CcKqYtOoa"
@@ -3042,7 +3060,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 240933,
       "name": "Mirala Miralo",
       "url": "https://open.spotify.com/track/6GCNUmk7L7OWtpvSk0fWOg"
@@ -3396,7 +3414,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 227066,
       "name": "No Huyas De Mi",
       "url": "https://open.spotify.com/track/6UBl1NDlUjc4vU3tXr3oQz"
@@ -3840,7 +3858,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 291280,
       "name": "Perfume",
       "url": "https://open.spotify.com/track/19X0yGQHffnGEIiaocf63K"
@@ -4207,6 +4225,24 @@
     },
     {
       "album": {
+        "name": "Perfume",
+        "url": "https://open.spotify.com/album/2TwCe53zNSiW6XnnsSwafC"
+      },
+      "artists": [
+        {
+          "name": "Maria Gabriela Epumer",
+          "url": "https://open.spotify.com/artist/0G0wjvWRWLREOBLLE1JcOQ"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182240,
+      "name": "Quiero Estar Entre Tus Cosas",
+      "url": "https://open.spotify.com/track/04edngTKM9codmbw4JCkVY"
+    },
+    {
+      "album": {
         "name": "Quieta",
         "url": "https://open.spotify.com/album/0Dyr2BVWw6iFWwBRiP2OIu"
       },
@@ -4258,6 +4294,24 @@
       "duration_ms": 233207,
       "name": "Qu\u00e9 Va a Ser de M\u00ed",
       "url": "https://open.spotify.com/track/5mAvpLtNWuJ4yZkHz0qW35"
+    },
+    {
+      "album": {
+        "name": "S\u00daPER PREMIUM ULTRA",
+        "url": "https://open.spotify.com/album/3iotVnhWSsVoihTEsXFobV"
+      },
+      "artists": [
+        {
+          "name": "Dum Chica",
+          "url": "https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204403,
+      "name": "RA",
+      "url": "https://open.spotify.com/track/6s5Q819P0zK4VJi6nvkDJv"
     },
     {
       "album": {
@@ -4398,7 +4452,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 218431,
       "name": "Si Me Canso de Callar",
       "url": "https://open.spotify.com/track/6yt5G8Nk1CpvZfeD3w0UqA"
@@ -4488,7 +4542,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-13",
       "duration_ms": 180680,
       "name": "Somos",
       "url": "https://open.spotify.com/track/02s5vAzBU4NodaEq3JIdJr"
@@ -4704,7 +4758,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 266020,
       "name": "Tanta Data",
       "url": "https://open.spotify.com/track/7slRZKu168JfXdKBGw5WId"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > Catch Tolou, Kissimjau, Carlina de Place and Izza Gara on the Fresh Finds Nordics stage at By:Larm! The best new music by independent artists in the Nordics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,344 likes - 104 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,354 likes - 104 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

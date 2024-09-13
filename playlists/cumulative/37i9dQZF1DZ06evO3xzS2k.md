@@ -2,7 +2,7 @@
 
 ### [This Is Nothing](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3xzS2k)
 
-> This is Nothing。アーティストの代表曲をひとつのプレイリストに。
+> This Is Nothing\. Los temas esenciales, todos en una lista.
 
 64 songs - 4 hr 50 min
 

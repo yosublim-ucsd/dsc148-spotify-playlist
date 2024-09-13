@@ -2,9 +2,9 @@
 
 ### [A Shot Of Indie](https://open.spotify.com/playlist/37i9dQZF1DXbBKF9yWSvWR)
 
-> For your daily dosis of music with an Indie twist\. Cover: CHARLOT
+> For your daily dosis of music with an Indie twist\. Cover: Warhaus
 
-110 songs - 6 hr 12 min
+112 songs - 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Musings](https://open.spotify.com/track/2SOjODF7m0dUSJy8cDpfX5) | [Zooey](https://open.spotify.com/artist/07EFfxrVAjb17yhr2WyYFx) | [Musings](https://open.spotify.com/album/3xzbV6hdvInYHivUSoCza7) | 3:11 | 2024-06-24 |  |
 | [My Kinda Woman](https://open.spotify.com/track/2iVWKU78MURQCwfyj8Yy7T) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF) | [My Kinda Woman](https://open.spotify.com/album/2XxNT2RrPizKoRaHvF4Eye) | 3:04 | 2024-06-24 | 2024-07-16 |
 | [My Love, I'm Only Mad](https://open.spotify.com/track/5EH7kncFVKreSpuQsbOkh0) | [Halehan](https://open.spotify.com/artist/7BFaz82AlJshWc7bxdRn3p) | [My Love, I'm Only Mad](https://open.spotify.com/album/1gAxp3FOrALIlOAlUeM4JI) | 2:45 | 2024-06-24 |  |
+| [Nanalou](https://open.spotify.com/track/1BKn39VqcRuKF2DsbRJydU) | [Trixie Whitley](https://open.spotify.com/artist/3MZIxeB762kFLJ8ceou6uJ) | [Nanalou](https://open.spotify.com/album/2tFghXSQqcPAyEKcqOtcmR) | 5:01 | 2024-09-12 |  |
 | [Nearness of You](https://open.spotify.com/track/2G6U94s65dWkZPj7dr9vJ1) | [Sevens](https://open.spotify.com/artist/16TJwfQFZXTDDkPwG1FOzd) | [Nearness of You](https://open.spotify.com/album/69hePKG2dE7jrvHuMsCz3X) | 4:12 | 2024-06-24 |  |
 | [No Boat No Aeroplane](https://open.spotify.com/track/3VwB0Pt5DczMEIzSaao8yH) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [No Boat No Aeroplane](https://open.spotify.com/album/3yk8qLTSEPhdfKQVQCMFXd) | 5:12 | 2024-06-24 |  |
 | [No Relation](https://open.spotify.com/track/2CmvMQEPeCSnfOXelqycbk) | [Naive Set](https://open.spotify.com/artist/1SPS81Jo8TCGUCiQIEfLYh) | [No Relation / Moving Target](https://open.spotify.com/album/5ZHgZ8FkNTfQofkj03Bmli) | 4:02 | 2024-06-24 | 2024-07-27 |
@@ -116,6 +117,7 @@
 | [Three Floors, Three Doors](https://open.spotify.com/track/3uwHIuMc53EssxvxQlVbil) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [The Rot](https://open.spotify.com/album/42HRGEN5ltCezgopFl609S) | 3:30 | 2024-06-24 | 2024-07-16 |
 | [tired](https://open.spotify.com/track/7fTN1weFWy0iOSat8nILIs) | [LO\-FI LE\-VI](https://open.spotify.com/artist/3HitWnKrqivUZgOBLj4SJ6) | [tired](https://open.spotify.com/album/6wjHHTNSRFOGRsmQb2WwiK) | 2:34 | 2024-06-24 |  |
 | [Underground](https://open.spotify.com/track/34NlD5bQB7Z7UgGHiI4lZh) | [CHARLOT](https://open.spotify.com/artist/4jwyHfEELByxcUm6JEP5yC) | [Underground](https://open.spotify.com/album/36e8yWH5tlOEZ1FP5n6KMI) | 3:04 | 2024-06-24 | 2024-08-31 |
+| [Where The Names Are Real](https://open.spotify.com/track/6anbHjGgQbYQH5FbF6bAvR) | [Warhaus](https://open.spotify.com/artist/5uy67fWgovgNdbkP1kAf7m) | [Where The Names Are Real](https://open.spotify.com/album/0SnEZObvH4juxuuJEznkGV) | 5:21 | 2024-09-12 |  |
 | [Wish I Could](https://open.spotify.com/track/3s4zyagYB9xcolyQCOTY15) | [Galine](https://open.spotify.com/artist/1DFbUtrAHgEHrZOnptv03D) | [Wish I Could](https://open.spotify.com/album/7ndbNJdFAqyaFKsdP0709m) | 3:29 | 2024-07-09 |  |
 | [Wristwatch](https://open.spotify.com/track/6HsIV3KVhmY20DAyt5u0ug) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Wristwatch](https://open.spotify.com/album/5lpIqexNhzFxvwyhzTIeTF) | 3:42 | 2024-09-05 |  |
 
