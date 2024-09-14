@@ -370,7 +370,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 106666,
       "name": "Autumn Day",
       "url": "https://open.spotify.com/track/7mngtl9Gec7UzuHqFiEOqN"
@@ -844,7 +844,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 135692,
       "name": "Bonfire",
       "url": "https://open.spotify.com/track/3QAkdIvnrUlg2VGpT8HbIS"
@@ -924,7 +924,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 160235,
       "name": "Broke2broken",
       "url": "https://open.spotify.com/track/2hiFXcFHL1lIMzZV7xl16p"
@@ -1786,7 +1786,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 144750,
       "name": "don't forget to water the plants",
       "url": "https://open.spotify.com/track/203Yna7tf7PbTEfQeOVCz9"
@@ -2021,6 +2021,32 @@
     },
     {
       "album": {
+        "name": "Drifting",
+        "url": "https://open.spotify.com/album/0ti1e5rTEzrzxqR5lXftEg"
+      },
+      "artists": [
+        {
+          "name": "Skeptika",
+          "url": "https://open.spotify.com/artist/34yxdeDhSnUVmM0DZcExpT"
+        },
+        {
+          "name": "wavvzz",
+          "url": "https://open.spotify.com/artist/33tg0cH66APhaWirPjOXEu"
+        },
+        {
+          "name": "Baen Mow",
+          "url": "https://open.spotify.com/artist/2mt3wR9B4tg9KXvICFYhqM"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129156,
+      "name": "Drifting",
+      "url": "https://open.spotify.com/track/0CCvZTfKcwHvC1oiNqfxrJ"
+    },
+    {
+      "album": {
         "name": "Dripht",
         "url": "https://open.spotify.com/album/27565GcAZufKzkN8Vk89WR"
       },
@@ -2090,7 +2116,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 133201,
       "name": "early bird",
       "url": "https://open.spotify.com/track/2nprXaTssMIZmYWVaLYlp1"
@@ -2206,7 +2232,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 146206,
       "name": "Encounter",
       "url": "https://open.spotify.com/track/10Q6Zi067V35REvI9w40hm"
@@ -2459,6 +2485,24 @@
     },
     {
       "album": {
+        "name": "find a way",
+        "url": "https://open.spotify.com/album/6UgG0uoEyMK5ZjGaTKrtOc"
+      },
+      "artists": [
+        {
+          "name": "Dusty Kadinsky",
+          "url": "https://open.spotify.com/artist/6DhRdG6ckA1u7hxnZzF2VL"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "find a way",
+      "url": "https://open.spotify.com/track/5WYNjLzaEi7QFgNqPYgW0N"
+    },
+    {
+      "album": {
         "name": "Firmament",
         "url": "https://open.spotify.com/album/6MVUsy0dXIWU07vWBrYAr7"
       },
@@ -2590,6 +2634,24 @@
       "duration_ms": 128225,
       "name": "Flower Kingdom",
       "url": "https://open.spotify.com/track/1s8hwjA2u5dOpU0SEoxDxz"
+    },
+    {
+      "album": {
+        "name": "Flower Lane",
+        "url": "https://open.spotify.com/album/2ymfobcYHMgqlJbiny2dXp"
+      },
+      "artists": [
+        {
+          "name": "JAKKARTA",
+          "url": "https://open.spotify.com/artist/3eLz5UQ0rdd11nJOXYLQhk"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164615,
+      "name": "Flower Lane",
+      "url": "https://open.spotify.com/track/4AOEnxBm3U2oZssIaRVpqZ"
     },
     {
       "album": {
@@ -4164,7 +4226,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 191100,
       "name": "Level 2",
       "url": "https://open.spotify.com/track/7AchGChq5lR5NkfO4oy9zz"
@@ -4668,6 +4730,24 @@
       "duration_ms": 143693,
       "name": "Magic Mellow",
       "url": "https://open.spotify.com/track/4r4zfbVrsRbxkIi1Oq0nVz"
+    },
+    {
+      "album": {
+        "name": "Make It",
+        "url": "https://open.spotify.com/album/4X9vWjNWlZ3qAtyDZ2ZhDj"
+      },
+      "artists": [
+        {
+          "name": "Berhanio",
+          "url": "https://open.spotify.com/artist/3ZkP4NjIpKfyaTf2hTAmkW"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118153,
+      "name": "Make It",
+      "url": "https://open.spotify.com/track/2teI76KKFE6qkpLZJs7tZ7"
     },
     {
       "album": {
@@ -7667,6 +7747,24 @@
     },
     {
       "album": {
+        "name": "sun silhouette",
+        "url": "https://open.spotify.com/album/5ANiFyqm8d8hTC1S5yX93G"
+      },
+      "artists": [
+        {
+          "name": "lilibu",
+          "url": "https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185688,
+      "name": "sun silhouette",
+      "url": "https://open.spotify.com/track/4Bue5JBRadsoBqwOreNclG"
+    },
+    {
+      "album": {
         "name": "Sunflower Plaza",
         "url": "https://open.spotify.com/album/3s40pZdRf3QWAXgBYR90Ke"
       },
@@ -8118,7 +8216,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 129600,
       "name": "the neighborhood",
       "url": "https://open.spotify.com/track/6nZIx6Ck3oNPR1L5FblIY0"
@@ -8264,7 +8362,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 107363,
       "name": "Time",
       "url": "https://open.spotify.com/track/6qS8xBmJSAbsED3LBkkeGE"

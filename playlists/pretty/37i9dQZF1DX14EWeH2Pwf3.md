@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > Shiva in cover della playlist urban più grande in Italia 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 965,928 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 966,371 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Gotham \(feat\. Kid Yugi\)](https://open.spotify.com/track/2ceJa7d62wQ3eRBK589ALG) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Milano Angels](https://open.spotify.com/album/1moDP6neOAWuwU9YylMeOL) | 3:27 |
-| 2 | [ZERI IN PIÙ \(LOCURA\) \(feat\. Laura Pausini\)](https://open.spotify.com/track/0EIWXIJea5Q92uBlPBhUB4) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [ZERI IN PIÙ \(LOCURA\) \(feat\. Laura Pausini\)](https://open.spotify.com/album/3rD7xtzumWvHnhr7x7JGkS) | 4:07 |
+| 1 | [ZERI IN PIÙ \(LOCURA\) \(feat\. Laura Pausini\)](https://open.spotify.com/track/0EIWXIJea5Q92uBlPBhUB4) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [ZERI IN PIÙ \(LOCURA\) \(feat\. Laura Pausini\)](https://open.spotify.com/album/3rD7xtzumWvHnhr7x7JGkS) | 4:07 |
+| 2 | [Gotham \(feat\. Kid Yugi\)](https://open.spotify.com/track/2ceJa7d62wQ3eRBK589ALG) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Milano Angels](https://open.spotify.com/album/1moDP6neOAWuwU9YylMeOL) | 3:27 |
 | 3 | [PER SEMPRE \(feat\. Bresh\)](https://open.spotify.com/track/2TOwRQ8fN69NDxXe3s602O) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [PER SEMPRE \(feat\. Bresh\)](https://open.spotify.com/album/3QAPKcbmBIfyQUAwWvLap4) | 3:04 |
 | 4 | [40 GRADI](https://open.spotify.com/track/0eDdGDkyAl3XTE8bv4nRR1) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [40 GRADI](https://open.spotify.com/album/7JoGm6i50TeHIoME3AX0St) | 2:42 |
 | 5 | [DI CAPRIO \(feat\. Niky Savage\)](https://open.spotify.com/track/34IZ1Uu91IxjGbGRtW4c63) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg) | [DI CAPRIO \(feat\. Niky Savage\)](https://open.spotify.com/album/1Bc0ufj4QsSISl1gApoJCa) | 2:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 49 | [COPACABANA](https://open.spotify.com/track/3P3wdlzvU9pZSu5Ppkv53L) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [COPACABANA](https://open.spotify.com/album/1r5LuajK4YigSJ2HXDcDIQ) | 2:18 |
 | 50 | [iN uNa buBbLe](https://open.spotify.com/track/0EimIRiiRd76tqlo9LPLUJ) | [yungest Moonstar](https://open.spotify.com/artist/3l9OOqBvHs4SM91bWqtaQb), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [sFaCioLaTe miXTaPe](https://open.spotify.com/album/7qj8awQvM423Uvc0VpxtXq) | 3:16 |
 
-Snapshot ID: `ZuNknAAAAADeNo6J+N38zpP0xfljdi6E`
+Snapshot ID: `ZuQszwAAAADH4Rv5ZJTwHpfibS/DU2OB`

@@ -1,6 +1,6 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 311566,
+  "num_followers": 311585,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
@@ -255,18 +255,22 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "Asa",
-        "url": "https://open.spotify.com/album/2ZqR3WdAJcLqzrAnrfTqyf"
+        "name": "NO SKIN",
+        "url": "https://open.spotify.com/album/1nPrTtEBU85rcPfVwHUOyQ"
       },
       "artists": [
         {
-          "name": "\u00c2me",
-          "url": "https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564"
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        },
+        {
+          "name": "Frameworks",
+          "url": "https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP"
         }
       ],
-      "duration_ms": 277567,
-      "name": "Asa",
-      "url": "https://open.spotify.com/track/1dWWpbUHni0mmv9aaVLhcH"
+      "duration_ms": 278124,
+      "name": "NO SKIN",
+      "url": "https://open.spotify.com/track/0ObzkSnoXbfcJxOjwG09u0"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -287,22 +291,18 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "NO SKIN",
-        "url": "https://open.spotify.com/album/1nPrTtEBU85rcPfVwHUOyQ"
+        "name": "Asa",
+        "url": "https://open.spotify.com/album/2ZqR3WdAJcLqzrAnrfTqyf"
       },
       "artists": [
         {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
-        },
-        {
-          "name": "Frameworks",
-          "url": "https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP"
+          "name": "\u00c2me",
+          "url": "https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564"
         }
       ],
-      "duration_ms": 278124,
-      "name": "NO SKIN",
-      "url": "https://open.spotify.com/track/0ObzkSnoXbfcJxOjwG09u0"
+      "duration_ms": 277567,
+      "name": "Asa",
+      "url": "https://open.spotify.com/track/1dWWpbUHni0mmv9aaVLhcH"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "Marimba",
-        "url": "https://open.spotify.com/album/3i2oCggOTBqY30JWJTkqgU"
-      },
-      "artists": [
-        {
-          "name": "GHEIST",
-          "url": "https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU"
-        }
-      ],
-      "duration_ms": 226497,
-      "name": "Marimba",
-      "url": "https://open.spotify.com/track/3ihksvcKbnm01jQXMY5XYi"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
         "name": "Moss",
         "url": "https://open.spotify.com/album/0OTOcLpCVrU0eP90v8Zocc"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 171470,
       "name": "Moss",
       "url": "https://open.spotify.com/track/2OVo7I9IuGruvsOj83jvtQ"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
+        "name": "Marimba",
+        "url": "https://open.spotify.com/album/3i2oCggOTBqY30JWJTkqgU"
+      },
+      "artists": [
+        {
+          "name": "GHEIST",
+          "url": "https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU"
+        }
+      ],
+      "duration_ms": 226497,
+      "name": "Marimba",
+      "url": "https://open.spotify.com/track/3ihksvcKbnm01jQXMY5XYi"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/2Qwwl2g2XcVtRT4xHdDEPL"
-      },
-      "artists": [
-        {
-          "name": "Kelly Lee Owens",
-          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
-        }
-      ],
-      "duration_ms": 223993,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/0Dp3a7t94hj7S1h2mVIZN9"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
         "name": "Let You In (feat. East Forest)",
         "url": "https://open.spotify.com/album/5HxnTLT7UjQ2DQxtaYqG1T"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 356373,
       "name": "Let You In (feat. East Forest)",
       "url": "https://open.spotify.com/track/2weK6bsvMtRaYWydEnMhfw"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/2Qwwl2g2XcVtRT4xHdDEPL"
+      },
+      "artists": [
+        {
+          "name": "Kelly Lee Owens",
+          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
+        }
+      ],
+      "duration_ms": 223993,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/0Dp3a7t94hj7S1h2mVIZN9"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
+        "name": "Hold Your Breath",
+        "url": "https://open.spotify.com/album/264EpsDdMfCrHFp6uqVUr3"
+      },
+      "artists": [
+        {
+          "name": "Thaylo",
+          "url": "https://open.spotify.com/artist/56kaKCBAUCPViDb5XvdTaB"
+        }
+      ],
+      "duration_ms": 191260,
+      "name": "Hold Your Breath",
+      "url": "https://open.spotify.com/track/7bCgmuIq0qVaXMvdktxi6r"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
         "name": "A Radiant Sign (Remixed)",
         "url": "https://open.spotify.com/album/5gWPZTg4FHp9yi7uXjDGgM"
       },
@@ -1035,18 +1051,18 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "Hold Your Breath",
-        "url": "https://open.spotify.com/album/264EpsDdMfCrHFp6uqVUr3"
+        "name": "Just To Hear You Say",
+        "url": "https://open.spotify.com/album/7MxJMLEo4D1Jej3TYPPG95"
       },
       "artists": [
         {
-          "name": "Thaylo",
-          "url": "https://open.spotify.com/artist/56kaKCBAUCPViDb5XvdTaB"
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
         }
       ],
-      "duration_ms": 191260,
-      "name": "Hold Your Breath",
-      "url": "https://open.spotify.com/track/7bCgmuIq0qVaXMvdktxi6r"
+      "duration_ms": 213437,
+      "name": "Just To Hear You Say",
+      "url": "https://open.spotify.com/track/1SJsKYhiDRLLddBnGzGgbW"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -1067,22 +1083,6 @@
       "duration_ms": 334867,
       "name": "Holy - Frank Wiedemann Remix",
       "url": "https://open.spotify.com/track/49Imb1YVmhSFvKmgSQlykO"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
-        "name": "Just To Hear You Say",
-        "url": "https://open.spotify.com/album/7MxJMLEo4D1Jej3TYPPG95"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        }
-      ],
-      "duration_ms": 213437,
-      "name": "Just To Hear You Say",
-      "url": "https://open.spotify.com/track/1SJsKYhiDRLLddBnGzGgbW"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "Carry On (Rezident Remix)",
-        "url": "https://open.spotify.com/album/0oNy96DTfddGGcKvBslhZx"
-      },
-      "artists": [
-        {
-          "name": "Jan Blomqvist",
-          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
-        },
-        {
-          "name": "Rezident",
-          "url": "https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc"
-        }
-      ],
-      "duration_ms": 230975,
-      "name": "Carry On - Rezident Remix",
-      "url": "https://open.spotify.com/track/5cGQY65jNWtW9s7RLi74jp"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
         "name": "Need To Feel Loved (Nils Hoffmann Remix)",
         "url": "https://open.spotify.com/album/3tGTJ20bG5us1bj4cC9AhH"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 224467,
       "name": "Need To Feel Loved - Nils Hoffmann Remix",
       "url": "https://open.spotify.com/track/20ctMnCm00vFtUUUQYSskZ"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
+        "name": "Carry On (Rezident Remix)",
+        "url": "https://open.spotify.com/album/0oNy96DTfddGGcKvBslhZx"
+      },
+      "artists": [
+        {
+          "name": "Jan Blomqvist",
+          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
+        },
+        {
+          "name": "Rezident",
+          "url": "https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc"
+        }
+      ],
+      "duration_ms": 230975,
+      "name": "Carry On - Rezident Remix",
+      "url": "https://open.spotify.com/track/5cGQY65jNWtW9s7RLi74jp"
     },
     {
       "added_at": "2024-08-09 18:28:29",

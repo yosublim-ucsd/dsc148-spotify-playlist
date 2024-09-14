@@ -11370,7 +11370,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 89253,
       "name": "Er kriegt mich nicht",
       "url": "https://open.spotify.com/track/3QlqPRUCScMH9SRdRSPhid"
@@ -41544,6 +41544,24 @@
       "duration_ms": 161986,
       "name": "wir gehen rein",
       "url": "https://open.spotify.com/track/2HwhL4g7ip7rS8PS5P75RB"
+    },
+    {
+      "album": {
+        "name": "Wish You Knew",
+        "url": "https://open.spotify.com/album/1ZEqSJ6WHYk6UydPRwqUEP"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228840,
+      "name": "Wish You Knew",
+      "url": "https://open.spotify.com/track/508Lt6htU4xJEwjHrDL1OD"
     },
     {
       "album": {

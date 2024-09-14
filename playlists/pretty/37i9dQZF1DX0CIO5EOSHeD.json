@@ -1,6 +1,6 @@
 {
   "description": "Slacker jams. Cover: Eyedress",
-  "num_followers": 498840,
+  "num_followers": 498883,
   "original_name": "Lofi Indie",
   "owner": {
     "name": "Spotify",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
-        "name": "I Clung to You Hoping We'd Both Drown",
-        "url": "https://open.spotify.com/album/6dwWUYV0MBZVcfSvzc27Ah"
-      },
-      "artists": [
-        {
-          "name": "Flatsound",
-          "url": "https://open.spotify.com/artist/4ze1UwMqtSlhTgnyk8LrW3"
-        }
-      ],
-      "duration_ms": 171261,
-      "name": "My Heart Goes Bum Bum Bum",
-      "url": "https://open.spotify.com/track/0RQbFGjt6FraX3WK8IK8QE"
-    },
-    {
-      "added_at": "2024-07-09 21:52:54",
-      "album": {
         "name": "Crooked Rain, Crooked Rain",
         "url": "https://open.spotify.com/album/1XFNz6KIvLyIsLFOiLRKqP"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 180933,
       "name": "Silence Kid",
       "url": "https://open.spotify.com/track/1CwQqhPYxz73UYKD7ybYGd"
+    },
+    {
+      "added_at": "2024-07-09 21:52:54",
+      "album": {
+        "name": "I Clung to You Hoping We'd Both Drown",
+        "url": "https://open.spotify.com/album/6dwWUYV0MBZVcfSvzc27Ah"
+      },
+      "artists": [
+        {
+          "name": "Flatsound",
+          "url": "https://open.spotify.com/artist/4ze1UwMqtSlhTgnyk8LrW3"
+        }
+      ],
+      "duration_ms": 171261,
+      "name": "My Heart Goes Bum Bum Bum",
+      "url": "https://open.spotify.com/track/0RQbFGjt6FraX3WK8IK8QE"
     },
     {
       "added_at": "2024-07-09 21:52:54",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
-        "name": "California Screaming",
-        "url": "https://open.spotify.com/album/61Xno5oEO3TchKwEpmYyvw"
-      },
-      "artists": [
-        {
-          "name": "Liz Lawrence",
-          "url": "https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "California Screaming",
-      "url": "https://open.spotify.com/track/7aoQKm7L9RGg5VxYitUkEG"
-    },
-    {
-      "added_at": "2024-07-09 21:52:54",
-      "album": {
         "name": "The Way He Looks",
         "url": "https://open.spotify.com/album/7pSgyeEXgLRpqhQWP6fyUJ"
       },
@@ -1159,18 +1143,18 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/59esV4FoIJ7g7dhnNVELV0"
+        "name": "California Screaming",
+        "url": "https://open.spotify.com/album/61Xno5oEO3TchKwEpmYyvw"
       },
       "artists": [
         {
-          "name": "ADOY",
-          "url": "https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC"
+          "name": "Liz Lawrence",
+          "url": "https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC"
         }
       ],
-      "duration_ms": 237398,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/0Gm7k2jwz8bKr4xjmr9IG3"
+      "duration_ms": 197000,
+      "name": "California Screaming",
+      "url": "https://open.spotify.com/track/7aoQKm7L9RGg5VxYitUkEG"
     },
     {
       "added_at": "2024-07-09 21:52:54",
@@ -1187,6 +1171,22 @@
       "duration_ms": 317837,
       "name": "HeatDeath",
       "url": "https://open.spotify.com/track/5plb2kCKv1w1VJIL6NBnPR"
+    },
+    {
+      "added_at": "2024-07-09 21:52:54",
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/59esV4FoIJ7g7dhnNVELV0"
+      },
+      "artists": [
+        {
+          "name": "ADOY",
+          "url": "https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC"
+        }
+      ],
+      "duration_ms": 237398,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/0Gm7k2jwz8bKr4xjmr9IG3"
     },
     {
       "added_at": "2024-07-09 21:52:54",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
+        "name": "Royal Headache",
+        "url": "https://open.spotify.com/album/2g0N32g0cQXFDp4QnIa1RN"
+      },
+      "artists": [
+        {
+          "name": "Royal Headache",
+          "url": "https://open.spotify.com/artist/01Jsi7Q2a1GdLvNShahaj1"
+        }
+      ],
+      "duration_ms": 93146,
+      "name": "Surprise",
+      "url": "https://open.spotify.com/track/7d4bEIDNRgTWUTOZqWzFfK"
+    },
+    {
+      "added_at": "2024-07-09 21:52:54",
+      "album": {
         "name": "LIFE ON EARTH",
         "url": "https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 268909,
       "name": "Let It Pass",
       "url": "https://open.spotify.com/track/3d1k68NdWlLZ0yVEVHuP9S"
-    },
-    {
-      "added_at": "2024-07-09 21:52:54",
-      "album": {
-        "name": "Royal Headache",
-        "url": "https://open.spotify.com/album/2g0N32g0cQXFDp4QnIa1RN"
-      },
-      "artists": [
-        {
-          "name": "Royal Headache",
-          "url": "https://open.spotify.com/artist/01Jsi7Q2a1GdLvNShahaj1"
-        }
-      ],
-      "duration_ms": 93146,
-      "name": "Surprise",
-      "url": "https://open.spotify.com/track/7d4bEIDNRgTWUTOZqWzFfK"
     },
     {
       "added_at": "2024-07-09 21:52:54",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
+        "name": "The Tallest Room",
+        "url": "https://open.spotify.com/album/38AWwdLCyVhfxsndtizrTC"
+      },
+      "artists": [
+        {
+          "name": "Van Houten",
+          "url": "https://open.spotify.com/artist/1DJIjqnBb14BDo3EIZc2zB"
+        }
+      ],
+      "duration_ms": 238058,
+      "name": "Panoramic View",
+      "url": "https://open.spotify.com/track/7jd7vpPlwNcKauBddT9hEf"
+    },
+    {
+      "added_at": "2024-07-09 21:52:54",
+      "album": {
         "name": "Dreams of Losing Teeth",
         "url": "https://open.spotify.com/album/6wdNsB7Bwk1bk3TAPdRk1w"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 202818,
       "name": "Dreams of Losing Teeth",
       "url": "https://open.spotify.com/track/6hp3izQkKSK5JUpNLAOGSS"
-    },
-    {
-      "added_at": "2024-07-09 21:52:54",
-      "album": {
-        "name": "i'm so lucky",
-        "url": "https://open.spotify.com/album/3CWtENutenUjSjgdt6XNBa"
-      },
-      "artists": [
-        {
-          "name": "SPIRIT OF THE BEEHIVE",
-          "url": "https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR"
-        }
-      ],
-      "duration_ms": 194848,
-      "name": "really happening",
-      "url": "https://open.spotify.com/track/5Xrn2EX2EtCsghe8AppB3N"
     },
     {
       "added_at": "2024-07-09 21:52:54",
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
-        "name": "The Tallest Room",
-        "url": "https://open.spotify.com/album/38AWwdLCyVhfxsndtizrTC"
+        "name": "i'm so lucky",
+        "url": "https://open.spotify.com/album/3CWtENutenUjSjgdt6XNBa"
       },
       "artists": [
         {
-          "name": "Van Houten",
-          "url": "https://open.spotify.com/artist/1DJIjqnBb14BDo3EIZc2zB"
+          "name": "SPIRIT OF THE BEEHIVE",
+          "url": "https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR"
         }
       ],
-      "duration_ms": 238058,
-      "name": "Panoramic View",
-      "url": "https://open.spotify.com/track/7jd7vpPlwNcKauBddT9hEf"
+      "duration_ms": 194848,
+      "name": "really happening",
+      "url": "https://open.spotify.com/track/5Xrn2EX2EtCsghe8AppB3N"
     },
     {
       "added_at": "2024-07-09 21:52:54",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2024-07-09 21:52:54",
       "album": {
-        "name": "at least, I tried",
-        "url": "https://open.spotify.com/album/1QnA67cEEW7GV8izg8ZGwT"
-      },
-      "artists": [
-        {
-          "name": "Heroe",
-          "url": "https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1"
-        }
-      ],
-      "duration_ms": 194060,
-      "name": "at least, I tried",
-      "url": "https://open.spotify.com/track/1EznNhpm2q1HaAFxIO8k2h"
-    },
-    {
-      "added_at": "2024-07-09 21:52:54",
-      "album": {
         "name": "home:so long",
         "url": "https://open.spotify.com/album/1xevyPZYmndyAGc7PS4JrX"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 85956,
       "name": "home:so long",
       "url": "https://open.spotify.com/track/37xgjn1tD4UqEC49kLpAYC"
+    },
+    {
+      "added_at": "2024-07-09 21:52:54",
+      "album": {
+        "name": "at least, I tried",
+        "url": "https://open.spotify.com/album/1QnA67cEEW7GV8izg8ZGwT"
+      },
+      "artists": [
+        {
+          "name": "Heroe",
+          "url": "https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1"
+        }
+      ],
+      "duration_ms": 194060,
+      "name": "at least, I tried",
+      "url": "https://open.spotify.com/track/1EznNhpm2q1HaAFxIO8k2h"
     }
   ],
   "unique_name": "Lofi Indie",

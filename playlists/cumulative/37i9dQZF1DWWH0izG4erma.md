@@ -4,7 +4,7 @@
 
 > Country music that rocks\. Cover: Lakeview
 
-375 songs - 21 hr 28 min
+377 songs - 21 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [9 Lives \(Black Cat\)](https://open.spotify.com/track/5QTxD81d4O6K8wSEWoBzvI) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives \(Black Cat\)](https://open.spotify.com/album/7jHR86VxhCZqsnFg2M1O42) | 3:24 | 2024-04-12 |  |
 | [A Bullet With My Name](https://open.spotify.com/track/3aCf4ZPy3ILXFcQ0NIFTv6) | [Highway Natives](https://open.spotify.com/artist/4iVEbYjSOR58bq1BTYZnJ3) | [A Bullet With My Name](https://open.spotify.com/album/4tvlbftuk2FS7IJAWPU1ud) | 4:15 | 2022-05-20 | 2022-07-10 |
 | [Ain't Doin' Jack](https://open.spotify.com/track/1cF5gDFBHOprIKwzFORNjH) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Ain't Doin' Jack](https://open.spotify.com/album/1URccwrkhVDXNb8uowWWhk) | 2:40 | 2024-05-17 |  |
-| [Ain't My Day](https://open.spotify.com/track/6xscb3IfPqwanr2IoG5c8d) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc), [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Ain't My Day](https://open.spotify.com/album/1aJj0KP16u9ksUixsCAJ61) | 3:21 | 2021-11-01 |  |
+| [Ain't My Day](https://open.spotify.com/track/6xscb3IfPqwanr2IoG5c8d) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc), [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Ain't My Day](https://open.spotify.com/album/1aJj0KP16u9ksUixsCAJ61) | 3:21 | 2021-11-01 | 2024-09-14 |
 | [Ain't No Love In Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Ain't No Love In Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/album/7x1eLsPizad7dHnqCGQODx) | 3:30 | 2024-05-17 |  |
 | [Alive and Well](https://open.spotify.com/track/2BqHBd0xqUUGxYBJ6rFyJB) | [Eddie Montgomery](https://open.spotify.com/artist/7GD3LkyvAOcPgtrXeFc73p) | [Alive and Well](https://open.spotify.com/album/3i0bY9DahJDlfdzYEsUuvF) | 3:18 | 2021-11-01 | 2022-07-28 |
 | [ALL GAS](https://open.spotify.com/track/2THiSfWbMGD9l2g2Ircxga) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [ALL GAS](https://open.spotify.com/album/1seio61icD3MnJLTyeX3Cv) | 2:49 | 2023-06-02 | 2024-07-31 |
@@ -109,12 +109,13 @@
 | [Drowning](https://open.spotify.com/track/22AYv6oubrOclu24nNux0M) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Drowning](https://open.spotify.com/album/5Y8hv9mXolK9hQej1MOlwF) | 4:48 | 2024-07-05 |  |
 | [Drunk Prayer](https://open.spotify.com/track/7w92AueIig6NWpM8kqAwMK) | [Lakeview](https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD) | [Drunk Prayer](https://open.spotify.com/album/63JXCuKtwKdcwtZchH17Cb) | 3:21 | 2023-12-08 | 2024-03-09 |
 | [Even The Devil](https://open.spotify.com/track/0R5xOrUdw4bDHlaJ96bWYM) | [Murphy Elmore](https://open.spotify.com/artist/2xAybx0jf6AnUy9I0kO0g9) | [Even The Devil](https://open.spotify.com/album/2lMv82sDWSdhIcva2Wr47e) | 2:52 | 2024-01-05 |  |
-| [Everybody's Friend](https://open.spotify.com/track/4CjH87e1np3OkwlYQdGOmv) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Everybody's Friend](https://open.spotify.com/album/3sHPQGWO16wBCtaS2zZYOk) | 2:53 | 2024-02-23 |  |
+| [Everybody's Friend](https://open.spotify.com/track/4CjH87e1np3OkwlYQdGOmv) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Everybody's Friend](https://open.spotify.com/album/3sHPQGWO16wBCtaS2zZYOk) | 2:53 | 2024-02-23 | 2024-09-14 |
 | [Excuse the Mess](https://open.spotify.com/track/32Hy43xgxbFrv20GkhH0MI) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Excuse the Mess](https://open.spotify.com/album/2R4rXNiml3fuEmG76hWzyQ) | 2:51 | 2023-01-27 |  |
 | [Excuses](https://open.spotify.com/track/1nfwZ5Q7RBynXAnO1rTV3x) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Boy From Anderson County To The Moon](https://open.spotify.com/album/1mnpdIkHiYcpvvCFQBaUrr) | 3:26 | 2023-12-08 | 2024-04-19 |
 | [Excuses](https://open.spotify.com/track/2dXZhZ6OgUPAaiwJs8yR79) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Excuses](https://open.spotify.com/album/4LAo9lNxakhW24GiAW0P6t) | 3:26 | 2021-11-01 | 2023-02-01 |
 | [Fall In Love](https://open.spotify.com/track/0rCFRyEy4WXjRXNpO80Dzs) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 3:52 | 2023-06-02 | 2024-04-19 |
 | [Fall In Love](https://open.spotify.com/track/5gVCfYmQRPy1QJifP8f5gg) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Fall In Love](https://open.spotify.com/album/532HZrT6uAekC4urDonoXa) | 3:52 | 2022-02-11 | 2023-06-08 |
+| [Fat Vampire](https://open.spotify.com/track/2NpWRpnvzyKOLx1jk9aBkA) | [Dan Spencer](https://open.spotify.com/artist/4nZhCPagwfGtHV2tASZkpU) | [Return to Your Dark Master](https://open.spotify.com/album/0KmDr3QNbp3N2LUwBGHsB4) | 3:40 | 2024-09-13 |  |
 | [Feels a Lot Like This](https://open.spotify.com/track/6e34gEYUVcXkdAPVmtIdBV) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Feels a Lot Like This](https://open.spotify.com/album/1kwMMXvK8s1URLhKROctGg) | 3:09 | 2021-11-01 | 2022-07-29 |
 | [Fire On Wheels](https://open.spotify.com/track/2EuSpBqoWsE5ohMBCXXUHO) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Fire On Wheels](https://open.spotify.com/album/6FaaYVLUK4mAjSqYykdvv7) | 2:36 | 2022-06-24 |  |
 | [For The Last Time](https://open.spotify.com/track/1hftvuPphPqruhvXQSup0O) | [Melissa Etheridge](https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA) | [For The Last Time](https://open.spotify.com/album/2TSPaOEeaHV8bZ7GMbsdZa) | 3:17 | 2021-11-01 | 2022-07-09 |
@@ -139,6 +140,7 @@
 | [Halfway To Hell](https://open.spotify.com/track/3EON33SUQai62FI5Sv0gPT) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2sy1vyUt1ZNGagYdJFOMhu) | 2:58 | 2023-06-02 | 2023-11-18 |
 | [Halos and Horns](https://open.spotify.com/track/44Yx0jcGJtgez04gBTea8R) | [Allie Colleen](https://open.spotify.com/artist/4eMzH84zzjn97xfJw5Tqas) | [Halos and Horns](https://open.spotify.com/album/2czEtw6zLzPGWppATFzdtQ) | 3:17 | 2022-05-06 | 2022-08-27 |
 | [Hand Me a Beer](https://open.spotify.com/track/7eDloZneDYKWUYQXWzFAxD) | [Dew Pendleton](https://open.spotify.com/artist/3lZcShQipQYykofmmhaTK0) | [Might as Well Be Me](https://open.spotify.com/album/7v6ZUl0JIoszCE9cpVUaaV) | 3:50 | 2021-11-01 | 2022-07-10 |
+| [Happy Face](https://open.spotify.com/track/7KvZLaYFqBqoADTelAsWWO) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [Happy Face](https://open.spotify.com/album/3WkZ84AAJDPimDKV1FH3pI) | 3:22 | 2024-09-13 |  |
 | [Hard Time With The Truth](https://open.spotify.com/track/33DgblZnDhuJf9u02q335Z) | [Kendell Marvel](https://open.spotify.com/artist/7l77Y7qC5sVTsVoU2MymGX) | [Solid Gold Sounds \(Deluxe Edition\)](https://open.spotify.com/album/6ijbApenMjsqqWxUtJi1p8) | 4:11 | 2022-07-22 | 2022-10-29 |
 | [Hard Time with the Truth](https://open.spotify.com/track/62lfEuwS7x5fKj4pCclalb) | [Kendell Marvel](https://open.spotify.com/artist/7l77Y7qC5sVTsVoU2MymGX) | [Hard Time with the Truth](https://open.spotify.com/album/3PSQUAViskGwVgimVEBnvD) | 4:11 | 2021-11-01 | 2022-07-29 |
 | [Hate My Heart](https://open.spotify.com/track/4oGCfTHN1hmXGy5mqmJVc3) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:03 | 2023-04-07 |  |

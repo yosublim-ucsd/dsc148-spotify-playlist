@@ -471,22 +471,6 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
-        "name": "Ain't That Good News",
-        "url": "https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 191160,
-      "name": "A Change Is Gonna Come",
-      "url": "https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
         "name": "Breakin' Away",
         "url": "https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 281200,
       "name": "Now That We Found Love",
       "url": "https://open.spotify.com/track/0qOkHfSClduvkvGk6fCu8l"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
+        "name": "Ain't That Good News",
+        "url": "https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 191160,
+      "name": "A Change Is Gonna Come",
+      "url": "https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -583,6 +583,22 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
+        "name": "The Essentials: Ruth Brown",
+        "url": "https://open.spotify.com/album/5hUfSBla2buX5rW8aCeAl7"
+      },
+      "artists": [
+        {
+          "name": "Ruth Brown",
+          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
+        }
+      ],
+      "duration_ms": 173733,
+      "name": "I Don't Know",
+      "url": "https://open.spotify.com/track/047Ip9c6dijAJfuwloV3NF"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
         "name": "The George Benson Collection",
         "url": "https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 316160,
       "name": "On Broadway",
       "url": "https://open.spotify.com/track/2oFxITGDiTZ1JRwP8yinRt"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
-        "name": "Tell It Like It Is - The Par Lo Years",
-        "url": "https://open.spotify.com/album/1kUKkxMjMVZRw6yK34l37g"
-      },
-      "artists": [
-        {
-          "name": "Aaron Neville",
-          "url": "https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT"
-        }
-      ],
-      "duration_ms": 165960,
-      "name": "Tell It Like It Is",
-      "url": "https://open.spotify.com/track/7GSRH3L0HAM3StkAkYVamC"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -631,18 +631,18 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
-        "name": "The Essentials: Ruth Brown",
-        "url": "https://open.spotify.com/album/5hUfSBla2buX5rW8aCeAl7"
+        "name": "Tell It Like It Is - The Par Lo Years",
+        "url": "https://open.spotify.com/album/1kUKkxMjMVZRw6yK34l37g"
       },
       "artists": [
         {
-          "name": "Ruth Brown",
-          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
+          "name": "Aaron Neville",
+          "url": "https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT"
         }
       ],
-      "duration_ms": 173733,
-      "name": "I Don't Know",
-      "url": "https://open.spotify.com/track/047Ip9c6dijAJfuwloV3NF"
+      "duration_ms": 165960,
+      "name": "Tell It Like It Is",
+      "url": "https://open.spotify.com/track/7GSRH3L0HAM3StkAkYVamC"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -703,6 +703,22 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
+        "name": "The Essentials: Bloodstone",
+        "url": "https://open.spotify.com/album/40itH1o9OXNvjVjendp50L"
+      },
+      "artists": [
+        {
+          "name": "Bloodstone",
+          "url": "https://open.spotify.com/artist/1DXSrgY5dpBSTWPC0uhXcj"
+        }
+      ],
+      "duration_ms": 249093,
+      "name": "Natural High - Single Version",
+      "url": "https://open.spotify.com/track/73etijhz7pV4Wx7GTANLpq"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
         "name": "A Donny Hathaway Collection",
         "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 166400,
       "name": "Where Is the Love",
       "url": "https://open.spotify.com/track/7l07ak5IWpISBsrUtwj4O4"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
-        "name": "The Essentials: Bloodstone",
-        "url": "https://open.spotify.com/album/40itH1o9OXNvjVjendp50L"
-      },
-      "artists": [
-        {
-          "name": "Bloodstone",
-          "url": "https://open.spotify.com/artist/1DXSrgY5dpBSTWPC0uhXcj"
-        }
-      ],
-      "duration_ms": 249093,
-      "name": "Natural High - Single Version",
-      "url": "https://open.spotify.com/track/73etijhz7pV4Wx7GTANLpq"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
-        "name": "No Beginning No End",
-        "url": "https://open.spotify.com/album/5sO5lVzpbxNYIN3si8JNdW"
+        "name": "Stand By Your Man",
+        "url": "https://open.spotify.com/album/5FSETqzUj1EAlIVvPYmv5r"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 James",
-          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
+          "name": "Candi Staton",
+          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
         }
       ],
-      "duration_ms": 208555,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/11pd7go1eobijf2rxN5YbG"
+      "duration_ms": 213026,
+      "name": "He Called Me Baby",
+      "url": "https://open.spotify.com/track/3zIiZrCROmhS9ERPdEHXYa"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -1143,34 +1143,18 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
-        "name": "Stand By Your Man",
-        "url": "https://open.spotify.com/album/5FSETqzUj1EAlIVvPYmv5r"
+        "name": "No Beginning No End",
+        "url": "https://open.spotify.com/album/5sO5lVzpbxNYIN3si8JNdW"
       },
       "artists": [
         {
-          "name": "Candi Staton",
-          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
+          "name": "Jos\u00e9 James",
+          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
         }
       ],
-      "duration_ms": 213026,
-      "name": "He Called Me Baby",
-      "url": "https://open.spotify.com/track/3zIiZrCROmhS9ERPdEHXYa"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
-        "name": "20 Greatest Hits",
-        "url": "https://open.spotify.com/album/1FjPiiZ0qeq7GZ0nnuvHpH"
-      },
-      "artists": [
-        {
-          "name": "Barbara Acklin",
-          "url": "https://open.spotify.com/artist/5cIS9VdHDj2fozLl19Gg2A"
-        }
-      ],
-      "duration_ms": 178840,
-      "name": "Am I The Same Girl",
-      "url": "https://open.spotify.com/track/6NVzt2cA5Mgjd3pQjU1xwD"
+      "duration_ms": 208555,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/11pd7go1eobijf2rxN5YbG"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -1187,6 +1171,22 @@
       "duration_ms": 270306,
       "name": "Next Time",
       "url": "https://open.spotify.com/track/6h7oewjyzSKywtot8sHXj7"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
+        "name": "20 Greatest Hits",
+        "url": "https://open.spotify.com/album/1FjPiiZ0qeq7GZ0nnuvHpH"
+      },
+      "artists": [
+        {
+          "name": "Barbara Acklin",
+          "url": "https://open.spotify.com/artist/5cIS9VdHDj2fozLl19Gg2A"
+        }
+      ],
+      "duration_ms": 178840,
+      "name": "Am I The Same Girl",
+      "url": "https://open.spotify.com/track/6NVzt2cA5Mgjd3pQjU1xwD"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
-        "name": "The Way I See It",
-        "url": "https://open.spotify.com/album/5qWdVsgBbJJVrnDYQrx6IP"
-      },
-      "artists": [
-        {
-          "name": "Raphael Saadiq",
-          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
-        }
-      ],
-      "duration_ms": 184413,
-      "name": "Love That Girl",
-      "url": "https://open.spotify.com/track/3XTYgwvbBsNonoauUvZgo6"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
         "name": "Wheelin' And Dealin' - The Definitive Collection",
         "url": "https://open.spotify.com/album/5JRvmq9sCId3PUdS35aZKc"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 146306,
       "name": "Get out of My Life Woman",
       "url": "https://open.spotify.com/track/3wEjaj63quGasYmMwSv2v0"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
+        "name": "The Way I See It",
+        "url": "https://open.spotify.com/album/5qWdVsgBbJJVrnDYQrx6IP"
+      },
+      "artists": [
+        {
+          "name": "Raphael Saadiq",
+          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
+        }
+      ],
+      "duration_ms": 184413,
+      "name": "Love That Girl",
+      "url": "https://open.spotify.com/track/3XTYgwvbBsNonoauUvZgo6"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
-        "name": "The Essential Bill Withers",
-        "url": "https://open.spotify.com/album/36qxAJDnXvbjD2UVAkawwZ"
+        "name": "Rejuvenation",
+        "url": "https://open.spotify.com/album/3OoFKxuziLv3B3NxhEJwOW"
       },
       "artists": [
         {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+          "name": "The Meters",
+          "url": "https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s"
         }
       ],
-      "duration_ms": 222533,
-      "name": "Use Me",
-      "url": "https://open.spotify.com/track/1k2ybm1oz7rVPchTKCgMMz"
+      "duration_ms": 318800,
+      "name": "People Say",
+      "url": "https://open.spotify.com/track/746CCMLis8SK64lLVXMF1d"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
-        "name": "Rejuvenation",
-        "url": "https://open.spotify.com/album/3OoFKxuziLv3B3NxhEJwOW"
+        "name": "The Essential Bill Withers",
+        "url": "https://open.spotify.com/album/36qxAJDnXvbjD2UVAkawwZ"
       },
       "artists": [
         {
-          "name": "The Meters",
-          "url": "https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s"
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
         }
       ],
-      "duration_ms": 318800,
-      "name": "People Say",
-      "url": "https://open.spotify.com/track/746CCMLis8SK64lLVXMF1d"
+      "duration_ms": 222533,
+      "name": "Use Me",
+      "url": "https://open.spotify.com/track/1k2ybm1oz7rVPchTKCgMMz"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
+        "name": "The Eugene Record",
+        "url": "https://open.spotify.com/album/0UoC8Ujy2OzF3L3Co30M8B"
+      },
+      "artists": [
+        {
+          "name": "Eugene Record",
+          "url": "https://open.spotify.com/artist/1EzKfWyQHxq5fzKoZpD9kM"
+        }
+      ],
+      "duration_ms": 257360,
+      "name": "Overdose of Joy",
+      "url": "https://open.spotify.com/track/0Ay7pwWStfH00fpQlEaLFM"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
         "name": "The Way I See It",
         "url": "https://open.spotify.com/album/5qWdVsgBbJJVrnDYQrx6IP"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 314533,
       "name": "She's Gone - Live 1982",
       "url": "https://open.spotify.com/track/4x2qAh9aec2eIvp11mDDU2"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
-        "name": "The Eugene Record",
-        "url": "https://open.spotify.com/album/0UoC8Ujy2OzF3L3Co30M8B"
-      },
-      "artists": [
-        {
-          "name": "Eugene Record",
-          "url": "https://open.spotify.com/artist/1EzKfWyQHxq5fzKoZpD9kM"
-        }
-      ],
-      "duration_ms": 257360,
-      "name": "Overdose of Joy",
-      "url": "https://open.spotify.com/track/0Ay7pwWStfH00fpQlEaLFM"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
-        "name": "W.E.L.F.A.R.E",
-        "url": "https://open.spotify.com/album/0K7EdB3RJI0gUvy6US0hIB"
-      },
-      "artists": [
-        {
-          "name": "Antonio Castro",
-          "url": "https://open.spotify.com/artist/5YAOVRKnU0PD9gNMPcHI9Y"
-        }
-      ],
-      "duration_ms": 168004,
-      "name": "W.E.L.F.A.R.E",
-      "url": "https://open.spotify.com/track/4NfabFAMEHaKVbPoG8xmQ2"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
         "name": "I'm Back! Family & Friends",
         "url": "https://open.spotify.com/album/52C9QFWsfF3Kzb8riRPJzj"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 199426,
       "name": "Family Affair",
       "url": "https://open.spotify.com/track/1XvCs8az0V297Ex0I9VAPu"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
+        "name": "W.E.L.F.A.R.E",
+        "url": "https://open.spotify.com/album/0K7EdB3RJI0gUvy6US0hIB"
+      },
+      "artists": [
+        {
+          "name": "Antonio Castro",
+          "url": "https://open.spotify.com/artist/5YAOVRKnU0PD9gNMPcHI9Y"
+        }
+      ],
+      "duration_ms": 168004,
+      "name": "W.E.L.F.A.R.E",
+      "url": "https://open.spotify.com/track/4NfabFAMEHaKVbPoG8xmQ2"
     },
     {
       "added_at": "2024-07-08 07:31:01",
@@ -2239,6 +2239,22 @@
     {
       "added_at": "2024-07-08 07:31:01",
       "album": {
+        "name": "The Complete Hill Records Collection/United Artists Recordings, 1972-1975",
+        "url": "https://open.spotify.com/album/38gFdPttguW1vo0xaYnYYu"
+      },
+      "artists": [
+        {
+          "name": "Z.Z. Hill",
+          "url": "https://open.spotify.com/artist/1gdaEBrH99AfhsiQNbaSBp"
+        }
+      ],
+      "duration_ms": 181840,
+      "name": "Clean Up America",
+      "url": "https://open.spotify.com/track/13vU04HyQYUs9zKumjcXAk"
+    },
+    {
+      "added_at": "2024-07-08 07:31:01",
+      "album": {
         "name": "The Look Of Love - Burt Bacharach Songbook",
         "url": "https://open.spotify.com/album/34pw7PTVYdcEkfHnIo9jx2"
       },
@@ -2255,22 +2271,6 @@
       "duration_ms": 189466,
       "name": "Walk On By",
       "url": "https://open.spotify.com/track/5FWmqVIJjMMNnb3NBliKuj"
-    },
-    {
-      "added_at": "2024-07-08 07:31:01",
-      "album": {
-        "name": "The Complete Hill Records Collection/United Artists Recordings, 1972-1975",
-        "url": "https://open.spotify.com/album/38gFdPttguW1vo0xaYnYYu"
-      },
-      "artists": [
-        {
-          "name": "Z.Z. Hill",
-          "url": "https://open.spotify.com/artist/1gdaEBrH99AfhsiQNbaSBp"
-        }
-      ],
-      "duration_ms": 181840,
-      "name": "Clean Up America",
-      "url": "https://open.spotify.com/track/13vU04HyQYUs9zKumjcXAk"
     },
     {
       "added_at": "2024-07-08 07:31:01",

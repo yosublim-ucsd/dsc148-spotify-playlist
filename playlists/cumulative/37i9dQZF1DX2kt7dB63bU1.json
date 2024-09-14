@@ -221,6 +221,28 @@
     },
     {
       "album": {
+        "name": "A Foggy Day",
+        "url": "https://open.spotify.com/album/6yDhELTl2NEXTRqqT7i1q3"
+      },
+      "artists": [
+        {
+          "name": "Matt Dusk",
+          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
+        },
+        {
+          "name": "Lou Pomanti",
+          "url": "https://open.spotify.com/artist/4dSjbjQP6Si6yNXMCG19UW"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112117,
+      "name": "A Foggy Day",
+      "url": "https://open.spotify.com/track/7tuyPJp1LzwkMPFGf34v7m"
+    },
+    {
+      "album": {
         "name": "A Happy Thought (feat. Stu Mindeman)",
         "url": "https://open.spotify.com/album/3VtTcRNkTmnjAemUfLdy28"
       },
@@ -272,7 +294,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 306165,
       "name": "A New Day, a New Life, a New Love",
       "url": "https://open.spotify.com/track/46UO3NuWwrFg6Fl030tRmT"
@@ -2342,7 +2364,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 225801,
       "name": "Chelsea Bridge",
       "url": "https://open.spotify.com/track/3G7TsMsIvIpWqug5qEY61Z"
@@ -8931,6 +8953,24 @@
     },
     {
       "album": {
+        "name": "Manhattan",
+        "url": "https://open.spotify.com/album/59KxExoW3T9ExZ15kFEs1h"
+      },
+      "artists": [
+        {
+          "name": "Laura Anglade",
+          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321182,
+      "name": "Manhattan",
+      "url": "https://open.spotify.com/track/22YphPVmER6mRK4ADu0QWy"
+    },
+    {
+      "album": {
         "name": "I'm All Ears",
         "url": "https://open.spotify.com/album/7Mt3lY98B6HYGcERYEtXa9"
       },
@@ -12230,7 +12270,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 180565,
       "name": "Speak Low",
       "url": "https://open.spotify.com/track/5cAnj53nrI1OdAXAieTFOd"
@@ -15424,6 +15464,24 @@
       "duration_ms": 236116,
       "name": "Where Is My Mind?",
       "url": "https://open.spotify.com/track/0iI9HTGMjtoFmaN1ODwo4y"
+    },
+    {
+      "album": {
+        "name": "Where or When",
+        "url": "https://open.spotify.com/album/6MJLX11fKx4JaRfGS25ih1"
+      },
+      "artists": [
+        {
+          "name": "Emma Smith",
+          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257811,
+      "name": "Where or When",
+      "url": "https://open.spotify.com/track/1bNpRcfsbIxI9FMJsjCNcw"
     },
     {
       "album": {

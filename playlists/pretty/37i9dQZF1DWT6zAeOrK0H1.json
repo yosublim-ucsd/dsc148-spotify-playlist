@@ -1,6 +1,6 @@
 {
   "description": "Home of the best bands orbiting the universe right now. Cover: Fontaines D.C.",
-  "num_followers": 2271,
+  "num_followers": 2325,
   "original_name": "The Best Bands In The Universe \ud83e\ude90",
   "owner": {
     "name": "Spotify",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-03-11 23:40:41",
       "album": {
-        "name": "Vampire Empire / Born For Loving You",
-        "url": "https://open.spotify.com/album/1JLHhSfD3K4gc3pSIyrvsf"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 214073,
-      "name": "Born For Loving You",
-      "url": "https://open.spotify.com/track/1kcwEVl9hYYg1JU0BFbzmc"
-    },
-    {
-      "added_at": "2024-03-11 23:40:41",
-      "album": {
         "name": "Comfort To Me",
         "url": "https://open.spotify.com/album/09hDOH6485A7SIg1FmpuX2"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 227600,
       "name": "Security",
       "url": "https://open.spotify.com/track/20atdt1Upmx1npN3zY4JtM"
+    },
+    {
+      "added_at": "2024-03-11 23:40:41",
+      "album": {
+        "name": "Vampire Empire / Born For Loving You",
+        "url": "https://open.spotify.com/album/1JLHhSfD3K4gc3pSIyrvsf"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 214073,
+      "name": "Born For Loving You",
+      "url": "https://open.spotify.com/track/1kcwEVl9hYYg1JU0BFbzmc"
     },
     {
       "added_at": "2024-03-11 23:40:41",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-03-11 23:40:41",
       "album": {
-        "name": "At the End of the Day",
-        "url": "https://open.spotify.com/album/2n2q50EXqvLb9soddvFtNq"
-      },
-      "artists": [
-        {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
-        }
-      ],
-      "duration_ms": 233466,
-      "name": "At the End of the Day",
-      "url": "https://open.spotify.com/track/0BbvSCBpxz2yjPXINwFWOw"
-    },
-    {
-      "added_at": "2024-03-11 23:40:41",
-      "album": {
         "name": "Brown Paper Bag",
         "url": "https://open.spotify.com/album/6ST5FAXR1PGdcke9lHZYyY"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 265000,
       "name": "Brown Paper Bag",
       "url": "https://open.spotify.com/track/1305CPBxxAlpxmTciVehNu"
+    },
+    {
+      "added_at": "2024-03-11 23:40:41",
+      "album": {
+        "name": "At the End of the Day",
+        "url": "https://open.spotify.com/album/2n2q50EXqvLb9soddvFtNq"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "duration_ms": 233466,
+      "name": "At the End of the Day",
+      "url": "https://open.spotify.com/track/0BbvSCBpxz2yjPXINwFWOw"
     }
   ],
   "unique_name": "The Best Bands In The Universe \ud83e\ude90",

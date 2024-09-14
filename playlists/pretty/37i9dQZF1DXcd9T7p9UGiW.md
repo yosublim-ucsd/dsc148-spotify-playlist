@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover: Pa Salieu
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,829 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,851 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Allergy](https://open.spotify.com/track/64Ntvzfh6V4Cq7i4O1XxW9) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Allergy](https://open.spotify.com/album/26TnKWNugPfAIOY2wt0vUr) | 2:32 |
 | 2 | [Lonely At The Top \- Remix](https://open.spotify.com/track/04caQq1IeChrnBnvch1FQf) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Lonely At The Top \(Remix\)](https://open.spotify.com/album/4uKPsyfeHc4KFn0mxPa59y) | 2:37 |
-| 3 | [Tanzania \- Rampa Remix](https://open.spotify.com/track/0S4v8Xpbv2qCeYzhVnhULh) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Tanzania \(Rampa Remix\)](https://open.spotify.com/album/17X1yha8lkmFmVBuBTIoUP) | 3:55 |
+| 3 | [Tanzania \- Rampa Remix](https://open.spotify.com/track/0S4v8Xpbv2qCeYzhVnhULh) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Tanzania \(Rampa Remix\)](https://open.spotify.com/album/17X1yha8lkmFmVBuBTIoUP) | 3:55 |
 | 4 | [Ruin](https://open.spotify.com/track/3XloH0C8QYXgbYPmXlxf2x) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Ruin](https://open.spotify.com/album/5FCCJIcpppCJI3qIPAhgbG) | 3:01 |
 | 5 | [AREA BOYZ PRAYER \(feat\. Seyi Vibez\)](https://open.spotify.com/track/4q66cTrveS3OCh2cIeOKRS) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [AREA BOYZ](https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd) | 4:10 |
 | 6 | [Vibration \(feat\. Projexx\)](https://open.spotify.com/track/0EKkyN2k5huAQZkc4NXJVA) | [Noon Dave](https://open.spotify.com/artist/7JkLbDtlEwAhFPn3o2kXAm), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N) | [GEM](https://open.spotify.com/album/0p2MabDPBRWA1B3ltJx5fg) | 3:22 |

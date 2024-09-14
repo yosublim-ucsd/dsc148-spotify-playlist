@@ -8246,6 +8246,10 @@
         {
           "name": "Savi Kahlon",
           "url": "https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP"
+        },
+        {
+          "name": "The Masters",
+          "url": "https://open.spotify.com/artist/3R8saokYuKIfkvB5ibb3Ok"
         }
       ],
       "date_added": "2024-09-12",
@@ -9604,6 +9608,24 @@
       "duration_ms": 260178,
       "name": "Maafi (From \"Chandigarh Kare Aashiqui\")",
       "url": "https://open.spotify.com/track/5YRF192d5rE7xk6cT1H6wN"
+    },
+    {
+      "album": {
+        "name": "Maahi Maahi",
+        "url": "https://open.spotify.com/album/67C8SOhG4gDRiOxpjD741T"
+      },
+      "artists": [
+        {
+          "name": "Javed Ali",
+          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208192,
+      "name": "Maahi Maahi",
+      "url": "https://open.spotify.com/track/0iaG10jcOPWAoEwo66y8IA"
     },
     {
       "album": {
@@ -15402,7 +15424,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 164156,
       "name": "Sohniye",
       "url": "https://open.spotify.com/track/3o1JBywODxE6eEToF3y33U"

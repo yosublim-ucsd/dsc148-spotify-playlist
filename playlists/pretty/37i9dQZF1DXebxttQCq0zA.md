@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 
 > Soothing drones, ambient piano and new age music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 960,957 likes - 223 songs - 10 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 961,351 likes - 223 songs - 10 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -232,4 +232,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 | 222 | [Océane](https://open.spotify.com/track/5MO30pVBGibQZ4445ipvvf) | [Arlette Leduc](https://open.spotify.com/artist/3LyPSzNbQ3R4cgHZDUP06T) | [Océane](https://open.spotify.com/album/0hlgpROu1Jxe4IT7nHbwFl) | 2:32 |
 | 223 | [In Solitude](https://open.spotify.com/track/4rEHRykxSQvP6mA23Umt71) | [Restorative](https://open.spotify.com/artist/5xKXgnk2Uov5ZnQi87TV0i) | [In Solitude](https://open.spotify.com/album/1S2GsC1vBF4ISYIpwSass6) | 2:31 |
 
-Snapshot ID: `Ztl96gAAAACs6yRTYqJwkv2uz5+SBa8B`
+Snapshot ID: `Ztl96gAAAAC2SrGyRqH/FC0XYzDLwYYW`

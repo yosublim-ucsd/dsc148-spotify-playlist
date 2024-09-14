@@ -4,7 +4,7 @@
 
 > Endelig fredag og masse ny musikk! 🎵
 
-2,150 songs - 4 day 14 hr 38 min
+2,152 songs - 4 day 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -403,6 +403,7 @@
 | [Dancing All Alone](https://open.spotify.com/track/4L5ZcHfPsgG7ws1ZiWSjeU) | [EMMY](https://open.spotify.com/artist/4rrI3dKjmTOzRZvOwOWOlu) | [Dancing All Alone](https://open.spotify.com/album/593zRUZuDPvDNGtfen3K7V) | 2:00 | 2024-05-31 | 2024-06-07 |
 | [Dancing In The Dark](https://open.spotify.com/track/7fp4YVnCDtQvcnW9rCkoFC) | [Alejandro Fuentes](https://open.spotify.com/artist/43uURL7UXIZoVIsTTrLe7d) | [Dancing In The Dark](https://open.spotify.com/album/19AilVICLGharYZ39D3dPR) | 2:32 | 2024-05-09 | 2024-05-17 |
 | [Dancing In The Dark](https://open.spotify.com/track/3XF9ZTTvHZ9J4tgTm0iVR7) | [HORT3N](https://open.spotify.com/artist/3wNJwsU6r4xpkMMgrHBlqY), [DVNY](https://open.spotify.com/artist/6bZPyY7fpgegmdBHwbbu77), [James Stefano](https://open.spotify.com/artist/38Hlo0i9xWEI6JCe28nlzf) | [Dancing In The Dark](https://open.spotify.com/album/1K7LSX6R0YlGIviJB0dyR6) | 2:57 | 2024-08-01 | 2024-08-09 |
+| [Dancing In The Flames](https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dancing In The Flames](https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g) | 3:40 | 2024-09-12 |  |
 | [Dancing On Dynamite](https://open.spotify.com/track/69xtyFE0Vsm9PspAnp5Bmj) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Dancing On Dynamite](https://open.spotify.com/album/5uxfXlbkYB1GTDIDm1oYOa) | 2:42 | 2024-08-29 | 2024-09-06 |
 | [Dancing Type](https://open.spotify.com/track/3Gf35KMfySYgS8MFLFpIEc) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [Dancing Type](https://open.spotify.com/album/0P7SpW8srX9NHdROJwkGAy) | 2:35 | 2024-04-26 | 2024-05-03 |
 | [dandelion](https://open.spotify.com/track/3ZXd5l94n13iXtxcMTi7gv) | [Not Charles](https://open.spotify.com/artist/3d55ekyPunc3CZiJgdSL4D) | [dandelion](https://open.spotify.com/album/07Yy7eQAIUSPoHGgdXpcCj) | 4:06 | 2024-06-13 | 2024-06-21 |
@@ -601,6 +602,7 @@
 | [Fantomet](https://open.spotify.com/track/70Nk1IpFz4d92KuwUIKv6U) | [Zimmermann](https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB) | [Fantomet](https://open.spotify.com/album/091Cs80C3nNAUcZqONwRig) | 3:50 | 2024-05-02 | 2024-05-10 |
 | [Fantomsmerter](https://open.spotify.com/track/2Qdxa6J1wSvAzUQ72TaIPH) | [Emily Hammer](https://open.spotify.com/artist/5w9lzChcn9hvCt9Tqh4E64) | [Fantomsmerter](https://open.spotify.com/album/1eMC31JWSPKzJrnTJN88zs) | 3:18 | 2024-06-13 | 2024-06-21 |
 | [Far Away](https://open.spotify.com/track/7r4UPntFWtH9DyHIPavx0v) | [Jacøb](https://open.spotify.com/artist/2r0okaiEF5EDGWax7kQKe9) | [Far Away](https://open.spotify.com/album/3ThbWe71uG5Haw6QiA7E0i) | 3:22 | 2024-07-04 | 2024-07-12 |
+| [FAR FETCHED \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/5ZY1qGibLsa2xZm0XUe36g) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [FAR FETCHED \(feat\. Ty Dolla $ign\)](https://open.spotify.com/album/0Ss227Tev7vSTbFtTfIm3y) | 4:07 | 2024-09-12 |  |
 | [Farlig](https://open.spotify.com/track/1XJwauCo6yfFoTpIE0ldQq) | [William](https://open.spotify.com/artist/0nh7QCv37pMZFIN6vRKidB) | [Farlig](https://open.spotify.com/album/2aGhZJhPOreDfDgdM5lLvv) | 2:10 | 2024-05-23 | 2024-06-01 |
 | [Fasaden](https://open.spotify.com/track/5ncEPyvNyQJ4O131U7xY5q) | [Dårlig Vane](https://open.spotify.com/artist/0BUqqTzhPGAUfeeb7owmFT) | [Rett Rundt Hjørnet](https://open.spotify.com/album/31CzzVJgROzkMQDxTQz2WU) | 3:00 | 2024-05-02 | 2024-05-10 |
 | [Fasefeil](https://open.spotify.com/track/4MUkDLIc63oQ1LUCOrsxMD) | [RSP & Thomax](https://open.spotify.com/artist/7pLEcbAHCbnTwB2IsYnlgx) | [Fasefeil](https://open.spotify.com/album/1yNbGZCuEIdsjqKOXJY9Rb) | 3:42 | 2024-09-12 |  |

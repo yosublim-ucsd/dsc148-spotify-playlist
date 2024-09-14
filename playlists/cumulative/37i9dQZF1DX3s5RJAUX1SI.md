@@ -4,7 +4,7 @@
 
 > POV: tá fresco y la sombra del fresnito pega bien sabroso.
 
-353 songs - 19 hr 43 min
+354 songs - 19 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [El Amor De Tu Vida](https://open.spotify.com/track/5HpXH64cSBNu26yhw3vK37) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [El Amor De Tu Vida](https://open.spotify.com/album/0TkiwzRoKzV332NLyvnKjJ) | 2:43 | 2023-06-12 | 2023-08-09 |
 | [El Amor De Tu Vida](https://open.spotify.com/track/7AWgHNS16hOhmiyPIRRcmC) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Tony Melendez](https://open.spotify.com/artist/2xtVF7p8OnfvOmTExIoknF) | [El Amor De Tu Vida](https://open.spotify.com/album/5ZgM7Cd76zsjHVZuqESNj9) | 2:43 | 2023-08-08 | 2024-04-19 |
 | [El Amor No Se Vende](https://open.spotify.com/track/6kryfJVx06nofw6Z3bVUjx) | [El Tigrillo Palma](https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek) | [Por Las Calles Enlodadas](https://open.spotify.com/album/5Dxgtj1Vd7vpOC5vnNrJhD) | 2:28 | 2023-06-12 |  |
+| [El Ausente](https://open.spotify.com/track/3D6gCys7pOPolLltewKwte) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Rancheras & Adictivas](https://open.spotify.com/album/3yTfG82CulQc6ShTGD1j0m) | 3:22 | 2024-09-06 |  |
 | [El Aventurero \(Yo El Aventurero\)](https://open.spotify.com/track/4v0CTkZMtlTrFSjNaD4Y27) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [El Charro de México](https://open.spotify.com/album/4O87qGykYzHA5dk9PjLJnm) | 3:14 | 2023-06-12 |  |
 | [El Barzon](https://open.spotify.com/track/3WALh4MuKxt00oJO7vSrjk) | [Luis Pérez Meza](https://open.spotify.com/artist/1njDUvTLxvzE1QO8wN39eT) | [Lo Mejor De Rancheras](https://open.spotify.com/album/1byRtvyAmS4gGeTbSRCwv8) | 2:44 | 2023-06-12 | 2023-08-09 |
 | [El Caminante](https://open.spotify.com/track/3Hv6acH4mKhpohJ7fKOX5v) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Rancheras & Adictivas](https://open.spotify.com/album/3yTfG82CulQc6ShTGD1j0m) | 3:20 | 2024-09-06 |  |
@@ -105,7 +106,7 @@
 | [El Final de Nuestra Historia](https://open.spotify.com/track/73aNc2V32NpepB8lLhnDjW) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Ya Aprendí la Lección](https://open.spotify.com/album/7zdX1DPwz8PU1tsaw5qSg8) | 3:28 | 2023-06-12 | 2024-09-07 |
 | [El Indio Enamorado](https://open.spotify.com/track/77Yhcsal6ceWoLqYbDCeaZ) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [El Indio Enamorado](https://open.spotify.com/album/4JwwVngWxV6EDq7lC3wUBt) | 3:08 | 2023-06-12 |  |
 | [El Paciente](https://open.spotify.com/track/3vvi6OGDVPhZvRFEPXZE2r) | [Maribel Sur](https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf) | [El Paciente](https://open.spotify.com/album/5GKOP1rqWR2TguIbRR4qYo) | 3:32 | 2021-11-01 | 2022-07-06 |
-| [el taca taca ta \- remix](https://open.spotify.com/track/588dUhigU4hLeFcbXzFI0q) | [Conjunto Nuevo Amanecer](https://open.spotify.com/artist/5PYRJEcuO4GwG3LEiowJQc), [La Kumbre Con K](https://open.spotify.com/artist/4YsOJficccPjUQ8xGgObh3) | [el taca taca ta \(remix\)](https://open.spotify.com/album/2OG8ON3G040SHedULEvXon) | 4:02 | 2024-03-27 |  |
+| [el taca taca ta \- remix](https://open.spotify.com/track/588dUhigU4hLeFcbXzFI0q) | [Conjunto Nuevo Amanecer](https://open.spotify.com/artist/5PYRJEcuO4GwG3LEiowJQc), [La Kumbre Con K](https://open.spotify.com/artist/4YsOJficccPjUQ8xGgObh3) | [el taca taca ta \(remix\)](https://open.spotify.com/album/2OG8ON3G040SHedULEvXon) | 4:02 | 2024-03-27 | 2024-09-14 |
 | [El Triste](https://open.spotify.com/track/5bC9coSW5PggQN2HefYSk2) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [El Triste](https://open.spotify.com/album/5lZFOwckQKRGJltW9B7oHM) | 4:12 | 2021-11-01 | 2023-08-09 |
 | [El Último Beso](https://open.spotify.com/track/5sQiPI9krkeb9aAvl7tDyn) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 2:52 | 2023-06-12 |  |
 | [Ella](https://open.spotify.com/track/5A56SGZWiN3utcGa8OXnWK) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [Ella](https://open.spotify.com/album/7GkkvHitLjP4xAeF2RVXhO) | 3:22 | 2021-11-01 | 2022-07-15 |

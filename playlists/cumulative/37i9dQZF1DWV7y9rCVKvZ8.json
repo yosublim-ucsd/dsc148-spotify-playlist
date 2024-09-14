@@ -280,7 +280,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 200690,
       "name": "Anti-Hero",
       "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
@@ -1913,6 +1913,24 @@
     },
     {
       "album": {
+        "name": "ORBIT",
+        "url": "https://open.spotify.com/album/7tWr2b9BugAQDkh2IqcaCo"
+      },
+      "artists": [
+        {
+          "name": "DNDY",
+          "url": "https://open.spotify.com/artist/1CcuT7tBgWnAwqdWqUGQez"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231476,
+      "name": "LAB (Lanjut Atau Berhenti)",
+      "url": "https://open.spotify.com/track/3hzEVI3DvRiiwGaVVJUguN"
+    },
+    {
+      "album": {
         "name": "Pilot",
         "url": "https://open.spotify.com/album/2Ykep6jay9dIiAB9eJq7vo"
       },
@@ -2360,7 +2378,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 208853,
       "name": "Melting",
       "url": "https://open.spotify.com/track/2kSb3wYSOV996xA2NSmpck"
@@ -3234,7 +3252,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 278500,
       "name": "Semata Karenamu",
       "url": "https://open.spotify.com/track/4z6FksNI6MLCDTHrNJXhO0"
@@ -4104,6 +4122,24 @@
       "duration_ms": 220946,
       "name": "Wide Awake",
       "url": "https://open.spotify.com/track/5JLv62qFIS1DR3zGEcApRt"
+    },
+    {
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261466,
+      "name": "WILDFLOWER",
+      "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
       "album": {

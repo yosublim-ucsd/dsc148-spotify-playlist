@@ -3683,6 +3683,24 @@
     },
     {
       "album": {
+        "name": "Vuelta",
+        "url": "https://open.spotify.com/album/71bxnh6ZfVRvmW6BpyXgiB"
+      },
+      "artists": [
+        {
+          "name": "Con Alma",
+          "url": "https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123821,
+      "name": "Vuelta",
+      "url": "https://open.spotify.com/track/0mPUDi1UgV7xvwMo31wYlR"
+    },
+    {
+      "album": {
         "name": "Waiting For You",
         "url": "https://open.spotify.com/album/5wanR4vJ9jSXcD9MlN6XWc"
       },

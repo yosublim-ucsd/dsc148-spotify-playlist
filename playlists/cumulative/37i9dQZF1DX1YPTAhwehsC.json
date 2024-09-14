@@ -497,6 +497,24 @@
     },
     {
       "album": {
+        "name": "INFINITI",
+        "url": "https://open.spotify.com/album/26gyDTgt8S10aGIGbcJW3w"
+      },
+      "artists": [
+        {
+          "name": "KA$HDAMI",
+          "url": "https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70683,
+      "name": "3x",
+      "url": "https://open.spotify.com/track/4yWPs0pptbO1lOPkxXOXU4"
+    },
+    {
+      "album": {
         "name": "40",
         "url": "https://open.spotify.com/album/2I05gcZaTo8nNuUC6PSwnt"
       },
@@ -5095,6 +5113,24 @@
     },
     {
       "album": {
+        "name": "D.B.A.D. (Don't Be Actin Dumb)",
+        "url": "https://open.spotify.com/album/1z91B4C2s8Gwc3CRFJUyTH"
+      },
+      "artists": [
+        {
+          "name": "Cleotrapa",
+          "url": "https://open.spotify.com/artist/7sgo4MkWeGVIuR6D4cO8oc"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "D.B.A.D. (Don't Be Actin Dumb)",
+      "url": "https://open.spotify.com/track/6FF5q6qbi8W5enIyJbCFgz"
+    },
+    {
+      "album": {
         "name": "D.M.B.",
         "url": "https://open.spotify.com/album/1o13E5QES3KCOg85oF0KNa"
       },
@@ -5572,7 +5608,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-08",
+      "date_removed": null,
       "duration_ms": 118002,
       "name": "Did It First (with Central Cee)",
       "url": "https://open.spotify.com/track/57lsYy0OZLNb5OQ7fEa3Hs"
@@ -5802,6 +5838,24 @@
       "duration_ms": 165637,
       "name": "Do Something (with Jeremih)",
       "url": "https://open.spotify.com/track/3WaojRhCnye5o9CPS618wn"
+    },
+    {
+      "album": {
+        "name": "Do the Busabus Pt.2",
+        "url": "https://open.spotify.com/album/6p4H2OhooBuXIGPeocrzAM"
+      },
+      "artists": [
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229128,
+      "name": "Do the Busabus Pt.2",
+      "url": "https://open.spotify.com/track/6ktWV64HbyzHuTYAnaM7mF"
     },
     {
       "album": {
@@ -9881,6 +9935,32 @@
     },
     {
       "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/0SoDqZyYx0DOmbSv0ReBwQ"
+      },
+      "artists": [
+        {
+          "name": "2Rare",
+          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
+        },
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "Ann Marie",
+          "url": "https://open.spotify.com/artist/3feB1IF85It42sebtWSqws"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217731,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/4IuWMIcuPDFmPhPrdl0DD2"
+    },
+    {
+      "album": {
         "name": "Heavy",
         "url": "https://open.spotify.com/album/2RADneMo8givvCbM6k6yPR"
       },
@@ -11022,7 +11102,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 175970,
       "name": "If U Don\u2019t Know By Now",
       "url": "https://open.spotify.com/track/598KwHY5LR8nhtaDjqu1Oa"
@@ -11896,6 +11976,24 @@
       "duration_ms": 140416,
       "name": "Kick It",
       "url": "https://open.spotify.com/track/7D9hC9aFANt3vzGx1p0ZL0"
+    },
+    {
+      "album": {
+        "name": "KiCKIN",
+        "url": "https://open.spotify.com/album/51HW3FtsiuLI3sYGFWDfXs"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142146,
+      "name": "KiCKIN",
+      "url": "https://open.spotify.com/track/26XkW38w3jSTVDiul4XO5c"
     },
     {
       "album": {
@@ -14526,7 +14624,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-17",
+      "date_removed": null,
       "duration_ms": 178921,
       "name": "My Baby (feat. STAR BANDZ)",
       "url": "https://open.spotify.com/track/5mx5lXpouQi2BnlGTHFvQZ"
@@ -15974,6 +16072,24 @@
       "duration_ms": 184296,
       "name": "Off Top",
       "url": "https://open.spotify.com/track/4B9W5xGHs5cJp47xOUBqeN"
+    },
+    {
+      "album": {
+        "name": "Off White Rozay",
+        "url": "https://open.spotify.com/album/18I4Bx1FCtAeb9uUvtOYia"
+      },
+      "artists": [
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149313,
+      "name": "Off White Rozay",
+      "url": "https://open.spotify.com/track/4DDnNyzFo6KaIacYE7RP6p"
     },
     {
       "album": {
@@ -18406,7 +18522,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 102132,
       "name": "Reap",
       "url": "https://open.spotify.com/track/0G79wzmzEGi9IJ8dzft2A5"
@@ -18588,6 +18704,24 @@
       "duration_ms": 156428,
       "name": "Relapse",
       "url": "https://open.spotify.com/track/1rqK157myRkURNm2M4mGOH"
+    },
+    {
+      "album": {
+        "name": "Relapse",
+        "url": "https://open.spotify.com/album/1fOFNY6KQQjpMjCLOPoy0P"
+      },
+      "artists": [
+        {
+          "name": "Nino Paid",
+          "url": "https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144431,
+      "name": "Relapse",
+      "url": "https://open.spotify.com/track/11KEGU90jqzG2jS58emvmj"
     },
     {
       "album": {
@@ -21787,6 +21921,32 @@
     },
     {
       "album": {
+        "name": "The Confidence Of Knowing",
+        "url": "https://open.spotify.com/album/0ikGG2Y7zJslRuQNtOK4Bf"
+      },
+      "artists": [
+        {
+          "name": "Talib Kweli",
+          "url": "https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y"
+        },
+        {
+          "name": "J. Rawls",
+          "url": "https://open.spotify.com/artist/3M5miYDu8lWrm0A3Q0OTag"
+        },
+        {
+          "name": "Coast Contra",
+          "url": "https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324375,
+      "name": "SWAT",
+      "url": "https://open.spotify.com/track/43Dg2fjTT2i4eSHbeGmh98"
+    },
+    {
+      "album": {
         "name": "Sweet Yamz",
         "url": "https://open.spotify.com/album/3bPtRLwtH0jyiXzPtGGQUd"
       },
@@ -22078,6 +22238,28 @@
       "duration_ms": 119233,
       "name": "Tell 'Em",
       "url": "https://open.spotify.com/track/6IuN5rqcAeHmzK5d5r0RWL"
+    },
+    {
+      "album": {
+        "name": "TELL ME (feat. Chl\u00f6e)",
+        "url": "https://open.spotify.com/album/7LS6PqmpJP8HTXgBFHTKYz"
+      },
+      "artists": [
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        },
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156133,
+      "name": "TELL ME (feat. Chl\u00f6e)",
+      "url": "https://open.spotify.com/track/5SUYx8DCjFhdU9d9Qu4Vnf"
     },
     {
       "album": {
@@ -22736,7 +22918,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 142172,
       "name": "TiFFANY",
       "url": "https://open.spotify.com/track/5VKFxeCNXVoJbFUUlfmVx9"
@@ -23650,6 +23832,24 @@
       "duration_ms": 147218,
       "name": "Uzi",
       "url": "https://open.spotify.com/track/7bYMYyBCfWSfoC2zRacK2x"
+    },
+    {
+      "album": {
+        "name": "Velveeta",
+        "url": "https://open.spotify.com/album/7ilCVjnLTGdAHClCqfhEIU"
+      },
+      "artists": [
+        {
+          "name": "Fourfive",
+          "url": "https://open.spotify.com/artist/2Iwoy31N647ZAX06wPbcGg"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97792,
+      "name": "Velveeta",
+      "url": "https://open.spotify.com/track/0QczrqabTXW83f9XCq3eir"
     },
     {
       "album": {
@@ -25558,6 +25758,28 @@
       "duration_ms": 128085,
       "name": "You Know the Name",
       "url": "https://open.spotify.com/track/0rc7LUw8zp18vUqIzfh1Ml"
+    },
+    {
+      "album": {
+        "name": "You Look Good",
+        "url": "https://open.spotify.com/album/7jlwccXiTUzBAeg3n339Ic"
+      },
+      "artists": [
+        {
+          "name": "Cartier",
+          "url": "https://open.spotify.com/artist/43Nu4ChA6nE5ENwu8f7Jzf"
+        },
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146332,
+      "name": "You Look Good",
+      "url": "https://open.spotify.com/track/1D9CMXx4br928VCw5qWJsS"
     },
     {
       "album": {

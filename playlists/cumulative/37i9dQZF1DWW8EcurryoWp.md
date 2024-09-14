@@ -4,7 +4,7 @@
 
 > The best new Irish alternative sounds\. Cover: Kynsy
 
-92 songs - 5 hr 26 min
+95 songs - 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,11 +12,11 @@
 | [2000SEVEN](https://open.spotify.com/track/7fxGuWIxbIE2jt2Vo3AEGy) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [2000SEVEN](https://open.spotify.com/album/2hwa7JPhA6ZFPBKuLKIHD1) | 2:41 | 2024-07-12 |  |
 | [a dream like that](https://open.spotify.com/track/7CXkR6SjtTDLTPwBXDUTo6) | [p o n d 20mg](https://open.spotify.com/artist/6UTy96luHrnKamHNrE6Ecz) | [a dream like that](https://open.spotify.com/album/6kALorGtrDcXAh09rHCFzk) | 1:41 | 2024-06-20 |  |
 | [All The Days](https://open.spotify.com/track/63gKAsclXoMLXxG9rpqrfJ) | [The Devlins](https://open.spotify.com/artist/2iEzHy2OpgKEdTiYXA0rJv) | [All The Days](https://open.spotify.com/album/6eSA88rpIIc3P3hPDg7As1) | 4:34 | 2024-07-18 |  |
-| [all the sins I've forgotten](https://open.spotify.com/track/2I6JqYGttvjS6gOGC4xStN) | [Uly](https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg) | [all the sins I've forgotten](https://open.spotify.com/album/03pJIzukwnpneipgkqQizx) | 5:36 | 2024-06-20 |  |
+| [all the sins I've forgotten](https://open.spotify.com/track/2I6JqYGttvjS6gOGC4xStN) | [Uly](https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg) | [all the sins I've forgotten](https://open.spotify.com/album/03pJIzukwnpneipgkqQizx) | 5:36 | 2024-06-20 | 2024-09-14 |
 | [Angel](https://open.spotify.com/track/1kiw6IXeTauPy3L964yxoZ) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [MADRA](https://open.spotify.com/album/1Z04cqirpWoJhEi9iovmqw) | 3:19 | 2024-06-20 |  |
 | [Antidote](https://open.spotify.com/track/207bcqHODbUfxAsyhi1fkR) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Antidote](https://open.spotify.com/album/5BtsIlGeClmz7o8B4aq6MK) | 2:45 | 2024-06-20 |  |
 | [Approachable](https://open.spotify.com/track/5GtTdg5XdVYzp0sQjQvkRm) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Approachable](https://open.spotify.com/album/5LabQRkQ7ULkIAm2mZktMl) | 4:00 | 2024-06-20 |  |
-| [At Your Door](https://open.spotify.com/track/6KE0OMBcrLWD6UbThRZkW5) | [The Burma](https://open.spotify.com/artist/6nnn5LYcpqTA3f7mjLcpuK) | [Crazy Dreams & Cruel Realities](https://open.spotify.com/album/3AtPIPXneAYe1XKGet7Xhb) | 3:46 | 2024-06-20 |  |
+| [At Your Door](https://open.spotify.com/track/6KE0OMBcrLWD6UbThRZkW5) | [The Burma](https://open.spotify.com/artist/6nnn5LYcpqTA3f7mjLcpuK) | [Crazy Dreams & Cruel Realities](https://open.spotify.com/album/3AtPIPXneAYe1XKGet7Xhb) | 3:46 | 2024-06-20 | 2024-09-14 |
 | [Aug 5th](https://open.spotify.com/track/1ovnbUnr1yO4hYqMRKQctV) | [NIALLISH](https://open.spotify.com/artist/4rG3saZbVCrcSaCM5XbbmS) | [Aug 5th](https://open.spotify.com/album/7wxt9oC9GZiOoOFF2jgw6r) | 2:07 | 2024-06-20 | 2024-08-16 |
 | [Babyteeth](https://open.spotify.com/track/4ExOypIb635SdfLjCr6vrQ) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [Supernumeraries](https://open.spotify.com/album/0TvQYUhMSRAT00e3qHXt7y) | 4:12 | 2024-06-20 | 2024-07-19 |
 | [Bad Machine](https://open.spotify.com/track/23ICIRdFlz7XTWc3fz8Kuq) | [Soda Blonde](https://open.spotify.com/artist/665rcluWn9OCTGowMHNdS3) | [Bad Machine](https://open.spotify.com/album/20tBlGSdefnG0bzav4JByv) | 3:28 | 2024-06-20 | 2024-07-05 |
@@ -26,8 +26,9 @@
 | [Bring Heaven](https://open.spotify.com/track/5eOnr7YL7ZxH0N53cOcVyp) | [Mjeam](https://open.spotify.com/artist/4agfjDmBH4Xpqr2tNRKlWn) | [Bring Heaven](https://open.spotify.com/album/6cdkEDv8szrzO4SNkYXYmV) | 2:26 | 2024-06-20 |  |
 | [Camera Shy](https://open.spotify.com/track/2C1JgukgvDi86aODDZrSp2) | [Post\-Party](https://open.spotify.com/artist/6Sg6gogb6FlpSMhqTL7XO9) | [Camera Shy](https://open.spotify.com/album/2ypzTHQbRGdXGrujQvkXzt) | 3:31 | 2024-06-20 | 2024-07-13 |
 | [Chill For The Summer](https://open.spotify.com/track/0sdzs2foIVxCmfMIJZsNhd) | [Sick Love](https://open.spotify.com/artist/08WUbbIzHJ003HDxCRdpaB) | [Champagne](https://open.spotify.com/album/20hO0Er1v4yvq8sTFhRccf) | 4:00 | 2024-06-20 |  |
+| [Colour Again](https://open.spotify.com/track/4dtFrKLkwvhckjSFsz8nva) | [find\-joy](https://open.spotify.com/artist/43RPKwKEHy2vwaH4SQ8mCS) | [Colour Again](https://open.spotify.com/album/1oMdxKd5muQqchVekROmd6) | 4:46 | 2024-09-13 |  |
 | [Crash and Burn](https://open.spotify.com/track/71yDRBo3i9b5kQZClMO2t4) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Crash and Burn / Said Nothing](https://open.spotify.com/album/4XWv8Kw5seA17Ki0uMwnBf) | 3:29 | 2024-06-20 | 2024-07-27 |
-| [CSB](https://open.spotify.com/track/7oflizr4wg5N1DnVt0YZoQ) | [Skies Behind](https://open.spotify.com/artist/4Y0QbsWzdVpjGquNqZuAo8) | [The Spaces](https://open.spotify.com/album/0uCPP0LYOmW1BJbHf7fib8) | 3:19 | 2024-06-20 |  |
+| [CSB](https://open.spotify.com/track/7oflizr4wg5N1DnVt0YZoQ) | [Skies Behind](https://open.spotify.com/artist/4Y0QbsWzdVpjGquNqZuAo8) | [The Spaces](https://open.spotify.com/album/0uCPP0LYOmW1BJbHf7fib8) | 3:19 | 2024-06-20 | 2024-09-14 |
 | [Doctor](https://open.spotify.com/track/4y3huzGv2hwDcEinxfAAwm) | [HAWKE THE BAND](https://open.spotify.com/artist/4J60NlrfKz5XOOG2qi2jGY) | [Doctor](https://open.spotify.com/album/7p22ll5NRESGc4I7B6m2ZI) | 3:01 | 2024-06-20 |  |
 | [Don't Wanna Talk About It](https://open.spotify.com/track/0THLcu5UQrY7q0RW2ZU6Ze) | [Valerie Rose](https://open.spotify.com/artist/07ti3q3QcT6Xe8eCFNlZlZ) | [Don't Wanna Talk About It](https://open.spotify.com/album/25bQY9BdoUpb5SXlxyt6jX) | 2:44 | 2024-06-20 | 2024-08-16 |
 | [elegy](https://open.spotify.com/track/6mD8j5V2vq7B7Ut50RcPVM) | [glasseyed](https://open.spotify.com/artist/3Y38CJx9If6ZXXTWhKUjDG) | [elegy](https://open.spotify.com/album/5Xy2nSptvYN8FODDFXiJFZ) | 3:15 | 2024-06-20 |  |
@@ -48,6 +49,7 @@
 | [it's alright](https://open.spotify.com/track/7rA54vu3U32Xr2jT0evIyg) | [InBetween Honey](https://open.spotify.com/artist/3dUXgmYPiKgVslodN39C6v) | [it's alright](https://open.spotify.com/album/2sh9FG6zeOq9yl91bgwBoh) | 2:29 | 2024-07-25 |  |
 | [Kilanova Horizon](https://open.spotify.com/track/6KDSxUrvroOumG9XvAzPrd) | [Luna Motif](https://open.spotify.com/artist/72RZQEW8b04412JotqI9Nx) | [Kilanova Horizon](https://open.spotify.com/album/4to3MRaVBH84yfK3d9tUTI) | 2:59 | 2024-06-20 |  |
 | [Lap Around The Sun](https://open.spotify.com/track/7iC546xP2SSf2Ws3fKeG9X) | [Post\-Party](https://open.spotify.com/artist/6Sg6gogb6FlpSMhqTL7XO9) | [Lap Around The Sun](https://open.spotify.com/album/4H7EQv3aw3XFT3cODg7TWQ) | 3:04 | 2024-06-20 |  |
+| [Leave Me](https://open.spotify.com/track/1ZKyGDiQe2mMqAEPXl9qg8) | [Joseph O'Sullivan](https://open.spotify.com/artist/34ms1bLvHRmNOtYku3RkIo) | [Leave Me](https://open.spotify.com/album/07yzJWgcQ5UR65NFdaSGaf) | 3:24 | 2024-09-13 |  |
 | [Lenny](https://open.spotify.com/track/1A3bEtK2wHeA3m0pANg42z) | [Cruel Sister](https://open.spotify.com/artist/3SZEdCibGdV5nwK99zdvs2) | [Lenny](https://open.spotify.com/album/76CakOhtSl2HgLKxX7Ek6B) | 3:54 | 2024-06-20 | 2024-09-06 |
 | [Letdown](https://open.spotify.com/track/7sSabxVsemgRKm54oqJSn4) | [Robstar](https://open.spotify.com/artist/3H1ohSP5ALAJPLqwTYWZWz), [Scar$](https://open.spotify.com/artist/0u9B7tJYmF1en0xXivFIKv), [Kami](https://open.spotify.com/artist/2xNf3dmNPdle9Q7VWTQpcC) | [Letdown](https://open.spotify.com/album/6wGsUPdxsSE0gtuUopgQ0Y) | 3:24 | 2024-06-20 | 2024-08-30 |
 | [Lucy](https://open.spotify.com/track/0cTIMuTfgEHWfyb3ZDNv0P) | [Famille Rose](https://open.spotify.com/artist/09nB31lj0UTU6yxn9HoxwI) | [Lucy](https://open.spotify.com/album/5XFeaOYkQiSUetAccVt7mb) | 4:21 | 2024-06-20 |  |
@@ -84,6 +86,7 @@
 | [Supermum!](https://open.spotify.com/track/02CaCPaW8wzDT10YbkueCG) | [Adore](https://open.spotify.com/artist/4BwY0FjNdkoWef8kixy54M) | [Supermum!](https://open.spotify.com/album/04YstcjLsBBfbByvQBM78O) | 3:16 | 2024-09-05 |  |
 | [switching tongues](https://open.spotify.com/track/0oscvFSKOFlJSnRYOYmlZu) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [CARSTEN2X](https://open.spotify.com/artist/0Un2To5Ct6WgajC9z1xDud) | [switching tongues](https://open.spotify.com/album/28EXVEcrRvzNyp7BpLJ6S8) | 2:29 | 2024-06-20 | 2024-09-06 |
 | [Talk To](https://open.spotify.com/track/6gTSHLGb157BB1Y4GakOnv) | [Sheerbuzz](https://open.spotify.com/artist/66Jf8kE6FvL3FiLHD0lWTY) | [Talk To](https://open.spotify.com/album/3CNF54cH33278EJcku3gXI) | 4:31 | 2024-06-20 | 2024-07-19 |
+| [Tell My Ma](https://open.spotify.com/track/03odXEDawI38O9WZF764jR) | [Skinner](https://open.spotify.com/artist/2Se7imfs8bxem8G6oVNABJ) | [Tell My Ma](https://open.spotify.com/album/1noBYErYgt21Gt9cqhgtBP) | 1:26 | 2024-09-13 |  |
 | [That Golden Time](https://open.spotify.com/track/4ibEdioMP3DAJpOxxY1n60) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [That Golden Time](https://open.spotify.com/album/0B03CUw8Fjc55sStCn7ZM6) | 4:50 | 2024-06-20 |  |
 | [The Bass](https://open.spotify.com/track/0gMUe9f7zSPbLIx9Js05J1) | [I Dreamed I Dream](https://open.spotify.com/artist/6Mtmyy5Gpg33uPrT44YtDV) | [Why Say A Lot?](https://open.spotify.com/album/2ibsIihIJ6P00cX0ag8N2j) | 4:44 | 2024-06-20 | 2024-08-16 |
 | [The First Time](https://open.spotify.com/track/6QHVGZoT5oZqIbn2TkpNW6) | [Stella and the Dreaming](https://open.spotify.com/artist/3GOfdAHQH8AfUfA2lisXp6) | [The First Time](https://open.spotify.com/album/2lMsA1YGTTt93coLMkAlFP) | 4:27 | 2024-06-20 |  |

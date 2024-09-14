@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover:  <a href="https://open.spotify.com/artist/3fdFRgy3GmfiWQqeKbmFS8?si=4t4Wq6FTQHS\-AAIj3gsxPw">Mas Musiq </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 856,382 likes - 55 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 857,001 likes - 55 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

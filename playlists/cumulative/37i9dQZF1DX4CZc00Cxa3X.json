@@ -5104,7 +5104,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 311337,
       "name": "Returning After Leaving",
       "url": "https://open.spotify.com/track/3M8vFR2Dca5db4ZDGiYnY5"
@@ -6730,6 +6730,28 @@
       "duration_ms": 330826,
       "name": "Track3a (2waynice)",
       "url": "https://open.spotify.com/track/0jV5pkyZByn7pV12Rzbtuu"
+    },
+    {
+      "album": {
+        "name": "The Unseen Society of Microcreatures",
+        "url": "https://open.spotify.com/album/2Oe8KlU4wRBn6SW8Yl0yOi"
+      },
+      "artists": [
+        {
+          "name": "Lisa Pulsatilla",
+          "url": "https://open.spotify.com/artist/3ueWgTIvkdJpqHTvkLvpEp"
+        },
+        {
+          "name": "Vivian Li",
+          "url": "https://open.spotify.com/artist/6qBlZBVxkWg7OyVdU2bK7l"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Train of Thoughts",
+      "url": "https://open.spotify.com/track/427VDKGFaLw4S5HpoCzzIE"
     },
     {
       "album": {

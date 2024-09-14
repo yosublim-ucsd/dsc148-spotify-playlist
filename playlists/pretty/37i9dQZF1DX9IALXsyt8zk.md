@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 
 > Unearthing up\-and\-coming Korean acts\. \(Cover: RIIZE\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,788 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,786 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 | 11 | [High](https://open.spotify.com/track/0UoC8cBPLaYBa87OtZQ0zr) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [High](https://open.spotify.com/album/1Lij4H3ykjlMZwVRutCx36) | 3:25 |
 | 12 | [Falling into you](https://open.spotify.com/track/5d4NqOk45ZHdztS7BJQ8fY) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [No Gain No Love, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/4xDNKD0zJYTFpArWiyc1hW) | 4:00 |
 | 13 | [FAKE IDOL](https://open.spotify.com/track/4eF3keUr7n9TXSl4NaZQOS) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [FAKE IDOL](https://open.spotify.com/album/6it990sp2jw29IlDjFpO26) | 2:39 |
-| 14 | [Turbulence](https://open.spotify.com/track/6cFn46erk6PtVxU1MUmFB0) | [YUNGIN](https://open.spotify.com/artist/6mhw1MMBwP4wlOmYM3x9bp), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [Did You Know?, Pt\. 1](https://open.spotify.com/album/6pGgkSjHZ4pyh9Tc0b9vom) | 3:39 |
+| 14 | [Turbulence](https://open.spotify.com/track/6cFn46erk6PtVxU1MUmFB0) | [YUNGIN](https://open.spotify.com/artist/6mhw1MMBwP4wlOmYM3x9bp), [Hit\-Boy](https://open.spotify.com/artist/7DNjUopAEybM5cYcDxfGrv), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [Did You Know?, Pt\. 1](https://open.spotify.com/album/6pGgkSjHZ4pyh9Tc0b9vom) | 3:39 |
 | 15 | [iNSTEAD!](https://open.spotify.com/track/5OOGWXB0EWgAULLPzC27Nc) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn), [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB) | [Open ♭eta v6.4](https://open.spotify.com/album/4lfHkwDW53trUWcRbgbJJk) | 2:57 |
 | 16 | [Reaching for you](https://open.spotify.com/track/373oSjQRxIUe2v2KSufHzU) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [Love Next Door, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/2hckHYJqSXkSs5M6rVUYNE) | 3:25 |
 | 17 | [She's not straight](https://open.spotify.com/track/6K14UCl6PmwnmXxYOkfmeL) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [She's not straight](https://open.spotify.com/album/4HjbWvsjIgiSQ9yxFRUql0) | 3:50 |

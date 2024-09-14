@@ -281,6 +281,24 @@
     },
     {
       "album": {
+        "name": "ANGELA",
+        "url": "https://open.spotify.com/album/0kr1BUqZHJgDEW0PwFeklE"
+      },
+      "artists": [
+        {
+          "name": "Foudeqush",
+          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159529,
+      "name": "ACELERA2!",
+      "url": "https://open.spotify.com/track/4qqteHNjI8NlXColeoIm8x"
+    },
+    {
+      "album": {
         "name": "Acuario (Solo San Remix)",
         "url": "https://open.spotify.com/album/17ZVFGoiLYTGmhsRfNdmso"
       },
@@ -1162,7 +1180,7 @@
           "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
         },
         {
-          "name": "Humbe",
+          "name": "HUMBE",
           "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
         }
       ],
@@ -1330,7 +1348,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 106222,
       "name": "bruce willisss",
       "url": "https://open.spotify.com/track/3ktkqlpsYxos7nF2CqGPh6"
@@ -1348,7 +1366,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 193600,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/2ZpTwWC6cUtz5oHcGQexwp"
@@ -2532,7 +2550,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-30",
+      "date_removed": null,
       "duration_ms": 208000,
       "name": "Desorden",
       "url": "https://open.spotify.com/track/0y5NsA4NMN27BVBLezLnqT"
@@ -3218,7 +3236,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 195240,
       "name": "ENNI",
       "url": "https://open.spotify.com/track/1pQMCRRfUWhPlDCtZrMvsh"
@@ -3641,6 +3659,28 @@
     },
     {
       "album": {
+        "name": "Fugazi",
+        "url": "https://open.spotify.com/album/48WEloiqTGL9HOCNatbtw0"
+      },
+      "artists": [
+        {
+          "name": "CLUBZ",
+          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
+        },
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220706,
+      "name": "Fugazi",
+      "url": "https://open.spotify.com/track/0NkV5RzA3Nb3zS04eURa9b"
+    },
+    {
+      "album": {
         "name": "FYAH",
         "url": "https://open.spotify.com/album/4vDEwIEtcEZsNWNQVcIR5M"
       },
@@ -3788,7 +3828,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 168648,
       "name": "GUAP\u00cdSIMA BUEN\u00cdSIMA",
       "url": "https://open.spotify.com/track/2xaKMrNkGVqK5eNgZcg4P3"
@@ -4142,7 +4182,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 210413,
       "name": "Julieta",
       "url": "https://open.spotify.com/track/1QgY3dbddC41h8cBm9lxKd"
@@ -4978,7 +5018,7 @@
       },
       "artists": [
         {
-          "name": "Humbe",
+          "name": "HUMBE",
           "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
         },
         {
@@ -5578,7 +5618,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 129059,
       "name": "MMM",
       "url": "https://open.spotify.com/track/55zce9X7t9rk04W2mBOeoA"
@@ -5662,7 +5702,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 165500,
       "name": "Money Lovin'",
       "url": "https://open.spotify.com/track/7jjRj5E4Z4yuEpYWckzJrl"
@@ -6842,7 +6882,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-10",
+      "date_removed": null,
       "duration_ms": 201182,
       "name": "Palabras De Papel (Veneno)",
       "url": "https://open.spotify.com/track/37nE3DnKSFMyYIsUngPjjI"
@@ -6992,6 +7032,24 @@
       "duration_ms": 182760,
       "name": "Pasatiempo",
       "url": "https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc"
+    },
+    {
+      "album": {
+        "name": "PASOS",
+        "url": "https://open.spotify.com/album/0D3ebTqG1Az1JQ12lgXeo3"
+      },
+      "artists": [
+        {
+          "name": "GRTSCH",
+          "url": "https://open.spotify.com/artist/0UuPYvwZmo6lXXvi1S5mLK"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304400,
+      "name": "PASOS",
+      "url": "https://open.spotify.com/track/6QY54aOYP0Cp3VcL8rXckw"
     },
     {
       "album": {
@@ -8229,6 +8287,24 @@
     },
     {
       "album": {
+        "name": "Sentimental",
+        "url": "https://open.spotify.com/album/69DwSn0YEE9YNqeszr0j6g"
+      },
+      "artists": [
+        {
+          "name": "Soyiby",
+          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189333,
+      "name": "Sentimental",
+      "url": "https://open.spotify.com/track/1TDuF3wpQ9pvQ6gwGV9GUc"
+    },
+    {
+      "album": {
         "name": "Lunastasia 777",
         "url": "https://open.spotify.com/album/5mXcm7wpsBjMl4z6zvCLUY"
       },
@@ -8570,7 +8646,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-02",
+      "date_removed": null,
       "duration_ms": 196071,
       "name": "Solo Los Amantes Sobreviven",
       "url": "https://open.spotify.com/track/7irJUUYtWxt3fRFfjGIDXF"

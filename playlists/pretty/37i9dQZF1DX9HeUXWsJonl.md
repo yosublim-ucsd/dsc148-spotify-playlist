@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HeUXWsJonl.md) - [plain]
 
 > Samara en tête de la playlist numéro un en Tunisie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,515 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,566 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HeUXWsJonl.md) - [plain]
 | 43 | [Hakayet](https://open.spotify.com/track/3PyRt7gpih7EPvV0fMWEom) | [VEN1](https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL) | [Hakayet](https://open.spotify.com/album/2p3ns7RThAsCEkBf6Py5cO) | 2:38 |
 | 44 | [A7lemi Tayra](https://open.spotify.com/track/4P5izN8cO2xwwqRlTNiJ6F) | [D\-Boy](https://open.spotify.com/artist/6otSIar9KKYxrD3XAJWRwX) | [A7lemi Tayra](https://open.spotify.com/album/22UMmR7pSEIvA38jtq9JGl) | 2:56 |
 | 45 | [Khousara](https://open.spotify.com/track/1a3fUDZpgUYRatLdKAnCh0) | [Mouka](https://open.spotify.com/artist/06z6NBx0H2PDzZqw8mPTDz) | [Khousara](https://open.spotify.com/album/3e9XSqi3iGtvBPCxEQPm0N) | 2:58 |
-| 46 | [Sahara \- سهّارة](https://open.spotify.com/track/0zDdQ9LQW6Fu6EAIQ34l92) | [Tati G13](https://open.spotify.com/artist/0U33TLQaAlL1uLccEYAXnI) | [Sahara \(سهّارة\)](https://open.spotify.com/album/6ZFP3CKGbHnXK9Cuzhdyus) | 2:56 |
+| 46 | [Sahara \- سهّارة](https://open.spotify.com/track/0zDdQ9LQW6Fu6EAIQ34l92) | [Tati G13](https://open.spotify.com/artist/0U33TLQaAlL1uLccEYAXnI) | [Sahara \- سهّارة](https://open.spotify.com/album/6ZFP3CKGbHnXK9Cuzhdyus) | 2:56 |
 | 47 | [Baba](https://open.spotify.com/track/36h8chyy24HG3382bLeKbz) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Baba](https://open.spotify.com/album/0GvXMvJ9iEKSmvFYN7rCLQ) | 4:33 |
 | 48 | [MESTWI](https://open.spotify.com/track/0mMcpkFCjggJilJZOZUkAj) | [Ktyb](https://open.spotify.com/artist/1i85OjmZoPeQqdnqX0NXBa), [DON PAC](https://open.spotify.com/artist/4pHDepQgiozHdmlY65PJDZ) | [MESTWI](https://open.spotify.com/album/0XGaToEjWwqHU9O2xDdDKt) | 4:13 |
 | 49 | [Va Bene](https://open.spotify.com/track/6NYQhiBDgiliWFSQzHqpmZ) | [Yousfi](https://open.spotify.com/artist/3Sbb6TiJ8LLT877N4BlAJj) | [Va Bene](https://open.spotify.com/album/45pTrdiBG1DmQ5YfZPmsgt) | 2:26 |

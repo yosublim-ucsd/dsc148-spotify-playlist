@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "M\u00fasica brasileira fora da curva. Foto: Transmissor",
+  "description": "M\u00fasica brasileira fora da curva. Foto: Ale Sater",
   "name": "alt BR",
   "tracks": [
     {
@@ -1089,6 +1089,28 @@
     },
     {
       "album": {
+        "name": "Eu Te Conto Tudo",
+        "url": "https://open.spotify.com/album/5dAkGlsiX4ZFKi4ncGvABK"
+      },
+      "artists": [
+        {
+          "name": "Os Amanticidas",
+          "url": "https://open.spotify.com/artist/6DnHZK8a57dRS2D5qewfex"
+        },
+        {
+          "name": "renanrenan",
+          "url": "https://open.spotify.com/artist/6ifMpdLfWyznB383KijFAh"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291201,
+      "name": "Arrasta Asa",
+      "url": "https://open.spotify.com/track/1BeUNTxs300I1GV83V4FHF"
+    },
+    {
+      "album": {
         "name": "Arrepio",
         "url": "https://open.spotify.com/album/0oumTpSlSc8wsYzeUKD8d8"
       },
@@ -1775,6 +1797,24 @@
     },
     {
       "album": {
+        "name": "Borda da Linha",
+        "url": "https://open.spotify.com/album/1BRsFlURPkZr5gVWSCCv4P"
+      },
+      "artists": [
+        {
+          "name": "Belga",
+          "url": "https://open.spotify.com/artist/0wNISJ1zVfy4g2k4w4GQS4"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192534,
+      "name": "Borda da Linha",
+      "url": "https://open.spotify.com/track/78k5K7KSYMUOB4273TAOu4"
+    },
+    {
+      "album": {
         "name": "bossa nova",
         "url": "https://open.spotify.com/album/02mynHvI2Ao5tAD89HT75B"
       },
@@ -2280,6 +2320,24 @@
       "duration_ms": 251040,
       "name": "Cerer\u00ea",
       "url": "https://open.spotify.com/track/3vSrgDmcI6QcZgEbgbI5Kp"
+    },
+    {
+      "album": {
+        "name": "Aproar",
+        "url": "https://open.spotify.com/album/3Sso9eZtn7DPNMsdbMdBmP"
+      },
+      "artists": [
+        {
+          "name": "N\u00f3",
+          "url": "https://open.spotify.com/artist/4PqyC4ZKN6l1rgFojodapX"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143665,
+      "name": "Certas Coisas",
+      "url": "https://open.spotify.com/track/39FAm3DcgoFJAHIL7TPQE4"
     },
     {
       "album": {
@@ -3039,6 +3097,24 @@
     },
     {
       "album": {
+        "name": "DDD 31",
+        "url": "https://open.spotify.com/album/5aYZMrE1SPZ8uxH8RNXquI"
+      },
+      "artists": [
+        {
+          "name": "Lua Sanja",
+          "url": "https://open.spotify.com/artist/5zbjAdiQ09woNIoKn1ok6Y"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156108,
+      "name": "DDD 31",
+      "url": "https://open.spotify.com/track/7plV3fVV4weEAf4wXGmJtI"
+    },
+    {
+      "album": {
         "name": "SALVE-SE!",
         "url": "https://open.spotify.com/album/78EDQWddL1J80CnDO9w5T3"
       },
@@ -3232,7 +3308,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 214426,
       "name": "Demorou Pra Ser",
       "url": "https://open.spotify.com/track/5QeEdKDDBSsYXlQ6gR4Aw4"
@@ -4821,6 +4897,24 @@
     },
     {
       "album": {
+        "name": "Tudo T\u00e3o Certo",
+        "url": "https://open.spotify.com/album/0poYJHA4qnPswuCQIFEiMu"
+      },
+      "artists": [
+        {
+          "name": "Ale Sater",
+          "url": "https://open.spotify.com/artist/0zeEmlxF30MGOT16dM5vqx"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204627,
+      "name": "Final de Mim",
+      "url": "https://open.spotify.com/track/5SKWDRIsZKzLfxPkFs9bjL"
+    },
+    {
+      "album": {
         "name": "Foi Assim",
         "url": "https://open.spotify.com/album/3vLFn7RuyXbQTKpqhPdIwS"
       },
@@ -5380,7 +5474,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 262720,
       "name": "Inerte",
       "url": "https://open.spotify.com/track/6vmvqkOeokYk9DZMAZU7lM"
@@ -5557,6 +5651,28 @@
     },
     {
       "album": {
+        "name": "CORAL",
+        "url": "https://open.spotify.com/album/2sA4L7b2365LhgDk9mh796"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Manoel",
+          "url": "https://open.spotify.com/artist/6V29laIlmBaFnxF9uDvZvH"
+        },
+        {
+          "name": "Alessandra Le\u00e3o",
+          "url": "https://open.spotify.com/artist/37m97yyap5ftH0sx3IHqno"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269374,
+      "name": "Iy\u00e1 Mesan",
+      "url": "https://open.spotify.com/track/12qwubySXFcZGfLczELOiV"
+    },
+    {
+      "album": {
         "name": "Este \u00e9 um disco sobre amor",
         "url": "https://open.spotify.com/album/6Z0DDEnCHnOCGmPT78etYH"
       },
@@ -5630,6 +5746,24 @@
       "duration_ms": 171829,
       "name": "ju\u00edzo",
       "url": "https://open.spotify.com/track/4Yru56EsGo8cnuXERFPW2B"
+    },
+    {
+      "album": {
+        "name": "Duvide dos Astros",
+        "url": "https://open.spotify.com/album/1oMFpAddDdZsY02OnNu4yN"
+      },
+      "artists": [
+        {
+          "name": "S\u00e9rgio Sacra",
+          "url": "https://open.spotify.com/artist/3NxtY4W1T0rci50byVVIPw"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194255,
+      "name": "J\u00e1 Chegou ao Fim",
+      "url": "https://open.spotify.com/track/2ShUPRqDDS3yWwiYH60fxU"
     },
     {
       "album": {
@@ -6517,6 +6651,24 @@
     },
     {
       "album": {
+        "name": "MEDOFOBIA",
+        "url": "https://open.spotify.com/album/7x9aaR4OTXpps8YyDFWf3p"
+      },
+      "artists": [
+        {
+          "name": "MarthaV",
+          "url": "https://open.spotify.com/artist/374l3EPJE9ijqtpW2zEm3w"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181458,
+      "name": "MEDOFOBIA",
+      "url": "https://open.spotify.com/track/4AlDBt1ip59pJIWfKrud1L"
+    },
+    {
+      "album": {
         "name": "Melhor Assim",
         "url": "https://open.spotify.com/album/2YK1qx4izgB5Wpij68Ig7c"
       },
@@ -6902,7 +7054,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 173713,
       "name": "Miragem",
       "url": "https://open.spotify.com/track/7r46cxPPIfIf8WOAfAWRnK"
@@ -8538,6 +8690,36 @@
       "duration_ms": 151000,
       "name": "Paix\u00e3o Revirada",
       "url": "https://open.spotify.com/track/7giC7o4Bnvm7enlzpwZCDd"
+    },
+    {
+      "album": {
+        "name": "Pantufas",
+        "url": "https://open.spotify.com/album/6rhS4tx0MyVzpxUS6vWVpO"
+      },
+      "artists": [
+        {
+          "name": "Meu Nome N\u00e3o \u00c9 Portugas",
+          "url": "https://open.spotify.com/artist/644BUUW4o2S0Tqvwu3mElD"
+        },
+        {
+          "name": "Andr\u00e9 Bruni",
+          "url": "https://open.spotify.com/artist/4g4eorxKf04lSLCQUdkbCt"
+        },
+        {
+          "name": "Henrique Kehde",
+          "url": "https://open.spotify.com/artist/4Rd9JBO7715ZozW152C04m"
+        },
+        {
+          "name": "Pedro Lacerda",
+          "url": "https://open.spotify.com/artist/1cmOnKVOzrodQZtLcNnh5X"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222875,
+      "name": "Pantufas",
+      "url": "https://open.spotify.com/track/4ibwijAswlFKt5SJgQSZTh"
     },
     {
       "album": {
@@ -10801,6 +10983,24 @@
     },
     {
       "album": {
+        "name": "Sprezzatura",
+        "url": "https://open.spotify.com/album/3iULJhexNJQ2w2lUNa6y1c"
+      },
+      "artists": [
+        {
+          "name": "Konai",
+          "url": "https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177735,
+      "name": "Sprezzatura",
+      "url": "https://open.spotify.com/track/0H2YqUAmW3Sxbqx8ez8jmG"
+    },
+    {
+      "album": {
         "name": "Strokinho",
         "url": "https://open.spotify.com/album/1nYKRWKxbNnZNFHI9Vinuy"
       },
@@ -11094,6 +11294,32 @@
       "duration_ms": 120110,
       "name": "Tatuagem",
       "url": "https://open.spotify.com/track/76zObbgCpNkONNVieHQIa1"
+    },
+    {
+      "album": {
+        "name": "Te Estranho",
+        "url": "https://open.spotify.com/album/2hod12Qxx26Hk5IDOw9K9Q"
+      },
+      "artists": [
+        {
+          "name": "maquinas",
+          "url": "https://open.spotify.com/artist/25nahlb6zTMSuEX0ZgLsUT"
+        },
+        {
+          "name": "Felipe Couto",
+          "url": "https://open.spotify.com/artist/6naHHqIVdvTVlzuVs0IxKL"
+        },
+        {
+          "name": "Jair Naves",
+          "url": "https://open.spotify.com/artist/5qMWCxaDz4lycNKMpVR5ai"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 482632,
+      "name": "Te Estranho",
+      "url": "https://open.spotify.com/track/4sJgM57DxwyiaU5SPyhIhG"
     },
     {
       "album": {
@@ -11589,6 +11815,24 @@
     },
     {
       "album": {
+        "name": "Mania 2000",
+        "url": "https://open.spotify.com/album/3vAgUo1miPIbN2EBRlZbEm"
+      },
+      "artists": [
+        {
+          "name": "Tontom",
+          "url": "https://open.spotify.com/artist/3skzQIG1feNhVQs2TnoFGV"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216824,
+      "name": "Tontom Perigosa",
+      "url": "https://open.spotify.com/track/1YawOq4OjvLRbEmno5lnXM"
+    },
+    {
+      "album": {
         "name": "Trabalhar na MTV",
         "url": "https://open.spotify.com/album/0ShffzuYbSIJGLovvcoPoX"
       },
@@ -11812,6 +12056,32 @@
       "duration_ms": 214557,
       "name": "Tudo",
       "url": "https://open.spotify.com/track/46XgW83pYCfzTbtDNqczDn"
+    },
+    {
+      "album": {
+        "name": "tudo pra agora",
+        "url": "https://open.spotify.com/album/2ViCgSPyCWGIJ8Hz0GPWkK"
+      },
+      "artists": [
+        {
+          "name": "batata boy",
+          "url": "https://open.spotify.com/artist/5NslOaAzwiiyBpEASSUzkA"
+        },
+        {
+          "name": "Bruno Berle",
+          "url": "https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0"
+        },
+        {
+          "name": "snowfuks",
+          "url": "https://open.spotify.com/artist/6dZTKtASgEUcUDAcSBvwLC"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244731,
+      "name": "tudo pra agora",
+      "url": "https://open.spotify.com/track/2u8gkZ9plC1KcHAbFqzY8J"
     },
     {
       "album": {

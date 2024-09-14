@@ -7170,7 +7170,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 256500,
       "name": "Double Reflections",
       "url": "https://open.spotify.com/track/0EgZtK84Zp5R5vdFvxiVUn"
@@ -17059,6 +17059,24 @@
     },
     {
       "album": {
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/0BbleXiZyv90RtecWWhcyE"
+      },
+      "artists": [
+        {
+          "name": "Drove",
+          "url": "https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254139,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/17mK2SoypJm9tEiuD2Ngki"
+    },
+    {
+      "album": {
         "name": "Letting People Go (feat. Prinze George)",
         "url": "https://open.spotify.com/album/52GddglHbBcj6S4tuHHoVU"
       },
@@ -24754,7 +24772,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 199247,
       "name": "Rise Above",
       "url": "https://open.spotify.com/track/30qiELbAZ83xKkj23MhdhH"
@@ -30790,6 +30808,24 @@
       "duration_ms": 240510,
       "name": "Too Weak",
       "url": "https://open.spotify.com/track/0IwnyVENCHeAnSPA8xcG14"
+    },
+    {
+      "album": {
+        "name": "Train of Thoughts",
+        "url": "https://open.spotify.com/album/25ofOqJksQI5dd1ky79SBD"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206097,
+      "name": "Train of Thoughts",
+      "url": "https://open.spotify.com/track/1OoJQao2C0rvcUpr2BqgaM"
     },
     {
       "album": {

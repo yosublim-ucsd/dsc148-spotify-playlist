@@ -31,6 +31,24 @@
     },
     {
       "album": {
+        "name": "333",
+        "url": "https://open.spotify.com/album/5CP84pfi4AFe95UTACFWrk"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127826,
+      "name": "1993",
+      "url": "https://open.spotify.com/track/6QsHhB0W9GtLF3cI7mUVkQ"
+    },
+    {
+      "album": {
         "name": "Para\u00edso Particular Vol. 01 (Ao Vivo)",
         "url": "https://open.spotify.com/album/5xbSsOJsCXNSodcAE7IsAA"
       },
@@ -53,6 +71,24 @@
     },
     {
       "album": {
+        "name": "333",
+        "url": "https://open.spotify.com/album/5CP84pfi4AFe95UTACFWrk"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324000,
+      "name": "333",
+      "url": "https://open.spotify.com/track/0qsKefQyXCzaxjHbOcd8IU"
+    },
+    {
+      "album": {
         "name": "Ningu\u00e9m T\u00e1 Puro!",
         "url": "https://open.spotify.com/album/0JDZhfDT24lh3OYX0NKU9I"
       },
@@ -72,6 +108,28 @@
       "duration_ms": 163500,
       "name": "400K",
       "url": "https://open.spotify.com/track/1i2kguziI3ZbUZnZMKNhQ2"
+    },
+    {
+      "album": {
+        "name": "333",
+        "url": "https://open.spotify.com/album/5CP84pfi4AFe95UTACFWrk"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        },
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204923,
+      "name": "4Tal",
+      "url": "https://open.spotify.com/track/6OcZP4rUfuxms2r8Mwx5BQ"
     },
     {
       "album": {
@@ -570,7 +628,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -606,7 +664,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 266737,
       "name": "CAJU",
       "url": "https://open.spotify.com/track/7tmvvRmUqzCRjRx9ub8K7i"
@@ -836,7 +894,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 141230,
       "name": "Clack Bum",
       "url": "https://open.spotify.com/track/5DrDpWyvharQkhsloNTN9W"
@@ -936,6 +994,42 @@
       "duration_ms": 222296,
       "name": "Cora\u00e7\u00e3o de Vaqueiro",
       "url": "https://open.spotify.com/track/1BSsJm88q13n15TgJqvqBp"
+    },
+    {
+      "album": {
+        "name": "Cora\u00e7\u00e3o Partido (Coraz\u00f3n Part\u00edo) - Ao Vivo",
+        "url": "https://open.spotify.com/album/1TDPdTrinPDX4tZTwYOE1v"
+      },
+      "artists": [
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195794,
+      "name": "Cora\u00e7\u00e3o Partido (Coraz\u00f3n Part\u00edo) - Ao Vivo",
+      "url": "https://open.spotify.com/track/1YlfGwNizEKy299l1PVggn"
+    },
+    {
+      "album": {
+        "name": "333",
+        "url": "https://open.spotify.com/album/5CP84pfi4AFe95UTACFWrk"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154418,
+      "name": "Crack com Mussilon",
+      "url": "https://open.spotify.com/track/4ssHL7bSnOAE7HjiuLx6Co"
     },
     {
       "album": {
@@ -1234,7 +1328,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 122169,
       "name": "Deu Moral - Ao Vivo",
       "url": "https://open.spotify.com/track/4VZNgofGpFZ8FrQM3VYosB"
@@ -1948,7 +2042,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 371852,
       "name": "Filha do Deputado",
       "url": "https://open.spotify.com/track/2jHkMr2BWhEKKuMsg6jJSf"
@@ -2197,6 +2291,50 @@
     },
     {
       "album": {
+        "name": "333",
+        "url": "https://open.spotify.com/album/5CP84pfi4AFe95UTACFWrk"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155368,
+      "name": "Imagina esse Cen\u00e1rio",
+      "url": "https://open.spotify.com/track/2fjqfFUq64thFsqfKN01kS"
+    },
+    {
+      "album": {
+        "name": "333",
+        "url": "https://open.spotify.com/album/5CP84pfi4AFe95UTACFWrk"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        },
+        {
+          "name": "Brand\u00e3o85",
+          "url": "https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285000,
+      "name": "Isso \u00e9 S\u00e9rio",
+      "url": "https://open.spotify.com/track/3Sa2gVQioE31DcG4nKNDqD"
+    },
+    {
+      "album": {
         "name": "Joga Pra Lua",
         "url": "https://open.spotify.com/album/4NUJYV2fygdmIVZCBelgb1"
       },
@@ -2366,7 +2504,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-17",
+      "date_removed": null,
       "duration_ms": 142470,
       "name": "Licor 43",
       "url": "https://open.spotify.com/track/3l5VjEAeUTqrlD50iEo8Yn"
@@ -2789,6 +2927,24 @@
     },
     {
       "album": {
+        "name": "333",
+        "url": "https://open.spotify.com/album/5CP84pfi4AFe95UTACFWrk"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204339,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/2ux3Sb90r5aA74nLMls1u0"
+    },
+    {
+      "album": {
         "name": "Fortaleza, Vol.3 (Ao Vivo)",
         "url": "https://open.spotify.com/album/0gCOaKfrBuEMpjvKDZnfak"
       },
@@ -2862,7 +3018,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 177567,
       "name": "Mela\u00e7\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/2ZI7HOZoBqrV3lFlHKJshI"
@@ -3230,7 +3386,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 117576,
       "name": "MTG QUERO VER SE VOC\u00ca TEM ATITUDE",
       "url": "https://open.spotify.com/track/70ZMGJGfSXw5pIvi0wbNja"
@@ -3637,6 +3793,24 @@
     },
     {
       "album": {
+        "name": "333",
+        "url": "https://open.spotify.com/album/5CP84pfi4AFe95UTACFWrk"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312480,
+      "name": "O Som",
+      "url": "https://open.spotify.com/track/4v0VOuuaZSQHjnjzkC3cnk"
+    },
+    {
+      "album": {
         "name": "Escolhas, Vol. 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/3a6T0jJ6mF4KpBYvKH5o7Z"
       },
@@ -3782,7 +3956,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 113448,
       "name": "Patrai",
       "url": "https://open.spotify.com/track/3TzANwXYkLsjIY9CT7prcL"
@@ -3990,6 +4164,28 @@
       "duration_ms": 144360,
       "name": "Problemas de um Milion\u00e1rio",
       "url": "https://open.spotify.com/track/0VybBobSYSzliyEJ1VqwGR"
+    },
+    {
+      "album": {
+        "name": "Fortaleza - Ao Vivo",
+        "url": "https://open.spotify.com/album/0Lo0mXzAAVAjuxyuYHWVZ1"
+      },
+      "artists": [
+        {
+          "name": "Murilo Huff",
+          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
+        },
+        {
+          "name": "Hugo & Guilherme",
+          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149323,
+      "name": "Pula Fora - Ao Vivo",
+      "url": "https://open.spotify.com/track/7f1tZNtc1t456ybBsl5sfK"
     },
     {
       "album": {
@@ -4464,7 +4660,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 149432,
       "name": "Saudade Butequeira - Ao Vivo",
       "url": "https://open.spotify.com/track/1VbunACv3Z4cGfBenC7oTx"
@@ -4802,7 +4998,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 157279,
       "name": "Taste",
       "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
@@ -4930,6 +5126,24 @@
       "duration_ms": 266666,
       "name": "THE BOX MEDLEY FUNK 2",
       "url": "https://open.spotify.com/track/7IFsTX5H1sWcEl8joV0IdD"
+    },
+    {
+      "album": {
+        "name": "The Emptiness Machine",
+        "url": "https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190427,
+      "name": "The Emptiness Machine",
+      "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
     },
     {
       "album": {
@@ -5282,7 +5496,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 160864,
       "name": "Vamo de Pagodin",
       "url": "https://open.spotify.com/track/6FllOXq1UDCFDt1V4YvN3K"
@@ -5462,7 +5676,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 170887,
       "name": "Who",
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"

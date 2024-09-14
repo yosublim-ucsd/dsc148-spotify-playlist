@@ -4,7 +4,7 @@
 
 > Lull your little ones with piano music.
 
-652 songs - 19 hr 47 min
+656 songs - 19 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Birds Come Morning](https://open.spotify.com/track/1EKfN9J9WgAKLUmXFtUzXu) | [Aryan Armstrong](https://open.spotify.com/artist/5PDN3kzgUe0ns31NnvSfCp) | [Birds Come Morning](https://open.spotify.com/album/5yoXBNJxPNTRIWyqYROgO2) | 2:21 | 2023-06-08 |  |
 | [Bisou](https://open.spotify.com/track/7FSeGQHfvKITyvGTIr1zBD) | [Elov Trus](https://open.spotify.com/artist/3C9En1lNXIal0tCZVbKxtv) | [Bisou](https://open.spotify.com/album/1rT7CsCPZHqqjL8Cd7vM27) | 2:38 | 2024-05-31 |  |
 | [Bitte Mama](https://open.spotify.com/track/1PNefrcvvs6O5KJR6QNSSK) | [Verna Fuller](https://open.spotify.com/artist/7yOLgQOK7gR1w8tnQp2Ubx) | [Das Freundliche Monster](https://open.spotify.com/album/167K8pRyBOUiDfZyv5Zwe8) | 1:04 | 2021-10-07 | 2023-06-23 |
+| [Blessed Assurance](https://open.spotify.com/track/3teu4DGIFRkjK2bSNTaXdf) | [Chester Goodwin](https://open.spotify.com/artist/1sUlQW5elWkCF2z5jRmn9U) | [Blessed Assurance](https://open.spotify.com/album/0AOKQEjQn5AV2HzDaQT6ob) | 3:04 | 2024-09-13 |  |
 | [Blissful Reverie](https://open.spotify.com/track/1NdUEVPr0YTCLEBLIbPXP6) | [Alex Dawa](https://open.spotify.com/artist/6btZeIxzYQSnzutRBcyUlV) | [Blissful Reverie](https://open.spotify.com/album/4iCzQCuhn1EkYKNkYe0n8H) | 2:41 | 2023-08-10 |  |
 | [Blossom](https://open.spotify.com/track/55U4PGCJt22q75JPXiUfoj) | [Snowy Bear](https://open.spotify.com/artist/0d46xJz23JcPHQoQ15SaU4) | [Blossom](https://open.spotify.com/album/3wln5OEsdxPWHVaFl9EhEz) | 1:37 | 2023-05-11 |  |
 | [Blott en dag](https://open.spotify.com/track/49XkXcSroi01dECBeMf1wJ) | [Sarah Mathieson](https://open.spotify.com/artist/2Bt65oYe6XD6YksE5ELi5n) | [Blott en dag](https://open.spotify.com/album/7hqajrKD8OBtWD0fywQp6K) | 1:25 | 2022-10-28 | 2023-06-03 |
@@ -152,6 +153,7 @@
 | [Drifting Off](https://open.spotify.com/track/08mDKHVrKDN7NeIXvZ1J33) | [Holly Doris](https://open.spotify.com/artist/4SqjCvakZzR5FMrHGba3L7) | [Drifting Off](https://open.spotify.com/album/0l4j3CpfWQCu4jdZa7NZJz) | 2:33 | 2021-10-07 | 2024-04-19 |
 | [Drømmenes verden](https://open.spotify.com/track/71tEUkRXpGDFEqAkVIcOkX) | [Demi Rasmussen](https://open.spotify.com/artist/6bYwWlhCzdXNlqFmwyZOTD) | [Drømmenes verden](https://open.spotify.com/album/34hkOMErIOW4N5Gp9o6gXj) | 2:17 | 2022-12-09 |  |
 | [Early in the morning](https://open.spotify.com/track/2VCNBuJor5UVnwomVvBpwk) | [Jeb Lucky](https://open.spotify.com/artist/1sHdqBnwuUJSz1fef6Jk0E) | [Early in the morning](https://open.spotify.com/album/6Ec37wWRMzqhSMAAHcTHTC) | 1:41 | 2021-10-07 | 2024-03-29 |
+| [Ears Hang Low](https://open.spotify.com/track/6bC2n5VyJ6IbCNsCTancQm) | [Carey Martin](https://open.spotify.com/artist/6Y1dXG8aEWh4fXVAmFkjhF) | [Ears Hang Low](https://open.spotify.com/album/0vprRvIKaJGN0zzJtWFi5J) | 1:40 | 2024-09-13 |  |
 | [Edelweiss](https://open.spotify.com/track/4SMp3hkQV64IoaaKsBQoBo) | [Ludovico Sagese](https://open.spotify.com/artist/1dygDSkQGQOfq1ZdChpOCs) | [Edelweiss](https://open.spotify.com/album/73dGpwMip3kOtupImKbCmS) | 2:03 | 2021-10-07 | 2024-03-29 |
 | [Edelweiss](https://open.spotify.com/track/0gl1AXIypMGRDvcnBjTwHn) | [Sally Holland](https://open.spotify.com/artist/5ozhAjJnyusQHHWCp9GmYy) | [Edelweiss](https://open.spotify.com/album/17aWKxeqXLul02uML9NWYF) | 2:35 | 2023-05-11 | 2023-08-19 |
 | [Edelweiss](https://open.spotify.com/track/28a7u9njkwsYyUtT3a7Daw) | [Sophia's Piano](https://open.spotify.com/artist/4O76WaBpfNBk8l0Ly6Y12J) | [What A Wonderful World](https://open.spotify.com/album/3MoZvFyKPg2hRMN0F1OUqD) | 2:14 | 2022-10-07 | 2023-02-24 |
@@ -196,6 +198,7 @@
 | [Garden Roses](https://open.spotify.com/track/1Hk5HsgILlZxv8hTDHjAFZ) | [Eden Parks](https://open.spotify.com/artist/4s4Bb2TBJLW89tZOV5pz8G) | [Songs from the valley](https://open.spotify.com/album/0WIBmu22RxfRMvqASl8MyA) | 2:29 | 2021-10-07 | 2022-12-24 |
 | [Gentle Dreams](https://open.spotify.com/track/1kETBJfZROZUl3nngNRVRu) | [Mary Monroe](https://open.spotify.com/artist/34r7GYfCBgI8AHhKuazmtc) | [Gentle Dreams](https://open.spotify.com/album/4f3WGJ9z4RtE9S8015k7pq) | 2:18 | 2021-10-07 | 2024-04-19 |
 | [Georgie Porgie](https://open.spotify.com/track/5Ta2XWU7fE69bU1w3ZDILn) | [Peter Ehrlichmann](https://open.spotify.com/artist/4i2t5SSw1MoiBLrD1Lrslx) | [Eeny Meeny Miny Moe](https://open.spotify.com/album/6qgQ3pEsZJKEJ7VdRmkvus) | 1:11 | 2021-10-07 | 2022-12-24 |
+| [Gigglepaws](https://open.spotify.com/track/0OKnujtaEPOi8KIR7zpQo2) | [The Stories We Tell](https://open.spotify.com/artist/0KZ1jg7xT2z2zrMCY2iAlB) | [Gigglepaws](https://open.spotify.com/album/63fT6KHGS3LydubtYtztPc) | 1:49 | 2024-09-13 |  |
 | [Go Tell Aunt Rhody](https://open.spotify.com/track/04E5K4tsp0vtNJUnqVowcA) | [Jasper Sylvaire](https://open.spotify.com/artist/0ni1Eptecat3ntWCUmvSBC) | [Go Tell Aunt Rhody](https://open.spotify.com/album/3dKIK8JNgkAXVSTAxCcyLS) | 1:47 | 2023-12-08 |  |
 | [Go Tell It on the Mountain](https://open.spotify.com/track/544L02Es0F21ZS1G86YWOG) | [Leon Marcus](https://open.spotify.com/artist/2vZ0kN1eFvshSzRWBwd3jf) | [Go Tell It on the Mountain](https://open.spotify.com/album/0N74Q2xMw7rhxwjolOLCrE) | 2:22 | 2021-10-07 | 2022-08-11 |
 | [Godnat min skat](https://open.spotify.com/track/3nIAPDblNehwcKzMmckknw) | [Grete Rosenkjær](https://open.spotify.com/artist/0R9BrQPB75F1VgukWfwXHw) | [Godnat min skat](https://open.spotify.com/album/5Pbg0ie2phwJOea0hvLwdw) | 1:07 | 2021-10-07 | 2023-08-19 |
@@ -210,6 +213,7 @@
 | [Goodnight My Dear](https://open.spotify.com/track/4F2kZfPdy2UqWExKXpaIqR) | [Derina Berger](https://open.spotify.com/artist/2WLjhCbRQU05hDnmU7DeIQ) | [Goodnight My Dear](https://open.spotify.com/album/7et4B7Qa5Asz0pdS5D86Qe) | 1:14 | 2023-05-11 |  |
 | [Grandma’s Glasses](https://open.spotify.com/track/2BR8GLIPPjkljm7nr9UnCk) | [Janell Stallings](https://open.spotify.com/artist/5pAwiiwEYIYJtDLJwi4TbV) | [Grandma’s Glasses](https://open.spotify.com/album/6cooTVwXenEWDgAoq3k7IL) | 1:56 | 2021-10-07 | 2024-03-29 |
 | [Grandma’s Song](https://open.spotify.com/track/12cNto2PJOzdzSLWb0LKeq) | [Isadore Sargent](https://open.spotify.com/artist/02IBHWwjAEhx7xZJQDyx0K) | [Grandma’s Song](https://open.spotify.com/album/29teXxE4oqjsWN9zsKKaWn) | 1:04 | 2021-10-07 | 2022-12-24 |
+| [Green Grass](https://open.spotify.com/track/4lCwzwGz9D5BoxHKsyMBVJ) | [Sandra Forster](https://open.spotify.com/artist/3TLHL40IaEycdPNoxTqK3a) | [Green Grass](https://open.spotify.com/album/71S5e17Khv33HGbQfBqqwE) | 2:07 | 2024-09-13 |  |
 | [Gubben i Månen](https://open.spotify.com/track/58EJ3J0AviZMV0CKLctV44) | [Oscar Johansson](https://open.spotify.com/artist/7DAXxxehmZNAV13QRR3Ys1) | [Drömmarnas Rike](https://open.spotify.com/album/0ZSYxWOf8vJ4G9FiOavpT2) | 1:45 | 2022-11-25 | 2023-03-18 |
 | [Guds kärlek är som stranden](https://open.spotify.com/track/3sczfPrh9pmu3mkLGNSmJ1) | [Sarah Mathieson](https://open.spotify.com/artist/2Bt65oYe6XD6YksE5ELi5n) | [Bred dina vida vingar](https://open.spotify.com/album/4DqBFhs0HYdT4ETvMalw1v) | 1:14 | 2022-11-25 | 2023-08-11 |
 | [Gute Nacht mein Kind](https://open.spotify.com/track/1kzyrRsnjUk0v1jCqZ1Es2) | [Katrin Bauer](https://open.spotify.com/artist/59Y2eW7PPRJAO53sxZ3Bvd) | [Gute Nacht mein Kind](https://open.spotify.com/album/7J8SBjSlBoclMcEz6TUrMQ) | 1:56 | 2021-10-07 | 2022-10-29 |

@@ -4,7 +4,7 @@
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Idgitaf
 
-487 songs - 1 day 7 hr 46 min
+488 songs - 1 day 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -326,6 +326,7 @@
 | [Panggung Besar](https://open.spotify.com/track/3YyOyRtZZ21G0IyIVNdxQi) | [Dodit Mulyanto](https://open.spotify.com/artist/36nP5stOdMeppSTe9iLuFr) | [Panggung Besar](https://open.spotify.com/album/06B12F1j9LGobQ2oh0Uiuk) | 3:44 | 2024-02-08 | 2024-02-23 |
 | [Pantas Untukmu](https://open.spotify.com/track/0GSk8YmefX6RNxvOTMKMvK) | [Rifqi FTR](https://open.spotify.com/artist/0E7e9JsNEXjJ608E1MJnvh) | [Pantas Untukmu](https://open.spotify.com/album/0IYuLmAv8e1xpMvR5n1o8u) | 4:41 | 2024-03-28 | 2024-04-26 |
 | [Party In Bali \(PIB\)](https://open.spotify.com/track/0spo1IvT6CrCLDTVT7ue0O) | [AGNEZ MO](https://open.spotify.com/artist/6pMR8Zgot664613rAiLC2Z) | [Party In Bali \(PIB\)](https://open.spotify.com/album/1H5xLltL7JBn10Ce9XZfTk) | 2:52 | 2024-08-22 |  |
+| [Party In Bali \(PIB\) \[feat\. Jay Park\]](https://open.spotify.com/track/5ZjPVDronecWpciN3fmf5D) | [AGNEZ MO](https://open.spotify.com/artist/6pMR8Zgot664613rAiLC2Z), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Party In Bali \(PIB\) \[feat\. Jay Park\]](https://open.spotify.com/album/4BCEq5okdDEMSjqlg9oUZ2) | 2:52 | 2024-09-13 |  |
 | [Pelan Pelan Melupakan](https://open.spotify.com/track/1mdYmKqowTqMxEgONsGFNK) | [Aan Story](https://open.spotify.com/artist/21delmj7yVs6NDL6o1CPbk), [Dinda Ghania](https://open.spotify.com/artist/2nPIQ6GuHJQEqDRkZvDJn4) | [Pelan Pelan Melupakan](https://open.spotify.com/album/2judBM7zQxlllXnEF601B9) | 3:49 | 2024-08-08 | 2024-08-30 |
 | [Pelukis Pilu](https://open.spotify.com/track/2Mxb5A6QR6lhsx4Z2ozQo4) | [Andmesh](https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt) | [Cinta & Doa](https://open.spotify.com/album/4g3aTyVwe84yOlAM9LMWro) | 4:48 | 2024-01-18 | 2024-03-01 |
 | [Penantian Panjang](https://open.spotify.com/track/1JMpfWjCxhro8H2nKVrc2z) | [Deborah Hanna](https://open.spotify.com/artist/0FfSzdaR7cyBeFlKDd0P0c) | [Penantian Panjang](https://open.spotify.com/album/62dDC0wmINdeEJuWE4dHzX) | 4:11 | 2024-01-18 | 2024-02-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Tinashe
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,213 likes - 43 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,235 likes - 43 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 24 | [If Looks Could Kill](https://open.spotify.com/track/1gZh9faxR4LZepKZzpxAsw) | [Chrissy Costanza](https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv) | [If Looks Could Kill](https://open.spotify.com/album/2bVRi8dtpCmOOsZuYcPN1j) | 3:08 |
 | 25 | [war](https://open.spotify.com/track/48oFsXk4HYLQWd8ELs82pj) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [war](https://open.spotify.com/album/6uZa4NhqqeV3gzH7XpP1q6) | 2:09 |
 | 26 | [Don't Go Back To Paris](https://open.spotify.com/track/0jeGTzkvrNRBC8Dt8bsDRN) | [Remy Bond](https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo) | [Paris / San Francisco](https://open.spotify.com/album/2VFJG91yaQl6TuCWpP95bw) | 3:47 |
-| 27 | [Anyways, I Love You](https://open.spotify.com/track/7lJr8BW2zK9hQph3e0TJ9s) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Anyways, I Love You](https://open.spotify.com/album/5w70Zf3CLvt9irzZl000s8) | 3:46 |
-| 28 | [Another High](https://open.spotify.com/track/2q5ByXv4sljfsPL3XvglUm) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Kissing Death](https://open.spotify.com/album/06BiMFYYLl0cQnJDRSXmtD) | 2:48 |
+| 27 | [Another High](https://open.spotify.com/track/2q5ByXv4sljfsPL3XvglUm) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Kissing Death](https://open.spotify.com/album/06BiMFYYLl0cQnJDRSXmtD) | 2:48 |
+| 28 | [Anyways, I Love You](https://open.spotify.com/track/7lJr8BW2zK9hQph3e0TJ9s) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Anyways, I Love You](https://open.spotify.com/album/5w70Zf3CLvt9irzZl000s8) | 3:46 |
 | 29 | [Poppin Out \(Mistakes\)](https://open.spotify.com/track/5LWazXYOx5t8R5EPFuROfL) | [Chxrry22](https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro) | [Poppin Out \(Mistakes\)](https://open.spotify.com/album/13A8l83ce8GMpqzjsbrgmd) | 2:34 |
 | 30 | [Shame](https://open.spotify.com/track/1mUciZNK2olURLMvqzkkZo) | [GEL](https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73) | [Persona](https://open.spotify.com/album/7iSh8UZLiaaxaxi6H8BRjc) | 2:34 |
 | 31 | [GIRLS GONE WILD](https://open.spotify.com/track/5nRyvWHWIb2F0CzIQfbaUr) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I) | [GIRLS GONE WILD](https://open.spotify.com/album/7q2C8SwFYTyWCspWExMsZN) | 2:21 |

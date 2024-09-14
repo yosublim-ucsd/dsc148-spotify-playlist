@@ -1563,6 +1563,24 @@
     },
     {
       "album": {
+        "name": "Scared That III Miss U",
+        "url": "https://open.spotify.com/album/3QKI4zCckpLSlLyozjyVU4"
+      },
+      "artists": [
+        {
+          "name": "8+acid",
+          "url": "https://open.spotify.com/artist/6oSCCJpjyFN3noOkPepyH7"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202794,
+      "name": "Scared That III Miss U",
+      "url": "https://open.spotify.com/track/1A2SwGzzM1QE7NZNkL0vMR"
+    },
+    {
+      "album": {
         "name": "SEOUL CITY POP [A-Side]",
         "url": "https://open.spotify.com/album/0OXA4wAxuNJO071dZigy23"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "Dos estilos, dos sonidos, un mismo origen: El Barrio. Eme MalaFe, El Malilla en portada.",
+  "description": "Dos estilos, dos sonidos, un mismo origen: El Barrio. Santa Fe Klan en portada.",
   "name": "El Barrio MP3",
   "tracks": [
     {
@@ -1028,7 +1028,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 179080,
       "name": "Bandida",
       "url": "https://open.spotify.com/track/3ksG0cTy7yEVcwqsAVrlYd"
@@ -1276,7 +1276,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 162649,
       "name": "Bling Bling",
       "url": "https://open.spotify.com/track/5B8FWDSKUT5Ui1CsCfopWh"
@@ -1665,6 +1665,24 @@
     },
     {
       "album": {
+        "name": "Canci\u00f3n",
+        "url": "https://open.spotify.com/album/60XsCvdDOnGsXj7uJlbZZB"
+      },
+      "artists": [
+        {
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205606,
+      "name": "Canci\u00f3n",
+      "url": "https://open.spotify.com/track/5ghhbjOImKADh2guhxUivo"
+    },
+    {
+      "album": {
         "name": "Capuchas",
         "url": "https://open.spotify.com/album/5g1hYqFTKyktDQ6YMAEJut"
       },
@@ -1862,7 +1880,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 150724,
       "name": "Chula",
       "url": "https://open.spotify.com/track/40fgKOnq3hxu4HqEbq40CZ"
@@ -2320,7 +2338,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 221330,
       "name": "CUMBIA 85",
       "url": "https://open.spotify.com/track/12hLpCTNfdetaDI6Ps9R8X"
@@ -2398,6 +2416,24 @@
       "duration_ms": 187200,
       "name": "Dale Bogueto",
       "url": "https://open.spotify.com/track/57pTW0VdhvcQUYKtHby8MD"
+    },
+    {
+      "album": {
+        "name": "Corridos a Lo Maximo",
+        "url": "https://open.spotify.com/album/1s3X0yOH91R03rbWw41Ahv"
+      },
+      "artists": [
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206461,
+      "name": "David De Los Acme",
+      "url": "https://open.spotify.com/track/1C4notkddInnKftLi0idAW"
     },
     {
       "album": {
@@ -2578,6 +2614,24 @@
       "duration_ms": 225000,
       "name": "Descansando",
       "url": "https://open.spotify.com/track/3QXBaUQ8iwP2WI1GpQIP18"
+    },
+    {
+      "album": {
+        "name": "DESDE MORRO",
+        "url": "https://open.spotify.com/album/0CPbHTYvWIWyxr5SK2VK1w"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "DESDE MORRO",
+      "url": "https://open.spotify.com/track/3Bas79d2laVBYLbupuRbTy"
     },
     {
       "album": {
@@ -2817,6 +2871,28 @@
     },
     {
       "album": {
+        "name": "Dos De Verde",
+        "url": "https://open.spotify.com/album/5FpH80ps9gEhNb1SipOZ5L"
+      },
+      "artists": [
+        {
+          "name": "Cheko Mg",
+          "url": "https://open.spotify.com/artist/6gSAzGq3CloVM0kyt8uOKA"
+        },
+        {
+          "name": "Octavio Cuadras",
+          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148761,
+      "name": "Dos De Verde",
+      "url": "https://open.spotify.com/track/2Xigt26mjeufL0N8RDxOj2"
+    },
+    {
+      "album": {
         "name": "INC\u00d3MODO",
         "url": "https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN"
       },
@@ -2964,7 +3040,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 205647,
       "name": "El Aferrafter",
       "url": "https://open.spotify.com/track/4UflFP15sPu8HdABGEwEpV"
@@ -3423,6 +3499,28 @@
     },
     {
       "album": {
+        "name": "El Mayor de los Ranas",
+        "url": "https://open.spotify.com/album/6Q3K1pFpo5jX2AYrWs9q4h"
+      },
+      "artists": [
+        {
+          "name": "Victor Valverde",
+          "url": "https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf"
+        },
+        {
+          "name": "JR Torres",
+          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172059,
+      "name": "El Mayor de los Ranas",
+      "url": "https://open.spotify.com/track/5E3T0hZ77NXXUtXJocRIOc"
+    },
+    {
+      "album": {
         "name": "El Mero Mero",
         "url": "https://open.spotify.com/album/0ZYDVpUhNqMIXdqAv1lrEw"
       },
@@ -3606,7 +3704,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 189027,
       "name": "EL RELOJITO",
       "url": "https://open.spotify.com/track/2QE59JyEPQAwCj92Lryao6"
@@ -4650,7 +4748,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 131666,
       "name": "ICE CREAM",
       "url": "https://open.spotify.com/track/6wprSQTo6JpzI2bGiWVThv"
@@ -4906,7 +5004,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 155909,
       "name": "KATY PERRY",
       "url": "https://open.spotify.com/track/7F9wULTYG7mrp7bykMoU2K"
@@ -5276,6 +5374,24 @@
       "duration_ms": 234352,
       "name": "La Bebe - Remix",
       "url": "https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU"
+    },
+    {
+      "album": {
+        "name": "La Brabus",
+        "url": "https://open.spotify.com/album/3TA3TzlJWGWecdKyERJC72"
+      },
+      "artists": [
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209018,
+      "name": "La Brabus",
+      "url": "https://open.spotify.com/track/2Of9oTzvMLeaSncjYf4TDC"
     },
     {
       "album": {
@@ -5678,6 +5794,28 @@
       "duration_ms": 184426,
       "name": "La Suelita Roja",
       "url": "https://open.spotify.com/track/2tgi7LuGzxDkMLFwbfDpHL"
+    },
+    {
+      "album": {
+        "name": "La Vida Loca",
+        "url": "https://open.spotify.com/album/6Yb2puxFyhVZxzrpbV6wy1"
+      },
+      "artists": [
+        {
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+        },
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228026,
+      "name": "La Vida Loca",
+      "url": "https://open.spotify.com/track/20kpcAWtz7Yql6nIH2P94Z"
     },
     {
       "album": {
@@ -7569,6 +7707,24 @@
     },
     {
       "album": {
+        "name": "Otra Vez Pegue Un Vergazo",
+        "url": "https://open.spotify.com/album/29QJDqvpmZ75SvUe8n3ETz"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169408,
+      "name": "Otra Vez Pegue Un Vergazo",
+      "url": "https://open.spotify.com/track/4McpYuSV5NUuvX2dv9Vhy6"
+    },
+    {
+      "album": {
         "name": "Otro D\u00eda, Otra Aventura",
         "url": "https://open.spotify.com/album/1RCvsCMqGEaXQJDfPvlk2j"
       },
@@ -8618,7 +8774,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 226056,
       "name": "Qu\u00e9 Ching\u00f3n",
       "url": "https://open.spotify.com/track/6ZR45fP3eYsWcFFL0xEWoo"
@@ -8782,7 +8938,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 175748,
       "name": "Rich Kid",
       "url": "https://open.spotify.com/track/4yndx5lSMfn2W0SHYJ89YJ"
@@ -9565,6 +9721,24 @@
     },
     {
       "album": {
+        "name": "Sold Out",
+        "url": "https://open.spotify.com/album/5XUjM0qIqjfCQ9itrQPfFi"
+      },
+      "artists": [
+        {
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198036,
+      "name": "Sold Out",
+      "url": "https://open.spotify.com/track/7EVpvxlgcBcXl8HBBnG0kx"
+    },
+    {
+      "album": {
         "name": "Somos Mayiza",
         "url": "https://open.spotify.com/album/0pWFlJBrWfDzgdiDAwcdUX"
       },
@@ -9832,7 +10006,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 209358,
       "name": "Te Lo Dije",
       "url": "https://open.spotify.com/track/6ZRMDvbAqmkngX6M7EnfjY"
@@ -10273,6 +10447,24 @@
     },
     {
       "album": {
+        "name": "Tuesday",
+        "url": "https://open.spotify.com/album/097u0yAwcEdC4L0J8ZNF2f"
+      },
+      "artists": [
+        {
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153402,
+      "name": "Tuesday",
+      "url": "https://open.spotify.com/track/2J0MnYyJe5yVpETzvDFBdU"
+    },
+    {
+      "album": {
         "name": "Tumbate El Rollo",
         "url": "https://open.spotify.com/album/5GE54IpPFRPlNJUczVw7X1"
       },
@@ -10704,6 +10896,24 @@
       "duration_ms": 144746,
       "name": "VAN A VER",
       "url": "https://open.spotify.com/track/3DMbXac1r9ZOwOZKs1Pd1O"
+    },
+    {
+      "album": {
+        "name": "Van Cleef",
+        "url": "https://open.spotify.com/album/547ls3Aoqi2xExYUlW00lT"
+      },
+      "artists": [
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144104,
+      "name": "Van Cleef",
+      "url": "https://open.spotify.com/track/1yRWBqzIjOrizGaBfxFBvc"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5PHJQUwAnG.md) - [plain]
 
 > Bienvenidx a la trampa mexa\. Yng Lvcas y Codiciado en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,334 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,331 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5PHJQUwAnG.md) - [plain]
 | 6 | [La Perrada de la R](https://open.spotify.com/track/2rfhYUlnrj8d9NvOMfiAl4) | [Proceder Elegante](https://open.spotify.com/artist/31I3LvGAhnvpBqv5YRkxbO) | [La Perrada de la R](https://open.spotify.com/album/3mEa2RTqTJF4oMJ2UpwocX) | 2:50 |
 | 7 | [Bajar De Aquí](https://open.spotify.com/track/1g3S0OCeh4zLE2ZtfRDBUA) | [YOSHI](https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd), [Zizzy](https://open.spotify.com/artist/2h8f3bQReG6QLk3tA1j7NS), [Cozy Cuz](https://open.spotify.com/artist/3ScIigEm9KZUrUQtXzBmKJ) | [Bajar De Aquí](https://open.spotify.com/album/6N4Hkd2hxIwIsUGzlDWJjW) | 4:07 |
 | 8 | [Canción para Sentirte Trillonario](https://open.spotify.com/track/04ikA7z7scbinLvcpem6aV) | [El HueyCoyote](https://open.spotify.com/artist/3FP0UgKEa2aprodn6KboaK) | [Canción para Sentirte Trillonario](https://open.spotify.com/album/4gxARTSSjoyfSZ75hhiiLs) | 1:18 |
-| 9 | [El Bandido](https://open.spotify.com/track/11A9Ryo1D6Ca5cfFgONBZn) | [Emiliano Aguilar](https://open.spotify.com/artist/1HyP6vYO8haajmj4NFBXBk) | [El Bandido](https://open.spotify.com/album/6bfHhE4edpv4EfPdzzk4XX) | 2:53 |
-| 10 | [Fake Love](https://open.spotify.com/track/26sLvDjUnS66EPOAV8pErE) | [Matias Juarez](https://open.spotify.com/artist/0DTBJHXaPCzSHR5aa0ezZf) | [Fake Love](https://open.spotify.com/album/2cwWveZjROmcFs7gtB9qvn) | 2:54 |
+| 9 | [Fake Love](https://open.spotify.com/track/26sLvDjUnS66EPOAV8pErE) | [Matias Juarez](https://open.spotify.com/artist/0DTBJHXaPCzSHR5aa0ezZf) | [Fake Love](https://open.spotify.com/album/2cwWveZjROmcFs7gtB9qvn) | 2:54 |
+| 10 | [DINAMITA](https://open.spotify.com/track/2z1J0ARtt7WUsarFsNtmxO) | [Alexia Mariel](https://open.spotify.com/artist/6SDSKrIIGibHeQGx8s9Yyn), [Sandro Malandro](https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS) | [DINAMITA](https://open.spotify.com/album/4dRpKzpWPEi9NYY84ChNhS) | 2:43 |
 | 11 | [Capitulo 1](https://open.spotify.com/track/0tc0TLXNmx2qYEnzz94QjW) | [Flyboiz](https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V) | [Capitulo 1](https://open.spotify.com/album/37XP1tJL093lknUuURHTqZ) | 2:39 |
 | 12 | [Quehacer](https://open.spotify.com/track/2ApMbu401bqRcFYUgmSP7J) | [El HueyCoyote](https://open.spotify.com/artist/3FP0UgKEa2aprodn6KboaK) | [Quehacer](https://open.spotify.com/album/2iEKSHSVMbOBmjkN6osGBc) | 1:23 |
 | 13 | [CAPO$](https://open.spotify.com/track/56e2AHbluOAvUJ5Xao0QL7) | [Jimmy Leon](https://open.spotify.com/artist/3OpZttNRc991Qh10TnOeYl), [Peso Peso](https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj) | [CAPO$](https://open.spotify.com/album/6jXcTAUeHcbspdzYcODcoz) | 2:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5PHJQUwAnG.md) - [plain]
 | 49 | [Snow Tha Product: Bzrp Music Sessions, Vol\. 39](https://open.spotify.com/track/3ke6it1vTmHtz2ApcIVUz5) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Snow Tha Product: Bzrp Music Sessions, Vol\. 39](https://open.spotify.com/album/3GN1tT5enSZQ6lMDtls3an) | 2:57 |
 | 50 | [Dafuk](https://open.spotify.com/track/1Rt5PxKde8JdrCk4ZTnu0g) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 2:31 |
 
-Snapshot ID: `ZtqaYAAAAACCdj30S2f8PYwOHqvu4L/Q`
+Snapshot ID: `ZuSI6QAAAAAn6pU3Q6ax96mI5yUk3d0d`

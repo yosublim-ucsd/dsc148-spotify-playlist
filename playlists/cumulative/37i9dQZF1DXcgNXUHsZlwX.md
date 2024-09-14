@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🌷
 
-471 songs - 1 day 4 hr 12 min
+472 songs - 1 day 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +172,7 @@
 | [J'ai tout oublié](https://open.spotify.com/track/1k1WXy8A5NjSMaTB5ibcO3) | [Cédrik St\-Onge](https://open.spotify.com/artist/2g0Adwuc91HneRGB8jbEq6) | [J'ai tout oublié \- Single](https://open.spotify.com/album/2JqB5rOeHapD0TdnReqeTo) | 3:55 | 2021-01-15 | 2022-07-28 |
 | [J'aime trop la vie](https://open.spotify.com/track/5mGDcrzJlFgPdhKmSBQpki) | [Philémon Cimon](https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h) | [L'amour](https://open.spotify.com/album/1hRUtnckwxQzqdwcmA9tKy) | 5:33 | 2021-08-21 | 2021-10-09 |
 | [J'aurai les cheveux longs](https://open.spotify.com/track/6WL8nV3YgTlrIIlV5aQGyD) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Notre\-Dame\-des\-Sept\-Douleurs](https://open.spotify.com/album/4kNpkRG2YpK4jV9OoopVNh) | 3:55 | 2021-07-24 | 2024-05-12 |
-| [J'espère](https://open.spotify.com/track/2kUWRvNpKmcpesv1fCdOAO) | [Félix Dyotte](https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8) | [J'espère](https://open.spotify.com/album/2RE0A4DfaHmIVVEy7OVjKK) | 2:30 | 2021-01-03\* |  |
+| [J'espère](https://open.spotify.com/track/2kUWRvNpKmcpesv1fCdOAO) | [Félix Dyotte](https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8) | [J'espère](https://open.spotify.com/album/2RE0A4DfaHmIVVEy7OVjKK) | 2:30 | 2021-01-03\* | 2024-09-14 |
 | [J'm'en sors pas](https://open.spotify.com/track/5qNV1GAcGCPfUJfDkUNF5E) | [Marcus Wilcour](https://open.spotify.com/artist/6fB9PFcHK9nL7j5SnQUWOt) | [L'état des lieux](https://open.spotify.com/album/6lK36pAAMCisISuoZHxNI6) | 2:20 | 2021-01-03\* | 2022-07-27 |
 | [J'trouve ça beau](https://open.spotify.com/track/33gIRI0EOFISryPJtSVCqJ) | [Alicia Deschênes](https://open.spotify.com/artist/6cIkGaF2x3ZAZIlxElMvFu) | [Comme June aime Johnny](https://open.spotify.com/album/1j5nc7LO1tQnImfo45Cekn) | 3:26 | 2021-01-15 | 2022-07-27 |
 | [Jamais 2 sans toi](https://open.spotify.com/track/024CnsOMQ92GJoCcMKiwgy) | [David Fleury](https://open.spotify.com/artist/58Hv0n1q9rM1PuvsqXnrAy), [Héra Ménard](https://open.spotify.com/artist/5H5gfDCrcb5XzSrhQhzTiO) | [27x le tour](https://open.spotify.com/album/3gCaNFmUWUvbOptuJ5tc0t) | 3:20 | 2021-01-03\* | 2021-05-06 |
@@ -210,6 +210,7 @@
 | [La Fille qui Chante](https://open.spotify.com/track/6g3aFXb3tFJR3iSkiDS3ci) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [Légèrement](https://open.spotify.com/album/7mcl8oaboZdSJQKq7mFX7r) | 4:33 | 2021-01-30 | 2021-05-03 |
 | [La Fin du Monde](https://open.spotify.com/track/1yvOuYHUOrFWMk3k5dUjvi) | [Joseph Carré](https://open.spotify.com/artist/3UH656Ymcof34g5I9EVZ44) | [La Fin du Monde](https://open.spotify.com/album/1Mftp1y25xbwPnIVumAo6o) | 3:38 | 2023-06-30 | 2023-10-24 |
 | [La flamme](https://open.spotify.com/track/2ZGHA6poKjdYF53JdhJfMl) | [David Fleury](https://open.spotify.com/artist/58Hv0n1q9rM1PuvsqXnrAy) | [La flamme](https://open.spotify.com/album/4kWOaiNyfIJ6r0K9JIKLyS) | 3:54 | 2021-01-03\* |  |
+| [La forêt](https://open.spotify.com/track/307TfFnAVG0MN2pSFXz2AW) | [Jay Trépanier](https://open.spotify.com/artist/5GAcHj0ZkPL07NNkfgW7do) | [La forêt](https://open.spotify.com/album/1GMaKOEve0K68gFGPjjXbF) | 2:22 | 2024-09-13 |  |
 | [La fumée des bougies](https://open.spotify.com/track/7IsofhSconuBgXO2cvpbVL) | [Marilou](https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf) | [La fumée des bougies](https://open.spotify.com/album/0s5d7SHgMqa5EJlz24vsLp) | 3:57 | 2022-12-16 | 2023-08-26 |
 | [La lettre](https://open.spotify.com/track/5T0pz4KYzXrOBWxrBvpZ8W) | [Juste Robert](https://open.spotify.com/artist/4lll5qbnN7kMIi5jOZUpVi) | [Ta théorie sur la lumière](https://open.spotify.com/album/16smfu1rntYNsY9yYqvDDC) | 3:24 | 2022-02-11 | 2022-07-23 |
 | [La maison jaune \(edit\)](https://open.spotify.com/track/3WtMKaUKG7thWKJstzcKNo) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [La maison jaune \(edit\)](https://open.spotify.com/album/3knYO0onnkgMwjU3VZCetN) | 4:06 | 2021-12-06 | 2022-04-19 |
@@ -225,7 +226,7 @@
 | [Lac miroir](https://open.spotify.com/track/6cMjdLFH2xlLi6Yya62FzM) | [Joli\-Bois](https://open.spotify.com/artist/1hYaIQ0aeDjFM7nDP6hxcl) | [Lac miroir](https://open.spotify.com/album/2voRn55rWwSBUOOBv5zb2a) | 3:55 | 2021-01-03\* | 2021-01-23 |
 | [Laisse tomber](https://open.spotify.com/track/708gV8gsUkKJh6YeNubcZR) | [Cédric Vieno](https://open.spotify.com/artist/3BlVrNmJQj2ZfgFYDs3iNv) | [Maltempête](https://open.spotify.com/album/07L0z3wBeykMe72aSurnci) | 3:09 | 2021-01-03\* | 2021-05-07 |
 | [Laissez\-Moi](https://open.spotify.com/track/7KEPFYAiLCen71RTOMUzup) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [Rosier](https://open.spotify.com/album/0vQeuOk0tohIHflikV8jWg) | 3:35 | 2021-01-03\* | 2022-07-26 |
-| [Le bois](https://open.spotify.com/track/48rln9BcoGPT5WlLzns2FP) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [Le bois](https://open.spotify.com/album/485Zc5MM4peA0rQQzLCAiC) | 2:59 | 2022-11-11 | 2024-03-10 |
+| [Le bois](https://open.spotify.com/track/48rln9BcoGPT5WlLzns2FP) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [Le bois](https://open.spotify.com/album/485Zc5MM4peA0rQQzLCAiC) | 2:59 | 2022-11-11 |  |
 | [Le coeur est sans appel](https://open.spotify.com/track/7ihpGFLkznBBwML4MxOfrl) | [Noé Talbot](https://open.spotify.com/artist/5NlqN0zhm9dM0WgtvKvsKU) | [Remercier les accidents](https://open.spotify.com/album/3V66hVSBgfMtfGWNSqzBVZ) | 3:01 | 2021-05-23 | 2021-08-21 |
 | [Le jardin se meurt](https://open.spotify.com/track/6igzj55Dq55ESWR9mAKeCu) | [Vincent Vallières](https://open.spotify.com/artist/2iG6QPoQAVjR93cWyMKqen) | [Le jardin se meurt](https://open.spotify.com/album/3OxNxv43AH0Gcx7mZ4WPx8) | 5:47 | 2021-03-20 |  |
 | [Le jour](https://open.spotify.com/track/2FCGlkyYXNxnoPhio8eNfL) | [Andréanne A\. Malette](https://open.spotify.com/artist/7Cm84tcv4znPwVFtFyIdBB) | [Sitka](https://open.spotify.com/album/6xfRooWnbdEwXfD3dAU3dK) | 3:34 | 2021-01-29 | 2022-02-12 |
@@ -419,7 +420,7 @@
 | [Terre noire](https://open.spotify.com/track/1xHEbSwUjoTbVvWnLvz3gj) | [Dany Nicolas](https://open.spotify.com/artist/4RqDCZuQ8Rr65wpnZn4dTR) | [Terre noire](https://open.spotify.com/album/6XoJAvreDI9mz7vGm751fz) | 3:54 | 2021-04-19 | 2021-05-06 |
 | [Terres brûlées](https://open.spotify.com/track/4CqNS90gqsUCPBI0XIz8GY) | [Myriam Gendron](https://open.spotify.com/artist/7ifBfmldlN3xnzGsbfMISU) | [Terres brûlées](https://open.spotify.com/album/6Zahhq9Qh1JB4gXam2EkkZ) | 6:13 | 2024-04-19 | 2024-05-19 |
 | [Tes yeux](https://open.spotify.com/track/2dlWYj35UwwhCFRgsemKMN) | [Junes](https://open.spotify.com/artist/7gVX2tLip13N0qGifgsWQl) | [Ok](https://open.spotify.com/album/51glN59N897tCM4oRftAMP) | 5:01 | 2021-10-13 | 2022-07-29 |
-| [Tes yeux à Barcelone](https://open.spotify.com/track/45iROClNX8ebbkL95JK3x1) | [Salomé Leclerc](https://open.spotify.com/artist/5gBtHbwwn0bBfrXvs6SY5I) | [Mille ouvrages mon coeur](https://open.spotify.com/album/1KtRuRbQwDAV1OPYst3fDr) | 3:20 | 2021-10-09 |  |
+| [Tes yeux à Barcelone](https://open.spotify.com/track/45iROClNX8ebbkL95JK3x1) | [Salomé Leclerc](https://open.spotify.com/artist/5gBtHbwwn0bBfrXvs6SY5I) | [Mille ouvrages mon coeur](https://open.spotify.com/album/1KtRuRbQwDAV1OPYst3fDr) | 3:20 | 2021-10-09 | 2024-09-14 |
 | [The Animals](https://open.spotify.com/track/751PUtzjp2nrpSsp3sAvgL) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Goodnight Summerland](https://open.spotify.com/album/0MVltcSSdlgnlSNMLmJGFn) | 3:16 | 2023-10-20 |  |
 | [The Drudge](https://open.spotify.com/track/1FDZsIBVAYiNe56EwH8IWC) | [Hanorah](https://open.spotify.com/artist/3RxOQic8AVfAfIb17hVKUo) | [The Drudge](https://open.spotify.com/album/5gLnMoG5rH3f83ZtnillpH) | 3:05 | 2022-10-14 | 2022-12-19 |
 | [The Great Escape](https://open.spotify.com/track/1GIPP103zfsythULEpsmdw) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Close to Paradise](https://open.spotify.com/album/056yp65HkG28gOvkLPWAem) | 3:07 | 2021-10-06 | 2024-08-27 |

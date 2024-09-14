@@ -3709,32 +3709,6 @@
     },
     {
       "album": {
-        "name": "Bappa Bappa Moreya (From \"Interval\")",
-        "url": "https://open.spotify.com/album/7JcjxcWbcZQ0ONKugPopmm"
-      },
-      "artists": [
-        {
-          "name": "Chandan Shetty",
-          "url": "https://open.spotify.com/artist/7pUgn0UC6tjjs1GnKRjhDh"
-        },
-        {
-          "name": "Vikas Vasishta",
-          "url": "https://open.spotify.com/artist/6IcmFfiYYoL5jTHo5xplm4"
-        },
-        {
-          "name": "Vijay Eshwar",
-          "url": "https://open.spotify.com/artist/6c2Mv4SRDP0ftR8VuleaLP"
-        }
-      ],
-      "date_added": "2024-09-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 211774,
-      "name": "Bappa Bappa Moreya (From \"Interval\")",
-      "url": "https://open.spotify.com/track/5vToOYgPudINKlSc6lshqu"
-    },
-    {
-      "album": {
         "name": "Raajahyoga",
         "url": "https://open.spotify.com/album/6EtHSJYHUSPuYAfDYnb42v"
       },
@@ -9482,6 +9456,32 @@
       "duration_ms": 181381,
       "name": "Gandu Hennu Nakkagela (From \"Mandyahaida\")",
       "url": "https://open.spotify.com/track/3r9YuGpklx0BxmhBnme1S0"
+    },
+    {
+      "album": {
+        "name": "Ganesha Song (From \"Interval\")",
+        "url": "https://open.spotify.com/album/7JcjxcWbcZQ0ONKugPopmm"
+      },
+      "artists": [
+        {
+          "name": "Chandan Shetty",
+          "url": "https://open.spotify.com/artist/2b4BOEtTbGchL0K53fvpgk"
+        },
+        {
+          "name": "Vikas Vasishta",
+          "url": "https://open.spotify.com/artist/6IcmFfiYYoL5jTHo5xplm4"
+        },
+        {
+          "name": "Vijay Eshwar",
+          "url": "https://open.spotify.com/artist/6c2Mv4SRDP0ftR8VuleaLP"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211774,
+      "name": "Ganesha Song (From \"Interval\")",
+      "url": "https://open.spotify.com/track/5vToOYgPudINKlSc6lshqu"
     },
     {
       "album": {

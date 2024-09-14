@@ -5159,6 +5159,28 @@
     },
     {
       "album": {
+        "name": "Faasley",
+        "url": "https://open.spotify.com/album/0HthZKGQ3adVX0tonwgOEJ"
+      },
+      "artists": [
+        {
+          "name": "The Skinny guy",
+          "url": "https://open.spotify.com/artist/7eYjyf17V4zqV4fN1oYBMX"
+        },
+        {
+          "name": "Jayyke",
+          "url": "https://open.spotify.com/artist/1ARdtExcPBhLoGwsI959Kw"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229673,
+      "name": "Faasley",
+      "url": "https://open.spotify.com/track/2at6ZuQzPIp058oHDqRznT"
+    },
+    {
+      "album": {
         "name": "Faithless",
         "url": "https://open.spotify.com/album/6lFAXr2v23txmFqjKlJRQG"
       },

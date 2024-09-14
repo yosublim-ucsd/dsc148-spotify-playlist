@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Moonbootica
 
-[Spotify](https://open.spotify.com/user/spotify) - 663,768 likes - 90 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 663,916 likes - 90 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,12 +44,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 34 | [Red](https://open.spotify.com/track/7tPnROivV5HhWJgg1e4a52) | [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY) | [Red](https://open.spotify.com/album/0E9Qg0Z3t4hADu3Pk1AGLw) | 3:46 |
 | 35 | [Crown](https://open.spotify.com/track/48HjuSOCti5mGKg6rUjAfB) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Crown](https://open.spotify.com/album/7Gsu8XlxWUsQbFZGajdxdC) | 4:00 |
 | 36 | [Phoenix](https://open.spotify.com/track/18uUBbcLm3UyVxo043XJy7) | [Nothing But Love](https://open.spotify.com/artist/1N4SUC9nnMp0hpkFVzIm5O) | [Phoenix](https://open.spotify.com/album/0ZLtxICq4zUBuIyQ9h7j6B) | 6:00 |
-| 37 | [Tanzania \- Rampa Remix](https://open.spotify.com/track/0S4v8Xpbv2qCeYzhVnhULh) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Tanzania \(Rampa Remix\)](https://open.spotify.com/album/17X1yha8lkmFmVBuBTIoUP) | 3:55 |
+| 37 | [Tanzania \- Rampa Remix](https://open.spotify.com/track/0S4v8Xpbv2qCeYzhVnhULh) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Tanzania \(Rampa Remix\)](https://open.spotify.com/album/17X1yha8lkmFmVBuBTIoUP) | 3:55 |
 | 38 | [Entertain Us](https://open.spotify.com/track/1cOMGFQ6hMy0Eo97k6elcz) | [Mano Le Tough](https://open.spotify.com/artist/04KmByEP6icXVY0PvJaMMp), [Perel](https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB) | [Entertain Us](https://open.spotify.com/album/1mdnKroiqVM3icONIuw6xR) | 5:58 |
 | 39 | [Sabai](https://open.spotify.com/track/30pzzkKmPeADN94Ne5Grn0) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1), [Aaron Suiss](https://open.spotify.com/artist/5Jl4yj7KU7jneqJ2KIepZA) | [Sabai](https://open.spotify.com/album/5GzBQTnPwI1g4z1cI0qtIG) | 7:21 |
 | 40 | [Believe Me](https://open.spotify.com/track/6xBmO7SoBBDl55wdev6xQi) | [Patrick Scuro](https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB) | [Believe Me](https://open.spotify.com/album/39XqMPdWyNDjA51w2PSva7) | 3:08 |
 | 41 | [LOLA](https://open.spotify.com/track/4iakaMA0WXnJF0HYTkJcQv) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [LOLA](https://open.spotify.com/album/3Z522Z8anS4z8bNsLOEq1T) | 3:08 |
-| 42 | [Lift Me Up](https://open.spotify.com/track/0IxBytxMiyOhfK8yvonEPp) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Kyozo](https://open.spotify.com/artist/6RvOjSdkA47bpr5qejYm1v) | [Lift Me Up \(feat\. Kyozo\)](https://open.spotify.com/album/62dbLJwnEArDhNjiCFgMxA) | 3:53 |
+| 42 | [Lift Me Up \(feat\. Kyozo\)](https://open.spotify.com/track/0IxBytxMiyOhfK8yvonEPp) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Kyozo](https://open.spotify.com/artist/6RvOjSdkA47bpr5qejYm1v) | [Lift Me Up \(feat\. Kyozo\)](https://open.spotify.com/album/62dbLJwnEArDhNjiCFgMxA) | 3:53 |
 | 43 | [Closer \(feat\. Biishop\)](https://open.spotify.com/track/3pScJqnbEt2M4UwwgxhgaS) | [Von Boch](https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0), [Biishop](https://open.spotify.com/artist/1vaoL5LaD2f0jG2UlrY5yF) | [Closer \(feat\. Biishop\)](https://open.spotify.com/album/1LnoDz0b3v2PsfvEBBXYrs) | 6:04 |
 | 44 | [Don't Let Go](https://open.spotify.com/track/2aITcIlGaf8sAwMd9iXEdP) | [Keanler](https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Don't Let Go](https://open.spotify.com/album/3cd0JEdhVY76bmQDryXMqq) | 3:12 |
 | 45 | [Inner Monk](https://open.spotify.com/track/0KrycKwt4RYCFHd8PLhV8S) | [Marc DePulse](https://open.spotify.com/artist/7dhJPaz7uYAPpQSBj1SPaN) | [The Greatest Scratch](https://open.spotify.com/album/3qcj6uyp7KYbX4wFBseWNc) | 5:03 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [Eye Need Your Luv](https://open.spotify.com/track/4PLusgmdbBvkJRrFRkv9iE) | [M1NT](https://open.spotify.com/artist/5gzGYECW5rYT6NccH5zZGL), [Turi](https://open.spotify.com/artist/1oSMgnyRBHfOt26vBan09F) | [Eye Need Your Luv](https://open.spotify.com/album/5jBXJ4l0uZwNQp5NHRSSCr) | 3:04 |
 | 90 | [Spielfreude \- Edit](https://open.spotify.com/track/6ABZ2XEOnm4WVoaDc8g8VO) | [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5), [An On Bast](https://open.spotify.com/artist/4qIHzBkWUueYNuEl3xCDHs) | [Spielfreude](https://open.spotify.com/album/1TtqTFPXxxHAtDDcd1qSUJ) | 4:07 |
 
-Snapshot ID: `ZuNkYAAAAABu6SYAlB8Shfy9mpn1Z2SO`
+Snapshot ID: `ZuNkYAAAAABqmPHJPmDQ67D68fV5XxmJ`

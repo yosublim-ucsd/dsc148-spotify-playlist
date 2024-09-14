@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 
 > Слухай українських виконавиць на повну гучність! Обкладинка: DOROFEEVA
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,205 likes - 55 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,210 likes - 54 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,31 +37,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 | 27 | [Бай бай](https://open.spotify.com/track/0ptjPIsjiBjJd9ZSVIq7Wb) | [Настя Балог](https://open.spotify.com/artist/126TREJvODJUo3f4UYTFxR) | [Бай бай](https://open.spotify.com/album/0pimiaIxqglj74cbCRVoev) | 2:59 |
 | 28 | [Без тебе](https://open.spotify.com/track/7bQETboRNALS5ZAWaUkBlZ) | [Victoria Niro](https://open.spotify.com/artist/0Fnwu2Efik3XglLCqUXJVo) | [Без тебе](https://open.spotify.com/album/31qQ0AB01lFAb3UOLJ338L) | 2:53 |
 | 29 | [Подих вітру](https://open.spotify.com/track/6wYcQFEckXqQgQVnGe8tFV) | [Alena Omargalieva](https://open.spotify.com/artist/1gg8DiQzv8QV2Ej1lWGIQV) | [Подих вітру](https://open.spotify.com/album/1E9FhztmOPkgfXcm4ZcWKi) | 3:29 |
-| 30 | [фантазуй](https://open.spotify.com/track/2Ekol3hPhcdwIwLnFOh38x) | [ANSTAY](https://open.spotify.com/artist/5yboLXHGIuGToCssTrvzz9) | [фантазуй](https://open.spotify.com/album/1mL1NEx1C4YIdpfyD0ovmP) | 3:04 |
-| 31 | [Просто друзі](https://open.spotify.com/track/6gSX3xyuTw829cLez5trqQ) | [АЗІЗА](https://open.spotify.com/artist/6enXW3gpJ7z65qvyaCVP0k) | [Просто друзі](https://open.spotify.com/album/74NbGcG9BKrR3fLqpQVOHi) | 2:27 |
-| 32 | [А мені байдуже](https://open.spotify.com/track/5gTVyqeFA0ipdxidgchAee) | [STASYA](https://open.spotify.com/artist/2Sa39S5jaI9IcrCqHl89fc) | [А мені байдуже](https://open.spotify.com/album/33x4QuapioTska9LWbmoho) | 1:48 |
-| 33 | [Don't Let Me Fall](https://open.spotify.com/track/4sBhQwINUD8UJ24RIdq5P0) | [Lina Cooper](https://open.spotify.com/artist/0YxNJr7YsY95zd86zCjSYH) | [No Filter](https://open.spotify.com/album/3ywzeGn8GcuBg0dLsgX0yQ) | 3:39 |
-| 34 | [якщо ти підеш](https://open.spotify.com/track/18CGGtr2VTeVA1lNkySGL2) | [Настя Гонцул](https://open.spotify.com/artist/3HFo8jLzABeRjbns3XAUFt) | [якщо ти підеш](https://open.spotify.com/album/7pagUvut7AnzACNtzE8u0w) | 1:58 |
-| 35 | [Тренд](https://open.spotify.com/track/78ohuMIgD3fJ1bdhg7Q8CA) | [KAROOKA](https://open.spotify.com/artist/1k5JMm2NvXeUWQ6YWhuDbu) | [Тренд](https://open.spotify.com/album/5ksFgggEtO8n4XQxELxRzX) | 2:37 |
-| 36 | [Дарниця](https://open.spotify.com/track/6VRoMXBAR4VjLKkCi7rxEP) | [Liia](https://open.spotify.com/artist/4ZaYuzOFbJK15bG3qOzaiQ) | [Дарниця](https://open.spotify.com/album/3XlGP5fyZTHnBCrkPH78Cp) | 3:04 |
-| 37 | [18](https://open.spotify.com/track/5x6VqIJDnLWPw1cK4TAHZb) | [ESELISHA](https://open.spotify.com/artist/5bNRVyulb3jLRbGj5zfRHE) | [18](https://open.spotify.com/album/3VmQF84374S6TgqE5ZTJ8J) | 2:41 |
-| 38 | [Ти став для мене місцем сили](https://open.spotify.com/track/54Mxaz5QhYHSyngJP5sGh6) | [bulovinova](https://open.spotify.com/artist/3hGfs6Hess99rJjiCjpd3P) | [Холодна вода](https://open.spotify.com/album/0Gn8UuGDuIDA7ghYcQQQk0) | 2:57 |
-| 39 | [Квіточка](https://open.spotify.com/track/0cHoESoVJpNAEDuCEbaXcN) | [не настане](https://open.spotify.com/artist/1hEHZwBPgCcrcS0p0S0F4j) | [Квіточка](https://open.spotify.com/album/3hTuCtan89SqBWggI9Mq6T) | 2:40 |
-| 40 | [геть зі сцени](https://open.spotify.com/track/0r4JQqF05jIoHHcVmRxsgJ) | [KUGATESSA](https://open.spotify.com/artist/1BOpBS41QOt9MLdS7HK6bH) | [геть зі сцени](https://open.spotify.com/album/1YlNN6wqVEv6Zl57xvFACZ) | 2:51 |
-| 41 | [Обнуляй](https://open.spotify.com/track/1O64VHFoJoGZkLBaRjRiYa) | [EMUNA](https://open.spotify.com/artist/0qYZR1phmP5pcky0m9f3r7) | [Обнуляй](https://open.spotify.com/album/1KWBQWJge9oafHYZ7AyUqd) | 2:29 |
-| 42 | [ХАРКІВ](https://open.spotify.com/track/2T2iNVZjxDs9zCMqNwCFWg) | [TRINY T](https://open.spotify.com/artist/151WSLorWES5ccXH79H8H3) | [ХАРКІВ](https://open.spotify.com/album/1WNTAzJIV18c5NeWXXsmcA) | 2:08 |
-| 43 | [місяць](https://open.spotify.com/track/71LOlE1YSw6qlkGR1qGfeV) | [VALEROVSKA](https://open.spotify.com/artist/6tpCDHlAt8bIPD5baKNzjP) | [місяць](https://open.spotify.com/album/7dBMDOVntobiGyqmDk3zjs) | 2:56 |
-| 44 | [Двобій](https://open.spotify.com/track/0jnPkVHkhEpKurqu7t6r0P) | [NIKKITA](https://open.spotify.com/artist/6bg58Qmn99pP0ZG8JRR9OU) | [Двобій](https://open.spotify.com/album/3SZCpHsmiSzdnM1cUfMvFM) | 2:17 |
-| 45 | [Cтрілки показують вниз](https://open.spotify.com/track/4jQwRWJuzlPfvIl9JUmcPB) | [YARAY](https://open.spotify.com/artist/6ZMw34iH8c9vs79JviuFIo) | [Стрілки показують вниз](https://open.spotify.com/album/2stLmPxpqIuFLB3H4zQqq0) | 3:42 |
-| 46 | [В моїй голові](https://open.spotify.com/track/32zMJySJjYEYXqAB56xOLq) | [квінтесенсія](https://open.spotify.com/artist/6ef1ddSVaXPxWZVhsvRjxJ) | [В моїй голові](https://open.spotify.com/album/443EUUgjZGLHmFCXz1G1H2) | 2:26 |
-| 47 | [Відтінки кохання](https://open.spotify.com/track/4M5WE4XUgBPOsOknXgF22d) | [IPATOVA](https://open.spotify.com/artist/1YkGsKpY7ZwyW7siR4Cg2F) | [Відтінки кохання](https://open.spotify.com/album/1g709UXSr9lq44uA4xErws) | 3:25 |
-| 48 | [Маніпулятор](https://open.spotify.com/track/3PzjCgqGxWvhYqHblHkbpH) | [MUHOMORROVA](https://open.spotify.com/artist/6roqRQje8Yt8NBaN7gxPJs) | [Маніпулятор](https://open.spotify.com/album/7zSmlU2GFf2xw0JD51YigB) | 2:20 |
-| 49 | [Ріка любові](https://open.spotify.com/track/5snZOEgF6jjRIBag6XaylG) | [Mari Cheba](https://open.spotify.com/artist/2pHpT31qrGT1mQ96jPtqM2) | [Ріка любові](https://open.spotify.com/album/0fSYVOzWl3Kt7WxmQbWwUv) | 3:37 |
-| 50 | [Єдине, що вічне](https://open.spotify.com/track/5CQ97QRAtGfyg3YGffiScB) | [Slukhay Sashu](https://open.spotify.com/artist/7bovXIoMqWNOibj93PfU7J), [Van Su](https://open.spotify.com/artist/3QMkbapuVS2Y98sxtd4hMm) | [Єдине, що вічне](https://open.spotify.com/album/4vSsgvE2mWiLUbFNp8wgMV) | 3:51 |
-| 51 | [Солодка кров](https://open.spotify.com/track/4a1Sw7F8d3S2QBApwvoM0M) | [Liana Spelas](https://open.spotify.com/artist/5pxxLiXNESMpqQRGGBwVkT) | [Солодка кров](https://open.spotify.com/album/7Jcxr2ANesGtmgRIXbKyCO) | 3:02 |
-| 52 | [Хто ми є?](https://open.spotify.com/track/323b3bA5XABG27rOdURsKb) | [MANAMAHA](https://open.spotify.com/artist/14aYKAZ4zig2g6Pdll5Mf4) | [Хто ми є?](https://open.spotify.com/album/3QRyIl9vgKllzIBTYBFcnN) | 2:30 |
-| 53 | [Давай танцювати](https://open.spotify.com/track/2CGejuIMxuFBMJGHVTp40G) | [Laliko](https://open.spotify.com/artist/6jqXdcbmUoFSsMza1k8BHe) | [Давай танцювати](https://open.spotify.com/album/1BoyJE3dmazRbEpqO3Z4Ev) | 3:13 |
-| 54 | [Най триває літо](https://open.spotify.com/track/6zZlQlhFmQxjY10g3wPDKX) | [Kate Soul](https://open.spotify.com/artist/5JJIJ5ruatWLkSFCpWJME0) | [Най триває літо](https://open.spotify.com/album/7j6mPv8YwwuOyWZUdhQdGi) | 3:32 |
-| 55 | [Я ПІЗДАТА](https://open.spotify.com/track/7HUu198Y0flnqSx7T448e1) | [ДРІТА](https://open.spotify.com/artist/4C1doWhhFm7OZXDuBguhn8) | [Я ПІЗДАТА](https://open.spotify.com/album/6NJsVZfB72YoXaAHIqVs2h) | 1:54 |
+| 30 | [Просто друзі](https://open.spotify.com/track/6gSX3xyuTw829cLez5trqQ) | [АЗІЗА](https://open.spotify.com/artist/6enXW3gpJ7z65qvyaCVP0k) | [Просто друзі](https://open.spotify.com/album/74NbGcG9BKrR3fLqpQVOHi) | 2:27 |
+| 31 | [А мені байдуже](https://open.spotify.com/track/5gTVyqeFA0ipdxidgchAee) | [STASYA](https://open.spotify.com/artist/2Sa39S5jaI9IcrCqHl89fc) | [А мені байдуже](https://open.spotify.com/album/33x4QuapioTska9LWbmoho) | 1:48 |
+| 32 | [Don't Let Me Fall](https://open.spotify.com/track/4sBhQwINUD8UJ24RIdq5P0) | [Lina Cooper](https://open.spotify.com/artist/0YxNJr7YsY95zd86zCjSYH) | [No Filter](https://open.spotify.com/album/3ywzeGn8GcuBg0dLsgX0yQ) | 3:39 |
+| 33 | [якщо ти підеш](https://open.spotify.com/track/18CGGtr2VTeVA1lNkySGL2) | [Настя Гонцул](https://open.spotify.com/artist/3HFo8jLzABeRjbns3XAUFt) | [якщо ти підеш](https://open.spotify.com/album/7pagUvut7AnzACNtzE8u0w) | 1:58 |
+| 34 | [Тренд](https://open.spotify.com/track/78ohuMIgD3fJ1bdhg7Q8CA) | [KAROOKA](https://open.spotify.com/artist/1k5JMm2NvXeUWQ6YWhuDbu) | [Тренд](https://open.spotify.com/album/5ksFgggEtO8n4XQxELxRzX) | 2:37 |
+| 35 | [Дарниця](https://open.spotify.com/track/6VRoMXBAR4VjLKkCi7rxEP) | [Liia](https://open.spotify.com/artist/4ZaYuzOFbJK15bG3qOzaiQ) | [Дарниця](https://open.spotify.com/album/3XlGP5fyZTHnBCrkPH78Cp) | 3:04 |
+| 36 | [18](https://open.spotify.com/track/5x6VqIJDnLWPw1cK4TAHZb) | [ESELISHA](https://open.spotify.com/artist/5bNRVyulb3jLRbGj5zfRHE) | [18](https://open.spotify.com/album/3VmQF84374S6TgqE5ZTJ8J) | 2:41 |
+| 37 | [Ти став для мене місцем сили](https://open.spotify.com/track/54Mxaz5QhYHSyngJP5sGh6) | [bulovinova](https://open.spotify.com/artist/3hGfs6Hess99rJjiCjpd3P) | [Холодна вода](https://open.spotify.com/album/0Gn8UuGDuIDA7ghYcQQQk0) | 2:57 |
+| 38 | [Квіточка](https://open.spotify.com/track/0cHoESoVJpNAEDuCEbaXcN) | [не настане](https://open.spotify.com/artist/1hEHZwBPgCcrcS0p0S0F4j) | [Квіточка](https://open.spotify.com/album/3hTuCtan89SqBWggI9Mq6T) | 2:40 |
+| 39 | [геть зі сцени](https://open.spotify.com/track/0r4JQqF05jIoHHcVmRxsgJ) | [KUGATESSA](https://open.spotify.com/artist/1BOpBS41QOt9MLdS7HK6bH) | [геть зі сцени](https://open.spotify.com/album/1YlNN6wqVEv6Zl57xvFACZ) | 2:51 |
+| 40 | [Обнуляй](https://open.spotify.com/track/1O64VHFoJoGZkLBaRjRiYa) | [EMUNA](https://open.spotify.com/artist/0qYZR1phmP5pcky0m9f3r7) | [Обнуляй](https://open.spotify.com/album/1KWBQWJge9oafHYZ7AyUqd) | 2:29 |
+| 41 | [ХАРКІВ](https://open.spotify.com/track/2T2iNVZjxDs9zCMqNwCFWg) | [TRINY T](https://open.spotify.com/artist/151WSLorWES5ccXH79H8H3) | [ХАРКІВ](https://open.spotify.com/album/1WNTAzJIV18c5NeWXXsmcA) | 2:08 |
+| 42 | [місяць](https://open.spotify.com/track/71LOlE1YSw6qlkGR1qGfeV) | [VALEROVSKA](https://open.spotify.com/artist/6tpCDHlAt8bIPD5baKNzjP) | [місяць](https://open.spotify.com/album/7dBMDOVntobiGyqmDk3zjs) | 2:56 |
+| 43 | [Двобій](https://open.spotify.com/track/0jnPkVHkhEpKurqu7t6r0P) | [NIKKITA](https://open.spotify.com/artist/6bg58Qmn99pP0ZG8JRR9OU) | [Двобій](https://open.spotify.com/album/3SZCpHsmiSzdnM1cUfMvFM) | 2:17 |
+| 44 | [Cтрілки показують вниз](https://open.spotify.com/track/4jQwRWJuzlPfvIl9JUmcPB) | [YARAY](https://open.spotify.com/artist/6ZMw34iH8c9vs79JviuFIo) | [Стрілки показують вниз](https://open.spotify.com/album/2stLmPxpqIuFLB3H4zQqq0) | 3:42 |
+| 45 | [В моїй голові](https://open.spotify.com/track/32zMJySJjYEYXqAB56xOLq) | [квінтесенсія](https://open.spotify.com/artist/6ef1ddSVaXPxWZVhsvRjxJ) | [В моїй голові](https://open.spotify.com/album/443EUUgjZGLHmFCXz1G1H2) | 2:26 |
+| 46 | [Відтінки кохання](https://open.spotify.com/track/4M5WE4XUgBPOsOknXgF22d) | [IPATOVA](https://open.spotify.com/artist/1YkGsKpY7ZwyW7siR4Cg2F) | [Відтінки кохання](https://open.spotify.com/album/1g709UXSr9lq44uA4xErws) | 3:25 |
+| 47 | [Маніпулятор](https://open.spotify.com/track/3PzjCgqGxWvhYqHblHkbpH) | [MUHOMORROVA](https://open.spotify.com/artist/6roqRQje8Yt8NBaN7gxPJs) | [Маніпулятор](https://open.spotify.com/album/7zSmlU2GFf2xw0JD51YigB) | 2:20 |
+| 48 | [Ріка любові](https://open.spotify.com/track/5snZOEgF6jjRIBag6XaylG) | [Mari Cheba](https://open.spotify.com/artist/2pHpT31qrGT1mQ96jPtqM2) | [Ріка любові](https://open.spotify.com/album/0fSYVOzWl3Kt7WxmQbWwUv) | 3:37 |
+| 49 | [Єдине, що вічне](https://open.spotify.com/track/5CQ97QRAtGfyg3YGffiScB) | [Slukhay Sashu](https://open.spotify.com/artist/7bovXIoMqWNOibj93PfU7J), [Van Su](https://open.spotify.com/artist/3QMkbapuVS2Y98sxtd4hMm) | [Єдине, що вічне](https://open.spotify.com/album/4vSsgvE2mWiLUbFNp8wgMV) | 3:51 |
+| 50 | [Солодка кров](https://open.spotify.com/track/4a1Sw7F8d3S2QBApwvoM0M) | [Liana Spelas](https://open.spotify.com/artist/5pxxLiXNESMpqQRGGBwVkT) | [Солодка кров](https://open.spotify.com/album/7Jcxr2ANesGtmgRIXbKyCO) | 3:02 |
+| 51 | [Хто ми є?](https://open.spotify.com/track/323b3bA5XABG27rOdURsKb) | [MANAMAHA](https://open.spotify.com/artist/14aYKAZ4zig2g6Pdll5Mf4) | [Хто ми є?](https://open.spotify.com/album/3QRyIl9vgKllzIBTYBFcnN) | 2:30 |
+| 52 | [Давай танцювати](https://open.spotify.com/track/2CGejuIMxuFBMJGHVTp40G) | [Laliko](https://open.spotify.com/artist/6jqXdcbmUoFSsMza1k8BHe) | [Давай танцювати](https://open.spotify.com/album/1BoyJE3dmazRbEpqO3Z4Ev) | 3:13 |
+| 53 | [Най триває літо](https://open.spotify.com/track/6zZlQlhFmQxjY10g3wPDKX) | [Kate Soul](https://open.spotify.com/artist/5JJIJ5ruatWLkSFCpWJME0) | [Най триває літо](https://open.spotify.com/album/7j6mPv8YwwuOyWZUdhQdGi) | 3:32 |
+| 54 | [Я ПІЗДАТА](https://open.spotify.com/track/7HUu198Y0flnqSx7T448e1) | [ДРІТА](https://open.spotify.com/artist/4C1doWhhFm7OZXDuBguhn8) | [Я ПІЗДАТА](https://open.spotify.com/album/6NJsVZfB72YoXaAHIqVs2h) | 1:54 |
 
-Snapshot ID: `Ztd40AAAAAAwBpMsPrgtVg+yohZdnxkD`
+Snapshot ID: `ZuROBAAAAABt9I1zLKujag6s1IALo0RL`

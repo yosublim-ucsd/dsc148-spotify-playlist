@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. Kannessa Sara Siipola.
 
-225 songs - 11 hr 7 min
+228 songs - 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Cowboys Cry Too \(with Noah Kahan\)](https://open.spotify.com/track/1t2MQpMDtJT5VL2tAPHrGN) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Cowboys Cry Too \(with Noah Kahan\)](https://open.spotify.com/album/4csGSJBfWDrWklYInvXzhU) | 3:50 | 2024-07-02 | 2024-07-24 |
 | [Cry Baby](https://open.spotify.com/track/7oDSG2Q9RBU0QjgtfYQOdD) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Cry Baby](https://open.spotify.com/album/2wPD7JNjWWmAysbcHzD70b) | 2:37 | 2024-08-09 |  |
 | [Dance With Me](https://open.spotify.com/track/2I5ipWaIXUknimwtJPoPYt) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dance With Me](https://open.spotify.com/album/1wkUCIDGpYN0PEIcyG4dS6) | 3:45 | 2024-07-02 | 2024-08-02 |
+| [Dancing In The Flames](https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dancing In The Flames](https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g) | 3:40 | 2024-09-12 |  |
 | [Darkerside](https://open.spotify.com/track/3b1s3Ywg0laGsNHCpUBhrl) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [The Dichotomy](https://open.spotify.com/album/4F2fCQJXXGfpKsoudFrjDW) | 2:37 | 2024-08-29 |  |
 | [Dead Man](https://open.spotify.com/track/175ApsLKPzdEeEiibmtqFQ) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Dead Man](https://open.spotify.com/album/2bXR6WDlDnm31wMvAd0MhB) | 3:23 | 2024-07-18 | 2024-08-16 |
 | [DEVIL IS A LIE](https://open.spotify.com/track/6jlG8gBPNAgBgoivw2Ig09) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [DEVIL IS A LIE](https://open.spotify.com/album/4WvcBQIZXspq4MYyEPNem2) | 2:10 | 2024-07-02 | 2024-07-12 |
@@ -62,6 +63,7 @@
 | [For Cryin' Out Loud!](https://open.spotify.com/track/5fz1rfGFT3npQUmNnu998w) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [For Cryin' Out Loud!](https://open.spotify.com/album/2nI6nzE1jBURI1jKNh22OL) | 3:37 | 2024-08-09 | 2024-09-13 |
 | [For Your Patience](https://open.spotify.com/track/6MA6rs3BGTxcu1Vx37qeV4) | [Jesse Markin](https://open.spotify.com/artist/3mxJuHRn2ZWD5OofvJtDZY) | [For Your Patience](https://open.spotify.com/album/59wjuGpIai5t2LJuWdQoZ0) | 3:25 | 2024-08-15 |  |
 | [Free \(with Ellie Goulding\)](https://open.spotify.com/track/3NxB1jubUWY6zit9rOk8ZC) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Free \(with Ellie Goulding\)](https://open.spotify.com/album/6guctDCaYE7AhYqtX6RxNE) | 3:32 | 2024-07-26 |  |
+| [Fuel \- Shady Edition](https://open.spotify.com/track/68IkI6ttYOzNyS5iW2Zx70) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6), [GRIP](https://open.spotify.com/artist/4Ew8VmfE06siL2THiMBwPP) | [The Death of Slim Shady \(Coup De Grâce\): Expanded Mourner’s Edition](https://open.spotify.com/album/31hcgCSu4mlA82syOFItur) | 4:50 | 2024-09-12 |  |
 | [Genesis, pt\. ii](https://open.spotify.com/track/4VUc2yMO1AttRC7jahya9y) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Genesis.](https://open.spotify.com/album/1hgQGj9c3rod2bjjMnfWj3) | 3:28 | 2024-07-02 | 2024-07-27 |
 | [GIRLS](https://open.spotify.com/track/7z3PblAN3dH1JMewiRydkZ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [GIRLS](https://open.spotify.com/album/17R63Sb8OrPikc2R4mlpdC) | 2:32 | 2024-07-02 | 2024-08-30 |
 | [GODSPEED](https://open.spotify.com/track/1HA5rqn1k4YQnJ9XxsnApd) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [C,XOXO \- Magic City Edition](https://open.spotify.com/album/6mym3v2HWcsH1oBN6A7SPm) | 3:36 | 2024-09-05 |  |
@@ -132,6 +134,7 @@
 | [Mi Amore \(feat\. Ege Zulu\)](https://open.spotify.com/track/4ZX9P2D0gkCumSKJEWqp6e) | [Karim B](https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi), [Ege Zulu](https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O) | [Mi Amore \(feat\. Ege Zulu\)](https://open.spotify.com/album/4JSbaUoAZke1tOOqTMjosP) | 3:03 | 2024-07-02 |  |
 | [Miksi pyöräni varastit](https://open.spotify.com/track/7sBEl9SwkETmY8KmvwypEB) | [James\-J](https://open.spotify.com/artist/26bXkdCOQ0zRgxWgGOkkg1) | [Miksi pyöräni varastit](https://open.spotify.com/album/7aiwichlG4KAtGDMcamNdW) | 2:56 | 2024-07-02 | 2024-08-02 |
 | [milloin tää kipu hellittää](https://open.spotify.com/track/5bzUimPTR9eAzNGnbO7bFK) | [whereismike](https://open.spotify.com/artist/6EbpHfQA5YHcyDKT0Ghaim) | [milloin tää kipu hellittää](https://open.spotify.com/album/0Wj4EpdfPnoUKsxYfE1460) | 2:30 | 2024-07-02 | 2024-07-12 |
+| [Miten ihmiset löytää toisiaan \(feat\. Överi\)](https://open.spotify.com/track/0NdnLmxqqQZ8hNntW42L9y) | [ELLIMEI](https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra), [Överi](https://open.spotify.com/artist/55ueMDhpCYDmeffxXff2Aw) | [Miten ihmiset löytää toisiaan \(feat\. Överi\)](https://open.spotify.com/album/4IJcslK1fUBCIDrIBFxUsn) | 3:19 | 2024-09-13 |  |
 | [Mitä mä teen?](https://open.spotify.com/track/151zAJhoBwQZ4XC24PY8T9) | [Varkemaa](https://open.spotify.com/artist/1iw4xexBY8lvmWULarOSK7) | [Mitä mä teen? \(sped up\)](https://open.spotify.com/album/0adfYliCmAcrTsb0xVryVy) | 3:39 | 2024-07-16 | 2024-09-13 |
 | [Moi](https://open.spotify.com/track/5AXNh6mEr2z8UFlqm8ftRH) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Moi](https://open.spotify.com/album/78gWVhHs5g8ba0m11hDYGw) | 2:54 | 2024-09-12 |  |
 | [Momentti \(feat\. Costi\)](https://open.spotify.com/track/2x4DoxpcqEUsfmEIKMd5hP) | [T Swoop](https://open.spotify.com/artist/3XB4IVNkzpc80d9qmthhl3), [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Momentti \(feat\. Costi\)](https://open.spotify.com/album/38LoMU82Rqtj2TjjtGEnNW) | 3:13 | 2024-08-15 |  |

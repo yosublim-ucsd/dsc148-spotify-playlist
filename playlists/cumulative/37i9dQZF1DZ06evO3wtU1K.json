@@ -183,22 +183,18 @@
     },
     {
       "album": {
-        "name": "The Cry: A Live Worship Experience",
+        "name": "The Cry - Live",
         "url": "https://open.spotify.com/album/7rAZtjifsgEThw7tX7R14b"
       },
       "artists": [
         {
           "name": "William McDowell",
           "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
-        },
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 488413,
       "name": "Even Now - Live From Chattanooga, TN",
       "url": "https://open.spotify.com/track/57gQF5VCsMoR9PjdUd59WS"
@@ -734,7 +730,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 333247,
       "name": "I Will Follow",
       "url": "https://open.spotify.com/track/38mSgdGYO8FIcunxWbkTqh"

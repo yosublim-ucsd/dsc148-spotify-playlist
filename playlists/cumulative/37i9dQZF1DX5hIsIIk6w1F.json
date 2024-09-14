@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Este Flow tiene otro Flow. Foto: King Savagge.",
+  "description": "Este Flow tiene otro Flow. Foto: Cris Mj & FloyyMenor.",
   "name": "Reggaet\u00f3n Chileno",
   "tracks": [
     {
@@ -4207,6 +4207,70 @@
     },
     {
       "album": {
+        "name": "MJ",
+        "url": "https://open.spotify.com/album/2lIzIH2mQQ0ItgkJKefQMp"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        },
+        {
+          "name": "LOUKI",
+          "url": "https://open.spotify.com/artist/6uzHLlGqFKaXYOnZyYmXYg"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Despu\u00e9s De La 1",
+      "url": "https://open.spotify.com/track/6PhRhocBXP4y7NpciGmzra"
+    },
+    {
+      "album": {
+        "name": "Los 4F: El Origen",
+        "url": "https://open.spotify.com/album/3sODZXVEX8CNdsxypAfBPO"
+      },
+      "artists": [
+        {
+          "name": "LOS 4F",
+          "url": "https://open.spotify.com/artist/7vdDWCqSTK2O100wDjYvh5"
+        },
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        },
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        },
+        {
+          "name": "Easykid",
+          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
+        },
+        {
+          "name": "Swift 047",
+          "url": "https://open.spotify.com/artist/2dsPXjJl58yqBAtUQmnFOb"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163173,
+      "name": "DEVOLVER EL TIEMPO",
+      "url": "https://open.spotify.com/track/1GwVXv2KpK9FF06GCzcMCA"
+    },
+    {
+      "album": {
         "name": "Diabla",
         "url": "https://open.spotify.com/album/7zQny480glNF22HtDiyuMx"
       },
@@ -5508,6 +5572,32 @@
       "duration_ms": 165500,
       "name": "Esper\u00e1ndote",
       "url": "https://open.spotify.com/track/4jPODA8fUJCYAMCD380ETZ"
+    },
+    {
+      "album": {
+        "name": "Estilo Milloneta",
+        "url": "https://open.spotify.com/album/7KGKxnGwGqEV031G35gptN"
+      },
+      "artists": [
+        {
+          "name": "Sayian Jimmy",
+          "url": "https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj"
+        },
+        {
+          "name": "Lautaro9036",
+          "url": "https://open.spotify.com/artist/3bpGoY8eomtLcFDEE6kpqy"
+        },
+        {
+          "name": "Nysix Music",
+          "url": "https://open.spotify.com/artist/5v0eLOwGUJuH1lvPSzw0xD"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156312,
+      "name": "Estilo Milloneta",
+      "url": "https://open.spotify.com/track/70mfN1HFFqi48BX2sLwnQp"
     },
     {
       "album": {
@@ -6886,7 +6976,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 153137,
       "name": "Hello Baby",
       "url": "https://open.spotify.com/track/4GSv8OmWyUK4fHPCicLLLj"
@@ -7986,7 +8076,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 263183,
       "name": "La Receta",
       "url": "https://open.spotify.com/track/5wslflNJXn11yXV5qtAmUh"
@@ -12101,7 +12191,7 @@
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 157175,
+      "duration_ms": 156030,
       "name": "Oh Na Na Na",
       "url": "https://open.spotify.com/track/6iTTL95T3uDPbpEsB0cZNq"
     },
@@ -12576,7 +12666,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 186893,
       "name": "PAL LIO (with Kidd Voodoo & Distobal)",
       "url": "https://open.spotify.com/track/6z8suCGMfwkO1n7DiySPac"
@@ -12967,6 +13057,28 @@
     },
     {
       "album": {
+        "name": "Pasarla Bien",
+        "url": "https://open.spotify.com/album/5l20i1oR3EmyhRe6COI9LX"
+      },
+      "artists": [
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        },
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193263,
+      "name": "Pasarla Bien",
+      "url": "https://open.spotify.com/track/5KuLv5XWO2rMESQzd9QfAD"
+    },
+    {
+      "album": {
         "name": "PASE LO Q PASE",
         "url": "https://open.spotify.com/album/6LqAJv83WLmA7syB3Wu4BS"
       },
@@ -13184,7 +13296,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 178142,
       "name": "Perdido",
       "url": "https://open.spotify.com/track/0nMQi4r84bkq8hFnFJNaaL"
@@ -16308,7 +16420,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 185000,
       "name": "Solt\u00e1ndote",
       "url": "https://open.spotify.com/track/1Wez9szTYiHFQVtjNTID4h"

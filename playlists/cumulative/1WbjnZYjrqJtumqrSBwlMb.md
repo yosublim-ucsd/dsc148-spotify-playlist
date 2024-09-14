@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-994 songs - 2 day 12 hr 59 min
+998 songs - 2 day 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,6 +285,7 @@
 | [Figure 8](https://open.spotify.com/track/5HTap7v6OqB7jPT5J2Z4um) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [You and Your Friends](https://open.spotify.com/album/3Vk0be2qEuqARxrC6U5ZV3) | 3:28 | 2022-03-02 |  |
 | [Figure You Out](https://open.spotify.com/track/0KcRoQrbYUhsjUUFGaYIbl) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/5rJBH4rmxpqXaDf8E1Mgse) | 3:04 | 2022-09-18 |  |
 | [Final Church](https://open.spotify.com/track/78sUOio7Q63zyraK2auLla) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Atavista](https://open.spotify.com/album/692R05mxz7V6eOFoj5PMlQ) | 3:46 | 2024-05-13 |  |
+| [Finally](https://open.spotify.com/track/5wV1jwBjTkxxAa2gpfyQYR) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Alexander Technique](https://open.spotify.com/album/5HSZsS7TGsyMvur547zjVe) | 3:03 | 2024-09-13 |  |
 | [Fire](https://open.spotify.com/track/7oHkit3F3vimtsBbnZkU0G) | [KIDS SEE GHOSTS](https://open.spotify.com/artist/2hPgGN4uhvXAxiXQBIXOmE) | [KIDS SEE GHOSTS](https://open.spotify.com/album/6pwuKxMUkNg673KETsXPUV) | 2:20 | 2021-10-22 |  |
 | [Fireside](https://open.spotify.com/track/4atMrAadB7dS8xn9vfk9PQ) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:01 | 2023-06-25 |  |
 | [First Person Shooter \(feat\. J\. Cole\)](https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:07 | 2023-11-23 |  |
@@ -507,6 +508,7 @@
 | [Look Out!](https://open.spotify.com/track/4N1zjRwfeYAfKVIjjYbDRX) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Look Out!](https://open.spotify.com/album/0TnjBNwKKH0uihxRTgrktF) | 2:56 | 2021-11-12 |  |
 | [LOOOVE \(feat\. Kid Cudi\)](https://open.spotify.com/track/0a4SMs889NwP8oWI7Vemle) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:46 | 2023-07-28 |  |
 | [loop it and leave it](https://open.spotify.com/track/7tt1X4Tam0dfIgoyympk00) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [I LAY DOWN MY LIFE FOR YOU](https://open.spotify.com/album/1ezs1QD5SYQ6LtxpC9y5I2) | 2:00 | 2024-08-03 |  |
+| [Lost For Words](https://open.spotify.com/track/1bAjrBfU21dxXiwxCXNF5C) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Alexander Technique](https://open.spotify.com/album/5HSZsS7TGsyMvur547zjVe) | 3:22 | 2024-09-13 |  |
 | [Lost In The World](https://open.spotify.com/track/2Im64pIz6m0EJKdUe6eZ8r) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 4:16 | 2021-08-31 |  |
 | [Lost In Yesterday](https://open.spotify.com/track/5JWPUEov2wlX7c0jhYZpeB) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 4:09 | 2020-02-13 |  |
 | [Love is a Laserquest](https://open.spotify.com/track/0S6CXA5LpRDX6b4akgrOot) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Suck It and See](https://open.spotify.com/album/2ym2jcqckXqWeTDoxz3Kst) | 3:11 | 2020-09-07 |  |
@@ -604,7 +606,7 @@
 | [On and On](https://open.spotify.com/track/1fu5qkCu7pml0LGbSxgRQ6) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/5rJBH4rmxpqXaDf8E1Mgse) | 4:03 | 2022-09-17 |  |
 | [On Time \(with John Legend\)](https://open.spotify.com/track/0YFqKxV9uNu6LUeYkLOKRS) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 2:48 | 2023-02-13 |  |
 | [On Track](https://open.spotify.com/track/0IuE6FnXPCdZ8NLuuvJRhb) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 5:01 | 2020-02-13 |  |
-| [One Beer](https://open.spotify.com/track/4BnrGx9tWNF8aiXl1UhDBa) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [MM...FOOD](https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N) | 4:18 | 2024-06-17 |  |
+| [One Beer](https://open.spotify.com/track/4BnrGx9tWNF8aiXl1UhDBa) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [MM..FOOD](https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N) | 4:18 | 2024-06-17 |  |
 | [One For The Road](https://open.spotify.com/track/6wNUBZNWFxdUGof6vkaykE) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:26 | 2022-07-14 |  |
 | [ONE IN A MILLION](https://open.spotify.com/track/2XkDm5m2vPowecEAAR5gmb) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:14 | 2022-03-11 |  |
 | [One Man Band](https://open.spotify.com/track/2D4CxBVX7N2ob0IHZKMm0e) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [One Man Band](https://open.spotify.com/album/4sAnhPJ2iRrbxesJeIuLAW) | 3:38 | 2023-07-31 |  |
@@ -658,6 +660,7 @@
 | [Pt\. 2](https://open.spotify.com/track/1Wsbr1d2BouNGk2q92mIj7) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 2:10 | 2022-03-26 |  |
 | [PUPPET](https://open.spotify.com/track/0wEC0GNF74lAqrEFZJMl1m) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 2:59 | 2022-07-20 |  |
 | [Puppy Grin](https://open.spotify.com/track/5ck1miitoRTdHXS9dvQ6qh) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [You and Your Friends](https://open.spotify.com/album/3Vk0be2qEuqARxrC6U5ZV3) | 2:51 | 2022-01-05 |  |
+| [Pure](https://open.spotify.com/track/1vtFlSfBhHcrj3TSYjpK8J) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Alexander Technique](https://open.spotify.com/album/5HSZsS7TGsyMvur547zjVe) | 4:05 | 2024-09-13 |  |
 | [Pure Souls](https://open.spotify.com/track/5aqUqSq0SqGBAqEn27PEzc) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 5:58 | 2021-10-01 |  |
 | [Purple Hearts](https://open.spotify.com/track/401160izncPtca3CmX3dvM) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 5:29 | 2022-05-15 |  |
 | [Pêcheuse de Lune](https://open.spotify.com/track/3KPBhpMXdynTzcSev5Q5Wd) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Unfold](https://open.spotify.com/album/5agoEPMTMTZTSKibS1jfpL) | 3:35 | 2023-01-08 |  |
@@ -756,6 +759,7 @@
 | [Sisyphus](https://open.spotify.com/track/3Fck3nrjmTedqrT9GTTehP) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [From Me To You](https://open.spotify.com/album/6USIVqn1qiNAsRYtWo2CSa) | 4:32 | 2021-04-14 |  |
 | [SKELETONS](https://open.spotify.com/track/6NMtzpDQBTOfJwMzgMX0zl) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 2:25 | 2022-08-06 |  |
 | [Skin and Bones](https://open.spotify.com/track/4CZgQq8KJYWGh1bM3sqGmd) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [You Can’t Kill Me](https://open.spotify.com/album/6KQa2rAuOS2rX18xyA9eru) | 3:34 | 2022-06-05 |  |
+| [Sliding Doors](https://open.spotify.com/track/4s0wkyeXeMTUERLQ9UX8kZ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Alexander Technique](https://open.spotify.com/album/5HSZsS7TGsyMvur547zjVe) | 3:20 | 2024-09-13 |  |
 | [Slither](https://open.spotify.com/track/4G5CriyBG4VBHz2UHxGi2J) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/5rJBH4rmxpqXaDf8E1Mgse) | 1:50 | 2022-09-18 |  |
 | [Smiling at the Ground](https://open.spotify.com/track/3OuAE6PfmdmwrOtleACuGB) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [From Me To You](https://open.spotify.com/album/6USIVqn1qiNAsRYtWo2CSa) | 3:46 | 2021-03-31 |  |
 | [Smiling Faces Sometimes](https://open.spotify.com/track/5Vdg4tP25ffeGEC5GGmCwm) | [The Undisputed Truth](https://open.spotify.com/artist/2tkwWmcZOQPNbbIdknfBsw) | [The Undisputed Truth](https://open.spotify.com/album/0HHW9b70iZmfWNcFfjOFEz) | 3:18 | 2024-08-11 |  |

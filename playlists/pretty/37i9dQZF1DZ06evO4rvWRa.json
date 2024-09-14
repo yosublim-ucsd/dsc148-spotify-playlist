@@ -1,12 +1,12 @@
 {
   "description": "This Is Alan Walker. Los temas esenciales, todos en una lista.",
-  "num_followers": 1639914,
+  "num_followers": 1639955,
   "original_name": "This Is Alan Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuDdgAAAAADeeY9vUdKmAAhVZZPVEaD7",
+  "snapshot_id": "ZuIvAAAAAACfH4sA/g6+2u9nfHAyNzyX",
   "tracks": [
     {
       "added_at": null,
@@ -339,26 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Neon Nights",
-        "url": "https://open.spotify.com/album/2PMUDyTcZRL0kMKibFgHKT"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 167855,
-      "name": "Beautiful Nightmare",
-      "url": "https://open.spotify.com/track/5bUGTPa2WYYS9P49MzAljd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ignite",
         "url": "https://open.spotify.com/album/6Rg9tJW4DSAUyNp59VXzu1"
       },
@@ -383,6 +363,26 @@
       "duration_ms": 210288,
       "name": "Ignite",
       "url": "https://open.spotify.com/track/1jLsirPDkUS2g4gnkYua58"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Neon Nights",
+        "url": "https://open.spotify.com/album/2PMUDyTcZRL0kMKibFgHKT"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 167855,
+      "name": "Beautiful Nightmare",
+      "url": "https://open.spotify.com/track/5bUGTPa2WYYS9P49MzAljd"
     },
     {
       "added_at": null,
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/7lFLWyaqcHEeFANruOXadS"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 173714,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/4oQVLOACv9GfeB9KcDRIo8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Neon Nights",
         "url": "https://open.spotify.com/album/2PMUDyTcZRL0kMKibFgHKT"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 202719,
       "name": "Lifeline",
       "url": "https://open.spotify.com/track/572PPqti4bqGpqEnsWFlIu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wake Up",
-        "url": "https://open.spotify.com/album/7lFLWyaqcHEeFANruOXadS"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 173714,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/4oQVLOACv9GfeB9KcDRIo8"
     },
     {
       "added_at": null,
@@ -1011,26 +1011,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Walkerworld",
-        "url": "https://open.spotify.com/album/2pElzwHGoJr3zPA05onhr0"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Ali Gatie",
-          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
-        }
-      ],
-      "duration_ms": 161097,
-      "name": "Yesterday",
-      "url": "https://open.spotify.com/track/0CSLSbNaWiSnaXQ5h5lmWm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heading Home",
         "url": "https://open.spotify.com/album/3vZaa7OReXh9JIwfq1nWcD"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 184889,
       "name": "Heading Home",
       "url": "https://open.spotify.com/track/22O2Zdfj3jnJZDSzlDMAJp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Walkerworld",
+        "url": "https://open.spotify.com/album/2pElzwHGoJr3zPA05onhr0"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Ali Gatie",
+          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
+        }
+      ],
+      "duration_ms": 161097,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/0CSLSbNaWiSnaXQ5h5lmWm"
     },
     {
       "added_at": null,

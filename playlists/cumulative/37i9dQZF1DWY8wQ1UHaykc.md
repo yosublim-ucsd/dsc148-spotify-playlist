@@ -4,7 +4,7 @@
 
 > Lagu\-lagu terpopuler dari dekade 2010an\. Cover: Vierra
 
-173 songs - 11 hr 52 min
+176 songs - 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Karna Su Sayang](https://open.spotify.com/track/5oYNviK3oOdpfhiO2dnHDP) | [Near](https://open.spotify.com/artist/6ojLiXkE6pfuxeb9cfY7fU), [Dian Sorowea](https://open.spotify.com/artist/4lQeXyLf0cvVcxCkM7weZM) | [Karna Su Sayang](https://open.spotify.com/album/2j3epr5g91MhJJp7qFdI47) | 3:20 | 2024-04-19 |  |
 | [Karna Su Sayang](https://open.spotify.com/track/2IAzEJoGwn8IGMUQdVUugM) | [Near](https://open.spotify.com/artist/6ojLiXkE6pfuxeb9cfY7fU), [Dian Sorowea](https://open.spotify.com/artist/4lQeXyLf0cvVcxCkM7weZM) | [Karna Su Sayang](https://open.spotify.com/album/21BdMjk11B9dfhgSErIJFs) | 3:21 | 2024-01-05 | 2024-04-19 |
 | [Kasmaran](https://open.spotify.com/track/6rB2whUL8s2Kt3wIxsnCGf) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Kasmaran](https://open.spotify.com/album/2HR6Fg4E3PlzC2ZQ8dKIJu) | 4:02 | 2024-01-05 |  |
+| [Kasmaran](https://open.spotify.com/track/1IAPlLCouZavqy8BmMrWVu) | [Phantom](https://open.spotify.com/artist/3v7kpjJti8cJohFZ4gi2HQ) | [Bintang Terang](https://open.spotify.com/album/3qPLq7wmhwLkqMOvNlqXrq) | 3:55 | 2024-09-13 |  |
 | [Kau 3Kan Cinta](https://open.spotify.com/track/0jE7cEdQ7Qv2KDFT8Ekl0Y) | [Elkasih](https://open.spotify.com/artist/3VHrNovOUrILgQxTyVsZGs) | [Pesan Dari Surga](https://open.spotify.com/album/015WH0ZHTqrlJohsZv6KB3) | 3:34 | 2024-04-19 |  |
 | [Kau Adalah \(feat\. Rayi Putra\)](https://open.spotify.com/track/2WoRw2nWZoj5ty0rOQP4FQ) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu), [Rayi Putra](https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR) | [EXPLORE!](https://open.spotify.com/album/6TXaOwBLoyJrD6vem7L8Ba) | 4:02 | 2024-01-05 |  |
 | [Kau Tigakan Cinta](https://open.spotify.com/track/7F3RSsk4kgdWDF0h8xvalZ) | [Elkasih](https://open.spotify.com/artist/3VHrNovOUrILgQxTyVsZGs) | [Kau Tigakan Cinta](https://open.spotify.com/album/5c1SVP01BdGT3chGeQhlHE) | 3:36 | 2024-01-05 | 2024-04-19 |
@@ -124,6 +125,7 @@
 | [Rindu](https://open.spotify.com/track/5gfV3clsxxJpYkpPEGgXg4) | [Agnes Monica](https://open.spotify.com/artist/5auFhdM0ZgtH6cXwncgZ4m) | [Rindu](https://open.spotify.com/album/6BNnA4UVpYCV2afvTuI61H) | 4:20 | 2024-04-04 |  |
 | [Saat Bahagia](https://open.spotify.com/track/11HoyxwXVwWq6lj2Rv37CH) | [Ungu](https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5), [Andien](https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo) | [1000 Kisah Satu Hati](https://open.spotify.com/album/7b0PfthjmXQJ0rRX3mYQrA) | 4:09 | 2024-01-05 |  |
 | [Sakit Jiwa](https://open.spotify.com/track/4WQjm8mZBt6kREAt6GkdK2) | [NTRL](https://open.spotify.com/artist/710Oh5ushpaeLgSIcbW8hI) | [11/12](https://open.spotify.com/album/7KScqTiLDVO1l4xwHV53Yy) | 2:10 | 2024-01-05 |  |
+| [Salahkah Aku Terlalu Mencintaimu](https://open.spotify.com/track/6Ls0ZznOYYd7eQ52Cgqmkv) | [Fatin](https://open.spotify.com/artist/4HeEXMr62GWTKpnqEiFOkC) | [Salahkah Aku Terlalu Mencintaimu](https://open.spotify.com/album/2x9G0zhfxZHPdbjsgdJJYu) | 3:52 | 2024-09-13 |  |
 | [Sampai Akhir \(feat\. DuMa\)](https://open.spotify.com/track/1apPmtDyQfYTtsMdfziIdN) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd), [Duma](https://open.spotify.com/artist/2cr8btrYdgBNUPhdskgSPO) | [Judika Mencari Cinta](https://open.spotify.com/album/5ePas69moZqjAW6RZU3jhX) | 3:25 | 2024-05-27 |  |
 | [Sampai Mati](https://open.spotify.com/track/5hOuU9pRHH8cDGRUgAwQMJ) | [Putih](https://open.spotify.com/artist/3Yn6aM7XCgMbWGmOrI7zTO) | [Apa Kabar Cinta](https://open.spotify.com/album/5wSRegL5ELwoQDYSamgQ5U) | 4:31 | 2024-04-19 |  |
 | [Sampai Mati](https://open.spotify.com/track/0VMb5OupyZA27f2u6Sck01) | [Putih](https://open.spotify.com/artist/3Yn6aM7XCgMbWGmOrI7zTO) | [Apa Kabar Cinta](https://open.spotify.com/album/0uAfzhtdFkD5AfShuX8610) | 4:31 | 2024-01-05 | 2024-04-19 |
@@ -164,6 +166,7 @@
 | [Teka Teki](https://open.spotify.com/track/5FEcywzPnpul59cCsBmZ6p) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Heart To Heart](https://open.spotify.com/album/3ooYP9owXIGTAzOFLisMwB) | 3:30 | 2024-01-05 |  |
 | [Teman Bahagia](https://open.spotify.com/track/0KeK6xqEcTT1VWhHf5iw2d) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Teman Bahagia](https://open.spotify.com/album/4BqJFRg9Id95pDcb8ml84b) | 3:28 | 2024-01-05 |  |
 | [Teman Hidup](https://open.spotify.com/track/1U1qumuS2O5Qttw8G7UXOZ) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Tulus](https://open.spotify.com/album/2dnIPDYfh7enZ6JqI9COsk) | 3:42 | 2024-01-05 |  |
+| [Tendangan Dari Langit](https://open.spotify.com/track/6xqat0eZI1KqDKMPBzuF8J) | [Kotak](https://open.spotify.com/artist/6oMp2cGzP3Bw86ssV7hjyu) | [Terbaik](https://open.spotify.com/album/2oBqiHQsjYLODaaQJzMEzd) | 4:04 | 2024-09-13 |  |
 | [Tentang Rasa](https://open.spotify.com/track/73PIm6P5ruqBmcEVtzcop2) | [Astrid](https://open.spotify.com/artist/6GxmlugWFw4hmhUQ5uP93l) | [Lihat Aku Sekarang](https://open.spotify.com/album/01zDZbVSnCZ1TS0IASD38S) | 4:11 | 2024-01-05 |  |
 | [Tentang Rindu](https://open.spotify.com/track/0Xu6oMOzyXykITJNfC2dsq) | [Virzha](https://open.spotify.com/artist/5iHfwaDNZ11Y0yAyQVYDmy) | [Kedua](https://open.spotify.com/album/4pvGf4ImdWsNYSLIci5SP7) | 4:01 | 2024-01-05 | 2024-04-19 |
 | [Tentang Rindu](https://open.spotify.com/track/5bG0Nj8pt4fM8LTG9PiWmu) | [Virzha](https://open.spotify.com/artist/5iHfwaDNZ11Y0yAyQVYDmy) | [Kedua](https://open.spotify.com/album/6n4rcbxKg2BTGU8gjDQKEP) | 4:01 | 2024-04-19 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is My Chemical Romance. The essential tracks, all in one playlist.",
-  "num_followers": 570174,
+  "num_followers": 570316,
   "original_name": "This Is My Chemical Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuDdgAAAAAB9GLlzeeoby028EmIUGoQM",
+  "snapshot_id": "ZuIvAAAAAACoO6vPvHnCw1XImcfUsoRa",
   "tracks": [
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
         }
       ],
-      "duration_ms": 221093,
-      "name": "Thank You for the Venom",
-      "url": "https://open.spotify.com/track/0BpKPyXhWsTaWkgXeOd1Sn"
+      "duration_ms": 173733,
+      "name": "You Know What They Do to Guys Like Us in Prison",
+      "url": "https://open.spotify.com/track/5bTuwAgYUD5MABOIPH8ZMt"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
         }
       ],
-      "duration_ms": 173733,
-      "name": "You Know What They Do to Guys Like Us in Prison",
-      "url": "https://open.spotify.com/track/5bTuwAgYUD5MABOIPH8ZMt"
+      "duration_ms": 221093,
+      "name": "Thank You for the Venom",
+      "url": "https://open.spotify.com/track/0BpKPyXhWsTaWkgXeOd1Sn"
     },
     {
       "added_at": null,

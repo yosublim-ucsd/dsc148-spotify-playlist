@@ -6,8 +6,24 @@
     "name": "An-Ten-Nae",
     "url": "https://open.spotify.com/user/124011761"
   },
-  "snapshot_id": "AAAJQ9bDmn9H/7zC8paaIAzGnkxSwc0j",
+  "snapshot_id": "AAAJRVEEqJGgixR5p95grM//77V0aCPA",
   "tracks": [
+    {
+      "added_at": "2024-09-13 06:09:47",
+      "album": {
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/4KNGKFepe5Qt5BN5pBpcH7"
+      },
+      "artists": [
+        {
+          "name": "An-Ten-Nae",
+          "url": "https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV"
+        }
+      ],
+      "duration_ms": 174857,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/7KbYeUb4lRBh9Y7V0rjnCJ"
+    },
     {
       "added_at": "2024-08-24 15:59:17",
       "album": {

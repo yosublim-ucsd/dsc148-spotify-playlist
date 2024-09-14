@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Il meglio dell\u2019indie italiano! Cover: dile",
+  "description": "Il meglio dell\u2019indie italiano! Cover: TROPICO",
   "name": "Indie Italia",
   "tracks": [
     {
@@ -313,6 +313,24 @@
     },
     {
       "album": {
+        "name": "Cuori infranti",
+        "url": "https://open.spotify.com/album/03CBDXT35cavl0TY2evqBl"
+      },
+      "artists": [
+        {
+          "name": "Giorgieness",
+          "url": "https://open.spotify.com/artist/4QYFjNac8XiU828KjV1oWA"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167680,
+      "name": "Cuori infranti",
+      "url": "https://open.spotify.com/track/0D0ZSyiqzZcuvbXqMi76fg"
+    },
+    {
+      "album": {
         "name": "Cupido",
         "url": "https://open.spotify.com/album/4Tr7myKPPvoxijKwuDjLdi"
       },
@@ -444,7 +462,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 167451,
       "name": "Fratello",
       "url": "https://open.spotify.com/track/7HGdifYN6emWwGIC5QtHSr"
@@ -466,6 +484,28 @@
       "duration_ms": 180998,
       "name": "FUORI ROTTA",
       "url": "https://open.spotify.com/track/2GuOuGiBR1hCaf0FBl93Uw"
+    },
+    {
+      "album": {
+        "name": "Gangsta Story",
+        "url": "https://open.spotify.com/album/0mmVqF87bpTP5PtZcwT7EX"
+      },
+      "artists": [
+        {
+          "name": "TROPICO",
+          "url": "https://open.spotify.com/artist/11wRTRhOoRE8kcDgtAmuJW"
+        },
+        {
+          "name": "Dat Boi Dee",
+          "url": "https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193350,
+      "name": "Gangsta Story",
+      "url": "https://open.spotify.com/track/6LaTDXwti80gtqeHqfTsx7"
     },
     {
       "album": {
@@ -636,7 +676,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 156407,
       "name": "Le Cose",
       "url": "https://open.spotify.com/track/6pYSUBIoiKGKGKNYVtPLLj"
@@ -1139,6 +1179,24 @@
     },
     {
       "album": {
+        "name": "Romantico Ma Muori",
+        "url": "https://open.spotify.com/album/0js12ciEGYY4tTcCLKgwwY"
+      },
+      "artists": [
+        {
+          "name": "Pinguini Tattici Nucleari",
+          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166330,
+      "name": "Romantico Ma Muori",
+      "url": "https://open.spotify.com/track/5lTTuESHokJHpSsEvvSR64"
+    },
+    {
+      "album": {
         "name": "RUGGINE \u26ae (con chiello & Coez)",
         "url": "https://open.spotify.com/album/5qmAywH16FCK4UjPk1pnVD"
       },
@@ -1376,7 +1434,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 200160,
       "name": "Tu con me hai chiuso",
       "url": "https://open.spotify.com/track/5EDkL5ZFCbroL36R8ZmPsX"

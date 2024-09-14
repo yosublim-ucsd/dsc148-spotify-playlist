@@ -2,34 +2,34 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 ### [Scuola Indie](https://open.spotify.com/playlist/37i9dQZF1DX6O5gXioqvYB)
 
-> La nuova scena indie italiana! Cover: Bartolini
+> La nuova scena indie italiana! Cover: Missey
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,610 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,614 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Salem](https://open.spotify.com/track/5dYCv09QzcMR7TaxFhHv4P) | [Bartolini](https://open.spotify.com/artist/4c0Z0oDeS1pLt1Rkaf6MLd) | [TILT](https://open.spotify.com/album/2yxMMVRkLIgMjmbb2MwaML) | 2:44 |
-| 2 | [Quasi a casa](https://open.spotify.com/track/5kzB90XlmjURvXJXLDwtjX) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Quasi A Casa \- Original Motion Picture Soundtrack](https://open.spotify.com/album/2lgLRSgU1jxeZVBIyGpGi5) | 5:09 |
-| 3 | [vita lenta](https://open.spotify.com/track/0aahD9Yf5nH1Y0jUhCgNdC) | [VV](https://open.spotify.com/artist/3Lx3LW1eYrkig48NsWAPdh) | [vita lenta](https://open.spotify.com/album/3Z7FzcyC8WE0SdV7WpBowN) | 3:01 |
-| 4 | [Sale](https://open.spotify.com/track/7wB5UV6fjJQ8c1MCZvDZUp) | [röa](https://open.spotify.com/artist/7AbFFBAlwG0g0poTyTc8ER) | [Sale](https://open.spotify.com/album/3ZhujgOVWlxkPbxQal8Eul) | 2:28 |
-| 5 | [Piramidi](https://open.spotify.com/track/3sxc1l4kbAdHRQQeOC7PQj) | [Paul Giorgi](https://open.spotify.com/artist/0xR9GzTwiXo7mZpoqOL0pG) | [Piramidi](https://open.spotify.com/album/0rUoe7hmJhdMutnxyM8Q8X) | 3:12 |
-| 6 | [zagara](https://open.spotify.com/track/6LJes6Kj0wkA6PWiKNQMGG) | [CALLIOPE](https://open.spotify.com/artist/4gUnnJ8JMuSQjd0oyDmbDt) | [zagara](https://open.spotify.com/album/6fdtPEoQCNrpLje2JnzD35) | 2:39 |
-| 7 | [Preda](https://open.spotify.com/track/44kebdQfiOBh5ID6u2Sxvc) | [43.Nove](https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW) | [Preda](https://open.spotify.com/album/7la4ofRNquJmp6cqsdU3rj) | 2:36 |
-| 8 | [soli soli](https://open.spotify.com/track/5T3kVq65Kjxg4698zdogLI) | [Giuze](https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B) | [soli soli](https://open.spotify.com/album/0Ki0cUpTBIoipeFO26lJKu) | 2:40 |
-| 9 | [tutte le tue onde](https://open.spotify.com/track/1Zzblhk9FuohKwNRTj8HlU) | [Lucia](https://open.spotify.com/artist/0wKiiAbA6C1mMZAak8Epv1) | [tutte le tue onde](https://open.spotify.com/album/6G5IxcL8FjeqPCbnvkZHLi) | 2:24 |
-| 10 | [Posto Nuovo](https://open.spotify.com/track/1B1JlGhz2IycsOV8EmaJXi) | [Casadilego](https://open.spotify.com/artist/1KEprABpzSCzzgwNk8EpYT) | [Posto Nuovo](https://open.spotify.com/album/06E5ivgvPo3qLoX6jK8t82) | 5:43 |
-| 11 | [Se voglio salvarmi la vita](https://open.spotify.com/track/2EvzaukzjxXpAiQMN365Yq) | [Vienna](https://open.spotify.com/artist/2fNMHLg3XxoufUqKuYNNN2) | [Se voglio salvarmi la vita](https://open.spotify.com/album/47llmaF6VEih4r0rNE5Ynd) | 2:32 |
-| 12 | [Vocine](https://open.spotify.com/track/0dNUYG4ezeg2GDQaXmU9aq) | [tellynonpiangere](https://open.spotify.com/artist/2n8rCH14DAnaBWMdkfj9hv) | [Vocine](https://open.spotify.com/album/3wXKsxgrzIKk0u9Sl3Au0B) | 3:04 |
-| 13 | [FANTASMA](https://open.spotify.com/track/20EFsnCjMkr4Mn40DIo1aG) | [GHE](https://open.spotify.com/artist/44k1ynsCAWZoXV0UtR7mAe) | [FANTASMA](https://open.spotify.com/album/60NnbiHAdcnfpfHjrUb2Wy) | 3:42 |
-| 14 | [Ottovolanti](https://open.spotify.com/track/4ku0gp9Dmu4pdiaRmBlrse) | [eyTrama](https://open.spotify.com/artist/2NpwOGf7PazuBdxHI5WY1A) | [Ottovolanti](https://open.spotify.com/album/4UcyS3aHApF3S5Zu2NSD6z) | 3:33 |
-| 15 | [Spezzabuio](https://open.spotify.com/track/3CrVd3Q1fjLJA0JVhdADPp) | [solomarco](https://open.spotify.com/artist/36TrrSCgFly6NAvktlI5c9) | [Spezzabuio](https://open.spotify.com/album/004Mgjg73He63yXE08l2ln) | 3:01 |
-| 16 | [Non ci penso](https://open.spotify.com/track/7IYqWbceazrqnNhLaIt9Ig) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Panorama Olivia](https://open.spotify.com/album/2hvDI1bWYpIxgMH9oFWl8t) | 2:40 |
-| 17 | [GRIGIO PANTONE](https://open.spotify.com/track/6YvQIcxCVDItc6zsiBfe6y) | [SESTO](https://open.spotify.com/artist/2kjGCtYf3V4FXS97OiQhTp) | [GRIGIO PANTONE](https://open.spotify.com/album/0T3x3tsIiRirjAicMB3L0d) | 2:21 |
-| 18 | [senza parole](https://open.spotify.com/track/7eV5CmkNPxfxqnRPIKozec) | [Drojette](https://open.spotify.com/artist/7ilioqEIB98582y6xSR9ln), [Swann](https://open.spotify.com/artist/56uj5pVUXA8jELaj096IJX) | [senza parole](https://open.spotify.com/album/4yhQHP0D98k0om3n1zCqk5) | 2:41 |
-| 19 | [U mari](https://open.spotify.com/track/2eeSKDRJPFmgx2t0EYHGRM) | [Anna Castiglia](https://open.spotify.com/artist/3BSckhNAabodVgd9NkHyJV) | [U mari](https://open.spotify.com/album/4YlpSZ3HRsHEex7uo7LYec) | 2:46 |
-| 20 | [Questa notte resta](https://open.spotify.com/track/3dzmfNVTS5y3DZkXIe6EsG) | [Fran e i Pensieri Molesti](https://open.spotify.com/artist/37dWYlSjeT4mB3sTyblB43) | [Questa notte resta](https://open.spotify.com/album/1HFj68aBxlVNUujEoSYVVw) | 2:49 |
-| 21 | [Penso Penso Penso](https://open.spotify.com/track/0Yx37LRuzSAWq3pfkWAh68) | [Teseghella](https://open.spotify.com/artist/7iJcABhFmM1ZgpG24dHK7D) | [ROCCASECCA](https://open.spotify.com/album/3m5LwAf3fBdc9THwhe0rj7) | 2:37 |
-| 22 | [Raccontarsi favole](https://open.spotify.com/track/7I0jLHSjDKZ29BWrnqP4Ah) | [Missey](https://open.spotify.com/artist/2DcrZVjp98sHG7ttcywb7s) | [Raccontarsi favole](https://open.spotify.com/album/3YwaqlCyDXMugZWmfifiHt) | 3:32 |
+| 1 | [Raccontarsi favole](https://open.spotify.com/track/7I0jLHSjDKZ29BWrnqP4Ah) | [Missey](https://open.spotify.com/artist/2DcrZVjp98sHG7ttcywb7s) | [Raccontarsi favole](https://open.spotify.com/album/3YwaqlCyDXMugZWmfifiHt) | 3:32 |
+| 2 | [Salem](https://open.spotify.com/track/5dYCv09QzcMR7TaxFhHv4P) | [Bartolini](https://open.spotify.com/artist/4c0Z0oDeS1pLt1Rkaf6MLd) | [TILT](https://open.spotify.com/album/2yxMMVRkLIgMjmbb2MwaML) | 2:44 |
+| 3 | [Quasi a casa](https://open.spotify.com/track/5kzB90XlmjURvXJXLDwtjX) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Quasi A Casa \- Original Motion Picture Soundtrack](https://open.spotify.com/album/2lgLRSgU1jxeZVBIyGpGi5) | 5:09 |
+| 4 | [vita lenta](https://open.spotify.com/track/0aahD9Yf5nH1Y0jUhCgNdC) | [VV](https://open.spotify.com/artist/3Lx3LW1eYrkig48NsWAPdh) | [vita lenta](https://open.spotify.com/album/3Z7FzcyC8WE0SdV7WpBowN) | 3:01 |
+| 5 | [Sale](https://open.spotify.com/track/7wB5UV6fjJQ8c1MCZvDZUp) | [röa](https://open.spotify.com/artist/7AbFFBAlwG0g0poTyTc8ER) | [Sale](https://open.spotify.com/album/3ZhujgOVWlxkPbxQal8Eul) | 2:28 |
+| 6 | [Piramidi](https://open.spotify.com/track/3sxc1l4kbAdHRQQeOC7PQj) | [Paul Giorgi](https://open.spotify.com/artist/0xR9GzTwiXo7mZpoqOL0pG) | [Piramidi](https://open.spotify.com/album/0rUoe7hmJhdMutnxyM8Q8X) | 3:12 |
+| 7 | [zagara](https://open.spotify.com/track/6LJes6Kj0wkA6PWiKNQMGG) | [CALLIOPE](https://open.spotify.com/artist/4gUnnJ8JMuSQjd0oyDmbDt) | [zagara](https://open.spotify.com/album/6fdtPEoQCNrpLje2JnzD35) | 2:39 |
+| 8 | [Preda](https://open.spotify.com/track/44kebdQfiOBh5ID6u2Sxvc) | [43.Nove](https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW) | [Preda](https://open.spotify.com/album/7la4ofRNquJmp6cqsdU3rj) | 2:36 |
+| 9 | [soli soli](https://open.spotify.com/track/5T3kVq65Kjxg4698zdogLI) | [Giuze](https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B) | [soli soli](https://open.spotify.com/album/0Ki0cUpTBIoipeFO26lJKu) | 2:40 |
+| 10 | [tutte le tue onde](https://open.spotify.com/track/1Zzblhk9FuohKwNRTj8HlU) | [Lucia](https://open.spotify.com/artist/0wKiiAbA6C1mMZAak8Epv1) | [tutte le tue onde](https://open.spotify.com/album/6G5IxcL8FjeqPCbnvkZHLi) | 2:24 |
+| 11 | [Posto Nuovo](https://open.spotify.com/track/1B1JlGhz2IycsOV8EmaJXi) | [Casadilego](https://open.spotify.com/artist/1KEprABpzSCzzgwNk8EpYT) | [Posto Nuovo](https://open.spotify.com/album/06E5ivgvPo3qLoX6jK8t82) | 5:43 |
+| 12 | [Se voglio salvarmi la vita](https://open.spotify.com/track/2EvzaukzjxXpAiQMN365Yq) | [Vienna](https://open.spotify.com/artist/2fNMHLg3XxoufUqKuYNNN2) | [Se voglio salvarmi la vita](https://open.spotify.com/album/47llmaF6VEih4r0rNE5Ynd) | 2:32 |
+| 13 | [Vocine](https://open.spotify.com/track/0dNUYG4ezeg2GDQaXmU9aq) | [tellynonpiangere](https://open.spotify.com/artist/2n8rCH14DAnaBWMdkfj9hv) | [Vocine](https://open.spotify.com/album/3wXKsxgrzIKk0u9Sl3Au0B) | 3:04 |
+| 14 | [FANTASMA](https://open.spotify.com/track/20EFsnCjMkr4Mn40DIo1aG) | [GHE](https://open.spotify.com/artist/44k1ynsCAWZoXV0UtR7mAe) | [FANTASMA](https://open.spotify.com/album/60NnbiHAdcnfpfHjrUb2Wy) | 3:42 |
+| 15 | [Ottovolanti](https://open.spotify.com/track/4ku0gp9Dmu4pdiaRmBlrse) | [eyTrama](https://open.spotify.com/artist/2NpwOGf7PazuBdxHI5WY1A) | [Ottovolanti](https://open.spotify.com/album/4UcyS3aHApF3S5Zu2NSD6z) | 3:33 |
+| 16 | [Spezzabuio](https://open.spotify.com/track/3CrVd3Q1fjLJA0JVhdADPp) | [solomarco](https://open.spotify.com/artist/36TrrSCgFly6NAvktlI5c9) | [Spezzabuio](https://open.spotify.com/album/004Mgjg73He63yXE08l2ln) | 3:01 |
+| 17 | [Non ci penso](https://open.spotify.com/track/7IYqWbceazrqnNhLaIt9Ig) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Panorama Olivia](https://open.spotify.com/album/2hvDI1bWYpIxgMH9oFWl8t) | 2:40 |
+| 18 | [GRIGIO PANTONE](https://open.spotify.com/track/6YvQIcxCVDItc6zsiBfe6y) | [SESTO](https://open.spotify.com/artist/2kjGCtYf3V4FXS97OiQhTp) | [GRIGIO PANTONE](https://open.spotify.com/album/0T3x3tsIiRirjAicMB3L0d) | 2:21 |
+| 19 | [senza parole](https://open.spotify.com/track/7eV5CmkNPxfxqnRPIKozec) | [Drojette](https://open.spotify.com/artist/7ilioqEIB98582y6xSR9ln), [Swann](https://open.spotify.com/artist/56uj5pVUXA8jELaj096IJX) | [senza parole](https://open.spotify.com/album/4yhQHP0D98k0om3n1zCqk5) | 2:41 |
+| 20 | [U mari](https://open.spotify.com/track/2eeSKDRJPFmgx2t0EYHGRM) | [Anna Castiglia](https://open.spotify.com/artist/3BSckhNAabodVgd9NkHyJV) | [U mari](https://open.spotify.com/album/4YlpSZ3HRsHEex7uo7LYec) | 2:46 |
+| 21 | [Questa notte resta](https://open.spotify.com/track/3dzmfNVTS5y3DZkXIe6EsG) | [Fran e i Pensieri Molesti](https://open.spotify.com/artist/37dWYlSjeT4mB3sTyblB43) | [Questa notte resta](https://open.spotify.com/album/1HFj68aBxlVNUujEoSYVVw) | 2:49 |
+| 22 | [Penso Penso Penso](https://open.spotify.com/track/0Yx37LRuzSAWq3pfkWAh68) | [Teseghella](https://open.spotify.com/artist/7iJcABhFmM1ZgpG24dHK7D) | [ROCCASECCA](https://open.spotify.com/album/3m5LwAf3fBdc9THwhe0rj7) | 2:37 |
 | 23 | [LA WAVE](https://open.spotify.com/track/3wJafG2l23mr3raepszTVz) | [Alex Polidori](https://open.spotify.com/artist/5O17LLDXhhdB8mIGr6vJIc), [Dima](https://open.spotify.com/artist/0ejL0hTrPBamEXjapPKHad) | [LA WAVE](https://open.spotify.com/album/2OSSwb7m1L2X3cRa4gzNGi) | 2:36 |
 | 24 | [È uscita la carta del diavolo \(feat\. MILLE\)](https://open.spotify.com/track/0jOUmxv7YZgZEZRjTlhUJx) | [Amalfitano](https://open.spotify.com/artist/6etd8FRodAwSq5dBetjTHJ), [MILLE](https://open.spotify.com/artist/2X5RjwWkxAg9WBce3BLoJj) | [È uscita la carta del diavolo \(feat\. MILLE\)](https://open.spotify.com/album/4KxFwXWmzkN6rPJ1UXsd2Z) | 4:06 |
 | 25 | [a prendermi](https://open.spotify.com/track/0kUWwQBuzwjUjI2BLyQFdQ) | [Akhila](https://open.spotify.com/artist/08tRBT6zwTBNIovhJpntVf) | [a prendermi](https://open.spotify.com/album/0qNqylonB7WjCe1IxH2d8z) | 2:54 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 | 74 | [SURF](https://open.spotify.com/track/4SWcY5POd5yyGBcP9uPzYp) | [WISM](https://open.spotify.com/artist/3LXTbapp18J0PmQEPPeXmO) | [SURF](https://open.spotify.com/album/22ezapOjCnojqDdOw4rzOZ) | 2:50 |
 | 75 | [LO FARÒ DOMANI](https://open.spotify.com/track/2SiacQcn31WMD8CfWbsGUZ) | [Giuze](https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B), [MAGENTA FLORA](https://open.spotify.com/artist/7H9GIU0D6O5oHYTTlKrsAs) | [LO FARÒ DOMANI](https://open.spotify.com/album/3bzeG9bHPD8VzJWGjw31l7) | 2:25 |
 
-Snapshot ID: `ZtoqHAAAAAAbCv94yKKBmdd0RzwMqiLc`
+Snapshot ID: `ZuPv8gAAAAApKu0gxgSww1vGl4xAv5GD`

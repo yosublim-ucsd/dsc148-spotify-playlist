@@ -1,6 +1,6 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 63691,
+  "num_followers": 63805,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,22 @@
     {
       "added_at": "2024-09-13 00:01:00",
       "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/65dLAih8fOf5UUkplKRvdR"
+        "name": "Dealer",
+        "url": "https://open.spotify.com/album/3RShBBcnQmqfmBJgmfz3or"
       },
       "artists": [
         {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
         },
         {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
         }
       ],
-      "duration_ms": 205263,
-      "name": "Wave",
-      "url": "https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE"
+      "duration_ms": 180594,
+      "name": "Dealer",
+      "url": "https://open.spotify.com/track/5Wxkvvb6pLky16pwq4gBI3"
     },
     {
       "added_at": "2024-09-13 00:01:00",
@@ -235,22 +235,22 @@
     {
       "added_at": "2024-09-13 00:01:00",
       "album": {
-        "name": "Dealer",
-        "url": "https://open.spotify.com/album/3RShBBcnQmqfmBJgmfz3or"
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/65dLAih8fOf5UUkplKRvdR"
       },
       "artists": [
         {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         },
         {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 180594,
-      "name": "Dealer",
-      "url": "https://open.spotify.com/track/5Wxkvvb6pLky16pwq4gBI3"
+      "duration_ms": 205263,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE"
     },
     {
       "added_at": "2024-09-13 00:01:00",
@@ -430,6 +430,10 @@
         {
           "name": "Lasmid",
           "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        },
+        {
+          "name": "Balloranking",
+          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
         }
       ],
       "duration_ms": 181621,
@@ -723,22 +727,6 @@
     {
       "added_at": "2024-09-13 00:01:00",
       "album": {
-        "name": "everyday",
-        "url": "https://open.spotify.com/album/4atn1aHLq3H0jxE5kJs2S7"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 166350,
-      "name": "everyday",
-      "url": "https://open.spotify.com/track/2yskKhqtDAHJ73obmJh8tf"
-    },
-    {
-      "added_at": "2024-09-13 00:01:00",
-      "album": {
         "name": "Tshwala Bam (feat. S.N.E, EeQue)",
         "url": "https://open.spotify.com/album/4lZSgj4cw3cmEvw0KQXNnY"
       },
@@ -763,6 +751,22 @@
       "duration_ms": 390000,
       "name": "Tshwala Bam (feat. S.N.E, EeQue)",
       "url": "https://open.spotify.com/track/54seQV7MCcppBrznALCdlT"
+    },
+    {
+      "added_at": "2024-09-13 00:01:00",
+      "album": {
+        "name": "everyday",
+        "url": "https://open.spotify.com/album/4atn1aHLq3H0jxE5kJs2S7"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 166350,
+      "name": "everyday",
+      "url": "https://open.spotify.com/track/2yskKhqtDAHJ73obmJh8tf"
     },
     {
       "added_at": "2024-09-13 00:01:00",
@@ -1115,22 +1119,6 @@
     {
       "added_at": "2024-09-13 00:01:00",
       "album": {
-        "name": "HEHEHE",
-        "url": "https://open.spotify.com/album/5BF5mPFuH0K7iY7J4QgSg5"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 113720,
-      "name": "HEHEHE",
-      "url": "https://open.spotify.com/track/4DzMHMREYvyb3L5JrE0YAt"
-    },
-    {
-      "added_at": "2024-09-13 00:01:00",
-      "album": {
         "name": "The Year I Turned 21",
         "url": "https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms"
       },
@@ -1151,6 +1139,22 @@
       "duration_ms": 208910,
       "name": "Woman Commando (feat. Anitta & Coco Jones)",
       "url": "https://open.spotify.com/track/7jaot4TU3RWNZVscwAsKLA"
+    },
+    {
+      "added_at": "2024-09-13 00:01:00",
+      "album": {
+        "name": "HEHEHE",
+        "url": "https://open.spotify.com/album/5BF5mPFuH0K7iY7J4QgSg5"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 113720,
+      "name": "HEHEHE",
+      "url": "https://open.spotify.com/track/4DzMHMREYvyb3L5JrE0YAt"
     },
     {
       "added_at": "2024-09-13 00:01:00",
@@ -1223,22 +1227,6 @@
     {
       "added_at": "2024-09-13 00:01:00",
       "album": {
-        "name": "Stubborn",
-        "url": "https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 171666,
-      "name": "Ba$tard, Don't Be Silly",
-      "url": "https://open.spotify.com/track/0u9khlv9uOvSEUOTFZtMNs"
-    },
-    {
-      "added_at": "2024-09-13 00:01:00",
-      "album": {
         "name": "Sad Romance",
         "url": "https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY"
       },
@@ -1251,6 +1239,22 @@
       "duration_ms": 164121,
       "name": "by now",
       "url": "https://open.spotify.com/track/3rRKu7N2zRgb0pF9DLrrBI"
+    },
+    {
+      "added_at": "2024-09-13 00:01:00",
+      "album": {
+        "name": "Stubborn",
+        "url": "https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 171666,
+      "name": "Ba$tard, Don't Be Silly",
+      "url": "https://open.spotify.com/track/0u9khlv9uOvSEUOTFZtMNs"
     },
     {
       "added_at": "2024-09-13 00:01:00",
@@ -1363,22 +1367,6 @@
     {
       "added_at": "2024-09-13 00:01:00",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/1WxjIKagr1Vgwk6XTxYh7X"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 166958,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/4zqRu31aWCiHeYMw9GptOO"
-    },
-    {
-      "added_at": "2024-09-13 00:01:00",
-      "album": {
         "name": "Finish Me (AEIOU)",
         "url": "https://open.spotify.com/album/3WcAZQlQPsmeewc90tLg7H"
       },
@@ -1391,6 +1379,22 @@
       "duration_ms": 91428,
       "name": "Finish Me (AEIOU)",
       "url": "https://open.spotify.com/track/2u5YJtmjz0wRISSek8g2tS"
+    },
+    {
+      "added_at": "2024-09-13 00:01:00",
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/1WxjIKagr1Vgwk6XTxYh7X"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 166958,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/4zqRu31aWCiHeYMw9GptOO"
     },
     {
       "added_at": "2024-09-13 00:01:00",
@@ -1415,22 +1419,6 @@
     {
       "added_at": "2024-09-13 00:01:00",
       "album": {
-        "name": "ARABAMBI",
-        "url": "https://open.spotify.com/album/0aqdDNCzRkyTKA8fqy1NK1"
-      },
-      "artists": [
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 190226,
-      "name": "ARABAMBI",
-      "url": "https://open.spotify.com/track/1CH0DtnpkZ6peTWY1EadHu"
-    },
-    {
-      "added_at": "2024-09-13 00:01:00",
-      "album": {
         "name": "Pheelz Good II",
         "url": "https://open.spotify.com/album/0XggRVMapMGMuh55fKDD4Y"
       },
@@ -1443,6 +1431,22 @@
       "duration_ms": 167213,
       "name": "MAJO",
       "url": "https://open.spotify.com/track/0CRU6MdxT0fuptw7GoGrrA"
+    },
+    {
+      "added_at": "2024-09-13 00:01:00",
+      "album": {
+        "name": "ARABAMBI",
+        "url": "https://open.spotify.com/album/0aqdDNCzRkyTKA8fqy1NK1"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 190226,
+      "name": "ARABAMBI",
+      "url": "https://open.spotify.com/track/1CH0DtnpkZ6peTWY1EadHu"
     },
     {
       "added_at": "2024-09-13 00:01:00",
@@ -1591,22 +1595,22 @@
     {
       "added_at": "2024-09-13 00:01:00",
       "album": {
-        "name": "Continental (feat. Shallipopi)",
-        "url": "https://open.spotify.com/album/0WjeuE3MxIdRxWUb8PURa8"
+        "name": "JABO",
+        "url": "https://open.spotify.com/album/4HBc5xjhUSTusWkAqEL8iv"
       },
       "artists": [
         {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
         },
         {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
-      "duration_ms": 180720,
-      "name": "Continental (feat. Shallipopi)",
-      "url": "https://open.spotify.com/track/5p3PWZEHyHxlFhoROX4dzz"
+      "duration_ms": 197400,
+      "name": "JABO",
+      "url": "https://open.spotify.com/track/4oeH9c9ca6CS2xHytLLRnP"
     }
   ],
   "unique_name": "Party Dey!",

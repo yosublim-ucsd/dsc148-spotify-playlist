@@ -198,7 +198,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 146400,
       "name": "babu",
       "url": "https://open.spotify.com/track/35E2OUOy1POX7TlpujvSNB"
@@ -216,7 +216,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 169142,
       "name": "Baby",
       "url": "https://open.spotify.com/track/0BbbAbw9ISKQuELWzKI22B"
@@ -348,7 +348,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 147000,
       "name": "chaar din",
       "url": "https://open.spotify.com/track/5dS4MpBlfhGzlGCG44khTj"
@@ -520,7 +520,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 184077,
       "name": "Fana",
       "url": "https://open.spotify.com/track/5ll2XFNltQ7WFh8QCsJORp"
@@ -710,7 +710,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 167938,
       "name": "Jhoota Saala",
       "url": "https://open.spotify.com/track/4wktM4ysPIX7uWaCWCUnCf"
@@ -1214,7 +1214,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 187846,
       "name": "Nishaani",
       "url": "https://open.spotify.com/track/39UMrWPQfDs4BAmkfDHFwU"
@@ -1272,7 +1272,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 159000,
       "name": "officer",
       "url": "https://open.spotify.com/track/0cS1lDeeNPeOnN04HwNLbP"
@@ -1308,7 +1308,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 161805,
       "name": "okay",
       "url": "https://open.spotify.com/track/0CxdSFS5LRSmKs5fjo9TJ1"
@@ -1326,7 +1326,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 215000,
       "name": "Out Of Sight",
       "url": "https://open.spotify.com/track/3JlkzZ42bWLDtpjqyd4W2k"
@@ -1417,6 +1417,28 @@
     },
     {
       "album": {
+        "name": "Pooray Sau",
+        "url": "https://open.spotify.com/album/7F6TJD5W6T6tuE5tnkpR3M"
+      },
+      "artists": [
+        {
+          "name": "ZOH",
+          "url": "https://open.spotify.com/artist/1T5V8R7QKMhQImEdKNDyFU"
+        },
+        {
+          "name": "Maanu",
+          "url": "https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183797,
+      "name": "Pooray Sau",
+      "url": "https://open.spotify.com/track/2wpUeXLKPTzPcK4Q2FRdRg"
+    },
+    {
+      "album": {
         "name": "PRETA KALPA",
         "url": "https://open.spotify.com/album/5kQuqzhclheXys1Wki3v1S"
       },
@@ -1458,6 +1480,54 @@
       "duration_ms": 117209,
       "name": "Pukaare",
       "url": "https://open.spotify.com/track/4MHep7iGDd5dObs7NQYsUL"
+    },
+    {
+      "album": {
+        "name": "Raastah",
+        "url": "https://open.spotify.com/album/2oSbt2kiTCcDmn87YFHCP7"
+      },
+      "artists": [
+        {
+          "name": "AUR",
+          "url": "https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855"
+        },
+        {
+          "name": "Taimour Baig",
+          "url": "https://open.spotify.com/artist/1yMP2gzEFgUkib4khXN6hi"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227578,
+      "name": "Raastah",
+      "url": "https://open.spotify.com/track/1wv4xwsBlTd8Lp4io5KulE"
+    },
+    {
+      "album": {
+        "name": "Raazi - blal's version",
+        "url": "https://open.spotify.com/album/6MF9ecBm6ewsaYeG7UWmdM"
+      },
+      "artists": [
+        {
+          "name": "blal bloch",
+          "url": "https://open.spotify.com/artist/2PKXVvqPC7pNaLWnDbr1RF"
+        },
+        {
+          "name": "Natasha Noorani",
+          "url": "https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285"
+        },
+        {
+          "name": "Talal Qureshi",
+          "url": "https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158960,
+      "name": "Raazi - blal's version",
+      "url": "https://open.spotify.com/track/3qi3UHlhrdWFOEjqirvCl6"
     },
     {
       "album": {
@@ -2042,7 +2112,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 187306,
       "name": "Yariyan",
       "url": "https://open.spotify.com/track/1JPB2wPA76dURRFpjGFQbR"

@@ -1,12 +1,12 @@
 {
   "description": "T\u00fcrkiye'nin en b\u00fcy\u00fck pop listesi. Kapak: Soner Sar\u0131kabaday\u0131",
-  "num_followers": 1463433,
+  "num_followers": 1463650,
   "original_name": "T\u00fcrk\u00e7e Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuNWUAAAAADMHASfDGpHNLRH+R2mHYA9",
+  "snapshot_id": "ZuPx2AAAAAAKf6Tr1RMcOeVox7LwQvJ3",
   "tracks": [
     {
       "added_at": "2024-09-12 21:00:00",
@@ -167,6 +167,26 @@
     {
       "added_at": "2024-09-12 21:00:00",
       "album": {
+        "name": "\u0130mdad\u0131m",
+        "url": "https://open.spotify.com/album/616fhHuuWrVXPz8gpHR8Yd"
+      },
+      "artists": [
+        {
+          "name": "Eypio",
+          "url": "https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ"
+        },
+        {
+          "name": "Zara",
+          "url": "https://open.spotify.com/artist/1B4KdcJA6Dh1MlAiezqc08"
+        }
+      ],
+      "duration_ms": 129804,
+      "name": "\u0130mdad\u0131m",
+      "url": "https://open.spotify.com/track/6Bd1IXmQB9YZa7yI8j98fM"
+    },
+    {
+      "added_at": "2024-09-12 21:00:00",
+      "album": {
         "name": "Yine \u00c7al\u0131yor",
         "url": "https://open.spotify.com/album/2d3z7xdD9R3sAKueFrV2jp"
       },
@@ -255,26 +275,6 @@
       "duration_ms": 136800,
       "name": "Yansam",
       "url": "https://open.spotify.com/track/38gCk1mC6RwSm1iJK5qhsZ"
-    },
-    {
-      "added_at": "2024-09-12 21:00:00",
-      "album": {
-        "name": "\u0130mdad\u0131m",
-        "url": "https://open.spotify.com/album/616fhHuuWrVXPz8gpHR8Yd"
-      },
-      "artists": [
-        {
-          "name": "Eypio",
-          "url": "https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ"
-        },
-        {
-          "name": "Zara",
-          "url": "https://open.spotify.com/artist/1B4KdcJA6Dh1MlAiezqc08"
-        }
-      ],
-      "duration_ms": 129804,
-      "name": "\u0130mdad\u0131m",
-      "url": "https://open.spotify.com/track/6Bd1IXmQB9YZa7yI8j98fM"
     },
     {
       "added_at": "2024-09-12 21:00:00",

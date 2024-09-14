@@ -4,7 +4,7 @@
 
 > Ouça e conheça as revelações da música gospel\. Foto: Paloma Possi
 
-72 songs - 6 hr 8 min
+73 songs - 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Eu Vou Mergulhar](https://open.spotify.com/track/75H1JdNy5JIndenoockhB3) | [Idma Brito](https://open.spotify.com/artist/7enWqH5HtoEQJckRpx3ut2) | [Eu Vou Mergulhar](https://open.spotify.com/album/6rOWiP8QX8iub0JIU0pSFO) | 4:51 | 2022-12-09 |  |
 | [Fenda da Rocha \- Ao Vivo](https://open.spotify.com/track/2l0Iqa3e3QzT0q798LiyhG) | [Mari Borges](https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6), [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Léo Brandão](https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L) | [Fenda da Rocha \(Ao Vivo\)](https://open.spotify.com/album/2BwUstX6wBqQCiGrThGxfP) | 5:23 | 2022-12-09 |  |
 | [Fogo E Altar](https://open.spotify.com/track/4oddcpptwNmykJqa4A2xcv) | [Kauê Penna](https://open.spotify.com/artist/66gr6eacn8mru8PygKXLvj), [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [Promessa](https://open.spotify.com/album/7M5BKDGBuYyfjzeQGWcVnG) | 4:05 | 2022-12-09 |  |
+| [Fé e Atitude \- Loop Session](https://open.spotify.com/track/41nq39VnAHSS6GVvTQewjJ) | [Ricarlo Rocha](https://open.spotify.com/artist/3vz4Z3xgADcZ7lw6CxtD2a) | [Fé e Atitude \- Loop Session](https://open.spotify.com/album/0bAjPBZizK6OI0LLBvn9eE) | 4:13 | 2024-09-13 |  |
 | [Graça](https://open.spotify.com/track/50pNAEvXwRMdqizML22vXa) | [Amanda Loyola](https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al), [Pedro Henrique](https://open.spotify.com/artist/5z5z7mb9JYMVdmi4Lfnu0t) | [Graça](https://open.spotify.com/album/7HwGAK2cFTLCuwIcj2No47) | 5:41 | 2022-12-09 |  |
 | [Graça](https://open.spotify.com/track/0OLq6ePXSrz4bOgF2xqWT3) | [Tamara Pyller](https://open.spotify.com/artist/20vcBBOWdZLyUo297CcBGO) | [Graça](https://open.spotify.com/album/55Z5QH9ieP02mhRkkj2h14) | 4:11 | 2022-12-09 |  |
 | [Incomparável](https://open.spotify.com/track/4C4cQJRtSAQFzJkr5fXHsh) | [Hadassah Perez](https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb) | [Incomparável](https://open.spotify.com/album/2RAxcqYvInUcuemO3ck1o0) | 5:00 | 2022-12-09 |  |
@@ -64,7 +65,7 @@
 | [Quem Disse? \- Ao Vivo](https://open.spotify.com/track/7h2a4Orc7fLALeC0dfQDFG) | [Julliana Silva](https://open.spotify.com/artist/3TMlmzPsCt9e16XSMctNgI) | [Quem Disse? \(Ao Vivo\)](https://open.spotify.com/album/0QzEudiqJ8MQiAYuhaCfqO) | 5:30 | 2022-12-09 |  |
 | [Quem é Esse?](https://open.spotify.com/track/5aGSIDAIjpskRm4pPMRUDT) | [Naara e Sarah](https://open.spotify.com/artist/0LPEcQYu6T8yx0W0pswNf9) | [Quem é Esse?](https://open.spotify.com/album/2Hue0DRCh1m0YkA9Hc6qpL) | 5:19 | 2022-12-09 |  |
 | [Raridade \(Releitura\)](https://open.spotify.com/track/7ChILVLENXtNdAGyavc9th) | [Bea Rodrigues](https://open.spotify.com/artist/6QdkjyPcxIa4L8JYoIh16i) | [Raridade \(Releitura\)](https://open.spotify.com/album/2iVGtuWpmNtP5Az2SUXAcj) | 4:16 | 2023-10-06 |  |
-| [Recursos](https://open.spotify.com/track/0m1n3GsWSGMWTKS6m2AtTm) | [Vitória Souza](https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Recursos](https://open.spotify.com/album/7mb788K0YryGvPkHTFWs2Z) | 5:46 | 2022-12-09 |  |
+| [Recursos](https://open.spotify.com/track/0m1n3GsWSGMWTKS6m2AtTm) | [Vitória Souza](https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Recursos](https://open.spotify.com/album/7mb788K0YryGvPkHTFWs2Z) | 5:46 | 2022-12-09 | 2024-09-14 |
 | [Redentor \- Ao Vivo](https://open.spotify.com/track/1YffYMKpricZh02Sh5nTMK) | [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Redentor \(Ao Vivo\)](https://open.spotify.com/album/3dkyvFAOlv1JUz30UPMDx6) | 5:49 | 2022-12-09 |  |
 | [Santo dos Santos](https://open.spotify.com/track/1uHkF8uTBRLQMir5CxLDSQ) | [Esther Marcos](https://open.spotify.com/artist/2japccldZ12nJnpI9eJ7gF), [ONE Service](https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP) | [Santo dos Santos](https://open.spotify.com/album/7hYkP03ILQ9LiVRkr98Ojk) | 4:38 | 2022-12-09 |  |
 | [Sinal de Amor](https://open.spotify.com/track/7uyS7PnbHR4QLyKdn3j5tE) | [Yuri Costa](https://open.spotify.com/artist/6DCegHgi8RLp02HGxvjegQ), [Entretons](https://open.spotify.com/artist/49SMfgb279XJeskQxZm5sa) | [Sinal de Amor](https://open.spotify.com/album/4nwqWoQzvdRMQRnxWIuTFt) | 3:35 | 2022-12-09 | 2024-09-07 |

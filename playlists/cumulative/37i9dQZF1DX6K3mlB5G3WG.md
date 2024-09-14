@@ -2,9 +2,9 @@
 
 ### [Novità Pop](https://open.spotify.com/playlist/37i9dQZF1DX6K3mlB5G3WG)
 
-> Le migliori nuove uscite, 🇮🇹 e 🌎! Cover: Olly, Angelina Mango
+> Le migliori nuove uscite, 🇮🇹 e 🌎! Cover: The Weeknd
 
-333 songs - 17 hr 8 min
+335 songs - 17 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Chk Chk Boom](https://open.spotify.com/track/0GqAWZe1A5ecKadZrHk6XH) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/1uLAcaywb5673rQ2lJ1UG7) | 2:28 | 2024-07-18 | 2024-08-30 |
 | [Chula](https://open.spotify.com/track/40fgKOnq3hxu4HqEbq40CZ) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Chula](https://open.spotify.com/album/787xYgCwrcOi8f6wCWCCI4) | 2:30 | 2024-08-15 | 2024-09-13 |
 | [Cigarettes & Alcohol \- Sawmills Outtake](https://open.spotify.com/track/4DKcLZMapJwbOtLLz3Obcw) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \- 30th Anniversary](https://open.spotify.com/album/4J0amttxitKO3C2qCab3YA) | 5:06 | 2024-08-29 |  |
+| [Cinco Estrellas](https://open.spotify.com/track/0bZ5NMULGjx65BhgXTfA33) | [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [SOLO](https://open.spotify.com/album/6bZ3w99gJilo45OwKsMBd0) | 2:59 | 2024-09-13 |  |
 | [Cleats](https://open.spotify.com/track/7HWONeQrWpcjflAPGbH5L3) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Cleats](https://open.spotify.com/album/0VZGFBmqzdTFhMgMl7rsxB) | 3:41 | 2024-09-12 |  |
 | [CLUB CATCH](https://open.spotify.com/track/4R7de0NTj6fBw1gp0yJKuZ) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [YACHT CLUB](https://open.spotify.com/album/7bpzUkc1uU93zlxRcloH41) | 2:26 | 2024-06-27 | 2024-07-05 |
 | [COLD](https://open.spotify.com/track/68Hw42cJIFcUnF364etWtX) | [Joshua](https://open.spotify.com/artist/5MmLJMV7gqiV3RgmqTgAKO), [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy) | [COLD](https://open.spotify.com/album/3VNViiWGXdYoD27WEsOWi4) | 1:29 | 2024-06-27 | 2024-07-05 |
@@ -79,6 +80,7 @@
 | [Cuori infranti](https://open.spotify.com/track/0D0ZSyiqzZcuvbXqMi76fg) | [Giorgieness](https://open.spotify.com/artist/4QYFjNac8XiU828KjV1oWA) | [Cuori infranti](https://open.spotify.com/album/03CBDXT35cavl0TY2evqBl) | 2:47 | 2024-09-12 |  |
 | [cut! \(feat\. Julia Michaels\)](https://open.spotify.com/track/5W2w9i6UslmWj3QUPdzYXO) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [cut! \(feat\. Julia Michaels\)](https://open.spotify.com/album/0KSSQzsK85HCBGwj23Zluj) | 2:08 | 2024-06-27 | 2024-07-19 |
 | [Dance With Me](https://open.spotify.com/track/2I5ipWaIXUknimwtJPoPYt) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dance With Me](https://open.spotify.com/album/1wkUCIDGpYN0PEIcyG4dS6) | 3:45 | 2024-06-27 | 2024-07-19 |
+| [Dancing In The Flames](https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dancing In The Flames](https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g) | 3:40 | 2024-09-13 |  |
 | [Danimarca](https://open.spotify.com/track/5bkUPNhCQ3LlUEnOT9jQW3) | [Nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [3D](https://open.spotify.com/artist/5K92J8NwWAlu6fRN2uoHVN) | [Danimarca](https://open.spotify.com/album/01yiaCziEOgYtQZggS6hYA) | 2:46 | 2024-06-27 | 2024-07-05 |
 | [Darkerside](https://open.spotify.com/track/3b1s3Ywg0laGsNHCpUBhrl) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [The Dichotomy](https://open.spotify.com/album/4F2fCQJXXGfpKsoudFrjDW) | 2:37 | 2024-08-29 |  |
 | [Dead Man](https://open.spotify.com/track/175ApsLKPzdEeEiibmtqFQ) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Dead Man](https://open.spotify.com/album/2bXR6WDlDnm31wMvAd0MhB) | 3:23 | 2024-07-18 | 2024-09-06 |

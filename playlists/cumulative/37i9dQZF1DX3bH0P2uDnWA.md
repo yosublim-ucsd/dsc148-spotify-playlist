@@ -4,7 +4,7 @@
 
 > Bringing the roaring 20s into the 2020s
 
-388 songs - 21 hr 56 min
+389 songs - 21 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Empires](https://open.spotify.com/track/1WdbMVvjfOV8M0tkRVilKh) | [The Electric Swing Circus](https://open.spotify.com/artist/3MUnAJMKx97SfTZYNB2iXY) | [It Flew By](https://open.spotify.com/album/3PwKRBTI8qZfij6rcT7bP2) | 3:10 | 2020-10-30 | 2024-04-19 |
 | [Empires](https://open.spotify.com/track/7BilkHwC8zy0Mv67wsGiUM) | [The Electric Swing Circus](https://open.spotify.com/artist/3MUnAJMKx97SfTZYNB2iXY) | [It Flew By](https://open.spotify.com/album/5XFucNk2gXgSbcQbuzgOW5) | 3:10 | 2020-10-30 |  |
 | [End of the World Party](https://open.spotify.com/track/3fHEXWt9o5xQSTINggTtrm) | [Nestor Kéa](https://open.spotify.com/artist/7oWKh4R1VZ1jXgka3iXgpo) | [Les Oiseaux Scratchent Pour Mourir](https://open.spotify.com/album/7mvRmeLqeW3w8moijO2bQ8) | 2:47 | 2022-11-07 | 2023-03-18 |
+| [Estate Italiana](https://open.spotify.com/track/2hc01SdAtZibqpVFvDFVis) | [Betty Booom](https://open.spotify.com/artist/0MCy2uUaKHn4iNMAih50Vg), [Glenn Gatsby](https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i) | [Estate Italiana](https://open.spotify.com/album/7xWL8alS67XMLduUok0EZd) | 2:17 | 2024-09-13 |  |
 | [Everybody \- Electro Swing Mix](https://open.spotify.com/track/6NOeBomPPFW0VCiSRfdbg8) | [The Lost Fingers](https://open.spotify.com/artist/6sp0EZC05wbJUlY1h8oOUc), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu) | [Everybody \(Electro Swing Mix\)](https://open.spotify.com/album/6pb9CiKO2Bmhfh5DeGoTzS) | 3:39 | 2023-12-01 |  |
 | [Evil](https://open.spotify.com/track/29DlkdM6lBrxTl1NkbTphy) | [The Vaude Villainz](https://open.spotify.com/artist/6oep99RRsuJSNN1Hw5g3sR) | [Voodoo Swing](https://open.spotify.com/album/3KX6WYtBTm0826dMFTplPE) | 3:40 | 2022-10-12 | 2022-11-08 |
 | [Extra Fries](https://open.spotify.com/track/556y7EL1trkqGtevzn8684) | [The Fly Guy Five](https://open.spotify.com/artist/7D5flI7hB9nzew9W2KnKm8) | [Merry\-Go\-Round\-And\-Round](https://open.spotify.com/album/3yXw16nAl3qa0f4egmHdXd) | 2:00 | 2022-09-02 |  |
@@ -143,7 +144,7 @@
 | [Higher and Higher](https://open.spotify.com/track/0o2y64jHIjh6eEaL5NsZlT) | [Atom Smith](https://open.spotify.com/artist/6ExlnA1FV2yvFCVlurHsc2), [Emma Lea](https://open.spotify.com/artist/6DmqHeHxcu5cQicAfz7aDJ) | [Higher and Higher](https://open.spotify.com/album/1KZwYfUMPL5RtVJKLAdqyn) | 3:33 | 2023-09-15 | 2024-06-29 |
 | [Higher Love](https://open.spotify.com/track/0HKfe28JBiCJChmtcYrgmO) | [Odd Chap](https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU) | [Higher Love](https://open.spotify.com/album/5Fhrd3KcpWFwWxCWNY0v0K) | 3:36 | 2020-10-30 | 2022-07-26 |
 | [Hips That Swing](https://open.spotify.com/track/42Vq47dELW8UIwXnIpLhl6) | [11 Acorn Lane](https://open.spotify.com/artist/3D8pAbIPK2aPh9VbWjett5) | [Hips That Swing](https://open.spotify.com/album/7H6S9MScSyaXWG2yS5AVbe) | 2:57 | 2024-03-08 |  |
-| [Hit the Road Jack \- Tech House Mix](https://open.spotify.com/track/5fNIQLOnHUvmK0g2w6OgRm) | [Betty Booom](https://open.spotify.com/artist/0MCy2uUaKHn4iNMAih50Vg), [Dorade](https://open.spotify.com/artist/1IC32zAAG7hcdf8PGjjDNm), [Maskarade](https://open.spotify.com/artist/6xNIw26ydx4yTG1QJ5VZse) | [Hit the Road Jack \(Tech House Mix\)](https://open.spotify.com/album/4fBsTXzwLoKA5y6YMlefYe) | 2:51 | 2023-01-13 |  |
+| [Hit the Road Jack \- Tech House Mix](https://open.spotify.com/track/5fNIQLOnHUvmK0g2w6OgRm) | [Betty Booom](https://open.spotify.com/artist/0MCy2uUaKHn4iNMAih50Vg), [Dorade](https://open.spotify.com/artist/1IC32zAAG7hcdf8PGjjDNm), [Maskarade](https://open.spotify.com/artist/6xNIw26ydx4yTG1QJ5VZse) | [Hit the Road Jack \(Tech House Mix\)](https://open.spotify.com/album/4fBsTXzwLoKA5y6YMlefYe) | 2:51 | 2023-01-13 | 2024-09-14 |
 | [Hold the Night](https://open.spotify.com/track/55KhvVzqoaNEgaRTDmu6Zg) | [Lyre Le Temps](https://open.spotify.com/artist/6jX8VHUJomYSfi5Hobdmmn) | [Lady Swing](https://open.spotify.com/album/1EWFmpi36vurwa8xRzye8E) | 4:20 | 2020-10-30 |  |
 | [Honey Has Spice](https://open.spotify.com/track/1fZEVdJPI8ql1A7ZT3XAmV) | [Swing Republic](https://open.spotify.com/artist/0iOe7zpme8Z6oTs4ffvJjX), [LOUQ](https://open.spotify.com/artist/6D145SsRqHrq77RlAFmeU9) | [Honey Has Spice](https://open.spotify.com/album/5v76FebEkYHb0u8eOSHpgG) | 3:08 | 2024-06-14 |  |
 | [Horny \- Electro Swing Version](https://open.spotify.com/track/5KdJVf0tqurkIDdBEbIJVG) | [Pisk](https://open.spotify.com/artist/2c2wuveILva0R8OYac7lwc), [Nastazya](https://open.spotify.com/artist/1Nzd9pxwORjLCFWOfYxBsy) | [Horny](https://open.spotify.com/album/0LW05xK1vo6bD99JLZV52P) | 3:30 | 2020-10-30 | 2023-03-11 |

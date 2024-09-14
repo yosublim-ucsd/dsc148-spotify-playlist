@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 
 > Illuminating Asian artists everywhere\.  Cover: mxmtoon
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,501 likes - 110 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,511 likes - 110 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 | 43 | [hell](https://open.spotify.com/track/2Iy1MLRtvUuoWJUSRU7CLN) | [tiffi](https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4) | [hell](https://open.spotify.com/album/5DQYlo61IImnDQzqm2HdM3) | 2:30 |
 | 44 | [Room For You](https://open.spotify.com/track/7G2om18d9kfV3aNtNfQkzA) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Room For You](https://open.spotify.com/album/6NbgKBujDaLM236wpFEwOu) | 3:03 |
 | 45 | [Not Today](https://open.spotify.com/track/0CY15iJa0m8MJxOXlOqUtR) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Not Today](https://open.spotify.com/album/2K87oatrnBkym4oCLTgISN) | 3:06 |
-| 46 | [<3 Korean Girls \(feat\. Mega Mongoliad\)](https://open.spotify.com/track/2kJU9c7wKfwE2wdGE7D2As) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL), [Omega Sapien](https://open.spotify.com/artist/46KQM3HJyONaKRTbcfNPlU), [Mega Mongoliad](https://open.spotify.com/artist/6xHMrHVijOcbhaRLAMnCLT), [Lee Suho](https://open.spotify.com/artist/6lu1at7eKmZ4y0hpMbwppj) | [<3 Korean Girls \(feat\. Mega Mongoliad\)](https://open.spotify.com/album/6Mh6eyIWpuby06tcszkj5X) | 2:44 |
+| 46 | [<3 Korean Girls \(feat\. Mega Mongoliad\)](https://open.spotify.com/track/2kJU9c7wKfwE2wdGE7D2As) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL), [Omega Sapien](https://open.spotify.com/artist/46KQM3HJyONaKRTbcfNPlU), [Mega Mongoliad](https://open.spotify.com/artist/6xHMrHVijOcbhaRLAMnCLT), [이수호](https://open.spotify.com/artist/7lBTPuykSETKIYL6JYjSHP) | [<3 Korean Girls \(feat\. Mega Mongoliad\)](https://open.spotify.com/album/6Mh6eyIWpuby06tcszkj5X) | 2:44 |
 | 47 | [All In My Head](https://open.spotify.com/track/4bMFX6Rq6uVtBJvMGW1Oxj) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [All In My Head](https://open.spotify.com/album/5h14HtxnAvQn31J6HM92wX) | 3:21 |
 | 48 | [air ride](https://open.spotify.com/track/2BzLIQZxTl2Kp3rbhwlROS) | [Chanpan](https://open.spotify.com/artist/1fWoiW6kTjrVDoRc4ba3kh) | [air ride + ❥attack](https://open.spotify.com/album/389Zme1SiJEVzjpMKGRrjj) | 2:48 |
 | 49 | [CHLORINE](https://open.spotify.com/track/4km4gNXy7TTPG0e2LT5kYo) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [CHLORINE](https://open.spotify.com/album/3juQIkQykDHqa62bUwVoCf) | 2:22 |

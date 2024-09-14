@@ -1,12 +1,12 @@
 {
   "description": "This is LEGADO 7. The essential tracks, all in one playlist.",
-  "num_followers": 83023,
+  "num_followers": 83050,
   "original_name": "This Is LEGADO 7",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuDdgAAAAACMSHx4y6d2Nda1drAim6cC",
+  "snapshot_id": "ZuIvAAAAAACJKrsOu50mP1+/W/w3zXpX",
   "tracks": [
     {
       "added_at": null,
@@ -263,26 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bravo 57",
-        "url": "https://open.spotify.com/album/355QL2lpxzCH7IX3yQyTvG"
-      },
-      "artists": [
-        {
-          "name": "Los Chavalos De La Perla",
-          "url": "https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO"
-        },
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Bravo 57",
-      "url": "https://open.spotify.com/track/0CD6bWheD449e8x7mB2nBP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pura Manzanita Vol. 3",
         "url": "https://open.spotify.com/album/1FRle61xaVcvcjaD5PvNG7"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 200682,
       "name": "Seguimos M\u00e1s Fuertes",
       "url": "https://open.spotify.com/track/6NxRSjUHkxYsSRpZP6lWMf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bravo 57",
+        "url": "https://open.spotify.com/album/355QL2lpxzCH7IX3yQyTvG"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalos De La Perla",
+          "url": "https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO"
+        },
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Bravo 57",
+      "url": "https://open.spotify.com/track/0CD6bWheD449e8x7mB2nBP"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pura Lumbre",
-        "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 203398,
-      "name": "En El Humaderon",
-      "url": "https://open.spotify.com/track/6BAZbh10ZAypxD3nVpTPsS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hombre Nuevo",
         "url": "https://open.spotify.com/album/0Ug6cCULP4cnBYSC6PfG2d"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 201208,
       "name": "Hombre Nuevo",
       "url": "https://open.spotify.com/track/65ns9zvAO4hekJu8JlIooP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pura Lumbre",
+        "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 203398,
+      "name": "En El Humaderon",
+      "url": "https://open.spotify.com/track/6BAZbh10ZAypxD3nVpTPsS"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legado 7 En Vivo Desde OK Corral",
-        "url": "https://open.spotify.com/album/1bNnwGGHLOIhfx3Qn3bsAP"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 191688,
-      "name": "La Pantera (En Vivo)",
-      "url": "https://open.spotify.com/track/2vSDe7NmcUKevlHqhz59EX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pa Que Se Motiven",
         "url": "https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 144900,
       "name": "La Flechiza",
       "url": "https://open.spotify.com/track/25uKb1KGbYRB0QXepM67Oi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Legado 7 En Vivo Desde OK Corral",
+        "url": "https://open.spotify.com/album/1bNnwGGHLOIhfx3Qn3bsAP"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 191688,
+      "name": "La Pantera (En Vivo)",
+      "url": "https://open.spotify.com/track/2vSDe7NmcUKevlHqhz59EX"
     },
     {
       "added_at": null,

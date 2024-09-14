@@ -529,6 +529,32 @@
     },
     {
       "album": {
+        "name": "HEALING",
+        "url": "https://open.spotify.com/album/7jjKoKreEPJ8eGGz2fdDSH"
+      },
+      "artists": [
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        },
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        },
+        {
+          "name": "Kojo Funds",
+          "url": "https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195423,
+      "name": "ALLOW ME",
+      "url": "https://open.spotify.com/track/5Dam9aujbkNspHvYJf8sfz"
+    },
+    {
+      "album": {
         "name": "Growing Pains (Deluxe)",
         "url": "https://open.spotify.com/album/47EX0L1oFrF9x13M3VhuxG"
       },
@@ -11430,6 +11456,10 @@
         {
           "name": "Lasmid",
           "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        },
+        {
+          "name": "Balloranking",
+          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
         }
       ],
       "date_added": "2024-09-13",

@@ -4,7 +4,7 @@
 
 > Favoritlåtar för lugna och sköna stunder.
 
-122 songs - 6 hr 34 min
+123 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Everywhere, Everything \(with Gracie Abrams\)](https://open.spotify.com/track/4PRdeh2zIyM1pvY4x5luLe) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Everywhere, Everything \(with Gracie Abrams\)](https://open.spotify.com/album/0kOisOp4b7xNUNs7aSMSno) | 4:17 | 2024-06-27 |  |
 | [Feeling Good \- triple j Like A Version](https://open.spotify.com/track/4kY3cAWzzKVn3ZmYfOOJul) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Feeling Good \(triple j Like A Version\)](https://open.spotify.com/album/6YQtpgkFSYr9sF8fTsHbMs) | 3:59 | 2024-06-27 |  |
 | [Fire Escapes](https://open.spotify.com/track/7f8lDyHliy2grjseiVV7JS) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Fire Escapes](https://open.spotify.com/album/7kkPQtRxES08kc1r24BpjK) | 2:50 | 2024-06-27 |  |
+| [First Heartbreak](https://open.spotify.com/track/0IPY0ENbqkDhHKxPK2s357) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [First Heartbreak](https://open.spotify.com/album/1QGOpJ2KxpQ4TryPQfPq9n) | 3:00 | 2024-09-12 |  |
 | [Fragile Thing](https://open.spotify.com/track/6WThsZZ0AaMNm4UkBnMmiB) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Fragile Thing](https://open.spotify.com/album/1DP01efbCq7HrWl9Yj3JDj) | 2:48 | 2024-06-27 | 2024-09-11 |
 | [Free Falling](https://open.spotify.com/track/13d25rq5AA5ppzekwPwtUz) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love](https://open.spotify.com/album/02muSEofPSAk276DCafUPb) | 2:53 | 2024-06-27 |  |
 | [From The Jump \(Duet Version\)](https://open.spotify.com/track/3DZXLbZv5uUMZ1R1nsSMQg) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [From The Jump \(Duet Version\)](https://open.spotify.com/album/1cScP0vTcI9hTtjoYMeosl) | 3:51 | 2024-06-27 |  |
@@ -71,7 +72,7 @@
 | [I Don't Wanna Go Downtown](https://open.spotify.com/track/7tnvzuwBCzMcSqYlLgOyRU) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [WILD CHILD](https://open.spotify.com/album/0BA7J5iUJHMnKrCga3m5pR) | 2:13 | 2024-08-22 |  |
 | [I mina armar](https://open.spotify.com/track/75gZKsfo18ifT3NmAOwFOh) | [Stjärnfamiljen](https://open.spotify.com/artist/2r4Pb3a2tCSI6KNA0juZaz), [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [I mina armar](https://open.spotify.com/album/4ROTWkloGXBZy2KmpC5mIQ) | 3:23 | 2024-09-05 |  |
 | [If You Died Today](https://open.spotify.com/track/5HvkvFJeLOOEbCfHPatHAh) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Where Am I?](https://open.spotify.com/album/5JoRXCu751qGLUiGB56E8X) | 2:42 | 2024-06-27 |  |
-| [If you love me](https://open.spotify.com/track/1u2PALe54ded9KMIhb9chD) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [If you love me](https://open.spotify.com/album/60nVtffyFBqZuhUiHiGPUe) | 3:36 | 2024-06-27 |  |
+| [If you love me](https://open.spotify.com/track/1u2PALe54ded9KMIhb9chD) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [If you love me](https://open.spotify.com/album/60nVtffyFBqZuhUiHiGPUe) | 3:36 | 2024-06-27 | 2024-09-14 |
 | [In A Perfect World \(with Julia Michaels\)](https://open.spotify.com/track/2ibGdhv3nTO89VN9KR7N2H) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [In A Perfect World \(with Julia Michaels\)](https://open.spotify.com/album/2OFiWC4MyJh72imvTDV3gq) | 3:11 | 2024-06-27 |  |
 | [Inatt \(Inget Stoppar Oss Nu\) \- Live in Church](https://open.spotify.com/track/4G8dAXp2XdDch2cVILY6IB) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [Ellen Krauss – Acoustic Versions](https://open.spotify.com/album/2ctdUiXbecnKcVxyMLHzv3) | 2:48 | 2024-06-27 |  |
 | [It Must Have Been Love \(Originated from Roxette\)](https://open.spotify.com/track/5107Vxr0Cz7tNWf5lY2n6O) | [Ella Tiritiello](https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp) | [It Must Have Been Love \(Originated from Roxette\)](https://open.spotify.com/album/2k9ErKiTKBZZEOszz2g49C) | 3:24 | 2024-08-08 |  |

@@ -9844,7 +9844,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 155294,
       "name": "Motoka",
       "url": "https://open.spotify.com/track/0NoOGci3olHyTPAPUfR0Bn"
@@ -10264,6 +10264,32 @@
       "duration_ms": 193768,
       "name": "Nem Me Beijou",
       "url": "https://open.spotify.com/track/3b6XOBJg8qql5u5qwnRXK5"
+    },
+    {
+      "album": {
+        "name": "Nem Me Convidou",
+        "url": "https://open.spotify.com/album/55TjH29MJyGdJ9K62fMqyz"
+      },
+      "artists": [
+        {
+          "name": "Zero Pacceli",
+          "url": "https://open.spotify.com/artist/62sKdgq98PB8klSTM8Qvaw"
+        },
+        {
+          "name": "Carla Sol",
+          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
+        },
+        {
+          "name": "Bi\u00e9",
+          "url": "https://open.spotify.com/artist/73RAtZuq0QHqk1iNuwQz8m"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127433,
+      "name": "Nem Me Convidou",
+      "url": "https://open.spotify.com/track/21e9s5DxDb1JepKDg0tsOC"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
-  "description": "This is Post Malone. The essential tracks, all in one playlist.",
-  "num_followers": 2720025,
+  "description": "This Is Post Malone. Los temas esenciales, todos en una lista.",
+  "num_followers": 2720438,
   "original_name": "This Is Post Malone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuDdgAAAAADahBzGtQUScZjPlTJ5pQq+",
+  "snapshot_id": "ZuIvAAAAAACsVmJyvWWXJfiQpbCawmzM",
   "tracks": [
     {
       "added_at": null,
@@ -27,26 +27,6 @@
       "duration_ms": 178205,
       "name": "I Had Some Help (Feat. Morgan Wallen)",
       "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "F-1 Trillion",
-        "url": "https://open.spotify.com/album/3gHZ4w03gbuZtGTEwztrtw"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 204411,
-      "name": "California Sober (Feat. Chris Stapleton)",
-      "url": "https://open.spotify.com/track/2BdsMotmIfPUopJoRQzeXN"
     },
     {
       "added_at": null,

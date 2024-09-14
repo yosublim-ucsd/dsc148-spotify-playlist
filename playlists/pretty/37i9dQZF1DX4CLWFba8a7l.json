@@ -1,6 +1,6 @@
 {
   "description": "The home of Australian music. Cover: Royel Otis",
-  "num_followers": 121458,
+  "num_followers": 121467,
   "original_name": "The Local List",
   "owner": {
     "name": "Spotify",
@@ -321,6 +321,22 @@
       "url": "https://open.spotify.com/track/1K1KcmJgKaeqnsisQnhyE1"
     },
     {
+      "added_at": "2024-09-05 14:00:00",
+      "album": {
+        "name": "PRATTS & PAIN",
+        "url": "https://open.spotify.com/album/7IoPY9MnsHUoG5Emfp3R6q"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 212133,
+      "name": "Til The Morning",
+      "url": "https://open.spotify.com/track/6WqZzEA3Q24gnhQxHYX3Dg"
+    },
+    {
       "added_at": "2024-08-30 00:24:34",
       "album": {
         "name": "Ask That God",
@@ -351,22 +367,6 @@
       "duration_ms": 192647,
       "name": "SORRY",
       "url": "https://open.spotify.com/track/5icZ87FcdUCMYAp9VXWdd9"
-    },
-    {
-      "added_at": "2024-09-05 14:00:00",
-      "album": {
-        "name": "PRATTS & PAIN",
-        "url": "https://open.spotify.com/album/7IoPY9MnsHUoG5Emfp3R6q"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 212133,
-      "name": "Til The Morning",
-      "url": "https://open.spotify.com/track/6WqZzEA3Q24gnhQxHYX3Dg"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -455,6 +455,22 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
+        "name": "HEAVEN",
+        "url": "https://open.spotify.com/album/3oM4p4ItqZZnvLXgzPkJ4h"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 174595,
+      "name": "HEAVEN",
+      "url": "https://open.spotify.com/track/6f2nWEm8aqMxKZtlxsyxWD"
+    },
+    {
+      "added_at": "2024-08-30 00:24:34",
+      "album": {
         "name": "PRATTS & PAIN",
         "url": "https://open.spotify.com/album/2cNAVNktNuv4fzSLJCuoDE"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 201000,
       "name": "Next Exit",
       "url": "https://open.spotify.com/track/0xkSfBYxRMTLgrinRJlzfz"
-    },
-    {
-      "added_at": "2024-08-30 00:24:34",
-      "album": {
-        "name": "HEAVEN",
-        "url": "https://open.spotify.com/album/3oM4p4ItqZZnvLXgzPkJ4h"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 174595,
-      "name": "HEAVEN",
-      "url": "https://open.spotify.com/track/6f2nWEm8aqMxKZtlxsyxWD"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
-        "name": "Zorb",
-        "url": "https://open.spotify.com/album/6kWMa5wuK9Jw1gtlHJaXRz"
-      },
-      "artists": [
-        {
-          "name": "Sycco",
-          "url": "https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0"
-        }
-      ],
-      "duration_ms": 148689,
-      "name": "Meant To Be",
-      "url": "https://open.spotify.com/track/3pngSkv9Q6PhzKZttKmCqc"
-    },
-    {
-      "added_at": "2024-08-30 00:24:34",
-      "album": {
         "name": "24/7",
         "url": "https://open.spotify.com/album/3fdSaSpVjuR85yKGiGivd3"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 150000,
       "name": "24/7",
       "url": "https://open.spotify.com/track/2QhqQtwYBua9polldlrK8W"
+    },
+    {
+      "added_at": "2024-08-30 00:24:34",
+      "album": {
+        "name": "Zorb",
+        "url": "https://open.spotify.com/album/6kWMa5wuK9Jw1gtlHJaXRz"
+      },
+      "artists": [
+        {
+          "name": "Sycco",
+          "url": "https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0"
+        }
+      ],
+      "duration_ms": 148689,
+      "name": "Meant To Be",
+      "url": "https://open.spotify.com/track/3pngSkv9Q6PhzKZttKmCqc"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
-        "name": "FRENEMIES",
-        "url": "https://open.spotify.com/album/23J0ze8Ram84QML5PlboAz"
-      },
-      "artists": [
-        {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        }
-      ],
-      "duration_ms": 190264,
-      "name": "FRENEMIES",
-      "url": "https://open.spotify.com/track/6I7W8UTxONZaAYfeUb0AzE"
-    },
-    {
-      "added_at": "2024-08-30 00:24:34",
-      "album": {
         "name": "And We",
         "url": "https://open.spotify.com/album/1LsthOymdj0WByKPShsB3W"
       },
@@ -959,18 +943,18 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
-        "name": "Field of Vision",
-        "url": "https://open.spotify.com/album/1WzXtuf2SaxT3CsPFrf8d0"
+        "name": "FRENEMIES",
+        "url": "https://open.spotify.com/album/23J0ze8Ram84QML5PlboAz"
       },
       "artists": [
         {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
         }
       ],
-      "duration_ms": 215235,
-      "name": "Field of Vision",
-      "url": "https://open.spotify.com/track/1DXFQFDYeOW3cZPam0LXTd"
+      "duration_ms": 190264,
+      "name": "FRENEMIES",
+      "url": "https://open.spotify.com/track/6I7W8UTxONZaAYfeUb0AzE"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -987,6 +971,22 @@
       "duration_ms": 153726,
       "name": "Snack",
       "url": "https://open.spotify.com/track/1foj3wbUlhrF4CVu3IBpFY"
+    },
+    {
+      "added_at": "2024-08-30 00:24:34",
+      "album": {
+        "name": "Field of Vision",
+        "url": "https://open.spotify.com/album/1WzXtuf2SaxT3CsPFrf8d0"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 215235,
+      "name": "Field of Vision",
+      "url": "https://open.spotify.com/track/1DXFQFDYeOW3cZPam0LXTd"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -1091,6 +1091,46 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
+        "name": "Good Girl",
+        "url": "https://open.spotify.com/album/15SbOZBDcS9JVtxaiOnpVd"
+      },
+      "artists": [
+        {
+          "name": "Jerome Farah",
+          "url": "https://open.spotify.com/artist/4a1J1CCs8vldNEl3MPsBPw"
+        }
+      ],
+      "duration_ms": 232978,
+      "name": "Good Girl",
+      "url": "https://open.spotify.com/track/7CFflcTpnR5RGtxnSHlMPk"
+    },
+    {
+      "added_at": "2024-09-05 14:00:00",
+      "album": {
+        "name": "Archaeology",
+        "url": "https://open.spotify.com/album/1CM763zbcbSqqnP0yNKDwM"
+      },
+      "artists": [
+        {
+          "name": "Kira Divine",
+          "url": "https://open.spotify.com/artist/4AFUtRGh4gJb1mWNTtN0Ha"
+        },
+        {
+          "name": "Marques Toliver",
+          "url": "https://open.spotify.com/artist/5zrD2ZqM6SB5XRJJwTroAu"
+        },
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        }
+      ],
+      "duration_ms": 252905,
+      "name": "Archaeology",
+      "url": "https://open.spotify.com/track/5cobXWU7WBgPCg7Ct9JHZh"
+    },
+    {
+      "added_at": "2024-08-30 00:24:34",
+      "album": {
         "name": "What If",
         "url": "https://open.spotify.com/album/2KLrMp7xcmaZ6KnJpIzJkG"
       },
@@ -1123,18 +1163,18 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
-        "name": "Good Girl",
-        "url": "https://open.spotify.com/album/15SbOZBDcS9JVtxaiOnpVd"
+        "name": "Blood on the Stage",
+        "url": "https://open.spotify.com/album/2iFM1USbtPeU65SyeSB9Qp"
       },
       "artists": [
         {
-          "name": "Jerome Farah",
-          "url": "https://open.spotify.com/artist/4a1J1CCs8vldNEl3MPsBPw"
+          "name": "The Cat Empire",
+          "url": "https://open.spotify.com/artist/023YMawCG3OvACmRjWxLWC"
         }
       ],
-      "duration_ms": 232978,
-      "name": "Good Girl",
-      "url": "https://open.spotify.com/track/7CFflcTpnR5RGtxnSHlMPk"
+      "duration_ms": 234800,
+      "name": "Blood on the Stage",
+      "url": "https://open.spotify.com/track/2NwaHtHuC2hP8ywtEAzOQM"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -1155,58 +1195,18 @@
     {
       "added_at": "2024-09-05 14:00:00",
       "album": {
-        "name": "Archaeology",
-        "url": "https://open.spotify.com/album/1CM763zbcbSqqnP0yNKDwM"
+        "name": "The Second Act",
+        "url": "https://open.spotify.com/album/5n1BwgJrmwAUKYNbg7RzFr"
       },
       "artists": [
         {
-          "name": "Kira Divine",
-          "url": "https://open.spotify.com/artist/4AFUtRGh4gJb1mWNTtN0Ha"
-        },
-        {
-          "name": "Marques Toliver",
-          "url": "https://open.spotify.com/artist/5zrD2ZqM6SB5XRJJwTroAu"
-        },
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+          "name": "Missy Higgins",
+          "url": "https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf"
         }
       ],
-      "duration_ms": 252905,
-      "name": "Archaeology",
-      "url": "https://open.spotify.com/track/5cobXWU7WBgPCg7Ct9JHZh"
-    },
-    {
-      "added_at": "2024-08-30 00:24:34",
-      "album": {
-        "name": "Blood on the Stage",
-        "url": "https://open.spotify.com/album/2iFM1USbtPeU65SyeSB9Qp"
-      },
-      "artists": [
-        {
-          "name": "The Cat Empire",
-          "url": "https://open.spotify.com/artist/023YMawCG3OvACmRjWxLWC"
-        }
-      ],
-      "duration_ms": 234800,
-      "name": "Blood on the Stage",
-      "url": "https://open.spotify.com/track/2NwaHtHuC2hP8ywtEAzOQM"
-    },
-    {
-      "added_at": "2024-08-30 00:24:34",
-      "album": {
-        "name": "Wonderful",
-        "url": "https://open.spotify.com/album/3BwgvjyD1pDNyj1VLW0dBw"
-      },
-      "artists": [
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        }
-      ],
-      "duration_ms": 226689,
-      "name": "Wonderful",
-      "url": "https://open.spotify.com/track/3Jm4XJix6nkGiY3IY8mPyu"
+      "duration_ms": 195307,
+      "name": "Craters",
+      "url": "https://open.spotify.com/track/1iQsw5gNlJejMG210AFFZx"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
+        "name": "Wonderful",
+        "url": "https://open.spotify.com/album/3BwgvjyD1pDNyj1VLW0dBw"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "duration_ms": 226689,
+      "name": "Wonderful",
+      "url": "https://open.spotify.com/track/3Jm4XJix6nkGiY3IY8mPyu"
+    },
+    {
+      "added_at": "2024-08-30 00:24:34",
+      "album": {
         "name": "Heading For The Door",
         "url": "https://open.spotify.com/album/5E864zl3t7NMlv2iXVZ3cX"
       },
@@ -1239,6 +1255,22 @@
       "duration_ms": 227200,
       "name": "Heading For The Door",
       "url": "https://open.spotify.com/track/0IvBk9CGkWu6U91u9t7nXW"
+    },
+    {
+      "added_at": "2024-09-05 14:00:00",
+      "album": {
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/5VJXm5gzAYC6ngBBHo9uhS"
+      },
+      "artists": [
+        {
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+        }
+      ],
+      "duration_ms": 213258,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/7cSgw8IYwl1ICzc92ROGVB"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -1255,38 +1287,6 @@
       "duration_ms": 155322,
       "name": "Nobody's Baby",
       "url": "https://open.spotify.com/track/1Hb6xEZ9eEmalnpNoPTwcc"
-    },
-    {
-      "added_at": "2024-09-05 14:00:00",
-      "album": {
-        "name": "The Second Act",
-        "url": "https://open.spotify.com/album/5n1BwgJrmwAUKYNbg7RzFr"
-      },
-      "artists": [
-        {
-          "name": "Missy Higgins",
-          "url": "https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf"
-        }
-      ],
-      "duration_ms": 195307,
-      "name": "Craters",
-      "url": "https://open.spotify.com/track/1iQsw5gNlJejMG210AFFZx"
-    },
-    {
-      "added_at": "2024-08-30 00:24:34",
-      "album": {
-        "name": "I Wish I Never Loved You",
-        "url": "https://open.spotify.com/album/51JOrvXnoXJHBNBgHlntJA"
-      },
-      "artists": [
-        {
-          "name": "Le Shiv",
-          "url": "https://open.spotify.com/artist/5G1xjxkXFx4zouU8Mr9Ua6"
-        }
-      ],
-      "duration_ms": 223120,
-      "name": "I Wish I Never Loved You",
-      "url": "https://open.spotify.com/track/349kMKxDtv5bkXPoWQTi4S"
     }
   ],
   "unique_name": "The Local List",

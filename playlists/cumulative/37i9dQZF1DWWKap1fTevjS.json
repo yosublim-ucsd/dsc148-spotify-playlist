@@ -2327,6 +2327,24 @@
     },
     {
       "album": {
+        "name": "Deep Under",
+        "url": "https://open.spotify.com/album/1aKq8VxKXbd53QhabHk8r0"
+      },
+      "artists": [
+        {
+          "name": "Starstrum",
+          "url": "https://open.spotify.com/artist/1UeSZoTyfTgvI34TuJIjJ3"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149750,
+      "name": "Deep Under",
+      "url": "https://open.spotify.com/track/4nEprHHwdUBLPprFIZD18B"
+    },
+    {
+      "album": {
         "name": "Definite",
         "url": "https://open.spotify.com/album/4lkKRBJ6o0mrMgh1Wcn2AV"
       },
@@ -2338,7 +2356,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 165392,
       "name": "Definite",
       "url": "https://open.spotify.com/track/5yCIRoiQ4DatjmySLxm20e"
@@ -2975,6 +2993,24 @@
     },
     {
       "album": {
+        "name": "Edenora",
+        "url": "https://open.spotify.com/album/3UlTqukVhmL8tmMjFosnL9"
+      },
+      "artists": [
+        {
+          "name": "Armon\u00eda Astral",
+          "url": "https://open.spotify.com/artist/4SFy2zTDkBKrQ8vzuINBVf"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Edenora",
+      "url": "https://open.spotify.com/track/7owcWgxVqnwUzRzhJQG920"
+    },
+    {
+      "album": {
         "name": "Edio",
         "url": "https://open.spotify.com/album/1XgPv3oY99SZ2ZQ2XPROkb"
       },
@@ -3058,7 +3094,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 195666,
       "name": "Embodied Awareness",
       "url": "https://open.spotify.com/track/2Qp9Ysar36Ak7e8Coi5LST"
@@ -6374,7 +6410,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 181318,
       "name": "Nightfall",
       "url": "https://open.spotify.com/track/4S8VTYjZyrd9qQT0QcuVeK"
@@ -6554,7 +6590,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 198552,
       "name": "Northern Vision",
       "url": "https://open.spotify.com/track/5YOZJuXBLkMiOakT0xi0CA"
@@ -8844,7 +8880,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 195166,
       "name": "Sleep Utopi",
       "url": "https://open.spotify.com/track/6tCG4bR0XYZuDyLHk3m497"
@@ -10813,6 +10849,24 @@
     },
     {
       "album": {
+        "name": "Visuals",
+        "url": "https://open.spotify.com/album/2R9pnIgNpXVJrZWWDXEgyi"
+      },
+      "artists": [
+        {
+          "name": "Nova Issue",
+          "url": "https://open.spotify.com/artist/2JG4r9snKhqze9RGKeGEvh"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178600,
+      "name": "Visuals",
+      "url": "https://open.spotify.com/track/10lYWPngF6IfK1WRXWNRAV"
+    },
+    {
+      "album": {
         "name": "Vita Tranquilla",
         "url": "https://open.spotify.com/album/3ZsMmRjVpTqGWjWjhdZxcL"
       },
@@ -11220,7 +11274,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 170443,
       "name": "Zolpidem in Sky",
       "url": "https://open.spotify.com/track/7BSpoY4Xf0UkOOIWGWxl2c"

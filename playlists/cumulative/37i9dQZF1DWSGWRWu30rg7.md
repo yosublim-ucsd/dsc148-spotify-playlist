@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover:  Clara Riva
 
-3,853 songs - 9 day 20 hr 32 min
+3,854 songs - 9 day 20 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3018,6 +3018,7 @@
 | [Seperti Aku](https://open.spotify.com/track/3BLENiqtq4btdRuWhMiQz9) | [Sle Jhon](https://open.spotify.com/artist/6Y61RFIaulJFP4nFT1IUvq) | [Oleh Waktu](https://open.spotify.com/album/5kuGoME5godB1S0GSkQszK) | 4:48 | 2024-05-16 | 2024-06-07 |
 | [Seperti Aku](https://open.spotify.com/track/5BSUV6lPFFXNi28lwL5nM9) | [Willy Anggawinata](https://open.spotify.com/artist/6KZL22Io61OAjmyPw2tPor) | [Seperti Aku](https://open.spotify.com/album/3NQbPDZYRAJp88Jjj2MfZV) | 3:59 | 2022-05-12 | 2022-05-27 |
 | [Seperti Babi](https://open.spotify.com/track/2db8oXI1vxpegnQwRqiPGb) | [Caessaria](https://open.spotify.com/artist/4Lqjj5kam5AMYcZvdkKTvd) | [Halfstoria](https://open.spotify.com/album/65pZUsnAln7TSaFwegSEzD) | 4:00 | 2022-08-11 | 2022-09-02 |
+| [Seperti Hujan](https://open.spotify.com/track/0LtSj7QihnszyMSIuqpH3C) | [Pringgo](https://open.spotify.com/artist/4M0E2npFl5HMq0g8vFYfpc) | [Bejana](https://open.spotify.com/album/2fhgeTulV7axpiyy6emXaP) | 3:54 | 2024-09-13 |  |
 | [Seperti Kemarin](https://open.spotify.com/track/4n30m5qvT5Io6O4dnzq9y4) | [Purnama and The Rolled Pumpkins](https://open.spotify.com/artist/4VVoapnSi6Ctp6XGHDeyoI) | [Seperti Kemarin](https://open.spotify.com/album/7256P1b9bcN2kSaYbxjFH6) | 3:30 | 2022-09-15 | 2022-09-30 |
 | [seperti laut tenang tanpa penenang](https://open.spotify.com/track/3P3gYF6Xi28yDxm9r5XJm9) | [Goodenough](https://open.spotify.com/artist/72x4pwJGCLEYunOidTNxWB) | [seperti laut tenang tanpa penenang](https://open.spotify.com/album/563nG1sgqDE0SktefeKm5J) | 3:18 | 2023-03-23 | 2023-04-07 |
 | [Seperti Mereka](https://open.spotify.com/track/7GVQ10FH50ar1H8o3JuDlj) | [Tiara](https://open.spotify.com/artist/0wmCMW78BT8rCZsNvEOYbe) | [Seperti Mereka](https://open.spotify.com/album/0cEnUTSYKC51N6ccdSsFbK) | 3:43 | 2022-01-06 | 2022-01-21 |

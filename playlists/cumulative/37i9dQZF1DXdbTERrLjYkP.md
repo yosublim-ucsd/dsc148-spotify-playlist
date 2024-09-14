@@ -2,9 +2,9 @@
 
 ### [Next Gen Singer\-Songwriters](https://open.spotify.com/playlist/37i9dQZF1DXdbTERrLjYkP)
 
-> Discover the next wave of talent writing their own songs\. Cover: SOFIA ISELLA
+> Discover the next wave of talent writing their own songs\. Cover: Rhys
 
-731 songs - 1 day 14 hr 57 min
+732 songs - 1 day 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,6 +279,7 @@
 | [Headlights](https://open.spotify.com/track/0mzeEr7kHYzVPWF6iTIuwE) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Headlights](https://open.spotify.com/album/2iZdpmmkZ1FmQh179iOc9z) | 2:53 | 2022-09-02 | 2023-01-21 |
 | [Hear Me Now](https://open.spotify.com/track/5cXcykFgbrLw1nwpSYjVJF) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Lucky](https://open.spotify.com/album/7BXf5VfNpYVYHMc4bz0tzo) | 3:44 | 2023-09-01 | 2023-12-14 |
 | [Heartbreak In Heaven](https://open.spotify.com/track/3i3I7HyCJ3UxdJTY5LTaWs) | [Gabi Sklar](https://open.spotify.com/artist/72K82D7yyKc8TZ45IZvPrj) | [Heartbreak In Heaven](https://open.spotify.com/album/4SUAVzKxDfY7XcoZ5BPMC3) | 2:21 | 2024-03-08 | 2024-08-31 |
+| [Heathrow](https://open.spotify.com/track/0iNlcioLpaFNEpL0OkN2oa) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Heathrow](https://open.spotify.com/album/4RGF1g5xJjfcd809OFyN4F) | 3:55 | 2024-09-13 |  |
 | [hell yeah](https://open.spotify.com/track/254mJnXam0VoBPKY4toiM3) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [hell yeah](https://open.spotify.com/album/4qXrPD4TRtgX0CKdRpBRMN) | 2:39 | 2022-09-09 | 2022-11-12 |
 | [Hello Florence, How Are You?](https://open.spotify.com/track/0WII8HWOY0oYYpVNscWPDo) | [Florence Arman](https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15) | [Hello Florence, How Are You?](https://open.spotify.com/album/3GVON6N4X0E395w9Ai1cbc) | 4:15 | 2023-01-20 | 2023-05-13 |
 | [her](https://open.spotify.com/track/3gBF1gc9Fo6SatKWAOoGjY) | [Lili\-Ann De Francesco](https://open.spotify.com/artist/5oWPqJjzXP3A0RCsASbEbA) | [inhale \- the complete story](https://open.spotify.com/album/4NyjSQ5VF9sSd39Jg2g3vz) | 3:45 | 2023-12-22 | 2024-08-17 |
@@ -622,7 +623,7 @@
 | [Sweet Emotion](https://open.spotify.com/track/1D6wWuhDf19IsCFDOR9rlP) | [Diego Gonzalez](https://open.spotify.com/artist/60uj5nOT1TpQeBRo4ds9fd) | [Sweet Emotion](https://open.spotify.com/album/2lEKDGHS0zidrlmckGqmB0) | 3:08 | 2024-07-26 |  |
 | [Talk Too Much](https://open.spotify.com/track/1ekAgx1qOdnVoSlmkHghKq) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 3:16 | 2023-09-01 | 2023-11-11 |
 | [Talk Too Much](https://open.spotify.com/track/7haim7EewbN5RnByO5GtWV) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Talk Too Much](https://open.spotify.com/album/5rsy1T9egnzYvl4wpfyXPw) | 3:16 | 2023-07-14 | 2023-09-05 |
-| [talking in your sleep](https://open.spotify.com/track/3FpztYu0GOJH1txtKKRnKw) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [From the Next Room](https://open.spotify.com/album/54IqM9oTczHCMX8sljk0AY) | 3:10 | 2024-02-23 |  |
+| [talking in your sleep](https://open.spotify.com/track/3FpztYu0GOJH1txtKKRnKw) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [From the Next Room](https://open.spotify.com/album/54IqM9oTczHCMX8sljk0AY) | 3:10 | 2024-02-23 | 2024-09-14 |
 | [Tangerine](https://open.spotify.com/track/6xdB35eP1oltwaPgtwZ9tP) | [Caity Krone](https://open.spotify.com/artist/0qMLMrYSgSJBquDGCOMERs) | [Nose Job](https://open.spotify.com/album/2uOQTwIOf0IJecVoNYdFAi) | 4:31 | 2024-05-24 |  |
 | [Teenage Mona Lisa](https://open.spotify.com/track/4CnA1w7WulFrRPehCWDULz) | [Alfie Castley](https://open.spotify.com/artist/4t5uGGNiFjujYEEyVVDEwc) | [Teenage Mona Lisa](https://open.spotify.com/album/35Sb1Pi7OBPPWPyyGf9N6d) | 3:18 | 2022-02-16 | 2022-05-14 |
 | [Tell You More](https://open.spotify.com/track/73Ezf1bUEs8UUFKB1uQDd3) | [Will Troy](https://open.spotify.com/artist/2D9TZalGr1SmjkGguD6Jy1) | [Tell You More](https://open.spotify.com/album/3UY4wNYSfoWTbVEjGpGcud) | 3:17 | 2023-11-24 | 2024-03-02 |

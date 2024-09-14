@@ -1,12 +1,12 @@
 {
   "description": "This is N\u00edvea Soares. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 61336,
+  "num_followers": 61343,
   "original_name": "This Is N\u00edvea Soares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuDdgAAAAADUu6wNwOxHCBo/AG7+a62v",
+  "snapshot_id": "ZuIvAAAAAADCJIrVBHNshCB3dYjYZI++",
   "tracks": [
     {
       "added_at": null,
@@ -363,6 +363,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "N\u00e3o Temerei Jamais (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1LvLWCZMmMLYFzMct7BmO7"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        },
+        {
+          "name": "Marcela Tais",
+          "url": "https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt"
+        }
+      ],
+      "duration_ms": 352037,
+      "name": "N\u00e3o Temerei Jamais - Ao Vivo",
+      "url": "https://open.spotify.com/track/7omZ8f0zmTS8ywEojfODq7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mem\u00f3rias do Cora\u00e7\u00e3o - Deluxe (Ao Vivo)",
         "url": "https://open.spotify.com/album/76HKXyRoHi007rh7EISKFl"
       },
@@ -451,26 +471,6 @@
       "duration_ms": 384876,
       "name": "Preciso de Ti - Ao Vivo",
       "url": "https://open.spotify.com/track/3bYTEQ6PyFCJTq3FcohJYQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "N\u00e3o Temerei Jamais (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1LvLWCZMmMLYFzMct7BmO7"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        },
-        {
-          "name": "Marcela Tais",
-          "url": "https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt"
-        }
-      ],
-      "duration_ms": 352037,
-      "name": "N\u00e3o Temerei Jamais - Ao Vivo",
-      "url": "https://open.spotify.com/track/7omZ8f0zmTS8ywEojfODq7"
     },
     {
       "added_at": null,
@@ -991,22 +991,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Acende o Fogo / Eu Me Prostro (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1nwCVNk24Z3iKotK788Dvw"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 508432,
-      "name": "Acende o Fogo / Eu Me Prostro - Ao Vivo",
-      "url": "https://open.spotify.com/track/19XUB0kiYgNVx0RRx8sdls"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "O Que Tua Gl\u00f3ria Fez Comigo (Ao Vivo)",
         "url": "https://open.spotify.com/album/5J0V7iimGhQGcBWIXV6t7w"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 538285,
       "name": "O Que Tua Gl\u00f3ria Fez Comigo - Ao Vivo",
       "url": "https://open.spotify.com/track/1eZ6MiWjHmwbbcGpAetCiO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Acende o Fogo / Eu Me Prostro (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1nwCVNk24Z3iKotK788Dvw"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 508432,
+      "name": "Acende o Fogo / Eu Me Prostro - Ao Vivo",
+      "url": "https://open.spotify.com/track/19XUB0kiYgNVx0RRx8sdls"
     },
     {
       "added_at": null,

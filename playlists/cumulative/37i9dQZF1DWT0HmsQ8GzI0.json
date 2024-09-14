@@ -891,6 +891,24 @@
     },
     {
       "album": {
+        "name": "Hajlik",
+        "url": "https://open.spotify.com/album/4OFm13TLzXmTBopzGELucF"
+      },
+      "artists": [
+        {
+          "name": "Hang\u00e1csi M\u00e1rton",
+          "url": "https://open.spotify.com/artist/4JyE85JOW4QRzvUaJqQciU"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155843,
+      "name": "Hajlik",
+      "url": "https://open.spotify.com/track/278dVhJXgN2PBa42IrGhoS"
+    },
+    {
+      "album": {
         "name": "Hex",
         "url": "https://open.spotify.com/album/0xuiWphJRKgRJgeQmaKMgV"
       },
@@ -1102,6 +1120,24 @@
       "duration_ms": 166000,
       "name": "kavicsok k\u00f6vek",
       "url": "https://open.spotify.com/track/0awKUATA6B9xzGvnLQn3k7"
+    },
+    {
+      "album": {
+        "name": "SZ\u00d3LNI KELL",
+        "url": "https://open.spotify.com/album/47JjFF1Xmb9vnGFSLbTV1l"
+      },
+      "artists": [
+        {
+          "name": "HIPERKARMA",
+          "url": "https://open.spotify.com/artist/3I4YFS0OzOA9yDOu0hcGqs"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223386,
+      "name": "KICSIKE F\u00c9NY",
+      "url": "https://open.spotify.com/track/0zSJD8hIVRARlAXr6zLnWb"
     },
     {
       "album": {
@@ -1647,6 +1683,24 @@
     },
     {
       "album": {
+        "name": "plusz egy (+1)",
+        "url": "https://open.spotify.com/album/2BBLfh0N2WWcBo7G7KVHgv"
+      },
+      "artists": [
+        {
+          "name": "Carson Coma",
+          "url": "https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209449,
+      "name": "plusz egy (+1)",
+      "url": "https://open.spotify.com/track/1ibXEymBvy9ZX8alE2dFoh"
+    },
+    {
+      "album": {
         "name": "ENSO",
         "url": "https://open.spotify.com/album/2Zm6SG1MzkQmTRy2ZDekyH"
       },
@@ -1746,6 +1800,36 @@
       "duration_ms": 202400,
       "name": "RENDEZ\u0150I V\u00c1LTOZAT",
       "url": "https://open.spotify.com/track/4TU5svg9eXvk6USHEZJn84"
+    },
+    {
+      "album": {
+        "name": "RIDE WITH ME",
+        "url": "https://open.spotify.com/album/5uok6ExaO6Okbbfi1XzuhZ"
+      },
+      "artists": [
+        {
+          "name": "WaTa",
+          "url": "https://open.spotify.com/artist/0y4UlAL3MRNRaPWGzZrmT0"
+        },
+        {
+          "name": "OIEE",
+          "url": "https://open.spotify.com/artist/2ns47ulOmmJQtO0HMIIMUY"
+        },
+        {
+          "name": "Musa.s",
+          "url": "https://open.spotify.com/artist/4aU1TMiDQubjKKxL8pKxRA"
+        },
+        {
+          "name": "Lev Toystore",
+          "url": "https://open.spotify.com/artist/1r8cqvnONBnWG0Jhr1ZjbM"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146785,
+      "name": "RIDE WITH ME",
+      "url": "https://open.spotify.com/track/5gqY8NH9nSHF8sZznBD3we"
     },
     {
       "album": {
@@ -2036,7 +2120,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 156000,
       "name": "sziv\u00e1rv\u00e1ny v\u00e9g\u00e9n",
       "url": "https://open.spotify.com/track/69uDRZ64aDn32VPcnPjWjv"
@@ -2094,7 +2178,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 309252,
       "name": "TIK-TAK",
       "url": "https://open.spotify.com/track/4QsWsbAEdYMsT8Z0JlTRVK"
@@ -2264,7 +2348,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 184736,
       "name": "Waves",
       "url": "https://open.spotify.com/track/1YNM74kZ4pYSGim8jfw2sh"
@@ -2326,7 +2410,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 166279,
       "name": "Younger",
       "url": "https://open.spotify.com/track/7jUm0yaI6WZF37ChaiQXvS"

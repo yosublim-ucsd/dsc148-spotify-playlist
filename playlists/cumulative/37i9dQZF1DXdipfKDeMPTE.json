@@ -830,7 +830,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 114000,
       "name": "Ayways",
       "url": "https://open.spotify.com/track/1divZI9KtgP416oHCwBJE1"
@@ -1202,7 +1202,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 125076,
       "name": "bookworn",
       "url": "https://open.spotify.com/track/6tnQHLy3sz7QNLBsYCpDnn"
@@ -1372,7 +1372,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 69176,
       "name": "Brothers",
       "url": "https://open.spotify.com/track/4p9iRQ7wV7ot02Ql4P6VEG"
@@ -1918,7 +1918,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 164307,
       "name": "City Lights",
       "url": "https://open.spotify.com/track/2IpryWxpH26b0oLGvZmWOd"
@@ -2912,6 +2912,32 @@
       "duration_ms": 122206,
       "name": "Drifting",
       "url": "https://open.spotify.com/track/1wr8Q5WOf1VHvIW2XlJ6WS"
+    },
+    {
+      "album": {
+        "name": "Drifting",
+        "url": "https://open.spotify.com/album/0ti1e5rTEzrzxqR5lXftEg"
+      },
+      "artists": [
+        {
+          "name": "Skeptika",
+          "url": "https://open.spotify.com/artist/34yxdeDhSnUVmM0DZcExpT"
+        },
+        {
+          "name": "wavvzz",
+          "url": "https://open.spotify.com/artist/33tg0cH66APhaWirPjOXEu"
+        },
+        {
+          "name": "Baen Mow",
+          "url": "https://open.spotify.com/artist/2mt3wR9B4tg9KXvICFYhqM"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129156,
+      "name": "Drifting",
+      "url": "https://open.spotify.com/track/0CCvZTfKcwHvC1oiNqfxrJ"
     },
     {
       "album": {
@@ -4018,7 +4044,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 127624,
       "name": "Granites",
       "url": "https://open.spotify.com/track/4DE0NmLlFzhVZPnvkhaHDl"
@@ -4090,7 +4116,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 110142,
       "name": "Habits",
       "url": "https://open.spotify.com/track/3p2MNFiiEni69ydO5fmEHI"
@@ -4166,6 +4192,24 @@
       "duration_ms": 163333,
       "name": "Haute Dreams",
       "url": "https://open.spotify.com/track/38TURpPXTyCdAOaNrUJXdm"
+    },
+    {
+      "album": {
+        "name": "Hazy",
+        "url": "https://open.spotify.com/album/7cKu4mdSXXN5f4LRBI2i9G"
+      },
+      "artists": [
+        {
+          "name": "Sihu",
+          "url": "https://open.spotify.com/artist/0IDfPC86tctwQaHkc9tVfX"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140571,
+      "name": "Hazy",
+      "url": "https://open.spotify.com/track/40frhLpVMThTogyowcdNtb"
     },
     {
       "album": {
@@ -4562,7 +4606,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 157714,
       "name": "I'm Thinking",
       "url": "https://open.spotify.com/track/0oH9eXgLniGBFEeKOb1cnu"
@@ -4782,6 +4826,24 @@
       "duration_ms": 144031,
       "name": "Inscription",
       "url": "https://open.spotify.com/track/1bJRvWoWH0tMqnhwJIMRZe"
+    },
+    {
+      "album": {
+        "name": "Isular",
+        "url": "https://open.spotify.com/album/3S8ysn8QU1zPA1XkzFNzIA"
+      },
+      "artists": [
+        {
+          "name": "lorleaf",
+          "url": "https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92841,
+      "name": "Isular",
+      "url": "https://open.spotify.com/track/1XzURP8Kqghwdzw1Q3aABz"
     },
     {
       "album": {
@@ -5323,6 +5385,24 @@
     },
     {
       "album": {
+        "name": "LEVITATE",
+        "url": "https://open.spotify.com/album/5SSzQLL7JrhpBQ60DDgKZk"
+      },
+      "artists": [
+        {
+          "name": "Mel Atonin",
+          "url": "https://open.spotify.com/artist/5cuSwXym2KzOlDwHui2v5g"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139591,
+      "name": "LEVITATE",
+      "url": "https://open.spotify.com/track/6Rs5lwpEVM3GN2h6XTItgZ"
+    },
+    {
+      "album": {
         "name": "leyawiin",
         "url": "https://open.spotify.com/album/24u2vd97YmlbRVHeLbxLte"
       },
@@ -5460,7 +5540,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 99506,
       "name": "Like Royalty",
       "url": "https://open.spotify.com/track/7BBVhDagPv9y8MVzOLOngR"
@@ -7015,6 +7095,24 @@
     },
     {
       "album": {
+        "name": "nightvision",
+        "url": "https://open.spotify.com/album/6F2olvguA8qhb9u3XJ7zP5"
+      },
+      "artists": [
+        {
+          "name": "sellar",
+          "url": "https://open.spotify.com/artist/2eE2igevXc1oO8cBldYZDy"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143360,
+      "name": "nightvision",
+      "url": "https://open.spotify.com/track/574p3oZ9clAcRkM74jhj4d"
+    },
+    {
+      "album": {
         "name": "fin alley",
         "url": "https://open.spotify.com/album/10VoNIPKgsTtrpV5hJtNPj"
       },
@@ -7314,7 +7412,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 93294,
       "name": "Old Memories",
       "url": "https://open.spotify.com/track/2sc7hZXb7pbjB6BDCvdOIb"
@@ -8033,6 +8131,24 @@
     },
     {
       "album": {
+        "name": "Quali Spec",
+        "url": "https://open.spotify.com/album/2quruZML6dfErb679MJ6Yl"
+      },
+      "artists": [
+        {
+          "name": "Maggotts&Becketts",
+          "url": "https://open.spotify.com/artist/5KcHdaJD7z9518eYGaAh07"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166374,
+      "name": "Quali Spec",
+      "url": "https://open.spotify.com/track/1LrS2RIkDI9paZTReBpufA"
+    },
+    {
+      "album": {
         "name": "questa terra",
         "url": "https://open.spotify.com/album/6avgf77GkCvhuRNeG63fAx"
       },
@@ -8084,7 +8200,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 168748,
       "name": "Quiet Corner",
       "url": "https://open.spotify.com/track/4DSlgCK59DficPnapF5kTE"
@@ -10980,7 +11096,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 115083,
       "name": "variomatic",
       "url": "https://open.spotify.com/track/1uxCLfcGWYFtwIZVXNy1hw"

@@ -1823,6 +1823,24 @@
     },
     {
       "album": {
+        "name": "Mean to Me",
+        "url": "https://open.spotify.com/album/6GINNflvXMjf3xZ8s5WJa0"
+      },
+      "artists": [
+        {
+          "name": "David Morris",
+          "url": "https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218728,
+      "name": "Mean to Me",
+      "url": "https://open.spotify.com/track/1KWlTxF4TufdT8ZwYSycFB"
+    },
+    {
+      "album": {
         "name": "Muddy",
         "url": "https://open.spotify.com/album/4js5x9TY7azY4YBOJDNc9W"
       },

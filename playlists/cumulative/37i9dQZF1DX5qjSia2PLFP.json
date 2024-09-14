@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "They got next. Cover: <a href=\"spotify:artist:7tHTnyrdTNM152slc8aQ3t\">Laila!</a> ",
+  "description": "They got next. Cover: <a href=\"spotify:artist:2qoQgPAilErOKCwE2Y8wOG\">GloRilla</a> ",
   "name": "Ripple Effect",
   "tracks": [
     {
@@ -2333,6 +2333,24 @@
     },
     {
       "album": {
+        "name": "Blacklist",
+        "url": "https://open.spotify.com/album/4pK2119njBbGSt0f4tZ5w4"
+      },
+      "artists": [
+        {
+          "name": "LAZER DIM 700",
+          "url": "https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 52140,
+      "name": "Blacklist",
+      "url": "https://open.spotify.com/track/1D68GC0dFwe6NW66GaxH1H"
+    },
+    {
+      "album": {
         "name": "Blanket",
         "url": "https://open.spotify.com/album/1yUYTi45DvH4lTZnrX9hib"
       },
@@ -2544,7 +2562,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 148388,
       "name": "Blue Devils (feat. DaBaby) - Remix",
       "url": "https://open.spotify.com/track/29a9AZPAMPSifXvDnk4h3b"
@@ -2926,7 +2944,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 138960,
       "name": "BROTHER",
       "url": "https://open.spotify.com/track/27xFlKtzTMEOgqBDX7skYn"
@@ -3202,7 +3220,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 177084,
       "name": "cake",
       "url": "https://open.spotify.com/track/7eWKbchJXbuMc3SoLsLWa4"
@@ -3724,7 +3742,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 156000,
       "name": "chicken & waffles",
       "url": "https://open.spotify.com/track/6JWs2qW2P3p8R3YOe4yQfM"
@@ -5080,7 +5098,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-08",
+      "date_removed": null,
       "duration_ms": 118002,
       "name": "Did It First (with Central Cee)",
       "url": "https://open.spotify.com/track/57lsYy0OZLNb5OQ7fEa3Hs"
@@ -5280,7 +5298,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 209606,
       "name": "Don Who Leo - Blanco & Reposado Remix",
       "url": "https://open.spotify.com/track/7w8AohCG0dwgLJvcsyHYlA"
@@ -5704,6 +5722,24 @@
       "duration_ms": 160154,
       "name": "Elevate",
       "url": "https://open.spotify.com/track/7j2k5JHS33pKmDMIGEmfuU"
+    },
+    {
+      "album": {
+        "name": "Embrace It",
+        "url": "https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P"
+      },
+      "artists": [
+        {
+          "name": "Ndotz",
+          "url": "https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104418,
+      "name": "Embrace It",
+      "url": "https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES"
     },
     {
       "album": {
@@ -6860,7 +6896,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 129201,
       "name": "Free Dem Ones",
       "url": "https://open.spotify.com/track/7gh15cs3CH3dgUrnMvAN8Y"
@@ -7160,7 +7196,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 195005,
       "name": "Get In There (feat. GloRilla)",
       "url": "https://open.spotify.com/track/5wNzNajnMU0xv3JZZrLzNv"
@@ -10174,7 +10210,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 189387,
       "name": "Leaving the Lot",
       "url": "https://open.spotify.com/track/1VvcEtz05boxBKpM2tGPBL"
@@ -10758,7 +10794,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 274308,
       "name": "LOVE HURTS (with Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/20oVyPvaVROUvQi0Z9vgWg"
@@ -13180,7 +13216,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 199165,
       "name": "Or What",
       "url": "https://open.spotify.com/track/3lUYO6zvXI88sNDpyKvIJ2"
@@ -14543,6 +14579,24 @@
     },
     {
       "album": {
+        "name": "#gigi",
+        "url": "https://open.spotify.com/album/5yYtz3hPgOc2XAh5eDjDBa"
+      },
+      "artists": [
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165750,
+      "name": "rain",
+      "url": "https://open.spotify.com/track/1HG40IaElFC5OTyTsSQp8J"
+    },
+    {
+      "album": {
         "name": "Ranchero",
         "url": "https://open.spotify.com/album/6YuTYAphtTtx15HsessRq4"
       },
@@ -15008,6 +15062,24 @@
       "duration_ms": 116625,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/3s7jQGyFMkE7SBp87KRWTP"
+    },
+    {
+      "album": {
+        "name": "Rollin'",
+        "url": "https://open.spotify.com/album/398Y0wqKmuUA0i9sqzMRCp"
+      },
+      "artists": [
+        {
+          "name": "BabyChiefDoit",
+          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203405,
+      "name": "Rollin'",
+      "url": "https://open.spotify.com/track/7zP40LKCXsiyZjMtnzo5z6"
     },
     {
       "album": {
@@ -16012,7 +16084,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 115555,
       "name": "SKIN TO SKIN",
       "url": "https://open.spotify.com/track/459nQ03mNSimFXfSVly62w"
@@ -16124,7 +16196,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 204798,
       "name": "slizzyhunchodon",
       "url": "https://open.spotify.com/track/4P3s7E8Qq0D6sjfqiy7TxJ"
@@ -17038,7 +17110,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 192595,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/1eg8vRZ2HI6zfevwEs8iDx"
@@ -18554,7 +18626,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 158018,
       "name": "U Kno What To Do (UKWTD)",
       "url": "https://open.spotify.com/track/1ZrzdArzDJj71mCOFa2qmV"
@@ -19142,7 +19214,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 146341,
       "name": "Want 2",
       "url": "https://open.spotify.com/track/6yWain3Q65m9WJzq48q24f"
@@ -20074,7 +20146,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 142702,
       "name": "Yeah Glo!",
       "url": "https://open.spotify.com/track/0SdBkFh6u5IHIXqlBu0NyI"
@@ -20216,6 +20288,24 @@
       "duration_ms": 131500,
       "name": "You Got It Made",
       "url": "https://open.spotify.com/track/03M0wprGdDBgPTKfikarQd"
+    },
+    {
+      "album": {
+        "name": "You Look Good",
+        "url": "https://open.spotify.com/album/6RFHT3QhYPWexBvQAjNVf3"
+      },
+      "artists": [
+        {
+          "name": "Cartier",
+          "url": "https://open.spotify.com/artist/43Nu4ChA6nE5ENwu8f7Jzf"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107690,
+      "name": "You Look Good",
+      "url": "https://open.spotify.com/track/4uUQb3CStwUvv6IVgwcC5q"
     },
     {
       "album": {

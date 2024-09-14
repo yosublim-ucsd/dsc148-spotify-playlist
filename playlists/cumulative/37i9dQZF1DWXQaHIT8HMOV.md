@@ -2,9 +2,9 @@
 
 ### [Made In Uganda](https://open.spotify.com/playlist/37i9dQZF1DWXQaHIT8HMOV)
 
-> Homegrown Ugandan hits in one playlist\. Cover: Lamu
+> Homegrown Ugandan hits in one playlist\. Cover: Ykee Benda
 
-337 songs - 17 hr 24 min
+338 songs - 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Change the World](https://open.spotify.com/track/25AXVpk13te2q8PEG1lR4u) | [K!MERA](https://open.spotify.com/artist/1C3pCs0DmKTCvmqAJYerKN) | [Change the World](https://open.spotify.com/album/0hZFzKNPZQ5ytBeIgynnhm) | 3:50 | 2022-05-19 | 2022-10-07 |
 | [Chekecha \- Remix](https://open.spotify.com/track/379CPyOow3irVC46HEpiHp) | [Karole Kasita](https://open.spotify.com/artist/1RDiu2gDimIlyTwYha6OM0), [Vinka](https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES), [Winnie Nwagi](https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD) | [Chekecha \(Remix\)](https://open.spotify.com/album/5pgsuly0cHTqo6zZi9zKVT) | 2:41 | 2024-03-15 | 2024-04-06 |
 | [CHERRY SWEET](https://open.spotify.com/track/1B3h5EIwLDMtubHLu3edCM) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [CHERRY SWEET](https://open.spotify.com/album/1iu9wqIVEQ2cm20mO6DmvG) | 2:10 | 2022-07-29 | 2024-02-03 |
+| [Choosing You \(feat\. Witness\)](https://open.spotify.com/track/2UkNq0ZLz5rYNs9qwH8LAF) | [Ykee Benda](https://open.spotify.com/artist/18knxgRViP1Ae2TG8DZRfq), [Witness](https://open.spotify.com/artist/5dqlwYHPC3ITQCRfBFh7vC) | [Choosing You \(feat\. Witness\)](https://open.spotify.com/album/2TbD67k72ns13PNeWRuOl4) | 3:08 | 2024-09-13 |  |
 | [Chop Life](https://open.spotify.com/track/67C63vdbFde7T1Mj1QH4Jq) | [Viboyo Oweyo](https://open.spotify.com/artist/4nNWboFa5mjFsHBVTx2zcy), [Whisper Acon](https://open.spotify.com/artist/3kFyZYflThSwTDNLnU5F8W) | [Hand Made Triumph \(Omupambanyi\)](https://open.spotify.com/album/1Eoq5CtZFKHJ7bDXy6rq56) | 3:14 | 2024-02-02 | 2024-06-08 |
 | [Cinderella](https://open.spotify.com/track/4HUfDL3FITibpGatbGUw6f) | [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM), [An\-Known](https://open.spotify.com/artist/3stZkIKmrZfjDLo1xgadxQ) | [Cinderella](https://open.spotify.com/album/2zWi7EGBKMpwU8VDLib9r2) | 3:47 | 2023-02-10 | 2024-02-03 |
 | [Clock](https://open.spotify.com/track/3hwqcsoXvbq2n0USeZCttL) | [Mark Stel](https://open.spotify.com/artist/1UdEDQFkWIBAfTgJVPAx1U), [ALLAN TONIKS](https://open.spotify.com/artist/5uLEt18awSsO8Ne5gkxM9s) | [Clock](https://open.spotify.com/album/2M1ox2H825rpzaOovVvGLd) | 2:56 | 2022-12-02 | 2023-02-01 |
@@ -112,7 +113,7 @@
 | [Feel Like](https://open.spotify.com/track/7CTDjJSzz6qyR0SIjRsAlZ) | [Fm Kid](https://open.spotify.com/artist/3lQP8Rliiz1HAHNyZCdMM6) | [Feel Like](https://open.spotify.com/album/2bUvNyLhtfvFmAeaSuJAOb) | 3:06 | 2022-09-30 | 2022-10-07 |
 | [Feeling](https://open.spotify.com/track/0xlhF6UZiokF5sECaAzTrU) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR), [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR) | [AFRICAN MUSIC \(Deluxe\)](https://open.spotify.com/album/7HDi7WEWMN9ZhnNPo2lMx8) | 2:51 | 2024-03-15 | 2024-04-06 |
 | [Fertilizer](https://open.spotify.com/track/10JDfsIelDol1IxN2PCEnG) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Fertilizer](https://open.spotify.com/album/6Pz7K5KdsXCbk5CybkwIlp) | 2:55 | 2023-06-30 | 2024-07-05 |
-| [Filipa](https://open.spotify.com/track/2rjdyaSYYfMAGrQCRB9WqV) | [Airak](https://open.spotify.com/artist/25o0mksRbxTxyfzh2nmD4n) | [Filipa](https://open.spotify.com/album/7m0P0wpQMNZKFtziYkeO6E) | 2:04 | 2024-05-24 |  |
+| [Filipa](https://open.spotify.com/track/2rjdyaSYYfMAGrQCRB9WqV) | [Airak](https://open.spotify.com/artist/25o0mksRbxTxyfzh2nmD4n) | [Filipa](https://open.spotify.com/album/7m0P0wpQMNZKFtziYkeO6E) | 2:04 | 2024-05-24 | 2024-09-14 |
 | [Follow](https://open.spotify.com/track/399mVb63j9nI8lb1A4TQRB) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j) | [Follow](https://open.spotify.com/album/3kbvJRFu6ajBhVeDFLcqTd) | 3:30 | 2022-07-29 | 2023-04-07 |
 | [Found You](https://open.spotify.com/track/06LtEowrZCsWiV2N2iScwJ) | [Benji Kasule](https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh), [Naava Grey](https://open.spotify.com/artist/4Dvh0aMCIBySKye4a8O2UB) | [Found You](https://open.spotify.com/album/30EZO4mzKiVCNOwKwIz5zx) | 3:45 | 2024-02-16 | 2024-05-04 |
 | [Freedom](https://open.spotify.com/track/6v0S8ZVm5axCSsuoqcuB3J) | [Jesse10s](https://open.spotify.com/artist/6oOIGUtyWVdPoJmgOE1bGH) | [Freedom](https://open.spotify.com/album/3MJB9ehVEovi0DhK19B4tS) | 2:54 | 2022-11-25 | 2023-12-21 |

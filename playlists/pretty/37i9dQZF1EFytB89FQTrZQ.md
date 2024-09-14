@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,538 likes - 309 songs - 17 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,544 likes - 309 songs - 17 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -227,8 +227,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 217 | [Another Friday Night](https://open.spotify.com/track/0TMrhVTC2uosTg09ZVkoLa) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Another Friday Night](https://open.spotify.com/album/7mtOGMtwr9QpnkYaS1UuTh) | 2:30 |
 | 218 | [One Time](https://open.spotify.com/track/5Z3aUxQ7Q3gpS8GqLN8UIw) | [MIKExANGEL](https://open.spotify.com/artist/5kmcKvoT2hRuXOGnjcXc8e) | [One Time](https://open.spotify.com/album/5pph7iD3sccrsKJhb2Bpth) | 2:44 |
 | 219 | [Shy](https://open.spotify.com/track/0FEV2UdmSXQVHSDI8VJDg8) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [About Last Night...](https://open.spotify.com/album/2DX0Tyq5e8CtsoncXWEWPm) | 3:17 |
-| 220 | [Crazy World](https://open.spotify.com/track/2vzvAby7IKudoBV12P4s0A) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 3:46 |
-| 221 | [Come Up \(feat\. Unknown T\)](https://open.spotify.com/track/4qeZto6Q6AEuyvSM3TLNbu) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [2 in 1](https://open.spotify.com/album/6m3JcqnSzHmJhCMobWya2d) | 3:24 |
+| 220 | [Come Up \(feat\. Unknown T\)](https://open.spotify.com/track/4qeZto6Q6AEuyvSM3TLNbu) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [2 in 1](https://open.spotify.com/album/6m3JcqnSzHmJhCMobWya2d) | 3:24 |
+| 221 | [Crazy World](https://open.spotify.com/track/2vzvAby7IKudoBV12P4s0A) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 3:46 |
 | 222 | [YBGFA](https://open.spotify.com/track/5MUAhZVNZU4UF8FmhUBQYs) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [TEARS OF THE SUN](https://open.spotify.com/album/4yspRWwXpYeeQ2EoOmpLPJ) | 3:42 |
 | 223 | [Done Me](https://open.spotify.com/track/2T6MSukHOnljzeymIcGKmk) | [Amun](https://open.spotify.com/artist/182fYJgynL0DcdVkEyUSRn) | [Done Me](https://open.spotify.com/album/4X5EoSLcpNwuQZxHmkMjWm) | 3:11 |
 | 224 | [No Ordinary Love](https://open.spotify.com/track/0WoFqRQVvicGYxcVqQCiNz) | [Urbandub](https://open.spotify.com/artist/18B9mAtwCLjkXGMlBtH1LZ) | [Full Volume](https://open.spotify.com/album/1pzX0UHMKFphae6J0LVDs7) | 5:06 |
@@ -318,4 +318,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 308 | [Forever](https://open.spotify.com/track/4nFQk5qNI8TKWnorHDljEp) | [Jono Hill](https://open.spotify.com/artist/6gQmXqh4cXimoa1NotjBQW) | [As Far as the Eye Can See \(Original Score\)](https://open.spotify.com/album/6ACj9tILNQn22YobKjbfAr) | 0:44 |
 | 309 | [See You When I Look At You](https://open.spotify.com/track/3qjXYDCuRWVmCulEsCAM3L) | [King Lowkey Tha Bread Winner](https://open.spotify.com/artist/1xHrLzZi7eNjqQUcSIpiUp) | [Real Recognize Real But I Peep The Fake Too](https://open.spotify.com/album/2wj9RYyXjMuHLvlTHMmPb6) | 2:47 |
 
-Snapshot ID: `Abb+gAAAAAAzLgH+sQi+Wh0XtiAMgmCu`
+Snapshot ID: `AbcEIAAAAADLp43bKNYY+UWMwqnnNX26`

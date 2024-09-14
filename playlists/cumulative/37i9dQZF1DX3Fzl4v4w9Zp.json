@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Keep your finger on the pulse of Americana. Cover: The Heavy Heavy",
+  "description": "Keep your finger on the pulse of Americana. Cover: Drew Holcomb & The Neighbors",
   "name": "The Pulse of Americana",
   "tracks": [
     {
@@ -416,7 +416,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 213213,
       "name": "Alcohallelujah",
       "url": "https://open.spotify.com/track/0K6dmuthM56bETaZY10pbk"
@@ -2357,6 +2357,24 @@
     },
     {
       "album": {
+        "name": "Country",
+        "url": "https://open.spotify.com/album/4Z4D92KlKggXkN7rauBRtO"
+      },
+      "artists": [
+        {
+          "name": "Penny and Sparrow",
+          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123135,
+      "name": "Country",
+      "url": "https://open.spotify.com/track/4vYEOiAOlID8WQ3SWGiKBc"
+    },
+    {
+      "album": {
         "name": "Country as Fuck",
         "url": "https://open.spotify.com/album/384HiIj05NFE3AnWOEaNCu"
       },
@@ -2946,7 +2964,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 138509,
       "name": "Don't Let Me Go",
       "url": "https://open.spotify.com/track/60nFcqDHiuyvhkqA74rGtI"
@@ -2964,7 +2982,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 206467,
       "name": "Don't Let the Darkness (Radio Version)",
       "url": "https://open.spotify.com/track/29Jfn6ZkPo0H7YEOkJknb9"
@@ -3790,7 +3808,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 199440,
       "name": "For a Long While",
       "url": "https://open.spotify.com/track/2PNQZvAiJouT0v1XkyUrgF"
@@ -4443,6 +4461,28 @@
     },
     {
       "album": {
+        "name": "Strangers No More, Vol. 2",
+        "url": "https://open.spotify.com/album/4Ua7vrpUY0iD6DaP2qyyQb"
+      },
+      "artists": [
+        {
+          "name": "Drew Holcomb & The Neighbors",
+          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
+        },
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198266,
+      "name": "Green Light",
+      "url": "https://open.spotify.com/track/1Dwe3stHagI1NLezeHLK9k"
+    },
+    {
+      "album": {
         "name": "Stress Dreams",
         "url": "https://open.spotify.com/album/4HXsy1mTLLXvWDmryhoFeW"
       },
@@ -4534,6 +4574,24 @@
       "duration_ms": 197426,
       "name": "Hands To Myself",
       "url": "https://open.spotify.com/track/6reRI1DvoOPCWJjHSpJADD"
+    },
+    {
+      "album": {
+        "name": "Happy Face",
+        "url": "https://open.spotify.com/album/3WkZ84AAJDPimDKV1FH3pI"
+      },
+      "artists": [
+        {
+          "name": "Treaty Oak Revival",
+          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202219,
+      "name": "Happy Face",
+      "url": "https://open.spotify.com/track/7KvZLaYFqBqoADTelAsWWO"
     },
     {
       "album": {
@@ -5126,10 +5184,28 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 227466,
       "name": "Hey Driver (feat. The War and Treaty)",
       "url": "https://open.spotify.com/track/4pCbJC43j3gSqG6Fen6upD"
+    },
+    {
+      "album": {
+        "name": "Hide Anymore / Devil In My Eyes",
+        "url": "https://open.spotify.com/album/6qLcy29RQ8wsIiqsxJWsye"
+      },
+      "artists": [
+        {
+          "name": "Wilder Woods",
+          "url": "https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176800,
+      "name": "Hide Anymore",
+      "url": "https://open.spotify.com/track/4NnB7VmI9XiJVgDUAg3Fnn"
     },
     {
       "album": {
@@ -8036,7 +8112,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 268622,
       "name": "Numbers",
       "url": "https://open.spotify.com/track/1IcMEQNw8ZuXZtfLGnrKcq"
@@ -9841,6 +9917,24 @@
     },
     {
       "album": {
+        "name": "Manning Fireworks",
+        "url": "https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN"
+      },
+      "artists": [
+        {
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278226,
+      "name": "She's Leaving You",
+      "url": "https://open.spotify.com/track/4hJ5jWbqstdYt555NhdtNk"
+    },
+    {
+      "album": {
         "name": "Shelter Me / Pump It Up - Downtown Owl Soundtrack",
         "url": "https://open.spotify.com/album/1JehQARULT1VXOmBEH1DUv"
       },
@@ -9852,7 +9946,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 175617,
       "name": "Shelter Me - Downtown Owl Soundtrack",
       "url": "https://open.spotify.com/track/0lHRpitoz0DGOKqv8t8igO"
@@ -10658,6 +10752,24 @@
       "duration_ms": 202758,
       "name": "Sunset Drive",
       "url": "https://open.spotify.com/track/6ymEMVdD3IIpFdbJ1uhMiZ"
+    },
+    {
+      "album": {
+        "name": "Don\u2019t Travel Through the Night Alone",
+        "url": "https://open.spotify.com/album/5bObR9FhirQP2HPjL7N4sY"
+      },
+      "artists": [
+        {
+          "name": "JD McPherson",
+          "url": "https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174746,
+      "name": "Sunshine Getaway",
+      "url": "https://open.spotify.com/track/3tlcrQasYGpMU8gvrrc9dP"
     },
     {
       "album": {
@@ -11924,6 +12036,28 @@
       "duration_ms": 224200,
       "name": "Too Little, Too Late, Too Bad",
       "url": "https://open.spotify.com/track/5IbgM2ByuGPFI4AGY2IWvQ"
+    },
+    {
+      "album": {
+        "name": "Too Stoned To Cry [Feat. Billy Strings]",
+        "url": "https://open.spotify.com/album/0ZRuxP2CWBV3FPAcejLg3b"
+      },
+      "artists": [
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        },
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220608,
+      "name": "Too Stoned To Cry [Feat. Billy Strings]",
+      "url": "https://open.spotify.com/track/1PcMQHHrQCNgGwEXB4QIQj"
     },
     {
       "album": {

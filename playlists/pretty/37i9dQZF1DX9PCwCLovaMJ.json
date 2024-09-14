@@ -491,22 +491,6 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "SHE-REX",
-        "url": "https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9"
-      },
-      "artists": [
-        {
-          "name": "eee gee",
-          "url": "https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN"
-        }
-      ],
-      "duration_ms": 174186,
-      "name": "school reunion",
-      "url": "https://open.spotify.com/track/4AOoWI8ZCJ5bkyj7Ivj1Ez"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
         "name": "MAGNANIMITY",
         "url": "https://open.spotify.com/album/7AVe1Cc7Uns0mN2sy6KHBL"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 194800,
       "name": "perfume bottle",
       "url": "https://open.spotify.com/track/7wmwpkiGOVNJUfhAHztsW0"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "SHE-REX",
+        "url": "https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9"
+      },
+      "artists": [
+        {
+          "name": "eee gee",
+          "url": "https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN"
+        }
+      ],
+      "duration_ms": 174186,
+      "name": "school reunion",
+      "url": "https://open.spotify.com/track/4AOoWI8ZCJ5bkyj7Ivj1Ez"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -695,6 +695,22 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
+        "name": "M\u00f6rdare",
+        "url": "https://open.spotify.com/album/1K4iKMXv7ZQbKyeloEqeZW"
+      },
+      "artists": [
+        {
+          "name": "Rami",
+          "url": "https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR"
+        }
+      ],
+      "duration_ms": 169565,
+      "name": "M\u00f6rdare",
+      "url": "https://open.spotify.com/track/5QQjRDmhxjCMZC7VtqTTag"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
         "name": "DROPPING SEEDS",
         "url": "https://open.spotify.com/album/2gJXkxmM0PLh6lgHlMvFPU"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 204217,
       "name": "1x1",
       "url": "https://open.spotify.com/track/3sL923OLO2SfZWwz6Eu59M"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
-        "name": "M\u00f6rdare",
-        "url": "https://open.spotify.com/album/1K4iKMXv7ZQbKyeloEqeZW"
-      },
-      "artists": [
-        {
-          "name": "Rami",
-          "url": "https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR"
-        }
-      ],
-      "duration_ms": 169565,
-      "name": "M\u00f6rdare",
-      "url": "https://open.spotify.com/track/5QQjRDmhxjCMZC7VtqTTag"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "Watching Strangers Smile",
-        "url": "https://open.spotify.com/album/0zpSsEuwv5VbuiyuvfpjmZ"
-      },
-      "artists": [
-        {
-          "name": "FILLY",
-          "url": "https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f"
-        }
-      ],
-      "duration_ms": 148900,
-      "name": "Spinning",
-      "url": "https://open.spotify.com/track/336VLQGsf6tdMpTYW1z7Mb"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
         "name": "Eduardo made a new friend today",
         "url": "https://open.spotify.com/album/0qL0cfgq3HE7y7HLj4lKNN"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 193201,
       "name": "Eduardo made a new friend today",
       "url": "https://open.spotify.com/track/2FbPKlQ56pBpMFtKTV3zdi"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "Watching Strangers Smile",
+        "url": "https://open.spotify.com/album/0zpSsEuwv5VbuiyuvfpjmZ"
+      },
+      "artists": [
+        {
+          "name": "FILLY",
+          "url": "https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f"
+        }
+      ],
+      "duration_ms": 148900,
+      "name": "Spinning",
+      "url": "https://open.spotify.com/track/336VLQGsf6tdMpTYW1z7Mb"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "Show You Off",
-        "url": "https://open.spotify.com/album/3d5vxZBMt1IVlZCLlGqYEg"
-      },
-      "artists": [
-        {
-          "name": "HONEYMOAN",
-          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
-        }
-      ],
-      "duration_ms": 174323,
-      "name": "Show You Off",
-      "url": "https://open.spotify.com/track/5yiq0nOg5bsPc83IEF0Bcc"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
         "name": "Svikare",
         "url": "https://open.spotify.com/album/2o6z5Nj3RGx9uL6sAE8Shb"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 161207,
       "name": "Svikare",
       "url": "https://open.spotify.com/track/0djxbv8PpRoOwWZzf8iw6Q"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "Show You Off",
+        "url": "https://open.spotify.com/album/3d5vxZBMt1IVlZCLlGqYEg"
+      },
+      "artists": [
+        {
+          "name": "HONEYMOAN",
+          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
+        }
+      ],
+      "duration_ms": 174323,
+      "name": "Show You Off",
+      "url": "https://open.spotify.com/track/5yiq0nOg5bsPc83IEF0Bcc"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
+        "name": "Bruises",
+        "url": "https://open.spotify.com/album/7jgXloTEyFpZ3p366I0PO1"
+      },
+      "artists": [
+        {
+          "name": "Girl Scout",
+          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
+        }
+      ],
+      "duration_ms": 244693,
+      "name": "Bruises",
+      "url": "https://open.spotify.com/track/4bUPB5OTmN7L6l82MC1pa4"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
         "name": "You're Not Alone",
         "url": "https://open.spotify.com/album/30TtNJxZgXt1DBb7GYlRkz"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 235949,
       "name": "You're Not Alone",
       "url": "https://open.spotify.com/track/4v7SAKFEqPyuYTy9gQRnHP"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
-        "name": "Bruises",
-        "url": "https://open.spotify.com/album/7jgXloTEyFpZ3p366I0PO1"
-      },
-      "artists": [
-        {
-          "name": "Girl Scout",
-          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
-        }
-      ],
-      "duration_ms": 244693,
-      "name": "Bruises",
-      "url": "https://open.spotify.com/track/4bUPB5OTmN7L6l82MC1pa4"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "Who",
-        "url": "https://open.spotify.com/album/1MUUv8h8NmQlVlj7eZzsOd"
-      },
-      "artists": [
-        {
-          "name": "Scout",
-          "url": "https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR"
-        }
-      ],
-      "duration_ms": 207372,
-      "name": "Who",
-      "url": "https://open.spotify.com/track/6TC6pNUHWaGYhliOtrRlzI"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
         "name": "blanket",
         "url": "https://open.spotify.com/album/5XTSqh2cKQ6jkbqHChbK0m"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 180272,
       "name": "October",
       "url": "https://open.spotify.com/track/6kMLYgSC8PW4B0pv9PpsQ1"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "Who",
+        "url": "https://open.spotify.com/album/1MUUv8h8NmQlVlj7eZzsOd"
+      },
+      "artists": [
+        {
+          "name": "Scout",
+          "url": "https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR"
+        }
+      ],
+      "duration_ms": 207372,
+      "name": "Who",
+      "url": "https://open.spotify.com/track/6TC6pNUHWaGYhliOtrRlzI"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "forget me",
-        "url": "https://open.spotify.com/album/54Vx2zv8ukijrui8BCWh3i"
-      },
-      "artists": [
-        {
-          "name": "Orion Sisters",
-          "url": "https://open.spotify.com/artist/1FjsO3rN6iI9liiSXMVb7u"
-        }
-      ],
-      "duration_ms": 175704,
-      "name": "forget me",
-      "url": "https://open.spotify.com/track/6K3HbXrmO6WIv0uRZe5SfS"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
         "name": "If The Car Crashed",
         "url": "https://open.spotify.com/album/5cyLCldH7vZb9z5YYDq8Rz"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 203506,
       "name": "If The Car Crashed",
       "url": "https://open.spotify.com/track/2zsthaGOn1HFt19XbB7kuh"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "forget me",
+        "url": "https://open.spotify.com/album/54Vx2zv8ukijrui8BCWh3i"
+      },
+      "artists": [
+        {
+          "name": "Orion Sisters",
+          "url": "https://open.spotify.com/artist/1FjsO3rN6iI9liiSXMVb7u"
+        }
+      ],
+      "duration_ms": 175704,
+      "name": "forget me",
+      "url": "https://open.spotify.com/track/6K3HbXrmO6WIv0uRZe5SfS"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
+        "name": "the kick is good",
+        "url": "https://open.spotify.com/album/7MtRauhe7CW1b1dj0tbcF7"
+      },
+      "artists": [
+        {
+          "name": "MOR",
+          "url": "https://open.spotify.com/artist/4VLZWJV6x7gfDSasogv3sb"
+        }
+      ],
+      "duration_ms": 223525,
+      "name": "the kick is good",
+      "url": "https://open.spotify.com/track/1WBT7cIY72ebsB9o0neu7r"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
         "name": "MELLAN TVIVEL & TILLIT",
         "url": "https://open.spotify.com/album/6rTpIQjX1HZHQtlYQCZ3Y0"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 241550,
       "name": "~H\u00c4R~",
       "url": "https://open.spotify.com/track/1kIoQ1Rir3L6XbKY0ZAUQh"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
-        "name": "the kick is good",
-        "url": "https://open.spotify.com/album/7MtRauhe7CW1b1dj0tbcF7"
-      },
-      "artists": [
-        {
-          "name": "MOR",
-          "url": "https://open.spotify.com/artist/4VLZWJV6x7gfDSasogv3sb"
-        }
-      ],
-      "duration_ms": 223525,
-      "name": "the kick is good",
-      "url": "https://open.spotify.com/track/1WBT7cIY72ebsB9o0neu7r"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "MURDER MY FEELINGS",
-        "url": "https://open.spotify.com/album/5BmdCH0bW2traxlvxUhOib"
+        "name": "Sweet Nothings",
+        "url": "https://open.spotify.com/album/2ksI1yNXe9oyecXCEf68ge"
       },
       "artists": [
         {
-          "name": "Lala Sadii",
-          "url": "https://open.spotify.com/artist/1ge7ixcFwe6ch8HZbs0UHt"
+          "name": "MER\u014cN",
+          "url": "https://open.spotify.com/artist/0YbqIxOpOJO7cOpGjMypRk"
         }
       ],
-      "duration_ms": 164831,
-      "name": "MURDER MY FEELINGS",
-      "url": "https://open.spotify.com/track/5zjOUGpiYeu1FgEDp0OPav"
+      "duration_ms": 135000,
+      "name": "Sweet Nothings",
+      "url": "https://open.spotify.com/track/1cF3WDh4C8iRMvMZf8g3Kg"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
+        "name": "MURDER MY FEELINGS",
+        "url": "https://open.spotify.com/album/5BmdCH0bW2traxlvxUhOib"
+      },
+      "artists": [
+        {
+          "name": "Lala Sadii",
+          "url": "https://open.spotify.com/artist/1ge7ixcFwe6ch8HZbs0UHt"
+        }
+      ],
+      "duration_ms": 164831,
+      "name": "MURDER MY FEELINGS",
+      "url": "https://open.spotify.com/track/5zjOUGpiYeu1FgEDp0OPav"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
         "name": "TALK2MUCH",
         "url": "https://open.spotify.com/album/5iWyIv8QHoD5P2vIUOf1j3"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 133846,
       "name": "DREAMER",
       "url": "https://open.spotify.com/track/44V3prBS5nmjRlQN0lcbeK"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
-        "name": "Sweet Nothings",
-        "url": "https://open.spotify.com/album/2ksI1yNXe9oyecXCEf68ge"
-      },
-      "artists": [
-        {
-          "name": "MER\u014cN",
-          "url": "https://open.spotify.com/artist/0YbqIxOpOJO7cOpGjMypRk"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Sweet Nothings",
-      "url": "https://open.spotify.com/track/1cF3WDh4C8iRMvMZf8g3Kg"
     },
     {
       "added_at": "2023-11-29 12:17:00",

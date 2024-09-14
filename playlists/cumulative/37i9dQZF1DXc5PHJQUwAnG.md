@@ -4,7 +4,7 @@
 
 > Bienvenidx a la trampa mexa\. Yng Lvcas y Codiciado en portada.
 
-307 songs - 14 hr 29 min
+308 songs - 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,12 +94,13 @@
 | [Dias Bizarros](https://open.spotify.com/track/3qHiAaEBOax7q6yLGf9Eui) | [La Era de Gomes](https://open.spotify.com/artist/2JsaY1GQhGPbIlFSrAncg0) | [Dias Bizarros](https://open.spotify.com/album/4vLfoWoB5kaDrTUeQYw7XN) | 2:21 | 2023-07-21 | 2023-09-02 |
 | [Dice Que No Kiere](https://open.spotify.com/track/1yUUZZTZrwQo17PgnawjTs) | [Biowaverave](https://open.spotify.com/artist/2kyjD063inXc4sfWHk9UoK) | [Dice Que No Kiere](https://open.spotify.com/album/4vP6e8UC0bbXSNInYqWVYM) | 1:58 | 2023-06-09 | 2023-09-09 |
 | [Dime Ma](https://open.spotify.com/track/51I9KWigWGmDk0qMRpCBuk) | [Yagooo](https://open.spotify.com/artist/7af38cgJCib5WLhnRSiCBo), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Jiubel](https://open.spotify.com/artist/1pmY5q8eybXnnrwOEFqQ1M) | [Dime Ma](https://open.spotify.com/album/4YZA92YeUMAXccGDVm0mhk) | 3:25 | 2023-06-09 | 2023-07-01 |
+| [DINAMITA](https://open.spotify.com/track/2z1J0ARtt7WUsarFsNtmxO) | [Alexia Mariel](https://open.spotify.com/artist/6SDSKrIIGibHeQGx8s9Yyn), [Sandro Malandro](https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS) | [DINAMITA](https://open.spotify.com/album/4dRpKzpWPEi9NYY84ChNhS) | 2:43 | 2024-09-13 |  |
 | [Dinero Digital](https://open.spotify.com/track/5nggFqmrxKwOpmTS7sS48F) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Badguychapo](https://open.spotify.com/artist/7Mu2VtGDLbzEvtGbc8i1Pl) | [NataKong](https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L) | 4:05 | 2023-06-09 | 2023-07-22 |
 | [Dollar Baby](https://open.spotify.com/track/5rUmUTm8XjVtjXsC2uVDUV) | [$anta](https://open.spotify.com/artist/3GQB5B0wqM9p9EWvJtV2Ii) | [Dollar Baby](https://open.spotify.com/album/3KoLGo0apUNVBsOHFuJjVm) | 2:36 | 2023-06-09 | 2023-07-01 |
 | [Drip](https://open.spotify.com/track/3X721QdxD1Y8mGZ8uUdzGE) | [Clowx](https://open.spotify.com/artist/5MRD5kGSh7YBNAMfPXs1uq), [Ferchosre](https://open.spotify.com/artist/6u6yjjvGpWEXUkPN1dutoq), [Zega Bounce Music](https://open.spotify.com/artist/5cx6oBzH860bnPhczuUnmx), [Big Pachecko](https://open.spotify.com/artist/5J0mXplMmdTrpkPZ9QKZ90) | [Drip](https://open.spotify.com/album/0Bk6tqOxEjzDRAdmf4rJdr) | 3:13 | 2024-02-09 | 2024-02-27 |
 | [Drip](https://open.spotify.com/track/5CwwhMCOPGIX8srDnYqtQs) | [Clowx](https://open.spotify.com/artist/5MRD5kGSh7YBNAMfPXs1uq), [Ferchosre](https://open.spotify.com/artist/6u6yjjvGpWEXUkPN1dutoq), [Zega Bounce Music](https://open.spotify.com/artist/5cx6oBzH860bnPhczuUnmx), [Big Pachecko](https://open.spotify.com/artist/5J0mXplMmdTrpkPZ9QKZ90) | [DRIP](https://open.spotify.com/album/71Rc53CrA8LmDK0uSQIn9y) | 3:13 | 2023-12-01 | 2024-02-16 |
 | [Eh Pensado](https://open.spotify.com/track/36c9COfteQmw0nhzSiSZR2) | [Ruddi Nizz](https://open.spotify.com/artist/1UDkP5JtJNEytAuWfHlHVD) | [OMW2FYH](https://open.spotify.com/album/6f9OrhrFWH2PsX9opwSbke) | 2:27 | 2023-06-30 | 2023-11-11 |
-| [El Bandido](https://open.spotify.com/track/11A9Ryo1D6Ca5cfFgONBZn) | [Emiliano Aguilar](https://open.spotify.com/artist/1HyP6vYO8haajmj4NFBXBk) | [El Bandido](https://open.spotify.com/album/6bfHhE4edpv4EfPdzzk4XX) | 2:53 | 2024-08-23 |  |
+| [El Bandido](https://open.spotify.com/track/11A9Ryo1D6Ca5cfFgONBZn) | [Emiliano Aguilar](https://open.spotify.com/artist/1HyP6vYO8haajmj4NFBXBk) | [El Bandido](https://open.spotify.com/album/6bfHhE4edpv4EfPdzzk4XX) | 2:53 | 2024-08-23 | 2024-09-14 |
 | [EL CAMINO](https://open.spotify.com/track/0MI0hsjF5Z7cvfQYNUUXue) | [Red Lean](https://open.spotify.com/artist/3co8tdKJWZd4LYKaMA7iOB) | [EL CAMINO](https://open.spotify.com/album/17dIH9pWVG9hgrxfhPfdpA) | 2:59 | 2024-04-12 | 2024-05-18 |
 | [El Game](https://open.spotify.com/track/0khXMG0tPG9ffi1Zxowrp6) | [Chz](https://open.spotify.com/artist/1Wc8MKtnJrUhP3OIJdSCff), [Ferchosre](https://open.spotify.com/artist/6u6yjjvGpWEXUkPN1dutoq), [Young Flako](https://open.spotify.com/artist/3YoRvdS66pD9UCCSat5tmA), [Tenaces Records](https://open.spotify.com/artist/1wIOkcuPaE005AB3FfqM33) | [El Game](https://open.spotify.com/album/3inFQu2F9Y95RX1OyD03Db) | 4:04 | 2023-11-10 | 2024-02-10 |
 | [El Hijo del Trap](https://open.spotify.com/track/7jA2uP83uhzOtFlDvBvnAm) | [Sadráck](https://open.spotify.com/artist/6nVrBvc6HT6J8ye8EGybz1) | [El Hijo del Trap](https://open.spotify.com/album/3TB7lbyD87aCAb7hNgHwkO) | 1:54 | 2023-10-20 | 2024-05-18 |

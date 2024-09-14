@@ -1,12 +1,12 @@
 {
   "description": "all the stutter, all the feels. ",
-  "num_followers": 103899,
+  "num_followers": 104980,
   "original_name": "Emotional Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuNkYAAAAAD1NwqcGanwjq4xXlEdZSAM",
+  "snapshot_id": "ZuQhkAAAAACiNtoCr6pmnv2pn0ge1X8E",
   "tracks": [
     {
       "added_at": "2024-09-12 22:00:00",
@@ -239,6 +239,26 @@
       "duration_ms": 187686,
       "name": "Rafters",
       "url": "https://open.spotify.com/track/3wyYvUZfeJRUPVW5PLaF4r"
+    },
+    {
+      "added_at": "2024-09-13 11:27:12",
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/0wNVvymY4L9f69Qdm46mSp"
+      },
+      "artists": [
+        {
+          "name": "Douvelle19",
+          "url": "https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH"
+        },
+        {
+          "name": "just lil",
+          "url": "https://open.spotify.com/artist/3jcw0K5zIPsqqTcsVmKpQg"
+        }
+      ],
+      "duration_ms": 226956,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/3EcoV6yM8sRBhU4panF0xH"
     },
     {
       "added_at": "2024-09-12 22:00:00",

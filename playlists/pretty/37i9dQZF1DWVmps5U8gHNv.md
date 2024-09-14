@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmps5U8gHNv.md) - [plain]
 
 > A collection of classics from the height of the folk revival to the rise of the folk rock era\. Cover: Tracy Chapman
 
-[Spotify](https://open.spotify.com/user/spotify) - 778,607 likes - 115 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 778,663 likes - 115 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

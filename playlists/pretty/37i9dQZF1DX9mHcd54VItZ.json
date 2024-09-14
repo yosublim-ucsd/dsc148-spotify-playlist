@@ -1,6 +1,6 @@
 {
   "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/0XFfgHElyw0xANJDuQrHyL?si=1E2_gp6ZSxKg1sJ9d9Nhdg\">Ruff Majik</a>",
-  "num_followers": 19975,
+  "num_followers": 19988,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
@@ -519,6 +519,22 @@
     {
       "added_at": "2024-07-28 19:12:15",
       "album": {
+        "name": "Rewind",
+        "url": "https://open.spotify.com/album/3MWLY2HOD6zSdw7AQTDRzF"
+      },
+      "artists": [
+        {
+          "name": "Wonderboom",
+          "url": "https://open.spotify.com/artist/45Ahb3Z1t6yHM2F2gFrAtx"
+        }
+      ],
+      "duration_ms": 207773,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/2TceGONzzKH5mskSzoTpfA"
+    },
+    {
+      "added_at": "2024-07-28 19:12:15",
+      "album": {
         "name": "Paaie X",
         "url": "https://open.spotify.com/album/73m7S12HvQ1IArvaYy2lbO"
       },
@@ -533,20 +549,20 @@
       "url": "https://open.spotify.com/track/1mBEtvBdWd7i4X3TxGJ0Ud"
     },
     {
-      "added_at": "2024-07-28 19:12:15",
+      "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Rewind",
-        "url": "https://open.spotify.com/album/3MWLY2HOD6zSdw7AQTDRzF"
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/5toycwLOrTEoVW78Z8foya"
       },
       "artists": [
         {
-          "name": "Wonderboom",
-          "url": "https://open.spotify.com/artist/45Ahb3Z1t6yHM2F2gFrAtx"
+          "name": "Sonofold",
+          "url": "https://open.spotify.com/artist/7nCXKf1BC7v0GcK04mx7qD"
         }
       ],
-      "duration_ms": 207773,
-      "name": "Africa",
-      "url": "https://open.spotify.com/track/2TceGONzzKH5mskSzoTpfA"
+      "duration_ms": 229400,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/4x3Ot7V42zIMh5cSf850n7"
     },
     {
       "added_at": "2024-07-28 19:12:15",
@@ -627,22 +643,6 @@
       "duration_ms": 212617,
       "name": "Gee My Jou Alles",
       "url": "https://open.spotify.com/track/6yakQmh8oCDlnz9cvFEJVa"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/5toycwLOrTEoVW78Z8foya"
-      },
-      "artists": [
-        {
-          "name": "Sonofold",
-          "url": "https://open.spotify.com/artist/7nCXKf1BC7v0GcK04mx7qD"
-        }
-      ],
-      "duration_ms": 229400,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/4x3Ot7V42zIMh5cSf850n7"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -745,6 +745,22 @@
       "url": "https://open.spotify.com/track/6HvUCWnri9a7LKSJ7wNJ3W"
     },
     {
+      "added_at": "2024-09-06 06:15:37",
+      "album": {
+        "name": "Undercover Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/6Qx9G94fCsW7BcwZ1amHY2"
+      },
+      "artists": [
+        {
+          "name": "Stereo Club",
+          "url": "https://open.spotify.com/artist/4NJbKjkR9DcoyVT4ZXgAkv"
+        }
+      ],
+      "duration_ms": 201839,
+      "name": "Undercover Espa\u00f1ol",
+      "url": "https://open.spotify.com/track/6gX8UNx5OSKgVWxtsYxGvv"
+    },
+    {
       "added_at": "2024-07-28 19:12:15",
       "album": {
         "name": "Die gids vir grootword",
@@ -791,22 +807,6 @@
       "duration_ms": 141186,
       "name": "Sindikaat",
       "url": "https://open.spotify.com/track/0qkIdbHq4RHlUuVkj6eRcs"
-    },
-    {
-      "added_at": "2024-09-06 06:15:37",
-      "album": {
-        "name": "Undercover Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/6Qx9G94fCsW7BcwZ1amHY2"
-      },
-      "artists": [
-        {
-          "name": "Stereo Club",
-          "url": "https://open.spotify.com/artist/4NJbKjkR9DcoyVT4ZXgAkv"
-        }
-      ],
-      "duration_ms": 201839,
-      "name": "Undercover Espa\u00f1ol",
-      "url": "https://open.spotify.com/track/6gX8UNx5OSKgVWxtsYxGvv"
     },
     {
       "added_at": "2024-07-28 19:12:15",

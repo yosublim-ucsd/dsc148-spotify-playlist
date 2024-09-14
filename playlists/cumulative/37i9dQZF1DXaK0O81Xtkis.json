@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "make it pop! cover: Mercer Henderson",
+  "description": "make it pop! cover: Fly By Midnight",
   "name": "soda",
   "tracks": [
     {
@@ -2924,6 +2924,24 @@
       "duration_ms": 313343,
       "name": "Car Trouble",
       "url": "https://open.spotify.com/track/3k6ya2E34qLDC8iacwZ7xM"
+    },
+    {
+      "album": {
+        "name": "Casablanca",
+        "url": "https://open.spotify.com/album/1Ppx2NxJQ6RjRa7SO3z3hN"
+      },
+      "artists": [
+        {
+          "name": "Fly By Midnight",
+          "url": "https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220370,
+      "name": "Casablanca",
+      "url": "https://open.spotify.com/track/5EyZi2wYMNeIK3FPXfXTzG"
     },
     {
       "album": {
@@ -6532,7 +6550,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 169133,
       "name": "Give Me Evil",
       "url": "https://open.spotify.com/track/1Kc071G5vS8xiu3JZALoqr"
@@ -9515,6 +9533,24 @@
     },
     {
       "album": {
+        "name": "Up At Night",
+        "url": "https://open.spotify.com/album/5lHGdSSI9etvLGqCnuw5eb"
+      },
+      "artists": [
+        {
+          "name": "Stephen Dawes",
+          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167500,
+      "name": "In His Room",
+      "url": "https://open.spotify.com/track/22O3nWcyenKVftNJrJdJK6"
+    },
+    {
+      "album": {
         "name": "IN THE CLOUDS",
         "url": "https://open.spotify.com/album/5y0xWK2xRC7rAfm6VAejnA"
       },
@@ -12062,6 +12098,24 @@
       "duration_ms": 163584,
       "name": "Million Dollar Smoothies (From \u201cAmerican Song Contest\u201d)",
       "url": "https://open.spotify.com/track/2fvBdEhqqpWKRbxsr3fUC6"
+    },
+    {
+      "album": {
+        "name": "Dayglow",
+        "url": "https://open.spotify.com/album/6dc1gFl6kyF8LqZ9IGfaYx"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278460,
+      "name": "Mindless Creatures",
+      "url": "https://open.spotify.com/track/5lzZuwEPInxJRwYUQFqIlH"
     },
     {
       "album": {
@@ -17366,7 +17420,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 167996,
       "name": "Takes One To Know One",
       "url": "https://open.spotify.com/track/7Jc79lucvYoqo3YA44EG8f"
@@ -18658,7 +18712,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 193262,
       "name": "Treadmill",
       "url": "https://open.spotify.com/track/0ewQUWupKrDmYFhhiyjqaA"

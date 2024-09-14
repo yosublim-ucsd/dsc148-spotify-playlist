@@ -1,6 +1,6 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Alejandro y Maria Laura.",
-  "num_followers": 125275,
+  "num_followers": 125285,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
@@ -411,22 +411,18 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
-        "name": "El Cosechero",
-        "url": "https://open.spotify.com/album/0CWkBZSdtcmS6oOZzOjtUv"
+        "name": "la ra\u00edz",
+        "url": "https://open.spotify.com/album/0M9JyokZXKo3B1xgg4tDFh"
       },
       "artists": [
         {
-          "name": "Lhasa De Sela",
-          "url": "https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI"
-        },
-        {
-          "name": "Yves Desrosiers",
-          "url": "https://open.spotify.com/artist/2VK0ucevGNDKSx7v3Y62cC"
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
         }
       ],
-      "duration_ms": 197826,
-      "name": "El Cosechero",
-      "url": "https://open.spotify.com/track/0ntjfU9QOdA0SpmmbDg588"
+      "duration_ms": 224501,
+      "name": "la ra\u00edz",
+      "url": "https://open.spotify.com/track/2sBmqdqM6wSlSoMM1BSNz2"
     },
     {
       "added_at": "2024-09-06 06:00:00",
@@ -475,18 +471,22 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
-        "name": "la ra\u00edz",
-        "url": "https://open.spotify.com/album/0M9JyokZXKo3B1xgg4tDFh"
+        "name": "El Cosechero",
+        "url": "https://open.spotify.com/album/0CWkBZSdtcmS6oOZzOjtUv"
       },
       "artists": [
         {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+          "name": "Lhasa De Sela",
+          "url": "https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI"
+        },
+        {
+          "name": "Yves Desrosiers",
+          "url": "https://open.spotify.com/artist/2VK0ucevGNDKSx7v3Y62cC"
         }
       ],
-      "duration_ms": 224501,
-      "name": "la ra\u00edz",
-      "url": "https://open.spotify.com/track/2sBmqdqM6wSlSoMM1BSNz2"
+      "duration_ms": 197826,
+      "name": "El Cosechero",
+      "url": "https://open.spotify.com/track/0ntjfU9QOdA0SpmmbDg588"
     },
     {
       "added_at": "2024-09-06 06:00:00",
@@ -679,26 +679,6 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
-        "name": "Remanso para morrer (con Tanxugueiras) [Sesiones Moraima 2]",
-        "url": "https://open.spotify.com/album/77UPQUZuo4ZFVZbec7YNqb"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Su\u00e1rez",
-          "url": "https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe"
-        },
-        {
-          "name": "Tanxugueiras",
-          "url": "https://open.spotify.com/artist/1iHb53TMjvMaXZm0s4RWZi"
-        }
-      ],
-      "duration_ms": 186312,
-      "name": "Remanso para morrer (con Tanxugueiras) - Sesiones Moraima 2",
-      "url": "https://open.spotify.com/track/5C4ofBBIu1yAwwzSul6mtb"
-    },
-    {
-      "added_at": "2024-09-06 06:00:00",
-      "album": {
         "name": "Ventura (Live)",
         "url": "https://open.spotify.com/album/4Xpme8SyUVkaIdyme2w8PQ"
       },
@@ -719,6 +699,26 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
+        "name": "Remanso para morrer (con Tanxugueiras) [Sesiones Moraima 2]",
+        "url": "https://open.spotify.com/album/77UPQUZuo4ZFVZbec7YNqb"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Su\u00e1rez",
+          "url": "https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe"
+        },
+        {
+          "name": "Tanxugueiras",
+          "url": "https://open.spotify.com/artist/1iHb53TMjvMaXZm0s4RWZi"
+        }
+      ],
+      "duration_ms": 186312,
+      "name": "Remanso para morrer (con Tanxugueiras) - Sesiones Moraima 2",
+      "url": "https://open.spotify.com/track/5C4ofBBIu1yAwwzSul6mtb"
+    },
+    {
+      "added_at": "2024-09-06 06:00:00",
+      "album": {
         "name": "P\u00e1nico (VMG)",
         "url": "https://open.spotify.com/album/5Qc0kB8kggdylHZkU5P2pk"
       },
@@ -731,6 +731,22 @@
       "duration_ms": 177768,
       "name": "P\u00e1nico (VMG)",
       "url": "https://open.spotify.com/track/4kS8Tc0RHoGNS7dCwY3RJo"
+    },
+    {
+      "added_at": "2024-09-06 06:00:00",
+      "album": {
+        "name": "La desped\u00eda",
+        "url": "https://open.spotify.com/album/5emUivXp1bA0pHQZcVgcKQ"
+      },
+      "artists": [
+        {
+          "name": "Maestro Espada",
+          "url": "https://open.spotify.com/artist/1nlawfs0lTdtL6cVPGvQLu"
+        }
+      ],
+      "duration_ms": 212486,
+      "name": "La desped\u00eda",
+      "url": "https://open.spotify.com/track/6uFo70OQW1xEDeCLyzrlnZ"
     },
     {
       "added_at": "2024-09-06 06:00:00",
@@ -751,22 +767,6 @@
       "duration_ms": 231877,
       "name": "Tres Oto\u00f1os (feat. alberto.vela)",
       "url": "https://open.spotify.com/track/0cHAaDELCxNqaGfz9GMwWf"
-    },
-    {
-      "added_at": "2024-09-06 06:00:00",
-      "album": {
-        "name": "La desped\u00eda",
-        "url": "https://open.spotify.com/album/5emUivXp1bA0pHQZcVgcKQ"
-      },
-      "artists": [
-        {
-          "name": "Maestro Espada",
-          "url": "https://open.spotify.com/artist/1nlawfs0lTdtL6cVPGvQLu"
-        }
-      ],
-      "duration_ms": 212486,
-      "name": "La desped\u00eda",
-      "url": "https://open.spotify.com/track/6uFo70OQW1xEDeCLyzrlnZ"
     },
     {
       "added_at": "2024-09-06 06:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
-        "name": "Un Golpe de Suerte",
-        "url": "https://open.spotify.com/album/6GYXrEPO9rtxkNeeDeTae4"
-      },
-      "artists": [
-        {
-          "name": "Carmen Boza",
-          "url": "https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u"
-        }
-      ],
-      "duration_ms": 269932,
-      "name": "Un Golpe de Suerte",
-      "url": "https://open.spotify.com/track/2p0oHRooKITKxv3UbjgDzg"
-    },
-    {
-      "added_at": "2024-09-06 06:00:00",
-      "album": {
         "name": "Canto al cansancio",
         "url": "https://open.spotify.com/album/5fJQ2Y7Shbhs5Y0HpPsRLI"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 210964,
       "name": "Canto al cansancio",
       "url": "https://open.spotify.com/track/5tfhPCqCpOURWrQq8MTjG8"
+    },
+    {
+      "added_at": "2024-09-06 06:00:00",
+      "album": {
+        "name": "Un Golpe de Suerte",
+        "url": "https://open.spotify.com/album/6GYXrEPO9rtxkNeeDeTae4"
+      },
+      "artists": [
+        {
+          "name": "Carmen Boza",
+          "url": "https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u"
+        }
+      ],
+      "duration_ms": 269932,
+      "name": "Un Golpe de Suerte",
+      "url": "https://open.spotify.com/track/2p0oHRooKITKxv3UbjgDzg"
     },
     {
       "added_at": "2024-09-06 06:00:00",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
+        "name": "Maison Du Monde",
+        "url": "https://open.spotify.com/album/7yV0PHxjUqJ3CnB0J7OxD3"
+      },
+      "artists": [
+        {
+          "name": "Luis Ramiro",
+          "url": "https://open.spotify.com/artist/1WWezGDnjvHxS6DjIq9GjT"
+        }
+      ],
+      "duration_ms": 205271,
+      "name": "Maison Du Monde",
+      "url": "https://open.spotify.com/track/4joqLG9X39fahIqs0ObvGu"
+    },
+    {
+      "added_at": "2024-09-06 06:00:00",
+      "album": {
         "name": "Comida China",
         "url": "https://open.spotify.com/album/5C7cBSWs7ANBAjCdPuv4x5"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 162993,
       "name": "Comida China",
       "url": "https://open.spotify.com/track/5oWz29Lp0mLiA9d0wPJNsG"
-    },
-    {
-      "added_at": "2024-09-06 06:00:00",
-      "album": {
-        "name": "Maison Du Monde",
-        "url": "https://open.spotify.com/album/7yV0PHxjUqJ3CnB0J7OxD3"
-      },
-      "artists": [
-        {
-          "name": "Luis Ramiro",
-          "url": "https://open.spotify.com/artist/1WWezGDnjvHxS6DjIq9GjT"
-        }
-      ],
-      "duration_ms": 205271,
-      "name": "Maison Du Monde",
-      "url": "https://open.spotify.com/track/4joqLG9X39fahIqs0ObvGu"
     },
     {
       "added_at": "2024-09-06 06:00:00",
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
-        "name": "Florecer",
-        "url": "https://open.spotify.com/album/01Xe3VW1jvJEv9rngI9YEI"
-      },
-      "artists": [
-        {
-          "name": "Carla Collado",
-          "url": "https://open.spotify.com/artist/4Fh3faF6TO5bKFMGChmE9S"
-        },
-        {
-          "name": "Luis Ferc\u00e1n",
-          "url": "https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS"
-        }
-      ],
-      "duration_ms": 217787,
-      "name": "Florecer",
-      "url": "https://open.spotify.com/track/4q8zBK2tiTaVKgzroaITdH"
-    },
-    {
-      "added_at": "2024-09-06 06:00:00",
-      "album": {
         "name": "A volar (feat. Lido Pimienta)",
         "url": "https://open.spotify.com/album/39dGTpmBPRDjT0NRpnyoOO"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 217253,
       "name": "A volar (feat. Lido Pimienta)",
       "url": "https://open.spotify.com/track/5KnFKXycHFZhchoOjFASU1"
+    },
+    {
+      "added_at": "2024-09-06 06:00:00",
+      "album": {
+        "name": "Florecer",
+        "url": "https://open.spotify.com/album/01Xe3VW1jvJEv9rngI9YEI"
+      },
+      "artists": [
+        {
+          "name": "Carla Collado",
+          "url": "https://open.spotify.com/artist/4Fh3faF6TO5bKFMGChmE9S"
+        },
+        {
+          "name": "Luis Ferc\u00e1n",
+          "url": "https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS"
+        }
+      ],
+      "duration_ms": 217787,
+      "name": "Florecer",
+      "url": "https://open.spotify.com/track/4q8zBK2tiTaVKgzroaITdH"
     },
     {
       "added_at": "2024-09-06 06:00:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
-        "name": "Siempre sale el sol en Barcelona (Live Session Chez Xefo Art Gallery)",
-        "url": "https://open.spotify.com/album/2qsM651C2i9MUZ819mNvSm"
-      },
-      "artists": [
-        {
-          "name": "Luisa y el Mar",
-          "url": "https://open.spotify.com/artist/1DtFgHhE0JUClAC5rOiZiC"
-        }
-      ],
-      "duration_ms": 175905,
-      "name": "Siempre sale el sol en Barcelona - Live Session Chez Xefo Art Gallery",
-      "url": "https://open.spotify.com/track/6WPgSIwrJG8gSbkGEYQWo8"
-    },
-    {
-      "added_at": "2024-09-06 06:00:00",
-      "album": {
         "name": "Hoy no tengo nada que hacer",
         "url": "https://open.spotify.com/album/7beLtij36C7qfuqwwdoqhQ"
       },
@@ -1615,22 +1599,34 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
-        "name": "Pecho Jard\u00edn",
-        "url": "https://open.spotify.com/album/7bA5CbHjNftxr0NvL9nrGc"
+        "name": "Siempre sale el sol en Barcelona (Live Session Chez Xefo Art Gallery)",
+        "url": "https://open.spotify.com/album/2qsM651C2i9MUZ819mNvSm"
       },
       "artists": [
         {
-          "name": "Alejandro Albarr\u00e1n",
-          "url": "https://open.spotify.com/artist/1QmdL2FgY8hrUjbKxX3jcK"
-        },
-        {
-          "name": "Rosario Alfonso",
-          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
+          "name": "Luisa y el Mar",
+          "url": "https://open.spotify.com/artist/1DtFgHhE0JUClAC5rOiZiC"
         }
       ],
-      "duration_ms": 282990,
-      "name": "Pecho Jard\u00edn",
-      "url": "https://open.spotify.com/track/2lG6Uab6jE44w5PPQKTRC7"
+      "duration_ms": 175905,
+      "name": "Siempre sale el sol en Barcelona - Live Session Chez Xefo Art Gallery",
+      "url": "https://open.spotify.com/track/6WPgSIwrJG8gSbkGEYQWo8"
+    },
+    {
+      "added_at": "2024-09-06 06:00:00",
+      "album": {
+        "name": "Vidrieritas",
+        "url": "https://open.spotify.com/album/7coLrKNPKAPDZfgLotJ1VW"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda de la Flor",
+          "url": "https://open.spotify.com/artist/0kQpC0wjuUoy6ppyXWgYH3"
+        }
+      ],
+      "duration_ms": 215786,
+      "name": "Vidrieritas",
+      "url": "https://open.spotify.com/track/0iII2cRRg31qEKRmfKx545"
     },
     {
       "added_at": "2024-09-06 06:00:00",
@@ -1655,18 +1651,22 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
-        "name": "Vidrieritas",
-        "url": "https://open.spotify.com/album/7coLrKNPKAPDZfgLotJ1VW"
+        "name": "Pecho Jard\u00edn",
+        "url": "https://open.spotify.com/album/7bA5CbHjNftxr0NvL9nrGc"
       },
       "artists": [
         {
-          "name": "Mar\u00eda de la Flor",
-          "url": "https://open.spotify.com/artist/0kQpC0wjuUoy6ppyXWgYH3"
+          "name": "Alejandro Albarr\u00e1n",
+          "url": "https://open.spotify.com/artist/1QmdL2FgY8hrUjbKxX3jcK"
+        },
+        {
+          "name": "Rosario Alfonso",
+          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
         }
       ],
-      "duration_ms": 215786,
-      "name": "Vidrieritas",
-      "url": "https://open.spotify.com/track/0iII2cRRg31qEKRmfKx545"
+      "duration_ms": 282990,
+      "name": "Pecho Jard\u00edn",
+      "url": "https://open.spotify.com/track/2lG6Uab6jE44w5PPQKTRC7"
     },
     {
       "added_at": "2024-09-06 06:00:00",
@@ -1807,18 +1807,18 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
-        "name": "Sim\u00f3n",
-        "url": "https://open.spotify.com/album/2msIOoeg2OmpUfWQBw4BkD"
+        "name": "Vuelo de casa en casa",
+        "url": "https://open.spotify.com/album/7FvdXE0psbDlCDeDKfGkfP"
       },
       "artists": [
         {
-          "name": "Montse",
-          "url": "https://open.spotify.com/artist/3T0GzJMjk9HMVCWH8cteSm"
+          "name": "Amanda Verd\u00fa",
+          "url": "https://open.spotify.com/artist/3jL1j1GM43wF52RSNi2KP8"
         }
       ],
-      "duration_ms": 298751,
-      "name": "Sim\u00f3n",
-      "url": "https://open.spotify.com/track/4xMiOxgxoJQ12FuRJ6lb0M"
+      "duration_ms": 170772,
+      "name": "Vuelo de casa en casa",
+      "url": "https://open.spotify.com/track/3BYL5K1a2oNb7GpgYekt9z"
     },
     {
       "added_at": "2024-09-06 06:00:00",
@@ -1855,18 +1855,18 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
-        "name": "La Fuerza",
-        "url": "https://open.spotify.com/album/4qMSZDyLdEJtoL19qzG4ld"
+        "name": "Sim\u00f3n",
+        "url": "https://open.spotify.com/album/2msIOoeg2OmpUfWQBw4BkD"
       },
       "artists": [
         {
-          "name": "Paz Court",
-          "url": "https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm"
+          "name": "Montse",
+          "url": "https://open.spotify.com/artist/3T0GzJMjk9HMVCWH8cteSm"
         }
       ],
-      "duration_ms": 240771,
-      "name": "Pajarillo Negro",
-      "url": "https://open.spotify.com/track/4DMhBxXwHcaY8C0Bv8PwFc"
+      "duration_ms": 298751,
+      "name": "Sim\u00f3n",
+      "url": "https://open.spotify.com/track/4xMiOxgxoJQ12FuRJ6lb0M"
     }
   ],
   "unique_name": "Cancionistas",

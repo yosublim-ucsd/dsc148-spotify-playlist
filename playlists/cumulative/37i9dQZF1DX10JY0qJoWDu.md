@@ -4,7 +4,7 @@
 
 > Holiday cheer from your Disney favorites!
 
-129 songs - 5 hr 54 min
+130 songs - 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [One More Sleep ’til Christmas](https://open.spotify.com/track/4ZEUe2d1foQdbsNdgQXZlS) | [Kermit](https://open.spotify.com/artist/2lKVLoBlDFcONGT1XhQsIw) | [The Muppet Christmas Carol \(Special Anniversary Edition\)](https://open.spotify.com/album/63DYbHrvwaBaWVjqQkNvT0) | 2:50 | 2022-12-08 |  |
 | [Put the Happy in the Holidays](https://open.spotify.com/track/4xYTkjQuWnG15P2vBoWoL4) | [Issac Ryan Brown](https://open.spotify.com/artist/5aOMbv75CfxervJbTpcGXO), [Meg Donnelly](https://open.spotify.com/artist/0jcl46xRBm9LKIwrKGQPE6), [Sky Katz](https://open.spotify.com/artist/05U4J0pOT7paL8rMJ679Jz), [Chandler Kinney](https://open.spotify.com/artist/4GsVpISKE79xqOxIrj9FTk), [Ruth Righi](https://open.spotify.com/artist/7wXmoaPGvuUUGedB6D52ku), [Navia Robinson](https://open.spotify.com/artist/6eT9WXYVb5CR9sbru8xfOf), [Trevor Tordjman](https://open.spotify.com/artist/4cCKeV2O9AE36tLDYlyVZt) | [Put the Happy in the Holidays](https://open.spotify.com/album/1Pjl8ZqtiS4Eo4zmx77HP3) | 3:00 | 2021-12-03 |  |
 | [Radiator Rockin' Holiday](https://open.spotify.com/track/74aAZfdIT4EFgB9rAF1tuD) | [Larry The Cable Guy](https://open.spotify.com/artist/2iVKGetYUZQElKZKWECyF4) | [Season's Speedings from Cars Land: Holiday Songs from Mater & Luigi](https://open.spotify.com/album/3lfUQ49g7aDndmiJ4sCvv4) | 1:35 | 2023-12-18 |  |
+| [Red Christmas \- From "Descendants: The Rise of Red"](https://open.spotify.com/track/6PB4cjXAxH1YxXHzug7i7L) | [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX) | [Red Christmas \- From "Descendants: The Rise of Red"](https://open.spotify.com/album/3E9QzmjoJlNmwUNPt3aaDC) | 2:43 | 2024-09-13 |  |
 | [Ring in the Season](https://open.spotify.com/track/4EPhn7t0rwqUe6JHjBasmp) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Holiday](https://open.spotify.com/album/4lI72R566Md6rfdPAOtRFJ) | 2:59 | 2022-12-08 |  |
 | [Ring in the Season](https://open.spotify.com/track/4UoYb2HJklHzXbVA5klJGt) | [Kristen Bell](https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI), [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Josh Gad](https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY) | [Olaf's Frozen Adventure \(Original Soundtrack\)](https://open.spotify.com/album/2XaJcrXkpMvHaVJqr4FbPa) | 1:58 | 2021-12-03 |  |
 | [Rise Up \(Joy to the World\)](https://open.spotify.com/track/1We0BQ3tzm1BxJSw4xxMkq) | [Jillian Shea](https://open.spotify.com/artist/6MG9ZA7bWygcE92TnXrTP4) | [Godmothered \(Original Soundtrack\)](https://open.spotify.com/album/2hq50mdkzgz6UEeqnePnGb) | 2:37 | 2021-12-03 |  |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lOLSAzbbCv.md) - [plain]
 
 > Хіти українського репу\. На обкладинцi: Олександр Положинський, Тарас Петриненко
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,466 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,485 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Час](https://open.spotify.com/track/3YUlBCX1qQoyA4ese1Zjk7) | [Олександр Положинський](https://open.spotify.com/artist/6NKa3iTFT9Yifg6vJnoIw1), [Taras Petrynenko](https://open.spotify.com/artist/6VejvVndgsDYG94TcjwQJk) | [Час](https://open.spotify.com/album/2Y2pz9BwOUod8nTE1JunDy) | 3:14 |
+| 1 | [Час](https://open.spotify.com/track/3YUlBCX1qQoyA4ese1Zjk7) | [Олександр Положинський](https://open.spotify.com/artist/6NKa3iTFT9Yifg6vJnoIw1), [Тарас Пeтриненко](https://open.spotify.com/artist/3wakYXqz3mpE3EfOELDhQx) | [Час](https://open.spotify.com/album/2Y2pz9BwOUod8nTE1JunDy) | 3:14 |
 | 2 | [Mommy](https://open.spotify.com/track/212Zy4CjSIOLmxg4qxCvyJ) | [BURLA](https://open.spotify.com/artist/4Xc09aG2Xh4nCikfxZRszu) | [Mommy](https://open.spotify.com/album/4JfHr3SQMc7psDms6EScVs) | 2:13 |
 | 3 | [ВАВИЛОН](https://open.spotify.com/track/3wDcA4yVxjU1jVu0havb6D) | [YARMAK](https://open.spotify.com/artist/0oHyOQzDKjW5JVf347hue4) | [ВАВИЛОН](https://open.spotify.com/album/4nazo4fCYSZdf1oNSKGvI1) | 5:06 |
 | 4 | [Тиші немає](https://open.spotify.com/track/6Axa4LV9E2KbAHHF96lLmt) | [KALUSH](https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842), [Krasna Tysha](https://open.spotify.com/artist/5WD4YPNOrVGVmOnmwnZexh) | [Тиші немає](https://open.spotify.com/album/6NOtQ3lfqVNRmF8SIXxTHl) | 2:51 |

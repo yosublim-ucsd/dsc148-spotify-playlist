@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL4ybW0RHS6K.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/27oxH68ZhwZ4Td6jZztQqs">Caza</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66 likes - 78 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 65 likes - 78 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL4ybW0RHS6K.md) - [plain]
 | 65 | [Body \(feat\. Caza\)](https://open.spotify.com/track/0x6yIyHAEj2t9oXTQxirbz) | [Kevcody](https://open.spotify.com/artist/3heGIV1KV0B4c4MW7H2mey), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Lockdown](https://open.spotify.com/album/11wRjWP53iMfay27u3w4tq) | 2:09 |
 | 66 | [CONTEST](https://open.spotify.com/track/6yWzuF0sb6cX2gyNFl5mYJ) | [TOMMY](https://open.spotify.com/artist/6UrqENU5uLgpXCx5a4SRKM) | [CONTEST](https://open.spotify.com/album/3iJqniJbShK8X9G0TMazur) | 2:17 |
 | 67 | [Luider](https://open.spotify.com/track/2QRnvYBBSFUIRi4in10AFj) | [GLOWINTHEDARK](https://open.spotify.com/artist/2gLZZdgHD8ZbSAB2qQkr3P), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Lituatie 2 Aftershock](https://open.spotify.com/album/1C7APDdiwBmVB5O4LF3Alz) | 2:45 |
-| 68 | [Bless Jouw Body](https://open.spotify.com/track/2x472AZYPXhd7d1xSPQd7D) | [Le Seton](https://open.spotify.com/artist/4BVVXzIjJs3Arqqu4UWz4x), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Niet Verzonden](https://open.spotify.com/album/7JC8cLDQjTiWqLX7XeKLlo) | 2:39 |
-| 69 | [Bend Down](https://open.spotify.com/track/6hVP3mWTRf5xTWk5WjiF5d) | [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Bend Down](https://open.spotify.com/album/7rOpGDYE59NPc3BptEaMar) | 2:22 |
+| 68 | [Bend Down](https://open.spotify.com/track/6hVP3mWTRf5xTWk5WjiF5d) | [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Bend Down](https://open.spotify.com/album/7rOpGDYE59NPc3BptEaMar) | 2:22 |
+| 69 | [Bless Jouw Body](https://open.spotify.com/track/2x472AZYPXhd7d1xSPQd7D) | [Le Seton](https://open.spotify.com/artist/4BVVXzIjJs3Arqqu4UWz4x), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Niet Verzonden](https://open.spotify.com/album/7JC8cLDQjTiWqLX7XeKLlo) | 2:39 |
 | 70 | [HOTBOX \(feat\. Caza & ROLLÀN\)](https://open.spotify.com/track/0nZzPrwotUUnnduMYzoiSG) | [Kid de Blits](https://open.spotify.com/artist/5geBneZf2rfQaLDUVkQBFn), [Cartiez](https://open.spotify.com/artist/56ZZ26azsd2DweoNtobfa1), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9), [ROLLÀN](https://open.spotify.com/artist/3sQYZrIBmLAuNc7tsLtkka) | [DSL](https://open.spotify.com/album/0eWVUKsMqv1fFsehw51Xh3) | 2:48 |
 | 71 | [Money & Shine](https://open.spotify.com/track/2Wn07fQXqIxn74fL30JnBX) | [Famke Louise](https://open.spotify.com/artist/4Dm1MX4VPbtLssAQeBhHFo) | [Money & Shine](https://open.spotify.com/album/65JoVecMLwZ9UBns4HcDwz) | 1:51 |
 | 72 | [Trap Phone \(feat\. Caza\)](https://open.spotify.com/track/3lZOPG6RD2hgFJimX0YK5z) | [Vlado](https://open.spotify.com/artist/3OcPdn7YP6TgPT4wqoDOfi), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Trap Phone](https://open.spotify.com/album/74AVyCfx2HgawZ84ZT1ULq) | 3:02 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL4ybW0RHS6K.md) - [plain]
 | 77 | [No Crown \(feat\. Caza\)](https://open.spotify.com/track/1Cen6JcfsfSiYE1hN84EDC) | [Vlado](https://open.spotify.com/artist/3OcPdn7YP6TgPT4wqoDOfi), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Trap Phone](https://open.spotify.com/album/74AVyCfx2HgawZ84ZT1ULq) | 2:33 |
 | 78 | [Rudebwoy \(feat\. Kempi & Caza\) \- Instrumental](https://open.spotify.com/track/7gfwWdXbcjAfsOjqFhpHDG) | [Jiri11](https://open.spotify.com/artist/6RxMqY900Xpza3Kh9j86Mn), [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [TRIFECTA Type Beat Volume 4](https://open.spotify.com/album/0N0MHtP27q7nwH0PVrqByX) | 3:09 |
 
-Snapshot ID: `Abb+dgAAAAC4nUfzaO9CqGyA0QmDKiY6`
+Snapshot ID: `AbcEPgAAAAA4PxZGZ9khcpR+0vECqP41`

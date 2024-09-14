@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 
 > Détendez\-vous au son de titres R&B, Soul et Hip\-Hop alternatif\. Photo : Kehlani
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,608 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,610 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 | 5 | [Switch](https://open.spotify.com/track/57TWkgQVyTCzffOzMJKens) | [OSA](https://open.spotify.com/artist/13wBNPUEHHtM5rjD9u6BYW) | [Switch](https://open.spotify.com/album/1iFSSMmk9eJGPhiOw7Gk77) | 2:53 |
 | 6 | [CHILL ON ME](https://open.spotify.com/track/31DeTEQ3Y8G0I7DmwqLusq) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC) | [CHILL ON ME](https://open.spotify.com/album/1amVbKXct9YO5r2q7KK242) | 3:35 |
 | 7 | [Fold](https://open.spotify.com/track/5PeH63iIPRhJ8PH1NYU7VP) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Fold](https://open.spotify.com/album/7G9J7ME1E89jnBT6Kyx3YG) | 2:37 |
-| 8 | [Moviestar \(feat\. Col3trane\)](https://open.spotify.com/track/5saMdClnsVoDlEwST3qhOA) | [Santino Le Saint](https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6), [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Moviestar \(feat\. Col3trane\)](https://open.spotify.com/album/4u3A6VN0zZRwBzjvF2MWwk) | 4:09 |
+| 8 | [Moviestar](https://open.spotify.com/track/5saMdClnsVoDlEwST3qhOA) | [Santino Le Saint](https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6), [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Moviestar](https://open.spotify.com/album/4u3A6VN0zZRwBzjvF2MWwk) | 4:09 |
 | 9 | [Send Your Loving \(feat\. Tayc\) \[Remix\]](https://open.spotify.com/track/4PSmIpWMQnUpOsWfM2APIy) | [Ama Louise](https://open.spotify.com/artist/4Yzt77yPpz5hJkBwBPTQ73), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Send Your Loving \(feat\. Tayc\) \[Remix\]](https://open.spotify.com/album/3vkhzUiGeh7QxV7i1SUnI4) | 3:41 |
 | 10 | [Oakland Pt\. 2](https://open.spotify.com/track/53ZSD18jfaGFqSnj4FL8Lq) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [Oakland Pt\. 2](https://open.spotify.com/album/17mz6AvacvJo6kK9stQTLK) | 2:36 |
 | 11 | [Burning](https://open.spotify.com/track/1D1M805zV8DwhYXsvJdQZx) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 2:55 |

@@ -1,12 +1,12 @@
 {
-  "description": "This is Mc Luanna. The essential tracks, all in one playlist.",
-  "num_followers": 10409,
+  "description": "This is Mc Luanna. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 10425,
   "original_name": "This Is Mc Luanna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuDdgAAAAACHndw2mf0CdtL24ZD15QKm",
+  "snapshot_id": "ZuIvAAAAAABuW00oJtZ6SJGM+2X9XfQw",
   "tracks": [
     {
       "added_at": null,
@@ -287,6 +287,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Botano (\u00datero Baixo)",
+        "url": "https://open.spotify.com/album/7baADEZGaDw6LsdwyaOSEX"
+      },
+      "artists": [
+        {
+          "name": "DJ Caio Prince",
+          "url": "https://open.spotify.com/artist/5QihhtcyXmUesNqhRRaoaM"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        },
+        {
+          "name": "DJ Thiago Martins",
+          "url": "https://open.spotify.com/artist/201eJ9jddoHC00soaLF6td"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Botano (\u00datero Baixo)",
+      "url": "https://open.spotify.com/track/6YCqXGsOAPKFBwQ4EtoM5Y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Larga Essa Vida",
         "url": "https://open.spotify.com/album/4fraCYAYq2B7H3AsennyRp"
       },
@@ -315,34 +343,6 @@
       "duration_ms": 119008,
       "name": "Larga Essa Vida",
       "url": "https://open.spotify.com/track/1I7rnx1blEUfgEi9owDD4C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Botano (\u00datero Baixo)",
-        "url": "https://open.spotify.com/album/7baADEZGaDw6LsdwyaOSEX"
-      },
-      "artists": [
-        {
-          "name": "DJ Caio Prince",
-          "url": "https://open.spotify.com/artist/5QihhtcyXmUesNqhRRaoaM"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        },
-        {
-          "name": "DJ Thiago Martins",
-          "url": "https://open.spotify.com/artist/201eJ9jddoHC00soaLF6td"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Botano (\u00datero Baixo)",
-      "url": "https://open.spotify.com/track/6YCqXGsOAPKFBwQ4EtoM5Y"
     },
     {
       "added_at": null,
@@ -411,6 +411,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Combate",
+        "url": "https://open.spotify.com/album/4UNuBZQoxlSjx2bCI8kqfC"
+      },
+      "artists": [
+        {
+          "name": "RAP, falando",
+          "url": "https://open.spotify.com/artist/5V8FZVxUupPFrmqrZcoaBt"
+        },
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+        }
+      ],
+      "duration_ms": 190850,
+      "name": "Combate",
+      "url": "https://open.spotify.com/track/2LkRPTwqJ6PqoOKswBQkdp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MAGIC SHOW",
         "url": "https://open.spotify.com/album/5lxnAXkn1mXv4LQSrnVtGW"
       },
@@ -439,34 +467,6 @@
       "duration_ms": 169830,
       "name": "SERENATA",
       "url": "https://open.spotify.com/track/7LjNjigC0Jqru3idZwKL3x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Combate",
-        "url": "https://open.spotify.com/album/4UNuBZQoxlSjx2bCI8kqfC"
-      },
-      "artists": [
-        {
-          "name": "RAP, falando",
-          "url": "https://open.spotify.com/artist/5V8FZVxUupPFrmqrZcoaBt"
-        },
-        {
-          "name": "Tasha & Tracie",
-          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "808 Luke",
-          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
-        }
-      ],
-      "duration_ms": 190850,
-      "name": "Combate",
-      "url": "https://open.spotify.com/track/2LkRPTwqJ6PqoOKswBQkdp"
     },
     {
       "added_at": null,
@@ -539,26 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "44",
-        "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        }
-      ],
-      "duration_ms": 187350,
-      "name": "Maldita",
-      "url": "https://open.spotify.com/track/3MSsAKcyLjiMJz0Hq4kZos"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ai Caralh*",
         "url": "https://open.spotify.com/album/2BguUcLv11qrIymhG7zonv"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 169655,
       "name": "Ai Caralh*",
       "url": "https://open.spotify.com/track/3U2jpqcfhA9vpy2jwEQqYr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "44",
+        "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        }
+      ],
+      "duration_ms": 187350,
+      "name": "Maldita",
+      "url": "https://open.spotify.com/track/3MSsAKcyLjiMJz0Hq4kZos"
     },
     {
       "added_at": null,
@@ -839,30 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gambiarra Chic, Pt. 1",
-        "url": "https://open.spotify.com/album/2wlQIZh68jjdSizM2CReLz"
-      },
-      "artists": [
-        {
-          "name": "Irm\u00e3s de Pau",
-          "url": "https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        }
-      ],
-      "duration_ms": 180004,
-      "name": "CUSSY",
-      "url": "https://open.spotify.com/track/4Hoc1S0s6cZtni6ghIytDX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hino Delas",
         "url": "https://open.spotify.com/album/7yZ4A2amuedBlNHRC9ESMd"
       },
@@ -883,6 +859,30 @@
       "duration_ms": 139854,
       "name": "Hino Delas",
       "url": "https://open.spotify.com/track/2k7EbkIovGbJJCWy7OoOgb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gambiarra Chic, Pt. 1",
+        "url": "https://open.spotify.com/album/2wlQIZh68jjdSizM2CReLz"
+      },
+      "artists": [
+        {
+          "name": "Irm\u00e3s de Pau",
+          "url": "https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        }
+      ],
+      "duration_ms": 180004,
+      "name": "CUSSY",
+      "url": "https://open.spotify.com/track/4Hoc1S0s6cZtni6ghIytDX"
     },
     {
       "added_at": null,

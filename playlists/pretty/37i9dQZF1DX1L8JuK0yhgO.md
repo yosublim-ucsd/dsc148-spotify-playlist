@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,141 likes - 70 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,146 likes - 70 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [BET](https://open.spotify.com/track/75oZgfBbEErNzXIT5YPnzX) | [dawgss](https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR), [Kingo](https://open.spotify.com/artist/0EQsho43hajeaj7OxSVVZP), [寺久保伶矢](https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE) | [BET](https://open.spotify.com/album/3WruJWg8DgPcqy7UlV8L60) | 2:45 |
 | 2 | [交差点](https://open.spotify.com/track/6ST0BbttHl57erq1F46Yem) | [VaVa](https://open.spotify.com/artist/5JlRv2tBZk1f4c7UULHkUY), [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT), [髙比良くるま](https://open.spotify.com/artist/4LX129bbBeg1orJRdZsJwd) | [交差点](https://open.spotify.com/album/7sfiy6psryJg5PlcSnImTX) | 2:42 |
 | 3 | [断捨離](https://open.spotify.com/track/4UTeaHWKXHVzCEo1umGISP) | [ASOBOiSM](https://open.spotify.com/artist/5DdX6WAZixq5ZN5eGg068D), [サーヤ](https://open.spotify.com/artist/3oVORymq7ZxbdxMnGggffw) | [断捨離](https://open.spotify.com/album/38me7n6WhqQ2WpriCLNU5k) | 3:04 |
-| 4 | [BULLDOZER](https://open.spotify.com/track/1CsDTErfzbeq61FESzsayD) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [Eastern Margins](https://open.spotify.com/artist/28U72qhceWcm0usxPCY0ut) | [BULLDOZER](https://open.spotify.com/album/1qIdi4vFmO79C90DhUk7yK) | 2:41 |
+| 4 | [BULLDOZER](https://open.spotify.com/track/1CsDTErfzbeq61FESzsayD) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS) | [BULLDOZER](https://open.spotify.com/album/1qIdi4vFmO79C90DhUk7yK) | 2:41 |
 | 5 | [好人紀行](https://open.spotify.com/track/77y1TjSTPoJpK4Qfvi2gHP) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [好人紀行](https://open.spotify.com/album/0PPj5HcWUa6ltwCmR0lRun) | 4:03 |
 | 6 | [リズム](https://open.spotify.com/track/2rImdgqiuyvfwTlfCnmtS3) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Golden Child](https://open.spotify.com/album/31NxRGGXtEXb3a54YRZgYF) | 3:27 |
 | 7 | [Love Deluxe](https://open.spotify.com/track/3kWaD0aqdktiODa7jhSLU7) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [Love Deluxe](https://open.spotify.com/album/21F5oKkCpE0DuOlA7S3KCl) | 3:55 |
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 16 | [Close to me](https://open.spotify.com/track/18TAZhishe964wJTXpp3PJ) | [Show Chick Boy](https://open.spotify.com/artist/0JEcGdbz3QOur7R1meQYuS), [Sam is Ohm](https://open.spotify.com/artist/3OFWImEAUL4Mqc0yH2A0Rg) | [Close to me](https://open.spotify.com/album/0vOeKD4ulSpOc13467b1W5) | 3:23 |
 | 17 | [CUE :\)](https://open.spotify.com/track/4dbc3zkAP1RAPk84w6o6Cs) | [FLEUR](https://open.spotify.com/artist/6WWEd7zMMyx6BKLnKukmeV), [DJ Yen](https://open.spotify.com/artist/5kRFqqvu4FOtaOevEfYH60) | [CUE :\)](https://open.spotify.com/album/5vt7rKllGYhmP6fmlX4zNR) | 3:24 |
 | 18 | [Piano Jones](https://open.spotify.com/track/7GlyReMfHw6mPXuusV4E2o) | [Jambo Lacquer](https://open.spotify.com/artist/0eCTHbWkpE5PHesKzCf4cQ), [Kojoe](https://open.spotify.com/artist/3yP8JwasYIrAxRT2Dw1xZu) | [Piano Jones](https://open.spotify.com/album/5rR7LW3YSCoY7uNxbolN2T) | 3:11 |
-| 19 | [You Don't Need](https://open.spotify.com/track/6vSWvyft7Pr2BFSFge1wgP) | [Madkosmos](https://open.spotify.com/artist/0JRNvckf8Yk6kgZh9tbe1a), [Opus Inn](https://open.spotify.com/artist/4oaflwvkYRNxx5xdCasjSF) | [You Don't Need](https://open.spotify.com/album/4I0JCqOg7CXQ3fuMK8NX9N) | 3:53 |
+| 19 | [You Don't Need](https://open.spotify.com/track/6vSWvyft7Pr2BFSFge1wgP) | [Madkosmos](https://open.spotify.com/artist/0JRNvckf8Yk6kgZh9tbe1a), [Opus Inn](https://open.spotify.com/artist/4cWL25GGfx6BTl7JZXJBq8) | [You Don't Need](https://open.spotify.com/album/4I0JCqOg7CXQ3fuMK8NX9N) | 3:53 |
 | 20 | [daybreak](https://open.spotify.com/track/0ahpaSaarTfUGzTvlKR4nE) | [malord](https://open.spotify.com/artist/4PLbpe0oMcvQKf3J6MLVEp) | [daybreak](https://open.spotify.com/album/6dK86uUnU3Qf1mn88yFF1V) | 3:30 |
 | 21 | [In My Room](https://open.spotify.com/track/0IhqnOAlNjqa8CcVFj8xBd) | [Fried Banana Shop](https://open.spotify.com/artist/1FsQB9WixbPjX7AB3g8tNF), [JU!iE](https://open.spotify.com/artist/4if9AbmB5HBpvMqKS3X0A7) | [In My Room](https://open.spotify.com/album/3s9s7YjN8oCyxoIXOhOvs4) | 3:23 |
 | 22 | [plum](https://open.spotify.com/track/7DnLX5NYns6rw9IqPcyDNg) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [plum](https://open.spotify.com/album/4X1QUjwxbC4aatDurNoZDr) | 3:20 |

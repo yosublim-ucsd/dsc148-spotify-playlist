@@ -1,12 +1,12 @@
 {
-  "description": "This Is Edgardo Nu\u00f1ez. Los temas esenciales, todos en una lista.",
-  "num_followers": 35359,
+  "description": "This is Edgardo Nu\u00f1ez. The essential tracks, all in one playlist.",
+  "num_followers": 35401,
   "original_name": "This Is Edgardo Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuDdgAAAAABz94F0jBJftZXyJKrm+Pzy",
+  "snapshot_id": "ZuIvAAAAAABuKYwDW390/+kBEXWn85ae",
   "tracks": [
     {
       "added_at": null,
@@ -227,6 +227,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yo Soy El Pirata",
+        "url": "https://open.spotify.com/album/5StDUNYTjFuRdk7LG9Yta9"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 168670,
+      "name": "Yo Soy El Pirata",
+      "url": "https://open.spotify.com/track/50hNprrEeMeZ89Uh2YgzUg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dicen Y Dicen",
         "url": "https://open.spotify.com/album/4EyOfEfGnA7YSuTFA9CJ49"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 173105,
       "name": "Dicen Y Dicen",
       "url": "https://open.spotify.com/track/4VLl5U59czwlduQCcJ6Jkp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yo Soy El Pirata",
-        "url": "https://open.spotify.com/album/5StDUNYTjFuRdk7LG9Yta9"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 168670,
-      "name": "Yo Soy El Pirata",
-      "url": "https://open.spotify.com/track/50hNprrEeMeZ89Uh2YgzUg"
     },
     {
       "added_at": null,
@@ -411,26 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Humo De Mi Gallo",
-        "url": "https://open.spotify.com/album/6EzDCDQdRd7si00U61tjlN"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 144080,
-      "name": "El Humo De Mi Gallo",
-      "url": "https://open.spotify.com/track/4peahmVQMLGlWwJLNodzcD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Polvo Soy",
         "url": "https://open.spotify.com/album/3HltDQreHZI013zu1J8Q60"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 173793,
       "name": "Polvo Soy",
       "url": "https://open.spotify.com/track/0hTJPHYkKsSzf9gfejChCy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Humo De Mi Gallo",
+        "url": "https://open.spotify.com/album/6EzDCDQdRd7si00U61tjlN"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 144080,
+      "name": "El Humo De Mi Gallo",
+      "url": "https://open.spotify.com/track/4peahmVQMLGlWwJLNodzcD"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos 602 Vol.3 (En Vivo)",
-        "url": "https://open.spotify.com/album/1BqEmjAfzAAtKWULjOW0z8"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 177258,
-      "name": "Demonio Dormido - En Vivo",
-      "url": "https://open.spotify.com/track/3A09S34dhYnWdhLMvmnfgV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CORRIDOS FELICES - DELUXE",
         "url": "https://open.spotify.com/album/6aUFW1CXXtZfeZJ6hTZhPo"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 130146,
       "name": "Deluxe",
       "url": "https://open.spotify.com/track/25gBI72Y98PLAjMYHEZzsE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos 602 Vol.3 (En Vivo)",
+        "url": "https://open.spotify.com/album/1BqEmjAfzAAtKWULjOW0z8"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 177258,
+      "name": "Demonio Dormido - En Vivo",
+      "url": "https://open.spotify.com/track/3A09S34dhYnWdhLMvmnfgV"
     },
     {
       "added_at": null,

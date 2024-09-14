@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSX4baQVDQut.md) - [plain]
 
 > Nosotros ponemos la música y tú los pasos ;\)<br/>Can't stop, won't stop dancing!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,871,873 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,871,827 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSX4baQVDQut.md) - [plain]
 | 67 | [PLIS](https://open.spotify.com/track/1regh1ryWna3MRTKu401uD) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [un](https://open.spotify.com/album/69qvzyO2jAil3U6DZpckxr) | 3:42 |
 | 68 | [Me Caes Muy Bien](https://open.spotify.com/track/6kTCDfKw1X01COdmKM89v0) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Me Caes Muy Bien](https://open.spotify.com/album/4AYdIA4uoXMxyTfJkdxjSH) | 3:44 |
 | 69 | [LA FALDA \- Tiësto Remix](https://open.spotify.com/track/3mnH4IGAoxIh5sRY8N8NS0) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [LA FALDA \(Tiësto Remix\)](https://open.spotify.com/album/6nkUCUZ4vT2z074AjCbr2s) | 2:54 |
-| 70 | [LOVEO](https://open.spotify.com/track/0rBVM75Fqi5U6rCm2m5iTK) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [LOVEO](https://open.spotify.com/album/00lZ4WPWOw5BdLJAPMtvrr) | 2:53 |
+| 70 | [ZENDAYA](https://open.spotify.com/track/5vix081v4bfDgmFQlX64vS) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3), [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE) | [ZENDAYA](https://open.spotify.com/album/5oDvg27P43Q1hwmxN7FrQy) | 3:03 |
 
 Snapshot ID: `ZrpmZQAAAAC7cLUsswXOiKKtIupqOEp+`

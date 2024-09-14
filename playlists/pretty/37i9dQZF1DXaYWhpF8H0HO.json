@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuMgHQAAAAAzHIDodL+76gEB3Qs3XmCa",
+  "snapshot_id": "ZuQB3wAAAACJMvTfODh41Nk/4u8nhtg4",
   "tracks": [
     {
       "added_at": "2024-09-12 17:08:45",
@@ -97,6 +97,26 @@
       "url": "https://open.spotify.com/track/2x4U871UlUdjVtlLShDeHJ"
     },
     {
+      "added_at": "2024-09-13 09:11:59",
+      "album": {
+        "name": "Party In Bali (PIB) [feat. Jay Park]",
+        "url": "https://open.spotify.com/album/4BCEq5okdDEMSjqlg9oUZ2"
+      },
+      "artists": [
+        {
+          "name": "AGNEZ MO",
+          "url": "https://open.spotify.com/artist/6pMR8Zgot664613rAiLC2Z"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 172501,
+      "name": "Party In Bali (PIB) [feat. Jay Park]",
+      "url": "https://open.spotify.com/track/5ZjPVDronecWpciN3fmf5D"
+    },
+    {
       "added_at": "2024-09-12 17:08:45",
       "album": {
         "name": "Wax & Feathers",
@@ -127,22 +147,6 @@
       "duration_ms": 182760,
       "name": "LOVE ME LIKE YOU",
       "url": "https://open.spotify.com/track/63EbNEB1rrRaDjNXK4jlJC"
-    },
-    {
-      "added_at": "2024-09-12 17:08:45",
-      "album": {
-        "name": "Party In Bali (PIB)",
-        "url": "https://open.spotify.com/album/1H5xLltL7JBn10Ce9XZfTk"
-      },
-      "artists": [
-        {
-          "name": "AGNEZ MO",
-          "url": "https://open.spotify.com/artist/6pMR8Zgot664613rAiLC2Z"
-        }
-      ],
-      "duration_ms": 172501,
-      "name": "Party In Bali (PIB)",
-      "url": "https://open.spotify.com/track/0spo1IvT6CrCLDTVT7ue0O"
     },
     {
       "added_at": "2024-09-12 17:08:45",
@@ -335,6 +339,22 @@
       "duration_ms": 168475,
       "name": "birthday bae",
       "url": "https://open.spotify.com/track/4h00RvjZYWkCIIB67JqIgu"
+    },
+    {
+      "added_at": "2024-09-12 17:08:45",
+      "album": {
+        "name": "Party In Bali (PIB)",
+        "url": "https://open.spotify.com/album/1H5xLltL7JBn10Ce9XZfTk"
+      },
+      "artists": [
+        {
+          "name": "AGNEZ MO",
+          "url": "https://open.spotify.com/artist/6pMR8Zgot664613rAiLC2Z"
+        }
+      ],
+      "duration_ms": 172501,
+      "name": "Party In Bali (PIB)",
+      "url": "https://open.spotify.com/track/0spo1IvT6CrCLDTVT7ue0O"
     },
     {
       "added_at": "2024-09-12 17:08:45",

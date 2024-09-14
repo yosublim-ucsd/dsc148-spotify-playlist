@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sLipKPkV9T.md) - [plain]
 
 > כל הפופ היפה והמרגש של ישראל\. קאבר: סטטיק
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,793 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,805 likes - 59 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,6 +67,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sLipKPkV9T.md) - [plain]
 | 57 | [⁠לא כועסת](https://open.spotify.com/track/0YXUNdW6mAhIo5Bf8CA1ic) | [Netta](https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ) | [הכל עליי](https://open.spotify.com/album/4GU3NU1mKc3DUZKDvmWCz8) | 2:18 |
 | 58 | [איפה אתה](https://open.spotify.com/track/61NVr8MWFSum94stOYgCnv) | [Yuval Dayan](https://open.spotify.com/artist/4iWsyISSQEYGxdqBNVwqtA) | [תישארי את](https://open.spotify.com/album/6t5HmO126LXHRKGgp6xbOM) | 3:22 |
 | 59 | [אלף מנעולים](https://open.spotify.com/track/25eXvKmhatlH8DDRM5xPJI) | [Akiva](https://open.spotify.com/artist/308QpS53hDcYGZseJlXtma) | [אלף מנעולים](https://open.spotify.com/album/0z9j8qUFuxDTU9kzGAoDdi) | 4:10 |
-| 60 | [רעידת אדמה](https://open.spotify.com/track/3rV5bpPxR4J2zKwFEv2FaY) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [מרגיש כמו אהבה](https://open.spotify.com/album/0KhefYfT3hXwyUwis6u77M) | 2:53 |
 
-Snapshot ID: `ZuNWUAAAAAB1BaIKz/055xPhlYwYdb2A`
+Snapshot ID: `ZuQU8QAAAABsY3CXD6zciHujBYC/IVo4`

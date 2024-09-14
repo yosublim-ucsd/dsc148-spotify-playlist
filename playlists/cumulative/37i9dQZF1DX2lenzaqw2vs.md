@@ -2,9 +2,9 @@
 
 ### [BRILLO](https://open.spotify.com/playlist/37i9dQZF1DX2lenzaqw2vs)
 
-> Artistas LGBTQIA+ que brillan e inspiran.<br/>Cover: Paz Carrara
+> Artistas LGBTQIA+ que brillan e inspiran.<br/>Cover: Arca & Tokischa
 
-351 songs - 19 hr 12 min
+352 songs - 19 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Causa Y Efecto](https://open.spotify.com/track/0gdt218D74akk9AqMlbc45) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Gran City Pop \(Edited Version\)](https://open.spotify.com/album/1ZJLekUOKFcN2QQXMvasTJ) | 3:25 | 2021-12-09 | 2022-06-01 |
 | [Cayó](https://open.spotify.com/track/0sk6BOSSBxtdxAKB17YVG4) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Cayó](https://open.spotify.com/album/7Lm0VtI7bUWHrJbPXy0pq5) | 2:51 | 2022-06-01 | 2023-01-25 |
 | [CCC](https://open.spotify.com/track/7uuqrSuCjWxPTCVyOeGMyt) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [CCC](https://open.spotify.com/album/0BdTCfBqngPThmKfdWaXll) | 2:06 | 2023-06-29 | 2024-06-08 |
+| [Chama](https://open.spotify.com/track/57T2OCgiu5OEP2RUHRBZuY) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Chama](https://open.spotify.com/album/43c9YAds3Zha8eldLhHK2A) | 3:16 | 2024-09-13 |  |
 | [Charreando En La Disco](https://open.spotify.com/track/7Cyvb8cXv9uTY3r8479F3p) | [Ana Macho](https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu), [Cita](https://open.spotify.com/artist/0ePPxl04qm9B08uPnbBmpC) | [Charreando En La Disco](https://open.spotify.com/album/2PfLqGjgSyRRYFR0xxb47S) | 2:53 | 2023-12-15 | 2024-03-17 |
 | [Chega](https://open.spotify.com/track/7jitFEr94DKj5laJuQzaK8) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o), [Mateus Carrilho](https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT), [Jaloo](https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93) | [Chega](https://open.spotify.com/album/6TfxuhBfZuvtrP5Zfx3w8m) | 3:05 | 2021-12-09 | 2022-06-01 |
 | [Cicatrices](https://open.spotify.com/track/7dC3AUYIYAJTCk5n2AkfJV) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Cicatrices](https://open.spotify.com/album/7lpn9dwub9H2eRq2PoYBIe) | 3:10 | 2022-06-01 | 2023-01-25 |
@@ -179,7 +180,7 @@
 | [Locura](https://open.spotify.com/track/5dNK0AjCXuoWHD7qcxIgDz) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02) | [Latinoamericana](https://open.spotify.com/album/5WoCsLxw1b29y3rP6f5BzW) | 3:37 | 2021-12-09 | 2022-07-29 |
 | [Locura](https://open.spotify.com/track/79NtEgOBdPsUCwynkb9sHK) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02) | [Latinoamericana](https://open.spotify.com/album/0rJcvw5YO9a1QpktRZESAv) | 3:37 | 2022-07-05 | 2023-01-25 |
 | [Look At That Butt](https://open.spotify.com/track/6itsZ3QsDvfEFoklc08YHD) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Jarina De Marco](https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL) | [WUT WUT](https://open.spotify.com/album/1mdsI3uD5YlpbymXaGqkVE) | 2:32 | 2021-12-09 | 2023-01-25 |
-| [Los Caminos Del Amor](https://open.spotify.com/track/4fJ4xLmvXpFFNSjjA82Iym) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Los Caminos Del Amor](https://open.spotify.com/album/6wFKtAwUCv2mkIbSquFCkH) | 3:52 | 2023-01-24 |  |
+| [Los Caminos Del Amor](https://open.spotify.com/track/4fJ4xLmvXpFFNSjjA82Iym) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Los Caminos Del Amor](https://open.spotify.com/album/6wFKtAwUCv2mkIbSquFCkH) | 3:52 | 2023-01-24 | 2024-09-14 |
 | [Love \(Es Nuestro Idioma\)](https://open.spotify.com/track/5FT2fFKLeY6V7iQCt2eMzY) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Aire \(Versión Día\)](https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX) | 3:47 | 2021-12-09 | 2023-01-25 |
 | [Love Don't Cost a Thing](https://open.spotify.com/track/1fgvJXlcZ7uIddMpqsqw0L) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [J.Lo](https://open.spotify.com/album/76QqoE30i9HVwxtxYMkWXT) | 3:41 | 2022-06-01 | 2023-01-25 |
 | [Luces](https://open.spotify.com/track/5ZbZqPiTSQJzKvkMHyZoYi) | [ARIA](https://open.spotify.com/artist/6W4UUzoroQt4P9pjHnauHt), [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j) | [Luces](https://open.spotify.com/album/1fTA11dukn2IrHiFyNb3qD) | 3:26 | 2022-06-01 | 2023-01-03 |

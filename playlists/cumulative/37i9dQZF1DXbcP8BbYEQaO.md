@@ -4,7 +4,7 @@
 
 > sparkling, shimmery synth pop ✨
 
-691 songs - 1 day 14 hr 51 min
+693 songs - 1 day 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Bedroom](https://open.spotify.com/track/1AHqOMEetDV9sTnQk0mzRD) | [All The Damn Vampires](https://open.spotify.com/artist/2U0OKMms9WuTVQztib78cH), [Mint Simon](https://open.spotify.com/artist/6CEtNCfXfEPpei0YBb0ZCh) | [Bedroom](https://open.spotify.com/album/4AhQ7kDIHJKi8Q00zgHGdb) | 3:02 | 2022-04-15 | 2022-07-29 |
 | [Bedroom](https://open.spotify.com/track/3LH6EfPCeySeuymuK2gWAO) | [Litany](https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc) | [4 Track EP](https://open.spotify.com/album/64NBfuKfE49atmxBp4H3ZZ) | 3:06 | 2021-07-10 | 2021-11-17 |
 | [Bedroom Ceiling \- Ouse Remix](https://open.spotify.com/track/3LjQDbEz8gmZSmJe36tUmh) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt), [Ouse](https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn) | [Bedroom Ceiling \(Ouse Remix\)](https://open.spotify.com/album/2SA3qutFNIl3QrK7CKkAH5) | 3:25 | 2020-11-18 | 2021-11-20 |
+| [Behind the Wheel \(feat\. Slayyyter\)](https://open.spotify.com/track/3OUPzmzbkjLGcXRBB6aGB6) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Sensation](https://open.spotify.com/album/4upHoOLWg3PeWnnDnHDPDw) | 3:32 | 2024-09-13 |  |
 | [Belmont Park](https://open.spotify.com/track/4qSDDMj8hSkjSMEybf3jdX) | [Alice Gray](https://open.spotify.com/artist/6bSM7pvpb0bMWHl9ZuCIs1) | [Belmont Park](https://open.spotify.com/album/63ugzV8wka0qYk5oDp4uNe) | 2:54 | 2022-03-18 | 2022-05-20 |
 | [Benadryl](https://open.spotify.com/track/0qyt9rdN0bxh3NWa6NBc9o) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Treehouse](https://open.spotify.com/album/6JMqFQYi82ybVJalF7tb3W) | 3:16 | 2020-10-13\* | 2021-07-17 |
 | [Better In My Head](https://open.spotify.com/track/3jJdf5jT0HOXcWlRkjHe52) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [Better In My Head](https://open.spotify.com/album/4b8PewXDOnVY5V9QxlOvOd) | 3:21 | 2021-06-26 | 2021-07-10 |
@@ -105,7 +106,7 @@
 | [Close Isn't Enough](https://open.spotify.com/track/28JEXZTw5FqyTQxLz3WLMK) | [daena](https://open.spotify.com/artist/6e00lwQmKeUN5Gdbl1LddA) | [Close Isn't Enough](https://open.spotify.com/album/1ohAWk7amNEVMseUR4305a) | 4:21 | 2020-10-13\* | 2021-06-26 |
 | [Closer To You](https://open.spotify.com/track/6ZuQAppmSEQ9IrDhDU8RM6) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Closer To You](https://open.spotify.com/album/5kMTiIhVQDKlvb9AMT4ZLC) | 3:04 | 2020-10-13\* | 2021-02-19 |
 | [CLOUDS](https://open.spotify.com/track/43HB7iatxULhCqqIu7ouQT) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [CLOUDS](https://open.spotify.com/album/20oky0BNN8ohXkjRUL216l) | 2:58 | 2021-12-04 | 2022-04-17 |
-| [Cohete](https://open.spotify.com/track/5JKk6Gh5CLlwpbPz48eWtB) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 2:52 | 2024-03-22 |  |
+| [Cohete](https://open.spotify.com/track/5JKk6Gh5CLlwpbPz48eWtB) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 2:52 | 2024-03-22 | 2024-09-14 |
 | [Cold](https://open.spotify.com/track/5jYe1mOKg5zUx0enf1DOdz) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP), [unheard](https://open.spotify.com/artist/4yUqy7ZriHOrcenY7R63et) | [Cold](https://open.spotify.com/album/0Vci60496fhTWcRODhFCYM) | 3:23 | 2020-10-13\* | 2021-07-17 |
 | [Cold Killer](https://open.spotify.com/track/0lwCIykH3nebbJevHiJRhf) | [noelle](https://open.spotify.com/artist/0UBB7UD8Lvt7UesGnXDRpy) | [Cold Killer](https://open.spotify.com/album/0Bn7DT5CEtYArcKk3X2ffw) | 2:39 | 2022-10-07 | 2022-12-03 |
 | [Cold Waters](https://open.spotify.com/track/13SnOkOo4NBFmdNLPcfmx7) | [Hong Kong Boyfriend](https://open.spotify.com/artist/7lDgh1Efb7gDBPxtYWd7ui) | [Cold Waters](https://open.spotify.com/album/0bgkKWGxGhWRgtV4cnoNwF) | 2:55 | 2021-02-19 | 2021-07-17 |
@@ -358,7 +359,7 @@
 | [Kissing In the Cold](https://open.spotify.com/track/1hCo51EshXlxroXjvczKgB) | [Florrie](https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8) | [Kissing In the Cold](https://open.spotify.com/album/1FxQgKsnvnA1zdrwaXmyPA) | 3:54 | 2024-04-19 |  |
 | [Know Me](https://open.spotify.com/track/2KPBSnz8n5lXYXkLauQXa9) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [Know Me](https://open.spotify.com/album/6cDPAUnbS6SSY1T8meA0h1) | 3:46 | 2020-10-13\* | 2021-06-19 |
 | [LA Hallucinations](https://open.spotify.com/track/4MtbYFVMUsmr37KA52ZMN0) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Emotion \(Deluxe Expanded Edition\)](https://open.spotify.com/album/2oj3FG6fos7zAQJxLQGzou) | 3:04 | 2022-04-16 | 2024-01-20 |
-| [Labyrinth](https://open.spotify.com/track/3okff9iBZu5U0ryGJZP2t2) | [LEXXE](https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU) | [Labyrinth](https://open.spotify.com/album/58J7m5FqsWRXONXUFYlDsy) | 3:08 | 2024-08-02 |  |
+| [Labyrinth](https://open.spotify.com/track/3okff9iBZu5U0ryGJZP2t2) | [LEXXE](https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU) | [Labyrinth](https://open.spotify.com/album/58J7m5FqsWRXONXUFYlDsy) | 3:08 | 2024-08-02 | 2024-09-14 |
 | [Landslide](https://open.spotify.com/track/41fecZEX4sPrRxnjZQ6DGU) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Landslide](https://open.spotify.com/album/3c0Uy2iMgkfZGRwi35XbzS) | 2:59 | 2020-10-13\* | 2021-06-19 |
 | [Last Resort](https://open.spotify.com/track/07wivlC2H97wjBNswKZPhy) | [Metteson](https://open.spotify.com/artist/6I6dO1Ytvcv32R1uzP5oZD) | [Last Resort](https://open.spotify.com/album/0jNyhEzqg91y2CpcR3Hw1q) | 2:51 | 2024-01-26 | 2024-02-17 |
 | [last time](https://open.spotify.com/track/0UzJ1IVUONAqNSvrLDHz3I) | [OSTON](https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ) | [Sitting at the Kids Table](https://open.spotify.com/album/42DhJfcMoofwzhUQ2WKzBb) | 3:13 | 2020-10-13\* | 2021-12-04 |
@@ -501,6 +502,7 @@
 | [PULSE](https://open.spotify.com/track/0QHZGpHLzjeYgcVARNpb29) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [PULSE](https://open.spotify.com/album/5s2CVXsIYs2yangXeisfkk) | 3:09 | 2022-10-21 | 2023-04-14 |
 | [Purple Sun](https://open.spotify.com/track/3Av5sPAsNXVW2tmbz0LA6j) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Purple Sun](https://open.spotify.com/album/0RRuVdfrNyEnD59MzmVIE1) | 4:01 | 2022-01-07 | 2024-01-20 |
 | [Put Me Back Together](https://open.spotify.com/track/6LpxEWeuvaMrrsGgX5CSQv) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Put Me Back Together](https://open.spotify.com/album/73c8BJyjru0OCXe2tHGs9u) | 3:29 | 2020-10-13\* | 2021-07-04 |
+| [Queen of the Night](https://open.spotify.com/track/3kllpCSz33i8TKTAdARRFz) | [LEXXE](https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU) | [Queen of the Night](https://open.spotify.com/album/72sw6HtTdCmRqFcT7EBFJi) | 3:54 | 2024-09-13 |  |
 | [Quicksand](https://open.spotify.com/track/6fEtxRskOuPleXkm8ETYHE) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Quicksand](https://open.spotify.com/album/28TPdB72pb0vVJSc87N0OW) | 4:11 | 2022-01-21 | 2022-04-17 |
 | [Rave Angel](https://open.spotify.com/track/6WdNXplJISMHIT9C7IbCL4) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Rave Angel](https://open.spotify.com/album/5OY2SQqa6n38bRos5Osqq3) | 3:19 | 2024-01-19 | 2024-05-25 |
 | [Real Love](https://open.spotify.com/track/6qjISOkB9F6X6FgsvdI2fR) | [Mint Simon](https://open.spotify.com/artist/6CEtNCfXfEPpei0YBb0ZCh) | [Real Love](https://open.spotify.com/album/3NWJXg0aK1Wo2EPhv46IRP) | 3:18 | 2022-06-17 | 2022-07-24 |
@@ -574,7 +576,7 @@
 | [sucks 4 u](https://open.spotify.com/track/75TJ9ufHDs6R45Wg8wOeEE) | [Sophie Cates](https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2) | [sucks 4 u](https://open.spotify.com/album/6EqK6gDuQDc43k2kvh83TR) | 3:25 | 2020-10-13\* | 2021-07-17 |
 | [sugar free rush](https://open.spotify.com/track/7trA8o8CVShDf2u5oSrDnv) | [XYLØ](https://open.spotify.com/artist/6ioOEWNNGK40H8xrGj6XPW) | [sugar free rush](https://open.spotify.com/album/4sMsQV3B7hW8sSeWgrkd9o) | 4:12 | 2022-05-06 | 2022-07-29 |
 | [Summer Lovin'](https://open.spotify.com/track/5TzW5wlm4qaJ2hwhJWIbTx) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F), [KEHLI](https://open.spotify.com/artist/1l6JUvRJkj7kHhWhMUp3AA) | [Summer Lovin'](https://open.spotify.com/album/0biYlETukeDyF2Gu51y1BS) | 3:06 | 2021-06-19 | 2021-07-04 |
-| [Sunglasses At Night](https://open.spotify.com/track/6SbjCiX0QB41ToJi1aXPuw) | [Baby Storme](https://open.spotify.com/artist/7cwYKm54nTTbnm0UnH0xBe) | [Sunglasses At Night](https://open.spotify.com/album/7K28YTMpPAEEAP0oSrlOmi) | 2:59 | 2023-09-22 |  |
+| [Sunglasses At Night](https://open.spotify.com/track/6SbjCiX0QB41ToJi1aXPuw) | [Baby Storme](https://open.spotify.com/artist/7cwYKm54nTTbnm0UnH0xBe) | [Sunglasses At Night](https://open.spotify.com/album/7K28YTMpPAEEAP0oSrlOmi) | 2:59 | 2023-09-22 | 2024-09-14 |
 | [Sunset](https://open.spotify.com/track/2eQ9B2SsQFU2qCnHSas3eQ) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Sunset](https://open.spotify.com/album/0JlGrm9d6P37h0TXEWxaQo) | 2:42 | 2022-10-21 | 2023-05-08 |
 | [Sunshine](https://open.spotify.com/track/7ApIjBn1tqOyof0zvVX7CY) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Sunshine](https://open.spotify.com/album/0wOtQE4XS0U9DPwCFram7H) | 3:41 | 2022-05-06 | 2022-07-31 |
 | [SUPERIMPOSE](https://open.spotify.com/track/09c6U0P7mywiapQTEw9Vgk) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [SUPERIMPOSE](https://open.spotify.com/album/0TDvV8b1ER6fxGGcqktNaO) | 3:07 | 2021-11-13 | 2022-10-29 |

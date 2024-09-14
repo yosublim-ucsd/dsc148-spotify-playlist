@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "O Trap brasileiro puro ouro, entre lan\u00e7amentos e hits. Foto: Veigh, Niink, G.A, Ghard",
+  "description": "O Trap brasileiro puro ouro, entre lan\u00e7amentos e hits. Foto: Aka Rasta",
   "name": "Trap Ouro",
   "tracks": [
     {
@@ -96,7 +96,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 205663,
       "name": "#voltavida",
       "url": "https://open.spotify.com/track/3KrX3RYCpWuI7QzA7s1WSY"
@@ -875,6 +875,28 @@
     },
     {
       "album": {
+        "name": "A Hist\u00f3ria do Hater",
+        "url": "https://open.spotify.com/album/0yhu2NmEFXKjV4kc5bVF0S"
+      },
+      "artists": [
+        {
+          "name": "NOG",
+          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189197,
+      "name": "A Hist\u00f3ria do Hater",
+      "url": "https://open.spotify.com/track/7epdDVn5Br5V7544tWpUgx"
+    },
+    {
+      "album": {
         "name": "A noite toda",
         "url": "https://open.spotify.com/album/66t4TpL1KlIxNLTBQFj9AL"
       },
@@ -1046,7 +1068,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 185739,
       "name": "Acabou",
       "url": "https://open.spotify.com/track/3FbkbvR7qEJe8yh8M0onQ5"
@@ -2496,7 +2518,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 155200,
       "name": "AUMENTA O SOM",
       "url": "https://open.spotify.com/track/57pGakmWqT8JVjWt2AyjQr"
@@ -3552,7 +3574,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 191861,
       "name": "BBB",
       "url": "https://open.spotify.com/track/25nbGiHS68J0Lps0zixJ6E"
@@ -3950,6 +3972,28 @@
       "duration_ms": 203968,
       "name": "BODY SPLASH",
       "url": "https://open.spotify.com/track/1Otda8Q4YEIF427qbsaF8m"
+    },
+    {
+      "album": {
+        "name": "Boeing pra Fran\u00e7a",
+        "url": "https://open.spotify.com/album/0OrJMrUarQTwLDD8up3DQU"
+      },
+      "artists": [
+        {
+          "name": "LIT UP",
+          "url": "https://open.spotify.com/artist/048eLqPGxqWk7PblwFmXgE"
+        },
+        {
+          "name": "TR3VAS",
+          "url": "https://open.spotify.com/artist/5lZZfdDqp7XKRaTdZ1KUIO"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143661,
+      "name": "Boeing pra Fran\u00e7a",
+      "url": "https://open.spotify.com/track/6zGzEz5HeScKLxLaD0Zxf2"
     },
     {
       "album": {
@@ -5969,6 +6013,24 @@
     },
     {
       "album": {
+        "name": "Chevette do Jac\u00f3",
+        "url": "https://open.spotify.com/album/4mEJtY8Apcgmn26kRyHm8C"
+      },
+      "artists": [
+        {
+          "name": "Hungria",
+          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173571,
+      "name": "Chevette do Jac\u00f3",
+      "url": "https://open.spotify.com/track/1EBBKLLK2nX0bpgLocWcSV"
+    },
+    {
+      "album": {
         "name": "Chocolate",
         "url": "https://open.spotify.com/album/6qivCWwzJNbXu2tLo9kXIy"
       },
@@ -6740,7 +6802,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 210922,
       "name": "Contando Malote",
       "url": "https://open.spotify.com/track/7shdzRK0IER1VzqQgJTtwN"
@@ -7062,6 +7124,24 @@
       "duration_ms": 142666,
       "name": "CPX Ta Tega",
       "url": "https://open.spotify.com/track/2HrjORyFBF3IFnXOAC3Rox"
+    },
+    {
+      "album": {
+        "name": "333",
+        "url": "https://open.spotify.com/album/5CP84pfi4AFe95UTACFWrk"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154418,
+      "name": "Crack com Mussilon",
+      "url": "https://open.spotify.com/track/4ssHL7bSnOAE7HjiuLx6Co"
     },
     {
       "album": {
@@ -8797,6 +8877,36 @@
     },
     {
       "album": {
+        "name": "Dinheiro Ameniza",
+        "url": "https://open.spotify.com/album/05FFPQ6aWmPEQY0cwh5kE2"
+      },
+      "artists": [
+        {
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        },
+        {
+          "name": "OG Bahia",
+          "url": "https://open.spotify.com/artist/5sWSh5DCUgwN223DmJ1He1"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228221,
+      "name": "Dinheiro Ameniza",
+      "url": "https://open.spotify.com/track/2mYETW5jAAIxrpIatuNwy1"
+    },
+    {
+      "album": {
         "name": "Nova Onda",
         "url": "https://open.spotify.com/album/5QKQNitKbjqpjdv7e02JaM"
       },
@@ -10254,7 +10364,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 187480,
       "name": "Eles Me Odeiam",
       "url": "https://open.spotify.com/track/5lZS4UU5KbkR1QLRbkWG5W"
@@ -13829,6 +13939,28 @@
     },
     {
       "album": {
+        "name": "GO!",
+        "url": "https://open.spotify.com/album/3ZcUWAviyQBoklaNJjauq2"
+      },
+      "artists": [
+        {
+          "name": "Aka Rasta",
+          "url": "https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB"
+        },
+        {
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "GO!",
+      "url": "https://open.spotify.com/track/3pXNplcoTZThHOyUsG01XD"
+    },
+    {
+      "album": {
         "name": "Zzz, Vol. 2",
         "url": "https://open.spotify.com/album/51kX2muIvK8Z8I8mb9H1Y6"
       },
@@ -15346,7 +15478,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 276078,
       "name": "Isqueiro da Dior",
       "url": "https://open.spotify.com/track/0cJyrQ7e1Do6htfIZQvlQw"
@@ -15582,6 +15714,32 @@
       "duration_ms": 242803,
       "name": "Jhony Convida #10 - Revolta do Condom\u00ednio",
       "url": "https://open.spotify.com/track/4FdgxBAKUeoMkrqTeWJn4T"
+    },
+    {
+      "album": {
+        "name": "Joga esse lucro",
+        "url": "https://open.spotify.com/album/07n8xJIvioCizwPg4bAxQf"
+      },
+      "artists": [
+        {
+          "name": "TT OG",
+          "url": "https://open.spotify.com/artist/2ytXKndnRM3NePzjjD28zd"
+        },
+        {
+          "name": "Tyto Og",
+          "url": "https://open.spotify.com/artist/1T40PL9cuoAiOqimj9KsI9"
+        },
+        {
+          "name": "Fabin",
+          "url": "https://open.spotify.com/artist/5CFIBhFm7Ndt7xVCBwwlrF"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139271,
+      "name": "Joga esse lucro",
+      "url": "https://open.spotify.com/track/2839Pa6DVgiHXQEiWmAOCM"
     },
     {
       "album": {
@@ -17251,6 +17409,32 @@
     },
     {
       "album": {
+        "name": "Mais que Michael Jordan",
+        "url": "https://open.spotify.com/album/7KefA7tsbvywYADZkrnIIZ"
+      },
+      "artists": [
+        {
+          "name": "Tribo da Periferia",
+          "url": "https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG"
+        },
+        {
+          "name": "Duckjay",
+          "url": "https://open.spotify.com/artist/7b5XefluHSHw1lKQkqIZO0"
+        },
+        {
+          "name": "3 Um S\u00f3",
+          "url": "https://open.spotify.com/artist/02ahhbTmx0wY2DvkqAMdRx"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278769,
+      "name": "Mais que Michael Jordan",
+      "url": "https://open.spotify.com/track/6DLygSTMYmAzQGCVkT8kyu"
+    },
+    {
+      "album": {
         "name": "Mais um dia normal",
         "url": "https://open.spotify.com/album/7FJ5YOvbBV4zBZiHNjvL21"
       },
@@ -18760,7 +18944,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 290704,
       "name": "Melhor Vibe - Remix",
       "url": "https://open.spotify.com/track/6ZJGUNb9JGfXoHvR4dCrBb"
@@ -19310,6 +19494,28 @@
       "duration_ms": 163636,
       "name": "Mesma Hist\u00f3ria",
       "url": "https://open.spotify.com/track/54FV2rMVwLusAVnzROB0c1"
+    },
+    {
+      "album": {
+        "name": "Pensamentos",
+        "url": "https://open.spotify.com/album/7vw4OmcHnccrPW8jHV7YBS"
+      },
+      "artists": [
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131528,
+      "name": "Meta",
+      "url": "https://open.spotify.com/track/5PH8jkW1jCknFX3TQ1whl4"
     },
     {
       "album": {
@@ -24795,6 +25001,28 @@
     },
     {
       "album": {
+        "name": "PIRANHA",
+        "url": "https://open.spotify.com/album/6Z4aNGAfMAyinhf6wcosiq"
+      },
+      "artists": [
+        {
+          "name": "Aka Rasta",
+          "url": "https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB"
+        },
+        {
+          "name": "G.A",
+          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188244,
+      "name": "PIRANHA",
+      "url": "https://open.spotify.com/track/4GONPEUAsW33cknE8Jj4Rk"
+    },
+    {
+      "album": {
         "name": "Piranha",
         "url": "https://open.spotify.com/album/7Msb9eEGxaujbKTFzL9ykK"
       },
@@ -29320,7 +29548,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 166153,
       "name": "Sensa\u00e7\u00f5es",
       "url": "https://open.spotify.com/track/6vdJfD1AH9LUBQYGUG3rDC"
@@ -30706,7 +30934,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 140506,
       "name": "Suco de Fruta",
       "url": "https://open.spotify.com/track/47vNIixENMn2RxcNrGwOlo"
@@ -32020,7 +32248,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 135111,
       "name": "Thanos",
       "url": "https://open.spotify.com/track/4Eku46SnDjAzqoJNN3a99T"
@@ -35132,6 +35360,32 @@
       "duration_ms": 174545,
       "name": "Zidane",
       "url": "https://open.spotify.com/track/1Byvv0RuG4JaJwRzdNoWqn"
+    },
+    {
+      "album": {
+        "name": "Ziper",
+        "url": "https://open.spotify.com/album/3W5WGbXWAmhEr84v5aeI3G"
+      },
+      "artists": [
+        {
+          "name": "Phl Notunrboy",
+          "url": "https://open.spotify.com/artist/6OR5QDOXtB0dAKK3VEmXHr"
+        },
+        {
+          "name": "Neckklace",
+          "url": "https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d"
+        },
+        {
+          "name": "BLOCKKSTAR",
+          "url": "https://open.spotify.com/artist/5D0bLmj9HZnmryBo2SMtvB"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129013,
+      "name": "Ziper",
+      "url": "https://open.spotify.com/track/6OYipB9GpskiJa7H8lzZRu"
     },
     {
       "album": {

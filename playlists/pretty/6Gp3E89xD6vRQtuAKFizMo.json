@@ -1,13 +1,93 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44231,
+  "num_followers": 44230,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAZoycI/yLFKHVH7bYLI2mCGbLRFYlT",
+  "snapshot_id": "AAAZp9CEHZREdFWdkn6n5Qgx8bhUpEAF",
   "tracks": [
+    {
+      "added_at": "2024-09-13 16:14:04",
+      "album": {
+        "name": "Poison (feat. CERES)",
+        "url": "https://open.spotify.com/album/6fZ3oqdKX8vOS7z1BnBNfd"
+      },
+      "artists": [
+        {
+          "name": "OBS",
+          "url": "https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "duration_ms": 129103,
+      "name": "Poison (feat. CERES)",
+      "url": "https://open.spotify.com/track/5qjyiw8igGbkVmkPsvN22F"
+    },
+    {
+      "added_at": "2024-09-13 16:14:36",
+      "album": {
+        "name": "Nightcap",
+        "url": "https://open.spotify.com/album/6V5qLt3QspYLRe9Nz8dZ1K"
+      },
+      "artists": [
+        {
+          "name": "Cheyenne Giles",
+          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
+        }
+      ],
+      "duration_ms": 158095,
+      "name": "Nightcap",
+      "url": "https://open.spotify.com/track/5rh7fPHVG6Te556mfPeRUp"
+    },
+    {
+      "added_at": "2024-09-13 16:13:31",
+      "album": {
+        "name": "Warp 1.9 (feat. Steve Aoki) - longstoryshort Remix",
+        "url": "https://open.spotify.com/album/6aCbXJWGGYTPQHbCuI5vUB"
+      },
+      "artists": [
+        {
+          "name": "The Bloody Beetroots",
+          "url": "https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "longstoryshort",
+          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
+        }
+      ],
+      "duration_ms": 177273,
+      "name": "Warp 1.9 (feat. Steve Aoki) - longstoryshort Remix",
+      "url": "https://open.spotify.com/track/4CHbQIwn80Sos7IJ0fC0xa"
+    },
+    {
+      "added_at": "2024-09-13 17:04:18",
+      "album": {
+        "name": "Get Enough",
+        "url": "https://open.spotify.com/album/6OmjrHo4m4D1rgozy2reTa"
+      },
+      "artists": [
+        {
+          "name": "soleil",
+          "url": "https://open.spotify.com/artist/7ETxY27poBqP3kbCYJEXlN"
+        },
+        {
+          "name": "Zachary Fremont",
+          "url": "https://open.spotify.com/artist/6JJ1tvU9cAQcIN0WoLOXkD"
+        }
+      ],
+      "duration_ms": 190881,
+      "name": "Get Enough",
+      "url": "https://open.spotify.com/track/2aoPKmzdIyqF0FRre5vbQw"
+    },
     {
       "added_at": "2024-09-06 18:26:27",
       "album": {

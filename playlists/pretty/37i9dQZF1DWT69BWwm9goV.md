@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT69BWwm9goV.md) - [plain]
 
 > A collection of songs from Spotify's video series OUTSIDE & Green Screen, plus more of our favorite tracks from featured artists\. Cover: Lizzy McAlpine
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,333 likes - 34 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,340 likes - 34 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1tLAYyiCcgfG7YEVM1Kc3R">Priscilla Renea</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,619 likes - 173 songs - 10 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,640 likes - 173 songs - 10 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -165,9 +165,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 155 | [Hello My Apple](https://open.spotify.com/track/6MUAdWalxUqA5J21CY2oFx) | [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [Hello My Apple](https://open.spotify.com/album/2LnBYjNaTXBdR2IymbB2wQ) | 3:33 |
 | 156 | [Rock\-A\-Bye Baby](https://open.spotify.com/track/2LLMxepMUklkusMixPmHtw) | [Phylicia Rashad](https://open.spotify.com/artist/4b6gmSpQTEPc1UZY8oaPVM) | [Rhymin' Time!](https://open.spotify.com/album/2LHDBWJJIgWq8JKVFawbg0) | 0:52 |
 | 157 | [Jonjo](https://open.spotify.com/track/2yOQJwqTDQFPHv57WHnExE) | [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [Coloured](https://open.spotify.com/album/0tmicByUrXQoXVP9NIL8NF) | 2:40 |
-| 158 | [If I Ever Loved You](https://open.spotify.com/track/7CwEYUryiaGpdoYX7Z7Y5I) | [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [Coloured](https://open.spotify.com/album/0tmicByUrXQoXVP9NIL8NF) | 4:41 |
-| 159 | [City Love](https://open.spotify.com/track/4jYTnOsT1tzqV75IzDupiD) | [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [Jukebox](https://open.spotify.com/album/6y2o7hPNHIfGUtOUyuX03D) | 3:43 |
-| 160 | [Thank You](https://open.spotify.com/track/2ZFWV9oGSqIv3dgVP90QPx) | [MC Lyte](https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w), [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Thank You](https://open.spotify.com/album/1Jqe3yQwTDC9ZGzjT9HTAs) | 4:33 |
+| 158 | [Thank You](https://open.spotify.com/track/2ZFWV9oGSqIv3dgVP90QPx) | [MC Lyte](https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w), [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Thank You](https://open.spotify.com/album/1Jqe3yQwTDC9ZGzjT9HTAs) | 4:33 |
+| 159 | [If I Ever Loved You](https://open.spotify.com/track/7CwEYUryiaGpdoYX7Z7Y5I) | [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [Coloured](https://open.spotify.com/album/0tmicByUrXQoXVP9NIL8NF) | 4:41 |
+| 160 | [City Love](https://open.spotify.com/track/4jYTnOsT1tzqV75IzDupiD) | [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [Jukebox](https://open.spotify.com/album/6y2o7hPNHIfGUtOUyuX03D) | 3:43 |
 | 161 | [Cry](https://open.spotify.com/track/7GtDHdPBkpKHS8uTayjo6M) | [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [Hello My Apple](https://open.spotify.com/album/2LnBYjNaTXBdR2IymbB2wQ) | 3:29 |
 | 162 | [Denim](https://open.spotify.com/track/4qqkeoa2AygTR5qTYzRwuO) | [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [Coloured](https://open.spotify.com/album/0tmicByUrXQoXVP9NIL8NF) | 3:24 |
 | 163 | [Different Color](https://open.spotify.com/track/4szP6ScOP2FSm14Zask3II) | [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [Coloured](https://open.spotify.com/album/0tmicByUrXQoXVP9NIL8NF) | 3:03 |
@@ -182,4 +182,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 172 | [Baby](https://open.spotify.com/track/12EWwkENdDeYKBKoSnrdHy) | [La Raza](https://open.spotify.com/artist/4R1yzQAL5bHx3W9lolczDX) | [Oye Mami](https://open.spotify.com/album/3Moh4BcMYZjhbX2Gp9FV4B) | 3:47 |
 | 173 | [My Story](https://open.spotify.com/track/2tTo9XjcHzHwdLJeDP6iu4) | [Larry Love Hamilton](https://open.spotify.com/artist/2fSyvGlnBJjq1I5MzuDAn5) | [American Music Down South](https://open.spotify.com/album/6ReRYWg5Suore6KvgmLyfc) | 4:50 |
 
-Snapshot ID: `Abb+igAAAABnenhbwOIJHW/AAG56Wks0`
+Snapshot ID: `AbcEKgAAAAA0SzjyFrcWr5edl4mFE7tw`

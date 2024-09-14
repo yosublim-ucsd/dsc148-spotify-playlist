@@ -1,6 +1,6 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 1395200,
+  "num_followers": 1395821,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
@@ -151,6 +151,22 @@
     {
       "added_at": "2024-05-24 04:38:40",
       "album": {
+        "name": "Killshot (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/4Ey0ngdLf4iXL84gdv0zjA"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "duration_ms": 278074,
+      "name": "Killshot - Slowed + Reverb",
+      "url": "https://open.spotify.com/track/6pdyvJQkPkwo2WoDH7tFHO"
+    },
+    {
+      "added_at": "2024-05-24 04:38:40",
+      "album": {
         "name": "Sleepwalker (Slowed)",
         "url": "https://open.spotify.com/album/2EAUAqdIVckKAPCCT0hAQg"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 258008,
       "name": "Sleepwalker - Slowed",
       "url": "https://open.spotify.com/track/5cjRF0yXxYvqzmJfUbq9AW"
-    },
-    {
-      "added_at": "2024-05-24 04:38:40",
-      "album": {
-        "name": "Killshot (Slowed + Reverb)",
-        "url": "https://open.spotify.com/album/4Ey0ngdLf4iXL84gdv0zjA"
-      },
-      "artists": [
-        {
-          "name": "Magdalena Bay",
-          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
-        }
-      ],
-      "duration_ms": 278074,
-      "name": "Killshot - Slowed + Reverb",
-      "url": "https://open.spotify.com/track/6pdyvJQkPkwo2WoDH7tFHO"
     },
     {
       "added_at": "2024-05-24 04:38:40",

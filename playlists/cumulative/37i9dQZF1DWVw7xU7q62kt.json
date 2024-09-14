@@ -800,7 +800,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 117746,
       "name": "Croydon Smash",
       "url": "https://open.spotify.com/track/3ArFJR37rzbtmyqypgQN0m"
@@ -3840,6 +3840,32 @@
       "duration_ms": 120000,
       "name": "Solace",
       "url": "https://open.spotify.com/track/6XF3THa6lb0wN4gXWJcyDw"
+    },
+    {
+      "album": {
+        "name": "Sono Qui Pt. 2",
+        "url": "https://open.spotify.com/album/6vWQ3YgWhg94oxf7llA2q7"
+      },
+      "artists": [
+        {
+          "name": "Koralle",
+          "url": "https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h"
+        },
+        {
+          "name": "Francesco Giampaoli",
+          "url": "https://open.spotify.com/artist/4JL4brCLF4fbNBdRt21tFX"
+        },
+        {
+          "name": "Opek",
+          "url": "https://open.spotify.com/artist/1CUV6UEfyGRCZXqBbXJ5f7"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141466,
+      "name": "Sono Qui Pt. 2",
+      "url": "https://open.spotify.com/track/46GHEqmKAkkF9JmKQduQaT"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Os Meireles",
-  "num_followers": 97947,
+  "num_followers": 97968,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
@@ -151,22 +151,6 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Tudo em Mim",
-        "url": "https://open.spotify.com/album/2Xzp0ZlJZXb3n7OWVFTvrj"
-      },
-      "artists": [
-        {
-          "name": "Luma Elpidio",
-          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
-        }
-      ],
-      "duration_ms": 245333,
-      "name": "Tudo em Mim",
-      "url": "https://open.spotify.com/track/3OKmHJqGnGVCfA4BFoQXKw"
-    },
-    {
-      "added_at": "2024-08-30 03:01:00",
-      "album": {
         "name": "Te Encontrei",
         "url": "https://open.spotify.com/album/761WHhYcvTwESYg06VGJMz"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 184252,
       "name": "Te Encontrei",
       "url": "https://open.spotify.com/track/38WAmJAfLglN00HGmqDBl2"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
+        "name": "Tudo em Mim",
+        "url": "https://open.spotify.com/album/2Xzp0ZlJZXb3n7OWVFTvrj"
+      },
+      "artists": [
+        {
+          "name": "Luma Elpidio",
+          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
+        }
+      ],
+      "duration_ms": 245333,
+      "name": "Tudo em Mim",
+      "url": "https://open.spotify.com/track/3OKmHJqGnGVCfA4BFoQXKw"
     },
     {
       "added_at": "2024-08-30 03:01:00",
@@ -327,22 +327,6 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Vida Leve",
-        "url": "https://open.spotify.com/album/08ujgEoWflIBTXaf0T5XUl"
-      },
-      "artists": [
-        {
-          "name": "Talita Barreto",
-          "url": "https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y"
-        }
-      ],
-      "duration_ms": 176417,
-      "name": "Vida Leve",
-      "url": "https://open.spotify.com/track/7jb65juKqmYcQg5qXhJSVw"
-    },
-    {
-      "added_at": "2024-08-30 03:01:00",
-      "album": {
         "name": "Sonhar",
         "url": "https://open.spotify.com/album/7vVCfO9Xrgps6yj1IvjcSK"
       },
@@ -363,6 +347,22 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
+        "name": "Vida Leve",
+        "url": "https://open.spotify.com/album/08ujgEoWflIBTXaf0T5XUl"
+      },
+      "artists": [
+        {
+          "name": "Talita Barreto",
+          "url": "https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y"
+        }
+      ],
+      "duration_ms": 176417,
+      "name": "Vida Leve",
+      "url": "https://open.spotify.com/track/7jb65juKqmYcQg5qXhJSVw"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
         "name": "Dia de Festa",
         "url": "https://open.spotify.com/album/7knyVqeyA7t2dcizeOPQhs"
       },
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Bom \u00c2nimo",
-        "url": "https://open.spotify.com/album/0CfAnKQwuN2MVy93bPPP4Z"
-      },
-      "artists": [
-        {
-          "name": "Thaiane Seghetto",
-          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
-        }
-      ],
-      "duration_ms": 176520,
-      "name": "Bom \u00c2nimo",
-      "url": "https://open.spotify.com/track/5MYnTJlPVqp9oiAmeUiW8F"
-    },
-    {
-      "added_at": "2024-08-30 03:01:00",
-      "album": {
         "name": "Gra\u00e7a Sobre Gra\u00e7a",
         "url": "https://open.spotify.com/album/25glZgp7YQyCE9Oz2Honsi"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 191530,
       "name": "Gra\u00e7a Sobre Gra\u00e7a",
       "url": "https://open.spotify.com/track/0nvXiTPiPPVZqP6UMbmdSs"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
+        "name": "Bom \u00c2nimo",
+        "url": "https://open.spotify.com/album/0CfAnKQwuN2MVy93bPPP4Z"
+      },
+      "artists": [
+        {
+          "name": "Thaiane Seghetto",
+          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
+        }
+      ],
+      "duration_ms": 176520,
+      "name": "Bom \u00c2nimo",
+      "url": "https://open.spotify.com/track/5MYnTJlPVqp9oiAmeUiW8F"
     },
     {
       "added_at": "2024-08-30 03:01:00",
@@ -555,6 +555,22 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
+        "name": "Pequenas Coisas",
+        "url": "https://open.spotify.com/album/13OgPKKENrLrisf9GFKDGQ"
+      },
+      "artists": [
+        {
+          "name": "Louisy Cim",
+          "url": "https://open.spotify.com/artist/4Uf6qZxVwThUiucblxC0Et"
+        }
+      ],
+      "duration_ms": 159119,
+      "name": "Pequenas Coisas",
+      "url": "https://open.spotify.com/track/336AL4KrdFPQdKpV34cmWe"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
         "name": "Apenas Can\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/7JfcTaZohCXrarbXMox1Cg"
       },
@@ -575,38 +591,6 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Pequenas Coisas",
-        "url": "https://open.spotify.com/album/13OgPKKENrLrisf9GFKDGQ"
-      },
-      "artists": [
-        {
-          "name": "Louisy Cim",
-          "url": "https://open.spotify.com/artist/4Uf6qZxVwThUiucblxC0Et"
-        }
-      ],
-      "duration_ms": 159119,
-      "name": "Pequenas Coisas",
-      "url": "https://open.spotify.com/track/336AL4KrdFPQdKpV34cmWe"
-    },
-    {
-      "added_at": "2024-08-30 03:01:00",
-      "album": {
-        "name": "SL.27.4",
-        "url": "https://open.spotify.com/album/1dRT83wTKwey6FeWv177iy"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Gomes",
-          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
-        }
-      ],
-      "duration_ms": 237209,
-      "name": "Tudo",
-      "url": "https://open.spotify.com/track/5wbSVolmtQA6kodui95x40"
-    },
-    {
-      "added_at": "2024-08-30 03:01:00",
-      "album": {
         "name": "Epifania",
         "url": "https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 207667,
       "name": "A Chave",
       "url": "https://open.spotify.com/track/6kk7NYRUwebj54yAHZWU7j"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
+        "name": "SL.27.4",
+        "url": "https://open.spotify.com/album/1dRT83wTKwey6FeWv177iy"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Gomes",
+          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
+        }
+      ],
+      "duration_ms": 237209,
+      "name": "Tudo",
+      "url": "https://open.spotify.com/track/5wbSVolmtQA6kodui95x40"
     },
     {
       "added_at": "2024-08-30 03:01:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Teus Rios",
-        "url": "https://open.spotify.com/album/4JgWgUGhqRNes5E5aFpdQL"
-      },
-      "artists": [
-        {
-          "name": "Gabriela de S\u00e1",
-          "url": "https://open.spotify.com/artist/1lIUn0y4rx85uawdgAHzjF"
-        }
-      ],
-      "duration_ms": 194034,
-      "name": "Teus Rios",
-      "url": "https://open.spotify.com/track/34EF4hF2gVbSWiTbTXTaPv"
-    },
-    {
-      "added_at": "2024-08-30 03:01:00",
-      "album": {
         "name": "Levanto um Aleluia",
         "url": "https://open.spotify.com/album/5ICoXgfFN4Xr7viHJg0A4U"
       },
@@ -747,6 +731,22 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
+        "name": "Teus Rios",
+        "url": "https://open.spotify.com/album/4JgWgUGhqRNes5E5aFpdQL"
+      },
+      "artists": [
+        {
+          "name": "Gabriela de S\u00e1",
+          "url": "https://open.spotify.com/artist/1lIUn0y4rx85uawdgAHzjF"
+        }
+      ],
+      "duration_ms": 194034,
+      "name": "Teus Rios",
+      "url": "https://open.spotify.com/track/34EF4hF2gVbSWiTbTXTaPv"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
         "name": "\u00c9 de Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/5i6tJzC8I16Rwc6YTsmFK4"
       },
@@ -759,26 +759,6 @@
       "duration_ms": 196306,
       "name": "\u00c9 de Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/0GcE9fifKZiHDX0EroenSk"
-    },
-    {
-      "added_at": "2024-08-30 03:01:00",
-      "album": {
-        "name": "minha vida",
-        "url": "https://open.spotify.com/album/4kG8hRdehnWtIaEkJdG4VY"
-      },
-      "artists": [
-        {
-          "name": "LLC Flame",
-          "url": "https://open.spotify.com/artist/2K7pASLzTcuXPT8ZYbi3M4"
-        },
-        {
-          "name": "DJ HTSW",
-          "url": "https://open.spotify.com/artist/4dXzdbWstY0rXrJiL3Cn6R"
-        }
-      ],
-      "duration_ms": 135230,
-      "name": "minha vida",
-      "url": "https://open.spotify.com/track/4u9rhcGy5RjTxJSbETsqsP"
     },
     {
       "added_at": "2024-08-30 03:01:00",
@@ -803,22 +783,22 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Reconstituir",
-        "url": "https://open.spotify.com/album/5FVMdmhaJfHB0o2ZDzb1SJ"
+        "name": "minha vida",
+        "url": "https://open.spotify.com/album/4kG8hRdehnWtIaEkJdG4VY"
       },
       "artists": [
         {
-          "name": "Igor Felix",
-          "url": "https://open.spotify.com/artist/0jgIJ7ZflTCTu6QoLUr1ud"
+          "name": "LLC Flame",
+          "url": "https://open.spotify.com/artist/2K7pASLzTcuXPT8ZYbi3M4"
         },
         {
-          "name": "Flavio Vitor Jr.",
-          "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
+          "name": "DJ HTSW",
+          "url": "https://open.spotify.com/artist/4dXzdbWstY0rXrJiL3Cn6R"
         }
       ],
-      "duration_ms": 262019,
-      "name": "Reconstituir",
-      "url": "https://open.spotify.com/track/3IZL1m4OR2XuljkOJrJPji"
+      "duration_ms": 135230,
+      "name": "minha vida",
+      "url": "https://open.spotify.com/track/4u9rhcGy5RjTxJSbETsqsP"
     },
     {
       "added_at": "2024-08-30 03:01:00",
@@ -843,22 +823,22 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Fui Liberto",
-        "url": "https://open.spotify.com/album/7lCvaQSTaQluCslUV5UKL3"
+        "name": "Reconstituir",
+        "url": "https://open.spotify.com/album/5FVMdmhaJfHB0o2ZDzb1SJ"
       },
       "artists": [
         {
-          "name": "Nicole Gomes",
-          "url": "https://open.spotify.com/artist/7jB4K4d4UhifvVAH566guA"
+          "name": "Igor Felix",
+          "url": "https://open.spotify.com/artist/0jgIJ7ZflTCTu6QoLUr1ud"
         },
         {
-          "name": "Gospel Beat Brasil",
-          "url": "https://open.spotify.com/artist/3YqEjhglsMTsj8bIh6L0vU"
+          "name": "Flavio Vitor Jr.",
+          "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
         }
       ],
-      "duration_ms": 153333,
-      "name": "Fui Liberto",
-      "url": "https://open.spotify.com/track/3rsC6Zxyo2tmsn9LCfsp2t"
+      "duration_ms": 262019,
+      "name": "Reconstituir",
+      "url": "https://open.spotify.com/track/3IZL1m4OR2XuljkOJrJPji"
     },
     {
       "added_at": "2024-08-30 03:01:00",
@@ -899,6 +879,26 @@
       "duration_ms": 179998,
       "name": "Tudo Novo - Ac\u00fastico",
       "url": "https://open.spotify.com/track/77uSoHkw1ot5r6JdfvtTmi"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
+        "name": "Fui Liberto",
+        "url": "https://open.spotify.com/album/7lCvaQSTaQluCslUV5UKL3"
+      },
+      "artists": [
+        {
+          "name": "Nicole Gomes",
+          "url": "https://open.spotify.com/artist/7jB4K4d4UhifvVAH566guA"
+        },
+        {
+          "name": "Gospel Beat Brasil",
+          "url": "https://open.spotify.com/artist/3YqEjhglsMTsj8bIh6L0vU"
+        }
+      ],
+      "duration_ms": 153333,
+      "name": "Fui Liberto",
+      "url": "https://open.spotify.com/track/3rsC6Zxyo2tmsn9LCfsp2t"
     },
     {
       "added_at": "2024-08-30 03:01:00",
@@ -991,6 +991,30 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
+        "name": "Tudo Novo",
+        "url": "https://open.spotify.com/album/51e8mw5vBRkEqljx5DUkZN"
+      },
+      "artists": [
+        {
+          "name": "DJ Roger Vale",
+          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
+        },
+        {
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+        },
+        {
+          "name": "Thaiane Seghetto",
+          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
+        }
+      ],
+      "duration_ms": 185901,
+      "name": "Tudo Novo",
+      "url": "https://open.spotify.com/track/4DTSBQsKzEaP99gq0G77ra"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
         "name": "Nossa Ora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/1B7HOGs2P2xSPQA92dYox6"
       },
@@ -1023,30 +1047,6 @@
       "duration_ms": 314622,
       "name": "Neste Lugar",
       "url": "https://open.spotify.com/track/64rFHVKbXxm2xzFbkjIZ6d"
-    },
-    {
-      "added_at": "2024-08-30 03:01:00",
-      "album": {
-        "name": "Tudo Novo",
-        "url": "https://open.spotify.com/album/51e8mw5vBRkEqljx5DUkZN"
-      },
-      "artists": [
-        {
-          "name": "DJ Roger Vale",
-          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
-        },
-        {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
-        },
-        {
-          "name": "Thaiane Seghetto",
-          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
-        }
-      ],
-      "duration_ms": 185901,
-      "name": "Tudo Novo",
-      "url": "https://open.spotify.com/track/4DTSBQsKzEaP99gq0G77ra"
     },
     {
       "added_at": "2024-08-30 03:01:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Rota",
-        "url": "https://open.spotify.com/album/4YeDhdeWBJCA9CyQytxhoH"
-      },
-      "artists": [
-        {
-          "name": "Isabella Lopes",
-          "url": "https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds"
-        }
-      ],
-      "duration_ms": 196032,
-      "name": "Rota",
-      "url": "https://open.spotify.com/track/2ce659MS4j8MCjpebtgcL4"
-    },
-    {
-      "added_at": "2024-08-30 03:01:00",
-      "album": {
         "name": "Ponto de Paz",
         "url": "https://open.spotify.com/album/4Yy8ikznHTg6WRHKuD8SzP"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 180864,
       "name": "Ponto de Paz",
       "url": "https://open.spotify.com/track/3e91JWy8Ry9Q0fdWwEDQlb"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
+        "name": "Rota",
+        "url": "https://open.spotify.com/album/4YeDhdeWBJCA9CyQytxhoH"
+      },
+      "artists": [
+        {
+          "name": "Isabella Lopes",
+          "url": "https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds"
+        }
+      ],
+      "duration_ms": 196032,
+      "name": "Rota",
+      "url": "https://open.spotify.com/track/2ce659MS4j8MCjpebtgcL4"
     },
     {
       "added_at": "2024-08-30 03:01:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Pense Bem",
-        "url": "https://open.spotify.com/album/2HLEZqD8E8VxUTJJAQWtOJ"
-      },
-      "artists": [
-        {
-          "name": "Leidy Murilho",
-          "url": "https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Pense Bem",
-      "url": "https://open.spotify.com/track/6MbLxZrhRG0aWpL4xYtKGE"
-    },
-    {
-      "added_at": "2024-08-30 03:01:00",
-      "album": {
         "name": "Testemunho",
         "url": "https://open.spotify.com/album/1hzZ5ugTa68A1Q96rolfAQ"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 139000,
       "name": "Testemunho",
       "url": "https://open.spotify.com/track/6HcUgggcWIqOEQASujbMy0"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
+        "name": "Pense Bem",
+        "url": "https://open.spotify.com/album/2HLEZqD8E8VxUTJJAQWtOJ"
+      },
+      "artists": [
+        {
+          "name": "Leidy Murilho",
+          "url": "https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Pense Bem",
+      "url": "https://open.spotify.com/track/6MbLxZrhRG0aWpL4xYtKGE"
     },
     {
       "added_at": "2024-08-30 03:01:00",
@@ -1311,6 +1311,26 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
+        "name": "Farol",
+        "url": "https://open.spotify.com/album/39fdEyYkRRWBQ2Vu4WSFe5"
+      },
+      "artists": [
+        {
+          "name": "Temis Handeri",
+          "url": "https://open.spotify.com/artist/3fTMaYM5vfKaSY4HiwEQSA"
+        },
+        {
+          "name": "Weslley Fonseca",
+          "url": "https://open.spotify.com/artist/44tt6vxqg3vYCiTm8p8Rg9"
+        }
+      ],
+      "duration_ms": 223200,
+      "name": "Farol",
+      "url": "https://open.spotify.com/track/6D4epvcopIMiBNlDUQyLFW"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
         "name": "Amor Perfeito",
         "url": "https://open.spotify.com/album/5hMUO0OGBZZ2JB25RwMmWK"
       },
@@ -1335,26 +1355,6 @@
       "duration_ms": 155789,
       "name": "Amor Perfeito",
       "url": "https://open.spotify.com/track/0obHBNT5xglQUlQxfMElRx"
-    },
-    {
-      "added_at": "2024-08-30 03:01:00",
-      "album": {
-        "name": "Farol",
-        "url": "https://open.spotify.com/album/39fdEyYkRRWBQ2Vu4WSFe5"
-      },
-      "artists": [
-        {
-          "name": "Temis Handeri",
-          "url": "https://open.spotify.com/artist/3fTMaYM5vfKaSY4HiwEQSA"
-        },
-        {
-          "name": "Weslley Fonseca",
-          "url": "https://open.spotify.com/artist/44tt6vxqg3vYCiTm8p8Rg9"
-        }
-      ],
-      "duration_ms": 223200,
-      "name": "Farol",
-      "url": "https://open.spotify.com/track/6D4epvcopIMiBNlDUQyLFW"
     },
     {
       "added_at": "2024-08-30 03:01:00",

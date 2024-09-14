@@ -1544,7 +1544,7 @@
       },
       "artists": [
         {
-          "name": "Humbe",
+          "name": "HUMBE",
           "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
         }
       ],
@@ -2923,6 +2923,24 @@
     },
     {
       "album": {
+        "name": "Ni una sola palabra",
+        "url": "https://open.spotify.com/album/7JQY6EtLD5Dm1DcsFBQ4II"
+      },
+      "artists": [
+        {
+          "name": "GOMZ",
+          "url": "https://open.spotify.com/artist/7BLezVBmCyG6aFk101o7vA"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263653,
+      "name": "Ni una sola palabra",
+      "url": "https://open.spotify.com/track/20smfvl8TDlA3AIlLeK5Hz"
+    },
+    {
+      "album": {
         "name": "Nina",
         "url": "https://open.spotify.com/album/7Lx6OYb9ZXHnWXQqFs1iOL"
       },
@@ -3772,7 +3790,7 @@
       },
       "artists": [
         {
-          "name": "Humbe",
+          "name": "HUMBE",
           "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
         }
       ],
@@ -4976,7 +4994,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 190000,
       "name": "viernes 13 iv",
       "url": "https://open.spotify.com/track/2qaI5v34tf7eLeboINCCon"

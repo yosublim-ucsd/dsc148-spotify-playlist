@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-16",
-  "description": "Lo m\u00e1s pegado, lo m\u00e1s trendy, o sea Emilia, Tiago PZK & Anitta.",
+  "description": "Lo m\u00e1s pegado, lo m\u00e1s trendy, o sea Maria Becerra.",
   "name": "El Top 2024",
   "tracks": [
     {
@@ -118,7 +118,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 118558,
       "name": "3 PECADOS DESPUES\u2026",
       "url": "https://open.spotify.com/track/16iLGYXMiLUhvqTEIu4pKB"
@@ -372,6 +372,24 @@
       "duration_ms": 213245,
       "name": "AEROBICO REMIX",
       "url": "https://open.spotify.com/track/4I9WKQdCuHMzQSFpP1k6Tu"
+    },
+    {
+      "album": {
+        "name": "AGORA",
+        "url": "https://open.spotify.com/album/07QCnsWWoXTgLuU43VfB2u"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153564,
+      "name": "AGORA",
+      "url": "https://open.spotify.com/track/0EVxchTHYIgx618OrpcrdQ"
     },
     {
       "album": {
@@ -664,6 +682,28 @@
       "duration_ms": 141501,
       "name": "Amigo Remix",
       "url": "https://open.spotify.com/track/3J3yRkO999AgZT4LMum1Yc"
+    },
+    {
+      "album": {
+        "name": "Amor de Chat - En Vivo",
+        "url": "https://open.spotify.com/album/0NtnjBuRZchY2kvAN7UvTA"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "Sergio Torres",
+          "url": "https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277000,
+      "name": "Amor de Chat - En vivo",
+      "url": "https://open.spotify.com/track/0rBpusCK0zUkuEBrTcTpox"
     },
     {
       "album": {
@@ -1752,7 +1792,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 137131,
       "name": "BORRACHA",
       "url": "https://open.spotify.com/track/4VNnuuuEIGW0C9wOorTVch"
@@ -2688,7 +2728,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 177491,
       "name": "Cosa del destino",
       "url": "https://open.spotify.com/track/2v6l9O89F5xGMUq5sr4Kph"
@@ -2878,6 +2918,24 @@
       "duration_ms": 150829,
       "name": "Dale Mecha",
       "url": "https://open.spotify.com/track/3WndNMJo029mMO64l9hGFm"
+    },
+    {
+      "album": {
+        "name": "Dame",
+        "url": "https://open.spotify.com/album/2wIVMjoemGDUznrMATUDVH"
+      },
+      "artists": [
+        {
+          "name": "Valentina Marquez",
+          "url": "https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158195,
+      "name": "Dame",
+      "url": "https://open.spotify.com/track/72YkOfhcuG8CO5dNk3N4UM"
     },
     {
       "album": {
@@ -3569,6 +3627,28 @@
     },
     {
       "album": {
+        "name": "La L\u00f3gica del Escorpi\u00f3n",
+        "url": "https://open.spotify.com/album/0k2JGzYRZQC3s3ZNTcyHoA"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        },
+        {
+          "name": "David Leb\u00f3n",
+          "url": "https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213358,
+      "name": "El Club de los 27",
+      "url": "https://open.spotify.com/track/7tgHjgeAYcXQCKEyGpcRj7"
+    },
+    {
+      "album": {
         "name": "Trapicheo: EL DON",
         "url": "https://open.spotify.com/album/16cVnNMAB6g0IyiOn2ViFv"
       },
@@ -3930,6 +4010,28 @@
       "duration_ms": 157746,
       "name": "en la cara",
       "url": "https://open.spotify.com/track/0Xn0NaJ2eqT7yWChjfy2E6"
+    },
+    {
+      "album": {
+        "name": "En la cara - En Vivo",
+        "url": "https://open.spotify.com/album/3LDA9nD7K36cegTBBWumuE"
+      },
+      "artists": [
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        },
+        {
+          "name": "Olivia Wald",
+          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177508,
+      "name": "En la cara - En Vivo",
+      "url": "https://open.spotify.com/track/4buQ1OSw1JwfU2Qj9Cq2MY"
     },
     {
       "album": {
@@ -5359,6 +5461,28 @@
     },
     {
       "album": {
+        "name": "La L\u00f3gica del Escorpi\u00f3n",
+        "url": "https://open.spotify.com/album/0k2JGzYRZQC3s3ZNTcyHoA"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        },
+        {
+          "name": "David Leb\u00f3n",
+          "url": "https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225783,
+      "name": "La Medicina N\u00ba 9",
+      "url": "https://open.spotify.com/track/3yN6KXgZZfe6SVjRytj5Z2"
+    },
+    {
+      "album": {
         "name": "La Morocha",
         "url": "https://open.spotify.com/album/1cNasYwHwTr9U5QFNNXd61"
       },
@@ -6642,7 +6766,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 128197,
       "name": "MASN\u00c1",
       "url": "https://open.spotify.com/track/6uP5IUPtvZOlNup9FbcjRw"
@@ -6958,7 +7082,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 140411,
       "name": "Mi Autom\u00f3vil",
       "url": "https://open.spotify.com/track/2II1TSrlhRrtz2hmzpXROT"
@@ -8100,7 +8224,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 193278,
       "name": "Nuestro Lugar Favorito",
       "url": "https://open.spotify.com/track/1e9yPXR55yigIsBDhVx2fZ"
@@ -8330,7 +8454,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 177784,
       "name": "Otra Oportunidad",
       "url": "https://open.spotify.com/track/4wWSU0upTTcJ3zfFx37Cun"
@@ -9129,6 +9253,32 @@
     },
     {
       "album": {
+        "name": "Princesa",
+        "url": "https://open.spotify.com/album/7rd2Pb6dBQvrzgbJU3ihpC"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "Valentino Merlo",
+          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166241,
+      "name": "Princesa",
+      "url": "https://open.spotify.com/track/1db75lVrSgDFZI1gZh8JlV"
+    },
+    {
+      "album": {
         "name": "\u00c9NFASIS",
         "url": "https://open.spotify.com/album/3Yg6mB7aDyVFTZBMcJPG5B"
       },
@@ -9771,6 +9921,24 @@
     },
     {
       "album": {
+        "name": "La L\u00f3gica del Escorpi\u00f3n",
+        "url": "https://open.spotify.com/album/0k2JGzYRZQC3s3ZNTcyHoA"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104566,
+      "name": "Rompela",
+      "url": "https://open.spotify.com/track/3BSA7eRvD25S4oX4rdngpU"
+    },
+    {
+      "album": {
         "name": "ROZE | DJ TAO Turreo Sessions #22",
         "url": "https://open.spotify.com/album/5jpQWN1yr0LVt6ksILGFIP"
       },
@@ -9860,7 +10028,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 182432,
       "name": "S.O.S",
       "url": "https://open.spotify.com/track/4qVFJdnzV5xhdGpD6RBvEr"
@@ -10524,6 +10692,28 @@
       "duration_ms": 155789,
       "name": "Solita y SueltAAA",
       "url": "https://open.spotify.com/track/3gtZLsncEuG3gNO4Qswhuf"
+    },
+    {
+      "album": {
+        "name": "Somos 3",
+        "url": "https://open.spotify.com/album/3qJoZo7FtGMg9cdTVvrQLX"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165545,
+      "name": "Somos 3",
+      "url": "https://open.spotify.com/track/7csEjU6jEvfK606QrqoM0i"
     },
     {
       "album": {
@@ -12697,6 +12887,24 @@
     },
     {
       "album": {
+        "name": "La L\u00f3gica del Escorpi\u00f3n",
+        "url": "https://open.spotify.com/album/0k2JGzYRZQC3s3ZNTcyHoA"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123288,
+      "name": "Yo Ya S\u00e9",
+      "url": "https://open.spotify.com/track/79thbxA6OpIUMVu8mROice"
+    },
+    {
+      "album": {
         "name": "Young Miko: Bzrp Music Sessions, Vol. 58",
         "url": "https://open.spotify.com/album/0HMTQPl6rJmP7sQEaRYHRo"
       },
@@ -12756,7 +12964,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 137694,
       "name": "\u00bfC\u00f3mo har\u00e9?",
       "url": "https://open.spotify.com/track/2IpQHErYoWeDEzOvvlYJ1l"

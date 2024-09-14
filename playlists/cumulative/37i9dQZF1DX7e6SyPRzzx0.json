@@ -107,6 +107,24 @@
     },
     {
       "album": {
+        "name": "ALL RED",
+        "url": "https://open.spotify.com/album/3cdcIcidzGHVQW5e9qQgtx"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148053,
+      "name": "ALL RED",
+      "url": "https://open.spotify.com/track/2cZOYofOX4d6g0OXxkaIjA"
+    },
+    {
+      "album": {
         "name": "Antisocial",
         "url": "https://open.spotify.com/album/5XOo1c28e4YMxp4uLh70qS"
       },
@@ -694,7 +712,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 119232,
       "name": "I Rot, I Rot.",
       "url": "https://open.spotify.com/track/6S2Uwo1I2uwyDh7IUx23MM"
@@ -1208,7 +1226,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 158137,
       "name": "MMM HMM (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/0KK6oylgSBhXglGZQL61y0"

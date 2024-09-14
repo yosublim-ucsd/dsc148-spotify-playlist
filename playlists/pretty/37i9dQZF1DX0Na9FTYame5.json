@@ -1,6 +1,6 @@
 {
   "description": "Deutschrap f\u00fcr die emotions. Cover: Montez",
-  "num_followers": 584388,
+  "num_followers": 584416,
   "original_name": "Rap in deep",
   "owner": {
     "name": "Spotify",
@@ -431,6 +431,26 @@
     {
       "added_at": "2024-09-09 10:35:04",
       "album": {
+        "name": "3 Sekunden (feat. Paula Hartmann)",
+        "url": "https://open.spotify.com/album/4o5l3VvshxJMSCuCgOhBpS"
+      },
+      "artists": [
+        {
+          "name": "C\u00c9LINE",
+          "url": "https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA"
+        },
+        {
+          "name": "Paula Hartmann",
+          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
+        }
+      ],
+      "duration_ms": 166942,
+      "name": "3 Sekunden (feat. Paula Hartmann)",
+      "url": "https://open.spotify.com/track/7fTJOA7DSGp5LNua6OdMIF"
+    },
+    {
+      "added_at": "2024-09-09 10:35:04",
+      "album": {
         "name": "OMG",
         "url": "https://open.spotify.com/album/29JfpcRRhV7vspCooH2pIM"
       },
@@ -455,26 +475,6 @@
       "duration_ms": 161849,
       "name": "OMG",
       "url": "https://open.spotify.com/track/48VxUAyrLAnOr39ck1cJV5"
-    },
-    {
-      "added_at": "2024-09-09 10:35:04",
-      "album": {
-        "name": "3 Sekunden (feat. Paula Hartmann)",
-        "url": "https://open.spotify.com/album/4o5l3VvshxJMSCuCgOhBpS"
-      },
-      "artists": [
-        {
-          "name": "C\u00c9LINE",
-          "url": "https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA"
-        },
-        {
-          "name": "Paula Hartmann",
-          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
-        }
-      ],
-      "duration_ms": 166942,
-      "name": "3 Sekunden (feat. Paula Hartmann)",
-      "url": "https://open.spotify.com/track/7fTJOA7DSGp5LNua6OdMIF"
     },
     {
       "added_at": "2024-09-09 10:35:04",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-09-09 10:35:04",
       "album": {
+        "name": "Lautlos",
+        "url": "https://open.spotify.com/album/1RufCOYft4nmhYXpYZQKmW"
+      },
+      "artists": [
+        {
+          "name": "Morpheuz",
+          "url": "https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Lautlos",
+      "url": "https://open.spotify.com/track/2Y0jnnVN1KDg8On65Rw2Hk"
+    },
+    {
+      "added_at": "2024-09-09 10:35:04",
+      "album": {
         "name": "Helldunkel",
         "url": "https://open.spotify.com/album/2zGXSLw6MPbYn5eyUAkbaa"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 108915,
       "name": "Plastikblumen",
       "url": "https://open.spotify.com/track/3xlGxCgwVwU08zL3Hrna95"
-    },
-    {
-      "added_at": "2024-09-09 10:35:04",
-      "album": {
-        "name": "Lautlos",
-        "url": "https://open.spotify.com/album/1RufCOYft4nmhYXpYZQKmW"
-      },
-      "artists": [
-        {
-          "name": "Morpheuz",
-          "url": "https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Lautlos",
-      "url": "https://open.spotify.com/track/2Y0jnnVN1KDg8On65Rw2Hk"
     },
     {
       "added_at": "2024-09-09 10:35:04",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-09-09 10:35:04",
       "album": {
-        "name": "Bisou :*",
-        "url": "https://open.spotify.com/album/6Y9pFqdaD1O343Vr9sZuR5"
-      },
-      "artists": [
-        {
-          "name": "Lune",
-          "url": "https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6"
-        }
-      ],
-      "duration_ms": 161587,
-      "name": "Bisou :*",
-      "url": "https://open.spotify.com/track/7dAI9IZpHaA9Lzhd8d60Tp"
-    },
-    {
-      "added_at": "2024-09-09 10:35:04",
-      "album": {
         "name": "Normal ist",
         "url": "https://open.spotify.com/album/0ZnYvx89atqe2pCS02CkO1"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 101714,
       "name": "Normal ist",
       "url": "https://open.spotify.com/track/57S16PUBDXaKLYpEH9V4L5"
+    },
+    {
+      "added_at": "2024-09-09 10:35:04",
+      "album": {
+        "name": "Bisou :*",
+        "url": "https://open.spotify.com/album/6Y9pFqdaD1O343Vr9sZuR5"
+      },
+      "artists": [
+        {
+          "name": "Lune",
+          "url": "https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6"
+        }
+      ],
+      "duration_ms": 161587,
+      "name": "Bisou :*",
+      "url": "https://open.spotify.com/track/7dAI9IZpHaA9Lzhd8d60Tp"
     },
     {
       "added_at": "2024-09-09 10:35:04",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-09-09 10:35:04",
       "album": {
-        "name": "schwarze SUVs",
-        "url": "https://open.spotify.com/album/6xkvyVTWRegxKOo0bbZcb2"
-      },
-      "artists": [
-        {
-          "name": "Paula Hartmann",
-          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
-        }
-      ],
-      "duration_ms": 169761,
-      "name": "schwarze SUVs",
-      "url": "https://open.spotify.com/track/6pimu004QBUVyiWJPYylGi"
-    },
-    {
-      "added_at": "2024-09-09 10:35:04",
-      "album": {
         "name": "Liebe = Schmerz",
         "url": "https://open.spotify.com/album/34epGENIY7DM2iBHT1LnLK"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 157800,
       "name": "Liebe = Schmerz",
       "url": "https://open.spotify.com/track/7dG0k6FNKGnrW15bBbvWmF"
+    },
+    {
+      "added_at": "2024-09-09 10:35:04",
+      "album": {
+        "name": "schwarze SUVs",
+        "url": "https://open.spotify.com/album/6xkvyVTWRegxKOo0bbZcb2"
+      },
+      "artists": [
+        {
+          "name": "Paula Hartmann",
+          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
+        }
+      ],
+      "duration_ms": 169761,
+      "name": "schwarze SUVs",
+      "url": "https://open.spotify.com/track/6pimu004QBUVyiWJPYylGi"
     },
     {
       "added_at": "2024-09-09 10:35:04",
@@ -1607,6 +1607,26 @@
     {
       "added_at": "2024-09-09 10:35:04",
       "album": {
+        "name": "PAUL",
+        "url": "https://open.spotify.com/album/1JCHmY9QyhalyUBjHHbg3D"
+      },
+      "artists": [
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        },
+        {
+          "name": "Estikay",
+          "url": "https://open.spotify.com/artist/4DMzvwya65eu1LsYZ3BLV6"
+        }
+      ],
+      "duration_ms": 165390,
+      "name": "Gar nicht mal so gl\u00fccklich (feat. Estikay)",
+      "url": "https://open.spotify.com/track/0KujySjvlPZiC4itOukxDM"
+    },
+    {
+      "added_at": "2024-09-09 10:35:04",
+      "album": {
         "name": "Sommer",
         "url": "https://open.spotify.com/album/5cfSg0UfE2Ch07MkqRHOYW"
       },
@@ -1627,26 +1647,6 @@
       "duration_ms": 180146,
       "name": "Sommer",
       "url": "https://open.spotify.com/track/3sqZwhR5UFmHAh1KLXGOgq"
-    },
-    {
-      "added_at": "2024-09-09 10:35:04",
-      "album": {
-        "name": "PAUL",
-        "url": "https://open.spotify.com/album/1JCHmY9QyhalyUBjHHbg3D"
-      },
-      "artists": [
-        {
-          "name": "Sido",
-          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
-        },
-        {
-          "name": "Estikay",
-          "url": "https://open.spotify.com/artist/4DMzvwya65eu1LsYZ3BLV6"
-        }
-      ],
-      "duration_ms": 165390,
-      "name": "Gar nicht mal so gl\u00fccklich (feat. Estikay)",
-      "url": "https://open.spotify.com/track/0KujySjvlPZiC4itOukxDM"
     },
     {
       "added_at": "2024-09-09 10:35:04",
@@ -1791,6 +1791,22 @@
     {
       "added_at": "2024-09-09 10:35:04",
       "album": {
+        "name": "Du liebst mich nicht",
+        "url": "https://open.spotify.com/album/3Llp59mzQ0M7GBLHhnNXsC"
+      },
+      "artists": [
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        }
+      ],
+      "duration_ms": 160119,
+      "name": "Du liebst mich nicht",
+      "url": "https://open.spotify.com/track/53AW1bkIjzdlwt4bE7w1UA"
+    },
+    {
+      "added_at": "2024-09-09 10:35:04",
+      "album": {
         "name": "War das schon alles",
         "url": "https://open.spotify.com/album/56JoFMEfYoSx912WyLmQ14"
       },
@@ -1819,22 +1835,6 @@
       "duration_ms": 195859,
       "name": "W\u00fcnsch mir was",
       "url": "https://open.spotify.com/track/01eVMUiJcYmHqy1HUURwOY"
-    },
-    {
-      "added_at": "2024-09-09 10:35:04",
-      "album": {
-        "name": "Du liebst mich nicht",
-        "url": "https://open.spotify.com/album/3Llp59mzQ0M7GBLHhnNXsC"
-      },
-      "artists": [
-        {
-          "name": "Sido",
-          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
-        }
-      ],
-      "duration_ms": 160119,
-      "name": "Du liebst mich nicht",
-      "url": "https://open.spotify.com/track/53AW1bkIjzdlwt4bE7w1UA"
     },
     {
       "added_at": "2024-09-09 10:35:04",

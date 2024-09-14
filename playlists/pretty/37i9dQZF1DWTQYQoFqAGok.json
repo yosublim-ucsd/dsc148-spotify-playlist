@@ -1,6 +1,6 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico \ud83c\udfb7\ud83c\udfb9\ud83c\udfb6\ud83c\uddf2\ud83c\uddfd",
-  "num_followers": 61025,
+  "num_followers": 61032,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -41,22 +41,6 @@
       "url": "https://open.spotify.com/track/0s5YhDYLPpCoGiGiksxDtm"
     },
     {
-      "added_at": "2022-01-11 02:50:37",
-      "album": {
-        "name": "Con Sabor a M\u00e9xico",
-        "url": "https://open.spotify.com/album/5z4hL561LGU1WGXyURy6V6"
-      },
-      "artists": [
-        {
-          "name": "Big Band Jazz de M\u00e9xico",
-          "url": "https://open.spotify.com/artist/4o5ePOzgsCeFTqN6Ypiu0c"
-        }
-      ],
-      "duration_ms": 271053,
-      "name": "Frenes\u00ed",
-      "url": "https://open.spotify.com/track/4a9acDlfLVTQFe6jDlkVUi"
-    },
-    {
       "added_at": "2021-07-28 16:44:28",
       "album": {
         "name": "No Corro, No Grito, No Empujo",
@@ -71,6 +55,22 @@
       "duration_ms": 156960,
       "name": "Excusez-Moi",
       "url": "https://open.spotify.com/track/2O13YCjbszhxzkVxEMn1Ht"
+    },
+    {
+      "added_at": "2022-01-11 02:50:37",
+      "album": {
+        "name": "Con Sabor a M\u00e9xico",
+        "url": "https://open.spotify.com/album/5z4hL561LGU1WGXyURy6V6"
+      },
+      "artists": [
+        {
+          "name": "Big Band Jazz de M\u00e9xico",
+          "url": "https://open.spotify.com/artist/4o5ePOzgsCeFTqN6Ypiu0c"
+        }
+      ],
+      "duration_ms": 271053,
+      "name": "Frenes\u00ed",
+      "url": "https://open.spotify.com/track/4a9acDlfLVTQFe6jDlkVUi"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -467,22 +467,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Jazz Mariachi",
-        "url": "https://open.spotify.com/album/3aoFmJGzas336JTwS4DGFh"
-      },
-      "artists": [
-        {
-          "name": "Tino Contreras",
-          "url": "https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX"
-        }
-      ],
-      "duration_ms": 211026,
-      "name": "Luna Taxque\u00f1a - Jazz Mariachi",
-      "url": "https://open.spotify.com/track/3KV4Rqy4xUPFDxtNQ9yTqp"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Blues",
         "url": "https://open.spotify.com/album/72BzkLOb7tpcmcpfEvtAox"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 179511,
       "name": "Caminos de Ayer",
       "url": "https://open.spotify.com/track/7bHkQLgxPTVC44Ty5A99Jm"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Jazz Mariachi",
+        "url": "https://open.spotify.com/album/3aoFmJGzas336JTwS4DGFh"
+      },
+      "artists": [
+        {
+          "name": "Tino Contreras",
+          "url": "https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX"
+        }
+      ],
+      "duration_ms": 211026,
+      "name": "Luna Taxque\u00f1a - Jazz Mariachi",
+      "url": "https://open.spotify.com/track/3KV4Rqy4xUPFDxtNQ9yTqp"
     },
     {
       "added_at": "2024-08-29 03:09:23",
@@ -627,22 +627,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Jazz",
-        "url": "https://open.spotify.com/album/5UlTOip0x8FRlBjf3hSNtv"
-      },
-      "artists": [
-        {
-          "name": "Chucho Zarzosa Y Su Conjunto",
-          "url": "https://open.spotify.com/artist/5rX3FXPe4kE1fJNCQhlJ3E"
-        }
-      ],
-      "duration_ms": 157586,
-      "name": "Tipitipit\u00edn",
-      "url": "https://open.spotify.com/track/17QiAjaQ2uGVY7aLEfPmoj"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Cuenta Conmigo (feat. Oscar Stagnaro)",
         "url": "https://open.spotify.com/album/7zMYmzZ13y8t7aNnBsf9nz"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 217840,
       "name": "Deb\u00ed Llorar",
       "url": "https://open.spotify.com/track/4BLmvUSPSwfMA09mp9Hp14"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Jazz",
+        "url": "https://open.spotify.com/album/5UlTOip0x8FRlBjf3hSNtv"
+      },
+      "artists": [
+        {
+          "name": "Chucho Zarzosa Y Su Conjunto",
+          "url": "https://open.spotify.com/artist/5rX3FXPe4kE1fJNCQhlJ3E"
+        }
+      ],
+      "duration_ms": 157586,
+      "name": "Tipitipit\u00edn",
+      "url": "https://open.spotify.com/track/17QiAjaQ2uGVY7aLEfPmoj"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -711,22 +711,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "KonFussion",
-        "url": "https://open.spotify.com/album/0gnwRiISWgdgtwVASejiHu"
-      },
-      "artists": [
-        {
-          "name": "Lalo Galv\u00e1n",
-          "url": "https://open.spotify.com/artist/1Kt8hm3gbr57ixVzYXpzdc"
-        }
-      ],
-      "duration_ms": 304213,
-      "name": "Nada Es Para Siempre",
-      "url": "https://open.spotify.com/track/33yU3BFOzegLinbxSAXLt8"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Electratoaster - EP",
         "url": "https://open.spotify.com/album/74DdAeaEAK7ruREcSAeFdS"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 257004,
       "name": "Dana (Cha-Cha-Shag)",
       "url": "https://open.spotify.com/track/4i6O1sKOUvzHl8qPPbe5io"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "KonFussion",
+        "url": "https://open.spotify.com/album/0gnwRiISWgdgtwVASejiHu"
+      },
+      "artists": [
+        {
+          "name": "Lalo Galv\u00e1n",
+          "url": "https://open.spotify.com/artist/1Kt8hm3gbr57ixVzYXpzdc"
+        }
+      ],
+      "duration_ms": 304213,
+      "name": "Nada Es Para Siempre",
+      "url": "https://open.spotify.com/track/33yU3BFOzegLinbxSAXLt8"
     },
     {
       "added_at": "2021-07-28 16:44:28",

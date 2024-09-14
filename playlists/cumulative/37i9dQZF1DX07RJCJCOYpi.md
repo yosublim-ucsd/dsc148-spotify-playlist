@@ -4,7 +4,7 @@
 
 > The wave of Latin Electronic music\. Cover: NATTI NATASHA, Play\-N\-Skillz & Deorro
 
-341 songs - 17 hr 40 min
+342 songs - 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,6 +256,7 @@
 | [Pierdete](https://open.spotify.com/track/2KqYLGLtzbyjR2MSRdxMT8) | [Paolo Pimp](https://open.spotify.com/artist/3C4u5zRlcRqpe26zQmQRku) | [Pimp](https://open.spotify.com/album/5D5bSrVZI1eP4awH3V9sHU) | 2:24 | 2022-12-30 | 2023-05-27 |
 | [Pin Pan](https://open.spotify.com/track/2tWPVMfQH0AvZBu5VMpXf9) | [Cato Anaya](https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec), [Matta \(COL\)](https://open.spotify.com/artist/5HmfPodhYUR4Js09zzeg2Z), [JUANPORDIOS!](https://open.spotify.com/artist/4DVSIgIIO92h4OdSSBBJlg) | [Pin Pan](https://open.spotify.com/album/7cY7EHWnbjDcphrqnMPF2k) | 3:37 | 2023-06-30 | 2023-11-30 |
 | [PINK](https://open.spotify.com/track/5JIywJ2IgYvFVNk8cU3CyA) | [8onthebeat](https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [PINK](https://open.spotify.com/album/07ZVt89JXh0m1h8pCGYQgo) | 3:41 | 2024-07-26 |  |
+| [Plata](https://open.spotify.com/track/5sxvPLgO5OfHvRi8ZU3BM0) | [J\. Cross](https://open.spotify.com/artist/68N3vrc89eDm581F9vqzXd), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Plata](https://open.spotify.com/album/1SqNO6d7TJI3R4hlUhc40J) | 2:52 | 2024-09-13 |  |
 | [POLIDRAMA](https://open.spotify.com/track/541cVQIUsnOYmOna54whVE) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [ESFERA DE AMOR](https://open.spotify.com/album/2MxR4pWsCM8n0Bp8RhYcu9) | 2:31 | 2023-06-05 | 2023-12-16 |
 | [Potente](https://open.spotify.com/track/4MvCdK15VGFvmAYqG4PcQ8) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Andrew Mathers](https://open.spotify.com/artist/5rjFsTXq2iEMk09Pxtz2U0) | [Potente](https://open.spotify.com/album/3mMGZiXwqikBAkY3VXVy0Y) | 2:40 | 2022-10-28 | 2023-05-27 |
 | [PPP](https://open.spotify.com/track/1zNobOaHvQIFzYpGb3VBR9) | [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Skrapy](https://open.spotify.com/artist/3exJEpEoygFnfUyVen7QSP) | [PPP](https://open.spotify.com/album/75iFgRPgqvNwqm6kgqsBtr) | 3:08 | 2024-04-05 |  |

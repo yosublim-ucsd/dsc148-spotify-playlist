@@ -3669,6 +3669,24 @@
     },
     {
       "album": {
+        "name": "Hum",
+        "url": "https://open.spotify.com/album/7lm46SpTML92LUir95pbMm"
+      },
+      "artists": [
+        {
+          "name": "furozun",
+          "url": "https://open.spotify.com/artist/5voSeB7AkXaFy0akWb5w3U"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144446,
+      "name": "Hum",
+      "url": "https://open.spotify.com/track/5BNFEFdrD7IJjPhvw6ioyS"
+    },
+    {
+      "album": {
         "name": "Reignforest",
         "url": "https://open.spotify.com/album/6OaMbujRy6O3C1jtIo0I3T"
       },
@@ -5097,6 +5115,24 @@
     },
     {
       "album": {
+        "name": "Lush Life",
+        "url": "https://open.spotify.com/album/56fGBQvKBAEv15xe7pufam"
+      },
+      "artists": [
+        {
+          "name": "MLTSMTHNG",
+          "url": "https://open.spotify.com/artist/4qVhuxnsE1C2UrjYOPIRtL"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147391,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/3o6KNgjKKKpqLrVsPl85FL"
+    },
+    {
+      "album": {
         "name": "Lush Lush Lake",
         "url": "https://open.spotify.com/album/6UZspmwJnmXPbVg4ilUvtB"
       },
@@ -6442,6 +6478,24 @@
       "duration_ms": 130625,
       "name": "PALMTREES",
       "url": "https://open.spotify.com/track/68LpjjFHicK5YIM5I5KMex"
+    },
+    {
+      "album": {
+        "name": "Paper Kites",
+        "url": "https://open.spotify.com/album/2aw3cgdHzSrknrSdyYqhHp"
+      },
+      "artists": [
+        {
+          "name": "Loose Principles",
+          "url": "https://open.spotify.com/artist/6sVzSwvK7Wq0a0xjHk8tGk"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138987,
+      "name": "Paper Kites",
+      "url": "https://open.spotify.com/track/6OVR1eAheHHPaiQVka10Mg"
     },
     {
       "album": {
@@ -8622,6 +8676,24 @@
       "duration_ms": 142653,
       "name": "Talk About It",
       "url": "https://open.spotify.com/track/4y3r110Eb6leMBaoz83S4s"
+    },
+    {
+      "album": {
+        "name": "Tap in",
+        "url": "https://open.spotify.com/album/5k5Axdq3myvAnGX4mZj4Ne"
+      },
+      "artists": [
+        {
+          "name": "Samara Milli",
+          "url": "https://open.spotify.com/artist/3sZomG9CbKFGghCfMXwhhv"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114285,
+      "name": "Tap in",
+      "url": "https://open.spotify.com/track/7bYstiT64ku0Da4Cdvi4RQ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 
 > Turn up the volume for some filthy bassline!
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,735 likes - 70 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,856 likes - 70 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 13 | [Hot In Here](https://open.spotify.com/track/0jzGm5fCcbUdaiUj4hAxeM) | [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Hot In Here](https://open.spotify.com/album/02oLtxGI6xxN68iVnnDR6W) | 3:11 |
 | 14 | [CONTEXT](https://open.spotify.com/track/209naSvFNpkDmJGZ8pVoZ5) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz), [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra) | [CONTEXT](https://open.spotify.com/album/38gQnVVwncSqxJ4msdAvwy) | 2:17 |
 | 15 | [Swing King](https://open.spotify.com/track/0xHtnko6St2bKkMGgrtTO1) | [Cesco](https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Swing King](https://open.spotify.com/album/1GXILMnLp8orFCcrPFu0eo) | 4:29 |
-| 16 | [Phantasm](https://open.spotify.com/track/7veVv9LcaAbt6DVeHVmjgY) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ), [Simula](https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl) | [Phantasm](https://open.spotify.com/album/0MeCw3SMfshfeTF2OG85gx) | 4:29 |
+| 16 | [STEADY](https://open.spotify.com/track/6fJDthpIu7wC4B117UWic5) | [Skelecta](https://open.spotify.com/artist/6GBkUEt5ZsqktX5MfnfLzg), [Emz](https://open.spotify.com/artist/42uWTOhFxOD21pXuBmuEp9) | [STEADY](https://open.spotify.com/album/6Xf8Y0RJ9OliIsCJA3NCHG) | 2:21 |
 | 17 | [Kumonga](https://open.spotify.com/track/6EpVAOgIHf0FvzPBf5OM4t) | [Jantsen](https://open.spotify.com/artist/6rhTnHtyVcRrtuzS1wnLZg), [Ruvlo](https://open.spotify.com/artist/3nqbWR5FC0RSkS9kK1aalW) | [Kumonga](https://open.spotify.com/album/3HwFH9OrfxZekWw76FvXZl) | 3:05 |
-| 18 | [STEADY](https://open.spotify.com/track/6fJDthpIu7wC4B117UWic5) | [Skelecta](https://open.spotify.com/artist/6GBkUEt5ZsqktX5MfnfLzg), [Emz](https://open.spotify.com/artist/42uWTOhFxOD21pXuBmuEp9) | [STEADY](https://open.spotify.com/album/6Xf8Y0RJ9OliIsCJA3NCHG) | 2:21 |
+| 18 | [Phantasm](https://open.spotify.com/track/7veVv9LcaAbt6DVeHVmjgY) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ), [Simula](https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl) | [Phantasm](https://open.spotify.com/album/0MeCw3SMfshfeTF2OG85gx) | 4:29 |
 | 19 | [On My Line](https://open.spotify.com/track/3Y5iyIB6OVvhybwGoE9mGv) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH), [Flava D](https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ) | [On My Line](https://open.spotify.com/album/63hVrszqSChih5vJ18lquM) | 3:22 |
 | 20 | [Hide N Seek \(feat\. TAET\)](https://open.spotify.com/track/2K2FgAoIodVpU9bBlU7hhP) | [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [TAET](https://open.spotify.com/artist/5hQmpI9StixOlzdd5ogQ3f) | [Hide N Seek \(feat\. TAET\)](https://open.spotify.com/album/16JAgjFAEpguF9mMQV89EQ) | 2:48 |
 | 21 | [Style](https://open.spotify.com/track/62KcN1Ea8Rjm4Nd3DcFw6t) | [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a), [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [Capo Lee](https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh) | [Style](https://open.spotify.com/album/4XXKdcSWdp3N8pUfsRtdBf) | 2:03 |

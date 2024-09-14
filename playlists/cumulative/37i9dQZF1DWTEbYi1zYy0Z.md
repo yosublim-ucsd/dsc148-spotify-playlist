@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Boney James
 
-476 songs - 1 day 9 hr 42 min
+477 songs - 1 day 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [A Beautiful Story](https://open.spotify.com/track/0Ne0fHLGdb8z3au4EClgTo) | [Ludovic Louis](https://open.spotify.com/artist/7dzml0MudQRS956whBQ455) | [If Everything Is Written](https://open.spotify.com/album/1I8wcOWPePOc82xh72vGlk) | 2:57 | 2024-06-07 |  |
 | [A Brighter Day](https://open.spotify.com/track/5NbqBSwhgnd601B9lu80U6) | [Craig Sharmat](https://open.spotify.com/artist/7AOYuTczmJd2pICRBxEPn4) | [A Brighter Day](https://open.spotify.com/album/74rVku2kW6XDWv5eTO72we) | 3:51 | 2021-06-11 | 2022-07-29 |
 | [A Kind Heart \(Radio Edit\)](https://open.spotify.com/track/2T1r2HCWcbqGQumVbypbLO) | [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [A Kind Heart \(Radio Edit\)](https://open.spotify.com/album/45MukUOa8AzLy9mmMWQEcW) | 3:51 | 2024-03-15 |  |
-| [A Little Kiss](https://open.spotify.com/track/1ZVwUblLEKUAL18HYg9pFa) | [Ken Navarro](https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a) | [Love Is Everywhere](https://open.spotify.com/album/16whuBxT0JiUKbQFKISVbA) | 3:48 | 2023-04-07 |  |
+| [A Little Kiss](https://open.spotify.com/track/1ZVwUblLEKUAL18HYg9pFa) | [Ken Navarro](https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a) | [Love Is Everywhere](https://open.spotify.com/album/16whuBxT0JiUKbQFKISVbA) | 3:48 | 2023-04-07 | 2024-09-14 |
 | [A Mother’s Lullaby](https://open.spotify.com/track/2FdWsATDfwQHKzWaDD24Kb) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [A Mother's Lullaby](https://open.spotify.com/album/0DRBipH6RP6Pl6kghGMzBh) | 3:17 | 2023-09-08 | 2023-10-14 |
 | [A New Beginning](https://open.spotify.com/track/4C8rJHteqStazKn82dxlFl) | [Brian Culbertson](https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE) | [A New Beginning](https://open.spotify.com/album/5FAUJjQTeALruMhXWDMFR1) | 6:05 | 2020-12-04 | 2022-03-17 |
 | [A Song for Peace](https://open.spotify.com/track/01T4bEtV47xjJQ2ER7rZj2) | [Greg Manning](https://open.spotify.com/artist/124ZXfDP304DWzmuOM6Jza), [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [A Song for Peace](https://open.spotify.com/album/6YfIaFDEwyfnVnBX2zfLQw) | 4:33 | 2022-06-17 | 2023-07-22 |
@@ -35,6 +35,7 @@
 | [April \- Radio Edit](https://open.spotify.com/track/7tNGRgskPPPqQsCWLqD09N) | [Mindi Abair](https://open.spotify.com/artist/4NpYuUHLxUMcGSzuYxv3W4) | [April \(Radio Edit\)](https://open.spotify.com/album/1pQCtr51NvxbmzgzXG0vhP) | 4:24 | 2021-03-05 | 2022-03-18 |
 | [Around The Block](https://open.spotify.com/track/4iLeV5ByJRp7KFL1yMHjcA) | [Under The Lake](https://open.spotify.com/artist/6JZ499nu5Bh7V8ttxadnoj) | [Around the Block](https://open.spotify.com/album/1k7IoQqTB7kKXv9LWZmoSO) | 4:26 | 2021-06-04 | 2022-07-28 |
 | [August Nights](https://open.spotify.com/track/4Yvh9VVJSt9KKFrIq9emtp) | [Jeff Kashiwa](https://open.spotify.com/artist/7GVLgt36lHtKdbxooYQhbW) | [Fly Away](https://open.spotify.com/album/0jXTubOCsJUH7GuUIfMHTv) | 4:25 | 2020-10-30 | 2022-03-11 |
+| [Automatic](https://open.spotify.com/track/6d4PdhxDEF9bJFZ74EVwTc) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm), [Adam Hawley](https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX) | [Automatic](https://open.spotify.com/album/54td2WbTNgtvvnOUY7CGdF) | 4:23 | 2024-09-13 |  |
 | [B Positive \(feat\. Dave Koz\)](https://open.spotify.com/track/7dmAtlqr6px3uX77I41yz3) | [Rob Tardik](https://open.spotify.com/artist/2N4cj5HueGaJfIIHeBzz4D), [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [B Positive \(feat\. Dave Koz\)](https://open.spotify.com/album/4CKSkWORg8HZamWhENGAUK) | 3:53 | 2021-03-05 | 2022-03-18 |
 | [B's Bounce](https://open.spotify.com/track/4qgEEnKcoCdLGkjBlnko4f) | [Blair Bryant](https://open.spotify.com/artist/1bNvtqK9g0M2hDWRLdwpZq) | [B's Bounce](https://open.spotify.com/album/6XBn88waptvIflNtqqIiWf) | 4:17 | 2021-03-19 | 2022-03-18 |
 | [Back Here Again](https://open.spotify.com/track/4aFxPMwIfbTiq5eY6tUGJg) | [Bluey](https://open.spotify.com/artist/3JYDa2gsS6juqnzBT9wdm9) | [Back Here Again](https://open.spotify.com/album/6RKSoCAV3UIeUZhJXHPXgm) | 4:25 | 2021-01-22 | 2022-03-18 |

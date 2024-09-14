@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Devochka
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,245,758 likes - 79 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,245,710 likes - 79 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 14 | [Arouse](https://open.spotify.com/track/6yarNDvkmxRnAQJm2GhkQJ) | [Dashdot](https://open.spotify.com/artist/0dDnvI6TCQslhEBYCA4DPU), [Circuit City](https://open.spotify.com/artist/7daGLYwpBV99qmaRG7u2IN) | [Arouse](https://open.spotify.com/album/1FuRSqu7aFCacUIobhGqhI) | 7:14 |
 | 15 | [Why I Love You So](https://open.spotify.com/track/7dnBSJEnqpf8dK5fKQevqi) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL), [Supafly](https://open.spotify.com/artist/2uBSo6TqjuddKVUp5MVqfV) | [Why I Love You So](https://open.spotify.com/album/4JF0zqoAl589waMex3Y1nx) | 2:53 |
 | 16 | [Good Liar](https://open.spotify.com/track/2a5FHxBPiUTZODhiefpZEK) | [Volyri](https://open.spotify.com/artist/7j1fkOH24S29ajq83j0V3o), [KRNKT](https://open.spotify.com/artist/2IXt8OJp8lL5aiNjFP391E) | [Good Liar](https://open.spotify.com/album/362K2N7LISuI7DosCTJpmF) | 2:45 |
-| 17 | [Lift Me Up](https://open.spotify.com/track/0IxBytxMiyOhfK8yvonEPp) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Kyozo](https://open.spotify.com/artist/6RvOjSdkA47bpr5qejYm1v) | [Lift Me Up \(feat\. Kyozo\)](https://open.spotify.com/album/62dbLJwnEArDhNjiCFgMxA) | 3:53 |
+| 17 | [Lift Me Up \(feat\. Kyozo\)](https://open.spotify.com/track/0IxBytxMiyOhfK8yvonEPp) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Kyozo](https://open.spotify.com/artist/6RvOjSdkA47bpr5qejYm1v) | [Lift Me Up \(feat\. Kyozo\)](https://open.spotify.com/album/62dbLJwnEArDhNjiCFgMxA) | 3:53 |
 | 18 | [SEM PARAR](https://open.spotify.com/track/1YbQEiVH34gYKgfl88e1Jf) | [Klean](https://open.spotify.com/artist/6BDwa2IOkZ2Hr4OBeTloE2), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO), [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws) | [SEM PARAR](https://open.spotify.com/album/7nvdIbJRrlx7RiLLePRbex) | 2:39 |
 | 19 | [Underground](https://open.spotify.com/track/11tmJWC5Wx3e893v8mFIzt) | [Silver Panda](https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da), [RUBACK](https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg) | [Underground](https://open.spotify.com/album/6JyvNtDRMgxjMB9JJPR1bT) | 3:08 |
 | 20 | [Talking About It](https://open.spotify.com/track/64cmINuqBgAZgWs2vzUaUv) | [Watzgood](https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa) | [Talking About It](https://open.spotify.com/album/78TpWKHVQAO8VLZ7kL7VdU) | 3:29 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 78 | [Good Times](https://open.spotify.com/track/5onEEf02y74La3YKychBPy) | [Renato Cohen](https://open.spotify.com/artist/7C26wQyStqkNFW94iutvVD) | [Good Times](https://open.spotify.com/album/1dFJbWmnfP9cZtk98aKBCb) | 6:11 |
 | 79 | [Light It Up](https://open.spotify.com/track/3aM3elSql2STyiob9POgWY) | [HAWK.](https://open.spotify.com/artist/6kGgCcP1pFsfBy9Zj7KZft), [LOOZBONE](https://open.spotify.com/artist/41mgVbCJxhUtr9o9EpRchx), [Arkins](https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH) | [Light It Up](https://open.spotify.com/album/44U8tCNiznyv71RQ5sE1Ht) | 2:37 |
 
-Snapshot ID: `ZuOrZAAAAADnMoE/DXjBG4xlvrJKlK8i`
+Snapshot ID: `ZuOrZAAAAAA+Ke2hFZTo1hHUecB2ILxE`

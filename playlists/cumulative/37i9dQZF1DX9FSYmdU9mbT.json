@@ -1727,6 +1727,28 @@
     },
     {
       "album": {
+        "name": "Eterna Alegria (Special Edition) - Ao Vivo",
+        "url": "https://open.spotify.com/album/5Cl79Wr1ZukFvRGM2zgG7z"
+      },
+      "artists": [
+        {
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+        },
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205915,
+      "name": "Mutir\u00e3o de Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/0yL2NJPP19vdualPdOCWet"
+    },
+    {
+      "album": {
         "name": "Mal\u00e1sia",
         "url": "https://open.spotify.com/album/53VgQJU6DoF3Y1mkmTONNa"
       },

@@ -4,7 +4,7 @@
 
 > Jesień nigdy nie brzmiała tak dobrze 🍂
 
-172 songs - 9 hr 38 min
+173 songs - 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Sinner](https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Sinner](https://open.spotify.com/album/7bP6iLlQ2LkW7tnq2Q1vxt) | 2:56 | 2024-06-28 | 2024-08-26 |
 | [Slow It Down](https://open.spotify.com/track/51eSHglvG1RJXtL3qI5trr) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 2:41 | 2024-06-28 | 2024-09-13 |
 | [Smutek lubi mnie](https://open.spotify.com/track/5EWUr19AepSJEHR2lIFWQi) | [Zbigniew Wodecki](https://open.spotify.com/artist/4WNxiqxAHcXWK9jWdevCIn), [BEMY](https://open.spotify.com/artist/2gZ0KjfMstAdkcs5NaFHCb) | [Smutek lubi mnie](https://open.spotify.com/album/7LUwxH1BzrTcoKl9FLubdA) | 3:33 | 2024-06-28 | 2024-07-06 |
+| [Soft Spot](https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem](https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm) | 3:24 | 2024-09-12 |  |
 | [Softcore](https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 3:26 | 2024-09-12 |  |
 | [something i can't afford](https://open.spotify.com/track/5BZyKhuOTOp4ouVRkp15k7) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [something I can't afford](https://open.spotify.com/album/4wn5IouuKlkr9rJfkkGx6n) | 3:01 | 2024-06-28 | 2024-07-13 |
 | [something to remember](https://open.spotify.com/track/6eI8B3QW20P68MCYMb4Etd) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [something to remember](https://open.spotify.com/album/1XReJJvzNwuKvwcGtSbdfo) | 2:42 | 2024-06-28 | 2024-09-13 |
@@ -167,7 +168,7 @@
 | [Toro](https://open.spotify.com/track/62QValXcWLH5RSnZRFeKKl) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Toro / Alone in Miami](https://open.spotify.com/album/6uXCWFQ6aKYMbIvJQPObt9) | 2:55 | 2024-06-28 | 2024-08-21 |
 | [Touching The Sky](https://open.spotify.com/track/2SaRD7OpQ2A9ZeCOntar0g) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Touching The Sky](https://open.spotify.com/album/5WLJs3zhRQGPTOpMhFnJqa) | 3:07 | 2024-06-28 | 2024-09-13 |
 | [Trucizna](https://open.spotify.com/track/3fAFgKBYLAX4M8C9lNxhTO) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [Nic nie widać po mnie](https://open.spotify.com/album/1Cwn1kTBxqD2bshBV368cZ) | 3:08 | 2024-09-12 |  |
-| [Twoja miłość](https://open.spotify.com/track/0bjUX2Fm71AMebqvRUZPZd) | [Rubens](https://open.spotify.com/artist/0f53X3udWEWIhMbmuWdxo7) | [Twoja miłość](https://open.spotify.com/album/2z8O7BShTaFW41KoGRW7KH) | 3:41 | 2024-09-12 |  |
+| [Twoja miłość](https://open.spotify.com/track/0bjUX2Fm71AMebqvRUZPZd) | [Rubens](https://open.spotify.com/artist/0f53X3udWEWIhMbmuWdxo7) | [Twoja miłość](https://open.spotify.com/album/2z8O7BShTaFW41KoGRW7KH) | 3:41 | 2024-09-12 | 2024-09-14 |
 | [Unknown / Nth](https://open.spotify.com/track/2yDJcDBVnvrEFGdDu0sSHT) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk) | 4:40 | 2024-09-12 |  |
 | [Upadki i wzloty](https://open.spotify.com/track/6lmd1iffw55qQIzBxStFOP) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Upadki i wzloty](https://open.spotify.com/album/0H5oZPNKpOgMyPp0xKa04S) | 3:11 | 2024-07-18 | 2024-07-27 |
 | [Upał](https://open.spotify.com/track/6huJDMbSA3WpkzFLkE8sZm) | [Natalia Szroeder](https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3) | [Upał](https://open.spotify.com/album/2F3QLjyAxqK3GFdl3t031x) | 3:26 | 2024-08-03 | 2024-08-21 |

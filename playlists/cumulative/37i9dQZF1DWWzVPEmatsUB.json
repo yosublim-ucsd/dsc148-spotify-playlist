@@ -2299,6 +2299,28 @@
     },
     {
       "album": {
+        "name": "Grow Old Together",
+        "url": "https://open.spotify.com/album/5WLdnhtrbVuDWwOQ46a8V2"
+      },
+      "artists": [
+        {
+          "name": "Revel Day",
+          "url": "https://open.spotify.com/artist/0GlCo4o05HxdzR4Gj7GKyw"
+        },
+        {
+          "name": "Anna Dellaria",
+          "url": "https://open.spotify.com/artist/1VIvKUaSkkzbWE4oWVpGaR"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219428,
+      "name": "Grow Old Together",
+      "url": "https://open.spotify.com/track/1Ue7dDblJkm1YAUb2OUDJp"
+    },
+    {
+      "album": {
         "name": "Happy?",
         "url": "https://open.spotify.com/album/6il2yNDklvhFWzy2qBDhEA"
       },
@@ -3044,7 +3066,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 150583,
       "name": "I Would've",
       "url": "https://open.spotify.com/track/54obxWf8kRI8TGtbX52YyJ"
@@ -4260,7 +4282,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 154946,
       "name": "Miles Away (feat. Ant Saunders)",
       "url": "https://open.spotify.com/track/7FEUENNMyyXkHcjLN6VSLA"
@@ -4662,6 +4684,24 @@
       "duration_ms": 166706,
       "name": "No Fooling Me",
       "url": "https://open.spotify.com/track/60j0tXalnpq8iWnh4RyaSQ"
+    },
+    {
+      "album": {
+        "name": "Nobody Knows",
+        "url": "https://open.spotify.com/album/3P1k02barEAeTD5QeyV6oj"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152239,
+      "name": "Nobody Knows",
+      "url": "https://open.spotify.com/track/2d4Zg9Iupw6kJXVrQPERvh"
     },
     {
       "album": {

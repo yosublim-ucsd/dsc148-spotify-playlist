@@ -1,6 +1,6 @@
 {
   "description": "La psicodelia tropical latinoamericana y sus alucinantes ritmos.",
-  "num_followers": 44331,
+  "num_followers": 44340,
   "original_name": "TROPILOCO",
   "owner": {
     "name": "Spotify",
@@ -233,22 +233,6 @@
       "url": "https://open.spotify.com/track/511pu0YZEk21PSpghFADdy"
     },
     {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Sonidos Gold",
-        "url": "https://open.spotify.com/album/2lBRiANHPb6WCzlwjWDF1f"
-      },
-      "artists": [
-        {
-          "name": "Grupo Fantasma",
-          "url": "https://open.spotify.com/artist/1EJ0KSMkpoQJHChu5AyTHE"
-        }
-      ],
-      "duration_ms": 161426,
-      "name": "Cumbia De Los Pajaritos",
-      "url": "https://open.spotify.com/track/2qthHzKgzuQIlfSVV44FkK"
-    },
-    {
       "added_at": "2023-12-12 18:56:56",
       "album": {
         "name": "Yellow Laces - Another Life",
@@ -263,6 +247,22 @@
       "duration_ms": 197645,
       "name": "Yellow Laces",
       "url": "https://open.spotify.com/track/2nKsFoAxQRjQz5zEvM7Hhz"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Sonidos Gold",
+        "url": "https://open.spotify.com/album/2lBRiANHPb6WCzlwjWDF1f"
+      },
+      "artists": [
+        {
+          "name": "Grupo Fantasma",
+          "url": "https://open.spotify.com/artist/1EJ0KSMkpoQJHChu5AyTHE"
+        }
+      ],
+      "duration_ms": 161426,
+      "name": "Cumbia De Los Pajaritos",
+      "url": "https://open.spotify.com/track/2qthHzKgzuQIlfSVV44FkK"
     },
     {
       "added_at": "2023-03-23 22:04:18",
@@ -491,22 +491,6 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "Historia natural",
-        "url": "https://open.spotify.com/album/6R4jGvcdmRiF8wL6yqp34N"
-      },
-      "artists": [
-        {
-          "name": "Los Pira\u00f1as",
-          "url": "https://open.spotify.com/artist/1TWdamQsAiOgB0szQsMSeq"
-        }
-      ],
-      "duration_ms": 223488,
-      "name": "Todos tenemos hogar",
-      "url": "https://open.spotify.com/track/0TS5b5bVfUtGi2VOimdjIH"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
         "name": "La Cumbia Sampuesana",
         "url": "https://open.spotify.com/album/3hfoRX2lmEN8vY7idLIo2S"
       },
@@ -527,18 +511,18 @@
     {
       "added_at": "2021-10-20 15:37:42",
       "album": {
-        "name": "La N\u00famero Uno",
-        "url": "https://open.spotify.com/album/2qMKOE7IQlLOlFgXqoqwzW"
+        "name": "Historia natural",
+        "url": "https://open.spotify.com/album/6R4jGvcdmRiF8wL6yqp34N"
       },
       "artists": [
         {
-          "name": "El Drag\u00f3n Criollo",
-          "url": "https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G"
+          "name": "Los Pira\u00f1as",
+          "url": "https://open.spotify.com/artist/1TWdamQsAiOgB0szQsMSeq"
         }
       ],
-      "duration_ms": 244403,
-      "name": "La N\u00famero Uno",
-      "url": "https://open.spotify.com/track/2U0oiUjN3BqsIAVEdTgqoy"
+      "duration_ms": 223488,
+      "name": "Todos tenemos hogar",
+      "url": "https://open.spotify.com/track/0TS5b5bVfUtGi2VOimdjIH"
     },
     {
       "added_at": "2022-11-18 17:45:57",
@@ -555,6 +539,22 @@
       "duration_ms": 173148,
       "name": "Chichala",
       "url": "https://open.spotify.com/track/6wXvGcNWgRsZDyIFC2zTuW"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "La N\u00famero Uno",
+        "url": "https://open.spotify.com/album/2qMKOE7IQlLOlFgXqoqwzW"
+      },
+      "artists": [
+        {
+          "name": "El Drag\u00f3n Criollo",
+          "url": "https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G"
+        }
+      ],
+      "duration_ms": 244403,
+      "name": "La N\u00famero Uno",
+      "url": "https://open.spotify.com/track/2U0oiUjN3BqsIAVEdTgqoy"
     },
     {
       "added_at": "2023-03-10 22:34:25",
@@ -893,6 +893,22 @@
       "url": "https://open.spotify.com/track/7fv20ywu4geYS8LpleMsFE"
     },
     {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Smells Like Cumbia",
+        "url": "https://open.spotify.com/album/1AqakrqNVRPbuBN7A4ggm9"
+      },
+      "artists": [
+        {
+          "name": "Tropa Magica",
+          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
+        }
+      ],
+      "duration_ms": 148360,
+      "name": "Misirlou",
+      "url": "https://open.spotify.com/track/0gUYUBGFojmopnkz3acWfZ"
+    },
+    {
       "added_at": "2024-03-16 00:36:22",
       "album": {
         "name": "Cumbia Disco Energy",
@@ -931,22 +947,6 @@
       "duration_ms": 243114,
       "name": "Caminito de mi Pueblo",
       "url": "https://open.spotify.com/track/7dQdBFS066ZEQfiwcZd3Rp"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Smells Like Cumbia",
-        "url": "https://open.spotify.com/album/1AqakrqNVRPbuBN7A4ggm9"
-      },
-      "artists": [
-        {
-          "name": "Tropa Magica",
-          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
-        }
-      ],
-      "duration_ms": 148360,
-      "name": "Misirlou",
-      "url": "https://open.spotify.com/track/0gUYUBGFojmopnkz3acWfZ"
     },
     {
       "added_at": "2023-02-14 03:09:22",
@@ -1065,6 +1065,22 @@
       "url": "https://open.spotify.com/track/7yajyapWJC5cCaEivSORTH"
     },
     {
+      "added_at": "2023-09-25 00:02:05",
+      "album": {
+        "name": "OVNI Cumbia",
+        "url": "https://open.spotify.com/album/5zIwx6VzbPOyDsHyutXhVP"
+      },
+      "artists": [
+        {
+          "name": "Tropa Magica",
+          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "OVNI Cumbia",
+      "url": "https://open.spotify.com/track/4HaTOY6NHoWNr80QXs5sEm"
+    },
+    {
       "added_at": "2023-02-28 04:34:35",
       "album": {
         "name": "Me Estoy Poniendo Viejo",
@@ -1095,22 +1111,6 @@
       "duration_ms": 197821,
       "name": "Mar Iguana",
       "url": "https://open.spotify.com/track/2qxsksiArurrQ51Y2gQIxj"
-    },
-    {
-      "added_at": "2023-09-25 00:02:05",
-      "album": {
-        "name": "OVNI Cumbia",
-        "url": "https://open.spotify.com/album/5zIwx6VzbPOyDsHyutXhVP"
-      },
-      "artists": [
-        {
-          "name": "Tropa Magica",
-          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "OVNI Cumbia",
-      "url": "https://open.spotify.com/track/4HaTOY6NHoWNr80QXs5sEm"
     },
     {
       "added_at": "2023-02-28 04:34:35",
@@ -1163,22 +1163,6 @@
       "duration_ms": 220382,
       "name": "Con Otros Ojos",
       "url": "https://open.spotify.com/track/2pqg6LbsUiHdEvNkQHD8H5"
-    },
-    {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Estraik Back",
-        "url": "https://open.spotify.com/album/5RdZA6wy7EDXvrmAzdlUcY"
-      },
-      "artists": [
-        {
-          "name": "Los Esplifs",
-          "url": "https://open.spotify.com/artist/5caq5gxBeWAzvz8boqmBdb"
-        }
-      ],
-      "duration_ms": 231226,
-      "name": "Perro Rabioso",
-      "url": "https://open.spotify.com/track/1m3rYHSyIcwoeC3bKncV3D"
     },
     {
       "added_at": "2022-02-25 02:13:50",
@@ -1247,6 +1231,22 @@
       "duration_ms": 258898,
       "name": "Bueltatzen",
       "url": "https://open.spotify.com/track/1QoGnD390y0CCuTAIy1J2o"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Estraik Back",
+        "url": "https://open.spotify.com/album/5RdZA6wy7EDXvrmAzdlUcY"
+      },
+      "artists": [
+        {
+          "name": "Los Esplifs",
+          "url": "https://open.spotify.com/artist/5caq5gxBeWAzvz8boqmBdb"
+        }
+      ],
+      "duration_ms": 231226,
+      "name": "Perro Rabioso",
+      "url": "https://open.spotify.com/track/1m3rYHSyIcwoeC3bKncV3D"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1381,22 +1381,6 @@
       "url": "https://open.spotify.com/track/3XdIv0nuZqbsnOLNyRsk8k"
     },
     {
-      "added_at": "2023-10-10 02:11:18",
-      "album": {
-        "name": "Paganismo (Deluxe)",
-        "url": "https://open.spotify.com/album/3r07WtUQn429L9DknXqYE2"
-      },
-      "artists": [
-        {
-          "name": "Sonido Gallo Negro",
-          "url": "https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo"
-        }
-      ],
-      "duration_ms": 189514,
-      "name": "Mambo Del Fierro Viejo",
-      "url": "https://open.spotify.com/track/6pv5ldwnEZDJxyn9bQqEKy"
-    },
-    {
       "added_at": "2021-10-20 15:37:42",
       "album": {
         "name": "El Chacho",
@@ -1411,6 +1395,22 @@
       "duration_ms": 241639,
       "name": "La Camisola",
       "url": "https://open.spotify.com/track/2RG8t0NsauuHJX21ALqw0Y"
+    },
+    {
+      "added_at": "2023-10-10 02:11:18",
+      "album": {
+        "name": "Paganismo (Deluxe)",
+        "url": "https://open.spotify.com/album/3r07WtUQn429L9DknXqYE2"
+      },
+      "artists": [
+        {
+          "name": "Sonido Gallo Negro",
+          "url": "https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo"
+        }
+      ],
+      "duration_ms": 189514,
+      "name": "Mambo Del Fierro Viejo",
+      "url": "https://open.spotify.com/track/6pv5ldwnEZDJxyn9bQqEKy"
     },
     {
       "added_at": "2021-10-20 15:37:42",
@@ -1525,26 +1525,6 @@
       "url": "https://open.spotify.com/track/2hZtbjIOTdO1ohJ70SOyu3"
     },
     {
-      "added_at": "2021-10-20 15:37:42",
-      "album": {
-        "name": "Abducci\u00f3n Amazonica, Lamento en la Selva",
-        "url": "https://open.spotify.com/album/0XWPWLDrLsSUAW0kTF4T07"
-      },
-      "artists": [
-        {
-          "name": "Astros de Mendoza",
-          "url": "https://open.spotify.com/artist/354fUDKAlUUsUfuC1Riike"
-        },
-        {
-          "name": "Los Mirlos",
-          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
-        }
-      ],
-      "duration_ms": 216826,
-      "name": "Lamento en la Selva - Remix",
-      "url": "https://open.spotify.com/track/2HjI7XZy4nXBEPim02cGDo"
-    },
-    {
       "added_at": "2022-01-11 02:45:58",
       "album": {
         "name": "Color de Tr\u00f3pico Vol 2 (Compiled By El Drag\u00f3n Criollo y El Palmas)",
@@ -1563,6 +1543,26 @@
       "duration_ms": 178887,
       "name": "Empecemos (Let's Start)",
       "url": "https://open.spotify.com/track/5k4uozUOYVtF6IsXIML1U0"
+    },
+    {
+      "added_at": "2021-10-20 15:37:42",
+      "album": {
+        "name": "Abducci\u00f3n Amazonica, Lamento en la Selva",
+        "url": "https://open.spotify.com/album/0XWPWLDrLsSUAW0kTF4T07"
+      },
+      "artists": [
+        {
+          "name": "Astros de Mendoza",
+          "url": "https://open.spotify.com/artist/354fUDKAlUUsUfuC1Riike"
+        },
+        {
+          "name": "Los Mirlos",
+          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
+        }
+      ],
+      "duration_ms": 216826,
+      "name": "Lamento en la Selva - Remix",
+      "url": "https://open.spotify.com/track/2HjI7XZy4nXBEPim02cGDo"
     },
     {
       "added_at": "2023-02-10 06:00:00",
@@ -1713,20 +1713,20 @@
       "url": "https://open.spotify.com/track/6NOq1ssPUVhIOjhAPzaRxt"
     },
     {
-      "added_at": "2021-10-20 15:37:42",
+      "added_at": "2022-09-03 04:03:52",
       "album": {
-        "name": "Cumbia Siglo XXI",
-        "url": "https://open.spotify.com/album/6XFHs9bsqazGHLuIokrDmR"
+        "name": "Mamarron, Vol.1",
+        "url": "https://open.spotify.com/album/6MEwYeSu3l3mHBoJvtp2Zy"
       },
       "artists": [
         {
-          "name": "Meridian Brothers",
-          "url": "https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow"
+          "name": "Los Cotopla Boyz",
+          "url": "https://open.spotify.com/artist/0YkRMiBfwJaxLp2WhSl9eV"
         }
       ],
-      "duration_ms": 197066,
-      "name": "Cumbia del Picham\u00e1n",
-      "url": "https://open.spotify.com/track/5w2PSLjp8dGHTCoA2cb4Cp"
+      "duration_ms": 320000,
+      "name": "Dame Tu Wasap",
+      "url": "https://open.spotify.com/track/7kdiYDV1BZrowuXi6eylIw"
     }
   ],
   "unique_name": "TROPILOCO",

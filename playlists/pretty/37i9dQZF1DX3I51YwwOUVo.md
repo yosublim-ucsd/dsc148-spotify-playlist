@@ -2,29 +2,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I51YwwOUVo.md) - [plain]
 
 ### [Artists To Watch 2024](https://open.spotify.com/playlist/37i9dQZF1DX3I51YwwOUVo)
 
-> Get to know our 2024 Artists to Watch! Cover: Sam Barber
+> Get to know our 2024 Artists to Watch! Cover: Estevie
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,336 likes - 89 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,342 likes - 89 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Better Year](https://open.spotify.com/track/16Dak03vkp5lEuwIFFpeOm) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Better Year / Jersey Giant](https://open.spotify.com/album/5y0pO2GUp0WxLpA2mlr199) | 3:20 |
-| 2 | [RABBITHOLE](https://open.spotify.com/track/6l5sqTPOD2UdzEb2RlwtSI) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [RABBITHOLE](https://open.spotify.com/album/3zxAXVIsNoLPv727sWSqKg) | 2:21 |
-| 3 | [You Hear Yes](https://open.spotify.com/track/72KK2zfWDMXDwHk2WEUUCv) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5), [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9), [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [You Hear Yes](https://open.spotify.com/album/3ZuW9XxhtJDniEiR9nLKYI) | 2:43 |
-| 4 | [Locomotiva Ibiza 2099 feat\. VTSS](https://open.spotify.com/track/3VuPtliMz0oXO9bDnA1CHq) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo), [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Locomotiva Ibiza 2099 I](https://open.spotify.com/album/42Jkaomtfh39feqVwQKvUm) | 6:39 |
-| 5 | [The Rug](https://open.spotify.com/track/2ig3FVvbLfrLPEgLJbz8OZ) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [DEADBEAT! \- Disc 1](https://open.spotify.com/album/1hY6wDixeGad4Bxwe4tMsx) | 3:11 |
-| 6 | [CHUPA COÑO](https://open.spotify.com/track/3e0e2wQgq06Ht7Y1po72uQ) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [SATA 42](https://open.spotify.com/album/4k9YQ4z1BXtSB1XxN9oGDY) | 2:05 |
-| 7 | [very little effort](https://open.spotify.com/track/50vCyMaif5TrJDp3cgSO7F) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [very little effort](https://open.spotify.com/album/5gytBTbcIRuIZP7R5spxLn) | 4:16 |
-| 8 | [POOL](https://open.spotify.com/track/7El03GRicPnYpkPIKZ81KM) | [Snow Wife](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [POOL](https://open.spotify.com/album/0qkEAnrlTH04CwcqYZvdLs) | 2:44 |
-| 9 | [Knocking At My Door](https://open.spotify.com/track/4goD7afmHrKjGNLmNh3MVE) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Knocking At My Door](https://open.spotify.com/album/2k7mLxuz7WHnmsiVrI2mmD) | 3:10 |
-| 10 | [WOULD YOU?](https://open.spotify.com/track/4375FaARAe3R3PMzdIdtKS) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [After 7](https://open.spotify.com/album/3jMiuPdLcZ3svm5u2hSmnj) | 2:35 |
-| 11 | [Bang](https://open.spotify.com/track/3VCf4zV0skvbcYiOCn6Dp8) | [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [Bang](https://open.spotify.com/album/0I2u7dApvBz7ErmDx3qJDr) | 2:58 |
-| 12 | [BET](https://open.spotify.com/track/5ufJFtHp4xmJKytbhexXSy) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [BET](https://open.spotify.com/album/4uXodrOmAokrLDas53zJOJ) | 3:18 |
-| 13 | [Gatlinburg](https://open.spotify.com/track/1tTU4d2Ke6JaGMZcrIjeBs) | [Lauren Watkins](https://open.spotify.com/artist/4gF2OluaMxcC4qrGbPaB7S) | [The Heartbroken Record](https://open.spotify.com/album/5JGn3VCsHcB2xaqY5bdclK) | 2:46 |
-| 14 | [pink whitney](https://open.spotify.com/track/3KQBFQVb1ahszb7Cu7H83T) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [pink whitney](https://open.spotify.com/album/7yBRQha30RNQeo3JZ3w6VF) | 2:02 |
-| 15 | [Gracias](https://open.spotify.com/track/58G2ukj1pUgsZZo5MHX9U3) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Gracias](https://open.spotify.com/album/3chlK1TsdvDxw0NB7o5W8S) | 2:12 |
-| 16 | [Martini](https://open.spotify.com/track/5tikPg9QkVfGtstjTUb5dB) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Martini](https://open.spotify.com/album/2e8SXv09hUT9mpkNPBRLhZ) | 2:44 |
-| 17 | [la manera que me ves](https://open.spotify.com/track/52uZksxrYq597nsAn7LDxt) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [la manera que me ves](https://open.spotify.com/album/5gZF8qpBbCqS3wFM5auROr) | 3:49 |
+| 1 | [Corazón Tatuado](https://open.spotify.com/track/0GuqlRQXjabf174DAMRfSl) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [Corazón Tatuado](https://open.spotify.com/album/7A7LZAFX4c93RMMWtzsSMW) | 3:19 |
+| 2 | [Better Year](https://open.spotify.com/track/16Dak03vkp5lEuwIFFpeOm) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Better Year / Jersey Giant](https://open.spotify.com/album/5y0pO2GUp0WxLpA2mlr199) | 3:20 |
+| 3 | [RABBITHOLE](https://open.spotify.com/track/6l5sqTPOD2UdzEb2RlwtSI) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [RABBITHOLE](https://open.spotify.com/album/3zxAXVIsNoLPv727sWSqKg) | 2:21 |
+| 4 | [You Hear Yes](https://open.spotify.com/track/72KK2zfWDMXDwHk2WEUUCv) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5), [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9), [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [You Hear Yes](https://open.spotify.com/album/3ZuW9XxhtJDniEiR9nLKYI) | 2:43 |
+| 5 | [Locomotiva Ibiza 2099 feat\. VTSS](https://open.spotify.com/track/3VuPtliMz0oXO9bDnA1CHq) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo), [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Locomotiva Ibiza 2099 I](https://open.spotify.com/album/42Jkaomtfh39feqVwQKvUm) | 6:39 |
+| 6 | [The Rug](https://open.spotify.com/track/2ig3FVvbLfrLPEgLJbz8OZ) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [DEADBEAT! \- Disc 1](https://open.spotify.com/album/1hY6wDixeGad4Bxwe4tMsx) | 3:11 |
+| 7 | [CHUPA COÑO](https://open.spotify.com/track/3e0e2wQgq06Ht7Y1po72uQ) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [SATA 42](https://open.spotify.com/album/4k9YQ4z1BXtSB1XxN9oGDY) | 2:05 |
+| 8 | [very little effort](https://open.spotify.com/track/50vCyMaif5TrJDp3cgSO7F) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [very little effort](https://open.spotify.com/album/5gytBTbcIRuIZP7R5spxLn) | 4:16 |
+| 9 | [POOL](https://open.spotify.com/track/7El03GRicPnYpkPIKZ81KM) | [Snow Wife](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [POOL](https://open.spotify.com/album/0qkEAnrlTH04CwcqYZvdLs) | 2:44 |
+| 10 | [Knocking At My Door](https://open.spotify.com/track/4goD7afmHrKjGNLmNh3MVE) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Knocking At My Door](https://open.spotify.com/album/2k7mLxuz7WHnmsiVrI2mmD) | 3:10 |
+| 11 | [WOULD YOU?](https://open.spotify.com/track/4375FaARAe3R3PMzdIdtKS) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [After 7](https://open.spotify.com/album/3jMiuPdLcZ3svm5u2hSmnj) | 2:35 |
+| 12 | [Bang](https://open.spotify.com/track/3VCf4zV0skvbcYiOCn6Dp8) | [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [Bang](https://open.spotify.com/album/0I2u7dApvBz7ErmDx3qJDr) | 2:58 |
+| 13 | [BET](https://open.spotify.com/track/5ufJFtHp4xmJKytbhexXSy) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [BET](https://open.spotify.com/album/4uXodrOmAokrLDas53zJOJ) | 3:18 |
+| 14 | [Gatlinburg](https://open.spotify.com/track/1tTU4d2Ke6JaGMZcrIjeBs) | [Lauren Watkins](https://open.spotify.com/artist/4gF2OluaMxcC4qrGbPaB7S) | [The Heartbroken Record](https://open.spotify.com/album/5JGn3VCsHcB2xaqY5bdclK) | 2:46 |
+| 15 | [pink whitney](https://open.spotify.com/track/3KQBFQVb1ahszb7Cu7H83T) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [pink whitney](https://open.spotify.com/album/7yBRQha30RNQeo3JZ3w6VF) | 2:02 |
+| 16 | [Gracias](https://open.spotify.com/track/58G2ukj1pUgsZZo5MHX9U3) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Gracias](https://open.spotify.com/album/3chlK1TsdvDxw0NB7o5W8S) | 2:12 |
+| 17 | [Martini](https://open.spotify.com/track/5tikPg9QkVfGtstjTUb5dB) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Martini](https://open.spotify.com/album/2e8SXv09hUT9mpkNPBRLhZ) | 2:44 |
 | 18 | [Richie \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/2VIVXA60Iqi3PWKeaifYR7) | [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [The Coldest](https://open.spotify.com/album/0V2BZLpJjyk4eey1BOC9st) | 2:26 |
 | 19 | [how dare you](https://open.spotify.com/track/2O1jcUYVAHZLF7ihpWUENI) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart](https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au) | 2:30 |
 | 20 | [Bail Money](https://open.spotify.com/track/3y4fkeM3YMkmOz4WMyBF2L) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Bail Money](https://open.spotify.com/album/3S4pTxBN9cjRuByvquZKhn) | 3:24 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I51YwwOUVo.md) - [plain]
 | 88 | [Corazón Frío](https://open.spotify.com/track/0KSwFEkVh0KCBR0TwqBVen) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Corazón Frío](https://open.spotify.com/album/7aC9iMxYc7mHTN3mJWZFc1) | 4:23 |
 | 89 | [Opening Night](https://open.spotify.com/track/39C4XHkmDebCPGK50NBZGe) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Opening Night](https://open.spotify.com/album/3dOLUxrcRZ1UuxcxeyNEgh) | 2:07 |
 
-Snapshot ID: `ZsgJQAAAAACGLI3BEb4OyRABOrkY1EDv`
+Snapshot ID: `ZuO4wAAAAAAzYQ013xXJsuNvJBE31jOb`

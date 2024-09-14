@@ -1,6 +1,6 @@
 {
   "description": "Genre-defying artists pushing boundaries in electronic ambient music. ",
-  "num_followers": 98659,
+  "num_followers": 98708,
   "original_name": "Electronic X",
   "owner": {
     "name": "Spotify",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
-        "name": "Castle Song",
-        "url": "https://open.spotify.com/album/1eFh68RxjbBM82DSi7HwSW"
-      },
-      "artists": [
-        {
-          "name": "Green-House",
-          "url": "https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45"
-        }
-      ],
-      "duration_ms": 173311,
-      "name": "Castle Song",
-      "url": "https://open.spotify.com/track/41Zlw5Mj21428SaCwkxUvy"
-    },
-    {
-      "added_at": "2024-09-06 16:55:52",
-      "album": {
         "name": "58500 (Daniel Avery Remix)",
         "url": "https://open.spotify.com/album/2t85UNkhR842v0V60Fb3N8"
       },
@@ -667,18 +651,18 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
-        "name": "Mango Feedback",
-        "url": "https://open.spotify.com/album/16YdLmhRGsqy6b2RKxIQWr"
+        "name": "Castle Song",
+        "url": "https://open.spotify.com/album/1eFh68RxjbBM82DSi7HwSW"
       },
       "artists": [
         {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+          "name": "Green-House",
+          "url": "https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45"
         }
       ],
-      "duration_ms": 260612,
-      "name": "Watersynth",
-      "url": "https://open.spotify.com/track/05e2T423zwHe7557aNewF4"
+      "duration_ms": 173311,
+      "name": "Castle Song",
+      "url": "https://open.spotify.com/track/41Zlw5Mj21428SaCwkxUvy"
     },
     {
       "added_at": "2024-09-06 16:55:52",
@@ -719,6 +703,46 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
+        "name": "Mango Feedback",
+        "url": "https://open.spotify.com/album/16YdLmhRGsqy6b2RKxIQWr"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 260612,
+      "name": "Watersynth",
+      "url": "https://open.spotify.com/track/05e2T423zwHe7557aNewF4"
+    },
+    {
+      "added_at": "2024-09-06 16:55:52",
+      "album": {
+        "name": "Worlds Collide (Hannes Kretzer Rework)",
+        "url": "https://open.spotify.com/album/4SZSeDgHqioiCuRVHi6zRc"
+      },
+      "artists": [
+        {
+          "name": "Vetle N\u00e6r\u00f8",
+          "url": "https://open.spotify.com/artist/1FjMgsUfnOoSWTHuVzAukf"
+        },
+        {
+          "name": "Morten Reppesg\u00e5rd",
+          "url": "https://open.spotify.com/artist/5jAzP0mkUinJrV4NdUHjJI"
+        },
+        {
+          "name": "Hannes Kretzer",
+          "url": "https://open.spotify.com/artist/1vHwczEjnY229foOj5ubxe"
+        }
+      ],
+      "duration_ms": 231340,
+      "name": "Worlds Collide - Hannes Kretzer Rework",
+      "url": "https://open.spotify.com/track/4PfKv1E5Jp1DizoOunObbM"
+    },
+    {
+      "added_at": "2024-09-06 16:55:52",
+      "album": {
         "name": "Melting Hazard",
         "url": "https://open.spotify.com/album/0isBv8KbRJh6NWDkNOneo9"
       },
@@ -747,30 +771,6 @@
       "duration_ms": 316293,
       "name": "Glimmer",
       "url": "https://open.spotify.com/track/0WMSg3Iisjd8xX6gUJt7Bj"
-    },
-    {
-      "added_at": "2024-09-06 16:55:52",
-      "album": {
-        "name": "Worlds Collide (Hannes Kretzer Rework)",
-        "url": "https://open.spotify.com/album/4SZSeDgHqioiCuRVHi6zRc"
-      },
-      "artists": [
-        {
-          "name": "Vetle N\u00e6r\u00f8",
-          "url": "https://open.spotify.com/artist/1FjMgsUfnOoSWTHuVzAukf"
-        },
-        {
-          "name": "Morten Reppesg\u00e5rd",
-          "url": "https://open.spotify.com/artist/5jAzP0mkUinJrV4NdUHjJI"
-        },
-        {
-          "name": "Hannes Kretzer",
-          "url": "https://open.spotify.com/artist/1vHwczEjnY229foOj5ubxe"
-        }
-      ],
-      "duration_ms": 231340,
-      "name": "Worlds Collide - Hannes Kretzer Rework",
-      "url": "https://open.spotify.com/track/4PfKv1E5Jp1DizoOunObbM"
     },
     {
       "added_at": "2024-09-06 16:55:52",
@@ -1059,22 +1059,18 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
-        "name": "Calma",
-        "url": "https://open.spotify.com/album/5d6P1j9WQSrkcT9DpwMk8x"
+        "name": "Springtime in Croatia",
+        "url": "https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C"
       },
       "artists": [
         {
-          "name": "Pablo Bolivar",
-          "url": "https://open.spotify.com/artist/13NhdveBzN2Yh2elbf1rLs"
-        },
-        {
-          "name": "Nacho Sanchez",
-          "url": "https://open.spotify.com/artist/4YEgaKhOIrhCE9QYrSpzjf"
+          "name": "Patricia Wolf",
+          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
         }
       ],
-      "duration_ms": 293331,
-      "name": "Calma",
-      "url": "https://open.spotify.com/track/22Td0L84DAT9G819RIfIQz"
+      "duration_ms": 242000,
+      "name": "Springtime in Croatia",
+      "url": "https://open.spotify.com/track/3eUG3uEbzUP3sa8tRE8hda"
     },
     {
       "added_at": "2024-09-06 16:55:52",
@@ -1095,18 +1091,22 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
-        "name": "Springtime in Croatia",
-        "url": "https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C"
+        "name": "Calma",
+        "url": "https://open.spotify.com/album/5d6P1j9WQSrkcT9DpwMk8x"
       },
       "artists": [
         {
-          "name": "Patricia Wolf",
-          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
+          "name": "Pablo Bolivar",
+          "url": "https://open.spotify.com/artist/13NhdveBzN2Yh2elbf1rLs"
+        },
+        {
+          "name": "Nacho Sanchez",
+          "url": "https://open.spotify.com/artist/4YEgaKhOIrhCE9QYrSpzjf"
         }
       ],
-      "duration_ms": 242000,
-      "name": "Springtime in Croatia",
-      "url": "https://open.spotify.com/track/3eUG3uEbzUP3sa8tRE8hda"
+      "duration_ms": 293331,
+      "name": "Calma",
+      "url": "https://open.spotify.com/track/22Td0L84DAT9G819RIfIQz"
     },
     {
       "added_at": "2024-09-06 16:55:52",
@@ -1199,22 +1199,18 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
-        "name": "Atlas der Gedanken",
-        "url": "https://open.spotify.com/album/7wfZ5uzenW8vPrAhE4P8oe"
+        "name": "Heaven Come Crashing",
+        "url": "https://open.spotify.com/album/6on4UQpBdXq1jTWT4KLDFx"
       },
       "artists": [
         {
-          "name": "Mareena",
-          "url": "https://open.spotify.com/artist/1CryrWkZNf7uK8riKHTa6s"
-        },
-        {
-          "name": "JakoJako",
-          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
+          "name": "Rachika Nayar",
+          "url": "https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ"
         }
       ],
-      "duration_ms": 322857,
-      "name": "Tagtraum",
-      "url": "https://open.spotify.com/track/2wY21rTqBmiqenCLLGDQG6"
+      "duration_ms": 210520,
+      "name": "Our Wretched Fantasy",
+      "url": "https://open.spotify.com/track/5O2oP5jvARFUFjWX0xqiSF"
     },
     {
       "added_at": "2024-09-06 16:55:52",
@@ -1235,22 +1231,22 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
-        "name": "Ten As One",
-        "url": "https://open.spotify.com/album/1qedPbL0X9hdk9MkK0iuqV"
+        "name": "Atlas der Gedanken",
+        "url": "https://open.spotify.com/album/7wfZ5uzenW8vPrAhE4P8oe"
       },
       "artists": [
         {
-          "name": "Matthias Vogt",
-          "url": "https://open.spotify.com/artist/7d1QENqGWiOKVegaYEoPfY"
+          "name": "Mareena",
+          "url": "https://open.spotify.com/artist/1CryrWkZNf7uK8riKHTa6s"
         },
         {
-          "name": "Sato",
-          "url": "https://open.spotify.com/artist/5OKlzH3DGCKLZoYwRiRTRD"
+          "name": "JakoJako",
+          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
         }
       ],
-      "duration_ms": 336251,
-      "name": "Carmel",
-      "url": "https://open.spotify.com/track/6p7rJm00kefcjiGuQuAV6w"
+      "duration_ms": 322857,
+      "name": "Tagtraum",
+      "url": "https://open.spotify.com/track/2wY21rTqBmiqenCLLGDQG6"
     },
     {
       "added_at": "2024-09-06 16:55:52",
@@ -1271,18 +1267,22 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
-        "name": "Heaven Come Crashing",
-        "url": "https://open.spotify.com/album/6on4UQpBdXq1jTWT4KLDFx"
+        "name": "Ten As One",
+        "url": "https://open.spotify.com/album/1qedPbL0X9hdk9MkK0iuqV"
       },
       "artists": [
         {
-          "name": "Rachika Nayar",
-          "url": "https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ"
+          "name": "Matthias Vogt",
+          "url": "https://open.spotify.com/artist/7d1QENqGWiOKVegaYEoPfY"
+        },
+        {
+          "name": "Sato",
+          "url": "https://open.spotify.com/artist/5OKlzH3DGCKLZoYwRiRTRD"
         }
       ],
-      "duration_ms": 210520,
-      "name": "Our Wretched Fantasy",
-      "url": "https://open.spotify.com/track/5O2oP5jvARFUFjWX0xqiSF"
+      "duration_ms": 336251,
+      "name": "Carmel",
+      "url": "https://open.spotify.com/track/6p7rJm00kefcjiGuQuAV6w"
     },
     {
       "added_at": "2024-09-06 16:55:52",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
-        "name": "Shortwave Memories",
-        "url": "https://open.spotify.com/album/67qmzR9XdcpPAoqBJIgzdy"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 340974,
-      "name": "Tan\u00df",
-      "url": "https://open.spotify.com/track/4pycEDAeyKSWyumBrtnn3S"
-    },
-    {
-      "added_at": "2024-09-06 16:55:52",
-      "album": {
         "name": "Future Falling",
         "url": "https://open.spotify.com/album/4V0Xf9ER0qdXBY4erJEOSj"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 251485,
       "name": "Cycles",
       "url": "https://open.spotify.com/track/6Ip5LCOyx4735lgAwOZCIn"
+    },
+    {
+      "added_at": "2024-09-06 16:55:52",
+      "album": {
+        "name": "Shortwave Memories",
+        "url": "https://open.spotify.com/album/67qmzR9XdcpPAoqBJIgzdy"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 340974,
+      "name": "Tan\u00df",
+      "url": "https://open.spotify.com/track/4pycEDAeyKSWyumBrtnn3S"
     },
     {
       "added_at": "2024-09-06 16:55:52",
@@ -1471,22 +1471,18 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
-        "name": "Atlas der Gedanken",
-        "url": "https://open.spotify.com/album/7wfZ5uzenW8vPrAhE4P8oe"
+        "name": "EA9633",
+        "url": "https://open.spotify.com/album/5U3iB0UvUtOCiTErBTi0zB"
       },
       "artists": [
         {
-          "name": "Mareena",
-          "url": "https://open.spotify.com/artist/1CryrWkZNf7uK8riKHTa6s"
-        },
-        {
-          "name": "JakoJako",
-          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
+          "name": "Miyu Hosoi",
+          "url": "https://open.spotify.com/artist/2lIvg1lgcyxIIyXEuHU06T"
         }
       ],
-      "duration_ms": 306122,
-      "name": "Sinnessprung",
-      "url": "https://open.spotify.com/track/2eQrONgbuSbwrXZO5cZklm"
+      "duration_ms": 192920,
+      "name": "EA9633",
+      "url": "https://open.spotify.com/track/0WI7L7f0WVNPIzN9UOTm32"
     },
     {
       "added_at": "2024-09-06 16:55:52",
@@ -1507,18 +1503,22 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
-        "name": "EA9633",
-        "url": "https://open.spotify.com/album/5U3iB0UvUtOCiTErBTi0zB"
+        "name": "Atlas der Gedanken",
+        "url": "https://open.spotify.com/album/7wfZ5uzenW8vPrAhE4P8oe"
       },
       "artists": [
         {
-          "name": "Miyu Hosoi",
-          "url": "https://open.spotify.com/artist/2lIvg1lgcyxIIyXEuHU06T"
+          "name": "Mareena",
+          "url": "https://open.spotify.com/artist/1CryrWkZNf7uK8riKHTa6s"
+        },
+        {
+          "name": "JakoJako",
+          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
         }
       ],
-      "duration_ms": 192920,
-      "name": "EA9633",
-      "url": "https://open.spotify.com/track/0WI7L7f0WVNPIzN9UOTm32"
+      "duration_ms": 306122,
+      "name": "Sinnessprung",
+      "url": "https://open.spotify.com/track/2eQrONgbuSbwrXZO5cZklm"
     },
     {
       "added_at": "2024-09-06 16:55:52",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
-        "name": "Closer Now",
-        "url": "https://open.spotify.com/album/3H2NuBvHJqFz0CsWLXpezC"
-      },
-      "artists": [
-        {
-          "name": "Earth Trax",
-          "url": "https://open.spotify.com/artist/2aIG9sDL3yGi38BST8RNmQ"
-        }
-      ],
-      "duration_ms": 283673,
-      "name": "White Carnations",
-      "url": "https://open.spotify.com/track/5DyWnH4QyIbWzJKN6tReXg"
-    },
-    {
-      "added_at": "2024-09-06 16:55:52",
-      "album": {
         "name": "Camina",
         "url": "https://open.spotify.com/album/7rcnZunoM1Fn8HPDKD6Lev"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 517307,
       "name": "Camina",
       "url": "https://open.spotify.com/track/4c8VB5HRoc6FqXLXXKhtxq"
+    },
+    {
+      "added_at": "2024-09-06 16:55:52",
+      "album": {
+        "name": "Closer Now",
+        "url": "https://open.spotify.com/album/3H2NuBvHJqFz0CsWLXpezC"
+      },
+      "artists": [
+        {
+          "name": "Earth Trax",
+          "url": "https://open.spotify.com/artist/2aIG9sDL3yGi38BST8RNmQ"
+        }
+      ],
+      "duration_ms": 283673,
+      "name": "White Carnations",
+      "url": "https://open.spotify.com/track/5DyWnH4QyIbWzJKN6tReXg"
     },
     {
       "added_at": "2024-09-06 16:55:52",
@@ -1635,6 +1635,38 @@
     {
       "added_at": "2024-09-06 16:55:52",
       "album": {
+        "name": "Balmy Evening",
+        "url": "https://open.spotify.com/album/6TEBNKoBrPB6TSyVeD5jh7"
+      },
+      "artists": [
+        {
+          "name": "Roman Fl\u00fcgel",
+          "url": "https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw"
+        }
+      ],
+      "duration_ms": 183672,
+      "name": "Atmosphere",
+      "url": "https://open.spotify.com/track/3RWlHCJuoW5m4OFClsNHNH"
+    },
+    {
+      "added_at": "2024-09-06 16:55:52",
+      "album": {
+        "name": "Amos",
+        "url": "https://open.spotify.com/album/38ElKQtmslm5HlHsQQsGKG"
+      },
+      "artists": [
+        {
+          "name": "Daniel Imhof",
+          "url": "https://open.spotify.com/artist/1UMczNv7hgmm4buMvT94wS"
+        }
+      ],
+      "duration_ms": 483790,
+      "name": "Amos",
+      "url": "https://open.spotify.com/track/4pUjWXlupdVcphAq7gkRTk"
+    },
+    {
+      "added_at": "2024-09-06 16:55:52",
+      "album": {
         "name": "Night Journeys III",
         "url": "https://open.spotify.com/album/5WPkWpnoYsKKnbyj3xEMDU"
       },
@@ -1683,38 +1715,6 @@
       "duration_ms": 313701,
       "name": "Westerpark",
       "url": "https://open.spotify.com/track/3moHTcmktLHetLd4SdMovC"
-    },
-    {
-      "added_at": "2024-09-06 16:55:52",
-      "album": {
-        "name": "Balmy Evening",
-        "url": "https://open.spotify.com/album/6TEBNKoBrPB6TSyVeD5jh7"
-      },
-      "artists": [
-        {
-          "name": "Roman Fl\u00fcgel",
-          "url": "https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw"
-        }
-      ],
-      "duration_ms": 183672,
-      "name": "Atmosphere",
-      "url": "https://open.spotify.com/track/3RWlHCJuoW5m4OFClsNHNH"
-    },
-    {
-      "added_at": "2024-09-06 16:55:52",
-      "album": {
-        "name": "Amos",
-        "url": "https://open.spotify.com/album/38ElKQtmslm5HlHsQQsGKG"
-      },
-      "artists": [
-        {
-          "name": "Daniel Imhof",
-          "url": "https://open.spotify.com/artist/1UMczNv7hgmm4buMvT94wS"
-        }
-      ],
-      "duration_ms": 483790,
-      "name": "Amos",
-      "url": "https://open.spotify.com/track/4pUjWXlupdVcphAq7gkRTk"
     },
     {
       "added_at": "2024-09-06 16:55:52",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "The Midwest is always on time. Cover: G Herbo",
+  "description": "The Midwest is always on time. Cover: Juice Wrld",
   "name": "CST",
   "tracks": [
     {
@@ -3280,7 +3280,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 201664,
       "name": "Certified (feat. NASAAN)",
       "url": "https://open.spotify.com/track/6T9tZxE7YEMrG4j1nwJaF4"
@@ -5281,6 +5281,24 @@
     },
     {
       "album": {
+        "name": "Free Ghost",
+        "url": "https://open.spotify.com/album/3OqPUMTSvyvu9b2oYXdm2M"
+      },
+      "artists": [
+        {
+          "name": "Icewear Vezzo",
+          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109564,
+      "name": "Free Ghost",
+      "url": "https://open.spotify.com/track/49DMfWkszWcEiJxsqc9Xjh"
+    },
+    {
+      "album": {
         "name": "Free My N***a",
         "url": "https://open.spotify.com/album/7Mk6Qao19lj3TcpQcDvE3t"
       },
@@ -5582,6 +5600,32 @@
       "duration_ms": 213646,
       "name": "Fuel",
       "url": "https://open.spotify.com/track/5In8B6Om5OKrhwBMB4tXSi"
+    },
+    {
+      "album": {
+        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce): Expanded Mourner\u2019s Edition",
+        "url": "https://open.spotify.com/album/31hcgCSu4mlA82syOFItur"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "WESTSIDE BOOGIE",
+          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
+        },
+        {
+          "name": "GRIP",
+          "url": "https://open.spotify.com/artist/4Ew8VmfE06siL2THiMBwPP"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290422,
+      "name": "Fuel - Shady Edition",
+      "url": "https://open.spotify.com/track/68IkI6ttYOzNyS5iW2Zx70"
     },
     {
       "album": {
@@ -7024,6 +7068,24 @@
       "duration_ms": 165863,
       "name": "Hellcats SRTs 2 (with Lil Durk)",
       "url": "https://open.spotify.com/track/1gxAYSMc1jbibsnpT3Rflc"
+    },
+    {
+      "album": {
+        "name": "HIMSKI",
+        "url": "https://open.spotify.com/album/4a9GRSayEVRnjUjqnnS95F"
+      },
+      "artists": [
+        {
+          "name": "Tay B",
+          "url": "https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127173,
+      "name": "HIMSKI",
+      "url": "https://open.spotify.com/track/2GZVpHT2acsRzMnrHFnL71"
     },
     {
       "album": {
@@ -8825,6 +8887,24 @@
     },
     {
       "album": {
+        "name": "Lalala",
+        "url": "https://open.spotify.com/album/1Txwx8RpZb7tDVufQqy1qX"
+      },
+      "artists": [
+        {
+          "name": "Luhh Dyl",
+          "url": "https://open.spotify.com/artist/4dZBZceC6PDa9XCr3mJwq2"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144635,
+      "name": "Lalala",
+      "url": "https://open.spotify.com/track/2LRSmOosCewn7GLiN4d1Bb"
+    },
+    {
+      "album": {
         "name": "Lamar",
         "url": "https://open.spotify.com/album/4YwqUXComMtnzrvoeorWW2"
       },
@@ -9098,6 +9178,28 @@
       "duration_ms": 184581,
       "name": "LIFE GETS HARD",
       "url": "https://open.spotify.com/track/5aLlafW1MO5qqeze4YfwSO"
+    },
+    {
+      "album": {
+        "name": "The Pre-Party",
+        "url": "https://open.spotify.com/album/2rlWVKCWJo4vpOBl8RiYX4"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192130,
+      "name": "Lightyears (with Young Thug)",
+      "url": "https://open.spotify.com/track/7D5JJXdw98saj80xQxukTQ"
     },
     {
       "album": {
@@ -9750,6 +9852,24 @@
       "duration_ms": 154600,
       "name": "Maya Angelou",
       "url": "https://open.spotify.com/track/387KUid0zJ88RAMvauKNHt"
+    },
+    {
+      "album": {
+        "name": "Tweak Till The End",
+        "url": "https://open.spotify.com/album/2S5JzCvr84WDdl1h9Gcoci"
+      },
+      "artists": [
+        {
+          "name": "Chuckyy",
+          "url": "https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165982,
+      "name": "Me Vs Me",
+      "url": "https://open.spotify.com/track/3ByGIhWMgrTLmnvfQqeFxb"
     },
     {
       "album": {
@@ -13209,6 +13329,24 @@
     },
     {
       "album": {
+        "name": "Rollin'",
+        "url": "https://open.spotify.com/album/398Y0wqKmuUA0i9sqzMRCp"
+      },
+      "artists": [
+        {
+          "name": "BabyChiefDoit",
+          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203405,
+      "name": "Rollin'",
+      "url": "https://open.spotify.com/track/7zP40LKCXsiyZjMtnzo5z6"
+    },
+    {
+      "album": {
         "name": "Ron Artest",
         "url": "https://open.spotify.com/album/0RagVxXFPT0sjyuev19HQJ"
       },
@@ -15987,6 +16125,32 @@
     },
     {
       "album": {
+        "name": "Better Me Than You",
+        "url": "https://open.spotify.com/album/4Re8JSuo0lUxYCMjDnafvd"
+      },
+      "artists": [
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249442,
+      "name": "This N That (feat. Bryson Tiller & Kodak Black)",
+      "url": "https://open.spotify.com/track/7evkF9xaNtay5beh1w9QyQ"
+    },
+    {
+      "album": {
         "name": "This Summer",
         "url": "https://open.spotify.com/album/6EGh6ELzd8b0gM9V3KH8XC"
       },
@@ -17097,6 +17261,24 @@
     },
     {
       "album": {
+        "name": "The Kid That Did",
+        "url": "https://open.spotify.com/album/584NttnQ3jTv0yoCArM0yx"
+      },
+      "artists": [
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179916,
+      "name": "Watching My Page",
+      "url": "https://open.spotify.com/track/7b6pQST3mOUnuq908vJOil"
+    },
+    {
+      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/5HIRici1ACIeMmwr9CU79h"
       },
@@ -17112,6 +17294,28 @@
       "duration_ms": 135173,
       "name": "Water",
       "url": "https://open.spotify.com/track/5vPUHGrfbCQjTUmlr8JMIN"
+    },
+    {
+      "album": {
+        "name": "Wavy Navy University",
+        "url": "https://open.spotify.com/album/4MNyohrffBggOjMf5xRHVa"
+      },
+      "artists": [
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        },
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120541,
+      "name": "Wavy Navy University",
+      "url": "https://open.spotify.com/track/3U5eiVoVoTMIA0VGOLon45"
     },
     {
       "album": {
@@ -17852,6 +18056,24 @@
       "duration_ms": 133953,
       "name": "Wonderful Wayne & Jackie Boy",
       "url": "https://open.spotify.com/track/4E3BSxzGKQrDHBf9QfoewY"
+    },
+    {
+      "album": {
+        "name": "The Pre-Party",
+        "url": "https://open.spotify.com/album/2rlWVKCWJo4vpOBl8RiYX4"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155711,
+      "name": "World Tour (Aquafina)",
+      "url": "https://open.spotify.com/track/261EcPb2XfhnPWSnlMOi3G"
     },
     {
       "album": {

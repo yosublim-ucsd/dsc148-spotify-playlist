@@ -2122,7 +2122,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 220620,
       "name": "Esc\u00e1pate conmigo",
       "url": "https://open.spotify.com/track/03o4ypJBzm4LS5Fv6Zc5Gt"
@@ -2630,7 +2630,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 196018,
       "name": "La Bacha",
       "url": "https://open.spotify.com/track/0uoCp44J9zDIp0YiU3Q9Gu"
@@ -3946,6 +3946,24 @@
       "duration_ms": 224528,
       "name": "No Volver\u00e1n",
       "url": "https://open.spotify.com/track/2jIHWczYdtSj28CIcs3e8v"
+    },
+    {
+      "album": {
+        "name": "Noche Ardiente",
+        "url": "https://open.spotify.com/album/7HaU0xcnUsOT8DsOoGnvFN"
+      },
+      "artists": [
+        {
+          "name": "Miguel Chinchilla",
+          "url": "https://open.spotify.com/artist/6DHIphXljpEs2di9r7svRb"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147341,
+      "name": "Noche Ardiente",
+      "url": "https://open.spotify.com/track/1sulVBvCP2yNgoxAL2CBIz"
     },
     {
       "album": {
@@ -5285,6 +5303,28 @@
     },
     {
       "album": {
+        "name": "Siente el Movimiento",
+        "url": "https://open.spotify.com/album/159PEWV5sXe3t8EoMkRdCm"
+      },
+      "artists": [
+        {
+          "name": "La Sant\u00edsima Voladora",
+          "url": "https://open.spotify.com/artist/4gRK50jqC4k8yGS2aEG2F0"
+        },
+        {
+          "name": "El Chasky Pum",
+          "url": "https://open.spotify.com/artist/0OBosqjeyAPlesrF6sfnfQ"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255724,
+      "name": "Siente el Movimiento",
+      "url": "https://open.spotify.com/track/6bcIZrEIXcHeHpsw0DN8BY"
+    },
+    {
+      "album": {
         "name": "Vasos Vacios",
         "url": "https://open.spotify.com/album/7fOv9NQRH5UWZq0EfUk1YE"
       },
@@ -5988,7 +6028,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 197500,
       "name": "Tengo Miedo",
       "url": "https://open.spotify.com/track/20OijkPcdtlQ6G0UPagDe4"
@@ -6672,6 +6712,24 @@
       "duration_ms": 225826,
       "name": "Y Que",
       "url": "https://open.spotify.com/track/5YRhQ7h8w2cMCY2teyjax6"
+    },
+    {
+      "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/3B9UAiTwbz1svLmdgVtNAy"
+      },
+      "artists": [
+        {
+          "name": "Carmina Burana",
+          "url": "https://open.spotify.com/artist/3wv9Ori0YHEUiLVz91Ej7D"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185461,
+      "name": "Ya Estoy Bien",
+      "url": "https://open.spotify.com/track/0LOYo58nvxhucTf7Fu32Kt"
     },
     {
       "album": {

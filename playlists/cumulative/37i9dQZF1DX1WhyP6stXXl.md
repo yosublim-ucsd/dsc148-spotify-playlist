@@ -4,7 +4,7 @@
 
 > Neues aus der Welt des Pop\. Cover: Tate McRae
 
-330 songs - 16 hr 37 min
+332 songs - 16 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [cut! \(feat\. Julia Michaels\)](https://open.spotify.com/track/5W2w9i6UslmWj3QUPdzYXO) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [cut! \(feat\. Julia Michaels\)](https://open.spotify.com/album/0KSSQzsK85HCBGwj23Zluj) | 2:08 | 2024-06-28 | 2024-07-19 |
 | [Daisies](https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Daisies](https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn) | 3:02 | 2024-07-04 | 2024-08-02 |
 | [Dance With Me](https://open.spotify.com/track/2I5ipWaIXUknimwtJPoPYt) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dance With Me](https://open.spotify.com/album/1wkUCIDGpYN0PEIcyG4dS6) | 3:45 | 2024-06-28 | 2024-07-19 |
+| [Dancing In The Flames](https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dancing In The Flames](https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g) | 3:40 | 2024-09-13 |  |
 | [Darkerside](https://open.spotify.com/track/3b1s3Ywg0laGsNHCpUBhrl) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [The Dichotomy](https://open.spotify.com/album/4F2fCQJXXGfpKsoudFrjDW) | 2:37 | 2024-08-29 |  |
 | [Dead Man](https://open.spotify.com/track/175ApsLKPzdEeEiibmtqFQ) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Dead Man](https://open.spotify.com/album/2bXR6WDlDnm31wMvAd0MhB) | 3:23 | 2024-07-18 | 2024-08-16 |
 | [Dead To Me](https://open.spotify.com/track/14Shxe1M6sOsRKzdSZsEne) | [clide](https://open.spotify.com/artist/5BmVxdltuGK9CqZVaiUEKy) | [Dead To Me](https://open.spotify.com/album/0einC3fWzABlFUyW16WMXD) | 2:44 | 2024-06-28 | 2024-07-12 |
@@ -162,7 +163,8 @@
 | [I AM](https://open.spotify.com/track/3SP86A20TPRFJnOksCgke7) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [I AM](https://open.spotify.com/album/16PMPA18bWzRcard7KzueH) | 2:41 | 2024-09-06 |  |
 | [I Don't Wanna Be Your Friend](https://open.spotify.com/track/4pm0aua4dtI2ZdV5XOmZaK) | [Only The Poets](https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t) | [I Don't Wanna Be Your Friend](https://open.spotify.com/album/7aGvVD9xgyzShJyIUoOE9Y) | 3:10 | 2024-08-22 |  |
 | [I Don't Wanna Go Downtown](https://open.spotify.com/track/7tnvzuwBCzMcSqYlLgOyRU) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [WILD CHILD](https://open.spotify.com/album/0BA7J5iUJHMnKrCga3m5pR) | 2:13 | 2024-08-22 |  |
-| [I Give Up I Love You](https://open.spotify.com/track/78iPQpg1w2gtjgV4CYdknl) | [Rea Garvey](https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv) | [HALO](https://open.spotify.com/album/64qanlJYo3CsSuzReUMA5n) | 2:10 | 2024-09-12 |  |
+| [I Give Up I Love You](https://open.spotify.com/track/78iPQpg1w2gtjgV4CYdknl) | [Rea Garvey](https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv) | [HALO](https://open.spotify.com/album/64qanlJYo3CsSuzReUMA5n) | 2:10 | 2024-09-12 | 2024-09-14 |
+| [I Give Up I Love You](https://open.spotify.com/track/1sNrEwP2DkCi3eUCYyBuyY) | [Rea Garvey](https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv), [Aamor](https://open.spotify.com/artist/6d3iU65scdjVgRQqkgcNog) | [HALO](https://open.spotify.com/album/64qanlJYo3CsSuzReUMA5n) | 2:45 | 2024-09-13 |  |
 | [i hate texas](https://open.spotify.com/track/6xEE80nW1NgNC2p04n4in5) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [i hate texas](https://open.spotify.com/album/4rPQF5Ujx6eTRGDrIfRl55) | 3:38 | 2024-07-25 | 2024-08-09 |
 | [I Hate The Sun](https://open.spotify.com/track/5Ylf778mAXBMuEw5eJl1fH) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [I Hate The Sun](https://open.spotify.com/album/17evjTTTBinbk36ZAjd2kx) | 3:22 | 2024-09-05 |  |
 | [I Hate You \(So Much\)](https://open.spotify.com/track/4jOscqspgP24yNJ0jhOFRN) | [AVEC](https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf) | [I Hate You \(So Much\)](https://open.spotify.com/album/5qR3QHS5XHa2IA4i6ujUNi) | 2:58 | 2024-07-18 | 2024-08-09 |

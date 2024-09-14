@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 
 ### [Pop PT](https://open.spotify.com/playlist/37i9dQZF1DX6ViL9RcFABv)
 
-> Uma playlist de pura alma pop! Foto: Dani Gato, Virgul
+> Uma playlist de pura alma pop! Foto: Danni Gato, Virgul
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,053 likes - 70 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,087 likes - 70 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 | 69 | [O Sinal Está Fraco](https://open.spotify.com/track/2ywyJkWhDHfNOesu7wjHUb) | [Margarida Vasconcelos](https://open.spotify.com/artist/6R5cBF5xIxveaGIefYV2C9) | [O Sinal Está Fraco](https://open.spotify.com/album/77EvKexdAATT299lasrDcx) | 2:47 |
 | 70 | [Slow Motion](https://open.spotify.com/track/5LnYHgSZjEJxNvooOXv643) | [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8), [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Bully Season Vol.2 : Pretty Girls Love Afrobeats](https://open.spotify.com/album/4W7ver0Okhl78vyo1emv2c) | 2:42 |
 
-Snapshot ID: `ZuNycAAAAABrlej3AyqapsgJxQsO9JVc`
+Snapshot ID: `ZuQD9AAAAAAWTzDdGePy9Dx8wYbGfix8`

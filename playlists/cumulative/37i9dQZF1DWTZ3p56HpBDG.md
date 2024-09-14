@@ -4,7 +4,7 @@
 
 > Best of South Asian diaspora\. Cover: Raf Saperra
 
-232 songs - 12 hr 9 min
+234 songs - 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Nusrat on the Beach](https://open.spotify.com/track/2QnnaGWHTgkvyo8Kh7Mpxy) | [Humeysha](https://open.spotify.com/artist/1VoKwUAdCduhJQqJMIUHtW) | [Nusrat on the Beach](https://open.spotify.com/album/1OMjopWk39Js2j74ngAdaJ) | 3:19 | 2021-11-10 | 2022-07-19 |
 | [On God](https://open.spotify.com/track/3rUD7NkWJbQruI0ZhEJuqg) | [Ali Kulture](https://open.spotify.com/artist/79g4UUYgjUD4uulYV4ie9S) | [ON GOD](https://open.spotify.com/album/0NDCFsOdLUkfYGSBtsm8a6) | 3:21 | 2022-04-15 | 2022-07-19 |
 | [On My Way](https://open.spotify.com/track/38zEODrwgUnlWODI3AGW7S) | [RIKA](https://open.spotify.com/artist/6Si6fslrH2xSORoY5TclT5) | [On My Way](https://open.spotify.com/album/4c4aLA391P0WfAZOnaqhUR) | 2:41 | 2021-11-10 | 2022-06-21 |
+| [ORBIT](https://open.spotify.com/track/1SzyRqDVfbcZrcx37BJtse) | [Akshara](https://open.spotify.com/artist/7j6UTsx4e5HxsHMPXCYy7Z) | [ORBIT](https://open.spotify.com/album/4BwVKcjiIWd2ao6KMjSRh0) | 3:19 | 2024-09-13 |  |
 | [Out Of Order](https://open.spotify.com/track/2uQk7j469l313v2jRJEb9I) | [RIKA](https://open.spotify.com/artist/6Si6fslrH2xSORoY5TclT5) | [Out Of Order](https://open.spotify.com/album/0jnhqLUVvEbAx1Ui21qOfp) | 3:04 | 2021-11-10 | 2022-07-19 |
 | [Out of Our Hands](https://open.spotify.com/track/1aKBaObCl6xUJsj9H4iHmx) | [RIKA](https://open.spotify.com/artist/6Si6fslrH2xSORoY5TclT5) | [Out of Our Hands](https://open.spotify.com/album/08QUP10o6WLf3AOIkuQjQz) | 2:31 | 2024-07-17 | 2024-08-09 |
 | [Panga](https://open.spotify.com/track/1HlalZ5WD3GURCgLkYKE62) | [Muki](https://open.spotify.com/artist/2f71laBAdaAaxoRjIFo9Yj), [Haseeb Haze](https://open.spotify.com/artist/4qkYw7Vv8Azv6JE053WYi4) | [Panga](https://open.spotify.com/album/1mNRKzNyss8yuvBU2DjXLs) | 3:13 | 2022-07-18 | 2022-10-07 |
@@ -216,6 +217,7 @@
 | [Toba Tek Singh](https://open.spotify.com/track/40YF7t5DgNQBXsrul31hdr) | [Riz Ahmed](https://open.spotify.com/artist/5R8TntIOEwJcu4NnhGi8KW) | [The Long Goodbye](https://open.spotify.com/album/7bhh6bvHq7hqc2VQFgrwE5) | 3:03 | 2021-11-10 | 2022-10-07 |
 | [Touch](https://open.spotify.com/track/7N1GIRDrB1l14np1AT6EED) | [Sama Blake](https://open.spotify.com/artist/19jOqaZTvseWAgi4PaQJrd), [Rameet Sandhu](https://open.spotify.com/artist/3DvttNUNkwPw64Hp3BFsEP) | [Touch](https://open.spotify.com/album/7xbXd6O3AFkSHBeCnZ14Gi) | 3:09 | 2022-07-18 | 2022-10-07 |
 | [trevi fountain](https://open.spotify.com/track/1VZUg1xIkqqUUNCp2OPKIE) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn) | [trevi fountain](https://open.spotify.com/album/31lWTYHxU5mCLJiGZAs0ur) | 3:57 | 2021-11-10 | 2022-07-19 |
+| [TRIP](https://open.spotify.com/track/7eS1jb9VkF7gjBttQth0vY) | [REHMA](https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD), [Shreea Kaul](https://open.spotify.com/artist/1c203LuoIFKuIn2X5Uz5lE) | [TRIP](https://open.spotify.com/album/3H1H9MDFP3UnMeFWhYNGGR) | 3:06 | 2024-09-13 |  |
 | [Trouble](https://open.spotify.com/track/3JqthBGrJH1BeV76QAq9BD) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 3:04 | 2021-11-10 | 2022-07-19 |
 | [Tu hai kahan \(feat\. ZAYN\)](https://open.spotify.com/track/7K6RLbkpqZI4OaoSnLcBiU) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Tu hai kahan \(feat\. ZAYN\)](https://open.spotify.com/album/64TpPq3QgOQUaX3GSNMEYt) | 4:29 | 2024-01-18 | 2024-08-09 |
 | [Tumi Jaio Na](https://open.spotify.com/track/3vy7RGXfITuT1iebJwwJVQ) | [Master D](https://open.spotify.com/artist/5KQST9ferqWtr02OpnrrsA), [Mumzy Stranger](https://open.spotify.com/artist/1ZjTtkG8iHppYgibGNc4rw) | [Tumi Jaio Na](https://open.spotify.com/album/5nNa4C77c2rJbqlmRA75NA) | 3:20 | 2022-07-18 | 2022-10-07 |

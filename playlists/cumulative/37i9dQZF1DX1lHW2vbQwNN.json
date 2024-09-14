@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-22",
-  "description": "Taking it back to the 2000s. Cover: Crime Mob",
+  "description": "Taking it back to the 2000s. Cover: Kid Cudi",
   "name": "2000s Hip-Hop",
   "tracks": [
     {
@@ -552,6 +552,24 @@
       "duration_ms": 211400,
       "name": "Danger (Been So Long) featuring Nivea",
       "url": "https://open.spotify.com/track/0e42i89bY2NmPuVDtey8pg"
+    },
+    {
+      "album": {
+        "name": "Man On The Moon: The End Of Day (Deluxe)",
+        "url": "https://open.spotify.com/album/2S8AWAM0nxyFy66YnUfIs3"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221240,
+      "name": "Day 'N' Nite (nightmare)",
+      "url": "https://open.spotify.com/track/5wfllwdjglyQislkskYLBv"
     },
     {
       "album": {
@@ -2382,7 +2400,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 237865,
       "name": "Photoshoot",
       "url": "https://open.spotify.com/track/6bphEFxKCxIcVGQFNhENAE"
@@ -2466,6 +2484,32 @@
       "duration_ms": 251373,
       "name": "Pump It Up",
       "url": "https://open.spotify.com/track/7tDbbfzB1d52lWP8rq8zRZ"
+    },
+    {
+      "album": {
+        "name": "Man On The Moon: The End Of Day (Deluxe)",
+        "url": "https://open.spotify.com/album/2S8AWAM0nxyFy66YnUfIs3"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        },
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        },
+        {
+          "name": "Ratatat",
+          "url": "https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295293,
+      "name": "Pursuit Of Happiness (Nightmare)",
+      "url": "https://open.spotify.com/track/6MtKObWYda2qnNIpJI21uD"
     },
     {
       "album": {
@@ -2938,7 +2982,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 216000,
       "name": "So What",
       "url": "https://open.spotify.com/track/0Uc706myy6Th7I6KQ9xA1x"

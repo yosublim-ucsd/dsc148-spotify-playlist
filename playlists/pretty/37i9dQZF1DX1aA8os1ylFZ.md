@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 
 > get into your feels with some r&b magic
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,186 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,191 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,20 +65,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 55 | [Why \(Remix\)](https://open.spotify.com/track/4lhtcUETFNpbgMls6MZ2wf) | [Lizzen](https://open.spotify.com/artist/1nyFByqDMAHXbvHi9OjCxl), [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [Why \(Remix\)](https://open.spotify.com/album/3HHhIRz5oDEXzbHPKixuZz) | 2:41 |
 | 56 | [History](https://open.spotify.com/track/00YFNV9oDlWZduvoJsjpi0) | [Asiah](https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX) | [History](https://open.spotify.com/album/0fBXkE3U6UluW9yg1hIWkW) | 2:37 |
 | 57 | [Clouds](https://open.spotify.com/track/23DyGq8RBW6iTOhVkMUfXT) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Clouds](https://open.spotify.com/album/2jCiuFgbccEXrHwsaJ84QV) | 3:55 |
-| 58 | [Hurts Me To Know](https://open.spotify.com/track/0yZ6a47o7jfO5PmFjbQwCi) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [Next Chapter](https://open.spotify.com/album/1CYWwUlTWMQwT2M7rUnqkf) | 2:29 |
-| 59 | [Rise](https://open.spotify.com/track/7lEUWRaF6TKaoVOptL4U4E) | [Luna Mae](https://open.spotify.com/artist/5ownccCPeMuS8uJnAIsjFP) | [Rise](https://open.spotify.com/album/21GSzeC5WsPl6HpRZkYHRU) | 2:50 |
+| 58 | [Rise](https://open.spotify.com/track/7lEUWRaF6TKaoVOptL4U4E) | [Luna Mae](https://open.spotify.com/artist/5ownccCPeMuS8uJnAIsjFP) | [Rise](https://open.spotify.com/album/21GSzeC5WsPl6HpRZkYHRU) | 2:50 |
+| 59 | [Hurts Me To Know](https://open.spotify.com/track/0yZ6a47o7jfO5PmFjbQwCi) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [Next Chapter](https://open.spotify.com/album/1CYWwUlTWMQwT2M7rUnqkf) | 2:29 |
 | 60 | [Words of Affirmation](https://open.spotify.com/track/4TeklWa1VJeKwDThRho8vy) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [Words of Affirmation](https://open.spotify.com/album/4A6aWWPzVnNEjqm29C93A7) | 3:06 |
 | 61 | [Chances](https://open.spotify.com/track/1rDN43rZK48pWElATbvyp3) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [Chances](https://open.spotify.com/album/1BPGOwv0i7hNwRxBbrwkSr) | 3:53 |
-| 62 | [Slide](https://open.spotify.com/track/15SHKUdlRaqIVTJWcP5n5a) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF), [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo) | [Wish You Were Here](https://open.spotify.com/album/3KzXjaZ3bOVtC6RgFCkUTE) | 3:35 |
-| 63 | [Risk It All \- From the Original Motion Picture “The Color Purple”](https://open.spotify.com/track/4zSlPg0zHNNRukp2p07jrm) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Risk It All \(From the Original Motion Picture “The Color Purple”\)](https://open.spotify.com/album/56QjItp9BaAC2e7GkYZLwd) | 3:21 |
+| 62 | [Risk It All \- From the Original Motion Picture “The Color Purple”](https://open.spotify.com/track/4zSlPg0zHNNRukp2p07jrm) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Risk It All \(From the Original Motion Picture “The Color Purple”\)](https://open.spotify.com/album/56QjItp9BaAC2e7GkYZLwd) | 3:21 |
+| 63 | [Slide](https://open.spotify.com/track/15SHKUdlRaqIVTJWcP5n5a) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF), [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo) | [Wish You Were Here](https://open.spotify.com/album/3KzXjaZ3bOVtC6RgFCkUTE) | 3:35 |
 | 64 | [Closer](https://open.spotify.com/track/3ZG7FzfuejHiekD67PtGb7) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [Closer](https://open.spotify.com/album/6sLawiJo2c2YoL2hzBW5Vm) | 3:55 |
 | 65 | [Charged Up](https://open.spotify.com/track/4HN6CicOpFp1nrkxHFM3Gt) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Charged Up](https://open.spotify.com/album/7tM3cKpt6DrUg1OW4B4BSf) | 2:59 |
-| 66 | [Double Tragedy](https://open.spotify.com/track/2Zs7Q7lJB1aUDL06rE2xN2) | [Hailey Knox](https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH) | [Double Tragedy](https://open.spotify.com/album/5Knkg9Hx7EoJE4ZnLX7f8H) | 2:45 |
-| 67 | [Your Love Is All I Need](https://open.spotify.com/track/5K4XGPDbG9CR6hoAM0Htua) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [Your Love Is All I Need](https://open.spotify.com/album/4vTUoDz2degpD1NHfCJ0vg) | 2:56 |
-| 68 | [Believe](https://open.spotify.com/track/4YYpXaONSBsD2wVAsfxFH6) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [COMING HOME \(Expanded Edition\)](https://open.spotify.com/album/7GZwgBHhaazZ2QnrvbpDPO) | 3:31 |
-| 69 | [Solutions](https://open.spotify.com/track/4dzUnPycaoQTzRxm4tqF3O) | [\[ K S R \]](https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk) | [Unfiltered](https://open.spotify.com/album/55Z9X5i9tJmBhiSqr5MuAT) | 1:49 |
-| 70 | [In My Bag](https://open.spotify.com/track/3Hz7mhkeYyAG09l90fVKQo) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [IRL](https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh) | 3:49 |
-| 71 | [FIRST PLACE](https://open.spotify.com/track/0eOyi2vAmX9ZxXhZ1aAEMy) | [Lavils](https://open.spotify.com/artist/21IzgxyClVgsRUoFtE13mX) | [FIRST PLACE](https://open.spotify.com/album/2WqRCYXLCzsxMNLM5gYuAo) | 2:01 |
+| 66 | [Your Love Is All I Need](https://open.spotify.com/track/5K4XGPDbG9CR6hoAM0Htua) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [Your Love Is All I Need](https://open.spotify.com/album/4vTUoDz2degpD1NHfCJ0vg) | 2:56 |
+| 67 | [Double Tragedy](https://open.spotify.com/track/2Zs7Q7lJB1aUDL06rE2xN2) | [Hailey Knox](https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH) | [Double Tragedy](https://open.spotify.com/album/5Knkg9Hx7EoJE4ZnLX7f8H) | 2:45 |
+| 68 | [Solutions](https://open.spotify.com/track/4dzUnPycaoQTzRxm4tqF3O) | [\[ K S R \]](https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk) | [Unfiltered](https://open.spotify.com/album/55Z9X5i9tJmBhiSqr5MuAT) | 1:49 |
+| 69 | [In My Bag](https://open.spotify.com/track/3Hz7mhkeYyAG09l90fVKQo) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [IRL](https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh) | 3:49 |
+| 70 | [FIRST PLACE](https://open.spotify.com/track/0eOyi2vAmX9ZxXhZ1aAEMy) | [Lavils](https://open.spotify.com/artist/21IzgxyClVgsRUoFtE13mX) | [FIRST PLACE](https://open.spotify.com/album/2WqRCYXLCzsxMNLM5gYuAo) | 2:01 |
+| 71 | [Believe](https://open.spotify.com/track/4YYpXaONSBsD2wVAsfxFH6) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [COMING HOME \(Expanded Edition\)](https://open.spotify.com/album/7GZwgBHhaazZ2QnrvbpDPO) | 3:31 |
 | 72 | [Stranger](https://open.spotify.com/track/4TRcHzOWfy7EmYYdci24jv) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Stranger](https://open.spotify.com/album/5tjjkvT0Tm06eXsJjV7sms) | 2:35 |
 | 73 | [Loveloca](https://open.spotify.com/track/1JCKPYM0yFZfXeC04RmeiB) | [J.A.D.E](https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH) | [Loveloca](https://open.spotify.com/album/6cc0aH6M1S3SAUdMglc37e) | 2:54 |
 | 74 | [LOML](https://open.spotify.com/track/0VUFnlMY7Ov8ncOjh4DcXd) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [LOML](https://open.spotify.com/album/66U6pMs7zr1jlKMg5wcosf) | 2:57 |

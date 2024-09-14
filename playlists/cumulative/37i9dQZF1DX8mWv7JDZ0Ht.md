@@ -4,7 +4,7 @@
 
 > Novidades do pop nacional pra te deixar mais leve! Foto: Gabriel Froede, Joyce Alane
 
-686 songs - 1 day 10 hr 4 min
+687 songs - 1 day 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,6 +294,7 @@
 | [Guaecá](https://open.spotify.com/track/6NH6AuMUHppJ1DmNQpHRcw) | [LUAU](https://open.spotify.com/artist/6ERRp63qsgvVWdu1xKftZg) | [Guaecá](https://open.spotify.com/album/795nahxSioRqoCX5vZKFP0) | 2:36 | 2024-05-31 |  |
 | [GUARDA O TEU CORAÇÃO](https://open.spotify.com/track/0IHNarDUnqJzHCWSGeGSGS) | [Arthur Martins](https://open.spotify.com/artist/1DqIsYBAF5gtBsKQI5dPXd) | [GUARDA O TEU CORAÇÃO](https://open.spotify.com/album/6ygRDr2Uf4Tz7jvVitXyJy) | 3:32 | 2024-07-05 |  |
 | [Horizonte](https://open.spotify.com/track/2BxoVrrBkNMSHDv3IMJSw6) | [Luiz Lins](https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0), [Mazili](https://open.spotify.com/artist/44xLFZNn7TzOWooulLGAl4) | [Horizonte](https://open.spotify.com/album/2yfBvpXbJ15VXJSKU6YTJH) | 3:14 | 2022-12-23 | 2023-03-12 |
+| [Hortelã](https://open.spotify.com/track/05t97ZnuDXGICqKvbJYjyd) | [26:15](https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv) | [Hortelã](https://open.spotify.com/album/3IPqpPELZJMgd14mUehGug) | 2:35 | 2024-09-13 |  |
 | [Ibiza](https://open.spotify.com/track/0iqMxa5BrNSP4ogxOwwqIK) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [Ibiza](https://open.spotify.com/album/50GOoPDaUtjpGX36yhrgz7) | 2:30 | 2023-09-29 | 2023-10-21 |
 | [Idiota Raiz \(Deixa Ir\)](https://open.spotify.com/track/1T9yLjCFIh5IcE2NXjNPjd) | [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG), [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [Idiota Raiz \(Deixa Ir\)](https://open.spotify.com/album/3nYq2i21JSw8TL5rdlBQcM) | 2:34 | 2023-08-22 | 2023-11-25 |
 | [imagina amar assim](https://open.spotify.com/track/0PmLsegy4g7Tgmc0C9jM61) | [João Klein](https://open.spotify.com/artist/0qHyRq7Ac4v4AXjvez82E1), [bibi](https://open.spotify.com/artist/5psPyNU0Tac7jGsyaqOFR4) | [imagina amar assim](https://open.spotify.com/album/6YMf5PbWziwj5LVrU1dLUr) | 3:00 | 2022-05-13 | 2022-06-25 |

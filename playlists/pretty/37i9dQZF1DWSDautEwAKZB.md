@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDautEwAKZB.md) - [plain]
 
 > Latin songs you love like you've never heard before\. Cover: Natanael Cano
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,182 likes - 70 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,184 likes - 70 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDautEwAKZB.md) - [plain]
 | 64 | [El Rey de la Popola \- Spotify Singles](https://open.spotify.com/track/2kMYjwRj5E9Th5QgXoj8Mj) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Spotify Singles](https://open.spotify.com/album/0EJbZds2bDpLvD6vmC7XHS) | 3:30 |
 | 65 | [Lizard \(Alternate Universe\) \- Spotify Singles](https://open.spotify.com/track/1CGKhnXxoyXZa2PLQdYW1X) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Spotify Singles](https://open.spotify.com/album/5MlYmVGHlWSCdKutrQcLAV) | 2:51 |
 | 66 | [Bestia Pequeña \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0PLVHnNpWuBDAEgQYibr45) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Spotify Singles](https://open.spotify.com/album/6k9Hp2pzjLtzn4esbQmTZS) | 3:01 |
-| 67 | [Back In Bahia \- Spotify Singles](https://open.spotify.com/track/6ModYZze07tx1R40jykgeL) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Back In Bahia \- Spotify Singles](https://open.spotify.com/album/50V1qiuLjfFRvgJ9c4Bup3) | 2:43 |
-| 68 | [Oops \(Oh My\) \- Spotify Singles](https://open.spotify.com/track/5qYEH8inKVQiNdkZWG9YZv) | [Gabriel Garzón\-Montano](https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST) | [Spotify Singles](https://open.spotify.com/album/1JYgWwo96pzXFLymyz6RX3) | 3:04 |
+| 67 | [Oops \(Oh My\) \- Spotify Singles](https://open.spotify.com/track/5qYEH8inKVQiNdkZWG9YZv) | [Gabriel Garzón\-Montano](https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST) | [Spotify Singles](https://open.spotify.com/album/1JYgWwo96pzXFLymyz6RX3) | 3:04 |
+| 68 | [Back In Bahia \- Spotify Singles](https://open.spotify.com/track/6ModYZze07tx1R40jykgeL) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Back In Bahia \- Spotify Singles](https://open.spotify.com/album/50V1qiuLjfFRvgJ9c4Bup3) | 2:43 |
 | 69 | [Movimento \- Spotify Singles](https://open.spotify.com/track/1U3oUPST65OhAz9PG4eAVv) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Movimento \- Spotify Singles](https://open.spotify.com/album/21HW4JmG3uIqsHLExLFQnZ) | 2:38 |
 | 70 | [Cobarde \- Spotify Singles](https://open.spotify.com/track/1YrpPdjVU89FeCvSMsUYLr) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Spotify Singles](https://open.spotify.com/album/0lVcgikFRVzcHtmNCZfgT1) | 3:11 |
 

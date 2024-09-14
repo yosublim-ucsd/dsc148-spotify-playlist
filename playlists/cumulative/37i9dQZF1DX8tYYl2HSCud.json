@@ -358,7 +358,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 166796,
       "name": "Appreciation",
       "url": "https://open.spotify.com/track/5rL3vtLmgC53w0QVF8Sn8W"
@@ -542,6 +542,24 @@
       "duration_ms": 210000,
       "name": "Blank Page",
       "url": "https://open.spotify.com/track/4CE7Fygc6DSOeC4Uw8cKxI"
+    },
+    {
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/0BLA0fY1p84dCuwXXagVxv"
+      },
+      "artists": [
+        {
+          "name": "Arres\u00f8",
+          "url": "https://open.spotify.com/artist/0BmJFwqURRCKIFX8hH0gV1"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187598,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/02jk5HBgunFBo9aUadlRHu"
     },
     {
       "album": {
@@ -2669,6 +2687,24 @@
     },
     {
       "album": {
+        "name": "Moonlit Memories",
+        "url": "https://open.spotify.com/album/0mHDpjrpMlxKA48trayj1M"
+      },
+      "artists": [
+        {
+          "name": "Universal Balance",
+          "url": "https://open.spotify.com/artist/3RMsxLGaCe4mvHEzJER31q"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151162,
+      "name": "Moonlit Memories",
+      "url": "https://open.spotify.com/track/2ZmDZfwBqZDMuKsitPVyfu"
+    },
+    {
+      "album": {
         "name": "Motionless",
         "url": "https://open.spotify.com/album/0dMU4lGwcPqcNfjs5EJ8xA"
       },
@@ -2698,7 +2734,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 179456,
       "name": "Mountain Faces",
       "url": "https://open.spotify.com/track/5ZDg666GrOT1dc7fkdakaP"
@@ -3076,7 +3112,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 182624,
       "name": "Ponderosa",
       "url": "https://open.spotify.com/track/5uLwuiDxMzH5bmeNIStkpG"
@@ -3857,6 +3893,24 @@
     },
     {
       "album": {
+        "name": "Soft Embers",
+        "url": "https://open.spotify.com/album/0PmaChR0y62a2Sk5mcYvuc"
+      },
+      "artists": [
+        {
+          "name": "drifting / sleeping",
+          "url": "https://open.spotify.com/artist/1QbKvEZTsVgSaRP8vTO2TH"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132352,
+      "name": "Soft Embers",
+      "url": "https://open.spotify.com/track/2lvegAaaXi1MF1p8KP4gXn"
+    },
+    {
+      "album": {
         "name": "Soft Touch",
         "url": "https://open.spotify.com/album/3lktgmWsTCNDHafXOj7D1V"
       },
@@ -4178,6 +4232,24 @@
       "duration_ms": 185625,
       "name": "Stundtals",
       "url": "https://open.spotify.com/track/1PqHlGhw8e7fcLN3Q6bPVp"
+    },
+    {
+      "album": {
+        "name": "Sun Bells",
+        "url": "https://open.spotify.com/album/0euFYTO4xkTMu8vKzTDBgf"
+      },
+      "artists": [
+        {
+          "name": "Earthbound",
+          "url": "https://open.spotify.com/artist/0F1aPOoP68MvFLfZ4fyP03"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204303,
+      "name": "Sun Bells",
+      "url": "https://open.spotify.com/track/1f5BNfpT1tP7LpD9zri8wD"
     },
     {
       "album": {
@@ -4750,7 +4822,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 170400,
       "name": "Windless",
       "url": "https://open.spotify.com/track/6fIG5NvcmuBGcHgweSi072"

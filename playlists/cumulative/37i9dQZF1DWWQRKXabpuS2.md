@@ -2,9 +2,9 @@
 
 ### [خليجي جديد](https://open.spotify.com/playlist/37i9dQZF1DWWQRKXabpuS2)
 
-> كل شي خليجي جديد\. الغلاف:عبد العزيز لويس
+> كل شي خليجي جديد\. الغلاف:ماجد المهندس
 
-364 songs - 1 day 1 hr 6 min
+365 songs - 1 day 1 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [El Gheyab](https://open.spotify.com/track/3owCG7KMMas0xG8G4DgNKi) | [Rashed Al\-Majed](https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX) | [El Gheyab](https://open.spotify.com/album/5C9SWdz3S0bdXqpZHmHdg3) | 5:21 | 2023-08-18 | 2024-02-28 |
 | [El Hajah](https://open.spotify.com/track/1vXGTrgrBe5pPYgd2wBjSx) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [El Hajah](https://open.spotify.com/album/0ojU0NHmHEh9756Is45OzT) | 4:23 | 2023-01-24 | 2023-06-24 |
 | [El Hob Modha](https://open.spotify.com/track/6onG89rY6ZqA66oDyx7K3X) | [Meteb Alshalan](https://open.spotify.com/artist/7HRVFYJ71mBbcv8gA2qEjA) | [El Hob Modha](https://open.spotify.com/album/56HkKM6b8t16LONjNopORW) | 4:13 | 2022-08-19 | 2023-01-21 |
+| [El Jaw](https://open.spotify.com/track/2cgf5MZyc0lFzTINeaSjx5) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [El Jaw](https://open.spotify.com/album/4cxGcV7KPYIHlhGSLls5Ur) | 4:23 | 2024-09-13 |  |
 | [El Omor Mara](https://open.spotify.com/track/38uIJpJ96aL5yMijoGwEtC) | [Talal Salamah](https://open.spotify.com/artist/2yisgYUsuIfLHOcuCnbNu0) | [El Omor Mara](https://open.spotify.com/album/5kEZBf2hOVe2UKZ5HgVrwK) | 4:56 | 2023-11-23 | 2024-06-08 |
 | [Ela Allah](https://open.spotify.com/track/4ZXyL4LC6u9QmBNERbGyBJ) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Ela Allah](https://open.spotify.com/album/4I9pP9LCXwvUeYssukoqGc) | 4:04 | 2023-01-20 | 2023-08-04 |
 | [Elhubb Ja](https://open.spotify.com/track/6dNsnqDf8c5aBUZW7V2Oqh) | [Salah Alzadjali](https://open.spotify.com/artist/5B14NO9B5J7hKVfyttzrpH) | [Elhubb Ja](https://open.spotify.com/album/42tevSQ1DPLBGr8BgQfh3e) | 4:36 | 2022-02-17 | 2022-08-13 |
@@ -189,7 +190,7 @@
 | [Mani Qader](https://open.spotify.com/track/1lJhnoFUqtSkK2BkrxrDVE) | [Meteb Alshalan](https://open.spotify.com/artist/7HRVFYJ71mBbcv8gA2qEjA) | [Mani Qader](https://open.spotify.com/album/70j5jro09TU8NtTscyxEyY) | 3:32 | 2022-11-07 | 2023-04-05 |
 | [Mara Aan Malioun \(feat\. Daffy\)](https://open.spotify.com/track/3qCKXqyJjrc2qWVITysP6i) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD), [Daffy](https://open.spotify.com/artist/1riWTPKcSkoy6FkEqs1ohC) | [Mara Aan Malioun \(feat\. Daffy\)](https://open.spotify.com/album/0pTDbXQGqK3li48QMqAoFr) | 2:20 | 2023-07-17 | 2024-02-10 |
 | [Marhala Saabah](https://open.spotify.com/track/628nfgHGoVc07pntPz7agZ) | [Abdulaziz Louis](https://open.spotify.com/artist/45fXWSpX6WGHhSQVbkktUk), [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj) | [Marhala Saabah](https://open.spotify.com/album/6GKyZvh1SLeX5B4QyOfbjX) | 3:04 | 2023-07-01 | 2024-01-12 |
-| [Marrah Shukran](https://open.spotify.com/track/15nHtBKqeXFoMgZWk9jOAL) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Marrah Shukran](https://open.spotify.com/album/1HSVMXgW4TD6T0WOSKDLje) | 6:04 | 2024-01-31 |  |
+| [Marrah Shukran](https://open.spotify.com/track/15nHtBKqeXFoMgZWk9jOAL) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Marrah Shukran](https://open.spotify.com/album/1HSVMXgW4TD6T0WOSKDLje) | 6:04 | 2024-01-31 | 2024-09-14 |
 | [Maskeen](https://open.spotify.com/track/6y8LpdByQROHKQMTNv7pPe) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Maskeen](https://open.spotify.com/album/6fn1Xqlur9ssQxrfSQKRdv) | 4:11 | 2022-10-10 | 2023-05-03 |
 | [Mawed Eyonk](https://open.spotify.com/track/7aq0vVJxIfEJBl0Nca2Yfq) | [Abdulaziz Elmuanna](https://open.spotify.com/artist/4bzY16GQnsfRHuIzHN4lC7) | [Mawed Eyonk](https://open.spotify.com/album/2f6Pbb9qmPx9PEkOULDmOn) | 5:21 | 2022-08-24 | 2023-03-15 |
 | [Mawsem Maha](https://open.spotify.com/track/45IA9bg8QtbaqL6m7oaKAp) | [Abass Ibrahim](https://open.spotify.com/artist/24GgPBu7p3GhaMVvIMAk8T) | [Mawsem Maha](https://open.spotify.com/album/4eeA89peS2KWfn7zJqe4O3) | 8:25 | 2022-06-02 | 2022-11-08 |

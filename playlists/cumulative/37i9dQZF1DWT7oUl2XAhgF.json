@@ -383,6 +383,24 @@
     },
     {
       "album": {
+        "name": "Bad Advice - The Pool Sessions",
+        "url": "https://open.spotify.com/album/0XGFkBW7khe0G9uHcFLScZ"
+      },
+      "artists": [
+        {
+          "name": "Kat Eaton",
+          "url": "https://open.spotify.com/artist/72bPcEPylDgn0WHybYqI7P"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208325,
+      "name": "Bad Advice - The Pool Sessions",
+      "url": "https://open.spotify.com/track/7bUOeVzQrTBCE3ZMOGQz49"
+    },
+    {
+      "album": {
         "name": "Flawed by Design",
         "url": "https://open.spotify.com/album/0mTzaEzi97RqYK4VbwtQcT"
       },
@@ -528,7 +546,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 237587,
       "name": "Believe",
       "url": "https://open.spotify.com/track/6DblWOuKGzV2V1ES2Tafud"
@@ -1784,7 +1802,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 231853,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/1Wntxxt7R2mwfa4bDfAa5h"
@@ -2522,6 +2540,28 @@
       "duration_ms": 143606,
       "name": "Groceries",
       "url": "https://open.spotify.com/track/5KXNgbRYbqwEFIFM0AMakg"
+    },
+    {
+      "album": {
+        "name": "Grow Old Together",
+        "url": "https://open.spotify.com/album/5WLdnhtrbVuDWwOQ46a8V2"
+      },
+      "artists": [
+        {
+          "name": "Revel Day",
+          "url": "https://open.spotify.com/artist/0GlCo4o05HxdzR4Gj7GKyw"
+        },
+        {
+          "name": "Anna Dellaria",
+          "url": "https://open.spotify.com/artist/1VIvKUaSkkzbWE4oWVpGaR"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219428,
+      "name": "Grow Old Together",
+      "url": "https://open.spotify.com/track/1Ue7dDblJkm1YAUb2OUDJp"
     },
     {
       "album": {
@@ -3970,7 +4010,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 266333,
       "name": "Let Not (Your Heart Be Troubled)",
       "url": "https://open.spotify.com/track/4WovYmHVAw2WliG6Es3kRQ"
@@ -4089,6 +4129,24 @@
     },
     {
       "album": {
+        "name": "Slang Spirituals",
+        "url": "https://open.spotify.com/album/1sPGKewgVhu3Iwfqq1XZwa"
+      },
+      "artists": [
+        {
+          "name": "Lady Blackbird",
+          "url": "https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266426,
+      "name": "Like a Woman",
+      "url": "https://open.spotify.com/track/2vcdWcbA3d7y4AFDmFnO24"
+    },
+    {
+      "album": {
         "name": "Little Birdie",
         "url": "https://open.spotify.com/album/3lFtl9ngeK56wTq6IikwC7"
       },
@@ -4136,7 +4194,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 210320,
       "name": "Live For You",
       "url": "https://open.spotify.com/track/2XekPGzt01OOtaRY9oAV1b"
@@ -5322,7 +5380,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 233413,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/0f2zcrhhHT59aIGQvRlTZ1"
@@ -7977,6 +8035,24 @@
     },
     {
       "album": {
+        "name": "Waiting on the Right Time",
+        "url": "https://open.spotify.com/album/50YUFgsiE11VbXB4QFKaP1"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219786,
+      "name": "Waiting on the Right Time",
+      "url": "https://open.spotify.com/track/7rqR6MqQX8x2eDlAmleCRl"
+    },
+    {
+      "album": {
         "name": "Waiting on the Sidelines",
         "url": "https://open.spotify.com/album/3ayx7YiPVzsRUfz8v42E76"
       },
@@ -8662,6 +8738,24 @@
       "duration_ms": 166842,
       "name": "Your Love Is Gold",
       "url": "https://open.spotify.com/track/0weEYABcqaO5feEQRlD9HW"
+    },
+    {
+      "album": {
+        "name": "Your Team",
+        "url": "https://open.spotify.com/album/6R0Q1JubcgsOYoCnlZeUZX"
+      },
+      "artists": [
+        {
+          "name": "Nia Wyn",
+          "url": "https://open.spotify.com/artist/6llDm40EBFJNERFGyWn2wH"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186274,
+      "name": "Your Team",
+      "url": "https://open.spotify.com/track/5pIlwtkgYsmgDJ3RCJiUOD"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWT7oUl2XAhgF"

@@ -4,7 +4,7 @@
 
 > Soft instrumental lullabies for the little ones.
 
-1,052 songs - 1 day 7 hr 19 min
+1,055 songs - 1 day 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Björnen sover](https://open.spotify.com/track/2XYcp7kT5BxrhCEFykj3jA) | [Klara Söderman](https://open.spotify.com/artist/3M4QRATGYND6tUfBYU0Qyt) | [Björnen sover](https://open.spotify.com/album/3QRpb5nU9Y7EaMTWJlzCvz) | 1:28 | 2022-06-07 | 2023-06-03 |
 | [Blandt blomstene vil jeg være](https://open.spotify.com/track/6INWQk02ceQ0yyKnqaXCS8) | [Erna Kristiansen](https://open.spotify.com/artist/5glqngXL4XhdN4Yi1jFkTp) | [Blandt blomstene vil jeg være](https://open.spotify.com/album/0Cu1Fg6AmySgE2Xq4u7hfp) | 1:45 | 2021-11-08 | 2022-10-08 |
 | [Blanket Snuggles](https://open.spotify.com/track/7qIGCFkrCMnUPUk4dE6FSb) | [Bennie Radcliff](https://open.spotify.com/artist/4Kkr4hETN5QeAeRxjvkZ5U) | [Blanket Snuggles](https://open.spotify.com/album/0n09zmE4h2rPbrcH9pC9nW) | 1:53 | 2021-11-08 | 2022-12-16 |
+| [Blessed Assurance](https://open.spotify.com/track/3teu4DGIFRkjK2bSNTaXdf) | [Chester Goodwin](https://open.spotify.com/artist/1sUlQW5elWkCF2z5jRmn9U) | [Blessed Assurance](https://open.spotify.com/album/0AOKQEjQn5AV2HzDaQT6ob) | 3:04 | 2024-09-13 |  |
 | [Blessed Moments](https://open.spotify.com/track/22SkVTI0VMOBmn7hYZ0lZW) | [Mrs Mayford](https://open.spotify.com/artist/1DnajjlzcHuEugVA6brKPr) | [Blessed Moments](https://open.spotify.com/album/6dzws1YlB8XQ7fRGxqu2hd) | 2:28 | 2022-09-02 | 2024-04-05 |
 | [Blissful Reverie](https://open.spotify.com/track/1NdUEVPr0YTCLEBLIbPXP6) | [Alex Dawa](https://open.spotify.com/artist/6btZeIxzYQSnzutRBcyUlV) | [Blissful Reverie](https://open.spotify.com/album/4iCzQCuhn1EkYKNkYe0n8H) | 2:41 | 2023-08-10 |  |
 | [Blossom](https://open.spotify.com/track/55U4PGCJt22q75JPXiUfoj) | [Snowy Bear](https://open.spotify.com/artist/0d46xJz23JcPHQoQ15SaU4) | [Blossom](https://open.spotify.com/album/3wln5OEsdxPWHVaFl9EhEz) | 1:37 | 2023-05-12 |  |
@@ -136,7 +137,7 @@
 | [Bonne nuit mon prince](https://open.spotify.com/track/5W03XGSGZLULtu0UykT4iv) | [Gabriele Valois](https://open.spotify.com/artist/5iLuRSlCuDAt7iaA7gkTv5) | [Bonne nuit mon prince](https://open.spotify.com/album/09f5AoxyFNYxiB5RvhL8MU) | 2:03 | 2023-04-07 |  |
 | [Brahms Lullaby](https://open.spotify.com/track/2VZF8Q8GoTGQPSOZikEAZl) | [Lia Phillips](https://open.spotify.com/artist/4j0ENajb8xeVIbhZinVXOU) | [Brahms Lullaby](https://open.spotify.com/album/3cKluVpLsSxkWxbttLN7uD) | 1:46 | 2021-11-08 | 2023-08-11 |
 | [Brahms Lullaby](https://open.spotify.com/track/7ikUx1ac0iqOSvjvROKX8L) | [Mino Lawrence](https://open.spotify.com/artist/7HHsz4iMR3pWHCusoe8Yyb) | [My Guitar Lullabies](https://open.spotify.com/album/2SY1QZEXNnESmB8KeRgvN8) | 2:04 | 2023-08-10 |  |
-| [Breathing](https://open.spotify.com/track/4QCKiWC9Q2IMiASCzlAXPv) | [Sandra Forster](https://open.spotify.com/artist/3TLHL40IaEycdPNoxTqK3a) | [Breathing](https://open.spotify.com/album/4O1Q00FDVBKrb7Gw9sbmWe) | 1:34 | 2023-08-10 |  |
+| [Breathing](https://open.spotify.com/track/4QCKiWC9Q2IMiASCzlAXPv) | [Sandra Forster](https://open.spotify.com/artist/3TLHL40IaEycdPNoxTqK3a) | [Breathing](https://open.spotify.com/album/4O1Q00FDVBKrb7Gw9sbmWe) | 1:34 | 2023-08-10 | 2024-09-14 |
 | [Bred dina vida vingar](https://open.spotify.com/track/258VCQHVQ6DTlPyk2Bt0hz) | [Sarah Mathieson](https://open.spotify.com/artist/2Bt65oYe6XD6YksE5ELi5n) | [Bred dina vida vingar](https://open.spotify.com/album/4DqBFhs0HYdT4ETvMalw1v) | 1:22 | 2022-12-16 | 2023-06-23 |
 | [Bredvid Dig](https://open.spotify.com/track/2XN4TGkQYND2X9BCdzXKqX) | [Josefine Wennman](https://open.spotify.com/artist/4Iz7MgZBYGsZzFr3gVamSc) | [Bredvid Dig](https://open.spotify.com/album/7cZTLiuK1n6femAP1zYgRu) | 1:42 | 2023-01-06 | 2023-08-18 |
 | [Breezy Lane](https://open.spotify.com/track/2Y41IwEydQrdzrcWiLGLn7) | [Rebecca Saylor](https://open.spotify.com/artist/3TsSACF1ONolmTjD3AEXVX) | [Start the Stars](https://open.spotify.com/album/5sldwHUZsGj7uwoA3nzh44) | 1:56 | 2021-11-08 | 2022-10-29 |
@@ -326,6 +327,7 @@
 | [Gentle Dreams](https://open.spotify.com/track/1kETBJfZROZUl3nngNRVRu) | [Mary Monroe](https://open.spotify.com/artist/34r7GYfCBgI8AHhKuazmtc) | [Gentle Dreams](https://open.spotify.com/album/4f3WGJ9z4RtE9S8015k7pq) | 2:18 | 2021-11-08 | 2024-04-05 |
 | [Gently Slow](https://open.spotify.com/track/08RpEhbRnJzzt318TOEEPJ) | [Mimmi East](https://open.spotify.com/artist/5JD1k7FiD0YmTS7Xcv3RF6) | [Gently Slow](https://open.spotify.com/album/20dortqEfJRZJmobdM7g48) | 2:15 | 2022-07-29 | 2023-08-18 |
 | [Get Your Cozy](https://open.spotify.com/track/7erHsPOy5lmIfLA6A9U4Il) | [David Finnegan](https://open.spotify.com/artist/5Q7zEQv9vodtCdUZl98Ox0) | [Tomorrow Again](https://open.spotify.com/album/2ARWUIkaaH6YYeOIixWudf) | 1:45 | 2021-11-08 | 2022-11-12 |
+| [Gigglepaws](https://open.spotify.com/track/0OKnujtaEPOi8KIR7zpQo2) | [The Stories We Tell](https://open.spotify.com/artist/0KZ1jg7xT2z2zrMCY2iAlB) | [Gigglepaws](https://open.spotify.com/album/63fT6KHGS3LydubtYtztPc) | 1:49 | 2024-09-13 |  |
 | [Give me sunshine](https://open.spotify.com/track/63q2eW7u4f8faDdP6brmvK) | [Stacy Gaffer](https://open.spotify.com/artist/32pd92japrh3yC0QI2AnQt) | [Give me sunshine](https://open.spotify.com/album/0G9Nu1lqp0k3et1aNCC5gK) | 1:34 | 2023-12-08 |  |
 | [Go Tell Aunt Rhody](https://open.spotify.com/track/04E5K4tsp0vtNJUnqVowcA) | [Jasper Sylvaire](https://open.spotify.com/artist/0ni1Eptecat3ntWCUmvSBC) | [Go Tell Aunt Rhody](https://open.spotify.com/album/3dKIK8JNgkAXVSTAxCcyLS) | 1:47 | 2023-12-08 |  |
 | [Go the Distance](https://open.spotify.com/track/5mAtbHNvgNdQUICfdk5pIM) | [Gail Pearce](https://open.spotify.com/artist/0lSEF0q5lRRcn9599fxfeY) | [Go the Distance](https://open.spotify.com/album/06LMcXgAWJpLJI2lx5pVgg) | 1:20 | 2021-11-08 | 2024-04-05 |
@@ -361,6 +363,7 @@
 | [Grandpa Is Coming](https://open.spotify.com/track/07mxW2F347d0aBeUqFsjQI) | [Lucy Sothersby](https://open.spotify.com/artist/3aRSuhmJ2XZzN6ycsMJ9uH) | [Grandpa Is Coming](https://open.spotify.com/album/3lcb0ZJck8g4o6d0i6S8Li) | 2:40 | 2022-12-16 | 2023-03-18 |
 | [Grandpa's Story](https://open.spotify.com/track/3QqrJEPHBoaONZFNNbcQ8s) | [Sarah Jacoby](https://open.spotify.com/artist/2Mkl1x6skIV9KgMoUtBX4V) | [Grandpa's Story](https://open.spotify.com/album/4GcDQN8RFI7mtJJWSrn2O8) | 2:08 | 2024-04-19 |  |
 | [Grandpa’s Song](https://open.spotify.com/track/55rrtoTbE086eqXir3r1Fp) | [Royle Payne](https://open.spotify.com/artist/6NZwAiGhq9WlOTmzKLDf8X) | [Grandpa’s Song](https://open.spotify.com/album/54xCky42AFaif8X7IsMSvW) | 1:36 | 2021-11-08 | 2023-01-06 |
+| [Green Grass](https://open.spotify.com/track/4lCwzwGz9D5BoxHKsyMBVJ) | [Sandra Forster](https://open.spotify.com/artist/3TLHL40IaEycdPNoxTqK3a) | [Green Grass](https://open.spotify.com/album/71S5e17Khv33HGbQfBqqwE) | 2:07 | 2024-09-13 |  |
 | [Grootmoeder](https://open.spotify.com/track/6v4S9vW2oAshobL1lcjJnD) | [Rosalyn van Heeringen](https://open.spotify.com/artist/7oIzlrfSFDprcOzbN9RGyM) | [Ik hou van zwemmen](https://open.spotify.com/album/2Ag6f5EuEU5xXLzlapJmlG) | 1:29 | 2021-11-08 | 2022-10-29 |
 | [Gubben i Månen](https://open.spotify.com/track/58EJ3J0AviZMV0CKLctV44) | [Oscar Johansson](https://open.spotify.com/artist/7DAXxxehmZNAV13QRR3Ys1) | [Drömmarnas Rike](https://open.spotify.com/album/0ZSYxWOf8vJ4G9FiOavpT2) | 1:45 | 2022-11-11 | 2023-06-03 |
 | [Guds kärlek är som havet](https://open.spotify.com/track/0ozmf4aYstoKSEqxO9yoWz) | [Thomas Scheller](https://open.spotify.com/artist/26Dtv4a7haiHQI10e0mDJg) | [Sånger för själen vol 2](https://open.spotify.com/album/5DOYzeiyApvUj0739e7VWf) | 2:12 | 2021-11-08 | 2022-10-29 |
@@ -943,7 +946,7 @@
 | [Tiny Footprints](https://open.spotify.com/track/2LAf4b2AM8H7tN1qzYRJDc) | [Brandie Herbert](https://open.spotify.com/artist/5oWkadBD5uzxKs3Es5XeZ2) | [Tiny Footprints](https://open.spotify.com/album/6fapnJb9DQAPHrA9g63NAw) | 1:37 | 2022-05-13 |  |
 | [Tiny Toes, Big Adventures](https://open.spotify.com/track/30Uc7VRqNQQjdaqJJRY9HC) | [Joanna Chakri](https://open.spotify.com/artist/65ulszLTrkBaeZZympVqpA) | [Tiny Toes, Big Adventures](https://open.spotify.com/album/6cELU85y4SnUfN695Jf8px) | 1:23 | 2024-02-09 |  |
 | [Tippie Tippie Turnip](https://open.spotify.com/track/0ftJjGs3003e9zst0OyyX9) | [Suavidad unida](https://open.spotify.com/artist/0eGCjjaZERJhnbzrQhxskq) | [Tippie Tippie Turnip](https://open.spotify.com/album/1ILNEcImEvLKqQGYmfnpAH) | 1:30 | 2023-06-22 |  |
-| [Tired Mommy's Lullaby](https://open.spotify.com/track/4AWYArPZBjVldd7QV7KQHr) | [Nova Gröndahl](https://open.spotify.com/artist/5iC56LTfQWfAWfvkqLAFf3) | [Tired Mommy's Lullaby](https://open.spotify.com/album/7CtCIJ18YKgVE0GzpVmtB8) | 1:32 | 2023-02-17 |  |
+| [Tired Mommy's Lullaby](https://open.spotify.com/track/4AWYArPZBjVldd7QV7KQHr) | [Nova Gröndahl](https://open.spotify.com/artist/5iC56LTfQWfAWfvkqLAFf3) | [Tired Mommy's Lullaby](https://open.spotify.com/album/7CtCIJ18YKgVE0GzpVmtB8) | 1:32 | 2023-02-17 | 2024-09-14 |
 | [Tired Traveler](https://open.spotify.com/track/00jGOvVYjfgXYpHkxurrEJ) | [Choo Choo Baby](https://open.spotify.com/artist/0vDdNNkBuWh1lJhAREEFce) | [Tired Traveler](https://open.spotify.com/album/1FGtXSTrmT4nPEhTUQOw62) | 2:05 | 2023-11-17 | 2024-08-10 |
 | [To My Best Friend](https://open.spotify.com/track/7r3iFiKhZpkeceWizmIWSY) | [Cecilia Ness](https://open.spotify.com/artist/6FJsBO9iw7CuXvNkLh73o2) | [To My Best Friend](https://open.spotify.com/album/2ymbXJcCzl60qNyeT0Dr4e) | 1:34 | 2023-11-17 |  |
 | [To the Store We Go](https://open.spotify.com/track/6uPZZCrR9eFJwhZdjwRhyk) | [Nolan Wren](https://open.spotify.com/artist/1bglI3t0xRpDdeiYugmOz0) | [To the Store We Go](https://open.spotify.com/album/2pAYbCCye9EdWtkGHdrEPq) | 1:26 | 2024-03-22 |  |
@@ -1023,7 +1026,7 @@
 | [When You're Close](https://open.spotify.com/track/1dKbvhGqWVJA57xL2mHeg2) | [Amilia Weldon](https://open.spotify.com/artist/1514uPuTa2Z6370suTHi8O) | [When You're Close](https://open.spotify.com/album/5RmuqdBHiNMVckkLWS2tpP) | 2:02 | 2021-11-08 | 2024-04-05 |
 | [When You're Sleeping](https://open.spotify.com/track/1WauzlvO6vCqq4eVulsNyY) | [Mio Santos](https://open.spotify.com/artist/0KqbhLJxdv6cMJjAKzmZUs) | [When You're Sleeping](https://open.spotify.com/album/0oTfMxa8zT21rm6WAMTS2t) | 2:38 | 2021-11-08 | 2024-04-05 |
 | [Where’s My Teddy Bear?](https://open.spotify.com/track/7tbW6fDFa6tn95EG5waC7w) | [Mary Monroe](https://open.spotify.com/artist/34r7GYfCBgI8AHhKuazmtc) | [Where’s My Teddy Bear?](https://open.spotify.com/album/4G9l3MhnXhirfJO7UqFVjR) | 2:02 | 2021-11-08 | 2023-01-27 |
-| [While you are sleeping](https://open.spotify.com/track/3R1aA8Uf8jPp8bp3NWt7c6) | [Jim WInce](https://open.spotify.com/artist/7Jr1tryBYAsWD0LeTwr1LF) | [While you are sleeping](https://open.spotify.com/album/1XoU21Cs3NsHizZw9iR0YG) | 1:21 | 2023-06-02 |  |
+| [While you are sleeping](https://open.spotify.com/track/3R1aA8Uf8jPp8bp3NWt7c6) | [Jim WInce](https://open.spotify.com/artist/7Jr1tryBYAsWD0LeTwr1LF) | [While you are sleeping](https://open.spotify.com/album/1XoU21Cs3NsHizZw9iR0YG) | 1:21 | 2023-06-02 | 2024-09-14 |
 | [Whisper](https://open.spotify.com/track/2NXiJEKOISN8R9Frlyb0UV) | [Izakaru](https://open.spotify.com/artist/3EEBU8BY4dEYy9XrzIALCq) | [Whisper](https://open.spotify.com/album/7mlmp16gqTU2KgrIqbtlwC) | 1:27 | 2022-05-13 | 2024-05-24 |
 | [Whispers of Peace](https://open.spotify.com/track/1LhEqa4vGrKWTSXdDfBO8p) | [Sky Holland](https://open.spotify.com/artist/5YQfmCMs2KIpZUDvSdz3L3) | [Cherished Dreams](https://open.spotify.com/album/2hPu23pHv3yvzkC423bR0b) | 1:43 | 2023-03-17 |  |
 | [White Pyjamas](https://open.spotify.com/track/14MRYeRX5S2u9o6Mev6tNC) | [Lyndon Cole](https://open.spotify.com/artist/4YuJWQXYXtQrXTNOFupZfI) | [White Pyjamas](https://open.spotify.com/album/4DS6GovDyxuwrZCrFNJuYa) | 1:31 | 2021-11-08 | 2023-04-09 |

@@ -1,36 +1,52 @@
 {
-  "description": "From the shower to the car, Disney songs that make you want to sing along, including songs from Wish.",
-  "num_followers": 1055014,
+  "description": "From the shower to the car, Disney songs that make you want to sing along, including songs from A Whole New Sound.",
+  "num_followers": 1055183,
   "original_name": "Disney Sing-Alongs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk4EnwAAAAC5PnIInYvksotyC3k23dcn",
+  "snapshot_id": "ZuO4wAAAAAATOx6qWpwHhA3iWt0fyk2t",
   "tracks": [
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Welcome To Rosas (From \"Wish\")",
-        "url": "https://open.spotify.com/album/4q3CESoBemRptRaga5teAx"
+        "name": "A Whole New Sound",
+        "url": "https://open.spotify.com/album/4rKpyXuKGtcZvaHFIXgjLP"
       },
       "artists": [
         {
-          "name": "Ariana DeBose",
-          "url": "https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs"
-        },
-        {
-          "name": "Wish - Cast",
-          "url": "https://open.spotify.com/artist/5OLl3QAQOcnab5ofRR05jM"
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
         },
         {
           "name": "Disney",
           "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
-      "duration_ms": 147946,
-      "name": "Welcome To Rosas - From \"Wish\"",
-      "url": "https://open.spotify.com/track/2WjNeDXYk0EdyCSpK9hi5x"
+      "duration_ms": 173350,
+      "name": "Can You Feel the Love Tonight",
+      "url": "https://open.spotify.com/track/63BZR6Dtvag8JSLYO0kiok"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "A Whole New Sound",
+        "url": "https://open.spotify.com/album/4rKpyXuKGtcZvaHFIXgjLP"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 180709,
+      "name": "I2I",
+      "url": "https://open.spotify.com/track/4cDdM4U471PF4npI3rtGPy"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -47,6 +63,110 @@
       "duration_ms": 214373,
       "name": "Part of Your World",
       "url": "https://open.spotify.com/track/5UK5ZeUAzy3Am4VeU6ouV8"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "A Whole New Sound",
+        "url": "https://open.spotify.com/album/4rKpyXuKGtcZvaHFIXgjLP"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 178823,
+      "name": "Part of Your World",
+      "url": "https://open.spotify.com/track/231Lyv9h2X1y3p1EKZIwtQ"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "This Wish (From \"Wish\")",
+        "url": "https://open.spotify.com/album/123gDnj9pBl8GNRLyOViC9"
+      },
+      "artists": [
+        {
+          "name": "Ariana DeBose",
+          "url": "https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 205480,
+      "name": "This Wish - From \"Wish\"",
+      "url": "https://open.spotify.com/track/5yvHjO06WHe7ETlgirLjbw"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "A Whole New Sound",
+        "url": "https://open.spotify.com/album/4rKpyXuKGtcZvaHFIXgjLP"
+      },
+      "artists": [
+        {
+          "name": "We The Kings",
+          "url": "https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 188827,
+      "name": "Go the Distance",
+      "url": "https://open.spotify.com/track/6jyKO0f6AAXUPiZn2ts95e"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "A Whole New Sound",
+        "url": "https://open.spotify.com/album/4rKpyXuKGtcZvaHFIXgjLP"
+      },
+      "artists": [
+        {
+          "name": "Plain White T's",
+          "url": "https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 170696,
+      "name": "Surface Pressure",
+      "url": "https://open.spotify.com/track/7lvv3G1HyMfbbq84P0Xs1d"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Aladdin Special Edition",
+        "url": "https://open.spotify.com/album/7bt2aty3lUo6Q1Ud8pthRz"
+      },
+      "artists": [
+        {
+          "name": "Lea Salonga",
+          "url": "https://open.spotify.com/artist/1GlMjIezcLwV3OFlX0uXOv"
+        },
+        {
+          "name": "Brad Kane",
+          "url": "https://open.spotify.com/artist/3dAzSJ9lQnJSq5Z0OgDBep"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 160800,
+      "name": "A Whole New World",
+      "url": "https://open.spotify.com/track/1hwdPQtFHISvZ9SXMkNrIK"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -71,26 +191,34 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Repeat (From \"ZOMBIES: The Re-Animated Series\")",
-        "url": "https://open.spotify.com/album/4MJ7b73h3DQ0tXsStJVEB3"
+        "name": "Elemental (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7L15PXtti3kXEn7vTXi8ZV"
       },
       "artists": [
         {
-          "name": "Milo Manheim",
-          "url": "https://open.spotify.com/artist/3Pkn59A7kZmnBHp7HBUcz5"
-        },
-        {
-          "name": "Meg Donnelly",
-          "url": "https://open.spotify.com/artist/0jcl46xRBm9LKIwrKGQPE6"
-        },
-        {
-          "name": "ZOMBIES \u2013 Cast",
-          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
         }
       ],
-      "duration_ms": 86446,
-      "name": "Repeat - From \"ZOMBIES: The Re-Animated Series\"",
-      "url": "https://open.spotify.com/track/1KQV8toC7lyGVgssbe5whq"
+      "duration_ms": 192506,
+      "name": "Steal The Show",
+      "url": "https://open.spotify.com/track/0SccFtYdj75y6lL2OW10Cf"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Tangled",
+        "url": "https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE"
+      },
+      "artists": [
+        {
+          "name": "Mandy Moore",
+          "url": "https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu"
+        }
+      ],
+      "duration_ms": 152333,
+      "name": "When Will My Life Begin? - From \"Tangled\" / Soundtrack Version",
+      "url": "https://open.spotify.com/track/03xWMkKEbeO4SnylA53ipj"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -151,26 +279,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "This Wish (From \"Wish\")",
-        "url": "https://open.spotify.com/album/123gDnj9pBl8GNRLyOViC9"
-      },
-      "artists": [
-        {
-          "name": "Ariana DeBose",
-          "url": "https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 205480,
-      "name": "This Wish - From \"Wish\"",
-      "url": "https://open.spotify.com/track/5yvHjO06WHe7ETlgirLjbw"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "Moana - Original Motion Picture Soundtrack/Deluxe Edition",
         "url": "https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs"
       },
@@ -187,26 +295,26 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Aladdin Special Edition",
-        "url": "https://open.spotify.com/album/7bt2aty3lUo6Q1Ud8pthRz"
+        "name": "Welcome To Rosas (From \"Wish\")",
+        "url": "https://open.spotify.com/album/4q3CESoBemRptRaga5teAx"
       },
       "artists": [
         {
-          "name": "Lea Salonga",
-          "url": "https://open.spotify.com/artist/1GlMjIezcLwV3OFlX0uXOv"
+          "name": "Ariana DeBose",
+          "url": "https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs"
         },
         {
-          "name": "Brad Kane",
-          "url": "https://open.spotify.com/artist/3dAzSJ9lQnJSq5Z0OgDBep"
+          "name": "Wish - Cast",
+          "url": "https://open.spotify.com/artist/5OLl3QAQOcnab5ofRR05jM"
         },
         {
           "name": "Disney",
           "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
-      "duration_ms": 160800,
-      "name": "A Whole New World",
-      "url": "https://open.spotify.com/track/1hwdPQtFHISvZ9SXMkNrIK"
+      "duration_ms": 147946,
+      "name": "Welcome To Rosas - From \"Wish\"",
+      "url": "https://open.spotify.com/track/2WjNeDXYk0EdyCSpK9hi5x"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -299,22 +407,6 @@
       "duration_ms": 170880,
       "name": "I Just Can't Wait to Be King",
       "url": "https://open.spotify.com/track/0qxtQ8rf3W1nId3D2r0xH4"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Elemental (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7L15PXtti3kXEn7vTXi8ZV"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 192506,
-      "name": "Steal The Show",
-      "url": "https://open.spotify.com/track/0SccFtYdj75y6lL2OW10Cf"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -643,22 +735,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Tangled",
-        "url": "https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE"
-      },
-      "artists": [
-        {
-          "name": "Mandy Moore",
-          "url": "https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu"
-        }
-      ],
-      "duration_ms": 152333,
-      "name": "When Will My Life Begin? - From \"Tangled\" / Soundtrack Version",
-      "url": "https://open.spotify.com/track/03xWMkKEbeO4SnylA53ipj"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "Mulan (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3Ohs7Jo6GM6mydUOL0m5aC"
       },
@@ -679,6 +755,30 @@
       "duration_ms": 201680,
       "name": "I'll Make a Man Out of You",
       "url": "https://open.spotify.com/track/28UMEtwyUUy5u0UWOVHwiI"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Repeat (From \"ZOMBIES: The Re-Animated Series\")",
+        "url": "https://open.spotify.com/album/4MJ7b73h3DQ0tXsStJVEB3"
+      },
+      "artists": [
+        {
+          "name": "Milo Manheim",
+          "url": "https://open.spotify.com/artist/3Pkn59A7kZmnBHp7HBUcz5"
+        },
+        {
+          "name": "Meg Donnelly",
+          "url": "https://open.spotify.com/artist/0jcl46xRBm9LKIwrKGQPE6"
+        },
+        {
+          "name": "ZOMBIES \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
+        }
+      ],
+      "duration_ms": 86446,
+      "name": "Repeat - From \"ZOMBIES: The Re-Animated Series\"",
+      "url": "https://open.spotify.com/track/1KQV8toC7lyGVgssbe5whq"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -2827,6 +2927,46 @@
       "duration_ms": 245957,
       "name": "Trip a Little Light Fantastic - From \"Mary Poppins Returns\"/Edit",
       "url": "https://open.spotify.com/track/5YWSlrbFrK7X0ENL0uK9Uz"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Frozen - Original Motion Picture Soundtrack / Deluxe Edition",
+        "url": "https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0"
+      },
+      "artists": [
+        {
+          "name": "Maia Wilson",
+          "url": "https://open.spotify.com/artist/5FghcZFWriEQFftyizgKEU"
+        },
+        {
+          "name": "Cast - Frozen",
+          "url": "https://open.spotify.com/artist/2GOnnsN5XmABjEwX1fstby"
+        }
+      ],
+      "duration_ms": 182106,
+      "name": "Fixer Upper - From \"Frozen\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/5covTs92HnHJwAWrXF7l14"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Moana - Original Motion Picture Soundtrack/Deluxe Edition",
+        "url": "https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs"
+      },
+      "artists": [
+        {
+          "name": "Rachel House",
+          "url": "https://open.spotify.com/artist/1kB7GlXzdNWl28zLcOkQqU"
+        },
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        }
+      ],
+      "duration_ms": 162826,
+      "name": "I Am Moana (Song of the Ancestors)",
+      "url": "https://open.spotify.com/track/6uk7QQiWRDjPHSiSMZlez8"
     }
   ],
   "unique_name": "Disney Sing-Alongs",

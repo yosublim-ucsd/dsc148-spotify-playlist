@@ -3104,7 +3104,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 178080,
       "name": "Glad U Came",
       "url": "https://open.spotify.com/track/3g5OlVimHO0rK6qmRiwokX"
@@ -4536,6 +4536,28 @@
       "duration_ms": 267240,
       "name": "Lionel Richie",
       "url": "https://open.spotify.com/track/1EfF2gJNuksJeHXLevKoFf"
+    },
+    {
+      "album": {
+        "name": "Little Bit Of Love",
+        "url": "https://open.spotify.com/album/4Vn0Or9ZlSlXv34n9lF0x7"
+      },
+      "artists": [
+        {
+          "name": "Magic City Hippies",
+          "url": "https://open.spotify.com/artist/1ikg4sypcURm8Vy5GP68xb"
+        },
+        {
+          "name": "Antwaun Stanley",
+          "url": "https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258784,
+      "name": "Little Bit Of Love",
+      "url": "https://open.spotify.com/track/4IlZ2afqEfOgAtHBbtkQhg"
     },
     {
       "album": {
@@ -8743,6 +8765,28 @@
     },
     {
       "album": {
+        "name": "What Dreams Are Made Of",
+        "url": "https://open.spotify.com/album/0kL1SGJErc8xcyAMY2NgMZ"
+      },
+      "artists": [
+        {
+          "name": "Lyrics Born",
+          "url": "https://open.spotify.com/artist/3X3DHASP1G1waqVoEDWMHr"
+        },
+        {
+          "name": "Joyo Velarde",
+          "url": "https://open.spotify.com/artist/421XkmAzrTjRzfKxYG3Den"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223142,
+      "name": "What Dreams Are Made Of",
+      "url": "https://open.spotify.com/track/1445ytlUaJdffrICHr77at"
+    },
+    {
+      "album": {
         "name": "What's Up What's Down",
         "url": "https://open.spotify.com/album/2EOUib6Y3yahXmPNG1QXkq"
       },
@@ -9250,7 +9294,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 156616,
       "name": "You'll Love It",
       "url": "https://open.spotify.com/track/1l5VfyPMwAv8Vibd2baoD2"

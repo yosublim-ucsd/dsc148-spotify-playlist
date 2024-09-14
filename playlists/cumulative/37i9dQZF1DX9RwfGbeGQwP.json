@@ -8957,6 +8957,24 @@
     },
     {
       "album": {
+        "name": "Glenmore",
+        "url": "https://open.spotify.com/album/5XKRlZAf9dSL4nMAPlRAR1"
+      },
+      "artists": [
+        {
+          "name": "lorleaf",
+          "url": "https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116238,
+      "name": "Glenmore",
+      "url": "https://open.spotify.com/track/73l8ddiWBcggsz1NqA1pIv"
+    },
+    {
+      "album": {
         "name": "Glimmer",
         "url": "https://open.spotify.com/album/2U5infJxCF83jzqiqasVyJ"
       },
@@ -10627,6 +10645,24 @@
     },
     {
       "album": {
+        "name": "hot chocolate",
+        "url": "https://open.spotify.com/album/6iVanXQ74zG5Mf52FsVrIy"
+      },
+      "artists": [
+        {
+          "name": "narpy",
+          "url": "https://open.spotify.com/artist/6HooP8zYHkpZmM0I9H0tmo"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92086,
+      "name": "hot chocolate",
+      "url": "https://open.spotify.com/track/01qfQeaiIl62qPTRHp4A7w"
+    },
+    {
+      "album": {
         "name": "The Secret",
         "url": "https://open.spotify.com/album/5E0KO37Nfh58iTAsZZQwmq"
       },
@@ -10714,7 +10750,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 107724,
       "name": "I can feel it",
       "url": "https://open.spotify.com/track/0VkfOFnwM8Qe2rJ4CAgPGS"
@@ -12156,7 +12192,7 @@
       ],
       "date_added": "2022-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 136666,
       "name": "Jump Street",
       "url": "https://open.spotify.com/track/17fOJI0gHFFvxsSvUaVUPZ"
@@ -18070,7 +18106,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 117600,
       "name": "Peppercorn",
       "url": "https://open.spotify.com/track/4pFsf2YT6OhMnxk4znjYKR"
@@ -18910,7 +18946,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-29",
+      "date_removed": null,
       "duration_ms": 122014,
       "name": "pyjamas",
       "url": "https://open.spotify.com/track/2hUhKjunV4ryNKlQmnDqN0"
@@ -19282,7 +19318,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 136231,
       "name": "recline",
       "url": "https://open.spotify.com/track/2YnECW2yH3lvRGeMHTCqY0"
@@ -22206,6 +22242,24 @@
       "duration_ms": 124868,
       "name": "Square",
       "url": "https://open.spotify.com/track/3fRppxMcSzxXIvQwEuMtV4"
+    },
+    {
+      "album": {
+        "name": "Stacks",
+        "url": "https://open.spotify.com/album/2mVEfdt55X9RHZLELJhYtt"
+      },
+      "artists": [
+        {
+          "name": "HYYPNOTIC",
+          "url": "https://open.spotify.com/artist/7xYrUsHYH5J0hYgxHyx6PM"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163214,
+      "name": "Stacks",
+      "url": "https://open.spotify.com/track/5ZaDdUug7zmuk17YGoXhzx"
     },
     {
       "album": {

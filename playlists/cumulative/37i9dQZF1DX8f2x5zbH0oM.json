@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-19",
-  "description": "La playlist au-del\u00e0 des genres. Photo : Jungle",
+  "description": "La playlist au-del\u00e0 des genres. Photo : Central Cee x RAYE",
   "name": "La Cr\u00e8me",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 191990,
       "name": "AA BOUQUET FOR YOUR 180 FACE",
       "url": "https://open.spotify.com/track/2T9XG0dOWvJw23EUC8YIn5"
@@ -92,7 +92,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 162893,
       "name": "Afraid Of Losing",
       "url": "https://open.spotify.com/track/5qnvxphQjJ8YKLihhMZnJx"
@@ -454,7 +454,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 172217,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/4QvchxEDRzAosUOkZzJGI6"
@@ -676,7 +676,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 366645,
       "name": "Ciao Satan",
       "url": "https://open.spotify.com/track/7CO8WNdQaCT9crqPGdyMKo"
@@ -917,6 +917,24 @@
     },
     {
       "album": {
+        "name": "Eusexua",
+        "url": "https://open.spotify.com/album/79TS6ylaLCH8VRFSLhvLvj"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263693,
+      "name": "Eusexua",
+      "url": "https://open.spotify.com/track/7FdDBpqrdpWtdAromLpv4V"
+    },
+    {
+      "album": {
         "name": "Eyes on my baby",
         "url": "https://open.spotify.com/album/6dVL5KrLrQeJM1IxKnkKhZ"
       },
@@ -1136,6 +1154,24 @@
       "duration_ms": 179160,
       "name": "Grey Scale",
       "url": "https://open.spotify.com/track/33zlW22yOTjdRB1X7SRdzU"
+    },
+    {
+      "album": {
+        "name": "Had Enough",
+        "url": "https://open.spotify.com/album/1MK61U71q2xC6VXFR8D4X2"
+      },
+      "artists": [
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213644,
+      "name": "Had Enough",
+      "url": "https://open.spotify.com/track/1SYAIGgec3CYyBVEx54yPV"
     },
     {
       "album": {
@@ -1529,6 +1565,28 @@
     },
     {
       "album": {
+        "name": "In My Dreams",
+        "url": "https://open.spotify.com/album/5XSd8ZVFkVv0VsCznOA6Ia"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290625,
+      "name": "In My Dreams",
+      "url": "https://open.spotify.com/track/0cs3wJc2hHHGHw13ZTYf5j"
+    },
+    {
+      "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/4DocDEGzuG9MzMzRUY6Fuy"
       },
@@ -1624,6 +1682,28 @@
       "duration_ms": 183426,
       "name": "Jamais Vu Le Jour",
       "url": "https://open.spotify.com/track/47rWS9nS6QNjBtjsjfEoyV"
+    },
+    {
+      "album": {
+        "name": "ten days",
+        "url": "https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "SOAK",
+          "url": "https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260997,
+      "name": "just stand there",
+      "url": "https://open.spotify.com/track/2D9a9CXeo3HFtVeaNlzp4a"
     },
     {
       "album": {
@@ -1943,6 +2023,28 @@
     },
     {
       "album": {
+        "name": "Moi",
+        "url": "https://open.spotify.com/album/78gWVhHs5g8ba0m11hDYGw"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174533,
+      "name": "Moi",
+      "url": "https://open.spotify.com/track/5AXNh6mEr2z8UFlqm8ftRH"
+    },
+    {
+      "album": {
         "name": "Moments Die",
         "url": "https://open.spotify.com/album/4g3THqLL3e4LQjglICSQl1"
       },
@@ -2222,7 +2324,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 158426,
       "name": "Once in a Lifetime",
       "url": "https://open.spotify.com/track/2u7SG14j5vzSwxttBoGO2A"
@@ -2436,7 +2538,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 181500,
       "name": "Rockin My World",
       "url": "https://open.spotify.com/track/6HW2JkmIH0XbAdG2hrQY2n"
@@ -3435,6 +3537,24 @@
     },
     {
       "album": {
+        "name": "What\u2019s It Take to Be a Star?",
+        "url": "https://open.spotify.com/album/5b8CFomatusCobpOtmnNdJ"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168176,
+      "name": "What\u2019s It Take to Be a Star?",
+      "url": "https://open.spotify.com/track/1PUSZJtA4Q7WGT6uX6lyQw"
+    },
+    {
+      "album": {
         "name": "Who Did You Touch?",
         "url": "https://open.spotify.com/album/4XBvrhmXpxJBV87B1Oh0a7"
       },
@@ -3446,7 +3566,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 208732,
       "name": "Who Did You Touch?",
       "url": "https://open.spotify.com/track/3YngBnCS5hVTrF0fu2EYGG"
@@ -3494,6 +3614,24 @@
       "duration_ms": 227000,
       "name": "Witchy (feat. Childish Gambino)",
       "url": "https://open.spotify.com/track/1PxKsGzQcmiwDHvA9ig5gv"
+    },
+    {
+      "album": {
+        "name": "Kiss & Forget",
+        "url": "https://open.spotify.com/album/0BmeDz35wEqY5CKOA8vah0"
+      },
+      "artists": [
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218929,
+      "name": "You Belong To No-One",
+      "url": "https://open.spotify.com/track/4Zp4cKltb5SYVKnkKizfIG"
     },
     {
       "album": {

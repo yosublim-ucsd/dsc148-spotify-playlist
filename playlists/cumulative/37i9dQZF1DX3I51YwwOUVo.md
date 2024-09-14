@@ -2,9 +2,9 @@
 
 ### [Artists To Watch 2024](https://open.spotify.com/playlist/37i9dQZF1DX3I51YwwOUVo)
 
-> Get to know our 2024 Artists to Watch! Cover: Sam Barber
+> Get to know our 2024 Artists to Watch! Cover: Estevie
 
-100 songs - 5 hr 28 min
+101 songs - 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [CHUPA COÑO](https://open.spotify.com/track/3e0e2wQgq06Ht7Y1po72uQ) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [SATA 42](https://open.spotify.com/album/4k9YQ4z1BXtSB1XxN9oGDY) | 2:05 | 2024-07-19 |  |
 | [Coal](https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Coal](https://open.spotify.com/album/5c5a2dLd2qLVN5zlaOcKJQ) | 3:14 | 2024-01-10 |  |
 | [Corazón Frío](https://open.spotify.com/track/0KSwFEkVh0KCBR0TwqBVen) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Corazón Frío](https://open.spotify.com/album/7aC9iMxYc7mHTN3mJWZFc1) | 4:23 | 2024-01-10 |  |
+| [Corazón Tatuado](https://open.spotify.com/track/0GuqlRQXjabf174DAMRfSl) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [Corazón Tatuado](https://open.spotify.com/album/7A7LZAFX4c93RMMWtzsSMW) | 3:19 | 2024-09-13 |  |
 | [Damn These Forces](https://open.spotify.com/track/7AuNXwgiihfpxY6Y9iSvFs) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Act 3: The Dying of Self](https://open.spotify.com/album/0HNHiByjs6Qsfkw2XZ0XeC) | 3:30 | 2024-04-19 |  |
 | [Dark Angel](https://open.spotify.com/track/58lQsFCu6wlgDvOI0MjMmu) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [Dark Angel](https://open.spotify.com/album/7vLW18eOsIVNFMqiBGXafe) | 6:15 | 2024-01-10 |  |
 | [DECLAN RICE](https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [DECLAN RICE](https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy) | 2:04 | 2024-01-10 |  |
@@ -52,7 +53,7 @@
 | [Jealous](https://open.spotify.com/track/5Ir9mqfAUnXkSkXHF1yvM0) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [Jealous](https://open.spotify.com/album/4Kka250AUtEvx1XUuoNHfZ) | 4:16 | 2024-01-10 | 2024-07-27 |
 | [Knocking At My Door](https://open.spotify.com/track/4goD7afmHrKjGNLmNh3MVE) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Knocking At My Door](https://open.spotify.com/album/2k7mLxuz7WHnmsiVrI2mmD) | 3:10 | 2024-08-23 |  |
 | [La Diabla](https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [La Diabla](https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v) | 2:52 | 2024-01-10 |  |
-| [la manera que me ves](https://open.spotify.com/track/52uZksxrYq597nsAn7LDxt) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [la manera que me ves](https://open.spotify.com/album/5gZF8qpBbCqS3wFM5auROr) | 3:49 | 2024-05-24 |  |
+| [la manera que me ves](https://open.spotify.com/track/52uZksxrYq597nsAn7LDxt) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [la manera que me ves](https://open.spotify.com/album/5gZF8qpBbCqS3wFM5auROr) | 3:49 | 2024-05-24 | 2024-09-14 |
 | [labour](https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour](https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn) | 3:57 | 2024-01-10 |  |
 | [lesson learned](https://open.spotify.com/track/2rNqKSbPV283cPSS8uePpT) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [lesson learned](https://open.spotify.com/album/0yXub8Il8KnUlH5n2zm8lN) | 3:08 | 2024-04-12 |  |
 | [Locomotiva Ibiza 2099 feat\. VTSS](https://open.spotify.com/track/3VuPtliMz0oXO9bDnA1CHq) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo), [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Locomotiva Ibiza 2099 I](https://open.spotify.com/album/42Jkaomtfh39feqVwQKvUm) | 6:39 | 2024-07-26 |  |

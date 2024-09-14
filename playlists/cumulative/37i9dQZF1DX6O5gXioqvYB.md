@@ -2,7 +2,7 @@
 
 ### [Scuola Indie](https://open.spotify.com/playlist/37i9dQZF1DX6O5gXioqvYB)
 
-> La nuova scena indie italiana! Cover: Bartolini
+> La nuova scena indie italiana! Cover: Missey
 
 139 songs - 6 hr 46 min
 

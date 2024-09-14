@@ -2139,6 +2139,24 @@
     },
     {
       "album": {
+        "name": "Love Story - Instrumental",
+        "url": "https://open.spotify.com/album/6Q9kKG8ZkVb8mq9FptA793"
+      },
+      "artists": [
+        {
+          "name": "Marco Velocci",
+          "url": "https://open.spotify.com/artist/0fey1vDYFmbGGRWCo1iwWe"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248569,
+      "name": "Love Story - Instrumental",
+      "url": "https://open.spotify.com/track/2J9w2niEdBNS8fQyoPUqj1"
+    },
+    {
+      "album": {
         "name": "Lovely",
         "url": "https://open.spotify.com/album/7xnlemZnanmESpkrPmWfuC"
       },

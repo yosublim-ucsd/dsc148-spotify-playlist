@@ -1,12 +1,12 @@
 {
-  "description": "This is Akon. The essential tracks, all in one playlist.",
-  "num_followers": 304411,
+  "description": "This is Akon. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 304511,
   "original_name": "This Is Akon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuDdgAAAAABTizsPdmIBjGceRBBTYHw5",
+  "snapshot_id": "ZuIvAAAAAADABciREMu86wZ9VdqA6ufb",
   "tracks": [
     {
       "added_at": null,
@@ -963,26 +963,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Afro Vibes",
-        "url": "https://open.spotify.com/album/1iQijMFf2omolFxF3gL4RQ"
+        "name": "Konvicted",
+        "url": "https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq"
       },
       "artists": [
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        },
         {
           "name": "Akon",
           "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
         },
         {
-          "name": "Maffio",
-          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
+          "name": "Styles P",
+          "url": "https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX"
         }
       ],
-      "duration_ms": 187050,
-      "name": "Paraca\u00eddas",
-      "url": "https://open.spotify.com/track/3YB1ZRRVXp15JOwr6ws6IF"
+      "duration_ms": 209013,
+      "name": "Blown Away",
+      "url": "https://open.spotify.com/track/3nFQ4HligCOvCmaowewlLM"
     },
     {
       "added_at": null,
@@ -1007,22 +1003,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Konvicted",
-        "url": "https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq"
+        "name": "Afro Vibes",
+        "url": "https://open.spotify.com/album/1iQijMFf2omolFxF3gL4RQ"
       },
       "artists": [
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        },
         {
           "name": "Akon",
           "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
         },
         {
-          "name": "Styles P",
-          "url": "https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX"
+          "name": "Maffio",
+          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
         }
       ],
-      "duration_ms": 209013,
-      "name": "Blown Away",
-      "url": "https://open.spotify.com/track/3nFQ4HligCOvCmaowewlLM"
+      "duration_ms": 187050,
+      "name": "Paraca\u00eddas",
+      "url": "https://open.spotify.com/track/3YB1ZRRVXp15JOwr6ws6IF"
     }
   ],
   "unique_name": "This Is Akon",

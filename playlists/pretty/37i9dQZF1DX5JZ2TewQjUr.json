@@ -1,6 +1,6 @@
 {
   "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: Juniper Care",
-  "num_followers": 12577,
+  "num_followers": 12581,
   "original_name": "+852 Rising",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,22 @@
     {
       "added_at": "2024-09-12 16:00:00",
       "album": {
+        "name": "you're not my destiny",
+        "url": "https://open.spotify.com/album/4iHJ010BXdhkZ6c9LO57eA"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Tee",
+          "url": "https://open.spotify.com/artist/7gVbYtrrCyYLzj48No9W9S"
+        }
+      ],
+      "duration_ms": 235307,
+      "name": "you're not my destiny",
+      "url": "https://open.spotify.com/track/0djlNOVXzPTROPhJmpQDRQ"
+    },
+    {
+      "added_at": "2024-09-12 16:00:00",
+      "album": {
         "name": "Dear Vicky",
         "url": "https://open.spotify.com/album/2KG65Y4EddM3fmtJvK03ws"
       },
@@ -112,12 +128,12 @@
       },
       "artists": [
         {
-          "name": "Deb Fan",
-          "url": "https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m"
-        },
-        {
           "name": "miso808",
           "url": "https://open.spotify.com/artist/4JYjh6QC7QnE3KLjtyrCUz"
+        },
+        {
+          "name": "Deb Fan",
+          "url": "https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m"
         }
       ],
       "duration_ms": 167290,

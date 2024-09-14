@@ -4144,7 +4144,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 205492,
       "name": "Bring Me Down",
       "url": "https://open.spotify.com/track/2VIZvfKJFT2YHqHqkM2qhs"
@@ -4388,6 +4388,24 @@
       "duration_ms": 187142,
       "name": "Bump",
       "url": "https://open.spotify.com/track/27X0DzpPoWQrmN1NYQ83Rv"
+    },
+    {
+      "album": {
+        "name": "Bump Artist EP",
+        "url": "https://open.spotify.com/album/0P9dO1oLVImxme2Pi03QLb"
+      },
+      "artists": [
+        {
+          "name": "Sosa UK",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203636,
+      "name": "Bump Artist",
+      "url": "https://open.spotify.com/track/1KPJ8va5CxcrWrpZ62HE5f"
     },
     {
       "album": {
@@ -5360,6 +5378,24 @@
       "duration_ms": 155520,
       "name": "Carry On",
       "url": "https://open.spotify.com/track/0MzErqKtUmrdmCCNi8QAIA"
+    },
+    {
+      "album": {
+        "name": "Carry Out",
+        "url": "https://open.spotify.com/album/1QOQ80MmlF3Fy3UDh2cG26"
+      },
+      "artists": [
+        {
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178500,
+      "name": "Carry Out",
+      "url": "https://open.spotify.com/track/3elIx1XEFShZBFa4B6mpAS"
     },
     {
       "album": {
@@ -7056,7 +7092,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 231802,
       "name": "Dat Drip",
       "url": "https://open.spotify.com/track/1Ib8CVpUEKuqfnIB9T5gt8"
@@ -7555,6 +7591,28 @@
     },
     {
       "album": {
+        "name": "Dirty Secret",
+        "url": "https://open.spotify.com/album/2MjsOdIeKpl0xtr1nqW0PN"
+      },
+      "artists": [
+        {
+          "name": "Wahlstedt",
+          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
+        },
+        {
+          "name": "BAN DELLO",
+          "url": "https://open.spotify.com/artist/4BrGkYYLoyb06i8FeuXV8v"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151277,
+      "name": "Dirty Secret",
+      "url": "https://open.spotify.com/track/2EbHWANHfsdKXx1OH40hfw"
+    },
+    {
+      "album": {
         "name": "Disconnected",
         "url": "https://open.spotify.com/album/6SGpVej56gEYCk3Z0u8ZSP"
       },
@@ -7726,7 +7784,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 191931,
       "name": "Do It Like That",
       "url": "https://open.spotify.com/track/0h4S0B2nRZrnIOej34O6TA"
@@ -8086,7 +8144,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 199603,
       "name": "Don't Know (What)",
       "url": "https://open.spotify.com/track/7gbt2lraiddkd9qUNpmorf"
@@ -10903,6 +10961,28 @@
     },
     {
       "album": {
+        "name": "Firestarter",
+        "url": "https://open.spotify.com/album/6IDyDOPO6hJIe5l2zZXe7h"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184290,
+      "name": "Firestarter",
+      "url": "https://open.spotify.com/track/40zrIbnQI3a3JRUvlKqoHT"
+    },
+    {
+      "album": {
         "name": "Flamenco",
         "url": "https://open.spotify.com/album/1aQbcFvUGv1pIWfnJO9psA"
       },
@@ -11882,7 +11962,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 205714,
       "name": "Get Hard",
       "url": "https://open.spotify.com/track/2CWqNo8w5cMePz6Bt06IGJ"
@@ -14246,7 +14326,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 159534,
       "name": "Hustlin'",
       "url": "https://open.spotify.com/track/08j5W9R5lK3sBXo1A4zgGz"
@@ -15810,7 +15890,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 152304,
       "name": "It's Not Right But It's Okay",
       "url": "https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj"
@@ -16084,6 +16164,24 @@
       "duration_ms": 210585,
       "name": "Junglist",
       "url": "https://open.spotify.com/track/40E2w7AGNUFx4roieo6ekh"
+    },
+    {
+      "album": {
+        "name": "Just Some Beats EP",
+        "url": "https://open.spotify.com/album/6mQzVI9NCLtBZohrQUNjDs"
+      },
+      "artists": [
+        {
+          "name": "Andrew Mathers",
+          "url": "https://open.spotify.com/artist/5rjFsTXq2iEMk09Pxtz2U0"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136386,
+      "name": "Just A Beat",
+      "url": "https://open.spotify.com/track/5J5aaEvB9wPSB1uS7Ckub6"
     },
     {
       "album": {
@@ -21817,6 +21915,28 @@
     },
     {
       "album": {
+        "name": "Locomotiva Ibiza 2099 II",
+        "url": "https://open.spotify.com/album/6nIry8iPceW6XDXT8UTSUm"
+      },
+      "artists": [
+        {
+          "name": "Mochakk",
+          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
+        },
+        {
+          "name": "Tommy Genesis",
+          "url": "https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352500,
+      "name": "No Boys Allowed - OG House Mix",
+      "url": "https://open.spotify.com/track/5ECEMutDIhmSKM6MkJuVc3"
+    },
+    {
+      "album": {
         "name": "No Diggity",
         "url": "https://open.spotify.com/album/6DrWFEGlG6lAceLqqAv8st"
       },
@@ -27114,6 +27234,24 @@
       "duration_ms": 173333,
       "name": "Serena - Sllash & Doppe Remix",
       "url": "https://open.spotify.com/track/2DXQY8exHvsjmvOx3jnXkt"
+    },
+    {
+      "album": {
+        "name": "Seshy Fodder",
+        "url": "https://open.spotify.com/album/3Ye84pfuDeRXPG1dHe7LWb"
+      },
+      "artists": [
+        {
+          "name": "Low Steppa",
+          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194062,
+      "name": "Seshy Fodder",
+      "url": "https://open.spotify.com/track/2NOfaoUyMBxdjKpICgogPr"
     },
     {
       "album": {

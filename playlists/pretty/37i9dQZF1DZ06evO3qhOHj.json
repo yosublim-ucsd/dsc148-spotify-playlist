@@ -1,12 +1,12 @@
 {
   "description": "This is Mr. Big. The essential tracks, all in one playlist.",
-  "num_followers": 27903,
+  "num_followers": 27919,
   "original_name": "This Is Mr. Big",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuDdgAAAAADHnXYnu0weXENY88NcT2li",
+  "snapshot_id": "ZuIvAAAAAACvEmibketYTY/gAW+TyKmR",
   "tracks": [
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lean Into It [Expanded]",
-        "url": "https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 329080,
-      "name": "Alive and Kickin' - 2010 Remastered Version",
-      "url": "https://open.spotify.com/track/6pA0ZXLhjIVeo6rDQIHzHm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mr. Big [Expanded]",
         "url": "https://open.spotify.com/album/18HPDet34B8LwgCfagDeZd"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 278160,
       "name": "Anything For You - 2009 Remastered Version",
       "url": "https://open.spotify.com/track/2QUeoJUK5KYn6P6medGcgM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lean Into It [Expanded]",
+        "url": "https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 329080,
+      "name": "Alive and Kickin' - 2010 Remastered Version",
+      "url": "https://open.spotify.com/track/6pA0ZXLhjIVeo6rDQIHzHm"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/7uV3SQQ8UOlvZOnEh1E8xi"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 222506,
-      "name": "Strike Like Lightning - Remastered",
-      "url": "https://open.spotify.com/track/58LtaOiGBPEeVbJUUxXFRE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What If...",
         "url": "https://open.spotify.com/album/378UK4ew1Emc72jH4KzRfq"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 288746,
       "name": "Undertow",
       "url": "https://open.spotify.com/track/3g811urVvhkvAv3fT5BzTq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/7uV3SQQ8UOlvZOnEh1E8xi"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 222506,
+      "name": "Strike Like Lightning - Remastered",
+      "url": "https://open.spotify.com/track/58LtaOiGBPEeVbJUUxXFRE"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lean Into It (30th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 252533,
-      "name": "My Kinda Woman - 2021 Remastered",
-      "url": "https://open.spotify.com/track/1AE0h9TKvWIwnpFzmuFYad"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What If...",
         "url": "https://open.spotify.com/album/1HSKINJIwGJj6ECnx9gSiP"
       },
@@ -619,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lean Into It (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 252533,
+      "name": "My Kinda Woman - 2021 Remastered",
+      "url": "https://open.spotify.com/track/1AE0h9TKvWIwnpFzmuFYad"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ten",
         "url": "https://open.spotify.com/album/0VFZor3wm9hExOCGIGmijC"
       },
@@ -644,25 +644,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 239173,
-      "name": "Road to Ruin - 2010 Remastered Version",
-      "url": "https://open.spotify.com/track/2mkrQ6styM2orpDSCTmfm8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hey Man [Expanded]",
-        "url": "https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 226706,
-      "name": "The Chain",
-      "url": "https://open.spotify.com/track/4z0gMSL3Z1pIdt8Psi2P6D"
+      "duration_ms": 229280,
+      "name": "Never Say Never - 2010 Remastered Version",
+      "url": "https://open.spotify.com/track/7e8gvHt0e4vw55RUAlq25X"
     },
     {
       "added_at": null,
@@ -679,6 +663,22 @@
       "duration_ms": 300293,
       "name": "Nothing Like It In The World",
       "url": "https://open.spotify.com/track/3TcMPHNlBkwvMy5b3k041x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hey Man [Expanded]",
+        "url": "https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 226706,
+      "name": "The Chain",
+      "url": "https://open.spotify.com/track/4z0gMSL3Z1pIdt8Psi2P6D"
     },
     {
       "added_at": null,
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 229280,
-      "name": "Never Say Never - 2010 Remastered Version",
-      "url": "https://open.spotify.com/track/7e8gvHt0e4vw55RUAlq25X"
+      "duration_ms": 239173,
+      "name": "Road to Ruin - 2010 Remastered Version",
+      "url": "https://open.spotify.com/track/2mkrQ6styM2orpDSCTmfm8"
     },
     {
       "added_at": null,

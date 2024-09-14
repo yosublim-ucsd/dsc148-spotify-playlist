@@ -1,12 +1,12 @@
 {
-  "description": "This is Tom Petty and the Heartbreakers. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 819,
+  "description": "This is Tom Petty and the Heartbreakers. The essential tracks, all in one playlist.",
+  "num_followers": 821,
   "original_name": "This Is Tom Petty and the Heartbreakers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuDdgAAAAACR9+QOmfyg/V5Y4wjmCcup",
+  "snapshot_id": "ZuIvAAAAAADZuzCR4j0slsZ9Mxy2t3x8",
   "tracks": [
     {
       "added_at": null,
@@ -351,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mojo",
-        "url": "https://open.spotify.com/album/1x0nxFkOWytBolK91qkUSJ"
+        "name": "Tom Petty And The Heatbreakers",
+        "url": "https://open.spotify.com/album/0JBy4lxBlQIxMZ8qPMIJER"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 215613,
-      "name": "I Should Have Known It",
-      "url": "https://open.spotify.com/track/0qyQKbbPLaG9FIENFTL7KY"
+      "duration_ms": 144026,
+      "name": "Anything That's Rock 'N' Roll",
+      "url": "https://open.spotify.com/track/1Un5JIygMYuV5OLVHERTQY"
     },
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tom Petty And The Heatbreakers",
-        "url": "https://open.spotify.com/album/0JBy4lxBlQIxMZ8qPMIJER"
+        "name": "Mojo",
+        "url": "https://open.spotify.com/album/1x0nxFkOWytBolK91qkUSJ"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 144026,
-      "name": "Anything That's Rock 'N' Roll",
-      "url": "https://open.spotify.com/track/1Un5JIygMYuV5OLVHERTQY"
+      "duration_ms": 215613,
+      "name": "I Should Have Known It",
+      "url": "https://open.spotify.com/track/0qyQKbbPLaG9FIENFTL7KY"
     },
     {
       "added_at": null,
@@ -631,26 +631,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Concert For George (Live)",
-        "url": "https://open.spotify.com/album/6EvU9hFh2ZPeumNOFy1dAu"
+        "name": "The Live Anthology",
+        "url": "https://open.spotify.com/album/1O804nfr6T6BvswqLqd3Lh"
       },
       "artists": [
         {
           "name": "Tom Petty and the Heartbreakers",
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        },
-        {
-          "name": "Jeff Lynne",
-          "url": "https://open.spotify.com/artist/3bTAaMx9nf237AkBnGw3vL"
-        },
-        {
-          "name": "Dhani Harrison",
-          "url": "https://open.spotify.com/artist/0BNG5EOWoNlIE1Q1c4L0Kh"
         }
       ],
-      "duration_ms": 207067,
-      "name": "Handle With Care - Live",
-      "url": "https://open.spotify.com/track/47yw82GNS8dhab1nXfZSIx"
+      "duration_ms": 169893,
+      "name": "Alright for Now - Live",
+      "url": "https://open.spotify.com/track/24PCWkrRVYdt6b7TT9gd6s"
     },
     {
       "added_at": null,
@@ -687,18 +679,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Live Anthology",
-        "url": "https://open.spotify.com/album/1O804nfr6T6BvswqLqd3Lh"
+        "name": "Concert For George (Live)",
+        "url": "https://open.spotify.com/album/6EvU9hFh2ZPeumNOFy1dAu"
       },
       "artists": [
         {
           "name": "Tom Petty and the Heartbreakers",
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        },
+        {
+          "name": "Jeff Lynne",
+          "url": "https://open.spotify.com/artist/3bTAaMx9nf237AkBnGw3vL"
+        },
+        {
+          "name": "Dhani Harrison",
+          "url": "https://open.spotify.com/artist/0BNG5EOWoNlIE1Q1c4L0Kh"
         }
       ],
-      "duration_ms": 169893,
-      "name": "Alright for Now - Live",
-      "url": "https://open.spotify.com/track/24PCWkrRVYdt6b7TT9gd6s"
+      "duration_ms": 207067,
+      "name": "Handle With Care - Live",
+      "url": "https://open.spotify.com/track/47yw82GNS8dhab1nXfZSIx"
     },
     {
       "added_at": null,

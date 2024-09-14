@@ -1,13 +1,29 @@
 {
-  "description": "The best and latest rock and alternative. Cover: Japandroids",
-  "num_followers": 9905,
+  "description": "The best and latest rock and alternative. Cover: Dear Rouge",
+  "num_followers": 9904,
   "original_name": "New Rock Music",
   "owner": {
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAb4o93RcvynRQRUyoNmF61ztV0OoM9",
+  "snapshot_id": "AAAb5eD/1HCs3OIfaOKOb4kVQ+D1b/kV",
   "tracks": [
+    {
+      "added_at": "2024-09-13 15:30:13",
+      "album": {
+        "name": "Lonesome High",
+        "url": "https://open.spotify.com/album/4nxTG4gCfU6NCW0ysPsR1S"
+      },
+      "artists": [
+        {
+          "name": "Dear Rouge",
+          "url": "https://open.spotify.com/artist/0YkjOpIntNmlG1PNF2dqSy"
+        }
+      ],
+      "duration_ms": 211693,
+      "name": "Cutting Teeth",
+      "url": "https://open.spotify.com/track/4jHUoa1bJQllm0drhADKAl"
+    },
     {
       "added_at": "2024-09-06 13:46:12",
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Hasta las 15! Monster merengue hits! Cover: Manuel Turizo",
-  "num_followers": 385985,
+  "num_followers": 386035,
   "original_name": "Merengue Mania",
   "owner": {
     "name": "Spotify",
@@ -739,6 +739,26 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "As\u00ed Yo Soy",
+        "url": "https://open.spotify.com/album/3QsT7gI4ZFuCYzMC4KLdxh"
+      },
+      "artists": [
+        {
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+        },
+        {
+          "name": "Christian Alicea",
+          "url": "https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp"
+        }
+      ],
+      "duration_ms": 166754,
+      "name": "Vamos A Ser Feliz",
+      "url": "https://open.spotify.com/track/2HA4mVPCF0e8G66KNnmw6L"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "No Es Normal",
         "url": "https://open.spotify.com/album/3fW9ft7QAV7Wc8uofcU163"
       },
@@ -759,26 +779,6 @@
       "duration_ms": 181894,
       "name": "No Es Normal",
       "url": "https://open.spotify.com/track/2Z4X8Y8Iedaf14Cgs0Dnri"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "As\u00ed Yo Soy",
-        "url": "https://open.spotify.com/album/3QsT7gI4ZFuCYzMC4KLdxh"
-      },
-      "artists": [
-        {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
-        },
-        {
-          "name": "Christian Alicea",
-          "url": "https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp"
-        }
-      ],
-      "duration_ms": 166754,
-      "name": "Vamos A Ser Feliz",
-      "url": "https://open.spotify.com/track/2HA4mVPCF0e8G66KNnmw6L"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Moriso\u00f1ando, Vol. 1",
-        "url": "https://open.spotify.com/album/3VnsfmLE5l8HDbniGw707B"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Pagan",
-          "url": "https://open.spotify.com/artist/3InfS9TeNQro4bp9EWtuyP"
-        },
-        {
-          "name": "Proyecto Uno",
-          "url": "https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu"
-        }
-      ],
-      "duration_ms": 230819,
-      "name": "Another Night",
-      "url": "https://open.spotify.com/track/6ZOZW00i9w8wwfwZtpreZI"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Lluvia y Samba",
         "url": "https://open.spotify.com/album/3FyrRtHlDXhkmwT8d5KScA"
       },
@@ -1215,6 +1195,26 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Moriso\u00f1ando, Vol. 1",
+        "url": "https://open.spotify.com/album/3VnsfmLE5l8HDbniGw707B"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Pagan",
+          "url": "https://open.spotify.com/artist/3InfS9TeNQro4bp9EWtuyP"
+        },
+        {
+          "name": "Proyecto Uno",
+          "url": "https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu"
+        }
+      ],
+      "duration_ms": 230819,
+      "name": "Another Night",
+      "url": "https://open.spotify.com/track/6ZOZW00i9w8wwfwZtpreZI"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Back In Town",
         "url": "https://open.spotify.com/album/4Bpgw9UfwmY3GAKGMyI1Ep"
       },
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Serie 2000",
-        "url": "https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m"
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/4nR8BybNNejawuuQzRYwap"
       },
       "artists": [
         {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+          "name": "Los Hermanos Rosario",
+          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
         }
       ],
-      "duration_ms": 265680,
-      "name": "Volver\u00e9",
-      "url": "https://open.spotify.com/track/0HFBBgkhwJMvPiEDIkEsyt"
+      "duration_ms": 278973,
+      "name": "Alo",
+      "url": "https://open.spotify.com/track/1iq1xrOXICFCR5MtmpkwMz"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/4nR8BybNNejawuuQzRYwap"
+        "name": "Serie 2000",
+        "url": "https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m"
       },
       "artists": [
         {
-          "name": "Los Hermanos Rosario",
-          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
         }
       ],
-      "duration_ms": 278973,
-      "name": "Alo",
-      "url": "https://open.spotify.com/track/1iq1xrOXICFCR5MtmpkwMz"
+      "duration_ms": 265680,
+      "name": "Volver\u00e9",
+      "url": "https://open.spotify.com/track/0HFBBgkhwJMvPiEDIkEsyt"
     },
     {
       "added_at": "2024-08-23 04:00:00",

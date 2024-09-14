@@ -4,7 +4,7 @@
 
 > The easy listening sound of Jazz\. Cover: Norah Jones
 
-271 songs - 17 hr 35 min
+272 songs - 17 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,7 +257,7 @@
 | [Twentysomething](https://open.spotify.com/track/5WRac8CFT4G9xIFG8bMNfP) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Twentysomething](https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o) | 3:40 | 2021-12-21 | 2022-09-07 |
 | [Un homme et une femme](https://open.spotify.com/track/70DFIIL8qvunU5PWwsFDtw) | [Thomas Dutronc](https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz), [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Frenchy](https://open.spotify.com/album/33aacw53MZVyxjzjqxcs9o) | 3:00 | 2021-12-21 | 2023-11-10 |
 | [Waiting in Vain](https://open.spotify.com/track/4hsEJ43P9oQmIx5btLLoAV) | [Halie Loren](https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI) | [Heart First](https://open.spotify.com/album/5o3acBzPBPJUsT4S2VUMJo) | 4:59 | 2022-11-22 | 2024-04-19 |
-| [Waiting In Vain](https://open.spotify.com/track/6UMwlW88tuUf09Dj0CF6UX) | [Halie Loren](https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI) | [Heart First](https://open.spotify.com/album/74fLArnOHs24KVKRui8r7w) | 4:59 | 2022-08-19 |  |
+| [Waiting In Vain](https://open.spotify.com/track/6UMwlW88tuUf09Dj0CF6UX) | [Halie Loren](https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI) | [Heart First](https://open.spotify.com/album/74fLArnOHs24KVKRui8r7w) | 4:59 | 2022-08-19 | 2024-09-14 |
 | [What a Difference a Day Makes](https://open.spotify.com/track/11N6MAeBhzUfNVfsBVTcL4) | [Renee Olstead](https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB) | [Renee Olstead](https://open.spotify.com/album/0xBTBaqqZd6Vnmp0tJ3g42) | 3:28 | 2021-12-21 |  |
 | [What a Wonderful World \(with Eva Cassidy\)](https://open.spotify.com/track/49GsE7zUrjEea5QXfP4NWS) | [Katie Melua](https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh), [Eva Cassidy](https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew) | [Ultimate Collection](https://open.spotify.com/album/4WQFtE9TndiTti4FJVZ33u) | 4:19 | 2021-12-21 | 2023-08-30 |
 | [What Am I To You?](https://open.spotify.com/track/0AMKZWRgdFfGYYTxiWrwwH) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Feels Like Home](https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL) | 3:30 | 2022-09-08 | 2024-03-08 |
@@ -266,6 +266,7 @@
 | [What Love Will Do to You](https://open.spotify.com/track/4bOsrHAmfULYx4PmkLV7nr) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/3t4SFDwWJlt7A3RQS2YT1c) | 2:51 | 2022-08-29 | 2022-10-13 |
 | [What The World Needs Now Is Love](https://open.spotify.com/track/2Y4jKE3vhkI2yR3Ms065ZZ) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [The Boy Next Door \(Special Edition\)](https://open.spotify.com/album/1A5ThMX4BueAGS2d8geecc) | 4:12 | 2022-09-08 |  |
 | [When Wind Fades](https://open.spotify.com/track/1WqC7bXM00cOZpr8PhG8BR) | [Siril Malmedal Hauge](https://open.spotify.com/artist/6rzVr8BQsgQEpzrH0Pv1Yn), [Kjetil Mulelid](https://open.spotify.com/artist/1RBwhYR07uefS25DqynAMy) | [Blues and Bells](https://open.spotify.com/album/4Fx9vxHmk3yAk8M5o4IP3Y) | 5:07 | 2023-08-22 |  |
+| [Where or When](https://open.spotify.com/track/1bNpRcfsbIxI9FMJsjCNcw) | [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm) | [Where or When](https://open.spotify.com/album/6MJLX11fKx4JaRfGS25ih1) | 4:17 | 2024-09-13 |  |
 | [Wild Is Love](https://open.spotify.com/track/1DKnLQHPxHB7bMgewS3JSk) | [Naama](https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg), [Peter Bernstein](https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc) | [Wild Is Love](https://open.spotify.com/album/1KaPoOODukFswUMyjlK2ec) | 3:42 | 2024-06-28 |  |
 | [Will you still love me tomorrow](https://open.spotify.com/track/2pzhO7ZJ3tQGnnkxI6sc5o) | [Inger Marie Gundersen](https://open.spotify.com/artist/1J2TFd0Li2fs50iJBS5MOq) | [Make this moment](https://open.spotify.com/album/4NaucYV5XP8jadj2GftgLY) | 4:47 | 2022-08-19 |  |
 | [Worrisome Heart](https://open.spotify.com/track/3zh5km8gPDYMiWvmLTsos0) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [Worrisome Heart](https://open.spotify.com/album/5ahEd7berYIgjRYsIHZa8Y) | 4:21 | 2021-12-21 | 2023-08-19 |

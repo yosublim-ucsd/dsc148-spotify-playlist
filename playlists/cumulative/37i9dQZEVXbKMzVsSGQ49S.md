@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Iceland.
 
-2,198 songs - 4 day 23 hr 0 min
+2,199 songs - 4 day 23 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1027,7 +1027,7 @@
 | [Komdu þér í fíling](https://open.spotify.com/track/4HSrBRVSECbEMuVLSgyWma) | [Floni](https://open.spotify.com/artist/3hvKmeo12OU7ai8Mpgraf7) | [Demotape 01](https://open.spotify.com/album/7ER6fzhCU5aJE9SNNTlkKd) | 4:25 | 2021-07-25 | 2021-07-28 |
 | [Komið Að Því](https://open.spotify.com/track/1dpR3nENYUnY9g9CZTd3Is) | [FM95BLÖ](https://open.spotify.com/artist/3gXJ7TV8KMtWQQvOv20mRh), [Sverrir Bergmann](https://open.spotify.com/artist/6vZQqLEETz3r5dQFKnatlp), [Jóhanna Guðrún](https://open.spotify.com/artist/4KsGMNzBc29HS8e4QrVvDu) | [Komið Að Því](https://open.spotify.com/album/0fU8OHsj7srKSbhEWmXZ8B) | 2:41 | 2021-06-27 | 2021-10-17 |
 | [Komið Að Því](https://open.spotify.com/track/28MwPJYh5Ot9NMvRSLgyPy) | [FM95BLÖ](https://open.spotify.com/artist/3gXJ7TV8KMtWQQvOv20mRh), [Sverrir Bergmann](https://open.spotify.com/artist/6vZQqLEETz3r5dQFKnatlp), [Jóhanna Guðrún](https://open.spotify.com/artist/4KsGMNzBc29HS8e4QrVvDu), [Steindi Jr.](https://open.spotify.com/artist/4YXcE4pT7k4CLJ4SI9mtwE) | [Komið Að Því](https://open.spotify.com/album/76NnsPLmHabEZVUajUoQWE) | 2:41 | 2022-07-28 | 2023-08-08 |
-| [KOSS Á ÞIG \(Áramótaskaup 2023\)](https://open.spotify.com/track/1zgmrx3BSjowXq7zCoHhjd) | [Herra Hnetusmjör](https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4) | [KBE kynnir: Legend í Leiknum](https://open.spotify.com/album/5hoR5fg75A1FiQMjOLgpj3) | 2:31 | 2024-08-17 |  |
+| [KOSS Á ÞIG \(Áramótaskaup 2023\)](https://open.spotify.com/track/1zgmrx3BSjowXq7zCoHhjd) | [Herra Hnetusmjör](https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4) | [KBE kynnir: Legend í Leiknum](https://open.spotify.com/album/5hoR5fg75A1FiQMjOLgpj3) | 2:31 | 2024-08-17 | 2024-09-14 |
 | [KOSS Á ÞIG \(Áramótaskaup 2023\)](https://open.spotify.com/track/4swi74n7WyfQUFxVTIXnmB) | [Herra Hnetusmjör](https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4), [Þormóður](https://open.spotify.com/artist/7FrCdnjdjijkh1eXx1P3Uv) | [KOSS Á ÞIG \(Áramótaskaup 2023\)](https://open.spotify.com/album/04ilaNnJNBvla2NbiVZEB2) | 2:31 | 2024-01-02 | 2024-07-23 |
 | [kronik shit](https://open.spotify.com/track/1pz7OAntNtg6xPq1lSD8pm) | [Saint Pete](https://open.spotify.com/artist/5F9rWKLBMziWkO8TjeEeEd) | [Græni Pakkinn](https://open.spotify.com/album/1NMZaN57GOuC3pGSSwOOQg) | 2:02 | 2024-08-12 | 2024-08-16 |
 | [Krumla](https://open.spotify.com/track/1ahTtx2UIz4Kj59aMbcwSh) | [ICEGUYS](https://open.spotify.com/artist/0OCQtSY66ZM9xUUsuvjDXw) | [Krumla](https://open.spotify.com/album/6hsyX5ypUgZ5FogcntKnHd) | 3:15 | 2023-07-22 | 2024-09-12 |
@@ -1579,6 +1579,7 @@
 | [S.O.S](https://open.spotify.com/track/2s48bwi9I2aueqJ7S5lYfw) | [NEVRMIND](https://open.spotify.com/artist/09apxys93rFK3x28ufjH6w) | [S.O.S](https://open.spotify.com/album/1H1UsoRUFgQegGnzMwH5vS) | 2:55 | 2024-08-26 | 2024-08-28 |
 | [Sacrifice](https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:08 | 2022-01-08 | 2022-03-06 |
 | [Sad Boy World](https://open.spotify.com/track/7mktZ5UJSr8AWTx6e47vEB) | [XNEGATIVEMAN](https://open.spotify.com/artist/1u950w5CC5cHb4pC5eQVqa) | [Sad Boy World](https://open.spotify.com/album/152LmgJm0Dmdiw8PXHA8Kp) | 2:52 | 2024-09-11 | 2024-09-13 |
+| [Sailor Song](https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit) | 3:31 | 2024-09-13 |  |
 | [Saintro](https://open.spotify.com/track/17Xw0WarbdFVTua2PYkjlG) | [Saint Pete](https://open.spotify.com/artist/5F9rWKLBMziWkO8TjeEeEd) | [Græni Pakkinn](https://open.spotify.com/album/1NMZaN57GOuC3pGSSwOOQg) | 2:36 | 2024-08-12 | 2024-08-18 |
 | [Sama](https://open.spotify.com/track/5ofoMtQs9488yo5lIcZlsH) | [Tónhylur](https://open.spotify.com/artist/5acbJzGy5hnfgdksb989Hu), [HelgiT](https://open.spotify.com/artist/18GKco27D5UR5NpzIMugbL), [Kristjan Saenz](https://open.spotify.com/artist/5zH80l2t6OwDlt2Xpr1giR), [Maron Birnir](https://open.spotify.com/artist/5ZND8KTohJiibAgLwfkpXK), [Teddi G](https://open.spotify.com/artist/5YrK7YhaPG3tEqUxdE4CmB) | [Sama](https://open.spotify.com/album/2SxQnSHBsai4rmnkP3nnNp) | 2:24 | 2022-10-18 | 2022-11-07 |
 | [Sama Stað](https://open.spotify.com/track/4ujr11oD1MiNLVu8Md0Me7) | [JóiPé](https://open.spotify.com/artist/6cC3KmZOI4EG7a94PtKEYb), [Króli](https://open.spotify.com/artist/6yI1aFdfAnjSHaDnHBFAD9), [USSEL](https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp), [Daniil](https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU) | [SCANDIPAIN vol\. 1](https://open.spotify.com/album/1KgSgT3LKXmxiFklqnWNK3) | 2:46 | 2024-03-16 | 2024-04-14 |

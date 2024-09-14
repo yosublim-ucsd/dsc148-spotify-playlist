@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 
 > Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27?si=srH0KIj9S56jkngNQv15iw">Ziggy4x</a> & <a href="https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L?si=OaebxEcDTHaSjCoznspvdA">Maglera Doe Boy</a> & <a href="https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz?si=AGjj1meQRKuB8\_NsDR1lBg">Priddy Ugly</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,836 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,839 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 | 34 | [Wiggy](https://open.spotify.com/track/7E5tXCKOc0gwFOHoaCuPgU) | [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl) | [Gan Se Jou Mense](https://open.spotify.com/album/3RyjFxsU9hcmg14vqzUUMy) | 3:01 |
 | 35 | [Nikes & Jordans \(Original\)](https://open.spotify.com/track/5Jg22KmtTCnFtdKlBO3ENv) | [Bigbforever](https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i) | [Nikes & Jordans \(Original\)](https://open.spotify.com/album/0lVRtRsZyiQTgH6JRRCKiQ) | 3:14 |
 | 36 | [Is Dope](https://open.spotify.com/track/2gG5sulAvu3IFeXQTzNxQL) | [Hemelbesem](https://open.spotify.com/artist/2rf163QPv7JZFRGuxjplds), [Stuwi W](https://open.spotify.com/artist/2eOVM21p4NdKeJrO3G5cdJ) | [Evil Is Nogsteeds Maklik](https://open.spotify.com/album/7HqfIL6on2kOWZLTHAuFtX) | 5:09 |
-| 37 | [Op Dai](https://open.spotify.com/track/4bBjjBekKBVWGT2gJAggt9) | [Cream Machine](https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx) | [Op Dai](https://open.spotify.com/album/2wIXzbUBqaSiLYIepgLlKY) | 3:26 |
-| 38 | [Lavis](https://open.spotify.com/track/0suMtWepSXO0xP4dBfcdF7) | [Mr Heinz](https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL) | [Bishop Lavis](https://open.spotify.com/album/0oqmKdcmYZVjaFPM30JZnF) | 3:18 |
-| 39 | [Slegte Gewoonte](https://open.spotify.com/track/0m5TIFvr8GQCIM2FDNAJPT) | [Lil Dee Music](https://open.spotify.com/artist/3GWcPN5iY86CwRrgJE4kvg), [Euno](https://open.spotify.com/artist/14Lh7c1HhLZPLAAqOG83Kw), [Aiyamanfykz](https://open.spotify.com/artist/5UPbQ61xjTa1rHG9uGdZZL) | [2098](https://open.spotify.com/album/51PA9pHz64S6a9VfFerGca) | 3:10 |
+| 37 | [Lavis](https://open.spotify.com/track/0suMtWepSXO0xP4dBfcdF7) | [Mr Heinz](https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL) | [Bishop Lavis](https://open.spotify.com/album/0oqmKdcmYZVjaFPM30JZnF) | 3:18 |
+| 38 | [Slegte Gewoonte](https://open.spotify.com/track/0m5TIFvr8GQCIM2FDNAJPT) | [Lil Dee Music](https://open.spotify.com/artist/3GWcPN5iY86CwRrgJE4kvg), [Euno](https://open.spotify.com/artist/14Lh7c1HhLZPLAAqOG83Kw), [Aiyamanfykz](https://open.spotify.com/artist/5UPbQ61xjTa1rHG9uGdZZL) | [2098](https://open.spotify.com/album/51PA9pHz64S6a9VfFerGca) | 3:10 |
+| 39 | [Op Dai](https://open.spotify.com/track/4bBjjBekKBVWGT2gJAggt9) | [Cream Machine](https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx) | [Op Dai](https://open.spotify.com/album/2wIXzbUBqaSiLYIepgLlKY) | 3:26 |
 | 40 | [DIE LANIE](https://open.spotify.com/track/7DGKnYj1l9tUChMBAqpXh1) | [Madgas](https://open.spotify.com/artist/6SxrHxCHpyEIfdtUOQrkMH) | [DIE LANIE](https://open.spotify.com/album/6CqQqWzEOHGTYkZjrjGqAe) | 2:43 |
 | 41 | [Laaste Hond](https://open.spotify.com/track/6m54uxr3viaN4w6NfSj3YR) | [C.M.T](https://open.spotify.com/artist/7dp7rXGLihg118ZUN8tp1P) | [Laaste Hond](https://open.spotify.com/album/1wbXY8vdl8zqVPqyr4L4RK) | 3:01 |
 | 42 | [Sal Alright is](https://open.spotify.com/track/2tNf5CIEfQ0FNIXereIvAQ) | [Shameel Afrikaans Music](https://open.spotify.com/artist/5JVEUKZM50V4pnjV8Rv6Yl), [BIGDMUZIC](https://open.spotify.com/artist/5SILa3QBUig6bmSsaCHIur) | [Sal Alright is](https://open.spotify.com/album/30XOqBXKgS6q4rHt4oeCDL) | 4:12 |

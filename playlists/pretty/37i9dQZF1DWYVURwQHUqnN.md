@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo : Naza x Dadi
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,111,585 likes - 40 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,111,754 likes - 40 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 | 10 | [Joie de filles \(feat\. Vacra\)](https://open.spotify.com/track/2JIiyXGlUn6t1yDB80ypWk) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Joie de filles \(feat\. Vacra\)](https://open.spotify.com/album/4mX4pHtUevnTpVA4C5ESVD) | 2:18 |
 | 11 | [Vanillée](https://open.spotify.com/track/2OrVl8djetZs39Mr3Ujkaf) | [Houari](https://open.spotify.com/artist/6zrOXBaNn0DqJeXxgC2eyH), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [C'est de la Cali](https://open.spotify.com/album/4hcyzMtlhQdTxpxXqDL8jI) | 2:47 |
 | 12 | [Mélanine](https://open.spotify.com/track/7GCU3DlRW3s65f6JjNBrM4) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Mélanine](https://open.spotify.com/album/0ovXNQjta5DdP31OAMlKXO) | 3:00 |
-| 13 | [Coeur lourd](https://open.spotify.com/track/4UQ03EmBK1VYPfTwNEPc1W) | [Zkr](https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4), [Massine](https://open.spotify.com/artist/6atz1NxVSI9Nk2YEnhUsFZ) | [Coeur lourd](https://open.spotify.com/album/63OKz3v3s6fubYfJ2RW725) | 2:32 |
+| 13 | [Cœur lourd](https://open.spotify.com/track/4UQ03EmBK1VYPfTwNEPc1W) | [Zkr](https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4), [Massine](https://open.spotify.com/artist/6atz1NxVSI9Nk2YEnhUsFZ) | [Cœur lourd](https://open.spotify.com/album/63OKz3v3s6fubYfJ2RW725) | 2:32 |
 | 14 | [Oh qu'elle est belle](https://open.spotify.com/track/10zo4OGj1ijR4TaVi526xr) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Oh qu'elle est belle](https://open.spotify.com/album/2kFUXzU7bQLQCaUXu3OCC5) | 3:40 |
 | 15 | [MAMI WATA](https://open.spotify.com/track/6yqwxY8qifBBhyryjZutxk) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LA MELO EST GANGX](https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1) | 3:53 |
 | 16 | [Passe ton chemin](https://open.spotify.com/track/1edPU5OOn4YCWn9lR0nesC) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb) | [Passe ton chemin](https://open.spotify.com/album/4oZy6v3nyTXCE2pX4Vv8m0) | 2:49 |

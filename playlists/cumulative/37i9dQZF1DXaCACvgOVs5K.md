@@ -4,7 +4,7 @@
 
 > Get ready for Ibiza season 2024\. See you on the dancefloor.
 
-328 songs - 19 hr 56 min
+329 songs - 19 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,7 @@
 | [It's Not Right But It's Okay](https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6) | [It's Not Right But It's Okay](https://open.spotify.com/album/116jZe8fEmfjKBh4d8ZcDO) | 2:32 | 2024-04-19 |  |
 | [Jealous](https://open.spotify.com/track/5Ir9mqfAUnXkSkXHF1yvM0) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [Jealous](https://open.spotify.com/album/4Kka250AUtEvx1XUuoNHfZ) | 4:16 | 2023-09-01 | 2024-04-20 |
 | [Joy](https://open.spotify.com/track/17E3lZxFJnO49Gb0tdgVn0) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Joy](https://open.spotify.com/album/76GgZZUHQu2VQRLMXEIQcL) | 4:41 | 2022-08-26 | 2024-04-20 |
-| [Junction 3](https://open.spotify.com/track/14c0weTcZPO5laR3ft2B0z) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Junction 3](https://open.spotify.com/album/3orD0F22WOT0CmmEpCDRg3) | 2:38 | 2024-07-26 |  |
+| [Junction 3](https://open.spotify.com/track/14c0weTcZPO5laR3ft2B0z) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Junction 3](https://open.spotify.com/album/3orD0F22WOT0CmmEpCDRg3) | 2:38 | 2024-07-26 | 2024-09-14 |
 | [Jungle](https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jungle](https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d) | 3:18 | 2022-08-26 | 2023-07-27 |
 | [Karibu](https://open.spotify.com/track/6jTbKd7VnhCt5qxyWTdak7) | [WITH U](https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV) | [Karibu](https://open.spotify.com/album/1nBlADPkrQJQyYDQRFZKjj) | 4:02 | 2024-04-19 |  |
 | [Key103](https://open.spotify.com/track/2rqHRjIdGqFNgOqq3nNPkT) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Key103](https://open.spotify.com/album/449cSwxW2mczsRKAV8BetQ) | 7:22 | 2024-07-13 | 2024-09-12 |
@@ -250,6 +250,7 @@
 | [Say It Again](https://open.spotify.com/track/0dDGl66J8riMFyp2yUn88W) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Say It Again](https://open.spotify.com/album/6qmP3e4qPHcnj0576IRaV6) | 3:27 | 2022-08-26 | 2024-04-20 |
 | [Serotonin Moonbeams](https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Serotonin Moonbeams](https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO) | 4:49 | 2023-04-04 | 2024-04-20 |
 | [Set Me Free](https://open.spotify.com/track/5zA3gMIFlgnhNQj39GcTqE) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Set Me Free](https://open.spotify.com/album/2SR6UldibmBVT6te65lEuI) | 3:00 | 2023-06-02 | 2023-07-13 |
+| [Set Me Free \(feat\. Robert Courtois\)](https://open.spotify.com/track/4oWNy3mghAjy8LGsomdCej) | [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk), [Robert Courtois](https://open.spotify.com/artist/2GH4RemTUuK19ieus3JaLa) | [Set Me Free \(feat\. Robert Courtois\)](https://open.spotify.com/album/4f92p1nVAtD3Kj3ytHgAsB) | 2:30 | 2024-08-29 |  |
 | [Sete](https://open.spotify.com/track/4u3XiAwJ2U9Kxgy57gcAPB) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete](https://open.spotify.com/album/6WaNGIAh8MhT4IkqvAhfec) | 3:29 | 2022-08-26 | 2024-04-19 |
 | [Sete](https://open.spotify.com/track/5B4gUqNKYgU38ULSWP5Bzj) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete](https://open.spotify.com/album/2dUSIzfLEgYB3QJB2Vt8j3) | 3:29 | 2022-08-26 | 2023-02-26 |
 | [Sex & The City \- MK Remix](https://open.spotify.com/track/3DtxjODCIa3IsMYlIpmbWt) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl), [Seth Troxler](https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B), [Paul Johnson](https://open.spotify.com/artist/4BqZuFqHJ8CLn3ig0f1m0G), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Sex & The City \(MK Remix\)](https://open.spotify.com/album/0wN4OH4Vp79ziKQS8mRX5e) | 3:07 | 2023-05-19 | 2024-08-23 |

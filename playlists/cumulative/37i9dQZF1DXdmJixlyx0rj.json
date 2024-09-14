@@ -618,7 +618,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-12",
+      "date_removed": null,
       "duration_ms": 240004,
       "name": "Bambi - h4rdy Remix",
       "url": "https://open.spotify.com/track/6ECpFEjryPvCdGPHVktmFY"
@@ -786,7 +786,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 192380,
       "name": "BOP BOP! (Yves V Remix)",
       "url": "https://open.spotify.com/track/4Gcolfcv9DwTrZMYHE96Zl"
@@ -3346,6 +3346,10 @@
         {
           "name": "NECTA",
           "url": "https://open.spotify.com/artist/41aotofRYK9RvrKFk5ZY5U"
+        },
+        {
+          "name": "stevenc4stle",
+          "url": "https://open.spotify.com/artist/0SVmPKGMQBUNQRjMjct5iH"
         }
       ],
       "date_added": "2024-09-01",

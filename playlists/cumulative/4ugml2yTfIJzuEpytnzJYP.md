@@ -4,7 +4,7 @@
 
 > Deep Bass \- Melodic Bass \- Dubstep \- 140 \- Downtempo \- Dance Music \- Tribal Trap \- Grime \- Future Bass
 
-265 songs - 16 hr 44 min
+266 songs - 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [ILL](https://open.spotify.com/track/1K3u242m5zHFNLRp7Th6hd) | [Bemah](https://open.spotify.com/artist/5wYDagjHjJRgNlu5W6D4hK), [AfterShock Fam](https://open.spotify.com/artist/73knz0sBKwC2qCk5pEpe2g) | [The Family Reunion](https://open.spotify.com/album/1vf2u5g26jNlCt1krJgbM1) | 2:37 | 2022-01-07 | 2022-02-08 |
 | [Immortals](https://open.spotify.com/track/2gSNgFzYBZMFzU7upbJIuU) | [Nahlith](https://open.spotify.com/artist/0gKRNAatXm1v7V34aoWyFJ) | [Immortals](https://open.spotify.com/album/6NyX2KnRzwp1zOK8s9JY53) | 3:46 | 2023-05-27 |  |
 | [Inferno](https://open.spotify.com/track/1MGrP7eLvfLDKMmAiEcufm) | [Ringtone Murder](https://open.spotify.com/artist/6DQVEV3tyaBDdb0Z7Z2cKh) | [Inferno](https://open.spotify.com/album/4cvjwU0s2yLAHmKDGbPcGY) | 3:01 | 2022-04-25 | 2022-08-23 |
+| [Infinity](https://open.spotify.com/track/7KbYeUb4lRBh9Y7V0rjnCJ) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV) | [Infinity](https://open.spotify.com/album/4KNGKFepe5Qt5BN5pBpcH7) | 2:54 | 2024-09-13 |  |
 | [Inner Sanctum](https://open.spotify.com/track/5RZq9CmmzqmaJlodCeXMB6) | [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4) | [Gallows EP](https://open.spotify.com/album/2fZTG3TpT1oyuE9z5bMeV2) | 4:13 | 2022-09-30 | 2022-10-17 |
 | [Inori](https://open.spotify.com/track/2btpbaSMhB1y6Z1FczPY7o) | [Dimond Saints](https://open.spotify.com/artist/38LWle0ChG6k0UHsOnoO75) | [Inori](https://open.spotify.com/album/1rrz2jbxSKTl74PvTb75nr) | 3:21 | 2024-06-07 |  |
 | [Is There Anybody Out There](https://open.spotify.com/track/1R7z1ECtLCOHKRNUp4mTK7) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV) | [Is There Anybody Out There](https://open.spotify.com/album/7Krdabty2ZZ7sYeLmXA5ms) | 3:03 | 2022-04-01 | 2022-08-06 |

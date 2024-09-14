@@ -332,7 +332,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 135652,
       "name": "Apocalypse",
       "url": "https://open.spotify.com/track/3kUYp1az3JfWhHZ62PEbUR"
@@ -3460,7 +3460,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 176008,
       "name": "Get To U",
       "url": "https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD"
@@ -4010,6 +4010,24 @@
       "duration_ms": 175163,
       "name": "High",
       "url": "https://open.spotify.com/track/3t4KHjd8uQpJJ2fa0fRIpR"
+    },
+    {
+      "album": {
+        "name": "Hiraeth",
+        "url": "https://open.spotify.com/album/2tRg2EuF2pgzqhTBqRT38g"
+      },
+      "artists": [
+        {
+          "name": "Meduso",
+          "url": "https://open.spotify.com/artist/3MXWugwS6350ezlnr4Xcic"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249267,
+      "name": "Hiraeth",
+      "url": "https://open.spotify.com/track/0r214um9dQ8koPYFKM5ZH2"
     },
     {
       "album": {
@@ -4698,7 +4716,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 195720,
       "name": "Kill The Machine (feat. Bad/Love)",
       "url": "https://open.spotify.com/track/0AkxZb3XkSOdLghm6EB7p2"
@@ -4916,7 +4934,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-07",
+      "date_removed": null,
       "duration_ms": 174545,
       "name": "Lie Awake",
       "url": "https://open.spotify.com/track/0A3E1Vig87YNwysgnhwPvv"
@@ -5070,7 +5088,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 230679,
       "name": "Lost Time",
       "url": "https://open.spotify.com/track/6eVVBm3RlVeNReLG9EEFTI"
@@ -6123,6 +6141,24 @@
     },
     {
       "album": {
+        "name": "OLDE GUARDE EP",
+        "url": "https://open.spotify.com/album/1mpxcLLzbPzdEUMSsQXHpG"
+      },
+      "artists": [
+        {
+          "name": "MARAUDA",
+          "url": "https://open.spotify.com/artist/3YLUvWzk9eBm1WrHFlZxM4"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250285,
+      "name": "OLDE GUARDE",
+      "url": "https://open.spotify.com/track/6ouMhta0VorcZeSu4auWhl"
+    },
+    {
+      "album": {
         "name": "On My Own",
         "url": "https://open.spotify.com/album/6MlwwEzsLHkt4cfzQDfMpO"
       },
@@ -6516,7 +6552,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 208000,
       "name": "POWERLESS",
       "url": "https://open.spotify.com/track/4gbZtMcaENwVRvuL4P70TZ"
@@ -7160,6 +7196,32 @@
       "duration_ms": 246193,
       "name": "Ritual",
       "url": "https://open.spotify.com/track/25ED1oQWMy32cQh9Dv9BjC"
+    },
+    {
+      "album": {
+        "name": "Rocka",
+        "url": "https://open.spotify.com/album/2yzOSjguTqnEt0SbVMC5aJ"
+      },
+      "artists": [
+        {
+          "name": "Fairlane",
+          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+        },
+        {
+          "name": "No Etiquette",
+          "url": "https://open.spotify.com/artist/6HXY7iEakhbnG63OH20oeh"
+        },
+        {
+          "name": "Tima Dee",
+          "url": "https://open.spotify.com/artist/4pQIDKoWXRw04D9e37QzbP"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193146,
+      "name": "Rocka",
+      "url": "https://open.spotify.com/track/1C0PPfiAjOukLff0ucmzsn"
     },
     {
       "album": {
@@ -7991,6 +8053,28 @@
     },
     {
       "album": {
+        "name": "Stop The Fire",
+        "url": "https://open.spotify.com/album/1lQhOigZZfyqZHSy5aTGWe"
+      },
+      "artists": [
+        {
+          "name": "Nikademis",
+          "url": "https://open.spotify.com/artist/1mbM2HRSAFPgomMnUSNSvP"
+        },
+        {
+          "name": "Luma",
+          "url": "https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260424,
+      "name": "Stop The Fire",
+      "url": "https://open.spotify.com/track/3y8pF3nDIebdqfqNAY9JKw"
+    },
+    {
+      "album": {
         "name": "Story Of My Life (feat. Trippie Redd) [Heavy Edit]",
         "url": "https://open.spotify.com/album/4Wzad6zTcqutg65d090DL2"
       },
@@ -8588,7 +8672,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 159103,
       "name": "Throw Your Hands Up",
       "url": "https://open.spotify.com/track/41QWpqEoozBbbRhyt1ypyh"
@@ -9460,6 +9544,28 @@
       "duration_ms": 217700,
       "name": "WHERE I'VE BEEN",
       "url": "https://open.spotify.com/track/0iRByqXEoJa48mSAeCfLhr"
+    },
+    {
+      "album": {
+        "name": "White Knuckles",
+        "url": "https://open.spotify.com/album/5ZKy72bbl42PhLGUz1u4oj"
+      },
+      "artists": [
+        {
+          "name": "NITTI",
+          "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
+        },
+        {
+          "name": "BRAYTON",
+          "url": "https://open.spotify.com/artist/2kWyIV9pjjzmbQo7ZY62VL"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210461,
+      "name": "White Knuckles",
+      "url": "https://open.spotify.com/track/3DEcNTbmihMylwMFGn0IUz"
     },
     {
       "album": {

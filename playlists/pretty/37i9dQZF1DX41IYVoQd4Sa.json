@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc. \u05e7\u05d0\u05d1\u05e8: \u05d0\u05dc\u05d5\u05df \u05e2\u05d3\u05e8",
-  "num_followers": 30231,
+  "num_followers": 30249,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,22 @@
     {
       "added_at": "2024-09-12 21:00:00",
       "album": {
+        "name": "\u05db\u05dc \u05de\u05d4 \u05e9\u05d9\u05e9 \u05dc\u05d9",
+        "url": "https://open.spotify.com/album/6xlMw4UotTi9vjNnNfcja9"
+      },
+      "artists": [
+        {
+          "name": "Rona Kenan",
+          "url": "https://open.spotify.com/artist/5Rpubz1id17VKCrm0mBW1h"
+        }
+      ],
+      "duration_ms": 204423,
+      "name": "\u05db\u05dc \u05de\u05d4 \u05e9\u05d9\u05e9 \u05dc\u05d9",
+      "url": "https://open.spotify.com/track/46uktboi95gUvrnfqoMJTr"
+    },
+    {
+      "added_at": "2024-09-12 21:00:00",
+      "album": {
         "name": "\u05d4\u05e2\u05e5 \u05d9\u05d7\u05d9\u05d4",
         "url": "https://open.spotify.com/album/7gROCFhhozMnHNVrxVNPiL"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 189047,
       "name": "\u05d4\u05e2\u05e5 \u05d9\u05d7\u05d9\u05d4",
       "url": "https://open.spotify.com/track/2L2PghgZHxNKrcVsR16FmW"
-    },
-    {
-      "added_at": "2024-09-12 21:00:00",
-      "album": {
-        "name": "\u05db\u05dc \u05de\u05d4 \u05e9\u05d9\u05e9 \u05dc\u05d9",
-        "url": "https://open.spotify.com/album/6xlMw4UotTi9vjNnNfcja9"
-      },
-      "artists": [
-        {
-          "name": "Rona Kenan",
-          "url": "https://open.spotify.com/artist/5Rpubz1id17VKCrm0mBW1h"
-        }
-      ],
-      "duration_ms": 204423,
-      "name": "\u05db\u05dc \u05de\u05d4 \u05e9\u05d9\u05e9 \u05dc\u05d9",
-      "url": "https://open.spotify.com/track/46uktboi95gUvrnfqoMJTr"
     },
     {
       "added_at": "2024-09-12 21:00:00",
@@ -827,54 +827,6 @@
     {
       "added_at": "2024-09-12 21:00:00",
       "album": {
-        "name": "Until The Morning",
-        "url": "https://open.spotify.com/album/6e1fxnLrU2cp5GxPbko4Oq"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Guy",
-          "url": "https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg"
-        }
-      ],
-      "duration_ms": 151719,
-      "name": "Until The Morning",
-      "url": "https://open.spotify.com/track/5EMgxRd9V5ARW4b3aRol1L"
-    },
-    {
-      "added_at": "2024-09-12 21:00:00",
-      "album": {
-        "name": "You Are What You Do",
-        "url": "https://open.spotify.com/album/2zpV0nJZs5H56fETTAynlx"
-      },
-      "artists": [
-        {
-          "name": "Aviram",
-          "url": "https://open.spotify.com/artist/7qRREBnshFcjRrO934sLF8"
-        }
-      ],
-      "duration_ms": 200146,
-      "name": "Smile Again",
-      "url": "https://open.spotify.com/track/1lQjJ8jEgRtlvHWK16JyER"
-    },
-    {
-      "added_at": "2024-09-12 21:00:00",
-      "album": {
-        "name": "\u05ea\u05d5\u05dc\u05d4 \u05d0\u05ea \u05d4\u05e0\u05e2\u05dc\u05d9\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/27TpWs5Id4y8Rg4ElHes1y"
-      },
-      "artists": [
-        {
-          "name": "The Backyard",
-          "url": "https://open.spotify.com/artist/52m4avwDcrat4zSI2UljXB"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "\u05ea\u05d5\u05dc\u05d4 \u05d0\u05ea \u05d4\u05e0\u05e2\u05dc\u05d9\u05d9\u05dd",
-      "url": "https://open.spotify.com/track/3aQpw97YFj1zgEx3cXenED"
-    },
-    {
-      "added_at": "2024-09-12 21:00:00",
-      "album": {
         "name": "All The Way",
         "url": "https://open.spotify.com/album/67g4rxomqOhlcelsPVfT4g"
       },
@@ -907,18 +859,34 @@
     {
       "added_at": "2024-09-12 21:00:00",
       "album": {
-        "name": "Homesick",
-        "url": "https://open.spotify.com/album/6vKpcaZxcbSq2isqEL9gJw"
+        "name": "Until The Morning",
+        "url": "https://open.spotify.com/album/6e1fxnLrU2cp5GxPbko4Oq"
       },
       "artists": [
         {
-          "name": "GADEE",
-          "url": "https://open.spotify.com/artist/7amPV764MD1pbuSGbj9bO0"
+          "name": "Gabriel Guy",
+          "url": "https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg"
         }
       ],
-      "duration_ms": 181600,
-      "name": "Fool For Your Smile",
-      "url": "https://open.spotify.com/track/7oQ0NYLgoyYgQebGT1kkT2"
+      "duration_ms": 151719,
+      "name": "Until The Morning",
+      "url": "https://open.spotify.com/track/5EMgxRd9V5ARW4b3aRol1L"
+    },
+    {
+      "added_at": "2024-09-12 21:00:00",
+      "album": {
+        "name": "\u05ea\u05d5\u05dc\u05d4 \u05d0\u05ea \u05d4\u05e0\u05e2\u05dc\u05d9\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/27TpWs5Id4y8Rg4ElHes1y"
+      },
+      "artists": [
+        {
+          "name": "The Backyard",
+          "url": "https://open.spotify.com/artist/52m4avwDcrat4zSI2UljXB"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "\u05ea\u05d5\u05dc\u05d4 \u05d0\u05ea \u05d4\u05e0\u05e2\u05dc\u05d9\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/3aQpw97YFj1zgEx3cXenED"
     },
     {
       "added_at": "2024-09-12 21:00:00",
@@ -943,22 +911,34 @@
     {
       "added_at": "2024-09-12 21:00:00",
       "album": {
-        "name": "\u05ea\u05de\u05d9\u05d3 \u05d9\u05dc\u05d3\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/0uWDmGSuYnaD9xbd7zioIS"
+        "name": "You Are What You Do",
+        "url": "https://open.spotify.com/album/2zpV0nJZs5H56fETTAynlx"
       },
       "artists": [
         {
-          "name": "Noifeld's Glasses",
-          "url": "https://open.spotify.com/artist/4moIrr6CFQSWiglLx5q9SS"
-        },
-        {
-          "name": "Guy Mazig",
-          "url": "https://open.spotify.com/artist/2Ky0L9EAz66AEhFfeak23R"
+          "name": "Aviram",
+          "url": "https://open.spotify.com/artist/7qRREBnshFcjRrO934sLF8"
         }
       ],
-      "duration_ms": 208000,
-      "name": "\u05ea\u05de\u05d9\u05d3 \u05d9\u05dc\u05d3\u05d9\u05dd",
-      "url": "https://open.spotify.com/track/4ZB8VUBs5WXlfRXFtXMZqq"
+      "duration_ms": 200146,
+      "name": "Smile Again",
+      "url": "https://open.spotify.com/track/1lQjJ8jEgRtlvHWK16JyER"
+    },
+    {
+      "added_at": "2024-09-12 21:00:00",
+      "album": {
+        "name": "Homesick",
+        "url": "https://open.spotify.com/album/6vKpcaZxcbSq2isqEL9gJw"
+      },
+      "artists": [
+        {
+          "name": "GADEE",
+          "url": "https://open.spotify.com/artist/7amPV764MD1pbuSGbj9bO0"
+        }
+      ],
+      "duration_ms": 181600,
+      "name": "Fool For Your Smile",
+      "url": "https://open.spotify.com/track/7oQ0NYLgoyYgQebGT1kkT2"
     },
     {
       "added_at": "2024-09-12 21:00:00",
@@ -975,6 +955,26 @@
       "duration_ms": 220360,
       "name": "\u05dc\u05d4\u05d9\u05d5\u05ea \u05dc\u05d1\u05d3 - \u05d1\u05d0\u05e8\u05d1\u05d9 Live",
       "url": "https://open.spotify.com/track/4IUuctG736RauTKMbWCP3T"
+    },
+    {
+      "added_at": "2024-09-12 21:00:00",
+      "album": {
+        "name": "\u05ea\u05de\u05d9\u05d3 \u05d9\u05dc\u05d3\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/0uWDmGSuYnaD9xbd7zioIS"
+      },
+      "artists": [
+        {
+          "name": "Noifeld's Glasses",
+          "url": "https://open.spotify.com/artist/4moIrr6CFQSWiglLx5q9SS"
+        },
+        {
+          "name": "Guy Mazig",
+          "url": "https://open.spotify.com/artist/2Ky0L9EAz66AEhFfeak23R"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "\u05ea\u05de\u05d9\u05d3 \u05d9\u05dc\u05d3\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/4ZB8VUBs5WXlfRXFtXMZqq"
     },
     {
       "added_at": "2024-09-12 21:00:00",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2024-09-12 21:00:00",
       "album": {
+        "name": "\u05d0\u05e0\u05d9 \u05e8\u05d5\u05e6\u05d4 \u05d0\u05ea \u05d4\u05d7\u05d9\u05d9\u05dd \u05e9\u05dc\u05d9 \u05d1\u05d7\u05d6\u05e8\u05d4",
+        "url": "https://open.spotify.com/album/6LJUzUbBtkwmgpCosXc0jh"
+      },
+      "artists": [
+        {
+          "name": "\u05d9\u05d5\u05e9\u05d9",
+          "url": "https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ"
+        }
+      ],
+      "duration_ms": 168923,
+      "name": "\u05d0\u05e0\u05d9 \u05e8\u05d5\u05e6\u05d4 \u05d0\u05ea \u05d4\u05d7\u05d9\u05d9\u05dd \u05e9\u05dc\u05d9 \u05d1\u05d7\u05d6\u05e8\u05d4",
+      "url": "https://open.spotify.com/track/6XXmUYotqTIbx9xOd9lQqW"
+    },
+    {
+      "added_at": "2024-09-12 21:00:00",
+      "album": {
         "name": "Nouvelle vie",
         "url": "https://open.spotify.com/album/0FA6jayNcSOoO1NTQWZ9zX"
       },
@@ -1027,22 +1043,6 @@
     {
       "added_at": "2024-09-12 21:00:00",
       "album": {
-        "name": "\u05d0\u05e0\u05d9 \u05e8\u05d5\u05e6\u05d4 \u05d0\u05ea \u05d4\u05d7\u05d9\u05d9\u05dd \u05e9\u05dc\u05d9 \u05d1\u05d7\u05d6\u05e8\u05d4",
-        "url": "https://open.spotify.com/album/6LJUzUbBtkwmgpCosXc0jh"
-      },
-      "artists": [
-        {
-          "name": "\u05d9\u05d5\u05e9\u05d9",
-          "url": "https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ"
-        }
-      ],
-      "duration_ms": 168923,
-      "name": "\u05d0\u05e0\u05d9 \u05e8\u05d5\u05e6\u05d4 \u05d0\u05ea \u05d4\u05d7\u05d9\u05d9\u05dd \u05e9\u05dc\u05d9 \u05d1\u05d7\u05d6\u05e8\u05d4",
-      "url": "https://open.spotify.com/track/6XXmUYotqTIbx9xOd9lQqW"
-    },
-    {
-      "added_at": "2024-09-12 21:00:00",
-      "album": {
         "name": "Water on Water",
         "url": "https://open.spotify.com/album/4ODnE9lIwYG32OtBiokX8P"
       },
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2024-09-12 21:00:00",
       "album": {
-        "name": "\u05d4\u05db\u05dc\u05d9\u05dd \u05d4\u05e9\u05d1\u05d5\u05e8\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/6I0Vjzr0C0aTTYX51gKmsk"
+        "name": "\u05d4\u05d9\u05d9 \u05d0\u05d7\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/0FYYI6vfeFR5ZkWpN8fkKB"
       },
       "artists": [
         {
-          "name": "Shuli Rand",
-          "url": "https://open.spotify.com/artist/7CgBEyXbjOjFX3HiysHtXN"
+          "name": "Aya Zahavi Feiglin",
+          "url": "https://open.spotify.com/artist/5OTBHykSuThA0RdYZTvDa2"
         }
       ],
-      "duration_ms": 207804,
-      "name": "\u05d4\u05db\u05dc\u05d9\u05dd \u05d4\u05e9\u05d1\u05d5\u05e8\u05d9\u05dd",
-      "url": "https://open.spotify.com/track/23GTlgyW30suOUiIzOeZwS"
+      "duration_ms": 229000,
+      "name": "\u05d4\u05d9\u05d9 \u05d0\u05d7\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/5eGL1KCy7mSLzcuDP1zoIn"
     },
     {
       "added_at": "2024-09-12 21:00:00",
@@ -1091,18 +1091,22 @@
     {
       "added_at": "2024-09-12 21:00:00",
       "album": {
-        "name": "\u05d4\u05d9\u05d9 \u05d0\u05d7\u05d5\u05ea",
-        "url": "https://open.spotify.com/album/0FYYI6vfeFR5ZkWpN8fkKB"
+        "name": "\u05d4\u05d0\u05d6\u05e8\u05d7 \u05d4\u05d0\u05d7\u05d3 / \u05e8\u05d9\u05d1\u05d5\u05e0\u05d5 \u05e9\u05dc \u05e2\u05d5\u05dc\u05dd (Live)",
+        "url": "https://open.spotify.com/album/0xfGRfVRvrt4zh0iBTg8Eu"
       },
       "artists": [
         {
-          "name": "Aya Zahavi Feiglin",
-          "url": "https://open.spotify.com/artist/5OTBHykSuThA0RdYZTvDa2"
+          "name": "Shlomi Shaban",
+          "url": "https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX"
+        },
+        {
+          "name": "Berry Sakharof",
+          "url": "https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC"
         }
       ],
-      "duration_ms": 229000,
-      "name": "\u05d4\u05d9\u05d9 \u05d0\u05d7\u05d5\u05ea",
-      "url": "https://open.spotify.com/track/5eGL1KCy7mSLzcuDP1zoIn"
+      "duration_ms": 343074,
+      "name": "\u05d4\u05d0\u05d6\u05e8\u05d7 \u05d4\u05d0\u05d7\u05d3 / \u05e8\u05d9\u05d1\u05d5\u05e0\u05d5 \u05e9\u05dc \u05e2\u05d5\u05dc\u05dd - Live",
+      "url": "https://open.spotify.com/track/3gv5bZNWHybHWDJjG5NgGa"
     }
   ],
   "unique_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",

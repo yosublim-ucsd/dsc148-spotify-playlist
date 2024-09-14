@@ -1779,7 +1779,7 @@
     },
     {
       "album": {
-        "name": "MM...FOOD",
+        "name": "MM..FOOD",
         "url": "https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N"
       },
       "artists": [
@@ -1876,6 +1876,28 @@
     {
       "album": {
         "name": "MM..FOOD",
+        "url": "https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N"
+      },
+      "artists": [
+        {
+          "name": "MF DOOM",
+          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+        },
+        {
+          "name": "Mr. Fantastik",
+          "url": "https://open.spotify.com/artist/7hpzx6fecRavN1B1YMxpOb"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172893,
+      "name": "Rapp Snitch Knishes",
+      "url": "https://open.spotify.com/track/5KUNwkaNf8l5A9sXZhiCgI"
+    },
+    {
+      "album": {
+        "name": "MM..FOOD",
         "url": "https://open.spotify.com/album/43yC4eriRHqTxGpb364KaR"
       },
       "artists": [
@@ -1894,24 +1916,6 @@
       "duration_ms": 172893,
       "name": "Rapp Snitch Knishes (feat. Mr. Fantastik)",
       "url": "https://open.spotify.com/track/4xz7WX28IkmcaHv06lCezR"
-    },
-    {
-      "album": {
-        "name": "MM...FOOD",
-        "url": "https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N"
-      },
-      "artists": [
-        {
-          "name": "MF DOOM",
-          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
-        }
-      ],
-      "date_added": "2023-12-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 172893,
-      "name": "Rapp Snitch Knishes feat. Mr. Fantastik",
-      "url": "https://open.spotify.com/track/5KUNwkaNf8l5A9sXZhiCgI"
     },
     {
       "album": {

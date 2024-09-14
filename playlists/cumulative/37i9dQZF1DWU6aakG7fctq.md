@@ -2,9 +2,9 @@
 
 ### [el nuevo indie](https://open.spotify.com/playlist/37i9dQZF1DWU6aakG7fctq)
 
-> Fresh Latin Indie you should know\. Cover: Quelle Rox
+> Fresh Latin Indie you should know\. Cover: PJ Sin Suela
 
-737 songs - 1 day 16 hr 31 min
+739 songs - 1 day 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Aqui?](https://open.spotify.com/track/3hIMhBDpIB6XbKoT843Ije) | [deadsoulsociety](https://open.spotify.com/artist/5jK1BdSQerlxAhyHMKpXe6) | [Aqui?](https://open.spotify.com/album/16s7UnxEudfSK1rcSgZ0VV) | 4:02 | 2024-04-19 | 2024-06-08 |
 | [aquí andamos](https://open.spotify.com/track/1rmqCneDbQBz3V0HMntNyY) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [aquí andamos](https://open.spotify.com/album/5J6UFbDlKsIaiuDcU6v6Ux) | 2:15 | 2023-11-10 | 2024-04-13 |
 | [Astronauta](https://open.spotify.com/track/7sFCPhgMD1BtEDVhlsV7uk) | [Marte](https://open.spotify.com/artist/3O2mT8DFtMzB6ptxFXdpHm) | [Polos Vol\. II](https://open.spotify.com/album/6NdZLwqetoEeNsiOFyt4UV) | 3:52 | 2024-02-16 | 2024-02-22 |
+| [Así Será](https://open.spotify.com/track/5ajj2mzJc4vRa3ib9VLEeT) | [Ale Fdz](https://open.spotify.com/artist/1m3YfDehEub35DvsmG9gMy) | [Así Será](https://open.spotify.com/album/0LvIRZFPYOL3oxnGMfNVuZ) | 4:36 | 2024-09-13 |  |
 | [Atrapada](https://open.spotify.com/track/7c0EhjQTq7i4W7eHHFQyXR) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Atrapada](https://open.spotify.com/album/5MIfFyJ75UraxeBT9MV3us) | 4:06 | 2024-02-09 | 2024-02-20 |
 | [Aunque nunca te lo diga](https://open.spotify.com/track/3bknyaIwxNamskujz37Gom) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg), [Santi Celli](https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF) | [Aunque nunca te lo diga](https://open.spotify.com/album/0csvMcIGbbqVdB3DHCw8X4) | 2:47 | 2023-03-10 | 2023-08-19 |
 | [Automóvil](https://open.spotify.com/track/4unjiYzweEhOqxR2t7VUv0) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [Automóvil](https://open.spotify.com/album/0J1njNNsv2a5PWoZaAoUnu) | 2:39 | 2024-02-09 | 2024-04-13 |
@@ -87,7 +88,7 @@
 | [BROOKLYN](https://open.spotify.com/track/7hIrfMx9NNqoKx3Nok9O6g) | [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [BROOKLYN](https://open.spotify.com/album/004QpFB05Jwt7N1gohK4l8) | 3:35 | 2023-05-19 | 2023-06-17 |
 | [bruce willisss](https://open.spotify.com/track/3ktkqlpsYxos7nF2CqGPh6) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [blush](https://open.spotify.com/album/6XFmWkqa5i9L4iKQSFZOHK) | 1:46 | 2024-07-26 | 2024-09-07 |
 | [By Your Side / A Tú Lado](https://open.spotify.com/track/5dfMkMSgERmPnpRc8E7wCc) | [Yung Pleit](https://open.spotify.com/artist/3NHGcZ2ALQygG4tdMagUnT) | [By Your Side / A Tú Lado](https://open.spotify.com/album/1rDnhUpyp6uBabWr8JAGzj) | 3:00 | 2024-06-21 | 2024-08-03 |
-| [Caballos](https://open.spotify.com/track/24XhxQCrRigCd7wMEbbRaI) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [Arco y Flecha](https://open.spotify.com/album/5TEvOwAKlHcNOqM5EUnohR) | 2:43 | 2024-06-14 |  |
+| [Caballos](https://open.spotify.com/track/24XhxQCrRigCd7wMEbbRaI) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [Arco y Flecha](https://open.spotify.com/album/5TEvOwAKlHcNOqM5EUnohR) | 2:43 | 2024-06-14 | 2024-09-14 |
 | [Cabras](https://open.spotify.com/track/0Z6NjrgKeVaR3G1lAOk4at) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Jimena González](https://open.spotify.com/artist/7C2SYZIxEKVRD1VacM3xxc) | [Cabras](https://open.spotify.com/album/4l3SJgabo5QTmFqTfW3KM5) | 3:41 | 2023-05-26 | 2023-08-05 |
 | [Café con Miel](https://open.spotify.com/track/5JeonPxXiD7yTHklwxNwiZ) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Café con Miel](https://open.spotify.com/album/0ByY3EdpKPHzI5AaeUarUl) | 3:15 | 2023-04-14 | 2024-01-20 |
 | [Calentica](https://open.spotify.com/track/5zpZBenhAEcX68n5H0KQez) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY), [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy) | [Calentica](https://open.spotify.com/album/6Pq71FyfNPnGTZqN2Qse67) | 3:08 | 2023-09-08 | 2024-02-18 |
@@ -202,6 +203,7 @@
 | [Empty](https://open.spotify.com/track/1qo2n9L8uzEW75f9nFzB88) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [God Said No](https://open.spotify.com/album/0bIXnppwOEeFqEUV0vqJJn) | 3:17 | 2024-06-28 |  |
 | [EN EL MISMO LUGAR](https://open.spotify.com/track/1ypOiHQBLeKpCge3rI2Qsq) | [Bilbao](https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT) | [EN EL MISMO LUGAR](https://open.spotify.com/album/0aNzPJUm5O1BjrCjWfp5ml) | 2:47 | 2024-06-14 |  |
 | [en la ciudad](https://open.spotify.com/track/5smdosXwKG5czbMDXqRtc7) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT), [dóntia](https://open.spotify.com/artist/6otFL2m5sOProVKidtkpyx) | [en la ciudad](https://open.spotify.com/album/6FC9OVa2vFyot2dp23GdiM) | 3:31 | 2023-03-03 | 2023-11-11 |
+| [En Los Espejos](https://open.spotify.com/track/4it2e3KPSADwuJumg4C9zz) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [En Los Espejos](https://open.spotify.com/album/1WOEma6DSa3TiFD4wIawvc) | 3:17 | 2024-09-13 |  |
 | [En los Huesos](https://open.spotify.com/track/0AFHjjPLUBriFn18A1Ybc4) | [Systema Solar](https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx), [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [En los Huesos](https://open.spotify.com/album/3EUhJitSG6eDyZMN1PPjuW) | 3:54 | 2023-05-12 | 2023-07-03 |
 | [En tu casa o en la mía \(feat\. Conociendo Rusia\)](https://open.spotify.com/track/6Y6dbhxP8gesJ5oTr7lBmi) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Conducción Temeraria](https://open.spotify.com/album/3jzSeHQDDQ8lLI59mYhVC0) | 3:32 | 2024-05-17 | 2024-06-01 |
 | [En Un Instante](https://open.spotify.com/track/4HePjcbUwHlbK94YtB03vo) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [En Un Instante](https://open.spotify.com/album/3Nbmmq4IWNvOEaJo99GUph) | 2:51 | 2023-05-26 | 2023-09-16 |
@@ -383,7 +385,7 @@
 | [Me Cansé](https://open.spotify.com/track/6fbEx1uVW5uLzeUdfcgZ2Z) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Me Cansé](https://open.spotify.com/album/5E5NaXKPK3LZTLkOtL5USb) | 3:19 | 2024-01-12 | 2024-04-13 |
 | [Me Estoy Enamorando](https://open.spotify.com/track/56IhOJAcMc28qxDqjmuwJC) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Me Estoy Enamorando](https://open.spotify.com/album/290mTa3886xNkEyOVtC53k) | 3:35 | 2023-02-17 | 2023-08-12 |
 | [Me Fui](https://open.spotify.com/track/4PQwFIg4CgTMuYraERrJsC) | [Leanys](https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V) | [Nova](https://open.spotify.com/album/5hCxkCTUg1CSBjcwJYTtnN) | 1:38 | 2024-08-09 |  |
-| [Me Gustan Tus Pies](https://open.spotify.com/track/5fcMptVw16W2ITNZG8203u) | [Joven Tom](https://open.spotify.com/artist/1JSr283fyctRV2R4OER9gP) | [Putas Canciones](https://open.spotify.com/album/6HGjfn7XpPRmRVAzlktFmF) | 2:34 | 2024-08-09 |  |
+| [Me Gustan Tus Pies](https://open.spotify.com/track/5fcMptVw16W2ITNZG8203u) | [Joven Tom](https://open.spotify.com/artist/1JSr283fyctRV2R4OER9gP) | [Putas Canciones](https://open.spotify.com/album/6HGjfn7XpPRmRVAzlktFmF) | 2:34 | 2024-08-09 | 2024-09-14 |
 | [Me Haces Bien](https://open.spotify.com/track/4atv9K7c3t74jl9H7ZSdcu) | [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA), [Samtwenty](https://open.spotify.com/artist/0TlO93nJUFn6FAGj0YugEO), [Desert Niños](https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD), [Castellano](https://open.spotify.com/artist/6UO0OmWRTSoZCTmbpHRf91) | [Me Haces Bien](https://open.spotify.com/album/6Ruqdzq72gVxv0cwv1zdqC) | 3:27 | 2023-08-11 | 2023-11-11 |
 | [Me Hipnotizas](https://open.spotify.com/track/4nCTEteEhAkAGtk9rMSUUe) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Me Hipnotizas](https://open.spotify.com/album/3kf3Kvtes1T7ywPIn2oW30) | 2:35 | 2024-05-17 | 2024-07-13 |
 | [me perdono](https://open.spotify.com/track/0Srk7bCTje83WDSiknSXQy) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV) | [me perdono](https://open.spotify.com/album/4TR5qYz8iLFlQLy1NUDn1V) | 3:32 | 2022-08-19 | 2023-04-02 |

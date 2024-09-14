@@ -275,26 +275,6 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "Sleeper",
-        "url": "https://open.spotify.com/album/49ssk5poFZAKoOJcj7PpsD"
-      },
-      "artists": [
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        },
-        {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
-        }
-      ],
-      "duration_ms": 244271,
-      "name": "Sleeper",
-      "url": "https://open.spotify.com/track/5UWJ898JHDe9Ong9Gnkdhd"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
         "name": "Summer Moon (feat. Kevin Kaarl)",
         "url": "https://open.spotify.com/album/3kdPIjFwMkIBCIsUqt3SrV"
       },
@@ -311,6 +291,26 @@
       "duration_ms": 177673,
       "name": "Summer Moon (feat. Kevin Kaarl)",
       "url": "https://open.spotify.com/track/2dNGIZvZF71AR72OHpo3CE"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
+        "name": "Sleeper",
+        "url": "https://open.spotify.com/album/49ssk5poFZAKoOJcj7PpsD"
+      },
+      "artists": [
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        },
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "duration_ms": 244271,
+      "name": "Sleeper",
+      "url": "https://open.spotify.com/track/5UWJ898JHDe9Ong9Gnkdhd"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "Us Without Me",
-        "url": "https://open.spotify.com/album/7rQcfmaOYzHKmAlyeuwdTt"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 200039,
-      "name": "Us Without Me",
-      "url": "https://open.spotify.com/track/7fEI29hmaWcCMPi8VJf33C"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
         "name": "No One But You",
         "url": "https://open.spotify.com/album/4DlUVB5ZqzYYB11YoHonsR"
       },
@@ -535,6 +519,22 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
+        "name": "Us Without Me",
+        "url": "https://open.spotify.com/album/7rQcfmaOYzHKmAlyeuwdTt"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 200039,
+      "name": "Us Without Me",
+      "url": "https://open.spotify.com/track/7fEI29hmaWcCMPi8VJf33C"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
         "name": "TMF",
         "url": "https://open.spotify.com/album/0zGLgwn8xSDwNrzc67tEkt"
       },
@@ -547,6 +547,22 @@
       "duration_ms": 211283,
       "name": "TMF",
       "url": "https://open.spotify.com/track/67OrF48gkNByr9HpRtSOSD"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
+        "name": "Good Thing (Deluxe)",
+        "url": "https://open.spotify.com/album/15UQ2i9tFgP1VL24O3aBvM"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 230853,
+      "name": "Naomi",
+      "url": "https://open.spotify.com/track/5wO44FhJyX7wWUgwRjqSK1"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -567,22 +583,6 @@
       "duration_ms": 234771,
       "name": "Free (feat. Tom Misch)",
       "url": "https://open.spotify.com/track/01wXY7C3ywHBMKmj3f31EB"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
-        "name": "Good Thing (Deluxe)",
-        "url": "https://open.spotify.com/album/15UQ2i9tFgP1VL24O3aBvM"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 230853,
-      "name": "Naomi",
-      "url": "https://open.spotify.com/track/5wO44FhJyX7wWUgwRjqSK1"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -683,6 +683,22 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
+        "name": "Soul,PRESENT",
+        "url": "https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "duration_ms": 186053,
+      "name": "SOW",
+      "url": "https://open.spotify.com/track/65zlOAreDi0nexSq6G33E2"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
         "name": "Most Wanted (Deluxe)",
         "url": "https://open.spotify.com/album/46fxxm1oHMPzR51GElXrAt"
       },
@@ -703,38 +719,6 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "Soul,PRESENT",
-        "url": "https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6"
-      },
-      "artists": [
-        {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
-        }
-      ],
-      "duration_ms": 186053,
-      "name": "SOW",
-      "url": "https://open.spotify.com/track/65zlOAreDi0nexSq6G33E2"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
-        "name": "Better Things",
-        "url": "https://open.spotify.com/album/10WziHwO8dTEYnMGsWXQ2C"
-      },
-      "artists": [
-        {
-          "name": "Kee'ahn",
-          "url": "https://open.spotify.com/artist/6kpchs42F1L1TwlfLT1XoL"
-        }
-      ],
-      "duration_ms": 222203,
-      "name": "Better Things",
-      "url": "https://open.spotify.com/track/4S0TVBmZlqQWjoaFthRlbE"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
         "name": "Been and Gone",
         "url": "https://open.spotify.com/album/6aTDGqCSxTL7ltobEf5q89"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 280218,
       "name": "Been and Gone",
       "url": "https://open.spotify.com/track/23QzGEg02ffn4D9Dje9Nsc"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
+        "name": "Better Things",
+        "url": "https://open.spotify.com/album/10WziHwO8dTEYnMGsWXQ2C"
+      },
+      "artists": [
+        {
+          "name": "Kee'ahn",
+          "url": "https://open.spotify.com/artist/6kpchs42F1L1TwlfLT1XoL"
+        }
+      ],
+      "duration_ms": 222203,
+      "name": "Better Things",
+      "url": "https://open.spotify.com/track/4S0TVBmZlqQWjoaFthRlbE"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "chasing the bus",
-        "url": "https://open.spotify.com/album/1YT9NhBcdQG2dlWouHhaSp"
-      },
-      "artists": [
-        {
-          "name": "Yaya Bey",
-          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
-        }
-      ],
-      "duration_ms": 188550,
-      "name": "chasing the bus",
-      "url": "https://open.spotify.com/track/2nvb9TWAONy5kzsqEUyT2z"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
         "name": "Hard To Get High",
         "url": "https://open.spotify.com/album/7mrYWEvmuAkZussx8UxwkD"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 276229,
       "name": "Hard To Get High",
       "url": "https://open.spotify.com/track/1nGSviVN5YHenuhZVFOGyx"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
+        "name": "chasing the bus",
+        "url": "https://open.spotify.com/album/1YT9NhBcdQG2dlWouHhaSp"
+      },
+      "artists": [
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        }
+      ],
+      "duration_ms": 188550,
+      "name": "chasing the bus",
+      "url": "https://open.spotify.com/track/2nvb9TWAONy5kzsqEUyT2z"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
+        "name": "Autumn Girl",
+        "url": "https://open.spotify.com/album/7Ii762nNXDDzkMP51jZ8cE"
+      },
+      "artists": [
+        {
+          "name": "Will Clift",
+          "url": "https://open.spotify.com/artist/36MMFW5n8cGIE67RoT0n0H"
+        }
+      ],
+      "duration_ms": 154500,
+      "name": "Autumn Girl",
+      "url": "https://open.spotify.com/track/7BHeJjEfxN7tXL6H02g8dO"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
         "name": "'Round Midnight",
         "url": "https://open.spotify.com/album/0AP435mSKEb4jF8D34nfkM"
       },
@@ -1055,22 +1071,6 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "Autumn Girl",
-        "url": "https://open.spotify.com/album/7Ii762nNXDDzkMP51jZ8cE"
-      },
-      "artists": [
-        {
-          "name": "Will Clift",
-          "url": "https://open.spotify.com/artist/36MMFW5n8cGIE67RoT0n0H"
-        }
-      ],
-      "duration_ms": 154500,
-      "name": "Autumn Girl",
-      "url": "https://open.spotify.com/track/7BHeJjEfxN7tXL6H02g8dO"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
         "name": "Y3",
         "url": "https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj"
       },
@@ -1083,22 +1083,6 @@
       "duration_ms": 218048,
       "name": "Risk It All",
       "url": "https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
-        "name": "exodus the north star",
-        "url": "https://open.spotify.com/album/31prAWzIqlD3D7R4qPZlfr"
-      },
-      "artists": [
-        {
-          "name": "Yaya Bey",
-          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
-        }
-      ],
-      "duration_ms": 205354,
-      "name": "exodus the north star",
-      "url": "https://open.spotify.com/track/6P1X3qgDqlkjf8XmJS9Xiw"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -1147,18 +1131,18 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "Don't Forget to Look Up",
-        "url": "https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK"
+        "name": "exodus the north star",
+        "url": "https://open.spotify.com/album/31prAWzIqlD3D7R4qPZlfr"
       },
       "artists": [
         {
-          "name": "Maverick Sabre",
-          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
         }
       ],
-      "duration_ms": 210873,
-      "name": "Good Man",
-      "url": "https://open.spotify.com/track/5KfKnJVNXZoohjeSA6hw8e"
+      "duration_ms": 205354,
+      "name": "exodus the north star",
+      "url": "https://open.spotify.com/track/6P1X3qgDqlkjf8XmJS9Xiw"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -1175,6 +1159,22 @@
       "duration_ms": 208250,
       "name": "Reelin'",
       "url": "https://open.spotify.com/track/0TGjVuX7qOk9rAjPnKi1p3"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
+        "name": "Don't Forget to Look Up",
+        "url": "https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK"
+      },
+      "artists": [
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        }
+      ],
+      "duration_ms": 210873,
+      "name": "Good Man",
+      "url": "https://open.spotify.com/track/5KfKnJVNXZoohjeSA6hw8e"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "Soul Lament",
-        "url": "https://open.spotify.com/album/1mIhoA0E2M4ELYWX49XzPM"
+        "name": "catch the night",
+        "url": "https://open.spotify.com/album/5l2k8k5EZeC1qcRKz0wzIs"
       },
       "artists": [
         {
-          "name": "GC OConnor",
-          "url": "https://open.spotify.com/artist/25ra0El5kIfD8vrJVTtTf2"
+          "name": "Kee'ahn",
+          "url": "https://open.spotify.com/artist/6kpchs42F1L1TwlfLT1XoL"
         }
       ],
-      "duration_ms": 271919,
-      "name": "Rollin Dice",
-      "url": "https://open.spotify.com/track/7Jc4S1B2UdEupO5xJdEQAc"
+      "duration_ms": 175595,
+      "name": "catch the night",
+      "url": "https://open.spotify.com/track/1m9yB7P1Ba9cuBEMXPHg3n"
     }
   ],
   "unique_name": "Soulful",

@@ -1,6 +1,6 @@
 {
   "description": "de skarpeste nye knive i dansk musik \ud83c\udf80 <a href=\"spotify:artist:2jCpr1LrI4wriiCyiqqyDN\">Gunge</a> \ud83c\udf80",
-  "num_followers": 45281,
+  "num_followers": 45287,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
@@ -135,22 +135,6 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "dagdr\u00f8mmer",
-        "url": "https://open.spotify.com/album/5LmtvUZQ9bkItt9x1E2tA6"
-      },
-      "artists": [
-        {
-          "name": "Mille",
-          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
-        }
-      ],
-      "duration_ms": 170292,
-      "name": "dagdr\u00f8mmer",
-      "url": "https://open.spotify.com/track/5esSVR7UK3Nc7ymSOWJIc5"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
         "name": "Smelter Under M\u00e5nen",
         "url": "https://open.spotify.com/album/4GYrs3V9M967vgil6OP0TE"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 198388,
       "name": "Smelter Under M\u00e5nen",
       "url": "https://open.spotify.com/track/0nVUuzrVZc5t9S48ifesg6"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
+        "name": "dagdr\u00f8mmer",
+        "url": "https://open.spotify.com/album/5LmtvUZQ9bkItt9x1E2tA6"
+      },
+      "artists": [
+        {
+          "name": "Mille",
+          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
+        }
+      ],
+      "duration_ms": 170292,
+      "name": "dagdr\u00f8mmer",
+      "url": "https://open.spotify.com/track/5esSVR7UK3Nc7ymSOWJIc5"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -303,22 +303,6 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "Sytten",
-        "url": "https://open.spotify.com/album/0GI9UH21kp6Gp2dEwrll0J"
-      },
-      "artists": [
-        {
-          "name": "Ella Augusta",
-          "url": "https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz"
-        }
-      ],
-      "duration_ms": 194899,
-      "name": "Hvad Nu Hvis",
-      "url": "https://open.spotify.com/track/0duVSc8MQzBa1mbcDel12P"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
         "name": "hva s\u00e5?",
         "url": "https://open.spotify.com/album/0KmHCjtrUeOPujRiAcULPj"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 164696,
       "name": "hva s\u00e5?",
       "url": "https://open.spotify.com/track/5IeqczS5hrm0otRU9O8YWe"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
+        "name": "Sytten",
+        "url": "https://open.spotify.com/album/0GI9UH21kp6Gp2dEwrll0J"
+      },
+      "artists": [
+        {
+          "name": "Ella Augusta",
+          "url": "https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz"
+        }
+      ],
+      "duration_ms": 194899,
+      "name": "Hvad Nu Hvis",
+      "url": "https://open.spotify.com/track/0duVSc8MQzBa1mbcDel12P"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "N\u00e5r Du R\u00f8rer Ved Mig",
-        "url": "https://open.spotify.com/album/4QF32PL3bB5cAzY6RFzeLg"
-      },
-      "artists": [
-        {
-          "name": "\u00d8sten",
-          "url": "https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU"
-        }
-      ],
-      "duration_ms": 217242,
-      "name": "N\u00e5r Du R\u00f8rer Ved Mig",
-      "url": "https://open.spotify.com/track/1KaWWvD6AcG3Hyyr9jyLhf"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
         "name": "I storsl\u00e5et kinddans, med livet som indsats",
         "url": "https://open.spotify.com/album/4kCIEEooRWkYSiZhn7EECg"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 171384,
       "name": "Mand P\u00e5 En Nat",
       "url": "https://open.spotify.com/track/003Ljf2u0rLc63T1jSTa0L"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
+        "name": "N\u00e5r Du R\u00f8rer Ved Mig",
+        "url": "https://open.spotify.com/album/4QF32PL3bB5cAzY6RFzeLg"
+      },
+      "artists": [
+        {
+          "name": "\u00d8sten",
+          "url": "https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU"
+        }
+      ],
+      "duration_ms": 217242,
+      "name": "N\u00e5r Du R\u00f8rer Ved Mig",
+      "url": "https://open.spotify.com/track/1KaWWvD6AcG3Hyyr9jyLhf"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "Maler",
-        "url": "https://open.spotify.com/album/4oE9RcZnqrhAxkYIrzmffP"
-      },
-      "artists": [
-        {
-          "name": "BONF\u00cd",
-          "url": "https://open.spotify.com/artist/3rDUvh74JdHkHrgV7xyEia"
-        }
-      ],
-      "duration_ms": 151395,
-      "name": "Maler",
-      "url": "https://open.spotify.com/track/2klZrdYgQZqwIqX1aMzBKZ"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
         "name": "F\u00f8lsom dreng",
         "url": "https://open.spotify.com/album/0gOxMVZPRTfPAxrV5UXKWA"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 198998,
       "name": "F\u00f8lsom dreng",
       "url": "https://open.spotify.com/track/7f8XR9iGp7CQzCfKNmtt7t"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
+        "name": "Maler",
+        "url": "https://open.spotify.com/album/4oE9RcZnqrhAxkYIrzmffP"
+      },
+      "artists": [
+        {
+          "name": "BONF\u00cd",
+          "url": "https://open.spotify.com/artist/3rDUvh74JdHkHrgV7xyEia"
+        }
+      ],
+      "duration_ms": 151395,
+      "name": "Maler",
+      "url": "https://open.spotify.com/track/2klZrdYgQZqwIqX1aMzBKZ"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -895,22 +895,18 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "Legeb\u00f8rn",
-        "url": "https://open.spotify.com/album/1IrfYgdNAzSX4NzPB0pjKD"
+        "name": "B\u00e6nkevarmer",
+        "url": "https://open.spotify.com/album/1XHFbdl2xxkl4cyAVyCqsd"
       },
       "artists": [
         {
-          "name": "Barselona",
-          "url": "https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m"
-        },
-        {
-          "name": "Peter Sommer",
-          "url": "https://open.spotify.com/artist/5EXeUuYgGRA1RnXHqALLDL"
+          "name": "Ida Laurberg",
+          "url": "https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4"
         }
       ],
-      "duration_ms": 290291,
-      "name": "Elskede At Dr\u00f8mme, Dr\u00f8mmer Om At Elske",
-      "url": "https://open.spotify.com/track/1Z360UrBxnLoVV05mJczDh"
+      "duration_ms": 234138,
+      "name": "Uden At T\u00e6nke P\u00e5 Dig",
+      "url": "https://open.spotify.com/track/0C3B4j0LFTYz22XvR9tat1"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -931,18 +927,38 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "B\u00e6nkevarmer",
-        "url": "https://open.spotify.com/album/1XHFbdl2xxkl4cyAVyCqsd"
+        "name": "Legeb\u00f8rn",
+        "url": "https://open.spotify.com/album/1IrfYgdNAzSX4NzPB0pjKD"
       },
       "artists": [
         {
-          "name": "Ida Laurberg",
-          "url": "https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4"
+          "name": "Barselona",
+          "url": "https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m"
+        },
+        {
+          "name": "Peter Sommer",
+          "url": "https://open.spotify.com/artist/5EXeUuYgGRA1RnXHqALLDL"
         }
       ],
-      "duration_ms": 234138,
-      "name": "Uden At T\u00e6nke P\u00e5 Dig",
-      "url": "https://open.spotify.com/track/0C3B4j0LFTYz22XvR9tat1"
+      "duration_ms": 290291,
+      "name": "Elskede At Dr\u00f8mme, Dr\u00f8mmer Om At Elske",
+      "url": "https://open.spotify.com/track/1Z360UrBxnLoVV05mJczDh"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
+        "name": "Syreregn",
+        "url": "https://open.spotify.com/album/0IZtOod9T7rvTCAYcoEsfz"
+      },
+      "artists": [
+        {
+          "name": "BONF\u00cd",
+          "url": "https://open.spotify.com/artist/3rDUvh74JdHkHrgV7xyEia"
+        }
+      ],
+      "duration_ms": 170192,
+      "name": "Syreregn",
+      "url": "https://open.spotify.com/track/1P6IhxWSo9KtdCZj87wYo2"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -991,22 +1007,6 @@
       "duration_ms": 212589,
       "name": "K\u00e6rligheden Vinder",
       "url": "https://open.spotify.com/track/277dNnpdaPceOiB6lVP8qF"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
-        "name": "Syreregn",
-        "url": "https://open.spotify.com/album/0IZtOod9T7rvTCAYcoEsfz"
-      },
-      "artists": [
-        {
-          "name": "BONF\u00cd",
-          "url": "https://open.spotify.com/artist/3rDUvh74JdHkHrgV7xyEia"
-        }
-      ],
-      "duration_ms": 170192,
-      "name": "Syreregn",
-      "url": "https://open.spotify.com/track/1P6IhxWSo9KtdCZj87wYo2"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
+        "name": "dagdr\u00f8mmer (akustisk version)",
+        "url": "https://open.spotify.com/album/7f6dsDteuo24cgM9vK5RSh"
+      },
+      "artists": [
+        {
+          "name": "Mille",
+          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
+        }
+      ],
+      "duration_ms": 162573,
+      "name": "l\u00e6s mig (akustisk version)",
+      "url": "https://open.spotify.com/track/3rY5dgQAki617xDHkqjEux"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
         "name": "Din Sang",
         "url": "https://open.spotify.com/album/4zY0cv1ongZ9vxz5K9w7eD"
       },
@@ -1079,26 +1095,6 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "</3",
-        "url": "https://open.spotify.com/album/5eLaGyEggzHmcTzRQyGkzq"
-      },
-      "artists": [
-        {
-          "name": "Kind mod Kind",
-          "url": "https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As"
-        },
-        {
-          "name": "Kundo",
-          "url": "https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr"
-        }
-      ],
-      "duration_ms": 203218,
-      "name": "Til Mit Hjerte Stopper (feat. Kundo)",
-      "url": "https://open.spotify.com/track/5aZzTieCOHU3CfhLJ7FSyS"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
         "name": "Trampoliner",
         "url": "https://open.spotify.com/album/2QvWHgcFu0ztbYoSxLU2d4"
       },
@@ -1111,22 +1107,6 @@
       "duration_ms": 151062,
       "name": "Kender Du F\u00f8lelsen",
       "url": "https://open.spotify.com/track/0cbtDG0OLxNccO5lSWtngT"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
-        "name": "dagdr\u00f8mmer (akustisk version)",
-        "url": "https://open.spotify.com/album/7f6dsDteuo24cgM9vK5RSh"
-      },
-      "artists": [
-        {
-          "name": "Mille",
-          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
-        }
-      ],
-      "duration_ms": 162573,
-      "name": "l\u00e6s mig (akustisk version)",
-      "url": "https://open.spotify.com/track/3rY5dgQAki617xDHkqjEux"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -1159,6 +1139,26 @@
       "duration_ms": 188408,
       "name": "ENDORFINER",
       "url": "https://open.spotify.com/track/2HvqyWJEzmr51bWogSVIb2"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
+        "name": "</3",
+        "url": "https://open.spotify.com/album/5eLaGyEggzHmcTzRQyGkzq"
+      },
+      "artists": [
+        {
+          "name": "Kind mod Kind",
+          "url": "https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As"
+        },
+        {
+          "name": "Kundo",
+          "url": "https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr"
+        }
+      ],
+      "duration_ms": 203218,
+      "name": "Til Mit Hjerte Stopper (feat. Kundo)",
+      "url": "https://open.spotify.com/track/5aZzTieCOHU3CfhLJ7FSyS"
     },
     {
       "added_at": "2024-09-12 22:00:00",

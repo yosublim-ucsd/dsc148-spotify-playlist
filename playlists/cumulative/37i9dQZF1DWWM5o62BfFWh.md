@@ -4,7 +4,7 @@
 
 > ¡Música urbana representando a Cuba! Cover: Gente de Zona
 
-150 songs - 8 hr 49 min
+151 songs - 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [Quiéreme](https://open.spotify.com/track/649tz8MtbCHSTEzNBw7c1Q) | [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp) | [Invicto](https://open.spotify.com/album/2oygVM25oyhOD01iz2xDzh) | 3:11 | 2022-02-25 |  |
 | [Quiérete](https://open.spotify.com/track/2O16sRdYyu4POSZklWErrb) | [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [Motiff](https://open.spotify.com/artist/5yjh35rXozitS6KLyjicLj), [Nesty](https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg) | [Quiérete](https://open.spotify.com/album/0ZS3u4DW0yl21jzb8CipES) | 3:10 | 2023-05-12 |  |
 | [Rica y Pegá \- Remix](https://open.spotify.com/track/0mogth6Cnq4RoqDEfyCptQ) | [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp), [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS) | [Rica y Pegá \(Remix\)](https://open.spotify.com/album/3SPACHwmJ0uhgwsi9hjtTp) | 2:52 | 2023-05-12 |  |
-| [Salsa](https://open.spotify.com/track/6hJShCXE9NWqhZfH2Qbi6n) | [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [Salsa](https://open.spotify.com/album/5ioWdgA2k4FhPQIC5bjSCY) | 2:56 | 2023-05-12 |  |
+| [Salsa](https://open.spotify.com/track/6hJShCXE9NWqhZfH2Qbi6n) | [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [Salsa](https://open.spotify.com/album/5ioWdgA2k4FhPQIC5bjSCY) | 2:56 | 2023-05-12 | 2024-09-14 |
 | [Segundas Partes](https://open.spotify.com/track/55krWysUpV33JHSCvmiVZ7) | [La Diosa](https://open.spotify.com/artist/6HNBN7MOvwQqyv3VO94z4q), [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK), [Wildey](https://open.spotify.com/artist/7CNxv71fklGu3VhjX0QDiS) | [Segundas Partes](https://open.spotify.com/album/5a0lWQj2QCsbEthtwXl8KJ) | 3:22 | 2022-04-08 | 2023-02-11 |
 | [Segundas Partes](https://open.spotify.com/track/5Ij3qIcQWIrIATGoYVR729) | [La Diosa](https://open.spotify.com/artist/6HNBN7MOvwQqyv3VO94z4q), [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK), [Wildey](https://open.spotify.com/artist/7CNxv71fklGu3VhjX0QDiS) | [Segundas Partes](https://open.spotify.com/album/2yqDXA8C3OztqCygWf4I4v) | 3:22 | 2022-02-25 | 2023-01-14 |
 | [Si La Ves](https://open.spotify.com/track/1TNyXS0BBlbChi2fpgrIlM) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK), [Batule DJ](https://open.spotify.com/artist/349Ox95zDqb4BMjFf9C2Uq) | [Si La Ves](https://open.spotify.com/album/2dPRXosjxESVUNSg1cpiz9) | 3:43 | 2023-05-12 |  |
@@ -131,6 +131,7 @@
 | [Si No Vuelves](https://open.spotify.com/track/3MIhs0pA6pSkFFdXWVVz03) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [OTRA COSA](https://open.spotify.com/album/00AVS4xDGxD61LgiIkDaN7) | 3:35 | 2022-04-08 | 2024-04-19 |
 | [Sigue Recto](https://open.spotify.com/track/5rTHEkJuuXkrWntg7YagKm) | [El Kimiko y Yordy](https://open.spotify.com/artist/0DjHJO4Ez3nSVfhv8x95cn), [Michel Boutic](https://open.spotify.com/artist/1uac76BPb8mnvmQv6AtBZ9) | [Sigue Recto](https://open.spotify.com/album/5VDezwJkBF9Q8SeqvLyMjy) | 3:18 | 2022-02-25 | 2023-05-13 |
 | [Sola \- Remix](https://open.spotify.com/track/7dkxnJqINepdJQKrM6Pf8f) | [Combinacion De La Habana](https://open.spotify.com/artist/3hfczsQRbhO3io1UwQFM1y), [EL DEY](https://open.spotify.com/artist/3WzQYqbFJ40FsLCFYwZxeF), [El Jean](https://open.spotify.com/artist/4jsfPs9ADxi4kUzQUbVg29) | [Sola \(Remix\)](https://open.spotify.com/album/2askI94d5uFdVYfazFH4YZ) | 3:19 | 2023-05-12 |  |
+| [Sola Se Va](https://open.spotify.com/track/3iscKh3JLIMzYljBPcEg4X) | [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [Apartamento 33](https://open.spotify.com/album/28ZfScNhokihJvkgp6WmWX) | 2:32 | 2024-09-13 |  |
 | [Soltera](https://open.spotify.com/track/41ffIDkb10CvzGNBYXm498) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [Soltera](https://open.spotify.com/album/1LpGk730HxND92t3AW8Jee) | 2:51 | 2023-02-10 |  |
 | [Superbien](https://open.spotify.com/track/3598bQbF7rR2rG65nHnz0E) | [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [DJ Conds](https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw) | [Superbien](https://open.spotify.com/album/0slbbrD1hMc25xgCjEuy39) | 3:41 | 2022-02-25 |  |
 | [Te Amo \(Versos Gastados\) \- Prod\. by Cuban Deejay$](https://open.spotify.com/track/44IPKz8KN6H0wieHvTQH4w) | [Divan](https://open.spotify.com/artist/5R9qfSPB77aX9n9GKww0PP), [Roberto Ferrante](https://open.spotify.com/artist/2aiM1OfMODFLUXaQgEVPK1) | [\#Round2](https://open.spotify.com/album/6a3ea5TFfoPTy5mg4QitFr) | 3:39 | 2022-02-25 |  |

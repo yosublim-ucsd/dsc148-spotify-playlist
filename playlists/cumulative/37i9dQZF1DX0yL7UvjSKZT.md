@@ -4,7 +4,7 @@
 
 > Fresh takes on that high lonesome sound\. Cover: Kaia Kater
 
-471 songs - 1 day 5 hr 11 min
+473 songs - 1 day 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Hey Brother](https://open.spotify.com/track/0HmmGtJzwfqvpKW0ixeapq) | [Dan Tyminski](https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8) | [God Fearing Heathen](https://open.spotify.com/album/6sQipYOa0SqDbcvnahcYpu) | 4:22 | 2023-07-21 | 2024-04-19 |
 | [Hey Brother](https://open.spotify.com/track/1PJyFJkbpzost4QjRaa01J) | [Dan Tyminski](https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8) | [Hey Brother](https://open.spotify.com/album/6rtyoioVowLfAh1PvoKtdU) | 4:22 | 2024-04-12 |  |
 | [Hey Magnolia](https://open.spotify.com/track/3JyOC3UOO8lTzbADm8UNyQ) | [Forest Sun](https://open.spotify.com/artist/4apOiTBEMqQgDWu4n6fAYf) | [Hey Magnolia](https://open.spotify.com/album/5DNdTA8fnE85rNWpdEFtcR) | 2:44 | 2022-05-13 | 2023-01-14 |
+| [High Life](https://open.spotify.com/track/79euymTE7egtSLkw2oYFWT) | [Olivia Wolf](https://open.spotify.com/artist/4nCfP4yZhkF1g7g8MlzCM7), [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [High Life](https://open.spotify.com/album/0iJRhOqdyE4arCftukw6CN) | 3:25 | 2024-09-13 |  |
 | [Hold On](https://open.spotify.com/track/7BEBCMpNRIulT7AXPY6F5f) | [Laney Lou and the Bird Dogs](https://open.spotify.com/artist/2X8vBRaS7l9JlOJS3uoz3T) | [Hold On](https://open.spotify.com/album/5ElvHfrIkMQNgAOEqsW4Hx) | 4:20 | 2023-05-19 | 2024-03-09 |
 | [Holding Pattern](https://open.spotify.com/track/29MlUsEsDHZ1vIv7I41UVq) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [Celebrants](https://open.spotify.com/album/2ruZGj3O7oL91f9re3BXLq) | 3:05 | 2023-10-20 | 2024-04-19 |
 | [Holding Pattern](https://open.spotify.com/track/5rR0Xg7Jn31EqbdueZYS3h) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [Holding Pattern](https://open.spotify.com/album/54yXHow53RS0QZJWWjU38r) | 3:05 | 2023-02-17 | 2024-05-11 |
@@ -441,6 +442,7 @@
 | [Weevils in the Grits](https://open.spotify.com/track/1Dg3PcIeIpsGRlckX8jHEE) | [Sami Braman](https://open.spotify.com/artist/3ESdsDgxcy5caRV6Ufcwre), [Brittany Haas](https://open.spotify.com/artist/35HI5ILDlg2vduaII47ItP) | [Riveter](https://open.spotify.com/album/2oELvsQJrL4W6YvHnoDVnD) | 3:41 | 2023-12-15 | 2024-04-19 |
 | [Weevils in the Grits](https://open.spotify.com/track/5npvIsHPd35M5JioSnVJHs) | [Sami Braman](https://open.spotify.com/artist/3ESdsDgxcy5caRV6Ufcwre), [Brittany Haas](https://open.spotify.com/artist/35HI5ILDlg2vduaII47ItP) | [Weevils in the Grits](https://open.spotify.com/album/40Yxmocscw8TzoyID1h45C) | 3:41 | 2023-02-17 |  |
 | [West of Houston \(Bonus Track\)](https://open.spotify.com/track/4x43n4J7FLEz92AYNKsEgi) | [Gavin Powell](https://open.spotify.com/artist/6PXQ7OwfxHb3IxWAjMMi3k) | [Jacksonville Sunrise](https://open.spotify.com/album/5EnUVtwTiJmNlwPRF6Gml3) | 3:29 | 2021-10-01 | 2023-05-16 |
+| [What's Gonna Become of Me](https://open.spotify.com/track/3gdOwcqtYHUyw1FuU0hIxG) | [Jerron Paxton](https://open.spotify.com/artist/55AXvXsYcSs54rz9XDtc0V) | [What's Gonna Become of Me](https://open.spotify.com/album/0JDaQznWdFuq9Aem2CWTn0) | 3:48 | 2024-09-13 |  |
 | [Where Berries Grow](https://open.spotify.com/track/0ideOQQL73HMu4KS99cL99) | [Ana Egge](https://open.spotify.com/artist/1dHhosKN9sgDJjFltalUch) | [Where Berries Grow](https://open.spotify.com/album/30vFeCWrEiXEH1MR75ILfU) | 3:36 | 2024-03-08 |  |
 | [Where Good Things Grow](https://open.spotify.com/track/7qBmQHHhWUJUqBGhFHoLs4) | [Maygen & The Birdwatcher](https://open.spotify.com/artist/5R2t1TUrdWCub9CAUhnzz8) | [Where Good Things Grow](https://open.spotify.com/album/2t2qFshMCOLiukZqrYR8Ef) | 3:54 | 2023-11-17 | 2024-08-03 |
 | [Where I Need to Be](https://open.spotify.com/track/3n8FRxd5pDfRPoUkzyL871) | [Highland Reverie](https://open.spotify.com/artist/1xm0FYqJd14TSZdz5huwd2) | [Where I Need to Be](https://open.spotify.com/album/3hQecMz4SlCwERDyC67X6N) | 3:19 | 2023-11-17 |  |

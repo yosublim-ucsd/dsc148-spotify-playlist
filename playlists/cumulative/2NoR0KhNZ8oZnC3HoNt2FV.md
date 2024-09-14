@@ -4,7 +4,7 @@
 
 > 
 
-947 songs - 2 day 7 hr 2 min
+949 songs - 2 day 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -613,6 +613,7 @@
 | [Now](https://open.spotify.com/track/5ftkWU3phWxdL8wjujAmH5) | [Lil Gotit](https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le) | [Crazy But It's True](https://open.spotify.com/album/5Am6t47OynK0Ft1qF6UjbX) | 3:25 | 2024-01-25 |  |
 | [Nuthin' But A "G" Thang](https://open.spotify.com/track/5Tbpp3OLLClPJF8t1DmrFD) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [The Chronic](https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt) | 3:57 | 2023-11-30 | 2024-08-08 |
 | [née\-nah](https://open.spotify.com/track/2yUzr8Sr6ldG8vmHhZwTnz) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 3:40 | 2024-02-26 |  |
+| [Off White Rozay](https://open.spotify.com/track/4DDnNyzFo6KaIacYE7RP6p) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Off White Rozay](https://open.spotify.com/album/18I4Bx1FCtAeb9uUvtOYia) | 2:29 | 2024-09-13 |  |
 | [Offence](https://open.spotify.com/track/7Da4mrNgzxFRCCZKtOyTNd) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Offence](https://open.spotify.com/album/6l8ExkzJ7t3BsjfQKqA0T2) | 2:48 | 2024-01-25 |  |
 | [Oh My God](https://open.spotify.com/track/17GMg9jccm0sz5re7cWJCu) | [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29) | [Oh My God](https://open.spotify.com/album/4EpHrmN82k7id1BgYl6FOS) | 3:06 | 2024-01-25 |  |
 | [Oh Okay \(feat\. Young Thug & Lil Baby\)](https://open.spotify.com/track/38844QuZDlnt44uHPrSA3S) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Drip Season 3 \- Deluxe](https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi) | 3:19 | 2024-01-25 |  |
@@ -939,6 +940,7 @@
 | [Wockesha](https://open.spotify.com/track/0nqhKXDjsyBMvbeWmgijD0) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [A Gangsta’s Pain](https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe) | 3:00 | 2024-01-25 |  |
 | [Words I Manifest \- Remix](https://open.spotify.com/track/5LbHadcCxxiLudg77pk0bX) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ) | [Full Clip: A Decade Of Gang Starr](https://open.spotify.com/album/0TMIeuykc2gfMc68YGppoh) | 5:09 | 2023-11-30 | 2024-08-08 |
 | [Wordz Of Wizdom](https://open.spotify.com/track/4db7SU1762kwi013LJWvpf) | [3rd Bass](https://open.spotify.com/artist/6EFL6smxzRtpwlQvZFldUc) | [The Cactus Album](https://open.spotify.com/album/3DdUJUcRBs6ct8omfRb0Pv) | 6:31 | 2023-11-30 | 2024-08-08 |
+| [World Tour \(Aquafina\)](https://open.spotify.com/track/261EcPb2XfhnPWSnlMOi3G) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [The Pre\-Party](https://open.spotify.com/album/2rlWVKCWJo4vpOBl8RiYX4) | 2:35 | 2024-09-13 |  |
 | [Wrath of My Madness](https://open.spotify.com/track/4liJ2L7rUVWgBFpQopmE9m) | [Queen Latifah](https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt) | [All Hail the Queen](https://open.spotify.com/album/6Agl4DVuihiDPuxuN1L8Jv) | 4:17 | 2023-11-30 | 2024-08-08 |
 | [WTFYM](https://open.spotify.com/track/1xwvjqcwflD2NEqRCNcCo2) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 4:52 | 2024-03-22 | 2024-05-04 |
 | [XO TOUR Llif3](https://open.spotify.com/track/2eMwDehkIC1j68U6FA3Eiq) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [XO TOUR Llif3](https://open.spotify.com/album/4CZVGlURM8vncG4ftZULTS) | 3:02 | 2024-01-25 |  |

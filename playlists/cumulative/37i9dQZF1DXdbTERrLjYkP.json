@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Discover the next wave of talent writing their own songs. Cover: SOFIA ISELLA",
+  "description": "Discover the next wave of talent writing their own songs. Cover: Rhys",
   "name": "Next Gen Singer-Songwriters",
   "tracks": [
     {
@@ -4916,6 +4916,24 @@
       "duration_ms": 141368,
       "name": "Heartbreak In Heaven",
       "url": "https://open.spotify.com/track/3i3I7HyCJ3UxdJTY5LTaWs"
+    },
+    {
+      "album": {
+        "name": "Heathrow",
+        "url": "https://open.spotify.com/album/4RGF1g5xJjfcd809OFyN4F"
+      },
+      "artists": [
+        {
+          "name": "Rhys",
+          "url": "https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235287,
+      "name": "Heathrow",
+      "url": "https://open.spotify.com/track/0iNlcioLpaFNEpL0OkN2oa"
     },
     {
       "album": {
@@ -11136,7 +11154,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 190423,
       "name": "talking in your sleep",
       "url": "https://open.spotify.com/track/3FpztYu0GOJH1txtKKRnKw"

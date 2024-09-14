@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "A Hole In The Ground",
+        "url": "https://open.spotify.com/album/45rtPd1tyrJd1QXMMivrru"
+      },
+      "artists": [
+        {
+          "name": "Porridge Radio",
+          "url": "https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187686,
+      "name": "A Hole In The Ground",
+      "url": "https://open.spotify.com/track/5K6UDDSQrr4SPyLTpMw4wP"
+    },
+    {
+      "album": {
         "name": "A Note About Time",
         "url": "https://open.spotify.com/album/2CJ2pASXDPONHZLu76rFbF"
       },
@@ -207,6 +225,24 @@
     },
     {
       "album": {
+        "name": "Audacious",
+        "url": "https://open.spotify.com/album/6tApXgjCNnGOeB176tJiKV"
+      },
+      "artists": [
+        {
+          "name": "Franz Ferdinand",
+          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203692,
+      "name": "Audacious",
+      "url": "https://open.spotify.com/track/53OqecARVvVCUTjL1yg0sq"
+    },
+    {
+      "album": {
         "name": "BADMAN",
         "url": "https://open.spotify.com/album/2PAbdMKsxkev1Xt8E2xmLt"
       },
@@ -279,6 +315,24 @@
     },
     {
       "album": {
+        "name": "\u201c&\u201d (Ampersand), Part Two",
+        "url": "https://open.spotify.com/album/3vtvRu36Sh69lyYkMHY352"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232506,
+      "name": "Blue Sky & The Painter",
+      "url": "https://open.spotify.com/track/1xuQoznYFrrw493RCb4IS9"
+    },
+    {
+      "album": {
         "name": "VIVA HINDS",
         "url": "https://open.spotify.com/album/7efwDP6vHtIPtQhLCrCWFz"
       },
@@ -348,10 +402,32 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 150029,
       "name": "Claim To Fame",
       "url": "https://open.spotify.com/track/3tYsuxhfToTsjW9JkVTV2M"
+    },
+    {
+      "album": {
+        "name": "Lagos Paris London",
+        "url": "https://open.spotify.com/album/489nt0VZ9DLPB4r9movvdL"
+      },
+      "artists": [
+        {
+          "name": "Yannis & The Yaw",
+          "url": "https://open.spotify.com/artist/398DRY2p9x2q0XOU3gkkYH"
+        },
+        {
+          "name": "Yannis",
+          "url": "https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240711,
+      "name": "Clementine",
+      "url": "https://open.spotify.com/track/5wPI9EcZ30sT0b68kdAXBP"
     },
     {
       "album": {
@@ -384,7 +460,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 212968,
       "name": "Comic Trip",
       "url": "https://open.spotify.com/track/7uwsDqA4W8tRmG2lp7Sm7g"
@@ -442,6 +518,24 @@
       "duration_ms": 221754,
       "name": "Darkest of Days",
       "url": "https://open.spotify.com/track/1x6Kp3RGibcdgl6uYTzqwM"
+    },
+    {
+      "album": {
+        "name": "Digitaline",
+        "url": "https://open.spotify.com/album/7nuek3x9WHIOFw5auG7TmN"
+      },
+      "artists": [
+        {
+          "name": "Eosine",
+          "url": "https://open.spotify.com/artist/0Md3VgBtmaO6hemIn4gIIP"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272760,
+      "name": "Digitaline",
+      "url": "https://open.spotify.com/track/6Hmp32UZ6zhekOdlH2qFA9"
     },
     {
       "album": {
@@ -834,7 +928,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 284314,
       "name": "Into You",
       "url": "https://open.spotify.com/track/6mIE4SuwCMmWfUPEkeonEE"
@@ -1057,6 +1151,24 @@
     },
     {
       "album": {
+        "name": "Mansa Musa",
+        "url": "https://open.spotify.com/album/3eQjhWwVHyyWPjACbIc2Tt"
+      },
+      "artists": [
+        {
+          "name": "Komodo",
+          "url": "https://open.spotify.com/artist/4Gm7WZh4QB6KE9M69BvsVU"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270807,
+      "name": "Mansa Musa",
+      "url": "https://open.spotify.com/track/5IyyWOaxJq7QgsW0lW9TBC"
+    },
+    {
+      "album": {
         "name": "Mercy",
         "url": "https://open.spotify.com/album/3CXIT7GzHOuW0pQRYYYCdl"
       },
@@ -1068,7 +1180,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 182040,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/5uFJXfZjZULwfZpxhKGbhT"
@@ -1176,10 +1288,28 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 234400,
       "name": "Next Semester",
       "url": "https://open.spotify.com/track/4PCD9jZRM2VswisaTBhc25"
+    },
+    {
+      "album": {
+        "name": "No Obligation",
+        "url": "https://open.spotify.com/album/1HVe5wBBPAASqbV4j6qhQg"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126285,
+      "name": "No Obligation",
+      "url": "https://open.spotify.com/track/5AnKgZ8Ctag36HxyPP5Uzn"
     },
     {
       "album": {
@@ -1273,6 +1403,24 @@
     },
     {
       "album": {
+        "name": "Painkiller",
+        "url": "https://open.spotify.com/album/45D55zXNlh80oV6hRXc8LP"
+      },
+      "artists": [
+        {
+          "name": "JEN",
+          "url": "https://open.spotify.com/artist/0EZPJDbK2vKYgDisXtBHUY"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146153,
+      "name": "Painkiller",
+      "url": "https://open.spotify.com/track/1FmgTAoC16gigHr2mx1cmC"
+    },
+    {
+      "album": {
         "name": "Parked Car Conversations",
         "url": "https://open.spotify.com/album/7Fd6t1WZxaDy7A5Cxl9K1b"
       },
@@ -1302,7 +1450,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 191266,
       "name": "Plant Healing",
       "url": "https://open.spotify.com/track/68qM3SnT7JDA7VW49gIxQc"
@@ -1562,7 +1710,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 127706,
       "name": "Shoot",
       "url": "https://open.spotify.com/track/1QFerkEWR1GAqmppYqIxpN"
@@ -1803,6 +1951,24 @@
     },
     {
       "album": {
+        "name": "The Emptiness Machine",
+        "url": "https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190427,
+      "name": "The Emptiness Machine",
+      "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
+    },
+    {
+      "album": {
         "name": "The Mirror",
         "url": "https://open.spotify.com/album/61cO8XhTmKxop0sic3zPIZ"
       },
@@ -1897,6 +2063,24 @@
     },
     {
       "album": {
+        "name": "Tiny Tears",
+        "url": "https://open.spotify.com/album/4QcyTQC84yloOslmljuBjc"
+      },
+      "artists": [
+        {
+          "name": "Iguana Death Cult",
+          "url": "https://open.spotify.com/artist/3krOZK9c8q5QOdt9QSdEV8"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259583,
+      "name": "Tiny Tears",
+      "url": "https://open.spotify.com/track/0m9i9RHKwLKUYaUYLC6ENk"
+    },
+    {
+      "album": {
         "name": "POST HUMAN: NeX GEn",
         "url": "https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD"
       },
@@ -1926,7 +2110,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 194976,
       "name": "Trash Blanket",
       "url": "https://open.spotify.com/track/3crOykl82l9i6NtkzTsM8G"
@@ -2052,7 +2236,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 217680,
       "name": "Wish You Were Here",
       "url": "https://open.spotify.com/track/7nJKD6ZjF3t6jvrBQdgsHN"
@@ -2146,7 +2330,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 80711,
       "name": "Zwijgrecht",
       "url": "https://open.spotify.com/track/489EDOr96zRHruVh5gH50G"

@@ -4,7 +4,7 @@
 
 > All about Korean Jazz hits & new \(Cover: YUNSEOKCHEOL TRIO\(윤석철트리오\)\)
 
-209 songs - 15 hr 8 min
+211 songs - 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Mother of Life](https://open.spotify.com/track/2z04jhHSFyDGItIEIZMEdM) | [Hyojung Kim](https://open.spotify.com/artist/0dWTzrX6vO7m6kxa3PUnib) | [Mother of Life](https://open.spotify.com/album/1bfCGzV02qVg0x2YodNzBU) | 3:56 | 2023-02-07 |  |
 | [MURMURANDO \(Feat\. Sora Kim\)](https://open.spotify.com/track/3McUaFgYIE6rg1uZdKiysV) | [Hanna Kim](https://open.spotify.com/artist/1H6Flxc2RNT6U7M9Mnmtln), [Sora Kim](https://open.spotify.com/artist/64EAEt7QWeJFOcoaeGl4An) | [MURMURANDO \(Feat\. Sora Kim\)](https://open.spotify.com/album/3nM0J1pMew3uLkUzMdP7No) | 8:13 | 2023-03-31 |  |
 | [Nevertheless](https://open.spotify.com/track/0jfwrKYnr9d13wBPeQetsG) | [Mellow Kitchen](https://open.spotify.com/artist/36aNW4upSxSBHoX0I3AmP1) | [Nevertheless](https://open.spotify.com/album/4j00saS37ayCSxeA0JLoUn) | 4:01 | 2023-02-07 |  |
+| [Ninguém](https://open.spotify.com/track/0uZaevs1alt7jzFQNwjY0R) | [HeeKyung Na](https://open.spotify.com/artist/0v7AyJqbUksRKUWHSN5ghz), [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG) | [BOSSA](https://open.spotify.com/album/1SyzkAuSQqH00Q52udwWoE) | 2:44 | 2024-09-13 |  |
 | [No Jam](https://open.spotify.com/track/0DY6EuQNgZItf5nWrmUsH9) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Foggy](https://open.spotify.com/album/6hEj5ZCKdaWUXDq73wGcaN) | 2:47 | 2024-03-14 |  |
 | [November Rain \(Feat\. Groovy D\)](https://open.spotify.com/track/6wN0bERE8RNJvEAeG7tEAW) | [PIACAL](https://open.spotify.com/artist/0QuxeG3QBD0kddWQPgfXaX) | [November Rain](https://open.spotify.com/album/0mkXZKaYTzzb9gOtAqpeU4) | 3:21 | 2022-11-11 |  |
 | [Now I'm Alive](https://open.spotify.com/track/2JODszmQKfirJaIb2QebHp) | [Gomm](https://open.spotify.com/artist/2Zlxg4WEB6pNeM6tdO3RoE) | [Now I'm Alive](https://open.spotify.com/album/3CVYFeLwjz5scaMfpN04AK) | 2:27 | 2023-07-19 |  |
@@ -175,6 +176,7 @@
 | [That's why you're spring](https://open.spotify.com/track/3yTjvrfLQa1WXAXqBXKEKu) | [Jigu27](https://open.spotify.com/artist/5j4gPonhwCuAiiCVYz9P0O) | [That's why you're spring](https://open.spotify.com/album/0i8EGoHiEdbh09CclUC4Td) | 3:22 | 2022-05-03 | 2024-08-11 |
 | [The Day Before](https://open.spotify.com/track/6D6O8cdlobpezavCvFjRVi) | [Kim Seong Hwa Trio](https://open.spotify.com/artist/5B8SahzFBloYOMfoZVLBsE) | [The Day Before](https://open.spotify.com/album/6N2aJMWPWK5RYwp6GFrRaX) | 5:40 | 2024-04-18 |  |
 | [The Day Of My Naughty Cat](https://open.spotify.com/track/5wynjj4joJ0co90AdjGvq1) | [Jeong Sook In](https://open.spotify.com/artist/3Pbw4Y5kqj3hs6NJEPMBrf) | [My Story](https://open.spotify.com/album/6IAtYMlWW8ngSNuXFOpeSZ) | 5:12 | 2022-05-18 |  |
+| [The photo album](https://open.spotify.com/track/3HJSrovxuvdiydbLaBZXXO) | [Modal](https://open.spotify.com/artist/7kao384lpsOV5S3UKdu403) | [Modalism](https://open.spotify.com/album/5Z0YUAs67MyBo5CcPqrojF) | 5:29 | 2024-09-13 |  |
 | [The thirsty rose is happy](https://open.spotify.com/track/75IaMRnu0oFGmEruNK4xcB) | [Kevinology](https://open.spotify.com/artist/1oZXLWkvfPyzt9fMVaDxgp) | [Kevinology 2022 Lieder Ohne Worte: May](https://open.spotify.com/album/0eMvcpbAxbTmACwHvJgnti) | 3:19 | 2022-05-18 | 2023-02-08 |
 | [There's Only One Anyway \(Feat\. DALI\)](https://open.spotify.com/track/1D58NBVDQ2mvKVmZoBzRlz) | [TENKIM](https://open.spotify.com/artist/7dJjGijBRQ2abaL60zBCLA), [DALI](https://open.spotify.com/artist/2MnSDLAdRFxMw8YFJIIGmT) | [There's Only One Anyway](https://open.spotify.com/album/6Duno4QDnPQku1ENfWM1lB) | 3:50 | 2022-05-03 | 2023-02-08 |
 | [Tic Toc](https://open.spotify.com/track/2KnvApXYvFxFU9gqo6bu8o) | [Jue](https://open.spotify.com/artist/10n5khtXYHdljYhDDChKgk) | [Tic Toc](https://open.spotify.com/album/04MoyxTIbTxj4jRhNYfG0T) | 3:29 | 2023-01-13 |  |

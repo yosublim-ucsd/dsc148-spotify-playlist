@@ -67,6 +67,32 @@
     },
     {
       "album": {
+        "name": "8 Vaje",
+        "url": "https://open.spotify.com/album/7dLHtuLGm3wX84rRKrQRt4"
+      },
+      "artists": [
+        {
+          "name": "Baani Sandhu",
+          "url": "https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3"
+        },
+        {
+          "name": "Shree Brar",
+          "url": "https://open.spotify.com/artist/5Dr08SCxyjTmDovDDRZCa2"
+        },
+        {
+          "name": "DJ Flow",
+          "url": "https://open.spotify.com/artist/3MP2WJg5D3bmH5Mz2scPF8"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174666,
+      "name": "8 Vaje",
+      "url": "https://open.spotify.com/track/4jRTapBEzN0Fzjwyhtbn3R"
+    },
+    {
+      "album": {
         "name": "Affair",
         "url": "https://open.spotify.com/album/4ubZpOzmJp9haVbf9F97hy"
       },
@@ -134,6 +160,32 @@
       "duration_ms": 193428,
       "name": "All Of Me",
       "url": "https://open.spotify.com/track/0A2zRkxaVs0pBEphesliW9"
+    },
+    {
+      "album": {
+        "name": "All Of You",
+        "url": "https://open.spotify.com/album/3uvubadrqzODiqtkV5fsQR"
+      },
+      "artists": [
+        {
+          "name": "Kiran Bajwa",
+          "url": "https://open.spotify.com/artist/3qmx2CGviBi21h58nDMJcs"
+        },
+        {
+          "name": "Rony Ajnali",
+          "url": "https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw"
+        },
+        {
+          "name": "Dilmaan",
+          "url": "https://open.spotify.com/artist/5iRP5VM9JGkM6aMQbbfkBK"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139928,
+      "name": "All Of You",
+      "url": "https://open.spotify.com/track/1QCU59QRGh7vkgSIAM9NNx"
     },
     {
       "album": {
@@ -718,7 +770,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 226582,
       "name": "Jaan",
       "url": "https://open.spotify.com/track/3WYzyafR47qwO5w2UtzFv9"

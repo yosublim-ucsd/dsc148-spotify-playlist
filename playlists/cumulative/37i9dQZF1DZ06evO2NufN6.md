@@ -2,7 +2,7 @@
 
 ### [This Is Mac Miller](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2NufN6)
 
-> This is Mac Miller\. The essential tracks, all in one playlist.
+> This Is Mac Miller\. Все лучшие треки в одном плейлисте.
 
 74 songs - 4 hr 47 min
 

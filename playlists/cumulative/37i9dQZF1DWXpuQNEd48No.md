@@ -2,7 +2,7 @@
 
 ### [Hip\-Hop Haryanvi](https://open.spotify.com/playlist/37i9dQZF1DWXpuQNEd48No)
 
-> Yo Hai Haryanvi Hip\-Hop! Cover: MC Square x Harjas Harjaai
+> Yo Hai Haryanvi Hip\-Hop! Cover: Dhanda Nyoliwala
 
 278 songs - 14 hr 30 min
 

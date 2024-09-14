@@ -992,7 +992,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 170905,
       "name": "My\u015bl\u0119 sobie, \u017b",
       "url": "https://open.spotify.com/track/3HmXpWEdyrczsUgbUAd3qe"
@@ -1250,6 +1250,28 @@
       "duration_ms": 191566,
       "name": "Risk",
       "url": "https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY"
+    },
+    {
+      "album": {
+        "name": "River",
+        "url": "https://open.spotify.com/album/5xibJmkuKuZrkijK92XLnk"
+      },
+      "artists": [
+        {
+          "name": "Tribbs",
+          "url": "https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L"
+        },
+        {
+          "name": "Stephen Puth",
+          "url": "https://open.spotify.com/artist/6B72wjgAkhvxTVCL6xS6mC"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138070,
+      "name": "River",
+      "url": "https://open.spotify.com/track/35VXS9BBZ3YDy9tpq0bQnY"
     },
     {
       "album": {

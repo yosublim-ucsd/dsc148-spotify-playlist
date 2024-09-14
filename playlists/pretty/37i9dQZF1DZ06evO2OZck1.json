@@ -1,12 +1,12 @@
 {
-  "description": "This is ATARASHII GAKKO!. The essential tracks, all in one playlist.",
-  "num_followers": 50998,
+  "description": "This Is ATARASHII GAKKO!. Los temas esenciales, todos en una lista.",
+  "num_followers": 51005,
   "original_name": "This Is ATARASHII GAKKO!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuDdgAAAAAA5uwayAoWUEhllk9oikh2U",
+  "snapshot_id": "ZuIvAAAAAABhyGmFBmkQz34ePB75f9wU",
   "tracks": [
     {
       "added_at": null,
@@ -168,9 +168,9 @@
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
         }
       ],
-      "duration_ms": 165960,
-      "name": "Omakase",
-      "url": "https://open.spotify.com/track/40FFG6wi7mFGRJ5YR5ZoFJ"
+      "duration_ms": 175093,
+      "name": "Essa Hoisa",
+      "url": "https://open.spotify.com/track/3sCVB9bWkFPMWdM5QSQ3MH"
     },
     {
       "added_at": null,
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
         }
       ],
-      "duration_ms": 175093,
-      "name": "Essa Hoisa",
-      "url": "https://open.spotify.com/track/3sCVB9bWkFPMWdM5QSQ3MH"
+      "duration_ms": 165960,
+      "name": "Omakase",
+      "url": "https://open.spotify.com/track/40FFG6wi7mFGRJ5YR5ZoFJ"
     },
     {
       "added_at": null,
@@ -307,6 +307,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pineapple Kryptonite",
+        "url": "https://open.spotify.com/album/4chAdxjlW2ooOyUj9tR0DF"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 195653,
+      "name": "Pineapple Kryptonite",
+      "url": "https://open.spotify.com/track/7tG1O21NOvOHS18RLVifyb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "maenarawanai",
         "url": "https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 255600,
       "name": "koinosyadanki feat H ZETTRIO",
       "url": "https://open.spotify.com/track/22t28uO1vo5zM2yWCgGJGN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pineapple Kryptonite",
-        "url": "https://open.spotify.com/album/4chAdxjlW2ooOyUj9tR0DF"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 195653,
-      "name": "Pineapple Kryptonite",
-      "url": "https://open.spotify.com/track/7tG1O21NOvOHS18RLVifyb"
     },
     {
       "added_at": null,

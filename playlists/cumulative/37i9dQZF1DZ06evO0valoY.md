@@ -2,7 +2,7 @@
 
 ### [This Is Eslabon Armado](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0valoY)
 
-> This is Eslabon Armado\. En önemli parçalar, hepsi tek bir çalma listesinde.
+> This Is Eslabon Armado\. Los temas esenciales, todos en una lista.
 
 60 songs - 3 hr 34 min
 

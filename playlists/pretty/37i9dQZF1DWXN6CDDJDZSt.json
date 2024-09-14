@@ -1,6 +1,6 @@
 {
   "description": "An introduction to Giacomo Puccini, one of the great Italian opera composers.",
-  "num_followers": 72309,
+  "num_followers": 72334,
   "original_name": "This Is Puccini",
   "owner": {
     "name": "Spotify",
@@ -359,6 +359,34 @@
     {
       "added_at": "2022-06-24 16:28:17",
       "album": {
+        "name": "Puccini: La Boh\u00e8me (Highlights)",
+        "url": "https://open.spotify.com/album/2XX3mCbLviOcy8X0OZ2kjW"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Anna Netrebko",
+          "url": "https://open.spotify.com/artist/5moBlpk9BYtujdRW6VLepL"
+        },
+        {
+          "name": "Bavarian Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/74gWOpgM97HU3Mn8A8d0Vm"
+        },
+        {
+          "name": "Bertrand de Billy",
+          "url": "https://open.spotify.com/artist/6kbc1zpIRBv6xijMei9dra"
+        }
+      ],
+      "duration_ms": 198906,
+      "name": "La Boh\u00e8me / Act 3: \"Donde lieta usc\u00ec\" - Live",
+      "url": "https://open.spotify.com/track/5fvUxcRMBMLdaOxy3I6nOn"
+    },
+    {
+      "added_at": "2022-06-24 16:28:17",
+      "album": {
         "name": "Puccini: Madama Butterfly",
         "url": "https://open.spotify.com/album/2sLx3mkCwYywR1mMsZEW9g"
       },
@@ -395,34 +423,6 @@
       "duration_ms": 198293,
       "name": "Puccini: Madama Butterfly, Act 1: \"Sorride Vostro Onore?\" (Suzuki, Pinkerton, Goro, Sharpless)",
       "url": "https://open.spotify.com/track/1aYDsJfoE3BXwGwSMJJozQ"
-    },
-    {
-      "added_at": "2022-06-24 16:28:17",
-      "album": {
-        "name": "Puccini: La Boh\u00e8me (Highlights)",
-        "url": "https://open.spotify.com/album/2XX3mCbLviOcy8X0OZ2kjW"
-      },
-      "artists": [
-        {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
-        {
-          "name": "Anna Netrebko",
-          "url": "https://open.spotify.com/artist/5moBlpk9BYtujdRW6VLepL"
-        },
-        {
-          "name": "Bavarian Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/74gWOpgM97HU3Mn8A8d0Vm"
-        },
-        {
-          "name": "Bertrand de Billy",
-          "url": "https://open.spotify.com/artist/6kbc1zpIRBv6xijMei9dra"
-        }
-      ],
-      "duration_ms": 198906,
-      "name": "La Boh\u00e8me / Act 3: \"Donde lieta usc\u00ec\" - Live",
-      "url": "https://open.spotify.com/track/5fvUxcRMBMLdaOxy3I6nOn"
     },
     {
       "added_at": "2022-06-24 16:28:17",
@@ -507,38 +507,6 @@
     {
       "added_at": "2022-06-24 16:28:17",
       "album": {
-        "name": "Puccini: Opera Arias",
-        "url": "https://open.spotify.com/album/0p9wRVe7Tv8odsHp8sPdoJ"
-      },
-      "artists": [
-        {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
-        {
-          "name": "Fiorenza Cossotto",
-          "url": "https://open.spotify.com/artist/4GXs5ddEQpUNztqUiZMryK"
-        },
-        {
-          "name": "Renata Tebaldi",
-          "url": "https://open.spotify.com/artist/2RWHmppBK4tjdqxtuesmZI"
-        },
-        {
-          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        }
-      ],
-      "duration_ms": 469720,
-      "name": "Madama Butterfly / Act 2: Una nave da guerra...Scuoti quelle fronda",
-      "url": "https://open.spotify.com/track/2H4NCqL2WAiU3t7fWNcxUJ"
-    },
-    {
-      "added_at": "2022-06-24 16:28:17",
-      "album": {
         "name": "Puccini: La Boh\u00e8me",
         "url": "https://open.spotify.com/album/2Of3FfG8YmixDYYeynYwL0"
       },
@@ -571,6 +539,38 @@
       "duration_ms": 256746,
       "name": "La Boh\u00e8me / Act 1: \"Questo Mar Rosso\" - Live",
       "url": "https://open.spotify.com/track/5kV1l9z5x8B8xloeqfPeD0"
+    },
+    {
+      "added_at": "2022-06-24 16:28:17",
+      "album": {
+        "name": "Puccini: Opera Arias",
+        "url": "https://open.spotify.com/album/0p9wRVe7Tv8odsHp8sPdoJ"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Fiorenza Cossotto",
+          "url": "https://open.spotify.com/artist/4GXs5ddEQpUNztqUiZMryK"
+        },
+        {
+          "name": "Renata Tebaldi",
+          "url": "https://open.spotify.com/artist/2RWHmppBK4tjdqxtuesmZI"
+        },
+        {
+          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        }
+      ],
+      "duration_ms": 469720,
+      "name": "Madama Butterfly / Act 2: Una nave da guerra...Scuoti quelle fronda",
+      "url": "https://open.spotify.com/track/2H4NCqL2WAiU3t7fWNcxUJ"
     },
     {
       "added_at": "2022-06-24 16:28:17",
@@ -867,6 +867,38 @@
     {
       "added_at": "2022-06-24 16:28:17",
       "album": {
+        "name": "Puccini: La Boh\u00e8me (Highlights)",
+        "url": "https://open.spotify.com/album/2XX3mCbLviOcy8X0OZ2kjW"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Rolando Villaz\u00f3n",
+          "url": "https://open.spotify.com/artist/3BbwO46TU61EPYFcC9l9Lq"
+        },
+        {
+          "name": "Anna Netrebko",
+          "url": "https://open.spotify.com/artist/5moBlpk9BYtujdRW6VLepL"
+        },
+        {
+          "name": "Bavarian Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/74gWOpgM97HU3Mn8A8d0Vm"
+        },
+        {
+          "name": "Bertrand de Billy",
+          "url": "https://open.spotify.com/artist/6kbc1zpIRBv6xijMei9dra"
+        }
+      ],
+      "duration_ms": 253173,
+      "name": "La Boh\u00e8me / Act 1: Non sono in vena! - Si sente meglio",
+      "url": "https://open.spotify.com/track/2Wk6xQgYsvATMnwGrtBrcQ"
+    },
+    {
+      "added_at": "2022-06-24 16:28:17",
+      "album": {
         "name": "Puccini: Madama Butterfly - Highlights",
         "url": "https://open.spotify.com/album/48SeSKohhx57jPcNiWrsTc"
       },
@@ -903,38 +935,6 @@
       "duration_ms": 689693,
       "name": "Madama Butterfly, Act I: Dovunque al mondo \u2013 America for Ever \u2013 Ier l'altro il Consolato \u2013 Ecco. Son giunte al sommo del pendio",
       "url": "https://open.spotify.com/track/6hz9ZzzxZWqQE0Ecy5K4WX"
-    },
-    {
-      "added_at": "2022-06-24 16:28:17",
-      "album": {
-        "name": "Puccini: La Boh\u00e8me (Highlights)",
-        "url": "https://open.spotify.com/album/2XX3mCbLviOcy8X0OZ2kjW"
-      },
-      "artists": [
-        {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
-        {
-          "name": "Rolando Villaz\u00f3n",
-          "url": "https://open.spotify.com/artist/3BbwO46TU61EPYFcC9l9Lq"
-        },
-        {
-          "name": "Anna Netrebko",
-          "url": "https://open.spotify.com/artist/5moBlpk9BYtujdRW6VLepL"
-        },
-        {
-          "name": "Bavarian Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/74gWOpgM97HU3Mn8A8d0Vm"
-        },
-        {
-          "name": "Bertrand de Billy",
-          "url": "https://open.spotify.com/artist/6kbc1zpIRBv6xijMei9dra"
-        }
-      ],
-      "duration_ms": 253173,
-      "name": "La Boh\u00e8me / Act 1: Non sono in vena! - Si sente meglio",
-      "url": "https://open.spotify.com/track/2Wk6xQgYsvATMnwGrtBrcQ"
     },
     {
       "added_at": "2022-06-24 16:28:17",

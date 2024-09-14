@@ -1,12 +1,12 @@
 {
-  "description": "This Is Basement. Los temas esenciales, todos en una lista.",
-  "num_followers": 10220,
+  "description": "This is Basement. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 10227,
   "original_name": "This Is Basement",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuDdgAAAAACDg416xt2aboht5QwJ7lfw",
+  "snapshot_id": "ZuIvAAAAAAB0+LBFx0NsO1p0COSB5Af8",
   "tracks": [
     {
       "added_at": null,
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 157080,
-      "name": "Promise Everything",
-      "url": "https://open.spotify.com/track/1KdeXVG6x4MsjbAnjiAzbT"
+      "duration_ms": 149720,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/1bZaSiZCoEnCq3Kv80qwBL"
     },
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 149720,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/1bZaSiZCoEnCq3Kv80qwBL"
+      "duration_ms": 157080,
+      "name": "Promise Everything",
+      "url": "https://open.spotify.com/track/1KdeXVG6x4MsjbAnjiAzbT"
     },
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 166336,
-      "name": "White Elephant",
-      "url": "https://open.spotify.com/track/4Oq6yOs0L5Dfa7f3pxkQfq"
+      "duration_ms": 37421,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/6HQazh5h0nLMuKR3R6lauX"
     },
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 37421,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/6HQazh5h0nLMuKR3R6lauX"
+      "duration_ms": 166336,
+      "name": "White Elephant",
+      "url": "https://open.spotify.com/track/4Oq6yOs0L5Dfa7f3pxkQfq"
     }
   ],
   "unique_name": "This Is Basement",

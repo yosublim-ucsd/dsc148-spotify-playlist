@@ -1,12 +1,12 @@
 {
   "description": "This is Patoranking. The essential tracks, all in one playlist.",
-  "num_followers": 10018,
+  "num_followers": 10024,
   "original_name": "This Is Patoranking",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuDdgAAAAABcOgJ0Wp/CODd77IS9sa/I",
+  "snapshot_id": "ZuIvAAAAAABB3T61wMy/laH1igcbfFB5",
   "tracks": [
     {
       "added_at": null,
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Three",
-        "url": "https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 199198,
-      "name": "Abule",
-      "url": "https://open.spotify.com/track/5GmvLu8Ok9KqBakA6jTEVK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "God Over Everything",
         "url": "https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 229128,
       "name": "This Kind Luv",
       "url": "https://open.spotify.com/track/2UrxkIScshPyPlgRpy57Fm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Three",
+        "url": "https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 199198,
+      "name": "Abule",
+      "url": "https://open.spotify.com/track/5GmvLu8Ok9KqBakA6jTEVK"
     },
     {
       "added_at": null,
@@ -307,26 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love You Die (feat. Diamond Platnumz)",
-        "url": "https://open.spotify.com/album/55VuLbTps49geEwrRAB0OD"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Diamond Platnumz",
-          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
-        }
-      ],
-      "duration_ms": 195597,
-      "name": "Love You Die (feat. Diamond Platnumz)",
-      "url": "https://open.spotify.com/track/6BnKiK0FwqJoqCdVKh442g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Credit Alert",
         "url": "https://open.spotify.com/album/27VycxPDyBm6DcXxAJ7Xet"
       },
@@ -343,6 +323,26 @@
       "duration_ms": 193718,
       "name": "Credit Alert",
       "url": "https://open.spotify.com/track/61g4qqwAMuHnzW2URHX0EJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love You Die (feat. Diamond Platnumz)",
+        "url": "https://open.spotify.com/album/55VuLbTps49geEwrRAB0OD"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        }
+      ],
+      "duration_ms": 195597,
+      "name": "Love You Die (feat. Diamond Platnumz)",
+      "url": "https://open.spotify.com/track/6BnKiK0FwqJoqCdVKh442g"
     },
     {
       "added_at": null,
@@ -663,26 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ma girl",
-        "url": "https://open.spotify.com/album/6QckTJtuiIKNFFlymaxaos"
-      },
-      "artists": [
-        {
-          "name": "Toofan",
-          "url": "https://open.spotify.com/artist/5BfpzKNakWiXUNm1RfBgUi"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 207272,
-      "name": "Ma girl",
-      "url": "https://open.spotify.com/track/2CUfR68XB0qSpCA5YXFbkO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alagbe",
         "url": "https://open.spotify.com/album/5rTOCA3AYjkVc01JULfZhn"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 173293,
       "name": "Magbe (feat. Patoranking)",
       "url": "https://open.spotify.com/track/2eMMRo8tqHXxnFBl9cbqK7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ma girl",
+        "url": "https://open.spotify.com/album/6QckTJtuiIKNFFlymaxaos"
+      },
+      "artists": [
+        {
+          "name": "Toofan",
+          "url": "https://open.spotify.com/artist/5BfpzKNakWiXUNm1RfBgUi"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 207272,
+      "name": "Ma girl",
+      "url": "https://open.spotify.com/track/2CUfR68XB0qSpCA5YXFbkO"
     },
     {
       "added_at": null,
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "God Over Everything",
-        "url": "https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 202603,
-      "name": "Love Town",
-      "url": "https://open.spotify.com/track/2xcjNO0DriNFkGhKihOIcZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Something Nice",
         "url": "https://open.spotify.com/album/1Q334n1rC4ZZ2Me1EC4Okv"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 188571,
       "name": "Kom Kom",
       "url": "https://open.spotify.com/track/2KA51yRovba1V4rtRfOEqj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "God Over Everything",
+        "url": "https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 202603,
+      "name": "Love Town",
+      "url": "https://open.spotify.com/track/2xcjNO0DriNFkGhKihOIcZ"
     },
     {
       "added_at": null,
@@ -943,22 +943,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wilmer",
-        "url": "https://open.spotify.com/album/4nMoBj5wMHccOCYB62ipcc"
+        "name": "God Over Everything",
+        "url": "https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R"
       },
       "artists": [
         {
           "name": "Patoranking",
           "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Bera",
-          "url": "https://open.spotify.com/artist/280SVkMc8Ij2T4n6EMhWuB"
         }
       ],
-      "duration_ms": 224597,
-      "name": "Wilmer (feat. Bera)",
-      "url": "https://open.spotify.com/track/4BSYq4DF84PXs9i7P8comh"
+      "duration_ms": 232027,
+      "name": "G.O.E",
+      "url": "https://open.spotify.com/track/2VjfpkJblXjy1qc6DqmfP8"
     },
     {
       "added_at": null,
@@ -983,18 +979,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "God Over Everything",
-        "url": "https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R"
+        "name": "Wilmer",
+        "url": "https://open.spotify.com/album/4nMoBj5wMHccOCYB62ipcc"
       },
       "artists": [
         {
           "name": "Patoranking",
           "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Bera",
+          "url": "https://open.spotify.com/artist/280SVkMc8Ij2T4n6EMhWuB"
         }
       ],
-      "duration_ms": 232027,
-      "name": "G.O.E",
-      "url": "https://open.spotify.com/track/2VjfpkJblXjy1qc6DqmfP8"
+      "duration_ms": 224597,
+      "name": "Wilmer (feat. Bera)",
+      "url": "https://open.spotify.com/track/4BSYq4DF84PXs9i7P8comh"
     },
     {
       "added_at": null,
@@ -1071,30 +1071,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Do Better",
-        "url": "https://open.spotify.com/album/56f5Gq8bsHwIWak9Odfxxk"
+        "name": "Headliner",
+        "url": "https://open.spotify.com/album/6AAVCyWUzc7rcna0kXmmaf"
       },
       "artists": [
         {
-          "name": "Major League Djz",
-          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
-        },
-        {
-          "name": "KLY",
-          "url": "https://open.spotify.com/artist/0B6F56wObkhER2AmTNfcl3"
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
         },
         {
           "name": "Patoranking",
           "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Riky Rick",
-          "url": "https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO"
         }
       ],
-      "duration_ms": 259230,
-      "name": "Do Better",
-      "url": "https://open.spotify.com/track/0vtXr3xIGXkHI0eidEOuUg"
+      "duration_ms": 215412,
+      "name": "Suzanna (feat. Patoranking)",
+      "url": "https://open.spotify.com/track/5yftPkWxksVGPSi21pFuJQ"
     }
   ],
   "unique_name": "This Is Patoranking",

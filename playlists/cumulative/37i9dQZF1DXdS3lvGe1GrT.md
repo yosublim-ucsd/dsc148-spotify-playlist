@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Keni Titus
 
-1,373 songs - 3 day 9 hr 52 min
+1,374 songs - 3 day 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -470,6 +470,7 @@
 | [free](https://open.spotify.com/track/1qWsVMgZZQWTg2XkSja0OU) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [Why Does the Earth Give Us People to Love?](https://open.spotify.com/album/2itoipNg0XOD1uwThhkVtO) | 7:02 | 2024-03-29 | 2024-06-20 |
 | [Friends](https://open.spotify.com/track/3hjmwXyfWcOVw6koezqigf) | [Mariah Odyssey](https://open.spotify.com/artist/1wU7DUkNXSRCM5jvO5mthV) | [Friends](https://open.spotify.com/album/4n1WUNNrO4IFiAve2AzXZl) | 2:57 | 2023-08-02 | 2023-10-05 |
 | [Friends on the Internet](https://open.spotify.com/track/7aYKCCeORfNzrMOzPgPSdi) | [Kris Ulrich](https://open.spotify.com/artist/49MmzOKdISsus72tEIhJQN) | [Big in the USA](https://open.spotify.com/album/2EdNo7ykBjuHpFFx28O4dY) | 2:56 | 2023-06-14 | 2023-08-10 |
+| [friends?](https://open.spotify.com/track/4uLAof3x05z67rTXgJjyAG) | [Aubory Bugg](https://open.spotify.com/artist/2fRZyxhGkcXXFwe7tGan1U) | [friends?](https://open.spotify.com/album/53jyQoBvP5xMxaZGxanCSs) | 3:56 | 2024-09-13 |  |
 | [from here on out](https://open.spotify.com/track/01wyoN3xlUf3k3jWSewMoB) | [lighthearted](https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf) | [from here on out](https://open.spotify.com/album/0fC2Pfh9vQetDVO7phh1jM) | 4:31 | 2023-05-03 | 2024-01-11 |
 | [From: Your Flower](https://open.spotify.com/track/2tHHtvfSiqPhYOYoFu4Nc9) | [Lilly Myers](https://open.spotify.com/artist/7B2E74uB1zohFyMc02CZOL) | [From: Your Flower](https://open.spotify.com/album/1VVOHDPjCf10wznNUXvFWe) | 3:46 | 2023-03-01 | 2023-04-06 |
 | [Funeral](https://open.spotify.com/track/4DQ66ejPkLZ73qixnY0K8H) | [Tele Novella](https://open.spotify.com/artist/3yxZJMBn5A2OMEGO7Tvg72) | [Poet's Tooth](https://open.spotify.com/album/2onl84mqt63gcfmMeSGZPX) | 3:52 | 2023-10-11 | 2023-12-11 |

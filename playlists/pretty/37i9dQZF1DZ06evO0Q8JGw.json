@@ -1,12 +1,12 @@
 {
-  "description": "This is Pearl Jam. The essential tracks, all in one playlist.",
-  "num_followers": 761013,
+  "description": "This Is Pearl Jam. Los temas esenciales, todos en una lista.",
+  "num_followers": 761137,
   "original_name": "This Is Pearl Jam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuDdgAAAAAApteyyfYeePBhJtMY73nIt",
+  "snapshot_id": "ZuIvAAAAAADXOwwg80KHLxcEFODkvyd9",
   "tracks": [
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lightning Bolt",
-        "url": "https://open.spotify.com/album/01WEcEzoa9mfh8fIDhvV1M"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 262893,
-      "name": "Future Days",
-      "url": "https://open.spotify.com/track/22sDLvlzAJzH0BHiMSOfRP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "rearviewmirror (greatest hits 1991-2003)",
         "url": "https://open.spotify.com/album/1G1R5dY01DSyti3NaWnOp3"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 223560,
       "name": "Man of the Hour",
       "url": "https://open.spotify.com/track/6WcIDvzwZDqarmaHDy3DoR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lightning Bolt",
+        "url": "https://open.spotify.com/album/01WEcEzoa9mfh8fIDhvV1M"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 262893,
+      "name": "Future Days",
+      "url": "https://open.spotify.com/track/22sDLvlzAJzH0BHiMSOfRP"
     },
     {
       "added_at": null,

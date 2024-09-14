@@ -655,28 +655,6 @@
     },
     {
       "album": {
-        "name": "Coeur lourd",
-        "url": "https://open.spotify.com/album/63OKz3v3s6fubYfJ2RW725"
-      },
-      "artists": [
-        {
-          "name": "Zkr",
-          "url": "https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4"
-        },
-        {
-          "name": "Massine",
-          "url": "https://open.spotify.com/artist/6atz1NxVSI9Nk2YEnhUsFZ"
-        }
-      ],
-      "date_added": "2024-09-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 152523,
-      "name": "Coeur lourd",
-      "url": "https://open.spotify.com/track/4UQ03EmBK1VYPfTwNEPc1W"
-    },
-    {
-      "album": {
         "name": "Confidences",
         "url": "https://open.spotify.com/album/4SU8HMrBkIDyCMXj552kNE"
       },
@@ -780,6 +758,28 @@
       "duration_ms": 204080,
       "name": "C\u0152UR DE ICE",
       "url": "https://open.spotify.com/track/1KPuYzyP2wKwFXQEF1voqj"
+    },
+    {
+      "album": {
+        "name": "C\u0153ur lourd",
+        "url": "https://open.spotify.com/album/63OKz3v3s6fubYfJ2RW725"
+      },
+      "artists": [
+        {
+          "name": "Zkr",
+          "url": "https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4"
+        },
+        {
+          "name": "Massine",
+          "url": "https://open.spotify.com/artist/6atz1NxVSI9Nk2YEnhUsFZ"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152523,
+      "name": "C\u0153ur lourd",
+      "url": "https://open.spotify.com/track/4UQ03EmBK1VYPfTwNEPc1W"
     },
     {
       "album": {

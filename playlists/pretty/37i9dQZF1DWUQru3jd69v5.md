@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Low\-Red in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,194 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,212 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 19 | [Rivalsa \(feat\. 22simba\)](https://open.spotify.com/track/4kt7KzlSvKTup0Oz4VhrQu) | [Gheba](https://open.spotify.com/artist/2SU1nwN4pyNj6cSVoOzcsc), [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Pave](https://open.spotify.com/artist/5Dtz5w5xVlRscuRR9dIUtV) | [Fame di Rivalsa](https://open.spotify.com/album/79WcSTW52Em1smSlOUupqC) | 2:21 |
 | 20 | [Tragitto \(NADLAC\)](https://open.spotify.com/track/4ta1bSknVhWDairP2F7iHN) | [Sosa Priority](https://open.spotify.com/artist/0gDbGOh9itthM6koQpDLoc) | [Tragitto \(NADLAC\)](https://open.spotify.com/album/1muAa1AM7LDq3UHkfX5e1p) | 2:57 |
 | 21 | [1234 POSSE \(feat\. Faneto, Artie 5ive, Astro, Niky Savage, Lito, Low\-Red, Kid Yugi, RRARI DAL TACCO\)](https://open.spotify.com/track/2zYzOaECWTf16Hdp4bc8Zu) | [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [KIID](https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB), [Faneto](https://open.spotify.com/artist/51101YZl9bczaDPDfVHCB4), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq), [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Lito](https://open.spotify.com/artist/3Es16vmqYL43ifHZR4YjbO), [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd) | [NO REGULAR MUSIC \- Deluxe](https://open.spotify.com/album/7MyXBQdWCOgTzq4eORz0fe) | 4:38 |
-| 22 | [Trench Code \(feat\. Faneto\)](https://open.spotify.com/track/348FkFje2GEWdoSHRDB9ok) | [Melons](https://open.spotify.com/artist/7Lfv2d9WDAdxraeM8B9yUz), [Faneto](https://open.spotify.com/artist/51101YZl9bczaDPDfVHCB4) | [Trench Code \(feat\. Faneto\)](https://open.spotify.com/album/3gShtt4KfJiCrzalsXkxhA) | 3:08 |
+| 22 | [Trench Code \(feat\. Faneto\)](https://open.spotify.com/track/348FkFje2GEWdoSHRDB9ok) | [Melons](https://open.spotify.com/artist/1LGeIi5WWtxGRavjH50STe), [Faneto](https://open.spotify.com/artist/51101YZl9bczaDPDfVHCB4) | [Trench Code \(feat\. Faneto\)](https://open.spotify.com/album/3gShtt4KfJiCrzalsXkxhA) | 3:08 |
 | 23 | [NO PIANO B](https://open.spotify.com/track/28blNhTrq5L3SdDdvOKao0) | [FreshMula](https://open.spotify.com/artist/6IwmCDDOJfupZ9uDvSwfPe), [Em](https://open.spotify.com/artist/0Wh6q94lZ2hN8LlTcR8mEI), [Odemosci](https://open.spotify.com/artist/6pybEiYhm8CekcE5DwGecR) | [NO PIANO B](https://open.spotify.com/album/2r3Oa0ap37rUiivB76vVQ0) | 2:38 |
 | 24 | [Yessir](https://open.spotify.com/track/0RqGvXR15sUv7Ld3f1y3rr) | [YTN Maden](https://open.spotify.com/artist/23kbFdbRpeUNQumiTA88NU) | [Yessir](https://open.spotify.com/album/5imwGwodvC5ZcLpcSoKxFV) | 2:23 |
 | 25 | [Gli Uomini Ti Scammano \(Tutorial 3\)](https://open.spotify.com/track/74aqL0F3igurqJUxizBt2u) | [Hammon](https://open.spotify.com/artist/606h9T2l7ABnfLC88vWoZ2) | [Gli Uomini Ti Scammano \(Tutorial 3\)](https://open.spotify.com/album/7vOhexKQbbYLH3DRI7spui) | 2:29 |

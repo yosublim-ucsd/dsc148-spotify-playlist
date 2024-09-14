@@ -1,6 +1,6 @@
 {
   "description": "Winners \u2014 past and present \u2014 from the 96th annual event celebrating Hollywood's brightest stars.",
-  "num_followers": 257267,
+  "num_followers": 257251,
   "original_name": "Hollywood's Big Night",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,18 @@
     {
       "added_at": "2024-01-23 19:55:12",
       "album": {
-        "name": "The Muppets (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0mahHDhPnuYMbo3sXOEW50"
+        "name": "The Lord of the Rings: The Return of the King (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/38x0H9PdY1fHh8EdfPUXqa"
       },
       "artists": [
         {
-          "name": "Jason Segel",
-          "url": "https://open.spotify.com/artist/2eaAoOUNWD4RNjmU7Slqi6"
-        },
-        {
-          "name": "Walter",
-          "url": "https://open.spotify.com/artist/5l3UmzjFGoGXxOwJJhfm2D"
+          "name": "Annie Lennox",
+          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
         }
       ],
-      "duration_ms": 177533,
-      "name": "Man Or Muppet",
-      "url": "https://open.spotify.com/track/1JyG5yuwpN0VIi4wbqvDfB"
+      "duration_ms": 347600,
+      "name": "Into the West",
+      "url": "https://open.spotify.com/track/0gSEyG7pOFuHM05433EibX"
     },
     {
       "added_at": "2024-01-23 19:55:12",
@@ -483,18 +479,22 @@
     {
       "added_at": "2024-01-23 19:55:12",
       "album": {
-        "name": "The Lord of the Rings: The Return of the King (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/38x0H9PdY1fHh8EdfPUXqa"
+        "name": "The Muppets (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0mahHDhPnuYMbo3sXOEW50"
       },
       "artists": [
         {
-          "name": "Annie Lennox",
-          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
+          "name": "Jason Segel",
+          "url": "https://open.spotify.com/artist/2eaAoOUNWD4RNjmU7Slqi6"
+        },
+        {
+          "name": "Walter",
+          "url": "https://open.spotify.com/artist/5l3UmzjFGoGXxOwJJhfm2D"
         }
       ],
-      "duration_ms": 347600,
-      "name": "Into the West",
-      "url": "https://open.spotify.com/track/0gSEyG7pOFuHM05433EibX"
+      "duration_ms": 177533,
+      "name": "Man Or Muppet",
+      "url": "https://open.spotify.com/track/1JyG5yuwpN0VIi4wbqvDfB"
     },
     {
       "added_at": "2024-01-23 19:55:12",
@@ -519,6 +519,22 @@
     {
       "added_at": "2024-01-23 19:55:12",
       "album": {
+        "name": "Al otro lado del rio",
+        "url": "https://open.spotify.com/album/5P3g95p2KfPCOlD5Zca9Xi"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 194626,
+      "name": "Al otro lado del r\u00edo",
+      "url": "https://open.spotify.com/track/5BudpQ0Ct9sss8c9Fqv9MJ"
+    },
+    {
+      "added_at": "2024-01-23 19:55:12",
+      "album": {
         "name": "Glory (From the Motion Picture Selma)",
         "url": "https://open.spotify.com/album/3cZ3dS7ogHb55sWjVzaBnx"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 272727,
       "name": "Glory (From the Motion Picture Selma)",
       "url": "https://open.spotify.com/track/2fmqPLRFdJNPhLU3b2NSFp"
-    },
-    {
-      "added_at": "2024-01-23 19:55:12",
-      "album": {
-        "name": "Al otro lado del rio",
-        "url": "https://open.spotify.com/album/5P3g95p2KfPCOlD5Zca9Xi"
-      },
-      "artists": [
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 194626,
-      "name": "Al otro lado del r\u00edo",
-      "url": "https://open.spotify.com/track/5BudpQ0Ct9sss8c9Fqv9MJ"
     },
     {
       "added_at": "2024-01-23 19:55:12",

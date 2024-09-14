@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: Tion Wayne and Shallipoppi",
-  "num_followers": 54380,
+  "num_followers": 54435,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -455,26 +455,6 @@
     {
       "added_at": "2024-09-13 00:01:00",
       "album": {
-        "name": "Vibration",
-        "url": "https://open.spotify.com/album/3UN7Hvdib6FUBXVOZHNYjh"
-      },
-      "artists": [
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        },
-        {
-          "name": "Jeriq",
-          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
-        }
-      ],
-      "duration_ms": 181764,
-      "name": "Vibration",
-      "url": "https://open.spotify.com/track/3yEPVODnT2tXcc3NN6ymIN"
-    },
-    {
-      "added_at": "2024-09-13 00:01:00",
-      "album": {
         "name": "Jiggy Forever",
         "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 167142,
       "name": "Showcase (feat. Blaqbonez)",
       "url": "https://open.spotify.com/track/2OXu4ZL9eNoBQiVVPe9Wn3"
+    },
+    {
+      "added_at": "2024-09-13 00:01:00",
+      "album": {
+        "name": "Vibration",
+        "url": "https://open.spotify.com/album/3UN7Hvdib6FUBXVOZHNYjh"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        },
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        }
+      ],
+      "duration_ms": 181764,
+      "name": "Vibration",
+      "url": "https://open.spotify.com/track/3yEPVODnT2tXcc3NN6ymIN"
     },
     {
       "added_at": "2024-09-13 00:01:00",
@@ -715,6 +715,26 @@
     {
       "added_at": "2024-09-13 00:01:00",
       "album": {
+        "name": "R2 Sept 12",
+        "url": "https://open.spotify.com/album/7pXz5d7pMiaG0Uj2AYLDpB"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+        }
+      ],
+      "duration_ms": 162336,
+      "name": "1999",
+      "url": "https://open.spotify.com/track/6rebyxkCsKvngGShPbGKG8"
+    },
+    {
+      "added_at": "2024-09-13 00:01:00",
+      "album": {
         "name": "Mamba (With Bella Shmurda & Seyi Vibez)",
         "url": "https://open.spotify.com/album/2imNyNmpOrJktWi5eQNLY1"
       },
@@ -735,26 +755,6 @@
       "duration_ms": 147192,
       "name": "Mamba (With Bella Shmurda & Seyi Vibez)",
       "url": "https://open.spotify.com/track/2dyny0cqxTu0hEVLBUMyV2"
-    },
-    {
-      "added_at": "2024-09-13 00:01:00",
-      "album": {
-        "name": "R2 Sept 12",
-        "url": "https://open.spotify.com/album/7pXz5d7pMiaG0Uj2AYLDpB"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        },
-        {
-          "name": "Bloody Civilian",
-          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
-        }
-      ],
-      "duration_ms": 162336,
-      "name": "1999",
-      "url": "https://open.spotify.com/track/6rebyxkCsKvngGShPbGKG8"
     },
     {
       "added_at": "2024-09-13 00:01:00",
@@ -803,6 +803,22 @@
     {
       "added_at": "2024-09-13 00:01:00",
       "album": {
+        "name": "Left Right",
+        "url": "https://open.spotify.com/album/4hCOpkmIWNH1bxMeRxfjfK"
+      },
+      "artists": [
+        {
+          "name": "Keys the Prince",
+          "url": "https://open.spotify.com/artist/5nCeWRjxptrgFwtvLlHsj1"
+        }
+      ],
+      "duration_ms": 160169,
+      "name": "Left Right",
+      "url": "https://open.spotify.com/track/73YOLxia81uwDIy7g1TClf"
+    },
+    {
+      "added_at": "2024-09-13 00:01:00",
+      "album": {
         "name": "No Love In Lagos",
         "url": "https://open.spotify.com/album/3OB64tBkIABfzlcWTYfr9N"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 203615,
       "name": "Fall",
       "url": "https://open.spotify.com/track/3HDGC8t5S5csiKtHGYevr9"
-    },
-    {
-      "added_at": "2024-09-13 00:01:00",
-      "album": {
-        "name": "Left Right",
-        "url": "https://open.spotify.com/album/4hCOpkmIWNH1bxMeRxfjfK"
-      },
-      "artists": [
-        {
-          "name": "Keys the Prince",
-          "url": "https://open.spotify.com/artist/5nCeWRjxptrgFwtvLlHsj1"
-        }
-      ],
-      "duration_ms": 160169,
-      "name": "Left Right",
-      "url": "https://open.spotify.com/track/73YOLxia81uwDIy7g1TClf"
     },
     {
       "added_at": "2024-09-13 00:01:00",
@@ -963,30 +963,6 @@
     {
       "added_at": "2024-09-13 00:01:00",
       "album": {
-        "name": "No Love In Lagos",
-        "url": "https://open.spotify.com/album/3qUxHQMBLeBWsBTkPnhXb3"
-      },
-      "artists": [
-        {
-          "name": "Show Dem Camp",
-          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
-        },
-        {
-          "name": "The Cavemen.",
-          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
-        },
-        {
-          "name": "Nsikak David",
-          "url": "https://open.spotify.com/artist/68rNpsuXK5ie82VFFuJZJy"
-        }
-      ],
-      "duration_ms": 189199,
-      "name": "No Love In Lagos",
-      "url": "https://open.spotify.com/track/3S612TExInLWnYOsQ9Ti9y"
-    },
-    {
-      "added_at": "2024-09-13 00:01:00",
-      "album": {
         "name": "Hallelujah",
         "url": "https://open.spotify.com/album/7y3LiQvJhZtj3cuuT596LH"
       },
@@ -1007,6 +983,30 @@
       "duration_ms": 198709,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/6JNLAYsRE0JAES5arxN0nY"
+    },
+    {
+      "added_at": "2024-09-13 00:01:00",
+      "album": {
+        "name": "No Love In Lagos",
+        "url": "https://open.spotify.com/album/3qUxHQMBLeBWsBTkPnhXb3"
+      },
+      "artists": [
+        {
+          "name": "Show Dem Camp",
+          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
+        },
+        {
+          "name": "The Cavemen.",
+          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
+        },
+        {
+          "name": "Nsikak David",
+          "url": "https://open.spotify.com/artist/68rNpsuXK5ie82VFFuJZJy"
+        }
+      ],
+      "duration_ms": 189199,
+      "name": "No Love In Lagos",
+      "url": "https://open.spotify.com/track/3S612TExInLWnYOsQ9Ti9y"
     },
     {
       "added_at": "2024-09-13 00:01:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-09-13 00:01:00",
       "album": {
-        "name": "Ave Maria",
-        "url": "https://open.spotify.com/album/2uAGDDNP8V3aMbYeJmu7KS"
-      },
-      "artists": [
-        {
-          "name": "Ema Onigah",
-          "url": "https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD"
-        }
-      ],
-      "duration_ms": 167052,
-      "name": "Ave Maria",
-      "url": "https://open.spotify.com/track/4azaom4n0UaMEcJCY4iAZL"
-    },
-    {
-      "added_at": "2024-09-13 00:01:00",
-      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/6XhHnQhsT8EayndVj36qvf"
       },
@@ -1155,18 +1139,18 @@
     {
       "added_at": "2024-09-13 00:01:00",
       "album": {
-        "name": "BOYAHNAH",
-        "url": "https://open.spotify.com/album/2y49Ac4BVke9qR9fkABIH9"
+        "name": "Ave Maria",
+        "url": "https://open.spotify.com/album/2uAGDDNP8V3aMbYeJmu7KS"
       },
       "artists": [
         {
-          "name": "Bahd Man Niko",
-          "url": "https://open.spotify.com/artist/2wzUPRXpsHccu7ZxIlqJsb"
+          "name": "Ema Onigah",
+          "url": "https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD"
         }
       ],
-      "duration_ms": 124069,
-      "name": "P.P.P (Puff Puff Pass)",
-      "url": "https://open.spotify.com/track/75KOIUWqG81Qzlkm0XEqNi"
+      "duration_ms": 167052,
+      "name": "Ave Maria",
+      "url": "https://open.spotify.com/track/4azaom4n0UaMEcJCY4iAZL"
     },
     {
       "added_at": "2024-09-13 00:01:00",
@@ -1187,22 +1171,18 @@
     {
       "added_at": "2024-09-13 00:01:00",
       "album": {
-        "name": "D-RIDE (feat. SadBoi)",
-        "url": "https://open.spotify.com/album/0wbkFz9Zkl9ihLqJQS28cl"
+        "name": "BOYAHNAH",
+        "url": "https://open.spotify.com/album/2y49Ac4BVke9qR9fkABIH9"
       },
       "artists": [
         {
-          "name": "DETO BLACK",
-          "url": "https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT"
-        },
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+          "name": "Bahd Man Niko",
+          "url": "https://open.spotify.com/artist/2wzUPRXpsHccu7ZxIlqJsb"
         }
       ],
-      "duration_ms": 120000,
-      "name": "D-RIDE (feat. SadBoi)",
-      "url": "https://open.spotify.com/track/7GP9LIMNDuHcQ3WhTSbExX"
+      "duration_ms": 124069,
+      "name": "P.P.P (Puff Puff Pass)",
+      "url": "https://open.spotify.com/track/75KOIUWqG81Qzlkm0XEqNi"
     },
     {
       "added_at": "2024-09-13 00:01:00",
@@ -1223,6 +1203,26 @@
       "duration_ms": 192000,
       "name": "One Night",
       "url": "https://open.spotify.com/track/25qB0KAQ6UCAbT9vrbb5Ng"
+    },
+    {
+      "added_at": "2024-09-13 00:01:00",
+      "album": {
+        "name": "D-RIDE (feat. SadBoi)",
+        "url": "https://open.spotify.com/album/0wbkFz9Zkl9ihLqJQS28cl"
+      },
+      "artists": [
+        {
+          "name": "DETO BLACK",
+          "url": "https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT"
+        },
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "D-RIDE (feat. SadBoi)",
+      "url": "https://open.spotify.com/track/7GP9LIMNDuHcQ3WhTSbExX"
     },
     {
       "added_at": "2024-09-13 00:01:00",

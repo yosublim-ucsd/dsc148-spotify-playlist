@@ -1,28 +1,28 @@
 {
-  "description": "Recent hits and new songs from your fave artists. Cover: Alex Warren",
-  "num_followers": 909911,
+  "description": "Recent hits and new songs from your fave artists. Cover: Teddy Swims",
+  "num_followers": 910047,
   "original_name": "Just Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtsYgAAAAAA0WGQgRXM7xIZl9G3n2QFC",
+  "snapshot_id": "ZuO4wAAAAADdcKJxNX+iDXebk6VEWHAB",
   "tracks": [
     {
-      "added_at": "2024-09-06 14:58:08",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Troubled Waters",
-        "url": "https://open.spotify.com/album/54V4i5OLHNmaiXIgK7urCp"
+        "name": "Bad Dreams",
+        "url": "https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR"
       },
       "artists": [
         {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 197775,
-      "name": "Troubled Waters",
-      "url": "https://open.spotify.com/track/3xohRHSBI2i0HolJPlN85v"
+      "duration_ms": 184577,
+      "name": "Bad Dreams",
+      "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
     },
     {
       "added_at": "2024-09-06 14:58:08",
@@ -57,20 +57,36 @@
       "url": "https://open.spotify.com/track/2sKHevALE8DKDkwEo04Pbh"
     },
     {
-      "added_at": "2024-09-06 14:58:08",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Ego",
-        "url": "https://open.spotify.com/album/6uHcRBlMpgXSXv0I0rpxBx"
+        "name": "Timeless - Deluxe",
+        "url": "https://open.spotify.com/album/7mePeoRszpMqgvTAc9uRY0"
       },
       "artists": [
         {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
         }
       ],
-      "duration_ms": 198498,
-      "name": "Ego",
-      "url": "https://open.spotify.com/track/1mGM4dJe4v9DhBY3pRSpRj"
+      "duration_ms": 154504,
+      "name": "Criminals",
+      "url": "https://open.spotify.com/track/1gMFAi2auKTgHsYH7nIBhv"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Requiem",
+        "url": "https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 204223,
+      "name": "Soft Spot",
+      "url": "https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7"
     },
     {
       "added_at": "2024-09-06 14:58:08",
@@ -91,6 +107,74 @@
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
+    },
+    {
+      "added_at": "2024-09-06 14:58:08",
+      "album": {
+        "name": "Troubled Waters",
+        "url": "https://open.spotify.com/album/54V4i5OLHNmaiXIgK7urCp"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 197775,
+      "name": "Troubled Waters",
+      "url": "https://open.spotify.com/track/3xohRHSBI2i0HolJPlN85v"
+    },
+    {
+      "added_at": "2024-09-06 14:58:08",
+      "album": {
+        "name": "Ego",
+        "url": "https://open.spotify.com/album/6uHcRBlMpgXSXv0I0rpxBx"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 198498,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/1mGM4dJe4v9DhBY3pRSpRj"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "this is what forever feels like",
+        "url": "https://open.spotify.com/album/71fJ7EFsAMMKkfnZMIbtKI"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        },
+        {
+          "name": "Nick Jonas",
+          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
+        }
+      ],
+      "duration_ms": 154841,
+      "name": "this is what forever feels like (with Nick Jonas)",
+      "url": "https://open.spotify.com/track/3uTsiaNxy6h6EAd7MsCf9D"
+    },
+    {
+      "added_at": "2024-09-06 14:58:08",
+      "album": {
+        "name": "Love The Hell Out Of You - From The Motion Picture 'It Ends With Us'",
+        "url": "https://open.spotify.com/album/1Jp3i4GcmKeOvP7DAVq9Pg"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 205080,
+      "name": "Love The Hell Out Of You - From The Motion Picture 'It Ends With Us'",
+      "url": "https://open.spotify.com/track/2vBBUQnM6YSN44gbe4uCoH"
     },
     {
       "added_at": "2024-09-06 14:58:08",
@@ -141,6 +225,22 @@
       "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
     },
     {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Nobody Knows",
+        "url": "https://open.spotify.com/album/3P1k02barEAeTD5QeyV6oj"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 152239,
+      "name": "Nobody Knows",
+      "url": "https://open.spotify.com/track/2d4Zg9Iupw6kJXVrQPERvh"
+    },
+    {
       "added_at": "2024-09-06 14:58:08",
       "album": {
         "name": "BABA FEIN",
@@ -155,6 +255,22 @@
       "duration_ms": 134608,
       "name": "BABA FEIN",
       "url": "https://open.spotify.com/track/0fkaHvf4sGE2novWIr9ewc"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Model, Actress, Whatever",
+        "url": "https://open.spotify.com/album/4M6b5oOkKDlbPAjlfXbID2"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 212530,
+      "name": "Model, Actress, Whatever",
+      "url": "https://open.spotify.com/track/2GxyLVk70vblDcloX4mJsi"
     },
     {
       "added_at": "2024-09-06 14:58:08",
@@ -173,6 +289,26 @@
       "url": "https://open.spotify.com/track/6fqbblMIytVYfUn8ra4bdV"
     },
     {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "I'd Rather Pretend (with d4vd)",
+        "url": "https://open.spotify.com/album/4CDZFVWG65WF44WIMNFw2g"
+      },
+      "artists": [
+        {
+          "name": "Bryant Barnes",
+          "url": "https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK"
+        },
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 184560,
+      "name": "I'd Rather Pretend (with d4vd)",
+      "url": "https://open.spotify.com/track/1NHflT1W5O7fntEXN9rfe9"
+    },
+    {
       "added_at": "2024-09-06 14:58:08",
       "album": {
         "name": "Ashe",
@@ -187,6 +323,22 @@
       "duration_ms": 261265,
       "name": "Ashe",
       "url": "https://open.spotify.com/track/1NYGXD18EU7QlNuD0sdx9l"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "First Heartbreak",
+        "url": "https://open.spotify.com/album/1QGOpJ2KxpQ4TryPQfPq9n"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 180486,
+      "name": "First Heartbreak",
+      "url": "https://open.spotify.com/track/0IPY0ENbqkDhHKxPK2s357"
     },
     {
       "added_at": "2024-09-06 14:58:08",
@@ -205,20 +357,20 @@
       "url": "https://open.spotify.com/track/3b1s3Ywg0laGsNHCpUBhrl"
     },
     {
-      "added_at": "2024-09-06 14:58:08",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Love The Hell Out Of You - From The Motion Picture 'It Ends With Us'",
-        "url": "https://open.spotify.com/album/1Jp3i4GcmKeOvP7DAVq9Pg"
+        "name": "You'll Be OK, Kid - From the Original Documentary \u201cChild Star\u201d",
+        "url": "https://open.spotify.com/album/6TesEldZjVdwDg9OgI9YaK"
       },
       "artists": [
         {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
         }
       ],
-      "duration_ms": 205080,
-      "name": "Love The Hell Out Of You - From The Motion Picture 'It Ends With Us'",
-      "url": "https://open.spotify.com/track/2vBBUQnM6YSN44gbe4uCoH"
+      "duration_ms": 166339,
+      "name": "You'll Be OK, Kid - From the Original Documentary \u201cChild Star\u201d",
+      "url": "https://open.spotify.com/track/3Ql8gLndDQ8VsVQyMW1GAA"
     },
     {
       "added_at": "2024-09-06 14:58:08",
@@ -253,6 +405,22 @@
       "url": "https://open.spotify.com/track/4JGtRHnWyaNq7FIOZoBdPe"
     },
     {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "The Magazine",
+        "url": "https://open.spotify.com/album/1U5cF0ZKqIwzGSLrhy9ND3"
+      },
+      "artists": [
+        {
+          "name": "Zinadelphia",
+          "url": "https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum"
+        }
+      ],
+      "duration_ms": 213297,
+      "name": "Knock The Wind",
+      "url": "https://open.spotify.com/track/3u8zGeldge4k7hlfw3HbPC"
+    },
+    {
       "added_at": "2024-09-06 14:58:08",
       "album": {
         "name": "Get By",
@@ -267,6 +435,38 @@
       "duration_ms": 160160,
       "name": "Get By",
       "url": "https://open.spotify.com/track/5CEkI4CA4yHWEdiRDt1qlr"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Long Way Home",
+        "url": "https://open.spotify.com/album/05x5S13Wmke33NKzXIPEs4"
+      },
+      "artists": [
+        {
+          "name": "Jamie Miller",
+          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
+        }
+      ],
+      "duration_ms": 185997,
+      "name": "Long Way Home",
+      "url": "https://open.spotify.com/track/6Fiyilx7ZTmLTi33qYEda5"
+    },
+    {
+      "added_at": "2024-09-06 14:58:08",
+      "album": {
+        "name": "Pretty Slowly",
+        "url": "https://open.spotify.com/album/6P8euK0BjgTqallJTGoJTX"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 261420,
+      "name": "Pretty Slowly",
+      "url": "https://open.spotify.com/track/1QxxBUAx42J8pIFYJJR880"
     },
     {
       "added_at": "2024-09-06 14:58:08",
@@ -341,6 +541,22 @@
       "url": "https://open.spotify.com/track/5fz1rfGFT3npQUmNnu998w"
     },
     {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Beautiful Day",
+        "url": "https://open.spotify.com/album/3UAnVb3U0p7Muzgwux5W8s"
+      },
+      "artists": [
+        {
+          "name": "Mike Posner",
+          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+        }
+      ],
+      "duration_ms": 189355,
+      "name": "Beautiful Day",
+      "url": "https://open.spotify.com/track/263JoWo2G2ZhdpFSNx0naB"
+    },
+    {
       "added_at": "2024-09-06 14:58:08",
       "album": {
         "name": "Unaired",
@@ -355,22 +571,6 @@
       "duration_ms": 237213,
       "name": "Nobody's Soldier",
       "url": "https://open.spotify.com/track/0UMGY9KzTESYGstyvypV6z"
-    },
-    {
-      "added_at": "2024-09-06 14:58:08",
-      "album": {
-        "name": "Pretty Slowly",
-        "url": "https://open.spotify.com/album/6P8euK0BjgTqallJTGoJTX"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 261420,
-      "name": "Pretty Slowly",
-      "url": "https://open.spotify.com/track/1QxxBUAx42J8pIFYJJR880"
     },
     {
       "added_at": "2024-09-06 14:58:08",
@@ -539,42 +739,6 @@
     {
       "added_at": "2024-09-06 14:58:08",
       "album": {
-        "name": "Breaking Dishes",
-        "url": "https://open.spotify.com/album/4OQgjaR3MOhWECN9GPbiNx"
-      },
-      "artists": [
-        {
-          "name": "Caylee Hammack",
-          "url": "https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9"
-        }
-      ],
-      "duration_ms": 231133,
-      "name": "Breaking Dishes",
-      "url": "https://open.spotify.com/track/3iwSUhv5sjipxYEp8mAQCW"
-    },
-    {
-      "added_at": "2024-09-06 14:58:08",
-      "album": {
-        "name": "RIDIN",
-        "url": "https://open.spotify.com/album/4CeFaAlqyHxaG9i1ZZ0mA5"
-      },
-      "artists": [
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "RIDIN (with Lil Wayne)",
-      "url": "https://open.spotify.com/track/1a7yPmLN7ntGAi2P6Zbtj9"
-    },
-    {
-      "added_at": "2024-09-06 14:58:08",
-      "album": {
         "name": "Big Heart",
         "url": "https://open.spotify.com/album/5ZVNpEHPupS6O4QRR8zZP1"
       },
@@ -589,20 +753,20 @@
       "url": "https://open.spotify.com/track/2WAY8PYqxhE4p46cefar0w"
     },
     {
-      "added_at": "2024-09-06 14:58:08",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Hurt With You",
-        "url": "https://open.spotify.com/album/0mt2Jf9NXY4Hh8t83gdxtY"
+        "name": "Philly or Malibu",
+        "url": "https://open.spotify.com/album/48zKZriHKsDYfI4D1YGxYC"
       },
       "artists": [
         {
-          "name": "Ruelle",
-          "url": "https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx"
+          "name": "ROZES",
+          "url": "https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA"
         }
       ],
-      "duration_ms": 273024,
-      "name": "Hurt With You",
-      "url": "https://open.spotify.com/track/2jmvlzTbRkaND2nZrl2XpJ"
+      "duration_ms": 160183,
+      "name": "Philly or Malibu",
+      "url": "https://open.spotify.com/track/0UC1mbCTSOfQY33jKI3aM4"
     },
     {
       "added_at": "2024-09-06 14:58:08",
@@ -623,22 +787,6 @@
       "duration_ms": 164011,
       "name": "Guy For That (Feat. Luke Combs)",
       "url": "https://open.spotify.com/track/5crxqqibcvoOQQgg4HjAFQ"
-    },
-    {
-      "added_at": "2024-09-06 14:58:08",
-      "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/1Xw66n9Ec4zGW0IP8S5waa"
-      },
-      "artists": [
-        {
-          "name": "Mergui",
-          "url": "https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z"
-        }
-      ],
-      "duration_ms": 183713,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/68wzEwfzQB3hc66p4xnN1w"
     },
     {
       "added_at": "2024-09-06 14:58:08",
@@ -695,22 +843,6 @@
     {
       "added_at": "2024-09-06 14:58:08",
       "album": {
-        "name": "VANITY",
-        "url": "https://open.spotify.com/album/3vKrt8nMzrqcjUf7rdeA3g"
-      },
-      "artists": [
-        {
-          "name": "Bryant Barnes",
-          "url": "https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK"
-        }
-      ],
-      "duration_ms": 184560,
-      "name": "I'd Rather Pretend",
-      "url": "https://open.spotify.com/track/4rJHH484bHZDts51o5i2CB"
-    },
-    {
-      "added_at": "2024-09-06 14:58:08",
-      "album": {
         "name": "Obsessed",
         "url": "https://open.spotify.com/album/5GKNtp0KLwDysaUXwZNeib"
       },
@@ -727,42 +859,6 @@
       "duration_ms": 200649,
       "name": "Walked on Water (feat. Kesha)",
       "url": "https://open.spotify.com/track/15Dz1snbrX3zsvYU0F28g1"
-    },
-    {
-      "added_at": "2024-09-06 14:58:08",
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/6HEq0bWaLaL9vFSEiYjqpU"
-      },
-      "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "Train",
-          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
-        }
-      ],
-      "duration_ms": 148364,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/35KkZrQ5r4NpHYuoLUT0VI"
-    },
-    {
-      "added_at": "2024-09-06 14:58:08",
-      "album": {
-        "name": "Homecoming",
-        "url": "https://open.spotify.com/album/73wC0ne2a1wSaN4DHe27eR"
-      },
-      "artists": [
-        {
-          "name": "Paul Russell",
-          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
-        }
-      ],
-      "duration_ms": 160957,
-      "name": "Homecoming",
-      "url": "https://open.spotify.com/track/0DnkzOeTkiLAjsV2eNHwop"
     },
     {
       "added_at": "2024-09-06 14:58:08",
@@ -1019,22 +1115,6 @@
       "duration_ms": 248454,
       "name": "A Symptom Of Being Human",
       "url": "https://open.spotify.com/track/7xOB82ELg70RoIM3mMTkt4"
-    },
-    {
-      "added_at": "2024-09-06 14:58:08",
-      "album": {
-        "name": "LOOM",
-        "url": "https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 166706,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/6BOgN046AFobs2sZV7YlRy"
     }
   ],
   "unique_name": "Just Good Music",

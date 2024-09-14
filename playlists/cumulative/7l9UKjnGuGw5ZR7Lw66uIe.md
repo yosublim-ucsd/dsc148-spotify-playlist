@@ -4,7 +4,7 @@
 
 > 
 
-24 songs - 1 hr 7 min
+25 songs - 1 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [yalan dolan](https://open.spotify.com/track/7FXft0qm5SvrNIp8a4frmr) | [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [yalan dolan](https://open.spotify.com/album/3PVpUBx6RzyGKzJjo8P8sN) | 2:49 | 2022-07-27 |  |
 | [yarım kalan](https://open.spotify.com/track/0N4YwNQ0LkAF2YhIF8CbSF) | [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [yarım kalan](https://open.spotify.com/album/5ovP7lEu6WG2NUAwLuRtVQ) | 2:33 | 2023-04-07 |  |
 | [Yasak Elma](https://open.spotify.com/track/6aoqegk05KuhE77zFHDTAD) | [İlyas Yalçıntaş](https://open.spotify.com/artist/2ekGsQEkeMtYFA16Jjes2M) | [Yasak Elma](https://open.spotify.com/album/6snMnEqWZmnO7kKqYxXDre) | 3:41 | 2023-07-20 |  |
+| [yazık ettin](https://open.spotify.com/track/2bdngNxumON7IUnZe6Wada) | [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [yazık ettin](https://open.spotify.com/album/3nXqsbUDmDkTv0dXsvBzNF) | 2:50 | 2024-09-13 |  |
 | [yine bana kal](https://open.spotify.com/track/5XXXU9Nx21Klm3vZwyC9V2) | [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [yine bana kal](https://open.spotify.com/album/59ACJKAX7mYDjX8lwIXCTX) | 3:03 | 2024-01-26 |  |
 | [zalim](https://open.spotify.com/track/1hfeCUFMbRuTGH1e14LBYC) | [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [zalim](https://open.spotify.com/album/678tSoWkxSECUbSI23Ocxv) | 2:10 | 2024-08-02 |  |
 | [ZAR ZOR](https://open.spotify.com/track/7i3U8xnLEtkzzsetcu4j7s) | [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [ZAR ZOR](https://open.spotify.com/album/3RwVkeAdTEEs5JU4xQ34y7) | 2:31 | 2022-07-27 |  |

@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-633 songs - 1 day 11 hr 34 min
+635 songs - 1 day 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Another Night \(with Fi Sullivan\)](https://open.spotify.com/track/3mSM5Tm2eDOQOwALWS9OxD) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm), [Fi Sullivan](https://open.spotify.com/artist/4Wvsgumh32s2wSMTZW7FMa) | [Another Night \(with Fi Sullivan\)](https://open.spotify.com/album/3kyUWWFiVBDDFkkjVeMqyA) | 2:31 | 2024-03-01 |  |
 | [ANSWERS](https://open.spotify.com/track/6giF69se8doTga9JDiGAGp) | [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [3034](https://open.spotify.com/album/6CFlWOb4YqJxHjj09r6UOx) | 3:51 | 2022-11-03 | 2023-01-30 |
 | [ANTHEM](https://open.spotify.com/track/1McvHPGOTNBsMZNY8knzsK) | [ROSSY](https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS) | [HEAVENS DOOR](https://open.spotify.com/album/30qHvBEBDiS8QM34QLlKMX) | 3:00 | 2023-02-22 | 2023-10-06 |
+| [Are You Happy Now](https://open.spotify.com/track/3ecUcDxrUZHdpNq9XdeOI5) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Are You Happy Now](https://open.spotify.com/album/5BGQ43Yb9mwLWA9MViSwY7) | 4:02 | 2024-09-14 |  |
 | [Aries \(Mean Something 2 U\)](https://open.spotify.com/track/3TjRsLqcoVBaQyhVb8gHVl) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Z3LLA](https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02), [STARSIGNS](https://open.spotify.com/artist/4i6h8ZEK64FovE2EQCjMMZ), [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [FIRE SIGNS](https://open.spotify.com/album/4dq7yzhWqzXfJDVVKfUW34) | 3:36 | 2024-09-06 |  |
 | [Ascend \(Reload\)](https://open.spotify.com/track/6IB4pkRzElFPRudm6ANKpu) | [Khamsin](https://open.spotify.com/artist/3SArT8JtWehqNmycXIZren) | [Ascend \(Reload\)](https://open.spotify.com/album/6S4jvKUaVD3meKXB2nCwVm) | 5:37 | 2022-01-14 |  |
 | [Aurora](https://open.spotify.com/track/5FEbMc1hZuQahbLv0KDTNI) | [ZUSO](https://open.spotify.com/artist/6ZsS4MH8OG5vLGrXAoC5Ee) | [Aurora](https://open.spotify.com/album/0wsTnLWu8E6Ly8Jl84dG0O) | 7:08 | 2023-05-31 | 2023-07-20 |
@@ -109,6 +110,7 @@
 | [CIRCLES](https://open.spotify.com/track/6cVx6IHckQGUv84Y6RviFC) | [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP) | [COLD](https://open.spotify.com/album/4QhlBt0hppsc1JmWptgMKc) | 4:34 | 2023-03-03 | 2023-03-25 |
 | [Circuit Current](https://open.spotify.com/track/2mZZ2QeDPoeJIePGbDmNjX) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Circuit Current](https://open.spotify.com/album/1Io0KZKAK3f69QO9FpJWuK) | 4:07 | 2023-07-20 | 2023-09-26 |
 | [Clarity](https://open.spotify.com/track/5ZQByqMsu8cb3X79WWRljG) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu) | [Clarity](https://open.spotify.com/album/7fbeQTIwseCf228aAhm2Ys) | 3:49 | 2023-09-25 |  |
+| [Closer](https://open.spotify.com/track/77seRPoDM8XqbaYVNHoVmy) | [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT), [Angela Krüsi](https://open.spotify.com/artist/76VaLarlPXHMQ3TFPE6YI1) | [How To Run Away \- 10 Year Bonus Disk](https://open.spotify.com/album/77I6SPJYTyBuuIkjs6Eetq) | 4:10 | 2024-09-14 |  |
 | [Closer To You](https://open.spotify.com/track/64UCdNSBP51U28Uduj1KiI) | [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [Closer To You / Make Yourself At Home](https://open.spotify.com/album/6g2yAFcr82CEv9ONmcfntZ) | 2:34 | 2023-09-25 | 2024-09-07 |
 | [COLD](https://open.spotify.com/track/5nNgbJyYK0sBjvIW97FWUu) | [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP) | [COLD](https://open.spotify.com/album/4QhlBt0hppsc1JmWptgMKc) | 3:56 | 2023-03-03 | 2023-03-25 |
 | [Cold Comfort \(feat\. Andrew Paley\) \- OMAS Remix](https://open.spotify.com/track/54bvLApXwHqh869Uqt74TJ) | [StayLoose](https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83), [Andrew Paley](https://open.spotify.com/artist/17YZc3pOoK9itwBjQKiLvb), [OMAS](https://open.spotify.com/artist/6TwO05VN5ZM3DYVEsP9vjK) | [Cold Comfort \(feat\. Andrew Paley\) \[Remixes\]](https://open.spotify.com/album/0bKng3SwvPUbN0oqxgN3rQ) | 3:55 | 2022-01-14 | 2022-02-01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4sjY92ZWVdLJYdPmhpJQXh.md) - [plain]
 
 > Atlantic Records Presents the hottest tracks in hip\-hop, pop, rock, R&amp;B, indie and more! Updated every Friday.
 
-[Atlantic Records](https://open.spotify.com/user/atlanticrecords) - 2,109 likes - 76 songs - 3 hr 44 min
+[Atlantic Records](https://open.spotify.com/user/atlanticrecords) - 2,111 likes - 76 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/4sjY92ZWVdLJYdPmhpJQXh.md) - [plain]
 | 34 | [FAERIE SOIRÉE](https://open.spotify.com/track/3SeNIwGVirXfaTWAOXcU2k) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [PORTALS](https://open.spotify.com/album/4kI7ZZF6CgDGFTjZNFwXYG) | 2:43 |
 | 35 | [Save You a Seat](https://open.spotify.com/track/6pkRK6iZC2Yhhd172tC9Id) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Save You a Seat](https://open.spotify.com/album/0VPPrXduFjL2zke7XfDDPu) | 3:17 |
 | 36 | [Tested, Approved & Trusted](https://open.spotify.com/track/4Lk9PYDhAucTZMyccvt66Z) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 3:40 |
-| 37 | [Wahala \(feat\. Olamide\)](https://open.spotify.com/track/6ZBXya9ewPZa6zXDRfPhog) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Wahala \(feat\. Olamide\)](https://open.spotify.com/album/59BxJKNg7wRYlJxAahb3YW) | 2:50 |
+| 37 | [WAHALA \(FEAT\. OLAMIDE\)](https://open.spotify.com/track/6ZBXya9ewPZa6zXDRfPhog) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [WAHALA \(FEAT\. OLAMIDE\)](https://open.spotify.com/album/59BxJKNg7wRYlJxAahb3YW) | 2:50 |
 | 38 | [Blue Over You](https://open.spotify.com/track/6ymafuSC9VWoGRPquZkQKV) | [Mason Ramsey](https://open.spotify.com/artist/6xvpfMjWTougrRRtK7iikz) | [Blue Over You](https://open.spotify.com/album/1DAz6NgojMSptSktSRV8oA) | 4:05 |
 | 39 | [Hot Butter Summertime](https://open.spotify.com/track/4KbQ5S6ctUbesoDcMdnSBe) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [Hot Butter Summertime](https://open.spotify.com/album/2kZuaZZoUPTOgvhqzbjO52) | 2:24 |
 | 40 | [County Time](https://open.spotify.com/track/7mFrZ8jhWtnUBUrKuKPMmp) | [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw) | [The X Tape \(Deluxe\)](https://open.spotify.com/album/1OhznYXcpOhfoWIdUgsNW4) | 2:15 |

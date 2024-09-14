@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuNycAAAAAA9rCLmeA82YvZH5UOl7tpR",
+  "snapshot_id": "ZuQGWQAAAADqul3R+ifhFeXheEWwUCzq",
   "tracks": [
     {
       "added_at": "2024-09-12 23:00:00",
@@ -107,6 +107,26 @@
       "duration_ms": 126792,
       "name": "A Lot",
       "url": "https://open.spotify.com/track/7K2Rpqgu1rvKInUmp5w4kJ"
+    },
+    {
+      "added_at": "2024-09-13 08:34:24",
+      "album": {
+        "name": "7.62",
+        "url": "https://open.spotify.com/album/3660p2c0M6xPXBsrYcqlGC"
+      },
+      "artists": [
+        {
+          "name": "M1llionz",
+          "url": "https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq"
+        },
+        {
+          "name": "LD",
+          "url": "https://open.spotify.com/artist/4eQGLO5ExQniSLvj5NjW6m"
+        }
+      ],
+      "duration_ms": 174166,
+      "name": "7.62",
+      "url": "https://open.spotify.com/track/0RqC76cRiZv5lHE4GcQa1i"
     },
     {
       "added_at": "2024-09-12 23:00:00",

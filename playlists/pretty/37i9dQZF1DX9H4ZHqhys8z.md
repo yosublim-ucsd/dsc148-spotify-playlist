@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 
 > Άκου τις γυναίκες της Ελλάδας στη διαπασών\. Εξώφυλλο: LILA
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,140 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,159 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [9ARI](https://open.spotify.com/track/6vlH3qCZn1PjuBww5Z0e5I) | [LILA](https://open.spotify.com/artist/69EosSfMcqIxCMw7VeVPVC), [RACK](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [Sin Laurent](https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [9ARI](https://open.spotify.com/album/5AlVNGNmZw1zh988FeOif6) | 2:52 |
 | 2 | [Mythos](https://open.spotify.com/track/0fSun9srR8uNjfSMYkxVn5) | [Josephine](https://open.spotify.com/artist/1fAotS2jUxpI8bnIxd5cIR) | [Mythos](https://open.spotify.com/album/58ot8gXv5rkCoHrsPKRENm) | 2:54 |
 | 3 | [Amartolo](https://open.spotify.com/track/7n7zKCCkzYHBlh9ZrDuytS) | [Elena Tsagrinou](https://open.spotify.com/artist/4TgsxeFPNtkZ5lneq9AceU), [Nore Pierre](https://open.spotify.com/artist/5T1jkoAvwvd4ybx9f5VhVp) | [Amartolo](https://open.spotify.com/album/0fo8Q6whl8LOWKB8ukPLJ1) | 2:14 |
-| 4 | [Verano](https://open.spotify.com/track/1iyeUhzobrowCtTwKf4BrY) | [Kimi](https://open.spotify.com/artist/6uhMFybh7MnkaBS2EgyzNw), [Dirty Harry](https://open.spotify.com/artist/7BXe1v4YJm7R5wg2ioeA1q), [Echο](https://open.spotify.com/artist/3gJkEpmd7y2TsfAnyTGSTK) | [Verano](https://open.spotify.com/album/2eUmAm9rSyQtjXHLP3Cdas) | 3:15 |
+| 4 | [Verano](https://open.spotify.com/track/1iyeUhzobrowCtTwKf4BrY) | [Kimi](https://open.spotify.com/artist/6uhMFybh7MnkaBS2EgyzNw), [Dirty Harry](https://open.spotify.com/artist/7BXe1v4YJm7R5wg2ioeA1q), [Echo](https://open.spotify.com/artist/0JfrxGQOdnHYZWBAtzPezD) | [Verano](https://open.spotify.com/album/2eUmAm9rSyQtjXHLP3Cdas) | 3:15 |
 | 5 | [Tsifteteli](https://open.spotify.com/track/5eMsUupeySNvfuC2eIuomA) | [Lydia](https://open.spotify.com/artist/2YTGRExtfqji1DoyvkPBeT), [Lava](https://open.spotify.com/artist/5umiHIOleshDzh4h1ry41O), [ROPEX LATERIO](https://open.spotify.com/artist/2WpUXBjLm8j8tnrAZ4s9v9), [Paris Kalpos](https://open.spotify.com/artist/63z0gOosInxV2a7J8UPDzM) | [Tsifteteli](https://open.spotify.com/album/2yMBmHCQC8PCisFXG22b5q) | 3:17 |
 | 6 | [Irema To Leo](https://open.spotify.com/track/4L9tzIelOaND2gIkVVwK4M) | [Joanne](https://open.spotify.com/artist/75z1OhYtUgB075L3zyMfFH) | [Irema To Leo](https://open.spotify.com/album/6WmI1u07BIgg1GuoF01Xtp) | 2:17 |
 | 7 | [Nemouta](https://open.spotify.com/track/2KzVSadpL59J42DuhBVi70) | [Nandra](https://open.spotify.com/artist/213p95pA1lI8enoM31pC2b), [Billie Kark](https://open.spotify.com/artist/6hDmweft2NBTVSnCPJ5pMc) | [Chi V/A](https://open.spotify.com/album/70e09AQIJEAKJvrBwn3qHm) | 5:03 |

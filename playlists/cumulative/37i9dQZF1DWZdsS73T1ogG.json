@@ -691,6 +691,40 @@
     },
     {
       "album": {
+        "name": "X Amor II",
+        "url": "https://open.spotify.com/album/2VYdhZU6KonE9X50HFLHhM"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "FARIANA",
+          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+        },
+        {
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        },
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266500,
+      "name": "5 Babys",
+      "url": "https://open.spotify.com/track/6jgeP2uKRZ200mT2RGi9h7"
+    },
+    {
+      "album": {
         "name": "69",
         "url": "https://open.spotify.com/album/6Zj7qmBZ7MRZ276b67CLi2"
       },
@@ -5125,6 +5159,28 @@
     },
     {
       "album": {
+        "name": "SOLO",
+        "url": "https://open.spotify.com/album/6bZ3w99gJilo45OwKsMBd0"
+      },
+      "artists": [
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179893,
+      "name": "Cinco Estrellas",
+      "url": "https://open.spotify.com/track/0bZ5NMULGjx65BhgXTfA33"
+    },
+    {
+      "album": {
         "name": "Classy 101",
         "url": "https://open.spotify.com/album/4jtQUtS4ABgER3DnGfKJCv"
       },
@@ -6512,7 +6568,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 146040,
       "name": "De Luto",
       "url": "https://open.spotify.com/track/00OeLLTUpcLjGOXaK4PULr"
@@ -8192,7 +8248,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 128386,
       "name": "El Pantalon",
       "url": "https://open.spotify.com/track/3lD8b8upUlaVyQtZCKKDnF"
@@ -8830,6 +8886,24 @@
       "duration_ms": 159048,
       "name": "Era De Cristal",
       "url": "https://open.spotify.com/track/5X87e196WTJXTHYOMgggRD"
+    },
+    {
+      "album": {
+        "name": "Eres",
+        "url": "https://open.spotify.com/album/3L4V0Qad9QbMXH5WER4g76"
+      },
+      "artists": [
+        {
+          "name": "Omy de Oro",
+          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103225,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/3aHhSUezdwhEyr0YLEDg6M"
     },
     {
       "album": {
@@ -11728,7 +11802,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 183000,
       "name": "Independiente",
       "url": "https://open.spotify.com/track/6qcSla5y2pd21H8DppwgcX"
@@ -14172,6 +14246,24 @@
       "duration_ms": 338000,
       "name": "Los del Espacio",
       "url": "https://open.spotify.com/track/1Hs1uUl8o2VtDp1DABFq0O"
+    },
+    {
+      "album": {
+        "name": "Los Fin De",
+        "url": "https://open.spotify.com/album/2mKKlq0CCG1EbSCDpwFc84"
+      },
+      "artists": [
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162226,
+      "name": "Los Fin De",
+      "url": "https://open.spotify.com/track/0DfkS7yqoFniOUDOcpPVCR"
     },
     {
       "album": {
@@ -18525,7 +18617,7 @@
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 157175,
+      "duration_ms": 156030,
       "name": "Oh Na Na Na",
       "url": "https://open.spotify.com/track/6iTTL95T3uDPbpEsB0cZNq"
     },
@@ -20952,6 +21044,28 @@
       "duration_ms": 196128,
       "name": "Posiciones",
       "url": "https://open.spotify.com/track/6yJc3IAuVak430aYnhamsG"
+    },
+    {
+      "album": {
+        "name": "Potra",
+        "url": "https://open.spotify.com/album/58eHv26CRxMgTwHyZrjgUG"
+      },
+      "artists": [
+        {
+          "name": "Chesca",
+          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
+        },
+        {
+          "name": "Maldy",
+          "url": "https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153721,
+      "name": "Potra",
+      "url": "https://open.spotify.com/track/0kbJDGleMNNv4vFk74duqH"
     },
     {
       "album": {
@@ -28590,7 +28704,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 162352,
       "name": "X MADRID",
       "url": "https://open.spotify.com/track/7dzgQFyIswR1VnewrMU06X"
@@ -29180,7 +29294,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 150111,
       "name": "\u00dasame",
       "url": "https://open.spotify.com/track/2Ckh2U8FcSE8OwCIfofCx8"

@@ -4,7 +4,7 @@
 
 > Hottest bars coming live from the 233\.  Cover: Medikal
 
-614 songs - 1 day 6 hr 56 min
+615 songs - 1 day 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,6 +257,7 @@
 | [Guda](https://open.spotify.com/track/2AF7Y2h73vPOXrBgnAmXTg) | [Kirani Ayat](https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9) | [Guda](https://open.spotify.com/album/1d5BhehyLupzKmPXT5l8u6) | 3:44 | 2022-09-19 | 2022-10-29 |
 | [Gun Dem](https://open.spotify.com/track/71K8MvfOgXNXZNsiRrPsKS) | [Yaa Pono](https://open.spotify.com/artist/1oqHoNJGPx78BetdO5jMFs), [Samini](https://open.spotify.com/artist/10Cql6DpInZY5O6TBw2m4l) | [Gun Dem](https://open.spotify.com/album/5otFOzHT29GPhbU668ExGh) | 3:30 | 2023-11-03 | 2023-11-10 |
 | [Guy Guy](https://open.spotify.com/track/6N2fhZAgWnIV8lcwgoTlMD) | [Oseikrom Sikanii](https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [One Man Thousand](https://open.spotify.com/album/1xMSghpdpaQgBTA7o2Ys1T) | 3:22 | 2024-04-26 | 2024-05-24 |
+| [HABIBI](https://open.spotify.com/track/61KAFZT2UhKG7VBE3R9vec) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [HEALING](https://open.spotify.com/album/7jjKoKreEPJ8eGGz2fdDSH) | 2:56 | 2024-09-13 |  |
 | [Hands Up](https://open.spotify.com/track/1G1hUcZlML9GoHubfVFdiW) | [eNZYM](https://open.spotify.com/artist/2nJsAB7D0EguCc9ATSTZwz), [Cj Biggerman](https://open.spotify.com/artist/1Vl2tN2L85Viewqi6PzAzl) | [Hands Up](https://open.spotify.com/album/0F3Iy5vjBQnOcXZTq2jPkP) | 3:11 | 2023-12-15 | 2024-01-05 |
 | [Hate](https://open.spotify.com/track/1aOG93pV9v9fYvTTUC9UsZ) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Hate](https://open.spotify.com/album/33CQoQojSZtFZJO8xALGJ1) | 3:30 | 2024-05-17 |  |
 | [Heavy](https://open.spotify.com/track/3gx7QVp3Ai7caWWm0MBCW4) | [Kirani Ayat](https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9), [$pacely](https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1), [KONNEY](https://open.spotify.com/artist/2hoKCZleMjxNSKUu3eO1eG) | [ANFITO](https://open.spotify.com/album/09ONIT6lO4WhKLyDiZFtn6) | 2:17 | 2024-07-26 | 2024-08-30 |

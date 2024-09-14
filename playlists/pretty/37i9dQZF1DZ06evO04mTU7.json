@@ -1,12 +1,12 @@
 {
   "description": "This is Ajuliacosta. The essential tracks, all in one playlist.",
-  "num_followers": 5757,
+  "num_followers": 5776,
   "original_name": "This Is Ajuliacosta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuDdgAAAAAAeTUuwi46//681I9O80BNL",
+  "snapshot_id": "ZuIvAAAAAABKFlMqqMPnknSfe6kpv2xE",
   "tracks": [
     {
       "added_at": null,
@@ -83,6 +83,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "3AM (PXT4 RASA) [Remix]",
+        "url": "https://open.spotify.com/album/1acHuLX2pd5QNZ46ZvHD8r"
+      },
+      "artists": [
+        {
+          "name": "Sotam",
+          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
+        },
+        {
+          "name": "Ajuliacosta",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Matheus Muniz",
+          "url": "https://open.spotify.com/artist/3ZfuJqd34fmfkTMpqDW2iI"
+        }
+      ],
+      "duration_ms": 122192,
+      "name": "3AM (PXT4 RASA) - Remix",
+      "url": "https://open.spotify.com/track/0niFRLaq6SNmy6PThNORj0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Poetisas no Topo 3",
         "url": "https://open.spotify.com/album/59B1Leein60p2cEODo6OHl"
       },
@@ -127,30 +151,6 @@
       "duration_ms": 374400,
       "name": "Poetisas no Topo 3",
       "url": "https://open.spotify.com/track/3tW24NTLSEjFSeIFW1EZQE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "3AM (PXT4 RASA) [Remix]",
-        "url": "https://open.spotify.com/album/1acHuLX2pd5QNZ46ZvHD8r"
-      },
-      "artists": [
-        {
-          "name": "Sotam",
-          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
-        },
-        {
-          "name": "Ajuliacosta",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Matheus Muniz",
-          "url": "https://open.spotify.com/artist/3ZfuJqd34fmfkTMpqDW2iI"
-        }
-      ],
-      "duration_ms": 122192,
-      "name": "3AM (PXT4 RASA) - Remix",
-      "url": "https://open.spotify.com/track/0niFRLaq6SNmy6PThNORj0"
     },
     {
       "added_at": null,

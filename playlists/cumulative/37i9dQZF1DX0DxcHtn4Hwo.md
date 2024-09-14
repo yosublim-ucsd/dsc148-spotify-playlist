@@ -4,7 +4,7 @@
 
 > Soothing instrumental music for sleepy babies.
 
-883 songs - 1 day 2 hr 34 min
+888 songs - 1 day 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,6 +218,7 @@
 | [En Vacker Dröm](https://open.spotify.com/track/1yHRXABWC80wQ6m51lYjN4) | [Amelie Tati](https://open.spotify.com/artist/6JTgpqC6HfRJHzL9fCHGKB) | [En Vacker Dröm](https://open.spotify.com/album/2Eujb6BaJAtyGxJkWuXiYU) | 2:25 | 2023-01-06 | 2023-06-03 |
 | [Ensam uti skogen](https://open.spotify.com/track/3tD3QHMN4LfTKYPjGsSkre) | [Alice Greye](https://open.spotify.com/artist/4RdZNnJK1W6fJNOr9KrKpn) | [Ensam uti skogen](https://open.spotify.com/album/1CyZXVJUiv5EubnHNdBYQ1) | 1:24 | 2022-06-08 | 2023-03-10 |
 | [Es hora de acostarse](https://open.spotify.com/track/047f2N27bn7YVyDmjN2CcH) | [Nayara Moore](https://open.spotify.com/artist/38wuntvVRvph542P6Q08bO) | [Es hora de acostarse](https://open.spotify.com/album/7tUywYo0CliiWURhDJVE5M) | 1:44 | 2021-10-05 | 2023-06-03 |
+| [Estrellas](https://open.spotify.com/track/3PkqO4QeUvGh6NevIlVt1H) | [Per Lööf](https://open.spotify.com/artist/18KIEPt8afqad7CPIzsWgV) | [Estrellas](https://open.spotify.com/album/510v7vwUUZNcDaPeahD5mk) | 1:59 | 2024-09-13 |  |
 | [Even When You're Nowhere Near](https://open.spotify.com/track/5nW5gpjCTCDhFTNVrvR5A8) | [Blanca Trembley](https://open.spotify.com/artist/3R5JvEGU9UdYN8uZkMjpgv) | [Even When You're Nowhere Near](https://open.spotify.com/album/1bfl1VMbr6AkHZMAnchW6N) | 2:01 | 2021-10-05 | 2023-01-27 |
 | [Evening Stillness](https://open.spotify.com/track/5QD0VX4sPwPc9wGjfK5JbA) | [Lille Du](https://open.spotify.com/artist/1bNG6qjWLR1cCdvsrxenvH) | [Evening Stillness](https://open.spotify.com/album/5s67Eta43UUoyEjANkBo6h) | 1:51 | 2023-09-22 | 2023-09-23 |
 | [Every Dream](https://open.spotify.com/track/3h6YThz5QFWgnF5sBFxDDo) | [Ora Peel](https://open.spotify.com/artist/4jp2rmHOOcHd5CgPVn7pH7) | [Every Dream](https://open.spotify.com/album/4Q28duxPRXhhbX9TcHvN1R) | 1:26 | 2021-10-05 | 2024-03-29 |
@@ -309,6 +310,7 @@
 | [Hiding Moon](https://open.spotify.com/track/1xq3MzEebTnmi2f2lWiUFK) | [Dan Harper](https://open.spotify.com/artist/3niyzqq9ZXx3r3G9w6CA01) | [Hiding Moon](https://open.spotify.com/album/2Jv9uRgJ3qGRVAbULGWSHx) | 1:48 | 2022-09-22 | 2023-03-25 |
 | [Ho Hey](https://open.spotify.com/track/6qUJsMw1iHpmoAbaDF0QFh) | [Ellie Cox](https://open.spotify.com/artist/7wOOvJ7BwpFWIoVGa0nhh6) | [Ho Hey](https://open.spotify.com/album/6tbOClFwY3XKiGzhD4ugzU) | 1:36 | 2022-10-07 | 2023-06-16 |
 | [Hold Your Hand](https://open.spotify.com/track/3E2XQBhF15JCXjEmDiLpD3) | [Jenifer Layne](https://open.spotify.com/artist/33hBOxkn6uwTrhH5UMZ812) | [Hold Your Hand](https://open.spotify.com/album/4AvJ6gRSv0K4x3eQzFt58O) | 2:11 | 2021-10-05 | 2024-03-29 |
+| [Honey Bee's](https://open.spotify.com/track/5ciNtGHfWpAvLs2tcO7xVe) | [Vivienne Honey](https://open.spotify.com/artist/1kvPqWs9TeD1Jbx0ZlLSJX) | [Honey Bee's](https://open.spotify.com/album/1e4KoN12nC2dGxV8wFEbzj) | 2:20 | 2024-09-13 |  |
 | [Hoppe hoppe hare](https://open.spotify.com/track/5lwKHPF8C3a0z3IrFqpCPu) | [Sofia Moore](https://open.spotify.com/artist/5JHf3A6nMsGyxSubFrHFpt) | [Hoppe hoppe hare](https://open.spotify.com/album/6A1xuU4rBnYpC9qNlGxxO7) | 1:16 | 2023-02-17 |  |
 | [Hot Cross Buns](https://open.spotify.com/track/5EvSBms5sdJTxdyFMRGscp) | [Serge Charlesbois](https://open.spotify.com/artist/58V4mpAIaMxa7yoCHnO24S) | [Hot Cross Buns](https://open.spotify.com/album/6JPA3A5DMco7CTzky0JXtO) | 1:04 | 2021-10-05 | 2022-04-21 |
 | [Hot Crossed Buns](https://open.spotify.com/track/4YRARpkUow9hauMEKnCtPF) | [Isabella Williamson](https://open.spotify.com/artist/1LUTewDZjAIhrRTDYaQTmt) | [Hot Crossed Buns](https://open.spotify.com/album/7myac7QFp8VcJ4xDt7pdE6) | 1:29 | 2021-10-05 | 2022-09-03 |
@@ -425,6 +427,7 @@
 | [Little Jack Horner](https://open.spotify.com/track/4E4WPKft2WloG16jooo7po) | [Jake the Caterpillar](https://open.spotify.com/artist/1v5MENumid8rTCRoFmt8cv) | [Little Jack Horner](https://open.spotify.com/album/7xFxYvag2mw6hdpRQx8yn2) | 1:47 | 2021-10-05 | 2022-02-11 |
 | [Little Jack Horner](https://open.spotify.com/track/5327ijcJLfIFjWPR0KRvYY) | [Rose Robertson](https://open.spotify.com/artist/2rTeg3p3Bk2PkXjGmdETsn) | [Little Jack Horner](https://open.spotify.com/album/4HdcFTsmId8JPaTZoIkskz) | 1:06 | 2023-02-17 |  |
 | [Little Juniper Tree](https://open.spotify.com/track/73LIz9HyLLfU1KsSSI3Xjm) | [Klara Söderman](https://open.spotify.com/artist/3M4QRATGYND6tUfBYU0Qyt) | [Little Juniper Tree](https://open.spotify.com/album/1F0uOct26s41A46zw0jwom) | 1:01 | 2023-10-20 |  |
+| [Little Lamb's Lullaby](https://open.spotify.com/track/402EBh5ZA9TwWUA86PXQNs) | [Caprice Henry](https://open.spotify.com/artist/3MJcT8HEZJ8QsSqgQd2A7G) | [Little Lamb's Lullaby](https://open.spotify.com/album/6Y6cRrWHotyMTfQ97hTGl9) | 2:35 | 2024-09-13 |  |
 | [Little Man In The Drawer](https://open.spotify.com/track/5q0mBe0wYcxIrwLXCKjiWs) | [Miriam Modest](https://open.spotify.com/artist/1pNPm4X2b7wMtlZ2CQQcvb) | [Little Man In The Drawer](https://open.spotify.com/album/3OBDmr68E4VR7Sqe0eFrbK) | 1:28 | 2024-06-07 |  |
 | [Little Miss Muffet](https://open.spotify.com/track/5E0dLWKa34CD8rVcOUVjo8) | [Maria Nevradka](https://open.spotify.com/artist/1Sb4V0G6h38ODoNu7dXTnn) | [Little Miss Muffet](https://open.spotify.com/album/2Qq76At3oFq0KNw0huVtVx) | 1:36 | 2022-12-16 | 2024-04-17 |
 | [Little Nap](https://open.spotify.com/track/7h9z7IKi8Ul6YF8mSHpj3b) | [Elna Wood](https://open.spotify.com/artist/4OQq1goOaeVyJ5NwObkaEf) | [Little Nap](https://open.spotify.com/album/7FS1M0fr7GvyjwGGjHF6XH) | 1:37 | 2023-02-17 | 2023-05-05 |
@@ -664,6 +667,7 @@
 | [Sleepy Teddy](https://open.spotify.com/track/7dQDKfg27CDRIZTdW3mLf3) | [Little Zoe](https://open.spotify.com/artist/510fJjKBitxDiqFinCi6F3) | [Sleepy Teddy](https://open.spotify.com/album/4hAvXaFLGquvpKnqPAodgN) | 2:21 | 2023-05-05 | 2023-06-16 |
 | [Sleepy Teddy's Tale](https://open.spotify.com/track/45LzgmtpD3LqOfzi4bKBOr) | [Jordan Avery](https://open.spotify.com/artist/1LXnzItmTIO6wBobBHHj7a) | [Sleepy Teddy's Tale](https://open.spotify.com/album/5beaPgAqOLpHPnGfHuTQTK) | 1:22 | 2023-11-17 |  |
 | [Sleepytime](https://open.spotify.com/track/13h7I9dNHkzu7JlKKZFShm) | [Evelina Krueger](https://open.spotify.com/artist/5GlrFOukoWnBdZ7wIYfjcw) | [Sleepytime](https://open.spotify.com/album/78LjH7ANZqP6mxD1DwOEWs) | 1:10 | 2022-11-18 | 2024-04-17 |
+| [Sleepytime Stars](https://open.spotify.com/track/4wnfpY8hVYFMhf31tVMlfc) | [Daisy Button](https://open.spotify.com/artist/55oWSAUKIVy2jA1FOpxWkU) | [Sleepytime Stars](https://open.spotify.com/album/0FykifkZHJwo2OlUAMi4fS) | 2:48 | 2024-09-13 |  |
 | [Slowly Falling Asleep](https://open.spotify.com/track/2iETLGEsj6YumvVaN8wGlK) | [Mia Gardner](https://open.spotify.com/artist/2tZe0OSKNCVGbBd5wJ1djr) | [Slowly Falling Asleep](https://open.spotify.com/album/7Bpa7Ayaa1bFGdMKDjnwum) | 2:03 | 2023-03-10 |  |
 | [Slowly Strolling](https://open.spotify.com/track/3ZBIVAWxcRk1XoaD6zEDN5) | [Michael Chausson](https://open.spotify.com/artist/5owt030AopCYxSP5NZldpI) | [Slowly Strolling](https://open.spotify.com/album/6fcrAEXY8HmxVOIAY8eEcJ) | 1:53 | 2023-12-08 |  |
 | [Slumber](https://open.spotify.com/track/7KSdAV8YRyTe0n4iILMAYb) | [Robin Colt](https://open.spotify.com/artist/4vLD4ziTg1lKE9jSJfa4JH) | [Slumber](https://open.spotify.com/album/16bIw6IgHLqIgNrBntAgGI) | 1:50 | 2024-05-24 |  |
@@ -710,6 +714,7 @@
 | [Sunshine Serenade](https://open.spotify.com/track/4V6YpzzURGBkxlJNxwHQgH) | [Emilie Kirsstadt](https://open.spotify.com/artist/6l18YJDLUmzXwcG0P5iCrN) | [Sunshine Serenade](https://open.spotify.com/album/3difba7uWsS2mWbmMucScS) | 2:55 | 2024-04-16 |  |
 | [Sunshine Song](https://open.spotify.com/track/6hicKBEJhWxv7QYQMyU7Mr) | [Lena Terne](https://open.spotify.com/artist/0GjoEUgHE1zBQ591fbqqZg) | [Sunshine Song](https://open.spotify.com/album/5EcAYi9tzvt2ZkrZXvJNnd) | 1:20 | 2024-01-05 |  |
 | [Sweet Dreamer](https://open.spotify.com/track/1pXbbNs7BxiqRZm5jIBcUm) | [Ishaq Love](https://open.spotify.com/artist/6SZObXUJQ4ypexiBQUyEEC) | [Sweet Dreamer](https://open.spotify.com/album/0pw4ddqdSi0v26chZ4Wa1r) | 2:06 | 2024-07-08 |  |
+| [Sweet dreams](https://open.spotify.com/track/04pPOvCeBwYOtptx1WmRCE) | [Tony Delvin](https://open.spotify.com/artist/2PeMIKslHDxZGDTOlOoCIh) | [Sweet dreams](https://open.spotify.com/album/5S1fkNYeqElioi6bjSPPpP) | 2:02 | 2024-09-13 |  |
 | [Sweet Dreams My Love](https://open.spotify.com/track/15IOu7G2o8JKpCHSxguErZ) | [Sleepy Eli](https://open.spotify.com/artist/1FOsCc0H90QSkDzUhIX7sD) | [Sweet Dreams My Love](https://open.spotify.com/album/0f0pbyBFyD6uieQZaIFVY2) | 2:21 | 2023-06-02 |  |
 | [Sweet Little Child](https://open.spotify.com/track/5PhVrt14O82NlGeceaU0R5) | [Anton Bruch](https://open.spotify.com/artist/7zT8gDSxsr4jwMiv2gCqIs) | [Sweet Little Child](https://open.spotify.com/album/05tiRDCwaNWWirtybfHYAG) | 1:57 | 2022-06-08 | 2023-03-25 |
 | [Sweet Pea](https://open.spotify.com/track/0qmuW3sn9B043xf9nMnoSb) | [Andrea Piazzo](https://open.spotify.com/artist/2Hh5OmjynnsLv3s4HUTAP3) | [Fiona](https://open.spotify.com/album/6czBIJIcLC61BRnDb7xApT) | 3:20 | 2022-10-07 | 2023-03-25 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Gojira on top of today's best Metal playlist.",
+  "description": "Spiritbox on top of today's best Metal playlist.",
   "name": "Kickass Metal",
   "tracks": [
     {
@@ -311,6 +311,24 @@
     },
     {
       "album": {
+        "name": "A Visceral Retch",
+        "url": "https://open.spotify.com/album/51kqr7eiWXoV5tzSYcYn4N"
+      },
+      "artists": [
+        {
+          "name": "Whitechapel",
+          "url": "https://open.spotify.com/artist/5274obTQJjzjyycRyJlfml"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245656,
+      "name": "A Visceral Retch",
+      "url": "https://open.spotify.com/track/7BlvPctRnjjJUjBnrySJ7b"
+    },
+    {
+      "album": {
         "name": "A White Horse Covered In Blood",
         "url": "https://open.spotify.com/album/02Pd6DWZUq8pUETRO8NleY"
       },
@@ -322,7 +340,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 198533,
       "name": "A White Horse Covered In Blood",
       "url": "https://open.spotify.com/track/3xeSkrhiTFfQv47lyUPe3W"
@@ -4551,6 +4569,28 @@
     },
     {
       "album": {
+        "name": "Floods of Triton",
+        "url": "https://open.spotify.com/album/3Cyx76Qa9H1lFjOM7yRqSp"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        },
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269583,
+      "name": "Floods of Triton",
+      "url": "https://open.spotify.com/track/08IpZZZPvzDMED3oq9F8Or"
+    },
+    {
+      "album": {
         "name": "Foregone, Pt. 1",
         "url": "https://open.spotify.com/album/2EPDIXOWMkXpT5jTIi02SR"
       },
@@ -6758,7 +6798,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 215796,
       "name": "LEAVE ME ALONE",
       "url": "https://open.spotify.com/track/6rpP8yjaUFXW85basqmW3s"
@@ -6928,6 +6968,24 @@
       "duration_ms": 208920,
       "name": "Losing Control",
       "url": "https://open.spotify.com/track/2PjFzTXf8StVOYm25uWvW4"
+    },
+    {
+      "album": {
+        "name": "Losing Faith",
+        "url": "https://open.spotify.com/album/4olRFQJPy6arx9NjdWGaTf"
+      },
+      "artists": [
+        {
+          "name": "Nevertel",
+          "url": "https://open.spotify.com/artist/0uTkKGuqdf7CtKlZLt9N0Y"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185569,
+      "name": "Losing Faith",
+      "url": "https://open.spotify.com/track/1FouhNVA5qcS0IQ5nucCh6"
     },
     {
       "album": {
@@ -9449,6 +9507,24 @@
     },
     {
       "album": {
+        "name": "Rogue",
+        "url": "https://open.spotify.com/album/218JtIGiHXx4XepIaL7Ns7"
+      },
+      "artists": [
+        {
+          "name": "Jinjer",
+          "url": "https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192049,
+      "name": "Rogue",
+      "url": "https://open.spotify.com/track/7BBSSVDxCwfZKbb8a1IlTB"
+    },
+    {
+      "album": {
         "name": "Ronald",
         "url": "https://open.spotify.com/album/01GsZ4orxT9LHqCru5Pnz2"
       },
@@ -9624,7 +9700,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 358546,
       "name": "Saturn Coming Down",
       "url": "https://open.spotify.com/track/31ZTKhrSPeufd3L1Wd12kc"
@@ -10126,7 +10202,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 180930,
       "name": "Sinners of the Seven Seas",
       "url": "https://open.spotify.com/track/1INE4i2TuVEFHgj2Vtpz14"
@@ -10430,7 +10506,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 257396,
       "name": "Someone's Daughter",
       "url": "https://open.spotify.com/track/2ZGrOclH0r6CFvlVGNVUlO"
@@ -11360,7 +11436,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 307000,
       "name": "The Cave We Fear to Enter",
       "url": "https://open.spotify.com/track/1ZMDs14YVVl7dwcZk5C1Se"
@@ -13305,6 +13381,32 @@
     },
     {
       "album": {
+        "name": "We Are The Dead",
+        "url": "https://open.spotify.com/album/7J48Y0zeWr4VzD4Z9mECsK"
+      },
+      "artists": [
+        {
+          "name": "As I Lay Dying",
+          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+        },
+        {
+          "name": "Alex Terrible",
+          "url": "https://open.spotify.com/artist/5imFWt9rzlx5iGqS58ArtO"
+        },
+        {
+          "name": "Tom Barber",
+          "url": "https://open.spotify.com/artist/0MDixv1DxDJce8r8uHOSOd"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223746,
+      "name": "We Are The Dead (feat. Alex Terrible, Tom Barber)",
+      "url": "https://open.spotify.com/track/5dxYpCEtdy4koK4ziTRqma"
+    },
+    {
+      "album": {
         "name": "Eulogies",
         "url": "https://open.spotify.com/album/089tIF7kCTWpbeGo6yrHZU"
       },
@@ -14072,10 +14174,28 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 286173,
       "name": "\u00a71 - Radio Edit",
       "url": "https://open.spotify.com/track/1wkWkXCdHR4nGViHA3I9Yc"
+    },
+    {
+      "album": {
+        "name": "\u00a73",
+        "url": "https://open.spotify.com/album/2iuWDE716ZKi7EB6cRpTGt"
+      },
+      "artists": [
+        {
+          "name": "Opeth",
+          "url": "https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310066,
+      "name": "\u00a73",
+      "url": "https://open.spotify.com/track/72U6mVliG329C2zGWxDNte"
     },
     {
       "album": {

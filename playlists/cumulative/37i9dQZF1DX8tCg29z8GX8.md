@@ -4,7 +4,7 @@
 
 > mate\- Bus stop!
 
-537 songs - 1 day 4 hr 18 min
+538 songs - 1 day 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Akokoa](https://open.spotify.com/track/6u8RmxbRi5u1hSoF9XcBVR) | [Safo Newman](https://open.spotify.com/artist/1XygOZOkRxWKr0vEKgZxFl) | [Akokoa](https://open.spotify.com/album/1WVgSHOlo68eFdXWe3eVwD) | 3:22 | 2024-01-15 | 2024-03-15 |
 | [All In](https://open.spotify.com/track/2VSX6yoH66zYjEbLieZMnl) | [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [NESTA](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx) | [All In](https://open.spotify.com/album/5tgwOWxriOGrApV0GEe32i) | 3:32 | 2023-10-17 | 2023-11-17 |
 | [All On Me \- Spotify Singles](https://open.spotify.com/track/0G5QSHzdmwt0FOQeywFRbm) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [All On Me \(Spotify Singles\)](https://open.spotify.com/album/4SFKBjTmLEGFDle3ojroE7) | 3:04 | 2023-09-09 | 2023-09-15 |
+| [ALLOW ME](https://open.spotify.com/track/5Dam9aujbkNspHvYJf8sfz) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI), [Kojo Funds](https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm) | [HEALING](https://open.spotify.com/album/7jjKoKreEPJ8eGGz2fdDSH) | 3:15 | 2024-09-13 |  |
 | [Alone](https://open.spotify.com/track/5zaoKCTA6RW3XW03TUHTLe) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Nkosazana Daughter](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66) | [Growing Pains \(Deluxe\)](https://open.spotify.com/album/47EX0L1oFrF9x13M3VhuxG) | 4:02 | 2024-05-17 | 2024-06-21 |
 | [Alright \(feat\. Shatta Wale\)](https://open.spotify.com/track/2UTceOEpYfmOud3DVdH5YI) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Alright \(feat\. Shatta Wale\)](https://open.spotify.com/album/4BLHs4HKOkzO4lofvYlHa4) | 2:58 | 2022-06-09 | 2022-08-26 |
 | [Always \(feat\. Black Sherif\)](https://open.spotify.com/track/2koM4vqlpUzeRbNkjsDBwF) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Always \(feat\. Black Sherif\)](https://open.spotify.com/album/0ZYjSOqqH5cw3rxkIjIeKH) | 2:34 | 2022-06-09 | 2023-02-24 |
@@ -541,7 +542,7 @@
 | [You Bad \(feat\. Skonti\)](https://open.spotify.com/track/4fTFL02Ct4HVWFsxpOgSeQ) | [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052), [Skonti](https://open.spotify.com/artist/1cNkGlkbYoFw0BJJJ9UMNl) | [Ka Na Wu](https://open.spotify.com/album/4KCA3hHpLmH1Rm2uCGVURz) | 3:44 | 2023-11-24 | 2023-12-02 |
 | [Your Body](https://open.spotify.com/track/2E5YFuY3aRD7oZr7GKfgCQ) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Your Body](https://open.spotify.com/album/196SOihxCXE85Ooazqz1sk) | 2:46 | 2024-06-14 | 2024-09-07 |
 | [Your Love](https://open.spotify.com/track/1ShiPLLMEUiVQXH7ve6YNd) | [Herman Suede](https://open.spotify.com/artist/795E5FXQUgbjuPBxk6igGm) | [Your Love](https://open.spotify.com/album/2fPnNvgrjv72VfQcW5pTzc) | 3:14 | 2023-08-10 | 2023-10-05 |
-| [Zanzibar \(Alubarika\)](https://open.spotify.com/track/5ccyAhQd6y0HO92Td0lE6H) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Zanzibar \(Alubarika\)](https://open.spotify.com/album/1ZxpFOU3CetzatCymXQh1N) | 3:01 | 2024-09-13 |  |
+| [Zanzibar \(Alubarika\)](https://open.spotify.com/track/5ccyAhQd6y0HO92Td0lE6H) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI), [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Zanzibar \(Alubarika\)](https://open.spotify.com/album/1ZxpFOU3CetzatCymXQh1N) | 3:01 | 2024-09-13 |  |
 | [Zazazela \(feat\. Zaba\)](https://open.spotify.com/track/0o6JLvQdoPDPC2MKVO0ZTk) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [ZiiBeats](https://open.spotify.com/artist/1u5KBiGGlipkOJL7DQPLM4), [Zaba](https://open.spotify.com/artist/0ZxyWnlmVBuHYzYgyDT24H) | [Zazazela \(feat\. Zaba\)](https://open.spotify.com/album/0UxwlvuqBwgNt39ojHhvgU) | 4:39 | 2024-05-02 | 2024-05-17 |
 | [Zero](https://open.spotify.com/track/1ZBoY6ta9ANMD19SGsp7JN) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Zero](https://open.spotify.com/album/3hEMQKXVKJWkoOu6Cj0Nhc) | 2:56 | 2024-02-09 | 2024-06-21 |
 | [Zormizor \(Asabone\)](https://open.spotify.com/track/6pO6mg2XVv3IW7LyyMc5Sj) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Zormizor \(Asabone\)](https://open.spotify.com/album/3NCiYh93re3lE8GTehUYWz) | 3:04 | 2024-08-29 |  |

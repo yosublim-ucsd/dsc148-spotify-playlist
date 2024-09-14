@@ -1,6 +1,6 @@
 {
   "description": "The biggest pop hits to come from the land down under.",
-  "num_followers": 68927,
+  "num_followers": 68929,
   "original_name": "Aussie Pop Classics",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Don't Call Me Baby",
-        "url": "https://open.spotify.com/album/5L0SjLio3BQhFfvLxS5Eg7"
-      },
-      "artists": [
-        {
-          "name": "Madison Avenue",
-          "url": "https://open.spotify.com/artist/6otgz5gkB40UnWFwTy0VDh"
-        }
-      ],
-      "duration_ms": 228140,
-      "name": "Don't Call Me Baby",
-      "url": "https://open.spotify.com/track/4fazGt0v2v2zkzddQOcDZD"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "High",
         "url": "https://open.spotify.com/album/69yLePgnX1KDHwneFMg6WF"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 228000,
       "name": "High ft. Nicole Millar",
       "url": "https://open.spotify.com/track/74ciVAMC3GuSkEVTLIIqBS"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Don't Call Me Baby",
+        "url": "https://open.spotify.com/album/5L0SjLio3BQhFfvLxS5Eg7"
+      },
+      "artists": [
+        {
+          "name": "Madison Avenue",
+          "url": "https://open.spotify.com/artist/6otgz5gkB40UnWFwTy0VDh"
+        }
+      ],
+      "duration_ms": 228140,
+      "name": "Don't Call Me Baby",
+      "url": "https://open.spotify.com/track/4fazGt0v2v2zkzddQOcDZD"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Live By The Words",
-        "url": "https://open.spotify.com/album/4kc6vrABh87kQ4onFSDPLq"
-      },
-      "artists": [
-        {
-          "name": "Justice Crew",
-          "url": "https://open.spotify.com/artist/07Q9n9pbwR6jQ8xH4SA46b"
-        }
-      ],
-      "duration_ms": 187026,
-      "name": "Boom Boom",
-      "url": "https://open.spotify.com/track/0UmXSUCoE2I67n8ERd0Hdi"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Better in Blak",
         "url": "https://open.spotify.com/album/0QuumkXPKBWR7wOKUfqQ34"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 187640,
       "name": "Clumsy Love",
       "url": "https://open.spotify.com/track/6EOwEp0a537SGJZxVk07Gp"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Live By The Words",
+        "url": "https://open.spotify.com/album/4kc6vrABh87kQ4onFSDPLq"
+      },
+      "artists": [
+        {
+          "name": "Justice Crew",
+          "url": "https://open.spotify.com/artist/07Q9n9pbwR6jQ8xH4SA46b"
+        }
+      ],
+      "duration_ms": 187026,
+      "name": "Boom Boom",
+      "url": "https://open.spotify.com/track/0UmXSUCoE2I67n8ERd0Hdi"
     },
     {
       "added_at": "2024-08-05 06:00:58",

@@ -1,12 +1,12 @@
 {
   "description": "This is TOOL. The essential tracks, all in one playlist.",
-  "num_followers": 419043,
+  "num_followers": 419173,
   "original_name": "This Is TOOL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuDdgAAAAAAzFfi1Ii0nWfk7kdqWQNIP",
+  "snapshot_id": "ZuIvAAAAAAB7zBuSBzzjOJAaFsdSHt8B",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Opiate",
-        "url": "https://open.spotify.com/album/6ZuGioRryrgXjmhdW14jel"
-      },
-      "artists": [
-        {
-          "name": "TOOL",
-          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
-        }
-      ],
-      "duration_ms": 168293,
-      "name": "Hush",
-      "url": "https://open.spotify.com/track/1icudzJCEUyjOVYzw7emST"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "10,000 Days",
         "url": "https://open.spotify.com/album/1fvWYcbjuycyHpzNPH1Vfk"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 673773,
       "name": "10,000 Days (Wings Pt 2)",
       "url": "https://open.spotify.com/track/4OhqsmPMreC0EFCo3OmDSm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Opiate",
+        "url": "https://open.spotify.com/album/6ZuGioRryrgXjmhdW14jel"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "duration_ms": 168293,
+      "name": "Hush",
+      "url": "https://open.spotify.com/track/1icudzJCEUyjOVYzw7emST"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Opiate",
-        "url": "https://open.spotify.com/album/6ZuGioRryrgXjmhdW14jel"
-      },
-      "artists": [
-        {
-          "name": "TOOL",
-          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
-        }
-      ],
-      "duration_ms": 197733,
-      "name": "Part Of Me",
-      "url": "https://open.spotify.com/track/2iL5ns7JhMGFSGpfQ3HQ6k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Opiate\u00b2",
         "url": "https://open.spotify.com/album/13sWe0tYKenwLd2t25bHIi"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 594048,
       "name": "Opiate\u00b2",
       "url": "https://open.spotify.com/track/6iQDmWrbrMQ0vPfbKqqvKU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Opiate",
+        "url": "https://open.spotify.com/album/6ZuGioRryrgXjmhdW14jel"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "duration_ms": 197733,
+      "name": "Part Of Me",
+      "url": "https://open.spotify.com/track/2iL5ns7JhMGFSGpfQ3HQ6k"
     },
     {
       "added_at": null,

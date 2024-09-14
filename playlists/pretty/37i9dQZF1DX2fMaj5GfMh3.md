@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 
 > De nieuwste pop songs\. Cover: SERA
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,340 likes - 65 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,347 likes - 65 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 | 64 | [Best Friends](https://open.spotify.com/track/4GfU4Konlw32p6HkNhuLNW) | [Luka](https://open.spotify.com/artist/6WBbsJlHIOOowphog0nNzy) | [Need You In The Light](https://open.spotify.com/album/1oXLpsXNfHTFRpd25LqUMw) | 2:46 |
 | 65 | [Don't Call](https://open.spotify.com/track/1MqZc58tU1uLQ5CFLkHXb2) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Don't Call](https://open.spotify.com/album/1nY3JwvqVliwQgjmNVRPUP) | 3:49 |
 
-Snapshot ID: `ZuNkYAAAAAB61hdnHQHiV48Q5QNfIPxt`
+Snapshot ID: `ZuNkYAAAAAAsj+TRZuP9eQeQ+pCmk8M2`

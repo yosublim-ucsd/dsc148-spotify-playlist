@@ -1,32 +1,120 @@
 {
-  "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: Chicocurlyhead",
-  "num_followers": 119886,
+  "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: Barbel",
+  "num_followers": 119921,
   "original_name": "Flow Panam\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Ztp+QAAAAACgusfXYTUA4ck4tDy4oPbJ",
+  "snapshot_id": "ZuO4wAAAAAAYxlHk35gHTCcxzhnJCHbz",
   "tracks": [
     {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "I'll Show You",
-        "url": "https://open.spotify.com/album/58nMzmrXTZTUHqadHUoq5m"
+        "name": "Campana",
+        "url": "https://open.spotify.com/album/3lUj4RtVOEEyvTm9A4NffE"
       },
       "artists": [
         {
-          "name": "Chicocurlyhead",
-          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
-        },
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+          "name": "BARBEL",
+          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
         }
       ],
-      "duration_ms": 187636,
-      "name": "I'll Show You",
-      "url": "https://open.spotify.com/track/3YMpqqttldtinT0F9cAbjJ"
+      "duration_ms": 288932,
+      "name": "Campana",
+      "url": "https://open.spotify.com/track/7xGzAyF9H4h8CCUbWCzBqt"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "De 0 a 100",
+        "url": "https://open.spotify.com/album/56xJFIXqrvIjX2GldeMfwl"
+      },
+      "artists": [
+        {
+          "name": "JEYSON",
+          "url": "https://open.spotify.com/artist/0ghH5fsPlkf2XIALKJNSsb"
+        },
+        {
+          "name": "SMILE BEATS",
+          "url": "https://open.spotify.com/artist/5A0VwTrVvV03LMeBZYT99d"
+        }
+      ],
+      "duration_ms": 153900,
+      "name": "Yo Te Llamo",
+      "url": "https://open.spotify.com/track/4lFnfbRhGSpTm17XKGcXs6"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "Orion",
+        "url": "https://open.spotify.com/album/2FWRFIH8Agbw8JGG4hbdG6"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        },
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "duration_ms": 240964,
+      "name": "Orion",
+      "url": "https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Parchecito (Remix)",
+        "url": "https://open.spotify.com/album/61tU9TRC76dXYRYzfmoequ"
+      },
+      "artists": [
+        {
+          "name": "Makano",
+          "url": "https://open.spotify.com/artist/5F73ZVq8ivLhsYF2pGg4Fc"
+        },
+        {
+          "name": "Bayriton",
+          "url": "https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV"
+        },
+        {
+          "name": "Gustavo Elis",
+          "url": "https://open.spotify.com/artist/2MmmFlTRNXxmrat4kdglT4"
+        }
+      ],
+      "duration_ms": 191128,
+      "name": "Parchecito (Remix)",
+      "url": "https://open.spotify.com/track/2MECt4ADCKVxGijkAxUIbH"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "La Ruta",
+        "url": "https://open.spotify.com/album/1sTGqUxkt0vT7S3IN9cVbn"
+      },
+      "artists": [
+        {
+          "name": "Haquil",
+          "url": "https://open.spotify.com/artist/3JptABIhEERG63NRckg6EG"
+        },
+        {
+          "name": "Valentino GRM",
+          "url": "https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr"
+        },
+        {
+          "name": "SMILE BEATS",
+          "url": "https://open.spotify.com/artist/5A0VwTrVvV03LMeBZYT99d"
+        },
+        {
+          "name": "JEYSON",
+          "url": "https://open.spotify.com/artist/0ghH5fsPlkf2XIALKJNSsb"
+        }
+      ],
+      "duration_ms": 221100,
+      "name": "La Ruta",
+      "url": "https://open.spotify.com/track/5h4mgbGijQ2CXMNuF4c4rW"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -69,134 +157,6 @@
       "url": "https://open.spotify.com/track/2H5lq3Gn1t7FBX5l4as2im"
     },
     {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "S\u00edgueme (Remix)",
-        "url": "https://open.spotify.com/album/3pnENHsnCw6FKRfUmwJbKF"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 202546,
-      "name": "S\u00edgueme - Remix",
-      "url": "https://open.spotify.com/track/3pAwh9JxSJxWyUy3BUBPb4"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "De 0 a 100",
-        "url": "https://open.spotify.com/album/56xJFIXqrvIjX2GldeMfwl"
-      },
-      "artists": [
-        {
-          "name": "JEYSON",
-          "url": "https://open.spotify.com/artist/0ghH5fsPlkf2XIALKJNSsb"
-        },
-        {
-          "name": "SMILE BEATS",
-          "url": "https://open.spotify.com/artist/5A0VwTrVvV03LMeBZYT99d"
-        }
-      ],
-      "duration_ms": 153900,
-      "name": "Yo Te Llamo",
-      "url": "https://open.spotify.com/track/4lFnfbRhGSpTm17XKGcXs6"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Si Te Parto",
-        "url": "https://open.spotify.com/album/1QJL2JSYWMxG87wFI3ydHm"
-      },
-      "artists": [
-        {
-          "name": "Rik",
-          "url": "https://open.spotify.com/artist/3fx9NeQCytxm0fzefBOqlh"
-        },
-        {
-          "name": "La Baby",
-          "url": "https://open.spotify.com/artist/4nK6aAl64JMOJs0jBJV3b2"
-        }
-      ],
-      "duration_ms": 137631,
-      "name": "Si Te Parto",
-      "url": "https://open.spotify.com/track/2z9eihSsKW03aUgcD683LZ"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Orion",
-        "url": "https://open.spotify.com/album/2FWRFIH8Agbw8JGG4hbdG6"
-      },
-      "artists": [
-        {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        },
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        }
-      ],
-      "duration_ms": 240964,
-      "name": "Orion",
-      "url": "https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "La Ruta",
-        "url": "https://open.spotify.com/album/1sTGqUxkt0vT7S3IN9cVbn"
-      },
-      "artists": [
-        {
-          "name": "Haquil",
-          "url": "https://open.spotify.com/artist/3JptABIhEERG63NRckg6EG"
-        },
-        {
-          "name": "Valentino GRM",
-          "url": "https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr"
-        },
-        {
-          "name": "SMILE BEATS",
-          "url": "https://open.spotify.com/artist/5A0VwTrVvV03LMeBZYT99d"
-        },
-        {
-          "name": "JEYSON",
-          "url": "https://open.spotify.com/artist/0ghH5fsPlkf2XIALKJNSsb"
-        }
-      ],
-      "duration_ms": 221100,
-      "name": "La Ruta",
-      "url": "https://open.spotify.com/track/5h4mgbGijQ2CXMNuF4c4rW"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "OBVIA TENTACI\u00d3N",
-        "url": "https://open.spotify.com/album/2l5h3BKMWmacn5gqinxYCk"
-      },
-      "artists": [
-        {
-          "name": "Ladele OTM",
-          "url": "https://open.spotify.com/artist/0ryLYxj89KsjwIZEwS0k8J"
-        },
-        {
-          "name": "Haquil",
-          "url": "https://open.spotify.com/artist/3JptABIhEERG63NRckg6EG"
-        }
-      ],
-      "duration_ms": 175679,
-      "name": "OBVIA TENTACI\u00d3N",
-      "url": "https://open.spotify.com/track/5h8A87rMJ3DqzFCQVwyeNQ"
-    },
-    {
       "added_at": "2024-07-12 04:00:00",
       "album": {
         "name": "BESITOS",
@@ -237,24 +197,44 @@
       "url": "https://open.spotify.com/track/5IWsYLhoYS1kTaMh2bVnhz"
     },
     {
-      "added_at": "2024-08-30 04:00:00",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "70 Veces 7",
-        "url": "https://open.spotify.com/album/3uDPzIN71OS65N9iTkR5rZ"
+        "name": "Tu Traici\u00f3n",
+        "url": "https://open.spotify.com/album/23zddyJgHjyJIWldCJBYJX"
       },
       "artists": [
         {
-          "name": "Nerry Money",
-          "url": "https://open.spotify.com/artist/6g6DtbtyBi3Ir0mxiDlouJ"
+          "name": "At' Fat",
+          "url": "https://open.spotify.com/artist/455JBMYIT1lWf1Djj4rDc7"
         },
         {
-          "name": "Jota Eme",
-          "url": "https://open.spotify.com/artist/39paUtdj3SP8ZlTu56wb1w"
+          "name": "Aspirante",
+          "url": "https://open.spotify.com/artist/0lsWSzy0GnThN26ko4tCMf"
         }
       ],
-      "duration_ms": 195551,
-      "name": "70 Veces 7",
-      "url": "https://open.spotify.com/track/08HHfUft0oD25biPaSRJQJ"
+      "duration_ms": 190909,
+      "name": "Tu Traici\u00f3n",
+      "url": "https://open.spotify.com/track/1RbQZ3W5fsve8oAF7ui96y"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "I'll Show You",
+        "url": "https://open.spotify.com/album/58nMzmrXTZTUHqadHUoq5m"
+      },
+      "artists": [
+        {
+          "name": "Chicocurlyhead",
+          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
+        },
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "duration_ms": 187636,
+      "name": "I'll Show You",
+      "url": "https://open.spotify.com/track/3YMpqqttldtinT0F9cAbjJ"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -393,6 +373,26 @@
       "url": "https://open.spotify.com/track/3Nqc7BFu9MmNmFRpDTC6vJ"
     },
     {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "S\u00edgueme (Remix)",
+        "url": "https://open.spotify.com/album/3pnENHsnCw6FKRfUmwJbKF"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 202546,
+      "name": "S\u00edgueme - Remix",
+      "url": "https://open.spotify.com/track/3pAwh9JxSJxWyUy3BUBPb4"
+    },
+    {
       "added_at": "2024-07-19 06:00:00",
       "album": {
         "name": "Veneno",
@@ -433,6 +433,26 @@
       "url": "https://open.spotify.com/track/7JHUlJCUhUvMLNGsrDf4K1"
     },
     {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Mexicano",
+        "url": "https://open.spotify.com/album/5uwsm1fHlt5xPJp1BRQgyx"
+      },
+      "artists": [
+        {
+          "name": "Don Pablo Mures",
+          "url": "https://open.spotify.com/artist/4YcotSTsnWhSSizEgJlH5k"
+        },
+        {
+          "name": "Eiby",
+          "url": "https://open.spotify.com/artist/09hiuib0jApNPaf9sDXlSn"
+        }
+      ],
+      "duration_ms": 200024,
+      "name": "Mexicano",
+      "url": "https://open.spotify.com/track/1m5l1h26xuPIdEFIPNwGnH"
+    },
+    {
       "added_at": "2024-02-15 17:30:32",
       "album": {
         "name": "Par De Quina",
@@ -447,30 +467,6 @@
       "duration_ms": 160384,
       "name": "Ya Ya",
       "url": "https://open.spotify.com/track/3F5xUtUiSC6W1CDIwC3jnc"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Girasoles",
-        "url": "https://open.spotify.com/album/2KX2f1NYIUAWJ6jpzZP6ed"
-      },
-      "artists": [
-        {
-          "name": "Heze Money",
-          "url": "https://open.spotify.com/artist/16cBS4I1sU7c0DgApi7R4W"
-        },
-        {
-          "name": "Nomad",
-          "url": "https://open.spotify.com/artist/04SfRkZuVH053pkLLcP64q"
-        },
-        {
-          "name": "Ochy",
-          "url": "https://open.spotify.com/artist/1Ca0XeiVvKBPIhhWNq1Tp7"
-        }
-      ],
-      "duration_ms": 163555,
-      "name": "Girasoles",
-      "url": "https://open.spotify.com/track/5tyYFPkRQSPUDCnFp85GkN"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -491,22 +487,6 @@
       "duration_ms": 301276,
       "name": "Besitos",
       "url": "https://open.spotify.com/track/7yS5ru5Zte13ujlQZqVbtC"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "La Mexicana",
-        "url": "https://open.spotify.com/album/25XyXkqIW4W1coLxOTn1k3"
-      },
-      "artists": [
-        {
-          "name": "BARBEL",
-          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
-        }
-      ],
-      "duration_ms": 240600,
-      "name": "La Mexicana",
-      "url": "https://open.spotify.com/track/5itg5kaqEcsjzZYzbFs8X5"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -1035,6 +1015,26 @@
       "duration_ms": 202581,
       "name": "Qu\u00e9 Prefieres?",
       "url": "https://open.spotify.com/track/1YEQ5CvZVK9P4PsZY76GK5"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Si Te Parto",
+        "url": "https://open.spotify.com/album/1QJL2JSYWMxG87wFI3ydHm"
+      },
+      "artists": [
+        {
+          "name": "Rik",
+          "url": "https://open.spotify.com/artist/3fx9NeQCytxm0fzefBOqlh"
+        },
+        {
+          "name": "La Baby",
+          "url": "https://open.spotify.com/artist/4nK6aAl64JMOJs0jBJV3b2"
+        }
+      ],
+      "duration_ms": 137631,
+      "name": "Si Te Parto",
+      "url": "https://open.spotify.com/track/2z9eihSsKW03aUgcD683LZ"
     },
     {
       "added_at": "2024-02-02 05:00:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Noise distortion amongst the hazy clouds \u2601\ufe0f (Cover: Enola)",
+  "description": "Noise distortion amongst the hazy clouds \u2601\ufe0f (Cover: envy)",
   "name": "Haze ",
   "tracks": [
     {
@@ -2018,6 +2018,24 @@
       "duration_ms": 366728,
       "name": "Whale blows rainbow",
       "url": "https://open.spotify.com/track/56CUFtGxKjUpOLmU9qxy5O"
+    },
+    {
+      "album": {
+        "name": "Whiteout",
+        "url": "https://open.spotify.com/album/1xySdt3n5nPbTH5pUH5Ms8"
+      },
+      "artists": [
+        {
+          "name": "envy",
+          "url": "https://open.spotify.com/artist/0CfjW2VuMdrhWodHtG7DWi"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193302,
+      "name": "Whiteout",
+      "url": "https://open.spotify.com/track/20VHVwnyan4eSTq4zYgRi5"
     },
     {
       "album": {

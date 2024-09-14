@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Recent hits and new songs from your fave artists. Cover: Alex Warren",
+  "description": "Recent hits and new songs from your fave artists. Cover: Teddy Swims",
   "name": "Just Good Music",
   "tracks": [
     {
@@ -2017,6 +2017,24 @@
     },
     {
       "album": {
+        "name": "Bad Dreams",
+        "url": "https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184577,
+      "name": "Bad Dreams",
+      "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
+    },
+    {
+      "album": {
         "name": "bad emotions",
         "url": "https://open.spotify.com/album/6SXKpBlu64BQ9lC88r2ywc"
       },
@@ -2430,6 +2448,24 @@
       "duration_ms": 163894,
       "name": "Beautiful As You",
       "url": "https://open.spotify.com/track/2ObBVRY8a2lnAkNG62u9eC"
+    },
+    {
+      "album": {
+        "name": "Beautiful Day",
+        "url": "https://open.spotify.com/album/3UAnVb3U0p7Muzgwux5W8s"
+      },
+      "artists": [
+        {
+          "name": "Mike Posner",
+          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189355,
+      "name": "Beautiful Day",
+      "url": "https://open.spotify.com/track/263JoWo2G2ZhdpFSNx0naB"
     },
     {
       "album": {
@@ -3676,7 +3712,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 148364,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/35KkZrQ5r4NpHYuoLUT0VI"
@@ -3954,7 +3990,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 231133,
       "name": "Breaking Dishes",
       "url": "https://open.spotify.com/track/3iwSUhv5sjipxYEp8mAQCW"
@@ -6186,6 +6222,24 @@
       "duration_ms": 221520,
       "name": "Creepin' (with The Weeknd & 21 Savage)",
       "url": "https://open.spotify.com/track/64BuLY7ggczC17w5LSUlSE"
+    },
+    {
+      "album": {
+        "name": "Timeless - Deluxe",
+        "url": "https://open.spotify.com/album/7mePeoRszpMqgvTAc9uRY0"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154504,
+      "name": "Criminals",
+      "url": "https://open.spotify.com/track/1gMFAi2auKTgHsYH7nIBhv"
     },
     {
       "album": {
@@ -9164,6 +9218,24 @@
       "duration_ms": 201786,
       "name": "Fire In The Sky",
       "url": "https://open.spotify.com/track/3zpGIFghtnVlwMXWyKW474"
+    },
+    {
+      "album": {
+        "name": "First Heartbreak",
+        "url": "https://open.spotify.com/album/1QGOpJ2KxpQ4TryPQfPq9n"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180486,
+      "name": "First Heartbreak",
+      "url": "https://open.spotify.com/track/0IPY0ENbqkDhHKxPK2s357"
     },
     {
       "album": {
@@ -12492,7 +12564,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 160957,
       "name": "Homecoming",
       "url": "https://open.spotify.com/track/0DnkzOeTkiLAjsV2eNHwop"
@@ -12936,7 +13008,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 273024,
       "name": "Hurt With You",
       "url": "https://open.spotify.com/track/2jmvlzTbRkaND2nZrl2XpJ"
@@ -14008,10 +14080,32 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 184560,
       "name": "I'd Rather Pretend",
       "url": "https://open.spotify.com/track/4rJHH484bHZDts51o5i2CB"
+    },
+    {
+      "album": {
+        "name": "I'd Rather Pretend (with d4vd)",
+        "url": "https://open.spotify.com/album/4CDZFVWG65WF44WIMNFw2g"
+      },
+      "artists": [
+        {
+          "name": "Bryant Barnes",
+          "url": "https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK"
+        },
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184560,
+      "name": "I'd Rather Pretend (with d4vd)",
+      "url": "https://open.spotify.com/track/1NHflT1W5O7fntEXN9rfe9"
     },
     {
       "album": {
@@ -15845,6 +15939,24 @@
     },
     {
       "album": {
+        "name": "The Magazine",
+        "url": "https://open.spotify.com/album/1U5cF0ZKqIwzGSLrhy9ND3"
+      },
+      "artists": [
+        {
+          "name": "Zinadelphia",
+          "url": "https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213297,
+      "name": "Knock The Wind",
+      "url": "https://open.spotify.com/track/3u8zGeldge4k7hlfw3HbPC"
+    },
+    {
+      "album": {
         "name": "Know Your Worth",
         "url": "https://open.spotify.com/album/0uLz2ygHQAtLknyGasJOr5"
       },
@@ -17474,6 +17586,24 @@
       "duration_ms": 160320,
       "name": "Long Story Short",
       "url": "https://open.spotify.com/track/5oZBQRkDntRkxssyD3V45Y"
+    },
+    {
+      "album": {
+        "name": "Long Way Home",
+        "url": "https://open.spotify.com/album/05x5S13Wmke33NKzXIPEs4"
+      },
+      "artists": [
+        {
+          "name": "Jamie Miller",
+          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185997,
+      "name": "Long Way Home",
+      "url": "https://open.spotify.com/track/6Fiyilx7ZTmLTi33qYEda5"
     },
     {
       "album": {
@@ -19381,6 +19511,24 @@
     },
     {
       "album": {
+        "name": "Model, Actress, Whatever",
+        "url": "https://open.spotify.com/album/4M6b5oOkKDlbPAjlfXbID2"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212530,
+      "name": "Model, Actress, Whatever",
+      "url": "https://open.spotify.com/track/2GxyLVk70vblDcloX4mJsi"
+    },
+    {
+      "album": {
         "name": "Moderaci\u00f3n (Con Camilo)",
         "url": "https://open.spotify.com/album/6MOmPtc8mFnVFjN8zDh6rD"
       },
@@ -20833,6 +20981,24 @@
     },
     {
       "album": {
+        "name": "Nobody Knows",
+        "url": "https://open.spotify.com/album/3P1k02barEAeTD5QeyV6oj"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152239,
+      "name": "Nobody Knows",
+      "url": "https://open.spotify.com/track/2d4Zg9Iupw6kJXVrQPERvh"
+    },
+    {
+      "album": {
         "name": "Nobody's Love",
         "url": "https://open.spotify.com/album/2cDt5R89HP8ZCXhNAmZs27"
       },
@@ -21286,7 +21452,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 183713,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/68wzEwfzQB3hc66p4xnN1w"
@@ -22447,6 +22613,24 @@
     },
     {
       "album": {
+        "name": "Philly or Malibu",
+        "url": "https://open.spotify.com/album/48zKZriHKsDYfI4D1YGxYC"
+      },
+      "artists": [
+        {
+          "name": "ROZES",
+          "url": "https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160183,
+      "name": "Philly or Malibu",
+      "url": "https://open.spotify.com/track/0UC1mbCTSOfQY33jKI3aM4"
+    },
+    {
+      "album": {
         "name": "ver2igo vol. 2",
         "url": "https://open.spotify.com/album/1pKYkFrxb7RiJuCfSszdav"
       },
@@ -23250,7 +23434,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 204000,
       "name": "RIDIN (with Lil Wayne)",
       "url": "https://open.spotify.com/track/1a7yPmLN7ntGAi2P6Zbtj9"
@@ -25172,6 +25356,24 @@
       "duration_ms": 212262,
       "name": "Soaked",
       "url": "https://open.spotify.com/track/1mFdADJrIdTRCSG5AwCdIC"
+    },
+    {
+      "album": {
+        "name": "Requiem",
+        "url": "https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204223,
+      "name": "Soft Spot",
+      "url": "https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7"
     },
     {
       "album": {
@@ -28871,6 +29073,28 @@
     },
     {
       "album": {
+        "name": "this is what forever feels like",
+        "url": "https://open.spotify.com/album/71fJ7EFsAMMKkfnZMIbtKI"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        },
+        {
+          "name": "Nick Jonas",
+          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154841,
+      "name": "this is what forever feels like (with Nick Jonas)",
+      "url": "https://open.spotify.com/track/3uTsiaNxy6h6EAd7MsCf9D"
+    },
+    {
+      "album": {
         "name": "This Love (Taylor\u2019s Version)",
         "url": "https://open.spotify.com/album/3In1CblWZswwun5MhOa10y"
       },
@@ -30756,7 +30980,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 166706,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/6BOgN046AFobs2sZV7YlRy"
@@ -33176,6 +33400,24 @@
       "duration_ms": 274013,
       "name": "you!",
       "url": "https://open.spotify.com/track/4lSMKPkbZOAYPw3zxJ2eAF"
+    },
+    {
+      "album": {
+        "name": "You'll Be OK, Kid - From the Original Documentary \u201cChild Star\u201d",
+        "url": "https://open.spotify.com/album/6TesEldZjVdwDg9OgI9YaK"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166339,
+      "name": "You'll Be OK, Kid - From the Original Documentary \u201cChild Star\u201d",
+      "url": "https://open.spotify.com/track/3Ql8gLndDQ8VsVQyMW1GAA"
     },
     {
       "album": {

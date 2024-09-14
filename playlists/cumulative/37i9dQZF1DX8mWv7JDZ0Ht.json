@@ -5709,6 +5709,24 @@
     },
     {
       "album": {
+        "name": "Hortel\u00e3",
+        "url": "https://open.spotify.com/album/3IPqpPELZJMgd14mUehGug"
+      },
+      "artists": [
+        {
+          "name": "26:15",
+          "url": "https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155192,
+      "name": "Hortel\u00e3",
+      "url": "https://open.spotify.com/track/05t97ZnuDXGICqKvbJYjyd"
+    },
+    {
+      "album": {
         "name": "Ibiza",
         "url": "https://open.spotify.com/album/50GOoPDaUtjpGX36yhrgz7"
       },

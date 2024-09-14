@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: JEREMIAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,833 likes - 80 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,869 likes - 80 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 2 | [Blitzlicht](https://open.spotify.com/track/4Ro083Dj0kBhr6JslQjfLj) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Blitzlicht](https://open.spotify.com/album/2udJZcqPmnJwgcVgCGrBII) | 2:46 |
 | 3 | [Immer nachts](https://open.spotify.com/track/7uiA0x9kM8WR59rPgGdxIB) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Immer nachts](https://open.spotify.com/album/72tI9Q6jgsUiwknmmQLBh5) | 2:11 |
 | 4 | [seventies](https://open.spotify.com/track/4mzBvJs9lclIBFhuF9dSD7) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI) | [seventies](https://open.spotify.com/album/7otoxpOPVXeGEZT5ICsSaY) | 2:21 |
-| 5 | [Schlaflied](https://open.spotify.com/track/1gKwm6VnYXf12VFx4fRGhO) | [Katzi](https://open.spotify.com/artist/7wELxFDgA5UWcQ4LXFq99m), [MELLER](https://open.spotify.com/artist/01bwyExSOpCwS4qqAtglB9) | [Schlaflied \(feat\. MELLER\)](https://open.spotify.com/album/4RzJ7FaPYVCrAUwuj6mqQU) | 2:48 |
+| 5 | [Schlaflied \(feat\. MELLER\)](https://open.spotify.com/track/1gKwm6VnYXf12VFx4fRGhO) | [Katzi](https://open.spotify.com/artist/7wELxFDgA5UWcQ4LXFq99m), [MELLER](https://open.spotify.com/artist/01bwyExSOpCwS4qqAtglB9) | [Schlaflied \(feat\. MELLER\)](https://open.spotify.com/album/4RzJ7FaPYVCrAUwuj6mqQU) | 2:48 |
 | 6 | [schweigen uns an\_v3](https://open.spotify.com/track/3kmlBigDU4d3y9AgYghh70) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [schweigen uns an\_v3](https://open.spotify.com/album/58AmJ7bYjpsTZD0JqI0vvc) | 2:21 |
 | 7 | [SIGNS](https://open.spotify.com/track/2jwEvLG0lD5CU05dMbTBEQ) | [error](https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp) | [SIGNS](https://open.spotify.com/album/0q5qYh11cyZsMOiVPlVvAi) | 2:29 |
 | 8 | [letzter sommer](https://open.spotify.com/track/2NAeSJODXTDq6j4RBFysx4) | [Vince](https://open.spotify.com/artist/1xMPDJvoiQdje0jZ88uqzV), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [letzter sommer](https://open.spotify.com/album/36L9dKEIk2HSWTEFRBzyaV) | 2:38 |

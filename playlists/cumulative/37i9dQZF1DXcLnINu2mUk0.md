@@ -2,9 +2,9 @@
 
 ### [Seda](https://open.spotify.com/playlist/37i9dQZF1DXcLnINu2mUk0)
 
-> Chill rap e R&B: É um mood suave e envolvente\. Foto: MENDEZ, Soarito
+> Chill rap e R&B: É um mood suave e envolvente\. Foto: Jimmy P, Kikimoteleba
 
-637 songs - 1 day 9 hr 55 min
+639 songs - 1 day 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Amor](https://open.spotify.com/track/4INDkE9mhwrcfVZdC3GgEr) | [Nayr Faquirá](https://open.spotify.com/artist/04UMTpKorelINdwYKsM9Tb) | [Quente](https://open.spotify.com/album/7osQ0gzVF3aXXawd685gWX) | 1:56 | 2023-10-12 | 2023-10-24 |
 | [Ananás](https://open.spotify.com/track/1iTdMDcECY3gL6SuHyrBGD) | [Russa](https://open.spotify.com/artist/0xvJ9qU06BFpjboJHMulTm) | [Ananás](https://open.spotify.com/album/5MjlR3MAEEhMzwkyWGBLIj) | 3:27 | 2022-07-07 | 2022-07-21 |
 | [Animal](https://open.spotify.com/track/6L1SFlHI9H7cH4bTcBtvNw) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv), [Prodigio](https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5), [Shalom Beatz](https://open.spotify.com/artist/6u7nHw6ucOBFUxpTr5LmWI) | [Animal](https://open.spotify.com/album/5PlBBuCOH1dJfUMGN6eTIs) | 3:18 | 2024-07-18 |  |
+| [Anos 90](https://open.spotify.com/track/0snvFcmwl5kXUTj5PsEbJl) | [Palazzi](https://open.spotify.com/artist/4jTBGfN0o7LuueW6vtVAK8), [João Maia Ferreira](https://open.spotify.com/artist/2XWfm5Ts8pvNzZMENVZ65I) | [Anos 90](https://open.spotify.com/album/3Wh3pWc5yYWpy5JerOiP8T) | 2:58 | 2024-09-13 |  |
 | [Antes e Depois](https://open.spotify.com/track/1DM05DVGVhtQVgrlOXgO8V) | [Toty Sa'Med](https://open.spotify.com/artist/7bSdfJqYQHXa3oKbNuY1Os) | [Antes e Depois](https://open.spotify.com/album/5W6rbwC6PuzUA8MSI8ywWb) | 2:36 | 2022-09-08 | 2022-09-23 |
 | [Aprendi a Amar](https://open.spotify.com/track/25eaNnUtxQhnoisuKglAtA) | [Oestrela](https://open.spotify.com/artist/4OHp25KOzOBF38Uq4CNtNE) | [Aprendi a Amar](https://open.spotify.com/album/07Xhxbh0q271QHx5iPJctj) | 2:59 | 2024-02-09 | 2024-03-01 |
 | [Aproximar](https://open.spotify.com/track/2rtlkeLwPPoYdHC0SmzlXM) | [Uzzy](https://open.spotify.com/artist/2Ia5AqFe2PZmGirbLc7zMi), [Diogo Ribeiro](https://open.spotify.com/artist/4M8WzxjaLIlIBYtwnmYk3i) | [Aproximar](https://open.spotify.com/album/6Dus4s197Sp6WNgkfH4mD2) | 3:07 | 2023-03-01 | 2023-03-25 |
@@ -86,7 +87,7 @@
 | [Blessing](https://open.spotify.com/track/4BVfXtcdki0yLemFWEFiFU) | [Lex](https://open.spotify.com/artist/0mXNHuEkPrnQlsxKsIqzBF) | [Blessing](https://open.spotify.com/album/37VCgtBGQi30cPyfFTfoJP) | 3:18 | 2022-09-01 | 2022-09-30 |
 | [Blunted](https://open.spotify.com/track/5m4lmUepq9q2Yohloi7nqN) | [Dionísio07](https://open.spotify.com/artist/0SkKNaTeA9XhYQaekAUBLQ), [MEM](https://open.spotify.com/artist/6Hfk8OlN3fiMSad3IxCNTy), [Diferenciados](https://open.spotify.com/artist/3eNJgj8W3dc35pSXbzZXtG) | [Blunted](https://open.spotify.com/album/2mGqD2FnV4QoqxP7UOMXC8) | 2:51 | 2024-04-25 | 2024-05-10 |
 | [Boca Boca](https://open.spotify.com/track/4EGL3tAihYP71niPmPzk5g) | [Nice Life](https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ), [Edson Mausse](https://open.spotify.com/artist/6lCJRK5noJGrc4zxaOy0Lw) | [Boca Boca](https://open.spotify.com/album/4UUcOH3XKTLyGs7BLO24dg) | 3:16 | 2024-06-27 |  |
-| [BOM BOM](https://open.spotify.com/track/3WIcI0ONzyVFHC21TlVXkM) | [Rony Fuego](https://open.spotify.com/artist/0DxsiYPUEWLY4HjaUDM8Lk), [Loony Johnson](https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv) | [BOM BOM](https://open.spotify.com/album/6JdO9kxfUaZ0kZCKKXkoBe) | 3:00 | 2024-03-29 |  |
+| [BOM BOM](https://open.spotify.com/track/3WIcI0ONzyVFHC21TlVXkM) | [Rony Fuego](https://open.spotify.com/artist/0DxsiYPUEWLY4HjaUDM8Lk), [Loony Johnson](https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv) | [BOM BOM](https://open.spotify.com/album/6JdO9kxfUaZ0kZCKKXkoBe) | 3:00 | 2024-03-29 | 2024-09-14 |
 | [Bonnie & Claide](https://open.spotify.com/track/3q6mA8bh9utq7F32QpClAD) | [Mufvsza](https://open.spotify.com/artist/5Md4GJQIcQeqp9qAKQBF0Y) | [Bonnie & Claide](https://open.spotify.com/album/6zzbiYF7dPIBIFIegXhWA9) | 2:56 | 2024-02-23 | 2024-03-15 |
 | [Borboletas](https://open.spotify.com/track/1h1JMmAzXR6lWJ7KnJQkU7) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD) | [Borboletas](https://open.spotify.com/album/1i51I1eMbdhkaH8AShzWjh) | 3:24 | 2022-07-21 | 2024-03-08 |
 | [Borboletas](https://open.spotify.com/track/3AroFQ5v6wHUOqwpGZw3OW) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD) | [Borboletas](https://open.spotify.com/album/7hJsoRAoXKqdkiTMEBLgJq) | 3:24 | 2022-07-07 | 2022-07-29 |
@@ -544,6 +545,7 @@
 | [Sola](https://open.spotify.com/track/2WhXmta31SYoJm7xMCmMWN) | [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Soge Culebra](https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5) | [Sola](https://open.spotify.com/album/5d7DGxDhoMuCwSuLpremAd) | 3:14 | 2023-07-20 | 2023-08-11 |
 | [Solteiros](https://open.spotify.com/track/2e3OSiCXg1AcLFQ3HuiW42) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n), [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Solteiros](https://open.spotify.com/album/1oh19k6mxh4bSGkEKE91md) | 2:59 | 2023-02-17 |  |
 | [Something](https://open.spotify.com/track/6XVYgOYwFSasbsPB41HCFA) | [Kyle Quest](https://open.spotify.com/artist/6tEYbq0qUZoQwzmCjMtFHC), [L\-ALI](https://open.spotify.com/artist/2O6Oes2ZnqSwoUHFl7rTyy) | [Something](https://open.spotify.com/album/2XyhjxFE8Cp9bwEwy5tWTz) | 4:05 | 2023-11-10 | 2023-11-18 |
+| [Sometimes](https://open.spotify.com/track/5ZU1TW5KbwOb7r0ZDILy7c) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Sometimes](https://open.spotify.com/album/5KtyAVXpW4uqD2TG02NTA4) | 4:00 | 2024-09-13 |  |
 | [Sonhos](https://open.spotify.com/track/4bdkXHkOvNGUr2UrKtCXJu) | [Burrz](https://open.spotify.com/artist/0jWbSiF3EIlsqIe1DjUnoh) | [Sonhos](https://open.spotify.com/album/3tKcDDPlMgu3TOKIUf7Xjb) | 3:12 | 2024-04-18 | 2024-04-30 |
 | [Sonhos e Diamantes](https://open.spotify.com/track/7MiN2u2gYCvxeJ6c23idiN) | [Londone](https://open.spotify.com/artist/1rCRiVBfLiDomUEUNGykT2) | [Sonhos e Diamantes](https://open.spotify.com/album/2KoOw5yP4y9qObzs5WVVym) | 3:04 | 2024-03-01 | 2024-03-22 |
 | [Sons de Amor](https://open.spotify.com/track/44PSI3qwDKTTBa4TbqpjnL) | [ANDREZO](https://open.spotify.com/artist/4gHzU6X4vIGR06pt7mlX60), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Sons de Amor](https://open.spotify.com/album/7sov1YBuhBoydHePYGr69s) | 4:14 | 2022-07-07 | 2023-09-22 |
@@ -563,7 +565,7 @@
 | [Só olho para ti](https://open.spotify.com/track/7aqz6k0m8jUth3c95Y4ALZ) | [KSOLD](https://open.spotify.com/artist/54uMKld8qCEiU2vvUjxWSS) | [Só olho para ti](https://open.spotify.com/album/5Db4FLME5HlDzslgwcOuHV) | 2:04 | 2023-07-20 | 2023-08-18 |
 | [Só Tu](https://open.spotify.com/track/12bcq41ZJbnAPQ0gQ52b3W) | [Mkmike](https://open.spotify.com/artist/4L5hkcKd0ZG5bHHHPV9NZe) | [Fragmentos](https://open.spotify.com/album/3NAaDjmd63oPTVBQBI7Psc) | 3:45 | 2022-07-07 | 2022-09-17 |
 | [Só Uma Noite](https://open.spotify.com/track/4IE65liqpq2jxwj77ih2MK) | [Floraby](https://open.spotify.com/artist/4tAsolL2PXyAM31wuVCC85) | [Só Uma Noite](https://open.spotify.com/album/28PX9MrdXuq9RbiOpE8Cfw) | 2:36 | 2023-08-24 | 2023-09-15 |
-| [T$UNAMI](https://open.spotify.com/track/2pks64KK1vHckQPEGiDuyK) | [Murta](https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx), [ROCKY](https://open.spotify.com/artist/6VLLGzMNejO8BhWFOJXP5M) | [T$UNAMI](https://open.spotify.com/album/3RMYeQI4WDsrcR4CzKdnmy) | 3:03 | 2024-06-20 |  |
+| [T$UNAMI](https://open.spotify.com/track/2pks64KK1vHckQPEGiDuyK) | [Murta](https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx), [ROCKY](https://open.spotify.com/artist/6VLLGzMNejO8BhWFOJXP5M) | [T$UNAMI](https://open.spotify.com/album/3RMYeQI4WDsrcR4CzKdnmy) | 3:03 | 2024-06-20 | 2024-09-14 |
 | [TA TUDO BEM](https://open.spotify.com/track/15ERxM3x0D2HzqdhPxsbd2) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [COR D'ÁGUA](https://open.spotify.com/album/7G4pMhZajkeOLWgvQyGhta) | 4:32 | 2024-02-16 |  |
 | [Take Time](https://open.spotify.com/track/3LRhcI8eViqzywRA9tTu59) | [10/16](https://open.spotify.com/artist/7C85XCknYDZcSHj68BiwQE), [Luís Braz Teixeira](https://open.spotify.com/artist/6kjqZjez1wv0g2s2BiE0Z4), [Djenga](https://open.spotify.com/artist/2eMReurbaZ9DrN632vlbae) | [Take Time](https://open.spotify.com/album/0ySENuBqd94PEnQB24HM8L) | 3:10 | 2023-12-08 | 2023-12-15 |
 | [Te Tirar](https://open.spotify.com/track/06JgJVR2Tus7q6CDRRm6ty) | [Penelas Sidney](https://open.spotify.com/artist/29DNcEMcr9tzvXywJC2L6K), [Xuxu Bower](https://open.spotify.com/artist/5PLJ01HIqRRN5qTltrfPk7) | [Te Tirar](https://open.spotify.com/album/2AeR0irJwPdLgLMn22FdEb) | 3:17 | 2023-03-01 | 2023-03-25 |

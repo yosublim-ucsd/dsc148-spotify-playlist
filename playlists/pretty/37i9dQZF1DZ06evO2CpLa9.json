@@ -1,12 +1,12 @@
 {
   "description": "This Is Santa Fe Klan. Los temas esenciales, todos en una lista.",
-  "num_followers": 553335,
+  "num_followers": 553391,
   "original_name": "This Is Santa Fe Klan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuDdgAAAAAC/8RMahWLCDeCs3EyEhX8v",
+  "snapshot_id": "ZuIvAAAAAACAnu4wTWZozcihtZWZ6Ywr",
   "tracks": [
     {
       "added_at": null,
@@ -35,22 +35,6 @@
       "duration_ms": 196000,
       "name": "Sigo Esperando Que Vuelvas (feat. Los Golpes)",
       "url": "https://open.spotify.com/track/1rdkLyIU3b9LTX1a6RrP5M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PROBLEMAS",
-        "url": "https://open.spotify.com/album/6GCmaOPBfqVLJRk6f2AHaw"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 291310,
-      "name": "PROBLEMAS",
-      "url": "https://open.spotify.com/track/6mgpZ1Be8Udbx5PwCUeAUB"
     },
     {
       "added_at": null,
@@ -491,6 +475,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "De Mexico Song",
+        "url": "https://open.spotify.com/album/5Fiig4Q85kNWPm4aSztfBy"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        },
+        {
+          "name": "Bear Busby",
+          "url": "https://open.spotify.com/artist/18u6URN38HiDhEhYqfUmiz"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 213812,
+      "name": "De Mexico Song",
+      "url": "https://open.spotify.com/track/6xMZFpORmifhj8lbB5RGH9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cypher",
         "url": "https://open.spotify.com/album/74MnBAt8ADj9XZjmUiro9f"
       },
@@ -535,30 +543,6 @@
       "duration_ms": 482926,
       "name": "Cypher",
       "url": "https://open.spotify.com/track/0M8HCM6ztBgsF150J7oCBt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Mexico Song",
-        "url": "https://open.spotify.com/album/5Fiig4Q85kNWPm4aSztfBy"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        },
-        {
-          "name": "Bear Busby",
-          "url": "https://open.spotify.com/artist/18u6URN38HiDhEhYqfUmiz"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 213812,
-      "name": "De Mexico Song",
-      "url": "https://open.spotify.com/track/6xMZFpORmifhj8lbB5RGH9"
     },
     {
       "added_at": null,
@@ -823,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Silencio En El Callejon",
-        "url": "https://open.spotify.com/album/60HUuuZMNdeWtayq06B0NG"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 180062,
-      "name": "Silencio En El Callejon",
-      "url": "https://open.spotify.com/track/4erYu7HwocPKfx8EqcPY9f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Luna",
         "url": "https://open.spotify.com/album/2jfMeBUOiBDKONVJC8KQ3r"
       },
@@ -875,6 +843,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Silencio En El Callejon",
+        "url": "https://open.spotify.com/album/60HUuuZMNdeWtayq06B0NG"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 180062,
+      "name": "Silencio En El Callejon",
+      "url": "https://open.spotify.com/track/4erYu7HwocPKfx8EqcPY9f"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TODO",
         "url": "https://open.spotify.com/album/1ga2yneTMtHivfc7wDKl1W"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 189250,
       "name": "Soy Mercenario",
       "url": "https://open.spotify.com/track/1YQf6cJ5XXlF7AgvrI8CRr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PROBLEMAS",
+        "url": "https://open.spotify.com/album/6GCmaOPBfqVLJRk6f2AHaw"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 291310,
+      "name": "PROBLEMAS",
+      "url": "https://open.spotify.com/track/6mgpZ1Be8Udbx5PwCUeAUB"
     },
     {
       "added_at": null,
@@ -1039,26 +1039,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nunca Imagin\u00e9",
-        "url": "https://open.spotify.com/album/352sRI2EeX9EyIiVUgPqRf"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Nunca Imagin\u00e9",
-      "url": "https://open.spotify.com/track/3SERRzMQ0DL3aImY2smoe9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vuelo",
         "url": "https://open.spotify.com/album/2WZ35ep2rDjfCh4Q6FNCDC"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 208571,
       "name": "Vuelo",
       "url": "https://open.spotify.com/track/7qbuOorMhBfKWBp9ISG28e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nunca Imagin\u00e9",
+        "url": "https://open.spotify.com/album/352sRI2EeX9EyIiVUgPqRf"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Nunca Imagin\u00e9",
+      "url": "https://open.spotify.com/track/3SERRzMQ0DL3aImY2smoe9"
     },
     {
       "added_at": null,
@@ -1211,30 +1211,6 @@
       "duration_ms": 138057,
       "name": "Diente Por Diente",
       "url": "https://open.spotify.com/track/40KRjKXp92bnyOvNjDcYuS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Phiesta",
-        "url": "https://open.spotify.com/album/1N8qdQjaioKfCtIwkXcrds"
-      },
-      "artists": [
-        {
-          "name": "Chystemc",
-          "url": "https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Macrodee",
-          "url": "https://open.spotify.com/artist/1LFSjjDBhaukmZa69zJvgM"
-        }
-      ],
-      "duration_ms": 199176,
-      "name": "Phiesta",
-      "url": "https://open.spotify.com/track/0Mm0wQVuoZQRPFDo4hgFW7"
     }
   ],
   "unique_name": "This Is Santa Fe Klan",

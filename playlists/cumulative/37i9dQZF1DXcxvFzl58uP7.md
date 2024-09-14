@@ -2,9 +2,9 @@
 
 ### [Bedroom Pop](https://open.spotify.com/playlist/37i9dQZF1DXcxvFzl58uP7)
 
-> Dreamy melodies and hushed vocals\. Cover: Clairo
+> Dreamy melodies and hushed vocals\. Cover: Men I Trust
 
-994 songs - 2 day 3 hr 35 min
+995 songs - 2 day 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -370,7 +370,7 @@
 | [Goodie Bag](https://open.spotify.com/track/4vHNeBWDQpVCmGbaccrRzi) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Goodie Bag](https://open.spotify.com/album/0y8sikccXZ3TIW4PkjtI8R) | 2:26 | 2021-02-27 | 2024-04-19 |
 | [Gotta Run](https://open.spotify.com/track/1KcuZCtR3XTcJS6VJsLiHS) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Gotta Run](https://open.spotify.com/album/1FBzIbU60x8HY7z9xzIKTT) | 3:08 | 2020-06-12 | 2021-05-24 |
 | [Gravity](https://open.spotify.com/track/2bCAgbpt22GjAYlO2PggAj) | [Posh Chocolates](https://open.spotify.com/artist/3xTWaGPtvulmX73dfT71J1) | [Gravity](https://open.spotify.com/album/299IQB4kbejJwVROtq0jBK) | 2:48 | 2021-08-13 | 2022-04-20 |
-| [gum v6.4](https://open.spotify.com/track/3Lq2kHLszAS0KzfH39NI1a) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [gum](https://open.spotify.com/album/4LylTD5MkLPC0w9lsE1lWE) | 3:41 | 2024-01-12 |  |
+| [gum v6.4](https://open.spotify.com/track/3Lq2kHLszAS0KzfH39NI1a) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [gum](https://open.spotify.com/album/4LylTD5MkLPC0w9lsE1lWE) | 3:41 | 2024-01-12 | 2024-09-14 |
 | [Gummi Bear](https://open.spotify.com/track/7gKgu4EJwLTuYZXIzA23vO) | [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [Thursday Friday](https://open.spotify.com/album/4aLMhlTE9KUz6L2MMYs1xw) | 4:18 | 2021-04-03 | 2021-08-20 |
 | [gushers](https://open.spotify.com/track/1mByHpt75sOE7xFToiJntc) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [tape 001](https://open.spotify.com/album/20aDiqiFzvjFvRsKwvNrbS) | 2:34 | 2021-03-21 | 2021-08-28 |
 | [Habit](https://open.spotify.com/track/1M321puDN1WBd5NF0ogOKW) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Habit](https://open.spotify.com/album/0gZEC6z4RSUiLOK9nHhGwG) | 2:33 | 2019-07-31 | 2021-08-28 |
@@ -419,6 +419,7 @@
 | [How Was Your Day?](https://open.spotify.com/track/2E01rRrzaz6TuwCdm27m4m) | [Mellow Fellow](https://open.spotify.com/artist/4evVEvE5p9WsdXQKBPmAxT), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [How Was Your Day?](https://open.spotify.com/album/6jImcs0N4HZG23G7YTvAZ9) | 3:08 | 2019-08-04 | 2023-06-10 |
 | [Human Breach](https://open.spotify.com/track/0XFV1dLOQNdzEhiNUHH0VP) | [LOMELI](https://open.spotify.com/artist/5HhNeohGg8OhavQVZsiHxB) | [I Ask Nothing of You](https://open.spotify.com/album/2gPfwzwUnPooH6Ax6lHVWT) | 4:14 | 2020-05-17 | 2021-05-21 |
 | [Huron Disko](https://open.spotify.com/track/56Ydhy30ogSmTKTyDxcirY) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [cartoon therapy](https://open.spotify.com/album/1JvMNlu1GNdxsoBTTdR3AL) | 3:21 | 2021-06-04 | 2022-07-29 |
+| [Husk](https://open.spotify.com/track/0iMSUfh4oQplV5OrmrlIbm) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Husk](https://open.spotify.com/album/13KxV6ezroXhAW7sPEG6QS) | 3:24 | 2024-09-13 |  |
 | [I Can't Dance](https://open.spotify.com/track/0NOgjn2s5fAGJ2n3OBcei4) | [Michael Seyer](https://open.spotify.com/artist/7K4cef9h3NvU7Xb3BH7Ade) | [I Can't Dance](https://open.spotify.com/album/7xCWlgPhIPrKWmqpUaSpDJ) | 3:34 | 2019-09-19 | 2021-05-24 |
 | [i can't sleep](https://open.spotify.com/track/3y3wEiN8vcWl2DxaxL7gNC) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [i can't sleep](https://open.spotify.com/album/1hqF9QEWGcPsmvuX5u99xm) | 2:42 | 2021-06-04 | 2022-04-21 |
 | [i do luv u](https://open.spotify.com/track/6LCSYQNqqXMVNWPoc2q8UE) | [okayceci](https://open.spotify.com/artist/1NCMfKfYXbyLqsChnYNd3P) | [i do luv u](https://open.spotify.com/album/0iKoqsa9BNBqIl1yNOTe9u) | 2:28 | 2024-01-12 |  |

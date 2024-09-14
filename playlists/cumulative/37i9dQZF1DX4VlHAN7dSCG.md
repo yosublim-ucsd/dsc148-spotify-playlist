@@ -4,7 +4,7 @@
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: TRASH
 
-166 songs - 10 hr 55 min
+167 songs - 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Young Man](https://open.spotify.com/track/02cOOZKta4qE4Qv9BusfOQ) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Young Man](https://open.spotify.com/album/5nc0Puti8JCg2jkbFRYQ0x) | 4:17 | 2024-07-04 | 2024-07-12 |
 | [Yumcha](https://open.spotify.com/track/63An2GCJ9ZJjWIqIYbymq7) | [Steady Gang](https://open.spotify.com/artist/3CDxpVRKc54eW7fFXMprsm), [3P](https://open.spotify.com/artist/3NSGCBkfj6hEhXQhytRg4D) | [Yumcha](https://open.spotify.com/album/5dCDRCM0jSjIRn8WMp2YwB) | 3:26 | 2024-09-12 |  |
 | [Yummy Yummy Yummy \(好吃好吃\)](https://open.spotify.com/track/17BdZsvwtFxLjOlhbMdBnh) | [Chinese American Bear](https://open.spotify.com/artist/6WIb9mpc6lyBzAjTeGWvEh) | [Yummy Yummy Yummy \(好吃好吃\)](https://open.spotify.com/album/1Yh0k1ZMFmg795IaBKK2uo) | 2:30 | 2024-07-25 | 2024-08-16 |
+| [⾏動卑鄙](https://open.spotify.com/track/4dUhl2o7pSjrnSsp34C9Rb) | [Crossing\-跨世兄弟](https://open.spotify.com/artist/78JfivRUsg9hKmS5yIUpol) | [Diary](https://open.spotify.com/album/6leY9wlIyovc9h5EpXcULk) | 1:47 | 2024-09-12 |  |
 | [一整天](https://open.spotify.com/track/2Bf38yCUENYoZX2N6iXLVy) | [sodagreen](https://open.spotify.com/artist/3WYT2b8pOLsLsqSaoWYr7U) | [一整天](https://open.spotify.com/album/3d9CbNWURQQ7N6uHA7lha8) | 3:08 | 2024-08-22 | 2024-09-07 |
 | [一起看月彎彎](https://open.spotify.com/track/1tXjoZrAnRwYISAAnhOLWT) | [Ozone](https://open.spotify.com/artist/1Lu3G3NqWACIUAcq9r30t1) | [New Moon](https://open.spotify.com/album/6oU51LHuI3LiMRSbajRQcd) | 3:46 | 2024-09-12 |  |
 | [一顆星的寂寞](https://open.spotify.com/track/5cXzcmgK4lODSlU2gOnibA) | [紅綠燈](https://open.spotify.com/artist/4grZM5OufYXJ8gdtd5qPKV) | [一顆星的寂寞](https://open.spotify.com/album/3gARKYrgSYebjKHG79zwFI) | 4:04 | 2024-07-11 |  |

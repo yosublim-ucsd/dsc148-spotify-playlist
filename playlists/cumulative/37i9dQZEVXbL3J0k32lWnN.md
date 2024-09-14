@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-1,678 songs - 3 day 15 hr 10 min
+1,679 songs - 3 day 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -612,6 +612,7 @@
 | [Guy For That \(Feat\. Luke Combs\)](https://open.spotify.com/track/5crxqqibcvoOQQgg4HjAFQ) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Guy For That](https://open.spotify.com/album/6w0ujcFPqoqOzgzYsUWYXJ) | 2:44 | 2024-07-27 | 2024-07-29 |
 | [Går Alene \(feat\. Thor Farlov\)](https://open.spotify.com/track/0F8PYaHom2PgVsH50neckC) | [Josef](https://open.spotify.com/artist/3NpkkvYFWSFAazQIF7NYbB), [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X) | [Går Alene \(feat\. Thor Farlov\)](https://open.spotify.com/album/5GFRE83umRBOCVgU05wyAN) | 2:55 | 2024-07-13 | 2024-07-20 |
 | [Gåsehud \(Artigeardit X Lamin\)](https://open.spotify.com/track/36Zzc3I6s7M318PptKoOJ5) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Ny Agenda](https://open.spotify.com/album/04DGAw94srEOUmHovIOyWW) | 3:33 | 2021-10-17 | 2021-10-23 |
+| [H V D O L](https://open.spotify.com/track/2ZMH3fAwB2VlcmPOrFMnX6) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [H V D O L](https://open.spotify.com/album/4BkWRBQ1YISV5dYFaUD3bz) | 3:39 | 2024-09-13 |  |
 | [Habits](https://open.spotify.com/track/7I3RalBqE7ZE0RSxgGlGlm) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [White Gold](https://open.spotify.com/artist/79KQgTCu4wV38ECYKn62DZ) | [The Death of Slim Shady \(Coup De Grâce\)](https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6) | 4:58 | 2024-07-13 | 2024-07-16 |
 | [Hagen City](https://open.spotify.com/track/2v1awdppruhogqqSqGp2gG) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [KENNY](https://open.spotify.com/album/0vYywoBHcZgwW08A2rA9fU) | 2:15 | 2024-06-22 | 2024-06-27 |
 | [Hajde](https://open.spotify.com/track/7f3FPKXzk0fG84G3aY5jM2) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [B.O.C](https://open.spotify.com/artist/2X22Hm97hQA8mFjSrn2foA) | [Mere End Musik](https://open.spotify.com/album/1nwiXLlvr8dLlh5XVOrwD9) | 3:03 | 2021-06-20 | 2021-11-02 |
@@ -1253,7 +1254,7 @@
 | [Rich Baby Daddy \(feat\. Sexyy Red & SZA\)](https://open.spotify.com/track/1yeB8MUNeLo9Ek1UEpsyz6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 5:19 | 2023-10-09 | 2023-10-15 |
 | [Rich Flex](https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:59 | 2022-11-05 | 2023-01-22 |
 | [Rich Spirit](https://open.spotify.com/track/6kYGOFNUMxpab09L5Ukoke) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:22 | 2022-05-14 | 2022-05-22 |
-| [Rick Ross](https://open.spotify.com/track/1X7wdE9Cm82Vi4sMPqDane) | [Medina](https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF) | [Velkommen Til Medina](https://open.spotify.com/album/3flSwxGfLdPtCnnVWaSyK0) | 2:58 | 2024-09-06 |  |
+| [Rick Ross](https://open.spotify.com/track/1X7wdE9Cm82Vi4sMPqDane) | [Medina](https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF) | [Velkommen Til Medina](https://open.spotify.com/album/3flSwxGfLdPtCnnVWaSyK0) | 2:58 | 2024-09-06 | 2024-09-14 |
 | [Rick Ross Pt\. 2](https://open.spotify.com/track/6uIVBE5DHG3szAnaOyvf3l) | [Medina](https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF), [Tessa](https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J) | [Rick Ross Pt\. 2](https://open.spotify.com/album/1G8rjqtorUe1U5olgSBXXE) | 2:18 | 2024-09-12 |  |
 | [Rider](https://open.spotify.com/track/1NoOCa8IRCEG3hCYLuzwMi) | [Trey & Zay](https://open.spotify.com/artist/1pSnX1wadmFf0PtC1uRhoL), [Sivas](https://open.spotify.com/artist/3W7YeaPmcpi1UFutTF49kx) | [Rider](https://open.spotify.com/album/4KPEUgcr7SLXtrbp0ZsDYw) | 2:23 | 2021-04-11 | 2021-04-15 |
 | [Rim Tim Tagi Dim](https://open.spotify.com/track/5TswDbxMnxptgFTf6ZxvXQ) | [Baby Lasagna](https://open.spotify.com/artist/1ncWEkB4AQh1rxC8ObpBoH) | [Rim Tim Tagi Dim](https://open.spotify.com/album/2avxqhpSlNfsj5yPw32L7t) | 2:59 | 2024-05-13 | 2024-05-15 |

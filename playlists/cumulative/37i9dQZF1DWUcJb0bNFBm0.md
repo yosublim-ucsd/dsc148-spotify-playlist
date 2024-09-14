@@ -2,9 +2,9 @@
 
 ### [Haze ](https://open.spotify.com/playlist/37i9dQZF1DWUcJb0bNFBm0)
 
-> Noise distortion amongst the hazy clouds ☁️ \(Cover: Enola\)
+> Noise distortion amongst the hazy clouds ☁️ \(Cover: envy\)
 
-121 songs - 8 hr 41 min
+122 songs - 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Watching K\-Drama \(Without Subtitles\)](https://open.spotify.com/track/2zAPVUH3KupXkv2IoTkGYY) | [The Wallflower Dept.](https://open.spotify.com/artist/1ykM1fXFLT1d83l7OAw1Yv), [Ananda Yala](https://open.spotify.com/artist/79gwnl8jXCn78lRxTGD0wL) | [Watching K\-Drama \(Without Subtitles\)](https://open.spotify.com/album/2am7oyB1E4rdwVzMSWiohy) | 4:11 | 2024-08-05 |  |
 | [We Shine at Night](https://open.spotify.com/track/30UtvytdKLQjvLZesEaR3v) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [We Shine at Night](https://open.spotify.com/album/4PbTT54u3bIOnYKjOIvn5c) | 6:27 | 2024-06-27 |  |
 | [Whale blows rainbow](https://open.spotify.com/track/56CUFtGxKjUpOLmU9qxy5O) | [Tyrell](https://open.spotify.com/artist/6TjVmU32VkhCqd3kbqQ0jg) | [Whale blows rainbow](https://open.spotify.com/album/0blsoeRWMeUWMlFt3O7pNN) | 6:06 | 2024-06-27 | 2024-08-09 |
+| [Whiteout](https://open.spotify.com/track/20VHVwnyan4eSTq4zYgRi5) | [envy](https://open.spotify.com/artist/0CfjW2VuMdrhWodHtG7DWi) | [Whiteout](https://open.spotify.com/album/1xySdt3n5nPbTH5pUH5Ms8) | 3:13 | 2024-09-13 |  |
 | [Why](https://open.spotify.com/track/2nKWmGyL3h8xu6dlsD7CB7) | [Coming Up Roses](https://open.spotify.com/artist/6pfmrPAgSkSRCZXAkbkGyb) | [Coming Up Roses](https://open.spotify.com/album/2r3PtUTGT3h6QmnrDSJo6X) | 5:51 | 2024-06-27 |  |
 | [You Forgot to Say Goodbye](https://open.spotify.com/track/6BpoU69LfJNhtyk8GmsT8b) | [Megumi Acorda](https://open.spotify.com/artist/2lZ43U1GZxkqqyoLg5YDu4) | [You Forgot to Say Goodbye](https://open.spotify.com/album/5YjWTbdpSLiB1LQRk3CN5z) | 5:26 | 2024-06-27 | 2024-08-31 |
 | [Youth LiFe](https://open.spotify.com/track/6tDEPETl8k4vY8nSk1aPKP) | [Milledenials](https://open.spotify.com/artist/0Mh5wMruCzJIMbeospsjyB) | [The Peak of Youth Life](https://open.spotify.com/album/4VplPiLVuWwTuFoAoswR0i) | 1:58 | 2024-06-27 |  |

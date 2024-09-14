@@ -1,12 +1,12 @@
 {
-  "description": "This Is Los Dos Carnales. Los temas esenciales, todos en una lista.",
-  "num_followers": 327656,
+  "description": "This is Los Dos Carnales. The essential tracks, all in one playlist.",
+  "num_followers": 327702,
   "original_name": "This Is Los Dos Carnales",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuDdgAAAAAD14kUXoQ3AB4/kBw/vgFjn",
+  "snapshot_id": "ZuIvAAAAAAAprMlVPRbQyQLvH+C5Hg/1",
   "tracks": [
     {
       "added_at": null,
@@ -479,6 +479,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Bendecido",
+        "url": "https://open.spotify.com/album/4OQ8xCHU77JxF2A6hMvXzk"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 158022,
+      "name": "El Bendecido",
+      "url": "https://open.spotify.com/track/5a6YycqQLwAUBGQCX5re6o"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Parca",
         "url": "https://open.spotify.com/album/4Wyq5S8SygjS92CA5MrXLG"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 193612,
       "name": "La Parca",
       "url": "https://open.spotify.com/track/6RL2LfHexgiFXFEb3yJEdK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Bendecido",
-        "url": "https://open.spotify.com/album/4OQ8xCHU77JxF2A6hMvXzk"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 158022,
-      "name": "El Bendecido",
-      "url": "https://open.spotify.com/track/5a6YycqQLwAUBGQCX5re6o"
     },
     {
       "added_at": null,
@@ -851,8 +851,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Carreta",
-        "url": "https://open.spotify.com/album/2cIZr4ziArJjeMQBtOtIe0"
+        "name": "Hay Que Sumar",
+        "url": "https://open.spotify.com/album/7wr3AzQlVI3VjUWDXrsMHN"
       },
       "artists": [
         {
@@ -860,9 +860,9 @@
           "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 133930,
-      "name": "La Carreta",
-      "url": "https://open.spotify.com/track/3JObT2hSLZU1tCC5CFtlIZ"
+      "duration_ms": 203160,
+      "name": "Hay Que Sumar",
+      "url": "https://open.spotify.com/track/0p0urtbzvRdBqKwhMiAxgP"
     }
   ],
   "unique_name": "This Is Los Dos Carnales",

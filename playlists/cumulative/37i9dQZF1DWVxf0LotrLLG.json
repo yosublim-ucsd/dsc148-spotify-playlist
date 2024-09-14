@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-18",
-  "description": "Descubre los nuevos \u00e1lbumes del 2024. Hit shuffle for a mixed listening experience. Cover: Lenny Tav\u00e1rez",
+  "description": "Descubre los nuevos \u00e1lbumes del 2024. Hit shuffle for a mixed listening experience. Cover: Chencho Corleone",
   "name": "New Latin Albums",
   "tracks": [
     {
@@ -100,6 +100,24 @@
       "duration_ms": 257221,
       "name": "100",
       "url": "https://open.spotify.com/track/4ttcZcRociSeJUYcCntWH9"
+    },
+    {
+      "album": {
+        "name": "Le Clique: Vida Rockstar (X)",
+        "url": "https://open.spotify.com/album/67JIMv9vCB2ukBdEbtUmUG"
+      },
+      "artists": [
+        {
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219813,
+      "name": "100 Gramos",
+      "url": "https://open.spotify.com/track/5Z1Abny9zUANVl2O2NOvzt"
     },
     {
       "album": {
@@ -296,6 +314,58 @@
       "duration_ms": 192727,
       "name": "5 > 1",
       "url": "https://open.spotify.com/track/1dX0ZPraR1ZaQ2THFMwEOp"
+    },
+    {
+      "album": {
+        "name": "X Amor II",
+        "url": "https://open.spotify.com/album/2VYdhZU6KonE9X50HFLHhM"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "FARIANA",
+          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+        },
+        {
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        },
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266500,
+      "name": "5 Babys",
+      "url": "https://open.spotify.com/track/6jgeP2uKRZ200mT2RGi9h7"
+    },
+    {
+      "album": {
+        "name": "Lo que escrib\u00ed mientras no estabas :)",
+        "url": "https://open.spotify.com/album/4oJqkH55g9SByDb6H8vwZc"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Rubio",
+          "url": "https://open.spotify.com/artist/5Nk0ZytxbTmln7pHwEEVYG"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152256,
+      "name": "5 letras, 2 palabras",
+      "url": "https://open.spotify.com/track/4s3nqWkbqSisNpdrAPIwn3"
     },
     {
       "album": {
@@ -668,6 +738,24 @@
       "duration_ms": 127741,
       "name": "Aceita",
       "url": "https://open.spotify.com/track/133ojSiEnlVwecCpvVc1BC"
+    },
+    {
+      "album": {
+        "name": "ANGELA",
+        "url": "https://open.spotify.com/album/0kr1BUqZHJgDEW0PwFeklE"
+      },
+      "artists": [
+        {
+          "name": "Foudeqush",
+          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159529,
+      "name": "ACELERA2!",
+      "url": "https://open.spotify.com/track/4qqteHNjI8NlXColeoIm8x"
     },
     {
       "album": {
@@ -1944,6 +2032,28 @@
       "duration_ms": 149333,
       "name": "Antes",
       "url": "https://open.spotify.com/track/4i6v7lclf2TY5NAWNxRhYD"
+    },
+    {
+      "album": {
+        "name": "X Amor II",
+        "url": "https://open.spotify.com/album/2VYdhZU6KonE9X50HFLHhM"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "Renn",
+          "url": "https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161400,
+      "name": "Antes De Dormir",
+      "url": "https://open.spotify.com/track/0JhKlRYeWX6oiRgfnoodmv"
     },
     {
       "album": {
@@ -4113,6 +4223,28 @@
     },
     {
       "album": {
+        "name": "SOLO",
+        "url": "https://open.spotify.com/album/6bZ3w99gJilo45OwKsMBd0"
+      },
+      "artists": [
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179893,
+      "name": "Cinco Estrellas",
+      "url": "https://open.spotify.com/track/0bZ5NMULGjx65BhgXTfA33"
+    },
+    {
+      "album": {
         "name": "Jet Love",
         "url": "https://open.spotify.com/album/7hPfPQgLWyKGnCiY6oqOaZ"
       },
@@ -5529,6 +5661,46 @@
     },
     {
       "album": {
+        "name": "INSOMNIO",
+        "url": "https://open.spotify.com/album/0leCm7DasgqP70lhOVeXyU"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178775,
+      "name": "C\u00d3DIGOS",
+      "url": "https://open.spotify.com/track/273PsBfvMreiD2TXyKOR06"
+    },
+    {
+      "album": {
+        "name": "Lo que escrib\u00ed mientras no estabas :)",
+        "url": "https://open.spotify.com/album/4oJqkH55g9SByDb6H8vwZc"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Rubio",
+          "url": "https://open.spotify.com/artist/5Nk0ZytxbTmln7pHwEEVYG"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178922,
+      "name": "C\u00f3mo hacer pa que no duela?",
+      "url": "https://open.spotify.com/track/2f5Tz5xDtujdJ2zTCOYcRB"
+    },
+    {
+      "album": {
         "name": "C\u00f3mo Voy a Olvidarte",
         "url": "https://open.spotify.com/album/7xYk2XnU8ZoJsIaA5UBTNP"
       },
@@ -6197,6 +6369,24 @@
     },
     {
       "album": {
+        "name": "ANGELA",
+        "url": "https://open.spotify.com/album/0kr1BUqZHJgDEW0PwFeklE"
+      },
+      "artists": [
+        {
+          "name": "Foudeqush",
+          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130560,
+      "name": "DIAMANTES",
+      "url": "https://open.spotify.com/track/0B3dcUPPMGqhSOttxMLLFX"
+    },
+    {
+      "album": {
         "name": "Reparto Pa los Repartos",
         "url": "https://open.spotify.com/album/0wzOu2oz5vZ1gRjZOlXzsk"
       },
@@ -6438,6 +6628,28 @@
       "duration_ms": 176720,
       "name": "Doblexx\u00f3",
       "url": "https://open.spotify.com/track/2llFXBrftm6YJzBj3tpk0s"
+    },
+    {
+      "album": {
+        "name": "SOLO",
+        "url": "https://open.spotify.com/album/6bZ3w99gJilo45OwKsMBd0"
+      },
+      "artists": [
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190567,
+      "name": "Dolida",
+      "url": "https://open.spotify.com/track/0B23bjg6n7mQOATyOVNjVG"
     },
     {
       "album": {
@@ -10961,6 +11173,28 @@
     },
     {
       "album": {
+        "name": "INSOMNIO",
+        "url": "https://open.spotify.com/album/0leCm7DasgqP70lhOVeXyU"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210223,
+      "name": "LA CYBER",
+      "url": "https://open.spotify.com/track/7EaQ16Nq8bdc2A1CBOCwQU"
+    },
+    {
+      "album": {
         "name": "Luna",
         "url": "https://open.spotify.com/album/4fhfwiNZaMuMrVst1cY7d4"
       },
@@ -13483,6 +13717,28 @@
     },
     {
       "album": {
+        "name": "Toda \u00c9poca Tiene Su Encanto",
+        "url": "https://open.spotify.com/album/2F0JiAg0l7v8Oxr9c7kylt"
+      },
+      "artists": [
+        {
+          "name": "Pj Sin Suela",
+          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
+        },
+        {
+          "name": "Elena Rose",
+          "url": "https://open.spotify.com/artist/0myouxHnBRuZn02np89VJd"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181333,
+      "name": "Maldades",
+      "url": "https://open.spotify.com/track/2GPJpuJzoTbnVsdOqVsX10"
+    },
+    {
+      "album": {
         "name": "Mala Sangre",
         "url": "https://open.spotify.com/album/2wrjRXAX0alWHtCiwYGYG7"
       },
@@ -13941,6 +14197,24 @@
     },
     {
       "album": {
+        "name": "Lo que escrib\u00ed mientras no estabas :)",
+        "url": "https://open.spotify.com/album/4oJqkH55g9SByDb6H8vwZc"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Rubio",
+          "url": "https://open.spotify.com/artist/5Nk0ZytxbTmln7pHwEEVYG"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123406,
+      "name": "Me gustas full",
+      "url": "https://open.spotify.com/track/6TSnaLOkFpatPdVXFCUjFT"
+    },
+    {
+      "album": {
         "name": "Reflejos de Lo Eterno",
         "url": "https://open.spotify.com/album/1H83qbfi02zo43uG3qwXJO"
       },
@@ -14366,6 +14640,24 @@
       "duration_ms": 198196,
       "name": "MENEITO",
       "url": "https://open.spotify.com/track/5yDfF1BfIkPb0o4j3EL1Ha"
+    },
+    {
+      "album": {
+        "name": "SOLO",
+        "url": "https://open.spotify.com/album/6bZ3w99gJilo45OwKsMBd0"
+      },
+      "artists": [
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160128,
+      "name": "Menta",
+      "url": "https://open.spotify.com/track/7e7OWBhoooZwkTgBJh4Rqr"
     },
     {
       "album": {
@@ -17305,6 +17597,28 @@
     },
     {
       "album": {
+        "name": "X Amor",
+        "url": "https://open.spotify.com/album/4kMszDo7JTs0FXtEofGelv"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198311,
+      "name": "Pal Carajo",
+      "url": "https://open.spotify.com/track/4xgJJybAk7yCwnP7TPGdZz"
+    },
+    {
+      "album": {
         "name": "Resistencia",
         "url": "https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ"
       },
@@ -18817,6 +19131,32 @@
     },
     {
       "album": {
+        "name": "Le Clique: Vida Rockstar (X)",
+        "url": "https://open.spotify.com/album/67JIMv9vCB2ukBdEbtUmUG"
+      },
+      "artists": [
+        {
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Haze",
+          "url": "https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254493,
+      "name": "Porsche Carrera",
+      "url": "https://open.spotify.com/track/1lPWHfrvpun8ZnxrWp3HH8"
+    },
+    {
+      "album": {
         "name": "Sr. Santos",
         "url": "https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY"
       },
@@ -19396,6 +19736,24 @@
       "duration_ms": 213277,
       "name": "Que da te",
       "url": "https://open.spotify.com/track/7aE1I4VUBd5KefPI6fNRdJ"
+    },
+    {
+      "album": {
+        "name": "INSOMNIO",
+        "url": "https://open.spotify.com/album/0leCm7DasgqP70lhOVeXyU"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166292,
+      "name": "QUE ME HICISTE",
+      "url": "https://open.spotify.com/track/64y7606OQWxKysceRlkNxI"
     },
     {
       "album": {
@@ -22805,6 +23163,24 @@
     },
     {
       "album": {
+        "name": "Toda \u00c9poca Tiene Su Encanto",
+        "url": "https://open.spotify.com/album/2F0JiAg0l7v8Oxr9c7kylt"
+      },
+      "artists": [
+        {
+          "name": "Pj Sin Suela",
+          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158920,
+      "name": "Tengo Una Nota",
+      "url": "https://open.spotify.com/track/4JuwOGVCbYwoA9qWerWs5g"
+    },
+    {
+      "album": {
         "name": "Tesoro Mio (Versi\u00f3n Merengue)",
         "url": "https://open.spotify.com/album/3MpS1lJ7kN4groX2YIEhmY"
       },
@@ -23073,6 +23449,28 @@
     },
     {
       "album": {
+        "name": "Toda \u00c9poca Tiene Su Encanto",
+        "url": "https://open.spotify.com/album/2F0JiAg0l7v8Oxr9c7kylt"
+      },
+      "artists": [
+        {
+          "name": "Pj Sin Suela",
+          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
+        },
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168786,
+      "name": "Todo Se Complica",
+      "url": "https://open.spotify.com/track/7jnHpfMqY9XO4jtWqTIxEU"
+    },
+    {
+      "album": {
         "name": "511",
         "url": "https://open.spotify.com/album/10vvdzSUQmL6hYsoPDhG3X"
       },
@@ -23128,6 +23526,24 @@
       "duration_ms": 236945,
       "name": "Tomando Tequila",
       "url": "https://open.spotify.com/track/3yFKnvGcp6DqmXgYR7QW2I"
+    },
+    {
+      "album": {
+        "name": "TONY MONTANA",
+        "url": "https://open.spotify.com/album/5WzMhrOgTyRoMNMPvvRhI0"
+      },
+      "artists": [
+        {
+          "name": "Foudeqush",
+          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215040,
+      "name": "TONY MONTANA",
+      "url": "https://open.spotify.com/track/6BUhgP4VBxhAlExeKMyLCB"
     },
     {
       "album": {
@@ -24724,6 +25140,24 @@
       "duration_ms": 182573,
       "name": "Vida Cotidiana",
       "url": "https://open.spotify.com/track/3n93Sj6hK7kVBYERcJg8L4"
+    },
+    {
+      "album": {
+        "name": "Le Clique: Vida Rockstar (X)",
+        "url": "https://open.spotify.com/album/67JIMv9vCB2ukBdEbtUmUG"
+      },
+      "artists": [
+        {
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206373,
+      "name": "Vida Rockstar",
+      "url": "https://open.spotify.com/track/3HJdVteZQwALBdlr0VFlBZ"
     },
     {
       "album": {

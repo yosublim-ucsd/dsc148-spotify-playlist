@@ -943,6 +943,24 @@
     },
     {
       "album": {
+        "name": "Dancing In The Flames",
+        "url": "https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220036,
+      "name": "Dancing In The Flames",
+      "url": "https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9"
+    },
+    {
+      "album": {
         "name": "Dansa",
         "url": "https://open.spotify.com/album/7MWtlBEpanvceoC9hvwd2A"
       },
@@ -1138,7 +1156,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 170629,
       "name": "Didn't I?",
       "url": "https://open.spotify.com/track/7599XbTuLgp7SD3tAhpw1C"
@@ -1302,7 +1320,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 206796,
       "name": "Edge of Saturday Night",
       "url": "https://open.spotify.com/track/0C1tRNlfakowVNFn1IMeCV"
@@ -1848,6 +1866,32 @@
       "duration_ms": 212345,
       "name": "Free (with Ellie Goulding)",
       "url": "https://open.spotify.com/track/3NxB1jubUWY6zit9rOk8ZC"
+    },
+    {
+      "album": {
+        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce): Expanded Mourner\u2019s Edition",
+        "url": "https://open.spotify.com/album/31hcgCSu4mlA82syOFItur"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "WESTSIDE BOOGIE",
+          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
+        },
+        {
+          "name": "GRIP",
+          "url": "https://open.spotify.com/artist/4Ew8VmfE06siL2THiMBwPP"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290422,
+      "name": "Fuel - Shady Edition",
+      "url": "https://open.spotify.com/track/68IkI6ttYOzNyS5iW2Zx70"
     },
     {
       "album": {
@@ -3584,7 +3628,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 169329,
       "name": "L\u00f6yt\u00e4\u00e4 mut",
       "url": "https://open.spotify.com/track/5ArcUruMjZyrHzQ0QilgJ4"
@@ -3816,6 +3860,50 @@
       "duration_ms": 168355,
       "name": "Miles On It",
       "url": "https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf"
+    },
+    {
+      "album": {
+        "name": "Missing You",
+        "url": "https://open.spotify.com/album/2NLXnnWGIAJV0tCsXdyDNW"
+      },
+      "artists": [
+        {
+          "name": "Jub\u00ebl",
+          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
+        },
+        {
+          "name": "Maia Wright",
+          "url": "https://open.spotify.com/artist/4YunNS0WnIipSlLfPG2f5Y"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164628,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/3nxtdmT0yTl8236nuyyVdC"
+    },
+    {
+      "album": {
+        "name": "Miten ihmiset l\u00f6yt\u00e4\u00e4 toisiaan (feat. \u00d6veri)",
+        "url": "https://open.spotify.com/album/4IJcslK1fUBCIDrIBFxUsn"
+      },
+      "artists": [
+        {
+          "name": "ELLIMEI",
+          "url": "https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra"
+        },
+        {
+          "name": "\u00d6veri",
+          "url": "https://open.spotify.com/artist/55ueMDhpCYDmeffxXff2Aw"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199334,
+      "name": "Miten ihmiset l\u00f6yt\u00e4\u00e4 toisiaan (feat. \u00d6veri)",
+      "url": "https://open.spotify.com/track/0NdnLmxqqQZ8hNntW42L9y"
     },
     {
       "album": {
@@ -6276,7 +6364,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-13",
+      "date_removed": null,
       "duration_ms": 191250,
       "name": "VHS RAVE",
       "url": "https://open.spotify.com/track/1zgs6QpTBuJ67TQvXMtp7L"

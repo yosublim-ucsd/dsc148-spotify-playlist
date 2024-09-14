@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "Catalyst",
+        "url": "https://open.spotify.com/album/07FMLDgJBRbgdWHHBmlTQy"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192426,
+      "name": "All Downhill From Here",
+      "url": "https://open.spotify.com/track/6PAoCw99yAkmpeXmY8IIUE"
+    },
+    {
+      "album": {
         "name": "All I Want For Christmas Is You",
         "url": "https://open.spotify.com/album/0sLVGTN2WcLtt0blTriEaF"
       },
@@ -590,6 +608,24 @@
       "duration_ms": 212853,
       "name": "Be Ok - RMX",
       "url": "https://open.spotify.com/track/2a8qG0E7Ix3YgMvy64QdFf"
+    },
+    {
+      "album": {
+        "name": "Bleed American",
+        "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181493,
+      "name": "Bleed American",
+      "url": "https://open.spotify.com/track/61XspFITuKmAlYdQacNCbF"
     },
     {
       "album": {
@@ -1040,6 +1076,28 @@
       "duration_ms": 187000,
       "name": "Damned If I Do Ya (Damned If I Don't)",
       "url": "https://open.spotify.com/track/4CDlYQu16nUtVGwgwqj3I3"
+    },
+    {
+      "album": {
+        "name": "Day Job",
+        "url": "https://open.spotify.com/album/5p91Tw8x7pD9Y46xweBqPi"
+      },
+      "artists": [
+        {
+          "name": "Jayden Seeley",
+          "url": "https://open.spotify.com/artist/6gzW91j6PTJlXTpshZGSQy"
+        },
+        {
+          "name": "The Wrecks",
+          "url": "https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158423,
+      "name": "Day Job",
+      "url": "https://open.spotify.com/track/0gQaeonQS76sGjcM7FXojN"
     },
     {
       "album": {
@@ -1524,7 +1582,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-02",
+      "date_removed": null,
       "duration_ms": 178266,
       "name": "Fat Lip",
       "url": "https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN"
@@ -1849,6 +1907,50 @@
     },
     {
       "album": {
+        "name": "Hang You Up",
+        "url": "https://open.spotify.com/album/6rQep728FdL8O52BW2a8Wm"
+      },
+      "artists": [
+        {
+          "name": "Hey Violet",
+          "url": "https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am"
+        },
+        {
+          "name": "Jayden Seeley",
+          "url": "https://open.spotify.com/artist/6gzW91j6PTJlXTpshZGSQy"
+        },
+        {
+          "name": "Hopelessly Devoted To You",
+          "url": "https://open.spotify.com/artist/7ETms2ZVLM4yqRbJTNPfc8"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206360,
+      "name": "Hang You Up",
+      "url": "https://open.spotify.com/track/2RU5nTEJuf8XANiizWKGky"
+    },
+    {
+      "album": {
+        "name": "When You're Through Thinking, Say Yes",
+        "url": "https://open.spotify.com/album/5OM6yWHis0MATzshFTzWSH"
+      },
+      "artists": [
+        {
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242906,
+      "name": "Hang You Up",
+      "url": "https://open.spotify.com/track/7zFp0jVyDl5c5S3TAGDurB"
+    },
+    {
+      "album": {
         "name": "What If I Break?",
         "url": "https://open.spotify.com/album/79u3lvbDz2DoOuJ6imUHJc"
       },
@@ -1882,6 +1984,24 @@
       "duration_ms": 195573,
       "name": "Happy New Year",
       "url": "https://open.spotify.com/track/7cxnP6xWo2nUGtZzbkyUW0"
+    },
+    {
+      "album": {
+        "name": "Homesick",
+        "url": "https://open.spotify.com/album/6MEv8dNtVbKDW1WG4Hk6WZ"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188813,
+      "name": "Have Faith In Me",
+      "url": "https://open.spotify.com/track/4IX6QvjOI62tyHigVsTUlv"
     },
     {
       "album": {
@@ -2599,6 +2719,24 @@
     },
     {
       "album": {
+        "name": "Life's Not Out To Get You",
+        "url": "https://open.spotify.com/album/3umOBqXWR9VnJTQoe9Qkkj"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170796,
+      "name": "Kali Ma",
+      "url": "https://open.spotify.com/track/4HsWOiIPuQ6tCT3suvGWMK"
+    },
+    {
+      "album": {
         "name": "On The Cover II",
         "url": "https://open.spotify.com/album/3EkubIFzoYI6tSMyVheFq9"
       },
@@ -2672,6 +2810,46 @@
       "duration_ms": 175173,
       "name": "Kiss Me",
       "url": "https://open.spotify.com/track/3Tm90zTQXKVR2q0KBXgC46"
+    },
+    {
+      "album": {
+        "name": "Let Me Do One More",
+        "url": "https://open.spotify.com/album/5MH2ICGjLf6Lm9G72Rfx2f"
+      },
+      "artists": [
+        {
+          "name": "illuminati hotties",
+          "url": "https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207454,
+      "name": "Knead",
+      "url": "https://open.spotify.com/track/6mktwIZsZj2jnzorhM0HPc"
+    },
+    {
+      "album": {
+        "name": "Knead",
+        "url": "https://open.spotify.com/album/5oQVUjwp2s16g1y5X4zII5"
+      },
+      "artists": [
+        {
+          "name": "Pinkshift",
+          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
+        },
+        {
+          "name": "Hopelessly Devoted To You",
+          "url": "https://open.spotify.com/artist/7ETms2ZVLM4yqRbJTNPfc8"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168233,
+      "name": "Knead",
+      "url": "https://open.spotify.com/track/18oEnKV28PZFVxaAJMviF8"
     },
     {
       "album": {
@@ -2989,6 +3167,24 @@
     },
     {
       "album": {
+        "name": "DECEMBERUNDERGROUND",
+        "url": "https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206586,
+      "name": "Miss Murder",
+      "url": "https://open.spotify.com/track/0Ti2dlF2xLjXblvdU5fCxM"
+    },
+    {
+      "album": {
         "name": "More Like A Crash",
         "url": "https://open.spotify.com/album/6s7dcsTRvTLnz06RJCdJ8a"
       },
@@ -3076,6 +3272,24 @@
       "duration_ms": 169026,
       "name": "My Own Worst Enemy",
       "url": "https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z"
+    },
+    {
+      "album": {
+        "name": "The Story So Far",
+        "url": "https://open.spotify.com/album/3yWw068pxlaTirtN51cXf5"
+      },
+      "artists": [
+        {
+          "name": "The Story So Far",
+          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188200,
+      "name": "Nerve",
+      "url": "https://open.spotify.com/track/1DlT3Udf11689ezYr6R8aA"
     },
     {
       "album": {
@@ -3753,6 +3967,24 @@
     },
     {
       "album": {
+        "name": "Does This Look Infected?",
+        "url": "https://open.spotify.com/album/2kLmv0O8blKeM5HKxLtQrC"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158733,
+      "name": "Still Waiting",
+      "url": "https://open.spotify.com/track/2OMqSRS11ly56zg9u5za6c"
+    },
+    {
+      "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/3vW6XXJIIfZZRd7TtNR5J1"
       },
@@ -4081,6 +4313,24 @@
     },
     {
       "album": {
+        "name": "The Same Old Blood Rush With A New Touch",
+        "url": "https://open.spotify.com/album/66cyBjBDqSWQgh5Ix3geNl"
+      },
+      "artists": [
+        {
+          "name": "Cute Is What We Aim For",
+          "url": "https://open.spotify.com/artist/7AsPubxWM5tfW4hTZEL3aP"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203626,
+      "name": "The Curse of Curves",
+      "url": "https://open.spotify.com/track/6uzuW7L1t1UhnzbfXwtMtQ"
+    },
+    {
+      "album": {
         "name": "Shudder (Bonus Track Version)",
         "url": "https://open.spotify.com/album/1gOUjyC3Dvd7xq2cEHiSvl"
       },
@@ -4240,6 +4490,24 @@
       "duration_ms": 241640,
       "name": "The Quiet Things That No One Ever Knows",
       "url": "https://open.spotify.com/track/3IlY76VbP31zwPY0S2EMjh"
+    },
+    {
+      "album": {
+        "name": "Good Morning Revival",
+        "url": "https://open.spotify.com/album/5skjlzXO7wZ6OuS9YKdI50"
+      },
+      "artists": [
+        {
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195680,
+      "name": "The River",
+      "url": "https://open.spotify.com/track/0d8aJLKZI1r4uOSLZBJaBK"
     },
     {
       "album": {
@@ -4702,6 +4970,24 @@
       "duration_ms": 68695,
       "name": "What's New Scooby-Doo?",
       "url": "https://open.spotify.com/track/6DD5beNG6Ji3AYp5WrYnwD"
+    },
+    {
+      "album": {
+        "name": "A Lesson In Romantics",
+        "url": "https://open.spotify.com/album/0UtenXp3qVbWedKEaNRAp9"
+      },
+      "artists": [
+        {
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193693,
+      "name": "When I Get Home You're So Dead",
+      "url": "https://open.spotify.com/track/6QitaJF6Vj2O8sxf8VxsRI"
     },
     {
       "album": {

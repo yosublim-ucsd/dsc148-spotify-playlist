@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-19",
-  "description": "El nuevo sonido argentino lo encontr\u00e1s ac\u00e1. Foto: FLORIAN",
+  "description": "El nuevo sonido argentino lo encontr\u00e1s ac\u00e1. Foto: Ainda",
   "name": "Indie Argentina",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 205511,
       "name": "100PRE",
       "url": "https://open.spotify.com/track/0JOvn6YVeMDydH4iL3muOy"
+    },
+    {
+      "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/3JNSehXjsxHsabENXLH9CO"
+      },
+      "artists": [
+        {
+          "name": "Carmen S\u00e1nchez Viamonte",
+          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311327,
+      "name": "17",
+      "url": "https://open.spotify.com/track/0lv7MF7EVnJe6g09LjeIjK"
     },
     {
       "album": {
@@ -70,7 +88,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 118470,
       "name": "a mi casa",
       "url": "https://open.spotify.com/track/6UwVtkAOTL3bzevb0aHAjp"
@@ -760,7 +778,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 144179,
       "name": "Caminar en Cristal",
       "url": "https://open.spotify.com/track/4YlHkunt4qLnQy1Gtvivlb"
@@ -909,6 +927,24 @@
     },
     {
       "album": {
+        "name": "Chance",
+        "url": "https://open.spotify.com/album/31j7OrzQiwUxrQeejC5oFd"
+      },
+      "artists": [
+        {
+          "name": "Santiago Alonso",
+          "url": "https://open.spotify.com/artist/6yw8LNuc6B8uELY2TUwrSw"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172137,
+      "name": "Chance",
+      "url": "https://open.spotify.com/track/1vVOPxTviDX9iyluAy3W8q"
+    },
+    {
+      "album": {
         "name": "El camino de la libertad",
         "url": "https://open.spotify.com/album/45kxaX47xoKq4Pnlth6fU1"
       },
@@ -982,7 +1018,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 203193,
       "name": "Cinco Horas Menos",
       "url": "https://open.spotify.com/track/6Uu4Jpk4Qc8iFA4APbB2aM"
@@ -1598,7 +1634,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 207000,
       "name": "Duele",
       "url": "https://open.spotify.com/track/3QsmZtbdKo05hK6VVAjUXd"
@@ -1956,7 +1992,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 177828,
       "name": "Es una pena",
       "url": "https://open.spotify.com/track/4Ryztl0ef7GeUfcpzcSqla"
@@ -2068,7 +2104,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 187650,
       "name": "Festejemos",
       "url": "https://open.spotify.com/track/4toTjDlXShrN3iMrntu0QZ"
@@ -2318,6 +2354,24 @@
       "duration_ms": 206515,
       "name": "Ir derecho",
       "url": "https://open.spotify.com/track/7jK1aQltgQJ32aGYj6U7lh"
+    },
+    {
+      "album": {
+        "name": "Isita Querida",
+        "url": "https://open.spotify.com/album/3DbxApzAXepZFisQtRLVqB"
+      },
+      "artists": [
+        {
+          "name": "El Chacal & Los Alpes Floreados",
+          "url": "https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Isita Querida",
+      "url": "https://open.spotify.com/track/7Ga52DoqpLS1ZaGbMmBk6J"
     },
     {
       "album": {
@@ -2574,7 +2628,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 198000,
       "name": "Leopardos",
       "url": "https://open.spotify.com/track/6YEe62bQirKl9Wcg93j7RJ"
@@ -2730,6 +2784,24 @@
       "duration_ms": 208278,
       "name": "Luminosidad - Remix",
       "url": "https://open.spotify.com/track/6tru6R1Ubz11tHFIjdk4rs"
+    },
+    {
+      "album": {
+        "name": "CIUDAD FRENES\u00cd",
+        "url": "https://open.spotify.com/album/1JLruKm7iOA1lZAL3ffZ1V"
+      },
+      "artists": [
+        {
+          "name": "Eve Calletti",
+          "url": "https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183471,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/3DZvGVgBUoCPi9ZmUwYhC8"
     },
     {
       "album": {
@@ -3198,7 +3270,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 246233,
       "name": "no llamaste - Remix",
       "url": "https://open.spotify.com/track/3o4if7llOb7PZCz5ZIGCGI"
@@ -4032,7 +4104,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 230646,
       "name": "Romance Con la Luna - Remix",
       "url": "https://open.spotify.com/track/5eBMtd2aLti1fdIHhn7EOp"
@@ -4178,6 +4250,28 @@
       "duration_ms": 278701,
       "name": "Siempre me Dejaste Volver",
       "url": "https://open.spotify.com/track/5x5wanlUjwYxiVQXtWJPG9"
+    },
+    {
+      "album": {
+        "name": "Sin Mirar Atr\u00e1s",
+        "url": "https://open.spotify.com/album/02Lf75QMdlXHxZaseNrK3j"
+      },
+      "artists": [
+        {
+          "name": "Facundo Grand\u00edo",
+          "url": "https://open.spotify.com/artist/4Wkm55LBgLyt4MQh78QqJK"
+        },
+        {
+          "name": "Catalina Bay\u00e1",
+          "url": "https://open.spotify.com/artist/1YKe4dEtIUe6MdYV0L0vcf"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210853,
+      "name": "Sin Mirar Atr\u00e1s",
+      "url": "https://open.spotify.com/track/0mkQpK6C6j5xSxhX0s3YXY"
     },
     {
       "album": {
@@ -5072,6 +5166,42 @@
       "duration_ms": 186472,
       "name": "Ya fue",
       "url": "https://open.spotify.com/track/1RsAoqvtT8Uqsg2HUejHeG"
+    },
+    {
+      "album": {
+        "name": "Ya no hay vuelta atr\u00e1s",
+        "url": "https://open.spotify.com/album/7nyCuS7qmyufmpF6XVqwjy"
+      },
+      "artists": [
+        {
+          "name": "Tobias Indigo",
+          "url": "https://open.spotify.com/artist/5h04bWbwJJo8URbSzgaOFc"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187147,
+      "name": "Ya no hay vuelta atr\u00e1s",
+      "url": "https://open.spotify.com/track/7tBb8BmoY8eEXL5qqUks5d"
+    },
+    {
+      "album": {
+        "name": "\u00c9ramos lo m\u00e1s",
+        "url": "https://open.spotify.com/album/7JR1aMehX24jFZ24gO0Dpg"
+      },
+      "artists": [
+        {
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211947,
+      "name": "\u00c9ramos lo m\u00e1s",
+      "url": "https://open.spotify.com/track/7u2DT6k6Wwdb0e8qKiAdNs"
     },
     {
       "album": {

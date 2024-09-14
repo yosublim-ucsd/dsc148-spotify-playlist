@@ -1592,6 +1592,32 @@
     {
       "album": {
         "name": "All In",
+        "url": "https://open.spotify.com/album/11ERzuD2oi4qOKLswvwLgy"
+      },
+      "artists": [
+        {
+          "name": "DRVN",
+          "url": "https://open.spotify.com/artist/29Q57w8o8m7rIstMs4GyR4"
+        },
+        {
+          "name": "Ja Mezz",
+          "url": "https://open.spotify.com/artist/1q1Fe4tXiu1Weq4U0uhqPi"
+        },
+        {
+          "name": "BanggerDope",
+          "url": "https://open.spotify.com/artist/4LPB4af7uKBu5RrRaZLb15"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183323,
+      "name": "All In (feat. Ja Mezz, BanggerDope)",
+      "url": "https://open.spotify.com/track/5wpsmkGbCNwplqpdSDIzA9"
+    },
+    {
+      "album": {
+        "name": "All In",
         "url": "https://open.spotify.com/album/7HC4ncEdIrm0z8Ju33G97h"
       },
       "artists": [
@@ -19897,6 +19923,24 @@
     },
     {
       "album": {
+        "name": "Pheasant GangGang",
+        "url": "https://open.spotify.com/album/1o04bVkoGiZD4AYT6HNyAz"
+      },
+      "artists": [
+        {
+          "name": "KIM LEE DANG",
+          "url": "https://open.spotify.com/artist/6AoymB64kWmCMCahL1juvF"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141693,
+      "name": "Pheasant GangGang",
+      "url": "https://open.spotify.com/track/0MALDbb4ZNO8cAhopQv6AB"
+    },
+    {
+      "album": {
         "name": "pick up",
         "url": "https://open.spotify.com/album/6EzBYX8kxItoy1D9llVIrW"
       },
@@ -26590,6 +26634,10 @@
         {
           "name": "YUNGIN",
           "url": "https://open.spotify.com/artist/6mhw1MMBwP4wlOmYM3x9bp"
+        },
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/7DNjUopAEybM5cYcDxfGrv"
         },
         {
           "name": "pH-1",

@@ -242,7 +242,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 250346,
       "name": "Alma Blanca",
       "url": "https://open.spotify.com/track/7fP1GwN7MokxTLoMPxeN9p"
@@ -2022,7 +2022,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 197040,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/79R4NmcyCKcVkwzL2PUS8x"
@@ -4935,6 +4935,28 @@
     },
     {
       "album": {
+        "name": "Sistema",
+        "url": "https://open.spotify.com/album/53C2m73R5MYy2b4KfHvmC5"
+      },
+      "artists": [
+        {
+          "name": "ECKO",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+        },
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "Sistema",
+      "url": "https://open.spotify.com/track/0mcdl5mY8qvOxk7pqLyv8v"
+    },
+    {
+      "album": {
         "name": "No Es Tan F\u00e1cil",
         "url": "https://open.spotify.com/album/1BtjQQmVRRs5m7AoBh81Xv"
       },
@@ -5860,6 +5882,28 @@
       "duration_ms": 104973,
       "name": "Vuelve a Mi Lado",
       "url": "https://open.spotify.com/track/318gvXrsPsP1r3ocHcFIcH"
+    },
+    {
+      "album": {
+        "name": "Vandalo",
+        "url": "https://open.spotify.com/album/0yWGFEijmTkf0EtkOtNxtg"
+      },
+      "artists": [
+        {
+          "name": "El Pesa 9",
+          "url": "https://open.spotify.com/artist/4SrfDao90sWaTLommUn0o0"
+        },
+        {
+          "name": "Cumbia Piola",
+          "url": "https://open.spotify.com/artist/0vEB5GvHKNPBun1a8PWxRE"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202666,
+      "name": "X Vs",
+      "url": "https://open.spotify.com/track/0p5VWDXp1X1IkJNgXPvLtY"
     },
     {
       "album": {

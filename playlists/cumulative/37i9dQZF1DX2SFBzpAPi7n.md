@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Xdinary Heros\) \(핫한 국내 록 음악을 만나보세요!\)
 
-731 songs - 1 day 20 hr 9 min
+732 songs - 1 day 20 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Beautiful Life \(feat\. CRYING NUT\)](https://open.spotify.com/track/716gsCalWOk8pXj1FydBpk) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [CRYING NUT](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [TO DIE FOR](https://open.spotify.com/album/20eYi4s2pkBv0GGp42sCHK) | 3:07 | 2023-06-01 | 2023-07-03 |
 | [Beautiful Night](https://open.spotify.com/track/5TAVtxiijuCtUAvubAy7bY) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [Beautiful Night](https://open.spotify.com/album/3d3Qrwsh70152U0DkClVem) | 2:49 | 2022-08-04 | 2022-08-13 |
 | [Because it’ll be faster for you to forget me than me loving you](https://open.spotify.com/track/7veL3B4K9oQB9VnyLtuPJW) | [from20](https://open.spotify.com/artist/16ODiemwC9iXaQQ7AQBVnt) | [Because it’ll be faster for you to forget me than me loving you](https://open.spotify.com/album/1w0r5U0Sl7YqvdKrtzXROQ) | 3:11 | 2022-04-22 | 2022-07-22 |
-| [Being](https://open.spotify.com/track/7ulCWv7e24VBTQ7lzGWrFP) | [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Madness Always Turns to Sadness](https://open.spotify.com/album/6GcZjO7MFfAGaYqeSBcF6v) | 3:33 | 2024-09-10 |  |
+| [Being](https://open.spotify.com/track/7ulCWv7e24VBTQ7lzGWrFP) | [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Madness Always Turns to Sadness](https://open.spotify.com/album/6GcZjO7MFfAGaYqeSBcF6v) | 3:33 | 2024-09-10 | 2024-09-14 |
 | [better \(with you\)](https://open.spotify.com/track/7xzeekIeM7lFruBSfK6iIm) | [Crying City](https://open.spotify.com/artist/324QqTOkQyG8CUlphElsdD) | [better \(with you\)](https://open.spotify.com/album/4Z5JK8GrGgp8JYSxxjUYAn) | 2:26 | 2024-07-30 |  |
 | [BICCOY \(Baby I Can′t Concentrate On You\)](https://open.spotify.com/track/39ujFBADdM2S4XyFF48mzc) | [Kisnue](https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F) | [\[LIFE AFTER\]](https://open.spotify.com/album/3bAEQ8KYhz99OWFLGWE2Oy) | 3:11 | 2022-06-13 | 2022-06-16 |
 | [Bichulae \(feat\. Luli Lee\)](https://open.spotify.com/track/0Ygqbr8k7lp9VQpmRWVkzY) | [BULGOGIDISCO](https://open.spotify.com/artist/38IwvgYKTkEVuVg1jaqVQL), [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Bichulae](https://open.spotify.com/album/0wqZQ4tOQj6pB1MlURlFof) | 3:09 | 2022-06-23 | 2022-07-19 |
@@ -351,6 +351,7 @@
 | [Light UP](https://open.spotify.com/track/16aCdXdUqHMwt9lZCXPpav) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Lord of Heroes OST Part 3](https://open.spotify.com/album/4JVgXZdk3iz4MDwtZApqDB) | 3:25 | 2022-05-02 | 2022-07-23 |
 | [Lights \(Feat\. Yerin Baek\)](https://open.spotify.com/track/1srir2eS2n9AlI3v13cdDx) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [The LIGHTS](https://open.spotify.com/album/2QtJUE3h7lHsKAUnTlNV4U) | 3:47 | 2022-11-09 | 2022-12-13 |
 | [Like my groove](https://open.spotify.com/track/2LpUmnpyrdsrGwjxFkUBVp) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx), [the orchard](https://open.spotify.com/artist/6w8vEVxqF3ilGHbjTWgTKI) | [Like my groove](https://open.spotify.com/album/7kcDdPNGDvR88xrU41QWlz) | 3:07 | 2022-08-18 | 2022-09-06 |
+| [Like Nothing \(Feat\. YOUHA, Kim Seungmin\)](https://open.spotify.com/track/0rSra7zqW05TvIVnJMSVo7) | [Minit](https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m), [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan), [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [Like Nothing](https://open.spotify.com/album/3IBZkXFy4uNDKowRztNFYf) | 2:51 | 2024-09-13 |  |
 | [Lips \(Feat\. GISELLE\)](https://open.spotify.com/track/7aGZLiPMaMKupY4fwzDBb2) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl), [GISELLE](https://open.spotify.com/artist/2P1id80CMwR5R5cwcyIIAi) | [Lips \(Feat\. GISELLE\)](https://open.spotify.com/album/7Bsrjk9Ct4lGx3jcxGcRIk) | 3:02 | 2024-06-13 |  |
 | [Little Light](https://open.spotify.com/track/1Y5D7m2QtyBdvwvY3gAVNQ) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [YOUTH \- The 1st Album](https://open.spotify.com/album/06VXjmfFLNhkSLEe94ROXj) | 3:44 | 2024-04-22 |  |
 | [Little Things](https://open.spotify.com/track/5t8TV1U5vmKL5UIQo5pNtN) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Troubleshooting](https://open.spotify.com/album/26ogXm7X0kUSidtoaQVBei) | 3:32 | 2024-04-30 |  |

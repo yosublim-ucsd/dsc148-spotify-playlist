@@ -1195,6 +1195,28 @@
     },
     {
       "album": {
+        "name": "Lunar",
+        "url": "https://open.spotify.com/album/5aBpRb8Su6q0aWJiCModUr"
+      },
+      "artists": [
+        {
+          "name": "Christian Badzura",
+          "url": "https://open.spotify.com/artist/4o4c7wie7O9R8ju7JWtHsQ"
+        },
+        {
+          "name": "Bruce Liu",
+          "url": "https://open.spotify.com/artist/3GMPZX0AZo90KkPjFpgPT9"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189500,
+      "name": "Lunar",
+      "url": "https://open.spotify.com/track/0v1YUX6yWvRJCoWIYuU1vB"
+    },
+    {
+      "album": {
         "name": "Le Po\u00e8te du piano",
         "url": "https://open.spotify.com/album/5e0hqGrjuazjIvaCNLGKVk"
       },

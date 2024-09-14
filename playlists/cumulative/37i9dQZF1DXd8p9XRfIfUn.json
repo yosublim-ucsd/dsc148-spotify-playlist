@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "1 chaka al a\u00f1o",
+        "url": "https://open.spotify.com/album/3T8geLwGkLN61CaKF6wkye"
+      },
+      "artists": [
+        {
+          "name": "Daniela BB",
+          "url": "https://open.spotify.com/artist/3alzYKmQgRGAbTCfGZqYDf"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122737,
+      "name": "1 chaka al a\u00f1o",
+      "url": "https://open.spotify.com/track/6hWK8xla2aByPoDYWCpbzE"
+    },
+    {
+      "album": {
         "name": "1 D\u00eda Fue Oro",
         "url": "https://open.spotify.com/album/59tkZYXby48ff575GQM4wp"
       },
@@ -176,7 +194,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 152842,
       "name": "Apoco S\u00ed? Apoco No?",
       "url": "https://open.spotify.com/track/1W7kHVY04qM85phdznBiJN"
@@ -202,6 +220,24 @@
       "duration_ms": 209108,
       "name": "Ayer (feat. Lautaro Lopez)",
       "url": "https://open.spotify.com/track/1AbDuAcnpBrbYBnBZPsgFk"
+    },
+    {
+      "album": {
+        "name": "Azulito",
+        "url": "https://open.spotify.com/album/063BBK8zHGt6kTT7BPf8Sq"
+      },
+      "artists": [
+        {
+          "name": "Mita",
+          "url": "https://open.spotify.com/artist/3Vyw4TdOwnqclNlcvAeeSS"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171200,
+      "name": "Azulito",
+      "url": "https://open.spotify.com/track/4i3HUgcLSXRoonkFa80WDf"
     },
     {
       "album": {
@@ -686,7 +722,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 124190,
       "name": "Chakalito",
       "url": "https://open.spotify.com/track/1QGrlHRKaTADypgJbF3cyK"
@@ -1041,6 +1077,24 @@
     },
     {
       "album": {
+        "name": "CONTRA LA PARED",
+        "url": "https://open.spotify.com/album/2gEJqWjmqjwcJ3shUDrkvZ"
+      },
+      "artists": [
+        {
+          "name": "Coko Yamasaki",
+          "url": "https://open.spotify.com/artist/1txbs9MMkT4FszkaA96atm"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132853,
+      "name": "CONTRA LA PARED",
+      "url": "https://open.spotify.com/track/2GYabdiCzhzloD7t1mJzY0"
+    },
+    {
+      "album": {
         "name": "Cosas Por Hacer",
         "url": "https://open.spotify.com/album/1bgRjzEcG0XMZRcnZX10PY"
       },
@@ -1172,7 +1226,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 180689,
       "name": "Cu\u00e1ndo Te V\u00ed",
       "url": "https://open.spotify.com/track/7mAb5cfuIcgDW9nH8yX8gQ"
@@ -1264,7 +1318,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 155242,
       "name": "Desbloqueada",
       "url": "https://open.spotify.com/track/3F7gFZVbm4oqxVcuBYNq8H"
@@ -1638,7 +1692,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 196942,
       "name": "Flow",
       "url": "https://open.spotify.com/track/2rQi2aO4NtH6bORFeorsca"
@@ -1674,7 +1728,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 183829,
       "name": "FOTITOS X DM",
       "url": "https://open.spotify.com/track/68gGjajzOvXdkybl51Ia9T"
@@ -2112,7 +2166,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 97200,
       "name": "H\u00e1bitos",
       "url": "https://open.spotify.com/track/1eAU9My8o0abs1CJ2ZNaS1"
@@ -2178,7 +2232,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 177391,
       "name": "Infiel",
       "url": "https://open.spotify.com/track/2UZKC06xJGWAhdo5FiuJ6y"
@@ -2316,6 +2370,24 @@
       "duration_ms": 232920,
       "name": "Kiwi",
       "url": "https://open.spotify.com/track/6iIooXoLXNb0duWFP1wwLd"
+    },
+    {
+      "album": {
+        "name": "Kyoto",
+        "url": "https://open.spotify.com/album/6TjdmvPzreEMAXS0om4Pi4"
+      },
+      "artists": [
+        {
+          "name": "Roby Damian",
+          "url": "https://open.spotify.com/artist/1ZZuCXECSRpnxKceMooLk5"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Kyoto",
+      "url": "https://open.spotify.com/track/7JyYQxwajN6hpN4wUPrlxP"
     },
     {
       "album": {
@@ -3716,7 +3788,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-17",
+      "date_removed": null,
       "duration_ms": 150894,
       "name": "Pal' Otro A\u00f1o",
       "url": "https://open.spotify.com/track/68IONBceV20r5OOr6961PQ"
@@ -3952,7 +4024,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 181894,
       "name": "PERREANDO CON ALGUIEN QUE NO ME GUSTA",
       "url": "https://open.spotify.com/track/44WdAGGZvWjJsPg2mZF9oN"
@@ -4149,6 +4221,24 @@
     },
     {
       "album": {
+        "name": "PUTIFINA",
+        "url": "https://open.spotify.com/album/365QKOr3cm1hZJd58kT5uj"
+      },
+      "artists": [
+        {
+          "name": "Tryzty",
+          "url": "https://open.spotify.com/artist/3WwHNlLL31bBoiHYzd8hAS"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164081,
+      "name": "PUTIFINA",
+      "url": "https://open.spotify.com/track/3LncRjIcLysOTnWI7dqMLS"
+    },
+    {
+      "album": {
         "name": "P\u00e9gate",
         "url": "https://open.spotify.com/album/00cSdJphJM7Hh8k2N0x3vP"
       },
@@ -4204,7 +4294,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 114285,
       "name": "q macizo te valgo vrga",
       "url": "https://open.spotify.com/track/1ldKQrLChHxRskT8p5uvkh"
@@ -4270,7 +4360,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 176629,
       "name": "Que Loco Mami",
       "url": "https://open.spotify.com/track/5dIVRu9PgpCqntnva0F0Fl"
@@ -4354,12 +4444,12 @@
       },
       "artists": [
         {
-          "name": "Taiu",
-          "url": "https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic"
-        },
-        {
           "name": "Milo j",
           "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        },
+        {
+          "name": "Taiu",
+          "url": "https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic"
         }
       ],
       "date_added": "2023-03-10",
@@ -4528,7 +4618,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 186260,
       "name": "Sal de Playa",
       "url": "https://open.spotify.com/track/6GQ6LfdASmu0W3jSUVw9CQ"
@@ -4886,10 +4976,32 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 240000,
       "name": "Su Mirada",
       "url": "https://open.spotify.com/track/1MOaqR0xrws9MZ3Yf57f9C"
+    },
+    {
+      "album": {
+        "name": "Subaru",
+        "url": "https://open.spotify.com/album/6eM9pC1H3yK1H4BQ78qPYV"
+      },
+      "artists": [
+        {
+          "name": "Sleezy O",
+          "url": "https://open.spotify.com/artist/4lKCm9X9aPxuejrckz6b4n"
+        },
+        {
+          "name": "FLVCKKA",
+          "url": "https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148050,
+      "name": "Subaru",
+      "url": "https://open.spotify.com/track/7gqqs3O4C4dcF01O9IqRL8"
     },
     {
       "album": {
@@ -5038,7 +5150,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-11",
+      "date_removed": null,
       "duration_ms": 182945,
       "name": "Taka Taka",
       "url": "https://open.spotify.com/track/03GT9SDQ2fNE6L37r8PO8l"
@@ -5276,7 +5388,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 182421,
       "name": "Traje Tusi",
       "url": "https://open.spotify.com/track/3uSjM5ngnPg1JGnBn31rYG"

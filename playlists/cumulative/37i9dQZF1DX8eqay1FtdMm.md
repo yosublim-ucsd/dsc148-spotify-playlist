@@ -4,7 +4,7 @@
 
 > Meet the best Korean vocalists who will melt your eardrums! \(Cover: Solji\(솔지\)\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-563 songs - 1 day 12 hr 46 min
+564 songs - 1 day 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,6 +317,7 @@
 | [Mother](https://open.spotify.com/track/0md3x2yZXAkXeK3Pw7Sgfh) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Mother](https://open.spotify.com/album/43g68A9Q4Xltflzp3XwfLQ) | 2:56 | 2022-03-29 | 2022-07-25 |
 | [Mother Nature \(H₂O\)](https://open.spotify.com/track/7KZThhMaRjQpB9x6yIJvZ8) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [Kang Seungwon](https://open.spotify.com/artist/48DsjCcpYJQWi5fulzyuBm) | [Mother Nature \(H₂O\)](https://open.spotify.com/album/6gdnJ11QQyvpVljTUR3BWw) | 3:52 | 2022-01-27 |  |
 | [Moving Away](https://open.spotify.com/track/57Ylr5UBALW6Rrkue2vBB3) | [An Nyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [Moving Away](https://open.spotify.com/album/4zhODMfhF2d2aBP5YSfLVS) | 4:24 | 2022-01-14 | 2022-07-24 |
+| [My Blooming Heart](https://open.spotify.com/track/0idORy7zZ4pKim6wzJTndW) | [JEONG HYO BEAN](https://open.spotify.com/artist/39mNLQ2I1Al3Ewrr9tTxhB) | [My Blooming Heart](https://open.spotify.com/album/3zUxwx9UMZ0F0VJ0pwZ4f3) | 3:54 | 2024-09-13 |  |
 | [My Dream](https://open.spotify.com/track/5XKo813PRaLwH1yHWP674c) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Rookie Historian GooHaeRyung 신입사관 구해령 \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/3IIHBgXFIt3yvPYDqsl8qp) | 3:54 | 2022-04-01 | 2022-04-19 |
 | [My Dream](https://open.spotify.com/track/6KH01MmdV1vsprqge5pWUc) | [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Rookie Historian GooHaeRyung \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/7vvT1Lt9uuSjV7rdYeeIDt) | 3:54 | 2022-09-06 | 2024-04-16 |
 | [My Favorite Winter](https://open.spotify.com/track/4eTFVwwrGhIeS8NqwEBWZP) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [My Favorite Winter](https://open.spotify.com/album/6zF9RvcFJOgl4GV4ySUmUp) | 3:49 | 2022-12-14 | 2023-01-13 |
@@ -357,7 +358,7 @@
 | [Only Longing Grows](https://open.spotify.com/track/2crkSPXNfENoVob10TfTTh) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.15](https://open.spotify.com/album/58uielBksTKu8wfbWBfJxC) | 3:53 | 2022-07-25 | 2022-08-04 |
 | [Only One Person \(My love X Lee Hong Ki \(FTISLAND\)\)](https://open.spotify.com/track/3vZlTN0MeWV9DCYMfvny7d) | [Lee Hong Ki \(FTISLAND\)](https://open.spotify.com/artist/2uhdqkoAiPkJq5vkEQSlyE) | [Only One Person \(My love X Lee Hong Ki \(FTISLAND\)\)](https://open.spotify.com/album/134CLUvRAY02C9Z4KtTlXo) | 4:16 | 2023-07-17 | 2023-09-11 |
 | [Only Then](https://open.spotify.com/track/7mFigNlS2dsKMhcmJyfpeg) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Only Then](https://open.spotify.com/album/4erAMXv1Uin2wnf1vW4Eqq) | 4:08 | 2021-12-20 |  |
-| [Only You](https://open.spotify.com/track/6W4G44h5B23jv5E2S0NUkw) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Only You](https://open.spotify.com/album/2HaxfS9WKdh4BXEUBhItAM) | 4:23 | 2021-12-20 |  |
+| [Only You](https://open.spotify.com/track/6W4G44h5B23jv5E2S0NUkw) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Only You](https://open.spotify.com/album/2HaxfS9WKdh4BXEUBhItAM) | 4:23 | 2021-12-20 | 2024-09-14 |
 | [Only you \(The Moon during the Day X GB9\)](https://open.spotify.com/track/3sa9y64Wx3P6lwJMifujf4) | [GB9](https://open.spotify.com/artist/2QQUaQXZalrJh9JYTiVMkr) | [Only you \(The Moon during the Day X GB9\)](https://open.spotify.com/album/3uNHehmSwCjlZDJ0jcZwyw) | 4:46 | 2021-12-27 | 2022-07-13 |
 | [Only you don't know \(Samsung New Retro Series\)](https://open.spotify.com/track/6Zvu8RwsRkogAb5AvBpF2x) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [Only you don't know \(Samsung New Retro Series\)](https://open.spotify.com/album/5DqfLEt9syg644ToarPkZU) | 4:05 | 2021-12-20 | 2022-07-28 |
 | [Orpheus \(Feat\. Jo Gwangil\)](https://open.spotify.com/track/77pO7md3F2lmlXioPzNY0q) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj), [Jo Gwangil](https://open.spotify.com/artist/26a11HcBOVeX5KANeiuMjY) | [First of all](https://open.spotify.com/album/55BqAH8rp3OjiisTNm7de1) | 3:51 | 2022-11-23 | 2022-12-25 |

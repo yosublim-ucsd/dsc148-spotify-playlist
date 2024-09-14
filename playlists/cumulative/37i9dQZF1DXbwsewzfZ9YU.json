@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "the best in hardcore. open the pit w/ GEL",
+  "description": "the best in hardcore. open the pit w/ Skullpresser",
   "name": "the Breakdown",
   "tracks": [
     {
@@ -438,7 +438,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 173279,
       "name": "BLACKOUT",
       "url": "https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o"
@@ -1192,7 +1192,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 174828,
       "name": "Diztorted World",
       "url": "https://open.spotify.com/track/453eHGC3TawSbKQvG75ZsL"
@@ -1286,7 +1286,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 65146,
       "name": "E.O.S.",
       "url": "https://open.spotify.com/track/5RgZJZfmIsm04jxUqucdCU"
@@ -2208,7 +2208,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 160174,
       "name": "In the Moment",
       "url": "https://open.spotify.com/track/3YlLXwqYYysLEDyDF11xhq"
@@ -2274,6 +2274,24 @@
       "duration_ms": 144798,
       "name": "Inflict My Will",
       "url": "https://open.spotify.com/track/3lNHXhvY8AIfpIku5aAbNX"
+    },
+    {
+      "album": {
+        "name": "The New Chaos",
+        "url": "https://open.spotify.com/album/1SIPq5EHlVtkmxaJnbzThi"
+      },
+      "artists": [
+        {
+          "name": "LOCKED SHUT",
+          "url": "https://open.spotify.com/artist/5wXFJIjoTJiIcUqTrL808e"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117263,
+      "name": "Jinx",
+      "url": "https://open.spotify.com/track/4vZwnl3cQOhHkgvG6kNt2V"
     },
     {
       "album": {
@@ -3033,6 +3051,24 @@
     },
     {
       "album": {
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/50y7ISY6ONiOgZVh24UHRq"
+      },
+      "artists": [
+        {
+          "name": "GRAY STATE",
+          "url": "https://open.spotify.com/artist/5TyGuNQ9ibfEiRE3Oyn3kk"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215263,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/4UxND1j0BxMcNgt10yKSsG"
+    },
+    {
+      "album": {
         "name": "I Got Heaven",
         "url": "https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp"
       },
@@ -3394,6 +3430,24 @@
     {
       "album": {
         "name": "Positions of Power",
+        "url": "https://open.spotify.com/album/4IbPhWqkRy3E5fCr1saj1H"
+      },
+      "artists": [
+        {
+          "name": "Skullpresser",
+          "url": "https://open.spotify.com/artist/074HajIHsqL6ax3y72BtN9"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100509,
+      "name": "Positions of Power",
+      "url": "https://open.spotify.com/track/1xT9m6qJL4FbuoiNMB3Au5"
+    },
+    {
+      "album": {
+        "name": "Positions of Power",
         "url": "https://open.spotify.com/album/6oukUvyh4U9JuLQkXCfzwW"
       },
       "artists": [
@@ -3404,7 +3458,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 100509,
       "name": "Positions of Power",
       "url": "https://open.spotify.com/track/7aciKhyjuMXQ2nWGe1PHYn"
@@ -4297,6 +4351,24 @@
     },
     {
       "album": {
+        "name": "All Of Heaven's Luck",
+        "url": "https://open.spotify.com/album/0eoFObPed0D6MTmxGegosa"
+      },
+      "artists": [
+        {
+          "name": "Rejoice",
+          "url": "https://open.spotify.com/artist/74t8gOskGO2qibLmbu8zi3"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123386,
+      "name": "Temple Of The Worm",
+      "url": "https://open.spotify.com/track/6GkEjsXDfAaHUbJoehtnph"
+    },
+    {
+      "album": {
         "name": "Marathon",
         "url": "https://open.spotify.com/album/0V6pjsjhW4XG6KA0ZCG1c4"
       },
@@ -5158,6 +5230,24 @@
       "duration_ms": 74176,
       "name": "Year of the Guillotine",
       "url": "https://open.spotify.com/track/1KGCcGF0oE7u3UCU4ZvlXQ"
+    },
+    {
+      "album": {
+        "name": "Six Pacts Etched In Blood",
+        "url": "https://open.spotify.com/album/4GFVct3CfTj54RUVpdQjFc"
+      },
+      "artists": [
+        {
+          "name": "Balmora",
+          "url": "https://open.spotify.com/artist/4thpVPtc68xxR1kilVSPPN"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388293,
+      "name": "Your Unyielding Light",
+      "url": "https://open.spotify.com/track/4Ofd8MyfUKHum4Gka9J5qB"
     },
     {
       "album": {

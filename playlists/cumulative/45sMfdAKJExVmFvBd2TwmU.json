@@ -601,6 +601,42 @@
     },
     {
       "album": {
+        "name": "Chan Kithan",
+        "url": "https://open.spotify.com/album/4BWqJqgYMTHT8SJfIriqzz"
+      },
+      "artists": [
+        {
+          "name": "Ali Sethi",
+          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233012,
+      "name": "Chan Kithan",
+      "url": "https://open.spotify.com/track/3DJVLBNKQi8fzhTWFxAzS6"
+    },
+    {
+      "album": {
+        "name": "Chandni Raat",
+        "url": "https://open.spotify.com/album/4p089B9MpULeI6pdez7XEe"
+      },
+      "artists": [
+        {
+          "name": "Ali Sethi",
+          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225123,
+      "name": "Chandni Raat",
+      "url": "https://open.spotify.com/track/1pVdPY6jzjTFRwk1sXu3G7"
+    },
+    {
+      "album": {
         "name": "Ae Dil Hai Mushkil (Original Motion Picture Soundtrack) [Deluxe Edition]",
         "url": "https://open.spotify.com/album/5xjaz957o6YGSXmlfd2tex"
       },
@@ -1190,6 +1226,24 @@
       "duration_ms": 397026,
       "name": "In Dino",
       "url": "https://open.spotify.com/track/6YycppSAeGtSvwmu8qCcr2"
+    },
+    {
+      "album": {
+        "name": "Ishq",
+        "url": "https://open.spotify.com/album/17h3TKsSYmT5ShzMhz5N3g"
+      },
+      "artists": [
+        {
+          "name": "Ali Sethi",
+          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242023,
+      "name": "Ishq",
+      "url": "https://open.spotify.com/track/56mbo7cIexjgYciiTKS4RT"
     },
     {
       "album": {

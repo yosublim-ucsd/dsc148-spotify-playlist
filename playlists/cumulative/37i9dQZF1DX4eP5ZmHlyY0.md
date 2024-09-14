@@ -4,7 +4,7 @@
 
 > 日本で活躍するボーイズグループを特集。cover: JO1
 
-320 songs - 18 hr 33 min
+321 songs - 18 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,6 +268,7 @@
 | [What's Up!!](https://open.spotify.com/track/1eZbYaAWiiT3yAc7hLCs56) | [BOYZTERIOS from BATTLE BOYS](https://open.spotify.com/artist/2fIiRTTSE31r4KqEn9RD2t) | [What's Up!!](https://open.spotify.com/album/1A8ruIVzJfdvwYfW8jzm7c) | 4:01 | 2024-07-30 | 2024-09-04 |
 | [Whatcha Gonna Do](https://open.spotify.com/track/7xW477Puc2lltQKKYbihrw) | [IVVY](https://open.spotify.com/artist/2vt1pSDdswpATBUN6lPMre) | [Whatcha Gonna Do](https://open.spotify.com/album/4CHSQQXvYFdtNgiN5gsLsL) | 3:38 | 2023-11-28 | 2024-01-10 |
 | [Whatever Happens](https://open.spotify.com/track/43gyzi5Iyfaz6OqzxhJhkK) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [Whatever Happens](https://open.spotify.com/album/07x7srlQ4mrF6rGSs9yPdd) | 3:09 | 2024-04-02 | 2024-06-19 |
+| [WHERE DO WE GO](https://open.spotify.com/track/0i2M5m2D1CYl3X1VKhmfW9) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [WHERE DO WE GO](https://open.spotify.com/album/6GkIf5MU4sXwa1rHurNVAc) | 2:37 | 2024-09-13 |  |
 | [WHITE SNOW](https://open.spotify.com/track/7fUSOeRqyDSapxbZHxYBCG) | [IVVY](https://open.spotify.com/artist/2vt1pSDdswpATBUN6lPMre) | [WHITE SNOW](https://open.spotify.com/album/3gApldsoKO741jMMS5B0WY) | 4:05 | 2023-11-23 | 2023-11-29 |
 | [WILD & FREE](https://open.spotify.com/track/3XPW6A3czlqpuJmfMYXeQk) | [EXILE TAKAHIRO](https://open.spotify.com/artist/4cW96mgPlmNlWAQyHJNzS4) | [WILD & FREE](https://open.spotify.com/album/2p7HCvtoxHxQePDIDaDP5C) | 3:31 | 2024-04-09 | 2024-04-24 |
 | [Wild Boy](https://open.spotify.com/track/34HpTZsNQmU3EuI465OYJH) | [MA55IVE THE RAMPAGE](https://open.spotify.com/artist/4WrhFhuiPWwEkbsRzAjMBk) | [Wild Boy](https://open.spotify.com/album/2x7v3ik8VqlgHkF76LmUQo) | 3:16 | 2024-04-16 | 2024-06-05 |

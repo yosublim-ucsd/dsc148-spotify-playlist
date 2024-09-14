@@ -1,31 +1,67 @@
 {
-  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Ad\u00e8le Castillon",
-  "num_followers": 41721,
+  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: GIMS",
+  "num_followers": 41800,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtscFwAAAACRv6IacZUTePpJv9AYlMUm",
+  "snapshot_id": "ZuO4/AAAAAAhfpOuUl5avGqbi3XV8RsU",
   "tracks": [
     {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-13 04:01:00",
       "album": {
-        "name": "Cr\u00e8vecoeur (EP.I)",
-        "url": "https://open.spotify.com/album/3Wfhc1AVsVNBIm6xH3OV9w"
+        "name": "LE NORD SE SOUVIENT",
+        "url": "https://open.spotify.com/album/55DUcp4pTvwD4VzUnWaXfw"
       },
       "artists": [
         {
-          "name": "Ad\u00e8le Castillon",
-          "url": "https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0"
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
         }
       ],
-      "duration_ms": 162346,
-      "name": "\u00c0 la folie",
-      "url": "https://open.spotify.com/track/4cz2iE5LTbWykMKJ7m07XL"
+      "duration_ms": 172346,
+      "name": "SAN GOKU",
+      "url": "https://open.spotify.com/track/33RwMBXnqn3V5i5uGoR1Nt"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "Bonhomme Pendu 4 (Chapitre Perdu)",
+        "url": "https://open.spotify.com/album/5JWAUtRoJ0Lp2PLy7cn4it"
+      },
+      "artists": [
+        {
+          "name": "Lost",
+          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
+        },
+        {
+          "name": "Dinos",
+          "url": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
+        }
+      ],
+      "duration_ms": 238595,
+      "name": "Parades Photos",
+      "url": "https://open.spotify.com/track/7wc9odIwuIGgPnRpEHEd5B"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "June",
+        "url": "https://open.spotify.com/album/3RTNMOpBYxZqtdlU64gMIa"
+      },
+      "artists": [
+        {
+          "name": "LaF",
+          "url": "https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8"
+        }
+      ],
+      "duration_ms": 138666,
+      "name": "June",
+      "url": "https://open.spotify.com/track/6Vo5ENxOavBnY9xANmMqi7"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
       "album": {
         "name": "Coco",
         "url": "https://open.spotify.com/album/230L56lWpmJBSmZA7Fvsua"
@@ -45,27 +81,23 @@
       "url": "https://open.spotify.com/track/1HXC5IiGUqTEFl18IJ42Lm"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-13 04:01:00",
       "album": {
-        "name": "Ma pref",
-        "url": "https://open.spotify.com/album/1r18lQrF1s9xhZecqOUJ2d"
+        "name": "Ceci n'est pas une chanson triste",
+        "url": "https://open.spotify.com/album/7oJcVkwvFeRpLXABS2FZuX"
       },
       "artists": [
         {
-          "name": "Rymz",
-          "url": "https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu"
-        },
-        {
-          "name": "Naomi",
-          "url": "https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo"
+          "name": "Souldia",
+          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
         }
       ],
-      "duration_ms": 200168,
-      "name": "Ma pref",
-      "url": "https://open.spotify.com/track/6Jk0HOH7Qrr6xbNf5xTKGi"
+      "duration_ms": 230320,
+      "name": "Ceci n'est pas une chanson triste",
+      "url": "https://open.spotify.com/track/4vFsK1nytpiiq0pT6m1dQ3"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-13 04:01:00",
       "album": {
         "name": "Bolide Noir",
         "url": "https://open.spotify.com/album/6ujcbx6rGcYFkLw6epuWHW"
@@ -85,163 +117,23 @@
       "url": "https://open.spotify.com/track/14DLZ9FaTofhnXBiV38axE"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-13 04:01:00",
       "album": {
-        "name": "Demande sp\u00e9ciale",
-        "url": "https://open.spotify.com/album/40qfBrz1foTi9duZlJCd33"
+        "name": "Se baigner",
+        "url": "https://open.spotify.com/album/2nbX0mMcbetaibMZN4EY7a"
       },
       "artists": [
         {
-          "name": "Bon Enfant",
-          "url": "https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb"
+          "name": "Mon Doux Saigneur",
+          "url": "https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x"
         }
       ],
-      "duration_ms": 175168,
-      "name": "Demande sp\u00e9ciale",
-      "url": "https://open.spotify.com/track/41Ne4XNjs1z8oTH7zYy2nj"
+      "duration_ms": 274440,
+      "name": "Se baigner",
+      "url": "https://open.spotify.com/track/2Vj2nFYoQh6AkEqqR2llP0"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "T.I.A - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/5bZnJCwm9vRanQPpGbMW5B"
-      },
-      "artists": [
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "T.I.A - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/1CBcqxqfrImhinNsC08sej"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "\u00c7a shoot",
-        "url": "https://open.spotify.com/album/3cf5vi13Vx8IhNWsJxMt4r"
-      },
-      "artists": [
-        {
-          "name": "Gros Big",
-          "url": "https://open.spotify.com/artist/5lRXcS3hdIRzUO1mbJkvJ0"
-        }
-      ],
-      "duration_ms": 158929,
-      "name": "\u00c7a shoot",
-      "url": "https://open.spotify.com/track/1D3andBUzvFuTQaM57TbIf"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Tentation (feat. Hamza)",
-        "url": "https://open.spotify.com/album/33Cvwo6OSmVMtrEwnvsTdP"
-      },
-      "artists": [
-        {
-          "name": "Gambi",
-          "url": "https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ"
-        },
-        {
-          "name": "Hamza",
-          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
-        }
-      ],
-      "duration_ms": 175787,
-      "name": "Tentation (feat. Hamza)",
-      "url": "https://open.spotify.com/track/2kpahpZlkZF8I2yFR65CIC"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Love pour toi",
-        "url": "https://open.spotify.com/album/4ed8rgdhz9Omd8YFN6ezBW"
-      },
-      "artists": [
-        {
-          "name": "Blynk",
-          "url": "https://open.spotify.com/artist/5QudGDXQi1yGCjENRjMNeQ"
-        }
-      ],
-      "duration_ms": 151794,
-      "name": "Love pour toi",
-      "url": "https://open.spotify.com/track/3uW42r1lILVcS2DGBYxScN"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "SD Night",
-        "url": "https://open.spotify.com/album/4hQDYoPdi19Fkd0BJPLhp6"
-      },
-      "artists": [
-        {
-          "name": "VEN1",
-          "url": "https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL"
-        }
-      ],
-      "duration_ms": 182535,
-      "name": "SD Night",
-      "url": "https://open.spotify.com/track/7E8RJY17lUK5W7J1TDFd6z"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Heureux comme \u00e7a",
-        "url": "https://open.spotify.com/album/4sI3aKZhpwWd8wLEPeASqm"
-      },
-      "artists": [
-        {
-          "name": "Maude Audet",
-          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
-        }
-      ],
-      "duration_ms": 169226,
-      "name": "Heureux comme \u00e7a",
-      "url": "https://open.spotify.com/track/1beumnMJjECxbkF6o0WkVT"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "911",
-        "url": "https://open.spotify.com/album/67f3PjH1D4jG9wNHaVi7vv"
-      },
-      "artists": [
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        },
-        {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
-        },
-        {
-          "name": "Koba LaD",
-          "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
-        }
-      ],
-      "duration_ms": 261021,
-      "name": "911",
-      "url": "https://open.spotify.com/track/567I1pGlfAQUfHTMHbH6qj"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Avant Tout",
-        "url": "https://open.spotify.com/album/5SgEkmlrW5zUAZmxLoynS7"
-      },
-      "artists": [
-        {
-          "name": "SHAH FRANK",
-          "url": "https://open.spotify.com/artist/4NetfCwJqpbsV7dSihbDD5"
-        }
-      ],
-      "duration_ms": 158892,
-      "name": "Avant Tout",
-      "url": "https://open.spotify.com/track/4eR6hdmGEkTfzN2TVkt40q"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-13 04:01:00",
       "album": {
         "name": "MANON B",
         "url": "https://open.spotify.com/album/4kaRXOJNgAAa3Odl6ojLBf"
@@ -265,23 +157,199 @@
       "url": "https://open.spotify.com/track/2PYlRGF5Wi5sDobsLH5gLX"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-13 04:01:00",
       "album": {
-        "name": "Perle rare",
-        "url": "https://open.spotify.com/album/69RfAUegsjyeigGtzkLI1F"
+        "name": "GENERAL FINESSE FREESTYLE",
+        "url": "https://open.spotify.com/album/2CEZwsIJ6Eu5D6CHScYhZh"
       },
       "artists": [
         {
-          "name": "Les Dales Hawerchuk",
-          "url": "https://open.spotify.com/artist/5kYwyvlqsCuDlzmfsSNSSC"
+          "name": "Rowjay",
+          "url": "https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc"
         }
       ],
-      "duration_ms": 167880,
-      "name": "Perle rare",
-      "url": "https://open.spotify.com/track/63RzvenZVE11IS6QgWsPsu"
+      "duration_ms": 143673,
+      "name": "GENERAL FINESSE FREESTYLE",
+      "url": "https://open.spotify.com/track/5NgnOkOSKphYngPzkx4wlQ"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "Tentation (feat. Hamza)",
+        "url": "https://open.spotify.com/album/33Cvwo6OSmVMtrEwnvsTdP"
+      },
+      "artists": [
+        {
+          "name": "Gambi",
+          "url": "https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ"
+        },
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        }
+      ],
+      "duration_ms": 175787,
+      "name": "Tentation (feat. Hamza)",
+      "url": "https://open.spotify.com/track/2kpahpZlkZF8I2yFR65CIC"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "Cardinal",
+        "url": "https://open.spotify.com/album/2LxxBrPPkW6lefOLdGctwU"
+      },
+      "artists": [
+        {
+          "name": "Avec pas d'casque",
+          "url": "https://open.spotify.com/artist/2B8PoAfMwmcONoQTgiLzgn"
+        }
+      ],
+      "duration_ms": 293845,
+      "name": "D'autres messages suivront",
+      "url": "https://open.spotify.com/track/0VFezAcx9HvnK6yE9YosWi"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "SD Night",
+        "url": "https://open.spotify.com/album/4hQDYoPdi19Fkd0BJPLhp6"
+      },
+      "artists": [
+        {
+          "name": "VEN1",
+          "url": "https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL"
+        }
+      ],
+      "duration_ms": 182535,
+      "name": "SD Night",
+      "url": "https://open.spotify.com/track/7E8RJY17lUK5W7J1TDFd6z"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "Rien \u00e0 faire",
+        "url": "https://open.spotify.com/album/4obt9KgWaycDfNnJRK3YK1"
+      },
+      "artists": [
+        {
+          "name": "Meghan Oak",
+          "url": "https://open.spotify.com/artist/0zcVg1Jym2sknaMn46kO2k"
+        }
+      ],
+      "duration_ms": 161454,
+      "name": "Rien \u00e0 faire",
+      "url": "https://open.spotify.com/track/2tMeCDzkF5NRfU4UFL25ru"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "911",
+        "url": "https://open.spotify.com/album/67f3PjH1D4jG9wNHaVi7vv"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        },
+        {
+          "name": "Koba LaD",
+          "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
+        }
+      ],
+      "duration_ms": 261021,
+      "name": "911",
+      "url": "https://open.spotify.com/track/567I1pGlfAQUfHTMHbH6qj"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "Club Story",
+        "url": "https://open.spotify.com/album/4hXyiCoTVRpFD1PDtaYjac"
+      },
+      "artists": [
+        {
+          "name": "Malko",
+          "url": "https://open.spotify.com/artist/501Uzli8ksZoUEWZj8uKJI"
+        }
+      ],
+      "duration_ms": 136186,
+      "name": "Club Story",
+      "url": "https://open.spotify.com/track/3cMJgBX1cFE9Mpfum5KxCR"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "T.I.A - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/5bZnJCwm9vRanQPpGbMW5B"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "T.I.A - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/1CBcqxqfrImhinNsC08sej"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "Pas fa\u00e7on de tomber",
+        "url": "https://open.spotify.com/album/5k7WHFovFKPBKA78p32VLn"
+      },
+      "artists": [
+        {
+          "name": "Les Hay Babies",
+          "url": "https://open.spotify.com/artist/19MYB7a3GOTcbnZrl7juwx"
+        }
+      ],
+      "duration_ms": 207086,
+      "name": "Pas fa\u00e7on de tomber",
+      "url": "https://open.spotify.com/track/79AA3tDeVnI0EVc3TZCOV2"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "Vanilla",
+        "url": "https://open.spotify.com/album/7CEAbEtewQUsHHRbGsuIvL"
+      },
+      "artists": [
+        {
+          "name": "VEN1",
+          "url": "https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL"
+        },
+        {
+          "name": "Ramos.",
+          "url": "https://open.spotify.com/artist/5xfBWklmIwTOoijr3nMgHB"
+        }
+      ],
+      "duration_ms": 187810,
+      "name": "Vanilla",
+      "url": "https://open.spotify.com/track/71vWRlfHefIMtoDnUPtXcf"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "D.O.U.X",
+        "url": "https://open.spotify.com/album/0SQpyQBquvWkA8cHU2kdxv"
+      },
+      "artists": [
+        {
+          "name": "Joseph Boonen",
+          "url": "https://open.spotify.com/artist/75yQ1VHbMDt2zo4HAuO4GG"
+        }
+      ],
+      "duration_ms": 240653,
+      "name": "Tangible",
+      "url": "https://open.spotify.com/track/0tbHNrfv5BgdGYhOSZqHWQ"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
       "album": {
         "name": "D&D",
         "url": "https://open.spotify.com/album/7EznJ3BjBGXxRgNSC6n610"
@@ -301,7 +369,23 @@
       "url": "https://open.spotify.com/track/5Os3fdIL2QS2e1r6JzMrjQ"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "La peur est une fleur",
+        "url": "https://open.spotify.com/album/55e9SLoKU8ENxvtO3CVmzt"
+      },
+      "artists": [
+        {
+          "name": "Lo\u00efc Lafrance",
+          "url": "https://open.spotify.com/artist/68zsBMMCbmXplV5pBArgwI"
+        }
+      ],
+      "duration_ms": 184993,
+      "name": "Ad\u00e9la\u00efde",
+      "url": "https://open.spotify.com/track/3BqfWNtzt4miHR7qPAZC7J"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
       "album": {
         "name": "Allez (feat. PLK & Naps)",
         "url": "https://open.spotify.com/album/0wMCJ6INLI8ssVC5x3azVU"
@@ -325,47 +409,23 @@
       "url": "https://open.spotify.com/track/50XM4fyredImTQ4NLGaggW"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-13 04:01:00",
       "album": {
-        "name": "Coco (feat. Tayc)",
-        "url": "https://open.spotify.com/album/5hGsaXtfKcheS0r0AzMhgi"
+        "name": "Ma troisi\u00e8me \u00e9mergence",
+        "url": "https://open.spotify.com/album/3l9QxiSz1SmiLP75WFaNoJ"
       },
       "artists": [
         {
-          "name": "Guy2Bezbar",
-          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
-        },
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+          "name": "Larynx",
+          "url": "https://open.spotify.com/artist/3xNTgfmlR42FlHCAnFkUac"
         }
       ],
-      "duration_ms": 198440,
-      "name": "Coco (feat. Tayc)",
-      "url": "https://open.spotify.com/track/6MG8MRq1odNsWCasM9IehW"
+      "duration_ms": 199578,
+      "name": "Y sont o\u00f9?",
+      "url": "https://open.spotify.com/track/09AMnBNrghJWWwme6N04vK"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Vanilla",
-        "url": "https://open.spotify.com/album/7CEAbEtewQUsHHRbGsuIvL"
-      },
-      "artists": [
-        {
-          "name": "VEN1",
-          "url": "https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL"
-        },
-        {
-          "name": "Ramos.",
-          "url": "https://open.spotify.com/artist/5xfBWklmIwTOoijr3nMgHB"
-        }
-      ],
-      "duration_ms": 187810,
-      "name": "Vanilla",
-      "url": "https://open.spotify.com/track/71vWRlfHefIMtoDnUPtXcf"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-13 04:01:00",
       "album": {
         "name": "Tout y est",
         "url": "https://open.spotify.com/album/245xn3XplCs6PHCiBk3dBU"
@@ -389,27 +449,59 @@
       "url": "https://open.spotify.com/track/1W2zRAejDGNLqtqXpcrhVw"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-13 04:01:00",
       "album": {
-        "name": "Rom\u00e9o",
-        "url": "https://open.spotify.com/album/2G1S5u90hxevr1krTQHtaq"
+        "name": "J'ai le coeur chaud",
+        "url": "https://open.spotify.com/album/68WsThCderiLAOdZLcBEqY"
       },
       "artists": [
         {
-          "name": "L'Alg\u00e9rino",
-          "url": "https://open.spotify.com/artist/7kyIBL1EYouLqC8vw7IOui"
-        },
-        {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+          "name": "Dany Placard",
+          "url": "https://open.spotify.com/artist/5sjde1NFxsXN9EjZyMbhHp"
         }
       ],
-      "duration_ms": 192256,
-      "name": "Rom\u00e9o",
-      "url": "https://open.spotify.com/track/4bKCPRuTMaPTrj3TPisFu4"
+      "duration_ms": 164098,
+      "name": "J'ai le coeur chaud",
+      "url": "https://open.spotify.com/track/4dvds4Du1WMVGcAEs5wfvH"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "Coco (feat. Tayc)",
+        "url": "https://open.spotify.com/album/5hGsaXtfKcheS0r0AzMhgi"
+      },
+      "artists": [
+        {
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+        },
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 198440,
+      "name": "Coco (feat. Tayc)",
+      "url": "https://open.spotify.com/track/6MG8MRq1odNsWCasM9IehW"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "PMB",
+        "url": "https://open.spotify.com/album/5Owi9NDncheOTdi3iID5UJ"
+      },
+      "artists": [
+        {
+          "name": "Minou",
+          "url": "https://open.spotify.com/artist/468dk8gLCBl8Hwobfg4PZM"
+        }
+      ],
+      "duration_ms": 202377,
+      "name": "PMB",
+      "url": "https://open.spotify.com/track/1WjhTlug9Y1GbBtZ8mp4En"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
       "album": {
         "name": "LA M\u00caME HISTOIRE",
         "url": "https://open.spotify.com/album/1q67Fv3Ccr8yAOrtVD7F7U"
@@ -425,43 +517,23 @@
       "url": "https://open.spotify.com/track/6I6nQIBRYlQLMT58liSyWI"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-13 04:01:00",
       "album": {
-        "name": "MAMACITA",
-        "url": "https://open.spotify.com/album/4ZhmFglWYBzjI1hxNsjUPN"
+        "name": "Enfantillages",
+        "url": "https://open.spotify.com/album/3cIy7Ln781oy80QnaHk3Jt"
       },
       "artists": [
         {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+          "name": "Erwan",
+          "url": "https://open.spotify.com/artist/3uWhb8ADEysVQ5IRoFfAcH"
         }
       ],
-      "duration_ms": 188571,
-      "name": "MAMACITA",
-      "url": "https://open.spotify.com/track/3qxnil0JyAWGS3vWxJyXEi"
+      "duration_ms": 197000,
+      "name": "Les m\u00eames d\u00e9tours",
+      "url": "https://open.spotify.com/track/6iX6iXjPkmQVFNtoxA9lMh"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "La pluie",
-        "url": "https://open.spotify.com/album/13N4j77R6XsNHGwwtl6npd"
-      },
-      "artists": [
-        {
-          "name": "Louane",
-          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
-        }
-      ],
-      "duration_ms": 161375,
-      "name": "La pluie",
-      "url": "https://open.spotify.com/track/1xNEjz5Wfhb5ApOMN0Xr8Q"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-13 04:01:00",
       "album": {
         "name": "Sous le soleil",
         "url": "https://open.spotify.com/album/1Q3iOExyyGqxZz8Hs0UKAe"
@@ -521,39 +593,7 @@
       "url": "https://open.spotify.com/track/5lBaUzRFuCMtwZW522uQ7c"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "H\u00c9H\u00c9 H\u00c9",
-        "url": "https://open.spotify.com/album/5Ja9Da9rK2h6NwaMSe9Eor"
-      },
-      "artists": [
-        {
-          "name": "Gambi",
-          "url": "https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ"
-        }
-      ],
-      "duration_ms": 138326,
-      "name": "H\u00c9H\u00c9 H\u00c9",
-      "url": "https://open.spotify.com/track/1C4PROiF5jENfbksRBTTqD"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Un peu d'amour",
-        "url": "https://open.spotify.com/album/0eUrSSgOBnidKw4sviTK7x"
-      },
-      "artists": [
-        {
-          "name": "Koba LaD",
-          "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
-        }
-      ],
-      "duration_ms": 183203,
-      "name": "Un peu d'amour",
-      "url": "https://open.spotify.com/track/2S8Mp8yS3W4tDlxpj0sCbY"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-13 04:01:00",
       "album": {
         "name": "Si seulement...",
         "url": "https://open.spotify.com/album/2HCm7GfuJdM5wrhpkosFV2"
@@ -569,7 +609,23 @@
       "url": "https://open.spotify.com/track/26h53EWKImRbyo9vO6FB59"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "H\u00c9H\u00c9 H\u00c9",
+        "url": "https://open.spotify.com/album/5Ja9Da9rK2h6NwaMSe9Eor"
+      },
+      "artists": [
+        {
+          "name": "Gambi",
+          "url": "https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ"
+        }
+      ],
+      "duration_ms": 138326,
+      "name": "H\u00c9H\u00c9 H\u00c9",
+      "url": "https://open.spotify.com/track/1C4PROiF5jENfbksRBTTqD"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
       "album": {
         "name": "Par nous-m\u00eames",
         "url": "https://open.spotify.com/album/2X5USMHX1pApuSt0JIRrjA"
@@ -585,7 +641,7 @@
       "url": "https://open.spotify.com/track/08a2Ve5gCAmvSomD1m2DJB"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-13 04:01:00",
       "album": {
         "name": "Ah ahah",
         "url": "https://open.spotify.com/album/5s48YxF4E2bOlA4xWg8Bjn"
@@ -605,7 +661,7 @@
       "url": "https://open.spotify.com/track/0BidF0EwXUq4H5NUf7RCZN"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-13 04:01:00",
       "album": {
         "name": "Maylin",
         "url": "https://open.spotify.com/album/1HsirZCHLxa72qcUu5PWW0"
@@ -621,7 +677,7 @@
       "url": "https://open.spotify.com/track/1xUafVKc4f8jZYX4SM0pMs"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-13 04:01:00",
       "album": {
         "name": "Quitter",
         "url": "https://open.spotify.com/album/6AGfhoKxs2aYIiEG8H2YYf"
@@ -641,7 +697,7 @@
       "url": "https://open.spotify.com/track/0WQgUaSYbrtMAXGcQaZu1u"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-13 04:01:00",
       "album": {
         "name": "Bazar",
         "url": "https://open.spotify.com/album/1N9W4DaURi0lQYOM7DpsDW"
@@ -657,7 +713,7 @@
       "url": "https://open.spotify.com/track/4khrqV7xYJWCk0sesxhtwt"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-13 04:01:00",
       "album": {
         "name": "Vroum Vroum",
         "url": "https://open.spotify.com/album/1UBdCuKWPC60U1WTp64Loh"
@@ -681,7 +737,7 @@
       "url": "https://open.spotify.com/track/01WDr6maI3v16UgrFsR9y5"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-13 04:01:00",
       "album": {
         "name": "SHAKE",
         "url": "https://open.spotify.com/album/7j1MZzsUfCGSXItWOy8X1x"
@@ -697,7 +753,7 @@
       "url": "https://open.spotify.com/track/5i0rsI0ih8V4pgY6J3MsHT"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-13 04:01:00",
       "album": {
         "name": "Briller",
         "url": "https://open.spotify.com/album/3FgRHkmNzBFV66oTNOiTvS"
@@ -713,43 +769,7 @@
       "url": "https://open.spotify.com/track/08vI6Y72g0Zkd6SeezUKHy"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Play",
-        "url": "https://open.spotify.com/album/535W2Yy9YCZeKqefhEMyM0"
-      },
-      "artists": [
-        {
-          "name": "Kerchak",
-          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
-        }
-      ],
-      "duration_ms": 208645,
-      "name": "Play",
-      "url": "https://open.spotify.com/track/3aLBTbiSEgxDPn3FvVghCD"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "VICE CITY",
-        "url": "https://open.spotify.com/album/7dww12XouIt2bytCWNRoBp"
-      },
-      "artists": [
-        {
-          "name": "Sasso",
-          "url": "https://open.spotify.com/artist/35B6bq5keTR1PYEahq1TAF"
-        },
-        {
-          "name": "Timal",
-          "url": "https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi"
-        }
-      ],
-      "duration_ms": 162406,
-      "name": "Bandito",
-      "url": "https://open.spotify.com/track/3H6npmJown5S3sDn3cbWDh"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-13 04:01:00",
       "album": {
         "name": "Mandat de D\u00e9p\u00f4t",
         "url": "https://open.spotify.com/album/6vWnDLWxNcec0YrMa5Xn1L"
@@ -765,23 +785,7 @@
       "url": "https://open.spotify.com/track/1u5Knq7qXW8A8tXoFe25xE"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Honeymoon",
-        "url": "https://open.spotify.com/album/5LtjW9e7zu1KvIGQiuuDo0"
-      },
-      "artists": [
-        {
-          "name": "B.B. Jacques",
-          "url": "https://open.spotify.com/artist/3Op4g1wmQJxGTmeFSQ8z52"
-        }
-      ],
-      "duration_ms": 161377,
-      "name": "Rayol",
-      "url": "https://open.spotify.com/track/3If2Z0wH9FM1EBW2xQfEM2"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-13 04:01:00",
       "album": {
         "name": "Chor\u00e9",
         "url": "https://open.spotify.com/album/2RRwrVWsZeNCTq6y3ORp20"
@@ -797,43 +801,23 @@
       "url": "https://open.spotify.com/track/2J6iYDncej8Z1vOiisz7zN"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-13 04:01:00",
       "album": {
-        "name": "IDENTIT\u00c9",
-        "url": "https://open.spotify.com/album/1lvkzsrpDy7LWSYGDKCk6X"
+        "name": "Honeymoon",
+        "url": "https://open.spotify.com/album/5LtjW9e7zu1KvIGQiuuDo0"
       },
       "artists": [
         {
-          "name": "Merveille",
-          "url": "https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8"
+          "name": "B.B. Jacques",
+          "url": "https://open.spotify.com/artist/3Op4g1wmQJxGTmeFSQ8z52"
         }
       ],
-      "duration_ms": 171236,
-      "name": "Dans ma t\u00eate",
-      "url": "https://open.spotify.com/track/4xRRSPrUQmxcvtPuRQmqzN"
+      "duration_ms": 161377,
+      "name": "Rayol",
+      "url": "https://open.spotify.com/track/3If2Z0wH9FM1EBW2xQfEM2"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "A la bien mix party - 10 ans apr\u00e8s",
-        "url": "https://open.spotify.com/album/1LWkPHi9tZSJ0qhJxPGlQx"
-      },
-      "artists": [
-        {
-          "name": "DJ Hamida",
-          "url": "https://open.spotify.com/artist/4xTiWBThjZgo1uZn1WpZm3"
-        },
-        {
-          "name": "Lossa",
-          "url": "https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE"
-        }
-      ],
-      "duration_ms": 183813,
-      "name": "AH T'ES DANS CA",
-      "url": "https://open.spotify.com/track/15OupWjVaBE60ctMTJaheW"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-13 04:01:00",
       "album": {
         "name": "OT",
         "url": "https://open.spotify.com/album/3wytoILhB40hHwR1PFSL94"
@@ -853,7 +837,39 @@
       "url": "https://open.spotify.com/track/76rRiFvribZwYZZplhYnWv"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "Cr\u00e8vecoeur (EP.I)",
+        "url": "https://open.spotify.com/album/3Wfhc1AVsVNBIm6xH3OV9w"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00e8le Castillon",
+          "url": "https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0"
+        }
+      ],
+      "duration_ms": 162346,
+      "name": "\u00c0 la folie",
+      "url": "https://open.spotify.com/track/4cz2iE5LTbWykMKJ7m07XL"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "Compl\u00e9mentaires",
+        "url": "https://open.spotify.com/album/5D06Ps9NI6YjURP8W81xde"
+      },
+      "artists": [
+        {
+          "name": "Amir",
+          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
+        }
+      ],
+      "duration_ms": 192120,
+      "name": "Compl\u00e9mentaires",
+      "url": "https://open.spotify.com/track/0Td2ZM1GoIj8SJ3IITcehD"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
       "album": {
         "name": "killa",
         "url": "https://open.spotify.com/album/0Z67jZ23bypOD4ZpuOlriu"
@@ -873,23 +889,7 @@
       "url": "https://open.spotify.com/track/6SHYeNSIkCXZy5m6pvFXkV"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Compl\u00e9mentaires",
-        "url": "https://open.spotify.com/album/5D06Ps9NI6YjURP8W81xde"
-      },
-      "artists": [
-        {
-          "name": "Amir",
-          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
-        }
-      ],
-      "duration_ms": 192120,
-      "name": "Compl\u00e9mentaires",
-      "url": "https://open.spotify.com/track/0Td2ZM1GoIj8SJ3IITcehD"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-13 04:01:00",
       "album": {
         "name": "7 Vie L\u00e0",
         "url": "https://open.spotify.com/album/3Qhf6BHKSsd1VZlBKOcgK9"
@@ -909,27 +909,7 @@
       "url": "https://open.spotify.com/track/02PPZbednkOxP4Q3qpuOHN"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Charlotte",
-        "url": "https://open.spotify.com/album/33CQFVIhZgyZYSuwxB2so9"
-      },
-      "artists": [
-        {
-          "name": "Vitaa",
-          "url": "https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht"
-        },
-        {
-          "name": "Alonzo",
-          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
-        }
-      ],
-      "duration_ms": 180827,
-      "name": "LORO PIANA",
-      "url": "https://open.spotify.com/track/5CJmBOAgae1IAiWiyvtezR"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-13 04:01:00",
       "album": {
         "name": "Nouvelle vie",
         "url": "https://open.spotify.com/album/5KQCORt6AmV9VcZYYfTWVL"
@@ -945,7 +925,7 @@
       "url": "https://open.spotify.com/track/4nXsx2uiPr0fOYRLa6xB52"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-13 04:01:00",
       "album": {
         "name": "X-ADV",
         "url": "https://open.spotify.com/album/681VCnep9IPSH0fi7bqEdn"

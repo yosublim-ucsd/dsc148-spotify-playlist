@@ -4,7 +4,7 @@
 
 > Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Marcelo Tofani, Marina Sena
 
-827 songs - 1 day 17 hr 34 min
+828 songs - 1 day 17 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -458,7 +458,7 @@
 | [Money](https://open.spotify.com/track/1PuQBTDZ6WntifoXDrUXRg) | [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV), [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q) | [Money](https://open.spotify.com/album/0kyF3h3e7qehQbJEDLuhHq) | 2:19 | 2020-10-20 | 2022-07-29 |
 | [Money In The Grave \(Drake ft\. Rick Ross\)](https://open.spotify.com/track/5ry2OE6R2zPQFDO85XkgRb) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [The Best In The World Pack](https://open.spotify.com/album/00HZxSA1sOS9T3nA950sg4) | 3:25 | 2020-10-20 | 2023-02-15 |
 | [Monstrão](https://open.spotify.com/track/2LZjtOXWZMSpRbQyd89HyQ) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Monstrão](https://open.spotify.com/album/0i0UyaiLEhUGQQT65177hS) | 2:07 | 2023-11-10 | 2024-06-01 |
-| [Motoka](https://open.spotify.com/track/0NoOGci3olHyTPAPUfR0Bn) | [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L), [Jhayam](https://open.spotify.com/artist/4Ekm84CINBTMHbhVJXh16I) | [Motoka](https://open.spotify.com/album/6wCyXnbVXPD8K003F0LN7o) | 2:35 | 2024-08-16 |  |
+| [Motoka](https://open.spotify.com/track/0NoOGci3olHyTPAPUfR0Bn) | [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L), [Jhayam](https://open.spotify.com/artist/4Ekm84CINBTMHbhVJXh16I) | [Motoka](https://open.spotify.com/album/6wCyXnbVXPD8K003F0LN7o) | 2:35 | 2024-08-16 | 2024-09-14 |
 | [Movimento](https://open.spotify.com/track/1ZjeSBSlwwddWUTa982kBA) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [O Líder em Movimento](https://open.spotify.com/album/5YcCaIe5wa22O3vZsX0od5) | 3:35 | 2020-10-20 | 2022-07-26 |
 | [MUITA BAD pouca idade](https://open.spotify.com/track/459PsIi4TO1buNPxyuTWa4) | [Mariah Nala](https://open.spotify.com/artist/3R6G1zji15XrM717bIMqEC) | [MUITA BAD pouca idade](https://open.spotify.com/album/4l9naBe0iq14BJEmi2ItLw) | 3:08 | 2023-02-14 | 2023-08-19 |
 | [Mulher Profissional](https://open.spotify.com/track/1j23qyRYsRT1tf1NnvnqOw) | [Rennan da Penha](https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf), [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3) | [Mulher Profissional](https://open.spotify.com/album/2jrWnkDFQzJHlHPC03WUnJ) | 2:29 | 2024-09-06 |  |
@@ -479,6 +479,7 @@
 | [ne\-yo](https://open.spotify.com/track/5h2lBg0mULQ6s60TqebwT5) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Dois](https://open.spotify.com/album/5NRBahRXTDabcbEVvCGtAm) | 2:22 | 2023-11-10 | 2024-02-17 |
 | [Needed Me](https://open.spotify.com/track/4pAl7FkDMNBsjykPXo91B3) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:11 | 2020-10-20 | 2023-02-15 |
 | [Nem Me Beijou](https://open.spotify.com/track/3b6XOBJg8qql5u5qwnRXK5) | [Marvyn](https://open.spotify.com/artist/3XU1kxGF6EFSS0mcqMhkDU), [Naldo Benny](https://open.spotify.com/artist/4xnFkvb5Pk259qAXQ6yrYU), [BM Ally](https://open.spotify.com/artist/3SRpSeXuXx3FqwmOEV3gKE) | [Nem Me Beijou](https://open.spotify.com/album/1mKB7qlzATgaGbU1bq11if) | 3:13 | 2023-08-25 | 2023-10-14 |
+| [Nem Me Convidou](https://open.spotify.com/track/21e9s5DxDb1JepKDg0tsOC) | [Zero Pacceli](https://open.spotify.com/artist/62sKdgq98PB8klSTM8Qvaw), [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN), [Bié](https://open.spotify.com/artist/73RAtZuq0QHqk1iNuwQz8m) | [Nem Me Convidou](https://open.spotify.com/album/55TjH29MJyGdJ9K62fMqyz) | 2:07 | 2024-09-13 |  |
 | [Nem Sei Fingir](https://open.spotify.com/track/4G9gWLcVflZjv56Fp8SKnP) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Nem Sei Fingir](https://open.spotify.com/album/0DDKZ9qObSoNiA4qAkuiEh) | 2:56 | 2024-01-19 | 2024-08-24 |
 | [Nenhuma Outra Mulher](https://open.spotify.com/track/1lFeq37jm49qbR95O2pbGt) | [Marô](https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u) | [Nenhuma Outra Mulher](https://open.spotify.com/album/0CNqE0OVWuB1Bsk4KT7l7n) | 2:27 | 2023-07-07 | 2023-09-16 |
 | [NFL \(feat\. Gudda Gudda & HoodyBaby\)](https://open.spotify.com/track/3D9G7MPDU48r91YRCYeVRI) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Gudda Gudda](https://open.spotify.com/artist/7s47glsDg6fwq9KXNTsTpa), [Hoodybaby](https://open.spotify.com/artist/13lxs5lLGCBMyGLfmtfLEK) | [NFL](https://open.spotify.com/album/7DBAcWoFguEGBzypRXbMyA) | 3:30 | 2020-10-20 | 2022-05-19 |

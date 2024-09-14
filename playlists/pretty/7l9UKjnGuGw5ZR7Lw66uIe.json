@@ -1,13 +1,29 @@
 {
   "description": "",
-  "num_followers": 91,
+  "num_followers": 92,
   "original_name": "Works by Mert \u00c7odur ",
   "owner": {
     "name": "Mert \u00c7odur",
     "url": "https://open.spotify.com/user/mertcodur"
   },
-  "snapshot_id": "AAAAYP51FK8wX3LWEX0cWyKoOhu1m1j6",
+  "snapshot_id": "AAAAYrdyNyckR7cl0IJTUyCdAxXj3wCo",
   "tracks": [
+    {
+      "added_at": "2024-09-13 09:42:13",
+      "album": {
+        "name": "yaz\u0131k ettin",
+        "url": "https://open.spotify.com/album/3nXqsbUDmDkTv0dXsvBzNF"
+      },
+      "artists": [
+        {
+          "name": "Mert \u00c7odur",
+          "url": "https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg"
+        }
+      ],
+      "duration_ms": 170224,
+      "name": "yaz\u0131k ettin",
+      "url": "https://open.spotify.com/track/2bdngNxumON7IUnZe6Wada"
+    },
     {
       "added_at": "2024-08-02 06:16:39",
       "album": {

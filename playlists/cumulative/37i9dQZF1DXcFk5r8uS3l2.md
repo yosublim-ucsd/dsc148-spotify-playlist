@@ -4,7 +4,7 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Ruthie Foster
 
-399 songs - 1 day 1 hr 3 min
+400 songs - 1 day 1 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Black Holes and Overdoses](https://open.spotify.com/track/7dSrCmvxIwowO6V30kIWg6) | [The Suitcase Junket](https://open.spotify.com/artist/7Iew8GtdYcaznLxIJpJxeS) | [Black Holes and Overdoses](https://open.spotify.com/album/12bknsFQe4EJbp0JSnQb7y) | 3:13 | 2021-12-17 | 2022-06-11 |
 | [Black Myself](https://open.spotify.com/track/2rQVexxmI985m2iefLfhbm) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Black Myself](https://open.spotify.com/album/78BmKxgvj4rGwoqnT3Q4Tz) | 3:21 | 2021-12-17 | 2022-07-29 |
 | [Black Sun](https://open.spotify.com/track/63UtBlg0KZZYueVi6r8DQp) | [Irma](https://open.spotify.com/artist/7KTLYKJhcUOMgNgayxBj9f) | [Black Sun](https://open.spotify.com/album/6b7USoPQHOlfaelSrPPVo9) | 3:26 | 2021-12-17 | 2022-07-08 |
-| [Black Widow](https://open.spotify.com/track/4DWr9jdFuoELQ06HLCnGeJ) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Black Widow](https://open.spotify.com/album/1dUzfaYpBcr4s8yCg8IpYD) | 2:50 | 2022-07-15 |  |
+| [Black Widow](https://open.spotify.com/track/4DWr9jdFuoELQ06HLCnGeJ) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Black Widow](https://open.spotify.com/album/1dUzfaYpBcr4s8yCg8IpYD) | 2:50 | 2022-07-15 | 2024-09-14 |
 | [Black Widow](https://open.spotify.com/track/4ZatCCisvqrcIWx2Kshb33) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Denim & Diamonds](https://open.spotify.com/album/6RqohXVE3YRsRbaS9sm5G2) | 2:50 | 2023-10-06 | 2024-04-19 |
 | [Blank Page](https://open.spotify.com/track/4JsWbDG96EO5ddZLERXoj5) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Blank Page](https://open.spotify.com/album/4gYrYFOyGDWQWw7payBfjX) | 5:35 | 2022-11-11 | 2023-03-11 |
 | [Border](https://open.spotify.com/track/4rGnfA4SP3xkvdk6cxqwWl) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [May Your Kindness Remain](https://open.spotify.com/album/1U8907wmzKNgvDEW3mk21S) | 3:55 | 2021-12-17 | 2022-04-16 |
@@ -94,6 +94,7 @@
 | [Don't Let the Devil Ride](https://open.spotify.com/track/5RUJ4EFMAaWdtvso1j8kLT) | [Leo "Bud" Welch](https://open.spotify.com/artist/5UWSCmjMiTImIru9iAvNFd) | [The Angels in Heaven Done Signed My Name](https://open.spotify.com/album/5qiokBP05cRxwpCLqocWn7) | 2:45 | 2021-12-17 | 2022-07-29 |
 | [Don't Let The Devil Ride](https://open.spotify.com/track/5ZwVWdXaJSMnqduVaDXKrn) | [Leo "Bud" Welch](https://open.spotify.com/artist/5UWSCmjMiTImIru9iAvNFd) | [The Angels In Heaven Done Signed My Name](https://open.spotify.com/album/1NJxrv2i8o2eOuRHS6kRxa) | 2:45 | 2022-01-28 | 2024-03-23 |
 | [Down to the River](https://open.spotify.com/track/0tVw6rUAUI0w01PN9FQeyD) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Down to the River](https://open.spotify.com/album/3JiILntTtRreadH6W8ftB2) | 3:51 | 2021-12-17 | 2023-01-13 |
+| [Drifting \(feat\. Marcus King\)](https://open.spotify.com/track/1zg7rKOGtM0TAXA4jC8U2Q) | [Alain Apaloo](https://open.spotify.com/artist/3q8l8BcNjXxBaUP204OgX2), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Naked](https://open.spotify.com/album/0Skl6by8nLaYc2GnRUqJoa) | 4:15 | 2024-09-13 |  |
 | [Eastham Prison Farm Blues \- Stripped Back](https://open.spotify.com/track/749IyqWQSErX4dT4pmcDOH) | [Liam St\. John](https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx) | [stripped back](https://open.spotify.com/album/2SJZOQy7R0fEgMRtexjZL3) | 3:00 | 2022-06-17 | 2023-02-25 |
 | [Empire State Express](https://open.spotify.com/track/3eT162kkfyBYC5EjmupvSG) | [Son House](https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda) | [Empire State Express](https://open.spotify.com/album/2DMWrcLl3inqFygxUFnpkh) | 4:30 | 2022-01-28 | 2023-03-11 |
 | [Empty Me Out](https://open.spotify.com/track/3xEx3xxA06MuO4SGZ4jrkV) | [Liz Vice](https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx) | [There's a Light](https://open.spotify.com/album/7kOkk55lZ5AHyiv58OaCJ6) | 4:37 | 2021-12-17 | 2023-09-16 |

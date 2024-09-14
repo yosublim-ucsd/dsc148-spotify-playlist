@@ -1,12 +1,12 @@
 {
   "description": "This is Luis Miguel. The essential tracks, all in one playlist.",
-  "num_followers": 2361647,
+  "num_followers": 2362322,
   "original_name": "This Is Luis Miguel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuDdgAAAAAAMw0Kk+fQHedrEGrDzzxIO",
+  "snapshot_id": "ZuIvAAAAAACshSwYvKi1SBe6cZTkXZKD",
   "tracks": [
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "C\u00f3mplices",
-        "url": "https://open.spotify.com/album/0PsSywVZE4qeOPBNiSj4Hz"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 233840,
-      "name": "Si t\u00fa te atreves",
-      "url": "https://open.spotify.com/track/4tljir1112UOLjqP2lXn4J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amarte Es Un Placer",
         "url": "https://open.spotify.com/album/59hPa94rgOLoOBKHz98i7n"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 211760,
       "name": "Amarte es un placer",
       "url": "https://open.spotify.com/track/4lQWZGUrquRfH9se6nlmp3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "C\u00f3mplices",
+        "url": "https://open.spotify.com/album/0PsSywVZE4qeOPBNiSj4Hz"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 233840,
+      "name": "Si t\u00fa te atreves",
+      "url": "https://open.spotify.com/track/4tljir1112UOLjqP2lXn4J"
     },
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soy Como Quiero Ser",
-        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
+        "name": "Romances",
+        "url": "https://open.spotify.com/album/3OdgRM6jaoh8Q1Nu3BnheU"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 236413,
-      "name": "Cuando Calienta El Sol",
-      "url": "https://open.spotify.com/track/3hVaK0zn3sVWWY8TvN1Te5"
+      "duration_ms": 185040,
+      "name": "Sabor a Mi",
+      "url": "https://open.spotify.com/track/68zSzKkU28AfZvr5FkAUWT"
     },
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Romances",
-        "url": "https://open.spotify.com/album/3OdgRM6jaoh8Q1Nu3BnheU"
+        "name": "Soy Como Quiero Ser",
+        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 185040,
-      "name": "Sabor a Mi",
-      "url": "https://open.spotify.com/track/68zSzKkU28AfZvr5FkAUWT"
+      "duration_ms": 236413,
+      "name": "Cuando Calienta El Sol",
+      "url": "https://open.spotify.com/track/3hVaK0zn3sVWWY8TvN1Te5"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Segundo Romance",
-        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
+        "name": "Mexico en la Piel (edicion diamante)",
+        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 234293,
-      "name": "Historia De Un Amor",
-      "url": "https://open.spotify.com/track/6av3uLAacGG7c9fjshWmuH"
+      "duration_ms": 209213,
+      "name": "M\u00e9xico En La Piel",
+      "url": "https://open.spotify.com/track/5BPq1UQa1NSN647R6IzD3n"
     },
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mexico en la Piel (edicion diamante)",
-        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
+        "name": "Segundo Romance",
+        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 209213,
-      "name": "M\u00e9xico En La Piel",
-      "url": "https://open.spotify.com/track/5BPq1UQa1NSN647R6IzD3n"
+      "duration_ms": 234293,
+      "name": "Historia De Un Amor",
+      "url": "https://open.spotify.com/track/6av3uLAacGG7c9fjshWmuH"
     },
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soy Como Quiero Ser",
-        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
+        "name": "\u00a1M\u00c9XICO Por Siempre!",
+        "url": "https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 211306,
-      "name": "Yo Que No Vivo Sin Ti",
-      "url": "https://open.spotify.com/track/5SnH7xubfdfvHomShSjiIe"
+      "duration_ms": 202160,
+      "name": "No discutamos",
+      "url": "https://open.spotify.com/track/4LOoLsXcPdAHzPwSznpq3Y"
     },
     {
       "added_at": null,
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00a1M\u00c9XICO Por Siempre!",
-        "url": "https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche"
+        "name": "Soy Como Quiero Ser",
+        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 202160,
-      "name": "No discutamos",
-      "url": "https://open.spotify.com/track/4LOoLsXcPdAHzPwSznpq3Y"
+      "duration_ms": 211306,
+      "name": "Yo Que No Vivo Sin Ti",
+      "url": "https://open.spotify.com/track/5SnH7xubfdfvHomShSjiIe"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-08-10",
-  "description": "This is Karl Jenkins. The essential tracks, all in one playlist.",
+  "description": "This Is Karl Jenkins. Los temas esenciales, todos en una lista.",
   "name": "This Is Karl Jenkins",
   "tracks": [
     {
@@ -1078,7 +1078,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-06",
+      "date_removed": null,
       "duration_ms": 188333,
       "name": "Requiem: Pie Jesu",
       "url": "https://open.spotify.com/track/4VKxIHuFT2njess6gLOYaR"
@@ -1598,7 +1598,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 340360,
       "name": "Stravaganza: 2. Dreams & Drones",
       "url": "https://open.spotify.com/track/6bJfNsrfcILWqf3mapJmlx"

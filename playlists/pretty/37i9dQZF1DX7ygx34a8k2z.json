@@ -1,6 +1,6 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 239032,
+  "num_followers": 239232,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-09-04 15:37:25",
       "album": {
-        "name": "13",
-        "url": "https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 208266,
-      "name": "No Distance Left to Run",
-      "url": "https://open.spotify.com/track/0SaRvx9eYudSCQYNjuCQKX"
-    },
-    {
-      "added_at": "2024-09-04 15:37:25",
-      "album": {
         "name": "Whatever And Ever Amen (Remastered Edition)",
         "url": "https://open.spotify.com/album/3oz8kworUyU7oXjaEVhDsZ"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 271720,
       "name": "Brick",
       "url": "https://open.spotify.com/track/4jKq1e80xAYixkIwt6YyV1"
+    },
+    {
+      "added_at": "2024-09-04 15:37:25",
+      "album": {
+        "name": "13",
+        "url": "https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 208266,
+      "name": "No Distance Left to Run",
+      "url": "https://open.spotify.com/track/0SaRvx9eYudSCQYNjuCQKX"
     },
     {
       "added_at": "2024-09-04 15:37:25",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-09-04 15:37:25",
       "album": {
-        "name": "Elastica",
-        "url": "https://open.spotify.com/album/00MAXeszCotk3g9q8KYJlZ"
-      },
-      "artists": [
-        {
-          "name": "Elastica",
-          "url": "https://open.spotify.com/artist/3l14gV4hIMAjmo7KUvEWTx"
-        }
-      ],
-      "duration_ms": 142200,
-      "name": "Stutter",
-      "url": "https://open.spotify.com/track/3ZGQMBLN5qpkR6R5qEuuUm"
-    },
-    {
-      "added_at": "2024-09-04 15:37:25",
-      "album": {
         "name": "Coral Fang (PA Version)",
         "url": "https://open.spotify.com/album/23MOdUJkZlG971DVuEINMr"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 328226,
       "name": "The Hunger",
       "url": "https://open.spotify.com/track/7vUuOdabDtkAGRbdZGshsZ"
+    },
+    {
+      "added_at": "2024-09-04 15:37:25",
+      "album": {
+        "name": "Elastica",
+        "url": "https://open.spotify.com/album/00MAXeszCotk3g9q8KYJlZ"
+      },
+      "artists": [
+        {
+          "name": "Elastica",
+          "url": "https://open.spotify.com/artist/3l14gV4hIMAjmo7KUvEWTx"
+        }
+      ],
+      "duration_ms": 142200,
+      "name": "Stutter",
+      "url": "https://open.spotify.com/track/3ZGQMBLN5qpkR6R5qEuuUm"
     },
     {
       "added_at": "2024-09-04 15:37:25",

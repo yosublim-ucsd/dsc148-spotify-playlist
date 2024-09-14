@@ -1,15 +1,15 @@
 {
   "description": "The hottest tracks picked from the latest new releases in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP?si=KA9iV8BtSVC0dbIMeBMOYQ\">A-Reece</a>",
-  "num_followers": 99413,
+  "num_followers": 99647,
   "original_name": "New Music Friday South Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuOqZAAAAACD1Qfi3DIjvqv1HkwDZH3X",
+  "snapshot_id": "ZuQRwQAAAAA2zv/CcvOcNARw4JN/TNf9",
   "tracks": [
     {
-      "added_at": "2024-09-13 02:58:44",
+      "added_at": "2024-09-13 10:19:45",
       "album": {
         "name": "Kill The King: the mixtape",
         "url": "https://open.spotify.com/album/5XxghpaGYOjMYfaggN0g0t"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/6fhdHxw1hpcu61VYuLrCJS"
     },
     {
-      "added_at": "2024-09-13 02:58:44",
+      "added_at": "2024-09-13 10:19:45",
       "album": {
         "name": "20th: Days Before Maud",
         "url": "https://open.spotify.com/album/41wiN7FdTbfUJHbjaQW1YH"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/3H8XWGDteOl8nmUqeYrHw5"
     },
     {
-      "added_at": "2024-09-13 02:58:44",
+      "added_at": "2024-09-13 10:19:45",
       "album": {
         "name": "Lane Yam",
         "url": "https://open.spotify.com/album/28AZxEOZc6Tk7nAzecfuaY"
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/0nW9PrcihaknNnldmEx08O"
     },
     {
-      "added_at": "2024-09-13 02:58:44",
+      "added_at": "2024-09-13 10:19:45",
       "album": {
         "name": "The EEQualizer",
         "url": "https://open.spotify.com/album/59OalmK2yPw6B6PLgQdW3U"
@@ -105,7 +105,23 @@
       "url": "https://open.spotify.com/track/2R9umN6jc2EoVlIEegbWOT"
     },
     {
-      "added_at": "2024-09-13 02:58:44",
+      "added_at": "2024-09-13 10:19:45",
+      "album": {
+        "name": "Dancing In The Flames",
+        "url": "https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 220036,
+      "name": "Dancing In The Flames",
+      "url": "https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9"
+    },
+    {
+      "added_at": "2024-09-13 10:19:45",
       "album": {
         "name": "I'M HIS, HE'S MINE (feat. Doechii)",
         "url": "https://open.spotify.com/album/56ZRSnpSNktoMERdzBjdS3"
@@ -125,7 +141,7 @@
       "url": "https://open.spotify.com/track/3NPY62YGNoM3lALLaKWiFL"
     },
     {
-      "added_at": "2024-09-13 02:58:44",
+      "added_at": "2024-09-13 10:19:45",
       "album": {
         "name": "we can't be friends (wait for your love) - acoustic (live from jungle city studios)",
         "url": "https://open.spotify.com/album/65X8oNWJyq6abR094X1hlD"
@@ -141,7 +157,7 @@
       "url": "https://open.spotify.com/track/23itJEBZlued974YuPPLlq"
     },
     {
-      "added_at": "2024-09-13 02:58:44",
+      "added_at": "2024-09-13 10:19:45",
       "album": {
         "name": "Ngempela (feat. Kabza De Small & Murumba Pitch)",
         "url": "https://open.spotify.com/album/2BH6H5bOshAhXKMINLmTl3"
@@ -169,7 +185,7 @@
       "url": "https://open.spotify.com/track/4g6nSP9MfO770hD2t2hYUB"
     },
     {
-      "added_at": "2024-09-13 02:58:44",
+      "added_at": "2024-09-13 10:19:45",
       "album": {
         "name": "The Soul In Me",
         "url": "https://open.spotify.com/album/44UrjnpNoSRuepEQ7Kio2U"
@@ -205,7 +221,7 @@
       "url": "https://open.spotify.com/track/6SNiOyGFDK1fGQKqdRl1in"
     },
     {
-      "added_at": "2024-09-13 02:58:44",
+      "added_at": "2024-09-13 10:19:45",
       "album": {
         "name": "It's ok I'm ok",
         "url": "https://open.spotify.com/album/5qfivA7g2aAhAIPnSb0csp"
@@ -221,7 +237,27 @@
       "url": "https://open.spotify.com/track/24XihnoVPWXlKJ4BgXqjVM"
     },
     {
-      "added_at": "2024-09-13 02:58:44",
+      "added_at": "2024-09-13 10:19:45",
+      "album": {
+        "name": "FAR FETCHED (feat. Ty Dolla $ign)",
+        "url": "https://open.spotify.com/album/0Ss227Tev7vSTbFtTfIm3y"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 247580,
+      "name": "FAR FETCHED (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/5ZY1qGibLsa2xZm0XUe36g"
+    },
+    {
+      "added_at": "2024-09-13 10:19:45",
       "album": {
         "name": "Perspective: BLACK",
         "url": "https://open.spotify.com/album/12D5keYs0QO1oSQ49JskBh"
@@ -242,14 +278,42 @@
         {
           "name": "Khuli Chana",
           "url": "https://open.spotify.com/artist/4f2hVqzqXvQdVaC35D8sAc"
+        },
+        {
+          "name": "Mthunzi",
+          "url": "https://open.spotify.com/artist/2qixIA7qPFts4yN1Av017D"
         }
       ],
       "duration_ms": 176000,
-      "name": "SANGENA (feat. Yanga Chief, Lesole Monghxdi & Khuli Chana)",
+      "name": "SANGENA (feat. Yanga Chief, Lesole Monghxdi, Khuli Chana & Mthunzi)",
       "url": "https://open.spotify.com/track/2Dl1LskvQrLItLhBj4RphX"
     },
     {
-      "added_at": "2024-09-13 02:58:44",
+      "added_at": "2024-09-13 10:19:45",
+      "album": {
+        "name": "Don't Call Me",
+        "url": "https://open.spotify.com/album/2XtmdiXsql8tvSMoZElXoH"
+      },
+      "artists": [
+        {
+          "name": "Money Badoo",
+          "url": "https://open.spotify.com/artist/3RLZh7s3TdS5bL08ATw7Ba"
+        },
+        {
+          "name": "gTbeats",
+          "url": "https://open.spotify.com/artist/6pKCnodzo7zobRLSs2glZ0"
+        },
+        {
+          "name": "The Wood\u017a",
+          "url": "https://open.spotify.com/artist/1b4yg5JOwp7Dr4Ko0Jwol1"
+        }
+      ],
+      "duration_ms": 185894,
+      "name": "Don't Call Me",
+      "url": "https://open.spotify.com/track/6Xf3pd0dJdCMcAckqiy6RJ"
+    },
+    {
+      "added_at": "2024-09-13 10:19:45",
       "album": {
         "name": "Langazela (feat. Ami Faku & Mr. V-ntage)",
         "url": "https://open.spotify.com/album/3mDtfwGYbgyVSEswYfno7Q"
@@ -273,7 +337,7 @@
       "url": "https://open.spotify.com/track/2uhZSY6WdR40uiLGtXXmzT"
     },
     {
-      "added_at": "2024-09-13 02:58:44",
+      "added_at": "2024-09-13 10:19:45",
       "album": {
         "name": "Kshubile (feat. Scotts Maphuma & GoodGuy Styles)",
         "url": "https://open.spotify.com/album/51xo4KX2uPZaNEW3XVKAtr"
@@ -305,7 +369,7 @@
       "url": "https://open.spotify.com/track/58jEBxX0Vu6tloAxdOt07H"
     },
     {
-      "added_at": "2024-09-13 02:58:44",
+      "added_at": "2024-09-13 10:19:45",
       "album": {
         "name": "Nobody Knows",
         "url": "https://open.spotify.com/album/3P1k02barEAeTD5QeyV6oj"
@@ -321,7 +385,7 @@
       "url": "https://open.spotify.com/track/2d4Zg9Iupw6kJXVrQPERvh"
     },
     {
-      "added_at": "2024-09-13 02:58:44",
+      "added_at": "2024-09-13 10:19:45",
       "album": {
         "name": "Pointy Heights",
         "url": "https://open.spotify.com/album/7KonH0i4kmFvTrYbeIQts2"
@@ -337,7 +401,7 @@
       "url": "https://open.spotify.com/track/621IGHgSNd3ntx0NxdAw6E"
     },
     {
-      "added_at": "2024-09-13 02:58:44",
+      "added_at": "2024-09-13 10:19:45",
       "album": {
         "name": "Church On Sundayz",
         "url": "https://open.spotify.com/album/2AChy56MPKTPXlhdjpYfaR"
@@ -365,7 +429,7 @@
       "url": "https://open.spotify.com/track/7miQTf9PQBTj9enXXp3dk3"
     },
     {
-      "added_at": "2024-09-13 02:58:44",
+      "added_at": "2024-09-13 10:19:45",
       "album": {
         "name": "In My Dreams",
         "url": "https://open.spotify.com/album/5XSd8ZVFkVv0VsCznOA6Ia"
@@ -385,7 +449,7 @@
       "url": "https://open.spotify.com/track/0cs3wJc2hHHGHw13ZTYf5j"
     },
     {
-      "added_at": "2024-09-13 02:58:44",
+      "added_at": "2024-09-13 10:19:45",
       "album": {
         "name": "Go Again",
         "url": "https://open.spotify.com/album/1jKJdIhM3jhwjmvaNdy37y"
@@ -401,7 +465,7 @@
       "url": "https://open.spotify.com/track/65qwhJX5EsKzpCToo8dggS"
     },
     {
-      "added_at": "2024-09-13 02:58:44",
+      "added_at": "2024-09-13 10:19:45",
       "album": {
         "name": "BIG FUN - THUTO THE HUMAN & 2WOBUNNIES VS INNER CITY (FEAT. JAY MUSIC)",
         "url": "https://open.spotify.com/album/68DnMLu8TDXG6RwZ1AzfeK"
@@ -429,7 +493,7 @@
       "url": "https://open.spotify.com/track/3JlIWcL8I4XISGbkkVYhvV"
     },
     {
-      "added_at": "2024-09-13 02:58:44",
+      "added_at": "2024-09-13 10:19:45",
       "album": {
         "name": "Shaker Muchacha! (feat. Ice Beats Slide & Sbuda Maleather)",
         "url": "https://open.spotify.com/album/6F06Wp7atgs13jQASR88yk"
@@ -457,7 +521,7 @@
       "url": "https://open.spotify.com/track/7GC0N1wYnCjH1gLgtGHt21"
     },
     {
-      "added_at": "2024-09-13 02:58:44",
+      "added_at": "2024-09-13 10:19:45",
       "album": {
         "name": "Off White Rozay",
         "url": "https://open.spotify.com/album/18I4Bx1FCtAeb9uUvtOYia"
@@ -473,7 +537,7 @@
       "url": "https://open.spotify.com/track/4DDnNyzFo6KaIacYE7RP6p"
     },
     {
-      "added_at": "2024-09-13 02:58:44",
+      "added_at": "2024-09-13 10:19:45",
       "album": {
         "name": "TELL ME (feat. Chl\u00f6e)",
         "url": "https://open.spotify.com/album/7LS6PqmpJP8HTXgBFHTKYz"
@@ -493,7 +557,7 @@
       "url": "https://open.spotify.com/track/5SUYx8DCjFhdU9d9Qu4Vnf"
     },
     {
-      "added_at": "2024-09-13 02:58:44",
+      "added_at": "2024-09-13 10:19:45",
       "album": {
         "name": "Bad Dreams",
         "url": "https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR"
@@ -509,7 +573,7 @@
       "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
     },
     {
-      "added_at": "2024-09-13 02:58:44",
+      "added_at": "2024-09-13 10:19:45",
       "album": {
         "name": "I\u2019D MISS THE BIRDS",
         "url": "https://open.spotify.com/album/4HzZEBP0zL6DKUg85QtfkW"
@@ -525,7 +589,7 @@
       "url": "https://open.spotify.com/track/2uIsTZsypUTHzRunshIcNd"
     },
     {
-      "added_at": "2024-09-13 02:58:44",
+      "added_at": "2024-09-13 10:19:45",
       "album": {
         "name": "Nevermind.",
         "url": "https://open.spotify.com/album/0t6taWzRZOg3efBYpxanBb"
@@ -541,7 +605,7 @@
       "url": "https://open.spotify.com/track/5JJGSPcj4uX6JpdHUr3fAQ"
     },
     {
-      "added_at": "2024-09-13 02:58:44",
+      "added_at": "2024-09-13 10:19:45",
       "album": {
         "name": "Kyotic City",
         "url": "https://open.spotify.com/album/4bP5RlcK2OAMsNaFCVKMRd"
@@ -561,7 +625,7 @@
       "url": "https://open.spotify.com/track/1JIZ6Gz75IdcfKu8hcaWTN"
     },
     {
-      "added_at": "2024-09-13 02:58:44",
+      "added_at": "2024-09-13 10:19:45",
       "album": {
         "name": "Asiye Khona (feat. Zuma, Omit ST, KAIRO1829, Nation-365, Selbisticsoul & Mayenzzy NG)",
         "url": "https://open.spotify.com/album/4f4MeH6g3tdy4AxUd5NIdm"
@@ -601,7 +665,7 @@
       "url": "https://open.spotify.com/track/0RYVM6f8kU34nfWl1n8m6Y"
     },
     {
-      "added_at": "2024-09-13 02:58:44",
+      "added_at": "2024-09-13 10:19:45",
       "album": {
         "name": "Twin",
         "url": "https://open.spotify.com/album/0By4mCi2whe1Cq3hTolAAS"
@@ -621,7 +685,7 @@
       "url": "https://open.spotify.com/track/691C6QAbjiZdsgxkz6VffJ"
     },
     {
-      "added_at": "2024-09-13 02:58:44",
+      "added_at": "2024-09-13 10:19:45",
       "album": {
         "name": "Zenzile (feat. Leerosoul, Thatohatsi & Jandas)",
         "url": "https://open.spotify.com/album/54z7CCQdI0u4QPBUBgAw8q"
@@ -653,7 +717,7 @@
       "url": "https://open.spotify.com/track/2tkGkA0wts6QUFxtvJVAzy"
     },
     {
-      "added_at": "2024-09-13 02:58:44",
+      "added_at": "2024-09-13 10:19:45",
       "album": {
         "name": "Gwara Gwara",
         "url": "https://open.spotify.com/album/1tTCpNbAR3vpq3PUFQw1Zm"
@@ -669,7 +733,7 @@
       "url": "https://open.spotify.com/track/3ITpuImbmMtavdxCPoYQsX"
     },
     {
-      "added_at": "2024-09-13 02:58:44",
+      "added_at": "2024-09-13 10:19:45",
       "album": {
         "name": "Talk talk featuring troye sivan",
         "url": "https://open.spotify.com/album/4hSYRtDjN1XbTqBKTw33sj"
@@ -689,7 +753,7 @@
       "url": "https://open.spotify.com/track/2LUD3874dlzeRa34Hi7ohW"
     },
     {
-      "added_at": "2024-09-13 02:58:44",
+      "added_at": "2024-09-13 10:19:45",
       "album": {
         "name": "Isibongo (feat. ROOIBOS THE SAXMAN)",
         "url": "https://open.spotify.com/album/0HpQdAqacOgUA8u6BglpnY"
@@ -717,9 +781,9 @@
       "url": "https://open.spotify.com/track/0u4BGCyF27SCVQl12HSrlA"
     },
     {
-      "added_at": "2024-09-13 02:58:44",
+      "added_at": "2024-09-13 10:19:45",
       "album": {
-        "name": "Dlala Ngami",
+        "name": "Dlala Ngami (feat. Oskido)",
         "url": "https://open.spotify.com/album/5yW3iyEcoInZDyttr2nJHP"
       },
       "artists": [
@@ -728,20 +792,20 @@
           "url": "https://open.spotify.com/artist/2TzKdlrOilU7Mxp8HY6FTz"
         },
         {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
           "name": "Ntwana_R",
           "url": "https://open.spotify.com/artist/2MYAT2rstTLHX0f3EellwS"
+        },
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
         }
       ],
       "duration_ms": 484285,
-      "name": "Dlala Ngami",
+      "name": "Dlala Ngami (feat. Oskido)",
       "url": "https://open.spotify.com/track/42Our4jALLfBWKDazfFEVX"
     },
     {
-      "added_at": "2024-09-13 02:58:44",
+      "added_at": "2024-09-13 10:19:45",
       "album": {
         "name": "Sunny Days",
         "url": "https://open.spotify.com/album/5FTFl9FxKsvNGzvPGHWbtC"
@@ -757,7 +821,7 @@
       "url": "https://open.spotify.com/track/01lwQQFxFuxOe2UToQBrwE"
     },
     {
-      "added_at": "2024-09-13 02:58:44",
+      "added_at": "2024-09-13 10:19:45",
       "album": {
         "name": "Heart Like Mine (feat. Rosa Linn)",
         "url": "https://open.spotify.com/album/2k7ml7X0RXedgJaW7nkjak"
@@ -777,7 +841,7 @@
       "url": "https://open.spotify.com/track/4xqekuN4lfu6MBeWov0Icl"
     },
     {
-      "added_at": "2024-09-13 02:58:44",
+      "added_at": "2024-09-13 10:19:45",
       "album": {
         "name": "Take A Chance",
         "url": "https://open.spotify.com/album/3iKHvNTSgnaMDVn9Lauelp"
@@ -793,7 +857,7 @@
       "url": "https://open.spotify.com/track/0BBUTSTG9nyiDFTHuidxvt"
     },
     {
-      "added_at": "2024-09-13 02:58:44",
+      "added_at": "2024-09-13 10:19:45",
       "album": {
         "name": "Lobola",
         "url": "https://open.spotify.com/album/5OXuMs14t2sAhlqzEHbfPq"
@@ -813,7 +877,7 @@
       "url": "https://open.spotify.com/track/73VoDTBNXPMcGDphUZNPnH"
     },
     {
-      "added_at": "2024-09-13 02:58:44",
+      "added_at": "2024-09-13 10:19:45",
       "album": {
         "name": "Thula Moya Wami",
         "url": "https://open.spotify.com/album/2CJfgfKC9Vz0LKReR8Y8j3"
@@ -829,7 +893,7 @@
       "url": "https://open.spotify.com/track/2OBgyq2L6Bi62OVI3AZT2t"
     },
     {
-      "added_at": "2024-09-13 02:58:44",
+      "added_at": "2024-09-13 10:19:45",
       "album": {
         "name": "Intombi'emhlophe (feat. Marikana)",
         "url": "https://open.spotify.com/album/6AzKy1EzVLrKdLbK7sIg39"
@@ -853,7 +917,7 @@
       "url": "https://open.spotify.com/track/37xwENGDGlCDguBnMU3h0i"
     },
     {
-      "added_at": "2024-09-13 02:58:44",
+      "added_at": "2024-09-13 10:19:45",
       "album": {
         "name": "Lucky Man - Da Gifto's Remake",
         "url": "https://open.spotify.com/album/2EssVYSSSLOJjKcOBxusWf"
@@ -877,7 +941,7 @@
       "url": "https://open.spotify.com/track/4xb4ur7DrYA4L5sBS2cvN8"
     },
     {
-      "added_at": "2024-09-13 02:58:44",
+      "added_at": "2024-09-13 10:19:45",
       "album": {
         "name": "Dali Wami",
         "url": "https://open.spotify.com/album/4QgGz8gdY5UKdkm0fL7mVS"
@@ -897,7 +961,7 @@
       "url": "https://open.spotify.com/track/7j4Ilbtu1wcwLXyze5iEX7"
     },
     {
-      "added_at": "2024-09-13 02:58:44",
+      "added_at": "2024-09-13 10:19:45",
       "album": {
         "name": "Were we belong",
         "url": "https://open.spotify.com/album/3Dbr5qqXMgmra4nWmAdiGv"
@@ -913,7 +977,7 @@
       "url": "https://open.spotify.com/track/2bMhkY4Sf0wgWtN7E2QdpO"
     },
     {
-      "added_at": "2024-09-13 02:58:44",
+      "added_at": "2024-09-13 10:19:45",
       "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/6obOtGQ9VkQEg8q73peY7d"
@@ -937,7 +1001,27 @@
       "url": "https://open.spotify.com/track/1azGAlMz4aaKg3CbiLSxjL"
     },
     {
-      "added_at": "2024-09-13 02:58:44",
+      "added_at": "2024-09-13 10:19:45",
+      "album": {
+        "name": "I Can Do It With a Broken Heart - Dombresky Remix",
+        "url": "https://open.spotify.com/album/3WNGsnTetig4bJbw2BMbK7"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Dombresky",
+          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+        }
+      ],
+      "duration_ms": 189391,
+      "name": "I Can Do It With a Broken Heart - Dombresky Remix",
+      "url": "https://open.spotify.com/track/0hFF0aqyjDwDh6SQwRbTyx"
+    },
+    {
+      "added_at": "2024-09-13 10:19:45",
       "album": {
         "name": "Ketlile gobina (feat. Tsubi London)",
         "url": "https://open.spotify.com/album/4NmqMQSAvwgI1RC62r1MCt"
@@ -945,7 +1029,7 @@
       "artists": [
         {
           "name": "071 Nelly The Master Beat",
-          "url": "https://open.spotify.com/artist/5NFmgtEl6AZbnNWMccUZim"
+          "url": "https://open.spotify.com/artist/0jRyv7vPd6M0KYgSVmBCtF"
         },
         {
           "name": "Tsubi London",
@@ -957,7 +1041,7 @@
       "url": "https://open.spotify.com/track/4HUhxylsd7jHCKPnp70ta1"
     },
     {
-      "added_at": "2024-09-13 02:58:44",
+      "added_at": "2024-09-13 10:19:45",
       "album": {
         "name": "INTO EMNANDI",
         "url": "https://open.spotify.com/album/3ppgsQhlAi0isMzJFjFvQ0"
@@ -993,7 +1077,7 @@
       "url": "https://open.spotify.com/track/5tMwNCkhmxhw9ZkgW8PYM4"
     },
     {
-      "added_at": "2024-09-13 02:58:44",
+      "added_at": "2024-09-13 10:19:45",
       "album": {
         "name": "iYah",
         "url": "https://open.spotify.com/album/10ITxPBFcdxv5bUa6JPwjY"
@@ -1017,7 +1101,7 @@
       "url": "https://open.spotify.com/track/7z3TzyfYcRVzhuCdTOLRwr"
     },
     {
-      "added_at": "2024-09-13 02:58:44",
+      "added_at": "2024-09-13 10:19:45",
       "album": {
         "name": "Want It Bad",
         "url": "https://open.spotify.com/album/3Y6uesQr77SRahJbmZX92v"
@@ -1033,7 +1117,7 @@
       "url": "https://open.spotify.com/track/4iMk9Yjsqadex6akEaFPug"
     },
     {
-      "added_at": "2024-09-13 02:58:44",
+      "added_at": "2024-09-13 10:19:45",
       "album": {
         "name": "CRAZY (Party Remixes 1)",
         "url": "https://open.spotify.com/album/6kAsgfuulBOuyYLytWX7e2"
@@ -1049,7 +1133,7 @@
       "url": "https://open.spotify.com/track/4gxEY3Mh5FZZDAJAKPNrCS"
     },
     {
-      "added_at": "2024-09-13 02:58:44",
+      "added_at": "2024-09-13 10:19:45",
       "album": {
         "name": "I Forgive You - Chromeo Remix (radio edit)",
         "url": "https://open.spotify.com/album/23MEFQe6rT4UgP2JUPU9b7"
@@ -1069,7 +1153,7 @@
       "url": "https://open.spotify.com/track/7Bdtb10c2V4oVqsz8Ebkk5"
     },
     {
-      "added_at": "2024-09-13 02:58:44",
+      "added_at": "2024-09-13 10:19:45",
       "album": {
         "name": "Small's Street",
         "url": "https://open.spotify.com/album/0hJ2M9qiPhPYQdc4yu6iCE"
@@ -1097,7 +1181,7 @@
       "url": "https://open.spotify.com/track/0Lz1WeBajF29dXYy24Jh0p"
     },
     {
-      "added_at": "2024-09-13 02:58:44",
+      "added_at": "2024-09-13 10:19:45",
       "album": {
         "name": "Roller Coaster",
         "url": "https://open.spotify.com/album/7GtEdmK4bHtPiH40Lxs3CH"

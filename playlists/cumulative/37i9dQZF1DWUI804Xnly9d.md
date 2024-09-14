@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-403 songs - 22 hr 48 min
+404 songs - 22 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,6 +268,7 @@
 | [Nindiya](https://open.spotify.com/track/5j4XfQQaOtP6VZpo5wMPPP) | [Komorebi](https://open.spotify.com/artist/33wbulGqQSccMOCox5UdIS) | [Nindiya](https://open.spotify.com/album/0G0naNmj8UQzJFTQWXlwOZ) | 3:40 | 2023-11-10 | 2024-02-06 |
 | [Noor](https://open.spotify.com/track/0dHWY1elhBd1BOrgyMg5VT) | [Karan Nawani](https://open.spotify.com/artist/7rhiZksPc6NrFYY2x0iajU) | [Echoes Of Love](https://open.spotify.com/album/1xwtHTdzmUs83zWUpoO4CZ) | 3:07 | 2024-02-19 | 2024-04-16 |
 | [O Piya](https://open.spotify.com/track/4F7ZtGn9AADKvcdVA2eODk) | [Ayush Gupta](https://open.spotify.com/artist/389pB8tUWtnvxFuA5H1x52) | [O Piya](https://open.spotify.com/album/1TQUFjE8g7QgYtj8nm2IL5) | 3:55 | 2024-06-11 | 2024-07-09 |
+| [O Saajna](https://open.spotify.com/track/5mbunFqwSF7Zo77lbJlLku) | [FIRDAUS](https://open.spotify.com/artist/7BfH29hEuqsCROoAMld4qj) | [O Saajna](https://open.spotify.com/album/3Ru1eQ5IFhxtY96lFacZl6) | 4:43 | 2024-09-13 |  |
 | [Paas Aa](https://open.spotify.com/track/78EbeEIxRZJM9NLRxcFscq) | [Raj Thakur](https://open.spotify.com/artist/2Gao6MverARcqpP8Li1jXE), [Amisha Singh](https://open.spotify.com/artist/4eQyLr2gpOu92VoXIBDuy6) | [Paas Aa](https://open.spotify.com/album/6C8AMKqkiI4sO6nm1MiUOv) | 4:52 | 2024-07-03 |  |
 | [Paas Mere](https://open.spotify.com/track/6L8QciURnXIwZVZMeeNJB5) | [Rajraktim Konwar](https://open.spotify.com/artist/6y65f3ZHnYyTcVjnNQwvJZ), [Mayukh](https://open.spotify.com/artist/19I0L8PB44SSGiPhpIjdmr) | [Paas Mere](https://open.spotify.com/album/3zxrvRU4mO4kUBGIXG78xr) | 2:56 | 2023-08-28 | 2023-12-16 |
 | [Pahadon Mein](https://open.spotify.com/track/1EuQFujqMzy76oZZ7R2xNO) | [Salman Elahi](https://open.spotify.com/artist/60X8hzDUpAbID7G8cU2FPT) | [Shaan](https://open.spotify.com/album/6tySE1kobA9LnKvCs9Sb0W) | 3:45 | 2023-05-17 | 2023-07-13 |
@@ -350,7 +351,7 @@
 | [Thaame Rakhna](https://open.spotify.com/track/3Rp9U5qoyJNzYxLcEmMjfe) | [Prince Pratap](https://open.spotify.com/artist/6wP48O059dwfMpGloiaDra) | [Thaame Rakhna](https://open.spotify.com/album/51wJe8zQhvEfnowqzQZpiM) | 3:30 | 2023-06-15 | 2023-07-25 |
 | [Theher Ja](https://open.spotify.com/track/1KiNsZ6tle79ENI94EvPIp) | [Shantanu Mundra](https://open.spotify.com/artist/642LplJyeWGWM0Keefj6Nd), [Eshaan Lele](https://open.spotify.com/artist/2aFKUw2eYAaFTlRdLmMIPK) | [Theher Ja](https://open.spotify.com/album/13xCvafqNwZPJM72GihMVm) | 5:05 | 2023-12-19 | 2024-01-09 |
 | [Thi Tu Kaha](https://open.spotify.com/track/5ukGuNbRQYrvVvCaEr5aUJ) | [Rahul Rajkhowa](https://open.spotify.com/artist/443XJUhCBjuQhbDp3USEFi) | [Love, Heartbreak and being a Professor](https://open.spotify.com/album/6HdlLxxA7oFDCOnjxll5T2) | 3:34 | 2024-09-05 |  |
-| [Thoda Tera](https://open.spotify.com/track/3Zcn4CFuvGnzLvVukC4Gmm) | [Parth Srivastava](https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI) | [Savera](https://open.spotify.com/album/5gkmTHGZTYetH7jKHcjzM8) | 3:34 | 2024-06-19 |  |
+| [Thoda Tera](https://open.spotify.com/track/3Zcn4CFuvGnzLvVukC4Gmm) | [Parth Srivastava](https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI) | [Savera](https://open.spotify.com/album/5gkmTHGZTYetH7jKHcjzM8) | 3:34 | 2024-06-19 | 2024-09-14 |
 | [Titliyaan](https://open.spotify.com/track/1Ncb4Zv8xYCuC6EPHTS69t) | [Rock Paper Scissor](https://open.spotify.com/artist/46kcuAgO47TO6w9aMkYyMh), [Creative Fuss](https://open.spotify.com/artist/24CF30jDhMsWMPfjj63BaO), [Adhirath Sitoke](https://open.spotify.com/artist/4wIQ1CmQY1Tgoi1IGsZR75), [Pranav Joshi](https://open.spotify.com/artist/171ot79N1M9Rjbm12gMiwy), [Deval Parikh](https://open.spotify.com/artist/6N47RHaFTSFvBC0rc4XUNJ), [Dhrumil Pancholi](https://open.spotify.com/artist/2dY68o963TDOTfDsPjqzz9), [Sagar Shinde](https://open.spotify.com/artist/6N3qA59b9xiIP2qdUX40e0), [Akash Vyas](https://open.spotify.com/artist/2YgkDObS7yRNsMmGqlinPH), [Tathastu Bhangaokar](https://open.spotify.com/artist/6J10oZcw3AiOejNtJH1cO8), [Siddhant Suryvanshi](https://open.spotify.com/artist/2zolZilF6OKxGIRb8ozM38), [Vrushti Chauhan](https://open.spotify.com/artist/1LDn3Z8Zsly8iMgDGpsLeS) | [Titliyaan](https://open.spotify.com/album/0GO2GfFkbGOQM9EjPsbe81) | 4:04 | 2023-05-17 | 2023-05-27 |
 | [Tootey Hai Hum](https://open.spotify.com/track/7G0s6JwNij9ahwGpBjXQj1) | [Ashutosh Phatak](https://open.spotify.com/artist/2oaX6xFkrTYxtMUi37YgRl), [Mugdha Hasbanis](https://open.spotify.com/artist/07go7jRUHokSJpsZoHy5ha), [Niranjan Iyengar](https://open.spotify.com/artist/5YvkJtCfhsoiQ7TjFo1Z3i) | [Mumbai Diaries Season 2 \(Original Series Soundtrack\)](https://open.spotify.com/album/7MpYTwWoGD32rJAmpObLRT) | 3:40 | 2023-10-04 | 2024-01-10 |
 | [Tu](https://open.spotify.com/track/7DlBboctH1CiJFC0chyOO2) | [JEKS](https://open.spotify.com/artist/6aXh2DuJMdQBtd235sTUrl) | [Tu](https://open.spotify.com/album/5I7KqxcjKqJDX6Ne2yDLrR) | 2:16 | 2023-07-20 | 2023-08-05 |

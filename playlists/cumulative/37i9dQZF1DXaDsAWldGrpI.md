@@ -4,7 +4,7 @@
 
 > Your favorite artists, recorded live \- just like you were there! Cover: Luke Combs
 
-187 songs - 12 hr 50 min
+188 songs - 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Folsom Prison Blues \- Live at Folsom State Prison, Folsom, CA \- January 1968](https://open.spotify.com/track/55vr0rSNotM3KY1OB7H4zf) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Country Music \- A Film by Ken Burns \(The Soundtrack\) \[Deluxe\]](https://open.spotify.com/album/3ZAFnRYQRAiBplISQFj7nC) | 2:43 | 2024-05-04 |  |
 | [For What It’s Worth \- Live](https://open.spotify.com/track/6AznYwxsKQLpoPGdLqjaQg) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [For What It’s Worth \(Live\)](https://open.spotify.com/album/3vn1HJdEPP6aGL4veUz5k6) | 3:01 | 2023-02-10 | 2024-05-05 |
 | [Forget About It \- Live From The Louisville Palace, Kentucky / 2002](https://open.spotify.com/track/57ttBdIRG5KtdwJOZQtd9E) | [Alison Krauss & Union Station](https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT) | [Live](https://open.spotify.com/album/1oqiAakWVX3wj3URQ1CaoO) | 3:18 | 2024-05-04 |  |
-| [Galveston \- Live From The Troubadour / 2008](https://open.spotify.com/track/5u3a9YnQZOxbqcld2YIMVu) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Live From The Troubadour](https://open.spotify.com/album/4zKEAKSVPzTIftRDlYbc2O) | 4:26 | 2024-05-04 |  |
+| [Galveston \- Live From The Troubadour / 2008](https://open.spotify.com/track/5u3a9YnQZOxbqcld2YIMVu) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Live From The Troubadour](https://open.spotify.com/album/4zKEAKSVPzTIftRDlYbc2O) | 4:26 | 2024-05-04 | 2024-09-14 |
 | [Going Home \- Live](https://open.spotify.com/track/0IFwRqhkQZdKpUW1uvOaDO) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Going Home \(Live\)](https://open.spotify.com/album/69BlZSkkD9n0sIV1Z0ISWg) | 4:02 | 2024-04-19 |  |
 | [Good as You \- Live](https://open.spotify.com/track/1zX4O1ezEkxMoEQsVw2eMA) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Good as You \(Live\)](https://open.spotify.com/album/4NW8NWLP5yMRXE5NjUMAn9) | 3:22 | 2021-07-22 |  |
 | [Good Day \- Live From Europe](https://open.spotify.com/track/4AQUPrWg2NKDJbLpHXBhol) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Live From Europe EP](https://open.spotify.com/album/16Ev85nNlG1LWDCiAsx75M) | 4:03 | 2022-07-22 | 2024-04-19 |
@@ -115,6 +115,7 @@
 | [My Way \- Live at the Honolulu International Center](https://open.spotify.com/track/2VGkf2IJXOSWouDhatlH3i) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Aloha from Hawaii Via Satellite \(Live\)](https://open.spotify.com/album/6AUihdKWdT5evm91G7wirB) | 4:01 | 2024-05-04 |  |
 | [Need You Now \- Live](https://open.spotify.com/track/0B6xuiHFvxkiAtmGbbuSKB) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Spotify Live \(Live From Austin, TX\)](https://open.spotify.com/album/1uNyPWW6YzdIBWxwq5BiBE) | 5:42 | 2021-07-22 | 2024-07-25 |
 | [Next Thing You Know \- Live From The O2 London](https://open.spotify.com/track/3iqGOpRkz4V4juMd7ccyIl) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Next Thing You Know \(Live From The O2 London\)](https://open.spotify.com/album/7eSlozbGidbOROgKxcNkOU) | 3:01 | 2023-05-19 |  |
+| [No Horse To Ride \- Live From Boston](https://open.spotify.com/track/1LfvRCAx0kgP6cbpmArtel) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [No Horse To Ride \- Live From Boston](https://open.spotify.com/album/7ojhjADjKK2rqXSbao0pfp) | 3:46 | 2024-09-13 |  |
 | [No One Else On Earth \- Live](https://open.spotify.com/track/5dNlMKYjk6BsTEKrZX61mT) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1) | [No One Else On Earth \(Live\)](https://open.spotify.com/album/62uaZ5wUlfUwMn7eEJ9v1G) | 4:44 | 2024-06-07 | 2024-07-06 |
 | [Nobody But You \(Duet with Gwen Stefani\) \- Live](https://open.spotify.com/track/3twoyaIBmqSyBkIxTQYl5m) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Nobody But You \(Duet with Gwen Stefani\) \[Live\]](https://open.spotify.com/album/28JOBmOhSs9ssOBgbxGTrp) | 3:30 | 2021-07-22 |  |
 | [Okie From Muskogee \- Live In Muskogee, Oklahoma/1969](https://open.spotify.com/track/4b65hP5xZvthkSTkCSJuVs) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Okie From Muskogee \(Live In Muskogee, Oklahoma/1969\)](https://open.spotify.com/album/2oQ0VRkbeYmrUXCjy1CPV6) | 4:08 | 2024-05-04 |  |

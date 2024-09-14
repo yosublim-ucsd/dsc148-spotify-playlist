@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 
 > Songs of faith, hope, and the greatest of these, love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,455 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,462 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,11 +41,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 31 | [Better Man](https://open.spotify.com/track/7i4YoswtDTbiLd6AWc0Ep0) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [What Are We Waiting For? +](https://open.spotify.com/album/3uHzOYpGyy06LsIfBi4r9e) | 3:09 |
 | 32 | [Love in the West](https://open.spotify.com/track/5ttoyQ1sdU1IuE1nd5MD4l) | [Uninvtd](https://open.spotify.com/artist/0q66IFlScb4fDO2sgZSrfZ), [S A I N T](https://open.spotify.com/artist/2D6H3aOR8udBwn4oaC4LtN) | [Love in the West](https://open.spotify.com/album/0Oe6yZLlmHs90r6pLAuYBH) | 2:18 |
 | 33 | [Hold Me Close](https://open.spotify.com/track/1XEjjhgrYx2dVpnJV6IwLG) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Hold Me Close](https://open.spotify.com/album/45Plgghf1OZa2gMqh1kUzj) | 2:28 |
-| 34 | [The Marriage Prayer](https://open.spotify.com/track/2no4dAQQt46aVsrlkriysB) | [John Waller](https://open.spotify.com/artist/2Px7jTtwBH0nHI1fYSYuaL) | [As for Me and My House](https://open.spotify.com/album/6fcO3Z9ItTTxCHQzCcNFc2) | 4:05 |
-| 35 | [Safe](https://open.spotify.com/track/33AwnZl99mjxjNjMIbflbH) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Safe](https://open.spotify.com/album/3PD9s1GRpT7ahstwgF6AlX) | 4:30 |
+| 34 | [Safe](https://open.spotify.com/track/33AwnZl99mjxjNjMIbflbH) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Safe](https://open.spotify.com/album/3PD9s1GRpT7ahstwgF6AlX) | 4:30 |
+| 35 | [The Marriage Prayer](https://open.spotify.com/track/2no4dAQQt46aVsrlkriysB) | [John Waller](https://open.spotify.com/artist/2Px7jTtwBH0nHI1fYSYuaL) | [As for Me and My House](https://open.spotify.com/album/6fcO3Z9ItTTxCHQzCcNFc2) | 4:05 |
 | 36 | [Love Me Like I Am](https://open.spotify.com/track/1VksnwIqgJrUEIDXVunSzt) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Love Me Like I Am](https://open.spotify.com/album/7gfQHc3E7j48nKf70PBeJR) | 3:04 |
-| 37 | [Commitment](https://open.spotify.com/track/0kJSz8ENF9QUcBmhBvIROi) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [Run](https://open.spotify.com/album/4Uan5I5JSFb1axGS0GCZmG) | 3:36 |
-| 38 | [Beautiful \(feat\. India.Arie\)](https://open.spotify.com/track/1P5jyUv4YzTUWTorHAQjgf) | [Gene Moore](https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6), [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Beautiful](https://open.spotify.com/album/4cb9hipQR0owfDfjieuOsb) | 3:46 |
+| 37 | [Beautiful \(feat\. India.Arie\)](https://open.spotify.com/track/1P5jyUv4YzTUWTorHAQjgf) | [Gene Moore](https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6), [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Beautiful](https://open.spotify.com/album/4cb9hipQR0owfDfjieuOsb) | 3:46 |
+| 38 | [Commitment](https://open.spotify.com/track/0kJSz8ENF9QUcBmhBvIROi) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [Run](https://open.spotify.com/album/4Uan5I5JSFb1axGS0GCZmG) | 3:36 |
 | 39 | [Meant to Be](https://open.spotify.com/track/2YGu3QpHqj5AHtS8RzFQdW) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Meant to Be](https://open.spotify.com/album/1SC4K6OlwiX7QGUfdBHneY) | 3:06 |
 | 40 | [This Loving](https://open.spotify.com/track/1Trsjxw3OfwzIVsSuItgIa) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [This Loving](https://open.spotify.com/album/49HeWMNhVUSt8AolqOBBxr) | 2:36 |
 | 41 | [What A Mystery](https://open.spotify.com/track/2FYSON92zpz3iiDAmG2IMg) | [Josh Wilson](https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2) | [Carry Me](https://open.spotify.com/album/4xjAeY5J7q6iHlRWEF07b0) | 2:57 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 75 | [Midwest Magic](https://open.spotify.com/track/3NDDJKePW2oFn9mP2JWyo6) | [John Tibbs](https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d) | [Heartland](https://open.spotify.com/album/10INpN8kO8dltcAhRMDO0d) | 3:43 |
 | 76 | [SAFE](https://open.spotify.com/track/2UZf3nuTmbp4hgG3vluLRs) | [Ki Alexis](https://open.spotify.com/artist/5qQlhqqrbs8kTsaq7yBOch) | [SAFE](https://open.spotify.com/album/74yE9s61cJjwygLpdW7gQq) | 3:51 |
 | 77 | [I'm in Love With You](https://open.spotify.com/track/1X40brgUhO1VaZ8CHtKBnt) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Genesis](https://open.spotify.com/album/56H4CnTe0xS1VpZLgC9wAf) | 4:06 |
-| 78 | [Remind You](https://open.spotify.com/track/7BxtjrmedRHDYCTEk50zkt) | [Erica Mason](https://open.spotify.com/artist/5CH8cf1MmcMAWBpQLiQ3sz), [Hymn Logic](https://open.spotify.com/artist/0dzvj07BwdMYDdkYy6KJHH) | [For the Soul](https://open.spotify.com/album/1fccj2iThKlGrHdCq8lNbd) | 3:19 |
-| 79 | [I do](https://open.spotify.com/track/1HbTfQjhpqXxmedDXkPNoa) | [Caitie Beasley](https://open.spotify.com/artist/6N4bMAZfwfIeL0qUuahHyF) | [I do](https://open.spotify.com/album/1eQrGC1qAwhxa9YWpbT37E) | 3:10 |
+| 78 | [I do](https://open.spotify.com/track/1HbTfQjhpqXxmedDXkPNoa) | [Caitie Beasley](https://open.spotify.com/artist/6N4bMAZfwfIeL0qUuahHyF) | [I do](https://open.spotify.com/album/1eQrGC1qAwhxa9YWpbT37E) | 3:10 |
+| 79 | [Remind You](https://open.spotify.com/track/7BxtjrmedRHDYCTEk50zkt) | [Erica Mason](https://open.spotify.com/artist/5CH8cf1MmcMAWBpQLiQ3sz), [Hymn Logic](https://open.spotify.com/artist/0dzvj07BwdMYDdkYy6KJHH) | [For the Soul](https://open.spotify.com/album/1fccj2iThKlGrHdCq8lNbd) | 3:19 |
 | 80 | [Junto a Ti](https://open.spotify.com/track/309976H25vNibcds9nAH5A) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Junto a Ti](https://open.spotify.com/album/2ExKlEtTWeHbcv4uViU6sH) | 3:07 |
 | 81 | [Me + You = Pi](https://open.spotify.com/track/11akLVy8J6vDKsnmDbMxus) | [Kurtis Hoppie](https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8) | [Me + You = Pi](https://open.spotify.com/album/1hXEZYIQQBGCdx9j0aDr6p) | 2:49 |
 | 82 | [Love Like This](https://open.spotify.com/track/6r1IIwzxt1m8Ks8Me6V2Av) | [Brandin Reed](https://open.spotify.com/artist/7oi3qhC7S5XIXYz15C4JHt) | [Love Like This](https://open.spotify.com/album/6CAihXsGyMgAdZHAAfseM0) | 3:20 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 96 | [Love You, Still](https://open.spotify.com/track/7hsWnD0nwuMp9hRACCtdm8) | [Andrew Osenga](https://open.spotify.com/artist/1lJC5MbTUW5ld4yXzNB0H4), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i) | [Love You, Still](https://open.spotify.com/album/5fYsh7JcLm4oIA5N5dkG1f) | 5:07 |
 | 97 | [Yours](https://open.spotify.com/track/6IWcLsZ9h2Kde0Qjyt8BdS) | [Danielle Apicella](https://open.spotify.com/artist/53l3aH0gXYBLyTVM87aYw5) | [Yours](https://open.spotify.com/album/7audZAXHAdxmRD3YJErUVm) | 3:33 |
 | 98 | [sweetest love \- live recording](https://open.spotify.com/track/7v3qP1ZU2Xv3Tx13XXjQDT) | [Rhea Marcia](https://open.spotify.com/artist/4Bo5E56WyNTJjVyxbRhksJ), [davecreates](https://open.spotify.com/artist/2KuPNZuwsvJTX9yTDqNeNk) | [sweetest love \(live recording\)](https://open.spotify.com/album/73v6JUuRaryWzqCXEsRh9r) | 4:42 |
-| 99 | [COME MY WAY](https://open.spotify.com/track/0yx037HdsRNA6x8eMPMCmI) | [Jay Sanon](https://open.spotify.com/artist/369EvegFopl9qWl1QPEHzu), [Jekasole](https://open.spotify.com/artist/6n0IUD1yLutKG8sWtKkjly) | [COME MY WAY](https://open.spotify.com/album/2pdVfuDHgR0GXrOek56fhY) | 3:00 |
-| 100 | [Go There With You](https://open.spotify.com/track/66DrxT38CFyYPTciuHP3aR) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [The Ultimate Collection](https://open.spotify.com/album/2BnDCywIU8HvFlFZqkSOAj) | 5:18 |
+| 99 | [Go There With You](https://open.spotify.com/track/66DrxT38CFyYPTciuHP3aR) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [The Ultimate Collection](https://open.spotify.com/album/2BnDCywIU8HvFlFZqkSOAj) | 5:18 |
+| 100 | [COME MY WAY](https://open.spotify.com/track/0yx037HdsRNA6x8eMPMCmI) | [Jay Sanon](https://open.spotify.com/artist/369EvegFopl9qWl1QPEHzu), [Jekasole](https://open.spotify.com/artist/6n0IUD1yLutKG8sWtKkjly) | [COME MY WAY](https://open.spotify.com/album/2pdVfuDHgR0GXrOek56fhY) | 3:00 |
 
 Snapshot ID: `ZpdMuAAAAADSqmUUDArVT+xgK7lWBKoH`

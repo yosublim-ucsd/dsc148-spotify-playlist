@@ -855,6 +855,28 @@
     },
     {
       "album": {
+        "name": "SUR LE CHEMIN - Phase finale",
+        "url": "https://open.spotify.com/album/4iEr3dDioblHwjpXLXBpS0"
+      },
+      "artists": [
+        {
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI"
+        },
+        {
+          "name": "JKSN",
+          "url": "https://open.spotify.com/artist/7IHsnK4J6QJQTjFNAxwERE"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238957,
+      "name": "50G",
+      "url": "https://open.spotify.com/track/0JaCXZzj9Rb6cwz8wKN0pk"
+    },
+    {
+      "album": {
         "name": "J.000.$",
         "url": "https://open.spotify.com/album/7CWl72c1sWausPdwa2C29w"
       },
@@ -3952,7 +3974,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 376493,
       "name": "Bande organis\u00e9e 2",
       "url": "https://open.spotify.com/track/3wh4HFS6a3v8Zu1vZadEwA"
@@ -5104,7 +5126,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 170800,
       "name": "Bolide Noir",
       "url": "https://open.spotify.com/track/14DLZ9FaTofhnXBiV38axE"
@@ -21360,7 +21382,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-13",
+      "date_removed": null,
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"

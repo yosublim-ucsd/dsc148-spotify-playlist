@@ -4,7 +4,7 @@
 
 > Il top dello street rap italiano 🔥 Cover: Paky
 
-611 songs - 1 day 4 hr 0 min
+612 songs - 1 day 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [A45S](https://open.spotify.com/track/3NCw6IFbl8NTQHDwxkj1UC) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [A45S](https://open.spotify.com/album/6KQ0Nzqei7dU85H2OtzIrQ) | 2:40 | 2023-12-11 | 2024-01-19 |
 | [ABC \(feat\. Bello Figo\)](https://open.spotify.com/track/50qPOMP2Kw8qOD1dsExaKQ) | [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj), [Bello Figo](https://open.spotify.com/artist/59rqdbDiB9oXuZggah1syh) | [ABC \(feat\. Bello Figo\)](https://open.spotify.com/album/5N2chCw2KvN4O0CNZTkXzR) | 2:23 | 2023-10-05 | 2023-12-22 |
 | [ABC \(feat\. Tony Boy & thasup\)](https://open.spotify.com/track/3TI7sMXWt5lu89VGCa7q1k) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [VERA BADDIE](https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2) | 3:16 | 2024-06-27 |  |
-| [AD MAIORA](https://open.spotify.com/track/1J1aiUqufKfs5FsAW9XCyk) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [AD MAIORA](https://open.spotify.com/album/1CZ4pNhFPSrIXN1wsFquKB) | 3:38 | 2024-05-14 |  |
+| [AD MAIORA](https://open.spotify.com/track/1J1aiUqufKfs5FsAW9XCyk) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [AD MAIORA](https://open.spotify.com/album/1CZ4pNhFPSrIXN1wsFquKB) | 3:38 | 2024-05-14 | 2024-09-14 |
 | [ADDERALL](https://open.spotify.com/track/1IDBlTUa4Ts0mHW6N481JQ) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [ADDERALL](https://open.spotify.com/album/72kD6unk8C2Fw2T7KDFfiA) | 2:45 | 2024-03-27 | 2024-07-12 |
 | [ADIOS \(feat\. Yunes LaGrintaa\)](https://open.spotify.com/track/5F5STJurlkKk31rguyet4N) | [Fre\_nky](https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW), [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [ADIOS \(feat\. Yunes LaGrintaa\)](https://open.spotify.com/album/4tGjr14oYsIMsLC9NQaeJ4) | 3:02 | 2023-08-24 | 2024-01-19 |
 | [ADVICE](https://open.spotify.com/track/3gQkyNcw4YuyeUcFM5d9TB) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [LISTA 47](https://open.spotify.com/album/3MMMbRt5PJf5zXmFoe94D4) | 3:03 | 2022-07-04 | 2022-10-11 |
@@ -169,6 +169,7 @@
 | [Compare \(feat\. Lazza & Guè\)](https://open.spotify.com/track/6OR6CqkAWNK6rr7gmfpJNK) | [Cancun](https://open.spotify.com/artist/2CFSNUGQpQF9w7UhYIpKVY), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [CANCUN](https://open.spotify.com/album/6dfFlS3ruKbUsuLVpLfzXe) | 3:33 | 2022-10-20 | 2023-03-25 |
 | [Connexion](https://open.spotify.com/track/3OiVezwUqRu6R5byvFV6qA) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Connexion](https://open.spotify.com/album/3bPPFbT0uMsq5Ma3IoeCUI) | 2:34 | 2023-03-16 | 2023-05-26 |
 | [Contigo](https://open.spotify.com/track/7zVIU5TaujwfECKvPeISRw) | [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd) | [Contigo](https://open.spotify.com/album/78xTjDRmktseI106DiEoIG) | 2:20 | 2024-08-22 |  |
+| [CONVOGLIO \(feat\. Tony Effe\)](https://open.spotify.com/track/0AMQo5EwkBmYaedxmy4BuI) | [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [LEGGENDARIO](https://open.spotify.com/album/0Mefz37DxuT24EzQxr0ClI) | 2:57 | 2024-09-13 |  |
 | [Copacabana](https://open.spotify.com/track/4IUW8x8SdDkcbm8LivZRC1) | [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd) | [Copacabana](https://open.spotify.com/album/1gDOQhITnrLJtvL1q3aTm2) | 1:56 | 2022-09-22 | 2022-12-09 |
 | [Copacabana](https://open.spotify.com/track/0Qs2VJgDHPBJBvtfCqQcox) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [PROVINCIALE](https://open.spotify.com/album/7u2K5ihJfEGGHL712aubOo) | 2:49 | 2022-06-09 | 2022-07-22 |
 | [COPACABANA](https://open.spotify.com/track/3P3wdlzvU9pZSu5Ppkv53L) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [COPACABANA](https://open.spotify.com/album/1r5LuajK4YigSJ2HXDcDIQ) | 2:18 | 2024-07-18 |  |

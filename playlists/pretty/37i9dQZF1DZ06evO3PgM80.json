@@ -1,33 +1,13 @@
 {
   "description": "This is Julia Vit\u00f3ria. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 19511,
+  "num_followers": 19518,
   "original_name": "This Is Julia Vit\u00f3ria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuDdgAAAAAD+hcY3yjNcsSiDfaIo6YR+",
+  "snapshot_id": "ZuIvAAAAAAArKBdRjjTLtg8ScCOSg+G4",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sem Palavras",
-        "url": "https://open.spotify.com/album/6eASbeNA5vfVRcv8wcZYwa"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        },
-        {
-          "name": "Luciano Camargo",
-          "url": "https://open.spotify.com/artist/1tOFgcNGgl6DvHFsF5yst3"
-        }
-      ],
-      "duration_ms": 235579,
-      "name": "Sem Palavras",
-      "url": "https://open.spotify.com/track/0vPBFfdXXAoqclFkNX8979"
-    },
     {
       "added_at": null,
       "album": {
@@ -223,6 +203,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sem Palavras",
+        "url": "https://open.spotify.com/album/6eASbeNA5vfVRcv8wcZYwa"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "Luciano Camargo",
+          "url": "https://open.spotify.com/artist/1tOFgcNGgl6DvHFsF5yst3"
+        }
+      ],
+      "duration_ms": 235579,
+      "name": "Sem Palavras",
+      "url": "https://open.spotify.com/track/0vPBFfdXXAoqclFkNX8979"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "N\u00e3o Mais Escravos",
         "url": "https://open.spotify.com/album/0a55Mn7ktMRBPR1DIeynSG"
       },
@@ -323,6 +323,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tudo O Que Sou",
+        "url": "https://open.spotify.com/album/0xt3rvGrmRJ5PYJQLev8vQ"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 270053,
+      "name": "Tudo O Que Sou",
+      "url": "https://open.spotify.com/track/0UVE8vzJoXlW4hxLwMNfTE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Julia Vit\u00f3ria - Ac\u00fastico (Ao Vivo)",
         "url": "https://open.spotify.com/album/1nWfNDrH7U42YN7mcg96G8"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 296053,
       "name": "Jesus At The Center (Bonus Track) - Acoustic",
       "url": "https://open.spotify.com/track/6BVAORpU07NGdy016XTA6M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tudo O Que Sou",
-        "url": "https://open.spotify.com/album/0xt3rvGrmRJ5PYJQLev8vQ"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 270053,
-      "name": "Tudo O Que Sou",
-      "url": "https://open.spotify.com/track/0UVE8vzJoXlW4hxLwMNfTE"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Som das \u00c1guas (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/332OkIGSvCq0dVFyiWwrbB"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 225840,
-      "name": "Som das \u00c1guas - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6H6M4j6KRN22amTC0p9ZyJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Meu Abrigo (Ao Vivo)",
         "url": "https://open.spotify.com/album/6ZycqdebG7YEeX2LiVZEuW"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 299746,
       "name": "Meu Abrigo - Ao Vivo",
       "url": "https://open.spotify.com/track/4KDyhuFpO8CYyoz8TsHc7S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Som das \u00c1guas (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/332OkIGSvCq0dVFyiWwrbB"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 225840,
+      "name": "Som das \u00c1guas - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6H6M4j6KRN22amTC0p9ZyJ"
     },
     {
       "added_at": null,
@@ -659,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Your Waters",
+        "url": "https://open.spotify.com/album/2qmDIbM3kSjJ0h6kmuwvoz"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 308733,
+      "name": "Your Waters",
+      "url": "https://open.spotify.com/track/1dDDrI8BsmRBPzR6LtiK6h"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tu \u00c9s Rei",
         "url": "https://open.spotify.com/album/0cZcSReFhsKGSKx2XT19W7"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 421395,
       "name": "Tu \u00c9s Rei",
       "url": "https://open.spotify.com/track/1ZRqhv2xiJWVrSOaD5VLpm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Your Waters",
-        "url": "https://open.spotify.com/album/2qmDIbM3kSjJ0h6kmuwvoz"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 308733,
-      "name": "Your Waters",
-      "url": "https://open.spotify.com/track/1dDDrI8BsmRBPzR6LtiK6h"
     },
     {
       "added_at": null,
@@ -755,26 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Risen Savior (Sing My Soul) [Live]",
-        "url": "https://open.spotify.com/album/50iKVMbuYnG7Fxv5BpaLPf"
-      },
-      "artists": [
-        {
-          "name": "REVERE",
-          "url": "https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb"
-        },
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 449054,
-      "name": "Risen Savior (Sing My Soul) - Live",
-      "url": "https://open.spotify.com/track/4joIuCCI84iGcn1T1KQbUR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cantarei (Meu Salvador) / Risen Savior (Sing My Soul)",
         "url": "https://open.spotify.com/album/1YnzLpr6pmmOTuMyZuxrcu"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 554498,
       "name": "Cantarei (Meu Salvador) / Risen Savior (Sing My Soul)",
       "url": "https://open.spotify.com/track/2drrh4wKrCrZfTqn3SRKaZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Risen Savior (Sing My Soul) [Live]",
+        "url": "https://open.spotify.com/album/50iKVMbuYnG7Fxv5BpaLPf"
+      },
+      "artists": [
+        {
+          "name": "REVERE",
+          "url": "https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 449054,
+      "name": "Risen Savior (Sing My Soul) - Live",
+      "url": "https://open.spotify.com/track/4joIuCCI84iGcn1T1KQbUR"
     },
     {
       "added_at": null,

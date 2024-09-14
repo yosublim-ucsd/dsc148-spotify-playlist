@@ -2129,6 +2129,24 @@
     },
     {
       "album": {
+        "name": "Deep Under",
+        "url": "https://open.spotify.com/album/1aKq8VxKXbd53QhabHk8r0"
+      },
+      "artists": [
+        {
+          "name": "Starstrum",
+          "url": "https://open.spotify.com/artist/1UeSZoTyfTgvI34TuJIjJ3"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149750,
+      "name": "Deep Under",
+      "url": "https://open.spotify.com/track/4nEprHHwdUBLPprFIZD18B"
+    },
+    {
+      "album": {
         "name": "Definite",
         "url": "https://open.spotify.com/album/4lkKRBJ6o0mrMgh1Wcn2AV"
       },
@@ -2194,7 +2212,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 174857,
       "name": "Descanso",
       "url": "https://open.spotify.com/track/5kI3nJuVik4PYmVGBQ3lq3"
@@ -2468,6 +2486,24 @@
       "duration_ms": 201000,
       "name": "Eclipsar",
       "url": "https://open.spotify.com/track/0oqHzecOQrrHFYEERCTeqT"
+    },
+    {
+      "album": {
+        "name": "Edenora",
+        "url": "https://open.spotify.com/album/3UlTqukVhmL8tmMjFosnL9"
+      },
+      "artists": [
+        {
+          "name": "Armon\u00eda Astral",
+          "url": "https://open.spotify.com/artist/4SFy2zTDkBKrQ8vzuINBVf"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Edenora",
+      "url": "https://open.spotify.com/track/7owcWgxVqnwUzRzhJQG920"
     },
     {
       "album": {
@@ -4624,7 +4660,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 157658,
       "name": "Magical Calmness",
       "url": "https://open.spotify.com/track/20hO8nLj0SFWfC2b2d0Czs"
@@ -5362,7 +5398,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 198552,
       "name": "Northern Vision",
       "url": "https://open.spotify.com/track/5YOZJuXBLkMiOakT0xi0CA"
@@ -8074,7 +8110,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 178875,
       "name": "Through The Sky",
       "url": "https://open.spotify.com/track/4LJ0mcVqXgcPHVOwzIJv8B"
@@ -8662,6 +8698,24 @@
       "duration_ms": 153600,
       "name": "vindur",
       "url": "https://open.spotify.com/track/6cJq37QktSAzv6bdUq0Bdc"
+    },
+    {
+      "album": {
+        "name": "Visuals",
+        "url": "https://open.spotify.com/album/2R9pnIgNpXVJrZWWDXEgyi"
+      },
+      "artists": [
+        {
+          "name": "Nova Issue",
+          "url": "https://open.spotify.com/artist/2JG4r9snKhqze9RGKeGEvh"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178600,
+      "name": "Visuals",
+      "url": "https://open.spotify.com/track/10lYWPngF6IfK1WRXWNRAV"
     },
     {
       "album": {

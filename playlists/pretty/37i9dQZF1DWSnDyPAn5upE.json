@@ -1,6 +1,6 @@
 {
   "description": "Otherworldly voices in the realms of ambient. Cover: Grouper",
-  "num_followers": 61246,
+  "num_followers": 61290,
   "original_name": "ethereal voices",
   "owner": {
     "name": "Spotify",
@@ -355,6 +355,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Point Of Entry",
+        "url": "https://open.spotify.com/album/7aDfAxYIvKK1VSbSwhgFpe"
+      },
+      "artists": [
+        {
+          "name": "Jonny Nash",
+          "url": "https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Theories",
+      "url": "https://open.spotify.com/track/4ydGyZ14rN1gWavN80KMzs"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Spirit of the Forest",
         "url": "https://open.spotify.com/album/7cTJu6RVRTitObgrQIoxbD"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 163989,
       "name": "Spirit of the Forest",
       "url": "https://open.spotify.com/track/25OzrUpZRRMAciSSuHA1tw"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Point Of Entry",
-        "url": "https://open.spotify.com/album/7aDfAxYIvKK1VSbSwhgFpe"
-      },
-      "artists": [
-        {
-          "name": "Jonny Nash",
-          "url": "https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Theories",
-      "url": "https://open.spotify.com/track/4ydGyZ14rN1gWavN80KMzs"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -455,6 +455,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Revival Renaissance Rebirth (Act 1)",
+        "url": "https://open.spotify.com/album/6jh3oBLsscOI7bXBXfqSSW"
+      },
+      "artists": [
+        {
+          "name": "SymphoCat",
+          "url": "https://open.spotify.com/artist/4cX8nm4XgKt3U0hfVx9NqN"
+        }
+      ],
+      "duration_ms": 304934,
+      "name": "999 Renaissance",
+      "url": "https://open.spotify.com/track/0EqNLH4s6EJGhcFNJ9ZaP2"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "OFFAIR: The Power of your Subconscious Mind Vol 1: SPACE",
         "url": "https://open.spotify.com/album/1gUxFwmsNfsAmyrirHs3hG"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 222212,
       "name": "CAPRICORN",
       "url": "https://open.spotify.com/track/4WkEVhfzvQYr0GqOyuRthu"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Revival Renaissance Rebirth (Act 1)",
-        "url": "https://open.spotify.com/album/6jh3oBLsscOI7bXBXfqSSW"
-      },
-      "artists": [
-        {
-          "name": "SymphoCat",
-          "url": "https://open.spotify.com/artist/4cX8nm4XgKt3U0hfVx9NqN"
-        }
-      ],
-      "duration_ms": 304934,
-      "name": "999 Renaissance",
-      "url": "https://open.spotify.com/track/0EqNLH4s6EJGhcFNJ9ZaP2"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1067,42 +1067,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Lost in Time",
-        "url": "https://open.spotify.com/album/5GaAIH4lAt4HCGmmpaFpt7"
-      },
-      "artists": [
-        {
-          "name": "Murcof",
-          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
-        }
-      ],
-      "duration_ms": 114080,
-      "name": "Chapitre I",
-      "url": "https://open.spotify.com/track/2itx999N8BnjbuHJgtn4Av"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "emerged, vol. II",
-        "url": "https://open.spotify.com/album/0QQdfdlFytl4zZjmBInUEb"
-      },
-      "artists": [
-        {
-          "name": "badfocus",
-          "url": "https://open.spotify.com/artist/5ec0e3hAOAh9jeqUCvoRAh"
-        },
-        {
-          "name": "Albert \u0160tifter",
-          "url": "https://open.spotify.com/artist/6yynqBHksHTX8RxjCUqnhi"
-        }
-      ],
-      "duration_ms": 143157,
-      "name": "abundance",
-      "url": "https://open.spotify.com/track/68PdypBDiAkvrARPOnT03A"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Pray for Us",
         "url": "https://open.spotify.com/album/5FCfLrWXgzKOvI1zOx9tJo"
       },
@@ -1123,6 +1087,54 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Lost in Time",
+        "url": "https://open.spotify.com/album/5GaAIH4lAt4HCGmmpaFpt7"
+      },
+      "artists": [
+        {
+          "name": "Murcof",
+          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
+        }
+      ],
+      "duration_ms": 114080,
+      "name": "Chapitre I",
+      "url": "https://open.spotify.com/track/2itx999N8BnjbuHJgtn4Av"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Fantas Variations",
+        "url": "https://open.spotify.com/album/7zytkfZ6AvjmCbvwqFgFWO"
+      },
+      "artists": [
+        {
+          "name": "Caterina Barbieri",
+          "url": "https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu"
+        },
+        {
+          "name": "Evelyn Saylor",
+          "url": "https://open.spotify.com/artist/41T8k3OwxjwiIG8WfpU3Kr"
+        },
+        {
+          "name": "Lyra Pramuk",
+          "url": "https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm"
+        },
+        {
+          "name": "Annie Garlid",
+          "url": "https://open.spotify.com/artist/39ePqE7lVGgRzWHoQNRz0V"
+        },
+        {
+          "name": "Stine Janvin",
+          "url": "https://open.spotify.com/artist/6klRil30SiILsNixh4xy4Q"
+        }
+      ],
+      "duration_ms": 460892,
+      "name": "Fantas Variation for Voices",
+      "url": "https://open.spotify.com/track/67bJXVcOsU3JPjmSngBkfV"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "There Up, Behind The Moon",
         "url": "https://open.spotify.com/album/31SDMBuesvAQqIYRtcdE0m"
       },
@@ -1139,6 +1151,26 @@
       "duration_ms": 444000,
       "name": "Bright Girl",
       "url": "https://open.spotify.com/track/6ULNDapgfYtl8IW4KzhmCd"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "emerged, vol. II",
+        "url": "https://open.spotify.com/album/0QQdfdlFytl4zZjmBInUEb"
+      },
+      "artists": [
+        {
+          "name": "badfocus",
+          "url": "https://open.spotify.com/artist/5ec0e3hAOAh9jeqUCvoRAh"
+        },
+        {
+          "name": "Albert \u0160tifter",
+          "url": "https://open.spotify.com/artist/6yynqBHksHTX8RxjCUqnhi"
+        }
+      ],
+      "duration_ms": 143157,
+      "name": "abundance",
+      "url": "https://open.spotify.com/track/68PdypBDiAkvrARPOnT03A"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1179,38 +1211,6 @@
       "duration_ms": 227631,
       "name": "Respite",
       "url": "https://open.spotify.com/track/5IqUyrmnlu5PkHlnn0Nsmf"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Fantas Variations",
-        "url": "https://open.spotify.com/album/7zytkfZ6AvjmCbvwqFgFWO"
-      },
-      "artists": [
-        {
-          "name": "Caterina Barbieri",
-          "url": "https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu"
-        },
-        {
-          "name": "Evelyn Saylor",
-          "url": "https://open.spotify.com/artist/41T8k3OwxjwiIG8WfpU3Kr"
-        },
-        {
-          "name": "Lyra Pramuk",
-          "url": "https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm"
-        },
-        {
-          "name": "Annie Garlid",
-          "url": "https://open.spotify.com/artist/39ePqE7lVGgRzWHoQNRz0V"
-        },
-        {
-          "name": "Stine Janvin",
-          "url": "https://open.spotify.com/artist/6klRil30SiILsNixh4xy4Q"
-        }
-      ],
-      "duration_ms": 460892,
-      "name": "Fantas Variation for Voices",
-      "url": "https://open.spotify.com/track/67bJXVcOsU3JPjmSngBkfV"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "a journey\u2026",
+        "url": "https://open.spotify.com/album/7iejPgP3BdBOHjAgC1BueW"
+      },
+      "artists": [
+        {
+          "name": "Hinako Omori",
+          "url": "https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB"
+        }
+      ],
+      "duration_ms": 268440,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/1XcYFFWPhEcE47eEx2X5Rq"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Languoria",
         "url": "https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 256682,
       "name": "Morning Room I",
       "url": "https://open.spotify.com/track/4ilKTNUX2tnJFrFNHJcOHm"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "a journey\u2026",
-        "url": "https://open.spotify.com/album/7iejPgP3BdBOHjAgC1BueW"
-      },
-      "artists": [
-        {
-          "name": "Hinako Omori",
-          "url": "https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB"
-        }
-      ],
-      "duration_ms": 268440,
-      "name": "Ocean",
-      "url": "https://open.spotify.com/track/1XcYFFWPhEcE47eEx2X5Rq"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1515,26 +1515,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "The 90s Was A Feeling",
-        "url": "https://open.spotify.com/album/6MayzDqtZa39VVtdR6yHxw"
-      },
-      "artists": [
-        {
-          "name": "IKSRE",
-          "url": "https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O"
-        },
-        {
-          "name": "Party Store",
-          "url": "https://open.spotify.com/artist/01uGTwt1kEN1jvAUQvSPU2"
-        }
-      ],
-      "duration_ms": 410000,
-      "name": "The 90s Was A Feeling",
-      "url": "https://open.spotify.com/track/3mMeMV86wXN1sMSmXXUaoY"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Forward / Wreck Dive",
         "url": "https://open.spotify.com/album/0bEsbKQeZyI4W473lga8CN"
       },
@@ -1571,18 +1551,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "chamomile",
-        "url": "https://open.spotify.com/album/2uZARWfUPoP4zhY5NhoKxj"
+        "name": "The 90s Was A Feeling",
+        "url": "https://open.spotify.com/album/6MayzDqtZa39VVtdR6yHxw"
       },
       "artists": [
         {
-          "name": "marine eyes",
-          "url": "https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25"
+          "name": "IKSRE",
+          "url": "https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O"
+        },
+        {
+          "name": "Party Store",
+          "url": "https://open.spotify.com/artist/01uGTwt1kEN1jvAUQvSPU2"
         }
       ],
-      "duration_ms": 242000,
-      "name": "chamomile",
-      "url": "https://open.spotify.com/track/2UUgL4njMUrtqoylzUfDus"
+      "duration_ms": 410000,
+      "name": "The 90s Was A Feeling",
+      "url": "https://open.spotify.com/track/3mMeMV86wXN1sMSmXXUaoY"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1603,6 +1587,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "chamomile",
+        "url": "https://open.spotify.com/album/2uZARWfUPoP4zhY5NhoKxj"
+      },
+      "artists": [
+        {
+          "name": "marine eyes",
+          "url": "https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "chamomile",
+      "url": "https://open.spotify.com/track/2UUgL4njMUrtqoylzUfDus"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "The Distance Between Heart And Mouth",
         "url": "https://open.spotify.com/album/2zXMfKxsrjOpTRfoYiGtQu"
       },
@@ -1615,6 +1615,22 @@
       "duration_ms": 295623,
       "name": "Silent Talk",
       "url": "https://open.spotify.com/track/3l5wGV9SyxpNaBp5CCMhIc"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Grand Views",
+        "url": "https://open.spotify.com/album/4oO7UiaBkjDeXtzOVnkYW1"
+      },
+      "artists": [
+        {
+          "name": "Hanna Lindgren",
+          "url": "https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2"
+        }
+      ],
+      "duration_ms": 306908,
+      "name": "Epic Mirage",
+      "url": "https://open.spotify.com/track/54M2YOXv7W5EDKTqbxRk4D"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1635,22 +1651,6 @@
       "duration_ms": 198880,
       "name": "For You I Am Missing \u2026",
       "url": "https://open.spotify.com/track/5rVeiG9p1XlvfC1ch2zqnp"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Grand Views",
-        "url": "https://open.spotify.com/album/4oO7UiaBkjDeXtzOVnkYW1"
-      },
-      "artists": [
-        {
-          "name": "Hanna Lindgren",
-          "url": "https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2"
-        }
-      ],
-      "duration_ms": 306908,
-      "name": "Epic Mirage",
-      "url": "https://open.spotify.com/track/54M2YOXv7W5EDKTqbxRk4D"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Kistvaen",
-        "url": "https://open.spotify.com/album/2FyQ190yTNtBb54jvQzs80"
-      },
-      "artists": [
-        {
-          "name": "Roly Porter",
-          "url": "https://open.spotify.com/artist/4RN8pUdphaky5GRL8rUL6P"
-        }
-      ],
-      "duration_ms": 360000,
-      "name": "An Open Door",
-      "url": "https://open.spotify.com/track/3SMUq0TSlF7Q8Ti7ClAgCi"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Aquarius/Pisces",
         "url": "https://open.spotify.com/album/1EeFUVRFKGK3p4KBckGf5W"
       },
@@ -1723,18 +1707,18 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "And You Know I Care",
-        "url": "https://open.spotify.com/album/5Mzv0javtPtGctQWoIBFYZ"
+        "name": "Kistvaen",
+        "url": "https://open.spotify.com/album/2FyQ190yTNtBb54jvQzs80"
       },
       "artists": [
         {
-          "name": "Fiona Brice",
-          "url": "https://open.spotify.com/artist/40qCY0kvzs74ToaYNJ58iT"
+          "name": "Roly Porter",
+          "url": "https://open.spotify.com/artist/4RN8pUdphaky5GRL8rUL6P"
         }
       ],
-      "duration_ms": 289293,
-      "name": "Nocturnal",
-      "url": "https://open.spotify.com/track/7cjpshKIVqRHSvFFgf69DN"
+      "duration_ms": 360000,
+      "name": "An Open Door",
+      "url": "https://open.spotify.com/track/3SMUq0TSlF7Q8Ti7ClAgCi"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1759,6 +1743,22 @@
       "duration_ms": 239000,
       "name": "A Model Of Reality - Aonian Remix",
       "url": "https://open.spotify.com/track/5vwXzugL0n34KQYLP9PRhA"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "And You Know I Care",
+        "url": "https://open.spotify.com/album/5Mzv0javtPtGctQWoIBFYZ"
+      },
+      "artists": [
+        {
+          "name": "Fiona Brice",
+          "url": "https://open.spotify.com/artist/40qCY0kvzs74ToaYNJ58iT"
+        }
+      ],
+      "duration_ms": 289293,
+      "name": "Nocturnal",
+      "url": "https://open.spotify.com/track/7cjpshKIVqRHSvFFgf69DN"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1803,6 +1803,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Hills Have Eyes",
+        "url": "https://open.spotify.com/album/6iyqB1HfTm68FESZYWb91F"
+      },
+      "artists": [
+        {
+          "name": "TWEAKS",
+          "url": "https://open.spotify.com/artist/0Eee47Sroig9UczLZGtyVn"
+        }
+      ],
+      "duration_ms": 168263,
+      "name": "Hills Have Eyes",
+      "url": "https://open.spotify.com/track/6Vk4vbFSdMNlJzs2NRtpVq"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "My Life / Under The Moon Over The Sky",
         "url": "https://open.spotify.com/album/014P491xuSjVhCPbMapFbt"
       },
@@ -1835,22 +1851,6 @@
       "duration_ms": 650794,
       "name": "Sospiro",
       "url": "https://open.spotify.com/track/1TJuEpWvqUgqCsHmuq8I6A"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Fountainhead",
-        "url": "https://open.spotify.com/album/5aiBuBSucrcPK6t8dtLMhn"
-      },
-      "artists": [
-        {
-          "name": "Courtney Swain",
-          "url": "https://open.spotify.com/artist/0OCkoM4fVNUbhQFsgww0a0"
-        }
-      ],
-      "duration_ms": 119556,
-      "name": "does it have to be beautiful",
-      "url": "https://open.spotify.com/track/71vjp6c04nnr2dPkul2p7U"
     }
   ],
   "unique_name": "ethereal voices",

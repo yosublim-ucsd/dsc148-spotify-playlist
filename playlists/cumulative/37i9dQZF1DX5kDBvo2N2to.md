@@ -4,11 +4,12 @@
 
 > låtarna som inte går att få nog av.
 
-146 songs - 8 hr 47 min
+148 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [22 \(feat\. Nadja Evelina\)](https://open.spotify.com/track/0scqi9Ay3rmAV2gm8di8VA) | [Tjejdikter](https://open.spotify.com/artist/24jxioCskQfOCxvBwhJegc), [Nadja Evelina](https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC) | [22 \(feat\. Nadja Evelina\)](https://open.spotify.com/album/2fqcOlGoHnGTLOpRE1vjak) | 2:53 | 2024-06-28 |  |
+| [8 Days](https://open.spotify.com/track/6t2CRoMkLF78OdffqSsfhz) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [8 Days](https://open.spotify.com/album/1lPG1cpJqD025tNy4r6vjD) | 2:10 | 2024-09-13 |  |
 | [Above Love](https://open.spotify.com/track/7pBylm1bDkNrlBzCvUoLD4) | [Say Lou Lou](https://open.spotify.com/artist/0flVPOQPuTboUwEtzPk6vj) | [Above Love](https://open.spotify.com/album/25vMXIp2LP75SlECzIAqMj) | 2:42 | 2024-06-28 |  |
 | [Affären \(feat\. Dolce\)](https://open.spotify.com/track/5i4FRfsZvjO8idogUXQFWx) | [Tjejdikter](https://open.spotify.com/artist/24jxioCskQfOCxvBwhJegc), [Dolce](https://open.spotify.com/artist/6wIPycsVyFlJaHYTW8qY0T) | [Affären \(feat\. Dolce\)](https://open.spotify.com/album/2DzRKFO1sfulETwH4tE3bE) | 3:45 | 2024-08-08 |  |
 | [ALL OVER](https://open.spotify.com/track/1FR6MeJQQctGXtLyGifRqh) | [Etta Zelmani](https://open.spotify.com/artist/5DtXIIm0QQSZ9mv6Ie0Ua0) | [ALL OVER](https://open.spotify.com/album/0ufEl4mTVplg46TrT5owzB) | 3:43 | 2024-06-28 | 2024-09-13 |
@@ -40,7 +41,7 @@
 | [DETOX](https://open.spotify.com/track/1vpbdWBrf1enMiVHHICPk0) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [DETOX](https://open.spotify.com/album/6E2Xs9Hy9ZAXmquNIsiM00) | 2:34 | 2024-08-15 |  |
 | [Devil Mode](https://open.spotify.com/track/6qoLE0fGOkA8qyFAS27g9c) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Devil Mode](https://open.spotify.com/album/2BGKztt6hybqY9C5GMcpUf) | 3:04 | 2024-06-28 |  |
 | [Diabla](https://open.spotify.com/track/2q4wXd7mYsZeCtDwQInAjJ) | [Zoe Lobos](https://open.spotify.com/artist/75EGjJY7wrAOSa4aJ8dReA) | [Diabla](https://open.spotify.com/album/4BUh2zPQLBmXid1WIGx1YP) | 2:32 | 2024-06-28 |  |
-| [Dig jag vill ha](https://open.spotify.com/track/6MwtCgr9medMQc85XMAEp3) | [crescenterna](https://open.spotify.com/artist/3nRWFDHzmQF7O2xMAZUhyh) | [Djuret](https://open.spotify.com/album/2K8ZMDwcEkGcBgYzsiTPOo) | 4:29 | 2024-06-28 |  |
+| [Dig jag vill ha](https://open.spotify.com/track/6MwtCgr9medMQc85XMAEp3) | [crescenterna](https://open.spotify.com/artist/3nRWFDHzmQF7O2xMAZUhyh) | [Djuret](https://open.spotify.com/album/2K8ZMDwcEkGcBgYzsiTPOo) | 4:29 | 2024-06-28 | 2024-09-14 |
 | [Dina Ögon Är Nakna](https://open.spotify.com/track/5mqzvZhHp8kFDjUig4kXYt) | [Erik Lundin](https://open.spotify.com/artist/0dCSPVQ30JS4cRaCTtbEmp) | [Dina Ögon Är Nakna](https://open.spotify.com/album/36kAfpQDj75JajMG41D1VX) | 3:20 | 2024-06-28 |  |
 | [Ditt hjärta bor](https://open.spotify.com/track/61HiBDc2oUSHectbGwr7GU) | [Strobaek](https://open.spotify.com/artist/082YfpbTrmcJ7CVtnQcbQp) | [Sjung om \(lyxversion\)](https://open.spotify.com/album/0ncTdDynh14mkzhC6KHfJ2) | 2:39 | 2024-06-28 | 2024-08-30 |
 | [Dying Light](https://open.spotify.com/track/1aP1ra3sd4m6xhGrgZTnrE) | [Vilhelm Buchaus](https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl) | [Dying Light](https://open.spotify.com/album/1ViOnaTum7r0odw5UPtkzH) | 2:53 | 2024-06-28 |  |
@@ -138,8 +139,9 @@
 | [Strong](https://open.spotify.com/track/6kvS2z82Q6l7h4DnzteKwO) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Strong](https://open.spotify.com/album/3ZrhrH8iDFgDLEgVYfobR7) | 2:59 | 2024-08-15 |  |
 | [Summer](https://open.spotify.com/track/0tEhECI70FisYPPYoa8JXL) | [Felix Sandman](https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy) | [Sandy Karlo](https://open.spotify.com/album/5E7azXTKV0H4jWRXyG4aMZ) | 5:04 | 2024-06-28 |  |
 | [Talk](https://open.spotify.com/track/1oJXyOgHH1qZGpgsODvt69) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Talk / Bye Bye](https://open.spotify.com/album/6qCiCh8EV2osyLSIXvZ93N) | 2:31 | 2024-06-28 |  |
+| [Talk talk featuring troye sivan](https://open.spotify.com/track/2LUD3874dlzeRa34Hi7ohW) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Talk talk featuring troye sivan](https://open.spotify.com/album/4hSYRtDjN1XbTqBKTw33sj) | 2:53 | 2024-09-13 |  |
 | [The First Train Home](https://open.spotify.com/track/3dhWVDkvWw3CA4xUfuPMjh) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [The First Train Home](https://open.spotify.com/album/5IJoIoHhgV3xrJDs2SRXHx) | 3:32 | 2024-06-28 | 2024-08-30 |
-| [The People](https://open.spotify.com/track/70O9SdAgSLqakXgopvDD40) | [Bellvie](https://open.spotify.com/artist/5TfMFZyVModzZjI5DOWwnl) | [The People](https://open.spotify.com/album/0m5yZ30H8mnkxHaQdnVhI9) | 4:32 | 2024-06-28 |  |
+| [The People](https://open.spotify.com/track/70O9SdAgSLqakXgopvDD40) | [Bellvie](https://open.spotify.com/artist/5TfMFZyVModzZjI5DOWwnl) | [The People](https://open.spotify.com/album/0m5yZ30H8mnkxHaQdnVhI9) | 4:32 | 2024-06-28 | 2024-09-14 |
 | [Till hälften människa, till hälften moderat](https://open.spotify.com/track/6X1QmXwBadartUpzhUfgjS) | [The Tarantula Waltz](https://open.spotify.com/artist/7KqyMhqYoujfdaQZni6iUR), [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [Till hälften människa, till hälften moderat](https://open.spotify.com/album/7M2UQRwp5YgXHE2PvMShgG) | 4:44 | 2024-06-28 |  |
 | [Tillbaka till Stockholm](https://open.spotify.com/track/31M2PcGLJvTvqwdP7WZmAM) | [Galleriet](https://open.spotify.com/artist/32ThSpM7Ukigtw16EIYYT7) | [Slutscen](https://open.spotify.com/album/69hclcYXfpNiRiqSwj7UHJ) | 3:07 | 2024-06-28 |  |
 | [Trouble in Paradise](https://open.spotify.com/track/0YFPpk8QJCKIoLrhqBOj0y) | [XOV](https://open.spotify.com/artist/58jXqrbY8mAk006MNu3NCv) | [Trouble in Paradise](https://open.spotify.com/album/3k2wn8fQ47FSKZVLibgFiY) | 3:24 | 2024-08-22 |  |

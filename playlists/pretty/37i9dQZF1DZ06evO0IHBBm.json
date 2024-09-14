@@ -1,12 +1,12 @@
 {
   "description": "This is Damares. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 29816,
+  "num_followers": 29823,
   "original_name": "This Is Damares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuDdgAAAAAAz11GVm8lThLKsvyuyV5yx",
+  "snapshot_id": "ZuIvAAAAAAC/tPqyhK7Qb0idV7LyvL14",
   "tracks": [
     {
       "added_at": null,
@@ -679,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Supera\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/1ql8DiJv3j7JuiQSdEcoQg"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 333162,
+      "name": "Pai, Preciso de Ti",
+      "url": "https://open.spotify.com/track/324t5ZkCfdhBxP2t6708pD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cad\u00ea o vencedor?",
         "url": "https://open.spotify.com/album/07yxyLlox691nqPNZDyvNq"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 222602,
       "name": "N\u00e3o pare (Participa\u00e7\u00e3o especial de Damares)",
       "url": "https://open.spotify.com/track/1vZgOwVMWo33msljJa4h5t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Supera\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/1ql8DiJv3j7JuiQSdEcoQg"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 333162,
-      "name": "Pai, Preciso de Ti",
-      "url": "https://open.spotify.com/track/324t5ZkCfdhBxP2t6708pD"
     },
     {
       "added_at": null,

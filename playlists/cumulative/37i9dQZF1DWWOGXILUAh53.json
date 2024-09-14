@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hottest new pop with all the drops. Cover: The Chainsmokers x Kim Petras",
+  "description": "The hottest new pop with all the drops. Cover: Taylor Swift",
   "name": "New Dance Pop",
   "tracks": [
     {
@@ -24,7 +24,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 172265,
       "name": "(Can\u2019t Get You) Off My Mind",
       "url": "https://open.spotify.com/track/2nBqFmllpg9RXlWGKpSWQT"
@@ -416,6 +416,24 @@
       "duration_ms": 149717,
       "name": "4U",
       "url": "https://open.spotify.com/track/3UGAJ5bHrDvxH28oJq5Uiw"
+    },
+    {
+      "album": {
+        "name": "8 Days",
+        "url": "https://open.spotify.com/album/1lPG1cpJqD025tNy4r6vjD"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130391,
+      "name": "8 Days",
+      "url": "https://open.spotify.com/track/6t2CRoMkLF78OdffqSsfhz"
     },
     {
       "album": {
@@ -3534,7 +3552,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 168347,
       "name": "Chase The Sunlight",
       "url": "https://open.spotify.com/track/1nIAqhqw4Mo37zA41xm1h4"
@@ -8961,6 +8979,28 @@
     },
     {
       "album": {
+        "name": "Heart Like Mine (feat. Rosa Linn)",
+        "url": "https://open.spotify.com/album/2k7ml7X0RXedgJaW7nkjak"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149673,
+      "name": "Heart Like Mine (feat. Rosa Linn)",
+      "url": "https://open.spotify.com/track/4xqekuN4lfu6MBeWov0Icl"
+    },
+    {
+      "album": {
         "name": "Heart Racing",
         "url": "https://open.spotify.com/album/11RjYIgoAoNjAYnCkLYidJ"
       },
@@ -10364,6 +10404,28 @@
       "duration_ms": 123726,
       "name": "I Am",
       "url": "https://open.spotify.com/track/6MVk4SW25q1CNENQE1RHyv"
+    },
+    {
+      "album": {
+        "name": "I Can Do It With a Broken Heart - Dombresky Remix",
+        "url": "https://open.spotify.com/album/3WNGsnTetig4bJbw2BMbK7"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Dombresky",
+          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189391,
+      "name": "I Can Do It With a Broken Heart - Dombresky Remix",
+      "url": "https://open.spotify.com/track/0hFF0aqyjDwDh6SQwRbTyx"
     },
     {
       "album": {
@@ -12813,6 +12875,28 @@
     },
     {
       "album": {
+        "name": "Like Sunshine",
+        "url": "https://open.spotify.com/album/3L9LvzvCmv5qQr5wsDiEa1"
+      },
+      "artists": [
+        {
+          "name": "Lavern",
+          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
+        },
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163750,
+      "name": "Like Sunshine",
+      "url": "https://open.spotify.com/track/1Tfg0XYAGbUSvQiGWWBmXa"
+    },
+    {
+      "album": {
         "name": "Lionheart (Fearless)",
         "url": "https://open.spotify.com/album/68U7caniDmdQHifJdnlYFT"
       },
@@ -14169,6 +14253,28 @@
     },
     {
       "album": {
+        "name": "We Could Be Love",
+        "url": "https://open.spotify.com/album/7MXx2NOHN8IsVPY9x57QXU"
+      },
+      "artists": [
+        {
+          "name": "Hayden James",
+          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+        },
+        {
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/7dN0mzJ5TUbGIdmEAiytzl"
+    },
+    {
+      "album": {
         "name": "Melody",
         "url": "https://open.spotify.com/album/1pLnRSFohTMJjT6gW9CIXg"
       },
@@ -14652,6 +14758,28 @@
       "duration_ms": 144230,
       "name": "Mistake",
       "url": "https://open.spotify.com/track/1WLpHzABY3TFLkOQoU4bDW"
+    },
+    {
+      "album": {
+        "name": "Modern Tragedy",
+        "url": "https://open.spotify.com/album/7B4aT17IgD8dMcyEQWxQqk"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179909,
+      "name": "Modern Tragedy",
+      "url": "https://open.spotify.com/track/2Jzlk2D053PRFg8pMYAhyV"
     },
     {
       "album": {
@@ -21144,6 +21272,28 @@
       "duration_ms": 189954,
       "name": "Supposed To Be",
       "url": "https://open.spotify.com/track/4rq5D7NwWLUy1pLYgyfeDL"
+    },
+    {
+      "album": {
+        "name": "Surrender Your Love",
+        "url": "https://open.spotify.com/album/1R4yShXuxu2vVoM01StCG6"
+      },
+      "artists": [
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Sam Gray",
+          "url": "https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204375,
+      "name": "Surrender Your Love",
+      "url": "https://open.spotify.com/track/3lsaizjKzS1fxdo7eIum40"
     },
     {
       "album": {

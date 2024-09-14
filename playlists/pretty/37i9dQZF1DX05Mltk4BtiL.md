@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Mltk4BtiL.md) - [plain]
 
 > Nur tote Fische schwimmen mit dem Strom\. Cover: Yu
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,676 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,700 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,24 +39,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Mltk4BtiL.md) - [plain]
 | 29 | [absolute gewinner](https://open.spotify.com/track/6zyUsh5QCMywV1A7bEky45) | [Tiavo](https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B) | [absolute gewinner](https://open.spotify.com/album/1bcvCOkwy8Jpwxac1AJbc4) | 2:21 |
 | 30 | [bin noch wach...wo bist du?](https://open.spotify.com/track/4PlrK6tuwiJS4GZG3faqAk) | [Ami Warning](https://open.spotify.com/artist/7emjIbMonyAREBQkHhblu9), [Oehl](https://open.spotify.com/artist/0LLCimRswRk6Ks5oBJ4Abp) | [Auszeit](https://open.spotify.com/album/0jjRLSkPAyPAqLEkhtfJj1) | 3:08 |
 | 31 | [Leere Flaschen](https://open.spotify.com/track/7vxZqMRKJAIGCJPVkZAIor) | [Anda Morts](https://open.spotify.com/artist/4I2FyJP0zs6IPgasQVwG7r) | [Leere Flaschen](https://open.spotify.com/album/1O60XqPGhSgEJ1LPDLlwgK) | 2:53 |
-| 32 | [Lesbisch](https://open.spotify.com/track/15PJXv3g9r3Q6RLkotwpWf) | [Ebow](https://open.spotify.com/artist/0A6JvVRIH3NZRto4r1OUrA) | [Lesbisch](https://open.spotify.com/album/1pbnCXnVelZ9NF1G6nJVNI) | 3:23 |
-| 33 | [Marmelade Und Himbeereis](https://open.spotify.com/track/3CrC7C45IHGfkD5Z1SOSOH) | [Leftovers](https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI) | [Marmelade Und Himbeereis](https://open.spotify.com/album/064OxNn7XPDjxpmaKu57Di) | 3:48 |
+| 32 | [Marmelade Und Himbeereis](https://open.spotify.com/track/3CrC7C45IHGfkD5Z1SOSOH) | [Leftovers](https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI) | [Marmelade Und Himbeereis](https://open.spotify.com/album/064OxNn7XPDjxpmaKu57Di) | 3:48 |
+| 33 | [Lesbisch](https://open.spotify.com/track/15PJXv3g9r3Q6RLkotwpWf) | [Ebow](https://open.spotify.com/artist/0A6JvVRIH3NZRto4r1OUrA) | [Lesbisch](https://open.spotify.com/album/1pbnCXnVelZ9NF1G6nJVNI) | 3:23 |
 | 34 | [aliens in paris](https://open.spotify.com/track/7F8jZcmpr2YK4CbDSTJDtF) | [Tiavo](https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B), [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg) | [aliens in paris](https://open.spotify.com/album/0wKsf2309U7juUAGrB9Ac4) | 3:33 |
-| 35 | [Rumba](https://open.spotify.com/track/53c422MkQ07JBRO2DsHYFf) | [Marlo Grosshardt](https://open.spotify.com/artist/0oUy6JfoeDteAPMDi1lNJo) | [Rumba](https://open.spotify.com/album/4fSjPl611azYLbPgIfHD4f) | 3:56 |
+| 35 | [Muttertag](https://open.spotify.com/track/2Fk9KaQrSDCjOBYxcnQmFw) | [Antilopen Gang](https://open.spotify.com/artist/1HORQCHE3Q4m0tAKiRsIAB) | [Muttertag](https://open.spotify.com/album/6gNgUadu6BYTDHjuBx6GWN) | 1:06 |
 | 36 | [Stures dummes Herz](https://open.spotify.com/track/2Jw8Ij0rDWuUDKvkktFzrO) | [TRÄNEN](https://open.spotify.com/artist/4NKHTY0ghFbhkFwl29BxMD) | [Stures dummes Herz](https://open.spotify.com/album/7iTZebDTdiXQC4uluRWoxi) | 2:56 |
-| 37 | [Muttertag](https://open.spotify.com/track/2Fk9KaQrSDCjOBYxcnQmFw) | [Antilopen Gang](https://open.spotify.com/artist/1HORQCHE3Q4m0tAKiRsIAB) | [Muttertag](https://open.spotify.com/album/6gNgUadu6BYTDHjuBx6GWN) | 1:06 |
+| 37 | [Rumba](https://open.spotify.com/track/53c422MkQ07JBRO2DsHYFf) | [Marlo Grosshardt](https://open.spotify.com/artist/0oUy6JfoeDteAPMDi1lNJo) | [Rumba](https://open.spotify.com/album/4fSjPl611azYLbPgIfHD4f) | 3:56 |
 | 38 | [Achtung Fragile](https://open.spotify.com/track/6Mc07uFlXtFxqBDMv1He0f) | [Tropikel Ltd](https://open.spotify.com/artist/15VagIVEAdYm95xs0ayi1x) | [Achtung Fragile](https://open.spotify.com/album/4Suc6drXFcuMj1IofmJeV9) | 2:27 |
 | 39 | [Das Neue Normal](https://open.spotify.com/track/4JZzUgcFrkWisEO1yirDj7) | [ok.danke.tschüss](https://open.spotify.com/artist/73SW9LnBmuff938R5ZbqK4) | [Das Neue Normal](https://open.spotify.com/album/6X5diaWcPFGcsNMjwnWZdC) | 3:33 |
 | 40 | [Therapie](https://open.spotify.com/track/0qDvx4nKq97cNYR3udSFBj) | [Wanda](https://open.spotify.com/artist/6Kg9EvjSnEm5swmrvWCJyB) | [Therapie](https://open.spotify.com/album/42NQ4ja4LsyTICmR1tL3vC) | 2:46 |
-| 41 | [Der Weg zu zweit](https://open.spotify.com/track/1m5sm7IfjJzHWBDsK2FC0r) | [Frittenbude](https://open.spotify.com/artist/7jy0nL3F5ehHJxXYMBImkk) | [Der Weg zu zweit](https://open.spotify.com/album/2oDEOQhPicIKRZ19vWOwF1) | 2:32 |
-| 42 | [Mensch am Mond](https://open.spotify.com/track/3ztlPP5pc0ZiX2Oa4YBYjx) | [Leftovers](https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI) | [Mensch am Mond](https://open.spotify.com/album/7zASnixcrPirKFIjhAwmXu) | 3:05 |
-| 43 | [Van Noten \- Live](https://open.spotify.com/track/1BcilPuV8RJ3mtGvTUC1Xv) | [Faber](https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM) | [Orpheum \(Live\)](https://open.spotify.com/album/70leZm9lR2a4sa7H3eP3qo) | 4:21 |
+| 41 | [Mensch am Mond](https://open.spotify.com/track/3ztlPP5pc0ZiX2Oa4YBYjx) | [Leftovers](https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI) | [Mensch am Mond](https://open.spotify.com/album/7zASnixcrPirKFIjhAwmXu) | 3:05 |
+| 42 | [Van Noten \- Live](https://open.spotify.com/track/1BcilPuV8RJ3mtGvTUC1Xv) | [Faber](https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM) | [Orpheum \(Live\)](https://open.spotify.com/album/70leZm9lR2a4sa7H3eP3qo) | 4:21 |
+| 43 | [Der Weg zu zweit](https://open.spotify.com/track/1m5sm7IfjJzHWBDsK2FC0r) | [Frittenbude](https://open.spotify.com/artist/7jy0nL3F5ehHJxXYMBImkk) | [Der Weg zu zweit](https://open.spotify.com/album/2oDEOQhPicIKRZ19vWOwF1) | 2:32 |
 | 44 | [die fabrik](https://open.spotify.com/track/228FnXbEKe9zjCVPAI4qbA) | [Tiavo](https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B), [GbR](https://open.spotify.com/artist/1PAQIPjvLHGZfcDwdR9eBm) | [die fabrik](https://open.spotify.com/album/3llTvy1SStPBl56onQN1JH) | 2:39 |
-| 45 | [Lied vom donnernden Leben](https://open.spotify.com/track/3tjMED46XQfYPDrL4gQ3mP) | [Betterov](https://open.spotify.com/artist/2LTDsDjf02umXildBzlrKZ) | [Lied vom donnernden Leben](https://open.spotify.com/album/65UtkkQeSJ3SK2gDnWpc8B) | 2:46 |
-| 46 | [So schreibt man seinen Song](https://open.spotify.com/track/0r10l0wnJ9SwV0rnQxBORe) | [Olli Schulz](https://open.spotify.com/artist/3FFqyoSbYAiE91jM3DAUb1) | [Vom Rand der Zeit](https://open.spotify.com/album/6dOkDpALZWcL8uuic3LjoH) | 3:23 |
-| 47 | [Geheimnis](https://open.spotify.com/track/50guZa3AiSjT2bXMm1xwQz) | [Florian Paul & Die Kapelle der letzten Hoffnung](https://open.spotify.com/artist/1yu9UIPwfNB7w4ZqjKSnnV), [Magdalena Wawra](https://open.spotify.com/artist/2vwWLDuUOvqphcrjhpVzaG) | [Geheimnis](https://open.spotify.com/album/7LhNRo0xj6F1SYL8kHbJ9y) | 2:19 |
-| 48 | [Skandal im Patriarchat](https://open.spotify.com/track/7Fpiu8kWaztTEfAV2t8GIY) | [PAULINKO](https://open.spotify.com/artist/6q19W6LjTlGIOtq4n0Hc54) | [Skandal im Patriarchat](https://open.spotify.com/album/4pUqmx6OldfqSmIC864HKB) | 3:22 |
-| 49 | [Das Fest](https://open.spotify.com/track/15ttYbkCS4LGeBYEBKpdJe) | [Oehl](https://open.spotify.com/artist/0LLCimRswRk6Ks5oBJ4Abp) | [Das Fest](https://open.spotify.com/album/6wsAw2KnjH439LE0oLd0YI) | 2:44 |
-| 50 | [zwei bier \(la la la\)](https://open.spotify.com/track/5HlxYAqsU0vXhKVS0rvROI) | [Leftovers](https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI) | [zwei bier \(la la la\)](https://open.spotify.com/album/4DmMom1MSf4NrKNgLtRDAa) | 3:29 |
+| 45 | [So schreibt man seinen Song](https://open.spotify.com/track/0r10l0wnJ9SwV0rnQxBORe) | [Olli Schulz](https://open.spotify.com/artist/3FFqyoSbYAiE91jM3DAUb1) | [Vom Rand der Zeit](https://open.spotify.com/album/6dOkDpALZWcL8uuic3LjoH) | 3:23 |
+| 46 | [Lied vom donnernden Leben](https://open.spotify.com/track/3tjMED46XQfYPDrL4gQ3mP) | [Betterov](https://open.spotify.com/artist/2LTDsDjf02umXildBzlrKZ) | [Lied vom donnernden Leben](https://open.spotify.com/album/65UtkkQeSJ3SK2gDnWpc8B) | 2:46 |
+| 47 | [zwei bier \(la la la\)](https://open.spotify.com/track/5HlxYAqsU0vXhKVS0rvROI) | [Leftovers](https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI) | [zwei bier \(la la la\)](https://open.spotify.com/album/4DmMom1MSf4NrKNgLtRDAa) | 3:29 |
+| 48 | [Geheimnis](https://open.spotify.com/track/50guZa3AiSjT2bXMm1xwQz) | [Florian Paul & Die Kapelle der letzten Hoffnung](https://open.spotify.com/artist/1yu9UIPwfNB7w4ZqjKSnnV), [Magdalena Wawra](https://open.spotify.com/artist/2vwWLDuUOvqphcrjhpVzaG) | [Geheimnis](https://open.spotify.com/album/7LhNRo0xj6F1SYL8kHbJ9y) | 2:19 |
+| 49 | [Skandal im Patriarchat](https://open.spotify.com/track/7Fpiu8kWaztTEfAV2t8GIY) | [PAULINKO](https://open.spotify.com/artist/6q19W6LjTlGIOtq4n0Hc54) | [Skandal im Patriarchat](https://open.spotify.com/album/4pUqmx6OldfqSmIC864HKB) | 3:22 |
+| 50 | [Das Fest](https://open.spotify.com/track/15ttYbkCS4LGeBYEBKpdJe) | [Oehl](https://open.spotify.com/artist/0LLCimRswRk6Ks5oBJ4Abp) | [Das Fest](https://open.spotify.com/album/6wsAw2KnjH439LE0oLd0YI) | 2:44 |
 
 Snapshot ID: `ZtDvYAAAAABB4WmOdM4dMuKZRtk7HMPC`

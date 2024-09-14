@@ -2,9 +2,9 @@
 
 ### [Indigo](https://open.spotify.com/playlist/37i9dQZF1DWUgBy0IJPlHq)
 
-> A new shade of Country\. Cover: Willow Avalon
+> A new shade of Country\. Cover: MJ Lenderman
 
-591 songs - 1 day 12 hr 9 min
+592 songs - 1 day 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,6 +218,7 @@
 | [Golden Child](https://open.spotify.com/track/54ST44raZeEPHldDpV0x2m) | [Mercy Bell](https://open.spotify.com/artist/66gM98dnEDRy8GkDmZt0EG) | [Golden Child](https://open.spotify.com/album/3zgi09x1GpxbxjBx087ajX) | 3:59 | 2021-12-17 | 2022-05-07 |
 | [Goldmine](https://open.spotify.com/track/2AZGbrndAyOFqIjs0dGoL6) | [JD Clayton](https://open.spotify.com/artist/70ro2NOrdi2XlFSLumYMTs) | [Long Way From Home](https://open.spotify.com/album/38plQlvslkwDwrEciLLEzx) | 3:56 | 2023-01-27 | 2024-01-27 |
 | [Gone as It Gets](https://open.spotify.com/track/2dNYJcUrqGVNp8KbVWpuZQ) | [Meg McRee](https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy), [Adam Chaffins](https://open.spotify.com/artist/7u8QKSBu9RZDBjCn0H4jlj), [Brit Taylor](https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC), [Ben Chapman](https://open.spotify.com/artist/1AbQ2l8a9JEh8FrJgf1OA9) | [Gone as It Gets](https://open.spotify.com/album/6fvDhmDp716QiTxeY0psKf) | 3:44 | 2022-01-14 | 2022-10-29 |
+| [Good Ol' Boys](https://open.spotify.com/track/0mJwh7DgT6nX6E7vlJvpH9) | [Mae Estes](https://open.spotify.com/artist/6352GDDDFjnbhNMDbCRIuX) | [Good Ol' Boys](https://open.spotify.com/album/5MFao6EdeWOIy9yDqMRLnj) | 3:18 | 2024-09-13 |  |
 | [Goodbye to Goodbye](https://open.spotify.com/track/41f6yx7Gr5rk2RBuckIgHz) | [Thomas Csorba](https://open.spotify.com/artist/21BSy0UVoDXEiRdA9v9uUH) | [Goodbye to Goodbye](https://open.spotify.com/album/2KbqG5h2YXacTVaDHSqlqG) | 3:46 | 2021-12-17 | 2022-02-19 |
 | [Grief is Only Love](https://open.spotify.com/track/3ahuBtIP8Hh1n5L8jUUzXD) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [søn of dad](https://open.spotify.com/album/1yoC2Wq50qymZj5HyF2z2A) | 4:25 | 2023-09-15 |  |
 | [Hallelujah](https://open.spotify.com/track/4rdE7Rtddm0BXwj6RBFSxL) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [Junky Star](https://open.spotify.com/album/7ElYJTBo4oG1lRWfZgfW5x) | 5:00 | 2022-01-14 | 2022-11-19 |
@@ -225,7 +226,7 @@
 | [Happy Hour](https://open.spotify.com/track/1NrpMKByuTCn9Bck5mdqOm) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [Happy Hour](https://open.spotify.com/album/5CZAEHWXrGtkUDQjsLyjM2) | 3:11 | 2022-09-02 | 2023-06-24 |
 | [Hard Luck & Circumstances](https://open.spotify.com/track/28ejnV7iWD3bIgBXwcTy5k) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Hard Luck & Circumstances](https://open.spotify.com/album/2feHLj9w7BcThwGsmBFO1E) | 3:04 | 2024-03-08 | 2024-04-06 |
 | [Haunted Mountain](https://open.spotify.com/track/45d44VPCRIW07tywccH8ii) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Haunted Mountain](https://open.spotify.com/album/7acJeJoMsDIo1JdIBi4hRV) | 5:11 | 2023-05-26 | 2023-07-15 |
-| [Have You A Heart](https://open.spotify.com/track/7AhVjOemVKsEiLSXvo9PHU) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Lover's Game](https://open.spotify.com/album/7AA6zNhoKZIJE2xJSDwd4W) | 4:20 | 2023-03-10 |  |
+| [Have You A Heart](https://open.spotify.com/track/7AhVjOemVKsEiLSXvo9PHU) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Lover's Game](https://open.spotify.com/album/7AA6zNhoKZIJE2xJSDwd4W) | 4:20 | 2023-03-10 | 2024-09-14 |
 | [Hawk For The Dove](https://open.spotify.com/track/62td314sXG1sOEtwiTOAnO) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Hawk For The Dove](https://open.spotify.com/album/1JoezS6AZYgO7E1VxKZcSy) | 3:47 | 2022-05-27 | 2022-09-03 |
 | [He Thinks He'll Keep Her](https://open.spotify.com/track/0NJXZQRMMGovlDAwktotqQ) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [He Thinks He'll Keep Her](https://open.spotify.com/album/56476dlZyNWcqVFVAWQrp5) | 4:07 | 2022-07-29 | 2023-01-14 |
 | [Heading South](https://open.spotify.com/track/2Dct3GykKZ58hpWRFfe2Qd) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Heading South](https://open.spotify.com/album/3Ca58JR3vDDMl5i8QKkWzP) | 2:51 | 2021-12-17 | 2022-03-12 |

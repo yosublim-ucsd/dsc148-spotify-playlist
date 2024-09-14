@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best indie tracks of the moment. Cover: Magdalena Bay",
+  "description": "The best indie tracks of the moment. Cover: Men I Trust",
   "name": "Indie All Stars",
   "tracks": [
     {
@@ -128,6 +128,24 @@
       "duration_ms": 289760,
       "name": "2 2 BOOTLEG",
       "url": "https://open.spotify.com/track/3qMTOPe1wpVVHkVuVL8SzB"
+    },
+    {
+      "album": {
+        "name": "2 Little Mountains",
+        "url": "https://open.spotify.com/album/5teUs0YI544K9Anr5IjKqf"
+      },
+      "artists": [
+        {
+          "name": "Milk & Bone",
+          "url": "https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132998,
+      "name": "2 Little Mountains",
+      "url": "https://open.spotify.com/track/6FqKatWR2tNugWFod9T9Vk"
     },
     {
       "album": {
@@ -466,7 +484,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 180568,
       "name": ":)",
       "url": "https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN"
@@ -2582,7 +2600,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 188360,
       "name": "Bad Remake",
       "url": "https://open.spotify.com/track/5UH4N852wbIVUcMfPGquu1"
@@ -3382,7 +3400,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 148021,
       "name": "Blackout Drunk",
       "url": "https://open.spotify.com/track/3pB18ZRXnr8gfVpIRREoJh"
@@ -4179,6 +4197,24 @@
     },
     {
       "album": {
+        "name": "Shirt",
+        "url": "https://open.spotify.com/album/2Z3KozCg7LVVLSEE0yXUod"
+      },
+      "artists": [
+        {
+          "name": "Porches",
+          "url": "https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161833,
+      "name": "Bread Believer",
+      "url": "https://open.spotify.com/track/3ZyMkTinkvEAfQhj1cSzDG"
+    },
+    {
+      "album": {
         "name": "YESSIE",
         "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
       },
@@ -4580,7 +4616,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 163454,
       "name": "Call Me Up High",
       "url": "https://open.spotify.com/track/3HmgyyyokSYo7iKwKObO1o"
@@ -5924,7 +5960,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 190133,
       "name": "coloured concrete",
       "url": "https://open.spotify.com/track/0jV3B8KhjiUrC6jmaBlNnx"
@@ -7154,6 +7190,24 @@
       "duration_ms": 198054,
       "name": "dead end.",
       "url": "https://open.spotify.com/track/57EHa4bjlEm8Cr63Ue4BGZ"
+    },
+    {
+      "album": {
+        "name": "Verbathim",
+        "url": "https://open.spotify.com/album/6aLc5t3mdbmonoCZMAnZ7N"
+      },
+      "artists": [
+        {
+          "name": "Nemahsis",
+          "url": "https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167600,
+      "name": "dead giveaway",
+      "url": "https://open.spotify.com/track/3Eidg0OLrDYFjsyjJTzieL"
     },
     {
       "album": {
@@ -9955,6 +10009,24 @@
     },
     {
       "album": {
+        "name": "feel like home",
+        "url": "https://open.spotify.com/album/0BHk06yY5omfqv47S1vF4O"
+      },
+      "artists": [
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160320,
+      "name": "feel like home",
+      "url": "https://open.spotify.com/track/5suIFrXr4gXhpEzFNjej85"
+    },
+    {
+      "album": {
         "name": "Living In A Haze",
         "url": "https://open.spotify.com/album/0i97wLIXfWMDi3vyRDZBCn"
       },
@@ -12238,7 +12310,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 122021,
       "name": "Green Room (feat. Johnny Yukon)",
       "url": "https://open.spotify.com/track/1Jgqg1ueaTC23oxIugp4Cj"
@@ -14104,6 +14176,24 @@
       "duration_ms": 181893,
       "name": "Hush",
       "url": "https://open.spotify.com/track/04kybb0HCt1uaTBgYkSgwQ"
+    },
+    {
+      "album": {
+        "name": "Husk",
+        "url": "https://open.spotify.com/album/13KxV6ezroXhAW7sPEG6QS"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204651,
+      "name": "Husk",
+      "url": "https://open.spotify.com/track/0iMSUfh4oQplV5OrmrlIbm"
     },
     {
       "album": {
@@ -16246,6 +16336,24 @@
       "duration_ms": 274829,
       "name": "Just A Girl - From The Original Series \u201cYellowjackets\u201d",
       "url": "https://open.spotify.com/track/7DtbrNlYifGnJc7HY0fS9i"
+    },
+    {
+      "album": {
+        "name": "Just A Western",
+        "url": "https://open.spotify.com/album/1vVnnj9S99ub44XnSknEXZ"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269473,
+      "name": "Just A Western",
+      "url": "https://open.spotify.com/track/69GRL4Pmz6yxw3CUkaeP2A"
     },
     {
       "album": {
@@ -19545,6 +19653,24 @@
     },
     {
       "album": {
+        "name": "Model, Actress, Whatever",
+        "url": "https://open.spotify.com/album/4M6b5oOkKDlbPAjlfXbID2"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212530,
+      "name": "Model, Actress, Whatever",
+      "url": "https://open.spotify.com/track/2GxyLVk70vblDcloX4mJsi"
+    },
+    {
+      "album": {
         "name": "Modern Girl",
         "url": "https://open.spotify.com/album/4a6PlF2W6n5oZsKFyLqmP2"
       },
@@ -20032,7 +20158,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 164335,
       "name": "Mutations - Edit",
       "url": "https://open.spotify.com/track/5Uzoly9A6Y1SZt4Um5cU5u"
@@ -21033,6 +21159,24 @@
     },
     {
       "album": {
+        "name": "Good Boy (Deluxe)",
+        "url": "https://open.spotify.com/album/7BinrfgeY9BBLV4HA7Px5C"
+      },
+      "artists": [
+        {
+          "name": "Geoffroy",
+          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201146,
+      "name": "No Calls Before Noon",
+      "url": "https://open.spotify.com/track/2GRVXBHRL9tpDhf3VChg8D"
+    },
+    {
+      "album": {
         "name": "No Choice",
         "url": "https://open.spotify.com/album/61hEtv7eRNxChNrsbpGXSC"
       },
@@ -21214,6 +21358,24 @@
       "duration_ms": 156122,
       "name": "No Time to Explain",
       "url": "https://open.spotify.com/track/3LQY0O87BlaOKMp56ST4hC"
+    },
+    {
+      "album": {
+        "name": "No Way To Relax When You Are On Fire",
+        "url": "https://open.spotify.com/album/50nvPOvceq4QENvfPhSEoC"
+      },
+      "artists": [
+        {
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242240,
+      "name": "No Way To Relax When You Are On Fire",
+      "url": "https://open.spotify.com/track/5HSlL9XmvYOVDynR2E13vc"
     },
     {
       "album": {
@@ -24170,7 +24332,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 183066,
       "name": "Ragdoll",
       "url": "https://open.spotify.com/track/5WEpZu4ftwwRa70GObI5tF"
@@ -30972,7 +31134,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 210666,
       "name": "There Goes My Baby",
       "url": "https://open.spotify.com/track/0nn1kMhCkhQqqZdnKL7Ext"

@@ -2,7 +2,7 @@
 
 ### [Dangdut Top](https://open.spotify.com/playlist/37i9dQZF1DWUWbdikWtt34)
 
-> Dendang Dangdut teratas\. Cover: Riri
+> Dendang Dangdut teratas\. Cover: Riri Chantika
 
 194 songs - 15 hr 12 min
 

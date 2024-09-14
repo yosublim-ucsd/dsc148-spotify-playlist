@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover: Coldiac",
+  "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover: Fajar Merah",
   "name": "Skena Gres",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 233739,
       "name": "9",
       "url": "https://open.spotify.com/track/7CC1RwP4NZ4fjfO6NlUNss"
+    },
+    {
+      "album": {
+        "name": "A Brighter Summer Day",
+        "url": "https://open.spotify.com/album/15AuM0T0mwnIHWIJx6VU3K"
+      },
+      "artists": [
+        {
+          "name": "Well Whale",
+          "url": "https://open.spotify.com/artist/1wlMD28jgD4UOQ47n1k1Rk"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195992,
+      "name": "A Brighter Summer Day",
+      "url": "https://open.spotify.com/track/1liio51XbsAqtgoMtWUVW5"
     },
     {
       "album": {
@@ -238,6 +256,28 @@
       "duration_ms": 199000,
       "name": "Bermekaran dan Mewangi",
       "url": "https://open.spotify.com/track/66sMzBAgVVLsyZvJ3pYasC"
+    },
+    {
+      "album": {
+        "name": "Bernafas Panjanglah",
+        "url": "https://open.spotify.com/album/7mjziyhO6ig1jSFl3zlkBT"
+      },
+      "artists": [
+        {
+          "name": "Fajar Merah",
+          "url": "https://open.spotify.com/artist/6uTtVUX353OX0mOyuk0zhh"
+        },
+        {
+          "name": "Budi Pasadena",
+          "url": "https://open.spotify.com/artist/6Tw7JeRgpGbAWH48Yurhjn"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347652,
+      "name": "Bernafas Panjanglah",
+      "url": "https://open.spotify.com/track/0BZSrug6R49jIlFC9uCIJC"
     },
     {
       "album": {
@@ -961,6 +1001,24 @@
     },
     {
       "album": {
+        "name": "Fatamorgana",
+        "url": "https://open.spotify.com/album/7IyIwRaq66irZCv1n8sdEo"
+      },
+      "artists": [
+        {
+          "name": "Yudis Dwiko",
+          "url": "https://open.spotify.com/artist/5Ud9VCmLavle5o180t45fZ"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "Fatamorgana",
+      "url": "https://open.spotify.com/track/4rqEnEq8CQzOzjwU2iCHxn"
+    },
+    {
+      "album": {
         "name": "Feeling for You",
         "url": "https://open.spotify.com/album/49FXRUWF9fMNgV5BF8vAyk"
       },
@@ -1366,6 +1424,28 @@
       "duration_ms": 172000,
       "name": "insecure",
       "url": "https://open.spotify.com/track/0F8HriMRVOJitDrBp7GWnL"
+    },
+    {
+      "album": {
+        "name": "Itu Aku (feat. The Adams)",
+        "url": "https://open.spotify.com/album/1TGbv7l7GfmlirlhI0JS7v"
+      },
+      "artists": [
+        {
+          "name": "Basboi",
+          "url": "https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9"
+        },
+        {
+          "name": "The Adams",
+          "url": "https://open.spotify.com/artist/0zuIBB0gRxp4i4E2gvrcoM"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287038,
+      "name": "Itu Aku (feat. The Adams)",
+      "url": "https://open.spotify.com/track/6LZ1vJSx0tgz5DzJPEyK70"
     },
     {
       "album": {
@@ -1914,6 +1994,24 @@
       "duration_ms": 394218,
       "name": "Merdeka Melaju Dari A Sampai Z",
       "url": "https://open.spotify.com/track/2cDqbPODx7Hdqt1WQ6dOYz"
+    },
+    {
+      "album": {
+        "name": "The Secret Gig (Live)",
+        "url": "https://open.spotify.com/album/29KhZpFsMFQYnqRzRV4M8R"
+      },
+      "artists": [
+        {
+          "name": "The Candle Light Children",
+          "url": "https://open.spotify.com/artist/59PyMbVTNW1JNa6aCHGFGW"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Midnight Shower (Live)",
+      "url": "https://open.spotify.com/track/6A9azjg7X3nk6vCTF8Pj6r"
     },
     {
       "album": {
@@ -3230,6 +3328,24 @@
       "duration_ms": 189481,
       "name": "waiting game",
       "url": "https://open.spotify.com/track/49PybRHBfBnXXwJNuZsWO0"
+    },
+    {
+      "album": {
+        "name": "Wax & Feathers",
+        "url": "https://open.spotify.com/album/0dFp2sdyM8QzDFHedQnQTc"
+      },
+      "artists": [
+        {
+          "name": "MANJA",
+          "url": "https://open.spotify.com/artist/20pZIP8Eb3BEOdPiNqupRX"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250448,
+      "name": "Wax & Feathers",
+      "url": "https://open.spotify.com/track/0tcIc5MaCp672N7iI9qtIV"
     },
     {
       "album": {

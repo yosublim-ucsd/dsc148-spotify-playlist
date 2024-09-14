@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 
 > Jesień nigdy nie brzmiała tak dobrze 🍂
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,068 likes - 60 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,508 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,16 +57,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 47 | [Jak w filmie](https://open.spotify.com/track/2IYpNlrzRoWcIUPAvXKT6n) | [Sarsa](https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx) | [Jak w filmie](https://open.spotify.com/album/2gtLXFybjn3nSZQPqVCsr6) | 3:03 |
 | 48 | [Powiedz mi jak?](https://open.spotify.com/track/4RKILntw38FZRyfOU6VGUt) | [DOBRY](https://open.spotify.com/artist/7aDPHWat1S7ztOWasFLu6X), [Kuba Galiński](https://open.spotify.com/artist/2oR9K6tG6QppRoYYkDBpDo), [Piotr Fronczewski](https://open.spotify.com/artist/45gKB5AD7ADgQJUZNNPIXm) | [Powiedz mi jak?](https://open.spotify.com/album/2dUe7bVGnGHdzZ9pmdOc6S) | 3:48 |
 | 49 | [To nie powtórzy się](https://open.spotify.com/track/7pdT1kwrp2X0zJiQKX3Oik) | [The Dumplings](https://open.spotify.com/artist/1nEmAvnOKMBYCziZQNb5B4) | [To nie powtórzy się](https://open.spotify.com/album/5onY55u4ziZAjx9lE5KFZf) | 3:12 |
-| 50 | [Pokaż Twarz \(tą naprawdę\)](https://open.spotify.com/track/3htwuWxUJq0afILxoV7lpy) | [Paula Biskup](https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2) | [Wachlarz Wad EP](https://open.spotify.com/album/62nOfhOHWgOc19RYaTWxFe) | 2:04 |
-| 51 | [list do niej](https://open.spotify.com/track/3AFWlh9Q4qTdqRR0ASqoKL) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [list do niej](https://open.spotify.com/album/4qSid7v4Ami0xKyks5uxzT) | 3:05 |
+| 50 | [list do niej](https://open.spotify.com/track/3AFWlh9Q4qTdqRR0ASqoKL) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [list do niej](https://open.spotify.com/album/4qSid7v4Ami0xKyks5uxzT) | 3:05 |
+| 51 | [Pokaż Twarz \(tą naprawdę\)](https://open.spotify.com/track/3htwuWxUJq0afILxoV7lpy) | [Paula Biskup](https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2) | [Wachlarz Wad EP](https://open.spotify.com/album/62nOfhOHWgOc19RYaTWxFe) | 2:04 |
 | 52 | [Fusy](https://open.spotify.com/track/1Zd1D4qz0j7MeLGnldflNc) | [Jakub Skorupa](https://open.spotify.com/artist/6T3v6RRLeCWcs4Sb47blaJ), [Dawid Tyszkowski](https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K) | [Fusy](https://open.spotify.com/album/6cYlOyjd4JkVksN4XL95LI) | 4:08 |
 | 53 | [Miał się skończyć świat](https://open.spotify.com/track/7mwYU7V6ALgmqBz7So9vKM) | [EMO](https://open.spotify.com/artist/0ORYVI6HcOBBPflrE4EcQM) | [Miał się skończyć świat](https://open.spotify.com/album/2WmsxnoReh20DQZfAB4uek) | 2:27 |
 | 54 | [Unknown / Nth](https://open.spotify.com/track/2yDJcDBVnvrEFGdDu0sSHT) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk) | 4:40 |
-| 55 | [Na głęboką wodę](https://open.spotify.com/track/489E6avDN1rhZfs65W4iW9) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL) | [Czekam na świt](https://open.spotify.com/album/2H3xnoal5SM4eEUeluu47n) | 3:34 |
-| 56 | [Jestem](https://open.spotify.com/track/1POsHOctjuSpNU6uFTOqjq) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [Jestem](https://open.spotify.com/album/5r0CDkFob3OnZ07m4b4Qqc) | 2:18 |
-| 57 | [HOMESICK](https://open.spotify.com/track/1LgtiOd4QwvRSrY6ebiaSW) | [Jhon Allan](https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS) | [HOMESICK](https://open.spotify.com/album/5z6Aa2gtISXvVSzrb1ZlYH) | 2:49 |
+| 55 | [Soft Spot](https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem](https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm) | 3:24 |
+| 56 | [Na głęboką wodę](https://open.spotify.com/track/489E6avDN1rhZfs65W4iW9) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL) | [Czekam na świt](https://open.spotify.com/album/2H3xnoal5SM4eEUeluu47n) | 3:34 |
+| 57 | [Jestem](https://open.spotify.com/track/1POsHOctjuSpNU6uFTOqjq) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [Jestem](https://open.spotify.com/album/5r0CDkFob3OnZ07m4b4Qqc) | 2:18 |
 | 58 | [Waiting on the Right Time](https://open.spotify.com/track/7rqR6MqQX8x2eDlAmleCRl) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Waiting on the Right Time](https://open.spotify.com/album/50YUFgsiE11VbXB4QFKaP1) | 3:39 |
-| 59 | [Zadzwoń do mnie](https://open.spotify.com/track/2ZYsPci35E3QVrUJatVKZE) | [MAJA](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM) | [Zadzwoń do mnie](https://open.spotify.com/album/3jT18pGJZSFp1PWRtl1QgE) | 2:16 |
-| 60 | [Twoja miłość](https://open.spotify.com/track/0bjUX2Fm71AMebqvRUZPZd) | [Rubens](https://open.spotify.com/artist/0f53X3udWEWIhMbmuWdxo7) | [Twoja miłość](https://open.spotify.com/album/2z8O7BShTaFW41KoGRW7KH) | 3:41 |
+| 59 | [HOMESICK](https://open.spotify.com/track/1LgtiOd4QwvRSrY6ebiaSW) | [Jhon Allan](https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS) | [HOMESICK](https://open.spotify.com/album/5z6Aa2gtISXvVSzrb1ZlYH) | 2:49 |
+| 60 | [Zadzwoń do mnie](https://open.spotify.com/track/2ZYsPci35E3QVrUJatVKZE) | [MAJA](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM) | [Zadzwoń do mnie](https://open.spotify.com/album/3jT18pGJZSFp1PWRtl1QgE) | 2:16 |
 
 Snapshot ID: `ZuNkYAAAAAAYmERG62JUwr6FM2e/92r3`

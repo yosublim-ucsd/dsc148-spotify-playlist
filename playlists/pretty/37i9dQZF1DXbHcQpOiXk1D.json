@@ -1,6 +1,6 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: Nala Sinephro",
-  "num_followers": 316004,
+  "num_followers": 316037,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-09-12 23:00:00",
       "album": {
-        "name": "The Colour Purple (Live From Malibu)",
-        "url": "https://open.spotify.com/album/4PbVeRsOUaxf8Fjlo9eGCf"
-      },
-      "artists": [
-        {
-          "name": "Yussef Dayes",
-          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
-        }
-      ],
-      "duration_ms": 163226,
-      "name": "The Colour Purple - Live From Malibu",
-      "url": "https://open.spotify.com/track/1hChYJtjxczG5aZ5MFIcI5"
-    },
-    {
-      "added_at": "2024-09-12 23:00:00",
-      "album": {
         "name": "Below Dawn",
         "url": "https://open.spotify.com/album/6RU8zWSJ6H5QIzQiLRYJYw"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 250941,
       "name": "Deep",
       "url": "https://open.spotify.com/track/7m81yXV1aGr6itme09Rx5k"
+    },
+    {
+      "added_at": "2024-09-12 23:00:00",
+      "album": {
+        "name": "The Colour Purple (Live From Malibu)",
+        "url": "https://open.spotify.com/album/4PbVeRsOUaxf8Fjlo9eGCf"
+      },
+      "artists": [
+        {
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+        }
+      ],
+      "duration_ms": 163226,
+      "name": "The Colour Purple - Live From Malibu",
+      "url": "https://open.spotify.com/track/1hChYJtjxczG5aZ5MFIcI5"
     },
     {
       "added_at": "2024-09-12 23:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-09-12 23:00:00",
       "album": {
-        "name": "Working It Out",
-        "url": "https://open.spotify.com/album/6GfG72p8tBdIGNLEUaqFft"
-      },
-      "artists": [
-        {
-          "name": "Myles Sanko",
-          "url": "https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G"
-        }
-      ],
-      "duration_ms": 235173,
-      "name": "Working It Out",
-      "url": "https://open.spotify.com/track/6G4hlsOeAdepXCdI2fPQbw"
-    },
-    {
-      "added_at": "2024-09-12 23:00:00",
-      "album": {
         "name": "Connla's Well",
         "url": "https://open.spotify.com/album/59lxNUUwxzNmeB4dkqQExa"
       },
@@ -795,18 +779,18 @@
     {
       "added_at": "2024-09-12 23:00:00",
       "album": {
-        "name": "Are You Gonna Find It",
-        "url": "https://open.spotify.com/album/6zwboIYLz6IaKYCrfom8lR"
+        "name": "Working It Out",
+        "url": "https://open.spotify.com/album/6GfG72p8tBdIGNLEUaqFft"
       },
       "artists": [
         {
-          "name": "Thandii",
-          "url": "https://open.spotify.com/artist/68YD0oUAF8k1NqEFAIx60M"
+          "name": "Myles Sanko",
+          "url": "https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G"
         }
       ],
-      "duration_ms": 286589,
-      "name": "Are You Gonna Find It",
-      "url": "https://open.spotify.com/track/40JMY9lsbHd3UXIsrALDDQ"
+      "duration_ms": 235173,
+      "name": "Working It Out",
+      "url": "https://open.spotify.com/track/6G4hlsOeAdepXCdI2fPQbw"
     },
     {
       "added_at": "2024-09-12 23:00:00",
@@ -843,6 +827,22 @@
     {
       "added_at": "2024-09-12 23:00:00",
       "album": {
+        "name": "Are You Gonna Find It",
+        "url": "https://open.spotify.com/album/6zwboIYLz6IaKYCrfom8lR"
+      },
+      "artists": [
+        {
+          "name": "Thandii",
+          "url": "https://open.spotify.com/artist/68YD0oUAF8k1NqEFAIx60M"
+        }
+      ],
+      "duration_ms": 286589,
+      "name": "Are You Gonna Find It",
+      "url": "https://open.spotify.com/track/40JMY9lsbHd3UXIsrALDDQ"
+    },
+    {
+      "added_at": "2024-09-12 23:00:00",
+      "album": {
         "name": "Still Nothing Still - Deluxe",
         "url": "https://open.spotify.com/album/47zLi5b1Xv8uwVzTWTDM6C"
       },
@@ -863,26 +863,6 @@
       "duration_ms": 186153,
       "name": "Amnesia - Slim. Remix",
       "url": "https://open.spotify.com/track/7t5qW5nd52zSft927ByoHF"
-    },
-    {
-      "added_at": "2024-09-12 23:00:00",
-      "album": {
-        "name": "Vita",
-        "url": "https://open.spotify.com/album/4xmzTrlhKyVx4kJDynClhQ"
-      },
-      "artists": [
-        {
-          "name": "Snazzback",
-          "url": "https://open.spotify.com/artist/3bD0qDLbGmvMvbaP8vHr9e"
-        },
-        {
-          "name": "Nah Eeto",
-          "url": "https://open.spotify.com/artist/0eKY0x7zqfCOfiFR8YHEdV"
-        }
-      ],
-      "duration_ms": 172782,
-      "name": "Vita",
-      "url": "https://open.spotify.com/track/1YPkJ8YxFYPbtHD6uCaSnG"
     },
     {
       "added_at": "2024-09-12 23:00:00",
@@ -923,6 +903,26 @@
     {
       "added_at": "2024-09-12 23:00:00",
       "album": {
+        "name": "Vita",
+        "url": "https://open.spotify.com/album/4xmzTrlhKyVx4kJDynClhQ"
+      },
+      "artists": [
+        {
+          "name": "Snazzback",
+          "url": "https://open.spotify.com/artist/3bD0qDLbGmvMvbaP8vHr9e"
+        },
+        {
+          "name": "Nah Eeto",
+          "url": "https://open.spotify.com/artist/0eKY0x7zqfCOfiFR8YHEdV"
+        }
+      ],
+      "duration_ms": 172782,
+      "name": "Vita",
+      "url": "https://open.spotify.com/track/1YPkJ8YxFYPbtHD6uCaSnG"
+    },
+    {
+      "added_at": "2024-09-12 23:00:00",
+      "album": {
         "name": "comet",
         "url": "https://open.spotify.com/album/512NCG6NoaS3YToHv32xfX"
       },
@@ -939,22 +939,6 @@
       "duration_ms": 160893,
       "name": "comet (feat. Bel Cobain)",
       "url": "https://open.spotify.com/track/0JvJdbcXiX0iXsMwnsiwDN"
-    },
-    {
-      "added_at": "2024-09-12 23:00:00",
-      "album": {
-        "name": "Call It What You Like",
-        "url": "https://open.spotify.com/album/0xIthbyKWIGoE8d2JsaZwW"
-      },
-      "artists": [
-        {
-          "name": "Thandii",
-          "url": "https://open.spotify.com/artist/68YD0oUAF8k1NqEFAIx60M"
-        }
-      ],
-      "duration_ms": 174269,
-      "name": "Call It What You Like",
-      "url": "https://open.spotify.com/track/19thWvK8cJVrcE27CgmRO3"
     },
     {
       "added_at": "2024-09-12 23:00:00",
@@ -991,22 +975,6 @@
     {
       "added_at": "2024-09-12 23:00:00",
       "album": {
-        "name": "Timekeepers",
-        "url": "https://open.spotify.com/album/0RLhXDmFXUorOU8xGDZJHP"
-      },
-      "artists": [
-        {
-          "name": "Matt Wilde",
-          "url": "https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Timekeepers",
-      "url": "https://open.spotify.com/track/0yrAvvvkD5GZoPWCOoSIO7"
-    },
-    {
-      "added_at": "2024-09-12 23:00:00",
-      "album": {
         "name": "My Type",
         "url": "https://open.spotify.com/album/34uZsXy8PS9LIrP3fIkuzl"
       },
@@ -1019,6 +987,54 @@
       "duration_ms": 232068,
       "name": "My Type",
       "url": "https://open.spotify.com/track/6GWFVXScr30DquUSJTkwZB"
+    },
+    {
+      "added_at": "2024-09-12 23:00:00",
+      "album": {
+        "name": "Honest Mistake",
+        "url": "https://open.spotify.com/album/61cgfMVzBy0dtDFWGrZl6t"
+      },
+      "artists": [
+        {
+          "name": "Hohnen Ford",
+          "url": "https://open.spotify.com/artist/34c3b95E9ZQPMPapPOv8RW"
+        }
+      ],
+      "duration_ms": 227177,
+      "name": "Honest Mistake",
+      "url": "https://open.spotify.com/track/7lF8vFU9L2xzHJkv3zvtnm"
+    },
+    {
+      "added_at": "2024-09-12 23:00:00",
+      "album": {
+        "name": "Call It What You Like",
+        "url": "https://open.spotify.com/album/0xIthbyKWIGoE8d2JsaZwW"
+      },
+      "artists": [
+        {
+          "name": "Thandii",
+          "url": "https://open.spotify.com/artist/68YD0oUAF8k1NqEFAIx60M"
+        }
+      ],
+      "duration_ms": 174269,
+      "name": "Call It What You Like",
+      "url": "https://open.spotify.com/track/19thWvK8cJVrcE27CgmRO3"
+    },
+    {
+      "added_at": "2024-09-12 23:00:00",
+      "album": {
+        "name": "Timekeepers",
+        "url": "https://open.spotify.com/album/0RLhXDmFXUorOU8xGDZJHP"
+      },
+      "artists": [
+        {
+          "name": "Matt Wilde",
+          "url": "https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Timekeepers",
+      "url": "https://open.spotify.com/track/0yrAvvvkD5GZoPWCOoSIO7"
     },
     {
       "added_at": "2024-09-12 23:00:00",
@@ -1059,38 +1075,6 @@
       "duration_ms": 245626,
       "name": "I Stitched My Mind Back To My Body",
       "url": "https://open.spotify.com/track/1ebC2PO3ZuZcnVZbY4jqVK"
-    },
-    {
-      "added_at": "2024-09-12 23:00:00",
-      "album": {
-        "name": "Honest Mistake",
-        "url": "https://open.spotify.com/album/61cgfMVzBy0dtDFWGrZl6t"
-      },
-      "artists": [
-        {
-          "name": "Hohnen Ford",
-          "url": "https://open.spotify.com/artist/34c3b95E9ZQPMPapPOv8RW"
-        }
-      ],
-      "duration_ms": 227177,
-      "name": "Honest Mistake",
-      "url": "https://open.spotify.com/track/7lF8vFU9L2xzHJkv3zvtnm"
-    },
-    {
-      "added_at": "2024-09-12 23:00:00",
-      "album": {
-        "name": "Dream With You",
-        "url": "https://open.spotify.com/album/0hOv3G09E7fOjFe1Q8Iedu"
-      },
-      "artists": [
-        {
-          "name": "Thandii",
-          "url": "https://open.spotify.com/artist/68YD0oUAF8k1NqEFAIx60M"
-        }
-      ],
-      "duration_ms": 274176,
-      "name": "Dream With You",
-      "url": "https://open.spotify.com/track/2gEkF9RXPzw3LSfnEXNBZn"
     },
     {
       "added_at": "2024-09-12 23:00:00",
@@ -1151,6 +1135,22 @@
       "duration_ms": 176874,
       "name": "Rite of Passage",
       "url": "https://open.spotify.com/track/3QB9XSrhotF0v8tkML3F3r"
+    },
+    {
+      "added_at": "2024-09-12 23:00:00",
+      "album": {
+        "name": "Dream With You",
+        "url": "https://open.spotify.com/album/0hOv3G09E7fOjFe1Q8Iedu"
+      },
+      "artists": [
+        {
+          "name": "Thandii",
+          "url": "https://open.spotify.com/artist/68YD0oUAF8k1NqEFAIx60M"
+        }
+      ],
+      "duration_ms": 274176,
+      "name": "Dream With You",
+      "url": "https://open.spotify.com/track/2gEkF9RXPzw3LSfnEXNBZn"
     },
     {
       "added_at": "2024-09-12 23:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-09-12 23:00:00",
       "album": {
-        "name": "The Seer",
-        "url": "https://open.spotify.com/album/41ege95duesxAA0g2MRXoa"
-      },
-      "artists": [
-        {
-          "name": "Nubya Garcia",
-          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
-        }
-      ],
-      "duration_ms": 302960,
-      "name": "The Seer",
-      "url": "https://open.spotify.com/track/1Z3RwVpioQ9GvWL3LJQXe2"
-    },
-    {
-      "added_at": "2024-09-12 23:00:00",
-      "album": {
         "name": "Only The Lover Sings",
         "url": "https://open.spotify.com/album/68NeZkYzPFAQLjS2z8sEZZ"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 211590,
       "name": "Come Summertime",
       "url": "https://open.spotify.com/track/1EGlyZcl5xaR1uvV9dl2GS"
+    },
+    {
+      "added_at": "2024-09-12 23:00:00",
+      "album": {
+        "name": "The Seer",
+        "url": "https://open.spotify.com/album/41ege95duesxAA0g2MRXoa"
+      },
+      "artists": [
+        {
+          "name": "Nubya Garcia",
+          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
+        }
+      ],
+      "duration_ms": 302960,
+      "name": "The Seer",
+      "url": "https://open.spotify.com/track/1Z3RwVpioQ9GvWL3LJQXe2"
     },
     {
       "added_at": "2024-09-12 23:00:00",

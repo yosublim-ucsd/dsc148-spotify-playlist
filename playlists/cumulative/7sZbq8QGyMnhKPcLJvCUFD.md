@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-595 songs - 1 day 6 hr 11 min
+596 songs - 1 day 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,7 +311,7 @@
 | [Lock n' Load](https://open.spotify.com/track/0918PRLqxy7WJ3bNmjWySj) | [HXI](https://open.spotify.com/artist/3yRqd6IO6SamMAmnXwZKeU) | [Lock n' Load](https://open.spotify.com/album/7nnqBWlXiL1f2UtHgRiYW2) | 1:48 | 2024-09-12 |  |
 | [Loneliness](https://open.spotify.com/track/0c2IOjZnVajRBMIQSYq2jZ) | [Poylow](https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq), [Mandrazo](https://open.spotify.com/artist/51ZYyNbFsBlD1EHGHaSFz0), [Barmuda](https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM) | [Loneliness](https://open.spotify.com/album/5VDhzUtDHlYjrSBNn9HHSx) | 2:16 | 2023-08-25 | 2024-01-17 |
 | [Lonely Hour](https://open.spotify.com/track/1uqVKaE5nMAf5GLQGSglly) | [MAD SNAX](https://open.spotify.com/artist/33MJONPoMWD0sKQvCHCdnu), [Poylow](https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq), [New Beat Order](https://open.spotify.com/artist/0gQDOj4OisQbTq7FUEziea) | [Lonely Hour](https://open.spotify.com/album/0jFbYifq12XTyvYpKw1wF1) | 2:09 | 2023-06-23 | 2023-08-10 |
-| [LOOK AT ME!](https://open.spotify.com/track/0Ll9cyI1ZfDXRqeatIVHc2) | [Rxm リム](https://open.spotify.com/artist/6xQr9sbtrCuoW4qJoATNLB) | [LOOK AT ME!](https://open.spotify.com/album/4IoK5B9QJONah9n0d1MurH) | 3:02 | 2023-05-23 | 2023-08-10 |
+| [LOOK AT ME!](https://open.spotify.com/track/0Ll9cyI1ZfDXRqeatIVHc2) | [Rxm リム](https://open.spotify.com/artist/6xQr9sbtrCuoW4qJoATNLB) | [LOOK AT ME!](https://open.spotify.com/album/4IoK5B9QJONah9n0d1MurH) | 3:02 | 2023-05-23 |  |
 | [Look No Further](https://open.spotify.com/track/3Clcf6ZB3C1bnntfoNipWU) | [Madison Mars](https://open.spotify.com/artist/4gJCFxvqKc43Ifk0UIBB42), [Grace Luisa](https://open.spotify.com/artist/4TsDR2lgk4Nd9Zt5kw2gtD) | [Look No Further](https://open.spotify.com/album/4ca09UYlQAYRe38zsmUdpb) | 2:41 | 2024-09-06 |  |
 | [Losing](https://open.spotify.com/track/5fXAhP6h0oEd4vkQ93c0hi) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ) | [Losing](https://open.spotify.com/album/0DBKauq7473ZXa49DN6Mad) | 2:41 | 2022-12-08 | 2023-08-10 |
 | [Lost](https://open.spotify.com/track/5hOe51orNiMhr6kDgJXFkf) | [Andrew A](https://open.spotify.com/artist/01BNEFdzawMyAXoHVdtyPx), [VIANI](https://open.spotify.com/artist/3qGToEQXzaFZGBZoCHqQN2) | [Lost](https://open.spotify.com/album/24P0Q4kK2uSvzWOIRu5oKD) | 2:52 | 2023-01-20 | 2023-04-28 |
@@ -405,6 +405,7 @@
 | [Paradise](https://open.spotify.com/track/37g9thpV049tXHhHiiZ44T) | [N3WPORT](https://open.spotify.com/artist/1iyaH6NJWncvktAfUcNht8), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Paradise](https://open.spotify.com/album/46zTRHAfAaAeHERgP9y9pg) | 2:43 | 2023-02-21 | 2023-08-10 |
 | [paradise](https://open.spotify.com/track/3Am5nkSILnXq8LXq8dUQG6) | [Raude](https://open.spotify.com/artist/53OGD4I8jF4rxTyEquy1WZ), [Ntsika](https://open.spotify.com/artist/0OJZLTuFdww9IGthPZE8uN) | [paradise](https://open.spotify.com/album/6I0s3voMRDUIpVHjGAP6dU) | 2:31 | 2023-07-27 | 2023-08-10 |
 | [Party](https://open.spotify.com/track/4FULPITIQbUrszR2lZsoZZ) | [iFeature](https://open.spotify.com/artist/1NkeIgGpORkhxCUluCnnFT) | [Party](https://open.spotify.com/album/3y4HtUHYYXZ4wdI2OHxABQ) | 3:12 | 2022-12-21 | 2023-04-28 |
+| [Party Pioneers](https://open.spotify.com/track/0Eo0MIkZfcAXH5CxdQRu0T) | [Rudeejay](https://open.spotify.com/artist/2zC8RU0p5FvJeCPPLVBR8K), [NOYSE](https://open.spotify.com/artist/3e1EBvnyj3mke3HnMa5Uq2) | [Party Pioneers](https://open.spotify.com/album/0D5WmshtT8GzuX5CKhs4RV) | 2:40 | 2024-09-13 |  |
 | [Patience](https://open.spotify.com/track/2wB3bSpptrSiz9vAA9YQbZ) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN), [VinDon](https://open.spotify.com/artist/6hS0eB6BQPvcKhIM6Ltem0) | [Patience](https://open.spotify.com/album/5xKP3ZZUuqeqhmsyAJslh5) | 3:36 | 2022-06-24 | 2023-04-28 |
 | [Perfect 10](https://open.spotify.com/track/2MolFsdE7ydCQQgsmfvX6w) | [Unknown Brain](https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I), [Heather Sommer](https://open.spotify.com/artist/0EHYuPn9Xng2lZP2cfz4cV) | [Perfect 10](https://open.spotify.com/album/7ELX0wC96zy5lPQe8VRSdG) | 3:24 | 2023-08-08 | 2024-01-10 |
 | [Phenomenon](https://open.spotify.com/track/3aYidIc6HUMrL1tFTmokSZ) | [Unknown Brain](https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I), [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39), [Hoober](https://open.spotify.com/artist/32rfvsXfn7YDlDhG7Hh7Zd), [VinDon](https://open.spotify.com/artist/6hS0eB6BQPvcKhIM6Ltem0) | [Faceless](https://open.spotify.com/album/4c0WhpvNSbSSlElNQOqlzU) | 2:56 | 2023-08-08 | 2023-12-14 |

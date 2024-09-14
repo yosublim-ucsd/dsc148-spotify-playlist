@@ -1,12 +1,12 @@
 {
-  "description": "This Is Los Tucanes De Tijuana. Los temas esenciales, todos en una lista.",
-  "num_followers": 310878,
+  "description": "This is Los Tucanes De Tijuana. The essential tracks, all in one playlist.",
+  "num_followers": 310956,
   "original_name": "This Is Los Tucanes De Tijuana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuDdgAAAAABmyCNlT6657y9vh2sPKobx",
+  "snapshot_id": "ZuIvAAAAAABPWE8Ak7/XzizSN9dasrkK",
   "tracks": [
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Felones - Serie 35",
-        "url": "https://open.spotify.com/album/5BM8L7XrRzfXg4MtUWbmr5"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 158848,
-      "name": "La Profecia",
-      "url": "https://open.spotify.com/track/0hH5Eo74vpejE5B3JnRSye"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "14 Tucanazos Bien Pesados",
         "url": "https://open.spotify.com/album/5poff6oDNapTa60LAq46O0"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 141871,
       "name": "El Jefe X",
       "url": "https://open.spotify.com/track/3Hz5spi5hUGARyqggjkz2L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Felones - Serie 35",
+        "url": "https://open.spotify.com/album/5BM8L7XrRzfXg4MtUWbmr5"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 158848,
+      "name": "La Profecia",
+      "url": "https://open.spotify.com/track/0hH5Eo74vpejE5B3JnRSye"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Imperio",
-        "url": "https://open.spotify.com/album/4n0IYzVbxLFckUKpurk6kN"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 191613,
-      "name": "El Regreso Del Chapo",
-      "url": "https://open.spotify.com/track/4baEwCzla3yCyz21uhOFLp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos Del Norte",
         "url": "https://open.spotify.com/album/7enZWFv7Rg26LhC5LF8j7o"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 218581,
       "name": "Sangre Potosina",
       "url": "https://open.spotify.com/track/5erCcQWsyLw84cPDKQCls4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Imperio",
+        "url": "https://open.spotify.com/album/4n0IYzVbxLFckUKpurk6kN"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 191613,
+      "name": "El Regreso Del Chapo",
+      "url": "https://open.spotify.com/track/4baEwCzla3yCyz21uhOFLp"
     },
     {
       "added_at": null,

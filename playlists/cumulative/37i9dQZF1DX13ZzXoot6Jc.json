@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-31",
-  "description": "Country hits that will have you singing every word. Cover: Owen Riegling",
+  "description": "Country hits that will have you singing every word. Cover: Post Malone",
   "name": "Country Favourites",
   "tracks": [
     {
@@ -236,7 +236,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 189253,
       "name": "amen",
       "url": "https://open.spotify.com/track/5Qk9nO6Iat1XGxL04kKP5Y"
@@ -276,6 +276,24 @@
       "duration_ms": 246760,
       "name": "Any Man Of Mine",
       "url": "https://open.spotify.com/track/0pdfN7nOHMYmKykzu1cyfm"
+    },
+    {
+      "album": {
+        "name": "Deeper Well: Deeper into the Well",
+        "url": "https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238493,
+      "name": "Arm's Length",
+      "url": "https://open.spotify.com/track/5NuUKKMA2qsltM1DnSJZLL"
     },
     {
       "album": {
@@ -1102,6 +1120,28 @@
       "duration_ms": 218878,
       "name": "Cowboys Are Frequently Secretly Fond Of Each Other",
       "url": "https://open.spotify.com/track/5rKTGQ2Q1wndZnX7km8WYu"
+    },
+    {
+      "album": {
+        "name": "Cowboys Cry Too (with Noah Kahan)",
+        "url": "https://open.spotify.com/album/4csGSJBfWDrWklYInvXzhU"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        },
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230600,
+      "name": "Cowboys Cry Too (with Noah Kahan)",
+      "url": "https://open.spotify.com/track/1t2MQpMDtJT5VL2tAPHrGN"
     },
     {
       "album": {
@@ -2829,6 +2869,24 @@
     },
     {
       "album": {
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/0Ea4snfqt1F5e7ZAv4jFuQ"
+      },
+      "artists": [
+        {
+          "name": "Tigirlily Gold",
+          "url": "https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211541,
+      "name": "I Tried A Ring On",
+      "url": "https://open.spotify.com/track/4mTeLG3YJ0NVFV1RF1h3D2"
+    },
+    {
+      "album": {
         "name": "Time, Tequila & Therapy",
         "url": "https://open.spotify.com/album/1yjrtwm2ru1qPGBPBUDE0x"
       },
@@ -2902,7 +2960,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 247459,
       "name": "I'll Be Here",
       "url": "https://open.spotify.com/track/04yDiQ6Xdiq8saPsmHOdw3"
@@ -4753,6 +4811,24 @@
     },
     {
       "album": {
+        "name": "Rust",
+        "url": "https://open.spotify.com/album/0OpM8xRUkHma1V1biL0cc1"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169720,
+      "name": "Rust",
+      "url": "https://open.spotify.com/track/1EdAfme2rPCUkzIYvSucYX"
+    },
+    {
+      "album": {
         "name": "Stereotype Broken",
         "url": "https://open.spotify.com/album/0rsIuMdNjcwbnS9kL4DKAf"
       },
@@ -6064,7 +6140,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 206929,
       "name": "Things I Take For Granted",
       "url": "https://open.spotify.com/track/2d3KkBpDlOCLT5Wlhrwhfd"
@@ -6390,7 +6466,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 194800,
       "name": "Two Of Us",
       "url": "https://open.spotify.com/track/0XjVqPBriEaw2aDQixHSi1"
@@ -6868,7 +6944,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 188453,
       "name": "Who Says You Can't Have Everything",
       "url": "https://open.spotify.com/track/4KbLhLnwnhbHk0Aa13BeYD"
@@ -7230,6 +7306,24 @@
       "duration_ms": 161200,
       "name": "Your Heart Or Mine",
       "url": "https://open.spotify.com/track/7ETjhPaIU4UmHOiimJBZz9"
+    },
+    {
+      "album": {
+        "name": "shot in the dark",
+        "url": "https://open.spotify.com/album/7H5STZn8rbg58X1Q69Rifk"
+      },
+      "artists": [
+        {
+          "name": "Ashley Cooke",
+          "url": "https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182086,
+      "name": "your place",
+      "url": "https://open.spotify.com/track/0ggDc6CDfUzXHiIvO3WeFw"
     },
     {
       "album": {

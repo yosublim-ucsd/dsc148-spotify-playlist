@@ -4,7 +4,7 @@
 
 > 6 in the morning
 
-1,037 songs - 3 day 6 hr 51 min
+1,039 songs - 3 day 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -822,6 +822,7 @@
 | [Soul Seekers \- Joachim Pastor Remix](https://open.spotify.com/track/0OaPgWQe0OrOamArbbAga9) | [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU), [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw), [Joachim Pastor](https://open.spotify.com/artist/6eNOjuJSfKkAvbiGW90AkZ) | [Soul Seekers \(Joachim Pastor Remix\)](https://open.spotify.com/album/69ToKf1GTf7ldT3SXK7Cfq) | 4:34 | 2022-11-10 | 2023-03-12 |
 | [Souljack](https://open.spotify.com/track/0W3w9pPy0JvezOG96J2biy) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Souljack EP](https://open.spotify.com/album/4Wo7BhKv46vuyryLgrgJFK) | 3:44 | 2022-10-13 | 2023-01-27 |
 | [Speak To Me](https://open.spotify.com/track/0EcvbNYvQdFiKn1LSiD1ub) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Speak To Me](https://open.spotify.com/album/7yX28X5NrAHaWP6kAjCy2d) | 6:42 | 2023-05-25 | 2023-08-13 |
+| [Spillage](https://open.spotify.com/track/5DOkN9MW96CUYQcF8clpCb) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Spillage](https://open.spotify.com/album/1ZRyG1HPCcnAc74eVUvvcz) | 3:21 | 2024-09-13 |  |
 | [Spring Girl](https://open.spotify.com/track/03mX4WEpvZPkHmEsd2ZoV8) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Maori](https://open.spotify.com/artist/2GjC0P8uCItsOxEYXtm7kv) | [Spring Girl](https://open.spotify.com/album/2JjG2Nnj87eX9lDnNNNdqP) | 3:48 | 2023-08-24 |  |
 | [Spring Girl \- Vintage Culture Remix](https://open.spotify.com/track/2SCkpXTuQOvXySjlz9O1JH) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Maori](https://open.spotify.com/artist/2GjC0P8uCItsOxEYXtm7kv), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Spring Girl \(Vintage Culture Remix\)](https://open.spotify.com/album/5b704SG8QwJJhRVDzDk4yv) | 3:48 | 2023-10-05 |  |
 | [Standing There](https://open.spotify.com/track/4cKgbhKIp3zk1yhomKUQ63) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [Standing There](https://open.spotify.com/album/0QHIWEblccyOGx3Y3QmQZH) | 3:36 | 2022-08-18 | 2022-12-02 |
@@ -985,6 +986,7 @@
 | [Voyage \- Denis Horvat Remix](https://open.spotify.com/track/1Oi9Rpb1fECaqQx439uBdO) | [Hernan Cattaneo](https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB), [Hicky & Kalo](https://open.spotify.com/artist/6yI7QGvmk87s42R0UyhWRT), [Denis Horvat](https://open.spotify.com/artist/5eJJoSS6weFQeI9AtNFLee) | [Voyage \(Denis Horvat Remix\)](https://open.spotify.com/album/03ENmS6U3KWsZiPG6jUdJe) | 5:14 | 2024-05-30 | 2024-06-18 |
 | [W Y H A](https://open.spotify.com/track/2cCK5YYzakAFVTnYSZhYmQ) | [Ferra Black](https://open.spotify.com/artist/2M9yha8tr0kCqQj2QqVBxD) | [W Y H A](https://open.spotify.com/album/0s5icgE1FdbFG4uD31DlrC) | 7:21 | 2024-08-22 |  |
 | [Waiting](https://open.spotify.com/track/7EVHULTsnqPHH2kvCQ1r8j) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Redfield](https://open.spotify.com/artist/2cW1LUTqGx2JMe0oAGx9OV), [DJ Rae](https://open.spotify.com/artist/746LyYgFU6Gni4CMVPlFNa) | [Waiting](https://open.spotify.com/album/0ZkZ1UQ7SPAhM0E6RrPRMZ) | 2:53 | 2023-11-09 | 2024-02-07 |
+| [Wanna Get High](https://open.spotify.com/track/6xcBMOmgBFFCPIV1TC4Yhc) | [Cherry Tooth](https://open.spotify.com/artist/3neju4j8u80IBvGawKA3dv) | [Wanna Get High](https://open.spotify.com/album/2fZUz8LgVh5VwvVGIYRIdA) | 3:35 | 2024-09-13 |  |
 | [Warm It Up](https://open.spotify.com/track/288LdOEhUwAFYRyqz0zvAO) | [Ragie Ban](https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL) | [Warm It Up](https://open.spotify.com/album/33KpVhYPk8aLDjh2EvTnuw) | 6:30 | 2024-04-04 |  |
 | [Water](https://open.spotify.com/track/09cgbbadzZSKFd1hGN23p5) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Water](https://open.spotify.com/album/2IbvLEWok7hbkf5BBZaYBg) | 4:16 | 2022-10-06 | 2023-03-10 |
 | [Water \- Teho Remix](https://open.spotify.com/track/2yIzrmNW8sBNHQM0QGPHxw) | [Trey Mirror](https://open.spotify.com/artist/2rnoTsgsrF3cPszkdu6fDw), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp), [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO) | [Water \(Teho Remix\)](https://open.spotify.com/album/7mMyYkoGFblujDZ3cYzsO3) | 5:45 | 2022-09-22 | 2022-10-01 |

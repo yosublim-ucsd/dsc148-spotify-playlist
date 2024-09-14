@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-04-26",
-  "description": "Keeping it lowkey with the best chill pop. Cover: Leon Bridges",
+  "description": "Sit back and relax to the chillest pop.  Cover: Knox",
   "name": "Chill Pop",
   "tracks": [
     {
@@ -900,7 +900,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 164178,
       "name": "Adore U",
       "url": "https://open.spotify.com/track/5qQHPdQaiLkIrRjMBFTbuz"
@@ -3420,6 +3420,28 @@
       "duration_ms": 165868,
       "name": "Bitter",
       "url": "https://open.spotify.com/track/2D26NQRWpAbnGcI86h3Iaj"
+    },
+    {
+      "album": {
+        "name": "black & white",
+        "url": "https://open.spotify.com/album/653YWJ1EZLWEvUdE6Kc8WL"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        },
+        {
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208960,
+      "name": "black & white",
+      "url": "https://open.spotify.com/track/0j2l3sf15o9vczIATwA3Xr"
     },
     {
       "album": {
@@ -10131,6 +10153,24 @@
     },
     {
       "album": {
+        "name": "First Heartbreak",
+        "url": "https://open.spotify.com/album/1QGOpJ2KxpQ4TryPQfPq9n"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180486,
+      "name": "First Heartbreak",
+      "url": "https://open.spotify.com/track/0IPY0ENbqkDhHKxPK2s357"
+    },
+    {
+      "album": {
         "name": "XV",
         "url": "https://open.spotify.com/album/0i96PtPJV65ddxsfMfo45F"
       },
@@ -10214,7 +10254,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 229619,
       "name": "Floating Parade",
       "url": "https://open.spotify.com/track/4mv58j67K96UMIeYvpffHB"
@@ -11198,6 +11238,24 @@
       "duration_ms": 206773,
       "name": "girl next door",
       "url": "https://open.spotify.com/track/4bd1V7nlKSW0pN2W13pFue"
+    },
+    {
+      "album": {
+        "name": "girlfriend ..",
+        "url": "https://open.spotify.com/album/3qaGYGQQyJZCpn8POSoNis"
+      },
+      "artists": [
+        {
+          "name": "Johnny Yukon",
+          "url": "https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147086,
+      "name": "girlfriend ..",
+      "url": "https://open.spotify.com/track/4YoLlQtpwBQpoRGF3j2wPp"
     },
     {
       "album": {
@@ -15853,6 +15911,24 @@
     },
     {
       "album": {
+        "name": "Invisible",
+        "url": "https://open.spotify.com/album/2tUpSas8r57RnM6BZnVGAn"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197007,
+      "name": "Invisible",
+      "url": "https://open.spotify.com/track/0hMiybHifTOJ1lvtrvGOzI"
+    },
+    {
+      "album": {
         "name": "~how i'm feeling~",
         "url": "https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP"
       },
@@ -19284,7 +19360,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 132893,
       "name": "lungs of steel",
       "url": "https://open.spotify.com/track/4QzYFMNjWo53w0zI7cBh3X"
@@ -20462,6 +20538,24 @@
       "duration_ms": 196712,
       "name": "mmadu",
       "url": "https://open.spotify.com/track/3IzBeYT0GyvpPMTlppy5qr"
+    },
+    {
+      "album": {
+        "name": "Model, Actress, Whatever",
+        "url": "https://open.spotify.com/album/4M6b5oOkKDlbPAjlfXbID2"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212530,
+      "name": "Model, Actress, Whatever",
+      "url": "https://open.spotify.com/track/2GxyLVk70vblDcloX4mJsi"
     },
     {
       "album": {
@@ -23018,7 +23112,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 195502,
       "name": "One Wish (feat. Childish Gambino)",
       "url": "https://open.spotify.com/track/3iHpwGD3h3Bj87KrJEBMI4"
@@ -26573,6 +26667,24 @@
     },
     {
       "album": {
+        "name": "Angel Boy",
+        "url": "https://open.spotify.com/album/1OVP84xvdNQXSfDMardwJs"
+      },
+      "artists": [
+        {
+          "name": "Thomas Day",
+          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230475,
+      "name": "Sentimental",
+      "url": "https://open.spotify.com/track/0W4i6M9YSmn9CRrKUgahHn"
+    },
+    {
+      "album": {
         "name": "RAT TRAP 4: the burden",
         "url": "https://open.spotify.com/album/58LwbQZAfQIODsgcwYmYL4"
       },
@@ -27304,7 +27416,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 152195,
       "name": "Slim Pickins",
       "url": "https://open.spotify.com/track/0XkZmBCCcdMY0EPY8ij6Gb"
@@ -27644,6 +27756,24 @@
       "duration_ms": 221899,
       "name": "SOCIETY",
       "url": "https://open.spotify.com/track/0UR9BwltUjyKIXdmoVsdNj"
+    },
+    {
+      "album": {
+        "name": "Requiem",
+        "url": "https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204223,
+      "name": "Soft Spot",
+      "url": "https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7"
     },
     {
       "album": {
@@ -30210,7 +30340,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 188901,
       "name": "Texas",
       "url": "https://open.spotify.com/track/607vRhDNPs67nXVgqk4J1Z"
@@ -31584,7 +31714,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 145735,
       "name": "this is what slow dancing feels like",
       "url": "https://open.spotify.com/track/4EhqimHdoK9OmCNvCfioH6"
@@ -34428,7 +34558,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 203300,
       "name": "Where or When",
       "url": "https://open.spotify.com/track/4gJXJkd0zFFanZL2w0RsMB"

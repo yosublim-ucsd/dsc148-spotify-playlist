@@ -4,7 +4,7 @@
 
 > Bossa nova vibes for the hopeless romantic daydreamers\. Cover: Laufey
 
-142 songs - 7 hr 9 min
+143 songs - 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [A Car Going Nowhere](https://open.spotify.com/track/4BHTnUF9Wl5lVSrw9ZLVJb) | [ESAE](https://open.spotify.com/artist/573hBKu7MUNNUbp0OKhuRr) | [A Car Going Nowhere](https://open.spotify.com/album/5yR8GbZR66gjAoyt5Voc2O) | 3:47 | 2023-01-06 | 2023-07-29 |
 | [A Night To Remember](https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Night To Remember](https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe) | 3:53 | 2023-10-20 |  |
 | [about time](https://open.spotify.com/track/2khJckZKgm10rTK583uKuQ) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Takahiro Izumikawa](https://open.spotify.com/artist/4CJAJc3P508XZPuIOi1c8D) | [about time](https://open.spotify.com/album/5vMVHkJ4komTyjWLIax60u) | 3:13 | 2023-01-06 | 2023-08-05 |
-| [After You](https://open.spotify.com/track/3VpSYpjB9JwFU6y3X5LcVi) | [Julius Black](https://open.spotify.com/artist/7aZEcK7jSvrSoshGSgOYfj) | [After You](https://open.spotify.com/album/5gmMAhYtbJG8oEbrpdLhdL) | 3:23 | 2023-12-08 |  |
+| [After You](https://open.spotify.com/track/3VpSYpjB9JwFU6y3X5LcVi) | [Julius Black](https://open.spotify.com/artist/7aZEcK7jSvrSoshGSgOYfj) | [After You](https://open.spotify.com/album/5gmMAhYtbJG8oEbrpdLhdL) | 3:23 | 2023-12-08 | 2024-09-14 |
 | [aime](https://open.spotify.com/track/6fW0lH7uRHh0kDXBHuYLkL) | [Rook1e](https://open.spotify.com/artist/5NlA3ayVBDY3uDCCEZ1dID), [Chevy](https://open.spotify.com/artist/4WfJogOUKB3HihGTS6Fsxm) | [Sleepy Boy](https://open.spotify.com/album/0A7zAV59eGlFNQXFYAOsUo) | 1:50 | 2023-01-06 | 2023-09-16 |
 | [All Her Favorite Songs \(with Little Stranger\)](https://open.spotify.com/track/26VjX0Mg1DAUTPjfPyhUlm) | [The Elovaters](https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3), [Little Stranger](https://open.spotify.com/artist/6nheJ1XoAkaKOLIgHzMbTq) | [All Her Favorite Songs \(with Little Stranger\)](https://open.spotify.com/album/3EkYLDuVv4YVW4K3UOFHIG) | 3:34 | 2023-01-20 | 2023-10-24 |
 | [All Night Parking \(with Erroll Garner\) Interlude](https://open.spotify.com/track/496vIKS2INz840xZaKncvR) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 2:41 | 2023-01-06 |  |
@@ -109,6 +109,7 @@
 | [rises the moon](https://open.spotify.com/track/51Grh1RyUDcMBbpuyUIUHI) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [recently](https://open.spotify.com/album/295qW3R6DSM1WfePwUpgux) | 2:41 | 2023-01-06 |  |
 | [Role Model](https://open.spotify.com/track/7EbHleMQStqGD7YKiCeBmz) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [Role Model](https://open.spotify.com/album/2mHWAQ08dnXOPh3ddrQqJ6) | 2:11 | 2023-05-05 | 2023-07-29 |
 | [Room For You](https://open.spotify.com/track/7G2om18d9kfV3aNtNfQkzA) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Room For You](https://open.spotify.com/album/6NbgKBujDaLM236wpFEwOu) | 3:03 | 2024-07-26 |  |
+| [ROT](https://open.spotify.com/track/70zTbQd3yYeNwA75CF2fcd) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [WE GOOD](https://open.spotify.com/album/3I9SoNg5YQAPIE1VVSXdat) | 2:49 | 2024-09-13 |  |
 | [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 | 2023-07-28 |  |
 | [Seaside Adventures](https://open.spotify.com/track/3W4aAUuDXMCS6QgZR7cTur) | [tiffi](https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4), [City Girl](https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ) | [Seaside Adventures](https://open.spotify.com/album/090krYhm5bNW0wlujblsjo) | 2:47 | 2023-01-06 | 2024-05-18 |
 | [Seaside Adventures](https://open.spotify.com/track/5deQ46BnmgeUzCeuFfVINX) | [tiffi](https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4), [City Girl](https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ) | [Seaside Adventures](https://open.spotify.com/album/5JzjozUauQCTyWdXoH201b) | 2:47 | 2023-10-13 | 2024-04-19 |

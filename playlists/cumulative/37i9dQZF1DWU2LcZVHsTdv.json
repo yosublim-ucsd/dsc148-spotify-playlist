@@ -1813,6 +1813,24 @@
     },
     {
       "album": {
+        "name": "Heroes",
+        "url": "https://open.spotify.com/album/3rcBvagGtxCTTtKMfKMyqm"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rowe",
+          "url": "https://open.spotify.com/artist/2aWgB3AXREinyBrJHxJ3ji"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194275,
+      "name": "Heroes",
+      "url": "https://open.spotify.com/track/6j5VrDrhpf1jgBjZpnC2bu"
+    },
+    {
+      "album": {
         "name": "Hey Girl",
         "url": "https://open.spotify.com/album/4kWRAruWZf0kKMgPdsRyhv"
       },

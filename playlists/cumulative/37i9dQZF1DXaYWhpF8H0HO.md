@@ -4,7 +4,7 @@
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover:  GAC \(Gamaliél Audrey Cantika\)
 
-156 songs - 9 hr 6 min
+157 songs - 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [One Bad Day](https://open.spotify.com/track/2ak4PK6BeHw8btWrVmOdYz) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [One Bad Day](https://open.spotify.com/album/0itJP1SdhOO3NKe9vxqj0s) | 3:54 | 2024-06-27 |  |
 | [PAPER](https://open.spotify.com/track/1f6h9GndsIZQS4kqcSgF0M) | [Belanegara Abe](https://open.spotify.com/artist/7ynDbLbbf0ldcQvzPyALuA), [Januarta](https://open.spotify.com/artist/6WaPRwMwtYtf0c0F36Dycc), [Slayla](https://open.spotify.com/artist/4VazjevYZN85lxlc6E0CGu) | [PAPER](https://open.spotify.com/album/7iT5ZXlI7R2YYFgfeO9DCP) | 2:19 | 2024-07-25 |  |
 | [Party In Bali \(PIB\)](https://open.spotify.com/track/0spo1IvT6CrCLDTVT7ue0O) | [AGNEZ MO](https://open.spotify.com/artist/6pMR8Zgot664613rAiLC2Z) | [Party In Bali \(PIB\)](https://open.spotify.com/album/1H5xLltL7JBn10Ce9XZfTk) | 2:52 | 2024-08-23 |  |
+| [Party In Bali \(PIB\) \[feat\. Jay Park\]](https://open.spotify.com/track/5ZjPVDronecWpciN3fmf5D) | [AGNEZ MO](https://open.spotify.com/artist/6pMR8Zgot664613rAiLC2Z), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Party In Bali \(PIB\) \[feat\. Jay Park\]](https://open.spotify.com/album/4BCEq5okdDEMSjqlg9oUZ2) | 2:52 | 2024-09-13 |  |
 | [pixie dust](https://open.spotify.com/track/1l6skfQdQcDhtgC1aid8oc) | [Reikko](https://open.spotify.com/artist/5n4a9seylr5pY9paMr9nWP) | [pixie dust](https://open.spotify.com/album/6JGaw5JilOBgXRUxr6VVgm) | 2:49 | 2024-06-27 |  |
 | [pixie dust \- Sihk Jawbreaker Remix](https://open.spotify.com/track/2BipYiVwCeeZw3Zb9B32dO) | [Reikko](https://open.spotify.com/artist/5n4a9seylr5pY9paMr9nWP), [Sihk](https://open.spotify.com/artist/0GRYh4b8TJ9LQelJhQuKh6) | [pixie dust \(Sihk Jawbreaker Remix\)](https://open.spotify.com/album/4xwuCQPIUPxvoQNaLOy2rk) | 2:22 | 2024-07-11 |  |
 | [Plastic Tears](https://open.spotify.com/track/2jyehOUAOjKd425X6qB5CF) | [VIONA](https://open.spotify.com/artist/6Ng5PoEhU9eoRDsu6f3pUa), [ABRAM](https://open.spotify.com/artist/0pBr6pYsK2cI90frSj9VgL) | [Plastic Tears](https://open.spotify.com/album/6LbSQpaWQhdVDndSqrrC4O) | 2:20 | 2024-06-27 | 2024-07-12 |

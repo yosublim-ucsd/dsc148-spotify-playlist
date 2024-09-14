@@ -4,7 +4,7 @@
 
 > Celebrate the merriment of the Holiday Season with your favorite country artists\. Cover: Thomas Rhett
 
-319 songs - 17 hr 19 min
+320 songs - 17 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Christmas Isn't Christmas](https://open.spotify.com/track/0pRknaXkPSLsmmkXZz8G0P) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn), [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Christmas Isn't Christmas](https://open.spotify.com/album/0AGOmWdA3YPhNrKy4GUP3h) | 3:12 | 2023-10-27 | 2024-08-22 |
 | [Christmas Just Us Two](https://open.spotify.com/track/4w9aTg5zBHjUk6BjARqBOZ) | [Morgan Myles](https://open.spotify.com/artist/5n29LsxgPUhW67Z8aPoas5), [Sam Morrow](https://open.spotify.com/artist/5fHiDVbd5c6LzxbjRO8ZZs) | [Christmas Just Us Two](https://open.spotify.com/album/32RZKD131KvRFVbT48URUx) | 3:54 | 2024-08-21 |  |
 | [Christmas Makes Me Cry](https://open.spotify.com/track/0pZjp6KTdWZVBIHGqfBaW7) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [A Very Kacey Christmas](https://open.spotify.com/album/7sIB15nu0Rp1vR8wXnTx3a) | 2:50 | 2022-11-11 | 2023-10-28 |
+| [Christmas Night With You](https://open.spotify.com/track/6lx1UIYeVhlLr40MA5Yjgl) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Christmas Night With You](https://open.spotify.com/album/3uFKb73VCTT04JWDQYyHB5) | 3:39 | 2024-09-13 |  |
 | [Christmas Through Your Eyes](https://open.spotify.com/track/01ZUp6PoqFuRtMTMODnPOf) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [On This Winter's Night \(Deluxe\)](https://open.spotify.com/album/6ww6efJkv3ytQfbEyMosPu) | 3:59 | 2021-12-16 | 2022-11-18 |
 | [Christmas Time Is Here](https://open.spotify.com/track/1moEucbMhmAK6KVPoNw6ms) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Glow \(Deluxe Edition\)](https://open.spotify.com/album/1MRT2V3JLYB6fL2TLJy2Rd) | 3:30 | 2021-12-16 |  |
 | [Christmas Tree](https://open.spotify.com/track/3dyGfmBId7vsXBpmGBTRln) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Christmas Tree](https://open.spotify.com/album/26wiQL7jbokOTV5ddprDYb) | 3:43 | 2021-12-16 | 2022-07-29 |

@@ -284,7 +284,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 131265,
       "name": "aldo",
       "url": "https://open.spotify.com/track/2s32Bxpb4A6O4tn8ya6Xst"
@@ -778,7 +778,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 148375,
       "name": "big buddha",
       "url": "https://open.spotify.com/track/3ctgxH0ZpE50qscnZYBY1H"
@@ -1881,6 +1881,24 @@
     },
     {
       "album": {
+        "name": "Days to Come",
+        "url": "https://open.spotify.com/album/37mH8rqJLln47F6qdDssfW"
+      },
+      "artists": [
+        {
+          "name": "Mr Argyle",
+          "url": "https://open.spotify.com/artist/3uXwEhmJJ8hkRJS7nE07sw"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147750,
+      "name": "Days to Come",
+      "url": "https://open.spotify.com/track/7CJ5MPvYa6Hcuz050BDW9F"
+    },
+    {
+      "album": {
         "name": "chai latay",
         "url": "https://open.spotify.com/album/2LsusJuv6WiMu7VKOLg7Ki"
       },
@@ -1896,6 +1914,24 @@
       "duration_ms": 171432,
       "name": "dear",
       "url": "https://open.spotify.com/track/4eMXHSc8jzmc9XdrHc14eO"
+    },
+    {
+      "album": {
+        "name": "decorate",
+        "url": "https://open.spotify.com/album/3T1DwyLHdDde5oOxNGmwyt"
+      },
+      "artists": [
+        {
+          "name": "okayokay",
+          "url": "https://open.spotify.com/artist/633sZM1wdqt78ctvpVluum"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145626,
+      "name": "decorate",
+      "url": "https://open.spotify.com/track/5VlhG140Gp9NhWhS9Dky1y"
     },
     {
       "album": {
@@ -2428,7 +2464,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 142857,
       "name": "Everything you need",
       "url": "https://open.spotify.com/track/77DrQhfJtki3fUcMd7oQgB"
@@ -2886,7 +2922,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 130985,
       "name": "Frost",
       "url": "https://open.spotify.com/track/6QgbFK64Y0fO76l8qS2FYA"
@@ -3110,6 +3146,24 @@
       "duration_ms": 140000,
       "name": "Gratefulness",
       "url": "https://open.spotify.com/track/2AbUPIumDoBR9tfKGv3c7e"
+    },
+    {
+      "album": {
+        "name": "Gravity of Love",
+        "url": "https://open.spotify.com/album/7cL88M0zNEXKDWr7PQWFh8"
+      },
+      "artists": [
+        {
+          "name": "Kadeen B",
+          "url": "https://open.spotify.com/artist/5lK2qWZmdr8c6wUgCvZ9XV"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171560,
+      "name": "Gravity of Love",
+      "url": "https://open.spotify.com/track/4waRcANfO8zeGwZLGGmK8a"
     },
     {
       "album": {
@@ -3384,6 +3438,24 @@
       "duration_ms": 134825,
       "name": "head in the clouds",
       "url": "https://open.spotify.com/track/0GdZ6vlb3nC8t5B5MP6TqP"
+    },
+    {
+      "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/2b4MQwic08GoiWdAoI76Q3"
+      },
+      "artists": [
+        {
+          "name": "Katashi Kait\u014d",
+          "url": "https://open.spotify.com/artist/7BDqewjn6oL3ryvHv78Wkx"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125738,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/1CcDRIoWnH19cOockC58UT"
     },
     {
       "album": {
@@ -4310,7 +4382,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 125333,
       "name": "Jump",
       "url": "https://open.spotify.com/track/76EduFgahFwWNCpyfRNcB0"
@@ -5223,6 +5295,24 @@
     },
     {
       "album": {
+        "name": "Make It",
+        "url": "https://open.spotify.com/album/4X9vWjNWlZ3qAtyDZ2ZhDj"
+      },
+      "artists": [
+        {
+          "name": "Berhanio",
+          "url": "https://open.spotify.com/artist/3ZkP4NjIpKfyaTf2hTAmkW"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118153,
+      "name": "Make It",
+      "url": "https://open.spotify.com/track/2teI76KKFE6qkpLZJs7tZ7"
+    },
+    {
+      "album": {
         "name": "many kinds of lost",
         "url": "https://open.spotify.com/album/60LygBz2HsNfssKk02T5rv"
       },
@@ -5614,7 +5704,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 127500,
       "name": "Mojo Verde",
       "url": "https://open.spotify.com/track/7C5rBLWSf3LGhzdDRtc6N0"
@@ -6261,6 +6351,24 @@
     },
     {
       "album": {
+        "name": "Now",
+        "url": "https://open.spotify.com/album/3mSLe7fzKHHVpGxfy4Z4oG"
+      },
+      "artists": [
+        {
+          "name": "Touristique",
+          "url": "https://open.spotify.com/artist/11rQUKWqk3opiirceuJVV2"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127624,
+      "name": "Now",
+      "url": "https://open.spotify.com/track/4VixPNMZMDJ9qV0KUUuxBf"
+    },
+    {
+      "album": {
         "name": "NS-10M",
         "url": "https://open.spotify.com/album/0T41HfuaZn1KlgucVAf8rx"
       },
@@ -6536,7 +6644,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 173524,
       "name": "ottos visa",
       "url": "https://open.spotify.com/track/2UIfKmFnpMjSLONtCxZw7B"
@@ -6612,6 +6720,24 @@
       "duration_ms": 163333,
       "name": "Panda Dreamscape",
       "url": "https://open.spotify.com/track/2Zg3gULSTGbrjoqbXw2Aym"
+    },
+    {
+      "album": {
+        "name": "Paper Kites",
+        "url": "https://open.spotify.com/album/2aw3cgdHzSrknrSdyYqhHp"
+      },
+      "artists": [
+        {
+          "name": "Loose Principles",
+          "url": "https://open.spotify.com/artist/6sVzSwvK7Wq0a0xjHk8tGk"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138987,
+      "name": "Paper Kites",
+      "url": "https://open.spotify.com/track/6OVR1eAheHHPaiQVka10Mg"
     },
     {
       "album": {
@@ -7976,7 +8102,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 152666,
       "name": "Smokey",
       "url": "https://open.spotify.com/track/1dLCk4vPlIGx1r1zSaxhpT"
@@ -8312,6 +8438,24 @@
       "duration_ms": 192000,
       "name": "spring is coming",
       "url": "https://open.spotify.com/track/3S0NnkTIk3LbDoL8dUY1Tc"
+    },
+    {
+      "album": {
+        "name": "Stacks",
+        "url": "https://open.spotify.com/album/2mVEfdt55X9RHZLELJhYtt"
+      },
+      "artists": [
+        {
+          "name": "HYYPNOTIC",
+          "url": "https://open.spotify.com/artist/7xYrUsHYH5J0hYgxHyx6PM"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163214,
+      "name": "Stacks",
+      "url": "https://open.spotify.com/track/5ZaDdUug7zmuk17YGoXhzx"
     },
     {
       "album": {

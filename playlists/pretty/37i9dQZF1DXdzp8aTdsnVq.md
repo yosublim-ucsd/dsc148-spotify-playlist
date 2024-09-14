@@ -2,19 +2,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzp8aTdsnVq.md) - [plain]
 
 ### [Lo + del Vallenato](https://open.spotify.com/playlist/37i9dQZF1DXdzp8aTdsnVq)
 
-> Novedades y clásicos del popular género colombiano\. Foto: La Banda del 5
+> Novedades y clásicos del popular género colombiano\. Foto: Binomio de Oro de América
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,467 likes - 60 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,493 likes - 60 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [BACANO](https://open.spotify.com/track/4lHjc7jgioQhACpJADMsED) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | ['TA MALO](https://open.spotify.com/album/75BaMB8qvdrjZrIYwRBNOZ) | 3:10 |
-| 2 | [La Juma](https://open.spotify.com/track/0GHpkjLnZpTcZ7ltzmYy7c) | [La Banda del 5](https://open.spotify.com/artist/3fwLvzwmgJkUwtn9YmpTiB) | [La Juma](https://open.spotify.com/album/13hIUugv4LXUG6PITBdZiE) | 4:38 |
-| 3 | [Cupido](https://open.spotify.com/track/26PCa9oiL7a8frOxeo4G52) | [Diego Daza](https://open.spotify.com/artist/6Rx5xY11vfnmOp312VzXMc), [Carlos Rueda](https://open.spotify.com/artist/7LVgdS3biF4E0taTah5GEW) | [A To' Timbal](https://open.spotify.com/album/62XE6gFwbqHghQwsifIVyO) | 3:26 |
-| 4 | [Si No Me Falla el Corazón](https://open.spotify.com/track/5zjW146BLKHSo1O2wCYyd6) | [Rafa Perez](https://open.spotify.com/artist/20atSGIEvROfpnloxbI3KJ), [Juank Padilla](https://open.spotify.com/artist/4YQ8Twq8BoIP8YzIk1xSc4) | [Canta Vallenato Homenaje a los Compositores, Vol\. 3](https://open.spotify.com/album/2GFmrxZqNM6vuprSv6JWSw) | 6:02 |
-| 5 | [La Guajirita](https://open.spotify.com/track/0eqBbsmdm321vZF4KxErZR) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Ovidio Granados](https://open.spotify.com/artist/7291PPngS2iCpyTpC6Kw5C) | [La Guajirita](https://open.spotify.com/album/35Xb2b2EAeZX7U3nSo5Atr) | 3:29 |
-| 6 | [Modo Avión](https://open.spotify.com/track/0hkMAFDOIP6whke8ckr0bs) | [Elder Dayán Díaz](https://open.spotify.com/artist/0w8jfjckFjwtKLRkX9NT2K), [Lucas Dangond](https://open.spotify.com/artist/3ozq7y6TMdWzUMc27vzFMX) | [Para Ustedes](https://open.spotify.com/album/1JfE5rJHaf1orCmnwtEDHd) | 3:42 |
-| 7 | [Olvidarte Otra Vez](https://open.spotify.com/track/2Tm8ziXRmiDizKZeevs2kF) | [La Banda del 5](https://open.spotify.com/artist/3fwLvzwmgJkUwtn9YmpTiB), [Pau Mor](https://open.spotify.com/artist/55Yvm4qFavBJgDK936X5K7) | [Olvidarte Otra Vez](https://open.spotify.com/album/2qDWwcj2THeF3foweSRZpD) | 2:43 |
+| 2 | [Rojo Manzana](https://open.spotify.com/track/0hFZqhaJ9h4VGrYiTrcArn) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Rojo Manzana](https://open.spotify.com/album/4ol1ixQWb7W6zId8HGc7H2) | 4:17 |
+| 3 | [La Juma](https://open.spotify.com/track/0GHpkjLnZpTcZ7ltzmYy7c) | [La Banda del 5](https://open.spotify.com/artist/3fwLvzwmgJkUwtn9YmpTiB) | [La Juma](https://open.spotify.com/album/13hIUugv4LXUG6PITBdZiE) | 4:38 |
+| 4 | [Cupido](https://open.spotify.com/track/26PCa9oiL7a8frOxeo4G52) | [Diego Daza](https://open.spotify.com/artist/6Rx5xY11vfnmOp312VzXMc), [Carlos Rueda](https://open.spotify.com/artist/7LVgdS3biF4E0taTah5GEW) | [A To' Timbal](https://open.spotify.com/album/62XE6gFwbqHghQwsifIVyO) | 3:26 |
+| 5 | [Si No Me Falla el Corazón](https://open.spotify.com/track/5zjW146BLKHSo1O2wCYyd6) | [Rafa Perez](https://open.spotify.com/artist/20atSGIEvROfpnloxbI3KJ), [Juank Padilla](https://open.spotify.com/artist/4YQ8Twq8BoIP8YzIk1xSc4) | [Canta Vallenato Homenaje a los Compositores, Vol\. 3](https://open.spotify.com/album/2GFmrxZqNM6vuprSv6JWSw) | 6:02 |
+| 6 | [La Guajirita](https://open.spotify.com/track/0eqBbsmdm321vZF4KxErZR) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Ovidio Granados](https://open.spotify.com/artist/7291PPngS2iCpyTpC6Kw5C) | [La Guajirita](https://open.spotify.com/album/35Xb2b2EAeZX7U3nSo5Atr) | 3:29 |
+| 7 | [Modo Avión](https://open.spotify.com/track/0hkMAFDOIP6whke8ckr0bs) | [Elder Dayán Díaz](https://open.spotify.com/artist/0w8jfjckFjwtKLRkX9NT2K), [Lucas Dangond](https://open.spotify.com/artist/3ozq7y6TMdWzUMc27vzFMX) | [Para Ustedes](https://open.spotify.com/album/1JfE5rJHaf1orCmnwtEDHd) | 3:42 |
 | 8 | [Sin Medir Distancia](https://open.spotify.com/track/7yx473uSOxKxtrtarfAVde) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG) | [Diomedes Vive](https://open.spotify.com/album/19vByA1IlHGAogr4eeqier) | 5:01 |
 | 9 | [El Amor Más Grande Del Planeta](https://open.spotify.com/track/7oDjteyywrS6miaOWdAsyp) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg) | [Un Sueño Llamado Sinfónico](https://open.spotify.com/album/63ehDXG0BtCb6WIjhl3ESB) | 4:50 |
 | 10 | [Ya Pa Que](https://open.spotify.com/track/3Q7equZktTSZJ3KBytS4cX) | [Churo Diaz](https://open.spotify.com/artist/35hWXzGwF4IR8nRicL7jey), [Elías Mendoza](https://open.spotify.com/artist/0oniumgsmbuItH1l6O8vER) | [Único](https://open.spotify.com/album/06wq8hSeOt7YNj8LeJX5Nz) | 4:13 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzp8aTdsnVq.md) - [plain]
 | 59 | [Difícil de Igualar](https://open.spotify.com/track/3vD0lvTizLj1jr8QE75Y9x) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Grandes Hits](https://open.spotify.com/album/29Jat1EcKzilBPkmmd1d3R) | 5:03 |
 | 60 | [Ya No Me Duele Más](https://open.spotify.com/track/0n2npnG9p4XnPAopv39USd) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Ya No Me Duele Más](https://open.spotify.com/album/0eUcBIlIkSckfugOOwJLkL) | 3:46 |
 
-Snapshot ID: `ZtqMFAAAAAAlt8QkBZinJtjXtQEjTUu6`
+Snapshot ID: `ZuP2ZAAAAACBQfERHqHP+Zilfg+7MFci`

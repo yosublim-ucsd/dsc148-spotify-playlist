@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les artistes \u00e0 l'affiche du Festival International de Jazz de Montr\u00e9al / Discover this year's Montreal Jazz Fest lineup",
-  "num_followers": 4535,
+  "num_followers": 4533,
   "original_name": "Festival International de Jazz de Montr\u00e9al 2024",
   "owner": {
     "name": "Spotify",
@@ -379,18 +379,22 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Asleep Among Endives",
-        "url": "https://open.spotify.com/album/6pKCyXWoV7zhgDczCO0H6S"
+        "name": "Ma Fleur",
+        "url": "https://open.spotify.com/album/5VrMypyjjBGzObGwnEHIJO"
       },
       "artists": [
         {
-          "name": "Ichiko Aoba",
-          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+          "name": "The Cinematic Orchestra",
+          "url": "https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB"
+        },
+        {
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
         }
       ],
-      "duration_ms": 306271,
-      "name": "Asleep Among Endives",
-      "url": "https://open.spotify.com/track/0RD3NWnHlyBCRwgNZy8QAn"
+      "duration_ms": 370666,
+      "name": "To Build A Home",
+      "url": "https://open.spotify.com/track/3AqPL1n1wKc5DVFFnYuJhp"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -411,22 +415,18 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Ma Fleur",
-        "url": "https://open.spotify.com/album/5VrMypyjjBGzObGwnEHIJO"
+        "name": "Asleep Among Endives",
+        "url": "https://open.spotify.com/album/6pKCyXWoV7zhgDczCO0H6S"
       },
       "artists": [
         {
-          "name": "The Cinematic Orchestra",
-          "url": "https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB"
-        },
-        {
-          "name": "Patrick Watson",
-          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+          "name": "Ichiko Aoba",
+          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
         }
       ],
-      "duration_ms": 370666,
-      "name": "To Build A Home",
-      "url": "https://open.spotify.com/track/3AqPL1n1wKc5DVFFnYuJhp"
+      "duration_ms": 306271,
+      "name": "Asleep Among Endives",
+      "url": "https://open.spotify.com/track/0RD3NWnHlyBCRwgNZy8QAn"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Troupeau bleu",
-        "url": "https://open.spotify.com/album/74DOWHisu2jlFvPid9YTGB"
-      },
-      "artists": [
-        {
-          "name": "Cortex",
-          "url": "https://open.spotify.com/artist/7EhUXju6pssa8o3CvFJTew"
-        }
-      ],
-      "duration_ms": 266040,
-      "name": "Huit octobre 1971",
-      "url": "https://open.spotify.com/track/2CsnpBAB8VQMTyPuws57ao"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "Seems Like",
         "url": "https://open.spotify.com/album/2tap8Qg9edttnopPumKebe"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 194020,
       "name": "Seems Like",
       "url": "https://open.spotify.com/track/2YrZqTyToiN4oBYHAVae7F"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Troupeau bleu",
+        "url": "https://open.spotify.com/album/74DOWHisu2jlFvPid9YTGB"
+      },
+      "artists": [
+        {
+          "name": "Cortex",
+          "url": "https://open.spotify.com/artist/7EhUXju6pssa8o3CvFJTew"
+        }
+      ],
+      "duration_ms": 266040,
+      "name": "Huit octobre 1971",
+      "url": "https://open.spotify.com/track/2CsnpBAB8VQMTyPuws57ao"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "I Killed Your Dog",
-        "url": "https://open.spotify.com/album/2O01P3dwp47dyImCnTdfyo"
-      },
-      "artists": [
-        {
-          "name": "L'Rain",
-          "url": "https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn"
-        }
-      ],
-      "duration_ms": 165413,
-      "name": "Pet Rock",
-      "url": "https://open.spotify.com/track/6WEsHmNIZIza01qGJNvjc3"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "By Your Side",
         "url": "https://open.spotify.com/album/4lfxrZaJHbw7kbE6yZ2arb"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 241938,
       "name": "Au Revoir",
       "url": "https://open.spotify.com/track/2aITW5JwQ2HxfUmx4RVT6S"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "I Killed Your Dog",
+        "url": "https://open.spotify.com/album/2O01P3dwp47dyImCnTdfyo"
+      },
+      "artists": [
+        {
+          "name": "L'Rain",
+          "url": "https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn"
+        }
+      ],
+      "duration_ms": 165413,
+      "name": "Pet Rock",
+      "url": "https://open.spotify.com/track/6WEsHmNIZIza01qGJNvjc3"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Agadez",
-        "url": "https://open.spotify.com/album/3rTt2Gu71ktKEzfDumvuYG"
-      },
-      "artists": [
-        {
-          "name": "Etran de L'A\u00cfr",
-          "url": "https://open.spotify.com/artist/1Tj92mXFtSUJPPnT5fG4Gg"
-        }
-      ],
-      "duration_ms": 274771,
-      "name": "Adounia",
-      "url": "https://open.spotify.com/track/0oF0943hvTFkA9oNyjedeV"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "The Oracle",
         "url": "https://open.spotify.com/album/5KmGjVw9SJOJ6sCxSevpIp"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 166106,
       "name": "London",
       "url": "https://open.spotify.com/track/4gVfIYoA1p4hG6jFr9RUv1"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Agadez",
+        "url": "https://open.spotify.com/album/3rTt2Gu71ktKEzfDumvuYG"
+      },
+      "artists": [
+        {
+          "name": "Etran de L'A\u00cfr",
+          "url": "https://open.spotify.com/artist/1Tj92mXFtSUJPPnT5fG4Gg"
+        }
+      ],
+      "duration_ms": 274771,
+      "name": "Adounia",
+      "url": "https://open.spotify.com/track/0oF0943hvTFkA9oNyjedeV"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Wish I Knew",
-        "url": "https://open.spotify.com/album/6yAdVVZIr56KZBUSNVHQsi"
-      },
-      "artists": [
-        {
-          "name": "Sons Of The East",
-          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
-        }
-      ],
-      "duration_ms": 186020,
-      "name": "Hard To Tell",
-      "url": "https://open.spotify.com/track/5GkaWwSzJnFihJVPlRoEcr"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "A World Worth Fighting For",
         "url": "https://open.spotify.com/album/7thUFUVgLGBwgB2pGfXxbJ"
       },
@@ -1923,6 +1907,22 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
+        "name": "Wish I Knew",
+        "url": "https://open.spotify.com/album/6yAdVVZIr56KZBUSNVHQsi"
+      },
+      "artists": [
+        {
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
+        }
+      ],
+      "duration_ms": 186020,
+      "name": "Hard To Tell",
+      "url": "https://open.spotify.com/track/5GkaWwSzJnFihJVPlRoEcr"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
         "name": "Find Me A Cloud",
         "url": "https://open.spotify.com/album/2NCFSe9Fl6kaso0babK0BS"
       },
@@ -1935,6 +1935,26 @@
       "duration_ms": 146812,
       "name": "I'm Not Sure",
       "url": "https://open.spotify.com/track/33hzHkyoWuIdk8x7cdiTJx"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Solar Music",
+        "url": "https://open.spotify.com/album/2rhUlNPeS1bJQiBWXul6zY"
+      },
+      "artists": [
+        {
+          "name": "Butcher Brown",
+          "url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
+        },
+        {
+          "name": "Jay Prince",
+          "url": "https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj"
+        }
+      ],
+      "duration_ms": 148756,
+      "name": "MOVE (RIDE) [Feat. Jay Prince]",
+      "url": "https://open.spotify.com/track/0SYyg0p60RTrMgWfO4dPdV"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -1971,26 +1991,6 @@
       "duration_ms": 297631,
       "name": "Woman Of The Ghetto - Reimagined",
       "url": "https://open.spotify.com/track/0LLrnRUnjl1NxREWcp6bCO"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
-        "name": "Solar Music",
-        "url": "https://open.spotify.com/album/2rhUlNPeS1bJQiBWXul6zY"
-      },
-      "artists": [
-        {
-          "name": "Butcher Brown",
-          "url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
-        },
-        {
-          "name": "Jay Prince",
-          "url": "https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj"
-        }
-      ],
-      "duration_ms": 148756,
-      "name": "MOVE (RIDE) [Feat. Jay Prince]",
-      "url": "https://open.spotify.com/track/0SYyg0p60RTrMgWfO4dPdV"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2219,18 +2219,18 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Step out",
-        "url": "https://open.spotify.com/album/12AqyKMFCCLCdCqhx8FAVs"
+        "name": "Hermetism (Commentary Version)",
+        "url": "https://open.spotify.com/album/4H1Ch0zFiUQcxcwu9ARMzX"
       },
       "artists": [
         {
-          "name": "T\u00e9rez Montcalm",
-          "url": "https://open.spotify.com/artist/6jtz3WsEdKxxYqO9LVWgcB"
+          "name": "Joep Beving",
+          "url": "https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y"
         }
       ],
-      "duration_ms": 220418,
-      "name": "Reach Out I'll Be There",
-      "url": "https://open.spotify.com/track/6edGDwIBfftAb0xQX4nfTI"
+      "duration_ms": 354709,
+      "name": "Paris s'enflamme",
+      "url": "https://open.spotify.com/track/6GC9FilEe08p7LgwtXgO24"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2251,18 +2251,18 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Hermetism (Commentary Version)",
-        "url": "https://open.spotify.com/album/4H1Ch0zFiUQcxcwu9ARMzX"
+        "name": "Step out",
+        "url": "https://open.spotify.com/album/12AqyKMFCCLCdCqhx8FAVs"
       },
       "artists": [
         {
-          "name": "Joep Beving",
-          "url": "https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y"
+          "name": "T\u00e9rez Montcalm",
+          "url": "https://open.spotify.com/artist/6jtz3WsEdKxxYqO9LVWgcB"
         }
       ],
-      "duration_ms": 354709,
-      "name": "Paris s'enflamme",
-      "url": "https://open.spotify.com/track/6GC9FilEe08p7LgwtXgO24"
+      "duration_ms": 220418,
+      "name": "Reach Out I'll Be There",
+      "url": "https://open.spotify.com/track/6edGDwIBfftAb0xQX4nfTI"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2707,6 +2707,22 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
+        "name": "CHANTE'S GROOVE",
+        "url": "https://open.spotify.com/album/1TV2Jx7E5y7Yg9jul0CP3X"
+      },
+      "artists": [
+        {
+          "name": "THEHONESTGUY",
+          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
+        }
+      ],
+      "duration_ms": 230649,
+      "name": "HANGING WITH YOU",
+      "url": "https://open.spotify.com/track/5kWQ5PENkfsF4C2MEFmiY7"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
         "name": "Piece of Mind",
         "url": "https://open.spotify.com/album/7tuIHvQNLrzizQXlh34KPq"
       },
@@ -2759,22 +2775,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "CHANTE'S GROOVE",
-        "url": "https://open.spotify.com/album/1TV2Jx7E5y7Yg9jul0CP3X"
-      },
-      "artists": [
-        {
-          "name": "THEHONESTGUY",
-          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
-        }
-      ],
-      "duration_ms": 230649,
-      "name": "HANGING WITH YOU",
-      "url": "https://open.spotify.com/track/5kWQ5PENkfsF4C2MEFmiY7"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "Take 3",
         "url": "https://open.spotify.com/album/6ZqqkFzCWuKviVoXsGJhH9"
       },
@@ -2807,22 +2807,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "The Head Of A Mouse",
-        "url": "https://open.spotify.com/album/6C8JSqXb9Xih3t1BIrd7pq"
-      },
-      "artists": [
-        {
-          "name": "Audrey Ochoa",
-          "url": "https://open.spotify.com/artist/6S4IwqnSaW2H4upP0Esowo"
-        }
-      ],
-      "duration_ms": 314773,
-      "name": "The Head Of A Mouse",
-      "url": "https://open.spotify.com/track/6bmuSe1gwgoP8KFefwkDoy"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "Prevent the Future",
         "url": "https://open.spotify.com/album/2lBwX3PaCaAGxO8VMzyuFU"
       },
@@ -2851,6 +2835,22 @@
       "duration_ms": 216072,
       "name": "Activate",
       "url": "https://open.spotify.com/track/0SIM57FWfQF56r4K1WwWDD"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "The Head Of A Mouse",
+        "url": "https://open.spotify.com/album/6C8JSqXb9Xih3t1BIrd7pq"
+      },
+      "artists": [
+        {
+          "name": "Audrey Ochoa",
+          "url": "https://open.spotify.com/artist/6S4IwqnSaW2H4upP0Esowo"
+        }
+      ],
+      "duration_ms": 314773,
+      "name": "The Head Of A Mouse",
+      "url": "https://open.spotify.com/track/6bmuSe1gwgoP8KFefwkDoy"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2959,26 +2959,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Don't Bring Me Down",
-        "url": "https://open.spotify.com/album/6ELp2EzOuHgucNjKUvJfsO"
-      },
-      "artists": [
-        {
-          "name": "The Heavyweights Brass Band",
-          "url": "https://open.spotify.com/artist/1DuvTCwRQqiKrLEd2L489L"
-        },
-        {
-          "name": "Ogguere",
-          "url": "https://open.spotify.com/artist/1Z2twXH5DCuPw7fxb5nJ4X"
-        }
-      ],
-      "duration_ms": 176600,
-      "name": "Nueva Orleans",
-      "url": "https://open.spotify.com/track/2qx1y5GncqaTgcDBl5kjKV"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "Ukubonga Gratitude",
         "url": "https://open.spotify.com/album/4fVRmnxsA4BvkBs7Da4vKR"
       },
@@ -2995,6 +2975,26 @@
       "duration_ms": 376720,
       "name": "Ilanga Selishonile",
       "url": "https://open.spotify.com/track/4ykTT0e3nJBeLEygPaHcMp"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Don't Bring Me Down",
+        "url": "https://open.spotify.com/album/6ELp2EzOuHgucNjKUvJfsO"
+      },
+      "artists": [
+        {
+          "name": "The Heavyweights Brass Band",
+          "url": "https://open.spotify.com/artist/1DuvTCwRQqiKrLEd2L489L"
+        },
+        {
+          "name": "Ogguere",
+          "url": "https://open.spotify.com/artist/1Z2twXH5DCuPw7fxb5nJ4X"
+        }
+      ],
+      "duration_ms": 176600,
+      "name": "Nueva Orleans",
+      "url": "https://open.spotify.com/track/2qx1y5GncqaTgcDBl5kjKV"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -3095,22 +3095,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Rez-de-chauss\u00e9e",
-        "url": "https://open.spotify.com/album/70mCGq6gSILnx4mJDbBh8p"
-      },
-      "artists": [
-        {
-          "name": "Greenhouse Ensemble",
-          "url": "https://open.spotify.com/artist/0538qCQ6cuMTAmQAZULE3i"
-        }
-      ],
-      "duration_ms": 340002,
-      "name": "Beyond Me",
-      "url": "https://open.spotify.com/track/1EQFWNkY6Mkoeztv85kr2C"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "Walking Man",
         "url": "https://open.spotify.com/album/0sfOXaDJPN2aymUH1rd4Qd"
       },
@@ -3123,6 +3107,22 @@
       "duration_ms": 184620,
       "name": "Walking Man",
       "url": "https://open.spotify.com/track/5BryFJi37XVvgsGTuohuk4"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Rez-de-chauss\u00e9e",
+        "url": "https://open.spotify.com/album/70mCGq6gSILnx4mJDbBh8p"
+      },
+      "artists": [
+        {
+          "name": "Greenhouse Ensemble",
+          "url": "https://open.spotify.com/artist/0538qCQ6cuMTAmQAZULE3i"
+        }
+      ],
+      "duration_ms": 340002,
+      "name": "Beyond Me",
+      "url": "https://open.spotify.com/track/1EQFWNkY6Mkoeztv85kr2C"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -3155,6 +3155,78 @@
       "duration_ms": 251315,
       "name": "FOMO",
       "url": "https://open.spotify.com/track/7JGxbfSBnL3ON2H9mFYWyC"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Letters to George",
+        "url": "https://open.spotify.com/album/7kicllWbbgE3kePkoPXfFi"
+      },
+      "artists": [
+        {
+          "name": "George",
+          "url": "https://open.spotify.com/artist/3fmiUaaO5sa8bpnA0Kaz44"
+        },
+        {
+          "name": "John Hollenbeck",
+          "url": "https://open.spotify.com/artist/59tdGIxFYXNsHrRMOn2Wr8"
+        },
+        {
+          "name": "Anna Webber",
+          "url": "https://open.spotify.com/artist/5t4GxKBhHu9kFsRzHTEMfn"
+        },
+        {
+          "name": "Aurora Nealand",
+          "url": "https://open.spotify.com/artist/4vvn7p92Ew5xPtHgV3yOJw"
+        },
+        {
+          "name": "Chiquita Magic",
+          "url": "https://open.spotify.com/artist/567ViviKGU4aOVHghv8W8J"
+        }
+      ],
+      "duration_ms": 365026,
+      "name": "Earthworker",
+      "url": "https://open.spotify.com/track/20hdhVAHm1etGITjYJ9qSP"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Kindred",
+        "url": "https://open.spotify.com/album/5iYjnlKbCGefrh8rQbqXTx"
+      },
+      "artists": [
+        {
+          "name": "Doxas Brothers",
+          "url": "https://open.spotify.com/artist/5a2mlBBRRNNYfpMdHjFgI5"
+        }
+      ],
+      "duration_ms": 353002,
+      "name": "Two's a Crowd",
+      "url": "https://open.spotify.com/track/0hCKmGQWdYhGSumibIuusV"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Time Poem: La joie de l'\u00e9ph\u00e9m\u00e8re",
+        "url": "https://open.spotify.com/album/0L4xHZpUhhkzRtMfPXYHjp"
+      },
+      "artists": [
+        {
+          "name": "Marianne Trudel",
+          "url": "https://open.spotify.com/artist/3ZjyAwXvUuU6JtYjI6XeZb"
+        },
+        {
+          "name": "John Hollenbeck",
+          "url": "https://open.spotify.com/artist/59tdGIxFYXNsHrRMOn2Wr8"
+        },
+        {
+          "name": "R\u00e9mi-Jean Leblanc",
+          "url": "https://open.spotify.com/artist/1v5jtskP3izbwtQMFBJnis"
+        }
+      ],
+      "duration_ms": 429943,
+      "name": "Les vagues",
+      "url": "https://open.spotify.com/track/7n3hKwI0VUjfNUYyus9B22"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -3207,78 +3279,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Letters to George",
-        "url": "https://open.spotify.com/album/7kicllWbbgE3kePkoPXfFi"
-      },
-      "artists": [
-        {
-          "name": "George",
-          "url": "https://open.spotify.com/artist/3fmiUaaO5sa8bpnA0Kaz44"
-        },
-        {
-          "name": "John Hollenbeck",
-          "url": "https://open.spotify.com/artist/59tdGIxFYXNsHrRMOn2Wr8"
-        },
-        {
-          "name": "Anna Webber",
-          "url": "https://open.spotify.com/artist/5t4GxKBhHu9kFsRzHTEMfn"
-        },
-        {
-          "name": "Aurora Nealand",
-          "url": "https://open.spotify.com/artist/4vvn7p92Ew5xPtHgV3yOJw"
-        },
-        {
-          "name": "Chiquita Magic",
-          "url": "https://open.spotify.com/artist/567ViviKGU4aOVHghv8W8J"
-        }
-      ],
-      "duration_ms": 365026,
-      "name": "Earthworker",
-      "url": "https://open.spotify.com/track/20hdhVAHm1etGITjYJ9qSP"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
-        "name": "Time Poem: La joie de l'\u00e9ph\u00e9m\u00e8re",
-        "url": "https://open.spotify.com/album/0L4xHZpUhhkzRtMfPXYHjp"
-      },
-      "artists": [
-        {
-          "name": "Marianne Trudel",
-          "url": "https://open.spotify.com/artist/3ZjyAwXvUuU6JtYjI6XeZb"
-        },
-        {
-          "name": "John Hollenbeck",
-          "url": "https://open.spotify.com/artist/59tdGIxFYXNsHrRMOn2Wr8"
-        },
-        {
-          "name": "R\u00e9mi-Jean Leblanc",
-          "url": "https://open.spotify.com/artist/1v5jtskP3izbwtQMFBJnis"
-        }
-      ],
-      "duration_ms": 429943,
-      "name": "Les vagues",
-      "url": "https://open.spotify.com/track/7n3hKwI0VUjfNUYyus9B22"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
-        "name": "Kindred",
-        "url": "https://open.spotify.com/album/5iYjnlKbCGefrh8rQbqXTx"
-      },
-      "artists": [
-        {
-          "name": "Doxas Brothers",
-          "url": "https://open.spotify.com/artist/5a2mlBBRRNNYfpMdHjFgI5"
-        }
-      ],
-      "duration_ms": 353002,
-      "name": "Two's a Crowd",
-      "url": "https://open.spotify.com/track/0hCKmGQWdYhGSumibIuusV"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "Lisa Turtle",
         "url": "https://open.spotify.com/album/700oqbNT6ku1X3lKI3ueTg"
       },
@@ -3311,6 +3311,22 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
+        "name": "Memory Blues",
+        "url": "https://open.spotify.com/album/0JIbnpVwUaTgzTlkfJENLn"
+      },
+      "artists": [
+        {
+          "name": "Endrick & the Sandwiches",
+          "url": "https://open.spotify.com/artist/4iPZUbFxqVcceMw9uIMjD5"
+        }
+      ],
+      "duration_ms": 214903,
+      "name": "Memory Blues",
+      "url": "https://open.spotify.com/track/5hdRg5sJusPb6TXKwjWDdo"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
         "name": "Sunset",
         "url": "https://open.spotify.com/album/126VBRneAtKHVcgZCEPPvx"
       },
@@ -3327,22 +3343,6 @@
       "duration_ms": 378348,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/6HuYUdj1H7tKm9l1xQClmR"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
-        "name": "Memory Blues",
-        "url": "https://open.spotify.com/album/0JIbnpVwUaTgzTlkfJENLn"
-      },
-      "artists": [
-        {
-          "name": "Endrick & the Sandwiches",
-          "url": "https://open.spotify.com/artist/4iPZUbFxqVcceMw9uIMjD5"
-        }
-      ],
-      "duration_ms": 214903,
-      "name": "Memory Blues",
-      "url": "https://open.spotify.com/track/5hdRg5sJusPb6TXKwjWDdo"
     },
     {
       "added_at": "2024-06-28 14:45:02",

@@ -1,13 +1,89 @@
 {
-  "description": "The hottest new pop with all the drops. Cover: The Chainsmokers x Kim Petras",
-  "num_followers": 185939,
+  "description": "The hottest new pop with all the drops. Cover: Taylor Swift",
+  "num_followers": 186169,
   "original_name": "New Dance Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Ztp+QAAAAAAICb3dANBFZChZUe2kbO1s",
+  "snapshot_id": "ZuO4wAAAAABwLrGOHKtDi6fSyK/Cj/nq",
   "tracks": [
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "I Can Do It With a Broken Heart - Dombresky Remix",
+        "url": "https://open.spotify.com/album/3WNGsnTetig4bJbw2BMbK7"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Dombresky",
+          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+        }
+      ],
+      "duration_ms": 189391,
+      "name": "I Can Do It With a Broken Heart - Dombresky Remix",
+      "url": "https://open.spotify.com/track/0hFF0aqyjDwDh6SQwRbTyx"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Heart Like Mine (feat. Rosa Linn)",
+        "url": "https://open.spotify.com/album/2k7ml7X0RXedgJaW7nkjak"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+        }
+      ],
+      "duration_ms": 149673,
+      "name": "Heart Like Mine (feat. Rosa Linn)",
+      "url": "https://open.spotify.com/track/4xqekuN4lfu6MBeWov0Icl"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Modern Tragedy",
+        "url": "https://open.spotify.com/album/7B4aT17IgD8dMcyEQWxQqk"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        }
+      ],
+      "duration_ms": 179909,
+      "name": "Modern Tragedy",
+      "url": "https://open.spotify.com/track/2Jzlk2D053PRFg8pMYAhyV"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "8 Days",
+        "url": "https://open.spotify.com/album/1lPG1cpJqD025tNy4r6vjD"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 130391,
+      "name": "8 Days",
+      "url": "https://open.spotify.com/track/6t2CRoMkLF78OdffqSsfhz"
+    },
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
@@ -29,28 +105,24 @@
       "url": "https://open.spotify.com/track/5is9ECympHEpAyTw22IDC5"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Thick Of It All",
-        "url": "https://open.spotify.com/album/0JvWGbkCMpAdbPVlczwKDx"
+        "name": "Surrender Your Love",
+        "url": "https://open.spotify.com/album/1R4yShXuxu2vVoM01StCG6"
       },
       "artists": [
         {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
         },
         {
-          "name": "Joe Jonas",
-          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
-        },
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+          "name": "Sam Gray",
+          "url": "https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18"
         }
       ],
-      "duration_ms": 199720,
-      "name": "Thick Of It All",
-      "url": "https://open.spotify.com/track/6JbvvGKwtgcjeOU810AS8w"
+      "duration_ms": 204375,
+      "name": "Surrender Your Love",
+      "url": "https://open.spotify.com/track/3lsaizjKzS1fxdo7eIum40"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -71,6 +143,46 @@
       "duration_ms": 196190,
       "name": "Young Again",
       "url": "https://open.spotify.com/track/1jc8a5v2ewbx7jAj8nTfHs"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Like Sunshine",
+        "url": "https://open.spotify.com/album/3L9LvzvCmv5qQr5wsDiEa1"
+      },
+      "artists": [
+        {
+          "name": "Lavern",
+          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
+        },
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        }
+      ],
+      "duration_ms": 163750,
+      "name": "Like Sunshine",
+      "url": "https://open.spotify.com/track/1Tfg0XYAGbUSvQiGWWBmXa"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "We Could Be Love",
+        "url": "https://open.spotify.com/album/7MXx2NOHN8IsVPY9x57QXU"
+      },
+      "artists": [
+        {
+          "name": "Hayden James",
+          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+        },
+        {
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/7dN0mzJ5TUbGIdmEAiytzl"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -135,6 +247,30 @@
       "duration_ms": 156000,
       "name": "Arrows",
       "url": "https://open.spotify.com/track/5I9XoDQZZBEM7GVoGZhqX0"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Thick Of It All",
+        "url": "https://open.spotify.com/album/0JvWGbkCMpAdbPVlczwKDx"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Joe Jonas",
+          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 199720,
+      "name": "Thick Of It All",
+      "url": "https://open.spotify.com/track/6JbvvGKwtgcjeOU810AS8w"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1307,30 +1443,6 @@
     {
       "added_at": "2024-09-03 21:46:52",
       "album": {
-        "name": "(Can\u2019t Get You) Off My Mind",
-        "url": "https://open.spotify.com/album/21ML2b7P3BVsthK09Qqn9J"
-      },
-      "artists": [
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        },
-        {
-          "name": "Young Franco",
-          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
-        },
-        {
-          "name": "CHAII",
-          "url": "https://open.spotify.com/artist/5QYfFIxVcsJtK600MxqtpF"
-        }
-      ],
-      "duration_ms": 172265,
-      "name": "(Can\u2019t Get You) Off My Mind",
-      "url": "https://open.spotify.com/track/2nBqFmllpg9RXlWGKpSWQT"
-    },
-    {
-      "added_at": "2024-09-03 21:46:52",
-      "album": {
         "name": "Paragon",
         "url": "https://open.spotify.com/album/49HNGYy1UK8mHp5HgqYOhI"
       },
@@ -1371,26 +1483,6 @@
       "duration_ms": 181341,
       "name": "Tonight (D.I.Y.A)",
       "url": "https://open.spotify.com/track/1FYAysfZgA82W5QA8SwdwI"
-    },
-    {
-      "added_at": "2024-09-03 21:46:52",
-      "album": {
-        "name": "Chase The Sunlight",
-        "url": "https://open.spotify.com/album/3STQMHCPGNiQ9QbD74JEDm"
-      },
-      "artists": [
-        {
-          "name": "TWINSICK",
-          "url": "https://open.spotify.com/artist/4WfO14YgktUYkdLMrHgTeF"
-        },
-        {
-          "name": "Saint Raymond",
-          "url": "https://open.spotify.com/artist/1eIoJGCu3rShrRm2wfOhN8"
-        }
-      ],
-      "duration_ms": 168347,
-      "name": "Chase The Sunlight",
-      "url": "https://open.spotify.com/track/1nIAqhqw4Mo37zA41xm1h4"
     }
   ],
   "unique_name": "New Dance Pop",

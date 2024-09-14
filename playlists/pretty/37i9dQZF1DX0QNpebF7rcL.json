@@ -1,13 +1,29 @@
 {
   "description": "The best in blues right now. Cover: Toronzo Cannon",
-  "num_followers": 58331,
+  "num_followers": 58348,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zs/yQAAAAADWFUd1h6rXLUgizsXsgdOQ",
+  "snapshot_id": "ZuO5OAAAAAASHKF5UWB6+bu2TJggIQDC",
   "tracks": [
+    {
+      "added_at": "2024-09-13 04:02:00",
+      "album": {
+        "name": "Scarlet Town",
+        "url": "https://open.spotify.com/album/3bDQzaW38BMWykUCiVrdFM"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 477238,
+      "name": "Scarlet Town",
+      "url": "https://open.spotify.com/track/1Kurxzp14RybdRiR31Ut3i"
+    },
     {
       "added_at": "2024-08-29 04:00:00",
       "album": {
@@ -39,6 +55,22 @@
       "duration_ms": 203106,
       "name": "Roll On Buddy",
       "url": "https://open.spotify.com/track/716inKAgvoukiftOCG4l6l"
+    },
+    {
+      "added_at": "2024-09-13 04:02:00",
+      "album": {
+        "name": "Issa",
+        "url": "https://open.spotify.com/album/6iTIRtJvk0JyRsmtXz2TDe"
+      },
+      "artists": [
+        {
+          "name": "Songhoy Blues",
+          "url": "https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z"
+        }
+      ],
+      "duration_ms": 206920,
+      "name": "Issa",
+      "url": "https://open.spotify.com/track/01WyqI4Qnh4gvUFVGp2C9r"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1549,26 +1581,6 @@
       "url": "https://open.spotify.com/track/4ikAAkBStMneLsxfjcoG4E"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Cryin\u2019 Won\u2019t Help You",
-        "url": "https://open.spotify.com/album/7lz81CRxzCYmryRTxThLaO"
-      },
-      "artists": [
-        {
-          "name": "Paul Carrack",
-          "url": "https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz"
-        },
-        {
-          "name": "The SWR Big Band",
-          "url": "https://open.spotify.com/artist/4WnYuKbhxAKXJ8yAvvOsfW"
-        }
-      ],
-      "duration_ms": 269816,
-      "name": "Cryin' Won\u00b4t Help You",
-      "url": "https://open.spotify.com/track/1Sfcy8w25PbenC7Xvl5LSk"
-    },
-    {
       "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "Things Happen That Way",
@@ -1679,22 +1691,6 @@
       "duration_ms": 189400,
       "name": "Heartache by the Pound",
       "url": "https://open.spotify.com/track/2SSuZ7fCreC6czcTtu2wfu"
-    },
-    {
-      "added_at": "2022-08-19 04:02:00",
-      "album": {
-        "name": "Dry Run",
-        "url": "https://open.spotify.com/album/5612RXP6x13O9iP94Sx0YH"
-      },
-      "artists": [
-        {
-          "name": "GA-20",
-          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
-        }
-      ],
-      "duration_ms": 196939,
-      "name": "Dry Run",
-      "url": "https://open.spotify.com/track/419eddgUScgFJRyqwUV8mZ"
     },
     {
       "added_at": "2022-07-29 04:02:00",

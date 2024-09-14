@@ -1233,6 +1233,24 @@
     },
     {
       "album": {
+        "name": "Wandering Youth",
+        "url": "https://open.spotify.com/album/0ip2nIDp24gqxNieGpq56A"
+      },
+      "artists": [
+        {
+          "name": "Choi Yu Ree",
+          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+        }
+      ],
+      "date_added": "2024-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256066,
+      "name": "Wandering Youth",
+      "url": "https://open.spotify.com/track/0JNenWY0Dt33vfqHQGnX9F"
+    },
+    {
+      "album": {
         "name": "I Mean",
         "url": "https://open.spotify.com/album/2SSsz0XFUeTYZfGWRLFswR"
       },
@@ -1320,7 +1338,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 232751,
       "name": "You\u2019re mine, You!",
       "url": "https://open.spotify.com/track/3qoBzjth2rDTVXlzhL2lTd"

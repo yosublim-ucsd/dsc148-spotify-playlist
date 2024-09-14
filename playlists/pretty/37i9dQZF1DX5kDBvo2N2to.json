@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 59169,
+  "num_followers": 59173,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -119,6 +119,26 @@
     {
       "added_at": "2024-09-13 00:10:00",
       "album": {
+        "name": "Talk talk featuring troye sivan",
+        "url": "https://open.spotify.com/album/4hSYRtDjN1XbTqBKTw33sj"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 173076,
+      "name": "Talk talk featuring troye sivan",
+      "url": "https://open.spotify.com/track/2LUD3874dlzeRa34Hi7ohW"
+    },
+    {
+      "added_at": "2024-09-13 00:10:00",
+      "album": {
         "name": "I Lied, I'm Sorry",
         "url": "https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9"
       },
@@ -131,22 +151,6 @@
       "duration_ms": 162300,
       "name": "I Lied, I'm Sorry",
       "url": "https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD"
-    },
-    {
-      "added_at": "2024-09-13 00:10:00",
-      "album": {
-        "name": "Talk / Bye Bye",
-        "url": "https://open.spotify.com/album/6qCiCh8EV2osyLSIXvZ93N"
-      },
-      "artists": [
-        {
-          "name": "Omar Rudberg",
-          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
-        }
-      ],
-      "duration_ms": 151400,
-      "name": "Talk",
-      "url": "https://open.spotify.com/track/1oJXyOgHH1qZGpgsODvt69"
     },
     {
       "added_at": "2024-09-13 00:10:00",
@@ -179,6 +183,22 @@
       "duration_ms": 232506,
       "name": "Blue Sky & The Painter",
       "url": "https://open.spotify.com/track/1xuQoznYFrrw493RCb4IS9"
+    },
+    {
+      "added_at": "2024-09-13 00:10:00",
+      "album": {
+        "name": "Talk / Bye Bye",
+        "url": "https://open.spotify.com/album/6qCiCh8EV2osyLSIXvZ93N"
+      },
+      "artists": [
+        {
+          "name": "Omar Rudberg",
+          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
+        }
+      ],
+      "duration_ms": 151400,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/1oJXyOgHH1qZGpgsODvt69"
     },
     {
       "added_at": "2024-09-13 00:10:00",
@@ -247,22 +267,6 @@
     {
       "added_at": "2024-09-13 00:10:00",
       "album": {
-        "name": "When she holds me",
-        "url": "https://open.spotify.com/album/0bZ5ZKnXCHLoxgm5Y4lSrt"
-      },
-      "artists": [
-        {
-          "name": "Becky and the Birds",
-          "url": "https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d"
-        }
-      ],
-      "duration_ms": 243440,
-      "name": "When she holds me",
-      "url": "https://open.spotify.com/track/4L4TXo5OwpTQlIPly2xES1"
-    },
-    {
-      "added_at": "2024-09-13 00:10:00",
-      "album": {
         "name": "Right?",
         "url": "https://open.spotify.com/album/4jSF49BrBnMJHw60Aoowmw"
       },
@@ -279,18 +283,18 @@
     {
       "added_at": "2024-09-13 00:10:00",
       "album": {
-        "name": "REAL",
-        "url": "https://open.spotify.com/album/6vtQu8WfdKOpN14pOHoa9g"
+        "name": "When she holds me",
+        "url": "https://open.spotify.com/album/0bZ5ZKnXCHLoxgm5Y4lSrt"
       },
       "artists": [
         {
-          "name": "total tommy",
-          "url": "https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc"
+          "name": "Becky and the Birds",
+          "url": "https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d"
         }
       ],
-      "duration_ms": 203339,
-      "name": "REAL",
-      "url": "https://open.spotify.com/track/7eorbMGNa05rVo2v6d7SQD"
+      "duration_ms": 243440,
+      "name": "When she holds me",
+      "url": "https://open.spotify.com/track/4L4TXo5OwpTQlIPly2xES1"
     },
     {
       "added_at": "2024-09-13 00:10:00",
@@ -307,6 +311,22 @@
       "duration_ms": 179754,
       "name": "Strong",
       "url": "https://open.spotify.com/track/6kvS2z82Q6l7h4DnzteKwO"
+    },
+    {
+      "added_at": "2024-09-13 00:10:00",
+      "album": {
+        "name": "REAL",
+        "url": "https://open.spotify.com/album/6vtQu8WfdKOpN14pOHoa9g"
+      },
+      "artists": [
+        {
+          "name": "total tommy",
+          "url": "https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc"
+        }
+      ],
+      "duration_ms": 203339,
+      "name": "REAL",
+      "url": "https://open.spotify.com/track/7eorbMGNa05rVo2v6d7SQD"
     },
     {
       "added_at": "2024-09-13 00:10:00",
@@ -351,6 +371,22 @@
     {
       "added_at": "2024-09-13 00:10:00",
       "album": {
+        "name": "Stj\u00e4rnorna inatt",
+        "url": "https://open.spotify.com/album/5ds8GyAwvIwrtI8JdtGMHO"
+      },
+      "artists": [
+        {
+          "name": "Lilla London",
+          "url": "https://open.spotify.com/artist/6zK5imaibUQAokIz18dOGD"
+        }
+      ],
+      "duration_ms": 207160,
+      "name": "Stj\u00e4rnorna inatt",
+      "url": "https://open.spotify.com/track/1DKFVX0HLcAGK8o7uHbJ3N"
+    },
+    {
+      "added_at": "2024-09-13 00:10:00",
+      "album": {
         "name": "Maskinen \u00e4r tillbaka",
         "url": "https://open.spotify.com/album/77XVwKfKdyawzhtiiU3ljm"
       },
@@ -379,22 +415,6 @@
       "duration_ms": 189613,
       "name": "F\u00f6rlora",
       "url": "https://open.spotify.com/track/3ZkV52G1vRvVJRY0jgNY0S"
-    },
-    {
-      "added_at": "2024-09-13 00:10:00",
-      "album": {
-        "name": "Stj\u00e4rnorna inatt",
-        "url": "https://open.spotify.com/album/5ds8GyAwvIwrtI8JdtGMHO"
-      },
-      "artists": [
-        {
-          "name": "Lilla London",
-          "url": "https://open.spotify.com/artist/6zK5imaibUQAokIz18dOGD"
-        }
-      ],
-      "duration_ms": 207160,
-      "name": "Stj\u00e4rnorna inatt",
-      "url": "https://open.spotify.com/track/1DKFVX0HLcAGK8o7uHbJ3N"
     },
     {
       "added_at": "2024-09-13 00:10:00",
@@ -459,6 +479,22 @@
       "duration_ms": 231000,
       "name": "Wild Horses",
       "url": "https://open.spotify.com/track/7v8cpnWN2qbmMF7VTwg7lr"
+    },
+    {
+      "added_at": "2024-09-13 00:10:00",
+      "album": {
+        "name": "8 Days",
+        "url": "https://open.spotify.com/album/1lPG1cpJqD025tNy4r6vjD"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 130391,
+      "name": "8 Days",
+      "url": "https://open.spotify.com/track/6t2CRoMkLF78OdffqSsfhz"
     },
     {
       "added_at": "2024-09-13 00:10:00",
@@ -535,22 +571,6 @@
     {
       "added_at": "2024-09-13 00:10:00",
       "album": {
-        "name": "Dansa runt problemen",
-        "url": "https://open.spotify.com/album/7hMW3RWKWBygBcFzupjqf8"
-      },
-      "artists": [
-        {
-          "name": "Junie",
-          "url": "https://open.spotify.com/artist/3Jy86CVPHDVN858HitaK1N"
-        }
-      ],
-      "duration_ms": 170083,
-      "name": "Dansa runt problemen",
-      "url": "https://open.spotify.com/track/3MmOZtP6u0Hr4RlF0hL7hF"
-    },
-    {
-      "added_at": "2024-09-13 00:10:00",
-      "album": {
         "name": "u will be fine",
         "url": "https://open.spotify.com/album/05ak0XyoSu4PGKVRgaCEfr"
       },
@@ -563,6 +583,22 @@
       "duration_ms": 86622,
       "name": "u will be fine",
       "url": "https://open.spotify.com/track/3QxiHZEbiztQg4ItS8oNnI"
+    },
+    {
+      "added_at": "2024-09-13 00:10:00",
+      "album": {
+        "name": "Dansa runt problemen",
+        "url": "https://open.spotify.com/album/7hMW3RWKWBygBcFzupjqf8"
+      },
+      "artists": [
+        {
+          "name": "Junie",
+          "url": "https://open.spotify.com/artist/3Jy86CVPHDVN858HitaK1N"
+        }
+      ],
+      "duration_ms": 170083,
+      "name": "Dansa runt problemen",
+      "url": "https://open.spotify.com/track/3MmOZtP6u0Hr4RlF0hL7hF"
     },
     {
       "added_at": "2024-09-13 00:10:00",
@@ -687,22 +723,6 @@
     {
       "added_at": "2024-09-13 00:10:00",
       "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/3CXIT7GzHOuW0pQRYYYCdl"
-      },
-      "artists": [
-        {
-          "name": "Goldielocks",
-          "url": "https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59"
-        }
-      ],
-      "duration_ms": 182040,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/5uFJXfZjZULwfZpxhKGbhT"
-    },
-    {
-      "added_at": "2024-09-13 00:10:00",
-      "album": {
         "name": "Rollercoaster",
         "url": "https://open.spotify.com/album/6IAHl13kHHbwAomOO4xm3j"
       },
@@ -715,6 +735,22 @@
       "duration_ms": 150170,
       "name": "Love Myself",
       "url": "https://open.spotify.com/track/27SLYYc8iLbG5b7yyMpiXe"
+    },
+    {
+      "added_at": "2024-09-13 00:10:00",
+      "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/3CXIT7GzHOuW0pQRYYYCdl"
+      },
+      "artists": [
+        {
+          "name": "Goldielocks",
+          "url": "https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59"
+        }
+      ],
+      "duration_ms": 182040,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/5uFJXfZjZULwfZpxhKGbhT"
     },
     {
       "added_at": "2024-09-13 00:10:00",
@@ -787,22 +823,6 @@
     {
       "added_at": "2024-09-13 00:10:00",
       "album": {
-        "name": "HON SA",
-        "url": "https://open.spotify.com/album/7uyo0yNpkSeJrMR3cfnMMX"
-      },
-      "artists": [
-        {
-          "name": "Chico",
-          "url": "https://open.spotify.com/artist/4zS16DZY9bd9qPKjCBuF8n"
-        }
-      ],
-      "duration_ms": 167479,
-      "name": "HON SA",
-      "url": "https://open.spotify.com/track/7Fm1A727O2wgbWcGyp15p8"
-    },
-    {
-      "added_at": "2024-09-13 00:10:00",
-      "album": {
         "name": "P\u00e5 sommaren",
         "url": "https://open.spotify.com/album/2pqShugX6VXlHKMENACUAF"
       },
@@ -815,6 +835,22 @@
       "duration_ms": 191073,
       "name": "P\u00e5 sommaren",
       "url": "https://open.spotify.com/track/4zcVspiimgdU7VOGCNBLLB"
+    },
+    {
+      "added_at": "2024-09-13 00:10:00",
+      "album": {
+        "name": "HON SA",
+        "url": "https://open.spotify.com/album/7uyo0yNpkSeJrMR3cfnMMX"
+      },
+      "artists": [
+        {
+          "name": "Chico",
+          "url": "https://open.spotify.com/artist/4zS16DZY9bd9qPKjCBuF8n"
+        }
+      ],
+      "duration_ms": 167479,
+      "name": "HON SA",
+      "url": "https://open.spotify.com/track/7Fm1A727O2wgbWcGyp15p8"
     },
     {
       "added_at": "2024-09-13 00:10:00",
@@ -923,22 +959,6 @@
     {
       "added_at": "2024-09-13 00:10:00",
       "album": {
-        "name": "Som En Sol",
-        "url": "https://open.spotify.com/album/7pMPAhJVAfJ1JedHFanzs7"
-      },
-      "artists": [
-        {
-          "name": "Toxe",
-          "url": "https://open.spotify.com/artist/30peMqLlbR5jf0qe1MmLlk"
-        }
-      ],
-      "duration_ms": 175384,
-      "name": "Som En Sol",
-      "url": "https://open.spotify.com/track/56oeHpuKnpG3U8UEkj2T8n"
-    },
-    {
-      "added_at": "2024-09-13 00:10:00",
-      "album": {
         "name": "Sockerdricka",
         "url": "https://open.spotify.com/album/4OJ1YpiBv213DlnbVmYXYf"
       },
@@ -955,18 +975,18 @@
     {
       "added_at": "2024-09-13 00:10:00",
       "album": {
-        "name": "Sandy Karlo",
-        "url": "https://open.spotify.com/album/5E7azXTKV0H4jWRXyG4aMZ"
+        "name": "Som En Sol",
+        "url": "https://open.spotify.com/album/7pMPAhJVAfJ1JedHFanzs7"
       },
       "artists": [
         {
-          "name": "Felix Sandman",
-          "url": "https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy"
+          "name": "Toxe",
+          "url": "https://open.spotify.com/artist/30peMqLlbR5jf0qe1MmLlk"
         }
       ],
-      "duration_ms": 304000,
-      "name": "Summer",
-      "url": "https://open.spotify.com/track/0tEhECI70FisYPPYoa8JXL"
+      "duration_ms": 175384,
+      "name": "Som En Sol",
+      "url": "https://open.spotify.com/track/56oeHpuKnpG3U8UEkj2T8n"
     },
     {
       "added_at": "2024-09-13 00:10:00",
@@ -983,6 +1003,22 @@
       "duration_ms": 140031,
       "name": "Days Like These",
       "url": "https://open.spotify.com/track/6sjEyfadmCik7jzNs7gNIT"
+    },
+    {
+      "added_at": "2024-09-13 00:10:00",
+      "album": {
+        "name": "Sandy Karlo",
+        "url": "https://open.spotify.com/album/5E7azXTKV0H4jWRXyG4aMZ"
+      },
+      "artists": [
+        {
+          "name": "Felix Sandman",
+          "url": "https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy"
+        }
+      ],
+      "duration_ms": 304000,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/0tEhECI70FisYPPYoa8JXL"
     },
     {
       "added_at": "2024-09-13 00:10:00",
@@ -1315,6 +1351,22 @@
     {
       "added_at": "2024-09-13 00:10:00",
       "album": {
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/2k3xxJO6AKW6xfIsfu4kGH"
+      },
+      "artists": [
+        {
+          "name": "Orph\u00e9e Noah",
+          "url": "https://open.spotify.com/artist/1rDh7YkRICrNYqN3livXq3"
+        }
+      ],
+      "duration_ms": 188643,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/354lfV6oHEL9nVFfJXoWog"
+    },
+    {
+      "added_at": "2024-09-13 00:10:00",
+      "album": {
         "name": "Utan Dig (oh nej)",
         "url": "https://open.spotify.com/album/4IuvDIuuhzpP2Vaa6sn7lv"
       },
@@ -1363,22 +1415,6 @@
       "duration_ms": 159764,
       "name": "Born a Riot",
       "url": "https://open.spotify.com/track/6bdTCyQozk9a7mBfNHzSYb"
-    },
-    {
-      "added_at": "2024-09-13 00:10:00",
-      "album": {
-        "name": "Butterflies",
-        "url": "https://open.spotify.com/album/2k3xxJO6AKW6xfIsfu4kGH"
-      },
-      "artists": [
-        {
-          "name": "Orph\u00e9e Noah",
-          "url": "https://open.spotify.com/artist/1rDh7YkRICrNYqN3livXq3"
-        }
-      ],
-      "duration_ms": 188643,
-      "name": "Butterflies",
-      "url": "https://open.spotify.com/track/354lfV6oHEL9nVFfJXoWog"
     },
     {
       "added_at": "2024-09-13 00:10:00",
@@ -1479,38 +1515,6 @@
       "duration_ms": 213750,
       "name": "I'll Come Your Way",
       "url": "https://open.spotify.com/track/3lk15upGEldLkgKm7f48QS"
-    },
-    {
-      "added_at": "2024-09-13 00:10:00",
-      "album": {
-        "name": "Djuret",
-        "url": "https://open.spotify.com/album/2K8ZMDwcEkGcBgYzsiTPOo"
-      },
-      "artists": [
-        {
-          "name": "crescenterna",
-          "url": "https://open.spotify.com/artist/3nRWFDHzmQF7O2xMAZUhyh"
-        }
-      ],
-      "duration_ms": 269544,
-      "name": "Dig jag vill ha",
-      "url": "https://open.spotify.com/track/6MwtCgr9medMQc85XMAEp3"
-    },
-    {
-      "added_at": "2024-09-13 00:10:00",
-      "album": {
-        "name": "The People",
-        "url": "https://open.spotify.com/album/0m5yZ30H8mnkxHaQdnVhI9"
-      },
-      "artists": [
-        {
-          "name": "Bellvie",
-          "url": "https://open.spotify.com/artist/5TfMFZyVModzZjI5DOWwnl"
-        }
-      ],
-      "duration_ms": 272500,
-      "name": "The People",
-      "url": "https://open.spotify.com/track/70O9SdAgSLqakXgopvDD40"
     }
   ],
   "unique_name": "p\u00e5 repeat",

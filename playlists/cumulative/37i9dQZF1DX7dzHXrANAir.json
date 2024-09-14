@@ -459,6 +459,24 @@
     },
     {
       "album": {
+        "name": "Back to Loneliness",
+        "url": "https://open.spotify.com/album/14D0JjhFskg1DYYTE7yYQs"
+      },
+      "artists": [
+        {
+          "name": "Tom Kinsella",
+          "url": "https://open.spotify.com/artist/3zmBYWcupp9ux1zvBDub8K"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257152,
+      "name": "Back to Loneliness",
+      "url": "https://open.spotify.com/track/3EINacsRkPAISGv1a77VYV"
+    },
+    {
+      "album": {
         "name": "Beautifully Lost Mind",
         "url": "https://open.spotify.com/album/6cJ8PbiC1cNSV3RXFPKd52"
       },
@@ -5268,7 +5286,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 258415,
       "name": "R\u00f6dd",
       "url": "https://open.spotify.com/track/4AjYvQZFSdDYnsgEvswnuV"

@@ -6,443 +6,187 @@
     "name": "Record Union",
     "url": "https://open.spotify.com/user/recordunion"
   },
-  "snapshot_id": "AAAD1PO/BoWQAV84/vIH268UJeJmelDX",
+  "snapshot_id": "AAAD1gQdzdcUamPnYTvpgf8CdiE1vTcA",
   "tracks": [
     {
-      "added_at": "2024-09-06 10:38:11",
+      "added_at": "2024-09-13 13:49:53",
       "album": {
-        "name": "Drinkin' Up 2 Forget - From The Motion Picture \"\u00c4kta Skr\u00e4ck\"",
-        "url": "https://open.spotify.com/album/1FiopFf0Y18jk3gmAwcAgX"
+        "name": "I Could Have Died Young",
+        "url": "https://open.spotify.com/album/6r2qP5GWuFijFFgnI2fLd3"
       },
       "artists": [
         {
-          "name": "Rebi",
-          "url": "https://open.spotify.com/artist/0GFFikqfJwSVfFSk71nvzH"
+          "name": "Jack Moy",
+          "url": "https://open.spotify.com/artist/58tNZRHNf5ScIAo7zBZDbU"
         }
       ],
-      "duration_ms": 208108,
-      "name": "Drinkin' Up 2 Forget - From The Motion Picture \"\u00c4kta Skr\u00e4ck\"",
-      "url": "https://open.spotify.com/track/5Zn6KL6ppC4dAt7UUshRwT"
+      "duration_ms": 152062,
+      "name": "I Could Have Died Young",
+      "url": "https://open.spotify.com/track/74AlSW9U534itKCN1woEJ0"
     },
     {
-      "added_at": "2024-09-06 10:38:11",
+      "added_at": "2024-09-13 13:49:53",
       "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/0udDAkNoJLuHQ7X7EEbnm7"
+        "name": "Habibi",
+        "url": "https://open.spotify.com/album/4KGd1r5VG5VNbDd4IiV3G3"
       },
       "artists": [
         {
-          "name": "Van Dame",
-          "url": "https://open.spotify.com/artist/0jliO9N9vKNE5BhW5iK9BC"
+          "name": "Mazar",
+          "url": "https://open.spotify.com/artist/0I1soE5VwmMMq6OfIi5VIF"
         }
       ],
-      "duration_ms": 217437,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/5pIGoUoK8yMhDSSxXoA2LO"
+      "duration_ms": 144000,
+      "name": "Habibi",
+      "url": "https://open.spotify.com/track/7LCGtLbmHUNSsgyB3vSwxs"
     },
     {
-      "added_at": "2024-09-06 10:38:11",
+      "added_at": "2024-09-13 13:49:53",
       "album": {
-        "name": "Steel Beach",
-        "url": "https://open.spotify.com/album/0iNnCfMgxZvIZlaaA1fr2B"
+        "name": "Espectres",
+        "url": "https://open.spotify.com/album/5vSVKomThLtSJPVzggMHnO"
       },
       "artists": [
         {
-          "name": "K (Pronounced Potassium)",
-          "url": "https://open.spotify.com/artist/1RVjC7y5eGLyqWUZleG2sa"
-        }
-      ],
-      "duration_ms": 220540,
-      "name": "Steel Beach",
-      "url": "https://open.spotify.com/track/1giCxNeSc9a4JzBDer8Lsf"
-    },
-    {
-      "added_at": "2024-09-06 10:38:11",
-      "album": {
-        "name": "Lonely G",
-        "url": "https://open.spotify.com/album/08JxSgmp64vWzfmxe2z1QL"
-      },
-      "artists": [
-        {
-          "name": "Antique",
-          "url": "https://open.spotify.com/artist/7zeop1CZx7LkEKTrhiEVjY"
-        }
-      ],
-      "duration_ms": 168106,
-      "name": "Lonely G",
-      "url": "https://open.spotify.com/track/1Vs2kRJu1uDHtLxymvg7D2"
-    },
-    {
-      "added_at": "2024-09-06 10:38:11",
-      "album": {
-        "name": "Tro f\u00f6r oss b\u00e5da",
-        "url": "https://open.spotify.com/album/1lBaue9DUKbjtJi5jJWxXT"
-      },
-      "artists": [
-        {
-          "name": "Angelina Pavanelli",
-          "url": "https://open.spotify.com/artist/2Q1zoh7mp07ods0rRoqL0i"
-        }
-      ],
-      "duration_ms": 232786,
-      "name": "Tro f\u00f6r oss b\u00e5da",
-      "url": "https://open.spotify.com/track/2FR8zreL7T3JhhxPQwSWPO"
-    },
-    {
-      "added_at": "2024-09-06 10:38:11",
-      "album": {
-        "name": "Greetings From\u2026",
-        "url": "https://open.spotify.com/album/0o4W5ChZgwBGWiTwR09qB9"
-      },
-      "artists": [
-        {
-          "name": "William John Jr.",
-          "url": "https://open.spotify.com/artist/3vX4iZfB45lM6Ua2Kqp3Hj"
-        }
-      ],
-      "duration_ms": 152008,
-      "name": "You Ain't Got To Be",
-      "url": "https://open.spotify.com/track/7w1F7OLftbmC8tVsupxLNM"
-    },
-    {
-      "added_at": "2024-09-06 10:38:11",
-      "album": {
-        "name": "Poem from the Sun",
-        "url": "https://open.spotify.com/album/6d2mbzCvYOd4LWG5mXiUJL"
-      },
-      "artists": [
-        {
-          "name": "Seven Years a Week",
-          "url": "https://open.spotify.com/artist/4npHIRyGxQT2lyf0l7jTqC"
-        }
-      ],
-      "duration_ms": 245466,
-      "name": "Footprints",
-      "url": "https://open.spotify.com/track/69ot4keVLcfvJpEVoYopmU"
-    },
-    {
-      "added_at": "2024-09-06 10:38:11",
-      "album": {
-        "name": "Hurricane Head",
-        "url": "https://open.spotify.com/album/6rJLOFRxvYq0wbYFLvt7YP"
-      },
-      "artists": [
-        {
-          "name": "Tropic Waste",
-          "url": "https://open.spotify.com/artist/1o6HvQWlqxaR2tkryaaQiv"
-        }
-      ],
-      "duration_ms": 106769,
-      "name": "Hurricane Head",
-      "url": "https://open.spotify.com/track/4cHyzindgQWxVwjCD7u4kI"
-    },
-    {
-      "added_at": "2024-09-06 10:38:11",
-      "album": {
-        "name": "Nightmare",
-        "url": "https://open.spotify.com/album/0EPOquVFk2bo83NlvPAtFk"
-      },
-      "artists": [
-        {
-          "name": "Carmilla",
-          "url": "https://open.spotify.com/artist/2q8QN6ujmiQYr8gqzQ4vbh"
-        }
-      ],
-      "duration_ms": 249937,
-      "name": "Nightmare",
-      "url": "https://open.spotify.com/track/5m5e05luXA4entklnLh4Ho"
-    },
-    {
-      "added_at": "2024-09-06 10:38:11",
-      "album": {
-        "name": "Am I Supposed To Hurt",
-        "url": "https://open.spotify.com/album/4CZ7CJo1LyNb6mkHkPl7Ig"
-      },
-      "artists": [
-        {
-          "name": "H3llBLAU",
-          "url": "https://open.spotify.com/artist/2jeosJ3N8njOK8329m9rlt"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "Am I Supposed To Hurt",
-      "url": "https://open.spotify.com/track/0sS5dadGbW6AWGJa5jRX7H"
-    },
-    {
-      "added_at": "2024-09-06 10:38:11",
-      "album": {
-        "name": "HORROR",
-        "url": "https://open.spotify.com/album/3X4vaB6SzWZmWmc1Mo8h7Y"
-      },
-      "artists": [
-        {
-          "name": "Angry By Nature",
-          "url": "https://open.spotify.com/artist/0FEizG40enFImsbpHJmKrp"
-        }
-      ],
-      "duration_ms": 275555,
-      "name": "HORROR",
-      "url": "https://open.spotify.com/track/2Tys6hcX3csDfY0mW1EDnq"
-    },
-    {
-      "added_at": "2024-09-06 10:38:11",
-      "album": {
-        "name": "Privilege",
-        "url": "https://open.spotify.com/album/1GRW9kKFBw804uhM42ByWr"
-      },
-      "artists": [
-        {
-          "name": "The Wrath",
-          "url": "https://open.spotify.com/artist/12LPfRYumlomGTo5zk0QnN"
-        }
-      ],
-      "duration_ms": 302700,
-      "name": "Seven",
-      "url": "https://open.spotify.com/track/78CNsFJI98lru8O6Yz9Nj9"
-    },
-    {
-      "added_at": "2024-09-06 10:38:11",
-      "album": {
-        "name": "The Seeker",
-        "url": "https://open.spotify.com/album/09KfP8MTCqv3hBee5QjHfo"
-      },
-      "artists": [
-        {
-          "name": "Forgotten King",
-          "url": "https://open.spotify.com/artist/0UZMZR6ZxchlP4Ba6Bvkzk"
-        }
-      ],
-      "duration_ms": 254347,
-      "name": "Around The Corner",
-      "url": "https://open.spotify.com/track/1KNuaAuxYpsTriFTPpohRE"
-    },
-    {
-      "added_at": "2024-09-06 10:38:11",
-      "album": {
-        "name": "Guilty Pleasures",
-        "url": "https://open.spotify.com/album/2MGqkeNcGJPBKa18gvzBR7"
-      },
-      "artists": [
-        {
-          "name": "Adulting",
-          "url": "https://open.spotify.com/artist/64Ofoq8JgFAWvxuCtAgZqK"
-        }
-      ],
-      "duration_ms": 275000,
-      "name": "Guilty Pleasures",
-      "url": "https://open.spotify.com/track/4CCblD5LLaIfihqduOPzg3"
-    },
-    {
-      "added_at": "2024-09-06 10:38:11",
-      "album": {
-        "name": "Insane in the Brain - Remix",
-        "url": "https://open.spotify.com/album/7cB1JZ9FiwU9u1wAZ3UdRp"
-      },
-      "artists": [
-        {
-          "name": "Clench Your Fist",
-          "url": "https://open.spotify.com/artist/66HPhWDNuhGlU8oXXGU4yQ"
-        }
-      ],
-      "duration_ms": 234888,
-      "name": "Insane in the Brain - Remix",
-      "url": "https://open.spotify.com/track/3IQhChrp2gXeW2cOdYMb6l"
-    },
-    {
-      "added_at": "2024-09-06 10:38:11",
-      "album": {
-        "name": "Think About Love",
-        "url": "https://open.spotify.com/album/0rk7yVKSvP7jbPzvikiWNf"
-      },
-      "artists": [
-        {
-          "name": "Isak Jakobsson",
-          "url": "https://open.spotify.com/artist/6p1dSTtiCvXjnCeAQsUodb"
-        }
-      ],
-      "duration_ms": 192147,
-      "name": "Think About Love",
-      "url": "https://open.spotify.com/track/5Wc05uMXsBMpj8hwWhS8aA"
-    },
-    {
-      "added_at": "2024-09-06 10:38:11",
-      "album": {
-        "name": "The Woman at the Bar",
-        "url": "https://open.spotify.com/album/3GLtH0ska9UDWjcUNcdztM"
-      },
-      "artists": [
-        {
-          "name": "Ai-na",
-          "url": "https://open.spotify.com/artist/1jKqpV5L4Llxm70jACkiLj"
-        }
-      ],
-      "duration_ms": 320989,
-      "name": "The Woman at the Bar",
-      "url": "https://open.spotify.com/track/4HLz0Q7SPtTloL5Vaatenc"
-    },
-    {
-      "added_at": "2024-09-06 10:38:11",
-      "album": {
-        "name": "After Trying",
-        "url": "https://open.spotify.com/album/0b9Ren8i85EFLFKkaZpkQ5"
-      },
-      "artists": [
-        {
-          "name": "SASS",
-          "url": "https://open.spotify.com/artist/3HKCvaNgdKpPbnku7mYk3A"
-        }
-      ],
-      "duration_ms": 171321,
-      "name": "Trying",
-      "url": "https://open.spotify.com/track/0ybUJNgdC2uTZzttiVnxGZ"
-    },
-    {
-      "added_at": "2024-09-06 10:38:11",
-      "album": {
-        "name": "9 to 5 AM",
-        "url": "https://open.spotify.com/album/7FuB8GlLiRCqIdzkS1EMs3"
-      },
-      "artists": [
-        {
-          "name": "Lava Hong",
-          "url": "https://open.spotify.com/artist/6yDrbCYEt6ICpuW4Uc9YZu"
-        }
-      ],
-      "duration_ms": 185454,
-      "name": "9 to 5 AM",
-      "url": "https://open.spotify.com/track/51tE2UfySFCxXmqGCmLBCc"
-    },
-    {
-      "added_at": "2024-09-06 10:38:11",
-      "album": {
-        "name": "Matkalla",
-        "url": "https://open.spotify.com/album/4pH35s41O5FG4yyZoq5ZVh"
-      },
-      "artists": [
-        {
-          "name": "Lasse Aitokari Group",
-          "url": "https://open.spotify.com/artist/2GcY3qYmnDmzxRzt1T9dE5"
-        }
-      ],
-      "duration_ms": 291157,
-      "name": "Matkalla",
-      "url": "https://open.spotify.com/track/6Jhq7FXgz26p9777fpq6NR"
-    },
-    {
-      "added_at": "2024-09-06 10:38:11",
-      "album": {
-        "name": "Sesi\u00f3n 4",
-        "url": "https://open.spotify.com/album/5S7Kk81oxcODPWw5CDVj39"
-      },
-      "artists": [
-        {
-          "name": "The Rousse Band",
-          "url": "https://open.spotify.com/artist/7h1RN3fUre1ebofizZpZV4"
-        }
-      ],
-      "duration_ms": 167926,
-      "name": "Dejame",
-      "url": "https://open.spotify.com/track/4m967JNvVpeL8A2RAITQo6"
-    },
-    {
-      "added_at": "2024-09-06 10:38:11",
-      "album": {
-        "name": "S.Miles Hotline",
-        "url": "https://open.spotify.com/album/4BNTGYsPOvF3g4VJc2x0qP"
-      },
-      "artists": [
-        {
-          "name": "S.Miles",
-          "url": "https://open.spotify.com/artist/65VpmJ2htuarb2bnZfcpaK"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "S.Miles Hotline",
-      "url": "https://open.spotify.com/track/1KzwIqJVAYHK9rLK7ILvUl"
-    },
-    {
-      "added_at": "2024-09-06 10:38:11",
-      "album": {
-        "name": "Tactics",
-        "url": "https://open.spotify.com/album/39vY6ZdfesWCI03xERLxTU"
-      },
-      "artists": [
-        {
-          "name": "JJ Bull",
-          "url": "https://open.spotify.com/artist/2cEHoqIh6TEPXEKi2NE8zf"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Gary Neville is special",
-      "url": "https://open.spotify.com/track/6jhd1JRxWfsCF8wPtY9alo"
-    },
-    {
-      "added_at": "2024-09-06 10:38:11",
-      "album": {
-        "name": "Vanilla",
-        "url": "https://open.spotify.com/album/7EMB9tpa22nO03SGbCUEBR"
-      },
-      "artists": [
-        {
-          "name": "P\u00c4\u00c4T\u00c4YN",
-          "url": "https://open.spotify.com/artist/4hJdSNdzwcYklXIRSGIeO7"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "Maalitauluja",
-      "url": "https://open.spotify.com/track/73p3gDlH5NLgIKmRj9F1qG"
-    },
-    {
-      "added_at": "2024-09-06 10:38:11",
-      "album": {
-        "name": "K.F.B",
-        "url": "https://open.spotify.com/album/5ECg8Rvxd4e33L6puW3hb0"
-      },
-      "artists": [
-        {
-          "name": "Blvck twinz",
-          "url": "https://open.spotify.com/artist/6YV482bSOI7w7okI59FiiD"
-        }
-      ],
-      "duration_ms": 198260,
-      "name": "Kj\u00e6re mor",
-      "url": "https://open.spotify.com/track/7gmjaVvVYkh5vNMpNqzGyx"
-    },
-    {
-      "added_at": "2024-09-06 10:38:11",
-      "album": {
-        "name": "Oracle of Silicon",
-        "url": "https://open.spotify.com/album/17mQN8twWOw98GNtd3fQHR"
-      },
-      "artists": [
-        {
-          "name": "Kata",
-          "url": "https://open.spotify.com/artist/6cGA2DYWBODF2F84JLvPPC"
-        }
-      ],
-      "duration_ms": 224574,
-      "name": "Oracle of Silicon",
-      "url": "https://open.spotify.com/track/7JE18IAhv4iXgfJBM4NYyD"
-    },
-    {
-      "added_at": "2024-09-06 10:38:11",
-      "album": {
-        "name": "Our Fight Song",
-        "url": "https://open.spotify.com/album/4xulgyXzzy5TRxuML3pWDY"
-      },
-      "artists": [
-        {
-          "name": "Spencer Christian",
-          "url": "https://open.spotify.com/artist/3yVJHfjPwzQxkZZ5LwbVVz"
+          "name": "Helevorn",
+          "url": "https://open.spotify.com/artist/2P6YT8t4urGUSESUOiSnDl"
         },
         {
-          "name": "Eric Haley",
-          "url": "https://open.spotify.com/artist/02UZFthiZKqS2YmPzikyOm"
+          "name": "Thomas A. G. Jensen",
+          "url": "https://open.spotify.com/artist/6p26Zk8KJnmHMVAju8e4zI"
+        },
+        {
+          "name": "Saturnus",
+          "url": "https://open.spotify.com/artist/7HY8HFHBM9zrY5R9rlY3Id"
         }
       ],
-      "duration_ms": 217813,
-      "name": "Our Fight Song",
-      "url": "https://open.spotify.com/track/1sTPZdDZytBjM2KRKMOdwK"
+      "duration_ms": 279306,
+      "name": "Children of the Sunrise",
+      "url": "https://open.spotify.com/track/17zfZ5NlMWWlphIwLSw3tc"
+    },
+    {
+      "added_at": "2024-09-13 13:49:53",
+      "album": {
+        "name": "Esto no es nada personal",
+        "url": "https://open.spotify.com/album/3J6WY0TJOYVIKnrEUzr42V"
+      },
+      "artists": [
+        {
+          "name": "Bolsa De Moscas",
+          "url": "https://open.spotify.com/artist/4WLod9DCaa4XXICphv0C2E"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Esto no es nada personal",
+      "url": "https://open.spotify.com/track/2TKBbWhVXRquA7BSDsX6yy"
+    },
+    {
+      "added_at": "2024-09-13 13:49:53",
+      "album": {
+        "name": "Eye of the Storm",
+        "url": "https://open.spotify.com/album/4sXfOYm98z0bImSiByPcSS"
+      },
+      "artists": [
+        {
+          "name": "Spiders On Drugs",
+          "url": "https://open.spotify.com/artist/0L1ISkAR88soOflJEb5sLm"
+        },
+        {
+          "name": "Patrik Tammelin",
+          "url": "https://open.spotify.com/artist/6RE5O8YXcLufw1yqYsKsDi"
+        },
+        {
+          "name": "Maria Simonson",
+          "url": "https://open.spotify.com/artist/67yhCBMk6NuA2XaCSUTF3o"
+        }
+      ],
+      "duration_ms": 216416,
+      "name": "Eye of the Storm",
+      "url": "https://open.spotify.com/track/08vIZ7jXBtsXVyoIrECIVW"
+    },
+    {
+      "added_at": "2024-09-13 13:49:53",
+      "album": {
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/0lZMkqSPsdRGNn2q2nB2S4"
+      },
+      "artists": [
+        {
+          "name": "The Churchyard Ghost",
+          "url": "https://open.spotify.com/artist/2dUTJXeUQeny9AFmRpFdoi"
+        }
+      ],
+      "duration_ms": 156250,
+      "name": "GOD DAMN",
+      "url": "https://open.spotify.com/track/6xOks5lyJpfYl4QwYgyaii"
+    },
+    {
+      "added_at": "2024-09-13 13:49:53",
+      "album": {
+        "name": "Chaotic Clarity",
+        "url": "https://open.spotify.com/album/6eOmrqMME7TcAtu4rJjW2c"
+      },
+      "artists": [
+        {
+          "name": "Terminal Prospect",
+          "url": "https://open.spotify.com/artist/0oXBjTfHfoXitotFVAesW9"
+        }
+      ],
+      "duration_ms": 179396,
+      "name": "Chaotic Clarity",
+      "url": "https://open.spotify.com/track/0CWxQU7nlci2vK0rJVYlrL"
+    },
+    {
+      "added_at": "2024-09-13 13:49:53",
+      "album": {
+        "name": "Darkness (Lone Wolf)",
+        "url": "https://open.spotify.com/album/57WbRwxMNJWHwlVENBf3or"
+      },
+      "artists": [
+        {
+          "name": "Danger Clxse",
+          "url": "https://open.spotify.com/artist/3UgdISKKLWvUbOLLWX4bic"
+        },
+        {
+          "name": "Svensax",
+          "url": "https://open.spotify.com/artist/0lSUZBO1jJe7WteABaRzXq"
+        }
+      ],
+      "duration_ms": 218539,
+      "name": "Darkness (Lone Wolf)",
+      "url": "https://open.spotify.com/track/3jcFc5k3CT7dQ5t1m5HjPd"
+    },
+    {
+      "added_at": "2024-09-13 13:49:53",
+      "album": {
+        "name": "Punked",
+        "url": "https://open.spotify.com/album/5NH5fHFklTFU9SVRRMIDLr"
+      },
+      "artists": [
+        {
+          "name": "Ove Wulff",
+          "url": "https://open.spotify.com/artist/6hPhNjAWAZJuHY90phq3yp"
+        }
+      ],
+      "duration_ms": 132685,
+      "name": "Ramona",
+      "url": "https://open.spotify.com/track/6IzTlUp2kxszIN8UVOsHmU"
+    },
+    {
+      "added_at": "2024-09-13 13:49:53",
+      "album": {
+        "name": "Golden Retriever EP",
+        "url": "https://open.spotify.com/album/13PHymen8ox6fMnbsZufZy"
+      },
+      "artists": [
+        {
+          "name": "Walker Diver",
+          "url": "https://open.spotify.com/artist/1sU33e7sMPPWDAUYAVo3kH"
+        }
+      ],
+      "duration_ms": 281189,
+      "name": "Boise, Idaho",
+      "url": "https://open.spotify.com/track/3Mt8uGil67IHFyfYN8D7hn"
     }
   ],
   "unique_name": "Independent Music Friday",

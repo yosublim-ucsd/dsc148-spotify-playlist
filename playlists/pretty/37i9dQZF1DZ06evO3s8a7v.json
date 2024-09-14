@@ -1,12 +1,12 @@
 {
-  "description": "This is MYA. The essential tracks, all in one playlist.",
-  "num_followers": 40931,
+  "description": "This Is MYA. Los temas esenciales, todos en una lista.",
+  "num_followers": 40947,
   "original_name": "This Is MYA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuDdgAAAAAAAqQfpRlvq7blrXwiK8GsR",
+  "snapshot_id": "ZuIvAAAAAACOaJiTi1drNJhmhwlguXOD",
   "tracks": [
     {
       "added_at": null,
@@ -23,22 +23,6 @@
       "duration_ms": 185142,
       "name": "2:50",
       "url": "https://open.spotify.com/track/5xlxSHnvXwT66JWYwDkEFE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SOY",
-        "url": "https://open.spotify.com/album/2ZzM2xidCrRpnQbpd2Fsd8"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        }
-      ],
-      "duration_ms": 174231,
-      "name": "SOY",
-      "url": "https://open.spotify.com/track/29SDCodVy2u3N6IAQjNZaA"
     },
     {
       "added_at": null,
@@ -395,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SOY",
+        "url": "https://open.spotify.com/album/2ZzM2xidCrRpnQbpd2Fsd8"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "duration_ms": 174231,
+      "name": "SOY",
+      "url": "https://open.spotify.com/track/29SDCodVy2u3N6IAQjNZaA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HISTERIQUEO",
         "url": "https://open.spotify.com/album/0ajHIug4wUF4TowpnpQoPc"
       },
@@ -695,22 +695,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apenas Son Las 12",
-        "url": "https://open.spotify.com/album/4yOjVLHlGIW6UD195bsUqN"
+        "name": "No Bailo Pa Ti",
+        "url": "https://open.spotify.com/album/2qzobqLuiyFRIMF9FyRHip"
       },
       "artists": [
         {
-          "name": "RUGGERO",
-          "url": "https://open.spotify.com/artist/3YLlfcDiFzKJXhTK4sKuCz"
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        },
+        {
+          "name": "Nico Valdi",
+          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
         },
         {
           "name": "MYA",
           "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
         }
       ],
-      "duration_ms": 178851,
-      "name": "Apenas Son Las 12",
-      "url": "https://open.spotify.com/track/1y4fiS3YGivkzD9JPySuEA"
+      "duration_ms": 171816,
+      "name": "No Bailo Pa Ti",
+      "url": "https://open.spotify.com/track/5tCWZXTFstxYy1BoF7q6J6"
     },
     {
       "added_at": null,
@@ -735,26 +739,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Bailo Pa Ti",
-        "url": "https://open.spotify.com/album/2qzobqLuiyFRIMF9FyRHip"
+        "name": "Apenas Son Las 12",
+        "url": "https://open.spotify.com/album/4yOjVLHlGIW6UD195bsUqN"
       },
       "artists": [
         {
-          "name": "Migrantes",
-          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
-        },
-        {
-          "name": "Nico Valdi",
-          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
+          "name": "RUGGERO",
+          "url": "https://open.spotify.com/artist/3YLlfcDiFzKJXhTK4sKuCz"
         },
         {
           "name": "MYA",
           "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
         }
       ],
-      "duration_ms": 171816,
-      "name": "No Bailo Pa Ti",
-      "url": "https://open.spotify.com/track/5tCWZXTFstxYy1BoF7q6J6"
+      "duration_ms": 178851,
+      "name": "Apenas Son Las 12",
+      "url": "https://open.spotify.com/track/1y4fiS3YGivkzD9JPySuEA"
     },
     {
       "added_at": null,
@@ -1031,22 +1031,6 @@
       "duration_ms": 171200,
       "name": "Amarte As\u00ed",
       "url": "https://open.spotify.com/track/40ex6T5HA2iRU6PDA3qoUN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hoy",
-        "url": "https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        }
-      ],
-      "duration_ms": 208026,
-      "name": "Tu y Yo",
-      "url": "https://open.spotify.com/track/1qE7Qo0eM5P2yBVQ0kPlZT"
     }
   ],
   "unique_name": "This Is MYA",

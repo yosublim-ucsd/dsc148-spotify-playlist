@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Nieoczywiste aktualne brzmienia polskiego rapu. Cover: Ananas, AZ-YL",
+  "description": "Nieoczywiste aktualne brzmienia polskiego rapu. Cover: Bisz, KOSA",
   "name": "alt rap",
   "tracks": [
+    {
+      "album": {
+        "name": "#omg",
+        "url": "https://open.spotify.com/album/3OPVO954VEkzkoqNxjjitu"
+      },
+      "artists": [
+        {
+          "name": "hubithekid",
+          "url": "https://open.spotify.com/artist/7LYblPlk3VgtAKXzUlEhAd"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126427,
+      "name": "#omg",
+      "url": "https://open.spotify.com/track/5FrzxxbFGwvu73Eoll6ZvX"
+    },
     {
       "album": {
         "name": "(NIE)WIEM",
@@ -466,7 +484,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 185658,
       "name": "bez w d\u0142oni",
       "url": "https://open.spotify.com/track/5lB8rnoCkZLI2EFUPPdg5c"
@@ -704,7 +722,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 144750,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/3t3b9ZsWQkBjyzTCGRWSNp"
@@ -734,6 +752,82 @@
       "duration_ms": 232258,
       "name": "B\u0119dzie dobrze",
       "url": "https://open.spotify.com/track/2mNLIVvraVC5ZOgly3IcFm"
+    },
+    {
+      "album": {
+        "name": "chinatown freestyle",
+        "url": "https://open.spotify.com/album/1UFIobJ5xMic8meVvWFXV5"
+      },
+      "artists": [
+        {
+          "name": "VBS",
+          "url": "https://open.spotify.com/artist/6dLmkDJ0rahtzUgcpUyxGQ"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188047,
+      "name": "chinatown freestyle",
+      "url": "https://open.spotify.com/track/1S5eTODjX6u2rkB7o48IiO"
+    },
+    {
+      "album": {
+        "name": "Chod\u017a, pomaluj m\u00f3j \u015bwiat",
+        "url": "https://open.spotify.com/album/3eNsEQGmmbJVrJmYaay53t"
+      },
+      "artists": [
+        {
+          "name": "Blue Vegas",
+          "url": "https://open.spotify.com/artist/4jVLEMYFTbRudXI8gpqICo"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173106,
+      "name": "Chod\u017a, pomaluj m\u00f3j \u015bwiat",
+      "url": "https://open.spotify.com/track/3Ywl4yWOsfs0cHbqQF4bD8"
+    },
+    {
+      "album": {
+        "name": "Ch\u0142opak, kt\u00f3ry \u017cy\u0142 w swojej g\u0142owie",
+        "url": "https://open.spotify.com/album/3Da3R3T5AzWHvnNZp3D7SE"
+      },
+      "artists": [
+        {
+          "name": "Bisz",
+          "url": "https://open.spotify.com/artist/4PpHZwqxdYMMnLkYJ83vUJ"
+        },
+        {
+          "name": "KOSA",
+          "url": "https://open.spotify.com/artist/3pTM3cYf2uOfZvlxW7zFY4"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226303,
+      "name": "Ch\u0142opak, kt\u00f3ry \u017cy\u0142 w swojej g\u0142owie",
+      "url": "https://open.spotify.com/track/2TrCHAIp8m2JrQMKd4P3GU"
+    },
+    {
+      "album": {
+        "name": "Cia\u0142a niebieskie",
+        "url": "https://open.spotify.com/album/4SqVlIGo8lyNpJwoPzKxpg"
+      },
+      "artists": [
+        {
+          "name": "Na Wp\u00f3\u0142 \u015alepy Cz\u0142owiek",
+          "url": "https://open.spotify.com/artist/6S5EjH95MgsQ48nGxbM4aV"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159071,
+      "name": "Cia\u0142a niebieskie",
+      "url": "https://open.spotify.com/track/2N4MXokpXjE1UsOvveVrcy"
     },
     {
       "album": {
@@ -812,6 +906,24 @@
       "duration_ms": 208888,
       "name": "COZY",
       "url": "https://open.spotify.com/track/5MF5Q3KaG36LaWyUZxbZiz"
+    },
+    {
+      "album": {
+        "name": "czapka",
+        "url": "https://open.spotify.com/album/6vEQZWhkRaCNONxyoA0Ab6"
+      },
+      "artists": [
+        {
+          "name": "majtis",
+          "url": "https://open.spotify.com/artist/0x85f5ZhAe1Oj4CTnWEPtv"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161777,
+      "name": "czapka",
+      "url": "https://open.spotify.com/track/6EYkyZ1NqxqD8qhZAgwXBt"
     },
     {
       "album": {
@@ -1772,7 +1884,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 217731,
       "name": "kolor miasta",
       "url": "https://open.spotify.com/track/5KhAanqb8UnB6z22Cucuzg"
@@ -2628,7 +2740,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 186000,
       "name": "P\u00f3ki Co Rutyna",
       "url": "https://open.spotify.com/track/7C6MDQNDZKhSusWOCTjyal"
@@ -2790,6 +2902,28 @@
       "duration_ms": 215998,
       "name": "SAMI",
       "url": "https://open.spotify.com/track/1stUPPXC1zg7umzdkCxPx4"
+    },
+    {
+      "album": {
+        "name": "Sandman",
+        "url": "https://open.spotify.com/album/3GzN0Q80lTZMJsPkLKFSy0"
+      },
+      "artists": [
+        {
+          "name": "Hodak",
+          "url": "https://open.spotify.com/artist/3B6UKFIsDwnJUKlJp7qQyU"
+        },
+        {
+          "name": "2K",
+          "url": "https://open.spotify.com/artist/0awWNjR5qmSZsQVFAo2NsR"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151764,
+      "name": "Sandman",
+      "url": "https://open.spotify.com/track/1vYNAjjzMFZiSS8deHB25Q"
     },
     {
       "album": {
@@ -2986,7 +3120,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 174857,
       "name": "Statuetki",
       "url": "https://open.spotify.com/track/77Qpe4aE4Q8G1G9ue9PXsE"
@@ -3466,7 +3600,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 119200,
       "name": "UTAH",
       "url": "https://open.spotify.com/track/0Ijvz6ebztdR78N1SXDSlG"
@@ -3542,7 +3676,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 210232,
       "name": "Who Knows",
       "url": "https://open.spotify.com/track/2mxu9nihwolnrjMPKmvaqs"
@@ -3564,6 +3698,28 @@
       "duration_ms": 117015,
       "name": "WHOOP WHOOP",
       "url": "https://open.spotify.com/track/1A4uMh4qfInD40KfFYimE7"
+    },
+    {
+      "album": {
+        "name": "Wiosna troch\u0119 ch\u0142odna w tym roku",
+        "url": "https://open.spotify.com/album/7xWS11AQU9tPDhRsvCoU2I"
+      },
+      "artists": [
+        {
+          "name": "Sensi",
+          "url": "https://open.spotify.com/artist/6bImoJWS5f5CEeSQxDJmve"
+        },
+        {
+          "name": "Qzyn",
+          "url": "https://open.spotify.com/artist/6j7lZDN57Q5jWzKmVpL4Ob"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120940,
+      "name": "Wiosna troch\u0119 ch\u0142odna w tym roku",
+      "url": "https://open.spotify.com/track/6UOAV3yDxuCMMEjgAnEWAx"
     },
     {
       "album": {
@@ -3824,7 +3980,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 143214,
       "name": "Z\u0142oty Ksi\u0105\u017c\u0119 (piosenka do ksi\u0105\u017cki \u201eHellPunk\u201d)",
       "url": "https://open.spotify.com/track/4K6cd75AfK9jfbXGYC2URY"

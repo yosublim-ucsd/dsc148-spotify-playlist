@@ -291,6 +291,28 @@
     },
     {
       "album": {
+        "name": "Amor de Chat - En Vivo",
+        "url": "https://open.spotify.com/album/0NtnjBuRZchY2kvAN7UvTA"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "Sergio Torres",
+          "url": "https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277000,
+      "name": "Amor de Chat - En vivo",
+      "url": "https://open.spotify.com/track/0rBpusCK0zUkuEBrTcTpox"
+    },
+    {
+      "album": {
         "name": "Desafi\u00e1ndolo Todo",
         "url": "https://open.spotify.com/album/0QmzFxlI2t9WhPaOS9jRLK"
       },
@@ -4492,7 +4514,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 226390,
       "name": "P\u00e1jaro y Demonio",
       "url": "https://open.spotify.com/track/2JjIRzMOIkIiM8WZ7fiXvx"

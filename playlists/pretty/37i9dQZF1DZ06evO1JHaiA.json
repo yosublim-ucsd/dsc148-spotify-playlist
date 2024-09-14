@@ -1,12 +1,12 @@
 {
   "description": "This is The Intruders. The essential tracks, all in one playlist.",
-  "num_followers": 2852,
+  "num_followers": 2853,
   "original_name": "This Is The Intruders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuDdgAAAAAAqd9TEzygMKUeKD8+KNJc9",
+  "snapshot_id": "ZuIvAAAAAABb+MBM5nPI4SQbcjKyCYrc",
   "tracks": [
     {
       "added_at": null,
@@ -251,6 +251,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Energy of Love",
+        "url": "https://open.spotify.com/album/56ppptQbKsmQMSSEMHyle5"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 208760,
+      "name": "A Nice Girl Like You",
+      "url": "https://open.spotify.com/track/6XPrQp3jvE9YcGJf6XVfXx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Intruders vs Harold Melvin's Blue Notes (Live In Concert)",
         "url": "https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 218554,
       "name": "Cry Together - Live",
       "url": "https://open.spotify.com/track/1AHoHNRyc2MGWDMHRQMkRO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Energy of Love",
-        "url": "https://open.spotify.com/album/56ppptQbKsmQMSSEMHyle5"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 208760,
-      "name": "A Nice Girl Like You",
-      "url": "https://open.spotify.com/track/6XPrQp3jvE9YcGJf6XVfXx"
     },
     {
       "added_at": null,
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 151320,
-      "name": "Turn the Hands of Time",
-      "url": "https://open.spotify.com/track/2hVGNk2SveZLU1UhRQjTvf"
+      "duration_ms": 165333,
+      "name": "(So Glad I'm) Yours",
+      "url": "https://open.spotify.com/track/717Mself5i3vyfmsLkIkbC"
     },
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 165333,
-      "name": "(So Glad I'm) Yours",
-      "url": "https://open.spotify.com/track/717Mself5i3vyfmsLkIkbC"
+      "duration_ms": 151320,
+      "name": "Turn the Hands of Time",
+      "url": "https://open.spotify.com/track/2hVGNk2SveZLU1UhRQjTvf"
     },
     {
       "added_at": null,
@@ -603,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Save the Children (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7J3JudgjdcU1bwGa4XemAl"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 206880,
+      "name": "Traveling Home",
+      "url": "https://open.spotify.com/track/5sctZYHwWK6YWCTEuRQICa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Intruders vs Harold Melvin's Blue Notes (Live In Concert)",
         "url": "https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 183681,
       "name": "The Intruders MC Introduction - Live",
       "url": "https://open.spotify.com/track/1GOnplSqwgvFIcjeTL50SK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Save the Children (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7J3JudgjdcU1bwGa4XemAl"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 206880,
-      "name": "Traveling Home",
-      "url": "https://open.spotify.com/track/5sctZYHwWK6YWCTEuRQICa"
     },
     {
       "added_at": null,
@@ -675,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ben-Lee Recordings 1963-65",
+        "url": "https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 133413,
+      "name": "Dance Boy",
+      "url": "https://open.spotify.com/track/3ldpPfTpKMP4eksHXWW25A"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Intruders vs Harold Melvin's Blue Notes (Live In Concert)",
         "url": "https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 224118,
       "name": "If You Don't Know Me By Now - Live",
       "url": "https://open.spotify.com/track/2sWyHjB0BFSCxoVYuSyarY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ben-Lee Recordings 1963-65",
-        "url": "https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 133413,
-      "name": "Dance Boy",
-      "url": "https://open.spotify.com/track/3ldpPfTpKMP4eksHXWW25A"
     },
     {
       "added_at": null,
@@ -763,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ben-Lee Recordings 1963-65",
+        "url": "https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 136986,
+      "name": "I've Got Love for You",
+      "url": "https://open.spotify.com/track/48QNeYqSNjTmQxni4PkNyc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Let's Go Instro",
         "url": "https://open.spotify.com/album/2TRMwS7hcYepMtwbU1QOd1"
       },
@@ -775,6 +791,22 @@
       "duration_ms": 135800,
       "name": "Rockamaroll",
       "url": "https://open.spotify.com/track/5hWwB1t4DZHyyoFJ7O7oyl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "When We Get Married",
+        "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 169213,
+      "name": "Best Days of My Life",
+      "url": "https://open.spotify.com/track/0ICwP1Ql94VflS9VMD8kwQ"
     },
     {
       "added_at": null,
@@ -799,8 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "When We Get Married",
-        "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
+        "name": "The Great Guitar Instrumentals: '50s & '60s",
+        "url": "https://open.spotify.com/album/3u540OPocP9GCkWh0XPtWi"
       },
       "artists": [
         {
@@ -808,9 +840,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 169213,
-      "name": "Best Days of My Life",
-      "url": "https://open.spotify.com/track/0ICwP1Ql94VflS9VMD8kwQ"
+      "duration_ms": 151866,
+      "name": "Jefferies Rock",
+      "url": "https://open.spotify.com/track/5PdTiYmRNpH75Qk66GHv8V"
     },
     {
       "added_at": null,
@@ -824,25 +856,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 136986,
-      "name": "I've Got Love for You",
-      "url": "https://open.spotify.com/track/48QNeYqSNjTmQxni4PkNyc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Great Guitar Instrumentals: '50s & '60s",
-        "url": "https://open.spotify.com/album/3u540OPocP9GCkWh0XPtWi"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 151866,
-      "name": "Jefferies Rock",
-      "url": "https://open.spotify.com/track/5PdTiYmRNpH75Qk66GHv8V"
+      "duration_ms": 143173,
+      "name": "But You Belong to Me - 45 Version",
+      "url": "https://open.spotify.com/track/4KC1UhiAOJ0d01YlB2vHd2"
     }
   ],
   "unique_name": "This Is The Intruders",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The best new alternative sounds from Scotland. Cover: Hamish Hawk",
+  "description": "The best new alternative sounds from Scotland. Cover: Franz Ferdinand",
   "name": "Scotify",
   "tracks": [
     {
@@ -92,6 +92,24 @@
       "duration_ms": 266200,
       "name": "Amber",
       "url": "https://open.spotify.com/track/5RhQGeNZkj3VycL9IBKVxh"
+    },
+    {
+      "album": {
+        "name": "Audacious",
+        "url": "https://open.spotify.com/album/6tApXgjCNnGOeB176tJiKV"
+      },
+      "artists": [
+        {
+          "name": "Franz Ferdinand",
+          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203692,
+      "name": "Audacious",
+      "url": "https://open.spotify.com/track/53OqecARVvVCUTjL1yg0sq"
     },
     {
       "album": {
@@ -203,6 +221,28 @@
     },
     {
       "album": {
+        "name": "Champions (feat. Sega Bodega)",
+        "url": "https://open.spotify.com/album/65hrVC143EISDjM1LyFZQa"
+      },
+      "artists": [
+        {
+          "name": "Rick Farin",
+          "url": "https://open.spotify.com/artist/6WYlrffcUamfajl6Js0poA"
+        },
+        {
+          "name": "Sega Bodega",
+          "url": "https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151698,
+      "name": "Champions (feat. Sega Bodega)",
+      "url": "https://open.spotify.com/track/5vHOvCRwUnyQLB4L5jCyyZ"
+    },
+    {
+      "album": {
         "name": "Cherry Blossom Boy",
         "url": "https://open.spotify.com/album/1OS6etTHNezzook7LqTxrX"
       },
@@ -272,6 +312,24 @@
       "duration_ms": 212366,
       "name": "Deep Dark Waters - Edit",
       "url": "https://open.spotify.com/track/1xd2CibZy7SNzcUoKmMQxF"
+    },
+    {
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/7gNVqO8HdbkZow6YS2Hnwz"
+      },
+      "artists": [
+        {
+          "name": "Alex Amor",
+          "url": "https://open.spotify.com/artist/5Zyv8W3WkYfo1PTbVBBHs0"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207226,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/7maFCcYlppvlSRzeiEi1VZ"
     },
     {
       "album": {
@@ -686,7 +744,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 188506,
       "name": "I Look Like A Fool To You",
       "url": "https://open.spotify.com/track/1g4XkTUbz735e6IAR5DQ7q"
@@ -758,7 +816,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 127728,
       "name": "In The Garden",
       "url": "https://open.spotify.com/track/3w5uommxbJCwOA7MrnTJbT"
@@ -1630,7 +1688,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 196525,
       "name": "Yesterday Is Gone",
       "url": "https://open.spotify.com/track/2zqJ9cdRBzMtt1hra7e2By"

@@ -3765,6 +3765,24 @@
     },
     {
       "album": {
+        "name": "Manhattan",
+        "url": "https://open.spotify.com/album/59KxExoW3T9ExZ15kFEs1h"
+      },
+      "artists": [
+        {
+          "name": "Laura Anglade",
+          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321182,
+      "name": "Manhattan",
+      "url": "https://open.spotify.com/track/22YphPVmER6mRK4ADu0QWy"
+    },
+    {
+      "album": {
         "name": "City Garden",
         "url": "https://open.spotify.com/album/67jd34ZxYdzKLkmIJDE246"
       },
@@ -5576,7 +5594,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 333346,
       "name": "The Nearness of You",
       "url": "https://open.spotify.com/track/3jriW0LRM69w3dW7TK3TtS"

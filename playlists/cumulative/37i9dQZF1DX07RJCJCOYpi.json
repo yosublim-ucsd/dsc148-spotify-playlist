@@ -5449,6 +5449,28 @@
     },
     {
       "album": {
+        "name": "Plata",
+        "url": "https://open.spotify.com/album/1SqNO6d7TJI3R4hlUhc40J"
+      },
+      "artists": [
+        {
+          "name": "J. Cross",
+          "url": "https://open.spotify.com/artist/68N3vrc89eDm581F9vqzXd"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172827,
+      "name": "Plata",
+      "url": "https://open.spotify.com/track/5sxvPLgO5OfHvRi8ZU3BM0"
+    },
+    {
+      "album": {
         "name": "ESFERA DE AMOR",
         "url": "https://open.spotify.com/album/2MxR4pWsCM8n0Bp8RhYcu9"
       },

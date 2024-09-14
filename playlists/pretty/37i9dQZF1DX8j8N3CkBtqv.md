@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 ### [Naya Indiestan](https://open.spotify.com/playlist/37i9dQZF1DX8j8N3CkBtqv)
 
-> Naye Indie gaano ka khazana! Cover\- Swanand Kirkire, Hansika Pareek, Shrey Gupta & Bharath
+> Naye Indie gaano ka khazana! Cover\- Madhubanti Bagchi
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,582 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,598 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Barkha](https://open.spotify.com/track/3AOGBR7ei0ocpvPlM46ofw) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT), [Suyash](https://open.spotify.com/artist/397qVkvMksq20YImjWX9BR), [Danny](https://open.spotify.com/artist/45S9bHFJXp1I4qmHcxio70) | [Barkha](https://open.spotify.com/album/0rJs2XjAJZvzqWe4ElYTAM) | 2:55 |
-| 2 | [Barsan](https://open.spotify.com/track/6jg2EEDFePBZNr19lHNSR8) | [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V), [Alok Ranjan Srivastava](https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep) | [Barsan](https://open.spotify.com/album/534o0vBS7PLabpbbj5ZnGu) | 2:59 |
-| 3 | [Hadd Paar](https://open.spotify.com/track/6DZfkiuodQxJqWnoQaZwOu) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK) | [Hadd Paar](https://open.spotify.com/album/2IHX7ILNsacm8J6MKMiWcY) | 3:02 |
+| 1 | [Barsan](https://open.spotify.com/track/6jg2EEDFePBZNr19lHNSR8) | [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V), [Alok Ranjan Srivastava](https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep) | [Barsan](https://open.spotify.com/album/534o0vBS7PLabpbbj5ZnGu) | 2:59 |
+| 2 | [Hadd Paar](https://open.spotify.com/track/6DZfkiuodQxJqWnoQaZwOu) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK) | [Hadd Paar](https://open.spotify.com/album/2IHX7ILNsacm8J6MKMiWcY) | 3:02 |
+| 3 | [Barkha](https://open.spotify.com/track/3AOGBR7ei0ocpvPlM46ofw) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT), [Suyash](https://open.spotify.com/artist/397qVkvMksq20YImjWX9BR), [Danny](https://open.spotify.com/artist/1qyXgLYCg0osV4glEYuQIv) | [Barkha](https://open.spotify.com/album/0rJs2XjAJZvzqWe4ElYTAM) | 2:55 |
 | 4 | [Mazhabon](https://open.spotify.com/track/0rnpWXyHwDb4fwkNub56B9) | [The Western Ghats](https://open.spotify.com/artist/3vX5K7r9Icdjsrlax4FzWv) | [Mazhabon](https://open.spotify.com/album/24MOF0Aw8hHKAxt6WEhH7v) | 4:03 |
 | 5 | [Yaar Mila Ve](https://open.spotify.com/track/19W1YDKQCyS9smMP48fQMy) | [Pragati Nagpal](https://open.spotify.com/artist/5LUjJOXtKNWa7AmUOJbWgH), [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD), [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V), [Shayra Apoorva](https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8) | [Yaar Mila Ve](https://open.spotify.com/album/2ltIposF0mekHiEUsYBulf) | 2:31 |
 | 6 | [Mukhatib](https://open.spotify.com/track/7C8p5um8QfjaiFkgB3j2iX) | [Salman Elahi](https://open.spotify.com/artist/60X8hzDUpAbID7G8cU2FPT) | [Mukhatib](https://open.spotify.com/album/7hEFhZS4TaY0StC4DDv4of) | 3:52 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 74 | [Piya](https://open.spotify.com/track/5iacz50wp5ncLjr8w9ZZ5T) | [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx), [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5), [Likhari](https://open.spotify.com/artist/33SPUncA5xd16yYMbI2t15) | [Piya](https://open.spotify.com/album/2x9Kp1gmqxqSWcDAgopyRK) | 2:21 |
 | 75 | [Piya](https://open.spotify.com/track/3dA2C0JVTXRS43erFqVLRy) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Piya](https://open.spotify.com/album/4BHubnTh605e8B4KdYgTYP) | 2:47 |
 
-Snapshot ID: `ZuOGIAAAAAD8gSLDsnWRSf4gUWABGidr`
+Snapshot ID: `ZuPgeAAAAAA4rYvL5VFybC0Z+RDCovPJ`

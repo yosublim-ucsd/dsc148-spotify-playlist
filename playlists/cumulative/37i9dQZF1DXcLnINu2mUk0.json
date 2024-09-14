@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: MENDEZ, Soarito",
+  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Jimmy P, Kikimoteleba",
   "name": "Seda",
   "tracks": [
     {
@@ -805,6 +805,28 @@
     },
     {
       "album": {
+        "name": "Anos 90",
+        "url": "https://open.spotify.com/album/3Wh3pWc5yYWpy5JerOiP8T"
+      },
+      "artists": [
+        {
+          "name": "Palazzi",
+          "url": "https://open.spotify.com/artist/4jTBGfN0o7LuueW6vtVAK8"
+        },
+        {
+          "name": "Jo\u00e3o Maia Ferreira",
+          "url": "https://open.spotify.com/artist/2XWfm5Ts8pvNzZMENVZ65I"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178014,
+      "name": "Anos 90",
+      "url": "https://open.spotify.com/track/0snvFcmwl5kXUTj5PsEbJl"
+    },
+    {
+      "album": {
         "name": "Antes e Depois",
         "url": "https://open.spotify.com/album/5W6rbwC6PuzUA8MSI8ywWb"
       },
@@ -1584,7 +1606,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 180597,
       "name": "BOM BOM",
       "url": "https://open.spotify.com/track/3WIcI0ONzyVFHC21TlVXkM"
@@ -10805,6 +10827,24 @@
     },
     {
       "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/5KtyAVXpW4uqD2TG02NTA4"
+      },
+      "artists": [
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/5ZU1TW5KbwOb7r0ZDILy7c"
+    },
+    {
+      "album": {
         "name": "Sonhos",
         "url": "https://open.spotify.com/album/3tKcDDPlMgu3TOKIUf7Xjb"
       },
@@ -11198,7 +11238,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 183133,
       "name": "T$UNAMI",
       "url": "https://open.spotify.com/track/2pks64KK1vHckQPEGiDuyK"

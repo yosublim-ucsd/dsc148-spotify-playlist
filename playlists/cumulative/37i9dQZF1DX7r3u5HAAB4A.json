@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-08-30",
-  "description": "The many fruits of Caribbean culture under one tree. Cover:  <a href=\"spotify:artist:2Gzy8TYJ5xrEMDyUjZuDsK\">Masicka</a>",
+  "description": "The many fruits of Caribbean culture under one tree. Cover:  <a href=\"spotify:artist:3IDfJpj4YVkaBl7Dd52Pxv\">Byron Messia</a>",
   "name": "Spice",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 167019,
       "name": "Bam Bam",
       "url": "https://open.spotify.com/track/3TP4bqNjBsCma8WJvkhYtP"
@@ -96,7 +96,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 171000,
       "name": "Big Stage",
       "url": "https://open.spotify.com/track/0oWwOA1NLjpJ1AZRmU9S9o"
@@ -438,7 +438,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 159697,
       "name": "Entering Greenzland",
       "url": "https://open.spotify.com/track/1OSQ76fIK7bR3OxbFTwj6h"
@@ -676,7 +676,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 169937,
       "name": "Jab Did",
       "url": "https://open.spotify.com/track/0ZnPCIPjENTY9tZRts2tFq"
@@ -738,7 +738,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 176266,
       "name": "Looking for It",
       "url": "https://open.spotify.com/track/3RUzc2zCcZBaGUdXfOPBrw"
@@ -894,7 +894,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 210179,
       "name": "Pain",
       "url": "https://open.spotify.com/track/35EA4qhMpmAIgSQRiRs003"
@@ -930,7 +930,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 156831,
       "name": "Queen of the Dancehall",
       "url": "https://open.spotify.com/track/5CEnoMHORDefHCnsQsgf94"
@@ -996,10 +996,28 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 212270,
       "name": "SEE IT YAH",
       "url": "https://open.spotify.com/track/0VakktQEioPjhfIlOIDRQi"
+    },
+    {
+      "album": {
+        "name": "Shek It",
+        "url": "https://open.spotify.com/album/05R7cxvbV86cQ0xEfuUW8i"
+      },
+      "artists": [
+        {
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205666,
+      "name": "Shek It",
+      "url": "https://open.spotify.com/track/2LCj8Cjh8ms2k2EJ6KAmxf"
     },
     {
       "album": {
@@ -1048,6 +1066,24 @@
       "duration_ms": 240000,
       "name": "Show Them",
       "url": "https://open.spotify.com/track/1azevc4yWg7cPubeknpj05"
+    },
+    {
+      "album": {
+        "name": "Sitt'n Fi Chat",
+        "url": "https://open.spotify.com/album/4Fgp0m5xTV1gFodrFf2wsc"
+      },
+      "artists": [
+        {
+          "name": "Spice",
+          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166125,
+      "name": "Sitt'n Fi Chat",
+      "url": "https://open.spotify.com/track/5OwJy5JpsupCWlKtGPKygh"
     },
     {
       "album": {
@@ -1168,6 +1204,24 @@
       "duration_ms": 241666,
       "name": "Tender Tender",
       "url": "https://open.spotify.com/track/6RCY2rQkUFt1LkWH5PHVtq"
+    },
+    {
+      "album": {
+        "name": "Shwaycation",
+        "url": "https://open.spotify.com/album/6UJlSwpYKNIOWwRWIHZopF"
+      },
+      "artists": [
+        {
+          "name": "Shwayze",
+          "url": "https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181445,
+      "name": "Tequila La La La La",
+      "url": "https://open.spotify.com/track/3fm7nlDQB74jy4NoPg3j57"
     },
     {
       "album": {

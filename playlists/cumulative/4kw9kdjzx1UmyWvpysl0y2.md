@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-815 songs - 1 day 22 hr 33 min
+816 songs - 1 day 22 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,6 +284,7 @@
 | [Ghost](https://open.spotify.com/track/5aYAFbdlG9ljCTv4L1EUAX) | [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi) | [Ghost](https://open.spotify.com/album/0wBFjhEg6oiQ3fqc7p308r) | 3:17 | 2024-02-29 | 2024-05-21 |
 | [Ghost](https://open.spotify.com/track/6nRh4WwS6Xf8j87U8YFWnh) | [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn), [Drove](https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI) | [Ghost](https://open.spotify.com/album/2AOQq9d3D4CL1rngPMYxBy) | 3:03 | 2022-10-29 | 2023-01-24 |
 | [Ghost in the Shadows](https://open.spotify.com/track/12WC62EwZGMhDLi8fEF85j) | [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3), [Derpcat](https://open.spotify.com/artist/3o8xPY8Zencrdc3RtvVaQM) | [Ghost in the Shadows](https://open.spotify.com/album/6cEeqaX97sbKSaoxafEkQ4) | 3:47 | 2024-07-29 |  |
+| [Give in to you](https://open.spotify.com/track/4ISgMfSWEuwVRj76YPVopn) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1), [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp) | [Give in to you](https://open.spotify.com/album/5waNDGxDsidfGG5PzJlji0) | 3:21 | 2024-09-13 |  |
 | [Give It All](https://open.spotify.com/track/2z320ljvSDmS5t7jqwHoQh) | [Leah Culver](https://open.spotify.com/artist/0KEExJc1NKwmzJxQHbbkts) | [Give It All](https://open.spotify.com/album/2cZgwrm6dvq74qSQeIfqoc) | 3:42 | 2022-08-09 | 2022-10-21 |
 | [Give Me A Second](https://open.spotify.com/track/2UkcQ2khDIdFRIr9VG28l2) | [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I), [Ra5im](https://open.spotify.com/artist/0tozaYWflIEZ3jaXOULWjk) | [Give Me A Second](https://open.spotify.com/album/075F3FRDl5aFv3PJBq8id0) | 4:22 | 2022-01-21 | 2022-03-30 |
 | [GODSP33D](https://open.spotify.com/track/2vwUVTnCuiAuIV0VyeGubZ) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [GODSP33D](https://open.spotify.com/album/1OKa68xmBjB5L5kLFtYTPP) | 3:51 | 2022-03-28 | 2022-06-09 |

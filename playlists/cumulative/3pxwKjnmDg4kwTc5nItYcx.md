@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Teddy Swims
 
-798 songs - 1 day 18 hr 50 min
+799 songs - 1 day 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,6 +399,7 @@
 | [Lady](https://open.spotify.com/track/6XOIUwBetXbAEntsXOwAX3) | [PRICIE](https://open.spotify.com/artist/74qq2TFVWRaySx8MVjKelJ) | [Lady](https://open.spotify.com/album/0uVeNuStom8wlWcpywvCqJ) | 2:29 | 2024-08-30 |  |
 | [Last Hurrah](https://open.spotify.com/track/0i0wnv9UoFdZ5MfuFGQzMy) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Last Hurrah](https://open.spotify.com/album/5ljc69MQ6iwGcJ4SmHaAh5) | 2:30 | 2019-08-27\* | 2019-11-11 |
 | [Leap Of Faith](https://open.spotify.com/track/571B8LxRZwmG1S1YNfGq4Q) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Leap Of Faith](https://open.spotify.com/album/4tHS6lrzRFmakGJwnUbfWX) | 3:37 | 2020-05-22 | 2021-05-12 |
+| [Leave a Light On \(Talk Away The Dark\)](https://open.spotify.com/track/1KgiijxFpy9HDCfNAuf8rK) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Leave a Light On \(Talk Away The Dark\)](https://open.spotify.com/album/6Rhl0PXrNpvezhUrwXZnBa) | 3:07 | 2024-09-13 |  |
 | [Leave The Door Open](https://open.spotify.com/track/7MAibcTli4IisCtbHKrGMh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Leave The Door Open](https://open.spotify.com/album/7dfPqXck6BB9wpThrVYBss) | 4:02 | 2021-03-06 |  |
 | [Left Alone](https://open.spotify.com/track/5TJgSkVzp8gsj9TlPFYmeK) | [Jamyang](https://open.spotify.com/artist/5SqfYCWuVR4Cc2FGFYY2Tw) | [Valency](https://open.spotify.com/album/2VedgR6tAb4rLrHSPLESo8) | 3:00 | 2023-04-12 |  |
 | [Let Me Down Slowly](https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Narrated For You](https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ) | 2:49 | 2019-08-27\* | 2019-11-11 |

@@ -2,7 +2,7 @@
 
 ### [This Is J Boog](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4nvAQ5)
 
-> This is J Boog\. The essential tracks, all in one playlist.
+> This is J Boog\. En önemli parçalar, hepsi tek bir çalma listesinde.
 
 58 songs - 3 hr 32 min
 

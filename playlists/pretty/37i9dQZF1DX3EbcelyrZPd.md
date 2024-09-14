@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Jux & Diamond Platnumz
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,823 likes - 80 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,902 likes - 80 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 79 | [Mchuchu](https://open.spotify.com/track/4yDggExRPsd917Kewd2bP1) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [Mchuchu](https://open.spotify.com/album/2wlhplBGSd8wewG9gPD5Ux) | 3:11 |
 | 80 | [Rafiki](https://open.spotify.com/track/1zO5X1JsGxihdhwdp3mG6X) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [Rafiki](https://open.spotify.com/album/19iYWFjjmHxMlhJZJlGhdj) | 2:59 |
 
-Snapshot ID: `ZuOOVAAAAAAXuYwNGiQ713UzlQmAhmCO`
+Snapshot ID: `ZuOOVAAAAADsN9z9qx/zCVd7KimClyiF`

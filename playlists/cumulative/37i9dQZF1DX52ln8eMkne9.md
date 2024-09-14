@@ -4,7 +4,7 @@
 
 > Soft and cozy vocal and instrumental Jazz\. Cover: Laufey
 
-342 songs - 1 day 1 hr 32 min
+343 songs - 1 day 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [Make It Last](https://open.spotify.com/track/69Di4YxK4PB1ivkRdeglt5) | [Nicole Henry](https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn) | [The Very Thought of You](https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO) | 5:16 | 2021-12-17 |  |
 | [Makin' Whoopee](https://open.spotify.com/track/04rcEAa4UW7Wn8fRwIEWZt) | [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm) | [Meshuga Baby](https://open.spotify.com/album/5z86H0ClvGTNehrhbmqiDx) | 4:24 | 2022-11-15 | 2024-04-19 |
 | [Makin' Whoopee](https://open.spotify.com/track/1CiKFnkOYgJHxTkcOiIJxA) | [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm) | [Makin' Whoopee](https://open.spotify.com/album/3wyxpaIWVZj6DNOU1qgE3S) | 4:24 | 2022-02-18 | 2024-07-20 |
+| [Manhattan](https://open.spotify.com/track/22YphPVmER6mRK4ADu0QWy) | [Laura Anglade](https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG) | [Manhattan](https://open.spotify.com/album/59KxExoW3T9ExZ15kFEs1h) | 5:21 | 2024-09-13 |  |
 | [Marie](https://open.spotify.com/track/4qDlFHTl5YlyowI3LazpgU) | [Katrine Madsen](https://open.spotify.com/artist/20QOEqeaMRFRLa839sDCnj), [Anders Jormin](https://open.spotify.com/artist/4GyvHXnvKDjmMjMQJmsOTy), [Jacob Christoffersen](https://open.spotify.com/artist/3ljK3UprmcWotHs686486V) | [City Garden](https://open.spotify.com/album/67jd34ZxYdzKLkmIJDE246) | 3:54 | 2022-02-18 | 2023-02-01 |
 | [May I Come In](https://open.spotify.com/track/0YhFeyMLMbQ09mMFa8Konr) | [Miriam Netti](https://open.spotify.com/artist/4ADL2QLAHszBP0oYINSMaP) | [The Art of Jazz with Miriam Netti](https://open.spotify.com/album/4lfb694MUymWtIMowS1SO2) | 5:10 | 2022-07-28 | 2024-04-19 |
 | [May I Come In](https://open.spotify.com/track/51NfTuAXFJrNzIfaGsR5hD) | [Miriam Netti](https://open.spotify.com/artist/4ADL2QLAHszBP0oYINSMaP) | [May I Come In](https://open.spotify.com/album/6y82IM329PZUfWZ0HiFiup) | 5:10 | 2021-12-17 | 2022-07-29 |
@@ -284,7 +285,7 @@
 | [The Moon and the Sky](https://open.spotify.com/track/3QDJUXE2dOArmBxRs5fOxf) | [Marína Ósk](https://open.spotify.com/artist/7y8DYLVX5I1HonLm7j26U8) | [The Moon and the Sky](https://open.spotify.com/album/0wkPvLKjh3RW3UGCVkvpYk) | 3:22 | 2023-06-01 |  |
 | [The Nearness of You](https://open.spotify.com/track/1XF80YjwjuzuIfLzIfbqkt) | [Camille Harris](https://open.spotify.com/artist/245uCozaIRf8nxTWhQ09rL), [David Linard](https://open.spotify.com/artist/3dcJT8sUQjH1UPor3vDh6l) | [The Nearness of You](https://open.spotify.com/album/1m52IEUS08ohNLcVyxdyqu) | 5:03 | 2022-02-18 | 2023-09-14 |
 | [The Nearness of You](https://open.spotify.com/track/2XTmKUTBP5L8YhHbGM7vw3) | [Judy Whitmore](https://open.spotify.com/artist/2gzKEkaudJ2BTHE3o68se5) | [Isn't It Romantic?](https://open.spotify.com/album/7lgznc93SEj6gYWbO9MOmi) | 5:33 | 2024-01-19 | 2024-04-19 |
-| [The Nearness of You](https://open.spotify.com/track/3jriW0LRM69w3dW7TK3TtS) | [Judy Whitmore](https://open.spotify.com/artist/2gzKEkaudJ2BTHE3o68se5) | [Isn't It Romantic?](https://open.spotify.com/album/3pizrquomee0WmQEuksn08) | 5:33 | 2022-09-27 |  |
+| [The Nearness of You](https://open.spotify.com/track/3jriW0LRM69w3dW7TK3TtS) | [Judy Whitmore](https://open.spotify.com/artist/2gzKEkaudJ2BTHE3o68se5) | [Isn't It Romantic?](https://open.spotify.com/album/3pizrquomee0WmQEuksn08) | 5:33 | 2022-09-27 | 2024-09-14 |
 | [The Nearness Of You](https://open.spotify.com/track/03gk2zRwm8uUZDbyZJtPgh) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me](https://open.spotify.com/album/1JvoMzqg04nC29gam4Qaiq) | 3:07 | 2021-12-17 | 2022-07-29 |
 | [The Nearness Of You](https://open.spotify.com/track/3HuLpW8NmFFO5GKY8andY2) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:07 | 2022-07-28 | 2022-09-15 |
 | [The Silence](https://open.spotify.com/track/6fE9UEIXyYjyQiq4qnho4S) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Hanlon](https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY), [Peter Hodges](https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh) | [The Silence](https://open.spotify.com/album/0mB59lYkczjRkYpdcZ4dI4) | 4:25 | 2023-02-16 | 2023-07-09 |

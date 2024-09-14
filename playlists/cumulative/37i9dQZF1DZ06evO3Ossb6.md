@@ -2,7 +2,7 @@
 
 ### [This Is Alejandro Fernández](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Ossb6)
 
-> This Is Alejandro Fernández\. Los temas esenciales, todos en una lista.
+> This is Alejandro Fernández\. The essential tracks, all in one playlist.
 
 64 songs - 3 hr 42 min
 
@@ -29,10 +29,10 @@
 | [Hoy Tengo Ganas De Ti](https://open.spotify.com/track/0qO4GfXADY9QfgcgtrasT9) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Confidencias](https://open.spotify.com/album/3g2uS0IsIdaKqRiBSFrbBk) | 4:51 | 2023-08-08 |  |
 | [Huye](https://open.spotify.com/track/2R7mHww5beU6yuuwxYrE8u) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Te Llevo En La Sangre](https://open.spotify.com/album/3Ub671KoyZe3maF5cz45RU) | 2:35 | 2024-06-01 | 2024-07-24 |
 | [Inexperto En Olvidarte](https://open.spotify.com/track/1WvNTYRxyodbQ4NPmO9jKZ) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Inexperto En Olvidarte](https://open.spotify.com/album/4ZBMLo0vXL00kQqp3SeebE) | 3:05 | 2023-08-08 |  |
-| [Jeré con Z \- Dislexia Creativa \- 09 \- Pedro Cacerola](https://open.spotify.com/track/7v4r6efjfVoZA54VHnca5n) | [Jeré conZ](https://open.spotify.com/artist/7zwr9JDl1jdc3bpfnEYAho), [JorgeGomez](https://open.spotify.com/artist/6UeJZKcnQKv2R503A3PeBo), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Dislexia creativa](https://open.spotify.com/album/0hxBCwgjaDwFd6wT0LcTiQ) | 4:09 | 2024-09-05 | 2024-09-07 |
+| [Jeré con Z \- Dislexia Creativa \- 09 \- Pedro Cacerola](https://open.spotify.com/track/7v4r6efjfVoZA54VHnca5n) | [Jeré conZ](https://open.spotify.com/artist/7zwr9JDl1jdc3bpfnEYAho), [JorgeGomez](https://open.spotify.com/artist/6UeJZKcnQKv2R503A3PeBo), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Dislexia creativa](https://open.spotify.com/album/0hxBCwgjaDwFd6wT0LcTiQ) | 4:09 | 2024-09-05 |  |
 | [La Cumbia Triste](https://open.spotify.com/track/2sAFBZ8a7uTT7tsAsjoUzo) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [La Cumbia Triste](https://open.spotify.com/album/7DSLHSjqV7CCjNa1NxKi2P) | 3:30 | 2024-02-13 |  |
 | [La Mitad Que Me Faltaba](https://open.spotify.com/track/1LV1VwcmwEYt7aHYfiPtbv) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Que Seas Muy Feliz](https://open.spotify.com/album/23nJ7gZDubv8GuPeuukHuu) | 3:25 | 2023-08-08 |  |
-| [La Tóxica](https://open.spotify.com/track/6iNS7Co2kw6yhsioGKLMEP) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Te Llevo En La Sangre](https://open.spotify.com/album/3Ub671KoyZe3maF5cz45RU) | 2:57 | 2024-05-26 |  |
+| [La Tóxica](https://open.spotify.com/track/6iNS7Co2kw6yhsioGKLMEP) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Te Llevo En La Sangre](https://open.spotify.com/album/3Ub671KoyZe3maF5cz45RU) | 2:57 | 2024-05-26 | 2024-09-14 |
 | [La Última Y Nos Vamos](https://open.spotify.com/track/6B1bkwG0hs97UYDspOCaF6) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Te Llevo En La Sangre](https://open.spotify.com/album/3Ub671KoyZe3maF5cz45RU) | 2:54 | 2024-06-17 | 2024-06-21 |
 | [Loco](https://open.spotify.com/track/1tQYNmqyChbjXyZqOkto7s) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Mi Verdad](https://open.spotify.com/album/1HYorOzh8yVdEsprLTnlyE) | 3:16 | 2023-08-08 |  |
 | [Mariposa Traicionera](https://open.spotify.com/track/5YPyuMfaK6GjdFfRaryJak) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Mariposa Traicionera](https://open.spotify.com/album/5AjpfcQlEOux0UIPtiYwlt) | 4:03 | 2023-08-08 |  |

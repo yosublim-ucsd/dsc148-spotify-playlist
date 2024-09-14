@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1 step forward, 3 steps back](https://open.spotify.com/track/4wcBRRpIfesgcyUtis7PEg) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:43 | 2023-10-10 |  |
-| [a thousand years](https://open.spotify.com/track/6lanRgr6wXibZr8KgzXxBl) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [A Thousand Years](https://open.spotify.com/album/15yvc643iYfQtb6zh9NEJo) | 4:45 | 2023-10-10 |  |
+| [a thousand years](https://open.spotify.com/track/6lanRgr6wXibZr8KgzXxBl) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a thousand years](https://open.spotify.com/album/15yvc643iYfQtb6zh9NEJo) | 4:45 | 2023-10-10 |  |
 | [All Too Well \(10 Minute Version\) \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 10:13 | 2023-10-10 |  |
 | [Anybody](https://open.spotify.com/track/5FXDvdRm7BSkPERrUAMZEh) | [shae](https://open.spotify.com/artist/0IBc6Ac1cKD2yP84TTmJij), [WIMY](https://open.spotify.com/artist/5KOmVrCheNYiqcB974SI3Z) | [Anybody](https://open.spotify.com/album/3lUK0JjHjl73ZUqqTurIgx) | 3:17 | 2023-10-10 | 2024-04-19 |
 | [Anybody](https://open.spotify.com/track/6D7ub5xZYc7oLq6JDFIm8c) | [shae](https://open.spotify.com/artist/0IBc6Ac1cKD2yP84TTmJij), [WIMY](https://open.spotify.com/artist/5KOmVrCheNYiqcB974SI3Z) | [Anybody](https://open.spotify.com/album/4IVX8QJBWkhdLJwrluCxb5) | 3:17 | 2023-10-10 |  |

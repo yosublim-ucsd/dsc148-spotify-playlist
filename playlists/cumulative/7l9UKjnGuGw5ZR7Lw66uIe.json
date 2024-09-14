@@ -373,6 +373,24 @@
     },
     {
       "album": {
+        "name": "yaz\u0131k ettin",
+        "url": "https://open.spotify.com/album/3nXqsbUDmDkTv0dXsvBzNF"
+      },
+      "artists": [
+        {
+          "name": "Mert \u00c7odur",
+          "url": "https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170224,
+      "name": "yaz\u0131k ettin",
+      "url": "https://open.spotify.com/track/2bdngNxumON7IUnZe6Wada"
+    },
+    {
+      "album": {
         "name": "yine bana kal",
         "url": "https://open.spotify.com/album/59ACJKAX7mYDjX8lwIXCTX"
       },

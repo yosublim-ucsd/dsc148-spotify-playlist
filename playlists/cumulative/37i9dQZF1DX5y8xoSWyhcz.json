@@ -10974,7 +10974,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 157265,
       "name": "It's The Life",
       "url": "https://open.spotify.com/track/17vvwuzQ2enu7fL93nexIP"
@@ -14136,6 +14136,24 @@
       "duration_ms": 196973,
       "name": "No Use",
       "url": "https://open.spotify.com/track/2m7AO4zLdkbd5SRmjNfnwz"
+    },
+    {
+      "album": {
+        "name": "No Way To Relax When You Are On Fire",
+        "url": "https://open.spotify.com/album/50nvPOvceq4QENvfPhSEoC"
+      },
+      "artists": [
+        {
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242240,
+      "name": "No Way To Relax When You Are On Fire",
+      "url": "https://open.spotify.com/track/5HSlL9XmvYOVDynR2E13vc"
     },
     {
       "album": {

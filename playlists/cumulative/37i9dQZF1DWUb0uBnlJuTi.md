@@ -4,12 +4,13 @@
 
 > Jazz\. But funky\. Cover: Sly5thAve
 
-429 songs - 1 day 8 hr 42 min
+430 songs - 1 day 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [$ouls in The City Part 2](https://open.spotify.com/track/6Jw1gjVB8ssw4CYxo8lSHQ) | [A Certain Ratio](https://open.spotify.com/artist/2vygNfdnPBXah21ZrqhxYk) | [$ouls in The City Part 2](https://open.spotify.com/album/6e3DDY0ZX6wmHr3B7u07Uo) | 2:57 | 2021-07-23 | 2023-05-27 |
 | [3 Weeks](https://open.spotify.com/track/5m8gBIyQpw2IFwY344JLJ6) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [3 Weeks](https://open.spotify.com/album/58YDGoR6fmERL8oDzB1LNS) | 3:17 | 2022-05-27 | 2022-07-28 |
+| [50/50](https://open.spotify.com/track/5suoIKSYDiHYDIryo1Q8QX) | [Spyro Gyra](https://open.spotify.com/artist/1Be36RHAlqJpfUt3tsmUQD) | [50/50](https://open.spotify.com/album/1NxEX9a6UYppTCfSOr1Ldq) | 3:46 | 2024-09-13 |  |
 | [A Hat For My Beard](https://open.spotify.com/track/6HD5cmoqNrLQrZOCXG6tge) | [Jeff Coffin](https://open.spotify.com/artist/0nQtFR0hKvnxrmBydLJt5D), [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU), [Daru Jones](https://open.spotify.com/artist/3kOGIhN1mgwbrQMgY5KV9U), [Jay White](https://open.spotify.com/artist/69p9DNc1W1xZ4EzekPCSNf), [Yeli Ensemble](https://open.spotify.com/artist/2W8HADnRDXhD1A9ZfCAGqM) | [A Hat For My Beard](https://open.spotify.com/album/5SEsCsGx077MIeqcu3H7vM) | 4:49 | 2024-07-05 |  |
 | [A Message From The Inner City](https://open.spotify.com/track/1n8HIzFUOJ0nII0xka0fBs) | [The Crusaders](https://open.spotify.com/artist/3Bhgbs9kIwl8SuU0eIqN6b) | [The 2nd Crusade](https://open.spotify.com/album/3PePkqniR5Vh9UjLfaIYoF) | 8:51 | 2020-10-09 |  |
 | [A Walk Down 7th st.](https://open.spotify.com/track/5vlBePKYHkVWzZoYUBIG0O) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [A Walk Down 7th st.](https://open.spotify.com/album/3jktLVoCxm8FimmfApOJ6Y) | 3:05 | 2021-09-03 | 2022-07-28 |
@@ -152,7 +153,7 @@
 | [Happy 'Cause I'm Goin' Home](https://open.spotify.com/track/7GAKkO3EXsJZvsG1racYMa) | [Charles Earland](https://open.spotify.com/artist/3ud1yQWO0eEL8hVcXyU0Oi) | [Intensity](https://open.spotify.com/album/0UIDIJWyepSPXNAqLWBPiv) | 11:15 | 2020-10-09 | 2023-06-17 |
 | [Harlem Buck Dance Strut](https://open.spotify.com/track/0u40DR3lPUDNCxtfDzNs3Q) | [Les McCann](https://open.spotify.com/artist/07tYu4BGrfeogBobCefkHI) | [Layers](https://open.spotify.com/album/6f1xvgs11hAh1Jedx9lRWm) | 5:55 | 2020-10-09 |  |
 | [Harlem River Drive](https://open.spotify.com/track/6aP8aMehThSiaLJozzGeUh) | [Bobbi Humphrey](https://open.spotify.com/artist/0JbqyQSsMK7TavqlR0yNON) | [Blacks And Blues](https://open.spotify.com/album/1zCeavwN7ZhPIGR5phKxJv) | 7:50 | 2020-10-09 | 2023-03-11 |
-| [Have a Talk with God](https://open.spotify.com/track/3il3S5dOcng2n3bbbhqp2O) | [Jack Lee](https://open.spotify.com/artist/12ZVNsCxj4KCcXvUmrHbIW), [Nathan East](https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ) | [Have a Talk with God](https://open.spotify.com/album/4GPiGRB0AzoXQZZYs3bKpQ) | 5:41 | 2023-08-11 |  |
+| [Have a Talk with God](https://open.spotify.com/track/3il3S5dOcng2n3bbbhqp2O) | [Jack Lee](https://open.spotify.com/artist/12ZVNsCxj4KCcXvUmrHbIW), [Nathan East](https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ) | [Have a Talk with God](https://open.spotify.com/album/4GPiGRB0AzoXQZZYs3bKpQ) | 5:41 | 2023-08-11 | 2024-09-14 |
 | [Have A Talk With God](https://open.spotify.com/track/4wGhj2z3EHOKr3BsIjFgNa) | [Jack Lee](https://open.spotify.com/artist/12ZVNsCxj4KCcXvUmrHbIW), [Nathan East](https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ) | [Have A Talk With God](https://open.spotify.com/album/46GEMh4lyKE3Y3XKKDH4Qf) | 5:41 | 2023-08-11 | 2023-09-18 |
 | [Have A Talk With God](https://open.spotify.com/track/5zH2yuY4i55cD4fc1COjdt) | [Jack Lee](https://open.spotify.com/artist/12ZVNsCxj4KCcXvUmrHbIW), [Nathan East](https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ) | [Heart And Soul](https://open.spotify.com/album/35B0dmoLWUMpUzyFZwaEy7) | 5:41 | 2023-08-11 | 2024-04-19 |
 | [Head in the Clouds](https://open.spotify.com/track/0q6gOQqr5KcC2RUmXlh2pl) | [Nine Sparks Riots](https://open.spotify.com/artist/4y6ORtg4fPmsXNftMLw12X), [Noé Berne](https://open.spotify.com/artist/3szeS1OVdR464BUVlIH3L0), [Avatar Horns](https://open.spotify.com/artist/2kPPtGrPl59H7uFKz4MehA), [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1), [Roni Kaspi](https://open.spotify.com/artist/12mubYgIHWEtjzaEi41bv9) | [Head in the Clouds](https://open.spotify.com/album/5s57FHV8CsfmgUmpMzsoe3) | 3:42 | 2022-11-18 | 2023-05-20 |

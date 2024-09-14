@@ -992,7 +992,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 160000,
       "name": "All I Was",
       "url": "https://open.spotify.com/track/5Q6vnnIRFJfheWoM9DoiHM"
@@ -2641,6 +2641,24 @@
     },
     {
       "album": {
+        "name": "Everywhere, But Always",
+        "url": "https://open.spotify.com/album/4s27c65oOZlJDnJB9K5OR3"
+      },
+      "artists": [
+        {
+          "name": "Yonny",
+          "url": "https://open.spotify.com/artist/6FHpiparqe3BdjjfHyNXNJ"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170907,
+      "name": "Blue Door",
+      "url": "https://open.spotify.com/track/0b6ibNbNpuBwKiGGjnlcKz"
+    },
+    {
+      "album": {
         "name": "Blue Eyes",
         "url": "https://open.spotify.com/album/1PxIYmT2QbHzkLe9FJMo1Y"
       },
@@ -2762,7 +2780,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 134522,
       "name": "BOOM BAP",
       "url": "https://open.spotify.com/track/0YErMMQzy2co60WoollZ9D"
@@ -3385,6 +3403,24 @@
     },
     {
       "album": {
+        "name": "Can't Be Friends",
+        "url": "https://open.spotify.com/album/04sEUauTXs3UU0u224U1fr"
+      },
+      "artists": [
+        {
+          "name": "ARDN",
+          "url": "https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196875,
+      "name": "Can't Be Friends",
+      "url": "https://open.spotify.com/track/1YBauyKmojnaEzspqSedxc"
+    },
+    {
+      "album": {
         "name": "Can't Give Up",
         "url": "https://open.spotify.com/album/4JYicxnbMnSXbWuGiTy3Ww"
       },
@@ -3584,7 +3620,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 153725,
       "name": "Cecil Fielder",
       "url": "https://open.spotify.com/track/5RVrnIt1wsYM3j4BhlIghB"
@@ -3672,6 +3708,24 @@
       "duration_ms": 202204,
       "name": "Charge It Remix (feat. Smino)",
       "url": "https://open.spotify.com/track/4GKzznETPVyGoBe6vHr2lS"
+    },
+    {
+      "album": {
+        "name": "Cheddar",
+        "url": "https://open.spotify.com/album/1oqoE7TA5H5YUrRIqPQHn3"
+      },
+      "artists": [
+        {
+          "name": "Kamaiyah",
+          "url": "https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154193,
+      "name": "Cheddar",
+      "url": "https://open.spotify.com/track/0hxAlqXy68JpMyAehKQsdm"
     },
     {
       "album": {
@@ -5015,6 +5069,24 @@
     },
     {
       "album": {
+        "name": "Alligator Bites Never Heal",
+        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159586,
+      "name": "DENIAL IS A RIVER",
+      "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
+    },
+    {
+      "album": {
         "name": "DENiM (feat. Joey Bada$$)",
         "url": "https://open.spotify.com/album/65UJYDMtKqRBmhNFei6lxB"
       },
@@ -6189,6 +6261,28 @@
     },
     {
       "album": {
+        "name": "Everybody Dies (feat. SiR)",
+        "url": "https://open.spotify.com/album/5YQR1PepVi3Q6s67eBeOUD"
+      },
+      "artists": [
+        {
+          "name": "Ray Vaughn",
+          "url": "https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg"
+        },
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225250,
+      "name": "Everybody Dies (feat. SiR)",
+      "url": "https://open.spotify.com/track/2KzyTpQrV2J4hwmVf6XFEv"
+    },
+    {
+      "album": {
         "name": "Everybody Hates Weef",
         "url": "https://open.spotify.com/album/4CH9fORcVE0fxGTFSOWouu"
       },
@@ -6882,7 +6976,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 180466,
       "name": "First Down",
       "url": "https://open.spotify.com/track/0maOArD2GXYFQH5JtmTwSr"
@@ -7104,7 +7198,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 162162,
       "name": "Flow",
       "url": "https://open.spotify.com/track/0YVAbRnpG4mVxxwob9DdS8"
@@ -9003,6 +9097,28 @@
     },
     {
       "album": {
+        "name": "Hit the Highway (feat. Freeway)",
+        "url": "https://open.spotify.com/album/5saHZHnDh16q9z7VOC3rnA"
+      },
+      "artists": [
+        {
+          "name": "Toure",
+          "url": "https://open.spotify.com/artist/1OXhvSQDWPFqq6v2bhY17X"
+        },
+        {
+          "name": "Freeway",
+          "url": "https://open.spotify.com/artist/2Jwr7hGoSNK3S3QBxh3T0z"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209695,
+      "name": "Hit the Highway (feat. Freeway)",
+      "url": "https://open.spotify.com/track/3Shu4W7WX4J5SqvkUmecod"
+    },
+    {
+      "album": {
         "name": "'Decent",
         "url": "https://open.spotify.com/album/1WoPO9sVvJXy0MktOhBiIU"
       },
@@ -9136,6 +9252,32 @@
       "duration_ms": 189026,
       "name": "Hootz",
       "url": "https://open.spotify.com/track/4Q0QCJid9Sg0EKFfewCgw6"
+    },
+    {
+      "album": {
+        "name": "HOP OUT CHO FEELINS",
+        "url": "https://open.spotify.com/album/1IcdpXhLeRuXHo363pYL8F"
+      },
+      "artists": [
+        {
+          "name": "Kal Banx",
+          "url": "https://open.spotify.com/artist/2TYRz7cFNZNPLUWRijsJNL"
+        },
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        },
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228010,
+      "name": "HOP OUT CHO FEELINS",
+      "url": "https://open.spotify.com/track/0kTaVR84OJ6jb8tDw4wj35"
     },
     {
       "album": {
@@ -9344,7 +9486,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 129925,
       "name": "Hyde Park",
       "url": "https://open.spotify.com/track/3W50xDzVZNF6VHDblZLASn"
@@ -11284,7 +11426,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 125843,
       "name": "Like a Mack",
       "url": "https://open.spotify.com/track/3qoB1rLHEwLqZ08LGYVC1L"
@@ -11828,7 +11970,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-31",
+      "date_removed": null,
       "duration_ms": 109593,
       "name": "Magnum P.I.",
       "url": "https://open.spotify.com/track/7kExSV4v0ts43ErNyZB0ac"
@@ -14099,6 +14241,24 @@
     },
     {
       "album": {
+        "name": "Can't Go Bacc",
+        "url": "https://open.spotify.com/album/3dQ8t3fnXsPYrWEznMdDeX"
+      },
+      "artists": [
+        {
+          "name": "Nino Paid",
+          "url": "https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114938,
+      "name": "Pain & Possibilities",
+      "url": "https://open.spotify.com/track/4mLUCjyRFvGW7oPDa75p6n"
+    },
+    {
+      "album": {
         "name": "Flying High, Part 2",
         "url": "https://open.spotify.com/album/21cT6jnDfeUTCN1J2bzllz"
       },
@@ -14846,7 +15006,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 146086,
       "name": "Press Reset",
       "url": "https://open.spotify.com/track/6ExMMvfgv4ulR0TPSWhZ5u"
@@ -17990,7 +18150,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 93118,
       "name": "sunisgone",
       "url": "https://open.spotify.com/track/2whZNm6y0erOrsPgRb809C"
@@ -18278,6 +18438,28 @@
       "duration_ms": 205683,
       "name": "Teleport",
       "url": "https://open.spotify.com/track/3C3nXh1MLj9dP4BYPMrzTG"
+    },
+    {
+      "album": {
+        "name": "TELL ME (feat. Chl\u00f6e)",
+        "url": "https://open.spotify.com/album/7LS6PqmpJP8HTXgBFHTKYz"
+      },
+      "artists": [
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        },
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156133,
+      "name": "TELL ME (feat. Chl\u00f6e)",
+      "url": "https://open.spotify.com/track/5SUYx8DCjFhdU9d9Qu4Vnf"
     },
     {
       "album": {
@@ -18934,6 +19116,32 @@
       "duration_ms": 199991,
       "name": "The World Is Mine",
       "url": "https://open.spotify.com/track/0FUkb2Ujgu1vxOWUDLjG1u"
+    },
+    {
+      "album": {
+        "name": "The Kid That Did",
+        "url": "https://open.spotify.com/album/584NttnQ3jTv0yoCArM0yx"
+      },
+      "artists": [
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        },
+        {
+          "name": "Fabolous",
+          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
+        },
+        {
+          "name": "Rich Paul",
+          "url": "https://open.spotify.com/artist/31XXuJr0LviQr8BkQpzlnx"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270212,
+      "name": "The World Is Yours",
+      "url": "https://open.spotify.com/track/52bvgD584kWnAXwwbLsigH"
     },
     {
       "album": {

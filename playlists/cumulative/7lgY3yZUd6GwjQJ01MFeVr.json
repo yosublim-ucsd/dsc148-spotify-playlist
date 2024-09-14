@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "The Coastal Plain",
+        "url": "https://open.spotify.com/album/4CVDGvkyx7NuuG04nqEBkJ"
+      },
+      "artists": [
+        {
+          "name": "Muscadine Bloodline",
+          "url": "https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201400,
+      "name": "10-90",
+      "url": "https://open.spotify.com/track/1NDFcGLZEHByr0jrC0GKsq"
+    },
+    {
+      "album": {
         "name": "The Great American Bar Scene",
         "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
       },
@@ -331,6 +349,24 @@
     },
     {
       "album": {
+        "name": "BLAME",
+        "url": "https://open.spotify.com/album/5oHs5oH2fx8YWh4JMgfNug"
+      },
+      "artists": [
+        {
+          "name": "James Johnston",
+          "url": "https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162115,
+      "name": "BLAME",
+      "url": "https://open.spotify.com/track/6krhdjLqzCefSnaGgUidUq"
+    },
+    {
+      "album": {
         "name": "Twisters: The Album",
         "url": "https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS"
       },
@@ -386,6 +422,24 @@
       "duration_ms": 183919,
       "name": "Bulletproof",
       "url": "https://open.spotify.com/track/6VpH2prT3NGiK5pnpG2L3J"
+    },
+    {
+      "album": {
+        "name": "What Happens Now? - Deluxe",
+        "url": "https://open.spotify.com/album/1BLiY39zlAqsAOslJFUWn6"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149426,
+      "name": "Bye Bye Bye",
+      "url": "https://open.spotify.com/track/7Izl4h5dmmcfZiWp75nPeA"
     },
     {
       "album": {
@@ -2097,6 +2151,28 @@
     },
     {
       "album": {
+        "name": "Postcards From Texas",
+        "url": "https://open.spotify.com/album/2c12Spm8XcLAT2xYtQdgGK"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        },
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183242,
+      "name": "Santa Fe",
+      "url": "https://open.spotify.com/track/12AEBgTTELBhtAthd5dRqH"
+    },
+    {
+      "album": {
         "name": "Sarah's Place (feat. Noah Kahan)",
         "url": "https://open.spotify.com/album/4nCpzKTB9VoZF1hsogANQi"
       },
@@ -2956,6 +3032,24 @@
       "duration_ms": 216573,
       "name": "Wildflowers and Wild Horses (Single Version)",
       "url": "https://open.spotify.com/track/6d3QUBsiAw3aZI6F2mMhzk"
+    },
+    {
+      "album": {
+        "name": "Wind Up Missin\u2019 You",
+        "url": "https://open.spotify.com/album/4PphroUvQrXLzeLQKEtZOj"
+      },
+      "artists": [
+        {
+          "name": "Tucker Wetmore",
+          "url": "https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166040,
+      "name": "Wind Up Missin\u2019 You",
+      "url": "https://open.spotify.com/track/7iQMm50NNwlUIRWhONZR2k"
     },
     {
       "album": {

@@ -1,28 +1,28 @@
 {
-  "description": "The south got something to say. Cover: UGK",
-  "num_followers": 545518,
+  "description": "The south got something to say. Cover: Project Pat",
+  "num_followers": 545606,
   "original_name": "Down South Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrZ5qAAAAADL5Msti1KZdfuGxygaX7kV",
+  "snapshot_id": "ZuR8bAAAAADKDfiNG5OVqQXJ+QbVOGtO",
   "tracks": [
     {
       "added_at": "2024-08-09 20:18:48",
       "album": {
-        "name": "Trap Muzik",
-        "url": "https://open.spotify.com/album/1SloKtrz48mjFA3QIDg7Vl"
+        "name": "The Crunk Recordings: Hits From The Pioneers And Players Of Crunk",
+        "url": "https://open.spotify.com/album/1OaIwAuOiwujt7mlst3CAR"
       },
       "artists": [
         {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+          "name": "Lil Scrappy",
+          "url": "https://open.spotify.com/artist/5einkgXXrjhfYCyac1FANB"
         }
       ],
-      "duration_ms": 282906,
-      "name": "24's (Vocals Only)",
-      "url": "https://open.spotify.com/track/33j4CLU9UyRjO63ry5J61Q"
+      "duration_ms": 214213,
+      "name": "No Problem",
+      "url": "https://open.spotify.com/track/0EgigrGFGb4PHaVNb7fgK7"
     },
     {
       "added_at": "2024-08-09 20:18:48",
@@ -43,22 +43,6 @@
     {
       "added_at": "2024-08-09 20:18:48",
       "album": {
-        "name": "Super Tight",
-        "url": "https://open.spotify.com/album/4rjGyhPnaKV5hfwFNiHtQA"
-      },
-      "artists": [
-        {
-          "name": "UGK",
-          "url": "https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw"
-        }
-      ],
-      "duration_ms": 313800,
-      "name": "Front, Back & Side to Side",
-      "url": "https://open.spotify.com/track/0z4Ryh7Qg9jKOQXzkUZLVK"
-    },
-    {
-      "added_at": "2024-08-09 20:18:48",
-      "album": {
         "name": "Sittin' Fat Down South",
         "url": "https://open.spotify.com/album/2czjXveZPf9X2dutQGlh2r"
       },
@@ -75,18 +59,34 @@
     {
       "added_at": "2024-08-09 20:18:48",
       "album": {
-        "name": "The Crunk Recordings: Hits From The Pioneers And Players Of Crunk",
-        "url": "https://open.spotify.com/album/1OaIwAuOiwujt7mlst3CAR"
+        "name": "Trap Muzik",
+        "url": "https://open.spotify.com/album/1SloKtrz48mjFA3QIDg7Vl"
       },
       "artists": [
         {
-          "name": "Lil Scrappy",
-          "url": "https://open.spotify.com/artist/5einkgXXrjhfYCyac1FANB"
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
         }
       ],
-      "duration_ms": 214213,
-      "name": "No Problem",
-      "url": "https://open.spotify.com/track/0EgigrGFGb4PHaVNb7fgK7"
+      "duration_ms": 282906,
+      "name": "24's (Vocals Only)",
+      "url": "https://open.spotify.com/track/33j4CLU9UyRjO63ry5J61Q"
+    },
+    {
+      "added_at": "2024-09-13 17:54:52",
+      "album": {
+        "name": "Ghetty Green",
+        "url": "https://open.spotify.com/album/79C18fJJMGIe3IzT8LiuHR"
+      },
+      "artists": [
+        {
+          "name": "Project Pat",
+          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
+        }
+      ],
+      "duration_ms": 259693,
+      "name": "Out There",
+      "url": "https://open.spotify.com/track/3PU3neC9XmWz7ZjUn5rYIw"
     },
     {
       "added_at": "2024-08-09 20:18:48",
@@ -441,6 +441,22 @@
       "url": "https://open.spotify.com/track/0Ss50OU9tCozI7JIywkv14"
     },
     {
+      "added_at": "2024-09-13 17:54:52",
+      "album": {
+        "name": "Ghetty Green",
+        "url": "https://open.spotify.com/album/79C18fJJMGIe3IzT8LiuHR"
+      },
+      "artists": [
+        {
+          "name": "Project Pat",
+          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
+        }
+      ],
+      "duration_ms": 98826,
+      "name": "North Memphis",
+      "url": "https://open.spotify.com/track/5KQNhnUSvG8VSs24qEoSu9"
+    },
+    {
       "added_at": "2024-08-09 20:18:48",
       "album": {
         "name": "New Joc City",
@@ -531,6 +547,22 @@
     {
       "added_at": "2024-08-09 20:18:48",
       "album": {
+        "name": "ATLiens",
+        "url": "https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 230693,
+      "name": "ATLiens",
+      "url": "https://open.spotify.com/track/2vfvGlqCB7oertO5VLE0sz"
+    },
+    {
+      "added_at": "2024-08-09 20:18:48",
+      "album": {
         "name": "U Gotta Feel Me",
         "url": "https://open.spotify.com/album/548NoYLgqSBDTNIYvlpDu5"
       },
@@ -547,22 +579,6 @@
       "duration_ms": 225173,
       "name": "Sunshine (feat. Lea)",
       "url": "https://open.spotify.com/track/4s0o8TJHfX9LLHa0umnOzT"
-    },
-    {
-      "added_at": "2024-08-09 20:18:48",
-      "album": {
-        "name": "ATLiens",
-        "url": "https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 230693,
-      "name": "ATLiens",
-      "url": "https://open.spotify.com/track/2vfvGlqCB7oertO5VLE0sz"
     },
     {
       "added_at": "2024-08-09 20:18:48",
@@ -643,22 +659,6 @@
     {
       "added_at": "2024-08-09 20:18:48",
       "album": {
-        "name": "Tha Carter",
-        "url": "https://open.spotify.com/album/5POcKy926GgzFHZpGptJac"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 281826,
-      "name": "Go DJ",
-      "url": "https://open.spotify.com/track/4svCVV4VHEL3Z4efES868h"
-    },
-    {
-      "added_at": "2024-08-09 20:18:48",
-      "album": {
         "name": "Speakerboxxx/The Love Below",
         "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
       },
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-08-09 20:18:48",
       "album": {
+        "name": "Tha Carter",
+        "url": "https://open.spotify.com/album/5POcKy926GgzFHZpGptJac"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 281826,
+      "name": "Go DJ",
+      "url": "https://open.spotify.com/track/4svCVV4VHEL3Z4efES868h"
+    },
+    {
+      "added_at": "2024-08-09 20:18:48",
+      "album": {
         "name": "Most Known Unknown",
         "url": "https://open.spotify.com/album/0Pe9KCcaFK7CkeZPWXCuaB"
       },
@@ -695,30 +711,6 @@
       "duration_ms": 176880,
       "name": "Poppin' My Collar (feat. Project Pat)",
       "url": "https://open.spotify.com/track/5zd9TgduWbfFXwgnm3K3Rz"
-    },
-    {
-      "added_at": "2024-08-09 20:18:48",
-      "album": {
-        "name": "Word Of Mouf",
-        "url": "https://open.spotify.com/album/1GMj0Rx5Q6EyBYbi9Eu7Vr"
-      },
-      "artists": [
-        {
-          "name": "Ludacris",
-          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
-        },
-        {
-          "name": "Mystikal",
-          "url": "https://open.spotify.com/artist/3LIJJJkO7R5RasRwt7xIn5"
-        },
-        {
-          "name": "I-20",
-          "url": "https://open.spotify.com/artist/0qziYi2GvPoLPnchRMQdxk"
-        }
-      ],
-      "duration_ms": 270866,
-      "name": "Move Bitch",
-      "url": "https://open.spotify.com/track/1Q9b6CeMcDuO0uq5OJCrqu"
     },
     {
       "added_at": "2024-08-09 20:18:48",
@@ -747,6 +739,30 @@
     {
       "added_at": "2024-08-09 20:18:48",
       "album": {
+        "name": "Word Of Mouf",
+        "url": "https://open.spotify.com/album/1GMj0Rx5Q6EyBYbi9Eu7Vr"
+      },
+      "artists": [
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        },
+        {
+          "name": "Mystikal",
+          "url": "https://open.spotify.com/artist/3LIJJJkO7R5RasRwt7xIn5"
+        },
+        {
+          "name": "I-20",
+          "url": "https://open.spotify.com/artist/0qziYi2GvPoLPnchRMQdxk"
+        }
+      ],
+      "duration_ms": 270866,
+      "name": "Move Bitch",
+      "url": "https://open.spotify.com/track/1Q9b6CeMcDuO0uq5OJCrqu"
+    },
+    {
+      "added_at": "2024-08-09 20:18:48",
+      "album": {
         "name": "The Real Testament",
         "url": "https://open.spotify.com/album/3NoUdjYUcUuRMpOzyapnYW"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 255413,
       "name": "Shawty (feat. T Pain)",
       "url": "https://open.spotify.com/track/0mYoKqA23wUUj7BTEgNzjg"
-    },
-    {
-      "added_at": "2024-08-09 20:18:48",
-      "album": {
-        "name": "Tha Carter II",
-        "url": "https://open.spotify.com/album/7slHgsEMuJfnuft5LAPyw6"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 303666,
-      "name": "Hustler Musik",
-      "url": "https://open.spotify.com/track/2334WaCjswLcRIRgTTPWaZ"
     },
     {
       "added_at": "2024-08-09 20:18:48",
@@ -819,6 +819,22 @@
     {
       "added_at": "2024-08-09 20:18:48",
       "album": {
+        "name": "Most Known Unknown (Explicit)",
+        "url": "https://open.spotify.com/album/0kTLdP4XPeJGsbr2L8ikyF"
+      },
+      "artists": [
+        {
+          "name": "Three 6 Mafia",
+          "url": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT"
+        }
+      ],
+      "duration_ms": 206733,
+      "name": "Half On a Sack",
+      "url": "https://open.spotify.com/track/0KXO9R8yUd1BJjkEWXtor4"
+    },
+    {
+      "added_at": "2024-08-09 20:18:48",
+      "album": {
         "name": "Chicken - N - Beer",
         "url": "https://open.spotify.com/album/3hJHXxX04PNuGFIxdEHGzg"
       },
@@ -839,18 +855,18 @@
     {
       "added_at": "2024-08-09 20:18:48",
       "album": {
-        "name": "Most Known Unknown (Explicit)",
-        "url": "https://open.spotify.com/album/0kTLdP4XPeJGsbr2L8ikyF"
+        "name": "Tha Carter II",
+        "url": "https://open.spotify.com/album/7slHgsEMuJfnuft5LAPyw6"
       },
       "artists": [
         {
-          "name": "Three 6 Mafia",
-          "url": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT"
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 206733,
-      "name": "Half On a Sack",
-      "url": "https://open.spotify.com/track/0KXO9R8yUd1BJjkEWXtor4"
+      "duration_ms": 303666,
+      "name": "Hustler Musik",
+      "url": "https://open.spotify.com/track/2334WaCjswLcRIRgTTPWaZ"
     },
     {
       "added_at": "2024-08-09 20:18:48",
@@ -891,6 +907,30 @@
     {
       "added_at": "2024-08-09 20:18:48",
       "album": {
+        "name": "When the Smoke Clears: Sixty 6, Sixty 1",
+        "url": "https://open.spotify.com/album/16T5Usl6Qs24qps5ZwIeVI"
+      },
+      "artists": [
+        {
+          "name": "Three 6 Mafia",
+          "url": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT"
+        },
+        {
+          "name": "UGK",
+          "url": "https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw"
+        },
+        {
+          "name": "Project Pat",
+          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
+        }
+      ],
+      "duration_ms": 261972,
+      "name": "Sippin On Some Syrup (feat. UGK (Underground Kingz) & Project Pat)",
+      "url": "https://open.spotify.com/track/2EduiM2UNwjCC7PsLxnOCH"
+    },
+    {
+      "added_at": "2024-08-09 20:18:48",
+      "album": {
         "name": "THUGS ARE US",
         "url": "https://open.spotify.com/album/2oJxBPqylFpSb60hOJ4DcH"
       },
@@ -903,38 +943,6 @@
       "duration_ms": 254400,
       "name": "I'm a Thug",
       "url": "https://open.spotify.com/track/6j2aNuhJJUnRj6UHcvn5PI"
-    },
-    {
-      "added_at": "2024-08-09 20:18:48",
-      "album": {
-        "name": "Word Of Mouf",
-        "url": "https://open.spotify.com/album/1GMj0Rx5Q6EyBYbi9Eu7Vr"
-      },
-      "artists": [
-        {
-          "name": "Ludacris",
-          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
-        }
-      ],
-      "duration_ms": 296586,
-      "name": "Rollout (My Business)",
-      "url": "https://open.spotify.com/track/4SyadrABZJIjeND1HPJS31"
-    },
-    {
-      "added_at": "2024-08-09 20:18:48",
-      "album": {
-        "name": "Tha Carter II",
-        "url": "https://open.spotify.com/album/7slHgsEMuJfnuft5LAPyw6"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 263546,
-      "name": "Fireman",
-      "url": "https://open.spotify.com/track/0aq7ohTG6VDYQvsnAYtA5e"
     }
   ],
   "unique_name": "Down South Classics",

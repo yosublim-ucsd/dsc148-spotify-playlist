@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-530 songs - 1 day 13 hr 9 min
+531 songs - 1 day 13 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Annihilation](https://open.spotify.com/track/0TzkG2s7nhpZs0RNSBsAlF) | [i\_o](https://open.spotify.com/artist/0y42IQBDFigO5mmEd1bGQG), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Annihilation](https://open.spotify.com/album/36BFn54Z3fFYVBXMCG99qZ) | 4:07 | 2021-05-07 | 2022-10-13 |
 | [Annihilation](https://open.spotify.com/track/3vLhUrc9h8fFIH7Lq9QDM5) | [i\_o](https://open.spotify.com/artist/0y42IQBDFigO5mmEd1bGQG), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Annihilation](https://open.spotify.com/album/0Ft2j2EP2dEYwxQgDQUleW) | 4:07 | 2022-07-01 | 2023-07-22 |
 | [Another Day \(feat\. Hedara\)](https://open.spotify.com/track/6xzC6RtvwUAKZK9cPVxjOn) | [Leena Punks](https://open.spotify.com/artist/4v86SW8ZXq6cYAvMnaqYWt), [Hedara](https://open.spotify.com/artist/6lUauNyvHBjAp0tBFDiBNm) | [Another Day \(feat\. Hedara\)](https://open.spotify.com/album/0ljxUkXzMvutIwRbILawdl) | 3:49 | 2024-04-19 | 2024-07-03 |
+| [Another World](https://open.spotify.com/track/5U0iZCQ9e8PaLYxup0pcnO) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Another World](https://open.spotify.com/album/72ArwEgG0egqM3vmQKxWVZ) | 2:24 | 2024-09-13 |  |
 | [Antigone \- Yotto Remix](https://open.spotify.com/track/3bRqVtAGCNBRSGupmykCjY) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Antigone \(Yotto Remix\)](https://open.spotify.com/album/3v6ghYAfBsyboRfxXXOFp8) | 4:02 | 2021-05-07 | 2022-07-29 |
 | [Apricus](https://open.spotify.com/track/6AWDF8tp10KFkTZE33VVC4) | [STANDERWICK](https://open.spotify.com/artist/6mLXfZ1OfXde8Iy9BfKoHE) | [Apricus](https://open.spotify.com/album/4DUrEKUrYClLVtMfDqiOiC) | 4:39 | 2021-05-07 | 2022-07-29 |
 | [Artefact](https://open.spotify.com/track/4s5YiAfgPWyq37WukmceRI) | [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR), [Fuenka](https://open.spotify.com/artist/20LsNbfhofBFByG5kuRKvK) | [Artefact](https://open.spotify.com/album/3JygQ7vwR0sa8OEXEN1Rj3) | 3:40 | 2022-08-12 | 2023-05-30 |
@@ -200,7 +201,7 @@
 | [Higher](https://open.spotify.com/track/2pW8MxDV77hQvyxjL3tgKi) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [The Remixes](https://open.spotify.com/album/0SI7sJIrvhZtGbUo97t0aX) | 3:36 | 2023-08-11 |  |
 | [Higher](https://open.spotify.com/track/7pBUtlTE8IJZ6mvKloa6T0) | [Matt Fax](https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV), [Boxer](https://open.spotify.com/artist/2BCF7CstRXVyyH72etqztG) | [Higher](https://open.spotify.com/album/6dfeKG9t94b3SZGdESfAqn) | 3:48 | 2022-01-14 | 2022-07-29 |
 | [Hold](https://open.spotify.com/track/0vF6GWMwgKg3wsQkBSIaWY) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [Hold / Clear](https://open.spotify.com/album/7dqvUrexp59UCzp5ZIbDhO) | 4:07 | 2021-08-20 | 2022-07-28 |
-| [Hold Me Close](https://open.spotify.com/track/5TP58ifskW32ppiGWAkSlf) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Harry Diamond](https://open.spotify.com/artist/30XV4Gby1iaSfs16WZ5a4R) | [Hold Me Close](https://open.spotify.com/album/1SRfi9WNI9nakgTdHfpEie) | 3:56 | 2024-08-23 |  |
+| [Hold Me Close](https://open.spotify.com/track/5TP58ifskW32ppiGWAkSlf) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Harry Diamond](https://open.spotify.com/artist/30XV4Gby1iaSfs16WZ5a4R) | [Hold Me Close](https://open.spotify.com/album/1SRfi9WNI9nakgTdHfpEie) | 3:56 | 2024-08-23 | 2024-09-14 |
 | [Holding My Breath](https://open.spotify.com/track/4BibeVR6oBb0nAWi63nJmu) | [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y), [Ali Bakgor](https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs) | [Holding My Breath](https://open.spotify.com/album/2DY5GnMuONqAyiJEMBgGa3) | 2:59 | 2021-12-10 | 2022-07-02 |
 | [Holding On](https://open.spotify.com/track/4yqRW7Ovd47DcgfuWXzEGR) | [Braxton](https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [Holding On](https://open.spotify.com/album/2kTunMwym8g0oFkljWvXZ0) | 3:38 | 2021-05-28 | 2024-04-06 |
 | [Holding On](https://open.spotify.com/track/4qx2dxJIxDjsHwMqdPFT1d) | [Lost Arcade](https://open.spotify.com/artist/2MJJxSNg2dC8LXrOMARUMc), [Matt Young](https://open.spotify.com/artist/02liy1ja3w9cQF0ETR866A) | [Holding On](https://open.spotify.com/album/0L35EUJFGCTkdsW2LM4iuk) | 5:36 | 2021-05-07 | 2022-07-26 |

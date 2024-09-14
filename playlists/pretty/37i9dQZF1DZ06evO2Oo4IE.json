@@ -1,12 +1,12 @@
 {
   "description": "This is Janis Joplin. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 180927,
+  "num_followers": 180953,
   "original_name": "This Is Janis Joplin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuDdgAAAAADQ4DuRxnvsqcDaSW4A8Feq",
+  "snapshot_id": "ZuIvAAAAAACDA36IUrkByGXxQGtvbWW3",
   "tracks": [
     {
       "added_at": null,
@@ -559,18 +559,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Janis: Little Girl Blue (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5F6Th386ar5HNmOkcA0QrK"
+        "name": "Big Brother & The Holding Company",
+        "url": "https://open.spotify.com/album/4W821NJLoB9uHHkAFNXXKu"
       },
       "artists": [
+        {
+          "name": "Big Brother & The Holding Company",
+          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
+        },
         {
           "name": "Janis Joplin",
           "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 224386,
-      "name": "Raise Your Hand - Live at Jahrhunderthalle, Frankfurt, Germany",
-      "url": "https://open.spotify.com/track/6grR9jNzUcXpE8aq80Nqtg"
+      "duration_ms": 143360,
+      "name": "Easy Rider",
+      "url": "https://open.spotify.com/track/6uwJgwm1ipdr7JKNfEjjV1"
     },
     {
       "added_at": null,
@@ -595,22 +599,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Brother & The Holding Company",
-        "url": "https://open.spotify.com/album/4W821NJLoB9uHHkAFNXXKu"
+        "name": "Janis: Little Girl Blue (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5F6Th386ar5HNmOkcA0QrK"
       },
       "artists": [
-        {
-          "name": "Big Brother & The Holding Company",
-          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
-        },
         {
           "name": "Janis Joplin",
           "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 143360,
-      "name": "Easy Rider",
-      "url": "https://open.spotify.com/track/6uwJgwm1ipdr7JKNfEjjV1"
+      "duration_ms": 224386,
+      "name": "Raise Your Hand - Live at Jahrhunderthalle, Frankfurt, Germany",
+      "url": "https://open.spotify.com/track/6grR9jNzUcXpE8aq80Nqtg"
     },
     {
       "added_at": null,

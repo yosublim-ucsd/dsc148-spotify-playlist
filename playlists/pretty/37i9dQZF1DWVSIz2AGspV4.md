@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSIz2AGspV4.md) - [plain]
 
 > أحدث الاغاني العراقية\. غلاف: علي صابر
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,614 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,679 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,13 +48,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSIz2AGspV4.md) - [plain]
 | 38 | [Eleshrah Elghiha](https://open.spotify.com/track/0URvUqpTQ0LL2912CPBSoc) | [Raad And Methaq](https://open.spotify.com/artist/2TS6Y2HXkANqlIC7ZNi5zq) | [Eleshrah Elghiha](https://open.spotify.com/album/586x9WVxxnUSYKk2QZIoOQ) | 3:50 |
 | 39 | [Ahla Men El Gomar](https://open.spotify.com/track/0OuSDfEi7KNaHkZZbXZbQD) | [Ahmed Jawad](https://open.spotify.com/artist/4ZOVwS1XAGOXCKAqTFmsBP) | [Ahla Men El Gomar](https://open.spotify.com/album/3ud7fRBI5oVZvKzkpkURQd) | 2:54 |
 | 40 | [وين انتي](https://open.spotify.com/track/5alJua7mQrq94nPL5cQgxE) | [Ghaith Sabah](https://open.spotify.com/artist/7ktjzPxDqpXT76PMmIHIyT) | [وين انتي](https://open.spotify.com/album/1nevYJu64FZmfQH3UnPMs6) | 1:55 |
-| 41 | [Al Aalam \- العالم](https://open.spotify.com/track/3eeuuyevY7qDLgkmXJ0jWQ) | [Ahmad Abdelsalam](https://open.spotify.com/artist/1QThzrcDgt4b9X8cUCqsbs) | [Al Aalam \(العالم\)](https://open.spotify.com/album/0F3f3ckOIpBXnLHhX1tAbm) | 3:08 |
+| 41 | [Al Aalam \- العالم](https://open.spotify.com/track/3eeuuyevY7qDLgkmXJ0jWQ) | [Ahmad Abdelsalam](https://open.spotify.com/artist/1QThzrcDgt4b9X8cUCqsbs) | [Al Aalam \- العالم](https://open.spotify.com/album/0F3f3ckOIpBXnLHhX1tAbm) | 3:08 |
 | 42 | [Mn Alakher](https://open.spotify.com/track/0iz6oJXP4bApFD0nx6PvZ6) | [Yasser Abd Alwahab](https://open.spotify.com/artist/6257KWddv5693NK51w7iXa) | [Mn Alakher](https://open.spotify.com/album/0j15pXdLFmY9Vuaxdsoe4Q) | 2:59 |
 | 43 | [Methl Eyounech](https://open.spotify.com/track/51fWcoMwz08PdFATIydFMi) | [Mahmood AlGhiath](https://open.spotify.com/artist/7L7OKjCuLFVhDc0tA0RmVi) | [Methl Eyounech](https://open.spotify.com/album/705X273FVbOrvXLU6mBhrU) | 4:05 |
 | 44 | [El Goumar](https://open.spotify.com/track/6TC2P6Nw8yn9fKKPTjjkM9) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [El Goumar](https://open.spotify.com/album/3xMJN5P46bFonTmWSbWteW) | 3:04 |
 | 45 | [دخيلك ارجع](https://open.spotify.com/track/6KMMgPgvhpIssOttUciCpL) | [Karar Salah](https://open.spotify.com/artist/7rIhO4AYbAaZlGQeMAAFg5) | [دخيلك ارجع](https://open.spotify.com/album/3wCN6wClWNnN4wTuEgnLi4) | 3:11 |
 | 46 | [Helo Hal Shuur](https://open.spotify.com/track/3uISh70Fop6BaAEQTpfUSW) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [Helo Hal Shuur](https://open.spotify.com/album/7JHeEldInEzQ2mWDDYeCWv) | 4:34 |
-| 47 | [Ya El Ghashash \- يالغشاش](https://open.spotify.com/track/69F05yNX2cTsQANGxub8Ph) | [Dumooa Tahseen](https://open.spotify.com/artist/0453pwQTyMdU2a66fCFaUQ) | [Ya El Ghashash \(يالغشاش\)](https://open.spotify.com/album/7DbmlwivNtglxYVWxQ807a) | 3:35 |
+| 47 | [Ya El Ghashash \- يالغشاش](https://open.spotify.com/track/69F05yNX2cTsQANGxub8Ph) | [Dumooa Tahseen](https://open.spotify.com/artist/0453pwQTyMdU2a66fCFaUQ) | [Ya El Ghashash \- يالغشاش](https://open.spotify.com/album/7DbmlwivNtglxYVWxQ807a) | 3:35 |
 | 48 | [Tezalzelha](https://open.spotify.com/track/2lqk5xO1TWmd35ygR2ebAH) | [Myriam Fares](https://open.spotify.com/artist/1YnW3KicGQq3zD9LcdGJSh) | [Tezalzelha](https://open.spotify.com/album/6VUhlLQr1uHxDQM4yxrtn9) | 3:24 |
 | 49 | [Ghadr El Bashar](https://open.spotify.com/track/7I8ZzWtrCKMN7EUiVDNz5P) | [Muhannad Khalaf](https://open.spotify.com/artist/7dhc5bHorRHHPuM5SvCKIt) | [Ghadr El Bashar](https://open.spotify.com/album/5B8d4bRxb2Knr6cbVct3Py) | 3:42 |
 | 50 | [Nebqa Sawa](https://open.spotify.com/track/5kzBFesuyoOY3XGlNpdqrB) | [Habeeb Ali](https://open.spotify.com/artist/7KArBbdJ0GLtkEM3LUv1Fj) | [Nebqa Sawa](https://open.spotify.com/album/6zENml6NHJR1O93uc8Ya8J) | 3:29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: KAS:ST
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,795 likes - 109 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,814 likes - 109 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 3 | [2084 \- Space 92 Remix](https://open.spotify.com/track/75SedaGZfay5uZffxEzk7M) | [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [2084 \(Space 92 Remix\)](https://open.spotify.com/album/38Ws4sERTEy1ACzu4CnLFA) | 3:46 |
 | 4 | [All You Got To Do](https://open.spotify.com/track/5RH715X8TaLppRDbNMo8JM) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [All You Got To Do](https://open.spotify.com/album/136Qgr1Nu4k854R4gY4bgK) | 3:06 |
 | 5 | [Hellbound](https://open.spotify.com/track/5fvVLhYMv13ygNvYlHaB5f) | [MashBit](https://open.spotify.com/artist/2ZUktxXMg0flZ5HGHSd5HZ), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Hellbound](https://open.spotify.com/album/3Laz09fHvm5f5lRPkkaJ6E) | 2:57 |
-| 6 | [Lift Me Up](https://open.spotify.com/track/0IxBytxMiyOhfK8yvonEPp) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Kyozo](https://open.spotify.com/artist/6RvOjSdkA47bpr5qejYm1v) | [Lift Me Up \(feat\. Kyozo\)](https://open.spotify.com/album/62dbLJwnEArDhNjiCFgMxA) | 3:53 |
+| 6 | [Lift Me Up \(feat\. Kyozo\)](https://open.spotify.com/track/0IxBytxMiyOhfK8yvonEPp) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Kyozo](https://open.spotify.com/artist/6RvOjSdkA47bpr5qejYm1v) | [Lift Me Up \(feat\. Kyozo\)](https://open.spotify.com/album/62dbLJwnEArDhNjiCFgMxA) | 3:53 |
 | 7 | [Addiction](https://open.spotify.com/track/7eJFz62eqPdmSooYHZWsip) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Oscar L](https://open.spotify.com/artist/28KSeoYQphCQ5cGa0cuUCm) | [Addiction / Yapper](https://open.spotify.com/album/47qmD30x0oZye9bBYAHKkr) | 3:31 |
 | 8 | [Remedy](https://open.spotify.com/track/1j611ghQfHnBMnqSZCoxc8) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Remedy](https://open.spotify.com/album/0q5uRkPKHeKcNoco1IuZ8R) | 2:43 |
 | 9 | [Sierra](https://open.spotify.com/track/5c4gtyaea8i7H1BqRyb2Xp) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Baset](https://open.spotify.com/artist/7ICFbeWRkxZ9JppxYRhtBl) | [Sierra](https://open.spotify.com/album/6WzMt8T4SIuxFBjmgcpSzX) | 3:21 |

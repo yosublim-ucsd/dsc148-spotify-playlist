@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-22",
-  "description": "Sangre fresca en las escenas del indie y el rock. Peces Raros en Portada. ",
+  "description": "Sangre fresca en las escenas del indie y el rock. Margaritas Podridas en Portada. ",
   "name": "EL ROCK NO HA MUERTO",
   "tracks": [
     {
@@ -1268,6 +1268,24 @@
       "duration_ms": 167750,
       "name": "Chansound",
       "url": "https://open.spotify.com/track/5DYQqITcUOID9MucE1v8wZ"
+    },
+    {
+      "album": {
+        "name": "Charlie contra los monjes",
+        "url": "https://open.spotify.com/album/7ADCsFiuDLjyhEwUiAsL0g"
+      },
+      "artists": [
+        {
+          "name": "cacomixtle",
+          "url": "https://open.spotify.com/artist/5BPV50KIHSSKCHuQwh30fP"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192893,
+      "name": "Charlie contra los monjes",
+      "url": "https://open.spotify.com/track/1mxItVgbin5uLud2rrIdqm"
     },
     {
       "album": {
@@ -2822,7 +2840,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 365260,
       "name": "Esa Palabra",
       "url": "https://open.spotify.com/track/5wkflnlId9hD0xpU84KKr6"
@@ -3056,7 +3074,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 198000,
       "name": "Extra\u00f1ando Casa - Soundtrack: Un Tributo a Divisi\u00f3n Min\u00fascula",
       "url": "https://open.spotify.com/track/2TemL4w69BKllitEqHW3Xl"
@@ -3266,7 +3284,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 183385,
       "name": "fui tu esclavo",
       "url": "https://open.spotify.com/track/33OPPlGjxY52iFTNxqaJl9"
@@ -3476,6 +3494,24 @@
       "duration_ms": 176066,
       "name": "Hell You Call A Dream",
       "url": "https://open.spotify.com/track/3LwBBAvEa9qhajKoHlJi4z"
+    },
+    {
+      "album": {
+        "name": "Heridas",
+        "url": "https://open.spotify.com/album/2c3APE4YSB4M7KCjeniApS"
+      },
+      "artists": [
+        {
+          "name": "Vac\u00edos Cuerpos",
+          "url": "https://open.spotify.com/artist/4wyyhGJyiUqJ2LFtjBjEV6"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140142,
+      "name": "Heridas",
+      "url": "https://open.spotify.com/track/5O7my5b6fnKebvMftWecuS"
     },
     {
       "album": {
@@ -7005,6 +7041,24 @@
     },
     {
       "album": {
+        "name": "P\u00f3lvora",
+        "url": "https://open.spotify.com/album/3JqGrzsy5ogAHAshKRv7Ef"
+      },
+      "artists": [
+        {
+          "name": "Margaritas Podridas",
+          "url": "https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193194,
+      "name": "P\u00f3lvora",
+      "url": "https://open.spotify.com/track/0fXWDkTid9Glc2TFQ0Icfp"
+    },
+    {
+      "album": {
         "name": "Que fue lo que Pas\u00f3",
         "url": "https://open.spotify.com/album/52lw9gZ6CxwOj0KLt5aJEW"
       },
@@ -7100,7 +7154,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 204403,
       "name": "RA",
       "url": "https://open.spotify.com/track/6s5Q819P0zK4VJi6nvkDJv"
@@ -7282,6 +7336,24 @@
       "duration_ms": 276932,
       "name": "Rompecabezas (feat. NATURE)",
       "url": "https://open.spotify.com/track/5jE7DHWEY9A51mloK9rMhj"
+    },
+    {
+      "album": {
+        "name": "La L\u00f3gica del Escorpi\u00f3n",
+        "url": "https://open.spotify.com/album/0k2JGzYRZQC3s3ZNTcyHoA"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104566,
+      "name": "Rompela",
+      "url": "https://open.spotify.com/track/3BSA7eRvD25S4oX4rdngpU"
     },
     {
       "album": {
@@ -9034,7 +9106,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 206373,
       "name": "Vida Rockstar",
       "url": "https://open.spotify.com/track/3HJdVteZQwALBdlr0VFlBZ"
@@ -9226,6 +9298,24 @@
       "duration_ms": 176878,
       "name": "Whitexican",
       "url": "https://open.spotify.com/track/5tmN9xtyTHnbr6mfEyclsU"
+    },
+    {
+      "album": {
+        "name": "After Destruction",
+        "url": "https://open.spotify.com/album/7jhSHFst3jCbRlxwvWa7AX"
+      },
+      "artists": [
+        {
+          "name": "Descartes A Kant",
+          "url": "https://open.spotify.com/artist/3f5vjwUNkT5TxEnFxwJh8j"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158300,
+      "name": "Woman Sobbing",
+      "url": "https://open.spotify.com/track/24sZJVKllZwuYRCUuntJFf"
     },
     {
       "album": {

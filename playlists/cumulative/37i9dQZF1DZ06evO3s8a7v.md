@@ -2,7 +2,7 @@
 
 ### [This Is MYA](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3s8a7v)
 
-> This is MYA\. The essential tracks, all in one playlist.
+> This Is MYA\. Los temas esenciales, todos en una lista.
 
 58 songs - 3 hr 2 min
 
@@ -61,7 +61,7 @@
 | [Te Olvidaré](https://open.spotify.com/track/4jrZI0XdexLjrHlBwLbhzL) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Hoy](https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8) | 3:05 | 2023-11-10 |  |
 | [Te Quiero X Eso](https://open.spotify.com/track/6MXtWx5mWkj8XJaEqouzCW) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Te Quiero X Eso](https://open.spotify.com/album/6EMS97vhi3QuWjD8xkt7Uc) | 3:30 | 2023-11-10 |  |
 | [Te Vas](https://open.spotify.com/track/1diR6HzZqvxxeXjgMfoY1c) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Hoy](https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8) | 3:11 | 2023-11-10 |  |
-| [Tu y Yo](https://open.spotify.com/track/1qE7Qo0eM5P2yBVQ0kPlZT) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Hoy](https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8) | 3:28 | 2023-11-10 |  |
+| [Tu y Yo](https://open.spotify.com/track/1qE7Qo0eM5P2yBVQ0kPlZT) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Hoy](https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8) | 3:28 | 2023-11-10 | 2024-09-14 |
 | [Tú](https://open.spotify.com/track/02p12P5arat2ijVU7XcSYk) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [SUENA MYA!](https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO) | 2:43 | 2023-11-10 |  |
 | [Una y Mil Veces](https://open.spotify.com/track/4s0BDnatQJ5uL4BcrOfMG6) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Una y Mil Veces](https://open.spotify.com/album/6lOhEec0gHybly7uWWCRWa) | 3:02 | 2023-11-10 |  |
 | [Universo Paralelo \(Vivo en Buenos Aires\) \(feat\. Nahuel Pennisi\)](https://open.spotify.com/track/3MwjYriKWx26vP1upGreeJ) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Corazón Guerrero / Universo Paralelo \(Vivo en Buenos Aires\)](https://open.spotify.com/album/22JhvTO4iLbvzrgivUK559) | 4:32 | 2023-11-10 |  |

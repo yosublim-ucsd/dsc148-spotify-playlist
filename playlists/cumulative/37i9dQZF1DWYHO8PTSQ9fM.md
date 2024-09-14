@@ -2,7 +2,7 @@
 
 ### [Hot Hits Morocco](https://open.spotify.com/playlist/37i9dQZF1DWYHO8PTSQ9fM)
 
-> Les 50 hits incontournables\. Cover: GIMS, DYSTINCT
+> Les 50 hits incontournables\. Cover: Lazaro
 
 319 songs - 17 hr 9 min
 

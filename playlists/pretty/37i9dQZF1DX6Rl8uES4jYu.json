@@ -1,13 +1,53 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 240361,
+  "num_followers": 240360,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrWUQAAAAABUVzq/Y0kO2lPrRUdi0Ued",
+  "snapshot_id": "ZuO4wAAAAAAuG87Nd8X0eB5DyC23hekh",
   "tracks": [
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "What Dreams Are Made Of",
+        "url": "https://open.spotify.com/album/0kL1SGJErc8xcyAMY2NgMZ"
+      },
+      "artists": [
+        {
+          "name": "Lyrics Born",
+          "url": "https://open.spotify.com/artist/3X3DHASP1G1waqVoEDWMHr"
+        },
+        {
+          "name": "Joyo Velarde",
+          "url": "https://open.spotify.com/artist/421XkmAzrTjRzfKxYG3Den"
+        }
+      ],
+      "duration_ms": 223142,
+      "name": "What Dreams Are Made Of",
+      "url": "https://open.spotify.com/track/1445ytlUaJdffrICHr77at"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Little Bit Of Love",
+        "url": "https://open.spotify.com/album/4Vn0Or9ZlSlXv34n9lF0x7"
+      },
+      "artists": [
+        {
+          "name": "Magic City Hippies",
+          "url": "https://open.spotify.com/artist/1ikg4sypcURm8Vy5GP68xb"
+        },
+        {
+          "name": "Antwaun Stanley",
+          "url": "https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN"
+        }
+      ],
+      "duration_ms": 258784,
+      "name": "Little Bit Of Love",
+      "url": "https://open.spotify.com/track/4IlZ2afqEfOgAtHBbtkQhg"
+    },
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
@@ -1283,22 +1323,6 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "Glad U Came",
-        "url": "https://open.spotify.com/album/2H37NHuufU0kkwLhMwhdLj"
-      },
-      "artists": [
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        }
-      ],
-      "duration_ms": 178080,
-      "name": "Glad U Came",
-      "url": "https://open.spotify.com/track/3g5OlVimHO0rK6qmRiwokX"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
         "name": "No More Lies",
         "url": "https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt"
       },
@@ -1487,22 +1511,6 @@
       "duration_ms": 132133,
       "name": "W.I.T.C.H.",
       "url": "https://open.spotify.com/track/5XemvyG79fcKPl5lgbhplq"
-    },
-    {
-      "added_at": "2023-03-03 05:01:00",
-      "album": {
-        "name": "You'll Love It",
-        "url": "https://open.spotify.com/album/5qNvProy0GS5CWFMnPAlef"
-      },
-      "artists": [
-        {
-          "name": "BYRNE",
-          "url": "https://open.spotify.com/artist/06a0KPufkYNdb0mZ9CcSho"
-        }
-      ],
-      "duration_ms": 156616,
-      "name": "You'll Love It",
-      "url": "https://open.spotify.com/track/1l5VfyPMwAv8Vibd2baoD2"
     },
     {
       "added_at": "2022-04-08 04:01:00",

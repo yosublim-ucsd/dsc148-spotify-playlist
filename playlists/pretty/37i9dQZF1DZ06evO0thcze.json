@@ -1,12 +1,12 @@
 {
   "description": "This is Neto Pe\u00f1a. The essential tracks, all in one playlist.",
-  "num_followers": 51599,
+  "num_followers": 51622,
   "original_name": "This Is Neto Pe\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuDdgAAAAABAiFg48qbKziw5rcQZYiax",
+  "snapshot_id": "ZuIvAAAAAABj0YK6IdL7cQb8ljt35Y7w",
   "tracks": [
     {
       "added_at": null,
@@ -859,6 +859,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cora",
+        "url": "https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 200306,
+      "name": "Lento Y Contento",
+      "url": "https://open.spotify.com/track/3RueKRQPivFxTcDwkTwOjg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Por Tu Piel",
         "url": "https://open.spotify.com/album/4ALasG3sQBw3IZDZUbHiuz"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 221413,
       "name": "Por Tu Piel",
       "url": "https://open.spotify.com/track/0ryHBlMBdjJksukX0xdQh9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cora",
-        "url": "https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 200306,
-      "name": "Lento Y Contento",
-      "url": "https://open.spotify.com/track/3RueKRQPivFxTcDwkTwOjg"
     },
     {
       "added_at": null,
@@ -1315,22 +1315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vamos a Beber",
-        "url": "https://open.spotify.com/album/2jv5642s9t09nUDQmbVPvN"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 190625,
-      "name": "Vamos a Beber",
-      "url": "https://open.spotify.com/track/18cFdBJf22tG8LZtJwWVNP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alto Calibre",
         "url": "https://open.spotify.com/album/57GLdwafwTftYL1TqryiTu"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 171807,
       "name": "Alto Calibre",
       "url": "https://open.spotify.com/track/2wRuhcMahUetbnf7R3nqK5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vamos a Beber",
+        "url": "https://open.spotify.com/album/2jv5642s9t09nUDQmbVPvN"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 190625,
+      "name": "Vamos a Beber",
+      "url": "https://open.spotify.com/track/18cFdBJf22tG8LZtJwWVNP"
     }
   ],
   "unique_name": "This Is Neto Pe\u00f1a",

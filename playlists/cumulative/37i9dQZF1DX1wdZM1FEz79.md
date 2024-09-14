@@ -4,7 +4,7 @@
 
 > Chillout to the coolest Korean folk/acoustic tunes\. \(Cover:saram tto saram\(사람또사람\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-525 songs - 1 day 7 hr 12 min
+527 songs - 1 day 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [babyblue](https://open.spotify.com/track/3G11VWK4YHumpMmJhs11pY) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi) | [babyblue](https://open.spotify.com/album/5THYTuiOWFn46iwKVfJjO2) | 3:48 | 2021-12-10 | 2022-07-29 |
 | [be around me](https://open.spotify.com/track/5Ev5Zaw67LgY4ul2jCsYRt) | [PARKJIWOO](https://open.spotify.com/artist/0NuBvSQbbZW2NL9cwbnpER) | [be around me](https://open.spotify.com/album/2vXDK0SH1vh2ejt3BZaavG) | 2:56 | 2022-12-20 | 2023-01-11 |
 | [Be Love](https://open.spotify.com/track/1Bpk1E0XMCkA30pu1GQLNB) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Be Love](https://open.spotify.com/album/6pc6IdDxGdtDQqYUtI3Oer) | 4:33 | 2022-03-31 | 2022-04-13 |
-| [Be My Birthday](https://open.spotify.com/track/1LMy3gmxy76ZXjoH39Q8NC) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [My Liberation Notes OST Part 5](https://open.spotify.com/album/7eO4p633l3G6FOu3NvNjuB) | 3:14 | 2022-05-13 |  |
+| [Be My Birthday](https://open.spotify.com/track/1LMy3gmxy76ZXjoH39Q8NC) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [My Liberation Notes OST Part 5](https://open.spotify.com/album/7eO4p633l3G6FOu3NvNjuB) | 3:14 | 2022-05-13 | 2024-09-14 |
 | [Be the Light](https://open.spotify.com/track/61B7mbo3BAGqHmPpL29Ehf) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Hometown Cha\-Cha\-Cha, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/52fvqDulBcB8L2D4MXbtXB) | 3:54 | 2022-03-31 |  |
 | [Be with me \- Acoustic Mix](https://open.spotify.com/track/39OvFhBrhWmYne1x6YtBjx) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [Beloved \(Acoustic Mix\)](https://open.spotify.com/album/12AITMfwXY2uvJClZKJcf5) | 4:31 | 2021-12-10 | 2022-04-18 |
 | [Beach Again \(Acoustic Ver.\)](https://open.spotify.com/track/2XenAqDhO1owVxsYeRET65) | [Lee Sang Soon](https://open.spotify.com/artist/2k5qXj4B0cMlBbLJOVQMUJ) | [DU RI JYU WA X LINDA X Let's Dance](https://open.spotify.com/album/00dzK05LKQYLmnNtQIENmB) | 4:21 | 2021-12-10 | 2022-07-24 |
@@ -72,6 +72,7 @@
 | [Calling Your Name \(Feat\. Jeong hae il\)](https://open.spotify.com/track/30koQ2yWTshLUqx0d4xGLG) | [1014](https://open.spotify.com/artist/6DrNvtiDIKjnRsb7S67iKx), [Jeong Haeil](https://open.spotify.com/artist/63AlyeATteOmFWtJPgWlH6) | [Calling Your Name](https://open.spotify.com/album/4HcnHcyHWCqbdXlSuKHDfm) | 3:03 | 2022-12-21 | 2023-01-11 |
 | [Camping Episode: Let's Go Camping \(Music From "Sound Garden"\)](https://open.spotify.com/track/7KlXPh6RPpuNea6wvJY6WY) | [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM) | [Camping Episode: Let's Go Camping \(Music From "Sound Garden"\)](https://open.spotify.com/album/4Vi3kP5TmbgJq1y7K5kIIm) | 2:31 | 2021-12-10 | 2022-06-04 |
 | [Can I Be Me](https://open.spotify.com/track/6EUtGHQUEvqH1LzaitgSXw) | [훈정양](https://open.spotify.com/artist/4dv6MuOGWS4Y6tt7IbTnfp) | [Destined with You \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/14gtejc7d8d85MVpb8mL2E) | 3:26 | 2023-10-09 | 2023-11-26 |
+| [Can you tell me it's okey](https://open.spotify.com/track/31rP2uql9Dt2p1opVSHn15) | [윤그루](https://open.spotify.com/artist/4MKnTdjjVrZzgtbCSAakvO) | [Can you tell me it's okey](https://open.spotify.com/album/3BvYMlbeA8y8Mux9GTXiVe) | 3:34 | 2024-09-13 |  |
 | [Cape](https://open.spotify.com/track/6NpTVrEK8x4oNLiaUartCK) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) | [Cape](https://open.spotify.com/album/4FptBJzdZO2HUTvSF9UrFu) | 4:24 | 2022-10-07 | 2023-05-10 |
 | [Cat 고양이](https://open.spotify.com/track/5MPYoxKteBooWtMDcL97ix) | [TAEG.E](https://open.spotify.com/artist/6gVunSTeWBpsD4pc78szcv) | [Cat 고양이](https://open.spotify.com/album/3WdXtwhYtSGrRuNPShw3L5) | 3:15 | 2022-04-12 | 2022-04-20 |
 | [Celebrity \- Acoustic](https://open.spotify.com/track/6sYwUFG8bG02yRtwDMuc8H) | [Dragon Stone](https://open.spotify.com/artist/0psw89QmbwHJemhN1kqPLh) | [Celebrity \(Acoustic\)](https://open.spotify.com/album/0zDLUzfQQCPFLJiROj5AAG) | 3:24 | 2022-02-10 | 2022-04-14 |
@@ -179,6 +180,7 @@
 | [I know](https://open.spotify.com/track/64EESXEXKE7Tn664PvTXR3) | [Ants](https://open.spotify.com/artist/0VyTbC31dnoiKg02B3PQaL) | [From\. Ants](https://open.spotify.com/album/0iRidimS5YNDgVCNYi44Ll) | 3:41 | 2022-03-31 | 2022-04-17 |
 | [I Miss You](https://open.spotify.com/track/3UmMsNGBhI8tETHEPTEDmX) | [BBAhn](https://open.spotify.com/artist/3WAl6fRK6T9akrM3Cdl4ki) | [I Miss You](https://open.spotify.com/album/63FplSftSgYczV6JYb3Xw7) | 3:17 | 2022-03-31 | 2022-04-10 |
 | [I Miss You](https://open.spotify.com/track/0nF3xRy0k9fxRoi3OliAdW) | [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [I Miss You](https://open.spotify.com/album/11jHxIFQPqV7Y0hKxjc4TC) | 3:24 | 2021-12-10 | 2022-07-11 |
+| [I really like you](https://open.spotify.com/track/4FWhWkLAXTxhe8FRFYNFou) | [Seen Hyun Hee](https://open.spotify.com/artist/3vd412swJreRPEn4cyirZQ) | [I really like you](https://open.spotify.com/album/2C95lPgwGprKSlHYSiBZPG) | 4:11 | 2024-09-13 |  |
 | [I said](https://open.spotify.com/track/0OqIypFPfrwEqyTsVVwboN) | [FR:EDEN](https://open.spotify.com/artist/6psIuXSnGPGKY93Wcj1qeW) | [ENTP](https://open.spotify.com/album/3CVo9XNjQnuNI0cBHfAhBY) | 2:54 | 2022-01-13 | 2022-06-07 |
 | [I said I love you](https://open.spotify.com/track/6o8LGsALvRgiaGdHsh6Uy1) | [WOO JEE WON](https://open.spotify.com/artist/073SnC1tmMizW8NO0qbCLU) | [Homeground](https://open.spotify.com/album/3S4IGPlVVFQlZKes6duYVZ) | 3:55 | 2023-11-03 | 2023-11-10 |
 | [I Wanna Be With You](https://open.spotify.com/track/4BRllgokpqghTc6b52mDMa) | [kimujoo](https://open.spotify.com/artist/73uqvuVKEZuS1oWupN2Btf) | [When I'm With You](https://open.spotify.com/album/08tAEJdZVHvS1I9RzZZaxp) | 3:24 | 2022-01-13 | 2022-06-12 |
@@ -375,7 +377,7 @@
 | [Spring in September](https://open.spotify.com/track/5PkgKQxZ73NxGaKdWrAUNg) | [Ulala Session](https://open.spotify.com/artist/2EFJSNZzGSfLXMfAaxbK2A) | [Spring in September](https://open.spotify.com/album/6iZSNXjixRDZ6owQkOM37K) | 3:43 | 2022-03-31 | 2022-04-11 |
 | [Spring Love \(feat\. Ahin\)](https://open.spotify.com/track/6yfBZ5lr40Ckhas4fAD1r2) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ), [Ahin](https://open.spotify.com/artist/5JNaIRLfD6BwSR0R6jfT6B) | [Spring Love \(feat\. Ahin\)](https://open.spotify.com/album/1rbVqD8VBB5U0pJN5wdLLM) | 3:32 | 2022-03-31 | 2022-04-19 |
 | [Spring With You \(feat\. 20 Years of Age\)](https://open.spotify.com/track/6x2NxClyNFYyxfzr7Accjn) | [Vanilla Acoustic](https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG), [20 Years of Age](https://open.spotify.com/artist/0KaZcu3pEVHfYOnB62eLFp) | [Fit Me](https://open.spotify.com/album/7nGDmQqfUlVvXnmJF4Aid9) | 3:47 | 2022-04-12 | 2022-04-14 |
-| [STAR](https://open.spotify.com/track/0DZ2mMWPkgDwWBnH6gtsQW) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Our Blues, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/7HGYMEqDL4pBarAVmpQDho) | 4:17 | 2022-06-20 |  |
+| [STAR](https://open.spotify.com/track/0DZ2mMWPkgDwWBnH6gtsQW) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Our Blues, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/7HGYMEqDL4pBarAVmpQDho) | 4:17 | 2022-06-20 | 2024-09-14 |
 | [Starfish on your head](https://open.spotify.com/track/6EUu1a2UhYLokK3A3xkmRh) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | ["L"](https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx) | 3:12 | 2024-06-27 | 2024-08-02 |
 | [Starlight](https://open.spotify.com/track/05ho1OFzZj2yGMcEGPKtCF) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Starlight](https://open.spotify.com/album/7hhddpXpVkzeJBgR4zkis2) | 4:33 | 2021-12-10 | 2022-07-21 |
 | [Starlight](https://open.spotify.com/track/3zqS0EHUWTE9BDU3hf2aRd) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Starlight](https://open.spotify.com/album/1NBKHWgypm4yyAbz6PyZEG) | 4:33 | 2022-07-08 | 2023-09-03 |

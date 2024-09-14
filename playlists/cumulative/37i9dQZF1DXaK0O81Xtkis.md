@@ -2,9 +2,9 @@
 
 ### [soda](https://open.spotify.com/playlist/37i9dQZF1DXaK0O81Xtkis)
 
-> make it pop! cover: Mercer Henderson
+> make it pop! cover: Fly By Midnight
 
-1,121 songs - 2 day 7 hr 43 min
+1,124 songs - 2 day 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Capsize](https://open.spotify.com/track/3dVM8JotXWlRZ3TmMweoss) | [Windser](https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1) | [Where the Redwoods Meet the Sea](https://open.spotify.com/album/3XPdCfPF5QctGxYqHGdqoH) | 3:39 | 2022-09-16 | 2023-02-11 |
 | [Capsize](https://open.spotify.com/track/7D27fovf8GDa5ZnJ5hyCqm) | [Windser](https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1) | [Capsize](https://open.spotify.com/album/1iwBYzoshPBAXdBKD6DPS1) | 3:39 | 2022-09-16 | 2022-11-12 |
 | [Car Trouble](https://open.spotify.com/track/3k6ya2E34qLDC8iacwZ7xM) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Car Trouble](https://open.spotify.com/album/72HCvZNzt1VB7QjqY1QYVV) | 5:13 | 2024-03-01 | 2024-03-30 |
+| [Casablanca](https://open.spotify.com/track/5EyZi2wYMNeIK3FPXfXTzG) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ) | [Casablanca](https://open.spotify.com/album/1Ppx2NxJQ6RjRa7SO3z3hN) | 3:40 | 2024-09-13 |  |
 | [Casper](https://open.spotify.com/track/1dV2NyQUs4fnjIt03nsObq) | [Robert Grace](https://open.spotify.com/artist/6W8rk6H6C3Mcj0lALuLVg1) | [Casper](https://open.spotify.com/album/4jgelDulWcFndTEWGLyqJw) | 3:03 | 2023-07-28 | 2023-09-16 |
 | [Catch Myself](https://open.spotify.com/track/6accWkHJFVQElZ5aTwdBMQ) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI) | [Catch Myself](https://open.spotify.com/album/4WB89SSO6zMEYUTvuqVwfV) | 3:19 | 2021-10-29 | 2022-02-05 |
 | [Catching Feelings](https://open.spotify.com/track/0sFO6b53HyYK3PUi41H93d) | [LOWBORN](https://open.spotify.com/artist/0tAM9QPUwdBLBPbtOzJD09) | [Catching Feelings](https://open.spotify.com/album/0ZCt0jWZtI1JZUJ84cLoyC) | 2:47 | 2022-03-25 | 2022-05-28 |
@@ -362,7 +363,7 @@
 | [Girls In Line for the Bathroom](https://open.spotify.com/track/4jcM7Z6rKqsjEWpSTVfjmm) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Tough Boy](https://open.spotify.com/album/6qSBgX2I6aDWvAUrKovMMa) | 2:27 | 2022-02-25 | 2022-04-29 |
 | [Girls Like You](https://open.spotify.com/track/1h9cnXG82LBUy9l1FnYPCA) | [The Attire](https://open.spotify.com/artist/5DPoUW5HGgfsoAelpybURt) | [Songs About Girls Like You](https://open.spotify.com/album/6onQxxLCtldrdnQUkhAzHE) | 2:43 | 2022-03-18 | 2022-06-11 |
 | [Give Me A Kiss](https://open.spotify.com/track/0ocf3HwWhrXtA8r63Vcd2h) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Give Me A Kiss](https://open.spotify.com/album/4Cxkou3pFWfzoLsw9Aonfw) | 2:49 | 2022-08-12 | 2022-10-29 |
-| [Give Me Evil](https://open.spotify.com/track/1Kc071G5vS8xiu3JZALoqr) | [Juliana Madrid](https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx) | [Lifetime](https://open.spotify.com/album/0L7EsLloJZ2ZOqElLqnbw1) | 2:49 | 2024-07-19 |  |
+| [Give Me Evil](https://open.spotify.com/track/1Kc071G5vS8xiu3JZALoqr) | [Juliana Madrid](https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx) | [Lifetime](https://open.spotify.com/album/0L7EsLloJZ2ZOqElLqnbw1) | 2:49 | 2024-07-19 | 2024-09-14 |
 | [give me one more night](https://open.spotify.com/track/07IHD3tqFjJ7ZqBf0YytJZ) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [if this is it..\. \- E.P.](https://open.spotify.com/album/7kZvuaNfHeDkuUEBBbcQXJ) | 3:22 | 2024-06-21 | 2024-08-31 |
 | [Givin Up](https://open.spotify.com/track/3ioUU8TzRPMsN8C4sFi1fz) | [Saint Blonde](https://open.spotify.com/artist/0nLQlvzkknOFtgjAzBCcqq) | [Givin Up](https://open.spotify.com/album/63RtHHVvzPc2dXa8fdq3f9) | 2:28 | 2023-09-08 | 2024-01-05 |
 | [Glad We Didn't Meet](https://open.spotify.com/track/0WFNSbhvCFNPuAdHfMEQV2) | [Mykyl](https://open.spotify.com/artist/42Gj65Q4XQ9hMhLQE5hi7r) | [Glad We Didn't Meet](https://open.spotify.com/album/26SFXMuuftdkZmt4E3gEOH) | 2:50 | 2023-02-24 | 2023-05-06 |
@@ -525,6 +526,7 @@
 | [if jesus saves, she's my type](https://open.spotify.com/track/4OmmvUxdmeew6cIJCxd2VH) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [if jesus saves, she’s my type](https://open.spotify.com/album/31eBckdffuyRK8cKmZYhkH) | 3:37 | 2022-02-18 | 2022-04-09 |
 | [ilu](https://open.spotify.com/track/5IEi6RGx2FaJGtmsrkbpgp) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [ilu](https://open.spotify.com/album/76Dh2doBSUmXzLQzwAExG0) | 2:49 | 2022-06-10 | 2022-08-20 |
 | [Imaginary Friends](https://open.spotify.com/track/276FYBBORL5s6Ob4XJ6eN8) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD), [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [Imaginary Friends](https://open.spotify.com/album/6yx184mN6SndwRgl6PZlLc) | 2:52 | 2022-03-18 | 2022-06-25 |
+| [In His Room](https://open.spotify.com/track/22O3nWcyenKVftNJrJdJK6) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [Up At Night](https://open.spotify.com/album/5lHGdSSI9etvLGqCnuw5eb) | 2:47 | 2024-09-13 |  |
 | [IN THE CLOUDS](https://open.spotify.com/track/3A1r88bLPBHsWW4JCdFyHl) | [DMAD](https://open.spotify.com/artist/4pjMa1uBw63lY4eoVqrfyX) | [IN THE CLOUDS](https://open.spotify.com/album/5y0xWK2xRC7rAfm6VAejnA) | 2:48 | 2023-03-31 | 2023-06-24 |
 | [In The Night](https://open.spotify.com/track/30Lcy59RiXJKMVVkwhfdle) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ) | [In The Night](https://open.spotify.com/album/2tG3UA2b0uZhVge9N7bR0Z) | 3:26 | 2022-09-02 | 2023-07-22 |
 | [Infinitely Falling](https://open.spotify.com/track/7KWf7gZ05NciRE6SXZveds) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ) | [Fictional Illustrations](https://open.spotify.com/album/3xrJrR589weA5sIkdMZuQh) | 2:43 | 2023-03-24 | 2024-01-05 |
@@ -664,6 +666,7 @@
 | [Milk](https://open.spotify.com/track/0fzqnqxwSh5Bmq8sY9tFb9) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Milk](https://open.spotify.com/album/5aUBFfdZTbRNKGACXD4ty8) | 2:12 | 2022-04-01 | 2022-04-09 |
 | [Million Dollar Bills](https://open.spotify.com/track/0AAApVAymzFlQtHJdyw676) | [Jukebox The Ghost](https://open.spotify.com/artist/0L8jXe7QeS9oYUoXbANmX4) | [Million Dollar Bills](https://open.spotify.com/album/28hOjrWUi7zMpjPweimK06) | 3:11 | 2022-04-22 | 2022-05-20 |
 | [Million Dollar Smoothies \(From “American Song Contest”\)](https://open.spotify.com/track/2fvBdEhqqpWKRbxsr3fUC6) | [courtship.](https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8), [American Song Contest](https://open.spotify.com/artist/3pPClIZCqgahG8bguvacGh) | [American Song Contest: Episode 2](https://open.spotify.com/album/6xtyV2AEW6TyiueK8wCmXq) | 2:43 | 2022-03-28 | 2022-05-28 |
+| [Mindless Creatures](https://open.spotify.com/track/5lzZuwEPInxJRwYUQFqIlH) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Dayglow](https://open.spotify.com/album/6dc1gFl6kyF8LqZ9IGfaYx) | 4:38 | 2024-09-13 |  |
 | [Mine](https://open.spotify.com/track/4nb1IKpcYekqY4enXOdNzm) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66) | [Mine](https://open.spotify.com/album/19VC3wBEzuvT9K73l0Jkan) | 3:29 | 2022-01-07 | 2022-02-26 |
 | [MIRACLE](https://open.spotify.com/track/5nzB0LJDNELDNb06PQMrWF) | [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [SUNDAY AT FOXWOODS](https://open.spotify.com/album/6YYgBgZ9yBTZ0l0Wpk9NSQ) | 3:00 | 2023-10-20 | 2024-01-05 |
 | [Miracle](https://open.spotify.com/track/0RFjIMPz5LJuSjtdx5W8bE) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Miracle](https://open.spotify.com/album/3iO9vwhDcD5RBhJRUs6hyF) | 3:02 | 2023-10-13 | 2024-01-05 |
@@ -951,7 +954,7 @@
 | [SYNCOPATE](https://open.spotify.com/track/6s3UHVDqqqNHa1HyynG4VI) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [SYNCOPATE](https://open.spotify.com/album/4jbLhacGYxjKk9wS37eJTL) | 1:58 | 2021-10-29 | 2022-01-08 |
 | [take the hit](https://open.spotify.com/track/7hcNXgnBncyybhQVhTFNd7) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [everything and nothing](https://open.spotify.com/album/1V78TBOwsEy3F87x0rAxhO) | 2:20 | 2024-05-10 | 2024-07-19 |
 | [Takeaway Cup](https://open.spotify.com/track/65CvImGO0oPmybnQix1SVv) | [Chris Bates](https://open.spotify.com/artist/1wMxoWB76tKp8gOJDGRxxJ) | [Takeaway Cup](https://open.spotify.com/album/12PdiG9F9Xz8tFYIZXwUUn) | 2:29 | 2023-09-15 | 2023-10-07 |
-| [Takes One To Know One](https://open.spotify.com/track/7Jc79lucvYoqo3YA44EG8f) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Takes One To Know One](https://open.spotify.com/album/0vVu40KngnoIprNWsy7Chv) | 2:47 | 2024-07-12 |  |
+| [Takes One To Know One](https://open.spotify.com/track/7Jc79lucvYoqo3YA44EG8f) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Takes One To Know One](https://open.spotify.com/album/0vVu40KngnoIprNWsy7Chv) | 2:47 | 2024-07-12 | 2024-09-14 |
 | [Talk to You](https://open.spotify.com/track/6nBeIPYpvl8XYnLarrpFqb) | [Carter Ryan](https://open.spotify.com/artist/2hg54ZO1N0bQXbTlLKWSnc) | [Talk to You](https://open.spotify.com/album/0vOzCiEnmb6tFYeDCPfHDb) | 3:02 | 2024-03-29 | 2024-06-01 |
 | [talking to yourself](https://open.spotify.com/track/15v3hWfg1p3gfjMZ3wJ4WA) | [remy](https://open.spotify.com/artist/4DsVKs4W72RTKOfD3CtTaw) | [you only call when you want something](https://open.spotify.com/album/0BuooxaM5TypVtfhdyAA14) | 2:38 | 2021-10-29 | 2022-01-08 |
 | [Tangerine](https://open.spotify.com/track/2JSwrpnYbxzKJVmc69cGZ9) | [Anthony Watts](https://open.spotify.com/artist/52S7chJRLMM0ueWjN6hhn1), [Anthony Russo](https://open.spotify.com/artist/6PFcrRZezCL5p9A0nwb7ki) | [Tangerine](https://open.spotify.com/album/61vdGknCYTjcsJFBc6KYcq) | 3:07 | 2022-05-20 | 2022-08-27 |
@@ -1021,7 +1024,7 @@
 | [Track Shoes](https://open.spotify.com/track/7hMUIwPmSkuGMHli2ZV1qQ) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb) | [Track Shoes](https://open.spotify.com/album/5cEAJJI3lKivMvPwyn43k0) | 3:06 | 2021-10-29 | 2022-01-22 |
 | [Trackstar](https://open.spotify.com/track/4b2ZdHby2AzqbZqZpjLhKp) | [Juliana Madrid](https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx) | [Trackstar](https://open.spotify.com/album/436EBY5YaPt5lkdSwm6Ude) | 3:26 | 2023-05-26 | 2023-08-26 |
 | [Trauma](https://open.spotify.com/track/48JqgW96LVIcrE4umJweWw) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Trauma](https://open.spotify.com/album/2wYh1adQn0CaWPlJMHFo56) | 2:43 | 2023-08-08 | 2023-10-30 |
-| [Treadmill](https://open.spotify.com/track/0ewQUWupKrDmYFhhiyjqaA) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Treadmill](https://open.spotify.com/album/1lnKUpRIc0wAcnMP9scVlJ) | 3:13 | 2024-06-28 |  |
+| [Treadmill](https://open.spotify.com/track/0ewQUWupKrDmYFhhiyjqaA) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Treadmill](https://open.spotify.com/album/1lnKUpRIc0wAcnMP9scVlJ) | 3:13 | 2024-06-28 | 2024-09-14 |
 | [TREBUCHET](https://open.spotify.com/track/78iAaClMArrG8LkVfhywSZ) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb) | [TREBUCHET](https://open.spotify.com/album/2gRD30JoXVJ3FZPUXxH9CP) | 2:35 | 2023-01-27 | 2023-03-25 |
 | [TRENDSETTER](https://open.spotify.com/track/2IoQzlp7Q43spYYriDyHn9) | [DXRKNOVA](https://open.spotify.com/artist/4P8JfVa8eBo9subUetsNRV), [jvstblake](https://open.spotify.com/artist/5SxRN6YmVzqVecObct98Zj) | [TRENDSETTER](https://open.spotify.com/album/7yAP8wmCWTfXZd21167KIp) | 2:46 | 2024-04-19 | 2024-04-27 |
 | [Trouble With This Bed](https://open.spotify.com/track/5wLhOIYBr7i5k8MPaXJYjh) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Trouble With This Bed](https://open.spotify.com/album/47sLITsveH5BfAQIAgLitj) | 3:46 | 2022-11-11 | 2023-02-11 |

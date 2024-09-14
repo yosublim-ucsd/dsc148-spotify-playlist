@@ -4,7 +4,7 @@
 
 > Nieuw deze week \- Nouveautés de la semaine\. Cover: Eefje de Visser
 
-1,813 songs - 4 day 0 hr 2 min
+1,814 songs - 4 day 0 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -378,6 +378,7 @@
 | [Dance With Me](https://open.spotify.com/track/2I5ipWaIXUknimwtJPoPYt) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dance With Me](https://open.spotify.com/album/1wkUCIDGpYN0PEIcyG4dS6) | 3:45 | 2024-06-20 | 2024-06-28 |
 | [Dance With The Devil](https://open.spotify.com/track/45wa8hJ0kmnoFHe3Q2b7wD) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Dance With The Devil](https://open.spotify.com/album/5G78ENtLhRyWmGjXL2CGTo) | 3:30 | 2024-06-27 | 2024-07-05 |
 | [Dancing in the Dirt](https://open.spotify.com/track/6SzIWDgalsxa2IIJ24C6Ik) | [Galine](https://open.spotify.com/artist/1DFbUtrAHgEHrZOnptv03D) | [Dancing in the Dirt](https://open.spotify.com/album/4nxLC4lq2pNY1wDx2Nztgk) | 3:15 | 2024-05-23 | 2024-06-01 |
+| [Dancing In The Flames](https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dancing In The Flames](https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g) | 3:40 | 2024-09-12 |  |
 | [Dangerous Game](https://open.spotify.com/track/6prAk2bdkEmjsWBbxOhM8m) | [Used](https://open.spotify.com/artist/4sewbfr40so8t6Zfh9tmoK) | [Dangerous Game](https://open.spotify.com/album/34sdJX8LrRCYMeLNNGBXeP) | 2:40 | 2024-07-04 | 2024-07-12 |
 | [Dansen Met Jou \(Let's Dance\)](https://open.spotify.com/track/5Sema6feKUgeiRfmB3KMJt) | [Jo Vally](https://open.spotify.com/artist/1h1uv3Y1MAMrpIeRbN2vFS) | [45/65](https://open.spotify.com/album/6NJrFELY2zW42BWeBog2hn) | 3:08 | 2024-05-02 | 2024-05-10 |
 | [DARK VADOR 2](https://open.spotify.com/track/6y0m0wEdOqk8C6oM5ueXVi) | [Lord Gasmique](https://open.spotify.com/artist/2nS6z4DOaQEdTNEMBFq2Ee) | [DARK VADOR 2](https://open.spotify.com/album/1Kdy2JUyGBBODtewTen9wU) | 2:42 | 2024-07-26 | 2024-08-02 |

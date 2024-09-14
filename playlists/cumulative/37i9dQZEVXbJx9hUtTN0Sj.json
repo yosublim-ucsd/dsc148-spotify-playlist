@@ -2235,6 +2235,24 @@
     },
     {
       "album": {
+        "name": "Depuis le temps - Part. 2",
+        "url": "https://open.spotify.com/album/5liaAwKXqnLAhpBconEDR6"
+      },
+      "artists": [
+        {
+          "name": "Bouss",
+          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176248,
+      "name": "Ca parle mal",
+      "url": "https://open.spotify.com/track/7ifFhxRIvYbe4IuzIkY2Qi"
+    },
+    {
+      "album": {
         "name": "Can't Get You Outta My Head",
         "url": "https://open.spotify.com/album/5T1QnJXPIQ97h3tXNcdLLJ"
       },
@@ -7838,7 +7856,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 107715,
       "name": "LAURA",
       "url": "https://open.spotify.com/track/3GmzvtBcGm0bxQvpRZUnzb"
@@ -9252,7 +9270,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-17",
+      "date_removed": null,
       "duration_ms": 141314,
       "name": "Monaco",
       "url": "https://open.spotify.com/track/2tT8SYE7NnNDKbBsHWPIDY"
@@ -12936,7 +12954,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 157279,
       "name": "Taste",
       "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"

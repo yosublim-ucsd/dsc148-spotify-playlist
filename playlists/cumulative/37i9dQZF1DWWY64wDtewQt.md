@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-751 songs - 1 day 3 hr 57 min
+752 songs - 1 day 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [AUTOMOTIVO PEGA 1.0](https://open.spotify.com/track/5aaV7gu7LObD7h5crmnssY) | [Phonk Killer](https://open.spotify.com/artist/4Xpfcr6PHXIPeoCBlXNwtC), [PHOROMANE](https://open.spotify.com/artist/0rsjzDQH2RbP6RsJk5cvz7), [MC Guto VGS](https://open.spotify.com/artist/62aZgEriKUCni3x4j55BGF) | [AUTOMOTIVO PEGA 1.0](https://open.spotify.com/album/7u2xWRhQHjvi4h947qgDAf) | 1:34 | 2024-02-09 |  |
 | [Automotivo XM, Taka Taka Taka Tá](https://open.spotify.com/track/4rKg1ll9sfAvDa3sqeaL9C) | [Dj Brunin XM](https://open.spotify.com/artist/6MSMZkBlZT4vhQmjO5Ynv3), [Mc Lullu](https://open.spotify.com/artist/62NFUnRQI3ctTgZdCquSHD), [Mc Erikah](https://open.spotify.com/artist/0TxoLMLA79mHKkRRe2dxEs), [Kinechan](https://open.spotify.com/artist/6av4qugr2BXsFc4BDGUzPF) | [Automotivo XM, Taka Taka Taka Tá](https://open.spotify.com/album/12djCPA2ISdr1H8jbU9lIY) | 2:11 | 2024-02-23 | 2024-05-18 |
 | [Autumn Wind](https://open.spotify.com/track/0vwMdWKwS4mjeKiYvEq5Vc) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Autumn Wind](https://open.spotify.com/album/6sJ0X7UrBbVkh0VRuMCzaJ) | 2:09 | 2021-12-03 | 2022-07-16 |
-| [AVANGARD](https://open.spotify.com/track/3cTgvsTJZA5qwSZ3F8sKDz) | [LONOWN](https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw) | [AVANGARD](https://open.spotify.com/album/15LsgZDm81u6XV0IXsdxaD) | 2:36 | 2024-08-16 |  |
+| [AVANGARD](https://open.spotify.com/track/3cTgvsTJZA5qwSZ3F8sKDz) | [LONOWN](https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw) | [AVANGARD](https://open.spotify.com/album/15LsgZDm81u6XV0IXsdxaD) | 2:36 | 2024-08-16 | 2024-09-14 |
 | [AVANGARD \- Slowed](https://open.spotify.com/track/36KN8cwJgQmIOYaUS0Lvvu) | [LONOWN](https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw) | [AVANGARD \(Slowed\)](https://open.spotify.com/album/6Ye61eIVj9IhshMtVmYRNM) | 3:19 | 2024-08-30 |  |
 | [AVOID ME](https://open.spotify.com/track/5FX30idriKlEIRYTxpNf65) | [KUTE](https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX) | [AVOID ME](https://open.spotify.com/album/1LwLabogNr1KwEHU1EnSRZ) | 1:45 | 2022-05-13 |  |
 | [AVOID ME 3](https://open.spotify.com/track/7dXyRgDZlQnA5OU1SPD1oe) | [KUTE](https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX) | [AVOID ME 3](https://open.spotify.com/album/5kf90TbEQ8yQ8n2RuKV7NO) | 2:00 | 2022-08-05 | 2022-11-12 |
@@ -227,7 +227,7 @@
 | [DYNAMIC](https://open.spotify.com/track/3qVSfd3Z2fmJKfHZeOweyQ) | [SHADXWBXRN](https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx) | [DYNAMIC](https://open.spotify.com/album/3IsXhqut1v9sbGsID7VGcS) | 2:00 | 2022-08-12 | 2023-03-18 |
 | [EASY PEAZY](https://open.spotify.com/track/1e6ZXuLRtWnXhwvJftJYuB) | [ROMANTICA](https://open.spotify.com/artist/3Z2tyxT1pjQnZtkwGQngi6), [Lestmor](https://open.spotify.com/artist/3udoTlgIpeC1VAFeR8BcPK) | [EASY PEAZY](https://open.spotify.com/album/2gcyMDMKwpT4kpZ1HhITH8) | 2:49 | 2023-06-23 | 2023-09-09 |
 | [ECHO OF TERROR](https://open.spotify.com/track/6CN5O0edKbnXUJCNDIjZJy) | [requi3m](https://open.spotify.com/artist/1dzhL0wTs2Skw8ZI6IuiMl) | [ECHO OF TERROR](https://open.spotify.com/album/4EIlEJkbTHCaCHLIiDiXUY) | 2:54 | 2023-05-05 | 2023-07-15 |
-| [EI DO SENSACIO!](https://open.spotify.com/track/7lujohaF0wFVB2tzR2FsHm) | [princce](https://open.spotify.com/artist/0oGN0s7dqyWbR41yMsNs0R), [FR3ST](https://open.spotify.com/artist/2YXKTfoEjKVzCNI0J6rHbQ) | [EI DO SENSACIO!](https://open.spotify.com/album/0wphyOHE1uP8vQiseGmZFN) | 1:41 | 2024-09-06 |  |
+| [EI DO SENSACIO!](https://open.spotify.com/track/7lujohaF0wFVB2tzR2FsHm) | [princce](https://open.spotify.com/artist/0oGN0s7dqyWbR41yMsNs0R) | [EI DO SENSACIO!](https://open.spotify.com/album/0wphyOHE1uP8vQiseGmZFN) | 1:41 | 2024-09-06 |  |
 | [Ela Joga na Hora](https://open.spotify.com/track/4EV2AD1AL9AV7eY0jhAY1k) | [Mc Pogba](https://open.spotify.com/artist/2sQHo73pQF1OTq3lDuQhlO), [DJ Guih Da ZO](https://open.spotify.com/artist/0rb23mC6LLZ3o15qcdSzjx) | [Ela Joga na Hora](https://open.spotify.com/album/5Q5Q1X31y4eM4A4Nz7cGKb) | 2:12 | 2024-07-12 |  |
 | [End of the World \- Slowed](https://open.spotify.com/track/7gCzXPNidSb1BSSdrbQ7VR) | [FORGOTTENAGE](https://open.spotify.com/artist/75eUSWg8Tt9PZLiFWjascC) | [End of the World \(Slowed\)](https://open.spotify.com/album/0j1BNnTDgLqQtn9wuxyZFj) | 3:03 | 2021-10-25 | 2022-07-09 |
 | [Endless Love](https://open.spotify.com/track/49eccJME4fYJnOwCmJMXfV) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5), [OBLXKQ](https://open.spotify.com/artist/5kJn98Wf7hk1J7nn5sg67l) | [Endless Love](https://open.spotify.com/album/3kVn6aEV0Rmz5nUg4Ws1vw) | 2:59 | 2021-09-10 | 2022-05-14 |
@@ -544,6 +544,7 @@
 | [pulse \- slowed](https://open.spotify.com/track/372rmyPPtoYC4z4QYt0mWW) | [isq](https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s) | [pulse](https://open.spotify.com/album/3uZ6WC66oVP9BH2isXLe2x) | 1:37 | 2024-04-19 | 2024-06-15 |
 | [Puncher](https://open.spotify.com/track/54NEDYt9RTc7PCLm4AUftc) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Puncher](https://open.spotify.com/album/0eIvnyjPYzjCAV5dBuAoQW) | 2:02 | 2023-03-31 | 2023-05-06 |
 | [PURE MONSTROSITY](https://open.spotify.com/track/5P9317yVhHAtnriqWrcZtJ) | [PlayaPhonk](https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D) | [PURE MONSTROSITY](https://open.spotify.com/album/1GCVqsTt7X89UMhZrrLRXH) | 2:16 | 2022-02-18 | 2022-07-23 |
+| [PYTHON FUNK](https://open.spotify.com/track/4YvxfQF9QCXykqi2ahREC4) | [RD12](https://open.spotify.com/artist/62D4KEvQMmmK88mTkkWx6Q), [Sayfalse](https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB) | [PYTHON FUNK](https://open.spotify.com/album/7JslfZtjZ430btdARyxLQ4) | 1:14 | 2024-09-13 |  |
 | [Queen of Pain](https://open.spotify.com/track/5IJWadF9aEwG1H4iIrYyUz) | [VØJ](https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI), [Lastfragment](https://open.spotify.com/artist/0prNIqZMr1aog4xj7qQo1A) | [Queen of Pain](https://open.spotify.com/album/4YFPxJZXuhPECSmw9kb5Cf) | 2:13 | 2022-05-20 | 2022-09-24 |
 | [RAGNAROK](https://open.spotify.com/track/0sKnOjW5WWvzLVO2BAMPzd) | [chyxz](https://open.spotify.com/artist/6iWgYyd1erLvfDuafIT9DG), [SLOWYMANE](https://open.spotify.com/artist/2pw1uH6zGd0WlW4DNlFRMu) | [RAGNAROK](https://open.spotify.com/album/4gBN7mOkf23CU4xdZidzaH) | 3:15 | 2022-08-19 | 2022-08-26 |
 | [RAGNAROK](https://open.spotify.com/track/1sWb35nydLCjD71JGURDEv) | [chyxz](https://open.spotify.com/artist/6iWgYyd1erLvfDuafIT9DG), [SLOWYMANE](https://open.spotify.com/artist/2pw1uH6zGd0WlW4DNlFRMu) | [RAGNAROK](https://open.spotify.com/album/45pOAmgOLYGcAU9r4yscc9) | 3:15 | 2022-08-19 | 2023-03-04 |

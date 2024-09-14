@@ -1,12 +1,12 @@
 {
   "description": "This is Moneybagg Yo. The essential tracks, all in one playlist.",
-  "num_followers": 90528,
+  "num_followers": 90557,
   "original_name": "This Is Moneybagg Yo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuDdgAAAAAB1lVI7GB2vWVcAxm94LpTj",
+  "snapshot_id": "ZuIvAAAAAADN7bIw1zXeAmTWh2wE3o7v",
   "tracks": [
     {
       "added_at": null,
@@ -291,26 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SPEAK NOW",
-        "url": "https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "DRUNK OFF U (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/1EA7RoWxVBZUHXl2tNtAwQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Too Hard",
         "url": "https://open.spotify.com/album/750APP0eKVlcgOxaZnBnVt"
       },
@@ -327,6 +307,22 @@
       "duration_ms": 169186,
       "name": "All Of A Sudden",
       "url": "https://open.spotify.com/track/0XOMoQbYxYPVLxwK4VDmNA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SPEAK NOW",
+        "url": "https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 166956,
+      "name": "TRYNA MAKE SURE",
+      "url": "https://open.spotify.com/track/1su0sROPqYGSrq9YVm7mxl"
     },
     {
       "added_at": null,
@@ -367,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SPEAK NOW",
-        "url": "https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 166956,
-      "name": "TRYNA MAKE SURE",
-      "url": "https://open.spotify.com/track/1su0sROPqYGSrq9YVm7mxl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Time Served",
         "url": "https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 164753,
       "name": "U Played (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/7qeWNGBqqagdwf4KnjRzGZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SPEAK NOW",
+        "url": "https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "DRUNK OFF U (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/1EA7RoWxVBZUHXl2tNtAwQ"
     },
     {
       "added_at": null,
@@ -439,26 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SPEAK NOW",
-        "url": "https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        },
-        {
-          "name": "Rob49",
-          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "BUSSIN (with Rob49)",
-      "url": "https://open.spotify.com/track/01KJrCWiFFdOkthB0rLFpq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Public Housing",
         "url": "https://open.spotify.com/album/3H7rkiYB6yjsuMZbxApOCn"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 184067,
       "name": "Certified Dripper 2 (with MoneyBagg Yo)",
       "url": "https://open.spotify.com/track/20sAxIvSvNJxcB8XPHm7ir"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SPEAK NOW",
+        "url": "https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "BUSSIN (with Rob49)",
+      "url": "https://open.spotify.com/track/01KJrCWiFFdOkthB0rLFpq"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SPEAK NOW",
-        "url": "https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 139867,
-      "name": "PLAY DA FOOL",
-      "url": "https://open.spotify.com/track/2r2P4BdOx5thvw5lYR84t3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Code Red",
         "url": "https://open.spotify.com/album/4faPRidDvKRvHnWdvmvVHv"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 157480,
       "name": "SRT (feat. BIG30 & Pooh Shiesty)",
       "url": "https://open.spotify.com/track/0VohK45FIUHEMBbfUw8iBM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SPEAK NOW",
+        "url": "https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 139867,
+      "name": "PLAY DA FOOL",
+      "url": "https://open.spotify.com/track/2r2P4BdOx5thvw5lYR84t3"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SPEAK NOW",
-        "url": "https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 139150,
-      "name": "SPEAK",
-      "url": "https://open.spotify.com/track/3kZTs4DX113J0YjNl6e6H1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RESET",
         "url": "https://open.spotify.com/album/547DJFUYOl2SBYJbo2jZX1"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 181773,
       "name": "Fall Down (feat. Kevin Gates & Rvssian)",
       "url": "https://open.spotify.com/track/4z7OagqDCwZjkZBedfA0OG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SPEAK NOW",
+        "url": "https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 139150,
+      "name": "SPEAK",
+      "url": "https://open.spotify.com/track/3kZTs4DX113J0YjNl6e6H1"
     },
     {
       "added_at": null,
@@ -695,26 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gangsta Art 2",
-        "url": "https://open.spotify.com/album/537PniwRvDxpD7zjGsEQlA"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        },
-        {
-          "name": "CMG The Label",
-          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
-        }
-      ],
-      "duration_ms": 128009,
-      "name": "50/50 (Moneybagg Yo)",
-      "url": "https://open.spotify.com/track/1aOKOAnj6s8JOgxCEKx4OP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What It Means To Be King",
         "url": "https://open.spotify.com/album/3nrdCjP7QGBqMEutGTtT1B"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 185213,
       "name": "Trust Nothing (feat. Moneybagg Yo)",
       "url": "https://open.spotify.com/track/41jxlPqpPqiky977DkJrpY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gangsta Art 2",
+        "url": "https://open.spotify.com/album/537PniwRvDxpD7zjGsEQlA"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "CMG The Label",
+          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
+        }
+      ],
+      "duration_ms": 128009,
+      "name": "50/50 (Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/1aOKOAnj6s8JOgxCEKx4OP"
     },
     {
       "added_at": null,
@@ -771,6 +771,30 @@
       "duration_ms": 113826,
       "name": "A Gangsta\u2019s Pain",
       "url": "https://open.spotify.com/track/3bnM8xTlWUoaLh6JLogbw8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Type A N***a",
+        "url": "https://open.spotify.com/album/7ixz0AWnSc5jyadYwmebkU"
+      },
+      "artists": [
+        {
+          "name": "Nino Breeze",
+          "url": "https://open.spotify.com/artist/5hdJowXyDT6CIEAXXToqUt"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 246400,
+      "name": "Type A N***a",
+      "url": "https://open.spotify.com/track/2E5JwQRxlWVKs7OjRbMyFQ"
     },
     {
       "added_at": null,
@@ -919,30 +943,6 @@
       "duration_ms": 173161,
       "name": "Splash (feat. Moneybagg Yo)",
       "url": "https://open.spotify.com/track/3GW3dMxqIbl14cZtpLRQBy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Type A N***a",
-        "url": "https://open.spotify.com/album/7ixz0AWnSc5jyadYwmebkU"
-      },
-      "artists": [
-        {
-          "name": "Nino Breeze",
-          "url": "https://open.spotify.com/artist/5hdJowXyDT6CIEAXXToqUt"
-        },
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
-        },
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 246400,
-      "name": "Type A N***a",
-      "url": "https://open.spotify.com/track/2E5JwQRxlWVKs7OjRbMyFQ"
     },
     {
       "added_at": null,

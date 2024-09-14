@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Romania.",
-  "num_followers": 34239,
+  "num_followers": 34247,
   "original_name": "Top 50 - Romania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LnZWyAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "Lnel8AAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-09-12 12:57:46",
+      "added_at": "2024-09-13 12:55:49",
       "album": {
         "name": "MUSE",
         "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
     },
     {
-      "added_at": "2024-09-12 12:57:46",
+      "added_at": "2024-09-13 12:55:49",
       "album": {
         "name": "Voila",
         "url": "https://open.spotify.com/album/2Ca2IsS4Yle1zUL6w5ryVP"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/4Kxn0Ix6IDWLnkGxmb4i2D"
     },
     {
-      "added_at": "2024-09-12 12:57:46",
+      "added_at": "2024-09-13 12:55:49",
       "album": {
         "name": "Hai sa ne iubim ca nemtii",
         "url": "https://open.spotify.com/album/2VfTTanjjQHbgRgF4Gften"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/2yUZv6utvoeV0B79YSn7pq"
     },
     {
-      "added_at": "2024-09-12 12:57:46",
+      "added_at": "2024-09-13 12:55:49",
       "album": {
         "name": "Amo, Amo",
         "url": "https://open.spotify.com/album/0XyqaA2Aox5hnUJ6UlJTIh"
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/0gOjMBj92rLOX6M134LMMh"
     },
     {
-      "added_at": "2024-09-12 12:57:46",
+      "added_at": "2024-09-13 12:55:49",
       "album": {
         "name": "P\u0103i naa",
         "url": "https://open.spotify.com/album/3DEotmKWHGF5DUHwXfgu5Q"
@@ -101,7 +101,7 @@
       "url": "https://open.spotify.com/track/3BAZCKKEbilNdQgTSLBca9"
     },
     {
-      "added_at": "2024-09-12 12:57:46",
+      "added_at": "2024-09-13 12:55:49",
       "album": {
         "name": "Lamborghini",
         "url": "https://open.spotify.com/album/5bW7HtCbJ6bNSwoJYRBGXF"
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/4KzxeD91DwTgMu0uArD6tg"
     },
     {
-      "added_at": "2024-09-12 12:57:46",
+      "added_at": "2024-09-13 12:55:49",
       "album": {
         "name": "Baklava",
         "url": "https://open.spotify.com/album/7FCxU7klbvof984RWinLZh"
@@ -141,7 +141,7 @@
       "url": "https://open.spotify.com/track/5jDcoEETEDGuFlKhPm6eIq"
     },
     {
-      "added_at": "2024-09-12 12:57:46",
+      "added_at": "2024-09-13 12:55:49",
       "album": {
         "name": "Yali, Yali",
         "url": "https://open.spotify.com/album/0qgh0U9W9KHTcOWwEZVb2g"
@@ -161,23 +161,7 @@
       "url": "https://open.spotify.com/track/4TLyVQPY9Kuwh9ptK9NZBn"
     },
     {
-      "added_at": "2024-09-12 12:57:46",
-      "album": {
-        "name": "Ia-ma Du-ma",
-        "url": "https://open.spotify.com/album/3TzG3jZWUvo2P6KqgQUBfG"
-      },
-      "artists": [
-        {
-          "name": "Babasha",
-          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Ia-ma Du-ma",
-      "url": "https://open.spotify.com/track/7dpjndI7KXtTVAERTplKMw"
-    },
-    {
-      "added_at": "2024-09-12 12:57:46",
+      "added_at": "2024-09-13 12:55:49",
       "album": {
         "name": "Merhaba (Stil Turcesc)",
         "url": "https://open.spotify.com/album/184PJI3t6mfGCFlZ2h6Lbm"
@@ -197,7 +181,43 @@
       "url": "https://open.spotify.com/track/5gGT2pleKQwQuiKxz5wYfe"
     },
     {
-      "added_at": "2024-09-12 12:57:46",
+      "added_at": "2024-09-13 12:55:49",
+      "album": {
+        "name": "Ia-ma Du-ma",
+        "url": "https://open.spotify.com/album/3TzG3jZWUvo2P6KqgQUBfG"
+      },
+      "artists": [
+        {
+          "name": "Babasha",
+          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Ia-ma Du-ma",
+      "url": "https://open.spotify.com/track/7dpjndI7KXtTVAERTplKMw"
+    },
+    {
+      "added_at": "2024-09-13 12:55:49",
+      "album": {
+        "name": "RELUARI/REVENGE",
+        "url": "https://open.spotify.com/album/3O7qRd0ig4ElY27AmyksBg"
+      },
+      "artists": [
+        {
+          "name": "NERO",
+          "url": "https://open.spotify.com/artist/28QWT8cyAdy7H1GyVMT3lI"
+        },
+        {
+          "name": "Silenzio",
+          "url": "https://open.spotify.com/artist/44VqHbQLpdFsB1XT99AHPS"
+        }
+      ],
+      "duration_ms": 102062,
+      "name": "RELUARI/REVENGE",
+      "url": "https://open.spotify.com/track/4IHYzgo8bC8Co34J3B59M3"
+    },
+    {
+      "added_at": "2024-09-13 12:55:49",
       "album": {
         "name": "Nebunia lui Babasha",
         "url": "https://open.spotify.com/album/2dsOrPXut5OgnIqeymk1Or"
@@ -217,23 +237,7 @@
       "url": "https://open.spotify.com/track/4lq4TC1NoJJOOQlNis8YYN"
     },
     {
-      "added_at": "2024-09-12 12:57:46",
-      "album": {
-        "name": "Hustler",
-        "url": "https://open.spotify.com/album/6Xy6jJdpb5Cck12U7pHA1E"
-      },
-      "artists": [
-        {
-          "name": "Sami G",
-          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
-        }
-      ],
-      "duration_ms": 173437,
-      "name": "Sper Ca Esti Bine",
-      "url": "https://open.spotify.com/track/6WUGsDp56TjkMRrF5WsElJ"
-    },
-    {
-      "added_at": "2024-09-12 12:57:46",
+      "added_at": "2024-09-13 12:55:49",
       "album": {
         "name": "LUCIFER",
         "url": "https://open.spotify.com/album/7cZxVrz4JkxEP4lVrqX9NS"
@@ -253,7 +257,23 @@
       "url": "https://open.spotify.com/track/1rphOlDQNt1BrIvc4zn5uq"
     },
     {
-      "added_at": "2024-09-12 12:57:46",
+      "added_at": "2024-09-13 12:55:49",
+      "album": {
+        "name": "Hustler",
+        "url": "https://open.spotify.com/album/6Xy6jJdpb5Cck12U7pHA1E"
+      },
+      "artists": [
+        {
+          "name": "Sami G",
+          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
+        }
+      ],
+      "duration_ms": 173437,
+      "name": "Sper Ca Esti Bine",
+      "url": "https://open.spotify.com/track/6WUGsDp56TjkMRrF5WsElJ"
+    },
+    {
+      "added_at": "2024-09-13 12:55:49",
       "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
@@ -273,7 +293,7 @@
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
-      "added_at": "2024-09-12 12:57:46",
+      "added_at": "2024-09-13 12:55:49",
       "album": {
         "name": "Vorba Francezului (From \"Buzz House\" The Movie)",
         "url": "https://open.spotify.com/album/5JAP6CrNvHpfmD29ml9wB6"
@@ -293,63 +313,7 @@
       "url": "https://open.spotify.com/track/1lb1SBZXMocgE9O93dfxRr"
     },
     {
-      "added_at": "2024-09-12 12:57:46",
-      "album": {
-        "name": "REGINA",
-        "url": "https://open.spotify.com/album/5v1ISrc4VsxiFhoxJj1Qk8"
-      },
-      "artists": [
-        {
-          "name": "NOUA UNSPE",
-          "url": "https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp"
-        }
-      ],
-      "duration_ms": 138666,
-      "name": "REGINA",
-      "url": "https://open.spotify.com/track/5yGAxh5wM6di5gmlD79jDY"
-    },
-    {
-      "added_at": "2024-09-12 12:57:46",
-      "album": {
-        "name": "BAGS IN THIS B*TCH",
-        "url": "https://open.spotify.com/album/7pyrxbNspDLhlN7SlitvHx"
-      },
-      "artists": [
-        {
-          "name": "Marko Glass",
-          "url": "https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS"
-        }
-      ],
-      "duration_ms": 138808,
-      "name": "BAGS IN THIS B*TCH",
-      "url": "https://open.spotify.com/track/0RGDLi89VQJLv2j5owaHcD"
-    },
-    {
-      "added_at": "2024-09-12 12:57:46",
-      "album": {
-        "name": "SUNETE 2",
-        "url": "https://open.spotify.com/album/2CSdv5brTnCOhv9HxWlCxl"
-      },
-      "artists": [
-        {
-          "name": "andrei",
-          "url": "https://open.spotify.com/artist/5tXxrzPQRZ7UK2cAQNSQW2"
-        },
-        {
-          "name": "DZWS",
-          "url": "https://open.spotify.com/artist/5ChWT8CfHjk2PnRG70ZgWV"
-        },
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0CubchptrDNV9ei0oA5u3k"
-        }
-      ],
-      "duration_ms": 134519,
-      "name": "SUNETE 2",
-      "url": "https://open.spotify.com/track/2vypqMNbxNn7jVrscNxrFZ"
-    },
-    {
-      "added_at": "2024-09-12 12:57:46",
+      "added_at": "2024-09-13 12:55:49",
       "album": {
         "name": "Molotov",
         "url": "https://open.spotify.com/album/43uxNjHNBIaaEfMWTKa9BF"
@@ -373,7 +337,23 @@
       "url": "https://open.spotify.com/track/3rukzF9QVHpdIUDjYpczRX"
     },
     {
-      "added_at": "2024-09-12 12:57:46",
+      "added_at": "2024-09-13 12:55:49",
+      "album": {
+        "name": "REGINA",
+        "url": "https://open.spotify.com/album/5v1ISrc4VsxiFhoxJj1Qk8"
+      },
+      "artists": [
+        {
+          "name": "NOUA UNSPE",
+          "url": "https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp"
+        }
+      ],
+      "duration_ms": 138666,
+      "name": "REGINA",
+      "url": "https://open.spotify.com/track/5yGAxh5wM6di5gmlD79jDY"
+    },
+    {
+      "added_at": "2024-09-13 12:55:49",
       "album": {
         "name": "Mercedes",
         "url": "https://open.spotify.com/album/1Xz7MvPHQ8U5YBrNtOztWL"
@@ -393,7 +373,23 @@
       "url": "https://open.spotify.com/track/7CzIPuAZjl1K8wYPOOzHyL"
     },
     {
-      "added_at": "2024-09-12 12:57:46",
+      "added_at": "2024-09-13 12:55:49",
+      "album": {
+        "name": "BAGS IN THIS B*TCH",
+        "url": "https://open.spotify.com/album/7pyrxbNspDLhlN7SlitvHx"
+      },
+      "artists": [
+        {
+          "name": "Marko Glass",
+          "url": "https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS"
+        }
+      ],
+      "duration_ms": 138808,
+      "name": "BAGS IN THIS B*TCH",
+      "url": "https://open.spotify.com/track/0RGDLi89VQJLv2j5owaHcD"
+    },
+    {
+      "added_at": "2024-09-13 12:55:49",
       "album": {
         "name": "The Emptiness Machine",
         "url": "https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ"
@@ -409,23 +405,7 @@
       "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
     },
     {
-      "added_at": "2024-09-12 12:57:46",
-      "album": {
-        "name": "MUSE",
-        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 207347,
-      "name": "Be Mine",
-      "url": "https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz"
-    },
-    {
-      "added_at": "2024-09-12 12:57:46",
+      "added_at": "2024-09-13 12:55:49",
       "album": {
         "name": "Alibi (with Pabllo Vittar & Yseult)",
         "url": "https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq"
@@ -449,27 +429,7 @@
       "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
     },
     {
-      "added_at": "2024-09-12 12:57:46",
-      "album": {
-        "name": "Bun Venit Acasa (Deluxe)",
-        "url": "https://open.spotify.com/album/5A4tD7qWgfhfOJ1kXJY9SF"
-      },
-      "artists": [
-        {
-          "name": "Mgk666",
-          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
-        },
-        {
-          "name": "Beach, Please!",
-          "url": "https://open.spotify.com/artist/0AljsDnrnSvZELOH1OE9CB"
-        }
-      ],
-      "duration_ms": 127500,
-      "name": "BIG BEN - From \"Buzz House\" The Movie",
-      "url": "https://open.spotify.com/track/5ILeSLokrX2kWZH4NtAe4c"
-    },
-    {
-      "added_at": "2024-09-12 12:57:46",
+      "added_at": "2024-09-13 12:55:49",
       "album": {
         "name": "Amore",
         "url": "https://open.spotify.com/album/7l4nAOqwA7tHCQ7qdJtAR9"
@@ -489,7 +449,7 @@
       "url": "https://open.spotify.com/track/78Qu2ibWMLEx4M7hlESf3w"
     },
     {
-      "added_at": "2024-09-12 12:57:46",
+      "added_at": "2024-09-13 12:55:49",
       "album": {
         "name": "Habibi",
         "url": "https://open.spotify.com/album/3pzaeGJg6nQExvJazlHbyy"
@@ -505,7 +465,51 @@
       "url": "https://open.spotify.com/track/4EBATplQoU295eNOeONlAP"
     },
     {
-      "added_at": "2024-09-12 12:57:46",
+      "added_at": "2024-09-13 12:55:49",
+      "album": {
+        "name": "SUNETE 2",
+        "url": "https://open.spotify.com/album/2CSdv5brTnCOhv9HxWlCxl"
+      },
+      "artists": [
+        {
+          "name": "andrei",
+          "url": "https://open.spotify.com/artist/5tXxrzPQRZ7UK2cAQNSQW2"
+        },
+        {
+          "name": "DZWS",
+          "url": "https://open.spotify.com/artist/5ChWT8CfHjk2PnRG70ZgWV"
+        },
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0CubchptrDNV9ei0oA5u3k"
+        }
+      ],
+      "duration_ms": 134519,
+      "name": "SUNETE 2",
+      "url": "https://open.spotify.com/track/2vypqMNbxNn7jVrscNxrFZ"
+    },
+    {
+      "added_at": "2024-09-13 12:55:49",
+      "album": {
+        "name": "Bun Venit Acasa (Deluxe)",
+        "url": "https://open.spotify.com/album/5A4tD7qWgfhfOJ1kXJY9SF"
+      },
+      "artists": [
+        {
+          "name": "Mgk666",
+          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
+        },
+        {
+          "name": "Beach, Please!",
+          "url": "https://open.spotify.com/artist/0AljsDnrnSvZELOH1OE9CB"
+        }
+      ],
+      "duration_ms": 127500,
+      "name": "BIG BEN - From \"Buzz House\" The Movie",
+      "url": "https://open.spotify.com/track/5ILeSLokrX2kWZH4NtAe4c"
+    },
+    {
+      "added_at": "2024-09-13 12:55:49",
       "album": {
         "name": "CHEEKY",
         "url": "https://open.spotify.com/album/7Iq7Yv2N2z9gBsHlvJtKRz"
@@ -529,43 +533,23 @@
       "url": "https://open.spotify.com/track/7k3if0qnazNcZEOd0J4LpZ"
     },
     {
-      "added_at": "2024-09-12 12:57:46",
+      "added_at": "2024-09-13 12:55:49",
       "album": {
-        "name": "Iubirea ta",
-        "url": "https://open.spotify.com/album/6jWbcr2v8uvFFJeccBD6SV"
+        "name": "MUSE",
+        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
       },
       "artists": [
         {
-          "name": "Babasha",
-          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
         }
       ],
-      "duration_ms": 209175,
-      "name": "Iubirea ta",
-      "url": "https://open.spotify.com/track/5M8MLs2JfOvXeS9Dad4Yhz"
+      "duration_ms": 207347,
+      "name": "Be Mine",
+      "url": "https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz"
     },
     {
-      "added_at": "2024-09-12 12:57:46",
-      "album": {
-        "name": "Burj Khalifa",
-        "url": "https://open.spotify.com/album/2VU7IC0UMSavJkd7mbpr7P"
-      },
-      "artists": [
-        {
-          "name": "Tzanca Uraganu",
-          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
-        },
-        {
-          "name": "Sheik",
-          "url": "https://open.spotify.com/artist/16h499dib06k5oaxjbAVtW"
-        }
-      ],
-      "duration_ms": 151099,
-      "name": "Burj Khalifa",
-      "url": "https://open.spotify.com/track/1XnSv4BUz58CBzioQap0V1"
-    },
-    {
-      "added_at": "2024-09-12 12:57:46",
+      "added_at": "2024-09-13 12:55:49",
       "album": {
         "name": "Hustler",
         "url": "https://open.spotify.com/album/6Xy6jJdpb5Cck12U7pHA1E"
@@ -581,7 +565,23 @@
       "url": "https://open.spotify.com/track/2lQCIU7pzDTvs16TT1bHAo"
     },
     {
-      "added_at": "2024-09-12 12:57:46",
+      "added_at": "2024-09-13 12:55:49",
+      "album": {
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 175459,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
+    },
+    {
+      "added_at": "2024-09-13 12:55:49",
       "album": {
         "name": "Move",
         "url": "https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS"
@@ -613,7 +613,39 @@
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
     },
     {
-      "added_at": "2024-09-12 12:57:46",
+      "added_at": "2024-09-13 12:55:49",
+      "album": {
+        "name": "Iubirea ta",
+        "url": "https://open.spotify.com/album/6jWbcr2v8uvFFJeccBD6SV"
+      },
+      "artists": [
+        {
+          "name": "Babasha",
+          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
+        }
+      ],
+      "duration_ms": 209175,
+      "name": "Iubirea ta",
+      "url": "https://open.spotify.com/track/5M8MLs2JfOvXeS9Dad4Yhz"
+    },
+    {
+      "added_at": "2024-09-13 12:55:49",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 210373,
+      "name": "BIRDS OF A FEATHER",
+      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+    },
+    {
+      "added_at": "2024-09-13 12:55:49",
       "album": {
         "name": "Creola",
         "url": "https://open.spotify.com/album/13Juoab2HCJvsb4lo2eQ7i"
@@ -633,39 +665,43 @@
       "url": "https://open.spotify.com/track/40GuJIybQew4lWrTernb4D"
     },
     {
-      "added_at": "2024-09-12 12:57:46",
+      "added_at": "2024-09-13 12:55:49",
       "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+        "name": "Burj Khalifa",
+        "url": "https://open.spotify.com/album/2VU7IC0UMSavJkd7mbpr7P"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "Tzanca Uraganu",
+          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
+        },
+        {
+          "name": "Sheik",
+          "url": "https://open.spotify.com/artist/16h499dib06k5oaxjbAVtW"
         }
       ],
-      "duration_ms": 210373,
-      "name": "BIRDS OF A FEATHER",
-      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+      "duration_ms": 151099,
+      "name": "Burj Khalifa",
+      "url": "https://open.spotify.com/track/1XnSv4BUz58CBzioQap0V1"
     },
     {
-      "added_at": "2024-09-12 12:57:46",
+      "added_at": "2024-09-13 12:55:49",
       "album": {
-        "name": "Espresso",
-        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
+        "name": "HARDSTONE PSYCHO",
+        "url": "https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F"
       },
       "artists": [
         {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         }
       ],
-      "duration_ms": 175459,
-      "name": "Espresso",
-      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
+      "duration_ms": 126986,
+      "name": "TORE UP",
+      "url": "https://open.spotify.com/track/1jKXjxMWlq4BhH6f9GtZbu"
     },
     {
-      "added_at": "2024-09-12 12:57:46",
+      "added_at": "2024-09-13 12:55:49",
       "album": {
         "name": "Fana",
         "url": "https://open.spotify.com/album/0HKQiYtP7btvohl2Bby3Xg"
@@ -685,7 +721,23 @@
       "url": "https://open.spotify.com/track/1eln2C07r6xDo06kErYrFn"
     },
     {
-      "added_at": "2024-09-12 12:57:46",
+      "added_at": "2024-09-13 12:55:49",
+      "album": {
+        "name": "Ciocolata",
+        "url": "https://open.spotify.com/album/70F5lVP5WzSrN3kcqK3jC4"
+      },
+      "artists": [
+        {
+          "name": "Tzanca Uraganu",
+          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
+        }
+      ],
+      "duration_ms": 169697,
+      "name": "Ciocolata",
+      "url": "https://open.spotify.com/track/1CbI1EWcf3KFg4QJsKa3aT"
+    },
+    {
+      "added_at": "2024-09-13 12:55:49",
       "album": {
         "name": "Te vreau",
         "url": "https://open.spotify.com/album/6ZNZZIjkFNiIv3xGWyCjDR"
@@ -705,23 +757,7 @@
       "url": "https://open.spotify.com/track/68E03oskzRz2OUhsiSwOq5"
     },
     {
-      "added_at": "2024-09-12 12:57:46",
-      "album": {
-        "name": "Ciocolata",
-        "url": "https://open.spotify.com/album/70F5lVP5WzSrN3kcqK3jC4"
-      },
-      "artists": [
-        {
-          "name": "Tzanca Uraganu",
-          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
-        }
-      ],
-      "duration_ms": 169697,
-      "name": "Ciocolata",
-      "url": "https://open.spotify.com/track/1CbI1EWcf3KFg4QJsKa3aT"
-    },
-    {
-      "added_at": "2024-09-12 12:57:46",
+      "added_at": "2024-09-13 12:55:49",
       "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
@@ -741,7 +777,43 @@
       "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
     },
     {
-      "added_at": "2024-09-12 12:57:46",
+      "added_at": "2024-09-13 12:55:49",
+      "album": {
+        "name": "La tine \u0219i la bani (From \"Romina VTM\" The Movie)",
+        "url": "https://open.spotify.com/album/2vrlJUckJYEYRdtHR7gLTE"
+      },
+      "artists": [
+        {
+          "name": "rares",
+          "url": "https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9"
+        },
+        {
+          "name": "Bogdan DLP",
+          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
+        }
+      ],
+      "duration_ms": 145617,
+      "name": "La tine \u0219i la bani - From \"Romina VTM\" The Movie",
+      "url": "https://open.spotify.com/track/2BsJFgVnk4FYTyzyovwQ5A"
+    },
+    {
+      "added_at": "2024-09-13 12:55:49",
+      "album": {
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 157279,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
+    },
+    {
+      "added_at": "2024-09-13 12:55:49",
       "album": {
         "name": "COSTA",
         "url": "https://open.spotify.com/album/59j8mLRuInvXhvPzjuTTqy"
@@ -765,7 +837,7 @@
       "url": "https://open.spotify.com/track/0X3m5JIdxBaVTMnSz34pOR"
     },
     {
-      "added_at": "2024-09-12 12:57:46",
+      "added_at": "2024-09-13 12:55:49",
       "album": {
         "name": "Aoleu",
         "url": "https://open.spotify.com/album/3LW9pVdA5tHHpZg4s2OPfP"
@@ -785,23 +857,23 @@
       "url": "https://open.spotify.com/track/0RgvTGup9GpTFJq897mdYo"
     },
     {
-      "added_at": "2024-09-12 12:57:46",
+      "added_at": "2024-09-13 12:55:49",
       "album": {
-        "name": "HARDSTONE PSYCHO",
-        "url": "https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F"
+        "name": "NOPTILE ALBASTRE (Master Edition)",
+        "url": "https://open.spotify.com/album/1MKtsE1KWpeA6Uw005txgD"
       },
       "artists": [
         {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+          "name": "Tzanca Uraganu",
+          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
         }
       ],
-      "duration_ms": 126986,
-      "name": "TORE UP",
-      "url": "https://open.spotify.com/track/1jKXjxMWlq4BhH6f9GtZbu"
+      "duration_ms": 163723,
+      "name": "NOPTILE ALBASTRE - Master Edition",
+      "url": "https://open.spotify.com/track/7zOSW5YiUFBXIvrKs4RInV"
     },
     {
-      "added_at": "2024-09-12 12:57:46",
+      "added_at": "2024-09-13 12:55:49",
       "album": {
         "name": "I Adore You (feat. Daecolm)",
         "url": "https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00"
@@ -829,7 +901,67 @@
       "url": "https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7"
     },
     {
-      "added_at": "2024-09-12 12:57:46",
+      "added_at": "2024-09-13 12:55:49",
+      "album": {
+        "name": "EL COMIENZO",
+        "url": "https://open.spotify.com/album/6MikZBKCtKfPM4439yzBRz"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Gata Only",
+      "url": "https://open.spotify.com/track/2esZG2XFtuoWWA9AfDvSxy"
+    },
+    {
+      "added_at": "2024-09-13 12:55:49",
+      "album": {
+        "name": "Guess featuring Billie Eilish",
+        "url": "https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 143330,
+      "name": "Guess featuring Billie Eilish",
+      "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
+    },
+    {
+      "added_at": "2024-09-13 12:55:49",
+      "album": {
+        "name": "Las-o a\u0219a",
+        "url": "https://open.spotify.com/album/2flsDPjDVpyrv62IByLCcj"
+      },
+      "artists": [
+        {
+          "name": "IRAIDA",
+          "url": "https://open.spotify.com/artist/4vlWcKDxlW0shCIXLuBuov"
+        },
+        {
+          "name": "Puya",
+          "url": "https://open.spotify.com/artist/0Dn3AfYwq9cWRhDqtfelNE"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "Las-o a\u0219a",
+      "url": "https://open.spotify.com/track/0I0hHI96Gl0Q7xE3EWeZLG"
+    },
+    {
+      "added_at": "2024-09-13 12:55:49",
       "album": {
         "name": "Miss Dior",
         "url": "https://open.spotify.com/album/1d98QAKQbTW1FgbCmEDXsJ"
@@ -851,134 +983,6 @@
       "duration_ms": 173913,
       "name": "Seara De Seara",
       "url": "https://open.spotify.com/track/5QfTd25qZ0lCIUC4zMWWUq"
-    },
-    {
-      "added_at": "2024-09-12 12:57:46",
-      "album": {
-        "name": "La tine \u0219i la bani (From \"Romina VTM\" The Movie)",
-        "url": "https://open.spotify.com/album/2vrlJUckJYEYRdtHR7gLTE"
-      },
-      "artists": [
-        {
-          "name": "rares",
-          "url": "https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9"
-        },
-        {
-          "name": "Bogdan DLP",
-          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
-        }
-      ],
-      "duration_ms": 145617,
-      "name": "La tine \u0219i la bani - From \"Romina VTM\" The Movie",
-      "url": "https://open.spotify.com/track/2BsJFgVnk4FYTyzyovwQ5A"
-    },
-    {
-      "added_at": "2024-09-12 12:57:46",
-      "album": {
-        "name": "NOPTILE ALBASTRE (Master Edition)",
-        "url": "https://open.spotify.com/album/1MKtsE1KWpeA6Uw005txgD"
-      },
-      "artists": [
-        {
-          "name": "Tzanca Uraganu",
-          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
-        }
-      ],
-      "duration_ms": 163723,
-      "name": "NOPTILE ALBASTRE - Master Edition",
-      "url": "https://open.spotify.com/track/7zOSW5YiUFBXIvrKs4RInV"
-    },
-    {
-      "added_at": "2024-09-12 12:57:46",
-      "album": {
-        "name": "Las-o a\u0219a",
-        "url": "https://open.spotify.com/album/2flsDPjDVpyrv62IByLCcj"
-      },
-      "artists": [
-        {
-          "name": "IRAIDA",
-          "url": "https://open.spotify.com/artist/4vlWcKDxlW0shCIXLuBuov"
-        },
-        {
-          "name": "Puya",
-          "url": "https://open.spotify.com/artist/0Dn3AfYwq9cWRhDqtfelNE"
-        }
-      ],
-      "duration_ms": 166666,
-      "name": "Las-o a\u0219a",
-      "url": "https://open.spotify.com/track/0I0hHI96Gl0Q7xE3EWeZLG"
-    },
-    {
-      "added_at": "2024-09-12 12:57:46",
-      "album": {
-        "name": "EL COMIENZO",
-        "url": "https://open.spotify.com/album/6MikZBKCtKfPM4439yzBRz"
-      },
-      "artists": [
-        {
-          "name": "FloyyMenor",
-          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
-        },
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Gata Only",
-      "url": "https://open.spotify.com/track/2esZG2XFtuoWWA9AfDvSxy"
-    },
-    {
-      "added_at": "2024-09-12 12:57:46",
-      "album": {
-        "name": "Pe un pat",
-        "url": "https://open.spotify.com/album/21zqnnQMRL5GHAMzDOcX81"
-      },
-      "artists": [
-        {
-          "name": "Iuly Neamtu",
-          "url": "https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD"
-        },
-        {
-          "name": "Manele Mentolate",
-          "url": "https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR"
-        }
-      ],
-      "duration_ms": 157333,
-      "name": "Pe un pat",
-      "url": "https://open.spotify.com/track/5kR18jBm2HQaavnVSVg3a8"
-    },
-    {
-      "added_at": "2024-09-12 12:57:46",
-      "album": {
-        "name": "Short n' Sweet",
-        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 157279,
-      "name": "Taste",
-      "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
-    },
-    {
-      "added_at": "2024-09-12 12:57:46",
-      "album": {
-        "name": "I Love You.",
-        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
-      },
-      "artists": [
-        {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
-        }
-      ],
-      "duration_ms": 240400,
-      "name": "Sweater Weather",
-      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
     }
   ],
   "unique_name": "Top 50 - Romania",

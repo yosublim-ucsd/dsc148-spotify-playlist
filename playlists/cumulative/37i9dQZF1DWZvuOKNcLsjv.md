@@ -4,7 +4,7 @@
 
 > 注目の国内外ネクスト・ヒットをいち早くお届け。 cover: Halsey
 
-4,129 songs - 9 day 23 hr 52 min
+4,130 songs - 9 day 23 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -632,6 +632,7 @@
 | [DANCELIXIR](https://open.spotify.com/track/5wZiqGMAbx6prjliENRYmb) | [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa), [Lil' Leise But Gold](https://open.spotify.com/artist/0u4knCwkqdkkwuG2ddLr4n), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [DANCELIXIR](https://open.spotify.com/album/4xB7elCmGdQG1Srf9srUgz) | 2:58 | 2024-09-05 | 2024-09-13 |
 | [Dancing By Night](https://open.spotify.com/track/1NqpeHsy3Q5E5yM0dntvBa) | [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU), [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Dancing By Night](https://open.spotify.com/album/0HHDMPccnsBnKLjC92kqxp) | 3:40 | 2023-07-09 | 2023-07-12 |
 | [Dancing In Babylon \(feat\. Christine and the Queens\)](https://open.spotify.com/track/6QybVJMtaDCJjl2vPR2DcA) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Dancing In Babylon \(feat\. Christine and the Queens\)](https://open.spotify.com/album/3QUPigEo0MoAsxxRDe3JOk) | 4:52 | 2024-02-25 | 2024-03-04 |
+| [Dancing In The Flames](https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dancing In The Flames](https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g) | 3:40 | 2024-09-12 |  |
 | [DANCING IN THE ROOM](https://open.spotify.com/track/3LJ8gioNFggBg6zoGhz1tx) | [Humbreaders](https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi) | [DANCING IN THE ROOM](https://open.spotify.com/album/6DmyL9pVA56Ssp5AxGrNrI) | 3:54 | 2024-02-11 | 2024-02-19 |
 | [Dancing is Healing](https://open.spotify.com/track/5gqu7rZE6fTFwbN2metxv4) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO), [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Dancing is Healing](https://open.spotify.com/album/5g3JRPJKgjcc20lORFpaqp) | 2:57 | 2023-04-23 | 2023-05-08 |
 | [Dancing on the Mirror](https://open.spotify.com/track/7ytRkrwlXnqFDNTeyMvFtD) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [Dancing on the Mirror](https://open.spotify.com/album/6p94bt5BJ7gGhv2JM07teB) | 3:29 | 2024-08-09 |  |

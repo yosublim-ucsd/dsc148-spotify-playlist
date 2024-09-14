@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover: Fameye
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,575 likes - 83 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,585 likes - 83 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 77 | [Kelewele \(feat\. Joeboy\)](https://open.spotify.com/track/52SvJpSTJdPZweLl7Re6qs) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Kelewele \(feat\. Joeboy\)](https://open.spotify.com/album/6GnMYptKwPKbO6xGObOmgh) | 2:21 |
 | 78 | [Blacklist \(feat\. Olivetheboy & M.I.K\)](https://open.spotify.com/track/7pArOCRhx7l9CkNvXO9Kuc) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1), [M.I.K](https://open.spotify.com/artist/1uAm8XfBMonEp2ooZYibyW) | [Blacklist \(feat\. Olivetheboy & M.I.K\)](https://open.spotify.com/album/0xKDGwQxWNiqozrxiZ2HjC) | 2:10 |
 | 79 | [Wotowei](https://open.spotify.com/track/5WogbNJtB9CgpD4T0zGpmj) | [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac) | [Wotowei](https://open.spotify.com/album/07CaU9TdU8Yl3mRkwLH1w4) | 3:27 |
-| 80 | [WIFI](https://open.spotify.com/track/3XoIFPE1GeKdGR7eG3r9zu) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [WIFI](https://open.spotify.com/album/0RdZhYpdfeLAPUBimtVjBr) | 2:20 |
+| 80 | [WIFI](https://open.spotify.com/track/3XoIFPE1GeKdGR7eG3r9zu) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [WIFI](https://open.spotify.com/album/0RdZhYpdfeLAPUBimtVjBr) | 2:18 |
 | 81 | [Abena](https://open.spotify.com/track/12ZauZJSO1DbNcaFI1qr6c) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW) | [757](https://open.spotify.com/album/0509XspJuKs2kUv31D9ED4) | 2:22 |
 | 82 | [Chemistry](https://open.spotify.com/track/1odYuNwkJ51VtGyfR8DiVl) | [Samini](https://open.spotify.com/artist/10Cql6DpInZY5O6TBw2m4l) | [Chemistry](https://open.spotify.com/album/7kPLCFzzaPgJzCOCBFZ3ag) | 3:41 |
 | 83 | [Berima Nsu](https://open.spotify.com/track/40mekD2MNFTdijf7T7loG3) | [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y) | [Berima Nsu](https://open.spotify.com/album/1qdpKiWu9xvhzVPWmo6F76) | 2:44 |

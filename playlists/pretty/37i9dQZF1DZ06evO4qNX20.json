@@ -1,12 +1,12 @@
 {
   "description": "This Is Chalino Sanchez. Los temas esenciales, todos en una lista.",
-  "num_followers": 309204,
+  "num_followers": 309270,
   "original_name": "This Is Chalino Sanchez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuDdgAAAAAD9h9h9zLxNv8Y/ahZi6R4r",
+  "snapshot_id": "ZuIvAAAAAADNrq6iw/Su9m/hKP1iF/Ib",
   "tracks": [
     {
       "added_at": null,
@@ -639,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chalino S\u00e1nchez Con Mariachi",
+        "url": "https://open.spotify.com/album/5mH9ZEaAY0vYLm3WhN3v3e"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 242195,
+      "name": "Mar\u00eda De La Luz",
+      "url": "https://open.spotify.com/track/2rm2wBuQZU3rld8hNVOx73"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chalino S\u00e1nchez y Cornelio Reyna, Vol. 2",
         "url": "https://open.spotify.com/album/4pxNYjILuiD9ro6cwrfjT8"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 164942,
       "name": "Corrido De Olegario",
       "url": "https://open.spotify.com/track/27xhosbndnCvyQ1pOpUfPj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chalino S\u00e1nchez Con Mariachi",
-        "url": "https://open.spotify.com/album/5mH9ZEaAY0vYLm3WhN3v3e"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 242195,
-      "name": "Mar\u00eda De La Luz",
-      "url": "https://open.spotify.com/track/2rm2wBuQZU3rld8hNVOx73"
     },
     {
       "added_at": null,

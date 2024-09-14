@@ -4,7 +4,7 @@
 
 > Get the chill vibes going and flowing ✨ Las vibras tranqui que ocupas en tu vida.
 
-279 songs - 15 hr 2 min
+280 songs - 15 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Guitarra](https://open.spotify.com/track/2e030wRlvk7aU21DIGN4kL) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Guitarra](https://open.spotify.com/album/4jwMD9PMiLkb0tkDnv1cZn) | 2:54 | 2022-05-20 | 2024-05-18 |
 | [Hablo Con Vos \(feat\. Nahuel Barbero\)](https://open.spotify.com/track/54HUyDF7rL85evFE2PLYKu) | [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB), [Nahuel Barbero](https://open.spotify.com/artist/2QQM8K8Eqkysh2Dn5Myv6I) | [Otro Lado](https://open.spotify.com/album/2PFUqGpxYAEZZqHjjXQZdN) | 3:51 | 2022-05-20 |  |
 | [hablé con ella ayer](https://open.spotify.com/track/5pdDyw9gLInQtEqCJDLMqx) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Verano, por siempre](https://open.spotify.com/album/5ix1sSSCWiQf8hZKaiV0Tc) | 2:44 | 2022-05-20 |  |
-| [Hace Mucho](https://open.spotify.com/track/04gW4DqauMsrec4IJN6swN) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck), [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [Hace Mucho](https://open.spotify.com/album/4eyZx0Fk5OPx6HqhDupAkl) | 3:16 | 2022-05-20 |  |
+| [Hace Mucho](https://open.spotify.com/track/04gW4DqauMsrec4IJN6swN) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck), [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [Hace Mucho](https://open.spotify.com/album/4eyZx0Fk5OPx6HqhDupAkl) | 3:16 | 2022-05-20 | 2024-09-14 |
 | [Handful of Water](https://open.spotify.com/track/4jyiop97KBE8cDN5HwvKnB) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Handful of Water](https://open.spotify.com/album/5gKo806XuvISRGyMoNlR3N) | 2:31 | 2022-05-20 | 2024-05-11 |
 | [Hasta Que](https://open.spotify.com/track/0F2t2RRkSJVLETwtpfiJth) | [Tatiana Hazel](https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU) | [Hasta Que](https://open.spotify.com/album/61cYa3yCAug08umgvtyv0J) | 3:13 | 2022-05-20 | 2022-10-28 |
 | [Heart Full of Love](https://open.spotify.com/track/3WADEPHbjrfN0qYrtlACiq) | [ÌFÉ](https://open.spotify.com/artist/7hwZLbYVax5K8GvRSmRSOF) | [Heart Full of Love](https://open.spotify.com/album/6Ive0sN5PnmohGaAGiP0tM) | 4:10 | 2022-05-20 | 2023-01-07 |
@@ -204,7 +204,7 @@
 | [Paraíso](https://open.spotify.com/track/0YqJFO4bUZn1chzZ6KR9l9) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Paraíso](https://open.spotify.com/album/4X61CX0485026hU97ZPc57) | 3:52 | 2022-05-20 | 2022-10-14 |
 | [Paraíso](https://open.spotify.com/track/1jqV2HDLwXJD8NbuzwsgSF) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Gardenia](https://open.spotify.com/album/0vetA0VXGOhBjzaKO8DasX) | 3:52 | 2022-09-06 | 2022-10-28 |
 | [Pastelitos De Guayaba](https://open.spotify.com/track/11gz6Jgn8aAOmAmBnnIqYF) | [Lilly Yan](https://open.spotify.com/artist/5FBHMcTg26VVGLJz5mqU5C) | [Pastelitos De Guayaba](https://open.spotify.com/album/2B473fEmZA1zsQhhrBe0bZ) | 3:11 | 2022-05-20 |  |
-| [Patadas de Ahogado](https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Patadas de Ahogado](https://open.spotify.com/album/418IgoKv4nyde6c9YCDYDj) | 3:44 | 2023-11-10 |  |
+| [Patadas de Ahogado](https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Patadas de Ahogado](https://open.spotify.com/album/418IgoKv4nyde6c9YCDYDj) | 3:44 | 2023-11-10 |  |
 | [Perderme](https://open.spotify.com/track/5m1QnfGXl5gNqZ5tp48GyT) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Despídeme De Todxs](https://open.spotify.com/album/11rGeM6nycLMTfKwcZ3dVl) | 3:20 | 2023-05-12 |  |
 | [Perdida](https://open.spotify.com/track/3GAOWYNUBehaZD7FhBjgdW) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Big Fan of the Sesh, Vol\. 1](https://open.spotify.com/album/7fdySfgM7DstRy1bCZB1w8) | 3:00 | 2022-05-20 | 2022-10-20 |
 | [Perdida](https://open.spotify.com/track/7dIlxKSQKC2ND5ortIfAxM) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Big Fan of the Sesh, Vol\. 1](https://open.spotify.com/album/2oD72e7o7hvjaxRI75foFR) | 3:00 | 2022-09-06 | 2022-10-28 |
@@ -281,6 +281,7 @@
 | [Volar](https://open.spotify.com/track/6JsI9FfeTLUFsK08WitciR) | [Nana Mendoza](https://open.spotify.com/artist/0f5pXcaEX3mou3QLNTdVaA) | [Vuelvo a Mí](https://open.spotify.com/album/6AL35H5gM4P2y6774XmQ5Y) | 4:49 | 2022-05-20 | 2023-01-07 |
 | [Volves](https://open.spotify.com/track/5uvobs7WJRW691LBLX3oxM) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [Volves](https://open.spotify.com/album/4W0sH5fMAH2NYYGopA8pr9) | 4:02 | 2023-05-05 | 2023-10-19 |
 | [Volvés](https://open.spotify.com/track/2fsuYnBJXJBI8EDp1F68KW) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [Dicen](https://open.spotify.com/album/61GgJ9H3X3kdJCQhbrNYQ6) | 4:02 | 2023-10-12 | 2024-04-19 |
+| [WADGYMAR](https://open.spotify.com/track/5EckFDDZ79K3PbEJBeVyLX) | [Oscar Plaza](https://open.spotify.com/artist/0FYXuJlqrMUDBXt30fHy9U), [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [WADGYMAR](https://open.spotify.com/album/5DT4QkZPyAjo5s2f1Rtz4p) | 2:19 | 2024-09-13 |  |
 | [Wu Wu](https://open.spotify.com/track/1RCTlsE4iiRwHHq1VE4XrG) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Wu Wu](https://open.spotify.com/album/7aDQ1gXdQHozrUv1EAkdj0) | 3:27 | 2022-05-20 | 2024-01-05 |
 | [Ya](https://open.spotify.com/track/3WcZfSkqdtVbNYVw9IwAAT) | [Flavio](https://open.spotify.com/artist/2PpQXJidwYjlmvUyyWqsxN), [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [Ya](https://open.spotify.com/album/1Kk33rOeAVRk4VP0PuLIpA) | 3:17 | 2022-05-20 |  |
 | [YNQNP](https://open.spotify.com/track/4MYfbMGI7KgUzkYDN1lpnD) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [YNQNP](https://open.spotify.com/album/6MHJtcjTccqn6F5fYKr7Sa) | 2:30 | 2024-01-12 |  |

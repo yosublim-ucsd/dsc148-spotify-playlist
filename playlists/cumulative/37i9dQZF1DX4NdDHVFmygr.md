@@ -4,7 +4,7 @@
 
 > Made in Morocco, 100% hits marocains.
 
-410 songs - 21 hr 54 min
+411 songs - 21 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [3DABI](https://open.spotify.com/track/0e6eVGeec6asBnmE4gTYqA) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [3DABI](https://open.spotify.com/album/08ZFlBocogt3UFTyEN7Ob4) | 3:22 | 2023-07-24 | 2024-08-29 |
 | [3DABI](https://open.spotify.com/track/4knNlB73rkLODZU03Xjx7x) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [3DABI](https://open.spotify.com/album/7vNeALOBMp5Ls66hsev84r) | 3:22 | 2024-08-28 |  |
 | [9albi](https://open.spotify.com/track/2YqWNr0yAGkQSb7hfUl4ds) | [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3) | [9albi](https://open.spotify.com/album/4LYxM2TBsO7lXdoagMDLTp) | 2:33 | 2022-02-03 | 2022-03-24 |
-| [9albi ydou9](https://open.spotify.com/track/5HcZ9HZu0UMyMIKLxUbaSB) | [Imanova](https://open.spotify.com/artist/0QTNBGcizg7sFWUXZl8rFX) | [9albi ydou9](https://open.spotify.com/album/3s5HSRc2mpNHkbCOl79luC) | 2:47 | 2024-08-28 |  |
+| [9albi ydou9](https://open.spotify.com/track/5HcZ9HZu0UMyMIKLxUbaSB) | [Imanova](https://open.spotify.com/artist/0QTNBGcizg7sFWUXZl8rFX) | [9albi ydou9](https://open.spotify.com/album/3s5HSRc2mpNHkbCOl79luC) | 2:47 | 2024-08-28 | 2024-09-14 |
 | [9SARA D LIL](https://open.spotify.com/track/6oYWJ2jG1gaRJcbaFUyDtb) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [9SARA D LIL](https://open.spotify.com/album/2sHdewHBibMmkRCD1z30g9) | 3:09 | 2023-03-08 | 2023-09-28 |
 | [A40](https://open.spotify.com/track/1JwdSbiHb4t7wbmfb2hkPl) | [Ali Ssamid](https://open.spotify.com/artist/7naCkywRMOSMBnYhFbiM3G) | [A40](https://open.spotify.com/album/6PcWY3wKiBQ0B0o4nOnQuV) | 2:55 | 2021-12-25 | 2022-01-17 |
 | [a7lam](https://open.spotify.com/track/1NJi2hZVX5DvMzZbcFM0Zq) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [a7lam](https://open.spotify.com/album/1lgMjhsaS7ng1LbIIMXeeh) | 4:08 | 2021-12-25 | 2022-03-05 |
@@ -69,6 +69,7 @@
 | [BSAHTEK](https://open.spotify.com/track/3S117nKz6nzHwxLaRUzgIs) | [Probador](https://open.spotify.com/artist/2XeXlRibiUH1nTxaXK23ZL) | [BSAHTEK](https://open.spotify.com/album/5qUERP0af1GNga709GfBzc) | 3:04 | 2024-08-28 |  |
 | [Business \(feat\. Naza\)](https://open.spotify.com/track/7ckhEsg0yYCINgl1HqjCUk) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [Unleaded](https://open.spotify.com/artist/3zWMcT8MOIAnQMbGFmMFun) | [Business \(feat\. Naza\)](https://open.spotify.com/album/7xfhDDNz65EkMyzDOKfVOF) | 2:50 | 2023-06-04 | 2023-12-19 |
 | [C'est pas joli](https://open.spotify.com/track/4SpnH3YDyQeBa2nfMdRlSB) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [C'est pas joli](https://open.spotify.com/album/5YOpqhojYXnSkrPgea4WRD) | 3:43 | 2024-05-18 |  |
+| [CABARET](https://open.spotify.com/track/3XugphjZV5ITxjG06dQzbO) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [CABARET](https://open.spotify.com/album/4jv4SeF1W29Sae15O0JC3P) | 3:16 | 2024-09-13 |  |
 | [Campeónes](https://open.spotify.com/track/7ECCF1vFZ97wnYukjbUYsO) | [Ali Ssamid](https://open.spotify.com/artist/7naCkywRMOSMBnYhFbiM3G), [Tiiwtiiw](https://open.spotify.com/artist/6OcVa1v58BotEENN2biu1M) | [ElMarocchino](https://open.spotify.com/album/252TA0tbVv9K773Z33o8W2) | 2:44 | 2022-06-27 | 2022-09-27 |
 | [Cariño](https://open.spotify.com/track/43WGG3jUSVGStwAByFIKkC) | [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3), [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Cariño](https://open.spotify.com/album/2mLtZR6hCt81DOYsiWkniJ) | 3:02 | 2021-12-25 | 2022-01-25 |
 | [Casa \- Arabic Version](https://open.spotify.com/track/076HUj0TPUnBidZdy9PEyx) | [Ouidad](https://open.spotify.com/artist/7lPt4PyRpBvznm3LDZW1El) | [Casa \(Arabic version\)](https://open.spotify.com/album/3EBcgCMoKf3HzudclcHx8I) | 2:25 | 2024-04-25 | 2024-08-29 |

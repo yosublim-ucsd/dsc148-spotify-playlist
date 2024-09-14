@@ -1,18 +1,18 @@
 {
   "description": "A new take on a classic sound. Cover: Thee Sacred Souls",
-  "num_followers": 345979,
+  "num_followers": 346060,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Ztp+QAAAAADd8JS9n2V2XHF17HGaYZ7Q",
+  "snapshot_id": "ZuO4wAAAAABJXo9YHLTcoU5M7BVldNI4",
   "tracks": [
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Live For You",
-        "url": "https://open.spotify.com/album/3zJGBJOYBVuM5NnhdWtvLm"
+        "name": "Waiting on the Right Time",
+        "url": "https://open.spotify.com/album/50YUFgsiE11VbXB4QFKaP1"
       },
       "artists": [
         {
@@ -20,9 +20,41 @@
           "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
         }
       ],
-      "duration_ms": 210320,
-      "name": "Live For You",
-      "url": "https://open.spotify.com/track/2XekPGzt01OOtaRY9oAV1b"
+      "duration_ms": 219786,
+      "name": "Waiting on the Right Time",
+      "url": "https://open.spotify.com/track/7rqR6MqQX8x2eDlAmleCRl"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Slang Spirituals",
+        "url": "https://open.spotify.com/album/1sPGKewgVhu3Iwfqq1XZwa"
+      },
+      "artists": [
+        {
+          "name": "Lady Blackbird",
+          "url": "https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ"
+        }
+      ],
+      "duration_ms": 266426,
+      "name": "Like a Woman",
+      "url": "https://open.spotify.com/track/2vcdWcbA3d7y4AFDmFnO24"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Your Team",
+        "url": "https://open.spotify.com/album/6R0Q1JubcgsOYoCnlZeUZX"
+      },
+      "artists": [
+        {
+          "name": "Nia Wyn",
+          "url": "https://open.spotify.com/artist/6llDm40EBFJNERFGyWn2wH"
+        }
+      ],
+      "duration_ms": 186274,
+      "name": "Your Team",
+      "url": "https://open.spotify.com/track/5pIlwtkgYsmgDJ3RCJiUOD"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -81,6 +113,26 @@
       "url": "https://open.spotify.com/track/1nvQEpehDDOTCOMEoLYpin"
     },
     {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Grow Old Together",
+        "url": "https://open.spotify.com/album/5WLdnhtrbVuDWwOQ46a8V2"
+      },
+      "artists": [
+        {
+          "name": "Revel Day",
+          "url": "https://open.spotify.com/artist/0GlCo4o05HxdzR4Gj7GKyw"
+        },
+        {
+          "name": "Anna Dellaria",
+          "url": "https://open.spotify.com/artist/1VIvKUaSkkzbWE4oWVpGaR"
+        }
+      ],
+      "duration_ms": 219428,
+      "name": "Grow Old Together",
+      "url": "https://open.spotify.com/track/1Ue7dDblJkm1YAUb2OUDJp"
+    },
+    {
       "added_at": "2024-09-06 04:00:00",
       "album": {
         "name": "Do It All Again",
@@ -111,6 +163,22 @@
       "duration_ms": 226153,
       "name": "Walk With the Father",
       "url": "https://open.spotify.com/track/7a5VJhBN7zAe8Lv9Y0e84E"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Bad Advice - The Pool Sessions",
+        "url": "https://open.spotify.com/album/0XGFkBW7khe0G9uHcFLScZ"
+      },
+      "artists": [
+        {
+          "name": "Kat Eaton",
+          "url": "https://open.spotify.com/artist/72bPcEPylDgn0WHybYqI7P"
+        }
+      ],
+      "duration_ms": 208325,
+      "name": "Bad Advice - The Pool Sessions",
+      "url": "https://open.spotify.com/track/7bUOeVzQrTBCE3ZMOGQz49"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -207,22 +275,6 @@
       "duration_ms": 161500,
       "name": "Miss Strut",
       "url": "https://open.spotify.com/track/2jdi8zHvx1crcnIy049p78"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Let Not (Your Heart Be Troubled)",
-        "url": "https://open.spotify.com/album/4Hx7ymGXKFN2rd8bMVNOxG"
-      },
-      "artists": [
-        {
-          "name": "Lady Blackbird",
-          "url": "https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ"
-        }
-      ],
-      "duration_ms": 266333,
-      "name": "Let Not (Your Heart Be Troubled)",
-      "url": "https://open.spotify.com/track/4WovYmHVAw2WliG6Es3kRQ"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1319,22 +1371,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/40bazR6yB36Wn9KAM5253O"
-      },
-      "artists": [
-        {
-          "name": "The Main Squeeze",
-          "url": "https://open.spotify.com/artist/5I6ni4YWY0WJUs6rFqufxT"
-        }
-      ],
-      "duration_ms": 237587,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/6DblWOuKGzV2V1ES2Tafud"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "By Design [Evel Knievel]",
         "url": "https://open.spotify.com/album/1uolHPowVuHbDnWYXu0cZS"
       },
@@ -1367,22 +1403,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Starchild",
-        "url": "https://open.spotify.com/album/3qnWQRiiv8upClnaeZHTPx"
-      },
-      "artists": [
-        {
-          "name": "Common Saints",
-          "url": "https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB"
-        }
-      ],
-      "duration_ms": 231853,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/1Wntxxt7R2mwfa4bDfAa5h"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Only Want You",
         "url": "https://open.spotify.com/album/5jdmLkQQ1fX8cC0du4H8Va"
       },
@@ -1395,22 +1415,6 @@
       "duration_ms": 230608,
       "name": "Only Want You",
       "url": "https://open.spotify.com/track/24BE8f0DdJxgtHDjsN9FA7"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Love & Hate",
-        "url": "https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 233413,
-      "name": "One More Night",
-      "url": "https://open.spotify.com/track/0f2zcrhhHT59aIGQvRlTZ1"
     },
     {
       "added_at": "2023-09-01 04:00:00",

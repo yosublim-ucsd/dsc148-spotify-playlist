@@ -4,7 +4,7 @@
 
 > Karol G sulla cover della più grande playlist in Italia! 🏆
 
-79 songs - 3 hr 59 min
+80 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [KARMA](https://open.spotify.com/track/3Tk7eEuh7bMDIAdYfSG3tb) | [The Kolors](https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR) | [KARMA](https://open.spotify.com/album/0NciSOteTA2J2Wp8v4jrJl) | 3:21 | 2024-07-11 |  |
 | [L'ULTIMA POESIA \(feat\. Ultimo\)](https://open.spotify.com/track/0vjcqQVb6nhk1A4lvW6ytN) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa), [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx) | [L'ULTIMA POESIA \(feat\. Ultimo\)](https://open.spotify.com/album/5ikSXCKTvR5dkvbKLEfFTG) | 3:48 | 2024-06-28 | 2024-09-06 |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-06-28 | 2024-07-12 |
-| [MA CHE IDEA \(feat\. Pino D'Angiò\)](https://open.spotify.com/track/1kKccj5wYXTj3gTpUIMoac) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw), [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6) | [MA CHE IDEA \(feat\. Pino D'Angiò\)](https://open.spotify.com/album/0j4VujrvdWsDMO4b1jQFzI) | 3:46 | 2024-06-28 |  |
+| [MA CHE IDEA \(feat\. Pino D'Angiò\)](https://open.spotify.com/track/1kKccj5wYXTj3gTpUIMoac) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw), [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6) | [MA CHE IDEA \(feat\. Pino D'Angiò\)](https://open.spotify.com/album/0j4VujrvdWsDMO4b1jQFzI) | 3:46 | 2024-06-28 | 2024-09-14 |
 | [MALAVITA](https://open.spotify.com/track/49tdZnvKAnJP6Xb3PUucPD) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [MALAVITA](https://open.spotify.com/album/0uPO1QkqyQi4aw1LcbMntE) | 2:46 | 2024-06-28 |  |
 | [MAMMAMÌ](https://open.spotify.com/track/5ewubv7hwvNzi43bQ191Ix) | [Petit](https://open.spotify.com/artist/2miA8jrhyRoCHvWdsrPQde) | [MAMMAMÌ](https://open.spotify.com/album/4GQgb01NvO5hV7qgLe5Bc9) | 3:03 | 2024-06-28 |  |
 | [melodrama](https://open.spotify.com/track/6EB9gbY9xIU2aCGpKZUm9C) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [melodrama](https://open.spotify.com/album/2yUO5bImUNrlDTunDO7QDd) | 2:27 | 2024-06-28 |  |
@@ -87,5 +87,6 @@
 | [Vai!](https://open.spotify.com/track/02fHDy3xEetr1EX6qw3Cas) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [Vai!](https://open.spotify.com/album/78oiHnbmYm8jUidFHcAeWL) | 2:36 | 2024-06-28 | 2024-07-19 |
 | [Vecchio stampo & West Coast](https://open.spotify.com/track/0W61zMLHl8SKOXpwEnenRP) | [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W) | [Vecchio stampo & West Coast](https://open.spotify.com/album/7860DXMGoZnNuxOsi5Yifa) | 3:03 | 2024-09-05 |  |
 | [VELENO](https://open.spotify.com/track/2K7bv4Q0FNNKPt4PPPCjOi) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [VELENO](https://open.spotify.com/album/5yyaogWQcARbLR0FGz1wel) | 3:18 | 2024-06-28 | 2024-08-23 |
+| [ZERI IN PIÙ \(LOCURA\) \(feat\. Laura Pausini\)](https://open.spotify.com/track/0EIWXIJea5Q92uBlPBhUB4) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [ZERI IN PIÙ \(LOCURA\) \(feat\. Laura Pausini\)](https://open.spotify.com/album/3rD7xtzumWvHnhr7x7JGkS) | 4:07 | 2024-09-13 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

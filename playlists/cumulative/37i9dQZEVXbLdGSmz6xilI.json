@@ -1220,7 +1220,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 259614,
-      "name": "ANH BI\u1ebeT R\u1ed2I (feat. RHYDER, Jmi Ko)",
+      "name": "ANH BI\u1ebeT R\u1ed2I (feat. Rhyder, Jmi Ko)",
       "url": "https://open.spotify.com/track/2AVDBKzxzTjLB91WVTfIlA"
     },
     {
@@ -3676,7 +3676,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-08",
+      "date_removed": null,
       "duration_ms": 309473,
       "name": "CH\u00c0NG KH\u1edc THU\u1ef6 CUNG (feat. Negav & GREY D)",
       "url": "https://open.spotify.com/track/73ax9vvEPz8yXm9TCrn2Y1"
@@ -3872,7 +3872,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 249871,
       "name": "Ch\u00fang Ta C\u1ee7a T\u01b0\u01a1ng Lai",
       "url": "https://open.spotify.com/track/3OVMe3H6iAxbLF8iD2UYrw"
@@ -4546,7 +4546,7 @@
       ],
       "date_added": "2024-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 182582,
       "name": "Cu\u1ed9c g\u1ecdi l\u00fac n\u1eeda \u0111\u00eam",
       "url": "https://open.spotify.com/track/6P7xEmk7ZZYz0AV84uOwiW"
@@ -8456,7 +8456,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-13",
+      "date_removed": null,
       "duration_ms": 165555,
       "name": "H\u00e0 N\u1ed9i",
       "url": "https://open.spotify.com/track/5PGh9MyKry8slG5AfvD1eD"
@@ -10896,7 +10896,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 233013,
       "name": "LOST!",
       "url": "https://open.spotify.com/track/02H58MSfVESkKyx4diDgu7"
@@ -12293,6 +12293,24 @@
     },
     {
       "album": {
+        "name": "M\u00ecnh Anh Th\u00f4i",
+        "url": "https://open.spotify.com/album/1cpjIwbHEs622qW35q0wCQ"
+      },
+      "artists": [
+        {
+          "name": "Negav",
+          "url": "https://open.spotify.com/artist/4fg8aMZ23d2bxKz7r2vt9v"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212519,
+      "name": "M\u00ecnh Anh Th\u00f4i",
+      "url": "https://open.spotify.com/track/7Cjsw965r7mVK888ZqP6Wo"
+    },
+    {
+      "album": {
         "name": "M\u01a1",
         "url": "https://open.spotify.com/album/57xAPI8kl43QolYkjfVdb2"
       },
@@ -12304,7 +12322,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-13",
+      "date_removed": null,
       "duration_ms": 262191,
       "name": "M\u01a1",
       "url": "https://open.spotify.com/track/2a5hng9yXtbjtTVVm9UviC"
@@ -15172,7 +15190,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 179560,
       "name": "Rainy Days",
       "url": "https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4"
@@ -15817,6 +15835,32 @@
     },
     {
       "album": {
+        "name": "Ch\u1ecdn g\u00ec? Ch\u1ecdn \u0111i! M\u00f9a 1",
+        "url": "https://open.spotify.com/album/5y55ZH8sau8qf9hSjaMdJB"
+      },
+      "artists": [
+        {
+          "name": "Ch\u1ecdn g\u00ec? Ch\u1ecdn \u0111i!",
+          "url": "https://open.spotify.com/artist/61ydMyohF67xBZmWSPA3YQ"
+        },
+        {
+          "name": "OgeNus",
+          "url": "https://open.spotify.com/artist/5mPbBOU2KMFfStepNZ027p"
+        },
+        {
+          "name": "PiaLinh",
+          "url": "https://open.spotify.com/artist/5Xn0cJrrcslCWCzPXNTy54"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223200,
+      "name": "Say Yes (Vietnamese Version)",
+      "url": "https://open.spotify.com/track/4X4oUHyFj0QIipit13RFJC"
+    },
+    {
+      "album": {
         "name": "Say Yes (Vietnamese Version)",
         "url": "https://open.spotify.com/album/5ghkyW4aYwZIQrhfNIWRr0"
       },
@@ -15832,7 +15876,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 223200,
       "name": "Say Yes (Vietnamese Version)",
       "url": "https://open.spotify.com/track/1KZVA4mJbjH6V9i7lP36FH"
@@ -16374,7 +16418,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 234168,
       "name": "Sinh Ra \u0110\u00e3 L\u00e0 Th\u1ee9 \u0110\u1ed1i L\u1eadp Nhau (feat. Badbies)",
       "url": "https://open.spotify.com/track/5BTzf3doGTigDIYUFtbkI9"
@@ -18816,10 +18860,32 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 210000,
       "name": "TR\u00c0N B\u1ed8 NH\u1eda (feat. D\u01b0\u01a1ng Domic)",
       "url": "https://open.spotify.com/track/0X6SwdTvP6N43voIvyyMaT"
+    },
+    {
+      "album": {
+        "name": "ANH TRAI \"SAY HI\", T\u1eadp 13",
+        "url": "https://open.spotify.com/album/5J9sj4v8pHsedditezYCVe"
+      },
+      "artists": [
+        {
+          "name": "ANH TRAI \"SAY HI\"",
+          "url": "https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu"
+        },
+        {
+          "name": "D\u01b0\u01a1ng Domic",
+          "url": "https://open.spotify.com/artist/4KPyQxL1zqEiBcTwW6c9HE"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "TR\u00c0N B\u1ed8 NH\u1eda (feat. D\u01b0\u01a1ng Domic)",
+      "url": "https://open.spotify.com/track/4IduMWzDlhkKJ0c8yWByVV"
     },
     {
       "album": {
@@ -18868,6 +18934,28 @@
     {
       "album": {
         "name": "ANH TRAI \"SAY HI\", T\u1eadp 13",
+        "url": "https://open.spotify.com/album/5J9sj4v8pHsedditezYCVe"
+      },
+      "artists": [
+        {
+          "name": "ANH TRAI \"SAY HI\"",
+          "url": "https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu"
+        },
+        {
+          "name": "Quang H\u00f9ng MasterD",
+          "url": "https://open.spotify.com/artist/0slOzRzTQb1RBBVJbvRITP"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264615,
+      "name": "TR\u00d3I EM L\u1ea0I (feat. Quang H\u00f9ng MasterD)",
+      "url": "https://open.spotify.com/track/2HDsw8I5oPQMRND0rNf63c"
+    },
+    {
+      "album": {
+        "name": "ANH TRAI \"SAY HI\", T\u1eadp 13",
         "url": "https://open.spotify.com/album/3UFJXfvF4WRUldAWX3OOEP"
       },
       "artists": [
@@ -18882,7 +18970,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 264615,
       "name": "TR\u00d3I EM L\u1ea0I (feat. Quang H\u00f9ng MasterD)",
       "url": "https://open.spotify.com/track/4OZK1ziUvcVkxA1lcsblhV"
@@ -19890,7 +19978,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-12",
+      "date_removed": null,
       "duration_ms": 241919,
       "name": "V\u00ec Anh \u0110\u00e2u C\u00f3 Bi\u1ebft",
       "url": "https://open.spotify.com/track/6VXVYATpQXEIoZ97NnWCmn"

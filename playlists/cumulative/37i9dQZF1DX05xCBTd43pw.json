@@ -251,6 +251,24 @@
     },
     {
       "album": {
+        "name": "Waves & Wishes",
+        "url": "https://open.spotify.com/album/1UrgZCspl0lQQU6NSZDZ7m"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Benedek",
+          "url": "https://open.spotify.com/artist/0BBZxotcIVnEEPhjA4iSiu"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172791,
+      "name": "Bird",
+      "url": "https://open.spotify.com/track/7H16kWPboswDLyH76lHpIA"
+    },
+    {
+      "album": {
         "name": "Body",
         "url": "https://open.spotify.com/album/2XFkhBjRO8elEtoZovNbjg"
       },
@@ -370,7 +388,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 171696,
       "name": "Can't Be Loved",
       "url": "https://open.spotify.com/track/69H5EfyNRLIKd0WAPNQr0T"
@@ -579,7 +597,7 @@
     },
     {
       "album": {
-        "name": "Fire",
+        "name": "fire",
         "url": "https://open.spotify.com/album/1hgAohjAQrlGl43jp3gipc"
       },
       "artists": [
@@ -592,7 +610,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 135866,
-      "name": "Fire",
+      "name": "fire",
       "url": "https://open.spotify.com/track/7odcXBYFpT2gzYBWBrKRlo"
     },
     {
@@ -1001,6 +1019,24 @@
     },
     {
       "album": {
+        "name": "Teary-Eyed",
+        "url": "https://open.spotify.com/album/0mIPQTtZphFbz2dghvqxa4"
+      },
+      "artists": [
+        {
+          "name": "DANA",
+          "url": "https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158733,
+      "name": "Kale Juice",
+      "url": "https://open.spotify.com/track/7xJ0Lpz7f3LNWDpRyOzbzo"
+    },
+    {
+      "album": {
         "name": "King Bed",
         "url": "https://open.spotify.com/album/17uh7gY4QxzY3gcwQ7SFkI"
       },
@@ -1315,6 +1351,28 @@
     },
     {
       "album": {
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/1z4X7CYqMG5c1NkNDk0hiK"
+      },
+      "artists": [
+        {
+          "name": "Remady",
+          "url": "https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc"
+        },
+        {
+          "name": "Justin J. Moore",
+          "url": "https://open.spotify.com/artist/5a3lC3q5ngxoZVcIf1nryN"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151845,
+      "name": "Playlist",
+      "url": "https://open.spotify.com/track/3m6xu2uUr8jS9w0VT2rGsI"
+    },
+    {
+      "album": {
         "name": "rabbit holes",
         "url": "https://open.spotify.com/album/3phEbmy3JlzoSijThN3gzE"
       },
@@ -1442,7 +1500,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 177299,
       "name": "Sauvage",
       "url": "https://open.spotify.com/track/45GjmzkcuWflHGLuNJPCDv"
@@ -1918,7 +1976,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 168209,
       "name": "Zoot",
       "url": "https://open.spotify.com/track/1QCf5EvUGZnEGVI888MHa9"

@@ -949,6 +949,24 @@
     },
     {
       "album": {
+        "name": "ALL RED",
+        "url": "https://open.spotify.com/album/3cdcIcidzGHVQW5e9qQgtx"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148053,
+      "name": "ALL RED",
+      "url": "https://open.spotify.com/track/2cZOYofOX4d6g0OXxkaIjA"
+    },
+    {
+      "album": {
         "name": "WE STILL DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP"
       },
@@ -1760,7 +1778,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 143317,
       "name": "Bad Bitty (Remix)",
       "url": "https://open.spotify.com/track/3lu9zdjhHvAt7gje6w8Pn9"
@@ -1800,7 +1818,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 156303,
       "name": "Bad Kids (feat. GloRilla)",
       "url": "https://open.spotify.com/track/0ZiBuLalszaqnmfQ7XrfZn"
@@ -4124,7 +4142,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 218813,
       "name": "COLE PIMP (with Ty Dolla $ign & Juicy J)",
       "url": "https://open.spotify.com/track/4vdDAdLtmTqFR1J4AO4cBf"
@@ -4146,7 +4164,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 194875,
       "name": "Come Here (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/2C2BJ5xjUD3AvVR6BtqiFu"
@@ -5030,7 +5048,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-08",
+      "date_removed": null,
       "duration_ms": 118002,
       "name": "Did It First (with Central Cee)",
       "url": "https://open.spotify.com/track/57lsYy0OZLNb5OQ7fEa3Hs"
@@ -5532,7 +5550,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 150408,
       "name": "Don Who Leo - A\u00f1ejo Remix",
       "url": "https://open.spotify.com/track/5AoeI3GRZVwWOwLUgwwDbi"
@@ -7044,7 +7062,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 104886,
       "name": "For Me",
       "url": "https://open.spotify.com/track/3blAqiAP9f44Kt3R7pQabP"
@@ -8080,7 +8098,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 214046,
       "name": "GO AGAIN (feat. Superheaven)",
       "url": "https://open.spotify.com/track/2cNTMTh42p1dwMS3Kaea8E"
@@ -8308,7 +8326,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 148965,
       "name": "Green Haired Girl (with TaTa, Jenn Carter & Dee Billz)",
       "url": "https://open.spotify.com/track/3YlV219mDmYvp63MsDwHKt"
@@ -8553,6 +8571,32 @@
     },
     {
       "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/0SoDqZyYx0DOmbSv0ReBwQ"
+      },
+      "artists": [
+        {
+          "name": "2Rare",
+          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
+        },
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "Ann Marie",
+          "url": "https://open.spotify.com/artist/3feB1IF85It42sebtWSqws"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217731,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/4IuWMIcuPDFmPhPrdl0DD2"
+    },
+    {
+      "album": {
         "name": "HEAT STICK",
         "url": "https://open.spotify.com/album/6H2ObAyZHuAoj45tYexC1w"
       },
@@ -8670,7 +8714,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-17",
+      "date_removed": null,
       "duration_ms": 181165,
       "name": "Help Me",
       "url": "https://open.spotify.com/track/487JCvAXVblflZyDJn3fSp"
@@ -10439,6 +10483,24 @@
     },
     {
       "album": {
+        "name": "Meet The Reap",
+        "url": "https://open.spotify.com/album/5XVDMCHpVCu2wsPErKXDDj"
+      },
+      "artists": [
+        {
+          "name": "BAK Jay",
+          "url": "https://open.spotify.com/artist/7L2tttKztwzcNqrKUiEbZR"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104000,
+      "name": "Junkie Money",
+      "url": "https://open.spotify.com/track/6g9RxuH13rSQliBLEpzuan"
+    },
+    {
+      "album": {
         "name": "Jupiter & Mars",
         "url": "https://open.spotify.com/album/6IgkZ5qys4BMo6X1iFYIBU"
       },
@@ -11856,7 +11918,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 274308,
       "name": "LOVE HURTS (with Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/20oVyPvaVROUvQi0Z9vgWg"
@@ -12398,7 +12460,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 203982,
       "name": "Millions (feat. Veeze & LUCKI)",
       "url": "https://open.spotify.com/track/4FueImbcTZOR7aC9FidrdT"
@@ -12486,7 +12548,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 174533,
       "name": "Moi",
       "url": "https://open.spotify.com/track/5AXNh6mEr2z8UFlqm8ftRH"
@@ -12800,6 +12862,28 @@
       "duration_ms": 129938,
       "name": "Mr. Skii",
       "url": "https://open.spotify.com/track/2PwWZ6NySkxwGBx9A2x5Ke"
+    },
+    {
+      "album": {
+        "name": "2 Sides of the Story",
+        "url": "https://open.spotify.com/album/6uPMZVukSlHx20cwHBfSlf"
+      },
+      "artists": [
+        {
+          "name": "Sugarhill Ddot",
+          "url": "https://open.spotify.com/artist/63X7mnpy2kfkDtltarrWD1"
+        },
+        {
+          "name": "STAR BANDZ",
+          "url": "https://open.spotify.com/artist/5qhDQveADDnjIZQ85AtgDM"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178921,
+      "name": "My Baby (feat. STAR BANDZ)",
+      "url": "https://open.spotify.com/track/5mx5lXpouQi2BnlGTHFvQZ"
     },
     {
       "album": {
@@ -13404,7 +13488,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 116845,
       "name": "New Chanel",
       "url": "https://open.spotify.com/track/3BxYFf2gpC85DBfsdqKAUn"
@@ -13538,7 +13622,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 128132,
       "name": "NISSAN ALTIMA",
       "url": "https://open.spotify.com/track/0fsgieABBLYkx6rk5N3JUD"
@@ -13752,10 +13836,32 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 162240,
       "name": "No One Else (feat. Jeremih)",
       "url": "https://open.spotify.com/track/5zr6snM3WQRoYC0QfnD9n7"
+    },
+    {
+      "album": {
+        "name": "I Only See Me",
+        "url": "https://open.spotify.com/album/0cxlQJVYsMoH80YVDVRclG"
+      },
+      "artists": [
+        {
+          "name": "Lil Rae",
+          "url": "https://open.spotify.com/artist/3mBgj6uh2YjNocaBRGJumA"
+        },
+        {
+          "name": "Big Yavo",
+          "url": "https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149794,
+      "name": "No Rentals (feat. Big Yavo)",
+      "url": "https://open.spotify.com/track/5Zg2yZfCBn7CsFvH0haHgA"
     },
     {
       "album": {
@@ -13902,6 +14008,24 @@
       "duration_ms": 137904,
       "name": "Number 2",
       "url": "https://open.spotify.com/track/0g3WQjlhCk9gcIVow4DigI"
+    },
+    {
+      "album": {
+        "name": "Off White Rozay",
+        "url": "https://open.spotify.com/album/18I4Bx1FCtAeb9uUvtOYia"
+      },
+      "artists": [
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149313,
+      "name": "Off White Rozay",
+      "url": "https://open.spotify.com/track/4DDnNyzFo6KaIacYE7RP6p"
     },
     {
       "album": {
@@ -14070,7 +14194,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 236962,
       "name": "OKAY (Remix) [feat. Jeezy]",
       "url": "https://open.spotify.com/track/0fPLCdD15xDslTFw28bTkt"
@@ -14990,7 +15114,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 237865,
       "name": "Photoshoot",
       "url": "https://open.spotify.com/track/6bphEFxKCxIcVGQFNhENAE"
@@ -18066,7 +18190,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 136708,
       "name": "Sorry Not Sorry",
       "url": "https://open.spotify.com/track/4lwfqyQXSDJ7kELpMErMih"
@@ -19514,7 +19638,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 163014,
       "name": "Tell Me Again (with Bay Swag)",
       "url": "https://open.spotify.com/track/4XtliFaBmh2ID7LiDwHjCK"
@@ -19780,7 +19904,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 249442,
       "name": "This N That (feat. Bryson Tiller & Kodak Black)",
       "url": "https://open.spotify.com/track/7evkF9xaNtay5beh1w9QyQ"
@@ -19820,7 +19944,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 178218,
       "name": "THOUGHT YOU WERE THE ONE",
       "url": "https://open.spotify.com/track/7liEa3mZZwh9auF98KYITv"
@@ -21554,6 +21678,28 @@
       "duration_ms": 205263,
       "name": "Wave",
       "url": "https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE"
+    },
+    {
+      "album": {
+        "name": "Wavy Navy University",
+        "url": "https://open.spotify.com/album/4MNyohrffBggOjMf5xRHVa"
+      },
+      "artists": [
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        },
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120541,
+      "name": "Wavy Navy University",
+      "url": "https://open.spotify.com/track/3U5eiVoVoTMIA0VGOLon45"
     },
     {
       "album": {

@@ -263,7 +263,7 @@
     },
     {
       "album": {
-        "name": "Bin Narin (\u0628\u064a\u0646 \u0646\u0627\u0631\u064a\u0646)",
+        "name": "Bin Narin - \u0628\u064a\u0646 \u0646\u0627\u0631\u064a\u0646",
         "url": "https://open.spotify.com/album/1HMzHpHSipGYpujRyL453I"
       },
       "artists": [
@@ -321,7 +321,7 @@
     },
     {
       "album": {
-        "name": "Chokran (\u0634\u0643\u0631\u064b\u0627)",
+        "name": "Chokran - \u0634\u0643\u0631\u064b\u0627",
         "url": "https://open.spotify.com/album/2KlbzWY3dHZc23RzEE0DFF"
       },
       "artists": [
@@ -636,7 +636,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 206400,
       "name": "Heroine",
       "url": "https://open.spotify.com/track/0iKRsjag7PRFFs9N6je8HK"
@@ -911,7 +911,7 @@
     },
     {
       "album": {
-        "name": "Makhsernech (\u0645\u062e\u0633\u0631\u0646\u0627\u0634)",
+        "name": "Makhsernech - \u0645\u062e\u0633\u0631\u0646\u0627\u0634",
         "url": "https://open.spotify.com/album/0a70t5S4aQWZvZaw5WwdKQ"
       },
       "artists": [
@@ -1020,6 +1020,32 @@
       "duration_ms": 236160,
       "name": "Menghir Sbab",
       "url": "https://open.spotify.com/track/4iyabYY2AX4n7GmulnWPA6"
+    },
+    {
+      "album": {
+        "name": "MERENGUE",
+        "url": "https://open.spotify.com/album/7fhrmMITLrEEyCCsQS8HLw"
+      },
+      "artists": [
+        {
+          "name": "DvrkBoy",
+          "url": "https://open.spotify.com/artist/4WlUjtiySIpBOeUp49j1BW"
+        },
+        {
+          "name": "Mahdi Machfar",
+          "url": "https://open.spotify.com/artist/3SqIybpY2gc8uqKNo4ypNT"
+        },
+        {
+          "name": "Catcher",
+          "url": "https://open.spotify.com/artist/6b6QZt0n4YNjqqRaTaEkAl"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192676,
+      "name": "MERENGUE",
+      "url": "https://open.spotify.com/track/3QqhtC6ID1MfSVNxg9x33p"
     },
     {
       "album": {
@@ -1507,7 +1533,7 @@
     },
     {
       "album": {
-        "name": "Tamam (\u062a\u0645\u0627\u0645)",
+        "name": "Tamam - \u062a\u0645\u0627\u0645",
         "url": "https://open.spotify.com/album/28IxyUCkogf2mh0hxv6fOS"
       },
       "artists": [

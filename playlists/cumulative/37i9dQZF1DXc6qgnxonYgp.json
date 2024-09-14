@@ -1170,7 +1170,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 180214,
       "name": "Gang Hood",
       "url": "https://open.spotify.com/track/7D0R0Uvg629nn7oejhsMR2"
@@ -1188,7 +1188,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 60000,
       "name": "GangDa",
       "url": "https://open.spotify.com/track/4WffAk4oWFV0Oqyq8YBOal"
@@ -2496,7 +2496,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-09",
+      "date_removed": null,
       "duration_ms": 185500,
       "name": "Naan Yaar",
       "url": "https://open.spotify.com/track/2VHuE9Sz1tnqHcMyRxDB6R"
@@ -2628,7 +2628,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-31",
+      "date_removed": null,
       "duration_ms": 195687,
       "name": "Nagaram Bcb2 (Remix) [feat. tha Q & Ruff Jana]",
       "url": "https://open.spotify.com/track/2eeQFhb7gRB0lSZJJ4ogWM"
@@ -2854,7 +2854,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 132601,
       "name": "No Hook",
       "url": "https://open.spotify.com/track/1NrPndNKZvSjU5DEmlIl26"
@@ -5156,6 +5156,32 @@
       "duration_ms": 176680,
       "name": "Vera Maari",
       "url": "https://open.spotify.com/track/4zSDTWYIakyqb4NNctrZDH"
+    },
+    {
+      "album": {
+        "name": "Vinayagane",
+        "url": "https://open.spotify.com/album/0t5Kd5beolLS0GtKHLcIu7"
+      },
+      "artists": [
+        {
+          "name": "Iykki Berry",
+          "url": "https://open.spotify.com/artist/0I0EZKnUpimGfzPY17L1yD"
+        },
+        {
+          "name": "Dev Major",
+          "url": "https://open.spotify.com/artist/4Iwi2N3FmmKmxAuGlD3AQv"
+        },
+        {
+          "name": "Sirkazhi Govindarajan",
+          "url": "https://open.spotify.com/artist/0POTtVVziAK15RvxYMP3H1"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75000,
+      "name": "Vinayagane",
+      "url": "https://open.spotify.com/track/6wmdzlkYB7gJHTI2GGvYBj"
     },
     {
       "album": {

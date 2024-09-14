@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Cecily, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,208,717 likes - 200 songs - 10 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,208,822 likes - 200 songs - 10 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

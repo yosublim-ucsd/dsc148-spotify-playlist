@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSPhLAnCjoM.md) - [plain]
 
 > "Le chant des cygnes" d'Indochine est le Grand Hit de la semaine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,012,702 likes - 40 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,012,786 likes - 40 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSPhLAnCjoM.md) - [plain]
 | 5 | [Rosa](https://open.spotify.com/track/6rbgsiBe28janVH7ysQO3a) | [RIDSA](https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es) | [Rosa](https://open.spotify.com/album/4PgjK4gAk0R7d4pUTURMvz) | 2:16 |
 | 6 | [Lisa](https://open.spotify.com/track/1F3bGtwgmhV9ND6jLYdKsh) | [Dinaa](https://open.spotify.com/artist/0shR2PS00avJ6Wp3npUBwS) | [Lisa](https://open.spotify.com/album/5lgCAuiOX00D2dqFy4atIg) | 3:50 |
 | 7 | [Papa dis\-moi](https://open.spotify.com/track/5sij5devnFg3Uf5BhSLAZS) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1), [Luna](https://open.spotify.com/artist/6WoNc6jV6PQq1wtZLmGJDY) | [Freedom](https://open.spotify.com/album/4dRr6s3IPF9OWzr6qIBQEt) | 2:35 |
-| 8 | [La pluie](https://open.spotify.com/track/1xNEjz5Wfhb5ApOMN0Xr8Q) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [La pluie](https://open.spotify.com/album/13N4j77R6XsNHGwwtl6npd) | 2:41 |
+| 8 | [la pluie](https://open.spotify.com/track/1xNEjz5Wfhb5ApOMN0Xr8Q) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [la pluie](https://open.spotify.com/album/13N4j77R6XsNHGwwtl6npd) | 2:41 |
 | 9 | [Bene](https://open.spotify.com/track/08a2Ve5gCAmvSomD1m2DJB) | [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD) | [Par nous\-mêmes](https://open.spotify.com/album/2X5USMHX1pApuSt0JIRrjA) | 3:13 |
 | 10 | [Je pense à vous](https://open.spotify.com/track/5cAzaNbU7AEgfsJgL9sbtX) | [Linh](https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj) | [Je pense à vous](https://open.spotify.com/album/0zTLRs6F2UXlju8OkmGAc4) | 2:52 |
 | 11 | [Résister \(What about Peace?\)](https://open.spotify.com/track/46fePeAZ2ui3QHDoGxpDMx) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Résister \(What about Peace?\)](https://open.spotify.com/album/3lrK6iynnWj1oO1fONiQ9I) | 3:10 |

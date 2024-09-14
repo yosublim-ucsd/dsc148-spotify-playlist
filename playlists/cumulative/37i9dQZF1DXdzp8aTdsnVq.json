@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-07",
-  "description": "Novedades y cl\u00e1sicos del popular g\u00e9nero colombiano. Foto: La Banda del 5",
+  "description": "Novedades y cl\u00e1sicos del popular g\u00e9nero colombiano. Foto: Binomio de Oro de Am\u00e9rica",
   "name": "Lo + del Vallenato",
   "tracks": [
     {
@@ -2286,7 +2286,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 163947,
       "name": "Olvidarte Otra Vez",
       "url": "https://open.spotify.com/track/2Tm8ziXRmiDizKZeevs2kF"
@@ -2540,6 +2540,24 @@
       "duration_ms": 244478,
       "name": "Reina Hermosa",
       "url": "https://open.spotify.com/track/0OCtBJjDwWmqqhtUSioB5M"
+    },
+    {
+      "album": {
+        "name": "Rojo Manzana",
+        "url": "https://open.spotify.com/album/4ol1ixQWb7W6zId8HGc7H2"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257570,
+      "name": "Rojo Manzana",
+      "url": "https://open.spotify.com/track/0hFZqhaJ9h4VGrYiTrcArn"
     },
     {
       "album": {

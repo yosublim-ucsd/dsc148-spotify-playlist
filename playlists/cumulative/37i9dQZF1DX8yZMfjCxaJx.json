@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Las favoritas de los patrones. Enigma Norte\u00f1o, Cheko MG en portada.",
+  "description": "Las favoritas de los patrones. El Rabbanito en portada.",
   "name": "Corridos Chakalosos",
   "tracks": [
     {
@@ -573,6 +573,24 @@
     },
     {
       "album": {
+        "name": "Corridos a Lo Maximo",
+        "url": "https://open.spotify.com/album/1s3X0yOH91R03rbWw41Ahv"
+      },
+      "artists": [
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206461,
+      "name": "David De Los Acme",
+      "url": "https://open.spotify.com/track/1C4notkddInnKftLi0idAW"
+    },
+    {
+      "album": {
         "name": "De Hecho",
         "url": "https://open.spotify.com/album/014yJonHJQZg1Q4NC8qQiz"
       },
@@ -752,7 +770,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 191202,
       "name": "Don Mayo",
       "url": "https://open.spotify.com/track/7m6bPXQpytQk3Iyf5w1tbQ"
@@ -1471,6 +1489,28 @@
     },
     {
       "album": {
+        "name": "El Mayor de los Ranas",
+        "url": "https://open.spotify.com/album/6Q3K1pFpo5jX2AYrWs9q4h"
+      },
+      "artists": [
+        {
+          "name": "Victor Valverde",
+          "url": "https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf"
+        },
+        {
+          "name": "JR Torres",
+          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172059,
+      "name": "El Mayor de los Ranas",
+      "url": "https://open.spotify.com/track/5E3T0hZ77NXXUtXJocRIOc"
+    },
+    {
+      "album": {
         "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
         "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
       },
@@ -1643,7 +1683,7 @@
     },
     {
       "album": {
-        "name": "El Primito (En Vivo)",
+        "name": "El Primito - En Vivo",
         "url": "https://open.spotify.com/album/49i61oL9VS1ISxh4Zsn8NW"
       },
       "artists": [
@@ -1676,7 +1716,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 235728,
       "name": "El Ranchero",
       "url": "https://open.spotify.com/track/2LMF4sDKysFt18OJcJc6Sz"
@@ -2100,10 +2140,28 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 224693,
       "name": "Ismael Pa\u2019 Servirle",
       "url": "https://open.spotify.com/track/1c1R6tiqHwigD1Ga5NmxRc"
+    },
+    {
+      "album": {
+        "name": "Fresh CLN =) - en vivo",
+        "url": "https://open.spotify.com/album/77E060dBo2MiSesDZhg1ZO"
+      },
+      "artists": [
+        {
+          "name": "Los Zutanos",
+          "url": "https://open.spotify.com/artist/2wCT5vFRhiJwFLg0mZPebc"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220629,
+      "name": "Ivan archivaldo - En vivo",
+      "url": "https://open.spotify.com/track/7b7WVTPsEePRuEIQv26Taa"
     },
     {
       "album": {
@@ -2118,7 +2176,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 214777,
       "name": "Jardines Del Humaya",
       "url": "https://open.spotify.com/track/6Y2YCIxmUuzuDTScVJF2WK"
@@ -2361,6 +2419,28 @@
     },
     {
       "album": {
+        "name": "La Gente Del M",
+        "url": "https://open.spotify.com/album/2CvOJKn34jkVEyNoJZBbpO"
+      },
+      "artists": [
+        {
+          "name": "Grupo Definitivo",
+          "url": "https://open.spotify.com/artist/3lPaiUdNwPTpYXdBmrhkxR"
+        },
+        {
+          "name": "Grupo Feroz",
+          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170403,
+      "name": "La Gente Del M",
+      "url": "https://open.spotify.com/track/0poOlZivtPe0hUixXV4VsW"
+    },
+    {
+      "album": {
         "name": "La Letra Muda",
         "url": "https://open.spotify.com/album/5VM6PVwdQRTbTfxtWLMW0U"
       },
@@ -2394,7 +2474,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 189633,
       "name": "La Plebada de la Sierra",
       "url": "https://open.spotify.com/track/4VvWMPR4qWC7djRy6gnmH2"
@@ -2424,6 +2504,24 @@
       "duration_ms": 211472,
       "name": "La Tierra del Corrido - Spotify Singles",
       "url": "https://open.spotify.com/track/1oZqJaE23GEn4SOFQcnTPB"
+    },
+    {
+      "album": {
+        "name": "La Tropa Del Infierno",
+        "url": "https://open.spotify.com/album/6w2ZltCLxUaTF6OyQo46kx"
+      },
+      "artists": [
+        {
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162641,
+      "name": "La Tropa Del Infierno",
+      "url": "https://open.spotify.com/track/4FLBugx2vcm6hLKdOjlZU7"
     },
     {
       "album": {
@@ -2644,7 +2742,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 179486,
       "name": "Luces, C\u00e1mara y Acci\u00f3n",
       "url": "https://open.spotify.com/track/2Olwh5dazDuJLNMPxAszab"
@@ -3342,6 +3440,28 @@
       "duration_ms": 130363,
       "name": "Soy Don Joaqu\u00edn Guzm\u00e1n",
       "url": "https://open.spotify.com/track/03CAtDQBd9q3ymQYFcZ21w"
+    },
+    {
+      "album": {
+        "name": "Soy Me\u00f1o",
+        "url": "https://open.spotify.com/album/0RyCLJnMB5AcZnr7JLJ9no"
+      },
+      "artists": [
+        {
+          "name": "Grupo Feroz",
+          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
+        },
+        {
+          "name": "Los Del Sombrero",
+          "url": "https://open.spotify.com/artist/6utxF8SRvXv8eshN0HzsCt"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142971,
+      "name": "Soy Me\u00f1o",
+      "url": "https://open.spotify.com/track/1UtqU8fzHsapHGxAITKVhL"
     },
     {
       "album": {

@@ -681,6 +681,24 @@
     },
     {
       "album": {
+        "name": "Boom Boom Bass - Orchestra Version",
+        "url": "https://open.spotify.com/album/6rxvpb7N5NXGD9PlpAwLBv"
+      },
+      "artists": [
+        {
+          "name": "Seoul Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/4jeL1MqtTmuyNb04ZuzGR7"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162205,
+      "name": "Boom Boom Bass - Orchestra Version",
+      "url": "https://open.spotify.com/track/4OgQ3J2o8mI82LcJOqLrX2"
+    },
+    {
+      "album": {
         "name": "But Beautiful",
         "url": "https://open.spotify.com/album/0U7erX91kgmQDL6BlDvcIn"
       },
@@ -1050,7 +1068,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-15",
+      "date_removed": null,
       "duration_ms": 173880,
       "name": "Die Zauberfl\u00f6te, K.620 / Act 2: \"Der H\u00f6lle Rache kocht in meinem Herzen\"",
       "url": "https://open.spotify.com/track/1LS8z44ljIsRXJCDcIKVsg"
@@ -1236,7 +1254,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 244918,
       "name": "Growl - Orchestra Version",
       "url": "https://open.spotify.com/track/11xLAKc6AdEsSbosVOpRUk"
@@ -1964,7 +1982,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 446746,
       "name": "Piano Sonata No. 12 in F Major, K. 332: III. Allegro assai",
       "url": "https://open.spotify.com/track/58Ie6jgzXhP2OKUZIILvHA"

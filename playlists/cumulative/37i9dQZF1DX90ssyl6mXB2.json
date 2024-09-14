@@ -197,6 +197,24 @@
     },
     {
       "album": {
+        "name": "Autumn",
+        "url": "https://open.spotify.com/album/3vdIKZeNtDF9JZvodWAbFN"
+      },
+      "artists": [
+        {
+          "name": "Phora",
+          "url": "https://open.spotify.com/artist/5XDJlfdfbGNJrOJJNxTcdq"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188066,
+      "name": "Autumn",
+      "url": "https://open.spotify.com/track/4XRR2nNTU9UWBTBOdmnmyT"
+    },
+    {
+      "album": {
         "name": "Bad Bchs",
         "url": "https://open.spotify.com/album/1T1T3ftHa3uSa2CISNnIaD"
       },
@@ -338,6 +356,28 @@
       "duration_ms": 153671,
       "name": "come thru",
       "url": "https://open.spotify.com/track/79Xwa8oIicEai4bFVBxsuN"
+    },
+    {
+      "album": {
+        "name": "day+night (feat. Wolfacejoeyy)",
+        "url": "https://open.spotify.com/album/7qpuVhQPYGbtdkuNeoCElG"
+      },
+      "artists": [
+        {
+          "name": "Reuben Aziz",
+          "url": "https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh"
+        },
+        {
+          "name": "wolfacejoeyy",
+          "url": "https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167983,
+      "name": "day+night (feat. Wolfacejoeyy)",
+      "url": "https://open.spotify.com/track/15ZqvIC2zw8BWXD2hhLiAR"
     },
     {
       "album": {
@@ -1336,6 +1376,24 @@
       "duration_ms": 259385,
       "name": "None Of Your Concern (feat. Big Sean)",
       "url": "https://open.spotify.com/track/75MSZRbAbQuzfUV3Pefvut"
+    },
+    {
+      "album": {
+        "name": "Oakland Pt. 2",
+        "url": "https://open.spotify.com/album/17mz6AvacvJo6kK9stQTLK"
+      },
+      "artists": [
+        {
+          "name": "Karri",
+          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156333,
+      "name": "Oakland Pt. 2",
+      "url": "https://open.spotify.com/track/53ZSD18jfaGFqSnj4FL8Lq"
     },
     {
       "album": {

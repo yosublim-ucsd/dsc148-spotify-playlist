@@ -1500,7 +1500,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 185806,
       "name": "Holiyaan - From \"Vedaa\"",
       "url": "https://open.spotify.com/track/4s2O13zv052LCfm2a5FNKv"
@@ -1792,6 +1792,40 @@
       "duration_ms": 218372,
       "name": "Jiye Toh Jiye Kaise 2.0",
       "url": "https://open.spotify.com/track/5wi8UMMGlsKoBxXmbBFsF6"
+    },
+    {
+      "album": {
+        "name": "Kahan Shuru Kahan Khatam",
+        "url": "https://open.spotify.com/album/09a2swL9jBNHfRkAV8iBzQ"
+      },
+      "artists": [
+        {
+          "name": "Dhvani Bhanushali",
+          "url": "https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk"
+        },
+        {
+          "name": "Vismay Patel",
+          "url": "https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Akshay & IP",
+          "url": "https://open.spotify.com/artist/2jiSIlVrIaBnJA2x4jqqvf"
+        },
+        {
+          "name": "IP Singh",
+          "url": "https://open.spotify.com/artist/7pauOFC9bRqioSX30AvNkG"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176250,
+      "name": "Kahan Shuru Kahan Khatam Title Track",
+      "url": "https://open.spotify.com/track/30IKqBTN2JJe9cKHEDzThC"
     },
     {
       "album": {

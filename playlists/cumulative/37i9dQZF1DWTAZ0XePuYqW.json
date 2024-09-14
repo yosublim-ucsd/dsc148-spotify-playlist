@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-19",
-  "description": "That's that big energy. Cover: LION BABE",
+  "description": "That's that big energy. Cover: Kito",
   "name": "Bounce",
   "tracks": [
     {
@@ -3103,6 +3103,24 @@
     },
     {
       "album": {
+        "name": "Gwara Gwara",
+        "url": "https://open.spotify.com/album/1tTCpNbAR3vpq3PUFQw1Zm"
+      },
+      "artists": [
+        {
+          "name": "Moonchild Sanelly",
+          "url": "https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198533,
+      "name": "Gwara Gwara",
+      "url": "https://open.spotify.com/track/3ITpuImbmMtavdxCPoYQsX"
+    },
+    {
+      "album": {
         "name": "Gyal Clown",
         "url": "https://open.spotify.com/album/1Got83XMepM9n4AS4AwT6h"
       },
@@ -3194,7 +3212,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 134547,
       "name": "Head Start",
       "url": "https://open.spotify.com/track/4N7alCheeoFUxAAKkuTzU5"
@@ -5006,7 +5024,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 163910,
       "name": "No Piano",
       "url": "https://open.spotify.com/track/39McKyxrkhiir6eaeAEDSc"
@@ -7064,6 +7082,24 @@
       "duration_ms": 164186,
       "name": "Thinking A Lot",
       "url": "https://open.spotify.com/track/6R4i0xWUvB5gzkCRilxOPK"
+    },
+    {
+      "album": {
+        "name": "THROBBY",
+        "url": "https://open.spotify.com/album/2V3S27WE1edWKHR8B6tZ0x"
+      },
+      "artists": [
+        {
+          "name": "NADUH",
+          "url": "https://open.spotify.com/artist/5voTUw1S7gRACJXVp3slwh"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198559,
+      "name": "THROBBY",
+      "url": "https://open.spotify.com/track/6ryBPn4MALM4IcZj9iPriQ"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover: A-Reece",
-  "num_followers": 157912,
+  "num_followers": 157973,
   "original_name": "Afro Bars ",
   "owner": {
     "name": "Spotify",
@@ -863,26 +863,6 @@
     {
       "added_at": "2024-09-13 00:01:00",
       "album": {
-        "name": "Fire & Ice",
-        "url": "https://open.spotify.com/album/3EZt8wq3KWXB7gVM9SuLWR"
-      },
-      "artists": [
-        {
-          "name": "Ice Prince",
-          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 186191,
-      "name": "Accidentally (feat. Seyi Vibez)",
-      "url": "https://open.spotify.com/track/3ZfLSz6tcx19sjKMVCbccG"
-    },
-    {
-      "added_at": "2024-09-13 00:01:00",
-      "album": {
         "name": "Honne - Remix",
         "url": "https://open.spotify.com/album/0YcPmVJnvp67cxK9aKDGYA"
       },
@@ -907,6 +887,42 @@
     {
       "added_at": "2024-09-13 00:01:00",
       "album": {
+        "name": "Fire & Ice",
+        "url": "https://open.spotify.com/album/3EZt8wq3KWXB7gVM9SuLWR"
+      },
+      "artists": [
+        {
+          "name": "Ice Prince",
+          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 186191,
+      "name": "Accidentally (feat. Seyi Vibez)",
+      "url": "https://open.spotify.com/track/3ZfLSz6tcx19sjKMVCbccG"
+    },
+    {
+      "added_at": "2024-09-13 00:01:00",
+      "album": {
+        "name": "coMPRess",
+        "url": "https://open.spotify.com/album/14bqGESf16BESeYQaxQQOK"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 194811,
+      "name": "coMPRess",
+      "url": "https://open.spotify.com/track/6NXG22PY2M8tdRU5WNKGjn"
+    },
+    {
+      "added_at": "2024-09-13 00:01:00",
+      "album": {
         "name": "No Love In Lagos",
         "url": "https://open.spotify.com/album/3qUxHQMBLeBWsBTkPnhXb3"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 189199,
       "name": "No Love In Lagos",
       "url": "https://open.spotify.com/track/3S612TExInLWnYOsQ9Ti9y"
-    },
-    {
-      "added_at": "2024-09-13 00:01:00",
-      "album": {
-        "name": "coMPRess",
-        "url": "https://open.spotify.com/album/14bqGESf16BESeYQaxQQOK"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 194811,
-      "name": "coMPRess",
-      "url": "https://open.spotify.com/track/6NXG22PY2M8tdRU5WNKGjn"
     },
     {
       "added_at": "2024-09-13 00:01:00",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2024-09-13 00:01:00",
       "album": {
-        "name": "Hate",
-        "url": "https://open.spotify.com/album/33CQoQojSZtFZJO8xALGJ1"
-      },
-      "artists": [
-        {
-          "name": "Jay Bahd",
-          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 210133,
-      "name": "Hate",
-      "url": "https://open.spotify.com/track/1aOG93pV9v9fYvTTUC9UsZ"
-    },
-    {
-      "added_at": "2024-09-13 00:01:00",
-      "album": {
         "name": "Hennessy Cypher",
         "url": "https://open.spotify.com/album/3pqhwdNsbyzuXL54RMUjNw"
       },
@@ -1255,6 +1235,26 @@
       "duration_ms": 500310,
       "name": "Hennessy Cypher",
       "url": "https://open.spotify.com/track/4Pk8OqjfAwDnYS6kD7RlRa"
+    },
+    {
+      "added_at": "2024-09-13 00:01:00",
+      "album": {
+        "name": "Hate",
+        "url": "https://open.spotify.com/album/33CQoQojSZtFZJO8xALGJ1"
+      },
+      "artists": [
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 210133,
+      "name": "Hate",
+      "url": "https://open.spotify.com/track/1aOG93pV9v9fYvTTUC9UsZ"
     },
     {
       "added_at": "2024-09-13 00:01:00",

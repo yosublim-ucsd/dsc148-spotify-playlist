@@ -4,7 +4,7 @@
 
 > 찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요\. \(Cover: 정예인\(Yein\)\) \(A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers.\)
 
-336 songs - 20 hr 46 min
+338 songs - 20 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [2020](https://open.spotify.com/track/1MI6cDLkjRcDQOnwgsRAqT) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [silence](https://open.spotify.com/album/0JLXXdA1ENNyfyj6oKGbsq) | 4:53 | 2022-05-11 | 2022-07-28 |
 | [5min to heartbreak](https://open.spotify.com/track/7Ei4gfGU4wrXLTw2xcBcYw) | [Choi HEART](https://open.spotify.com/artist/3NnPQVIU8FpdYz4kWegI7m) | [5min to heartbreak](https://open.spotify.com/album/5Pxpez2LzgGCu3LZTzfxwa) | 3:20 | 2023-04-25 |  |
 | [A day of weather](https://open.spotify.com/track/21hBj9FtDyTISSXrTuApaw) | [JUNE](https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6) | [Ending](https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD) | 3:46 | 2022-05-11 |  |
+| [A Girl from Seoul](https://open.spotify.com/track/3m674WVMMNhhaTcZ5Vukv4) | [SHAI](https://open.spotify.com/artist/2pK2K73HyG9ftCLTyAwqII) | [A Girl from Seoul](https://open.spotify.com/album/2pXZc4MjDVcJb4yf5WaMZp) | 3:14 | 2024-09-13 |  |
 | [A Long Dream](https://open.spotify.com/track/4nXbMeiYZCMxl2B7NvxLdR) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [A Long Dream](https://open.spotify.com/album/61XIcKpWrkIFiGZA6p72zy) | 4:18 | 2022-07-22 | 2024-04-19 |
 | [A Long Dream](https://open.spotify.com/track/62dMZURLR5KjObOfBoVHu2) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Summer Plumage](https://open.spotify.com/album/4hGJv9dB3hlzFXZJQmKdpq) | 4:18 | 2022-09-05 | 2022-11-13 |
 | [A Long Dream 긴 꿈](https://open.spotify.com/track/0h5XgxN8lwqFCZXyGSCRch) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [A Long Dream 긴 꿈](https://open.spotify.com/album/14MzJLQEjGoWplHYwe3JiJ) | 4:18 | 2022-05-11 | 2022-07-29 |
@@ -71,10 +72,11 @@
 | [Cherry Pink](https://open.spotify.com/track/7afB8JJAPlRQxZOUcl8cqo) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Knock](https://open.spotify.com/album/0BtqrZfG23yUBgYVzL8yhm) | 3:17 | 2024-08-01 |  |
 | [City](https://open.spotify.com/track/38qecpqjU5yzD7bFwU6GKL) | [정은재](https://open.spotify.com/artist/6hG6knn5PcWdv4hN0Yhvso) | [City](https://open.spotify.com/album/5tIUoIBCtGC1TYpuoZ2xIF) | 2:42 | 2022-07-04 |  |
 | [City 1:00](https://open.spotify.com/track/0JsaFslY2aeK0gTWfASl9O) | [tang.erine](https://open.spotify.com/artist/3EYKQMtUKUH5LnfJVNjv7S) | [Late summer late night](https://open.spotify.com/album/4CQOPjJ7l5jHPJTEYfViZO) | 2:26 | 2022-05-11 | 2024-06-06 |
-| [City Drive](https://open.spotify.com/track/1lKA6Qy1QbzSeF0Ec7iolp) | [Nahee](https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD) | [City Drive](https://open.spotify.com/album/2oAZ4ieVQt9DWutbX2jKB1) | 3:27 | 2022-05-11 |  |
+| [City Drive](https://open.spotify.com/track/1lKA6Qy1QbzSeF0Ec7iolp) | [Nahee](https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD) | [City Drive](https://open.spotify.com/album/2oAZ4ieVQt9DWutbX2jKB1) | 3:27 | 2022-05-11 | 2024-09-14 |
 | [City Girl City Boy](https://open.spotify.com/track/6mWRDboiaEyDHFehyjEAPX) | [The Night Of Seokyo](https://open.spotify.com/artist/6vrBuDdSYNTK6CwCVflTnx), [Dawon](https://open.spotify.com/artist/0L4d5EwDWqTEOTjztWF0mw) | [City Girl City Boy](https://open.spotify.com/album/3cvNrNF9w8NfFbGF4gPw4x) | 3:42 | 2022-05-11 | 2022-07-27 |
 | [City Light](https://open.spotify.com/track/4pVqvBttw55NmUSqishQXH) | [JD](https://open.spotify.com/artist/6BJ76jC5b2bwoRVKrJg2qW) | [City Light](https://open.spotify.com/album/1tDEBYIEhLQiaru9SQ7S15) | 3:19 | 2022-05-11 | 2022-07-29 |
 | [City Night \(feat\. Jisun\)](https://open.spotify.com/track/7rYsqkzEoRAVFLYnOXBw8J) | [Babylon](https://open.spotify.com/artist/3P16F9giedxmc5238b66bo), [Jisun](https://open.spotify.com/artist/1FY6b8FV3KmqbQnY07T1f0) | [EGO 90'S PART 3](https://open.spotify.com/album/5550oPn3XJSepXsVjXlKAQ) | 3:40 | 2024-08-01 |  |
+| [Cocktail love](https://open.spotify.com/track/4fCvcM5qDmIoLsjgqB6mp8) | [YEWON](https://open.spotify.com/artist/2GJNbshsJuL7t4ME9LOwZ0) | [Cocktail love](https://open.spotify.com/album/5Zqacp0rDmrmB9k7PaqWws) | 3:24 | 2024-09-13 |  |
 | [Coconut Love](https://open.spotify.com/track/6urgOrkCIjtmyMYUkL370K) | [Seoulmoon](https://open.spotify.com/artist/0xsCXMIcnrXhRiNL11HlxP) | [Coconut Love](https://open.spotify.com/album/3vzJvwiI91UgooKT1jmSUx) | 3:14 | 2022-07-22 | 2022-11-04 |
 | [Coconut Love 코코넛 러브](https://open.spotify.com/track/6ZhbadBT9PnNEuDjW4YV3M) | [Seoulmoon](https://open.spotify.com/artist/0xsCXMIcnrXhRiNL11HlxP) | [Coconut Love 코코넛 러브](https://open.spotify.com/album/3mo2rZgIxhEpNa0cIlkAY9) | 3:14 | 2022-05-11 | 2022-07-29 |
 | [Color Me](https://open.spotify.com/track/0PjVjxtWhAUnaRYBWHWdFa) | [Weki Meki](https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx) | [Lucky](https://open.spotify.com/album/6sky0eX7g7zrikM2zPqf7h) | 3:40 | 2022-05-11 | 2022-07-03 |
@@ -156,7 +158,7 @@
 | [It's Beautiful Digging Club Seoul Version](https://open.spotify.com/track/6jMhNF4hbbB8zr7ugpksLe) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Onstage Digging Club Seoul Pt\. 3](https://open.spotify.com/album/1wODyT1p1d1XjvwMqIChsM) | 3:54 | 2022-05-11 | 2022-07-29 |
 | [It\`s Been A While \(Maxim City Summer Life c.f\)](https://open.spotify.com/track/6bsLkQX7R4JZdROpG9EmVl) | [Kim Hyun Chul](https://open.spotify.com/artist/39Jf69SNjTiIQfCQyLh4Gb) | [The Line](https://open.spotify.com/album/2Tx44eXDJWizJFcVXceY29) | 3:23 | 2022-05-11 |  |
 | [I’m not good at](https://open.spotify.com/track/0lpvVtvprYHA8L0uBYTFtS) | [Mitty](https://open.spotify.com/artist/1RyHoiUL5MomO7N7kzgZjQ) | [I’m not good at](https://open.spotify.com/album/7rTw76epZxmCpniX4WVDjc) | 3:43 | 2024-02-07 |  |
-| [I′m Alright](https://open.spotify.com/track/1EmSHvEUIwjzJOHXSXNhzj) | [QUDO](https://open.spotify.com/artist/5tlKesRTuMzjFhGMxoDRqf), [Sehwan Hong](https://open.spotify.com/artist/3djMK9mGuqKGYH4h9putId) | [INCHEON CITYPOP Vol\. 1](https://open.spotify.com/album/73rd6npj17FEsbxfNfEdJH) | 3:46 | 2022-05-11 |  |
+| [I′m Alright](https://open.spotify.com/track/1EmSHvEUIwjzJOHXSXNhzj) | [QUDO](https://open.spotify.com/artist/5tlKesRTuMzjFhGMxoDRqf), [Sehwan Hong](https://open.spotify.com/artist/3djMK9mGuqKGYH4h9putId) | [INCHEON CITYPOP Vol\. 1](https://open.spotify.com/album/73rd6npj17FEsbxfNfEdJH) | 3:46 | 2022-05-11 | 2024-09-14 |
 | [Jam Jam](https://open.spotify.com/track/3h7WIL3B6nP3171zl6HWj8) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Palette](https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp) | 3:38 | 2022-05-11 |  |
 | [Kona \(feat\. Jennifer Choi\)](https://open.spotify.com/track/2gw0RI5FJUgLHZuyLFYAvx) | [90yonge St.](https://open.spotify.com/artist/1eJGTmb81YxxbykvAezg2r), [Jennifer Choi](https://open.spotify.com/artist/3W2mgO6CNMSZc9qD4J6nJQ) | [Kona \(feat\. Jennifer Choi\)](https://open.spotify.com/album/2O6Q3bYc8H7mi2NkED3LA7) | 3:35 | 2022-05-11 |  |
 | [Ladies Night](https://open.spotify.com/track/73pkNaWK4N5QfkjabwW40s) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival’ Day 2](https://open.spotify.com/album/3DXz6ItR9DzIw9S0h3Cxfc) | 3:56 | 2022-05-11 |  |

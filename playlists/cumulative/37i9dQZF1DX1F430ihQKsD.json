@@ -93,6 +93,24 @@
     },
     {
       "album": {
+        "name": "2 Little Mountains",
+        "url": "https://open.spotify.com/album/5teUs0YI544K9Anr5IjKqf"
+      },
+      "artists": [
+        {
+          "name": "Milk & Bone",
+          "url": "https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132998,
+      "name": "2 Little Mountains",
+      "url": "https://open.spotify.com/track/6FqKatWR2tNugWFod9T9Vk"
+    },
+    {
+      "album": {
         "name": "20k heures de solitude",
         "url": "https://open.spotify.com/album/0PQmGXDqt6jH23N1VCSB3J"
       },
@@ -1466,7 +1484,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 177019,
       "name": "Catastrophe",
       "url": "https://open.spotify.com/track/7IwbWjzcNGy7VIAygSMGda"
@@ -4277,6 +4295,24 @@
     },
     {
       "album": {
+        "name": "June",
+        "url": "https://open.spotify.com/album/3RTNMOpBYxZqtdlU64gMIa"
+      },
+      "artists": [
+        {
+          "name": "LaF",
+          "url": "https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138666,
+      "name": "June",
+      "url": "https://open.spotify.com/track/6Vo5ENxOavBnY9xANmMqi7"
+    },
+    {
+      "album": {
         "name": "Just Like",
         "url": "https://open.spotify.com/album/0NoGvhRvcF0GaTwSHCm25Z"
       },
@@ -5546,7 +5582,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 220487,
       "name": "Mont Royal",
       "url": "https://open.spotify.com/track/1DfZo2KOWMWjipIajW9Xww"
@@ -7719,6 +7755,24 @@
     },
     {
       "album": {
+        "name": "Se baigner",
+        "url": "https://open.spotify.com/album/2nbX0mMcbetaibMZN4EY7a"
+      },
+      "artists": [
+        {
+          "name": "Mon Doux Saigneur",
+          "url": "https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274440,
+      "name": "Se baigner",
+      "url": "https://open.spotify.com/track/2Vj2nFYoQh6AkEqqR2llP0"
+    },
+    {
+      "album": {
         "name": "Search History",
         "url": "https://open.spotify.com/album/2LpBl5PDQCYn3RF94j401j"
       },
@@ -8096,7 +8150,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 127734,
       "name": "Son Mad",
       "url": "https://open.spotify.com/track/2ajJIOv9mRekNm1wIfMxi6"

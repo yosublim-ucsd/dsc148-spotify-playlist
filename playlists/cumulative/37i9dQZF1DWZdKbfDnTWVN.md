@@ -4,10 +4,11 @@
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6?si=b0HILXSmRjK9I0YpZgVZXQ"> Nyashinski</a>
 
-262 songs - 13 hr 33 min
+264 songs - 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [1 of 1](https://open.spotify.com/track/6hDTK2zfY3dL6K1GFRBR22) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [To Whom It May Concern](https://open.spotify.com/album/4QlwqxdrSVolU2dcaHzfx9) | 3:30 | 2024-09-12 |  |
 | [2 Step Gliding](https://open.spotify.com/track/3LCisn5gOFXlwHR6CCJH1h) | [Ekumbo](https://open.spotify.com/artist/1a40Z4TMkLys2UVlxDXPT7), [Michael Carpenter](https://open.spotify.com/artist/2zxCiaufpb0PVlWb9iRBDz), [lloco](https://open.spotify.com/artist/2WTWVfASuVDEfdKWjTomXH), [Swahili Papi](https://open.spotify.com/artist/66HNxzGcmvdYQD36Pcg0Di) | [2 Step Gliding](https://open.spotify.com/album/6ZnGv3LJi8W90QoaqNlMRh) | 1:44 | 2022-10-06 | 2023-09-15 |
 | [22 jump st.](https://open.spotify.com/track/1a7k5VXO6Uf30yJmReB0EY) | [KiliHippie](https://open.spotify.com/artist/64AUkgXTxHJCmPnE44m8wX), [The Swamiii](https://open.spotify.com/artist/41s5UgViwfxoeKBxuJjtVh) | [22 jump st.](https://open.spotify.com/album/5XfWQYi5gBU7L62hFeNDWy) | 2:36 | 2024-02-29 | 2024-06-01 |
 | [2FLY2COLD](https://open.spotify.com/track/3kFnL2zptnyzdcrgPJz5V8) | [KABUGA](https://open.spotify.com/artist/68d2olhtpyi3Lt3vKY6uWa) | [KUSEMA UKWELI \(THE TRUTH\)](https://open.spotify.com/album/7FfGiHEYSpuqCdUvhfifyO) | 3:02 | 2022-08-18 | 2023-02-04 |
@@ -104,6 +105,7 @@
 | [Induction settings](https://open.spotify.com/track/4R72Lx5vcEWOvQQjD9dyQD) | [Alwyne Thuggerson](https://open.spotify.com/artist/5xSHBh0uOb00QCAPURnBnm), [GTB Emzee](https://open.spotify.com/artist/75pIMAgNt4bf8OWBW8eImv) | [Induction settings](https://open.spotify.com/album/6jLMX9s7gxUhtDglnpyLmE) | 2:33 | 2024-02-22 | 2024-06-14 |
 | [Into That](https://open.spotify.com/track/7fbPgtWH49WWbY0YIKi3wm) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Into That](https://open.spotify.com/album/0dWYoKiceJd8STPSzkvPlw) | 2:52 | 2024-06-27 |  |
 | [Intro Freestyle](https://open.spotify.com/track/2SeDaMZmSfwJ5McsxiSMf8) | [Boutross](https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y) | [Intro Freestyle](https://open.spotify.com/album/0Ud4Tg3WBjnKkqQRKgwsNJ) | 2:19 | 2024-01-19 | 2024-06-28 |
+| [Jitu](https://open.spotify.com/track/7I0z98bXVwuaeKanm4u28v) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6), [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az), [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap) | [To Whom It May Concern](https://open.spotify.com/album/4QlwqxdrSVolU2dcaHzfx9) | 4:42 | 2024-09-12 |  |
 | [Jomo](https://open.spotify.com/track/4yJfiuzjUkkoIKDhdg1cEf) | [LOOORD PIRATES](https://open.spotify.com/artist/3DanNVxKjCuw8TFxqyS8SV), [ANARCHY](https://open.spotify.com/artist/6RMxR7pd9gScWLqbbTHYrn) | [Jomo](https://open.spotify.com/album/1VrDqJJSVQVy6IWZn84eq7) | 4:13 | 2024-01-26 | 2024-04-12 |
 | [Joy Kendi](https://open.spotify.com/track/15ChBy7aLI3B4UWhW8pnWw) | [Groovy Jo](https://open.spotify.com/artist/1IwUZ6iKBJmi7YdDRqAHr6) | [Joy Kendi](https://open.spotify.com/album/3GuSzxFzt5mbNL53tX1Zd6) | 2:32 | 2024-05-30 |  |
 | [Judgment Day](https://open.spotify.com/track/7M358bpZKqYEf2kkvvo7n7) | [Alwyne Thuggerson](https://open.spotify.com/artist/5xSHBh0uOb00QCAPURnBnm) | [Judgment Day](https://open.spotify.com/album/5kvLli7isTzsrWG5hNac8O) | 1:46 | 2023-10-11 | 2023-12-01 |

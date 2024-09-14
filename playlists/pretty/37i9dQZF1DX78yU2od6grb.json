@@ -1,6 +1,6 @@
 {
   "description": "Quer fazer aquele exerc\u00edcio empolgante e sem estresse? Fizemos uma playlist com o som certo para voc\u00ea alcan\u00e7ar novas metas.",
-  "num_followers": 553678,
+  "num_followers": 553647,
   "original_name": "Corra numa Boa",
   "owner": {
     "name": "Spotify",
@@ -411,26 +411,6 @@
     {
       "added_at": "2024-06-26 02:03:12",
       "album": {
-        "name": "Hymn for the Weekend (Seeb Remix)",
-        "url": "https://open.spotify.com/album/0ezwRysfWCrR5tDgpBwkIw"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        },
-        {
-          "name": "Seeb",
-          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
-        }
-      ],
-      "duration_ms": 212647,
-      "name": "Hymn for the Weekend - Seeb Remix",
-      "url": "https://open.spotify.com/track/6s3GEN8wK0OMzzzZbXj0fu"
-    },
-    {
-      "added_at": "2024-06-26 02:03:12",
-      "album": {
         "name": "Some Say (Felix Jaehn Remix)",
         "url": "https://open.spotify.com/album/3HE3e3QqmuhAsxcJGtxyEr"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 186878,
       "name": "Some Say - Felix Jaehn Remix",
       "url": "https://open.spotify.com/track/7C1trmcQQ5n5RNy4l6ziCv"
+    },
+    {
+      "added_at": "2024-06-26 02:03:12",
+      "album": {
+        "name": "Hymn for the Weekend (Seeb Remix)",
+        "url": "https://open.spotify.com/album/0ezwRysfWCrR5tDgpBwkIw"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "Seeb",
+          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
+        }
+      ],
+      "duration_ms": 212647,
+      "name": "Hymn for the Weekend - Seeb Remix",
+      "url": "https://open.spotify.com/track/6s3GEN8wK0OMzzzZbXj0fu"
     },
     {
       "added_at": "2024-06-26 02:03:12",
@@ -871,6 +871,26 @@
     {
       "added_at": "2024-06-26 02:03:12",
       "album": {
+        "name": "Physical (Alok Remix)",
+        "url": "https://open.spotify.com/album/33ovaMUQHWkt0GCkjYLDTh"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Physical - Alok Remix",
+      "url": "https://open.spotify.com/track/6K96iePtHzcOJ1AhsBlFAN"
+    },
+    {
+      "added_at": "2024-06-26 02:03:12",
+      "album": {
         "name": "All The Lies",
         "url": "https://open.spotify.com/album/4JFyas1xaX9NnAvRP9DhKF"
       },
@@ -891,26 +911,6 @@
       "duration_ms": 179456,
       "name": "All The Lies",
       "url": "https://open.spotify.com/track/6PqUdUGS4h5aGY7YyEGXr8"
-    },
-    {
-      "added_at": "2024-06-26 02:03:12",
-      "album": {
-        "name": "Physical (Alok Remix)",
-        "url": "https://open.spotify.com/album/33ovaMUQHWkt0GCkjYLDTh"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Physical - Alok Remix",
-      "url": "https://open.spotify.com/track/6K96iePtHzcOJ1AhsBlFAN"
     },
     {
       "added_at": "2024-06-26 02:03:12",
@@ -1007,6 +1007,30 @@
     {
       "added_at": "2024-06-26 02:03:12",
       "album": {
+        "name": "Don't Cry For Me (with Jason Derulo)",
+        "url": "https://open.spotify.com/album/6ZPH8jjxr3QtODz3bXX4kP"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Martin Jensen",
+          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 155769,
+      "name": "Don't Cry For Me (with Jason Derulo)",
+      "url": "https://open.spotify.com/track/0FLwo3U1NrjocfK2FDisrX"
+    },
+    {
+      "added_at": "2024-06-26 02:03:12",
+      "album": {
         "name": "THE END",
         "url": "https://open.spotify.com/album/1uLwrKImFoCGDkQt1F0Y1e"
       },
@@ -1063,30 +1087,6 @@
       "duration_ms": 173446,
       "name": "I Do - with Zeeba",
       "url": "https://open.spotify.com/track/6lgLLgwC7vKguYUPSszMNt"
-    },
-    {
-      "added_at": "2024-06-26 02:03:12",
-      "album": {
-        "name": "Don't Cry For Me (with Jason Derulo)",
-        "url": "https://open.spotify.com/album/6ZPH8jjxr3QtODz3bXX4kP"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Martin Jensen",
-          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
-        },
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        }
-      ],
-      "duration_ms": 155769,
-      "name": "Don't Cry For Me (with Jason Derulo)",
-      "url": "https://open.spotify.com/track/0FLwo3U1NrjocfK2FDisrX"
     },
     {
       "added_at": "2024-06-26 02:03:12",
@@ -1179,6 +1179,30 @@
     {
       "added_at": "2024-06-26 02:03:12",
       "album": {
+        "name": "Another You (feat. The Vamps)",
+        "url": "https://open.spotify.com/album/7f2gWbQrwvU6JgidZr2xqV"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "BLOODLINE",
+          "url": "https://open.spotify.com/artist/2XIjSIUqsAXWJbMrVykTZ3"
+        },
+        {
+          "name": "The Vamps",
+          "url": "https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs"
+        }
+      ],
+      "duration_ms": 158709,
+      "name": "Another You (feat. The Vamps)",
+      "url": "https://open.spotify.com/track/2OPCGQHz6Gi7U7aDShfhR8"
+    },
+    {
+      "added_at": "2024-06-26 02:03:12",
+      "album": {
         "name": "Home Sweet Home (feat. ALMA & Digital Farm Animals)",
         "url": "https://open.spotify.com/album/4JMUcayU11ORfD6m7nt5kk"
       },
@@ -1199,30 +1223,6 @@
       "duration_ms": 177804,
       "name": "Home Sweet Home (feat. ALMA & Digital Farm Animals)",
       "url": "https://open.spotify.com/track/3vIPdMmbsye0YMhXy4GeXt"
-    },
-    {
-      "added_at": "2024-06-26 02:03:12",
-      "album": {
-        "name": "Wake Up With You",
-        "url": "https://open.spotify.com/album/0w3pORscruGFSgCQgw8N0E"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Magnificence",
-          "url": "https://open.spotify.com/artist/5zfDGV6C2Xwns1g773GF3N"
-        }
-      ],
-      "duration_ms": 183870,
-      "name": "Wake Up With You",
-      "url": "https://open.spotify.com/track/543VnS905CHArJ2oFm17p5"
     },
     {
       "added_at": "2024-06-26 02:03:12",
@@ -1271,26 +1271,26 @@
     {
       "added_at": "2024-06-26 02:03:12",
       "album": {
-        "name": "Another You (feat. The Vamps)",
-        "url": "https://open.spotify.com/album/7f2gWbQrwvU6JgidZr2xqV"
+        "name": "Wake Up With You",
+        "url": "https://open.spotify.com/album/0w3pORscruGFSgCQgw8N0E"
       },
       "artists": [
         {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
         },
         {
-          "name": "BLOODLINE",
-          "url": "https://open.spotify.com/artist/2XIjSIUqsAXWJbMrVykTZ3"
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
         },
         {
-          "name": "The Vamps",
-          "url": "https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs"
+          "name": "Magnificence",
+          "url": "https://open.spotify.com/artist/5zfDGV6C2Xwns1g773GF3N"
         }
       ],
-      "duration_ms": 158709,
-      "name": "Another You (feat. The Vamps)",
-      "url": "https://open.spotify.com/track/2OPCGQHz6Gi7U7aDShfhR8"
+      "duration_ms": 183870,
+      "name": "Wake Up With You",
+      "url": "https://open.spotify.com/track/543VnS905CHArJ2oFm17p5"
     },
     {
       "added_at": "2024-06-26 02:03:12",
@@ -1403,30 +1403,6 @@
     {
       "added_at": "2024-06-26 02:03:12",
       "album": {
-        "name": "Bend The Knee",
-        "url": "https://open.spotify.com/album/6QWKhJk5owLQ1sr4Aq7QXE"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        },
-        {
-          "name": "Timbaland",
-          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
-        }
-      ],
-      "duration_ms": 187402,
-      "name": "Bend The Knee",
-      "url": "https://open.spotify.com/track/7uIBwmlQcT5unRbmr4SPzt"
-    },
-    {
-      "added_at": "2024-06-26 02:03:12",
-      "album": {
         "name": "Midnight Calls",
         "url": "https://open.spotify.com/album/3ELMVr61XRoOsqDTC6r2sk"
       },
@@ -1475,6 +1451,30 @@
       "duration_ms": 185875,
       "name": "2 Die 4",
       "url": "https://open.spotify.com/track/3QK2bbLCTGoFXFt64e5TBY"
+    },
+    {
+      "added_at": "2024-06-26 02:03:12",
+      "album": {
+        "name": "Bend The Knee",
+        "url": "https://open.spotify.com/album/6QWKhJk5owLQ1sr4Aq7QXE"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        },
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        }
+      ],
+      "duration_ms": 187402,
+      "name": "Bend The Knee",
+      "url": "https://open.spotify.com/track/7uIBwmlQcT5unRbmr4SPzt"
     },
     {
       "added_at": "2024-06-26 02:03:12",
@@ -1531,34 +1531,6 @@
       "duration_ms": 232120,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/72EaWichAXl7tTulGwxCKO"
-    },
-    {
-      "added_at": "2024-06-26 02:03:12",
-      "album": {
-        "name": "Running",
-        "url": "https://open.spotify.com/album/20qhDMcpbzJCBNBks5scjY"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "Gabriel Boni",
-          "url": "https://open.spotify.com/artist/0bm790gMtTnJ9RWUijkC24"
-        },
-        {
-          "name": "Mojjo",
-          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
-        },
-        {
-          "name": "Mayra",
-          "url": "https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt"
-        }
-      ],
-      "duration_ms": 238245,
-      "name": "Running",
-      "url": "https://open.spotify.com/track/37WjD4t8hZ5xXEjrhIAmKF"
     },
     {
       "added_at": "2024-06-26 02:03:12",
@@ -1647,6 +1619,34 @@
       "duration_ms": 152913,
       "name": "Piece Of Your Heart",
       "url": "https://open.spotify.com/track/5p1ex0pXv6jSPJ6QbumQpD"
+    },
+    {
+      "added_at": "2024-06-26 02:03:12",
+      "album": {
+        "name": "Running",
+        "url": "https://open.spotify.com/album/20qhDMcpbzJCBNBks5scjY"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "Gabriel Boni",
+          "url": "https://open.spotify.com/artist/0bm790gMtTnJ9RWUijkC24"
+        },
+        {
+          "name": "Mojjo",
+          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
+        },
+        {
+          "name": "Mayra",
+          "url": "https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt"
+        }
+      ],
+      "duration_ms": 238245,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/37WjD4t8hZ5xXEjrhIAmKF"
     },
     {
       "added_at": "2024-06-26 02:03:12",

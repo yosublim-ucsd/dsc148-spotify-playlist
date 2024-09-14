@@ -1,12 +1,12 @@
 {
-  "description": "This is Bruna Karla. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 132852,
+  "description": "This is Bruna Karla. The essential tracks, all in one playlist.",
+  "num_followers": 132854,
   "original_name": "This Is Bruna Karla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuDdgAAAAAAjXvdmoaMVZRdCTC6r3z86",
+  "snapshot_id": "ZuIvAAAAAAC4YbGAhUydOhPV82DS9MV0",
   "tracks": [
     {
       "added_at": null,
@@ -399,6 +399,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Advogado Fiel",
+        "url": "https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 331070,
+      "name": "Pai Eu Confiarei",
+      "url": "https://open.spotify.com/track/1C1cSdN9oPaKINILtzgqao"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Marca da Promessa (Ao Vivo)",
         "url": "https://open.spotify.com/album/1cI1aaKiOEj22QwoM62hXB"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 333002,
       "name": "Marca da Promessa - Ao Vivo",
       "url": "https://open.spotify.com/track/2BZn6s6vJhZYV2PRkl0oHZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Advogado Fiel",
-        "url": "https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 331070,
-      "name": "Pai Eu Confiarei",
-      "url": "https://open.spotify.com/track/1C1cSdN9oPaKINILtzgqao"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Levantamos Tu Nombre",
-        "url": "https://open.spotify.com/album/2wPoovI5GUgIiOkRQETfde"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 350528,
-      "name": "Levantamos Tu Nombre",
-      "url": "https://open.spotify.com/track/29xdoA7Qz83rm5D0GOhbED"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deus Est\u00e1 Fazendo (Ao Vivo)",
         "url": "https://open.spotify.com/album/0aAy1HPGckNAoAAxkmLCXx"
       },
@@ -815,22 +799,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recompensa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0vQ7L4VXrnkUnQ7B8nmEdx"
+        "name": "Levantamos Tu Nombre",
+        "url": "https://open.spotify.com/album/2wPoovI5GUgIiOkRQETfde"
       },
       "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        },
         {
           "name": "Bruna Karla",
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 231754,
-      "name": "Recompensa (Ao Vivo)",
-      "url": "https://open.spotify.com/track/73DqTcyWoULHoOjmsjYFhd"
+      "duration_ms": 350528,
+      "name": "Levantamos Tu Nombre",
+      "url": "https://open.spotify.com/track/29xdoA7Qz83rm5D0GOhbED"
     },
     {
       "added_at": null,
@@ -847,6 +827,26 @@
       "duration_ms": 358376,
       "name": "Digno \u00e9 o Cordeiro",
       "url": "https://open.spotify.com/track/3Kqwt1Powh8L5NqdBUwLeh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recompensa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0vQ7L4VXrnkUnQ7B8nmEdx"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 231754,
+      "name": "Recompensa (Ao Vivo)",
+      "url": "https://open.spotify.com/track/73DqTcyWoULHoOjmsjYFhd"
     },
     {
       "added_at": null,

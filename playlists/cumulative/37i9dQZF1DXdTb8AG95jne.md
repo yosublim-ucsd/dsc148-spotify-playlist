@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Savina & Drones\(사비나앤드론즈\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-769 songs - 1 day 23 hr 0 min
+771 songs - 1 day 23 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,8 @@
 | [city snail](https://open.spotify.com/track/6IXYWgfzEP2Raa7E4JK2rB) | [87dance](https://open.spotify.com/artist/1HxfCTl07FhRiJN9jY9kX3) | [city snail](https://open.spotify.com/album/5Ii8pas6FicEhbLa2sifLj) | 3:36 | 2022-10-31 | 2022-11-11 |
 | [Cliché](https://open.spotify.com/track/2i4r6SnXUtGAqjHZ7nJHrB) | [Couch Peach](https://open.spotify.com/artist/1Bjp4QYmnT2wUDrgJxYF9b) | [Cliché](https://open.spotify.com/album/3pPuexxtl6nMRlbdJCZYlb) | 2:38 | 2022-02-16 | 2022-07-28 |
 | [Closely Far Away](https://open.spotify.com/track/7wLJ4xzxNss5abZ1kXs242) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Closely Far Away](https://open.spotify.com/album/6q9YOWpWu7QA3MeHbpIoLC) | 3:14 | 2021-12-12 |  |
-| [Clouds](https://open.spotify.com/track/5EkkdLlRAuzjjA8oT6FN7b) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [Clouds](https://open.spotify.com/album/7kV4H8b2CEGLjjF66UUp6J) | 3:12 | 2021-12-12 |  |
+| [Clouds](https://open.spotify.com/track/5EkkdLlRAuzjjA8oT6FN7b) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [Clouds](https://open.spotify.com/album/7kV4H8b2CEGLjjF66UUp6J) | 3:12 | 2021-12-12 | 2024-09-14 |
+| [Cocktail love](https://open.spotify.com/track/4fCvcM5qDmIoLsjgqB6mp8) | [YEWON](https://open.spotify.com/artist/2GJNbshsJuL7t4ME9LOwZ0) | [Cocktail love](https://open.spotify.com/album/5Zqacp0rDmrmB9k7PaqWws) | 3:24 | 2024-09-13 |  |
 | [Come Closer](https://open.spotify.com/track/0Sep7VIdLwWPVhtxKsCxRm) | [LEO](https://open.spotify.com/artist/6xr9i4ozDKCobWg5lUKHPj) | [COME CLOSER](https://open.spotify.com/album/2rdXzqWmDgzIfjUPUovQiD) | 2:43 | 2024-05-10 |  |
 | [Concrete \(feat\. CHEEZE\)](https://open.spotify.com/track/2hcSWo1r3YOi8eNHWOXjAi) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b), [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Dawn Defibrillation, Vol\. 3](https://open.spotify.com/album/5aXrWCXI7jgHtKVB9khLor) | 3:05 | 2021-12-21 | 2022-06-28 |
 | [Confession](https://open.spotify.com/track/5YOjqVJJDxSdHuwUmLBqXw) | [GIFT](https://open.spotify.com/artist/72jdj8uXwdYUzACiO3RJer) | [Confession](https://open.spotify.com/album/3d7PpF9RGShHyPS4qVsWM3) | 3:50 | 2021-12-21 | 2022-04-19 |
@@ -206,7 +207,7 @@
 | [FINE](https://open.spotify.com/track/1HP9RKXLLbanlco3KB0QsN) | [Hoyeon Kim](https://open.spotify.com/artist/2F6vo1DnhCOz8CxcUz7s7m) | [FINE](https://open.spotify.com/album/3lowzloIMuCOyzPGCWXbks) | 2:37 | 2022-07-08 | 2022-08-09 |
 | [Fire](https://open.spotify.com/track/0h1KusfiDFqqWhHNPcKn0V) | [Hwang Puha](https://open.spotify.com/artist/6r9cEkpE75hhzDw3jfcRwn) | [Two Faces](https://open.spotify.com/album/1xtsl99YsUY2QBbMIRQqzC) | 5:00 | 2022-12-21 | 2023-01-05 |
 | [First Time](https://open.spotify.com/track/1w8eS94wSGqXJxbXWsmuig) | [Budung](https://open.spotify.com/artist/4RtxNIrPXlf3cTtIsuEWMi) | [Let’s take a step to a brighter place](https://open.spotify.com/album/33myALTzpif1l5ApybO8pk) | 3:39 | 2022-03-31 | 2022-04-16 |
-| [Flight Log \(Feat\. Moonsoo Kim\)](https://open.spotify.com/track/37VvbzX6M33crYC1cp9Mbk) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK), [Moonsoo Kim](https://open.spotify.com/artist/2ylkZLnqiOeta3QWY8zgJr) | [Flight Log \(Feat\. Moonsoo Kim\)](https://open.spotify.com/album/63hibZ5d4d0vR8vBSnmoDt) | 3:38 | 2024-09-05 |  |
+| [Flight Log \(Feat\. Moonsoo Kim\)](https://open.spotify.com/track/37VvbzX6M33crYC1cp9Mbk) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK), [Moonsoo Kim](https://open.spotify.com/artist/2ylkZLnqiOeta3QWY8zgJr) | [Flight Log \(Feat\. Moonsoo Kim\)](https://open.spotify.com/album/63hibZ5d4d0vR8vBSnmoDt) | 3:38 | 2024-09-05 | 2024-09-14 |
 | [Flower](https://open.spotify.com/track/1FFHAvliNowwAKaojCNYP4) | [9z](https://open.spotify.com/artist/3DoD8wMylOlNPJZm0Geebu) | [Flower](https://open.spotify.com/album/2N9nB5RdJUlRFODl4Ku4Ar) | 3:37 | 2022-03-07 | 2022-04-21 |
 | [Flower 꽃](https://open.spotify.com/track/2RZcBcDje7h7XnINICVJtR) | [Lacuna 라쿠나](https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen) | [Garden 정원](https://open.spotify.com/album/72cTrdX2EGfSpYdZsyCvLj) | 4:33 | 2022-04-12 | 2022-04-14 |
 | [flowerain](https://open.spotify.com/track/1p0cy7P5OdzZtVJOzhjfSF) | [Yunsae](https://open.spotify.com/artist/7DLucR65sSvihkpKZcdymt) | [flowerain](https://open.spotify.com/album/00h8cmaMZFSyKkPAJ4uvTJ) | 2:57 | 2022-03-31 | 2022-04-12 |
@@ -285,6 +286,7 @@
 | [Hug](https://open.spotify.com/track/1yzPbQYfMcuJMlpWi8npDQ) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅡ Pum](https://open.spotify.com/album/1wnPosDt7DsSYDDLQ2XBdh) | 3:06 | 2022-04-12 | 2022-04-18 |
 | [Hug](https://open.spotify.com/track/5IjEA99ADS6ERSh8Ck1OLq) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅡ Pum](https://open.spotify.com/album/7bokVbwwFlYf6dqzdSUXEp) | 3:06 | 2022-09-20 | 2024-04-19 |
 | [Hug me tight](https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Hug me tight](https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF) | 3:47 | 2022-05-11 |  |
+| [Humming For Sunset](https://open.spotify.com/track/0aASmPgngno02hD1hQ1IeE) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3), [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [Humming For Sunset](https://open.spotify.com/album/38muvzltBhfYQEWr1bwq7V) | 4:33 | 2024-09-13 |  |
 | [Hwi Hwi](https://open.spotify.com/track/1vx1TTe2ZZEkcGDXxpZrD1) | [HAYAN](https://open.spotify.com/artist/4qAzYmM90kRO5IX9MUhQjf) | [Hwi Hwi](https://open.spotify.com/album/2rPbOfaFDrb6WwzvLS98i6) | 3:10 | 2022-03-31 | 2022-04-16 |
 | [i](https://open.spotify.com/track/4h9jlv3tO0gm0i1mQ7o6hZ) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [i](https://open.spotify.com/album/4bXJUWoEn4L5fk0hwE0BPD) | 2:40 | 2022-05-02 | 2022-07-29 |
 | [I am a Church.](https://open.spotify.com/track/3bcpltXdn1akCRZgDZIz0x) | [정세미](https://open.spotify.com/artist/2PlDWR4wokgOg5S5jhdh4Y) | [I am a Church.](https://open.spotify.com/album/47lVmpjFQlYyIYoHM17A4y) | 6:02 | 2022-03-09 | 2022-04-20 |

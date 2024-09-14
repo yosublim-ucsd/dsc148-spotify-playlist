@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-16",
-  "description": "Lo nuevo y lo m\u00e1s escuchado del pop. Foto: Ana Mena & Emilia",
+  "description": "Lo nuevo y lo m\u00e1s escuchado del pop. Foto: LIT killah y Nicki Nicole.",
   "name": "POP FLOW",
   "tracks": [
     {
@@ -90,6 +90,40 @@
       "duration_ms": 231708,
       "name": "2:50 Remix",
       "url": "https://open.spotify.com/track/74znaWw1hmQBusGPSOuTFy"
+    },
+    {
+      "album": {
+        "name": "X Amor II",
+        "url": "https://open.spotify.com/album/2VYdhZU6KonE9X50HFLHhM"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "FARIANA",
+          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+        },
+        {
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        },
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266500,
+      "name": "5 Babys",
+      "url": "https://open.spotify.com/track/6jgeP2uKRZ200mT2RGi9h7"
     },
     {
       "album": {
@@ -279,6 +313,24 @@
     },
     {
       "album": {
+        "name": "AGORA",
+        "url": "https://open.spotify.com/album/07QCnsWWoXTgLuU43VfB2u"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153564,
+      "name": "AGORA",
+      "url": "https://open.spotify.com/track/0EVxchTHYIgx618OrpcrdQ"
+    },
+    {
+      "album": {
         "name": "Agradezco Haberme Equivocado",
         "url": "https://open.spotify.com/album/6qYU7btru03OP3M4eMHtJa"
       },
@@ -418,7 +470,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 128000,
       "name": "alguien como t\u00fa",
       "url": "https://open.spotify.com/track/0xmqY23pIPnEI7jydmC5SY"
@@ -1598,7 +1650,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 167315,
       "name": "De Vuelta",
       "url": "https://open.spotify.com/track/5eAYNG0ul2CutxVSzY61lz"
@@ -3326,7 +3378,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 197920,
       "name": "LALA",
       "url": "https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG"
@@ -3616,7 +3668,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 186787,
       "name": "LUNAR",
       "url": "https://open.spotify.com/track/1b1pn4vLdyxyRQLbGVEmL8"
@@ -4007,6 +4059,32 @@
     },
     {
       "album": {
+        "name": "CLUB GRASA",
+        "url": "https://open.spotify.com/album/72bmHBiYWuPDOZ1GphH2IR"
+      },
+      "artists": [
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        },
+        {
+          "name": "Lua de Santana",
+          "url": "https://open.spotify.com/artist/1SCoi5U37R1KbEQHuKKgam"
+        },
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180480,
+      "name": "MENINA - MURA MASA REMIX (feat. Mura Masa)",
+      "url": "https://open.spotify.com/track/46xcXrJUZFMYbxnCeKTt0D"
+    },
+    {
+      "album": {
         "name": "MENTE EN BLANCO",
         "url": "https://open.spotify.com/album/0ikLej2WXj8Ttgl5Bc0xeb"
       },
@@ -4298,6 +4376,32 @@
       "duration_ms": 156318,
       "name": "Mu\u00f1ecas",
       "url": "https://open.spotify.com/track/1PAvhqefivTNdxZ4u8RT1d"
+    },
+    {
+      "album": {
+        "name": "My Type",
+        "url": "https://open.spotify.com/album/24LgnhLBZiAQhDsXfzLpE1"
+      },
+      "artists": [
+        {
+          "name": "Dj Plaga",
+          "url": "https://open.spotify.com/artist/6fOcj0NbaZF1GNiI5XnPEr"
+        },
+        {
+          "name": "Carla Clavijo",
+          "url": "https://open.spotify.com/artist/4ljl1dpfeJKgNzhTIo6MEj"
+        },
+        {
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "My Type",
+      "url": "https://open.spotify.com/track/65Xfo3ZkgBrC6GiAcCFW47"
     },
     {
       "album": {
@@ -5240,7 +5344,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 121290,
       "name": "posta",
       "url": "https://open.spotify.com/track/7gmATHjiYdt4s9lNdji8nj"
@@ -5306,6 +5410,36 @@
       "duration_ms": 123351,
       "name": "QUE CHIMBA DE VIDA",
       "url": "https://open.spotify.com/track/22AVtdVU43dMFTeWaUCthT"
+    },
+    {
+      "album": {
+        "name": "Que Me Falta",
+        "url": "https://open.spotify.com/album/74JfWVgETYz8EPHmBe6QD6"
+      },
+      "artists": [
+        {
+          "name": "Axel Caram",
+          "url": "https://open.spotify.com/artist/2PkjYgKhHI4qofYoxWB9ZP"
+        },
+        {
+          "name": "Eicost",
+          "url": "https://open.spotify.com/artist/0rGQtr18BoWHl2SNLy70Bn"
+        },
+        {
+          "name": "Maru Rogers",
+          "url": "https://open.spotify.com/artist/46PX7EeVS4ctcxj2jROpPB"
+        },
+        {
+          "name": "n.a.n.o",
+          "url": "https://open.spotify.com/artist/7aVrFkKzVbDCQsKclkEYpm"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177151,
+      "name": "Que Me Falta",
+      "url": "https://open.spotify.com/track/6AQrzHhuvZDmVuyqV2htJU"
     },
     {
       "album": {
@@ -5776,7 +5910,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 153674,
       "name": "Siempre Que Lo Beso",
       "url": "https://open.spotify.com/track/7uxUSeO7fa3gVn0mNg2SyR"
@@ -5944,6 +6078,28 @@
       "duration_ms": 175920,
       "name": "SOLA",
       "url": "https://open.spotify.com/track/4m7ZXTzncCmDo1yCjNC4xh"
+    },
+    {
+      "album": {
+        "name": "Somos 3",
+        "url": "https://open.spotify.com/album/3qJoZo7FtGMg9cdTVvrQLX"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165545,
+      "name": "Somos 3",
+      "url": "https://open.spotify.com/track/7csEjU6jEvfK606QrqoM0i"
     },
     {
       "album": {

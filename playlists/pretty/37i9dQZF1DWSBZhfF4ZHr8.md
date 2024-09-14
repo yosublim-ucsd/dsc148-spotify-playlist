@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 
 > Les meilleures nouveautés de la variété française\. Photo : Lenie
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,165 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,310 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 | 29 | [Au dessus des nuages](https://open.spotify.com/track/6ioB8gvjuMsrLxdlwJpeC1) | [Geoffrey](https://open.spotify.com/artist/3kB7ObACEFRh7mKeB1RstK) | [Au dessus des nuages](https://open.spotify.com/album/2hUw8a8vbQOWFLSYRYpwaT) | 2:29 |
 | 30 | [Gamins des sables](https://open.spotify.com/track/0dzdbXvbbHNTiPkaNPgZLf) | [Jérémy Frerot](https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK) | [Gamins des sables](https://open.spotify.com/album/7i6lctPeWsgOFi2YecT4tG) | 2:59 |
 | 31 | [T'es Partout](https://open.spotify.com/track/3K8zTFf3LSOZ1qWPv9kXNd) | [Maheva](https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz) | [Avec un H \(Acoustique\)](https://open.spotify.com/album/6QArLJTHbHz2oEL5LSKJQY) | 2:57 |
-| 32 | [La pluie](https://open.spotify.com/track/1xNEjz5Wfhb5ApOMN0Xr8Q) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [La pluie](https://open.spotify.com/album/13N4j77R6XsNHGwwtl6npd) | 2:41 |
+| 32 | [la pluie](https://open.spotify.com/track/1xNEjz5Wfhb5ApOMN0Xr8Q) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [la pluie](https://open.spotify.com/album/13N4j77R6XsNHGwwtl6npd) | 2:41 |
 | 33 | [Hyper](https://open.spotify.com/track/0np3gb4z1uCPbMzLPYVnoE) | [Sylvain Duthu](https://open.spotify.com/artist/7mlvN5fTEjTUBLuUbUPpW6) | [15h22](https://open.spotify.com/album/5KKMlk879ZC5yHDMsNpMq1) | 3:19 |
 | 34 | [Que tu restes](https://open.spotify.com/track/1ckpbpRvFOlDZ006AVXw7Y) | [Keen' V](https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd) | [Équilibre \(Summer Édition\)](https://open.spotify.com/album/4aX6qGfTFevsgX6v4yBMvU) | 2:59 |
 | 35 | [Résister \(What about Peace?\)](https://open.spotify.com/track/46fePeAZ2ui3QHDoGxpDMx) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Résister \(What about Peace?\)](https://open.spotify.com/album/3lrK6iynnWj1oO1fONiQ9I) | 3:10 |

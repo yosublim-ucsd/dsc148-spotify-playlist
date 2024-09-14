@@ -667,6 +667,24 @@
     },
     {
       "album": {
+        "name": "Light Sides",
+        "url": "https://open.spotify.com/album/4K27TdPeRkWMIKns5TBzMn"
+      },
+      "artists": [
+        {
+          "name": "Angie McMahon",
+          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243087,
+      "name": "Beginner",
+      "url": "https://open.spotify.com/track/2253dhz68xZDjKfOW5KcWt"
+    },
+    {
+      "album": {
         "name": "bella / i can't find anyone",
         "url": "https://open.spotify.com/album/2oMSoRAvlKoz4yPK2iFgwD"
       },
@@ -1559,6 +1577,24 @@
     },
     {
       "album": {
+        "name": "Crimes of Passion",
+        "url": "https://open.spotify.com/album/33h8JrJLwpY2Zvylh0EjjQ"
+      },
+      "artists": [
+        {
+          "name": "The Free Label",
+          "url": "https://open.spotify.com/artist/4YOL2g6AwphwsB1dOZZSOr"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234148,
+      "name": "Crimes of Passion",
+      "url": "https://open.spotify.com/track/0VpnVQR9hn6PNYNhXesVfw"
+    },
+    {
+      "album": {
         "name": "Crush",
         "url": "https://open.spotify.com/album/34uN9whtj0faUPaF9jrbDV"
       },
@@ -1952,7 +1988,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 194897,
       "name": "don't rely on other men",
       "url": "https://open.spotify.com/track/2RZBNHSfrxyIs8u9ciLKLf"
@@ -2006,7 +2042,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 197997,
       "name": "Drivin'",
       "url": "https://open.spotify.com/track/2xLCfxnW0HxrNpkFNtin7d"
@@ -2028,6 +2064,24 @@
       "duration_ms": 245720,
       "name": "Drunk, Running",
       "url": "https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt"
+    },
+    {
+      "album": {
+        "name": "The Start of Something Beautiful",
+        "url": "https://open.spotify.com/album/2I0Fq1wuE7WffXEYdiy5QJ"
+      },
+      "artists": [
+        {
+          "name": "Ben Goldsmith",
+          "url": "https://open.spotify.com/artist/0PZ37cyRFUP9o9nCdfS8J8"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/4nOPjE4WWqtFfY3s1EuUAL"
     },
     {
       "album": {
@@ -2317,6 +2371,24 @@
     },
     {
       "album": {
+        "name": "Pointy Heights",
+        "url": "https://open.spotify.com/album/7KonH0i4kmFvTrYbeIQts2"
+      },
+      "artists": [
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160320,
+      "name": "feel like home",
+      "url": "https://open.spotify.com/track/621IGHgSNd3ntx0NxdAw6E"
+    },
+    {
+      "album": {
         "name": "Feel Right Now",
         "url": "https://open.spotify.com/album/2yMi25dgaYP5ddnsGAPUY2"
       },
@@ -2368,6 +2440,24 @@
       "duration_ms": 133285,
       "name": "feti\u0161h",
       "url": "https://open.spotify.com/track/2wsO7krbelmisvhff6Y3WW"
+    },
+    {
+      "album": {
+        "name": "First Heartbreak",
+        "url": "https://open.spotify.com/album/1QGOpJ2KxpQ4TryPQfPq9n"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180486,
+      "name": "First Heartbreak",
+      "url": "https://open.spotify.com/track/0IPY0ENbqkDhHKxPK2s357"
     },
     {
       "album": {
@@ -3222,7 +3312,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 215360,
       "name": "Hey Girl",
       "url": "https://open.spotify.com/track/31uxCMxqeSRV7VOW4jFqMK"
@@ -3382,7 +3472,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 158251,
       "name": "Holy Ghost",
       "url": "https://open.spotify.com/track/3kKVjpgY1UQW3ikr0AhMZg"
@@ -3562,7 +3652,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 163866,
       "name": "Hypocrite",
       "url": "https://open.spotify.com/track/4V1P86yQsSLuixD5K8wCbU"
@@ -3602,6 +3692,24 @@
       "duration_ms": 163859,
       "name": "i don't feel safe in my body",
       "url": "https://open.spotify.com/track/7MnYbB8EA6aKVlqJ6Nsek9"
+    },
+    {
+      "album": {
+        "name": "I Don't Know Ya",
+        "url": "https://open.spotify.com/album/2YIjtEk6nOLLYI2pPcwbN8"
+      },
+      "artists": [
+        {
+          "name": "Ray Bull",
+          "url": "https://open.spotify.com/artist/3P4jnIuA9z5WsvkbsoqkTu"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198115,
+      "name": "I Don't Know Ya",
+      "url": "https://open.spotify.com/track/7on5LnKi2I3lNCyJ5yFE6g"
     },
     {
       "album": {
@@ -3764,7 +3872,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 179791,
       "name": "I'm Back",
       "url": "https://open.spotify.com/track/0tduSYti0mY7p8j5AIO4Pg"
@@ -3818,7 +3926,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 166413,
       "name": "I'm The Leader",
       "url": "https://open.spotify.com/track/6c4B0ZzFfUDB38JYwoZ9TM"
@@ -3970,7 +4078,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 144216,
       "name": "is it my face?",
       "url": "https://open.spotify.com/track/17PatSYk0lOvw1jc1pXOci"
@@ -4010,6 +4118,24 @@
       "duration_ms": 253018,
       "name": "it'll be alright",
       "url": "https://open.spotify.com/track/1ksfm4onmPLgyRmar3P9ev"
+    },
+    {
+      "album": {
+        "name": "It's ok I'm ok",
+        "url": "https://open.spotify.com/album/5qfivA7g2aAhAIPnSb0csp"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156521,
+      "name": "It's ok I'm ok",
+      "url": "https://open.spotify.com/track/24XihnoVPWXlKJ4BgXqjVM"
     },
     {
       "album": {
@@ -4216,6 +4342,24 @@
       "duration_ms": 168000,
       "name": "kill me",
       "url": "https://open.spotify.com/track/3X5L8TzO9nJtHDyxrmsKOl"
+    },
+    {
+      "album": {
+        "name": "The Magazine",
+        "url": "https://open.spotify.com/album/1U5cF0ZKqIwzGSLrhy9ND3"
+      },
+      "artists": [
+        {
+          "name": "Zinadelphia",
+          "url": "https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213297,
+      "name": "Knock The Wind",
+      "url": "https://open.spotify.com/track/3u8zGeldge4k7hlfw3HbPC"
     },
     {
       "album": {
@@ -4984,7 +5128,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 205586,
       "name": "Name Your Price",
       "url": "https://open.spotify.com/track/4SHu2GpnbzuIe7eVGmHQZg"
@@ -5114,6 +5258,24 @@
       "duration_ms": 137003,
       "name": "NO HANDS (SIDE A)",
       "url": "https://open.spotify.com/track/322B6Not1OsMLCCxHg6sZl"
+    },
+    {
+      "album": {
+        "name": "Object Permanence",
+        "url": "https://open.spotify.com/album/45nEvU4RkgHIM8KSV4Lp7e"
+      },
+      "artists": [
+        {
+          "name": "Sophia Stel",
+          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185153,
+      "name": "No Pressure",
+      "url": "https://open.spotify.com/track/08sUAWF40QLCPh8hkPnKvr"
     },
     {
       "album": {
@@ -5388,6 +5550,24 @@
       "duration_ms": 149366,
       "name": "Over You",
       "url": "https://open.spotify.com/track/6KX5lORRwSuUWyXpMlJ8Hs"
+    },
+    {
+      "album": {
+        "name": "pagingbubu",
+        "url": "https://open.spotify.com/album/2IJp3uCs8SmrvpXXQQw1yV"
+      },
+      "artists": [
+        {
+          "name": "PIAO",
+          "url": "https://open.spotify.com/artist/3WRVVRVjdDenvXlJgs2WXb"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185032,
+      "name": "pagingbubu",
+      "url": "https://open.spotify.com/track/6eG8BNf0vry9Iv1XCfEVQq"
     },
     {
       "album": {
@@ -5694,7 +5874,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 228546,
       "name": "Prep-School Gangsters",
       "url": "https://open.spotify.com/track/0NiaHPlgDp7081zSqXuULS"
@@ -7730,7 +7910,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 190474,
       "name": "What Do You Believe In?",
       "url": "https://open.spotify.com/track/2j5YYik2gA3Z7FgH3NiybN"
@@ -7846,6 +8026,24 @@
       "duration_ms": 250497,
       "name": "Witches Vs. Warlocks",
       "url": "https://open.spotify.com/track/7lJboG3H9ySLwQMEaKhZXO"
+    },
+    {
+      "album": {
+        "name": "The Greatest Love",
+        "url": "https://open.spotify.com/album/3jlE37AdgcZbfsfyMutyCE"
+      },
+      "artists": [
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300432,
+      "name": "You And I",
+      "url": "https://open.spotify.com/track/248XJMcsowzZrF1APvILhF"
     },
     {
       "album": {

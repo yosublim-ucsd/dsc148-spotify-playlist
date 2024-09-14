@@ -1,6 +1,6 @@
 {
   "description": "Canciones de ayer y de hoy grabadas a fuego en el coraz\u00f3n.",
-  "num_followers": 78089,
+  "num_followers": 78114,
   "original_name": "Folklore Rom\u00e1ntico ",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-08-15 20:25:36",
       "album": {
-        "name": "Sombra Herida",
-        "url": "https://open.spotify.com/album/2mBQU6Vnz2t13oBpM5F6iv"
-      },
-      "artists": [
-        {
-          "name": "Canto 4",
-          "url": "https://open.spotify.com/artist/2pm42ahOwMBST1vbdGqRAq"
-        }
-      ],
-      "duration_ms": 201560,
-      "name": "Sombra Herida",
-      "url": "https://open.spotify.com/track/4khBCBq5X8It0kWSlO8Yr4"
-    },
-    {
-      "added_at": "2024-08-15 20:25:36",
-      "album": {
         "name": "Uno Mismo",
         "url": "https://open.spotify.com/album/6rlHWYEZC5HSV4abSUIzL5"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 272613,
       "name": "El Secreto de Tu Vida",
       "url": "https://open.spotify.com/track/5X0kbQBjuNmFttGWB7FDW0"
+    },
+    {
+      "added_at": "2024-08-15 20:25:36",
+      "album": {
+        "name": "Sombra Herida",
+        "url": "https://open.spotify.com/album/2mBQU6Vnz2t13oBpM5F6iv"
+      },
+      "artists": [
+        {
+          "name": "Canto 4",
+          "url": "https://open.spotify.com/artist/2pm42ahOwMBST1vbdGqRAq"
+        }
+      ],
+      "duration_ms": 201560,
+      "name": "Sombra Herida",
+      "url": "https://open.spotify.com/track/4khBCBq5X8It0kWSlO8Yr4"
     },
     {
       "added_at": "2024-08-15 20:25:36",
@@ -255,18 +255,22 @@
     {
       "added_at": "2024-08-15 20:25:36",
       "album": {
-        "name": "Mi Cantar",
-        "url": "https://open.spotify.com/album/2K9taShKqjDEg9ebn4yngX"
+        "name": "Nuestro adi\u00f3s",
+        "url": "https://open.spotify.com/album/1NaqaiCpHwCT21ZDxcFUks"
       },
       "artists": [
         {
-          "name": "Jorge Rojas",
-          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
+          "name": "Canto 4",
+          "url": "https://open.spotify.com/artist/2pm42ahOwMBST1vbdGqRAq"
+        },
+        {
+          "name": "Los Nocheros",
+          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
         }
       ],
-      "duration_ms": 259566,
-      "name": "Olvida Que Te He Amado",
-      "url": "https://open.spotify.com/track/0addwQw947UzHhby2thnGg"
+      "duration_ms": 248653,
+      "name": "Nuestro adi\u00f3s",
+      "url": "https://open.spotify.com/track/4L1JmLqESzxrvlgGCaNOOD"
     },
     {
       "added_at": "2024-08-15 20:25:36",
@@ -303,6 +307,22 @@
     {
       "added_at": "2024-08-15 20:25:36",
       "album": {
+        "name": "Mi Cantar",
+        "url": "https://open.spotify.com/album/2K9taShKqjDEg9ebn4yngX"
+      },
+      "artists": [
+        {
+          "name": "Jorge Rojas",
+          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
+        }
+      ],
+      "duration_ms": 259566,
+      "name": "Olvida Que Te He Amado",
+      "url": "https://open.spotify.com/track/0addwQw947UzHhby2thnGg"
+    },
+    {
+      "added_at": "2024-08-15 20:25:36",
+      "album": {
         "name": "Gira",
         "url": "https://open.spotify.com/album/1VyygGuS90quhVk1uG01SM"
       },
@@ -315,26 +335,6 @@
       "duration_ms": 225573,
       "name": "Hoy",
       "url": "https://open.spotify.com/track/5LwjcFrvqLcfa4ONEcDP3o"
-    },
-    {
-      "added_at": "2024-08-15 20:25:36",
-      "album": {
-        "name": "Nuestro adi\u00f3s",
-        "url": "https://open.spotify.com/album/1NaqaiCpHwCT21ZDxcFUks"
-      },
-      "artists": [
-        {
-          "name": "Canto 4",
-          "url": "https://open.spotify.com/artist/2pm42ahOwMBST1vbdGqRAq"
-        },
-        {
-          "name": "Los Nocheros",
-          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
-        }
-      ],
-      "duration_ms": 248653,
-      "name": "Nuestro adi\u00f3s",
-      "url": "https://open.spotify.com/track/4L1JmLqESzxrvlgGCaNOOD"
     },
     {
       "added_at": "2024-08-15 20:25:36",
@@ -443,18 +443,18 @@
     {
       "added_at": "2024-08-15 20:25:36",
       "album": {
-        "name": "El Punto Final",
-        "url": "https://open.spotify.com/album/1hfe0fdFG8n6sj6WOYOvcF"
+        "name": "La Historia",
+        "url": "https://open.spotify.com/album/55sN3ewoEyGxBfaJ5klMeb"
       },
       "artists": [
         {
-          "name": "Jorge Rojas",
-          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
+          "name": "Los Cantores del Alba",
+          "url": "https://open.spotify.com/artist/2kRyLphTQyz7eaHhfLpMVl"
         }
       ],
-      "duration_ms": 213418,
-      "name": "El Punto Final",
-      "url": "https://open.spotify.com/track/4YBxqpFfiPYkBUWEmupg7b"
+      "duration_ms": 197866,
+      "name": "Nuestro Juramento",
+      "url": "https://open.spotify.com/track/5u7V5Mgr9RGuNcJKVYLRlx"
     },
     {
       "added_at": "2024-08-15 20:25:36",
@@ -495,18 +495,18 @@
     {
       "added_at": "2024-08-15 20:25:36",
       "album": {
-        "name": "La Historia",
-        "url": "https://open.spotify.com/album/55sN3ewoEyGxBfaJ5klMeb"
+        "name": "El Punto Final",
+        "url": "https://open.spotify.com/album/1hfe0fdFG8n6sj6WOYOvcF"
       },
       "artists": [
         {
-          "name": "Los Cantores del Alba",
-          "url": "https://open.spotify.com/artist/2kRyLphTQyz7eaHhfLpMVl"
+          "name": "Jorge Rojas",
+          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
         }
       ],
-      "duration_ms": 197866,
-      "name": "Nuestro Juramento",
-      "url": "https://open.spotify.com/track/5u7V5Mgr9RGuNcJKVYLRlx"
+      "duration_ms": 213418,
+      "name": "El Punto Final",
+      "url": "https://open.spotify.com/track/4YBxqpFfiPYkBUWEmupg7b"
     },
     {
       "added_at": "2024-08-15 20:25:36",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2024-08-15 20:25:36",
       "album": {
-        "name": "C\u00f3mplices",
-        "url": "https://open.spotify.com/album/55QxtsOzQKo2F0g0puf4jM"
-      },
-      "artists": [
-        {
-          "name": "AHYRE",
-          "url": "https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP"
-        },
-        {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
-        }
-      ],
-      "duration_ms": 320085,
-      "name": "C\u00f3mplices",
-      "url": "https://open.spotify.com/track/6IjYr3ioZO2yDLFsVWPd6A"
-    },
-    {
-      "added_at": "2024-08-15 20:25:36",
-      "album": {
         "name": "Tan Cerca En La Distancia",
         "url": "https://open.spotify.com/album/4RCRNdHuYCeV9jygMsAjVo"
       },
@@ -1183,6 +1163,26 @@
       "duration_ms": 136639,
       "name": "Volver A Verte",
       "url": "https://open.spotify.com/track/0hYf0QFJF6LSSBIWKozpuK"
+    },
+    {
+      "added_at": "2024-08-15 20:25:36",
+      "album": {
+        "name": "C\u00f3mplices",
+        "url": "https://open.spotify.com/album/55QxtsOzQKo2F0g0puf4jM"
+      },
+      "artists": [
+        {
+          "name": "AHYRE",
+          "url": "https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP"
+        },
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        }
+      ],
+      "duration_ms": 320085,
+      "name": "C\u00f3mplices",
+      "url": "https://open.spotify.com/track/6IjYr3ioZO2yDLFsVWPd6A"
     },
     {
       "added_at": "2024-08-15 20:25:36",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2024-08-15 20:25:36",
       "album": {
+        "name": "Un Adi\u00f3s",
+        "url": "https://open.spotify.com/album/3SSX9ExfyXKEK5MzFWX0AF"
+      },
+      "artists": [
+        {
+          "name": "Efrain Colombo",
+          "url": "https://open.spotify.com/artist/32778N5Y2svyyJGp8HwxBY"
+        }
+      ],
+      "duration_ms": 195746,
+      "name": "Un Adi\u00f3s",
+      "url": "https://open.spotify.com/track/56zrEOWE31bRjS8yp7onRZ"
+    },
+    {
+      "added_at": "2024-08-15 20:25:36",
+      "album": {
         "name": "Aut\u00f3ctona",
         "url": "https://open.spotify.com/album/2E6mheIAe5QBEI5a5TuiKV"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 319116,
       "name": "Gotas de Amor",
       "url": "https://open.spotify.com/track/3JS1Eq5oS5mPqZjuJSkRCD"
-    },
-    {
-      "added_at": "2024-08-15 20:25:36",
-      "album": {
-        "name": "Un Adi\u00f3s",
-        "url": "https://open.spotify.com/album/3SSX9ExfyXKEK5MzFWX0AF"
-      },
-      "artists": [
-        {
-          "name": "Efrain Colombo",
-          "url": "https://open.spotify.com/artist/32778N5Y2svyyJGp8HwxBY"
-        }
-      ],
-      "duration_ms": 195746,
-      "name": "Un Adi\u00f3s",
-      "url": "https://open.spotify.com/track/56zrEOWE31bRjS8yp7onRZ"
     },
     {
       "added_at": "2024-08-15 20:25:36",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2024-08-15 20:25:36",
       "album": {
-        "name": "Quiz\u00e1s Me Perd\u00ed",
-        "url": "https://open.spotify.com/album/38Gakce6kB8reFWqvdhD6g"
+        "name": "La Forma Perfecta",
+        "url": "https://open.spotify.com/album/5PHybIbCaOijo0dv0htTOF"
       },
       "artists": [
         {
-          "name": "Efrain Colombo",
-          "url": "https://open.spotify.com/artist/32778N5Y2svyyJGp8HwxBY"
+          "name": "La Macha",
+          "url": "https://open.spotify.com/artist/65HBEmIhkJCkdAc2X9nrnc"
         }
       ],
-      "duration_ms": 208410,
-      "name": "Quiz\u00e1s Me Perd\u00ed",
-      "url": "https://open.spotify.com/track/6sHneNrLrkrGHss9P6X11i"
+      "duration_ms": 193886,
+      "name": "La Forma Perfecta",
+      "url": "https://open.spotify.com/track/5cpScCtXXmeE9H4UhuIpwh"
     },
     {
       "added_at": "2024-08-15 20:25:36",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2024-08-15 20:25:36",
       "album": {
-        "name": "La Forma Perfecta",
-        "url": "https://open.spotify.com/album/5PHybIbCaOijo0dv0htTOF"
+        "name": "Quiz\u00e1s Me Perd\u00ed",
+        "url": "https://open.spotify.com/album/38Gakce6kB8reFWqvdhD6g"
       },
       "artists": [
         {
-          "name": "La Macha",
-          "url": "https://open.spotify.com/artist/65HBEmIhkJCkdAc2X9nrnc"
+          "name": "Efrain Colombo",
+          "url": "https://open.spotify.com/artist/32778N5Y2svyyJGp8HwxBY"
         }
       ],
-      "duration_ms": 193886,
-      "name": "La Forma Perfecta",
-      "url": "https://open.spotify.com/track/5cpScCtXXmeE9H4UhuIpwh"
+      "duration_ms": 208410,
+      "name": "Quiz\u00e1s Me Perd\u00ed",
+      "url": "https://open.spotify.com/track/6sHneNrLrkrGHss9P6X11i"
     },
     {
       "added_at": "2024-08-15 20:25:36",

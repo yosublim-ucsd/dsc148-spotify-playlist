@@ -4,7 +4,7 @@
 
 > Drift off to these peaceful classical melodies.
 
-203 songs - 9 hr 44 min
+204 songs - 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Une histoire d’amour](https://open.spotify.com/track/1RfSykRvuEDqTUimaVE64E) | [Cedric Moulin](https://open.spotify.com/artist/5igteH2LK1oMa7KinT2Qx3) | [Une histoire d’amour](https://open.spotify.com/album/4CclbwG6Y1a0Fm7Kbe5K1l) | 2:32 | 2023-09-29 |  |
 | [Veiled Remembrance](https://open.spotify.com/track/5ottoPWbTULvnKU5PSCysf) | [Mijongya](https://open.spotify.com/artist/7GPrD3dPYED5wENCMHirj7) | [Veiled Remembrance](https://open.spotify.com/album/6qwFoOfdmNmHT0aTrXBlzA) | 2:52 | 2024-07-23 |  |
 | [Viva Valeriana](https://open.spotify.com/track/4k8AC9xUl0o7JG7qlVQBZi) | [Anaëlle Mei](https://open.spotify.com/artist/109jb0FywTHrzudz9XfX4L) | [Viva Valeriana](https://open.spotify.com/album/5c8qEdjduemMVmUxuMKp8n) | 1:52 | 2023-02-28 | 2023-10-25 |
+| [Vuelta](https://open.spotify.com/track/0mPUDi1UgV7xvwMo31wYlR) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Vuelta](https://open.spotify.com/album/71bxnh6ZfVRvmW6BpyXgiB) | 2:03 | 2024-09-13 |  |
 | [Waiting For You](https://open.spotify.com/track/12fP6KSs4CyLE6MnVs2VLc) | [Lavendle](https://open.spotify.com/artist/4yJMaS2zuoK9RhQWzOE38u) | [Waiting For You](https://open.spotify.com/album/5wanR4vJ9jSXcD9MlN6XWc) | 2:27 | 2023-09-29 |  |
 | [Wake with me](https://open.spotify.com/track/4xTvAj3iYFWOoeaErsNwbj) | [Brian Lyndon](https://open.spotify.com/artist/1F24KoavEHiou99P9SlyBY) | [Wake with me](https://open.spotify.com/album/3L3SYoTKzulJPAhsVd0tXy) | 2:15 | 2023-09-29 |  |
 | [Warm Embrace](https://open.spotify.com/track/2bVUyLxltPaSPhz9yaNbr4) | [MettaForm](https://open.spotify.com/artist/06gX9DtFjd1muCd2b4qfxq) | [Solar Cooling](https://open.spotify.com/album/5rHfIbbcc4xDiDGkbIfifX) | 1:50 | 2021-11-09 | 2023-10-25 |

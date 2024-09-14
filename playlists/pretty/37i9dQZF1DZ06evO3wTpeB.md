@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wTpeB.md) - [plain]
 
 > This is Ali Aka Mind\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,172 likes - 51 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,175 likes - 51 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wTpeB.md) - [plain]
 | 10 | [Dolor](https://open.spotify.com/track/4fCg5TdCsAaf2sizMKYFjm) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Laberinto ELC](https://open.spotify.com/artist/1Cd5Kq0yfp0WqfiryLu4bu) | [Dolor](https://open.spotify.com/album/1QXRglXocvvIB7lroBNUc8) | 4:25 |
 | 11 | [Paraíso Fiscal](https://open.spotify.com/track/5S5c4qZw9xQIYsoRgEdlPY) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408) | [Paraíso Fiscal](https://open.spotify.com/album/5slBLS7tgewaXLg8y9AWt8) | 3:00 |
 | 12 | [Nostalgia](https://open.spotify.com/track/14a2gSIuqP7ZIJIzRlYt1o) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Sobrevivente](https://open.spotify.com/album/6m0g5Ap0yUoXH6SoHPAlkW) | 1:36 |
-| 13 | [La Vida Es Solo Una](https://open.spotify.com/track/3DONoS10PcEs8mSoDbqhY1) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Universos Mixtape](https://open.spotify.com/album/0CIIttetz5Ts1zwEBki0rN) | 3:04 |
-| 14 | [Yo Necesito](https://open.spotify.com/track/3oAm74OwtiCcIdCxUDnL91) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [ALI Prod.](https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu) | [Mestizo](https://open.spotify.com/album/3q3CUqz2XqQwDOFjmWphbw) | 2:57 |
+| 13 | [Yo Necesito](https://open.spotify.com/track/3oAm74OwtiCcIdCxUDnL91) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [ALI Prod.](https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu) | [Mestizo](https://open.spotify.com/album/3q3CUqz2XqQwDOFjmWphbw) | 2:57 |
+| 14 | [La Vida Es Solo Una](https://open.spotify.com/track/3DONoS10PcEs8mSoDbqhY1) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Universos Mixtape](https://open.spotify.com/album/0CIIttetz5Ts1zwEBki0rN) | 3:04 |
 | 15 | [Uno](https://open.spotify.com/track/61EDQPLruQ9gKRNLTndsGi) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Manjit](https://open.spotify.com/album/5kWtTiaGy7fsc8SRzP5Grr) | 3:21 |
 | 16 | [Foráneos](https://open.spotify.com/track/2MOupuZ5SXzWtlE03VN9Ke) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo), [Dj J.L.P](https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij) | [Foráneos](https://open.spotify.com/album/0M5qXlASVuTQd6qu7tf0Fq) | 3:06 |
 | 17 | [Yo Me Identifico](https://open.spotify.com/track/25fyXzQ48jehni3yxFT2mt) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [ALI Prod.](https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu) | [Palabras del Alma](https://open.spotify.com/album/4JTGFe7NhpEVSInPEasMhV) | 3:25 |
@@ -44,11 +44,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wTpeB.md) - [plain]
 | 34 | [Ahora Que Puedo](https://open.spotify.com/track/5k0VGSqgmgV2YwedsyMaSb) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Aerophon](https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep) | [Universos Mixtape](https://open.spotify.com/album/0CIIttetz5Ts1zwEBki0rN) | 3:49 |
 | 35 | [Yo Quise](https://open.spotify.com/track/7LM6uu4KYVoduR9ESEf6Ym) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Elias Wallace](https://open.spotify.com/artist/5SaZEYSyIV17OizlU9DjzI), [T\-Chord](https://open.spotify.com/artist/3GvdERCXrDLLTKzngNIyMW) | [Yo Quise](https://open.spotify.com/album/77SgnkVqnSZXF5gdgmhXBR) | 3:32 |
 | 36 | [Una Oportunidad](https://open.spotify.com/track/5bJvvd2M5byWc8t8DJ5dwr) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Una Oportunidad](https://open.spotify.com/album/4siy0X5dG8LiSX2EbGYbV7) | 3:33 |
-| 37 | [Nunca Es Tarde Pa' Empezar](https://open.spotify.com/track/0rKTUWLac8ZmYYAsQqsxqX) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Palabras del Alma](https://open.spotify.com/album/4JTGFe7NhpEVSInPEasMhV) | 3:42 |
+| 37 | [Eternos](https://open.spotify.com/track/4J8IyRiBrpCxirMM9tsmgQ) | [Kiño](https://open.spotify.com/artist/4mSxhskrhEcz1mZNVf1GWa), [Afaz Natural](https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA), [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Mc Kno](https://open.spotify.com/artist/0t0wGSeL96MtZyjZiNHPCk) | [Más Parchao!](https://open.spotify.com/album/6ZeEYlpPusVUyBpnI22zkW) | 4:12 |
 | 38 | [Otra Pa' Mi Cuenta](https://open.spotify.com/track/37dPkMfAhfvH3Ndl8ev0cv) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Universos Mixtape](https://open.spotify.com/album/0CIIttetz5Ts1zwEBki0rN) | 2:50 |
-| 39 | [Recreo](https://open.spotify.com/track/0vzTHnDY9h03jTosxJbE8V) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Manjit](https://open.spotify.com/album/5kWtTiaGy7fsc8SRzP5Grr) | 2:49 |
+| 39 | [Nunca Es Tarde Pa' Empezar](https://open.spotify.com/track/0rKTUWLac8ZmYYAsQqsxqX) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Palabras del Alma](https://open.spotify.com/album/4JTGFe7NhpEVSInPEasMhV) | 3:42 |
 | 40 | [Emancipación](https://open.spotify.com/track/2zfhbG3kCZdsQpwmVCnDhb) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Emancipación](https://open.spotify.com/album/3IggidKSJedptBQMM88Tz5) | 3:54 |
-| 41 | [Eternos](https://open.spotify.com/track/4J8IyRiBrpCxirMM9tsmgQ) | [Kiño](https://open.spotify.com/artist/4mSxhskrhEcz1mZNVf1GWa), [Afaz Natural](https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA), [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Mc Kno](https://open.spotify.com/artist/0t0wGSeL96MtZyjZiNHPCk) | [Más Parchao!](https://open.spotify.com/album/6ZeEYlpPusVUyBpnI22zkW) | 4:12 |
+| 41 | [Recreo](https://open.spotify.com/track/0vzTHnDY9h03jTosxJbE8V) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Manjit](https://open.spotify.com/album/5kWtTiaGy7fsc8SRzP5Grr) | 2:49 |
 | 42 | [Todo El Tiempo](https://open.spotify.com/track/3dZRc9MeHmcj7CAHtDL4oP) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Todo El Tiempo](https://open.spotify.com/album/7m4shGjRscqyAN8SiOmfBv) | 2:33 |
 | 43 | [Hijos de los Días](https://open.spotify.com/track/0v5vPs9sPH5v3XSzEj8sjD) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Sobrevivente](https://open.spotify.com/album/6m0g5Ap0yUoXH6SoHPAlkW) | 3:03 |
 | 44 | [Las Cinco Rosas](https://open.spotify.com/track/4KOVgUVYnmcdRdc908Gojp) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [ALI Prod.](https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu) | [Rap Conciencia](https://open.spotify.com/album/6CVQjIWT0jNTyFVcsJfksR) | 3:52 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wTpeB.md) - [plain]
 | 50 | [Mi Vida Es Una Fiesta](https://open.spotify.com/track/65jCjbIlEsbqGGYmmOFQbE) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Mi Vida Es Una Fiesta](https://open.spotify.com/album/39nAnPVhQweMSKiqraPSpl) | 3:37 |
 | 51 | [Emily](https://open.spotify.com/track/6ka4z78PDgF3mepKkY2W4o) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Sobrevivente](https://open.spotify.com/album/6m0g5Ap0yUoXH6SoHPAlkW) | 3:20 |
 
-Snapshot ID: `ZuDdgAAAAADl7k2ufreYQnqIqcAkddlB`
+Snapshot ID: `ZuIvAAAAAAB18VMn01DgwT1k/pAC2Gqo`

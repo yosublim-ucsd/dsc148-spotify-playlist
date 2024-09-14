@@ -4,7 +4,7 @@
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-389 songs - 1 day 8 hr 25 min
+390 songs - 1 day 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,7 +272,7 @@
 | [Requiem](https://open.spotify.com/track/1NFDuSokDMAiE4iRuac5sl) | [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW) | [Headwaters](https://open.spotify.com/album/4zw3XeZ8dDXuUDcd1flLtl) | 12:27 | 2022-11-11 | 2023-02-18 |
 | [Resolve](https://open.spotify.com/track/3uIVrCIl65nlhaFL80bt2N) | [Kauf](https://open.spotify.com/artist/4T7v6mIRvUB3AEORZRzWUy) | [Resolve](https://open.spotify.com/album/3zg1VuUxrTaOtItzW5pzE9) | 3:09 | 2022-03-17 | 2022-07-28 |
 | [rest](https://open.spotify.com/track/1bu0i3ZkCVYTTQhBywwJWK) | [Hugar](https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9) | [Rift](https://open.spotify.com/album/3yUd4JMvrDdFwiFJo6Aly8) | 2:53 | 2022-03-30 | 2023-03-18 |
-| [Returning After Leaving](https://open.spotify.com/track/3M8vFR2Dca5db4ZDGiYnY5) | [ILUITEQ](https://open.spotify.com/artist/1J6vVQgVSsWTwVhPz1wQmq) | [Soundtracks for Winter Departures](https://open.spotify.com/album/4ktjEssT9GeVlNhhliA269) | 5:11 | 2023-03-16 |  |
+| [Returning After Leaving](https://open.spotify.com/track/3M8vFR2Dca5db4ZDGiYnY5) | [ILUITEQ](https://open.spotify.com/artist/1J6vVQgVSsWTwVhPz1wQmq) | [Soundtracks for Winter Departures](https://open.spotify.com/album/4ktjEssT9GeVlNhhliA269) | 5:11 | 2023-03-16 | 2024-09-14 |
 | [Reverie](https://open.spotify.com/track/7AqVwBUWE2ydOy9gvrv9bW) | [Sunshine Recorder](https://open.spotify.com/artist/0C7vbfD3UtshkAi5BjrpA8), [Cascadilla](https://open.spotify.com/artist/6fa5P1SFsexpT4141tAn7F) | [Reverie](https://open.spotify.com/album/1Tz5EtxQQDKStb9bJgA7EB) | 2:50 | 2023-10-06 |  |
 | [Rhizome](https://open.spotify.com/track/6c6HXxiF3LTHhXbHmQK6X0) | [Bendik Giske](https://open.spotify.com/artist/0IbWsSdsJyNM0I2cVMsl0K) | [Bendik Giske](https://open.spotify.com/album/3ikz1DrVuK3gp5vanMKHR1) | 6:08 | 2023-09-22 | 2023-10-07 |
 | [Rintocco](https://open.spotify.com/track/5su2UU0bULk5kcpZtaWeE3) | [Fools](https://open.spotify.com/artist/79nlYDq7D71uO2A3NU0YAl) | [Fools' Harp, Vol\. 1](https://open.spotify.com/album/1yDu2ypRHg38PJ3yxWPklf) | 4:14 | 2022-03-17 | 2023-01-28 |
@@ -358,6 +358,7 @@
 | [Today I Learned What Makes Bugs Sick and How To Tie My Shoelaces](https://open.spotify.com/track/4EfpRkLUsPCdGfhq7em1iz) | [Dylan Henner](https://open.spotify.com/artist/1L9mUjZqdG9QZnys4EDI7C) | [You Always Will Be](https://open.spotify.com/album/64oJXgQT2KXGVD4RTDWH18) | 2:29 | 2022-12-20 |  |
 | [Tone](https://open.spotify.com/track/3ebMskcExv0qzOCQ1MZDIu) | [J Foerster](https://open.spotify.com/artist/4sRdSdPKzOOJa9WgBfTz6i), [N KRAMER](https://open.spotify.com/artist/6pY5KhflZwSO9L6Iq2A77t) | [Tactile Interactions](https://open.spotify.com/album/6VBEEzxhkrp83NCC0fUUWN) | 5:49 | 2023-11-17 |  |
 | [Track3a \(2waynice\)](https://open.spotify.com/track/0jV5pkyZByn7pV12Rzbtuu) | [Keith Fullerton Whitman](https://open.spotify.com/artist/5ImhhHipsVekTFfTPSSFgl) | [Playthroughs](https://open.spotify.com/album/6ougW9XMhBN61PLZBrwZVW) | 5:30 | 2023-08-18 | 2023-09-01 |
+| [Train of Thoughts](https://open.spotify.com/track/427VDKGFaLw4S5HpoCzzIE) | [Lisa Pulsatilla](https://open.spotify.com/artist/3ueWgTIvkdJpqHTvkLvpEp), [Vivian Li](https://open.spotify.com/artist/6qBlZBVxkWg7OyVdU2bK7l) | [The Unseen Society of Microcreatures](https://open.spotify.com/album/2Oe8KlU4wRBn6SW8Yl0yOi) | 3:28 | 2024-08-30 |  |
 | [Tricks Me My Mind](https://open.spotify.com/track/1NBx0XJZXUHuo6PPFkqtWK) | [Bitchin Bajas and Natural Information Society](https://open.spotify.com/artist/2pBk9BrJ7vTlaSGS7de6UG) | [Automaginary](https://open.spotify.com/album/4PQj4dHaT4VGdPLpt4dZNE) | 5:17 | 2023-09-22 | 2023-10-07 |
 | [Trust Your Feet](https://open.spotify.com/track/7MQYbNg70VHTCjsbMrFQmH) | [James Holden](https://open.spotify.com/artist/15e0X6NuMsVuHi7AZhcfyI) | [Imagine This Is A High Dimensional Space Of All Possibilities](https://open.spotify.com/album/4c04wXoadgnqqrxeDUCnFP) | 6:43 | 2023-05-19 | 2023-06-06 |
 | [tsukimi dango](https://open.spotify.com/track/6xFoMmZIkhOgRv7Zj3luYA) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [tsukimi dango](https://open.spotify.com/album/3iof4fuNnejiULldVY8Z1R) | 3:02 | 2022-05-06 | 2023-07-22 |

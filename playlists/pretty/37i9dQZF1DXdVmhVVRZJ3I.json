@@ -1,6 +1,6 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. ",
-  "num_followers": 280631,
+  "num_followers": 280713,
   "original_name": "Treino Eletr\u00f4nico",
   "owner": {
     "name": "Spotify",
@@ -971,6 +971,22 @@
     {
       "added_at": "2024-09-13 03:03:00",
       "album": {
+        "name": "Kikada",
+        "url": "https://open.spotify.com/album/05bGRP0xhmJMa0FIjgIPXK"
+      },
+      "artists": [
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+        }
+      ],
+      "duration_ms": 183473,
+      "name": "Kikada",
+      "url": "https://open.spotify.com/track/4RmjlmdNRXdSZs9cYiqcBS"
+    },
+    {
+      "added_at": "2024-09-13 03:03:00",
+      "album": {
         "name": "079",
         "url": "https://open.spotify.com/album/717BskCJ1pYenCuIzoEPW6"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 168200,
       "name": "079",
       "url": "https://open.spotify.com/track/1ULaCASWLNrzg76Jt3VDWd"
-    },
-    {
-      "added_at": "2024-09-13 03:03:00",
-      "album": {
-        "name": "Kikada",
-        "url": "https://open.spotify.com/album/05bGRP0xhmJMa0FIjgIPXK"
-      },
-      "artists": [
-        {
-          "name": "Sevek",
-          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
-        }
-      ],
-      "duration_ms": 183473,
-      "name": "Kikada",
-      "url": "https://open.spotify.com/track/4RmjlmdNRXdSZs9cYiqcBS"
     },
     {
       "added_at": "2024-09-13 03:03:00",

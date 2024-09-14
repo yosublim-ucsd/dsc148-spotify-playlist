@@ -2,9 +2,9 @@
 
 ### [K\-Pop X\-Overs](https://open.spotify.com/playlist/37i9dQZF1DX4IDaXtVjL83)
 
-> Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: Cha Eun Woo, Peder Elias\)
+> Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: AGNEZ MO, Jay Park\)
 
-194 songs - 10 hr 18 min
+196 songs - 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Hot Mess](https://open.spotify.com/track/1SaLI6o5GhfcaxPVAJoD3r) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Hot Mess](https://open.spotify.com/album/2PvpuCui1GVO8DkFcCHzYU) | 3:12 | 2024-07-08 |  |
 | [How Do You Know \(with HA:TFELT\)](https://open.spotify.com/track/6nkFrBPgN5SHZMnS1ErITt) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Willim](https://open.spotify.com/artist/5bp5XaFz8Py4UFEhQ6FZRk), [HA:TFELT](https://open.spotify.com/artist/3Mrp5B6JdfoiObgY0WR8lF) | [How Do You Know \(with HA:TFELT\)](https://open.spotify.com/album/1XOosvS2hJIq8byIY5eT5T) | 2:43 | 2022-10-25 | 2024-05-18 |
 | [HULA HOOP](https://open.spotify.com/track/2YVzshKzFglQLBXPYNpGI8) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [HULA HOOP / StarSeed \~カクセイ\~](https://open.spotify.com/album/7GQdWx1bMvrbVBOtCa829d) | 3:19 | 2021-12-20 | 2022-03-05 |
+| [Humming For Sunset](https://open.spotify.com/track/0aASmPgngno02hD1hQ1IeE) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3), [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [Humming For Sunset](https://open.spotify.com/album/38muvzltBhfYQEWr1bwq7V) | 4:33 | 2024-09-13 |  |
 | [Hush\-Hush](https://open.spotify.com/track/27JQxefJsCVa6xTbEFBVXG) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP), [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Hush\-Hush](https://open.spotify.com/album/57miIs3v5jsOL4DGMj8cnK) | 3:25 | 2024-07-02 |  |
 | [I CAN'T STOP ME \(English Version\)](https://open.spotify.com/track/4viLaKGdHwhW8LkZB3mRFC) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [I CAN'T STOP ME \(English Version\)](https://open.spotify.com/album/2KGNQmq4gpzmdaIcAgJdVe) | 3:25 | 2021-12-20 |  |
 | [I Don't Know You Anymore](https://open.spotify.com/track/4Z4FusIyks3EQfscAFslWj) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [I Don't Know You Anymore](https://open.spotify.com/album/2CGgP7HTjvgAU2ta6bImXP) | 2:46 | 2021-12-20 | 2022-06-23 |
@@ -127,6 +128,7 @@
 | [Outsider \- Japanese ver.](https://open.spotify.com/track/1RV09P1WY4hOuEeaJpYR5I) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [Outsider \(Japanese ver.\)](https://open.spotify.com/album/1hMQMtvkT6cFYEfyspI8BH) | 3:32 | 2021-12-20 | 2022-03-05 |
 | [Paradigm](https://open.spotify.com/track/2YeteVB8F8UkB5gmRPevLm) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.PARADIGM](https://open.spotify.com/album/2f1QQQD15aeu9e5EWO3XrA) | 3:13 | 2022-12-05 |  |
 | [PARTY](https://open.spotify.com/track/3iQbIF9CvyOPRkiM9fvA3B) | [PimryPie](https://open.spotify.com/artist/7z8ogkK79YxSjsssdusjdm), [HYO](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl) | [PARTY](https://open.spotify.com/album/7cLnshDajDNJpTHY8bLoiM) | 3:15 | 2023-02-10 | 2024-08-14 |
+| [Party In Bali \(PIB\) \[feat\. Jay Park\]](https://open.spotify.com/track/5ZjPVDronecWpciN3fmf5D) | [AGNEZ MO](https://open.spotify.com/artist/6pMR8Zgot664613rAiLC2Z), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Party In Bali \(PIB\) \[feat\. Jay Park\]](https://open.spotify.com/album/4BCEq5okdDEMSjqlg9oUZ2) | 2:52 | 2024-09-13 |  |
 | [Perfect World](https://open.spotify.com/track/0hpYo5x9iNMGz52fRrflbT) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Perfect World](https://open.spotify.com/album/012FDe5q7Af7H9dy47DjVJ) | 3:02 | 2021-12-20 |  |
 | [Please Don't Change \(feat\. DJ Snake\)](https://open.spotify.com/track/0k0GtcnyQLMiXrdEDbLXmJ) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 2:26 | 2023-11-03 |  |
 | [POPPY \- Japanese Ver.](https://open.spotify.com/track/2gpwaAJnSDTevgZa4uyM0H) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [POPPY \(Japanese Ver.\)](https://open.spotify.com/album/2nei1QXcpDotdoMz3IQxr4) | 2:59 | 2022-12-05 |  |

@@ -206,7 +206,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 460615,
       "name": "Always Talkin Sh!t",
       "url": "https://open.spotify.com/track/1yaAs2qUxamFVX5VotHroG"
@@ -698,7 +698,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 367086,
       "name": "Bocat - Michael Bibi Remix",
       "url": "https://open.spotify.com/track/1pea4MX31SSMy0PeQsme33"
@@ -826,6 +826,24 @@
       "duration_ms": 342623,
       "name": "Break Down - Dennis Cruz Remix",
       "url": "https://open.spotify.com/track/1pCmhqRqwfiugXI1vtY2a5"
+    },
+    {
+      "album": {
+        "name": "Breaking Dollars EP",
+        "url": "https://open.spotify.com/album/0gQRXmpuaO39p8WwTRLiRL"
+      },
+      "artists": [
+        {
+          "name": "Us Two",
+          "url": "https://open.spotify.com/artist/4zTMBc60g05ykRN18LqIlN"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191929,
+      "name": "Breaking Dollars",
+      "url": "https://open.spotify.com/track/7MNdA4KvxD2qFilUBt8sys"
     },
     {
       "album": {
@@ -1739,6 +1757,28 @@
     },
     {
       "album": {
+        "name": "Locomotiva Ibiza 2099 II",
+        "url": "https://open.spotify.com/album/6nIry8iPceW6XDXT8UTSUm"
+      },
+      "artists": [
+        {
+          "name": "Mochakk",
+          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
+        },
+        {
+          "name": "Artisian",
+          "url": "https://open.spotify.com/artist/2qO4AfWBnBCnbaNxZIR1I7"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303230,
+      "name": "Estribeira",
+      "url": "https://open.spotify.com/track/2GhTcfg03sFW9FxOeCqayc"
+    },
+    {
+      "album": {
         "name": "fall '22",
         "url": "https://open.spotify.com/album/24QlYIbEIVo1lT93ethJ2q"
       },
@@ -1902,7 +1942,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 308636,
       "name": "Follow Me",
       "url": "https://open.spotify.com/track/5FLeEuEPsnTadO4jbKb34E"
@@ -2195,6 +2235,28 @@
     },
     {
       "album": {
+        "name": "Get Up",
+        "url": "https://open.spotify.com/album/0xq6Pn3IZ9uv4p9TzKk23t"
+      },
+      "artists": [
+        {
+          "name": "Braydon Terzo",
+          "url": "https://open.spotify.com/artist/7aPGojZ1i1CpRKa83QyUTq"
+        },
+        {
+          "name": "Julio Bravo",
+          "url": "https://open.spotify.com/artist/2xENmdo7oEaFrxPWFin702"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219534,
+      "name": "Get Up",
+      "url": "https://open.spotify.com/track/4QRHDjBu4J6LBHmMriV12P"
+    },
+    {
+      "album": {
         "name": "Freak With Us",
         "url": "https://open.spotify.com/album/5C6ite2nuxQ3FSKc161KAa"
       },
@@ -2318,7 +2380,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 378750,
       "name": "Going Deeper",
       "url": "https://open.spotify.com/track/6XC72TsCSZlzUTdJPVEGlC"
@@ -2825,6 +2887,32 @@
     },
     {
       "album": {
+        "name": "Indianism",
+        "url": "https://open.spotify.com/album/5J5Egpr5tXLXZMik9VwbmD"
+      },
+      "artists": [
+        {
+          "name": "GREG (BR)",
+          "url": "https://open.spotify.com/artist/7K7I6veLj1PPzsrzVP6B79"
+        },
+        {
+          "name": "Dabi",
+          "url": "https://open.spotify.com/artist/3nfIhQaBCHasOWHJjLlvQS"
+        },
+        {
+          "name": "Mood Child",
+          "url": "https://open.spotify.com/artist/1LVqAYTWun2fwHqr91UdOm"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202490,
+      "name": "Indianism",
+      "url": "https://open.spotify.com/track/5fu3j3svVApb0Y5VOxyPvT"
+    },
+    {
+      "album": {
         "name": "Inertia",
         "url": "https://open.spotify.com/album/4iM8Xi48cQyUyizWfoGb1I"
       },
@@ -2880,7 +2968,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 362180,
       "name": "Into The Hood",
       "url": "https://open.spotify.com/track/3A3aYBchPWOXGC20NuG5pR"
@@ -3576,7 +3664,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 308085,
       "name": "Mandarino",
       "url": "https://open.spotify.com/track/2RvjRFKZEl5h5S8QftppUR"
@@ -3902,6 +3990,24 @@
       "duration_ms": 394565,
       "name": "Narangi",
       "url": "https://open.spotify.com/track/2lzX1kCo8XQJ40B5cZyN9b"
+    },
+    {
+      "album": {
+        "name": "Nasti",
+        "url": "https://open.spotify.com/album/53HKrr7ZCEaUoznnkTnB2M"
+      },
+      "artists": [
+        {
+          "name": "Bonilla",
+          "url": "https://open.spotify.com/artist/5MLurvYVCnXYeMM4iPFlg5"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207619,
+      "name": "Nasti",
+      "url": "https://open.spotify.com/track/0jpHuxJUJKRGZFzVYn77V8"
     },
     {
       "album": {
@@ -5108,7 +5214,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 354461,
       "name": "Same Thing",
       "url": "https://open.spotify.com/track/0U5CW5IS0KsPKyZr5Wek5a"
@@ -5684,6 +5790,24 @@
       "duration_ms": 228571,
       "name": "Spring Girl",
       "url": "https://open.spotify.com/track/03mX4WEpvZPkHmEsd2ZoV8"
+    },
+    {
+      "album": {
+        "name": "Star",
+        "url": "https://open.spotify.com/album/7e1HwVRH1wS1yCRGaIhOmc"
+      },
+      "artists": [
+        {
+          "name": "Ferra Black",
+          "url": "https://open.spotify.com/artist/2M9yha8tr0kCqQj2QqVBxD"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219927,
+      "name": "Star - Original Mix",
+      "url": "https://open.spotify.com/track/7AMuTN6ke5btnP4HBI9K05"
     },
     {
       "album": {
@@ -6344,6 +6468,24 @@
       "duration_ms": 400565,
       "name": "The Key",
       "url": "https://open.spotify.com/track/1JqC0dklBZxfMeiqtsuUqP"
+    },
+    {
+      "album": {
+        "name": "Short Circuit",
+        "url": "https://open.spotify.com/album/001YAhUBC2oAI3GEm0pkwl"
+      },
+      "artists": [
+        {
+          "name": "Chklte",
+          "url": "https://open.spotify.com/artist/1TBq7S6LzNNuh0lmTt9q6a"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 443519,
+      "name": "The Last Floor",
+      "url": "https://open.spotify.com/track/63cbiaab7sxFnXEASzj5w4"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Women of Latin](https://open.spotify.com/playlist/37i9dQZF1DXb1fcDuOYLYU)
 
-> These are the talented women of Latin music\. Cover: Becky G
+> These are the talented women of Latin music\. Cover: FARIANA, Ptazeta, Kim Loaiza, Bellakath & Yami Safdie
 
-345 songs - 18 hr 28 min
+347 songs - 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [1TRAGO](https://open.spotify.com/track/7pNzIsog6lGrTL7coKYtKl) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [1TRAGO](https://open.spotify.com/album/61bbTZzUgZZnZPpuKYHj26) | 3:21 | 2023-04-14 |  |
 | [2050](https://open.spotify.com/track/3QH4zxq7lDbIbS8UQzjmvu) | [Samantha Sánchez](https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ) | [2050](https://open.spotify.com/album/1Klza85GWJk8UXfnO6Z4jE) | 2:24 | 2022-03-14 | 2023-02-16 |
 | [4TO 23](https://open.spotify.com/track/6zB8TVWUZpQ2UWRxFT1BrI) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [4TO 23](https://open.spotify.com/album/7HQRMSvgVrlVCxM4k0XdXg) | 2:48 | 2024-07-12 |  |
+| [5 Babys](https://open.spotify.com/track/6jgeP2uKRZ200mT2RGi9h7) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [FARIANA](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90), [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [X Amor II](https://open.spotify.com/album/2VYdhZU6KonE9X50HFLHhM) | 4:26 | 2024-09-13 |  |
 | [A Oscuras](https://open.spotify.com/track/0sf46dgA1e5uPj0uzwKCVn) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [A Oscuras](https://open.spotify.com/album/0z89TxA81wiOwBEyr6l7vN) | 2:39 | 2024-01-19 | 2024-06-30 |
 | [A Veces A Besos](https://open.spotify.com/track/6AQgrZrFu1xfuAmbyXmKAE) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [A Veces A Besos](https://open.spotify.com/album/63JayllHAHJ5N3auAorY2w) | 3:38 | 2024-06-21 |  |
 | [Acaramelao](https://open.spotify.com/track/4fipVdNyG6zx7nxuqHScsy) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Animal Pt\. 1](https://open.spotify.com/album/4nUKyiRK7yKKrR9JslEWzR) | 3:05 | 2022-03-14 | 2023-02-16 |
@@ -20,6 +21,7 @@
 | [ACTIVA](https://open.spotify.com/track/4HRoZdP8v2lXXotGF0KaGx) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [ACTIVA](https://open.spotify.com/album/2ka8EGLE24wDwF35eNo2lp) | 4:21 | 2023-02-16 | 2023-05-13 |
 | [Adios](https://open.spotify.com/track/3UL2lHZvjjPEHzwsnqO00v) | [Kim Viera](https://open.spotify.com/artist/4cmSUhjO83qNmK2AvxKQ41), [Cuban Doll](https://open.spotify.com/artist/32DuKytBMZn90iqyh2HEdc) | [Adios](https://open.spotify.com/album/0ISSpToY9pWlRxvX2nnus5) | 3:35 | 2022-03-14 | 2023-02-16 |
 | [ADIÓS AMOR](https://open.spotify.com/track/3icYhbxVykalMuLA3rVcp0) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [YESSIE](https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV) | 2:39 | 2023-02-16 | 2023-12-11 |
+| [AGORA](https://open.spotify.com/track/0EVxchTHYIgx618OrpcrdQ) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [AGORA](https://open.spotify.com/album/07QCnsWWoXTgLuU43VfB2u) | 2:33 | 2024-09-13 |  |
 | [Aguardiente \- Remix](https://open.spotify.com/track/1A6m4CKnryRAWtwdk7H958) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Aguardiente \(Remix\)](https://open.spotify.com/album/3L7rDS83I8cNkucDP0VfCR) | 2:46 | 2022-03-14 | 2022-07-29 |
 | [Aguardiente \- Remix](https://open.spotify.com/track/6pCUhBhx6VE8L15A6usvi2) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Andrés Torres](https://open.spotify.com/artist/4KLOMib6zqzNayKwLWTs2Q), [Mauricio Renfigo](https://open.spotify.com/artist/0KOrS1vIyPI4RNJ80VUY8l) | [Aguardiente \(Remix\)](https://open.spotify.com/album/6MEDIrVfxoDBboJMDjlqvh) | 2:46 | 2022-03-28 | 2023-02-16 |
 | [Agüita e Coco](https://open.spotify.com/track/34T7iPVVZcOoIThh32RJDi) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Agüita e Coco](https://open.spotify.com/album/7tmpf27P7FaqCfHVk7YkDk) | 2:56 | 2022-03-14 | 2023-02-16 |
@@ -52,7 +54,7 @@
 | [Bidi Bidi Bom Bom](https://open.spotify.com/track/0o9Vr0BGIQPh32staLHcuU) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 3:07 | 2022-03-14 | 2023-02-16 |
 | [BOBO](https://open.spotify.com/track/52wspfpsfPcsw7pw8dnQyM) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [BOBO](https://open.spotify.com/album/7nMVMZeaTPsWx8T6BbOHzC) | 3:44 | 2023-02-16 |  |
 | [Bolero Falaz](https://open.spotify.com/track/5yMXpZhVnUAFT154F3MQ8G) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Originales \- 20 Exitos](https://open.spotify.com/album/5KSmyxLneU9PjuBZQguAnf) | 3:45 | 2023-02-16 |  |
-| [BORRACHA](https://open.spotify.com/track/4VNnuuuEIGW0C9wOorTVch) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [BORRACHA](https://open.spotify.com/album/2tnZnrvRjcaRsdc2JTGKY6) | 2:17 | 2024-07-19 |  |
+| [BORRACHA](https://open.spotify.com/track/4VNnuuuEIGW0C9wOorTVch) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [BORRACHA](https://open.spotify.com/album/2tnZnrvRjcaRsdc2JTGKY6) | 2:17 | 2024-07-19 | 2024-09-14 |
 | [Boys Don't Cry](https://open.spotify.com/track/35COLcFjvONwVv6jkG23gI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Boys Don't Cry](https://open.spotify.com/album/7vvalwoghtZRu2Cv35WDgV) | 2:16 | 2022-03-14 | 2023-02-16 |
 | [Buen Provecho](https://open.spotify.com/track/2WN5D1EawTaV8kfJ2Uf1PE) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Modales](https://open.spotify.com/album/3cq4GdUFxAh7NGgtaWTfgS) | 2:16 | 2024-07-12 |  |
 | [buenos aires](https://open.spotify.com/track/3eNenN5eoBwMRNPkmoyk81) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [un mechón de pelo](https://open.spotify.com/album/3wOG84RkmoSoeN3LKkxXga) | 3:23 | 2024-04-12 |  |
@@ -144,7 +146,7 @@
 | [Ignis](https://open.spotify.com/track/0J6FHapcDl46B8G4I3XcY9) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [Ignis](https://open.spotify.com/album/4h7jqik1EnZ9mHHG2ROXFT) | 2:48 | 2022-03-14 | 2023-02-16 |
 | [IMAN \(Two Of Us\)](https://open.spotify.com/track/3sra6aEWWDXUiy46fWQobH) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [IMAN \(Two Of Us\)](https://open.spotify.com/album/6wDJCPLe4cheYx7dWJQavb) | 2:02 | 2024-05-17 |  |
 | [INGRATA4 \(dime si aún\)](https://open.spotify.com/track/6PBvW3ndFy2YafGRIniiNZ) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [INGRATA4 \(dime si aún\)](https://open.spotify.com/album/2ze4ym7uREFXo0nvswNpek) | 2:38 | 2024-06-21 | 2024-07-13 |
-| [INRI](https://open.spotify.com/track/7G0wdE6RUVaOXFDRkElQz4) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [INRI](https://open.spotify.com/album/5kdsxoKa97cbaqXUReltaT) | 2:25 | 2024-07-12 |  |
+| [INRI](https://open.spotify.com/track/7G0wdE6RUVaOXFDRkElQz4) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [INRI](https://open.spotify.com/album/5kdsxoKa97cbaqXUReltaT) | 2:25 | 2024-07-12 | 2024-09-14 |
 | [Insecure](https://open.spotify.com/track/5vad0eq5x3f3rtRlo8GnL4) | [Amara La Negra](https://open.spotify.com/artist/6cdcTRFv0nFBQZPmTLWhRh) | [Insecure](https://open.spotify.com/album/2S32rMqgkDur5hStJolwg6) | 3:11 | 2022-03-14 | 2023-02-16 |
 | [Jagger.mp3](https://open.spotify.com/track/2iNmegOcdmt4peYrh9S8qI) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Jagger.mp3](https://open.spotify.com/album/6Ti9115Odt4vwKJTCdG5WN) | 2:35 | 2023-03-31 | 2024-06-22 |
 | [Kitty](https://open.spotify.com/track/3ElaFhLinetMp5S6pOWVcy) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Kitty](https://open.spotify.com/album/6C7o5jeXJAAuQJ7RA6SHSi) | 2:09 | 2023-02-16 | 2023-10-23 |

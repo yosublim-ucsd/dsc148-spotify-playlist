@@ -2,9 +2,9 @@
 
 ### [Esto es Pop](https://open.spotify.com/playlist/37i9dQZF1DWYf9NHV7zfs7)
 
-> y nada más que pop ✨✨✨<br/>📷 Un Verano & Chano
+> y nada más que pop ✨✨✨<br/>📷 SANTACRUZ
 
-268 songs - 14 hr 33 min
+270 songs - 14 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Borracha en un Baño Ajeno](https://open.spotify.com/track/7Mvra8PCttugZU8ZqoMkZS) | [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Borracha en un Baño Ajeno](https://open.spotify.com/album/4OTw7mFzyL9pKgNXOMd4EG) | 4:00 | 2023-12-01 | 2024-02-20 |
 | [Breaking Bad](https://open.spotify.com/track/51lUwiop70vQfBtif5sFsW) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T) | [PURA](https://open.spotify.com/album/2PAJpftisSwkakrKmheRcl) | 1:51 | 2024-03-01 | 2024-03-09 |
 | [buenos aires](https://open.spotify.com/track/3eNenN5eoBwMRNPkmoyk81) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [un mechón de pelo](https://open.spotify.com/album/3wOG84RkmoSoeN3LKkxXga) | 3:23 | 2024-05-10 |  |
-| [Buscaba un tema](https://open.spotify.com/track/0LmpfqkgUqMJmHelWGCCBB) | [Lauta](https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci), [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [Buscaba un tema](https://open.spotify.com/album/6B7rIipzLIZWPuTWASX369) | 2:37 | 2024-09-06 |  |
+| [Buscaba un tema](https://open.spotify.com/track/0LmpfqkgUqMJmHelWGCCBB) | [Lauta](https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci), [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [Buscaba un tema](https://open.spotify.com/album/6B7rIipzLIZWPuTWASX369) | 2:37 | 2024-09-06 | 2024-09-14 |
 | [Butter \- Megan Thee Stallion Remix](https://open.spotify.com/track/474VqnPDr0251lsQBB8sQB) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Butter \(Megan Thee Stallion Remix\)](https://open.spotify.com/album/0ze8IhE4fLLfu5lET12g5v) | 2:44 | 2023-07-14 | 2023-10-24 |
 | [Cada Vez](https://open.spotify.com/track/6mRxU581UjFtZpsjPJJdbQ) | [Daniela Herrero](https://open.spotify.com/artist/4DnisEwhpsBmBcyGvxRske) | [No Voy A Mentirte](https://open.spotify.com/album/4wlEeF8UKTZPcV0uxegEpx) | 2:48 | 2023-10-23 | 2024-01-16 |
 | [CALENTÓN](https://open.spotify.com/track/5dtNrI6WMGCTBbK8499242) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [CALENTÓN](https://open.spotify.com/album/3H1b3UUzaCAqLSvDzjowjB) | 3:22 | 2023-07-14 | 2023-10-24 |
@@ -144,7 +144,7 @@
 | [Love Again](https://open.spotify.com/track/4rPkN1FMzQyFNP9cLUGIIB) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 4:18 | 2023-07-14 | 2023-10-24 |
 | [Love Grows \(Where My Rosemary Goes\)](https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh) | [Edison Lighthouse](https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa) | [Love Grows \(Where My Rosemary Goes\) & Other Gems](https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y) | 2:54 | 2023-07-14 | 2023-10-24 |
 | [love nwantiti \(feat\. Dj Yo! & AX'EL\) \- Remix](https://open.spotify.com/track/4gvrJnKCKIPiacNsWVQwEU) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Dj Yo!](https://open.spotify.com/artist/7iTLGcddv1bOPirdYJjKVy), [AX'EL](https://open.spotify.com/artist/5fUXK5m3BNwoRgTyKq8tnz) | [love nwantiti \(feat\. Dj Yo! & AX'EL\) \[Remix\]](https://open.spotify.com/album/5NzoKSfocwLOb6o0lXfTM9) | 3:08 | 2023-07-14 | 2023-10-24 |
-| [Luna](https://open.spotify.com/track/3oIVINAunwYTLz8gGOuk0F) | [JUSTINA](https://open.spotify.com/artist/2hrHeIfHBeHjgIs5A7G5uc) | [Luna](https://open.spotify.com/album/2FcKiL8crgFeGdpYbEHL7w) | 3:39 | 2024-09-06 |  |
+| [Luna](https://open.spotify.com/track/3oIVINAunwYTLz8gGOuk0F) | [JUSTINA](https://open.spotify.com/artist/2hrHeIfHBeHjgIs5A7G5uc) | [Luna](https://open.spotify.com/album/2FcKiL8crgFeGdpYbEHL7w) | 3:39 | 2024-09-06 | 2024-09-14 |
 | [Lágrimas y Flores \(feat\. Natalie Perez\)](https://open.spotify.com/track/5ddqh5tCgWitBsKdKsp0kC) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Lágrimas y Flores \(feat\. Natalie Perez\)](https://open.spotify.com/album/6GkLBhohzpGAdnnLmkBAKX) | 3:37 | 2024-04-19 |  |
 | [M.A.I](https://open.spotify.com/track/35ttE4t8lQZA2vuCYDg4G7) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [111](https://open.spotify.com/album/338cbfABt3duRORfvNeqLT) | 3:04 | 2024-01-26 |  |
 | [Mal Acostumbrao \- con Maria Becerra](https://open.spotify.com/track/1wcE84DVQUF16xudVFzezL) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Mal Acostumbrao \(con Maria Becerra\)](https://open.spotify.com/album/1UEzLJ7ykAt3pwIznJrI8Q) | 3:10 | 2023-07-14 | 2023-10-24 |
@@ -177,6 +177,7 @@
 | [Mírame](https://open.spotify.com/track/5D5RglczdUqJ2HelD6kGg1) | [Juanicar](https://open.spotify.com/artist/1J92Iz96FwLD7sbBzesxli) | [Mírame](https://open.spotify.com/album/23uPKJwwSlldf0Pq71aT85) | 2:39 | 2024-08-30 | 2024-09-07 |
 | [nada mejor](https://open.spotify.com/track/3kWuBlBpeKyaZzlGxVHG2e) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [nada mejor](https://open.spotify.com/album/4fe8cH92WZmb9rQVyy3aEK) | 3:17 | 2024-02-23 | 2024-05-25 |
 | [Need to Know](https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:30 | 2023-07-14 | 2023-10-24 |
+| [no eres tú soy yo](https://open.spotify.com/track/7fYYDgWxCMFleHPZmRPrGT) | [Lu de la Tower](https://open.spotify.com/artist/52299B9p02G2fK6Tx0lDVQ) | [no eres tú soy yo](https://open.spotify.com/album/7wFqHJm35rSBQlnsVFH2BR) | 2:23 | 2024-09-13 |  |
 | [NO HAY LEY](https://open.spotify.com/track/5enNYN3hDG4Dsey9WsF6TJ) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [NO HAY LEY](https://open.spotify.com/album/58bXMbR7x7k6ubKP7CyZpQ) | 2:37 | 2023-07-14 | 2023-10-24 |
 | [No hay nadie como tú](https://open.spotify.com/track/2ylnGkpzyQ7NIqFA4yt0sZ) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [No hay nadie como tú](https://open.spotify.com/album/2fr7dB5wAGPorXcFWEfEiF) | 3:05 | 2024-04-26 | 2024-05-25 |
 | [no llames lo mío nuestro](https://open.spotify.com/track/56lEVxNmR6NYSSa4nZtEBU) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [no llames lo mío nuestro](https://open.spotify.com/album/2r8XKWioH1ActVuWTXePGu) | 3:39 | 2024-08-23 |  |
@@ -254,7 +255,7 @@
 | [Tres Días](https://open.spotify.com/track/4kWqcOfHbdCtEnkzm8Um0W) | [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Tres Días](https://open.spotify.com/album/40xduCFvsHWuw17lPEAwEv) | 3:10 | 2024-05-17 | 2024-05-25 |
 | [Tu Geografía](https://open.spotify.com/track/12uCHNPDQSDLMLVtz0zfEw) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Indios](https://open.spotify.com/album/0ZAv3N3wsMLcP1X8NWYRAW) | 2:38 | 2024-03-08 |  |
 | [Tu Misterioso Alguien](https://open.spotify.com/track/5BaWu0bYT7XPaIYyXJOZvJ) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [Miranda Es Imposible!](https://open.spotify.com/album/1UTpvroWrhmgpntarWj1OO) | 4:04 | 2023-10-23 |  |
-| [Tu Sonrisa](https://open.spotify.com/track/2fvS1uq09HxUdb5TacY4af) | [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Momentos](https://open.spotify.com/album/4otpESFklCmaNyfdxaRueD) | 3:36 | 2024-05-24 |  |
+| [Tu Sonrisa](https://open.spotify.com/track/2fvS1uq09HxUdb5TacY4af) | [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Momentos](https://open.spotify.com/album/4otpESFklCmaNyfdxaRueD) | 3:36 | 2024-05-24 | 2024-09-14 |
 | [Tus Horas Mágicas](https://open.spotify.com/track/1Qqe3XZRmmhqu53349GmCB) | [Tan Bionica](https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU) | [Hola Mundo](https://open.spotify.com/album/2vOG6M8f7AgiER72EjEdRd) | 2:40 | 2023-10-23 |  |
 | [un día](https://open.spotify.com/track/2znDyj4JlYJL1DayuV4j14) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [100PRE YORO](https://open.spotify.com/album/6xOaHqhD9jaJtR3xmFHrzP) | 3:42 | 2024-04-26 | 2024-06-19 |
 | [Una Cancion](https://open.spotify.com/track/1fwiCqRIR32fXZr3a78pBX) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Una Cancion](https://open.spotify.com/album/240UoUKdTS8jOLXb8Mmigt) | 2:58 | 2024-04-26 | 2024-06-01 |
@@ -273,6 +274,7 @@
 | [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:52 | 2023-07-14 | 2023-10-24 |
 | [Ya](https://open.spotify.com/track/6c4XFuLYURQLv5cUudNit3) | [Lu de la Tower](https://open.spotify.com/artist/52299B9p02G2fK6Tx0lDVQ), [Ocasional Talento](https://open.spotify.com/artist/5IeI26Ct0ocZiLgzvQw5Mt) | [Ya](https://open.spotify.com/album/4rawn4G6JS1SnPrfZiiBx5) | 2:21 | 2023-07-14 | 2023-10-24 |
 | [Ya Borré Tu Número del Celular](https://open.spotify.com/track/1XLnF48KJykKU2yMN5miJl) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2) | [Ya Borré Tu Número del Celular](https://open.spotify.com/album/2Ce8ExX8V8f5OTLdgKUak8) | 3:31 | 2023-11-10 | 2024-02-11 |
+| [¿Cuánto Tiempo?](https://open.spotify.com/track/2KPJZGGDiU4AXImDydkP3s) | [SANTACRUZ](https://open.spotify.com/artist/42q0iHNbkj0YS8kp0QuOp2) | [¿Cuánto Tiempo?](https://open.spotify.com/album/5mgaOULjcVaPxLFLKvVDFn) | 2:45 | 2024-09-13 |  |
 | [¿Cómo Pasó?](https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Cómo Pasó?](https://open.spotify.com/album/60ljXbrvvWXfuvPen2K319) | 2:54 | 2024-04-05 |  |
 | [Éxtasis](https://open.spotify.com/track/2X8AGLwb9F0JzJ9zT27a22) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Éxtasis](https://open.spotify.com/album/3pfyjuT8pPM0i9K3i7n451) | 3:11 | 2023-07-14 | 2023-10-24 |
 | [Índigo](https://open.spotify.com/track/4knc1Fp3kbuq8bH2byOvLu) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Índigo](https://open.spotify.com/album/1QtYnYj7SFX1EIqF6ALjaX) | 3:34 | 2023-07-14 | 2023-10-24 |

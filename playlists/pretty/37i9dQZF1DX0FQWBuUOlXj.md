@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FQWBuUOlXj.md) - [plain]
 
 > The official playlist for After Life, curated by Ricky Gervais\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,748 likes - 50 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,805 likes - 50 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FQWBuUOlXj.md) - [plain]
 | 25 | [Finding It There](https://open.spotify.com/track/5G9rra29bm2HtXcyDtRf1y) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [The Malady Of Elegance](https://open.spotify.com/album/1vF5y6BC66nKozxg0Dsvvo) | 3:40 |
 | 26 | [If These Walls Could Speak](https://open.spotify.com/track/1Mlc3atP5OQaMPFwudJ55K) | [Jimmy Webb](https://open.spotify.com/artist/0YJUdunUDA1pTDxJ8AJlyB) | [Ten Easy Pieces](https://open.spotify.com/album/1ofvptZMmnekEQddIbdySL) | 4:03 |
 | 27 | [So Amazing](https://open.spotify.com/track/2BABTeUx608FA8b47bDuLK) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Give Me The Reason](https://open.spotify.com/album/3uWgCaZ1ixRuMvBZniwxJj) | 3:42 |
-| 28 | [Can You Hear Me \- 2016 Remaster](https://open.spotify.com/track/0iWHMJwpVl46UJ2KZ2IEKt) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Young Americans \(2016 Remaster\)](https://open.spotify.com/album/0lITGovWgaQGi42EfqcE5P) | 5:08 |
+| 28 | [Can You Hear Me \- 2016 Remaster](https://open.spotify.com/track/0iWHMJwpVl46UJ2KZ2IEKt) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Young Americans \- 2016 Remaster](https://open.spotify.com/album/0lITGovWgaQGi42EfqcE5P) | 5:08 |
 | 29 | [Threnody](https://open.spotify.com/track/7hyAAjHZaDWSPDzlUYNUIa) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [The Malady Of Elegance](https://open.spotify.com/album/1vF5y6BC66nKozxg0Dsvvo) | 4:41 |
 | 30 | [Little Piece of Nothing](https://open.spotify.com/track/71hPJJ106daQSnIY34YCg5) | [Dave Thomas Junior](https://open.spotify.com/artist/0mUIey7n1U90IScto35rX7) | [Echo](https://open.spotify.com/album/6KF7nebjXfMqnli4lIg0mH) | 4:55 |
 | 31 | [Send in the Clowns](https://open.spotify.com/track/3evTbfCtMxbUwTQIn7QOcG) | [Judy Collins](https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn) | [Judith](https://open.spotify.com/album/2P9EqaNiGfiYweANVtt0Ry) | 4:00 |

@@ -1,12 +1,12 @@
 {
   "description": "selects from music we've been listening to @ Moving Castle. Manila Killa's album, Dusk drops July 21st!",
-  "num_followers": 20677,
+  "num_followers": 20678,
   "original_name": "Moving Castle Monthly",
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "AAAqJnO2TNTvhYYD59vkqwPNc4s2y/Bv",
+  "snapshot_id": "AAAqKH1dvI5J5G1NQ5fbC3BqoE53/qYe",
   "tracks": [
     {
       "added_at": "2024-08-06 19:32:19",
@@ -2011,6 +2011,46 @@
       "duration_ms": 199720,
       "name": "Thick Of It All",
       "url": "https://open.spotify.com/track/6JbvvGKwtgcjeOU810AS8w"
+    },
+    {
+      "added_at": "2024-09-14 00:39:00",
+      "album": {
+        "name": "Are You Happy Now",
+        "url": "https://open.spotify.com/album/5BGQ43Yb9mwLWA9MViSwY7"
+      },
+      "artists": [
+        {
+          "name": "SABAI",
+          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
+        },
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        }
+      ],
+      "duration_ms": 242666,
+      "name": "Are You Happy Now",
+      "url": "https://open.spotify.com/track/3ecUcDxrUZHdpNq9XdeOI5"
+    },
+    {
+      "added_at": "2024-09-14 00:39:16",
+      "album": {
+        "name": "How To Run Away - 10 Year Bonus Disk",
+        "url": "https://open.spotify.com/album/77I6SPJYTyBuuIkjs6Eetq"
+      },
+      "artists": [
+        {
+          "name": "Slow Magic",
+          "url": "https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT"
+        },
+        {
+          "name": "Angela Kr\u00fcsi",
+          "url": "https://open.spotify.com/artist/76VaLarlPXHMQ3TFPE6YI1"
+        }
+      ],
+      "duration_ms": 250666,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/77seRPoDM8XqbaYVNHoVmy"
     }
   ],
   "unique_name": "Moving Castle Monthly",

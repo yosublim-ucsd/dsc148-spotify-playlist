@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: nimino
 
-2,126 songs - 4 day 4 hr 5 min
+2,127 songs - 4 day 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -575,7 +575,7 @@
 | [Entrapreneur](https://open.spotify.com/track/72v1J97VEDEoAq66SQW0yh) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Entrapreneur](https://open.spotify.com/album/6VrYcDdRM3W0eqHbaTKcWh) | 2:24 | 2023-12-28 | 2024-01-10 |
 | [entschuldigung](https://open.spotify.com/track/17J1yTfrglZcsfs0G5rppK) | [LEEPA](https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD) | [entschuldigung](https://open.spotify.com/album/4Frt3EaNVUBWCX8euwR2nt) | 2:31 | 2024-04-11 | 2024-05-03 |
 | [EPOCHE](https://open.spotify.com/track/7t2waTytPcRDjEOFv0C2UP) | [Rrotzer](https://open.spotify.com/artist/6a3Hepy65IU5aex19pUwjd) | [EPOCHE](https://open.spotify.com/album/5pliDIxxlkj8TTfNHV04FY) | 1:52 | 2022-07-21 | 2022-07-29 |
-| [Er kriegt mich nicht](https://open.spotify.com/track/3QlqPRUCScMH9SRdRSPhid) | [Zsá Zsá](https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ) | [Er kriegt mich nicht](https://open.spotify.com/album/32KQ2dKaKl0XXalzDj9b5U) | 1:29 | 2024-07-04 |  |
+| [Er kriegt mich nicht](https://open.spotify.com/track/3QlqPRUCScMH9SRdRSPhid) | [Zsá Zsá](https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ) | [Er kriegt mich nicht](https://open.spotify.com/album/32KQ2dKaKl0XXalzDj9b5U) | 1:29 | 2024-07-04 | 2024-09-14 |
 | [erste ma verliebt </3](https://open.spotify.com/track/1tpDvNYpe7sISg9HFZqJ97) | [AyVe](https://open.spotify.com/artist/7v5NBcbJPldtdx1S2zQRtZ) | [erste ma verliebt </3](https://open.spotify.com/album/78CkAgdaYRbPW6DmKLG2SN) | 1:47 | 2022-12-22 | 2023-10-20 |
 | [ersterplatz](https://open.spotify.com/track/5dvwBo83mtpZUmi9tf96pf) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ) | [ersterplatz](https://open.spotify.com/album/48ZvOk3LIgBW5IE3yfvZFf) | 2:06 | 2023-11-30 | 2023-12-15 |
 | [Erstmal Essen](https://open.spotify.com/track/00SCoeeKghqbYfxHSRV64D) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Erstmal Essen](https://open.spotify.com/album/14APsRnvqOWgceB3DqwciA) | 2:03 | 2022-09-22 | 2022-10-11 |
@@ -2065,6 +2065,7 @@
 | [Winterherz](https://open.spotify.com/track/2NY6OwXheFjzMvdVmw69mQ) | [JAS](https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9) | [Winterherz](https://open.spotify.com/album/2drpDTlCM3pSjH2PEhXWVD) | 2:40 | 2023-12-21 | 2024-03-15 |
 | [winterlove2.0](https://open.spotify.com/track/1szS7JF64tEmQke86QpFDV) | [Maikel](https://open.spotify.com/artist/2T1zM7AtA0Cd9u1m3PBFEY), [badchieff](https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU) | [winterlove2.0](https://open.spotify.com/album/6FVvZwks2Bz8xpYFUSbQrb) | 3:08 | 2023-11-30 | 2024-01-26 |
 | [wir gehen rein](https://open.spotify.com/track/2HwhL4g7ip7rS8PS5P75RB) | [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ) | [wir gehen rein](https://open.spotify.com/album/70DzYvnurmsMhVt8z4w2UL) | 2:41 | 2024-07-26 | 2024-08-23 |
+| [Wish You Knew](https://open.spotify.com/track/508Lt6htU4xJEwjHrDL1OD) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Wish You Knew](https://open.spotify.com/album/1ZEqSJ6WHYk6UydPRwqUEP) | 3:48 | 2024-09-13 |  |
 | [wish ✮⋆˙](https://open.spotify.com/track/1Gq7NELRtSk34NBnSobxqB) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [wish ✮⋆˙](https://open.spotify.com/album/0OI5jimIAjOVUfFiNcE5QM) | 2:11 | 2023-12-04 | 2023-12-08 |
 | [wish ✮⋆˙](https://open.spotify.com/track/5SmMwHlK9xylVRZ3si4xDd) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [wish ✮⋆˙](https://open.spotify.com/album/6ETjthotRkmnN8OnIB4NIe) | 2:11 | 2023-11-30 | 2023-12-06 |
 | [Without You](https://open.spotify.com/track/70iMhwrs7qZg64GiW8sMew) | [Kidd Azzurra](https://open.spotify.com/artist/78l0gyXe9ppP4zLZDsgfcj) | [Without You](https://open.spotify.com/album/6RXrLreUG2FzqOSy1CHzy8) | 1:53 | 2022-06-09 | 2022-07-01 |

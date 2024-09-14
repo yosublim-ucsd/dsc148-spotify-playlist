@@ -503,6 +503,32 @@
     },
     {
       "album": {
+        "name": "All We Get",
+        "url": "https://open.spotify.com/album/5Rw5VgU5MQNwPP3TlQqgts"
+      },
+      "artists": [
+        {
+          "name": "Elephante",
+          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
+        },
+        {
+          "name": "yetep",
+          "url": "https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC"
+        },
+        {
+          "name": "Daye",
+          "url": "https://open.spotify.com/artist/60osBGZW2H9FtEecIfybMt"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248616,
+      "name": "All We Get",
+      "url": "https://open.spotify.com/track/517vNs5QcADIAHl8vKXCzc"
+    },
+    {
+      "album": {
         "name": "All We Needed",
         "url": "https://open.spotify.com/album/3K5Uj6OuNzPPetcRSJhVLt"
       },
@@ -812,7 +838,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 190666,
       "name": "Anybody Out There (feat. HENRY & Sara Phillips)",
       "url": "https://open.spotify.com/track/05tOx5wW2LGBOExPe37wdI"
@@ -3288,7 +3314,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 255019,
       "name": "Drugs",
       "url": "https://open.spotify.com/track/4O3QY53xKadk9EJXUhSOsh"
@@ -4838,6 +4864,32 @@
       "duration_ms": 253983,
       "name": "From the Ashes",
       "url": "https://open.spotify.com/track/3bEkAkaKjxaC7DubsfCo1t"
+    },
+    {
+      "album": {
+        "name": "Daisy Dukes & Cowboy Boots",
+        "url": "https://open.spotify.com/album/4zfkPdnor54uTak3KuGsR2"
+      },
+      "artists": [
+        {
+          "name": "TVBOO",
+          "url": "https://open.spotify.com/artist/3T0BepBNnd3kw2m10rh8yW"
+        },
+        {
+          "name": "Big Gigantic",
+          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
+        },
+        {
+          "name": "ProbCause",
+          "url": "https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Funk Docta",
+      "url": "https://open.spotify.com/track/7iEZx2AUow9AD3dF1ZekYA"
     },
     {
       "album": {
@@ -7576,7 +7628,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 216000,
       "name": "Let Me Out",
       "url": "https://open.spotify.com/track/6iiyEi5H54pHJRA9neoHQo"
@@ -12528,6 +12580,28 @@
       "duration_ms": 218322,
       "name": "Take You Home (feat. Dia Frampton)",
       "url": "https://open.spotify.com/track/7dUeGRu9gaXSjkjKO4I8F3"
+    },
+    {
+      "album": {
+        "name": "Take Your Light",
+        "url": "https://open.spotify.com/album/3FeVbuIMTL0jn5gzdSnO3C"
+      },
+      "artists": [
+        {
+          "name": "HALIENE",
+          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
+        },
+        {
+          "name": "NURKO",
+          "url": "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206068,
+      "name": "Take Your Light",
+      "url": "https://open.spotify.com/track/5yUBngauPNCjUcINbChHtX"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The joy of Global and SA Pop\. Cover: <a href="https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B?si=RfXZXoR0RzSOx4C5S1N8GA">Sabrina Carpenter</a>
 
-130 songs - 6 hr 30 min
+131 songs - 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Stick Season](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:02 | 2024-07-11 |  |
 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2024-06-27 | 2024-07-12 |
 | [Summer in the 70's](https://open.spotify.com/track/2Tb8efkcaHLxz7wcXtUlKR) | [Rubber Duc](https://open.spotify.com/artist/1LU9hKlamftkrhXmj5k0OU) | [Summer in the 70's](https://open.spotify.com/album/3BiSAWqw2PYOAp2hpWTJvO) | 3:51 | 2024-07-18 |  |
+| [Talk About It](https://open.spotify.com/track/2PhoSaWFwjTBLutzVTHG9G) | [BINX](https://open.spotify.com/artist/1m6WCZzMnbe46bBTvbERQ0) | [Bedazzled, Pt\. 2](https://open.spotify.com/album/5ovXeIEDlidbFeO2k7jf5k) | 2:24 | 2024-09-12 |  |
 | [Taste](https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj) | 2:37 | 2024-08-23 |  |
 | [Taste of You](https://open.spotify.com/track/5bo4onmRRHHfvXdufb5LrM) | [Cheyanne](https://open.spotify.com/artist/0MG7jeZpAjGceZerJxvu9c) | [Taste of You](https://open.spotify.com/album/0bku2FAuU16txh9jDPMCGI) | 3:09 | 2024-06-27 | 2024-07-19 |
 | [the boy is mine](https://open.spotify.com/track/0Lmbke3KNVFXtoH2mMSHCw) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 2:53 | 2024-07-11 | 2024-08-10 |

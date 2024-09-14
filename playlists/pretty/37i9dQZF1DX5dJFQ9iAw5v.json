@@ -1,6 +1,6 @@
 {
   "description": "De Argentina para el mundo, los m\u00e1s destacados int\u00e9rpretes y compositores. Foto: Escalandrum",
-  "num_followers": 32303,
+  "num_followers": 32305,
   "original_name": "Jazz Argentino",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "En Las Afueras",
-        "url": "https://open.spotify.com/album/3HFpmU9TMoadAv0ZX2N6my"
-      },
-      "artists": [
-        {
-          "name": "Pat Nu\u00f1o",
-          "url": "https://open.spotify.com/artist/273KEzVbjsjzo9q8bb3SiN"
-        }
-      ],
-      "duration_ms": 230133,
-      "name": "Caminando Con Aud\u00edfonos",
-      "url": "https://open.spotify.com/track/3JYHW0mhebs5DIgmaJu6Im"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
         "name": "Brilliant Corners",
         "url": "https://open.spotify.com/album/1U7l8CHeLqBjDKVx4987C4"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 104195,
       "name": "Brilliant Corners",
       "url": "https://open.spotify.com/track/2fFSR3ZclE7Tid8nk2iQUI"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
+        "name": "En Las Afueras",
+        "url": "https://open.spotify.com/album/3HFpmU9TMoadAv0ZX2N6my"
+      },
+      "artists": [
+        {
+          "name": "Pat Nu\u00f1o",
+          "url": "https://open.spotify.com/artist/273KEzVbjsjzo9q8bb3SiN"
+        }
+      ],
+      "duration_ms": 230133,
+      "name": "Caminando Con Aud\u00edfonos",
+      "url": "https://open.spotify.com/track/3JYHW0mhebs5DIgmaJu6Im"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -547,38 +547,6 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "Wallflower",
-        "url": "https://open.spotify.com/album/3830K875C6mYbKSPfd5F7u"
-      },
-      "artists": [
-        {
-          "name": "Ver\u00f3nica Sala",
-          "url": "https://open.spotify.com/artist/2KLelEcdhHASNmAx2eXpgP"
-        }
-      ],
-      "duration_ms": 365560,
-      "name": "So in Love",
-      "url": "https://open.spotify.com/track/2baqmzRDyPgEUmxbzuyczm"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
-        "name": "Lua",
-        "url": "https://open.spotify.com/album/593aZvfhvWuTuAtHrlOhbs"
-      },
-      "artists": [
-        {
-          "name": "Hern\u00e1n Jacinto",
-          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
-        }
-      ],
-      "duration_ms": 251376,
-      "name": "Arenales Blues",
-      "url": "https://open.spotify.com/track/5OoRI3CMMFFJOz619NVzXI"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
         "name": "100",
         "url": "https://open.spotify.com/album/3N2E5wcpICEkJpHMeI08u4"
       },
@@ -607,6 +575,38 @@
       "duration_ms": 237240,
       "name": "Aura",
       "url": "https://open.spotify.com/track/2QF4GEpnQkVMPFKcHMgc3c"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
+        "name": "Wallflower",
+        "url": "https://open.spotify.com/album/3830K875C6mYbKSPfd5F7u"
+      },
+      "artists": [
+        {
+          "name": "Ver\u00f3nica Sala",
+          "url": "https://open.spotify.com/artist/2KLelEcdhHASNmAx2eXpgP"
+        }
+      ],
+      "duration_ms": 365560,
+      "name": "So in Love",
+      "url": "https://open.spotify.com/track/2baqmzRDyPgEUmxbzuyczm"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
+        "name": "Lua",
+        "url": "https://open.spotify.com/album/593aZvfhvWuTuAtHrlOhbs"
+      },
+      "artists": [
+        {
+          "name": "Hern\u00e1n Jacinto",
+          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
+        }
+      ],
+      "duration_ms": 251376,
+      "name": "Arenales Blues",
+      "url": "https://open.spotify.com/track/5OoRI3CMMFFJOz619NVzXI"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -695,38 +695,6 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "El Jard\u00edn de Ord\u00f3\u00f1ez",
-        "url": "https://open.spotify.com/album/7pa2jpIWS7mbAY2GBnuTDh"
-      },
-      "artists": [
-        {
-          "name": "Ramiro Flores",
-          "url": "https://open.spotify.com/artist/59YTycBxhexu6zRUAQas1t"
-        }
-      ],
-      "duration_ms": 347200,
-      "name": "Ordo\u0301n\u0303ez y Ernestina (o el Banquito de Ordo\u0301n\u0303ez)",
-      "url": "https://open.spotify.com/track/0yFcvCGFCpZzmQP890rtSJ"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
-        "name": "Nude (En Vivo)",
-        "url": "https://open.spotify.com/album/6EgEoC0cgQtzv6v7RC24cH"
-      },
-      "artists": [
-        {
-          "name": "In\u00e9s Est\u00e9vez",
-          "url": "https://open.spotify.com/artist/3kpzLtvkHcjmix7BO6GZcq"
-        }
-      ],
-      "duration_ms": 305108,
-      "name": "Learning the Blues - En Vivo",
-      "url": "https://open.spotify.com/track/4r4IhvaFjRHSX7C2B671Jf"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
         "name": "Flamenco Sketches (feat. Ni\u00f1o Josele)",
         "url": "https://open.spotify.com/album/1qyUjJd3avQ9BLHmFivRCW"
       },
@@ -747,6 +715,22 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
+        "name": "El Jard\u00edn de Ord\u00f3\u00f1ez",
+        "url": "https://open.spotify.com/album/7pa2jpIWS7mbAY2GBnuTDh"
+      },
+      "artists": [
+        {
+          "name": "Ramiro Flores",
+          "url": "https://open.spotify.com/artist/59YTycBxhexu6zRUAQas1t"
+        }
+      ],
+      "duration_ms": 347200,
+      "name": "Ordo\u0301n\u0303ez y Ernestina (o el Banquito de Ordo\u0301n\u0303ez)",
+      "url": "https://open.spotify.com/track/0yFcvCGFCpZzmQP890rtSJ"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
         "name": "Umbral de M\u00ed",
         "url": "https://open.spotify.com/album/7MTwHtpJEAa2ACYFBbkmUR"
       },
@@ -763,18 +747,18 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "Viva Jujuy",
-        "url": "https://open.spotify.com/album/7zqBQINQuhtMbgHk7sZ8fm"
+        "name": "Nude (En Vivo)",
+        "url": "https://open.spotify.com/album/6EgEoC0cgQtzv6v7RC24cH"
       },
       "artists": [
         {
-          "name": "Arturo Puertas",
-          "url": "https://open.spotify.com/artist/68VGzNdHAbP0eDDdmyvNCZ"
+          "name": "In\u00e9s Est\u00e9vez",
+          "url": "https://open.spotify.com/artist/3kpzLtvkHcjmix7BO6GZcq"
         }
       ],
-      "duration_ms": 361280,
-      "name": "Viva Jujuy",
-      "url": "https://open.spotify.com/track/29MTjfwiZZ8wfAy5TUlQM5"
+      "duration_ms": 305108,
+      "name": "Learning the Blues - En Vivo",
+      "url": "https://open.spotify.com/track/4r4IhvaFjRHSX7C2B671Jf"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -795,6 +779,22 @@
       "duration_ms": 364056,
       "name": "Desde El Corazon",
       "url": "https://open.spotify.com/track/4PCBKDDelvSbxLXO72o5DR"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
+        "name": "Viva Jujuy",
+        "url": "https://open.spotify.com/album/7zqBQINQuhtMbgHk7sZ8fm"
+      },
+      "artists": [
+        {
+          "name": "Arturo Puertas",
+          "url": "https://open.spotify.com/artist/68VGzNdHAbP0eDDdmyvNCZ"
+        }
+      ],
+      "duration_ms": 361280,
+      "name": "Viva Jujuy",
+      "url": "https://open.spotify.com/track/29MTjfwiZZ8wfAy5TUlQM5"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "Sesiones 2017-2020",
-        "url": "https://open.spotify.com/album/17NlLQlimG217X7OALtTSy"
-      },
-      "artists": [
-        {
-          "name": "La Grande",
-          "url": "https://open.spotify.com/artist/7Ad5Ks4eGUXAHba62EIVw0"
-        }
-      ],
-      "duration_ms": 374748,
-      "name": "Nublado",
-      "url": "https://open.spotify.com/track/1kVLgCqLkgrBtCVgAJiXuC"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
         "name": "El Reino del Rev\u00e9s",
         "url": "https://open.spotify.com/album/2ozvBrtW3avwSSX3nkO8dx"
       },
@@ -867,18 +851,18 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "Las Tardecitas de Miton's",
-        "url": "https://open.spotify.com/album/7lWZcmElRhLDZrLVJqSSC4"
+        "name": "Sesiones 2017-2020",
+        "url": "https://open.spotify.com/album/17NlLQlimG217X7OALtTSy"
       },
       "artists": [
         {
-          "name": "Adrian Iaies Trio",
-          "url": "https://open.spotify.com/artist/4MKtvJyVxI69nNamN4wWje"
+          "name": "La Grande",
+          "url": "https://open.spotify.com/artist/7Ad5Ks4eGUXAHba62EIVw0"
         }
       ],
-      "duration_ms": 368586,
-      "name": "Cafetin de Buenos Aires",
-      "url": "https://open.spotify.com/track/1qMFhxqH3pg4op8TcWqDU6"
+      "duration_ms": 374748,
+      "name": "Nublado",
+      "url": "https://open.spotify.com/track/1kVLgCqLkgrBtCVgAJiXuC"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -899,6 +883,22 @@
       "duration_ms": 524134,
       "name": "Wave",
       "url": "https://open.spotify.com/track/79Wgtrmp428O3j5H4k4etr"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
+        "name": "Las Tardecitas de Miton's",
+        "url": "https://open.spotify.com/album/7lWZcmElRhLDZrLVJqSSC4"
+      },
+      "artists": [
+        {
+          "name": "Adrian Iaies Trio",
+          "url": "https://open.spotify.com/artist/4MKtvJyVxI69nNamN4wWje"
+        }
+      ],
+      "duration_ms": 368586,
+      "name": "Cafetin de Buenos Aires",
+      "url": "https://open.spotify.com/track/1qMFhxqH3pg4op8TcWqDU6"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -1023,30 +1023,18 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "Tr\u00edas",
-        "url": "https://open.spotify.com/album/3r9kmsMm2FztYolno45BT2"
+        "name": "Enero",
+        "url": "https://open.spotify.com/album/6zuBb3nDs2lQSjwfjQtu4b"
       },
       "artists": [
         {
-          "name": "Juan Cruz De Urquiza",
-          "url": "https://open.spotify.com/artist/0nRwYzrk9wrf5ZIsvPuxwl"
-        },
-        {
-          "name": "Hern\u00e1n Jacinto",
-          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
-        },
-        {
-          "name": "Carlos Alvarez",
-          "url": "https://open.spotify.com/artist/3n4bsQdUztlsnOwCfEYsSI"
-        },
-        {
-          "name": "Carto Brand\u00e1n",
-          "url": "https://open.spotify.com/artist/6V37ntXjzq4ozdp0SYKsmB"
+          "name": "Commodore",
+          "url": "https://open.spotify.com/artist/0nc60bKoFvbBvw0CLDpbIN"
         }
       ],
-      "duration_ms": 640853,
-      "name": "Trias",
-      "url": "https://open.spotify.com/track/7sTSysRFQYhAW6SqmCUaaw"
+      "duration_ms": 412693,
+      "name": "Cero",
+      "url": "https://open.spotify.com/track/1mMzrMwcexRJe5PNMTJISZ"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -1071,18 +1059,30 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "Enero",
-        "url": "https://open.spotify.com/album/6zuBb3nDs2lQSjwfjQtu4b"
+        "name": "Tr\u00edas",
+        "url": "https://open.spotify.com/album/3r9kmsMm2FztYolno45BT2"
       },
       "artists": [
         {
-          "name": "Commodore",
-          "url": "https://open.spotify.com/artist/0nc60bKoFvbBvw0CLDpbIN"
+          "name": "Juan Cruz De Urquiza",
+          "url": "https://open.spotify.com/artist/0nRwYzrk9wrf5ZIsvPuxwl"
+        },
+        {
+          "name": "Hern\u00e1n Jacinto",
+          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
+        },
+        {
+          "name": "Carlos Alvarez",
+          "url": "https://open.spotify.com/artist/3n4bsQdUztlsnOwCfEYsSI"
+        },
+        {
+          "name": "Carto Brand\u00e1n",
+          "url": "https://open.spotify.com/artist/6V37ntXjzq4ozdp0SYKsmB"
         }
       ],
-      "duration_ms": 412693,
-      "name": "Cero",
-      "url": "https://open.spotify.com/track/1mMzrMwcexRJe5PNMTJISZ"
+      "duration_ms": 640853,
+      "name": "Trias",
+      "url": "https://open.spotify.com/track/7sTSysRFQYhAW6SqmCUaaw"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "Algo Bueno - Something Good",
-        "url": "https://open.spotify.com/album/7w52y2XkpM2gdI9u3XwMI5"
-      },
-      "artists": [
-        {
-          "name": "Marta Bellomo",
-          "url": "https://open.spotify.com/artist/7x3oAEeK0qQgiuTNbHBFFm"
-        },
-        {
-          "name": "Alejandro Moro",
-          "url": "https://open.spotify.com/artist/38VjOepx14QeNPXXYucLt8"
-        }
-      ],
-      "duration_ms": 572278,
-      "name": "Estate",
-      "url": "https://open.spotify.com/track/15lMmbejFNbJJFuq8Q0U2N"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
         "name": "Infinite Universe",
         "url": "https://open.spotify.com/album/34zfFlu9MZ6efJB014H3cZ"
       },
@@ -1279,18 +1259,22 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "Lentes",
-        "url": "https://open.spotify.com/album/3nQvu36vQOrnLla0fEd7gy"
+        "name": "Algo Bueno - Something Good",
+        "url": "https://open.spotify.com/album/7w52y2XkpM2gdI9u3XwMI5"
       },
       "artists": [
         {
-          "name": "Juan Cruz De Urquiza",
-          "url": "https://open.spotify.com/artist/0nRwYzrk9wrf5ZIsvPuxwl"
+          "name": "Marta Bellomo",
+          "url": "https://open.spotify.com/artist/7x3oAEeK0qQgiuTNbHBFFm"
+        },
+        {
+          "name": "Alejandro Moro",
+          "url": "https://open.spotify.com/artist/38VjOepx14QeNPXXYucLt8"
         }
       ],
-      "duration_ms": 544146,
-      "name": "Trapos Colgantes",
-      "url": "https://open.spotify.com/track/77e7WFSnVtgafRllsTW89d"
+      "duration_ms": 572278,
+      "name": "Estate",
+      "url": "https://open.spotify.com/track/15lMmbejFNbJJFuq8Q0U2N"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -1307,6 +1291,22 @@
       "duration_ms": 367797,
       "name": "En el fondo del mar",
       "url": "https://open.spotify.com/track/3Fuh1jFj6vYFgAlNzCAT52"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
+        "name": "Lentes",
+        "url": "https://open.spotify.com/album/3nQvu36vQOrnLla0fEd7gy"
+      },
+      "artists": [
+        {
+          "name": "Juan Cruz De Urquiza",
+          "url": "https://open.spotify.com/artist/0nRwYzrk9wrf5ZIsvPuxwl"
+        }
+      ],
+      "duration_ms": 544146,
+      "name": "Trapos Colgantes",
+      "url": "https://open.spotify.com/track/77e7WFSnVtgafRllsTW89d"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "Ausencias",
-        "url": "https://open.spotify.com/album/2dHnj5p5fotsLObRmWJjxM"
-      },
-      "artists": [
-        {
-          "name": "Dino Saluzzi",
-          "url": "https://open.spotify.com/artist/0XsuWf5f3kRzml20heorPz"
-        }
-      ],
-      "duration_ms": 298880,
-      "name": "Ausencias",
-      "url": "https://open.spotify.com/track/5z53V0J5v7VNZpIOV5bycT"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
         "name": "Manto de Carne",
         "url": "https://open.spotify.com/album/10ZoS4b1TByFyer9vaFGzH"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 314213,
       "name": "Juventud",
       "url": "https://open.spotify.com/track/6JYlEztSmPwzfSNiRDX3Bn"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
+        "name": "Ausencias",
+        "url": "https://open.spotify.com/album/2dHnj5p5fotsLObRmWJjxM"
+      },
+      "artists": [
+        {
+          "name": "Dino Saluzzi",
+          "url": "https://open.spotify.com/artist/0XsuWf5f3kRzml20heorPz"
+        }
+      ],
+      "duration_ms": 298880,
+      "name": "Ausencias",
+      "url": "https://open.spotify.com/track/5z53V0J5v7VNZpIOV5bycT"
     },
     {
       "added_at": "2023-12-08 00:22:41",

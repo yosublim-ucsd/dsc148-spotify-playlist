@@ -2,9 +2,9 @@
 
 ### [Domino Sound System](https://open.spotify.com/playlist/2nSEYi9ueqDn2wxo1Tmceg)
 
-> Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5?si=rkkz3xKqQTCfkmyCtuVXVQ">Joe Goddard</a>
+> Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek?si=HVD6qR1VTMKrW1SGfN77kQ">Porches</a>
 
-1,058 songs - 3 day 0 hr 35 min
+1,059 songs - 3 day 0 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Boy Girl](https://open.spotify.com/track/5zR0jyCSe6lPmjycRIuiHZ) | [moa moa](https://open.spotify.com/artist/1VC1fSNmQ7dzRFMYlEuurc) | [Boy Girl](https://open.spotify.com/album/4vPiad7HD61wqTLgshRrYB) | 3:14 | 2022-10-20 | 2022-11-24 |
 | [Boy Girl \- DC Gore Remix](https://open.spotify.com/track/0fTP0rSECgHqWkC9Xk4vXb) | [moa moa](https://open.spotify.com/artist/1VC1fSNmQ7dzRFMYlEuurc), [DC Gore](https://open.spotify.com/artist/6Z9iK220pst9ExbutivPI6) | [Boy Girl \(DC Gore Remix\)](https://open.spotify.com/album/6yEdDliRNjMrmVA0ZfLBWQ) | 4:34 | 2022-12-07 | 2023-02-09 |
 | [Boys](https://open.spotify.com/track/1wzz6n18rGB4G7Jlz1MKIr) | [Amen Dunes](https://open.spotify.com/artist/1jwOuEBcOKq0BeudSarbEM) | [Boys](https://open.spotify.com/album/3WD2Esqx5d8U6kjiiTLLkU) | 4:18 | 2024-04-03 | 2024-05-09 |
+| [Bread Believer](https://open.spotify.com/track/3ZyMkTinkvEAfQhj1cSzDG) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Shirt](https://open.spotify.com/album/2Z3KozCg7LVVLSEE0yXUod) | 2:41 | 2024-09-13 |  |
 | [Brighter](https://open.spotify.com/track/4yNAvVWyqF9jj0vtuo9lx1) | [April Magazine](https://open.spotify.com/artist/6keAC0sBPgw1U4U8qvv9Aa) | [Wesley's Convertible Tape For The South](https://open.spotify.com/album/0D4vapicUq5zYcJ6cdoDcb) | 2:45 | 2024-04-10 | 2024-05-09 |
 | [Brixton Fish Fry](https://open.spotify.com/track/4B8NxK6wOuSOT4jl3ABUvO) | [Steve Mason](https://open.spotify.com/artist/4ieS1hHc74D9RXhkyoriDU), [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ) | [Brixton Fish Fry](https://open.spotify.com/album/0CowUBTxj7wTAaAVhgND3r) | 6:20 | 2023-02-15 | 2023-04-06 |
 | [Broke Zodiac](https://open.spotify.com/track/13VBnTHnLmgst3J4dF0zpH) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Isn’t It Now?](https://open.spotify.com/album/0J2TlWaut2IAlWdBRHLIHf) | 2:45 | 2023-09-29 | 2023-11-16 |

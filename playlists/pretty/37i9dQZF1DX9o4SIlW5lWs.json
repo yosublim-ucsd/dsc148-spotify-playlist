@@ -1,6 +1,6 @@
 {
   "description": "Al coraz\u00f3n! Foto: La Kuppe & Amar Azul.",
-  "num_followers": 225589,
+  "num_followers": 225653,
   "original_name": "Cumbia y Romance",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,22 @@
     {
       "added_at": "2024-09-13 03:00:00",
       "album": {
+        "name": "Una Lluvia De Rosas",
+        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "duration_ms": 224786,
+      "name": "Sin Ti No S\u00e9 Vivir",
+      "url": "https://open.spotify.com/track/2tkeEsJUjKLM1zKeWJ3RqU"
+    },
+    {
+      "added_at": "2024-09-13 03:00:00",
+      "album": {
         "name": "Si Esta Casa Hablara",
         "url": "https://open.spotify.com/album/7JTFZ8I4RPHodlhmX2faiP"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 200071,
       "name": "Te Voy a Amar",
       "url": "https://open.spotify.com/track/2srKgu7hvh8cmIWmfwOz70"
-    },
-    {
-      "added_at": "2024-09-13 03:00:00",
-      "album": {
-        "name": "Una Lluvia De Rosas",
-        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        }
-      ],
-      "duration_ms": 224786,
-      "name": "Sin Ti No S\u00e9 Vivir",
-      "url": "https://open.spotify.com/track/2tkeEsJUjKLM1zKeWJ3RqU"
     },
     {
       "added_at": "2024-09-13 03:00:00",
@@ -547,30 +547,22 @@
     {
       "added_at": "2024-09-13 03:00:00",
       "album": {
-        "name": "Promet\u00ed",
-        "url": "https://open.spotify.com/album/5ZWScEMjgn79zqyof8qvW1"
+        "name": "DJ ALEX, LA JOAQUI - TU AMOR | E7",
+        "url": "https://open.spotify.com/album/772pSj9TMLYJoULLYIEVBX"
       },
       "artists": [
         {
-          "name": "Fer Vazquez",
-          "url": "https://open.spotify.com/artist/5nAsuOI0lqqbii7YFCh7cB"
+          "name": "DJ Alex",
+          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
         },
         {
-          "name": "Chili Fernandez",
-          "url": "https://open.spotify.com/artist/3YXV0Ed1NtUyaR9WJF2JID"
-        },
-        {
-          "name": "Candu Dom\u00cdnguez",
-          "url": "https://open.spotify.com/artist/5m9vITkrXG8sov2qittAfI"
-        },
-        {
-          "name": "ZHAE",
-          "url": "https://open.spotify.com/artist/0RLlNL6R3nAkU6IpGT0gn9"
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
         }
       ],
-      "duration_ms": 156325,
-      "name": "Promet\u00ed",
-      "url": "https://open.spotify.com/track/5ZneIBS61svHm9FDhsPma3"
+      "duration_ms": 153665,
+      "name": "DJ ALEX, LA JOAQUI - TU AMOR | E7",
+      "url": "https://open.spotify.com/track/3N6rAKpPraBOZqn9RhSrz0"
     },
     {
       "added_at": "2024-09-13 03:00:00",
@@ -599,22 +591,30 @@
     {
       "added_at": "2024-09-13 03:00:00",
       "album": {
-        "name": "DJ ALEX, LA JOAQUI - TU AMOR | E7",
-        "url": "https://open.spotify.com/album/772pSj9TMLYJoULLYIEVBX"
+        "name": "Promet\u00ed",
+        "url": "https://open.spotify.com/album/5ZWScEMjgn79zqyof8qvW1"
       },
       "artists": [
         {
-          "name": "DJ Alex",
-          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
+          "name": "Fer Vazquez",
+          "url": "https://open.spotify.com/artist/5nAsuOI0lqqbii7YFCh7cB"
         },
         {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+          "name": "Chili Fernandez",
+          "url": "https://open.spotify.com/artist/3YXV0Ed1NtUyaR9WJF2JID"
+        },
+        {
+          "name": "Candu Dom\u00cdnguez",
+          "url": "https://open.spotify.com/artist/5m9vITkrXG8sov2qittAfI"
+        },
+        {
+          "name": "ZHAE",
+          "url": "https://open.spotify.com/artist/0RLlNL6R3nAkU6IpGT0gn9"
         }
       ],
-      "duration_ms": 153665,
-      "name": "DJ ALEX, LA JOAQUI - TU AMOR | E7",
-      "url": "https://open.spotify.com/track/3N6rAKpPraBOZqn9RhSrz0"
+      "duration_ms": 156325,
+      "name": "Promet\u00ed",
+      "url": "https://open.spotify.com/track/5ZneIBS61svHm9FDhsPma3"
     },
     {
       "added_at": "2024-09-13 03:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-09-13 03:00:00",
       "album": {
-        "name": "En Una de Esas",
-        "url": "https://open.spotify.com/album/4yIesG8JV0ci23vBPnn5T5"
-      },
-      "artists": [
-        {
-          "name": "Uriel Lozano",
-          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
-        }
-      ],
-      "duration_ms": 197474,
-      "name": "En Una de Esas",
-      "url": "https://open.spotify.com/track/08Z31XojFdEwE8iVrFChfJ"
-    },
-    {
-      "added_at": "2024-09-13 03:00:00",
-      "album": {
         "name": "Angelito",
         "url": "https://open.spotify.com/album/3aks591GvDGxcQMjVxtCQa"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 171502,
       "name": "Angelito",
       "url": "https://open.spotify.com/track/71ObvTyyeJyN10r4JVc3ur"
+    },
+    {
+      "added_at": "2024-09-13 03:00:00",
+      "album": {
+        "name": "En Una de Esas",
+        "url": "https://open.spotify.com/album/4yIesG8JV0ci23vBPnn5T5"
+      },
+      "artists": [
+        {
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+        }
+      ],
+      "duration_ms": 197474,
+      "name": "En Una de Esas",
+      "url": "https://open.spotify.com/track/08Z31XojFdEwE8iVrFChfJ"
     },
     {
       "added_at": "2024-09-13 03:00:00",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2024-09-13 03:00:00",
       "album": {
+        "name": "Mensajeros del Amor",
+        "url": "https://open.spotify.com/album/2yD6FFYH2YGoaRCOcdfsR6"
+      },
+      "artists": [
+        {
+          "name": "Mensajeros del Amor",
+          "url": "https://open.spotify.com/artist/3IbAQiPGvV3aSwvYBMo3o3"
+        }
+      ],
+      "duration_ms": 192120,
+      "name": "El Soy Yo",
+      "url": "https://open.spotify.com/track/3GYyjWrmZF5GVKDs4iUkh0"
+    },
+    {
+      "added_at": "2024-09-13 03:00:00",
+      "album": {
         "name": "La Luna y T\u00fa",
         "url": "https://open.spotify.com/album/6tj3hUb520RFwQHHM5Osyk"
       },
@@ -1275,18 +1291,18 @@
     {
       "added_at": "2024-09-13 03:00:00",
       "album": {
-        "name": "Mensajeros del Amor",
-        "url": "https://open.spotify.com/album/2yD6FFYH2YGoaRCOcdfsR6"
+        "name": "Me Va Mejor Con el Alcohol",
+        "url": "https://open.spotify.com/album/3U74XHE1qbVBXMG5k8kNaB"
       },
       "artists": [
         {
-          "name": "Mensajeros del Amor",
-          "url": "https://open.spotify.com/artist/3IbAQiPGvV3aSwvYBMo3o3"
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK"
         }
       ],
-      "duration_ms": 192120,
-      "name": "El Soy Yo",
-      "url": "https://open.spotify.com/track/3GYyjWrmZF5GVKDs4iUkh0"
+      "duration_ms": 197775,
+      "name": "Me Va Mejor Con el Alcohol",
+      "url": "https://open.spotify.com/track/7oVzsPGAInbnmnATWtOm37"
     },
     {
       "added_at": "2024-09-13 03:00:00",
@@ -1343,22 +1359,6 @@
     {
       "added_at": "2024-09-13 03:00:00",
       "album": {
-        "name": "Me Va Mejor Con el Alcohol",
-        "url": "https://open.spotify.com/album/3U74XHE1qbVBXMG5k8kNaB"
-      },
-      "artists": [
-        {
-          "name": "Omega",
-          "url": "https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK"
-        }
-      ],
-      "duration_ms": 197775,
-      "name": "Me Va Mejor Con el Alcohol",
-      "url": "https://open.spotify.com/track/7oVzsPGAInbnmnATWtOm37"
-    },
-    {
-      "added_at": "2024-09-13 03:00:00",
-      "album": {
         "name": "Maravillosa Esta Noche",
         "url": "https://open.spotify.com/album/5fgZ0novezag3oHcyGWVQb"
       },
@@ -1371,6 +1371,30 @@
       "duration_ms": 242400,
       "name": "Maravillosa Esta Noche",
       "url": "https://open.spotify.com/track/1gonyTKH24V4eDFEbnvewJ"
+    },
+    {
+      "added_at": "2024-09-13 03:00:00",
+      "album": {
+        "name": "El \u00daltimo Rom\u00e1ntico",
+        "url": "https://open.spotify.com/album/5XivpS4x7wPLUBxdHQRQnT"
+      },
+      "artists": [
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "NEGRO DUB",
+          "url": "https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA"
+        },
+        {
+          "name": "DT.Bilardo",
+          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
+        }
+      ],
+      "duration_ms": 251724,
+      "name": "El \u00daltimo Rom\u00e1ntico",
+      "url": "https://open.spotify.com/track/7aPSMl8bmlHtbi9ZBYbPmq"
     },
     {
       "added_at": "2024-09-13 03:00:00",
@@ -1419,30 +1443,6 @@
       "duration_ms": 164022,
       "name": "Yo Te Esperare",
       "url": "https://open.spotify.com/track/6WUr8ftmKH0HPAzwsehGXQ"
-    },
-    {
-      "added_at": "2024-09-13 03:00:00",
-      "album": {
-        "name": "El \u00daltimo Rom\u00e1ntico",
-        "url": "https://open.spotify.com/album/5XivpS4x7wPLUBxdHQRQnT"
-      },
-      "artists": [
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        },
-        {
-          "name": "NEGRO DUB",
-          "url": "https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA"
-        },
-        {
-          "name": "DT.Bilardo",
-          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
-        }
-      ],
-      "duration_ms": 251724,
-      "name": "El \u00daltimo Rom\u00e1ntico",
-      "url": "https://open.spotify.com/track/7aPSMl8bmlHtbi9ZBYbPmq"
     },
     {
       "added_at": "2024-09-13 03:00:00",
@@ -1623,26 +1623,6 @@
     {
       "added_at": "2024-09-13 03:00:00",
       "album": {
-        "name": "\u00c1ngel de Amor",
-        "url": "https://open.spotify.com/album/0g4FobPrEueLnugnpSy03q"
-      },
-      "artists": [
-        {
-          "name": "Rafaga",
-          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
-        },
-        {
-          "name": "La Delio Valdez",
-          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
-        }
-      ],
-      "duration_ms": 157666,
-      "name": "\u00c1ngel de Amor",
-      "url": "https://open.spotify.com/track/17Z5fFzgyie0uGJd7DNaT5"
-    },
-    {
-      "added_at": "2024-09-13 03:00:00",
-      "album": {
         "name": "Vete",
         "url": "https://open.spotify.com/album/2ULTMUo5UesStNSxif1lgR"
       },
@@ -1679,22 +1659,22 @@
     {
       "added_at": "2024-09-13 03:00:00",
       "album": {
-        "name": "Si Te Agarran Las Ganas",
-        "url": "https://open.spotify.com/album/4bFq2T17EJHeimDtyWQDTz"
+        "name": "\u00c1ngel de Amor",
+        "url": "https://open.spotify.com/album/0g4FobPrEueLnugnpSy03q"
       },
       "artists": [
         {
-          "name": "El Gordo Luis",
-          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
         },
         {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
         }
       ],
-      "duration_ms": 239418,
-      "name": "Si Te Agarran Las Ganas",
-      "url": "https://open.spotify.com/track/3RONkAIswfbMyJ3UCXXBei"
+      "duration_ms": 157666,
+      "name": "\u00c1ngel de Amor",
+      "url": "https://open.spotify.com/track/17Z5fFzgyie0uGJd7DNaT5"
     },
     {
       "added_at": "2024-09-13 03:00:00",
@@ -1715,6 +1695,26 @@
     {
       "added_at": "2024-09-13 03:00:00",
       "album": {
+        "name": "Si Te Agarran Las Ganas",
+        "url": "https://open.spotify.com/album/4bFq2T17EJHeimDtyWQDTz"
+      },
+      "artists": [
+        {
+          "name": "El Gordo Luis",
+          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
+        },
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "duration_ms": 239418,
+      "name": "Si Te Agarran Las Ganas",
+      "url": "https://open.spotify.com/track/3RONkAIswfbMyJ3UCXXBei"
+    },
+    {
+      "added_at": "2024-09-13 03:00:00",
+      "album": {
         "name": "Grupo Play - Ahora juega en primera",
         "url": "https://open.spotify.com/album/3Cb31lj9pek33puxonY1qM"
       },
@@ -1727,26 +1727,6 @@
       "duration_ms": 209066,
       "name": "Lloraras mas de diez veces",
       "url": "https://open.spotify.com/track/3Rw4RpKirEtupNJfQSPOjI"
-    },
-    {
-      "added_at": "2024-09-13 03:00:00",
-      "album": {
-        "name": "Noche de Estrellas",
-        "url": "https://open.spotify.com/album/2sX6XP7Vsbn9vzuyoI1G6r"
-      },
-      "artists": [
-        {
-          "name": "Rafaga",
-          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
-        },
-        {
-          "name": "j mena",
-          "url": "https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj"
-        }
-      ],
-      "duration_ms": 188368,
-      "name": "Noche de Estrellas",
-      "url": "https://open.spotify.com/track/4lPWL2JWTz4aKVwAG2C8jT"
     },
     {
       "added_at": "2024-09-13 03:00:00",
@@ -1835,6 +1815,26 @@
       "duration_ms": 192750,
       "name": "De Quien Es La Culpa",
       "url": "https://open.spotify.com/track/7c8SEakrcn7PLDcZX0bKJo"
+    },
+    {
+      "added_at": "2024-09-13 03:00:00",
+      "album": {
+        "name": "Conmigo Te Gust\u00f3",
+        "url": "https://open.spotify.com/album/7GjmuXtSwXPTX2VR1TQYER"
+      },
+      "artists": [
+        {
+          "name": "Nico Mattioli",
+          "url": "https://open.spotify.com/artist/6WVAHhEnELJ0NI11yZu9j1"
+        },
+        {
+          "name": "La Repandilla",
+          "url": "https://open.spotify.com/artist/4TeM4orWQq9H1Wj2intCub"
+        }
+      ],
+      "duration_ms": 233002,
+      "name": "Conmigo Te Gust\u00f3",
+      "url": "https://open.spotify.com/track/5HlgCSzypWjzrQwfmEJNwW"
     }
   ],
   "unique_name": "Cumbia y Romance",

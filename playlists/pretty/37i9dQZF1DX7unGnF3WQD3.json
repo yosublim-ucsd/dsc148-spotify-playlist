@@ -1,6 +1,6 @@
 {
   "description": "t\u00edrate un paso y saca los prohibidos",
-  "num_followers": 81635,
+  "num_followers": 81669,
   "original_name": "los prohibidos",
   "owner": {
     "name": "Spotify",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-07-11 01:44:43",
       "album": {
-        "name": "CUMBIA 85",
-        "url": "https://open.spotify.com/album/1HumThM5yaQwYcEoFa0yD8"
-      },
-      "artists": [
-        {
-          "name": "Yahir Saldivar",
-          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
-        }
-      ],
-      "duration_ms": 221330,
-      "name": "CUMBIA 85",
-      "url": "https://open.spotify.com/track/2gJ4wHjnUZFGf9GXAU83gv"
-    },
-    {
-      "added_at": "2024-07-11 01:44:43",
-      "album": {
         "name": "Lleg\u00f3 Pap\u00e1",
         "url": "https://open.spotify.com/album/392HEBX1hSP3IyUfuixNUv"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 198635,
       "name": "La Mujer del Pelotero",
       "url": "https://open.spotify.com/track/3dljpxvacIs8jux3Dd1nRw"
+    },
+    {
+      "added_at": "2024-07-11 01:44:43",
+      "album": {
+        "name": "CUMBIA 85",
+        "url": "https://open.spotify.com/album/1HumThM5yaQwYcEoFa0yD8"
+      },
+      "artists": [
+        {
+          "name": "Yahir Saldivar",
+          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
+        }
+      ],
+      "duration_ms": 221330,
+      "name": "CUMBIA 85",
+      "url": "https://open.spotify.com/track/2gJ4wHjnUZFGf9GXAU83gv"
     },
     {
       "added_at": "2024-07-11 01:44:43",
@@ -1195,6 +1195,26 @@
     {
       "added_at": "2024-07-11 01:44:43",
       "album": {
+        "name": "Traidora",
+        "url": "https://open.spotify.com/album/3cIZmX40NwdOB8snHeuKIi"
+      },
+      "artists": [
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        },
+        {
+          "name": "DJ Alex",
+          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Traidora",
+      "url": "https://open.spotify.com/track/3o6dbeyOY537ZCo6mQfyzp"
+    },
+    {
+      "added_at": "2024-07-11 01:44:43",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/2se2DHy9J2L20JV02zwQHx"
       },
@@ -1207,26 +1227,6 @@
       "duration_ms": 206493,
       "name": "El Cepillo",
       "url": "https://open.spotify.com/track/2EWZswsvSERfAWzXPE2trG"
-    },
-    {
-      "added_at": "2024-07-11 01:44:43",
-      "album": {
-        "name": "SIN TI",
-        "url": "https://open.spotify.com/album/5fWYCPqDrOopoTPAPbyzDK"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 182769,
-      "name": "SIN TI",
-      "url": "https://open.spotify.com/track/5AcyixjIMjWfLUphthR46B"
     },
     {
       "added_at": "2024-07-11 01:44:43",
@@ -1255,22 +1255,22 @@
     {
       "added_at": "2024-07-11 01:44:43",
       "album": {
-        "name": "Traidora",
-        "url": "https://open.spotify.com/album/3cIZmX40NwdOB8snHeuKIi"
+        "name": "SIN TI",
+        "url": "https://open.spotify.com/album/5fWYCPqDrOopoTPAPbyzDK"
       },
       "artists": [
         {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
         },
         {
-          "name": "DJ Alex",
-          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 136000,
-      "name": "Traidora",
-      "url": "https://open.spotify.com/track/3o6dbeyOY537ZCo6mQfyzp"
+      "duration_ms": 182769,
+      "name": "SIN TI",
+      "url": "https://open.spotify.com/track/5AcyixjIMjWfLUphthR46B"
     },
     {
       "added_at": "2024-07-11 01:44:43",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-07-11 01:44:43",
       "album": {
-        "name": "Cuando Nadie Ve",
-        "url": "https://open.spotify.com/album/1wxJ9ISQB4tUBWulQzZsTV"
-      },
-      "artists": [
-        {
-          "name": "Impostores De Nuevo Leon",
-          "url": "https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI"
-        }
-      ],
-      "duration_ms": 232533,
-      "name": "Cuando Nadie Ve",
-      "url": "https://open.spotify.com/track/52ZdW6oH0pi1oJq39SeH1z"
-    },
-    {
-      "added_at": "2024-07-11 01:44:43",
-      "album": {
         "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 2",
         "url": "https://open.spotify.com/album/60LUbwOhyXfoMZDOV1fXQv"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 235240,
       "name": "Cari\u00f1ito Sin MI",
       "url": "https://open.spotify.com/track/7zSluZ0cnnNomeIGYSThMm"
+    },
+    {
+      "added_at": "2024-07-11 01:44:43",
+      "album": {
+        "name": "Cuando Nadie Ve",
+        "url": "https://open.spotify.com/album/1wxJ9ISQB4tUBWulQzZsTV"
+      },
+      "artists": [
+        {
+          "name": "Impostores De Nuevo Leon",
+          "url": "https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI"
+        }
+      ],
+      "duration_ms": 232533,
+      "name": "Cuando Nadie Ve",
+      "url": "https://open.spotify.com/track/52ZdW6oH0pi1oJq39SeH1z"
     },
     {
       "added_at": "2024-07-11 01:44:43",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-07-11 01:44:43",
       "album": {
-        "name": "Ale Ale",
-        "url": "https://open.spotify.com/album/533koxEqsjn5Pve9OgE5JB"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 229190,
-      "name": "Ale Ale",
-      "url": "https://open.spotify.com/track/2cSqX6LYlP2hqVxr6fhC0j"
-    },
-    {
-      "added_at": "2024-07-11 01:44:43",
-      "album": {
         "name": "Due\u00f1o de tu amor",
         "url": "https://open.spotify.com/album/0kQb2pG5TJxQNecwJMzArN"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 253426,
       "name": "Romeo y Julieta",
       "url": "https://open.spotify.com/track/1PD6BmSC7JULxOlJWAI2jJ"
+    },
+    {
+      "added_at": "2024-07-11 01:44:43",
+      "album": {
+        "name": "Ale Ale",
+        "url": "https://open.spotify.com/album/533koxEqsjn5Pve9OgE5JB"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 229190,
+      "name": "Ale Ale",
+      "url": "https://open.spotify.com/track/2cSqX6LYlP2hqVxr6fhC0j"
     },
     {
       "added_at": "2024-07-11 01:44:43",

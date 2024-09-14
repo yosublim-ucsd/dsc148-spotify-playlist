@@ -703,6 +703,24 @@
     },
     {
       "album": {
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/5VJXm5gzAYC6ngBBHo9uhS"
+      },
+      "artists": [
+        {
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213258,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/7cSgw8IYwl1ICzc92ROGVB"
+    },
+    {
+      "album": {
         "name": "Give You Love (feat. Jason Derulo)",
         "url": "https://open.spotify.com/album/19F2dOW0JWTAuK941khqsA"
       },
@@ -826,7 +844,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 223120,
       "name": "I Wish I Never Loved You",
       "url": "https://open.spotify.com/track/349kMKxDtv5bkXPoWQTi4S"

@@ -775,6 +775,24 @@
     },
     {
       "album": {
+        "name": "Dirt",
+        "url": "https://open.spotify.com/album/0LhsVBwS1rBISECjWJwAzv"
+      },
+      "artists": [
+        {
+          "name": "Rodney Clawson",
+          "url": "https://open.spotify.com/artist/7etwQwzmdaax62i3ol2NXC"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215306,
+      "name": "Dirt",
+      "url": "https://open.spotify.com/track/1sr81nHFuOxCR5yM3P7GZ8"
+    },
+    {
+      "album": {
         "name": "2017 Nominees - Original Songwriter Demos",
         "url": "https://open.spotify.com/album/00M4zevPXWPAejRamqLJwp"
       },

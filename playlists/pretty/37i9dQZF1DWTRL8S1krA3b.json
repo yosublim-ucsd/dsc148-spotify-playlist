@@ -1,15 +1,31 @@
 {
   "description": "This year's new country holiday songs! Cover: Maddie & Tae",
-  "num_followers": 1967,
+  "num_followers": 1975,
   "original_name": "New Country Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zt9GxgAAAAAmcMQOBh/zLub0FwgdFovC",
+  "snapshot_id": "ZuO4wAAAAABy1QayyewM7UTEI2A3PE3B",
   "tracks": [
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Christmas Night With You",
+        "url": "https://open.spotify.com/album/3uFKb73VCTT04JWDQYyHB5"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "duration_ms": 219120,
+      "name": "Christmas Night With You",
+      "url": "https://open.spotify.com/track/6lx1UIYeVhlLr40MA5Yjgl"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "We Need Christmas (Extended Version)",
         "url": "https://open.spotify.com/album/4BG1fw7D43HDyTfvabUGGO"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/4Fugom3x51geY8YPvjjund"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Merry Christmas From Jon Pardi",
         "url": "https://open.spotify.com/album/0rntkIqjxA3mqdfkvB6O8C"
@@ -41,7 +57,23 @@
       "url": "https://open.spotify.com/track/2ZQlt4cuWOY6xrNtkP4OsS"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "When I Think Of Christmas",
+        "url": "https://open.spotify.com/album/52MmmN7xVswjL4XVBixhzK"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 205560,
+      "name": "When I Think Of Christmas",
+      "url": "https://open.spotify.com/track/6o2GLLmYIkzbtqxotheeKe"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Blue Christmas",
         "url": "https://open.spotify.com/album/1wQDiRoDF4Y0SGLHG8BdVi"
@@ -61,7 +93,7 @@
       "url": "https://open.spotify.com/track/7bPW9SCgNTkATn4bogwQyW"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Fancy Like Christmas",
         "url": "https://open.spotify.com/album/15ArXIAaelY4fohwqQdzmT"
@@ -77,7 +109,7 @@
       "url": "https://open.spotify.com/track/0kO59Q18sOo4HmZWQSUVyr"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Snow Day",
         "url": "https://open.spotify.com/album/5NGeFxVVtV6OG2NmMBdiGH"
@@ -93,7 +125,7 @@
       "url": "https://open.spotify.com/track/24u4rA8edrSR9atuzyh91Q"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Mistletoe",
         "url": "https://open.spotify.com/album/5yKrfiqUnysdF0pEJYbZ8V"
@@ -109,7 +141,7 @@
       "url": "https://open.spotify.com/track/5ovR9RmMqYzWrzVYKwRttk"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "christmas comes in waves",
         "url": "https://open.spotify.com/album/6lIIrC3M60Oi45B7D0QAyQ"
@@ -125,7 +157,7 @@
       "url": "https://open.spotify.com/track/0wYQEHRa98AdPdmOofZXbS"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "The Christmas Song",
         "url": "https://open.spotify.com/album/5Q7HgVnYrR2sW5airrAeKL"
@@ -141,7 +173,7 @@
       "url": "https://open.spotify.com/track/0oXcucBOAdY367JhsKQMSN"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Cross-Legged By The Fireplace",
         "url": "https://open.spotify.com/album/1y666doEpQiMtIYBo8Tzgi"
@@ -157,7 +189,7 @@
       "url": "https://open.spotify.com/track/07Zk7BhwZjJQDemcWymMzF"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Silent Night",
         "url": "https://open.spotify.com/album/46npk1bfWrEKmFwfT70MNH"
@@ -173,7 +205,7 @@
       "url": "https://open.spotify.com/track/1DVfxetVUcA947GnHvamSX"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Koe Wetzel Presents...Wetzel's Wonderland",
         "url": "https://open.spotify.com/album/6Eaa6S7K1DUq4dRa0fvNga"
@@ -189,7 +221,7 @@
       "url": "https://open.spotify.com/track/6aE8AlwAqqvnhlthMLrSj3"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Hallelujah",
         "url": "https://open.spotify.com/album/2bIViPfmWVNHZMFvtwrhwj"
@@ -205,7 +237,7 @@
       "url": "https://open.spotify.com/track/3werrgm6Ubsn9E002AvrPk"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "A Classic Christmas",
         "url": "https://open.spotify.com/album/5zPiyi6NAqHkuETPjhBHW1"
@@ -221,7 +253,7 @@
       "url": "https://open.spotify.com/track/1C85AHCMc9BjX5SWeUEsHo"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Decker The Halls",
         "url": "https://open.spotify.com/album/7nKkIzrIeKcUjHCM27w4Ep"
@@ -237,7 +269,7 @@
       "url": "https://open.spotify.com/track/5VBDZziVRcONqiSxuBYr4I"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "A Small Town Christmas - Deluxe Edition",
         "url": "https://open.spotify.com/album/2DTduc4psz9mRSfn3ABE3A"
@@ -253,7 +285,7 @@
       "url": "https://open.spotify.com/track/1m0Vg0HfkCziCkerLLy9BF"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Frosty The Snowman",
         "url": "https://open.spotify.com/album/7h7IPWqDrGBYGWz4QshfQ7"
@@ -269,7 +301,7 @@
       "url": "https://open.spotify.com/track/57VOGNqMY7WENGvVlEdJg2"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Joy To The World",
         "url": "https://open.spotify.com/album/4KPj94cA1iorxv8Ki9rBrv"
@@ -285,7 +317,7 @@
       "url": "https://open.spotify.com/track/4pCfx1Mghl9ccOTK40wRBP"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "O Come All Ye Faithful",
         "url": "https://open.spotify.com/album/77RAitt8pGClwqj64jOGEB"
@@ -301,7 +333,7 @@
       "url": "https://open.spotify.com/track/7vAtxxIskJvuEjEzzZ5hco"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Beautiful Star of Bethlehem",
         "url": "https://open.spotify.com/album/64TNhQ20gsVJBPaoZatLmx"
@@ -317,7 +349,7 @@
       "url": "https://open.spotify.com/track/7FFXfYeF3H1IsSUbwyk3kC"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Hard Candy Christmas",
         "url": "https://open.spotify.com/album/5mpRAA2ljY76uCnCu1cJRK"
@@ -337,7 +369,7 @@
       "url": "https://open.spotify.com/track/5j0cJnxgBeHAPw02it3R64"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Santa Baby",
         "url": "https://open.spotify.com/album/7mPPqR668zKXJrUEJZXq2D"
@@ -357,7 +389,7 @@
       "url": "https://open.spotify.com/track/7BmZWTkg0vYa45mthCYSra"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "I Hate The Holidays",
         "url": "https://open.spotify.com/album/2giouTHLLZuLiPrC4TVDRY"
@@ -373,7 +405,7 @@
       "url": "https://open.spotify.com/track/7qpeNNnmo5oUvW0XGVIYR6"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Classic Country Christmas",
         "url": "https://open.spotify.com/album/2oeipRRBTmA3FZBbwqLDu7"
@@ -389,7 +421,7 @@
       "url": "https://open.spotify.com/track/1basKOs1JqdhGItHhU3IHM"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "It Ain't Christmas",
         "url": "https://open.spotify.com/album/1r3dY7ccpCBc7GGobwmxv8"
@@ -405,7 +437,7 @@
       "url": "https://open.spotify.com/track/0JEGg96XY7WLsBqNuYhZMx"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Christmas In The Backyard",
         "url": "https://open.spotify.com/album/29beFzNrz6x5wI3vAqJytO"
@@ -421,7 +453,7 @@
       "url": "https://open.spotify.com/track/4tb8C9aWere1hZXiC5CQcR"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "This Christmas",
         "url": "https://open.spotify.com/album/7jzBGv3btGTgNchJTKxqOr"
@@ -441,7 +473,7 @@
       "url": "https://open.spotify.com/track/0Ox1ClOgdqxnWg76T5KjqQ"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Last Christmas",
         "url": "https://open.spotify.com/album/5fsJixTot0tjHv4XbC9Amn"
@@ -457,7 +489,7 @@
       "url": "https://open.spotify.com/track/7q8Fv75FWwsbx1XXAiEHQN"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "For You For Christmas",
         "url": "https://open.spotify.com/album/6DTy9NvZKKEFhixx3Qra3s"
@@ -473,7 +505,7 @@
       "url": "https://open.spotify.com/track/5LptAkbI6Snv1yRxaZn49r"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Once A Year",
         "url": "https://open.spotify.com/album/73xMNATNLhKm7R2HfzgVZc"
@@ -489,7 +521,7 @@
       "url": "https://open.spotify.com/track/0ZdlHTzPhkKGvIvd7dIMeo"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "A Very Merry Christmas from Logan Mize",
         "url": "https://open.spotify.com/album/4yuDOJVSpAa5KBdFhnq4Tf"
@@ -505,7 +537,7 @@
       "url": "https://open.spotify.com/track/5LZbxT8fqSY2MSGsTTwpq2"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Silent Night",
         "url": "https://open.spotify.com/album/1YqW5qzk2H3Ofm6T4JLou6"
@@ -521,7 +553,7 @@
       "url": "https://open.spotify.com/track/3UVqDV4i2209OOZ6zZ9LaN"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Have Yourself a Merry Little Christmas",
         "url": "https://open.spotify.com/album/7djQadfzYqqFoggnnJiheR"
@@ -537,7 +569,7 @@
       "url": "https://open.spotify.com/track/77aDdG4vLSFn4sEM3burtJ"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Santa Claus Baby",
         "url": "https://open.spotify.com/album/5omeVFQaBfPCzVet2Brg5u"
@@ -553,7 +585,7 @@
       "url": "https://open.spotify.com/track/6ObxEgUlJfq4kt0Sr8E3aU"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Run Outta Mistletoe",
         "url": "https://open.spotify.com/album/5wIDdUcs5RFHu33dc9CnZy"
@@ -569,7 +601,7 @@
       "url": "https://open.spotify.com/track/3RG2ckEP3Mb2pKuDsuR2YP"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Season's Greetings From Alex Hall",
         "url": "https://open.spotify.com/album/1Gdwv5PQF6kcgkjuIn3YKr"
@@ -585,7 +617,7 @@
       "url": "https://open.spotify.com/track/6OVrVGKb1Npjj4StFHiXwJ"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Run Run Rudolph (Mason\u2019s Version)",
         "url": "https://open.spotify.com/album/6WfS0QdvRckuv4bUPRulk1"
@@ -601,7 +633,7 @@
       "url": "https://open.spotify.com/track/1DigwEbyShfSMe8VU4vQK6"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "A Redhill Valley Christmas",
         "url": "https://open.spotify.com/album/4kVGfnzFaPHeAg9dX4HloA"
@@ -617,7 +649,7 @@
       "url": "https://open.spotify.com/track/3jamEnkqZJsEVOvfSNXMHw"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Christmas When You Call",
         "url": "https://open.spotify.com/album/1EpcSjZWYc3rNxSK4j3xDI"
@@ -633,7 +665,7 @@
       "url": "https://open.spotify.com/track/2qgMuttdSb2iaYYO73xmQt"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Hot Pink Christmas",
         "url": "https://open.spotify.com/album/2LIjyzfiw867GA7EJ477ZT"
@@ -649,7 +681,7 @@
       "url": "https://open.spotify.com/track/1RQWYbbVJCsQErc09l3VVQ"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "O Holy Night",
         "url": "https://open.spotify.com/album/085lMH6I79hVVbyATMspdf"
@@ -669,7 +701,7 @@
       "url": "https://open.spotify.com/track/14K3UQ2IR4UfmAxjadEOB6"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Blue Christmas",
         "url": "https://open.spotify.com/album/0FfnwndZx81v9DSvswzqog"
@@ -685,7 +717,7 @@
       "url": "https://open.spotify.com/track/4cpfEGfJnZTtoUr23lRFGK"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Santa Baby",
         "url": "https://open.spotify.com/album/4iQUCVTTNj7oBflckNBBq3"
@@ -701,7 +733,7 @@
       "url": "https://open.spotify.com/track/5ajQCyeRSRwqxByzJDsQg0"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Lit",
         "url": "https://open.spotify.com/album/3zjZ9kKvJY5mQrJg5INSHS"
@@ -717,7 +749,7 @@
       "url": "https://open.spotify.com/track/6dsMUDMX2naw6KxiOIASHa"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Feel Like The Holidays",
         "url": "https://open.spotify.com/album/7AejMmlcdb38MsFwIUvUTA"
@@ -733,7 +765,7 @@
       "url": "https://open.spotify.com/track/3u2KK5pGmHFfezykPinVOw"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "We Need Christmas (Extended Version)",
         "url": "https://open.spotify.com/album/4BG1fw7D43HDyTfvabUGGO"
@@ -749,7 +781,7 @@
       "url": "https://open.spotify.com/track/1WFjVtWkQhMnaaKgg3sDb3"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Merry Christmas From Jon Pardi",
         "url": "https://open.spotify.com/album/0rntkIqjxA3mqdfkvB6O8C"
@@ -765,7 +797,7 @@
       "url": "https://open.spotify.com/track/1KGp2BlcVSKohhH5u7ZIXu"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "A Horse Named Christmas",
         "url": "https://open.spotify.com/album/78Wq9rLNmmYOToHdYGQwkw"
@@ -785,7 +817,7 @@
       "url": "https://open.spotify.com/track/3JnduhM1P90BlPx6AaVmwJ"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Run Rudolph Run",
         "url": "https://open.spotify.com/album/6e03xVNZm7zk2wMIy6SiKT"
@@ -801,7 +833,7 @@
       "url": "https://open.spotify.com/track/4Gz6VMA8BL6Sg61hXBG5RX"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "My Favorite Christmas / I'll Be Home For Christmas",
         "url": "https://open.spotify.com/album/33xlOJnpWnSJZpEhPs1Rav"
@@ -817,7 +849,7 @@
       "url": "https://open.spotify.com/track/0R6zcgvV4ysqWeE1dmL5N8"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Driving Home for Christmas",
         "url": "https://open.spotify.com/album/7vfOyIYeaPZaUjFGmcYkQK"
@@ -833,7 +865,7 @@
       "url": "https://open.spotify.com/track/5f4hPtbh7uPBRCW51xNMvM"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Love Under The Christmas Tree",
         "url": "https://open.spotify.com/album/5TNnXsMBgzXAXOwxV9heKR"
@@ -853,7 +885,7 @@
       "url": "https://open.spotify.com/track/7Ikcki7sbE9tfAFTInueZ7"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Falalala Falling",
         "url": "https://open.spotify.com/album/04nBlv8vuV6Tw4CtRgUwGq"
@@ -869,7 +901,7 @@
       "url": "https://open.spotify.com/track/5BYV9T7qbq3fHoevvNqSZO"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "I'll Be Home for Christmas",
         "url": "https://open.spotify.com/album/6hhqqTgsqc7gBcRDnGWK9a"
@@ -885,7 +917,7 @@
       "url": "https://open.spotify.com/track/0uRNguwONoOyXNVxiClRb8"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Mary Did You Know",
         "url": "https://open.spotify.com/album/0VELGihA2e22w7jFeAHCCU"
@@ -901,7 +933,7 @@
       "url": "https://open.spotify.com/track/1bf7ob93MJ60M2ulx10Un3"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Hurry Up Christmas",
         "url": "https://open.spotify.com/album/6f0xVeaoyY2X0mbjhJ60Ej"
@@ -917,7 +949,7 @@
       "url": "https://open.spotify.com/track/4bEAALwyWpypPXSG85C9I7"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "O Christmas Tree",
         "url": "https://open.spotify.com/album/2G29sODSfS34dFxpBSGrdu"
@@ -933,7 +965,7 @@
       "url": "https://open.spotify.com/track/18k5cXsmyfv8zQjY7KManB"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "White Christmas",
         "url": "https://open.spotify.com/album/0jrdzb3xkwPWIMkoFtphdU"
@@ -949,7 +981,7 @@
       "url": "https://open.spotify.com/track/0qiauIcwYRaVSmerf90xAP"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "ALL I WANT FOR CHRISTMAS IS YOU (feat. Anna Moon)",
         "url": "https://open.spotify.com/album/6ArfVumRHgUfcs9QafIkv9"
@@ -969,7 +1001,7 @@
       "url": "https://open.spotify.com/track/7rPinTAHul6UER4cNmyHY9"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Silent Night",
         "url": "https://open.spotify.com/album/6bgc3aIqtm7PbQEMszojfT"
@@ -985,7 +1017,7 @@
       "url": "https://open.spotify.com/track/2VvMbnOHd3bpnwdB9uWOfH"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Christmas Isn't Christmas",
         "url": "https://open.spotify.com/album/0AGOmWdA3YPhNrKy4GUP3h"
@@ -1005,7 +1037,7 @@
       "url": "https://open.spotify.com/track/0pRknaXkPSLsmmkXZz8G0P"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Love Under The Christmas Tree",
         "url": "https://open.spotify.com/album/5TNnXsMBgzXAXOwxV9heKR"
@@ -1025,7 +1057,7 @@
       "url": "https://open.spotify.com/track/48xYHTEI8fQdiTxOTNn0lR"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Winter Wonderland",
         "url": "https://open.spotify.com/album/0d4vRHbODXRxNJX35SZZgg"
@@ -1041,7 +1073,7 @@
       "url": "https://open.spotify.com/track/1HuTA2331NR1rFmL8BHYcs"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Counting Down Christmas",
         "url": "https://open.spotify.com/album/473lbNRulOv0esYMKBkp4z"
@@ -1057,7 +1089,7 @@
       "url": "https://open.spotify.com/track/1UfxYzE8v24SXw4uo96gz3"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Silverado Santa",
         "url": "https://open.spotify.com/album/2EfhiBTVKligRG4ZxlyMe8"
@@ -1073,7 +1105,7 @@
       "url": "https://open.spotify.com/track/5QTiDBP5AoZRZFz2vhujXY"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Country Little Christmas",
         "url": "https://open.spotify.com/album/5Gwc85Lc5KIlhkbuxhKweV"
@@ -1089,7 +1121,7 @@
       "url": "https://open.spotify.com/track/4LjWIcO3q8doUD1E6YwKGw"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Celebrate Me Home",
         "url": "https://open.spotify.com/album/5doSwgjks8R6LIucsbuPNe"
@@ -1105,7 +1137,7 @@
       "url": "https://open.spotify.com/track/5O2jmlWdeLEN7n3LrP7MFB"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "All I Want for Christmas Is You",
         "url": "https://open.spotify.com/album/7itCtZEW4ZIPgFGIGQ0Doo"
@@ -1121,7 +1153,7 @@
       "url": "https://open.spotify.com/track/5doDIuDiarczhIkbudNuUC"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Holiday Road",
         "url": "https://open.spotify.com/album/7CHqXHrygge73VcQKj6Vva"
@@ -1137,7 +1169,7 @@
       "url": "https://open.spotify.com/track/6iv3rsnlG2NKFuIh5t3uT1"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Cross-Legged By The Fireplace",
         "url": "https://open.spotify.com/album/1y666doEpQiMtIYBo8Tzgi"
@@ -1157,7 +1189,7 @@
       "url": "https://open.spotify.com/track/4WGnSdV3IUnIG2p4Pgn23F"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Cowboy for Christmas",
         "url": "https://open.spotify.com/album/2cmvIgfEvJm1GuLaCkSjYG"
@@ -1173,7 +1205,7 @@
       "url": "https://open.spotify.com/track/5uX6YefmX5Cqg11BjUxYZE"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "For You For Christmas",
         "url": "https://open.spotify.com/album/6DTy9NvZKKEFhixx3Qra3s"
@@ -1189,7 +1221,7 @@
       "url": "https://open.spotify.com/track/29ndsk3u476Z2EsLzcvlF6"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Have Yourself A Merry Little Christmas",
         "url": "https://open.spotify.com/album/6aZuXbMJjFf8zcbA27h3HD"
@@ -1205,7 +1237,7 @@
       "url": "https://open.spotify.com/track/2yl1PQ1M2lEzISV7xemFee"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Blue Christmas",
         "url": "https://open.spotify.com/album/4dnJZEUrAovhbUK1xzGEk2"
@@ -1221,7 +1253,7 @@
       "url": "https://open.spotify.com/track/2WMcDvJi0430qJkerFGLem"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Santa Baby",
         "url": "https://open.spotify.com/album/1skf19zqxEck9HzJfei6TW"
@@ -1237,7 +1269,7 @@
       "url": "https://open.spotify.com/track/3LfPVi8JOZw7YNh42fJVxq"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "O Holy Night",
         "url": "https://open.spotify.com/album/3KLLCWa0AzGm2YwIaJJz1R"
@@ -1253,7 +1285,7 @@
       "url": "https://open.spotify.com/track/3132nlQjmjbqTfngpTP9jw"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Bloody Mary Christmas",
         "url": "https://open.spotify.com/album/5LDAMafiQOMcvNoHU0HoNI"
@@ -1269,7 +1301,7 @@
       "url": "https://open.spotify.com/track/5UyZESGfL3aX9CGhRlfWs7"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Snow Day",
         "url": "https://open.spotify.com/album/5NGeFxVVtV6OG2NmMBdiGH"
@@ -1285,7 +1317,7 @@
       "url": "https://open.spotify.com/track/0L3gQfMRW4TzEQzfln36bi"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Koe Wetzel Presents...Wetzel's Wonderland",
         "url": "https://open.spotify.com/album/6Eaa6S7K1DUq4dRa0fvNga"
@@ -1301,7 +1333,7 @@
       "url": "https://open.spotify.com/track/79eHg0b59xtbKPd7Ra7KxX"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "We Need Christmas (Extended Version)",
         "url": "https://open.spotify.com/album/4BG1fw7D43HDyTfvabUGGO"
@@ -1317,7 +1349,7 @@
       "url": "https://open.spotify.com/track/2F74xhEmEJ8fEXdpVlZQph"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Freeze",
         "url": "https://open.spotify.com/album/62bU5WAX5UCkcuTpwVfy2n"
@@ -1333,7 +1365,7 @@
       "url": "https://open.spotify.com/track/6taY9OMJFOyZb4l3QeWCnn"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Decker The Halls",
         "url": "https://open.spotify.com/album/7nKkIzrIeKcUjHCM27w4Ep"
@@ -1361,7 +1393,7 @@
       "url": "https://open.spotify.com/track/3hz0J4UVZIqz6P06UE6LRu"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Lit",
         "url": "https://open.spotify.com/album/3zjZ9kKvJY5mQrJg5INSHS"
@@ -1377,7 +1409,7 @@
       "url": "https://open.spotify.com/track/4MaDMS6c4NIOznjrSyDZXV"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Silverado Santa",
         "url": "https://open.spotify.com/album/54kXDXgK0dhdxRa8MHHDzp"
@@ -1393,7 +1425,7 @@
       "url": "https://open.spotify.com/track/3kpk1EOVsnZIID0Bfgf1Za"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Christmas Again",
         "url": "https://open.spotify.com/album/4monFcb3YhZVNXWbbWG2H7"
@@ -1409,7 +1441,7 @@
       "url": "https://open.spotify.com/track/6Xu0UNGLMDGL1gyQmwavla"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Christmas Just Us Two",
         "url": "https://open.spotify.com/album/32RZKD131KvRFVbT48URUx"
@@ -1429,7 +1461,7 @@
       "url": "https://open.spotify.com/track/4w9aTg5zBHjUk6BjARqBOZ"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Christmas Trees Like That",
         "url": "https://open.spotify.com/album/7cyfRGYWyJFBGdfgTyWNiV"
@@ -1445,7 +1477,7 @@
       "url": "https://open.spotify.com/track/5qDZFwamBt8Mj6J9aK2wwe"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "My Favorite Christmas / I'll Be Home For Christmas",
         "url": "https://open.spotify.com/album/33xlOJnpWnSJZpEhPs1Rav"
@@ -1461,7 +1493,7 @@
       "url": "https://open.spotify.com/track/07wXKpcO4yJggnbTM6kEHW"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Merry Christmas From Jon Pardi",
         "url": "https://open.spotify.com/album/0rntkIqjxA3mqdfkvB6O8C"
@@ -1477,7 +1509,7 @@
       "url": "https://open.spotify.com/track/4ICAhUbEfwUKY5MU6E06Wm"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Underneath the Lights",
         "url": "https://open.spotify.com/album/1Q2sj6o2pClBgTqddcpUDM"
@@ -1493,7 +1525,7 @@
       "url": "https://open.spotify.com/track/5sZqSQJCMgJefuJvkgXLjt"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "I Want a Massey Ferguson for Christmas",
         "url": "https://open.spotify.com/album/5WkUk0rR0lrZ0Sh4tPaVid"
@@ -1509,7 +1541,7 @@
       "url": "https://open.spotify.com/track/7kQBtVQz6XYLoXlpH1fxWD"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Last Christmas",
         "url": "https://open.spotify.com/album/41au4gfkbjzNeeAAsgyX1i"
@@ -1525,7 +1557,7 @@
       "url": "https://open.spotify.com/track/2CoMiYfmW1K4oTYaF2U2Fl"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Baby, Let Me Be Your Santa Claus Tonight",
         "url": "https://open.spotify.com/album/0poAtGuujcoFi7k7lOqQxa"
@@ -1541,7 +1573,7 @@
       "url": "https://open.spotify.com/track/03VmD9Lfq39jHz6IJg1xuZ"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "All I Want For Christmas Is You",
         "url": "https://open.spotify.com/album/2Ke8YIg9jYWhaqhUNAWbhT"
@@ -1557,7 +1589,7 @@
       "url": "https://open.spotify.com/track/1ONdZCRH07xQUgkTxA9kKQ"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Season's Greetings From Alex Hall",
         "url": "https://open.spotify.com/album/1Gdwv5PQF6kcgkjuIn3YKr"
@@ -1573,7 +1605,7 @@
       "url": "https://open.spotify.com/track/7k5zCV44bO12almDQ7sUxq"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Hallelujah (Acoustic)",
         "url": "https://open.spotify.com/album/39RAwq6SPA2NVC28G1A31h"
@@ -1589,7 +1621,7 @@
       "url": "https://open.spotify.com/track/4hD9yHWtNlqm9O23KlB5Xn"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Hard Candy Christmas",
         "url": "https://open.spotify.com/album/59UntnrXY6QbVLQB8XuSXl"
@@ -1605,7 +1637,7 @@
       "url": "https://open.spotify.com/track/70z0rebvMVZNPJwB2LYC8u"
     },
     {
-      "added_at": "2024-09-09 19:04:38",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Christmas By Myself",
         "url": "https://open.spotify.com/album/6jqt6GqBIbyPbXRkmS0K2F"

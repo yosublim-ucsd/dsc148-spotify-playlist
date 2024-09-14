@@ -1,6 +1,6 @@
 {
   "description": "\ud83c\udf42\n",
-  "num_followers": 89892,
+  "num_followers": 89906,
   "original_name": "H\u00f8st i lufta",
   "owner": {
     "name": "Spotify",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "Tar Jeg Feil",
-        "url": "https://open.spotify.com/album/4mjRBfM8Z5qh0EMVMSLtKy"
-      },
-      "artists": [
-        {
-          "name": "Nico & Vinz",
-          "url": "https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn"
-        }
-      ],
-      "duration_ms": 245001,
-      "name": "Tar Jeg Feil",
-      "url": "https://open.spotify.com/track/606olj3PDQBde7TTAop4tA"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
         "name": "leilo brenner (Spotify Studio It's Hits Recording)",
         "url": "https://open.spotify.com/album/688lFR0RtS2nxfHQTyCwKi"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 143197,
       "name": "leilo brenner - Spotify Studio It\u00b4s Hits Recording",
       "url": "https://open.spotify.com/track/6ztcxDt6rVmqMGi0t4wOiT"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
+        "name": "Tar Jeg Feil",
+        "url": "https://open.spotify.com/album/4mjRBfM8Z5qh0EMVMSLtKy"
+      },
+      "artists": [
+        {
+          "name": "Nico & Vinz",
+          "url": "https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn"
+        }
+      ],
+      "duration_ms": 245001,
+      "name": "Tar Jeg Feil",
+      "url": "https://open.spotify.com/track/606olj3PDQBde7TTAop4tA"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "Over Deg",
-        "url": "https://open.spotify.com/album/0Mctxv1ffjDMh8aWvY8qyR"
-      },
-      "artists": [
-        {
-          "name": "Morgan Sulele",
-          "url": "https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X"
-        }
-      ],
-      "duration_ms": 147093,
-      "name": "Over Deg",
-      "url": "https://open.spotify.com/track/5x84ULxcLPCFWHBwEmuGuV"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
         "name": "Syrener (Akustisk)",
         "url": "https://open.spotify.com/album/51LtrpKiGF45SGGBOb8Lr4"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 187322,
       "name": "Syrener - Akustisk",
       "url": "https://open.spotify.com/track/5akx9H3PofiMGe2vVUFWqm"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
+        "name": "Over Deg",
+        "url": "https://open.spotify.com/album/0Mctxv1ffjDMh8aWvY8qyR"
+      },
+      "artists": [
+        {
+          "name": "Morgan Sulele",
+          "url": "https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X"
+        }
+      ],
+      "duration_ms": 147093,
+      "name": "Over Deg",
+      "url": "https://open.spotify.com/track/5x84ULxcLPCFWHBwEmuGuV"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "Finaste s\u00e5 finns",
-        "url": "https://open.spotify.com/album/3zhOvMVq1g3idvO6BnboI1"
-      },
-      "artists": [
-        {
-          "name": "Stavangerkameratene",
-          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
-        }
-      ],
-      "duration_ms": 190405,
-      "name": "Finaste s\u00e5 finns",
-      "url": "https://open.spotify.com/track/7JBNrNLt5nncS9OYTBFA2F"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
         "name": "Hellig",
         "url": "https://open.spotify.com/album/6Z9PlffXEr7io6QJS3NAEv"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 219672,
       "name": "Hellig",
       "url": "https://open.spotify.com/track/6M51NPgawQYMfPM03kuYQt"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
+        "name": "Finaste s\u00e5 finns",
+        "url": "https://open.spotify.com/album/3zhOvMVq1g3idvO6BnboI1"
+      },
+      "artists": [
+        {
+          "name": "Stavangerkameratene",
+          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
+        }
+      ],
+      "duration_ms": 190405,
+      "name": "Finaste s\u00e5 finns",
+      "url": "https://open.spotify.com/track/7JBNrNLt5nncS9OYTBFA2F"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -867,18 +867,18 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "Hvit sommer",
-        "url": "https://open.spotify.com/album/6gzb9XtcWUz7Zkccyym86u"
+        "name": "G\u00e5 bli lykkelig, du",
+        "url": "https://open.spotify.com/album/4jp2qk1lRXaEk8FhnvKm2g"
       },
       "artists": [
         {
-          "name": "Carina Dahl",
-          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
+          "name": "Chris Holsten",
+          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
         }
       ],
-      "duration_ms": 148509,
-      "name": "Hvit sommer",
-      "url": "https://open.spotify.com/track/6MexyFGps6nfd5aDl1W50l"
+      "duration_ms": 187281,
+      "name": "G\u00e5 bli lykkelig, du",
+      "url": "https://open.spotify.com/track/7BW1YkNQ1lsCKBE2UXXQpS"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -903,18 +903,18 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "G\u00e5 bli lykkelig, du",
-        "url": "https://open.spotify.com/album/4jp2qk1lRXaEk8FhnvKm2g"
+        "name": "Hvit sommer",
+        "url": "https://open.spotify.com/album/6gzb9XtcWUz7Zkccyym86u"
       },
       "artists": [
         {
-          "name": "Chris Holsten",
-          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
+          "name": "Carina Dahl",
+          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
         }
       ],
-      "duration_ms": 187281,
-      "name": "G\u00e5 bli lykkelig, du",
-      "url": "https://open.spotify.com/track/7BW1YkNQ1lsCKBE2UXXQpS"
+      "duration_ms": 148509,
+      "name": "Hvit sommer",
+      "url": "https://open.spotify.com/track/6MexyFGps6nfd5aDl1W50l"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "Alt jeg har dr\u00f8mt om",
-        "url": "https://open.spotify.com/album/78baGAYAw809s68WP75BXX"
-      },
-      "artists": [
-        {
-          "name": "Cir.Cuz",
-          "url": "https://open.spotify.com/artist/2FHOS0GkJv3EyT8a9BhP9E"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Alt jeg har dr\u00f8mt om",
-      "url": "https://open.spotify.com/track/3NxIOoA1p9v9Ti9xbCr4uv"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
         "name": "D\u00e5rlig id\u00e9",
         "url": "https://open.spotify.com/album/4UfLRdNSGpF5i8afckhwyx"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 132616,
       "name": "D\u00e5rlig id\u00e9",
       "url": "https://open.spotify.com/track/4yU4cBkLZ2zrub6rw0mzTk"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
+        "name": "Alt jeg har dr\u00f8mt om",
+        "url": "https://open.spotify.com/album/78baGAYAw809s68WP75BXX"
+      },
+      "artists": [
+        {
+          "name": "Cir.Cuz",
+          "url": "https://open.spotify.com/artist/2FHOS0GkJv3EyT8a9BhP9E"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Alt jeg har dr\u00f8mt om",
+      "url": "https://open.spotify.com/track/3NxIOoA1p9v9Ti9xbCr4uv"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
+        "name": "Part Of The Story",
+        "url": "https://open.spotify.com/album/7jUYwxe12GrrCeFQjL6HsG"
+      },
+      "artists": [
+        {
+          "name": "Emma Jensen",
+          "url": "https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS"
+        }
+      ],
+      "duration_ms": 187173,
+      "name": "Part Of The Story",
+      "url": "https://open.spotify.com/track/6jS0yEHw2vNXyCbY1DJJU4"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
         "name": "Har du glemt meg?",
         "url": "https://open.spotify.com/album/2kgi5waGtAaTcu2z8XAGFY"
       },
@@ -1131,26 +1147,6 @@
       "duration_ms": 165040,
       "name": "Har du glemt meg?",
       "url": "https://open.spotify.com/track/2tmglsdpzRMGtLZ3tJWk8B"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
-        "name": "Care",
-        "url": "https://open.spotify.com/album/2sucF1hUsAFKcZb0pqfxow"
-      },
-      "artists": [
-        {
-          "name": "Lemaitre",
-          "url": "https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764"
-        },
-        {
-          "name": "Hannah Storm",
-          "url": "https://open.spotify.com/artist/5wUnpBAfC90M9OSMO7umpL"
-        }
-      ],
-      "duration_ms": 244723,
-      "name": "Care",
-      "url": "https://open.spotify.com/track/0RB6Saze1O8DugkNzqzEed"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -1171,22 +1167,6 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "Part Of The Story",
-        "url": "https://open.spotify.com/album/7jUYwxe12GrrCeFQjL6HsG"
-      },
-      "artists": [
-        {
-          "name": "Emma Jensen",
-          "url": "https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS"
-        }
-      ],
-      "duration_ms": 187173,
-      "name": "Part Of The Story",
-      "url": "https://open.spotify.com/track/6jS0yEHw2vNXyCbY1DJJU4"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
         "name": "Klisje",
         "url": "https://open.spotify.com/album/50eAohXeP6Tu6hPqCnHkRA"
       },
@@ -1203,6 +1183,26 @@
       "duration_ms": 138632,
       "name": "Klisje",
       "url": "https://open.spotify.com/track/2p5d940zKggwkEpBj8sjf2"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
+        "name": "Care",
+        "url": "https://open.spotify.com/album/2sucF1hUsAFKcZb0pqfxow"
+      },
+      "artists": [
+        {
+          "name": "Lemaitre",
+          "url": "https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764"
+        },
+        {
+          "name": "Hannah Storm",
+          "url": "https://open.spotify.com/artist/5wUnpBAfC90M9OSMO7umpL"
+        }
+      ],
+      "duration_ms": 244723,
+      "name": "Care",
+      "url": "https://open.spotify.com/track/0RB6Saze1O8DugkNzqzEed"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "Fy Faen S\u00e5 Deilig",
-        "url": "https://open.spotify.com/album/1j6xIUm9WZ4K9uTojnvFC0"
-      },
-      "artists": [
-        {
-          "name": "Vidar Villa",
-          "url": "https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg"
-        }
-      ],
-      "duration_ms": 156913,
-      "name": "Fy Faen S\u00e5 Deilig",
-      "url": "https://open.spotify.com/track/7Kbnj5tbe6b0N8u0uRgiSW"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
         "name": "Uten d\u00e6",
         "url": "https://open.spotify.com/album/23J8fC5yRfsBoIsiUfycQw"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 180906,
       "name": "Ti tusen",
       "url": "https://open.spotify.com/track/4NnrvgxfleczknQYs2d8cv"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
+        "name": "Fy Faen S\u00e5 Deilig",
+        "url": "https://open.spotify.com/album/1j6xIUm9WZ4K9uTojnvFC0"
+      },
+      "artists": [
+        {
+          "name": "Vidar Villa",
+          "url": "https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg"
+        }
+      ],
+      "duration_ms": 156913,
+      "name": "Fy Faen S\u00e5 Deilig",
+      "url": "https://open.spotify.com/track/7Kbnj5tbe6b0N8u0uRgiSW"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "Sommerfugl",
-        "url": "https://open.spotify.com/album/4KwC2kDErFQk2s2CVepIzu"
+        "name": "Tre sekunder",
+        "url": "https://open.spotify.com/album/01OYb3IdBqhdxrRsTTlsIJ"
       },
       "artists": [
         {
-          "name": "Vidar Villa",
-          "url": "https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg"
+          "name": "Chris Holsten",
+          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
         }
       ],
-      "duration_ms": 172162,
-      "name": "Sommerfugl",
-      "url": "https://open.spotify.com/track/70WspLgBLUsL4THi8bCdUv"
+      "duration_ms": 189773,
+      "name": "Tre sekunder",
+      "url": "https://open.spotify.com/track/1YG1SeN28PvLdNzyBAeLww"
     }
   ],
   "unique_name": "H\u00f8st i lufta",

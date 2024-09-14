@@ -2,7 +2,7 @@
 
 ### [Vivo de Rock](https://open.spotify.com/playlist/37i9dQZF1DWW6E2JpQb9U9)
 
-> Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: Tan Bionica & Airbag
+> Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: No Te Va Gustar
 
 343 songs - 1 day 1 hr 57 min
 

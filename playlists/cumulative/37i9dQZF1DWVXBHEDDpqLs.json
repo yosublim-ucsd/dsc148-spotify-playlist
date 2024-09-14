@@ -421,6 +421,24 @@
     },
     {
       "album": {
+        "name": "Estradas",
+        "url": "https://open.spotify.com/album/7wNdvXT62MA5VF6EdK2ozB"
+      },
+      "artists": [
+        {
+          "name": "N\u00eddia & Valentina",
+          "url": "https://open.spotify.com/artist/1zLsxkqMVKSKE8A4WhzZtV"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298226,
+      "name": "Andiamo",
+      "url": "https://open.spotify.com/track/0GPqCGCznoaNLVdW59HYMV"
+    },
+    {
+      "album": {
         "name": "Another Chance (SBF17)",
         "url": "https://open.spotify.com/album/7ddsu7Hd6aRxDYG0KTYIy9"
       },
@@ -1894,7 +1912,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 316056,
       "name": "Distance",
       "url": "https://open.spotify.com/track/1x9e1A8PI3Sp0dX55edTCD"
@@ -2462,7 +2480,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 231266,
       "name": "Galop",
       "url": "https://open.spotify.com/track/6Wp9Zsruuj23zEZd1hyAGH"
@@ -2694,6 +2712,24 @@
       "duration_ms": 312682,
       "name": "GL - Chlo\u00e9 Robinson + DJ ADHD Remix",
       "url": "https://open.spotify.com/track/7n1dvdXLQA8IoZx3XIyOWM"
+    },
+    {
+      "album": {
+        "name": "Globale EP",
+        "url": "https://open.spotify.com/album/00Haz9aSoRGF6IgmrSroqm"
+      },
+      "artists": [
+        {
+          "name": "Lorenzo_BITW",
+          "url": "https://open.spotify.com/artist/3Za28S9hIyeyGQmAk8d4FV"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166299,
+      "name": "Globale",
+      "url": "https://open.spotify.com/track/1HsHJvovqPVJy1utSqJ7LD"
     },
     {
       "album": {
@@ -3042,7 +3078,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 259260,
       "name": "HEYYYYY",
       "url": "https://open.spotify.com/track/4zjzMukhAczEKe3MRhIYc8"
@@ -3904,7 +3940,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 271764,
       "name": "Keepsake",
       "url": "https://open.spotify.com/track/4PSKpjw36pTCTX2P6rK2s4"
@@ -4068,6 +4104,24 @@
       "duration_ms": 209076,
       "name": "Let Me Catch My Breath - Baltimega Remix",
       "url": "https://open.spotify.com/track/31szi24yMz41kl2oz87mlW"
+    },
+    {
+      "album": {
+        "name": "Let's Play Fade Away (Part of Dekmantel Ten: A Decade of Dekmantel Festival)",
+        "url": "https://open.spotify.com/album/4ruLmumZeUW1hlP326q65n"
+      },
+      "artists": [
+        {
+          "name": "Palms Trax",
+          "url": "https://open.spotify.com/artist/52XSRQqTAfZ8ZrIqkQvQyA"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359531,
+      "name": "Let's Play Fade Away",
+      "url": "https://open.spotify.com/track/5RGwvBjWw2lb6ltihLJSCO"
     },
     {
       "album": {
@@ -4421,6 +4475,24 @@
     },
     {
       "album": {
+        "name": "NFINITY",
+        "url": "https://open.spotify.com/album/4DL4tfyEhqI5J6izcNF0zB"
+      },
+      "artists": [
+        {
+          "name": "The Glitch Mob",
+          "url": "https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248533,
+      "name": "NFINITY",
+      "url": "https://open.spotify.com/track/1XA3mQGubWoWgcLSWAMziN"
+    },
+    {
+      "album": {
         "name": "Service 1",
         "url": "https://open.spotify.com/album/4ccVTHBlvXtgv2lob3hEzs"
       },
@@ -4432,7 +4504,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 246235,
       "name": "Nightshift",
       "url": "https://open.spotify.com/track/6O5RtupBTGnO3jBFJBdgRl"
@@ -5174,6 +5246,32 @@
       "duration_ms": 180923,
       "name": "Que Tu Quiere",
       "url": "https://open.spotify.com/track/51TZ1XRQSKX4EYlgEWrQ4d"
+    },
+    {
+      "album": {
+        "name": "Rave Racer EP",
+        "url": "https://open.spotify.com/album/4U1TXelU5UDSIONwKYlIVP"
+      },
+      "artists": [
+        {
+          "name": "DJ BLIK x DJ POLKOMTEL",
+          "url": "https://open.spotify.com/artist/7jxDNdF3eZBJcs9bjHs0Ez"
+        },
+        {
+          "name": "DJ BLIK",
+          "url": "https://open.spotify.com/artist/7xVjiA11JIFZzGlj9AEAgE"
+        },
+        {
+          "name": "DJ POLKOMTEL",
+          "url": "https://open.spotify.com/artist/1VuAnQWU5OzXL7Yf57bn70"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224571,
+      "name": "Rave Racer",
+      "url": "https://open.spotify.com/track/5vlo9bIXgMJYSBt230OaRP"
     },
     {
       "album": {
@@ -6314,7 +6412,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 214598,
       "name": "Testify",
       "url": "https://open.spotify.com/track/7GC6Hm34nHNT5RPtGFdWzv"
@@ -6485,6 +6583,28 @@
     },
     {
       "album": {
+        "name": "Trax 4 Da Women",
+        "url": "https://open.spotify.com/album/66WaxrGmpMb6iHPYYtAo5v"
+      },
+      "artists": [
+        {
+          "name": "Garneau",
+          "url": "https://open.spotify.com/artist/2auOV5mY2iK1cJ4XmHXynL"
+        },
+        {
+          "name": "DJ Lil'Tal",
+          "url": "https://open.spotify.com/artist/0EdnLJfOLM2o3NysS4crGP"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287468,
+      "name": "Trax 4 Da Women",
+      "url": "https://open.spotify.com/track/6Saar7rLlWCYYzulCYVwMI"
+    },
+    {
+      "album": {
         "name": "TRUCK RIDDIM (feat. BEAM)",
         "url": "https://open.spotify.com/album/7pMzHtdqbu6HGHp30GNp54"
       },
@@ -6518,7 +6638,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 245500,
       "name": "Turboflow",
       "url": "https://open.spotify.com/track/2AGy2Ezhnm3YYWClYxwsEN"
@@ -6763,6 +6883,24 @@
     },
     {
       "album": {
+        "name": "These Heavens",
+        "url": "https://open.spotify.com/album/6X05UcMpVKKaCoktZFydD4"
+      },
+      "artists": [
+        {
+          "name": "gyrofield",
+          "url": "https://open.spotify.com/artist/2yKb2sD6dystFr0tTmSu2X"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334138,
+      "name": "Vega",
+      "url": "https://open.spotify.com/track/7oUIuHxZVmVjroMZQUPwhd"
+    },
+    {
+      "album": {
         "name": "Vibe (If I Back It Up)",
         "url": "https://open.spotify.com/album/1YAwpQCn7QlomW7PFBOA6B"
       },
@@ -6884,6 +7022,24 @@
       "duration_ms": 203636,
       "name": "Wait",
       "url": "https://open.spotify.com/track/7Ccqeybj3TfDrc99XSmGk6"
+    },
+    {
+      "album": {
+        "name": "One Day",
+        "url": "https://open.spotify.com/album/5sDlDQVSfTst7kotzZuc7E"
+      },
+      "artists": [
+        {
+          "name": "Loidis",
+          "url": "https://open.spotify.com/artist/2TDYu0uxVowgHaYN6P14k2"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433980,
+      "name": "Wait & See",
+      "url": "https://open.spotify.com/track/56c0h2Gd05unjVXwXtKyuF"
     },
     {
       "album": {
@@ -7105,6 +7261,28 @@
     },
     {
       "album": {
+        "name": "WHISTLE TIP",
+        "url": "https://open.spotify.com/album/0A2NnZmG8enxlcTNNsP9v9"
+      },
+      "artists": [
+        {
+          "name": "JIALING",
+          "url": "https://open.spotify.com/artist/6DeRQclhjr2FXuJZvkQr24"
+        },
+        {
+          "name": "Farsight",
+          "url": "https://open.spotify.com/artist/2gTyZstDbbmkkohxLNchlj"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246466,
+      "name": "WHISTLE TIP",
+      "url": "https://open.spotify.com/track/3uYmhMx9L4bxkGeWSbJvII"
+    },
+    {
+      "album": {
         "name": "Wicked (feat. Eliza Legzdina)",
         "url": "https://open.spotify.com/album/3SGr4NHccCw3UI1tiuhIpK"
       },
@@ -7160,7 +7338,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 363246,
       "name": "Work That",
       "url": "https://open.spotify.com/track/2nlWmXzUJ9O2PKRtAPnt0M"
@@ -7254,7 +7432,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 182027,
       "name": "Yena",
       "url": "https://open.spotify.com/track/6xKxd8wa3S5oABwJwip0WF"

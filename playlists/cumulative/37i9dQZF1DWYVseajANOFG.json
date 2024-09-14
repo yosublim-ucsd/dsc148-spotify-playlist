@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: Chicocurlyhead",
+  "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: Barbel",
   "name": "Flow Panam\u00e1",
   "tracks": [
     {
@@ -130,7 +130,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 195551,
       "name": "70 Veces 7",
       "url": "https://open.spotify.com/track/08HHfUft0oD25biPaSRJQJ"
@@ -950,6 +950,24 @@
       "duration_ms": 148610,
       "name": "C3",
       "url": "https://open.spotify.com/track/20GDqldujHWyUXsw4TwSY7"
+    },
+    {
+      "album": {
+        "name": "Campana",
+        "url": "https://open.spotify.com/album/3lUj4RtVOEEyvTm9A4NffE"
+      },
+      "artists": [
+        {
+          "name": "BARBEL",
+          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288932,
+      "name": "Campana",
+      "url": "https://open.spotify.com/track/7xGzAyF9H4h8CCUbWCzBqt"
     },
     {
       "album": {
@@ -2588,7 +2606,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 163555,
       "name": "Girasoles",
       "url": "https://open.spotify.com/track/5tyYFPkRQSPUDCnFp85GkN"
@@ -3430,7 +3448,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 240600,
       "name": "La Mexicana",
       "url": "https://open.spotify.com/track/5itg5kaqEcsjzZYzbFs8X5"
@@ -4102,6 +4120,28 @@
       "duration_ms": 209523,
       "name": "Me Miro al Espejo",
       "url": "https://open.spotify.com/track/0An5626diqxDb9EDLQyYHp"
+    },
+    {
+      "album": {
+        "name": "Mexicano",
+        "url": "https://open.spotify.com/album/5uwsm1fHlt5xPJp1BRQgyx"
+      },
+      "artists": [
+        {
+          "name": "Don Pablo Mures",
+          "url": "https://open.spotify.com/artist/4YcotSTsnWhSSizEgJlH5k"
+        },
+        {
+          "name": "Eiby",
+          "url": "https://open.spotify.com/artist/09hiuib0jApNPaf9sDXlSn"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200024,
+      "name": "Mexicano",
+      "url": "https://open.spotify.com/track/1m5l1h26xuPIdEFIPNwGnH"
     },
     {
       "album": {
@@ -4844,7 +4884,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 175679,
       "name": "OBVIA TENTACI\u00d3N",
       "url": "https://open.spotify.com/track/5h8A87rMJ3DqzFCQVwyeNQ"
@@ -5212,6 +5252,32 @@
       "duration_ms": 170547,
       "name": "Parchecito",
       "url": "https://open.spotify.com/track/1vtQmGJc9k7kszA9VvKzsS"
+    },
+    {
+      "album": {
+        "name": "Parchecito (Remix)",
+        "url": "https://open.spotify.com/album/61tU9TRC76dXYRYzfmoequ"
+      },
+      "artists": [
+        {
+          "name": "Makano",
+          "url": "https://open.spotify.com/artist/5F73ZVq8ivLhsYF2pGg4Fc"
+        },
+        {
+          "name": "Bayriton",
+          "url": "https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV"
+        },
+        {
+          "name": "Gustavo Elis",
+          "url": "https://open.spotify.com/artist/2MmmFlTRNXxmrat4kdglT4"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191128,
+      "name": "Parchecito (Remix)",
+      "url": "https://open.spotify.com/track/2MECt4ADCKVxGijkAxUIbH"
     },
     {
       "album": {
@@ -7258,6 +7324,28 @@
       "duration_ms": 151009,
       "name": "TU TETA",
       "url": "https://open.spotify.com/track/0l9ish1O7LHCxMLaPeMKXO"
+    },
+    {
+      "album": {
+        "name": "Tu Traici\u00f3n",
+        "url": "https://open.spotify.com/album/23zddyJgHjyJIWldCJBYJX"
+      },
+      "artists": [
+        {
+          "name": "At' Fat",
+          "url": "https://open.spotify.com/artist/455JBMYIT1lWf1Djj4rDc7"
+        },
+        {
+          "name": "Aspirante",
+          "url": "https://open.spotify.com/artist/0lsWSzy0GnThN26ko4tCMf"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190909,
+      "name": "Tu Traici\u00f3n",
+      "url": "https://open.spotify.com/track/1RbQZ3W5fsve8oAF7ui96y"
     },
     {
       "album": {

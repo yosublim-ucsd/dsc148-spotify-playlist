@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Alejandro y Maria Laura.
 
-654 songs - 1 day 15 hr 3 min
+655 songs - 1 day 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -435,7 +435,7 @@
 | [Orquesta natural](https://open.spotify.com/track/6OYqqoXiFcVeVBlB6HQGSe) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Kumbayeo \(Lado A\)](https://open.spotify.com/album/2S7dOh95r0P8ZujBfNuFid) | 3:17 | 2021-12-24 | 2024-08-03 |
 | [Oye mi Voz](https://open.spotify.com/track/5EALaMd6QUNhtRJINXrlqM) | [María Ruiz](https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI), [Chambao](https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R) | [Deshielo](https://open.spotify.com/album/3xIhTaVpGZhjlo7SGeTeyJ) | 3:41 | 2024-02-16 |  |
 | [Paciencia](https://open.spotify.com/track/3hFiWmJ1UUeH5bljAr3ik0) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Bugambilia](https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK) | 2:14 | 2021-12-24 | 2023-12-23 |
-| [Pajarillo Negro](https://open.spotify.com/track/4DMhBxXwHcaY8C0Bv8PwFc) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [La Fuerza](https://open.spotify.com/album/4qMSZDyLdEJtoL19qzG4ld) | 4:00 | 2024-04-12 |  |
+| [Pajarillo Negro](https://open.spotify.com/track/4DMhBxXwHcaY8C0Bv8PwFc) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [La Fuerza](https://open.spotify.com/album/4qMSZDyLdEJtoL19qzG4ld) | 4:00 | 2024-04-12 | 2024-09-14 |
 | [Pajarillo Negro](https://open.spotify.com/track/09dLppecX1SSw8eFv5jy78) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Pajarillo Negro](https://open.spotify.com/album/2iyi1dEz7xtssJ6soP3ANE) | 4:02 | 2021-12-24 | 2022-07-17 |
 | [Palabras de Amor](https://open.spotify.com/track/2JYkP3AKFcde7B0azFBJkM) | [Ana Prada](https://open.spotify.com/artist/6hmj4qPtup6hMVe7V4YZ6S), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [No](https://open.spotify.com/album/0q4oKGEI17JZ2M4kVpzQro) | 3:31 | 2022-09-23 | 2022-10-22 |
 | [Paloma quiero contarte](https://open.spotify.com/track/4hSPYZ86mCKEY1F838se7Q) | [Nano Stern](https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X) | [Canta a Víctor Jara](https://open.spotify.com/album/6V20HwYQNfkCVsLlqOoGul) | 2:55 | 2023-05-29 | 2023-06-03 |
@@ -647,6 +647,7 @@
 | [Volver a casa](https://open.spotify.com/track/02XlIv06zKn3hCrQUDILgq) | [Daniela Garsal](https://open.spotify.com/artist/5UA1oMfQ2oISh5SaZiVjXe) | [Volver a casa](https://open.spotify.com/album/5d7f0AmhsFVpAMiAP7LwjY) | 4:06 | 2024-06-11 | 2024-08-03 |
 | [Volver al Bosque](https://open.spotify.com/track/2LyOGPRRJgWYBxfn7JFnzM) | [Tomás del Real](https://open.spotify.com/artist/0LhgYcyninijD4GAKXPa3v) | [Principios de Declaración](https://open.spotify.com/album/1hJOCZEm6DEwoxI6027gxq) | 4:07 | 2023-06-30 | 2023-07-29 |
 | [Voy a Lo Que Voy](https://open.spotify.com/track/1w0upZ7jE1EVNcywPE7awm) | [Maruja Limón](https://open.spotify.com/artist/15weuOZLZZBnFfkmkfVxPu) | [Vidas](https://open.spotify.com/album/18hCohjBmXY0XoQDZNZOB4) | 2:54 | 2022-01-21 | 2022-01-23 |
+| [Vuelo de casa en casa](https://open.spotify.com/track/3BYL5K1a2oNb7GpgYekt9z) | [Amanda Verdú](https://open.spotify.com/artist/3jL1j1GM43wF52RSNi2KP8) | [Vuelo de casa en casa](https://open.spotify.com/album/7FvdXE0psbDlCDeDKfGkfP) | 2:50 | 2024-09-06 |  |
 | [Vuelta a la raíz](https://open.spotify.com/track/6FywEE8yHO35D0bHcHPQ9T) | [Sara Sístole](https://open.spotify.com/artist/5IITtWpOwYWgCQOC5saIg8) | [Vuelta a la raíz](https://open.spotify.com/album/4EYSC9060ijxHIuV1UQjms) | 3:08 | 2024-05-09 | 2024-06-15 |
 | [Vuelve](https://open.spotify.com/track/5BsKfH1KSogiWBUA93Ovbp) | [La Otra](https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7), [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK), [Paloma del Cerro](https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp) | [Vuelve](https://open.spotify.com/album/523A7IjwBmOfIAk0xh3DUx) | 4:35 | 2024-06-28 |  |
 | [Vuelvo](https://open.spotify.com/track/21gHC3HUcfc2OJRHhiHQvo) | [Fran Fernández](https://open.spotify.com/artist/7biwp0gZCdbh55JhL4NTHe) | [Vuelvo](https://open.spotify.com/album/3RLOj7QqN1Krsej9ek5FFr) | 3:21 | 2022-06-03 | 2022-06-06 |

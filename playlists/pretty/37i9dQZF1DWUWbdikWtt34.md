@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 
 ### [Dangdut Top](https://open.spotify.com/playlist/37i9dQZF1DWUWbdikWtt34)
 
-> Dendang Dangdut teratas\. Cover: Riri
+> Dendang Dangdut teratas\. Cover: Riri Chantika
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,703 likes - 88 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,729 likes - 88 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 | 87 | [Egois](https://open.spotify.com/track/4avHigwVYoL7TD48EhcNFK) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Egois](https://open.spotify.com/album/4wnJOz5Oeg9tVK7MonAwnt) | 4:17 |
 | 88 | [Cuma Kamu](https://open.spotify.com/track/2QnaLtjWrC4UMMVU6IspOo) | [Rhoma Irama](https://open.spotify.com/artist/4rlC2lgVD1tfilqgJxEPIW), [Via Vallen](https://open.spotify.com/artist/6vnVPM49Yl9LSGqhnLAh1f) | [Cuma Kamu](https://open.spotify.com/album/7mrO78qasVB2HQ17sywB3u) | 4:04 |
 
-Snapshot ID: `ZuMeEAAAAABhPXiXYf6rkUlB9bMkPa+2`
+Snapshot ID: `ZuO2XgAAAAAWbUfE66nJE6Jm1V0WoSZE`

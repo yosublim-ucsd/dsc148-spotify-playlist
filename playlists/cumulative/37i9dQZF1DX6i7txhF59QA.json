@@ -11408,7 +11408,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-13",
+      "date_removed": null,
       "duration_ms": 217346,
       "name": "Something Big is Coming",
       "url": "https://open.spotify.com/track/310DizvgcR9IdCMUSZDE69"
@@ -13088,7 +13088,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 125066,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/2MDDkx4W0mIolqWHgXWvqi"
@@ -15515,6 +15515,24 @@
     },
     {
       "album": {
+        "name": "\uacf5\uc9c0\ucc9c\uc0ac\ub791",
+        "url": "https://open.spotify.com/album/6OGwnI2wEY7NNcw5zw2UFS"
+      },
+      "artists": [
+        {
+          "name": "\uae40\uc9c0\ud604",
+          "url": "https://open.spotify.com/artist/4FD14u8cBep1gkVyJdyKyC"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216338,
+      "name": "\uacf5\uc9c0\ucc9c\uc0ac\ub791",
+      "url": "https://open.spotify.com/track/5hMbxknvAjxfOtCUiX3sfc"
+    },
+    {
+      "album": {
         "name": "\uad00\uc0c1\ud0c0\ub839",
         "url": "https://open.spotify.com/album/7lbKd2a8yzlqNw7xmwiyWZ"
       },
@@ -16600,7 +16618,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 223320,
       "name": "\uc544\uac00\uc57c",
       "url": "https://open.spotify.com/track/2XuOuqNFJpchRK8fk4JX5A"

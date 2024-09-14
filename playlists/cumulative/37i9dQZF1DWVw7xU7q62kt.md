@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz\. Cover: Blue Lab Beats
 
-245 songs - 12 hr 40 min
+246 songs - 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Comedown](https://open.spotify.com/track/62ymRuQmaETCv6wasnQ8Qr) | [Jazzbois](https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul) | [Comedown](https://open.spotify.com/album/1Lj3VaMOtFFF1RmBGUr7hk) | 2:39 | 2023-08-22 |  |
 | [Complete](https://open.spotify.com/track/1iKafONIrGrPtZf5R4zXAh) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke) | [Complete](https://open.spotify.com/album/3ui55ZOYWJ4WF1UCjAGGD6) | 3:37 | 2023-08-22 | 2024-03-08 |
 | [Cortado](https://open.spotify.com/track/4vGjoOyEmmbPovNCjoF8eQ) | [beyond pluto](https://open.spotify.com/artist/6WShzu0391mQ6M2hJEwm49), [Beats alFredo](https://open.spotify.com/artist/1ECmTGh1rg6O4c57Phnsbr), [Patiotic Records](https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ) | [Cortado](https://open.spotify.com/album/2gsjSva38akWVkOHy1gB7C) | 2:22 | 2024-08-23 |  |
-| [Croydon Smash](https://open.spotify.com/track/3ArFJR37rzbtmyqypgQN0m) | [Kit Downes](https://open.spotify.com/artist/5KAxF8BtuqO5emnRCjorwk), [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx), [James Maddren](https://open.spotify.com/artist/6ke4GTfhO9er0IPiwHW1Zw), [ENEMY](https://open.spotify.com/artist/4bl36sH2M86WGlzhX4TqaC) | [The Betrayal](https://open.spotify.com/album/77UysfbnlDD2AIoeFABimZ) | 1:57 | 2023-10-13 |  |
+| [Croydon Smash](https://open.spotify.com/track/3ArFJR37rzbtmyqypgQN0m) | [Kit Downes](https://open.spotify.com/artist/5KAxF8BtuqO5emnRCjorwk), [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx), [James Maddren](https://open.spotify.com/artist/6ke4GTfhO9er0IPiwHW1Zw), [ENEMY](https://open.spotify.com/artist/4bl36sH2M86WGlzhX4TqaC) | [The Betrayal](https://open.spotify.com/album/77UysfbnlDD2AIoeFABimZ) | 1:57 | 2023-10-13 | 2024-09-14 |
 | [Cruize](https://open.spotify.com/track/00z49c0uNlNKolUw3ydft4) | [Neo.](https://open.spotify.com/artist/3Zymx551K3z6vUXnF5coV9) | [Cruize](https://open.spotify.com/album/2bew9784OB2atUJHZEfEZr) | 2:40 | 2023-08-22 | 2024-04-19 |
 | [Cruize](https://open.spotify.com/track/10Ijt9xLWRgYFdaTVRXSxR) | [Neo.](https://open.spotify.com/artist/3Zymx551K3z6vUXnF5coV9) | [Cruize](https://open.spotify.com/album/3bLAV4r4Gye5irDLho7p5y) | 2:40 | 2024-03-20 | 2024-08-25 |
 | [Cuffies](https://open.spotify.com/track/4VNGKsfFQCmLMnIsQfbEs6) | [Soundspretty](https://open.spotify.com/artist/5VDHYoxsF1BT3b0AzeVAHr), [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv), [the intern](https://open.spotify.com/artist/1ZntZlDRZbQGsSIYJhxog2) | [Cuffies](https://open.spotify.com/album/3lzsdyojumISAiNp4gbNBY) | 2:26 | 2024-06-07 |  |
@@ -191,6 +191,7 @@
 | [Sista Dansen](https://open.spotify.com/track/16v3ccysk9vpIFZu6qzNWm) | [Koma Saxo](https://open.spotify.com/artist/28Ua0GwMz73dcNeUZIXDq8), [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx) | [Post Koma](https://open.spotify.com/album/0Kg10FOiXQVIsBAoMRhzLh) | 2:17 | 2024-02-21 | 2024-08-25 |
 | [Slipping Slowly](https://open.spotify.com/track/3utuOUxyj2ur3Hh2b1Hi9W) | [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O), [CHAERIN](https://open.spotify.com/artist/5VhgcFVd77oNJ2eZ2OynMc) | [Slipping Slowly](https://open.spotify.com/album/00ejlsopWmxDclwu12Vgz4) | 2:18 | 2024-08-23 |  |
 | [Solace](https://open.spotify.com/track/6XF3THa6lb0wN4gXWJcyDw) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Solace](https://open.spotify.com/album/7CQknjOhZ2NC1bCiPIeFpx) | 2:00 | 2024-06-04 |  |
+| [Sono Qui Pt\. 2](https://open.spotify.com/track/46GHEqmKAkkF9JmKQduQaT) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h), [Francesco Giampaoli](https://open.spotify.com/artist/4JL4brCLF4fbNBdRt21tFX), [Opek](https://open.spotify.com/artist/1CUV6UEfyGRCZXqBbXJ5f7) | [Sono Qui Pt\. 2](https://open.spotify.com/album/6vWQ3YgWhg94oxf7llA2q7) | 2:21 | 2024-09-13 |  |
 | [Speaker](https://open.spotify.com/track/3D9u3OmkBeEV7g9FUgg5ip) | [DisHand](https://open.spotify.com/artist/0fWugqSess3tlDdzjPu1gy) | [Speaker](https://open.spotify.com/album/6qo41SZD3ARTd5aleSDmHn) | 2:03 | 2023-08-22 |  |
 | [Sport Man](https://open.spotify.com/track/6SzP10os8D81Pj1CeEbbk1) | [The World](https://open.spotify.com/artist/669koPKDS5yqhf6AL6MRIs) | [Sport Man](https://open.spotify.com/album/5kHUOTl5cpRaU4XjVS75wQ) | 4:37 | 2023-08-22 | 2024-09-07 |
 | [Springtime Secret](https://open.spotify.com/track/07fTTeHJx7q3cqJJwiHOma) | [Aleph](https://open.spotify.com/artist/1UbGhSo6X9OypkMO9BLNVe), [Dreamlike Studio](https://open.spotify.com/artist/3VlRT5debonTpgMwGxtLtF), [Alexandre Elias](https://open.spotify.com/artist/72xKqeAh9QfV1S7TAgYipb) | [Springtime Secret](https://open.spotify.com/album/32qrcl8UtGMXQy2bnSAUcZ) | 2:09 | 2023-08-22 |  |

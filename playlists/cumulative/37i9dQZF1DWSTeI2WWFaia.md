@@ -2,7 +2,7 @@
 
 ### [Spilled Ink](https://open.spotify.com/playlist/37i9dQZF1DWSTeI2WWFaia)
 
-> Lyrical, lo\-fi, and lowlife raps\. Cover: Conway The Machine
+> Lyrical, lo\-fi, and lowlife raps\. Cover: MAVI
 
 682 songs - 1 day 12 hr 27 min
 

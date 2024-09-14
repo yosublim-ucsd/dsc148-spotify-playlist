@@ -2,9 +2,9 @@
 
 ### [Québécois Contemporain](https://open.spotify.com/playlist/37i9dQZF1DX8X9gjW0N3D7)
 
-> De la musique québécoise pour tous les goûts\. Photo: Marie\-Pierre Arthur
+> De la musique québécoise pour tous les goûts\. Photo: Jérôme 50
 
-95 songs - 5 hr 4 min
+96 songs - 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Dormir debout](https://open.spotify.com/track/1A1vZMoDiY6ulyevbW1M9c) | [Matt Moln](https://open.spotify.com/artist/7ANHFWaXJtG963OePSX29C) | [Dormir debout](https://open.spotify.com/album/76H8rGTRDxbvgKYysZRMth) | 3:43 | 2024-08-23 |  |
 | [Ensemble \- Radio Edit](https://open.spotify.com/track/73G5Qtfwq7lSFR9MlpQDlj) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Ensemble \(Radio Edit\)](https://open.spotify.com/album/0KAc9578FWtoMFmv78oZKu) | 2:27 | 2024-06-28 |  |
 | [Fake Friends](https://open.spotify.com/track/6uMWNX0hKdWr1hJckauIub) | [Billie du Page](https://open.spotify.com/artist/0FtpMrRAPhbGpC34OMSUbX) | [Fake Friends](https://open.spotify.com/album/4PCTm05PE1ULKyzKJGiNfO) | 3:00 | 2024-07-26 |  |
+| [Gazon mouillé](https://open.spotify.com/track/1jNwKEYRmB2mAKwe4bVhPw) | [Kinkead](https://open.spotify.com/artist/5Aly75fTVDrSY5TQMB4K1o) | [Gazon mouillé](https://open.spotify.com/album/327lifZqWkPWWyljcw7Gwj) | 3:05 | 2024-09-13 |  |
 | [Huby boy](https://open.spotify.com/track/58eJn1Lxb9kC6d91luXcVg) | [Alex Pic](https://open.spotify.com/artist/5nnFfYhJHiCcO3BznCYBnQ) | [Huby boy](https://open.spotify.com/album/2gn6F4Tkz6Z9an3zG7d1eN) | 2:17 | 2024-06-28 | 2024-08-17 |
 | [I Lost My Baby](https://open.spotify.com/track/2a4TQ1K4qKkjF5QsUcLbRw) | [Clodelle](https://open.spotify.com/artist/2Uzlt5clQAaXysQYGtrMGt) | [I Lost My Baby](https://open.spotify.com/album/1tdEkNNmgbYuRnGLthjNdl) | 2:13 | 2024-06-28 | 2024-07-19 |
 | [Idiot](https://open.spotify.com/track/6CnnCExCfjAZcjmVWSv8fL) | [Jimmy Hunt](https://open.spotify.com/artist/307URZG4lV6wvjKYmj86w2) | [Royaume](https://open.spotify.com/album/4aP35HIeabWoSciYT7UBDi) | 3:57 | 2024-06-28 | 2024-08-24 |
@@ -59,7 +60,7 @@
 | [Le stade](https://open.spotify.com/track/4CLliCkjzI04eoHKXMI68H) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Demain il fera beau](https://open.spotify.com/album/74gQAViAPXnavitK5BTOmv) | 2:23 | 2024-06-28 |  |
 | [Les entêté.e.s](https://open.spotify.com/track/4e8lef1lBidiTu7WlUWJ5N) | [Ian Kelly](https://open.spotify.com/artist/7ojsy2hVaM5udoJQEVVLow) | [Les entêté.e.s](https://open.spotify.com/album/5KQpJr1SouixdnYo6iH02L) | 3:26 | 2024-06-28 |  |
 | [Les nouveaux infinis](https://open.spotify.com/track/6tq1i5M92NGSSQSgt7B088) | [Nicolet](https://open.spotify.com/artist/5M1fJVSLxyQGV6RSqilBjR) | [Les nouveaux infinis](https://open.spotify.com/album/3p359s7FAMTjo50xzFlHt4) | 3:40 | 2024-06-28 |  |
-| [Les ponts](https://open.spotify.com/track/1dpfsCsUFgSX6YcrEPx2Ty) | [San James](https://open.spotify.com/artist/0hIJpbVV7O5vBBhTQ4tXiH) | [Les ponts](https://open.spotify.com/album/1wLSzqbwKzpndo4tZC36GO) | 2:55 | 2024-06-28 |  |
+| [Les ponts](https://open.spotify.com/track/1dpfsCsUFgSX6YcrEPx2Ty) | [San James](https://open.spotify.com/artist/0hIJpbVV7O5vBBhTQ4tXiH) | [Les ponts](https://open.spotify.com/album/1wLSzqbwKzpndo4tZC36GO) | 2:55 | 2024-06-28 | 2024-09-14 |
 | [LVL UP](https://open.spotify.com/track/4YZvYMlisIXy5lhC9GU3dX) | [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [LVL UP](https://open.spotify.com/album/5Azn7JvsnTC5wzFiwr13WB) | 3:18 | 2024-06-28 | 2024-08-17 |
 | [Léo](https://open.spotify.com/track/3fB7SMF0iP2LZDeLsyR9cg) | [Alex Pic](https://open.spotify.com/artist/5nnFfYhJHiCcO3BznCYBnQ) | [Léo](https://open.spotify.com/album/0q6xd6lq4FGP0w00BFHtag) | 3:05 | 2024-08-16 |  |
 | [Marina](https://open.spotify.com/track/2cGaXCes4TAZUgahO9bqdD) | [Keith Kouna](https://open.spotify.com/artist/5jVzu02JTqYPuzeNH7voWK) | [Marina](https://open.spotify.com/album/5PYSl1Sz2fypzb21zyZItp) | 2:54 | 2024-06-28 |  |

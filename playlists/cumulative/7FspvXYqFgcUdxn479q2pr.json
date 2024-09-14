@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-27",
-  "description": "New dance music from Deep House to Future Rave. Refreshed every Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  COVER:  Carneyval ",
+  "description": "New dance music from Deep House to Future Rave. Refreshed every Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  COVER:  Funky Beatz ",
   "name": "New Dance Music Friday",
   "tracks": [
     {
@@ -288,7 +288,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 129539,
       "name": "Ain't No Mountain High Enough",
       "url": "https://open.spotify.com/track/5hg6mJBpptifzsKo8EVzjT"
@@ -540,7 +540,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 139836,
       "name": "Before I Let You Go (feat. MarcLo)",
       "url": "https://open.spotify.com/track/0MBE2aSvZdmDxmAG9O2Fhs"
@@ -1517,6 +1517,28 @@
     },
     {
       "album": {
+        "name": "D\u00e9senchant\u00e9e",
+        "url": "https://open.spotify.com/album/4Xxt2G4Lce7d6sxPNCEVWL"
+      },
+      "artists": [
+        {
+          "name": "Funky Beatz",
+          "url": "https://open.spotify.com/artist/7mqX0sJOYDEc8aXlTV3f2r"
+        },
+        {
+          "name": "Kate Ryan",
+          "url": "https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162461,
+      "name": "D\u00e9senchant\u00e9e",
+      "url": "https://open.spotify.com/track/174GfVWcX1r7ZxB3crEguD"
+    },
+    {
+      "album": {
         "name": "Emergency",
         "url": "https://open.spotify.com/album/6I0mA7wey7BKjF10uMRAuj"
       },
@@ -1806,6 +1828,28 @@
       "duration_ms": 154015,
       "name": "Feel What You Want",
       "url": "https://open.spotify.com/track/38TvZjyie683nvVIxR0mDi"
+    },
+    {
+      "album": {
+        "name": "Feel What You Want - Robert Falcon Remix",
+        "url": "https://open.spotify.com/album/26X9kHIRrI7eGMosrfNkwi"
+      },
+      "artists": [
+        {
+          "name": "Floris van Oranje",
+          "url": "https://open.spotify.com/artist/6WrQtpzvML5W3b8ZvqMZ2o"
+        },
+        {
+          "name": "Robert Falcon",
+          "url": "https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162461,
+      "name": "Feel What You Want - Robert Falcon Remix",
+      "url": "https://open.spotify.com/track/4yR2MUdhnM7WzSuABMhiDa"
     },
     {
       "album": {
@@ -4015,6 +4059,32 @@
     },
     {
       "album": {
+        "name": "Oh My (Dimitri K Remix)",
+        "url": "https://open.spotify.com/album/1KZRqlmGwcZzO0FsBGTrTF"
+      },
+      "artists": [
+        {
+          "name": "The Partysquad",
+          "url": "https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY"
+        },
+        {
+          "name": "Paul Elstak",
+          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
+        },
+        {
+          "name": "Dimitri K",
+          "url": "https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153142,
+      "name": "Oh My (Dimitri K Remix)",
+      "url": "https://open.spotify.com/track/1lfvrXoptVANYD3sR0X00b"
+    },
+    {
+      "album": {
         "name": "On My Mind (GUZ Remix)",
         "url": "https://open.spotify.com/album/5HjUWSD7lmrr9Xj06ymx7W"
       },
@@ -4400,7 +4470,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 125729,
       "name": "Put Your Records On",
       "url": "https://open.spotify.com/track/4tFPsq6ZxrCH1pgz2XIYP2"
@@ -5279,6 +5349,32 @@
     },
     {
       "album": {
+        "name": "Teufel",
+        "url": "https://open.spotify.com/album/7DN6ucZjue4uXoFmJtLjQ6"
+      },
+      "artists": [
+        {
+          "name": "POLTERGST",
+          "url": "https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM"
+        },
+        {
+          "name": "ORYMA",
+          "url": "https://open.spotify.com/artist/1yofigg8Jio5xwoWfDPEK5"
+        },
+        {
+          "name": "danzen",
+          "url": "https://open.spotify.com/artist/4FeLGx97hUMscWvgzmAAE9"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172200,
+      "name": "Teufel",
+      "url": "https://open.spotify.com/track/0kdVqRkqbtBqhI4zVs0zdW"
+    },
+    {
+      "album": {
         "name": "The Alarm",
         "url": "https://open.spotify.com/album/79ITFHQi0KKo6M2n1WDR70"
       },
@@ -5480,6 +5576,28 @@
       "duration_ms": 157862,
       "name": "Turn It Up",
       "url": "https://open.spotify.com/track/7uENRQoUjPmoNO6HpyN4gc"
+    },
+    {
+      "album": {
+        "name": "U Got My Body (Remixes)",
+        "url": "https://open.spotify.com/album/7H4GP8h8RHS4nUEZv7Ak6g"
+      },
+      "artists": [
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "L_cio",
+          "url": "https://open.spotify.com/artist/1bp9y0lyzSPhnB6Dk8CUaW"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223384,
+      "name": "U Got My Body (L_cio Remix)",
+      "url": "https://open.spotify.com/track/2INmTNt4RJ6MIv0LnG72qK"
     },
     {
       "album": {
@@ -5766,7 +5884,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 156190,
       "name": "We Don\u2019t Need",
       "url": "https://open.spotify.com/track/7CMHF9xJYMXIHlOkD1NCGg"

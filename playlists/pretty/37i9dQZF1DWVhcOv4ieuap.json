@@ -1,6 +1,6 @@
 {
   "description": "Alegra tu d\u00eda con lo m\u00e1s pop para la ma\u00f1ana.",
-  "num_followers": 1025519,
+  "num_followers": 1025551,
   "original_name": "Despierta y Sonr\u00ede",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,38 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
+        "name": "WE PRAY - TINI Version",
+        "url": "https://open.spotify.com/album/7JTrcbIR88dkMfNvdxcZBO"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 233406,
+      "name": "WE PRAY - TINI Version",
+      "url": "https://open.spotify.com/track/6OICQoNsUIcYsirqoDo08Y"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
         "name": "GARC\u00cdA",
         "url": "https://open.spotify.com/album/1nwWnsVZSWIpMebokmGwdo"
       },
@@ -671,38 +703,6 @@
       "duration_ms": 228186,
       "name": "BUBALU",
       "url": "https://open.spotify.com/track/62xla8336vUnmxTWNzCfRt"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "WE PRAY - TINI Version",
-        "url": "https://open.spotify.com/album/7JTrcbIR88dkMfNvdxcZBO"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        },
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Elyanna",
-          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
-        },
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 233406,
-      "name": "WE PRAY - TINI Version",
-      "url": "https://open.spotify.com/track/6OICQoNsUIcYsirqoDo08Y"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -995,18 +995,22 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Portales (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU"
+        "name": "Formentera",
+        "url": "https://open.spotify.com/album/1xWOSgEAm6gO2A6zdlrPqH"
       },
       "artists": [
         {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
         }
       ],
-      "duration_ms": 184511,
-      "name": "Que Se Parezca A Ti",
-      "url": "https://open.spotify.com/track/1egG8nOtq5l9ZiqVRT7KM6"
+      "duration_ms": 207333,
+      "name": "Formentera",
+      "url": "https://open.spotify.com/track/3nfICwo20uiFdEGzgNUSrG"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1031,22 +1035,18 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Formentera",
-        "url": "https://open.spotify.com/album/1xWOSgEAm6gO2A6zdlrPqH"
+        "name": "Portales (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU"
       },
       "artists": [
         {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
         }
       ],
-      "duration_ms": 207333,
-      "name": "Formentera",
-      "url": "https://open.spotify.com/track/3nfICwo20uiFdEGzgNUSrG"
+      "duration_ms": 184511,
+      "name": "Que Se Parezca A Ti",
+      "url": "https://open.spotify.com/track/1egG8nOtq5l9ZiqVRT7KM6"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1515,18 +1515,22 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Luz",
-        "url": "https://open.spotify.com/album/54iXGKn6LPMXZVeIs9uqQo"
+        "name": "Te So\u00f1\u00e9",
+        "url": "https://open.spotify.com/album/4KqGXxT87BWM8NSBmWsqYs"
       },
       "artists": [
         {
-          "name": "TIM\u00d8",
-          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        },
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
         }
       ],
-      "duration_ms": 186186,
-      "name": "Luz",
-      "url": "https://open.spotify.com/track/6v5J4UE21xOjnQ4N9H5jur"
+      "duration_ms": 215709,
+      "name": "Te So\u00f1\u00e9",
+      "url": "https://open.spotify.com/track/65ppBwrWamnB3tSmDZUYPz"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1551,22 +1555,18 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Te So\u00f1\u00e9",
-        "url": "https://open.spotify.com/album/4KqGXxT87BWM8NSBmWsqYs"
+        "name": "Luz",
+        "url": "https://open.spotify.com/album/54iXGKn6LPMXZVeIs9uqQo"
       },
       "artists": [
         {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        },
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
         }
       ],
-      "duration_ms": 215709,
-      "name": "Te So\u00f1\u00e9",
-      "url": "https://open.spotify.com/track/65ppBwrWamnB3tSmDZUYPz"
+      "duration_ms": 186186,
+      "name": "Luz",
+      "url": "https://open.spotify.com/track/6v5J4UE21xOjnQ4N9H5jur"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "LOVEO",
-        "url": "https://open.spotify.com/album/00lZ4WPWOw5BdLJAPMtvrr"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 173868,
-      "name": "LOVEO",
-      "url": "https://open.spotify.com/track/0rBVM75Fqi5U6rCm2m5iTK"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "PERFECTO",
         "url": "https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 187920,
       "name": "CARBON VRMOR",
       "url": "https://open.spotify.com/track/5pQed9UAd4DqG6cWUQegGm"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "LOVEO",
+        "url": "https://open.spotify.com/album/00lZ4WPWOw5BdLJAPMtvrr"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 173868,
+      "name": "LOVEO",
+      "url": "https://open.spotify.com/track/0rBVM75Fqi5U6rCm2m5iTK"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1819,26 +1819,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Conquistar El Planeta",
-        "url": "https://open.spotify.com/album/1eyy2wEKQLrxwchTKHC5cd"
-      },
-      "artists": [
-        {
-          "name": "TIM\u00d8",
-          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
-        },
-        {
-          "name": "Andr\u00e9s Cepeda",
-          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
-        }
-      ],
-      "duration_ms": 163213,
-      "name": "Conquistar El Planeta",
-      "url": "https://open.spotify.com/track/0PnQyZ2269uNKZjiwwiF9C"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Cada loco con su tema",
         "url": "https://open.spotify.com/album/4p2IAhhVyU3XT0u2tEudMq"
       },
@@ -1855,6 +1835,26 @@
       "duration_ms": 220761,
       "name": "Cada loco con su tema",
       "url": "https://open.spotify.com/track/7I7lHL6STTIkB9S1m85OSy"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Conquistar El Planeta",
+        "url": "https://open.spotify.com/album/1eyy2wEKQLrxwchTKHC5cd"
+      },
+      "artists": [
+        {
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+        },
+        {
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        }
+      ],
+      "duration_ms": 163213,
+      "name": "Conquistar El Planeta",
+      "url": "https://open.spotify.com/track/0PnQyZ2269uNKZjiwwiF9C"
     }
   ],
   "unique_name": "Despierta y Sonr\u00ede",

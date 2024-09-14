@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "This is Phoenix. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is Phoenix. The essential tracks, all in one playlist.",
   "name": "This Is Phoenix",
   "tracks": [
     {
@@ -122,7 +122,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-11",
+      "date_removed": null,
       "duration_ms": 146440,
       "name": "All Eyes on Me (feat. BENEE, Chad Hugo & Pusha T)",
       "url": "https://open.spotify.com/track/4r48NKo5H3NHpe5nmxDFvv"

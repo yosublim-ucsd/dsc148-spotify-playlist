@@ -342,7 +342,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 102315,
       "name": "Arrogant",
       "url": "https://open.spotify.com/track/2jt9VV6QGn0tbwkrr26OO6"
@@ -860,7 +860,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 165473,
       "name": "Damh",
       "url": "https://open.spotify.com/track/78XM5iaa3GSu5jn6mhH2cS"
@@ -1026,6 +1026,24 @@
       "duration_ms": 121121,
       "name": "Dunali",
       "url": "https://open.spotify.com/track/5MyI8O9JgRaVCmoN4RfdCL"
+    },
+    {
+      "album": {
+        "name": "Flex Talk",
+        "url": "https://open.spotify.com/album/0igZNGk8crrnAhEDa655LE"
+      },
+      "artists": [
+        {
+          "name": "Bhambi2fly",
+          "url": "https://open.spotify.com/artist/7x1g4pBJtNz1XxdlSzEDf2"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Flex Talk",
+      "url": "https://open.spotify.com/track/2J48PmzsSxcvfp9wPrGILu"
     },
     {
       "album": {
@@ -1732,6 +1750,24 @@
       "duration_ms": 115046,
       "name": "Madly",
       "url": "https://open.spotify.com/track/1oJ1hCWgBelM8WGMTQmOmu"
+    },
+    {
+      "album": {
+        "name": "Khalbali Records",
+        "url": "https://open.spotify.com/album/0R19YQSn9Zubg1FL93JVGE"
+      },
+      "artists": [
+        {
+          "name": "Prabh Deep",
+          "url": "https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184875,
+      "name": "Majbur Mazdur (From Khalbali Records)",
+      "url": "https://open.spotify.com/track/0ITWwhpTnKd9LrRb06mP8a"
     },
     {
       "album": {
@@ -3004,6 +3040,36 @@
       "duration_ms": 170526,
       "name": "Ustaadi (feat. Faris Shafi)",
       "url": "https://open.spotify.com/track/0chpoH9CmYkczejkJihaxj"
+    },
+    {
+      "album": {
+        "name": "Vair",
+        "url": "https://open.spotify.com/album/4xrWgrHyUleB3xQxFOrLif"
+      },
+      "artists": [
+        {
+          "name": "AKKASH AD",
+          "url": "https://open.spotify.com/artist/59xsDgxFDAtdkOwMODQvgi"
+        },
+        {
+          "name": "Dev Wrld",
+          "url": "https://open.spotify.com/artist/04itPkYn7MwDWFm7eICvIz"
+        },
+        {
+          "name": "King Grewal",
+          "url": "https://open.spotify.com/artist/0VPupUoLhXwaKKoboImSig"
+        },
+        {
+          "name": "Prince Saggu",
+          "url": "https://open.spotify.com/artist/0Y0MpZ3QOgITrLikOqB1q4"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164764,
+      "name": "Vair",
+      "url": "https://open.spotify.com/track/2O0JPaSa1g9yKuid511Pb4"
     },
     {
       "album": {

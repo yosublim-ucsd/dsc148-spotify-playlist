@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Watch out for all the collaborations and cross-overs in the K-Pop world! (Cover: Cha Eun Woo, Peder Elias)",
+  "description": "Watch out for all the collaborations and cross-overs in the K-Pop world! (Cover: AGNEZ MO, Jay Park)",
   "name": "K-Pop X-Overs",
   "tracks": [
     {
@@ -1691,6 +1691,28 @@
     },
     {
       "album": {
+        "name": "Humming For Sunset",
+        "url": "https://open.spotify.com/album/38muvzltBhfYQEWr1bwq7V"
+      },
+      "artists": [
+        {
+          "name": "SURL",
+          "url": "https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3"
+        },
+        {
+          "name": "QLER",
+          "url": "https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273173,
+      "name": "Humming For Sunset",
+      "url": "https://open.spotify.com/track/0aASmPgngno02hD1hQ1IeE"
+    },
+    {
+      "album": {
         "name": "Hush-Hush",
         "url": "https://open.spotify.com/album/57miIs3v5jsOL4DGMj8cnK"
       },
@@ -2572,6 +2594,28 @@
       "duration_ms": 195120,
       "name": "PARTY",
       "url": "https://open.spotify.com/track/3iQbIF9CvyOPRkiM9fvA3B"
+    },
+    {
+      "album": {
+        "name": "Party In Bali (PIB) [feat. Jay Park]",
+        "url": "https://open.spotify.com/album/4BCEq5okdDEMSjqlg9oUZ2"
+      },
+      "artists": [
+        {
+          "name": "AGNEZ MO",
+          "url": "https://open.spotify.com/artist/6pMR8Zgot664613rAiLC2Z"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172501,
+      "name": "Party In Bali (PIB) [feat. Jay Park]",
+      "url": "https://open.spotify.com/track/5ZjPVDronecWpciN3fmf5D"
     },
     {
       "album": {

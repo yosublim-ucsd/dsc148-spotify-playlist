@@ -4,7 +4,7 @@
 
 > Country music with a Latin flair\. Cover: Ela Taubert
 
-181 songs - 9 hr 56 min
+182 songs - 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [LA LLUVIA \(with Jordyn Shellhart\)](https://open.spotify.com/track/2OSkxJooTe20Djkvepb7QT) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Jordyn Shellhart](https://open.spotify.com/artist/0zQY407WUsDjSCXPbZrpxY) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 3:33 | 2023-08-18 |  |
 | [La Niña](https://open.spotify.com/track/1ufvUzb22WGWvNoHecXWZn) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [THE GB](https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc) | 2:35 | 2024-06-17 |  |
 | [La Prisión De Folsom \(Folsom Prison Blues\) \- Live At Folsom Prison](https://open.spotify.com/track/6h23gt9orDwsnjl2R1MGpN) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Los Tigres Del Norte At Folsom Prison \(Original Soundtrack/Live\)](https://open.spotify.com/album/3vEowTdZIpdcVdbLlqZc6q) | 3:19 | 2021-12-10 |  |
-| [Laredo](https://open.spotify.com/track/2NrfHt0kmyH1l2C6k0cBxR) | [Angie K](https://open.spotify.com/artist/7tk53T02nvDYOvWz5T9qZL) | [Laredo](https://open.spotify.com/album/6UvkjIXN6hwu8xsfeFmtNV) | 3:56 | 2021-12-10 |  |
+| [Laredo](https://open.spotify.com/track/2NrfHt0kmyH1l2C6k0cBxR) | [Angie K](https://open.spotify.com/artist/7tk53T02nvDYOvWz5T9qZL) | [Laredo](https://open.spotify.com/album/6UvkjIXN6hwu8xsfeFmtNV) | 3:56 | 2021-12-10 | 2024-09-14 |
 | [Last Night \(Anòche\) \- Spanish](https://open.spotify.com/track/3d9p2YfhyjdsK0eg5vSy77) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [Seven Roses Vol\. 1](https://open.spotify.com/album/2vWWEIgN5eRHdIvBceUm0Q) | 2:43 | 2023-12-15 | 2024-04-10 |
 | [Late](https://open.spotify.com/track/4YTfDoUTGwFlH8hnRV9YjF) | [Frank Ray](https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF) | [Getcha Some](https://open.spotify.com/album/0c0L1aGHLaPeh5v2Mk9tDU) | 3:52 | 2022-08-12 |  |
 | [Late](https://open.spotify.com/track/6l1OCMAfxY4VjK2XXcxsbE) | [Frank Ray](https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF) | [Frank Ray](https://open.spotify.com/album/1tzDc0NmO80BmQwfHhTBsJ) | 3:52 | 2023-09-29 | 2024-04-19 |
@@ -152,6 +152,7 @@
 | [South On Me](https://open.spotify.com/track/4DNhJNM7vu2fYWKJllUBeu) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [South On Me](https://open.spotify.com/album/1KesYtUzvUIhgTksXIQLh5) | 3:30 | 2024-04-12 | 2024-06-18 |
 | [Space in My Heart](https://open.spotify.com/track/4vMI6s3uwWcxcAqVoXkATn) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Space in My Heart](https://open.spotify.com/album/7CATUcNzHCmx3vsOETqKM9) | 2:58 | 2024-02-23 |  |
 | [Spanish Eyes \(with Willie Nelson\)](https://open.spotify.com/track/7spZfheSLhzlsT9D5lZgkg) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [What A Wonderful World](https://open.spotify.com/album/3hP05skXXuQthotNtFrexa) | 3:33 | 2021-12-10 | 2024-04-10 |
+| [Stay](https://open.spotify.com/track/3KutMcHEOPYflktQz9vIsH) | [Angie K](https://open.spotify.com/artist/7tk53T02nvDYOvWz5T9qZL) | [Stay](https://open.spotify.com/album/2KIi0B9YE2ud6CwvYjWiNu) | 4:54 | 2024-09-13 |  |
 | [Streetlights](https://open.spotify.com/track/1jt3qpuuzQaO1XrUzuV1QW) | [Frank Ray](https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF) | [Frank Ray](https://open.spotify.com/album/1tzDc0NmO80BmQwfHhTBsJ) | 3:09 | 2023-09-29 | 2024-04-10 |
 | [Streetlights](https://open.spotify.com/track/4j0z2wrQdQBmgXjXE4PpoK) | [Frank Ray](https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF) | [Streetlights](https://open.spotify.com/album/6NwL9TmFyXn82jzcgvdLOL) | 3:10 | 2021-12-10 | 2023-11-03 |
 | [take my phone.](https://open.spotify.com/track/1uI8U4FO4fvFa0d5dd1UYl) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [take my phone.](https://open.spotify.com/album/0TdqvonMraWculqLZrmVYJ) | 2:31 | 2021-12-10 | 2022-08-27 |

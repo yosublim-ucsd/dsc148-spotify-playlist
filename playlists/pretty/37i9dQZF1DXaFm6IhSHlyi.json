@@ -1,6 +1,6 @@
 {
   "description": "A collection of the world's best emotional songs. Cover: <a href=\"https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl_branch=1\">Djouher</a>",
-  "num_followers": 144771,
+  "num_followers": 144790,
   "original_name": "Ballads International",
   "owner": {
     "name": "Spotify",
@@ -923,6 +923,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2up3OPMp9Tb4dAKM2erWXQ"
+      },
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+        }
+      ],
+      "duration_ms": 205583,
+      "name": "For You - Recorded At Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/4AHIgOApMmqVfpvc1hxK6x"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Tum Na Ho",
         "url": "https://open.spotify.com/album/6472XqZVt7gHSO4K40Pqk7"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 210857,
       "name": "Tum Na Ho",
       "url": "https://open.spotify.com/track/65QRFvzB2ZLJ1BygWPxxVj"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2up3OPMp9Tb4dAKM2erWXQ"
-      },
-      "artists": [
-        {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
-        }
-      ],
-      "duration_ms": 205583,
-      "name": "For You - Recorded At Spotify Studios Stockholm",
-      "url": "https://open.spotify.com/track/4AHIgOApMmqVfpvc1hxK6x"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1139,18 +1139,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "0",
-        "url": "https://open.spotify.com/album/6Oa8tjPIVfB0LgO1hwVw61"
+        "name": "Can We Kiss Forever?",
+        "url": "https://open.spotify.com/album/1B4ZnEKDAstlatD3ySlsBS"
       },
       "artists": [
         {
-          "name": "Superfly",
-          "url": "https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ"
+          "name": "Kina",
+          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
+        },
+        {
+          "name": "Adriana Proenza",
+          "url": "https://open.spotify.com/artist/7KHA7OOevgTDFhlym0oEyP"
         }
       ],
-      "duration_ms": 238386,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/4iRgN2h6iRkFVHareKcL14"
+      "duration_ms": 187898,
+      "name": "Can We Kiss Forever?",
+      "url": "https://open.spotify.com/track/1Av69kr9JitqPWo7WJLS5q"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1171,22 +1175,18 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Can We Kiss Forever?",
-        "url": "https://open.spotify.com/album/1B4ZnEKDAstlatD3ySlsBS"
+        "name": "0",
+        "url": "https://open.spotify.com/album/6Oa8tjPIVfB0LgO1hwVw61"
       },
       "artists": [
         {
-          "name": "Kina",
-          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
-        },
-        {
-          "name": "Adriana Proenza",
-          "url": "https://open.spotify.com/artist/7KHA7OOevgTDFhlym0oEyP"
+          "name": "Superfly",
+          "url": "https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ"
         }
       ],
-      "duration_ms": 187898,
-      "name": "Can We Kiss Forever?",
-      "url": "https://open.spotify.com/track/1Av69kr9JitqPWo7WJLS5q"
+      "duration_ms": 238386,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/4iRgN2h6iRkFVHareKcL14"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Akustikhane",
-        "url": "https://open.spotify.com/album/5wHc78rsbGRHHetgyT7zsk"
-      },
-      "artists": [
-        {
-          "name": "Kahraman Deniz",
-          "url": "https://open.spotify.com/artist/3nF0yXDatdq9xV279nEs5X"
-        }
-      ],
-      "duration_ms": 331607,
-      "name": "D\u00fc\u015ft\u00fc\u011f\u00fcm Gibi Kalkar\u0131m - Akustikhane",
-      "url": "https://open.spotify.com/track/1e3PlxTrIEnveO663T7lYP"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Tum Jaisi Ho",
         "url": "https://open.spotify.com/album/05vRHIg3ZhYkO8Wlpb5yRk"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 145301,
       "name": "Tum Jaisi Ho",
       "url": "https://open.spotify.com/track/2ArTK3KizSrijvTlRzGtSs"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Akustikhane",
+        "url": "https://open.spotify.com/album/5wHc78rsbGRHHetgyT7zsk"
+      },
+      "artists": [
+        {
+          "name": "Kahraman Deniz",
+          "url": "https://open.spotify.com/artist/3nF0yXDatdq9xV279nEs5X"
+        }
+      ],
+      "duration_ms": 331607,
+      "name": "D\u00fc\u015ft\u00fc\u011f\u00fcm Gibi Kalkar\u0131m - Akustikhane",
+      "url": "https://open.spotify.com/track/1e3PlxTrIEnveO663T7lYP"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "\u767d\u663c\u5922",
-        "url": "https://open.spotify.com/album/3LNHJ3ZReYcdf187yIi3uE"
-      },
-      "artists": [
-        {
-          "name": "\u6df1\u6839",
-          "url": "https://open.spotify.com/artist/5wCs789dq9VkEJAdTxlFlt"
-        }
-      ],
-      "duration_ms": 225082,
-      "name": "\u767d\u663c\u5922",
-      "url": "https://open.spotify.com/track/2IYtrfX0s3Wgm3thc0jCYH"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Bla Bik",
         "url": "https://open.spotify.com/album/0Yu3JYLiKy327FbZPAU5C3"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 175384,
       "name": "Bla Bik",
       "url": "https://open.spotify.com/track/5AUqRIriVFNE2UJ3TWFKFs"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "\u767d\u663c\u5922",
+        "url": "https://open.spotify.com/album/3LNHJ3ZReYcdf187yIi3uE"
+      },
+      "artists": [
+        {
+          "name": "\u6df1\u6839",
+          "url": "https://open.spotify.com/artist/5wCs789dq9VkEJAdTxlFlt"
+        }
+      ],
+      "duration_ms": 225082,
+      "name": "\u767d\u663c\u5922",
+      "url": "https://open.spotify.com/track/2IYtrfX0s3Wgm3thc0jCYH"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "How We Love",
-        "url": "https://open.spotify.com/album/2KGBrH9IX58DG3jubYV6xd"
-      },
-      "artists": [
-        {
-          "name": "Hana Malhas",
-          "url": "https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "How We Love",
-      "url": "https://open.spotify.com/track/41GBbgJmNrCRXOmLezn0sP"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "You Are",
         "url": "https://open.spotify.com/album/6Rk6fBhF9OygBVeQ0lue2D"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 228541,
       "name": "You Are",
       "url": "https://open.spotify.com/track/02Mn57DbulnTiXU2B1jmZn"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "How We Love",
+        "url": "https://open.spotify.com/album/2KGBrH9IX58DG3jubYV6xd"
+      },
+      "artists": [
+        {
+          "name": "Hana Malhas",
+          "url": "https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "How We Love",
+      "url": "https://open.spotify.com/track/41GBbgJmNrCRXOmLezn0sP"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1895,22 +1895,18 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Oye",
-        "url": "https://open.spotify.com/album/1xwUFsb21qbGugy09vdd7O"
+        "name": "Maula",
+        "url": "https://open.spotify.com/album/3O5bFYxMItBMLrGcFVJfIu"
       },
       "artists": [
         {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+          "name": "Anuv Jain",
+          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
         }
       ],
-      "duration_ms": 173021,
-      "name": "Oye",
-      "url": "https://open.spotify.com/track/09nSCeCs6eYfAIJVfye1CE"
+      "duration_ms": 237882,
+      "name": "Maula",
+      "url": "https://open.spotify.com/track/5qyEyqpT0TBVun8W07MEmR"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1931,6 +1927,26 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Oye",
+        "url": "https://open.spotify.com/album/1xwUFsb21qbGugy09vdd7O"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 173021,
+      "name": "Oye",
+      "url": "https://open.spotify.com/track/09nSCeCs6eYfAIJVfye1CE"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "\u56a3\u5f20",
         "url": "https://open.spotify.com/album/7HBIfL5J50gkUIjSWMRWqw"
       },
@@ -1943,22 +1959,6 @@
       "duration_ms": 253994,
       "name": "\u56a3\u5f20",
       "url": "https://open.spotify.com/track/3t8M86tiO0aKMMTXzRrFn8"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Maula",
-        "url": "https://open.spotify.com/album/3O5bFYxMItBMLrGcFVJfIu"
-      },
-      "artists": [
-        {
-          "name": "Anuv Jain",
-          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
-        }
-      ],
-      "duration_ms": 237882,
-      "name": "Maula",
-      "url": "https://open.spotify.com/track/5qyEyqpT0TBVun8W07MEmR"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "July",
-        "url": "https://open.spotify.com/album/2YQptVBjUJeIOBavD1AyXg"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 156106,
-      "name": "July",
-      "url": "https://open.spotify.com/track/5a6pdCHlWS2ekOOQ70QnAr"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "PINK PLANET",
         "url": "https://open.spotify.com/album/74UvOvL6L4tZbYFtY759ZG"
       },
@@ -2027,18 +2011,18 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Cardamom Tea",
-        "url": "https://open.spotify.com/album/0O1cH9xGBP2R9op3r2p3bq"
+        "name": "July",
+        "url": "https://open.spotify.com/album/2YQptVBjUJeIOBavD1AyXg"
       },
       "artists": [
         {
-          "name": "Dania",
-          "url": "https://open.spotify.com/artist/0LXNaYz7jAXD5V4C0FWGEx"
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
         }
       ],
-      "duration_ms": 221714,
-      "name": "Cardamom Tea",
-      "url": "https://open.spotify.com/track/66ny3dMX2VHExd8qX9KaTh"
+      "duration_ms": 156106,
+      "name": "July",
+      "url": "https://open.spotify.com/track/5a6pdCHlWS2ekOOQ70QnAr"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2055,6 +2039,22 @@
       "duration_ms": 236516,
       "name": "Sa Paghimig Mo",
       "url": "https://open.spotify.com/track/0dhN59CptPl9jJx4cxVOXO"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Cardamom Tea",
+        "url": "https://open.spotify.com/album/0O1cH9xGBP2R9op3r2p3bq"
+      },
+      "artists": [
+        {
+          "name": "Dania",
+          "url": "https://open.spotify.com/artist/0LXNaYz7jAXD5V4C0FWGEx"
+        }
+      ],
+      "duration_ms": 221714,
+      "name": "Cardamom Tea",
+      "url": "https://open.spotify.com/track/66ny3dMX2VHExd8qX9KaTh"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2119,6 +2119,22 @@
       "duration_ms": 231870,
       "name": "But it's Destiny",
       "url": "https://open.spotify.com/track/0JOuenfJaP3QodPJU0alSk"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "#YOM",
+        "url": "https://open.spotify.com/album/1XrRhkgWkLoajrI8NyltAE"
+      },
+      "artists": [
+        {
+          "name": "Lina Makoul",
+          "url": "https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7"
+        }
+      ],
+      "duration_ms": 143799,
+      "name": "Taal (#YOM 10)",
+      "url": "https://open.spotify.com/track/3xy6zmlJbmFvTkn3P87TCC"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2203,6 +2219,58 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Your Song (My One and Only You)",
+        "url": "https://open.spotify.com/album/3mNbu0ZXCMNFS6308EQ4qU"
+      },
+      "artists": [
+        {
+          "name": "Julie Anne San Jose",
+          "url": "https://open.spotify.com/artist/4NeCu267LZemnoq44lZYKy"
+        }
+      ],
+      "duration_ms": 222533,
+      "name": "Your Song - My One and Only You",
+      "url": "https://open.spotify.com/track/311a0P87ZiMjjCaoQSZEfh"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/4b1vmTumhoQ2pXD4ts0sH3"
+      },
+      "artists": [
+        {
+          "name": "Djouher",
+          "url": "https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D"
+        },
+        {
+          "name": "Lead Major",
+          "url": "https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO"
+        }
+      ],
+      "duration_ms": 170156,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/08j5xeOU0aKjKTWRDClYZt"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/2GWthGqphI4QLcfeT5XZ92"
+      },
+      "artists": [
+        {
+          "name": "artist",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/1Dm5jDXXhjm84fIS8WnwJ9"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Hanggang Sa Huli (From \"24/7\")",
         "url": "https://open.spotify.com/album/2C8rsZPS30jp7yaIjjROgO"
       },
@@ -2231,22 +2299,6 @@
       "duration_ms": 237653,
       "name": "Evidemment",
       "url": "https://open.spotify.com/track/5FIm6nxZHSATCCeRSYier0"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "#YOM",
-        "url": "https://open.spotify.com/album/1XrRhkgWkLoajrI8NyltAE"
-      },
-      "artists": [
-        {
-          "name": "Lina Makoul",
-          "url": "https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7"
-        }
-      ],
-      "duration_ms": 143799,
-      "name": "Taal (#YOM 10)",
-      "url": "https://open.spotify.com/track/3xy6zmlJbmFvTkn3P87TCC"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2315,22 +2367,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Naaalala Ka / Maging Sino Ka Man (Spotify Jams: OPM Love Songs - Recorded at Kodama Studios, Philippines)",
-        "url": "https://open.spotify.com/album/6w1N1jNKdtg5vUQFOEG0ns"
-      },
-      "artists": [
-        {
-          "name": "Moira Dela Torre",
-          "url": "https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc"
-        }
-      ],
-      "duration_ms": 287500,
-      "name": "Naaalala Ka / Maging Sino Ka Man (Spotify Jams: OPM Love Songs - Recorded at Kodama Studios, Philippines)",
-      "url": "https://open.spotify.com/track/3efCao3RLbsz52LQ66o8Ac"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Dalan Liyane",
         "url": "https://open.spotify.com/album/7kJv5f5X1J5NMylqh21bHn"
       },
@@ -2379,6 +2415,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Naaalala Ka / Maging Sino Ka Man (Spotify Jams: OPM Love Songs - Recorded at Kodama Studios, Philippines)",
+        "url": "https://open.spotify.com/album/6w1N1jNKdtg5vUQFOEG0ns"
+      },
+      "artists": [
+        {
+          "name": "Moira Dela Torre",
+          "url": "https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc"
+        }
+      ],
+      "duration_ms": 287500,
+      "name": "Naaalala Ka / Maging Sino Ka Man (Spotify Jams: OPM Love Songs - Recorded at Kodama Studios, Philippines)",
+      "url": "https://open.spotify.com/track/3efCao3RLbsz52LQ66o8Ac"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Love Someone",
         "url": "https://open.spotify.com/album/1y36YwGaSrqhDsxilR95iH"
       },
@@ -2391,22 +2443,6 @@
       "duration_ms": 205463,
       "name": "Love Someone",
       "url": "https://open.spotify.com/track/6r3baE6njwU4aoJq6zPukG"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Your Song (My One and Only You)",
-        "url": "https://open.spotify.com/album/3mNbu0ZXCMNFS6308EQ4qU"
-      },
-      "artists": [
-        {
-          "name": "Julie Anne San Jose",
-          "url": "https://open.spotify.com/artist/4NeCu267LZemnoq44lZYKy"
-        }
-      ],
-      "duration_ms": 222533,
-      "name": "Your Song - My One and Only You",
-      "url": "https://open.spotify.com/track/311a0P87ZiMjjCaoQSZEfh"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2431,22 +2467,6 @@
       "duration_ms": 230000,
       "name": "111",
       "url": "https://open.spotify.com/track/3awqYya8UX0SwGL6bnuLdL"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/2GWthGqphI4QLcfeT5XZ92"
-      },
-      "artists": [
-        {
-          "name": "artist",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-        }
-      ],
-      "duration_ms": 0,
-      "name": "",
-      "url": "https://open.spotify.com/track/1Dm5jDXXhjm84fIS8WnwJ9"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2519,22 +2539,6 @@
       "duration_ms": 181372,
       "name": "Stay Alive",
       "url": "https://open.spotify.com/track/1COWb4m8g8jY7fi3wXzo5b"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "criminal (A COLORS SHOW)",
-        "url": "https://open.spotify.com/album/2vtHb0aPw6c6PXrGeaNazY"
-      },
-      "artists": [
-        {
-          "name": "Nemahsis",
-          "url": "https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f"
-        }
-      ],
-      "duration_ms": 157186,
-      "name": "criminal",
-      "url": "https://open.spotify.com/track/311s3ffZ2YnoB5jCcUOgiN"
     }
   ],
   "unique_name": "Ballads International",

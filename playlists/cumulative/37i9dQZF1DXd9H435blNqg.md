@@ -4,7 +4,7 @@
 
 > A different shade of the blues\. Cover: Dan Auerbach
 
-154 songs - 8 hr 32 min
+155 songs - 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Somebody to Love \(Trust\)](https://open.spotify.com/track/7otWVTT2kHVAKkToJJaOJn) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Somebody to Love \(Trust\)](https://open.spotify.com/album/4V9uqHkiHQfMpt8gYDaGWg) | 3:02 | 2024-05-31 |  |
 | [South Gotta Change](https://open.spotify.com/track/4hDxqXmufOdDFlqnUqcamD) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [South Gotta Change](https://open.spotify.com/album/2fqnpucDvUPFqFTTn3MTiQ) | 3:45 | 2021-02-12 |  |
 | [Stay Wild](https://open.spotify.com/track/1fMrYWrnxIQcaO6suYfrVR) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Stay Wild](https://open.spotify.com/album/2EvSeHfsL1ZgP2U7CTmBRF) | 4:45 | 2021-02-19 |  |
+| [Stop Signs](https://open.spotify.com/track/2kkhEPxNDzd3dxUqONczys) | [Rett Smith](https://open.spotify.com/artist/5kUrt5kAUdhzM0trOQaVGA) | [A Weighted Remorse](https://open.spotify.com/album/06YeJ5pOcE75ZImaGvQRXi) | 2:17 | 2024-09-13 |  |
 | [Storm Came](https://open.spotify.com/track/4p1v9sQlYc8WXeYNAK33iW) | [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg), [Thomas Lindsey](https://open.spotify.com/artist/6HgqFc4JO1dbSw6oIqrdVi) | [Storm Came](https://open.spotify.com/album/0CkZRAEKBWKKTPbpsJpZzN) | 2:18 | 2021-02-12 |  |
 | [Surrender](https://open.spotify.com/track/4BfT2o6RDR3dOATt0e3XhR) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Shout Into The Noise](https://open.spotify.com/album/3HmSF21KTTO6dK3AxJpXps) | 3:36 | 2022-08-31 | 2023-11-18 |
 | [Surrender](https://open.spotify.com/track/6RyLEghWsRDVcDuRxDg2FN) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Shout Into The Noise](https://open.spotify.com/album/3xyQGSWqRqQGOe3tvz2t8t) | 3:36 | 2022-03-11 | 2022-11-23 |
@@ -142,7 +143,7 @@
 | [The Day Took My Sunshine Away](https://open.spotify.com/track/5ZAhCwTNmmcQTFB6GX1DCR) | [Howlin' Sun](https://open.spotify.com/artist/4BH1zbJ2HjPh8g3yrUEcTw) | [Howlin' Sun](https://open.spotify.com/album/2lWyPYPhVuPEd0fOTRHUwS) | 3:01 | 2021-02-12 |  |
 | [The Drop](https://open.spotify.com/track/4QDU4Wr9Jp0CRV2SaslhGv) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Ones to Keep Close](https://open.spotify.com/album/7v3pyxWeamgw2yhPj40CB0) | 3:16 | 2021-02-12 | 2023-06-24 |
 | [The Juice \(feat\. Marcus King\)](https://open.spotify.com/track/3NQ0Q9VSHzSwwlzFBey6QY) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [The Juice](https://open.spotify.com/album/66glD8iZgTv1vKXZRGQWXL) | 3:07 | 2021-02-12 | 2023-09-26 |
-| [The Streets](https://open.spotify.com/track/5NawOYMMhBtYX5zv1Fea8O) | [Beware Of Darkness](https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU) | [The Streets](https://open.spotify.com/album/5tjucbZZ4HhSKF5LPtfF0x) | 2:43 | 2024-01-12 |  |
+| [The Streets](https://open.spotify.com/track/5NawOYMMhBtYX5zv1Fea8O) | [Beware Of Darkness](https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU) | [The Streets](https://open.spotify.com/album/5tjucbZZ4HhSKF5LPtfF0x) | 2:43 | 2024-01-12 | 2024-09-14 |
 | [Them That Matter Don't Mind](https://open.spotify.com/track/078Ubk0ej7JTAph4R6NZbJ) | [Rehab](https://open.spotify.com/artist/1qh1aHXy7LRcb7eyriuJTS) | [Sand Castles](https://open.spotify.com/album/2jxO3hbH29uTJiGWx7BOpr) | 2:49 | 2022-02-25 | 2024-04-19 |
 | [Them That Matter Don't Mind](https://open.spotify.com/track/4MkZfEypSZvaODh7OKhKLK) | [Rehab](https://open.spotify.com/artist/1qh1aHXy7LRcb7eyriuJTS) | [Them That Matter Don't Mind](https://open.spotify.com/album/7M77ODabY87tVTnfnPLscn) | 2:49 | 2022-02-25 |  |
 | [Thinking 'Bout Myself \- Bluesfest Studio Sessions](https://open.spotify.com/track/08VaEnrwq3FjT6VqWCRipZ) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [The Bluesfest Studio Sessions](https://open.spotify.com/album/3cEaIQqDr4q8Y3hluMRXmA) | 2:56 | 2023-11-17 |  |

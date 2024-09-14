@@ -1,13 +1,33 @@
 {
   "description": "So fresh, so smooth. Cover: Boney James",
-  "num_followers": 65748,
+  "num_followers": 65781,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtFDwAAAAADPKq/rXrXVOgsMNC7FQrR7",
+  "snapshot_id": "ZuO4wAAAAACvReb+hXvcRGNB5F6yje4/",
   "tracks": [
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/54td2WbTNgtvvnOUY7CGdF"
+      },
+      "artists": [
+        {
+          "name": "Dave Koz",
+          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
+        },
+        {
+          "name": "Adam Hawley",
+          "url": "https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX"
+        }
+      ],
+      "duration_ms": 263895,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/6d4PdhxDEF9bJFZ74EVwTc"
+    },
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
@@ -1663,22 +1683,6 @@
       "duration_ms": 293026,
       "name": "Undulation",
       "url": "https://open.spotify.com/track/5iIWIbNwJRudKJfAzAD7YH"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "Love Is Everywhere",
-        "url": "https://open.spotify.com/album/16whuBxT0JiUKbQFKISVbA"
-      },
-      "artists": [
-        {
-          "name": "Ken Navarro",
-          "url": "https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a"
-        }
-      ],
-      "duration_ms": 228760,
-      "name": "A Little Kiss",
-      "url": "https://open.spotify.com/track/1ZVwUblLEKUAL18HYg9pFa"
     },
     {
       "added_at": "2023-04-14 04:01:00",

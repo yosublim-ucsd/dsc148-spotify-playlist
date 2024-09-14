@@ -1,12 +1,12 @@
 {
   "description": "This is Ali Farka Tour\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 20453,
+  "num_followers": 20457,
   "original_name": "This Is Ali Farka Tour\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuDdgAAAAACVCGyqxKvtpoPvO61aR/KI",
+  "snapshot_id": "ZuIvAAAAAADv+/Tr3LtmGteKv8cmDSOg",
   "tracks": [
     {
       "added_at": null,
@@ -563,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Niafunk\u00e9",
-        "url": "https://open.spotify.com/album/5saGS2llpHUO3TOoACcmRq"
+        "name": "The Source",
+        "url": "https://open.spotify.com/album/23iUQhvQuPIHPm3mv16Vf3"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 253226,
-      "name": "Instrumental",
-      "url": "https://open.spotify.com/track/2rMjklMFqee1PrJgGFWsm0"
+      "duration_ms": 239266,
+      "name": "I Go Ka",
+      "url": "https://open.spotify.com/track/1qK2abPM1HTX2tHFBgmk4T"
     },
     {
       "added_at": null,
@@ -595,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Source",
-        "url": "https://open.spotify.com/album/23iUQhvQuPIHPm3mv16Vf3"
+        "name": "Niafunk\u00e9",
+        "url": "https://open.spotify.com/album/5saGS2llpHUO3TOoACcmRq"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 239266,
-      "name": "I Go Ka",
-      "url": "https://open.spotify.com/track/1qK2abPM1HTX2tHFBgmk4T"
+      "duration_ms": 253226,
+      "name": "Instrumental",
+      "url": "https://open.spotify.com/track/2rMjklMFqee1PrJgGFWsm0"
     },
     {
       "added_at": null,
@@ -627,18 +627,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Niafunk\u00e9",
-        "url": "https://open.spotify.com/album/5saGS2llpHUO3TOoACcmRq"
+        "name": "The Secret",
+        "url": "https://open.spotify.com/album/0gGinv1UJ9R4wAPhimSjWc"
       },
       "artists": [
+        {
+          "name": "Vieux Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze"
+        },
         {
           "name": "Ali Farka Tour\u00e9",
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 197880,
-      "name": "Ali's Here",
-      "url": "https://open.spotify.com/track/0lZAIY21JP5g967jtaTnJA"
+      "duration_ms": 411013,
+      "name": "The Secret",
+      "url": "https://open.spotify.com/track/362JdradEO0cX5N7qYhkRE"
     },
     {
       "added_at": null,
@@ -663,22 +667,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Secret",
-        "url": "https://open.spotify.com/album/0gGinv1UJ9R4wAPhimSjWc"
+        "name": "Niafunk\u00e9",
+        "url": "https://open.spotify.com/album/5saGS2llpHUO3TOoACcmRq"
       },
       "artists": [
-        {
-          "name": "Vieux Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze"
-        },
         {
           "name": "Ali Farka Tour\u00e9",
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 411013,
-      "name": "The Secret",
-      "url": "https://open.spotify.com/track/362JdradEO0cX5N7qYhkRE"
+      "duration_ms": 271280,
+      "name": "Allah Uya",
+      "url": "https://open.spotify.com/track/1yYVh9P32dkDowxATzuwpM"
     },
     {
       "added_at": null,
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 271280,
-      "name": "Allah Uya",
-      "url": "https://open.spotify.com/track/1yYVh9P32dkDowxATzuwpM"
+      "duration_ms": 197880,
+      "name": "Ali's Here",
+      "url": "https://open.spotify.com/track/0lZAIY21JP5g967jtaTnJA"
     }
   ],
   "unique_name": "This Is Ali Farka Tour\u00e9",

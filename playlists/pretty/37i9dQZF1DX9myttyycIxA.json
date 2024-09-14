@@ -1,13 +1,141 @@
 {
-  "description": "Underground indie rock gems. Cover: GIFT",
-  "num_followers": 296867,
+  "description": "Underground indie rock gems. Cover: Lunar Vacation",
+  "num_followers": 296880,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Ztp+QAAAAABB6FvEnqv7bcsdeimYRXTr",
+  "snapshot_id": "ZuO4/AAAAABhmrbZsw/JoyPGC5nibNQQ",
   "tracks": [
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/5ZQ4dmoWks6hzaz5vFbXmJ"
+      },
+      "artists": [
+        {
+          "name": "Lunar Vacation",
+          "url": "https://open.spotify.com/artist/7EEefVBNBS3ckwouEl62oB"
+        }
+      ],
+      "duration_ms": 287226,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/4cakGDwEb3ZTUQRB66xesd"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "Crow",
+        "url": "https://open.spotify.com/album/2AauhD5l1BdFLBQ1JCBvEp"
+      },
+      "artists": [
+        {
+          "name": "Merce Lemon",
+          "url": "https://open.spotify.com/artist/4u2LxHDBsFDH3J9NumXSCH"
+        }
+      ],
+      "duration_ms": 209695,
+      "name": "Crow",
+      "url": "https://open.spotify.com/track/7y6kIW8xd0hhuAba5hJl3M"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "Anything For You",
+        "url": "https://open.spotify.com/album/0j0SSAXrwFQBxI9Jhldf0u"
+      },
+      "artists": [
+        {
+          "name": "Jordana",
+          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
+        }
+      ],
+      "duration_ms": 264889,
+      "name": "Anything For You",
+      "url": "https://open.spotify.com/track/6JvHxvfCf0741MWTExGMAm"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Her",
+        "url": "https://open.spotify.com/album/3YsLlWQ9dzG0dFQQZO1jEv"
+      },
+      "artists": [
+        {
+          "name": "The American Dawn",
+          "url": "https://open.spotify.com/artist/3EXC0gkpntFvtLS1R0yf11"
+        }
+      ],
+      "duration_ms": 214086,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/2vlkTkPqdATznKHu9gD2c1"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "One Trick Pony",
+        "url": "https://open.spotify.com/album/1KhofP4ipotqMjlrfpjDnk"
+      },
+      "artists": [
+        {
+          "name": "Ally Evenson",
+          "url": "https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y"
+        }
+      ],
+      "duration_ms": 180053,
+      "name": "One Trick Pony",
+      "url": "https://open.spotify.com/track/12EVjWV5YBZ4kCLa1XQPnb"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "Vanessa",
+        "url": "https://open.spotify.com/album/4yCJhJkZte90keIPfN6ZyA"
+      },
+      "artists": [
+        {
+          "name": "Midwife",
+          "url": "https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa"
+        }
+      ],
+      "duration_ms": 397226,
+      "name": "Vanessa",
+      "url": "https://open.spotify.com/track/7lFRoZgi23jaHgEpQcD1JJ"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "my anti-aircraft friend",
+        "url": "https://open.spotify.com/album/14SJbJMseOJ2W8HlWLwNgJ"
+      },
+      "artists": [
+        {
+          "name": "julie",
+          "url": "https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW"
+        }
+      ],
+      "duration_ms": 253373,
+      "name": "feminine adornments",
+      "url": "https://open.spotify.com/track/4fDS9pq0XjGyv2GlQgxgbO"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "Shirt",
+        "url": "https://open.spotify.com/album/2Z3KozCg7LVVLSEE0yXUod"
+      },
+      "artists": [
+        {
+          "name": "Porches",
+          "url": "https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek"
+        }
+      ],
+      "duration_ms": 161833,
+      "name": "Bread Believer",
+      "url": "https://open.spotify.com/track/3ZyMkTinkvEAfQhj1cSzDG"
+    },
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
@@ -41,20 +169,20 @@
       "url": "https://open.spotify.com/track/66I7THcYkEzMlKWzCE6x7b"
     },
     {
-      "added_at": "2024-08-30 04:00:00",
+      "added_at": "2024-09-13 04:01:00",
       "album": {
-        "name": "Her",
-        "url": "https://open.spotify.com/album/3YsLlWQ9dzG0dFQQZO1jEv"
+        "name": "Goodnight",
+        "url": "https://open.spotify.com/album/7b36EZTVmhCUoSle6mFEux"
       },
       "artists": [
         {
-          "name": "The American Dawn",
-          "url": "https://open.spotify.com/artist/3EXC0gkpntFvtLS1R0yf11"
+          "name": "Being Dead",
+          "url": "https://open.spotify.com/artist/3EFae6NKxawpxdiZDQPqp8"
         }
       ],
-      "duration_ms": 214086,
-      "name": "Her",
-      "url": "https://open.spotify.com/track/2vlkTkPqdATznKHu9gD2c1"
+      "duration_ms": 216876,
+      "name": "Goodnight",
+      "url": "https://open.spotify.com/track/0yegKxyOhlLcmdDZy9FCWu"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -489,20 +617,52 @@
       "url": "https://open.spotify.com/track/60cyilVfq8s2pkA2jv82Fq"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Some Kind of Angel / Split Lip",
-        "url": "https://open.spotify.com/album/0fwNIDQweUkRYQZf4CsuMw"
+        "name": "Sick Sweet",
+        "url": "https://open.spotify.com/album/6L6seQappAQPbm2rf0YZRb"
       },
       "artists": [
         {
-          "name": "Georgia Gets By",
-          "url": "https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9"
+          "name": "Wishy",
+          "url": "https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe"
         }
       ],
-      "duration_ms": 274838,
-      "name": "Some Kind of Angel",
-      "url": "https://open.spotify.com/track/1Hmj8zqZaub8poKxtDcaef"
+      "duration_ms": 196440,
+      "name": "Sick Sweet",
+      "url": "https://open.spotify.com/track/4nWJkUQsbhL411zU29VNYK"
+    },
+    {
+      "added_at": "2024-06-11 18:38:03",
+      "album": {
+        "name": "Rocky Top Ballads",
+        "url": "https://open.spotify.com/album/55FiMoQX3KBZo5hawtpofc"
+      },
+      "artists": [
+        {
+          "name": "Fine",
+          "url": "https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5"
+        }
+      ],
+      "duration_ms": 297470,
+      "name": "A/B",
+      "url": "https://open.spotify.com/track/6uYxmyVvwe1uWkS7hQkMxg"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Perfect Hand",
+        "url": "https://open.spotify.com/album/1VR9eQWnhFBKrD5eEUFggr"
+      },
+      "artists": [
+        {
+          "name": "This Is Lorelei",
+          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
+        }
+      ],
+      "duration_ms": 248535,
+      "name": "Perfect Hand",
+      "url": "https://open.spotify.com/track/59Eh3SJgXdmytbvm7SejXz"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -585,6 +745,22 @@
       "url": "https://open.spotify.com/track/0u0E9hMPj5BVf33BEN4HjR"
     },
     {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Suntub",
+        "url": "https://open.spotify.com/album/6IjtDhIvMy3I8xORtWAVax"
+      },
+      "artists": [
+        {
+          "name": "ML Buch",
+          "url": "https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC"
+        }
+      ],
+      "duration_ms": 228600,
+      "name": "Flames shards goo",
+      "url": "https://open.spotify.com/track/03vUSQpYEQryhvhI4VUsqb"
+    },
+    {
       "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "don't want u to die",
@@ -635,38 +811,6 @@
       "duration_ms": 157874,
       "name": "tell me feat. Kississippi",
       "url": "https://open.spotify.com/track/1jlrgAUhb2GTGSkqMmoKuJ"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Backyard Lover",
-        "url": "https://open.spotify.com/album/3sp3hZrdzuJhePyY76mlAg"
-      },
-      "artists": [
-        {
-          "name": "Merce Lemon",
-          "url": "https://open.spotify.com/artist/4u2LxHDBsFDH3J9NumXSCH"
-        }
-      ],
-      "duration_ms": 328348,
-      "name": "Backyard Lover",
-      "url": "https://open.spotify.com/track/4WWfv1skKJIFfIQ8nMrdPz"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Sick Sweet",
-        "url": "https://open.spotify.com/album/6L6seQappAQPbm2rf0YZRb"
-      },
-      "artists": [
-        {
-          "name": "Wishy",
-          "url": "https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe"
-        }
-      ],
-      "duration_ms": 196440,
-      "name": "Sick Sweet",
-      "url": "https://open.spotify.com/track/4nWJkUQsbhL411zU29VNYK"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -785,46 +929,6 @@
       "url": "https://open.spotify.com/track/5qXO90zyTU5Ch5aI9j0uzf"
     },
     {
-      "added_at": "2024-07-08 16:53:01",
-      "album": {
-        "name": "Good at Love",
-        "url": "https://open.spotify.com/album/4ZSanG1REArpIJZWVcU199"
-      },
-      "artists": [
-        {
-          "name": "Paige Stark",
-          "url": "https://open.spotify.com/artist/1WH9zGefYnqp8IafH0qL0H"
-        },
-        {
-          "name": "Jon Brion",
-          "url": "https://open.spotify.com/artist/57YJQe0ayvIaRZJ3PW5nFP"
-        },
-        {
-          "name": "Cherry Glazerr",
-          "url": "https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg"
-        }
-      ],
-      "duration_ms": 280597,
-      "name": "Zombie Brain Drain",
-      "url": "https://open.spotify.com/track/6PSAt4wBVluHaXy4KVwCq4"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Perfect Hand",
-        "url": "https://open.spotify.com/album/1VR9eQWnhFBKrD5eEUFggr"
-      },
-      "artists": [
-        {
-          "name": "This Is Lorelei",
-          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
-        }
-      ],
-      "duration_ms": 248535,
-      "name": "Perfect Hand",
-      "url": "https://open.spotify.com/track/59Eh3SJgXdmytbvm7SejXz"
-    },
-    {
       "added_at": "2024-07-12 04:00:00",
       "album": {
         "name": "The Good Ship Lifestyle",
@@ -939,22 +1043,6 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "Gisele",
-        "url": "https://open.spotify.com/album/7zjshQXoSi0kLZthi6Rq8I"
-      },
-      "artists": [
-        {
-          "name": "Willa Mae",
-          "url": "https://open.spotify.com/artist/2YHWH5dyiNRD04RsbhA8Fn"
-        }
-      ],
-      "duration_ms": 264566,
-      "name": "Gisele",
-      "url": "https://open.spotify.com/track/6LbE5nm9kC0vd783eOgXb5"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
         "name": "Berlin",
         "url": "https://open.spotify.com/album/0LcsjflfoYtr5eqAKE1ReW"
       },
@@ -967,38 +1055,6 @@
       "duration_ms": 163986,
       "name": "Berlin",
       "url": "https://open.spotify.com/track/5kLJXrh3JISuYxAdeUe0wp"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Suntub",
-        "url": "https://open.spotify.com/album/6IjtDhIvMy3I8xORtWAVax"
-      },
-      "artists": [
-        {
-          "name": "ML Buch",
-          "url": "https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC"
-        }
-      ],
-      "duration_ms": 228600,
-      "name": "Flames shards goo",
-      "url": "https://open.spotify.com/track/03vUSQpYEQryhvhI4VUsqb"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
-        "name": "Don't Let Me Down Easy",
-        "url": "https://open.spotify.com/album/2c6huLgcVNejsRn2Od7m9d"
-      },
-      "artists": [
-        {
-          "name": "Majak Door",
-          "url": "https://open.spotify.com/artist/07T4q3baUiO1NImfuaAwid"
-        }
-      ],
-      "duration_ms": 227866,
-      "name": "Don't Let Me Down Easy",
-      "url": "https://open.spotify.com/track/2umQiMeWlzfSYN2NgldIUY"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1015,22 +1071,6 @@
       "duration_ms": 283688,
       "name": "Affinity",
       "url": "https://open.spotify.com/track/1ZKX3dKAhJd35RmEGPug1Y"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Ecig",
-        "url": "https://open.spotify.com/album/3egipHAXK3exglLBf0Fs31"
-      },
-      "artists": [
-        {
-          "name": "Dutch Interior",
-          "url": "https://open.spotify.com/artist/7a0nCvxmDN4c68agh8ajMn"
-        }
-      ],
-      "duration_ms": 366946,
-      "name": "Ecig",
-      "url": "https://open.spotify.com/track/4s2jY1IybI3jhgw8ybldlX"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1081,22 +1121,6 @@
       "url": "https://open.spotify.com/track/2YHd2jXLdvSL6Cfnw8URHO"
     },
     {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "I'm Tired of This Place but There's Nowhere Left to Go",
-        "url": "https://open.spotify.com/album/7tiqshVNoHlW6yf9JAu00f"
-      },
-      "artists": [
-        {
-          "name": "canless valley",
-          "url": "https://open.spotify.com/artist/4Px3YntOJS8Ba8uxa0ppIj"
-        }
-      ],
-      "duration_ms": 166041,
-      "name": "I'm Tired of This Place but There's Nowhere Left to Go",
-      "url": "https://open.spotify.com/track/6O4M7m4IJm2dl3M4iKqxaR"
-    },
-    {
       "added_at": "2024-06-14 04:00:00",
       "album": {
         "name": "Change",
@@ -1127,22 +1151,6 @@
       "duration_ms": 312413,
       "name": "Born In Early May",
       "url": "https://open.spotify.com/track/62RtrW0grZ2EUF3FetcbOK"
-    },
-    {
-      "added_at": "2024-06-11 18:38:03",
-      "album": {
-        "name": "Rocky Top Ballads",
-        "url": "https://open.spotify.com/album/55FiMoQX3KBZo5hawtpofc"
-      },
-      "artists": [
-        {
-          "name": "Fine",
-          "url": "https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5"
-        }
-      ],
-      "duration_ms": 297470,
-      "name": "A/B",
-      "url": "https://open.spotify.com/track/6uYxmyVvwe1uWkS7hQkMxg"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1223,22 +1231,6 @@
       "duration_ms": 168598,
       "name": "Sweet Lilac",
       "url": "https://open.spotify.com/track/4AvzyTw47aX8JW04H33O1i"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Love On The Outside",
-        "url": "https://open.spotify.com/album/3B9HjAh429LhGc19K0hue7"
-      },
-      "artists": [
-        {
-          "name": "Wishy",
-          "url": "https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe"
-        }
-      ],
-      "duration_ms": 238773,
-      "name": "Love On The Outside",
-      "url": "https://open.spotify.com/track/3jl676aK6eGkmcQxizfPRh"
     },
     {
       "added_at": "2024-04-12 04:00:00",

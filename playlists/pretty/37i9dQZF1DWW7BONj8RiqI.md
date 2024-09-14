@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 
 > The Soca hits we all love from back then til right now\. Cover: Machel Montano
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,704 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,785 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 34 | [Shake The Place](https://open.spotify.com/track/6UrcpxooHisuiZHZUa6cwU) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [Shake The Place](https://open.spotify.com/album/65c1V16fkcckC4BmhHKQVm) | 3:47 |
 | 35 | [Vent](https://open.spotify.com/track/4NRJJgLr3fC9PFIvMs3E2R) | [Teddyson John](https://open.spotify.com/artist/228J5DyE0af9Z5I5ojm0Fp), [International Stephen](https://open.spotify.com/artist/66q1BiIjgYt2BAK8BOg0Y6) | [Vent](https://open.spotify.com/album/37VNibWW91ZQfBCtCS9BIc) | 3:45 |
 | 36 | [Ola](https://open.spotify.com/track/4zqFb7uP9rcYmrg5sjxzp3) | [Olatunji](https://open.spotify.com/artist/04pf773tnBOux7gJaH108H) | [Awakening](https://open.spotify.com/album/57CnbcO4WG5ZhmR41jpUmB) | 3:06 |
-| 37 | [Ducking](https://open.spotify.com/track/7gqSZgikcMKqE9c0tFlLys) | [Fadda Fox](https://open.spotify.com/artist/52wGOFV1AYyda1VRjsb5wK) | [Studio B Presents Crop Over Hits 2014](https://open.spotify.com/album/7zsFeGklNhWIn0PClwtBEt) | 3:53 |
+| 37 | [Big Bad Soca](https://open.spotify.com/track/2ObK7AEuXZmOv8h5WKSjj1) | [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [Turn Up](https://open.spotify.com/album/5sVwvzUuoIESKU5uOBlNZo) | 2:40 |
 | 38 | [Monster Winer](https://open.spotify.com/track/3bZaDC1VEb1YpIpWu8ks5H) | [Kerwin Du Bois](https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA), [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [King Bubba Mashup Volume 1](https://open.spotify.com/album/5LnZJFfnBfjKfdDEiYPRo2) | 2:39 |
-| 39 | [Big Bad Soca](https://open.spotify.com/track/2ObK7AEuXZmOv8h5WKSjj1) | [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [Turn Up](https://open.spotify.com/album/5sVwvzUuoIESKU5uOBlNZo) | 2:40 |
+| 39 | [Ducking](https://open.spotify.com/track/7gqSZgikcMKqE9c0tFlLys) | [Fadda Fox](https://open.spotify.com/artist/52wGOFV1AYyda1VRjsb5wK) | [Studio B Presents Crop Over Hits 2014](https://open.spotify.com/album/7zsFeGklNhWIn0PClwtBEt) | 3:53 |
 | 40 | [Anxiety](https://open.spotify.com/track/1u2lFfwvfAeqsxIsB5AEeX) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [Anxiety](https://open.spotify.com/album/6W7sCrkEdeoBuiZOdL0Fzq) | 3:40 |
 | 41 | [Pump Me Up](https://open.spotify.com/track/2Y5HQolNeqkwFXokC0ANta) | [Krosfyah](https://open.spotify.com/artist/3uQVuPVfmrKurJ95xoL5DA) | [Ultimate Party \- Pump Me Up](https://open.spotify.com/album/5Js10UyFFBh7Zpiw8pWzy3) | 4:45 |
 | 42 | [Engine Room](https://open.spotify.com/track/34PxcvkeNjwzad9j08HkYC) | [Olatunji](https://open.spotify.com/artist/04pf773tnBOux7gJaH108H) | [Engine Room](https://open.spotify.com/album/5rPvmGPFkDqEfHlRg6AqBO) | 3:21 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 81 | [Woman By My Side](https://open.spotify.com/track/4yF8SCRZcXYrwrd6DDjoOu) | [Peter Ram](https://open.spotify.com/artist/7xUZfFcaiX4osJ4wGmpqjQ) | [Soca Gold 2007](https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm) | 4:39 |
 | 82 | [Rukshun](https://open.spotify.com/track/2CXUEF8Ao6dPllVJC3so3C) | [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng) | [Darkseid Riddim](https://open.spotify.com/album/6jCLEXGfOXFLggNEXuSfpX) | 2:37 |
 | 83 | [Sak Pasé](https://open.spotify.com/track/0kR3Ffq9YANdfXyhTV47hP) | [Krosfyah](https://open.spotify.com/artist/3uQVuPVfmrKurJ95xoL5DA), [Edwin Yearwood](https://open.spotify.com/artist/0QL8EzrRciKCQ9LUy1ZbMe), [Khiomal Nurse](https://open.spotify.com/artist/7qvcDCo5D5so7VA5hGzSUE) | [Kool Under Fire](https://open.spotify.com/album/3i7t7sE9W4VIuw14Jmx6Yp) | 4:23 |
-| 84 | [Look Back](https://open.spotify.com/track/3uU6YtcCzVCSNZf1GILbqK) | [Boogy Rankss](https://open.spotify.com/artist/2QHmjFlStzFVsLeXo4nfth), [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng) | [Look Back](https://open.spotify.com/album/1Jd5fzgBFj1pAudc2AOdVP) | 2:31 |
-| 85 | [Out and Bad](https://open.spotify.com/track/2ycagZcHEqX3rPC44TIf5P) | [Voice](https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds) | [Out and Bad](https://open.spotify.com/album/3yOplnxQdhPRwwv2IXH9kJ) | 3:24 |
+| 84 | [Out and Bad](https://open.spotify.com/track/2ycagZcHEqX3rPC44TIf5P) | [Voice](https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds) | [Out and Bad](https://open.spotify.com/album/3yOplnxQdhPRwwv2IXH9kJ) | 3:24 |
+| 85 | [Look Back](https://open.spotify.com/track/3uU6YtcCzVCSNZf1GILbqK) | [Boogy Rankss](https://open.spotify.com/artist/2QHmjFlStzFVsLeXo4nfth), [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng) | [Look Back](https://open.spotify.com/album/1Jd5fzgBFj1pAudc2AOdVP) | 2:31 |
 | 86 | [Hall of Fame](https://open.spotify.com/track/1fOEsuhzqsvMyAtXiQIUyl) | [Mical Teja](https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu) | [Hall of Fame](https://open.spotify.com/album/22GpOUbiqmiZSuK8wnLvYB) | 3:37 |
 | 87 | [Workey Workey](https://open.spotify.com/track/7qBspj3xcFx2kzud2FRsRj) | [Burning Flames](https://open.spotify.com/artist/6PmJXOr7O4EZkds2bQuOTv) | [Dig](https://open.spotify.com/album/1MrOvx0Tefrl1AHvbF5JXC) | 5:35 |
 | 88 | [Leh Go](https://open.spotify.com/track/0QMMShvfoWeOZeJ7cFd5ck) | [Blaxx](https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM) | [Soca Future Riddim](https://open.spotify.com/album/71tQ5QyzHeepktxNLW4Xbm) | 3:23 |

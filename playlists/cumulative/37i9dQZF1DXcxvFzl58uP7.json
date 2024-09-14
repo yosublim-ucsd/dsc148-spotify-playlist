@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-30",
-  "description": "Dreamy melodies and hushed vocals. Cover: Clairo",
+  "description": "Dreamy melodies and hushed vocals. Cover: Men I Trust",
   "name": "Bedroom Pop",
   "tracks": [
     {
@@ -6748,7 +6748,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 221120,
       "name": "gum v6.4",
       "url": "https://open.spotify.com/track/3Lq2kHLszAS0KzfH39NI1a"
@@ -7644,6 +7644,24 @@
       "duration_ms": 201690,
       "name": "Huron Disko",
       "url": "https://open.spotify.com/track/56Ydhy30ogSmTKTyDxcirY"
+    },
+    {
+      "album": {
+        "name": "Husk",
+        "url": "https://open.spotify.com/album/13KxV6ezroXhAW7sPEG6QS"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204651,
+      "name": "Husk",
+      "url": "https://open.spotify.com/track/0iMSUfh4oQplV5OrmrlIbm"
     },
     {
       "album": {

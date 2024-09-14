@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: TJ DTS",
+  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Lost",
   "name": "Rap qu\u00e9b",
   "tracks": [
     {
@@ -122,7 +122,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 202197,
       "name": "20 Benz",
       "url": "https://open.spotify.com/track/36HjmuPWCb5OJ991fwA4c8"
@@ -2565,6 +2565,24 @@
     },
     {
       "album": {
+        "name": "Ceci n'est pas une chanson triste",
+        "url": "https://open.spotify.com/album/7oJcVkwvFeRpLXABS2FZuX"
+      },
+      "artists": [
+        {
+          "name": "Souldia",
+          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230320,
+      "name": "Ceci n'est pas une chanson triste",
+      "url": "https://open.spotify.com/track/4vFsK1nytpiiq0pT6m1dQ3"
+    },
+    {
+      "album": {
         "name": "Cercle Vicieux",
         "url": "https://open.spotify.com/album/4uKG6vs1F0Y84CZOyP2CZm"
       },
@@ -2698,6 +2716,28 @@
       "duration_ms": 183693,
       "name": "Chez la Psy",
       "url": "https://open.spotify.com/track/18wG7Ag5wdZ98So8R4yRT0"
+    },
+    {
+      "album": {
+        "name": "Bonhomme Pendu 4 (Chapitre Perdu)",
+        "url": "https://open.spotify.com/album/5JWAUtRoJ0Lp2PLy7cn4it"
+      },
+      "artists": [
+        {
+          "name": "Lost",
+          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
+        },
+        {
+          "name": "Manu Militari",
+          "url": "https://open.spotify.com/artist/5hCqDsqqIaYbJhWoZ0JhaE"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232106,
+      "name": "Chez moi",
+      "url": "https://open.spotify.com/track/6sLrf1TQv9cR8oJaDfkaUe"
     },
     {
       "album": {
@@ -3968,7 +4008,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 143589,
       "name": "DOUBLE F",
       "url": "https://open.spotify.com/track/15mTyJg97PpR5GS6MOvVyw"
@@ -4720,7 +4760,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 156693,
       "name": "Fausse note",
       "url": "https://open.spotify.com/track/7dUPnQNR1RydSLVtSwXPAK"
@@ -5414,6 +5454,24 @@
       "duration_ms": 274386,
       "name": "Gaz au fond",
       "url": "https://open.spotify.com/track/3ahYEYoP0voboULlwJH8Fx"
+    },
+    {
+      "album": {
+        "name": "GENERAL FINESSE FREESTYLE",
+        "url": "https://open.spotify.com/album/2CEZwsIJ6Eu5D6CHScYhZh"
+      },
+      "artists": [
+        {
+          "name": "Rowjay",
+          "url": "https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143673,
+      "name": "GENERAL FINESSE FREESTYLE",
+      "url": "https://open.spotify.com/track/5NgnOkOSKphYngPzkx4wlQ"
     },
     {
       "album": {
@@ -6856,6 +6914,24 @@
       "duration_ms": 188807,
       "name": "JOLIE",
       "url": "https://open.spotify.com/track/3k12fBG7wbMpAvDgOdoDll"
+    },
+    {
+      "album": {
+        "name": "June",
+        "url": "https://open.spotify.com/album/3RTNMOpBYxZqtdlU64gMIa"
+      },
+      "artists": [
+        {
+          "name": "LaF",
+          "url": "https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138666,
+      "name": "June",
+      "url": "https://open.spotify.com/track/6Vo5ENxOavBnY9xANmMqi7"
     },
     {
       "album": {
@@ -9780,7 +9856,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 188000,
       "name": "OT",
       "url": "https://open.spotify.com/track/76rRiFvribZwYZZplhYnWv"
@@ -9952,6 +10028,28 @@
       "duration_ms": 176000,
       "name": "Papercuts",
       "url": "https://open.spotify.com/track/4A2b6v9CmNJsNfykZqawDk"
+    },
+    {
+      "album": {
+        "name": "Bonhomme Pendu 4 (Chapitre Perdu)",
+        "url": "https://open.spotify.com/album/5JWAUtRoJ0Lp2PLy7cn4it"
+      },
+      "artists": [
+        {
+          "name": "Lost",
+          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
+        },
+        {
+          "name": "Dinos",
+          "url": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238595,
+      "name": "Parades Photos",
+      "url": "https://open.spotify.com/track/7wc9odIwuIGgPnRpEHEd5B"
     },
     {
       "album": {
@@ -13944,7 +14042,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 183821,
       "name": "Way Too Long",
       "url": "https://open.spotify.com/track/7Iz74b76qfdNOBOyVegHv2"

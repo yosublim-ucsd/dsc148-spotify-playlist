@@ -1546,7 +1546,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 235365,
       "name": "Bring You Down",
       "url": "https://open.spotify.com/track/0aI0CjHskW0LhHVSIoNXET"
@@ -5010,7 +5010,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 213605,
       "name": "Hungover Again",
       "url": "https://open.spotify.com/track/2Fav608uXaDE1F5sTtBKSH"
@@ -8473,6 +8473,28 @@
     },
     {
       "album": {
+        "name": "Postcards From Texas",
+        "url": "https://open.spotify.com/album/2c12Spm8XcLAT2xYtQdgGK"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        },
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183242,
+      "name": "Santa Fe",
+      "url": "https://open.spotify.com/track/12AEBgTTELBhtAthd5dRqH"
+    },
+    {
+      "album": {
         "name": "Border Radio",
         "url": "https://open.spotify.com/album/0dXxHFUV0SNhMjvCEBaUfG"
       },
@@ -11284,6 +11306,24 @@
       "duration_ms": 310173,
       "name": "what else can she do",
       "url": "https://open.spotify.com/track/77fOA740BCuAkclGxQUuEP"
+    },
+    {
+      "album": {
+        "name": "What Kinda Man",
+        "url": "https://open.spotify.com/album/53HiQCmdwiT4e7SHX74XdM"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259022,
+      "name": "What Kinda Man",
+      "url": "https://open.spotify.com/track/2K6T1iKa7coghsISspjPv8"
     },
     {
       "album": {

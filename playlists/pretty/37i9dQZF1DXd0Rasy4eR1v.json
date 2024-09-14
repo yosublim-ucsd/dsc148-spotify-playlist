@@ -787,6 +787,26 @@
     {
       "added_at": "2024-09-12 05:55:50",
       "album": {
+        "name": "Faasley",
+        "url": "https://open.spotify.com/album/0HthZKGQ3adVX0tonwgOEJ"
+      },
+      "artists": [
+        {
+          "name": "The Skinny guy",
+          "url": "https://open.spotify.com/artist/7eYjyf17V4zqV4fN1oYBMX"
+        },
+        {
+          "name": "Jayyke",
+          "url": "https://open.spotify.com/artist/1ARdtExcPBhLoGwsI959Kw"
+        }
+      ],
+      "duration_ms": 229673,
+      "name": "Faasley",
+      "url": "https://open.spotify.com/track/2at6ZuQzPIp058oHDqRznT"
+    },
+    {
+      "added_at": "2024-09-12 05:55:50",
+      "album": {
         "name": "moonlight",
         "url": "https://open.spotify.com/album/6vKWjgUMdrKXR3ULMlWmxj"
       },

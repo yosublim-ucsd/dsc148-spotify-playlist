@@ -1,29 +1,13 @@
 {
   "description": "Estas son las grandes voces del Hip Hop. Foto: Tres Coronas",
-  "num_followers": 21150,
+  "num_followers": 21157,
   "original_name": "Los Gallos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtqMFAAAAABGZRKu4Ygs7JDQ/pqNiQ+Z",
+  "snapshot_id": "ZuQYJAAAAACLKsqqi9hykLsi+kuf5/wk",
   "tracks": [
-    {
-      "added_at": "2024-09-06 04:59:00",
-      "album": {
-        "name": "Mixtape Remix",
-        "url": "https://open.spotify.com/album/4XiFkOXtaJpruodj7vV6sW"
-      },
-      "artists": [
-        {
-          "name": "Tres Coronas",
-          "url": "https://open.spotify.com/artist/5kROocD0ED0BYdVo7tJrSe"
-        }
-      ],
-      "duration_ms": 280673,
-      "name": "Falsedades",
-      "url": "https://open.spotify.com/track/0iIjgyZqFQdBeQUe8FRGDo"
-    },
     {
       "added_at": "2024-09-06 04:59:00",
       "album": {
@@ -49,24 +33,36 @@
       "url": "https://open.spotify.com/track/22JYKMt5XrcRQO0dzY5fwE"
     },
     {
-      "added_at": "2024-09-06 04:59:00",
+      "added_at": "2024-09-13 10:47:00",
       "album": {
-        "name": "Un Pelito y Un Tamal",
-        "url": "https://open.spotify.com/album/69d8lxsfANufzR41UZThPM"
+        "name": "Le dec\u00edan que no pod\u00eda",
+        "url": "https://open.spotify.com/album/78PzqEJVrRaKmjHoXdOHdv"
       },
       "artists": [
         {
           "name": "Penyair",
           "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
-        },
-        {
-          "name": "dj spizike",
-          "url": "https://open.spotify.com/artist/24k3vSCXZUr1KNu8DbvQGm"
         }
       ],
-      "duration_ms": 126383,
-      "name": "Un Pelito y Un Tamal",
-      "url": "https://open.spotify.com/track/3EPHagMulVWYwuefchltK6"
+      "duration_ms": 184000,
+      "name": "Le dec\u00edan que no pod\u00eda",
+      "url": "https://open.spotify.com/track/1H74BSIoJD0Usb5Boyocsl"
+    },
+    {
+      "added_at": "2024-09-06 04:59:00",
+      "album": {
+        "name": "Mixtape Remix",
+        "url": "https://open.spotify.com/album/4XiFkOXtaJpruodj7vV6sW"
+      },
+      "artists": [
+        {
+          "name": "Tres Coronas",
+          "url": "https://open.spotify.com/artist/5kROocD0ED0BYdVo7tJrSe"
+        }
+      ],
+      "duration_ms": 280673,
+      "name": "Falsedades",
+      "url": "https://open.spotify.com/track/0iIjgyZqFQdBeQUe8FRGDo"
     },
     {
       "added_at": "2024-09-06 04:59:00",
@@ -109,6 +105,22 @@
       "url": "https://open.spotify.com/track/39Pw6j6Sd5J9qZv6aPO3WQ"
     },
     {
+      "added_at": "2024-09-13 10:47:00",
+      "album": {
+        "name": "M\u00fasica de Contrabando",
+        "url": "https://open.spotify.com/album/2p2oh2pAEte4dB5B7pXOTM"
+      },
+      "artists": [
+        {
+          "name": "LosPetitFellas",
+          "url": "https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv"
+        }
+      ],
+      "duration_ms": 273397,
+      "name": "M\u00fasica de Contrabando",
+      "url": "https://open.spotify.com/track/3Kp1DsZ4o4tqldlmrr1BQE"
+    },
+    {
       "added_at": "2024-09-06 04:59:00",
       "album": {
         "name": "Micelio",
@@ -123,6 +135,26 @@
       "duration_ms": 169756,
       "name": "Iluminado",
       "url": "https://open.spotify.com/track/6H5ZBKu4vPBdnW9JFkncMQ"
+    },
+    {
+      "added_at": "2024-09-06 04:59:00",
+      "album": {
+        "name": "Un Pelito y Un Tamal",
+        "url": "https://open.spotify.com/album/69d8lxsfANufzR41UZThPM"
+      },
+      "artists": [
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        },
+        {
+          "name": "dj spizike",
+          "url": "https://open.spotify.com/artist/24k3vSCXZUr1KNu8DbvQGm"
+        }
+      ],
+      "duration_ms": 126383,
+      "name": "Un Pelito y Un Tamal",
+      "url": "https://open.spotify.com/track/3EPHagMulVWYwuefchltK6"
     },
     {
       "added_at": "2024-09-06 04:59:00",
@@ -267,34 +299,6 @@
     {
       "added_at": "2024-09-06 04:59:00",
       "album": {
-        "name": "Oriente",
-        "url": "https://open.spotify.com/album/3Ff4w8X4dQwai5Lg8IFDOA"
-      },
-      "artists": [
-        {
-          "name": "El Nido",
-          "url": "https://open.spotify.com/artist/4nRaAYkADMj7ATnd0hn7CF"
-        },
-        {
-          "name": "Fiallo",
-          "url": "https://open.spotify.com/artist/6E2JHtKCvri7P7vWK7CzCc"
-        },
-        {
-          "name": "Munozzz",
-          "url": "https://open.spotify.com/artist/5pF08t8ERA9GuK5dvnC1oB"
-        },
-        {
-          "name": "Barrasdereptil",
-          "url": "https://open.spotify.com/artist/4KPi82w20lGQ5ndqNxkZ4k"
-        }
-      ],
-      "duration_ms": 276521,
-      "name": "Oriente",
-      "url": "https://open.spotify.com/track/1m7420tu0giLnbu2LQ98y0"
-    },
-    {
-      "added_at": "2024-09-06 04:59:00",
-      "album": {
         "name": "Dual",
         "url": "https://open.spotify.com/album/1R1W9HadK0whSF7tO01ER3"
       },
@@ -407,22 +411,6 @@
       "duration_ms": 193043,
       "name": "Sudaca en el Rooftop",
       "url": "https://open.spotify.com/track/3S7C1d8Y3zkL2VUxjDdWhO"
-    },
-    {
-      "added_at": "2024-09-06 04:59:00",
-      "album": {
-        "name": "Mi Ni\u00f1a Interna",
-        "url": "https://open.spotify.com/album/7eVUusGrkkd83KsIFQtlYN"
-      },
-      "artists": [
-        {
-          "name": "La Farmakos",
-          "url": "https://open.spotify.com/artist/1rRwWqd4q5AZP4BXbhoRlO"
-        }
-      ],
-      "duration_ms": 242288,
-      "name": "Mi Ni\u00f1a Interna",
-      "url": "https://open.spotify.com/track/0BRrzzqKS97IXzwANDFxFv"
     },
     {
       "added_at": "2024-09-06 04:59:00",

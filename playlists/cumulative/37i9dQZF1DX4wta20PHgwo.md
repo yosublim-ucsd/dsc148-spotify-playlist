@@ -4,7 +4,7 @@
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-480 songs - 1 day 19 hr 47 min
+481 songs - 1 day 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/4bRNH9mxHDszZGskpBFhPq) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Bob Brookmeyer](https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN) | [Recorded Fall '61](https://open.spotify.com/album/5QtowGE69geuScDtDeGltr) | 6:59 | 2020-05-02\* | 2021-03-23 |
 | [Abeyance](https://open.spotify.com/track/6RR3VWktMxEjW95tE4B9H8) | [Caris Hermes](https://open.spotify.com/artist/23PTKxQtsIL4Z9AZsNabz0) | [Abeyance](https://open.spotify.com/album/0B2KIoa9OpRydCNaOP5p50) | 6:54 | 2022-08-29 |  |
 | [Ack Värmeland, Du Sköna](https://open.spotify.com/track/29oS97LA4iW2EZA6Hxob1u) | [Art Roho](https://open.spotify.com/artist/6irgTihe067FUGoHDzd3mC), [Hannes Bennich](https://open.spotify.com/artist/0hwjFY1MfwrXK9Xjog9dET) | [Art Roho Serving Hannes Bennich](https://open.spotify.com/album/1qXhq2C2TDetoWkja1hDvA) | 4:12 | 2023-06-20 | 2024-04-19 |
-| [Ack Värmeland, Du Sköna](https://open.spotify.com/track/7yPwVv5eIzLAV6wlb5b5bn) | [Art Roho](https://open.spotify.com/artist/6irgTihe067FUGoHDzd3mC), [Hannes Bennich](https://open.spotify.com/artist/0hwjFY1MfwrXK9Xjog9dET) | [Ack Värmeland, Du Sköna](https://open.spotify.com/album/23GS4EbBw1rT3dxxauCBjz) | 4:12 | 2023-02-23 |  |
+| [Ack Värmeland, Du Sköna](https://open.spotify.com/track/7yPwVv5eIzLAV6wlb5b5bn) | [Art Roho](https://open.spotify.com/artist/6irgTihe067FUGoHDzd3mC), [Hannes Bennich](https://open.spotify.com/artist/0hwjFY1MfwrXK9Xjog9dET) | [Ack Värmeland, Du Sköna](https://open.spotify.com/album/23GS4EbBw1rT3dxxauCBjz) | 4:12 | 2023-02-23 | 2024-09-14 |
 | [Adventure Of A Lifetime](https://open.spotify.com/track/4OiYyeJ4pxrcufdqLLxnAV) | [Marcell](https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk) | [This Is Not Jazz](https://open.spotify.com/album/2pdW1q8PwPIwx2SXHLNyzB) | 4:59 | 2020-05-02\* | 2021-08-20 |
 | [Afflicted](https://open.spotify.com/track/56wFHooGMqGDkEW9KggC8f) | [Jonas Sorgenfrei](https://open.spotify.com/artist/1R9MlzmbWcHVOFcs2HUvTN), [Denis Gäbel](https://open.spotify.com/artist/1D6hUykxz5eOqzOmk1rtn0), [Peter Christof](https://open.spotify.com/artist/6JZ4grvAbG2rYVEQ9AUfh4) | [Afflicted](https://open.spotify.com/album/4v06oJOfNl5gZ6nOjb33VA) | 4:21 | 2022-03-25 |  |
 | [Alfie](https://open.spotify.com/track/3kyRABq5NomwUwGpqVqecM) | [Antonio Zambrini](https://open.spotify.com/artist/6TW82eCj0y0x0l5lyP77RL), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Martin Maretti Andersen](https://open.spotify.com/artist/1pjHY4vNthS2YoK8R4Ty0G) | [Quietly](https://open.spotify.com/album/4aNDswPAhlIuuz6jzhKieO) | 8:19 | 2023-05-25 | 2024-04-19 |
@@ -288,6 +288,7 @@
 | [Nocturno](https://open.spotify.com/track/5DHU96HUvat8gddLT8IhFO) | [ARTEMIS](https://open.spotify.com/artist/7kjwuPH9RX2FaR1R0Tde4W) | [ARTEMIS](https://open.spotify.com/album/2NHS9RKnUaFqVU13hHgDAP) | 5:27 | 2020-09-12 |  |
 | [Oblique Two\-Step](https://open.spotify.com/track/02McZ2EWQf34IsdK8P3FjB) | [Le Boeuf Brothers](https://open.spotify.com/artist/4CKGMKn8tVtZOjILTE2Uc7) | [Oblique Two\-Step](https://open.spotify.com/album/0mbTP0QGR7WRF7bDkYelW6) | 3:40 | 2023-08-03 |  |
 | [Of Our Children](https://open.spotify.com/track/0Er3yzZ0wnpToUIuYc9Rzi) | [Verneri Pohjola](https://open.spotify.com/artist/601yt0lWcEE1vS1bzAPwSX) | [Monkey Mind](https://open.spotify.com/album/3rwh0JR9Y8UYoEJi8U7ulO) | 6:00 | 2023-12-06 |  |
+| [Office Party Music](https://open.spotify.com/track/7CQzimsY5qxGkRXVaYkcUW) | [Walter Smith III](https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b) | [Office Party Music](https://open.spotify.com/album/55KuwnjdlmkjUDM1adx1pZ) | 4:22 | 2024-09-13 |  |
 | [Old Ballad For Hawk](https://open.spotify.com/track/4Sz591Jq6KpuWT7QiChF79) | [Andrew Rathbun](https://open.spotify.com/artist/4TvpnNUi8RXqHR6drFUalx) | [Semantics](https://open.spotify.com/album/6DtFw78eERNlr0JlAjuzWZ) | 8:21 | 2022-09-15 |  |
 | [Old Folks](https://open.spotify.com/track/1pfckgGedZWa6JGNhAWdOI) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [Old Folks](https://open.spotify.com/album/74XZhsk5g0Mm6Pf7vX6VuT) | 5:50 | 2023-08-18 | 2024-09-09 |
 | [Old Folks](https://open.spotify.com/track/42Xv2whNPhZtJv9z0DvyVA) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [Paris](https://open.spotify.com/album/0or0gacjz3Rx1mTw4DrVnX) | 5:50 | 2023-10-06 | 2023-10-23 |

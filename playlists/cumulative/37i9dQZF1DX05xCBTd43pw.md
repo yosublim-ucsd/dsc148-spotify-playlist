@@ -4,7 +4,7 @@
 
 > Grüezi! This is 100% made in Switzerland.
 
-104 songs - 5 hr 8 min
+107 songs - 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,13 +21,14 @@
 | [bad times](https://open.spotify.com/track/72hh4nkhvz4iC6mXpJZ9oL) | [Julia Alexa](https://open.spotify.com/artist/0Tw99NzcM3Y2t7Q2q88Xss) | [bad times](https://open.spotify.com/album/47I2gUQL7qdI0iYfY5DNxo) | 3:03 | 2024-06-27 | 2024-07-14 |
 | [Beautiful Day](https://open.spotify.com/track/24m4OLGaRuelACY0k1SbqP) | [Gil Glaze](https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V) | [Beautiful Day](https://open.spotify.com/album/7m3bKbUMuXUsACiThMLwHy) | 3:05 | 2024-06-27 | 2024-09-07 |
 | [Best I Can Do](https://open.spotify.com/track/0Tu3El3HOpkbD18g5sqw7t) | [DANA](https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr) | [Best I Can Do](https://open.spotify.com/album/04QmZasEti9O75l6JrjPFc) | 3:10 | 2024-08-19 | 2024-08-30 |
+| [Bird](https://open.spotify.com/track/7H16kWPboswDLyH76lHpIA) | [Gabriel Benedek](https://open.spotify.com/artist/0BBZxotcIVnEEPhjA4iSiu) | [Waves & Wishes](https://open.spotify.com/album/1UrgZCspl0lQQU6NSZDZ7m) | 2:52 | 2024-09-13 |  |
 | [Body](https://open.spotify.com/track/1ucysYifutlHvdhT3wPH09) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Body](https://open.spotify.com/album/2XFkhBjRO8elEtoZovNbjg) | 2:19 | 2024-06-27 |  |
 | [Botanical Garden](https://open.spotify.com/track/7bx7MDIg8p098HHmsJebzl) | [Anna Erhard](https://open.spotify.com/artist/11OTiI6xYGpLxS3aoVkI9e) | [Botanical Garden](https://open.spotify.com/album/7bcLaytbnuWJCfqa2JdyBc) | 3:08 | 2024-06-27 | 2024-08-21 |
 | [Boys Do Cry](https://open.spotify.com/track/5A3JxIX04W5Ttu6Rxy5tWW) | [Marius Bear](https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb) | [Boys Do Cry](https://open.spotify.com/album/1PA9VlnwgXGN0W7K5YnkoI) | 2:56 | 2024-06-27 |  |
 | [Butterflies](https://open.spotify.com/track/5kdUm7nOGQs006nNNFxnAL) | [Jared Lembo](https://open.spotify.com/artist/7m40p3LDka0BxsiX0tZT9g) | [Butterflies](https://open.spotify.com/album/7LqoKNNpnPoNr9UUkB15cb) | 2:27 | 2024-09-06 |  |
 | [C:K:C](https://open.spotify.com/track/0EYSzxTPgTIDErmid8Jatk) | [IKAN HYU](https://open.spotify.com/artist/1kcgm5pRULbDb5gs7kDRNK) | [C:K:C](https://open.spotify.com/album/7chcPzPRIeFfAwi3Y2Vaxd) | 3:04 | 2024-09-06 |  |
 | [Call Me in L.A.](https://open.spotify.com/track/0AQa2zcUia32ZfDTUqL617) | [Bastian Baker](https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC) | [Stories of the XXI](https://open.spotify.com/album/5nGM72Vr3X2zq1bqxtC6GG) | 2:55 | 2024-06-27 | 2024-07-05 |
-| [Can't Be Loved](https://open.spotify.com/track/69H5EfyNRLIKd0WAPNQr0T) | [Bastian Baker](https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC) | [Can't Be Loved](https://open.spotify.com/album/5YmdC1mjV30uWAUfqT8uQo) | 2:51 | 2024-06-27 |  |
+| [Can't Be Loved](https://open.spotify.com/track/69H5EfyNRLIKd0WAPNQr0T) | [Bastian Baker](https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC) | [Can't Be Loved](https://open.spotify.com/album/5YmdC1mjV30uWAUfqT8uQo) | 2:51 | 2024-06-27 | 2024-09-14 |
 | [Champions](https://open.spotify.com/track/1stHdQgmNNeuVMjKlpobVs) | [Pegasus](https://open.spotify.com/artist/6IWxOu9w3PtIpLa7A178ad) | [Champions](https://open.spotify.com/album/0ojmsZGPDsKXQRYtua7bhT) | 2:32 | 2024-06-27 |  |
 | [Colorblind](https://open.spotify.com/track/7KOPqGFvR7m7TVRPuHSN6A) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Colorblind](https://open.spotify.com/album/2sWFFkdTvfXKd60zupdNN3) | 3:02 | 2024-06-27 |  |
 | [copypaste](https://open.spotify.com/track/7m9WgSEUPIgSxT6f7wL3U0) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [copypaste](https://open.spotify.com/album/5nv4OeXH8BGqmAYMnsqROB) | 3:20 | 2024-08-09 | 2024-08-24 |
@@ -39,7 +40,7 @@
 | [Du kriegst mich nicht zurück](https://open.spotify.com/track/2yPmT3WjYGFtqn9NqiejjB) | [Faber](https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM) | [Du kriegst mich nicht zurück](https://open.spotify.com/album/4cxJotBAgV0ZOmROIezp6k) | 3:27 | 2024-06-27 | 2024-08-15 |
 | [Ehrlich](https://open.spotify.com/track/2CpYkZOMP8Xmac4akYnAxF) | [Baschi](https://open.spotify.com/artist/6XzAV5lONpTgoSJDsF2Ubz) | [Ehrlich](https://open.spotify.com/album/3SxtFi80kNDFfnjSHBoZe3) | 3:50 | 2024-06-27 |  |
 | [Enough](https://open.spotify.com/track/7pIhoo6Uhq6V4PEaovfL8R) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Enough](https://open.spotify.com/album/47lM2GIRs74NcP4lTAECvk) | 3:30 | 2024-07-15 |  |
-| [Fire](https://open.spotify.com/track/7odcXBYFpT2gzYBWBrKRlo) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [Fire](https://open.spotify.com/album/1hgAohjAQrlGl43jp3gipc) | 2:15 | 2024-06-27 |  |
+| [fire](https://open.spotify.com/track/7odcXBYFpT2gzYBWBrKRlo) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [fire](https://open.spotify.com/album/1hgAohjAQrlGl43jp3gipc) | 2:15 | 2024-06-27 |  |
 | [Flight Mode](https://open.spotify.com/track/2jWdBRug5Q4jtYEA4xGHP5) | [Chiara Castelli](https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33) | [Flight Mode](https://open.spotify.com/album/1b3uUquOhMNhm95lPI48Fo) | 2:30 | 2024-06-27 | 2024-09-07 |
 | [For The Night](https://open.spotify.com/track/7kJvHYzLeRzerTJdsR8HPR) | [Argyle](https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg), [NAVENI](https://open.spotify.com/artist/6SKl45GZWlPXXiRgAP9Kmg) | [For The Night](https://open.spotify.com/album/0IwnFtcplQN6d7PBctCIpw) | 2:37 | 2024-06-27 |  |
 | [For You](https://open.spotify.com/track/4cwymvMH81iHgtQJsq12z1) | [ZIAN](https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J) | [For You](https://open.spotify.com/album/6Rutg4L3Or3wdZgmH4muOV) | 2:47 | 2024-06-27 |  |
@@ -62,6 +63,7 @@
 | [If You Call](https://open.spotify.com/track/5tdBQ0p32owQEMryTSaP1w) | [MARYNE](https://open.spotify.com/artist/2JmyyU2PFaGv5e5zRLNCQr) | [If You Call](https://open.spotify.com/album/1JopgK1F9sJM1ddlPz51Ol) | 2:25 | 2024-06-27 | 2024-07-05 |
 | [Julia](https://open.spotify.com/track/6CTHHyCpJqqZiHQ8IdTKX3) | [Andryy](https://open.spotify.com/artist/7EOSMyuCedHppuXhVBsbEP) | [Julia](https://open.spotify.com/album/59GWFnfxZuC00B708ZeKvk) | 3:14 | 2024-06-27 |  |
 | [Just Like I Love You](https://open.spotify.com/track/7z5EIeDKgPukdh3sve82xJ) | [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg), [Stefanie Heinzmann](https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5) | [Libertad](https://open.spotify.com/album/0oqpXtuxUCEbiIXnauFbXw) | 3:21 | 2024-06-27 | 2024-09-12 |
+| [Kale Juice](https://open.spotify.com/track/7xJ0Lpz7f3LNWDpRyOzbzo) | [DANA](https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr) | [Teary\-Eyed](https://open.spotify.com/album/0mIPQTtZphFbz2dghvqxa4) | 2:38 | 2024-09-13 |  |
 | [King Bed](https://open.spotify.com/track/4EQ9AIMWgeGIjxGiLKbZl0) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [King Bed](https://open.spotify.com/album/17uh7gY4QxzY3gcwQ7SFkI) | 2:40 | 2024-06-27 |  |
 | [Kiss Me in the Morning](https://open.spotify.com/track/29QgJyRmOh5J6vx6oXl1Co) | [Marius Bear](https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb) | [Kiss Me in the Morning](https://open.spotify.com/album/0Z1SeJgduMYHUHThMpMNEc) | 3:27 | 2024-06-27 | 2024-07-12 |
 | [Kompliment](https://open.spotify.com/track/38okoOwbE4iBF7fK9lbz1O) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Kompliment](https://open.spotify.com/album/2NUERsJFzukrqAtbw2bhdG) | 2:45 | 2024-06-27 |  |
@@ -79,13 +81,14 @@
 | [Only One I Need](https://open.spotify.com/track/3KjEAu1W14nGLCNA52ib3Q) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Only One I Need](https://open.spotify.com/album/5yjLnFizgrGtPGdzLjpOgz) | 2:26 | 2024-06-27 |  |
 | [Over](https://open.spotify.com/track/6oblIFG6oGnTH2b1qeERnO) | [Anna Rossinelli](https://open.spotify.com/artist/6sRFCFH0UWtnfvKtzZk42X) | [Over](https://open.spotify.com/album/2D6qLRICcR35S5O2c6qCEp) | 3:02 | 2024-06-27 | 2024-08-20 |
 | [Pirdutu cori](https://open.spotify.com/track/0xzcU8WQaCaigkEkR5suY8) | [Faber](https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM), [Pippo Pollina](https://open.spotify.com/artist/5npjIDoA8dath4yVEVmKhZ) | [Pirdutu cori](https://open.spotify.com/album/7x3SSmmPtAK4VgiksNvJBD) | 3:39 | 2024-06-27 | 2024-07-16 |
+| [Playlist](https://open.spotify.com/track/3m6xu2uUr8jS9w0VT2rGsI) | [Remady](https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc), [Justin J\. Moore](https://open.spotify.com/artist/5a3lC3q5ngxoZVcIf1nryN) | [Playlist](https://open.spotify.com/album/1z4X7CYqMG5c1NkNDk0hiK) | 2:31 | 2024-09-13 |  |
 | [rabbit holes](https://open.spotify.com/track/1DIwckc1SPLX99Z0WdNGGi) | [Milune](https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe) | [rabbit holes](https://open.spotify.com/album/3phEbmy3JlzoSijThN3gzE) | 3:36 | 2024-06-27 |  |
 | [Ready For It All](https://open.spotify.com/track/0oIlZ9KBMQnhHOw9uFAJm8) | [Remady](https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc), [Amanda Wilson](https://open.spotify.com/artist/5w282f2wMOeeIGJGN4Pmd1) | [Ready For It All](https://open.spotify.com/album/5wNuexzZN13IT8t76ajew8) | 2:32 | 2024-06-27 |  |
 | [Remind Me \(feat\. Amanda Collis\) \- Radio Edit](https://open.spotify.com/track/1RLbLGxjESkAspZVcAJtev) | [Gil Glaze](https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V), [Amanda Collis](https://open.spotify.com/artist/2RXmfgMl9V8akCT4wzTyE9) | [Remind Me \(feat\. Amanda Collis\) \[Radio Edit\]](https://open.spotify.com/album/3zWmOFP23qGMU82VObTE16) | 3:07 | 2024-07-04 | 2024-07-23 |
 | [Rhythm Of The Unknown](https://open.spotify.com/track/6MEwcrixWzNWHrZ8H5Se4C) | [Dominic Strike](https://open.spotify.com/artist/022hDFiSTA1SSbykVp8D09) | [Rhythm Of The Unknown](https://open.spotify.com/album/3oNfvvqzDF1pMJpuNSkdog) | 2:44 | 2024-07-04 | 2024-08-10 |
 | [Rollen in den Norden](https://open.spotify.com/track/6azpoZEIlXsc4SkmfcOskn) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Rollen in den Norden](https://open.spotify.com/album/1nD5KpzwWkHiJPKZMH273C) | 2:30 | 2024-06-27 |  |
 | [Runaway](https://open.spotify.com/track/4SemVHStVzeOBprnKQ3ADo) | [Ellu](https://open.spotify.com/artist/4O3D4tbVH9zs2lCQd1D51B) | [Runaway](https://open.spotify.com/album/0F00CHsYzsEIYuVK8GjYu6) | 2:35 | 2024-07-04 | 2024-08-02 |
-| [Sauvage](https://open.spotify.com/track/45GjmzkcuWflHGLuNJPCDv) | [Julie Meletta](https://open.spotify.com/artist/6dtKZZx0OeZgjHzrTLm8z1) | [Sauvage](https://open.spotify.com/album/4wBXS39epHlWGL54qZ5kCL) | 2:57 | 2024-08-26 |  |
+| [Sauvage](https://open.spotify.com/track/45GjmzkcuWflHGLuNJPCDv) | [Julie Meletta](https://open.spotify.com/artist/6dtKZZx0OeZgjHzrTLm8z1) | [Sauvage](https://open.spotify.com/album/4wBXS39epHlWGL54qZ5kCL) | 2:57 | 2024-08-26 | 2024-09-14 |
 | [Scorpio](https://open.spotify.com/track/02mBTUzWaTyUQAvoJZ1470) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [WHERE WERE YOU ?!](https://open.spotify.com/album/5YbEYcrhyGVXIRZtxuKRkb) | 2:29 | 2024-09-06 |  |
 | [she calls me daddy](https://open.spotify.com/track/12ZuYk6Tx3BMQIaDW6fNHI) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [she calls me daddy](https://open.spotify.com/album/52dHlZgYvDv9BVaISE95hQ) | 2:29 | 2024-07-19 |  |
 | [silver lining](https://open.spotify.com/track/157bHCMNAFksytHKaXNgZC) | [The Gardener & The Tree](https://open.spotify.com/artist/1GarejqGHyKM1adTFnB4NN) | [silver lining](https://open.spotify.com/album/6LOE2JZwyGJwYm7rWsI3A5) | 3:42 | 2024-06-27 |  |
@@ -111,6 +114,6 @@
 | [We Got Love](https://open.spotify.com/track/6o2HzZfazmewxdXpYufWRx) | [Chiara Castelli](https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33) | [We Got Love](https://open.spotify.com/album/2KBis9Of82TXR9ZDtwGrpL) | 2:20 | 2024-06-27 | 2024-08-30 |
 | [Where Were You](https://open.spotify.com/track/0wQX5IoDmttPaz7imkbrCQ) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Where Were You](https://open.spotify.com/album/4gNbqvaLePlFJDme8TfKeG) | 2:42 | 2024-08-19 |  |
 | [Zeilen für dich](https://open.spotify.com/track/79jLtzgfJDXcEbMiTGzOUV) | [Luca Hänni](https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ) | [Zeilen für dich](https://open.spotify.com/album/4aKndM39CDDcGyx1wBYx4P) | 3:17 | 2024-06-27 | 2024-08-12 |
-| [Zoot](https://open.spotify.com/track/1QCf5EvUGZnEGVI888MHa9) | [Lisa Oribasi](https://open.spotify.com/artist/1waNCj8NsTBTb1WzOPkTyR) | [Somewhere IDK](https://open.spotify.com/album/0b3OWKTpkrhVx2qtSb9rgu) | 2:48 | 2024-08-29 |  |
+| [Zoot](https://open.spotify.com/track/1QCf5EvUGZnEGVI888MHa9) | [Lisa Oribasi](https://open.spotify.com/artist/1waNCj8NsTBTb1WzOPkTyR) | [Somewhere IDK](https://open.spotify.com/album/0b3OWKTpkrhVx2qtSb9rgu) | 2:48 | 2024-08-29 | 2024-09-14 |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "The best new electronic music. Cover: Moonbootica",
-  "num_followers": 663768,
+  "num_followers": 663916,
   "original_name": "Electronic Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuNkYAAAAABu6SYAlB8Shfy9mpn1Z2SO",
+  "snapshot_id": "ZuNkYAAAAABqmPHJPmDQ67D68fV5XxmJ",
   "tracks": [
     {
       "added_at": "2024-09-12 22:00:00",
@@ -664,6 +664,10 @@
           "url": "https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ"
         },
         {
+          "name": "Tony Duardo",
+          "url": "https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z"
+        },
+        {
           "name": "Rampa",
           "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
         },
@@ -769,7 +773,7 @@
         }
       ],
       "duration_ms": 233203,
-      "name": "Lift Me Up",
+      "name": "Lift Me Up (feat. Kyozo)",
       "url": "https://open.spotify.com/track/0IxBytxMiyOhfK8yvonEPp"
     },
     {

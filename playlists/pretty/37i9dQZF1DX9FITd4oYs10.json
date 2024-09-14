@@ -1,6 +1,6 @@
 {
   "description": "Os brabos do hip hop nacional. Foto: Racionais MCs",
-  "num_followers": 17934,
+  "num_followers": 17935,
   "original_name": "Cole\u00e7\u00e3o Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2024-08-16 20:28:24",
       "album": {
+        "name": "No Dia dos Nossos",
+        "url": "https://open.spotify.com/album/2ILJXCzaY4IehhFye20PMu"
+      },
+      "artists": [
+        {
+          "name": "Coruja Bc1",
+          "url": "https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO"
+        }
+      ],
+      "duration_ms": 164166,
+      "name": "NDDN",
+      "url": "https://open.spotify.com/track/0XlWJ5zP4hZ2ynsLIJYXaW"
+    },
+    {
+      "added_at": "2024-08-16 20:28:24",
+      "album": {
         "name": "Poesia Ac\u00fastica #3: Capricorniana",
         "url": "https://open.spotify.com/album/7nB1rBbEkEVdEt29DGgAfV"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 430296,
       "name": "Poesia Ac\u00fastica #3: Capricorniana",
       "url": "https://open.spotify.com/track/1YUWhlQjFv7MQpcbb77zTL"
-    },
-    {
-      "added_at": "2024-08-16 20:28:24",
-      "album": {
-        "name": "No Dia dos Nossos",
-        "url": "https://open.spotify.com/album/2ILJXCzaY4IehhFye20PMu"
-      },
-      "artists": [
-        {
-          "name": "Coruja Bc1",
-          "url": "https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO"
-        }
-      ],
-      "duration_ms": 164166,
-      "name": "NDDN",
-      "url": "https://open.spotify.com/track/0XlWJ5zP4hZ2ynsLIJYXaW"
     },
     {
       "added_at": "2024-08-16 20:28:24",

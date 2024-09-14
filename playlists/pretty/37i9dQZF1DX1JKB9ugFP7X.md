@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JKB9ugFP7X.md) - [plain]
 
 > Lo mejor del pop electrónico en español.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,138 likes - 95 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,137 likes - 95 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JKB9ugFP7X.md) - [plain]
 | 31 | [I SEE U LATER](https://open.spotify.com/track/4wEnEUyAyluBTAskEb96YU) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [I SEE U LATER](https://open.spotify.com/album/7qhmOz5dZGhmcRfB0izeNl) | 3:25 |
 | 32 | [Shock \(feat\. Kabasaki\)](https://open.spotify.com/track/0aHZqxYvut2l9cqJ73VrpK) | [Ceaese](https://open.spotify.com/artist/580taoAhpqvyGCRoJsVdw9), [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p), [Fuka](https://open.spotify.com/artist/5TyQ1yXiSsZxrJHrL5kFmZ), [Kabasaki](https://open.spotify.com/artist/4rO00pQq33bIv73QyJdivX) | [Shock \(feat\. Kabasaki\)](https://open.spotify.com/album/3Bz8QogW92aM0p6YkXwqsp) | 2:47 |
 | 33 | [Club de Fans de John Boy](https://open.spotify.com/track/04bVV45KVRvd1h0hfLqRjQ) | [Love of Lesbian](https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [Club de Fans de John Boy](https://open.spotify.com/album/0AX6fEdcmURGqUXk5DDf9Y) | 3:38 |
-| 34 | [Espantapájaros](https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [La Perla](https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp) | [Espantapájaros](https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg) | 2:52 |
-| 35 | [Ganadora](https://open.spotify.com/track/3neJo4FkVszaL4EEt18uKR) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [ANNA Vol1\. LOS AMANTES](https://open.spotify.com/album/3FBYpRzAkNEMXSqGx9N3rv) | 4:56 |
+| 34 | [Ganadora](https://open.spotify.com/track/3neJo4FkVszaL4EEt18uKR) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [ANNA Vol1\. LOS AMANTES](https://open.spotify.com/album/3FBYpRzAkNEMXSqGx9N3rv) | 4:56 |
+| 35 | [Espantapájaros](https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [La Perla](https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp) | [Espantapájaros](https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg) | 2:52 |
 | 36 | [PARA AFUERA](https://open.spotify.com/track/6d0vMjFXHK2GkM7DOnwL5h) | [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [PARA AFUERA](https://open.spotify.com/album/7aQXo5nVGDCxkW2oOwDXv9) | 2:34 |
 | 37 | [La Casa del Amor Nocturno](https://open.spotify.com/track/6yi1h8v5YumwpW0wvWJFZs) | [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Maquillada en la Cama](https://open.spotify.com/album/5ifD7wxAIFjtABihB3YBQ9) | 5:01 |
 | 38 | [la noche de ayer](https://open.spotify.com/track/7aSmfvPckOTRr0AJ3rmCCF) | [chicarica](https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN) | [la noche de ayer](https://open.spotify.com/album/4e31Xo3NfTRxm9TdVgw4DR) | 4:15 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JKB9ugFP7X.md) - [plain]
 | 90 | [Noche de Vampiros](https://open.spotify.com/track/4D6XViAmoJGuz6SqPOP0me) | [Trashu](https://open.spotify.com/artist/36LxoJzKgytSD3TWMN54vY) | [Noche de Vampiros](https://open.spotify.com/album/2T2TvM0TON3sdK0TOofI5n) | 3:05 |
 | 91 | [Sombras en la Pared \- Vivo Buenos Aires](https://open.spotify.com/track/22y9nKZDxQu7tgPwkeHPqW) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Peces Raros \(Vivo Buenos Aires\)](https://open.spotify.com/album/4JeBmwhPxwCmyT7nCjO5yZ) | 5:10 |
 | 92 | [Ficción](https://open.spotify.com/track/19ql2PoaEn31alAgeIpsp1) | [Varese](https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg) | [Ficción](https://open.spotify.com/album/7kqvgYRCFIHjRTEXnVjSWW) | 3:21 |
-| 93 | [Bajo Cero](https://open.spotify.com/track/1mjlaPR2l2yZPo9dPZXYOH) | [Sussie 4](https://open.spotify.com/artist/62r23J4b195KwCZIpRB2Jb), [Vita Set](https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy) | [Bajo Cero](https://open.spotify.com/album/0OktFVarxQjgAlYrwCI1S7) | 4:03 |
-| 94 | [Te quiero ver](https://open.spotify.com/track/5bVEYK9UQf4ow5RMU296Qj) | [Fernanda Elío](https://open.spotify.com/artist/3fWL42NNnFgoXDTgVfWVrK) | [Después De Ti](https://open.spotify.com/album/2O8B8Y5bKAiimKnNU0p7OT) | 2:24 |
+| 93 | [Te quiero ver](https://open.spotify.com/track/5bVEYK9UQf4ow5RMU296Qj) | [Fernanda Elío](https://open.spotify.com/artist/3fWL42NNnFgoXDTgVfWVrK) | [Después De Ti](https://open.spotify.com/album/2O8B8Y5bKAiimKnNU0p7OT) | 2:24 |
+| 94 | [Circular](https://open.spotify.com/track/21Rw3bEHD9hdwDIpD3BaWk) | [Dani Umpi](https://open.spotify.com/artist/1KYLoFQ7Cwm4eOHruB5OMI) | [Guazatumba](https://open.spotify.com/album/63nVyKVXvnLNnVR6x3mlxC) | 3:49 |
 | 95 | [Lucidez](https://open.spotify.com/track/1d9Y8VhQKy03r996XabxX8) | [Antonia Navarro](https://open.spotify.com/artist/1xmUtLnSPwuJOVGB5kZwSt) | [Lucidez](https://open.spotify.com/album/1XZRNnQ1dcp59OJrq5DtUD) | 6:11 |
 
 Snapshot ID: `Zsf7MAAAAADxngeQDCxgpqCbYD8Cm/AL`

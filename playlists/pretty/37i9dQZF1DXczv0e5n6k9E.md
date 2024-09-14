@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: Ivan Greko, Arab
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,530 likes - 60 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,531 likes - 60 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 13 | [BOSSIDONAS 2](https://open.spotify.com/track/7ynfPeRJrOVXXIbprUOBcA) | [Bossikan](https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM), [Roi 6/12](https://open.spotify.com/artist/1yBH6dqnD6xzSeCjXp9pKm) | [ALEQUAN](https://open.spotify.com/album/18ZNsVDZpZC9xyi7eAmvPl) | 2:49 |
 | 14 | [DRIFTERS](https://open.spotify.com/track/24Id88lGXLgMtHL7HMUAdg) | [TAFF](https://open.spotify.com/artist/7sqEbHUwpaJTFqLv8e0W0J), [Don Salva](https://open.spotify.com/artist/2B07rkNvWrYxV4Ieh7F3Ls), [Retro](https://open.spotify.com/artist/09E3lzgW2TIZZaDAB2y4nb), [Evan Spikes](https://open.spotify.com/artist/6p5qNRLXkVrmKVRPMaL6qP) | [TURBO DELUXE](https://open.spotify.com/album/2QLCEk7JTunODh25ZYrE88) | 2:37 |
 | 15 | [FANTA](https://open.spotify.com/track/6wx0UEozv6e3X16awO0BCS) | [DIFF](https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK), [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a) | [FANTA](https://open.spotify.com/album/28Z5ChSUUkD9xuUjy9xuBq) | 2:33 |
-| 16 | [Verano](https://open.spotify.com/track/1iyeUhzobrowCtTwKf4BrY) | [Kimi](https://open.spotify.com/artist/6uhMFybh7MnkaBS2EgyzNw), [Dirty Harry](https://open.spotify.com/artist/7BXe1v4YJm7R5wg2ioeA1q), [Echο](https://open.spotify.com/artist/3gJkEpmd7y2TsfAnyTGSTK) | [Verano](https://open.spotify.com/album/2eUmAm9rSyQtjXHLP3Cdas) | 3:15 |
+| 16 | [Verano](https://open.spotify.com/track/1iyeUhzobrowCtTwKf4BrY) | [Kimi](https://open.spotify.com/artist/6uhMFybh7MnkaBS2EgyzNw), [Dirty Harry](https://open.spotify.com/artist/7BXe1v4YJm7R5wg2ioeA1q), [Echo](https://open.spotify.com/artist/0JfrxGQOdnHYZWBAtzPezD) | [Verano](https://open.spotify.com/album/2eUmAm9rSyQtjXHLP3Cdas) | 3:15 |
 | 17 | [KOPRITIS](https://open.spotify.com/track/26iieiRiqhzXfBquk8sm6N) | [Bossikan](https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM), [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu) | [ALEQUAN](https://open.spotify.com/album/18ZNsVDZpZC9xyi7eAmvPl) | 2:44 |
 | 18 | [CASABLANCA](https://open.spotify.com/track/04QQKADf45xNvlgJHC9nvO) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [Franklin WWT](https://open.spotify.com/artist/2wn1GEkgU8x5i1fstfxog4), [Rvchet](https://open.spotify.com/artist/6ITj5WewzBmhbCBS1jxY75) | [CASABLANCA](https://open.spotify.com/album/7e42PdTgxPdTnL8UJEc9BD) | 3:13 |
 | 19 | [AIORA](https://open.spotify.com/track/67GZhMIBqNdPbwmcQGO7eF) | [Lobo](https://open.spotify.com/artist/2bI0N9ztQb3L6e9DIMdMuC), [Mente Fuerte](https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH), [Giorgos Orfanidis](https://open.spotify.com/artist/6V6g5uJVLdrOUO9LLqMawh) | [AIORA](https://open.spotify.com/album/5sidwkMrq3BGtdevCxebKz) | 3:04 |

@@ -4,7 +4,7 @@
 
 > Country rap hits of today and tomorrow.
 
-140 songs - 7 hr 35 min
+141 songs - 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Lifted](https://open.spotify.com/track/3CsdmO3Uh0qqlIli1wvnjM) | [Alexander King](https://open.spotify.com/artist/5hvNjGBoEkn4ENKwDvtouW), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Rosap](https://open.spotify.com/album/02UEIpucuJMIqjifFgCh8c) | 4:04 | 2023-03-17 |  |
 | [Live For The Moment](https://open.spotify.com/track/6bxDIFhdLKpeyGo0PBIz4w) | [Dusty Leigh](https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr), [Haystak](https://open.spotify.com/artist/1Cv4OTcRrMvpUqKQftW88M), [Kevin Cummings](https://open.spotify.com/artist/5CreTojV18Ps5Bl4AOn5Nh) | [9\-5 or 20\-Life](https://open.spotify.com/album/4Zk61choxayZFVg3qIk7DL) | 3:13 | 2023-03-17 |  |
 | [Long Bumpy Road \(feat\. SMO\) \- Remix](https://open.spotify.com/track/7mHQvybBKPU8U2q1WVhj0j) | [Chris Hosier](https://open.spotify.com/artist/1ZyPVE0wXLVuEGEYpoFx22), [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9) | [Paving My Way](https://open.spotify.com/album/6XgqbPax3lypTi5EikNsMA) | 5:46 | 2023-03-17 |  |
+| [Mean to Me](https://open.spotify.com/track/1KWlTxF4TufdT8ZwYSycFB) | [David Morris](https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW) | [Mean to Me](https://open.spotify.com/album/6GINNflvXMjf3xZ8s5WJa0) | 3:38 | 2024-09-13 |  |
 | [Muddy](https://open.spotify.com/track/4qb4wG8VNxKxQQy3HdAopk) | [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9), [Mistah Rain](https://open.spotify.com/artist/6rkxDE9aRVteWGmmKgGaTW) | [Muddy](https://open.spotify.com/album/4js5x9TY7azY4YBOJDNc9W) | 2:42 | 2023-05-26 |  |
 | [MY OWN MONEY](https://open.spotify.com/track/1qOmYTWUS1trxKF0bZ5v3B) | [Big Trip](https://open.spotify.com/artist/2yeVrazRuzFil3kWThZPG4), [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi) | [MY OWN MONEY](https://open.spotify.com/album/6THzyV04Up6gaRRUq2Jel5) | 2:01 | 2024-09-06 |  |
 | [My Truck](https://open.spotify.com/track/6jGyDvL1Rf4XfwTb25o1HN) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [BRELAND EP](https://open.spotify.com/album/61oSbcEqPRT4bTnP4YCQvt) | 2:38 | 2023-03-17 |  |

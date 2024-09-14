@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-02",
-  "description": "This Is Los Dos Carnales. Los temas esenciales, todos en una lista.",
+  "description": "This is Los Dos Carnales. The essential tracks, all in one playlist.",
   "name": "This Is Los Dos Carnales",
   "tracks": [
     {
@@ -863,6 +863,24 @@
     },
     {
       "album": {
+        "name": "Hay Que Sumar",
+        "url": "https://open.spotify.com/album/7wr3AzQlVI3VjUWDXrsMHN"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203160,
+      "name": "Hay Que Sumar",
+      "url": "https://open.spotify.com/track/0p0urtbzvRdBqKwhMiAxgP"
+    },
+    {
+      "album": {
         "name": "Home Run",
         "url": "https://open.spotify.com/album/2r3lhz9lFzhX9eWZTivN7t"
       },
@@ -950,7 +968,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 133930,
       "name": "La Carreta",
       "url": "https://open.spotify.com/track/3JObT2hSLZU1tCC5CFtlIZ"

@@ -1,6 +1,6 @@
 {
   "description": "Everyday. Every time.  These are the songs you can count on. Always. Cover: <a href=\"spotify:artist:4sdhhi6q1Ez9l5PagQsykC\">Katy Nichole</a>",
-  "num_followers": 611631,
+  "num_followers": 611763,
   "original_name": "Everyday Inspiration",
   "owner": {
     "name": "Spotify",
@@ -479,6 +479,22 @@
     {
       "added_at": "2024-06-23 01:51:00",
       "album": {
+        "name": "The EXILE",
+        "url": "https://open.spotify.com/album/3Z5eTl8JjXIWoMx3M8GRsN"
+      },
+      "artists": [
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        }
+      ],
+      "duration_ms": 226083,
+      "name": "Somebody Prayed",
+      "url": "https://open.spotify.com/track/1ukqYsTRhTM4jsfb2S8wrz"
+    },
+    {
+      "added_at": "2024-06-23 01:51:00",
+      "album": {
         "name": "Take It All Back",
         "url": "https://open.spotify.com/album/0CmaxOquxepYKzJjDJCmvt"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 193501,
       "name": "Take It All Back",
       "url": "https://open.spotify.com/track/3ojnCCs5izqgJlRMIBfENI"
-    },
-    {
-      "added_at": "2024-06-23 01:51:00",
-      "album": {
-        "name": "The EXILE",
-        "url": "https://open.spotify.com/album/3Z5eTl8JjXIWoMx3M8GRsN"
-      },
-      "artists": [
-        {
-          "name": "Crowder",
-          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
-        }
-      ],
-      "duration_ms": 226083,
-      "name": "Somebody Prayed",
-      "url": "https://open.spotify.com/track/1ukqYsTRhTM4jsfb2S8wrz"
     },
     {
       "added_at": "2024-06-23 01:51:00",

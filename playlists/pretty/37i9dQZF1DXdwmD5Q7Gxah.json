@@ -1,13 +1,29 @@
 {
-  "description": "DJ Suzy \u2b50",
-  "num_followers": 1158594,
+  "description": "\u2027\u208a\u02da \ud83c\udf90\u2729 \ud83e\udee7 new albums from Foushe\u00e9, Dora Jar, MJ Lenderman, & Magdalena Bay \u208a\u02da\u22b9\u2661",
+  "num_followers": 1159152,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuMwygAAAACLtCppjscZZYtHO+tyIH/B",
+  "snapshot_id": "ZuO4wAAAAADRjTi64/ndl+NQ/ZDjvrZB",
   "tracks": [
+    {
+      "added_at": "2024-09-12 18:07:19",
+      "album": {
+        "name": "feel like home",
+        "url": "https://open.spotify.com/album/0BHk06yY5omfqv47S1vF4O"
+      },
+      "artists": [
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        }
+      ],
+      "duration_ms": 160320,
+      "name": "feel like home",
+      "url": "https://open.spotify.com/track/5suIFrXr4gXhpEzFNjej85"
+    },
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
@@ -41,20 +57,20 @@
       "url": "https://open.spotify.com/track/4j9WdbfKvyx7fBQb4qygYr"
     },
     {
-      "added_at": "2024-09-12 18:07:19",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "feel like home",
-        "url": "https://open.spotify.com/album/0BHk06yY5omfqv47S1vF4O"
+        "name": "No Way To Relax When You Are On Fire",
+        "url": "https://open.spotify.com/album/50nvPOvceq4QENvfPhSEoC"
       },
       "artists": [
         {
-          "name": "Foushe\u00e9",
-          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
         }
       ],
-      "duration_ms": 160320,
-      "name": "feel like home",
-      "url": "https://open.spotify.com/track/5suIFrXr4gXhpEzFNjej85"
+      "duration_ms": 228093,
+      "name": "Debbie Darling",
+      "url": "https://open.spotify.com/track/1T13ZqrqIEppYk5zEMh2Lc"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -105,6 +121,22 @@
       "url": "https://open.spotify.com/track/0iMSUfh4oQplV5OrmrlIbm"
     },
     {
+      "added_at": "2024-09-06 15:35:35",
+      "album": {
+        "name": "Her",
+        "url": "https://open.spotify.com/album/3YsLlWQ9dzG0dFQQZO1jEv"
+      },
+      "artists": [
+        {
+          "name": "The American Dawn",
+          "url": "https://open.spotify.com/artist/3EXC0gkpntFvtLS1R0yf11"
+        }
+      ],
+      "duration_ms": 214086,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/2vlkTkPqdATznKHu9gD2c1"
+    },
+    {
       "added_at": "2024-09-06 16:10:01",
       "album": {
         "name": "The Alexander Technique",
@@ -121,6 +153,30 @@
       "url": "https://open.spotify.com/track/5S2fYAHI2zwSIc2RWcFL7V"
     },
     {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Smalltown Boy (feat. Perfume Genius)",
+        "url": "https://open.spotify.com/album/6UMQHq7ZFWQmbTYsKqancW"
+      },
+      "artists": [
+        {
+          "name": "Bronski Beat",
+          "url": "https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08"
+        },
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        },
+        {
+          "name": "Perfume Genius",
+          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
+        }
+      ],
+      "duration_ms": 274920,
+      "name": "Smalltown Boy (feat. Perfume Genius)",
+      "url": "https://open.spotify.com/track/32Wbkbc7qZQA1viqNboe0D"
+    },
+    {
       "added_at": "2024-09-09 03:14:43",
       "album": {
         "name": "Book Of Love",
@@ -135,22 +191,6 @@
       "duration_ms": 179773,
       "name": "Boy",
       "url": "https://open.spotify.com/track/4FQhTIpf3bnxGsCr0dHhtr"
-    },
-    {
-      "added_at": "2024-09-06 15:35:35",
-      "album": {
-        "name": "Her",
-        "url": "https://open.spotify.com/album/3YsLlWQ9dzG0dFQQZO1jEv"
-      },
-      "artists": [
-        {
-          "name": "The American Dawn",
-          "url": "https://open.spotify.com/artist/3EXC0gkpntFvtLS1R0yf11"
-        }
-      ],
-      "duration_ms": 214086,
-      "name": "Her",
-      "url": "https://open.spotify.com/track/2vlkTkPqdATznKHu9gD2c1"
     },
     {
       "added_at": "2024-09-04 17:09:22",
@@ -201,6 +241,22 @@
       "url": "https://open.spotify.com/track/1Qpri6iU1hsI0idf1wUTe1"
     },
     {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Magic I Want U",
+        "url": "https://open.spotify.com/album/6eNdafiqQJJmyrXFDoTWiM"
+      },
+      "artists": [
+        {
+          "name": "Jane Remover",
+          "url": "https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu"
+        }
+      ],
+      "duration_ms": 298181,
+      "name": "Magic I Want U",
+      "url": "https://open.spotify.com/track/3BHymW78YPy7i2CWVljoe9"
+    },
+    {
       "added_at": "2024-09-06 04:00:00",
       "album": {
         "name": "Sad Boiii",
@@ -215,6 +271,22 @@
       "duration_ms": 166026,
       "name": "Sad Boiii",
       "url": "https://open.spotify.com/track/5LOUGL5zAmtxRQIJBmuUay"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "I Don't Know Ya",
+        "url": "https://open.spotify.com/album/2YIjtEk6nOLLYI2pPcwbN8"
+      },
+      "artists": [
+        {
+          "name": "Ray Bull",
+          "url": "https://open.spotify.com/artist/3P4jnIuA9z5WsvkbsoqkTu"
+        }
+      ],
+      "duration_ms": 198115,
+      "name": "I Don't Know Ya",
+      "url": "https://open.spotify.com/track/7on5LnKi2I3lNCyJ5yFE6g"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -265,22 +337,6 @@
       "url": "https://open.spotify.com/track/5JqDJQKBcPvFKyyhJKHiki"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Behind The Curtain",
-        "url": "https://open.spotify.com/album/185OtflbDmpXsuk4On7bXM"
-      },
-      "artists": [
-        {
-          "name": "Dora Jar",
-          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
-        }
-      ],
-      "duration_ms": 157120,
-      "name": "Behind The Curtain",
-      "url": "https://open.spotify.com/track/6I4qOLo0kWFbCXRsJtU8vz"
-    },
-    {
       "added_at": "2024-08-30 04:10:48",
       "album": {
         "name": "Girl",
@@ -297,6 +353,22 @@
       "url": "https://open.spotify.com/track/4jnzloLGQNJy7sYjabVSaZ"
     },
     {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Baggy$$",
+        "url": "https://open.spotify.com/album/0cX9ldzQG2UYMHo6ILXXYk"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "duration_ms": 152253,
+      "name": "UMPA",
+      "url": "https://open.spotify.com/track/470IhQSaAri29VEf2BZq7s"
+    },
+    {
       "added_at": "2024-08-07 17:26:36",
       "album": {
         "name": "Beaches",
@@ -311,6 +383,22 @@
       "duration_ms": 230053,
       "name": "Beaches",
       "url": "https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Behind The Curtain",
+        "url": "https://open.spotify.com/album/185OtflbDmpXsuk4On7bXM"
+      },
+      "artists": [
+        {
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+        }
+      ],
+      "duration_ms": 157120,
+      "name": "Behind The Curtain",
+      "url": "https://open.spotify.com/track/6I4qOLo0kWFbCXRsJtU8vz"
     },
     {
       "added_at": "2024-08-30 04:10:48",
@@ -375,22 +463,6 @@
       "duration_ms": 169870,
       "name": "HOMESICK",
       "url": "https://open.spotify.com/track/1LgtiOd4QwvRSrY6ebiaSW"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Baggy$$",
-        "url": "https://open.spotify.com/album/0cX9ldzQG2UYMHo6ILXXYk"
-      },
-      "artists": [
-        {
-          "name": "Fcukers",
-          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
-        }
-      ],
-      "duration_ms": 152253,
-      "name": "UMPA",
-      "url": "https://open.spotify.com/track/470IhQSaAri29VEf2BZq7s"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1768,7 +1840,7 @@
       },
       "artists": [
         {
-          "name": "Humbe",
+          "name": "HUMBE",
           "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
         }
       ],

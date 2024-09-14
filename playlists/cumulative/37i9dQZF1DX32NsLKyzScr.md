@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-1,141 songs - 2 day 13 hr 52 min
+1,142 songs - 2 day 13 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -395,7 +395,7 @@
 | [Guess featuring Billie Eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 | 2024-08-02 |  |
 | [Guitar Track](https://open.spotify.com/track/2E7fPzGgt5GgGnaaPnBubm) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz), [Firebeatz](https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo) | [Guitar Track](https://open.spotify.com/album/60o0hLZmGjwphgQzPt5M50) | 4:29 | 2020-09-21\* | 2020-11-03 |
 | [Hallelujah](https://open.spotify.com/track/0S9KX56e4zQs11nKc6s9jK) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Joe Killington](https://open.spotify.com/artist/0QvtEuDIDAsKpfuOe2a237) | [Hallelujah](https://open.spotify.com/album/1z6hriM2nP4PPxMftJnRSb) | 2:47 | 2022-03-11 | 2022-07-29 |
-| [Halo](https://open.spotify.com/track/6LziN7kYIkvyV4DLz5kAL1) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3) | [Halo](https://open.spotify.com/album/138ec88T9pXLv6jhKuQD4z) | 3:34 | 2024-04-19 |  |
+| [Halo](https://open.spotify.com/track/6LziN7kYIkvyV4DLz5kAL1) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3) | [Halo](https://open.spotify.com/album/138ec88T9pXLv6jhKuQD4z) | 3:34 | 2024-04-19 | 2024-09-14 |
 | [Halogen](https://open.spotify.com/track/5ggMXbTykK9mcCyr3AP7Tz) | [Sian](https://open.spotify.com/artist/4JkX37Ibpb0cJq2IItah0y), [i\_o](https://open.spotify.com/artist/0y42IQBDFigO5mmEd1bGQG) | [Electricity](https://open.spotify.com/album/3lKvQpxYFgvwrr1AkGu5LB) | 5:10 | 2020-09-21\* | 2020-12-18 |
 | [Hands Down](https://open.spotify.com/track/480buFxs3pMRRIF8JWGuzc) | [Qulinez](https://open.spotify.com/artist/6d7AYr4nvqHPhfPaDLLeRU), [Achilles](https://open.spotify.com/artist/1BgLi10FdtjQtMigV9Ddka), [Lachi](https://open.spotify.com/artist/07D2qGlJUOVf83OM5ujJZD) | [Hands Down](https://open.spotify.com/album/4g8eVFH3e6XEKUi0Z2AYqF) | 3:11 | 2021-11-13 | 2022-01-05 |
 | [Happy Revolution](https://open.spotify.com/track/6K22fmkCwrLdzqLUixb6Q1) | [Dada Life](https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9) | [Happy Revolution](https://open.spotify.com/album/6qSGivtT6c6VqXtXNjoeuL) | 2:52 | 2022-02-04 | 2022-05-12 |
@@ -483,6 +483,7 @@
 | [In Da Getto](https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [In Da Getto](https://open.spotify.com/album/2M7g0SNXnSq7j5BgYJYJsl) | 2:11 | 2021-07-07 | 2022-03-12 |
 | [In Love With You \- Radio Edit](https://open.spotify.com/track/7naQOLmmhhhLvDaXI4FH36) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Melo.Kids](https://open.spotify.com/artist/67zbXa7VOBhfFhM5n6AM33) | [In Love With You \(Radio Edit\)](https://open.spotify.com/album/6uKD5yITNbZRNfix9NTcbE) | 2:42 | 2021-03-11 | 2021-07-24 |
 | [In My Bones](https://open.spotify.com/track/1dcK8O2qEq7E34o4ImQEco) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [In My Bones](https://open.spotify.com/album/1KIJzQIjSlJaSQZ9qLf1kB) | 2:36 | 2024-07-12 |  |
+| [In My Dreams](https://open.spotify.com/track/0cs3wJc2hHHGHw13ZTYf5j) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [In My Dreams](https://open.spotify.com/album/5XSd8ZVFkVv0VsCznOA6Ia) | 4:50 | 2024-09-13 |  |
 | [In My Head](https://open.spotify.com/track/69uxus0d23ZnTHXi1dVldS) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [Emie](https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ) | [In My Head](https://open.spotify.com/album/6nCrDS9ApohnfQvXWHLSEu) | 2:51 | 2021-10-23 | 2022-03-12 |
 | [In My Zone](https://open.spotify.com/track/3LR2EPyj36gxYgCYbC0au0) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [In My Zone](https://open.spotify.com/album/78t3QrtBcUZhthPk0ROf2r) | 2:41 | 2022-01-28 | 2022-11-19 |
 | [In The Dark](https://open.spotify.com/track/0IAFmrpi9KF0PP3LONJonm) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Aldae](https://open.spotify.com/artist/15SHURx3CnODWKpjmNcxgO) | [In The Dark](https://open.spotify.com/album/34XrK5yFLziX15BSjDDiyO) | 2:28 | 2024-07-12 |  |

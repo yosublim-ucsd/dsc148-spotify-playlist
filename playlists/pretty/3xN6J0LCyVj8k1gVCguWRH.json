@@ -1,12 +1,12 @@
 {
   "description": "\u201cWith summer winding down, I wanted to share some songs that I\u2019ve been listening to lately \u2013 and it wouldn\u2019t be my playlist if it didn\u2019t include an eclectic mix,\u201d.  Includes Summer 23 edition &amp; bonus tracks.",
-  "num_followers": 130700,
+  "num_followers": 130742,
   "original_name": "Obama\u2019s Summer Playlist 2024",
   "owner": {
     "name": "soundsdeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "AAAn196rDK1Z8lWAsdQlE7FvutD/40Pk",
+  "snapshot_id": "AAAn4ioC2pRB8RMRS9sNs3EZVC0GytAs",
   "tracks": [
     {
       "added_at": "2024-08-12 20:19:27",
@@ -119,6 +119,22 @@
       "duration_ms": 221771,
       "name": "I Can\u2019t Even Cry",
       "url": "https://open.spotify.com/track/2knRILXCUzgUfP10oxsgk3"
+    },
+    {
+      "added_at": "2024-09-13 18:02:47",
+      "album": {
+        "name": "D\u00f3nde Est\u00e1s?",
+        "url": "https://open.spotify.com/album/4CNX8XHCfwNwYFo1qL509R"
+      },
+      "artists": [
+        {
+          "name": "Stefany",
+          "url": "https://open.spotify.com/artist/6bfhI8OUv54wrI4BgmjPAU"
+        }
+      ],
+      "duration_ms": 142989,
+      "name": "D\u00f3nde Est\u00e1s?",
+      "url": "https://open.spotify.com/track/4XnOUP9FmtTXmIyiFMDlyP"
     },
     {
       "added_at": "2024-08-12 20:22:34",
@@ -1485,6 +1501,30 @@
       "url": "https://open.spotify.com/track/5W6fuhOICEbXmHzJK6sKuX"
     },
     {
+      "added_at": "2024-09-13 13:15:22",
+      "album": {
+        "name": "Close 2 U",
+        "url": "https://open.spotify.com/album/02tbmnM3vtp7j2xZtiTaeY"
+      },
+      "artists": [
+        {
+          "name": "Henry Aberson",
+          "url": "https://open.spotify.com/artist/30h4XxFyy4Ym28EAIdSr2G"
+        },
+        {
+          "name": "Derran Day",
+          "url": "https://open.spotify.com/artist/7dexR7KkrkLCzFIVpBnKzK"
+        },
+        {
+          "name": "Korey Keys",
+          "url": "https://open.spotify.com/artist/5Sw8OXURdKT26umYRH0LUP"
+        }
+      ],
+      "duration_ms": 250281,
+      "name": "Close 2 U",
+      "url": "https://open.spotify.com/track/6F7vyIV4q98vyyVuG0yv4U"
+    },
+    {
       "added_at": "2024-09-12 12:46:24",
       "album": {
         "name": "Devotion",
@@ -1727,6 +1767,102 @@
       "duration_ms": 203781,
       "name": "Cada vez",
       "url": "https://open.spotify.com/track/52UJWaqmJI4sP8OTJRFTTR"
+    },
+    {
+      "added_at": "2024-09-13 06:03:16",
+      "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/0J1ojZQiEp4GsGKrE0txxu"
+      },
+      "artists": [
+        {
+          "name": "Deja Renee",
+          "url": "https://open.spotify.com/artist/4djAxCYGCe8upe8VGsxNR9"
+        }
+      ],
+      "duration_ms": 198400,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/3Tg8DFn1cBoVHyEh9oqekg"
+    },
+    {
+      "added_at": "2024-09-13 06:02:24",
+      "album": {
+        "name": "World On Fire",
+        "url": "https://open.spotify.com/album/1jYvIFCqRzGS4kfeY9Fn4d"
+      },
+      "artists": [
+        {
+          "name": "The Harold Hall Project",
+          "url": "https://open.spotify.com/artist/17byRv2jbUNZqIRyMn9C1R"
+        }
+      ],
+      "duration_ms": 210015,
+      "name": "World On Fire",
+      "url": "https://open.spotify.com/track/0e5677hRKf0w9vps44iNyf"
+    },
+    {
+      "added_at": "2024-09-13 12:00:49",
+      "album": {
+        "name": "Breathe Again",
+        "url": "https://open.spotify.com/album/6hFtAGVj6z4FZyAcdlzF14"
+      },
+      "artists": [
+        {
+          "name": "IMARI",
+          "url": "https://open.spotify.com/artist/11YEBxhtL1cp3Tqxpx9p9L"
+        }
+      ],
+      "duration_ms": 254879,
+      "name": "Breathe Again",
+      "url": "https://open.spotify.com/track/7ybLhO296Nk9H6Bmhfwr25"
+    },
+    {
+      "added_at": "2024-09-13 06:03:28",
+      "album": {
+        "name": "God Alone",
+        "url": "https://open.spotify.com/album/4Fvgd5pcvSsGbPzwHfUBHE"
+      },
+      "artists": [
+        {
+          "name": "Jude Chery",
+          "url": "https://open.spotify.com/artist/1cmQMGIEHfxIo6CyzlnZ9F"
+        }
+      ],
+      "duration_ms": 230564,
+      "name": "God Alone",
+      "url": "https://open.spotify.com/track/4xzHR0uLauc5VTpXCcqrg0"
+    },
+    {
+      "added_at": "2024-09-13 06:02:57",
+      "album": {
+        "name": "WATER",
+        "url": "https://open.spotify.com/album/22aOnnRCY7OKuL91YrmL01"
+      },
+      "artists": [
+        {
+          "name": "Journey Skye",
+          "url": "https://open.spotify.com/artist/4PbiDCknc3z9dHtTJEkaO7"
+        }
+      ],
+      "duration_ms": 166987,
+      "name": "NO MORE CAMERAS",
+      "url": "https://open.spotify.com/track/2FPWZhKih3iNdP3fGT7xLs"
+    },
+    {
+      "added_at": "2024-09-13 06:05:49",
+      "album": {
+        "name": "The Far West",
+        "url": "https://open.spotify.com/album/5Yksm8AOHmnFWTiv9C6O0T"
+      },
+      "artists": [
+        {
+          "name": "The Far West",
+          "url": "https://open.spotify.com/artist/16akqvzsDp3Pno4XeSZFiF"
+        }
+      ],
+      "duration_ms": 160737,
+      "name": "Bound to Lose",
+      "url": "https://open.spotify.com/track/3bclhqr8YD9VAgohwLcIC8"
     },
     {
       "added_at": "2024-09-09 23:21:30",
@@ -2169,22 +2305,6 @@
       "url": "https://open.spotify.com/track/0d4Ga6qsgjMfHci85gMmxm"
     },
     {
-      "added_at": "2024-09-05 17:03:17",
-      "album": {
-        "name": "Whiskey & Wine",
-        "url": "https://open.spotify.com/album/7Gzko3HIuKW5iVvOSh8Kwm"
-      },
-      "artists": [
-        {
-          "name": "Chrizz Michaels",
-          "url": "https://open.spotify.com/artist/2A0tu1OHjti0AYobHkGcge"
-        }
-      ],
-      "duration_ms": 140146,
-      "name": "Whiskey & Wine",
-      "url": "https://open.spotify.com/track/6liO4R9gEm8kve48pdn166"
-    },
-    {
       "added_at": "2024-09-05 12:34:21",
       "album": {
         "name": "Airbnb",
@@ -2199,130 +2319,6 @@
       "duration_ms": 143219,
       "name": "Airbnb",
       "url": "https://open.spotify.com/track/6PQxVt63yl1ThgmyrpI2W6"
-    },
-    {
-      "added_at": "2024-09-02 23:14:12",
-      "album": {
-        "name": "Longer",
-        "url": "https://open.spotify.com/album/39b2lV8R1wRtuotTC2ZvlN"
-      },
-      "artists": [
-        {
-          "name": "Rez Lyrix",
-          "url": "https://open.spotify.com/artist/72ZapUYEvTm5ThfsnxTZFW"
-        },
-        {
-          "name": "Kiki Ceruti",
-          "url": "https://open.spotify.com/artist/3SVgUqijyUrxbzxXqDzG53"
-        },
-        {
-          "name": "CoHeir",
-          "url": "https://open.spotify.com/artist/3qW5eL2bJ1TcEU3SBGDQ0k"
-        }
-      ],
-      "duration_ms": 150500,
-      "name": "Longer",
-      "url": "https://open.spotify.com/track/1WoBnVQtgnKKRoPfqghbAX"
-    },
-    {
-      "added_at": "2024-09-02 23:19:37",
-      "album": {
-        "name": "Sunset Pier",
-        "url": "https://open.spotify.com/album/5GOg0g5RCu0hvb4sKiFG6W"
-      },
-      "artists": [
-        {
-          "name": "My Mojo",
-          "url": "https://open.spotify.com/artist/4l0DYq1KoN3rsxcUCBT0MA"
-        }
-      ],
-      "duration_ms": 357469,
-      "name": "Sunset Pier",
-      "url": "https://open.spotify.com/track/5JCXz58CYmbIgpyGxhVT9a"
-    },
-    {
-      "added_at": "2024-09-02 23:00:51",
-      "album": {
-        "name": "Worst Drug",
-        "url": "https://open.spotify.com/album/3NGXR0QYyl6urGr0YrNP9d"
-      },
-      "artists": [
-        {
-          "name": "Hamza Hawsawi",
-          "url": "https://open.spotify.com/artist/2ZfxDAzauSIxjmFaQLsoLu"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Worst Drug",
-      "url": "https://open.spotify.com/track/3HzXKoJdMY6YLVL7IEtGfV"
-    },
-    {
-      "added_at": "2024-09-02 23:13:20",
-      "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/5ocsEzTWXX1dKv5zANaSNh"
-      },
-      "artists": [
-        {
-          "name": "Other Gods",
-          "url": "https://open.spotify.com/artist/4N8R9U2NFDW04IvnRVY2tj"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/1cCCqzfDw5HseM2S26QkoU"
-    },
-    {
-      "added_at": "2024-09-02 23:17:42",
-      "album": {
-        "name": "Flames",
-        "url": "https://open.spotify.com/album/05QeqiB4XZ1yaMA8tmIofP"
-      },
-      "artists": [
-        {
-          "name": "MIZZELLIE",
-          "url": "https://open.spotify.com/artist/3lxqefDWhtRrrP6TftX9p0"
-        }
-      ],
-      "duration_ms": 212363,
-      "name": "Flames",
-      "url": "https://open.spotify.com/track/3p8XVP9QWzyFm9fc0k18cn"
-    },
-    {
-      "added_at": "2024-09-02 23:20:46",
-      "album": {
-        "name": "Supply Teacher",
-        "url": "https://open.spotify.com/album/1kX5IVVppWTMfnbKaemB7Q"
-      },
-      "artists": [
-        {
-          "name": "Arianna Tsar",
-          "url": "https://open.spotify.com/artist/5kui2MaTfVCYOyaLdE0iFV"
-        }
-      ],
-      "duration_ms": 206300,
-      "name": "Supply Teacher",
-      "url": "https://open.spotify.com/track/6eySAdsLyQZiqp2d9xTDle"
-    },
-    {
-      "added_at": "2024-09-02 12:08:50",
-      "album": {
-        "name": "Puppet (Remix)",
-        "url": "https://open.spotify.com/album/3RCuPZ794WLACLF7w87VUV"
-      },
-      "artists": [
-        {
-          "name": "nys the halfsoul",
-          "url": "https://open.spotify.com/artist/2RRycyJ57DBC9gGiPBZz0l"
-        },
-        {
-          "name": "FK",
-          "url": "https://open.spotify.com/artist/4yXJ0seawIpcG3BOPr9eKG"
-        }
-      ],
-      "duration_ms": 218125,
-      "name": "Puppet (Remix)",
-      "url": "https://open.spotify.com/track/0CVYn08YYfxnTtZ2INXoj6"
     }
   ],
   "unique_name": "Obama\u2019s Summer Playlist 2024",

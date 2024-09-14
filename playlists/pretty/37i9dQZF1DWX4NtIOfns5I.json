@@ -1,13 +1,93 @@
 {
-  "description": "where folk flowers bloom \ud83c\udf43 cover: Amy Allen",
-  "num_followers": 115379,
+  "description": "where folk flowers bloom \ud83c\udf43 cover: Chance Pe\u00f1a",
+  "num_followers": 115520,
   "original_name": "juniper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zt8uigAAAADjDu0zR1x+mtIl8DwRYnb+",
+  "snapshot_id": "ZuO4wAAAAABsXYMPW4Wa1ZOKEc+cT2D2",
   "tracks": [
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Ever-Shifting, Continual Blossoming",
+        "url": "https://open.spotify.com/album/2jHVzEpvZ8gV5zn5IywmRB"
+      },
+      "artists": [
+        {
+          "name": "Chance Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
+        }
+      ],
+      "duration_ms": 170586,
+      "name": "Whiskey Angel",
+      "url": "https://open.spotify.com/track/4dkJAQlRswrkaapPJcOfys"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Molly, I\u2019m Coming Around",
+        "url": "https://open.spotify.com/album/4yUap2F8j3GAzVdZ1KIqtI"
+      },
+      "artists": [
+        {
+          "name": "Annika Bennett",
+          "url": "https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l"
+        }
+      ],
+      "duration_ms": 161519,
+      "name": "Molly, I'm Coming Around",
+      "url": "https://open.spotify.com/track/2H4CUYU47uxckLEqih8dUH"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Sailor Song",
+        "url": "https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "duration_ms": 211978,
+      "name": "Sailor Song",
+      "url": "https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Masterpiece (2023 Remaster)",
+        "url": "https://open.spotify.com/album/3dtiO2Vs4YZQOFCOCDgtxL"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 155938,
+      "name": "Velvet Ring - 2023 Remaster",
+      "url": "https://open.spotify.com/track/3oBNQdDbNrs8wQbcZ3BXwP"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "No Way To Relax When You Are On Fire",
+        "url": "https://open.spotify.com/album/50nvPOvceq4QENvfPhSEoC"
+      },
+      "artists": [
+        {
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+        }
+      ],
+      "duration_ms": 228093,
+      "name": "Debbie Darling",
+      "url": "https://open.spotify.com/track/1T13ZqrqIEppYk5zEMh2Lc"
+    },
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
@@ -27,22 +107,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Molly, I\u2019m Coming Around",
-        "url": "https://open.spotify.com/album/4yUap2F8j3GAzVdZ1KIqtI"
-      },
-      "artists": [
-        {
-          "name": "Annika Bennett",
-          "url": "https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l"
-        }
-      ],
-      "duration_ms": 161519,
-      "name": "Molly, I'm Coming Around",
-      "url": "https://open.spotify.com/track/2H4CUYU47uxckLEqih8dUH"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "amy allen",
         "url": "https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb"
       },
@@ -55,22 +119,6 @@
       "duration_ms": 164065,
       "name": "reason to forgive",
       "url": "https://open.spotify.com/track/37WikNaTXg1WdspSS5oHkI"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Masterpiece (2023 Remaster)",
-        "url": "https://open.spotify.com/album/3dtiO2Vs4YZQOFCOCDgtxL"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 155938,
-      "name": "Velvet Ring - 2023 Remaster",
-      "url": "https://open.spotify.com/track/3oBNQdDbNrs8wQbcZ3BXwP"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -87,6 +135,22 @@
       "duration_ms": 259273,
       "name": "last woman on earth",
       "url": "https://open.spotify.com/track/79UlPlMXGqCHfxDUJ4dPB2"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "He's My Man",
+        "url": "https://open.spotify.com/album/04HqGBwmXnxvxHHTEms7cR"
+      },
+      "artists": [
+        {
+          "name": "Luvcat",
+          "url": "https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT"
+        }
+      ],
+      "duration_ms": 232985,
+      "name": "He's My Man",
+      "url": "https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -139,38 +203,6 @@
       "duration_ms": 169041,
       "name": "Why Why Why",
       "url": "https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Is What It Is",
-        "url": "https://open.spotify.com/album/4DJnKYeQB8fSFaRTjXD7rB"
-      },
-      "artists": [
-        {
-          "name": "Chance Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
-        }
-      ],
-      "duration_ms": 203986,
-      "name": "Is What It Is",
-      "url": "https://open.spotify.com/track/2wUvQE1VLMw0jRJVYn7qbt"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Sailor Song",
-        "url": "https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit"
-      },
-      "artists": [
-        {
-          "name": "Gigi Perez",
-          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
-        }
-      ],
-      "duration_ms": 211978,
-      "name": "Sailor Song",
-      "url": "https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1155,38 +1187,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Widows of Normandy",
-        "url": "https://open.spotify.com/album/5PwfQsDyAcUo4XP3ljb6O1"
-      },
-      "artists": [
-        {
-          "name": "Rye LaChance",
-          "url": "https://open.spotify.com/artist/2Se7WvcOZLwezj91JjlVCj"
-        }
-      ],
-      "duration_ms": 190465,
-      "name": "Widows of Normandy",
-      "url": "https://open.spotify.com/track/3djAYoVGOkzXsgo7OKzFx0"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "The Favorite",
-        "url": "https://open.spotify.com/album/42zSMFzegNPqbs8roRvI43"
-      },
-      "artists": [
-        {
-          "name": "India Thieriot",
-          "url": "https://open.spotify.com/artist/6MuOTOv4gVJpTYFPBb3awg"
-        }
-      ],
-      "duration_ms": 185975,
-      "name": "The Favorite",
-      "url": "https://open.spotify.com/track/5fOJ2ER7TB9DNjFchr9m3P"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Either Way",
         "url": "https://open.spotify.com/album/6xCFqOoJGxMDOQR0JEx8ly"
       },
@@ -1583,22 +1583,6 @@
       "duration_ms": 234753,
       "name": "End Of The World",
       "url": "https://open.spotify.com/track/5RXjt2s4HBJw3TcaAzwSrD"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Milk Town / Mr. Carter",
-        "url": "https://open.spotify.com/album/3yWm9a3y2UxbjInLPhDU4D"
-      },
-      "artists": [
-        {
-          "name": "Nep",
-          "url": "https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5"
-        }
-      ],
-      "duration_ms": 77032,
-      "name": "Milk Town / Mr. Carter",
-      "url": "https://open.spotify.com/track/1sXeTMn9R8JlyG5JWVtZFQ"
     },
     {
       "added_at": "2024-07-12 04:00:00",

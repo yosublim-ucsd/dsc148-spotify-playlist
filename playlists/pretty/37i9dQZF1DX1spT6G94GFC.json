@@ -1,47 +1,15 @@
 {
   "description": "These songs rocked the 80s.",
-  "num_followers": 3956961,
+  "num_followers": 3957201,
   "original_name": "80s Rock Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmdGAQAAAABN0EQLWEJwjFmNEysvfGtM",
+  "snapshot_id": "ZuRvLwAAAACv3Smg8NTEP8WW70fcVrd5",
   "tracks": [
     {
-      "added_at": "2024-04-10 21:42:18",
-      "album": {
-        "name": "Rebel Yell",
-        "url": "https://open.spotify.com/album/6yDq3SrTcstT7zD1hv3hgM"
-      },
-      "artists": [
-        {
-          "name": "Billy Idol",
-          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
-        }
-      ],
-      "duration_ms": 288533,
-      "name": "Rebel Yell",
-      "url": "https://open.spotify.com/track/1S2yXfKjH5S14W5ga1m0nD"
-    },
-    {
-      "added_at": "2024-04-10 21:42:18",
-      "album": {
-        "name": "Call Me",
-        "url": "https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 212226,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/7HKxTNVlkHsfMLhigmhC0I"
-    },
-    {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "Back In Black",
         "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
@@ -57,7 +25,55 @@
       "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
+      "album": {
+        "name": "Live From Earth",
+        "url": "https://open.spotify.com/album/0Dz62BSPfz8XMmJCFtB9iN"
+      },
+      "artists": [
+        {
+          "name": "Pat Benatar",
+          "url": "https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV"
+        }
+      ],
+      "duration_ms": 325066,
+      "name": "Love Is A Battlefield",
+      "url": "https://open.spotify.com/track/06dAFXkgM2OGAkGS3CxpEm"
+    },
+    {
+      "added_at": "2024-09-13 16:58:23",
+      "album": {
+        "name": "Rebel Yell",
+        "url": "https://open.spotify.com/album/6yDq3SrTcstT7zD1hv3hgM"
+      },
+      "artists": [
+        {
+          "name": "Billy Idol",
+          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+        }
+      ],
+      "duration_ms": 288533,
+      "name": "Rebel Yell",
+      "url": "https://open.spotify.com/track/1S2yXfKjH5S14W5ga1m0nD"
+    },
+    {
+      "added_at": "2024-09-13 16:58:23",
+      "album": {
+        "name": "Purple Rain",
+        "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 352906,
+      "name": "When Doves Cry",
+      "url": "https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA"
+    },
+    {
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "Toto IV",
         "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
@@ -73,39 +89,23 @@
       "url": "https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
       "album": {
-        "name": "Songs From The Big Chair (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W"
+        "name": "The Essential Journey",
+        "url": "https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R"
       },
       "artists": [
         {
-          "name": "Tears For Fears",
-          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
         }
       ],
-      "duration_ms": 251488,
-      "name": "Everybody Wants To Rule The World",
-      "url": "https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE"
+      "duration_ms": 248906,
+      "name": "Don't Stop Believin'",
+      "url": "https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
-      "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 241306,
-      "name": "Dancing In the Dark",
-      "url": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE"
-    },
-    {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "Violator (2006 Remaster)",
         "url": "https://open.spotify.com/album/5g3Yi15plTSMaq6tYiuw8p"
@@ -121,7 +121,39 @@
       "url": "https://open.spotify.com/track/7dhM0KUBxuZV9z5iNodLyn"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
+      "album": {
+        "name": "Songs From The Big Chair (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W"
+      },
+      "artists": [
+        {
+          "name": "Tears For Fears",
+          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+        }
+      ],
+      "duration_ms": 251488,
+      "name": "Everybody Wants To Rule The World",
+      "url": "https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE"
+    },
+    {
+      "added_at": "2024-09-13 16:58:23",
+      "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 241306,
+      "name": "Dancing In the Dark",
+      "url": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE"
+    },
+    {
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "Reckless (30th Anniversary / Deluxe Edition)",
         "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
@@ -137,7 +169,7 @@
       "url": "https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "Back In Black",
         "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
@@ -153,7 +185,7 @@
       "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "Slippery When Wet",
         "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
@@ -169,7 +201,7 @@
       "url": "https://open.spotify.com/track/0rmGAIH9LNJewFw7nKzZnc"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "Combat Rock (Remastered)",
         "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
@@ -185,7 +217,7 @@
       "url": "https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "Hot Space (2011 Remaster)",
         "url": "https://open.spotify.com/album/6reTSIf5MoBco62rk8T7Q1"
@@ -205,7 +237,7 @@
       "url": "https://open.spotify.com/track/2fuCquhmrzHpu5xcA1ci9x"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "I Love Rock 'N' Roll (Expanded Edition)",
         "url": "https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt"
@@ -221,7 +253,7 @@
       "url": "https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "Tattoo You (2009 Re-Mastered)",
         "url": "https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ"
@@ -237,7 +269,7 @@
       "url": "https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "Full Moon Fever",
         "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
@@ -253,7 +285,7 @@
       "url": "https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "1984 (Remastered)",
         "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
@@ -269,7 +301,7 @@
       "url": "https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "Back In Black",
         "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
@@ -285,7 +317,7 @@
       "url": "https://open.spotify.com/track/69QHm3pustz01CJRwdo20z"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "The Final Countdown (Expanded Edition)",
         "url": "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
@@ -301,7 +333,7 @@
       "url": "https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "Born In The U.S.A.",
         "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
@@ -317,7 +349,7 @@
       "url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "Ghost In The Machine - Remastered 2003",
         "url": "https://open.spotify.com/album/5jkwdY6jS1Hzi8epr6HW7h"
@@ -333,7 +365,7 @@
       "url": "https://open.spotify.com/track/44aTAUBF0g6sMkMNE8I5kd"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "Building The Perfect Beast",
         "url": "https://open.spotify.com/album/2x1s5aVQ01ylPs5nUdeA2i"
@@ -349,7 +381,7 @@
       "url": "https://open.spotify.com/track/4gvea7UlDkAvsJBPZAd4oB"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "Combat Rock (Remastered)",
         "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
@@ -365,7 +397,7 @@
       "url": "https://open.spotify.com/track/56KqaFSGTb7ifpt16t5Y1N"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "Hysteria (Super Deluxe)",
         "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
@@ -381,7 +413,7 @@
       "url": "https://open.spotify.com/track/0PdM2a6oIjqepoEfcJo0RO"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "Slippery When Wet",
         "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
@@ -397,7 +429,7 @@
       "url": "https://open.spotify.com/track/0oerlffJSzhRVvtDfLcp3N"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "Full Moon Fever",
         "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
@@ -413,23 +445,7 @@
       "url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
-      "album": {
-        "name": "The Essential Journey",
-        "url": "https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R"
-      },
-      "artists": [
-        {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
-        }
-      ],
-      "duration_ms": 248906,
-      "name": "Don't Stop Believin'",
-      "url": "https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg"
-    },
-    {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "The Game (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
@@ -445,7 +461,7 @@
       "url": "https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "\"Heroes\" (2017 Remaster)",
         "url": "https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk"
@@ -461,23 +477,7 @@
       "url": "https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
-      "album": {
-        "name": "Bon Jovi",
-        "url": "https://open.spotify.com/album/1UUOBzIHw0noiRGRpbt3sz"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 230666,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/0X1sqQ652p1sceKM2nJlIJ"
-    },
-    {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "Rio - Collector's Edition",
         "url": "https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm"
@@ -493,7 +493,23 @@
       "url": "https://open.spotify.com/track/39lSeqnyjZJejRuaREfyLL"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
+      "album": {
+        "name": "Bon Jovi",
+        "url": "https://open.spotify.com/album/1UUOBzIHw0noiRGRpbt3sz"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 230666,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/0X1sqQ652p1sceKM2nJlIJ"
+    },
+    {
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "Born In The U.S.A.",
         "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
@@ -509,7 +525,7 @@
       "url": "https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "1984 (Remastered)",
         "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
@@ -525,7 +541,7 @@
       "url": "https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "Piece of Mind (2015 Remaster)",
         "url": "https://open.spotify.com/album/7I9Wh2IgvI3Nnr8Z1ZSWby"
@@ -541,23 +557,7 @@
       "url": "https://open.spotify.com/track/4OROzZUy6gOWN4UGQVaZMF"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
-      "album": {
-        "name": "Reckless (30th Anniversary / Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 233270,
-      "name": "Run To You",
-      "url": "https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV"
-    },
-    {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "Bella Donna (2016 Remastered)",
         "url": "https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het"
@@ -573,7 +573,23 @@
       "url": "https://open.spotify.com/track/7L3b6iaVhDVjfo52Hbvh9Z"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
+      "album": {
+        "name": "Reckless (30th Anniversary / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 233270,
+      "name": "Run To You",
+      "url": "https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV"
+    },
+    {
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "Songs From The Big Chair",
         "url": "https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5"
@@ -589,7 +605,7 @@
       "url": "https://open.spotify.com/track/2gQaQUhDCNGfBVXTvxAmXQ"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "Frontiers (2023 Remaster)",
         "url": "https://open.spotify.com/album/3pZ6D15onAaT2YyiTbcHmh"
@@ -605,7 +621,7 @@
       "url": "https://open.spotify.com/track/1pTw2cNrp9L3esxLAvWnN2"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "Hatful of Hollow",
         "url": "https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv"
@@ -621,7 +637,7 @@
       "url": "https://open.spotify.com/track/1YrnDTqvcnUKxAIeXyaEmU"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "Crimes Of Passion",
         "url": "https://open.spotify.com/album/7HlWbMlmhASeeZ61ZiHpWJ"
@@ -637,23 +653,7 @@
       "url": "https://open.spotify.com/track/0vOkmmJEtjuFZDzrQSFzEE"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
-      "album": {
-        "name": "Stay Hungry",
-        "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
-      },
-      "artists": [
-        {
-          "name": "Twisted Sister",
-          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
-        }
-      ],
-      "duration_ms": 179760,
-      "name": "I Wanna Rock",
-      "url": "https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU"
-    },
-    {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "American Fool",
         "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
@@ -669,7 +669,23 @@
       "url": "https://open.spotify.com/track/67eX1ovaHyVPUinMHeUtIM"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
+      "album": {
+        "name": "Stay Hungry",
+        "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
+      },
+      "artists": [
+        {
+          "name": "Twisted Sister",
+          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
+        }
+      ],
+      "duration_ms": 179760,
+      "name": "I Wanna Rock",
+      "url": "https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU"
+    },
+    {
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "Danzig",
         "url": "https://open.spotify.com/album/3elIDlrTtrgKfbxYVgp3uW"
@@ -685,7 +701,7 @@
       "url": "https://open.spotify.com/track/7txxAtOMwLLnQTpKeBL6bp"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "Diesel And Dust",
         "url": "https://open.spotify.com/album/243XzHQegX82bPnUVQ0SPV"
@@ -701,7 +717,23 @@
       "url": "https://open.spotify.com/track/1CtAzw53AIXKjAemxy4b1j"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
+      "album": {
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 212226,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/7HKxTNVlkHsfMLhigmhC0I"
+    },
+    {
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "Hysteria",
         "url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82"
@@ -717,7 +749,7 @@
       "url": "https://open.spotify.com/track/2PFIZFcGry0po3ZfRZkzKc"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "Zenyatta Mondatta - Remastered 2003",
         "url": "https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ"
@@ -733,7 +765,7 @@
       "url": "https://open.spotify.com/track/5veJDT0MLsLbhYsx42GXUD"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "Moving Pictures (2011 Remaster)",
         "url": "https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY"
@@ -749,7 +781,7 @@
       "url": "https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "Open Up And Say...Ahh! (20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/2AMWVB3FWknjcMeb6hMZnd"
@@ -765,7 +797,7 @@
       "url": "https://open.spotify.com/track/43GS3mtezoIFiuIZCLLiDY"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "Licensed To Ill",
         "url": "https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb"
@@ -781,23 +813,7 @@
       "url": "https://open.spotify.com/track/5NLuC70kZQv8q34QyQa1DP"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
-      "album": {
-        "name": "Permanent Vacation",
-        "url": "https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 265773,
-      "name": "Dude (Looks Like A Lady)",
-      "url": "https://open.spotify.com/track/6gQUbFwwdYXlKdmqRoWKJe"
-    },
-    {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "New Jersey - Deluxe Edition",
         "url": "https://open.spotify.com/album/3mcKOl0KNe65BqiBa40WxR"
@@ -813,7 +829,23 @@
       "url": "https://open.spotify.com/track/72hcFp4tYkd3dbNA9dZ3Pv"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
+      "album": {
+        "name": "Permanent Vacation",
+        "url": "https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 265773,
+      "name": "Dude (Looks Like A Lady)",
+      "url": "https://open.spotify.com/track/6gQUbFwwdYXlKdmqRoWKJe"
+    },
+    {
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "Up Your Alley",
         "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
@@ -829,7 +861,7 @@
       "url": "https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "Wild-Eyed Southern Boys",
         "url": "https://open.spotify.com/album/0McWOHhD5uSpbT4wRuTgpj"
@@ -845,7 +877,7 @@
       "url": "https://open.spotify.com/track/6i9dZZQWNB06HKsQYKTiPF"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "Full Moon Fever",
         "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
@@ -861,7 +893,7 @@
       "url": "https://open.spotify.com/track/4PJEK76V3A1S0XzZJuTWh7"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "Don't Say No (Remastered 2010)",
         "url": "https://open.spotify.com/album/6TwlLNU5Zd9qGuNgSLeWPt"
@@ -877,7 +909,7 @@
       "url": "https://open.spotify.com/track/52KvuGmgcgRdrLMXOtda0E"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "Survivor Greatest Hits",
         "url": "https://open.spotify.com/album/2wBiw6c2bGb4c9pnRdHw6X"
@@ -893,7 +925,7 @@
       "url": "https://open.spotify.com/track/2VN7uPrbryJ7nE2MXX3f9a"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "The Real Thing",
         "url": "https://open.spotify.com/album/6LEP3L94jnkqjOxYJWPRP0"
@@ -909,7 +941,7 @@
       "url": "https://open.spotify.com/track/4ReyTz0y3TGkX48wO3Llot"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "Remain in Light (Deluxe Version)",
         "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
@@ -925,7 +957,7 @@
       "url": "https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "Kick",
         "url": "https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX"
@@ -941,7 +973,23 @@
       "url": "https://open.spotify.com/track/5eU8qMd0TpaLqTGDZJaLDs"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
+      "album": {
+        "name": "Brothers in Arms",
+        "url": "https://open.spotify.com/album/7jvcSnCnugLcisBCNBm60s"
+      },
+      "artists": [
+        {
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "duration_ms": 506400,
+      "name": "Money for Nothing",
+      "url": "https://open.spotify.com/track/4yqtwO7MQIIXqoiRBPHAgR"
+    },
+    {
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "Riptide",
         "url": "https://open.spotify.com/album/73bPiJRwVPkE8dpyCikfFd"
@@ -961,23 +1009,7 @@
       "url": "https://open.spotify.com/track/5izGeTxueiFX1UPFGohY9w"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
-      "album": {
-        "name": "Brothers in Arms",
-        "url": "https://open.spotify.com/album/7jvcSnCnugLcisBCNBm60s"
-      },
-      "artists": [
-        {
-          "name": "Dire Straits",
-          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
-        }
-      ],
-      "duration_ms": 506400,
-      "name": "Money for Nothing",
-      "url": "https://open.spotify.com/track/4yqtwO7MQIIXqoiRBPHAgR"
-    },
-    {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "Ride The Lightning (Deluxe Remaster)",
         "url": "https://open.spotify.com/album/2omIeSJEGQeKHPOpiXgfkr"
@@ -993,7 +1025,7 @@
       "url": "https://open.spotify.com/track/0dqGfCMAGyDgpUAgLNOjWd"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "Nothing's Shocking",
         "url": "https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa"
@@ -1009,7 +1041,7 @@
       "url": "https://open.spotify.com/track/7c1Dar0pIAW7w5TzaGjt9t"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "Holy Diver",
         "url": "https://open.spotify.com/album/1QJmLRcuIMMjZ49elafR3K"
@@ -1025,23 +1057,7 @@
       "url": "https://open.spotify.com/track/5qFxuUIAwJlzO60vqOiL7y"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
-      "album": {
-        "name": "Quiet Riot - Greatest Hits",
-        "url": "https://open.spotify.com/album/1JSjQhsnC2xElFjTVG3Qhy"
-      },
-      "artists": [
-        {
-          "name": "Quiet Riot",
-          "url": "https://open.spotify.com/artist/1dLWg6m8RRhizsdqJbhyj3"
-        }
-      ],
-      "duration_ms": 287400,
-      "name": "Cum on Feel the Noize",
-      "url": "https://open.spotify.com/track/6FBmHx1FuaSnTnnnaThgbF"
-    },
-    {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "Flesh & Blood",
         "url": "https://open.spotify.com/album/7alngtync76VqYWSKxcBhB"
@@ -1057,7 +1073,23 @@
       "url": "https://open.spotify.com/track/1Z6lKdYhwp8WYoBqGCKxlM"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
+      "album": {
+        "name": "Quiet Riot - Greatest Hits",
+        "url": "https://open.spotify.com/album/1JSjQhsnC2xElFjTVG3Qhy"
+      },
+      "artists": [
+        {
+          "name": "Quiet Riot",
+          "url": "https://open.spotify.com/artist/1dLWg6m8RRhizsdqJbhyj3"
+        }
+      ],
+      "duration_ms": 287400,
+      "name": "Cum on Feel the Noize",
+      "url": "https://open.spotify.com/track/6FBmHx1FuaSnTnnnaThgbF"
+    },
+    {
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "Full Moon Fever",
         "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
@@ -1073,7 +1105,7 @@
       "url": "https://open.spotify.com/track/4AiMaeCXwsldpwvA5wu5gM"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "War (Deluxe Edition Remastered)",
         "url": "https://open.spotify.com/album/4Saua162eaEOksYc8TrB74"
@@ -1089,7 +1121,7 @@
       "url": "https://open.spotify.com/track/4nuUssdgKFy2QyYHHNkZQW"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "The Essential Journey",
         "url": "https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R"
@@ -1105,23 +1137,7 @@
       "url": "https://open.spotify.com/track/2DyHhPyCZgZzNXn1IrtsTu"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
-      "album": {
-        "name": "Live From Earth",
-        "url": "https://open.spotify.com/album/0Dz62BSPfz8XMmJCFtB9iN"
-      },
-      "artists": [
-        {
-          "name": "Pat Benatar",
-          "url": "https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV"
-        }
-      ],
-      "duration_ms": 325066,
-      "name": "Love Is A Battlefield",
-      "url": "https://open.spotify.com/track/06dAFXkgM2OGAkGS3CxpEm"
-    },
-    {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "Alice Cooper Classicks",
         "url": "https://open.spotify.com/album/0ztezUxR9YMkIP1SFRSnV1"
@@ -1137,7 +1153,7 @@
       "url": "https://open.spotify.com/track/1iQpStZpzBb5TOuTDKJKdj"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "Nothing's Shocking",
         "url": "https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa"
@@ -1153,7 +1169,7 @@
       "url": "https://open.spotify.com/track/5fKZJHzJ9d3MADArbm9muW"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "Ultimate Survivor",
         "url": "https://open.spotify.com/album/5mDgJdfSgdRGA0ab6Xp6H0"
@@ -1169,7 +1185,7 @@
       "url": "https://open.spotify.com/track/64F1ojnPPiJiFZtYQtHB7r"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "Rhino Hi-Five: Twisted Sister",
         "url": "https://open.spotify.com/album/0pYdfWiG4v5OhcC8LFvWrr"
@@ -1185,7 +1201,7 @@
       "url": "https://open.spotify.com/track/5RHG4SQ6iJ1qQJmt3EFJCX"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "Document (The I.R.S. Years Vintage 1987)",
         "url": "https://open.spotify.com/album/2y1UeJQy95zVxN8Y6IjUck"
@@ -1201,23 +1217,7 @@
       "url": "https://open.spotify.com/track/2abfaXRfvXr9ErmI8oqz4g"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
-      "album": {
-        "name": "The Joshua Tree",
-        "url": "https://open.spotify.com/album/5vBZRYu2GLA65nfxBvG1a7"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 277480,
-      "name": "I Still Haven't Found What I'm Looking For - Remastered 2007",
-      "url": "https://open.spotify.com/track/3MRQ3CSjoiV1HFil8ykM9M"
-    },
-    {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "Kiss Me Kiss Me Kiss Me",
         "url": "https://open.spotify.com/album/7qtRliQvQBu5v6LTi3gNDD"
@@ -1233,23 +1233,23 @@
       "url": "https://open.spotify.com/track/1KSkVwl54ghzE1jSbsVNBr"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
       "album": {
-        "name": "Purple Rain",
-        "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
+        "name": "The Joshua Tree",
+        "url": "https://open.spotify.com/album/5vBZRYu2GLA65nfxBvG1a7"
       },
       "artists": [
         {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 352906,
-      "name": "When Doves Cry",
-      "url": "https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA"
+      "duration_ms": 277480,
+      "name": "I Still Haven't Found What I'm Looking For - Remastered 2007",
+      "url": "https://open.spotify.com/track/3MRQ3CSjoiV1HFil8ykM9M"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "Appetite For Destruction",
         "url": "https://open.spotify.com/album/3I9Z1nDCL4E0cP62flcbI5"
@@ -1265,7 +1265,7 @@
       "url": "https://open.spotify.com/track/7o2CTH4ctstm8TNelqjb51"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "Skid Row",
         "url": "https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi"
@@ -1281,7 +1281,7 @@
       "url": "https://open.spotify.com/track/4ZpXHlV2vQVfPXUvbDSZ92"
     },
     {
-      "added_at": "2024-04-10 21:42:18",
+      "added_at": "2024-09-13 16:58:23",
       "album": {
         "name": "Synchronicity",
         "url": "https://open.spotify.com/album/7yDxJXFPl88Dt9kBo0dDD6"

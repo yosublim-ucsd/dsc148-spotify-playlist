@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. YoSoyMatt en portada.",
-  "num_followers": 58773,
+  "num_followers": 58830,
   "original_name": "EDM\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "EXTAPHORIC!",
-        "url": "https://open.spotify.com/album/3Z6XgTOnmv6jXg8Aus1Oxr"
-      },
-      "artists": [
-        {
-          "name": "Lumi Athena",
-          "url": "https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm"
-        }
-      ],
-      "duration_ms": 85520,
-      "name": "THIRST FOR ME!",
-      "url": "https://open.spotify.com/track/0x6ZS33oQQFyUMRjap4NXf"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
         "name": "Corrupted",
         "url": "https://open.spotify.com/album/2MHJfwPN2ruuHa8RTulzFk"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 200000,
       "name": "Corrupted",
       "url": "https://open.spotify.com/track/70KbdYzwNiSd8sayMqa687"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
+        "name": "EXTAPHORIC!",
+        "url": "https://open.spotify.com/album/3Z6XgTOnmv6jXg8Aus1Oxr"
+      },
+      "artists": [
+        {
+          "name": "Lumi Athena",
+          "url": "https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm"
+        }
+      ],
+      "duration_ms": 85520,
+      "name": "THIRST FOR ME!",
+      "url": "https://open.spotify.com/track/0x6ZS33oQQFyUMRjap4NXf"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -651,6 +651,26 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
+        "name": "Sin Sentir",
+        "url": "https://open.spotify.com/album/1D17SWtsQcjSOWs9JvHXf7"
+      },
+      "artists": [
+        {
+          "name": "Pato Shoucair",
+          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
+        },
+        {
+          "name": "Dr Babe",
+          "url": "https://open.spotify.com/artist/71jdgeFR4FEYo6oB2Qb4FW"
+        }
+      ],
+      "duration_ms": 219098,
+      "name": "Sin Sentir",
+      "url": "https://open.spotify.com/track/7bRYZCh7prvQlF0ZKPZKmx"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
         "name": "Exclusive",
         "url": "https://open.spotify.com/album/3AIRDrD1ScPbFhgqdG0k7O"
       },
@@ -711,6 +731,26 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
+        "name": "Tomala (Se Mueve Se Siente)",
+        "url": "https://open.spotify.com/album/6Tk01gOTdEwBSvsHdm9Ld2"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        },
+        {
+          "name": "Draxx (ITA)",
+          "url": "https://open.spotify.com/artist/57QKWHmmY0jb44T2w7ln73"
+        }
+      ],
+      "duration_ms": 160600,
+      "name": "Tomala (Se Mueve Se Siente)",
+      "url": "https://open.spotify.com/track/37VEY7FABybvLFg9iYE3LY"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
         "name": "Dancing On Dangerous",
         "url": "https://open.spotify.com/album/3jkuK2ShKMXEjgI2B7aw1o"
       },
@@ -751,46 +791,6 @@
       "duration_ms": 166110,
       "name": "Afuera Que Tengan Miedo - Jayrick Remix",
       "url": "https://open.spotify.com/track/3Sualy9gkVDHDgOKcTJgFd"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
-        "name": "Sin Sentir",
-        "url": "https://open.spotify.com/album/1D17SWtsQcjSOWs9JvHXf7"
-      },
-      "artists": [
-        {
-          "name": "Pato Shoucair",
-          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
-        },
-        {
-          "name": "Dr Babe",
-          "url": "https://open.spotify.com/artist/71jdgeFR4FEYo6oB2Qb4FW"
-        }
-      ],
-      "duration_ms": 219098,
-      "name": "Sin Sentir",
-      "url": "https://open.spotify.com/track/7bRYZCh7prvQlF0ZKPZKmx"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
-        "name": "Tomala (Se Mueve Se Siente)",
-        "url": "https://open.spotify.com/album/6Tk01gOTdEwBSvsHdm9Ld2"
-      },
-      "artists": [
-        {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
-        },
-        {
-          "name": "Draxx (ITA)",
-          "url": "https://open.spotify.com/artist/57QKWHmmY0jb44T2w7ln73"
-        }
-      ],
-      "duration_ms": 160600,
-      "name": "Tomala (Se Mueve Se Siente)",
-      "url": "https://open.spotify.com/track/37VEY7FABybvLFg9iYE3LY"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "Throw Your Hands Up",
-        "url": "https://open.spotify.com/album/58K43P0kCpBXJHSv5anp2L"
-      },
-      "artists": [
-        {
-          "name": "Bear Grillz",
-          "url": "https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe"
-        },
-        {
-          "name": "Jessica Audiffred",
-          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
-        }
-      ],
-      "duration_ms": 159103,
-      "name": "Throw Your Hands Up",
-      "url": "https://open.spotify.com/track/41QWpqEoozBbbRhyt1ypyh"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
         "name": "Franca Barona",
         "url": "https://open.spotify.com/album/4wOs4oZxujsDhiUI436gOL"
       },
@@ -1295,6 +1275,26 @@
       "duration_ms": 215294,
       "name": "Franca Barona",
       "url": "https://open.spotify.com/track/29cUhxuaujLL63aQ7yQrtD"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
+        "name": "Throw Your Hands Up",
+        "url": "https://open.spotify.com/album/58K43P0kCpBXJHSv5anp2L"
+      },
+      "artists": [
+        {
+          "name": "Bear Grillz",
+          "url": "https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe"
+        },
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        }
+      ],
+      "duration_ms": 159103,
+      "name": "Throw Your Hands Up",
+      "url": "https://open.spotify.com/track/41QWpqEoozBbbRhyt1ypyh"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -1371,6 +1371,26 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
+        "name": "Amanecer",
+        "url": "https://open.spotify.com/album/2dpoGIT0FH5ceESag6H3bi"
+      },
+      "artists": [
+        {
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        },
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Amanecer",
+      "url": "https://open.spotify.com/track/6hh3qOUupeGORRXwNJXmuL"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
         "name": "BOOM SHAKALAKA",
         "url": "https://open.spotify.com/album/2BKzS0a2D1tzeXlS2H6TA5"
       },
@@ -1415,26 +1435,6 @@
       "duration_ms": 278413,
       "name": "Hombre Duna",
       "url": "https://open.spotify.com/track/454PpaaytyVPG1FNfVcWhJ"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
-        "name": "Amanecer",
-        "url": "https://open.spotify.com/album/2dpoGIT0FH5ceESag6H3bi"
-      },
-      "artists": [
-        {
-          "name": "Mr. Pig",
-          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
-        },
-        {
-          "name": "DEKKO",
-          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Amanecer",
-      "url": "https://open.spotify.com/track/6hh3qOUupeGORRXwNJXmuL"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -1495,6 +1495,26 @@
       "duration_ms": 222366,
       "name": "Melancol\u00eda",
       "url": "https://open.spotify.com/track/13toPIz9TQco3lZSdnj3oH"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
+        "name": "Ibiza",
+        "url": "https://open.spotify.com/album/0iwqxPcjXrCe9XtjIQNdLS"
+      },
+      "artists": [
+        {
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        },
+        {
+          "name": "Mario Bautista",
+          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
+        }
+      ],
+      "duration_ms": 204213,
+      "name": "Ibiza",
+      "url": "https://open.spotify.com/track/3VK6cgdLWEBP7ZMxQJnhRX"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -1603,36 +1623,8 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "Storm",
-        "url": "https://open.spotify.com/album/7LfAtfT3rsZSSV28Us4KRz"
-      },
-      "artists": [
-        {
-          "name": "AVAO",
-          "url": "https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw"
-        },
-        {
-          "name": "X-Y",
-          "url": "https://open.spotify.com/artist/73fWJPA3Vga1WbbBpHnlZ3"
-        },
-        {
-          "name": "HYPE.",
-          "url": "https://open.spotify.com/artist/3CdMKtSzS7b0E4Ly206xBU"
-        },
-        {
-          "name": "BassBears",
-          "url": "https://open.spotify.com/artist/3dNqN9ggP6hqIGoVCovVb3"
-        }
-      ],
-      "duration_ms": 193955,
-      "name": "Storm",
-      "url": "https://open.spotify.com/track/4AkIdFbQ03lYvkj5MD61vH"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
-        "name": "Ibiza",
-        "url": "https://open.spotify.com/album/0iwqxPcjXrCe9XtjIQNdLS"
+        "name": "CLI CLI Clan Clan",
+        "url": "https://open.spotify.com/album/7CyIk7mlvZK9F5AFggoRWH"
       },
       "artists": [
         {
@@ -1640,13 +1632,13 @@
           "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
         },
         {
-          "name": "Mario Bautista",
-          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
+          "name": "Potencia Lirical",
+          "url": "https://open.spotify.com/artist/6fxEt6A7hRd7Iq4FnwSxVb"
         }
       ],
-      "duration_ms": 204213,
-      "name": "Ibiza",
-      "url": "https://open.spotify.com/track/3VK6cgdLWEBP7ZMxQJnhRX"
+      "duration_ms": 259306,
+      "name": "CLI CLI Clan Clan",
+      "url": "https://open.spotify.com/track/5xLrfv3GK89aV5lL1ger1e"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -1687,22 +1679,30 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "Su Majestad La Eternidad (C\u00f3dex F\u00e9nix Rework)",
-        "url": "https://open.spotify.com/album/6eNV8XRDWeWfYiWNLmgPko"
+        "name": "Storm",
+        "url": "https://open.spotify.com/album/7LfAtfT3rsZSSV28Us4KRz"
       },
       "artists": [
         {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+          "name": "AVAO",
+          "url": "https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw"
         },
         {
-          "name": "C\u00f3dex F\u00e9nix",
-          "url": "https://open.spotify.com/artist/0Z2QCuPFA3x3OoH20obELy"
+          "name": "X-Y",
+          "url": "https://open.spotify.com/artist/73fWJPA3Vga1WbbBpHnlZ3"
+        },
+        {
+          "name": "HYPE.",
+          "url": "https://open.spotify.com/artist/3CdMKtSzS7b0E4Ly206xBU"
+        },
+        {
+          "name": "BassBears",
+          "url": "https://open.spotify.com/artist/3dNqN9ggP6hqIGoVCovVb3"
         }
       ],
-      "duration_ms": 254386,
-      "name": "Su Majestad La Eternidad - C\u00f3dex F\u00e9nix Rework",
-      "url": "https://open.spotify.com/track/5rfmTvAbeyUMLZKByrCYxC"
+      "duration_ms": 193955,
+      "name": "Storm",
+      "url": "https://open.spotify.com/track/4AkIdFbQ03lYvkj5MD61vH"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -1731,22 +1731,22 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "Levantando",
-        "url": "https://open.spotify.com/album/3gfFB97DovfyjjBRnUTUFv"
+        "name": "Su Majestad La Eternidad (C\u00f3dex F\u00e9nix Rework)",
+        "url": "https://open.spotify.com/album/6eNV8XRDWeWfYiWNLmgPko"
       },
       "artists": [
         {
-          "name": "Cabizbajo",
-          "url": "https://open.spotify.com/artist/3sZkCrbHsAo7OS6CuB7F6Q"
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
         },
         {
-          "name": "Miranda Santizo",
-          "url": "https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT"
+          "name": "C\u00f3dex F\u00e9nix",
+          "url": "https://open.spotify.com/artist/0Z2QCuPFA3x3OoH20obELy"
         }
       ],
-      "duration_ms": 369403,
-      "name": "El Encantador",
-      "url": "https://open.spotify.com/track/3wa3TrXBQL5xI95Yb40Kmh"
+      "duration_ms": 254386,
+      "name": "Su Majestad La Eternidad - C\u00f3dex F\u00e9nix Rework",
+      "url": "https://open.spotify.com/track/5rfmTvAbeyUMLZKByrCYxC"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -1767,22 +1767,38 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "CLI CLI Clan Clan",
-        "url": "https://open.spotify.com/album/7CyIk7mlvZK9F5AFggoRWH"
+        "name": "Mr.Pig",
+        "url": "https://open.spotify.com/album/6kiD6iS7MAcG9MjCpmUfUa"
       },
       "artists": [
         {
           "name": "Mr. Pig",
           "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
-        },
-        {
-          "name": "Potencia Lirical",
-          "url": "https://open.spotify.com/artist/6fxEt6A7hRd7Iq4FnwSxVb"
         }
       ],
-      "duration_ms": 259306,
-      "name": "CLI CLI Clan Clan",
-      "url": "https://open.spotify.com/track/5xLrfv3GK89aV5lL1ger1e"
+      "duration_ms": 174106,
+      "name": "Asereje",
+      "url": "https://open.spotify.com/track/5mkhP5I8alKIYytxsuhYNr"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
+        "name": "Levantando",
+        "url": "https://open.spotify.com/album/3gfFB97DovfyjjBRnUTUFv"
+      },
+      "artists": [
+        {
+          "name": "Cabizbajo",
+          "url": "https://open.spotify.com/artist/3sZkCrbHsAo7OS6CuB7F6Q"
+        },
+        {
+          "name": "Miranda Santizo",
+          "url": "https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT"
+        }
+      ],
+      "duration_ms": 369403,
+      "name": "El Encantador",
+      "url": "https://open.spotify.com/track/3wa3TrXBQL5xI95Yb40Kmh"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -1823,26 +1839,6 @@
       "duration_ms": 208125,
       "name": "Pass The Dutch",
       "url": "https://open.spotify.com/track/0Tk3EEE8mCTb8VaS5Phqc0"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
-        "name": "Forever (Tonga Conga Remix)",
-        "url": "https://open.spotify.com/album/1AuahjwurBIlkDXjJ2D95I"
-      },
-      "artists": [
-        {
-          "name": "Midnight Generation",
-          "url": "https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq"
-        },
-        {
-          "name": "Tonga Conga",
-          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
-        }
-      ],
-      "duration_ms": 332000,
-      "name": "Forever - Tonga Conga Remix",
-      "url": "https://open.spotify.com/track/5u4rVp6lsWZRgkVmHNPDV2"
     }
   ],
   "unique_name": "EDM\u00e9xico",

@@ -1046,7 +1046,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 131927,
       "name": "Bonjour",
       "url": "https://open.spotify.com/track/2tFmuYL5D8zqBHvs0nG5Tn"
@@ -2437,6 +2437,32 @@
     },
     {
       "album": {
+        "name": "Diesel Dior",
+        "url": "https://open.spotify.com/album/6MNqs3AyrgaxCTzY0VubqW"
+      },
+      "artists": [
+        {
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+        },
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "Salve Crazy",
+          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189197,
+      "name": "Diesel Dior",
+      "url": "https://open.spotify.com/track/1ilQOr4WSuduqsRJ9UOLYW"
+    },
+    {
+      "album": {
         "name": "Meu Momento",
         "url": "https://open.spotify.com/album/5rgYDyO3pOgkzNkm6m6jfc"
       },
@@ -3130,6 +3156,36 @@
       "duration_ms": 211859,
       "name": "Espero Que Entendam - Freestyle",
       "url": "https://open.spotify.com/track/3MEMW13ORJh94KnERm44JM"
+    },
+    {
+      "album": {
+        "name": "Esqueceu seu brinco",
+        "url": "https://open.spotify.com/album/1lA4uaxmHZMVzqCJrHiIdZ"
+      },
+      "artists": [
+        {
+          "name": "Aka Rasta",
+          "url": "https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB"
+        },
+        {
+          "name": "N.A.N.A.",
+          "url": "https://open.spotify.com/artist/4W7msxIdip7RH18eBaToND"
+        },
+        {
+          "name": "Limera",
+          "url": "https://open.spotify.com/artist/32aiEjeXmvipOPMb2iPvnt"
+        },
+        {
+          "name": "Levi Menezes",
+          "url": "https://open.spotify.com/artist/4m1Mj4V2sNYg5vmEzff8ti"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284138,
+      "name": "Esqueceu seu brinco",
+      "url": "https://open.spotify.com/track/6aDQLyjCmj6Bb8apW0v8KF"
     },
     {
       "album": {

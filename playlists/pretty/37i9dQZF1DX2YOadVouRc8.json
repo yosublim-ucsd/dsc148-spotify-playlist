@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 27413,
+  "num_followers": 27462,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -207,7 +207,7 @@
     {
       "added_at": "2024-09-13 00:01:00",
       "album": {
-        "name": "Wahala (feat. Olamide)",
+        "name": "WAHALA (FEAT. OLAMIDE)",
         "url": "https://open.spotify.com/album/59BxJKNg7wRYlJxAahb3YW"
       },
       "artists": [
@@ -221,7 +221,7 @@
         }
       ],
       "duration_ms": 170721,
-      "name": "Wahala (feat. Olamide)",
+      "name": "WAHALA (FEAT. OLAMIDE)",
       "url": "https://open.spotify.com/track/6ZBXya9ewPZa6zXDRfPhog"
     },
     {
@@ -479,26 +479,6 @@
     {
       "added_at": "2024-09-13 00:01:00",
       "album": {
-        "name": "The Year I Turned 21",
-        "url": "https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 163114,
-      "name": "Goodbye (Warm Up)(feat. Asake)",
-      "url": "https://open.spotify.com/track/7vAXxDFUHDPxWzSujxb8jB"
-    },
-    {
-      "added_at": "2024-09-13 00:01:00",
-      "album": {
         "name": "Love Don't Cost A Dime (Re-Up)",
         "url": "https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 147600,
       "name": "Love Don't Cost A Dime (Re-Up)",
       "url": "https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH"
+    },
+    {
+      "added_at": "2024-09-13 00:01:00",
+      "album": {
+        "name": "The Year I Turned 21",
+        "url": "https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 163114,
+      "name": "Goodbye (Warm Up)(feat. Asake)",
+      "url": "https://open.spotify.com/track/7vAXxDFUHDPxWzSujxb8jB"
     },
     {
       "added_at": "2024-09-13 00:01:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-09-13 00:01:00",
       "album": {
-        "name": "I Told Them...",
-        "url": "https://open.spotify.com/album/5PKl5yyetQ6mFeWK6ONbSH"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 220394,
-      "name": "Tested, Approved & Trusted",
-      "url": "https://open.spotify.com/track/6Z7X86HZWODk0KPVmOsCKR"
-    },
-    {
-      "added_at": "2024-09-13 00:01:00",
-      "album": {
         "name": "Isibuko (Deluxe)",
         "url": "https://open.spotify.com/album/1lGqLdcBs9Ga0xKD8Cvb6U"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 276000,
       "name": "Typhoon (feat. Sastii, LaCabra, Lowfeye, Blue Pappi)",
       "url": "https://open.spotify.com/track/0tIDIj46MoZhTuU7lPw4qD"
+    },
+    {
+      "added_at": "2024-09-13 00:01:00",
+      "album": {
+        "name": "I Told Them...",
+        "url": "https://open.spotify.com/album/5PKl5yyetQ6mFeWK6ONbSH"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 220394,
+      "name": "Tested, Approved & Trusted",
+      "url": "https://open.spotify.com/track/6Z7X86HZWODk0KPVmOsCKR"
     },
     {
       "added_at": "2024-09-13 00:01:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-09-13 00:01:00",
       "album": {
-        "name": "BOOK OF VASA",
-        "url": "https://open.spotify.com/album/3Lz2VJu0knmkDS5QyfPJ6c"
-      },
-      "artists": [
-        {
-          "name": "VASA",
-          "url": "https://open.spotify.com/artist/2TQT9f1Kn5DhKVULYFBq8Q"
-        }
-      ],
-      "duration_ms": 175500,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/5iyo28ttlgg0JvrXZaqSwM"
-    },
-    {
-      "added_at": "2024-09-13 00:01:00",
-      "album": {
         "name": "Will I?",
         "url": "https://open.spotify.com/album/76c9Zwxc1cTq0tfXw7eMSM"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 164081,
       "name": "Will I?",
       "url": "https://open.spotify.com/track/76u1M1WWr3TGCJUXR5eKTT"
+    },
+    {
+      "added_at": "2024-09-13 00:01:00",
+      "album": {
+        "name": "BOOK OF VASA",
+        "url": "https://open.spotify.com/album/3Lz2VJu0knmkDS5QyfPJ6c"
+      },
+      "artists": [
+        {
+          "name": "VASA",
+          "url": "https://open.spotify.com/artist/2TQT9f1Kn5DhKVULYFBq8Q"
+        }
+      ],
+      "duration_ms": 175500,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/5iyo28ttlgg0JvrXZaqSwM"
     },
     {
       "added_at": "2024-09-13 00:01:00",
@@ -1491,34 +1491,6 @@
     {
       "added_at": "2024-09-13 00:01:00",
       "album": {
-        "name": "Dalilah II",
-        "url": "https://open.spotify.com/album/1axrqyHSrmprv2iwLbClVb"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        },
-        {
-          "name": "Simi",
-          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
-        },
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        },
-        {
-          "name": "Axon",
-          "url": "https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol"
-        }
-      ],
-      "duration_ms": 178775,
-      "name": "Dalilah II",
-      "url": "https://open.spotify.com/track/3pU5thrIWedorXzDa3gOjb"
-    },
-    {
-      "added_at": "2024-09-13 00:01:00",
-      "album": {
         "name": "Instantly",
         "url": "https://open.spotify.com/album/5cDnEzSuOcycPxq1q1GtTh"
       },
@@ -1535,6 +1507,22 @@
       "duration_ms": 188387,
       "name": "Instantly",
       "url": "https://open.spotify.com/track/0z8XRsI1lc1Fz6FjRVo8Fm"
+    },
+    {
+      "added_at": "2024-09-13 00:01:00",
+      "album": {
+        "name": "California / Rollercoaster",
+        "url": "https://open.spotify.com/album/6ocXzmy38tFXV54CL56bga"
+      },
+      "artists": [
+        {
+          "name": "Majeeed",
+          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
+        }
+      ],
+      "duration_ms": 140357,
+      "name": "California",
+      "url": "https://open.spotify.com/track/2NJaVPITRe1XCSwTpbIZk3"
     }
   ],
   "unique_name": "Afro Chill",

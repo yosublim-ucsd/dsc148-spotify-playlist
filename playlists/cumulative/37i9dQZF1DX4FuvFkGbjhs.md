@@ -4,7 +4,7 @@
 
 > Beyond titles, beyond genre\. Cover: FKA twigs
 
-213 songs - 12 hr 23 min
+214 songs - 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Dafodil](https://open.spotify.com/track/6VVRLkRdr7EzgKTHzYZ1pa) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5), [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Dafodil](https://open.spotify.com/album/2lg6Q82rLglSMu4JkvnHDb) | 3:32 | 2024-08-29 |  |
 | [dance of the trees](https://open.spotify.com/track/4bG78LXku0K6bKIQ4IS5Yu) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [dance of the trees](https://open.spotify.com/album/5EE8f2rtxbQsGwVPfVNySX) | 2:31 | 2024-06-27 | 2024-07-05 |
 | [DANCING LIKE WE'LL NEVER DIE](https://open.spotify.com/track/35dwjl1Zr9N6z4zwYdvNfS) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [HOTEL HEAVEN \- Extended](https://open.spotify.com/album/5AndgFVIQlZ4XyTKsQ6GPH) | 5:10 | 2024-08-08 |  |
+| [dead giveaway](https://open.spotify.com/track/3Eidg0OLrDYFjsyjJTzieL) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [Verbathim](https://open.spotify.com/album/6aLc5t3mdbmonoCZMAnZ7N) | 2:47 | 2024-09-12 |  |
 | [Death & Romance](https://open.spotify.com/track/5jnlJbBK53L6Nd3ox8T0ot) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Death & Romance](https://open.spotify.com/album/51g8P7ai5xyj970iIdmMFz) | 5:14 | 2024-06-27 | 2024-08-09 |
 | [Death Lurking \(feat\. Izzy Da Fonseca\)](https://open.spotify.com/track/4Gn8QeUyrAgDXegt6XVVBX) | [Lip Critic](https://open.spotify.com/artist/4ABuKdLlVyzLztIFR8ETX9), [Izzy Da Fonseca](https://open.spotify.com/artist/2D4pCpP1hPhNUuw4jdgLwt) | [Death Lurking \(feat\. Izzy Da Fonseca\)](https://open.spotify.com/album/4er5M8euXXFNtJd5PCXA1W) | 3:50 | 2024-06-27 | 2024-07-19 |
 | [devils](https://open.spotify.com/track/2CjTQ2Nn30GEoqHkWOYBFh) | [BAD WITH PHONES](https://open.spotify.com/artist/6pCduVf5CPK2i5C6FdWfaC) | [CRASH](https://open.spotify.com/album/4u4mLQ5FDOc77xCvFtCNXk) | 3:01 | 2024-07-11 | 2024-08-09 |

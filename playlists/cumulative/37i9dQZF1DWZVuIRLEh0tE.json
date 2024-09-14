@@ -835,6 +835,24 @@
     },
     {
       "album": {
+        "name": "Bailame",
+        "url": "https://open.spotify.com/album/4HtDIuQ5G6wckIiuWYWup7"
+      },
+      "artists": [
+        {
+          "name": "Chriss Oz",
+          "url": "https://open.spotify.com/artist/25zXqzpthOYV1UjwroF7sn"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148033,
+      "name": "Bailame",
+      "url": "https://open.spotify.com/track/0rzUSTErFqeg5SDpHm5Flz"
+    },
+    {
+      "album": {
         "name": "BAILAMOS LA \u00daLTIMA?",
         "url": "https://open.spotify.com/album/1RdRDONTEMq1egRUn5DTPw"
       },
@@ -982,6 +1000,24 @@
       "duration_ms": 216133,
       "name": "Bandolero",
       "url": "https://open.spotify.com/track/6ZFnse2LtjvVbp1lxBdIx9"
+    },
+    {
+      "album": {
+        "name": "Bandz",
+        "url": "https://open.spotify.com/album/1ViWmbHGdvCTTZPdaDeiTC"
+      },
+      "artists": [
+        {
+          "name": "Little Homie",
+          "url": "https://open.spotify.com/artist/7HDjs7xzL0m2IbJcg3qnky"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171120,
+      "name": "Bandz",
+      "url": "https://open.spotify.com/track/69cWMCbMtqKTKyc2I7c2hl"
     },
     {
       "album": {
@@ -2217,6 +2253,28 @@
     },
     {
       "album": {
+        "name": "Cypher Vol.1",
+        "url": "https://open.spotify.com/album/4d8ExE0RJFdkKh2LSOtTMV"
+      },
+      "artists": [
+        {
+          "name": "Bulova",
+          "url": "https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0"
+        },
+        {
+          "name": "Lapiz Conciente",
+          "url": "https://open.spotify.com/artist/0UTsdD7VIsEB9i7a6DDx5t"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Cypher Vol.1",
+      "url": "https://open.spotify.com/track/1KkxJueiJY6G60VyuwZcCw"
+    },
+    {
+      "album": {
         "name": "Dame la Luz",
         "url": "https://open.spotify.com/album/46cUWvchdHqSX9gzJp5pyL"
       },
@@ -2346,7 +2404,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 161279,
       "name": "Dayyon: Track #1 (Volar)",
       "url": "https://open.spotify.com/track/2i2uN939SNxURZiy0912iA"
@@ -2816,7 +2874,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 155688,
       "name": "Diferente",
       "url": "https://open.spotify.com/track/4gSCux1nBQmZWR9SUL0XIe"
@@ -2934,6 +2992,24 @@
       "duration_ms": 180048,
       "name": "Dinero",
       "url": "https://open.spotify.com/track/3VxgFji6Yqtn8eSjiRAfy9"
+    },
+    {
+      "album": {
+        "name": "Dinero + Problema",
+        "url": "https://open.spotify.com/album/5aIL49FGSi9NzYQFy89T5w"
+      },
+      "artists": [
+        {
+          "name": "Carlos Trvp",
+          "url": "https://open.spotify.com/artist/3OZW7ELARiHhIhvhQ4FLCy"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141606,
+      "name": "Dinero + Problema",
+      "url": "https://open.spotify.com/track/1Eb2zaH3mCKE17J8nTBUax"
     },
     {
       "album": {
@@ -3747,6 +3823,32 @@
     },
     {
       "album": {
+        "name": "En La Boca",
+        "url": "https://open.spotify.com/album/5i6T407AKs1vdiduyyfhUe"
+      },
+      "artists": [
+        {
+          "name": "Shadow Blow",
+          "url": "https://open.spotify.com/artist/53cVnpkm8dTmf20tssYSNF"
+        },
+        {
+          "name": "Braulio Fogon",
+          "url": "https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9"
+        },
+        {
+          "name": "212MUSIC",
+          "url": "https://open.spotify.com/artist/64fS1PIu8pLViR5EZzvNLq"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151638,
+      "name": "En La Boca",
+      "url": "https://open.spotify.com/track/7CQKwskPmZiG9nWTOzOGXY"
+    },
+    {
+      "album": {
         "name": "En la Calle",
         "url": "https://open.spotify.com/album/4K3yuL4vwjrT0thJnMS4gN"
       },
@@ -4214,6 +4316,24 @@
       "duration_ms": 237860,
       "name": "FREESTYLE #12 TEMP.5",
       "url": "https://open.spotify.com/track/44DOh22teP1CQhJwVdxvzl"
+    },
+    {
+      "album": {
+        "name": "Frisa",
+        "url": "https://open.spotify.com/album/0Q8Kx0AJVr8RHcCA3qno5V"
+      },
+      "artists": [
+        {
+          "name": "Treintisiete",
+          "url": "https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149677,
+      "name": "Frisa",
+      "url": "https://open.spotify.com/track/2GcKvB2UdscaL8q5QHgEwu"
     },
     {
       "album": {
@@ -4692,7 +4812,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 178536,
       "name": "Hey Ma",
       "url": "https://open.spotify.com/track/44CA676WfwTw1Coo4MjkvY"
@@ -5327,6 +5447,32 @@
     },
     {
       "album": {
+        "name": "La Tipa",
+        "url": "https://open.spotify.com/album/4BJVF3eSd4cJK6mzgPxAMO"
+      },
+      "artists": [
+        {
+          "name": "Dilon Baby",
+          "url": "https://open.spotify.com/artist/4ZIaiuKxYK6A6JwvvwqXoN"
+        },
+        {
+          "name": "Oliver Detone",
+          "url": "https://open.spotify.com/artist/1nGu8KOUEVJPvFBx7nqJex"
+        },
+        {
+          "name": "Jordan Films RD",
+          "url": "https://open.spotify.com/artist/4GJGlXGtaMaRA64EiYlZen"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164312,
+      "name": "La Tipa",
+      "url": "https://open.spotify.com/track/4xWUoOFtVc1BZTRO8kFx77"
+    },
+    {
+      "album": {
         "name": "La Victoria Ta Bobo",
         "url": "https://open.spotify.com/album/1ukEr5hPui2q8ha4JfUUho"
       },
@@ -5720,7 +5866,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 132000,
       "name": "Lo Rango",
       "url": "https://open.spotify.com/track/2Z5yMF7F012reTXeds9Tw2"
@@ -7438,7 +7584,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 173448,
       "name": "No Funcion\u00f3",
       "url": "https://open.spotify.com/track/35fKmt9EdSUcJ3yWw2jazH"
@@ -10612,7 +10758,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 169142,
       "name": "Un Juego",
       "url": "https://open.spotify.com/track/4mauf02LoGZh18Y7pRulBA"
@@ -10858,7 +11004,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 885418,
       "name": "VAN A MORIR FREESTYLE",
       "url": "https://open.spotify.com/track/0jLSynTx5NNPhVwTg14ytG"
@@ -11036,7 +11182,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 124491,
       "name": "X ENCIMA",
       "url": "https://open.spotify.com/track/3UGIlXkdtwGlz2NvAmYe9I"

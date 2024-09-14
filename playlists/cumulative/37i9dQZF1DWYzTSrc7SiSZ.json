@@ -1900,7 +1900,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 196909,
       "name": "Hace Mucho",
       "url": "https://open.spotify.com/track/04gW4DqauMsrec4IJN6swN"
@@ -3882,7 +3882,7 @@
           "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
         },
         {
-          "name": "Humbe",
+          "name": "HUMBE",
           "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
         }
       ],
@@ -5340,6 +5340,28 @@
       "duration_ms": 242000,
       "name": "Volv\u00e9s",
       "url": "https://open.spotify.com/track/2fsuYnBJXJBI8EDp1F68KW"
+    },
+    {
+      "album": {
+        "name": "WADGYMAR",
+        "url": "https://open.spotify.com/album/5DT4QkZPyAjo5s2f1Rtz4p"
+      },
+      "artists": [
+        {
+          "name": "Oscar Plaza",
+          "url": "https://open.spotify.com/artist/0FYXuJlqrMUDBXt30fHy9U"
+        },
+        {
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139833,
+      "name": "WADGYMAR",
+      "url": "https://open.spotify.com/track/5EckFDDZ79K3PbEJBeVyLX"
     },
     {
       "album": {

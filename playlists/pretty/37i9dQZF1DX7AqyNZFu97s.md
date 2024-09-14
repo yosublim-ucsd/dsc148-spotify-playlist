@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK & Ireland\. Cover: Cap1talA
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,252 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,265 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 41 | [face to face](https://open.spotify.com/track/1faZdE6q27lJH2GnhFuhBP) | [Alice Shone](https://open.spotify.com/artist/38DN9grOW9tijIsqD7ifGQ) | [face to face](https://open.spotify.com/album/76lVUNdjwPIhsQTMJrzmMn) | 3:01 |
 | 42 | [Bloody Bouquets](https://open.spotify.com/track/5qbJK62OGEkPB1jkeH1hTa) | [Demae](https://open.spotify.com/artist/1HkWfjmOohAg7lS9bv1QcL) | [Deliver Me](https://open.spotify.com/album/1loTEiFpkWnWgOEtAavZna) | 3:29 |
 | 43 | [More](https://open.spotify.com/track/6icb1ikGS5ishXEwZbdI4e) | [Sempra](https://open.spotify.com/artist/76YrQ1DtiiJ5MFbIIWLOSq) | [More](https://open.spotify.com/album/7maPdzEBzq4MQOiD4Q5MJ2) | 4:33 |
-| 44 | [BULLDOZER](https://open.spotify.com/track/1CsDTErfzbeq61FESzsayD) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [Eastern Margins](https://open.spotify.com/artist/28U72qhceWcm0usxPCY0ut) | [BULLDOZER](https://open.spotify.com/album/1qIdi4vFmO79C90DhUk7yK) | 2:41 |
+| 44 | [BULLDOZER](https://open.spotify.com/track/1CsDTErfzbeq61FESzsayD) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS) | [BULLDOZER](https://open.spotify.com/album/1qIdi4vFmO79C90DhUk7yK) | 2:41 |
 | 45 | [Forget Me](https://open.spotify.com/track/4DAt2YGkvsiLTggSsX8ZFI) | [Emma Taylor and the Wall Flowers](https://open.spotify.com/artist/6PHARimUCMnP2gExbWUVan) | [Forget Me](https://open.spotify.com/album/4UN59a3lmCI1xe56Vzt1m2) | 4:26 |
 | 46 | [On The Fence](https://open.spotify.com/track/4NAEalETvuL5nT4cSpZWx3) | [Rue](https://open.spotify.com/artist/6cmRqzwHMJFTe0cbgyjQb9) | [On The Fence](https://open.spotify.com/album/4eeSVQq7vtCTAUzcmdtEgQ) | 4:00 |
 | 47 | [Let Love Find A Way](https://open.spotify.com/track/6YN8JwxYGpADhOCWF25Bv8) | [Private Joy](https://open.spotify.com/artist/1m5x6qPy9FiZTHoFRyKXyL), [Ada Francis](https://open.spotify.com/artist/1GcwvXUqDKscaZwuAHcEaw) | [Desire!](https://open.spotify.com/album/68hDNCsbj5JPPb3HmAP1Zh) | 3:45 |

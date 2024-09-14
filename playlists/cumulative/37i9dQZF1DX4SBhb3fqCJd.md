@@ -2,7 +2,7 @@
 
 ### [RNB X](https://open.spotify.com/playlist/37i9dQZF1DX4SBhb3fqCJd)
 
-> Where R&B lives\. Cover: Leon Thomas
+> Where R&B lives\. Cover: Halle
 
 517 songs - 1 day 5 hr 5 min
 

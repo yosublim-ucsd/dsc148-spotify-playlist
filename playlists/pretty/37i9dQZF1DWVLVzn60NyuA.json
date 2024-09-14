@@ -1,6 +1,6 @@
 {
   "description": "Afro, Caribbean & Latin sounds for that summer vibe",
-  "num_followers": 448318,
+  "num_followers": 448373,
   "original_name": "Summer Vibes",
   "owner": {
     "name": "Spotify",
@@ -311,6 +311,22 @@
     {
       "added_at": "2024-09-12 11:20:29",
       "album": {
+        "name": "RU The World",
+        "url": "https://open.spotify.com/album/676QN3uS7pzWA0Or87JTcN"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Asiwaju",
+      "url": "https://open.spotify.com/track/6z5y2kdxF4XrEVRFVqdGVL"
+    },
+    {
+      "added_at": "2024-09-12 11:20:29",
+      "album": {
         "name": "CALOR",
         "url": "https://open.spotify.com/album/6Wje6XhXvKPW2hgMs2Jse8"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 200769,
       "name": "CALOR",
       "url": "https://open.spotify.com/track/3fbPAnQhNaUlIMaYtyNvk9"
-    },
-    {
-      "added_at": "2024-09-12 11:20:29",
-      "album": {
-        "name": "RU The World",
-        "url": "https://open.spotify.com/album/676QN3uS7pzWA0Or87JTcN"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Asiwaju",
-      "url": "https://open.spotify.com/track/6z5y2kdxF4XrEVRFVqdGVL"
     },
     {
       "added_at": "2024-09-12 11:20:29",
@@ -719,7 +719,7 @@
     {
       "added_at": "2024-09-12 11:20:29",
       "album": {
-        "name": "Wahala (feat. Olamide)",
+        "name": "WAHALA (FEAT. OLAMIDE)",
         "url": "https://open.spotify.com/album/59BxJKNg7wRYlJxAahb3YW"
       },
       "artists": [
@@ -733,7 +733,7 @@
         }
       ],
       "duration_ms": 170721,
-      "name": "Wahala (feat. Olamide)",
+      "name": "WAHALA (FEAT. OLAMIDE)",
       "url": "https://open.spotify.com/track/6ZBXya9ewPZa6zXDRfPhog"
     },
     {
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-09-12 11:20:29",
       "album": {
-        "name": "Soundgasm",
-        "url": "https://open.spotify.com/album/5dfgyak8CbmvnfGHUlBq1n"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 204755,
-      "name": "Soundgasm",
-      "url": "https://open.spotify.com/track/5c549LWiKCWGvcDsZwMN6v"
-    },
-    {
-      "added_at": "2024-09-12 11:20:29",
-      "album": {
         "name": "Won't Be Late (feat. Drake)",
         "url": "https://open.spotify.com/album/4v0FSMsulZqfi28KIdwDfb"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 218709,
       "name": "Won't Be Late (feat. Drake)",
       "url": "https://open.spotify.com/track/2sqsNXfN0HtgDEgaHXiUTa"
+    },
+    {
+      "added_at": "2024-09-12 11:20:29",
+      "album": {
+        "name": "Soundgasm",
+        "url": "https://open.spotify.com/album/5dfgyak8CbmvnfGHUlBq1n"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 204755,
+      "name": "Soundgasm",
+      "url": "https://open.spotify.com/track/5c549LWiKCWGvcDsZwMN6v"
     },
     {
       "added_at": "2024-09-12 11:20:29",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-09-12 11:20:29",
       "album": {
-        "name": "Walk With Me",
-        "url": "https://open.spotify.com/album/5N5e8acMVgsIZif4NZppoj"
-      },
-      "artists": [
-        {
-          "name": "Rotimi",
-          "url": "https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf"
-        }
-      ],
-      "duration_ms": 219481,
-      "name": "Love Riddim",
-      "url": "https://open.spotify.com/track/22uU5EVRx6rVpuUANTFEhn"
-    },
-    {
-      "added_at": "2024-09-12 11:20:29",
-      "album": {
         "name": "love nwantiti (feat. ElGrande Toto) [North African Remix]",
         "url": "https://open.spotify.com/album/6Gyni4addCtIY57Cxulegg"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 135480,
       "name": "love nwantiti (feat. ElGrande Toto) - North African Remix",
       "url": "https://open.spotify.com/track/1EYeZGTMCjV7uVey5fNWXM"
+    },
+    {
+      "added_at": "2024-09-12 11:20:29",
+      "album": {
+        "name": "Walk With Me",
+        "url": "https://open.spotify.com/album/5N5e8acMVgsIZif4NZppoj"
+      },
+      "artists": [
+        {
+          "name": "Rotimi",
+          "url": "https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf"
+        }
+      ],
+      "duration_ms": 219481,
+      "name": "Love Riddim",
+      "url": "https://open.spotify.com/track/22uU5EVRx6rVpuUANTFEhn"
     },
     {
       "added_at": "2024-09-12 11:20:29",
@@ -1395,18 +1395,22 @@
     {
       "added_at": "2024-09-12 11:20:29",
       "album": {
-        "name": "PINK SUMMER",
-        "url": "https://open.spotify.com/album/4j33fN2BPocBEJTsguqRPl"
+        "name": "Qui sait ? (feat. ElGrandeToto)",
+        "url": "https://open.spotify.com/album/4Fcl7tsReWcII8mfGDW3gr"
       },
       "artists": [
         {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+          "name": "Niro",
+          "url": "https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
         }
       ],
-      "duration_ms": 208471,
-      "name": "GIRLS WANNA HAVE FUN",
-      "url": "https://open.spotify.com/track/2vjiaAgTaB32W1PNYYaFdZ"
+      "duration_ms": 190786,
+      "name": "Qui sait ? (feat. ElGrandeToto)",
+      "url": "https://open.spotify.com/track/2ocvINkdRhdHdpgWfkCZOR"
     },
     {
       "added_at": "2024-09-12 11:20:29",
@@ -1431,22 +1435,18 @@
     {
       "added_at": "2024-09-12 11:20:29",
       "album": {
-        "name": "Qui sait ? (feat. ElGrandeToto)",
-        "url": "https://open.spotify.com/album/4Fcl7tsReWcII8mfGDW3gr"
+        "name": "PINK SUMMER",
+        "url": "https://open.spotify.com/album/4j33fN2BPocBEJTsguqRPl"
       },
       "artists": [
         {
-          "name": "Niro",
-          "url": "https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q"
-        },
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
         }
       ],
-      "duration_ms": 190786,
-      "name": "Qui sait ? (feat. ElGrandeToto)",
-      "url": "https://open.spotify.com/track/2ocvINkdRhdHdpgWfkCZOR"
+      "duration_ms": 208471,
+      "name": "GIRLS WANNA HAVE FUN",
+      "url": "https://open.spotify.com/track/2vjiaAgTaB32W1PNYYaFdZ"
     },
     {
       "added_at": "2024-09-12 11:20:29",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2024-09-12 11:20:29",
       "album": {
-        "name": "No Dey Form",
-        "url": "https://open.spotify.com/album/019TDVSSWLHZtDiqJlSiLV"
-      },
-      "artists": [
-        {
-          "name": "Babyboy AV",
-          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
-        }
-      ],
-      "duration_ms": 140540,
-      "name": "No Dey Form",
-      "url": "https://open.spotify.com/track/1a5glQzge8OW5w2izckOGN"
-    },
-    {
-      "added_at": "2024-09-12 11:20:29",
-      "album": {
         "name": "SoundMan Vol. 1",
         "url": "https://open.spotify.com/album/5nhLODdncnkg3rVlzva3YY"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 198678,
       "name": "Jam (feat. Wizkid)",
       "url": "https://open.spotify.com/track/6eHqU8ntHGzddACoxlfDX0"
+    },
+    {
+      "added_at": "2024-09-12 11:20:29",
+      "album": {
+        "name": "No Dey Form",
+        "url": "https://open.spotify.com/album/019TDVSSWLHZtDiqJlSiLV"
+      },
+      "artists": [
+        {
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+        }
+      ],
+      "duration_ms": 140540,
+      "name": "No Dey Form",
+      "url": "https://open.spotify.com/track/1a5glQzge8OW5w2izckOGN"
     },
     {
       "added_at": "2024-09-12 11:20:29",
@@ -2175,26 +2175,6 @@
     {
       "added_at": "2024-09-12 11:20:29",
       "album": {
-        "name": "MAS DUSHI",
-        "url": "https://open.spotify.com/album/5yjHjSmo3ouZQdYu910Vpd"
-      },
-      "artists": [
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        },
-        {
-          "name": "KILATE TESLA",
-          "url": "https://open.spotify.com/artist/3aO2Q4cXKGxsh87bX4Oavo"
-        }
-      ],
-      "duration_ms": 158130,
-      "name": "MAS DUSHI",
-      "url": "https://open.spotify.com/track/3q1ji65PsbwM9nAAheWEYL"
-    },
-    {
-      "added_at": "2024-09-12 11:20:29",
-      "album": {
         "name": "As Promised",
         "url": "https://open.spotify.com/album/11sPQhjZhUDue2hWycZJyX"
       },
@@ -2227,22 +2207,22 @@
     {
       "added_at": "2024-09-12 11:20:29",
       "album": {
-        "name": "Catch Me If You Can",
-        "url": "https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn"
+        "name": "MAS DUSHI",
+        "url": "https://open.spotify.com/album/5yjHjSmo3ouZQdYu910Vpd"
       },
       "artists": [
         {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
         },
         {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+          "name": "KILATE TESLA",
+          "url": "https://open.spotify.com/artist/3aO2Q4cXKGxsh87bX4Oavo"
         }
       ],
-      "duration_ms": 160799,
-      "name": "One Woman",
-      "url": "https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF"
+      "duration_ms": 158130,
+      "name": "MAS DUSHI",
+      "url": "https://open.spotify.com/track/3q1ji65PsbwM9nAAheWEYL"
     },
     {
       "added_at": "2024-09-12 11:20:29",
@@ -2259,6 +2239,26 @@
       "duration_ms": 146400,
       "name": "Wi Deh Yah",
       "url": "https://open.spotify.com/track/6EnfbMj5Ui3jkIw8CDaYIW"
+    },
+    {
+      "added_at": "2024-09-12 11:20:29",
+      "album": {
+        "name": "Catch Me If You Can",
+        "url": "https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 160799,
+      "name": "One Woman",
+      "url": "https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF"
     },
     {
       "added_at": "2024-09-12 11:20:29",
@@ -2355,22 +2355,6 @@
     {
       "added_at": "2024-09-12 11:20:29",
       "album": {
-        "name": "Section",
-        "url": "https://open.spotify.com/album/51ygRTQJLBz3v6EDqvsL6K"
-      },
-      "artists": [
-        {
-          "name": "Kranium",
-          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "Section",
-      "url": "https://open.spotify.com/track/2R6wZFWXBF2rRIbvQirzjP"
-    },
-    {
-      "added_at": "2024-09-12 11:20:29",
-      "album": {
         "name": "Bloody Samaritan (with Kelly Rowland) [Remix]",
         "url": "https://open.spotify.com/album/7DT4lrXkDrsd4yP2z3D8NX"
       },
@@ -2419,6 +2403,38 @@
     {
       "added_at": "2024-09-12 11:20:29",
       "album": {
+        "name": "OzuTochi",
+        "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 192320,
+      "name": "Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/2CGhzWArXQZG86V1Ztv4Q2"
+    },
+    {
+      "added_at": "2024-09-12 11:20:29",
+      "album": {
+        "name": "Section",
+        "url": "https://open.spotify.com/album/51ygRTQJLBz3v6EDqvsL6K"
+      },
+      "artists": [
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "Section",
+      "url": "https://open.spotify.com/track/2R6wZFWXBF2rRIbvQirzjP"
+    },
+    {
+      "added_at": "2024-09-12 11:20:29",
+      "album": {
         "name": "Damages",
         "url": "https://open.spotify.com/album/1Ulbxmd0Y2esHXkqdgAHsK"
       },
@@ -2435,18 +2451,18 @@
     {
       "added_at": "2024-09-12 11:20:29",
       "album": {
-        "name": "OzuTochi",
-        "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
+        "name": "Likkle Riddim",
+        "url": "https://open.spotify.com/album/7MqW36qjIreNVJ5Vf659uJ"
       },
       "artists": [
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
         }
       ],
-      "duration_ms": 192320,
-      "name": "Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/2CGhzWArXQZG86V1Ztv4Q2"
+      "duration_ms": 164400,
+      "name": "Likkle Riddim",
+      "url": "https://open.spotify.com/track/3weAbRf5cn9SiCYxqZedot"
     },
     {
       "added_at": "2024-09-12 11:20:29",
@@ -2475,18 +2491,18 @@
     {
       "added_at": "2024-09-12 11:20:29",
       "album": {
-        "name": "Likkle Riddim",
-        "url": "https://open.spotify.com/album/7MqW36qjIreNVJ5Vf659uJ"
+        "name": "Commas",
+        "url": "https://open.spotify.com/album/5UX3Gr5uFrtvRvIScps1gA"
       },
       "artists": [
         {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         }
       ],
-      "duration_ms": 164400,
-      "name": "Likkle Riddim",
-      "url": "https://open.spotify.com/track/3weAbRf5cn9SiCYxqZedot"
+      "duration_ms": 157200,
+      "name": "Commas",
+      "url": "https://open.spotify.com/track/3JozQbIWMHBTKIghXKehVy"
     },
     {
       "added_at": "2024-09-12 11:20:29",
@@ -2539,22 +2555,6 @@
       "duration_ms": 153287,
       "name": "SMS",
       "url": "https://open.spotify.com/track/6PlZ3T2h2dpoEWKrviNkKS"
-    },
-    {
-      "added_at": "2024-09-12 11:20:29",
-      "album": {
-        "name": "Commas",
-        "url": "https://open.spotify.com/album/5UX3Gr5uFrtvRvIScps1gA"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 157200,
-      "name": "Commas",
-      "url": "https://open.spotify.com/track/3JozQbIWMHBTKIghXKehVy"
     },
     {
       "added_at": "2024-09-12 11:20:29",
@@ -2703,22 +2703,6 @@
     {
       "added_at": "2024-09-12 11:20:29",
       "album": {
-        "name": "Habri Porta",
-        "url": "https://open.spotify.com/album/61gJqPymaMSdlFuE1U42qg"
-      },
-      "artists": [
-        {
-          "name": "Jayh",
-          "url": "https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF"
-        }
-      ],
-      "duration_ms": 146279,
-      "name": "Habri Porta",
-      "url": "https://open.spotify.com/track/4JCRG0LXlKiifVhAMJDnR9"
-    },
-    {
-      "added_at": "2024-09-12 11:20:29",
-      "album": {
         "name": "Vitamine",
         "url": "https://open.spotify.com/album/3R3KNEZBmPYbxGVNtqZo4q"
       },
@@ -2735,6 +2719,22 @@
       "duration_ms": 154772,
       "name": "Vitamine (Remix) feat. Ya Levis",
       "url": "https://open.spotify.com/track/0cuBU0NjEZImmFEFn7kVsb"
+    },
+    {
+      "added_at": "2024-09-12 11:20:29",
+      "album": {
+        "name": "Habri Porta",
+        "url": "https://open.spotify.com/album/61gJqPymaMSdlFuE1U42qg"
+      },
+      "artists": [
+        {
+          "name": "Jayh",
+          "url": "https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF"
+        }
+      ],
+      "duration_ms": 146279,
+      "name": "Habri Porta",
+      "url": "https://open.spotify.com/track/4JCRG0LXlKiifVhAMJDnR9"
     },
     {
       "added_at": "2024-09-12 11:20:29",
@@ -2795,22 +2795,6 @@
     {
       "added_at": "2024-09-12 11:20:29",
       "album": {
-        "name": "Perdiste",
-        "url": "https://open.spotify.com/album/7kViNXWBbOD3RahNpEZMr3"
-      },
-      "artists": [
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        }
-      ],
-      "duration_ms": 119285,
-      "name": "Perdiste",
-      "url": "https://open.spotify.com/track/2A7ZjaERtQStEmMhSU1BU3"
-    },
-    {
-      "added_at": "2024-09-12 11:20:29",
-      "album": {
         "name": "Truth Be Told",
         "url": "https://open.spotify.com/album/5YZ4AHdhfiAtn3bhoF6Igs"
       },
@@ -2827,6 +2811,22 @@
       "duration_ms": 237480,
       "name": "Nice (feat. Blxst)",
       "url": "https://open.spotify.com/track/13ikSMNMyLUSqkzbqEHzdu"
+    },
+    {
+      "added_at": "2024-09-12 11:20:29",
+      "album": {
+        "name": "Perdiste",
+        "url": "https://open.spotify.com/album/7kViNXWBbOD3RahNpEZMr3"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        }
+      ],
+      "duration_ms": 119285,
+      "name": "Perdiste",
+      "url": "https://open.spotify.com/track/2A7ZjaERtQStEmMhSU1BU3"
     },
     {
       "added_at": "2024-09-12 11:20:29",

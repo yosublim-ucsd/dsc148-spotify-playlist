@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollandse hits\. Cover: Mart Hoogkamer
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,105 likes - 80 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,148 likes - 80 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 79 | [Paradijs](https://open.spotify.com/track/4gpac5Jmu5u9QNWwt5i7UX) | [Pascal Redeker](https://open.spotify.com/artist/2pPlC5pHDMwx9vCtEszoub) | [Paradijs](https://open.spotify.com/album/0kee02X9PL2hkCo50lcXh7) | 2:39 |
 | 80 | [Wachten Op Jou](https://open.spotify.com/track/7D8tOp3trj6rvaplYCnVro) | [Wesley Ponsen](https://open.spotify.com/artist/4xxuGsLzFh24K7Nom9QZvO) | [Wachten Op Jou](https://open.spotify.com/album/62OiJpWTS1sNc9k5P4BICk) | 2:21 |
 
-Snapshot ID: `ZuNkYAAAAACbkarLa3MPxT0q0MqanTUV`
+Snapshot ID: `ZuPoZgAAAAB+aEltSnI2OKRAv8N4cd+I`

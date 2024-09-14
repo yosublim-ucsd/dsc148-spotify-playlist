@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles ballades de la chanson fran\u00e7aise.",
-  "num_followers": 90105,
+  "num_followers": 90159,
   "original_name": "Douce France",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Love Me Please Love Me",
-        "url": "https://open.spotify.com/album/68clUJF0fZaWSdmcBYKxGH"
-      },
-      "artists": [
-        {
-          "name": "Michel Polnareff",
-          "url": "https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT"
-        }
-      ],
-      "duration_ms": 260666,
-      "name": "Love Me, Please Love Me",
-      "url": "https://open.spotify.com/track/2edyuIOPsZrZLBwnsC1u80"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "Ca ne tient pas debout (Remasteris\u00e9 en 2002)",
         "url": "https://open.spotify.com/album/2X3NWw5yXoj2yJJIGvFhKM"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 396493,
       "name": "Le paradis blanc - Remasteris\u00e9 en 2002",
       "url": "https://open.spotify.com/track/6N6uTt8e1vLLgIZK5FgSYh"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Love Me Please Love Me",
+        "url": "https://open.spotify.com/album/68clUJF0fZaWSdmcBYKxGH"
+      },
+      "artists": [
+        {
+          "name": "Michel Polnareff",
+          "url": "https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT"
+        }
+      ],
+      "duration_ms": 260666,
+      "name": "Love Me, Please Love Me",
+      "url": "https://open.spotify.com/track/2edyuIOPsZrZLBwnsC1u80"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "La Tendresse",
-        "url": "https://open.spotify.com/album/1p17ZGCU9FpAs6Ko4TVdNd"
-      },
-      "artists": [
-        {
-          "name": "Daniel Guichard",
-          "url": "https://open.spotify.com/artist/0lFr08kPxkwkXfsrHSmPvs"
-        }
-      ],
-      "duration_ms": 137760,
-      "name": "La tendresse",
-      "url": "https://open.spotify.com/track/0wpF0VHyw7rPouOx1e3o9w"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "The Songs (Acoustic)",
         "url": "https://open.spotify.com/album/7p6VMQCrAaiFiRvg5vnUIJ"
       },
@@ -671,18 +655,18 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Belle Ile En Mer",
-        "url": "https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl"
+        "name": "La Tendresse",
+        "url": "https://open.spotify.com/album/1p17ZGCU9FpAs6Ko4TVdNd"
       },
       "artists": [
         {
-          "name": "Laurent Voulzy",
-          "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
+          "name": "Daniel Guichard",
+          "url": "https://open.spotify.com/artist/0lFr08kPxkwkXfsrHSmPvs"
         }
       ],
-      "duration_ms": 211613,
-      "name": "Belle-\u00cele-en-Mer, Marie-Galante",
-      "url": "https://open.spotify.com/track/5EvgjXjbPxzDf2dzIB4Xbm"
+      "duration_ms": 137760,
+      "name": "La tendresse",
+      "url": "https://open.spotify.com/track/0wpF0VHyw7rPouOx1e3o9w"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -699,6 +683,22 @@
       "duration_ms": 149000,
       "name": "T'es Belle",
       "url": "https://open.spotify.com/track/3SnAZtodqwylc35c3tP0wZ"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Belle Ile En Mer",
+        "url": "https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl"
+      },
+      "artists": [
+        {
+          "name": "Laurent Voulzy",
+          "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
+        }
+      ],
+      "duration_ms": 211613,
+      "name": "Belle-\u00cele-en-Mer, Marie-Galante",
+      "url": "https://open.spotify.com/track/5EvgjXjbPxzDf2dzIB4Xbm"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Le coeur grenadine",
-        "url": "https://open.spotify.com/album/1Rk16GLTOxgDyfJkUDWFot"
-      },
-      "artists": [
-        {
-          "name": "Laurent Voulzy",
-          "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
-        }
-      ],
-      "duration_ms": 347520,
-      "name": "Le coeur grenadine",
-      "url": "https://open.spotify.com/track/2OWUD3BSV3yyuYYSpDBhwb"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "D'o\u00f9 venez-vous ?",
         "url": "https://open.spotify.com/album/397PJkwZTSa8abMLaQwf88"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 161786,
       "name": "G\u00f6ttingen",
       "url": "https://open.spotify.com/track/2ZDTHTFzBneaicxxRpKpWe"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Le coeur grenadine",
+        "url": "https://open.spotify.com/album/1Rk16GLTOxgDyfJkUDWFot"
+      },
+      "artists": [
+        {
+          "name": "Laurent Voulzy",
+          "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
+        }
+      ],
+      "duration_ms": 347520,
+      "name": "Le coeur grenadine",
+      "url": "https://open.spotify.com/track/2OWUD3BSV3yyuYYSpDBhwb"
     },
     {
       "added_at": "2024-05-23 22:00:00",

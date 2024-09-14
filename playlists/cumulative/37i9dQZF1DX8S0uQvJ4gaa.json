@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music discovery is what we're about. Try it on for size. Cover: Jackson Dean",
+  "description": "New music discovery is what we're about. Try it on for size. Cover: Parker McCollum",
   "name": "New Boots",
   "tracks": [
     {
@@ -3328,7 +3328,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 212466,
       "name": "Better Days (feat. John Mayer)",
       "url": "https://open.spotify.com/track/1vj47xD8v9wIhQrmQY2Dkv"
@@ -4582,7 +4582,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 191573,
       "name": "Broke Down in a Truck",
       "url": "https://open.spotify.com/track/3Fr6baj9NFS3f2qVF9w4ND"
@@ -4622,7 +4622,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 186520,
       "name": "Broken Heart Thing (feat. Dustin Lynch)",
       "url": "https://open.spotify.com/track/6z0ClOt06sEi3gVylWpZ7B"
@@ -5011,6 +5011,24 @@
     },
     {
       "album": {
+        "name": "What Happens Now? - Deluxe",
+        "url": "https://open.spotify.com/album/12bTJ4RqxjUEhVg8vSMx9d"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149426,
+      "name": "Bye Bye Bye",
+      "url": "https://open.spotify.com/track/081NX6xSxwSKgleTmGc58F"
+    },
+    {
+      "album": {
         "name": "Bye Mom",
         "url": "https://open.spotify.com/album/22qtXQo5oMS3z5iaqBS7si"
       },
@@ -5384,6 +5402,24 @@
       "duration_ms": 201371,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/2GWIcV2yk2CBHZLKMa1gWd"
+    },
+    {
+      "album": {
+        "name": "Casamigos",
+        "url": "https://open.spotify.com/album/386JCLmBdi4aGVVmjZkA7Z"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194621,
+      "name": "Casamigos",
+      "url": "https://open.spotify.com/track/4PmGnPVc9mpm8HSSdfI2TP"
     },
     {
       "album": {
@@ -6412,7 +6448,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 175367,
       "name": "Country Classic (From Twisters: The Album)",
       "url": "https://open.spotify.com/track/58xxG8eWElqDvoDDKFPKNc"
@@ -6470,7 +6506,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 214293,
       "name": "Country House",
       "url": "https://open.spotify.com/track/2DOxC6AdXlSeUrsgWKuX4X"
@@ -7890,7 +7926,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 170629,
       "name": "Didn't I?",
       "url": "https://open.spotify.com/track/7599XbTuLgp7SD3tAhpw1C"
@@ -10792,7 +10828,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 201555,
       "name": "Fix What You Didn't Break",
       "url": "https://open.spotify.com/track/0GJ8peTqHq9pu5Yf2vHjjX"
@@ -11466,7 +11502,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 235583,
       "name": "Georgia Is Yours",
       "url": "https://open.spotify.com/track/4l58t5yNDXcnldCE31ez1P"
@@ -11502,7 +11538,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 160160,
       "name": "Get By",
       "url": "https://open.spotify.com/track/5CEkI4CA4yHWEdiRDt1qlr"
@@ -12336,7 +12372,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 186000,
       "name": "Glass",
       "url": "https://open.spotify.com/track/1KKSY3c6iCW7pLplq9pzd6"
@@ -14116,7 +14152,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 180621,
       "name": "Hatchet",
       "url": "https://open.spotify.com/track/5TBJIGQ1TNxSLS7zOrj44g"
@@ -14774,7 +14810,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 178053,
       "name": "Heatin' Things Up",
       "url": "https://open.spotify.com/track/64SJcptJWHf6ARsMLUPYTo"
@@ -17508,7 +17544,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 184493,
       "name": "I Owe You One",
       "url": "https://open.spotify.com/track/2mdYC51bU8MhBRsav0Nd6C"
@@ -18120,6 +18156,24 @@
       "duration_ms": 187680,
       "name": "I'm On It",
       "url": "https://open.spotify.com/track/3HjtXqCMdMpmrUYoHIZU87"
+    },
+    {
+      "album": {
+        "name": "Icing",
+        "url": "https://open.spotify.com/album/6SiYJpe4huq9wMn2otDJmk"
+      },
+      "artists": [
+        {
+          "name": "BRELAND",
+          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148323,
+      "name": "Icing",
+      "url": "https://open.spotify.com/track/2RVt7eNsTP8XC63vEtg8Nj"
     },
     {
       "album": {
@@ -18900,6 +18954,28 @@
       "duration_ms": 193399,
       "name": "Jack and Diet Coke",
       "url": "https://open.spotify.com/track/55a01VsdKH2OeSXLGy9wd5"
+    },
+    {
+      "album": {
+        "name": "Jailbreak",
+        "url": "https://open.spotify.com/album/5cLpXSs4aAd0v19UvO8yBM"
+      },
+      "artists": [
+        {
+          "name": "Waylon Wyatt",
+          "url": "https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol"
+        },
+        {
+          "name": "Bayker Blankenship",
+          "url": "https://open.spotify.com/artist/1iP8yKbscxGv4Yzysz7XLr"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193532,
+      "name": "Jailbreak",
+      "url": "https://open.spotify.com/track/0fRi9tPnhwwQsJg5iFFnIa"
     },
     {
       "album": {
@@ -19986,6 +20062,24 @@
       "duration_ms": 207607,
       "name": "Leroy",
       "url": "https://open.spotify.com/track/4NNOEsCDKReHvVwSNXxfCq"
+    },
+    {
+      "album": {
+        "name": "Let 'Em Talk",
+        "url": "https://open.spotify.com/album/0uUln8pwGDVuF96thPSkIs"
+      },
+      "artists": [
+        {
+          "name": "Ty Myers",
+          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226523,
+      "name": "Let 'Em Talk",
+      "url": "https://open.spotify.com/track/4aerXR1Ra8EtNxTnlmAXLQ"
     },
     {
       "album": {
@@ -24264,6 +24358,24 @@
       "duration_ms": 177924,
       "name": "Never Not Remember You",
       "url": "https://open.spotify.com/track/3PigB8AnVf6zPtWvVC5fJL"
+    },
+    {
+      "album": {
+        "name": "Keepin' The Lights On",
+        "url": "https://open.spotify.com/album/1vcPPMVBjcmmP7yK9XWJzf"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262306,
+      "name": "Never Really Know",
+      "url": "https://open.spotify.com/track/0dOxMm35ORIZt7rZIzQbQ1"
     },
     {
       "album": {
@@ -30021,6 +30133,24 @@
     },
     {
       "album": {
+        "name": "Silverado Blue",
+        "url": "https://open.spotify.com/album/4mWuLL9DOPcmUZ6j5VRMhv"
+      },
+      "artists": [
+        {
+          "name": "Tucker Wetmore",
+          "url": "https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183880,
+      "name": "Silverado Blue",
+      "url": "https://open.spotify.com/track/2dZluexN4DZK2nteRTHB70"
+    },
+    {
+      "album": {
         "name": "Silverado Saturday Night",
         "url": "https://open.spotify.com/album/5o6y1VdM9JPwKaWBHzrBpS"
       },
@@ -32118,6 +32248,24 @@
       "duration_ms": 193400,
       "name": "Start Nowhere",
       "url": "https://open.spotify.com/track/33bMASZzuBL82YERsMyozx"
+    },
+    {
+      "album": {
+        "name": "Started Stoppin'",
+        "url": "https://open.spotify.com/album/4Z3Z8UeRmbXeqe3quwFbMv"
+      },
+      "artists": [
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175066,
+      "name": "Started Stoppin'",
+      "url": "https://open.spotify.com/track/0cw6yDjjU0cYNVZoKpEEK3"
     },
     {
       "album": {
@@ -37919,6 +38067,24 @@
     },
     {
       "album": {
+        "name": "What Kinda Man",
+        "url": "https://open.spotify.com/album/53HiQCmdwiT4e7SHX74XdM"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259022,
+      "name": "What Kinda Man",
+      "url": "https://open.spotify.com/track/2K6T1iKa7coghsISspjPv8"
+    },
+    {
+      "album": {
         "name": "what made you think?",
         "url": "https://open.spotify.com/album/7bA8ZMcrVLEoNCIq7ZHutq"
       },
@@ -37966,7 +38132,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 183026,
       "name": "What Would You Do?",
       "url": "https://open.spotify.com/track/3F7qTaugjHaRNTWS6cqoFM"
@@ -40776,6 +40942,24 @@
       "duration_ms": 200293,
       "name": "You Would Think",
       "url": "https://open.spotify.com/track/0jY8f2uK8iydZOmaUZH4VP"
+    },
+    {
+      "album": {
+        "name": "You'd Think I Was A Cowboy",
+        "url": "https://open.spotify.com/album/0J4VTtjz1Njh0K7warz890"
+      },
+      "artists": [
+        {
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179266,
+      "name": "You'd Think I Was A Cowboy",
+      "url": "https://open.spotify.com/track/4Di7R87Zkhl6i4cZw8Onh5"
     },
     {
       "album": {

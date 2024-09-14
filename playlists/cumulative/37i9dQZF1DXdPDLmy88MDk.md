@@ -4,7 +4,7 @@
 
 > Gentle instrumental tunes.
 
-165 songs - 10 hr 13 min
+167 songs - 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Haar over Hamnavoe \- Bill Ryder\-Jones Rework](https://open.spotify.com/track/5Fe2pvSESMAop2EP1b2f3l) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa), [Bill Ryder\-Jones](https://open.spotify.com/artist/2E70ENJNHoACgzTkJ3QnO4) | [Haar over Hamnavoe \(Bill Ryder\-Jones Rework\)](https://open.spotify.com/album/20ek3LDlmNsbU44XmMP6cb) | 3:53 | 2021-11-19 |  |
 | [Hello Yellow](https://open.spotify.com/track/4A2XEAdCajGcm5ZOUWoQrA) | [Rubin Henkel](https://open.spotify.com/artist/097BWrWlRc3ADrPFarUVmP) | [Restless](https://open.spotify.com/album/0Gy9ISFxfGL5LFvLNNlMsq) | 2:04 | 2022-05-11 |  |
 | [Hiraeth](https://open.spotify.com/track/5ufCopwrQuarKWJv1joxmb) | [Scott Buckley](https://open.spotify.com/artist/5yD73qOOW6Eb5bc8OZ5vZn) | [Hiraeth](https://open.spotify.com/album/1qLmLJmIbqiWwMjvjm4ECD) | 5:46 | 2021-11-19 |  |
+| [Holm Sound](https://open.spotify.com/track/7vvqiqB4O7nPXWxiehIH9l) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Holm Sound](https://open.spotify.com/album/3B8s4Z5VhzbK1R7upD1IP5) | 2:55 | 2024-09-13 |  |
 | [HYMN](https://open.spotify.com/track/5jkf6m1XJYIMp751df40z1) | [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [HYMN](https://open.spotify.com/album/24ogFunadlg51m8Yq7nT2h) | 3:33 | 2022-05-11 |  |
 | [Hymn](https://open.spotify.com/track/5w85BSnHc2eKHhYKrqaRYP) | [Valentin Silvestrov](https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6), [Stuttgart Chamber Orchestra](https://open.spotify.com/artist/51RiZjPgKKJ1uDsZVmntmF), [Thomas Sanderling](https://open.spotify.com/artist/3S55Z8j2m8fHa1L2axqywa) | [Ustvolskaya, Silvestrov & Kancheli: Works for Piano & Orchestra](https://open.spotify.com/album/3IyVSzyvWxYTkIN8nxXAcz) | 6:05 | 2021-11-19 |  |
 | [Hymn \- 2001](https://open.spotify.com/track/7dcLnJpswFbVg7sPRVmgxS) | [Valentin Silvestrov](https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6), [Stuttgart Chamber Orchestra](https://open.spotify.com/artist/51RiZjPgKKJ1uDsZVmntmF), [Thomas Sanderling](https://open.spotify.com/artist/3S55Z8j2m8fHa1L2axqywa) | [Ustvolskaya, Silvestrov & Kancheli: Works for Piano & Orchestra](https://open.spotify.com/album/56kiotGWV3BT7x39WeAr4H) | 6:05 | 2022-05-11 | 2024-04-19 |
@@ -104,6 +105,7 @@
 | [Nostalgie \(Version for Cello & Piano\)](https://open.spotify.com/track/44xfsV9BcAedtTkrLYj45A) | [Vaja Azarashvili](https://open.spotify.com/artist/0usVJrLFw1xvuSxGjBogO8), [Alexander Suleiman](https://open.spotify.com/artist/51uTGBKyp1ZpDTyqCpHfQN), [Irma Issakadze](https://open.spotify.com/artist/7CzUbHVCshfmBxrsJpG7Zg) | [Vaja Azarashvili: Days Go By](https://open.spotify.com/album/0EDv5UTWSn0s947LQzrHwG) | 2:49 | 2021-11-19 |  |
 | [On the Atlantic Ocean](https://open.spotify.com/track/0sBqNVnk1Z8VYfQMkHGskp) | [Ben Sollee](https://open.spotify.com/artist/3Zzs4IqjV4b0yEFWqRv1si) | [Maidentrip \(Original Motion Picture Score\)](https://open.spotify.com/album/3ZwIOjwb1XpsUonQtYCDgk) | 2:52 | 2021-11-19 | 2022-07-29 |
 | [On the Atlantic Ocean](https://open.spotify.com/track/3vg9nZQobzG9cilihGqMta) | [Ben Sollee](https://open.spotify.com/artist/3Zzs4IqjV4b0yEFWqRv1si) | [Maidentrip \(Original Motion Picture Score\)](https://open.spotify.com/album/29IZsEj13xjbIBODaUXrNa) | 2:52 | 2022-05-11 | 2023-03-16 |
+| [Once](https://open.spotify.com/track/7gTVQWqEGrqTuZkXpe43z1) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Once](https://open.spotify.com/album/5f5y9Z2AYNtA2FfCAFZR0o) | 2:05 | 2024-09-13 |  |
 | [Only in the Dark](https://open.spotify.com/track/7MenFyNgpOMMPFmbrvJZqX) | [Ben Lukas Boysen](https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER) | [Gravity \(Special Edition\)](https://open.spotify.com/album/0lDH51Xy10a1fXsRMAyufW) | 3:29 | 2021-11-19 |  |
 | [Orfeo ed Euridice, Act II: Dance of the Blessed Spirits, "Mélodie" \(arr\. I\. Friedman for piano\)](https://open.spotify.com/track/3xIu6hYXz0gTjJtmGu60M8) | [Ignaz Friedman](https://open.spotify.com/artist/5AKZimIhSv9dORIVH1MChg), [Christoph Willibald Gluck](https://open.spotify.com/artist/7vfydQ0nVBVgJ0ajs8EtRM), [Joseph Banowetz](https://open.spotify.com/artist/0ufn7M4jawS5MQ03CIluFo) | [Friedman: Piano Transcriptions](https://open.spotify.com/album/4L8tF28TUH4Ude4IEhMH1b) | 4:11 | 2022-05-11 | 2024-04-19 |
 | [Orfeo ed Euridice, Wq\. 30: Danse des champs\-elysées "Mélodie" \(Arr\. I\. Friedman for Piano\)](https://open.spotify.com/track/0DG5cVgVt7821x2rAv0ny2) | [Christoph Willibald Gluck](https://open.spotify.com/artist/7vfydQ0nVBVgJ0ajs8EtRM), [Joseph Banowetz](https://open.spotify.com/artist/0ufn7M4jawS5MQ03CIluFo) | [Friedman: Piano Transcriptions](https://open.spotify.com/album/0nSivM2elIAkluEDaG7GWQ) | 4:11 | 2021-11-19 |  |

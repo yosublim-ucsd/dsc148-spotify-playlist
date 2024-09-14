@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 
 > Discover the best in new music from Aotearoa\. Cover: BENEE
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,549 likes - 152 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,548 likes - 152 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

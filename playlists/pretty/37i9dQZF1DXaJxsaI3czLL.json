@@ -1,6 +1,6 @@
 {
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
-  "num_followers": 131677,
+  "num_followers": 131690,
   "original_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
   "owner": {
     "name": "Spotify",
@@ -331,18 +331,18 @@
     {
       "added_at": "2024-06-27 15:00:00",
       "album": {
-        "name": "Remember When",
-        "url": "https://open.spotify.com/album/4s84jh2NBDv4HF7iRysA3U"
+        "name": "THE GREATEST UNKNOWN",
+        "url": "https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr"
       },
       "artists": [
         {
-          "name": "Wasia Project",
-          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
         }
       ],
-      "duration_ms": 192079,
-      "name": "Remember When",
-      "url": "https://open.spotify.com/track/1KyLAl3R61UiXK9o14SUJm"
+      "duration_ms": 218493,
+      "name": "IKAROS",
+      "url": "https://open.spotify.com/track/4ct5cffZGIcSJ6P8iEToG2"
     },
     {
       "added_at": "2024-06-27 15:00:00",
@@ -363,18 +363,18 @@
     {
       "added_at": "2024-06-27 15:00:00",
       "album": {
-        "name": "THE GREATEST UNKNOWN",
-        "url": "https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr"
+        "name": "Remember When",
+        "url": "https://open.spotify.com/album/4s84jh2NBDv4HF7iRysA3U"
       },
       "artists": [
         {
-          "name": "King Gnu",
-          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
         }
       ],
-      "duration_ms": 218493,
-      "name": "IKAROS",
-      "url": "https://open.spotify.com/track/4ct5cffZGIcSJ6P8iEToG2"
+      "duration_ms": 192079,
+      "name": "Remember When",
+      "url": "https://open.spotify.com/track/1KyLAl3R61UiXK9o14SUJm"
     },
     {
       "added_at": "2024-06-27 15:00:00",
@@ -599,18 +599,22 @@
     {
       "added_at": "2024-06-27 15:00:00",
       "album": {
-        "name": "Wish You Were Here",
-        "url": "https://open.spotify.com/album/6X0e48IHrHjAtgb00eYxsp"
+        "name": "Love (feat. Skaai)",
+        "url": "https://open.spotify.com/album/3CTierTEtJQyHX3s6XlEUd"
       },
       "artists": [
         {
-          "name": "Anneth",
-          "url": "https://open.spotify.com/artist/2UHBgxDvOBaIY7hQ8CEAmW"
+          "name": "yonawo",
+          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
+        },
+        {
+          "name": "Skaai",
+          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
         }
       ],
-      "duration_ms": 277500,
-      "name": "Wish You Were Here",
-      "url": "https://open.spotify.com/track/2EZM4rYK3tbiRaGS3XyYvi"
+      "duration_ms": 258920,
+      "name": "Love (feat. Skaai)",
+      "url": "https://open.spotify.com/track/33WmukupZpPsnobClDyZzs"
     },
     {
       "added_at": "2024-06-27 15:00:00",
@@ -635,22 +639,18 @@
     {
       "added_at": "2024-06-27 15:00:00",
       "album": {
-        "name": "Love (feat. Skaai)",
-        "url": "https://open.spotify.com/album/3CTierTEtJQyHX3s6XlEUd"
+        "name": "Wish You Were Here",
+        "url": "https://open.spotify.com/album/6X0e48IHrHjAtgb00eYxsp"
       },
       "artists": [
         {
-          "name": "yonawo",
-          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
-        },
-        {
-          "name": "Skaai",
-          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
+          "name": "Anneth",
+          "url": "https://open.spotify.com/artist/2UHBgxDvOBaIY7hQ8CEAmW"
         }
       ],
-      "duration_ms": 258920,
-      "name": "Love (feat. Skaai)",
-      "url": "https://open.spotify.com/track/33WmukupZpPsnobClDyZzs"
+      "duration_ms": 277500,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/2EZM4rYK3tbiRaGS3XyYvi"
     },
     {
       "added_at": "2024-06-27 15:00:00",
@@ -735,18 +735,22 @@
     {
       "added_at": "2024-06-27 15:00:00",
       "album": {
-        "name": "Days With Uncertainty",
-        "url": "https://open.spotify.com/album/0p4J9aL2rG5uBKLRO8HkPM"
+        "name": "Beautiful World",
+        "url": "https://open.spotify.com/album/1OWtLn5iWuajzUjHAkdoDb"
       },
       "artists": [
         {
-          "name": "The fin.",
-          "url": "https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa"
+          "name": "Koji Tamaki",
+          "url": "https://open.spotify.com/artist/5KLvrcsAUwqMOqxErwSJmD"
+        },
+        {
+          "name": "ayaka",
+          "url": "https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi"
         }
       ],
-      "duration_ms": 239160,
-      "name": "Night Time",
-      "url": "https://open.spotify.com/track/6kwhwM4bjrFxnPT0wlbb6b"
+      "duration_ms": 340573,
+      "name": "Beautiful World",
+      "url": "https://open.spotify.com/track/3x9fmCeM7CRiB3NwrVZxvM"
     },
     {
       "added_at": "2024-06-27 15:00:00",
@@ -767,22 +771,18 @@
     {
       "added_at": "2024-06-27 15:00:00",
       "album": {
-        "name": "Beautiful World",
-        "url": "https://open.spotify.com/album/1OWtLn5iWuajzUjHAkdoDb"
+        "name": "Days With Uncertainty",
+        "url": "https://open.spotify.com/album/0p4J9aL2rG5uBKLRO8HkPM"
       },
       "artists": [
         {
-          "name": "Koji Tamaki",
-          "url": "https://open.spotify.com/artist/5KLvrcsAUwqMOqxErwSJmD"
-        },
-        {
-          "name": "ayaka",
-          "url": "https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi"
+          "name": "The fin.",
+          "url": "https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa"
         }
       ],
-      "duration_ms": 340573,
-      "name": "Beautiful World",
-      "url": "https://open.spotify.com/track/3x9fmCeM7CRiB3NwrVZxvM"
+      "duration_ms": 239160,
+      "name": "Night Time",
+      "url": "https://open.spotify.com/track/6kwhwM4bjrFxnPT0wlbb6b"
     },
     {
       "added_at": "2024-06-27 15:00:00",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2024-06-27 15:00:00",
       "album": {
+        "name": "\u5dee\u3057\u8272",
+        "url": "https://open.spotify.com/album/0osPjHgcenfbVxnPHuMZ4W"
+      },
+      "artists": [
+        {
+          "name": "Bialystocks",
+          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
+        }
+      ],
+      "duration_ms": 183709,
+      "name": "\u5dee\u3057\u8272",
+      "url": "https://open.spotify.com/track/2AE8eW32N5jimZ9wVO39Br"
+    },
+    {
+      "added_at": "2024-06-27 15:00:00",
+      "album": {
         "name": "Arrows",
         "url": "https://open.spotify.com/album/77FjAsKZwIETP9YPmkx9U3"
       },
@@ -1151,38 +1167,6 @@
       "duration_ms": 266729,
       "name": "Arrows",
       "url": "https://open.spotify.com/track/2AfPNXHk6iiGWGpt4bT0fH"
-    },
-    {
-      "added_at": "2024-06-27 15:00:00",
-      "album": {
-        "name": "\u30d3\u30a2\u30ea\u30b9\u30c8\u30c3\u30af\u30b9",
-        "url": "https://open.spotify.com/album/3bj0rxNiqW8FPj2exowDFQ"
-      },
-      "artists": [
-        {
-          "name": "Bialystocks",
-          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
-        }
-      ],
-      "duration_ms": 234213,
-      "name": "\u307e\u305f\u305f\u304d",
-      "url": "https://open.spotify.com/track/6K5HCzRSvOCViWBVCc3wYH"
-    },
-    {
-      "added_at": "2024-06-27 15:00:00",
-      "album": {
-        "name": "early summer 2022",
-        "url": "https://open.spotify.com/album/0mv2ejXiEERKAA2iDbGnTs"
-      },
-      "artists": [
-        {
-          "name": "Kazumasa Oda",
-          "url": "https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR"
-        }
-      ],
-      "duration_ms": 274066,
-      "name": "\u3053\u306e\u65e5\u306e\u3053\u3068",
-      "url": "https://open.spotify.com/track/4G7qeAp6SBwIUnmvzTUjSh"
     },
     {
       "added_at": "2024-06-27 15:00:00",
@@ -1223,6 +1207,22 @@
     {
       "added_at": "2024-06-27 15:00:00",
       "album": {
+        "name": "early summer 2022",
+        "url": "https://open.spotify.com/album/0mv2ejXiEERKAA2iDbGnTs"
+      },
+      "artists": [
+        {
+          "name": "Kazumasa Oda",
+          "url": "https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR"
+        }
+      ],
+      "duration_ms": 274066,
+      "name": "\u3053\u306e\u65e5\u306e\u3053\u3068",
+      "url": "https://open.spotify.com/track/4G7qeAp6SBwIUnmvzTUjSh"
+    },
+    {
+      "added_at": "2024-06-27 15:00:00",
+      "album": {
         "name": "\u30ea\u30e7\u30a6\u30e1\u30f3\u30b7\u30bf\u3099/\u30b5\u30f3\u30b5\u30fc\u30e9",
         "url": "https://open.spotify.com/album/1QzF3SU3BpVG8xCFqZXX7J"
       },
@@ -1235,22 +1235,6 @@
       "duration_ms": 331984,
       "name": "\u30b5\u30f3\u30b5\u30fc\u30e9",
       "url": "https://open.spotify.com/track/0x26yM2rrvtoHGRXXzppx3"
-    },
-    {
-      "added_at": "2024-06-27 15:00:00",
-      "album": {
-        "name": "\u5dee\u3057\u8272",
-        "url": "https://open.spotify.com/album/0osPjHgcenfbVxnPHuMZ4W"
-      },
-      "artists": [
-        {
-          "name": "Bialystocks",
-          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
-        }
-      ],
-      "duration_ms": 183709,
-      "name": "\u5dee\u3057\u8272",
-      "url": "https://open.spotify.com/track/2AE8eW32N5jimZ9wVO39Br"
     },
     {
       "added_at": "2024-06-27 15:00:00",
@@ -1287,22 +1271,6 @@
     {
       "added_at": "2024-06-27 15:00:00",
       "album": {
-        "name": "Ninh Binh Brother's Homestay",
-        "url": "https://open.spotify.com/album/2I7P1pgDW7BZigccsZ17ra"
-      },
-      "artists": [
-        {
-          "name": "MIZ",
-          "url": "https://open.spotify.com/artist/1T4OKi8vYcs2gNv98KglRq"
-        }
-      ],
-      "duration_ms": 228038,
-      "name": "\u30d1\u30ec\u30fc\u30c9",
-      "url": "https://open.spotify.com/track/35Pj3GRGfF2kp4LF1CEZzV"
-    },
-    {
-      "added_at": "2024-06-27 15:00:00",
-      "album": {
         "name": "NEW BORN GHOST",
         "url": "https://open.spotify.com/album/7I0gE5xwblR3qtvT3Z4uxc"
       },
@@ -1315,6 +1283,38 @@
       "duration_ms": 269301,
       "name": "\u30af\u30ec\u30a4",
       "url": "https://open.spotify.com/track/0TtzPfEvqp8YasVy0xOsvd"
+    },
+    {
+      "added_at": "2024-06-27 15:00:00",
+      "album": {
+        "name": "\u30d3\u30a2\u30ea\u30b9\u30c8\u30c3\u30af\u30b9",
+        "url": "https://open.spotify.com/album/3bj0rxNiqW8FPj2exowDFQ"
+      },
+      "artists": [
+        {
+          "name": "Bialystocks",
+          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
+        }
+      ],
+      "duration_ms": 234213,
+      "name": "\u307e\u305f\u305f\u304d",
+      "url": "https://open.spotify.com/track/6K5HCzRSvOCViWBVCc3wYH"
+    },
+    {
+      "added_at": "2024-06-27 15:00:00",
+      "album": {
+        "name": "Ninh Binh Brother's Homestay",
+        "url": "https://open.spotify.com/album/2I7P1pgDW7BZigccsZ17ra"
+      },
+      "artists": [
+        {
+          "name": "MIZ",
+          "url": "https://open.spotify.com/artist/1T4OKi8vYcs2gNv98KglRq"
+        }
+      ],
+      "duration_ms": 228038,
+      "name": "\u30d1\u30ec\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/35Pj3GRGfF2kp4LF1CEZzV"
     },
     {
       "added_at": "2024-06-27 15:00:00",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2024-06-27 15:00:00",
       "album": {
+        "name": "THUNDERBIRD",
+        "url": "https://open.spotify.com/album/7nNeG1szKiODPoXM2UC3Lg"
+      },
+      "artists": [
+        {
+          "name": "Ohashi Trio",
+          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
+        }
+      ],
+      "duration_ms": 238800,
+      "name": "\u3064\u3050\u307f",
+      "url": "https://open.spotify.com/track/2r4QuVAiy86mVpxzqoQCCQ"
+    },
+    {
+      "added_at": "2024-06-27 15:00:00",
+      "album": {
         "name": "Night Flow",
         "url": "https://open.spotify.com/album/6BUtooxe1o0S9rSLZbmZ24"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 249940,
       "name": "reiji no machi",
       "url": "https://open.spotify.com/track/5hMGyNKCPjI0VFjS0YoozL"
-    },
-    {
-      "added_at": "2024-06-27 15:00:00",
-      "album": {
-        "name": "THUNDERBIRD",
-        "url": "https://open.spotify.com/album/7nNeG1szKiODPoXM2UC3Lg"
-      },
-      "artists": [
-        {
-          "name": "Ohashi Trio",
-          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
-        }
-      ],
-      "duration_ms": 238800,
-      "name": "\u3064\u3050\u307f",
-      "url": "https://open.spotify.com/track/2r4QuVAiy86mVpxzqoQCCQ"
     },
     {
       "added_at": "2024-06-27 15:00:00",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2024-06-27 15:00:00",
       "album": {
+        "name": "Double Rift",
+        "url": "https://open.spotify.com/album/4GlJPeO448wfQ5E1BDir2Y"
+      },
+      "artists": [
+        {
+          "name": "CRCK/LCKS",
+          "url": "https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs"
+        }
+      ],
+      "duration_ms": 255213,
+      "name": "\u305f\u3068\u3048\u30fb\u3070\u3055",
+      "url": "https://open.spotify.com/track/7J13ZqrHTqZPI6rzeZS0jz"
+    },
+    {
+      "added_at": "2024-06-27 15:00:00",
+      "album": {
         "name": "\u6b4c\u306b\u3057\u3066\u3057\u307e\u3048\u3070\u3001\u3069\u3093\u306a\u3053\u3068\u3067\u3082\u8a31\u3055\u308c\u308b\u3068\u601d\u3063\u3066\u3044\u305f",
         "url": "https://open.spotify.com/album/6PuiGsnDm2d8zKPkK9Iq1e"
       },
@@ -1559,22 +1575,6 @@
     {
       "added_at": "2024-06-27 15:00:00",
       "album": {
-        "name": "Double Rift",
-        "url": "https://open.spotify.com/album/4GlJPeO448wfQ5E1BDir2Y"
-      },
-      "artists": [
-        {
-          "name": "CRCK/LCKS",
-          "url": "https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs"
-        }
-      ],
-      "duration_ms": 255213,
-      "name": "\u305f\u3068\u3048\u30fb\u3070\u3055",
-      "url": "https://open.spotify.com/track/7J13ZqrHTqZPI6rzeZS0jz"
-    },
-    {
-      "added_at": "2024-06-27 15:00:00",
-      "album": {
         "name": "moonlight",
         "url": "https://open.spotify.com/album/58BwJa6AO9RdRVBNJls2b7"
       },
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-06-27 15:00:00",
       "album": {
-        "name": "BLUEHARLEM",
-        "url": "https://open.spotify.com/album/2uBQmsJvg2MKEWZRfFwAaQ"
-      },
-      "artists": [
-        {
-          "name": "Yogee New Waves",
-          "url": "https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh"
-        }
-      ],
-      "duration_ms": 327173,
-      "name": "Good Night Station",
-      "url": "https://open.spotify.com/track/5BPYHGLP1DPo0nVfOUHTEJ"
-    },
-    {
-      "added_at": "2024-06-27 15:00:00",
-      "album": {
         "name": "\u30ca\u30b9\u30c6\u30a3\u30fb\u30cf\u30a6\u30b9",
         "url": "https://open.spotify.com/album/2AMBIQoUR9oCq3Y5SJ5rXC"
       },
@@ -1631,18 +1615,18 @@
     {
       "added_at": "2024-06-27 15:00:00",
       "album": {
-        "name": "\u6708\u306e\u4e18",
-        "url": "https://open.spotify.com/album/4jQS8RDkLzyD2VYBTa8pJk"
+        "name": "BLUEHARLEM",
+        "url": "https://open.spotify.com/album/2uBQmsJvg2MKEWZRfFwAaQ"
       },
       "artists": [
         {
-          "name": "Ichiko Aoba",
-          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+          "name": "Yogee New Waves",
+          "url": "https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh"
         }
       ],
-      "duration_ms": 206240,
-      "name": "\u6708\u306e\u4e18",
-      "url": "https://open.spotify.com/track/3J0dvsc85QwHPtGQG4JSWJ"
+      "duration_ms": 327173,
+      "name": "Good Night Station",
+      "url": "https://open.spotify.com/track/5BPYHGLP1DPo0nVfOUHTEJ"
     },
     {
       "added_at": "2024-06-27 15:00:00",
@@ -1659,6 +1643,22 @@
       "duration_ms": 417803,
       "name": "Flavor Of Life",
       "url": "https://open.spotify.com/track/2Ss4fzhZw5TMgdoZzRbQOk"
+    },
+    {
+      "added_at": "2024-06-27 15:00:00",
+      "album": {
+        "name": "\u6708\u306e\u4e18",
+        "url": "https://open.spotify.com/album/4jQS8RDkLzyD2VYBTa8pJk"
+      },
+      "artists": [
+        {
+          "name": "Ichiko Aoba",
+          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+        }
+      ],
+      "duration_ms": 206240,
+      "name": "\u6708\u306e\u4e18",
+      "url": "https://open.spotify.com/track/3J0dvsc85QwHPtGQG4JSWJ"
     },
     {
       "added_at": "2024-06-27 15:00:00",

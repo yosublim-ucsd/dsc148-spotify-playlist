@@ -4,7 +4,7 @@
 
 > Den bästa och största rocklistan i Sverige! ⚡️
 
-131 songs - 8 hr 14 min
+136 songs - 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Afterglow](https://open.spotify.com/track/61Wb1e1WDS5FtXQ9Wc6Efs) | [chokecherry](https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT) | [Afterglow](https://open.spotify.com/album/1jJIwhz4U3GCRJnCXo8pTz) | 4:22 | 2024-06-27 |  |
 | [Afterglow](https://open.spotify.com/track/0WDlEgbYPtcxUn4CKoI0uU) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Ghost Code](https://open.spotify.com/album/1hgZ1sL86pnlCmAdyNSdvT) | 3:38 | 2024-06-27 |  |
 | [All That I Can Give](https://open.spotify.com/track/2BvCKRAs9xnDzm8CFo0hi9) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Vol\. 2](https://open.spotify.com/album/7lAOJSvVNt3hTZ9MQMSBmB) | 3:18 | 2024-06-27 | 2024-09-07 |
+| [An Ocean Of Strange Islands](https://open.spotify.com/track/7HLmjUIFeeCxiJKASRqltT) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [An Ocean Of Strange Islands](https://open.spotify.com/album/5Pld9dbaBVoidxPQEhVusV) | 9:26 | 2024-09-13 |  |
 | [ANGEL SONG \(feat\. David Draiman\)](https://open.spotify.com/track/2P8gpYwOOL37vKoDqCFXS9) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc), [David Draiman](https://open.spotify.com/artist/74uyCKYpif9tOA7iWvXlj1) | [ANGEL SONG \(feat\. David Draiman\)](https://open.spotify.com/album/3xG14XU3wjw2wYCwDPvx11) | 3:06 | 2024-06-27 | 2024-08-02 |
 | [Are you ready to die](https://open.spotify.com/track/44VyHJi5insnDldfenkiTV) | [C.K.O](https://open.spotify.com/artist/4bUT6OhOQe0ASQTGSm2THR) | [Are you ready to die](https://open.spotify.com/album/503bwfjSd72RvYKRwxTsps) | 3:50 | 2024-06-27 |  |
 | [Avalanche](https://open.spotify.com/track/0ZxfEDSNGmttbh6tL0LuBb) | [Greenleaf](https://open.spotify.com/artist/2Mjr7nb7vY7AQwxGskDlM7) | [Avalanche](https://open.spotify.com/album/63az96vCNz85pMBbioaPdz) | 5:07 | 2024-06-27 |  |
@@ -35,6 +36,7 @@
 | [Caroline](https://open.spotify.com/track/6uMpIkuSzk6iRmtzS9TIPR) | [Nestor](https://open.spotify.com/artist/0aO5KX4PsGlEqDM8rsH0ld) | [Caroline](https://open.spotify.com/album/5y60seX4jkrYQp4U5NS53y) | 4:56 | 2024-06-27 | 2024-08-02 |
 | [Chemicals](https://open.spotify.com/track/4egZ6NVanhYkOLr8omCGFH) | [H.E.R.O.](https://open.spotify.com/artist/6S9AbH3NSPIOjb6YVaLfIi) | [Chemicals](https://open.spotify.com/album/3vpfUZRp5ioaOIFLhVyoTF) | 4:10 | 2024-08-29 |  |
 | [Chosen Force](https://open.spotify.com/track/4l8tcS0fXtsafe6mqNT6h8) | [Dream Evil](https://open.spotify.com/artist/1bkf8u8ot6vEpWTJFBzKZB) | [Chosen Force](https://open.spotify.com/album/01rbcbdKGHBpNWvqEEVcqY) | 5:08 | 2024-06-27 |  |
+| [Come To Brazil](https://open.spotify.com/track/53NkQOx965C85o2Xxv5ZyC) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Come To Brazil](https://open.spotify.com/album/6RvVwqzNo1i8XkRBqXgcqE) | 4:19 | 2024-09-13 |  |
 | [Curse](https://open.spotify.com/track/65VHUZPZKgaG4SJVRkBPzn) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Curse](https://open.spotify.com/album/29w7d7KKgGkgQ4qmu56SQe) | 3:00 | 2024-06-27 |  |
 | [Devilry of Ecstasy](https://open.spotify.com/track/719WQ11ocVYYq2Hd2FKcgJ) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Devilry of Ecstasy](https://open.spotify.com/album/0I8tTyfyVf3DHw9xHu5zym) | 3:26 | 2024-08-08 |  |
 | [Disciple](https://open.spotify.com/track/7fPZwu2D14mqOoYjO995IW) | [Wheel](https://open.spotify.com/artist/4msm1QtpV7zMReePhbEQ6H) | [Disciple](https://open.spotify.com/album/0WtzjuX7m5DWs7JPr2mNdh) | 4:12 | 2024-06-27 | 2024-09-07 |
@@ -44,6 +46,7 @@
 | [Empire](https://open.spotify.com/track/0kbdnyL1f91rMM0eSyjqMm) | [Wheel](https://open.spotify.com/artist/4msm1QtpV7zMReePhbEQ6H) | [Empire](https://open.spotify.com/album/4AWRm5AIt0KJoo7RIH0dVp) | 4:20 | 2024-06-27 | 2024-08-02 |
 | [End The Transmission](https://open.spotify.com/track/7icbQ9Y2IQbI8CgXQCzA8c) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Foregone](https://open.spotify.com/album/1IqQ6UX3hzJLVXtRmui4w3) | 3:42 | 2024-06-27 |  |
 | [Enter Sandman](https://open.spotify.com/track/5sICkBXVmaCQk5aISGR3x1) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug) | 5:31 | 2024-06-27 |  |
+| [EVERYBODY \(BLOODBROS BACK\)](https://open.spotify.com/track/3Uu0UjdQUBKuTQK4XsVMfe) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [EVERYBODY \(BLOODBROS BACK\)](https://open.spotify.com/album/3n1XGYmrurkbhXDEsQAcTm) | 3:28 | 2024-09-13 |  |
 | [F\*\*k The Bad Vibes](https://open.spotify.com/track/4tJmcTh6z2zd8UBlmPUJZv) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg) | [F\*\*k The Bad Vibes](https://open.spotify.com/album/2i0zGJaC9rXDzWCmRm5W3o) | 3:18 | 2024-06-27 | 2024-09-07 |
 | [Fallen](https://open.spotify.com/track/3gXxpp7y7EAOg4PVqqGCAb) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Beyond Hell / Above Heaven](https://open.spotify.com/album/3EwdtOKxIBnC8jJwsOvy2K) | 5:00 | 2024-06-27 |  |
 | [Falling to My Knees](https://open.spotify.com/track/2kJa3N1vZ6JyXFEadRhjoP) | [Eclipse](https://open.spotify.com/artist/23ajwxFk5RBpPERZrcjHUr) | [Falling to My Knees](https://open.spotify.com/album/7oTkB6PwFNozDzGKkwWVpL) | 2:58 | 2024-06-27 |  |
@@ -121,10 +124,12 @@
 | [The Emptiness Machine](https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Emptiness Machine](https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ) | 3:10 | 2024-09-06 |  |
 | [The End Justifies](https://open.spotify.com/track/4TQEKz3DgUjtzcRFkCuzE5) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [The End Justifies](https://open.spotify.com/album/3yKUFE4u6NtSrfQ0OAKjtU) | 5:09 | 2024-06-27 |  |
 | [The Future Is A Foreign Land](https://open.spotify.com/track/1OQxJiHrr5HAmTaqAhn39c) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [The Future Is A Foreign Land](https://open.spotify.com/album/6jSNCcxIIB0ccyTgOJ2y1F) | 3:45 | 2024-06-27 |  |
+| [The Great Escape](https://open.spotify.com/track/0s2hMxWDYLJ3JdVE8EznKF) | [Self Deception](https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0) | [The Great Escape](https://open.spotify.com/album/1OX0CqRGuNUfqIB4S8CT0m) | 3:31 | 2024-09-13 |  |
 | [The Grief That Does Not Speak](https://open.spotify.com/track/0Ju36HeDEkonACgrxNmYtk) | [Freak Kitchen](https://open.spotify.com/artist/0HtEZODdzPzZhdehDcF3fX) | [Everyone Gets Bloody](https://open.spotify.com/album/4Z9iPIbJ9dW14WdTUPI9Xh) | 4:24 | 2024-06-27 | 2024-08-30 |
 | [The Hand That Feeds](https://open.spotify.com/track/2IcfbZsfGPfUVn2fHDAxRE) | [Deville](https://open.spotify.com/artist/29xpUzbL2gwBW0VuHU26G8) | [The Hand That Feeds](https://open.spotify.com/album/6xIYkqkxwHfKdDNkTkjAeV) | 2:54 | 2024-06-27 | 2024-09-07 |
 | [The House That Jack Built](https://open.spotify.com/track/4uR8xYi87Ld7i3vrPAv3A0) | [Nomy](https://open.spotify.com/artist/20bAxKr0YrCvceZeLqs37e) | [The House That Jack Built](https://open.spotify.com/album/5ZQrf6jAMxxgjXXr18LBhL) | 3:43 | 2024-06-27 | 2024-08-02 |
 | [The Sirens Sound](https://open.spotify.com/track/13ke0vDc5JPVf9Hzcik9V8) | [Greenleaf](https://open.spotify.com/artist/2Mjr7nb7vY7AQwxGskDlM7) | [The Head & The Habit](https://open.spotify.com/album/1gsJpMVqM372TjZwQ19dYq) | 4:32 | 2024-06-27 |  |
+| [The Wheel Of Pain](https://open.spotify.com/track/10D2HlPX6SSapZQCPxxpo5) | [Grand Magus](https://open.spotify.com/artist/7GTkjp7qsfmx8iJzBUQLmN) | [The Wheel Of Pain](https://open.spotify.com/album/733rSnjOewHp03HWOxQT1Q) | 3:23 | 2024-09-13 |  |
 | [The World Belongs To Me](https://open.spotify.com/track/4IMFeclMZPanzmyx5m9mZr) | [Battering Ram](https://open.spotify.com/artist/5ZE8smCT2oR50Kq9yLZ3GW) | [The World Belongs To Me](https://open.spotify.com/album/7GD749YVkYURBaBGLuT4lW) | 3:51 | 2024-06-27 |  |
 | [Theme from Pink Flamingo](https://open.spotify.com/track/0s1AVo9cJjG2ZHbEfSrqal) | [Kids In Glass Houses](https://open.spotify.com/artist/0d630stEgFcD3GTKZPZFzY) | [Theme from Pink Flamingo](https://open.spotify.com/album/6d3h0z1J5e9mrSAG2tS0oJ) | 3:39 | 2024-06-27 |  |
 | [Tidal Wave](https://open.spotify.com/track/5xqd2haG6pqsujDUkSYLDi) | [Astroqueen](https://open.spotify.com/artist/1Zxl7JC5lyI1JAYZyiZhAo) | [Tidal Wave](https://open.spotify.com/album/1uVxpF7yvpK7B85D5RDh9E) | 6:59 | 2024-06-27 |  |

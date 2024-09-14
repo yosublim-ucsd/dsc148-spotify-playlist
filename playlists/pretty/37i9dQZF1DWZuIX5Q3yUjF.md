@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: NIMSAY
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,658 likes - 58 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,671 likes - 58 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,10 +61,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 51 | [SPUNTA BLU](https://open.spotify.com/track/6pkx41c7BZukiBOxgVOnX4) | [Nico Kyni](https://open.spotify.com/artist/6aYBFUW1FFuC7TH2qwhuc9), [The Ceasars](https://open.spotify.com/artist/0MwDm81UjbaXIeFCeCa5sw), [Giaime](https://open.spotify.com/artist/3sC3sCpqSYClSdKez9Rs6k) | [SPUNTA BLU](https://open.spotify.com/album/6xq8k8yP1tzAAzD13dIXEu) | 2:46 |
 | 52 | [Las Vegas](https://open.spotify.com/track/0bdxj3vPcLLJogNUw4pDhp) | [Twin Peaks](https://open.spotify.com/artist/755qtOpmF8s0WZSghFjmc6) | [Las Vegas](https://open.spotify.com/album/5ipEJRUyladuVqApGc4ph4) | 3:04 |
 | 53 | [Semplicemente \(Nun Fa Accussì\)](https://open.spotify.com/track/737HnI5qtfg3azNWUYsGZR) | [Martino](https://open.spotify.com/artist/39zUfhpni3F1uedNxjSIt2) | [Semplicemente \(Nun Fa Accussì\)](https://open.spotify.com/album/0XxkiUO5bR1nt5ctAhxC7O) | 2:39 |
-| 54 | [Demone](https://open.spotify.com/track/1iQKy7EU6imwiFez0SBrB8) | [Davide Shorty](https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso) | [Essere Uomo](https://open.spotify.com/album/2aEOb5jk0T8mi1PzbdnzHh) | 3:03 |
+| 54 | [Demone](https://open.spotify.com/track/1iQKy7EU6imwiFez0SBrB8) | [Davide Shorty](https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso) | [Essere Uomo](https://open.spotify.com/album/2aEOb5jk0T8mi1PzbdnzHh) | 3:01 |
 | 55 | [Paura di Me](https://open.spotify.com/track/5bWT1rNrkCFgc9kb15g39I) | [Artu10000000](https://open.spotify.com/artist/47Y9w726v5ujczF4Qpdw5h), [Ethan](https://open.spotify.com/artist/10KF61FrHX7o9dRf0elZ70) | [Paura di Me](https://open.spotify.com/album/7nBA3K8fb5ykG945MZfiuQ) | 2:32 |
 | 56 | [CENTRALE ELETTRICA \(feat\. Not Good\)](https://open.spotify.com/track/3jBe7yZjYmWF2Vuvh8ByhE) | [heysimo](https://open.spotify.com/artist/2V4pebFMSQHlTH3K3dOs2A), [Paola Pizzino](https://open.spotify.com/artist/6qZnOElnoaba63XsIts7ug), [Not Good](https://open.spotify.com/artist/1PG5WX3LZJHM4p6HO4qMq8) | [CENTRALE ELETTRICA \(feat\. Not Good\)](https://open.spotify.com/album/4XtThyzrdlNCOdMecXqYzA) | 2:31 |
 | 57 | [mozzicone](https://open.spotify.com/track/1sfRtz5iKbpzOxAWluRhLW) | [joe croci](https://open.spotify.com/artist/48AI6QByBPDMRrZZDskGzD) | [mozzicone](https://open.spotify.com/album/2pASAiBUfL9NbwS8DSHwdN) | 2:45 |
 | 58 | [Voglio di più](https://open.spotify.com/track/4MmOYatHoZD8hzDbRnKPB7) | [estro](https://open.spotify.com/artist/20UtSgbibao6RDTnUyiyIn) | [Voglio di più](https://open.spotify.com/album/4IsmRQLMNSJXAHFgymX6UF) | 2:35 |
 
-Snapshot ID: `ZuNknAAAAADqQfhtUIyOwf4hdvaAkyeK`
+Snapshot ID: `ZuNknAAAAADirp1FlO7r3dJocYTEhoTa`

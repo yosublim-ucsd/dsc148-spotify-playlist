@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 
 > Entre na onda com hits tropicais e remixes para curtir a praia com amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,552 likes - 70 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,603 likes - 70 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 63 | [In The End \- Remix](https://open.spotify.com/track/0gcNhrXQPf8uwyq7qAauKJ) | [Double MZK](https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI), [Maffei](https://open.spotify.com/artist/7xVbDhHFS3g0C1XbI5raYF), [Bill Sandre](https://open.spotify.com/artist/5vg347odfyQfzgjctiztlC) | [In The End \(Remix\)](https://open.spotify.com/album/1z6wwp7VQY84KsH60ZeJh3) | 2:44 |
 | 64 | [Que Dia](https://open.spotify.com/track/4JLk3WmaRmMmYe4HQBoz6H) | [Zabot](https://open.spotify.com/artist/0THJM1gyjt92ogxB0A9SrB), [Serginho Moah](https://open.spotify.com/artist/3P8z5gushp1EfF1FndSRw1) | [Que Dia](https://open.spotify.com/album/046LEmjGDEolXA3K5zxDFl) | 2:55 |
 | 65 | [Se Você Quiser](https://open.spotify.com/track/0Zk7UObYCZLCLd1pqN3Gjb) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Clara x Sofia](https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0), [Breno Miranda](https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n) | [Se Você Quiser](https://open.spotify.com/album/69ULBtdTrF5BxymBScNMQK) | 2:54 |
-| 66 | [Imprevisível \- Overdriver Duo e Guz Zanotto Remix](https://open.spotify.com/track/3z51kAmAca2StfedNebGNe) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6), [Overdriver Duo](https://open.spotify.com/artist/37knAlDxPb6FSnBQJNzM18), [Guz Zanotto](https://open.spotify.com/artist/4s2oHxyGNA3QZBeWELgBJI) | [Imprevisível \- Overdriver Duo e Guz Zanotto Remix](https://open.spotify.com/album/1qa0nujY9Mf2HdbL86o7GW) | 3:35 |
-| 67 | [Aurora](https://open.spotify.com/track/5DEy27mge0YVglYMfjgak6) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Double MZK](https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI) | [Aurora](https://open.spotify.com/album/0TLb9JNDquLhasSkRI0mxA) | 2:30 |
+| 66 | [Aurora](https://open.spotify.com/track/5DEy27mge0YVglYMfjgak6) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Double MZK](https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI) | [Aurora](https://open.spotify.com/album/0TLb9JNDquLhasSkRI0mxA) | 2:30 |
+| 67 | [Imprevisível \- Overdriver Duo e Guz Zanotto Remix](https://open.spotify.com/track/3z51kAmAca2StfedNebGNe) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6), [Overdriver Duo](https://open.spotify.com/artist/37knAlDxPb6FSnBQJNzM18), [Guz Zanotto](https://open.spotify.com/artist/4s2oHxyGNA3QZBeWELgBJI) | [Imprevisível \- Overdriver Duo e Guz Zanotto Remix](https://open.spotify.com/album/1qa0nujY9Mf2HdbL86o7GW) | 3:35 |
 | 68 | [Roda Gigante](https://open.spotify.com/track/4ZbPzncqIaim9AhBaI5iO2) | [Jetlag Music](https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh), [Zabot](https://open.spotify.com/artist/0THJM1gyjt92ogxB0A9SrB), [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB) | [Roda Gigante](https://open.spotify.com/album/0pO3jAs20jXXsevyFf1R7o) | 2:58 |
 | 69 | [Mais um Dia](https://open.spotify.com/track/3ITlmTf0fgkY0YLWUQzGfk) | [Breno Miranda](https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n) | [Mais um Dia](https://open.spotify.com/album/5sdl2ykjnptMYB9ohAAxLR) | 2:18 |
 | 70 | [Make Me Wanna](https://open.spotify.com/track/7EwkcUIoPXh67ampCvRk6I) | [Selva](https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa), [Zerky](https://open.spotify.com/artist/3DAlQBPv5zWasPxV5Tr8ok) | [Alok Presents Brazilian Bass: Pt\. 1](https://open.spotify.com/album/1tgfni2oyGJMqrl73x3r6Z) | 2:53 |
 
-Snapshot ID: `Ztpw5AAAAABWRvGzQawQKKzPRjU3aMRe`
+Snapshot ID: `ZuOrZAAAAABK4ThpFPuPM8bO+FX1l1o0`

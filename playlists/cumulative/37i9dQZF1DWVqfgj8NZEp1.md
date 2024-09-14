@@ -4,7 +4,7 @@
 
 > Relax to the sound of gentle instrumental Jazz.
 
-318 songs - 1 day 5 hr 13 min
+319 songs - 1 day 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Far Away](https://open.spotify.com/track/77W0DKmlfrMCTIyQZQdEEI) | [Sebastian Zawadzki](https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH) | [Far Away](https://open.spotify.com/album/2FwUA6eYCekmmkLvPK7Im7) | 7:13 | 2020-12-04 | 2022-12-21 |
 | [Fatamorgana](https://open.spotify.com/track/5wsvrblb3ooRyJQol7A2tN) | [Rasmus Holm Quartet](https://open.spotify.com/artist/6Uipo5JiSrwG7oeHHE1E3Q) | [FATAMORGANA](https://open.spotify.com/album/2pK0HHq3Rc7WHfjNelmvTD) | 4:32 | 2021-06-18 | 2023-10-11 |
 | [Follow the Light](https://open.spotify.com/track/5P0RMEJOgtGcZIq5wYjYei) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU), [Jules Billé](https://open.spotify.com/artist/4NUgmHU1FIREvBXLDDFhng), [Christophe Piot](https://open.spotify.com/artist/1bQocL3Muez9zJLuA4JjVx) | [Follow the Light](https://open.spotify.com/album/464mXSRcytt5W0mq22FMMt) | 5:03 | 2022-09-08 |  |
+| [Fools Rush In](https://open.spotify.com/track/7etvCoplQKdKeUpaAoZATx) | [Ola W Jansson](https://open.spotify.com/artist/4hoFdBmz4b5NykkV0SCEVz), [W JAZZ TRIO](https://open.spotify.com/artist/4nFofMNAntqM5p8Q4ha2YA) | [Fools Rush In](https://open.spotify.com/album/6Eqz0zCqWZyi8qpSQqWpnI) | 2:25 | 2024-09-13 |  |
 | [Fools Rush In](https://open.spotify.com/track/7hbpUZY7qsDPBe9X2juJEz) | [Teddy Wilson](https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii) | [The Noble Art Of Teddy Wilson](https://open.spotify.com/album/32TZRpG7qCdeDEjWbSWS8G) | 2:29 | 2020-10-09 |  |
 | [For Heaven's Sake](https://open.spotify.com/track/0mnUFEVSj8hqWj9jJWzOHi) | [Kevin Hays](https://open.spotify.com/artist/2uOemiMYq8Lh6yzwELpb3J), [Ben Street](https://open.spotify.com/artist/649VhpjHo5aMtz2RlIlUSR), [Billy Hart](https://open.spotify.com/artist/5DFipPOMNcZT3XMGx59s5I) | [For Heaven's Sake](https://open.spotify.com/album/1OedLBy9HcEiqNWmjKXzp1) | 11:52 | 2021-04-23 | 2022-07-29 |
 | [For Heaven's Sake](https://open.spotify.com/track/6u4xBwvs0pkkgVyMXrFC9N) | [Kevin Hays](https://open.spotify.com/artist/2uOemiMYq8Lh6yzwELpb3J), [Ben Street](https://open.spotify.com/artist/649VhpjHo5aMtz2RlIlUSR), [Billy Hart](https://open.spotify.com/artist/5DFipPOMNcZT3XMGx59s5I) | [All Things Are](https://open.spotify.com/album/1W923x7J8MGjYj0xTdoHuJ) | 11:52 | 2022-06-30 | 2022-08-30 |

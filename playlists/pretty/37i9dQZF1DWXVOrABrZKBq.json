@@ -1,15 +1,79 @@
 {
-  "description": "Le rap francophone est en forme. Photo: Leto",
-  "num_followers": 16315,
-  "original_name": "Connexion Rap",
+  "description": "Le rap francophone est en forme. Photo: Tiakola",
+  "num_followers": 16323,
+  "original_name": "Rap francophone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zs3dSQAAAACUHNYuX5LwmTqS97XhYTPf",
+  "snapshot_id": "ZuO4wAAAAABv18o39M72hUgA3FPK/20L",
   "tracks": [
     {
-      "added_at": "2024-08-27 14:06:01",
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Bonhomme Pendu 4 (Chapitre Perdu)",
+        "url": "https://open.spotify.com/album/5JWAUtRoJ0Lp2PLy7cn4it"
+      },
+      "artists": [
+        {
+          "name": "Lost",
+          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
+        },
+        {
+          "name": "Dinos",
+          "url": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
+        }
+      ],
+      "duration_ms": 238595,
+      "name": "Parades Photos",
+      "url": "https://open.spotify.com/track/7wc9odIwuIGgPnRpEHEd5B"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "MANON B",
+        "url": "https://open.spotify.com/album/4kaRXOJNgAAa3Odl6ojLBf"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        },
+        {
+          "name": "Ryflo",
+          "url": "https://open.spotify.com/artist/4acowSAiQXmdhs4DCgUQ0U"
+        },
+        {
+          "name": "Oskoow",
+          "url": "https://open.spotify.com/artist/1eXXCUkwhu0MRLTamWEgXE"
+        }
+      ],
+      "duration_ms": 169846,
+      "name": "MANON B",
+      "url": "https://open.spotify.com/track/2PYlRGF5Wi5sDobsLH5gLX"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Tentation (feat. Hamza)",
+        "url": "https://open.spotify.com/album/33Cvwo6OSmVMtrEwnvsTdP"
+      },
+      "artists": [
+        {
+          "name": "Gambi",
+          "url": "https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ"
+        },
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        }
+      ],
+      "duration_ms": 175787,
+      "name": "Tentation (feat. Hamza)",
+      "url": "https://open.spotify.com/track/2kpahpZlkZF8I2yFR65CIC"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Capitaine fait de l'art",
         "url": "https://open.spotify.com/album/05YqDGZ0w5GCfvLb7TMoKT"
@@ -25,27 +89,7 @@
       "url": "https://open.spotify.com/track/3KmGOpeFaltoCpzRAyrZJg"
     },
     {
-      "added_at": "2024-08-27 14:06:01",
-      "album": {
-        "name": "Coco",
-        "url": "https://open.spotify.com/album/230L56lWpmJBSmZA7Fvsua"
-      },
-      "artists": [
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        },
-        {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
-        }
-      ],
-      "duration_ms": 148657,
-      "name": "Coco",
-      "url": "https://open.spotify.com/track/1HXC5IiGUqTEFl18IJ42Lm"
-    },
-    {
-      "added_at": "2024-08-27 14:06:01",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "DZ D\u2019AMERIQUE",
         "url": "https://open.spotify.com/album/46TiqHJZokpCswoaGuOHzi"
@@ -65,79 +109,47 @@
       "url": "https://open.spotify.com/track/2IRPBtxyymzRVZ069OkTZQ"
     },
     {
-      "added_at": "2024-08-27 14:06:01",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "20 Benz",
-        "url": "https://open.spotify.com/album/1yUAbvGfkcHGID3l8QvCXE"
+        "name": "Coco",
+        "url": "https://open.spotify.com/album/230L56lWpmJBSmZA7Fvsua"
       },
       "artists": [
         {
-          "name": "Lost",
-          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
         },
         {
-          "name": "Kekra",
-          "url": "https://open.spotify.com/artist/20pbz4TbpkBUr5JwYfGgPS"
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "duration_ms": 148657,
+      "name": "Coco",
+      "url": "https://open.spotify.com/track/1HXC5IiGUqTEFl18IJ42Lm"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Bolide Noir",
+        "url": "https://open.spotify.com/album/6ujcbx6rGcYFkLw6epuWHW"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         },
         {
-          "name": "FREAKEY!",
-          "url": "https://open.spotify.com/artist/4K30jReY7UXKmG1Q93joPY"
+          "name": "JRK 19",
+          "url": "https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz"
         }
       ],
-      "duration_ms": 202197,
-      "name": "20 Benz",
-      "url": "https://open.spotify.com/track/36HjmuPWCb5OJ991fwA4c8"
+      "duration_ms": 170800,
+      "name": "Bolide Noir",
+      "url": "https://open.spotify.com/track/14DLZ9FaTofhnXBiV38axE"
     },
     {
-      "added_at": "2024-08-27 14:06:01",
-      "album": {
-        "name": "T.I.A - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/5bZnJCwm9vRanQPpGbMW5B"
-      },
-      "artists": [
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "T.I.A - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/1CBcqxqfrImhinNsC08sej"
-    },
-    {
-      "added_at": "2024-08-27 14:06:01",
-      "album": {
-        "name": "Nouvelle \u00c9cole | Saison 3 | La Finale (S\u00e9rie Netflix)",
-        "url": "https://open.spotify.com/album/44DbOJw5YJTV9iBM1vsh7F"
-      },
-      "artists": [
-        {
-          "name": "Dadi",
-          "url": "https://open.spotify.com/artist/2YRHC9O0GHvyHY38yFP434"
-        }
-      ],
-      "duration_ms": 201951,
-      "name": "Bah Ouais - Nouvelle \u00c9cole",
-      "url": "https://open.spotify.com/track/2PYMw8P6kuCHqhltz47XMr"
-    },
-    {
-      "added_at": "2024-08-27 14:06:01",
-      "album": {
-        "name": "Mr Fastlife",
-        "url": "https://open.spotify.com/album/6tvyItVXcqoFjrefEk60O4"
-      },
-      "artists": [
-        {
-          "name": "Zinera",
-          "url": "https://open.spotify.com/artist/5wrFfjvRhrVdGQlaVr0Svn"
-        }
-      ],
-      "duration_ms": 178656,
-      "name": "Bodies N Vvs",
-      "url": "https://open.spotify.com/track/6btO1MqMZb8Qva7MrnXmrC"
-    },
-    {
-      "added_at": "2024-08-27 14:06:01",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Quill\u00e9",
         "url": "https://open.spotify.com/album/1V6CDWdhrcfLbRECo7ERLF"
@@ -157,7 +169,7 @@
       "url": "https://open.spotify.com/track/05tF2Drqpc0hbHyh071354"
     },
     {
-      "added_at": "2024-08-27 14:06:01",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "AD VITAM \u00c6TERNAM",
         "url": "https://open.spotify.com/album/5nAPqNlNOBzQjLv3JK5zxM"
@@ -177,7 +189,39 @@
       "url": "https://open.spotify.com/track/15vGti1ooNZFlDUdlLukX6"
     },
     {
-      "added_at": "2024-08-27 14:06:01",
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Nouvelle \u00c9cole | Saison 3 | La Finale (S\u00e9rie Netflix)",
+        "url": "https://open.spotify.com/album/44DbOJw5YJTV9iBM1vsh7F"
+      },
+      "artists": [
+        {
+          "name": "Dadi",
+          "url": "https://open.spotify.com/artist/2YRHC9O0GHvyHY38yFP434"
+        }
+      ],
+      "duration_ms": 201951,
+      "name": "Bah Ouais - Nouvelle \u00c9cole",
+      "url": "https://open.spotify.com/track/2PYMw8P6kuCHqhltz47XMr"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Mr Fastlife",
+        "url": "https://open.spotify.com/album/6tvyItVXcqoFjrefEk60O4"
+      },
+      "artists": [
+        {
+          "name": "Zinera",
+          "url": "https://open.spotify.com/artist/5wrFfjvRhrVdGQlaVr0Svn"
+        }
+      ],
+      "duration_ms": 178656,
+      "name": "Bodies N Vvs",
+      "url": "https://open.spotify.com/track/6btO1MqMZb8Qva7MrnXmrC"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Tour",
         "url": "https://open.spotify.com/album/2m3epZUipMloYX7ubIeORv"
@@ -193,7 +237,23 @@
       "url": "https://open.spotify.com/track/4v2DWcJS8tXPMqq9SKX5R5"
     },
     {
-      "added_at": "2024-08-27 14:06:01",
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "T.I.A - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/5bZnJCwm9vRanQPpGbMW5B"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "T.I.A - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/1CBcqxqfrImhinNsC08sej"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "\u00c7a m\u00e8ne \u00e0 rien",
         "url": "https://open.spotify.com/album/5J2yAIMQREow94vQwRahxm"
@@ -213,59 +273,7 @@
       "url": "https://open.spotify.com/track/2uUYBVQ9EPQeuox1yD5Niw"
     },
     {
-      "added_at": "2024-08-27 14:06:01",
-      "album": {
-        "name": "Hakayet",
-        "url": "https://open.spotify.com/album/7Hd8VNqE8T9eK13RUSsWQC"
-      },
-      "artists": [
-        {
-          "name": "VEN1",
-          "url": "https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL"
-        }
-      ],
-      "duration_ms": 155448,
-      "name": "Hakayet",
-      "url": "https://open.spotify.com/track/5bww9Wf6TszHmZVooMR5um"
-    },
-    {
-      "added_at": "2024-08-27 14:06:01",
-      "album": {
-        "name": "Maudit",
-        "url": "https://open.spotify.com/album/4Q3jOM5dPofPLTSVanGVBM"
-      },
-      "artists": [
-        {
-          "name": "Werenoi",
-          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
-        },
-        {
-          "name": "Hamza",
-          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
-        }
-      ],
-      "duration_ms": 197568,
-      "name": "Maudit",
-      "url": "https://open.spotify.com/track/441BFongsHOE1kQKMsVGWm"
-    },
-    {
-      "added_at": "2024-08-27 14:06:01",
-      "album": {
-        "name": "Nothing Personal - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/4DbG96qdPpW4hCvOUU5Vny"
-      },
-      "artists": [
-        {
-          "name": "TIF",
-          "url": "https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH"
-        }
-      ],
-      "duration_ms": 178122,
-      "name": "Nothing Personal - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/45Vsjd89poscQkXodaMc0v"
-    },
-    {
-      "added_at": "2024-08-27 14:06:01",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "OT",
         "url": "https://open.spotify.com/album/3wytoILhB40hHwR1PFSL94"
@@ -285,7 +293,59 @@
       "url": "https://open.spotify.com/track/76rRiFvribZwYZZplhYnWv"
     },
     {
-      "added_at": "2024-08-27 14:06:01",
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Hakayet",
+        "url": "https://open.spotify.com/album/7Hd8VNqE8T9eK13RUSsWQC"
+      },
+      "artists": [
+        {
+          "name": "VEN1",
+          "url": "https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL"
+        }
+      ],
+      "duration_ms": 155448,
+      "name": "Hakayet",
+      "url": "https://open.spotify.com/track/5bww9Wf6TszHmZVooMR5um"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Maudit",
+        "url": "https://open.spotify.com/album/4Q3jOM5dPofPLTSVanGVBM"
+      },
+      "artists": [
+        {
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        },
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        }
+      ],
+      "duration_ms": 197568,
+      "name": "Maudit",
+      "url": "https://open.spotify.com/track/441BFongsHOE1kQKMsVGWm"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Nothing Personal - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4DbG96qdPpW4hCvOUU5Vny"
+      },
+      "artists": [
+        {
+          "name": "TIF",
+          "url": "https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH"
+        }
+      ],
+      "duration_ms": 178122,
+      "name": "Nothing Personal - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/45Vsjd89poscQkXodaMc0v"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 3 | Partie 1 (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/0hT60Uhrzopbw39A49tYs6"
@@ -301,7 +361,7 @@
       "url": "https://open.spotify.com/track/1HQQbaepsGB5uyTAGmSZxj"
     },
     {
-      "added_at": "2024-08-27 14:06:01",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Nouvelle \u00c9cole | Saison 3 | La Finale (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/44DbOJw5YJTV9iBM1vsh7F"
@@ -317,99 +377,7 @@
       "url": "https://open.spotify.com/track/3D2wU177Hr5AXTePqaC8KQ"
     },
     {
-      "added_at": "2024-08-27 14:06:01",
-      "album": {
-        "name": "Dougie",
-        "url": "https://open.spotify.com/album/0WdAEGM93b6WNp9rVSNeih"
-      },
-      "artists": [
-        {
-          "name": "K2S",
-          "url": "https://open.spotify.com/artist/5a9tCrOZBHyFC1LhydD704"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "Dougie",
-      "url": "https://open.spotify.com/track/2dh4i6rwmQ5qsoRafiylo6"
-    },
-    {
-      "added_at": "2024-08-27 14:06:01",
-      "album": {
-        "name": "SUR LE CHEMIN - Phase 2",
-        "url": "https://open.spotify.com/album/5snjlu5BRcHa6UFsrmF14C"
-      },
-      "artists": [
-        {
-          "name": "UZI",
-          "url": "https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI"
-        }
-      ],
-      "duration_ms": 165586,
-      "name": "GARS DU ZOO",
-      "url": "https://open.spotify.com/track/2x4Tzd6KDGwiMraNGopTyf"
-    },
-    {
-      "added_at": "2024-08-27 14:06:01",
-      "album": {
-        "name": "DZ D\u2019AMERIQUE",
-        "url": "https://open.spotify.com/album/46TiqHJZokpCswoaGuOHzi"
-      },
-      "artists": [
-        {
-          "name": "Enima",
-          "url": "https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT"
-        },
-        {
-          "name": "Dinos",
-          "url": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
-        }
-      ],
-      "duration_ms": 216084,
-      "name": "TARD LA NUIT",
-      "url": "https://open.spotify.com/track/6hJDudsWTlCVESvgkQkqXg"
-    },
-    {
-      "added_at": "2024-08-27 14:06:01",
-      "album": {
-        "name": "CORDILL\u00c8RE",
-        "url": "https://open.spotify.com/album/418EPRQmBowaZ83gpoFZUJ"
-      },
-      "artists": [
-        {
-          "name": "Maes",
-          "url": "https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j"
-        },
-        {
-          "name": "Werenoi",
-          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
-        }
-      ],
-      "duration_ms": 198946,
-      "name": "CORDILL\u00c8RE",
-      "url": "https://open.spotify.com/track/50q0GexjZcu6EeIq1alMjb"
-    },
-    {
-      "added_at": "2024-08-27 14:06:01",
-      "album": {
-        "name": "SAUDADE",
-        "url": "https://open.spotify.com/album/5ORwfRIZBQiJ1dQ2cQDIFO"
-      },
-      "artists": [
-        {
-          "name": "Green Montana",
-          "url": "https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2"
-        },
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
-        }
-      ],
-      "duration_ms": 172280,
-      "name": "barcelona92",
-      "url": "https://open.spotify.com/track/0ex0EZnrO2mMPIkYp3ewZX"
-    },
-    {
-      "added_at": "2024-08-27 14:06:01",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "VENI VIDI VICI",
         "url": "https://open.spotify.com/album/2vS6zdIbU16YO3zeZ50CcN"
@@ -433,7 +401,7 @@
       "url": "https://open.spotify.com/track/5AjVGkFWK2Ct0B0hbdcmWJ"
     },
     {
-      "added_at": "2024-08-27 14:06:01",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Bang",
         "url": "https://open.spotify.com/album/2RFXO4vDJzbIp8zHw2YuIV"
@@ -449,7 +417,99 @@
       "url": "https://open.spotify.com/track/1Cam8hAddVp0uNaUMhUxXD"
     },
     {
-      "added_at": "2024-08-27 14:06:01",
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Dougie",
+        "url": "https://open.spotify.com/album/0WdAEGM93b6WNp9rVSNeih"
+      },
+      "artists": [
+        {
+          "name": "K2S",
+          "url": "https://open.spotify.com/artist/5a9tCrOZBHyFC1LhydD704"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "Dougie",
+      "url": "https://open.spotify.com/track/2dh4i6rwmQ5qsoRafiylo6"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "SUR LE CHEMIN - Phase 2",
+        "url": "https://open.spotify.com/album/5snjlu5BRcHa6UFsrmF14C"
+      },
+      "artists": [
+        {
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI"
+        }
+      ],
+      "duration_ms": 165586,
+      "name": "GARS DU ZOO",
+      "url": "https://open.spotify.com/track/2x4Tzd6KDGwiMraNGopTyf"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "DZ D\u2019AMERIQUE",
+        "url": "https://open.spotify.com/album/46TiqHJZokpCswoaGuOHzi"
+      },
+      "artists": [
+        {
+          "name": "Enima",
+          "url": "https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT"
+        },
+        {
+          "name": "Dinos",
+          "url": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
+        }
+      ],
+      "duration_ms": 216084,
+      "name": "TARD LA NUIT",
+      "url": "https://open.spotify.com/track/6hJDudsWTlCVESvgkQkqXg"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "CORDILL\u00c8RE",
+        "url": "https://open.spotify.com/album/418EPRQmBowaZ83gpoFZUJ"
+      },
+      "artists": [
+        {
+          "name": "Maes",
+          "url": "https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j"
+        },
+        {
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        }
+      ],
+      "duration_ms": 198946,
+      "name": "CORDILL\u00c8RE",
+      "url": "https://open.spotify.com/track/50q0GexjZcu6EeIq1alMjb"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "SAUDADE",
+        "url": "https://open.spotify.com/album/5ORwfRIZBQiJ1dQ2cQDIFO"
+      },
+      "artists": [
+        {
+          "name": "Green Montana",
+          "url": "https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2"
+        },
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "duration_ms": 172280,
+      "name": "barcelona92",
+      "url": "https://open.spotify.com/track/0ex0EZnrO2mMPIkYp3ewZX"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Sens interdit (feat. Ninho)",
         "url": "https://open.spotify.com/album/6MTpjYzuyPkfWa0gkyIAG1"
@@ -469,7 +529,7 @@
       "url": "https://open.spotify.com/track/0SCdkVwfYVHT0OwHIpePdf"
     },
     {
-      "added_at": "2024-08-27 14:06:01",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Fausse note",
         "url": "https://open.spotify.com/album/1Id54INX5wrzorVHkl9STm"
@@ -489,7 +549,7 @@
       "url": "https://open.spotify.com/track/7dUPnQNR1RydSLVtSwXPAK"
     },
     {
-      "added_at": "2024-08-27 14:06:01",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "LA VIE RAPIDE",
         "url": "https://open.spotify.com/album/1vchjZ82BzXq4eoFZNuFjI"
@@ -509,7 +569,7 @@
       "url": "https://open.spotify.com/track/15mTyJg97PpR5GS6MOvVyw"
     },
     {
-      "added_at": "2024-08-27 14:06:01",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "JVLIVS Prequel : Giulio",
         "url": "https://open.spotify.com/album/4xR5GFngZglie60Cc3DvoS"
@@ -525,7 +585,7 @@
       "url": "https://open.spotify.com/track/0y2JXGqNraYN2gbnSLguWk"
     },
     {
-      "added_at": "2024-08-27 14:06:01",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Conscious Rapper",
         "url": "https://open.spotify.com/album/4D0XzP2BdjFmTBXRZWOXce"
@@ -541,7 +601,7 @@
       "url": "https://open.spotify.com/track/6eOF8UldTq4hw1OePXRchT"
     },
     {
-      "added_at": "2024-08-27 14:06:01",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Memory (Extended Version)",
         "url": "https://open.spotify.com/album/0TCb7xCgT5JFTl6LnCJZlY"
@@ -561,7 +621,7 @@
       "url": "https://open.spotify.com/track/70T34qUA8otqXwxraVSbry"
     },
     {
-      "added_at": "2024-08-27 14:06:01",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Temps en temps",
         "url": "https://open.spotify.com/album/5aD9BWFO8RxAX5yt4RXMUb"
@@ -581,7 +641,7 @@
       "url": "https://open.spotify.com/track/4RJ4yw4211nR1ggAved18G"
     },
     {
-      "added_at": "2024-08-27 14:06:01",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Saison 2",
         "url": "https://open.spotify.com/album/7yxd0DGipOiS2oCeo93EKy"
@@ -597,7 +657,7 @@
       "url": "https://open.spotify.com/track/0LrR09OWMytBTDwMVYicPv"
     },
     {
-      "added_at": "2024-08-27 14:06:01",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "LA MELO EST GANGX",
         "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
@@ -617,7 +677,7 @@
       "url": "https://open.spotify.com/track/7AUMxm5ArZPHojwDbdi8Vi"
     },
     {
-      "added_at": "2024-08-27 14:06:01",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "M\u00e9lanine",
         "url": "https://open.spotify.com/album/0ovXNQjta5DdP31OAMlKXO"
@@ -637,7 +697,7 @@
       "url": "https://open.spotify.com/track/7GCU3DlRW3s65f6JjNBrM4"
     },
     {
-      "added_at": "2024-08-27 14:06:01",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Plus fort.",
         "url": "https://open.spotify.com/album/6M0h47TYLEpxC8cxC0BsIk"
@@ -657,7 +717,7 @@
       "url": "https://open.spotify.com/track/0Ki0Jp7XVvBGXgjp6SUgp3"
     },
     {
-      "added_at": "2024-08-27 14:06:01",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "PRINCE",
         "url": "https://open.spotify.com/album/6tr6JfKaflbbIvxCDSM7D4"
@@ -673,7 +733,7 @@
       "url": "https://open.spotify.com/track/3ftBRDmLdaahjAPfjiZ1UN"
     },
     {
-      "added_at": "2024-08-27 14:06:01",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "La route est longue",
         "url": "https://open.spotify.com/album/1g2C4B3Adi9L27BLlVJdEs"
@@ -693,43 +753,7 @@
       "url": "https://open.spotify.com/track/26Anqi86HCCG57L5CE0gTr"
     },
     {
-      "added_at": "2024-08-27 14:06:01",
-      "album": {
-        "name": "J.000.$",
-        "url": "https://open.spotify.com/album/7CWl72c1sWausPdwa2C29w"
-      },
-      "artists": [
-        {
-          "name": "Josman",
-          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Les Flammes",
-      "url": "https://open.spotify.com/track/4i6CKsl0vgzFF97h5nzpS3"
-    },
-    {
-      "added_at": "2024-08-27 14:06:01",
-      "album": {
-        "name": "Une semaine \u00e0 Paris",
-        "url": "https://open.spotify.com/album/0bCd5P38zFjnlTYD6j569u"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
-        },
-        {
-          "name": "Laylow",
-          "url": "https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S"
-        }
-      ],
-      "duration_ms": 214871,
-      "name": "Real Love",
-      "url": "https://open.spotify.com/track/3AEJ9PoZEC6ovIv9rZy7aI"
-    },
-    {
-      "added_at": "2024-08-27 14:06:01",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "BOYZ",
         "url": "https://open.spotify.com/album/28AfjnVaDTnKwoBpcolWv0"
@@ -749,7 +773,7 @@
       "url": "https://open.spotify.com/track/5eBvtV7vtYOOjXWq80YcQ6"
     },
     {
-      "added_at": "2024-08-27 14:06:01",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "P\u00e9roxyde",
         "url": "https://open.spotify.com/album/60KbxzUMRvskEhapoRaEhF"
@@ -765,7 +789,7 @@
       "url": "https://open.spotify.com/track/0JIJMuV5B8ZFIYRfiMgD9l"
     },
     {
-      "added_at": "2024-08-27 14:06:01",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "B\u00e9cane - A COLORS SHOW",
         "url": "https://open.spotify.com/album/7oBuvko8hsXKXHEUHvDXnB"
@@ -781,7 +805,7 @@
       "url": "https://open.spotify.com/track/3oUEzTAoOxqZHN4xiqTGqJ"
     },
     {
-      "added_at": "2024-08-27 14:06:01",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Gaza",
         "url": "https://open.spotify.com/album/2wP3iEGhtn0HkcCrX44GhP"
@@ -801,7 +825,7 @@
       "url": "https://open.spotify.com/track/2e6LkWTmEDqlUmODfIpZsb"
     },
     {
-      "added_at": "2024-08-27 14:06:01",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Something About Us",
         "url": "https://open.spotify.com/album/4e3Mf5DerPgrCf0ALtgHqH"
@@ -817,23 +841,7 @@
       "url": "https://open.spotify.com/track/3kW25atIQL53yPDTD34aoo"
     },
     {
-      "added_at": "2024-08-27 14:06:01",
-      "album": {
-        "name": "LA MELO EST GANGX",
-        "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
-      },
-      "artists": [
-        {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
-        }
-      ],
-      "duration_ms": 116906,
-      "name": "100K",
-      "url": "https://open.spotify.com/track/0RXp3LrNZo89KjmfUJS0UO"
-    },
-    {
-      "added_at": "2024-08-27 14:06:01",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "27",
         "url": "https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8"
@@ -849,7 +857,7 @@
       "url": "https://open.spotify.com/track/01GVrWU4CZgZyHFMShuQb1"
     },
     {
-      "added_at": "2024-08-27 14:06:01",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "\u00c7a Parait",
         "url": "https://open.spotify.com/album/65WegECCKRFE8PaRLlTWzZ"
@@ -865,7 +873,7 @@
       "url": "https://open.spotify.com/track/53hrIOmrtgJYJi1rIfVJTF"
     },
     {
-      "added_at": "2024-08-27 14:06:01",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Prime",
         "url": "https://open.spotify.com/album/2Nd1U9DsZdDmTYbjuQ7ZwP"
@@ -885,7 +893,7 @@
       "url": "https://open.spotify.com/track/7E9hKUhfpbm4CNnlSdP407"
     },
     {
-      "added_at": "2024-08-27 14:06:01",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "1 2 3 4",
         "url": "https://open.spotify.com/album/3KnZAkAduQuv5KhcjjxuDJ"
@@ -905,7 +913,7 @@
       "url": "https://open.spotify.com/track/6feTvFEMNj1ytgfNe6kA88"
     },
     {
-      "added_at": "2024-08-27 14:06:01",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "MAELSTR\u00d6M",
         "url": "https://open.spotify.com/album/6EpLt7pH9qtQMxT3nmTEAl"
@@ -921,6 +929,6 @@
       "url": "https://open.spotify.com/track/7n84GX5guMpcJTmSakw1zT"
     }
   ],
-  "unique_name": "Connexion Rap",
+  "unique_name": "Rap francophone",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWXVOrABrZKBq"
 }

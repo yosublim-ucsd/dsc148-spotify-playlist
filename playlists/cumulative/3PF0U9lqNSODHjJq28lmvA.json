@@ -468,7 +468,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 185454,
       "name": "9 to 5 AM",
       "url": "https://open.spotify.com/track/51tE2UfySFCxXmqGCmLBCc"
@@ -1832,7 +1832,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 164571,
       "name": "Am I Supposed To Hurt",
       "url": "https://open.spotify.com/track/0sS5dadGbW6AWGJa5jRX7H"
@@ -2294,7 +2294,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 254347,
       "name": "Around The Corner",
       "url": "https://open.spotify.com/track/1KNuaAuxYpsTriFTPpohRE"
@@ -4131,6 +4131,24 @@
     },
     {
       "album": {
+        "name": "Golden Retriever EP",
+        "url": "https://open.spotify.com/album/13PHymen8ox6fMnbsZufZy"
+      },
+      "artists": [
+        {
+          "name": "Walker Diver",
+          "url": "https://open.spotify.com/artist/1sU33e7sMPPWDAUYAVo3kH"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281189,
+      "name": "Boise, Idaho",
+      "url": "https://open.spotify.com/track/3Mt8uGil67IHFyfYN8D7hn"
+    },
+    {
+      "album": {
         "name": "Bon Voyage",
         "url": "https://open.spotify.com/album/0cZmjXBwGGE5YMZgQed3Uw"
       },
@@ -5917,6 +5935,24 @@
     },
     {
       "album": {
+        "name": "Chaotic Clarity",
+        "url": "https://open.spotify.com/album/6eOmrqMME7TcAtu4rJjW2c"
+      },
+      "artists": [
+        {
+          "name": "Terminal Prospect",
+          "url": "https://open.spotify.com/artist/0oXBjTfHfoXitotFVAesW9"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179396,
+      "name": "Chaotic Clarity",
+      "url": "https://open.spotify.com/track/0CWxQU7nlci2vK0rJVYlrL"
+    },
+    {
+      "album": {
         "name": "Character Arc",
         "url": "https://open.spotify.com/album/7EjQbU7ccbC38gfNEnB31k"
       },
@@ -6084,6 +6120,32 @@
       "duration_ms": 181374,
       "name": "Chicago",
       "url": "https://open.spotify.com/track/6cjWotq3YGPSF1LCvnMTwu"
+    },
+    {
+      "album": {
+        "name": "Espectres",
+        "url": "https://open.spotify.com/album/5vSVKomThLtSJPVzggMHnO"
+      },
+      "artists": [
+        {
+          "name": "Helevorn",
+          "url": "https://open.spotify.com/artist/2P6YT8t4urGUSESUOiSnDl"
+        },
+        {
+          "name": "Thomas A. G. Jensen",
+          "url": "https://open.spotify.com/artist/6p26Zk8KJnmHMVAju8e4zI"
+        },
+        {
+          "name": "Saturnus",
+          "url": "https://open.spotify.com/artist/7HY8HFHBM9zrY5R9rlY3Id"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279306,
+      "name": "Children of the Sunrise",
+      "url": "https://open.spotify.com/track/17zfZ5NlMWWlphIwLSw3tc"
     },
     {
       "album": {
@@ -7787,6 +7849,28 @@
     },
     {
       "album": {
+        "name": "Darkness (Lone Wolf)",
+        "url": "https://open.spotify.com/album/57WbRwxMNJWHwlVENBf3or"
+      },
+      "artists": [
+        {
+          "name": "Danger Clxse",
+          "url": "https://open.spotify.com/artist/3UgdISKKLWvUbOLLWX4bic"
+        },
+        {
+          "name": "Svensax",
+          "url": "https://open.spotify.com/artist/0lSUZBO1jJe7WteABaRzXq"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218539,
+      "name": "Darkness (Lone Wolf)",
+      "url": "https://open.spotify.com/track/3jcFc5k3CT7dQ5t1m5HjPd"
+    },
+    {
+      "album": {
         "name": "darling",
         "url": "https://open.spotify.com/album/2nAiaP26h5gKj7aQuk9CZb"
       },
@@ -8072,7 +8156,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 167926,
       "name": "Dejame",
       "url": "https://open.spotify.com/track/4m967JNvVpeL8A2RAITQo6"
@@ -9436,7 +9520,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 208108,
       "name": "Drinkin' Up 2 Forget - From The Motion Picture \"\u00c4kta Skr\u00e4ck\"",
       "url": "https://open.spotify.com/track/5Zn6KL6ppC4dAt7UUshRwT"
@@ -11433,6 +11517,24 @@
     },
     {
       "album": {
+        "name": "Esto no es nada personal",
+        "url": "https://open.spotify.com/album/3J6WY0TJOYVIKnrEUzr42V"
+      },
+      "artists": [
+        {
+          "name": "Bolsa De Moscas",
+          "url": "https://open.spotify.com/artist/4WLod9DCaa4XXICphv0C2E"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Esto no es nada personal",
+      "url": "https://open.spotify.com/track/2TKBbWhVXRquA7BSDsX6yy"
+    },
+    {
+      "album": {
         "name": "Esto no va as\u00ed",
         "url": "https://open.spotify.com/album/1ktoWAEU1eqLrSLORV1mAo"
       },
@@ -11806,6 +11908,32 @@
       "duration_ms": 265679,
       "name": "EYE",
       "url": "https://open.spotify.com/track/0oCbvv8lwe3g12sKGdW7gI"
+    },
+    {
+      "album": {
+        "name": "Eye of the Storm",
+        "url": "https://open.spotify.com/album/4sXfOYm98z0bImSiByPcSS"
+      },
+      "artists": [
+        {
+          "name": "Spiders On Drugs",
+          "url": "https://open.spotify.com/artist/0L1ISkAR88soOflJEb5sLm"
+        },
+        {
+          "name": "Patrik Tammelin",
+          "url": "https://open.spotify.com/artist/6RE5O8YXcLufw1yqYsKsDi"
+        },
+        {
+          "name": "Maria Simonson",
+          "url": "https://open.spotify.com/artist/67yhCBMk6NuA2XaCSUTF3o"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216416,
+      "name": "Eye of the Storm",
+      "url": "https://open.spotify.com/track/08vIZ7jXBtsXVyoIrECIVW"
     },
     {
       "album": {
@@ -13258,7 +13386,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 245466,
       "name": "Footprints",
       "url": "https://open.spotify.com/track/69ot4keVLcfvJpEVoYopmU"
@@ -14318,7 +14446,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 248000,
       "name": "Gary Neville is special",
       "url": "https://open.spotify.com/track/6jhd1JRxWfsCF8wPtY9alo"
@@ -14935,6 +15063,24 @@
     },
     {
       "album": {
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/0lZMkqSPsdRGNn2q2nB2S4"
+      },
+      "artists": [
+        {
+          "name": "The Churchyard Ghost",
+          "url": "https://open.spotify.com/artist/2dUTJXeUQeny9AFmRpFdoi"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156250,
+      "name": "GOD DAMN",
+      "url": "https://open.spotify.com/track/6xOks5lyJpfYl4QwYgyaii"
+    },
+    {
+      "album": {
         "name": "GOD'S LOVE",
         "url": "https://open.spotify.com/album/6VooFD3cqNO7TZEcryTSnB"
       },
@@ -15036,7 +15182,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 217437,
       "name": "Golden",
       "url": "https://open.spotify.com/track/5pIGoUoK8yMhDSSxXoA2LO"
@@ -15548,7 +15694,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 275000,
       "name": "Guilty Pleasures",
       "url": "https://open.spotify.com/track/4CCblD5LLaIfihqduOPzg3"
@@ -15610,6 +15756,24 @@
       "duration_ms": 241066,
       "name": "Gypsy Magic Woman",
       "url": "https://open.spotify.com/track/1wJkGqArxPw05tmkUjRilm"
+    },
+    {
+      "album": {
+        "name": "Habibi",
+        "url": "https://open.spotify.com/album/4KGd1r5VG5VNbDd4IiV3G3"
+      },
+      "artists": [
+        {
+          "name": "Mazar",
+          "url": "https://open.spotify.com/artist/0I1soE5VwmMMq6OfIi5VIF"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Habibi",
+      "url": "https://open.spotify.com/track/7LCGtLbmHUNSsgyB3vSwxs"
     },
     {
       "album": {
@@ -17084,7 +17248,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 275555,
       "name": "HORROR",
       "url": "https://open.spotify.com/track/2Tys6hcX3csDfY0mW1EDnq"
@@ -17408,7 +17572,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 106769,
       "name": "Hurricane Head",
       "url": "https://open.spotify.com/track/4cHyzindgQWxVwjCD7u4kI"
@@ -17754,6 +17918,24 @@
       "duration_ms": 214293,
       "name": "I can tell my rider",
       "url": "https://open.spotify.com/track/3R7v69q8YSLIszhRojF5Q2"
+    },
+    {
+      "album": {
+        "name": "I Could Have Died Young",
+        "url": "https://open.spotify.com/album/6r2qP5GWuFijFFgnI2fLd3"
+      },
+      "artists": [
+        {
+          "name": "Jack Moy",
+          "url": "https://open.spotify.com/artist/58tNZRHNf5ScIAo7zBZDbU"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152062,
+      "name": "I Could Have Died Young",
+      "url": "https://open.spotify.com/track/74AlSW9U534itKCN1woEJ0"
     },
     {
       "album": {
@@ -19328,7 +19510,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 234888,
       "name": "Insane in the Brain - Remix",
       "url": "https://open.spotify.com/track/3IQhChrp2gXeW2cOdYMb6l"
@@ -20850,7 +21032,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 198260,
       "name": "Kj\u00e6re mor",
       "url": "https://open.spotify.com/track/7gmjaVvVYkh5vNMpNqzGyx"
@@ -22808,7 +22990,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 168106,
       "name": "Lonely G",
       "url": "https://open.spotify.com/track/1Vs2kRJu1uDHtLxymvg7D2"
@@ -23644,7 +23826,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 181333,
       "name": "Maalitauluja",
       "url": "https://open.spotify.com/track/73p3gDlH5NLgIKmRj9F1qG"
@@ -24276,7 +24458,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 291157,
       "name": "Matkalla",
       "url": "https://open.spotify.com/track/6Jhq7FXgz26p9777fpq6NR"
@@ -26618,7 +26800,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 249937,
       "name": "Nightmare",
       "url": "https://open.spotify.com/track/5m5e05luXA4entklnLh4Ho"
@@ -28512,7 +28694,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 224574,
       "name": "Oracle of Silicon",
       "url": "https://open.spotify.com/track/7JE18IAhv4iXgfJBM4NYyD"
@@ -28678,7 +28860,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 217813,
       "name": "Our Fight Song",
       "url": "https://open.spotify.com/track/1sTPZdDZytBjM2KRKMOdwK"
@@ -31095,6 +31277,24 @@
     },
     {
       "album": {
+        "name": "Punked",
+        "url": "https://open.spotify.com/album/5NH5fHFklTFU9SVRRMIDLr"
+      },
+      "artists": [
+        {
+          "name": "Ove Wulff",
+          "url": "https://open.spotify.com/artist/6hPhNjAWAZJuHY90phq3yp"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132685,
+      "name": "Ramona",
+      "url": "https://open.spotify.com/track/6IzTlUp2kxszIN8UVOsHmU"
+    },
+    {
+      "album": {
         "name": "Rapture (Tastes So Sweet)",
         "url": "https://open.spotify.com/album/0Y1wyHczaulyDnEPK5iIiP"
       },
@@ -32370,7 +32570,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 200000,
       "name": "S.Miles Hotline",
       "url": "https://open.spotify.com/track/1KzwIqJVAYHK9rLK7ILvUl"
@@ -33238,7 +33438,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 302700,
       "name": "Seven",
       "url": "https://open.spotify.com/track/78CNsFJI98lru8O6Yz9Nj9"
@@ -35852,7 +36052,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 220540,
       "name": "Steel Beach",
       "url": "https://open.spotify.com/track/1giCxNeSc9a4JzBDer8Lsf"
@@ -38954,7 +39154,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 320989,
       "name": "The Woman at the Bar",
       "url": "https://open.spotify.com/track/4HLz0Q7SPtTloL5Vaatenc"
@@ -39102,7 +39302,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 192147,
       "name": "Think About Love",
       "url": "https://open.spotify.com/track/5Wc05uMXsBMpj8hwWhS8aA"
@@ -39974,7 +40174,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 232786,
       "name": "Tro f\u00f6r oss b\u00e5da",
       "url": "https://open.spotify.com/track/2FR8zreL7T3JhhxPQwSWPO"
@@ -40064,7 +40264,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 171321,
       "name": "Trying",
       "url": "https://open.spotify.com/track/0ybUJNgdC2uTZzttiVnxGZ"
@@ -43984,7 +44184,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 152008,
       "name": "You Ain't Got To Be",
       "url": "https://open.spotify.com/track/7w1F7OLftbmC8tVsupxLNM"

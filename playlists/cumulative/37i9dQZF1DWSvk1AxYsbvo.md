@@ -4,10 +4,11 @@
 
 > 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요\. \(Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable.\)
 
-181 songs - 10 hr 41 min
+182 songs - 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [4Life](https://open.spotify.com/track/0rG2HaZzBT4ZzaXFPRir7Z) | [KWACA](https://open.spotify.com/artist/5Te248l4eDRueq73dqHFuF) | [4Life](https://open.spotify.com/album/2recKAfTygy8DvSrJKxJac) | 2:51 | 2024-09-13 |  |
 | [A Love Song](https://open.spotify.com/track/66is2tFkaji7lYMWt7KS1z) | [권여름](https://open.spotify.com/artist/1IB1YV6fNVrEDEOMxwBU75) | [Lily, Lily](https://open.spotify.com/album/11Ws2hc7clfj59RRldpJ6N) | 3:25 | 2022-05-03 | 2022-07-27 |
 | [a story to tell \(Original Ver.\)](https://open.spotify.com/track/7s1qstK42U47xyFOJHiqhH) | [Betty](https://open.spotify.com/artist/3BakCONT5qkN5wyybtOUhW) | [Beautiful GunbarI OST](https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5) | 2:51 | 2022-07-08 |  |
 | [A Walk \(The Last 10 Years X J\_ust\)](https://open.spotify.com/track/1jSNAa9R1LBiMeAp4uYVdU) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [A Walk \(The Last 10 Years X J\_ust\)](https://open.spotify.com/album/4KTwQFF9zCEAa4KXzVM0Iv) | 3:23 | 2024-03-08 |  |
@@ -159,7 +160,7 @@
 | [Transcendence](https://open.spotify.com/track/5EYZN2W4qk20IOQ9c3JZ6K) | [Hwang Puha](https://open.spotify.com/artist/6r9cEkpE75hhzDw3jfcRwn) | [My Home](https://open.spotify.com/album/4Q7GAqOIHSNtkJtD2uYntT) | 3:13 | 2022-05-03 | 2022-07-27 |
 | [Tropical night](https://open.spotify.com/track/1HqHn3JyuGpCsTuc4HHNNk) | [여동생](https://open.spotify.com/artist/3nksJgo6Gv1JKTKf3nlQq1) | [Tropical night](https://open.spotify.com/album/1ABhZPNxNz5supUUmVDraK) | 5:11 | 2022-07-08 | 2022-09-12 |
 | [Use Me](https://open.spotify.com/track/2u6CuICoBLDdCVYzyQi9E6) | [bobae](https://open.spotify.com/artist/6wncPbRHG5flV6j8oVz8mL) | [Use Me](https://open.spotify.com/album/5y6rbOkVDqjWIQhu4hfF7b) | 2:25 | 2022-05-03 | 2022-12-06 |
-| [Voice Of The Forest \- Guitar Version](https://open.spotify.com/track/6NV58PolVIW1nEqXfbsPid) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j), [LEE RAON](https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane) | [Voice Of The Forest](https://open.spotify.com/album/6MbzdZpJjL2CXVOuPEVLmb) | 3:53 | 2022-05-03 |  |
+| [Voice Of The Forest \- Guitar Version](https://open.spotify.com/track/6NV58PolVIW1nEqXfbsPid) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j), [LEE RAON](https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane) | [Voice Of The Forest](https://open.spotify.com/album/6MbzdZpJjL2CXVOuPEVLmb) | 3:53 | 2022-05-03 | 2024-09-14 |
 | [Waters of March](https://open.spotify.com/track/6ZAdaChu9ukRHdWARdTWIS) | [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS), [Keumbee](https://open.spotify.com/artist/1NwyafFmvijU7E9b1PjgQm) | [Salt Rain \(Prod\. By Alfie Hole\)](https://open.spotify.com/album/2PQIXQNasV6iN55iAMNccn) | 3:37 | 2022-05-03 | 2023-07-08 |
 | [We loved each other so much](https://open.spotify.com/track/2AX4ZtamEjVF2j8Ujt9AQ5) | [Savina & Drones](https://open.spotify.com/artist/15sNY2hbxc4Vu8hI96mDt7) | [We loved each other so much](https://open.spotify.com/album/0iTcaeKTHyPEawNCHukYa2) | 3:47 | 2022-06-18 | 2023-08-23 |
 | [We loved each other so much](https://open.spotify.com/track/3WFaqEHHUDVcbNku1gxrBR) | [Savina & Drones](https://open.spotify.com/artist/15sNY2hbxc4Vu8hI96mDt7) | [We loved each other so much](https://open.spotify.com/album/3yok91ShoT3Xwr9Z34YZnj) | 3:47 | 2023-09-19 | 2023-11-18 |

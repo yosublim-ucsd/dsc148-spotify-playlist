@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8fj3Eq7guo.md) - [plain]
 
 > Tag your location, we shall pass by as we go around Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,343 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,358 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8fj3Eq7guo.md) - [plain]
 | 7 | [Paris](https://open.spotify.com/track/3varTiHGif7hoPSflFz0pQ) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Paris](https://open.spotify.com/album/2AxhvJ6KOZtmegupnK94No) | 2:20 |
 | 8 | [Soweto \(with Don Toliver, Rema & Tempoe\)](https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Soweto \(with Don Toliver, Rema and Tempoe\)](https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug) | 3:39 |
 | 9 | [Lagos Love Story](https://open.spotify.com/track/2Q2QZJlhGcGPV1XAdvcqob) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:35 |
-| 10 | [Zanzibar \(Alubarika\)](https://open.spotify.com/track/5ccyAhQd6y0HO92Td0lE6H) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Zanzibar \(Alubarika\)](https://open.spotify.com/album/1ZxpFOU3CetzatCymXQh1N) | 3:01 |
+| 10 | [Zanzibar \(Alubarika\)](https://open.spotify.com/track/5ccyAhQd6y0HO92Td0lE6H) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI), [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Zanzibar \(Alubarika\)](https://open.spotify.com/album/1ZxpFOU3CetzatCymXQh1N) | 3:01 |
 | 11 | [Abule](https://open.spotify.com/track/5GmvLu8Ok9KqBakA6jTEVK) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Three](https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K) | 3:19 |
 | 12 | [Run Jozi \(Godly\) \(feat\. K.O\)](https://open.spotify.com/track/2zuOiLM3QGT5DpO4fJwOEo) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX), [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z) | [Levels \(Explicit\)](https://open.spotify.com/album/2vaRvfNXHyrXOQ8Aw6MEXe) | 3:54 |
 | 13 | [Tanzania](https://open.spotify.com/track/5Fc7n5o7UGFXEXZDaAbOyC) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Muziki Wa Samia](https://open.spotify.com/album/3JnsY2Il2yMASXxB21Kf5R) | 3:07 |

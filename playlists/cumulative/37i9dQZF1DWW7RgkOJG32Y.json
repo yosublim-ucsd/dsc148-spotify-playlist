@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Top trending country tracks from the last few months. Cover: Thomas Rhett",
+  "description": "Top trending country tracks from the last few months. Cover: Tucker Wetmore",
   "name": "Breakout Country",
   "tracks": [
     {
@@ -962,7 +962,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 249547,
       "name": "Break Mine",
       "url": "https://open.spotify.com/track/1q5ClSxLhJKpOhphiKnpJm"
@@ -1298,7 +1298,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 170240,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/2JyM1u6xSHBJVpbeFrC4B5"
@@ -1915,6 +1915,28 @@
     },
     {
       "album": {
+        "name": "Don\u2019t Mind If I Do (ft. Ella Langley)",
+        "url": "https://open.spotify.com/album/5tecOHW8icfevqfej3QEhg"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        },
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218946,
+      "name": "Don\u2019t Mind If I Do (ft. Ella Langley)",
+      "url": "https://open.spotify.com/track/6yIaRllz0lCXuISYsqyCNH"
+    },
+    {
+      "album": {
         "name": "down home",
         "url": "https://open.spotify.com/album/1LpxV96m3HhCQ47zLK0FXf"
       },
@@ -1970,6 +1992,24 @@
       "duration_ms": 156200,
       "name": "Drink Had Me",
       "url": "https://open.spotify.com/track/4KOEQ1VPa1Ri5PWT1h84jt"
+    },
+    {
+      "album": {
+        "name": "Let 'Em Talk",
+        "url": "https://open.spotify.com/album/0uUln8pwGDVuF96thPSkIs"
+      },
+      "artists": [
+        {
+          "name": "Ty Myers",
+          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254837,
+      "name": "Drinkin' Alone",
+      "url": "https://open.spotify.com/track/2qFCzRk6Rpf0YPnuUen14g"
     },
     {
       "album": {
@@ -2422,6 +2462,24 @@
       "duration_ms": 207453,
       "name": "From Austin",
       "url": "https://open.spotify.com/track/3X0V4uEujns3TlpoDa2TvP"
+    },
+    {
+      "album": {
+        "name": "Get By",
+        "url": "https://open.spotify.com/album/0QQ1aWvzjFk14qU4vfOFbW"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160160,
+      "name": "Get By",
+      "url": "https://open.spotify.com/track/5CEkI4CA4yHWEdiRDt1qlr"
     },
     {
       "album": {
@@ -5552,7 +5610,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 158634,
       "name": "Relapse",
       "url": "https://open.spotify.com/track/4cfJwDxcinpg5gYUZ4qysj"
@@ -5957,6 +6015,24 @@
     },
     {
       "album": {
+        "name": "Silverado Blue",
+        "url": "https://open.spotify.com/album/4mWuLL9DOPcmUZ6j5VRMhv"
+      },
+      "artists": [
+        {
+          "name": "Tucker Wetmore",
+          "url": "https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183880,
+      "name": "Silverado Blue",
+      "url": "https://open.spotify.com/track/2dZluexN4DZK2nteRTHB70"
+    },
+    {
+      "album": {
         "name": "SIX FEET UNDER (Caleigh\u2019s Song)",
         "url": "https://open.spotify.com/album/443mTdceNT52OKQv2tnRN8"
       },
@@ -5968,7 +6044,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 191437,
       "name": "SIX FEET UNDER (Caleigh\u2019s Song)",
       "url": "https://open.spotify.com/track/6pWmnSmn9EqCRDb2Qg1ngj"
@@ -6668,7 +6744,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 190619,
       "name": "Tears In The River",
       "url": "https://open.spotify.com/track/0wPQZ7EK9XScBom5MmLoVS"
@@ -7920,7 +7996,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 166343,
       "name": "Wine Into Whiskey",
       "url": "https://open.spotify.com/track/2DVHIJA2bLas9cGLmHmUsY"

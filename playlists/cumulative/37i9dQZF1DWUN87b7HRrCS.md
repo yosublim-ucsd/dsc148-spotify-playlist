@@ -4,7 +4,7 @@
 
 > Soft and cozy sounds of Bossa nova.
 
-114 songs - 7 hr 18 min
+115 songs - 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [I didn't know what time it was](https://open.spotify.com/track/2zAErc7IF0XI38zPfaXipU) | [Clube no norte](https://open.spotify.com/artist/18eKmZOA1BvY1sBLnvKNHH) | [Dindi](https://open.spotify.com/album/4knjVWNKQlrrsXpfPImum0) | 4:10 | 2023-05-11 |  |
 | [I Left My Heart in San Francisco](https://open.spotify.com/track/6p2Qx196CPwdcxKE7eweKi) | [Leandro Amor Trio](https://open.spotify.com/artist/4S4flqSBJsefHltJ4wZXEZ) | [I Left My Heart in San Francisco](https://open.spotify.com/album/6ZagCmpNLdmAjSxVOmjLot) | 3:43 | 2023-05-11 |  |
 | [I Mean To Say](https://open.spotify.com/track/7w2wEyWPyUg7NhB2YARJB0) | [Mornington](https://open.spotify.com/artist/1oC6eOjjixPdeV0HvUAviS) | [I Mean To Say](https://open.spotify.com/album/3zPx8FFBdTdMDI91doYfa8) | 3:37 | 2023-12-22 |  |
-| [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/3URt3hJlLJEJFwBNBIyOGY) | [Tom Rogers Band](https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR) | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/album/6DIhteXyU6TqzXu6mdwuzO) | 3:25 | 2023-05-11 |  |
+| [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/3URt3hJlLJEJFwBNBIyOGY) | [Tom Rogers Band](https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR) | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/album/6DIhteXyU6TqzXu6mdwuzO) | 3:25 | 2023-05-11 | 2024-09-14 |
 | [I've Never Been in Love Before](https://open.spotify.com/track/3zxJSADabzOeoABoE7O7Jz) | [Leandro Amor Trio](https://open.spotify.com/artist/4S4flqSBJsefHltJ4wZXEZ) | [I've Never Been in Love Before](https://open.spotify.com/album/2JS1LQHGLJ4ZmwM2LTFoW1) | 3:56 | 2023-05-11 |  |
 | [Insônia](https://open.spotify.com/track/4Q92ioXrNYiaLaRDJEc1mq) | [Davide Sosa](https://open.spotify.com/artist/6h3NI13Spsuh4zJEuDjeY4) | [Insônia](https://open.spotify.com/album/6HI3NhU2eJR1Ca1M5LEVPZ) | 2:44 | 2023-05-11 |  |
 | [Inútil paisagem](https://open.spotify.com/track/4VhDH7KDHeYqyGcRTity4J) | [Juliano Vidal Band](https://open.spotify.com/artist/5ZOhtZZUJLIUeiZOEJwVa2) | [O Morro Nao Tem Vez](https://open.spotify.com/album/1wgx5igIEBKoVA9jKGegKD) | 4:23 | 2023-05-11 |  |
@@ -68,6 +68,7 @@
 | [Lembranças](https://open.spotify.com/track/4eGXFQEQGGxgYy6OFabfJV) | [Vitor José Fonseca](https://open.spotify.com/artist/4lmPgpLRyJHPseygyVBGTu) | [Lembranças](https://open.spotify.com/album/1uPZt0rwu5GK8wA9Qji4tW) | 4:04 | 2023-05-11 |  |
 | [Liljeholmsviken](https://open.spotify.com/track/3Gw26kNDJHfTtHJQOzI1h4) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Liljeholmsviken](https://open.spotify.com/album/6wrG9MReEESMfnXLh3daCe) | 4:22 | 2023-05-11 |  |
 | [Lonely Desires](https://open.spotify.com/track/6FgLJ7dCQMjgvqrKnYP1Q6) | [Amir Patel](https://open.spotify.com/artist/2IwMjlPYSZLq7oH4YN4WFy) | [Lonely Desires](https://open.spotify.com/album/6SYo8TS6PN3OIVqSfmUqW1) | 2:41 | 2023-10-13 |  |
+| [Love That Idea](https://open.spotify.com/track/24NhTBGwaw5g68sroX1qdW) | [Tom Rogers Band](https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR) | [Love That Idea](https://open.spotify.com/album/2Jldn0oUUwJDGWjmV1Qpt9) | 2:55 | 2024-09-13 |  |
 | [Lágrimas de Alegria](https://open.spotify.com/track/04BrX31eCbQ6Oic7cAOob0) | [da Suécia](https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse) | [Lágrimas de Alegria](https://open.spotify.com/album/6dJzdUWM2tW2b4CU11hS1n) | 3:04 | 2024-03-22 |  |
 | [Maneiro](https://open.spotify.com/track/5Ibs7bA78QLwMylLggsZpi) | [Eric Merlino](https://open.spotify.com/artist/1vL7K80AJZnr8Y10olI96q) | [Maneiro](https://open.spotify.com/album/2sYgZHT6yCVpbu9omNzrEt) | 4:03 | 2024-02-23 |  |
 | [Manha de Carnaval](https://open.spotify.com/track/0kfdvJhyb0QHBG1IM9Vlht) | [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [The New Sound of Brazil](https://open.spotify.com/album/0947CUJYGkjD70oXtYtgbU) | 3:09 | 2023-05-11 |  |

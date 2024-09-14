@@ -4,7 +4,7 @@
 
 > The best new AUS & NZ Rap\. Cover: PNC
 
-911 songs - 1 day 18 hr 29 min
+912 songs - 1 day 18 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -670,6 +670,7 @@
 | [RICKY](https://open.spotify.com/track/2YXYSajbiZzJD5K49KUGon) | [Hooks](https://open.spotify.com/artist/3ByS6WHuxmY7mMp7HsVn3u) | [RICKY](https://open.spotify.com/album/4z94jJZUEw0ne7zNzozKLy) | 2:56 | 2022-04-07 | 2022-10-21 |
 | [rickys](https://open.spotify.com/track/5mn8rFWBcUN5T6eQ6uYyOI) | [lilbubblegum](https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT) | [rickys](https://open.spotify.com/album/1HSFAnANvpf7T2hjolO0yc) | 2:08 | 2023-04-27 | 2023-08-25 |
 | [RIDDLE ME THIS](https://open.spotify.com/track/6cRfWPAKV6RbQPHbKtchJ9) | [Sollyy](https://open.spotify.com/artist/3HokwUmCzY9bqzFrnOIVWf), [Isaac Puerile](https://open.spotify.com/artist/0aH9E0OKr6OeB4x4azs6X4) | [RIDDLE ME THIS](https://open.spotify.com/album/4qMq7sqfSFlfuLzmmVVlrv) | 2:00 | 2024-06-13 |  |
+| [Ridin](https://open.spotify.com/track/3kFzPKjKoBnlthiBh5xsfd) | [Stallyano](https://open.spotify.com/artist/6K0zfmmgJ0PxQ1PUpRMtot), [Totogangz.Mau](https://open.spotify.com/artist/4oRet0hhdp9IoBYuAuAOwh) | [Ridin](https://open.spotify.com/album/4PV2EVcYIkALVF8Czgqhzh) | 2:31 | 2024-09-12 |  |
 | [Riding](https://open.spotify.com/track/4ybxvjfoI326eAGZJE13oe) | [Bently](https://open.spotify.com/artist/34TF5E7gj7N1kbgPovpD2M), [No Money Enterprise](https://open.spotify.com/artist/3cI6oSkDCirRNVAgBsGJyB) | [Riding](https://open.spotify.com/album/6iB7lGpfYILPXEWAG1RtzV) | 2:45 | 2022-03-24 | 2022-09-23 |
 | [Riding](https://open.spotify.com/track/1VroX76EOk6I4qoqsCMH06) | [Kapulet](https://open.spotify.com/artist/1ViLuYdL1yATbOu4NDKedh), [Tommy Gunn](https://open.spotify.com/artist/5USJocT260C6q9FaDAa7lu) | [Riding](https://open.spotify.com/album/1GII4E9XlbESfPKgTzwORg) | 2:43 | 2022-03-31 | 2022-10-01 |
 | [RIDING](https://open.spotify.com/track/46Z99a3wscL05PsmZM4aiD) | [Tmk](https://open.spotify.com/artist/2oFK3R5iz6M9zfKz0YQppP), [YXAN](https://open.spotify.com/artist/1vFU3dBPfEHrZOx9GAm3z9) | [RIDING](https://open.spotify.com/album/4ankxDU4aJ5S4wUgiBXQsF) | 3:14 | 2022-07-04 | 2023-03-10 |

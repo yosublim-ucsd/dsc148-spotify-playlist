@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 
 > A alegria do Senhor é a vossa força! Entre no groove com o melhor do Soul, Funk e Disco Cristão\. Foto: Eli Soares
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,988 likes - 80 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,042 likes - 80 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Louvemos Ao Senhor](https://open.spotify.com/track/2oecUNxFC5Pyvs63LGkfGa) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Memórias Deluxe](https://open.spotify.com/album/3b9hU8E13bsYweRr3Bsj7Y) | 4:31 |
 | 2 | [500 Graus \(Ao Vivo na Lagoinha Alphaville\)](https://open.spotify.com/track/62JFyx41dnFbGx7v8hoBe8) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Pentecostes \(Ao Vivo\) \[Deluxe\]](https://open.spotify.com/album/6LZR9MaqoqEGrzOS5ao24m) | 4:02 |
 | 3 | [Deus Está No Controle](https://open.spotify.com/track/6ycM0D2SAlyxwl40Y10AlZ) | [Sarah Oliveira](https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq) | [Sarah](https://open.spotify.com/album/7naeYAVDhV6m9H9Xbqnz1H) | 2:52 |
-| 4 | [Ele é Exaltado](https://open.spotify.com/track/4azlxzbtyRcnxBB2bDwaZ6) | [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP) | [Ele é Exaltado](https://open.spotify.com/album/624cqcbuC4W1xu3WECphWq) | 3:17 |
-| 5 | [Não Pare de Crer](https://open.spotify.com/track/5c9H63Ch7zPugB36knsHmc) | [Juninho Black](https://open.spotify.com/artist/7490EMVm6pJKGgsrOL3chR) | [Sonhos de Deus](https://open.spotify.com/album/0ue7Y6gqpqKB2rZ1mYWMpf) | 2:46 |
+| 4 | [Não Pare de Crer](https://open.spotify.com/track/5c9H63Ch7zPugB36knsHmc) | [Juninho Black](https://open.spotify.com/artist/7490EMVm6pJKGgsrOL3chR) | [Sonhos de Deus](https://open.spotify.com/album/0ue7Y6gqpqKB2rZ1mYWMpf) | 2:46 |
+| 5 | [Ele é Exaltado](https://open.spotify.com/track/4azlxzbtyRcnxBB2bDwaZ6) | [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP) | [Ele é Exaltado](https://open.spotify.com/album/624cqcbuC4W1xu3WECphWq) | 3:17 |
 | 6 | [Avante](https://open.spotify.com/track/3z9SRMvGQ0mr25ocM2LovO) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [Avante](https://open.spotify.com/album/6UKKAW3dSSxUiegAUfRLqG) | 3:23 |
 | 7 | [Um Pouco do Que Deus Fez](https://open.spotify.com/track/1F2NsHxUk1qDckkHfPtEzp) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Essência](https://open.spotify.com/album/6gh1cKg6cQvjSSmJMKVPhm) | 3:22 |
 | 8 | [Jeova é o Teu Cavaleiro](https://open.spotify.com/track/5VttU3A8K4TUjuyIBWUaqu) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [Deus Cuida de Mim](https://open.spotify.com/album/3CQ1J18GWLNpaEV1ssleae) | 3:23 |

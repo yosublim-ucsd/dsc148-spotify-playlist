@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJ0TKGKfzgP.md) - [plain]
 
 > The best and finest 80s Funk\. Cover: Bootsy Collins.
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,928 likes - 100 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,121 likes - 100 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJ0TKGKfzgP.md) - [plain]
 | 40 | [Another Part of Me \- 2012 Remaster](https://open.spotify.com/track/21VCYxPZ8A2XpSNUyQCT3B) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Bad 25th Anniversary](https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm) | 3:54 |
 | 41 | [Back To Life](https://open.spotify.com/track/7vvRkLPIvfjjmCIqNxBuEZ) | [Soul II Soul](https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf), [Caron Wheeler](https://open.spotify.com/artist/2RhMHmV21ZDcSGZ872U4ZY) | [Keep On Movin'](https://open.spotify.com/album/1y3jN9LkTstdnogs1Xywni) | 3:48 |
 | 42 | [Let's Celebrate](https://open.spotify.com/track/3nf3xKlene4BpKqaCrdtwQ) | [Skyy](https://open.spotify.com/artist/5uFqO7FceiE84xjEjFtQLX) | [Skyy Line](https://open.spotify.com/album/3BxUhOcYaVNF3w4kL1YamJ) | 5:33 |
-| 43 | [Rock Your World](https://open.spotify.com/track/6OaO3qEwCcLiUgIeg1cCyQ) | [Weeks & Co.](https://open.spotify.com/artist/5RVgCRheVivlGnWebsyzaR) | [Star Funk, Vol\. 1](https://open.spotify.com/album/69MSI2BPQ0bUCOwI8xgC69) | 8:03 |
+| 43 | [Rock Your World](https://open.spotify.com/track/6OaO3qEwCcLiUgIeg1cCyQ) | [Weeks & Company](https://open.spotify.com/artist/0b3JJwqjGEhSqUP5TpL6Cn) | [Star Funk, Vol\. 1](https://open.spotify.com/album/69MSI2BPQ0bUCOwI8xgC69) | 8:03 |
 | 44 | [Here's to You](https://open.spotify.com/track/6kgxZIqVntV1hmM0IFFnhU) | [Skyy](https://open.spotify.com/artist/5uFqO7FceiE84xjEjFtQLX) | [Late Night Tales: Jamiroquai](https://open.spotify.com/album/4H1YAR9PLOFSz9ks2t17t3) | 5:09 |
 | 45 | [Never Give You Up](https://open.spotify.com/track/2SJW2HmmOJBVAE3slly9UM) | [Sharon Redd](https://open.spotify.com/artist/2kUUaHnVe0rRarZqRZgHEY) | [Redd Hott](https://open.spotify.com/album/5QQcCN3epphmtJMAbx2IHw) | 7:33 |
 | 46 | [Over and Over \- 12" Edit](https://open.spotify.com/track/76SUFUUj4HrUW4bnahehY6) | [Shalamar](https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A) | [The Complete Solar Singles Hit Collection](https://open.spotify.com/album/5J1EmtNcqq0Y4PjQkbSzDh) | 4:15 |

@@ -1,12 +1,12 @@
 {
   "description": "Hindi hits, Punjabi bangers, love songs, chart toppers, timeless classics, latest trending tracks and much more under a single playlist featuring best of the artists like Arijit Singh, Pritam, A R Rahman, Badshah, B Praak &amp; AP Dhillon. Follow now!",
-  "num_followers": 228189,
+  "num_followers": 228187,
   "original_name": "Bollywood Top 50",
   "owner": {
     "name": "Filtr India",
     "url": "https://open.spotify.com/user/filtrindia"
   },
-  "snapshot_id": "AAAVWZeSKuwx5pnX/KBDnX6j5Ak+DmCK",
+  "snapshot_id": "AAAVYlEK2c2zRskRb6CEzPM4Sh+NlVgv",
   "tracks": [
     {
       "added_at": "2024-08-23 02:34:38",
@@ -45,6 +45,46 @@
       "url": "https://open.spotify.com/track/04tE9ZN0JT5WpqjE4WL0yX"
     },
     {
+      "added_at": "2024-08-31 05:33:21",
+      "album": {
+        "name": "Vekh Sohneyaa - From \"Call Me Bae\"",
+        "url": "https://open.spotify.com/album/23eaFv7tdDjiPmdv5nQKj1"
+      },
+      "artists": [
+        {
+          "name": "Bombay the Artist",
+          "url": "https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ"
+        },
+        {
+          "name": "Charan",
+          "url": "https://open.spotify.com/artist/3hbwOFtgWSNfeRzF2o7Y65"
+        }
+      ],
+      "duration_ms": 216465,
+      "name": "Vekh Sohneyaa (From \"Call Me Bae\") - From \"Call Me Bae\"",
+      "url": "https://open.spotify.com/track/2RelZc0EwHPsVwrW6B6taZ"
+    },
+    {
+      "added_at": "2024-05-15 06:01:59",
+      "album": {
+        "name": "Dekhha Tenu (From \"Mr. And Mrs. Mahi\")",
+        "url": "https://open.spotify.com/album/1C3FmwSQAbjnZR6GRgnWQc"
+      },
+      "artists": [
+        {
+          "name": "Mohammad Faiz",
+          "url": "https://open.spotify.com/artist/4xNgNFUMUuGCoy7IX74Y60"
+        },
+        {
+          "name": "Jaani",
+          "url": "https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT"
+        }
+      ],
+      "duration_ms": 281511,
+      "name": "Dekhha Tenu (From \"Mr. And Mrs. Mahi\")",
+      "url": "https://open.spotify.com/track/34Fh4HXZmnuBdtgejWUZg2"
+    },
+    {
       "added_at": "2024-08-24 15:39:53",
       "album": {
         "name": "Aaj Ki Raat (From \"Stree 2\")",
@@ -71,46 +111,6 @@
       "duration_ms": 228620,
       "name": "Aaj Ki Raat (From \"Stree 2\")",
       "url": "https://open.spotify.com/track/5AnWrUzsrFgBvhn6dUElnr"
-    },
-    {
-      "added_at": "2024-05-15 06:01:59",
-      "album": {
-        "name": "Dekhha Tenu (From \"Mr. And Mrs. Mahi\")",
-        "url": "https://open.spotify.com/album/1C3FmwSQAbjnZR6GRgnWQc"
-      },
-      "artists": [
-        {
-          "name": "Mohammad Faiz",
-          "url": "https://open.spotify.com/artist/4xNgNFUMUuGCoy7IX74Y60"
-        },
-        {
-          "name": "Jaani",
-          "url": "https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT"
-        }
-      ],
-      "duration_ms": 281511,
-      "name": "Dekhha Tenu (From \"Mr. And Mrs. Mahi\")",
-      "url": "https://open.spotify.com/track/34Fh4HXZmnuBdtgejWUZg2"
-    },
-    {
-      "added_at": "2024-08-31 05:33:21",
-      "album": {
-        "name": "Vekh Sohneyaa - From \"Call Me Bae\"",
-        "url": "https://open.spotify.com/album/23eaFv7tdDjiPmdv5nQKj1"
-      },
-      "artists": [
-        {
-          "name": "Bombay the Artist",
-          "url": "https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ"
-        },
-        {
-          "name": "Charan",
-          "url": "https://open.spotify.com/artist/3hbwOFtgWSNfeRzF2o7Y65"
-        }
-      ],
-      "duration_ms": 216465,
-      "name": "Vekh Sohneyaa (From \"Call Me Bae\") - From \"Call Me Bae\"",
-      "url": "https://open.spotify.com/track/2RelZc0EwHPsVwrW6B6taZ"
     },
     {
       "added_at": "2024-08-24 15:41:09",
@@ -145,22 +145,6 @@
       "url": "https://open.spotify.com/track/1mQUEvGR7Sbt2OCz2gFrdx"
     },
     {
-      "added_at": "2024-07-12 12:42:37",
-      "album": {
-        "name": "Tauba Tauba (From \"Bad Newz\")",
-        "url": "https://open.spotify.com/album/72nKBrp0K6Nv6Q76TmEWLY"
-      },
-      "artists": [
-        {
-          "name": "Karan Aujla",
-          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
-        }
-      ],
-      "duration_ms": 207157,
-      "name": "Tauba Tauba (From \"Bad Newz\")",
-      "url": "https://open.spotify.com/track/16kiQQ4BoLHDyj5W2fkfNK"
-    },
-    {
       "added_at": "2022-07-18 10:03:31",
       "album": {
         "name": "Kesariya (From \"Brahmastra\")",
@@ -183,6 +167,26 @@
       "duration_ms": 268164,
       "name": "Kesariya (From \"Brahmastra\")",
       "url": "https://open.spotify.com/track/6VBhH7CyP56BXjp8VsDFPZ"
+    },
+    {
+      "added_at": "2024-06-12 07:44:56",
+      "album": {
+        "name": "Zaroor",
+        "url": "https://open.spotify.com/album/62yJN1YiKoDvXSrSdiXC13"
+      },
+      "artists": [
+        {
+          "name": "Aparshakti Khurana",
+          "url": "https://open.spotify.com/artist/2UWTNi6LLK5lXNGzFWzIqT"
+        },
+        {
+          "name": "Savi Kahlon",
+          "url": "https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP"
+        }
+      ],
+      "duration_ms": 175448,
+      "name": "Zaroor",
+      "url": "https://open.spotify.com/track/5thVzD79BxlDTYy0LfHzvu"
     },
     {
       "added_at": "2024-06-06 11:40:22",
@@ -209,92 +213,20 @@
       "url": "https://open.spotify.com/track/5zCnGtCl5Ac5zlFHXaZmhy"
     },
     {
-      "added_at": "2024-09-04 05:35:18",
+      "added_at": "2024-07-12 12:42:37",
       "album": {
-        "name": "Khoobsurat (From \"Stree 2\")",
-        "url": "https://open.spotify.com/album/7w3sjjjgPbpSiSq1aSLABB"
+        "name": "Tauba Tauba (From \"Bad Newz\")",
+        "url": "https://open.spotify.com/album/72nKBrp0K6Nv6Q76TmEWLY"
       },
       "artists": [
         {
-          "name": "Sachin-Jigar",
-          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
-        },
-        {
-          "name": "Vishal Mishra",
-          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
-        },
-        {
-          "name": "Amitabh Bhattacharya",
-          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
         }
       ],
-      "duration_ms": 244583,
-      "name": "Khoobsurat (From \"Stree 2\")",
-      "url": "https://open.spotify.com/track/1o8YPl0hyGbpRcHplXNvsm"
-    },
-    {
-      "added_at": "2024-06-12 07:44:56",
-      "album": {
-        "name": "Zaroor",
-        "url": "https://open.spotify.com/album/62yJN1YiKoDvXSrSdiXC13"
-      },
-      "artists": [
-        {
-          "name": "Aparshakti Khurana",
-          "url": "https://open.spotify.com/artist/2UWTNi6LLK5lXNGzFWzIqT"
-        },
-        {
-          "name": "Savi Kahlon",
-          "url": "https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP"
-        }
-      ],
-      "duration_ms": 175448,
-      "name": "Zaroor",
-      "url": "https://open.spotify.com/track/5thVzD79BxlDTYy0LfHzvu"
-    },
-    {
-      "added_at": "2024-08-08 10:38:33",
-      "album": {
-        "name": "Suniyan Suniyan",
-        "url": "https://open.spotify.com/album/7fDOsfo0KfyUV2crgrG6zR"
-      },
-      "artists": [
-        {
-          "name": "Juss",
-          "url": "https://open.spotify.com/artist/5Z8nzSJRSo4HRcUOzemnC1"
-        },
-        {
-          "name": "MixSingh",
-          "url": "https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U"
-        }
-      ],
-      "duration_ms": 197538,
-      "name": "Suniyan Suniyan",
-      "url": "https://open.spotify.com/track/0XRb6eZE4dBIJdqwf1Mixu"
-    },
-    {
-      "added_at": "2024-09-09 09:22:28",
-      "album": {
-        "name": "Ishq (From \"Lost;Found\")",
-        "url": "https://open.spotify.com/album/49shWTH1llwLbKQ1bq1cvJ"
-      },
-      "artists": [
-        {
-          "name": "Faheem Abdullah",
-          "url": "https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3"
-        },
-        {
-          "name": "Rauhan Malik",
-          "url": "https://open.spotify.com/artist/22UtphG4LcwxlhhV0aP4js"
-        },
-        {
-          "name": "Amir Ameer",
-          "url": "https://open.spotify.com/artist/6MPuzz9hPrs4TwxeHh4cEj"
-        }
-      ],
-      "duration_ms": 228639,
-      "name": "Ishq - From \"Lost;Found\"",
-      "url": "https://open.spotify.com/track/7hDoxkN20lLb06zifzYnD2"
+      "duration_ms": 207157,
+      "name": "Tauba Tauba (From \"Bad Newz\")",
+      "url": "https://open.spotify.com/track/16kiQQ4BoLHDyj5W2fkfNK"
     },
     {
       "added_at": "2024-08-25 06:30:17",
@@ -335,6 +267,50 @@
       "duration_ms": 192900,
       "name": "Diamond Ni",
       "url": "https://open.spotify.com/track/65KnUdLcbq2D8Ko9NtEGpW"
+    },
+    {
+      "added_at": "2024-08-08 10:38:33",
+      "album": {
+        "name": "Suniyan Suniyan",
+        "url": "https://open.spotify.com/album/7fDOsfo0KfyUV2crgrG6zR"
+      },
+      "artists": [
+        {
+          "name": "Juss",
+          "url": "https://open.spotify.com/artist/5Z8nzSJRSo4HRcUOzemnC1"
+        },
+        {
+          "name": "MixSingh",
+          "url": "https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U"
+        }
+      ],
+      "duration_ms": 197538,
+      "name": "Suniyan Suniyan",
+      "url": "https://open.spotify.com/track/0XRb6eZE4dBIJdqwf1Mixu"
+    },
+    {
+      "added_at": "2024-09-04 05:35:18",
+      "album": {
+        "name": "Khoobsurat (From \"Stree 2\")",
+        "url": "https://open.spotify.com/album/7w3sjjjgPbpSiSq1aSLABB"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "duration_ms": 244583,
+      "name": "Khoobsurat (From \"Stree 2\")",
+      "url": "https://open.spotify.com/track/1o8YPl0hyGbpRcHplXNvsm"
     },
     {
       "added_at": "2024-06-24 11:17:49",
@@ -399,6 +375,30 @@
       "duration_ms": 263184,
       "name": "Tu hai kahan",
       "url": "https://open.spotify.com/track/4VhqKzBeAlhTjLYZr0oJx8"
+    },
+    {
+      "added_at": "2024-09-09 09:22:28",
+      "album": {
+        "name": "Ishq (From \"Lost;Found\")",
+        "url": "https://open.spotify.com/album/49shWTH1llwLbKQ1bq1cvJ"
+      },
+      "artists": [
+        {
+          "name": "Faheem Abdullah",
+          "url": "https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3"
+        },
+        {
+          "name": "Rauhan Malik",
+          "url": "https://open.spotify.com/artist/22UtphG4LcwxlhhV0aP4js"
+        },
+        {
+          "name": "Amir Ameer",
+          "url": "https://open.spotify.com/artist/6MPuzz9hPrs4TwxeHh4cEj"
+        }
+      ],
+      "duration_ms": 228639,
+      "name": "Ishq - From \"Lost;Found\"",
+      "url": "https://open.spotify.com/track/7hDoxkN20lLb06zifzYnD2"
     },
     {
       "added_at": "2024-07-12 12:42:45",

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZzMQgXnSUD.md) - [plain]
 
 > "Bond..\. James Bond." Cover: <a href="spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH">Billie Eilish</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,161 likes - 28 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,187 likes - 28 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The James Bond Theme \(From "Dr\. No"\)](https://open.spotify.com/track/589AelScFm0FYQ4VG1biJi) | [John Barry](https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz) | [The Music Of John Barry](https://open.spotify.com/album/1DtpXIGGw9vQXZvKmqDmKA) | 2:53 |
 | 2 | [No Time To Die](https://open.spotify.com/track/73SpzrcaHk0RQPFP73vqVR) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [No Time To Die](https://open.spotify.com/album/5sXSHscDjBez8VF20cSyad) | 4:02 |
-| 3 | [We Have All The Time In The World \- From “On Her Majesty’s Secret Service” Soundtrack / Remastered 2003](https://open.spotify.com/track/0OAnoLrIVxpdne3mkVLrwr) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [On Her Majesty's Secret Service \(Expanded Edition\)](https://open.spotify.com/album/4BVd2gkQNWj30YN5P3r8Av) | 3:15 |
+| 3 | [We Have All The Time In The World \- From “On Her Majesty’s Secret Service” Soundtrack / Remastered 2003](https://open.spotify.com/track/0OAnoLrIVxpdne3mkVLrwr) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [On Her Majesty's Secret Service \- Expanded Edition](https://open.spotify.com/album/4BVd2gkQNWj30YN5P3r8Av) | 3:15 |
 | 4 | [Skyfall](https://open.spotify.com/track/3mr584ZFSkZrWja9kJAzlb) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Skyfall](https://open.spotify.com/album/7eZO3WCzvtYIbXI0ZkefzS) | 4:46 |
 | 5 | [Diamonds Are Forever](https://open.spotify.com/track/3Tp3nTswQmMzmQRqZu4iM2) | [Shirley Bassey](https://open.spotify.com/artist/090VebphoycdEyH165iMqc) | [Let Me Sing and I'm Happy](https://open.spotify.com/album/7Ln5CiGZ9hMBVJVRhyoTL5) | 2:41 |
 | 6 | [Writing's On The Wall \- From "Spectre" Soundtrack](https://open.spotify.com/track/1PWnAEQcbwQwK759otUbta) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Writing's On The Wall](https://open.spotify.com/album/50bQvrNAFsAaIbqCcfD7FT) | 4:38 |
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZzMQgXnSUD.md) - [plain]
 | 24 | [Mr Kiss Kiss Bang Bang \- 1992 Remaster](https://open.spotify.com/track/7uYZJ6actSUcazhKjjyZsK) | [Shirley Bassey](https://open.spotify.com/artist/090VebphoycdEyH165iMqc) | [The Ultimate John Barry](https://open.spotify.com/album/04ZuIHUjEiAnAoODb9UQ6j) | 2:28 |
 | 25 | [Licence To Kill](https://open.spotify.com/track/1Uncju2gBQddr8FLkKLSIG) | [Gladys Knight](https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0) | [Licence To Kill \(Soundtrack\)](https://open.spotify.com/album/1FJqm33kcszjvHXriTfKjx) | 5:14 |
 | 26 | [Tomorrow Never Dies](https://open.spotify.com/track/3peBSjcjaouspgb68WK2sk) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Tomorrow Never Dies](https://open.spotify.com/album/2UGZoHiNl2bDZyHIbaQ9Vo) | 4:51 |
-| 27 | [On Her Majesty's Secret Service \- From “On Her Majesty’s Secret Service” Soundtrack / Remastered 2003](https://open.spotify.com/track/3M0zi8iD2KRzY71XcGFUpE) | [John Barry](https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz) | [On Her Majesty's Secret Service \(Expanded Edition\)](https://open.spotify.com/album/4BVd2gkQNWj30YN5P3r8Av) | 2:35 |
+| 27 | [On Her Majesty's Secret Service \- From “On Her Majesty’s Secret Service” Soundtrack / Remastered 2003](https://open.spotify.com/track/3M0zi8iD2KRzY71XcGFUpE) | [John Barry](https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz) | [On Her Majesty's Secret Service \- Expanded Edition](https://open.spotify.com/album/4BVd2gkQNWj30YN5P3r8Av) | 2:35 |
 | 28 | [Moonraker](https://open.spotify.com/track/3fmYId4SqzuLFQkCXPRWjg) | [Shirley Bassey](https://open.spotify.com/artist/090VebphoycdEyH165iMqc) | [James Bond 007 13 Original Themes](https://open.spotify.com/album/1BIkw8IbCvCsZ942czLa4K) | 3:10 |
 
 Snapshot ID: `ZpVvswAAAABxCcXmB8rBM2SpcL7zIYEK`

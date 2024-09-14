@@ -1,13 +1,37 @@
 {
   "description": "Go inside the music from the Marvel worlds that you love!",
-  "num_followers": 178080,
+  "num_followers": 178254,
   "original_name": "Marvel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtoL8QAAAAAXkJ7DhxCS8/Rn4GoOSMSx",
+  "snapshot_id": "ZuO4wAAAAAAp22AxiI23tmNTzQm4zbQI",
   "tracks": [
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Agatha All Along (Dave Aud\u00e9 Remix) - From \"Agatha All Along\"",
+        "url": "https://open.spotify.com/album/6gwEKT8OGv6zOv9Kl5X3ZF"
+      },
+      "artists": [
+        {
+          "name": "Kristen Anderson-Lopez",
+          "url": "https://open.spotify.com/artist/3CneYb5exy4KOtvCCrozDD"
+        },
+        {
+          "name": "Robert Lopez",
+          "url": "https://open.spotify.com/artist/3zUCHzvbTmCOZoY750yHPB"
+        },
+        {
+          "name": "Dave Aud\u00e9",
+          "url": "https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9"
+        }
+      ],
+      "duration_ms": 121411,
+      "name": "Agatha All Along (Dave Aud\u00e9 Remix) - From \"Agatha All Along\"",
+      "url": "https://open.spotify.com/track/2Wq6zNBpswt49Lf7jaGBaj"
+    },
     {
       "added_at": "2024-07-25 18:31:54",
       "album": {

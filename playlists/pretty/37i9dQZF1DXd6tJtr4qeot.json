@@ -1,6 +1,6 @@
 {
   "description": "All the of punk rock that you need in your life. ",
-  "num_followers": 911873,
+  "num_followers": 911872,
   "original_name": "Punk Essentials",
   "owner": {
     "name": "Spotify",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-02-06 19:36:52",
       "album": {
-        "name": "The Punk Singer (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7DoTlKAupC8rNAdb0tNmZ2"
-      },
-      "artists": [
-        {
-          "name": "Bikini Kill",
-          "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
-        }
-      ],
-      "duration_ms": 157333,
-      "name": "Rebel Girl",
-      "url": "https://open.spotify.com/track/0XyjtybwqSdqMAFfBEkmZf"
-    },
-    {
-      "added_at": "2024-02-06 19:36:52",
-      "album": {
         "name": "Off The Bone",
         "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 136426,
       "name": "Human Fly",
       "url": "https://open.spotify.com/track/0ElRzK07sc9eszyk1ea9Ab"
+    },
+    {
+      "added_at": "2024-02-06 19:36:52",
+      "album": {
+        "name": "The Punk Singer (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7DoTlKAupC8rNAdb0tNmZ2"
+      },
+      "artists": [
+        {
+          "name": "Bikini Kill",
+          "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
+        }
+      ],
+      "duration_ms": 157333,
+      "name": "Rebel Girl",
+      "url": "https://open.spotify.com/track/0XyjtybwqSdqMAFfBEkmZf"
     },
     {
       "added_at": "2024-02-06 19:36:52",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-02-06 19:36:52",
       "album": {
-        "name": "Destruction By Definition",
-        "url": "https://open.spotify.com/album/6XN3a05K0LVycfy137CSvL"
-      },
-      "artists": [
-        {
-          "name": "The Suicide Machines",
-          "url": "https://open.spotify.com/artist/31v7ijnAMVL9V7Uzr1sFcI"
-        }
-      ],
-      "duration_ms": 123000,
-      "name": "New Girl",
-      "url": "https://open.spotify.com/track/7bFNtX22XJMy5TuEpQfa3C"
-    },
-    {
-      "added_at": "2024-02-06 19:36:52",
-      "album": {
         "name": "Fresh Fruit For Rotting Vegetables (Expanded Edition)",
         "url": "https://open.spotify.com/album/41ZBxW5kNgSlZeVvXpkJWG"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 226640,
       "name": "Holiday in Cambodia - Single Version",
       "url": "https://open.spotify.com/track/6ZR7gzHIvcj4qvo5q4kqXN"
+    },
+    {
+      "added_at": "2024-02-06 19:36:52",
+      "album": {
+        "name": "Destruction By Definition",
+        "url": "https://open.spotify.com/album/6XN3a05K0LVycfy137CSvL"
+      },
+      "artists": [
+        {
+          "name": "The Suicide Machines",
+          "url": "https://open.spotify.com/artist/31v7ijnAMVL9V7Uzr1sFcI"
+        }
+      ],
+      "duration_ms": 123000,
+      "name": "New Girl",
+      "url": "https://open.spotify.com/track/7bFNtX22XJMy5TuEpQfa3C"
     },
     {
       "added_at": "2024-02-06 19:36:52",

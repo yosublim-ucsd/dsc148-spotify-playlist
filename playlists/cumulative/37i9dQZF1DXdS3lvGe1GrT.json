@@ -8413,6 +8413,24 @@
     },
     {
       "album": {
+        "name": "friends?",
+        "url": "https://open.spotify.com/album/53jyQoBvP5xMxaZGxanCSs"
+      },
+      "artists": [
+        {
+          "name": "Aubory Bugg",
+          "url": "https://open.spotify.com/artist/2fRZyxhGkcXXFwe7tGan1U"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236250,
+      "name": "friends?",
+      "url": "https://open.spotify.com/track/4uLAof3x05z67rTXgJjyAG"
+    },
+    {
+      "album": {
         "name": "from here on out",
         "url": "https://open.spotify.com/album/0fC2Pfh9vQetDVO7phh1jM"
       },

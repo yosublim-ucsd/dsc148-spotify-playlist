@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Mi gusto, mi estilo mi flow, puro perreo Mexa, beb\u00e9 \ud83c\udf51 Alu Mix y el Malilla en portada ",
+  "description": "Mi gusto, mi estilo mi flow, puro perreo Mexa, beb\u00e9 \ud83c\udf51 Kim Loaiza, FARIANA, Ptazeta, Bellakath y Yami Safdie en portada ",
   "name": "Reggaet\u00f3n Mexa ",
   "tracks": [
     {
@@ -218,6 +218,40 @@
       "duration_ms": 205333,
       "name": "45 GRADOS",
       "url": "https://open.spotify.com/track/1sdlre29q76d9PqJNE63nQ"
+    },
+    {
+      "album": {
+        "name": "X Amor II",
+        "url": "https://open.spotify.com/album/2VYdhZU6KonE9X50HFLHhM"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "FARIANA",
+          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+        },
+        {
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        },
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266500,
+      "name": "5 Babys",
+      "url": "https://open.spotify.com/track/6jgeP2uKRZ200mT2RGi9h7"
     },
     {
       "album": {
@@ -1152,6 +1186,28 @@
       "duration_ms": 135770,
       "name": "Bellaca y Bandida",
       "url": "https://open.spotify.com/track/6eAp304c3UoxY2qnQQtHmd"
+    },
+    {
+      "album": {
+        "name": "Bellaco Desde Chamaco",
+        "url": "https://open.spotify.com/album/42axBdmvQxB4GAy7DUWc4W"
+      },
+      "artists": [
+        {
+          "name": "Pablito Mix",
+          "url": "https://open.spotify.com/artist/6YnCbY5kHjyJcMEUjoeyX3"
+        },
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198956,
+      "name": "Bellaco Desde Chamaco",
+      "url": "https://open.spotify.com/track/5oDlokMwVQWZBHhcBjjGNJ"
     },
     {
       "album": {
@@ -4368,7 +4424,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 166511,
       "name": "Funa",
       "url": "https://open.spotify.com/track/4osMcQDSAIMYJWLSohVFhB"
@@ -4963,6 +5019,28 @@
     },
     {
       "album": {
+        "name": "La Mesa de Saibu Vol.1 : Bellakeo Mexa",
+        "url": "https://open.spotify.com/album/4Hv4qTkVBu28yVXlmcDaTD"
+      },
+      "artists": [
+        {
+          "name": "SAIBU",
+          "url": "https://open.spotify.com/artist/5mSb56qJRcHVRRDveOmcfO"
+        },
+        {
+          "name": "Charly Gynn",
+          "url": "https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172018,
+      "name": "Hola (mami k te tomas)",
+      "url": "https://open.spotify.com/track/2bEY8kgDAQLQJQdHSlpKii"
+    },
+    {
+      "album": {
         "name": "Hollywood",
         "url": "https://open.spotify.com/album/2JIAfuvQfZRpCSxAVxb4Og"
       },
@@ -5196,6 +5274,28 @@
       "duration_ms": 233130,
       "name": "Inolvidable",
       "url": "https://open.spotify.com/track/3UKifMst3KThDnakM5mYxE"
+    },
+    {
+      "album": {
+        "name": "\u00d1EROSTARS",
+        "url": "https://open.spotify.com/album/5ursP9KJsdAdRc2tZwc8PU"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Tensec",
+          "url": "https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "Inspector",
+      "url": "https://open.spotify.com/track/4d6rUOQs2lBoVWh88CgZYI"
     },
     {
       "album": {
@@ -7773,6 +7873,32 @@
     },
     {
       "album": {
+        "name": "Musika Bellakona",
+        "url": "https://open.spotify.com/album/13I6eZ9URkIFIkVyPp1NzN"
+      },
+      "artists": [
+        {
+          "name": "Daniel Martinez",
+          "url": "https://open.spotify.com/artist/0rtjia73NEeeTl4McsHU34"
+        },
+        {
+          "name": "Chino El Gorila",
+          "url": "https://open.spotify.com/artist/3F1DM59crNsFkIY0ydIlO6"
+        },
+        {
+          "name": "Brand Randall",
+          "url": "https://open.spotify.com/artist/76iz3JNOhCYTh7QgjFZkhL"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173906,
+      "name": "Musika Bellakona",
+      "url": "https://open.spotify.com/track/0xzmquQRefAWG6u7bHaKf8"
+    },
+    {
+      "album": {
         "name": "Mu\u00f1equita Vip",
         "url": "https://open.spotify.com/album/4V6MGU0O4SLYrGmVrHY5UB"
       },
@@ -8024,7 +8150,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 172580,
       "name": "Ni\u00f1a Santa",
       "url": "https://open.spotify.com/track/6Nbzfm117HI6ImAuv2zrth"
@@ -8692,7 +8818,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 176842,
       "name": "Palo De Amigos",
       "url": "https://open.spotify.com/track/5VAoTOvZ1cJFeZG3M16h0z"
@@ -10706,7 +10832,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 154634,
       "name": "SANDUNGUEA",
       "url": "https://open.spotify.com/track/3GbLOCHhuhdGhuKm5zkQjz"
@@ -12120,7 +12246,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 115714,
       "name": "Tirando Flow Sesh #13",
       "url": "https://open.spotify.com/track/6FuYBNho335IsIsVhOyt74"

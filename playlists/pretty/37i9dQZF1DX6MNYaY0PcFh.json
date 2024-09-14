@@ -1,6 +1,6 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound.",
-  "num_followers": 80015,
+  "num_followers": 80034,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
@@ -739,6 +739,30 @@
     {
       "added_at": "2024-09-12 23:00:00",
       "album": {
+        "name": "MELLOW CALM & CHILL",
+        "url": "https://open.spotify.com/album/2MwVj2j9jFYmUk2MN14BRe"
+      },
+      "artists": [
+        {
+          "name": "MELODOWNZ",
+          "url": "https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H"
+        },
+        {
+          "name": "Hyan",
+          "url": "https://open.spotify.com/artist/6vuDNxdLvvXkOoAL9rZJBU"
+        },
+        {
+          "name": "rede.",
+          "url": "https://open.spotify.com/artist/1YZwoutBQnxaznZsPcTonZ"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "MELLOW CALM & CHILL",
+      "url": "https://open.spotify.com/track/74AQtgxo3NLWoV9ukri8LU"
+    },
+    {
+      "added_at": "2024-09-12 23:00:00",
+      "album": {
         "name": "Take Me High",
         "url": "https://open.spotify.com/album/3yKCs4UE4ajRa8lfU8hyGp"
       },
@@ -831,30 +855,6 @@
       "duration_ms": 161167,
       "name": "Want Me",
       "url": "https://open.spotify.com/track/3F1dotxeflBfqdPRO2umZX"
-    },
-    {
-      "added_at": "2024-09-12 23:00:00",
-      "album": {
-        "name": "MELLOW CALM & CHILL",
-        "url": "https://open.spotify.com/album/2MwVj2j9jFYmUk2MN14BRe"
-      },
-      "artists": [
-        {
-          "name": "MELODOWNZ",
-          "url": "https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H"
-        },
-        {
-          "name": "Hyan",
-          "url": "https://open.spotify.com/artist/6vuDNxdLvvXkOoAL9rZJBU"
-        },
-        {
-          "name": "rede.",
-          "url": "https://open.spotify.com/artist/1YZwoutBQnxaznZsPcTonZ"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "MELLOW CALM & CHILL",
-      "url": "https://open.spotify.com/track/74AQtgxo3NLWoV9ukri8LU"
     },
     {
       "added_at": "2024-09-12 23:00:00",
@@ -1007,22 +1007,22 @@
     {
       "added_at": "2024-09-12 23:00:00",
       "album": {
-        "name": "ME & U",
-        "url": "https://open.spotify.com/album/75boHUG6PxNZVEgQHXXK7j"
+        "name": "When I Dream",
+        "url": "https://open.spotify.com/album/2GYchu303ND2lCTWZzFakt"
       },
       "artists": [
         {
-          "name": "ABISHA",
-          "url": "https://open.spotify.com/artist/5NxlgxZ0yYlmCdy1jhUcDQ"
+          "name": "Douvelle19",
+          "url": "https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH"
         },
         {
-          "name": "Movada",
-          "url": "https://open.spotify.com/artist/6DDphNWazbGLtmw2ARnqMp"
+          "name": "Catching Cairo",
+          "url": "https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB"
         }
       ],
-      "duration_ms": 162290,
-      "name": "ME & U",
-      "url": "https://open.spotify.com/track/7H0lcblvj97g1SGFlKZ2d6"
+      "duration_ms": 215392,
+      "name": "U Could Be Mine",
+      "url": "https://open.spotify.com/track/7fkVIKftLex1gjYi1idt39"
     },
     {
       "added_at": "2024-09-12 23:00:00",
@@ -1047,22 +1047,22 @@
     {
       "added_at": "2024-09-12 23:00:00",
       "album": {
-        "name": "When I Dream",
-        "url": "https://open.spotify.com/album/2GYchu303ND2lCTWZzFakt"
+        "name": "ME & U",
+        "url": "https://open.spotify.com/album/75boHUG6PxNZVEgQHXXK7j"
       },
       "artists": [
         {
-          "name": "Douvelle19",
-          "url": "https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH"
+          "name": "ABISHA",
+          "url": "https://open.spotify.com/artist/5NxlgxZ0yYlmCdy1jhUcDQ"
         },
         {
-          "name": "Catching Cairo",
-          "url": "https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB"
+          "name": "Movada",
+          "url": "https://open.spotify.com/artist/6DDphNWazbGLtmw2ARnqMp"
         }
       ],
-      "duration_ms": 215392,
-      "name": "U Could Be Mine",
-      "url": "https://open.spotify.com/track/7fkVIKftLex1gjYi1idt39"
+      "duration_ms": 162290,
+      "name": "ME & U",
+      "url": "https://open.spotify.com/track/7H0lcblvj97g1SGFlKZ2d6"
     },
     {
       "added_at": "2024-09-12 23:00:00",

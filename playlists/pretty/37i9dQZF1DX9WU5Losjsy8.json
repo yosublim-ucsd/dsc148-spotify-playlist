@@ -1,6 +1,6 @@
 {
   "description": "ist nur einmal im Jahr!",
-  "num_followers": 426599,
+  "num_followers": 426692,
   "original_name": "Malle Party 2024",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,26 @@
     {
       "added_at": "2024-09-06 11:50:27",
       "album": {
+        "name": "Layla",
+        "url": "https://open.spotify.com/album/6CL5pcCUiPeuKmI9U630l4"
+      },
+      "artists": [
+        {
+          "name": "DJ Robin",
+          "url": "https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz"
+        },
+        {
+          "name": "Sch\u00fcrze",
+          "url": "https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ"
+        }
+      ],
+      "duration_ms": 185437,
+      "name": "Layla",
+      "url": "https://open.spotify.com/track/3ujiq7yK4Uan5z4876fHLK"
+    },
+    {
+      "added_at": "2024-09-06 11:50:27",
+      "album": {
         "name": "MALLE BEREIT",
         "url": "https://open.spotify.com/album/1aeHkgMoNAG5oS037C3GSH"
       },
@@ -659,26 +679,6 @@
       "duration_ms": 169885,
       "name": "MALLE BEREIT",
       "url": "https://open.spotify.com/track/4NVdVU19ynkIzA2lLOCE2O"
-    },
-    {
-      "added_at": "2024-09-06 11:50:27",
-      "album": {
-        "name": "Layla",
-        "url": "https://open.spotify.com/album/6CL5pcCUiPeuKmI9U630l4"
-      },
-      "artists": [
-        {
-          "name": "DJ Robin",
-          "url": "https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz"
-        },
-        {
-          "name": "Sch\u00fcrze",
-          "url": "https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ"
-        }
-      ],
-      "duration_ms": 185437,
-      "name": "Layla",
-      "url": "https://open.spotify.com/track/3ujiq7yK4Uan5z4876fHLK"
     },
     {
       "added_at": "2024-09-06 11:50:27",
@@ -731,8 +731,8 @@
     {
       "added_at": "2024-09-06 11:50:27",
       "album": {
-        "name": "Mozart (Ciao Niveau)",
-        "url": "https://open.spotify.com/album/7jODSZ4ensMN1GqU19pifB"
+        "name": "Helikopter 117 (Mach' den Hub Hub Hub)",
+        "url": "https://open.spotify.com/album/5RXeATnYMMGjUWoczsa4a3"
       },
       "artists": [
         {
@@ -740,25 +740,9 @@
           "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
         }
       ],
-      "duration_ms": 172637,
-      "name": "Mozart (Ciao Niveau)",
-      "url": "https://open.spotify.com/track/2izhQz92OLdlp2KxNwwu4O"
-    },
-    {
-      "added_at": "2024-09-06 11:50:27",
-      "album": {
-        "name": "Bring mich nach Hause",
-        "url": "https://open.spotify.com/album/4QtCdbQkB2un0KIJEeQkO4"
-      },
-      "artists": [
-        {
-          "name": "Mia Julia",
-          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
-        }
-      ],
-      "duration_ms": 149160,
-      "name": "Bring mich nach Hause",
-      "url": "https://open.spotify.com/track/3qt2UEvdeQusoqNKhgYSAx"
+      "duration_ms": 246433,
+      "name": "Helikopter 117 (Mach' den Hub Hub Hub)",
+      "url": "https://open.spotify.com/track/1pMsWnQCaLQvL3O0vaMp5H"
     },
     {
       "added_at": "2024-09-06 11:50:27",
@@ -779,6 +763,22 @@
       "duration_ms": 211373,
       "name": "Geiles Leben - Madizin Single Mix",
       "url": "https://open.spotify.com/track/4GyG53nBdaEvSEn9o8roA2"
+    },
+    {
+      "added_at": "2024-09-06 11:50:27",
+      "album": {
+        "name": "Bring mich nach Hause",
+        "url": "https://open.spotify.com/album/4QtCdbQkB2un0KIJEeQkO4"
+      },
+      "artists": [
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+        }
+      ],
+      "duration_ms": 149160,
+      "name": "Bring mich nach Hause",
+      "url": "https://open.spotify.com/track/3qt2UEvdeQusoqNKhgYSAx"
     },
     {
       "added_at": "2024-09-06 11:50:27",
@@ -859,42 +859,6 @@
     {
       "added_at": "2024-09-06 11:50:27",
       "album": {
-        "name": "Ich liebe das Leben (Stereoact #Remix)",
-        "url": "https://open.spotify.com/album/3OQ1X9mkQHBmcWr6zNNtH4"
-      },
-      "artists": [
-        {
-          "name": "Vicky Leandros",
-          "url": "https://open.spotify.com/artist/68yjIBoc8l4GaliVFZDUcJ"
-        },
-        {
-          "name": "Stereoact",
-          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
-        }
-      ],
-      "duration_ms": 203900,
-      "name": "Ich liebe das Leben - Stereoact #Remix",
-      "url": "https://open.spotify.com/track/6JVxY1CIPVlFyKkCIRwS2L"
-    },
-    {
-      "added_at": "2024-09-06 11:50:27",
-      "album": {
-        "name": "Helikopter 117 (Mach' den Hub Hub Hub)",
-        "url": "https://open.spotify.com/album/5RXeATnYMMGjUWoczsa4a3"
-      },
-      "artists": [
-        {
-          "name": "Tobee",
-          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
-        }
-      ],
-      "duration_ms": 246433,
-      "name": "Helikopter 117 (Mach' den Hub Hub Hub)",
-      "url": "https://open.spotify.com/track/1pMsWnQCaLQvL3O0vaMp5H"
-    },
-    {
-      "added_at": "2024-09-06 11:50:27",
-      "album": {
         "name": "Zum Greifen nah",
         "url": "https://open.spotify.com/album/5s9Tgn9nGXXo3RgUpWwkTf"
       },
@@ -911,6 +875,42 @@
       "duration_ms": 167142,
       "name": "Zum Greifen nah",
       "url": "https://open.spotify.com/track/5LEBEcAsQTL2ZoRQEvsE1D"
+    },
+    {
+      "added_at": "2024-09-06 11:50:27",
+      "album": {
+        "name": "Mozart (Ciao Niveau)",
+        "url": "https://open.spotify.com/album/7jODSZ4ensMN1GqU19pifB"
+      },
+      "artists": [
+        {
+          "name": "Tobee",
+          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
+        }
+      ],
+      "duration_ms": 172637,
+      "name": "Mozart (Ciao Niveau)",
+      "url": "https://open.spotify.com/track/2izhQz92OLdlp2KxNwwu4O"
+    },
+    {
+      "added_at": "2024-09-06 11:50:27",
+      "album": {
+        "name": "Ich liebe das Leben (Stereoact #Remix)",
+        "url": "https://open.spotify.com/album/3OQ1X9mkQHBmcWr6zNNtH4"
+      },
+      "artists": [
+        {
+          "name": "Vicky Leandros",
+          "url": "https://open.spotify.com/artist/68yjIBoc8l4GaliVFZDUcJ"
+        },
+        {
+          "name": "Stereoact",
+          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
+        }
+      ],
+      "duration_ms": 203900,
+      "name": "Ich liebe das Leben - Stereoact #Remix",
+      "url": "https://open.spotify.com/track/6JVxY1CIPVlFyKkCIRwS2L"
     },
     {
       "added_at": "2024-09-06 11:50:27",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-09-06 11:50:27",
       "album": {
-        "name": "Ouzo",
-        "url": "https://open.spotify.com/album/79sU32Jc1Y5anr0Eauub1K"
-      },
-      "artists": [
-        {
-          "name": "Vincent Gross",
-          "url": "https://open.spotify.com/artist/6QU5o9QJmgCLjco0qn6dNy"
-        }
-      ],
-      "duration_ms": 274914,
-      "name": "Ouzo",
-      "url": "https://open.spotify.com/track/6QeQs7lz8qR2miwx9n2epp"
-    },
-    {
-      "added_at": "2024-09-06 11:50:27",
-      "album": {
         "name": "RESPEKTLOS",
         "url": "https://open.spotify.com/album/2lMKUB1k6foUaPsfe7yJUD"
       },
@@ -999,42 +983,18 @@
     {
       "added_at": "2024-09-06 11:50:27",
       "album": {
-        "name": "Nachbarn",
-        "url": "https://open.spotify.com/album/30AvhaHvCvYYwj0o8YlQea"
+        "name": "Ouzo",
+        "url": "https://open.spotify.com/album/79sU32Jc1Y5anr0Eauub1K"
       },
       "artists": [
         {
-          "name": "Harris & Ford",
-          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
-        },
-        {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+          "name": "Vincent Gross",
+          "url": "https://open.spotify.com/artist/6QU5o9QJmgCLjco0qn6dNy"
         }
       ],
-      "duration_ms": 181553,
-      "name": "Nachbarn",
-      "url": "https://open.spotify.com/track/1aBi2cwSWOaYz0kC0P27ok"
-    },
-    {
-      "added_at": "2024-09-06 11:50:27",
-      "album": {
-        "name": "Mallekind",
-        "url": "https://open.spotify.com/album/6REJSCEeDximgCmWC1XWvl"
-      },
-      "artists": [
-        {
-          "name": "Isi Gl\u00fcck",
-          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
-        },
-        {
-          "name": "Julian Benz",
-          "url": "https://open.spotify.com/artist/3GiXBISwnKsyO5B37DYiMp"
-        }
-      ],
-      "duration_ms": 173433,
-      "name": "Mallekind",
-      "url": "https://open.spotify.com/track/3NlCLRvhG5gno1HutG23u6"
+      "duration_ms": 274914,
+      "name": "Ouzo",
+      "url": "https://open.spotify.com/track/6QeQs7lz8qR2miwx9n2epp"
     },
     {
       "added_at": "2024-09-06 11:50:27",
@@ -1059,6 +1019,26 @@
     {
       "added_at": "2024-09-06 11:50:27",
       "album": {
+        "name": "Nachbarn",
+        "url": "https://open.spotify.com/album/30AvhaHvCvYYwj0o8YlQea"
+      },
+      "artists": [
+        {
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        },
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        }
+      ],
+      "duration_ms": 181553,
+      "name": "Nachbarn",
+      "url": "https://open.spotify.com/track/1aBi2cwSWOaYz0kC0P27ok"
+    },
+    {
+      "added_at": "2024-09-06 11:50:27",
+      "album": {
         "name": "Du Bist Mein Gl\u00fcck",
         "url": "https://open.spotify.com/album/0JMSxzYXXyIVDlm7xSUUbp"
       },
@@ -1071,6 +1051,26 @@
       "duration_ms": 216706,
       "name": "Du bist mein Gl\u00fcck",
       "url": "https://open.spotify.com/track/1yA8eLTcwmsDlS1bdVAli0"
+    },
+    {
+      "added_at": "2024-09-06 11:50:27",
+      "album": {
+        "name": "Mallekind",
+        "url": "https://open.spotify.com/album/6REJSCEeDximgCmWC1XWvl"
+      },
+      "artists": [
+        {
+          "name": "Isi Gl\u00fcck",
+          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
+        },
+        {
+          "name": "Julian Benz",
+          "url": "https://open.spotify.com/artist/3GiXBISwnKsyO5B37DYiMp"
+        }
+      ],
+      "duration_ms": 173433,
+      "name": "Mallekind",
+      "url": "https://open.spotify.com/track/3NlCLRvhG5gno1HutG23u6"
     },
     {
       "added_at": "2024-09-06 11:50:27",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-09-06 11:50:27",
       "album": {
-        "name": "Saufi saufi",
-        "url": "https://open.spotify.com/album/2m713Kjk2GYOeBxr7rnbr7"
-      },
-      "artists": [
-        {
-          "name": "Tobee",
-          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
-        }
-      ],
-      "duration_ms": 206302,
-      "name": "Saufi saufi",
-      "url": "https://open.spotify.com/track/3IsASNnv8A9dS7GoZy1LY9"
-    },
-    {
-      "added_at": "2024-09-06 11:50:27",
-      "album": {
         "name": "Partyanimal",
         "url": "https://open.spotify.com/album/4pXtlHGw6kiWyntGaLUxSx"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 139159,
       "name": "Partyanimal",
       "url": "https://open.spotify.com/track/7gzdjkagK3pTVW8jYjcYBF"
+    },
+    {
+      "added_at": "2024-09-06 11:50:27",
+      "album": {
+        "name": "Saufi saufi",
+        "url": "https://open.spotify.com/album/2m713Kjk2GYOeBxr7rnbr7"
+      },
+      "artists": [
+        {
+          "name": "Tobee",
+          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
+        }
+      ],
+      "duration_ms": 206302,
+      "name": "Saufi saufi",
+      "url": "https://open.spotify.com/track/3IsASNnv8A9dS7GoZy1LY9"
     },
     {
       "added_at": "2024-09-06 11:50:27",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2024-09-06 11:50:27",
       "album": {
+        "name": "Nie mehr Alkohol - freie Getr\u00e4nke",
+        "url": "https://open.spotify.com/album/5rwaknmCTOQdMU70HFeG6y"
+      },
+      "artists": [
+        {
+          "name": "Mickie Krause",
+          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
+        }
+      ],
+      "duration_ms": 204283,
+      "name": "Nie mehr Alkohol - freie Getr\u00e4nke",
+      "url": "https://open.spotify.com/track/3tjl4GDKVHhWUdTOlxbHc1"
+    },
+    {
+      "added_at": "2024-09-06 11:50:27",
+      "album": {
         "name": "Freitag, Samstag",
         "url": "https://open.spotify.com/album/2vdeMLYYKkx1kp0J9ggsBL"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 156356,
       "name": "Freitag, Samstag",
       "url": "https://open.spotify.com/track/35WEFAhw47XLju1gu40cjT"
-    },
-    {
-      "added_at": "2024-09-06 11:50:27",
-      "album": {
-        "name": "Nie mehr Alkohol - freie Getr\u00e4nke",
-        "url": "https://open.spotify.com/album/5rwaknmCTOQdMU70HFeG6y"
-      },
-      "artists": [
-        {
-          "name": "Mickie Krause",
-          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
-        }
-      ],
-      "duration_ms": 204283,
-      "name": "Nie mehr Alkohol - freie Getr\u00e4nke",
-      "url": "https://open.spotify.com/track/3tjl4GDKVHhWUdTOlxbHc1"
     },
     {
       "added_at": "2024-09-06 11:50:27",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2024-09-06 11:50:27",
       "album": {
+        "name": "Ein Wort sagt mehr als 1000 Bilder",
+        "url": "https://open.spotify.com/album/1hh1YtzD7HiKAla6K6W0KZ"
+      },
+      "artists": [
+        {
+          "name": "Mickie Krause",
+          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
+        }
+      ],
+      "duration_ms": 187053,
+      "name": "Geh mal Bier hol'n - GmBh",
+      "url": "https://open.spotify.com/track/0NipOXqC53PNZVUMfthzPt"
+    },
+    {
+      "added_at": "2024-09-06 11:50:27",
+      "album": {
         "name": "Grapefruit",
         "url": "https://open.spotify.com/album/2GPa0un8izzyTkgZWgocBo"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 192600,
       "name": "Holterdiepolter",
       "url": "https://open.spotify.com/track/1JLkfGbg0vw9VBTZeuPPNZ"
-    },
-    {
-      "added_at": "2024-09-06 11:50:27",
-      "album": {
-        "name": "Ein Wort sagt mehr als 1000 Bilder",
-        "url": "https://open.spotify.com/album/1hh1YtzD7HiKAla6K6W0KZ"
-      },
-      "artists": [
-        {
-          "name": "Mickie Krause",
-          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
-        }
-      ],
-      "duration_ms": 187053,
-      "name": "Geh mal Bier hol'n - GmBh",
-      "url": "https://open.spotify.com/track/0NipOXqC53PNZVUMfthzPt"
     },
     {
       "added_at": "2024-09-06 11:50:27",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-09-06 11:50:27",
       "album": {
-        "name": "Mallemoment",
-        "url": "https://open.spotify.com/album/2lJXNJMUVFKYCBSzcJDQyW"
-      },
-      "artists": [
-        {
-          "name": "Stefan St\u00fcrmer",
-          "url": "https://open.spotify.com/artist/6jvJeMzlBK7kW5LQUePR6q"
-        }
-      ],
-      "duration_ms": 169238,
-      "name": "Mallemoment",
-      "url": "https://open.spotify.com/track/14QtgrVvs1os2TMvpTbQZH"
-    },
-    {
-      "added_at": "2024-09-06 11:50:27",
-      "album": {
         "name": "Ich schie\u00df mich weg",
         "url": "https://open.spotify.com/album/1nkb9GbsadB9rE1vonRmXg"
       },
@@ -1503,6 +1487,26 @@
       "duration_ms": 127989,
       "name": "Ich schie\u00df mich weg",
       "url": "https://open.spotify.com/track/72ZWod6JckJuSZ4BeyEqPU"
+    },
+    {
+      "added_at": "2024-09-06 11:50:27",
+      "album": {
+        "name": "Sternstunden",
+        "url": "https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1"
+      },
+      "artists": [
+        {
+          "name": "DJ \u00d6tzi",
+          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
+        },
+        {
+          "name": "Marc Pircher",
+          "url": "https://open.spotify.com/artist/7pNnbFPWqtDSdSeNydTPbJ"
+        }
+      ],
+      "duration_ms": 239466,
+      "name": "7 S\u00fcnden - Party Mix",
+      "url": "https://open.spotify.com/track/4HCaFtRMdrP6iQepyPkfW6"
     }
   ],
   "unique_name": "Malle Party 2024",

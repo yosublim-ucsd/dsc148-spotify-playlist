@@ -2405,6 +2405,24 @@
     },
     {
       "album": {
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/4KNGKFepe5Qt5BN5pBpcH7"
+      },
+      "artists": [
+        {
+          "name": "An-Ten-Nae",
+          "url": "https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174857,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/7KbYeUb4lRBh9Y7V0rjnCJ"
+    },
+    {
+      "album": {
         "name": "Gallows EP",
         "url": "https://open.spotify.com/album/2fZTG3TpT1oyuE9z5bMeV2"
       },

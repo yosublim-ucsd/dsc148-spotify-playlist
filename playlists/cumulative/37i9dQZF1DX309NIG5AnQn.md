@@ -2,14 +2,14 @@
 
 ### [el under](https://open.spotify.com/playlist/37i9dQZF1DX309NIG5AnQn)
 
-> rock alternativo argentino\. <br/>📷 Riel
+> rock alternativo argentino\. <br/>📷 DOJO
 
-232 songs - 13 hr 15 min
+234 songs - 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [02:51](https://open.spotify.com/track/6ZxMFRBxRW0jLWiVs9RKFB) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [02:51](https://open.spotify.com/album/38Uuksmr3lpYuUQGbH2YIl) | 4:11 | 2023-05-12 | 2023-09-16 |
-| [31 de Diciembre](https://open.spotify.com/track/3EobeZqwjZbOf7jl6C1Vpz) | [Ok Pirámides](https://open.spotify.com/artist/0I9v5sjA1GZPSCQ5sXJ5hX) | [Bueno Todo El Día](https://open.spotify.com/album/7HI8Llk6hjEp4ihxXfhxZS) | 5:12 | 2024-05-09 |  |
+| [31 de Diciembre](https://open.spotify.com/track/3EobeZqwjZbOf7jl6C1Vpz) | [Ok Pirámides](https://open.spotify.com/artist/0I9v5sjA1GZPSCQ5sXJ5hX) | [Bueno Todo El Día](https://open.spotify.com/album/7HI8Llk6hjEp4ihxXfhxZS) | 5:12 | 2024-05-09 | 2024-09-14 |
 | [31 de Diciembre](https://open.spotify.com/track/7eVPt0ywVYz2CgRYUOGC4G) | [Ok Pirámides](https://open.spotify.com/artist/0I9v5sjA1GZPSCQ5sXJ5hX) | [Bueno Todo El Día](https://open.spotify.com/album/4AB7LBCxKAdf96i5IOYUPl) | 5:12 | 2024-04-26 | 2024-05-17 |
 | [40](https://open.spotify.com/track/5Mfz3Aoj1txhueNZUXSUnV) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [TRES PUNTOS SUSPENSIVOS](https://open.spotify.com/album/3uogbVO1vXh4OZ7FQpnmuJ) | 1:05 | 2022-03-25 | 2023-03-25 |
 | [Abrazo Telepático](https://open.spotify.com/track/2nPDLelRg7W8IYxZs67VX1) | [Entidad Animada](https://open.spotify.com/artist/2fa4MkhFQbeYbxkvHF3M7P) | [Sonido Velado](https://open.spotify.com/album/3DpNPGaoosGx7WXffTI6Re) | 4:34 | 2023-07-28 |  |
@@ -29,7 +29,7 @@
 | [Atenta](https://open.spotify.com/track/3GZuixcRRQ7PidTtKxXOPn) | [Anabella Cartolano](https://open.spotify.com/artist/08DbRq8mfXjAQPIyhR070C) | [Sur](https://open.spotify.com/album/5PHhl2tm9iQVxkjGGOcsAe) | 2:53 | 2024-06-28 | 2024-08-24 |
 | [AVE MARÍA](https://open.spotify.com/track/5d7RuDDWI7TcCNWJMsaUqN) | [MUGRE](https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V) | [LA SANTÍSIMA TRINIDAD](https://open.spotify.com/album/42YySIet0Gr5dtERZBsFt0) | 1:58 | 2023-08-04 | 2024-07-06 |
 | [Baldío](https://open.spotify.com/track/4F2YFSAvXUBeJpCVGn8meh) | [Norma](https://open.spotify.com/artist/5mPr596XU0RArRWkiY1eFl) | [Baldío](https://open.spotify.com/album/2zoYwEvAMNb9SrEh9zMs6M) | 4:34 | 2023-03-23 | 2023-08-26 |
-| [Batalla Naval](https://open.spotify.com/track/2kXaFBuF8o0SpELClw5skx) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Batalla Naval](https://open.spotify.com/album/7ir1j0acIgaSxNj2oJqbMh) | 3:23 | 2023-03-23 |  |
+| [Batalla Naval](https://open.spotify.com/track/2kXaFBuF8o0SpELClw5skx) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Batalla Naval](https://open.spotify.com/album/7ir1j0acIgaSxNj2oJqbMh) | 3:23 | 2023-03-23 | 2024-09-14 |
 | [Baño de Sangre](https://open.spotify.com/track/1MjJ5ZFLo0qtZyeBPr7Nfj) | [Erich Larsson](https://open.spotify.com/artist/0iD5zEeQslF2KjFvLReU2l) | [Adorno](https://open.spotify.com/album/7JUOpq60jz3lRHQ7p7SROj) | 2:40 | 2022-03-25 | 2023-03-25 |
 | [Bichos en tu boca](https://open.spotify.com/track/41KMMzYfHLsgbBZutvnAz1) | [Justo Antes de la Guerra con los Esquimales](https://open.spotify.com/artist/0E8okIJZJy58uvxYajtFor) | [Bichos en tu boca](https://open.spotify.com/album/7FqS5U399n8NcgcH5W4yM3) | 3:32 | 2023-11-10 | 2023-12-16 |
 | [Bitcha](https://open.spotify.com/track/66eI95IhQNQqaWEl8y8ExE) | [Julián Desbats](https://open.spotify.com/artist/6qzRpe1gOXSbcd7NsblkdP) | [Bitcha](https://open.spotify.com/album/1DbD5SRuAb3Hhtwy9WeGpK) | 3:34 | 2023-09-01 |  |
@@ -149,6 +149,7 @@
 | [Millones](https://open.spotify.com/track/3L1SRzZusiy1dV02HjIxVg) | [La Foca](https://open.spotify.com/artist/0pFNCx059c6q0VJwI0oFLF) | [Millones](https://open.spotify.com/album/209q6Mt9aQaZu2C1x6jwej) | 2:35 | 2022-03-25 | 2023-03-25 |
 | [Mirandonos](https://open.spotify.com/track/4lZKP62LTSaJld949qz9ho) | [Paracaidistas](https://open.spotify.com/artist/6q0e1oKgBOTIhnNQTbfdWP) | [El Encanto Del Fuego](https://open.spotify.com/album/6tbGgz0PeqFJNXD4rhuZ97) | 4:02 | 2023-03-23 | 2023-06-03 |
 | [Miseria](https://open.spotify.com/track/133WrLbDi3hHdqnmivs1yX) | [THE COLORATED](https://open.spotify.com/artist/5TR49gppYqwHy7E6VHFUpK), [Punga](https://open.spotify.com/artist/0wpeDItjD9NshrMSwk6plk) | [Miseria](https://open.spotify.com/album/6OvaaOohiSRpW9w9iJ0gAM) | 2:20 | 2022-03-25 | 2023-03-25 |
+| [Motivos](https://open.spotify.com/track/5sj8qsK8IC2U89ALnWEIEr) | [DOJO](https://open.spotify.com/artist/4GjDDGyy3jprA7C8LqD0EG) | [Cuando Éramos Jóvenes](https://open.spotify.com/album/7tkNFeKcjqASwvTx05BNkw) | 3:33 | 2024-09-13 |  |
 | [Muy Callados](https://open.spotify.com/track/0VHtYulrMYi562H5HcrjjT) | [Error Vanessa](https://open.spotify.com/artist/0uF5hCCa4TNv6iFcQnRujF) | [Muy Callados](https://open.spotify.com/album/7qMY8uroz6XD9owsd9pvLC) | 3:09 | 2023-07-14 |  |
 | [Mágica Intuición](https://open.spotify.com/track/0LyxlEukWhwdDyMuHdAsY8) | [La Piba Berreta](https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST), [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Mágica Intuición](https://open.spotify.com/album/667lQQJCy9qQfB5pGI2bYE) | 3:10 | 2023-03-23 | 2023-05-27 |
 | [Nada Más](https://open.spotify.com/track/2H9QDsByfi3cOYrbMA0smF) | [Sakatumba](https://open.spotify.com/artist/205zSqF4seFuqDGmmQEMad) | [Habla Sola / Nada Más](https://open.spotify.com/album/4GSei1tPC2AExizBVKU76T) | 3:54 | 2024-02-02 |  |
@@ -193,6 +194,7 @@
 | [Pájaros](https://open.spotify.com/track/40r8exebu3RCPZsM8CGUly) | [Suarez](https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n), [Julieta Salas](https://open.spotify.com/artist/3hD02itkArv5tzcKIZYpgt) | [Por última vez](https://open.spotify.com/album/6551YKhH5mVEgrJhLIWTar) | 2:57 | 2022-03-25 | 2023-03-25 |
 | [Qué me importa](https://open.spotify.com/track/24h868TwxJicgv2geeijAv) | [Pelopincho](https://open.spotify.com/artist/14V8tDnnDCXIVaJctOamBG) | [Loop Adolescente](https://open.spotify.com/album/1OGDMGGnVTOkj8NxpvMMMb) | 2:33 | 2022-03-25 | 2023-03-25 |
 | [Qué Más Puedo Hacer?](https://open.spotify.com/track/3msrD4D95JLz00h5Q9rNHI) | [El Club Audiovisual](https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7) | [El Club Audiovisual](https://open.spotify.com/album/6lQhvKS0pAvBzG54hATdiQ) | 2:52 | 2023-08-11 | 2024-03-23 |
+| [RA](https://open.spotify.com/track/6s5Q819P0zK4VJi6nvkDJv) | [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [SÚPER PREMIUM ULTRA](https://open.spotify.com/album/3iotVnhWSsVoihTEsXFobV) | 3:24 | 2024-09-13 |  |
 | [Regalos](https://open.spotify.com/track/4VepBt1iPtAl252OTVWqzM) | [Cometas](https://open.spotify.com/artist/32239AWhqRXbc7gxJNounF) | [Regalos](https://open.spotify.com/album/6oAFSyabc4tjftTMDIwkyO) | 3:30 | 2023-06-30 |  |
 | [Revolución](https://open.spotify.com/track/5CNE2KaVa7x3H5lGJOM132) | [La Memoria de Funes](https://open.spotify.com/artist/196UkdPtwBYw7eJeZ7W8GF) | [Revolución](https://open.spotify.com/album/3YrjpZoeTshiFMkXlwG4Yr) | 2:17 | 2024-07-12 |  |
 | [Sal chivo](https://open.spotify.com/track/4pBjPkFU6AVk4WBdljdMm7) | [Blanco Teta](https://open.spotify.com/artist/2jHbb2xaFQ1CjUnE8RJeWT) | [Sal chivo](https://open.spotify.com/album/6n85JjMfghPhCttGoo9U6p) | 3:21 | 2024-06-06 |  |

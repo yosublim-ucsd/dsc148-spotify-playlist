@@ -175,6 +175,28 @@
     },
     {
       "album": {
+        "name": "Amazonas",
+        "url": "https://open.spotify.com/album/3QULjnnhheJJ49IEepP3TA"
+      },
+      "artists": [
+        {
+          "name": "Sam Ourt",
+          "url": "https://open.spotify.com/artist/5I3AwOX9Fr2gEG6SKmltH6"
+        },
+        {
+          "name": "Juan Dileju",
+          "url": "https://open.spotify.com/artist/00es8O5qsOBGlhNSvPJtS0"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171968,
+      "name": "Amazonas",
+      "url": "https://open.spotify.com/track/7wFwSOKk0pJqupbEVCSqzJ"
+    },
+    {
+      "album": {
         "name": "Andalucia",
         "url": "https://open.spotify.com/album/3vgLVhmZFjiDpX52BxHFOl"
       },
@@ -790,10 +812,36 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 197694,
       "name": "Beso (Fruta Fresca)",
       "url": "https://open.spotify.com/track/0r3nMF80NSIuPIxeod4aoG"
+    },
+    {
+      "album": {
+        "name": "Beso (Fruta Fresca) - MichaelBM Remix",
+        "url": "https://open.spotify.com/album/6ZAVp3cuWAyj0FHy7CeC0C"
+      },
+      "artists": [
+        {
+          "name": "Wakyin",
+          "url": "https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ"
+        },
+        {
+          "name": "MichaelBM",
+          "url": "https://open.spotify.com/artist/6RY7vqzR938x0DE0Eh6srl"
+        },
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221249,
+      "name": "Beso (Fruta Fresca) - MichaelBM Remix",
+      "url": "https://open.spotify.com/track/0KD920X1MFe2r3DxTflT2o"
     },
     {
       "album": {
@@ -2578,7 +2626,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-07",
+      "date_removed": null,
       "duration_ms": 199133,
       "name": "Fan\u00e1tico",
       "url": "https://open.spotify.com/track/0zjlFMd5NRR1XrOwP2ZTtQ"
@@ -5006,7 +5054,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 214153,
       "name": "Quisiera Tenerte",
       "url": "https://open.spotify.com/track/2isQjbpcfEUTnc7sa8rf2G"
@@ -5444,7 +5492,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 147601,
       "name": "Solo Se Vive Una Vez",
       "url": "https://open.spotify.com/track/1aVWueLqzo5cVtxEYkhVYi"

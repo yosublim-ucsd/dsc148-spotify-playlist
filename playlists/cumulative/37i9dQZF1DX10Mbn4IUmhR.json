@@ -1997,6 +1997,24 @@
     },
     {
       "album": {
+        "name": "Bedazzled, Pt. 2",
+        "url": "https://open.spotify.com/album/5ovXeIEDlidbFeO2k7jf5k"
+      },
+      "artists": [
+        {
+          "name": "BINX",
+          "url": "https://open.spotify.com/artist/1m6WCZzMnbe46bBTvbERQ0"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144938,
+      "name": "Talk About It",
+      "url": "https://open.spotify.com/track/2PhoSaWFwjTBLutzVTHG9G"
+    },
+    {
+      "album": {
         "name": "Short n' Sweet",
         "url": "https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj"
       },

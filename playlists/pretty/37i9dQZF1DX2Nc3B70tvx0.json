@@ -1,29 +1,13 @@
 {
-  "description": "The best of right now. Cover: Beabadoobee",
-  "num_followers": 2073149,
+  "description": "The best of right now. Cover: Suki Waterhouse",
+  "num_followers": 2073134,
   "original_name": "Front Page Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuG+yQAAAAB3cbxAN7HRLP1//PFEb5bY",
+  "snapshot_id": "ZuO4/AAAAABk1Xllv6L9HqsSDeW2Ydrd",
   "tracks": [
-    {
-      "added_at": "2024-09-06 15:40:26",
-      "album": {
-        "name": "Wristwatch",
-        "url": "https://open.spotify.com/album/5lpIqexNhzFxvwyhzTIeTF"
-      },
-      "artists": [
-        {
-          "name": "MJ Lenderman",
-          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
-        }
-      ],
-      "duration_ms": 222453,
-      "name": "Wristwatch",
-      "url": "https://open.spotify.com/track/6HsIV3KVhmY20DAyt5u0ug"
-    },
     {
       "added_at": "2024-09-11 16:01:13",
       "album": {
@@ -41,20 +25,36 @@
       "url": "https://open.spotify.com/track/0iMSUfh4oQplV5OrmrlIbm"
     },
     {
-      "added_at": "2024-09-05 21:31:40",
+      "added_at": "2024-09-06 15:40:26",
       "album": {
-        "name": "This Could Be Texas",
-        "url": "https://open.spotify.com/album/4gd3XcQ7dR37m8GimBfiYT"
+        "name": "Wristwatch",
+        "url": "https://open.spotify.com/album/5lpIqexNhzFxvwyhzTIeTF"
       },
       "artists": [
         {
-          "name": "English Teacher",
-          "url": "https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU"
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
         }
       ],
-      "duration_ms": 186065,
-      "name": "The World\u2019s Biggest Paving Slab",
-      "url": "https://open.spotify.com/track/0QZwfrjDdVGKjKfIzopBfL"
+      "duration_ms": 222453,
+      "name": "Wristwatch",
+      "url": "https://open.spotify.com/track/6HsIV3KVhmY20DAyt5u0ug"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "Model, Actress, Whatever",
+        "url": "https://open.spotify.com/album/4M6b5oOkKDlbPAjlfXbID2"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 212530,
+      "name": "Model, Actress, Whatever",
+      "url": "https://open.spotify.com/track/2GxyLVk70vblDcloX4mJsi"
     },
     {
       "added_at": "2024-09-10 22:08:29",
@@ -73,6 +73,22 @@
       "url": "https://open.spotify.com/track/0MXmiqd7zoXxv6Gqn9ahhQ"
     },
     {
+      "added_at": "2024-09-05 21:31:40",
+      "album": {
+        "name": "This Could Be Texas",
+        "url": "https://open.spotify.com/album/4gd3XcQ7dR37m8GimBfiYT"
+      },
+      "artists": [
+        {
+          "name": "English Teacher",
+          "url": "https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU"
+        }
+      ],
+      "duration_ms": 186065,
+      "name": "The World\u2019s Biggest Paving Slab",
+      "url": "https://open.spotify.com/track/0QZwfrjDdVGKjKfIzopBfL"
+    },
+    {
       "added_at": "2024-08-23 04:00:00",
       "album": {
         "name": "Lonely Fight",
@@ -89,6 +105,26 @@
       "url": "https://open.spotify.com/track/2K5UBMkyxh4NuATA6JrMhD"
     },
     {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "VIVA HINDS",
+        "url": "https://open.spotify.com/album/4ondVT64jP4uRyuxP8gxLU"
+      },
+      "artists": [
+        {
+          "name": "Hinds",
+          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
+        },
+        {
+          "name": "Grian Chatten",
+          "url": "https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE"
+        }
+      ],
+      "duration_ms": 206563,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/2ysmyfV4hwLGsHjowCN3GU"
+    },
+    {
       "added_at": "2024-09-10 22:08:29",
       "album": {
         "name": "Let's Go Back",
@@ -103,6 +139,42 @@
       "duration_ms": 169651,
       "name": "Let's Go Back",
       "url": "https://open.spotify.com/track/3fvZo45Y28ly1QBo05pujJ"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "Parallel Realms - Deluxe Edition",
+        "url": "https://open.spotify.com/album/3BMXL9PrShspDkVlCEvAfO"
+      },
+      "artists": [
+        {
+          "name": "STRFKR",
+          "url": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
+        },
+        {
+          "name": "Ruth Radelet",
+          "url": "https://open.spotify.com/artist/2Evpx6HIhl4ahwPKjAPvox"
+        }
+      ],
+      "duration_ms": 188822,
+      "name": "Under Water / In Air - feat. Ruth Radelet",
+      "url": "https://open.spotify.com/track/3KoRqwC6xGerhN8gwYf0hY"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "Glimpse",
+        "url": "https://open.spotify.com/album/4hsNAPEzpwXvXM8IzpEtmm"
+      },
+      "artists": [
+        {
+          "name": "Future Islands",
+          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+        }
+      ],
+      "duration_ms": 196400,
+      "name": "Glimpse",
+      "url": "https://open.spotify.com/track/0aGJkwtYb5DAJjpIAZ8lmZ"
     },
     {
       "added_at": "2024-08-16 04:24:03",
@@ -181,6 +253,22 @@
       "url": "https://open.spotify.com/track/6P9k0dC9CP1g4ZlSzQn90M"
     },
     {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "PRATTS & PAIN",
+        "url": "https://open.spotify.com/album/7IoPY9MnsHUoG5Emfp3R6q"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 212133,
+      "name": "Til The Morning",
+      "url": "https://open.spotify.com/track/6WqZzEA3Q24gnhQxHYX3Dg"
+    },
+    {
       "added_at": "2024-09-10 22:08:29",
       "album": {
         "name": "BETA",
@@ -221,6 +309,38 @@
       "url": "https://open.spotify.com/track/24YL0yluuZMXFraR2AI35c"
     },
     {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "Not This Time",
+        "url": "https://open.spotify.com/album/5EW8gVkac63mqb7X8qwqJe"
+      },
+      "artists": [
+        {
+          "name": "Georgia Gets By",
+          "url": "https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9"
+        }
+      ],
+      "duration_ms": 201702,
+      "name": "Not This Time",
+      "url": "https://open.spotify.com/track/325Y0u0dmETOSwgdM4fLAj"
+    },
+    {
+      "added_at": "2024-09-05 16:45:13",
+      "album": {
+        "name": "Disco",
+        "url": "https://open.spotify.com/album/46LE2xR4e92aVvo1QlUiS3"
+      },
+      "artists": [
+        {
+          "name": "Surf Curse",
+          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
+        }
+      ],
+      "duration_ms": 152760,
+      "name": "Disco",
+      "url": "https://open.spotify.com/track/2Lumsra3kuU61wXkEKzKaK"
+    },
+    {
       "added_at": "2024-09-05 16:45:13",
       "album": {
         "name": "Lonely / Sweet Devil",
@@ -235,6 +355,22 @@
       "duration_ms": 226091,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/32ULqlnRCPQcqNaZc2eIs1"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "Feed My Release",
+        "url": "https://open.spotify.com/album/0dtcWAoSVVGeHJvCdD056G"
+      },
+      "artists": [
+        {
+          "name": "Naima Bock",
+          "url": "https://open.spotify.com/artist/3UvBjnS0xNdifivRctkxok"
+        }
+      ],
+      "duration_ms": 316778,
+      "name": "Feed My Release",
+      "url": "https://open.spotify.com/track/442h55BG9peZwkpdBb5tEM"
     },
     {
       "added_at": "2024-09-10 22:08:29",
@@ -269,20 +405,20 @@
       "url": "https://open.spotify.com/track/5GaYakwOtqZPxI2XYHFtdx"
     },
     {
-      "added_at": "2024-09-05 16:45:13",
+      "added_at": "2024-09-13 04:01:00",
       "album": {
-        "name": "Disco",
-        "url": "https://open.spotify.com/album/46LE2xR4e92aVvo1QlUiS3"
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/5ZQ4dmoWks6hzaz5vFbXmJ"
       },
       "artists": [
         {
-          "name": "Surf Curse",
-          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
+          "name": "Lunar Vacation",
+          "url": "https://open.spotify.com/artist/7EEefVBNBS3ckwouEl62oB"
         }
       ],
-      "duration_ms": 152760,
-      "name": "Disco",
-      "url": "https://open.spotify.com/track/2Lumsra3kuU61wXkEKzKaK"
+      "duration_ms": 287226,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/4cakGDwEb3ZTUQRB66xesd"
     },
     {
       "added_at": "2024-09-06 15:40:26",
@@ -299,6 +435,22 @@
       "duration_ms": 212105,
       "name": "Midnight Shining",
       "url": "https://open.spotify.com/track/3mYsAOZUuqeqVwQw0BAdgv"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "FLUX",
+        "url": "https://open.spotify.com/album/1jXKXZjH3ESFcs3VBvoQSN"
+      },
+      "artists": [
+        {
+          "name": "TENDER",
+          "url": "https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm"
+        }
+      ],
+      "duration_ms": 280840,
+      "name": "flux",
+      "url": "https://open.spotify.com/track/7Ls5alNvrm46CrJ2gETL53"
     },
     {
       "added_at": "2024-08-16 04:24:03",

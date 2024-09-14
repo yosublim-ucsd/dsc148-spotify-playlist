@@ -573,6 +573,32 @@
     },
     {
       "album": {
+        "name": "Kahan Shuru Kahan Khatam",
+        "url": "https://open.spotify.com/album/09a2swL9jBNHfRkAV8iBzQ"
+      },
+      "artists": [
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Sunny M.R.",
+          "url": "https://open.spotify.com/artist/4bOqW6xGi7n9315ErmJ2Um"
+        },
+        {
+          "name": "Ashish Pandit",
+          "url": "https://open.spotify.com/artist/03veJpSIc7GAx0mPLcskjI"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209090,
+      "name": "Babu Ki Baby",
+      "url": "https://open.spotify.com/track/0S3diq6mskjS06udazx2AP"
+    },
+    {
+      "album": {
         "name": "Babul Teri Galliyaan",
         "url": "https://open.spotify.com/album/6rmibXRijYIvOTmdezma9n"
       },
@@ -5526,7 +5552,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 210000,
       "name": "O Re Dariya",
       "url": "https://open.spotify.com/track/0P3jnA2UvdKSkbnDBQBVw9"

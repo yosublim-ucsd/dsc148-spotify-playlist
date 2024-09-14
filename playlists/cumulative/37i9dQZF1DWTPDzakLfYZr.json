@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00a1Los grandes temas del Pop Urbano, eso es Popet\u00f3n! Foto: J Balvin",
+  "description": "\u00a1Los grandes temas del Pop Urbano, eso es Popet\u00f3n! Foto: SOG & Piso 21",
   "name": "Popet\u00f3n",
   "tracks": [
     {
@@ -164,6 +164,24 @@
       "duration_ms": 166857,
       "name": "3/21",
       "url": "https://open.spotify.com/track/0rV8UItPm7YFJuUDZBDrB8"
+    },
+    {
+      "album": {
+        "name": "40\u00ba",
+        "url": "https://open.spotify.com/album/4hWAFWIPkc2nG8ihSHTa64"
+      },
+      "artists": [
+        {
+          "name": "Soley",
+          "url": "https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140447,
+      "name": "40\u00ba",
+      "url": "https://open.spotify.com/track/3S3y2smpdcXRowIGr6CkXj"
     },
     {
       "album": {
@@ -1742,7 +1760,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 158823,
       "name": "Contra Las Cuerdas",
       "url": "https://open.spotify.com/track/2YvmcuV0RoVqbIAiF6elaX"
@@ -3341,6 +3359,28 @@
     },
     {
       "album": {
+        "name": "Gan\u00e9 Cuando Te Perd\u00ed",
+        "url": "https://open.spotify.com/album/7f6xwuoslmSZ0ypYpX5odM"
+      },
+      "artists": [
+        {
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
+        },
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199354,
+      "name": "Gan\u00e9 Cuando Te Perd\u00ed",
+      "url": "https://open.spotify.com/track/4oVF4kQUa2OXosyaCmiNT7"
+    },
+    {
+      "album": {
         "name": "Garabatos (with Jay Wheeler)",
         "url": "https://open.spotify.com/album/5dZs5nHvzlqJyqKQ6NK5oD"
       },
@@ -3452,6 +3492,28 @@
       "duration_ms": 118773,
       "name": "Guaro",
       "url": "https://open.spotify.com/track/57sG0muDy6txXqYFBlcA6y"
+    },
+    {
+      "album": {
+        "name": "Hablame Claro",
+        "url": "https://open.spotify.com/album/2uAs0cfev3WKGaotTsREhI"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154969,
+      "name": "Hablame Claro",
+      "url": "https://open.spotify.com/track/6ZCfGA0bPM50DPmcSlJKGY"
     },
     {
       "album": {
@@ -4170,7 +4232,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 167668,
       "name": "Le hac\u00e9s falta vos",
       "url": "https://open.spotify.com/track/6stKcfnzJmDjijqxdXU2dz"
@@ -7236,7 +7298,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 142000,
       "name": "TENEMOS SUERTE",
       "url": "https://open.spotify.com/track/2kSzUN3mNeUT2LcHtL5jl4"

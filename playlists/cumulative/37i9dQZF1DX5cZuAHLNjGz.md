@@ -2,9 +2,9 @@
 
 ### [Punjabi 101](https://open.spotify.com/playlist/37i9dQZF1DX5cZuAHLNjGz)
 
-> Ultimate 101 Punjabi Hits with AP Dhillon
+> Ultimate 101 Punjabi Hits with Navaan Sandhu
 
-403 songs - 20 hr 47 min
+405 songs - 20 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [25\-25](https://open.spotify.com/track/4aObqXLku7XQqfVQ8azYGo) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Jalwa](https://open.spotify.com/album/5zOoQe3sBQ6o2EUead1B3h) | 3:35 | 2022-10-17 | 2023-10-07 |
 | [26 Blvd](https://open.spotify.com/track/3OK2VUpcjQQZAqGHw95N4G) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/3TvDVoxi5iIi1oqCPMt4zp) | 3:32 | 2022-08-17 | 2022-10-08 |
 | [295](https://open.spotify.com/track/5W7DOVGQLTigu09afW7QMT) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 4:30 | 2022-05-29 | 2024-08-03 |
+| [315 \(feat\. Shinda Kahlon & Jazzy B\)](https://open.spotify.com/track/46byBJVhgLiL7e9uedasdg) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh), [Jazzy B](https://open.spotify.com/artist/25bvyjHJAszeSV3q0TmEhY) | [The Brownprint](https://open.spotify.com/album/5ocQ8RmwkpQ2mUwYSgMMH9) | 2:11 | 2024-09-13 |  |
 | [410](https://open.spotify.com/track/0R1AZYXc34nfMaiengrkRc) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY), [Offgrid](https://open.spotify.com/artist/7F8zSmymsU25wRm0x7R05Y) | [410](https://open.spotify.com/album/0kUrdWYhWYGz71c0jaGnJe) | 3:54 | 2024-04-10 |  |
 | [52 Bars](https://open.spotify.com/track/6rFckZb1cuJYzsZiGHgqks) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Four You](https://open.spotify.com/album/5IVcvfVOLEPMJ4PKqPaq2w) | 3:34 | 2023-02-04 | 2024-05-16 |
 | [60 Pound](https://open.spotify.com/track/3MJ7tQkiwoUotSYv9qxwhp) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Jang Dhillon](https://open.spotify.com/artist/04h37X9hVdRuKEbl2y9naq) | [60 Pound](https://open.spotify.com/album/5Y1pbrxbADGYwt4DSi9oxT) | 3:35 | 2024-08-23 |  |
@@ -64,6 +65,7 @@
 | [Black Heart](https://open.spotify.com/track/6xTLfT3ppNqOre8C8wMmN2) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Street Knowledge](https://open.spotify.com/album/4atfMjGwk0GMXIvGvqyNqC) | 2:35 | 2023-09-04 | 2023-10-26 |
 | [Bliss](https://open.spotify.com/track/1mFP5PZWD1TUX1NWVx5EaW) | [Gurbax](https://open.spotify.com/artist/52nO5w2jFAlYYsq6h9YjQG), [Burrah](https://open.spotify.com/artist/6YB1D1koiebYqzQesSUfIS), [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu) | [Bliss](https://open.spotify.com/album/36x75E36kXJhu2Mvc11h7y) | 3:16 | 2022-12-10 | 2022-12-15 |
 | [Blockbuster](https://open.spotify.com/track/2kQ4qdEtzWR1scQBlsjl8M) | [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD), [Umair Butt](https://open.spotify.com/artist/4E2wX4DFQFhlLyVzRw0C1P), [Gharvi Group](https://open.spotify.com/artist/2zOjtDwrBj757zRzqgHP82) | [Blockbuster](https://open.spotify.com/album/6uqXvhk1Qq1sUUDTDZgxg8) | 4:34 | 2024-05-28 |  |
+| [Bora Bora \(feat\. Ayra Starr\)](https://open.spotify.com/track/3lZ6QxJ6LH8HGWov58drvj) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [The Brownprint](https://open.spotify.com/album/5ocQ8RmwkpQ2mUwYSgMMH9) | 2:35 | 2024-09-13 |  |
 | [Born to Shine](https://open.spotify.com/track/4XxfOvudrnBRdlgzEaq1sd) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 3:33 | 2022-05-29 |  |
 | [Bp Up Down](https://open.spotify.com/track/4bLKGyKQ9wKGUYA64Jw4QE) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m) | [Let's Go](https://open.spotify.com/album/53ljSpMqlS6b8p5dZfL9Pf) | 2:56 | 2023-12-01 | 2024-01-19 |
 | [Breakan \(feat\. Simar Kaur\)](https://open.spotify.com/track/2iMFg8rVPNZGYv0sXL9a1D) | [Tyson Sidhu](https://open.spotify.com/artist/5wGjQPYmBAnDmtNeOMoavY), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1) | [Versatile](https://open.spotify.com/album/4XJOG0BM4Lr0XfrscVLu9X) | 2:51 | 2022-07-22 | 2022-09-09 |
@@ -267,7 +269,7 @@
 | [Old Money](https://open.spotify.com/track/4WLDaQ8AgSwUgFoPzJkAYK) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [Old Money](https://open.spotify.com/album/2f8hk48Uin6SFQyMKw7AIp) | 2:08 | 2024-08-16 |  |
 | [Old Skool](https://open.spotify.com/track/4V9rQZOGILc4YfBnCDXgTz) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Old Skool](https://open.spotify.com/album/357wf3qJ5AukE3IfN4e1Am) | 4:13 | 2022-05-29 | 2023-08-25 |
 | [On Top](https://open.spotify.com/track/1RT06dWvxSC13JY6WnQmb5) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [On Top](https://open.spotify.com/album/3F9ZTXMumebU1qkltpEqg1) | 3:03 | 2022-11-25 | 2024-08-31 |
-| [On Top](https://open.spotify.com/track/4SJMuaIYcBS8ke96lDYOsw) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [On Top](https://open.spotify.com/album/6ephunHyThVj3tQkGgZKpJ) | 3:03 | 2022-12-15 |  |
+| [On Top](https://open.spotify.com/track/4SJMuaIYcBS8ke96lDYOsw) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [On Top](https://open.spotify.com/album/6ephunHyThVj3tQkGgZKpJ) | 3:03 | 2022-12-15 | 2024-09-14 |
 | [ON TOP 2](https://open.spotify.com/track/2G4GimpAMeWaZ6VkcQ1RT9) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2) | [On Top 2](https://open.spotify.com/album/7Mu7sumZaG3bM4rAfs6S8p) | 3:01 | 2024-06-10 |  |
 | [One Heart](https://open.spotify.com/track/1bXQPGdEHDQJeawQWbptQ7) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Narinder Batth](https://open.spotify.com/artist/74M1wGWIo8rcoavCwsmY3P), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [One Heart](https://open.spotify.com/album/1GJUwjSzE2a19V58lST3wg) | 2:37 | 2024-06-07 | 2024-06-18 |
 | [One Love](https://open.spotify.com/track/5ZLkihi6DVsHwDL3B8ym1t) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [One Love](https://open.spotify.com/album/3tNH9Fp4dm3qa3Kr4cv5uJ) | 2:39 | 2023-08-17 | 2024-06-01 |
@@ -282,7 +284,7 @@
 | [Parshawan](https://open.spotify.com/track/5PJD4GxyJBHykpj8NKBOKz) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [Parshawan](https://open.spotify.com/album/5UEvx4rsrIxbLsJ4pbCr2J) | 2:48 | 2023-08-29 | 2024-04-19 |
 | [Parshawan](https://open.spotify.com/track/6IaHIJYxIG8xbosaRr25AC) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [Parshawan](https://open.spotify.com/album/6w6MwWpj1oR3lKpQPc8caY) | 2:48 | 2022-05-29 | 2024-08-17 |
 | [Pasoori](https://open.spotify.com/track/7lvDsmTRXFE3dK4OjvRiWB) | [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP), [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Pasoori](https://open.spotify.com/album/7wgrW5XyZdtk0K8PkW5A7h) | 3:44 | 2022-05-29 | 2023-09-30 |
-| [Peaches](https://open.spotify.com/track/3mZLiEDAHIjZ8ms5Lxq33F) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Drive Thru](https://open.spotify.com/album/6KgPhunJItRDOhJFh6Sy78) | 3:09 | 2022-07-15 |  |
+| [Peaches](https://open.spotify.com/track/3mZLiEDAHIjZ8ms5Lxq33F) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Drive Thru](https://open.spotify.com/album/6KgPhunJItRDOhJFh6Sy78) | 3:09 | 2022-07-15 | 2024-09-14 |
 | [Pecha](https://open.spotify.com/track/07OW5WU6lUm8fnH0yw8iFL) | [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Deepak Dhillon](https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY) | [Pecha](https://open.spotify.com/album/5nUT6udb0AM74ZQo390uKb) | 3:12 | 2023-01-18 | 2023-01-24 |
 | [Phulkari](https://open.spotify.com/track/1f660M0jwz7F4qlDjTSLmO) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Phulkari](https://open.spotify.com/album/3skDjGnv85nUKxVQknCk2B) | 3:16 | 2022-05-29 | 2022-12-11 |
 | [Playboy](https://open.spotify.com/track/4mPemcGM6cFL5ZNajHqvZ9) | [Lopon Sidhu](https://open.spotify.com/artist/6xLk6uOnCRbbyQuS7Qb0uC) | [Playboy](https://open.spotify.com/album/1z0uaYP1v7ZSRCh6trtrc3) | 2:07 | 2024-04-26 | 2024-05-09 |

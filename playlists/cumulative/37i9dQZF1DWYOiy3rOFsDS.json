@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "Romance a la antig\u00fcita con Enjambe en portada.",
+  "description": "Romance a la antig\u00fcita con Enjambre en portada.",
   "name": "Boleros Pop",
   "tracks": [
     {
@@ -947,6 +947,32 @@
     },
     {
       "album": {
+        "name": "Compa\u00f1era",
+        "url": "https://open.spotify.com/album/5h84UO1R50sJvoPpt5EHeR"
+      },
+      "artists": [
+        {
+          "name": "Reyli Barba",
+          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
+        },
+        {
+          "name": "Los Rumberos",
+          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
+        },
+        {
+          "name": "SanJuan",
+          "url": "https://open.spotify.com/artist/5COk5Ii3aTVBA7DsJLlNBq"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193208,
+      "name": "Compa\u00f1era",
+      "url": "https://open.spotify.com/track/4OPLWuafZDX9jQnc4gZn3y"
+    },
+    {
+      "album": {
         "name": "Hab\u00edtame Siempre (Bonus Tracks Version)",
         "url": "https://open.spotify.com/album/5HDevGeDLIZMhZKvRZLSkI"
       },
@@ -1550,7 +1576,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 205354,
       "name": "El Reloj del Coraz\u00f3n",
       "url": "https://open.spotify.com/track/5q20ChVvFID1D8wL6TSxjm"
@@ -2026,7 +2052,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 207997,
       "name": "Gracias",
       "url": "https://open.spotify.com/track/618mROSwHp4JeTR0E17KPC"
@@ -2538,7 +2564,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 186730,
       "name": "Lo Hice, Te Dej\u00e9",
       "url": "https://open.spotify.com/track/5HT7sdhkOCFVegIoMOL7yj"
@@ -2610,10 +2636,32 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-24",
+      "date_removed": null,
       "duration_ms": 198826,
       "name": "Lo Que T\u00fa Quieras",
       "url": "https://open.spotify.com/track/29IQpdkv1MaP6Hvr1IBsdv"
+    },
+    {
+      "album": {
+        "name": "Locos",
+        "url": "https://open.spotify.com/album/2eOzzFSvlXqbkl0SqmxS7B"
+      },
+      "artists": [
+        {
+          "name": "MIA",
+          "url": "https://open.spotify.com/artist/5VDLfzakHXjOYeai6w9jDq"
+        },
+        {
+          "name": "Chucho Rivas",
+          "url": "https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218192,
+      "name": "Locos",
+      "url": "https://open.spotify.com/track/1X5tk3yRvuag1jamgpZ8Lf"
     },
     {
       "album": {
@@ -3078,6 +3126,24 @@
       "duration_ms": 147895,
       "name": "Mi Mejor Canci\u00f3n",
       "url": "https://open.spotify.com/track/0A2o0B7XNkvfFckJ6jFaki"
+    },
+    {
+      "album": {
+        "name": "Mil Vidas",
+        "url": "https://open.spotify.com/album/1MDYbIPaUShFYhmEGowygz"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136667,
+      "name": "Mil Vidas",
+      "url": "https://open.spotify.com/track/17QkvWlyeD6r3ubmqYUUtc"
     },
     {
       "album": {
@@ -3668,6 +3734,28 @@
       "duration_ms": 209040,
       "name": "Para Que Pides Perdon - Bonus Track",
       "url": "https://open.spotify.com/track/1mL823LB8IlMK8KBSPRZkm"
+    },
+    {
+      "album": {
+        "name": "T\u00f3tem",
+        "url": "https://open.spotify.com/album/1Qev0YLrWPskdmabJ7S9p4"
+      },
+      "artists": [
+        {
+          "name": "Pedropiedra",
+          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
+        },
+        {
+          "name": "Macha",
+          "url": "https://open.spotify.com/artist/16QcrGi8KouBjobR8dEIoz"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201667,
+      "name": "Para Siempre Joven",
+      "url": "https://open.spotify.com/track/0bQlZv003vfCrEX7rwPmQo"
     },
     {
       "album": {
@@ -4520,7 +4608,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 233000,
       "name": "Secreto de Amor",
       "url": "https://open.spotify.com/track/6zUaoRAegPui4OsVE1AANi"
@@ -5038,7 +5126,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-31",
+      "date_removed": null,
       "duration_ms": 193426,
       "name": "Te Tocaba A Ti Llorar",
       "url": "https://open.spotify.com/track/69wyLBhOeKlS4VcilXZhzN"
@@ -5282,7 +5370,7 @@
       ],
       "date_added": "2023-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 188139,
       "name": "Tu Camisa",
       "url": "https://open.spotify.com/track/6ZbiPemrNyXHLHLZ8Bf85y"
@@ -5300,7 +5388,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 169609,
       "name": "Tu Segundo Nombre (Karma)",
       "url": "https://open.spotify.com/track/3Orlfid5vxAYaz37tMHDOC"

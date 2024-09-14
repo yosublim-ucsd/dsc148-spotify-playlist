@@ -1,12 +1,12 @@
 {
   "description": "This is Mariah Carey. The essential tracks, all in one playlist.",
-  "num_followers": 478970,
+  "num_followers": 479083,
   "original_name": "This Is Mariah Carey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuDdgAAAAACpuRQJO8wXEttKiUaDDAJ0",
+  "snapshot_id": "ZuIvAAAAAADmqq/1zw3Zflb9kzsY39wE",
   "tracks": [
     {
       "added_at": null,
@@ -595,30 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Butterfly",
-        "url": "https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        },
-        {
-          "name": "Krayzie Bone",
-          "url": "https://open.spotify.com/artist/53B8dEQzmtefvkdCAkO0YR"
-        },
-        {
-          "name": "Wish Bone",
-          "url": "https://open.spotify.com/artist/2XH6h2sS6oSr27Yy4GyLlY"
-        }
-      ],
-      "duration_ms": 283573,
-      "name": "Breakdown (feat. Krayzie Bone & Wish Bone)",
-      "url": "https://open.spotify.com/track/6iUlUzSGZzKtlCvQ3wCVZD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Emancipation of Mimi",
         "url": "https://open.spotify.com/album/6ek7Y68IlB6CoFkkc2gEQb"
       },
@@ -639,6 +615,30 @@
       "duration_ms": 203360,
       "name": "It's Like That",
       "url": "https://open.spotify.com/track/6qFEkCFsHB8rNerOBfY5Su"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "Krayzie Bone",
+          "url": "https://open.spotify.com/artist/53B8dEQzmtefvkdCAkO0YR"
+        },
+        {
+          "name": "Wish Bone",
+          "url": "https://open.spotify.com/artist/2XH6h2sS6oSr27Yy4GyLlY"
+        }
+      ],
+      "duration_ms": 283573,
+      "name": "Breakdown (feat. Krayzie Bone & Wish Bone)",
+      "url": "https://open.spotify.com/track/6iUlUzSGZzKtlCvQ3wCVZD"
     },
     {
       "added_at": null,

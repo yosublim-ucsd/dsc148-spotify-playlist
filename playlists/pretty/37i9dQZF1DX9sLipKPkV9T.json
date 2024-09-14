@@ -1,12 +1,12 @@
 {
   "description": "\u05db\u05dc \u05d4\u05e4\u05d5\u05e4 \u05d4\u05d9\u05e4\u05d4 \u05d5\u05d4\u05de\u05e8\u05d2\u05e9 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc. \u05e7\u05d0\u05d1\u05e8: \u05e1\u05d8\u05d8\u05d9\u05e7",
-  "num_followers": 55793,
+  "num_followers": 55805,
   "original_name": "\u05e4\u05d5\u05e4 \u05d9\u05e9\u05e8\u05d0\u05dc\u05d9 \u05d7\u05d3\u05e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuNWUAAAAAB1BaIKz/055xPhlYwYdb2A",
+  "snapshot_id": "ZuQU8QAAAABsY3CXD6zciHujBYC/IVo4",
   "tracks": [
     {
       "added_at": "2024-09-12 21:00:00",
@@ -1027,22 +1027,6 @@
       "duration_ms": 250000,
       "name": "\u05d0\u05dc\u05e3 \u05de\u05e0\u05e2\u05d5\u05dc\u05d9\u05dd",
       "url": "https://open.spotify.com/track/25eXvKmhatlH8DDRM5xPJI"
-    },
-    {
-      "added_at": "2024-09-12 21:00:00",
-      "album": {
-        "name": "\u05de\u05e8\u05d2\u05d9\u05e9 \u05db\u05de\u05d5 \u05d0\u05d4\u05d1\u05d4",
-        "url": "https://open.spotify.com/album/0KhefYfT3hXwyUwis6u77M"
-      },
-      "artists": [
-        {
-          "name": "Mergui",
-          "url": "https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z"
-        }
-      ],
-      "duration_ms": 173130,
-      "name": "\u05e8\u05e2\u05d9\u05d3\u05ea \u05d0\u05d3\u05de\u05d4",
-      "url": "https://open.spotify.com/track/3rV5bpPxR4J2zKwFEv2FaY"
     }
   ],
   "unique_name": "\u05e4\u05d5\u05e4 \u05d9\u05e9\u05e8\u05d0\u05dc\u05d9 \u05d7\u05d3\u05e9",

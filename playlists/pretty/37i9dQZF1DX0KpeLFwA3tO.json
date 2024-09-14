@@ -1,6 +1,6 @@
 {
   "description": "The best new music from the wide world of punk. Cover: Superbloom",
-  "num_followers": 312747,
+  "num_followers": 312817,
   "original_name": "All New Punk",
   "owner": {
     "name": "Spotify",
@@ -39,6 +39,22 @@
       "duration_ms": 206779,
       "name": "Brand New Day",
       "url": "https://open.spotify.com/track/2ukSB6kFcvZ0CgIYvuqfgK"
+    },
+    {
+      "added_at": "2024-09-12 23:00:00",
+      "album": {
+        "name": "Enjoy",
+        "url": "https://open.spotify.com/album/7pKWkydV4yy6huq1W4EGKf"
+      },
+      "artists": [
+        {
+          "name": "Superbloom",
+          "url": "https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL"
+        }
+      ],
+      "duration_ms": 243706,
+      "name": "Enjoy",
+      "url": "https://open.spotify.com/track/12sB4k4JIOvvlKqJzEHt3U"
     },
     {
       "added_at": "2024-09-12 23:00:00",

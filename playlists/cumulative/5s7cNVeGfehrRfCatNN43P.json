@@ -943,6 +943,24 @@
     },
     {
       "album": {
+        "name": "Actress",
+        "url": "https://open.spotify.com/album/2fE2LB3306jWzjQXSHzio5"
+      },
+      "artists": [
+        {
+          "name": "CATTY",
+          "url": "https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194754,
+      "name": "Actress",
+      "url": "https://open.spotify.com/track/4xW5io4CLYdYaGKenBYmvA"
+    },
+    {
+      "album": {
         "name": "Adalam Va!",
         "url": "https://open.spotify.com/album/7EfP6nv2SPsU13Da432qIf"
       },
@@ -2157,6 +2175,28 @@
     },
     {
       "album": {
+        "name": "Another World",
+        "url": "https://open.spotify.com/album/72ArwEgG0egqM3vmQKxWVZ"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Another World",
+      "url": "https://open.spotify.com/track/5U0iZCQ9e8PaLYxup0pcnO"
+    },
+    {
+      "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
       },
@@ -3050,7 +3090,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 175666,
       "name": "BBA (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/2is7SQVl0417fY8Cw56Jkf"
@@ -4184,7 +4224,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 151666,
       "name": "BOY",
       "url": "https://open.spotify.com/track/07OqVLTu7tXELtgFX1jQvZ"
@@ -4448,6 +4488,24 @@
       "duration_ms": 162273,
       "name": "Break My Heart Myself (feat. YEJI & RYUJIN of ITZY)",
       "url": "https://open.spotify.com/track/5Av4jZOAbtY8STz7KPsNDB"
+    },
+    {
+      "album": {
+        "name": "Break My Love",
+        "url": "https://open.spotify.com/album/52LgW9Zy9r1T3uVsT07Y6Y"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260400,
+      "name": "Break My Love",
+      "url": "https://open.spotify.com/track/3tqyv30P7pO53IAIUo8IeN"
     },
     {
       "album": {
@@ -7249,6 +7307,24 @@
     },
     {
       "album": {
+        "name": "Dancing In The Flames",
+        "url": "https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220036,
+      "name": "Dancing In The Flames",
+      "url": "https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9"
+    },
+    {
+      "album": {
         "name": "Dancing In The Shadows",
         "url": "https://open.spotify.com/album/2rJpFV7L5MsabqxrEeHVd6"
       },
@@ -7960,7 +8036,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 137019,
       "name": "Distance",
       "url": "https://open.spotify.com/track/6pkp8MTmqjavdVFWLr3XrI"
@@ -7978,10 +8054,28 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 211705,
       "name": "DISTANCE",
       "url": "https://open.spotify.com/track/62pL71pOrLHUoZ2ak7biKM"
+    },
+    {
+      "album": {
+        "name": "Dive",
+        "url": "https://open.spotify.com/album/1X6TuLsbcierWasXm7gtge"
+      },
+      "artists": [
+        {
+          "name": "Julie Bergan",
+          "url": "https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161357,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/2Tfl2N7kIWmUkUjdzd32m4"
     },
     {
       "album": {
@@ -9645,6 +9739,24 @@
     },
     {
       "album": {
+        "name": "erase u",
+        "url": "https://open.spotify.com/album/74Ho6d5Ftge7QFc4LDMwlM"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183043,
+      "name": "erase u",
+      "url": "https://open.spotify.com/track/6PhuO3Usi63YmV8H7jBpU7"
+    },
+    {
+      "album": {
         "name": "Erase You",
         "url": "https://open.spotify.com/album/0gqv9uDThyDmIPxIh4YdA7"
       },
@@ -9678,6 +9790,24 @@
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
+    },
+    {
+      "album": {
+        "name": "Eusexua",
+        "url": "https://open.spotify.com/album/5hFALVpxwHp22sUpvO2GUZ"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263693,
+      "name": "Eusexua",
+      "url": "https://open.spotify.com/track/2mjVDfu0JI19g4tso2iOag"
     },
     {
       "album": {
@@ -11969,6 +12099,42 @@
     },
     {
       "album": {
+        "name": "Gelato",
+        "url": "https://open.spotify.com/album/5dSQCwawyJJIXkoaoRFbRS"
+      },
+      "artists": [
+        {
+          "name": "ili",
+          "url": "https://open.spotify.com/artist/4Yn7SW1ERvmPwQHPMiv8t4"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149390,
+      "name": "Gelato",
+      "url": "https://open.spotify.com/track/1gyn2WucpyJfDTK1ozZznR"
+    },
+    {
+      "album": {
+        "name": "Gemini",
+        "url": "https://open.spotify.com/album/0oHEiQ6EXNBFzuKFqQe9dB"
+      },
+      "artists": [
+        {
+          "name": "Honey.",
+          "url": "https://open.spotify.com/artist/2Rki2mP8GPq0ZTeHqSbcMN"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215040,
+      "name": "Gemini",
+      "url": "https://open.spotify.com/track/7FYKTqeJAYe119Kh6NJuNw"
+    },
+    {
+      "album": {
         "name": "Gemini",
         "url": "https://open.spotify.com/album/66rg8DUMiubCkLzXECxh6C"
       },
@@ -13753,6 +13919,28 @@
     },
     {
       "album": {
+        "name": "Heart Like Mine (feat. Rosa Linn)",
+        "url": "https://open.spotify.com/album/2k7ml7X0RXedgJaW7nkjak"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149673,
+      "name": "Heart Like Mine (feat. Rosa Linn)",
+      "url": "https://open.spotify.com/track/4xqekuN4lfu6MBeWov0Icl"
+    },
+    {
+      "album": {
         "name": "Heart on Fire",
         "url": "https://open.spotify.com/album/2tgzuSzIWB63dSfHld2Q7C"
       },
@@ -15516,7 +15704,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 205840,
       "name": "I can`t make you love me",
       "url": "https://open.spotify.com/track/2i2SrAq9CVlwmKH4nbKP2P"
@@ -17528,6 +17716,24 @@
       "duration_ms": 262630,
       "name": "It's Not My Fault",
       "url": "https://open.spotify.com/track/3efkVJDWUsEXM5JxO8he33"
+    },
+    {
+      "album": {
+        "name": "It's ok I'm ok",
+        "url": "https://open.spotify.com/album/5qfivA7g2aAhAIPnSb0csp"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156521,
+      "name": "It's ok I'm ok",
+      "url": "https://open.spotify.com/track/24XihnoVPWXlKJ4BgXqjVM"
     },
     {
       "album": {
@@ -20619,6 +20825,24 @@
     },
     {
       "album": {
+        "name": "Love Second Music First",
+        "url": "https://open.spotify.com/album/0eqsGq1tUB41BqmKLsouDe"
+      },
+      "artists": [
+        {
+          "name": "Self Esteem",
+          "url": "https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245259,
+      "name": "Love Second Music First",
+      "url": "https://open.spotify.com/track/6RbR55jkG3YoK1SeRT5mTN"
+    },
+    {
+      "album": {
         "name": "Love Song",
         "url": "https://open.spotify.com/album/60dJqbocDa4ipVOmP2drQl"
       },
@@ -22590,7 +22814,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 192469,
       "name": "Mrs Dior",
       "url": "https://open.spotify.com/track/2rtUDwDS4didOMYoCqPJ1E"
@@ -24084,6 +24308,24 @@
       "duration_ms": 153093,
       "name": "No Time (For My Life To Suck)",
       "url": "https://open.spotify.com/track/46FwyEmZaPPzUViyEvloXo"
+    },
+    {
+      "album": {
+        "name": "No Way To Relax When You Are On Fire",
+        "url": "https://open.spotify.com/album/50nvPOvceq4QENvfPhSEoC"
+      },
+      "artists": [
+        {
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242240,
+      "name": "No Way To Relax When You Are On Fire",
+      "url": "https://open.spotify.com/track/5HSlL9XmvYOVDynR2E13vc"
     },
     {
       "album": {
@@ -25782,7 +26024,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 115533,
       "name": "Paint The Town Blue (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/0g0qfC3nAaIsfbxS29ksJx"
@@ -29073,6 +29315,24 @@
     },
     {
       "album": {
+        "name": "Safety Net",
+        "url": "https://open.spotify.com/album/2pBq9bR5JzslASyvcQDRq8"
+      },
+      "artists": [
+        {
+          "name": "Bea and her Business",
+          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203621,
+      "name": "Safety Net",
+      "url": "https://open.spotify.com/track/78VpLcR9t7mSZGOBEsYOfp"
+    },
+    {
+      "album": {
         "name": "Same Again (For Love)",
         "url": "https://open.spotify.com/album/6ITNqaRb3qFu96MKni2dnG"
       },
@@ -30800,7 +31060,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 210497,
       "name": "Somebody Else But Me",
       "url": "https://open.spotify.com/track/52sscicigpGQsQLp3iuKRY"
@@ -32949,6 +33209,28 @@
     },
     {
       "album": {
+        "name": "Talk talk featuring troye sivan",
+        "url": "https://open.spotify.com/album/4hSYRtDjN1XbTqBKTw33sj"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173076,
+      "name": "Talk talk featuring troye sivan",
+      "url": "https://open.spotify.com/track/2LUD3874dlzeRa34Hi7ohW"
+    },
+    {
+      "album": {
         "name": "BETWEEN 1&2",
         "url": "https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f"
       },
@@ -33054,6 +33336,24 @@
       "duration_ms": 168920,
       "name": "Tamagotchi",
       "url": "https://open.spotify.com/track/2avRIlZPDXdDOdPIgCcKq3"
+    },
+    {
+      "album": {
+        "name": "TANTRUM",
+        "url": "https://open.spotify.com/album/4TWlPpIdjNG5DOKaAI7jBl"
+      },
+      "artists": [
+        {
+          "name": "Bentley Robles",
+          "url": "https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172272,
+      "name": "TANTRUM",
+      "url": "https://open.spotify.com/track/4YEQmcKfNfargg2PsjEWcW"
     },
     {
       "album": {
@@ -34206,7 +34506,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 199720,
       "name": "Thick Of It All",
       "url": "https://open.spotify.com/track/6JbvvGKwtgcjeOU810AS8w"
@@ -37058,6 +37358,28 @@
       "duration_ms": 238563,
       "name": "Weird World",
       "url": "https://open.spotify.com/track/116ORJSOi1UltDApfKABzj"
+    },
+    {
+      "album": {
+        "name": "Weird World",
+        "url": "https://open.spotify.com/album/5CdYgYVMFmb0KIGDsA5NCL"
+      },
+      "artists": [
+        {
+          "name": "Allie X",
+          "url": "https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32"
+        },
+        {
+          "name": "Vestron Vulture",
+          "url": "https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176447,
+      "name": "Weird World",
+      "url": "https://open.spotify.com/track/4PZUsKSSqCEaZEAVl4PigW"
     },
     {
       "album": {

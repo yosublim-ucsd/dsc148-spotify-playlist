@@ -4,7 +4,7 @@
 
 > Lo mejor del pop en español\. Foto: Ana Mena, Emilia
 
-541 songs - 1 day 3 hr 2 min
+542 songs - 1 day 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -374,7 +374,7 @@
 | [Oye Baby](https://open.spotify.com/track/3oAhnCXtDYMFyjCDRu7Glg) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b), [Oliver Kid](https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG) | [Oye Baby](https://open.spotify.com/album/6N2Gr1KqfA69oL8Xeu2v0d) | 2:15 | 2023-08-21 | 2023-09-01 |
 | [P.M.](https://open.spotify.com/track/45QJa6CNZvicAUEVG8qUaa) | [Chanel](https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1) | [P.M.](https://open.spotify.com/album/1OKBqRNyEQQUlkokuXYEFk) | 2:38 | 2023-05-19 | 2023-06-07 |
 | [pa](https://open.spotify.com/track/28ZVFl4CQhyRmBFpJXOpUY) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [pa](https://open.spotify.com/album/4bjgFGmRrC04tRlwz5i6op) | 3:10 | 2024-04-08 | 2024-06-22 |
-| [PACMAN](https://open.spotify.com/track/3Z4wx9a3OxKZHQQEENoqOZ) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [PACMAN](https://open.spotify.com/album/3Izuvz6d3sTmIEnbFCljao) | 2:06 | 2024-06-21 |  |
+| [PACMAN](https://open.spotify.com/track/3Z4wx9a3OxKZHQQEENoqOZ) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [PACMAN](https://open.spotify.com/album/3Izuvz6d3sTmIEnbFCljao) | 2:06 | 2024-06-21 | 2024-09-14 |
 | [Palabra Prohibida](https://open.spotify.com/track/4sRulaggpSTT3mLCZsaJ5v) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Palabra Prohibida](https://open.spotify.com/album/0SL3CXA1AkeE9i8mlaCCRZ) | 2:56 | 2023-11-21 | 2024-06-29 |
 | [PALANTE](https://open.spotify.com/track/28cN5fxRkyri38B7vYA6rp) | [Funzo & Baby Loud](https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC) | [PALANTE](https://open.spotify.com/album/1XiLA8WVP7MMDvDCHJ9uKj) | 2:26 | 2023-11-21 | 2023-12-19 |
 | [Paranoia](https://open.spotify.com/track/2JJ9q46qjWALmWy9vjBTnD) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Paranoia](https://open.spotify.com/album/3yJW0HcMSssOheVWwXiOkq) | 3:00 | 2023-09-28 | 2023-10-17 |
@@ -388,6 +388,7 @@
 | [PELICULA](https://open.spotify.com/track/1xyTbXRzdFsFYGF2xA3Rs0) | [ZABDIEL](https://open.spotify.com/artist/3L6TeR5LqiJDpwQQScSuw5), [Mar Lucas](https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI), [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [PELICULA](https://open.spotify.com/album/6YcKaIbQw3sMtbhSXQZ6CZ) | 2:58 | 2023-09-28 | 2023-10-17 |
 | [PELO RIZAO](https://open.spotify.com/track/47csYgBczYT8ZmX7nkOsWo) | [Funzo & Baby Loud](https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC) | [PELO RIZAO](https://open.spotify.com/album/22Lhso3TmfMscoIY23MT07) | 3:14 | 2024-01-11 | 2024-01-23 |
 | [PERDIENDO LOS FRENOS](https://open.spotify.com/track/7tHd2KQD9QtCmvD3evlgDx) | [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx) | [PERDIENDO LOS FRENOS](https://open.spotify.com/album/03P7u1Iic3yaoWSXaNWtXl) | 2:46 | 2024-04-12 | 2024-05-24 |
+| [PESADILLAS](https://open.spotify.com/track/7HTReIcz7VKLyBWHpWqn5o) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [PESADILLAS](https://open.spotify.com/album/4IabA7t6hEqyzNiy00gDid) | 3:15 | 2024-09-13 |  |
 | [PETER PAN](https://open.spotify.com/track/4JF5WLz8y7hfTsy5Tpnwwj) | [Enol](https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O) | [PETER PAN](https://open.spotify.com/album/7hsGz3VuHhKW7tBRrQRLFK) | 2:49 | 2024-02-26 | 2024-07-10 |
 | [PIDE UN DESEO](https://open.spotify.com/track/1GBf0EYr9qC7KAPbrOHaf8) | [Enol](https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O) | [PIDE UN DESEO](https://open.spotify.com/album/62ClhtV0bdAzAJkvBGKx26) | 3:10 | 2023-08-01 | 2023-11-29 |
 | [Ping Pong](https://open.spotify.com/track/1iNJJ72vb58cVLX5Wkbpwv) | [Chanel](https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1), [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN) | [Ping Pong](https://open.spotify.com/album/78O50pRKdsnXqYBZaAdN15) | 2:39 | 2023-08-01 | 2023-09-22 |

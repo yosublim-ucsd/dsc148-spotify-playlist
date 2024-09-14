@@ -4,7 +4,7 @@
 
 > Your favorite pop songs, classically reimagined.
 
-200 songs - 11 hr 53 min
+201 songs - 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Lose Yourself](https://open.spotify.com/track/5dECb0YYO0GHu3AWNqfrIM) | [David Garrett](https://open.spotify.com/artist/33k6kPYIS5TgseAc70LZjy), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Franck van der Heijden](https://open.spotify.com/artist/0qCO5jL6wFQHv4R2IWcjcw) | [Explosive \(Deluxe\)](https://open.spotify.com/album/2492Jm7yo7tF41MO9xjGgU) | 3:06 | 2021-11-19 |  |
 | [Love Me Like I Am](https://open.spotify.com/track/43izAMB4XyHkEghLzaxnKi) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [Love Me Like I Am](https://open.spotify.com/album/7v728oCxcPTk0T41T23V1D) | 4:34 | 2023-04-14 |  |
 | [Love Me Like You Do](https://open.spotify.com/track/7CNO19a6MzNLmBd3m2iCbU) | [Brooklyn Duo](https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R) | [Brooklyn Sessions II](https://open.spotify.com/album/5d671ezfZZBL7X8gHxFHYe) | 3:15 | 2021-11-19 |  |
+| [Love Story \- Instrumental](https://open.spotify.com/track/2J9w2niEdBNS8fQyoPUqj1) | [Marco Velocci](https://open.spotify.com/artist/0fey1vDYFmbGGRWCo1iwWe) | [Love Story \- Instrumental](https://open.spotify.com/album/6Q9kKG8ZkVb8mq9FptA793) | 4:08 | 2024-09-13 |  |
 | [Lovely](https://open.spotify.com/track/48nOUySVcMYFt4mQT1i4Tg) | [TwoPlusFour](https://open.spotify.com/artist/5E7YtMkMtwhfqEetlwiXQT) | [Lovely](https://open.spotify.com/album/7xnlemZnanmESpkrPmWfuC) | 3:04 | 2021-11-19 |  |
 | [Maniac \- Symphony Orchestra Version](https://open.spotify.com/track/3UAznpWQQtaE1UCRAZ6WZM) | [Zymphonica](https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC) | [Maniac \(Symphony Orchestra Version\)](https://open.spotify.com/album/3yDNmmVMxONGu3ZFm6poMy) | 3:45 | 2024-08-09 |  |
 | [Material Girl](https://open.spotify.com/track/4p7na6NSU0F7lMOhx9kg9k) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton Season Two \- Covers from the Netflix Series](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 4:04 | 2022-03-30 |  |

@@ -4,7 +4,7 @@
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world.
 
-278 songs - 17 hr 5 min
+279 songs - 17 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [After the Rain](https://open.spotify.com/track/5PJX4rUiIHjDoUi3C8jeZm) | [Virtual Mage](https://open.spotify.com/artist/1gEHdJ4DIEL2JuyRnNfMkt) | [Moondust](https://open.spotify.com/album/3FfcJSLi3vTvOEAjYgO7hB) | 3:00 | 2020-12-21 | 2023-02-10 |
 | [Against the Law](https://open.spotify.com/track/7FNtKxDAV3vcApMdwC7acS) | [Donbor](https://open.spotify.com/artist/56mXBoiHYV9QEJxHS5TPk3) | [Dead City](https://open.spotify.com/album/1t0vPQTn7dQ4N4H54eP2Dd) | 4:56 | 2020-12-21 | 2023-08-05 |
 | [Allude](https://open.spotify.com/track/39GNrhMrtompGnn05genwA) | [Voyage](https://open.spotify.com/artist/6aAXBSjwLUEukyVDhOuKNO) | [Allude](https://open.spotify.com/album/0kgsQdGtnR0WPxkdHF5Gpi) | 5:51 | 2020-12-21 | 2023-09-01 |
-| [Alone Tonight](https://open.spotify.com/track/1CD4fhJIyWKfhX3YlNZiJY) | [Flawless Issues](https://open.spotify.com/artist/6Arj1L7vuPVkK3foh4PQmU) | [Alone Tonight](https://open.spotify.com/album/4p5u13uthsx4WJggSyqzJZ) | 2:37 | 2023-08-31 |  |
+| [Alone Tonight](https://open.spotify.com/track/1CD4fhJIyWKfhX3YlNZiJY) | [Flawless Issues](https://open.spotify.com/artist/6Arj1L7vuPVkK3foh4PQmU) | [Alone Tonight](https://open.spotify.com/album/4p5u13uthsx4WJggSyqzJZ) | 2:37 | 2023-08-31 | 2024-09-14 |
 | [Always Then](https://open.spotify.com/track/4ti3jFBiVjPE4t9WOzKkHW) | [The KVB](https://open.spotify.com/artist/0BzJFLqchxKNQyEwswwQ40) | [Always Then](https://open.spotify.com/album/6K1bLeeV0TSh37uczoEvFC) | 4:11 | 2023-01-06 |  |
 | [American Nightmare](https://open.spotify.com/track/4i6snrjpdYSv5PBB7wH6qk) | [Vestron Vulture](https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr) | [American Nightmare](https://open.spotify.com/album/6zaXhrtWGMMJP4ty8XyMiT) | 3:09 | 2023-03-17 | 2023-07-22 |
 | [Anvil](https://open.spotify.com/track/4eKN8RPS06OHyk8dTdempU) | [Lorn](https://open.spotify.com/artist/1PmVyfIR9KtCxbHWuga8E5) | [VESSEL](https://open.spotify.com/album/2fiGmNRXBH0QMnkm4jswEr) | 3:29 | 2020-12-21 | 2023-09-01 |
@@ -113,6 +113,7 @@
 | [Happy](https://open.spotify.com/track/6OIsq9HutnCINDPQqmAjbz) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Bedroom](https://open.spotify.com/album/3Pu648nWwshjvkl96rKxPS) | 3:46 | 2023-03-23 | 2023-08-13 |
 | [Heavens Lower](https://open.spotify.com/track/1TDJSbzuAIAFQy2K7EBm7m) | [R\. Missing](https://open.spotify.com/artist/4EVSMYb2zBDoSHSGEqeztu) | [Heavens Lower](https://open.spotify.com/album/3cw8dtylOAuH9CGY98020g) | 2:57 | 2023-11-30 |  |
 | [Heavy Wave](https://open.spotify.com/track/6nk1JuxsAZzxuQdqvyBkZI) | [Motorama](https://open.spotify.com/artist/3j0kMFxXTTYsuw1twLClw3) | [Poverty](https://open.spotify.com/album/18y3DE8cX1ptDjRVwgnmfb) | 3:29 | 2020-12-21 | 2024-01-12 |
+| [Heridas](https://open.spotify.com/track/5O7my5b6fnKebvMftWecuS) | [Vacíos Cuerpos](https://open.spotify.com/artist/4wyyhGJyiUqJ2LFtjBjEV6) | [Heridas](https://open.spotify.com/album/2c3APE4YSB4M7KCjeniApS) | 2:20 | 2024-09-13 |  |
 | [Heroes](https://open.spotify.com/track/4ymjspgq2OvYoPjOnsztnw) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF) | [All My Heroes](https://open.spotify.com/album/47ivZmuVI0HboDeCl6uOZv) | 4:46 | 2020-12-21 |  |
 | [Himn](https://open.spotify.com/track/2lQjnkrYoq4wWHOe9NQZcN) | [Nürnberg](https://open.spotify.com/artist/2IkTGThCeQAPGMru4uXzs4) | [Ahida](https://open.spotify.com/album/76X4TuJzAdvVGYsomfpDi7) | 3:30 | 2023-02-21 | 2023-03-25 |
 | [Holod](https://open.spotify.com/track/3uuZgHc57MBoBchsETeecJ) | [Super Besse](https://open.spotify.com/artist/6bcE5jaMjqBXy1bwH8KdR0) | [63610\*](https://open.spotify.com/album/4M6aZ41q3nWcfgVn1Q6buu) | 4:52 | 2020-12-21 | 2023-02-10 |
@@ -120,7 +121,7 @@
 | [Honey](https://open.spotify.com/track/3ECXjRnXpSMKXskP4TLsTA) | [Minuit Machine](https://open.spotify.com/artist/5PW3MLdSbq1ptFI0QTCSID) | [Violent Rains](https://open.spotify.com/album/7IZ2mNo4PPWCdsEuEKkGyU) | 3:32 | 2023-02-09 | 2023-09-01 |
 | [How to Slow a Dream](https://open.spotify.com/track/5IQ1lVitMg6YCNAH3EgOtL) | [R\. Missing](https://open.spotify.com/artist/4EVSMYb2zBDoSHSGEqeztu) | [How to Slow a Dream](https://open.spotify.com/album/0LCWCiU903ZdIXXwaE2iTh) | 2:57 | 2023-09-14 |  |
 | [Hoy Solo Quiero Odiar](https://open.spotify.com/track/7JTzj9gEIpvjWv9Jc3ph9B) | [Vacíos Cuerpos](https://open.spotify.com/artist/4wyyhGJyiUqJ2LFtjBjEV6) | [Hoy Solo Quiero Odiar](https://open.spotify.com/album/1bgHm9Y97Th2cUuWhCJ5ip) | 4:11 | 2024-01-11 | 2024-04-19 |
-| [Hoy Solo Quiero Odiar](https://open.spotify.com/track/6d4TnEhdm5ohWkhhV6D7zy) | [Vacíos Cuerpos](https://open.spotify.com/artist/4wyyhGJyiUqJ2LFtjBjEV6) | [Hoy Solo Quiero Odiar](https://open.spotify.com/album/026JhDvcnQ7E77tQZQFCbw) | 4:21 | 2023-04-28 |  |
+| [Hoy Solo Quiero Odiar](https://open.spotify.com/track/6d4TnEhdm5ohWkhhV6D7zy) | [Vacíos Cuerpos](https://open.spotify.com/artist/4wyyhGJyiUqJ2LFtjBjEV6) | [Hoy Solo Quiero Odiar](https://open.spotify.com/album/026JhDvcnQ7E77tQZQFCbw) | 4:21 | 2023-04-28 | 2024-09-14 |
 | [HUNNY](https://open.spotify.com/track/1GNszTPgt9RwTLIOzwfHWb) | [French Police](https://open.spotify.com/artist/75vqTLIltGApfI0NxcsJaC) | [BLEU](https://open.spotify.com/album/6woJYYYScksahP4fTIMhus) | 2:23 | 2023-08-31 |  |
 | [I Do What He Say I Do](https://open.spotify.com/track/3YwGpoqOSybDTDSEYk6em2) | [Memo Boy](https://open.spotify.com/artist/2jwC7uml6QVgLBfx1Hbtek) | [Songs & Demos 2015\-2017](https://open.spotify.com/album/0a0ftVkZr4K1QoOXcZF0V1) | 5:32 | 2024-01-11 |  |
 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-03-19 |  |
@@ -191,7 +192,7 @@
 | [Paradise](https://open.spotify.com/track/4nQWhotmcrNRfOuu8EfmjF) | [Voyage](https://open.spotify.com/artist/6aAXBSjwLUEukyVDhOuKNO) | [Paradise](https://open.spotify.com/album/2IjroX0bM8miBvBTqDRsKJ) | 5:35 | 2020-12-21 | 2023-09-01 |
 | [Paralyzed](https://open.spotify.com/track/0ECf6YrheBrgqZpnFpuE1r) | [Glaring](https://open.spotify.com/artist/576kYuY4OrauYNEzESyxDE) | [Paralyzed](https://open.spotify.com/album/7J5m8IiBGYSjPFF4i8Joo0) | 2:25 | 2023-08-31 |  |
 | [Phantom](https://open.spotify.com/track/7vvultYHYCuFk0AJWa5c9O) | [Vestron Vulture](https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr) | [Shades of Violet](https://open.spotify.com/album/4Q9C7ysyx6CpjhlaJuKVhi) | 3:18 | 2023-08-31 |  |
-| [Places X Faces](https://open.spotify.com/track/4d562drbG7p6Z4KfvGUyCN) | [Aspen Forest](https://open.spotify.com/artist/1skhtKw4FGCJtQLFcvDFqx) | [Places X Faces](https://open.spotify.com/album/1Q1uW6XjblEqwnLmSlfNTW) | 2:23 | 2023-08-31 |  |
+| [Places X Faces](https://open.spotify.com/track/4d562drbG7p6Z4KfvGUyCN) | [Aspen Forest](https://open.spotify.com/artist/1skhtKw4FGCJtQLFcvDFqx) | [Places X Faces](https://open.spotify.com/album/1Q1uW6XjblEqwnLmSlfNTW) | 2:23 | 2023-08-31 | 2024-09-14 |
 | [Plasticity](https://open.spotify.com/track/3nMXh9pQqC2nS5OAZrhy9s) | [Rendez Vous](https://open.spotify.com/artist/4a118edzJsiImCyPCZk6mY) | [Rendez\-Vous](https://open.spotify.com/album/11KSgvhpxoK78X8nTtjskx) | 3:11 | 2023-01-06 | 2023-09-01 |
 | [Please Stay](https://open.spotify.com/track/7vIFHpoofIaZuh3CsdTuTT) | [Haunt Me](https://open.spotify.com/artist/0xc6gzkeMKN1R3cAkEKCK6) | [Please Stay](https://open.spotify.com/album/2vh1IK3UdV1EpQpwj8I0Lz) | 3:50 | 2023-08-31 |  |
 | [Pole Star](https://open.spotify.com/track/6ejRowVbHzs7wyQ9KTB7ZT) | [Motorama](https://open.spotify.com/artist/3j0kMFxXTTYsuw1twLClw3) | [Before The Road](https://open.spotify.com/album/1aSCvnFhTXRXIYqsCZTIio) | 3:11 | 2021-01-29 | 2023-02-10 |

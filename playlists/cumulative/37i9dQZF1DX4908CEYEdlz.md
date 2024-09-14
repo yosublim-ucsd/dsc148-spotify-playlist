@@ -4,7 +4,7 @@
 
 > Aumente o volume e ouça as bandas que estão com tudo no rock! Foto: Linkin Park
 
-347 songs - 21 hr 11 min
+348 songs - 21 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Classless Act \(feat\. Vince Neil of Motley Crue\)](https://open.spotify.com/track/05liOVVybQw3UyyrEOAcSw) | [Classless Act](https://open.spotify.com/artist/4UciATnuVJDY2ZMgiERxK1), [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Classless Act \(feat\. Vince Neil of Mötley Crüe\)](https://open.spotify.com/album/2TGWTcdEm3PydLgMmxBawv) | 3:14 | 2022-05-20 | 2022-08-27 |
 | [CODE MISTAKE](https://open.spotify.com/track/39iRz0h1eZOyXzch8tKQit) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [CODE MISTAKE](https://open.spotify.com/album/02V5iAi2paX4K7Z20R5lvl) | 2:45 | 2023-06-30 | 2023-08-19 |
 | [Cold](https://open.spotify.com/track/1QivlVy4J2yWaCZ6RnWl70) | [Dream Widow](https://open.spotify.com/artist/3gmJYDVdrlGWWD5uVCUQOe) | [Dream Widow](https://open.spotify.com/album/2FfewmvnA0wctMD64KjOxP) | 5:13 | 2022-03-25 | 2022-04-23 |
+| [Come To Brazil](https://open.spotify.com/track/53NkQOx965C85o2Xxv5ZyC) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Come To Brazil](https://open.spotify.com/album/6RvVwqzNo1i8XkRBqXgcqE) | 4:19 | 2024-09-13 |  |
 | [Comments](https://open.spotify.com/track/59QajhlzAmlJ1wIRwzLxv8) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [EVERY LOSER](https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd) | 3:53 | 2023-01-06 | 2023-02-11 |
 | [Compliance](https://open.spotify.com/track/27hktiddJj63mK6gZAQp4q) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Compliance](https://open.spotify.com/album/6RDo0wdixcLsAyJY6YeWm0) | 4:10 | 2022-03-18 | 2022-04-09 |
 | [Conditional Love](https://open.spotify.com/track/1DkbJB2RctViYLK3DnGo2Y) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Otherness](https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr) | 2:53 | 2022-06-24 | 2022-08-02 |
@@ -191,7 +192,7 @@
 | [Lux Æterna](https://open.spotify.com/track/3pwmJJRlr8nXNN9PFD18np) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Lux Æterna](https://open.spotify.com/album/7qxhxLR8oZN3LizPQ7z2cb) | 3:25 | 2022-12-02 | 2023-01-21 |
 | [Make It All Right](https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Make It All Right](https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp) | 3:34 | 2024-06-07 |  |
 | [Maquiagem](https://open.spotify.com/track/5MCWDrTtqhQQL2tIE2prde) | [Ani Belle](https://open.spotify.com/artist/0YyO7b5QpE2BfJxHlM6K2b), [André Perucci](https://open.spotify.com/artist/1Oa1N664mb9Hh4BFWvn4yk) | [Maquiagem](https://open.spotify.com/album/0xvs1QlQNbxBryIYOKCrs1) | 3:04 | 2022-09-30 | 2022-12-21 |
-| [Mars To Liverpool](https://open.spotify.com/track/3Lz1zknpdBiYQ4oQANf3g0) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9), [John Squire](https://open.spotify.com/artist/1VaY3AT6TiOIT7MQGvKMkQ) | [Mars To Liverpool](https://open.spotify.com/album/7piCqHwCBo70ZiYf603fCi) | 3:40 | 2024-01-26 |  |
+| [Mars To Liverpool](https://open.spotify.com/track/3Lz1zknpdBiYQ4oQANf3g0) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9), [John Squire](https://open.spotify.com/artist/1VaY3AT6TiOIT7MQGvKMkQ) | [Mars To Liverpool](https://open.spotify.com/album/7piCqHwCBo70ZiYf603fCi) | 3:40 | 2024-01-26 | 2024-09-14 |
 | [Mess It Up](https://open.spotify.com/track/0Ag6LNrSfJVKRhGzD7ArDq) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hackney Diamonds](https://open.spotify.com/album/1AxMcdQRLguJqSZMxvRNdO) | 4:03 | 2023-10-20 | 2024-04-27 |
 | [Meteor](https://open.spotify.com/track/2yAI6FssGr5WfoqU7NSmPg) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Meteor](https://open.spotify.com/album/3xFCNfwrZNxQKajEMBY6lB) | 4:01 | 2022-01-14 | 2022-04-09 |
 | [Mine](https://open.spotify.com/track/3238Ck8nZUFvTqh4fKv8cY) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Mine](https://open.spotify.com/album/2JzsMlDbOOZbiXmfHAOREG) | 4:19 | 2022-10-28 | 2022-11-12 |

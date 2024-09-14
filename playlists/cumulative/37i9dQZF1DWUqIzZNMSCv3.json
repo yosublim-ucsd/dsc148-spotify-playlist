@@ -2421,6 +2421,32 @@
     },
     {
       "album": {
+        "name": "Verdi La Traviata Variation (From La Traviata: Libiamo ne' lieti calici, Arr. for 2 Pianos by Jan-Peter Kl\u00f6pfel)",
+        "url": "https://open.spotify.com/album/512jPY2ax5GkhDCljWfM0R"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Gabriele Bagnati",
+          "url": "https://open.spotify.com/artist/0OG7Jsxh29ESIeAHlElBOj"
+        },
+        {
+          "name": "Lorenzo Bagnati",
+          "url": "https://open.spotify.com/artist/5P3Bjd4VdLsi5ebyTYejLU"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120416,
+      "name": "Verdi La Traviata Variation (From La Traviata: Libiamo ne' lieti calici, Arr. for 2 Pianos by Jan-Peter Kl\u00f6pfel)",
+      "url": "https://open.spotify.com/track/4p3oHYbeC9arOhFklV1w8h"
+    },
+    {
+      "album": {
         "name": "Chopin: Complete Waltzes",
         "url": "https://open.spotify.com/album/72L5EwPXreOHNAcIgNGs3G"
       },

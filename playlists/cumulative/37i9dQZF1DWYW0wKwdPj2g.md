@@ -2,9 +2,9 @@
 
 ### [Come Alive](https://open.spotify.com/playlist/37i9dQZF1DWYW0wKwdPj2g)
 
-> In the mood for live Christian and Gospel music? This is the one\. Cover: Dunsin Oyekan
+> In the mood for live Christian and Gospel music? This is the one\. Cover: Jimmy D Psalmist
 
-112 songs - 14 hr 47 min
+114 songs - 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Dance Anyhow](https://open.spotify.com/track/3TLl80bJcNDDgay3jMclgp) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Dance Anyhow](https://open.spotify.com/album/3daXjHEwk4AtkIMDyhFL6d) | 8:24 | 2024-07-12 |  |
 | [Defe Defe](https://open.spotify.com/track/2GZNll3SJMAEHstg0wO37N) | [Team Eternity Ghana](https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz) | [Testimony](https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69) | 6:46 | 2024-05-17 |  |
 | [Do to Me What You Want](https://open.spotify.com/track/4DubS31RXrubsxE486uBPi) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Do to Me What You Want](https://open.spotify.com/album/5HHnscBoj1SIt7FIDtSi6c) | 11:54 | 2024-02-23 |  |
+| [Done me well \- Live](https://open.spotify.com/track/4OiD7LbfwDKJZ9nyBvbPD3) | [Segun John](https://open.spotify.com/artist/5NZNxkH7KFr0xZ2yyZpOt2) | [Done me well \- Live](https://open.spotify.com/album/1HYa8ia9PxlsBUTqyIOjj3) | 8:42 | 2024-09-13 |  |
 | [Done so Much](https://open.spotify.com/track/0oktbWzrkxJyjtucARGMdN) | [Okey Sokay](https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1), [Oyel Planet](https://open.spotify.com/artist/2jFCEamp1CqHmt9u9Bsry6), [Cyzn](https://open.spotify.com/artist/0dA0oeFfSMIZc43fl7g5tc) | [Done so Much](https://open.spotify.com/album/5eehtoGboiXAaJEHZgbtN4) | 8:43 | 2024-02-23 | 2024-08-16 |
 | [E Ti Tobi to \(Live\)](https://open.spotify.com/track/6CyvOdf4V0PM8mU3ktVzsh) | [EmmaOMG](https://open.spotify.com/artist/7a03YaPRYV8Ym2LwMPvDJz), [The OhEmGee Choir](https://open.spotify.com/artist/3anQm3u8qGQyPeAOh0bAzb), [Pelumi Deborah](https://open.spotify.com/artist/4UEAcfckZercWHlnw0jdOx), [BBO](https://open.spotify.com/artist/2uaQ0i7hnhD1rRwDOSCkOd) | [E Ti Tobi to \(Live\)](https://open.spotify.com/album/5mY52gjoMuJsiLybLRQR3J) | 13:46 | 2024-08-16 |  |
 | [Ebenezer \- Live](https://open.spotify.com/track/1NIsNb7J8yfy9TYE1ycKMp) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [VICTORIA ORENZE](https://open.spotify.com/artist/132I30e3higEmuOlmqnP1w) | [HALLELUJAH LIVE](https://open.spotify.com/album/5xe3knii9RbZzikwkiIqBY) | 8:31 | 2024-02-23 |  |
@@ -58,6 +59,7 @@
 | [Kaabo](https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Glory Experience \(Songs of Zion\)](https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT) | 9:37 | 2024-02-23 |  |
 | [King Jesus \(Live in Bryanston, 2022\) \(feat\. Siphelele Vundla & Awethu Namba\-Satsha\)](https://open.spotify.com/track/1aFilSkkqwbcDmwpBzIN6b) | [The Fellowship](https://open.spotify.com/artist/21fiKdzTbnSKNmYUnyggga), [Mthunzi Namba](https://open.spotify.com/artist/1MukIJ87BL0zO3LusoV8hv), [Siphelele Vundla](https://open.spotify.com/artist/3TFbyMSFzQ2pbJWd0O4KMD), [Awethu Namba\-Satsha](https://open.spotify.com/artist/1ZAmFaLTG6BjfD8NjStpqH) | [Come to Jesus \(Live in Bryanston, 2022\)](https://open.spotify.com/album/4VZzP0RuA5R7FXzQT1H499) | 5:37 | 2024-04-12 | 2024-08-16 |
 | [Kosi \- Live](https://open.spotify.com/track/7D9UWAQcr3QkMT77nMWLM1) | [IBKSings](https://open.spotify.com/artist/5H4j32gWFbJQnjImeuaHhU) | [Kosi \- Live](https://open.spotify.com/album/3wjZwWWSknWwRs2ScMNjvx) | 7:16 | 2024-09-13 |  |
+| [Lift Up Your Voices \- Live](https://open.spotify.com/track/0TXH1EyG4FsKHpp8CIBK4I) | [David Forlu](https://open.spotify.com/artist/3GZOiQIDEfPmITy20a8Wto) | [Lift Up Your Voices \- Live](https://open.spotify.com/album/66rGbvNL1jJAcKHf6fqMi7) | 9:17 | 2024-09-13 |  |
 | [Lord You are Beautiful](https://open.spotify.com/track/3qaeqyOZfezV0M0dUgQJmy) | [Perez Musik](https://open.spotify.com/artist/0aoCkJnz41cyF84JmMISzI), [Pastor Isaiah Fosu Kwakye Jnr](https://open.spotify.com/artist/0Pl2UadAMjRxVXD1YiVU1R) | [Lord You are Beautiful](https://open.spotify.com/album/3q9KsM7PD2M67L1tsIvzY1) | 9:21 | 2024-06-07 |  |
 | [Maisha Yangu / Baba Yangu, Baba Yangu \- Live in Kenya](https://open.spotify.com/track/0FBvsqVV4egLLgn9NIH4xT) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Yinka Okeleye](https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9) | [Maisha Yangu / Baba Yangu, Baba Yangu \(Live in Kenya\)](https://open.spotify.com/album/09oMzJiQ4rr6Q84fLXRFR7) | 9:02 | 2024-08-16 |  |
 | [Majina Yote Jehovah](https://open.spotify.com/track/7L5JyeVQzmhpbjpZcoIDWn) | [Dedo Dieumerci](https://open.spotify.com/artist/4t8dpDtvEUucCvmEMLYUuR), [Naomi Mugiraneza](https://open.spotify.com/artist/4awEqX0MSvBqpwBfSMCiMm) | [Hymnos 2](https://open.spotify.com/album/4lQaSOEJAMWQf7ecxmj3RE) | 9:42 | 2024-02-23 |  |

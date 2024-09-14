@@ -50,7 +50,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 172941,
       "name": "23",
       "url": "https://open.spotify.com/track/2dYTN3zGnJR8BGORUL8P2N"
@@ -150,10 +150,40 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 161655,
       "name": "Alibi (with Pabllo Vittar & Yseult)",
       "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
+    },
+    {
+      "album": {
+        "name": "Alibi Pt. 2 (with Anitta, Pabllo Vittar & Yseult)",
+        "url": "https://open.spotify.com/album/4BVxpsABEhOoeR6vmmrpxD"
+      },
+      "artists": [
+        {
+          "name": "Sevdaliza",
+          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176771,
+      "name": "Alibi Pt. 2 (with Anitta, Pabllo Vittar & Yseult)",
+      "url": "https://open.spotify.com/track/1oX1IJ6sHRiYpkwdbtfAiV"
     },
     {
       "album": {
@@ -188,6 +218,28 @@
       "duration_ms": 209323,
       "name": "Alucin - Versi\u00f3n Brasil",
       "url": "https://open.spotify.com/track/7zKeVmjTK8khgiscVcBCUJ"
+    },
+    {
+      "album": {
+        "name": "Ammunition - DENNIS Remix",
+        "url": "https://open.spotify.com/album/3aIqR3VX1QMeQzrWgmalVp"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        },
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138965,
+      "name": "Ammunition - DENNIS Remix",
+      "url": "https://open.spotify.com/track/1tA2Y5VFexNrBU9RfBTRf9"
     },
     {
       "album": {
@@ -1086,7 +1138,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 147216,
       "name": "Flash\u00e9 Amor",
       "url": "https://open.spotify.com/track/4VIkepYtGK05XzFyrG5HN4"
@@ -2259,6 +2311,24 @@
     },
     {
       "album": {
+        "name": "MOCHIMA",
+        "url": "https://open.spotify.com/album/7vPu3m68gpdSv9w7TS2KuA"
+      },
+      "artists": [
+        {
+          "name": "LOS MENOR3S",
+          "url": "https://open.spotify.com/artist/4FkBhfL2GQLkwBwV6qNhOQ"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "PDM",
+      "url": "https://open.spotify.com/track/3yk1nkXeZ1dvQdrX44K0Pt"
+    },
+    {
+      "album": {
         "name": "PERMANENTE",
         "url": "https://open.spotify.com/album/4Lez3G3O0bt3rnKJm7Sfl5"
       },
@@ -2360,12 +2430,12 @@
       },
       "artists": [
         {
-          "name": "Taiu",
-          "url": "https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic"
-        },
-        {
           "name": "Milo j",
           "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        },
+        {
+          "name": "Taiu",
+          "url": "https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic"
         }
       ],
       "date_added": "2023-11-29",

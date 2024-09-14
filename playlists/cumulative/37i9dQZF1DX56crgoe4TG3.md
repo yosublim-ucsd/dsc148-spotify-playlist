@@ -2,9 +2,9 @@
 
 ### [Bluegrass Covers](https://open.spotify.com/playlist/37i9dQZF1DX56crgoe4TG3)
 
-> A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: Rhonda Vincent
+> A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: Lukas Nelson & Sierra Ferrell
 
-287 songs - 18 hr 37 min
+290 songs - 18 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [No Diggity](https://open.spotify.com/track/5b3H9J71t73nzr73pvEWrC) | [The Cleverlys](https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS) | [Cash Crop](https://open.spotify.com/album/0QFHkBhfM6u3tGxdsVitev) | 5:51 | 2021-08-20 |  |
 | [No Diggity](https://open.spotify.com/track/7wSkLQdIlCBDUPFPkwLICU) | [The Cleverlys](https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS) | [Cash Crop](https://open.spotify.com/album/094kzj8kwxRHZNSCfc0RLg) | 5:51 | 2022-05-27 | 2023-05-19 |
 | [No Rain](https://open.spotify.com/track/46ZQXqq2hnbyER4JJdcD1u) | [Della Mae](https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh) | [No Rain](https://open.spotify.com/album/6D5SHwk9iambazDxMy1GuF) | 3:23 | 2024-01-19 |  |
+| [No Rain](https://open.spotify.com/track/6XGIo0FBacQN0oEkO7JZ0v) | [Tony Kamel](https://open.spotify.com/artist/5C2sPto6jrVHVlkiVl2GvH) | [Songs That Made Me Weird, Vol\. 1](https://open.spotify.com/album/1hbIUAc9xpnt2hG3jHpco7) | 4:11 | 2024-09-13 |  |
 | [Norwegian Wood \(This Bird Has Flown\)](https://open.spotify.com/track/2FFZNaGdYTRWlYftmpCexq) | [Malingo](https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk) | [Norwegian Wood \(This Bird Has Flown\)](https://open.spotify.com/album/6QjVfP6KCKaTBAv68CLa1Q) | 2:47 | 2023-06-23 |  |
 | [Ohio](https://open.spotify.com/track/4tLtJETF7b6BDjDoAxgBD7) | [Della Mae](https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh) | [Ohio](https://open.spotify.com/album/4gxVhz09xgQ2b7QjnmV3Vl) | 2:53 | 2023-09-15 |  |
 | [Old Man](https://open.spotify.com/track/57BqPLE4mvQEBh53JWxgcI) | [The Wailin' Jennys](https://open.spotify.com/artist/331QVEZKK1yz5KhYiR2pBj) | [40 Days](https://open.spotify.com/album/5Qrpxvxj6LTfqIbKnCnQHb) | 3:10 | 2021-08-20 |  |
@@ -203,6 +204,7 @@
 | [Running Up That Hill](https://open.spotify.com/track/6LwpZOqFrY4sLkQFPtFEfq) | [Taylor Ashton](https://open.spotify.com/artist/53t38sKooUEyyENANtticX) | [Pizza Tickets](https://open.spotify.com/album/0RK0VdRrsFe3ZozfDfBl09) | 2:44 | 2023-04-28 | 2024-04-19 |
 | [Safe and Sound](https://open.spotify.com/track/7b6xD3ols9DgVfj53SmENK) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw) | [Pickin' on the Hits of 2013](https://open.spotify.com/album/292fsG4QD09hcPL5FYgENM) | 3:10 | 2021-08-20 | 2023-05-14 |
 | [Senor \(Tales Of Yankee Power\)](https://open.spotify.com/track/1ABTia5xv1oYxqL5EFbf43) | [Tim O'Brien](https://open.spotify.com/artist/2nJQCVut36kUzDfy3eUZCM) | [Red On Blonde](https://open.spotify.com/album/1g1SmW9O61u6tKktYfYcrj) | 4:02 | 2021-08-20 |  |
+| [Seven Nation Army](https://open.spotify.com/track/5Jizv7OKGYi2NsgipAlDR0) | [Tommy Drinkard](https://open.spotify.com/artist/0WUnSuDkHH73JTgCuysUsR), [the Remedy](https://open.spotify.com/artist/6YgPmTwGDVLEBXtbP6pWXC) | [Seven Nation Army](https://open.spotify.com/album/0aXrR2Zd4N9tyNOR7zadLr) | 3:27 | 2024-09-13 |  |
 | [Sex on Fire](https://open.spotify.com/track/23DqNr2t9vvi1tiS4vYqUB) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw), [Iron Horse](https://open.spotify.com/artist/1v3CnxHAtLMfZW8v5dGj7t) | [The Bluegrass Tribute to Kings of Leon](https://open.spotify.com/album/3LUg97DulDP9QfHXVe7aKO) | 4:37 | 2021-08-20 | 2024-07-13 |
 | [Shake It Off](https://open.spotify.com/track/2RJA3aJLOKR1Q7xBQKDmy4) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw) | [Pickin' On Taylor Swift, Vol\. 2](https://open.spotify.com/album/5daNt76eZrOrP994rm3byw) | 3:50 | 2021-08-20 | 2024-06-14 |
 | [Shape Of You](https://open.spotify.com/track/7nrwVt1Zgt2r9WT6Yo9emQ) | [The Cleverlys](https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS) | [Solid Butter](https://open.spotify.com/album/4oJM8xjP495Q7WxcyYD3id) | 3:53 | 2023-07-28 |  |
@@ -220,6 +222,7 @@
 | [Somebody to Love](https://open.spotify.com/track/2oxMa9gOociOuL8Dl3ba90) | [Branches](https://open.spotify.com/artist/6sMpWUXJNv5pPggHyvqKw2) | [Covers](https://open.spotify.com/album/5I3nXZZSfM5d9SII8aZgIV) | 3:42 | 2024-01-05 | 2024-01-20 |
 | [Somebody to Love](https://open.spotify.com/track/2tJesD4R8yf7G5JRzgE05y) | [Branches](https://open.spotify.com/artist/6sMpWUXJNv5pPggHyvqKw2) | [Covers](https://open.spotify.com/album/3gWZlMKDGLdB36OQjOo4fZ) | 3:42 | 2022-10-07 | 2024-01-19 |
 | [Somebody to Love](https://open.spotify.com/track/65PXViRNbmck0eXI0qhB2G) | [Branches](https://open.spotify.com/artist/6sMpWUXJNv5pPggHyvqKw2) | [Covers](https://open.spotify.com/album/1YDm5Ooe4VB1QaiynDvJpN) | 3:42 | 2021-08-20 | 2022-07-29 |
+| [Someone Like You \(with The Travelin' McCourys feat\. Sierra Ferrell\)](https://open.spotify.com/track/0FzCkQZyXg3RAVe8hF3TbA) | [Lukas Nelson](https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9), [The Travelin' McCourys](https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Someone Like You \(with The Travelin' McCourys feat\. Sierra Ferrell\)](https://open.spotify.com/album/6sAcLktZfPlaSfI6asWalH) | 5:01 | 2024-09-13 |  |
 | [Song for a Winter's Night](https://open.spotify.com/track/4d5HDjtWd010tzjSCUe4Fz) | [Rumour Mill](https://open.spotify.com/artist/2Ehy1qL1iqqFumGgwFClw6) | [Acoustic Sessions](https://open.spotify.com/album/4yal67fAouSKoHgh6qYBjs) | 3:35 | 2024-03-22 | 2024-04-10 |
 | [Song for a Winter's Night](https://open.spotify.com/track/20Dz1YrI5LMrVs1cpGaNMb) | [Rumour Mill](https://open.spotify.com/artist/2Ehy1qL1iqqFumGgwFClw6), [Aline Deanna](https://open.spotify.com/artist/4Bs1gHun8gFz6HJAGtAdLV), [Anna Katarina](https://open.spotify.com/artist/3wUofml5k6dhBcD5OKPLup) | [Song for a Winter's Night](https://open.spotify.com/album/57cxci74OPUile2bjgfso2) | 3:35 | 2022-12-16 | 2024-06-14 |
 | [Song For A Winter's Night](https://open.spotify.com/track/5BA7aoZQbAFRyTnaHpepNJ) | [Rumour Mill](https://open.spotify.com/artist/2Ehy1qL1iqqFumGgwFClw6), [Aline Deanna](https://open.spotify.com/artist/4Bs1gHun8gFz6HJAGtAdLV), [Anna Katarina](https://open.spotify.com/artist/3wUofml5k6dhBcD5OKPLup) | [Song For A Winter's Night](https://open.spotify.com/album/2xohh3ZJof8cVR565Ap4GI) | 3:35 | 2022-12-16 | 2024-04-04 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Fresh Latin pop on the rise. Cover: TIM\u00d8",
+  "description": "Fresh Latin pop on the rise. Cover: Marcelo Rubio",
   "name": "el nuevo pop",
   "tracks": [
     {
@@ -440,6 +440,24 @@
       "duration_ms": 179616,
       "name": "After",
       "url": "https://open.spotify.com/track/13VKzAXOVaZvdID3eg7GRU"
+    },
+    {
+      "album": {
+        "name": "AGORA",
+        "url": "https://open.spotify.com/album/07QCnsWWoXTgLuU43VfB2u"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153564,
+      "name": "AGORA",
+      "url": "https://open.spotify.com/track/0EVxchTHYIgx618OrpcrdQ"
     },
     {
       "album": {
@@ -1120,7 +1138,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 156532,
       "name": "Ataque de Ansiedad (Arial 5)",
       "url": "https://open.spotify.com/track/3bLkpcMFfeZ4uaNFlVyC18"
@@ -1316,7 +1334,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 202880,
       "name": "Bareto y Chanel",
       "url": "https://open.spotify.com/track/002nPmx72z53AYh3ysujMM"
@@ -1878,7 +1896,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 136421,
       "name": "Buen Provecho",
       "url": "https://open.spotify.com/track/2WN5D1EawTaV8kfJ2Uf1PE"
@@ -2623,6 +2641,24 @@
     },
     {
       "album": {
+        "name": "Ruta 18",
+        "url": "https://open.spotify.com/album/2nitVQtnjSMdVwP1ucrC11"
+      },
+      "artists": [
+        {
+          "name": "Carmen DeLeon",
+          "url": "https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159500,
+      "name": "Como Asi?",
+      "url": "https://open.spotify.com/track/3n95EdWZqIluCE6JAUdefS"
+    },
+    {
+      "album": {
         "name": "Como Si Nada",
         "url": "https://open.spotify.com/album/4a8vhvGoU8VFZvE3Hrc7RI"
       },
@@ -3168,7 +3204,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 203076,
       "name": "Cuatro Hielos",
       "url": "https://open.spotify.com/track/7E3HPajHtNdDKzhsw1leJ3"
@@ -3208,6 +3244,24 @@
       "duration_ms": 112572,
       "name": "c\u00f3mo dormiste?",
       "url": "https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ"
+    },
+    {
+      "album": {
+        "name": "Lo que escrib\u00ed mientras no estabas :)",
+        "url": "https://open.spotify.com/album/4oJqkH55g9SByDb6H8vwZc"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Rubio",
+          "url": "https://open.spotify.com/artist/5Nk0ZytxbTmln7pHwEEVYG"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178922,
+      "name": "C\u00f3mo hacer pa que no duela?",
+      "url": "https://open.spotify.com/track/2f5Tz5xDtujdJ2zTCOYcRB"
     },
     {
       "album": {
@@ -4624,7 +4678,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 228916,
       "name": "ESE VATO",
       "url": "https://open.spotify.com/track/1eukaqiqtfgQgfKnJlIueO"
@@ -6572,7 +6626,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 153394,
       "name": "La Ouija",
       "url": "https://open.spotify.com/track/0iTPVfW7uK9v4P64fnY8wK"
@@ -6742,7 +6796,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 149571,
       "name": "La_Playlist.mpeg",
       "url": "https://open.spotify.com/track/0Cs2ANiGsCOQLKnCrNJ6hA"
@@ -6968,6 +7022,24 @@
       "duration_ms": 166771,
       "name": "LIC\u00c1NTROPO",
       "url": "https://open.spotify.com/track/3HjaJVZlDcX7b1lxCuE3Ko"
+    },
+    {
+      "album": {
+        "name": "Lim\u00f3n",
+        "url": "https://open.spotify.com/album/47VgL6B4zheqaAtnPd5MCo"
+      },
+      "artists": [
+        {
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Lim\u00f3n",
+      "url": "https://open.spotify.com/track/3Q9nmP7ACk4UG5Ld6D6sYd"
     },
     {
       "album": {
@@ -9871,6 +9943,24 @@
     },
     {
       "album": {
+        "name": "Paciencia (Arial 6)",
+        "url": "https://open.spotify.com/album/3eC8nTX0FPZ7T9Teo7InZ6"
+      },
+      "artists": [
+        {
+          "name": "Susana Cala",
+          "url": "https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190463,
+      "name": "Paciencia (Arial 6)",
+      "url": "https://open.spotify.com/track/5bCVgSGP4VKDyyY5xUFHpZ"
+    },
+    {
+      "album": {
         "name": "PAELLA",
         "url": "https://open.spotify.com/album/2EWUyaXUMoz1OIHZ888CZM"
       },
@@ -10698,6 +10788,28 @@
       "duration_ms": 147743,
       "name": "Pq Mientes",
       "url": "https://open.spotify.com/track/1axFfn3zrfGlpuIrFUPONT"
+    },
+    {
+      "album": {
+        "name": "Primera Cita",
+        "url": "https://open.spotify.com/album/3I4UkECZBBvXTkM5T1Inoq"
+      },
+      "artists": [
+        {
+          "name": "Debi Nova",
+          "url": "https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r"
+        },
+        {
+          "name": "Caztro",
+          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136390,
+      "name": "Primera Cita",
+      "url": "https://open.spotify.com/track/6KUzB9mbZ9zHFAI6klMtmZ"
     },
     {
       "album": {
@@ -14040,6 +14152,24 @@
       "duration_ms": 190000,
       "name": "viernes 13 iv",
       "url": "https://open.spotify.com/track/2qaI5v34tf7eLeboINCCon"
+    },
+    {
+      "album": {
+        "name": "Viernes 13 V",
+        "url": "https://open.spotify.com/album/3D6zUPk0w4Q1W8rdpMA4D6"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220235,
+      "name": "Viernes 13 V",
+      "url": "https://open.spotify.com/track/1qD7smrCuA14ujnTCdkgBJ"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "Updated weekly | Hardstyle | Cover: Hard Driver",
+  "description": "Updated weekly | Hardstyle | Cover: The Purge",
   "name": "Hardstyle Adrenaline! 2024",
   "tracks": [
     {
@@ -1066,6 +1066,24 @@
       "duration_ms": 191372,
       "name": "Arriba",
       "url": "https://open.spotify.com/track/56ghsgSC9Y0MJ1yKnLFixe"
+    },
+    {
+      "album": {
+        "name": "Ascension",
+        "url": "https://open.spotify.com/album/1MeoAo7IW2JIZ4omvu0QBL"
+      },
+      "artists": [
+        {
+          "name": "Sephyx",
+          "url": "https://open.spotify.com/artist/7MXzeG7zoG8pKpqKCOqcZL"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169161,
+      "name": "Ascension",
+      "url": "https://open.spotify.com/track/1WatDsEbPzQbJAmvp0wtZT"
     },
     {
       "album": {
@@ -2248,6 +2266,28 @@
       "duration_ms": 210400,
       "name": "Blue Night Sky",
       "url": "https://open.spotify.com/track/186VP99dYJ4ism7IXIQaKd"
+    },
+    {
+      "album": {
+        "name": "Bonkerz (The Straikerz Remix)",
+        "url": "https://open.spotify.com/album/6Po5xAYBpvs3x9KHLF8tBQ"
+      },
+      "artists": [
+        {
+          "name": "Rebelion",
+          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
+        },
+        {
+          "name": "The Straikerz",
+          "url": "https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141187,
+      "name": "Bonkerz - The Straikerz Remix",
+      "url": "https://open.spotify.com/track/7wOlSIcT9AVUIcSJiYPcQf"
     },
     {
       "album": {
@@ -3878,7 +3918,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 179188,
       "name": "Crunch",
       "url": "https://open.spotify.com/track/67ERjTGEze2g1UVNCog2Je"
@@ -4592,6 +4632,24 @@
       "duration_ms": 176516,
       "name": "Dirty",
       "url": "https://open.spotify.com/track/6AWeDqvevggPd0FITDYshW"
+    },
+    {
+      "album": {
+        "name": "Disco Dip",
+        "url": "https://open.spotify.com/album/6bFGe96hFPacBlUAbFEbAR"
+      },
+      "artists": [
+        {
+          "name": "Toneshifterz",
+          "url": "https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166500,
+      "name": "Disco Dip",
+      "url": "https://open.spotify.com/track/5T2g57jUjKawm47vvt5rYV"
     },
     {
       "album": {
@@ -5602,7 +5660,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 138625,
       "name": "Eulogy",
       "url": "https://open.spotify.com/track/14zVXDrKsBKZhLOSAxJipV"
@@ -5976,7 +6034,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 245036,
       "name": "Faded",
       "url": "https://open.spotify.com/track/7mnHTv60irjdmechW1ZDhy"
@@ -5994,7 +6052,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 138303,
       "name": "Fading Into You",
       "url": "https://open.spotify.com/track/6URtjsIYT0d50m2LNZptkO"
@@ -7317,6 +7375,28 @@
     },
     {
       "album": {
+        "name": "Glockenspiel",
+        "url": "https://open.spotify.com/album/76wLBLOEOP48qtmOpXLDPQ"
+      },
+      "artists": [
+        {
+          "name": "Maxtreme",
+          "url": "https://open.spotify.com/artist/3skGwvTX8jbm2EKf0Whe1j"
+        },
+        {
+          "name": "Hans Glock",
+          "url": "https://open.spotify.com/artist/2z6v7CjHOFGCsZlICgl52s"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178064,
+      "name": "Glockenspiel",
+      "url": "https://open.spotify.com/track/0PPizMKoxQoutR0p02Xl9i"
+    },
+    {
+      "album": {
         "name": "Glorious",
         "url": "https://open.spotify.com/album/1YLhFnGlfiYyvXcsgdhSp8"
       },
@@ -8036,7 +8116,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 193629,
       "name": "Heaven - Million Miles Rework",
       "url": "https://open.spotify.com/track/492rfFS9Gc3mgBrAOiRpc1"
@@ -8665,6 +8745,24 @@
     },
     {
       "album": {
+        "name": "I Can Feel It",
+        "url": "https://open.spotify.com/album/2pzfRLRwCpIzf9XVy8k7uo"
+      },
+      "artists": [
+        {
+          "name": "State of Deva",
+          "url": "https://open.spotify.com/artist/7MyoSv4wg5VRYvoUBHdhJi"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226500,
+      "name": "I Can Feel It",
+      "url": "https://open.spotify.com/track/1Xq3gqyIoWwSrNyJHD63Ns"
+    },
+    {
+      "album": {
         "name": "I Like Bass",
         "url": "https://open.spotify.com/album/2TYqqDD5mwdd72JGvl4jOy"
       },
@@ -8954,7 +9052,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 183622,
       "name": "I'm Still Standing",
       "url": "https://open.spotify.com/track/41vLVJwmDpzDofpbpZowac"
@@ -9247,6 +9345,28 @@
     },
     {
       "album": {
+        "name": "In The Ring",
+        "url": "https://open.spotify.com/album/4kygfWDUCdWAwJYjtuaxfj"
+      },
+      "artists": [
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        },
+        {
+          "name": "Nino Lucarelli",
+          "url": "https://open.spotify.com/artist/2Z6k8JBzhJPPRIAyKaUEJZ"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194214,
+      "name": "In The Ring",
+      "url": "https://open.spotify.com/track/6aGGv6U0LOOYkUxUBuUw3w"
+    },
+    {
+      "album": {
         "name": "In Your Bones",
         "url": "https://open.spotify.com/album/2wV6AlO748m7m0STGhl5EH"
       },
@@ -9400,6 +9520,28 @@
       "duration_ms": 174603,
       "name": "Interstellar",
       "url": "https://open.spotify.com/track/3FNx300XZ4FRDRYO7KlxNH"
+    },
+    {
+      "album": {
+        "name": "Into Deep",
+        "url": "https://open.spotify.com/album/0YPOZwfOtk0YvL75ExNx9P"
+      },
+      "artists": [
+        {
+          "name": "Devin Wild",
+          "url": "https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21"
+        },
+        {
+          "name": "Nathalie Blue",
+          "url": "https://open.spotify.com/artist/2VRgy5skIildisco3sF7Nt"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159750,
+      "name": "Into Deep",
+      "url": "https://open.spotify.com/track/07UBq8NnZMvSfDuGvehqsa"
     },
     {
       "album": {
@@ -9711,6 +9853,24 @@
     },
     {
       "album": {
+        "name": "Juice II EP",
+        "url": "https://open.spotify.com/album/2jlH1CEKHzHMPmlDapyvNT"
+      },
+      "artists": [
+        {
+          "name": "So Juice",
+          "url": "https://open.spotify.com/artist/7MBMIGBbRcIAn4zZPOMNKR"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148500,
+      "name": "Juice II",
+      "url": "https://open.spotify.com/track/6DJVTMQq31bYvzNR441pMT"
+    },
+    {
+      "album": {
         "name": "Just A Dream",
         "url": "https://open.spotify.com/album/2yuBJZ2u632xzfK8bZeg7A"
       },
@@ -9748,6 +9908,24 @@
       "duration_ms": 176000,
       "name": "Just A Kid",
       "url": "https://open.spotify.com/track/43qTGBfICY2nCeC7iEatjH"
+    },
+    {
+      "album": {
+        "name": "Het Ergste Moet Nog Komen",
+        "url": "https://open.spotify.com/album/4e8qeRn6hayzXt7moP00Op"
+      },
+      "artists": [
+        {
+          "name": "Sefa",
+          "url": "https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211144,
+      "name": "Justify",
+      "url": "https://open.spotify.com/track/0iAbHZkWVZG6uJLGj4aZlq"
     },
     {
       "album": {
@@ -10260,7 +10438,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 179824,
       "name": "LA DI DA",
       "url": "https://open.spotify.com/track/6l07fK093JBCIh6enC4cof"
@@ -10440,7 +10618,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 201681,
       "name": "Legends Of Tomorrow",
       "url": "https://open.spotify.com/track/4EK1akQh1ogVg4bEttgIRW"
@@ -11810,7 +11988,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 230709,
       "name": "Make That Body Move (Warrior Workout 2024 OST)",
       "url": "https://open.spotify.com/track/1hyUgLAUgCrgQE1MyvYYFP"
@@ -12062,7 +12240,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 151993,
       "name": "Melody Of The World",
       "url": "https://open.spotify.com/track/5f2MGMo8ARWb6WojaODeAY"
@@ -14415,6 +14593,24 @@
     },
     {
       "album": {
+        "name": "Party All The Time",
+        "url": "https://open.spotify.com/album/4eejWz2lmDQFjwEcI5SFhN"
+      },
+      "artists": [
+        {
+          "name": "Audiotricz",
+          "url": "https://open.spotify.com/artist/52I8HbScEEvgwiiSDaM7gP"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Party All The Time",
+      "url": "https://open.spotify.com/track/7MxyjShs8F5zq2iiiIwdQ1"
+    },
+    {
+      "album": {
         "name": "Party Everywhere",
         "url": "https://open.spotify.com/album/3lPc7CF3ysHqLgyFSMxJPE"
       },
@@ -16253,6 +16449,28 @@
     },
     {
       "album": {
+        "name": "ROCK DA HOUSE",
+        "url": "https://open.spotify.com/album/2W3bmMLvX5VizFHHO5Qn9M"
+      },
+      "artists": [
+        {
+          "name": "The Purge",
+          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
+        },
+        {
+          "name": "Regain",
+          "url": "https://open.spotify.com/artist/0Fp1lykJGk1eInmWFbSwoK"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169335,
+      "name": "ROCK DA HOUSE",
+      "url": "https://open.spotify.com/track/5ZYsVU6ZD9W29U1MvacmBM"
+    },
+    {
+      "album": {
         "name": "Rock Tha Party",
         "url": "https://open.spotify.com/album/7dBMFgErPgPAd1PNTo57Is"
       },
@@ -17508,7 +17726,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 217161,
       "name": "Spaceman (I Always Wanted You To Go)",
       "url": "https://open.spotify.com/track/3YJncpVgKGupGGoBZUUdSs"
@@ -18060,6 +18278,24 @@
       "duration_ms": 182015,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/1KtCYs1x2zZB0QXiSY6IN3"
+    },
+    {
+      "album": {
+        "name": "Street Knowledge",
+        "url": "https://open.spotify.com/album/54hjSf7UH110qCKXhjb0os"
+      },
+      "artists": [
+        {
+          "name": "MANDY",
+          "url": "https://open.spotify.com/artist/59VlEky6rgwrcluurlvspE"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174219,
+      "name": "Street Knowledge",
+      "url": "https://open.spotify.com/track/0WttTZoBrLug5IPptYBbuB"
     },
     {
       "album": {
@@ -18718,7 +18954,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 172538,
       "name": "Take Me Away (Into The Night)",
       "url": "https://open.spotify.com/track/6b5WVqhA21dAGBqoKimxGd"
@@ -19596,7 +19832,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 161933,
       "name": "The Lick",
       "url": "https://open.spotify.com/track/7bY6xvJiSTlGzA8ru6Qal7"
@@ -19830,6 +20066,28 @@
       "duration_ms": 265900,
       "name": "The Oni Retribution",
       "url": "https://open.spotify.com/track/6QfKWeXzKVcbAhuPLyj9fP"
+    },
+    {
+      "album": {
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/11ec2CoUTF2AO3KXAWo4oQ"
+      },
+      "artists": [
+        {
+          "name": "Ran-D",
+          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
+        },
+        {
+          "name": "ATILAX",
+          "url": "https://open.spotify.com/artist/1DLc4wnbKa3RWJsqwPehbk"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242347,
+      "name": "The Other Side",
+      "url": "https://open.spotify.com/track/2HQNR5ykMSwjNSHY86rV09"
     },
     {
       "album": {
@@ -21096,7 +21354,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 198193,
       "name": "U Are The High",
       "url": "https://open.spotify.com/track/2ssPLm5u7KiGXAwpTIBvEl"
@@ -21978,6 +22236,28 @@
       "duration_ms": 161283,
       "name": "We Are The Future - Damien Rk Et Devotion Radio Edit",
       "url": "https://open.spotify.com/track/6BtdOegyIpwfSl7Dr9OAzU"
+    },
+    {
+      "album": {
+        "name": "We Dance",
+        "url": "https://open.spotify.com/album/5q6hQJS9gMZ1ZPGHLzyVWV"
+      },
+      "artists": [
+        {
+          "name": "Frontliner",
+          "url": "https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa"
+        },
+        {
+          "name": "NLCK",
+          "url": "https://open.spotify.com/artist/5vG7sNDSCANSuZ71jkHxCL"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212573,
+      "name": "We Dance",
+      "url": "https://open.spotify.com/track/2FPIADbl4dLUhitWBXE2RH"
     },
     {
       "album": {

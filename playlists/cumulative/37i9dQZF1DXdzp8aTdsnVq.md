@@ -2,9 +2,9 @@
 
 ### [Lo + del Vallenato](https://open.spotify.com/playlist/37i9dQZF1DXdzp8aTdsnVq)
 
-> Novedades y clásicos del popular género colombiano\. Foto: La Banda del 5
+> Novedades y clásicos del popular género colombiano\. Foto: Binomio de Oro de América
 
-160 songs - 11 hr 24 min
+161 songs - 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [O Te Acuso Con Dios](https://open.spotify.com/track/5ptO7RPfHSIsVF9EBuQxhi) | [El Gran Martín Elías](https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz) | [O Te Acuso Con Dios](https://open.spotify.com/album/7MQKW38fegrx48F3ullhSS) | 3:51 | 2022-09-02 | 2024-05-11 |
 | [Obsesión](https://open.spotify.com/track/2bSnF32fwvIaj603AGo6wn) | [Estrellas Vallenatas](https://open.spotify.com/artist/2nWxgBHLsfOh75ct5c13C7) | [Homenaje](https://open.spotify.com/album/4iOAopfjsHSqsqpw5jbRVQ) | 3:34 | 2024-01-26 |  |
 | [Obsesión \(feat\. Ramiro Better\)](https://open.spotify.com/track/4yc290Q5nIELODhKyntBhP) | [Estrellas Vallenatas](https://open.spotify.com/artist/2nWxgBHLsfOh75ct5c13C7), [Ramiro Better](https://open.spotify.com/artist/1zCl36J3uAuup64ADqK5Pw) | [Homenaje](https://open.spotify.com/album/4CCxY26bO2H9QJe0Y71l1u) | 3:34 | 2022-09-02 | 2024-04-19 |
-| [Olvidarte Otra Vez](https://open.spotify.com/track/2Tm8ziXRmiDizKZeevs2kF) | [La Banda del 5](https://open.spotify.com/artist/3fwLvzwmgJkUwtn9YmpTiB), [Pau Mor](https://open.spotify.com/artist/55Yvm4qFavBJgDK936X5K7) | [Olvidarte Otra Vez](https://open.spotify.com/album/2qDWwcj2THeF3foweSRZpD) | 2:43 | 2024-05-10 |  |
+| [Olvidarte Otra Vez](https://open.spotify.com/track/2Tm8ziXRmiDizKZeevs2kF) | [La Banda del 5](https://open.spotify.com/artist/3fwLvzwmgJkUwtn9YmpTiB), [Pau Mor](https://open.spotify.com/artist/55Yvm4qFavBJgDK936X5K7) | [Olvidarte Otra Vez](https://open.spotify.com/album/2qDWwcj2THeF3foweSRZpD) | 2:43 | 2024-05-10 | 2024-09-14 |
 | [Otra Botella](https://open.spotify.com/track/7JHyn813Ij0oY6uXaKWiA3) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Otra Botella](https://open.spotify.com/album/3PZtW70YVWTpEWYN1PZ9ZJ) | 3:49 | 2022-09-02 | 2022-10-22 |
 | [Pa' los Gustos los Colores](https://open.spotify.com/track/2i1j9aCllzObqtQspBLTPg) | [Juancho De La Espriella](https://open.spotify.com/artist/2jyCUmtPh36YRwhuhxzUZ3), [Los de Juancho](https://open.spotify.com/artist/0siN6HqX23qhrmnGZZvJLi) | [Pa' los Gustos los Colores](https://open.spotify.com/album/4BcN3Bnt4jc6jWCKAPdgPO) | 3:11 | 2022-10-14 | 2023-04-06 |
 | [PODER FEMENINO](https://open.spotify.com/track/0YnARtjkCPRfMX4qEkrVBb) | [Karen Lizarazo](https://open.spotify.com/artist/6Xiry0W18NKRSiFwXi4zjV) | [MUJERES](https://open.spotify.com/album/0R0MHbY0NdwLWCBwfShrpS) | 3:42 | 2024-05-24 | 2024-08-31 |
@@ -133,6 +133,7 @@
 | [Qué Necesidad](https://open.spotify.com/track/0ro1pFg1YLjyuFlYfEOsPL) | [Natalia Curvelo](https://open.spotify.com/artist/6RB9VgLciQKqdvLt2ZiMYX) | [Qué Necesidad](https://open.spotify.com/album/6vqaJHsOrJ99j9nrxuZZaw) | 3:41 | 2023-02-13 | 2023-06-17 |
 | [Regálame una Noche](https://open.spotify.com/track/7nuhIriqmo87iVEfVkc58T) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Esto Es Vida](https://open.spotify.com/album/2R0WTS8JS1aSyXxosBh4Se) | 3:56 | 2022-09-02 |  |
 | [Reina Hermosa](https://open.spotify.com/track/0OCtBJjDwWmqqhtUSioB5M) | [Peter Manjarrés](https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL), [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Reina Hermosa](https://open.spotify.com/album/7b4rPawLztzUbdWs6A4PRI) | 4:04 | 2024-01-26 | 2024-09-07 |
+| [Rojo Manzana](https://open.spotify.com/track/0hFZqhaJ9h4VGrYiTrcArn) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Rojo Manzana](https://open.spotify.com/album/4ol1ixQWb7W6zId8HGc7H2) | 4:17 | 2024-09-13 |  |
 | [Señora](https://open.spotify.com/track/5tY5SZELFkC8VTlHAp9HPx) | [Otto Serge](https://open.spotify.com/artist/5CSek6ot4XS2AWiw1NFTiF), [Rafael Ricardo](https://open.spotify.com/artist/2Aq0u75FM7QuhP4vUqsFVe) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA) | 3:58 | 2024-01-26 |  |
 | [Señora](https://open.spotify.com/track/1aWlzqhPWYcmMK5H9lgpP6) | [Otto Serge](https://open.spotify.com/artist/5CSek6ot4XS2AWiw1NFTiF), [Rafael Ricardo](https://open.spotify.com/artist/2Aq0u75FM7QuhP4vUqsFVe) | [Muy Nuestro](https://open.spotify.com/album/11vSLzBjLYwRX1tjqTDsQQ) | 3:58 | 2022-09-02 | 2024-04-19 |
 | [Señora](https://open.spotify.com/track/2UlmLofQp0IWtvw45wIzbx) | [Otto Serge](https://open.spotify.com/artist/5CSek6ot4XS2AWiw1NFTiF), [Rafael Ricardo](https://open.spotify.com/artist/2Aq0u75FM7QuhP4vUqsFVe) | [The Essential Guide To Vallenato](https://open.spotify.com/album/6Llc4RLGwaC9pDmDo4m92L) | 4:00 | 2022-10-21 | 2022-11-14 |

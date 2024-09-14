@@ -4,12 +4,13 @@
 
 > Atmospheric and emotional piano pieces.
 
-190 songs - 10 hr 31 min
+191 songs - 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/4ltFUwVA65LD3vgoFQo68b) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0L9vIwfTY6FIZexNc1aq27) | 0:00 | 2021-12-10 | 2023-01-04 |
 | [85mm](https://open.spotify.com/track/0QXXalGnUnollbhAscrpy3) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [85mm](https://open.spotify.com/album/2WBVYJgZDu0sU46CakgquV) | 2:59 | 2023-03-03 |  |
+| [A Daydream in Camelot](https://open.spotify.com/track/1AMLAzWVTQpCN0Lz9JdZe4) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Legends, Myths and Lavender](https://open.spotify.com/album/5A2whd1HFhaMTAfDkPJci8) | 2:40 | 2024-09-13 |  |
 | [A Faint Qualm for the Future](https://open.spotify.com/track/3d17chntySsgXtt8Z3MYBF) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [A Faint Qualm for the Future](https://open.spotify.com/album/6eTvBtQolExQPxDkqKUtZv) | 2:41 | 2022-01-28 |  |
 | [a gift](https://open.spotify.com/track/1CmQKnFJKWTesGSSQ2noNL) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [ask the river](https://open.spotify.com/album/4yhyBrxpfFUjazK1rVgzzO) | 2:59 | 2022-07-22 | 2024-04-19 |
 | [a gift](https://open.spotify.com/track/3t9TjrFxUNKOUDvItLsTEo) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [ask the river](https://open.spotify.com/album/5t97v94T6a45YYBBQ7I21a) | 2:59 | 2021-12-10 |  |
@@ -97,7 +98,7 @@
 | [Love Came](https://open.spotify.com/track/3s5QMIVTYWorP7kUWVuDOk) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE) | [Love Came](https://open.spotify.com/album/6X1fv9fslru7IIhs254MWm) | 2:15 | 2022-10-24 |  |
 | [Lucida](https://open.spotify.com/track/5TQ69mBOhC49tCWTTCWUMG) | [Thomas Bartlett](https://open.spotify.com/artist/1fMujthy4KyGgUJnOeehH1) | [Lucida](https://open.spotify.com/album/65NRqIsEiD5ZvrO3TVrmFL) | 6:39 | 2021-12-10 | 2023-01-04 |
 | [Luminous](https://open.spotify.com/track/5RWA30VaTsYkFrkzxKL3aK) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Luminous](https://open.spotify.com/album/1qGM1wYNdT4fG81hXrdz6s) | 4:43 | 2021-12-10 |  |
-| [Lumière](https://open.spotify.com/track/3iNliE9VdKaPmpUangZfTB) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Tales Of Solace](https://open.spotify.com/album/7M7ZlXalpujk6zXlhb1J4s) | 4:11 | 2021-12-10 |  |
+| [Lumière](https://open.spotify.com/track/3iNliE9VdKaPmpUangZfTB) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Tales Of Solace](https://open.spotify.com/album/7M7ZlXalpujk6zXlhb1J4s) | 4:11 | 2021-12-10 | 2024-09-14 |
 | [Lumières](https://open.spotify.com/track/5a25wA4ObPtHPqxa5FQWtm) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Lumières](https://open.spotify.com/album/5HXlQ7GvXy7iORgnYJIi8o) | 3:48 | 2023-03-03 |  |
 | [Lunae](https://open.spotify.com/track/2c5hCxzQSRQR4XAiAEetEl) | [Jordain Wallace](https://open.spotify.com/artist/3DNVxNhoLQt9Q4HqzTPajS) | [To/Day](https://open.spotify.com/album/7cr80VXUNFKIVENIDuery7) | 3:40 | 2021-12-10 |  |
 | [Mamma](https://open.spotify.com/track/75HnNeRjD1HzKnpMRuoaKV) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Mamma](https://open.spotify.com/album/6o4CktR4yXJnpFqs9BDgpo) | 3:11 | 2023-03-03 |  |

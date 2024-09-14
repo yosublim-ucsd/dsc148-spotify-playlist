@@ -4,7 +4,7 @@
 
 > Uplifting instrumental beats to brighten your day.
 
-541 songs - 21 hr 2 min
+545 songs - 21 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Hopscotch](https://open.spotify.com/track/0FsS24h106581l9gbhIVko) | [HawaiiHockey](https://open.spotify.com/artist/5zFj3SRX2H5iLzWzqJvGVe) | [Hopscotch](https://open.spotify.com/album/2fO5R69Oj4LJP5HR6O780a) | 2:14 | 2024-07-05 |  |
 | [horizon](https://open.spotify.com/track/6Cg95Z9BbsoylM4DKPF0qu) | [Lunar Lullaby & yorukaze](https://open.spotify.com/artist/1QmonBwobeYEIi48xYr8AD) | [horizon](https://open.spotify.com/album/4pKK2fHHHVfNH9cWcMn4Cz) | 1:36 | 2023-10-27 |  |
 | [Hot Hot Stuff](https://open.spotify.com/track/6S8JC8wqZjBSwKpMa16bZV) | [Lofidelity Habanero](https://open.spotify.com/artist/5N7C6JFjoEsCGskSYYGbq1) | [Hot Hot Stuff](https://open.spotify.com/album/6nACjiFL7fZuIjraKoTvdX) | 2:01 | 2021-11-11 | 2023-09-08 |
+| [Hum](https://open.spotify.com/track/5BNFEFdrD7IJjPhvw6ioyS) | [furozun](https://open.spotify.com/artist/5voSeB7AkXaFy0akWb5w3U) | [Hum](https://open.spotify.com/album/7lm46SpTML92LUir95pbMm) | 2:24 | 2024-09-13 |  |
 | [Humid](https://open.spotify.com/track/1LBZnbikoIOEzwcGMYrJMy) | [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [Reignforest](https://open.spotify.com/album/6OaMbujRy6O3C1jtIo0I3T) | 2:31 | 2024-08-23 |  |
 | [Hummingbirds](https://open.spotify.com/track/5TkKcXv3hkVsVKAc3x4Xjz) | [Dan Juno](https://open.spotify.com/artist/4XB8JAQw1Kturm4SPu6fgo) | [Hummingbirds](https://open.spotify.com/album/5diCic6lbgI1F1Seb7EhVF) | 2:36 | 2023-06-15 |  |
 | [I Think Your Shadow Wants to Date Mine](https://open.spotify.com/track/2WDwph9TcprpYQZkXUOaoI) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe) | [I Think Your Shadow Wants to Date Mine](https://open.spotify.com/album/7BEMQo3Vqw0EyLcmGBz4hc) | 2:53 | 2023-01-20 |  |
@@ -274,6 +275,7 @@
 | [Low Rake](https://open.spotify.com/track/3uxcX73X3YZlaGVeKzECjE) | [trak\-side](https://open.spotify.com/artist/3tcFm0EMOPYGhKOa9z47Uh), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [Low Rake](https://open.spotify.com/album/2xEGZfG8okr9tQKmQLBuJx) | 1:56 | 2022-07-15 |  |
 | [Lucy Dreamer](https://open.spotify.com/track/0JczY880Kt9FviLxsimJd6) | [Crate Diggers](https://open.spotify.com/artist/0WOGvsLAjAft28z7O3QHQ8) | [Luscious](https://open.spotify.com/album/1d5DMrZe0OUFwXOnpnZUQF) | 1:32 | 2021-11-11 | 2022-06-10 |
 | [Lush 002](https://open.spotify.com/track/1xdSbbuFi2g5bpe01pBgQc) | [Ray Ford](https://open.spotify.com/artist/4pl1vdN8xHWjo9PhTUeKFy) | [Lush 002](https://open.spotify.com/album/07sedSgl049zrehDvzA2Si) | 2:54 | 2021-11-11 | 2022-10-29 |
+| [Lush Life](https://open.spotify.com/track/3o6KNgjKKKpqLrVsPl85FL) | [MLTSMTHNG](https://open.spotify.com/artist/4qVhuxnsE1C2UrjYOPIRtL) | [Lush Life](https://open.spotify.com/album/56fGBQvKBAEv15xe7pufam) | 2:27 | 2024-09-13 |  |
 | [Lush Lush Lake](https://open.spotify.com/track/0Dl6gERwFQMIEl2br6Dmcn) | [Supereffective](https://open.spotify.com/artist/4ZeIehjJBLHHCy2SJu51p6) | [Lush Lush Lake](https://open.spotify.com/album/6UZspmwJnmXPbVg4ilUvtB) | 2:27 | 2022-08-05 |  |
 | [lustig](https://open.spotify.com/track/4PqKF4AvWgQLDh7hUYdYtc) | [Izidore x](https://open.spotify.com/artist/2z2cKX1dfFL2jBrOXRjVKd) | [lustig](https://open.spotify.com/album/0mlMroJGJndveu0n7an5ak) | 2:09 | 2021-11-11 |  |
 | [Maca](https://open.spotify.com/track/6gdDUUOVAlv1iIywKDRHZE) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Maca](https://open.spotify.com/album/7L6D24JOqqngMKQvknjWiA) | 2:25 | 2023-10-06 |  |
@@ -346,6 +348,7 @@
 | [Palm Beach](https://open.spotify.com/track/3EK9wi1Guh6qmKuPbjGKIC) | [L.O.F.I](https://open.spotify.com/artist/2DikRUY57gNUtzrnk5NUxh) | [Palm Beach](https://open.spotify.com/album/2GHQLU614JS7x2M93SFf5a) | 2:07 | 2021-11-11 |  |
 | [Palme](https://open.spotify.com/track/1yJR8z4s4lASBJ4wfMG8zc) | [Bird Svensøn](https://open.spotify.com/artist/6y2CjnelXUD9BqAMzLkgvC) | [Palme](https://open.spotify.com/album/4bSIoqXG6MbAxWCCvpVcGW) | 1:50 | 2023-04-11 |  |
 | [PALMTREES](https://open.spotify.com/track/68LpjjFHicK5YIM5I5KMex) | [Worldtraveller](https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb), [Adrian Planitz](https://open.spotify.com/artist/2FibutZAPesy9g1MoOvlHa) | [PALMTREES](https://open.spotify.com/album/19TpbK79ZyrZUzgv2dwdfK) | 2:10 | 2021-11-11 | 2022-11-26 |
+| [Paper Kites](https://open.spotify.com/track/6OVR1eAheHHPaiQVka10Mg) | [Loose Principles](https://open.spotify.com/artist/6sVzSwvK7Wq0a0xjHk8tGk) | [Paper Kites](https://open.spotify.com/album/2aw3cgdHzSrknrSdyYqhHp) | 2:18 | 2024-09-13 |  |
 | [Papillon](https://open.spotify.com/track/6S1uhrWCT8WFV6z8f5P8Va) | [Moodster](https://open.spotify.com/artist/5RNTB5zF7ep1Eyu2VunrKI) | [Goodwill](https://open.spotify.com/album/1at0iMkraJOI1A582LDqgX) | 1:50 | 2021-11-11 | 2024-08-10 |
 | [Paradise Villa](https://open.spotify.com/track/0XvjpUfmsRyOhXzAFgSGnk) | [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [DEOVI](https://open.spotify.com/artist/1lzJWPoLRR3k9dUX2dWuTM), [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT) | [Paradise Villa](https://open.spotify.com/album/3OnLf8HHO1RbtwpYsw09jJ) | 2:07 | 2024-08-23 |  |
 | [Paris](https://open.spotify.com/track/6lAh5CErP733AMCPR83AUB) | [Trippy Park](https://open.spotify.com/artist/3x7TFpfYYpYVE0QP7OinsC) | [Paris](https://open.spotify.com/album/1QRLiEOoQICtjiYEchWQ41) | 2:04 | 2023-10-13 |  |
@@ -462,6 +465,7 @@
 | [Swell](https://open.spotify.com/track/2NDAiSSorPzaQ7i5sx4dDI) | [Palm Beats](https://open.spotify.com/artist/1c9zS9phaYUjbZnzYfGoFx) | [Just One More Thing](https://open.spotify.com/album/0OjE95D7HmdIY5VghaCRhx) | 1:48 | 2023-09-08 |  |
 | [Swing Set](https://open.spotify.com/track/6NvN5QdlI7GItnKdhvtrwG) | [No2Pencil](https://open.spotify.com/artist/20DC1aiFjxdo2DtT5x8DCV) | [Backyard](https://open.spotify.com/album/1xaXyuZwmLAXCKEimpeebP) | 2:17 | 2021-11-11 | 2022-09-24 |
 | [Talk About It](https://open.spotify.com/track/4y3r110Eb6leMBaoz83S4s) | [Leon Jarvis](https://open.spotify.com/artist/7Iqe5ZQLFGySYpAFUDttXJ) | [Talk About It](https://open.spotify.com/album/3Fcz7rRbQEKo8X3r4MMuvO) | 2:22 | 2021-11-11 | 2023-10-24 |
+| [Tap in](https://open.spotify.com/track/7bYstiT64ku0Da4Cdvi4RQ) | [Samara Milli](https://open.spotify.com/artist/3sZomG9CbKFGghCfMXwhhv) | [Tap in](https://open.spotify.com/album/5k5Axdq3myvAnGX4mZj4Ne) | 1:54 | 2024-09-13 |  |
 | [Tears Letter](https://open.spotify.com/track/6WnL7XZeTosmToGsaMypPl) | [Bishop Beckett](https://open.spotify.com/artist/3gB4gAB55aaIzzP0ybKlrp) | [Postcards](https://open.spotify.com/album/4m6fUJQlbYxhTy9DbeM4FG) | 2:08 | 2021-11-11 | 2022-07-22 |
 | [that 90s low](https://open.spotify.com/track/1pzOWECKHnMy5UrKeJduNB) | [xOHARA](https://open.spotify.com/artist/2Sebo5izi3H67nS858uHoK) | [that 90s low](https://open.spotify.com/album/74IMFw1dPIiXI1fXvXDsH4) | 2:23 | 2023-03-20 |  |
 | [That Strange Reminder](https://open.spotify.com/track/6a5zV8gf5eSgLaajCTP4cN) | [Emilioats](https://open.spotify.com/artist/0eQrkyv90qExbZcrazhnH4) | [That Strange Reminder](https://open.spotify.com/album/2N3NpgI7nvY4mq92opKPoj) | 2:32 | 2022-04-22 | 2023-10-13 |

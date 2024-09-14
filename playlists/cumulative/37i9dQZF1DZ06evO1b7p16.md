@@ -2,7 +2,7 @@
 
 ### [This Is Taking Back Sunday](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1b7p16)
 
-> This is Taking Back Sunday\. The essential tracks, all in one playlist.
+> This is Taking Back Sunday\. Todos os maiores hits em uma só playlist.
 
 73 songs - 4 hr 15 min
 

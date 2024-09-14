@@ -1,12 +1,12 @@
 {
   "description": "Jazz. But funky. Cover: Sly5thAve",
-  "num_followers": 353795,
+  "num_followers": 353907,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Ztp+QAAAAACtw9K0L+C2MGsAtpwBqvYq",
+  "snapshot_id": "ZuO4wAAAAAB74YWgM0gFJUxHvdfkQeMn",
   "tracks": [
     {
       "added_at": "2024-07-26 04:00:00",
@@ -59,6 +59,22 @@
       "duration_ms": 331000,
       "name": "THAT'S ALRIGHT",
       "url": "https://open.spotify.com/track/3LzvaRYXRH2ayVehdVrUDZ"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "50/50",
+        "url": "https://open.spotify.com/album/1NxEX9a6UYppTCfSOr1Ldq"
+      },
+      "artists": [
+        {
+          "name": "Spyro Gyra",
+          "url": "https://open.spotify.com/artist/1Be36RHAlqJpfUt3tsmUQD"
+        }
+      ],
+      "duration_ms": 226608,
+      "name": "50/50",
+      "url": "https://open.spotify.com/track/5suoIKSYDiHYDIryo1Q8QX"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -951,26 +967,6 @@
       "duration_ms": 295899,
       "name": "Closer",
       "url": "https://open.spotify.com/track/0wEMhtUHRK1xlwGYpEfCHj"
-    },
-    {
-      "added_at": "2023-08-11 04:01:00",
-      "album": {
-        "name": "Have a Talk with God",
-        "url": "https://open.spotify.com/album/4GPiGRB0AzoXQZZYs3bKpQ"
-      },
-      "artists": [
-        {
-          "name": "Jack Lee",
-          "url": "https://open.spotify.com/artist/12ZVNsCxj4KCcXvUmrHbIW"
-        },
-        {
-          "name": "Nathan East",
-          "url": "https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ"
-        }
-      ],
-      "duration_ms": 341918,
-      "name": "Have a Talk with God",
-      "url": "https://open.spotify.com/track/3il3S5dOcng2n3bbbhqp2O"
     },
     {
       "added_at": "2021-04-09 04:01:00",

@@ -4,7 +4,7 @@
 
 > The perfect family party playlist \- jam packed with all your favorite KIDZ BOP hits.
 
-96 songs - 4 hr 39 min
+97 songs - 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Blinding Lights](https://open.spotify.com/track/02nMYbIiYIzaFA3D3Bkn6W) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2021](https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf) | 2:59 | 2023-06-09 |  |
 | [BONITA](https://open.spotify.com/track/2PC3p183m8iuk49KINvIWQ) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [BONITA](https://open.spotify.com/album/47A9TsLtCEIHXMJMFiWC3P) | 2:34 | 2024-06-14 |  |
 | [Boy’s a liar](https://open.spotify.com/track/0vYyr5o7md0Lk13pE6Dwff) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023 Vol\. 2](https://open.spotify.com/album/7FG9GrSpXpe0X2Ipv9BR5m) | 1:59 | 2023-07-14 |  |
-| [Cake By The Ocean](https://open.spotify.com/track/3HYCbsySCw41jJj8XYcBg7) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Ultimate Playlist](https://open.spotify.com/album/0ujUpcRjoMRt06Rx1kOGuu) | 3:25 | 2023-06-09 |  |
+| [Cake By The Ocean](https://open.spotify.com/track/3HYCbsySCw41jJj8XYcBg7) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Ultimate Playlist](https://open.spotify.com/album/0ujUpcRjoMRt06Rx1kOGuu) | 3:25 | 2023-06-09 | 2024-09-14 |
 | [Calm Down](https://open.spotify.com/track/3uLjjx5YQJvFbkqLmqNz3v) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024](https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV) | 3:39 | 2024-01-22 |  |
 | [Can't Stop The Feeling!](https://open.spotify.com/track/3kKvAgxuexuRdmBaqhQdz9) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP All\-Time Greatest Hits](https://open.spotify.com/album/2r2u6SsHaCMojcx5bpSlJ8) | 3:32 | 2023-06-09 |  |
 | [Celestial](https://open.spotify.com/track/33JMCMZdse8fbKgyuALNIP) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [I Wrote A Song](https://open.spotify.com/album/4eGsdwxe0rSrNQslZcgmCu) | 3:28 | 2023-06-09 | 2023-07-15 |
@@ -80,6 +80,7 @@
 | [Party In The USA \- Redo Version](https://open.spotify.com/track/5tvBQ9zlAxMzAt7GI7ik2n) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP All\-Time Greatest Hits](https://open.spotify.com/album/2r2u6SsHaCMojcx5bpSlJ8) | 3:26 | 2023-06-09 | 2024-08-24 |
 | [Peaches \- 2023](https://open.spotify.com/track/5rmL6MvFJgSjq8zzBa8Zkl) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Peaches \(2023\)](https://open.spotify.com/album/0IFqCZgkdRI44XFLbFrd3v) | 1:34 | 2023-06-23 | 2023-07-15 |
 | [Perfect Night](https://open.spotify.com/track/5PSCvxpKq7hdfRUclZnYKV) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Perfect Night](https://open.spotify.com/album/08d35AqGWAMh9OSU4kGayp) | 2:40 | 2024-05-10 | 2024-07-16 |
+| [Please Please Please](https://open.spotify.com/track/4KegIoLXt4cv3MgU4G0GYe) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Please Please Please](https://open.spotify.com/album/2CmK9RwQuLkYSkMFz4vzGC) | 3:03 | 2024-09-13 |  |
 | [Popular](https://open.spotify.com/track/7B91IGnbY5PilOODVln00Z) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024](https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV) | 3:27 | 2024-01-22 |  |
 | [Saturn](https://open.spotify.com/track/5tH5wbM79FUZEDoPYOna41) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024 Vol\. 2](https://open.spotify.com/album/1QGR5HUSkYh3FdapkrRNb5) | 3:06 | 2024-07-15 |  |
 | [Savage Love](https://open.spotify.com/track/5NZcKD2lKDVZiCFADvAyfh) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2021](https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf) | 2:50 | 2023-06-09 | 2024-07-16 |

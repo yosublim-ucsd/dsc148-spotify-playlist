@@ -2,9 +2,9 @@
 
 ### [Baby Hair](https://open.spotify.com/playlist/37i9dQZF1DX1CDfMq8oOPq)
 
-> cristal multiplicando amor aqui!
+> calma malvadeza 👀 😰
 
-256 songs - 12 hr 14 min
+257 songs - 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Big Mama](https://open.spotify.com/track/3WndchwzPevLyg4HY5gTeX) | [Áurea Semiseria](https://open.spotify.com/artist/79ZAZiRVZscNhWmqN5HBHg) | [Big Mama](https://open.spotify.com/album/5OZVZqaQbOIZdu04W9DN62) | 2:53 | 2024-08-09 |  |
 | [Bitch Eu Sou Incrivel](https://open.spotify.com/track/1rU4r9XgR7FUgDcJ5eyI2f) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i), [HERvolution](https://open.spotify.com/artist/0CWHe4ko5bXSeafBHMeFvt) | [Bitch Eu Sou Incrivel](https://open.spotify.com/album/26LBXrEuj2MZgJ3FYnfcZ9) | 2:01 | 2023-06-30 | 2023-07-15 |
 | [Bitch Eu Sou Incrível](https://open.spotify.com/track/4gVag1vpVNTPE5MoOTwc2J) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i) | [Bitch Eu Sou Incrível](https://open.spotify.com/album/7kOviuHFNlgdqgtNDso9yi) | 2:16 | 2023-11-24 | 2023-12-02 |
+| [Botei a V.U Na Boca Do Povo](https://open.spotify.com/track/69yKMqExUqRC2rlHddG4Hu) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Até aqui, Slip nos ajudou](https://open.spotify.com/album/1lr9pXQK8ehO7mynb1XAhS) | 2:31 | 2024-09-13 |  |
 | [Branca de Neve \(Rap das Sinhás\)](https://open.spotify.com/track/1rJnvi0KVPvv0iXis2AW6n) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i), [Monna Brutal](https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n), [KING Saints](https://open.spotify.com/artist/6EErJIzXBBSWY7MkH3OaYY) | [Branca de Neve \(Rap das Sinhás\)](https://open.spotify.com/album/7t6FZEKYsfluVdo8hHUXtk) | 5:26 | 2024-04-12 | 2024-05-25 |
 | [Brutas Também Choram](https://open.spotify.com/track/7gTStq2OMkjtHyH09GGKkO) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [MAT](https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U) | [Brutas Amam, Choram e Sentem Raiva](https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj) | 3:02 | 2023-10-20 | 2024-02-24 |
 | [BÔNUS TRACK](https://open.spotify.com/track/2A33hs2ntyZ52cXMn34ljk) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [b o u t](https://open.spotify.com/artist/3djiMLvUhyywlWQgpYDR41), [Brasil Grime Show](https://open.spotify.com/artist/1MHo7H67rgMeXzF7UTqbjT) | [BÔNUS TRACK](https://open.spotify.com/album/3KMHDHQCUSXewfIPRUfo25) | 3:48 | 2023-09-01 | 2023-10-28 |
@@ -111,7 +112,7 @@
 | [Hentai](https://open.spotify.com/track/7zavTjMO64hQNg6KZkvGR8) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M) | [Hentai](https://open.spotify.com/album/1gSYN4x7QCuRTynao5vr02) | 2:22 | 2023-08-25 |  |
 | [Hino Delas](https://open.spotify.com/track/2k7EbkIovGbJJCWy7OoOgb) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [MDN Beatz](https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1) | [Hino Delas](https://open.spotify.com/album/7yZ4A2amuedBlNHRC9ESMd) | 2:19 | 2022-06-03 |  |
 | [Homens Como Você](https://open.spotify.com/track/1M6VDhgs95sHQSnsSOocIj) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Dj Victor](https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC) | [AJU](https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO) | 3:10 | 2023-04-28 |  |
-| [HSEH](https://open.spotify.com/track/5XgR6XGex53JjwrjTq352w) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [HSEH](https://open.spotify.com/album/6PBAk2kBNGViZwog68l5XP) | 2:30 | 2023-06-23 |  |
+| [HSEH](https://open.spotify.com/track/5XgR6XGex53JjwrjTq352w) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [HSEH](https://open.spotify.com/album/6PBAk2kBNGViZwog68l5XP) | 2:30 | 2023-06-23 | 2024-09-14 |
 | [Incondicional](https://open.spotify.com/track/6lPmN0eGKHfOBWtg1j3POy) | [Eva Rapdiva](https://open.spotify.com/artist/3aS15wWCmzXkFRIvbu2KUd), [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN), [Teo No Beat](https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2) | [Incondicional](https://open.spotify.com/album/2P0qrKBUGVHvzvZLcParmC) | 3:25 | 2023-11-17 | 2023-12-02 |
 | [Irreal](https://open.spotify.com/track/0VotVMtQ7gMA7cMlGBfEcc) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [LUCA](https://open.spotify.com/artist/1DRzLtTsFTbnPTYgkTDRIi), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW), [Kash](https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt) | [Irreal](https://open.spotify.com/album/7wnQ2bHyKp92zJuGNepuGE) | 3:10 | 2022-03-11 | 2023-08-05 |
 | [Justiça](https://open.spotify.com/track/4YLmK556jG82JypVn8PMaV) | [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Duani](https://open.spotify.com/artist/7kfnPmwhVUGVTbp4IEiHxZ), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [Justiça](https://open.spotify.com/album/2MWXZZX9rVT7vbnD0vQFYy) | 2:30 | 2023-10-13 | 2023-11-18 |

@@ -4,7 +4,7 @@
 
 > All the new music you need to hear right now\. Cover: Charli xcx, Troye Sivan
 
-2,365 songs - 5 day 7 hr 12 min
+2,366 songs - 5 day 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -481,6 +481,7 @@
 | [DANCEFLOOR](https://open.spotify.com/track/1Pvq76uvP8iMC7K0BXNE1c) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [DANCEFLOOR](https://open.spotify.com/album/1POG70eBb9W3K3BHhGKNMO) | 2:52 | 2023-08-17 | 2023-09-02 |
 | [Dancing By Night](https://open.spotify.com/track/1NqpeHsy3Q5E5yM0dntvBa) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO), [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU) | [Dancing By Night](https://open.spotify.com/album/0HHDMPccnsBnKLjC92kqxp) | 3:40 | 2023-07-10 | 2023-07-21 |
 | [Dancing In The Courthouse](https://open.spotify.com/track/4ZwgD4frTwoDdOUsjyoqAJ) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Dancing In The Courthouse](https://open.spotify.com/album/6y1x1MUnhsqTIRkp6KpYkq) | 2:37 | 2023-04-13 | 2023-05-12 |
+| [Dancing In The Flames](https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dancing In The Flames](https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g) | 3:40 | 2024-09-12 |  |
 | [Dancing In The Shadows](https://open.spotify.com/track/2edB8M0PPZCoYKm8ohDaNm) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Dancing In The Shadows](https://open.spotify.com/album/2rJpFV7L5MsabqxrEeHVd6) | 4:37 | 2022-09-01 | 2022-09-23 |
 | [Dancing is Healing](https://open.spotify.com/track/4xlMZCMr9WhyE58igBMxVp) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO), [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Dancing is Healing](https://open.spotify.com/album/11erTn5P7gOy8vfYDq6bxq) | 2:57 | 2023-04-20 | 2023-04-24 |
 | [Dancing is Healing](https://open.spotify.com/track/5gqu7rZE6fTFwbN2metxv4) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO), [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Dancing is Healing](https://open.spotify.com/album/5g3JRPJKgjcc20lORFpaqp) | 2:57 | 2023-04-20 | 2023-06-02 |

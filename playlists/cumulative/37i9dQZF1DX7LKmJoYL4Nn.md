@@ -4,7 +4,7 @@
 
 > Songs from “ENSEMBLE STARS!!”「あんスタ」シリーズの楽曲を1つのプレイリストで。© 2014\-2019 Happy Elements K.K
 
-100 songs - 6 hr 43 min
+101 songs - 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Honeycomb Summer](https://open.spotify.com/track/6jZaxLW2LKa9XuNHsrxJJi) | [Crazy:B/天城 燐音\(CV.阿座上 洋平\)、HiMERU\(CV.笠間 淳\)、桜河 こはく\(CV.海渡 翼\)、椎名 ニキ\(CV.山口 智広\)](https://open.spotify.com/artist/5PaMXRPWxlUL5Q0u0gQ8ej) | [あんさんぶるスターズ！！ ESアイドルソング season1 Crazy:B](https://open.spotify.com/album/0LVSiV6lhKYnufCIws2bHJ) | 4:08 | 2024-04-26 |  |
 | [Ironic Blue](https://open.spotify.com/track/3lFRXoGPlpHoaUyWiH6SwK) | [瀬名泉\(CV.伊藤マサミ\)](https://open.spotify.com/artist/1dU0QhfWX3xNS0HYugINlY) | [あんさんぶるスターズ！ アルバムシリーズ Knights](https://open.spotify.com/album/6AvMxznw9rviWn2cx9y7Oc) | 3:33 | 2024-04-26 | 2024-05-08 |
 | [Kiss of Life](https://open.spotify.com/track/7FZ8p7BXhPoG9AvC8ymbhC) | [ALKALOID/天城 一彩\(CV.梶原 岳人\)、白鳥 藍良\(CV.天﨑 滉平\)、礼瀬 マヨイ\(CV.重松 千晴\)、風早 巽\(CV.中澤 まさとも\)](https://open.spotify.com/artist/2KsAMzSMNP6i4aQKTZnAkv) | [あんさんぶるスターズ！！ ユニットソングCD ALKALOID](https://open.spotify.com/album/6nBym9midy0B0Dzkltz56L) | 4:48 | 2024-04-26 | 2024-08-23 |
-| [KISS YOURSELF](https://open.spotify.com/track/0szrP9bl0cIs7Pz73qxJyP) | [鳴上 嵐\(CV.北村 諒\)](https://open.spotify.com/artist/6OURI3uza8OUxggJF9wish) | [あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 Knights](https://open.spotify.com/album/3qcoVnc807jEOc4SJJqYHP) | 4:43 | 2024-05-24 |  |
+| [KISS YOURSELF](https://open.spotify.com/track/0szrP9bl0cIs7Pz73qxJyP) | [鳴上 嵐\(CV.北村 諒\)](https://open.spotify.com/artist/6OURI3uza8OUxggJF9wish) | [あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 Knights](https://open.spotify.com/album/3qcoVnc807jEOc4SJJqYHP) | 4:43 | 2024-05-24 | 2024-09-14 |
 | [Knights the Phantom Thief](https://open.spotify.com/track/1jxVKwkXH6s0tqN7zX4dPU) | [Knights/月永レオ\(CV.浅沼晋太郎\)、瀬名泉\(CV.伊藤マサミ\)、朔間凛月\(CV.山下大輝\)、鳴上嵐\(CV.北村諒\)、朱桜司\(CV.土田玲央\)](https://open.spotify.com/artist/0MWS0g20z5StsBOML5UZ8A) | [あんさんぶるスターズ！ アルバムシリーズ Knights](https://open.spotify.com/album/6AvMxznw9rviWn2cx9y7Oc) | 3:42 | 2024-04-26 | 2024-07-02 |
 | [Le temps des fleurs](https://open.spotify.com/track/21hTRn51VQnMvmojKl2G5r) | [Valkyrie/斎宮 宗\(CV.高橋広樹\)、影片みか\(CV.大須賀 純\)](https://open.spotify.com/artist/0ji9EuoClUyb8331TfkBCA) | [あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 Valkyrie](https://open.spotify.com/album/3mb1ZiGpzS3snBjMKjFNgF) | 3:42 | 2024-04-26 |  |
 | [LIMIT BREAK DREAMERS \- ESオールスターズ ver.](https://open.spotify.com/track/7o0OkqvKakuIGupBtSJ8Qj) | [ESオールスターズ](https://open.spotify.com/artist/4MCDJV5XahmKPes1Ccc7YO) | [『あんさんぶるスターズ！！』9th Anniversary Song「LIMIT BREAK DREAMERS」](https://open.spotify.com/album/4XIhikLcRaF2zQ9hTVQskU) | 4:20 | 2024-04-26 |  |
@@ -106,6 +106,7 @@
 | [百花繚乱、紅月夜](https://open.spotify.com/track/2tU9EY1nufIeoOcbMWxBIN) | [紅月/蓮巳敬人\(CV.梅原裕一郎\)、鬼龍紅郎\(CV.神尾晋一郎\)、神崎颯馬\(CV.神永圭佑\)](https://open.spotify.com/artist/2uqHLjgXdyv3XJhoeAespG) | [あんさんぶるスターズ！ アルバムシリーズ 紅月](https://open.spotify.com/album/2n2oBQlnhZm1CSS2SUp2SY) | 4:22 | 2024-04-26 |  |
 | [祝福のLibrary](https://open.spotify.com/track/7ql0h0LbkIgw8Dd45ERZMT) | [Valkyrie/斎宮 宗\(CV.高橋広樹\)、影片みか\(CV.大須賀 純\)](https://open.spotify.com/artist/0ji9EuoClUyb8331TfkBCA) | [あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 Valkyrie](https://open.spotify.com/album/3mb1ZiGpzS3snBjMKjFNgF) | 4:03 | 2024-04-26 |  |
 | [罪の底](https://open.spotify.com/track/4e9eMP5YXyxCB2j4RGSAtD) | [UNDEAD/朔間零\(CV.増田俊樹\)、羽風薫\(CV.細貝圭\)、大神晃牙\(CV.小野友樹\)、乙狩アドニス\(CV.羽多野渉\)](https://open.spotify.com/artist/018xyFp4b4AbcZE9Zp13DP) | [あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 UNDEAD](https://open.spotify.com/album/62jk8EoHjZXcdRI4yFtqsn) | 4:29 | 2024-04-26 |  |
+| [聖少年遊戯](https://open.spotify.com/track/4iiMii9sMiAJSqxCeU4NsY) | [Valkyrie/斎宮 宗\(CV.高橋広樹\)、影片みか\(CV.大須賀 純\)、仁兎なずな\(CV.米内佑希\)](https://open.spotify.com/artist/4HzGqYlLXDoEFKbsQWEoPR) | [あんさんぶるスターズ！アルバムシリーズ Valkyrie](https://open.spotify.com/album/12klK02DpZrlngD2fG9Joa) | 4:08 | 2024-08-19 |  |
 | [青春Emergency](https://open.spotify.com/track/6sa7vQRasTAZGQc9zgCq4C) | [流星隊 ✕ Knights/守沢 千秋\(CV.帆世 雄一\)、深海 奏汰\(CV.西山 宏太朗\)、南雲 鉄虎\(CV.中島 ヨシキ\)、高峯 翠\(CV.渡辺 拓海\)、仙石 忍\(CV.新田 杏樹\)、朱桜 司\(CV.土田 玲央\)、月永 レオ\(CV.浅沼 晋太郎\)、瀬名 泉\(CV.伊藤 マサミ\)、朔間 凛月\(CV.山下 大輝\)、鳴上 嵐\(CV.北村 諒\)](https://open.spotify.com/artist/0Rfw2biPyl9NsYF1Y0sNXb) | [流星隊 ✕ Knights「青春Emergency」 あんさんぶるスターズ！！ FUSION UNIT SERIES 06](https://open.spotify.com/album/4Iyn5w22zjcZPOF1YadFvH) | 4:29 | 2024-04-26 |  |
 | [魅惑劇](https://open.spotify.com/track/4ywISXfEvj4M9yXP58vLIs) | [Valkyrie/斎宮 宗\(CV.高橋広樹\)、影片みか\(CV.大須賀 純\)](https://open.spotify.com/artist/0ji9EuoClUyb8331TfkBCA) | [あんさんぶるスターズ！アルバムシリーズ Valkyrie](https://open.spotify.com/album/12klK02DpZrlngD2fG9Joa) | 4:09 | 2024-04-26 |  |
 

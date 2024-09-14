@@ -4,7 +4,7 @@
 
 > New styles, deep sounds\. Cover: Helado Negro
 
-456 songs - 1 day 4 hr 3 min
+457 songs - 1 day 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Automatic](https://open.spotify.com/track/27KqSOzLiN6p9sjs95MnZg) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Automatic](https://open.spotify.com/album/40P7jOxKnMf7KVpX0kWcCD) | 3:58 | 2022-09-09 |  |
 | [Baby Roe](https://open.spotify.com/track/5uxTlayhGSIwr8SjEqVQQ9) | [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [Baby Roe](https://open.spotify.com/album/5CX31s6MUWs5DsSuU7s20G) | 3:06 | 2024-03-01 | 2024-06-05 |
 | [Back To Oz](https://open.spotify.com/track/0UWXrfsHsy2LUJWEbneShb) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Back to Oz / Fictional California](https://open.spotify.com/album/5bHNKlDnqAtCASYdUr7FHM) | 4:12 | 2021-11-12 |  |
+| [Bad Bad News](https://open.spotify.com/track/4RiBL4u0w26dNmVB45ofzo) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Bad Bad News](https://open.spotify.com/album/6Y989i2swgje49NjskB3o6) | 3:19 | 2024-09-13 |  |
 | [Bad Mind](https://open.spotify.com/track/4K2Ny9ccE7D5pekJaPIyft) | [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [Putting on Airs](https://open.spotify.com/album/1LK9gWKqJTOSPE0sHYPVBJ) | 5:14 | 2021-11-12 | 2022-07-28 |
 | [Beast For Thee](https://open.spotify.com/track/1lFfq3BypGTRfLZIv3GWVK) | [Bonnie Prince Billy](https://open.spotify.com/artist/2zAvisjImPICTNsRgagqlV), [Bryce Dessner](https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l), [eighth blackbird](https://open.spotify.com/artist/08JsND1KfYyI41gWdAOOwz) | [Beast For Thee](https://open.spotify.com/album/0fgzt2Mzv33f6L9UXiosG3) | 5:24 | 2021-11-12 | 2022-07-26 |
 | [Believe](https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Believe](https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo) | 3:15 | 2022-03-11 |  |
@@ -172,7 +173,7 @@
 | [Got a Lotta Love](https://open.spotify.com/track/0MIFQg8ak1p21EeHK2JrJg) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [Easy Way](https://open.spotify.com/album/28RycHmG72yoKVXZ7X3PEg) | 3:02 | 2023-04-28 | 2024-04-19 |
 | [Got a Lotta Love](https://open.spotify.com/track/0RMlPv9lkskpyEXQttMCOq) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [Easy Way](https://open.spotify.com/album/1baZsLfWdRMcdXqgko3Bo7) | 3:02 | 2022-07-11 | 2023-04-30 |
 | [Got a Lotta Love](https://open.spotify.com/track/2eudmfFsYkZv1MEI1acWih) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [Easy Way](https://open.spotify.com/album/3fE0XsKfZtrTFVcVGIQWBX) | 3:02 | 2021-11-12 | 2022-07-29 |
-| [Greatest Weapon](https://open.spotify.com/track/6LH9o8jYAr4J4k9eBXFKVY) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Greatest Weapon / Under The Water](https://open.spotify.com/album/0JsOZZPmy1Wqo1Pwqdmnoo) | 2:54 | 2022-09-16 |  |
+| [Greatest Weapon](https://open.spotify.com/track/6LH9o8jYAr4J4k9eBXFKVY) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Greatest Weapon / Under The Water](https://open.spotify.com/album/0JsOZZPmy1Wqo1Pwqdmnoo) | 2:54 | 2022-09-16 | 2024-09-14 |
 | [Growin' Down](https://open.spotify.com/track/364HspDHZe7P1vNHDiO4ic) | [Illiterate Light](https://open.spotify.com/artist/1vEqG4Bxz3YIMuDkIcvg6J) | [Growin' Down](https://open.spotify.com/album/5skKCz7lFau3mYIBFDdkw9) | 4:16 | 2024-07-05 |  |
 | [Halo \- Acoustic Version](https://open.spotify.com/track/2Wx5BMeAMNFHdE0f4LXh3V) | [Matthew And The Atlas](https://open.spotify.com/artist/0lSENl3bteP8p2NbiSP7RM) | [Halo & Begin Again \(Unplugged\)](https://open.spotify.com/album/6kx90x1EqvEtJWBrRqJstU) | 3:37 | 2022-04-01 |  |
 | [Happen](https://open.spotify.com/track/4TCMDoYMAGRzmvmBjnqUmw) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Happen](https://open.spotify.com/album/5pNKUUIVZqaF2U4nkEMxO6) | 4:13 | 2022-10-14 | 2024-08-24 |

@@ -4,7 +4,7 @@
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist\. Cover: Nines
 
-1,274 songs - 2 day 16 hr 37 min
+1,275 songs - 2 day 16 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [50s](https://open.spotify.com/track/3xGMOMy5PeVOoIl8zjzxRN) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [50s](https://open.spotify.com/album/5NB0lhneowD68OlfY44Ed0) | 2:39 | 2022-12-09 | 2023-03-10 |
 | [6 Figures](https://open.spotify.com/track/5REHuumT1hFTNpDonMiqYt) | [Blade Brown](https://open.spotify.com/artist/4E0mDf341TLViBbNefSrsK), [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [6 Figures](https://open.spotify.com/album/7evdIkdwEnnxVEmKgPbBWM) | 2:00 | 2022-03-14 | 2022-03-25 |
 | [6ex In The Morning](https://open.spotify.com/track/1nwNvEXXoKKmJCpQDtXdkC) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [In Too Deep](https://open.spotify.com/album/7ufExXnZlCqVXCNXdJPHjy) | 2:40 | 2022-11-18 | 2023-01-13 |
+| [7.62](https://open.spotify.com/track/0RqC76cRiZv5lHE4GcQa1i) | [M1llionz](https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq), [LD](https://open.spotify.com/artist/4eQGLO5ExQniSLvj5NjW6m) | [7.62](https://open.spotify.com/album/3660p2c0M6xPXBsrYcqlGC) | 2:54 | 2024-09-13 |  |
 | [900 Degrees](https://open.spotify.com/track/2Q4Fz2QV0k3lS6JhV7qqBw) | [Deyah](https://open.spotify.com/artist/7FVYHSqy6wB2PCifeS81fb) | [900 Degrees](https://open.spotify.com/album/5hMZF6TuQtgbVLYPqxZDrg) | 2:59 | 2022-03-08 | 2022-03-09 |
 | [911](https://open.spotify.com/track/4A3IuipnqFLJN9zDOTDSx8) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [911](https://open.spotify.com/album/6ttkQSLzTo8hug4JWcBkOa) | 2:07 | 2024-06-27 | 2024-07-27 |
 | [A Lot](https://open.spotify.com/track/7K2Rpqgu1rvKInUmp5w4kJ) | [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s) | [A Lot](https://open.spotify.com/album/6tj57kLbgduFZPx1ztgmFW) | 2:06 | 2024-09-06 |  |

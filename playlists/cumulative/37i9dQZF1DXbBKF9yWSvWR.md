@@ -4,7 +4,7 @@
 
 > For your daily dosis of music with an Indie twist\. Cover: Warhaus
 
-112 songs - 6 hr 23 min
+118 songs - 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Add Up My Love](https://open.spotify.com/track/6FcDxtnGfsYHOcGkXN2OIG) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:25 | 2024-07-11 |  |
 | [All A Mystery](https://open.spotify.com/track/1fYdtAhgGLKmOZE46mCGm0) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [All A Mystery](https://open.spotify.com/album/33NhYguzpm450MS00ZxbC0) | 3:09 | 2024-06-24 |  |
 | [All That's Good Comes With Some Risk](https://open.spotify.com/track/6S5KGieDdf1DEEkuU6KAH8) | [Go Fishing!](https://open.spotify.com/artist/1xGjuJkX70b8AnKHOysE7r) | [All That’s Good Comes With Some Risk](https://open.spotify.com/album/45AgkUoy9dPh1ZoC9DQ4bN) | 3:37 | 2024-06-24 | 2024-07-16 |
+| [Amin](https://open.spotify.com/track/7H4UN1gSpckToDdGgt3GZY) | [Pale Grey](https://open.spotify.com/artist/50KI9424n5FMCX9zY2JFcH) | [Amin](https://open.spotify.com/album/3ucf3U4xtZKXVPnksCSBjd) | 4:10 | 2024-09-13 |  |
 | [Anymore](https://open.spotify.com/track/2pM5npvsX6AHv5ah50HHBU) | [Maida Rose](https://open.spotify.com/artist/1XNEYqJZDKq9lEqe61sF1k) | [Anymore](https://open.spotify.com/album/7pYeXUlXPmFE26I5bKPkwB) | 4:08 | 2024-06-24 | 2024-07-10 |
 | [Artificial Bliss \- demo](https://open.spotify.com/track/2Aj78pYcs3mhiuieOmNd34) | [Elliot Boyd](https://open.spotify.com/artist/43XREBdVRoF4RB3brNoLf9) | [Artificial Bliss](https://open.spotify.com/album/43cchgpsMydzfosFAK9wHb) | 2:57 | 2024-07-26 |  |
 | [Ascend to Heaven](https://open.spotify.com/track/6zHSlc8G9xnrueRFYyLGqS) | [Morpheus](https://open.spotify.com/artist/3lhGgCyHKc8VFqfn33X7VX) | [The Ascent](https://open.spotify.com/album/40W3nyoiqb0x0OgCPM07aN) | 3:23 | 2024-06-24 | 2024-08-31 |
@@ -21,7 +22,7 @@
 | [Back Again](https://open.spotify.com/track/4cOoQ3HjF2bwnDOJvhxOKg) | [Sophie van Hasselt](https://open.spotify.com/artist/3r68N4ZRD3j8AfGrGvhMVm), [GOSTO](https://open.spotify.com/artist/5CEZ2102fh2JlfPrsBdSeJ) | [Back Again](https://open.spotify.com/album/2OetjekECC900yqLwMGRfH) | 3:17 | 2024-09-05 |  |
 | [Boom Boom Back](https://open.spotify.com/track/2VGtqvu66pNze1L7vFcRNN) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Boom Boom Back](https://open.spotify.com/album/4U2OigPyy9uJ4K8yKbKwUi) | 3:24 | 2024-06-24 | 2024-07-12 |
 | [BREAK FREE](https://open.spotify.com/track/4EcUyeRtr22NsLpmAv7rFo) | [Jean Valery](https://open.spotify.com/artist/3nKZLWQbRQ57Tj4ZfeGEek), [Alioth](https://open.spotify.com/artist/4DuXwkPXoIIVfGuPsmUKrF), [Nadir](https://open.spotify.com/artist/6FYvssfLHul082VsjnVfKB), [TYM](https://open.spotify.com/artist/70Rt4lMiib6ya5azoVK51v) | [BREAK FREE](https://open.spotify.com/album/2F89HRSxDaJiBhRi0mKp7G) | 4:20 | 2024-08-30 |  |
-| [Busy Doing Nothing](https://open.spotify.com/track/3lDmfwvKqwyDiZUSGNCUHY) | [Mickie](https://open.spotify.com/artist/1fhrWRji66FUx7jES5tMJX) | [Busy Doing Nothing](https://open.spotify.com/album/4RXMH98NmrxMkInHxnp4mS) | 3:08 | 2024-07-11 |  |
+| [Busy Doing Nothing](https://open.spotify.com/track/3lDmfwvKqwyDiZUSGNCUHY) | [Mickie](https://open.spotify.com/artist/1fhrWRji66FUx7jES5tMJX) | [Busy Doing Nothing](https://open.spotify.com/album/4RXMH98NmrxMkInHxnp4mS) | 3:08 | 2024-07-11 | 2024-09-14 |
 | [Cairngorms](https://open.spotify.com/track/2d5gLLZEhhkwKpFR5akW0F) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Cairngorms](https://open.spotify.com/album/5L2BHB36P5IQYu1QCw80K3) | 4:12 | 2024-06-24 | 2024-07-10 |
 | [Cake for Dinner](https://open.spotify.com/track/4QvBSHosNhkteUbnqkyzHK) | [Galine](https://open.spotify.com/artist/1DFbUtrAHgEHrZOnptv03D) | [Cake for Dinner](https://open.spotify.com/album/7IWXAJ8AlDb2mCxwpemrot) | 3:22 | 2024-09-05 |  |
 | [Call Me Up](https://open.spotify.com/track/1E9T8kPAQV2zMSf0hz3K6A) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [Call Me Up](https://open.spotify.com/album/0KfdSmpAWlWIsX46PARiNO) | 2:41 | 2024-06-24 | 2024-07-12 |
@@ -32,8 +33,9 @@
 | [Clams Casino](https://open.spotify.com/track/552CHpr378s87EoEt92aYv) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [My Light, My Destroyer](https://open.spotify.com/album/5Px8e7X2ohQr0Tf3a73oLJ) | 3:26 | 2024-07-26 |  |
 | [confused](https://open.spotify.com/track/5mVD6EqHjznlT9vjOQV2bA) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [confused](https://open.spotify.com/album/3BBLwN3zv6PHbJiSTosUog) | 3:25 | 2024-08-30 |  |
 | [Dancing in the Dirt](https://open.spotify.com/track/6SzIWDgalsxa2IIJ24C6Ik) | [Galine](https://open.spotify.com/artist/1DFbUtrAHgEHrZOnptv03D) | [Dancing in the Dirt](https://open.spotify.com/album/4nxLC4lq2pNY1wDx2Nztgk) | 3:15 | 2024-06-24 | 2024-09-06 |
-| [Dream](https://open.spotify.com/track/5blwj5ReJjdSBbOse9Iyov) | [Rindue](https://open.spotify.com/artist/4oojbn40EbfJ8IDkzKUWAw) | [Dream](https://open.spotify.com/album/4mCotYjLN6VYsl6tQozSAm) | 3:03 | 2024-06-24 |  |
-| [DRIVE ME CRAZY](https://open.spotify.com/track/7xF8oyiBBOwgwiwPN9JRFx) | [Jean Valery](https://open.spotify.com/artist/3nKZLWQbRQ57Tj4ZfeGEek) | [DRIVE ME CRAZY](https://open.spotify.com/album/0cFljihYG2lv3kGCygyYFm) | 2:45 | 2024-06-24 |  |
+| [Dive \(feat\. Pitou\)](https://open.spotify.com/track/6jPG58CblDA29dE38FWMUb) | [Jungle by Night](https://open.spotify.com/artist/2StcyX3fmelae5agBHIkDO), [Pitou](https://open.spotify.com/artist/27aUOc2h4pz72oZen497Va) | [Synergy](https://open.spotify.com/album/77nBglD9sGkrHzLY7od26x) | 4:00 | 2024-09-13 |  |
+| [Dream](https://open.spotify.com/track/5blwj5ReJjdSBbOse9Iyov) | [Rindue](https://open.spotify.com/artist/4oojbn40EbfJ8IDkzKUWAw) | [Dream](https://open.spotify.com/album/4mCotYjLN6VYsl6tQozSAm) | 3:03 | 2024-06-24 | 2024-09-14 |
+| [DRIVE ME CRAZY](https://open.spotify.com/track/7xF8oyiBBOwgwiwPN9JRFx) | [Jean Valery](https://open.spotify.com/artist/3nKZLWQbRQ57Tj4ZfeGEek) | [DRIVE ME CRAZY](https://open.spotify.com/album/0cFljihYG2lv3kGCygyYFm) | 2:45 | 2024-06-24 | 2024-09-14 |
 | [Easy](https://open.spotify.com/track/4Z4eXYAW69rQrPuv7L3t1f) | [Forre Sterra](https://open.spotify.com/artist/3OfoGrn1x3WYdImtYwUYjg) | [Easy](https://open.spotify.com/album/5QakQ4plBNqVLff9B2eLFY) | 3:38 | 2024-06-24 | 2024-08-31 |
 | [Ego](https://open.spotify.com/track/7dHzPI3YRolg60tFHtTydt) | [Paige Fish](https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P) | [Ego](https://open.spotify.com/album/6a51W0b5pxwJZOEvVGIyWm) | 3:43 | 2024-06-24 | 2024-07-27 |
 | [Electro Poetry](https://open.spotify.com/track/3EDuRcNu7dnoRiXypeJhbA) | [Cloud Cafe](https://open.spotify.com/artist/6ZLN3zJF1GLVaSNk7tU3MY) | [Electro Poetry](https://open.spotify.com/album/1yA0VdE5V711Hw6M1YZuoa) | 3:32 | 2024-07-09 |  |
@@ -64,6 +66,7 @@
 | [Juna](https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:15 | 2024-08-01 |  |
 | [Just a Game](https://open.spotify.com/track/7814wZdvnAgpQa2OMNMl4n) | [abrahamblue](https://open.spotify.com/artist/2TzrsJxlKAgMqEY2dSPJ9g) | [Just a Game](https://open.spotify.com/album/45ZlCFwhJBSBHtdRcF6odC) | 2:36 | 2024-08-30 |  |
 | [Kaleidoscope](https://open.spotify.com/track/2AmmNNrgRTKxLCliZaTGUH) | [CHARLOT](https://open.spotify.com/artist/4jwyHfEELByxcUm6JEP5yC) | [Kaleidoscope](https://open.spotify.com/album/6ZgcinB5KSfxxiTbMBO59U) | 3:22 | 2024-06-24 |  |
+| [Leave It](https://open.spotify.com/track/67YsbY7DgPcKNdM98lMpXM) | [Jacob Drescher](https://open.spotify.com/artist/0azBrYau1kmzbjLIkVG4mv) | [Leave It](https://open.spotify.com/album/7E6sAkTS8AjiDyoBhojZ04) | 4:08 | 2024-09-13 |  |
 | [Lemon](https://open.spotify.com/track/2anSEDAqaZ8CTi9YNGV3xS) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Lemon](https://open.spotify.com/album/4UjGNWCVeNpTjYNCtHNx96) | 3:50 | 2024-06-24 |  |
 | [Little Love](https://open.spotify.com/track/6ZgMOBLTFTiznbKhEDeqnw) | [Marta Arpini](https://open.spotify.com/artist/1g5EUXyT6FupMoKyy6Q1M8) | [Little Love](https://open.spotify.com/album/4mErgfMcAlJ6WLQkRvHozj) | 3:08 | 2024-06-24 |  |
 | [Long Dark Sleep](https://open.spotify.com/track/6NHxA1LJZjpexoXo8cwiCz) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [Long Dark Sleep](https://open.spotify.com/album/7Aixb2p4RnrOCOdKECOK6h) | 2:55 | 2024-08-01 |  |
@@ -75,6 +78,7 @@
 | [Midnight Shining](https://open.spotify.com/track/3mYsAOZUuqeqVwQw0BAdgv) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Midnight Shining](https://open.spotify.com/album/3fCh7BiO2OHPrZvjhVGvNP) | 3:32 | 2024-09-05 |  |
 | [Miss You](https://open.spotify.com/track/37wueS34bitqZI6O0QfgQB) | [Waltzburg](https://open.spotify.com/artist/69vKqcCUoTUAwHaooT1pzv) | [Miss You](https://open.spotify.com/album/778XeIiWHwnTEloYYAGkzI) | 3:55 | 2024-06-24 | 2024-07-27 |
 | [misses](https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [14 minutes](https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9) | 1:14 | 2024-06-24 | 2024-09-06 |
+| [Model, Actress, Whatever](https://open.spotify.com/track/2GxyLVk70vblDcloX4mJsi) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Model, Actress, Whatever](https://open.spotify.com/album/4M6b5oOkKDlbPAjlfXbID2) | 3:32 | 2024-09-13 |  |
 | [Musings](https://open.spotify.com/track/2SOjODF7m0dUSJy8cDpfX5) | [Zooey](https://open.spotify.com/artist/07EFfxrVAjb17yhr2WyYFx) | [Musings](https://open.spotify.com/album/3xzbV6hdvInYHivUSoCza7) | 3:11 | 2024-06-24 |  |
 | [My Kinda Woman](https://open.spotify.com/track/2iVWKU78MURQCwfyj8Yy7T) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF) | [My Kinda Woman](https://open.spotify.com/album/2XxNT2RrPizKoRaHvF4Eye) | 3:04 | 2024-06-24 | 2024-07-16 |
 | [My Love, I'm Only Mad](https://open.spotify.com/track/5EH7kncFVKreSpuQsbOkh0) | [Halehan](https://open.spotify.com/artist/7BFaz82AlJshWc7bxdRn3p) | [My Love, I'm Only Mad](https://open.spotify.com/album/1gAxp3FOrALIlOAlUeM4JI) | 2:45 | 2024-06-24 |  |
@@ -85,6 +89,7 @@
 | [Nomad](https://open.spotify.com/track/5NR7XN88d1NhOXKR0vD5XK) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Nomad](https://open.spotify.com/album/6Utl8nDyt1rOSXA2vOnqdq) | 3:45 | 2024-06-27 |  |
 | [Peachy Free](https://open.spotify.com/track/4GGo1Vr6nFBEGvT6z7yKo2) | [BEA1991](https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z) | [Peachy Free](https://open.spotify.com/album/5Wyl6qnCHluBRkGgU3WM94) | 2:34 | 2024-07-11 |  |
 | [perfume](https://open.spotify.com/track/1efpLeEhZoX202uzuCoT7F) | [LO\-FI LE\-VI](https://open.spotify.com/artist/3HitWnKrqivUZgOBLj4SJ6) | [bluey](https://open.spotify.com/album/19K1kvE8m1DjWPfXOwFCcZ) | 1:42 | 2024-06-24 | 2024-09-06 |
+| [Pinch Me](https://open.spotify.com/track/4zjg3PG8mgaerssPLkP83v) | [Zo Lief](https://open.spotify.com/artist/655lv153aeepabVfhjnGwq) | [Pinch Me](https://open.spotify.com/album/6sR6bqWgWtc5zdBzHqde0b) | 3:03 | 2024-09-13 |  |
 | [Puzzle](https://open.spotify.com/track/1E1bsQ93htYPzHqKbakej9) | [Rindue](https://open.spotify.com/artist/4oojbn40EbfJ8IDkzKUWAw) | [Puzzle](https://open.spotify.com/album/6o2y7CpR7xIBqHYyFIXOu5) | 3:00 | 2024-07-26 |  |
 | [Rat King](https://open.spotify.com/track/5n64a6hBS4fEcluUsYpjrP) | [Komodo](https://open.spotify.com/artist/4Gm7WZh4QB6KE9M69BvsVU) | [Rat King](https://open.spotify.com/album/2RF7EDnkfi8wh4x11anQh1) | 3:43 | 2024-07-11 | 2024-07-27 |
 | [Ready for You](https://open.spotify.com/track/1DfBi72sHWOVjAK9euaoPF) | [TEUN](https://open.spotify.com/artist/2HYKtKJ5ZbUaz3BoDpRSYv) | [Ready for You](https://open.spotify.com/album/0uJPUSMaKFyzTH86xMAlPK) | 3:49 | 2024-07-26 |  |
@@ -120,5 +125,6 @@
 | [Where The Names Are Real](https://open.spotify.com/track/6anbHjGgQbYQH5FbF6bAvR) | [Warhaus](https://open.spotify.com/artist/5uy67fWgovgNdbkP1kAf7m) | [Where The Names Are Real](https://open.spotify.com/album/0SnEZObvH4juxuuJEznkGV) | 5:21 | 2024-09-12 |  |
 | [Wish I Could](https://open.spotify.com/track/3s4zyagYB9xcolyQCOTY15) | [Galine](https://open.spotify.com/artist/1DFbUtrAHgEHrZOnptv03D) | [Wish I Could](https://open.spotify.com/album/7ndbNJdFAqyaFKsdP0709m) | 3:29 | 2024-07-09 |  |
 | [Wristwatch](https://open.spotify.com/track/6HsIV3KVhmY20DAyt5u0ug) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Wristwatch](https://open.spotify.com/album/5lpIqexNhzFxvwyhzTIeTF) | 3:42 | 2024-09-05 |  |
+| [You And I](https://open.spotify.com/track/248XJMcsowzZrF1APvILhF) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [The Greatest Love](https://open.spotify.com/album/3jlE37AdgcZbfsfyMutyCE) | 5:00 | 2024-09-13 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

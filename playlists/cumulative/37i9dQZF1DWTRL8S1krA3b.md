@@ -4,7 +4,7 @@
 
 > This year's new country holiday songs! Cover: Maddie & Tae
 
-100 songs - 5 hr 23 min
+102 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Christmas In The Backyard](https://open.spotify.com/track/4tb8C9aWere1hZXiC5CQcR) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Christmas In The Backyard](https://open.spotify.com/album/29beFzNrz6x5wI3vAqJytO) | 2:36 | 2023-11-24 |  |
 | [Christmas Isn't Christmas](https://open.spotify.com/track/0pRknaXkPSLsmmkXZz8G0P) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn), [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Christmas Isn't Christmas](https://open.spotify.com/album/0AGOmWdA3YPhNrKy4GUP3h) | 3:12 | 2023-11-24 |  |
 | [Christmas Just Us Two](https://open.spotify.com/track/4w9aTg5zBHjUk6BjARqBOZ) | [Morgan Myles](https://open.spotify.com/artist/5n29LsxgPUhW67Z8aPoas5), [Sam Morrow](https://open.spotify.com/artist/5fHiDVbd5c6LzxbjRO8ZZs) | [Christmas Just Us Two](https://open.spotify.com/album/32RZKD131KvRFVbT48URUx) | 3:54 | 2023-11-24 |  |
+| [Christmas Night With You](https://open.spotify.com/track/6lx1UIYeVhlLr40MA5Yjgl) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Christmas Night With You](https://open.spotify.com/album/3uFKb73VCTT04JWDQYyHB5) | 3:39 | 2024-09-13 |  |
 | [Christmas Trees Like That](https://open.spotify.com/track/5qDZFwamBt8Mj6J9aK2wwe) | [Adam Hambrick](https://open.spotify.com/artist/5KGZH5Opah1A66dZ2TuWAX) | [Christmas Trees Like That](https://open.spotify.com/album/7cyfRGYWyJFBGdfgTyWNiV) | 3:41 | 2023-11-24 |  |
 | [Christmas When You Call](https://open.spotify.com/track/2qgMuttdSb2iaYYO73xmQt) | [Skrizzly Adams](https://open.spotify.com/artist/6cHNKcqDykgDCRgnvKdSfK) | [Christmas When You Call](https://open.spotify.com/album/1EpcSjZWYc3rNxSK4j3xDI) | 3:16 | 2023-11-24 |  |
 | [Counting Down Christmas](https://open.spotify.com/track/1UfxYzE8v24SXw4uo96gz3) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [Counting Down Christmas](https://open.spotify.com/album/473lbNRulOv0esYMKBkp4z) | 3:39 | 2023-11-24 |  |
@@ -101,6 +102,7 @@
 | [The Christmas Song](https://open.spotify.com/track/0oXcucBOAdY367JhsKQMSN) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [The Christmas Song](https://open.spotify.com/album/5Q7HgVnYrR2sW5airrAeKL) | 2:56 | 2023-11-24 |  |
 | [The Christmas Song](https://open.spotify.com/track/2F74xhEmEJ8fEXdpVlZQph) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [We Need Christmas \(Extended Version\)](https://open.spotify.com/album/4BG1fw7D43HDyTfvabUGGO) | 3:27 | 2023-11-24 |  |
 | [This Christmas](https://open.spotify.com/track/0Ox1ClOgdqxnWg76T5KjqQ) | [Shy Carter](https://open.spotify.com/artist/7JZafQsN8syJ9agEtcyP4V), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [This Christmas](https://open.spotify.com/album/7jzBGv3btGTgNchJTKxqOr) | 3:39 | 2023-11-24 |  |
+| [When I Think Of Christmas](https://open.spotify.com/track/6o2GLLmYIkzbtqxotheeKe) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [When I Think Of Christmas](https://open.spotify.com/album/52MmmN7xVswjL4XVBixhzK) | 3:25 | 2024-09-13 |  |
 | [White Christmas](https://open.spotify.com/track/1m0Vg0HfkCziCkerLLy9BF) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [A Small Town Christmas \- Deluxe Edition](https://open.spotify.com/album/2DTduc4psz9mRSfn3ABE3A) | 3:05 | 2023-11-24 |  |
 | [White Christmas](https://open.spotify.com/track/0qiauIcwYRaVSmerf90xAP) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [White Christmas](https://open.spotify.com/album/0jrdzb3xkwPWIMkoFtphdU) | 2:50 | 2023-12-01 |  |
 | [White Christmas](https://open.spotify.com/track/4Fugom3x51geY8YPvjjund) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [We Need Christmas \(Extended Version\)](https://open.spotify.com/album/4BG1fw7D43HDyTfvabUGGO) | 2:46 | 2023-11-24 |  |

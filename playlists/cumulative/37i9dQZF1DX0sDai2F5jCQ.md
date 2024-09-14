@@ -4,7 +4,7 @@
 
 > Your shortcut to the best new Hip Hop\. Cover: Big Sean
 
-370 songs - 18 hr 6 min
+371 songs - 18 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Kindness For Weakness](https://open.spotify.com/track/4XDcZALxM9M91BiUeaWCdq) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Back To Square One](https://open.spotify.com/album/5ZNpiEEn5h8L40p99UZ9XI) | 2:40 | 2023-09-22 | 2023-10-06 |
 | [KMART/TARGET](https://open.spotify.com/track/0q955SSYkWa42Uy12e2Cdl) | [Juiceboxx](https://open.spotify.com/artist/63ogWsfipDtWKUz9IaiI33) | [KMART/TARGET](https://open.spotify.com/album/2ZMCbEHHzZ5NUI5tywJ8Hc) | 2:04 | 2024-06-21 | 2024-07-19 |
 | [KNOCKA](https://open.spotify.com/track/7hBZnHzSqQxBi4KoMoiWfx) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [KNOCKA](https://open.spotify.com/album/1Yd0XLd4MGjZfp4gQ9hVda) | 2:30 | 2024-05-02 | 2024-07-12 |
+| [Kyrie & Luka](https://open.spotify.com/track/6AgMzkvClobScVCFOyxGDD) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [The Death of Slim Shady \(Coup De Grâce\): Expanded Mourner’s Edition](https://open.spotify.com/album/31hcgCSu4mlA82syOFItur) | 4:12 | 2024-09-13 |  |
 | [Lace It \(with Eminem & benny blanco\)](https://open.spotify.com/track/4qmG24ebshLXtKu9HIShBP) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Lace It \(with Eminem & benny blanco\)](https://open.spotify.com/album/5nOfPCLpHGpayGrUNHAPLt) | 3:37 | 2023-12-21 | 2024-02-09 |
 | [Landslide \(feat\. Nafe Smallz\)](https://open.spotify.com/track/25roKnaj1LrahRrGjBcqQy) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0) | [Landslide \(feat\. Nafe Smallz\)](https://open.spotify.com/album/5IraEqtcwvylKHZlBX1V92) | 3:14 | 2023-11-02 | 2024-02-23 |
 | [LAVISH](https://open.spotify.com/track/17G61CQEKui4i7Os6W6xAH) | [Shadow](https://open.spotify.com/artist/0X8YsieGthCs1x2oIoDf0X) | [LAVISH](https://open.spotify.com/album/3cDgUCAFyjCnukJy2dtKbK) | 2:59 | 2024-05-02 | 2024-08-02 |
@@ -330,7 +331,7 @@
 | [Tiffanys](https://open.spotify.com/track/3XGOPGW6OpRBsYarBlcyIb) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [ALONE](https://open.spotify.com/album/7CQWEPM5BVSDy3QS4Eb38H) | 3:08 | 2024-04-25 | 2024-05-03 |
 | [Timbo Type Beat](https://open.spotify.com/track/0qz6hQeb69yQajjfcavCOz) | [Moses](https://open.spotify.com/artist/7C4wdYXzWa7vTFXRetpTbs) | [Timbo Type Beat](https://open.spotify.com/album/4uhxTNi5IxFO5klcK4KXxK) | 2:11 | 2024-07-18 |  |
 | [Time](https://open.spotify.com/track/1KHB41wdGhshT3UBIn9ZPk) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY) | [Time](https://open.spotify.com/album/42uL2bKebx2L3HgHZAKaNY) | 2:52 | 2024-03-07 | 2024-06-28 |
-| [Tipsy \(feat\. Aitch\)](https://open.spotify.com/track/63yWignWm8ZSh1sYcP3gjh) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Tipsy \(feat\. Aitch\)](https://open.spotify.com/album/5fjHswZXTtTNkMoIX8XV7X) | 2:49 | 2024-06-21 |  |
+| [Tipsy \(feat\. Aitch\)](https://open.spotify.com/track/63yWignWm8ZSh1sYcP3gjh) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Tipsy \(feat\. Aitch\)](https://open.spotify.com/album/5fjHswZXTtTNkMoIX8XV7X) | 2:49 | 2024-06-21 | 2024-09-14 |
 | [TLC](https://open.spotify.com/track/1nXEbGvVAWGRFwVRBu1YSY) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [TLC](https://open.spotify.com/album/74SmXYF8NJlxp1PqMEXf3p) | 2:29 | 2023-10-05 | 2023-12-15 |
 | [To the Fullest](https://open.spotify.com/track/5FWl28FQk0TTZTH0JCGXX8) | [JOELZ](https://open.spotify.com/artist/0fPnhLXlekNG7O3xanuvci), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Lil Shrimp](https://open.spotify.com/artist/1FquXtV7ZjW6AnAxD3bWGq) | [To the Fullest](https://open.spotify.com/album/5ovl308eaiQdsH6uY6z6y7) | 2:21 | 2024-04-02 | 2024-06-14 |
 | [Tobey \(feat\. Big Sean and BabyTron\)](https://open.spotify.com/track/4KWeGKChLKcnZsj3sIOSkW) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Tobey \(feat\. Big Sean and BabyTron\)](https://open.spotify.com/album/65iXBHLsOnNVC5C6nVbLYf) | 4:44 | 2024-07-04 | 2024-08-23 |

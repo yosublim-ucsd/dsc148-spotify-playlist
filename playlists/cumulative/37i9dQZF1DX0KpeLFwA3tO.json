@@ -10691,6 +10691,24 @@
     },
     {
       "album": {
+        "name": "Enjoy",
+        "url": "https://open.spotify.com/album/7pKWkydV4yy6huq1W4EGKf"
+      },
+      "artists": [
+        {
+          "name": "Superbloom",
+          "url": "https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243706,
+      "name": "Enjoy",
+      "url": "https://open.spotify.com/track/12sB4k4JIOvvlKqJzEHt3U"
+    },
+    {
+      "album": {
         "name": "Enmore",
         "url": "https://open.spotify.com/album/5AV08801eMkk3I6AqcpVdw"
       },

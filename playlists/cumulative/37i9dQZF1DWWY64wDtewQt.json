@@ -1456,7 +1456,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 156843,
       "name": "AVANGARD",
       "url": "https://open.spotify.com/track/3cTgvsTJZA5qwSZ3F8sKDz"
@@ -4518,10 +4518,6 @@
         {
           "name": "princce",
           "url": "https://open.spotify.com/artist/0oGN0s7dqyWbR41yMsNs0R"
-        },
-        {
-          "name": "FR3ST",
-          "url": "https://open.spotify.com/artist/2YXKTfoEjKVzCNI0J6rHbQ"
         }
       ],
       "date_added": "2024-09-06",
@@ -10962,6 +10958,28 @@
       "duration_ms": 136394,
       "name": "PURE MONSTROSITY",
       "url": "https://open.spotify.com/track/5P9317yVhHAtnriqWrcZtJ"
+    },
+    {
+      "album": {
+        "name": "PYTHON FUNK",
+        "url": "https://open.spotify.com/album/7JslfZtjZ430btdARyxLQ4"
+      },
+      "artists": [
+        {
+          "name": "RD12",
+          "url": "https://open.spotify.com/artist/62D4KEvQMmmK88mTkkWx6Q"
+        },
+        {
+          "name": "Sayfalse",
+          "url": "https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74285,
+      "name": "PYTHON FUNK",
+      "url": "https://open.spotify.com/track/4YvxfQF9QCXykqi2ahREC4"
     },
     {
       "album": {

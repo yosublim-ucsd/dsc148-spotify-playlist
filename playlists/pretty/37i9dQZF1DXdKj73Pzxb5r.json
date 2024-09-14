@@ -1,13 +1,69 @@
 {
-  "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover: Coldiac",
-  "num_followers": 26251,
+  "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover: Fajar Merah",
+  "num_followers": 26277,
   "original_name": "Skena Gres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtnjkAAAAACBqPVKaxb2CzlLHM2hp3NK",
+  "snapshot_id": "ZuO5GwAAAAAjsZ+yO16ubSf7RUEefGsh",
   "tracks": [
+    {
+      "added_at": "2024-09-13 04:01:31",
+      "album": {
+        "name": "Bernafas Panjanglah",
+        "url": "https://open.spotify.com/album/7mjziyhO6ig1jSFl3zlkBT"
+      },
+      "artists": [
+        {
+          "name": "Fajar Merah",
+          "url": "https://open.spotify.com/artist/6uTtVUX353OX0mOyuk0zhh"
+        },
+        {
+          "name": "Budi Pasadena",
+          "url": "https://open.spotify.com/artist/6Tw7JeRgpGbAWH48Yurhjn"
+        }
+      ],
+      "duration_ms": 347652,
+      "name": "Bernafas Panjanglah",
+      "url": "https://open.spotify.com/track/0BZSrug6R49jIlFC9uCIJC"
+    },
+    {
+      "added_at": "2024-09-13 04:01:31",
+      "album": {
+        "name": "Itu Aku (feat. The Adams)",
+        "url": "https://open.spotify.com/album/1TGbv7l7GfmlirlhI0JS7v"
+      },
+      "artists": [
+        {
+          "name": "Basboi",
+          "url": "https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9"
+        },
+        {
+          "name": "The Adams",
+          "url": "https://open.spotify.com/artist/0zuIBB0gRxp4i4E2gvrcoM"
+        }
+      ],
+      "duration_ms": 287038,
+      "name": "Itu Aku (feat. The Adams)",
+      "url": "https://open.spotify.com/track/6LZ1vJSx0tgz5DzJPEyK70"
+    },
+    {
+      "added_at": "2024-09-13 04:01:31",
+      "album": {
+        "name": "Wax & Feathers",
+        "url": "https://open.spotify.com/album/0dFp2sdyM8QzDFHedQnQTc"
+      },
+      "artists": [
+        {
+          "name": "MANJA",
+          "url": "https://open.spotify.com/artist/20pZIP8Eb3BEOdPiNqupRX"
+        }
+      ],
+      "duration_ms": 250448,
+      "name": "Wax & Feathers",
+      "url": "https://open.spotify.com/track/0tcIc5MaCp672N7iI9qtIV"
+    },
     {
       "added_at": "2024-09-05 17:00:00",
       "album": {
@@ -71,6 +127,54 @@
       "duration_ms": 249750,
       "name": "Lala, Lala",
       "url": "https://open.spotify.com/track/4wDgE0ZGGdUFxlCowHoiFz"
+    },
+    {
+      "added_at": "2024-09-13 04:01:31",
+      "album": {
+        "name": "The Secret Gig (Live)",
+        "url": "https://open.spotify.com/album/29KhZpFsMFQYnqRzRV4M8R"
+      },
+      "artists": [
+        {
+          "name": "The Candle Light Children",
+          "url": "https://open.spotify.com/artist/59PyMbVTNW1JNa6aCHGFGW"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Midnight Shower (Live)",
+      "url": "https://open.spotify.com/track/6A9azjg7X3nk6vCTF8Pj6r"
+    },
+    {
+      "added_at": "2024-09-13 04:01:31",
+      "album": {
+        "name": "A Brighter Summer Day",
+        "url": "https://open.spotify.com/album/15AuM0T0mwnIHWIJx6VU3K"
+      },
+      "artists": [
+        {
+          "name": "Well Whale",
+          "url": "https://open.spotify.com/artist/1wlMD28jgD4UOQ47n1k1Rk"
+        }
+      ],
+      "duration_ms": 195992,
+      "name": "A Brighter Summer Day",
+      "url": "https://open.spotify.com/track/1liio51XbsAqtgoMtWUVW5"
+    },
+    {
+      "added_at": "2024-09-13 04:01:31",
+      "album": {
+        "name": "Fatamorgana",
+        "url": "https://open.spotify.com/album/7IyIwRaq66irZCv1n8sdEo"
+      },
+      "artists": [
+        {
+          "name": "Yudis Dwiko",
+          "url": "https://open.spotify.com/artist/5Ud9VCmLavle5o180t45fZ"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "Fatamorgana",
+      "url": "https://open.spotify.com/track/4rqEnEq8CQzOzjwU2iCHxn"
     },
     {
       "added_at": "2024-09-05 17:00:00",

@@ -2,9 +2,9 @@
 
 ### [Pop Colombia](https://open.spotify.com/playlist/37i9dQZF1DX9cp1suxagma)
 
-> Pop de los mejores artistas colombianos\. ¡Dale play! Foto: Juliana
+> Pop de los mejores artistas colombianos\. ¡Dale play! Foto: Morat
 
-233 songs - 12 hr 19 min
+234 songs - 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Cinco Letras](https://open.spotify.com/track/2TVSNN2hGNYsOay9QWCnym) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Más Sincera](https://open.spotify.com/album/3j5jBheSpnsonl8m8Fdga3) | 2:49 | 2023-11-03 | 2023-12-16 |
 | [Combustible](https://open.spotify.com/track/7B887UeJFfm4uZrWHdVLx2) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Combustible](https://open.spotify.com/album/1zNoHpkZ3BCvkW1LJfTONC) | 2:46 | 2023-09-08 | 2023-11-04 |
 | [Conquistar El Planeta](https://open.spotify.com/track/0PnQyZ2269uNKZjiwwiF9C) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Conquistar El Planeta](https://open.spotify.com/album/1eyy2wEKQLrxwchTKHC5cd) | 2:43 | 2023-03-09 |  |
-| [Cuando Nadie Ve](https://open.spotify.com/track/1Cxd4ZJJ9VOQQpNcpdcZEQ) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Cuando Nadie Ve](https://open.spotify.com/album/1TOxFOMe6FNpH8hENt9fIR) | 3:39 | 2023-02-17 |  |
+| [Cuando Nadie Ve](https://open.spotify.com/track/1Cxd4ZJJ9VOQQpNcpdcZEQ) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Cuando Nadie Ve](https://open.spotify.com/album/1TOxFOMe6FNpH8hENt9fIR) | 3:39 | 2023-02-17 | 2024-09-14 |
 | [Cuando Te Encuentre](https://open.spotify.com/track/19HWNXdno7mRCF6ILlkgdV) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Cuando Te Encuentre](https://open.spotify.com/album/3dz9ty3Lcdeyjef5IUd4GC) | 2:56 | 2023-08-25 | 2023-10-30 |
 | [Culpables](https://open.spotify.com/track/3RD0PGolM0mETGHaprwgMn) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Culpables](https://open.spotify.com/album/0ojcVRT3LvPrnuTP2VUaSA) | 3:53 | 2023-02-17 | 2023-07-01 |
 | [Cuánto Me Duele](https://open.spotify.com/track/2sqYGwxcC33aD3rh35hlOK) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Cuánto Me Duele](https://open.spotify.com/album/2JptMMyCWEp3DlNRdVYKwo) | 3:53 | 2024-02-16 | 2024-04-19 |
@@ -168,6 +168,7 @@
 | [Por Pura Curiosidad](https://open.spotify.com/track/1kLTaKK1qbtGuxggUtz8iz) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Por Pura Curiosidad](https://open.spotify.com/album/2gw6EVoQ8B0kK8Fsr6Cshn) | 3:23 | 2024-04-12 |  |
 | [Por Pura Curiosidad](https://open.spotify.com/track/1oRfaDjjGDgO3HCql0AOUy) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Agustín](https://open.spotify.com/album/0b06tYwwHqxWucHN4296YW) | 3:25 | 2023-02-17 | 2024-04-19 |
 | [Por Si Llegas A Volver](https://open.spotify.com/track/5lxDsU7ElFKfcTwZMpGVwm) | [Lucas Arnau](https://open.spotify.com/artist/5vLOlJcOKe9DfBC5LeLpSs) | [Por Si Llegas A Volver](https://open.spotify.com/album/18qObh060XNrTXgpY1YUBr) | 2:43 | 2024-04-26 | 2024-06-29 |
+| [Por Si No Te Vuelvo A Ver](https://open.spotify.com/track/20enjIUEen7tNZXTRLDxXi) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Por Si No Te Vuelvo A Ver](https://open.spotify.com/album/7HullqBwYSwjV2qZjb7DqP) | 3:05 | 2024-09-13 |  |
 | [Presiento](https://open.spotify.com/track/7nHUD2xhqkehsYk3PT6QDs) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Presiento](https://open.spotify.com/album/4AoZ74lY9YRMaPaEPSCxnF) | 2:54 | 2023-02-17 | 2023-06-24 |
 | [Prométeme](https://open.spotify.com/track/3p1GIzJRdNl2NPViLIaNRa) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Prométeme](https://open.spotify.com/album/2VVgrPRQgrESJNeq77EeTK) | 2:47 | 2024-03-15 |  |
 | [Punto Y Aparte](https://open.spotify.com/track/6RiV6DnCbfc0b2KbNvumdP) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Punto Y Aparte](https://open.spotify.com/album/36TBAPNsVzBMiu84mlyEPT) | 3:30 | 2023-02-17 | 2023-08-26 |

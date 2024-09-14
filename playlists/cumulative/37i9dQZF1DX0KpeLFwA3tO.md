@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Superbloom
 
-2,058 songs - 4 day 6 hr 33 min
+2,059 songs - 4 day 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -585,6 +585,7 @@
 | [Ends Meet](https://open.spotify.com/track/45poRdshttXq3rVcRcjTIx) | [Phantom Bay](https://open.spotify.com/artist/5WyFLIEQF4woWGUmgfyg7v) | [Ends Meet](https://open.spotify.com/album/1sYT5bfHQSyOZn03QXACWK) | 3:04 | 2023-04-20 | 2023-06-23 |
 | [Enemy](https://open.spotify.com/track/4W2XfmZoLQFAJULUzYQ26f) | [Cross Dog](https://open.spotify.com/artist/29CtkLlkoug4SJzFHWBySr) | [All Hard Feelings](https://open.spotify.com/album/4x47S1lb2Sn0nojMHfBNGb) | 3:53 | 2024-06-06 | 2024-07-12 |
 | [Enemy](https://open.spotify.com/track/6CgWLkFhymq6o4nvOuJrKC) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [Enemy](https://open.spotify.com/album/0O9aKBmu7LlWmlknQgI1Pz) | 3:22 | 2023-09-01 | 2023-10-20 |
+| [Enjoy](https://open.spotify.com/track/12sB4k4JIOvvlKqJzEHt3U) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [Enjoy](https://open.spotify.com/album/7pKWkydV4yy6huq1W4EGKf) | 4:03 | 2024-09-12 |  |
 | [Enmore](https://open.spotify.com/track/2EKuvzu6No8dBqJDXUS8b2) | [Trophy Eyes](https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI) | [Enmore](https://open.spotify.com/album/5AV08801eMkk3I6AqcpVdw) | 2:42 | 2024-07-11 | 2024-09-06 |
 | [Et si](https://open.spotify.com/track/6aE0EyoWUhkpyaIbxJ9lsx) | [MSS FRNCE](https://open.spotify.com/artist/5udREH1WTD1lhBsTRdKAfO) | [Et si](https://open.spotify.com/album/50ZsD1adTgdmlB2L38jxoO) | 2:18 | 2023-06-08 | 2024-01-19 |
 | [Eternal](https://open.spotify.com/track/265WBgFx8YH6lGFN4CS6fh) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [Eternal](https://open.spotify.com/album/1QO1HlCWGZgozbDy0AsW8b) | 2:18 | 2024-02-02 | 2024-03-22 |

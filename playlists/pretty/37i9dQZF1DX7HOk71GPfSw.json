@@ -1,13 +1,33 @@
 {
-  "description": "tsubi club is back",
-  "num_followers": 462713,
+  "description": "featuring HARU NEMURI and Frost Children",
+  "num_followers": 462734,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuBOuwAAAAC3Q4pr+vzkg6LJL3JXWg/s",
+  "snapshot_id": "ZuRXAgAAAABMS7576BuV/uPOf8arCsMW",
   "tracks": [
+    {
+      "added_at": "2024-09-13 05:00:00",
+      "album": {
+        "name": "Daijoubu Desu",
+        "url": "https://open.spotify.com/album/0BPo7iweApBxJ2wZbN8S5u"
+      },
+      "artists": [
+        {
+          "name": "HARU NEMURI",
+          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
+        },
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        }
+      ],
+      "duration_ms": 199026,
+      "name": "Daijoubu Desu",
+      "url": "https://open.spotify.com/track/7oSpZgUtuqjGlCOckaPZI2"
+    },
     {
       "added_at": "2024-08-31 20:58:29",
       "album": {
@@ -27,6 +47,42 @@
       "duration_ms": 263122,
       "name": "Exhilarate (feat. Bibi Bourelly)",
       "url": "https://open.spotify.com/track/077XTAiMeMkjv6Tz464t0r"
+    },
+    {
+      "added_at": "2024-09-10 13:48:31",
+      "album": {
+        "name": "tiny purse, tiny top",
+        "url": "https://open.spotify.com/album/6LBpAMjNSc8tm740hopJsx"
+      },
+      "artists": [
+        {
+          "name": "BRONZE AVERY",
+          "url": "https://open.spotify.com/artist/30XwDI0SEYBda3gBtutSZW"
+        },
+        {
+          "name": "Lilyisthatyou",
+          "url": "https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC"
+        }
+      ],
+      "duration_ms": 126766,
+      "name": "tiny purse, tiny top",
+      "url": "https://open.spotify.com/track/1AhoAuvhcydhLy8i7uLPBq"
+    },
+    {
+      "added_at": "2024-09-13 05:00:00",
+      "album": {
+        "name": "Jacuzzi",
+        "url": "https://open.spotify.com/album/37kFKx2MjofX4qkGxe8ua6"
+      },
+      "artists": [
+        {
+          "name": "lozeak",
+          "url": "https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc"
+        }
+      ],
+      "duration_ms": 122583,
+      "name": "Jacuzzi",
+      "url": "https://open.spotify.com/track/5HOZ5PCSIrgPY6QMvJpzsC"
     },
     {
       "added_at": "2024-09-10 13:48:31",
@@ -65,6 +121,26 @@
       "url": "https://open.spotify.com/track/0ckT2CLzy9AZrqH47AZ6yc"
     },
     {
+      "added_at": "2024-09-13 05:00:00",
+      "album": {
+        "name": "electric wasp nest (HIT EM)",
+        "url": "https://open.spotify.com/album/5MloO8FbuwRboHKEXDDrN4"
+      },
+      "artists": [
+        {
+          "name": "dj galen",
+          "url": "https://open.spotify.com/artist/18ZA3vytlUTwnjKxjohr3g"
+        },
+        {
+          "name": "galen tipton",
+          "url": "https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv"
+        }
+      ],
+      "duration_ms": 103102,
+      "name": "electric wasp nest (HIT EM)",
+      "url": "https://open.spotify.com/track/0pAS6DeXQiwYHgT9UZGyho"
+    },
+    {
       "added_at": "2024-09-10 13:48:31",
       "album": {
         "name": "Saying Nothing",
@@ -79,26 +155,6 @@
       "duration_ms": 189898,
       "name": "Saying Nothing",
       "url": "https://open.spotify.com/track/3eSj9sGBywMqtd2avjCgnB"
-    },
-    {
-      "added_at": "2024-09-10 13:48:31",
-      "album": {
-        "name": "tiny purse, tiny top",
-        "url": "https://open.spotify.com/album/6LBpAMjNSc8tm740hopJsx"
-      },
-      "artists": [
-        {
-          "name": "BRONZE AVERY",
-          "url": "https://open.spotify.com/artist/30XwDI0SEYBda3gBtutSZW"
-        },
-        {
-          "name": "Lilyisthatyou",
-          "url": "https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC"
-        }
-      ],
-      "duration_ms": 126766,
-      "name": "tiny purse, tiny top",
-      "url": "https://open.spotify.com/track/1AhoAuvhcydhLy8i7uLPBq"
     },
     {
       "added_at": "2024-08-31 20:58:29",
@@ -120,8 +176,8 @@
           "url": "https://open.spotify.com/artist/6xHMrHVijOcbhaRLAMnCLT"
         },
         {
-          "name": "Lee Suho",
-          "url": "https://open.spotify.com/artist/6lu1at7eKmZ4y0hpMbwppj"
+          "name": "\uc774\uc218\ud638",
+          "url": "https://open.spotify.com/artist/7lBTPuykSETKIYL6JYjSHP"
         }
       ],
       "duration_ms": 164519,
@@ -199,6 +255,22 @@
       "duration_ms": 177103,
       "name": "Naive",
       "url": "https://open.spotify.com/track/79czPfl52BLZvhZ89JzauG"
+    },
+    {
+      "added_at": "2024-09-13 05:00:00",
+      "album": {
+        "name": "We Were At The Club",
+        "url": "https://open.spotify.com/album/7drS6IdkQ2Wnnm2xjbE4zp"
+      },
+      "artists": [
+        {
+          "name": "Ruby Bell",
+          "url": "https://open.spotify.com/artist/3V8Eb1ys7e90m3eXLIWRSO"
+        }
+      ],
+      "duration_ms": 171746,
+      "name": "We were at the club",
+      "url": "https://open.spotify.com/track/7hhsxh6XFRnfX9GULgnnHy"
     },
     {
       "added_at": "2024-08-23 04:49:18",

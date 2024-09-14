@@ -1135,6 +1135,28 @@
     },
     {
       "album": {
+        "name": "All in your palms",
+        "url": "https://open.spotify.com/album/3hbsqrwoeGyngqpp2I2GsW"
+      },
+      "artists": [
+        {
+          "name": "Shingo Suzuki",
+          "url": "https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf"
+        },
+        {
+          "name": "\u6e21\u8fba\u7fd4\u592a",
+          "url": "https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244029,
+      "name": "All in your palms",
+      "url": "https://open.spotify.com/track/4qLNhNqH6cdCpdBPmlL3j8"
+    },
+    {
+      "album": {
         "name": "All Roads Lead To Los Angeles",
         "url": "https://open.spotify.com/album/4ikNxWCnCYNwBg2c8BwQgn"
       },
@@ -1596,6 +1618,24 @@
       "duration_ms": 133717,
       "name": "Ancient Delta",
       "url": "https://open.spotify.com/track/3UWxF4IfvfgZSbm3HnSYdW"
+    },
+    {
+      "album": {
+        "name": "And Just Keep Playing",
+        "url": "https://open.spotify.com/album/129XBUfdwfMBd7pB7eqEh8"
+      },
+      "artists": [
+        {
+          "name": "Emile Londonien",
+          "url": "https://open.spotify.com/artist/5xl5tvMxqmHqRbSUHajNS7"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166237,
+      "name": "And Just Keep Playing",
+      "url": "https://open.spotify.com/track/6bvI6NfhE9iFQ0hPx8mTVi"
     },
     {
       "album": {
@@ -4952,7 +4992,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 200240,
       "name": "Catavento",
       "url": "https://open.spotify.com/track/3i3cubvpUpy3rCfMQ4WK74"
@@ -5336,7 +5376,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 509266,
       "name": "Child You",
       "url": "https://open.spotify.com/track/2bVtXo2rzEvZpUMhsPdH0f"
@@ -11431,6 +11471,24 @@
     },
     {
       "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/1Cycpf47hfPP2qfUHJ39aP"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Ledbetter Trio",
+          "url": "https://open.spotify.com/artist/3JMctIRwcYkN013icoOggA"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 460654,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/6yhMYNsINMwSTTlAluAcyu"
+    },
+    {
+      "album": {
         "name": "Greek Honey Slick",
         "url": "https://open.spotify.com/album/0eu3SEfwUHGLl6S9D7HGiW"
       },
@@ -12815,6 +12873,40 @@
     },
     {
       "album": {
+        "name": "I Wanna Be Loved",
+        "url": "https://open.spotify.com/album/61LskMsZb2cHsqRkf3xt4H"
+      },
+      "artists": [
+        {
+          "name": "Sam Wilkes",
+          "url": "https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW"
+        },
+        {
+          "name": "Dylan Day",
+          "url": "https://open.spotify.com/artist/3tZgzfMnnKEb2WrGNO5tDp"
+        },
+        {
+          "name": "Thom Gill",
+          "url": "https://open.spotify.com/artist/3zj39NVYkiKY8KUx7lFZRL"
+        },
+        {
+          "name": "Chris Fishman",
+          "url": "https://open.spotify.com/artist/7th9o3DE5cL9VsgNLgfxsJ"
+        },
+        {
+          "name": "Craig Weinrib",
+          "url": "https://open.spotify.com/artist/0XcPeWzqZvamO9avSQiJlA"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231970,
+      "name": "I Wanna Be Loved",
+      "url": "https://open.spotify.com/track/1MTMuojYYKH3fISxfboCdK"
+    },
+    {
+      "album": {
         "name": "Ferlinghetti",
         "url": "https://open.spotify.com/album/68AL3VoUvPAaBcS8sSlWvU"
       },
@@ -13580,6 +13672,24 @@
       "duration_ms": 340290,
       "name": "Intertwined",
       "url": "https://open.spotify.com/track/5T3n7Ft1W7HhdEyr5fAFKM"
+    },
+    {
+      "album": {
+        "name": "Big Party",
+        "url": "https://open.spotify.com/album/5DrKqleSIRez91QEhwbE6N"
+      },
+      "artists": [
+        {
+          "name": "FORQ",
+          "url": "https://open.spotify.com/artist/7vXBNF4wc830rnuWRBXsz1"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299616,
+      "name": "Into Bright",
+      "url": "https://open.spotify.com/track/1u2rsYfQzhzI5Fn1cTmuCN"
     },
     {
       "album": {
@@ -15486,7 +15596,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 314481,
       "name": "Liberation",
       "url": "https://open.spotify.com/track/1gZe7qEONCZdRFn2A7UhdJ"
@@ -15870,7 +15980,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 280560,
       "name": "Live Your Best Dream",
       "url": "https://open.spotify.com/track/57Nud2GW7rZK6IGDqwOQuA"
@@ -17594,7 +17704,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 369253,
       "name": "Misanthrope's Hymn",
       "url": "https://open.spotify.com/track/55gPsGRHeTmZv33UeoFYxP"
@@ -18240,7 +18350,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 340509,
       "name": "Moving Through",
       "url": "https://open.spotify.com/track/7HzgszlXmrnOMa4cL41DKu"
@@ -19651,6 +19761,32 @@
     },
     {
       "album": {
+        "name": "Obra Akyedzi",
+        "url": "https://open.spotify.com/album/5seBDmfJUTMzQUSMCPSiB1"
+      },
+      "artists": [
+        {
+          "name": "Ebo Taylor",
+          "url": "https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI"
+        },
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        },
+        {
+          "name": "Ali Shaheed Muhammad",
+          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239360,
+      "name": "Obra Akyedzi",
+      "url": "https://open.spotify.com/track/7qK7Bk0ksb05zFPUv8pgag"
+    },
+    {
+      "album": {
         "name": "Obscene Boundaries",
         "url": "https://open.spotify.com/album/2FbEbKrA4TG7dQAo9fK6Im"
       },
@@ -19736,6 +19872,24 @@
       "duration_ms": 210447,
       "name": "ode to rahsaan",
       "url": "https://open.spotify.com/track/2L6sbcKSPsXPW6x8lyiEsU"
+    },
+    {
+      "album": {
+        "name": "Office Party Music",
+        "url": "https://open.spotify.com/album/55KuwnjdlmkjUDM1adx1pZ"
+      },
+      "artists": [
+        {
+          "name": "Walter Smith III",
+          "url": "https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262546,
+      "name": "Office Party Music",
+      "url": "https://open.spotify.com/track/7CQzimsY5qxGkRXVaYkcUW"
     },
     {
       "album": {
@@ -20306,7 +20460,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 216061,
       "name": "Os Ancestrais",
       "url": "https://open.spotify.com/track/3DIohcWhuSWPRJtVzJUFRu"
@@ -23824,7 +23978,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 215211,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/7cJ0b6aCCFHd1GknFgazIF"
@@ -24598,6 +24752,32 @@
       "duration_ms": 222056,
       "name": "Silver Afternoon - Radio Edit",
       "url": "https://open.spotify.com/track/55oUT5Xbx517XZAUuq09U4"
+    },
+    {
+      "album": {
+        "name": "Silver Lining",
+        "url": "https://open.spotify.com/album/4v0ssRlzyCbE9ZE3p4lKcq"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        },
+        {
+          "name": "Harvey Mason",
+          "url": "https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT"
+        },
+        {
+          "name": "Michael Shiono",
+          "url": "https://open.spotify.com/artist/486fu29fZ7O9PXZnHGbvKr"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287191,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/3GJyOT58yCvbpnRyD3Deqa"
     },
     {
       "album": {
@@ -26022,7 +26202,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 367973,
       "name": "Still Waters",
       "url": "https://open.spotify.com/track/4F5JGx0pSUIOWjQBZFxpcm"
@@ -28760,6 +28940,36 @@
       "duration_ms": 400311,
       "name": "The Night Before She Passed",
       "url": "https://open.spotify.com/track/6ojMeFvEymHqrWcSmSWSJv"
+    },
+    {
+      "album": {
+        "name": "The Night Owl",
+        "url": "https://open.spotify.com/album/2Re1Lpzj4hnHKBHGoyCo2j"
+      },
+      "artists": [
+        {
+          "name": "Anat Cohen",
+          "url": "https://open.spotify.com/artist/64uVMGwRMxvNbymPIveiZH"
+        },
+        {
+          "name": "James Shipp",
+          "url": "https://open.spotify.com/artist/42AqWab8M5P8MFkzcCjTCm"
+        },
+        {
+          "name": "Vitor Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/5dEIDzhH5MWFhRrM8Cb7mh"
+        },
+        {
+          "name": "Tal Mashiach",
+          "url": "https://open.spotify.com/artist/49crDbUAQYzCIDimqy2vOD"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282691,
+      "name": "The Night Owl",
+      "url": "https://open.spotify.com/track/0XSycNAeV2X4qGuxLTABs5"
     },
     {
       "album": {

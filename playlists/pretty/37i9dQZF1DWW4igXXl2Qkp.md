@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop music by independent artists and labels\. Cover: <a href="spotify:artist:43Nu4ChA6nE5ENwu8f7Jzf">Cartier</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,210 likes - 75 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,263 likes - 75 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ragù](https://open.spotify.com/track/7aUVgyMYfSJGToawDJEScM) | [Langston Bristol](https://open.spotify.com/artist/06gQAoURCBTZrRk850fP16) | [Ragù](https://open.spotify.com/album/6ZdZbpvsuwjraZ1lgxdh5P) | 2:16 |
 | 2 | [Bully](https://open.spotify.com/track/1Uk4TGALNJ7IKEiWmuHhRD) | [408 Darwin](https://open.spotify.com/artist/7GmjP8u0uwwAwBt3e3tmdS) | [Lamont](https://open.spotify.com/album/0Nkdjp76jqA0AgQ5UsNBal) | 1:56 |
 | 3 | [You Look Good](https://open.spotify.com/track/4uUQb3CStwUvv6IVgwcC5q) | [Cartier](https://open.spotify.com/artist/43Nu4ChA6nE5ENwu8f7Jzf) | [You Look Good](https://open.spotify.com/album/6RFHT3QhYPWexBvQAjNVf3) | 1:47 |
-| 4 | [im not really that spiritual!](https://open.spotify.com/track/4uaod62fHdeQD7JbfIk6ML) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [SEX DRIVE](https://open.spotify.com/album/5cAEY0anGcXg5bneAMAKXh) | 2:44 |
+| 4 | [im not really spiritual!](https://open.spotify.com/track/4uaod62fHdeQD7JbfIk6ML) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [SEX DRIVE](https://open.spotify.com/album/5cAEY0anGcXg5bneAMAKXh) | 2:44 |
 | 5 | [Money Drugs Sex](https://open.spotify.com/track/2OpSymvjW2GMuV36Wsmer8) | [sincity](https://open.spotify.com/artist/3KcdSDPFIPsZgWseaLC8Nu) | [Money Drugs Sex](https://open.spotify.com/album/0yVrUxzzBVaFHooc5R5Vl2) | 1:47 |
 | 6 | [Yukon Gold](https://open.spotify.com/track/4AhznCPwJC1rtmi5uHR9Km) | [Ché](https://open.spotify.com/artist/5T7ee6VL2z54vMk5MYxNNk) | [Yukon Gold](https://open.spotify.com/album/2SUnlUazK4vsJBOAwwE3Ia) | 3:23 |
 | 7 | [Chrome](https://open.spotify.com/track/4zh2G1zGXAZUYs5X4FKSRA) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Chrome](https://open.spotify.com/album/5fh2Gvkv8SaLkKO7S4aGVe) | 3:10 |

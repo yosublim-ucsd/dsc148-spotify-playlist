@@ -1,6 +1,6 @@
 {
   "description": "Dale duro con los \u00e9xitos perreadores virales del momento.",
-  "num_followers": 335726,
+  "num_followers": 335930,
   "original_name": "Perreo Viral",
   "owner": {
     "name": "Spotify",
@@ -608,12 +608,12 @@
       },
       "artists": [
         {
-          "name": "Taiu",
-          "url": "https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic"
-        },
-        {
           "name": "Milo j",
           "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        },
+        {
+          "name": "Taiu",
+          "url": "https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic"
         }
       ],
       "duration_ms": 128677,

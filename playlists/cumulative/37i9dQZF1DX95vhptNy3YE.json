@@ -184,10 +184,32 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 178407,
       "name": "2023",
       "url": "https://open.spotify.com/track/4sfY9Q4rQKVwxQVKo6v04i"
+    },
+    {
+      "album": {
+        "name": "24hrs",
+        "url": "https://open.spotify.com/album/0dIToP40dUYcpMW9Gwso91"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "biggie diehl",
+          "url": "https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140727,
+      "name": "24hrs",
+      "url": "https://open.spotify.com/track/7h8IgSnEDjclxGvUKyfyvj"
     },
     {
       "album": {
@@ -2031,6 +2053,36 @@
     },
     {
       "album": {
+        "name": "OS GAROTIN DE S\u00c3O GON\u00c7ALO",
+        "url": "https://open.spotify.com/album/07C0GZEXLAELHVNkBNeVXZ"
+      },
+      "artists": [
+        {
+          "name": "Os Garotin",
+          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
+        },
+        {
+          "name": "Anchietx",
+          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
+        },
+        {
+          "name": "Cupertino",
+          "url": "https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD"
+        },
+        {
+          "name": "Leo Guima",
+          "url": "https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199081,
+      "name": "calor do momento",
+      "url": "https://open.spotify.com/track/66nRZPGdQWXZhTSfvpIFDS"
+    },
+    {
+      "album": {
         "name": "Camarote 7",
         "url": "https://open.spotify.com/album/5FOMlfbmJnVv4BdMlH00pq"
       },
@@ -3492,7 +3544,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-29",
+      "date_removed": null,
       "duration_ms": 153045,
       "name": "Despedida De Solteiro - Ao Vivo",
       "url": "https://open.spotify.com/track/0ojITFsiarLcH7qzJvseWj"
@@ -4612,7 +4664,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 127228,
       "name": "Faz Completo, Chefe",
       "url": "https://open.spotify.com/track/3uxc6B7LaEeOdLe4WWzME8"
@@ -7028,7 +7080,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 641941,
       "name": "Let's Go 4",
       "url": "https://open.spotify.com/track/2InS5VWKJQbsFBKOsf1cJB"
@@ -8070,7 +8122,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 229326,
       "name": "Melhor S\u00f3",
       "url": "https://open.spotify.com/track/2LTlykcdu0gwb7zcKneo2a"
@@ -8974,7 +9026,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 120000,
       "name": "Nois \u00e9 Nois",
       "url": "https://open.spotify.com/track/1k1egPmIPWQ0J44PWgMDwA"
@@ -10464,7 +10516,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 277411,
       "name": "Perfeita",
       "url": "https://open.spotify.com/track/6a35UETcJteB4oVCSFoAqr"
@@ -11146,6 +11198,32 @@
       "duration_ms": 204938,
       "name": "Promessas - Ao Vivo",
       "url": "https://open.spotify.com/track/5eMQVA6iz94w9D4VvRCrEy"
+    },
+    {
+      "album": {
+        "name": "Taurus, Vol. 2",
+        "url": "https://open.spotify.com/album/0rAj3hMgsqWfw8hOAZzZF4"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170454,
+      "name": "Purple Rain",
+      "url": "https://open.spotify.com/track/4N8bnqG6Y8bNibjaYppqos"
     },
     {
       "album": {
@@ -13868,7 +13946,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-09",
+      "date_removed": null,
       "duration_ms": 182999,
       "name": "Vai Valer A Pena - Ao Vivo",
       "url": "https://open.spotify.com/track/6kHf0Ax9bvwziqZgo948dP"
@@ -14496,6 +14574,24 @@
       "duration_ms": 268030,
       "name": "Voc\u00ea Me Venceu / Nunca Mais Sofrer - Ao Vivo",
       "url": "https://open.spotify.com/track/04FyuzQPX9ObQuCHfvxCBo"
+    },
+    {
+      "album": {
+        "name": "Voc\u00ea Parece Com Vergonha",
+        "url": "https://open.spotify.com/album/3dNBEUQg3uKKvpoCNEwicy"
+      },
+      "artists": [
+        {
+          "name": "Ajuliacosta",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Voc\u00ea Parece Com Vergonha",
+      "url": "https://open.spotify.com/track/5r4pDmk3fENDZCc06xrHsJ"
     },
     {
       "album": {

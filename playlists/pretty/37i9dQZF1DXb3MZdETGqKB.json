@@ -1,13 +1,45 @@
 {
   "description": "All new, all blues. Cover: Sonny Gullage",
-  "num_followers": 149519,
+  "num_followers": 149537,
   "original_name": "Nu-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Ztp+QAAAAAAAnCP3UNY49+hj4fJIORDA",
+  "snapshot_id": "ZuO4/AAAAAAJzJyD5q5zurZ7jl90X8Kc",
   "tracks": [
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Go Be Free",
+        "url": "https://open.spotify.com/album/13g3kHvJyUsg5lCtf2k7up"
+      },
+      "artists": [
+        {
+          "name": "Sonny Gullage",
+          "url": "https://open.spotify.com/artist/7ksIopzJPOkJXP9Hz61oU7"
+        }
+      ],
+      "duration_ms": 259107,
+      "name": "Separate Ways",
+      "url": "https://open.spotify.com/track/1nlndNfaPWrnt3PdVS6ZCY"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "Patiently Waiting For Love",
+        "url": "https://open.spotify.com/album/4S1vgyiWLVNGjWbFvrNGhO"
+      },
+      "artists": [
+        {
+          "name": "Toby Lee",
+          "url": "https://open.spotify.com/artist/059zYnVrxnkUTiNIrHHYyz"
+        }
+      ],
+      "duration_ms": 182931,
+      "name": "Patiently Waiting For Love",
+      "url": "https://open.spotify.com/track/5ZQ3C1rFt6A2TbhnhbLOvR"
+    },
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
@@ -25,20 +57,24 @@
       "url": "https://open.spotify.com/track/7x12Qi4L61CaprFITz5Ks9"
     },
     {
-      "added_at": "2024-08-23 04:00:00",
+      "added_at": "2024-09-13 04:01:00",
       "album": {
-        "name": "Go Be Free",
-        "url": "https://open.spotify.com/album/13g3kHvJyUsg5lCtf2k7up"
+        "name": "RIOT",
+        "url": "https://open.spotify.com/album/0IE26YwVRBnDUYxPh2JfZN"
       },
       "artists": [
         {
-          "name": "Sonny Gullage",
-          "url": "https://open.spotify.com/artist/7ksIopzJPOkJXP9Hz61oU7"
+          "name": "J.Pollock",
+          "url": "https://open.spotify.com/artist/0LuT1TXrVuq4fsA0Sy3QQe"
+        },
+        {
+          "name": "Revel Day",
+          "url": "https://open.spotify.com/artist/0GlCo4o05HxdzR4Gj7GKyw"
         }
       ],
-      "duration_ms": 259107,
-      "name": "Separate Ways",
-      "url": "https://open.spotify.com/track/1nlndNfaPWrnt3PdVS6ZCY"
+      "duration_ms": 129345,
+      "name": "RIOT",
+      "url": "https://open.spotify.com/track/4oU3wup0ixElRJLzpEjRB4"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1585,22 +1621,6 @@
       "url": "https://open.spotify.com/track/3CzTG4duyqR9YXXDK9k4pc"
     },
     {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "I'll Be Glad",
-        "url": "https://open.spotify.com/album/3R5MPBDv5WTid04LeVj2l6"
-      },
-      "artists": [
-        {
-          "name": "John N\u00e9meth",
-          "url": "https://open.spotify.com/artist/3oMTO3MlDwAzROExBbqKPz"
-        }
-      ],
-      "duration_ms": 298773,
-      "name": "I'll Be Glad",
-      "url": "https://open.spotify.com/track/7kLR5l2d7Vz5kiJujbmY40"
-    },
-    {
       "added_at": "2022-09-09 04:01:00",
       "album": {
         "name": "The Message",
@@ -1643,22 +1663,6 @@
       "duration_ms": 216413,
       "name": "Give Praises",
       "url": "https://open.spotify.com/track/6Sa3ga6JEhzguGcmH4cAJV"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "One Day Closer To Home",
-        "url": "https://open.spotify.com/album/2xBkirTkPauFlljvqJWClc"
-      },
-      "artists": [
-        {
-          "name": "William Bell",
-          "url": "https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR"
-        }
-      ],
-      "duration_ms": 228832,
-      "name": "One Day Closer To Home",
-      "url": "https://open.spotify.com/track/38EnQxo9CZ5w9muuxNh1TJ"
     },
     {
       "added_at": "2022-09-02 04:02:00",

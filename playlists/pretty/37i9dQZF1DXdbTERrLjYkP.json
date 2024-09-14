@@ -1,13 +1,29 @@
 {
-  "description": "Discover the next wave of talent writing their own songs. Cover: SOFIA ISELLA",
-  "num_followers": 97880,
+  "description": "Discover the next wave of talent writing their own songs. Cover: Rhys",
+  "num_followers": 97898,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Ztp+QAAAAAB435PdLL8XWjQz6vHuV+U5",
+  "snapshot_id": "ZuO4wAAAAAAl87PRkGRCpOUzeeCW7wsc",
   "tracks": [
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Heathrow",
+        "url": "https://open.spotify.com/album/4RGF1g5xJjfcd809OFyN4F"
+      },
+      "artists": [
+        {
+          "name": "Rhys",
+          "url": "https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU"
+        }
+      ],
+      "duration_ms": 235287,
+      "name": "Heathrow",
+      "url": "https://open.spotify.com/track/0iNlcioLpaFNEpL0OkN2oa"
+    },
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
@@ -1035,22 +1051,6 @@
       "duration_ms": 148978,
       "name": "Enough of Me",
       "url": "https://open.spotify.com/track/5ypUyCDoZp66D7TagjnJhq"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "From the Next Room",
-        "url": "https://open.spotify.com/album/54IqM9oTczHCMX8sljk0AY"
-      },
-      "artists": [
-        {
-          "name": "Devon Gabriella",
-          "url": "https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i"
-        }
-      ],
-      "duration_ms": 190423,
-      "name": "talking in your sleep",
-      "url": "https://open.spotify.com/track/3FpztYu0GOJH1txtKKRnKw"
     }
   ],
   "unique_name": "Next Gen Singer-Songwriters",

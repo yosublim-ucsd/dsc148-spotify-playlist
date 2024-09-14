@@ -1,6 +1,6 @@
 {
   "description": "Descubre los temas emergentes del mundo indie. Foto: Yarea.",
-  "num_followers": 195093,
+  "num_followers": 195108,
   "original_name": "Radar Indie",
   "owner": {
     "name": "Spotify",
@@ -679,18 +679,26 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "Loros",
-        "url": "https://open.spotify.com/album/1X5XYCsVtVR2VnrPKa03Qn"
+        "name": "FOR\u00c7A",
+        "url": "https://open.spotify.com/album/2fsqUeGDraiYTG8TPgIJqe"
       },
       "artists": [
         {
-          "name": "Camellos",
-          "url": "https://open.spotify.com/artist/3uQgL10Dx1pMNIDfUiv8HW"
+          "name": "Bik\u00f4k\u00f4",
+          "url": "https://open.spotify.com/artist/5KV0DvKYHe4WwjaJghyIzV"
+        },
+        {
+          "name": "Irenegarry",
+          "url": "https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB"
+        },
+        {
+          "name": "AMORE",
+          "url": "https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S"
         }
       ],
-      "duration_ms": 146853,
-      "name": "Loros",
-      "url": "https://open.spotify.com/track/0I8lFIqizsT49Az0ShbeFp"
+      "duration_ms": 194704,
+      "name": "FOR\u00c7A",
+      "url": "https://open.spotify.com/track/3qEV8xqxiGeQUNNM1wA4S7"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -715,6 +723,22 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
+        "name": "Loros",
+        "url": "https://open.spotify.com/album/1X5XYCsVtVR2VnrPKa03Qn"
+      },
+      "artists": [
+        {
+          "name": "Camellos",
+          "url": "https://open.spotify.com/artist/3uQgL10Dx1pMNIDfUiv8HW"
+        }
+      ],
+      "duration_ms": 146853,
+      "name": "Loros",
+      "url": "https://open.spotify.com/track/0I8lFIqizsT49Az0ShbeFp"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
         "name": "Ni una sola palabra",
         "url": "https://open.spotify.com/album/1JguOmFup7ktxhEgkxPn9g"
       },
@@ -727,30 +751,6 @@
       "duration_ms": 211567,
       "name": "Ni una sola palabra",
       "url": "https://open.spotify.com/track/4jXc8gWfKCq6OWSnIyvJ5V"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
-        "name": "FOR\u00c7A",
-        "url": "https://open.spotify.com/album/2fsqUeGDraiYTG8TPgIJqe"
-      },
-      "artists": [
-        {
-          "name": "Bik\u00f4k\u00f4",
-          "url": "https://open.spotify.com/artist/5KV0DvKYHe4WwjaJghyIzV"
-        },
-        {
-          "name": "Irenegarry",
-          "url": "https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB"
-        },
-        {
-          "name": "AMORE",
-          "url": "https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S"
-        }
-      ],
-      "duration_ms": 194704,
-      "name": "FOR\u00c7A",
-      "url": "https://open.spotify.com/track/3qEV8xqxiGeQUNNM1wA4S7"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -787,6 +787,38 @@
       "duration_ms": 164130,
       "name": "Tiemblo",
       "url": "https://open.spotify.com/track/5H8Fn7NsXgnl6dE1xDfLIH"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
+        "name": "Amor A\u00e9reo",
+        "url": "https://open.spotify.com/album/01pPySmhMswlCQTBVqRADV"
+      },
+      "artists": [
+        {
+          "name": "Malva",
+          "url": "https://open.spotify.com/artist/6bccVp7HLSZxfLlQWjyPnN"
+        }
+      ],
+      "duration_ms": 164133,
+      "name": "Amor A\u00e9reo",
+      "url": "https://open.spotify.com/track/3CJCwQOn3C4pPwuU5DcVux"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
+        "name": "Igual hemos roto y no me he enterado",
+        "url": "https://open.spotify.com/album/0RJIItCjiGEGT440zHtWnt"
+      },
+      "artists": [
+        {
+          "name": "Ganges",
+          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
+        }
+      ],
+      "duration_ms": 182596,
+      "name": "Igual hemos roto y no me he enterado",
+      "url": "https://open.spotify.com/track/5gI2xygyWzvud4zTn8BZhk"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -843,38 +875,6 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "Amor A\u00e9reo",
-        "url": "https://open.spotify.com/album/01pPySmhMswlCQTBVqRADV"
-      },
-      "artists": [
-        {
-          "name": "Malva",
-          "url": "https://open.spotify.com/artist/6bccVp7HLSZxfLlQWjyPnN"
-        }
-      ],
-      "duration_ms": 164133,
-      "name": "Amor A\u00e9reo",
-      "url": "https://open.spotify.com/track/3CJCwQOn3C4pPwuU5DcVux"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
-        "name": "Igual hemos roto y no me he enterado",
-        "url": "https://open.spotify.com/album/0RJIItCjiGEGT440zHtWnt"
-      },
-      "artists": [
-        {
-          "name": "Ganges",
-          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
-        }
-      ],
-      "duration_ms": 182596,
-      "name": "Igual hemos roto y no me he enterado",
-      "url": "https://open.spotify.com/track/5gI2xygyWzvud4zTn8BZhk"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
         "name": "So payaso",
         "url": "https://open.spotify.com/album/1SJJG2C7MHBWA3FQyHrLXZ"
       },
@@ -887,22 +887,6 @@
       "duration_ms": 186040,
       "name": "So payaso",
       "url": "https://open.spotify.com/track/3OSIzpGBWIcygaZNcp099X"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
-        "name": "Quiero Hacer M\u00fasica",
-        "url": "https://open.spotify.com/album/3F4VGPvZtsPk0kgW8FudCc"
-      },
-      "artists": [
-        {
-          "name": "lusill\u00f3n",
-          "url": "https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up"
-        }
-      ],
-      "duration_ms": 200437,
-      "name": "Quiero Hacer M\u00fasica",
-      "url": "https://open.spotify.com/track/2oHSAxKWJF2Qt19fauOIuM"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -923,6 +907,22 @@
       "duration_ms": 206666,
       "name": "La Ceniza (feat. Valeria Castro)",
       "url": "https://open.spotify.com/track/7AGYsCMcwID3CBGnwPUlyj"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
+        "name": "Quiero Hacer M\u00fasica",
+        "url": "https://open.spotify.com/album/3F4VGPvZtsPk0kgW8FudCc"
+      },
+      "artists": [
+        {
+          "name": "lusill\u00f3n",
+          "url": "https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up"
+        }
+      ],
+      "duration_ms": 200437,
+      "name": "Quiero Hacer M\u00fasica",
+      "url": "https://open.spotify.com/track/2oHSAxKWJF2Qt19fauOIuM"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "Abraxas!",
-        "url": "https://open.spotify.com/album/4N4sRpZtxchJKh9X7M203i"
-      },
-      "artists": [
-        {
-          "name": "Teo Planell",
-          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
-        }
-      ],
-      "duration_ms": 249124,
-      "name": "Abraxas!",
-      "url": "https://open.spotify.com/track/1nqMR425oUyX80sqK0oBZs"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
         "name": "C\u00edrculo de Luz / Un Hogar Acogedor",
         "url": "https://open.spotify.com/album/2EdM84zZvTBx6UoOZTV3qD"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 162774,
       "name": "C\u00edrculo de Luz / Un Hogar Acogedor",
       "url": "https://open.spotify.com/track/0eQHNYQuheNBqIZ2i9qMuP"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
+        "name": "Abraxas!",
+        "url": "https://open.spotify.com/album/4N4sRpZtxchJKh9X7M203i"
+      },
+      "artists": [
+        {
+          "name": "Teo Planell",
+          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
+        }
+      ],
+      "duration_ms": 249124,
+      "name": "Abraxas!",
+      "url": "https://open.spotify.com/track/1nqMR425oUyX80sqK0oBZs"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
+        "name": "Volver",
+        "url": "https://open.spotify.com/album/2IU2GsBYHx3o2KfiepY51l"
+      },
+      "artists": [
+        {
+          "name": "Javi Chapela",
+          "url": "https://open.spotify.com/artist/1oF6Bxyk8UcW0DBH4jBGjk"
+        }
+      ],
+      "duration_ms": 233752,
+      "name": "Volver",
+      "url": "https://open.spotify.com/track/2GC46gOwfVQ4v4bYor4WzK"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
         "name": "postal de verano",
         "url": "https://open.spotify.com/album/28Y2zHNJ8X5AJrrjA5NqK5"
       },
@@ -1035,18 +1051,18 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "Volver",
-        "url": "https://open.spotify.com/album/2IU2GsBYHx3o2KfiepY51l"
+        "name": "El farsante",
+        "url": "https://open.spotify.com/album/1RUSabd7pUar8XyoLwqHa7"
       },
       "artists": [
         {
-          "name": "Javi Chapela",
-          "url": "https://open.spotify.com/artist/1oF6Bxyk8UcW0DBH4jBGjk"
+          "name": "lusill\u00f3n",
+          "url": "https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up"
         }
       ],
-      "duration_ms": 233752,
-      "name": "Volver",
-      "url": "https://open.spotify.com/track/2GC46gOwfVQ4v4bYor4WzK"
+      "duration_ms": 182768,
+      "name": "El farsante",
+      "url": "https://open.spotify.com/track/2CNMMWso8912ZK45QcyYIP"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -1063,22 +1079,6 @@
       "duration_ms": 188464,
       "name": "Mirarte",
       "url": "https://open.spotify.com/track/3hgXQHurkosJVHCHCnNh5p"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
-        "name": "El farsante",
-        "url": "https://open.spotify.com/album/1RUSabd7pUar8XyoLwqHa7"
-      },
-      "artists": [
-        {
-          "name": "lusill\u00f3n",
-          "url": "https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up"
-        }
-      ],
-      "duration_ms": 182768,
-      "name": "El farsante",
-      "url": "https://open.spotify.com/track/2CNMMWso8912ZK45QcyYIP"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "Decid\u00ed Desaparecer",
-        "url": "https://open.spotify.com/album/5uYQnJrJDPzpmXE7EwG4nO"
-      },
-      "artists": [
-        {
-          "name": "Lisasinson",
-          "url": "https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32"
-        }
-      ],
-      "duration_ms": 163001,
-      "name": "Decid\u00ed Desaparecer",
-      "url": "https://open.spotify.com/track/5qa2qTNUc9CZdL1APiLRaH"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
         "name": "Al infierno",
         "url": "https://open.spotify.com/album/18EbbTx2GElGvszuckMxzA"
       },
@@ -1187,18 +1171,18 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "Prefiero",
-        "url": "https://open.spotify.com/album/7JL7AQrwDarN3w2lUmrz4p"
+        "name": "Decid\u00ed Desaparecer",
+        "url": "https://open.spotify.com/album/5uYQnJrJDPzpmXE7EwG4nO"
       },
       "artists": [
         {
-          "name": "Begut",
-          "url": "https://open.spotify.com/artist/7JivS2YOCfCKfjRcsbS08u"
+          "name": "Lisasinson",
+          "url": "https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32"
         }
       ],
-      "duration_ms": 175663,
-      "name": "Prefiero",
-      "url": "https://open.spotify.com/track/0zkDM9b49NlqpSsAWXxecX"
+      "duration_ms": 163001,
+      "name": "Decid\u00ed Desaparecer",
+      "url": "https://open.spotify.com/track/5qa2qTNUc9CZdL1APiLRaH"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -1215,6 +1199,22 @@
       "duration_ms": 218409,
       "name": "Todas las Drogas del Mundo",
       "url": "https://open.spotify.com/track/3cvoxKYRlvu1fBnXrIdZ6U"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
+        "name": "Prefiero",
+        "url": "https://open.spotify.com/album/7JL7AQrwDarN3w2lUmrz4p"
+      },
+      "artists": [
+        {
+          "name": "Begut",
+          "url": "https://open.spotify.com/artist/7JivS2YOCfCKfjRcsbS08u"
+        }
+      ],
+      "duration_ms": 175663,
+      "name": "Prefiero",
+      "url": "https://open.spotify.com/track/0zkDM9b49NlqpSsAWXxecX"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -1323,18 +1323,22 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "I\u00b4M FUCKING FREE",
-        "url": "https://open.spotify.com/album/108w66KErOlKUiYhFVyhwX"
+        "name": "Sin dudar",
+        "url": "https://open.spotify.com/album/3E6WzQxEM7koUwGR1fw00F"
       },
       "artists": [
         {
-          "name": "Luna Zuazu",
-          "url": "https://open.spotify.com/artist/0aIiiEWwpITfHLl0JPtl0J"
+          "name": "Paco Moreno",
+          "url": "https://open.spotify.com/artist/1yLrA8a9c6qikBV0THGnux"
+        },
+        {
+          "name": "Jaguayano",
+          "url": "https://open.spotify.com/artist/0XVsHyF9ofcEFttyOHXPYG"
         }
       ],
-      "duration_ms": 151636,
-      "name": "I\u00b4M FUCKING FREE",
-      "url": "https://open.spotify.com/track/0A75n3snD4oCDr1icus0IS"
+      "duration_ms": 208750,
+      "name": "Sin dudar",
+      "url": "https://open.spotify.com/track/4gjKl2YT2zDCVORaJrIGT6"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -1355,26 +1359,6 @@
       "duration_ms": 147789,
       "name": "No Te Voy a Besar",
       "url": "https://open.spotify.com/track/1T8bKys2joybtOc4EXMHiZ"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
-        "name": "Sin dudar",
-        "url": "https://open.spotify.com/album/3E6WzQxEM7koUwGR1fw00F"
-      },
-      "artists": [
-        {
-          "name": "Paco Moreno",
-          "url": "https://open.spotify.com/artist/1yLrA8a9c6qikBV0THGnux"
-        },
-        {
-          "name": "Jaguayano",
-          "url": "https://open.spotify.com/artist/0XVsHyF9ofcEFttyOHXPYG"
-        }
-      ],
-      "duration_ms": 208750,
-      "name": "Sin dudar",
-      "url": "https://open.spotify.com/track/4gjKl2YT2zDCVORaJrIGT6"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -1427,6 +1411,22 @@
       "duration_ms": 225000,
       "name": "Rayito de Luz",
       "url": "https://open.spotify.com/track/1WmMIhHYDgetAn0dpx68Qn"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
+        "name": "I\u00b4M FUCKING FREE",
+        "url": "https://open.spotify.com/album/108w66KErOlKUiYhFVyhwX"
+      },
+      "artists": [
+        {
+          "name": "Luna Zuazu",
+          "url": "https://open.spotify.com/artist/0aIiiEWwpITfHLl0JPtl0J"
+        }
+      ],
+      "duration_ms": 151636,
+      "name": "I\u00b4M FUCKING FREE",
+      "url": "https://open.spotify.com/track/0A75n3snD4oCDr1icus0IS"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "Amargura (Cover para Movistar Plus+)",
-        "url": "https://open.spotify.com/album/27Z1U1bmE7S5COp8N9bLgL"
-      },
-      "artists": [
-        {
-          "name": "Maria Rod\u00e9s",
-          "url": "https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf"
-        }
-      ],
-      "duration_ms": 184666,
-      "name": "Amargura (Cover para Movistar Plus+)",
-      "url": "https://open.spotify.com/track/2FFsZuWAHErJD6Chl5cye8"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
         "name": "Si Tengo Suerte",
         "url": "https://open.spotify.com/album/6TrI89PomEOYFifshPg7uh"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 174545,
       "name": "Si Tengo Suerte",
       "url": "https://open.spotify.com/track/6tTdsX1G7PqeJag5rmkKRD"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
+        "name": "El Momento",
+        "url": "https://open.spotify.com/album/2SLOxCeXdq9A8HQtUcq6IX"
+      },
+      "artists": [
+        {
+          "name": "Vezinos",
+          "url": "https://open.spotify.com/artist/3zDTzz45AQFJEOl3OhH8Xp"
+        }
+      ],
+      "duration_ms": 221959,
+      "name": "Buckingham",
+      "url": "https://open.spotify.com/track/3tnZP7bdapECC5IZT8bwtR"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "El Momento",
-        "url": "https://open.spotify.com/album/2SLOxCeXdq9A8HQtUcq6IX"
+        "name": "Amargura (Cover para Movistar Plus+)",
+        "url": "https://open.spotify.com/album/27Z1U1bmE7S5COp8N9bLgL"
       },
       "artists": [
         {
-          "name": "Vezinos",
-          "url": "https://open.spotify.com/artist/3zDTzz45AQFJEOl3OhH8Xp"
+          "name": "Maria Rod\u00e9s",
+          "url": "https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf"
         }
       ],
-      "duration_ms": 221959,
-      "name": "Buckingham",
-      "url": "https://open.spotify.com/track/3tnZP7bdapECC5IZT8bwtR"
+      "duration_ms": 184666,
+      "name": "Amargura (Cover para Movistar Plus+)",
+      "url": "https://open.spotify.com/track/2FFsZuWAHErJD6Chl5cye8"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "Har\u00eda Lo Que Fuera (Menos Lo Que T\u00fa Quieras)",
-        "url": "https://open.spotify.com/album/3aYPdrenPlKJpMcE6lUNFH"
-      },
-      "artists": [
-        {
-          "name": "Maren",
-          "url": "https://open.spotify.com/artist/1dQFUUeoS0srP2hNrmzj5L"
-        }
-      ],
-      "duration_ms": 222755,
-      "name": "Har\u00eda Lo Que Fuera (Menos Lo Que T\u00fa Quieras)",
-      "url": "https://open.spotify.com/track/73oQIXIzoLHl9A3ra8GIIo"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
         "name": "COMO YO",
         "url": "https://open.spotify.com/album/1CyXLV1RNiLbbrs0lvJ5m5"
       },
@@ -1659,6 +1643,22 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
+        "name": "Har\u00eda Lo Que Fuera (Menos Lo Que T\u00fa Quieras)",
+        "url": "https://open.spotify.com/album/3aYPdrenPlKJpMcE6lUNFH"
+      },
+      "artists": [
+        {
+          "name": "Maren",
+          "url": "https://open.spotify.com/artist/1dQFUUeoS0srP2hNrmzj5L"
+        }
+      ],
+      "duration_ms": 222755,
+      "name": "Har\u00eda Lo Que Fuera (Menos Lo Que T\u00fa Quieras)",
+      "url": "https://open.spotify.com/track/73oQIXIzoLHl9A3ra8GIIo"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
         "name": "relevante",
         "url": "https://open.spotify.com/album/0crdvXNF6hemAWuVLAIdeQ"
       },
@@ -1671,22 +1671,6 @@
       "duration_ms": 235565,
       "name": "relevante",
       "url": "https://open.spotify.com/track/5MsdSGMDYL4vPzoesYcOYt"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
-        "name": "Tiempo",
-        "url": "https://open.spotify.com/album/3lVPSXg4R0UUcQqbzR71W0"
-      },
-      "artists": [
-        {
-          "name": "Kora",
-          "url": "https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD"
-        }
-      ],
-      "duration_ms": 196084,
-      "name": "Tiempo",
-      "url": "https://open.spotify.com/track/5S35ox9mhLOJHaoBgwyERN"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -1723,6 +1707,22 @@
       "duration_ms": 202413,
       "name": "Ajedrez",
       "url": "https://open.spotify.com/track/2nMK2nFgxfTJdjyZPw8O04"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
+        "name": "AL OTRO LADO",
+        "url": "https://open.spotify.com/album/6AAmEXwhaKrKWwg4hDhpXF"
+      },
+      "artists": [
+        {
+          "name": "Blackpanda",
+          "url": "https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma"
+        }
+      ],
+      "duration_ms": 148911,
+      "name": "AL OTRO LADO",
+      "url": "https://open.spotify.com/track/2VYGbSmszhkB0CKEZbVFNW"
     }
   ],
   "unique_name": "Radar Indie",

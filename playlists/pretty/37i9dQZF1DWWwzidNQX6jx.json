@@ -1,6 +1,6 @@
 {
   "description": "These songs rocked the 70s. Cover: Meat Loaf",
-  "num_followers": 3098330,
+  "num_followers": 3098353,
   "original_name": "70s Rock Anthems",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-06-26 01:48:20",
       "album": {
-        "name": "Even In The Quietest Moments",
-        "url": "https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w"
-      },
-      "artists": [
-        {
-          "name": "Supertramp",
-          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
-        }
-      ],
-      "duration_ms": 248173,
-      "name": "Give A Little Bit",
-      "url": "https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G"
-    },
-    {
-      "added_at": "2024-06-26 01:48:20",
-      "album": {
         "name": "Little Queen",
         "url": "https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF"
       },
@@ -539,18 +523,18 @@
     {
       "added_at": "2024-06-26 01:48:20",
       "album": {
-        "name": "Ramones (40th Anniversary Deluxe Edition; 2016 Remaster)",
-        "url": "https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64"
+        "name": "Even In The Quietest Moments",
+        "url": "https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w"
       },
       "artists": [
         {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+          "name": "Supertramp",
+          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
         }
       ],
-      "duration_ms": 134466,
-      "name": "Blitzkrieg Bop - 2016 Remaster",
-      "url": "https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76"
+      "duration_ms": 248173,
+      "name": "Give A Little Bit",
+      "url": "https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G"
     },
     {
       "added_at": "2024-06-26 01:48:20",
@@ -567,6 +551,22 @@
       "duration_ms": 200480,
       "name": "London Calling - Remastered",
       "url": "https://open.spotify.com/track/5jzma6gCzYtKB1DbEwFZKH"
+    },
+    {
+      "added_at": "2024-06-26 01:48:20",
+      "album": {
+        "name": "Ramones (40th Anniversary Deluxe Edition; 2016 Remaster)",
+        "url": "https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "duration_ms": 134466,
+      "name": "Blitzkrieg Bop - 2016 Remaster",
+      "url": "https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76"
     },
     {
       "added_at": "2024-06-26 01:48:20",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-06-26 01:48:20",
       "album": {
-        "name": "Lust For Life",
-        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 283360,
-      "name": "The Passenger",
-      "url": "https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd"
-    },
-    {
-      "added_at": "2024-06-26 01:48:20",
-      "album": {
         "name": "Layla And Other Assorted Love Songs (Remastered 2010)",
         "url": "https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 423840,
       "name": "Layla",
       "url": "https://open.spotify.com/track/2kkvB3RNRzwjFdGhaUA0tz"
+    },
+    {
+      "added_at": "2024-06-26 01:48:20",
+      "album": {
+        "name": "Lust For Life",
+        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 283360,
+      "name": "The Passenger",
+      "url": "https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd"
     },
     {
       "added_at": "2024-06-26 01:48:20",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2024-06-26 01:48:20",
       "album": {
+        "name": "The Wall",
+        "url": "https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "duration_ms": 192145,
+      "name": "Another Brick in the Wall, Pt. 1",
+      "url": "https://open.spotify.com/track/7K6xMPtAjTuLPNlJMLf5bS"
+    },
+    {
+      "added_at": "2024-06-26 01:48:20",
+      "album": {
         "name": "The Roaring Silence",
         "url": "https://open.spotify.com/album/1qVP93dewrI7bukJAFPIvV"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 428133,
       "name": "Blinded By The Light",
       "url": "https://open.spotify.com/track/7kNNylJ1kswWbHeRM6UDuE"
-    },
-    {
-      "added_at": "2024-06-26 01:48:20",
-      "album": {
-        "name": "Naturally",
-        "url": "https://open.spotify.com/album/2v8XEhOPoKX7iVWq5mWWBM"
-      },
-      "artists": [
-        {
-          "name": "Three Dog Night",
-          "url": "https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV"
-        }
-      ],
-      "duration_ms": 220573,
-      "name": "Joy To The World",
-      "url": "https://open.spotify.com/track/2ymeOsYijJz09LfKw3yM2x"
     },
     {
       "added_at": "2024-06-26 01:48:20",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2024-06-26 01:48:20",
       "album": {
-        "name": "The Wall",
-        "url": "https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F"
+        "name": "Naturally",
+        "url": "https://open.spotify.com/album/2v8XEhOPoKX7iVWq5mWWBM"
       },
       "artists": [
         {
-          "name": "Pink Floyd",
-          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+          "name": "Three Dog Night",
+          "url": "https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV"
         }
       ],
-      "duration_ms": 192145,
-      "name": "Another Brick in the Wall, Pt. 1",
-      "url": "https://open.spotify.com/track/7K6xMPtAjTuLPNlJMLf5bS"
+      "duration_ms": 220573,
+      "name": "Joy To The World",
+      "url": "https://open.spotify.com/track/2ymeOsYijJz09LfKw3yM2x"
     },
     {
       "added_at": "2024-06-26 01:48:20",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2024-06-26 01:48:20",
       "album": {
+        "name": "Wish You Were Here (Remastered Version)",
+        "url": "https://open.spotify.com/album/6uvBKDGlJAYLH5Vy6RQVsc"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "duration_ms": 304200,
+      "name": "Wish You Were Here - 2011 Remaster",
+      "url": "https://open.spotify.com/track/7aE5WXu5sFeNRh3Z05wwu4"
+    },
+    {
+      "added_at": "2024-06-26 01:48:20",
+      "album": {
         "name": "Billion Dollar Babies (Deluxe Reissue)",
         "url": "https://open.spotify.com/album/4SlY4oyiPg6At7vyouZ7ep"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 322093,
       "name": "Carry on Wayward Son",
       "url": "https://open.spotify.com/track/2SUpC3UgKwLVOS2FtZif9N"
-    },
-    {
-      "added_at": "2024-06-26 01:48:20",
-      "album": {
-        "name": "Wish You Were Here (Remastered Version)",
-        "url": "https://open.spotify.com/album/6uvBKDGlJAYLH5Vy6RQVsc"
-      },
-      "artists": [
-        {
-          "name": "Pink Floyd",
-          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
-        }
-      ],
-      "duration_ms": 304200,
-      "name": "Wish You Were Here - 2011 Remaster",
-      "url": "https://open.spotify.com/track/7aE5WXu5sFeNRh3Z05wwu4"
     },
     {
       "added_at": "2024-06-26 01:48:20",

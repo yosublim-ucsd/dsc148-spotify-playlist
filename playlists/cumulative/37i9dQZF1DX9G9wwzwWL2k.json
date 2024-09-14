@@ -1003,7 +1003,7 @@
     },
     {
       "album": {
-        "name": "Le Grand Cahier (Suite for String Orchestra)",
+        "name": "Le Grand Cahier - Suite for String Orchestra",
         "url": "https://open.spotify.com/album/6SqJ7tpZS9AQBMq7QFjzWA"
       },
       "artists": [
@@ -1023,8 +1023,8 @@
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 140960,
-      "name": "Le grand cahier: X. L'incendie",
+      "duration_ms": 139480,
+      "name": "Le grand cahier",
       "url": "https://open.spotify.com/track/2JIfLTeDcerjIMZOenVr2Z"
     },
     {
@@ -2874,6 +2874,28 @@
       "duration_ms": 479000,
       "name": "The Planets, Op. 32: Mars, the Bringer of War",
       "url": "https://open.spotify.com/track/307XDlQfKttacMlImCMrOu"
+    },
+    {
+      "album": {
+        "name": "Sir Arthur Bliss \u2013 The Decca Originals",
+        "url": "https://open.spotify.com/album/0BoiYUfzLwTqv8Hyl1nftG"
+      },
+      "artists": [
+        {
+          "name": "Arthur Bliss",
+          "url": "https://open.spotify.com/artist/3HbYuCFRHmbFH1spvdBL0j"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227530,
+      "name": "Things to Come: 6. March",
+      "url": "https://open.spotify.com/track/7tA7RnIuHDJN9SK1KFn4rR"
     },
     {
       "album": {

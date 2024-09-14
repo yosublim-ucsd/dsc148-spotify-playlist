@@ -606,7 +606,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 189973,
       "name": "HOODIE E BANBAJI",
       "url": "https://open.spotify.com/track/3VNlscYTSeZqbREFoOe3KE"
@@ -708,7 +708,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 178706,
       "name": "JUST RIGHT (feat. SOLE)",
       "url": "https://open.spotify.com/track/6wevHkyjRNc6B92Mt4mHaC"
@@ -901,6 +901,24 @@
     },
     {
       "album": {
+        "name": "19.99",
+        "url": "https://open.spotify.com/album/4AvNQasUXJ4uHHmtypy6BF"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164920,
+      "name": "Nice Guy",
+      "url": "https://open.spotify.com/track/6pqyZNnLKyJKtrlf42FQoq"
+    },
+    {
+      "album": {
         "name": "NO MORE",
         "url": "https://open.spotify.com/album/03V3DsgstV70JlF61ZFEQz"
       },
@@ -1068,6 +1086,24 @@
       "duration_ms": 204760,
       "name": "Seoul",
       "url": "https://open.spotify.com/track/4b9LMCUaw55QajVRfrfPyS"
+    },
+    {
+      "album": {
+        "name": "Rewrite",
+        "url": "https://open.spotify.com/album/5H80DTznH6q3sVcb7aKAid"
+      },
+      "artists": [
+        {
+          "name": "Yerin",
+          "url": "https://open.spotify.com/artist/7htnZJTm5SZsmKRrnOL5mk"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167840,
+      "name": "SHINE",
+      "url": "https://open.spotify.com/track/6oU1Dtkowgpb6BxImOo2ep"
     },
     {
       "album": {

@@ -9507,6 +9507,28 @@
     },
     {
       "album": {
+        "name": "Opp Pack",
+        "url": "https://open.spotify.com/album/2kVUSMnybUMA4YU9SKk7W3"
+      },
+      "artists": [
+        {
+          "name": "Homixide Osama",
+          "url": "https://open.spotify.com/artist/7uFNW0nhoiL4DfaHnujzRi"
+        },
+        {
+          "name": "R5",
+          "url": "https://open.spotify.com/artist/5aptPwTkTKmlPx6csmNJLA"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163448,
+      "name": "Opp Pack",
+      "url": "https://open.spotify.com/track/2YMZx9eL86ydZ6QxhJcL4w"
+    },
+    {
+      "album": {
         "name": "Kid A",
         "url": "https://open.spotify.com/album/19RUXBFyM4PpmrLRdtqWbp"
       },
@@ -12766,6 +12788,24 @@
       "duration_ms": 300200,
       "name": "Temperature's Rising (feat. Crystal Johnson)",
       "url": "https://open.spotify.com/track/0Y1wsOHYGbNNNGeYjQJ8BL"
+    },
+    {
+      "album": {
+        "name": "Temple Run",
+        "url": "https://open.spotify.com/album/4unSzhGO7gkGbKrNzMQC0k"
+      },
+      "artists": [
+        {
+          "name": "Homixide Osama",
+          "url": "https://open.spotify.com/artist/7uFNW0nhoiL4DfaHnujzRi"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119457,
+      "name": "Temple Run",
+      "url": "https://open.spotify.com/track/6W9T3qsS1Z5Is1g3afNfCY"
     },
     {
       "album": {

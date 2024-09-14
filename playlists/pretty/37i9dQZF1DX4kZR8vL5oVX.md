@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Playlist réalisée avec Styleto \(du titre \#1 au \#15\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,330 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,341 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 29 | [Paqueta](https://open.spotify.com/track/1EXYDolm4Q74aoGv2qcjxZ) | [Merveille](https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8) | [Paqueta](https://open.spotify.com/album/7z0iznP5UOTtityREHUvX0) | 2:40 |
 | 30 | [Le collectionneur](https://open.spotify.com/track/4uHRGbSeUqHVxOZBaHRkAM) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Le collectionneur](https://open.spotify.com/album/6D7C48WlnzUf3Hcjv9AgIL) | 3:21 |
 | 31 | [Stalker](https://open.spotify.com/track/18LJA309PjDoViodm94Us1) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [ATHENA \- Réédition](https://open.spotify.com/album/77womOdnf0Ttqnv7VeEDQn) | 2:51 |
-| 32 | [La pluie](https://open.spotify.com/track/1xNEjz5Wfhb5ApOMN0Xr8Q) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [La pluie](https://open.spotify.com/album/13N4j77R6XsNHGwwtl6npd) | 2:41 |
+| 32 | [la pluie](https://open.spotify.com/track/1xNEjz5Wfhb5ApOMN0Xr8Q) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [la pluie](https://open.spotify.com/album/13N4j77R6XsNHGwwtl6npd) | 2:41 |
 | 33 | [Mon épaule](https://open.spotify.com/track/5nzGstfDNJdV1LvN7rehAN) | [Clou](https://open.spotify.com/artist/7DPzuksj4fnGIb4F9dVswN) | [Mon épaule](https://open.spotify.com/album/0Durz9Xr5OHJJG7P8NT67b) | 2:43 |
 | 34 | [Space Invaders](https://open.spotify.com/track/4SKVcIaAP4JCr8HFRWtKqv) | [Liv del Estal](https://open.spotify.com/artist/2QFqSnoWpKrh7zmNrFQltY) | [Space Invaders](https://open.spotify.com/album/7uJCaBM2wxgEvy2GWggNOY) | 4:17 |
 | 35 | [L'or & le fer](https://open.spotify.com/track/5jJDOgQ8ZY5cDUvWpAEANZ) | [Leslie Medina](https://open.spotify.com/artist/6v4kwEeHOGcxcS9PtYAoYN) | [L'or & le fer](https://open.spotify.com/album/75OHOkrQ8bYdZvTN6a1YpH) | 3:06 |

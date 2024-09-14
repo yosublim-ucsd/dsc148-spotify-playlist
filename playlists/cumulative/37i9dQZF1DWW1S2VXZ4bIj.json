@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e41\u0e25\u0e30\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e07\u0e01\u0e23\u0e30\u0e41\u0e2a\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Paper Planes, JOEY PHUWASIT",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e41\u0e25\u0e30\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e07\u0e01\u0e23\u0e30\u0e41\u0e2a\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Mirrr",
   "name": "\u0e2e\u0e34\u0e15\u0e15\u0e34\u0e14\u0e01\u0e23\u0e30\u0e41\u0e2a",
   "tracks": [
     {
@@ -413,6 +413,24 @@
     },
     {
       "album": {
+        "name": "I Just Wanna Know",
+        "url": "https://open.spotify.com/album/58D3a05FTQi0Eo20WgYWWO"
+      },
+      "artists": [
+        {
+          "name": "PUN",
+          "url": "https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226470,
+      "name": "I Just Wanna Know",
+      "url": "https://open.spotify.com/track/2hmelRMnKJLo5toNZ5yqZ7"
+    },
+    {
+      "album": {
         "name": "Infatuated",
         "url": "https://open.spotify.com/album/063f5CEuep3S8XuEEHxKAd"
       },
@@ -446,6 +464,24 @@
       "duration_ms": 225031,
       "name": "intentions",
       "url": "https://open.spotify.com/track/1sczjXEYHpbpCsaA25ZzPv"
+    },
+    {
+      "album": {
+        "name": "LIAR",
+        "url": "https://open.spotify.com/album/5ykB9BRD65FWWxEuiED21R"
+      },
+      "artists": [
+        {
+          "name": "BUS",
+          "url": "https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211475,
+      "name": "LIAR",
+      "url": "https://open.spotify.com/track/5dpJemvWkTEM3qIKSbKB82"
     },
     {
       "album": {
@@ -768,7 +804,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 169533,
       "name": "Smoke",
       "url": "https://open.spotify.com/track/6kEU60ykxhb0shZMTiPWZL"
@@ -848,7 +884,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 190427,
       "name": "The Emptiness Machine",
       "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
@@ -1539,6 +1575,28 @@
     },
     {
       "album": {
+        "name": "\u0e15\u0e31\u0e27\u0e23\u0e49\u0e32\u0e22 - Single",
+        "url": "https://open.spotify.com/album/6gR6kXiKk9akDXSl7sNEip"
+      },
+      "artists": [
+        {
+          "name": "KLEAR",
+          "url": "https://open.spotify.com/artist/2PfxoKmrvMLvTAkn5azNZ6"
+        },
+        {
+          "name": "Bank Preeti",
+          "url": "https://open.spotify.com/artist/21v66ukzQXafep4Z8JNLXU"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267680,
+      "name": "\u0e15\u0e31\u0e27\u0e23\u0e49\u0e32\u0e22",
+      "url": "https://open.spotify.com/track/2XK9vFFlRxSiDxq7Y4J4Oz"
+    },
+    {
+      "album": {
         "name": "Rainbow Landscape",
         "url": "https://open.spotify.com/album/1ZwmlC8iroJsQ9o76cYdCd"
       },
@@ -1568,7 +1626,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 196896,
       "name": "\u0e15\u0e34\u0e14\u0e1d\u0e19",
       "url": "https://open.spotify.com/track/6rk1rGqpNXTeu7kVsB049F"
@@ -1989,6 +2047,24 @@
     },
     {
       "album": {
+        "name": "\u0e22\u0e49\u0e33\u0e04\u0e34\u0e14\u0e22\u0e49\u0e33\u0e17\u0e33 (OCD)",
+        "url": "https://open.spotify.com/album/48Ws0J3uOkPaAfLQNOZP3M"
+      },
+      "artists": [
+        {
+          "name": "Mirrr",
+          "url": "https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234135,
+      "name": "\u0e22\u0e49\u0e33\u0e04\u0e34\u0e14\u0e22\u0e49\u0e33\u0e17\u0e33 (OCD)",
+      "url": "https://open.spotify.com/track/0xVC4DZ1q7TSv1CBRgisRM"
+    },
+    {
+      "album": {
         "name": "\u0e23\u0e16\u0e44\u0e1f\u0e1a\u0e19\u0e1f\u0e49\u0e32",
         "url": "https://open.spotify.com/album/5boT1tGdFqjrzzDSqLrrsC"
       },
@@ -2354,7 +2430,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 230277,
       "name": "\u0e2b\u0e49\u0e2d\u0e07\u0e40\u0e25\u0e47\u0e01 (Wishful)",
       "url": "https://open.spotify.com/track/1L2Kyu9eOSz9PVKyUloBM6"
@@ -3110,6 +3186,46 @@
       "duration_ms": 202153,
       "name": "\u0e44\u0e21\u0e48\u0e1e\u0e39\u0e14\u0e2b\u0e19\u0e48\u0e2d\u0e22\u0e40\u0e2b\u0e23\u0e2d (Say Something)",
       "url": "https://open.spotify.com/track/0Xy2kapJcAPzwyRzrtxHi1"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e40\u0e18\u0e2d\u0e41\u0e25\u0e49\u0e27 - Single",
+        "url": "https://open.spotify.com/album/47Dp2S3NekrjRlJ2pO28yT"
+      },
+      "artists": [
+        {
+          "name": "MEYOU",
+          "url": "https://open.spotify.com/artist/4G5OlxtrOm9ADmu3VZgFbG"
+        },
+        {
+          "name": "SPRITE",
+          "url": "https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "\u0e44\u0e21\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e40\u0e18\u0e2d\u0e41\u0e25\u0e49\u0e27",
+      "url": "https://open.spotify.com/track/5avoDIqACMBIPebBXBQCFK"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e40\u0e04\u0e22\u0e23\u0e39\u0e49",
+        "url": "https://open.spotify.com/album/0QYsMM0FeG6QryoPlf54io"
+      },
+      "artists": [
+        {
+          "name": "Safeplanet",
+          "url": "https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302903,
+      "name": "\u0e44\u0e21\u0e48\u0e40\u0e04\u0e22\u0e23\u0e39\u0e49",
+      "url": "https://open.spotify.com/track/5HCwzA8KgJa7MVj0Gs3pL6"
     },
     {
       "album": {

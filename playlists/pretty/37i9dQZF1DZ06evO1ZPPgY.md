@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZPPgY.md) - [plain]
 
 ### [This Is Barry White](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1ZPPgY)
 
-> This is Barry White\. The essential tracks, all in one playlist.
+> This Is Barry White\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,266 likes - 50 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,299 likes - 50 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZPPgY.md) - [plain]
 | 32 | [I've Found Someone](https://open.spotify.com/track/4RlRqOg8hNWvJ0sY3gCimo) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White's Greatest Hits](https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0) | 3:40 |
 | 33 | [Playing Your Game, Baby](https://open.spotify.com/track/6dwMebV6lVtwFiecdb8aSD) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White Sings For Someone You Love](https://open.spotify.com/album/65orbyfwR353KTYqz3seIu) | 7:13 |
 | 34 | [Slow Jams](https://open.spotify.com/track/6CtrSJaPZxcGn991fLgxJF) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK), [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt), [Portrait](https://open.spotify.com/artist/08fM8wx6uuEwagFsUvQp35), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [Q's Jook Joint](https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1) | 7:30 |
-| 35 | [Volare](https://open.spotify.com/track/1LqKlCrgljbKSrjwIfF6cy) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Put Me In Your Mix](https://open.spotify.com/album/6ZB7sec84vKJ6mBXocdfwL) | 5:45 |
-| 36 | [I Love You More Than Anything \(In This World Girl\)](https://open.spotify.com/track/4Ltz2LvHKcegbx1D6PpdVI) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Can't Get Enough](https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG) | 4:59 |
+| 35 | [I Love You More Than Anything \(In This World Girl\)](https://open.spotify.com/track/4Ltz2LvHKcegbx1D6PpdVI) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Can't Get Enough](https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG) | 4:59 |
+| 36 | [Volare](https://open.spotify.com/track/1LqKlCrgljbKSrjwIfF6cy) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Put Me In Your Mix](https://open.spotify.com/album/6ZB7sec84vKJ6mBXocdfwL) | 5:45 |
 | 37 | [You Turned My Whole World Around](https://open.spotify.com/track/1CHYcb0rNFrqf4dWsVmI82) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White Sings For Someone You Love](https://open.spotify.com/album/65orbyfwR353KTYqz3seIu) | 7:47 |
 | 38 | [You're The First, The Last, My Everything \- Live](https://open.spotify.com/track/62OKQRxgusW4mvvUwLjGye) | [Peter Sterling Radcliffe](https://open.spotify.com/artist/54NMfgOhekddlihvy6VRdg), [Tony Sepe](https://open.spotify.com/artist/5OQcWjJISTnIWZT7iMGfjL), [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt), [Luciano Pavarotti](https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU) | [Pavarotti \- The Greatest Hits](https://open.spotify.com/album/2P3b56yTzSqL3HLM25qUq4) | 4:27 |
 | 39 | [Anything You Want Me To](https://open.spotify.com/track/7wBvzcLC4iXR5UxKVvPPPm) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [The Complete 20th Century Records Singles \(1973\-1979\)](https://open.spotify.com/album/4jpsKvXyMWyAnr778cJ4Um) | 5:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZPPgY.md) - [plain]
 | 49 | [The Erotic Garden \- After Hours Version Of Secret Garden](https://open.spotify.com/track/0gFPNhlNSgWj3O7J07zyAF) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK), [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt), [Al B\. Sure!](https://open.spotify.com/artist/1fvz0vd4P0LNMkAysF1ivk), [James Ingram](https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo), [El DeBarge](https://open.spotify.com/artist/5xO4f5QyPMYnCPRyRveBSD) | [Unlimited](https://open.spotify.com/album/6Rnik7astHNQkf29K7Ktua) | 8:52 |
 | 50 | [I Can't Believe You Love Me](https://open.spotify.com/track/3Yqv3fzCx7M5Hs4kKtX7aS) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Can't Get Enough](https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG) | 10:21 |
 
-Snapshot ID: `ZuDdgAAAAADnYlhI+fN1Dp0jxBqh0yvp`
+Snapshot ID: `ZuIvAAAAAACs5nh6zgbvns+o3KG5oh0C`

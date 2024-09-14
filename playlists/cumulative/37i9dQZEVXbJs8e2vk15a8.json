@@ -862,7 +862,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 175280,
       "name": "444",
       "url": "https://open.spotify.com/track/1o4xkdBe0RjSf2u6VXi4OI"
@@ -2970,7 +2970,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 184074,
       "name": "Amor Fugaz",
       "url": "https://open.spotify.com/track/21KvzJjEbMwaS6FYYGstkN"
@@ -7602,6 +7602,24 @@
       "duration_ms": 207000,
       "name": "CARRO RE-KL (with Pailita)",
       "url": "https://open.spotify.com/track/1IoRN5PB6bnygJEiu6K4TQ"
+    },
+    {
+      "album": {
+        "name": "epistolares",
+        "url": "https://open.spotify.com/album/3x6Ske6l38f2tclsOBywWv"
+      },
+      "artists": [
+        {
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147399,
+      "name": "carta a mi pap\u00e1",
+      "url": "https://open.spotify.com/track/7t5RhqDNaX82agwvyNhBI7"
     },
     {
       "album": {
@@ -12831,6 +12849,24 @@
     },
     {
       "album": {
+        "name": "El Huaso Chileno",
+        "url": "https://open.spotify.com/album/4C0sHT0pP99jmMLWCNAMok"
+      },
+      "artists": [
+        {
+          "name": "Los Peticeros",
+          "url": "https://open.spotify.com/artist/4BqwLiEH9JwfQfaaX2XNGG"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125500,
+      "name": "El Huaso Chileno",
+      "url": "https://open.spotify.com/track/6w23hdGd5Rc5oAkXQB9uBN"
+    },
+    {
+      "album": {
         "name": "El Jefe",
         "url": "https://open.spotify.com/album/12v3LOTr03ykEMdyekvM1X"
       },
@@ -13296,7 +13332,7 @@
           "url": "https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1"
         },
         {
-          "name": "Humbe",
+          "name": "HUMBE",
           "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
         }
       ],
@@ -17312,7 +17348,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-12",
+      "date_removed": null,
       "duration_ms": 218423,
       "name": "Good Luck, Babe!",
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
@@ -37392,7 +37428,7 @@
       ],
       "date_added": "2024-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-11",
+      "date_removed": null,
       "duration_ms": 146854,
       "name": "Si Tu Me Amaras",
       "url": "https://open.spotify.com/track/10u4VWraLZ11bJ0uFMp9Lk"
@@ -38234,7 +38270,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 142022,
       "name": "Soltera - W Sound 01",
       "url": "https://open.spotify.com/track/13BDiikG6y5o5cQTK0HpW6"
@@ -39708,7 +39744,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 157279,
       "name": "Taste",
       "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"

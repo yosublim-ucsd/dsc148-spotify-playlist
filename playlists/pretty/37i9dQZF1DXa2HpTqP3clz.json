@@ -1,6 +1,6 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Dan Tyminski",
-  "num_followers": 163619,
+  "num_followers": 163646,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Back Porch Bluegrass",
-        "url": "https://open.spotify.com/album/3g3awNPtHQE1qcyBOTnlea"
-      },
-      "artists": [
-        {
-          "name": "The Dillards",
-          "url": "https://open.spotify.com/artist/3WAkTbMThUvVRq5keECFtS"
-        }
-      ],
-      "duration_ms": 170440,
-      "name": "Polly Vaughn",
-      "url": "https://open.spotify.com/track/0EPJB1ozouVQYW1qfHtWS1"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
         "name": "Wake Me When It's Over",
         "url": "https://open.spotify.com/album/0TagfK04olSVvnfHtWbhJz"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 258393,
       "name": "Wake Me When It's Over",
       "url": "https://open.spotify.com/track/0J10lTnQV1rosvX0jYYX5J"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Back Porch Bluegrass",
+        "url": "https://open.spotify.com/album/3g3awNPtHQE1qcyBOTnlea"
+      },
+      "artists": [
+        {
+          "name": "The Dillards",
+          "url": "https://open.spotify.com/artist/3WAkTbMThUvVRq5keECFtS"
+        }
+      ],
+      "duration_ms": 170440,
+      "name": "Polly Vaughn",
+      "url": "https://open.spotify.com/track/0EPJB1ozouVQYW1qfHtWS1"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Heading East to West Virginia",
-        "url": "https://open.spotify.com/album/7LHuigW10cgAx81EuO2AVX"
-      },
-      "artists": [
-        {
-          "name": "Russell Moore & IIIrd Tyme Out",
-          "url": "https://open.spotify.com/artist/435e39CJddwkCUEK86yIkg"
-        }
-      ],
-      "duration_ms": 156536,
-      "name": "Heading East to West Virginia",
-      "url": "https://open.spotify.com/track/1UXOHhE9f2YG46Vj4p3xgr"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
         "name": "The Whole of the Moon",
         "url": "https://open.spotify.com/album/6q6ny6rMWxwRnPWI3AScqC"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 282794,
       "name": "The Whole of the Moon",
       "url": "https://open.spotify.com/track/4TGWzN6QyzwIPAPCzgjjfs"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Heading East to West Virginia",
+        "url": "https://open.spotify.com/album/7LHuigW10cgAx81EuO2AVX"
+      },
+      "artists": [
+        {
+          "name": "Russell Moore & IIIrd Tyme Out",
+          "url": "https://open.spotify.com/artist/435e39CJddwkCUEK86yIkg"
+        }
+      ],
+      "duration_ms": 156536,
+      "name": "Heading East to West Virginia",
+      "url": "https://open.spotify.com/track/1UXOHhE9f2YG46Vj4p3xgr"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Saint Anthony",
-        "url": "https://open.spotify.com/album/7CSeXBSuRmHP4esFKvEl1A"
-      },
-      "artists": [
-        {
-          "name": "Brit Taylor",
-          "url": "https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC"
-        }
-      ],
-      "duration_ms": 163149,
-      "name": "Saint Anthony",
-      "url": "https://open.spotify.com/track/3eFYwua5oDXpONK6PXUc6r"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
         "name": "Blue Railroad Train",
         "url": "https://open.spotify.com/album/30ccEntmZBvjhe7KuuP0vm"
       },
@@ -927,6 +911,22 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
+        "name": "Saint Anthony",
+        "url": "https://open.spotify.com/album/7CSeXBSuRmHP4esFKvEl1A"
+      },
+      "artists": [
+        {
+          "name": "Brit Taylor",
+          "url": "https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC"
+        }
+      ],
+      "duration_ms": 163149,
+      "name": "Saint Anthony",
+      "url": "https://open.spotify.com/track/3eFYwua5oDXpONK6PXUc6r"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
         "name": "Wildflowers",
         "url": "https://open.spotify.com/album/1nq5kIiewuJN5Z5oAOPWAQ"
       },
@@ -963,6 +963,22 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
+        "name": "Highs and Lows",
+        "url": "https://open.spotify.com/album/6gsuZrOn3AeGlxaREdp5HZ"
+      },
+      "artists": [
+        {
+          "name": "Hogslop String Band",
+          "url": "https://open.spotify.com/artist/4BATXGCjpDls0URO3Pt1kO"
+        }
+      ],
+      "duration_ms": 256997,
+      "name": "Highs and Lows",
+      "url": "https://open.spotify.com/track/1GMidgnsaRuVFbm3T3DLEm"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
         "name": "Can't Live Without Love",
         "url": "https://open.spotify.com/album/6nNbG7l5MjTclnCUJSPaXj"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 200400,
       "name": "Can't Live Without Love",
       "url": "https://open.spotify.com/track/2lA4tBOeDhq58itnkz7tUp"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Highs and Lows",
-        "url": "https://open.spotify.com/album/6gsuZrOn3AeGlxaREdp5HZ"
-      },
-      "artists": [
-        {
-          "name": "Hogslop String Band",
-          "url": "https://open.spotify.com/artist/4BATXGCjpDls0URO3Pt1kO"
-        }
-      ],
-      "duration_ms": 256997,
-      "name": "Highs and Lows",
-      "url": "https://open.spotify.com/track/1GMidgnsaRuVFbm3T3DLEm"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Old Gods",
-        "url": "https://open.spotify.com/album/1CqWxtmT4q6Cn6cJNYQwxk"
-      },
-      "artists": [
-        {
-          "name": "Emily Scott Robinson",
-          "url": "https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM"
-        }
-      ],
-      "duration_ms": 226466,
-      "name": "Old Gods",
-      "url": "https://open.spotify.com/track/7vp3GZh0b4cgqKZcuVEpbD"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
         "name": "Something Higher",
         "url": "https://open.spotify.com/album/5SxBT8RsPPkxVX4OWMtzFj"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 207600,
       "name": "Winter's Gone",
       "url": "https://open.spotify.com/track/0uiQQlDpytEw0HXD1Xp0Bp"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Old Gods",
+        "url": "https://open.spotify.com/album/1CqWxtmT4q6Cn6cJNYQwxk"
+      },
+      "artists": [
+        {
+          "name": "Emily Scott Robinson",
+          "url": "https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM"
+        }
+      ],
+      "duration_ms": 226466,
+      "name": "Old Gods",
+      "url": "https://open.spotify.com/track/7vp3GZh0b4cgqKZcuVEpbD"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
+        "name": "No Fear",
+        "url": "https://open.spotify.com/album/7h6jcDbRnEgGckNmHETnxS"
+      },
+      "artists": [
+        {
+          "name": "Sister Sadie",
+          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Cannonball",
+      "url": "https://open.spotify.com/track/1O3PgBXag8FXqk0s7gFQ3A"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
         "name": "White Line Fever",
         "url": "https://open.spotify.com/album/5h6xmbk0GucwMFn6M6irAL"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 201051,
       "name": "White Line Fever",
       "url": "https://open.spotify.com/track/5m9cwQGKeurtZ5P9CqFo1o"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "No Fear",
-        "url": "https://open.spotify.com/album/7h6jcDbRnEgGckNmHETnxS"
-      },
-      "artists": [
-        {
-          "name": "Sister Sadie",
-          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Cannonball",
-      "url": "https://open.spotify.com/track/1O3PgBXag8FXqk0s7gFQ3A"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Hey Blue Eyed Girl",
-        "url": "https://open.spotify.com/album/0iejH3OR2VXe7lsYrxH8AP"
-      },
-      "artists": [
-        {
-          "name": "Cody Sherman",
-          "url": "https://open.spotify.com/artist/5BCBTcz3o3Uv5KRTHSSCsa"
-        }
-      ],
-      "duration_ms": 154720,
-      "name": "Hey Blue Eyed Girl",
-      "url": "https://open.spotify.com/track/17Nj11TnEg5iOs7hOWvQ8k"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
         "name": "Mary Ann is a Pistol",
         "url": "https://open.spotify.com/album/4ELCAWPMPJn0WhWa1rbM0z"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 161333,
       "name": "Mary Ann is a Pistol",
       "url": "https://open.spotify.com/track/7A79xett0AOEe8NVpMC2bg"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Hey Blue Eyed Girl",
+        "url": "https://open.spotify.com/album/0iejH3OR2VXe7lsYrxH8AP"
+      },
+      "artists": [
+        {
+          "name": "Cody Sherman",
+          "url": "https://open.spotify.com/artist/5BCBTcz3o3Uv5KRTHSSCsa"
+        }
+      ],
+      "duration_ms": 154720,
+      "name": "Hey Blue Eyed Girl",
+      "url": "https://open.spotify.com/track/17Nj11TnEg5iOs7hOWvQ8k"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "As the Crow Flies",
-        "url": "https://open.spotify.com/album/2z8ZzHSCHFi0UWjSdqmqg5"
-      },
-      "artists": [
-        {
-          "name": "Green Mountain Grass",
-          "url": "https://open.spotify.com/artist/1i5eYanA9k3jyo0RfZUIwn"
-        }
-      ],
-      "duration_ms": 206373,
-      "name": "The Banker",
-      "url": "https://open.spotify.com/track/0wKrA8JpLv4NHNXIpKA8h7"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
         "name": "My Little Girl in Tennessee (Live)",
         "url": "https://open.spotify.com/album/2KCEPrxG000PkTJy4GyUs5"
       },
@@ -1715,18 +1699,18 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Blues Are Close at Hand",
-        "url": "https://open.spotify.com/album/2ZfEgw1Jsfhw34G7cwtmkM"
+        "name": "As the Crow Flies",
+        "url": "https://open.spotify.com/album/2z8ZzHSCHFi0UWjSdqmqg5"
       },
       "artists": [
         {
-          "name": "The Po' Ramblin' Boys",
-          "url": "https://open.spotify.com/artist/65XZgRZMfuSawjuSFrnz0o"
+          "name": "Green Mountain Grass",
+          "url": "https://open.spotify.com/artist/1i5eYanA9k3jyo0RfZUIwn"
         }
       ],
-      "duration_ms": 159427,
-      "name": "Blues Are Close at Hand",
-      "url": "https://open.spotify.com/track/16KCAFsjJn79OA3sh9iedu"
+      "duration_ms": 206373,
+      "name": "The Banker",
+      "url": "https://open.spotify.com/track/0wKrA8JpLv4NHNXIpKA8h7"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1743,6 +1727,22 @@
       "duration_ms": 190764,
       "name": "Hillside",
       "url": "https://open.spotify.com/track/2PwYgS3wfBVsHAAfhAiAOx"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Blues Are Close at Hand",
+        "url": "https://open.spotify.com/album/2ZfEgw1Jsfhw34G7cwtmkM"
+      },
+      "artists": [
+        {
+          "name": "The Po' Ramblin' Boys",
+          "url": "https://open.spotify.com/artist/65XZgRZMfuSawjuSFrnz0o"
+        }
+      ],
+      "duration_ms": 159427,
+      "name": "Blues Are Close at Hand",
+      "url": "https://open.spotify.com/track/16KCAFsjJn79OA3sh9iedu"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Big Sky",
-        "url": "https://open.spotify.com/album/0QOVHIpQPTjVy2Mkqhs6Rt"
-      },
-      "artists": [
-        {
-          "name": "Darren Nicholson",
-          "url": "https://open.spotify.com/artist/70O2FAS1z732CogF3N6W8f"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Big Sky",
-      "url": "https://open.spotify.com/track/0E5Xg5SpLNfsrhizdoiJN5"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
         "name": "Radio John: Songs of John Hartford",
         "url": "https://open.spotify.com/album/7FOxa6jWM5Q08r303wqJCV"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 198493,
       "name": "I'm Still Here",
       "url": "https://open.spotify.com/track/7kb2VDW8ENEIsQRUnia0if"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Big Sky",
+        "url": "https://open.spotify.com/album/0QOVHIpQPTjVy2Mkqhs6Rt"
+      },
+      "artists": [
+        {
+          "name": "Darren Nicholson",
+          "url": "https://open.spotify.com/artist/70O2FAS1z732CogF3N6W8f"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Big Sky",
+      "url": "https://open.spotify.com/track/0E5Xg5SpLNfsrhizdoiJN5"
     }
   ],
   "unique_name": "Grass Roots",

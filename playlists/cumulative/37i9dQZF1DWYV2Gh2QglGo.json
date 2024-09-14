@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The home of Canadian country music. Cover: Madeline Merlo & Dustin Lynch",
+  "description": "The home of Canadian country music. Cover: Sacha",
   "name": "North Country",
   "tracks": [
+    {
+      "album": {
+        "name": "10 Days in July",
+        "url": "https://open.spotify.com/album/3oLByCCKupH8zrY2xfdhnn"
+      },
+      "artists": [
+        {
+          "name": "Mitch Zorn",
+          "url": "https://open.spotify.com/artist/0oIZCkRWLup8z9nLIEteQ7"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189513,
+      "name": "10 Days in July",
+      "url": "https://open.spotify.com/track/7zsuy0Jay6R6dP7FAOGKVZ"
+    },
     {
       "album": {
         "name": "A Real Man",
@@ -38,6 +56,24 @@
       "duration_ms": 187594,
       "name": "Ahead of Our Time",
       "url": "https://open.spotify.com/track/3l0z706WPwEyD1i5sSjlxD"
+    },
+    {
+      "album": {
+        "name": "Another One",
+        "url": "https://open.spotify.com/album/5FDSDpPMBfchzOlVmIM40g"
+      },
+      "artists": [
+        {
+          "name": "Brett Kissel",
+          "url": "https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212426,
+      "name": "Another One",
+      "url": "https://open.spotify.com/track/7hZxg7lxEGl5k8uFhorSKg"
     },
     {
       "album": {
@@ -251,6 +287,24 @@
     },
     {
       "album": {
+        "name": "Cant Go Home",
+        "url": "https://open.spotify.com/album/6nNZu0SLhEsYT2Rgphh59z"
+      },
+      "artists": [
+        {
+          "name": "Tyson Ray Borsboom",
+          "url": "https://open.spotify.com/artist/5pJeBtKZlfZCFnq9HB0eTC"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234410,
+      "name": "Cant Go Home",
+      "url": "https://open.spotify.com/track/6QBjsyaQUJOGCy2lL62Qum"
+    },
+    {
+      "album": {
         "name": "Church",
         "url": "https://open.spotify.com/album/1Q303HZ7KT6B5xGlfJBF6c"
       },
@@ -316,7 +370,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 207316,
       "name": "Comeback Kid",
       "url": "https://open.spotify.com/track/3Apdb4wCwGOgF1nxGBg8Z7"
@@ -442,7 +496,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 202286,
       "name": "Demolition",
       "url": "https://open.spotify.com/track/0leS50n0Fpn1732x3wAJ5Q"
@@ -554,7 +608,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 196721,
       "name": "End Game",
       "url": "https://open.spotify.com/track/0Hn8PDXY6SAaikKJNjpD7z"
@@ -644,7 +698,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 176500,
       "name": "Go Deep (Jays Edition)",
       "url": "https://open.spotify.com/track/7fotqYdDq2BWtHYJV2oTdY"
@@ -716,7 +770,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 167386,
       "name": "Got It",
       "url": "https://open.spotify.com/track/1hJzdE1N69zSEmG5VIhEwy"
@@ -734,10 +788,32 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 219662,
       "name": "Halfway",
       "url": "https://open.spotify.com/track/5GiOwpuHSFeh0snoOIGnaH"
+    },
+    {
+      "album": {
+        "name": "Hangover At My Place",
+        "url": "https://open.spotify.com/album/31983x5kusfiIYcS4OXyAD"
+      },
+      "artists": [
+        {
+          "name": "Tebey",
+          "url": "https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo"
+        },
+        {
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196006,
+      "name": "Hangover At My Place",
+      "url": "https://open.spotify.com/track/08gx57bVrgxO52yQeiL8cC"
     },
     {
       "album": {
@@ -882,7 +958,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 172929,
       "name": "How Far Will We Take It?",
       "url": "https://open.spotify.com/track/453CeQGjxlMGaokntLtz5x"
@@ -900,7 +976,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 178823,
       "name": "I Came Here to Leave You",
       "url": "https://open.spotify.com/track/6g9Qf4VIsk8NRGCjuXIp1e"
@@ -1008,7 +1084,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 179986,
       "name": "Let Your Horses Run",
       "url": "https://open.spotify.com/track/7jnYERjueuBLWWu445HcVz"
@@ -1026,7 +1102,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 216959,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/5pLoDuBfIzQqvbYS3rsjsD"
@@ -1044,7 +1120,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 242932,
       "name": "Lightning in July (Prairie Fire)",
       "url": "https://open.spotify.com/track/3zKhe0wP0hUyikWRUrQkaK"
@@ -1204,7 +1280,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 213269,
       "name": "Never Leave",
       "url": "https://open.spotify.com/track/0owyOeTqTln75t7TBUlBud"
@@ -1258,7 +1334,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 238049,
       "name": "Nobody Dies Anymore",
       "url": "https://open.spotify.com/track/78xIX4Kt6miLXt3uMzez9W"
@@ -1276,7 +1352,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 178370,
       "name": "Not So Much No More",
       "url": "https://open.spotify.com/track/2FKqYH559u3BIhdKpPRKtE"
@@ -1294,7 +1370,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 166026,
       "name": "Not Yet",
       "url": "https://open.spotify.com/track/6Vecr80tnNQJmyoIMWkiCq"
@@ -1348,7 +1424,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 170631,
       "name": "Over Getting Over You",
       "url": "https://open.spotify.com/track/3N0jQs5Bip1GVWDaPEgllV"
@@ -1366,7 +1442,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 192440,
       "name": "Pink Collar",
       "url": "https://open.spotify.com/track/6JB3Sbopc83XEUrDAONUSh"
@@ -1558,7 +1634,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 201388,
       "name": "Second Wind",
       "url": "https://open.spotify.com/track/71UKlf9OjnkhyPXUNyDeDk"
@@ -1576,7 +1652,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 181556,
       "name": "Sendin' Myself to Church",
       "url": "https://open.spotify.com/track/4YKzfCmtKEWUWB91OpjSe5"
@@ -1594,7 +1670,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 206456,
       "name": "Seventeen",
       "url": "https://open.spotify.com/track/1SHpHu0loVuIXvasFr5qsA"
@@ -1695,6 +1771,24 @@
     },
     {
       "album": {
+        "name": "Somebody",
+        "url": "https://open.spotify.com/album/2Mm3lPj9raAwpBrcbKZGD6"
+      },
+      "artists": [
+        {
+          "name": "Julia Vos",
+          "url": "https://open.spotify.com/artist/0dW8yOcvW7yg5U3d4g2bBB"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214954,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/4To7mPuAzvr3SEv11JydSu"
+    },
+    {
+      "album": {
         "name": "Somebody's Summer",
         "url": "https://open.spotify.com/album/0TfNXl2LBzm2D7iTHPCbeT"
       },
@@ -1706,7 +1800,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 153472,
       "name": "Somebody's Summer",
       "url": "https://open.spotify.com/track/2XK5pRFfwdj5Sioq1kGEhE"
@@ -1836,7 +1930,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 135000,
       "name": "TICKET TO RIDE",
       "url": "https://open.spotify.com/track/2lbIfAfYcUqvHqujrqNCjf"
@@ -1930,7 +2024,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 190430,
       "name": "Waste Of Space",
       "url": "https://open.spotify.com/track/4iiO21zbbsrp1q7u1pzG1D"
@@ -2002,7 +2096,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 178858,
       "name": "Whiskey Bottle",
       "url": "https://open.spotify.com/track/1oopyVZOYfVijlYX6PFBUX"
@@ -2086,7 +2180,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 199793,
       "name": "Won't Forget",
       "url": "https://open.spotify.com/track/59O3j00c3p3B5umtTxUUyZ"

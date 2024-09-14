@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Ultimate 101 Punjabi Hits with AP Dhillon",
+  "description": "Ultimate 101 Punjabi Hits with Navaan Sandhu",
   "name": "Punjabi 101",
   "tracks": [
     {
@@ -158,6 +158,32 @@
       "duration_ms": 270000,
       "name": "295",
       "url": "https://open.spotify.com/track/5W7DOVGQLTigu09afW7QMT"
+    },
+    {
+      "album": {
+        "name": "The Brownprint",
+        "url": "https://open.spotify.com/album/5ocQ8RmwkpQ2mUwYSgMMH9"
+      },
+      "artists": [
+        {
+          "name": "AP Dhillon",
+          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
+        },
+        {
+          "name": "Shinda Kahlon",
+          "url": "https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh"
+        },
+        {
+          "name": "Jazzy B",
+          "url": "https://open.spotify.com/artist/25bvyjHJAszeSV3q0TmEhY"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131042,
+      "name": "315 (feat. Shinda Kahlon & Jazzy B)",
+      "url": "https://open.spotify.com/track/46byBJVhgLiL7e9uedasdg"
     },
     {
       "album": {
@@ -1254,6 +1280,28 @@
       "duration_ms": 274570,
       "name": "Blockbuster",
       "url": "https://open.spotify.com/track/2kQ4qdEtzWR1scQBlsjl8M"
+    },
+    {
+      "album": {
+        "name": "The Brownprint",
+        "url": "https://open.spotify.com/album/5ocQ8RmwkpQ2mUwYSgMMH9"
+      },
+      "artists": [
+        {
+          "name": "AP Dhillon",
+          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155294,
+      "name": "Bora Bora (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/3lZ6QxJ6LH8HGWov58drvj"
     },
     {
       "album": {
@@ -5646,7 +5694,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 183428,
       "name": "On Top",
       "url": "https://open.spotify.com/track/4SJMuaIYcBS8ke96lDYOsw"
@@ -5968,7 +6016,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 189176,
       "name": "Peaches",
       "url": "https://open.spotify.com/track/3mZLiEDAHIjZ8ms5Lxq33F"

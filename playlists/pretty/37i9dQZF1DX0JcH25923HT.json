@@ -1,6 +1,6 @@
 {
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
-  "num_followers": 474314,
+  "num_followers": 474583,
   "original_name": "Trap viejito",
   "owner": {
     "name": "Spotify",
@@ -1083,6 +1083,26 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
+        "name": "Ahora Me Llama",
+        "url": "https://open.spotify.com/album/5G7fWlRbbz0ebcdTaEomEu"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 233293,
+      "name": "Ahora Me Llama",
+      "url": "https://open.spotify.com/track/4jhIWuW51XDplWJRfnG7AU"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
         "name": "Tacos Altos",
         "url": "https://open.spotify.com/album/5RiwLnLiHPWh5DfLqsfobN"
       },
@@ -1111,26 +1131,6 @@
       "duration_ms": 306946,
       "name": "Tacos Altos",
       "url": "https://open.spotify.com/track/66pK7thQ0yw1xlqw8AQSlw"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
-        "name": "Ahora Me Llama",
-        "url": "https://open.spotify.com/album/5G7fWlRbbz0ebcdTaEomEu"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 233293,
-      "name": "Ahora Me Llama",
-      "url": "https://open.spotify.com/track/4jhIWuW51XDplWJRfnG7AU"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Arre",
-        "url": "https://open.spotify.com/album/5AvCEcQVDKDRsQpx0fmtxN"
-      },
-      "artists": [
-        {
-          "name": "Simpson Ahuevo",
-          "url": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
-        }
-      ],
-      "duration_ms": 168032,
-      "name": "Arre",
-      "url": "https://open.spotify.com/track/6lQ7ubRjFRpxkRtlFnMJRl"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
         "name": "Coronamos",
         "url": "https://open.spotify.com/album/43w0kG30A0HlctbjuW4ryR"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 188333,
       "name": "Coronamos",
       "url": "https://open.spotify.com/track/6H1XQeSmnfImLOcdFn5x43"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
+        "name": "Arre",
+        "url": "https://open.spotify.com/album/5AvCEcQVDKDRsQpx0fmtxN"
+      },
+      "artists": [
+        {
+          "name": "Simpson Ahuevo",
+          "url": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
+        }
+      ],
+      "duration_ms": 168032,
+      "name": "Arre",
+      "url": "https://open.spotify.com/track/6lQ7ubRjFRpxkRtlFnMJRl"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Flexin'",
-        "url": "https://open.spotify.com/album/7GHdU4lGW377dQYUfpWR7u"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        },
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        }
-      ],
-      "duration_ms": 179383,
-      "name": "Flexin'",
-      "url": "https://open.spotify.com/track/0hwEhPxCBLKiqeBMZavGAv"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
         "name": "Dillom: Bzrp Music Sessions, Vol. 9",
         "url": "https://open.spotify.com/album/7EpZ3YjIPfaeB5MAzI5HnB"
       },
@@ -1343,18 +1323,22 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Dubai",
-        "url": "https://open.spotify.com/album/1Dpa94iJ05Y6F6eDL4lslm"
+        "name": "Flexin'",
+        "url": "https://open.spotify.com/album/7GHdU4lGW377dQYUfpWR7u"
       },
       "artists": [
         {
-          "name": "Mesita",
-          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
         }
       ],
-      "duration_ms": 157732,
-      "name": "Dubai",
-      "url": "https://open.spotify.com/track/0iZO13BcjGGBuJzQ8Fj9R8"
+      "duration_ms": 179383,
+      "name": "Flexin'",
+      "url": "https://open.spotify.com/track/0hwEhPxCBLKiqeBMZavGAv"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1371,6 +1355,22 @@
       "duration_ms": 259200,
       "name": "Miss U",
       "url": "https://open.spotify.com/track/17NW5LLmN6PXrUdknZ6iT1"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
+        "name": "Dubai",
+        "url": "https://open.spotify.com/album/1Dpa94iJ05Y6F6eDL4lslm"
+      },
+      "artists": [
+        {
+          "name": "Mesita",
+          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
+        }
+      ],
+      "duration_ms": 157732,
+      "name": "Dubai",
+      "url": "https://open.spotify.com/track/0iZO13BcjGGBuJzQ8Fj9R8"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1579,30 +1579,6 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Crecia",
-        "url": "https://open.spotify.com/album/308DxwOKHOWzIhnUIz0bpy"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Almighty",
-          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Crecia",
-      "url": "https://open.spotify.com/track/7GfSJBI4qbAG40RTa9jhVu"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
         "name": "Dime",
         "url": "https://open.spotify.com/album/1ySViVTiU5OmwkJdqXGiug"
       },
@@ -1631,6 +1607,30 @@
       "duration_ms": 284626,
       "name": "Dime",
       "url": "https://open.spotify.com/track/08wJw4VdkKImX4t1vL6MsO"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
+        "name": "Crecia",
+        "url": "https://open.spotify.com/album/308DxwOKHOWzIhnUIz0bpy"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Almighty",
+          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Crecia",
+      "url": "https://open.spotify.com/track/7GfSJBI4qbAG40RTa9jhVu"
     },
     {
       "added_at": "2024-03-08 16:14:30",

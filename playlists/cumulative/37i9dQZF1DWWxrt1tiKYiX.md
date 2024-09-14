@@ -2,7 +2,7 @@
 
 ### [Acoustic Pop](https://open.spotify.com/playlist/37i9dQZF1DWWxrt1tiKYiX)
 
-> Lovely, acoustic pop\. Cover: Taylor Swift
+> Lovely, acoustic pop\. Cover: Ariana Grande
 
 263 songs - 14 hr 30 min
 

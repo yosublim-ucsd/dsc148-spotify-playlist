@@ -1725,6 +1725,28 @@
     },
     {
       "album": {
+        "name": "DINAMITA",
+        "url": "https://open.spotify.com/album/4dRpKzpWPEi9NYY84ChNhS"
+      },
+      "artists": [
+        {
+          "name": "Alexia Mariel",
+          "url": "https://open.spotify.com/artist/6SDSKrIIGibHeQGx8s9Yyn"
+        },
+        {
+          "name": "Sandro Malandro",
+          "url": "https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163635,
+      "name": "DINAMITA",
+      "url": "https://open.spotify.com/track/2z1J0ARtt7WUsarFsNtmxO"
+    },
+    {
+      "album": {
         "name": "DISPARA ***",
         "url": "https://open.spotify.com/album/63MfXzzOiA4B31XnstirjX"
       },
@@ -3667,6 +3689,32 @@
     },
     {
       "album": {
+        "name": "CLUB GRASA",
+        "url": "https://open.spotify.com/album/72bmHBiYWuPDOZ1GphH2IR"
+      },
+      "artists": [
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        },
+        {
+          "name": "Lua de Santana",
+          "url": "https://open.spotify.com/artist/1SCoi5U37R1KbEQHuKKgam"
+        },
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180480,
+      "name": "MENINA - MURA MASA REMIX (feat. Mura Masa)",
+      "url": "https://open.spotify.com/track/46xcXrJUZFMYbxnCeKTt0D"
+    },
+    {
+      "album": {
         "name": "Merch",
         "url": "https://open.spotify.com/album/5NexntZMObc9laiYBG8s48"
       },
@@ -4122,7 +4170,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 186598,
       "name": "Ni\u00f1x",
       "url": "https://open.spotify.com/track/0lnuA5TgQErEvDsyujAYsE"
@@ -6304,7 +6352,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 163083,
       "name": "Verano Tumbado",
       "url": "https://open.spotify.com/track/0iijwVgj2eSaexdnvds59R"

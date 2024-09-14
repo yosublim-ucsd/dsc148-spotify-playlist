@@ -2,9 +2,9 @@
 
 ### [RADAR US](https://open.spotify.com/playlist/37i9dQZF1DWY0DyDKedRYY)
 
-> The most exciting new music on our radar, featuring Chance Peña
+> The most exciting new music on our radar, featuring Tucker Wetmore
 
-832 songs - 1 day 19 hr 7 min
+834 songs - 1 day 19 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -664,6 +664,7 @@
 | [Shudder](https://open.spotify.com/track/1c1iyuIpgPr7FBbMBkQEzJ) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Shudder](https://open.spotify.com/album/5rNHpyAfV4fdowwcH1U1if) | 2:47 | 2024-05-29 | 2024-07-02 |
 | [Shut Up and Look Pretty](https://open.spotify.com/track/0WN1iznk8aBrlknCM1jHGE) | [ari hicks](https://open.spotify.com/artist/7kBSIXnl2HuGLcA0RZ8T9Z) | [Shut Up and Look Pretty](https://open.spotify.com/album/46KsSdjhNsmmYrJ3FxVr52) | 2:21 | 2022-07-26 | 2022-09-07 |
 | [silly putty](https://open.spotify.com/track/3AG923oYOUn7ESzHTkthKL) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [silly putty](https://open.spotify.com/album/4HdrJc0K45gBQQSBIkOhx1) | 2:46 | 2021-12-01 | 2022-04-09 |
+| [Silverado Blue](https://open.spotify.com/track/2dZluexN4DZK2nteRTHB70) | [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [Silverado Blue](https://open.spotify.com/album/4mWuLL9DOPcmUZ6j5VRMhv) | 3:03 | 2024-09-13 |  |
 | [SINS](https://open.spotify.com/track/3zm96XNTmVVUSL9LEJsMtW) | [Red Leather](https://open.spotify.com/artist/2qltFRTCjw1j67Da9FR8F1) | [SINS](https://open.spotify.com/album/7dBIrsWSqBofw64rRCk6ra) | 2:57 | 2022-09-06 | 2022-11-15 |
 | [Sistema De Patio](https://open.spotify.com/track/65497v9jzFfu5sSA8ADap5) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Treintisiete](https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah) | [Sistema De Patio](https://open.spotify.com/album/2CEgQxkmV8DKlSp0hHR839) | 2:14 | 2022-07-26 | 2022-09-07 |
 | [SkeeYee](https://open.spotify.com/track/7GtcNS6xS2WyOZK6hy65UB) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:37 | 2024-02-12 | 2024-04-03 |
@@ -818,6 +819,7 @@
 | [Wild Animals](https://open.spotify.com/track/4JiLpvvnPiQtsf4izF1SQ5) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Girl In The Half Pearl](https://open.spotify.com/album/45oxyD0tdWU3AGK2w55W2w) | 3:35 | 2023-03-31 | 2023-05-09 |
 | [Wild World](https://open.spotify.com/track/13ILyJiKUzCXOUYbMvrVT0) | [DoFlame](https://open.spotify.com/artist/4Ev5FYfYGBslgMqAqi2uNc) | [DoStroy](https://open.spotify.com/album/5jMRNPTG8HuL2FaMB47t6e) | 2:32 | 2022-05-17 | 2022-06-15 |
 | [Wind Up Missin' You](https://open.spotify.com/track/5JRYVSZ6K2jY0kznYBmoqr) | [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [Wind Up Missin' You](https://open.spotify.com/album/0UJSnnd3F5EVQqfHADZ2MG) | 2:46 | 2024-04-12 | 2024-06-01 |
+| [Wind Up Missin’ You](https://open.spotify.com/track/7iQMm50NNwlUIRWhONZR2k) | [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [Wind Up Missin’ You](https://open.spotify.com/album/4PphroUvQrXLzeLQKEtZOj) | 2:46 | 2024-09-13 |  |
 | [Wishes](https://open.spotify.com/track/7aQcp936NYgjF1vQOnuKGi) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Wishes](https://open.spotify.com/album/5SGGfUHXyfzxU11aAby1S1) | 4:09 | 2024-05-29 | 2024-07-02 |
 | [WIZZ \(COBRAH REMIX\)](https://open.spotify.com/track/4uK0HBycTNPrY2gBz86aT0) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [WIZZ \(COBRAH REMIX\)](https://open.spotify.com/album/3OxkywfJhqbLeuNopSEVw9) | 2:40 | 2022-09-06 | 2022-11-15 |
 | [Wonderland \(From “American Song Contest”\)](https://open.spotify.com/track/12gIiC7uS9fvSVTvu66YDO) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU), [American Song Contest](https://open.spotify.com/artist/3pPClIZCqgahG8bguvacGh) | [Wonderland \(From “American Song Contest”\)](https://open.spotify.com/album/1KxiHSk6DOOL1C24ijw9m0) | 2:44 | 2022-05-17 | 2022-06-15 |

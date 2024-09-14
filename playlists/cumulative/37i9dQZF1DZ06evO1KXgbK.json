@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-03-10",
-  "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
+  "description": "This Is Dolly Parton. Los temas esenciales, todos en una lista.",
   "name": "This Is Dolly Parton",
   "tracks": [
     {
@@ -394,7 +394,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 178675,
       "name": "Gonna Be You (feat. Gloria Estefan and Debbie Harry)",
       "url": "https://open.spotify.com/track/7u0qPfX0sXCdYfN6juC2Fh"
@@ -419,6 +419,28 @@
     },
     {
       "album": {
+        "name": "F-1 Trillion",
+        "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183333,
+      "name": "Have The Heart (Feat. Dolly Parton)",
+      "url": "https://open.spotify.com/track/1sqXfPaRD7npnH712RZQAF"
+    },
+    {
+      "album": {
         "name": "Have The Heart",
         "url": "https://open.spotify.com/album/1RvQCt8XHwWTG6dLe4E2nK"
       },
@@ -434,7 +456,7 @@
       ],
       "date_added": "2024-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 183333,
       "name": "Have The Heart (Feat. Dolly Parton)",
       "url": "https://open.spotify.com/track/3SkbX1E9qYSJRI6QlpWutW"

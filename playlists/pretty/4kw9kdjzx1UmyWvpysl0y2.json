@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125806,
+  "num_followers": 125809,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAS+6czFcq6u80EI2JGT1B8B63Vxkey",
+  "snapshot_id": "AAAS/BYmQFcfrONKPNVNlcwzEvXuUete",
   "tracks": [
+    {
+      "added_at": "2024-09-13 13:17:03",
+      "album": {
+        "name": "Give in to you",
+        "url": "https://open.spotify.com/album/5waNDGxDsidfGG5PzJlji0"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "Virtual Riot",
+          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
+        },
+        {
+          "name": "One True God",
+          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Give in to you",
+      "url": "https://open.spotify.com/track/4ISgMfSWEuwVRj76YPVopn"
+    },
     {
       "added_at": "2024-09-12 13:14:00",
       "album": {

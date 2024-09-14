@@ -360,7 +360,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 134543,
       "name": "All Black",
       "url": "https://open.spotify.com/track/6aPdtRMLS4iF0zKTszorCB"
@@ -1670,7 +1670,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 140874,
       "name": "Bass Drop",
       "url": "https://open.spotify.com/track/1tBKWCgUdm3oMtUKbu9gYK"
@@ -7500,7 +7500,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 248000,
       "name": "FRENCH DREAM",
       "url": "https://open.spotify.com/track/48mALuU7mFsXxcSH1uwAll"
@@ -7848,6 +7848,32 @@
       "duration_ms": 172610,
       "name": "Gimme",
       "url": "https://open.spotify.com/track/0PyX0nNJjFCGPIMrlXUN1U"
+    },
+    {
+      "album": {
+        "name": "Give in to you",
+        "url": "https://open.spotify.com/album/5waNDGxDsidfGG5PzJlji0"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "Virtual Riot",
+          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
+        },
+        {
+          "name": "One True God",
+          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Give in to you",
+      "url": "https://open.spotify.com/track/4ISgMfSWEuwVRj76YPVopn"
     },
     {
       "album": {
@@ -9216,6 +9242,24 @@
       "duration_ms": 270422,
       "name": "How To Feel",
       "url": "https://open.spotify.com/track/7JaHPMXlx37VACDtbROCUW"
+    },
+    {
+      "album": {
+        "name": "How Will I Know",
+        "url": "https://open.spotify.com/album/6YkDy06eSwICCLnjoVXkmc"
+      },
+      "artists": [
+        {
+          "name": "Oliverse",
+          "url": "https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222600,
+      "name": "How Will I Know",
+      "url": "https://open.spotify.com/track/3QWTdrmTlT2JyfvoKsMnjt"
     },
     {
       "album": {
@@ -12010,7 +12054,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 177103,
       "name": "MISS U AGAIN",
       "url": "https://open.spotify.com/track/6AFESCtuUjE4vfi2OFKKn6"
@@ -12924,6 +12968,24 @@
       "duration_ms": 174400,
       "name": "NO FEAR",
       "url": "https://open.spotify.com/track/0xy1H3TnhU478kNe7E8Wxc"
+    },
+    {
+      "album": {
+        "name": "No Gravity",
+        "url": "https://open.spotify.com/album/6ymnSDoRxoibJX3gIl46xx"
+      },
+      "artists": [
+        {
+          "name": "Doctor P",
+          "url": "https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206172,
+      "name": "No Gravity",
+      "url": "https://open.spotify.com/track/1DB7f0nDMTvCuiEv5wf7Ny"
     },
     {
       "album": {
@@ -15447,6 +15509,24 @@
     },
     {
       "album": {
+        "name": "RIPPLE",
+        "url": "https://open.spotify.com/album/5SEn5FWonTcyPNhTgqU7VO"
+      },
+      "artists": [
+        {
+          "name": "Drinkurwater",
+          "url": "https://open.spotify.com/artist/4P4PUC5CstzTajr5dhwQZk"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137622,
+      "name": "RIPPLE",
+      "url": "https://open.spotify.com/track/36BXjNnD0Vm6CYHf69K7zB"
+    },
+    {
+      "album": {
         "name": "Rolls Royce",
         "url": "https://open.spotify.com/album/11Q9pGuq7wakcblcdY25gk"
       },
@@ -15652,7 +15732,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 150697,
       "name": "S.O.M.F",
       "url": "https://open.spotify.com/track/3ZtfHJwLo5cww3sRc5IqrW"
@@ -18048,7 +18128,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 256294,
       "name": "Switch",
       "url": "https://open.spotify.com/track/1DGmrSDuDEbpXYbsiYxrR7"
@@ -19100,6 +19180,24 @@
       "duration_ms": 160000,
       "name": "TNXBYE",
       "url": "https://open.spotify.com/track/2CDOF13gB1471f3YCp0pix"
+    },
+    {
+      "album": {
+        "name": "Together As One",
+        "url": "https://open.spotify.com/album/5LQ26b0Vxn8D6OLbyoXhTX"
+      },
+      "artists": [
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166249,
+      "name": "Together As One",
+      "url": "https://open.spotify.com/track/0jaNgwB0N373CTg8EpnllU"
     },
     {
       "album": {
@@ -21074,6 +21172,24 @@
       "duration_ms": 251586,
       "name": "XENA",
       "url": "https://open.spotify.com/track/3RWjhGoGLeJlrPlMWJyHJf"
+    },
+    {
+      "album": {
+        "name": "YA BODY",
+        "url": "https://open.spotify.com/album/4wpE3IlFOM1T571dAN94xU"
+      },
+      "artists": [
+        {
+          "name": "Nikita, the Wicked",
+          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183165,
+      "name": "YA BODY",
+      "url": "https://open.spotify.com/track/07jKK0hViPo33S5Y35QyvB"
     },
     {
       "album": {

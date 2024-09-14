@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 
 > Queens everywhere \- givin' us life.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,766 likes - 80 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,784 likes - 80 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 | 47 | [Bring Back My Girls](https://open.spotify.com/track/654VREoXsBfEUXM0XUdluX) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [The Shady Bunch / Bring Back My Girls](https://open.spotify.com/album/39gClsR9cdIbOFcQx0NhN6) | 2:43 |
 | 48 | [Boys Like Me](https://open.spotify.com/track/6ACCpKQ0Ca5VmFaRqdKm9h) | [Courtney Act](https://open.spotify.com/artist/1zoflf6jZMLDZ65uJXAAwq) | [Kaleidoscope](https://open.spotify.com/album/6jQMDvMwscJjhhXH4go8y9) | 3:22 |
 | 49 | [Southern Hospitality](https://open.spotify.com/track/0QTnmq1asCixe3dcCuTaGO) | [Trinity the Tuck](https://open.spotify.com/artist/6vsPl580Vp298KzWmzHgQS) | [EGO](https://open.spotify.com/album/4vEpdTEZcXC75BJMli4JVn) | 2:33 |
-| 50 | [Drag Den](https://open.spotify.com/track/3OcG8HWvhRJnX6GxRPNlIL) | [Manila Luzon](https://open.spotify.com/artist/1cJCVvFLO8SLM8W9EITe1g) | [Drag Den](https://open.spotify.com/album/7MVcG4rJhelgCOK34fFl8b) | 3:15 |
-| 51 | [Zubi Zubi Zubi](https://open.spotify.com/track/1cNC5C5krCrOZSKlbPZEuY) | [Raja](https://open.spotify.com/artist/0kRRHgP7Ng7ZKOKKxeYZkC) | [Zubi Zubi Zubi](https://open.spotify.com/album/51E6rNk6uEdo7Xt0AryxXF) | 3:29 |
+| 50 | [Zubi Zubi Zubi](https://open.spotify.com/track/1cNC5C5krCrOZSKlbPZEuY) | [Raja](https://open.spotify.com/artist/0kRRHgP7Ng7ZKOKKxeYZkC) | [Zubi Zubi Zubi](https://open.spotify.com/album/51E6rNk6uEdo7Xt0AryxXF) | 3:29 |
+| 51 | [Drag Den](https://open.spotify.com/track/3OcG8HWvhRJnX6GxRPNlIL) | [Manila Luzon](https://open.spotify.com/artist/1cJCVvFLO8SLM8W9EITe1g) | [Drag Den](https://open.spotify.com/album/7MVcG4rJhelgCOK34fFl8b) | 3:15 |
 | 52 | [Satellite](https://open.spotify.com/track/3KwLphYunPNCGwsCkr9OCq) | [Tia Kofi](https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva) | [Satellite](https://open.spotify.com/album/2lxWhVphx12GD6HEP6KidW) | 2:48 |
 | 53 | [Champion \(Ru X Blu\)](https://open.spotify.com/track/3Hi69uRksd7Z2YQ9dEGDJP) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe), [Blu Hydrangea](https://open.spotify.com/artist/0oYqfQLQ6DfSaJvjobEps0) | [Champion \(Ru X Blu\)](https://open.spotify.com/album/1NeBhG3TwAJ1YYk0bAT6pQ) | 2:58 |
 | 54 | [Fight for Love](https://open.spotify.com/track/0BspWxbPFXiuH1HwLm83NK) | [Courtney Act](https://open.spotify.com/artist/1zoflf6jZMLDZ65uJXAAwq) | [Fight for Love](https://open.spotify.com/album/7z5c2c2cnPBER6cSOc0yiW) | 2:56 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 | 57 | [AAA \(feat\. Alaska Thunderfuck, Courtney Act & Willam \)](https://open.spotify.com/track/4aCczCIMedqUdGUcUqVb1N) | [The AAA Girls](https://open.spotify.com/artist/0RQTMmeu6M6VQg5zPeWKgw), [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy), [Courtney Act](https://open.spotify.com/artist/1zoflf6jZMLDZ65uJXAAwq), [Willam](https://open.spotify.com/artist/6l0msaZPAzFDz1UDDv6BV8) | [Access All Areas](https://open.spotify.com/album/4K8CUDdTzgmhtlVPTpGIS9) | 3:13 |
 | 58 | [Finish Her!](https://open.spotify.com/track/6hhf4WZLcRuM66DKKfzPCw) | [Aja](https://open.spotify.com/artist/0fWt4FY87imqsBJpt2QVL0), [WNNR](https://open.spotify.com/artist/1QQDgJqgSf4OCy7zM2tgyf), [DJ Accident Report](https://open.spotify.com/artist/2sIY8jk1jkuxNsy1A9s7Pk) | [In My Feelings](https://open.spotify.com/album/0PO3NILLdCxgYYpGzHs76F) | 3:45 |
 | 59 | [Much Betta](https://open.spotify.com/track/5A8NMbaLdU3MPm6LK58BLb) | [Baga chipz](https://open.spotify.com/artist/4giafXL7gtbBW0K0ppx240) | [Much Betta](https://open.spotify.com/album/3fLH1ksOnNE6fjmBL5fgbB) | 2:19 |
-| 60 | [PUMPKIN TITS](https://open.spotify.com/track/3VXyiHnpm1npDdnCVdX5Tp) | [JIMBO](https://open.spotify.com/artist/2zvuCE3YPlqC7XMY3XFmpf) | [PUMPKIN TITS \- Single](https://open.spotify.com/album/2d4U1XuIVz2ZgdzEA9KuCJ) | 2:56 |
-| 61 | [Diamond Crowned Queen \- Original](https://open.spotify.com/track/3TIvINmJaJ6A2spc2u9f9B) | [Raja](https://open.spotify.com/artist/0kRRHgP7Ng7ZKOKKxeYZkC) | [Diamond Crowned Queen](https://open.spotify.com/album/1Dibup7kDM8h6CfCMds9ud) | 3:51 |
+| 60 | [Diamond Crowned Queen \- Original](https://open.spotify.com/track/3TIvINmJaJ6A2spc2u9f9B) | [Raja](https://open.spotify.com/artist/0kRRHgP7Ng7ZKOKKxeYZkC) | [Diamond Crowned Queen](https://open.spotify.com/album/1Dibup7kDM8h6CfCMds9ud) | 3:51 |
+| 61 | [PUMPKIN TITS](https://open.spotify.com/track/3VXyiHnpm1npDdnCVdX5Tp) | [JIMBO](https://open.spotify.com/artist/2zvuCE3YPlqC7XMY3XFmpf) | [PUMPKIN TITS \- Single](https://open.spotify.com/album/2d4U1XuIVz2ZgdzEA9KuCJ) | 2:56 |
 | 62 | [Bitch On Heels \- Kelvin Wood Radio Mix](https://open.spotify.com/track/7ElOeuVWhiPAFHJxBfdzmN) | [The Vivienne](https://open.spotify.com/artist/6o6ndD0Jm9X1VB3tMN4FRp), [Kelvin Wood](https://open.spotify.com/artist/0oxqy1B5Cfc2Ir24IQt3vs) | [Bitch On Heels \(Kelvin Wood Remix\)](https://open.spotify.com/album/58lIoVrWA0UovP6TYCDfZA) | 2:58 |
 | 63 | [I Specialise In Love](https://open.spotify.com/track/5J0S0kIoIOH0FCs9Q6Y3B1) | [Tia Kofi](https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva), [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30) | [Part 2: The Antidote](https://open.spotify.com/album/3BMSQ62xPnpHMyYx8CByYh) | 2:49 |
 | 64 | [Empty](https://open.spotify.com/track/3F5AWtlYtCmyU1isDrvceJ) | [Blair St\. Clair](https://open.spotify.com/artist/5l1BwcEGGLpX6Y9668D8sd) | [Empty](https://open.spotify.com/album/5lp2ITlU2HpUV7kKmgQtRd) | 3:24 |

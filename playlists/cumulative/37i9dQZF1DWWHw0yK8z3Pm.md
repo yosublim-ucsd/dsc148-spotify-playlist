@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Charley Crockett
 
-489 songs - 1 day 5 hr 50 min
+490 songs - 1 day 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Acre of Land](https://open.spotify.com/track/13IhhvCRSMREyJyAsLtDM2) | [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [Past Dawn](https://open.spotify.com/album/61qIRfEjwnm1g80saLhf7T) | 3:59 | 2022-05-13 | 2023-06-20 |
 | [Across the Hall](https://open.spotify.com/track/6TuTnL508mCCZ2fXZt0CfA) | [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [Across the Hall](https://open.spotify.com/album/5V6tHoSetmPXIrTTPjdsHs) | 3:19 | 2023-03-10 | 2023-06-12 |
 | [Aeroplane Song](https://open.spotify.com/track/3Hhd2mInho0mukNF4qbowP) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [Aeroplane Song / The King of Western Swing](https://open.spotify.com/album/6BDhoOf3oIOMKYrf0H4Pnl) | 3:02 | 2023-11-10 | 2024-01-06 |
+| [Against The Grain](https://open.spotify.com/track/0aC6vbkbcZwfeDW0TjWZq7) | [Julianna Riolino](https://open.spotify.com/artist/4IkYUDeCe6OrwQhdSZZ81b), [Adrian Underhill](https://open.spotify.com/artist/4cxNlCYxlWWtkYRkNk04CN) | [Against The Grain](https://open.spotify.com/album/6GVN9nEFPZM6I4gsXr1k0Y) | 3:15 | 2024-09-13 |  |
 | [Ain't Dead Yet](https://open.spotify.com/track/7bh24ywGwlWCf3RReA5Dk1) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [Pain Pills Or Pews EP](https://open.spotify.com/album/4EeCNe24c0doMP5YOCtf3j) | 3:02 | 2023-12-08 |  |
 | [Ain't Life Strange](https://open.spotify.com/track/3aqAPFEFmLcFJ0sPzs8OXf) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [Ain't Life Strange](https://open.spotify.com/album/0mtkE0Q76YJMSckRGOYYsd) | 4:04 | 2024-07-12 | 2024-08-10 |
 | [Ain't No Cowboys In Georgia](https://open.spotify.com/track/3MENr2sOd9lrNzDW0ZA91D) | [Honey Harper](https://open.spotify.com/artist/01JvPU3kH9sxiT4EP0kmKg) | [Ain't No Cowboys In Georgia](https://open.spotify.com/album/2r06kS7KFzXHPLA6DdT9IS) | 2:32 | 2022-09-09 | 2022-10-08 |
@@ -139,7 +140,7 @@
 | [Did You Say Such A Thing \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/7tzYZF0cVEwSVdzDFlg1RP) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Strictly A One\-Eyed Jack](https://open.spotify.com/album/2L5XA2EN8XOIIkSiMqbWSY) | 3:39 | 2022-05-13 | 2022-07-23 |
 | [Do About Her](https://open.spotify.com/track/71ALgRSQ1neaZmRT2Ivj0P) | [Amanda Rheaume](https://open.spotify.com/artist/3AolL1C2j6PAqp3BuWzsRZ) | [The Spaces In Between](https://open.spotify.com/album/7m0pjaaLCwCqT7dnF6uTfi) | 3:33 | 2022-05-27 | 2022-11-12 |
 | [Don't Do Me Good](https://open.spotify.com/track/0oiiE9xAEoq7Pk49LtDc9W) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Don't Do Me Good](https://open.spotify.com/album/26sIa4onZCyC8VWiKLSwuB) | 4:13 | 2023-11-17 |  |
-| [Don't Feel Like Crying](https://open.spotify.com/track/7rbLQE71YypSgiewESHiiw) | [The Bros\. Landreth](https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL), [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [Come Morning](https://open.spotify.com/album/70Lbc0nDNzvJb4UBDXVU6K) | 4:13 | 2022-05-13 |  |
+| [Don't Feel Like Crying](https://open.spotify.com/track/7rbLQE71YypSgiewESHiiw) | [The Bros\. Landreth](https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL), [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [Come Morning](https://open.spotify.com/album/70Lbc0nDNzvJb4UBDXVU6K) | 4:13 | 2022-05-13 | 2024-09-14 |
 | [Don't Let Me Go](https://open.spotify.com/track/60nFcqDHiuyvhkqA74rGtI) | [Denitia](https://open.spotify.com/artist/6Dfjb3S1itIcLl2toYSiRp) | [Don't Let Me Go](https://open.spotify.com/album/1yJaFfWN0fAAdA2azfxbzD) | 2:18 | 2024-08-16 |  |
 | [Don’t Care](https://open.spotify.com/track/2yAftdPBEhIp13EYtI8YZP) | [Laughing](https://open.spotify.com/artist/02wBeDenxYGyaUy9H49nt6) | [Because It’s True](https://open.spotify.com/album/1E1ncAUiHSyXacOPCSYxSK) | 2:29 | 2024-06-28 | 2024-07-13 |
 | [Dooley's Farm \- Spotify Sessions](https://open.spotify.com/track/0wBAXKB1deM4RUJUbh3b4W) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [good 4 u / Dooley's Farm \(Spotify Singles\)](https://open.spotify.com/album/65mrgLaC6S4drN9PoJRxKm) | 5:10 | 2023-02-03 | 2023-08-26 |

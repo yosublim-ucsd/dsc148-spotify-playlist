@@ -1,12 +1,12 @@
 {
   "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : Vasu Dixit, Manuality, Joel Sakkari",
-  "num_followers": 23470,
+  "num_followers": 23474,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zt6SswAAAABfp/0WNxkTBgFf7OuUSLJr",
+  "snapshot_id": "ZuPoIQAAAAAzX1nc4a9SwfvK3JHe54iC",
   "tracks": [
     {
       "added_at": "2024-09-09 06:16:19",
@@ -27,6 +27,26 @@
       "duration_ms": 158115,
       "name": "Manasaagide",
       "url": "https://open.spotify.com/track/1NxlwioChUCGmzMp3Fijly"
+    },
+    {
+      "added_at": "2024-09-13 07:21:55",
+      "album": {
+        "name": "Asali Banna",
+        "url": "https://open.spotify.com/album/3f36xHYgOHnm652MFWCyBP"
+      },
+      "artists": [
+        {
+          "name": "Eshani",
+          "url": "https://open.spotify.com/artist/4CQMCs1zM49VQiI6Og0VWg"
+        },
+        {
+          "name": "DJ Lethal A",
+          "url": "https://open.spotify.com/artist/6RVM49jvPqk6em0FMPZQ8X"
+        }
+      ],
+      "duration_ms": 230448,
+      "name": "Asali Banna",
+      "url": "https://open.spotify.com/track/0cRfO2sZOvRj5j1OwsVvak"
     },
     {
       "added_at": "2024-07-29 07:04:31",
@@ -1411,66 +1431,6 @@
       "duration_ms": 184615,
       "name": "Pade Pade",
       "url": "https://open.spotify.com/track/63eNczU8Mm6NXK6qb2GhJr"
-    },
-    {
-      "added_at": "2024-04-04 11:44:16",
-      "album": {
-        "name": "Nee Horata Dariyali",
-        "url": "https://open.spotify.com/album/3iH8D522P3IGa6TQuSnQ8C"
-      },
-      "artists": [
-        {
-          "name": "Roystan Dias",
-          "url": "https://open.spotify.com/artist/1QriZyzUpLMpTdKpte6o5p"
-        }
-      ],
-      "duration_ms": 284272,
-      "name": "Nee Horata Dariyali",
-      "url": "https://open.spotify.com/track/2Iny0VWuD83vBXq1N2SwpL"
-    },
-    {
-      "added_at": "2024-04-04 11:43:10",
-      "album": {
-        "name": "Iralu nee jothege",
-        "url": "https://open.spotify.com/album/64MPncYSfjac0lphmSIvg7"
-      },
-      "artists": [
-        {
-          "name": "Sathya Radhakrishna",
-          "url": "https://open.spotify.com/artist/1hXCszU9f1es4LZiW3Bk0N"
-        },
-        {
-          "name": "Prerna",
-          "url": "https://open.spotify.com/artist/4fS73ERwSZsqhEa3S9dtMW"
-        },
-        {
-          "name": "Yashas L",
-          "url": "https://open.spotify.com/artist/0TVIU73sXS2pGmFiJteghJ"
-        }
-      ],
-      "duration_ms": 242754,
-      "name": "Iralu nee jothege",
-      "url": "https://open.spotify.com/track/47Wb3Xc7BSE7oGVYFLyaku"
-    },
-    {
-      "added_at": "2024-03-22 11:13:09",
-      "album": {
-        "name": "Ani Ani Anisutide",
-        "url": "https://open.spotify.com/album/1fjADk8xGb7geepJdEAADc"
-      },
-      "artists": [
-        {
-          "name": "Uttam Sarang",
-          "url": "https://open.spotify.com/artist/2hxuZDpTxvhUKzqMI0smem"
-        },
-        {
-          "name": "Varsha Acharya",
-          "url": "https://open.spotify.com/artist/06QNJdEjmoWoO1JLEbaHi0"
-        }
-      ],
-      "duration_ms": 253713,
-      "name": "Ani Ani Anisutide",
-      "url": "https://open.spotify.com/track/4zsKK2o1risZLPP5GNmlTB"
     }
   ],
   "unique_name": "Kannada Indie",

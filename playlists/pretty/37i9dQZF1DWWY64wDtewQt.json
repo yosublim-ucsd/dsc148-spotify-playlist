@@ -1,12 +1,12 @@
 {
   "description": "the beat of your drift",
-  "num_followers": 8885486,
+  "num_followers": 8890093,
   "original_name": "phonk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtseYwAAAACLfU5k0/qCgzuu2OGJiFfi",
+  "snapshot_id": "ZuR8ZQAAAABvfUZuwQQpLSs6STA2PGd/",
   "tracks": [
     {
       "added_at": "2024-03-29 15:57:27",
@@ -45,22 +45,6 @@
       "url": "https://open.spotify.com/track/6xBpb9zNWlRHTslOAe6kXF"
     },
     {
-      "added_at": "2024-04-26 14:45:00",
-      "album": {
-        "name": "Funk of Gal\u00e1ctico",
-        "url": "https://open.spotify.com/album/3lYPfg8wwG6rEIzBeOXCDA"
-      },
-      "artists": [
-        {
-          "name": "SXID",
-          "url": "https://open.spotify.com/artist/3eTy7yvRHnpPKY4hNCfYYX"
-        }
-      ],
-      "duration_ms": 90461,
-      "name": "Funk of Gal\u00e1ctico",
-      "url": "https://open.spotify.com/track/1kZiI82AcevKgv7RCUiG3l"
-    },
-    {
       "added_at": "2024-07-05 13:50:01",
       "album": {
         "name": "X-SLIDE",
@@ -95,6 +79,42 @@
       "duration_ms": 149522,
       "name": "GLORY",
       "url": "https://open.spotify.com/track/2YZ7CJV3Q1OGh7ZL9PYWcP"
+    },
+    {
+      "added_at": "2024-04-26 14:45:00",
+      "album": {
+        "name": "Funk of Gal\u00e1ctico",
+        "url": "https://open.spotify.com/album/3lYPfg8wwG6rEIzBeOXCDA"
+      },
+      "artists": [
+        {
+          "name": "SXID",
+          "url": "https://open.spotify.com/artist/3eTy7yvRHnpPKY4hNCfYYX"
+        }
+      ],
+      "duration_ms": 90461,
+      "name": "Funk of Gal\u00e1ctico",
+      "url": "https://open.spotify.com/track/1kZiI82AcevKgv7RCUiG3l"
+    },
+    {
+      "added_at": "2024-07-12 15:05:31",
+      "album": {
+        "name": "Ela Joga na Hora",
+        "url": "https://open.spotify.com/album/5Q5Q1X31y4eM4A4Nz7cGKb"
+      },
+      "artists": [
+        {
+          "name": "Mc Pogba",
+          "url": "https://open.spotify.com/artist/2sQHo73pQF1OTq3lDuQhlO"
+        },
+        {
+          "name": "DJ Guih Da ZO",
+          "url": "https://open.spotify.com/artist/0rb23mC6LLZ3o15qcdSzjx"
+        }
+      ],
+      "duration_ms": 132922,
+      "name": "Ela Joga na Hora",
+      "url": "https://open.spotify.com/track/4EV2AD1AL9AV7eY0jhAY1k"
     },
     {
       "added_at": "2024-02-09 15:25:18",
@@ -199,26 +219,6 @@
       "duration_ms": 142839,
       "name": "METAMORPHOSIS",
       "url": "https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz"
-    },
-    {
-      "added_at": "2024-07-12 15:05:31",
-      "album": {
-        "name": "Ela Joga na Hora",
-        "url": "https://open.spotify.com/album/5Q5Q1X31y4eM4A4Nz7cGKb"
-      },
-      "artists": [
-        {
-          "name": "Mc Pogba",
-          "url": "https://open.spotify.com/artist/2sQHo73pQF1OTq3lDuQhlO"
-        },
-        {
-          "name": "DJ Guih Da ZO",
-          "url": "https://open.spotify.com/artist/0rb23mC6LLZ3o15qcdSzjx"
-        }
-      ],
-      "duration_ms": 132922,
-      "name": "Ela Joga na Hora",
-      "url": "https://open.spotify.com/track/4EV2AD1AL9AV7eY0jhAY1k"
     },
     {
       "added_at": "2024-05-17 14:03:55",
@@ -349,6 +349,22 @@
       "url": "https://open.spotify.com/track/4XdP1OCiSv3sc2jKnH2sGN"
     },
     {
+      "added_at": "2024-07-19 16:15:00",
+      "album": {
+        "name": "Cuando se te moja la tarea 2",
+        "url": "https://open.spotify.com/album/5hUTWbVLPE7Vo9KtS06U15"
+      },
+      "artists": [
+        {
+          "name": "LDRR",
+          "url": "https://open.spotify.com/artist/2DtIt7mMzdaEEFVUbSmnoU"
+        }
+      ],
+      "duration_ms": 179302,
+      "name": "Cuando se te moja la tarea 2",
+      "url": "https://open.spotify.com/track/2NVY5DJmbIxMr0a4glhyHU"
+    },
+    {
       "added_at": "2023-07-28 11:47:20",
       "album": {
         "name": "Orquestra Maldita",
@@ -393,26 +409,6 @@
       "url": "https://open.spotify.com/track/7bxyNLXYaEYaZTxAuQTHlD"
     },
     {
-      "added_at": "2024-04-12 15:41:29",
-      "album": {
-        "name": "DNA",
-        "url": "https://open.spotify.com/album/1ILssfrknV8cQv5QvwBGUY"
-      },
-      "artists": [
-        {
-          "name": "LXNGVX",
-          "url": "https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK"
-        },
-        {
-          "name": "VISXGE",
-          "url": "https://open.spotify.com/artist/6kLsCQ1gKvJmjmC8XbfqFE"
-        }
-      ],
-      "duration_ms": 88740,
-      "name": "DNA",
-      "url": "https://open.spotify.com/track/3i6tlvYU1BSAM3yGQNemtM"
-    },
-    {
       "added_at": "2023-07-21 09:05:00",
       "album": {
         "name": "Automotivo Bibi Fogosa",
@@ -453,6 +449,26 @@
       "url": "https://open.spotify.com/track/3xuOs8TPNwItkEYsApFEI2"
     },
     {
+      "added_at": "2024-04-12 15:41:29",
+      "album": {
+        "name": "DNA",
+        "url": "https://open.spotify.com/album/1ILssfrknV8cQv5QvwBGUY"
+      },
+      "artists": [
+        {
+          "name": "LXNGVX",
+          "url": "https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK"
+        },
+        {
+          "name": "VISXGE",
+          "url": "https://open.spotify.com/artist/6kLsCQ1gKvJmjmC8XbfqFE"
+        }
+      ],
+      "duration_ms": 88740,
+      "name": "DNA",
+      "url": "https://open.spotify.com/track/3i6tlvYU1BSAM3yGQNemtM"
+    },
+    {
       "added_at": "2023-06-09 13:51:36",
       "album": {
         "name": "BRAZILIAN DAN\u00c7A PHONK",
@@ -471,22 +487,6 @@
       "duration_ms": 118194,
       "name": "BRAZILIAN DAN\u00c7A PHONK",
       "url": "https://open.spotify.com/track/6yVjjQA31SLM1kc4j5jPwF"
-    },
-    {
-      "added_at": "2024-07-19 16:15:00",
-      "album": {
-        "name": "Cuando se te moja la tarea 2",
-        "url": "https://open.spotify.com/album/5hUTWbVLPE7Vo9KtS06U15"
-      },
-      "artists": [
-        {
-          "name": "LDRR",
-          "url": "https://open.spotify.com/artist/2DtIt7mMzdaEEFVUbSmnoU"
-        }
-      ],
-      "duration_ms": 179302,
-      "name": "Cuando se te moja la tarea 2",
-      "url": "https://open.spotify.com/track/2NVY5DJmbIxMr0a4glhyHU"
     },
     {
       "added_at": "2023-06-09 13:51:36",
@@ -781,22 +781,6 @@
       "url": "https://open.spotify.com/track/0dQZTgDVjsQfrp7VCTQqYm"
     },
     {
-      "added_at": "2024-09-06 15:23:15",
-      "album": {
-        "name": "BRUXO FANTASMA",
-        "url": "https://open.spotify.com/album/09xRsRc7pX399wCGElOfMT"
-      },
-      "artists": [
-        {
-          "name": "LXNGVX",
-          "url": "https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK"
-        }
-      ],
-      "duration_ms": 88850,
-      "name": "BRUXO FANTASMA",
-      "url": "https://open.spotify.com/track/0KCRlnAviErdAu6JcjKZJs"
-    },
-    {
       "added_at": "2024-05-10 15:00:06",
       "album": {
         "name": "KRUSH BANDICOOT",
@@ -995,6 +979,22 @@
     {
       "added_at": "2024-09-06 15:23:15",
       "album": {
+        "name": "BRUXO FANTASMA",
+        "url": "https://open.spotify.com/album/09xRsRc7pX399wCGElOfMT"
+      },
+      "artists": [
+        {
+          "name": "LXNGVX",
+          "url": "https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK"
+        }
+      ],
+      "duration_ms": 88850,
+      "name": "BRUXO FANTASMA",
+      "url": "https://open.spotify.com/track/0KCRlnAviErdAu6JcjKZJs"
+    },
+    {
+      "added_at": "2024-09-06 15:23:15",
+      "album": {
         "name": "EI DO SENSACIO!",
         "url": "https://open.spotify.com/album/0wphyOHE1uP8vQiseGmZFN"
       },
@@ -1002,10 +1002,6 @@
         {
           "name": "princce",
           "url": "https://open.spotify.com/artist/0oGN0s7dqyWbR41yMsNs0R"
-        },
-        {
-          "name": "FR3ST",
-          "url": "https://open.spotify.com/artist/2YXKTfoEjKVzCNI0J6rHbQ"
         }
       ],
       "duration_ms": 101089,
@@ -1229,6 +1225,22 @@
       "url": "https://open.spotify.com/track/1ytfbcVbSMHIgzijgt4z2e"
     },
     {
+      "added_at": "2024-08-16 14:23:00",
+      "album": {
+        "name": "Se Paciente Funk",
+        "url": "https://open.spotify.com/album/3Ar02fcnzPDg1xvy05pWff"
+      },
+      "artists": [
+        {
+          "name": "RD12",
+          "url": "https://open.spotify.com/artist/62D4KEvQMmmK88mTkkWx6Q"
+        }
+      ],
+      "duration_ms": 69360,
+      "name": "Se Paciente Funk",
+      "url": "https://open.spotify.com/track/2f0ICQHa6q8hr5HjeFmDJO"
+    },
+    {
       "added_at": "2023-08-11 14:10:06",
       "album": {
         "name": "The Automotivo Infernal 1.0",
@@ -1243,22 +1255,6 @@
       "duration_ms": 114593,
       "name": "The Automotivo Infernal 1.0 - Purple",
       "url": "https://open.spotify.com/track/0nfnslHCHU8n3LqT7DhtGw"
-    },
-    {
-      "added_at": "2024-08-16 14:23:00",
-      "album": {
-        "name": "AVANGARD",
-        "url": "https://open.spotify.com/album/15LsgZDm81u6XV0IXsdxaD"
-      },
-      "artists": [
-        {
-          "name": "LONOWN",
-          "url": "https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw"
-        }
-      ],
-      "duration_ms": 156843,
-      "name": "AVANGARD",
-      "url": "https://open.spotify.com/track/3cTgvsTJZA5qwSZ3F8sKDz"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -1455,6 +1451,26 @@
       "duration_ms": 123473,
       "name": "Automotivo Insufici\u00eancia - Slowed",
       "url": "https://open.spotify.com/track/38WaXJLmp0pRWQcY7zFm2d"
+    },
+    {
+      "added_at": "2024-09-13 17:54:45",
+      "album": {
+        "name": "PYTHON FUNK",
+        "url": "https://open.spotify.com/album/7JslfZtjZ430btdARyxLQ4"
+      },
+      "artists": [
+        {
+          "name": "RD12",
+          "url": "https://open.spotify.com/artist/62D4KEvQMmmK88mTkkWx6Q"
+        },
+        {
+          "name": "Sayfalse",
+          "url": "https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB"
+        }
+      ],
+      "duration_ms": 74285,
+      "name": "PYTHON FUNK",
+      "url": "https://open.spotify.com/track/4YvxfQF9QCXykqi2ahREC4"
     },
     {
       "added_at": "2023-04-26 16:15:07",
@@ -1763,22 +1779,6 @@
       "duration_ms": 121937,
       "name": "BLOODY BRAZIL (Slowed)",
       "url": "https://open.spotify.com/track/4CRd36RVExznLuyj7SOQmz"
-    },
-    {
-      "added_at": "2024-08-16 14:23:00",
-      "album": {
-        "name": "Se Paciente Funk",
-        "url": "https://open.spotify.com/album/3Ar02fcnzPDg1xvy05pWff"
-      },
-      "artists": [
-        {
-          "name": "RD12",
-          "url": "https://open.spotify.com/artist/62D4KEvQMmmK88mTkkWx6Q"
-        }
-      ],
-      "duration_ms": 69360,
-      "name": "Se Paciente Funk",
-      "url": "https://open.spotify.com/track/2f0ICQHa6q8hr5HjeFmDJO"
     },
     {
       "added_at": "2022-05-13 04:02:00",

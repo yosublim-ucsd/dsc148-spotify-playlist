@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Marshall",
-  "num_followers": 12831,
+  "num_followers": 12847,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zt6MtgAAAAD6xgaXKeBS+/sWTOvqHHZz",
+  "snapshot_id": "ZuPNnQAAAAAV4nS28Fv5LOXuJZUMpZRr",
   "tracks": [
     {
       "added_at": "2024-08-23 05:09:28",
@@ -23,22 +23,6 @@
       "duration_ms": 192676,
       "name": "Chechi",
       "url": "https://open.spotify.com/track/63mE4ZFWfb2mSJ4yWjMbIj"
-    },
-    {
-      "added_at": "2024-08-30 06:29:43",
-      "album": {
-        "name": "Mona Lisa",
-        "url": "https://open.spotify.com/album/1uro3cZxfAF1XwtKAzOvlZ"
-      },
-      "artists": [
-        {
-          "name": "ABISAN",
-          "url": "https://open.spotify.com/artist/0F49POB6TWnMSFL4jeyrMq"
-        }
-      ],
-      "duration_ms": 249653,
-      "name": "Mona Lisa",
-      "url": "https://open.spotify.com/track/0Gw4zIJJpCzAJSwsMpcuVJ"
     },
     {
       "added_at": "2024-08-30 06:29:43",
@@ -73,28 +57,36 @@
       "url": "https://open.spotify.com/track/22nFjlgd1pbsUvIWo5pDQV"
     },
     {
-      "added_at": "2024-09-09 05:49:12",
+      "added_at": "2024-09-02 11:52:33",
       "album": {
-        "name": "Vanna Nilavondru",
-        "url": "https://open.spotify.com/album/0KrqRoihopoLpDLWVSANBW"
+        "name": "Penne Vaadi",
+        "url": "https://open.spotify.com/album/1xindoyPyheCMn1s8ZGQhw"
       },
       "artists": [
         {
-          "name": "Nikhil Iyer",
-          "url": "https://open.spotify.com/artist/0CqiR40fzUCsCK5Llk6Bek"
-        },
-        {
-          "name": "Shravan Sridhar",
-          "url": "https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec"
-        },
-        {
-          "name": "Akshay Iyer",
-          "url": "https://open.spotify.com/artist/5tuD0Os3aeTtglvnUd8HOL"
+          "name": "Octave Rockers",
+          "url": "https://open.spotify.com/artist/2vPzWyj6wCxhzVH91XAMc6"
         }
       ],
-      "duration_ms": 221354,
-      "name": "Vanna Nilavondru",
-      "url": "https://open.spotify.com/track/0I6dnjBM6mVGQ32zD2HD0S"
+      "duration_ms": 216764,
+      "name": "Penne Vaadi",
+      "url": "https://open.spotify.com/track/15Fh1t5w0HSuzGZcLntCXu"
+    },
+    {
+      "added_at": "2024-09-13 04:45:53",
+      "album": {
+        "name": "Yezhundhen Nimirndhen Nadandhen",
+        "url": "https://open.spotify.com/album/0DvC4OwDXTYLRGZh8wk7iP"
+      },
+      "artists": [
+        {
+          "name": "Maalavika Sundar",
+          "url": "https://open.spotify.com/artist/6FziTGxRwHQviQ4uZdSdIP"
+        }
+      ],
+      "duration_ms": 266470,
+      "name": "Poti",
+      "url": "https://open.spotify.com/track/14uJkehSJn6IUXhWfVtfng"
     },
     {
       "added_at": "2024-08-30 06:29:43",
@@ -121,26 +113,6 @@
       "url": "https://open.spotify.com/track/59x5gdFfYDoYEPB3XCrgSJ"
     },
     {
-      "added_at": "2024-08-28 07:37:29",
-      "album": {
-        "name": "Podu Mike",
-        "url": "https://open.spotify.com/album/1J2DFOau5e9iYK3JSAy4sh"
-      },
-      "artists": [
-        {
-          "name": "Killa K",
-          "url": "https://open.spotify.com/artist/5azgDfqhzt3EezfJ36gDIf"
-        },
-        {
-          "name": "Yung Raja",
-          "url": "https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Podu Mike",
-      "url": "https://open.spotify.com/track/0wOiE642qD6UotxDqyKL8F"
-    },
-    {
       "added_at": "2024-08-26 23:46:43",
       "album": {
         "name": "Distant Hearts",
@@ -161,20 +133,116 @@
       "url": "https://open.spotify.com/track/7jaTzZavHZgzcqcAH4dvfA"
     },
     {
-      "added_at": "2024-09-02 11:52:33",
+      "added_at": "2024-08-30 06:29:43",
       "album": {
-        "name": "Penne Vaadi",
-        "url": "https://open.spotify.com/album/1xindoyPyheCMn1s8ZGQhw"
+        "name": "Mona Lisa",
+        "url": "https://open.spotify.com/album/1uro3cZxfAF1XwtKAzOvlZ"
       },
       "artists": [
         {
-          "name": "Octave Rockers",
-          "url": "https://open.spotify.com/artist/2vPzWyj6wCxhzVH91XAMc6"
+          "name": "ABISAN",
+          "url": "https://open.spotify.com/artist/0F49POB6TWnMSFL4jeyrMq"
         }
       ],
-      "duration_ms": 216764,
-      "name": "Penne Vaadi",
-      "url": "https://open.spotify.com/track/15Fh1t5w0HSuzGZcLntCXu"
+      "duration_ms": 249653,
+      "name": "Mona Lisa",
+      "url": "https://open.spotify.com/track/0Gw4zIJJpCzAJSwsMpcuVJ"
+    },
+    {
+      "added_at": "2024-09-09 05:49:12",
+      "album": {
+        "name": "Vanna Nilavondru",
+        "url": "https://open.spotify.com/album/0KrqRoihopoLpDLWVSANBW"
+      },
+      "artists": [
+        {
+          "name": "Nikhil Iyer",
+          "url": "https://open.spotify.com/artist/0CqiR40fzUCsCK5Llk6Bek"
+        },
+        {
+          "name": "Shravan Sridhar",
+          "url": "https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec"
+        },
+        {
+          "name": "Akshay Iyer",
+          "url": "https://open.spotify.com/artist/5tuD0Os3aeTtglvnUd8HOL"
+        }
+      ],
+      "duration_ms": 221354,
+      "name": "Vanna Nilavondru",
+      "url": "https://open.spotify.com/track/0I6dnjBM6mVGQ32zD2HD0S"
+    },
+    {
+      "added_at": "2024-08-28 07:37:29",
+      "album": {
+        "name": "Podu Mike",
+        "url": "https://open.spotify.com/album/1J2DFOau5e9iYK3JSAy4sh"
+      },
+      "artists": [
+        {
+          "name": "Killa K",
+          "url": "https://open.spotify.com/artist/5azgDfqhzt3EezfJ36gDIf"
+        },
+        {
+          "name": "Yung Raja",
+          "url": "https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Podu Mike",
+      "url": "https://open.spotify.com/track/0wOiE642qD6UotxDqyKL8F"
+    },
+    {
+      "added_at": "2024-09-13 05:21:10",
+      "album": {
+        "name": "The Woahhh Song",
+        "url": "https://open.spotify.com/album/6kz9WebGEgaqWSCjQ76y18"
+      },
+      "artists": [
+        {
+          "name": "Jaison Siva",
+          "url": "https://open.spotify.com/artist/20en5q74NI07Cj4nqYcREN"
+        }
+      ],
+      "duration_ms": 192197,
+      "name": "The Woahhh Song",
+      "url": "https://open.spotify.com/track/5ns1dASf7sRmTAPeMluUfi"
+    },
+    {
+      "added_at": "2024-09-13 04:45:53",
+      "album": {
+        "name": "ALANGATTI MAZHA",
+        "url": "https://open.spotify.com/album/36DnnMTZWFQdAw5aIBFXmg"
+      },
+      "artists": [
+        {
+          "name": "ADY KRIZ",
+          "url": "https://open.spotify.com/artist/4NpYZCwjj6a38XHpYOTbG2"
+        },
+        {
+          "name": "Rahul Hariharan",
+          "url": "https://open.spotify.com/artist/6tdfRI8aHCxNS9BijZSodn"
+        }
+      ],
+      "duration_ms": 111627,
+      "name": "ALANGATTI MAZHA",
+      "url": "https://open.spotify.com/track/1aXI7tNrCDb4IxskeCFLet"
+    },
+    {
+      "added_at": "2024-09-13 04:45:53",
+      "album": {
+        "name": "Thappa Lucka",
+        "url": "https://open.spotify.com/album/4qywuCNyFS05GvZe3MZPqc"
+      },
+      "artists": [
+        {
+          "name": "Noel-Ryan",
+          "url": "https://open.spotify.com/artist/7gPxhIED4vBdNzq22EZTav"
+        }
+      ],
+      "duration_ms": 194002,
+      "name": "Thappa Lucka",
+      "url": "https://open.spotify.com/track/4sn5TCw8HKcU7vT5lEHZnO"
     },
     {
       "added_at": "2024-08-30 05:34:59",
@@ -199,6 +267,42 @@
       "duration_ms": 206000,
       "name": "Sikkimukki",
       "url": "https://open.spotify.com/track/3NXtm9rA3z2342c0T1hXme"
+    },
+    {
+      "added_at": "2024-09-13 05:29:00",
+      "album": {
+        "name": "Unna Pathen",
+        "url": "https://open.spotify.com/album/4uyzAqjOakQt6IZhc0l4uH"
+      },
+      "artists": [
+        {
+          "name": "Kutty",
+          "url": "https://open.spotify.com/artist/4lGjzD05gTyFyYees76463"
+        }
+      ],
+      "duration_ms": 165652,
+      "name": "Unna Pathen",
+      "url": "https://open.spotify.com/track/1vzMSXTwhOSU8yTAPAhL53"
+    },
+    {
+      "added_at": "2024-09-13 04:45:53",
+      "album": {
+        "name": "Pothum",
+        "url": "https://open.spotify.com/album/0iSpOJJDnxBx22iVDcdPMy"
+      },
+      "artists": [
+        {
+          "name": "Hashmitha",
+          "url": "https://open.spotify.com/artist/1h4waCZPQFgRwXrFtCXo8M"
+        },
+        {
+          "name": "Sheezay",
+          "url": "https://open.spotify.com/artist/59ZFcw0jfy0Z4rcF1DXKBF"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Pothum",
+      "url": "https://open.spotify.com/track/0wOqPJwyhdMBkTk9vNCz9T"
     },
     {
       "added_at": "2024-08-16 12:38:56",
@@ -285,42 +389,6 @@
       "url": "https://open.spotify.com/track/0dy7bIOZTmu9SdHygEUvdU"
     },
     {
-      "added_at": "2024-08-30 06:29:43",
-      "album": {
-        "name": "Aval Udan",
-        "url": "https://open.spotify.com/album/7pSByNDPNOLHihP8JQzujl"
-      },
-      "artists": [
-        {
-          "name": "Akash Justin",
-          "url": "https://open.spotify.com/artist/5w4yb5ve75X4sQmDYDRp4r"
-        }
-      ],
-      "duration_ms": 120004,
-      "name": "Aval Udan",
-      "url": "https://open.spotify.com/track/3nFrHcPW2Tt9giwLnAbP1o"
-    },
-    {
-      "added_at": "2024-07-30 11:54:53",
-      "album": {
-        "name": "Vaanavil Niraikava",
-        "url": "https://open.spotify.com/album/1aPEw9PFTwaabMyK9ruHaI"
-      },
-      "artists": [
-        {
-          "name": "Surya Srini",
-          "url": "https://open.spotify.com/artist/4tFeh0q2MQjHjcZZZBkzTZ"
-        },
-        {
-          "name": "Swathi Ramachandran",
-          "url": "https://open.spotify.com/artist/1CMNk9Dj9LnPTskACXf6p8"
-        }
-      ],
-      "duration_ms": 240253,
-      "name": "Vaanavil Niraikava",
-      "url": "https://open.spotify.com/track/25ubcWEzWuOm4nb2IFQVrs"
-    },
-    {
       "added_at": "2024-05-28 15:29:18",
       "album": {
         "name": "Thedalae",
@@ -335,26 +403,6 @@
       "duration_ms": 192037,
       "name": "Thedalae",
       "url": "https://open.spotify.com/track/7sVRkXRallJK4uB4WTna14"
-    },
-    {
-      "added_at": "2024-07-31 13:45:32",
-      "album": {
-        "name": "Meenu",
-        "url": "https://open.spotify.com/album/08i3xSuoGshAB78Qaj0ttz"
-      },
-      "artists": [
-        {
-          "name": "A.R Sai Shravanya",
-          "url": "https://open.spotify.com/artist/67hmOl78H5aT3rs6PcO6CR"
-        },
-        {
-          "name": "Rama Priya Yegasivanathan",
-          "url": "https://open.spotify.com/artist/7bYHZMgn8z6sHJAEj1qzlx"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Meenu",
-      "url": "https://open.spotify.com/track/4LPtOxsnWaSvXp4QNEELZc"
     },
     {
       "added_at": "2024-07-27 01:00:44",

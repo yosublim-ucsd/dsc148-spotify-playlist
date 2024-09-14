@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "No need to wait!  Experience today's best Worship music right here, right now. Cover:  <a href=\"spotify:artist:0wczmL4iUleqcy10Ek5Eyh\">JWLKRS Worship</a>",
+  "description": "No need to wait!  Experience today's best Worship music right here, right now. Cover:  <a href=\"spotify:artist:0SLXOHoqcGPOsH9RZETtp1\">7 Hills Worship</a>",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -4686,7 +4686,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 312159,
       "name": "His Glory and My Good (Acoustic) - Live",
       "url": "https://open.spotify.com/track/3aLgQMVeLIUjl1O5YEbsZh"
@@ -8643,6 +8643,24 @@
     },
     {
       "album": {
+        "name": "Looking Glass - Live",
+        "url": "https://open.spotify.com/album/3w8SG80nHpHYgEgbvEAfZG"
+      },
+      "artists": [
+        {
+          "name": "7 Hills Worship",
+          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339426,
+      "name": "Nothing Is - Live",
+      "url": "https://open.spotify.com/track/13R1Yn3u8vC3GUmQ5AQXtN"
+    },
+    {
+      "album": {
         "name": "Nothing Is Impossible (Live In Manila)",
         "url": "https://open.spotify.com/album/7mKROIDACa2Tf6IB123KKd"
       },
@@ -11377,6 +11395,24 @@
     },
     {
       "album": {
+        "name": "Rise My Soul - Live",
+        "url": "https://open.spotify.com/album/5zj8HUYqLPcxNnMkIlP93z"
+      },
+      "artists": [
+        {
+          "name": "CityAlight",
+          "url": "https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309999,
+      "name": "The Battle And The Blessing - Live",
+      "url": "https://open.spotify.com/track/50ZSYLAnCqIi1fnUVMMagG"
+    },
+    {
+      "album": {
         "name": "Live From Europe",
         "url": "https://open.spotify.com/album/5htXe6Yr7XvTglqWJs2JBB"
       },
@@ -11814,7 +11850,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 251562,
       "name": "The Middle - Live",
       "url": "https://open.spotify.com/track/0WDGD8LSl9peE4cMrYn54i"
@@ -12270,6 +12306,36 @@
       "duration_ms": 338244,
       "name": "Things of Heaven (feat. Elyssa Smith) - The Other Side",
       "url": "https://open.spotify.com/track/7Cl9Ytd7N2J1hqdgYV6fk0"
+    },
+    {
+      "album": {
+        "name": "This Is Glory (feat. Lizzie Morgan)",
+        "url": "https://open.spotify.com/album/2It5DbPvzTa57RMFWtzHhk"
+      },
+      "artists": [
+        {
+          "name": "Red Worship",
+          "url": "https://open.spotify.com/artist/0avkhg4DlPSxuCE9Ycy66w"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Trinity Anderson",
+          "url": "https://open.spotify.com/artist/6dCn9t1NVjEKPvsBzxrf0h"
+        },
+        {
+          "name": "Lizzie Morgan",
+          "url": "https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419188,
+      "name": "This Is Glory (feat. Lizzie Morgan)",
+      "url": "https://open.spotify.com/track/3auSm8rjBffpvJXq6zwbq4"
     },
     {
       "album": {
@@ -13416,7 +13482,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 292075,
       "name": "Where You're Wanted - Live",
       "url": "https://open.spotify.com/track/3GcfJsiKzQKlp7RlsbLPuH"
@@ -13464,6 +13530,24 @@
       "duration_ms": 331219,
       "name": "Who Else - Live at Gateway Conference",
       "url": "https://open.spotify.com/track/1mBH77kFrD96YMow8bm5cb"
+    },
+    {
+      "album": {
+        "name": "Who Is Like You",
+        "url": "https://open.spotify.com/album/42HN6Vo3MNDXUvFbIzvy5d"
+      },
+      "artists": [
+        {
+          "name": "Church of the City",
+          "url": "https://open.spotify.com/artist/0JEaOx0otT35qgkj1w4oBw"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340708,
+      "name": "Who Is Like You",
+      "url": "https://open.spotify.com/track/3Gr7zPy6KiLaa6vfK4SYOR"
     },
     {
       "album": {

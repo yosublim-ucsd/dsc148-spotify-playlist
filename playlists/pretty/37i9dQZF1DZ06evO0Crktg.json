@@ -1,33 +1,13 @@
 {
   "description": "This is Jelly Roll. The essential tracks, all in one playlist.",
-  "num_followers": 242856,
+  "num_followers": 243094,
   "original_name": "This Is Jelly Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuDdgAAAAADlA2QiyOlsUciUErbY+/aA",
+  "snapshot_id": "ZuIvAAAAAAC3ODygiKkZo2IEY2UmsEVB",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Losers",
-        "url": "https://open.spotify.com/album/06UB6o8Spyen4l4YHoGeXU"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 209038,
-      "name": "Losers (Feat. Jelly Roll)",
-      "url": "https://open.spotify.com/track/0p13WrwJyOU3SwoAlSa6O4"
-    },
     {
       "added_at": null,
       "album": {
@@ -79,6 +59,26 @@
       "duration_ms": 197133,
       "name": "I Am Not Okay",
       "url": "https://open.spotify.com/track/76ODTQOl0JZQbhfxs6nRV9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "F-1 Trillion",
+        "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 209038,
+      "name": "Losers (Feat. Jelly Roll)",
+      "url": "https://open.spotify.com/track/0gucUyFMFRMlUiVn9US4YX"
     },
     {
       "added_at": null,
@@ -611,6 +611,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Leave The Light On (feat. Alexandra Kay) [From Twisters: The Album]",
+        "url": "https://open.spotify.com/album/2dt9s6lrC6C6m7omR6ElIi"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "Alexandra Kay",
+          "url": "https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV"
+        }
+      ],
+      "duration_ms": 200733,
+      "name": "Leave The Light On (feat. Alexandra Kay) [From Twisters: The Album]",
+      "url": "https://open.spotify.com/track/08iAR28HjxTqITee6Gq5vT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Whitsitt Chapel",
         "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
       },
@@ -643,26 +663,6 @@
       "duration_ms": 197343,
       "name": "My Only Enemy",
       "url": "https://open.spotify.com/track/2CQrxIeKSvLkJOYOi6d593"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Leave The Light On (feat. Alexandra Kay) [From Twisters: The Album]",
-        "url": "https://open.spotify.com/album/2dt9s6lrC6C6m7omR6ElIi"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        },
-        {
-          "name": "Alexandra Kay",
-          "url": "https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV"
-        }
-      ],
-      "duration_ms": 200733,
-      "name": "Leave The Light On (feat. Alexandra Kay) [From Twisters: The Album]",
-      "url": "https://open.spotify.com/track/08iAR28HjxTqITee6Gq5vT"
     },
     {
       "added_at": null,
@@ -935,30 +935,6 @@
       "duration_ms": 152100,
       "name": "Copenhagen In A Cadillac",
       "url": "https://open.spotify.com/track/7gKSILe05xzPx5qqgYtYj5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Self Medicated",
-        "url": "https://open.spotify.com/album/5LtYMFZoC0elRSipbMV5sw"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        },
-        {
-          "name": "Merkules",
-          "url": "https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg"
-        },
-        {
-          "name": "Futuristic",
-          "url": "https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p"
-        }
-      ],
-      "duration_ms": 226511,
-      "name": "5 AM",
-      "url": "https://open.spotify.com/track/7jTaydvVpuIwkKrBj6QIhN"
     }
   ],
   "unique_name": "This Is Jelly Roll",

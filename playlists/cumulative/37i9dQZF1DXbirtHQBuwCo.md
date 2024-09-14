@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Enjoy trendy & chill Korean R&B music\. \(Cover: BAEKHYUN\(백현\)\)
+> Enjoy trendy & chill Korean R&B music\. \(Cover: Seori\(서리\)\)
 
-747 songs - 1 day 15 hr 52 min
+748 songs - 1 day 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -551,7 +551,7 @@
 | [Remember \(Feat\. Owell Mood\)](https://open.spotify.com/track/3UBJWEPCIFeVbhnb8wWh2w) | [XAXA](https://open.spotify.com/artist/2Rtn7OFpkjyS5OXGaKzwW1), [Owell Mood](https://open.spotify.com/artist/21PxLOZet5J6uX4uMfXUTA) | [Remember](https://open.spotify.com/album/4yHWe2xBs5mk0wNHafCUVH) | 3:01 | 2022-04-19 | 2022-04-21 |
 | [Rendez\-Vous](https://open.spotify.com/track/4YmrTTR0fxBE3nBS8StToi) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Hello, World \- The 4th Mini Album](https://open.spotify.com/album/6t6uh1uD01cnqef1Y7NVxA) | 3:32 | 2024-09-06 |  |
 | [Respect](https://open.spotify.com/track/2b8wiA0rT5h1ONtW9HsXUt) | [안신애](https://open.spotify.com/artist/5lt17V0z9fzfwRDFCZVWIQ) | [Respect](https://open.spotify.com/album/3oikuOBybmjw4rW7SBFWwD) | 3:01 | 2023-09-22 | 2023-09-28 |
-| [Restless](https://open.spotify.com/track/4AHNi316rl3KI3hKIsdxZe) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [LISTEN 035 Restless](https://open.spotify.com/album/5xDX8Uv4ojXg0ONDEcAMra) | 4:27 | 2022-04-19 |  |
+| [Restless](https://open.spotify.com/track/4AHNi316rl3KI3hKIsdxZe) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [LISTEN 035 Restless](https://open.spotify.com/album/5xDX8Uv4ojXg0ONDEcAMra) | 4:27 | 2022-04-19 | 2024-09-14 |
 | [Riddle \(feat\. Khundi Panda\)](https://open.spotify.com/track/0CfaShWRNwAS86m7gzbehv) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n), [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU) | [Riddle](https://open.spotify.com/album/37jhqfjnQFN5ObACGJkdUv) | 2:47 | 2022-06-23 | 2022-06-30 |
 | [Right Back \(Feat\. Tabber\)](https://open.spotify.com/track/5w0UlB7OxmoBF5kpT6uFKw) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU) | [Lucky Charms!](https://open.spotify.com/album/6bwVdSQ3xOtkSgNIzhqiaa) | 3:26 | 2022-05-31 | 2022-06-17 |
 | [right now](https://open.spotify.com/track/1nEHkqPpdcYimQBcksbpFe) | [RIPLEY](https://open.spotify.com/artist/226NgMhCe19mK7xFekn3TZ) | [right now](https://open.spotify.com/album/0outmoEBf1z970iFwCEPBs) | 2:15 | 2022-09-30 | 2022-10-06 |
@@ -609,6 +609,7 @@
 | [Song of the rain](https://open.spotify.com/track/2o01gSDPP32gRfs53ImwVK) | [Bambiroyalprince](https://open.spotify.com/artist/1bbfITRJAsyYTnyzhK67Xa) | [Song of the rain](https://open.spotify.com/album/7eFVeMo0jlFmx14ftSxTfn) | 3:34 | 2022-05-11 | 2022-05-29 |
 | [Sool \(Feat\. THAMA\)](https://open.spotify.com/track/2wLsNE3k1TGAMm5JSqsYUX) | [snzae](https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [Sool](https://open.spotify.com/album/1afTZ3mebjnJsWkg8n8WS7) | 3:50 | 2022-08-08 | 2022-09-04 |
 | [SOS \(feat\. NSW yoon\)](https://open.spotify.com/track/30kcwhaWoMnRKSv8REX9qP) | [Izykite](https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx), [NSW yoon](https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE) | [SOS](https://open.spotify.com/album/0l800jbq1GM428RPoURUnf) | 2:22 | 2024-04-12 | 2024-05-01 |
+| [space \(feat\. Vxlious, Marv\)](https://open.spotify.com/track/2iBVSFk0oneYEI1LmTHVaC) | [YUNGHOON](https://open.spotify.com/artist/0ezmeE8HQDrJOMr3IyH9nY), [Vxlious](https://open.spotify.com/artist/2PyFQMGLkz6aBODpAGSl4B), [Marv](https://open.spotify.com/artist/1V2ep7618bYgCcTVyDKPcW) | [U](https://open.spotify.com/album/1BHjJKqDdgdUsOtjAZKJ2k) | 2:24 | 2024-09-13 |  |
 | [Space science](https://open.spotify.com/track/3RbCeYBZsEoMJX9ePu3vtd) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [Space science](https://open.spotify.com/album/4NcJaCZiWEYMJZRLAM3JHM) | 3:53 | 2022-12-15 | 2022-12-20 |
 | [Square \(2017\)](https://open.spotify.com/track/0WZhf0isd4av5qlFfKknC3) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Every letter I sent you.](https://open.spotify.com/album/4wQwYHzJSgqbqU7YWioU1A) | 4:21 | 2022-04-19 | 2022-07-29 |
 | [Square \(2017\)](https://open.spotify.com/track/13On7DYsJ3IrWxBWuOwM8t) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Every letter I sent you.](https://open.spotify.com/album/20hW2P3VSNJ1A7MwjIJ0Up) | 4:21 | 2022-08-02 | 2023-07-04 |

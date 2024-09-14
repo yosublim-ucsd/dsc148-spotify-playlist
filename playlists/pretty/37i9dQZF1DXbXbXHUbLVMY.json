@@ -1,6 +1,6 @@
 {
   "description": "Skandinavisk hiphop som holder det 100! \ud83d\udea8 ",
-  "num_followers": 28317,
+  "num_followers": 28320,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
-        "name": "In Memory Of Some Stand Up Guys",
-        "url": "https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV"
-      },
-      "artists": [
-        {
-          "name": "C.Gambino",
-          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
-        }
-      ],
-      "duration_ms": 161739,
-      "name": "Svar",
-      "url": "https://open.spotify.com/track/2ZWsuZ6No9BImF61NI1ITw"
-    },
-    {
-      "added_at": "2024-09-05 22:00:00",
-      "album": {
         "name": "Let's Go",
         "url": "https://open.spotify.com/album/30pPojWH2mqVN5aXmocwRY"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 148373,
       "name": "Let's Go",
       "url": "https://open.spotify.com/track/21RCoKctRVVVG8nt8r5dsU"
+    },
+    {
+      "added_at": "2024-09-05 22:00:00",
+      "album": {
+        "name": "In Memory Of Some Stand Up Guys",
+        "url": "https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV"
+      },
+      "artists": [
+        {
+          "name": "C.Gambino",
+          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
+        }
+      ],
+      "duration_ms": 161739,
+      "name": "Svar",
+      "url": "https://open.spotify.com/track/2ZWsuZ6No9BImF61NI1ITw"
     },
     {
       "added_at": "2024-09-05 22:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
-        "name": "Matrisen",
-        "url": "https://open.spotify.com/album/3dk3EKB9BAgMnIoI8lEDYj"
-      },
-      "artists": [
-        {
-          "name": "Marstein",
-          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
-        }
-      ],
-      "duration_ms": 195577,
-      "name": "Matrisen",
-      "url": "https://open.spotify.com/track/7BZ3S5F0IRzzrC7ecSqYO2"
-    },
-    {
-      "added_at": "2024-09-05 22:00:00",
-      "album": {
         "name": "I Care",
         "url": "https://open.spotify.com/album/3eEH7sepvY4yYG8DGly0ii"
       },
@@ -911,6 +895,22 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
+        "name": "Matrisen",
+        "url": "https://open.spotify.com/album/3dk3EKB9BAgMnIoI8lEDYj"
+      },
+      "artists": [
+        {
+          "name": "Marstein",
+          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
+        }
+      ],
+      "duration_ms": 195577,
+      "name": "Matrisen",
+      "url": "https://open.spotify.com/track/7BZ3S5F0IRzzrC7ecSqYO2"
+    },
+    {
+      "added_at": "2024-09-05 22:00:00",
+      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/6gQrFdytErXSB1VjxpsxYI"
       },
@@ -923,22 +923,6 @@
       "duration_ms": 186123,
       "name": "Aura",
       "url": "https://open.spotify.com/track/4DJ6P3O5xd11cQMOsPIWg7"
-    },
-    {
-      "added_at": "2024-09-05 22:00:00",
-      "album": {
-        "name": "Varig m\u00e9n",
-        "url": "https://open.spotify.com/album/1je48mRG7l23gvEMesMczK"
-      },
-      "artists": [
-        {
-          "name": "Kamelen",
-          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
-        }
-      ],
-      "duration_ms": 151121,
-      "name": "Varig m\u00e9n",
-      "url": "https://open.spotify.com/track/41QTpl1b6fHRtCYNeX10gl"
     },
     {
       "added_at": "2024-09-05 22:00:00",
@@ -971,6 +955,22 @@
       "duration_ms": 156453,
       "name": "Whina",
       "url": "https://open.spotify.com/track/06fihyXcPX2ztSWtHR2JmB"
+    },
+    {
+      "added_at": "2024-09-05 22:00:00",
+      "album": {
+        "name": "Varig m\u00e9n",
+        "url": "https://open.spotify.com/album/1je48mRG7l23gvEMesMczK"
+      },
+      "artists": [
+        {
+          "name": "Kamelen",
+          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
+        }
+      ],
+      "duration_ms": 151121,
+      "name": "Varig m\u00e9n",
+      "url": "https://open.spotify.com/track/41QTpl1b6fHRtCYNeX10gl"
     },
     {
       "added_at": "2024-09-05 22:00:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
-        "name": "Fakk love",
-        "url": "https://open.spotify.com/album/3BbrExBX9GDFKEMDQ0AbQA"
-      },
-      "artists": [
-        {
-          "name": "Chris Abolade",
-          "url": "https://open.spotify.com/artist/4wqjUmydj8rX3foHUjNOtB"
-        }
-      ],
-      "duration_ms": 124750,
-      "name": "Fakk love",
-      "url": "https://open.spotify.com/track/05mlYFe6CSsOaghF1lTJNB"
-    },
-    {
-      "added_at": "2024-09-05 22:00:00",
-      "album": {
         "name": "2 Sider",
         "url": "https://open.spotify.com/album/3x3gJlQD07PM82Qni8BK5i"
       },
@@ -1095,6 +1079,22 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
+        "name": "Fakk love",
+        "url": "https://open.spotify.com/album/3BbrExBX9GDFKEMDQ0AbQA"
+      },
+      "artists": [
+        {
+          "name": "Chris Abolade",
+          "url": "https://open.spotify.com/artist/4wqjUmydj8rX3foHUjNOtB"
+        }
+      ],
+      "duration_ms": 124750,
+      "name": "Fakk love",
+      "url": "https://open.spotify.com/track/05mlYFe6CSsOaghF1lTJNB"
+    },
+    {
+      "added_at": "2024-09-05 22:00:00",
+      "album": {
         "name": "SIPPER",
         "url": "https://open.spotify.com/album/1darpI3AUMsbJdlIWOfx0x"
       },
@@ -1111,22 +1111,6 @@
       "duration_ms": 135333,
       "name": "SIPPER",
       "url": "https://open.spotify.com/track/6zmYjRCtFkZqKTPgEqbODr"
-    },
-    {
-      "added_at": "2024-09-05 22:00:00",
-      "album": {
-        "name": "Frossa",
-        "url": "https://open.spotify.com/album/0HIQvy6LtEhW4phvG12OEO"
-      },
-      "artists": [
-        {
-          "name": "Asme",
-          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
-        }
-      ],
-      "duration_ms": 154985,
-      "name": "Frossa",
-      "url": "https://open.spotify.com/track/660EPoIBj3FnUhHlcKgN5H"
     },
     {
       "added_at": "2024-09-05 22:00:00",
@@ -1151,6 +1135,22 @@
       "duration_ms": 221276,
       "name": "Tyrs Vals (feat. Arif Murakami & Siyab\u00e5ng)",
       "url": "https://open.spotify.com/track/0V0qOWYd1Oz1jGaVFii95s"
+    },
+    {
+      "added_at": "2024-09-05 22:00:00",
+      "album": {
+        "name": "Frossa",
+        "url": "https://open.spotify.com/album/0HIQvy6LtEhW4phvG12OEO"
+      },
+      "artists": [
+        {
+          "name": "Asme",
+          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
+        }
+      ],
+      "duration_ms": 154985,
+      "name": "Frossa",
+      "url": "https://open.spotify.com/track/660EPoIBj3FnUhHlcKgN5H"
     },
     {
       "added_at": "2024-09-05 22:00:00",
@@ -1195,6 +1195,26 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
+        "name": "Stikk I Brystet",
+        "url": "https://open.spotify.com/album/40d4Icn5bTlx1rtVWV0Td7"
+      },
+      "artists": [
+        {
+          "name": "Amara",
+          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
+        },
+        {
+          "name": "Roc Boyz",
+          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
+        }
+      ],
+      "duration_ms": 154320,
+      "name": "King Of The Hill (feat. Roc Boyz)",
+      "url": "https://open.spotify.com/track/4x7O0ZgkDIa9a8kkSLvith"
+    },
+    {
+      "added_at": "2024-09-05 22:00:00",
+      "album": {
         "name": "Tappar kontroll",
         "url": "https://open.spotify.com/album/1PzBGPCkSnJm1ZuECf5A50"
       },
@@ -1219,26 +1239,6 @@
       "duration_ms": 176495,
       "name": "Tappar kontroll",
       "url": "https://open.spotify.com/track/3JzsfvZ8mUk0zW3thtxnx7"
-    },
-    {
-      "added_at": "2024-09-05 22:00:00",
-      "album": {
-        "name": "Stikk I Brystet",
-        "url": "https://open.spotify.com/album/40d4Icn5bTlx1rtVWV0Td7"
-      },
-      "artists": [
-        {
-          "name": "Amara",
-          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
-        },
-        {
-          "name": "Roc Boyz",
-          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
-        }
-      ],
-      "duration_ms": 154320,
-      "name": "King Of The Hill (feat. Roc Boyz)",
-      "url": "https://open.spotify.com/track/4x7O0ZgkDIa9a8kkSLvith"
     },
     {
       "added_at": "2024-09-05 22:00:00",

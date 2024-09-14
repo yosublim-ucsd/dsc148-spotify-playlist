@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-1,247 songs - 2 day 16 hr 6 min
+1,248 songs - 2 day 16 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -595,7 +595,7 @@
 | [is your bedroom ceiling bored? \(feat\. Cavetown\)](https://open.spotify.com/track/3ehrCQoouv7NW8LRgcMvRF) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [is your bedroom ceiling bored? \(feat\. Cavetown\)](https://open.spotify.com/album/3EScPN7QqAa3WUVgZe1dNo) | 3:27 | 2020-10-29\* | 2020-12-12 |
 | [It Takes Two](https://open.spotify.com/track/7lR4o63cpYr8zY3nBEPead) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [It Takes Two](https://open.spotify.com/album/314mIakb1sF5Lfl23kmibT) | 2:39 | 2021-02-27 | 2021-10-02 |
 | [It's Easy](https://open.spotify.com/track/1Fh7lpiy8m6ZU9y3yLAFnW) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Santolina](https://open.spotify.com/album/3xXpKIMBsUbVv8RwYE5Ibz) | 3:40 | 2022-01-14 | 2022-05-28 |
-| [It's The Life](https://open.spotify.com/track/17vvwuzQ2enu7fL93nexIP) | [FLEECE](https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm) | [It's The Life](https://open.spotify.com/album/0povJrlVpXe4j2HgW6SvEh) | 2:37 | 2023-03-24 |  |
+| [It's The Life](https://open.spotify.com/track/17vvwuzQ2enu7fL93nexIP) | [FLEECE](https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm) | [It's The Life](https://open.spotify.com/album/0povJrlVpXe4j2HgW6SvEh) | 2:37 | 2023-03-24 | 2024-09-14 |
 | [Itsy Bitsy](https://open.spotify.com/track/1tXKuzYRdQsKa32ZUPiq0A) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Itsy Bitsy](https://open.spotify.com/album/54DolYpYf4Ai92P5TV6IfB) | 2:57 | 2021-01-30 | 2021-03-06 |
 | [IYKYK](https://open.spotify.com/track/1wkze3nOLQkWG9uHjHaKjc) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [IYKYK](https://open.spotify.com/album/7DtIpa0EWgU79yWXKnAx4t) | 3:28 | 2023-08-18 | 2023-10-07 |
 | [I’m Tired \(with Zendaya\) \- Bonus Track](https://open.spotify.com/track/6LtHYDgYHRCHoKK3snfr2w) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [I’m Tired \(with Zendaya\) \- Bonus Track](https://open.spotify.com/album/28phJkFTSPLnwo555dFLKu) | 3:07 | 2022-02-28 | 2022-07-02 |
@@ -765,6 +765,7 @@
 | [No One Noticed](https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [If Only + No One Noticed](https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF) | 3:56 | 2024-05-31 |  |
 | [no song without you](https://open.spotify.com/track/3KKUf8F2hktFscLgbH4YwR) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [no song without you](https://open.spotify.com/album/4Mxwp3dJCIEJOqQ4O03BMa) | 2:41 | 2020-10-29\* | 2021-02-13 |
 | [No Use](https://open.spotify.com/track/2m7AO4zLdkbd5SRmjNfnwz) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [No Use](https://open.spotify.com/album/0RIkHPlHX2jVXi1xo8tkhM) | 3:16 | 2020-10-29\* | 2021-01-21 |
+| [No Way To Relax When You Are On Fire](https://open.spotify.com/track/5HSlL9XmvYOVDynR2E13vc) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [No Way To Relax When You Are On Fire](https://open.spotify.com/album/50nvPOvceq4QENvfPhSEoC) | 4:02 | 2024-09-13 |  |
 | [Noah](https://open.spotify.com/track/2aUTNohOzJi73UFf8AVVMT) | [Jenny Palacios](https://open.spotify.com/artist/1TpnyAngai2yGUjI7OKFp8) | [Noah](https://open.spotify.com/album/4zM4kNPtCJGIE39OJtXWOA) | 4:26 | 2021-06-27 | 2021-09-11 |
 | [Nobody Like You](https://open.spotify.com/track/10HqYPk8krVdDYQCgYh3z7) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [When I Close My Eyes](https://open.spotify.com/album/2Hlkq5I3ntvKGPJq130yzF) | 2:03 | 2022-07-22 | 2022-11-12 |
 | [Nobody Like You](https://open.spotify.com/track/75hkmDfQpal4gNgfXKYGrh) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [Nobody Like You](https://open.spotify.com/album/5nSjlnmqS7H39KrFuqvVHi) | 2:03 | 2022-01-28 | 2022-07-29 |

@@ -1322,7 +1322,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 152656,
       "name": "El Perreo",
       "url": "https://open.spotify.com/track/4nuiZAgfeNLusalHqxWC9m"
@@ -1742,7 +1742,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 172029,
       "name": "Hasta Abajo Rkt",
       "url": "https://open.spotify.com/track/0dRiTyuCsHr9RiGkzrUE9Y"
@@ -2712,7 +2712,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 196718,
       "name": "NO TE VAYAS",
       "url": "https://open.spotify.com/track/6VWCiFf85ccZrZps6UpVZK"
@@ -3675,6 +3675,28 @@
     },
     {
       "album": {
+        "name": "SALE SOLA",
+        "url": "https://open.spotify.com/album/5mWt90aqfwx2SoepYXeOuk"
+      },
+      "artists": [
+        {
+          "name": "RAMKY EN LOS CONTROLES",
+          "url": "https://open.spotify.com/artist/6jXFmaC0CvsIRSzxapsnNd"
+        },
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125969,
+      "name": "SALE SOLA",
+      "url": "https://open.spotify.com/track/2xm4FQMffynQ251pwc0Rcn"
+    },
+    {
+      "album": {
         "name": "Salimos Pa la Disco",
         "url": "https://open.spotify.com/album/2nbr7mn8FSUQjAm6psw5wH"
       },
@@ -3738,6 +3760,32 @@
       "duration_ms": 149988,
       "name": "Se Desacata - Remix",
       "url": "https://open.spotify.com/track/2FFqiAGscJVONPhEAxhpfY"
+    },
+    {
+      "album": {
+        "name": "SE DICE DE MI",
+        "url": "https://open.spotify.com/album/1hRsbHaRtaYcvPVKe1ZhvI"
+      },
+      "artists": [
+        {
+          "name": "DobleP",
+          "url": "https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036"
+        },
+        {
+          "name": "Tuti DJ",
+          "url": "https://open.spotify.com/artist/5Zk54wioCsUtq5ggUWXqlK"
+        },
+        {
+          "name": "Pereiraremix",
+          "url": "https://open.spotify.com/artist/0sE8WmITfzXJwYGdtbo8B0"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134647,
+      "name": "SE DICE DE MI",
+      "url": "https://open.spotify.com/track/2wEhjcnre2PU36KQNBLXCC"
     },
     {
       "album": {
@@ -4548,6 +4596,28 @@
       "duration_ms": 153665,
       "name": "TU AMOR | E7",
       "url": "https://open.spotify.com/track/3N6rAKpPraBOZqn9RhSrz0"
+    },
+    {
+      "album": {
+        "name": "Tu Fanatico",
+        "url": "https://open.spotify.com/album/2aiyuspGdRZpAkN105G1f2"
+      },
+      "artists": [
+        {
+          "name": "LA NUEVA ESCUELA",
+          "url": "https://open.spotify.com/artist/5TeBsszZQTyqBX4eDHdtNx"
+        },
+        {
+          "name": "Mesita",
+          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170744,
+      "name": "Tu Fan\u00e1tico",
+      "url": "https://open.spotify.com/track/1D301ukIoyHv2EJzUUU6Ab"
     },
     {
       "album": {

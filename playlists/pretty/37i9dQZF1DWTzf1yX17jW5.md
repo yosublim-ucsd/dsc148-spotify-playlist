@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTzf1yX17jW5.md) - [plain]
 
 > Our editor’s picks for best Jersey Club songs of the year\. Cover: kanii
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,242 likes - 75 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,248 likes - 75 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTzf1yX17jW5.md) - [plain]
 | 22 | [Que Lo Ke](https://open.spotify.com/track/7wj8OXiqdAfNsnWm2zRV9e) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J) | [INNOCENTE](https://open.spotify.com/album/7CIpLH395MhKKJ7WyUzm58) | 3:03 |
 | 23 | [My Humps \- JBroadway Remix](https://open.spotify.com/track/3jCMS72hCFNF1NESsL6L9m) | [JBroadway](https://open.spotify.com/artist/6WdccSPsTJcEHFoSdWpYvh), [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [My Humps \(JBroadway Remix\)](https://open.spotify.com/album/2YFV7FShMxZW4zUMF0KnXw) | 2:15 |
 | 24 | [My Love](https://open.spotify.com/track/2f5jtBFBWGmthgLpte2u3q) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [My Love](https://open.spotify.com/album/3XgtnIOpgE18deinVIUmBn) | 3:34 |
-| 25 | [Booty Drop](https://open.spotify.com/track/1iOdhNBdePXR632DhYZVO2) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Booty Drop](https://open.spotify.com/album/096NZMg4ARLx7TQamIDE30) | 2:39 |
-| 26 | [SHOOT](https://open.spotify.com/track/1rDfZwXzeotPuDtBJotaK1) | [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [SHOOT](https://open.spotify.com/album/4zFoohHusRIEUKY6f3OimL) | 2:39 |
+| 25 | [SHOOT](https://open.spotify.com/track/1rDfZwXzeotPuDtBJotaK1) | [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [SHOOT](https://open.spotify.com/album/4zFoohHusRIEUKY6f3OimL) | 2:39 |
+| 26 | [Booty Drop](https://open.spotify.com/track/1iOdhNBdePXR632DhYZVO2) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Booty Drop](https://open.spotify.com/album/096NZMg4ARLx7TQamIDE30) | 2:39 |
 | 27 | [Need \(Bonus Track\)](https://open.spotify.com/track/01aojvlRe3mwlEwTnLVUbs) | [keltiey](https://open.spotify.com/artist/6ffRXY5wKedZhPTMa6WGys) | [B2B](https://open.spotify.com/album/51Esh2ddbUkN2u9P00PFR8) | 2:37 |
 | 28 | [Epiphany \(I'm Leaving\) \- Jersey Club Remix](https://open.spotify.com/track/1QQIi0N6NqkSKtCPN8vYwr) | [Chrisette Michele](https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj), [Loog](https://open.spotify.com/artist/5EMKpvztIr3J7icWA5or1I), [ProdByAbnormal](https://open.spotify.com/artist/7fc1beONoGaY0613kvQKWe) | [Epiphany \(I'm Leaving\) \[Jersey Club Remix\]](https://open.spotify.com/album/1NiJM6oLaqru3BlKw1V2wo) | 2:49 |
 | 29 | [GOOD LOYAL THOTS 2 \- Demo](https://open.spotify.com/track/5KiSXkMuL521ohdw8t2SAt) | [ODECORE](https://open.spotify.com/artist/3GMH7ApqfVpvBM1MuToQR7), [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [GOOD LOYAL THOTS 2 \(Demo\)](https://open.spotify.com/album/5xkTQakddnZplfymuKyPIa) | 1:42 |

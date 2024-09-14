@@ -893,6 +893,24 @@
     },
     {
       "album": {
+        "name": "Diary",
+        "url": "https://open.spotify.com/album/6leY9wlIyovc9h5EpXcULk"
+      },
+      "artists": [
+        {
+          "name": "Crossing-\u8de8\u4e16\u5144\u5f1f",
+          "url": "https://open.spotify.com/artist/78JfivRUsg9hKmS5yIUpol"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107608,
+      "name": "\u2f8f\u52d5\u5351\u9119",
+      "url": "https://open.spotify.com/track/4dUhl2o7pSjrnSsp34C9Rb"
+    },
+    {
+      "album": {
         "name": "\u4e00\u6574\u5929",
         "url": "https://open.spotify.com/album/3d9CbNWURQQ7N6uHA7lha8"
       },

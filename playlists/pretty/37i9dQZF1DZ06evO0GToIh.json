@@ -1,29 +1,13 @@
 {
   "description": "This Is Eden Mu\u00f1oz. Los temas esenciales, todos en una lista.",
-  "num_followers": 244847,
+  "num_followers": 245003,
   "original_name": "This Is Eden Mu\u00f1oz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuDdgAAAAAAZAKDfk5n8UniiEv30j8KD",
+  "snapshot_id": "ZuIvAAAAAADIN/aEAGXF2KX1rt/hiGoM",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eden",
-        "url": "https://open.spotify.com/album/2Mhh5KI8hfKMkpHs7xkWBt"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 204246,
-      "name": "Traigo Saldo y Ganas de Rogar",
-      "url": "https://open.spotify.com/track/00j3Zw2inmVD3T0YJLNRvu"
-    },
     {
       "added_at": null,
       "album": {
@@ -195,6 +179,22 @@
       "duration_ms": 245250,
       "name": "Como En Los Viejos Tiempos",
       "url": "https://open.spotify.com/track/1jGuAHD9U2saBvxrbEendo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/2Mhh5KI8hfKMkpHs7xkWBt"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 204246,
+      "name": "Traigo Saldo y Ganas de Rogar",
+      "url": "https://open.spotify.com/track/00j3Zw2inmVD3T0YJLNRvu"
     },
     {
       "added_at": null,
@@ -907,22 +907,6 @@
       "duration_ms": 222571,
       "name": "MX - MAD",
       "url": "https://open.spotify.com/track/1CdFg273lkDDOA13pV8FXX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eden",
-        "url": "https://open.spotify.com/album/2Mhh5KI8hfKMkpHs7xkWBt"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 152437,
-      "name": "Mezcal de Calz\u00f3n",
-      "url": "https://open.spotify.com/track/4KrNV7c0OvExztMVARxbDF"
     }
   ],
   "unique_name": "This Is Eden Mu\u00f1oz",

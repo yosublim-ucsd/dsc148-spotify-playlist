@@ -4,7 +4,7 @@
 
 > The most intense local drill music firing up the continent\. Cover:  Oseikrom Sikanii
 
-203 songs - 10 hr 17 min
+204 songs - 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Go German](https://open.spotify.com/track/1YpGByjEamqwgni31e3Ylu) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [Go German](https://open.spotify.com/album/566SSg2JNZLMGCVu8euxNN) | 2:58 | 2022-06-09 | 2023-02-24 |
 | [Goldigga](https://open.spotify.com/track/3pPxul1nGW600lvqFdBcLg) | [Samsney](https://open.spotify.com/artist/1RaVe8wzZ1DnL6fcAf1x2g), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Goldigga](https://open.spotify.com/album/4MUkSTaa9xxyeXdAB6geiO) | 3:02 | 2022-06-09 |  |
 | [Gye Nyame](https://open.spotify.com/track/3hOXkEML9Nnqr7Zkc5tRv0) | [Bosom P\-Yung](https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ) | [Gye Nyame](https://open.spotify.com/album/0r1Ii1oAWal96uPCJwqacm) | 2:19 | 2022-09-01 | 2022-10-14 |
+| [HABIBI](https://open.spotify.com/track/61KAFZT2UhKG7VBE3R9vec) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [HEALING](https://open.spotify.com/album/7jjKoKreEPJ8eGGz2fdDSH) | 2:56 | 2024-09-13 |  |
 | [Hate](https://open.spotify.com/track/1aOG93pV9v9fYvTTUC9UsZ) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Hate](https://open.spotify.com/album/33CQoQojSZtFZJO8xALGJ1) | 3:30 | 2024-05-17 |  |
 | [Heavy](https://open.spotify.com/track/3gx7QVp3Ai7caWWm0MBCW4) | [Kirani Ayat](https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9), [$pacely](https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1), [KONNEY](https://open.spotify.com/artist/2hoKCZleMjxNSKUu3eO1eG) | [ANFITO](https://open.spotify.com/album/09ONIT6lO4WhKLyDiZFtn6) | 2:17 | 2024-07-26 | 2024-09-13 |
 | [Hmm \- Remix](https://open.spotify.com/track/62slPHVX1XEFfdoxaUtosU) | [G4 Boyz](https://open.spotify.com/artist/4ZtqSJYEh407LR6NM5hNcS), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [O'Kenneth](https://open.spotify.com/artist/1ti1eoBDoZtKJVZSkCUY8h) | [Hmm \(Remix\)](https://open.spotify.com/album/7w1vWwOOr64HhVRTGIscTb) | 3:30 | 2022-06-09 | 2024-03-15 |

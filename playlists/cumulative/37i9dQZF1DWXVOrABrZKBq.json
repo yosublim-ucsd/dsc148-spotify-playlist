@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-03-09",
-  "description": "Le rap francophone est en forme. Photo: Leto",
-  "name": "Connexion Rap",
+  "description": "Le rap francophone est en forme. Photo: Tiakola",
+  "name": "Rap francophone",
   "tracks": [
     {
       "album": {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 116906,
       "name": "100K",
       "url": "https://open.spotify.com/track/0RXp3LrNZo89KjmfUJS0UO"
@@ -82,7 +82,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 202197,
       "name": "20 Benz",
       "url": "https://open.spotify.com/track/36HjmuPWCb5OJ991fwA4c8"
@@ -512,6 +512,28 @@
       "duration_ms": 176746,
       "name": "Bolide allemand",
       "url": "https://open.spotify.com/track/0EzNyXyU7gHzj2TN8qYThj"
+    },
+    {
+      "album": {
+        "name": "Bolide Noir",
+        "url": "https://open.spotify.com/album/6ujcbx6rGcYFkLw6epuWHW"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        },
+        {
+          "name": "JRK 19",
+          "url": "https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170800,
+      "name": "Bolide Noir",
+      "url": "https://open.spotify.com/track/14DLZ9FaTofhnXBiV38axE"
     },
     {
       "album": {
@@ -2100,7 +2122,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 193333,
       "name": "Les Flammes",
       "url": "https://open.spotify.com/track/4i6CKsl0vgzFF97h5nzpS3"
@@ -2140,6 +2162,32 @@
       "duration_ms": 194443,
       "name": "Malsain et sauf",
       "url": "https://open.spotify.com/track/7j3la4hrPWrfAfnbPitoGI"
+    },
+    {
+      "album": {
+        "name": "MANON B",
+        "url": "https://open.spotify.com/album/4kaRXOJNgAAa3Odl6ojLBf"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        },
+        {
+          "name": "Ryflo",
+          "url": "https://open.spotify.com/artist/4acowSAiQXmdhs4DCgUQ0U"
+        },
+        {
+          "name": "Oskoow",
+          "url": "https://open.spotify.com/artist/1eXXCUkwhu0MRLTamWEgXE"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169846,
+      "name": "MANON B",
+      "url": "https://open.spotify.com/track/2PYlRGF5Wi5sDobsLH5gLX"
     },
     {
       "album": {
@@ -2647,6 +2695,28 @@
     },
     {
       "album": {
+        "name": "Bonhomme Pendu 4 (Chapitre Perdu)",
+        "url": "https://open.spotify.com/album/5JWAUtRoJ0Lp2PLy7cn4it"
+      },
+      "artists": [
+        {
+          "name": "Lost",
+          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
+        },
+        {
+          "name": "Dinos",
+          "url": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238595,
+      "name": "Parades Photos",
+      "url": "https://open.spotify.com/track/7wc9odIwuIGgPnRpEHEd5B"
+    },
+    {
+      "album": {
         "name": "H\u00c9RITAGE",
         "url": "https://open.spotify.com/album/1Vdftv3A2gkksVtZO6gM1K"
       },
@@ -3048,7 +3118,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 214871,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/3AEJ9PoZEC6ovIv9rZy7aI"
@@ -3530,6 +3600,28 @@
       "duration_ms": 153649,
       "name": "Temps en temps",
       "url": "https://open.spotify.com/track/4RJ4yw4211nR1ggAved18G"
+    },
+    {
+      "album": {
+        "name": "Tentation (feat. Hamza)",
+        "url": "https://open.spotify.com/album/33Cvwo6OSmVMtrEwnvsTdP"
+      },
+      "artists": [
+        {
+          "name": "Gambi",
+          "url": "https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ"
+        },
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175787,
+      "name": "Tentation (feat. Hamza)",
+      "url": "https://open.spotify.com/track/2kpahpZlkZF8I2yFR65CIC"
     },
     {
       "album": {

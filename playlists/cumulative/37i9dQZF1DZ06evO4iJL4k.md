@@ -2,9 +2,9 @@
 
 ### [This Is Filipe Ret](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4iJL4k)
 
-> This is Filipe Ret\. The essential tracks, all in one playlist.
+> This is Filipe Ret\. Todos os maiores hits em uma só playlist.
 
-88 songs - 5 hr 57 min
+89 songs - 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [A Cara do Crime 3 \(Brinde à Liberdade\)](https://open.spotify.com/track/3fSxnkjdgPucRCskjmAlgx) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Bielzin](https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP) | [A Cara do Crime 3 \(Brinde à Liberdade\)](https://open.spotify.com/album/6oMk1qAJIZC9a02hgQ9Wsv) | 5:00 | 2023-09-21 |  |
 | [A Libertina](https://open.spotify.com/track/3SB6agr5USMImS0LZrEyNm) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Audaz](https://open.spotify.com/album/5qRuTVCxtZJ1HK0mdIUSAa) | 2:48 | 2023-09-21 |  |
 | [A Meu Favor](https://open.spotify.com/track/3aOnJBwzo1DVQmIJwgj8Au) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Kayuá](https://open.spotify.com/artist/6GRG2j3z9S1Lsa47YgPjkH), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Honaiser](https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT) | [LUME](https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG) | 2:15 | 2023-09-21 |  |
-| [Acende a Vela](https://open.spotify.com/track/4aTa2DgvWg9njylIa5KMl7) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Imaterial \(Deluxe\)](https://open.spotify.com/album/74v9BLECHPqKGRLfa24LRn) | 2:48 | 2023-09-21 |  |
+| [Acende a Vela](https://open.spotify.com/track/4aTa2DgvWg9njylIa5KMl7) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Imaterial \(Deluxe\)](https://open.spotify.com/album/74v9BLECHPqKGRLfa24LRn) | 2:48 | 2023-09-21 | 2024-09-14 |
 | [Além do Dinheiro](https://open.spotify.com/track/7qLM93TElkbHLnLBNviq3y) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ) | [Imaterial \(Deluxe\)](https://open.spotify.com/album/74v9BLECHPqKGRLfa24LRn) | 2:07 | 2023-09-21 |  |
 | [Amor Livre \- Ao Vivo](https://open.spotify.com/track/3PGg3V56krasXrPKNvVLQU) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [FRXV \(Ao Vivo\)](https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi) | 2:16 | 2023-12-16 |  |
 | [Asfalto do Catete](https://open.spotify.com/track/09fXcqx1zzseDgXTBT1Pbo) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Numa Margem Distante](https://open.spotify.com/album/7FlYqBtcwB9b51uq0OZYjJ) | 1:28 | 2023-11-10 | 2023-12-25 |
@@ -38,6 +38,7 @@
 | [EU SOU O TREM](https://open.spotify.com/track/7cHfnWEkL5KqfLg03G7Gic) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [LITTLE HAIR](https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V) | 3:45 | 2023-09-21 |  |
 | [F\* F\* M\*](https://open.spotify.com/track/0cHflpV8SSGbE0NKaasEfT) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Imaterial \(Deluxe\)](https://open.spotify.com/album/74v9BLECHPqKGRLfa24LRn) | 2:56 | 2023-09-21 |  |
 | [Faça Você Mesmo](https://open.spotify.com/track/7Mo2JNeuw6EJVSxN0sCvG9) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Audaz](https://open.spotify.com/album/5qRuTVCxtZJ1HK0mdIUSAa) | 3:47 | 2023-09-21 |  |
+| [Glória Pra Nós](https://open.spotify.com/track/5Zobl93oFR01ZBcjiQW2PE) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Revel](https://open.spotify.com/album/5XemDAjsXAgz0abzf5Adwq) | 3:42 | 2024-09-14 |  |
 | [Good Vibe](https://open.spotify.com/track/0ssgd2ZvDawP0KHGfBYRpv) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [LUME](https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG) | 3:01 | 2023-09-21 |  |
 | [Ilusão](https://open.spotify.com/track/3QpkDyuXdjxhIyLyKtyC6O) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Ilusão](https://open.spotify.com/album/06ZRaFS4lY8dQQXTYrAlOZ) | 3:37 | 2023-09-21 |  |
 | [Ilusão \- Ao Vivo](https://open.spotify.com/track/4mCLk3UKVlqduaXrPOHFyd) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [FRXV \(Ao Vivo\)](https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi) | 3:02 | 2024-08-16 | 2024-08-18 |

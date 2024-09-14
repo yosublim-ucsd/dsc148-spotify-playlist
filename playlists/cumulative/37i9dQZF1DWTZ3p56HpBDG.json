@@ -3133,6 +3133,24 @@
     },
     {
       "album": {
+        "name": "ORBIT",
+        "url": "https://open.spotify.com/album/4BwVKcjiIWd2ao6KMjSRh0"
+      },
+      "artists": [
+        {
+          "name": "Akshara",
+          "url": "https://open.spotify.com/artist/7j6UTsx4e5HxsHMPXCYy7Z"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199240,
+      "name": "ORBIT",
+      "url": "https://open.spotify.com/track/1SzyRqDVfbcZrcx37BJtse"
+    },
+    {
+      "album": {
         "name": "Out Of Order",
         "url": "https://open.spotify.com/album/0jnhqLUVvEbAx1Ui21qOfp"
       },
@@ -4206,6 +4224,28 @@
       "duration_ms": 237162,
       "name": "trevi fountain",
       "url": "https://open.spotify.com/track/1VZUg1xIkqqUUNCp2OPKIE"
+    },
+    {
+      "album": {
+        "name": "TRIP",
+        "url": "https://open.spotify.com/album/3H1H9MDFP3UnMeFWhYNGGR"
+      },
+      "artists": [
+        {
+          "name": "REHMA",
+          "url": "https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD"
+        },
+        {
+          "name": "Shreea Kaul",
+          "url": "https://open.spotify.com/artist/1c203LuoIFKuIn2X5Uz5lE"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186895,
+      "name": "TRIP",
+      "url": "https://open.spotify.com/track/7eS1jb9VkF7gjBttQth0vY"
     },
     {
       "album": {

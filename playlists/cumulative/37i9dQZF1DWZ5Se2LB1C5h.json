@@ -1244,7 +1244,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 237160,
       "name": "Find The Way",
       "url": "https://open.spotify.com/track/0f7ROOquhmSpNgbBeWh0hn"
@@ -1908,6 +1908,28 @@
       "duration_ms": 226621,
       "name": "In And Out Of Love",
       "url": "https://open.spotify.com/track/7nxTzZJmf2lLplk5pfV64h"
+    },
+    {
+      "album": {
+        "name": "In My Dreams",
+        "url": "https://open.spotify.com/album/5XSd8ZVFkVv0VsCznOA6Ia"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290625,
+      "name": "In My Dreams",
+      "url": "https://open.spotify.com/track/0cs3wJc2hHHGHw13ZTYf5j"
     },
     {
       "album": {
@@ -4166,7 +4188,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 190613,
       "name": "TURBINA",
       "url": "https://open.spotify.com/track/0rzvrAIOOLq1BlOfmfluY3"
@@ -4464,6 +4486,24 @@
       "duration_ms": 198652,
       "name": "Wild West",
       "url": "https://open.spotify.com/track/1tuae3XwQogVO0VULCtyGR"
+    },
+    {
+      "album": {
+        "name": "Wish You Knew",
+        "url": "https://open.spotify.com/album/1ZEqSJ6WHYk6UydPRwqUEP"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228840,
+      "name": "Wish You Knew",
+      "url": "https://open.spotify.com/track/508Lt6htU4xJEwjHrDL1OD"
     },
     {
       "album": {

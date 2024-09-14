@@ -4,7 +4,7 @@
 
 > y de la buena!
 
-321 songs - 18 hr 34 min
+322 songs - 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Algún Día Volverás](https://open.spotify.com/track/5Py45FF8phNy49BaehU3PC) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Algún Día Volverás](https://open.spotify.com/album/6KrxfZdEyAbE1rYJfuoH0i) | 4:13 | 2022-07-22 | 2022-10-29 |
 | [ALV](https://open.spotify.com/track/32hCeeK3ayPux4UauNPsgA) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Sentimiento, Elegancia y Más Maldad](https://open.spotify.com/album/21TAcmAXy0OY0U7B9LlwlY) | 3:44 | 2023-11-23 | 2024-04-27 |
 | [Amor \(Ft\. Mon Laferte\) \- Mtv Unplugged](https://open.spotify.com/track/2fscHtYDKLd7xYRCTe3prP) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Amor \(Ft\. Mon Laferte\) \(Mtv Unplugged\)](https://open.spotify.com/album/6CNdw6WvNlH86Y0h3rVQtw) | 5:12 | 2021-12-24 |  |
+| [Amor de Chat \- En vivo](https://open.spotify.com/track/0rBpusCK0zUkuEBrTcTpox) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Sergio Torres](https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg) | [Amor de Chat \- En Vivo](https://open.spotify.com/album/0NtnjBuRZchY2kvAN7UvTA) | 4:37 | 2024-09-13 |  |
 | [Amor De Historia](https://open.spotify.com/track/0kGBEJOC4g79SYaQ65WF2r) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Desafiándolo Todo](https://open.spotify.com/album/0QmzFxlI2t9WhPaOS9jRLK) | 3:04 | 2022-12-02 | 2023-01-18 |
 | [Amor Secreto](https://open.spotify.com/track/2UQRIy37YblE8WzcdLTWhZ) | [Villa Cariño](https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1) | [Amor Secreto](https://open.spotify.com/album/6FNhFtOYdyIvd17PlwJ81O) | 3:54 | 2021-12-24 | 2022-06-08 |
 | [AMOR, AMOR, AMOR](https://open.spotify.com/track/4yhOnSd2dwD43xMWREnV9m) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [AMOR, AMOR, AMOR](https://open.spotify.com/album/1NLKQfWrYokeq336G9eoyT) | 3:53 | 2021-12-24 | 2022-08-06 |
@@ -224,7 +225,7 @@
 | [POR QUÉ SERÁ](https://open.spotify.com/track/7cXGHxIoogqDTvbuLj0dsO) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [JUGANDO A QUE NO PASA NADA](https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk) | 3:29 | 2024-05-10 |  |
 | [Por Si Un Día Vuelves](https://open.spotify.com/track/1Kse9DjegXSKMVYpXFMBhg) | [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Por Si Un Día Vuelves](https://open.spotify.com/album/3I4Gw0LjdYKEVne7lF2FZr) | 2:42 | 2022-06-10 | 2022-07-01 |
 | [Porque te fuiste](https://open.spotify.com/track/2lWcmStzB7MbGipxM1l5l6) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [El Polaco \- Agradeciendo a Dios](https://open.spotify.com/album/7lbvLBGRxZi2c7czBHA5Rf) | 3:23 | 2022-12-02 |  |
-| [Pájaro y Demonio](https://open.spotify.com/track/2JjIRzMOIkIiM8WZ7fiXvx) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Pájaro y Demonio](https://open.spotify.com/album/00qCqI06k51qcsVRVMXLIQ) | 3:46 | 2024-07-19 |  |
+| [Pájaro y Demonio](https://open.spotify.com/track/2JjIRzMOIkIiM8WZ7fiXvx) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Pájaro y Demonio](https://open.spotify.com/album/00qCqI06k51qcsVRVMXLIQ) | 3:46 | 2024-07-19 | 2024-09-14 |
 | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/track/3ff8LOItlxi0S7J0XmxjF4) | [Cumbia Club](https://open.spotify.com/artist/1LWvHPrD7uPBU16bkZeh0x), [El Club de la Cumbia](https://open.spotify.com/artist/1WTE076oMv3AL15Ics0qnU), [Los Cumbia Stars](https://open.spotify.com/artist/3vK9K7420aB6FXJ32IDD9t) | [El Club De La Cumbia](https://open.spotify.com/album/4Nx1WcivvrP2fOAHMgNnpj) | 3:16 | 2024-06-07 |  |
 | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/track/2SQTteM7L4POuyKcMHpsoG) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/album/1t9cf3yWQcLKtBZT1s1DvY) | 4:15 | 2021-12-24 | 2022-07-29 |
 | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/track/0M0BRpsdr7alyNbfoDWQCA) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Cumbias De Verano Best Hits](https://open.spotify.com/album/29uIiFyT1LswhnoqkRGjIm) | 4:16 | 2022-10-28 | 2022-11-13 |

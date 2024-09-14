@@ -4,7 +4,7 @@
 
 > Koleksi lagu cinta untuk tambatan hati.
 
-126 songs - 8 hr 31 min
+127 songs - 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Kala Cinta Menggoda](https://open.spotify.com/track/2Lrl5kEt5tuD1s5NZxMoC0) | [Chrisye](https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279) | [Kidung Abadi](https://open.spotify.com/album/4Mw0OMk9TKpUHCkFQ9Tej5) | 5:25 | 2023-03-31 | 2023-04-20 |
 | [Kala Cinta Menggoda \- When Love Seduces](https://open.spotify.com/track/06appkVEXqR9RY21CUWX7U) | [Chrisye](https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279) | [Best Cinta \(Best Love\)](https://open.spotify.com/album/28ixVAc7oL2MC29F4Zpial) | 5:17 | 2023-04-17 | 2023-08-17 |
 | [Kamulah Satu\-Satunya](https://open.spotify.com/track/7qd2gICEYvgNJvYFWmDzA1) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs), [Dewa 19](https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d) | [Kamulah Satu\-Satunya](https://open.spotify.com/album/5yG5winkGz0uJNUofbpaiH) | 4:01 | 2023-02-03 |  |
+| [Karena Cinta](https://open.spotify.com/track/6Nhb0mkSF1REEnmagqnTZ3) | [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [Lovevolution](https://open.spotify.com/album/0fFHxX3y4ol8dGXZeqABeo) | 6:43 | 2024-09-13 |  |
 | [Karena Kucinta Kau](https://open.spotify.com/track/3OO0GMQomNOnhFli960HDz) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Hit Singles BCL And More](https://open.spotify.com/album/14gSWi2SS7idDqRhGYuv3j) | 4:52 | 2023-02-03 | 2024-05-01 |
 | [Kasih Putih](https://open.spotify.com/track/3Qiv7UhkqYeBExD6gZ1m3k) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [Kembali](https://open.spotify.com/album/7c9NuorRkB2t9ioSaRucBx) | 3:57 | 2023-02-03 |  |
 | [Katakan Saja](https://open.spotify.com/track/012WiZSgTedjCImYNyA1bF) | [Khifnu](https://open.spotify.com/artist/7eKNo6fozgNsKThGC40ol7) | [Katakan Saja](https://open.spotify.com/album/5bCGmjVjL7LfS6el6O0Nwp) | 4:23 | 2023-02-03 |  |

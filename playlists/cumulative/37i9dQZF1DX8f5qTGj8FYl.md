@@ -4,7 +4,7 @@
 
 > When the funk is too funky for words to keep up\. Cover: Cory Wong
 
-269 songs - 18 hr 33 min
+271 songs - 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Kong](https://open.spotify.com/track/1MrzCY8KeTcU2UGDITsAoz) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mirage](https://open.spotify.com/album/45yGFEPm310zjAc1psZzEv) | 4:47 | 2021-06-25 |  |
 | [Lifecycle](https://open.spotify.com/track/6UeV69QaXrzISZ5MdeX6Xs) | [Nathan East](https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ) | [Reverence](https://open.spotify.com/album/3ayk72lcIIR7YSNqmRPK5N) | 5:54 | 2020-11-13 |  |
 | [Lilypad](https://open.spotify.com/track/1nNBY2quWBB0h27OtuR9wx) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [The Striped Album](https://open.spotify.com/album/7BWRgbyTOEjtPyVUnTxwj8) | 2:58 | 2020-11-13 | 2024-07-27 |
+| [Liquid Star Duster](https://open.spotify.com/track/1kpC92qjiBpME2Jn5bptMi) | [Magic In Threes](https://open.spotify.com/artist/3OucMu53bbF9yGBcqI34ay) | [Liquid Star Duster](https://open.spotify.com/album/5QeGRRswz2WMW9jrkmeAv1) | 3:35 | 2024-09-13 |  |
 | [Living Off](https://open.spotify.com/track/7zLbAUkKTTQmNj0kPs55LH) | [Funk Off](https://open.spotify.com/artist/7lis4nJqfPm4jTXZdfAJDy) | [Uh Yeah!](https://open.spotify.com/album/6l1B3uOyqe1kWKQnMNIZdk) | 3:08 | 2020-11-13 |  |
 | [Look\-A Py Py](https://open.spotify.com/track/18Z1Tro6FApXmBeP4EICsn) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE) | [Undercover Mixtape](https://open.spotify.com/album/6XnaRujtyMCICItpFo4lQY) | 2:33 | 2020-11-13 | 2024-04-19 |
 | [Look\-A Py Py](https://open.spotify.com/track/4BrlJtA6O0Dfzs8YalBPWc) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE) | [Undercover Mixtape](https://open.spotify.com/album/4EZTraEOv1GmjzeK7OtRZ1) | 2:33 | 2020-11-13 |  |
@@ -174,7 +175,7 @@
 | [Old Blood](https://open.spotify.com/track/0QQKxC3lMUpvdPsUQBvxUS) | [Redtenbacher's Funkestra](https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA), [Horn House](https://open.spotify.com/artist/5HMo9VXm5R91AzkQBqNrlu) | [Old Blood](https://open.spotify.com/album/0aBpWXGurxzEG8Hume3qce) | 5:07 | 2021-11-19 |  |
 | [Open Season](https://open.spotify.com/track/2dXr3hdVlw1jaYaeNZR8tN) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE) | [Bacano](https://open.spotify.com/album/4S1FJKbcxCtEl5nzreGZ3E) | 5:08 | 2020-11-13 |  |
 | [Open Season](https://open.spotify.com/track/5jjzzQ9xQ1iYsrqABU2cYH) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE) | [Bacano](https://open.spotify.com/album/0WSLWbijlDB3tnbl2WcSgt) | 5:09 | 2020-11-13 | 2024-04-19 |
-| [Papas Groove](https://open.spotify.com/track/1EiVGHxcB0XwCSbigcI5kg) | [The Colleagues](https://open.spotify.com/artist/2KbzrjTYlv08KyvcblE8nT) | [Papas Groove](https://open.spotify.com/album/0YAcNfxytJ1KlQlJwT7Ve8) | 3:14 | 2023-08-04 |  |
+| [Papas Groove](https://open.spotify.com/track/1EiVGHxcB0XwCSbigcI5kg) | [The Colleagues](https://open.spotify.com/artist/2KbzrjTYlv08KyvcblE8nT) | [Papas Groove](https://open.spotify.com/album/0YAcNfxytJ1KlQlJwT7Ve8) | 3:14 | 2023-08-04 | 2024-09-14 |
 | [Patrol Acrobatique](https://open.spotify.com/track/37nNjtdPywMHpMZumunVP7) | [The Fearless Flyers](https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh) | [The Fearless Flyers III](https://open.spotify.com/album/5Wy2eDSTyXNP3GOV3n64Yc) | 1:36 | 2022-02-04 | 2024-04-19 |
 | [Patrol Acrobatique](https://open.spotify.com/track/6ygikF4l5lKtKHMErjg60K) | [The Fearless Flyers](https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh) | [Patrol Acrobatique](https://open.spotify.com/album/1B41vhxtYTfmRzDpJ2gk1Q) | 1:36 | 2022-02-04 |  |
 | [Penny Loafers](https://open.spotify.com/track/4TagapVZq18WJ30H7G561q) | [The Du\-Rites](https://open.spotify.com/artist/2Rui2r6tT4fRIuxZ5vVIpw) | [Penny Loafers](https://open.spotify.com/album/0lrVztiUElJCEscL1HDLVO) | 2:43 | 2023-08-04 |  |
@@ -183,6 +184,7 @@
 | [Plata O Plomo](https://open.spotify.com/track/7lMTcVcygsgIpaPfSM65Ou) | [The Blaxound](https://open.spotify.com/artist/5GzIm8kkafH9CEWi1VXDES), [Golden Rules](https://open.spotify.com/artist/05aFzjXP3Btq6cAL1PM8gz) | [Plata O Plomo](https://open.spotify.com/album/4EfhEYrciGQewHYHVxMlN8) | 2:31 | 2023-08-04 |  |
 | [Please, Please](https://open.spotify.com/track/3NQHRRNzE2NIkR0M7XI86w) | [Dr\. Delight](https://open.spotify.com/artist/5JSEvaXZzKFArz329teDzI) | [Please, Please](https://open.spotify.com/album/2zSr6sSKPOakgeDicEcr0V) | 2:31 | 2023-08-04 |  |
 | [Prime \(Electric Kiss\)](https://open.spotify.com/track/2LdeIrenmyRV7zYpLzyfgE) | [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0) | [contributions \(Side B\)](https://open.spotify.com/album/1SQOJ3Biss7BCXmhQQhmok) | 3:04 | 2022-05-06 |  |
+| [Primetime](https://open.spotify.com/track/31qT9EJDYWpSy9WhjmtbCm) | [The Colleagues](https://open.spotify.com/artist/2KbzrjTYlv08KyvcblE8nT) | [Primetime](https://open.spotify.com/album/6vbLnyyh7oIms54Qnl1CvV) | 2:59 | 2024-09-13 |  |
 | [PROG](https://open.spotify.com/track/6oHXksqLTLGNTBb24g1tRy) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [WINTER](https://open.spotify.com/album/5GRKKSeFR3jo08wsmvTZFa) | 2:06 | 2023-01-06 | 2023-02-18 |
 | [Prospect Park West](https://open.spotify.com/track/2kOjBttPwSgiyF7bCVposZ) | [Jerry McHoy](https://open.spotify.com/artist/3RyPaTgdLCj9NnEvjoI8Jf) | [Prospect Park West](https://open.spotify.com/album/0zWAfTc8xuvjciEGSfp6EJ) | 2:56 | 2022-07-08 | 2023-08-05 |
 | [Psychic Powers](https://open.spotify.com/track/4yTdRH0seHLM4QaHC3jKoS) | [Janko Nilovic](https://open.spotify.com/artist/44w54ag6mZjclpEET3ROf9), [The Soul Surfers](https://open.spotify.com/artist/1UST9Gt4W7PFIPrBuxTMP8) | [Psychic Powers](https://open.spotify.com/album/4JWBQMTD8OEsmELMJPxcTu) | 2:38 | 2022-04-01 | 2024-04-19 |
@@ -211,7 +213,7 @@
 | [Sir Somebody](https://open.spotify.com/track/7aHHRCZdz4ZW9tCN3nX5uv) | [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0) | [Sir Somebody](https://open.spotify.com/album/4SQDM8myIkEa4MDA5hz5fH) | 4:02 | 2021-11-26 |  |
 | [Sleep Depraved](https://open.spotify.com/track/4VDIqajjzfienIbv3zuu6o) | [Robert Walter](https://open.spotify.com/artist/4vqJywDSqxaNITMBlTRGER), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI), [Adam Deitch](https://open.spotify.com/artist/1robtEQJL2Fh639r3ksMfw) | [Sleep Depraved](https://open.spotify.com/album/5lZJfhuQGHwDcRJfktfRQK) | 4:17 | 2020-11-27 |  |
 | [Sleep Depraved](https://open.spotify.com/track/4KGPk8tcnfjwCGkyDDaVvp) | [WRD Trio](https://open.spotify.com/artist/3X7BXKZNdJxqDhkIxgwzCM), [Adam Deitch](https://open.spotify.com/artist/1robtEQJL2Fh639r3ksMfw), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI), [Robert Walter](https://open.spotify.com/artist/4vqJywDSqxaNITMBlTRGER) | [The Hit](https://open.spotify.com/album/1dzSCG6nov0zLtT0Bckdl1) | 4:17 | 2023-08-04 | 2024-04-19 |
-| [Smoked Poke Salad](https://open.spotify.com/track/502a3Ugy8CfT8fJHU0lgre) | [Magic In Threes](https://open.spotify.com/artist/3OucMu53bbF9yGBcqI34ay) | [Incidental Music](https://open.spotify.com/album/7wJQURyBRRRKwUecXxbI5K) | 2:55 | 2024-02-23 |  |
+| [Smoked Poke Salad](https://open.spotify.com/track/502a3Ugy8CfT8fJHU0lgre) | [Magic In Threes](https://open.spotify.com/artist/3OucMu53bbF9yGBcqI34ay) | [Incidental Music](https://open.spotify.com/album/7wJQURyBRRRKwUecXxbI5K) | 2:55 | 2024-02-23 | 2024-09-14 |
 | [Smokeshow](https://open.spotify.com/track/0XLakrxjjKxuKzgCiSiggV) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Smokeshow](https://open.spotify.com/album/41lISa0NJIZ5ftQ36VmZs3) | 4:02 | 2021-12-10 | 2023-06-16 |
 | [Smooth Move](https://open.spotify.com/track/6WFwC46XQapcmnToEcromu) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Smooth Move](https://open.spotify.com/album/6o9IZz9yXexSURHtYenXSa) | 5:16 | 2020-11-13 | 2024-02-03 |
 | [Soliloquy](https://open.spotify.com/track/1tfq45tFyHgq2ImK88yopM) | [Krispy & the Pooch](https://open.spotify.com/artist/2Aibp4rRO4mHmvBRkfK33Z) | [Soliloquy](https://open.spotify.com/album/5o1gURd5wKaniLghxjeyKd) | 2:50 | 2023-08-04 | 2024-04-19 |

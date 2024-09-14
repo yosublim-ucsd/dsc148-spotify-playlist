@@ -1,6 +1,6 @@
 {
   "description": "the soundtrack for your vitamin d fix. ",
-  "num_followers": 1140529,
+  "num_followers": 1140471,
   "original_name": "Soak Up The Sun",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-07-15 18:40:59",
       "album": {
-        "name": "Sexy to Someone",
-        "url": "https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 207795,
-      "name": "Sexy to Someone",
-      "url": "https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU"
-    },
-    {
-      "added_at": "2024-07-15 18:40:59",
-      "album": {
         "name": "ZABA",
         "url": "https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 289306,
       "name": "Gooey",
       "url": "https://open.spotify.com/track/1gk3FhAV07q9Jg77UxnVjX"
+    },
+    {
+      "added_at": "2024-07-15 18:40:59",
+      "album": {
+        "name": "Sexy to Someone",
+        "url": "https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 207795,
+      "name": "Sexy to Someone",
+      "url": "https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU"
     },
     {
       "added_at": "2024-07-15 18:40:59",
@@ -559,6 +559,26 @@
     {
       "added_at": "2024-07-15 18:40:59",
       "album": {
+        "name": "No More Lies",
+        "url": "https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 327217,
+      "name": "No More Lies",
+      "url": "https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj"
+    },
+    {
+      "added_at": "2024-07-15 18:40:59",
+      "album": {
         "name": "Feel Like That (feat. Bradley Nowell)",
         "url": "https://open.spotify.com/album/4Ocj71UOGUGwtn9PSH2wwY"
       },
@@ -583,26 +603,6 @@
       "duration_ms": 227554,
       "name": "Feel Like That (feat. Bradley Nowell)",
       "url": "https://open.spotify.com/track/193RlTGibelHrNqyAMEbLl"
-    },
-    {
-      "added_at": "2024-07-15 18:40:59",
-      "album": {
-        "name": "No More Lies",
-        "url": "https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt"
-      },
-      "artists": [
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        },
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 327217,
-      "name": "No More Lies",
-      "url": "https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj"
     },
     {
       "added_at": "2024-07-15 18:40:59",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-07-15 18:40:59",
       "album": {
-        "name": "Lost In Space",
-        "url": "https://open.spotify.com/album/02lrMtGj1XXii9azaaBtPl"
-      },
-      "artists": [
-        {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
-        }
-      ],
-      "duration_ms": 258939,
-      "name": "Lost In Space",
-      "url": "https://open.spotify.com/track/1PIBxfR4k67snh0hUSgzPs"
-    },
-    {
-      "added_at": "2024-07-15 18:40:59",
-      "album": {
         "name": "Vertigo",
         "url": "https://open.spotify.com/album/31N0p91JhTyeJaiP0VxRky"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 148326,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/7q32daOSf12k8WynvXBcyh"
+    },
+    {
+      "added_at": "2024-07-15 18:40:59",
+      "album": {
+        "name": "Lost In Space",
+        "url": "https://open.spotify.com/album/02lrMtGj1XXii9azaaBtPl"
+      },
+      "artists": [
+        {
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+        }
+      ],
+      "duration_ms": 258939,
+      "name": "Lost In Space",
+      "url": "https://open.spotify.com/track/1PIBxfR4k67snh0hUSgzPs"
     },
     {
       "added_at": "2024-07-15 18:40:59",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-07-15 18:40:59",
       "album": {
-        "name": "Strawberry Jam",
-        "url": "https://open.spotify.com/album/3WtWzLerFbkjmu2Uh2f2k9"
-      },
-      "artists": [
-        {
-          "name": "COIN",
-          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
-        }
-      ],
-      "duration_ms": 212320,
-      "name": "Strawberry Jam",
-      "url": "https://open.spotify.com/track/2ANtjCxEa3I883stgWh5Mz"
-    },
-    {
-      "added_at": "2024-07-15 18:40:59",
-      "album": {
         "name": "Is It Magic?",
         "url": "https://open.spotify.com/album/52tH77HLGn8Dq3zjXQn20e"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 188727,
       "name": "Is It Magic?",
       "url": "https://open.spotify.com/track/4mRX0FjuzicwZWbkRAE0Ht"
+    },
+    {
+      "added_at": "2024-07-15 18:40:59",
+      "album": {
+        "name": "Strawberry Jam",
+        "url": "https://open.spotify.com/album/3WtWzLerFbkjmu2Uh2f2k9"
+      },
+      "artists": [
+        {
+          "name": "COIN",
+          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
+        }
+      ],
+      "duration_ms": 212320,
+      "name": "Strawberry Jam",
+      "url": "https://open.spotify.com/track/2ANtjCxEa3I883stgWh5Mz"
     },
     {
       "added_at": "2024-07-15 18:40:59",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-07-15 18:40:59",
       "album": {
-        "name": "Nice to Meet You",
-        "url": "https://open.spotify.com/album/72DMNLy4QTiAK5hxjnV7GH"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 190760,
-      "name": "Nice to Meet You",
-      "url": "https://open.spotify.com/track/7sxb5C2mE0l5xfSL9M2hxQ"
-    },
-    {
-      "added_at": "2024-07-15 18:40:59",
-      "album": {
         "name": "Next Exit",
         "url": "https://open.spotify.com/album/4UfayZRNyvNRmayWpf2z7H"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 201000,
       "name": "Next Exit",
       "url": "https://open.spotify.com/track/0xkSfBYxRMTLgrinRJlzfz"
+    },
+    {
+      "added_at": "2024-07-15 18:40:59",
+      "album": {
+        "name": "Nice to Meet You",
+        "url": "https://open.spotify.com/album/72DMNLy4QTiAK5hxjnV7GH"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 190760,
+      "name": "Nice to Meet You",
+      "url": "https://open.spotify.com/track/7sxb5C2mE0l5xfSL9M2hxQ"
     },
     {
       "added_at": "2024-07-15 18:40:59",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-07-15 18:40:59",
       "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/2q59WbPEzBKEVJlKkh4Rp1"
-      },
-      "artists": [
-        {
-          "name": "MOD SUN",
-          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
-        }
-      ],
-      "duration_ms": 138466,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/4ChYzD2AahSZSSSevWrrbw"
-    },
-    {
-      "added_at": "2024-07-15 18:40:59",
-      "album": {
         "name": "Woodstock",
         "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 211720,
       "name": "Tidal Wave",
       "url": "https://open.spotify.com/track/384TqRlwlMfeUAODhXfF3O"
+    },
+    {
+      "added_at": "2024-07-15 18:40:59",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/2q59WbPEzBKEVJlKkh4Rp1"
+      },
+      "artists": [
+        {
+          "name": "MOD SUN",
+          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
+        }
+      ],
+      "duration_ms": 138466,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/4ChYzD2AahSZSSSevWrrbw"
     },
     {
       "added_at": "2024-07-15 18:40:59",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-07-15 18:40:59",
       "album": {
-        "name": "Rescue Me",
-        "url": "https://open.spotify.com/album/6WcG7TieHbllhLcjHNHRh8"
-      },
-      "artists": [
-        {
-          "name": "Dirty Heads",
-          "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
-        }
-      ],
-      "duration_ms": 172280,
-      "name": "Rescue Me",
-      "url": "https://open.spotify.com/track/7j4xf3LLFtAupXBAxgIde2"
-    },
-    {
-      "added_at": "2024-07-15 18:40:59",
-      "album": {
         "name": "Docket (feat. Bully)",
         "url": "https://open.spotify.com/album/5GuXfw9nUEx8TTmTpbrpEI"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 210493,
       "name": "Docket (feat. Bully)",
       "url": "https://open.spotify.com/track/3NfastUCFxLepBhv7UGSqR"
+    },
+    {
+      "added_at": "2024-07-15 18:40:59",
+      "album": {
+        "name": "Rescue Me",
+        "url": "https://open.spotify.com/album/6WcG7TieHbllhLcjHNHRh8"
+      },
+      "artists": [
+        {
+          "name": "Dirty Heads",
+          "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
+        }
+      ],
+      "duration_ms": 172280,
+      "name": "Rescue Me",
+      "url": "https://open.spotify.com/track/7j4xf3LLFtAupXBAxgIde2"
     },
     {
       "added_at": "2024-07-15 18:40:59",

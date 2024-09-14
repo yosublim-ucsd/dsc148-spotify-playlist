@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best of Christian Hip Hop today.  Cover:  <a href=\"spotify:artist:5qEZVKHzNjB8k5tAT41Iox\">Dee-1</a>",
+  "description": "The best of Christian Hip Hop today.  Cover:  <a href=\"spotify:artist:3zSrc5vUlUxyDdS0KrxFJO\">Hulvey</a>",
   "name": "The Flow",
   "tracks": [
     {
@@ -1270,6 +1270,24 @@
       "duration_ms": 170979,
       "name": "ANTI",
       "url": "https://open.spotify.com/track/3t8StJx2rSJgMm528VKNZy"
+    },
+    {
+      "album": {
+        "name": "CRY",
+        "url": "https://open.spotify.com/album/2fs3VSm0Nnl2fwA6IpZ0oW"
+      },
+      "artists": [
+        {
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108172,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/0KhsLo8VjOpv4D78Yhr0zj"
     },
     {
       "album": {
@@ -10343,6 +10361,28 @@
     },
     {
       "album": {
+        "name": "It's Time",
+        "url": "https://open.spotify.com/album/6KhGzjhjn0AX7juE7LOsRJ"
+      },
+      "artists": [
+        {
+          "name": "Childlike CiCi",
+          "url": "https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153469,
+      "name": "It's Time",
+      "url": "https://open.spotify.com/track/1buXNTGRvMLk1MMC1Apgjd"
+    },
+    {
+      "album": {
         "name": "IYKYK",
         "url": "https://open.spotify.com/album/3RX8fvorgRlQfdbYRlVzrl"
       },
@@ -11118,7 +11158,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 131932,
       "name": "leave it to God",
       "url": "https://open.spotify.com/track/0fPdM4EC9Fyh7Wk6SWVTht"
@@ -14362,6 +14402,24 @@
     {
       "album": {
         "name": "Okay",
+        "url": "https://open.spotify.com/album/1phXCGgVKVfLZOQXVnUs1b"
+      },
+      "artists": [
+        {
+          "name": "2'Live Bre",
+          "url": "https://open.spotify.com/artist/5dmGhAaINwsrzTyzQbDg0F"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192592,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/5xXYuRPBHPf1i2t7p4l34a"
+    },
+    {
+      "album": {
+        "name": "Okay",
         "url": "https://open.spotify.com/album/1HmM7Zy0QP4IIpVrKMTSGB"
       },
       "artists": [
@@ -14622,6 +14680,24 @@
       "duration_ms": 239999,
       "name": "On The Go (feat. Bryann T)",
       "url": "https://open.spotify.com/track/2WBLES2aiTe2lK9A6yAyoK"
+    },
+    {
+      "album": {
+        "name": "ON THE RADAR",
+        "url": "https://open.spotify.com/album/1cB0DhvXleoiFTr1NCb1yP"
+      },
+      "artists": [
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135145,
+      "name": "ON THE RADAR FREESTYLE",
+      "url": "https://open.spotify.com/track/3mgGp6fvyUyL8HG134Q5gs"
     },
     {
       "album": {
@@ -20532,7 +20608,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 126956,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/5ZpNrG5qK5ve7uNHMx1IG8"
@@ -20728,7 +20804,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 141962,
       "name": "True",
       "url": "https://open.spotify.com/track/4AvNvvdXXvYSc5R3uwAda8"
@@ -21536,7 +21612,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 126764,
       "name": "Water",
       "url": "https://open.spotify.com/track/25pt74MnSZoOSdjDCBo8f6"

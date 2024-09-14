@@ -5774,7 +5774,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 206580,
       "name": "How It Feels (feat. Lauren L'aimant)",
       "url": "https://open.spotify.com/track/76UBVe7ZXMJj8rXwIfFUPZ"
@@ -9076,6 +9076,24 @@
       "duration_ms": 503475,
       "name": "Miracle - R\u00dcF\u00dcS DU SOL Remix",
       "url": "https://open.spotify.com/track/2yTjbIZDwHO41HIwDNPB8K"
+    },
+    {
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/2707md8oZNvicxsOq7m6nU"
+      },
+      "artists": [
+        {
+          "name": "Antdot",
+          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279344,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/22FYG28v2UKUhnTO7ecOcn"
     },
     {
       "album": {
@@ -13300,6 +13318,10 @@
         {
           "name": "Uncle Waffles",
           "url": "https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ"
+        },
+        {
+          "name": "Tony Duardo",
+          "url": "https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z"
         },
         {
           "name": "Rampa",

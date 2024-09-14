@@ -4,7 +4,7 @@
 
 > <a href="spotify:track:6uIVBE5DHG3szAnaOyvf3l">Rick Ross Pt.2</a> til folket 🔥 <a href="spotify:album:3flSwxGfLdPtCnnVWaSyK0">Medina</a> x <a href="spotify:artist:3pJK3CUpbnyX7ogDfAwa9J">Tessa</a>
 
-2,049 songs - 4 day 9 hr 24 min
+2,052 songs - 4 day 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -397,6 +397,7 @@
 | [Dance With Me](https://open.spotify.com/track/2I5ipWaIXUknimwtJPoPYt) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dance With Me](https://open.spotify.com/album/1wkUCIDGpYN0PEIcyG4dS6) | 3:45 | 2024-06-13 | 2024-06-21 |
 | [Dancefloor Love](https://open.spotify.com/track/1mBZrgHa67hLlFRljpxSFN) | [Mowgli](https://open.spotify.com/artist/1dMKCVDiKj96gvK3Agana5) | [Dancefloor Love](https://open.spotify.com/album/1nQksb4OMxUI6dFwX16Xib) | 2:42 | 2024-09-05 | 2024-09-13 |
 | [Dancers](https://open.spotify.com/track/0MdXqGO6myqxt0FwvuOqMN) | [ALBA](https://open.spotify.com/artist/5MKM7cNYL4SIuIe6q4Qd1p) | [Dancers](https://open.spotify.com/album/4NQBMNfQxbgiVp8OCPbeJU) | 3:30 | 2024-06-13 | 2024-06-21 |
+| [Dancing In The Flames](https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dancing In The Flames](https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g) | 3:40 | 2024-09-13 |  |
 | [Dancing On Dynamite](https://open.spotify.com/track/69xtyFE0Vsm9PspAnp5Bmj) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Dancing On Dynamite](https://open.spotify.com/album/5uxfXlbkYB1GTDIDm1oYOa) | 2:42 | 2024-08-29 | 2024-09-06 |
 | [Dancing Type](https://open.spotify.com/track/3Gf35KMfySYgS8MFLFpIEc) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [Dancing Type](https://open.spotify.com/album/0P7SpW8srX9NHdROJwkGAy) | 2:35 | 2024-04-26 | 2024-05-03 |
 | [Dancing With The Devil](https://open.spotify.com/track/73QcKN6c6L8sFN5ZvaGLFI) | [BENJAMINRICH](https://open.spotify.com/artist/4TD3d7oNp9cr8Ub6QUI0XJ) | [Dancing With The Devil](https://open.spotify.com/album/6rtX52Tel2pDiy2GuK0Xmz) | 2:51 | 2024-07-11 | 2024-07-19 |
@@ -593,6 +594,7 @@
 | [Fame](https://open.spotify.com/track/12KIw1b8AmofCzMUjwSvxg) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [AlienBlaze](https://open.spotify.com/artist/79eu73GhyfHgYTGt6lTn34), [Fidi](https://open.spotify.com/artist/7E0x5KaMlXKgcCUU4v5jgL) | [Fame](https://open.spotify.com/album/71UtCZCIKAa8zsIxP1XKKJ) | 2:29 | 2024-04-26 | 2024-05-03 |
 | [Famous](https://open.spotify.com/track/74KwNjGfuyXm6GDOB3EwML) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Social Club](https://open.spotify.com/artist/3Mwexru3SCRXLESvoj2zGM) | [Famous](https://open.spotify.com/album/3qyvXBZ0Y5lhbbQXm7rrpw) | 2:27 | 2024-08-22 | 2024-08-30 |
 | [Famous Girl](https://open.spotify.com/track/62KYfsqveMHjmwZbU69OH7) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Famous Girl](https://open.spotify.com/album/45wtTSPu9kEpYp0CQjYtWF) | 2:56 | 2024-04-26 | 2024-05-03 |
+| [FAR FETCHED \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/5ZY1qGibLsa2xZm0XUe36g) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [FAR FETCHED \(feat\. Ty Dolla $ign\)](https://open.spotify.com/album/0Ss227Tev7vSTbFtTfIm3y) | 4:07 | 2024-09-13 |  |
 | [FART PÅ](https://open.spotify.com/track/5j9MuFxj165svBkQmKuJxp) | [BOILERS](https://open.spotify.com/artist/3xdxQ8fboHLHVfL9R4MvZ8), [Magzim](https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn), [Jasmin](https://open.spotify.com/artist/1BYFmBdL7bfUFuNrwzvAw0) | [FART PÅ](https://open.spotify.com/album/6oZgUl3yrxolN252jBKB67) | 2:25 | 2024-06-27 | 2024-07-05 |
 | [Fartblind](https://open.spotify.com/track/5ap2LagBiIXYkxuROXgv9q) | [Mads Langer](https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x) | [Fartblind](https://open.spotify.com/album/7EoVkxuxuEOqh483a52H8f) | 3:38 | 2024-06-27 | 2024-07-05 |
 | [farveløs](https://open.spotify.com/track/3qkQIiGA1pwKjqsMCpMorX) | [RAES](https://open.spotify.com/artist/2Cjjx7kWrrl7Ewj264zbsx) | [farveløs](https://open.spotify.com/album/2L9eRMxeMuboQhPGErd0lr) | 3:08 | 2024-09-12 |  |
@@ -1421,6 +1423,7 @@
 | [Pace Of Time](https://open.spotify.com/track/6McWPrixUAAoF5f2WCfy5E) | [Max Martis](https://open.spotify.com/artist/0GpzL6fwRoreOHX7dfNvwr), [Eliine](https://open.spotify.com/artist/1E2Zt9ZCpNq2Styo5IzYHk) | [Pace Of Time](https://open.spotify.com/album/3n6M8Xk5bSXkdRiFTsvvBE) | 2:42 | 2024-05-16 | 2024-05-24 |
 | [Pacifist](https://open.spotify.com/track/4vNHK5aMxfNaYr63Ref98R) | [Nanna Bottos](https://open.spotify.com/artist/0xoGDgIUsZaAwfSnIzA0V2) | [Pacifist](https://open.spotify.com/album/1mNnhgEogBi5yJTGBGv54d) | 3:03 | 2024-08-29 | 2024-09-06 |
 | [Pad Thai](https://open.spotify.com/track/2V4WavDKcWrlmzFXmlNv7k) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Pad Thai](https://open.spotify.com/album/3ThGd1eoD9xHmzpUxqAqIS) | 3:01 | 2024-05-16 | 2024-05-24 |
+| [Painkillers](https://open.spotify.com/track/6Ake7ca9JjNyNzDa6C0ZR3) | [Selma Judith](https://open.spotify.com/artist/5LLTM3JbwyRIPXqJMSH0hc) | [Half truths from a broken heart](https://open.spotify.com/album/2nIJGhfS4tHqEl6gFDsjNz) | 4:10 | 2024-09-13 |  |
 | [Paint The Town Red](https://open.spotify.com/track/7wdOWht7223W5iJN3FRgm0) | [Harrison](https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94), [Jessica Hammond](https://open.spotify.com/artist/2lsJv6qUERUm02g6uaxRri) | [Paint The Town Red](https://open.spotify.com/album/5ujSE4APQYtLYSbUE5HukA) | 3:09 | 2024-05-09 | 2024-05-17 |
 | [Panic](https://open.spotify.com/track/3r7GgRegpst8F5jjDmfD6W) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Corbyn Besson](https://open.spotify.com/artist/1bWUA5b7GHPymK5dZrf7tj) | [Panic](https://open.spotify.com/album/7wrFawWVd9g2UeOuj0rOfU) | 2:53 | 2024-08-01 | 2024-08-09 |
 | [paopu fruit](https://open.spotify.com/track/7kyYEezYgo6nBOeVLP2CGJ) | [shinyhunt](https://open.spotify.com/artist/6HzmHkcqEfZjqzsd5rGG63) | [paopu fruit](https://open.spotify.com/album/5m2mczqQbbozBYhkyqepIU) | 4:10 | 2024-07-04 | 2024-07-12 |

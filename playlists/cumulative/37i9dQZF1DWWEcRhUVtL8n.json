@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "New and approved indie pop. Cover: Valley",
+  "description": "New and approved indie pop. Cover: Dayglow",
   "name": "Indie Pop",
   "tracks": [
     {
@@ -6350,7 +6350,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 225973,
       "name": "Close To You",
       "url": "https://open.spotify.com/track/5MPi9e7z46wopyad10R6qx"
@@ -8028,6 +8028,24 @@
       "duration_ms": 199758,
       "name": "Dead Girl Walking",
       "url": "https://open.spotify.com/track/3yvfF8a3MEpoE58lrIARnX"
+    },
+    {
+      "album": {
+        "name": "Verbathim",
+        "url": "https://open.spotify.com/album/6aLc5t3mdbmonoCZMAnZ7N"
+      },
+      "artists": [
+        {
+          "name": "Nemahsis",
+          "url": "https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167600,
+      "name": "dead giveaway",
+      "url": "https://open.spotify.com/track/3Eidg0OLrDYFjsyjJTzieL"
     },
     {
       "album": {
@@ -14847,6 +14865,24 @@
     },
     {
       "album": {
+        "name": "Husk",
+        "url": "https://open.spotify.com/album/13KxV6ezroXhAW7sPEG6QS"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204651,
+      "name": "Husk",
+      "url": "https://open.spotify.com/track/0iMSUfh4oQplV5OrmrlIbm"
+    },
+    {
+      "album": {
         "name": "Hydra (Stripped)",
         "url": "https://open.spotify.com/album/0oIPf7Xu4ucL5yXaEiTEap"
       },
@@ -18444,7 +18480,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 222260,
       "name": "Legs",
       "url": "https://open.spotify.com/track/4MfniDlEjoHjlc5InztTdR"
@@ -21027,6 +21063,24 @@
     },
     {
       "album": {
+        "name": "Dayglow",
+        "url": "https://open.spotify.com/album/6dc1gFl6kyF8LqZ9IGfaYx"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278460,
+      "name": "Mindless Creatures",
+      "url": "https://open.spotify.com/track/5lzZuwEPInxJRwYUQFqIlH"
+    },
+    {
+      "album": {
         "name": "Minimum Wage",
         "url": "https://open.spotify.com/album/4uKDcWQqRuf4W7wrdtgzwp"
       },
@@ -21704,7 +21758,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 208983,
       "name": "My Body's My Buddy",
       "url": "https://open.spotify.com/track/1Ra2A7WtslDs3V6bEwpVkO"
@@ -22688,6 +22742,24 @@
       "duration_ms": 161536,
       "name": "no song without you",
       "url": "https://open.spotify.com/track/3KKUf8F2hktFscLgbH4YwR"
+    },
+    {
+      "album": {
+        "name": "No Way To Relax When You Are On Fire",
+        "url": "https://open.spotify.com/album/50nvPOvceq4QENvfPhSEoC"
+      },
+      "artists": [
+        {
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242240,
+      "name": "No Way To Relax When You Are On Fire",
+      "url": "https://open.spotify.com/track/5HSlL9XmvYOVDynR2E13vc"
     },
     {
       "album": {
@@ -27152,7 +27224,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 180626,
       "name": "savior",
       "url": "https://open.spotify.com/track/2cPgl2d9IPeNB8794NftZT"
@@ -34043,6 +34115,24 @@
     },
     {
       "album": {
+        "name": "Wally",
+        "url": "https://open.spotify.com/album/2NAntlPmxafv0ZvpBhA1lI"
+      },
+      "artists": [
+        {
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128332,
+      "name": "Wally",
+      "url": "https://open.spotify.com/track/2hsb9d9qzr3KnlgQRzrZX9"
+    },
+    {
+      "album": {
         "name": "Wannabe",
         "url": "https://open.spotify.com/album/69vN2qVlOrzPtvI7lX2mLE"
       },
@@ -34440,7 +34530,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 232625,
       "name": "Welcome To My Island",
       "url": "https://open.spotify.com/track/4bp2wYweUPvsBrQfntdYcr"

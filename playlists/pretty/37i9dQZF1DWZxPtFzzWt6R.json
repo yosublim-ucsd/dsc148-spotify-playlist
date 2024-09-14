@@ -1,6 +1,6 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Can\u00e7\u00e3o & Louvor",
-  "num_followers": 86858,
+  "num_followers": 86892,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,6 @@
     {
       "added_at": "2024-09-06 03:01:00",
       "album": {
-        "name": "Adorador por Excel\u00eancia (Ao Vivo)",
-        "url": "https://open.spotify.com/album/53CN56MYCjXDkDBkWmmusF"
-      },
-      "artists": [
-        {
-          "name": "Nani Azevedo",
-          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
-        }
-      ],
-      "duration_ms": 239728,
-      "name": "Adorador por Excel\u00eancia - Ao Vivo",
-      "url": "https://open.spotify.com/track/7hjuwRZx76dcxlmsUgVVzc"
-    },
-    {
-      "added_at": "2024-09-06 03:01:00",
-      "album": {
         "name": "Estou Contigo",
         "url": "https://open.spotify.com/album/7AcXBzod9ZPav1WkAtZXwE"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 249344,
       "name": "Estou Contigo",
       "url": "https://open.spotify.com/track/4Flh4Rfy3yFmHqtlkh7bk2"
+    },
+    {
+      "added_at": "2024-09-06 03:01:00",
+      "album": {
+        "name": "Adorador por Excel\u00eancia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/53CN56MYCjXDkDBkWmmusF"
+      },
+      "artists": [
+        {
+          "name": "Nani Azevedo",
+          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
+        }
+      ],
+      "duration_ms": 239728,
+      "name": "Adorador por Excel\u00eancia - Ao Vivo",
+      "url": "https://open.spotify.com/track/7hjuwRZx76dcxlmsUgVVzc"
     },
     {
       "added_at": "2024-09-06 03:01:00",
@@ -699,18 +699,22 @@
     {
       "added_at": "2024-09-06 03:01:00",
       "album": {
-        "name": "Situa\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/1EcK5zQWGrS0Kcrp7RMFUq"
+        "name": "Mais que Vencedor (feat. Carlos Henrique)",
+        "url": "https://open.spotify.com/album/67hDmO0TuD5Dsau7zZbK73"
       },
       "artists": [
         {
-          "name": "Stefhany",
-          "url": "https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9"
+          "name": "Kleuder Le\u00e3o",
+          "url": "https://open.spotify.com/artist/7Ft5r1OOfJxIoMrm61T8tk"
+        },
+        {
+          "name": "Carlos Henrique",
+          "url": "https://open.spotify.com/artist/3QlHTFeE4uEB4zLEv9gy4r"
         }
       ],
-      "duration_ms": 261967,
-      "name": "Situa\u00e7\u00f5es",
-      "url": "https://open.spotify.com/track/0NxxwJsa9DO5oCRpiPet5G"
+      "duration_ms": 215099,
+      "name": "Mais que Vencedor (feat. Carlos Henrique)",
+      "url": "https://open.spotify.com/track/1q3rYJMoGc0FDhdyPcTnBw"
     },
     {
       "added_at": "2024-09-06 03:01:00",
@@ -731,22 +735,18 @@
     {
       "added_at": "2024-09-06 03:01:00",
       "album": {
-        "name": "Mais que Vencedor (feat. Carlos Henrique)",
-        "url": "https://open.spotify.com/album/67hDmO0TuD5Dsau7zZbK73"
+        "name": "Situa\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/1EcK5zQWGrS0Kcrp7RMFUq"
       },
       "artists": [
         {
-          "name": "Kleuder Le\u00e3o",
-          "url": "https://open.spotify.com/artist/7Ft5r1OOfJxIoMrm61T8tk"
-        },
-        {
-          "name": "Carlos Henrique",
-          "url": "https://open.spotify.com/artist/3QlHTFeE4uEB4zLEv9gy4r"
+          "name": "Stefhany",
+          "url": "https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9"
         }
       ],
-      "duration_ms": 215099,
-      "name": "Mais que Vencedor (feat. Carlos Henrique)",
-      "url": "https://open.spotify.com/track/1q3rYJMoGc0FDhdyPcTnBw"
+      "duration_ms": 261967,
+      "name": "Situa\u00e7\u00f5es",
+      "url": "https://open.spotify.com/track/0NxxwJsa9DO5oCRpiPet5G"
     },
     {
       "added_at": "2024-09-06 03:01:00",

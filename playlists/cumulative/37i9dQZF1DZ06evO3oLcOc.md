@@ -2,7 +2,7 @@
 
 ### [This Is Tyga](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3oLcOc)
 
-> This is Tyga\. Todos os maiores hits em uma só playlist.
+> This is Tyga\. The essential tracks, all in one playlist.
 
 85 songs - 4 hr 22 min
 

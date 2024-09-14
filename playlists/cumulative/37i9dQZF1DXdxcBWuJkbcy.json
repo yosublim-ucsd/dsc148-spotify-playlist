@@ -9095,32 +9095,6 @@
     },
     {
       "album": {
-        "name": "Lift Me Up (feat. Kyozo)",
-        "url": "https://open.spotify.com/album/62dbLJwnEArDhNjiCFgMxA"
-      },
-      "artists": [
-        {
-          "name": "Adam Beyer",
-          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
-        },
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Kyozo",
-          "url": "https://open.spotify.com/artist/6RvOjSdkA47bpr5qejYm1v"
-        }
-      ],
-      "date_added": "2024-08-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 233203,
-      "name": "Lift Me Up",
-      "url": "https://open.spotify.com/track/0IxBytxMiyOhfK8yvonEPp"
-    },
-    {
-      "album": {
         "name": "Lift Me Up (feat. Carla Monroe)",
         "url": "https://open.spotify.com/album/1Ni9k0BcpXn2cUWsquLqLV"
       },
@@ -9148,6 +9122,32 @@
       "duration_ms": 177120,
       "name": "Lift Me Up (feat. Carla Monroe)",
       "url": "https://open.spotify.com/track/0vK80mtYypq4dAwQelZ2Dh"
+    },
+    {
+      "album": {
+        "name": "Lift Me Up (feat. Kyozo)",
+        "url": "https://open.spotify.com/album/62dbLJwnEArDhNjiCFgMxA"
+      },
+      "artists": [
+        {
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Kyozo",
+          "url": "https://open.spotify.com/artist/6RvOjSdkA47bpr5qejYm1v"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233203,
+      "name": "Lift Me Up (feat. Kyozo)",
+      "url": "https://open.spotify.com/track/0IxBytxMiyOhfK8yvonEPp"
     },
     {
       "album": {

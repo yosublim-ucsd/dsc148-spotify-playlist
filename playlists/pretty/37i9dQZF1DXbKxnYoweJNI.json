@@ -280,12 +280,12 @@
       },
       "artists": [
         {
-          "name": "Deb Fan",
-          "url": "https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m"
-        },
-        {
           "name": "miso808",
           "url": "https://open.spotify.com/artist/4JYjh6QC7QnE3KLjtyrCUz"
+        },
+        {
+          "name": "Deb Fan",
+          "url": "https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m"
         }
       ],
       "duration_ms": 167290,
@@ -539,7 +539,7 @@
     {
       "added_at": "2024-09-12 16:00:00",
       "album": {
-        "name": "Remember what I said",
+        "name": "\u8981\u8bb0\u5f97\u6211\u8bf4\u8fc7\u7684\u8bdd",
         "url": "https://open.spotify.com/album/2NYI2RoH9Ht0xH3Mg8dw5c"
       },
       "artists": [
@@ -627,6 +627,42 @@
     {
       "added_at": "2024-09-12 16:00:00",
       "album": {
+        "name": "I've been thinking about you all day and all night",
+        "url": "https://open.spotify.com/album/55Z6dwW11mHxyQegektWRP"
+      },
+      "artists": [
+        {
+          "name": "Potato\u99ac\u9234\u85af\u5c0f\u5f1f",
+          "url": "https://open.spotify.com/artist/0riRJxCMWZWKHfFcLpkpGq"
+        },
+        {
+          "name": "Woosic",
+          "url": "https://open.spotify.com/artist/2Fw2S8a321wjtk7uyAOVTL"
+        }
+      ],
+      "duration_ms": 212571,
+      "name": "I've been thinking about you all day and all night",
+      "url": "https://open.spotify.com/track/7k5b866cwiko3hAk5Jc9QN"
+    },
+    {
+      "added_at": "2024-09-12 16:00:00",
+      "album": {
+        "name": "Diary",
+        "url": "https://open.spotify.com/album/6leY9wlIyovc9h5EpXcULk"
+      },
+      "artists": [
+        {
+          "name": "Crossing-\u8de8\u4e16\u5144\u5f1f",
+          "url": "https://open.spotify.com/artist/78JfivRUsg9hKmS5yIUpol"
+        }
+      ],
+      "duration_ms": 107608,
+      "name": "\u2f8f\u52d5\u5351\u9119",
+      "url": "https://open.spotify.com/track/4dUhl2o7pSjrnSsp34C9Rb"
+    },
+    {
+      "added_at": "2024-09-12 16:00:00",
+      "album": {
         "name": "9%",
         "url": "https://open.spotify.com/album/6vdkQe8qCS1XDB5z7h8Ymm"
       },
@@ -639,6 +675,22 @@
       "duration_ms": 189336,
       "name": "9%",
       "url": "https://open.spotify.com/track/7qgTFNQxUJKtUYCpKNvbyD"
+    },
+    {
+      "added_at": "2024-09-12 16:00:00",
+      "album": {
+        "name": "By My Side",
+        "url": "https://open.spotify.com/album/1zEfLVBq2jLYMY7YUx5QU3"
+      },
+      "artists": [
+        {
+          "name": "\u8449\u7fca\u6fa4",
+          "url": "https://open.spotify.com/artist/0Ta2xhoXsERhsIgaqJ35sD"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "By My Side",
+      "url": "https://open.spotify.com/track/4XAxzvufH5oUhC14nIUE2k"
     },
     {
       "added_at": "2024-09-12 16:00:00",

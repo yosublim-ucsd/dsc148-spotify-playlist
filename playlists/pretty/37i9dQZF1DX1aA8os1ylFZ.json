@@ -1,6 +1,6 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 243186,
+  "num_followers": 243191,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-09-05 22:18:54",
       "album": {
-        "name": "Next Chapter",
-        "url": "https://open.spotify.com/album/1CYWwUlTWMQwT2M7rUnqkf"
-      },
-      "artists": [
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        }
-      ],
-      "duration_ms": 149966,
-      "name": "Hurts Me To Know",
-      "url": "https://open.spotify.com/track/0yZ6a47o7jfO5PmFjbQwCi"
-    },
-    {
-      "added_at": "2024-09-05 22:18:54",
-      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/21GSzeC5WsPl6HpRZkYHRU"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 170129,
       "name": "Rise",
       "url": "https://open.spotify.com/track/7lEUWRaF6TKaoVOptL4U4E"
+    },
+    {
+      "added_at": "2024-09-05 22:18:54",
+      "album": {
+        "name": "Next Chapter",
+        "url": "https://open.spotify.com/album/1CYWwUlTWMQwT2M7rUnqkf"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "duration_ms": 149966,
+      "name": "Hurts Me To Know",
+      "url": "https://open.spotify.com/track/0yZ6a47o7jfO5PmFjbQwCi"
     },
     {
       "added_at": "2024-09-05 22:18:54",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2024-09-05 22:18:54",
       "album": {
-        "name": "Wish You Were Here",
-        "url": "https://open.spotify.com/album/3KzXjaZ3bOVtC6RgFCkUTE"
-      },
-      "artists": [
-        {
-          "name": "Dende",
-          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
-        },
-        {
-          "name": "J Warner",
-          "url": "https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo"
-        }
-      ],
-      "duration_ms": 215152,
-      "name": "Slide",
-      "url": "https://open.spotify.com/track/15SHKUdlRaqIVTJWcP5n5a"
-    },
-    {
-      "added_at": "2024-09-05 22:18:54",
-      "album": {
         "name": "Risk It All (From the Original Motion Picture \u201cThe Color Purple\u201d)",
         "url": "https://open.spotify.com/album/56QjItp9BaAC2e7GkYZLwd"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 201347,
       "name": "Risk It All - From the Original Motion Picture \u201cThe Color Purple\u201d",
       "url": "https://open.spotify.com/track/4zSlPg0zHNNRukp2p07jrm"
+    },
+    {
+      "added_at": "2024-09-05 22:18:54",
+      "album": {
+        "name": "Wish You Were Here",
+        "url": "https://open.spotify.com/album/3KzXjaZ3bOVtC6RgFCkUTE"
+      },
+      "artists": [
+        {
+          "name": "Dende",
+          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
+        },
+        {
+          "name": "J Warner",
+          "url": "https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo"
+        }
+      ],
+      "duration_ms": 215152,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/15SHKUdlRaqIVTJWcP5n5a"
     },
     {
       "added_at": "2024-09-05 22:18:54",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-09-05 22:18:54",
       "album": {
-        "name": "Double Tragedy",
-        "url": "https://open.spotify.com/album/5Knkg9Hx7EoJE4ZnLX7f8H"
-      },
-      "artists": [
-        {
-          "name": "Hailey Knox",
-          "url": "https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH"
-        }
-      ],
-      "duration_ms": 165520,
-      "name": "Double Tragedy",
-      "url": "https://open.spotify.com/track/2Zs7Q7lJB1aUDL06rE2xN2"
-    },
-    {
-      "added_at": "2024-09-05 22:18:54",
-      "album": {
         "name": "Your Love Is All I Need",
         "url": "https://open.spotify.com/album/4vTUoDz2degpD1NHfCJ0vg"
       },
@@ -1183,18 +1167,18 @@
     {
       "added_at": "2024-09-05 22:18:54",
       "album": {
-        "name": "COMING HOME (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7GZwgBHhaazZ2QnrvbpDPO"
+        "name": "Double Tragedy",
+        "url": "https://open.spotify.com/album/5Knkg9Hx7EoJE4ZnLX7f8H"
       },
       "artists": [
         {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+          "name": "Hailey Knox",
+          "url": "https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH"
         }
       ],
-      "duration_ms": 211644,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/4YYpXaONSBsD2wVAsfxFH6"
+      "duration_ms": 165520,
+      "name": "Double Tragedy",
+      "url": "https://open.spotify.com/track/2Zs7Q7lJB1aUDL06rE2xN2"
     },
     {
       "added_at": "2024-09-05 22:18:54",
@@ -1243,6 +1227,22 @@
       "duration_ms": 121211,
       "name": "FIRST PLACE",
       "url": "https://open.spotify.com/track/0eOyi2vAmX9ZxXhZ1aAEMy"
+    },
+    {
+      "added_at": "2024-09-05 22:18:54",
+      "album": {
+        "name": "COMING HOME (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7GZwgBHhaazZ2QnrvbpDPO"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 211644,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/4YYpXaONSBsD2wVAsfxFH6"
     },
     {
       "added_at": "2024-09-05 22:18:54",

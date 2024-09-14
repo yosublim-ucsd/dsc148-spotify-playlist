@@ -1241,6 +1241,24 @@
     },
     {
       "album": {
+        "name": "Miley",
+        "url": "https://open.spotify.com/album/7BSCiN1DxXoh7ze1vGQE5y"
+      },
+      "artists": [
+        {
+          "name": "Culture Wars",
+          "url": "https://open.spotify.com/artist/0DoNSZa1R1DV69oY1djlbf"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213933,
+      "name": "Miley",
+      "url": "https://open.spotify.com/track/3XOD4lBBCFU1qea6zvdqvZ"
+    },
+    {
+      "album": {
         "name": "Millionaires",
         "url": "https://open.spotify.com/album/68XR6FyZCuE20QBkQUvVFL"
       },
@@ -2522,7 +2540,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 203149,
       "name": "\u30c0\u30f3\u30b9\u30db\u30fc\u30eb",
       "url": "https://open.spotify.com/track/4NaaF28BeO9WzjDrSS71Nz"

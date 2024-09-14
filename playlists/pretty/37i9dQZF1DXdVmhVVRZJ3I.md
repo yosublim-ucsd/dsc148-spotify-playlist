@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 
 > Eletrônico energético para acompanhar a sua malhação diária.
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,631 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,713 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 | 42 | [One in a Million \- Alok Remix](https://open.spotify.com/track/0nuszfz2u3hjdCDaNhc4m2) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [One in a Million \(Alok Remix\)](https://open.spotify.com/album/73bk5G6KNwb6gF1rjBXa4o) | 2:22 |
 | 43 | [Dali](https://open.spotify.com/track/2aCHISDYlq4nbKyi195Tac) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht) | [Dali](https://open.spotify.com/album/6UDVIUlB7nvJ4KDNTymxxv) | 2:59 |
 | 44 | [Rhythm of the Night](https://open.spotify.com/track/7ilFvm0mQy8WFsi67e3flq) | [Felguk](https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf), [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Yass](https://open.spotify.com/artist/1IfDLRzm8snCcXePrYzEI8) | [Rhythm of the Night](https://open.spotify.com/album/6BgupXtbUerk3l7hLOjxf1) | 3:17 |
-| 45 | [079](https://open.spotify.com/track/1ULaCASWLNrzg76Jt3VDWd) | [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY), [Block Notice](https://open.spotify.com/artist/60rugLFQWUwxQEAT8ViGzq) | [079](https://open.spotify.com/album/717BskCJ1pYenCuIzoEPW6) | 2:48 |
-| 46 | [Kikada](https://open.spotify.com/track/4RmjlmdNRXdSZs9cYiqcBS) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Kikada](https://open.spotify.com/album/05bGRP0xhmJMa0FIjgIPXK) | 3:03 |
+| 45 | [Kikada](https://open.spotify.com/track/4RmjlmdNRXdSZs9cYiqcBS) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Kikada](https://open.spotify.com/album/05bGRP0xhmJMa0FIjgIPXK) | 3:03 |
+| 46 | [079](https://open.spotify.com/track/1ULaCASWLNrzg76Jt3VDWd) | [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY), [Block Notice](https://open.spotify.com/artist/60rugLFQWUwxQEAT8ViGzq) | [079](https://open.spotify.com/album/717BskCJ1pYenCuIzoEPW6) | 2:48 |
 | 47 | [Won't Back Down](https://open.spotify.com/track/58NXc2BrSHGkkPb1RWabkx) | [PRINSH](https://open.spotify.com/artist/5h94tCQLiKuHEOlZMgMRJ4) | [Won't Back Down](https://open.spotify.com/album/4rSbStRk8uNhSe1BrUPHII) | 2:45 |
 | 48 | [Oscillator \(Jack Is Back\)](https://open.spotify.com/track/6WPazu06dUe2cQ95KbS6NN) | [illusionize](https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L), [DJ Glen](https://open.spotify.com/artist/7FhUEuhPe1odyNav1iHfvd), [Chuck Roberts](https://open.spotify.com/artist/239FYJjvsOE1bGL58BSVgu) | [Oscillator \(Jack Is Back\)](https://open.spotify.com/album/6IyQxAbhpHfUeL3zbjNx0z) | 2:48 |
 | 49 | [Atomic Bomb \(feat\. Juan Alcasar\)](https://open.spotify.com/track/1Ge8px4DSNseb1atf9XumE) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Jetlag Music](https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh), [Vitor Bueno](https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi), [Juan Alcasar](https://open.spotify.com/artist/0R8n1LfNSyYfvDTynSZ9AY) | [Atomic Bomb \(feat\. Juan Alcasar\)](https://open.spotify.com/album/4j9gMw9UoRS3xydzvmtnGX) | 2:09 |

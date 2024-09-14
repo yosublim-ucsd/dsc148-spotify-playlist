@@ -4,10 +4,11 @@
 
 > Focus, game or just chill to these smooth synthwave beats.
 
-101 songs - 5 hr 18 min
+108 songs - 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A.T.O.M](https://open.spotify.com/track/3Uqdl8Fuw0VdX6MshiCxbG) | [dreamẅalker](https://open.spotify.com/artist/0RLKFwsO0EBc8UeWClLSIC) | [Oscillations](https://open.spotify.com/album/0gN6eOH2Yn9TZ8sUMTWivU) | 2:52 | 2024-09-13 |  |
 | [after dusk](https://open.spotify.com/track/2XqXrSEiFbJ8rS7XawRB6X) | [A.L.I.S.O.N](https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0) | [after dusk](https://open.spotify.com/album/59hj5l9UAvneygtRljlDc6) | 2:43 | 2024-06-06 |  |
 | [Afterimage](https://open.spotify.com/track/3m0yVxfMU7W7Mv7XGMThmy) | [Voyage](https://open.spotify.com/artist/6aAXBSjwLUEukyVDhOuKNO) | [Afterimage](https://open.spotify.com/album/5qpJu0DYHr0jl9oWmBVJ8W) | 4:50 | 2024-06-06 |  |
 | [Apiary](https://open.spotify.com/track/0GhNaJ0fKgdZ0rtorNbrpt) | [wavetearz](https://open.spotify.com/artist/6KXxSJSRFwAXN29VPO1hZk) | [Apiary](https://open.spotify.com/album/5bkrDIaKH4xdcqjT6HiPV3) | 2:41 | 2024-06-06 |  |
@@ -15,13 +16,14 @@
 | [Birthday Party](https://open.spotify.com/track/3mgv9OYYeTzVc0VPWSmb7O) | [A.M\. Attack](https://open.spotify.com/artist/6GYPQrUO5yGLCMo6YqJzyC) | [Birthday Party](https://open.spotify.com/album/0OLYt7jOwKDrqPmavg3VEA) | 3:20 | 2024-06-06 |  |
 | [Bright and Stormy](https://open.spotify.com/track/27xJCJ1TBpcvMufWo5s9xK) | [Arc De Soleil](https://open.spotify.com/artist/2iLMJdaqsQ44X7MPRD7rR5) | [Casino Funk](https://open.spotify.com/album/7zdTI8SbNAs0HWMIKmeolN) | 2:57 | 2024-06-06 |  |
 | [Butterfly](https://open.spotify.com/track/7H92iGJ6ra6mLkY7uo9Nnq) | [Karaff](https://open.spotify.com/artist/3tuKRJBVdoY7LSA3kDKYc0) | [Butterfly](https://open.spotify.com/album/6Hbg400CdJKeXc8vYleUfw) | 2:34 | 2024-06-06 |  |
-| [Closing Time](https://open.spotify.com/track/6WKcQAFYIuTGn5pKbieIkJ) | [Silver Silk](https://open.spotify.com/artist/6QLATz6O5GQx3s24kJb96O) | [Closing Time](https://open.spotify.com/album/33clJsstzLJi7PFhzuZM57) | 3:46 | 2024-06-06 |  |
+| [Closing Time](https://open.spotify.com/track/6WKcQAFYIuTGn5pKbieIkJ) | [Silver Silk](https://open.spotify.com/artist/6QLATz6O5GQx3s24kJb96O) | [Closing Time](https://open.spotify.com/album/33clJsstzLJi7PFhzuZM57) | 3:46 | 2024-06-06 | 2024-09-14 |
 | [Comets](https://open.spotify.com/track/0cpdd5Mes64WIBVsTHLsfr) | [Moxin](https://open.spotify.com/artist/21i1EconrVQRBtLQ8j1CLJ), [Kabes](https://open.spotify.com/artist/483Rl4WY6iIJ9czOrOgymb), [Dinis](https://open.spotify.com/artist/6jlKK6jwCQOcdsNlNfKlMq) | [Comets](https://open.spotify.com/album/60iorWok6qsipEMMIxyMzd) | 2:31 | 2024-09-05 |  |
 | [Coming Home](https://open.spotify.com/track/3lDdclRD0pjJwhHjXjErEn) | [Alex Boychuk](https://open.spotify.com/artist/5PQIdH1jeF2EvLoTENF0qU) | [Coming Home](https://open.spotify.com/album/4Msz8zKMwr7HpFNBaj9t4l) | 3:16 | 2024-09-05 |  |
 | [Control](https://open.spotify.com/track/6U5tKIdc3A0wKWWGMaewUh) | [BlueShip](https://open.spotify.com/artist/1DYailuCflxcgXm1QbE1Y9) | [Control](https://open.spotify.com/album/3LfHuzDwMkSjoNJd1WOvtC) | 2:40 | 2024-06-06 |  |
 | [Crystals](https://open.spotify.com/track/3tlcvdh3LigtCJSIiBRsYm) | [Cloned Clouds](https://open.spotify.com/artist/1ZAzHOklRnzauXs4DNYB0f) | [Crystals](https://open.spotify.com/album/34mVTs9yworrS1TzaPXtZR) | 2:53 | 2024-06-06 | 2024-08-11 |
 | [Dangerous](https://open.spotify.com/track/3vpWdSUYrG0tQJIUaftD5l) | [Karaff](https://open.spotify.com/artist/3tuKRJBVdoY7LSA3kDKYc0) | [Dangerous](https://open.spotify.com/album/0UowNq8BRyHLiAIn2ODQqC) | 3:24 | 2024-06-06 |  |
 | [Darkwave](https://open.spotify.com/track/2Z39vhTrNHXhbGLl9SnIjc) | [Ben Elson](https://open.spotify.com/artist/1OuL8Cuw5Ed403k0dUnloa) | [Darkwave](https://open.spotify.com/album/5GBXBeG59ekMEGyeJ2HXOd) | 3:09 | 2024-06-06 | 2024-06-21 |
+| [Daydream](https://open.spotify.com/track/0OqwcqfTHQbZ3LluIO2qUH) | [Krosia](https://open.spotify.com/artist/3DMRmCWZFPz3IX8LUgoLVb) | [Daydream](https://open.spotify.com/album/2g6pKr2JYfYNrG8dWh9mJm) | 3:12 | 2024-09-13 |  |
 | [Daytona Dystopia](https://open.spotify.com/track/6bY7tkvLkGsoTyRYYYkzS1) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Daytona Dystopia](https://open.spotify.com/album/5JUfGko6YzunuWbYYnRwZK) | 2:37 | 2024-06-06 |  |
 | [Defender](https://open.spotify.com/track/2umQRNsUUMGAlbFFRoLzIx) | [Tiën](https://open.spotify.com/artist/3kRYpFgIOADMkDpUnclkVh) | [Defender](https://open.spotify.com/album/7msZ4RqD6NLKz5O7wKNe8U) | 3:44 | 2024-06-06 | 2024-06-21 |
 | [Distant Stars](https://open.spotify.com/track/3Py9NAhqekG0MaFbe6RdGV) | [X Square](https://open.spotify.com/artist/7011bXgLvxaW5oHpkBg5LC) | [Distant Stars](https://open.spotify.com/album/04ixdVxcbypoIbfAzOMuHn) | 2:33 | 2024-06-06 |  |
@@ -30,10 +32,13 @@
 | [Drift](https://open.spotify.com/track/2kwIEGhwRDoVcXX5QLUxft) | [Axl Rhodes](https://open.spotify.com/artist/5nlgdELJT2bvwCgU1ZCNf4), [Nightflyer](https://open.spotify.com/artist/1QoMEICpXIL1cNck2dWHIh) | [Drift](https://open.spotify.com/album/3xeoeiLfxVZ3P1QQlByPV7) | 3:50 | 2024-09-05 |  |
 | [Drift \- slowed](https://open.spotify.com/track/2GlNSEWLhfJa6NlSCghTZM) | [Mellow Fields](https://open.spotify.com/artist/4LXaqntarVcHPpcLpRj8fr) | [Drift](https://open.spotify.com/album/3gI1g8OX11EyMeKnK5cenO) | 3:27 | 2024-09-05 |  |
 | [Duplicated](https://open.spotify.com/track/6ZVxBC5euluubh2iVLKPs6) | [Future Talent Club](https://open.spotify.com/artist/4ccMTOGlE7Y9KBitpUsfCK) | [Duplicated](https://open.spotify.com/album/3iPfXlUbmsSVIJz8OvUfWR) | 2:43 | 2024-06-06 |  |
+| [E Tron](https://open.spotify.com/track/086PhXSS2W1pyVCdxUAZOA) | [Mad Dog Madison](https://open.spotify.com/artist/1rUERPSlva0MeB9K7P8CZQ) | [E Tron](https://open.spotify.com/album/7zzfQgNPmhqGTxZYCc6KBD) | 3:43 | 2024-09-13 |  |
+| [Echoes](https://open.spotify.com/track/1sY1DdJYF00a0K5cRm41Zj) | [c152](https://open.spotify.com/artist/61ldkgdUuSCTWorEjwAIeB) | [Echoes](https://open.spotify.com/album/27QCm8YwHWILiXFyrp5S4f) | 2:16 | 2024-09-13 |  |
 | [Echoes](https://open.spotify.com/track/2UloubV0VmWeY9MT1Pnv06) | [Karaff](https://open.spotify.com/artist/3tuKRJBVdoY7LSA3kDKYc0) | [Echoes](https://open.spotify.com/album/2uh5TWemNU1MmoFyOFvtZl) | 2:53 | 2024-06-06 |  |
 | [Elysian Echoes](https://open.spotify.com/track/0KlLfMXfofptTSJt3Z6pMY) | [Ben Elson](https://open.spotify.com/artist/1OuL8Cuw5Ed403k0dUnloa) | [Elysian Echoes](https://open.spotify.com/album/7jhIi3tarngZFO4f948jaD) | 2:52 | 2024-06-06 |  |
 | [Enough time to think](https://open.spotify.com/track/2j4PAHfX5Buu75RXeTO59l) | [Cyter](https://open.spotify.com/artist/6xSvbD19SYZJ2T1bhoYuJR) | [Enough time to think](https://open.spotify.com/album/0SgHt11DeylKWRqDBHIwOZ) | 2:43 | 2024-06-06 |  |
 | [Eternal Sunshine](https://open.spotify.com/track/6ubtpZG99JxA9NQYsfgzkZ) | [Green Prize](https://open.spotify.com/artist/5U0BKGd2lBYbXI1v1EcFTB) | [Eternal Sunshine](https://open.spotify.com/album/1yGJdpnJ0LpgRHHw7wbbFp) | 2:52 | 2024-06-06 | 2024-07-24 |
+| [Eventide](https://open.spotify.com/track/68tlrPmWjJXTA0JaMDifDO) | [Downtown Binary](https://open.spotify.com/artist/0H4t3GcGse8cqfL222mfbv), [M I R A G E](https://open.spotify.com/artist/1V8ROL13LPFtvaRaads8SQ) | [Eventide](https://open.spotify.com/album/5RVesMyFeVreFfPFIoJ5SH) | 4:12 | 2024-09-13 |  |
 | [Faded](https://open.spotify.com/track/7hBhvWoutyueUsCOjz6FZa) | [Hotel Pools](https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz) | [Faded](https://open.spotify.com/album/4qVesAkDopkAbgW15jedIe) | 3:19 | 2024-06-06 | 2024-06-21 |
 | [Feel the Music](https://open.spotify.com/track/0OzHgnO748U2mdmgV57cgy) | [T\-Shirts & Sweats](https://open.spotify.com/artist/0FcaySiOfyoo0GzdrWsiVD) | [Feel the Music](https://open.spotify.com/album/1JU3vcpO1AHV04dtw1Fh1t) | 3:26 | 2024-07-16 |  |
 | [First Juice](https://open.spotify.com/track/5LXurYxYNMyJKCSMq9dyIK) | [Matt Bleu](https://open.spotify.com/artist/6sL4jX2tlj46oaPlC7Nn22) | [First Juice](https://open.spotify.com/album/6kwdmcC0pL681Yq7CvlerR) | 2:14 | 2024-06-06 |  |
@@ -69,6 +74,7 @@
 | [New Passenger](https://open.spotify.com/track/1lkBLaxwo4uh6y5IrudKC1) | [A.L.I.S.O.N](https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0) | [Passengers](https://open.spotify.com/album/1FdQQYcNnrWlywWDnYmVpn) | 3:23 | 2024-08-10 |  |
 | [Night Rider](https://open.spotify.com/track/6G9Y1OxEadkafkHyHUaMBa) | [Syntax Slayer](https://open.spotify.com/artist/2xWs54kbNWraaT946rbx0B) | [Night Rider](https://open.spotify.com/album/50C1rgce9clCwpR0P6XPXn) | 2:44 | 2024-06-06 |  |
 | [Ocean Dreams](https://open.spotify.com/track/47TMBCNjUX89rzmT6theiQ) | [Youth Fossils](https://open.spotify.com/artist/1EdwvYaV7m6bVSEmePPFPc) | [Ocean Dreams](https://open.spotify.com/album/2bwQMNXJxmlwbNiPpuiLHl) | 3:30 | 2024-06-06 | 2024-06-21 |
+| [Odyssey \- Slowed](https://open.spotify.com/track/1ojCddCmLWIan9ZOEVICWb) | [Francois Smith](https://open.spotify.com/artist/4AOXd36Sp0jRG6obhrHxE6) | [Odyssey](https://open.spotify.com/album/2J8bVQt8IGjVPj8XugriCF) | 3:52 | 2024-09-13 |  |
 | [Old Places](https://open.spotify.com/track/4WJQ2Bunmt1M4SH6u7B6lQ) | [X Square](https://open.spotify.com/artist/7011bXgLvxaW5oHpkBg5LC) | [Old Places](https://open.spotify.com/album/3MYhQO56RkOSmjPvHrsX7C) | 3:21 | 2024-06-06 | 2024-09-06 |
 | [On Cruise Control](https://open.spotify.com/track/2GZRNtR3x0WNbLKrsYWi3w) | [Mindserver Unlimited](https://open.spotify.com/artist/17JyFyLOwrYivBM7HjOyZN) | [On Cruise Control](https://open.spotify.com/album/43FTvKoyvCJLZKk9hd6VNK) | 3:23 | 2024-06-06 |  |
 | [Orion](https://open.spotify.com/track/44pz5LCYYGKHrkwyP3AX9u) | [Protocols](https://open.spotify.com/artist/3Xi9NGRGPDLOUHt03WMZJx) | [2 A.M Chill Session](https://open.spotify.com/album/3PZmQxxLUZwyyMgXWUpmuw) | 2:57 | 2024-06-06 |  |
@@ -103,6 +109,7 @@
 | [The Arcades](https://open.spotify.com/track/6AB5a0jwNhLSOgByejWM7m) | [Mad Dog Madison](https://open.spotify.com/artist/1rUERPSlva0MeB9K7P8CZQ) | [The Arcades](https://open.spotify.com/album/48hdi0M6jPYJxKPqhXx63w) | 3:27 | 2024-06-06 |  |
 | [The Unknown](https://open.spotify.com/track/5BilQDvjG6wn2emz32svm5) | [Pink Pyramid](https://open.spotify.com/artist/3QIH9GCIlRvK8ovjZ62UJh) | [The Unknown](https://open.spotify.com/album/69I7fYgok4SWKr0d55Sy7b) | 3:02 | 2024-06-06 |  |
 | [UNIX 82](https://open.spotify.com/track/2sMHHYFv6nOLVhQO5RKRpL) | [Ben Elson](https://open.spotify.com/artist/1OuL8Cuw5Ed403k0dUnloa) | [Space Waves](https://open.spotify.com/album/7zuSBEmYo1iPEdQkyZEroD) | 2:48 | 2024-06-06 |  |
+| [VHS](https://open.spotify.com/track/6iQkPTQy6bcW2J5A8JNxt1) | [Charlotte Knight](https://open.spotify.com/artist/4bo2qexwnFrRZXXs024mrP) | [VHS](https://open.spotify.com/album/5aLcJnQhU7KzSlbJIrEX4v) | 3:16 | 2024-09-13 |  |
 | [Video Knights](https://open.spotify.com/track/7EKCNfwAqGTCyh0u5IrJ7u) | [spring gang](https://open.spotify.com/artist/5MwxRYT0ZWOpQQBPktD0Rf) | [Video Knights](https://open.spotify.com/album/4vpYAUcFWqteJtyu0imsqb) | 4:12 | 2024-06-06 |  |
 | [Virtual Realm](https://open.spotify.com/track/02g6jSLXQTRxzObVfJCD5R) | [Saffari](https://open.spotify.com/artist/4geZSVxo3NmU8J6Vpm4j6B) | [Virtual Realm](https://open.spotify.com/album/7iD7qgWarP2cE6milUdLxk) | 3:39 | 2024-08-23 |  |
 | [Vision](https://open.spotify.com/track/6KNaqKR7BcwXCluU3RXfZr) | [A.L.I.S.O.N](https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0), [Foudroie](https://open.spotify.com/artist/1P689RfBCQpBQoZhCCgFma) | [Vision](https://open.spotify.com/album/68V0lav8D7wxmj0dSermlU) | 3:21 | 2024-06-06 | 2024-08-11 |

@@ -1,6 +1,6 @@
 {
   "description": "Plugged in and cranked up; the hottest Blues records from an amplified era. Cover: B.B. King.",
-  "num_followers": 152376,
+  "num_followers": 152492,
   "original_name": "Electric Blues Classics",
   "owner": {
     "name": "Spotify",
@@ -523,26 +523,18 @@
     {
       "added_at": "2024-06-02 16:41:51",
       "album": {
-        "name": "Blues Breakers",
-        "url": "https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o"
+        "name": "461 Ocean Boulevard",
+        "url": "https://open.spotify.com/album/73cxqemPE6sVoCkwRuPU6E"
       },
       "artists": [
         {
           "name": "Eric Clapton",
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "John Mayall",
-          "url": "https://open.spotify.com/artist/5s4z3mRAE7nxE3jjft8J3h"
-        },
-        {
-          "name": "John Mayall & The Bluesbreakers",
-          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
         }
       ],
-      "duration_ms": 180693,
-      "name": "Double Crossing Time - Mono",
-      "url": "https://open.spotify.com/track/07fmUH4VMyKkCRaugAyke7"
+      "duration_ms": 291080,
+      "name": "Motherless Children",
+      "url": "https://open.spotify.com/track/1v0PatOEeF1g1fVRNlmw9k"
     },
     {
       "added_at": "2024-06-02 16:41:51",
@@ -659,18 +651,26 @@
     {
       "added_at": "2024-06-02 16:41:51",
       "album": {
-        "name": "461 Ocean Boulevard",
-        "url": "https://open.spotify.com/album/73cxqemPE6sVoCkwRuPU6E"
+        "name": "Blues Breakers",
+        "url": "https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o"
       },
       "artists": [
         {
           "name": "Eric Clapton",
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "John Mayall",
+          "url": "https://open.spotify.com/artist/5s4z3mRAE7nxE3jjft8J3h"
+        },
+        {
+          "name": "John Mayall & The Bluesbreakers",
+          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
         }
       ],
-      "duration_ms": 291080,
-      "name": "Motherless Children",
-      "url": "https://open.spotify.com/track/1v0PatOEeF1g1fVRNlmw9k"
+      "duration_ms": 180693,
+      "name": "Double Crossing Time - Mono",
+      "url": "https://open.spotify.com/track/07fmUH4VMyKkCRaugAyke7"
     },
     {
       "added_at": "2024-06-02 16:41:51",

@@ -428,7 +428,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 261265,
       "name": "Ashe",
       "url": "https://open.spotify.com/track/1NYGXD18EU7QlNuD0sdx9l"
@@ -688,7 +688,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 195289,
       "name": "Billie Toppy",
       "url": "https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT"
@@ -1182,7 +1182,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 183000,
       "name": "colorado",
       "url": "https://open.spotify.com/track/4CV5CM0n6FvULMk62J8XNW"
@@ -1941,6 +1941,24 @@
     },
     {
       "album": {
+        "name": "feel like home",
+        "url": "https://open.spotify.com/album/0BHk06yY5omfqv47S1vF4O"
+      },
+      "artists": [
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160320,
+      "name": "feel like home",
+      "url": "https://open.spotify.com/track/5suIFrXr4gXhpEzFNjej85"
+    },
+    {
+      "album": {
         "name": "Feeling Good Today",
         "url": "https://open.spotify.com/album/0iQLhH3cu8txsiJOTt3bzR"
       },
@@ -2202,6 +2220,24 @@
       "duration_ms": 205000,
       "name": "Genius of Love",
       "url": "https://open.spotify.com/track/0UMfconu33lpuioJ696nKv"
+    },
+    {
+      "album": {
+        "name": "SHINBANGUMI",
+        "url": "https://open.spotify.com/album/6bgUdri7frTG9Aqo3Xusw7"
+      },
+      "artists": [
+        {
+          "name": "Ginger Root",
+          "url": "https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206582,
+      "name": "Giddy Up",
+      "url": "https://open.spotify.com/track/5mrA886l2Xd6DKHHjCmmSr"
     },
     {
       "album": {
@@ -2577,6 +2613,24 @@
     },
     {
       "album": {
+        "name": "Husk",
+        "url": "https://open.spotify.com/album/13KxV6ezroXhAW7sPEG6QS"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204651,
+      "name": "Husk",
+      "url": "https://open.spotify.com/track/0iMSUfh4oQplV5OrmrlIbm"
+    },
+    {
+      "album": {
         "name": "I Don\u2019t Live Here Anymore",
         "url": "https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB"
       },
@@ -2881,6 +2935,24 @@
     },
     {
       "album": {
+        "name": "Just A Western",
+        "url": "https://open.spotify.com/album/1vVnnj9S99ub44XnSknEXZ"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269473,
+      "name": "Just A Western",
+      "url": "https://open.spotify.com/track/69GRL4Pmz6yxw3CUkaeP2A"
+    },
+    {
+      "album": {
         "name": "ketamine",
         "url": "https://open.spotify.com/album/0458RCI6qdYAnUHtGShBMV"
       },
@@ -3076,7 +3148,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 177475,
       "name": "Like I Say (I runaway)",
       "url": "https://open.spotify.com/track/2D3oVAd8nHrqJH8UAfvtTT"
@@ -3224,6 +3296,24 @@
       "duration_ms": 127474,
       "name": "Love To Walk Away",
       "url": "https://open.spotify.com/track/7wykJuA5AbOMLTmsNSi1Cq"
+    },
+    {
+      "album": {
+        "name": "Lowdown",
+        "url": "https://open.spotify.com/album/3zAcB7KWAlpwoykugIGlcS"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195070,
+      "name": "Lowdown (part i)",
+      "url": "https://open.spotify.com/track/0gzP9UNr5OlCZWXhbsUaRs"
     },
     {
       "album": {
@@ -4312,7 +4402,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 180479,
       "name": "Rollercoaster",
       "url": "https://open.spotify.com/track/5GaYakwOtqZPxI2XYHFtdx"
@@ -4916,7 +5006,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 206563,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/2ysmyfV4hwLGsHjowCN3GU"
@@ -4996,6 +5086,24 @@
       "duration_ms": 179091,
       "name": "Super Trouper",
       "url": "https://open.spotify.com/track/6NDRkX3h4iiyKcJOngaVZ8"
+    },
+    {
+      "album": {
+        "name": "Supersad",
+        "url": "https://open.spotify.com/album/1zirJ7lGSbrflcoVdTnEPA"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170383,
+      "name": "Supersad",
+      "url": "https://open.spotify.com/track/1RsfrWBRyXb36JUhSulKlF"
     },
     {
       "album": {
@@ -5956,7 +6064,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 138842,
       "name": "You Keep Me Up At Night",
       "url": "https://open.spotify.com/track/0POOOfkVbM8suYFRWUkDQQ"
@@ -6032,6 +6140,24 @@
       "duration_ms": 187653,
       "name": "Your Side of Town",
       "url": "https://open.spotify.com/track/3XV77GNuIPYff6T7bzjYy9"
+    },
+    {
+      "album": {
+        "name": "Zombie Love",
+        "url": "https://open.spotify.com/album/356deEcGyHWdmQuPndkR4S"
+      },
+      "artists": [
+        {
+          "name": "Razorlight",
+          "url": "https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157385,
+      "name": "Zombie Love",
+      "url": "https://open.spotify.com/track/0etADF6sDYilpoIAbK3ihw"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZ0Zsena4JFh"

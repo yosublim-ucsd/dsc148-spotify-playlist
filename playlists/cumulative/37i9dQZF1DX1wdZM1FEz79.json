@@ -710,7 +710,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 194291,
       "name": "Be My Birthday",
       "url": "https://open.spotify.com/track/1LMy3gmxy76ZXjoH39Q8NC"
@@ -1202,6 +1202,24 @@
       "duration_ms": 206253,
       "name": "Can I Be Me",
       "url": "https://open.spotify.com/track/6EUtGHQUEvqH1LzaitgSXw"
+    },
+    {
+      "album": {
+        "name": "Can you tell me it's okey",
+        "url": "https://open.spotify.com/album/3BvYMlbeA8y8Mux9GTXiVe"
+      },
+      "artists": [
+        {
+          "name": "\uc724\uadf8\ub8e8",
+          "url": "https://open.spotify.com/artist/4MKnTdjjVrZzgtbCSAakvO"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214880,
+      "name": "Can you tell me it's okey",
+      "url": "https://open.spotify.com/track/31rP2uql9Dt2p1opVSHn15"
     },
     {
       "album": {
@@ -3188,6 +3206,24 @@
       "duration_ms": 204402,
       "name": "I Miss You",
       "url": "https://open.spotify.com/track/0nF3xRy0k9fxRoi3OliAdW"
+    },
+    {
+      "album": {
+        "name": "I really like you",
+        "url": "https://open.spotify.com/album/2C95lPgwGprKSlHYSiBZPG"
+      },
+      "artists": [
+        {
+          "name": "Seen Hyun Hee",
+          "url": "https://open.spotify.com/artist/3vd412swJreRPEn4cyirZQ"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251546,
+      "name": "I really like you",
+      "url": "https://open.spotify.com/track/4FWhWkLAXTxhe8FRFYNFou"
     },
     {
       "album": {
@@ -6866,7 +6902,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 257471,
       "name": "STAR",
       "url": "https://open.spotify.com/track/0DZ2mMWPkgDwWBnH6gtsQW"

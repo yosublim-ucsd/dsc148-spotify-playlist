@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2a5qdpzYkGY.md) - [plain]
 
 > a journey through ephemeral moments
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,373 likes - 75 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,378 likes - 75 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2a5qdpzYkGY.md) - [plain]
 | 17 | [Got Me](https://open.spotify.com/track/2Wag0xzd7wPBzPjyo4lpGL) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [The Sunset Violent](https://open.spotify.com/album/1QZRsLKs258z4wowfNzJLK) | 2:20 |
 | 18 | [five](https://open.spotify.com/track/0Xzw9kW28pJfzAwPZTqNPt) | [Black Decelerant](https://open.spotify.com/artist/3hDJXXTF8ZlZwrmiRuWtYo), [Contour](https://open.spotify.com/artist/5eUhoxsPgFqAWSfOtwMNBF), [Omari Jazz](https://open.spotify.com/artist/2JnmbU4G6t4GPZpIl5PUCT) | [three](https://open.spotify.com/album/4Wp9nBdyOi7Bg0NcSukCvO) | 3:30 |
 | 19 | [Constant Fear](https://open.spotify.com/track/3KJeOdlwj5W0c9XIrjqzY0) | [Bohren & Der Club Of Gore](https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf) | [Black Earth](https://open.spotify.com/album/2xDo02ZrqGjkkOcsm35E5L) | 6:27 |
-| 20 | [Ocotillo](https://open.spotify.com/track/6YAHre8n87f7WZUkZOMJPK) | [Loma](https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT) | [Don't Shy Away](https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4) | 4:50 |
-| 21 | [Ten\-Day Interval](https://open.spotify.com/track/5A2vl9MadJ87kas3R3GoTm) | [Tortoise](https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ) | [TNT](https://open.spotify.com/album/4JwjxPyISbFEUeh267bYbg) | 4:44 |
+| 20 | [Ten\-Day Interval](https://open.spotify.com/track/5A2vl9MadJ87kas3R3GoTm) | [Tortoise](https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ) | [TNT](https://open.spotify.com/album/4JwjxPyISbFEUeh267bYbg) | 4:44 |
+| 21 | [Ocotillo](https://open.spotify.com/track/6YAHre8n87f7WZUkZOMJPK) | [Loma](https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT) | [Don't Shy Away](https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4) | 4:50 |
 | 22 | [Spoken](https://open.spotify.com/track/5EuanBT58m17JqKxCeqbQI) | [Hidden Orchestra](https://open.spotify.com/artist/4Rj2COYs5hQsw8rYIxSviz) | [Archipelago](https://open.spotify.com/album/05EKAh2enH4uuFwDmVcbKG) | 5:44 |
 | 23 | [By the Wall](https://open.spotify.com/track/2zbt8cQf1EFoKlkbkKRz5V) | [Tomáš Dvořák](https://open.spotify.com/artist/4COaejzYuUUYQT6sOHLMPX) | [Machinarium Soundtrack](https://open.spotify.com/album/52PLNrXUMtPUZwcueV75J1) | 5:04 |
 | 24 | [Birds, Pt\. I](https://open.spotify.com/track/5GDteA9nob1rnxgE1KFx5l) | [Chassol](https://open.spotify.com/artist/1nw8iwDkSSHqn8S343ODcp) | [Big Sun](https://open.spotify.com/album/4ML85VhWPuIOtXqR1Dl7TW) | 3:59 |
@@ -42,14 +42,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2a5qdpzYkGY.md) - [plain]
 | 32 | [Pendulum Man](https://open.spotify.com/track/31rWHoaORhEfXqqr6y48Hm) | [Bark Psychosis](https://open.spotify.com/artist/0QwH5InvCwfL4UbYkjP9pi) | [Hex](https://open.spotify.com/album/7j98uMKCZuBQU1SPcrQAxP) | 9:53 |
 | 33 | [The Pillow Sisters](https://open.spotify.com/track/05gq1Z7LjHYlgt9FRBAMWb) | [Singleton](https://open.spotify.com/artist/21JuplSnwK51Cp5olrc7q8) | [The Pillow Sisters](https://open.spotify.com/album/5Xa5zHnzplguzrNoCzUdSM) | 2:39 |
 | 34 | [Maximum Black](https://open.spotify.com/track/6RHJvMCoUgQ5CSBFUEL9RI) | [Bohren & Der Club Of Gore](https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf) | [Black Earth](https://open.spotify.com/album/2xDo02ZrqGjkkOcsm35E5L) | 7:38 |
-| 35 | [Breaking Up](https://open.spotify.com/track/2Lcby5YdSYsXp9G6Cx5TzI) | [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [The Dream of Delphi](https://open.spotify.com/album/4Z3IO9jsrSAxdTluJGZerG) | 2:00 |
-| 36 | [Discovery at the Beach](https://open.spotify.com/track/0qAjgijsYT17O88SbesPEo) | [Brendan Eder Ensemble](https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK), [Edward Blankman](https://open.spotify.com/artist/6iZKh6GtYyudtFEh6q7CLo) | [Cape Cod Cottage](https://open.spotify.com/album/3iA6DplfbqQ1yX3op8zmEg) | 2:28 |
+| 35 | [Discovery at the Beach](https://open.spotify.com/track/0qAjgijsYT17O88SbesPEo) | [Brendan Eder Ensemble](https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK), [Edward Blankman](https://open.spotify.com/artist/6iZKh6GtYyudtFEh6q7CLo) | [Cape Cod Cottage](https://open.spotify.com/album/3iA6DplfbqQ1yX3op8zmEg) | 2:28 |
+| 36 | [Breaking Up](https://open.spotify.com/track/2Lcby5YdSYsXp9G6Cx5TzI) | [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [The Dream of Delphi](https://open.spotify.com/album/4Z3IO9jsrSAxdTluJGZerG) | 2:00 |
 | 37 | [Glass Museum](https://open.spotify.com/track/4yQXy99u7RnPoGedBT2XB0) | [Tortoise](https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ) | [Millions Now Living Will Never Die](https://open.spotify.com/album/3X20tXW0zsl5imVzETPhQh) | 5:27 |
 | 38 | [Playgroup](https://open.spotify.com/track/2zZZDhZp98OaElYpscNbWd) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Mid Spiral: Order](https://open.spotify.com/album/33rnYTEiJv1Rb2EWmU0ViX) | 6:55 |
 | 39 | [Highway Brain Planet \(Credits\)](https://open.spotify.com/track/7BGPolTJ1ptq3zxGIf64yR) | [Peter Zummo](https://open.spotify.com/artist/0ewl0qCpOyHsNk9Uw6VdAe) | [Second Spring OST](https://open.spotify.com/album/77dFo60ehucRXt2yDLazmI) | 2:31 |
 | 40 | [Ultramarine](https://open.spotify.com/track/2XOFvNnjST9vifi4KPWHVH) | [Sven Wunder](https://open.spotify.com/artist/2fQf2M7SkTwCv2MOEIP2Ly) | [Ultramarine](https://open.spotify.com/album/5TUaxpnaqWvHfvzvskmlac) | 3:09 |
-| 41 | [Materia](https://open.spotify.com/track/1uJHtmLkOTQuCJ5AGKjLQU) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [Something in the Room She Moves](https://open.spotify.com/album/0SVglM3r51P5teNFrQ9WOE) | 3:08 |
-| 42 | [An Avalanche](https://open.spotify.com/track/0ZJCGdZQbnMabeAh7sR9Sl) | [Lucinda Chua](https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ) | [Antidotes 2](https://open.spotify.com/album/64N8Ot3a2tr44vUlDvdeyR) | 3:20 |
+| 41 | [An Avalanche](https://open.spotify.com/track/0ZJCGdZQbnMabeAh7sR9Sl) | [Lucinda Chua](https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ) | [Antidotes 2](https://open.spotify.com/album/64N8Ot3a2tr44vUlDvdeyR) | 3:20 |
+| 42 | [Materia](https://open.spotify.com/track/1uJHtmLkOTQuCJ5AGKjLQU) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [Something in the Room She Moves](https://open.spotify.com/album/0SVglM3r51P5teNFrQ9WOE) | 3:08 |
 | 43 | [Genesis](https://open.spotify.com/track/2OTbuLFZeCcRkUSF0UVA93) | [slowave](https://open.spotify.com/artist/4qLBeNbe5Sep5YVjZi7P65) | [Genesis](https://open.spotify.com/album/056i3eIfQ7XIdcTGF7KLh3) | 3:19 |
 | 44 | [Who Is Still Dreaming?](https://open.spotify.com/track/5HZOBZ7ugfGLcUMmoI9n1Z) | [June11](https://open.spotify.com/artist/615aT4UKAuj5e7tcsGuPg4) | [11000 Dreams](https://open.spotify.com/album/187zWJ91K3S3MHWQuKQ0L8) | 3:32 |
 | 45 | [Theme from 'Behind the Curtain'](https://open.spotify.com/track/2VeYKsOmvGnN9Wd0RTDPuC) | [Skalpel](https://open.spotify.com/artist/4NMgXxIMZeiJ5PqxdA0t6q) | [Skalpel](https://open.spotify.com/album/6fEN3yig9kpmZ0oiJbFRuE) | 4:11 |

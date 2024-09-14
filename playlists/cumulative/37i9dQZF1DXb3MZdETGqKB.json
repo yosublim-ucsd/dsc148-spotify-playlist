@@ -2316,7 +2316,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 298773,
       "name": "I'll Be Glad",
       "url": "https://open.spotify.com/track/7kLR5l2d7Vz5kiJujbmY40"
@@ -3674,7 +3674,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 228832,
       "name": "One Day Closer To Home",
       "url": "https://open.spotify.com/track/38EnQxo9CZ5w9muuxNh1TJ"
@@ -3794,6 +3794,24 @@
       "duration_ms": 136632,
       "name": "Parade",
       "url": "https://open.spotify.com/track/4ohUVFem8xKnnnvGz1cpIG"
+    },
+    {
+      "album": {
+        "name": "Patiently Waiting For Love",
+        "url": "https://open.spotify.com/album/4S1vgyiWLVNGjWbFvrNGhO"
+      },
+      "artists": [
+        {
+          "name": "Toby Lee",
+          "url": "https://open.spotify.com/artist/059zYnVrxnkUTiNIrHHYyz"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182931,
+      "name": "Patiently Waiting For Love",
+      "url": "https://open.spotify.com/track/5ZQ3C1rFt6A2TbhnhbLOvR"
     },
     {
       "album": {
@@ -4008,6 +4026,28 @@
       "duration_ms": 278873,
       "name": "Riding Out The Storm",
       "url": "https://open.spotify.com/track/0l0wYl68QJuudGMyG7tlEu"
+    },
+    {
+      "album": {
+        "name": "RIOT",
+        "url": "https://open.spotify.com/album/0IE26YwVRBnDUYxPh2JfZN"
+      },
+      "artists": [
+        {
+          "name": "J.Pollock",
+          "url": "https://open.spotify.com/artist/0LuT1TXrVuq4fsA0Sy3QQe"
+        },
+        {
+          "name": "Revel Day",
+          "url": "https://open.spotify.com/artist/0GlCo4o05HxdzR4Gj7GKyw"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129345,
+      "name": "RIOT",
+      "url": "https://open.spotify.com/track/4oU3wup0ixElRJLzpEjRB4"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Deretan musik Indonesia terpopuler saat ini\. <br/>Cover: Yuna, Bunga Citra Lestari
 
-223 songs - 14 hr 48 min
+225 songs - 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,10 +154,12 @@
 | [Nada Nada Cinta](https://open.spotify.com/track/6CuuUDWvmwNqeDDrhHXPxP) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp), [Ariel NOAH](https://open.spotify.com/artist/5YrZrapAjJbpikrp3JEmMF) | [Nada \- Nada Cinta](https://open.spotify.com/album/1FowDsfN8edbtuEeLV2vNF) | 4:31 | 2024-08-08 |  |
 | [New Feeling](https://open.spotify.com/track/3lhBdBZRpf9uVQPswDYjK4) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [New Feeling](https://open.spotify.com/album/4tSmSKg7v1BYVuKzcyOFDs) | 4:17 | 2024-06-27 | 2024-08-16 |
 | [Ngeluwihi](https://open.spotify.com/track/1BhClhu3KbdPLTPJFbBMwV) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Ngeluwihi](https://open.spotify.com/album/09OTA5eXLEKQAMnrvOJgq3) | 3:26 | 2024-01-26 | 2024-02-16 |
+| [Nina](https://open.spotify.com/track/0daEJMXc3b4ZMTnvtHpuTt) | [.Feast](https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB) | [Membangun & Menghancurkan](https://open.spotify.com/album/0y9i2KHDYh2gKfbpUNiM86) | 4:37 | 2024-09-13 |  |
 | [One Bad Day](https://open.spotify.com/track/2ak4PK6BeHw8btWrVmOdYz) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [One Bad Day](https://open.spotify.com/album/0itJP1SdhOO3NKe9vxqj0s) | 3:54 | 2024-05-30 | 2024-08-09 |
 | [Orang Yang Berbeda](https://open.spotify.com/track/5ckkWPG0Y9kgyGKW5kCGWN) | [Anji](https://open.spotify.com/artist/0b4XpbAVDPngjDTbcSWH8N) | [Orang Yang Berbeda](https://open.spotify.com/album/0BSRjafG6lC4yF8LGEos4v) | 4:40 | 2024-04-11 | 2024-07-27 |
 | [Pandai Bicara](https://open.spotify.com/track/6RCVSl65W3uAsEZTyJI4PX) | [Anneth](https://open.spotify.com/artist/2UHBgxDvOBaIY7hQ8CEAmW) | [Pandai Bicara](https://open.spotify.com/album/2M1LHvoFgQQA0gPXX08Gx2) | 3:54 | 2024-05-16 | 2024-06-07 |
 | [Party In Bali \(PIB\)](https://open.spotify.com/track/0spo1IvT6CrCLDTVT7ue0O) | [AGNEZ MO](https://open.spotify.com/artist/6pMR8Zgot664613rAiLC2Z) | [Party In Bali \(PIB\)](https://open.spotify.com/album/1H5xLltL7JBn10Ce9XZfTk) | 2:52 | 2024-08-22 |  |
+| [Party In Bali \(PIB\) \[feat\. Jay Park\]](https://open.spotify.com/track/5ZjPVDronecWpciN3fmf5D) | [AGNEZ MO](https://open.spotify.com/artist/6pMR8Zgot664613rAiLC2Z), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Party In Bali \(PIB\) \[feat\. Jay Park\]](https://open.spotify.com/album/4BCEq5okdDEMSjqlg9oUZ2) | 2:52 | 2024-09-13 |  |
 | [penjaga hati](https://open.spotify.com/track/7F4tV8SiUy6itZTdAzdafO) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [penjaga hati](https://open.spotify.com/album/1IuORbF4Tb4X9EyAmIvx9a) | 4:20 | 2024-01-26 |  |
 | [Penyangkalan](https://open.spotify.com/track/3GdN5n6p34yFMd12WKq8jL) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1) | [Penyangkalan](https://open.spotify.com/album/5DYiigOQPVOXd99jUnRTdP) | 4:00 | 2024-07-18 |  |
 | [Perisai](https://open.spotify.com/track/6bQhIKmQoAOU5hxhHjqJd4) | [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [Perisai](https://open.spotify.com/album/6i0NhEM1GVfDJqoJaHXxCJ) | 4:00 | 2024-03-01 | 2024-03-29 |

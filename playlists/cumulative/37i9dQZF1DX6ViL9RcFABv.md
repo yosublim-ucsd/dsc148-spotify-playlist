@@ -2,7 +2,7 @@
 
 ### [Pop PT](https://open.spotify.com/playlist/37i9dQZF1DX6ViL9RcFABv)
 
-> Uma playlist de pura alma pop! Foto: Dani Gato, Virgul
+> Uma playlist de pura alma pop! Foto: Danni Gato, Virgul
 
 97 songs - 5 hr 12 min
 

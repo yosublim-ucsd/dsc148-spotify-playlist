@@ -993,6 +993,24 @@
     },
     {
       "album": {
+        "name": "China Park Freestyle",
+        "url": "https://open.spotify.com/album/5EOt8XJj81dzgjhNGGzl3Y"
+      },
+      "artists": [
+        {
+          "name": "Dina Ayada",
+          "url": "https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87119,
+      "name": "China Park Freestyle",
+      "url": "https://open.spotify.com/track/3vIJ7mgAL3w00lzowLzY7q"
+    },
+    {
+      "album": {
         "name": "Bryson Tiller",
         "url": "https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX"
       },
@@ -1188,7 +1206,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 153507,
       "name": "D-Boy (feat. Foggieraw & DaVionne)",
       "url": "https://open.spotify.com/track/1k5KzXU18wUu77gVeogfY2"
@@ -1330,6 +1348,24 @@
       "duration_ms": 187493,
       "name": "Digital Underground",
       "url": "https://open.spotify.com/track/3QXbYw6hW0Ou7IaIzevCrh"
+    },
+    {
+      "album": {
+        "name": "Sincerely, Rex",
+        "url": "https://open.spotify.com/album/6i67GONsuTiBYlo0N17lr7"
+      },
+      "artists": [
+        {
+          "name": "Pyrex",
+          "url": "https://open.spotify.com/artist/4ELZUuHRIUrAkko2cjpWB1"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159069,
+      "name": "DND",
+      "url": "https://open.spotify.com/track/6mzdc4ztnp3in00T7lTPcS"
     },
     {
       "album": {
@@ -1908,7 +1944,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 134240,
       "name": "Fun",
       "url": "https://open.spotify.com/track/3aaS6yVkS9JPZMu4aXNxnx"
@@ -1966,7 +2002,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 76120,
       "name": "Geek",
       "url": "https://open.spotify.com/track/3sIKgS05lsszua6zt0rgf2"
@@ -2182,6 +2218,76 @@
       "duration_ms": 152979,
       "name": "GIRLS",
       "url": "https://open.spotify.com/track/7z3PblAN3dH1JMewiRydkZ"
+    },
+    {
+      "album": {
+        "name": "God's Eyes (feat. Thiez King, Brutha Rick, Ben Becker, Jerome Dillard, Seth Addison, P!X!E, Romeo ThaGreatwhite, Mic Manik, Javier Zachi, Thesanity & Armstrong) - Mega Remix",
+        "url": "https://open.spotify.com/album/2msKpytEy3Lz4ouAOZOFos"
+      },
+      "artists": [
+        {
+          "name": "Dax",
+          "url": "https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39"
+        },
+        {
+          "name": "Phix",
+          "url": "https://open.spotify.com/artist/0B114ZpJddB3jl8AHu4OKT"
+        },
+        {
+          "name": "Carly Pearl",
+          "url": "https://open.spotify.com/artist/3tp2PruET9DsrEfnovsJXn"
+        },
+        {
+          "name": "Thiez King",
+          "url": "https://open.spotify.com/artist/42yIPLouweKqddrMNTHn8g"
+        },
+        {
+          "name": "Brutha Rick",
+          "url": "https://open.spotify.com/artist/0bjsCeT4xiEygbt9cST1DQ"
+        },
+        {
+          "name": "Ben Becker",
+          "url": "https://open.spotify.com/artist/5MazUYO2ulxGOMPN5ZE00V"
+        },
+        {
+          "name": "Jerome Dillard",
+          "url": "https://open.spotify.com/artist/6p6PeVcBO7Rk6rQQllW0Pt"
+        },
+        {
+          "name": "Seth Addison",
+          "url": "https://open.spotify.com/artist/2eCtEVhgh18aqHFe9XmZkz"
+        },
+        {
+          "name": "P!X!E",
+          "url": "https://open.spotify.com/artist/4tThMJlJVcKRl4cJoB4aLq"
+        },
+        {
+          "name": "Romeo ThaGreatwhite",
+          "url": "https://open.spotify.com/artist/0BREQB4X1tJY2UXIndTzew"
+        },
+        {
+          "name": "Mic Manik",
+          "url": "https://open.spotify.com/artist/5CkLbgtFt8OXnsnsvDBxWx"
+        },
+        {
+          "name": "Javier Zachi",
+          "url": "https://open.spotify.com/artist/5SyPYPEd3aXEBxmBlu3tnu"
+        },
+        {
+          "name": "Thesanity",
+          "url": "https://open.spotify.com/artist/5hv80YPRaltHXiaAUa4bPL"
+        },
+        {
+          "name": "Armstrong",
+          "url": "https://open.spotify.com/artist/4g083x5G6maGMo1O2zMDVc"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 707612,
+      "name": "God's Eyes (feat. Thiez King, Brutha Rick, Ben Becker, Jerome Dillard, Seth Addison, P!X!E, Romeo ThaGreatwhite, Mic Manik, Javier Zachi, Thesanity & Armstrong) - Mega Remix",
+      "url": "https://open.spotify.com/track/7utQUI0oJo4q4XFkgasRbs"
     },
     {
       "album": {
@@ -2879,6 +2985,24 @@
     },
     {
       "album": {
+        "name": "KING TUT",
+        "url": "https://open.spotify.com/album/1WTvERBYHAasexHdYGNvgc"
+      },
+      "artists": [
+        {
+          "name": "BEAM",
+          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130604,
+      "name": "KING TUT",
+      "url": "https://open.spotify.com/track/61Edo4I24jbs749NSRDEbY"
+    },
+    {
+      "album": {
         "name": "Lady Killers II",
         "url": "https://open.spotify.com/album/08JECZoQNpeSledQtNZp6H"
       },
@@ -3244,7 +3368,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 188708,
       "name": "Memories (feat. Sampha)",
       "url": "https://open.spotify.com/track/3r743128YSBlOb38PhO4pV"
@@ -3745,6 +3869,24 @@
     },
     {
       "album": {
+        "name": "Off White Rozay",
+        "url": "https://open.spotify.com/album/18I4Bx1FCtAeb9uUvtOYia"
+      },
+      "artists": [
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149313,
+      "name": "Off White Rozay",
+      "url": "https://open.spotify.com/track/4DDnNyzFo6KaIacYE7RP6p"
+    },
+    {
+      "album": {
         "name": "Scarlet 2 CLAUDE",
         "url": "https://open.spotify.com/album/2IUoE0jqkViW6gGfqLcjG2"
       },
@@ -3839,6 +3981,28 @@
     },
     {
       "album": {
+        "name": "Passenger Princess (Jibbitz)",
+        "url": "https://open.spotify.com/album/6UH4nolB5PbkBahuWxKkuZ"
+      },
+      "artists": [
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        },
+        {
+          "name": "Stunna 4 Vegas",
+          "url": "https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173521,
+      "name": "Passenger Princess (Jibbitz)",
+      "url": "https://open.spotify.com/track/7G0MIYpMnZkEAg3cVjMPGd"
+    },
+    {
+      "album": {
         "name": "Passports & Suitcases (feat. KayCyy)",
         "url": "https://open.spotify.com/album/51CsULE4CnOMvX0Vkiau0s"
       },
@@ -3858,6 +4022,28 @@
       "duration_ms": 169933,
       "name": "Passports & Suitcases (feat. KayCyy)",
       "url": "https://open.spotify.com/track/0A0ZpEwDk5iNNfxUSYeJCt"
+    },
+    {
+      "album": {
+        "name": "RED FUTURE",
+        "url": "https://open.spotify.com/album/7445IRz5iyAR4DLwkZJD5a"
+      },
+      "artists": [
+        {
+          "name": "Snotty Nose Rez Kids",
+          "url": "https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5"
+        },
+        {
+          "name": "Princess Nokia",
+          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216010,
+      "name": "PEACHES (feat. Princess Nokia)",
+      "url": "https://open.spotify.com/track/31kbfYh14g4xOjXtQUWXvM"
     },
     {
       "album": {
@@ -3974,7 +4160,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 109416,
       "name": "POS",
       "url": "https://open.spotify.com/track/42ADnFPhERC2Gy1BXb3ehv"
@@ -4320,7 +4506,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 210542,
       "name": "Screamin",
       "url": "https://open.spotify.com/track/1oKpIfzkVoS0j927ARkYCG"
@@ -4636,6 +4822,24 @@
       "duration_ms": 149245,
       "name": "Somethin' (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/3LdP8uDwQ1NVwNCrb8I32K"
+    },
+    {
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/3Wn0ofKGoy0qZGJ5X6pkve"
+      },
+      "artists": [
+        {
+          "name": "GTW Mik",
+          "url": "https://open.spotify.com/artist/68WBjpQvmqDVBmsrYoaQF4"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161190,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/19Begb8vrV5ioXyLdoMW0j"
     },
     {
       "album": {
@@ -5168,7 +5372,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 185506,
       "name": "Tryin' to Play Me",
       "url": "https://open.spotify.com/track/1CFYvRq6i4O0i5FvziWt57"
@@ -5704,7 +5908,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 149318,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/06a0YRzTF0vLTVnSxrkgfs"

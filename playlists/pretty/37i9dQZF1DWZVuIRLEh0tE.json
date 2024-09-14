@@ -1,33 +1,13 @@
 {
   "description": "Porque no to' e' Dembow en RD loco. Portada: Myke Towers, NTG",
-  "num_followers": 247181,
+  "num_followers": 247282,
   "original_name": "Flow Dominicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtschwAAAADxIRkewKcNug4rV3uYjb40",
+  "snapshot_id": "ZuO4wAAAAACo6O+YRuuO3sPJ/Eby7WWD",
   "tracks": [
-    {
-      "added_at": "2024-08-22 02:20:11",
-      "album": {
-        "name": "LA PRIMERA VEZ",
-        "url": "https://open.spotify.com/album/7GDhpu34fz9fUPoQ6sdNp0"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "NTG",
-          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
-        }
-      ],
-      "duration_ms": 171826,
-      "name": "LA PRIMERA VEZ",
-      "url": "https://open.spotify.com/track/2ShZFahITlEHv8xDNvzdG4"
-    },
     {
       "added_at": "2024-04-01 19:33:45",
       "album": {
@@ -47,6 +27,26 @@
       "duration_ms": 137264,
       "name": "Suano",
       "url": "https://open.spotify.com/track/79OU5n2Y8jMcWgYZJ2DhAd"
+    },
+    {
+      "added_at": "2024-08-22 02:20:11",
+      "album": {
+        "name": "LA PRIMERA VEZ",
+        "url": "https://open.spotify.com/album/7GDhpu34fz9fUPoQ6sdNp0"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "NTG",
+          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
+        }
+      ],
+      "duration_ms": 171826,
+      "name": "LA PRIMERA VEZ",
+      "url": "https://open.spotify.com/track/2ShZFahITlEHv8xDNvzdG4"
     },
     {
       "added_at": "2024-03-27 20:37:44",
@@ -69,6 +69,26 @@
       "url": "https://open.spotify.com/track/6kTMnty169llVx9sGHb6LD"
     },
     {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Cypher Vol.1",
+        "url": "https://open.spotify.com/album/4d8ExE0RJFdkKh2LSOtTMV"
+      },
+      "artists": [
+        {
+          "name": "Bulova",
+          "url": "https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0"
+        },
+        {
+          "name": "Lapiz Conciente",
+          "url": "https://open.spotify.com/artist/0UTsdD7VIsEB9i7a6DDx5t"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Cypher Vol.1",
+      "url": "https://open.spotify.com/track/1KkxJueiJY6G60VyuwZcCw"
+    },
+    {
       "added_at": "2023-09-29 02:04:59",
       "album": {
         "name": "Bebi Demasiado",
@@ -83,30 +103,6 @@
       "duration_ms": 148453,
       "name": "Bebi Demasiado",
       "url": "https://open.spotify.com/track/6vfjbHTiVh68wj6XioqhdA"
-    },
-    {
-      "added_at": "2024-09-05 14:10:00",
-      "album": {
-        "name": "Hey Ma",
-        "url": "https://open.spotify.com/album/03k5bnSRtS4uj2P8QCBOO3"
-      },
-      "artists": [
-        {
-          "name": "Ehybi M",
-          "url": "https://open.spotify.com/artist/47cl0pmEqzqCjVeUR53cGH"
-        },
-        {
-          "name": "Uriel Produce",
-          "url": "https://open.spotify.com/artist/1SIghlrGacKWdkAvAgUdPC"
-        },
-        {
-          "name": "G-Unit",
-          "url": "https://open.spotify.com/artist/5B7tWZTrt8xedAman87QSz"
-        }
-      ],
-      "duration_ms": 178536,
-      "name": "Hey Ma",
-      "url": "https://open.spotify.com/track/44CA676WfwTw1Coo4MjkvY"
     },
     {
       "added_at": "2024-09-06 15:15:19",
@@ -221,36 +217,28 @@
       "url": "https://open.spotify.com/track/12XcOXav2QAEPxuqBK1rMx"
     },
     {
-      "added_at": "2024-08-30 04:00:00",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "TU NO ENTIENDE",
-        "url": "https://open.spotify.com/album/0Uqpi5vgn3s19xMRhKdBET"
+        "name": "La Tipa",
+        "url": "https://open.spotify.com/album/4BJVF3eSd4cJK6mzgPxAMO"
       },
       "artists": [
         {
-          "name": "Amenazzy",
-          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
+          "name": "Dilon Baby",
+          "url": "https://open.spotify.com/artist/4ZIaiuKxYK6A6JwvvwqXoN"
         },
         {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+          "name": "Oliver Detone",
+          "url": "https://open.spotify.com/artist/1nGu8KOUEVJPvFBx7nqJex"
         },
         {
-          "name": "NTG",
-          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
-        },
-        {
-          "name": "Eklectico",
-          "url": "https://open.spotify.com/artist/16ZQZS3ZH1cXixotWa5LwC"
-        },
-        {
-          "name": "Tito Flow",
-          "url": "https://open.spotify.com/artist/4hH0kU21cZ8vbWNuRhXk7v"
+          "name": "Jordan Films RD",
+          "url": "https://open.spotify.com/artist/4GJGlXGtaMaRA64EiYlZen"
         }
       ],
-      "duration_ms": 253124,
-      "name": "TU NO ENTIENDE",
-      "url": "https://open.spotify.com/track/4OOwxGbZguIXiuRyfoPfc4"
+      "duration_ms": 164312,
+      "name": "La Tipa",
+      "url": "https://open.spotify.com/track/4xWUoOFtVc1BZTRO8kFx77"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -329,30 +317,6 @@
       "url": "https://open.spotify.com/track/3HBKC7ziF2MyZVbCpRnepX"
     },
     {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "No Funcion\u00f3",
-        "url": "https://open.spotify.com/album/6nsaEoVZyarDDYQHAt1JlA"
-      },
-      "artists": [
-        {
-          "name": "Wascar Pera",
-          "url": "https://open.spotify.com/artist/3geZkVJOYG565726Nryjqx"
-        },
-        {
-          "name": "Kath Queen",
-          "url": "https://open.spotify.com/artist/5cX3Efp3GAJ6gv68fGoUaS"
-        },
-        {
-          "name": "El Baby R",
-          "url": "https://open.spotify.com/artist/0sJpqQouXqn3gKQrsN1JET"
-        }
-      ],
-      "duration_ms": 173448,
-      "name": "No Funcion\u00f3",
-      "url": "https://open.spotify.com/track/35fKmt9EdSUcJ3yWw2jazH"
-    },
-    {
       "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "Fantasia",
@@ -367,6 +331,22 @@
       "duration_ms": 141333,
       "name": "Fantasia",
       "url": "https://open.spotify.com/track/5zJZSmPznxBr29aTIUgiMg"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Frisa",
+        "url": "https://open.spotify.com/album/0Q8Kx0AJVr8RHcCA3qno5V"
+      },
+      "artists": [
+        {
+          "name": "Treintisiete",
+          "url": "https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah"
+        }
+      ],
+      "duration_ms": 149677,
+      "name": "Frisa",
+      "url": "https://open.spotify.com/track/2GcKvB2UdscaL8q5QHgEwu"
     },
     {
       "added_at": "2024-01-12 21:24:53",
@@ -389,54 +369,6 @@
       "url": "https://open.spotify.com/track/4iXYOa1juyX4ovosDzNSMv"
     },
     {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Dayyon: Track #1 (Volar)",
-        "url": "https://open.spotify.com/album/4TPncadaBVJaV6dwsTRwHC"
-      },
-      "artists": [
-        {
-          "name": "Uriel Produce",
-          "url": "https://open.spotify.com/artist/1SIghlrGacKWdkAvAgUdPC"
-        },
-        {
-          "name": "Dayyon",
-          "url": "https://open.spotify.com/artist/7jI0OOgyX077McEjoZFdzk"
-        },
-        {
-          "name": "Young Money",
-          "url": "https://open.spotify.com/artist/5OrB6Jhhrl9y2PK0pSV4VP"
-        }
-      ],
-      "duration_ms": 161279,
-      "name": "Dayyon: Track #1 (Volar)",
-      "url": "https://open.spotify.com/track/2i2uN939SNxURZiy0912iA"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Un Juego",
-        "url": "https://open.spotify.com/album/7LamJk6wbKBbf5PpljIuim"
-      },
-      "artists": [
-        {
-          "name": "Jv01",
-          "url": "https://open.spotify.com/artist/3mDqaTnON2hDcDzlXLeIhU"
-        },
-        {
-          "name": "NandoX",
-          "url": "https://open.spotify.com/artist/4StQZdXheghLOk0pIpvGqk"
-        },
-        {
-          "name": "Terror Squad",
-          "url": "https://open.spotify.com/artist/2BvzbqWWwLN11XGBYgDZzx"
-        }
-      ],
-      "duration_ms": 169142,
-      "name": "Un Juego",
-      "url": "https://open.spotify.com/track/4mauf02LoGZh18Y7pRulBA"
-    },
-    {
       "added_at": "2024-07-12 04:00:00",
       "album": {
         "name": "SNTNDR",
@@ -453,34 +385,6 @@
       "url": "https://open.spotify.com/track/0d0DyH6aH6wcTPplWxfQXd"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Cualto Y La Pistola Remix",
-        "url": "https://open.spotify.com/album/7LZVHEaSZ4DlRG86zOVwXz"
-      },
-      "artists": [
-        {
-          "name": "Carlos Trvp",
-          "url": "https://open.spotify.com/artist/3OZW7ELARiHhIhvhQ4FLCy"
-        },
-        {
-          "name": "Dowba Montana",
-          "url": "https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO"
-        },
-        {
-          "name": "Little Homie",
-          "url": "https://open.spotify.com/artist/7HDjs7xzL0m2IbJcg3qnky"
-        },
-        {
-          "name": "Eli Fross",
-          "url": "https://open.spotify.com/artist/6Vy1VMVCyTgbcmA1iz0QFg"
-        }
-      ],
-      "duration_ms": 227767,
-      "name": "Cualto Y La Pistola Remix",
-      "url": "https://open.spotify.com/track/27Ibh3TC55sAwzzIqUCgth"
-    },
-    {
       "added_at": "2024-01-12 21:24:53",
       "album": {
         "name": "Voy Despu\u00e9s",
@@ -495,22 +399,6 @@
       "duration_ms": 202814,
       "name": "Voy Despu\u00e9s",
       "url": "https://open.spotify.com/track/2FjjWl25GW1MPVIgHgZcyD"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "X ENCIMA",
-        "url": "https://open.spotify.com/album/3VVNjcp3obcBuJdnKWXJEO"
-      },
-      "artists": [
-        {
-          "name": "Little Homie",
-          "url": "https://open.spotify.com/artist/7HDjs7xzL0m2IbJcg3qnky"
-        }
-      ],
-      "duration_ms": 124491,
-      "name": "X ENCIMA",
-      "url": "https://open.spotify.com/track/3UGIlXkdtwGlz2NvAmYe9I"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -553,22 +441,6 @@
       "url": "https://open.spotify.com/track/4h3XCMbwm3rR1PTYcT336q"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Alplax",
-        "url": "https://open.spotify.com/album/0qI9VDZ2qxyOqwGkI9WUD9"
-      },
-      "artists": [
-        {
-          "name": "Tivi Gunz",
-          "url": "https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI"
-        }
-      ],
-      "duration_ms": 173892,
-      "name": "Alplax",
-      "url": "https://open.spotify.com/track/5rtvkK96j6BwX9ZOqUoeBy"
-    },
-    {
       "added_at": "2024-03-27 20:37:44",
       "album": {
         "name": "Me Hace Falta",
@@ -585,24 +457,28 @@
       "url": "https://open.spotify.com/track/0bc6usCdraQ0M3tXqemELa"
     },
     {
-      "added_at": "2024-08-30 04:00:00",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "VAN A MORIR FREESTYLE",
-        "url": "https://open.spotify.com/album/6fB0f2rEvmSDlhfK7VmjxY"
+        "name": "En La Boca",
+        "url": "https://open.spotify.com/album/5i6T407AKs1vdiduyyfhUe"
       },
       "artists": [
         {
-          "name": "Dj Scuff",
-          "url": "https://open.spotify.com/artist/4tmsSGhsR7ovyg478pebXh"
+          "name": "Shadow Blow",
+          "url": "https://open.spotify.com/artist/53cVnpkm8dTmf20tssYSNF"
         },
         {
-          "name": "Hendry Way",
-          "url": "https://open.spotify.com/artist/6cmg5yHLYkzfLOaIQkY94B"
+          "name": "Braulio Fogon",
+          "url": "https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9"
+        },
+        {
+          "name": "212MUSIC",
+          "url": "https://open.spotify.com/artist/64fS1PIu8pLViR5EZzvNLq"
         }
       ],
-      "duration_ms": 885418,
-      "name": "VAN A MORIR FREESTYLE",
-      "url": "https://open.spotify.com/track/0jLSynTx5NNPhVwTg14ytG"
+      "duration_ms": 151638,
+      "name": "En La Boca",
+      "url": "https://open.spotify.com/track/7CQKwskPmZiG9nWTOzOGXY"
     },
     {
       "added_at": "2024-04-25 22:06:48",
@@ -657,26 +533,6 @@
       "url": "https://open.spotify.com/track/3pjh4rGnTgLPOUb2diydH9"
     },
     {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Lo Rango",
-        "url": "https://open.spotify.com/album/1TMbuBV909PebHSP226hFT"
-      },
-      "artists": [
-        {
-          "name": "El Sicokario",
-          "url": "https://open.spotify.com/artist/2R2Qev4Igr0JpO9G8kbJc6"
-        },
-        {
-          "name": "42palmundo",
-          "url": "https://open.spotify.com/artist/2NbqLq9sULjF2DGQPsV7UK"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Lo Rango",
-      "url": "https://open.spotify.com/track/2Z5yMF7F012reTXeds9Tw2"
-    },
-    {
       "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "RUKUTU",
@@ -713,20 +569,20 @@
       "url": "https://open.spotify.com/track/38NWfFQynxu9Ok4Gf3xedH"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Diferente",
-        "url": "https://open.spotify.com/album/6KX02CSspsaKId41ZQI65u"
+        "name": "Bailame",
+        "url": "https://open.spotify.com/album/4HtDIuQ5G6wckIiuWYWup7"
       },
       "artists": [
         {
-          "name": "lejazzy",
-          "url": "https://open.spotify.com/artist/6Xjmpnt9WtUHfeBRBD9aER"
+          "name": "Chriss Oz",
+          "url": "https://open.spotify.com/artist/25zXqzpthOYV1UjwroF7sn"
         }
       ],
-      "duration_ms": 155688,
-      "name": "Diferente",
-      "url": "https://open.spotify.com/track/4gSCux1nBQmZWR9SUL0XIe"
+      "duration_ms": 148033,
+      "name": "Bailame",
+      "url": "https://open.spotify.com/track/0rzUSTErFqeg5SDpHm5Flz"
     },
     {
       "added_at": "2023-07-18 04:00:00",
@@ -807,6 +663,22 @@
       "duration_ms": 177240,
       "name": "Feliz",
       "url": "https://open.spotify.com/track/2mzDRrBn6M6rWX4bGzd1uQ"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Dinero + Problema",
+        "url": "https://open.spotify.com/album/5aIL49FGSi9NzYQFy89T5w"
+      },
+      "artists": [
+        {
+          "name": "Carlos Trvp",
+          "url": "https://open.spotify.com/artist/3OZW7ELARiHhIhvhQ4FLCy"
+        }
+      ],
+      "duration_ms": 141606,
+      "name": "Dinero + Problema",
+      "url": "https://open.spotify.com/track/1Eb2zaH3mCKE17J8nTBUax"
     },
     {
       "added_at": "2023-07-18 04:00:00",
@@ -899,6 +771,22 @@
       "duration_ms": 100704,
       "name": "Me la Subi\u00f3",
       "url": "https://open.spotify.com/track/2ALlACw9HxS1naFyAwXj3Z"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Bandz",
+        "url": "https://open.spotify.com/album/1ViWmbHGdvCTTZPdaDeiTC"
+      },
+      "artists": [
+        {
+          "name": "Little Homie",
+          "url": "https://open.spotify.com/artist/7HDjs7xzL0m2IbJcg3qnky"
+        }
+      ],
+      "duration_ms": 171120,
+      "name": "Bandz",
+      "url": "https://open.spotify.com/track/69cWMCbMtqKTKyc2I7c2hl"
     },
     {
       "added_at": "2023-07-18 04:00:00",
@@ -1007,6 +895,82 @@
       "duration_ms": 159320,
       "name": "NA CONMIGO?",
       "url": "https://open.spotify.com/track/6n1ZXoxoYUWCV649hii6Hu"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Cualto Y La Pistola Remix",
+        "url": "https://open.spotify.com/album/7LZVHEaSZ4DlRG86zOVwXz"
+      },
+      "artists": [
+        {
+          "name": "Carlos Trvp",
+          "url": "https://open.spotify.com/artist/3OZW7ELARiHhIhvhQ4FLCy"
+        },
+        {
+          "name": "Dowba Montana",
+          "url": "https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO"
+        },
+        {
+          "name": "Little Homie",
+          "url": "https://open.spotify.com/artist/7HDjs7xzL0m2IbJcg3qnky"
+        },
+        {
+          "name": "Eli Fross",
+          "url": "https://open.spotify.com/artist/6Vy1VMVCyTgbcmA1iz0QFg"
+        }
+      ],
+      "duration_ms": 227767,
+      "name": "Cualto Y La Pistola Remix",
+      "url": "https://open.spotify.com/track/27Ibh3TC55sAwzzIqUCgth"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Alplax",
+        "url": "https://open.spotify.com/album/0qI9VDZ2qxyOqwGkI9WUD9"
+      },
+      "artists": [
+        {
+          "name": "Tivi Gunz",
+          "url": "https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI"
+        }
+      ],
+      "duration_ms": 173892,
+      "name": "Alplax",
+      "url": "https://open.spotify.com/track/5rtvkK96j6BwX9ZOqUoeBy"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "TU NO ENTIENDE",
+        "url": "https://open.spotify.com/album/0Uqpi5vgn3s19xMRhKdBET"
+      },
+      "artists": [
+        {
+          "name": "Amenazzy",
+          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        },
+        {
+          "name": "NTG",
+          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
+        },
+        {
+          "name": "Eklectico",
+          "url": "https://open.spotify.com/artist/16ZQZS3ZH1cXixotWa5LwC"
+        },
+        {
+          "name": "Tito Flow",
+          "url": "https://open.spotify.com/artist/4hH0kU21cZ8vbWNuRhXk7v"
+        }
+      ],
+      "duration_ms": 253124,
+      "name": "TU NO ENTIENDE",
+      "url": "https://open.spotify.com/track/4OOwxGbZguIXiuRyfoPfc4"
     }
   ],
   "unique_name": "Flow Dominicano",

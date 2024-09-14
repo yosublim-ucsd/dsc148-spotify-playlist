@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "tsubi club is back",
+  "description": "featuring HARU NEMURI and Frost Children",
   "name": "hyperpop",
   "tracks": [
     {
@@ -1242,8 +1242,8 @@
           "url": "https://open.spotify.com/artist/6xHMrHVijOcbhaRLAMnCLT"
         },
         {
-          "name": "Lee Suho",
-          "url": "https://open.spotify.com/artist/6lu1at7eKmZ4y0hpMbwppj"
+          "name": "\uc774\uc218\ud638",
+          "url": "https://open.spotify.com/artist/7lBTPuykSETKIYL6JYjSHP"
         }
       ],
       "date_added": "2024-08-31",
@@ -8787,6 +8787,28 @@
     },
     {
       "album": {
+        "name": "Daijoubu Desu",
+        "url": "https://open.spotify.com/album/0BPo7iweApBxJ2wZbN8S5u"
+      },
+      "artists": [
+        {
+          "name": "HARU NEMURI",
+          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
+        },
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199026,
+      "name": "Daijoubu Desu",
+      "url": "https://open.spotify.com/track/7oSpZgUtuqjGlCOckaPZI2"
+    },
+    {
+      "album": {
         "name": "boys wanna txt / dainecore",
         "url": "https://open.spotify.com/album/0SUFUWm7zfVIG3mQpPuO4D"
       },
@@ -11148,6 +11170,28 @@
       "duration_ms": 117408,
       "name": "Eieio",
       "url": "https://open.spotify.com/track/7s2b8nis9iSoaBHOoTxzn9"
+    },
+    {
+      "album": {
+        "name": "electric wasp nest (HIT EM)",
+        "url": "https://open.spotify.com/album/5MloO8FbuwRboHKEXDDrN4"
+      },
+      "artists": [
+        {
+          "name": "dj galen",
+          "url": "https://open.spotify.com/artist/18ZA3vytlUTwnjKxjohr3g"
+        },
+        {
+          "name": "galen tipton",
+          "url": "https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103102,
+      "name": "electric wasp nest (HIT EM)",
+      "url": "https://open.spotify.com/track/0pAS6DeXQiwYHgT9UZGyho"
     },
     {
       "album": {
@@ -20576,6 +20620,24 @@
       "duration_ms": 75975,
       "name": "Jack of All Trades",
       "url": "https://open.spotify.com/track/5bKI4d46xi0KvAeLDfe2Kn"
+    },
+    {
+      "album": {
+        "name": "Jacuzzi",
+        "url": "https://open.spotify.com/album/37kFKx2MjofX4qkGxe8ua6"
+      },
+      "artists": [
+        {
+          "name": "lozeak",
+          "url": "https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122583,
+      "name": "Jacuzzi",
+      "url": "https://open.spotify.com/track/5HOZ5PCSIrgPY6QMvJpzsC"
     },
     {
       "album": {
@@ -40914,6 +40976,24 @@
       "duration_ms": 174500,
       "name": "We Invented Love",
       "url": "https://open.spotify.com/track/3ph60TsHPtgPYiu5wTTEp6"
+    },
+    {
+      "album": {
+        "name": "We Were At The Club",
+        "url": "https://open.spotify.com/album/7drS6IdkQ2Wnnm2xjbE4zp"
+      },
+      "artists": [
+        {
+          "name": "Ruby Bell",
+          "url": "https://open.spotify.com/artist/3V8Eb1ys7e90m3eXLIWRSO"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171746,
+      "name": "We were at the club",
+      "url": "https://open.spotify.com/track/7hhsxh6XFRnfX9GULgnnHy"
     },
     {
       "album": {

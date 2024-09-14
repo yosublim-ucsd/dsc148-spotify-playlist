@@ -4695,6 +4695,32 @@
     },
     {
       "album": {
+        "name": "Sunday in the South",
+        "url": "https://open.spotify.com/album/0oOoMX85F7EnoLB0PM5Q2e"
+      },
+      "artists": [
+        {
+          "name": "Shenandoah",
+          "url": "https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo"
+        },
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        },
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255351,
+      "name": "Sunday in the South",
+      "url": "https://open.spotify.com/track/05ij6sLi5xRb2s2yOCSvPN"
+    },
+    {
+      "album": {
         "name": "Milestone",
         "url": "https://open.spotify.com/album/1WZzoVlzSUTxrfa5ApTHw9"
       },

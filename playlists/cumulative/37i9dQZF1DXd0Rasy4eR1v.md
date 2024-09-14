@@ -4,7 +4,7 @@
 
 > Freshest Pakistani discoveries\. Cover \- Indiedanish
 
-887 songs - 1 day 23 hr 49 min
+888 songs - 1 day 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,6 +257,7 @@
 | [Eyes](https://open.spotify.com/track/0MCZffBZvJivkdr9a7ZNeZ) | [Asad Ramzan](https://open.spotify.com/artist/3WurOoapdd3PrQr3Y3IlOD) | [Eyes](https://open.spotify.com/album/29pjJzNKFjYNFbXBovNPgi) | 2:25 | 2023-01-10 | 2023-01-26 |
 | [Faaslay](https://open.spotify.com/track/4ym4sCUSQyhWbdD5kd1UyB) | [daudd](https://open.spotify.com/artist/3bTY1NJE0nNY6ngabHAJH7) | [Faaslay](https://open.spotify.com/album/47o5eaeyY2fEQtns49Meh8) | 1:52 | 2023-10-20 | 2023-12-09 |
 | [Faasley](https://open.spotify.com/track/30K7OCqhAQWUM3xdIbb0Sy) | [Essa Barlas](https://open.spotify.com/artist/2Nk96lbrQs5R0OsqeBsxfZ) | [Faasley](https://open.spotify.com/album/5WUkYLdVUFljRP9ReHHprm) | 3:38 | 2024-09-05 |  |
+| [Faasley](https://open.spotify.com/track/2at6ZuQzPIp058oHDqRznT) | [The Skinny guy](https://open.spotify.com/artist/7eYjyf17V4zqV4fN1oYBMX), [Jayyke](https://open.spotify.com/artist/1ARdtExcPBhLoGwsI959Kw) | [Faasley](https://open.spotify.com/album/0HthZKGQ3adVX0tonwgOEJ) | 3:49 | 2024-09-12 |  |
 | [Faithless](https://open.spotify.com/track/4UGTkKP8QENtNhKAWH6ys5) | [Sameen Khawaja](https://open.spotify.com/artist/3N3IttjqDCutknUWWA1q9B), [Ali Mustafa](https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN) | [Faithless](https://open.spotify.com/album/6lFAXr2v23txmFqjKlJRQG) | 3:43 | 2024-01-04 | 2024-05-10 |
 | [FAKE FAKE](https://open.spotify.com/track/5vqZ8FWRzXB3bNLw1W2PPf) | [Madlock Gilani](https://open.spotify.com/artist/69QGbimZ7ZZJ9w02ET3kpx) | [FAKE FAKE](https://open.spotify.com/album/6AfKpBZ8of6stPTxPxEY7f) | 2:15 | 2023-01-10 | 2023-02-14 |
 | [Fall](https://open.spotify.com/track/5s71n4JEu588lFyQt9GAdc) | [Shareh](https://open.spotify.com/artist/3y9g9xthZriyjyUu8ZeEHa), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Fall](https://open.spotify.com/album/34739rAj0TnKnSBchE4TLu) | 2:05 | 2023-01-10 | 2023-03-22 |

@@ -4,7 +4,7 @@
 
 > Conheça as novas vozes da música sertaneja! Foto: Theo & Luan, Clayton & Romário
 
-129 songs - 6 hr 20 min
+130 songs - 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Chance É Grande \- Ao Vivo](https://open.spotify.com/track/0fQ0gx9D0lDWsWaO1NXz5p) | [Lucas Souza](https://open.spotify.com/artist/1oPBjUigdT4JJxW9LjMqWU), [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Quandé Fé Bebi, Ep\. 4 \(Ao Vivo\)](https://open.spotify.com/album/76JHtXz23yAdLWgbdOj5Qm) | 2:45 | 2024-07-26 |  |
 | [A Saideira](https://open.spotify.com/track/1egSLQgg9a4wnVaeqefNcI) | [Luana Magalhães](https://open.spotify.com/artist/5ZlBXtC4mFEALRMeUNt9wH) | [A Saideira](https://open.spotify.com/album/061XUJjmJ9iYghbYAExIMu) | 3:27 | 2024-07-19 | 2024-08-10 |
 | [Abstinência \- Sistema Diferente, Ao Vivo](https://open.spotify.com/track/35zpuGwGs76ofl3JqpiaMf) | [Bruno Reis & Thiago](https://open.spotify.com/artist/2rJTiPZiYxJaAhyvNT2Thr), [New Music Play](https://open.spotify.com/artist/3k7MPOrJwbfxQS4ArgsNEG) | [Abstinência \(Sistema Diferente, Ao Vivo\)](https://open.spotify.com/album/5JH1JzB0YMEC41kURY92Dv) | 3:02 | 2024-06-28 |  |
+| [Adivinha \- Ao Vivo](https://open.spotify.com/track/3WZSGhQRG3RVxH04HTkJL3) | [Yule Rossi](https://open.spotify.com/artist/4L84cDrvCezSuR0jwo0Dlo) | [Adivinha \- Ao Vivo](https://open.spotify.com/album/0a5f86wa5kDp1HSlZi1FBJ) | 2:51 | 2024-09-13 |  |
 | [Agenda Rabiscada / Desatino \(Nois É Peão\) \- Ao Vivo](https://open.spotify.com/track/5mzgepnoUd2J17edCga3cs) | [Mazzo e Gabriel](https://open.spotify.com/artist/0JZ820wwYkeKfjE7eMxyaI) | [Agenda Rabiscada / Desatino \(Nois É Peão\) \[Ao Vivo\]](https://open.spotify.com/album/4ejfQN8bJEPkL7H67XCpTm) | 2:43 | 2024-06-28 | 2024-07-27 |
 | [Anti Recaída \- Ao Vivo](https://open.spotify.com/track/3IsJlpVwnSoyf4nq7uwkBA) | [Dani Kramar](https://open.spotify.com/artist/66cud0YzAQGjDJ43cfbTHE), [Japinha Conde](https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n) | [Anti Recaída \(Ao Vivo\)](https://open.spotify.com/album/3AlqdqyKhRPwJSNT63dl6q) | 2:37 | 2024-06-28 |  |
 | [Aquela Boca](https://open.spotify.com/track/4Flipe2KvxKZIvXItpA2fh) | [Matheus Vargas](https://open.spotify.com/artist/61Y0yB7JKvkyHQ5g4Neirl), [Marília Tavares](https://open.spotify.com/artist/5B1BR71Q9cBvvoNocPSHiL) | [Aquela Boca](https://open.spotify.com/album/3Ni1CNs60Ri6DKjMSBa2Bd) | 2:44 | 2024-08-02 |  |

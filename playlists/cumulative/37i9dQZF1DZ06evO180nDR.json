@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-02",
-  "description": "This is Los Dareyes De La Sierra. The essential tracks, all in one playlist.",
+  "description": "This Is Los Dareyes De La Sierra. Los temas esenciales, todos en una lista.",
   "name": "This Is Los Dareyes De La Sierra",
   "tracks": [
     {
@@ -746,7 +746,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 204313,
       "name": "El Equipo del Terror",
       "url": "https://open.spotify.com/track/1z6hz6gXLoipHB3R52FkBe"
@@ -960,6 +960,28 @@
       "duration_ms": 234693,
       "name": "Estoy Aqu\u00ed",
       "url": "https://open.spotify.com/track/4VKn45HqiDSTZEzCTVEUst"
+    },
+    {
+      "album": {
+        "name": "F*%K U Baby",
+        "url": "https://open.spotify.com/album/6Kozw1RDnshSWyZaaAZagg"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153024,
+      "name": "F*%K U Baby",
+      "url": "https://open.spotify.com/track/0vZmz50wDnBhILCE1eHNyB"
     },
     {
       "album": {

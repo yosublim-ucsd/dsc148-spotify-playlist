@@ -1,12 +1,12 @@
 {
   "description": "This is Perdidos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 49691,
+  "num_followers": 49706,
   "original_name": "This Is Perdidos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuDdgAAAAABGWnTaq+XKsTpdZtVGqY6t",
+  "snapshot_id": "ZuIvAAAAAABL18Aq0cCKmlYXJq90sqvk",
   "tracks": [
     {
       "added_at": null,
@@ -675,26 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tonieladas (feat. Kanales)",
-        "url": "https://open.spotify.com/album/73D9IF6R7JhKsO5rtLJ1LX"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        },
-        {
-          "name": "Kanales",
-          "url": "https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA"
-        }
-      ],
-      "duration_ms": 200565,
-      "name": "Tonieladas",
-      "url": "https://open.spotify.com/track/7aIlm2O6MRpMgfHkhVVyN0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dar\u00eda Todo Por Ti",
         "url": "https://open.spotify.com/album/3mvFCw4U3GRlGEfljcgZWw"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 256000,
       "name": "La Bruta (En Vivo)",
       "url": "https://open.spotify.com/track/7IVjHkw0xPgHsswmRDUDLD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tonieladas (feat. Kanales)",
+        "url": "https://open.spotify.com/album/73D9IF6R7JhKsO5rtLJ1LX"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        },
+        {
+          "name": "Kanales",
+          "url": "https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA"
+        }
+      ],
+      "duration_ms": 200565,
+      "name": "Tonieladas",
+      "url": "https://open.spotify.com/track/7aIlm2O6MRpMgfHkhVVyN0"
     },
     {
       "added_at": null,
@@ -863,6 +863,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ayer Ped\u00ed",
+        "url": "https://open.spotify.com/album/16wXgjMSLDvU6xgfq68QMR"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 182158,
+      "name": "Ayer Ped\u00ed",
+      "url": "https://open.spotify.com/track/1gwUbm3lF2PLacBv4OoXgs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Porque Te Amo",
         "url": "https://open.spotify.com/album/4iX8wQOf7j8lD6fYLaSIqg"
       },
@@ -899,22 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ayer Ped\u00ed",
-        "url": "https://open.spotify.com/album/16wXgjMSLDvU6xgfq68QMR"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 182158,
-      "name": "Ayer Ped\u00ed",
-      "url": "https://open.spotify.com/track/1gwUbm3lF2PLacBv4OoXgs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Necesito",
         "url": "https://open.spotify.com/album/00XEWfKhMquiyTWMVdBl7p"
       },
@@ -947,8 +947,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuando Se Ama a Una Mujer",
-        "url": "https://open.spotify.com/album/6Hgro2Y0AyPo8NJc9hPxiw"
+        "name": "Rosas",
+        "url": "https://open.spotify.com/album/3hZlM7TdcIkHMyBiUB2dbh"
       },
       "artists": [
         {
@@ -956,9 +956,9 @@
           "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
         }
       ],
-      "duration_ms": 216372,
-      "name": "Cuando Se Ama a Una Mujer",
-      "url": "https://open.spotify.com/track/0sQYmLOa5trLFpUWbHxpZ9"
+      "duration_ms": 287135,
+      "name": "Rosas",
+      "url": "https://open.spotify.com/track/6eWEXLzMHL4frTepZXwziY"
     }
   ],
   "unique_name": "This Is Perdidos De Sinaloa",

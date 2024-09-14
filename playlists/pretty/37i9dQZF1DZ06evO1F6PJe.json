@@ -1,29 +1,13 @@
 {
   "description": "This is Joe Bonamassa. The essential tracks, all in one playlist.",
-  "num_followers": 102903,
+  "num_followers": 102921,
   "original_name": "This Is Joe Bonamassa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuDdgAAAAACxvkV3qS7Y0a7WvuQDu0RL",
+  "snapshot_id": "ZuIvAAAAAACqz6eXbYyUMkh3qNt47nr7",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Better The Devil You Know",
-        "url": "https://open.spotify.com/album/4EcrRDG5UDFHicNrke1DJ8"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 281214,
-      "name": "Better The Devil You Know",
-      "url": "https://open.spotify.com/track/2Nh6N7gFO5KpfQGVvducRY"
-    },
     {
       "added_at": null,
       "album": {
@@ -139,6 +123,22 @@
       "duration_ms": 492066,
       "name": "Sloe Gin",
       "url": "https://open.spotify.com/track/5hob2jVM2gA74CyJ4G4bJZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Better The Devil You Know",
+        "url": "https://open.spotify.com/album/4EcrRDG5UDFHicNrke1DJ8"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 281214,
+      "name": "Better The Devil You Know",
+      "url": "https://open.spotify.com/track/2Nh6N7gFO5KpfQGVvducRY"
     },
     {
       "added_at": null,
@@ -259,6 +259,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blues Deluxe",
+        "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 215026,
+      "name": "You Upset Me Baby",
+      "url": "https://open.spotify.com/track/47UTDQeXdd6JkDCwF9vxWU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "We're All In This Together",
         "url": "https://open.spotify.com/album/2bJmqY2kvocUFcDa1tEaDw"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 477173,
       "name": "We're All In This Together",
       "url": "https://open.spotify.com/track/2FIoA2HXo95j29Do5jg9jq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blues Deluxe",
-        "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 215026,
-      "name": "You Upset Me Baby",
-      "url": "https://open.spotify.com/track/47UTDQeXdd6JkDCwF9vxWU"
     },
     {
       "added_at": null,
@@ -475,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dust Bowl",
+        "url": "https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 254133,
+      "name": "Black Lung Heartache",
+      "url": "https://open.spotify.com/track/4WPB8sqL2RayXfI9mcz0WM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Four Day Creep",
         "url": "https://open.spotify.com/album/5NlKdlWeryULQL6rGI5bzW"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 232944,
       "name": "Four Day Creep",
       "url": "https://open.spotify.com/track/2r46l03PjLiW5Xy6BLMfbj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dust Bowl",
-        "url": "https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 254133,
-      "name": "Black Lung Heartache",
-      "url": "https://open.spotify.com/track/4WPB8sqL2RayXfI9mcz0WM"
     },
     {
       "added_at": null,
@@ -603,6 +603,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trilogy, Vol. 1",
+        "url": "https://open.spotify.com/album/7M78ou62qwyei46ZvdPorP"
+      },
+      "artists": [
+        {
+          "name": "Ana Popovic",
+          "url": "https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 297106,
+      "name": "Train (feat. Joe Bonamassa)",
+      "url": "https://open.spotify.com/track/43BXkw7iKGoSYY2mDIFhSj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "With You I Go",
         "url": "https://open.spotify.com/album/1xFP6uey8FkpaZ1GJZhXiY"
       },
@@ -631,26 +651,6 @@
       "duration_ms": 304360,
       "name": "With You I Go",
       "url": "https://open.spotify.com/track/7AcxvtAFKqcXeWbr7UVbvU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trilogy, Vol. 1",
-        "url": "https://open.spotify.com/album/7M78ou62qwyei46ZvdPorP"
-      },
-      "artists": [
-        {
-          "name": "Ana Popovic",
-          "url": "https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 297106,
-      "name": "Train (feat. Joe Bonamassa)",
-      "url": "https://open.spotify.com/track/43BXkw7iKGoSYY2mDIFhSj"
     },
     {
       "added_at": null,
@@ -779,6 +779,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
+      },
+      "artists": [
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 259226,
+      "name": "I Want My Crown",
+      "url": "https://open.spotify.com/track/2in7I4NcwamHLIEMh4V8o5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "How Come U Don't Call Me Anymore",
         "url": "https://open.spotify.com/album/6Q9NrZjwc8XnIFT5ICbiTu"
       },
@@ -803,26 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crown",
-        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
-      },
-      "artists": [
-        {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 259226,
-      "name": "I Want My Crown",
-      "url": "https://open.spotify.com/track/2in7I4NcwamHLIEMh4V8o5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cradle Rock",
         "url": "https://open.spotify.com/album/6Y2mu4qftaYr1ETmK50BJA"
       },
@@ -835,22 +835,6 @@
       "duration_ms": 230026,
       "name": "Cradle Rock",
       "url": "https://open.spotify.com/track/0OVWOIMbfPWn2aVEzTclkN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live At The Hollywood Bowl With Orchestra",
-        "url": "https://open.spotify.com/album/1nnUD5cVKlnc0wSsIQY4lG"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 542546,
-      "name": "Curtain Call (Live At The Hollywood Bowl With Orchestra)",
-      "url": "https://open.spotify.com/track/3j6b3qvPatlN1wfFtoxxnP"
     },
     {
       "added_at": null,
@@ -871,6 +855,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live At The Hollywood Bowl With Orchestra",
+        "url": "https://open.spotify.com/album/1nnUD5cVKlnc0wSsIQY4lG"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 542546,
+      "name": "Curtain Call (Live At The Hollywood Bowl With Orchestra)",
+      "url": "https://open.spotify.com/track/3j6b3qvPatlN1wfFtoxxnP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Ballad of John Henry",
         "url": "https://open.spotify.com/album/0H8c4DhrLk4mtFaiYt43GN"
       },
@@ -883,26 +883,6 @@
       "duration_ms": 400333,
       "name": "Happier Times",
       "url": "https://open.spotify.com/track/4iEHQSpgBrclLwErcU5Lwj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Charisma",
-        "url": "https://open.spotify.com/album/6PXxlkzFaMeMEf2ziEOyhs"
-      },
-      "artists": [
-        {
-          "name": "Andy Wood",
-          "url": "https://open.spotify.com/artist/5joubZqEbfc77SxLgM85XW"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 398333,
-      "name": "Moaning Lisa",
-      "url": "https://open.spotify.com/track/0OhxYM6kukjY0jP8LAly8s"
     }
   ],
   "unique_name": "This Is Joe Bonamassa",

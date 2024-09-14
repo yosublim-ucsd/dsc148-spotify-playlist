@@ -1,12 +1,12 @@
 {
   "description": "Jazz voices of today. Cover: Samara Joy",
-  "num_followers": 146088,
+  "num_followers": 146143,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zts/UQAAAAAf0fbXkbAKbmQ5UT25K/io",
+  "snapshot_id": "ZuO4wAAAAACysNk+PJMJ/JZTTP/5W3M/",
   "tracks": [
     {
       "added_at": "2024-08-30 04:00:00",
@@ -39,6 +39,26 @@
       "duration_ms": 240000,
       "name": "You're Getting to Be a Habit With Me",
       "url": "https://open.spotify.com/track/2bs51JHesQ5giFaZ9a3kaA"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "A Foggy Day",
+        "url": "https://open.spotify.com/album/6yDhELTl2NEXTRqqT7i1q3"
+      },
+      "artists": [
+        {
+          "name": "Matt Dusk",
+          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
+        },
+        {
+          "name": "Lou Pomanti",
+          "url": "https://open.spotify.com/artist/4dSjbjQP6Si6yNXMCG19UW"
+        }
+      ],
+      "duration_ms": 112117,
+      "name": "A Foggy Day",
+      "url": "https://open.spotify.com/track/7tuyPJp1LzwkMPFGf34v7m"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -81,6 +101,22 @@
       "url": "https://open.spotify.com/track/6U47K1QjLeN3lcaWVb48SQ"
     },
     {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Where or When",
+        "url": "https://open.spotify.com/album/6MJLX11fKx4JaRfGS25ih1"
+      },
+      "artists": [
+        {
+          "name": "Emma Smith",
+          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
+        }
+      ],
+      "duration_ms": 257811,
+      "name": "Where or When",
+      "url": "https://open.spotify.com/track/1bNpRcfsbIxI9FMJsjCNcw"
+    },
+    {
       "added_at": "2024-08-30 04:00:00",
       "album": {
         "name": "My Romance",
@@ -97,20 +133,20 @@
       "url": "https://open.spotify.com/track/6YkOwCo6FUsyKTU8LcH1SY"
     },
     {
-      "added_at": "2024-08-30 04:00:00",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Chelsea Bridge",
-        "url": "https://open.spotify.com/album/2QD9jp5eg6iH75ctCpeSfN"
+        "name": "Manhattan",
+        "url": "https://open.spotify.com/album/59KxExoW3T9ExZ15kFEs1h"
       },
       "artists": [
         {
-          "name": "Emma Smith",
-          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
+          "name": "Laura Anglade",
+          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
         }
       ],
-      "duration_ms": 225801,
-      "name": "Chelsea Bridge",
-      "url": "https://open.spotify.com/track/3G7TsMsIvIpWqug5qEY61Z"
+      "duration_ms": 321182,
+      "name": "Manhattan",
+      "url": "https://open.spotify.com/track/22YphPVmER6mRK4ADu0QWy"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -131,22 +167,6 @@
       "duration_ms": 207251,
       "name": "Another You",
       "url": "https://open.spotify.com/track/6wEmBI22p4jsXgGFfvbLtj"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "A New Day, a New Life, a New Love",
-        "url": "https://open.spotify.com/album/0xqQrBIKvA6wn8en6nBZ8g"
-      },
-      "artists": [
-        {
-          "name": "Laura Anglade",
-          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
-        }
-      ],
-      "duration_ms": 306165,
-      "name": "A New Day, a New Life, a New Love",
-      "url": "https://open.spotify.com/track/46UO3NuWwrFg6Fl030tRmT"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -223,26 +243,6 @@
       "duration_ms": 171904,
       "name": "A Rita",
       "url": "https://open.spotify.com/track/0m58arItMmNJLChjHBIjfa"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Speak Low",
-        "url": "https://open.spotify.com/album/2aGnHaEzKIiX0MEix3wXiK"
-      },
-      "artists": [
-        {
-          "name": "Matt Dusk",
-          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
-        },
-        {
-          "name": "Lou Pomanti",
-          "url": "https://open.spotify.com/artist/4dSjbjQP6Si6yNXMCG19UW"
-        }
-      ],
-      "duration_ms": 180565,
-      "name": "Speak Low",
-      "url": "https://open.spotify.com/track/5cAnj53nrI1OdAXAieTFOd"
     },
     {
       "added_at": "2024-07-19 04:00:00",

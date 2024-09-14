@@ -1121,6 +1121,24 @@
     },
     {
       "album": {
+        "name": "Christmas Night With You",
+        "url": "https://open.spotify.com/album/3uFKb73VCTT04JWDQYyHB5"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219120,
+      "name": "Christmas Night With You",
+      "url": "https://open.spotify.com/track/6lx1UIYeVhlLr40MA5Yjgl"
+    },
+    {
+      "album": {
         "name": "On This Winter's Night (Deluxe)",
         "url": "https://open.spotify.com/album/6ww6efJkv3ytQfbEyMosPu"
       },

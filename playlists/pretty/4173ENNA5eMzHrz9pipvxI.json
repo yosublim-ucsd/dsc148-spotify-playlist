@@ -1,83 +1,15 @@
 {
   "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. ",
-  "num_followers": 120180,
+  "num_followers": 120179,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAd8fRCjygbIkugahDMKTPEDdgKbZhZ",
+  "snapshot_id": "AAAeAAu2FzLfCeXzQZ0j8zCrq9k2QTJV",
   "tracks": [
     {
-      "added_at": "2024-09-12 14:04:59",
-      "album": {
-        "name": "Bulletproof",
-        "url": "https://open.spotify.com/album/3pFB9jB2dvhtEmPppxWZkG"
-      },
-      "artists": [
-        {
-          "name": "Macon",
-          "url": "https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ"
-        }
-      ],
-      "duration_ms": 144517,
-      "name": "Bulletproof",
-      "url": "https://open.spotify.com/track/3xW6Kb3xpdfmmFVZo1It3g"
-    },
-    {
-      "added_at": "2024-09-12 14:04:59",
-      "album": {
-        "name": "Renegade Master",
-        "url": "https://open.spotify.com/album/7jed62ZXmaqO0C04QO6OYe"
-      },
-      "artists": [
-        {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        }
-      ],
-      "duration_ms": 170307,
-      "name": "Renegade Master",
-      "url": "https://open.spotify.com/track/3aM59S9lax0LomwFVCHF0L"
-    },
-    {
-      "added_at": "2024-09-12 14:04:59",
-      "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/6vi6J8DtwGtGeCWDUgqq3R"
-      },
-      "artists": [
-        {
-          "name": "Carneyval",
-          "url": "https://open.spotify.com/artist/2L8dsMgFCSOumasWQ4gvwZ"
-        }
-      ],
-      "duration_ms": 160546,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/0QTzsscae0G5ndE4vWSXTd"
-    },
-    {
-      "added_at": "2024-09-12 14:04:59",
-      "album": {
-        "name": "VHS RAVE",
-        "url": "https://open.spotify.com/album/6jBRSFPY0Kbg7V3Ey2uDYX"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Swimming Paul",
-          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "VHS RAVE",
-      "url": "https://open.spotify.com/track/1zgs6QpTBuJ67TQvXMtp7L"
-    },
-    {
-      "added_at": "2024-09-12 14:04:59",
+      "added_at": "2024-09-13 09:00:55",
       "album": {
         "name": "To The World",
         "url": "https://open.spotify.com/album/465mvLX0RMXAvsz9KtcSRa"
@@ -97,7 +29,7 @@
       "url": "https://open.spotify.com/track/0MBE2aSvZdmDxmAG9O2Fhs"
     },
     {
-      "added_at": "2024-09-12 14:04:59",
+      "added_at": "2024-09-13 09:00:55",
       "album": {
         "name": "Niet Te Lang Doen",
         "url": "https://open.spotify.com/album/05UL8lTrxIZb4loPfAdtpx"
@@ -117,7 +49,47 @@
       "url": "https://open.spotify.com/track/0PQKIBxujfbN7GYp20dH56"
     },
     {
-      "added_at": "2024-09-12 14:04:59",
+      "added_at": "2024-09-13 09:00:55",
+      "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/6vi6J8DtwGtGeCWDUgqq3R"
+      },
+      "artists": [
+        {
+          "name": "Carneyval",
+          "url": "https://open.spotify.com/artist/2L8dsMgFCSOumasWQ4gvwZ"
+        }
+      ],
+      "duration_ms": 160546,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/0QTzsscae0G5ndE4vWSXTd"
+    },
+    {
+      "added_at": "2024-09-13 09:00:55",
+      "album": {
+        "name": "Teufel",
+        "url": "https://open.spotify.com/album/7DN6ucZjue4uXoFmJtLjQ6"
+      },
+      "artists": [
+        {
+          "name": "POLTERGST",
+          "url": "https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM"
+        },
+        {
+          "name": "ORYMA",
+          "url": "https://open.spotify.com/artist/1yofigg8Jio5xwoWfDPEK5"
+        },
+        {
+          "name": "danzen",
+          "url": "https://open.spotify.com/artist/4FeLGx97hUMscWvgzmAAE9"
+        }
+      ],
+      "duration_ms": 172200,
+      "name": "Teufel",
+      "url": "https://open.spotify.com/track/0kdVqRkqbtBqhI4zVs0zdW"
+    },
+    {
+      "added_at": "2024-09-13 09:00:55",
       "album": {
         "name": "Take Yo' Praise",
         "url": "https://open.spotify.com/album/6LrJuyI8NRxTi8st02apst"
@@ -133,27 +105,123 @@
       "url": "https://open.spotify.com/track/0okW8DpLYyl4oPfDAFZsiT"
     },
     {
-      "added_at": "2024-09-12 14:04:59",
+      "added_at": "2024-09-13 09:00:55",
       "album": {
-        "name": "To The World",
-        "url": "https://open.spotify.com/album/465mvLX0RMXAvsz9KtcSRa"
+        "name": "D\u00e9senchant\u00e9e",
+        "url": "https://open.spotify.com/album/4Xxt2G4Lce7d6sxPNCEVWL"
       },
       "artists": [
         {
-          "name": "America",
-          "url": "https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo"
+          "name": "Funky Beatz",
+          "url": "https://open.spotify.com/artist/7mqX0sJOYDEc8aXlTV3f2r"
         },
         {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+          "name": "Kate Ryan",
+          "url": "https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM"
         }
       ],
-      "duration_ms": 123890,
-      "name": "A Horse With No Name (CYRIL Remix)",
-      "url": "https://open.spotify.com/track/3wn6g2EtZjTLeSOPoYl9Cu"
+      "duration_ms": 162461,
+      "name": "D\u00e9senchant\u00e9e",
+      "url": "https://open.spotify.com/track/174GfVWcX1r7ZxB3crEguD"
     },
     {
-      "added_at": "2024-09-12 14:04:59",
+      "added_at": "2024-09-13 09:00:55",
+      "album": {
+        "name": "P.A.R.T.Y.",
+        "url": "https://open.spotify.com/album/7qtwTswVpzid6t8oF10fFD"
+      },
+      "artists": [
+        {
+          "name": "Pickle",
+          "url": "https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt"
+        }
+      ],
+      "duration_ms": 172702,
+      "name": "P.A.R.T.Y.",
+      "url": "https://open.spotify.com/track/1cwOkJRGAEdomzzaa6FQhr"
+    },
+    {
+      "added_at": "2024-09-13 09:00:55",
+      "album": {
+        "name": "Oh My (Dimitri K Remix)",
+        "url": "https://open.spotify.com/album/1KZRqlmGwcZzO0FsBGTrTF"
+      },
+      "artists": [
+        {
+          "name": "The Partysquad",
+          "url": "https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY"
+        },
+        {
+          "name": "Paul Elstak",
+          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
+        },
+        {
+          "name": "Dimitri K",
+          "url": "https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E"
+        }
+      ],
+      "duration_ms": 153142,
+      "name": "Oh My (Dimitri K Remix)",
+      "url": "https://open.spotify.com/track/1lfvrXoptVANYD3sR0X00b"
+    },
+    {
+      "added_at": "2024-09-13 09:00:55",
+      "album": {
+        "name": "VHS RAVE",
+        "url": "https://open.spotify.com/album/6jBRSFPY0Kbg7V3Ey2uDYX"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "VHS RAVE",
+      "url": "https://open.spotify.com/track/1zgs6QpTBuJ67TQvXMtp7L"
+    },
+    {
+      "added_at": "2024-09-13 09:00:55",
+      "album": {
+        "name": "U Got My Body (Remixes)",
+        "url": "https://open.spotify.com/album/7H4GP8h8RHS4nUEZv7Ak6g"
+      },
+      "artists": [
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "L_cio",
+          "url": "https://open.spotify.com/artist/1bp9y0lyzSPhnB6Dk8CUaW"
+        }
+      ],
+      "duration_ms": 223384,
+      "name": "U Got My Body (L_cio Remix)",
+      "url": "https://open.spotify.com/track/2INmTNt4RJ6MIv0LnG72qK"
+    },
+    {
+      "added_at": "2024-09-13 09:00:55",
+      "album": {
+        "name": "Renegade Master",
+        "url": "https://open.spotify.com/album/7jed62ZXmaqO0C04QO6OYe"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        }
+      ],
+      "duration_ms": 170307,
+      "name": "Renegade Master",
+      "url": "https://open.spotify.com/track/3aM59S9lax0LomwFVCHF0L"
+    },
+    {
+      "added_at": "2024-09-13 09:00:55",
       "album": {
         "name": "Kosmos",
         "url": "https://open.spotify.com/album/0usMuGjQfwmGga0W9Udqw6"
@@ -173,23 +241,43 @@
       "url": "https://open.spotify.com/track/3fewHPIXttoyGSA6Uhxege"
     },
     {
-      "added_at": "2024-09-12 14:04:59",
+      "added_at": "2024-09-13 09:00:55",
       "album": {
-        "name": "P.A.R.T.Y.",
-        "url": "https://open.spotify.com/album/7qtwTswVpzid6t8oF10fFD"
+        "name": "To The World",
+        "url": "https://open.spotify.com/album/465mvLX0RMXAvsz9KtcSRa"
       },
       "artists": [
         {
-          "name": "Pickle",
-          "url": "https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt"
+          "name": "America",
+          "url": "https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo"
+        },
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
         }
       ],
-      "duration_ms": 172702,
-      "name": "P.A.R.T.Y.",
-      "url": "https://open.spotify.com/track/1cwOkJRGAEdomzzaa6FQhr"
+      "duration_ms": 123890,
+      "name": "A Horse With No Name (CYRIL Remix)",
+      "url": "https://open.spotify.com/track/3wn6g2EtZjTLeSOPoYl9Cu"
     },
     {
-      "added_at": "2024-09-12 14:04:59",
+      "added_at": "2024-09-13 09:00:55",
+      "album": {
+        "name": "Bulletproof",
+        "url": "https://open.spotify.com/album/3pFB9jB2dvhtEmPppxWZkG"
+      },
+      "artists": [
+        {
+          "name": "Macon",
+          "url": "https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ"
+        }
+      ],
+      "duration_ms": 144517,
+      "name": "Bulletproof",
+      "url": "https://open.spotify.com/track/3xW6Kb3xpdfmmFVZo1It3g"
+    },
+    {
+      "added_at": "2024-09-13 09:00:55",
       "album": {
         "name": "Our House",
         "url": "https://open.spotify.com/album/5OwBxi1qtoiCQZnBd9jkCs"
@@ -213,7 +301,7 @@
       "url": "https://open.spotify.com/track/4OIZob7JDiTYBh5GZCKUgH"
     },
     {
-      "added_at": "2024-09-12 14:04:59",
+      "added_at": "2024-09-13 09:00:55",
       "album": {
         "name": "To The World",
         "url": "https://open.spotify.com/album/465mvLX0RMXAvsz9KtcSRa"
@@ -229,7 +317,27 @@
       "url": "https://open.spotify.com/track/4tFPsq6ZxrCH1pgz2XIYP2"
     },
     {
-      "added_at": "2024-09-12 14:04:59",
+      "added_at": "2024-09-13 09:00:55",
+      "album": {
+        "name": "Feel What You Want - Robert Falcon Remix",
+        "url": "https://open.spotify.com/album/26X9kHIRrI7eGMosrfNkwi"
+      },
+      "artists": [
+        {
+          "name": "Floris van Oranje",
+          "url": "https://open.spotify.com/artist/6WrQtpzvML5W3b8ZvqMZ2o"
+        },
+        {
+          "name": "Robert Falcon",
+          "url": "https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk"
+        }
+      ],
+      "duration_ms": 162461,
+      "name": "Feel What You Want - Robert Falcon Remix",
+      "url": "https://open.spotify.com/track/4yR2MUdhnM7WzSuABMhiDa"
+    },
+    {
+      "added_at": "2024-09-13 09:00:55",
       "album": {
         "name": "To The World",
         "url": "https://open.spotify.com/album/465mvLX0RMXAvsz9KtcSRa"
@@ -249,7 +357,7 @@
       "url": "https://open.spotify.com/track/542RlSOC0TWXKX5H9k3Oiq"
     },
     {
-      "added_at": "2024-09-12 14:04:59",
+      "added_at": "2024-09-13 09:00:55",
       "album": {
         "name": "To The World",
         "url": "https://open.spotify.com/album/465mvLX0RMXAvsz9KtcSRa"
@@ -265,7 +373,7 @@
       "url": "https://open.spotify.com/track/5hg6mJBpptifzsKo8EVzjT"
     },
     {
-      "added_at": "2024-09-12 14:04:59",
+      "added_at": "2024-09-13 09:00:55",
       "album": {
         "name": "SHADY (Side Of The Moon)",
         "url": "https://open.spotify.com/album/2zBbEyeVF6mHL4mZDtKxAY"
@@ -289,7 +397,7 @@
       "url": "https://open.spotify.com/track/6gW0R1YE6L8rHB9b0SnCFq"
     },
     {
-      "added_at": "2024-09-12 14:04:59",
+      "added_at": "2024-09-13 09:00:55",
       "album": {
         "name": "Moves",
         "url": "https://open.spotify.com/album/4CTORO90BbUDClLgqR91tG"
@@ -305,7 +413,7 @@
       "url": "https://open.spotify.com/track/6kGE6BO6LYjeE7VcKPe5cL"
     },
     {
-      "added_at": "2024-09-12 14:04:59",
+      "added_at": "2024-09-13 09:00:55",
       "album": {
         "name": "To The World",
         "url": "https://open.spotify.com/album/465mvLX0RMXAvsz9KtcSRa"

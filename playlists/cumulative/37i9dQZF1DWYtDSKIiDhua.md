@@ -4,7 +4,7 @@
 
 > The R&B and good vibe tracks for your current mood\. Cover: keshi
 
-888 songs - 1 day 23 hr 56 min
+889 songs - 2 day 0 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -502,7 +502,7 @@
 | [Mind Your Space](https://open.spotify.com/track/4Iao21dcXMdiUhg0bZupeI) | [Kenny Gabriel](https://open.spotify.com/artist/0UrV86j2SWIzZ98MKxzxYu), [Syanine](https://open.spotify.com/artist/3F1Aq3UZV5V3E9XBnbf5Vd), [Ezra Kunze](https://open.spotify.com/artist/4lzzcddgX9uA1wClALOnVm) | [Mind Your Space](https://open.spotify.com/album/30qUkyzXGSnb1iaKRbgRgz) | 3:36 | 2023-07-13 | 2023-07-21 |
 | [Minivan](https://open.spotify.com/track/0GcOOoiOKcG8TM6G5enISN) | [AUGUST 08](https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi) | [Seasick](https://open.spotify.com/album/15XrXaGXDcZGigz55jwEe4) | 5:08 | 2022-08-11 | 2023-01-27 |
 | [Mirages Of You](https://open.spotify.com/track/7vvswZnA6Sx58t521ok8PL) | [BCHOY](https://open.spotify.com/artist/62kYN1r4Go0yN3cT4kwopF) | [Mirages Of You](https://open.spotify.com/album/64lnJwsuJ8YYol8bGR0i8m) | 3:16 | 2023-08-31 | 2024-01-26 |
-| [misirlou](https://open.spotify.com/track/7oUxi1hWnyzrcHa8CVENPd) | [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m), [miso808](https://open.spotify.com/artist/4JYjh6QC7QnE3KLjtyrCUz) | [misirlou](https://open.spotify.com/album/0oiVzwKblMxHXSYRTfCeYB) | 2:47 | 2024-09-12 |  |
+| [misirlou](https://open.spotify.com/track/7oUxi1hWnyzrcHa8CVENPd) | [miso808](https://open.spotify.com/artist/4JYjh6QC7QnE3KLjtyrCUz), [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [misirlou](https://open.spotify.com/album/0oiVzwKblMxHXSYRTfCeYB) | 2:47 | 2024-09-12 |  |
 | [Moment](https://open.spotify.com/track/1JrKRCKVrTpLHYnTwlqeaO) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy), [PLAYGROUND](https://open.spotify.com/artist/6jcd1FALUEzaGDl7Syikem) | [heaven sent](https://open.spotify.com/album/34YNeXrm7G7S8Ikr8lIrv6) | 3:28 | 2024-04-25 | 2024-07-27 |
 | [Moon Sailing](https://open.spotify.com/track/5ePFwKxJjoI7CotOENBfon) | [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds), [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [Moon Sailing](https://open.spotify.com/album/1o2AB6Hnq2sXSPTXUVofaB) | 3:05 | 2023-04-14 | 2023-04-28 |
 | [Moonlight](https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Moonlight](https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u) | 3:07 | 2023-02-23 | 2023-03-04 |
@@ -827,6 +827,7 @@
 | [Vivid](https://open.spotify.com/track/23NjDnf2ux05hXsq0CR6G3) | [Johnson](https://open.spotify.com/artist/6KnBzfjg7VRyWhXS9OHoWb) | [Vivid](https://open.spotify.com/album/11ldnmOHQApI18F19guvgG) | 2:50 | 2022-06-08 | 2022-07-15 |
 | [Wait On It \(feat\. Bryson Tiller & Chris Brown\)](https://open.spotify.com/track/6NCtzHANN8GwvxdrSzJBB9) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Wait On It \(feat\. Bryson Tiller & Chris Brown\)](https://open.spotify.com/album/4KIsBJev5R0VLIL3qAVDhx) | 3:25 | 2024-06-27 | 2024-07-19 |
 | [Wait On Me](https://open.spotify.com/track/1p1wnXfPEaVrMqk2tEZ2BH) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Nü Moon](https://open.spotify.com/album/1l9aiypXkyhJx58NTJQz6O) | 3:20 | 2023-04-06 | 2023-04-28 |
+| [Waiting on the Right Time](https://open.spotify.com/track/7rqR6MqQX8x2eDlAmleCRl) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Waiting on the Right Time](https://open.spotify.com/album/50YUFgsiE11VbXB4QFKaP1) | 3:39 | 2024-09-13 |  |
 | [Walk Away](https://open.spotify.com/track/0gjsVf6ueVVEBQ2X0Z8f5R) | [Flower.far](https://open.spotify.com/artist/4aMPZAY3aJQokQfO5ZEryr) | [Walk Away](https://open.spotify.com/album/1lf9GkaZgCSnDWZhLzcPc9) | 3:26 | 2023-02-23 | 2023-07-14 |
 | [Walk Like This](https://open.spotify.com/track/0IGjUHYbwnK6Bo8u79d2E3) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Walk Like This](https://open.spotify.com/album/6Hrl23TC9yxPxXhu4jFPqF) | 3:17 | 2024-03-07 |  |
 | [Walk Like This \- Strut Speed](https://open.spotify.com/track/1C9aCxhpJtJBOqcmmoLbn5) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Walk Like This \(Strut Speed\)](https://open.spotify.com/album/1peo6Z7Rum9F9mlYkKDhzG) | 3:00 | 2024-04-25 | 2024-06-21 |

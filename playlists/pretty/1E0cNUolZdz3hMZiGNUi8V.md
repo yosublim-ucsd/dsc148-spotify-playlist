@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1E0cNUolZdz3hMZiGNUi8V.md) - [plain]
 
 > 🔥 All the hottest hip hop tracks in one spot! Featuring: <a href="https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ?si=jQqAUyTPThqyJKCm1mxJTQ">Gunna</a>, Jack Harlow, Gucci Mane,  Lil Uzi Vert, Young Thug, Don Toliver,  NLE Choppa &amp; many more.
 
-[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 38,943 likes - 64 songs - 2 hr 57 min
+[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 38,940 likes - 68 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,5 +72,9 @@ pretty - [cumulative](/playlists/cumulative/1E0cNUolZdz3hMZiGNUi8V.md) - [plain]
 | 62 | [Snot \(feat\. Gucci Mane\)](https://open.spotify.com/track/5edHOpjlQGXX0KF8d1pLOv) | [Big Scarr](https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Snot \(feat\. Gucci Mane\)](https://open.spotify.com/album/329mW6xxdEU6hWNbjTTNP7) | 3:02 |
 | 63 | [To Da Face \(feat\. Ohgeesy\)](https://open.spotify.com/track/1uHFYluv1msgbvQeo35KM8) | [R3 DA Chilliman](https://open.spotify.com/artist/16B61T4dv1SuMrAQsbyM3e), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF) | [To Da Face \(feat\. Ohgeesy\)](https://open.spotify.com/album/0lPBWyeZP1fdyE2e93tDfz) | 2:18 |
 | 64 | [Glizock & Wizop \(feat\. Key Glock\)](https://open.spotify.com/track/0zbGWzQkLY5wn4xyiLYEi0) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glizock & Wizop \(feat\. Key Glock\)](https://open.spotify.com/album/4ocf6wJAV6NJCBn8nTkeaj) | 3:12 |
+| 65 | [2 Slippery \(feat\. BossMan Dlow\)](https://open.spotify.com/track/62oLxos6R04SVYL1lXidvu) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Mr\. Skii](https://open.spotify.com/album/4XqpSvwcjnoR5YP5lBLuTi) | 2:39 |
+| 66 | [Store Runner \(feat\. Veeze\)](https://open.spotify.com/track/7duXZ4msQQePFt0rkkP7Fd) | [Brezden](https://open.spotify.com/artist/7gQ6DUFY8aLh47bUSia5Nt), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Store Runner \(feat\. Veeze\)](https://open.spotify.com/album/23E3EOIgb7o9HnTSTmIqdG) | 2:24 |
+| 67 | [NISSAN ALTIMA](https://open.spotify.com/track/0fsgieABBLYkx6rk5N3JUD) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [NISSAN ALTIMA](https://open.spotify.com/album/3P3ODJQfeECySRtPV8cJBZ) | 2:08 |
+| 68 | [NEW DROP](https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 3:37 |
 
-Snapshot ID: `AAAe7/OxuHl3qsHsxdIdiJtUpR+4JB/e`
+Snapshot ID: `AAAe9dGhX2FuDbrRseA4MnckAkZ7sFVO`

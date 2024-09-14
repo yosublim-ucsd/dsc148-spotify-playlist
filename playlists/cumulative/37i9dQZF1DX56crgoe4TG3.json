@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: Rhonda Vincent",
+  "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: Lukas Nelson & Sierra Ferrell",
   "name": "Bluegrass Covers",
   "tracks": [
     {
@@ -3271,6 +3271,24 @@
     },
     {
       "album": {
+        "name": "Songs That Made Me Weird, Vol. 1",
+        "url": "https://open.spotify.com/album/1hbIUAc9xpnt2hG3jHpco7"
+      },
+      "artists": [
+        {
+          "name": "Tony Kamel",
+          "url": "https://open.spotify.com/artist/5C2sPto6jrVHVlkiVl2GvH"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251621,
+      "name": "No Rain",
+      "url": "https://open.spotify.com/track/6XGIo0FBacQN0oEkO7JZ0v"
+    },
+    {
+      "album": {
         "name": "Norwegian Wood (This Bird Has Flown)",
         "url": "https://open.spotify.com/album/6QjVfP6KCKaTBAv68CLa1Q"
       },
@@ -3691,6 +3709,28 @@
     },
     {
       "album": {
+        "name": "Seven Nation Army",
+        "url": "https://open.spotify.com/album/0aXrR2Zd4N9tyNOR7zadLr"
+      },
+      "artists": [
+        {
+          "name": "Tommy Drinkard",
+          "url": "https://open.spotify.com/artist/0WUnSuDkHH73JTgCuysUsR"
+        },
+        {
+          "name": "the Remedy",
+          "url": "https://open.spotify.com/artist/6YgPmTwGDVLEBXtbP6pWXC"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207466,
+      "name": "Seven Nation Army",
+      "url": "https://open.spotify.com/track/5Jizv7OKGYi2NsgipAlDR0"
+    },
+    {
+      "album": {
         "name": "The Bluegrass Tribute to Kings of Leon",
         "url": "https://open.spotify.com/album/3LUg97DulDP9QfHXVe7aKO"
       },
@@ -4030,6 +4070,32 @@
       "duration_ms": 222500,
       "name": "Somebody to Love",
       "url": "https://open.spotify.com/track/65PXViRNbmck0eXI0qhB2G"
+    },
+    {
+      "album": {
+        "name": "Someone Like You (with The Travelin' McCourys feat. Sierra Ferrell)",
+        "url": "https://open.spotify.com/album/6sAcLktZfPlaSfI6asWalH"
+      },
+      "artists": [
+        {
+          "name": "Lukas Nelson",
+          "url": "https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9"
+        },
+        {
+          "name": "The Travelin' McCourys",
+          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
+        },
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301569,
+      "name": "Someone Like You (with The Travelin' McCourys feat. Sierra Ferrell)",
+      "url": "https://open.spotify.com/track/0FzCkQZyXg3RAVe8hF3TbA"
     },
     {
       "album": {

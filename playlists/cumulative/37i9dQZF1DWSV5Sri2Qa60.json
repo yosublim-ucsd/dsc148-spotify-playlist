@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Where your new favourite bands are discovered. Cover: Hank",
+  "description": "Where your new favourite bands are discovered. Cover: Memory of Speke",
   "name": "Hot New Bands",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 146651,
       "name": "21st Century Suffragette",
       "url": "https://open.spotify.com/track/1g2T1BUfAh6U7aOioCiRIX"
+    },
+    {
+      "album": {
+        "name": "Artificial Light",
+        "url": "https://open.spotify.com/album/3YA1gyP0uSFcLEjfWyYbSr"
+      },
+      "artists": [
+        {
+          "name": "alphabet",
+          "url": "https://open.spotify.com/artist/6XcO14dMsawxjyAJOcmjM2"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215686,
+      "name": "Artificial Light",
+      "url": "https://open.spotify.com/track/4tleJEhw78LYRpk2Yi7jx0"
     },
     {
       "album": {
@@ -160,7 +178,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 218537,
       "name": "Carnival",
       "url": "https://open.spotify.com/track/1byfGV9rZiQ6JUWusNlFSm"
@@ -268,7 +286,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 163826,
       "name": "Close Call",
       "url": "https://open.spotify.com/track/5qwCtK5w9yoc19ZvlWw4zY"
@@ -538,7 +556,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 156217,
       "name": "followup",
       "url": "https://open.spotify.com/track/2Pw2zXWWKSKW1WRLzZMWCj"
@@ -779,6 +797,24 @@
     },
     {
       "album": {
+        "name": "In My Bed",
+        "url": "https://open.spotify.com/album/6TPAYp0gSJhRlAV7NXfxJT"
+      },
+      "artists": [
+        {
+          "name": "Soft Launch",
+          "url": "https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162405,
+      "name": "In My Bed",
+      "url": "https://open.spotify.com/track/1xEQzQ64fSDNYKiHhLn1IE"
+    },
+    {
+      "album": {
         "name": "Innocence of Youth",
         "url": "https://open.spotify.com/album/3sqm7E11vrNJonXeE9APrf"
       },
@@ -862,7 +898,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 227087,
       "name": "Lightbulb Moment",
       "url": "https://open.spotify.com/track/3eCSG6GiW6ldZ9sCNApLBl"
@@ -959,6 +995,24 @@
     },
     {
       "album": {
+        "name": "One More Day",
+        "url": "https://open.spotify.com/album/1MKpe4kToXSOWcgdCnnDCE"
+      },
+      "artists": [
+        {
+          "name": "Umarells",
+          "url": "https://open.spotify.com/artist/3xrZ3BiHelQXsoQJoP90Yh"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340962,
+      "name": "One More Day",
+      "url": "https://open.spotify.com/track/544xcMdny7JqmMbkVxHoiX"
+    },
+    {
+      "album": {
         "name": "Piano Hands",
         "url": "https://open.spotify.com/album/3gJhe78jiRJjbPgRW4z1Nk"
       },
@@ -970,7 +1024,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 218031,
       "name": "Piano Hands",
       "url": "https://open.spotify.com/track/5qXO90zyTU5Ch5aI9j0uzf"
@@ -1006,7 +1060,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 175244,
       "name": "Puppet Show",
       "url": "https://open.spotify.com/track/5VvEVG2Ym38UWQEDEFHE3I"
@@ -1193,6 +1247,24 @@
     },
     {
       "album": {
+        "name": "Surface Level Kicks",
+        "url": "https://open.spotify.com/album/5hJOhDXz2swoO5Cswg24pw"
+      },
+      "artists": [
+        {
+          "name": "common goldfish",
+          "url": "https://open.spotify.com/artist/6Mmv28h1DOKGQEPxJBqe8F"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209877,
+      "name": "Surface Level Kicks",
+      "url": "https://open.spotify.com/track/44O78qLokFH4q8EnqKdiS9"
+    },
+    {
+      "album": {
         "name": "Tambourine",
         "url": "https://open.spotify.com/album/3HWlAxC2VYpfcmN04wquzp"
       },
@@ -1247,6 +1319,24 @@
     },
     {
       "album": {
+        "name": "The Lowrider (Just About Meant To Be)",
+        "url": "https://open.spotify.com/album/4xW2GmQethztAMp81hkCxx"
+      },
+      "artists": [
+        {
+          "name": "CVC",
+          "url": "https://open.spotify.com/artist/4UVp2DRjYXq2ZWQwA5QLuD"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247535,
+      "name": "The Lowrider (Just About Meant To Be)",
+      "url": "https://open.spotify.com/track/4aCRH85lzpMp2ZzQWe5mlu"
+    },
+    {
+      "album": {
         "name": "The Man",
         "url": "https://open.spotify.com/album/1PiAdNZtIBipn9FGJ4GjZB"
       },
@@ -1258,7 +1348,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 194817,
       "name": "The Man",
       "url": "https://open.spotify.com/track/6yUy4C7Gn0Geg7YEB8qRzj"
@@ -1298,6 +1388,24 @@
       "duration_ms": 206822,
       "name": "The Recogniser",
       "url": "https://open.spotify.com/track/417nPuKG03pek6PIuZGtae"
+    },
+    {
+      "album": {
+        "name": "The Times",
+        "url": "https://open.spotify.com/album/2mdjG1DeryTKiAMxmsmdgJ"
+      },
+      "artists": [
+        {
+          "name": "She's In Parties",
+          "url": "https://open.spotify.com/artist/3A9BLI8S2rNSxXS3QsMkOY"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199330,
+      "name": "The Times",
+      "url": "https://open.spotify.com/track/6HLwtE0bB2kRfpeVlXmDVa"
     },
     {
       "album": {
@@ -1442,6 +1550,24 @@
       "duration_ms": 202320,
       "name": "Wearing Faces",
       "url": "https://open.spotify.com/track/1VBuq23g66KF7AWQwDxlfg"
+    },
+    {
+      "album": {
+        "name": "Wife Once",
+        "url": "https://open.spotify.com/album/1urkJiWWUJc6IuD5aZMedt"
+      },
+      "artists": [
+        {
+          "name": "Memory of Speke",
+          "url": "https://open.spotify.com/artist/58pZ02rmQbTbYcpC3O7K78"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225036,
+      "name": "Wife Once",
+      "url": "https://open.spotify.com/track/0vCtC5xweWwyLl84yfM1iR"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSV5Sri2Qa60"

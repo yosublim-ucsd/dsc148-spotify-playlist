@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: bambi
 
-[Spotify](https://open.spotify.com/user/spotify) - 537,923 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 538,248 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [JOHNNY DANG](https://open.spotify.com/track/2Q8WXdzGE4okUzDWbzKH48) | [Żabson](https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft) | [JOHNNY DANG](https://open.spotify.com/album/37cllReDw2lRsZsOdUl2lT) | 3:00 |
 | 50 | [FRED PERRY](https://open.spotify.com/track/5GQygwPGMi7DujITOEbFyN) | [Macias](https://open.spotify.com/artist/7zdVXqEouAJwLWJBVLxYho), [White Widow](https://open.spotify.com/artist/1KyVviwmYP83FyOApt86K0), [@rafalczubak](https://open.spotify.com/artist/0P8vpL7Fa5wVKl18AAgpIW) | [FRED PERRY](https://open.spotify.com/album/0g2ZuXljh30fqV2U8sZwIb) | 2:49 |
 
-Snapshot ID: `ZuNkYAAAAAAnLV06M12c7jRbGtARnIJM`
+Snapshot ID: `ZuNkYAAAAABQWBRnZuigvGo+MW3SmSHy`

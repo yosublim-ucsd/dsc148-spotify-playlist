@@ -2,9 +2,9 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> DJ Suzy ⭐
+> ‧₊˚ 🎐✩ 🫧 new albums from Fousheé, Dora Jar, MJ Lenderman, & Magdalena Bay ₊˚⊹♡
 
-2,977 songs - 6 day 16 hr 56 min
+2,981 songs - 6 day 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -653,6 +653,7 @@
 | [death bed \(coffee for your head\)](https://open.spotify.com/track/7eJMfftS33KTjuF7lTsMCx) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [death bed \(coffee for your head\)](https://open.spotify.com/album/2p9gK2BcdrloHNJwarc9gc) | 2:53 | 2020-02-11 | 2020-07-01 |
 | [death wish](https://open.spotify.com/track/5YOPTy4ENCgM0JZnJrkXXF) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [death wish](https://open.spotify.com/album/17QnupwzhTXpi5H00qtPvE) | 3:17 | 2021-04-10 | 2021-05-19 |
 | [DEATHWISH](https://open.spotify.com/track/1OwAfrgAN5H0PVF3OSPY6I) | [Cottonwood Firing Squad](https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE) | [i think there's something wrong with joshy](https://open.spotify.com/album/1iero6O9P7g7IFkY96TGU4) | 2:30 | 2023-02-03 | 2023-03-07 |
+| [Debbie Darling](https://open.spotify.com/track/1T13ZqrqIEppYk5zEMh2Lc) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [No Way To Relax When You Are On Fire](https://open.spotify.com/album/50nvPOvceq4QENvfPhSEoC) | 3:48 | 2024-09-13 |  |
 | [Decide](https://open.spotify.com/track/02lKe7OF80iSFAicx70AJr) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Decide](https://open.spotify.com/album/3RovfS06CsdDKGzT34Pusi) | 2:58 | 2019-12-04 | 2020-01-10 |
 | [Deep End](https://open.spotify.com/track/1SfP1Z4kAi13YqQQbZ3g5k) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Deep End](https://open.spotify.com/album/7LHDsa9C6lKPdhQoJtdCoH) | 3:05 | 2021-04-15 | 2021-08-14 |
 | [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 | 2024-02-08 | 2024-04-27 |
@@ -869,7 +870,7 @@
 | [Famous Last Words \(An Ode to Eaters\)](https://open.spotify.com/track/7bpfZYrS4dQKxiuj6QiRaX) | [1017 ALYX 9SM](https://open.spotify.com/artist/72Kzyue7ShXymPjcjOZwHk), [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Famous Last Words \(An Ode to Eaters\)](https://open.spotify.com/album/47mfwMreABCnlLm7EEtHsB) | 3:22 | 2023-07-21 | 2023-08-09 |
 | [fanfiction on the internet](https://open.spotify.com/track/1wgjeq97WULtZz0xKbLfLm) | [Jake Timothy](https://open.spotify.com/artist/1WmCyL1N2PY1LF6b0E6Mfy) | [fanfiction on the internet](https://open.spotify.com/album/3UIMmbwPFk8ddSOaMM3lc1) | 2:51 | 2023-04-14 | 2023-06-02 |
 | [fantasize](https://open.spotify.com/track/6U2sXLGhxJVmKskGUvJzI3) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [fantasize](https://open.spotify.com/album/0QEZpylv3YWsleH9U0ijWE) | 2:30 | 2021-05-29 | 2021-11-13 |
-| [fantasmas](https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [fantasmas](https://open.spotify.com/album/1Yw5SSS5WD1SPdhvPw3dt3) | 4:47 | 2024-01-03 |  |
+| [fantasmas](https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [fantasmas](https://open.spotify.com/album/1Yw5SSS5WD1SPdhvPw3dt3) | 4:47 | 2024-01-03 |  |
 | [Far Away](https://open.spotify.com/track/0Y4xg5612xZ3vAgWEkMjw3) | [EASHA](https://open.spotify.com/artist/1lYNHBChDDWC233o6ribbt) | [Far Away](https://open.spotify.com/album/6SqaQ1JdHWMK2BJQcrXWYq) | 3:05 | 2021-04-24 | 2021-12-02 |
 | [Faraway](https://open.spotify.com/track/0Q4PkMbhBDSS5jBaPm4ZmH) | [Ruben Dawnson](https://open.spotify.com/artist/4TyxwOt2w5n4gNtGRwUMKy) | [Faraway](https://open.spotify.com/album/3DKLTzynscOG3Ix88stW5S) | 2:27 | 2019-10-30 | 2020-02-05 |
 | [Favorite Drug](https://open.spotify.com/track/18ZjYJcgFWiBhnvFzh5m3N) | [daydream Masi](https://open.spotify.com/artist/7d1ybPEhoZkeQhKHIyl9U9) | [13 Reasons Why \(Season 3\)](https://open.spotify.com/album/1zbH0DnpYxaoqTojXNLQb6) | 3:29 | 2019-08-30 | 2019-10-11 |
@@ -1234,6 +1235,7 @@
 | [I Don't Even Smoke Weed](https://open.spotify.com/track/4AcjZoKIpV3s1jWdkSGWnJ) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Us](https://open.spotify.com/album/30bFyVsboSI6Nb7roQCgq8) | 3:26 | 2020-04-20 | 2020-04-22 |
 | [I Don't Have To Try](https://open.spotify.com/track/21zXru0J6n2em6MC61dVYE) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [The Best Damn Thing \(Expanded Edition\)](https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38) | 3:17 | 2021-05-15 | 2021-05-22 |
 | [I Don't Know](https://open.spotify.com/track/56PgQIFxAvXcEtXNYrsB0w) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [I Don't Know](https://open.spotify.com/album/0C0Oq2jJhJ4Rs6IwgCe0Ob) | 3:15 | 2020-10-10 | 2020-12-18 |
+| [I Don't Know Ya](https://open.spotify.com/track/7on5LnKi2I3lNCyJ5yFE6g) | [Ray Bull](https://open.spotify.com/artist/3P4jnIuA9z5WsvkbsoqkTu) | [I Don't Know Ya](https://open.spotify.com/album/2YIjtEk6nOLLYI2pPcwbN8) | 3:18 | 2024-09-13 |  |
 | [I Don't Like Ur Friends](https://open.spotify.com/track/7aBFj2AV3YyGHP65r7yQGi) | [Slush Puppy](https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh) | [I Don't Like Ur Friends](https://open.spotify.com/album/5Uh9LkuBZbs6ZtehQMq2jd) | 3:32 | 2020-06-29 | 2021-01-12 |
 | [i don't really feel it anymore](https://open.spotify.com/track/2tYuG2yDiQXAUaiT43yCip) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [a bit of a mad one](https://open.spotify.com/album/7JUf3yqyB3jWomvnjnD1Gp) | 2:00 | 2024-02-16 | 2024-04-19 |
 | [i don't really feel it anymore](https://open.spotify.com/track/64BVFo2bwfmgrQOSH32Inl) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [i don't really feel it anymore](https://open.spotify.com/album/7hm1Kh2XVchiRA1JLPO9IS) | 2:00 | 2024-02-16 | 2024-07-12 |
@@ -1618,6 +1620,7 @@
 | [MadHappySad](https://open.spotify.com/track/6xy2hBEpnojRUBupAhde7T) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [MadHappySad](https://open.spotify.com/album/6F8vrmq85tq11d980P2YBr) | 2:48 | 2020-05-22 | 2020-08-20 |
 | [Madonna](https://open.spotify.com/track/3FvmEqbtSbggcZUnevF5Ng) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [Madonna](https://open.spotify.com/album/36SBlWuy1LGn4GAOfVeJFb) | 3:03 | 2023-11-03 | 2024-02-10 |
 | [magic](https://open.spotify.com/track/0O4SLaYDqG9rQSJV8P34jS) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [magic](https://open.spotify.com/album/4kplurgz5v2ZqhEPUD4Daw) | 4:13 | 2024-04-19 | 2024-07-27 |
+| [Magic I Want U](https://open.spotify.com/track/3BHymW78YPy7i2CWVljoe9) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Magic I Want U](https://open.spotify.com/album/6eNdafiqQJJmyrXFDoTWiM) | 4:58 | 2024-09-13 |  |
 | [Maine](https://open.spotify.com/track/3pf3hHjBJP6E4zAaSDrl8r) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Maine/The Sink](https://open.spotify.com/album/15uBXJ6ezZjmpbqKYiy2xb) | 4:53 | 2024-04-26 | 2024-09-05 |
 | [make ur way \[Feat\. 80purppp\]](https://open.spotify.com/track/7hHG2sRkxVCul6bYULETL8) | [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu), [80purppp](https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF) | [make ur way](https://open.spotify.com/album/5Nkw0bkUzHQOWC4qNG5ZW9) | 3:21 | 2022-07-15 | 2022-08-06 |
 | [Make You Mine](https://open.spotify.com/track/2KQehm3y77ahO2RXhH2iIe) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Try Again](https://open.spotify.com/album/2hBQFSGwy9HlBTeKFIug9M) | 2:29 | 2022-05-06 | 2022-07-30 |
@@ -2298,6 +2301,7 @@
 | [Slugs](https://open.spotify.com/track/0i1cb1gW2i8AZn4FtlDioN) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Slugs](https://open.spotify.com/album/4drcz2J9WKeNavODVfGjDR) | 3:06 | 2023-07-27 | 2023-10-11 |
 | [Slugs](https://open.spotify.com/track/4iTX1HFVrva7chgeMaeR4d) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 3:06 | 2023-07-27 | 2024-01-11 |
 | [Slugs \- yeule & Kin Leonn Remix](https://open.spotify.com/track/4KAq5S5t4tHz5jaARTRT7t) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D), [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X), [Kin Leonn](https://open.spotify.com/artist/7h9uypOhMJuqwLKsMghsLK) | [Slugs \(yeule & Kin Leonn Remix\)](https://open.spotify.com/album/5tB9jODs9DbqQ6lBAVivKk) | 3:10 | 2024-05-10 | 2024-06-27 |
+| [Smalltown Boy \(feat\. Perfume Genius\)](https://open.spotify.com/track/32Wbkbc7qZQA1viqNboe0D) | [Bronski Beat](https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Smalltown Boy \(feat\. Perfume Genius\)](https://open.spotify.com/album/6UMQHq7ZFWQmbTYsKqancW) | 4:34 | 2024-09-13 |  |
 | [Smile](https://open.spotify.com/track/0Q7bQszd9Lr699WS2Uo9aq) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW), [Ben Beal](https://open.spotify.com/artist/0CTpeTOAvzc1FOlPj4uYWV) | [Smile](https://open.spotify.com/album/3o5CXZt4E5R4KJ6xt7xIui) | 2:23 | 2019-10-04 | 2020-02-20 |
 | [Smile For The Camera](https://open.spotify.com/track/1LmNzbOQTfzP1a5TSFMYbg) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Heart\-Shaped Bruise](https://open.spotify.com/album/5VtC9ZmocqMVXz0s7Tz7Ne) | 3:12 | 2023-01-13 | 2023-03-07 |
 | [Smile Please](https://open.spotify.com/track/0WbuDhRzi9VQdz1qmUY47l) | [Dean Blunt](https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk), [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [Smile Please](https://open.spotify.com/album/7ICcPNtiYMD2teS4rFClhS) | 2:15 | 2024-08-22 | 2024-09-07 |

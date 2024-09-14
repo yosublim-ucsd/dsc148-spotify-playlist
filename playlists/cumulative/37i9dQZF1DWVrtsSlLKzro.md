@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-351 songs - 20 hr 50 min
+353 songs - 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [Leave Me Slowly](https://open.spotify.com/track/0LIxpMlVjyioO0gfprZEWQ) | [Starsmith](https://open.spotify.com/artist/4RQPXMuSW750IdvxeibKmw) | [Leave Me Slowly](https://open.spotify.com/album/3h3I8ytOR5DlNiC6jU4UPs) | 2:47 | 2024-08-28 |  |
 | [Let Go](https://open.spotify.com/track/3EmhEAiSstmWMiGQx1VpY5) | [Feather](https://open.spotify.com/artist/0ouPTYWjHfprRwZH76ivWi), [Luma](https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp), [Sintra](https://open.spotify.com/artist/7G8FPZ2dGqGtMqPE9fy13e) | [Let Go](https://open.spotify.com/album/52846um9qaO7U56WHZZotC) | 3:18 | 2022-02-11 | 2022-05-07 |
 | [Let Me Go](https://open.spotify.com/track/5WnnOy3qXPS8qOwl3U5KWX) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [Zak Leever](https://open.spotify.com/artist/52YFhvzbffRkaVJQCjFlpU) | [Let Me Go](https://open.spotify.com/album/71JDjU89pUcQs36ArVK8qd) | 3:28 | 2022-05-06 | 2023-06-10 |
+| [Letting Go](https://open.spotify.com/track/17mK2SoypJm9tEiuD2Ngki) | [Drove](https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI) | [Letting Go](https://open.spotify.com/album/0BbleXiZyv90RtecWWhcyE) | 4:14 | 2024-09-13 |  |
 | [Lights Out](https://open.spotify.com/track/0XdmzOmGiPoNEfNK4BslVo) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Lights Out](https://open.spotify.com/album/1K9qhtSCTuNF4weATzFxZT) | 3:53 | 2022-02-11 | 2022-05-07 |
 | [Lonely](https://open.spotify.com/track/1FTrDODUS6bWx3eSCWu1Ym) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Rae Morris](https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst) | [Lonely](https://open.spotify.com/album/3o2K9k9I6qN5U8VAD8vfVp) | 4:10 | 2023-10-27 |  |
 | [Lonely Dulcimer](https://open.spotify.com/track/5vY3kwXfrDxNu8XzsbMhZi) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Lonely Dulcimer / In Effect](https://open.spotify.com/album/1zJORUI9CgL3QHBhRqy0OM) | 3:13 | 2022-09-16 | 2023-10-28 |
@@ -217,6 +218,7 @@
 | [Make You Cry \(Tritonia 346\)](https://open.spotify.com/track/4dscKp0qk0UMORQvLrtdCV) | [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Tritonia 346](https://open.spotify.com/album/2JDE3zpJ7INUqoMCuKSa7z) | 4:06 | 2021-12-03 | 2022-02-12 |
 | [Mean It](https://open.spotify.com/track/5hlxswETS4FB4oCg6g7JHk) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Nick Lopez](https://open.spotify.com/artist/15NoI73ol1fVF11li1RKMB), [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [Mean It](https://open.spotify.com/album/10HsH0ayirx1nyFckvfoSF) | 3:38 | 2021-12-03 | 2023-06-10 |
 | [Meaningless](https://open.spotify.com/track/3hEP7OMePmKx20LuNQP45q) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Meaningless](https://open.spotify.com/album/0oEzfzzpfhjYHtUcjJdtXQ) | 3:37 | 2021-12-03 | 2022-05-07 |
+| [Medicine](https://open.spotify.com/track/7dN0mzJ5TUbGIdmEAiytzl) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [We Could Be Love](https://open.spotify.com/album/7MXx2NOHN8IsVPY9x57QXU) | 2:50 | 2024-09-13 |  |
 | [Messin' Me Up](https://open.spotify.com/track/1BaDqqGjB415IBUfR22NFC) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [Anomaly](https://open.spotify.com/album/7J8SSnGauta2Uy7HKhEDMA) | 3:01 | 2022-07-15 | 2023-04-22 |
 | [Messin' Me Up](https://open.spotify.com/track/1RZmiE1Jlk4pd1ZqGokuFQ) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [Messin’ Me Up \(Ardalan Remixes\)](https://open.spotify.com/album/2vhYGMhPLbRKfrfPKOxjli) | 3:01 | 2022-10-28 | 2022-11-14 |
 | [Messin' Me Up \(feat\. EVAN GIIA\)](https://open.spotify.com/track/00ls7PYMtiyuqnrji9yKta) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [Messin' Me Up \(feat\. EVAN GIIA\)](https://open.spotify.com/album/4mFMa4VmNqExwNQ54L1XTS) | 3:01 | 2021-12-03 | 2022-07-29 |

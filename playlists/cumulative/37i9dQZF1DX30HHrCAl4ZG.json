@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Explore all things indie rock right now. Featuring music from MJ Lenderman",
+  "description": "Explore all things indie rock right now. Featuring music from Porches",
   "name": "Today's Indie Rock",
   "tracks": [
     {
@@ -2093,6 +2093,24 @@
     },
     {
       "album": {
+        "name": "Bad Bad News",
+        "url": "https://open.spotify.com/album/6Y989i2swgje49NjskB3o6"
+      },
+      "artists": [
+        {
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "Bad Bad News",
+      "url": "https://open.spotify.com/track/4RiBL4u0w26dNmVB45ofzo"
+    },
+    {
+      "album": {
         "name": "Bad Communicator",
         "url": "https://open.spotify.com/album/7cfaJemeFAgpX8ON8t2ki8"
       },
@@ -3236,7 +3254,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 250626,
       "name": "bloom",
       "url": "https://open.spotify.com/track/3u0eQFJsVwdvsNuXpN69LL"
@@ -3926,6 +3944,24 @@
       "duration_ms": 180026,
       "name": "Brando",
       "url": "https://open.spotify.com/track/74W2WLhCxYJEmOs7fCu76j"
+    },
+    {
+      "album": {
+        "name": "Shirt",
+        "url": "https://open.spotify.com/album/2Z3KozCg7LVVLSEE0yXUod"
+      },
+      "artists": [
+        {
+          "name": "Porches",
+          "url": "https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161833,
+      "name": "Bread Believer",
+      "url": "https://open.spotify.com/track/3ZyMkTinkvEAfQhj1cSzDG"
     },
     {
       "album": {
@@ -5324,7 +5360,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 166973,
       "name": "Claw Foot",
       "url": "https://open.spotify.com/track/25Ydf3tBonBtvs3NhwYop7"
@@ -5346,6 +5382,24 @@
       "duration_ms": 166711,
       "name": "Clear Bones",
       "url": "https://open.spotify.com/track/21NVIBYBZIp7oa0OONZBZo"
+    },
+    {
+      "album": {
+        "name": "Cleats",
+        "url": "https://open.spotify.com/album/0VZGFBmqzdTFhMgMl7rsxB"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221373,
+      "name": "Cleats",
+      "url": "https://open.spotify.com/track/7HWONeQrWpcjflAPGbH5L3"
     },
     {
       "album": {
@@ -5400,7 +5454,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 217778,
       "name": "Cocoon",
       "url": "https://open.spotify.com/track/6FTXzaE0mrimbEIp4NuZNH"
@@ -6052,6 +6106,28 @@
       "duration_ms": 170537,
       "name": "Cowboy Nudes",
       "url": "https://open.spotify.com/track/4GBIZMasDFztSQfK0IrNh6"
+    },
+    {
+      "album": {
+        "name": "Cowgirl",
+        "url": "https://open.spotify.com/album/0TTM3gTcaU3wPNK13FQSof"
+      },
+      "artists": [
+        {
+          "name": "Cutouts",
+          "url": "https://open.spotify.com/artist/6ZYpTpvAwv0T78s6Ueh5g1"
+        },
+        {
+          "name": "Tomberlin",
+          "url": "https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274624,
+      "name": "Cowgirl",
+      "url": "https://open.spotify.com/track/5v1G9an6LVU0ojR4Ab2iEj"
     },
     {
       "album": {
@@ -7464,7 +7540,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 189418,
       "name": "Dog Days",
       "url": "https://open.spotify.com/track/2p9dIfT3qAyrcm1N4ZM4Zm"
@@ -7938,6 +8014,24 @@
       "duration_ms": 165989,
       "name": "Driver",
       "url": "https://open.spotify.com/track/1D0JQnRvAP5vsEg3eKNTPy"
+    },
+    {
+      "album": {
+        "name": "Driver",
+        "url": "https://open.spotify.com/album/7lyh2o99pWYe6T9XI8cjXg"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252266,
+      "name": "Driver",
+      "url": "https://open.spotify.com/track/3J9fDdirND6efE3VMFROGp"
     },
     {
       "album": {
@@ -10571,6 +10665,24 @@
     },
     {
       "album": {
+        "name": "SHINBANGUMI",
+        "url": "https://open.spotify.com/album/6bgUdri7frTG9Aqo3Xusw7"
+      },
+      "artists": [
+        {
+          "name": "Ginger Root",
+          "url": "https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206582,
+      "name": "Giddy Up",
+      "url": "https://open.spotify.com/track/5mrA886l2Xd6DKHHjCmmSr"
+    },
+    {
+      "album": {
         "name": "Health",
         "url": "https://open.spotify.com/album/45Se7nUO9QHVJumwXIejpd"
       },
@@ -10618,7 +10730,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 144869,
       "name": "Girlhood, Godhood",
       "url": "https://open.spotify.com/track/50arhjErqvGjMz07YgebJx"
@@ -11606,6 +11718,24 @@
       "duration_ms": 188571,
       "name": "help herself",
       "url": "https://open.spotify.com/track/4YMc3A256xFBS0xcT77Qce"
+    },
+    {
+      "album": {
+        "name": "Her",
+        "url": "https://open.spotify.com/album/3YsLlWQ9dzG0dFQQZO1jEv"
+      },
+      "artists": [
+        {
+          "name": "The American Dawn",
+          "url": "https://open.spotify.com/artist/3EXC0gkpntFvtLS1R0yf11"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214086,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/2vlkTkPqdATznKHu9gD2c1"
     },
     {
       "album": {
@@ -14359,6 +14489,24 @@
     },
     {
       "album": {
+        "name": "Just A Western",
+        "url": "https://open.spotify.com/album/1vVnnj9S99ub44XnSknEXZ"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269473,
+      "name": "Just A Western",
+      "url": "https://open.spotify.com/track/69GRL4Pmz6yxw3CUkaeP2A"
+    },
+    {
+      "album": {
         "name": "Just Before The Morning",
         "url": "https://open.spotify.com/album/6xfQHjndhrWjgENyEK0z7x"
       },
@@ -16085,6 +16233,24 @@
     },
     {
       "album": {
+        "name": "Lullaby for the Lost",
+        "url": "https://open.spotify.com/album/5xQO5kwMZSR5jGNa2Uait1"
+      },
+      "artists": [
+        {
+          "name": "Current Joys",
+          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360592,
+      "name": "Lullaby for the Lost",
+      "url": "https://open.spotify.com/track/6RiAFP0fZXb3Kobl90Tjoz"
+    },
+    {
+      "album": {
         "name": "Lung",
         "url": "https://open.spotify.com/album/0pnr5IIqUTcYdHx2wGGxAw"
       },
@@ -16168,7 +16334,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 214694,
       "name": "Made Out Of Memory",
       "url": "https://open.spotify.com/track/3MtYosUywchE5YIdNdg0vB"
@@ -16940,7 +17106,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 231708,
       "name": "Method Actor",
       "url": "https://open.spotify.com/track/6I9GeNnqNqQ5Q8DSrFkkvd"
@@ -17279,6 +17445,24 @@
     },
     {
       "album": {
+        "name": "Monday",
+        "url": "https://open.spotify.com/album/1qegGUZCrP76bSXElyK4TI"
+      },
+      "artists": [
+        {
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176115,
+      "name": "Monday",
+      "url": "https://open.spotify.com/track/79aDXRyJXBNVoakoxf3XxP"
+    },
+    {
+      "album": {
         "name": "Portamento",
         "url": "https://open.spotify.com/album/0gi6GxcVnTUjOaFWozw9en"
       },
@@ -17578,7 +17762,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 157723,
       "name": "MR. ROMEO",
       "url": "https://open.spotify.com/track/1oxJbV6ixCH6hNEqhj5eQy"
@@ -20752,7 +20936,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 195760,
       "name": "Rainbow",
       "url": "https://open.spotify.com/track/6buQeGlk47QiPVoPObaZ7x"
@@ -25426,7 +25610,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 246706,
       "name": "The Backwards Heart",
       "url": "https://open.spotify.com/track/3yXpfmDmEluup8pOyi0g25"

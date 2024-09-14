@@ -4,7 +4,7 @@
 
 > Rock out while you work out! Follow for updates!
 
-274 songs - 17 hr 16 min
+276 songs - 17 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Dangerous](https://open.spotify.com/track/0y1t3QzZAjfFd5IxQZCS1V) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Si Vis Pacem, Para Bellum](https://open.spotify.com/album/13lnqlgmaRHQF54C9iiOWO) | 3:49 | 2022-01-24 |  |
 | [Dark Side](https://open.spotify.com/track/1ovFnZv6mUe0LzAbfVqOmh) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Dark Side](https://open.spotify.com/album/6Z6iyt5AgvnG2pPAgOTtSZ) | 2:57 | 2022-01-24 | 2023-01-04 |
 | [Dark Thoughts](https://open.spotify.com/track/7aSFYakNWB9xQGDEZtoBDH) | [The Funeral Portrait](https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8) | [Dark Thoughts](https://open.spotify.com/album/4hZRZ9Mwu9NAIeB73uI2JT) | 4:08 | 2023-09-22 |  |
+| [Dark Thoughts \(feat\. Danny Worsnop\)](https://open.spotify.com/track/5JvcKil9x8YzGAWF0Po8Jm) | [The Funeral Portrait](https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8), [Danny Worsnop](https://open.spotify.com/artist/3FffC7t4yWwOUr0S5fFbkW) | [Greetings From Suffocate City](https://open.spotify.com/album/6Ub4uRu4MftC1TCauizseQ) | 4:01 | 2024-09-13 |  |
 | [Dark Void](https://open.spotify.com/track/5qI0O2liRuEC6Mnv8BKl0S) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Dark Void](https://open.spotify.com/album/78j5yRbo6TI6xpPJoRjSWH) | 3:52 | 2023-05-12 |  |
 | [Dark Void \- Radio Edit](https://open.spotify.com/track/6tlqOz655ohMcNstMvI75q) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Dark Void EP](https://open.spotify.com/album/5TYT8jOrMLQPfluE3ra2dd) | 3:33 | 2024-01-12 |  |
 | [Darkness Settles In](https://open.spotify.com/track/4tDY71ImWHA27HlmBJwjN4) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Retaliators \(Music from the Motion Picture\)](https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo) | 4:41 | 2022-09-21 | 2023-01-04 |
@@ -255,6 +256,7 @@
 | [Until We Break \(feat\. Matty Mullins of Memphis Mayfire\)](https://open.spotify.com/track/3uRuVa1eBgOjfsCegIq1lb) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX), [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Until We Break \(feat\. Matty Mullins of Memphis May Fire\)](https://open.spotify.com/album/5RcDVFgqW9VHShesfquQER) | 3:34 | 2022-10-07 |  |
 | [Upright Destined Mongol \- Live at Glastonbury](https://open.spotify.com/track/3BJdlHZDQbEKskhdn0pF7r) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [The HU Live At Glastonbury](https://open.spotify.com/album/28ytxeelhWVunLrrNrAaUV) | 4:52 | 2024-06-10 |  |
 | [Voodoo Doll](https://open.spotify.com/track/0tDP41DuqqoBv9MNcHdoHW) | [The Funeral Portrait](https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8) | [Voodoo Doll](https://open.spotify.com/album/4tCEwMi6DenPYV1j8sUOlv) | 3:58 | 2023-01-03 |  |
+| [Voodoo Doll \(feat\. Eva Under Fire\)](https://open.spotify.com/track/5NcvwkdGZCJ8CgJTXSI2Jt) | [The Funeral Portrait](https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8), [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c) | [Greetings From Suffocate City](https://open.spotify.com/album/6Ub4uRu4MftC1TCauizseQ) | 3:57 | 2024-09-13 |  |
 | [Wait For Me \(feat\. Trevor McNevan of Thousand Foot Krutch\)](https://open.spotify.com/track/5CGfdX7fVUbDVHZSIk7loe) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Quarantine Chronicles Vol\. 3](https://open.spotify.com/album/6IYKwZgZd6FhTpnbnWZJ3C) | 3:09 | 2021-10-15 | 2023-01-04 |
 | [Walking In My Shoes](https://open.spotify.com/track/7mqJvR6BgtGbOssGZAfdaP) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Made An America](https://open.spotify.com/album/6HLseXtiQsGBeLaQ43Pm6G) | 2:51 | 2021-08-20 | 2023-12-14 |
 | [War Nerve](https://open.spotify.com/track/5smduZ8tFJFfCOZAl0SenA) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [The Great Southern Trendkill](https://open.spotify.com/album/4LdquqwQoyu1pE6Vq8PIha) | 4:53 | 2022-03-08 |  |

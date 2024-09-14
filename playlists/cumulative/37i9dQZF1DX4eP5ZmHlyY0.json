@@ -4861,6 +4861,24 @@
     },
     {
       "album": {
+        "name": "WHERE DO WE GO",
+        "url": "https://open.spotify.com/album/6GkIf5MU4sXwa1rHurNVAc"
+      },
+      "artists": [
+        {
+          "name": "JO1",
+          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157946,
+      "name": "WHERE DO WE GO",
+      "url": "https://open.spotify.com/track/0i2M5m2D1CYl3X1VKhmfW9"
+    },
+    {
+      "album": {
         "name": "WHITE SNOW",
         "url": "https://open.spotify.com/album/3gApldsoKO741jMMS5B0WY"
       },

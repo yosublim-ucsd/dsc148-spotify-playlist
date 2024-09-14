@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 
 > Grind day motivation
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,135 likes - 84 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,182 likes - 84 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Joy](https://open.spotify.com/track/4xoWfwadlc6X4MxzL0gXM2) | [JZyNo](https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ) | [Liberian Boy](https://open.spotify.com/album/1l1ZbJu5nz1CQXK3DwcOnc) | 2:41 |
-| 2 | [Zanzibar \(Alubarika\)](https://open.spotify.com/track/5ccyAhQd6y0HO92Td0lE6H) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Zanzibar \(Alubarika\)](https://open.spotify.com/album/1ZxpFOU3CetzatCymXQh1N) | 3:01 |
+| 2 | [Zanzibar \(Alubarika\)](https://open.spotify.com/track/5ccyAhQd6y0HO92Td0lE6H) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI), [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Zanzibar \(Alubarika\)](https://open.spotify.com/album/1ZxpFOU3CetzatCymXQh1N) | 3:01 |
 | 3 | [Agba Singing](https://open.spotify.com/track/1r1Xz7MMUotaxziNtqcstp) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Agba Singing](https://open.spotify.com/album/2Mt90xMkv1pP1ZxOpIvg1i) | 2:30 |
 | 4 | [Abanikanda](https://open.spotify.com/track/2lJ0B3dBT7nv0uNvu1zY8J) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Abanikanda](https://open.spotify.com/album/6IXc9CiD8vGMREh37slEhE) | 3:27 |
 | 5 | [My Way](https://open.spotify.com/track/3yLREZjJFnYLAN4aOUqqP6) | [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [My Way](https://open.spotify.com/album/5ew8bhyjYFzX6wgoMdEn4i) | 2:34 |

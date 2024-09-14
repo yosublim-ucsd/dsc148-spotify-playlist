@@ -1,12 +1,12 @@
 {
   "description": "This is AFI. The essential tracks, all in one playlist.",
-  "num_followers": 34016,
+  "num_followers": 34029,
   "original_name": "This Is AFI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuDdgAAAAABjWzY4SV4k4TsTUVetRzSR",
+  "snapshot_id": "ZuIvAAAAAAAq0iUER6Vy8q1WfjH1thbR",
   "tracks": [
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crash Love - Deluxe",
-        "url": "https://open.spotify.com/album/3bvsBOFhdRGsvEwIdRoWZz"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 176640,
-      "name": "Too Shy To Scream",
-      "url": "https://open.spotify.com/track/730q5VwyabgCKDONwUX7Lt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Very Proud of Ya",
         "url": "https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 102600,
       "name": "Wake-Up Call",
       "url": "https://open.spotify.com/track/7J1BMTiBm1qVyUycTGvo3X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Crash Love - Deluxe",
+        "url": "https://open.spotify.com/album/3bvsBOFhdRGsvEwIdRoWZz"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 176640,
+      "name": "Too Shy To Scream",
+      "url": "https://open.spotify.com/track/730q5VwyabgCKDONwUX7Lt"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trash Bat",
-        "url": "https://open.spotify.com/album/0K3uis69NoWrhvqurTc8mp"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 127625,
-      "name": "Trash Bat",
-      "url": "https://open.spotify.com/track/5UCqBBx9IGx47H6ajPf1Dz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Hallows EP",
         "url": "https://open.spotify.com/album/1g3XMX2gmUF6zAwll0jqN6"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 192626,
       "name": "Fall Children",
       "url": "https://open.spotify.com/track/6KTXHrliiM0il8gq7AkQPC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trash Bat",
+        "url": "https://open.spotify.com/album/0K3uis69NoWrhvqurTc8mp"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 127625,
+      "name": "Trash Bat",
+      "url": "https://open.spotify.com/track/5UCqBBx9IGx47H6ajPf1Dz"
     }
   ],
   "unique_name": "This Is AFI",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqv38T3vrCH.md) - [plain]
 
 > Hard rock and hair\-raising tracks for a head\-banging halloween
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,860 likes - 80 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,091 likes - 80 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqv38T3vrCH.md) - [plain]
 | 36 | [Night Crawler](https://open.spotify.com/track/0MU1TyyAbuoXLGiQBgW9CI) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Painkiller](https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t) | 5:44 |
 | 37 | [Ritual](https://open.spotify.com/track/4hxd9xX8SNH0R2XSrXRATW) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Opus Eponymous](https://open.spotify.com/album/5aEgt9uHrVL3QGzKaUSy2J) | 4:28 |
 | 38 | [Twin Skeleton's \(Hotel In NYC\)](https://open.spotify.com/track/2WWP0IPX9xFjAMraNHX390) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [American Beauty/American Psycho](https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT) | 3:40 |
-| 39 | [Dead Souls](https://open.spotify.com/track/12s8P9IFXjJWwVnX7u26ca) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Crow Original Motion Picture Soundtrack](https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n) | 4:53 |
-| 40 | [Halloween Theme \- Main Title](https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Halloween Motion Picture Soundtrack](https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP) | 2:55 |
+| 39 | [Halloween Theme \- Main Title](https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Halloween Motion Picture Soundtrack](https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP) | 2:55 |
+| 40 | [Dead Souls](https://open.spotify.com/track/12s8P9IFXjJWwVnX7u26ca) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Crow Original Motion Picture Soundtrack](https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n) | 4:53 |
 | 41 | [Baby You're a Haunted House](https://open.spotify.com/track/4c38yr2PflGI2DSIzqsnmF) | [Gerard Way](https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5) | [Baby You're a Haunted House](https://open.spotify.com/album/3OyBzPBEniYPTNgIIHfTXS) | 2:46 |
 | 42 | [Death By Rock And Roll](https://open.spotify.com/track/6ISZ6sKcNBdYJS7XYHm5cV) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Death By Rock And Roll](https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey) | 3:54 |
 | 43 | [Spiders](https://open.spotify.com/track/3ViTZxW9satrTEMRu1GCLV) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [We Are Not Your Kind](https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju) | 4:03 |
@@ -82,9 +82,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqv38T3vrCH.md) - [plain]
 | 72 | [Every Day Is Halloween](https://open.spotify.com/track/6Zqj7C6uaIXFF5B8XxzWTO) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [Every Day Is Halloween](https://open.spotify.com/album/7k9I081UZQ52AxclQ6ZjQE) | 6:24 |
 | 73 | [I Was A Teenage Werewolf \- Remastered](https://open.spotify.com/track/2WAyob28woJ33khnZ2VI4Z) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Halloween's Gravest Hits](https://open.spotify.com/album/7I2eOFPEM14Yjh9cOPlYOh) | 3:06 |
 | 74 | [Ghostbusters \- Ultimate Version](https://open.spotify.com/track/6Id6xj6rPrTWDzZwAY5XFM) | [Vicky Psarakis](https://open.spotify.com/artist/6wgfKETz8TigbBqevjeAwZ) | [Ghostbusters \(Ultimate Version\)](https://open.spotify.com/album/4ETYCLvy5jSGoz59UE9Mvd) | 2:45 |
-| 75 | [Fangs](https://open.spotify.com/track/5CmHmD89cmI1F7XiNXhvYT) | [Snaggletooth](https://open.spotify.com/artist/0xjDbJ1jJAQTW5bc51cA1n) | [Fangs](https://open.spotify.com/album/53sP17YO0wLNr6dqqQ362O) | 3:32 |
+| 75 | [Phantom](https://open.spotify.com/track/0iPIx70ur8CznX7bJPWnIX) | [Dead!](https://open.spotify.com/artist/2uQCQ4BmANn12eOlOfkwqF) | [Tu Me Manques](https://open.spotify.com/album/1MFC5R9UWF1JAES9SEOaXW) | 3:54 |
 | 76 | [Am I Evil?](https://open.spotify.com/track/4Dbgmi3ex27nUh2aEIBgHf) | [Diamond Head](https://open.spotify.com/artist/3z3KnhKZObj216IgfHYGVf) | [Am I Evil?: The Best Of](https://open.spotify.com/album/3uidvgJilaGwhwsVKcFKuA) | 7:40 |
-| 77 | [Phantom](https://open.spotify.com/track/0iPIx70ur8CznX7bJPWnIX) | [Dead!](https://open.spotify.com/artist/2uQCQ4BmANn12eOlOfkwqF) | [Tu Me Manques](https://open.spotify.com/album/1MFC5R9UWF1JAES9SEOaXW) | 3:54 |
+| 77 | [Fangs](https://open.spotify.com/track/5CmHmD89cmI1F7XiNXhvYT) | [Snaggletooth](https://open.spotify.com/artist/0xjDbJ1jJAQTW5bc51cA1n) | [Fangs](https://open.spotify.com/album/53sP17YO0wLNr6dqqQ362O) | 3:32 |
 | 78 | [Halloween 13\-13](https://open.spotify.com/track/0eTAk9UnA1BWlpBN67J7yG) | [Wednesday 13](https://open.spotify.com/artist/6Cvzf33JDzCIw2eJU8npQo) | [Spook & Destroy](https://open.spotify.com/album/63TepuFjeJtCjOqkDu5Gb9) | 3:53 |
 | 79 | [This Is Halloween](https://open.spotify.com/track/4Ih7q9N7eVVEqT9EzyUGS1) | [A War Within](https://open.spotify.com/artist/09wfciQIOHvEbWiAntJM2Y), [Jacob Schultheis](https://open.spotify.com/artist/1TpwAPJcqR37SWLs6VckcB), [Bobbi Van Etten](https://open.spotify.com/artist/1dk3vr42tulVe4W3DwDP0Z), [William Baker](https://open.spotify.com/artist/5jQ31Bh219W6XI0CpkExMa), [Jake Gregory](https://open.spotify.com/artist/1YHSoRC63leb9jkx4UBmOx), [Steven Olsson](https://open.spotify.com/artist/1CvIdk4k7m17nOfuSNgM2L) | [This Is Halloween](https://open.spotify.com/album/2V3RI6HJdf4lvLOsHKRRJg) | 3:20 |
 | 80 | [Halloween](https://open.spotify.com/track/3DpQh6dqj032o9aqpYYkzn) | [Hexvessel](https://open.spotify.com/artist/3rLgIB7dHh2MGYpiOMajJI) | [Halloween](https://open.spotify.com/album/62myWRYmIPEDvAnoowJmJ5) | 3:59 |

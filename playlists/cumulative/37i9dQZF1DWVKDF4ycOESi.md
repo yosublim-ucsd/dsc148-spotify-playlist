@@ -4,7 +4,7 @@
 
 > Pinguini Tattici Nucleari in cover + le migliori uscite di questa settimana!
 
-1,756 songs - 3 day 16 hr 14 min
+1,757 songs - 3 day 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -395,6 +395,7 @@
 | [DAMMI 50€](https://open.spotify.com/track/4Y2gEirOVEBA3AdeALzmsS) | [Glasond](https://open.spotify.com/artist/5lpNYhmYsGq63njdDPq8nq) | [DAMMI 50€](https://open.spotify.com/album/10vgIwOcq0b0SzZEGVgorB) | 2:20 | 2024-07-11 | 2024-07-19 |
 | [Dance With Me](https://open.spotify.com/track/2I5ipWaIXUknimwtJPoPYt) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dance With Me](https://open.spotify.com/album/1wkUCIDGpYN0PEIcyG4dS6) | 3:45 | 2024-06-20 | 2024-06-28 |
 | [Dancing in Marbella](https://open.spotify.com/track/0l328syCyA11b9Ai3DqRDy) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL), [Sasha Lopez](https://open.spotify.com/artist/3ZASW3RrHBbSRkNLjOrAFF), [Manuel Riva](https://open.spotify.com/artist/2hkGkEnyudpE42IU4DBt99) | [Dancing in Marbella](https://open.spotify.com/album/13ID1wwrLD8vBrz1vHGVWW) | 2:19 | 2024-05-31 | 2024-06-07 |
+| [Dancing In The Flames](https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dancing In The Flames](https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g) | 3:40 | 2024-09-12 |  |
 | [Dancing On This](https://open.spotify.com/track/6u93aWcQIIZLbb8JGtXBEs) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [Dancing On This](https://open.spotify.com/album/3dIhzdG8kAMv6AFGcDqh3L) | 3:56 | 2024-09-05 | 2024-09-13 |
 | [Danimarca](https://open.spotify.com/track/5bkUPNhCQ3LlUEnOT9jQW3) | [Nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [3D](https://open.spotify.com/artist/5K92J8NwWAlu6fRN2uoHVN) | [Danimarca](https://open.spotify.com/album/01yiaCziEOgYtQZggS6hYA) | 2:46 | 2024-06-13 | 2024-06-21 |
 | [Darkerside](https://open.spotify.com/track/3b1s3Ywg0laGsNHCpUBhrl) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [The Dichotomy](https://open.spotify.com/album/4F2fCQJXXGfpKsoudFrjDW) | 2:37 | 2024-08-29 | 2024-09-06 |
@@ -1352,7 +1353,7 @@
 | [SAN VITTORE](https://open.spotify.com/track/1eWWexDCYrIrtmpwD3Y2wP) | [Luchino Luce](https://open.spotify.com/artist/6wqUUpbLC6kOWt6FAMzDnH) | [SAN VITTORE](https://open.spotify.com/album/4AtuEkbdoo5mD1OhJTcNg6) | 3:29 | 2024-04-26 | 2024-05-03 |
 | [SANGUE \(Feat\. Ketama126 & Side Baby\)](https://open.spotify.com/track/62xMX9BkLqempQw9JlQc1l) | [Oni One](https://open.spotify.com/artist/2fwe5Hfv8bvpVDXB64hndj), [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT), [Ketama126](https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E) | [SANGUE \(Feat\. Ketama126 & Side Baby\)](https://open.spotify.com/album/4jRwdij7TfZulWCNKr4e4Z) | 3:13 | 2024-05-16 | 2024-05-24 |
 | [SANTORINI](https://open.spotify.com/track/63cMQfY7WisKSUooxODSey) | [Giaime](https://open.spotify.com/artist/3sC3sCpqSYClSdKez9Rs6k), [Smookid](https://open.spotify.com/artist/2mLQ8JfGyC8pFZTNIhejPR), [4TheNight](https://open.spotify.com/artist/523cP8Y8ivlsc3sLEgdNTH) | [SANTORINI](https://open.spotify.com/album/0xGuQsrUFj6ty3oSeWVyAc) | 2:32 | 2024-09-12 |  |
-| [SARAGO \- Red Bull 64 Bars](https://open.spotify.com/track/0TFTob9H14UhDbS3qCVXmv) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [TY1](https://open.spotify.com/artist/2DWRgncNMnTfwDiKSI0VoP) | [SARAGO \- Red Bull 64 Bars](https://open.spotify.com/album/4jN5IhSYVXzeOedqWjYB6o) | 2:23 | 2024-09-12 |  |
+| [SARAGO \(Red Bull 64 Bars\)](https://open.spotify.com/track/0TFTob9H14UhDbS3qCVXmv) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [TY1](https://open.spotify.com/artist/2DWRgncNMnTfwDiKSI0VoP) | [SARAGO \(Red Bull 64 Bars\)](https://open.spotify.com/album/4jN5IhSYVXzeOedqWjYB6o) | 2:23 | 2024-09-12 |  |
 | [SARDINIA LIFESTYLE](https://open.spotify.com/track/314CcGSvXMNpSBdWLyOU8h) | [PRACI](https://open.spotify.com/artist/4mW1PRTVIA38Yv9ZDezrj5) | [SARDINIA LIFESTYLE](https://open.spotify.com/album/6ER2T3Y9Cta9Ra2VxZL7LE) | 3:09 | 2024-08-22 | 2024-08-30 |
 | [Sarà bellissimo \(feat\. Legno\)](https://open.spotify.com/track/5KUf6sa1446TpjkPC7bbOU) | [Ivana Spagna](https://open.spotify.com/artist/6RA9iJdNW5Lt7xTJhUBAno), [Legno](https://open.spotify.com/artist/0IMy1yZn21uzYi7nHVVAzy) | [Sarà bellissimo \(feat\. Legno\)](https://open.spotify.com/album/0DqQEp3mJmFHvSFxYwVIMT) | 3:23 | 2024-04-26 | 2024-05-03 |
 | [Sarà Papà](https://open.spotify.com/track/0QkexSiA4go4VhiEHNm32X) | [Max Gazzè](https://open.spotify.com/artist/1h5O32I1o0VOnpLmKXLfRa) | [Sarà Papà](https://open.spotify.com/album/23rOBYK0YQQMPwFsOvgBB8) | 3:43 | 2024-05-23 | 2024-06-01 |

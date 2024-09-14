@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,696 songs - 3 day 19 hr 10 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,700 songs - 3 day 19 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1704,5 +1704,9 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1694 | [Give Me a Feel](https://open.spotify.com/track/1Uky1CNhWrQTUmZsCe30Tq) | [Sghenny](https://open.spotify.com/artist/4ciy3r7f8nrBKoLZsJ6oVY) | [Give Me a Feel](https://open.spotify.com/album/3vIC8MEOYs0LUeaZiSn8rA) | 2:45 |
 | 1695 | [The Night](https://open.spotify.com/track/3jAWf9hMSgXE6t0Zzn6RYd) | [Abaddon](https://open.spotify.com/artist/3ujI46PHi7vombfnkjM8C3) | [The Night](https://open.spotify.com/album/42KHAOgMB93IRU2bY9GBjz) | 3:03 |
 | 1696 | [GOLDEN SZN \(Riot Shift Remix\)](https://open.spotify.com/track/6DYjctNg1pAaWa1pSE4Zxw) | [OGUZ](https://open.spotify.com/artist/2n6aFLFLpEBs61Kfy5EX5v), [Riot Shift](https://open.spotify.com/artist/5J3RIw3YwgyXeosItjR9GY), [Nyctonian](https://open.spotify.com/artist/7LexKs9s1tG7Ktkd7lMHBp) | [GOLDEN SZN \(Riot Shift Remix\)](https://open.spotify.com/album/0EyijD0O40lKnTXuxMuDbw) | 2:16 |
+| 1697 | [Wannabe](https://open.spotify.com/track/4XBkeo4K1p6jNocdNBS9cG) | [GPF](https://open.spotify.com/artist/4OoHneMX97SjUXKWgsyrP4), [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT), [BassWar & CaoX](https://open.spotify.com/artist/51tt6NkXmo371S9xG4tMHX) | [Wannabe](https://open.spotify.com/album/71NKNUVKQWdZ9xKjHzGGKZ) | 3:15 |
+| 1698 | [Dear Grandma](https://open.spotify.com/track/6pY0MpqnjBESVuXYeXC7JQ) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx), [CODA](https://open.spotify.com/artist/1KT6ReUJlpsbGOptScmzDP) | [Dear Grandma](https://open.spotify.com/album/4eOzspNWLKorQmCYwB6UOo) | 3:42 |
+| 1699 | [Dirty Beat](https://open.spotify.com/track/0wB3VjJrLLhilTdH1JhVN5) | [Bumloco](https://open.spotify.com/artist/7aHh1erN0CVFVwDd7oG26M) | [Dirty Beat](https://open.spotify.com/album/6kA8XdcJ8LYn5oiwjsUC5J) | 2:43 |
+| 1700 | [Juice II](https://open.spotify.com/track/6DJVTMQq31bYvzNR441pMT) | [So Juice](https://open.spotify.com/artist/7MBMIGBbRcIAn4zZPOMNKR) | [Juice II EP](https://open.spotify.com/album/2jlH1CEKHzHMPmlDapyvNT) | 2:28 |
 
-Snapshot ID: `AAAGzW/yWoZkIafBza8F9BkiWVxkYUZB`
+Snapshot ID: `AAAG0TkD/ZYXOrxnIeIVO1fdm22VEHH1`

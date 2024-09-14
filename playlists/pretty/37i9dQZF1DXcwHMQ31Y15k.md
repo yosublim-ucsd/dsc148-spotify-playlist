@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Woro Widowati
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,249 likes - 104 songs - 8 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,256 likes - 104 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

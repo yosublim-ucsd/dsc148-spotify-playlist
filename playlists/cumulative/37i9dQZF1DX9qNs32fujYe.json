@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Heavy Metal forever \\m/ classics to brand new tracks. Cover: Powerwolf",
+  "description": "Heavy Metal forever \\m/ classics to brand new tracks. Cover: Lamb Of God",
   "name": "Heavy Metal",
   "tracks": [
     {
@@ -298,6 +298,24 @@
       "duration_ms": 266427,
       "name": "A Thousand Shades (feat. Jeff Beck)",
       "url": "https://open.spotify.com/track/35OjKODzqSMrllo8vFFJZz"
+    },
+    {
+      "album": {
+        "name": "A Visceral Retch",
+        "url": "https://open.spotify.com/album/51kqr7eiWXoV5tzSYcYn4N"
+      },
+      "artists": [
+        {
+          "name": "Whitechapel",
+          "url": "https://open.spotify.com/artist/5274obTQJjzjyycRyJlfml"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245656,
+      "name": "A Visceral Retch",
+      "url": "https://open.spotify.com/track/7BlvPctRnjjJUjBnrySJ7b"
     },
     {
       "album": {
@@ -1654,7 +1672,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 277186,
       "name": "Blood Of The Elves",
       "url": "https://open.spotify.com/track/5yxBjLv4Zh3VLp4kSvoZyG"
@@ -1708,7 +1726,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 314373,
       "name": "Bloodclock",
       "url": "https://open.spotify.com/track/0v2TBqAtyK8p6yDusBNVAZ"
@@ -5249,6 +5267,28 @@
     },
     {
       "album": {
+        "name": "Floods of Triton",
+        "url": "https://open.spotify.com/album/3Cyx76Qa9H1lFjOM7yRqSp"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        },
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269583,
+      "name": "Floods of Triton",
+      "url": "https://open.spotify.com/track/08IpZZZPvzDMED3oq9F8Or"
+    },
+    {
+      "album": {
         "name": "From Mars to Sirius",
         "url": "https://open.spotify.com/album/48oP5ver3MEQ68DvJ22CvY"
       },
@@ -5776,6 +5816,24 @@
       "duration_ms": 300320,
       "name": "Gloryhammer",
       "url": "https://open.spotify.com/track/4vyrKBuBfgv390ItIC75Sw"
+    },
+    {
+      "album": {
+        "name": "Gnosis",
+        "url": "https://open.spotify.com/album/1YzQD6gRvgqJrjHPe4spGF"
+      },
+      "artists": [
+        {
+          "name": "Equilibrium",
+          "url": "https://open.spotify.com/artist/5KvkOKroKLz202ioXfGWR2"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275133,
+      "name": "Gnosis",
+      "url": "https://open.spotify.com/track/6cn4fBdGfBaBhhEB67V39P"
     },
     {
       "album": {
@@ -6550,7 +6608,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 179976,
       "name": "Heroes Are Calling",
       "url": "https://open.spotify.com/track/0QOEWQEowuJUz7LRIe3F6b"
@@ -8062,7 +8120,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 228470,
       "name": "Kool-Aid",
       "url": "https://open.spotify.com/track/1rBiNR61IhvbzeKwfs3AwE"
@@ -8906,6 +8964,32 @@
       "duration_ms": 252188,
       "name": "Maximus",
       "url": "https://open.spotify.com/track/1K39nmA9tBudF6jNiV1iO6"
+    },
+    {
+      "album": {
+        "name": "Mea Culpa (Ah! \u00c7a ira!)",
+        "url": "https://open.spotify.com/album/4k6UKb3mWQcQ5yEiyi43DT"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        },
+        {
+          "name": "Marina Viotti",
+          "url": "https://open.spotify.com/artist/79i3gkVE8U1ff8X4TRX7y4"
+        },
+        {
+          "name": "Victor Le Masne",
+          "url": "https://open.spotify.com/artist/73HYvBYbBoXKmDEzsM27RI"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173160,
+      "name": "Mea Culpa (Ah! \u00c7a ira!)",
+      "url": "https://open.spotify.com/track/4AFjPeecGnS3999PV5iOSK"
     },
     {
       "album": {
@@ -10864,7 +10948,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 221897,
       "name": "Pin Me Down",
       "url": "https://open.spotify.com/track/0rurrp5gL7beslpOp9u9Za"
@@ -11977,6 +12061,24 @@
     },
     {
       "album": {
+        "name": "Rogue",
+        "url": "https://open.spotify.com/album/218JtIGiHXx4XepIaL7Ns7"
+      },
+      "artists": [
+        {
+          "name": "Jinjer",
+          "url": "https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192049,
+      "name": "Rogue",
+      "url": "https://open.spotify.com/track/7BBSSVDxCwfZKbb8a1IlTB"
+    },
+    {
+      "album": {
         "name": "Metal II",
         "url": "https://open.spotify.com/album/6rvqy7S1R8d5kZ7jHNQ3Iw"
       },
@@ -12234,7 +12336,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 229893,
       "name": "Schlachter",
       "url": "https://open.spotify.com/track/3OYrb6D4O2b70hM9FYp77I"
@@ -12472,7 +12574,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 234512,
       "name": "Shadowminds - Ihsahn Remix",
       "url": "https://open.spotify.com/track/2119jVEL7SOHyXxvBjaZrc"
@@ -12736,7 +12838,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 131523,
       "name": "Sk8 or Die",
       "url": "https://open.spotify.com/track/2ajQofPpJ5EiOzGDP3NFmw"
@@ -13058,6 +13160,24 @@
       "duration_ms": 253680,
       "name": "Snowblood",
       "url": "https://open.spotify.com/track/3pkfVWPONcWQU5UAxWyALx"
+    },
+    {
+      "album": {
+        "name": "Soft Spine",
+        "url": "https://open.spotify.com/album/54Upk1Q8DmVaMR2MrOvoiR"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183990,
+      "name": "Soft Spine",
+      "url": "https://open.spotify.com/track/3t5GlWUzGSt2lPuiSEPBFG"
     },
     {
       "album": {
@@ -14421,6 +14541,24 @@
     },
     {
       "album": {
+        "name": "The Gallows",
+        "url": "https://open.spotify.com/album/2OanGtG5sW8esAhY25EMoH"
+      },
+      "artists": [
+        {
+          "name": "Black Label Society",
+          "url": "https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230375,
+      "name": "The Gallows",
+      "url": "https://open.spotify.com/track/6lF3rwnMFBlbZeCWwZTWoS"
+    },
+    {
+      "album": {
         "name": "The God Machine",
         "url": "https://open.spotify.com/album/2OgISomK2lsnOSvyGP0Cpt"
       },
@@ -14880,7 +15018,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-14",
       "duration_ms": 220668,
       "name": "The Price of Pain",
       "url": "https://open.spotify.com/track/4d296WUjDML5TAJlC2kWMn"
@@ -15178,6 +15316,24 @@
       "duration_ms": 251000,
       "name": "The Unkillable Soldier",
       "url": "https://open.spotify.com/track/1h98WxD3tsMfb4YlB2wBDS"
+    },
+    {
+      "album": {
+        "name": "Time II",
+        "url": "https://open.spotify.com/album/27TYlqOWbO1zClQVHfTjOt"
+      },
+      "artists": [
+        {
+          "name": "Wintersun",
+          "url": "https://open.spotify.com/artist/6ui6SwChan7c1KYBQCqGKV"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 608013,
+      "name": "The Way of The Fire",
+      "url": "https://open.spotify.com/track/6a3fzQf9SbrbkBZtbUWVEG"
     },
     {
       "album": {
@@ -15954,6 +16110,24 @@
       "duration_ms": 235505,
       "name": "Victorious",
       "url": "https://open.spotify.com/track/5fj8gbxJ0LR464ylTwJPZ6"
+    },
+    {
+      "album": {
+        "name": "Vilified",
+        "url": "https://open.spotify.com/album/1KKquIPw32BeeVBky9AHFe"
+      },
+      "artists": [
+        {
+          "name": "Jerry Cantrell",
+          "url": "https://open.spotify.com/artist/5HUFo8AH9ZILmlyKFfEMNP"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271346,
+      "name": "Vilified",
+      "url": "https://open.spotify.com/track/5uGHfztT58UFu7S3aBiRjb"
     },
     {
       "album": {

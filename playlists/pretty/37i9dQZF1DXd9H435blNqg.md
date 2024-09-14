@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9H435blNqg.md) - [plain]
 
 > A different shade of the blues\. Cover: Dan Auerbach
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,198 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,227 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Slow Down \(No Need to Worry\)](https://open.spotify.com/track/4Lfsre3Eip6TADVeduK1VW) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Get By \(With Me\)](https://open.spotify.com/album/798myu49T30x19CgMckKis) | 4:01 |
-| 2 | [Fetish Eyes](https://open.spotify.com/track/4xkiFc0nHxmmPSqICEXqlQ) | [Beware Of Darkness](https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU), [Kyle Nicolaides](https://open.spotify.com/artist/6rXPvIRGCRBuq1trwa6S4x) | [Fetish Eyes](https://open.spotify.com/album/1JIBfMZyz9oVAwy2TFfIes) | 3:48 |
-| 3 | [Girl On Girl](https://open.spotify.com/track/3uRtKGMu9MI3TFKatO6FEw) | [Pimps of Joytime](https://open.spotify.com/artist/6NPWjCsZUtFRognZKJm5N4), [Sophia Urista](https://open.spotify.com/artist/0ZOIPu5gy4F5VFvJrRfvVP) | [Girl On Girl](https://open.spotify.com/album/37cSKWOt90QtW9i5mwD5zN) | 2:28 |
-| 4 | [A Little More](https://open.spotify.com/track/2mC4cDkcXARtSgUCyTrhKe) | [Soldier Story](https://open.spotify.com/artist/6xUcGgLH1IwXKSoYe2EMr0) | [A Little More](https://open.spotify.com/album/1gcCINL6KPNbsfNBi7I3yI) | 2:55 |
-| 5 | [Every Chance I Get \(I Want You In The Flesh\)](https://open.spotify.com/track/6nWLyTkbR9xsmmY1jioPTV) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Every Chance I Get \(I Want You In The Flesh\)](https://open.spotify.com/album/3rmzLWCXi8PNt5kVKf9O7D) | 4:08 |
-| 6 | [Thinking 'Bout Myself \- Bluesfest Studio Sessions](https://open.spotify.com/track/08VaEnrwq3FjT6VqWCRipZ) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [The Bluesfest Studio Sessions](https://open.spotify.com/album/3cEaIQqDr4q8Y3hluMRXmA) | 2:56 |
-| 7 | [Somebody to Love \(Trust\)](https://open.spotify.com/track/7otWVTT2kHVAKkToJJaOJn) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Somebody to Love \(Trust\)](https://open.spotify.com/album/4V9uqHkiHQfMpt8gYDaGWg) | 3:02 |
-| 8 | [American Cars](https://open.spotify.com/track/5iAIpBBCsNhxXFismnBeQV) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK) | [Thunder Above You](https://open.spotify.com/album/4n2t9fCAhB6VcZ4dIZmgxa) | 3:45 |
-| 9 | [Oh My My](https://open.spotify.com/track/3f8WNNyHJMxYBCTAoRTPle) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Oh My My](https://open.spotify.com/album/3cntJ1GcTKQC7F8OqMuFY8) | 3:39 |
-| 10 | [The Streets](https://open.spotify.com/track/5NawOYMMhBtYX5zv1Fea8O) | [Beware Of Darkness](https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU) | [The Streets](https://open.spotify.com/album/5tjucbZZ4HhSKF5LPtfF0x) | 2:43 |
+| 2 | [Stop Signs](https://open.spotify.com/track/2kkhEPxNDzd3dxUqONczys) | [Rett Smith](https://open.spotify.com/artist/5kUrt5kAUdhzM0trOQaVGA) | [A Weighted Remorse](https://open.spotify.com/album/06YeJ5pOcE75ZImaGvQRXi) | 2:17 |
+| 3 | [Fetish Eyes](https://open.spotify.com/track/4xkiFc0nHxmmPSqICEXqlQ) | [Beware Of Darkness](https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU), [Kyle Nicolaides](https://open.spotify.com/artist/6rXPvIRGCRBuq1trwa6S4x) | [Fetish Eyes](https://open.spotify.com/album/1JIBfMZyz9oVAwy2TFfIes) | 3:48 |
+| 4 | [Girl On Girl](https://open.spotify.com/track/3uRtKGMu9MI3TFKatO6FEw) | [Pimps of Joytime](https://open.spotify.com/artist/6NPWjCsZUtFRognZKJm5N4), [Sophia Urista](https://open.spotify.com/artist/0ZOIPu5gy4F5VFvJrRfvVP) | [Girl On Girl](https://open.spotify.com/album/37cSKWOt90QtW9i5mwD5zN) | 2:28 |
+| 5 | [A Little More](https://open.spotify.com/track/2mC4cDkcXARtSgUCyTrhKe) | [Soldier Story](https://open.spotify.com/artist/6xUcGgLH1IwXKSoYe2EMr0) | [A Little More](https://open.spotify.com/album/1gcCINL6KPNbsfNBi7I3yI) | 2:55 |
+| 6 | [Every Chance I Get \(I Want You In The Flesh\)](https://open.spotify.com/track/6nWLyTkbR9xsmmY1jioPTV) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Every Chance I Get \(I Want You In The Flesh\)](https://open.spotify.com/album/3rmzLWCXi8PNt5kVKf9O7D) | 4:08 |
+| 7 | [Thinking 'Bout Myself \- Bluesfest Studio Sessions](https://open.spotify.com/track/08VaEnrwq3FjT6VqWCRipZ) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [The Bluesfest Studio Sessions](https://open.spotify.com/album/3cEaIQqDr4q8Y3hluMRXmA) | 2:56 |
+| 8 | [Somebody to Love \(Trust\)](https://open.spotify.com/track/7otWVTT2kHVAKkToJJaOJn) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Somebody to Love \(Trust\)](https://open.spotify.com/album/4V9uqHkiHQfMpt8gYDaGWg) | 3:02 |
+| 9 | [American Cars](https://open.spotify.com/track/5iAIpBBCsNhxXFismnBeQV) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK) | [Thunder Above You](https://open.spotify.com/album/4n2t9fCAhB6VcZ4dIZmgxa) | 3:45 |
+| 10 | [Oh My My](https://open.spotify.com/track/3f8WNNyHJMxYBCTAoRTPle) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Oh My My](https://open.spotify.com/album/3cntJ1GcTKQC7F8OqMuFY8) | 3:39 |
 | 11 | [Loud And Clear](https://open.spotify.com/track/2c4ZAjhZluqa2toXdydyxl) | [The Family Rain](https://open.spotify.com/artist/60HxU5pfO88nduyocuUuYE) | [Machete Western](https://open.spotify.com/album/0OMxSOoXck7ZxWjTpRXuLI) | 3:09 |
 | 12 | [Come on Now \(Take From Me\)](https://open.spotify.com/track/2IXKXOsEJNTuKvs0eq5h3H) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Come on Now \(Take From Me\)](https://open.spotify.com/album/2xDs9g1yb4bs0nTsztRmoH) | 3:32 |
 | 13 | [Don't You Touch The Radio](https://open.spotify.com/track/5DBDBwRbdSx2d0GLg3pwzD) | [The Wanton Bishops](https://open.spotify.com/artist/7gN2pFFXjxG72z9rb0PCqe) | [Don't You Touch The Radio](https://open.spotify.com/album/1LYwctumRpZsbrH1uDl02R) | 3:39 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9H435blNqg.md) - [plain]
 | 74 | [One Thing \(2020\)](https://open.spotify.com/track/5AU6psoPKvjkfgISTSrbCS) | [Patrick Sweany](https://open.spotify.com/artist/35mDUnsSVfkJpgjIXHsPC5) | [Get That Feeling, Vol\. I](https://open.spotify.com/album/12etpmMvVYThaqygVi0UKE) | 4:06 |
 | 75 | [Quarantine](https://open.spotify.com/track/7gde4dG4lg1LDEVAgwTeYE) | [Brianna Harness](https://open.spotify.com/artist/2gEHt3cr4osngnVx0KsNlQ) | [Quarantine](https://open.spotify.com/album/2WjzcRa6XEfaLmYqTMBrEE) | 2:52 |
 
-Snapshot ID: `ZsgJQAAAAACli9gfgErzsscavRNWSgiD`
+Snapshot ID: `ZuO4wAAAAADpaBaDrOBilAuX708iAwA3`

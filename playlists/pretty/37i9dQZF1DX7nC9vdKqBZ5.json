@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com grandes hits da m\u00fasica nacional em vers\u00f5es ac\u00fasticas. ",
-  "num_followers": 1512916,
+  "num_followers": 1512891,
   "original_name": "Desplugado",
   "owner": {
     "name": "Spotify",
@@ -935,6 +935,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "Aluga-se",
+        "url": "https://open.spotify.com/album/070l8UAuwcgrVeK1y9l4ZI"
+      },
+      "artists": [
+        {
+          "name": "B\u00e1rbara Dias",
+          "url": "https://open.spotify.com/artist/4qQrDEahpv67oAkkD6Zx1J"
+        }
+      ],
+      "duration_ms": 125955,
+      "name": "Aluga-se",
+      "url": "https://open.spotify.com/track/1i2vei4vkOOQB3ag6IMAYM"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "Capim-Cidreira (Infus\u00e3o)",
         "url": "https://open.spotify.com/album/0SxtvIuXfAQ4odtxNReDV5"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 174706,
       "name": "Rei do Luau - Infus\u00e3o",
       "url": "https://open.spotify.com/track/3AX8SrWe9k85uV3ZGTrRdS"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "Aluga-se",
-        "url": "https://open.spotify.com/album/070l8UAuwcgrVeK1y9l4ZI"
-      },
-      "artists": [
-        {
-          "name": "B\u00e1rbara Dias",
-          "url": "https://open.spotify.com/artist/4qQrDEahpv67oAkkD6Zx1J"
-        }
-      ],
-      "duration_ms": 125955,
-      "name": "Aluga-se",
-      "url": "https://open.spotify.com/track/1i2vei4vkOOQB3ag6IMAYM"
     },
     {
       "added_at": "2024-08-02 18:37:00",

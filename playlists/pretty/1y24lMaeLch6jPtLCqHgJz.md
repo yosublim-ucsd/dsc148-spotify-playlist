@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1y24lMaeLch6jPtLCqHgJz.md) - [plain]
 
 > Festival Music 2024 \- Tomorrowland 2024 \- Festival Songs \- EDM Music \- Electronic Music \- Rave Music \- EDM Songs \- best festival music \- best festival songs
 
-[Revealed Recordings](https://open.spotify.com/user/revealedrec) - 84,593 likes - 155 songs - 7 hr 52 min
+[Revealed Recordings](https://open.spotify.com/user/revealedrec) - 84,610 likes - 155 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/1y24lMaeLch6jPtLCqHgJz.md) - [plain]
 | 154 | [Create Yourself](https://open.spotify.com/track/6CRWCIKP9h5WW1DTtkwDY3) | [Oskah](https://open.spotify.com/artist/5z6X6OuE2HnFQY18w3ephk) | [Create Yourself](https://open.spotify.com/album/0YtqJ0tbevIZfhS7mHC8Kk) | 2:54 |
 | 155 | [I Want You](https://open.spotify.com/track/4s8BpmFtxDgeCoPj2XHtVj) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [I Want You](https://open.spotify.com/album/2e0yXV8bjdl4cqWwp1KG8T) | 3:39 |
 
-Snapshot ID: `AAAK6YL73P4YTqRX3/wIRF5l1lnq1ker`
+Snapshot ID: `AAAK60Za5//h175S0WsXMukBBm5fE/ko`

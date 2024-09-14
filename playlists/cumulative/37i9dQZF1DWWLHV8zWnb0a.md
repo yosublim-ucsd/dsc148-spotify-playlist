@@ -4,7 +4,7 @@
 
 > El sonido siniestro de los noventa\. Foto: Smashing Pumpkins
 
-233 songs - 17 hr 17 min
+234 songs - 17 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Cross Bones Style](https://open.spotify.com/track/5Qhy5MYSkAMRVgTrABOlp7) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Moon Pix](https://open.spotify.com/album/6AoSTHrd6oEaeUYBEGdLTb) | 4:32 | 2022-03-17 | 2022-07-28 |
 | [Cure for Pain](https://open.spotify.com/track/3hO9gaVixKDoYDrlTBrEWf) | [Morphine](https://open.spotify.com/artist/3QgSmABpItIdj908ek80n5) | [Cure for Pain](https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6) | 3:14 | 2022-03-17 |  |
 | [Cuts You Up](https://open.spotify.com/track/1rnoM73nG7HsyOqV5X7lPF) | [Peter Murphy](https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY) | [Deep](https://open.spotify.com/album/63VVK15ZBJI5TZu525KTVa) | 5:27 | 2022-03-17 |  |
-| [Demanufacture](https://open.spotify.com/track/2f7IhxfM0yLSqGOPyzlYvi) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Demanufacture \(Special Edition\)](https://open.spotify.com/album/6GPHWrMQG5Ns8O3aQKMro2) | 4:12 | 2024-07-12 | 2024-09-10 |
+| [Demanufacture](https://open.spotify.com/track/2f7IhxfM0yLSqGOPyzlYvi) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Demanufacture \(Special Edition\)](https://open.spotify.com/album/6GPHWrMQG5Ns8O3aQKMro2) | 4:12 | 2024-07-12 |  |
 | [Descent](https://open.spotify.com/track/2EGBaThHoA6PUAjktFIBRy) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Obsolete \(Special Edition\)](https://open.spotify.com/album/5fg6x19bbTtNv2eOhTUcoN) | 4:36 | 2023-02-13 |  |
 | [Diane](https://open.spotify.com/track/7xcdm6MybPgVeYgGewJzdE) | [Therapy?](https://open.spotify.com/artist/3MomZRiJwdZmYnysgtF4Ey) | [Infernal Love](https://open.spotify.com/album/31KNGmbreLRbNfmEXRnXTl) | 4:59 | 2023-02-13 | 2024-09-11 |
 | [Dirty Blvd.](https://open.spotify.com/track/4TDLfAmx45EpSiQYG6hCzT) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [New York](https://open.spotify.com/album/7xGqf9DddW89cg7m6zX88t) | 3:29 | 2022-03-17 |  |
@@ -137,7 +137,7 @@
 | [Loverman \- 2011 Remastered Version](https://open.spotify.com/track/6sOCmuWkp0anAqgfLqzNjH) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Let Love In \(2011 Remastered Version\)](https://open.spotify.com/album/0Ewp4PEIzkcAyrC463a5xF) | 6:21 | 2022-03-17 | 2022-07-12 |
 | [Lovesong](https://open.spotify.com/track/7K71priwuwcWwbgfHVQJdq) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Greatest Hits](https://open.spotify.com/album/34ozkv3AkFksZD8srOmOrX) | 3:28 | 2022-03-17 | 2022-11-13 |
 | [Lovesong \- 2010 Remaster](https://open.spotify.com/track/0X5C4WjQNubRysTkHOubz3) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Deluxe Edition\)](https://open.spotify.com/album/6vQB3ZBxnQPP3jQcGV2qzg) | 3:29 | 2022-03-17 | 2024-04-19 |
-| [Lovesong \- Remastered](https://open.spotify.com/track/1y6XHeNN5DSX5PYy7gT0qL) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Remastered\)](https://open.spotify.com/album/6DZNOsLXIU2zOQfQDwDpIS) | 3:28 | 2022-03-17 |  |
+| [Lovesong \- Remastered](https://open.spotify.com/track/1y6XHeNN5DSX5PYy7gT0qL) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Remastered\)](https://open.spotify.com/album/6DZNOsLXIU2zOQfQDwDpIS) | 3:28 | 2022-03-17 | 2024-09-14 |
 | [Lullaby \- 2010 Remaster](https://open.spotify.com/track/4d4oXk7O2lEhZ83ivV93li) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Deluxe Edition\)](https://open.spotify.com/album/6vQB3ZBxnQPP3jQcGV2qzg) | 4:09 | 2022-03-17 | 2024-04-19 |
 | [Lullaby \- Remastered](https://open.spotify.com/track/4N54VofLAv0gNeSL1rwoeq) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Remastered\)](https://open.spotify.com/album/6DZNOsLXIU2zOQfQDwDpIS) | 4:08 | 2022-03-17 | 2022-07-29 |
 | [Luna \- 2011 Remaster](https://open.spotify.com/track/5Q6Xzp25aXYxNJ4B6vBkcf) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Siamese Dream \(Deluxe Edition\)](https://open.spotify.com/album/0bQglEvsHphrS19FGODEGo) | 3:22 | 2022-03-17 | 2024-04-19 |
@@ -149,6 +149,7 @@
 | [More Human Than Human](https://open.spotify.com/track/1NbJFhkVdD47YZ2IojKkJi) | [White Zombie](https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8) | [Astro Creep: 2000 Songs Of Love, Destruction And Other Synthetic Delusions Of The Electric Head](https://open.spotify.com/album/3HugnfabsMODIbxzwxS5xC) | 4:28 | 2022-03-17 |  |
 | [Mother Mother](https://open.spotify.com/track/6WGaVdhY8uMWMgxiKpdLVy) | [Tracy Bonham](https://open.spotify.com/artist/6RaSfqo4f0b42iNouQeAKK) | [The Burdens Of Being Upright](https://open.spotify.com/album/1tKKCue9Yi0oYnzP68fLvz) | 3:00 | 2022-03-17 |  |
 | [No Big Deal](https://open.spotify.com/track/0iCpRcqgoDM1mX74kufIvK) | [Love and Rockets](https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg) | [Love And Rockets](https://open.spotify.com/album/41AN8Y0MHGV2OcE1FjJHfE) | 4:56 | 2022-03-17 | 2022-07-26 |
+| [Nobody but You](https://open.spotify.com/track/1zwtvbJL8H8jG0qbbomS1P) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL), [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Songs For Drella](https://open.spotify.com/album/4Nyu5zVDr4XV6QOBCqdTrk) | 3:45 | 2024-07-12 |  |
 | [Nude As the News](https://open.spotify.com/track/6cu0DiairWxhGUujhhcorj) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [What Would the Community Think](https://open.spotify.com/album/7bQqrdbMzEBXsJZi1z2Xg2) | 4:23 | 2022-03-17 | 2022-07-29 |
 | [One Way Street](https://open.spotify.com/track/0B1GWkVTAQgTCJU2B6tzgH) | [Mark Lanegan](https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ) | [Field Songs](https://open.spotify.com/album/6amYke3Bm1DSXsxszbFN2V) | 4:18 | 2022-03-17 | 2022-07-27 |
 | [Only Happy When It Rains](https://open.spotify.com/track/2VUNvavGGOkewr5wB3WFJg) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Garbage \(20th Anniversary Super Deluxe Edition/Remastered\)](https://open.spotify.com/album/6bRl7GS0ARZJMxQMWtVeRB) | 3:56 | 2022-03-17 | 2022-07-28 |
@@ -208,7 +209,7 @@
 | [The 13th \- Swing Radio Mix](https://open.spotify.com/track/71S3nx18dEQCOvTOAnuvNw) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wild Mood Swings](https://open.spotify.com/album/4VArO919KzAphNk7Kei20g) | 4:06 | 2022-03-17 | 2022-07-15 |
 | [The Garden](https://open.spotify.com/track/4AIDG8oQzGYqnr6v01f8i5) | [Einstürzende Neubauten](https://open.spotify.com/artist/7KomCxZv6D5qCVvefwMnwB) | [Ende neu](https://open.spotify.com/album/3q5fUBRlV64ntCAeqtQPH1) | 5:10 | 2022-03-17 | 2022-07-27 |
 | [The Perfect Drug](https://open.spotify.com/track/14tKBoKXxGakkoEmYuFfor) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Lost Highway](https://open.spotify.com/album/77PY9VYriArqduEpkD2Ues) | 5:15 | 2022-03-17 |  |
-| [The Saddest Song](https://open.spotify.com/track/6vlbuXCnHFLV5H5vMoMmqR) | [Morphine](https://open.spotify.com/artist/3QgSmABpItIdj908ek80n5) | [Good](https://open.spotify.com/album/6NuVZbtcscN4RpgZd5UzQy) | 2:53 | 2022-03-17 |  |
+| [The Saddest Song](https://open.spotify.com/track/6vlbuXCnHFLV5H5vMoMmqR) | [Morphine](https://open.spotify.com/artist/3QgSmABpItIdj908ek80n5) | [Good](https://open.spotify.com/album/6NuVZbtcscN4RpgZd5UzQy) | 2:53 | 2022-03-17 | 2024-09-14 |
 | [The Ship Song \- 2010 Remastered Version](https://open.spotify.com/track/3Ybl3DyPcWsz5ZCliEo3l1) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [The Good Son \(2010 Remastered Version\)](https://open.spotify.com/album/5SbAOlKlCsosN6Aalgwt1L) | 5:14 | 2022-03-17 | 2022-11-13 |
 | [The Wooden Song](https://open.spotify.com/track/3j2lwmlUNp1JuUtlxzwA89) | [Butthole Surfers](https://open.spotify.com/artist/62BcWP4fzR8axESibNQEhs) | [Independent Worm Saloon](https://open.spotify.com/album/74xinIrhpnjl3XdynXAUOo) | 3:50 | 2022-03-17 | 2022-07-27 |
 | [There Is No Time](https://open.spotify.com/track/0JC3C0VyfdXOWGvs49D0S6) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [New York](https://open.spotify.com/album/7xGqf9DddW89cg7m6zX88t) | 3:46 | 2022-03-17 | 2022-07-28 |
