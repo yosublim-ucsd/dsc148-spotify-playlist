@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: GIMS",
-  "num_followers": 41800,
+  "num_followers": 41812,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -211,18 +211,22 @@
     {
       "added_at": "2024-09-13 04:01:00",
       "album": {
-        "name": "SD Night",
-        "url": "https://open.spotify.com/album/4hQDYoPdi19Fkd0BJPLhp6"
+        "name": "Vanilla",
+        "url": "https://open.spotify.com/album/7CEAbEtewQUsHHRbGsuIvL"
       },
       "artists": [
         {
           "name": "VEN1",
           "url": "https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL"
+        },
+        {
+          "name": "Ramos.",
+          "url": "https://open.spotify.com/artist/5xfBWklmIwTOoijr3nMgHB"
         }
       ],
-      "duration_ms": 182535,
-      "name": "SD Night",
-      "url": "https://open.spotify.com/track/7E8RJY17lUK5W7J1TDFd6z"
+      "duration_ms": 187810,
+      "name": "Vanilla",
+      "url": "https://open.spotify.com/track/71vWRlfHefIMtoDnUPtXcf"
     },
     {
       "added_at": "2024-09-13 04:01:00",
@@ -315,22 +319,18 @@
     {
       "added_at": "2024-09-13 04:01:00",
       "album": {
-        "name": "Vanilla",
-        "url": "https://open.spotify.com/album/7CEAbEtewQUsHHRbGsuIvL"
+        "name": "SD Night",
+        "url": "https://open.spotify.com/album/4hQDYoPdi19Fkd0BJPLhp6"
       },
       "artists": [
         {
           "name": "VEN1",
           "url": "https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL"
-        },
-        {
-          "name": "Ramos.",
-          "url": "https://open.spotify.com/artist/5xfBWklmIwTOoijr3nMgHB"
         }
       ],
-      "duration_ms": 187810,
-      "name": "Vanilla",
-      "url": "https://open.spotify.com/track/71vWRlfHefIMtoDnUPtXcf"
+      "duration_ms": 182535,
+      "name": "SD Night",
+      "url": "https://open.spotify.com/track/7E8RJY17lUK5W7J1TDFd6z"
     },
     {
       "added_at": "2024-09-13 04:01:00",
@@ -503,38 +503,6 @@
     {
       "added_at": "2024-09-13 04:01:00",
       "album": {
-        "name": "LA M\u00caME HISTOIRE",
-        "url": "https://open.spotify.com/album/1q67Fv3Ccr8yAOrtVD7F7U"
-      },
-      "artists": [
-        {
-          "name": "Djadja & Dinaz",
-          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
-        }
-      ],
-      "duration_ms": 132682,
-      "name": "LA M\u00caME HISTOIRE",
-      "url": "https://open.spotify.com/track/6I6nQIBRYlQLMT58liSyWI"
-    },
-    {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
-        "name": "Enfantillages",
-        "url": "https://open.spotify.com/album/3cIy7Ln781oy80QnaHk3Jt"
-      },
-      "artists": [
-        {
-          "name": "Erwan",
-          "url": "https://open.spotify.com/artist/3uWhb8ADEysVQ5IRoFfAcH"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Les m\u00eames d\u00e9tours",
-      "url": "https://open.spotify.com/track/6iX6iXjPkmQVFNtoxA9lMh"
-    },
-    {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
         "name": "Sous le soleil",
         "url": "https://open.spotify.com/album/1Q3iOExyyGqxZz8Hs0UKAe"
       },
@@ -591,6 +559,38 @@
       "duration_ms": 480160,
       "name": "Sous le soleil",
       "url": "https://open.spotify.com/track/5lBaUzRFuCMtwZW522uQ7c"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "Enfantillages",
+        "url": "https://open.spotify.com/album/3cIy7Ln781oy80QnaHk3Jt"
+      },
+      "artists": [
+        {
+          "name": "Erwan",
+          "url": "https://open.spotify.com/artist/3uWhb8ADEysVQ5IRoFfAcH"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Les m\u00eames d\u00e9tours",
+      "url": "https://open.spotify.com/track/6iX6iXjPkmQVFNtoxA9lMh"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "LA M\u00caME HISTOIRE",
+        "url": "https://open.spotify.com/album/1q67Fv3Ccr8yAOrtVD7F7U"
+      },
+      "artists": [
+        {
+          "name": "Djadja & Dinaz",
+          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
+        }
+      ],
+      "duration_ms": 132682,
+      "name": "LA M\u00caME HISTOIRE",
+      "url": "https://open.spotify.com/track/6I6nQIBRYlQLMT58liSyWI"
     },
     {
       "added_at": "2024-09-13 04:01:00",
@@ -715,6 +715,26 @@
     {
       "added_at": "2024-09-13 04:01:00",
       "album": {
+        "name": "TOKA",
+        "url": "https://open.spotify.com/album/0HlEoKZA4pKYoae4zRWu7g"
+      },
+      "artists": [
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        },
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        }
+      ],
+      "duration_ms": 175906,
+      "name": "TOKA",
+      "url": "https://open.spotify.com/track/21YPieevMdQW57QSU9vHEl"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
         "name": "Vroum Vroum",
         "url": "https://open.spotify.com/album/1UBdCuKWPC60U1WTp64Loh"
       },
@@ -739,22 +759,6 @@
     {
       "added_at": "2024-09-13 04:01:00",
       "album": {
-        "name": "SHAKE",
-        "url": "https://open.spotify.com/album/7j1MZzsUfCGSXItWOy8X1x"
-      },
-      "artists": [
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        }
-      ],
-      "duration_ms": 171281,
-      "name": "SHAKE",
-      "url": "https://open.spotify.com/track/5i0rsI0ih8V4pgY6J3MsHT"
-    },
-    {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
         "name": "Briller",
         "url": "https://open.spotify.com/album/3FgRHkmNzBFV66oTNOiTvS"
       },
@@ -771,18 +775,18 @@
     {
       "added_at": "2024-09-13 04:01:00",
       "album": {
-        "name": "Mandat de D\u00e9p\u00f4t",
-        "url": "https://open.spotify.com/album/6vWnDLWxNcec0YrMa5Xn1L"
+        "name": "SHAKE",
+        "url": "https://open.spotify.com/album/7j1MZzsUfCGSXItWOy8X1x"
       },
       "artists": [
         {
-          "name": "Niaks",
-          "url": "https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W"
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
         }
       ],
-      "duration_ms": 192468,
-      "name": "Darement",
-      "url": "https://open.spotify.com/track/1u5Knq7qXW8A8tXoFe25xE"
+      "duration_ms": 171281,
+      "name": "SHAKE",
+      "url": "https://open.spotify.com/track/5i0rsI0ih8V4pgY6J3MsHT"
     },
     {
       "added_at": "2024-09-13 04:01:00",
@@ -803,6 +807,22 @@
     {
       "added_at": "2024-09-13 04:01:00",
       "album": {
+        "name": "Mandat de D\u00e9p\u00f4t",
+        "url": "https://open.spotify.com/album/6vWnDLWxNcec0YrMa5Xn1L"
+      },
+      "artists": [
+        {
+          "name": "Niaks",
+          "url": "https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W"
+        }
+      ],
+      "duration_ms": 192468,
+      "name": "Darement",
+      "url": "https://open.spotify.com/track/1u5Knq7qXW8A8tXoFe25xE"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
         "name": "Honeymoon",
         "url": "https://open.spotify.com/album/5LtjW9e7zu1KvIGQiuuDo0"
       },
@@ -815,26 +835,6 @@
       "duration_ms": 161377,
       "name": "Rayol",
       "url": "https://open.spotify.com/track/3If2Z0wH9FM1EBW2xQfEM2"
-    },
-    {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
-        "name": "OT",
-        "url": "https://open.spotify.com/album/3wytoILhB40hHwR1PFSL94"
-      },
-      "artists": [
-        {
-          "name": "Lost",
-          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
-        },
-        {
-          "name": "Trappo officiel",
-          "url": "https://open.spotify.com/artist/2qAQAxmoafsvNVp31ROnaE"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "OT",
-      "url": "https://open.spotify.com/track/76rRiFvribZwYZZplhYnWv"
     },
     {
       "added_at": "2024-09-13 04:01:00",
@@ -867,6 +867,26 @@
       "duration_ms": 192120,
       "name": "Compl\u00e9mentaires",
       "url": "https://open.spotify.com/track/0Td2ZM1GoIj8SJ3IITcehD"
+    },
+    {
+      "added_at": "2024-09-13 04:01:00",
+      "album": {
+        "name": "OT",
+        "url": "https://open.spotify.com/album/3wytoILhB40hHwR1PFSL94"
+      },
+      "artists": [
+        {
+          "name": "Lost",
+          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
+        },
+        {
+          "name": "Trappo officiel",
+          "url": "https://open.spotify.com/artist/2qAQAxmoafsvNVp31ROnaE"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "OT",
+      "url": "https://open.spotify.com/track/76rRiFvribZwYZZplhYnWv"
     },
     {
       "added_at": "2024-09-13 04:01:00",
@@ -923,22 +943,6 @@
       "duration_ms": 192346,
       "name": "Nouvelle vie",
       "url": "https://open.spotify.com/track/4nXsx2uiPr0fOYRLa6xB52"
-    },
-    {
-      "added_at": "2024-09-13 04:01:00",
-      "album": {
-        "name": "X-ADV",
-        "url": "https://open.spotify.com/album/681VCnep9IPSH0fi7bqEdn"
-      },
-      "artists": [
-        {
-          "name": "Zkr",
-          "url": "https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4"
-        }
-      ],
-      "duration_ms": 171940,
-      "name": "X-ADV",
-      "url": "https://open.spotify.com/track/3JuUBmJeZKZm9j1qIVHqxL"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

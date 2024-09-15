@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now\. Cover:  <a href="spotify:artist:0SLXOHoqcGPOsH9RZETtp1">7 Hills Worship</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 989,902 likes - 100 songs - 9 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 989,961 likes - 100 songs - 9 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 83 | [Jesus Jesus \- Live](https://open.spotify.com/track/6A5TJ6kNECjdj35TUscEHZ) | [CCV Music](https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e) | [Jesus Jesus \(Live\)](https://open.spotify.com/album/4ZjrPej99FG58t5FQmXfQ6) | 7:34 |
 | 84 | [Power In Your Name](https://open.spotify.com/track/3bQ5B0k1kxDc9F6976VQxt) | [ICF Worship](https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW), [Tamara Fontijn](https://open.spotify.com/artist/2t1YVqm4E6w3CsEDw2Zasi) | [Power In Your Name](https://open.spotify.com/album/07aeQsKkWJLyTia4bAJLPY) | 4:18 |
 | 85 | [Let It Flow \- Live](https://open.spotify.com/track/6EP33vME23wA0pX2ZeG7mH) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [Always A Good Time \- Live](https://open.spotify.com/album/7rN4VE06iIyRYZRknPF0N8) | 4:00 |
-| 86 | [He Who Is To Come \- Live From Passion 2024](https://open.spotify.com/track/6SIyUCo2Sr7hPuBiZOaJYf) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Call on Heaven \(Live\)](https://open.spotify.com/album/3HigBXr1abN9Qhirdi3WGP) | 6:30 |
+| 86 | [He Who Is To Come \- Live From Passion 2024](https://open.spotify.com/track/6SIyUCo2Sr7hPuBiZOaJYf) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Call on Heaven \- Live](https://open.spotify.com/album/3HigBXr1abN9Qhirdi3WGP) | 6:30 |
 | 87 | [It is Done \- Live](https://open.spotify.com/track/737zghobTBR0SauNxmcXrt) | [Christ For The Nations Worship](https://open.spotify.com/artist/4FGuhMc7yWmxgyIZNGSKN7), [Marya Adé](https://open.spotify.com/artist/0ng9uodX69rzP8nm6VnuLJ) | [It is Done \(Live\)](https://open.spotify.com/album/5JykxP8EoWW9A9LhaUmLkG) | 5:55 |
 | 88 | [Trust Is In The Lord \(feat\. Chris Kuti\) \- Live](https://open.spotify.com/track/01pypGLrbFFRUqw6NzzviZ) | [Lakepointe Music](https://open.spotify.com/artist/1uwguOKJAPH0CqyYDQVz9a), [Chris Kuti](https://open.spotify.com/artist/0asHzVHmeEsJnkdi18k9IG) | [Trust Is In The Lord \(feat\. Chris Kuti\) \[Live\]](https://open.spotify.com/album/35BGHxBW5AC03GAzrXb1DY) | 5:27 |
 | 89 | [Joy \(What The World Calls Foolish\) \- Live](https://open.spotify.com/track/59XvMohAPJxOYI2qNnsJ6w) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Martin Smith](https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu) | [Crowns Down \(Live / Deluxe\)](https://open.spotify.com/album/6Mh3CQITw07mEI0JJ0YIP9) | 7:28 |

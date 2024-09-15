@@ -4,7 +4,7 @@
 
 > Hot & new K\-Drama OSTs are here! \(Cover: Cinderella at 2AM\(새벽 2시의 신데렐라\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-913 songs - 2 day 7 hr 28 min
+914 songs - 2 day 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -585,6 +585,7 @@
 | [Open Your Eyes](https://open.spotify.com/track/0z3nhpdXbtvvBxy1RCKjca) | [Park Eunbin](https://open.spotify.com/artist/1ANiPe6RWnAKnfwORN5vxP) | [CASTAWAY DIVA OST SEO MOK HA \(PARK EUN BIN\) Vol.4](https://open.spotify.com/album/4yLlp2CKXFmk4HuFrXtfaA) | 4:08 | 2023-11-21 | 2024-06-06 |
 | [Open Your Heart](https://open.spotify.com/track/74ypPUrpGXmPe5FYXpFcIl) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Forecasting Love and Weather \(Original Television Soundtrack\), Pt\. 9](https://open.spotify.com/album/02aLskpsr4Ef6Njn2XIw73) | 3:45 | 2022-04-12 | 2022-06-19 |
 | [Orange Dream](https://open.spotify.com/track/7mXP2e8BWogfNUetKRIWes) | [nokdu](https://open.spotify.com/artist/3tJf4CNWLW1ubPxCte1g5D) | [The Killer's Shopping List, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/5vbG0V7H1bPV18r1cP891u) | 4:36 | 2022-05-11 | 2022-07-09 |
+| [Ordinary love](https://open.spotify.com/track/2wXyJLlxFChMbpWvjAUz2I) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [DNA Lover \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/2u3grouHAjXI1TqOeABqKs) | 2:49 | 2024-09-13 |  |
 | [Our love was pain \(Nth Romance X Baek Z Young\)](https://open.spotify.com/track/4HdQsMtjNUqknNh5V0fGpE) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [Our love was pain \(Nth Romance X Baek Z Young\)](https://open.spotify.com/album/4vmJ55oDItdV87QWV1gRCP) | 3:39 | 2021-12-19 | 2022-03-23 |
 | [Our Past Time](https://open.spotify.com/track/1mWv0FjmPif2MaTn9DOqTx) | [The Daisy](https://open.spotify.com/artist/1bBlVhflmrgcdtHXZzyktI) | [Love Interference 2023 \(Original Television Soundtrack\), Pt\. 26](https://open.spotify.com/album/1vzEYEf662HwKw3aVEcfiw) | 3:46 | 2023-10-10 | 2024-04-05 |
 | [Our Season](https://open.spotify.com/track/0AZS7hgLM2Iv69X1ZfKebV) | [JAECHAN](https://open.spotify.com/artist/2ggXDRbe4d24r7MD54kVbE) | [SPRING \(Original Soundtrack from Watcha's original show 'Our Season: Spring with Park Jae Chan'\)](https://open.spotify.com/album/0FHf6xPUIGsnYwxOhCuhzP) | 3:50 | 2022-08-02 | 2022-11-17 |

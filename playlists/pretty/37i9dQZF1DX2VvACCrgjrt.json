@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\ude08\ud83d\ude08 featuring Dillon Francis & Julian Jordan",
-  "num_followers": 448124,
+  "num_followers": 448161,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1395,26 +1395,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Got That",
-        "url": "https://open.spotify.com/album/2zbCrqjLeh3tWowXjGQHN1"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        },
-        {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
-        }
-      ],
-      "duration_ms": 166874,
-      "name": "Got That",
-      "url": "https://open.spotify.com/track/4RHeXreYnosasCxxjBsEVN"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Droppin' It (La La La)",
         "url": "https://open.spotify.com/album/7xYg6EaYOKlvp1rf1EPXX5"
       },
@@ -1431,6 +1411,26 @@
       "duration_ms": 156190,
       "name": "Droppin' It (La La La)",
       "url": "https://open.spotify.com/track/2rXuuV7atcaVO4cm4UZBZU"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Got That",
+        "url": "https://open.spotify.com/album/2zbCrqjLeh3tWowXjGQHN1"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "duration_ms": 166874,
+      "name": "Got That",
+      "url": "https://open.spotify.com/track/4RHeXreYnosasCxxjBsEVN"
     },
     {
       "added_at": "2024-08-16 14:00:00",
@@ -1665,20 +1665,24 @@
       "url": "https://open.spotify.com/track/20c8JyEhYuPFOH2qZ0CwDZ"
     },
     {
-      "added_at": "2024-06-28 14:01:45",
+      "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Nebula",
-        "url": "https://open.spotify.com/album/0ZxA2UfY6QLTnOtH3rExch"
+        "name": "Gua Gua",
+        "url": "https://open.spotify.com/album/05hCvePiexeRJkSKVBNb59"
       },
       "artists": [
         {
-          "name": "NUZB",
-          "url": "https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa"
+          "name": "Gian Varela",
+          "url": "https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF"
+        },
+        {
+          "name": "Maffio",
+          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
         }
       ],
-      "duration_ms": 195744,
-      "name": "Nebula",
-      "url": "https://open.spotify.com/track/2QBIMr3RAUr6OxoOIHM4r5"
+      "duration_ms": 172380,
+      "name": "Gua Gua",
+      "url": "https://open.spotify.com/track/4OlDil0aYB6e9G0ojfKZFy"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1699,6 +1703,22 @@
       "duration_ms": 169783,
       "name": "Take Control",
       "url": "https://open.spotify.com/track/0zaa2DnLFJHgP6YmtKAh0K"
+    },
+    {
+      "added_at": "2024-06-28 14:01:45",
+      "album": {
+        "name": "Nebula",
+        "url": "https://open.spotify.com/album/0ZxA2UfY6QLTnOtH3rExch"
+      },
+      "artists": [
+        {
+          "name": "NUZB",
+          "url": "https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa"
+        }
+      ],
+      "duration_ms": 195744,
+      "name": "Nebula",
+      "url": "https://open.spotify.com/track/2QBIMr3RAUr6OxoOIHM4r5"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1723,46 +1743,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Gua Gua",
-        "url": "https://open.spotify.com/album/05hCvePiexeRJkSKVBNb59"
-      },
-      "artists": [
-        {
-          "name": "Gian Varela",
-          "url": "https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF"
-        },
-        {
-          "name": "Maffio",
-          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
-        }
-      ],
-      "duration_ms": 172380,
-      "name": "Gua Gua",
-      "url": "https://open.spotify.com/track/4OlDil0aYB6e9G0ojfKZFy"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Move It (with Luciana)",
-        "url": "https://open.spotify.com/album/7FpUw6piWqVDumd2HjnVT8"
-      },
-      "artists": [
-        {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        },
-        {
-          "name": "Luciana",
-          "url": "https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV"
-        }
-      ],
-      "duration_ms": 135238,
-      "name": "Move It (with Luciana)",
-      "url": "https://open.spotify.com/track/6tLoYXdgMy80QaS49kg9z9"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "The Noise",
         "url": "https://open.spotify.com/album/1cs7xAxsMC22VfKuQpQezR"
       },
@@ -1783,6 +1763,26 @@
       "duration_ms": 196173,
       "name": "The Noise",
       "url": "https://open.spotify.com/track/4syPRodeBvcGLGweHK69SP"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Move It (with Luciana)",
+        "url": "https://open.spotify.com/album/7FpUw6piWqVDumd2HjnVT8"
+      },
+      "artists": [
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Luciana",
+          "url": "https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV"
+        }
+      ],
+      "duration_ms": 135238,
+      "name": "Move It (with Luciana)",
+      "url": "https://open.spotify.com/track/6tLoYXdgMy80QaS49kg9z9"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1861,22 +1861,6 @@
       "url": "https://open.spotify.com/track/0WW8txqecanm76y5Je34nf"
     },
     {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Mr Machine",
-        "url": "https://open.spotify.com/album/3qreINmrmmeC9r7MPMWtl0"
-      },
-      "artists": [
-        {
-          "name": "John Dahlb\u00e4ck",
-          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Mr Machine",
-      "url": "https://open.spotify.com/track/5rFMmCVWuPRqYb0BbSNP7V"
-    },
-    {
       "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "Nite Mode",
@@ -1919,6 +1903,22 @@
       "duration_ms": 134769,
       "name": "Cheeky Little Club Banger",
       "url": "https://open.spotify.com/track/2tLJLA0Z4N9BXhuJ6JEsDb"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Mr Machine",
+        "url": "https://open.spotify.com/album/3qreINmrmmeC9r7MPMWtl0"
+      },
+      "artists": [
+        {
+          "name": "John Dahlb\u00e4ck",
+          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Mr Machine",
+      "url": "https://open.spotify.com/track/5rFMmCVWuPRqYb0BbSNP7V"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2141,20 +2141,28 @@
       "url": "https://open.spotify.com/track/0U7GpThxNI1BK3MzTVWl9e"
     },
     {
-      "added_at": "2024-07-19 04:00:00",
+      "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "OVERDOSE",
-        "url": "https://open.spotify.com/album/7KG0bfR59nbz0nWO0USRIP"
+        "name": "NRG",
+        "url": "https://open.spotify.com/album/55rwbbipDik1y3Q0Fesmb4"
       },
       "artists": [
         {
           "name": "Julian Jordan",
           "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        },
+        {
+          "name": "Eleganto",
+          "url": "https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V"
+        },
+        {
+          "name": "Kota",
+          "url": "https://open.spotify.com/artist/63QiIbACG85n38thH1gJry"
         }
       ],
-      "duration_ms": 163500,
-      "name": "OVERDOSE",
-      "url": "https://open.spotify.com/track/3EndRWjDyW9XqK0xmMIgzm"
+      "duration_ms": 220898,
+      "name": "NRG",
+      "url": "https://open.spotify.com/track/0zEwlfpJgIMzh3BV0UiQ3l"
     },
     {
       "added_at": "2024-06-24 15:40:12",
@@ -2257,28 +2265,20 @@
       "url": "https://open.spotify.com/track/0z5RBNQiOmQgGDiT8jnuiB"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "NRG",
-        "url": "https://open.spotify.com/album/55rwbbipDik1y3Q0Fesmb4"
+        "name": "OVERDOSE",
+        "url": "https://open.spotify.com/album/7KG0bfR59nbz0nWO0USRIP"
       },
       "artists": [
         {
           "name": "Julian Jordan",
           "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
-        },
-        {
-          "name": "Eleganto",
-          "url": "https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V"
-        },
-        {
-          "name": "Kota",
-          "url": "https://open.spotify.com/artist/63QiIbACG85n38thH1gJry"
         }
       ],
-      "duration_ms": 220898,
-      "name": "NRG",
-      "url": "https://open.spotify.com/track/0zEwlfpJgIMzh3BV0UiQ3l"
+      "duration_ms": 163500,
+      "name": "OVERDOSE",
+      "url": "https://open.spotify.com/track/3EndRWjDyW9XqK0xmMIgzm"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2301,22 +2301,6 @@
       "url": "https://open.spotify.com/track/2Y6ighvPsMpW8fIfUQzYXf"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "New Sound",
-        "url": "https://open.spotify.com/album/7I255LigkzYYG82RD8sd8K"
-      },
-      "artists": [
-        {
-          "name": "Breathe Carolina",
-          "url": "https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC"
-        }
-      ],
-      "duration_ms": 171093,
-      "name": "New Sound",
-      "url": "https://open.spotify.com/track/6KnmmjS3EvQYJcKRR6PpVi"
-    },
-    {
       "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "One Of A Kind",
@@ -2331,6 +2315,22 @@
       "duration_ms": 228750,
       "name": "Does It Seem",
       "url": "https://open.spotify.com/track/6LtdHK1U2li7mFcHl0agoN"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "New Sound",
+        "url": "https://open.spotify.com/album/7I255LigkzYYG82RD8sd8K"
+      },
+      "artists": [
+        {
+          "name": "Breathe Carolina",
+          "url": "https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC"
+        }
+      ],
+      "duration_ms": 171093,
+      "name": "New Sound",
+      "url": "https://open.spotify.com/track/6KnmmjS3EvQYJcKRR6PpVi"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2385,6 +2385,22 @@
       "url": "https://open.spotify.com/track/5pIJ99J4vVntZgDPFZYBtw"
     },
     {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Certified",
+        "url": "https://open.spotify.com/album/0TyvVgpxn616G6DGoA25VK"
+      },
+      "artists": [
+        {
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+        }
+      ],
+      "duration_ms": 175492,
+      "name": "Certified",
+      "url": "https://open.spotify.com/track/6ZvL9vA6ZbSCNdpgdYjW12"
+    },
+    {
       "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "BAD",
@@ -2403,22 +2419,6 @@
       "duration_ms": 173571,
       "name": "BAD",
       "url": "https://open.spotify.com/track/79rtchRTWKO4AjVKzIAgMy"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Certified",
-        "url": "https://open.spotify.com/album/0TyvVgpxn616G6DGoA25VK"
-      },
-      "artists": [
-        {
-          "name": "Dr. Fresch",
-          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
-        }
-      ],
-      "duration_ms": 175492,
-      "name": "Certified",
-      "url": "https://open.spotify.com/track/6ZvL9vA6ZbSCNdpgdYjW12"
     }
   ],
   "unique_name": "Nasty Bits",

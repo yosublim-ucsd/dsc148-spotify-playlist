@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 481977,
       "name": "1995",
       "url": "https://open.spotify.com/track/0Of3ECzxO2c0HkkK0Ti0iU"
@@ -122,7 +122,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 462000,
       "name": "333 - D'Nox & Beckers Remix",
       "url": "https://open.spotify.com/track/7xNoMJovQ2vQEIXJFONE5b"
@@ -340,7 +340,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 185160,
       "name": "Always Forever",
       "url": "https://open.spotify.com/track/2kSeF6yZz3wLFchfnX0xfO"
@@ -1042,7 +1042,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 296656,
       "name": "By The River - Aalson Remix",
       "url": "https://open.spotify.com/track/08OIFiRAqiPARVUWkX8RAo"
@@ -1086,7 +1086,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 621398,
       "name": "Candidasa",
       "url": "https://open.spotify.com/track/2UdB4mqfNI5M01Vpfta2tU"
@@ -1644,6 +1644,24 @@
       "duration_ms": 421384,
       "name": "Do You Wanna - Daphni Edit",
       "url": "https://open.spotify.com/track/2CqTnpEC3PkzK11WemOHFS"
+    },
+    {
+      "album": {
+        "name": "Formula One",
+        "url": "https://open.spotify.com/album/3F7eA0jv9t8LE6Qqqczjpk"
+      },
+      "artists": [
+        {
+          "name": "Mescal Kid",
+          "url": "https://open.spotify.com/artist/6HptuoLiKST6AnxtDZ36qB"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412247,
+      "name": "Do You Want It?",
+      "url": "https://open.spotify.com/track/4YcyRgjjtLLTJRMwBOjwlj"
     },
     {
       "album": {
@@ -2219,6 +2237,28 @@
     },
     {
       "album": {
+        "name": "FOREVER FRIENDS",
+        "url": "https://open.spotify.com/album/73N07eTgKpX3ucDcjRrrWE"
+      },
+      "artists": [
+        {
+          "name": "NTO",
+          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
+        },
+        {
+          "name": "Sofiane Pamart",
+          "url": "https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203389,
+      "name": "Explore Yourself",
+      "url": "https://open.spotify.com/track/6k2euSlWnaj6IKXpRn4XWH"
+    },
+    {
+      "album": {
         "name": "Extra Time (Villager Remix)",
         "url": "https://open.spotify.com/album/6gIkLiaxjQUQ35NJa0IDYs"
       },
@@ -2303,6 +2343,32 @@
     },
     {
       "album": {
+        "name": "Fall Into Groove (M-High Remix)",
+        "url": "https://open.spotify.com/album/1y7hvhv8WMrjaA6HexhFYZ"
+      },
+      "artists": [
+        {
+          "name": "Djebali",
+          "url": "https://open.spotify.com/artist/3toliIlT7UChWeuBkRrUnW"
+        },
+        {
+          "name": "Hipp-E",
+          "url": "https://open.spotify.com/artist/3rvTse6pkGCgwHXbOngCDz"
+        },
+        {
+          "name": "M-High",
+          "url": "https://open.spotify.com/artist/5lNjdR9GxHHF3twNE6ayJW"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431373,
+      "name": "Fall Into Groove - M-High Remix",
+      "url": "https://open.spotify.com/track/5W8409HlMEvaFDYIciRL67"
+    },
+    {
+      "album": {
         "name": "Feel My Needs",
         "url": "https://open.spotify.com/album/4611D7Vc8zCLn49NiKqpjn"
       },
@@ -2354,7 +2420,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 165125,
       "name": "Feelin'",
       "url": "https://open.spotify.com/track/4mm3PG3fwbfLpmdVUmjM3T"
@@ -2538,7 +2604,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 282901,
       "name": "Fleuron Drift",
       "url": "https://open.spotify.com/track/4dk4d4LMWTF7DeTbCcz2AW"
@@ -2596,7 +2662,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 515474,
       "name": "Flying Zebra - Original Mix",
       "url": "https://open.spotify.com/track/2yIUcFgAybY5Gox6bMbfkR"
@@ -3202,7 +3268,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 172869,
       "name": "House is Raw",
       "url": "https://open.spotify.com/track/4S28P05csvq3s4xfgMd6ku"
@@ -3274,7 +3340,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 302520,
       "name": "Hypnos Nyx",
       "url": "https://open.spotify.com/track/1ibMUfep7E41cWpmtjLXFN"
@@ -3880,7 +3946,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 256743,
       "name": "Last Night - Anyma x Layton Giordani Remix",
       "url": "https://open.spotify.com/track/22hOKPKTAegLoLJKM33K4a"
@@ -4382,7 +4448,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 295161,
       "name": "Miroir Miroir - Qrion Remix",
       "url": "https://open.spotify.com/track/5aKJuLnUZnLdIdJO3csJbj"
@@ -4494,7 +4560,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 224640,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/2uEcNtI8A8cxID8JCCIVZJ"
@@ -4760,7 +4826,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 226666,
       "name": "Night Rider - Radio Edit",
       "url": "https://open.spotify.com/track/6UuusfFrOzwuLuZYaAwqXC"
@@ -4822,7 +4888,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 215625,
       "name": "No One",
       "url": "https://open.spotify.com/track/2gTYGAeRlXRe8uHofu9mxf"
@@ -5047,6 +5113,24 @@
     },
     {
       "album": {
+        "name": "Sound Traveler",
+        "url": "https://open.spotify.com/album/0CKNqwrhTqz6HASKW3I2fu"
+      },
+      "artists": [
+        {
+          "name": "Eric Sneo",
+          "url": "https://open.spotify.com/artist/4YcZ1IyKQ4egHqSNVoZbKT"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430370,
+      "name": "Organon",
+      "url": "https://open.spotify.com/track/45LUKBPVhd36xH3nNPbKHY"
+    },
+    {
+      "album": {
         "name": "Transience EP",
         "url": "https://open.spotify.com/album/0LmBlbVu1Q7UBs0x4aROWz"
       },
@@ -5182,7 +5266,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 313493,
       "name": "Penguin Love Theory",
       "url": "https://open.spotify.com/track/3bzJhJH6nAzXXdMrxgUOvV"
@@ -6059,6 +6143,28 @@
     },
     {
       "album": {
+        "name": "Reflex",
+        "url": "https://open.spotify.com/album/6A9MVcSN5s7142HgCZUQKS"
+      },
+      "artists": [
+        {
+          "name": "Stereoclip",
+          "url": "https://open.spotify.com/artist/4x2Ejyd2OGXtZrPvAQWvYL"
+        },
+        {
+          "name": "Mondingo",
+          "url": "https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224346,
+      "name": "Silent Fall",
+      "url": "https://open.spotify.com/track/0sWgDTLfY8ZytA6orAHiUa"
+    },
+    {
+      "album": {
         "name": "20 Years Of Phonica (Digital Sampler 3)",
         "url": "https://open.spotify.com/album/5N7u3kazHks21Bsvucg4ao"
       },
@@ -6146,7 +6252,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 243500,
       "name": "So...",
       "url": "https://open.spotify.com/track/08yr7AX1DLnfewURbJ8S3f"
@@ -6295,6 +6401,28 @@
     },
     {
       "album": {
+        "name": "Blood Moon (Remixes)",
+        "url": "https://open.spotify.com/album/6EeOdiTtw5K9b5sME9Xz3p"
+      },
+      "artists": [
+        {
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        },
+        {
+          "name": "Patrice B\u00e4umel",
+          "url": "https://open.spotify.com/artist/5OvpF1A65DXs93M9NfPIjT"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "Spiral (Patrice B\u00e4umel Remix) (Edit)",
+      "url": "https://open.spotify.com/track/2EA8cJDwKM6DqTaAuxptCz"
+    },
+    {
+      "album": {
         "name": "Lanes EP",
         "url": "https://open.spotify.com/album/5S3RXvDtsb3RQiPwIVE9Wj"
       },
@@ -6310,7 +6438,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 344754,
       "name": "Splendor - Extended Mix",
       "url": "https://open.spotify.com/track/45UHM5mKHWdUuetCRCZkND"
@@ -6440,7 +6568,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 480000,
       "name": "Story 4",
       "url": "https://open.spotify.com/track/7ec1rkRMnlUWRHwX2f1InY"
@@ -6724,7 +6852,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 256756,
       "name": "the fair",
       "url": "https://open.spotify.com/track/64VMZMSIpzvU78yYw0wXwX"
@@ -6785,6 +6913,28 @@
     },
     {
       "album": {
+        "name": "The Gnawa March",
+        "url": "https://open.spotify.com/album/4pVLrlDG1wFN5nszAshOpn"
+      },
+      "artists": [
+        {
+          "name": "Clyde P",
+          "url": "https://open.spotify.com/artist/7r5J2cZ7ufmOCgh9Vg7kD1"
+        },
+        {
+          "name": "Darius Syrossian",
+          "url": "https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367461,
+      "name": "The Gwana March - Darius Syrossian Remix",
+      "url": "https://open.spotify.com/track/19ZjMd3uxuethPGx4m1jPK"
+    },
+    {
+      "album": {
         "name": "Take Control",
         "url": "https://open.spotify.com/album/0yiDqyEUyguvJkfs12fsnX"
       },
@@ -6800,6 +6950,24 @@
       "duration_ms": 361967,
       "name": "The MC Calls",
       "url": "https://open.spotify.com/track/2aOae21QvRkkkA0ycWpiXO"
+    },
+    {
+      "album": {
+        "name": "The Secret (A Beautiful Day)",
+        "url": "https://open.spotify.com/album/0bh1Fg3lyO18aXl77ivbX6"
+      },
+      "artists": [
+        {
+          "name": "Loverground",
+          "url": "https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176246,
+      "name": "The Secret (A Beautiful Day)",
+      "url": "https://open.spotify.com/track/79b7gAzN9W44myDEjRaIgz"
     },
     {
       "album": {
@@ -6868,7 +7036,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 226254,
       "name": "The World Keeps Turning",
       "url": "https://open.spotify.com/track/1sxGoYIDd1zPjLdxOgar7R"
@@ -6890,7 +7058,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 230206,
       "name": "This Feeling",
       "url": "https://open.spotify.com/track/4kdY5p1f3aysdsGH2uzj1T"
@@ -7206,7 +7374,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 315846,
       "name": "Vanarama Bar",
       "url": "https://open.spotify.com/track/4a5ORv1f6smQPftOhIiB2J"

@@ -4,7 +4,7 @@
 
 > Mielenkiintoisimmat biisit ensisoitossa\. 🔥 Kannessa Danitello, Bizi ja Robin Packalen.
 
-349 songs - 17 hr 28 min
+350 songs - 17 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Ain't No Love In Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Ain't No Love In Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/album/7x1eLsPizad7dHnqCGQODx) | 3:30 | 2024-07-02 | 2024-08-19 |
 | [All I Ever Wanted](https://open.spotify.com/track/3SlVjHXWf3GmFw5eRhW7GM) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [All I Ever Wanted](https://open.spotify.com/album/3ea7Bl4ur3eojJ8ycDVsXZ) | 3:09 | 2024-07-02 | 2024-08-30 |
 | [All my life](https://open.spotify.com/track/43oxw0Qh1iGEy58PV0ppl4) | [EBEN](https://open.spotify.com/artist/02J7bo06ZZ1XmSGochlWak) | [All my life](https://open.spotify.com/album/7yMeoIHEJ161J1q1t1LjCL) | 2:42 | 2024-08-08 | 2024-08-16 |
+| [ALL RED](https://open.spotify.com/track/2cZOYofOX4d6g0OXxkaIjA) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [ALL RED](https://open.spotify.com/album/3cdcIcidzGHVQW5e9qQgtx) | 2:28 | 2024-09-14 |  |
 | [Always Be](https://open.spotify.com/track/0aohefgYGm6l5IZACPK8yu) | [Netrum](https://open.spotify.com/artist/4X76fYx1a6EmEvCqDudesG) | [Always Be](https://open.spotify.com/album/2VVvZpeYiH3cu7tVNyIOjq) | 2:50 | 2024-08-15 | 2024-08-23 |
 | [Always Home](https://open.spotify.com/track/2ss2wwntsEJoLIExHn7b7D) | [Rebecca Annan](https://open.spotify.com/artist/2VGVrPiJeZn0oGa1ojkomp) | [Always Home](https://open.spotify.com/album/7Fh5pXlsjt82eMmTMkHxnD) | 2:46 | 2024-07-25 | 2024-08-09 |
 | [Angel Of My Dreams](https://open.spotify.com/track/46cW6zufU9Woo11TLs2i6X) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Angel Of My Dreams](https://open.spotify.com/album/6Wf3fqCoGcOYah2lTcwyAA) | 3:17 | 2024-07-18 |  |
@@ -34,7 +35,7 @@
 | [Banksy](https://open.spotify.com/track/18fmER5eYZc0onTxcI9tnJ) | [Lukas Leon](https://open.spotify.com/artist/1lDaPfGRA6miVIOjZbY50n) | [Banksy](https://open.spotify.com/album/6uzeJCuFMAL2Wi27yaPaMx) | 2:37 | 2024-09-12 |  |
 | [barbi ja ken](https://open.spotify.com/track/3GfmAxiaZZKYwyIR4YL6fR) | [beibi](https://open.spotify.com/artist/18nbG6xuN3bgVkZXoeoIZj) | [barbi ja ken](https://open.spotify.com/album/19o1zKf5fLwg3oDHtUkEjK) | 2:42 | 2024-07-04 | 2024-07-12 |
 | [Barcelona](https://open.spotify.com/track/2GE3k8I0Sbh0puCjI15KGy) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Barcelona](https://open.spotify.com/album/34yBJhr8zlBAHMEMSwrISN) | 3:25 | 2024-07-02 |  |
-| [Beaches](https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beaches](https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66) | 3:50 | 2024-08-12 |  |
+| [Beaches](https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beaches](https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66) | 3:50 | 2024-08-12 | 2024-09-15 |
 | [Better Days \(feat\. John Mayer\)](https://open.spotify.com/track/1vj47xD8v9wIhQrmQY2Dkv) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Great American Bar Scene](https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz) | 3:32 | 2024-07-05 |  |
 | [Body Type](https://open.spotify.com/track/7iD8SlzwQB6zOVEA4wm3oN) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Body Type](https://open.spotify.com/album/6pteqWmVaX9tkjvzUbdmvG) | 2:12 | 2024-09-05 | 2024-09-13 |
 | [Boys & Roses](https://open.spotify.com/track/4OJ1qqsqotZy4vIxxBA6df) | [HEROINES](https://open.spotify.com/artist/6cqtpAT55MUpUl6NMCf84W) | [Boys & Roses](https://open.spotify.com/album/4zPleOT1lYVthUx0BKlYKQ) | 2:51 | 2024-09-05 | 2024-09-13 |

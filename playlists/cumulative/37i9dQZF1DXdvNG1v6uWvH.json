@@ -396,7 +396,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-14",
+      "date_removed": null,
       "duration_ms": 177272,
       "name": "7 \u00e1r s\u00ed\u00f0an",
       "url": "https://open.spotify.com/track/3n4r9hbntZuxW5DHu3QSmX"
@@ -672,7 +672,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 205492,
       "name": "Actavis",
       "url": "https://open.spotify.com/track/510tUdr56sVAI6eoL3dHrB"
@@ -748,7 +748,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 162466,
       "name": "Adiemus",
       "url": "https://open.spotify.com/track/5IdwYP227OgvmcrIEq3N9H"
@@ -8621,6 +8621,24 @@
     },
     {
       "album": {
+        "name": "Verbathim",
+        "url": "https://open.spotify.com/album/6aLc5t3mdbmonoCZMAnZ7N"
+      },
+      "artists": [
+        {
+          "name": "Nemahsis",
+          "url": "https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167600,
+      "name": "dead giveaway",
+      "url": "https://open.spotify.com/track/3Eidg0OLrDYFjsyjJTzieL"
+    },
+    {
+      "album": {
         "name": "Dead Man",
         "url": "https://open.spotify.com/album/2bXR6WDlDnm31wMvAd0MhB"
       },
@@ -9638,7 +9656,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 179916,
       "name": "Don't Be Sad",
       "url": "https://open.spotify.com/track/2LvxDMGE2WGzfSl8Ep2bRD"
@@ -12185,6 +12203,28 @@
     },
     {
       "album": {
+        "name": "FAR FETCHED (feat. Ty Dolla $ign)",
+        "url": "https://open.spotify.com/album/0Ss227Tev7vSTbFtTfIm3y"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247580,
+      "name": "FAR FETCHED (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/5ZY1qGibLsa2xZm0XUe36g"
+    },
+    {
+      "album": {
         "name": "Fast Living, Slow Suicide (feat. Olli Herman)",
         "url": "https://open.spotify.com/album/3hzddNMW74wc9YDAFLr1st"
       },
@@ -12772,7 +12812,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 282006,
       "name": "Fer\u00f0alag",
       "url": "https://open.spotify.com/track/6Sq0D2RxD1b6vYTEMyIoHK"
@@ -18627,6 +18667,28 @@
     },
     {
       "album": {
+        "name": "I Can Do It With a Broken Heart - Dombresky Remix",
+        "url": "https://open.spotify.com/album/3WNGsnTetig4bJbw2BMbK7"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Dombresky",
+          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189391,
+      "name": "I Can Do It With a Broken Heart - Dombresky Remix",
+      "url": "https://open.spotify.com/track/0hFF0aqyjDwDh6SQwRbTyx"
+    },
+    {
+      "album": {
         "name": "Montenegro",
         "url": "https://open.spotify.com/album/3s7RESexwwUSBsOVBdyb4T"
       },
@@ -22662,7 +22724,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 108000,
       "name": "Life A Song",
       "url": "https://open.spotify.com/track/32RHHopZ15qrrsv7V0GpGy"
@@ -26076,7 +26138,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 257372,
       "name": "Moodswings",
       "url": "https://open.spotify.com/track/2jetiimy8qwyQMVcCY5z08"
@@ -30080,7 +30142,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-14",
+      "date_removed": null,
       "duration_ms": 156515,
       "name": "Pieces",
       "url": "https://open.spotify.com/track/7DQ8QCkHfLLPILmDnQCvzG"
@@ -32036,6 +32098,24 @@
       "duration_ms": 223694,
       "name": "Rock N Roller",
       "url": "https://open.spotify.com/track/3ISlzLXLm9RvTZ1wU6QwK7"
+    },
+    {
+      "album": {
+        "name": "Rocka Rolla",
+        "url": "https://open.spotify.com/album/4qFmJ6JmYzINseZVQUS6Ra"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204865,
+      "name": "Rocka Rolla",
+      "url": "https://open.spotify.com/track/3tEsYuU9WAomyIpTSBEzyC"
     },
     {
       "album": {
@@ -43427,7 +43507,7 @@
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 206153,
+      "duration_ms": 206463,
       "name": "You (feat. Hermanos Guti\u00e9rrez)",
       "url": "https://open.spotify.com/track/3r14cTnRNBAXpYfRorUFa7"
     },

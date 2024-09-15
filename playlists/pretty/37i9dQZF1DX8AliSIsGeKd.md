@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Moonbootica
 
-[Spotify](https://open.spotify.com/user/spotify) - 663,916 likes - 90 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 664,086 likes - 90 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [Eye Need Your Luv](https://open.spotify.com/track/4PLusgmdbBvkJRrFRkv9iE) | [M1NT](https://open.spotify.com/artist/5gzGYECW5rYT6NccH5zZGL), [Turi](https://open.spotify.com/artist/1oSMgnyRBHfOt26vBan09F) | [Eye Need Your Luv](https://open.spotify.com/album/5jBXJ4l0uZwNQp5NHRSSCr) | 3:04 |
 | 90 | [Spielfreude \- Edit](https://open.spotify.com/track/6ABZ2XEOnm4WVoaDc8g8VO) | [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5), [An On Bast](https://open.spotify.com/artist/4qIHzBkWUueYNuEl3xCDHs) | [Spielfreude](https://open.spotify.com/album/1TtqTFPXxxHAtDDcd1qSUJ) | 4:07 |
 
-Snapshot ID: `ZuNkYAAAAABqmPHJPmDQ67D68fV5XxmJ`
+Snapshot ID: `ZuNkYAAAAABu6SYAlB8Shfy9mpn1Z2SO`

@@ -4,7 +4,7 @@
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-559 songs - 1 day 0 hr 29 min
+561 songs - 1 day 0 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Dusk Till Dawn](https://open.spotify.com/track/2Y8F6VghlLx4lpUSDOTHZK) | [FMTM](https://open.spotify.com/artist/59rzq7zL5EJrmwWLPzDb0e), [Catching Sunrises](https://open.spotify.com/artist/1ZRHglRvKYNVcLjp1YAsSz) | [Dusk Till Dawn](https://open.spotify.com/album/4s0udnWNEJ504qJDGTyY5A) | 2:50 | 2024-05-04 | 2024-07-05 |
 | [DÁKITI](https://open.spotify.com/track/12UKG8o3WWlSdvK7zInWh8) | [BOOTY LEAK](https://open.spotify.com/artist/6C8sBC5U3LyUE4GoleJWvx), [TARS.](https://open.spotify.com/artist/0Dp54NlNysfSJ0FO2nlTGo), [PHURS](https://open.spotify.com/artist/2UXdzClMex3N47C9m1fkeX), [LO RA](https://open.spotify.com/artist/4UIKw5nTfBSfJz1Qtts8oC) | [DÁKITI](https://open.spotify.com/album/5RE3u3esh5NWmKGP1sKKwf) | 3:07 | 2024-03-03 | 2024-04-29 |
 | [Easy](https://open.spotify.com/track/79ZKrHZVLDR7zeUMIsjI1r) | [rshand](https://open.spotify.com/artist/7gjIrPoGRWrG0ymsV5TZ16), [Eliine](https://open.spotify.com/artist/1E2Zt9ZCpNq2Styo5IzYHk) | [Easy](https://open.spotify.com/album/5JcxWL1M174eVCbxbpLXMo) | 2:54 | 2024-06-14 |  |
+| [Echo](https://open.spotify.com/track/4JgGN5YPLx1w50O8buY1Lr) | [RAZZ](https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l), [Karim](https://open.spotify.com/artist/7ASTAqkubyvLAADXV9Hlvb) | [Echo](https://open.spotify.com/album/6vKDIm7hQAZXncP0Amssaj) | 2:26 | 2024-09-13 |  |
 | [Echoes of Light](https://open.spotify.com/track/7kqIRrv9Lo36E3C10L5zcT) | [Ourson](https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY) | [Echoes of Light](https://open.spotify.com/album/3nzzFXZgX7OVJ29zCxVzRa) | 3:46 | 2024-02-04 | 2024-05-13 |
 | [Eclipse](https://open.spotify.com/track/0llLMn5vshxTKeD3AH3vkf) | [Jeremy Arnold](https://open.spotify.com/artist/7bSNahMBuhzMOwCAn57FB5), [Jaime Deraz](https://open.spotify.com/artist/4J7ascv32yT6yE75KRCktv) | [Eclipse](https://open.spotify.com/album/4SxAS9lHJRqWPMhVP2pYB2) | 2:31 | 2024-09-08 |  |
 | [End of The World](https://open.spotify.com/track/2Hpq7uw41HhMyAhoIeaZhr) | [Nate VanDeusen](https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU), [Karim](https://open.spotify.com/artist/7ASTAqkubyvLAADXV9Hlvb), [Niko Frost](https://open.spotify.com/artist/3hUupfJ0GpSJhRltxBUlF7) | [End of The World](https://open.spotify.com/album/2ZqZK4UOYPTFelGCg10B9s) | 2:23 | 2024-07-21 | 2024-08-19 |
@@ -353,6 +354,7 @@
 | [Next To You](https://open.spotify.com/track/3yOxr8Rx5pvvv8M8KO8xXU) | [Will Knight](https://open.spotify.com/artist/2J3OI67dfjkaijI0FB2Ysr) | [Next To You](https://open.spotify.com/album/1ydKseDSmqmQ2fT5sNwvER) | 2:18 | 2024-04-05 |  |
 | [Nightingale](https://open.spotify.com/track/4z9obgtFzinZXBpwG8Flik) | [Panuma](https://open.spotify.com/artist/3YvNtTSaJ2YAt1RhaE9eiH), [Kayla](https://open.spotify.com/artist/6FHqXSFTmhWlgERTHLD9ct) | [Nightingale](https://open.spotify.com/album/5UpHekXcg2yEn2XMplYVWy) | 3:48 | 2023-09-22 | 2024-07-05 |
 | [No Diggity](https://open.spotify.com/track/6Q9ls4l10fcTNeHdEq3kB1) | [Lone Tusker](https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl) | [No Diggity](https://open.spotify.com/album/4wn83uhoIh22NqHGiQ5xJr) | 2:42 | 2023-10-19 | 2024-05-10 |
+| [No Other Love](https://open.spotify.com/track/6tekbBbL0YC854BVqGC61a) | [Geoff Duncan](https://open.spotify.com/artist/1oXBhBpbEfp8p2mp5ipx2N), [Cal1](https://open.spotify.com/artist/25dKyXEZPXG55aaNFQFbaJ), [l'essay](https://open.spotify.com/artist/19X4W851yGGTB4rgz61cBs) | [No Other Love](https://open.spotify.com/album/0hFUQbYgL26iBhkqXLxk99) | 2:10 | 2024-09-13 |  |
 | [No Sleep](https://open.spotify.com/track/0qSq3cOECG9x2xGDAXs4n2) | [T'art](https://open.spotify.com/artist/5MiPgWTGNMQXaSx00kV5iW), [Lyubov Kay](https://open.spotify.com/artist/51Tc5HIzPZ3eEsuovFtMFr) | [No Sleep](https://open.spotify.com/album/2dEMmIDTijQeBPWa98HDW8) | 3:34 | 2024-02-16 | 2024-05-13 |
 | [Nobody](https://open.spotify.com/track/47wkD7lkoD8gTJmGUupxwj) | [Sander W.](https://open.spotify.com/artist/1g3DHFTgwP8SbgH5ND8lVj), [Loé](https://open.spotify.com/artist/7MuRRLYh8g8uTtqU77NW9q) | [Nobody](https://open.spotify.com/album/2FKLLgJXy6CUQAkia8G2hf) | 2:23 | 2024-05-05 | 2024-05-21 |
 | [Nothing Compares](https://open.spotify.com/track/71buKiy5zu2zUm0PBrsIZ4) | [Riesling](https://open.spotify.com/artist/3GxT7ZybNZXWlMR1eopmx9), [Joey Busse](https://open.spotify.com/artist/6ctUI0LDXR8CatDPqGzXYB) | [Nothing Compares](https://open.spotify.com/album/4kzfJcvLN1mgcOgrehDX7m) | 1:59 | 2024-01-07 | 2024-05-13 |

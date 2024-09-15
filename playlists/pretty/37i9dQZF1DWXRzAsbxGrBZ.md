@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,767 likes - 50 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,890 likes - 50 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 20 | [Another Day \(feat\. Ziyon\)](https://open.spotify.com/track/1rfwR3rYMkzOdZVKVSBiDZ) | [Sculptured Music](https://open.spotify.com/artist/4YPDYlOGASYfWCFzUBUBKN), [Ziyon](https://open.spotify.com/artist/01mTTTNz6NssRDxgyJhJwy) | [Reputation](https://open.spotify.com/album/6Y9ZGpkBpSQwYj44xjTItS) | 5:30 |
 | 21 | [Breathe \- Ed\-ward Remix](https://open.spotify.com/track/6nkQmI4HgnFuutM9fUkdAE) | [Ethan Tait](https://open.spotify.com/artist/417zU4I2H7xk64PUhedjyT), [Sam Alaina](https://open.spotify.com/artist/2Xz7oQiDTvupkbByXVHZHB), [Ed\-Ward](https://open.spotify.com/artist/0KOXMkKRGGmQlle8xYvFLQ) | [Breathe \(Remixes\)](https://open.spotify.com/album/3W9mtsPqpTzW5mciGGlSkb) | 6:42 |
 | 22 | [Jewels](https://open.spotify.com/track/2u36IdOtMZsEY1yCjKvz0B) | [Dwson](https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR) | [Jewels](https://open.spotify.com/album/7w0aGvreLMz7dGW1G78Ym5) | 7:20 |
-| 23 | [Feel Good](https://open.spotify.com/track/5CorwaqtOJRLBaUocl7v5t) | [Pando G](https://open.spotify.com/artist/4nbklwOZ5lnv1otsaaDJZg) | [Feel Good EP](https://open.spotify.com/album/42QNc5GHCJuJEDuWRiPi9a) | 6:32 |
-| 24 | [Ksasenjalo \(Exte C Remix\)](https://open.spotify.com/track/1PnAtWScmc0YQn8UbJW1NN) | [Zano](https://open.spotify.com/artist/44wIq4IVr26PvWKBWJ42vq), [Exte C](https://open.spotify.com/artist/6xUGu0QxJfllDHmB9Pyc23) | [Ksasenjalo \(Re\-Imagined\)](https://open.spotify.com/album/0oKKnnM9Glh0iHfiCwEUZZ) | 6:41 |
+| 23 | [Ksasenjalo \(Exte C Remix\)](https://open.spotify.com/track/1PnAtWScmc0YQn8UbJW1NN) | [Zano](https://open.spotify.com/artist/44wIq4IVr26PvWKBWJ42vq), [Exte C](https://open.spotify.com/artist/6xUGu0QxJfllDHmB9Pyc23) | [Ksasenjalo \(Re\-Imagined\)](https://open.spotify.com/album/0oKKnnM9Glh0iHfiCwEUZZ) | 6:41 |
+| 24 | [Feel Good](https://open.spotify.com/track/5CorwaqtOJRLBaUocl7v5t) | [Pando G](https://open.spotify.com/artist/4nbklwOZ5lnv1otsaaDJZg) | [Feel Good EP](https://open.spotify.com/album/42QNc5GHCJuJEDuWRiPi9a) | 6:32 |
 | 25 | [Falling outta love often \- Radio Edit](https://open.spotify.com/track/07mLfjYGWAYwDMQeV04tmo) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy), [Buddynice](https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp) | [Falling outta love often](https://open.spotify.com/album/4l3iLDiiB0waGz07EAyPjP) | 4:21 |
 | 26 | [Those Times](https://open.spotify.com/track/6CcZOTY6BcU0lrJu6Whhqn) | [C\-Moody](https://open.spotify.com/artist/54OOXOPVCHZ2wkppPBXaal) | [Those Times](https://open.spotify.com/album/5YblhSjbYeSAkY1JoWmkVY) | 7:45 |
 | 27 | [Happy Ending \- Main Mix](https://open.spotify.com/track/7z1Aaj0TgXx7YpQOhfiDTS) | [Ralf Gum](https://open.spotify.com/artist/2XE7Kskh4TLEcxIyNSoCwN), [Donald Sheffey](https://open.spotify.com/artist/681WjFB6kXJEkYFL24hHdo) | [Happy Ending](https://open.spotify.com/album/5sLHd3Dha1l5Fjj8TTFNlC) | 7:15 |

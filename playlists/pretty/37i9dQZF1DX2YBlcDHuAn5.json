@@ -1,6 +1,6 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 8130,
+  "num_followers": 8136,
   "original_name": "Country & Americana",
   "owner": {
     "name": "Spotify",
@@ -66,6 +66,10 @@
         {
           "name": "Johnny & the Dinosaurs",
           "url": "https://open.spotify.com/artist/3VE3trzA2jZU19LphjsQwS"
+        },
+        {
+          "name": "Aidan & the Wild",
+          "url": "https://open.spotify.com/artist/0sJ5myIh1plIK5zWWzkjXs"
         }
       ],
       "duration_ms": 243320,

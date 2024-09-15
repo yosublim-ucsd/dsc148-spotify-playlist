@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6hyJ0dcR6HEDiNyBAgCEPU">Tay Keith</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,478 likes - 260 songs - 12 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,484 likes - 260 songs - 12 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -223,8 +223,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 213 | [Do Better](https://open.spotify.com/track/6W55PELuIrhPwFAr9T64Df) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Mani/Pedi](https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh) | 3:24 |
 | 214 | [AOGG \(feat\. Tay Keith\)](https://open.spotify.com/track/0025YMT2mT4Ehqf5ofDZVG) | [Kenny Muney](https://open.spotify.com/artist/5noIMRg61zRD7KhynZLmFX), [Tay Keith](https://open.spotify.com/artist/5iXQ6q7GsGCUew3tVJeG1z) | [Blue Muney \(Deluxe\)](https://open.spotify.com/album/4xr2CDxPElnjMsf8jFPFof) | 2:21 |
 | 215 | [Pirate](https://open.spotify.com/track/4nCg9oFwTWLHMYdIB4Kuxx) | [HoodRich Pablo Juan](https://open.spotify.com/artist/1ZLO8d7zll1WeQJUHaxQer) | [DMV](https://open.spotify.com/album/4be8M47GQNAYsHHMFJ77Hx) | 2:35 |
-| 216 | [Slow Dance \(feat\. BlocBoy JB\)](https://open.spotify.com/track/1Ak4uEbwPtAnKZFqi4R9nM) | [Brianna Perry](https://open.spotify.com/artist/7dCeHFqROnBJFZwRfp8B3Z), [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU) | [Fortune Cookie](https://open.spotify.com/album/0UM6R2ygjqnq4rE8FsHD8y) | 3:16 |
-| 217 | [Tay Keith](https://open.spotify.com/track/6sSmh6H1tMZDmREz3ev6c3) | [2KBABY](https://open.spotify.com/artist/4mkjpWbFO45SyaHiM9GOVE) | [First Quarter](https://open.spotify.com/album/4LAiL2z5jIvFRvNSzzFBVG) | 2:00 |
+| 216 | [Tay Keith](https://open.spotify.com/track/6sSmh6H1tMZDmREz3ev6c3) | [2KBABY](https://open.spotify.com/artist/4mkjpWbFO45SyaHiM9GOVE) | [First Quarter](https://open.spotify.com/album/4LAiL2z5jIvFRvNSzzFBVG) | 2:00 |
+| 217 | [Slow Dance \(feat\. BlocBoy JB\)](https://open.spotify.com/track/1Ak4uEbwPtAnKZFqi4R9nM) | [Brianna Perry](https://open.spotify.com/artist/7dCeHFqROnBJFZwRfp8B3Z), [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU) | [Fortune Cookie](https://open.spotify.com/album/0UM6R2ygjqnq4rE8FsHD8y) | 3:16 |
 | 218 | [Head In My Lap](https://open.spotify.com/track/6umjcG2GhdKOTlry4u8Eui) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU) | [I Am Me](https://open.spotify.com/album/4pAz6zuQCyAXFGpVE1yhi6) | 2:56 |
 | 219 | [Way Too Turnt \(with Tay Keith\)](https://open.spotify.com/track/6dK7gVvB5l4VyYsiG4LOH6) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Yung N Turnt](https://open.spotify.com/album/6w6ILP1M9IAVkPSA2vM8Yv) | 1:48 |
 | 220 | [Real Trap](https://open.spotify.com/track/3yBpubzW5iquSgWt8Nt0BQ) | [Boston George](https://open.spotify.com/artist/7gten3sDCiuil5aBzq9Rej), [Diego](https://open.spotify.com/artist/6JMZQemAU6yRUWVc9e3gHo) | [Boston George & Diego](https://open.spotify.com/album/1bApVxEdfGoql7ExpWtdJW) | 3:00 |
@@ -269,4 +269,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 259 | [Drill Back \(with Tay Keith & Anti Da Menace\)](https://open.spotify.com/track/2P28cEFfp6mlS8kscFfIVQ) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3), [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Yung N Turnt](https://open.spotify.com/album/6w6ILP1M9IAVkPSA2vM8Yv) | 2:12 |
 | 260 | [That’s Him \(with Tay Keith\)](https://open.spotify.com/track/6PpLYEioOcGe67driLklfo) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Yung N Turnt](https://open.spotify.com/album/6w6ILP1M9IAVkPSA2vM8Yv) | 2:45 |
 
-Snapshot ID: `AbcENAAAAABPsmMDnYcrV4mE2/8wJBYs`
+Snapshot ID: `AbcJ8gAAAAD1VctPm5suLLq9kz4Heroj`

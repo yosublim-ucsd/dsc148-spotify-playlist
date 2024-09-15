@@ -6735,6 +6735,28 @@
     },
     {
       "album": {
+        "name": "We Could Be Love",
+        "url": "https://open.spotify.com/album/7MXx2NOHN8IsVPY9x57QXU"
+      },
+      "artists": [
+        {
+          "name": "Hayden James",
+          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+        },
+        {
+          "name": "SHELLS",
+          "url": "https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134345,
+      "name": "Deep Diving",
+      "url": "https://open.spotify.com/track/7N1KL0zEyOsx2bnpbilMJQ"
+    },
+    {
+      "album": {
         "name": "Del Oro",
         "url": "https://open.spotify.com/album/5EmgZrhnGC2kXDJrN3Lnx0"
       },
@@ -9460,6 +9482,24 @@
       "duration_ms": 154225,
       "name": "Forever",
       "url": "https://open.spotify.com/track/3dmGvZg0jo5uZb3mHQw0gL"
+    },
+    {
+      "album": {
+        "name": "CLOSE YOUR EYES",
+        "url": "https://open.spotify.com/album/4MQ34nIUwZqZyZ6qqD0Yvy"
+      },
+      "artists": [
+        {
+          "name": "ionnalee",
+          "url": "https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312541,
+      "name": "forgive her",
+      "url": "https://open.spotify.com/track/1PPysXrThD0s1aSuvAMD2Z"
     },
     {
       "album": {

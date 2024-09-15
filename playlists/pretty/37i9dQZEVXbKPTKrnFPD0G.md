@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Argentina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,622 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,670 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 | 49 | [Por Mil Noches](https://open.spotify.com/track/5vHWh24GAsXJ7tnIu8v7UN) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Libertad](https://open.spotify.com/album/7GqNN5mgkE38TFBjU8vKCd) | 4:43 |
 | 50 | [TATTOO](https://open.spotify.com/track/4kGGnJmqYqn6RQ9LMfvPcv) | [elaggume](https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb), [Fauna Music](https://open.spotify.com/artist/5OnpSUKZU23JCU8axe7b2P), [Coco Palmer](https://open.spotify.com/artist/133e2UQ9uCSvJaN1awjZFY) | [TATTOO](https://open.spotify.com/album/2pT9dWP5sqm4FipajPLVpw) | 2:16 |
 
-Snapshot ID: `Lnel8AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Lnj8IAAAAAAAAAAAAAAAAAAAAAAAAGVu`

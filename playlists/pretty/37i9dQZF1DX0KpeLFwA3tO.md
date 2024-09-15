@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Superbloom
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,817 likes - 118 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,861 likes - 118 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

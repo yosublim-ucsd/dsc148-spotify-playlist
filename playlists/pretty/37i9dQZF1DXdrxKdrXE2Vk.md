@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 
 > Experience the best of live worship here\. Cover: <a href="spotify:artist:1bdnGJxkbIIys5Jhk1T74v">Brandon Lake</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 907,100 likes - 80 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 907,201 likes - 80 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 | 8 | [This Is How I Thank The Lord \(feat\. Cody Carnes, Amanda Cook, Joe L Barnes\)](https://open.spotify.com/track/2t8f07knCNSY19avq19l1R) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0), [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Thanks](https://open.spotify.com/album/3VKdWSElM9EjchBZaXZVML) | 3:41 |
 | 9 | [Burn \- Live](https://open.spotify.com/track/2XqPzwbRFaOVxOPzOUSY2d) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [SEVEN \(Live\)](https://open.spotify.com/album/6ZVXKVGiyL96L6pflgfWrt) | 4:51 |
 | 10 | [All Because of Mercy \(Live at The Ryman\)](https://open.spotify.com/track/6JMjhP5hH2RxOSKl6GR4DV) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [All Because of Mercy \(Live at The Ryman\)](https://open.spotify.com/album/53VJA2PxhBoNXZ3vKDivtO) | 3:56 |
-| 11 | [The Lord Will Provide \- Live From Passion 2024](https://open.spotify.com/track/6J3fye9IIfEker6Z27Gq1N) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Landon Wolfe](https://open.spotify.com/artist/2SpckG1WSOarR05nGg5tjE) | [Call on Heaven \(Live\)](https://open.spotify.com/album/3HigBXr1abN9Qhirdi3WGP) | 5:36 |
+| 11 | [The Lord Will Provide \- Live From Passion 2024](https://open.spotify.com/track/6J3fye9IIfEker6Z27Gq1N) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Landon Wolfe](https://open.spotify.com/artist/2SpckG1WSOarR05nGg5tjE) | [Call on Heaven \- Live](https://open.spotify.com/album/3HigBXr1abN9Qhirdi3WGP) | 5:36 |
 | 12 | [Come Up Here \- Live](https://open.spotify.com/track/39rSNEgQTVwe6nLIjTfZxX) | [David & Nicole Binion](https://open.spotify.com/artist/7nJOcf9vZYXYd0Pm9P1VyV), [Rita Springer](https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [REVELATION \(Live\)](https://open.spotify.com/album/7di8fYwzUziiebXd3Cw8VB) | 5:34 |
 | 13 | [Water and Bone \- Live](https://open.spotify.com/track/6dFAtEgqf759LxORlHtQUr) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1) | [Water and Bone \(Live\)](https://open.spotify.com/album/1Xi7P1QnQJnLK5IzpCqAZj) | 5:39 |
 | 14 | [People Get Ready \- Live](https://open.spotify.com/track/3pW2qc66ssof8KCfnOdLZM) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [People Get Ready \(Live\)](https://open.spotify.com/album/2FrEGPZMpthxbBPoiTtlGO) | 5:57 |

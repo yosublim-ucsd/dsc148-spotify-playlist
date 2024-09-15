@@ -1573,6 +1573,24 @@
     },
     {
       "album": {
+        "name": "ALL RED",
+        "url": "https://open.spotify.com/album/3cdcIcidzGHVQW5e9qQgtx"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148053,
+      "name": "ALL RED",
+      "url": "https://open.spotify.com/track/2cZOYofOX4d6g0OXxkaIjA"
+    },
+    {
+      "album": {
         "name": "Red (Taylor's Version)",
         "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
       },
@@ -2852,6 +2870,24 @@
       "duration_ms": 140733,
       "name": "BAND4BAND (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD"
+    },
+    {
+      "album": {
+        "name": "Banksy",
+        "url": "https://open.spotify.com/album/6uzeJCuFMAL2Wi27yaPaMx"
+      },
+      "artists": [
+        {
+          "name": "Lukas Leon",
+          "url": "https://open.spotify.com/artist/1lDaPfGRA6miVIOjZbY50n"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157603,
+      "name": "Banksy",
+      "url": "https://open.spotify.com/track/18fmER5eYZc0onTxcI9tnJ"
     },
     {
       "album": {
@@ -5245,6 +5281,24 @@
     },
     {
       "album": {
+        "name": "Dancing In The Flames",
+        "url": "https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220036,
+      "name": "Dancing In The Flames",
+      "url": "https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9"
+    },
+    {
+      "album": {
         "name": "Arrival",
         "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
       },
@@ -5636,6 +5690,24 @@
       "duration_ms": 212755,
       "name": "Diablo (feat. Pihlaja, whereismike)",
       "url": "https://open.spotify.com/track/3shQm0ixgrWL70bzpsw2Fa"
+    },
+    {
+      "album": {
+        "name": "Dice",
+        "url": "https://open.spotify.com/album/5nKMPmfTjHJMOM1ZQRdOTk"
+      },
+      "artists": [
+        {
+          "name": "Costi",
+          "url": "https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180159,
+      "name": "Dice",
+      "url": "https://open.spotify.com/track/5xod0Sm1xqBRMpc5qQnZyc"
     },
     {
       "album": {
@@ -7461,6 +7533,28 @@
     },
     {
       "album": {
+        "name": "Pieni Prinssi",
+        "url": "https://open.spotify.com/album/2xKngIuCsxZOr8TpIE2Pz5"
+      },
+      "artists": [
+        {
+          "name": "Pyzze",
+          "url": "https://open.spotify.com/artist/3iTmpLBQG2vcR7eywDGAUZ"
+        },
+        {
+          "name": "ibe",
+          "url": "https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182939,
+      "name": "Emojisyd\u00e4n",
+      "url": "https://open.spotify.com/track/7rf5PlPnAowf0ZEIBbtP5Z"
+    },
+    {
+      "album": {
         "name": "Kaikki vampyyrit ei juo verta",
         "url": "https://open.spotify.com/album/0P8ZR80Dflk9Y3GjNxz2nM"
       },
@@ -7964,7 +8058,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
@@ -10044,7 +10138,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 218423,
       "name": "Good Luck, Babe!",
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
@@ -11802,7 +11896,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 202689,
       "name": "Hulluus saa mut huutamaan",
       "url": "https://open.spotify.com/track/60C39X0cMU3CGamo0ifQhK"
@@ -13917,6 +14011,24 @@
     },
     {
       "album": {
+        "name": "It's ok I'm ok",
+        "url": "https://open.spotify.com/album/5qfivA7g2aAhAIPnSb0csp"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156521,
+      "name": "It's ok I'm ok",
+      "url": "https://open.spotify.com/track/24XihnoVPWXlKJ4BgXqjVM"
+    },
+    {
+      "album": {
         "name": "The Andy Williams Christmas Album",
         "url": "https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW"
       },
@@ -14056,6 +14168,24 @@
       "duration_ms": 178500,
       "name": "Je me casse",
       "url": "https://open.spotify.com/track/559RWsQqSe4fNUffI9P7mW"
+    },
+    {
+      "album": {
+        "name": "thank you for all the support",
+        "url": "https://open.spotify.com/album/0Lul2mtI4sUKfAEFXWJMSd"
+      },
+      "artists": [
+        {
+          "name": "koira",
+          "url": "https://open.spotify.com/artist/4rL7vju2zGQGrzqkpzkwOo"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127023,
+      "name": "jeesus",
+      "url": "https://open.spotify.com/track/5BqTedQR0QEN7UkyvEKNeS"
     },
     {
       "album": {
@@ -20952,7 +21082,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 174240,
       "name": "maasta taivaaseen",
       "url": "https://open.spotify.com/track/0PWIrADNjGpiXA3EGjIbTW"
@@ -21686,7 +21816,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 148837,
       "name": "Me Vs. Maailma (feat. Sexmane)",
       "url": "https://open.spotify.com/track/6jL8913OKAhtrefgueIRHR"
@@ -23018,6 +23148,28 @@
       "duration_ms": 182946,
       "name": "Mistletoe",
       "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
+    },
+    {
+      "album": {
+        "name": "Miten ihmiset l\u00f6yt\u00e4\u00e4 toisiaan (feat. \u00d6veri)",
+        "url": "https://open.spotify.com/album/4IJcslK1fUBCIDrIBFxUsn"
+      },
+      "artists": [
+        {
+          "name": "ELLIMEI",
+          "url": "https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra"
+        },
+        {
+          "name": "\u00d6veri",
+          "url": "https://open.spotify.com/artist/55ueMDhpCYDmeffxXff2Aw"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199334,
+      "name": "Miten ihmiset l\u00f6yt\u00e4\u00e4 toisiaan (feat. \u00d6veri)",
+      "url": "https://open.spotify.com/track/0NdnLmxqqQZ8hNntW42L9y"
     },
     {
       "album": {
@@ -29162,7 +29314,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 190358,
       "name": "Pysyv\u00e4\u00e4",
       "url": "https://open.spotify.com/track/18H1buVbJxLAYGcUL3sHhe"
@@ -30854,7 +31006,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"
@@ -31698,7 +31850,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 143014,
       "name": "SELVIYTYJ\u00c4",
       "url": "https://open.spotify.com/track/3atnoHWVZSbgeBUMoKXCJG"
@@ -32672,6 +32824,32 @@
       "duration_ms": 175449,
       "name": "Sit\u00e4 mit\u00e4 me oltiin",
       "url": "https://open.spotify.com/track/1Ie6qCuO9yQyoLR2umZnOL"
+    },
+    {
+      "album": {
+        "name": "Sit\u00e4 samaa (feat. Bizi & Robin Packalen)",
+        "url": "https://open.spotify.com/album/20JIHmHkQfrffYJgpEi5lX"
+      },
+      "artists": [
+        {
+          "name": "Danitello",
+          "url": "https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE"
+        },
+        {
+          "name": "Bizi",
+          "url": "https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV"
+        },
+        {
+          "name": "Robin Packalen",
+          "url": "https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176762,
+      "name": "Sit\u00e4 samaa (feat. Bizi & Robin Packalen)",
+      "url": "https://open.spotify.com/track/35poFqiiThWrEIc7DGHvyi"
     },
     {
       "album": {
@@ -35576,7 +35754,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 157279,
       "name": "Taste",
       "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
@@ -35656,7 +35834,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 197027,
       "name": "Taulut (feat. Costi)",
       "url": "https://open.spotify.com/track/6ts28afrgkAWqSAbhkN01U"
@@ -42028,6 +42206,24 @@
       "duration_ms": 199746,
       "name": "Yst\u00e4v\u00e4np\u00e4iv\u00e4 (Vain el\u00e4m\u00e4\u00e4 kausi 12)",
       "url": "https://open.spotify.com/track/5m59t6QEzY5AJKipDMtoJQ"
+    },
+    {
+      "album": {
+        "name": "Y\u00f6t\u00f6n y\u00f6",
+        "url": "https://open.spotify.com/album/7B02QWRfAKJ1D99ld6atac"
+      },
+      "artists": [
+        {
+          "name": "Etta",
+          "url": "https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169091,
+      "name": "Y\u00f6t\u00f6n y\u00f6",
+      "url": "https://open.spotify.com/track/00EI0kIF3M2K4wrxJmsXWF"
     },
     {
       "album": {

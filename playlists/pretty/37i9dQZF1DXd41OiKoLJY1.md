@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Ain't Ashe Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,427 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,437 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 9 | [Ang Nag\-iisa](https://open.spotify.com/track/5c3hmUZrvTJ9VjGzptYD7A) | [Kai del Rio](https://open.spotify.com/artist/5cicp4VpheNjTeBg5xZAwv) | [Ang Nag\-iisa](https://open.spotify.com/album/4DZflYizvpLBeZOuWA3CDo) | 3:35 |
 | 10 | [SABTA](https://open.spotify.com/track/10yBzaxKyOVTTVpHEzBJ4s) | [AV Youngin](https://open.spotify.com/artist/3nzKE4szez13MSHzqr1epl) | [SABTA](https://open.spotify.com/album/6mEOz7K1tDfRCwHoLRPIKH) | 2:40 |
 | 11 | [nightshift](https://open.spotify.com/track/1uRb3voEsiz1hIOMu4NiGO) | [Kite](https://open.spotify.com/artist/1ycsFEXcac5tk7EOVMuQeu) | [nightshift](https://open.spotify.com/album/2LiUbV7d5yRvYG3eZu4Zno) | 3:52 |
-| 12 | [Window](https://open.spotify.com/track/0FVCqYq4URRR0iNTgjK4Z6) | [Kim de Leon](https://open.spotify.com/artist/0tn6KehhAK3maX1LuQgCgp) | [Window](https://open.spotify.com/album/7JBR9SZhxhzU1LdgRqayqx) | 3:56 |
+| 12 | [Window](https://open.spotify.com/track/0FVCqYq4URRR0iNTgjK4Z6) | [Kim De Leon](https://open.spotify.com/artist/3E4jD9GeUEcAxpLYMx2Sps) | [Window](https://open.spotify.com/album/7JBR9SZhxhzU1LdgRqayqx) | 3:56 |
 | 13 | [Hiling](https://open.spotify.com/track/7h5sD8ZsZ3Mcvh4tc6bThD) | [JC Torio](https://open.spotify.com/artist/0uoJZ8fHMx64axPxbkpCt7) | [Hiling](https://open.spotify.com/album/3zRFGzjRn7nCy1RHpQj15R) | 3:30 |
 | 14 | [Eons](https://open.spotify.com/track/1q89Q3vHjt9jo0TqyBRqxA) | [The Ballsbreakers](https://open.spotify.com/artist/28ya8rcHrUDuJaURJvHxyn), [Andoy Patuasic](https://open.spotify.com/artist/6W4g1PWevxgYix9iOyk7eK) | [Eons](https://open.spotify.com/album/2XlBYOfqpE4jIYMBQlFIkj) | 14:13 |
 | 15 | [Sa Lilim Ng 'Yong Pagkalinga](https://open.spotify.com/track/1bAVbDq6SEBMMkPVm8xHxz) | [Katrine Sunga](https://open.spotify.com/artist/0RHwg8W2XIgwidfMBCrLxY) | [Sa Lilim Ng 'Yong Pagkalinga](https://open.spotify.com/album/3aSN6zMiGQFXZ4jkhwpeQX) | 4:37 |

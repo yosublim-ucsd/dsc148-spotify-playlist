@@ -1151,6 +1151,24 @@
     },
     {
       "album": {
+        "name": "ALL RED",
+        "url": "https://open.spotify.com/album/3cdcIcidzGHVQW5e9qQgtx"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148053,
+      "name": "ALL RED",
+      "url": "https://open.spotify.com/track/2cZOYofOX4d6g0OXxkaIjA"
+    },
+    {
+      "album": {
         "name": "IIII",
         "url": "https://open.spotify.com/album/2QC9gnxGo0MnJ98mLTOf6c"
       },
@@ -1400,7 +1418,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
@@ -3718,7 +3736,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 145599,
       "name": "Black Friday (pretty like the sun)",
       "url": "https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco"
@@ -5997,6 +6015,24 @@
     },
     {
       "album": {
+        "name": "v gastru nejsou lidi",
+        "url": "https://open.spotify.com/album/7rPuZ6URXNF2GVh8NS2ulS"
+      },
+      "artists": [
+        {
+          "name": "Nik Tendo",
+          "url": "https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178988,
+      "name": "Cigaretta",
+      "url": "https://open.spotify.com/track/3CoporxIUp03xrVUaKs2H7"
+    },
+    {
+      "album": {
         "name": "Bengoro II",
         "url": "https://open.spotify.com/album/77ay6hjwXyrxwnmuvM0RKJ"
       },
@@ -6939,6 +6975,24 @@
     },
     {
       "album": {
+        "name": "Dancing In The Flames",
+        "url": "https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220036,
+      "name": "Dancing In The Flames",
+      "url": "https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9"
+    },
+    {
+      "album": {
         "name": "american dream",
         "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
       },
@@ -7676,6 +7730,28 @@
       "duration_ms": 207286,
       "name": "Dirty Vans",
       "url": "https://open.spotify.com/track/00m53t4Z0Lf2SdVcsuGwg1"
+    },
+    {
+      "album": {
+        "name": "v gastru nejsou lidi",
+        "url": "https://open.spotify.com/album/7rPuZ6URXNF2GVh8NS2ulS"
+      },
+      "artists": [
+        {
+          "name": "Nik Tendo",
+          "url": "https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h"
+        },
+        {
+          "name": "P T K",
+          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192003,
+      "name": "DISTANC",
+      "url": "https://open.spotify.com/track/7dg2q93qomkGaLINDWjOiO"
     },
     {
       "album": {
@@ -9764,7 +9840,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 162106,
       "name": "Faint",
       "url": "https://open.spotify.com/track/4Yf5bqU3NK4kNOypcrLYwU"
@@ -10020,7 +10096,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 191700,
       "name": "FE!N (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
@@ -16838,7 +16914,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 138246,
       "name": "Kisses (feat. bbyclose)",
       "url": "https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG"
@@ -17250,6 +17326,28 @@
       "duration_ms": 38097,
       "name": "Kung - Skit",
       "url": "https://open.spotify.com/track/3c1CEYlvcQJKJOVYtaBreJ"
+    },
+    {
+      "album": {
+        "name": "v gastru nejsou lidi",
+        "url": "https://open.spotify.com/album/7rPuZ6URXNF2GVh8NS2ulS"
+      },
+      "artists": [
+        {
+          "name": "Nik Tendo",
+          "url": "https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h"
+        },
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141322,
+      "name": "Kung-fu",
+      "url": "https://open.spotify.com/track/0odvlXjOnmtZ6sZ9CIIvbt"
     },
     {
       "album": {
@@ -18676,7 +18774,7 @@
       ],
       "date_added": "2024-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
@@ -18874,7 +18972,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 182293,
       "name": "Love Me Again",
       "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
@@ -20965,6 +21063,24 @@
     },
     {
       "album": {
+        "name": "v gastru nejsou lidi",
+        "url": "https://open.spotify.com/album/7rPuZ6URXNF2GVh8NS2ulS"
+      },
+      "artists": [
+        {
+          "name": "Nik Tendo",
+          "url": "https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103292,
+      "name": "MOSHPIT",
+      "url": "https://open.spotify.com/track/4zoRrZyi0yEeRxcFEm2Tej"
+    },
+    {
+      "album": {
         "name": "PRESIDENT OF SEXICO",
         "url": "https://open.spotify.com/album/3nkaxDNhc38JqBWqvHQACD"
       },
@@ -21090,7 +21206,7 @@
       ],
       "date_added": "2024-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 177598,
       "name": "Move",
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
@@ -21608,7 +21724,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 216825,
       "name": "M\u00e1m \u0165a r\u00e1d",
       "url": "https://open.spotify.com/track/4MjqKyPzValK8cxETj6mJe"
@@ -21670,6 +21786,32 @@
       "duration_ms": 156803,
       "name": "M\u00f4j typ \u017eeny",
       "url": "https://open.spotify.com/track/0OsN3na3JJI2502qObTqsG"
+    },
+    {
+      "album": {
+        "name": "v gastru nejsou lidi",
+        "url": "https://open.spotify.com/album/7rPuZ6URXNF2GVh8NS2ulS"
+      },
+      "artists": [
+        {
+          "name": "Nik Tendo",
+          "url": "https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h"
+        },
+        {
+          "name": "Sara Rikas",
+          "url": "https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo"
+        },
+        {
+          "name": "Luca Brassi10x",
+          "url": "https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157444,
+      "name": "M\u016fj Shit",
+      "url": "https://open.spotify.com/track/3lGNTdyDNDw48crDOu2PN7"
     },
     {
       "album": {
@@ -23298,7 +23440,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 86983,
       "name": "NIGHTS LIKE THIS",
       "url": "https://open.spotify.com/track/1XBYiRV30ykHw5f4wm6qEn"
@@ -24035,6 +24177,24 @@
     },
     {
       "album": {
+        "name": "v gastru nejsou lidi",
+        "url": "https://open.spotify.com/album/7rPuZ6URXNF2GVh8NS2ulS"
+      },
+      "artists": [
+        {
+          "name": "Nik Tendo",
+          "url": "https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111308,
+      "name": "Ob\u011b Strany",
+      "url": "https://open.spotify.com/track/005L1nFVHdbcd7gvtK7zrh"
+    },
+    {
+      "album": {
         "name": "Planeta opic",
         "url": "https://open.spotify.com/album/1lm4K8VIsxdvb6B0Rj6FMl"
       },
@@ -24766,7 +24926,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 155905,
       "name": "Overdrive (feat. Norma Jean Martine)",
       "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
@@ -26015,6 +26175,28 @@
     },
     {
       "album": {
+        "name": "v gastru nejsou lidi",
+        "url": "https://open.spotify.com/album/7rPuZ6URXNF2GVh8NS2ulS"
+      },
+      "artists": [
+        {
+          "name": "Nik Tendo",
+          "url": "https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h"
+        },
+        {
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206518,
+      "name": "Poppins",
+      "url": "https://open.spotify.com/track/64HsuIdv0C9BvG9Y2TYACK"
+    },
+    {
+      "album": {
         "name": "POPSTAR",
         "url": "https://open.spotify.com/album/6GRkEvEJhFa7pt3vNfC6cK"
       },
@@ -26847,6 +27029,28 @@
     },
     {
       "album": {
+        "name": "PANE BO\u017dE DOMINIKA",
+        "url": "https://open.spotify.com/album/1nonAApr1O8womDDtBwGYF"
+      },
+      "artists": [
+        {
+          "name": "Call Dominika",
+          "url": "https://open.spotify.com/artist/6EBKq4KCXExYanXleLzIVT"
+        },
+        {
+          "name": "Separ",
+          "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163862,
+      "name": "prvotriedna dr\u00e1ma",
+      "url": "https://open.spotify.com/track/0tXf2NrAsmeYEhYuIhisSk"
+    },
+    {
+      "album": {
         "name": "Zlomky poznania",
         "url": "https://open.spotify.com/album/4NfkrXGqY19djTmWcyXtUU"
       },
@@ -27280,6 +27484,24 @@
       "duration_ms": 134237,
       "name": "P\u0159\u00edb\u011bhy, sny",
       "url": "https://open.spotify.com/track/2LuBVfML3jK93lgUVF6ZjO"
+    },
+    {
+      "album": {
+        "name": "v gastru nejsou lidi",
+        "url": "https://open.spotify.com/album/7rPuZ6URXNF2GVh8NS2ulS"
+      },
+      "artists": [
+        {
+          "name": "Nik Tendo",
+          "url": "https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187686,
+      "name": "P\u0159\u00edsah\u00e1m Na B\u016fh / Tutto Passa",
+      "url": "https://open.spotify.com/track/7CzCgAIc7H5TzZtxUAo6cT"
     },
     {
       "album": {
@@ -27996,6 +28218,28 @@
       "duration_ms": 248177,
       "name": "Reputation",
       "url": "https://open.spotify.com/track/67dU06KGaJHLLlo5Y5bkD2"
+    },
+    {
+      "album": {
+        "name": "Rest In Piss",
+        "url": "https://open.spotify.com/album/24nAN0gQnSpP1nLz0mfH5I"
+      },
+      "artists": [
+        {
+          "name": "Dollar Prync",
+          "url": "https://open.spotify.com/artist/3qoxj1cR3W3crV51Wg38Ux"
+        },
+        {
+          "name": "Ektor",
+          "url": "https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151666,
+      "name": "Rest In Piss",
+      "url": "https://open.spotify.com/track/237OELq03CgubC3t7LwvUq"
     },
     {
       "album": {
@@ -32972,7 +33216,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 157279,
       "name": "Taste",
       "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
@@ -38209,6 +38453,24 @@
     },
     {
       "album": {
+        "name": "v gastru nejsou lidi",
+        "url": "https://open.spotify.com/album/7rPuZ6URXNF2GVh8NS2ulS"
+      },
+      "artists": [
+        {
+          "name": "Nik Tendo",
+          "url": "https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138244,
+      "name": "Zaj\u00edm\u00e1 M\u011b",
+      "url": "https://open.spotify.com/track/2qA43s1lwYAtiYa1Y3lOU7"
+    },
+    {
+      "album": {
         "name": "HELLO",
         "url": "https://open.spotify.com/album/5akSi8KeQSvXTzeKH6ySOi"
       },
@@ -39000,7 +39262,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 168000,
       "name": "\u0160ed\u00e1 Hus",
       "url": "https://open.spotify.com/track/6WQ5JDm2NMlixD2C82Hk4g"

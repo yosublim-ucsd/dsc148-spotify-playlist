@@ -1,12 +1,12 @@
 {
-  "description": "This is Codiciado. The essential tracks, all in one playlist.",
-  "num_followers": 31137,
+  "description": "This Is Codiciado. Los temas esenciales, todos en una lista.",
+  "num_followers": 31173,
   "original_name": "This Is Codiciado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuIvAAAAAAArTndAnACcFj+4syNoX72y",
+  "snapshot_id": "ZuOAgAAAAAB42xerBl2D//lLYURr8S5K",
   "tracks": [
     {
       "added_at": null,
@@ -583,6 +583,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Te Vi",
+        "url": "https://open.spotify.com/album/2PCuFmC6h5LsRkkcC3Rj5x"
+      },
+      "artists": [
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 162169,
+      "name": "Te Vi",
+      "url": "https://open.spotify.com/track/06ktBWApwhIZrGELDHi4sN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gabachas",
         "url": "https://open.spotify.com/album/4TOQI9fuLr1WOpJ1GSFrJJ"
       },
@@ -603,26 +623,6 @@
       "duration_ms": 127920,
       "name": "Gabachas",
       "url": "https://open.spotify.com/track/2R0ElsGmqt2dWLHWcRMbeN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Te Vi",
-        "url": "https://open.spotify.com/album/2PCuFmC6h5LsRkkcC3Rj5x"
-      },
-      "artists": [
-        {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
-        },
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 162169,
-      "name": "Te Vi",
-      "url": "https://open.spotify.com/track/06ktBWApwhIZrGELDHi4sN"
     },
     {
       "added_at": null,

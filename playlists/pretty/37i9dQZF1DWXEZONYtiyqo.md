@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 
 > Cele mai noi hituri pop românești\. Cover: Liviu Teodorescu, Roxen
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,720 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,732 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 | 7 | [Mă întorc acasă](https://open.spotify.com/track/1JMncfAtFYW1CO1LMk0sUE) | [Andra](https://open.spotify.com/artist/72FGvJgYbs0NBeJqECy6cF) | [Mă întorc acasă](https://open.spotify.com/album/53aZOvK44O5ZLcTQ3UEQGN) | 2:45 |
 | 8 | [Să curgă șampania](https://open.spotify.com/track/7AOQGl6KHXylqTqrvszSie) | [JO](https://open.spotify.com/artist/3ArPP8R2oGr81W8i4XBPpP) | [Să curgă șampania](https://open.spotify.com/album/5qbuhRXNNuH1QdBNiyGX4k) | 2:58 |
 | 9 | [Ploi de Tequila](https://open.spotify.com/track/58RcJ7zq7TbTKMmPH0vFzT) | [Antonia](https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn) | [Ploi de Tequila](https://open.spotify.com/album/2T5vkNSWya1yLgmzD57QQk) | 2:26 |
-| 10 | [No Plan](https://open.spotify.com/track/426EQYakBJ0OxDqpODtBiB) | [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK) | [No Plan \- Yo](https://open.spotify.com/album/6ohx9fQRjPxDphtPwgGyob) | 2:55 |
+| 10 | [No Plan \- Yo](https://open.spotify.com/track/426EQYakBJ0OxDqpODtBiB) | [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK) | [No Plan \- Yo](https://open.spotify.com/album/6ohx9fQRjPxDphtPwgGyob) | 2:55 |
 | 11 | [E Româncă](https://open.spotify.com/track/3NQB3bz9WQS1uItTsheAxL) | [MIRA](https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59), [Juno](https://open.spotify.com/artist/2oCQSda6vA1t27B5RWXYwb) | [E Româncă](https://open.spotify.com/album/5zoPt9fepkgmTZfPspLMta) | 3:02 |
 | 12 | [Iubire cu parfum de lavandă](https://open.spotify.com/track/24uvX3TV4BpxgGvaIDWdzT) | [Juno](https://open.spotify.com/artist/2oCQSda6vA1t27B5RWXYwb) | [Iubire cu parfum de lavandă](https://open.spotify.com/album/4uxK4MDS3eUXtZAZI8WU9L) | 2:32 |
 | 13 | [Pământul](https://open.spotify.com/track/0ncnKarpjnFDaeUg15Nq46) | [The Urs](https://open.spotify.com/artist/6EVlSwtMryO0bo1q1eWzfY) | [Pământul](https://open.spotify.com/album/6AHTpDe8SFo1iuQS7Dk47x) | 2:51 |

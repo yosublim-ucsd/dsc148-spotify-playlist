@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "This Is Jamiroquai. Los temas esenciales, todos en una lista.",
+  "description": "This is Jamiroquai. The essential tracks, all in one playlist.",
   "name": "This Is Jamiroquai",
   "tracks": [
     {
@@ -572,7 +572,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 279213,
       "name": "Lifeline",
       "url": "https://open.spotify.com/track/0BUL18qo9Br1PhG1n6vEJ5"
@@ -648,7 +648,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-14",
+      "date_removed": null,
       "duration_ms": 382000,
       "name": "Manifest Destiny",
       "url": "https://open.spotify.com/track/64BvrMFmtPSFSVK5aiJ1b6"

@@ -1,6 +1,6 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: Ivan & The Parazol",
-  "num_followers": 13616,
+  "num_followers": 13620,
   "original_name": "Nemazapop",
   "owner": {
     "name": "Spotify",
@@ -192,12 +192,12 @@
       },
       "artists": [
         {
-          "name": "WaTa",
-          "url": "https://open.spotify.com/artist/0y4UlAL3MRNRaPWGzZrmT0"
-        },
-        {
           "name": "OIEE",
           "url": "https://open.spotify.com/artist/2ns47ulOmmJQtO0HMIIMUY"
+        },
+        {
+          "name": "WaTa",
+          "url": "https://open.spotify.com/artist/0y4UlAL3MRNRaPWGzZrmT0"
         },
         {
           "name": "Musa.s",
@@ -527,18 +527,22 @@
     {
       "added_at": "2024-09-13 12:29:26",
       "album": {
-        "name": "Sz\u00f6rny vagyok",
-        "url": "https://open.spotify.com/album/5JJgpHyOAnaceUH0RKmmI7"
+        "name": "Holnapt\u00f3l",
+        "url": "https://open.spotify.com/album/3SsL4cNOFjtFq0UZ9kalkE"
       },
       "artists": [
         {
-          "name": "cserihanna",
-          "url": "https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl"
+          "name": "Moln\u00e1r Tam\u00e1s",
+          "url": "https://open.spotify.com/artist/50ktSO1tNyaOAn7mC2lOWm"
+        },
+        {
+          "name": "Filo",
+          "url": "https://open.spotify.com/artist/2pWeXE1GbI1qweHZHZi4Ee"
         }
       ],
-      "duration_ms": 182952,
-      "name": "Sz\u00f6rny vagyok",
-      "url": "https://open.spotify.com/track/5UohwFbuHzx3Uqm3yf8wnU"
+      "duration_ms": 180000,
+      "name": "Holnapt\u00f3l",
+      "url": "https://open.spotify.com/track/0e3U5Dd7IMcMAamZn4C9eK"
     },
     {
       "added_at": "2024-09-13 12:29:26",
@@ -559,22 +563,18 @@
     {
       "added_at": "2024-09-13 12:29:26",
       "album": {
-        "name": "Holnapt\u00f3l",
-        "url": "https://open.spotify.com/album/3SsL4cNOFjtFq0UZ9kalkE"
+        "name": "Sz\u00f6rny vagyok",
+        "url": "https://open.spotify.com/album/5JJgpHyOAnaceUH0RKmmI7"
       },
       "artists": [
         {
-          "name": "Moln\u00e1r Tam\u00e1s",
-          "url": "https://open.spotify.com/artist/50ktSO1tNyaOAn7mC2lOWm"
-        },
-        {
-          "name": "Filo",
-          "url": "https://open.spotify.com/artist/2pWeXE1GbI1qweHZHZi4Ee"
+          "name": "cserihanna",
+          "url": "https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Holnapt\u00f3l",
-      "url": "https://open.spotify.com/track/0e3U5Dd7IMcMAamZn4C9eK"
+      "duration_ms": 182952,
+      "name": "Sz\u00f6rny vagyok",
+      "url": "https://open.spotify.com/track/5UohwFbuHzx3Uqm3yf8wnU"
     },
     {
       "added_at": "2024-09-13 12:29:26",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-09-13 12:29:26",
       "album": {
-        "name": "Egy popzen\u00e9sz nyara",
-        "url": "https://open.spotify.com/album/4OXvRvtNI7iw9nj47ykx5R"
-      },
-      "artists": [
-        {
-          "name": "Blahalouisiana",
-          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
-        }
-      ],
-      "duration_ms": 105000,
-      "name": "Egy popzen\u00e9sz nyara",
-      "url": "https://open.spotify.com/track/0RmI4rRWEUiXfci07vejD0"
-    },
-    {
-      "added_at": "2024-09-13 12:29:26",
-      "album": {
         "name": "Bel\u0151led k\u00e9rek m\u00e9g",
         "url": "https://open.spotify.com/album/0Ii5ZKcMywLiVSnSH2xS3c"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 162187,
       "name": "Bel\u0151led k\u00e9rek m\u00e9g",
       "url": "https://open.spotify.com/track/3kX4wTtVsTYainD2PzEqMb"
+    },
+    {
+      "added_at": "2024-09-13 12:29:26",
+      "album": {
+        "name": "Egy popzen\u00e9sz nyara",
+        "url": "https://open.spotify.com/album/4OXvRvtNI7iw9nj47ykx5R"
+      },
+      "artists": [
+        {
+          "name": "Blahalouisiana",
+          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
+        }
+      ],
+      "duration_ms": 105000,
+      "name": "Egy popzen\u00e9sz nyara",
+      "url": "https://open.spotify.com/track/0RmI4rRWEUiXfci07vejD0"
     },
     {
       "added_at": "2024-09-13 12:29:26",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2024-09-13 12:29:26",
       "album": {
+        "name": "Different",
+        "url": "https://open.spotify.com/album/1zObClZJYxlQHXXADFlgn6"
+      },
+      "artists": [
+        {
+          "name": "NOIRA",
+          "url": "https://open.spotify.com/artist/0UWpD8yCQsAW8g5hL7AtKo"
+        }
+      ],
+      "duration_ms": 221062,
+      "name": "Different",
+      "url": "https://open.spotify.com/track/6y3DLeTH3Z5fghsahBZDLE"
+    },
+    {
+      "added_at": "2024-09-13 12:29:26",
+      "album": {
         "name": "Unnom k\u00e9ne",
         "url": "https://open.spotify.com/album/2wCElNNdcPBIH4pyTqKTVI"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 184000,
       "name": "beleszakad",
       "url": "https://open.spotify.com/track/5Y6ouyWbwZHou41ZwauH0W"
-    },
-    {
-      "added_at": "2024-09-13 12:29:26",
-      "album": {
-        "name": "Different",
-        "url": "https://open.spotify.com/album/1zObClZJYxlQHXXADFlgn6"
-      },
-      "artists": [
-        {
-          "name": "NOIRA",
-          "url": "https://open.spotify.com/artist/0UWpD8yCQsAW8g5hL7AtKo"
-        }
-      ],
-      "duration_ms": 221062,
-      "name": "Different",
-      "url": "https://open.spotify.com/track/6y3DLeTH3Z5fghsahBZDLE"
     },
     {
       "added_at": "2024-09-13 12:29:26",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-09-13 12:29:26",
       "album": {
-        "name": "Ez vagyok \u00e9n",
-        "url": "https://open.spotify.com/album/4CBzKmewWaLtHfcQkFr7sK"
-      },
-      "artists": [
-        {
-          "name": "STAiR",
-          "url": "https://open.spotify.com/artist/4mNut2kfqMUk0q8cF975Ai"
-        }
-      ],
-      "duration_ms": 97263,
-      "name": "Ez vagyok \u00e9n",
-      "url": "https://open.spotify.com/track/40blJ4UYkDgvbsAkvee9Lq"
-    },
-    {
-      "added_at": "2024-09-13 12:29:26",
-      "album": {
         "name": "Engem szeretni neh\u00e9z",
         "url": "https://open.spotify.com/album/0xzTy11q0KuvPg9roMMRhP"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 242803,
       "name": "Engem szeretni neh\u00e9z",
       "url": "https://open.spotify.com/track/4Mamklib5ugFYkndshmeif"
+    },
+    {
+      "added_at": "2024-09-13 12:29:26",
+      "album": {
+        "name": "Ez vagyok \u00e9n",
+        "url": "https://open.spotify.com/album/4CBzKmewWaLtHfcQkFr7sK"
+      },
+      "artists": [
+        {
+          "name": "STAiR",
+          "url": "https://open.spotify.com/artist/4mNut2kfqMUk0q8cF975Ai"
+        }
+      ],
+      "duration_ms": 97263,
+      "name": "Ez vagyok \u00e9n",
+      "url": "https://open.spotify.com/track/40blJ4UYkDgvbsAkvee9Lq"
     },
     {
       "added_at": "2024-09-13 12:29:26",

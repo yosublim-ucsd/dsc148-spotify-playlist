@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: sept\-oct 2024 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 21,269 likes - 17 songs - 53 min 10 sec
+[margeaux](https://open.spotify.com/user/1220511975) - 21,275 likes - 18 songs - 55 min 10 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,5 +25,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 15 | [Hallelujah Bruv](https://open.spotify.com/track/0oyOsaqUQhvZH7Dfavot0g) | [Tapir!](https://open.spotify.com/artist/7dYpljfleToKnSmBFqjqkd) | [Hallelujah Bruv](https://open.spotify.com/album/2XOlDfipPw0DbVptNQlFsd) | 2:01 |
 | 16 | [Himmel](https://open.spotify.com/track/2VSkFvTEK9R7AsrWRLp8ON) | [Ebbb](https://open.spotify.com/artist/2LikjKVyI5gqANlB9S7DNW) | [Himmel / Swarm](https://open.spotify.com/album/63Fj5OB3G8u7LZsYADylFd) | 3:29 |
 | 17 | [I'm So Serious](https://open.spotify.com/track/6JKbThcH863nxdmTtzbCLr) | [Daryl Johns](https://open.spotify.com/artist/7K48RaFMB6BhTLc0KspbTh) | [I'm So Serious](https://open.spotify.com/album/5m2uYclmYUb6UScDXXfosC) | 3:42 |
+| 18 | [My Valuable Hunting Knife](https://open.spotify.com/track/4W5xR9p6Qa5kqUuDIcdvKD) | [Guided By Voices](https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl) | [Alien Lanes](https://open.spotify.com/album/4QV8iMlscaIpidQHcErzbE) | 2:00 |
 
-Snapshot ID: `AAAK/GgFqQ8oRPyIGj31dBBrMRVO+NJN`
+Snapshot ID: `AAAK/duqH3OBRqnAs1dsy+mB/ES6mE3H`

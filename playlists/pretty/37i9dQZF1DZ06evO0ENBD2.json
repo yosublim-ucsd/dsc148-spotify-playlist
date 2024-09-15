@@ -1,12 +1,12 @@
 {
   "description": "This is Queen. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 4887445,
+  "num_followers": 4887755,
   "original_name": "This Is Queen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuIvAAAAAAB79lTFuAXGU3SWha7mKUoW",
+  "snapshot_id": "ZuOAgAAAAABPfpF5undi43NbtIfPHHoJ",
   "tracks": [
     {
       "added_at": null,
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 67400,
-      "name": "Lazing On A Sunday Afternoon - Remastered 2011",
-      "url": "https://open.spotify.com/track/3TsxbTSAucA1gNlYH36S4c"
+      "duration_ms": 210800,
+      "name": "'39 - Remastered 2011",
+      "url": "https://open.spotify.com/track/65NTcXUtOb27NHKQ4fAcw0"
     },
     {
       "added_at": null,
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 210800,
-      "name": "'39 - Remastered 2011",
-      "url": "https://open.spotify.com/track/65NTcXUtOb27NHKQ4fAcw0"
+      "duration_ms": 67400,
+      "name": "Lazing On A Sunday Afternoon - Remastered 2011",
+      "url": "https://open.spotify.com/track/3TsxbTSAucA1gNlYH36S4c"
     },
     {
       "added_at": null,

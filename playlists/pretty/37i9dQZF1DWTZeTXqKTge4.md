@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: Lost
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,792 likes - 75 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,808 likes - 75 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Parades Photos](https://open.spotify.com/track/7wc9odIwuIGgPnRpEHEd5B) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [Bonhomme Pendu 4 \(Chapitre Perdu\)](https://open.spotify.com/album/5JWAUtRoJ0Lp2PLy7cn4it) | 3:58 |
 | 2 | [Ceci n'est pas une chanson triste](https://open.spotify.com/track/4vFsK1nytpiiq0pT6m1dQ3) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Ceci n'est pas une chanson triste](https://open.spotify.com/album/7oJcVkwvFeRpLXABS2FZuX) | 3:50 |
-| 3 | [Ma pref](https://open.spotify.com/track/6Jk0HOH7Qrr6xbNf5xTKGi) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [Naomi](https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo) | [Ma pref](https://open.spotify.com/album/1r18lQrF1s9xhZecqOUJ2d) | 3:20 |
+| 3 | [Ma pref](https://open.spotify.com/track/6Jk0HOH7Qrr6xbNf5xTKGi) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [Naomi](https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo) | [Ma pref](https://open.spotify.com/album/1r18lQrF1s9xhZecqOUJ2d) | 3:17 |
 | 4 | [Whats Up](https://open.spotify.com/track/17PppiRm7vQzcgliKiymv5) | [TJ DTS](https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe) | [Whats Up](https://open.spotify.com/album/6ByTfxuCiamXKX5HbMT8OE) | 2:47 |
 | 5 | [Bodies N Vvs](https://open.spotify.com/track/6btO1MqMZb8Qva7MrnXmrC) | [Zinera](https://open.spotify.com/artist/5wrFfjvRhrVdGQlaVr0Svn) | [Mr Fastlife](https://open.spotify.com/album/6tvyItVXcqoFjrefEk60O4) | 2:58 |
 | 6 | [Chez moi](https://open.spotify.com/track/6sLrf1TQv9cR8oJaDfkaUe) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [Manu Militari](https://open.spotify.com/artist/5hCqDsqqIaYbJhWoZ0JhaE) | [Bonhomme Pendu 4 \(Chapitre Perdu\)](https://open.spotify.com/album/5JWAUtRoJ0Lp2PLy7cn4it) | 3:52 |

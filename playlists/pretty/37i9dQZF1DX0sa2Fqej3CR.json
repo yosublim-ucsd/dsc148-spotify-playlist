@@ -1,35 +1,15 @@
 {
   "description": "\uac00\uc7a5 \uc18c\uc911\ud55c \ub0b4 \ud3b8 - \uac00\uc871\ub4e4\uc744 \uc0dd\uac01\ud558\uba70 \uace1\uc744 \uac10\uc0c1\ud574\ubcf4\uc138\uc694. (\ucee4\ubc84: ???)",
-  "num_followers": 173,
+  "num_followers": 178,
   "original_name": "\uac00\uc871 \uc0ac\uc9c4",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuRTcAAAAABj1dzB16IFoyFWdJDQ8hW/",
+  "snapshot_id": "ZuY1vQAAAAAIYfQvoKAVAFLPuvbkwqhX",
   "tracks": [
     {
-      "added_at": "2024-09-13 15:00:00",
-      "album": {
-        "name": "Family Love",
-        "url": "https://open.spotify.com/album/2OcBY84oimO731dGYSELhs"
-      },
-      "artists": [
-        {
-          "name": "\uaf2c\ub9c8\uacac(Ggomagyun)",
-          "url": "https://open.spotify.com/artist/10w8K7zTMeKA1asBNvIGzG"
-        },
-        {
-          "name": "Yaein",
-          "url": "https://open.spotify.com/artist/3ACBPowC8XZYkh4JjFzwgQ"
-        }
-      ],
-      "duration_ms": 185919,
-      "name": "\uc5c4\ub9c8 \uc0dd\uac01",
-      "url": "https://open.spotify.com/track/0ls9JTv3X9QATrSQDdj56c"
-    },
-    {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "Last Days",
         "url": "https://open.spotify.com/album/68lIkpI3rmCFbjR0FKytTp"
@@ -49,7 +29,7 @@
       "url": "https://open.spotify.com/track/1UVA0j0lkxiq8bqnVsYQZ1"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "Family Portrait (2020)",
         "url": "https://open.spotify.com/album/6CAokph2LxSwTMczzgfeFu"
@@ -65,7 +45,7 @@
       "url": "https://open.spotify.com/track/4Nk5zLRi4lmYpeJF7fpPwK"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "\uc591\ud654\ub300\uad50 (Yanghwa Brdg) - Single",
         "url": "https://open.spotify.com/album/06ngphQtoWwkns4H1tpXnq"
@@ -81,7 +61,7 @@
       "url": "https://open.spotify.com/track/0AO2yQNGcH0ASHHU5lS4lT"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "Seven,(\uc138\ube10 \ucf64\ub9c8) <\uae30\uc5b5\uc744 \uc815\ub9ac\ud558\uba70...>",
         "url": "https://open.spotify.com/album/6BKm7oswqYqeshbi9bpBwL"
@@ -97,7 +77,7 @@
       "url": "https://open.spotify.com/track/1cG3HzvpUVegXwpEG9pYG7"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "wonderlust",
         "url": "https://open.spotify.com/album/2pgzGj9PQ4nhc1l3NBlATj"
@@ -113,7 +93,7 @@
       "url": "https://open.spotify.com/track/6R9kPPbdTesxID7CtCAfvC"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "Mother",
         "url": "https://open.spotify.com/album/43g68A9Q4Xltflzp3XwfLQ"
@@ -129,7 +109,27 @@
       "url": "https://open.spotify.com/track/0md3x2yZXAkXeK3Pw7Sgfh"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
+      "album": {
+        "name": "Family Love",
+        "url": "https://open.spotify.com/album/2OcBY84oimO731dGYSELhs"
+      },
+      "artists": [
+        {
+          "name": "\uaf2c\ub9c8\uacac(Ggomagyun)",
+          "url": "https://open.spotify.com/artist/10w8K7zTMeKA1asBNvIGzG"
+        },
+        {
+          "name": "Yaein",
+          "url": "https://open.spotify.com/artist/3ACBPowC8XZYkh4JjFzwgQ"
+        }
+      ],
+      "duration_ms": 185919,
+      "name": "\uc5c4\ub9c8 \uc0dd\uac01",
+      "url": "https://open.spotify.com/track/0ls9JTv3X9QATrSQDdj56c"
+    },
+    {
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "Mom In The Garden",
         "url": "https://open.spotify.com/album/4NrgKe8TVSqtqoADcp7xQQ"
@@ -145,7 +145,7 @@
       "url": "https://open.spotify.com/track/31SalwIu5SbRarZZ5khuPY"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "Last Days",
         "url": "https://open.spotify.com/album/68lIkpI3rmCFbjR0FKytTp"
@@ -165,7 +165,7 @@
       "url": "https://open.spotify.com/track/4M9GqvIXtqPADntPncPTfv"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "MBN MISS BACK Part.2",
         "url": "https://open.spotify.com/album/016HQsnxsoYfT2RlO4659g"
@@ -185,7 +185,7 @@
       "url": "https://open.spotify.com/track/7ta151FpY1tdSesH8tCPrm"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "Family",
         "url": "https://open.spotify.com/album/3HTihlNuWSPglGitQ7dQ3H"
@@ -205,7 +205,7 @@
       "url": "https://open.spotify.com/track/36PJlu7LbBOfbN3nIVsQPE"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "REMAKE & MIX No. 18",
         "url": "https://open.spotify.com/album/2xdJzg2ig5qzKFxZOR3CLa"
@@ -221,7 +221,7 @@
       "url": "https://open.spotify.com/track/1aWdXiGb6a36XTef7Ralxw"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "Chapter 1",
         "url": "https://open.spotify.com/album/7nXgDEsZZdp3ri3WtDNS8v"
@@ -237,7 +237,7 @@
       "url": "https://open.spotify.com/track/3731F2mROqxhXB4gtdteLn"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
         "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
@@ -253,7 +253,7 @@
       "url": "https://open.spotify.com/track/0p4AJ91CdS1k8ibpguPJg5"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "Let's eat",
         "url": "https://open.spotify.com/album/44AGj4PVacFYWa2N9Uc0tD"
@@ -269,7 +269,7 @@
       "url": "https://open.spotify.com/track/6AuBnYBgy9kbSR2lNa1X02"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "\uc778\uc21c\uc774",
         "url": "https://open.spotify.com/album/2fdeLt66Qis4rWCYxWI8ro"
@@ -285,7 +285,7 @@
       "url": "https://open.spotify.com/track/65CsHu5irn1DEVwcB7lkgt"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "IM HERO",
         "url": "https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43"
@@ -301,7 +301,7 @@
       "url": "https://open.spotify.com/track/365znJ27Fb3faGsctmQYWR"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "Half Sixty",
         "url": "https://open.spotify.com/album/2hO3Uu1QsJNVfSJ24MZ5du"
@@ -317,7 +317,7 @@
       "url": "https://open.spotify.com/track/7gQTIcjauUtqhRA7w0Pf2c"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "Daddy's Daughter",
         "url": "https://open.spotify.com/album/4TJglXUjqL36i9Ua772Shy"
@@ -333,7 +333,7 @@
       "url": "https://open.spotify.com/track/4uFftok6WkuWWQDLN9d0RU"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "Mama's dream",
         "url": "https://open.spotify.com/album/1RswNioD0fOrZ1J6IWpVqe"
@@ -349,7 +349,7 @@
       "url": "https://open.spotify.com/track/4kuD6aEWQCiflEUYvre769"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "A Mother\u2019s Fear",
         "url": "https://open.spotify.com/album/6jZWt0bIqs4O8vTMKndYpv"
@@ -365,7 +365,7 @@
       "url": "https://open.spotify.com/track/0DffMF7OZ4FztRUI9ssARg"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "home",
         "url": "https://open.spotify.com/album/3CheZaNlAZvl0uCjfgPtF5"
@@ -381,7 +381,7 @@
       "url": "https://open.spotify.com/track/3jG8a4wuhuMz4BQ80t5uY4"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "Mom",
         "url": "https://open.spotify.com/album/4TNELYnbl0wPEg81pTQimm"
@@ -397,7 +397,7 @@
       "url": "https://open.spotify.com/track/7bGQ0dO8Phe5kcx6HkwwuT"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "It's Love",
         "url": "https://open.spotify.com/album/6hGS0SMpGDMqTKA5hlN2CK"
@@ -417,7 +417,7 @@
       "url": "https://open.spotify.com/track/4OVDKqEHyHGooHPNJP0cQK"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "Orchid",
         "url": "https://open.spotify.com/album/5bgIq10LAmMuagnq8qOmiZ"
@@ -433,7 +433,7 @@
       "url": "https://open.spotify.com/track/3SHWZfmeWMQ7nummOHjtLP"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "To parents",
         "url": "https://open.spotify.com/album/4nOJJIJW2Qw2MPnTCk21hF"
@@ -449,7 +449,7 @@
       "url": "https://open.spotify.com/track/4yZHOTIfmmvZGEBvCuwUaK"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "Where the Good Ones Go",
         "url": "https://open.spotify.com/album/0X5HGu7Zsa4usObo0qkeyx"
@@ -465,7 +465,7 @@
       "url": "https://open.spotify.com/track/4ysvpmchtmyJcOwSyvIGg4"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "For my family",
         "url": "https://open.spotify.com/album/2E1B20f6s1rXIefERaSEMx"
@@ -481,7 +481,7 @@
       "url": "https://open.spotify.com/track/1FdqYUmL94pC7JHkAM4gWS"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "END OF PUBERTY",
         "url": "https://open.spotify.com/album/3uOT0XBkp1JZeMBydK62Fj"
@@ -497,7 +497,7 @@
       "url": "https://open.spotify.com/track/3Q6xaSbm7iJwHJCtpk1si2"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "you my blue",
         "url": "https://open.spotify.com/album/03oEcO2FMxiJJPU9ZfT1dc"
@@ -517,7 +517,7 @@
       "url": "https://open.spotify.com/track/6VrVB3BNd0zflmgs3CODCK"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "Behind the camera",
         "url": "https://open.spotify.com/album/7JPpktvZ0OGvK0m3TkMQbY"
@@ -533,7 +533,7 @@
       "url": "https://open.spotify.com/track/1RAX3WtuQY3TyktqzAdUH8"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "Handwritten Letter",
         "url": "https://open.spotify.com/album/0IaMQAr3gsbhclrpLFfcOi"
@@ -549,7 +549,7 @@
       "url": "https://open.spotify.com/track/39ouEmqGOKJZ1V5kQkgu1x"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "Wish You Were Here",
         "url": "https://open.spotify.com/album/5MgtnDKyeSkXEkKu5u82gr"
@@ -565,7 +565,7 @@
       "url": "https://open.spotify.com/track/47jhKD8sm2I3Aoktj4G5J8"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "Rest in Peace Mama (feat. Beta)",
         "url": "https://open.spotify.com/album/0pQP9tKyQGWIOpVVqsd6wn"
@@ -585,7 +585,7 @@
       "url": "https://open.spotify.com/track/1N58DOjMdM0lZknbb7e5pC"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "Words of Wisdom",
         "url": "https://open.spotify.com/album/6ZeWlNzAQfkaaQDK5VK0L7"
@@ -601,7 +601,7 @@
       "url": "https://open.spotify.com/track/1s2FOsNIZNM6u3scHunCyT"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "Dear.Mom",
         "url": "https://open.spotify.com/album/6mwxSRmrwdN9v5byrrau7Y"
@@ -617,7 +617,7 @@
       "url": "https://open.spotify.com/track/22NYptprcZ5NKgz6gj6pYw"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "Hyehwa",
         "url": "https://open.spotify.com/album/3XiygG9mLV64ZgsXfMlPiL"
@@ -633,7 +633,7 @@
       "url": "https://open.spotify.com/track/6ytG5J2bUPGTQG4kWVfBg5"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "\ub9c8\ub9c8\ub77c\uce58",
         "url": "https://open.spotify.com/album/6g2x9lotSBbM5xK7wdzFIm"
@@ -649,7 +649,7 @@
       "url": "https://open.spotify.com/track/7CbY54gzrywVMlpdf3oqjm"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "Brother and Me",
         "url": "https://open.spotify.com/album/1NT2USU3SJ6CekcKms3Vtw"
@@ -665,7 +665,7 @@
       "url": "https://open.spotify.com/track/78EzhVVAQCO4B1ifko8w66"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "Repeat",
         "url": "https://open.spotify.com/album/7d1TxiaJCAXcn3HWXzzaSJ"
@@ -681,7 +681,7 @@
       "url": "https://open.spotify.com/track/1FiCIRCqYaV4Z44usUF2Rl"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "Stay As You Are",
         "url": "https://open.spotify.com/album/6DKfXf0BVP9R5BcOuD1mfo"
@@ -697,7 +697,7 @@
       "url": "https://open.spotify.com/track/2RfKK8yPAQGOQjIVBW1h9o"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "Mom's Song",
         "url": "https://open.spotify.com/album/6ykPfduR5ObD0CtaDyPcjH"
@@ -713,7 +713,7 @@
       "url": "https://open.spotify.com/track/7CJbZmT4LZmlyUUCKuPC31"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "We Are Family",
         "url": "https://open.spotify.com/album/4e0v16WqKxXCl822Srrkeq"
@@ -729,7 +729,7 @@
       "url": "https://open.spotify.com/track/0IhrwXA3LrbFzPZDOgkmeO"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "Grandmother",
         "url": "https://open.spotify.com/album/0COlaugnLAeKA3x6xlaLEc"
@@ -745,7 +745,7 @@
       "url": "https://open.spotify.com/track/4nwKAIKB8SLRDSPNZzpIir"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "Happy",
         "url": "https://open.spotify.com/album/7cChgZm0N8RzpywTsZgwSJ"
@@ -761,7 +761,7 @@
       "url": "https://open.spotify.com/track/2e54r5LwMxDLRggzT25GqJ"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "ANGELS",
         "url": "https://open.spotify.com/album/1rGLCl441U8QbWx4k0HUlT"
@@ -777,7 +777,7 @@
       "url": "https://open.spotify.com/track/2HwSgp64Nrmf1Ju7P9uAVr"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "Happy",
         "url": "https://open.spotify.com/album/7cChgZm0N8RzpywTsZgwSJ"
@@ -793,7 +793,7 @@
       "url": "https://open.spotify.com/track/3QfiySfGzrB9GzO9PiXkti"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "I AM SAM",
         "url": "https://open.spotify.com/album/0etVkROh5WOl6OdYqRHPP9"
@@ -809,7 +809,7 @@
       "url": "https://open.spotify.com/track/6OlBrkfk1xnx2N350Ib8aP"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "Seenroot's Wonderland",
         "url": "https://open.spotify.com/album/2jpYDOlZPBWm1a363LwM5b"
@@ -825,7 +825,7 @@
       "url": "https://open.spotify.com/track/031ZYKEP6rpRKkSNwRvjbK"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "Graduation",
         "url": "https://open.spotify.com/album/0lVWUc9umG4kW4ZdClfj5l"
@@ -841,7 +841,7 @@
       "url": "https://open.spotify.com/track/6KnN66EkaBplEqTTJyLUtp"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "Dream",
         "url": "https://open.spotify.com/album/2G6b8wax6wLnR6zMixJCfA"
@@ -857,7 +857,7 @@
       "url": "https://open.spotify.com/track/112tJrUs0jrIvZZ9YC63dN"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "ritardando",
         "url": "https://open.spotify.com/album/4SGgvsBC0EheGFEp56j2nf"
@@ -873,7 +873,7 @@
       "url": "https://open.spotify.com/track/4SxFj20R2EhCK5aJITxShH"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "Like a mother",
         "url": "https://open.spotify.com/album/3NnJO34y3nivG5YlryMKKm"
@@ -893,7 +893,7 @@
       "url": "https://open.spotify.com/track/5oXO15C4k82c6GcRIr3xJT"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "The Sandwich Artist",
         "url": "https://open.spotify.com/album/4qCXJvhE5llqnGPQAVIsxO"
@@ -909,7 +909,7 @@
       "url": "https://open.spotify.com/track/6ogVyYhRzBqfuIg4ziIwuD"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "Wish You Were Here",
         "url": "https://open.spotify.com/album/16W36ygiBLxI7df9XQgPov"
@@ -925,7 +925,7 @@
       "url": "https://open.spotify.com/track/0ck9OBdibazBRrYqIwqEJk"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "Poom",
         "url": "https://open.spotify.com/album/7pbDDSvoSkldVRyLZ27gGH"
@@ -941,7 +941,7 @@
       "url": "https://open.spotify.com/track/14pRQq8hF1K4d7mue3Irxd"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "Chapter 1",
         "url": "https://open.spotify.com/album/6kdfvDv547FBuXMfeVbKnh"
@@ -957,7 +957,7 @@
       "url": "https://open.spotify.com/track/4DRw26g8obnUsqKBJp6knP"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "No. 18",
         "url": "https://open.spotify.com/album/7lLH8k87GF7OCXPytH8fNy"
@@ -973,7 +973,7 @@
       "url": "https://open.spotify.com/track/4t7UcOfoXWpP6YhXkyGuuR"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "Half Sixty \ubc18\uc721\uc2ed",
         "url": "https://open.spotify.com/album/0EGARDYbxXNyj61nDNx6vL"
@@ -989,7 +989,7 @@
       "url": "https://open.spotify.com/track/1fxUCdA8mFuQ6PnyZVU84l"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "Dear papa",
         "url": "https://open.spotify.com/album/2LKEtJogCxA5qBLDjMWi32"
@@ -1005,7 +1005,7 @@
       "url": "https://open.spotify.com/track/7jySM8BXkEMQ82v1dmpiNs"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "\uc2e0\uc758 \ub180\uc774",
         "url": "https://open.spotify.com/album/3T9MD1VuRHcGF1GPaCtf1T"
@@ -1021,7 +1021,7 @@
       "url": "https://open.spotify.com/track/3FWGxaKZq2AccX0Xnv62B5"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "K\ud31d \uc2a4\ud0c0 \uc2dc\uc98c4 \uc5c4\ub9c8\ub85c \uc0b0\ub2e4\ub294 \uac83\uc740",
         "url": "https://open.spotify.com/album/4mHoxWJ57E6WinNmIAhE47"
@@ -1037,7 +1037,7 @@
       "url": "https://open.spotify.com/track/3w0hU4ljjvZN7sb1Ch1Gzk"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "Mask Singer 154Th",
         "url": "https://open.spotify.com/album/1RpHPtcOzsnNKEV8LAFrfV"
@@ -1053,7 +1053,7 @@
       "url": "https://open.spotify.com/track/0MCGFl7NEJRhZlHDZZPhAU"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "\uc5c4\ub9c8\uc758 \uc77c\uae30",
         "url": "https://open.spotify.com/album/768dJNYewAzoutlrZia1nr"
@@ -1069,7 +1069,7 @@
       "url": "https://open.spotify.com/track/6uHo3fE9PqUkUHtoePCV03"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "older brother",
         "url": "https://open.spotify.com/album/6FBm4kwBY06EwtVgcpiBTl"
@@ -1085,7 +1085,7 @@
       "url": "https://open.spotify.com/track/3PlUxcvET0vEcNGwQB7ZhR"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "My Heroes",
         "url": "https://open.spotify.com/album/1JPSVgdFZV9iFds7x0MDth"
@@ -1101,7 +1101,7 @@
       "url": "https://open.spotify.com/track/76BNJil2zrNPs1O6NAKAAC"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "Cycle",
         "url": "https://open.spotify.com/album/0zlVYKz8cb3o6P5nT3DKzI"
@@ -1117,7 +1117,7 @@
       "url": "https://open.spotify.com/track/3vsSOp6L9Rp6vjTK3IB7R6"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "My Lime",
         "url": "https://open.spotify.com/album/2yQEkXFKLwVWm4TEUJ19fK"
@@ -1133,7 +1133,7 @@
       "url": "https://open.spotify.com/track/3FQ1lpLQueapQAAwJTb8sG"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "\uad00\uacc4",
         "url": "https://open.spotify.com/album/4YhSNjcgY9yW7gcZJNA7iw"
@@ -1149,7 +1149,7 @@
       "url": "https://open.spotify.com/track/3pZuWYfGAK1tVVVkdaWlmC"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "Like Father Like Son",
         "url": "https://open.spotify.com/album/13exFmQco1HsxG7SqIjzPj"
@@ -1165,7 +1165,7 @@
       "url": "https://open.spotify.com/track/69hLUu2zuc1EyFVB8ZWpfm"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "Mother",
         "url": "https://open.spotify.com/album/5QpmDFAI5GBfoKwcVgyW5B"
@@ -1181,7 +1181,7 @@
       "url": "https://open.spotify.com/track/2AqRX7P5F0A7GD0Nch5LQv"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "\uc815\uc9c1\ud55c \ub9c8\uc74c An Honest Heart",
         "url": "https://open.spotify.com/album/576JRyPmWEacD7CqQgsc7H"
@@ -1197,7 +1197,7 @@
       "url": "https://open.spotify.com/track/0mbjlp3zEh7Lrj8nWxmVfS"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "\uc720\uae30\uacac \ub3d5\uae30 \ud504\ub85c\uc81d\ud2b8 '\ud568\uaed8\ud560\uac1c\u2019",
         "url": "https://open.spotify.com/album/5mLv47sxl2SkqnpE23UkJj"
@@ -1217,7 +1217,7 @@
       "url": "https://open.spotify.com/track/5BI5WjwxQvwJoF7CvrMJGj"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "All available",
         "url": "https://open.spotify.com/album/2YRu6oyO1AjwwRSmbx7hzx"
@@ -1233,7 +1233,7 @@
       "url": "https://open.spotify.com/track/0LxdGy1wLKsQQ7pUUWRT9T"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "\uac00\uc871",
         "url": "https://open.spotify.com/album/2VtwNfWtIZrWPmxQNoiG8f"
@@ -1253,7 +1253,7 @@
       "url": "https://open.spotify.com/track/2Rdfc8QMJfOwB0DTYQmYIR"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "\ud2f0\ucf13 \ub450\uc7a5 \uc8fc\uc138\uc694",
         "url": "https://open.spotify.com/album/4DxK41XWj7ExCwvExlywjB"
@@ -1269,7 +1269,7 @@
       "url": "https://open.spotify.com/track/2ZjSmguUbTYYIArGyp8dH2"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "\ub450 \ubc88\uc9f8 \uc5f4\ub9e4 Pt. 1",
         "url": "https://open.spotify.com/album/6SRwhSsm5oJeNc1KnqLuXw"
@@ -1285,7 +1285,7 @@
       "url": "https://open.spotify.com/track/710IGsTtOs7Y0R1T7FjdWM"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "\uc6b0\ub9ac \ud560\uba38\ub2c8\ub294 \uc785\ub9db\uc774 \uc5c6\ub2e4 \ud558\uc2dc\uba70 \uc790\uafb8 \ub098\uc774\ub97c \ub4dc\uc2e0\ub2e4",
         "url": "https://open.spotify.com/album/5Due9uUBfPM8KDa4ZOawrb"
@@ -1301,7 +1301,7 @@
       "url": "https://open.spotify.com/track/49i1afECFldYjlSRlCmXLs"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "DESTINY",
         "url": "https://open.spotify.com/album/6QXXHoQo4VxMuoZQlL1tK1"
@@ -1317,7 +1317,7 @@
       "url": "https://open.spotify.com/track/6fr0IxOEP30oSL0xHdzm4K"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "Maze Garden",
         "url": "https://open.spotify.com/album/2zoYQaGw1afawZD4nAoAjk"
@@ -1333,7 +1333,7 @@
       "url": "https://open.spotify.com/track/3ThIDYCxYAUYNuV3i0lvF1"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "wonderlust",
         "url": "https://open.spotify.com/album/3XZotbSFs8wTKR6tNCZ8rF"
@@ -1349,7 +1349,7 @@
       "url": "https://open.spotify.com/track/6GeVqwTaiSsvfyVhfclU2E"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "\uae40\uad11\uc11d '\ub098\uc758 \ub178\ub798' BOX SET (Remastered)",
         "url": "https://open.spotify.com/album/3Gc1VEAlKtrlZqVeBUNor9"
@@ -1365,7 +1365,7 @@
       "url": "https://open.spotify.com/track/42VWQAEE0TlPiQ3wIM00GF"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "Memorize",
         "url": "https://open.spotify.com/album/2eOjKUHBZe4Vj9bzsu8sPB"
@@ -1381,7 +1381,7 @@
       "url": "https://open.spotify.com/track/1pvEI9HdfXMWdGkho0ROeK"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "Mom (\uc5c4\ub9c8)",
         "url": "https://open.spotify.com/album/3MkjRx1fL2KAVgGAwoZE67"
@@ -1397,7 +1397,7 @@
       "url": "https://open.spotify.com/track/7o7vgYfnxRByCS8ljGUt94"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/5tG1wt0Ecwtd42dosIZWDI"
@@ -1413,7 +1413,7 @@
       "url": "https://open.spotify.com/track/6rGrAnWRaTVTiYmZyufjac"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "Redingray",
         "url": "https://open.spotify.com/album/3DHgOJG7b88i3WuE9nSXUW"
@@ -1433,7 +1433,7 @@
       "url": "https://open.spotify.com/track/1yQqgX5BJTeNvieKItX4jn"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "Coexistence",
         "url": "https://open.spotify.com/album/3xRPxpdSzXa0EjGzj6JOvZ"
@@ -1449,7 +1449,7 @@
       "url": "https://open.spotify.com/track/5HYk3OnDadcUmFqry0L3Tp"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "UNPRETTY RAPSTAR COMPILATION",
         "url": "https://open.spotify.com/album/7dBSYUuUie9WguadM8tbpD"
@@ -1469,7 +1469,7 @@
       "url": "https://open.spotify.com/track/3J9QLmxdbUcaBjFJFRo9ET"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "\uc5b4\ub9b0\uc655\uc790 The Little Prince - The 1st Mini Album",
         "url": "https://open.spotify.com/album/6I6CK3eLNgufEnfz7Se93z"
@@ -1485,7 +1485,7 @@
       "url": "https://open.spotify.com/track/5ek0nViZFAcRKYViCjYYg9"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "Show Me the Money 2 Part 1",
         "url": "https://open.spotify.com/album/0B8AUHLflzRJq0sSFXELDb"
@@ -1501,7 +1501,7 @@
       "url": "https://open.spotify.com/track/5gv2zHeDU0XkOqU004ZPY8"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "My Story",
         "url": "https://open.spotify.com/album/3rXoEB69otZtclVhm9r7J2"
@@ -1517,7 +1517,7 @@
       "url": "https://open.spotify.com/track/0jM7TaipWWCUFEXnni1GS3"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "New Day",
         "url": "https://open.spotify.com/album/1faNIaOUA7wWBfx5Qs0ES2"
@@ -1533,7 +1533,7 @@
       "url": "https://open.spotify.com/track/50OGB7CUoNkESkShocQ4E4"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "My Lime",
         "url": "https://open.spotify.com/album/2yQEkXFKLwVWm4TEUJ19fK"
@@ -1549,7 +1549,7 @@
       "url": "https://open.spotify.com/track/3gTjPZ8lGJoLazPZE5ukk4"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "\ub098\ub294 \uac00\uc218\ub2e4 \uacbd\uc5f0 15-2. \ub0b4\uac8c \ud2b9\ubcc4\ud55c \uc0ac\ub78c\uc758 \ucd94\ucc9c\uace1",
         "url": "https://open.spotify.com/album/4mvWk0HQ87eLop2UzOa0Ce"
@@ -1565,7 +1565,7 @@
       "url": "https://open.spotify.com/track/7rTdW07B0EVBXztwo6GryQ"
     },
     {
-      "added_at": "2024-09-13 15:00:00",
+      "added_at": "2024-09-15 01:17:49",
       "album": {
         "name": "Like My Father",
         "url": "https://open.spotify.com/album/4oZPPDZkkYdFyF8KzhFSxE"

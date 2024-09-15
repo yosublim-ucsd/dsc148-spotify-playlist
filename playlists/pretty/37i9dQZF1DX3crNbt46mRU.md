@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: The Weeknd
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,786 likes - 120 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,793 likes - 120 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,7 +111,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 101 | [Wunden](https://open.spotify.com/track/53NQMyEhm8fg67SQEdmPDd) | [SIMONA](https://open.spotify.com/artist/5IrNK8jRtmwCN4JLMJMSY5) | [Wunden](https://open.spotify.com/album/1Bp44uSoG24WaRPWsjqSGY) | 2:26 |
 | 102 | [FAR FETCHED \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/5ZY1qGibLsa2xZm0XUe36g) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [FAR FETCHED \(feat\. Ty Dolla $ign\)](https://open.spotify.com/album/0Ss227Tev7vSTbFtTfIm3y) | 4:07 |
 | 103 | [VIELLEICHT](https://open.spotify.com/track/4NqH9ZnItxXVgpK5Gszy2h) | [CHRIS](https://open.spotify.com/artist/5KFGB68TTW3x2GFT8o00rL) | [VIELLEICHT](https://open.spotify.com/album/5Q1YrRETKea8XecWMzTv04) | 2:11 |
-| 104 | [hypocrite](https://open.spotify.com/track/1ScE8Tsf7fL0r5kqya3WFD) | [LEEPA](https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD), [Omar101](https://open.spotify.com/artist/3OSeYeKlvOhNfcLVQNadmB) | [Oxytocin EP](https://open.spotify.com/album/5jfa9X2uyoOtNBuqeN3AAD) | 2:31 |
+| 104 | [hypocrite](https://open.spotify.com/track/1ScE8Tsf7fL0r5kqya3WFD) | [LEEPA](https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD), [Omar101](https://open.spotify.com/artist/3OSeYeKlvOhNfcLVQNadmB) | [oxytocin EP](https://open.spotify.com/album/5jfa9X2uyoOtNBuqeN3AAD) | 2:31 |
 | 105 | [8 Days](https://open.spotify.com/track/6t2CRoMkLF78OdffqSsfhz) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [8 Days](https://open.spotify.com/album/1lPG1cpJqD025tNy4r6vjD) | 2:10 |
 | 106 | [The Top \- from the Netflix Film "UGLIES"](https://open.spotify.com/track/3FDIzHl5F5DDp2c0dKWbhZ) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [The Top \- from the Netflix Film "UGLIES"](https://open.spotify.com/album/3HSefcT3hoMEzAXC0gN6PC) | 2:40 |
 | 107 | [What’s It Take to Be a Star?](https://open.spotify.com/track/1PUSZJtA4Q7WGT6uX6lyQw) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [What’s It Take to Be a Star?](https://open.spotify.com/album/5b8CFomatusCobpOtmnNdJ) | 2:48 |

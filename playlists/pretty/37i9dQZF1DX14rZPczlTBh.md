@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 
 > Themes to groove to from Telugu Movies!<br/><br/>Cover: Saripodhaa Sanivaaram
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,287 likes - 45 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,326 likes - 45 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Red Sea \(From "Devara Part 1"\)](https://open.spotify.com/track/75IywzsrO67PjCrFHnA9tb) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Red Sea \(From "Devara Part 1"\)](https://open.spotify.com/album/5FqTXCya4oO6is24rhWDBg) | 2:42 |
-| 2 | [Shiva Thandavame \(Trailer Theme\) \[From "Saripodhaa Sanivaaram"\]](https://open.spotify.com/track/640ga7jK6YDPomC5rzmmwx) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt) | [Shiva Thandavame \(Trailer Theme\) \- From "Saripodhaa Sanivaaram"](https://open.spotify.com/album/3PPd4ij0aGjshDKmm3MIWd) | 3:10 |
+| 2 | [Shiva Thandavame \(From "Saripodhaa Sanivaaram"\)](https://open.spotify.com/track/640ga7jK6YDPomC5rzmmwx) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt) | [Shiva Thandavame \- From "Saripodhaa Sanivaaram"](https://open.spotify.com/album/3PPd4ij0aGjshDKmm3MIWd) | 3:10 |
 | 3 | [Hungry Cheetah \(From "They Call Him OG"\)](https://open.spotify.com/track/538V6gFAnhcLZrg6I8lIMI) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Hungry Cheetah \(From "They Call Him OG"\)](https://open.spotify.com/album/1D5M0OXMaT1dV9MADSPgIg) | 1:59 |
 | 4 | [Hero Intro](https://open.spotify.com/track/65OIg0LBpcYxyOCFs5Eknd) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Guntur Kaaram \- OST](https://open.spotify.com/album/7E749lMazRqe3OZNndFd6n) | 3:56 |
 | 5 | [Bujji Theme \(From "Kalki 2898 AD"\)](https://open.spotify.com/track/2zDXJrQbQW00vj3z7WX0h4) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F), [Japhna Gold](https://open.spotify.com/artist/45qODkWGC525HRSWSrkNyp) | [Bujji Theme \(From "Kalki 2898 AD"\)](https://open.spotify.com/album/2iaEp2A6I9bl62SkHYm2WZ) | 0:46 |

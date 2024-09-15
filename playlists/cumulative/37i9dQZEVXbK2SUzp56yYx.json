@@ -694,7 +694,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-14",
+      "date_removed": null,
       "duration_ms": 111642,
       "name": "b0lit :(",
       "url": "https://open.spotify.com/track/0LJRXWJ3x3Oby02RbRl3f6"
@@ -943,6 +943,28 @@
     },
     {
       "album": {
+        "name": "Blue (Da Ba Dee)",
+        "url": "https://open.spotify.com/album/3j90eFnVFEYzOVt024QCTf"
+      },
+      "artists": [
+        {
+          "name": "Eiffel 65",
+          "url": "https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219618,
+      "name": "Blue (Da Ba Dee) - Gabry Ponte Video Edit",
+      "url": "https://open.spotify.com/track/7lMIJ4EFWRVoAIPDpeGyM3"
+    },
+    {
+      "album": {
         "name": "Blyadskaya Natura",
         "url": "https://open.spotify.com/album/4iDCHXJXtvfyqqdgy3Nlxz"
       },
@@ -1124,7 +1146,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 200400,
       "name": "Bye Bye Bye - From Deadpool and Wolverine Soundtrack",
       "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
@@ -2026,7 +2048,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-23",
+      "date_removed": null,
       "duration_ms": 51857,
       "name": "EU SOU U FUNKY BEAR",
       "url": "https://open.spotify.com/track/1WIRB0fRRWJwO4vKqLyvp6"
@@ -3696,8 +3718,8 @@
       },
       "artists": [
         {
-          "name": "Azumi Takahashi",
-          "url": "https://open.spotify.com/artist/7k7EQbtXRe9Y0fejJoMDrH"
+          "name": "\u9ad8\u6a4b\u3042\u305a\u7f8e",
+          "url": "https://open.spotify.com/artist/4VeqFgWkP7P9eEGwzPuXcM"
         },
         {
           "name": "Lotus Juice",
@@ -7232,7 +7254,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 84149,
       "name": "Suka",
       "url": "https://open.spotify.com/track/6ndFi9TM9YWGLktQgS7Q9M"
@@ -8890,7 +8912,7 @@
       ],
       "date_added": "2024-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 192124,
       "name": "\u0410\u043b\u043b\u043e",
       "url": "https://open.spotify.com/track/7gxhnpAW0axBSVEjplfwhv"
@@ -9776,7 +9798,7 @@
       ],
       "date_added": "2024-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 122769,
       "name": "\u0413\u0434\u0435 \u0442\u044b",
       "url": "https://open.spotify.com/track/5DhrBCW6CRDGPIZcjN1cW3"
@@ -10362,7 +10384,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 191428,
       "name": "\u0434\u043e \u0441\u0438\u0445 \u043f\u043e\u0440",
       "url": "https://open.spotify.com/track/4dNt3e3Uk3Li6Mf0Fha5cp"
@@ -11332,6 +11354,24 @@
       "duration_ms": 117835,
       "name": "\u041c\u0430\u0439\u0430\u043c\u0438",
       "url": "https://open.spotify.com/track/3YY8gp6IDGySRIfnsgaKRR"
+    },
+    {
+      "album": {
+        "name": "\u041c\u0430\u0433\u0430\u0437\u0438\u043d \u0438\u0433\u0440\u0443\u0448\u0435\u043a \u0434\u043b\u044f \u0432\u0437\u0440\u043e\u0441\u043b\u044b\u0445",
+        "url": "https://open.spotify.com/album/5aMa4f9Jn8BANK62xzWywu"
+      },
+      "artists": [
+        {
+          "name": "\u043a\u0438\u0441-\u043a\u0438\u0441",
+          "url": "https://open.spotify.com/artist/4jIvmo6hfAQ04NSOWPVVA3"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182410,
+      "name": "\u043c\u0430\u043b\u044c\u0447\u0438\u043a",
+      "url": "https://open.spotify.com/track/2tSOz2c3qqs8jOdlyMvHww"
     },
     {
       "album": {
@@ -12852,10 +12892,28 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 134000,
       "name": "\u041f\u0420\u0415\u041a\u0420\u0410\u0421\u041d\u0415\u0419",
       "url": "https://open.spotify.com/track/58o8C0PSGhx27qr59AHVED"
+    },
+    {
+      "album": {
+        "name": "\u0411\u043e\u043b\u044c\u0448\u0430\u044f \u043a\u043e\u043b\u043b\u0435\u043a\u0446\u0438\u044f",
+        "url": "https://open.spotify.com/album/0U2aOK22Ib9bJPkxa2qzTU"
+      },
+      "artists": [
+        {
+          "name": "\u0414\u044e\u043d\u0430",
+          "url": "https://open.spotify.com/artist/0ILtPcpkFIOl6B5GuLdUGf"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138413,
+      "name": "\u041f\u0440\u0438\u0432\u0435\u0442 \u0441 \u0431\u043e\u043b\u044c\u0448\u043e\u0433\u043e \u0431\u043e\u0434\u0443\u043d\u0430",
+      "url": "https://open.spotify.com/track/42OIF8BmQk2IyZCtpH9C4x"
     },
     {
       "album": {
@@ -13008,6 +13066,32 @@
     {
       "album": {
         "name": "WE LIVE ONLY ONCE",
+        "url": "https://open.spotify.com/album/6y2Z6pHf9hooEHWcSZzEqk"
+      },
+      "artists": [
+        {
+          "name": "Aarne",
+          "url": "https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo"
+        },
+        {
+          "name": "BUSHIDO ZHO",
+          "url": "https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R"
+        },
+        {
+          "name": "Liza Evans",
+          "url": "https://open.spotify.com/artist/34uLjhAZJbOcYI3pHkpSvD"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161142,
+      "name": "\u0420\u0415\u0412\u041d\u0423\u042e",
+      "url": "https://open.spotify.com/track/3Xbu5aXLapPvbsKztc3PMf"
+    },
+    {
+      "album": {
+        "name": "WE LIVE ONLY ONCE",
         "url": "https://open.spotify.com/album/7eO5K3obkRBr0jrRdMVJ3d"
       },
       "artists": [
@@ -13026,7 +13110,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 161142,
       "name": "\u0420\u0415\u0412\u041d\u0423\u042e",
       "url": "https://open.spotify.com/track/6wgxu2H2aZ0Plw8gKZ8WG9"
@@ -14252,6 +14336,24 @@
       "duration_ms": 120108,
       "name": "\u0447\u0435\u043b\u043e\u0432\u0435\u043a-\u0431\u0435\u043d\u0437\u043e\u043f\u0438\u043b\u0430",
       "url": "https://open.spotify.com/track/4Y8GwOe2pxoHMVG6KPMFIF"
+    },
+    {
+      "album": {
+        "name": "\u0412\u043e\u043a\u0440\u0443\u0433 \u0441\u0432\u0435\u0442\u0430",
+        "url": "https://open.spotify.com/album/1cAWbHu8Cr5ovfa4IinouC"
+      },
+      "artists": [
+        {
+          "name": "Car-Man",
+          "url": "https://open.spotify.com/artist/1m5PTRE24aukZ7h4y5ebGF"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298013,
+      "name": "\u0427\u0438\u043e-\u0427\u0438\u043e-\u0441\u0430\u043d",
+      "url": "https://open.spotify.com/track/5eRiD1X9qiWRnL9QQAtq2V"
     },
     {
       "album": {

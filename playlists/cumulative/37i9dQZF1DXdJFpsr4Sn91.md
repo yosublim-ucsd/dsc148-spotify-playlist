@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. Kannessa Sara Siipola.
 
-228 songs - 11 hr 19 min
+230 songs - 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Aivan sama](https://open.spotify.com/track/4M7CQzlQpK3C9Yzjk3wlPf) | [JANNA](https://open.spotify.com/artist/4grOKb7qP9dH5FOhUXn3s3), [Erika Vikman](https://open.spotify.com/artist/6JVB6uiYxpF2K1PGsPRpWR), [F](https://open.spotify.com/artist/38wI9qgPMb7FoMu2IrzXht) | [Aivan sama](https://open.spotify.com/album/7836xllZu1uPi81BlUjVTm) | 3:10 | 2024-08-15 |  |
 | [All My Life](https://open.spotify.com/track/7KvTwW9i8f6RYk5hdcq32z) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [All My Life](https://open.spotify.com/album/2TLYWMHBDYn3Qor0pC0Rjp) | 3:02 | 2024-08-09 | 2024-08-23 |
 | [All Night](https://open.spotify.com/track/1rtUGB9XxwnX64t1k34ldu) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [All Night \(with Sophie and the Giants\)](https://open.spotify.com/album/0Ef6pDrlRVps38PdMIgfLV) | 2:00 | 2024-08-22 |  |
+| [ALL RED](https://open.spotify.com/track/2cZOYofOX4d6g0OXxkaIjA) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [ALL RED](https://open.spotify.com/album/3cdcIcidzGHVQW5e9qQgtx) | 2:28 | 2024-09-14 |  |
 | [Angel Of My Dreams](https://open.spotify.com/track/46cW6zufU9Woo11TLs2i6X) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Angel Of My Dreams](https://open.spotify.com/album/6Wf3fqCoGcOYah2lTcwyAA) | 3:17 | 2024-07-18 | 2024-08-02 |
 | [Anna rakas \(raju hetki\)](https://open.spotify.com/track/56Zd8JgzFBKpbRgNMvxwa9) | [BÄMÄ](https://open.spotify.com/artist/1nDMB5M5uBTt0SQWFgZtc1), [Pilvi Hämäläinen](https://open.spotify.com/artist/5UFJGFpQM3dH3Qk63nrdjg) | [Anna rakas \(raju hetki\)](https://open.spotify.com/album/5PuhSGjjWX33X7HqsTTwMI) | 2:43 | 2024-07-02 | 2024-08-16 |
 | [Annan sul vähän](https://open.spotify.com/track/4l7tL4uh91FBb10tVzZOuX) | [Axel Kala](https://open.spotify.com/artist/4efs3AqHijagPC7sFYksBD) | [Annan sul vähän](https://open.spotify.com/album/4mbVbPGSUpkNJjNmY5BSBj) | 2:37 | 2024-07-02 | 2024-07-05 |
@@ -51,6 +52,7 @@
 | [Ei sydäntä saa](https://open.spotify.com/track/4caA9Fg4l0jv3R0bYjmGp2) | [Niilo](https://open.spotify.com/artist/49g8AvlUgRjVAO0h219rab) | [Ei sydäntä saa](https://open.spotify.com/album/5hwEwsnRnZfNwu99GouiNt) | 3:11 | 2024-07-11 | 2024-09-06 |
 | [Eka tai toka](https://open.spotify.com/track/0BsizkduSdj2b90uAk8Sat) | [Aleksanteri Hakaniemi](https://open.spotify.com/artist/2KGbvHE2WfRazq4yE3pcWi) | [Eka tai toka](https://open.spotify.com/album/6TK9Qr42ghbH7LVWxfxqf6) | 2:38 | 2024-07-02 | 2024-07-19 |
 | [Ekaa kertaa](https://open.spotify.com/track/0QDClEFoNZVkSjW6ADTiL2) | [TUULI](https://open.spotify.com/artist/4CvGI7cUCGi7gcG0X0nrwc) | [Ekaa kertaa](https://open.spotify.com/album/4XfVGVY6iTZS0ggYpMc7LF) | 3:13 | 2024-08-22 |  |
+| [Emojisydän](https://open.spotify.com/track/7rf5PlPnAowf0ZEIBbtP5Z) | [Pyzze](https://open.spotify.com/artist/3iTmpLBQG2vcR7eywDGAUZ), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [Pieni Prinssi](https://open.spotify.com/album/2xKngIuCsxZOr8TpIE2Pz5) | 3:02 | 2024-09-14 |  |
 | [En sitä tarkoittanut](https://open.spotify.com/track/00PdQeNpWlEzqrMN3eauPl) | [Edicti](https://open.spotify.com/artist/5sYAbWJ14L78hv98klUjqS), [F](https://open.spotify.com/artist/38wI9qgPMb7FoMu2IrzXht) | [En sitä tarkoittanut](https://open.spotify.com/album/58lUia8zs4GrvsxDt6v3vO) | 2:46 | 2024-07-02 |  |
 | [Erottaja](https://open.spotify.com/track/743aoKY7JQ1xSsKMX4PMwl) | [Reettabitch](https://open.spotify.com/artist/5XYFXTCJPZ9ZdvuJdEfUcQ) | [Erottaja](https://open.spotify.com/album/7vBFyUien1AoCsfmBlDWWc) | 2:58 | 2024-08-29 |  |
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-07-02 | 2024-07-05 |

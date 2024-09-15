@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: Ian
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,866 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,870 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 46 | [Casa Goala](https://open.spotify.com/track/5RQMopEH1rc9BqQjlpvXAO) | [Kepa](https://open.spotify.com/artist/0Mx93t13mwLCqOoQTQnILw) | [Casa Goala](https://open.spotify.com/album/0vL1n2GZ9N4GI3HMjimeMF) | 2:46 |
 | 47 | [Bilateral](https://open.spotify.com/track/5tsdJCTthJlYcLRpEL80qm) | [libEluLLah](https://open.spotify.com/artist/47s4jfzj4DOUP5zj53qHJv), [A.U.G.](https://open.spotify.com/artist/7lc9emmSaHSmjEKbqLtYxE) | [Bilateral](https://open.spotify.com/album/6e3RHMdj3iGViUgzm7d9d9) | 2:56 |
 | 48 | [inexplicabil](https://open.spotify.com/track/6XIkg4IIz3DP1Z7WCa63o5) | [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F), [Stefan Costea](https://open.spotify.com/artist/3w8r8LEPG3zHNvRCj92b58), [Pitariu George](https://open.spotify.com/artist/2Bc4sRO6Nnwn2bc1lLpL5s) | [Ștefan IV](https://open.spotify.com/album/1j2XXVOk5fk60ZRm5QpqFp) | 3:14 |
-| 49 | [Seria 5](https://open.spotify.com/track/41oOSj88trRGw0i16Rh9u1) | [Kepa](https://open.spotify.com/artist/4aMHDZmGJ5vkzCCxmbEDFt), [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Seria 5](https://open.spotify.com/album/3oCFqA2d4sGzfbY2Gx6c4I) | 2:32 |
+| 49 | [Seria 5](https://open.spotify.com/track/41oOSj88trRGw0i16Rh9u1) | [Kepa](https://open.spotify.com/artist/0Mx93t13mwLCqOoQTQnILw), [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Seria 5](https://open.spotify.com/album/3oCFqA2d4sGzfbY2Gx6c4I) | 2:32 |
 | 50 | [Dernière Cigarette](https://open.spotify.com/track/4ULGWCPPadrpPvWdumBHG1) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc), [Killa Fonic](https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl) | [Dernière Cigarette](https://open.spotify.com/album/7rU1pJ3SlmgdVMBoyIeaDy) | 2:54 |
 
 Snapshot ID: `Zsem0AAAAABMdhE27TeFC/uupKR39B5r`

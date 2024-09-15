@@ -1,12 +1,12 @@
 {
   "description": "This Is League of Legends. Los temas esenciales, todos en una lista.",
-  "num_followers": 388114,
+  "num_followers": 388110,
   "original_name": "This Is League of Legends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuIvAAAAAAAPv6Liz08SiQ9p3TwBeaM9",
+  "snapshot_id": "ZuOAgAAAAABJNs5XHjVDDYfpnVozA3rO",
   "tracks": [
     {
       "added_at": null,
@@ -627,6 +627,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Call",
+        "url": "https://open.spotify.com/album/5cjMwrHxN5kcvVTVfBntNV"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "2WEI",
+          "url": "https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc"
+        },
+        {
+          "name": "Louis Leibfried",
+          "url": "https://open.spotify.com/artist/0t9nu4uUtGK24BUkWa5b4R"
+        },
+        {
+          "name": "Edda Hayes",
+          "url": "https://open.spotify.com/artist/0zJa53LLSg4TcZ5Lm4zFB8"
+        }
+      ],
+      "duration_ms": 222838,
+      "name": "The Call",
+      "url": "https://open.spotify.com/track/2iI556oF2qwtac9r1RzrXo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dynasties & Dystopia (from the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/6pToO8eUMMQo5hSpxE9XXh"
       },
@@ -659,58 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Call",
-        "url": "https://open.spotify.com/album/5cjMwrHxN5kcvVTVfBntNV"
-      },
-      "artists": [
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        },
-        {
-          "name": "2WEI",
-          "url": "https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc"
-        },
-        {
-          "name": "Louis Leibfried",
-          "url": "https://open.spotify.com/artist/0t9nu4uUtGK24BUkWa5b4R"
-        },
-        {
-          "name": "Edda Hayes",
-          "url": "https://open.spotify.com/artist/0zJa53LLSg4TcZ5Lm4zFB8"
-        }
-      ],
-      "duration_ms": 222838,
-      "name": "The Call",
-      "url": "https://open.spotify.com/track/2iI556oF2qwtac9r1RzrXo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Goodbye (from the series Arcane League of Legends)",
-        "url": "https://open.spotify.com/album/4IqXRlsnNgkhuQMrdrtoxY"
-      },
-      "artists": [
-        {
-          "name": "Ramsey",
-          "url": "https://open.spotify.com/artist/1se3w7gpZkwcJYgHSPDoQ8"
-        },
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        },
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        }
-      ],
-      "duration_ms": 230985,
-      "name": "Goodbye (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/5QWjrWckcPcSVqQNfbD4Bc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ALL OUT",
         "url": "https://open.spotify.com/album/26IdRjba8f8DNa7c0FwfQb"
       },
@@ -739,6 +715,30 @@
       "duration_ms": 198611,
       "name": "I'LL SHOW YOU",
       "url": "https://open.spotify.com/track/6LDIVpVNBRy7LCw7jIdci6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Goodbye (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/4IqXRlsnNgkhuQMrdrtoxY"
+      },
+      "artists": [
+        {
+          "name": "Ramsey",
+          "url": "https://open.spotify.com/artist/1se3w7gpZkwcJYgHSPDoQ8"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "duration_ms": 230985,
+      "name": "Goodbye (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/5QWjrWckcPcSVqQNfbD4Bc"
     },
     {
       "added_at": null,
@@ -847,6 +847,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Guns for Hire (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/5NgVCpHat6HmhlEISyXdIV"
+      },
+      "artists": [
+        {
+          "name": "Woodkid",
+          "url": "https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "duration_ms": 226460,
+      "name": "Guns for Hire (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/38x5NsjgoLaYCnhAghHdyo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bring Home The Glory",
         "url": "https://open.spotify.com/album/01L3l6bMt4wSX8fK3F9yKn"
       },
@@ -895,30 +919,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Guns for Hire (from the series Arcane League of Legends)",
-        "url": "https://open.spotify.com/album/5NgVCpHat6HmhlEISyXdIV"
-      },
-      "artists": [
-        {
-          "name": "Woodkid",
-          "url": "https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9"
-        },
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        },
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        }
-      ],
-      "duration_ms": 226460,
-      "name": "Guns for Hire (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/38x5NsjgoLaYCnhAghHdyo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Starts Right Here",
         "url": "https://open.spotify.com/album/3zw7Q4NV7QJxFjSY3QnBgX"
       },
@@ -963,6 +963,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aphelios, the Weapon of the Faithful",
+        "url": "https://open.spotify.com/album/0ytK0unUhIq7RnkKlu6Nab"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "duration_ms": 241157,
+      "name": "Aphelios, the Weapon of the Faithful",
+      "url": "https://open.spotify.com/track/6xsUmPtqZVrTlnSzq4IaEP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shine On",
         "url": "https://open.spotify.com/album/0TATIDURuDWbpmq54rOzFn"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 232105,
       "name": "Shine On",
       "url": "https://open.spotify.com/track/4NL6HJer1ViiI2BEWO1d3c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aphelios, the Weapon of the Faithful",
-        "url": "https://open.spotify.com/album/0ytK0unUhIq7RnkKlu6Nab"
-      },
-      "artists": [
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        }
-      ],
-      "duration_ms": 241157,
-      "name": "Aphelios, the Weapon of the Faithful",
-      "url": "https://open.spotify.com/track/6xsUmPtqZVrTlnSzq4IaEP"
     },
     {
       "added_at": null,
@@ -1107,22 +1107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aurora, the Witch Between Worlds",
-        "url": "https://open.spotify.com/album/2Cm34CjKMF3N25ag6M728j"
-      },
-      "artists": [
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        }
-      ],
-      "duration_ms": 204607,
-      "name": "Aurora, the Witch Between Worlds",
-      "url": "https://open.spotify.com/track/6ilIDnxRnLam92QARefoc3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Run It",
         "url": "https://open.spotify.com/album/0h4zde0cxK8qD7Zd3f77Nu"
       },
@@ -1147,33 +1131,13 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zeri, the Spark of Zaun",
-        "url": "https://open.spotify.com/album/5Cco6XUss3Ws0CMyPUaLOQ"
-      },
-      "artists": [
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        },
-        {
-          "name": "Lauren Babic",
-          "url": "https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX"
-        }
-      ],
-      "duration_ms": 213362,
-      "name": "Zeri, the Spark of Zaun",
-      "url": "https://open.spotify.com/track/6q7tXbbAOFY9qMT6LMKHnA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Our Love (From the series Arcane League of Legends)",
-        "url": "https://open.spotify.com/album/0AVg3b9aPqPsyXDgR6E2fV"
+        "url": "https://open.spotify.com/album/1tIhcMv442xiVxVs9ryq62"
       },
       "artists": [
         {
           "name": "Curtis Harding",
-          "url": "https://open.spotify.com/artist/50SsG9FB3n7d3fEClXjINT"
+          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
         },
         {
           "name": "Arcane",
@@ -1190,13 +1154,13 @@
       ],
       "duration_ms": 218248,
       "name": "Our Love (From the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/4OiGC4aSeZV2O71xKl6ssk"
+      "url": "https://open.spotify.com/track/58JG1aDmXbh6CNt2kaePz1"
     },
     {
       "added_at": null,
       "album": {
-        "name": "REMIX RUMBLE (Original Soundtrack from Teamfight Tactics Set 10)",
-        "url": "https://open.spotify.com/album/0MH5waArFmz3ipOISR7ViT"
+        "name": "Aurora, the Witch Between Worlds",
+        "url": "https://open.spotify.com/album/2Cm34CjKMF3N25ag6M728j"
       },
       "artists": [
         {
@@ -1204,25 +1168,29 @@
           "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
         }
       ],
-      "duration_ms": 194815,
-      "name": "No Chill (Heartsteel)",
-      "url": "https://open.spotify.com/track/1emAJEM01rwnLpd0dL4OaO"
+      "duration_ms": 204607,
+      "name": "Aurora, the Witch Between Worlds",
+      "url": "https://open.spotify.com/track/6ilIDnxRnLam92QARefoc3"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The Music of League of Legends: Season 5 (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/0AaYIwH5G6w82B8iKOWCCb"
+        "name": "Zeri, the Spark of Zaun",
+        "url": "https://open.spotify.com/album/5Cco6XUss3Ws0CMyPUaLOQ"
       },
       "artists": [
         {
           "name": "League of Legends",
           "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "Lauren Babic",
+          "url": "https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX"
         }
       ],
-      "duration_ms": 153205,
-      "name": "Kindred, the Eternal Hunters (From League of Legends: Season 5)",
-      "url": "https://open.spotify.com/track/7ki1GOGTzJGJAvxv6LndoR"
+      "duration_ms": 213362,
+      "name": "Zeri, the Spark of Zaun",
+      "url": "https://open.spotify.com/track/6q7tXbbAOFY9qMT6LMKHnA"
     },
     {
       "added_at": null,
@@ -1263,6 +1231,38 @@
       "duration_ms": 150906,
       "name": "Set It Off",
       "url": "https://open.spotify.com/track/6qONYDmRz1s7Msz0yVDHMB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "REMIX RUMBLE (Original Soundtrack from Teamfight Tactics Set 10)",
+        "url": "https://open.spotify.com/album/0MH5waArFmz3ipOISR7ViT"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "duration_ms": 194815,
+      "name": "No Chill (Heartsteel)",
+      "url": "https://open.spotify.com/track/1emAJEM01rwnLpd0dL4OaO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Music of League of Legends: Season 5 (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/0AaYIwH5G6w82B8iKOWCCb"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "duration_ms": 153205,
+      "name": "Kindred, the Eternal Hunters (From League of Legends: Season 5)",
+      "url": "https://open.spotify.com/track/7ki1GOGTzJGJAvxv6LndoR"
     }
   ],
   "unique_name": "This Is League of Legends",

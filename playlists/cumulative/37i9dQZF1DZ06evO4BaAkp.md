@@ -2,7 +2,7 @@
 
 ### [This Is Arctic Monkeys](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4BaAkp)
 
-> This Is Arctic Monkeys\. Todas as faixas essenciais numa única playlist.
+> This is Arctic Monkeys\. Todos os maiores hits em uma só playlist.
 
 61 songs - 3 hr 39 min
 

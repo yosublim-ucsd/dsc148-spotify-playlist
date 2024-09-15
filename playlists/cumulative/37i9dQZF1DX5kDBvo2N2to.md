@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-148 songs - 8 hr 52 min
+151 songs - 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Days Like These](https://open.spotify.com/track/6sjEyfadmCik7jzNs7gNIT) | [Then Argus](https://open.spotify.com/artist/60Rap5PmLfAvGbx10vytgB) | [Days Like These](https://open.spotify.com/album/41QlBp7EDWQbqVJTRFItpD) | 2:20 | 2024-06-28 |  |
 | [DETOX](https://open.spotify.com/track/1vpbdWBrf1enMiVHHICPk0) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [DETOX](https://open.spotify.com/album/6E2Xs9Hy9ZAXmquNIsiM00) | 2:34 | 2024-08-15 |  |
 | [Devil Mode](https://open.spotify.com/track/6qoLE0fGOkA8qyFAS27g9c) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Devil Mode](https://open.spotify.com/album/2BGKztt6hybqY9C5GMcpUf) | 3:04 | 2024-06-28 |  |
-| [Diabla](https://open.spotify.com/track/2q4wXd7mYsZeCtDwQInAjJ) | [Zoe Lobos](https://open.spotify.com/artist/75EGjJY7wrAOSa4aJ8dReA) | [Diabla](https://open.spotify.com/album/4BUh2zPQLBmXid1WIGx1YP) | 2:32 | 2024-06-28 |  |
+| [Diabla](https://open.spotify.com/track/2q4wXd7mYsZeCtDwQInAjJ) | [Zoe Lobos](https://open.spotify.com/artist/75EGjJY7wrAOSa4aJ8dReA) | [Diabla](https://open.spotify.com/album/4BUh2zPQLBmXid1WIGx1YP) | 2:32 | 2024-06-28 | 2024-09-15 |
 | [Dig jag vill ha](https://open.spotify.com/track/6MwtCgr9medMQc85XMAEp3) | [crescenterna](https://open.spotify.com/artist/3nRWFDHzmQF7O2xMAZUhyh) | [Djuret](https://open.spotify.com/album/2K8ZMDwcEkGcBgYzsiTPOo) | 4:29 | 2024-06-28 | 2024-09-14 |
 | [Dina Ögon Är Nakna](https://open.spotify.com/track/5mqzvZhHp8kFDjUig4kXYt) | [Erik Lundin](https://open.spotify.com/artist/0dCSPVQ30JS4cRaCTtbEmp) | [Dina Ögon Är Nakna](https://open.spotify.com/album/36kAfpQDj75JajMG41D1VX) | 3:20 | 2024-06-28 |  |
 | [Ditt hjärta bor](https://open.spotify.com/track/61HiBDc2oUSHectbGwr7GU) | [Strobaek](https://open.spotify.com/artist/082YfpbTrmcJ7CVtnQcbQp) | [Sjung om \(lyxversion\)](https://open.spotify.com/album/0ncTdDynh14mkzhC6KHfJ2) | 2:39 | 2024-06-28 | 2024-08-30 |
@@ -72,9 +72,9 @@
 | [I HATE IT!](https://open.spotify.com/track/3VuVNNSD9gL6TBq43PeB5v) | [Hanna Mel](https://open.spotify.com/artist/5KZjB3QwCH7oFbualxmGq8) | [I HATE IT!](https://open.spotify.com/album/5354Xi5KXJ6EtjB1qrQP82) | 2:58 | 2024-06-28 |  |
 | [I Just Needed You To Know](https://open.spotify.com/track/1LCovl7CSqDuKJRlFQEA5V) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [I Just Needed You To Know](https://open.spotify.com/album/2Xhvdg9rLRGvhlcOznttch) | 4:35 | 2024-06-28 | 2024-08-30 |
 | [I Lied, I'm Sorry](https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [I Lied, I'm Sorry](https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9) | 2:42 | 2024-08-08 |  |
-| [I Miss My Adidas](https://open.spotify.com/track/6T7Nsxlm9Z75npoJRn3Lth) | [Gina Hannuksela](https://open.spotify.com/artist/4UzbWXKuUlOMtrsUaVyQcs), [CharlyC](https://open.spotify.com/artist/6EKwuMau0XsZaaBea8aXAV) | [I Miss My Adidas](https://open.spotify.com/album/3zj3iOABTpniQ7gpa69Ex4) | 2:10 | 2024-08-08 |  |
+| [I Miss My Adidas](https://open.spotify.com/track/6T7Nsxlm9Z75npoJRn3Lth) | [Gina Hannuksela](https://open.spotify.com/artist/4UzbWXKuUlOMtrsUaVyQcs), [CharlyC](https://open.spotify.com/artist/6EKwuMau0XsZaaBea8aXAV) | [I Miss My Adidas](https://open.spotify.com/album/3zj3iOABTpniQ7gpa69Ex4) | 2:10 | 2024-08-08 | 2024-09-15 |
 | [I Was A Sailor](https://open.spotify.com/track/2qO4PvWDojlplbvSrCBUvF) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [I Was A Sailor](https://open.spotify.com/album/2RPZ0G0ZFhbewbFhi6u4em) | 4:00 | 2024-06-28 | 2024-08-23 |
-| [I'll Come Your Way](https://open.spotify.com/track/3lk15upGEldLkgKm7f48QS) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [I'll Come Your Way](https://open.spotify.com/album/2Ck1pJHLkPj5uZxstCJEO9) | 3:33 | 2024-06-28 |  |
+| [I'll Come Your Way](https://open.spotify.com/track/3lk15upGEldLkgKm7f48QS) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [I'll Come Your Way](https://open.spotify.com/album/2Ck1pJHLkPj5uZxstCJEO9) | 3:33 | 2024-06-28 | 2024-09-15 |
 | [I'm Coming Home](https://open.spotify.com/track/16gL4P1H5psxy9Zvg5kkDT) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [I'm Coming Home](https://open.spotify.com/album/6r9fKa9NKfZtwbXTVdf3Es) | 3:57 | 2024-06-28 |  |
 | [Idioti](https://open.spotify.com/track/1Prntlz7zWyqTgouopKeGk) | [noll2](https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR) | [Idioti](https://open.spotify.com/album/4unkmKhapPDaF8PPnBb6Oe) | 3:13 | 2024-06-28 |  |
 | [Imagine Paradise](https://open.spotify.com/track/0TXoLkIqtEqb9mPv3ReBEX) | [Kleerup](https://open.spotify.com/artist/2YL0l5fnyHE9FEf1bwFGCc) | [Imagine Paradise](https://open.spotify.com/album/58vBq0ClQQ9mvouhUoBw2b) | 3:57 | 2024-06-28 |  |
@@ -82,6 +82,7 @@
 | [Inge mer fun](https://open.spotify.com/track/5CRJ1cVXCnByoFW8bQ1j5j) | [Karakou](https://open.spotify.com/artist/4eLoWgIQ8bNC5mXpFgewSq) | [Inge mer fun](https://open.spotify.com/album/75J4SpsZaxeNt8xMCUoB4m) | 4:01 | 2024-06-28 | 2024-08-23 |
 | [Inget halleluja](https://open.spotify.com/track/4k5DrIPXSfB1nDxjQcAkyV) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [Inget halleluja](https://open.spotify.com/album/4wJROHXVthUZyZofON9tj8) | 3:56 | 2024-06-28 | 2024-08-30 |
 | [Innerst Inne](https://open.spotify.com/track/3NiibjPSAaQgCaEw62HTgl) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW), [Elias Abbas](https://open.spotify.com/artist/4QvI3PrYRXq9A2UbeQAKH6) | [Innerst Inne](https://open.spotify.com/album/4mHCK5SAkgmrcUY6RTYQbU) | 2:35 | 2024-07-29 |  |
+| [It's ok I'm ok](https://open.spotify.com/track/24XihnoVPWXlKJ4BgXqjVM) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [It's ok I'm ok](https://open.spotify.com/album/5qfivA7g2aAhAIPnSb0csp) | 2:36 | 2024-09-13 |  |
 | [Jackrabbit](https://open.spotify.com/track/4YJwViRMJjbnCmBCtBAaZM) | [Hanna Järver](https://open.spotify.com/artist/6JHabNWuD8rd3TQQtMf6Q5) | [Jackrabbit](https://open.spotify.com/album/6hyRcNW7sC85JHhDE0krBe) | 2:39 | 2024-06-28 |  |
 | [Jag drömmer mig fri](https://open.spotify.com/track/1eH7fE5AZvPC8CxQrUAim3) | [Gustaf Rasch](https://open.spotify.com/artist/5M0IE8KpXEtuW3tu6clYdh) | [Jag drömmer mig fri](https://open.spotify.com/album/3BDnwsKU1qJWNTSuCrzjqe) | 3:11 | 2024-06-28 | 2024-08-23 |
 | [jag mår inte bra </3](https://open.spotify.com/track/78IgWqUnswiKKwxnr4jbWI) | [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4) | [jag mår inte bra </3](https://open.spotify.com/album/1vdEbu1fVuZwJdnRMTr9KM) | 2:35 | 2024-06-28 | 2024-08-09 |
@@ -110,6 +111,7 @@
 | [My Hands In The Water](https://open.spotify.com/track/3pGJFOWqwUrxVt4Tzl8YVC) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [My Hands In The Water](https://open.spotify.com/album/1k9WtmIp5FQmQi5c1BRKYj) | 4:36 | 2024-06-28 | 2024-08-23 |
 | [No Fun](https://open.spotify.com/track/1AdgVWMgeSZNj59u16F0gV) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [No Fun](https://open.spotify.com/album/0EsVZT9jNfgQNkKcAXqNYb) | 3:19 | 2024-06-28 |  |
 | [NOSTALGI](https://open.spotify.com/track/4TqpAtvf3o2bQp255k4V8n) | [Ella Rammelt](https://open.spotify.com/artist/5Q16MIBSMECMqeKAHKw9qE) | [NOSTALGI](https://open.spotify.com/album/4yLwv3kbaczSeyrbdXin8U) | 2:26 | 2024-06-28 | 2024-08-23 |
+| [Old Memories](https://open.spotify.com/track/5IzWICVgQOiXbxmwwEZ28m) | [HNE](https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP) | [Old Memories](https://open.spotify.com/album/7ijX9leG6yfbPEFj3w6vs5) | 2:30 | 2024-09-13 |  |
 | [Ord som lämnats kvar](https://open.spotify.com/track/7GSxiR9jtTGz7DLrXxRoUI) | [Svart Ridå](https://open.spotify.com/artist/2RDTmgr7EdHCN0hmw8XoJM) | [Ord som lämnats kvar](https://open.spotify.com/album/5dMkrrRuILXMuoQ0C43Gji) | 6:35 | 2024-06-28 | 2024-08-30 |
 | [Ordna sig](https://open.spotify.com/track/7uFizp3Ub3xTv4qSxNTTGO) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Ordna sig](https://open.spotify.com/album/6nX94IWKw5BwI7eitPb5aP) | 2:31 | 2024-06-28 |  |
 | [Out of My Mind](https://open.spotify.com/track/6UrTdjYSWXSlquuD1P58h8) | [NOEL](https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p) | [Out of My Mind](https://open.spotify.com/album/1xStOYlPRK1SRoPIDtN75f) | 3:37 | 2024-06-28 |  |
@@ -119,6 +121,7 @@
 | [prismor](https://open.spotify.com/track/3qR6U22OHQY7YykVUrGZSV) | [Maja Gödicke](https://open.spotify.com/artist/211ACOZQsLwIxPJIIz7nEG) | [arken/prismor](https://open.spotify.com/album/0w84MKny8k6Usfod8gDVxD) | 4:08 | 2024-06-28 | 2024-09-13 |
 | [Pussycat.](https://open.spotify.com/track/3hYukOigwKrMYWsBdsbLR2) | [Ängie](https://open.spotify.com/artist/3pgtze01npIBY3DCDD5flw), [Skoj](https://open.spotify.com/artist/4uzSrpMGBFoDhRzprCuP5E) | [Pussycat.](https://open.spotify.com/album/3SkhxORgSxmzQ4t9d4vrQs) | 3:56 | 2024-08-15 |  |
 | [På sommaren](https://open.spotify.com/track/4zcVspiimgdU7VOGCNBLLB) | [Gustaf Rasch](https://open.spotify.com/artist/5M0IE8KpXEtuW3tu6clYdh) | [På sommaren](https://open.spotify.com/album/2pqShugX6VXlHKMENACUAF) | 3:11 | 2024-08-15 |  |
+| [Ramlar jag så faller allt](https://open.spotify.com/track/7x9s3qBALHJSuo87RNL4OW) | [J1](https://open.spotify.com/artist/2bF6WnPOya736x0kgmfjrH) | [Ramlar jag så faller allt](https://open.spotify.com/album/59TJFFQFmjUzzKaFHXw3l6) | 2:29 | 2024-09-13 |  |
 | [REAL](https://open.spotify.com/track/7eorbMGNa05rVo2v6d7SQD) | [total tommy](https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc) | [REAL](https://open.spotify.com/album/6vtQu8WfdKOpN14pOHoa9g) | 3:23 | 2024-08-08 |  |
 | [Red Light](https://open.spotify.com/track/0OSrRgvrRmmWyCQPeJa6XI) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Red Light](https://open.spotify.com/album/70rzzUTCO7zObGgNl4tkvA) | 2:41 | 2024-06-28 | 2024-08-16 |
 | [Right Here](https://open.spotify.com/track/0a0A8jVA0TfQkv9zCGbsP6) | [Fee van Deelen](https://open.spotify.com/artist/0YWNM5Kfhj7w5MBOgq8W1B) | [Right Here](https://open.spotify.com/album/4VLIa6SNzRP3NZeA0ZhtlV) | 3:43 | 2024-06-28 | 2024-08-23 |

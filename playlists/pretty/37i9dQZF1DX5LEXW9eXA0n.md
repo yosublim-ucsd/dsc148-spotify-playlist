@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > New & hot K\-Pop ballads\. \(Cover: LEE CHANGSEOB\(이창섭\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,876 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,879 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 10 | [Desire And Hope \(Original Soundtrack from the Webtoon The Siren : Becoming the Villain's Family\)](https://open.spotify.com/track/1Ag5qTEW7daPrRNgQESisT) | [HAEUN](https://open.spotify.com/artist/0WKfT4co6LsEBQr7Gmype2) | [Desire And Hope \(Original Soundtrack from the Webtoon The Siren : Becoming the Villain's Family\)](https://open.spotify.com/album/2HXglsCZnqJU8W1qd6cER8) | 3:32 |
 | 11 | [No Sad Song For My Broken Heart](https://open.spotify.com/track/68jFZoDvQrM4QUwZuC6oLa) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [All The Way](https://open.spotify.com/album/1s3QsCUiHLP0kbKUulGUMc) | 3:09 |
 | 12 | [Threshold](https://open.spotify.com/track/0KCCMxvjXlhxH0Ha37popR) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Knock](https://open.spotify.com/album/0BtqrZfG23yUBgYVzL8yhm) | 4:11 |
-| 13 | [Second love](https://open.spotify.com/track/7rtiRvjNbd05I1KSUVblzK) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [20th Anniversary of the Korean Wave Part.1](https://open.spotify.com/album/1Q0PvlQflbbOgSKYSYe5uL) | 4:17 |
+| 13 | [Second love](https://open.spotify.com/track/7rtiRvjNbd05I1KSUVblzK) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [Second love \(20th Anniversary of the Korean Wave Part.1\)](https://open.spotify.com/album/1Q0PvlQflbbOgSKYSYe5uL) | 4:17 |
 | 14 | [a sad invitation](https://open.spotify.com/track/5LvFaKs1QN2nR65h4tJN4R) | [YOON JI HWAN](https://open.spotify.com/artist/6zWAOib8XIaq1ttDw7u2j4) | [a sad invitation](https://open.spotify.com/album/3Miicdgx3CUIAfLiMUja2F) | 4:06 |
 | 15 | [Let’s Say Goodbye](https://open.spotify.com/track/2rj6rzz1qLMrZf8yWFwp9r) | [Parc Jae Jung](https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy) | [Alone](https://open.spotify.com/album/2gExd6MximoW6GNvG7tw5D) | 4:03 |
 | 16 | [Old Song](https://open.spotify.com/track/1rxzTIwzyHtg5FufNtjzMG) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys), [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz), [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC), [Lee Jin Sung](https://open.spotify.com/artist/0MFlXSWpgwmot3jIZro34j), [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5), [An Nyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [Old Song](https://open.spotify.com/album/4qZ85vAqDn3maSw5wLTLNQ) | 4:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 99 | [Look at your picture](https://open.spotify.com/track/6uHuMQ3o59hCQ9e8WXtLvk) | [\#Annyeong](https://open.spotify.com/artist/73hSL2bbnBDJl4i3hsJB73) | [Look at your picture](https://open.spotify.com/album/2piZV8x60WuZqgXrLlGrX9) | 3:29 |
 | 100 | [Smile Good Bye](https://open.spotify.com/track/1vu1wBqNQrb4xd1LkGZUhP) | [JUNGWOO](https://open.spotify.com/artist/26ECn7DzgrUo23kSC9KD7k) | [Fu Bao and Grandfather, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/63VEhZPp18K6viQ4NNb0Zt) | 3:48 |
 
-Snapshot ID: `ZuQBIAAAAADrpUznBkP9JNYcMWL1n7sG`
+Snapshot ID: `ZuQBIAAAAABas4Dc/FTZt81dViWuLB0W`

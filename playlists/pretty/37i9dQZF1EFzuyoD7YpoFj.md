@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 329 likes - 407 songs - 21 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 330 likes - 407 songs - 21 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,8 +134,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 124 | [Drink, Drink, Drink \(From "The Student Prince"\) \- 1989 Remastered](https://open.spotify.com/track/30tX2F6ZFvH2dWQ1AkEVvZ) | [Sigmund Romberg](https://open.spotify.com/artist/04aXJJTCmpNfMOTSUf3Whr), [Mario Lanza](https://open.spotify.com/artist/6umNMJq7B8UdOVmwPV6PRL), [Constantine Callinicos](https://open.spotify.com/artist/5q4QWdLMfB8Rxb3UwW8Pd2) | [Mario Lanza Sings Songs From The Student Prince and The Desert Song](https://open.spotify.com/album/2vkzY6KUTr9im79XOPdycM) | 3:15 |
 | 125 | [One Summer Night](https://open.spotify.com/track/1jYcO0S7Ix5t4UInpifPZP) | [The Diamonds](https://open.spotify.com/artist/3s9kaLrpplvv4vIzZBYPga) | [Little Darlin'](https://open.spotify.com/album/37j0wCqyezW0pVmqRuVevm) | 2:33 |
 | 126 | [Paris Loves Lovers](https://open.spotify.com/track/2GLMlLdnJfoVEmQtO2VKH9) | [Fred Astaire \(performer\), Carol Richards \(performer\)](https://open.spotify.com/artist/1Z0vfvtXmLPTqlA6SyraDX) | [Silk Stockings \(1957 Film Original Score\)](https://open.spotify.com/album/0DILJjdh0kZanhSVd0jPvL) | 2:43 |
-| 127 | [Prelude To Worship](https://open.spotify.com/track/0feKWwmnnz08DBXAr4th6Y) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN) | [Sounds of Revival II: Deeper](https://open.spotify.com/album/7F9tndM6oerE0sO04qBdRf) | 3:28 |
-| 128 | [I Hate Men](https://open.spotify.com/track/1iLv1uhto99gSbjhvrL5ij) | [Broadway Cast Recording](https://open.spotify.com/artist/6sOb9xJUZJ8lWcRcZE8bp8) | [Kiss Me Kate \- Music By Cole Porter](https://open.spotify.com/album/7qPCNFVeywaa2WMEK0UaW7) | 3:26 |
+| 127 | [I Hate Men](https://open.spotify.com/track/1iLv1uhto99gSbjhvrL5ij) | [Broadway Cast Recording](https://open.spotify.com/artist/6sOb9xJUZJ8lWcRcZE8bp8) | [Kiss Me Kate \- Music By Cole Porter](https://open.spotify.com/album/7qPCNFVeywaa2WMEK0UaW7) | 3:26 |
+| 128 | [Prelude To Worship](https://open.spotify.com/track/0feKWwmnnz08DBXAr4th6Y) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN) | [Sounds of Revival II: Deeper](https://open.spotify.com/album/7F9tndM6oerE0sO04qBdRf) | 3:28 |
 | 129 | [The Crew Song](https://open.spotify.com/track/06otCdjIpLWYGC2mD67KfN) | [John Mcmartin](https://open.spotify.com/artist/6lpPLbDpXX20IEZyluDqxY) | [Anything Goes \(New Broadway Cast Recording\)](https://open.spotify.com/album/6yH8LWqApBErvtBGSSwGzL) | 1:28 |
 | 130 | [The Gypsy in Me](https://open.spotify.com/track/0ij6wB42Kc0Qd9TejMKt4m) | [Adam Godley](https://open.spotify.com/artist/1PDFmDvH5SrJ6R0eHJlrk4), [Sutton Foster](https://open.spotify.com/artist/2RWaZohsuqSJX9xWX3p95G) | [Anything Goes \(New Broadway Cast Recording\)](https://open.spotify.com/album/6yH8LWqApBErvtBGSSwGzL) | 3:43 |
 | 131 | [Buddie Beware](https://open.spotify.com/track/3ruxXjlhXyYpZuGhtPksTr) | [Jessica Stone](https://open.spotify.com/artist/7LqVU6rPQIAyrXa693LBvA), ['Anything Goes' New Broadway Cast Ensemble](https://open.spotify.com/artist/66t5xqw9MdEEgfUmKs6DOD) | [Anything Goes \(New Broadway Cast Recording\)](https://open.spotify.com/album/6yH8LWqApBErvtBGSSwGzL) | 3:28 |
@@ -228,8 +228,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 218 | [High Society](https://open.spotify.com/track/6LDnETyFx7w7h3ju7Co3pE) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Complete RCA Victor Recordings](https://open.spotify.com/album/4Ayz7LNkwTxzJsd2mfWmrQ) | 3:26 |
 | 219 | [Ours](https://open.spotify.com/track/78KdwqXUk0AuKFHDy32ABX) | [Mabel Mercer](https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K) | [Mabel Mercer Sings Cole Porter](https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN) | 2:49 |
 | 220 | [Kathleen \- Live Acoustic](https://open.spotify.com/track/3SC8x0PyR3qTcqoWZ0cMbz) | [Foxes](https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug) | [Friends In The Corner EP](https://open.spotify.com/album/4HgR3HFuMXAEXF8gT2xa6B) | 3:57 |
-| 221 | [You've Got That Thing](https://open.spotify.com/track/5r8uoFu7Nh75WlyTY8eyPb) | [Ted Lewis](https://open.spotify.com/artist/2h7jCpFL30Uw8mziW89bGM) | [Presenting Ted Lewis](https://open.spotify.com/album/32Iee7KGL4wB0KXRfVkfoK) | 3:02 |
-| 222 | [If I Love Truly](https://open.spotify.com/track/5Mb2It5DIYn31rudSJPPWj) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Éxitos Inolvidables De Cole Porter](https://open.spotify.com/album/2A3nXj08Js61tgGduWopiM) | 2:27 |
+| 221 | [If I Love Truly](https://open.spotify.com/track/5Mb2It5DIYn31rudSJPPWj) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Éxitos Inolvidables De Cole Porter](https://open.spotify.com/album/2A3nXj08Js61tgGduWopiM) | 2:27 |
+| 222 | [You've Got That Thing](https://open.spotify.com/track/5r8uoFu7Nh75WlyTY8eyPb) | [Ted Lewis](https://open.spotify.com/artist/2h7jCpFL30Uw8mziW89bGM) | [Presenting Ted Lewis](https://open.spotify.com/album/32Iee7KGL4wB0KXRfVkfoK) | 3:02 |
 | 223 | [Everything I Love](https://open.spotify.com/track/3wfmbgaGrmNZxCs2NWgGP9) | [Zoot Sims](https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap) | [Zoot Sims avec Henri Renaud et son orchestre](https://open.spotify.com/album/1tYXf9tuMLCiUrW18UwlHE) | 4:18 |
 | 224 | [Hotel Balcony](https://open.spotify.com/track/2Y5DJlXI8AO3MAe16BkTAH) | [Original Soundtrack](https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF) | [Evil Under The Sun \- Music By Cole Porter](https://open.spotify.com/album/5vaF9smmAAsU9HpImD7EzI) | 1:09 |
 | 225 | [What Shall I Do?](https://open.spotify.com/track/6X3RuVm475liSLu6RalfRV) | [Sananda Maitreya](https://open.spotify.com/artist/6RGxLsQUoGk5PLyMVwb3yE) | [WildCard! \(The Jokers' Edition\)](https://open.spotify.com/album/2zTb0nRwFBinCiZG8QgI3k) | 5:11 |
@@ -416,4 +416,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 406 | [Fish](https://open.spotify.com/track/31XMjn25vt3WReCJLzJvas) | [Wilfried Van Den Brande](https://open.spotify.com/artist/0SWts3H6XfovTeyTpePeYE) | [When Love Comes to Call](https://open.spotify.com/album/3UNm9uCpK0Q8bFn5NZ5hRJ) | 3:10 |
 | 407 | [You've Got Something](https://open.spotify.com/track/3mOu0wnhrLDqM2QPIGt3vh) | [Armando Trovajoli e La Sua Orchestra](https://open.spotify.com/artist/5WyhUmiKmVxjyCNgM4GbEw) | [Prigionieri del Cielo](https://open.spotify.com/album/6UIfJA1Rnz3OI5pwp4GUPr) | 3:56 |
 
-Snapshot ID: `AbcEPgAAAAAYWNbIJvBfSrefesB1X35K`
+Snapshot ID: `AbcJ3gAAAACnc+hjsQWOOvfHBnqbIfxt`

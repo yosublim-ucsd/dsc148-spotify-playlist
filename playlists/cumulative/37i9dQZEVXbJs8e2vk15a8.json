@@ -862,7 +862,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-14",
+      "date_removed": null,
       "duration_ms": 175280,
       "name": "444",
       "url": "https://open.spotify.com/track/1o4xkdBe0RjSf2u6VXi4OI"
@@ -8400,7 +8400,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 196477,
       "name": "CIEGO SORDO MUDO",
       "url": "https://open.spotify.com/track/2q7lduBHmZ3HeqkUKZEM7h"
@@ -11185,6 +11185,24 @@
     },
     {
       "album": {
+        "name": "Vuelve a empezar...",
+        "url": "https://open.spotify.com/album/1nG7G3X1O65GOXCuMAWa0Y"
+      },
+      "artists": [
+        {
+          "name": "Entremares",
+          "url": "https://open.spotify.com/artist/7KPcBMsOzS2QvKzkjj1kxU"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144392,
+      "name": "Desde Que No Estas Presente",
+      "url": "https://open.spotify.com/track/5sLvjHRNPrT6E0psHlU9Dz"
+    },
+    {
+      "album": {
         "name": "Vuelve a Empezar...",
         "url": "https://open.spotify.com/album/0jz6DTuF6Z4hCADpov1CMd"
       },
@@ -13886,7 +13904,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 208672,
       "name": "epitafio",
       "url": "https://open.spotify.com/track/6sDUNBiHIMYI5dC6TeGQNs"
@@ -19874,8 +19892,8 @@
       },
       "artists": [
         {
-          "name": "Azumi Takahashi",
-          "url": "https://open.spotify.com/artist/7k7EQbtXRe9Y0fejJoMDrH"
+          "name": "\u9ad8\u6a4b\u3042\u305a\u7f8e",
+          "url": "https://open.spotify.com/artist/4VeqFgWkP7P9eEGwzPuXcM"
         },
         {
           "name": "Lotus Juice",
@@ -25684,7 +25702,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 153786,
       "name": "mg kmo aplaude",
       "url": "https://open.spotify.com/track/4x47CXbaYZ079ASrlcAeBG"
@@ -44138,7 +44156,7 @@
       ],
       "date_added": "2023-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-22",
+      "date_removed": null,
       "duration_ms": 181066,
       "name": "Viernes 13",
       "url": "https://open.spotify.com/track/3oZ1k0maDv6kIcFMy03OdW"

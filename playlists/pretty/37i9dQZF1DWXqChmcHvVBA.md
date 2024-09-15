@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqChmcHvVBA.md) - [plain]
 
 > No es cumbia, tampoco reggaetón\. Foto: La Joaqui & elaggume.
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,662 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,948 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqChmcHvVBA.md) - [plain]
 | 12 | [SALE SOLA](https://open.spotify.com/track/2xm4FQMffynQ251pwc0Rcn) | [RAMKY EN LOS CONTROLES](https://open.spotify.com/artist/6jXFmaC0CvsIRSzxapsnNd), [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN) | [SALE SOLA](https://open.spotify.com/album/5mWt90aqfwx2SoepYXeOuk) | 2:05 |
 | 13 | [LLEGUÉ YO](https://open.spotify.com/track/07XP74OBxaDGNGqllhORde) | [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [LLEGUÉ YO](https://open.spotify.com/album/0gBAdQq0uKOeiFxCjutBB9) | 2:23 |
 | 14 | [SOLTERO](https://open.spotify.com/track/7ytAHohytO1TxO9yF5vn7d) | [elaggume](https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU), [Fauna Music](https://open.spotify.com/artist/5OnpSUKZU23JCU8axe7b2P) | [SOLTERO](https://open.spotify.com/album/1QGuXd9G1ymlQMq50ofEek) | 2:25 |
-| 15 | [SE DICE DE MI](https://open.spotify.com/track/2wEhjcnre2PU36KQNBLXCC) | [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [Tuti DJ](https://open.spotify.com/artist/5Zk54wioCsUtq5ggUWXqlK), [Pereiraremix](https://open.spotify.com/artist/0sE8WmITfzXJwYGdtbo8B0) | [SE DICE DE MI](https://open.spotify.com/album/1hRsbHaRtaYcvPVKe1ZhvI) | 2:14 |
+| 15 | [SE DICE DE MI](https://open.spotify.com/track/2wEhjcnre2PU36KQNBLXCC) | [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [Tuti DJ](https://open.spotify.com/artist/5Zk54wioCsUtq5ggUWXqlK), [Pereiraremix](https://open.spotify.com/artist/0sE8WmITfzXJwYGdtbo8B0) | [SE DICE DE MI](https://open.spotify.com/album/1hRsbHaRtaYcvPVKe1ZhvI) | 2:16 |
 | 16 | [MAS LENTITO RKT](https://open.spotify.com/track/2K1VdnrPKRQCzLT5EjLwJ9) | [djsantaa](https://open.spotify.com/artist/068E65n4GrnZLh7vEJtxqS), [Bruno Chavez Dj](https://open.spotify.com/artist/6pf1Aic1aYncmOxV1D9gh5) | [MAS LENTITO RKT](https://open.spotify.com/album/69n7QKDtjFcunerQJk4Wr2) | 3:02 |
 | 17 | [Para el Tiktok](https://open.spotify.com/track/4zgEanSngHa5vqehDVlY8x) | [Lolo OG](https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv), [Axel Caram](https://open.spotify.com/artist/2PkjYgKhHI4qofYoxWB9ZP) | [Para el Tiktok](https://open.spotify.com/album/6N92O2oINCkzp5qwKLSIWt) | 1:59 |
 | 18 | [Cierre Rkt](https://open.spotify.com/track/1NVBLZ63QLBjBoh5Tf0pKj) | [Eze Remix](https://open.spotify.com/artist/3rYTay1spPOr6LYSAdQ9AT), [Matt Sebastian](https://open.spotify.com/artist/47LeSViBakxCTkCjQ1NYdt) | [Cierre Rkt](https://open.spotify.com/album/5ZFFrfRXB0esjxL87DTqWd) | 2:00 |

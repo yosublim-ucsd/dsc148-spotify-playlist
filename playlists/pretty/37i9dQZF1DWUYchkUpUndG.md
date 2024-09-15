@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: "<a href=https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb?si=mi9ltdkFRwWVMtKEJoMPvA>Joe Mettle</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,663 likes - 104 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,671 likes - 104 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 75 | [HolyGhost Chant](https://open.spotify.com/track/1LOl3TsI8vXbxM6jQxYacc) | [Thepeterjacobs](https://open.spotify.com/artist/30ikjsa4ad1hwe7NJsfh8Z) | [HolyGhost Chant](https://open.spotify.com/album/1WuVqRsh171PNAtqac99v4) | 9:20 |
 | 76 | [WHY ME 2](https://open.spotify.com/track/6u1bBYwqCv3nsNcJ2RLn8I) | [Realist Kingsolo](https://open.spotify.com/artist/5NA7wzrYFKmxYrv0GFOSyS), [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG) | [WHY ME 2](https://open.spotify.com/album/2gXbStMiGIL8sOtkeFMzIP) | 3:06 |
 | 77 | [Worship and Adoration](https://open.spotify.com/track/7g2gsAGBYwzcbvltv2rzIp) | [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [Worship and Adoration](https://open.spotify.com/album/1F4r0a22ZYty1JpK1oD7ya) | 3:21 |
-| 78 | [Your Name is Jesus \- Speed Up Version](https://open.spotify.com/track/5HJLK1QgAVYGfkDu6vdkRt) | [Eljoe onoja](https://open.spotify.com/artist/63Y0MtLSfC9rjMZ1KsqTZi) | [Your Name is Jesus \- Speed Up Version](https://open.spotify.com/album/3dSZu7rn4AFSZXZ7rqbq5H) | 3:07 |
+| 78 | [Your Name is Jesus \- Speed Up Version](https://open.spotify.com/track/5HJLK1QgAVYGfkDu6vdkRt) | [Eljoe Onoja](https://open.spotify.com/artist/63Y0MtLSfC9rjMZ1KsqTZi) | [Your Name is Jesus \- Speed Up Version](https://open.spotify.com/album/3dSZu7rn4AFSZXZ7rqbq5H) | 3:07 |
 | 79 | [Amen](https://open.spotify.com/track/0K2I5mJ01yf7TXp3I6zT2f) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [Amen](https://open.spotify.com/album/47vCyiBxTIJHHzitbLfTEX) | 2:33 |
 | 80 | [Worship streams](https://open.spotify.com/track/4ZfHPqmWIqVMzvdxBqnwnT) | [Anthony Kani](https://open.spotify.com/artist/7q7gcqRoGAPXojRY9EFJAO) | [Worship streams](https://open.spotify.com/album/5LobY9YyC1XqK4YbVptxWI) | 27:39 |
 | 81 | [Never Far Away](https://open.spotify.com/track/3OHnlR0u3ciN0KvKzUJHcE) | [Quiz Tha Great](https://open.spotify.com/artist/7nFhhSgJh6V2fvLGByut8v), [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21) | [Never Far Away](https://open.spotify.com/album/1ShgCyXzClfNFfqsJz3a5s) | 2:40 |

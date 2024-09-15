@@ -2,7 +2,7 @@
 
 ### [This Is Julión Álvarez y su Norteño Banda](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0DB5ni)
 
-> This Is Julión Álvarez y su Norteño Banda\. Los temas esenciales, todos en una lista.
+> This is Julión Álvarez y su Norteño Banda\. The essential tracks, all in one playlist.
 
 59 songs - 2 hr 53 min
 

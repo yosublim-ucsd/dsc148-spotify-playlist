@@ -4,7 +4,7 @@
 
 > Lo mejor del pop electrónico en español.
 
-137 songs - 8 hr 24 min
+138 songs - 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [la noche de ayer](https://open.spotify.com/track/7aSmfvPckOTRr0AJ3rmCCF) | [chicarica](https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN) | [la noche de ayer](https://open.spotify.com/album/4e31Xo3NfTRxm9TdVgw4DR) | 4:15 | 2023-09-08 |  |
 | [Latina](https://open.spotify.com/track/0bVVqy2JB5oztWohSkWhPU) | [Entrópica](https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08), [Sukubito](https://open.spotify.com/artist/0JzKb7hoduFrEG3poYHHqy) | [Latina](https://open.spotify.com/album/3QPv9v7HojqK3ebBcfBpzR) | 3:07 | 2023-09-08 | 2023-11-25 |
 | [Locura](https://open.spotify.com/track/79NtEgOBdPsUCwynkb9sHK) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02) | [Latinoamericana](https://open.spotify.com/album/0rJcvw5YO9a1QpktRZESAv) | 3:37 | 2023-09-08 | 2024-04-19 |
-| [Lucidez](https://open.spotify.com/track/1d9Y8VhQKy03r996XabxX8) | [Antonia Navarro](https://open.spotify.com/artist/1xmUtLnSPwuJOVGB5kZwSt) | [Lucidez](https://open.spotify.com/album/1XZRNnQ1dcp59OJrq5DtUD) | 6:11 | 2023-09-08 |  |
+| [Lucidez](https://open.spotify.com/track/1d9Y8VhQKy03r996XabxX8) | [Antonia Navarro](https://open.spotify.com/artist/1xmUtLnSPwuJOVGB5kZwSt) | [Lucidez](https://open.spotify.com/album/1XZRNnQ1dcp59OJrq5DtUD) | 6:11 | 2023-09-08 | 2024-09-15 |
 | [Lucía](https://open.spotify.com/track/2IKC7XhiH7ZVVESFYmW1Ru) | [Renata Di Croce](https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr) | [Lucía](https://open.spotify.com/album/4Ni2gs4GGSo6NmJjvKL0NH) | 4:49 | 2023-09-08 |  |
 | [Lunes Por La Madrugada](https://open.spotify.com/track/7pEdDV1Izn1DgGhgTmhMM5) | [Ibiza Pareo](https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw) | [Por Si Acaso Se Acaba El Mundo](https://open.spotify.com/album/4I1OiCznYVs09RpmTSIUm8) | 3:03 | 2023-11-24 |  |
 | [MAL NECESARIO](https://open.spotify.com/track/55M73tEx2Db51y2hXvkaY9) | [Anto Segovia](https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF) | [MAL NECESARIO](https://open.spotify.com/album/2N7E8e5LmRFUv7yRnYazyB) | 2:54 | 2023-09-08 |  |
@@ -91,6 +91,7 @@
 | [Nada que ver](https://open.spotify.com/track/3lD8DZfzilDTI0R42VSCvr) | [Halpe](https://open.spotify.com/artist/5fUaIEaRhzIad7C49MqTsy), [Solo Juan](https://open.spotify.com/artist/6RokCoxONJFwZ3myq6unmI) | [Nada que ver](https://open.spotify.com/album/65G9K1ZVORf6C2esI96EGI) | 3:13 | 2024-04-26 |  |
 | [Nft](https://open.spotify.com/track/3PPacFl0rmIS8P2eUtigwo) | [¿Juan Julian?](https://open.spotify.com/artist/2ZWvepdJUT489wth5EJdO7), [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Nft](https://open.spotify.com/album/6K8hkoBWggnzNWvkbRdxim) | 3:41 | 2023-09-08 | 2023-11-21 |
 | [Nico Valdi produciendo a Ruggero y Bernardita](https://open.spotify.com/track/08S5L7YbAGwNxDJJ9yU9ZK) | [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4), [RUGGERO](https://open.spotify.com/artist/3YLlfcDiFzKJXhTK4sKuCz), [Bernardita Sonzini](https://open.spotify.com/artist/1Sdd0GHzVVAXY9nZOuvsrL) | [Nico Valdi produciendo a Ruggero y Bernardita](https://open.spotify.com/album/33ekTyVf1xcrbvEof3WClm) | 2:43 | 2024-02-02 |  |
+| [NO ME PREGUNTES](https://open.spotify.com/track/6JKddTJyXbGga6mShraM58) | [Niki Rouge](https://open.spotify.com/artist/6YSEtGjENmA8GPYecg87dQ), [Violeta Castillo](https://open.spotify.com/artist/2NtYHfTFxDUWZcQAxJBzhe) | [ahahahah!](https://open.spotify.com/album/56xzVV8S4I9dz9Wq95NgW1) | 3:36 | 2024-08-23 |  |
 | [No Van a Parar](https://open.spotify.com/track/1GLYsZMbHm72Uy2QvzdgDQ) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Anestesia](https://open.spotify.com/album/28uJVNr4dYysur0Fcay4B2) | 4:46 | 2023-09-08 |  |
 | [No Van a Parar \- Remix](https://open.spotify.com/track/3zY3SqG8uQdD2zhNQi98NY) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9), [Martin Gardoqui](https://open.spotify.com/artist/6fJ0uVfgglq5vO0UBwX3Am), [Matias Larrosa](https://open.spotify.com/artist/4eVyhOHPhAuM9rvjNhJ6kG) | [Desconfiguración, Vol\. 2](https://open.spotify.com/album/1yFI2RRP9WaDO0XqdtwXaX) | 7:28 | 2023-09-08 |  |
 | [No Ves Tal Vez \- Evlay Remix](https://open.spotify.com/track/6u9UrHLwwM51a69QUN9xcF) | [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ), [Jono McCleery](https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A) | [No Ves Tal Vez \(Evlay Remix\)](https://open.spotify.com/album/0GHjBHc8ZxFE22P9YATmku) | 5:13 | 2023-09-08 |  |

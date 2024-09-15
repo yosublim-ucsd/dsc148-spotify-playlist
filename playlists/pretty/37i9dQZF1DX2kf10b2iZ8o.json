@@ -1,6 +1,6 @@
 {
   "description": "Music from \"Idle Master SideM\". \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fcSideM\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.\n",
-  "num_followers": 23334,
+  "num_followers": 23337,
   "original_name": "THE IDOLM@STER SideM \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc SideM",
   "owner": {
     "name": "Spotify",
@@ -923,6 +923,22 @@
     {
       "added_at": "2024-03-05 17:33:35",
       "album": {
+        "name": "THE IDOLM@STER SideM ORIGIN@L PIECES 01",
+        "url": "https://open.spotify.com/album/4wZuTqLrABThBNX1C7LZNC"
+      },
+      "artists": [
+        {
+          "name": "\u5c71\u4e0b\u6b21\u90ce (CV.\u4e2d\u5cf6\u30e8\u30b7\u30ad)",
+          "url": "https://open.spotify.com/artist/3td7wBhA42i9AzLcbIzd0k"
+        }
+      ],
+      "duration_ms": 262680,
+      "name": "GOLD \uff5eNo.79\uff5e",
+      "url": "https://open.spotify.com/track/7Iiphl7su3tJcxtby6XZoN"
+    },
+    {
+      "added_at": "2024-03-05 17:33:35",
+      "album": {
         "name": "THE IDOLM@STER SideM 5th ANNIVERSARY 03",
         "url": "https://open.spotify.com/album/5ipJceUikIQdd5bgLaQsuX"
       },
@@ -947,22 +963,6 @@
     {
       "added_at": "2024-03-05 17:33:35",
       "album": {
-        "name": "THE IDOLM@STER SideM 49 ELEMENTS -07 Altessimo",
-        "url": "https://open.spotify.com/album/3vjUKQMaJjm1pc3RLhziH4"
-      },
-      "artists": [
-        {
-          "name": "\u90fd\u7bc9 \u572d (CV.\u571f\u5c90\u96bc\u4e00)",
-          "url": "https://open.spotify.com/artist/4uLjWMjKIIfL9EIjR6vnQx"
-        }
-      ],
-      "duration_ms": 309866,
-      "name": "Resonate Blessing",
-      "url": "https://open.spotify.com/track/4Wb3NyRgnl8o3helEmmCUm"
-    },
-    {
-      "added_at": "2024-03-05 17:33:35",
-      "album": {
         "name": "THE IDOLM@STER SideM 3rd ANNIVERSARY 01",
         "url": "https://open.spotify.com/album/0pKniFFDpwItfygikcY5BG"
       },
@@ -975,6 +975,22 @@
       "duration_ms": 320733,
       "name": "Reversed Masquerade",
       "url": "https://open.spotify.com/track/7KNQtN04Y4J4NOrRsQ9clC"
+    },
+    {
+      "added_at": "2024-03-05 17:33:35",
+      "album": {
+        "name": "THE IDOLM@STER SideM 49 ELEMENTS -07 Altessimo",
+        "url": "https://open.spotify.com/album/3vjUKQMaJjm1pc3RLhziH4"
+      },
+      "artists": [
+        {
+          "name": "\u90fd\u7bc9 \u572d (CV.\u571f\u5c90\u96bc\u4e00)",
+          "url": "https://open.spotify.com/artist/4uLjWMjKIIfL9EIjR6vnQx"
+        }
+      ],
+      "duration_ms": 309866,
+      "name": "Resonate Blessing",
+      "url": "https://open.spotify.com/track/4Wb3NyRgnl8o3helEmmCUm"
     },
     {
       "added_at": "2024-03-05 17:33:35",
@@ -1035,22 +1051,6 @@
       "duration_ms": 260820,
       "name": "PROOF OF ONESELF",
       "url": "https://open.spotify.com/track/32XWDbc8fihB9Tc3i3cxgd"
-    },
-    {
-      "added_at": "2024-03-05 17:33:35",
-      "album": {
-        "name": "THE IDOLM@STER SideM ORIGIN@L PIECES 01",
-        "url": "https://open.spotify.com/album/4wZuTqLrABThBNX1C7LZNC"
-      },
-      "artists": [
-        {
-          "name": "\u5c71\u4e0b\u6b21\u90ce (CV.\u4e2d\u5cf6\u30e8\u30b7\u30ad)",
-          "url": "https://open.spotify.com/artist/3td7wBhA42i9AzLcbIzd0k"
-        }
-      ],
-      "duration_ms": 262680,
-      "name": "GOLD \uff5eNo.79\uff5e",
-      "url": "https://open.spotify.com/track/7Iiphl7su3tJcxtby6XZoN"
     },
     {
       "added_at": "2024-03-05 17:33:35",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-03-05 17:33:35",
       "album": {
-        "name": "THE IDOLM@STER SideM 3rd ANNIVERSARY 01",
-        "url": "https://open.spotify.com/album/0pKniFFDpwItfygikcY5BG"
-      },
-      "artists": [
-        {
-          "name": "Legenders",
-          "url": "https://open.spotify.com/artist/3nF9VBtBAC5Bi3vkIV1Ce6"
-        }
-      ],
-      "duration_ms": 286773,
-      "name": "Symphonic Brave",
-      "url": "https://open.spotify.com/track/5PhOAlr6qATj51HFHOZMaw"
-    },
-    {
-      "added_at": "2024-03-05 17:33:35",
-      "album": {
         "name": "THE IDOLM@STER SideM NEW STAGE EPISODE\uff1a02 THE \u864e\u7259\u9053",
         "url": "https://open.spotify.com/album/0JvkledARWRgZDOvqEzVHx"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 221400,
       "name": "Hungry?",
       "url": "https://open.spotify.com/track/2tbKrlz5rUmjZKBzT4A4lu"
+    },
+    {
+      "added_at": "2024-03-05 17:33:35",
+      "album": {
+        "name": "THE IDOLM@STER SideM 3rd ANNIVERSARY 01",
+        "url": "https://open.spotify.com/album/0pKniFFDpwItfygikcY5BG"
+      },
+      "artists": [
+        {
+          "name": "Legenders",
+          "url": "https://open.spotify.com/artist/3nF9VBtBAC5Bi3vkIV1Ce6"
+        }
+      ],
+      "duration_ms": 286773,
+      "name": "Symphonic Brave",
+      "url": "https://open.spotify.com/track/5PhOAlr6qATj51HFHOZMaw"
     },
     {
       "added_at": "2024-03-05 17:33:35",

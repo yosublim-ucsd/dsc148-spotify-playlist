@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "25",
+        "url": "https://open.spotify.com/album/0VUXnqYhSEbRpQiJ6pvcYt"
+      },
+      "artists": [
+        {
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198200,
+      "name": "25",
+      "url": "https://open.spotify.com/track/5AZbkQmVnvkCMX7kOIT6jg"
+    },
+    {
+      "album": {
         "name": "The Great American Bar Scene",
         "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
       },
@@ -1263,7 +1281,7 @@
     },
     {
       "album": {
-        "name": "Peiling (feat. \u00d8ystein Greni)",
+        "name": "Peiling (feat. Greni)",
         "url": "https://open.spotify.com/album/29D39IIN621Usm8AB3mv3l"
       },
       "artists": [
@@ -1272,15 +1290,15 @@
           "url": "https://open.spotify.com/artist/1XgbkJNbyHcYaa4WAjGlCc"
         },
         {
-          "name": "\u00d8ystein Greni",
-          "url": "https://open.spotify.com/artist/6SnoKMBVd7DLFgQ0PIcFlh"
+          "name": "Greni",
+          "url": "https://open.spotify.com/artist/7GgksazCOqOwZE9IoCpDLg"
         }
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 200000,
-      "name": "Peiling (feat. \u00d8ystein Greni)",
+      "name": "Peiling (feat. Greni)",
       "url": "https://open.spotify.com/track/7ezryXKj7BMWtsfdp5o8kX"
     },
     {
@@ -1880,7 +1898,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 189773,
       "name": "Tre sekunder",
       "url": "https://open.spotify.com/track/1YG1SeN28PvLdNzyBAeLww"

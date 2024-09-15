@@ -1,6 +1,6 @@
 {
   "description": "Deutschrap f\u00fcr die emotions. Cover: Montez",
-  "num_followers": 584416,
+  "num_followers": 584460,
   "original_name": "Rap in deep",
   "owner": {
     "name": "Spotify",
@@ -495,6 +495,22 @@
     {
       "added_at": "2024-09-09 10:35:04",
       "album": {
+        "name": "Anderer Mann",
+        "url": "https://open.spotify.com/album/4gI2vFMDTWeR7awhqWIrMg"
+      },
+      "artists": [
+        {
+          "name": "Milano",
+          "url": "https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm"
+        }
+      ],
+      "duration_ms": 135294,
+      "name": "Anderer Mann",
+      "url": "https://open.spotify.com/track/2aDAIq3vLuLFUUTOy1aZqY"
+    },
+    {
+      "added_at": "2024-09-09 10:35:04",
+      "album": {
         "name": "Bling Bling",
         "url": "https://open.spotify.com/album/7FUJDqWr0PvHJyIJeCsswA"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 161882,
       "name": "Vermissen (feat. Henning May)",
       "url": "https://open.spotify.com/track/07f2b3CTdgKKlhv0mqUksz"
-    },
-    {
-      "added_at": "2024-09-09 10:35:04",
-      "album": {
-        "name": "Anderer Mann",
-        "url": "https://open.spotify.com/album/4gI2vFMDTWeR7awhqWIrMg"
-      },
-      "artists": [
-        {
-          "name": "Milano",
-          "url": "https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm"
-        }
-      ],
-      "duration_ms": 135294,
-      "name": "Anderer Mann",
-      "url": "https://open.spotify.com/track/2aDAIq3vLuLFUUTOy1aZqY"
     },
     {
       "added_at": "2024-09-09 10:35:04",
@@ -607,26 +607,6 @@
       "duration_ms": 182823,
       "name": "Himmel Leer",
       "url": "https://open.spotify.com/track/1iZy5e1JQcMCICG1flsRNl"
-    },
-    {
-      "added_at": "2024-09-09 10:35:04",
-      "album": {
-        "name": "So wie du",
-        "url": "https://open.spotify.com/album/3mGUTfgRNeYKPt0fTCvGTh"
-      },
-      "artists": [
-        {
-          "name": "Milano",
-          "url": "https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm"
-        },
-        {
-          "name": "MERO",
-          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
-        }
-      ],
-      "duration_ms": 152647,
-      "name": "So wie du",
-      "url": "https://open.spotify.com/track/4De7M9SBUs3UAPOigflw4U"
     },
     {
       "added_at": "2024-09-09 10:35:04",
@@ -719,6 +699,26 @@
     {
       "added_at": "2024-09-09 10:35:04",
       "album": {
+        "name": "So wie du",
+        "url": "https://open.spotify.com/album/3mGUTfgRNeYKPt0fTCvGTh"
+      },
+      "artists": [
+        {
+          "name": "Milano",
+          "url": "https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm"
+        },
+        {
+          "name": "MERO",
+          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
+        }
+      ],
+      "duration_ms": 152647,
+      "name": "So wie du",
+      "url": "https://open.spotify.com/track/4De7M9SBUs3UAPOigflw4U"
+    },
+    {
+      "added_at": "2024-09-09 10:35:04",
+      "album": {
         "name": "nie wieder normal",
         "url": "https://open.spotify.com/album/6VUg6frxqTVbVlIn4oFoav"
       },
@@ -791,26 +791,6 @@
     {
       "added_at": "2024-09-09 10:35:04",
       "album": {
-        "name": "On/Off",
-        "url": "https://open.spotify.com/album/6fV2gDEnZrkEDz5ENTaL8x"
-      },
-      "artists": [
-        {
-          "name": "Milano",
-          "url": "https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm"
-        },
-        {
-          "name": "Kauta",
-          "url": "https://open.spotify.com/artist/706cem551IzKiczuAQIEDw"
-        }
-      ],
-      "duration_ms": 147500,
-      "name": "On/Off",
-      "url": "https://open.spotify.com/track/5X63FvEXgMGIt7LF6U7v2W"
-    },
-    {
-      "added_at": "2024-09-09 10:35:04",
-      "album": {
         "name": "Selber Schuld",
         "url": "https://open.spotify.com/album/0EMgrtQfKMle5eTHPnN9Fg"
       },
@@ -823,6 +803,22 @@
       "duration_ms": 141533,
       "name": "Selber Schuld",
       "url": "https://open.spotify.com/track/06iwXB6a9rN46oR9dAYrKi"
+    },
+    {
+      "added_at": "2024-09-09 10:35:04",
+      "album": {
+        "name": "Lautlos",
+        "url": "https://open.spotify.com/album/1RufCOYft4nmhYXpYZQKmW"
+      },
+      "artists": [
+        {
+          "name": "Morpheuz",
+          "url": "https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Lautlos",
+      "url": "https://open.spotify.com/track/2Y0jnnVN1KDg8On65Rw2Hk"
     },
     {
       "added_at": "2024-09-09 10:35:04",
@@ -847,18 +843,22 @@
     {
       "added_at": "2024-09-09 10:35:04",
       "album": {
-        "name": "Lautlos",
-        "url": "https://open.spotify.com/album/1RufCOYft4nmhYXpYZQKmW"
+        "name": "NuR Du :/",
+        "url": "https://open.spotify.com/album/2ri0pX0fz7FEQSW9xyKURZ"
       },
       "artists": [
         {
-          "name": "Morpheuz",
-          "url": "https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf"
+          "name": "Lune",
+          "url": "https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6"
+        },
+        {
+          "name": "SHABAB",
+          "url": "https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO"
         }
       ],
-      "duration_ms": 173000,
-      "name": "Lautlos",
-      "url": "https://open.spotify.com/track/2Y0jnnVN1KDg8On65Rw2Hk"
+      "duration_ms": 206085,
+      "name": "NuR Du :/",
+      "url": "https://open.spotify.com/track/3DYJ9tHSIhZqCVT8l5QAd0"
     },
     {
       "added_at": "2024-09-09 10:35:04",
@@ -883,22 +883,22 @@
     {
       "added_at": "2024-09-09 10:35:04",
       "album": {
-        "name": "NuR Du :/",
-        "url": "https://open.spotify.com/album/2ri0pX0fz7FEQSW9xyKURZ"
+        "name": "On/Off",
+        "url": "https://open.spotify.com/album/6fV2gDEnZrkEDz5ENTaL8x"
       },
       "artists": [
         {
-          "name": "Lune",
-          "url": "https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6"
+          "name": "Milano",
+          "url": "https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm"
         },
         {
-          "name": "SHABAB",
-          "url": "https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO"
+          "name": "Kauta",
+          "url": "https://open.spotify.com/artist/706cem551IzKiczuAQIEDw"
         }
       ],
-      "duration_ms": 206085,
-      "name": "NuR Du :/",
-      "url": "https://open.spotify.com/track/3DYJ9tHSIhZqCVT8l5QAd0"
+      "duration_ms": 147500,
+      "name": "On/Off",
+      "url": "https://open.spotify.com/track/5X63FvEXgMGIt7LF6U7v2W"
     },
     {
       "added_at": "2024-09-09 10:35:04",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-09-09 10:35:04",
       "album": {
-        "name": "Bisou :*",
-        "url": "https://open.spotify.com/album/6Y9pFqdaD1O343Vr9sZuR5"
-      },
-      "artists": [
-        {
-          "name": "Lune",
-          "url": "https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6"
-        }
-      ],
-      "duration_ms": 161587,
-      "name": "Bisou :*",
-      "url": "https://open.spotify.com/track/7dAI9IZpHaA9Lzhd8d60Tp"
-    },
-    {
-      "added_at": "2024-09-09 10:35:04",
-      "album": {
         "name": "Meilen",
         "url": "https://open.spotify.com/album/04I4jarsRUw4i2yM1dFIR0"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 139920,
       "name": "Meilen",
       "url": "https://open.spotify.com/track/5pfCq9M2nEztdSLpEwhgwC"
+    },
+    {
+      "added_at": "2024-09-09 10:35:04",
+      "album": {
+        "name": "Bisou :*",
+        "url": "https://open.spotify.com/album/6Y9pFqdaD1O343Vr9sZuR5"
+      },
+      "artists": [
+        {
+          "name": "Lune",
+          "url": "https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6"
+        }
+      ],
+      "duration_ms": 161587,
+      "name": "Bisou :*",
+      "url": "https://open.spotify.com/track/7dAI9IZpHaA9Lzhd8d60Tp"
     },
     {
       "added_at": "2024-09-09 10:35:04",
@@ -1671,26 +1671,6 @@
     {
       "added_at": "2024-09-09 10:35:04",
       "album": {
-        "name": "MISSED CALLS",
-        "url": "https://open.spotify.com/album/1Y5ep8GDT8ky8wwu02coOH"
-      },
-      "artists": [
-        {
-          "name": "Chapo102",
-          "url": "https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr"
-        },
-        {
-          "name": "102 Boyz",
-          "url": "https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR"
-        }
-      ],
-      "duration_ms": 132800,
-      "name": "MISSED CALLS",
-      "url": "https://open.spotify.com/track/4RHDWNlp4yrk54rQATSiQK"
-    },
-    {
-      "added_at": "2024-09-09 10:35:04",
-      "album": {
         "name": "Panikwei\u00df",
         "url": "https://open.spotify.com/album/759SIsxU0p4v2TJ2yrplV5"
       },
@@ -1707,6 +1687,26 @@
       "duration_ms": 170016,
       "name": "Panikwei\u00df",
       "url": "https://open.spotify.com/track/2sledoZeAbV6vtTo6HsrqG"
+    },
+    {
+      "added_at": "2024-09-09 10:35:04",
+      "album": {
+        "name": "MISSED CALLS",
+        "url": "https://open.spotify.com/album/1Y5ep8GDT8ky8wwu02coOH"
+      },
+      "artists": [
+        {
+          "name": "Chapo102",
+          "url": "https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr"
+        },
+        {
+          "name": "102 Boyz",
+          "url": "https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR"
+        }
+      ],
+      "duration_ms": 132800,
+      "name": "MISSED CALLS",
+      "url": "https://open.spotify.com/track/4RHDWNlp4yrk54rQATSiQK"
     },
     {
       "added_at": "2024-09-09 10:35:04",

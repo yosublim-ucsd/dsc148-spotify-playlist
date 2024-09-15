@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 
 > A collection of the best recent Prog Rock tracks\. Cover: VOLA
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,585 likes - 75 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,662 likes - 75 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 | 74 | [Am I Right](https://open.spotify.com/track/7n32ylRI401lWA9M8GjQ0L) | [James Labrie](https://open.spotify.com/artist/3bd5EpE5vC93GJT2u0fx4n) | [Am I Right](https://open.spotify.com/album/0FMv7NXQ1QnQNBHUoePAOV) | 5:52 |
 | 75 | [Lost In Space](https://open.spotify.com/track/0UHadqfTu8zVReXjLZDo7s) | [Hawklords](https://open.spotify.com/artist/0N8rhjytnqVsz7IWQ9pJ3Q) | [Space](https://open.spotify.com/album/35qTVuxGMe5WGxQOiKVWdn) | 7:10 |
 
-Snapshot ID: `ZuOOkAAAAAA+wxkXR+/kBfFqWjiAlvRT`
+Snapshot ID: `ZuOOkAAAAACnFRGO6LR+LKFjth7/A6Qd`

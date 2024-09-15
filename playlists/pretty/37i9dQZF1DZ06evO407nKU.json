@@ -1,12 +1,12 @@
 {
-  "description": "This is Perdidos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 49706,
+  "description": "This Is Perdidos De Sinaloa. Los temas esenciales, todos en una lista.",
+  "num_followers": 49712,
   "original_name": "This Is Perdidos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuIvAAAAAABL18Aq0cCKmlYXJq90sqvk",
+  "snapshot_id": "ZuOAgAAAAAAJTkbN0nExEL2aooSZ8yog",
   "tracks": [
     {
       "added_at": null,
@@ -823,6 +823,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "H\u00e1zmela Buena",
+        "url": "https://open.spotify.com/album/77ORGh8Qp12vD8aUK8YCgF"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 169351,
+      "name": "H\u00e1zmela Buena",
+      "url": "https://open.spotify.com/track/7inmHVezY9Lc0cTWkwoHFL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cuidala (En Vivo)",
         "url": "https://open.spotify.com/album/4cUZuVBzhtfyHKrVxcMALF"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 198314,
       "name": "Cuidala (En Vivo)",
       "url": "https://open.spotify.com/track/1im5XPyQaApqcc37320tvU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "H\u00e1zmela Buena",
-        "url": "https://open.spotify.com/album/77ORGh8Qp12vD8aUK8YCgF"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 169351,
-      "name": "H\u00e1zmela Buena",
-      "url": "https://open.spotify.com/track/7inmHVezY9Lc0cTWkwoHFL"
     },
     {
       "added_at": null,
@@ -947,8 +947,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rosas",
-        "url": "https://open.spotify.com/album/3hZlM7TdcIkHMyBiUB2dbh"
+        "name": "Cuando Se Ama a Una Mujer",
+        "url": "https://open.spotify.com/album/6Hgro2Y0AyPo8NJc9hPxiw"
       },
       "artists": [
         {
@@ -956,9 +956,9 @@
           "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
         }
       ],
-      "duration_ms": 287135,
-      "name": "Rosas",
-      "url": "https://open.spotify.com/track/6eWEXLzMHL4frTepZXwziY"
+      "duration_ms": 216372,
+      "name": "Cuando Se Ama a Una Mujer",
+      "url": "https://open.spotify.com/track/0sQYmLOa5trLFpUWbHxpZ9"
     }
   ],
   "unique_name": "This Is Perdidos De Sinaloa",

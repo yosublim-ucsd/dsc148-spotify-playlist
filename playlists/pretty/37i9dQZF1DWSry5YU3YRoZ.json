@@ -1,6 +1,6 @@
 {
   "description": "\ucc28\ubd84\ud558\uace0 \uac10\uc131\uc801\uc778 \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3b8\uc548\ud55c \ubc24 \ub418\uc138\uc694 :) (Listen to K-Pop sleeping songs)",
-  "num_followers": 5634,
+  "num_followers": 5640,
   "original_name": "zZZ \uc798\uc790\uc694",
   "owner": {
     "name": "Spotify",
@@ -683,6 +683,22 @@
     {
       "added_at": "2024-09-13 09:16:46",
       "album": {
+        "name": "Long long night",
+        "url": "https://open.spotify.com/album/1CB5sMyLxIe9T59tRIDfEy"
+      },
+      "artists": [
+        {
+          "name": "Richard Parkers",
+          "url": "https://open.spotify.com/artist/3sw0rm6AMRKHAoFDjuYw5C"
+        }
+      ],
+      "duration_ms": 166266,
+      "name": "Long long night",
+      "url": "https://open.spotify.com/track/2CWragjSVqmJ7niTo5oxSw"
+    },
+    {
+      "added_at": "2024-09-13 09:16:46",
+      "album": {
         "name": "Zero gravity",
         "url": "https://open.spotify.com/album/1O99A4FLtOXLNqsGiJ4rpW"
       },
@@ -695,26 +711,6 @@
       "duration_ms": 224693,
       "name": "Zero gravity",
       "url": "https://open.spotify.com/track/4MusxBtpbg66dyP4HPzvW5"
-    },
-    {
-      "added_at": "2024-09-13 09:16:46",
-      "album": {
-        "name": "For my little one",
-        "url": "https://open.spotify.com/album/6JiBi7vAWxttrHkpb2FLBU"
-      },
-      "artists": [
-        {
-          "name": "saevom",
-          "url": "https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca"
-        },
-        {
-          "name": "Jeon sohyeon",
-          "url": "https://open.spotify.com/artist/7iLP6KAcEmHPCyxqyAD62E"
-        }
-      ],
-      "duration_ms": 198088,
-      "name": "For my little one (with Jeon sohyeon)",
-      "url": "https://open.spotify.com/track/6oDLxxBH9gOUiwQxoP0qlh"
     },
     {
       "added_at": "2024-09-13 09:16:46",
@@ -735,18 +731,22 @@
     {
       "added_at": "2024-09-13 09:16:46",
       "album": {
-        "name": "Long long night",
-        "url": "https://open.spotify.com/album/1CB5sMyLxIe9T59tRIDfEy"
+        "name": "For my little one",
+        "url": "https://open.spotify.com/album/6JiBi7vAWxttrHkpb2FLBU"
       },
       "artists": [
         {
-          "name": "Richard Parkers",
-          "url": "https://open.spotify.com/artist/3sw0rm6AMRKHAoFDjuYw5C"
+          "name": "saevom",
+          "url": "https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca"
+        },
+        {
+          "name": "Jeon sohyeon",
+          "url": "https://open.spotify.com/artist/7iLP6KAcEmHPCyxqyAD62E"
         }
       ],
-      "duration_ms": 166266,
-      "name": "Long long night",
-      "url": "https://open.spotify.com/track/2CWragjSVqmJ7niTo5oxSw"
+      "duration_ms": 198088,
+      "name": "For my little one (with Jeon sohyeon)",
+      "url": "https://open.spotify.com/track/6oDLxxBH9gOUiwQxoP0qlh"
     },
     {
       "added_at": "2024-09-13 09:16:46",

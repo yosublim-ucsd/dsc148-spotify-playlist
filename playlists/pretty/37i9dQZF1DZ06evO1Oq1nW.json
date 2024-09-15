@@ -1,12 +1,12 @@
 {
-  "description": "This is The O'Jays. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 31853,
+  "description": "This Is The O'Jays. Los temas esenciales, todos en una lista.",
+  "num_followers": 31861,
   "original_name": "This Is The O'Jays",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuIvAAAAAABrYfxqBBDbR4bZ3UQJ99de",
+  "snapshot_id": "ZuOAgAAAAAB0EiSx41dOSvOqBWNJvKNS",
   "tracks": [
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emotionally Yours",
-        "url": "https://open.spotify.com/album/1RkRxV7AWspDjtJxiuuQYf"
+        "name": "Ship Ahoy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
         }
       ],
-      "duration_ms": 315666,
-      "name": "Emotionally Yours",
-      "url": "https://open.spotify.com/track/1SkVy7i1WQ5QteieGb9qeI"
+      "duration_ms": 333133,
+      "name": "You Got Your Hooks in Me",
+      "url": "https://open.spotify.com/track/6Hv6rGm9aboHovFv49pKiT"
     },
     {
       "added_at": null,
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ship Ahoy (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8"
+        "name": "Emotionally Yours",
+        "url": "https://open.spotify.com/album/1RkRxV7AWspDjtJxiuuQYf"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
         }
       ],
-      "duration_ms": 333133,
-      "name": "You Got Your Hooks in Me",
-      "url": "https://open.spotify.com/track/6Hv6rGm9aboHovFv49pKiT"
+      "duration_ms": 315666,
+      "name": "Emotionally Yours",
+      "url": "https://open.spotify.com/track/1SkVy7i1WQ5QteieGb9qeI"
     },
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Survival",
-        "url": "https://open.spotify.com/album/1fOZphC5VkWPwhX4X5OuAb"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 216600,
-      "name": "Let Me Make Love To You",
-      "url": "https://open.spotify.com/track/5XTdQEuQhO3sUCcm2K1YnR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Family Reunion (Expanded Edition)",
         "url": "https://open.spotify.com/album/2Q3cf5aSlA9Da2269Ai8fD"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 415333,
       "name": "Family Reunion",
       "url": "https://open.spotify.com/track/1ECFqMRNA6NFbRXgbHl87e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Survival",
+        "url": "https://open.spotify.com/album/1fOZphC5VkWPwhX4X5OuAb"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 216600,
+      "name": "Let Me Make Love To You",
+      "url": "https://open.spotify.com/track/5XTdQEuQhO3sUCcm2K1YnR"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "So Full Of Love",
-        "url": "https://open.spotify.com/album/6MKxTNGK8IDA6bExrdOyX4"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 299386,
-      "name": "Help (Somebody Please)",
-      "url": "https://open.spotify.com/track/4tx4PHgBlLZbG98HpXMUBm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Survival",
         "url": "https://open.spotify.com/album/1fOZphC5VkWPwhX4X5OuAb"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 250800,
       "name": "Give the People What They Want",
       "url": "https://open.spotify.com/track/2ROR4vROCM58XLVIoCUgbm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "So Full Of Love",
+        "url": "https://open.spotify.com/album/6MKxTNGK8IDA6bExrdOyX4"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 299386,
+      "name": "Help (Somebody Please)",
+      "url": "https://open.spotify.com/track/4tx4PHgBlLZbG98HpXMUBm"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Family Reunion (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2Q3cf5aSlA9Da2269Ai8fD"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 339573,
-      "name": "You and Me",
-      "url": "https://open.spotify.com/track/4FGYePPcvd3yuxyDR3BsCJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ship Ahoy (Expanded Edition)",
         "url": "https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 536266,
       "name": "Don't Call Me Brother",
       "url": "https://open.spotify.com/track/6KYPvWM3iS0zGiVV4S5Cx1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Family Reunion (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2Q3cf5aSlA9Da2269Ai8fD"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 339573,
+      "name": "You and Me",
+      "url": "https://open.spotify.com/track/4FGYePPcvd3yuxyDR3BsCJ"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Family Reunion (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2Q3cf5aSlA9Da2269Ai8fD"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 342826,
-      "name": "She's Only a Woman",
-      "url": "https://open.spotify.com/track/1iU8nEMGJxqCpvr6SCwJ2k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ship Ahoy (Expanded Edition)",
         "url": "https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8"
       },
@@ -755,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Travelin' At The Speed Of Thought",
-        "url": "https://open.spotify.com/album/7yov15wgCCwdnYKt0edevV"
+        "name": "Family Reunion (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2Q3cf5aSlA9Da2269Ai8fD"
       },
       "artists": [
         {
@@ -764,9 +748,9 @@
           "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
         }
       ],
-      "duration_ms": 268240,
-      "name": "Work on Me",
-      "url": "https://open.spotify.com/track/3IlG5BCaW8OYvX2B6SDSSt"
+      "duration_ms": 342826,
+      "name": "She's Only a Woman",
+      "url": "https://open.spotify.com/track/1iU8nEMGJxqCpvr6SCwJ2k"
     },
     {
       "added_at": null,
@@ -783,6 +767,22 @@
       "duration_ms": 222026,
       "name": "Survival",
       "url": "https://open.spotify.com/track/00ihnchhdgnad1IZSKrM3X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Travelin' At The Speed Of Thought",
+        "url": "https://open.spotify.com/album/7yov15wgCCwdnYKt0edevV"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 268240,
+      "name": "Work on Me",
+      "url": "https://open.spotify.com/track/3IlG5BCaW8OYvX2B6SDSSt"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chill r&b vibes for your most relaxed moods\. Cover: Isaiah Falls
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,353,325 likes - 151 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,353,429 likes - 151 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

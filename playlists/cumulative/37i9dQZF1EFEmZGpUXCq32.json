@@ -263,6 +263,24 @@
     },
     {
       "album": {
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/2aFulxeOIYdakdVXjgaHDz"
+      },
+      "artists": [
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282464,
+      "name": "Choose Me",
+      "url": "https://open.spotify.com/track/30N2Yr918Kn5EGyNIh7Mjb"
+    },
+    {
+      "album": {
         "name": "Christmas Uncovered",
         "url": "https://open.spotify.com/album/70AfPOE4qUXzqrzwG3o5ut"
       },

@@ -2335,6 +2335,28 @@
     },
     {
       "album": {
+        "name": "HALO",
+        "url": "https://open.spotify.com/album/64qanlJYo3CsSuzReUMA5n"
+      },
+      "artists": [
+        {
+          "name": "Rea Garvey",
+          "url": "https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv"
+        },
+        {
+          "name": "Stress",
+          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175773,
+      "name": "Yeah Yeah Yeah",
+      "url": "https://open.spotify.com/track/7pJeq5nRA2NhrRuIxvM3ZV"
+    },
+    {
+      "album": {
         "name": "R\u00e9sum\u00e9",
         "url": "https://open.spotify.com/album/1LdMSrbrbw2Gabc5na3mcO"
       },

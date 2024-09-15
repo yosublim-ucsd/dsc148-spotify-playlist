@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og masse ny musikk! 🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,487 likes - 103 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,580 likes - 103 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 35 | [H V D O L](https://open.spotify.com/track/2ZMH3fAwB2VlcmPOrFMnX6) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [H V D O L](https://open.spotify.com/album/4BkWRBQ1YISV5dYFaUD3bz) | 3:39 |
 | 36 | [Svart Hvitt](https://open.spotify.com/track/2VYkhKU6oHSQWRPf5Fj4hc) | [PandaPanda](https://open.spotify.com/artist/3bprEfGCk6tljbWjtvGQH5) | [Svart Hvitt](https://open.spotify.com/album/5Riqu2wfrqZCBEJHGTjWN6) | 1:57 |
 | 37 | [Cleats](https://open.spotify.com/track/7HWONeQrWpcjflAPGbH5L3) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Cleats](https://open.spotify.com/album/0VZGFBmqzdTFhMgMl7rsxB) | 3:41 |
-| 38 | [Peiling \(feat\. Øystein Greni\)](https://open.spotify.com/track/7ezryXKj7BMWtsfdp5o8kX) | [Klossmajor](https://open.spotify.com/artist/1XgbkJNbyHcYaa4WAjGlCc), [Øystein Greni](https://open.spotify.com/artist/6SnoKMBVd7DLFgQ0PIcFlh) | [Peiling \(feat\. Øystein Greni\)](https://open.spotify.com/album/29D39IIN621Usm8AB3mv3l) | 3:20 |
+| 38 | [Peiling \(feat\. Greni\)](https://open.spotify.com/track/7ezryXKj7BMWtsfdp5o8kX) | [Klossmajor](https://open.spotify.com/artist/1XgbkJNbyHcYaa4WAjGlCc), [Greni](https://open.spotify.com/artist/7GgksazCOqOwZE9IoCpDLg) | [Peiling \(feat\. Greni\)](https://open.spotify.com/album/29D39IIN621Usm8AB3mv3l) | 3:20 |
 | 39 | [Dollar](https://open.spotify.com/track/1UkwHkHDCEoyoVLAxb6iWH) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [The Journey](https://open.spotify.com/album/1m40sV8ay2oarveKvfckRj) | 2:21 |
 | 40 | [Number and a Street](https://open.spotify.com/track/1NT3kVjvvjmDPt20F58EDr) | [Malin Pettersen](https://open.spotify.com/artist/3kVhFap6wa2EN5yrMZIupm) | [Seasons](https://open.spotify.com/album/64eTSlCRiKUolrsET9Kl2v) | 3:14 |
 | 41 | [Alene I En Klubb](https://open.spotify.com/track/4bJHo73cpA49FxAsGbSh0b) | [Leander](https://open.spotify.com/artist/0ptaRVnCDp9FHTdgbqDxdb) | [Alene I En Klubb](https://open.spotify.com/album/1g2uuViQLOnNWafAy0CP3u) | 2:42 |
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 51 | [Audacious](https://open.spotify.com/track/53OqecARVvVCUTjL1yg0sq) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Audacious](https://open.spotify.com/album/6tApXgjCNnGOeB176tJiKV) | 3:23 |
 | 52 | [Heart Like Mine \(feat\. Rosa Linn\)](https://open.spotify.com/track/4xqekuN4lfu6MBeWov0Icl) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [Heart Like Mine \(feat\. Rosa Linn\)](https://open.spotify.com/album/2k7ml7X0RXedgJaW7nkjak) | 2:29 |
 | 53 | [Wally](https://open.spotify.com/track/2hsb9d9qzr3KnlgQRzrZX9) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Wally](https://open.spotify.com/album/2NAntlPmxafv0ZvpBhA1lI) | 2:08 |
-| 54 | [Dans Med Meg](https://open.spotify.com/track/5VGxmofhE7KewI3mMzwPlF) | [Ida Celine](https://open.spotify.com/artist/2pzYhY6YU6IaIYIIE8qzkt), [Bank I Bordet](https://open.spotify.com/artist/29QA9MItOHMfEuYZIedm2p) | [Dans Med Meg](https://open.spotify.com/album/1RhfZSifwASrQTrZtTrT3p) | 1:55 |
+| 54 | [Dans Med Meg](https://open.spotify.com/track/5VGxmofhE7KewI3mMzwPlF) | [Bank I Bordet](https://open.spotify.com/artist/29QA9MItOHMfEuYZIedm2p), [Ida Celine](https://open.spotify.com/artist/2pzYhY6YU6IaIYIIE8qzkt) | [Dans Med Meg](https://open.spotify.com/album/1RhfZSifwASrQTrZtTrT3p) | 1:55 |
 | 55 | [Rick Ross Pt\. 2](https://open.spotify.com/track/6uIVBE5DHG3szAnaOyvf3l) | [Medina](https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF), [Tessa](https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J) | [Rick Ross Pt\. 2](https://open.spotify.com/album/1G8rjqtorUe1U5olgSBXXE) | 2:18 |
 | 56 | [Skjørte På Snei](https://open.spotify.com/track/0SNQMKsLSwvVNBZ5D7bZ9b) | [Synne Sol](https://open.spotify.com/artist/5ihcBbExhBs0VYTfrq6CUE) | [Skjørte På Snei](https://open.spotify.com/album/2Jz7TUC4XZ2h71EWftS4Jt) | 2:19 |
 | 57 | [Last Forever](https://open.spotify.com/track/3k7fKbbxx0FPxknUdUfOpp) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf), [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Last Forever](https://open.spotify.com/album/08Q5zl0Pi1083nDP01RMna) | 3:11 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Aerosmith. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 692196,
+  "num_followers": 692275,
   "original_name": "This Is Aerosmith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuIvAAAAAAADpbyBDkfPPXvMWVQzthCO",
+  "snapshot_id": "ZuOAgAAAAACyVwBZJzJ9x0msmVKM5n0a",
   "tracks": [
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get Your Wings",
-        "url": "https://open.spotify.com/album/27UoulMZlqnShaLaLBcYp1"
+        "name": "Get A Grip",
+        "url": "https://open.spotify.com/album/180jTzor4W2MQ9HW5h5Fh4"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 233567,
-      "name": "Same Old Song and Dance",
-      "url": "https://open.spotify.com/track/37Ptnxxd7WXAaCfWXxcElU"
+      "duration_ms": 250600,
+      "name": "Eat The Rich",
+      "url": "https://open.spotify.com/track/3O7LU72UPGoCzrOFU6LqGd"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get A Grip",
-        "url": "https://open.spotify.com/album/180jTzor4W2MQ9HW5h5Fh4"
+        "name": "Get Your Wings",
+        "url": "https://open.spotify.com/album/27UoulMZlqnShaLaLBcYp1"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 250600,
-      "name": "Eat The Rich",
-      "url": "https://open.spotify.com/track/3O7LU72UPGoCzrOFU6LqGd"
+      "duration_ms": 233567,
+      "name": "Same Old Song and Dance",
+      "url": "https://open.spotify.com/track/37Ptnxxd7WXAaCfWXxcElU"
     },
     {
       "added_at": null,

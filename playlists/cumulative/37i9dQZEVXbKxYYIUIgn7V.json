@@ -170,7 +170,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 140062,
       "name": "6 In the Morning (feat. Nate Dogg) - Ely Oaks Remix",
       "url": "https://open.spotify.com/track/7hfqhVQXYQBFiZA9ZYmu3W"
@@ -1148,7 +1148,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 156843,
       "name": "AVANGARD",
       "url": "https://open.spotify.com/track/3cTgvsTJZA5qwSZ3F8sKDz"
@@ -1188,7 +1188,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-10",
+      "date_removed": null,
       "duration_ms": 131428,
       "name": "Baby, You're the One (Whole Again)",
       "url": "https://open.spotify.com/track/4J9oreH8X23uV8dhjo9uwq"
@@ -4417,6 +4417,24 @@
     },
     {
       "album": {
+        "name": "Life Of A Ghost",
+        "url": "https://open.spotify.com/album/5Chvs2hsJcGowLm4PgigEl"
+      },
+      "artists": [
+        {
+          "name": "Blue Foundation",
+          "url": "https://open.spotify.com/artist/1FWybrAwiSa0zKibdLfZZr"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302826,
+      "name": "Eyes on Fire",
+      "url": "https://open.spotify.com/track/3XHrTm6WE2BOHafLwTT3GR"
+    },
+    {
+      "album": {
         "name": "Fall Back / Selfish Game",
         "url": "https://open.spotify.com/album/2GHbc54y99znaPCsyzvLjR"
       },
@@ -5706,6 +5724,28 @@
       "duration_ms": 218423,
       "name": "Good Luck, Babe!",
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
+    },
+    {
+      "album": {
+        "name": "Grau",
+        "url": "https://open.spotify.com/album/3mtskI0keFB3wDrgicxwA6"
+      },
+      "artists": [
+        {
+          "name": "Apsilon",
+          "url": "https://open.spotify.com/artist/6JqtADDgBVPjLBRFwqjuFm"
+        },
+        {
+          "name": "Paula Hartmann",
+          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170290,
+      "name": "Grau",
+      "url": "https://open.spotify.com/track/547ANtisgBzqbywQfQBtK8"
     },
     {
       "album": {
@@ -12890,7 +12930,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-14",
+      "date_removed": null,
       "duration_ms": 146000,
       "name": "SCH",
       "url": "https://open.spotify.com/track/2QM9YY78uvdaRwWKjMqErv"
@@ -14388,7 +14428,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 157279,
       "name": "Taste",
       "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
@@ -15488,7 +15528,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 172427,
       "name": "UWAIE",
       "url": "https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF"

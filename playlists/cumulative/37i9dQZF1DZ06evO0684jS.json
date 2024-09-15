@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-11",
-  "description": "This is Nicki Minaj. The essential tracks, all in one playlist.",
+  "description": "This is Nicki Minaj. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Nicki Minaj",
   "tracks": [
     {
@@ -75,7 +75,7 @@
     },
     {
       "album": {
-        "name": "The Pinkprint (International Deluxe Explicit)",
+        "name": "The Pinkprint - International Deluxe Explicit",
         "url": "https://open.spotify.com/album/40XGTQ7FN6Y3dZXJhKBe96"
       },
       "artists": [
@@ -152,7 +152,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-30",
+      "date_removed": null,
       "duration_ms": 132799,
       "name": "Barbie Dangerous",
       "url": "https://open.spotify.com/track/1fKT7RUtOf4xNEqctEFe5L"
@@ -682,7 +682,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 199427,
       "name": "Hot Girl Summer (feat. Nicki Minaj & Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/5N1o6d8zGcSZSeMFkOUQOk"
@@ -1343,7 +1343,7 @@
     },
     {
       "album": {
-        "name": "The Pinkprint (International Deluxe Explicit)",
+        "name": "The Pinkprint - International Deluxe Explicit",
         "url": "https://open.spotify.com/album/40XGTQ7FN6Y3dZXJhKBe96"
       },
       "artists": [
@@ -1387,7 +1387,7 @@
     },
     {
       "album": {
-        "name": "The Pinkprint (Deluxe Edition)",
+        "name": "The Pinkprint - Deluxe Edition",
         "url": "https://open.spotify.com/album/5qs8T6ZHSrnllnOuUk6muC"
       },
       "artists": [

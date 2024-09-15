@@ -1,6 +1,6 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 451199,
+  "num_followers": 451283,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "a day with the kids",
-        "url": "https://open.spotify.com/album/6Ts9ETbP9B7PPMnIHnrOsQ"
-      },
-      "artists": [
-        {
-          "name": "blank maxxymus",
-          "url": "https://open.spotify.com/artist/0h8hl2SvfzyyxBQEkuu99K"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "a day with the kids",
-      "url": "https://open.spotify.com/track/0u8cOPcqtOMeBj4IgCDhN0"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
         "name": "Island Bounce",
         "url": "https://open.spotify.com/album/0tC0zfmZKgr5MUDpA1m2yq"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 147788,
       "name": "Island Bounce",
       "url": "https://open.spotify.com/track/1oxbRHkBMJCOSxt6WAL41F"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
+        "name": "a day with the kids",
+        "url": "https://open.spotify.com/album/6Ts9ETbP9B7PPMnIHnrOsQ"
+      },
+      "artists": [
+        {
+          "name": "blank maxxymus",
+          "url": "https://open.spotify.com/artist/0h8hl2SvfzyyxBQEkuu99K"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "a day with the kids",
+      "url": "https://open.spotify.com/track/0u8cOPcqtOMeBj4IgCDhN0"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -107,6 +107,22 @@
       "duration_ms": 218666,
       "name": "Snoozy Stardust",
       "url": "https://open.spotify.com/track/4u1ws1ZLno8CGz6p95zct9"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
+        "name": "Ends",
+        "url": "https://open.spotify.com/album/05xppISFeHiGDlYUmgRqrc"
+      },
+      "artists": [
+        {
+          "name": "joorla",
+          "url": "https://open.spotify.com/artist/6Dfu0b3T2H62yDNsMwfj2q"
+        }
+      ],
+      "duration_ms": 142995,
+      "name": "Ends",
+      "url": "https://open.spotify.com/track/3oGDMcrvctnKNhlL2bOi7r"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -191,22 +207,6 @@
       "duration_ms": 132512,
       "name": "stars",
       "url": "https://open.spotify.com/track/3ac8arqtWalbF7IOrgXzoi"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
-        "name": "Ends",
-        "url": "https://open.spotify.com/album/05xppISFeHiGDlYUmgRqrc"
-      },
-      "artists": [
-        {
-          "name": "joorla",
-          "url": "https://open.spotify.com/artist/6Dfu0b3T2H62yDNsMwfj2q"
-        }
-      ],
-      "duration_ms": 142995,
-      "name": "Ends",
-      "url": "https://open.spotify.com/track/3oGDMcrvctnKNhlL2bOi7r"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -327,26 +327,6 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "reflections in water",
-        "url": "https://open.spotify.com/album/2HxJ1HI1Anen7ey9SJWIWI"
-      },
-      "artists": [
-        {
-          "name": "sample mode",
-          "url": "https://open.spotify.com/artist/2DGAFB9eNsTcy6LSlvbNft"
-        },
-        {
-          "name": "Nick's chill factory",
-          "url": "https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9"
-        }
-      ],
-      "duration_ms": 140762,
-      "name": "reflections in water",
-      "url": "https://open.spotify.com/track/5ZPeC07wnQMCVJ4FU6tee9"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
         "name": "nothing to lose",
         "url": "https://open.spotify.com/album/5MnN94EeAMkc0DeOMeSYwm"
       },
@@ -363,22 +343,22 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "another time",
-        "url": "https://open.spotify.com/album/0V4jU4MUj4Tw4il7avTRc7"
+        "name": "reflections in water",
+        "url": "https://open.spotify.com/album/2HxJ1HI1Anen7ey9SJWIWI"
       },
       "artists": [
         {
-          "name": "fnonose",
-          "url": "https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q"
+          "name": "sample mode",
+          "url": "https://open.spotify.com/artist/2DGAFB9eNsTcy6LSlvbNft"
         },
         {
-          "name": "morningtime",
-          "url": "https://open.spotify.com/artist/7xwOP2sBEig4hhduDiYwHS"
+          "name": "Nick's chill factory",
+          "url": "https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9"
         }
       ],
-      "duration_ms": 154250,
-      "name": "another time",
-      "url": "https://open.spotify.com/track/3b9OgQr8jzUfdQPhe2Q9BW"
+      "duration_ms": 140762,
+      "name": "reflections in water",
+      "url": "https://open.spotify.com/track/5ZPeC07wnQMCVJ4FU6tee9"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -411,6 +391,26 @@
       "duration_ms": 122740,
       "name": "cabin in the woods",
       "url": "https://open.spotify.com/track/68Tr47vEwCpIwHfD71BfEY"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
+        "name": "another time",
+        "url": "https://open.spotify.com/album/0V4jU4MUj4Tw4il7avTRc7"
+      },
+      "artists": [
+        {
+          "name": "fnonose",
+          "url": "https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q"
+        },
+        {
+          "name": "morningtime",
+          "url": "https://open.spotify.com/artist/7xwOP2sBEig4hhduDiYwHS"
+        }
+      ],
+      "duration_ms": 154250,
+      "name": "another time",
+      "url": "https://open.spotify.com/track/3b9OgQr8jzUfdQPhe2Q9BW"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "No Awake Zone",
-        "url": "https://open.spotify.com/album/3Le5RTJqJ8uPcK3XEdOYC3"
-      },
-      "artists": [
-        {
-          "name": "Pat Laine",
-          "url": "https://open.spotify.com/artist/4ayEtUqC4VtbghdfnMjW9g"
-        }
-      ],
-      "duration_ms": 138370,
-      "name": "No Awake Zone",
-      "url": "https://open.spotify.com/track/1CjQkzy5U9tfFioVFXBqvp"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
         "name": "soft plushies",
         "url": "https://open.spotify.com/album/6Yau9wpqAvrt9ahWvenwdu"
       },
@@ -531,18 +515,18 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "kyoto dreams",
-        "url": "https://open.spotify.com/album/3msbu1P8p3H5umoFgmosLT"
+        "name": "No Awake Zone",
+        "url": "https://open.spotify.com/album/3Le5RTJqJ8uPcK3XEdOYC3"
       },
       "artists": [
         {
-          "name": "WAIIFUU",
-          "url": "https://open.spotify.com/artist/4HW4cjXaCVyNsbxUjyikIY"
+          "name": "Pat Laine",
+          "url": "https://open.spotify.com/artist/4ayEtUqC4VtbghdfnMjW9g"
         }
       ],
-      "duration_ms": 144000,
-      "name": "kyoto dreams",
-      "url": "https://open.spotify.com/track/7EzZ5GTsVwWApFLJyv6znP"
+      "duration_ms": 138370,
+      "name": "No Awake Zone",
+      "url": "https://open.spotify.com/track/1CjQkzy5U9tfFioVFXBqvp"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -575,6 +559,22 @@
       "duration_ms": 139738,
       "name": "superabundance",
       "url": "https://open.spotify.com/track/2DPG9HEimTlt2QNUuIvHw8"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
+        "name": "kyoto dreams",
+        "url": "https://open.spotify.com/album/3msbu1P8p3H5umoFgmosLT"
+      },
+      "artists": [
+        {
+          "name": "WAIIFUU",
+          "url": "https://open.spotify.com/artist/4HW4cjXaCVyNsbxUjyikIY"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "kyoto dreams",
+      "url": "https://open.spotify.com/track/7EzZ5GTsVwWApFLJyv6znP"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "roamwave",
-        "url": "https://open.spotify.com/album/5IbovMKmZTv0ikkb3qmnSy"
-      },
-      "artists": [
-        {
-          "name": "ai sayuri",
-          "url": "https://open.spotify.com/artist/5YohkWp4bq0IUw4c0StwjJ"
-        }
-      ],
-      "duration_ms": 138663,
-      "name": "roamwave",
-      "url": "https://open.spotify.com/track/5LaOfGGkGFUyUdULSwGzwc"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
         "name": "Magic Mind",
         "url": "https://open.spotify.com/album/2sqn4T8rIqQkc0WHBabWIC"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 155424,
       "name": "Magic Mind",
       "url": "https://open.spotify.com/track/3nqicEuiIvZvqtHeQtue74"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
+        "name": "roamwave",
+        "url": "https://open.spotify.com/album/5IbovMKmZTv0ikkb3qmnSy"
+      },
+      "artists": [
+        {
+          "name": "ai sayuri",
+          "url": "https://open.spotify.com/artist/5YohkWp4bq0IUw4c0StwjJ"
+        }
+      ],
+      "duration_ms": 138663,
+      "name": "roamwave",
+      "url": "https://open.spotify.com/track/5LaOfGGkGFUyUdULSwGzwc"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "Through My Window",
-        "url": "https://open.spotify.com/album/5SBe4fbhILYGomxqJaDZx3"
-      },
-      "artists": [
-        {
-          "name": "day zee",
-          "url": "https://open.spotify.com/artist/5L5AI6T2F4T5F7EdAuqH4L"
-        }
-      ],
-      "duration_ms": 150955,
-      "name": "Through My Window",
-      "url": "https://open.spotify.com/track/4Hyaog3Ppn1pDwLzUX7vFt"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
         "name": "Watching Walls",
         "url": "https://open.spotify.com/album/19n7gbTqzfG0M7Ptnx999l"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 131432,
       "name": "Watching Walls",
       "url": "https://open.spotify.com/track/5Pv4jIAe9BM9QZJxvMQTZG"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
+        "name": "Through My Window",
+        "url": "https://open.spotify.com/album/5SBe4fbhILYGomxqJaDZx3"
+      },
+      "artists": [
+        {
+          "name": "day zee",
+          "url": "https://open.spotify.com/artist/5L5AI6T2F4T5F7EdAuqH4L"
+        }
+      ],
+      "duration_ms": 150955,
+      "name": "Through My Window",
+      "url": "https://open.spotify.com/track/4Hyaog3Ppn1pDwLzUX7vFt"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -995,26 +995,6 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "Apart",
-        "url": "https://open.spotify.com/album/5e0VJVWtQZQt7v0zgAi2If"
-      },
-      "artists": [
-        {
-          "name": "Equity Slate",
-          "url": "https://open.spotify.com/artist/5DGq8gX5QOoVCJEyf4Pe1Q"
-        },
-        {
-          "name": "soojeong",
-          "url": "https://open.spotify.com/artist/4rEitMoJNhlt1utt58uuAO"
-        }
-      ],
-      "duration_ms": 72583,
-      "name": "making her smile",
-      "url": "https://open.spotify.com/track/6jE4qBqHoR90GPI4D5W882"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
         "name": "clear blue atmosphere",
         "url": "https://open.spotify.com/album/3x02MVIYzOPc6t6Mi6annZ"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 164625,
       "name": "Moss",
       "url": "https://open.spotify.com/track/2juhNawrmbYjLxXdWqv600"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
+        "name": "Apart",
+        "url": "https://open.spotify.com/album/5e0VJVWtQZQt7v0zgAi2If"
+      },
+      "artists": [
+        {
+          "name": "Equity Slate",
+          "url": "https://open.spotify.com/artist/5DGq8gX5QOoVCJEyf4Pe1Q"
+        },
+        {
+          "name": "soojeong",
+          "url": "https://open.spotify.com/artist/4rEitMoJNhlt1utt58uuAO"
+        }
+      ],
+      "duration_ms": 72583,
+      "name": "making her smile",
+      "url": "https://open.spotify.com/track/6jE4qBqHoR90GPI4D5W882"
     },
     {
       "added_at": "2024-09-03 08:14:22",

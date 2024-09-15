@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. YoSoyMatt en portada.",
-  "num_followers": 58830,
+  "num_followers": 58866,
   "original_name": "EDM\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -687,26 +687,22 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "Serena",
-        "url": "https://open.spotify.com/album/6Ri9fNMTIfBOfGyXtl6dom"
+        "name": "Tomala (Se Mueve Se Siente)",
+        "url": "https://open.spotify.com/album/6Tk01gOTdEwBSvsHdm9Ld2"
       },
       "artists": [
         {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
         },
         {
-          "name": "Thomas Newson",
-          "url": "https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5"
-        },
-        {
-          "name": "PAVE",
-          "url": "https://open.spotify.com/artist/2E0evCQS6WOlrWfnVGk3ny"
+          "name": "Draxx (ITA)",
+          "url": "https://open.spotify.com/artist/57QKWHmmY0jb44T2w7ln73"
         }
       ],
-      "duration_ms": 153875,
-      "name": "Serena",
-      "url": "https://open.spotify.com/track/34Cc71Twm8s2IICmiIdWPR"
+      "duration_ms": 160600,
+      "name": "Tomala (Se Mueve Se Siente)",
+      "url": "https://open.spotify.com/track/37VEY7FABybvLFg9iYE3LY"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -731,22 +727,26 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "Tomala (Se Mueve Se Siente)",
-        "url": "https://open.spotify.com/album/6Tk01gOTdEwBSvsHdm9Ld2"
+        "name": "Serena",
+        "url": "https://open.spotify.com/album/6Ri9fNMTIfBOfGyXtl6dom"
       },
       "artists": [
         {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
         },
         {
-          "name": "Draxx (ITA)",
-          "url": "https://open.spotify.com/artist/57QKWHmmY0jb44T2w7ln73"
+          "name": "Thomas Newson",
+          "url": "https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5"
+        },
+        {
+          "name": "PAVE",
+          "url": "https://open.spotify.com/artist/2E0evCQS6WOlrWfnVGk3ny"
         }
       ],
-      "duration_ms": 160600,
-      "name": "Tomala (Se Mueve Se Siente)",
-      "url": "https://open.spotify.com/track/37VEY7FABybvLFg9iYE3LY"
+      "duration_ms": 153875,
+      "name": "Serena",
+      "url": "https://open.spotify.com/track/34Cc71Twm8s2IICmiIdWPR"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -1091,6 +1091,26 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
+        "name": "Vino Rosa",
+        "url": "https://open.spotify.com/album/1nCaK6GQAZmvzGZuWeyeqz"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        }
+      ],
+      "duration_ms": 199384,
+      "name": "Vino Rosa",
+      "url": "https://open.spotify.com/track/3ena8KYMBtkIqBkDSXYaJd"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
         "name": "Florida BB",
         "url": "https://open.spotify.com/album/3rRThyVF0CNXxTMXcJXUWz"
       },
@@ -1111,26 +1131,6 @@
       "duration_ms": 371000,
       "name": "Florida BB",
       "url": "https://open.spotify.com/track/3uwL4HJPxcO4Q1WwFAo1zv"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
-        "name": "Vino Rosa",
-        "url": "https://open.spotify.com/album/1nCaK6GQAZmvzGZuWeyeqz"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
-        }
-      ],
-      "duration_ms": 199384,
-      "name": "Vino Rosa",
-      "url": "https://open.spotify.com/track/3ena8KYMBtkIqBkDSXYaJd"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "Body Movin",
-        "url": "https://open.spotify.com/album/1RMGo1LvwPz62gkkWOxSWb"
-      },
-      "artists": [
-        {
-          "name": "Tony Dark Eyes",
-          "url": "https://open.spotify.com/artist/3aJBHJUwHkjkGQ4zkG93HP"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Body Movin",
-      "url": "https://open.spotify.com/track/1avxb29PtG3NgJrJEg0ZU3"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
         "name": "Movie Star",
         "url": "https://open.spotify.com/album/42NaAw7hSOoQ0uAncIEoX0"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 155600,
       "name": "BOOM SHAKALAKA",
       "url": "https://open.spotify.com/track/338eFwIdnFk4CXln3Fp8XE"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
+        "name": "Body Movin",
+        "url": "https://open.spotify.com/album/1RMGo1LvwPz62gkkWOxSWb"
+      },
+      "artists": [
+        {
+          "name": "Tony Dark Eyes",
+          "url": "https://open.spotify.com/artist/3aJBHJUwHkjkGQ4zkG93HP"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Body Movin",
+      "url": "https://open.spotify.com/track/1avxb29PtG3NgJrJEg0ZU3"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -1599,26 +1599,22 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "Mi Amor",
-        "url": "https://open.spotify.com/album/4mQSYNviTSOjMHxQ0cazal"
+        "name": "Thought About It",
+        "url": "https://open.spotify.com/album/1lQc57gdELWV3cUKZFLIbD"
       },
       "artists": [
         {
-          "name": "Bsno",
-          "url": "https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29"
+          "name": "HAJJ",
+          "url": "https://open.spotify.com/artist/5u8V8ixzEKcIjWxNbNOHvI"
         },
         {
-          "name": "Keep It Dope",
-          "url": "https://open.spotify.com/artist/638zBnRaMj32pQn3C2Q18y"
-        },
-        {
-          "name": "Priscila",
-          "url": "https://open.spotify.com/artist/48wvp5MbVxUwAyF9BdiqdX"
+          "name": "Coco Bevan",
+          "url": "https://open.spotify.com/artist/61DCCdxVPQhC6aghew5S8f"
         }
       ],
-      "duration_ms": 211903,
-      "name": "Mi Amor",
-      "url": "https://open.spotify.com/track/1eA6VJPzWaqTcOqzXdxYAN"
+      "duration_ms": 179441,
+      "name": "Thought About It",
+      "url": "https://open.spotify.com/track/3P98TNuqIg7Up3fTvPBzcP"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -1659,22 +1655,26 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "Thought About It",
-        "url": "https://open.spotify.com/album/1lQc57gdELWV3cUKZFLIbD"
+        "name": "Mi Amor",
+        "url": "https://open.spotify.com/album/4mQSYNviTSOjMHxQ0cazal"
       },
       "artists": [
         {
-          "name": "HAJJ",
-          "url": "https://open.spotify.com/artist/5u8V8ixzEKcIjWxNbNOHvI"
+          "name": "Bsno",
+          "url": "https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29"
         },
         {
-          "name": "Coco Bevan",
-          "url": "https://open.spotify.com/artist/61DCCdxVPQhC6aghew5S8f"
+          "name": "Keep It Dope",
+          "url": "https://open.spotify.com/artist/638zBnRaMj32pQn3C2Q18y"
+        },
+        {
+          "name": "Priscila",
+          "url": "https://open.spotify.com/artist/48wvp5MbVxUwAyF9BdiqdX"
         }
       ],
-      "duration_ms": 179441,
-      "name": "Thought About It",
-      "url": "https://open.spotify.com/track/3P98TNuqIg7Up3fTvPBzcP"
+      "duration_ms": 211903,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/1eA6VJPzWaqTcOqzXdxYAN"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -1783,26 +1783,6 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "Levantando",
-        "url": "https://open.spotify.com/album/3gfFB97DovfyjjBRnUTUFv"
-      },
-      "artists": [
-        {
-          "name": "Cabizbajo",
-          "url": "https://open.spotify.com/artist/3sZkCrbHsAo7OS6CuB7F6Q"
-        },
-        {
-          "name": "Miranda Santizo",
-          "url": "https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT"
-        }
-      ],
-      "duration_ms": 369403,
-      "name": "El Encantador",
-      "url": "https://open.spotify.com/track/3wa3TrXBQL5xI95Yb40Kmh"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
         "name": "Breakaway",
         "url": "https://open.spotify.com/album/32vAw1g4NN3FuJNwXYzJIf"
       },
@@ -1819,6 +1799,26 @@
       "duration_ms": 225714,
       "name": "Breakaway",
       "url": "https://open.spotify.com/track/40BbwFN1fxhaD9kWK8fFWc"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
+        "name": "Levantando",
+        "url": "https://open.spotify.com/album/3gfFB97DovfyjjBRnUTUFv"
+      },
+      "artists": [
+        {
+          "name": "Cabizbajo",
+          "url": "https://open.spotify.com/artist/3sZkCrbHsAo7OS6CuB7F6Q"
+        },
+        {
+          "name": "Miranda Santizo",
+          "url": "https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT"
+        }
+      ],
+      "duration_ms": 369403,
+      "name": "El Encantador",
+      "url": "https://open.spotify.com/track/3wa3TrXBQL5xI95Yb40Kmh"
     },
     {
       "added_at": "2024-08-30 06:00:00",

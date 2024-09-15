@@ -1,12 +1,12 @@
 {
   "description": "This is Iron Maiden. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 777785,
+  "num_followers": 777897,
   "original_name": "This Is Iron Maiden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuIvAAAAAAC2ZIba0ZgapmBedwYoN20C",
+  "snapshot_id": "ZuOAgAAAAABqI7724u7jIgHDPgriW60i",
   "tracks": [
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Powerslave (2015 Remaster)",
-        "url": "https://open.spotify.com/album/309KOMEivisMmBuzk09635"
-      },
-      "artists": [
-        {
-          "name": "Iron Maiden",
-          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
-        }
-      ],
-      "duration_ms": 245573,
-      "name": "Flash of the Blade - 2015 Remaster",
-      "url": "https://open.spotify.com/track/2yAiIlVQa2wy9M5JnSrjMm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Number of the Beast (2015 Remaster)",
         "url": "https://open.spotify.com/album/5S3gls8Kjn8KVmqlIDEBbO"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 275280,
       "name": "Children of the Damned - 2015 Remaster",
       "url": "https://open.spotify.com/track/7tcaQvBbSpNN0P2UF6WXxB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Powerslave (2015 Remaster)",
+        "url": "https://open.spotify.com/album/309KOMEivisMmBuzk09635"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "duration_ms": 245573,
+      "name": "Flash of the Blade - 2015 Remaster",
+      "url": "https://open.spotify.com/track/2yAiIlVQa2wy9M5JnSrjMm"
     },
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dance of Death (2015 Remaster)",
-        "url": "https://open.spotify.com/album/2Y8x0EEu7il0K2gCQIqVRh"
-      },
-      "artists": [
-        {
-          "name": "Iron Maiden",
-          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
-        }
-      ],
-      "duration_ms": 516426,
-      "name": "Dance of Death - 2015 Remaster",
-      "url": "https://open.spotify.com/track/4YsgFGkP1KeSFDWfZqVioX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Somewhere in Time (2015 Remaster)",
         "url": "https://open.spotify.com/album/0OEg65hPhgP7B0Dy9TqP2L"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 346666,
       "name": "Stranger in a Strange Land - 2015 Remaster",
       "url": "https://open.spotify.com/track/2ItrQShUvHTeaiZiDukjNo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dance of Death (2015 Remaster)",
+        "url": "https://open.spotify.com/album/2Y8x0EEu7il0K2gCQIqVRh"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "duration_ms": 516426,
+      "name": "Dance of Death - 2015 Remaster",
+      "url": "https://open.spotify.com/track/4YsgFGkP1KeSFDWfZqVioX"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fear of the Dark (2015 Remaster)",
-        "url": "https://open.spotify.com/album/16Su3EUFLPqWVyrwN1q5wO"
-      },
-      "artists": [
-        {
-          "name": "Iron Maiden",
-          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
-        }
-      ],
-      "duration_ms": 416560,
-      "name": "Afraid to Shoot Strangers - 2015 Remaster",
-      "url": "https://open.spotify.com/track/6QKhecJ2JuajCTPTtYkKUQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Somewhere in Time (2015 Remaster)",
         "url": "https://open.spotify.com/album/0OEg65hPhgP7B0Dy9TqP2L"
       },
@@ -475,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Iron Maiden (2015 Remaster)",
-        "url": "https://open.spotify.com/album/3DNeMApEMCo4IDXNMYnlFi"
+        "name": "Fear of the Dark (2015 Remaster)",
+        "url": "https://open.spotify.com/album/16Su3EUFLPqWVyrwN1q5wO"
       },
       "artists": [
         {
@@ -484,9 +468,9 @@
           "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
         }
       ],
-      "duration_ms": 197573,
-      "name": "Running Free - 2015 Remaster",
-      "url": "https://open.spotify.com/track/5JX4CIPK47CU1iVeAWJtH5"
+      "duration_ms": 416560,
+      "name": "Afraid to Shoot Strangers - 2015 Remaster",
+      "url": "https://open.spotify.com/track/6QKhecJ2JuajCTPTtYkKUQ"
     },
     {
       "added_at": null,
@@ -507,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fear of the Dark (2015 Remaster)",
-        "url": "https://open.spotify.com/album/16Su3EUFLPqWVyrwN1q5wO"
+        "name": "Iron Maiden (2015 Remaster)",
+        "url": "https://open.spotify.com/album/3DNeMApEMCo4IDXNMYnlFi"
       },
       "artists": [
         {
@@ -516,9 +500,9 @@
           "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
         }
       ],
-      "duration_ms": 218133,
-      "name": "From Here to Eternity - 2015 Remaster",
-      "url": "https://open.spotify.com/track/6uXD7ywanNw6sGatkT9uVw"
+      "duration_ms": 197573,
+      "name": "Running Free - 2015 Remaster",
+      "url": "https://open.spotify.com/track/5JX4CIPK47CU1iVeAWJtH5"
     },
     {
       "added_at": null,
@@ -535,6 +519,22 @@
       "duration_ms": 443600,
       "name": "Heaven Can Wait - 2015 Remaster",
       "url": "https://open.spotify.com/track/02xMKrzQ65xS700JS13Y90"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fear of the Dark (2015 Remaster)",
+        "url": "https://open.spotify.com/album/16Su3EUFLPqWVyrwN1q5wO"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "duration_ms": 218133,
+      "name": "From Here to Eternity - 2015 Remaster",
+      "url": "https://open.spotify.com/track/6uXD7ywanNw6sGatkT9uVw"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piece of Mind (2015 Remaster)",
-        "url": "https://open.spotify.com/album/7I9Wh2IgvI3Nnr8Z1ZSWby"
+        "name": "The Number of the Beast (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5S3gls8Kjn8KVmqlIDEBbO"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
         }
       ],
-      "duration_ms": 409626,
-      "name": "Revelations - 2015 Remaster",
-      "url": "https://open.spotify.com/track/1J9ylqJ29VS6yFhIkkNBzL"
+      "duration_ms": 396760,
+      "name": "22 Acacia Avenue - 2015 Remaster",
+      "url": "https://open.spotify.com/track/51S9pXdACCrhputBUl05Cs"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Number of the Beast (2015 Remaster)",
-        "url": "https://open.spotify.com/album/5S3gls8Kjn8KVmqlIDEBbO"
+        "name": "Piece of Mind (2015 Remaster)",
+        "url": "https://open.spotify.com/album/7I9Wh2IgvI3Nnr8Z1ZSWby"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
         }
       ],
-      "duration_ms": 396760,
-      "name": "22 Acacia Avenue - 2015 Remaster",
-      "url": "https://open.spotify.com/track/51S9pXdACCrhputBUl05Cs"
+      "duration_ms": 409626,
+      "name": "Revelations - 2015 Remaster",
+      "url": "https://open.spotify.com/track/1J9ylqJ29VS6yFhIkkNBzL"
     },
     {
       "added_at": null,
@@ -715,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Senjutsu",
+        "url": "https://open.spotify.com/album/3TymcPWXqsCRA5oSL0TkPU"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "duration_ms": 620403,
+      "name": "Death Of The Celts",
+      "url": "https://open.spotify.com/track/2Ks5ndUJWiUEQEZ3ttIhFa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Somewhere in Time (2015 Remaster)",
         "url": "https://open.spotify.com/album/0OEg65hPhgP7B0Dy9TqP2L"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 818693,
       "name": "Rime of the Ancient Mariner - 2015 Remaster",
       "url": "https://open.spotify.com/track/6K8ROjiPJqyHDJS0sA0dwH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Senjutsu",
-        "url": "https://open.spotify.com/album/3TymcPWXqsCRA5oSL0TkPU"
-      },
-      "artists": [
-        {
-          "name": "Iron Maiden",
-          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
-        }
-      ],
-      "duration_ms": 620403,
-      "name": "Death Of The Celts",
-      "url": "https://open.spotify.com/track/2Ks5ndUJWiUEQEZ3ttIhFa"
     },
     {
       "added_at": null,

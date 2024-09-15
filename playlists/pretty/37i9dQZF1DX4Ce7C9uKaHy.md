@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ce7C9uKaHy.md) - [plain]
 
 > Fine jazz for a fine day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,354 likes - 64 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,352 likes - 64 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ce7C9uKaHy.md) - [plain]
 | 56 | [nurtured](https://open.spotify.com/track/3fNU6CSTZSXCeCEtIfCbdZ) | [terrarium.](https://open.spotify.com/artist/7H9kbms3gRPcNY8L850Uxf) | [nurtured](https://open.spotify.com/album/6GkdJsVnYSRiVRfAC29rKQ) | 2:02 |
 | 57 | [Chaser](https://open.spotify.com/track/7HIjoaiILq0lCGzFtd2lFK) | [Felix Hien](https://open.spotify.com/artist/5pHGZpAY7Pm0EBDnBJtoZQ), [Gabe Costa](https://open.spotify.com/artist/6LMyfO4lGSYAkJg3Yc06ZR), [Will Eason](https://open.spotify.com/artist/0mXr7zTlXU4FgOoiOHbQHs) | [Chaser](https://open.spotify.com/album/23WJPRbfvQ5bSi0l7kPJpJ) | 2:13 |
 | 58 | [Spring Skates](https://open.spotify.com/track/4TE0BwDPxn6WWmLlTGZ7cT) | [Grizzly Beatz](https://open.spotify.com/artist/2TzIeWirsf62rqqqQMrXY2), [LOKey](https://open.spotify.com/artist/646Ax9TWfcrsPDNR8PCKuR), [sad.exe](https://open.spotify.com/artist/58nBLRzz5Y98DvumyLq7dP) | [Spring Skates](https://open.spotify.com/album/2VTW6dZT4zsOxZlRDxTdJ8) | 2:37 |
-| 59 | [Bubble](https://open.spotify.com/track/1qTf5nT7ZjnI71cROeQ7n5) | [Brutus Ord](https://open.spotify.com/artist/3nfe5Tat6fX9evyX3v4cUG), [Lily Mackay](https://open.spotify.com/artist/3mt7n9yB6wL8XaRpMD6k5C), [Jabbs](https://open.spotify.com/artist/4H3R5ACVtXeLBAMtqhwjIh) | [Bubble](https://open.spotify.com/album/03gIG4aM5lqaK9R5jVtZBS) | 4:06 |
+| 59 | [Bubble](https://open.spotify.com/track/1qTf5nT7ZjnI71cROeQ7n5) | [Brutus Ord](https://open.spotify.com/artist/3nfe5Tat6fX9evyX3v4cUG), [Lily Mackay](https://open.spotify.com/artist/3mt7n9yB6wL8XaRpMD6k5C), [Jabbs Like The Bird](https://open.spotify.com/artist/6FLAOHNm41lMrRZVxsXXs3) | [Bubble](https://open.spotify.com/album/03gIG4aM5lqaK9R5jVtZBS) | 4:06 |
 | 60 | [Bajamar](https://open.spotify.com/track/2cjnCNPxGNyLboqcLFr9eG) | [Titus Maz](https://open.spotify.com/artist/37d7YzlD13SIAz8ptROpKv), [Drew Ashby](https://open.spotify.com/artist/2wivJNo1l5hHyf6gmKc7z7), [Jay Kalo](https://open.spotify.com/artist/5W1XD2UEio8yIQCv7DyRGP), [Jordan White](https://open.spotify.com/artist/3EXB9gbQaWb78u8byTEp8j), [Indigo Pearce](https://open.spotify.com/artist/6qB9Kb668E79IXRkPE7f4v) | [Bajamar](https://open.spotify.com/album/7ASTHbxe0M7FmfChelRszs) | 3:49 |
 | 61 | [Stranger](https://open.spotify.com/track/06OAuBThpzCYhRdsVR70IE) | [Plumm](https://open.spotify.com/artist/17goxueRDomjijRHKaaQpT) | [Stranger](https://open.spotify.com/album/2L2DmXjDMks0xpR845SWGB) | 4:12 |
 | 62 | [Run](https://open.spotify.com/track/2Be3232RCFdNex8R5eBC4h) | [Arjuna Oakes](https://open.spotify.com/artist/724Bei6TsAHJYvnLHGdEAF), [John Psathas](https://open.spotify.com/artist/6DhDoOqFJ62yiSAdVrkNGr) | [Sierra](https://open.spotify.com/album/6AaOWwhkf8zSXaqnJq6MhV) | 7:03 |

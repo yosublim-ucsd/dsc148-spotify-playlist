@@ -1,6 +1,6 @@
 {
   "description": "Discover the music of Brahms.",
-  "num_followers": 109573,
+  "num_followers": 109620,
   "original_name": "This Is Brahms",
   "owner": {
     "name": "Spotify",
@@ -567,6 +567,30 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Brahms: Symphony No. 3 / Haydn Variations",
+        "url": "https://open.spotify.com/album/2U008dr0zOLARUw2bT2Tnm"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        },
+        {
+          "name": "Marin Alsop",
+          "url": "https://open.spotify.com/artist/0lluGWFB8hZ6HFktcH6kkr"
+        }
+      ],
+      "duration_ms": 789573,
+      "name": "Symphony No. 3 in F Major, Op. 90: I. Allegro con brio - Un poco sostenuto - Tempo I",
+      "url": "https://open.spotify.com/track/6zXGDCV9UFzqvGYvQmEdr3"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Brahms: 7 Fantasies, Op. 116, 4 Klavierst\u00fccke, Op. 119 & Piano Sonata No. 2, Op. 2",
         "url": "https://open.spotify.com/album/1E1RsdtpNdtzJeA56aVjr2"
       },
@@ -603,30 +627,6 @@
       "duration_ms": 112440,
       "name": "Brahms: 6 Klavierst\u00fccke, Op. 118: No. 1, Intermezzo in A Minor",
       "url": "https://open.spotify.com/track/4gkmI0WOmRID6XnVJsNa1i"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Brahms: Symphony No. 3 / Haydn Variations",
-        "url": "https://open.spotify.com/album/2U008dr0zOLARUw2bT2Tnm"
-      },
-      "artists": [
-        {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "London Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
-        },
-        {
-          "name": "Marin Alsop",
-          "url": "https://open.spotify.com/artist/0lluGWFB8hZ6HFktcH6kkr"
-        }
-      ],
-      "duration_ms": 789573,
-      "name": "Symphony No. 3 in F Major, Op. 90: I. Allegro con brio - Un poco sostenuto - Tempo I",
-      "url": "https://open.spotify.com/track/6zXGDCV9UFzqvGYvQmEdr3"
     },
     {
       "added_at": "2022-09-30 04:00:00",

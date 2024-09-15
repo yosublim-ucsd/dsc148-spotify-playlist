@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover: <a href="spotify:artist:47opbYEKDjXnRk9uLscp11">Yolanda Adams</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,601,389 likes - 100 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,601,521 likes - 100 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 92 | [A Great Awakening](https://open.spotify.com/track/11CVrv9H4laDRS8aAjT887) | [Alexander Pappas](https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC) | [A Great Awakening](https://open.spotify.com/album/21NrdGWPVjX1SxCpjEGbRG) | 4:01 |
 | 93 | [That's My King](https://open.spotify.com/track/6YoCr1PHjCNCniM5iJivoh) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [That's My King](https://open.spotify.com/album/2hNiu7tTe7qv2PrB97Umvi) | 4:10 |
 | 94 | [I Believe \- Live](https://open.spotify.com/track/5yGqicSYTfzMijkD6Qu35O) | [Charity Gayle](https://open.spotify.com/artist/57YsESW6BGZLHQgOg8AiAq) | [Rejoice \(Live\)](https://open.spotify.com/album/56EbeHM2nKCxBdePuJZfRE) | 6:02 |
-| 95 | [He Who Is To Come \- Live From Passion 2024](https://open.spotify.com/track/6SIyUCo2Sr7hPuBiZOaJYf) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Call on Heaven \(Live\)](https://open.spotify.com/album/3HigBXr1abN9Qhirdi3WGP) | 6:30 |
+| 95 | [He Who Is To Come \- Live From Passion 2024](https://open.spotify.com/track/6SIyUCo2Sr7hPuBiZOaJYf) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Call on Heaven \- Live](https://open.spotify.com/album/3HigBXr1abN9Qhirdi3WGP) | 6:30 |
 | 96 | [Thank You Jesus \- Live](https://open.spotify.com/track/0J6stnJiIO8QC6sCQzGZsX) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [Made For More \(Live\)](https://open.spotify.com/album/0TchDjWSD1zqYTJcYbcBZA) | 4:23 |
 | 97 | [Holy Forever](https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Forever](https://open.spotify.com/album/6x77fLgyIqVac6LncFAA22) | 5:08 |
 | 98 | [Don't Fight Alone](https://open.spotify.com/track/1nBs6CyPsd9THOxqsuLt0M) | [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [Don't Fight Alone](https://open.spotify.com/album/5ssaO7LgEOgKuuKRpm548L) | 4:00 |

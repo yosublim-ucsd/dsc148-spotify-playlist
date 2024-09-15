@@ -1,6 +1,6 @@
 {
   "description": "Ease out your mind with the rhythmic Tabla sounds, from Indian maestros & modern geniuses. Cover : Ishaan Ghosh",
-  "num_followers": 7350,
+  "num_followers": 7349,
   "original_name": "ECHO : Tabla Rhythms",
   "owner": {
     "name": "Spotify",
@@ -515,6 +515,22 @@
     {
       "added_at": "2024-01-29 10:55:46",
       "album": {
+        "name": "Tabla Meditation: Tabla Music for Meditation, Indian Meditation Songs with Drums and Flute",
+        "url": "https://open.spotify.com/album/57ryRbSVcgL2e5MQs4GCa5"
+      },
+      "artists": [
+        {
+          "name": "Tabla Pakuri",
+          "url": "https://open.spotify.com/artist/48y0vBY229c01VeLOC6HvF"
+        }
+      ],
+      "duration_ms": 306995,
+      "name": "Tablas for Positive Vibes",
+      "url": "https://open.spotify.com/track/3fhePrmxijriT9SBe7MSUt"
+    },
+    {
+      "added_at": "2024-01-29 10:55:46",
+      "album": {
         "name": "Authentic India: Indian Percussion",
         "url": "https://open.spotify.com/album/69wCZZ0ECtKoTJkHxdsGRO"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 62932,
       "name": "Tabla Duo",
       "url": "https://open.spotify.com/track/39YD8JklUkAWbUo1DywryB"
-    },
-    {
-      "added_at": "2024-01-29 10:55:46",
-      "album": {
-        "name": "Tabla Meditation: Tabla Music for Meditation, Indian Meditation Songs with Drums and Flute",
-        "url": "https://open.spotify.com/album/57ryRbSVcgL2e5MQs4GCa5"
-      },
-      "artists": [
-        {
-          "name": "Tabla Pakuri",
-          "url": "https://open.spotify.com/artist/48y0vBY229c01VeLOC6HvF"
-        }
-      ],
-      "duration_ms": 306995,
-      "name": "Tablas for Positive Vibes",
-      "url": "https://open.spotify.com/track/3fhePrmxijriT9SBe7MSUt"
     },
     {
       "added_at": "2024-01-29 10:55:46",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-01-29 10:55:46",
       "album": {
-        "name": "Pacifying Morning - Blissful Yoga Magic Rhythms",
-        "url": "https://open.spotify.com/album/0fO9RULLW0MSeWuybERMlt"
-      },
-      "artists": [
-        {
-          "name": "Spiritual Sound Clubb",
-          "url": "https://open.spotify.com/artist/6ujBnE0dEYfHXprlVK6JFg"
-        }
-      ],
-      "duration_ms": 140571,
-      "name": "Uttam Tabla - Original Mix",
-      "url": "https://open.spotify.com/track/5ifvTEhKkH1Bksq2uHeCSD"
-    },
-    {
-      "added_at": "2024-01-29 10:55:46",
-      "album": {
         "name": "Authentic India: Indian Percussion",
         "url": "https://open.spotify.com/album/69wCZZ0ECtKoTJkHxdsGRO"
       },
@@ -715,22 +699,18 @@
     {
       "added_at": "2024-01-29 10:55:46",
       "album": {
-        "name": "Top 25 Fusion Ringtunes",
-        "url": "https://open.spotify.com/album/1FNe4CLnDIwT9GBfxAIwJ1"
+        "name": "Pacifying Morning - Blissful Yoga Magic Rhythms",
+        "url": "https://open.spotify.com/album/0fO9RULLW0MSeWuybERMlt"
       },
       "artists": [
         {
-          "name": "Niladri Kumar",
-          "url": "https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4"
-        },
-        {
-          "name": "Talvin Singh",
-          "url": "https://open.spotify.com/artist/30Y7JOpiNgAGEhnkYPdI1P"
+          "name": "Spiritual Sound Clubb",
+          "url": "https://open.spotify.com/artist/6ujBnE0dEYfHXprlVK6JFg"
         }
       ],
-      "duration_ms": 116122,
-      "name": "Ananta (Tabla & Sitar)",
-      "url": "https://open.spotify.com/track/6uHNqMTzet8TN8WcQDZyjq"
+      "duration_ms": 140571,
+      "name": "Uttam Tabla - Original Mix",
+      "url": "https://open.spotify.com/track/5ifvTEhKkH1Bksq2uHeCSD"
     },
     {
       "added_at": "2024-01-29 10:55:46",
@@ -747,6 +727,26 @@
       "duration_ms": 570506,
       "name": "Drut Teentaal (Tabla solo)",
       "url": "https://open.spotify.com/track/3lduWcXFj4zjMVsSlL4qdd"
+    },
+    {
+      "added_at": "2024-01-29 10:55:46",
+      "album": {
+        "name": "Top 25 Fusion Ringtunes",
+        "url": "https://open.spotify.com/album/1FNe4CLnDIwT9GBfxAIwJ1"
+      },
+      "artists": [
+        {
+          "name": "Niladri Kumar",
+          "url": "https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4"
+        },
+        {
+          "name": "Talvin Singh",
+          "url": "https://open.spotify.com/artist/30Y7JOpiNgAGEhnkYPdI1P"
+        }
+      ],
+      "duration_ms": 116122,
+      "name": "Ananta (Tabla & Sitar)",
+      "url": "https://open.spotify.com/track/6uHNqMTzet8TN8WcQDZyjq"
     },
     {
       "added_at": "2024-01-29 10:55:46",
@@ -843,18 +843,18 @@
     {
       "added_at": "2024-01-29 10:55:46",
       "album": {
-        "name": "Get Recharged!!!",
-        "url": "https://open.spotify.com/album/7uAdx4T1tcIpMMSDFSiwdL"
+        "name": "Lagrima",
+        "url": "https://open.spotify.com/album/0EphHGiWwMpfirdRG3gp3J"
       },
       "artists": [
         {
-          "name": "Anuradha Pal",
-          "url": "https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT"
+          "name": "Fausto Palma",
+          "url": "https://open.spotify.com/artist/6NWmBPZdw4rP461AyF197Q"
         }
       ],
-      "duration_ms": 408888,
-      "name": "Ecstasy",
-      "url": "https://open.spotify.com/track/3cpUVxVvbZ42OhVC7MF07h"
+      "duration_ms": 159582,
+      "name": "Delirio de Ale",
+      "url": "https://open.spotify.com/track/7LeCJLskRnBq1Bz0l98tC3"
     }
   ],
   "unique_name": "ECHO : Tabla Rhythms",

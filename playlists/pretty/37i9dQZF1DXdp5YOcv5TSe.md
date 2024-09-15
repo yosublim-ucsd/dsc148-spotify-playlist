@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdp5YOcv5TSe.md) - [plain]
 
 > The official G2 Esports playlist\. Cover: G2 CS2
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,331 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,375 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdp5YOcv5TSe.md) - [plain]
 | 19 | [10 Freaky Girls \(with 21 Savage\)](https://open.spotify.com/track/0AluA5RNsa4Cx6XRhf2hWZ) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [NOT ALL HEROES WEAR CAPES \(Deluxe\)](https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj) | 3:28 |
 | 20 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh) | 3:32 |
 | 21 | [WHERE SHE GOES](https://open.spotify.com/track/7ro0hRteUMfnOioTFI5TG1) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [WHERE SHE GOES](https://open.spotify.com/album/5gCcb5fsSb6w5K8SyJrgtB) | 3:51 |
-| 22 | [MILLION DOLLAR BABY \(VHS\)](https://open.spotify.com/track/55HpRb1dWGT3JeX9RpDpLa) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/2Z1gnUf3nbn6DtwZSUIH54) | 2:35 |
-| 23 | [The Spectre](https://open.spotify.com/track/2DGa7iaidT5s0qnINlwMjJ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [The Spectre](https://open.spotify.com/album/1IKRstg3XuCuLWeCg3oaAW) | 3:13 |
+| 22 | [The Spectre](https://open.spotify.com/track/2DGa7iaidT5s0qnINlwMjJ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [The Spectre](https://open.spotify.com/album/1IKRstg3XuCuLWeCg3oaAW) | 3:13 |
+| 23 | [MILLION DOLLAR BABY \(VHS\)](https://open.spotify.com/track/55HpRb1dWGT3JeX9RpDpLa) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/2Z1gnUf3nbn6DtwZSUIH54) | 2:35 |
 | 24 | [Plain Jane](https://open.spotify.com/track/4dVpf9jZjcORqGTLUaeYj9) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Still Striving](https://open.spotify.com/album/0tQ7Iu6EicQTPyhYRNWjaT) | 2:53 |
 | 25 | [It Was A Good Day](https://open.spotify.com/track/2GrOq1y5gksYrqkc8Jzl9T) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Greatest Hits](https://open.spotify.com/album/7EPmezGIzLHj7LeTtLYhJZ) | 4:20 |
 | 26 | [Ice Ice Baby](https://open.spotify.com/track/3XVozq1aeqsJwpXrEZrDJ9) | [Vanilla Ice](https://open.spotify.com/artist/7GXXMm3DB1VswVcuGyInUd) | [Vanilla Ice Is Back! \- Hip Hop Classics](https://open.spotify.com/album/20O6lfaDAoMhUj5TAvVbb6) | 4:14 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdp5YOcv5TSe.md) - [plain]
 | 31 | [FINA](https://open.spotify.com/track/3nNmRE0DxHC6ZaKkrpUumS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 3:36 |
 | 32 | [Tiimmy Turner](https://open.spotify.com/track/3NJG6vMH1ZsectZkocMEm0) | [Desiigner](https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4) | [Tiimmy Turner](https://open.spotify.com/album/7zf9kyxc3ZhJv79HrjTRir) | 3:59 |
 | 33 | [Delija](https://open.spotify.com/track/5JRSB2DgagXcOzaAJqb6yh) | [Senidah](https://open.spotify.com/artist/1C5jQlkf0TrFu6rmHZp2X5) | [Delija](https://open.spotify.com/album/3XvxgN5inQ9BDn1U4YP5QO) | 3:16 |
-| 34 | [out for the night \- part 2](https://open.spotify.com/track/4B8vU5oDXVxO5OkLAI4aLx) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [i am > i was \(Deluxe\)](https://open.spotify.com/album/6guJZpZ52v4MrJKIH7tASl) | 3:55 |
-| 35 | [Cataleya](https://open.spotify.com/track/5ORMtD5Pxq21oxTfWkZ2Fe) | [Jala Brat](https://open.spotify.com/artist/6C1X5Uh3DPIkC2gaVq00BL), [Buba Corelli](https://open.spotify.com/artist/3ekwV8Mt8DgZvmuK2futxG) | [Goat Season \(Part Two\)](https://open.spotify.com/album/3x6AkGZq0tRhHige9EWdPH) | 2:57 |
+| 34 | [Cataleya](https://open.spotify.com/track/5ORMtD5Pxq21oxTfWkZ2Fe) | [Jala Brat](https://open.spotify.com/artist/6C1X5Uh3DPIkC2gaVq00BL), [Buba Corelli](https://open.spotify.com/artist/3ekwV8Mt8DgZvmuK2futxG) | [Goat Season \(Part Two\)](https://open.spotify.com/album/3x6AkGZq0tRhHige9EWdPH) | 2:57 |
+| 35 | [out for the night \- part 2](https://open.spotify.com/track/4B8vU5oDXVxO5OkLAI4aLx) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [i am > i was \- Deluxe](https://open.spotify.com/album/6guJZpZ52v4MrJKIH7tASl) | 3:55 |
 | 36 | [Moonwalking in Calabasas \(feat\. Blueface\) \- Remix](https://open.spotify.com/track/7o4gBbTM6UBLkOYPw9xMCz) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ) | [Moonwalking in Calabasas \(feat\. Blueface\) \[Remix\]](https://open.spotify.com/album/1z02WpEdAuImwfySk43owY) | 2:50 |
 | 37 | [Call on Me](https://open.spotify.com/track/1As4KC3YYpu89aBt7EqL2m) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Call On Me \(Remixes\)](https://open.spotify.com/album/6rLtAT39718G4HXOELGjTs) | 7:34 |
 | 38 | [Here We Go Again](https://open.spotify.com/track/3WsbAGQt6HgTj9kg6f466M) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Here We Go Again](https://open.spotify.com/album/1MIlk0URqciXoiT8xqLzZf) | 2:44 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdp5YOcv5TSe.md) - [plain]
 | 46 | [Marvelous Day \(feat\. Lil Uzi Vert & Gunna\)](https://open.spotify.com/track/4kfEy7h6bWBS5OaDpccTap) | [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Mood](https://open.spotify.com/album/4X4eIXh8tgQPiwxkxsp5lz) | 3:43 |
 | 47 | [Shakespeare](https://open.spotify.com/track/5Ms6phtE3zdTYgNo5hlqzQ) | [Sushi.b](https://open.spotify.com/artist/0LL65Vn5QZSZZ5fYSvdUKF) | [Shakespeare](https://open.spotify.com/album/0hiTGVtG65OvVaHiMYroBc) | 8:54 |
 | 48 | [Again](https://open.spotify.com/track/01TV5z8ij5Lipu7dB6BaQq) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ) | [Come With Me](https://open.spotify.com/album/2IPrSr4rOtsy6c4AaRjfbl) | 6:03 |
-| 49 | [Somebody That I Used To Know](https://open.spotify.com/track/5fmqHkDeezD3eFxU52kVyF) | [HYPER BOYZ](https://open.spotify.com/artist/6ZEqI6H3n5xzdKJdJEUw5o), [Deepierro](https://open.spotify.com/artist/6RjLqpWiji9AdDMVNm6QrX) | [Somebody That I Used To Know](https://open.spotify.com/album/0LhH26IhizANNyTbJCu1rl) | 2:36 |
-| 50 | [Lagana](https://open.spotify.com/track/0RjVoktGn4BWvCKcVpo95s) | [Amna](https://open.spotify.com/artist/1xrPCPIPZUekjoVY5lRrOe) | [Lagana](https://open.spotify.com/album/57YuixvjtMcokwykgU314v) | 2:14 |
+| 49 | [Lagana](https://open.spotify.com/track/0RjVoktGn4BWvCKcVpo95s) | [Amna](https://open.spotify.com/artist/1xrPCPIPZUekjoVY5lRrOe) | [Lagana](https://open.spotify.com/album/57YuixvjtMcokwykgU314v) | 2:14 |
+| 50 | [Somebody That I Used To Know](https://open.spotify.com/track/5fmqHkDeezD3eFxU52kVyF) | [HYPER BOYZ](https://open.spotify.com/artist/6ZEqI6H3n5xzdKJdJEUw5o), [Deepierro](https://open.spotify.com/artist/6RjLqpWiji9AdDMVNm6QrX) | [Somebody That I Used To Know](https://open.spotify.com/album/0LhH26IhizANNyTbJCu1rl) | 2:36 |
 
 Snapshot ID: `ZqwFYAAAAADCFRrTsFlMs9AdFwA5pYhF`

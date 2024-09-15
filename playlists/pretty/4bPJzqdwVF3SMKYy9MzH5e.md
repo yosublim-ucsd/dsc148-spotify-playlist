@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,957 songs - 4 day 9 hr 18 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,958 songs - 4 day 9 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1965,5 +1965,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1955 | [Bloody Sneakers \(Violet's Theme\)](https://open.spotify.com/track/5UNlr5NiYJhZi16TGLTIgi) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | [Neon White Soundtrack Part 2 "The Burn That Cures"](https://open.spotify.com/album/4ssvXCfePUn0EwwcUy10Pi) | 1:07 |
 | 1956 | [Mirage](https://open.spotify.com/track/1w327AHTCoChRIkJUprAnV) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [A Collection of Fleeting Moments and Daydreams](https://open.spotify.com/album/1Ckbuzoh1dYKFnpNYmVEof) | 0:57 |
 | 1957 | [Mastercard](https://open.spotify.com/track/4DCm1yyODwqULv5zOb1mkW) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec) | [Mastercard](https://open.spotify.com/album/6jJkHZaIS3bBXBaafuY17p) | 3:19 |
+| 1958 | [PRIVET PRIVET 2009 ST](https://open.spotify.com/track/5S3g79HZI1lA7qEr1wBEni) | [Luke Willies](https://open.spotify.com/artist/3uIws1bbX1b53e0xJpz94r) | [PRIVET PRIVET 2009 ST](https://open.spotify.com/album/2sAFkotFrDHE5ZFPSDnM9z) | 1:34 |
 
-Snapshot ID: `AAADTdMTHjCTP+QoxRKXNnQupl1zDxh0`
+Snapshot ID: `AAADTo2OJadIwtKmGla0VohgryQ50xgm`

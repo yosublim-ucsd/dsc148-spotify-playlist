@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjYER0JjzBA.md) - [plain]
 
 > The tracklist to your holiday movie soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,003 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,020 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjYER0JjzBA.md) - [plain]
 | 2 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/1BMmB1L5PbedWBAFl3xf27) | [Judy Garland](https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf) | [Meet Me In St\. Louis \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/29vvOZZDLLZavty2hkZySE) | 2:37 |
 | 3 | [Christmas Time Is Here \- Vocal](https://open.spotify.com/track/299lFlaAsNQdgbIZNPmIA0) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w) | 2:46 |
 | 4 | [You're A Mean One, Mr\. Grinch](https://open.spotify.com/track/6ZgigeSB0XUMqc0jjzaq6d) | [Thurl Ravenscroft](https://open.spotify.com/artist/5Gejwv3xz2DpLcxVpMD6hL) | [How The Grinch Stole Christmas](https://open.spotify.com/album/13cUx8LoPoOcG4LEeRBv2q) | 2:56 |
-| 5 | [Carol of the Bells](https://open.spotify.com/track/4tHqQMWSqmL6YjXwsqthDI) | [Mykola Dmytrovych Leontovych](https://open.spotify.com/artist/6lBN3Tzt61u8i9AJoAhKzF), [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Home Alone \(Original Motion Picture Soundtrack\) \- Anniversary Edition](https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY) | 1:25 |
+| 5 | [Carol of the Bells](https://open.spotify.com/track/4tHqQMWSqmL6YjXwsqthDI) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Home Alone \(Original Motion Picture Soundtrack\) \- Anniversary Edition](https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY) | 1:25 |
 | 6 | [Let It Go \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/600HVBpzF1WfBdaRwbEvLz) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Frozen \- Original Motion Picture Soundtrack](https://open.spotify.com/album/19dqa2yIehtaN4kBwpSEvP) | 3:43 |
 | 7 | [Christmas Is All Around \- Soundtrack Version](https://open.spotify.com/track/2bWizjWMdoTFUmMdaZsZsi) | [Billy Mack](https://open.spotify.com/artist/1I42E6vHKlGhggG55hvVtx) | [Love Actually \(Original Motion Picture Score\)](https://open.spotify.com/album/4Kw7yE7xBZdHrvkTswoQq4) | 3:48 |
 | 8 | [Baby, It's Cold Outside](https://open.spotify.com/track/0rzY0whyLE68ENX7mvoHAN) | [Zooey Deschanel](https://open.spotify.com/artist/2GEW6nJjHKAFyqnsE3TdWx), [Leon Redbone](https://open.spotify.com/artist/7hYKC5uBED0V5rpKQkqgQ5) | [Elf \(Music from the Major Motion Picture\)](https://open.spotify.com/album/2FAdasepbd5GxXtoFofkDJ) | 3:32 |

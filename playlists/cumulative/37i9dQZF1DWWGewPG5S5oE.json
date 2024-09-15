@@ -3209,6 +3209,28 @@
     },
     {
       "album": {
+        "name": "New World feat.ELAIZA",
+        "url": "https://open.spotify.com/album/3bUMoQ0Cceo8MJp04N76wU"
+      },
+      "artists": [
+        {
+          "name": "Jazztronik",
+          "url": "https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM"
+        },
+        {
+          "name": "ELAIZA",
+          "url": "https://open.spotify.com/artist/45dMXQSIdhCQd5RUqDSpka"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228966,
+      "name": "New World feat.ELAIZA",
+      "url": "https://open.spotify.com/track/2SH3irAb48lnPA4zzxtTwX"
+    },
+    {
+      "album": {
         "name": "PARADISE",
         "url": "https://open.spotify.com/album/5Sv5HS9ZNFdGsNwJkbLjQD"
       },
@@ -4756,7 +4778,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 132853,
       "name": "The Great U's Train",
       "url": "https://open.spotify.com/track/09K7opjPdiz1VwEJCBk34v"

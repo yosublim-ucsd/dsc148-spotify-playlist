@@ -1,6 +1,6 @@
 {
   "description": "Cryzin e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 375119,
+  "num_followers": 375150,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
@@ -1259,42 +1259,6 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
-        "name": "2022",
-        "url": "https://open.spotify.com/album/7ysk3Rg7XyoRGqhiUmuxy1"
-      },
-      "artists": [
-        {
-          "name": "Milthinho",
-          "url": "https://open.spotify.com/artist/44MnHK78EcZw23nzqY1vFp"
-        }
-      ],
-      "duration_ms": 218687,
-      "name": "2022",
-      "url": "https://open.spotify.com/track/4tjE5KCgw98VypSqtVCh3W"
-    },
-    {
-      "added_at": "2024-09-13 03:01:00",
-      "album": {
-        "name": "Sorte (Ao Vivo / EP01)",
-        "url": "https://open.spotify.com/album/5KNpDTmQLlebpsHsGQ90pK"
-      },
-      "artists": [
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        }
-      ],
-      "duration_ms": 182999,
-      "name": "Vai Valer A Pena - Ao Vivo",
-      "url": "https://open.spotify.com/track/6kHf0Ax9bvwziqZgo948dP"
-    },
-    {
-      "added_at": "2024-09-13 03:01:00",
-      "album": {
         "name": "OS GAROTIN DE S\u00c3O GON\u00c7ALO",
         "url": "https://open.spotify.com/album/07C0GZEXLAELHVNkBNeVXZ"
       },
@@ -1319,6 +1283,42 @@
       "duration_ms": 199081,
       "name": "calor do momento",
       "url": "https://open.spotify.com/track/66nRZPGdQWXZhTSfvpIFDS"
+    },
+    {
+      "added_at": "2024-09-13 03:01:00",
+      "album": {
+        "name": "Sorte (Ao Vivo / EP01)",
+        "url": "https://open.spotify.com/album/5KNpDTmQLlebpsHsGQ90pK"
+      },
+      "artists": [
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        }
+      ],
+      "duration_ms": 182999,
+      "name": "Vai Valer A Pena - Ao Vivo",
+      "url": "https://open.spotify.com/track/6kHf0Ax9bvwziqZgo948dP"
+    },
+    {
+      "added_at": "2024-09-13 03:01:00",
+      "album": {
+        "name": "2022",
+        "url": "https://open.spotify.com/album/7ysk3Rg7XyoRGqhiUmuxy1"
+      },
+      "artists": [
+        {
+          "name": "Milthinho",
+          "url": "https://open.spotify.com/artist/44MnHK78EcZw23nzqY1vFp"
+        }
+      ],
+      "duration_ms": 218687,
+      "name": "2022",
+      "url": "https://open.spotify.com/track/4tjE5KCgw98VypSqtVCh3W"
     },
     {
       "added_at": "2024-09-13 03:01:00",

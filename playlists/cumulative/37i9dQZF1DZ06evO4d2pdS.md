@@ -2,9 +2,9 @@
 
 ### [This Is Lakeyah](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4d2pdS)
 
-> This is Lakeyah\. The essential tracks, all in one playlist.
+> This is Lakeyah\. Todos os maiores hits em uma só playlist.
 
-52 songs - 2 hr 13 min
+53 songs - 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Giannis \(feat\. Icewear Vezzo & Peezy\)](https://open.spotify.com/track/4wMsfCTbVOz1UuZTr7Vlcs) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Peezy](https://open.spotify.com/artist/6qQcyyo2dCSynZQCCTIWAK), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [No Pressure \(Pt\. 2\)](https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai) | 3:17 | 2022-10-28 |  |
 | [GOAT Talk](https://open.spotify.com/track/3pSPOHc63HxnuD2bzA4Qdd) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [My Time \- Gangsta Grillz: Special Edition](https://open.spotify.com/album/7fN9TVZE3JJFV7QqyVisnh) | 2:03 | 2022-10-28 |  |
 | [Hear My Cry](https://open.spotify.com/track/60ElfiVjf4AlzIq2BC5z1X) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Hear My Cry](https://open.spotify.com/album/0JMoNRUAl0DJe7PP2d2eRz) | 3:19 | 2022-10-28 |  |
+| [Heartbeat](https://open.spotify.com/track/4IuWMIcuPDFmPhPrdl0DD2) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Ann Marie](https://open.spotify.com/artist/3feB1IF85It42sebtWSqws) | [Heartbeat](https://open.spotify.com/album/0SoDqZyYx0DOmbSv0ReBwQ) | 3:37 | 2024-09-15 |  |
 | [Hit Different](https://open.spotify.com/track/2hOY49Bn0zV1HdZdckeiyM) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Time's Up](https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi) | 2:21 | 2024-05-10 | 2024-07-08 |
 | [I Look Good](https://open.spotify.com/track/09zTVXUcPZvWhIERXChXep) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [I Look Good](https://open.spotify.com/album/1IoA8ma8z6shw1ZAre9rab) | 1:53 | 2022-10-28 | 2023-01-14 |
 | [I Look Good](https://open.spotify.com/track/1qk4oqAEOI0cN8D1J9ato9) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [No Pressure \(Pt\. 2\)](https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai) | 1:53 | 2023-01-14 |  |

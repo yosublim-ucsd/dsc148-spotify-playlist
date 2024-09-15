@@ -327,6 +327,28 @@
     },
     {
       "album": {
+        "name": "Heavy Metal 2",
+        "url": "https://open.spotify.com/album/2apmGMKFppnLu7eccTQwM2"
+      },
+      "artists": [
+        {
+          "name": "9mice",
+          "url": "https://open.spotify.com/artist/3v0qTkZvuro4johOZyIhOm"
+        },
+        {
+          "name": "Kai Angel",
+          "url": "https://open.spotify.com/artist/1pxLlPRiWRUBGdSOrVL4f0"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131180,
+      "name": "2017",
+      "url": "https://open.spotify.com/track/3JlIUrzdTsW3tpFiwYOpJJ"
+    },
+    {
+      "album": {
         "name": "22",
         "url": "https://open.spotify.com/album/76lIDnnhiXX5z3nuDYgHoE"
       },
@@ -1061,6 +1083,24 @@
     },
     {
       "album": {
+        "name": "ALL RED",
+        "url": "https://open.spotify.com/album/3cdcIcidzGHVQW5e9qQgtx"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148053,
+      "name": "ALL RED",
+      "url": "https://open.spotify.com/track/2cZOYofOX4d6g0OXxkaIjA"
+    },
+    {
+      "album": {
         "name": "Allo",
         "url": "https://open.spotify.com/album/2iiovddkmbFKZWn5wYOpje"
       },
@@ -1076,6 +1116,32 @@
       "duration_ms": 228000,
       "name": "Allo",
       "url": "https://open.spotify.com/track/5yO3MLtyhuTeRqinBGtanU"
+    },
+    {
+      "album": {
+        "name": "PEEKABOO",
+        "url": "https://open.spotify.com/album/786SDwa0FZXk7Wzeq6pqhQ"
+      },
+      "artists": [
+        {
+          "name": "Big Baby Tape",
+          "url": "https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT"
+        },
+        {
+          "name": "Aarne",
+          "url": "https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo"
+        },
+        {
+          "name": "Toxi$",
+          "url": "https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179200,
+      "name": "Ameli",
+      "url": "https://open.spotify.com/track/17nSd6VAbcvsFxzRGTMpWn"
     },
     {
       "album": {
@@ -1098,7 +1164,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 179200,
       "name": "Ameli",
       "url": "https://open.spotify.com/track/3E7pXPvfPnueoZKz4VTg1n"
@@ -1950,7 +2016,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -3384,6 +3450,24 @@
       "duration_ms": 176579,
       "name": "Dance The Night - From Barbie The Album",
       "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
+    },
+    {
+      "album": {
+        "name": "Dancing In The Flames",
+        "url": "https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220036,
+      "name": "Dancing In The Flames",
+      "url": "https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9"
     },
     {
       "album": {
@@ -5007,6 +5091,28 @@
     },
     {
       "album": {
+        "name": "Heavy Metal 2",
+        "url": "https://open.spotify.com/album/2apmGMKFppnLu7eccTQwM2"
+      },
+      "artists": [
+        {
+          "name": "9mice",
+          "url": "https://open.spotify.com/artist/3v0qTkZvuro4johOZyIhOm"
+        },
+        {
+          "name": "Kai Angel",
+          "url": "https://open.spotify.com/artist/1pxLlPRiWRUBGdSOrVL4f0"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56375,
+      "name": "Fire Alarm",
+      "url": "https://open.spotify.com/track/51ju9h6ItNS7KlDwgcL2pI"
+    },
+    {
+      "album": {
         "name": "First Day Out",
         "url": "https://open.spotify.com/album/6srx0ovFsTWryJbcpOIodY"
       },
@@ -5224,6 +5330,28 @@
       "duration_ms": 228965,
       "name": "Fortnight (feat. Post Malone)",
       "url": "https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m"
+    },
+    {
+      "album": {
+        "name": "Heavy Metal 2",
+        "url": "https://open.spotify.com/album/2apmGMKFppnLu7eccTQwM2"
+      },
+      "artists": [
+        {
+          "name": "9mice",
+          "url": "https://open.spotify.com/artist/3v0qTkZvuro4johOZyIhOm"
+        },
+        {
+          "name": "Kai Angel",
+          "url": "https://open.spotify.com/artist/1pxLlPRiWRUBGdSOrVL4f0"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133714,
+      "name": "Fountainebleu",
+      "url": "https://open.spotify.com/track/0whf2gBRVWuZLqVZgg5Egn"
     },
     {
       "album": {
@@ -6999,6 +7127,28 @@
     },
     {
       "album": {
+        "name": "Heavy Metal 2",
+        "url": "https://open.spotify.com/album/2apmGMKFppnLu7eccTQwM2"
+      },
+      "artists": [
+        {
+          "name": "9mice",
+          "url": "https://open.spotify.com/artist/3v0qTkZvuro4johOZyIhOm"
+        },
+        {
+          "name": "Kai Angel",
+          "url": "https://open.spotify.com/artist/1pxLlPRiWRUBGdSOrVL4f0"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123200,
+      "name": "I Love God",
+      "url": "https://open.spotify.com/track/4eNY3PuZxOIwNPXMHDe1GA"
+    },
+    {
+      "album": {
         "name": "3x3",
         "url": "https://open.spotify.com/album/32BvlHf3nCW7cOTH970V7t"
       },
@@ -7072,7 +7222,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
@@ -7098,6 +7248,28 @@
       "duration_ms": 175238,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
+    },
+    {
+      "album": {
+        "name": "Heavy Metal 2",
+        "url": "https://open.spotify.com/album/2apmGMKFppnLu7eccTQwM2"
+      },
+      "artists": [
+        {
+          "name": "9mice",
+          "url": "https://open.spotify.com/artist/3v0qTkZvuro4johOZyIhOm"
+        },
+        {
+          "name": "Kai Angel",
+          "url": "https://open.spotify.com/artist/1pxLlPRiWRUBGdSOrVL4f0"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131666,
+      "name": "Ice + Alabaster",
+      "url": "https://open.spotify.com/track/01OCztdBtk4POwQcqV1LrZ"
     },
     {
       "album": {
@@ -11601,6 +11773,28 @@
     },
     {
       "album": {
+        "name": "Heavy Metal 2",
+        "url": "https://open.spotify.com/album/2apmGMKFppnLu7eccTQwM2"
+      },
+      "artists": [
+        {
+          "name": "9mice",
+          "url": "https://open.spotify.com/artist/3v0qTkZvuro4johOZyIhOm"
+        },
+        {
+          "name": "Kai Angel",
+          "url": "https://open.spotify.com/artist/1pxLlPRiWRUBGdSOrVL4f0"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150441,
+      "name": "Phoenix",
+      "url": "https://open.spotify.com/track/4gypp6InByEhUi7ssgWtAx"
+    },
+    {
+      "album": {
         "name": "Phonky Town",
         "url": "https://open.spotify.com/album/1TphjjWjHo2s2nFeZWrThI"
       },
@@ -14592,10 +14786,32 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 164000,
       "name": "Supersonic",
       "url": "https://open.spotify.com/track/4o9kHw0XBJfGazV6bgttU4"
+    },
+    {
+      "album": {
+        "name": "PEEKABOO",
+        "url": "https://open.spotify.com/album/786SDwa0FZXk7Wzeq6pqhQ"
+      },
+      "artists": [
+        {
+          "name": "Big Baby Tape",
+          "url": "https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT"
+        },
+        {
+          "name": "Aarne",
+          "url": "https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Supersonic",
+      "url": "https://open.spotify.com/track/5gSzWAAZIZBhSDSufE7nHv"
     },
     {
       "album": {
@@ -15474,7 +15690,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 175610,
       "name": "Turbo (Majestic)",
       "url": "https://open.spotify.com/track/6rOHlBLsBXzJx2k9ZROzEq"
@@ -16230,7 +16446,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 170887,
       "name": "Who",
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
@@ -23412,7 +23628,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 132293,
       "name": "\u041c\u043e\u0436\u043d\u043e \u044f \u0441 \u0442\u043e\u0431\u043e\u0439",
       "url": "https://open.spotify.com/track/0MRBhe9wjupFpmdKGh3Xhp"
@@ -24124,7 +24340,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 148536,
       "name": "\u041d\u0435 \u0432\u0442\u0440\u0430\u0442\u0438\u043c\u043e \u0437\u0432'\u044f\u0437\u043e\u043a",
       "url": "https://open.spotify.com/track/4QbAOvKJMIx22HvGqkFBmM"
@@ -24646,7 +24862,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 213954,
       "name": "\u041d\u043e\u043d \u0441\u0442\u043e\u043f",
       "url": "https://open.spotify.com/track/3uMUdlo47oEes3kgL4T4EC"
@@ -26410,7 +26626,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 138512,
       "name": "\u0420\u0430\u0439\u0441\u043a\u0438\u0435 \u0446\u0432\u0435\u0442\u044b",
       "url": "https://open.spotify.com/track/1DSCMhnFgL4BVI6D8fJJ8a"
@@ -26512,6 +26728,32 @@
     {
       "album": {
         "name": "WE LIVE ONLY ONCE",
+        "url": "https://open.spotify.com/album/6y2Z6pHf9hooEHWcSZzEqk"
+      },
+      "artists": [
+        {
+          "name": "Aarne",
+          "url": "https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo"
+        },
+        {
+          "name": "BUSHIDO ZHO",
+          "url": "https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R"
+        },
+        {
+          "name": "Liza Evans",
+          "url": "https://open.spotify.com/artist/34uLjhAZJbOcYI3pHkpSvD"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161142,
+      "name": "\u0420\u0415\u0412\u041d\u0423\u042e",
+      "url": "https://open.spotify.com/track/3Xbu5aXLapPvbsKztc3PMf"
+    },
+    {
+      "album": {
+        "name": "WE LIVE ONLY ONCE",
         "url": "https://open.spotify.com/album/7eO5K3obkRBr0jrRdMVJ3d"
       },
       "artists": [
@@ -26530,7 +26772,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 161142,
       "name": "\u0420\u0415\u0412\u041d\u0423\u042e",
       "url": "https://open.spotify.com/track/6wgxu2H2aZ0Plw8gKZ8WG9"
@@ -26588,6 +26830,28 @@
       "duration_ms": 140714,
       "name": "\u0420\u0436\u0430\u0432\u044b\u0439",
       "url": "https://open.spotify.com/track/34uMKnzufwyZJWHLcbaYTz"
+    },
+    {
+      "album": {
+        "name": "Heavy Metal 2",
+        "url": "https://open.spotify.com/album/2apmGMKFppnLu7eccTQwM2"
+      },
+      "artists": [
+        {
+          "name": "9mice",
+          "url": "https://open.spotify.com/artist/3v0qTkZvuro4johOZyIhOm"
+        },
+        {
+          "name": "Kai Angel",
+          "url": "https://open.spotify.com/artist/1pxLlPRiWRUBGdSOrVL4f0"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115135,
+      "name": "\u0420\u0438\u043d\u043e\u043f\u043b\u0430\u0441\u0442\u0438\u043a\u0430 - Surgery",
+      "url": "https://open.spotify.com/track/6dXPD2BzUrKjceT1c3eOtK"
     },
     {
       "album": {
@@ -29660,7 +29924,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 156338,
       "name": "\u0426\u0435 \u043b\u044e\u0431\u043e\u0432",
       "url": "https://open.spotify.com/track/1wC8M93ofAwfrV9a4mDzYa"

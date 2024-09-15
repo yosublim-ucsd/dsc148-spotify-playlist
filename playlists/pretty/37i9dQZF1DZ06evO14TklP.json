@@ -1,12 +1,12 @@
 {
   "description": "This is Ebony. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 8983,
+  "num_followers": 8993,
   "original_name": "This Is Ebony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuIvAAAAAADKyzAMlGTNF49xwnpz5w2x",
+  "snapshot_id": "ZuOAgAAAAAC5qia+gWtkJUV+SStgAvMe",
   "tracks": [
     {
       "added_at": null,
@@ -356,17 +356,13 @@
           "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
         },
         {
-          "name": "Leo Justi",
-          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
-        },
-        {
-          "name": "Heavy Baile",
-          "url": "https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M"
+          "name": "AG Beatz",
+          "url": "https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ"
         }
       ],
-      "duration_ms": 142500,
-      "name": "Hentai",
-      "url": "https://open.spotify.com/track/4WASSSbTnOr8upRdiFy0Iz"
+      "duration_ms": 108249,
+      "name": "Lei da Atra\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/3pUHsvEu7VbILDCWpHM23J"
     },
     {
       "added_at": null,
@@ -452,13 +448,17 @@
           "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
         },
         {
-          "name": "AG Beatz",
-          "url": "https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ"
+          "name": "Leo Justi",
+          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
+        },
+        {
+          "name": "Heavy Baile",
+          "url": "https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M"
         }
       ],
-      "duration_ms": 108249,
-      "name": "Lei da Atra\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/3pUHsvEu7VbILDCWpHM23J"
+      "duration_ms": 142500,
+      "name": "Hentai",
+      "url": "https://open.spotify.com/track/4WASSSbTnOr8upRdiFy0Iz"
     },
     {
       "added_at": null,

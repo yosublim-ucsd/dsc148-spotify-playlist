@@ -1,6 +1,6 @@
 {
   "description": "Voices that are elevating nuestra cultura. Jhayco, Estevie, Xiuhtezcatl & ERRE en portada. ",
-  "num_followers": 22,
+  "num_followers": 33,
   "original_name": "Our Voice",
   "owner": {
     "name": "Spotify",
@@ -287,26 +287,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "SOLTERA",
-        "url": "https://open.spotify.com/album/2U0L1nCCSV5HUfsCzaI1RQ"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        },
-        {
-          "name": "8onthebeat",
-          "url": "https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473"
-        }
-      ],
-      "duration_ms": 178312,
-      "name": "SOLTERA",
-      "url": "https://open.spotify.com/track/3tSCKN736ypIH1HrTwi7rL"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "LLAMADA PERDIDA",
         "url": "https://open.spotify.com/album/14ZGI8bUlOfVKT8SBLFjjT"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 229474,
       "name": "Morfina (feat. Paloma Mami)",
       "url": "https://open.spotify.com/track/5FJBIe3cG4y9uUaIxuP4vH"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "SOLTERA",
+        "url": "https://open.spotify.com/album/2U0L1nCCSV5HUfsCzaI1RQ"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        },
+        {
+          "name": "8onthebeat",
+          "url": "https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473"
+        }
+      ],
+      "duration_ms": 178312,
+      "name": "SOLTERA",
+      "url": "https://open.spotify.com/track/3tSCKN736ypIH1HrTwi7rL"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -379,6 +379,22 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/2cQZ4nIW2huzsxChtie6QV"
+      },
+      "artists": [
+        {
+          "name": "Delilah",
+          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
+        }
+      ],
+      "duration_ms": 193600,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/2ZpTwWC6cUtz5oHcGQexwp"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
         "name": "Noche Y Dia",
         "url": "https://open.spotify.com/album/7f8GZCsm9oouiSvTKrYtxs"
       },
@@ -399,22 +415,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Butterfly",
-        "url": "https://open.spotify.com/album/2cQZ4nIW2huzsxChtie6QV"
-      },
-      "artists": [
-        {
-          "name": "Delilah",
-          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
-        }
-      ],
-      "duration_ms": 193600,
-      "name": "Butterfly",
-      "url": "https://open.spotify.com/track/2ZpTwWC6cUtz5oHcGQexwp"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "\u00a1BANG BANG!",
         "url": "https://open.spotify.com/album/2ug2WZctSV73uTG44lJ3GM"
       },
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "No Me Importa",
-        "url": "https://open.spotify.com/album/4BsrrIsCrOVGmIzGYHTWEd"
-      },
-      "artists": [
-        {
-          "name": "Ralphy Dreamz",
-          "url": "https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm"
-        }
-      ],
-      "duration_ms": 186339,
-      "name": "\u00bfQui\u00e9n de Ustedes?",
-      "url": "https://open.spotify.com/track/0uZDAWitKcqqtq5nUcXn1w"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "No S\u00e9 Vivir",
         "url": "https://open.spotify.com/album/0GQRz6sHCovNmPzSTaVk4b"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 233013,
       "name": "No S\u00e9 Vivir",
       "url": "https://open.spotify.com/track/2rnFoegWzTSybWCaT1aozl"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "No Me Importa",
+        "url": "https://open.spotify.com/album/4BsrrIsCrOVGmIzGYHTWEd"
+      },
+      "artists": [
+        {
+          "name": "Ralphy Dreamz",
+          "url": "https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm"
+        }
+      ],
+      "duration_ms": 186339,
+      "name": "\u00bfQui\u00e9n de Ustedes?",
+      "url": "https://open.spotify.com/track/0uZDAWitKcqqtq5nUcXn1w"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Mexico",
-        "url": "https://open.spotify.com/album/7CgEURpwKsDNDDQ5NuFZgp"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bejar",
-          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
-        }
-      ],
-      "duration_ms": 220853,
-      "name": "Mexico",
-      "url": "https://open.spotify.com/track/4ix1Sthfg7xwrDwM0Zj53k"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "apareces de la nada",
         "url": "https://open.spotify.com/album/1jM7YfDHLDSWFPxAiheAYN"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 166042,
       "name": "apareces de la nada",
       "url": "https://open.spotify.com/track/1V8IBppKWZU6aNIzCgXLKa"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Mexico",
+        "url": "https://open.spotify.com/album/7CgEURpwKsDNDDQ5NuFZgp"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "duration_ms": 220853,
+      "name": "Mexico",
+      "url": "https://open.spotify.com/track/4ix1Sthfg7xwrDwM0Zj53k"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Amorcito Veranito",
-        "url": "https://open.spotify.com/album/7AzgJfovaFC6Hs9DJTagFX"
-      },
-      "artists": [
-        {
-          "name": "Nina del R\u00edo",
-          "url": "https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd"
-        }
-      ],
-      "duration_ms": 135789,
-      "name": "Amorcito Veranito",
-      "url": "https://open.spotify.com/track/6d6lk5dyI0bu7n5P794uZt"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "NEVERENDING ROADTRIP",
         "url": "https://open.spotify.com/album/6p3eBZviVFViSdA9smwHZc"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 153387,
       "name": "WASTED WEEKEND",
       "url": "https://open.spotify.com/track/22Pl1r4YyCoVe2BxgDDuUZ"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Amorcito Veranito",
+        "url": "https://open.spotify.com/album/7AzgJfovaFC6Hs9DJTagFX"
+      },
+      "artists": [
+        {
+          "name": "Nina del R\u00edo",
+          "url": "https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd"
+        }
+      ],
+      "duration_ms": 135789,
+      "name": "Amorcito Veranito",
+      "url": "https://open.spotify.com/track/6d6lk5dyI0bu7n5P794uZt"
     },
     {
       "added_at": "2024-09-13 04:00:00",

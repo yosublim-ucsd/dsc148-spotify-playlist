@@ -1,6 +1,6 @@
 {
   "description": "Listen to your favourite tunes for inspiration and upliftment.",
-  "num_followers": 52868,
+  "num_followers": 52891,
   "original_name": "Gospel Greatness",
   "owner": {
     "name": "Spotify",
@@ -825,6 +825,22 @@
       "url": "https://open.spotify.com/track/71za9Fyjl9BlyTB3mKvn3A"
     },
     {
+      "added_at": "2024-05-31 23:59:00",
+      "album": {
+        "name": "Up + Up",
+        "url": "https://open.spotify.com/album/6q5zDjRliJ0Soj8XDnZlVU"
+      },
+      "artists": [
+        {
+          "name": "Colton Dixon",
+          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
+        }
+      ],
+      "duration_ms": 163169,
+      "name": "Up + Up",
+      "url": "https://open.spotify.com/track/4pyIuEQo27lFOEMBJagRAv"
+    },
+    {
       "added_at": "2023-12-01 00:01:00",
       "album": {
         "name": "Spirit of Praise, Vol. 8 (Live)",
@@ -843,22 +859,6 @@
       "duration_ms": 475664,
       "name": "Thath'Indawo (Live)",
       "url": "https://open.spotify.com/track/7wcjeveluiW5djtxLCxNSx"
-    },
-    {
-      "added_at": "2024-05-31 23:59:00",
-      "album": {
-        "name": "Up + Up",
-        "url": "https://open.spotify.com/album/6q5zDjRliJ0Soj8XDnZlVU"
-      },
-      "artists": [
-        {
-          "name": "Colton Dixon",
-          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
-        }
-      ],
-      "duration_ms": 163169,
-      "name": "Up + Up",
-      "url": "https://open.spotify.com/track/4pyIuEQo27lFOEMBJagRAv"
     },
     {
       "added_at": "2024-05-31 23:59:00",

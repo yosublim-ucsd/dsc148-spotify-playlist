@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: GIMS
 
-2,802 songs - 6 day 5 hr 4 min
+2,803 songs - 6 day 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2496,6 +2496,7 @@
 | [Toi](https://open.spotify.com/track/1g2NGyu1fL7B5RipZgmFNY) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Toi](https://open.spotify.com/album/5JQodTDUxGraUtOXeYwIpV) | 3:11 | 2022-08-26 | 2022-09-10 |
 | [Toi & Moi](https://open.spotify.com/track/2oMSuuGg4HlLsWrDR1Bhtu) | [Gaëlle](https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Toi & Moi](https://open.spotify.com/album/1ZOY0RIkEEp9KPasfdQTvU) | 2:42 | 2024-05-24 | 2024-06-02 |
 | [Toi & moi](https://open.spotify.com/track/4C9bUSwqwVZ8eu2jsnctm6) | [Mok Saib](https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW), [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o) | [Toi & moi](https://open.spotify.com/album/4qAOLbreEqTtzFgcGePfZL) | 3:10 | 2022-03-18 | 2022-04-02 |
+| [TOKA](https://open.spotify.com/track/21YPieevMdQW57QSU9vHEl) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [TOKA](https://open.spotify.com/album/0HlEoKZA4pKYoae4zRWu7g) | 2:55 | 2024-09-13 |  |
 | [Told Ya](https://open.spotify.com/track/4dOZyyaAa0CoxerKPYFdoT) | [Joe Rocca](https://open.spotify.com/artist/02nyUoWQbKuMviHAb3PSmi), [Dead Obies](https://open.spotify.com/artist/6pcIfv5iZnVQgUNcKp8lGA) | [Hybride](https://open.spotify.com/album/4xRBp5enf96QOYsRVUcm3K) | 3:18 | 2024-05-24 | 2024-06-01 |
 | [tombeau](https://open.spotify.com/track/5dSPiSs9A6jOHluVuL5i9r) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [tombeau](https://open.spotify.com/album/657xhlrFfq3PAhaB7SDXUa) | 2:47 | 2022-06-10 | 2022-06-18 |
 | [Tombeau \- A COLORS SHOW](https://open.spotify.com/track/0jx14YrpPfyZJIZCRR9alV) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [Tombeau \(A COLORS SHOW\)](https://open.spotify.com/album/2WCBxuuuHZB2LE5zfXktRi) | 3:11 | 2022-06-03 | 2022-06-11 |
@@ -2730,7 +2731,7 @@
 | [Wooh](https://open.spotify.com/track/2jxCBpeOC7oQCn6rpYMFiW) | [Salimo](https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur) | [Wooh](https://open.spotify.com/album/3X0opvSQguDu3GTrLJIAJ5) | 2:31 | 2022-05-27 | 2022-06-11 |
 | [WOOPA \- Wheelie Remix](https://open.spotify.com/track/53FevgA3Qr9pSwFnN4uOT3) | [PL & Wheelie](https://open.spotify.com/artist/52czYuGgddMVmRsEenbJLv) | [WOOPA \(Wheelie Remix\)](https://open.spotify.com/album/5aNUPjd2J1CeruYVGlw3Uh) | 2:35 | 2021-12-31 | 2022-01-22 |
 | [X Freestyle](https://open.spotify.com/track/5TP6atkguwiAwp1KDGKEbc) | [Jay Jay](https://open.spotify.com/artist/42IVM8biRfwghSfukPMimt) | [X Freestyle](https://open.spotify.com/album/3Z2FAJleolchMDQAKMS8Bb) | 2:00 | 2024-06-07 | 2024-06-15 |
-| [X\-ADV](https://open.spotify.com/track/3JuUBmJeZKZm9j1qIVHqxL) | [Zkr](https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4) | [X\-ADV](https://open.spotify.com/album/681VCnep9IPSH0fi7bqEdn) | 2:51 | 2024-08-30 |  |
+| [X\-ADV](https://open.spotify.com/track/3JuUBmJeZKZm9j1qIVHqxL) | [Zkr](https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4) | [X\-ADV](https://open.spotify.com/album/681VCnep9IPSH0fi7bqEdn) | 2:51 | 2024-08-30 | 2024-09-15 |
 | [Xela](https://open.spotify.com/track/3TEZwf2lJWIeEwBog3TXDf) | [Clea Vincent](https://open.spotify.com/artist/6eforqOxk5mRrgprF7XtYu) | [Xela](https://open.spotify.com/album/7Gpwzyny4QUiqCs68MhnVe) | 3:46 | 2022-03-18 | 2022-04-02 |
 | [XOXO](https://open.spotify.com/track/2S9p5lu7tZvYMob6q7mmBe) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [XOXO](https://open.spotify.com/album/1HXZARN2w0GDcZ4QHwNo9N) | 3:03 | 2023-11-17 | 2024-02-10 |
 | [Y Dor](https://open.spotify.com/track/4m4MwgqsswdG67P8SsQEii) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Unleaded](https://open.spotify.com/artist/3zWMcT8MOIAnQMbGFmMFun), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Y Dor](https://open.spotify.com/album/5qfEAZy6hAgoH7uexHM8vR) | 2:25 | 2023-07-28 | 2023-09-30 |

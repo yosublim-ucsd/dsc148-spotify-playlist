@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-1,461 songs - 3 day 8 hr 40 min
+1,463 songs - 3 day 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -357,6 +357,7 @@
 | [Death Wish Love \(From Twisters: The Album\)](https://open.spotify.com/track/5CYblb1W46TNSWMR7BBwS2) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Death Wish Love \(From Twisters: The Album\)](https://open.spotify.com/album/30yglxGzvUeX7i6XCcV8JC) | 3:43 | 2024-07-19 | 2024-07-27 |
 | [Decline & Fall](https://open.spotify.com/track/0dyUZevogwwjombYMR34pc) | [Manic Street Preachers](https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX) | [Decline & Fall](https://open.spotify.com/album/6xdJWbVw8VGYBmDnvplt5x) | 3:42 | 2024-08-30 | 2024-09-07 |
 | [Deep Dark Waters](https://open.spotify.com/track/0a71jS4ClJmI0ENTs3YB0j) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Deep Dark Waters](https://open.spotify.com/album/6x1Uu1bl7VTxmrFWBIk9xU) | 4:49 | 2024-08-30 | 2024-09-07 |
+| [Deep Diving](https://open.spotify.com/track/7N1KL0zEyOsx2bnpbilMJQ) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [We Could Be Love](https://open.spotify.com/album/7MXx2NOHN8IsVPY9x57QXU) | 2:14 | 2024-09-14 |  |
 | [Del Oro](https://open.spotify.com/track/5YgEN0XaRJo5EEiWuXDTqv) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Del Oro](https://open.spotify.com/album/5EmgZrhnGC2kXDJrN3Lnx0) | 6:14 | 2024-06-06 | 2024-06-15 |
 | [Del Revés x Alizzz](https://open.spotify.com/track/5oShYSeT7V43Oai54SrqGE) | [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai), [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3) | [Del Revés x Alizzz](https://open.spotify.com/album/5KB54KsYHoNQD7aMMLBu0a) | 2:47 | 2024-06-21 | 2024-06-29 |
 | [Delirio](https://open.spotify.com/track/2yieEZhp3n3xTNiqthVaui) | [AMORE](https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S) | [Delirio](https://open.spotify.com/album/5lK4VPMoMSmF10tiBcY9Lp) | 2:05 | 2024-07-05 | 2024-07-13 |
@@ -499,6 +500,7 @@
 | [Forbidden Fruit](https://open.spotify.com/track/0JNcgsLk3Zdxgu75aGppmH) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [Forbidden Fruit](https://open.spotify.com/album/1259gMBnBGDuCkAlLcJEyj) | 2:22 | 2024-05-03 | 2024-05-18 |
 | [Forever](https://open.spotify.com/track/2MZjkieXlnbynYBBM6y0Uj) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Forever](https://open.spotify.com/album/6ExhrcMMCBhL4wSIpLffA7) | 3:23 | 2024-05-10 | 2024-05-18 |
 | [Forever](https://open.spotify.com/track/3dmGvZg0jo5uZb3mHQw0gL) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [Forever](https://open.spotify.com/album/2b1e9L6f4wMPmSeTJLwaZ6) | 2:34 | 2024-06-21 | 2024-06-29 |
+| [forgive her](https://open.spotify.com/track/1PPysXrThD0s1aSuvAMD2Z) | [ionnalee](https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv) | [CLOSE YOUR EYES](https://open.spotify.com/album/4MQ34nIUwZqZyZ6qqD0Yvy) | 5:12 | 2024-09-14 |  |
 | [FORÇA](https://open.spotify.com/track/3qEV8xqxiGeQUNNM1wA4S7) | [Bikôkô](https://open.spotify.com/artist/5KV0DvKYHe4WwjaJghyIzV), [Irenegarry](https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB), [AMORE](https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S) | [FORÇA](https://open.spotify.com/album/2fsqUeGDraiYTG8TPgIJqe) | 3:14 | 2024-09-06 | 2024-09-14 |
 | [fotomatón](https://open.spotify.com/track/1qP9Rf8ZNIjrFGzrG536Xa) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [fotomatón](https://open.spotify.com/album/0gfREg7H8EjjVIhkfuYDlI) | 2:29 | 2024-07-19 | 2024-07-27 |
 | [Free \(with Ellie Goulding\)](https://open.spotify.com/track/3NxB1jubUWY6zit9rOk8ZC) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Free \(with Ellie Goulding\)](https://open.spotify.com/album/6guctDCaYE7AhYqtX6RxNE) | 3:32 | 2024-07-26 | 2024-08-10 |

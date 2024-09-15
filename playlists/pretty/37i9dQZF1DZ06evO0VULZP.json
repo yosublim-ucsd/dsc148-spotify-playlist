@@ -1,12 +1,12 @@
 {
-  "description": "This is Descendents. The essential tracks, all in one playlist.",
-  "num_followers": 19090,
+  "description": "This Is Descendents. Los temas esenciales, todos en una lista.",
+  "num_followers": 19096,
   "original_name": "This Is Descendents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuIvAAAAAADLty2sOQQQaBvGj+uyzmxU",
+  "snapshot_id": "ZuOAgAAAAACIDw5FWSNipLYWhgXtRPi1",
   "tracks": [
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
         }
       ],
-      "duration_ms": 144840,
-      "name": "Cool to Be You",
-      "url": "https://open.spotify.com/track/1eopOIsxS1lrGkEvGwFe1P"
+      "duration_ms": 149333,
+      "name": "Nothing with You",
+      "url": "https://open.spotify.com/track/55CdJt5NnG07dKs3wrdduv"
     },
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
         }
       ],
-      "duration_ms": 149333,
-      "name": "Nothing with You",
-      "url": "https://open.spotify.com/track/55CdJt5NnG07dKs3wrdduv"
+      "duration_ms": 144840,
+      "name": "Cool to Be You",
+      "url": "https://open.spotify.com/track/1eopOIsxS1lrGkEvGwFe1P"
     },
     {
       "added_at": null,

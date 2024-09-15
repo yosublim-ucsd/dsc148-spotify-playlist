@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres a todo volumen\. <br/>Foto: Mariana Bfly.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,675 likes - 30 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,672 likes - 30 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 17 | [4Life](https://open.spotify.com/track/1cn4eGvDoykUESAwHrzkGP) | [Anto Segovia](https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF), [Benja Valencia](https://open.spotify.com/artist/2N4rDzKt2aZK1ksES0YKBP), [Swift 047](https://open.spotify.com/artist/2dsPXjJl58yqBAtUQmnFOb) | [4Life](https://open.spotify.com/album/7pXOJzZqBYx3mQ1rp9Kxeo) | 3:08 |
 | 18 | [ICONIC PERRA](https://open.spotify.com/track/4udJEnv5tkrOBPfax7FzVs) | [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Viangogh](https://open.spotify.com/artist/1Y0wxtA4ZbblGP75RLsFnJ) | [ICONIC PERRA](https://open.spotify.com/album/71fdXu0gwv3mFrhrxkrsoU) | 2:04 |
 | 19 | [FAMOSA](https://open.spotify.com/track/0QoI6vEuyqnbSUWbnPsCAj) | [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP), [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [LA CLASSE](https://open.spotify.com/album/12VOMWjtxbf0pzORWPHutT) | 3:20 |
-| 20 | [Bossma nova](https://open.spotify.com/track/12kx5tD6IZyi6bOlhimtGD) | [Anto Bosman](https://open.spotify.com/artist/2K9VXOc9XDfKie7ASSCMIa) | [Bossma nova](https://open.spotify.com/album/1lb1Lht5l8BsC8BQLKsSnQ) | 2:49 |
-| 21 | [Queena](https://open.spotify.com/track/4Bnt9mnkdZ3hWDepcsx0Vp) | [Rou C](https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9), [Sarazul](https://open.spotify.com/artist/3IUEajBsE3ojR2AY0uYMK0) | [Queena](https://open.spotify.com/album/0UqlBeCldXRxxU9xMBB8KV) | 4:05 |
+| 20 | [Queena](https://open.spotify.com/track/4Bnt9mnkdZ3hWDepcsx0Vp) | [Rou C](https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9), [Sarazul](https://open.spotify.com/artist/3IUEajBsE3ojR2AY0uYMK0) | [Queena](https://open.spotify.com/album/0UqlBeCldXRxxU9xMBB8KV) | 4:05 |
+| 21 | [Bossma nova](https://open.spotify.com/track/12kx5tD6IZyi6bOlhimtGD) | [Anto Bosman](https://open.spotify.com/artist/2K9VXOc9XDfKie7ASSCMIa) | [Bossma nova](https://open.spotify.com/album/1lb1Lht5l8BsC8BQLKsSnQ) | 2:49 |
 | 22 | [BBY HÁBLAME](https://open.spotify.com/track/01KOUWYDGpdKCPrHaChpKj) | [Mariana Bfly](https://open.spotify.com/artist/1MNb8KUeOjT6rWWPBQlUdw), [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [BBY HÁBLAME](https://open.spotify.com/album/0X0OLyVKtPK9ueYrQTOkgX) | 3:30 |
 | 23 | [Centenas De Miles De Años](https://open.spotify.com/track/6o6CC4MPOoU9WXN1zEoX4A) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Supernova](https://open.spotify.com/album/4CRoaYnahZXOI7zsM14Ca1) | 3:12 |
 | 24 | [La Favorita de Dios](https://open.spotify.com/track/7zukEo2aDcfeLnmQl6uR65) | [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Ovyze](https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4) | [La Favorita de Dios](https://open.spotify.com/album/5RwtDe8GVHaeauAJ4R6BgI) | 2:14 |

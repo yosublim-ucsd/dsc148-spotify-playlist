@@ -424,7 +424,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 215428,
       "name": "Bestie",
       "url": "https://open.spotify.com/track/4tyZPsmQnmb3A7R1EJpYD3"
@@ -5020,6 +5020,24 @@
       "duration_ms": 250366,
       "name": "VOX",
       "url": "https://open.spotify.com/track/7tonWzUNa7qiuBfTloPu3N"
+    },
+    {
+      "album": {
+        "name": "WALK AWAY",
+        "url": "https://open.spotify.com/album/6KZOK0XKVMtVuGPj04tavE"
+      },
+      "artists": [
+        {
+          "name": "SHADOWS",
+          "url": "https://open.spotify.com/artist/0VyVlaKyEJ2NFJnxxYgyt3"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184668,
+      "name": "WALK AWAY",
+      "url": "https://open.spotify.com/track/5JGjqh1lkcxrrGbJapVtOq"
     },
     {
       "album": {

@@ -1018,7 +1018,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 149308,
       "name": "dear a.i",
       "url": "https://open.spotify.com/track/3jghe6qOB5kiwtXlrTuYFe"
@@ -2688,6 +2688,24 @@
       "duration_ms": 181867,
       "name": "LUCID DREAM",
       "url": "https://open.spotify.com/track/4G7lfJ2BwHgwhPFuyF1Ix0"
+    },
+    {
+      "album": {
+        "name": "ME TIME",
+        "url": "https://open.spotify.com/album/35yOKT2x4cwAPm0CQ8DF6s"
+      },
+      "artists": [
+        {
+          "name": "MIRANI",
+          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137973,
+      "name": "LVSNG",
+      "url": "https://open.spotify.com/track/3emY4tmPQU44ppnLiTcTL4"
     },
     {
       "album": {

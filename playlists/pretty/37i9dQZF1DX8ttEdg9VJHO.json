@@ -1,6 +1,6 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 353949,
+  "num_followers": 353948,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
@@ -147,6 +147,22 @@
     {
       "added_at": "2024-08-20 11:49:14",
       "album": {
+        "name": "Narrated For You",
+        "url": "https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "duration_ms": 181522,
+      "name": "If We Have Each Other",
+      "url": "https://open.spotify.com/track/7pT6WSg4PCt4mr5ZFyUfsF"
+    },
+    {
+      "added_at": "2024-08-20 11:49:14",
+      "album": {
         "name": "My Universe",
         "url": "https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 228000,
       "name": "My Universe",
       "url": "https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM"
-    },
-    {
-      "added_at": "2024-08-20 11:49:14",
-      "album": {
-        "name": "Narrated For You",
-        "url": "https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ"
-      },
-      "artists": [
-        {
-          "name": "Alec Benjamin",
-          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
-        }
-      ],
-      "duration_ms": 181522,
-      "name": "If We Have Each Other",
-      "url": "https://open.spotify.com/track/7pT6WSg4PCt4mr5ZFyUfsF"
     },
     {
       "added_at": "2024-08-20 11:49:14",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-08-20 11:49:14",
       "album": {
-        "name": "Wer wenn nicht wir",
-        "url": "https://open.spotify.com/album/1E5bSnYcfhaNVbRTfUpRRI"
-      },
-      "artists": [
-        {
-          "name": "Wincent Weiss",
-          "url": "https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp"
-        }
-      ],
-      "duration_ms": 163500,
-      "name": "Wer wenn nicht wir",
-      "url": "https://open.spotify.com/track/5jYDCxuSx1mfApeWA4SlqX"
-    },
-    {
-      "added_at": "2024-08-20 11:49:14",
-      "album": {
         "name": "Bad For Me (feat. Teddy Swims)",
         "url": "https://open.spotify.com/album/3cz4txvWNPFpw3xiPYVceu"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 213283,
       "name": "Bad For Me (feat. Teddy Swims)",
       "url": "https://open.spotify.com/track/7fHeyjwJRzbIlGm4DAvLJ1"
+    },
+    {
+      "added_at": "2024-08-20 11:49:14",
+      "album": {
+        "name": "Wer wenn nicht wir",
+        "url": "https://open.spotify.com/album/1E5bSnYcfhaNVbRTfUpRRI"
+      },
+      "artists": [
+        {
+          "name": "Wincent Weiss",
+          "url": "https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp"
+        }
+      ],
+      "duration_ms": 163500,
+      "name": "Wer wenn nicht wir",
+      "url": "https://open.spotify.com/track/5jYDCxuSx1mfApeWA4SlqX"
     },
     {
       "added_at": "2024-08-20 11:49:14",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-08-20 11:49:14",
       "album": {
-        "name": "Can't Love You Anymore",
-        "url": "https://open.spotify.com/album/3DVya82M7z5xxO2YE6Bo6u"
-      },
-      "artists": [
-        {
-          "name": "Henry And The Waiter",
-          "url": "https://open.spotify.com/artist/1m4KDTCtGzbN9Q09g7uXwn"
-        }
-      ],
-      "duration_ms": 163746,
-      "name": "Can't Love You Anymore",
-      "url": "https://open.spotify.com/track/20goeBroQW82WBze4rfsbK"
-    },
-    {
-      "added_at": "2024-08-20 11:49:14",
-      "album": {
         "name": "Pixie's Parasol",
         "url": "https://open.spotify.com/album/6esgSdtyo3SIs0AGlaxSuA"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 226946,
       "name": "Nangilima",
       "url": "https://open.spotify.com/track/75eWcdirphZClDeEinSvnp"
+    },
+    {
+      "added_at": "2024-08-20 11:49:14",
+      "album": {
+        "name": "Can't Love You Anymore",
+        "url": "https://open.spotify.com/album/3DVya82M7z5xxO2YE6Bo6u"
+      },
+      "artists": [
+        {
+          "name": "Henry And The Waiter",
+          "url": "https://open.spotify.com/artist/1m4KDTCtGzbN9Q09g7uXwn"
+        }
+      ],
+      "duration_ms": 163746,
+      "name": "Can't Love You Anymore",
+      "url": "https://open.spotify.com/track/20goeBroQW82WBze4rfsbK"
     },
     {
       "added_at": "2024-08-20 11:49:14",

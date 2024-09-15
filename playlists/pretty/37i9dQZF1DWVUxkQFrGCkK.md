@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > crue!
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,841 likes - 304 songs - 21 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,970 likes - 304 songs - 21 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 51 | [Pinie \- Sébastien Léger Remix](https://open.spotify.com/track/08BG88FftRUu4t29IvEmZz) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr), [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp), [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [Pinie \(Sébastien Léger Remix\)](https://open.spotify.com/album/4KQuhVuOk28wIXNneNKpWv) | 8:24 |
 | 52 | [Deep Scene \- Axel Boman Remix](https://open.spotify.com/track/7t2NkRNUYwejiDd1nOBnEV) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y), [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O) | [Deep Scene \- Axel Boman Remix](https://open.spotify.com/album/64804QOVNU0ujDLYjA0d5G) | 5:20 |
 | 53 | [Makes Me Wonder](https://open.spotify.com/track/6NdyfsjH0wFovyEqqAP0PP) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [Makes Me Wonder](https://open.spotify.com/album/0HSwb0U6BDrcB1jLUt6e5N) | 4:25 |
-| 54 | [No Coke No Dope](https://open.spotify.com/track/4jo9I6p3h4tgt0RXfiSJ7h) | [Salvatore Ganacci](https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F), [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr) | [Sometimes I Cry When I’m Alone](https://open.spotify.com/album/4CvzzqUk8i746E0ZVwvhuI) | 4:06 |
+| 54 | [No Coke No Dope](https://open.spotify.com/track/4jo9I6p3h4tgt0RXfiSJ7h) | [Salvatore Ganacci](https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F) | [Sometimes I Cry When I’m Alone](https://open.spotify.com/album/4CvzzqUk8i746E0ZVwvhuI) | 4:06 |
 | 55 | [Midnight Train](https://open.spotify.com/track/5Pjzz6xQTDpKzj68jK9E4M) | [Ferra Black](https://open.spotify.com/artist/2M9yha8tr0kCqQj2QqVBxD), [Warren Blake](https://open.spotify.com/artist/0sihR5VNpciUKK9vA2ydm1) | [Midnight Train](https://open.spotify.com/album/5dEmfqNAtmbDmH1op87pEM) | 3:34 |
 | 56 | [in heaven](https://open.spotify.com/track/3eDuwudjmOqc15ca9xKXt6) | [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm), [Miette Hope](https://open.spotify.com/artist/4K61UysqQc1VRj8VsY76Qw) | [in heaven](https://open.spotify.com/album/1H2sEfR1sXPiAv3t7T0HsB) | 2:32 |
 | 57 | [W Y H A](https://open.spotify.com/track/2cCK5YYzakAFVTnYSZhYmQ) | [Ferra Black](https://open.spotify.com/artist/2M9yha8tr0kCqQj2QqVBxD) | [W Y H A](https://open.spotify.com/album/0s5icgE1FdbFG4uD31DlrC) | 7:21 |

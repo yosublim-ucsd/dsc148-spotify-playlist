@@ -4,7 +4,7 @@
 
 > ¡Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la Música Mexicana\. Cover: Adriana Rios
 
-413 songs - 22 hr 35 min
+414 songs - 22 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Contigo](https://open.spotify.com/track/6RO01uGuxwCoJnGwrZqbRN) | [Grace Guillén](https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD) | [Contigo](https://open.spotify.com/album/6BlVAhCDf00WIGzOJhYqOw) | 3:53 | 2024-03-08 | 2024-04-21 |
 | [Contigo](https://open.spotify.com/track/37mNBPZC4ZzdzXmmrwjOoW) | [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Contigo](https://open.spotify.com/album/0QpwYU44Nddpi2WDn9RQAJ) | 3:33 | 2023-01-20 | 2023-12-26 |
 | [Contra Ellos](https://open.spotify.com/track/021GY6uKAgviWf74waKXTy) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [Contra Ellos](https://open.spotify.com/album/3gOdzGNYZyf6ikKV3xRPxC) | 2:38 | 2024-03-08 | 2024-04-27 |
+| [Corazón Tatuado](https://open.spotify.com/track/0GuqlRQXjabf174DAMRfSl) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [Corazón Tatuado](https://open.spotify.com/album/7A7LZAFX4c93RMMWtzsSMW) | 3:19 | 2024-09-13 |  |
 | [Costumbres](https://open.spotify.com/track/0cq2uMcwOL9D32c0tQ1nx7) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Eternamente](https://open.spotify.com/album/6IrNW2gyL94udX2FNBR2WZ) | 4:32 | 2022-01-07 | 2022-07-29 |
 | [Cualquiera](https://open.spotify.com/track/3Clezs23O7JLO2DCyS10xz) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Cualquiera](https://open.spotify.com/album/16vHdBZVkR1NwZYuehXK5i) | 3:21 | 2022-01-07 | 2022-04-19 |
 | [Cuando Caiga la Noche](https://open.spotify.com/track/15mqnAeCOQXcMB3u48RIin) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuando Caiga la Noche](https://open.spotify.com/album/366Q6rUOSrYDXjrDiuL1lU) | 3:21 | 2022-04-01 | 2023-03-04 |
@@ -198,7 +199,7 @@
 | [Luna](https://open.spotify.com/track/0sQ363WVeWIrUopUnj0jTA) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Luna](https://open.spotify.com/album/70fbl3TF1Eht9jXFBK8Mjt) | 4:31 | 2022-01-07 | 2023-03-04 |
 | [Luna Azul](https://open.spotify.com/track/6M7Ga3llZjDwKbb1b6oRFZ) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Luna Azul](https://open.spotify.com/album/7xO1HkxoLRT2iv8tdq84sP) | 3:08 | 2024-02-23 |  |
 | [Mala Racha](https://open.spotify.com/track/3Skq5ppANsqiSN6H6JAp3C) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Mala Racha](https://open.spotify.com/album/5c2EQotM6xXKB6A7dSEFzv) | 2:46 | 2022-01-07 | 2022-07-26 |
-| [Malandrona](https://open.spotify.com/track/29OKkDB5pIV90ZMFED3yf6) | [Karina Sofia](https://open.spotify.com/artist/3WXv6pmtZ28uU298xhTgUH) | [Malandrona](https://open.spotify.com/album/6UGzuaZvX0FnOgaLtpGIMP) | 3:27 | 2024-08-30 |  |
+| [Malandrona](https://open.spotify.com/track/29OKkDB5pIV90ZMFED3yf6) | [Karina Sofia](https://open.spotify.com/artist/3WXv6pmtZ28uU298xhTgUH) | [Malandrona](https://open.spotify.com/album/6UGzuaZvX0FnOgaLtpGIMP) | 3:27 | 2024-08-30 | 2024-09-15 |
 | [Mariposa de Barrio](https://open.spotify.com/track/2m8ez9sZLjatGvQcaCuQyD) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Mariposa de Barrio \(Soundtrack De La Serie\)](https://open.spotify.com/album/2By1k4sOenlZ78NYJJ0s2o) | 4:30 | 2022-04-01 | 2022-04-20 |
 | [Me Mordiste el Corazón](https://open.spotify.com/track/0qV22JDTay1HZpfhekYCsJ) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [Me Mordiste el Corazón](https://open.spotify.com/album/6a9Q1jZ9vebKNuZ7EiSQ52) | 3:26 | 2022-05-20 | 2022-08-04 |
 | [ME PRENDO UN GALLO](https://open.spotify.com/track/7re8yr31VL3aGEIgfCIGVn) | [DiDi R](https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM) | [ME PRENDO UN GALLO](https://open.spotify.com/album/6nOz8DD7iIlAeMjXHXsLbX) | 3:14 | 2024-08-30 |  |

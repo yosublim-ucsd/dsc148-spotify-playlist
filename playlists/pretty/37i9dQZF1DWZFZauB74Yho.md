@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 
 > Hear the latest releases from bluegrass and string bands alike\. Cover: The Po' Ramblin' Boys
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,494 likes - 147 songs - 8 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,524 likes - 147 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Someone Like You \(with The Travelin' McCourys feat\. Sierra Ferrell\)](https://open.spotify.com/track/0FzCkQZyXg3RAVe8hF3TbA) | [Lukas Nelson](https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9), [The Travelin' McCourys](https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Someone Like You \(with The Travelin' McCourys feat\. Sierra Ferrell\)](https://open.spotify.com/album/6sAcLktZfPlaSfI6asWalH) | 5:01 |
+| 1 | [Someone Like You \(with The Travelin' McCourys & Sierra Ferrell\)](https://open.spotify.com/track/0FzCkQZyXg3RAVe8hF3TbA) | [Lukas Nelson](https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9), [The Travelin' McCourys](https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Someone Like You \(with The Travelin' McCourys & Sierra Ferrell\)](https://open.spotify.com/album/6sAcLktZfPlaSfI6asWalH) | 5:01 |
 | 2 | [Too Stoned To Cry \[Feat\. Billy Strings\]](https://open.spotify.com/track/1PcMQHHrQCNgGwEXB4QIQj) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Too Stoned To Cry \[Feat\. Billy Strings\]](https://open.spotify.com/album/0ZRuxP2CWBV3FPAcejLg3b) | 3:40 |
 | 3 | [Human](https://open.spotify.com/track/2cjF04SUgaLuRxJZ6IDEop) | [Kid Reverie](https://open.spotify.com/artist/3tVmhIQs33VcCxWIQrmvea) | [The Banjo Record](https://open.spotify.com/album/0VNakD7jVTYOx15czi8JJ6) | 3:44 |
 | 4 | [Hummingbird \(feat\. Allison de Groot & Tatiana Hargreaves\)](https://open.spotify.com/track/7rGxSnSvzHLtsyM7wfqTYV) | [Yasmin Williams](https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs), [Allison De Groot](https://open.spotify.com/artist/0LVLU0MXmJ1GfWczl4i2MY), [Tatiana Hargreaves](https://open.spotify.com/artist/63Xd2NZV9SzwjChcdH5QsK) | [Hummingbird \(feat\. Allison de Groot & Tatiana Hargreaves\)](https://open.spotify.com/album/5RQXF0BYzEgrxtXmbSuhP5) | 5:51 |

@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Joshua Rogers, Tasha Page\-Lockhart, Donald Lawrence & Company and more
+> With LaShun Pace, Kirk Franklin & The Family, Terrell Grice and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 224 likes - 50 songs - 4 hr 2 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 | 49 | [Oh Lord How Excellent Is Thy Name](https://open.spotify.com/track/3A5H5S7z4keCQCT2WrXYAI) | [The Blue Gospel Singers](https://open.spotify.com/artist/64G3hsfewn9BJMXJkEwr0P), [Mario Paduano](https://open.spotify.com/artist/6Ego0TLyQOW1zZraZUTfZw) | [The Blue Gospel Singers: A Decade of Us](https://open.spotify.com/album/5KwpwOQrbtXW0CQ0YoWXJ3) | 4:38 |
 | 50 | [The Presence of the Lord Is Here](https://open.spotify.com/track/0j7NzeiNUJfpqTdE2P3lcX) | [Byron Cage](https://open.spotify.com/artist/1bxsoj9E6Z2GoHVIswbRez) | [Setlist: The Very Best Of Byron Cage LIVE](https://open.spotify.com/album/3ddsXrWYN4VGDyauxvzDBf) | 6:35 |
 
-Snapshot ID: `ZuT6AwAAAABWh5oP+qmgPntKyc4t0wma`
+Snapshot ID: `ZuY0zwAAAACGSJFebT9zr38kQtmCwMYe`

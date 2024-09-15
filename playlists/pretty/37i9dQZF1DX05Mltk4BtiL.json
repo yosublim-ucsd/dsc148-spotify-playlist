@@ -1,6 +1,6 @@
 {
   "description": "Nur tote Fische schwimmen mit dem Strom. Cover: Yu",
-  "num_followers": 113700,
+  "num_followers": 113719,
   "original_name": "Gegen den Strom",
   "owner": {
     "name": "Spotify",
@@ -495,6 +495,22 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
+        "name": "Leere Flaschen",
+        "url": "https://open.spotify.com/album/1O60XqPGhSgEJ1LPDLlwgK"
+      },
+      "artists": [
+        {
+          "name": "Anda Morts",
+          "url": "https://open.spotify.com/artist/4I2FyJP0zs6IPgasQVwG7r"
+        }
+      ],
+      "duration_ms": 173090,
+      "name": "Leere Flaschen",
+      "url": "https://open.spotify.com/track/7vxZqMRKJAIGCJPVkZAIor"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
         "name": "Auszeit",
         "url": "https://open.spotify.com/album/0jjRLSkPAyPAqLEkhtfJj1"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 188160,
       "name": "bin noch wach...wo bist du?",
       "url": "https://open.spotify.com/track/4PlrK6tuwiJS4GZG3faqAk"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
-        "name": "Leere Flaschen",
-        "url": "https://open.spotify.com/album/1O60XqPGhSgEJ1LPDLlwgK"
-      },
-      "artists": [
-        {
-          "name": "Anda Morts",
-          "url": "https://open.spotify.com/artist/4I2FyJP0zs6IPgasQVwG7r"
-        }
-      ],
-      "duration_ms": 173090,
-      "name": "Leere Flaschen",
-      "url": "https://open.spotify.com/track/7vxZqMRKJAIGCJPVkZAIor"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -831,18 +831,18 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Das Fest",
-        "url": "https://open.spotify.com/album/6wsAw2KnjH439LE0oLd0YI"
+        "name": "K\u00f6nig Der Welt",
+        "url": "https://open.spotify.com/album/6iP34lE8L8EDx6JGgHPMB6"
       },
       "artists": [
         {
-          "name": "Oehl",
-          "url": "https://open.spotify.com/artist/0LLCimRswRk6Ks5oBJ4Abp"
+          "name": "Traumatin",
+          "url": "https://open.spotify.com/artist/7a3E1IT2qaGIq6M4cW2NtV"
         }
       ],
-      "duration_ms": 164562,
-      "name": "Das Fest",
-      "url": "https://open.spotify.com/track/15ttYbkCS4LGeBYEBKpdJe"
+      "duration_ms": 208825,
+      "name": "K\u00f6nig Der Welt",
+      "url": "https://open.spotify.com/track/2vwZiGY4uxvSpJoCeYVjnw"
     }
   ],
   "unique_name": "Gegen den Strom",

@@ -1,12 +1,12 @@
 {
   "description": "This is Rodr\u00edguez. The essential tracks, all in one playlist.",
-  "num_followers": 38999,
+  "num_followers": 39000,
   "original_name": "This Is Rodr\u00edguez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuIvAAAAAAAWJJ+/yaiiJq3Xf9e/NSiE",
+  "snapshot_id": "ZuOAgAAAAACR62+NLEygvGAP43E0iKN/",
   "tracks": [
     {
       "added_at": null,
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
         }
       ],
-      "duration_ms": 110373,
-      "name": "Forget It",
-      "url": "https://open.spotify.com/track/3hgVJGSwCFY8M84FavQwdD"
+      "duration_ms": 185586,
+      "name": "Rich Folks Hoax",
+      "url": "https://open.spotify.com/track/3S36aqn9EqvHkRCAa86oiF"
     },
     {
       "added_at": null,
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
         }
       ],
-      "duration_ms": 185586,
-      "name": "Rich Folks Hoax",
-      "url": "https://open.spotify.com/track/3S36aqn9EqvHkRCAa86oiF"
+      "duration_ms": 110373,
+      "name": "Forget It",
+      "url": "https://open.spotify.com/track/3hgVJGSwCFY8M84FavQwdD"
     },
     {
       "added_at": null,

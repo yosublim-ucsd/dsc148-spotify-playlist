@@ -1560,6 +1560,28 @@
     {
       "album": {
         "name": "Believe Me Now?",
+        "url": "https://open.spotify.com/album/70szmVYkj3Y8y1wh3bxkMR"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Self Esteem",
+          "url": "https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231684,
+      "name": "True Colours (feat. Self Esteem)",
+      "url": "https://open.spotify.com/track/0djt8pab0Si1xC7B2ddfF4"
+    },
+    {
+      "album": {
+        "name": "Believe Me Now?",
         "url": "https://open.spotify.com/album/6YpuiWNRGcMEumvRbEuOvP"
       },
       "artists": [
@@ -1574,7 +1596,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 231684,
       "name": "True Colours (feat. Self Esteem)",
       "url": "https://open.spotify.com/track/6RtoIjw4BISeXqbju6b64E"

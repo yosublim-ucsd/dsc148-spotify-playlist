@@ -1,6 +1,6 @@
 {
   "description": "Um bom sambinha para acompanhar cada gole.",
-  "num_followers": 231990,
+  "num_followers": 231995,
   "original_name": "Caipirinha",
   "owner": {
     "name": "Spotify",
@@ -895,6 +895,26 @@
     {
       "added_at": "2024-08-16 03:01:00",
       "album": {
+        "name": "+ 100",
+        "url": "https://open.spotify.com/album/0qcVF3tbambXrwHNDcdDKf"
+      },
+      "artists": [
+        {
+          "name": "Casuarina",
+          "url": "https://open.spotify.com/artist/0Z7qVrRll0xvdJ68DX0O0b"
+        },
+        {
+          "name": "Leci Brandao",
+          "url": "https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u"
+        }
+      ],
+      "duration_ms": 151900,
+      "name": "Heran\u00e7a de Partideiro",
+      "url": "https://open.spotify.com/track/6GFELqU2Mq8vpIZEpslS8F"
+    },
+    {
+      "added_at": "2024-08-16 03:01:00",
+      "album": {
         "name": "Na Veia",
         "url": "https://open.spotify.com/album/6YkPuUcUIQVdivq1u8blQH"
       },
@@ -927,26 +947,6 @@
       "duration_ms": 243413,
       "name": "Nosso Bem Maior",
       "url": "https://open.spotify.com/track/5hH6oJVLl2NzGbASEkT6cD"
-    },
-    {
-      "added_at": "2024-08-16 03:01:00",
-      "album": {
-        "name": "+ 100",
-        "url": "https://open.spotify.com/album/0qcVF3tbambXrwHNDcdDKf"
-      },
-      "artists": [
-        {
-          "name": "Casuarina",
-          "url": "https://open.spotify.com/artist/0Z7qVrRll0xvdJ68DX0O0b"
-        },
-        {
-          "name": "Leci Brandao",
-          "url": "https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u"
-        }
-      ],
-      "duration_ms": 151900,
-      "name": "Heran\u00e7a de Partideiro",
-      "url": "https://open.spotify.com/track/6GFELqU2Mq8vpIZEpslS8F"
     },
     {
       "added_at": "2024-08-16 03:01:00",

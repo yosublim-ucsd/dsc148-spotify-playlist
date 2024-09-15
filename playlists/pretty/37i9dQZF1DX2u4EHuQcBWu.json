@@ -1,6 +1,6 @@
 {
   "description": "Himnos de Resistencia: Somos un pueblo fuerte que no se calla.",
-  "num_followers": 197809,
+  "num_followers": 197870,
   "original_name": "Himnos de Resistencia Latinoamericana",
   "owner": {
     "name": "Spotify",
@@ -63,22 +63,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Al Final de Este Viaje...",
-        "url": "https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd"
-      },
-      "artists": [
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        }
-      ],
-      "duration_ms": 212481,
-      "name": "Ojal\u00e1",
-      "url": "https://open.spotify.com/track/5sQGo3fB2NoFalyy4uZjiu"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "A volta de Secos & Molhados",
         "url": "https://open.spotify.com/album/4rNGFFaXZ7l0Vg6QrcHcUi"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 128000,
       "name": "Sangue latino",
       "url": "https://open.spotify.com/track/2DREhftHdD8pRmNdSs6nyF"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Al Final de Este Viaje...",
+        "url": "https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd"
+      },
+      "artists": [
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        }
+      ],
+      "duration_ms": 212481,
+      "name": "Ojal\u00e1",
+      "url": "https://open.spotify.com/track/5sQGo3fB2NoFalyy4uZjiu"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -995,6 +995,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "Buscando Chilenos Vol. 1",
+        "url": "https://open.spotify.com/album/7uuF0krsc2ZPkKyc1q26ax"
+      },
+      "artists": [
+        {
+          "name": "Sexual Democracia",
+          "url": "https://open.spotify.com/artist/3m2dBZiLPZUffYga9ocES7"
+        }
+      ],
+      "duration_ms": 284693,
+      "name": "Cancion Pacifico-Violenta",
+      "url": "https://open.spotify.com/track/273RiyloYbmnFHKORe6Rpr"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "S\u00edganme los Buenos",
         "url": "https://open.spotify.com/album/2rW21cjOMIZYEneQKO74Gm"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 207580,
       "name": "S\u00edganme los Buenos",
       "url": "https://open.spotify.com/track/64hFXTMZsmDAT0kiWZrYwD"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Buscando Chilenos Vol. 1",
-        "url": "https://open.spotify.com/album/7uuF0krsc2ZPkKyc1q26ax"
-      },
-      "artists": [
-        {
-          "name": "Sexual Democracia",
-          "url": "https://open.spotify.com/artist/3m2dBZiLPZUffYga9ocES7"
-        }
-      ],
-      "duration_ms": 284693,
-      "name": "Cancion Pacifico-Violenta",
-      "url": "https://open.spotify.com/track/273RiyloYbmnFHKORe6Rpr"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Nada en Contra del K-pop",
-        "url": "https://open.spotify.com/album/3xQEMzgMAQGsUZEihbkJcz"
-      },
-      "artists": [
-        {
-          "name": "Diego Lorenzini",
-          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
-        }
-      ],
-      "duration_ms": 289506,
-      "name": "Nada en Contra del K-pop",
-      "url": "https://open.spotify.com/track/0wEJTKfSqdcQv9RNSWAJEJ"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "La Nueva Cancion Chilena, Vol. 1",
         "url": "https://open.spotify.com/album/6lXAQ5Gozo845iSrcQEvfI"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 123333,
       "name": "Si Somos Americanos",
       "url": "https://open.spotify.com/track/5kScKNyugdcqoEPKWPpBq1"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Nada en Contra del K-pop",
+        "url": "https://open.spotify.com/album/3xQEMzgMAQGsUZEihbkJcz"
+      },
+      "artists": [
+        {
+          "name": "Diego Lorenzini",
+          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
+        }
+      ],
+      "duration_ms": 289506,
+      "name": "Nada en Contra del K-pop",
+      "url": "https://open.spotify.com/track/0wEJTKfSqdcQv9RNSWAJEJ"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1451,42 +1451,18 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Grita Tierra",
-        "url": "https://open.spotify.com/album/16xnx1BIx96nDG1T20MF3z"
+        "name": "Bella Ciao",
+        "url": "https://open.spotify.com/album/5KHRo5czZnhlAfQ2e4840e"
       },
       "artists": [
         {
-          "name": "UN Live",
-          "url": "https://open.spotify.com/artist/598aN61ejdgFL6RzTmphnJ"
-        },
-        {
-          "name": "Catalina Garc\u00eda",
-          "url": "https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY"
-        },
-        {
-          "name": "Roco Pachukote",
-          "url": "https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA"
-        },
-        {
-          "name": "Sandesh Manuel",
-          "url": "https://open.spotify.com/artist/1FP9jgHKP3F3gojPpPZMH1"
-        },
-        {
-          "name": "Conector",
-          "url": "https://open.spotify.com/artist/07911i0JpJbxQyDEHDgkbT"
-        },
-        {
-          "name": "Daniel Roa",
-          "url": "https://open.spotify.com/artist/3dPJfVYIqsjDsBRA5z8vKF"
-        },
-        {
-          "name": "Hna Nidia Mac\u00edas",
-          "url": "https://open.spotify.com/artist/2BbhmRWi28bLVgHBClCdEp"
+          "name": "Quilapay\u00fan",
+          "url": "https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup"
         }
       ],
-      "duration_ms": 275327,
-      "name": "Grita Tierra",
-      "url": "https://open.spotify.com/track/1TbUrLorDczVuZuPz0U5lZ"
+      "duration_ms": 122436,
+      "name": "Bella Ciao",
+      "url": "https://open.spotify.com/track/6Jb5YWfJNHqadAeeSijMEU"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1527,18 +1503,42 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Bella Ciao",
-        "url": "https://open.spotify.com/album/5KHRo5czZnhlAfQ2e4840e"
+        "name": "Grita Tierra",
+        "url": "https://open.spotify.com/album/16xnx1BIx96nDG1T20MF3z"
       },
       "artists": [
         {
-          "name": "Quilapay\u00fan",
-          "url": "https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup"
+          "name": "UN Live",
+          "url": "https://open.spotify.com/artist/598aN61ejdgFL6RzTmphnJ"
+        },
+        {
+          "name": "Catalina Garc\u00eda",
+          "url": "https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY"
+        },
+        {
+          "name": "Roco Pachukote",
+          "url": "https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA"
+        },
+        {
+          "name": "Sandesh Manuel",
+          "url": "https://open.spotify.com/artist/1FP9jgHKP3F3gojPpPZMH1"
+        },
+        {
+          "name": "Conector",
+          "url": "https://open.spotify.com/artist/07911i0JpJbxQyDEHDgkbT"
+        },
+        {
+          "name": "Daniel Roa",
+          "url": "https://open.spotify.com/artist/3dPJfVYIqsjDsBRA5z8vKF"
+        },
+        {
+          "name": "Hna Nidia Mac\u00edas",
+          "url": "https://open.spotify.com/artist/2BbhmRWi28bLVgHBClCdEp"
         }
       ],
-      "duration_ms": 122436,
-      "name": "Bella Ciao",
-      "url": "https://open.spotify.com/track/6Jb5YWfJNHqadAeeSijMEU"
+      "duration_ms": 275327,
+      "name": "Grita Tierra",
+      "url": "https://open.spotify.com/track/1TbUrLorDczVuZuPz0U5lZ"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1591,26 +1591,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Cumbia Salvaje",
-        "url": "https://open.spotify.com/album/3ytIR3b4QHTDgreNs5bDzU"
-      },
-      "artists": [
-        {
-          "name": "Hayd\u00e9e Milan\u00e9s",
-          "url": "https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG"
-        },
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 226145,
-      "name": "La vida no vale nada (feat. Lila Downs)",
-      "url": "https://open.spotify.com/track/2G93TASv7mpom8JIZnWbuv"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Mar\u00eda Land\u00f3",
         "url": "https://open.spotify.com/album/2G44RDuX1aeQlBbLZUOub2"
       },
@@ -1643,6 +1623,26 @@
       "duration_ms": 114781,
       "name": "Nada Es Verdad (Finale) / Spoken Words",
       "url": "https://open.spotify.com/track/0WJY4uPMOZZtpKWW6cxr99"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Cumbia Salvaje",
+        "url": "https://open.spotify.com/album/3ytIR3b4QHTDgreNs5bDzU"
+      },
+      "artists": [
+        {
+          "name": "Hayd\u00e9e Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG"
+        },
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 226145,
+      "name": "La vida no vale nada (feat. Lila Downs)",
+      "url": "https://open.spotify.com/track/2G93TASv7mpom8JIZnWbuv"
     },
     {
       "added_at": "2024-05-10 03:00:00",

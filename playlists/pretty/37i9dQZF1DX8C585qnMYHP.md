@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new music by Experimental independent artists and labels\. Ana Lua Caiano on cover\. Artwork by Thami Nabil
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,321 likes - 99 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,425 likes - 99 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,11 +68,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 58 | [Muscle de sable](https://open.spotify.com/track/3qoY2HMgcyJTDEQVBm9Xx5) | [Roméo Poirier](https://open.spotify.com/artist/1kQP1Xg6Q8bmdjXAirDQKG) | [Living Room](https://open.spotify.com/album/4iZQx2yaJNFhomxb2I64Lw) | 4:01 |
 | 59 | [Window Sill Song](https://open.spotify.com/track/2hB0WBIk6FFqqqbW6lyw15) | [SML](https://open.spotify.com/artist/5k8cbLF5EZnAhwDvHN6Toj) | [Small Medium Large](https://open.spotify.com/album/3DpHrOJuKw6QSfcvLNanRO) | 2:03 |
 | 60 | [Crystals](https://open.spotify.com/track/0uK2urblhFVH6P4Mlq4YOJ) | [Misha Panfilov](https://open.spotify.com/artist/2mLgv6MF6Te16Qv6VOqx5p) | [Frutaria Electr​ó​nica](https://open.spotify.com/album/0OjFgKTNB0Ip1P5EdJnY23) | 4:25 |
-| 61 | [Inaudible](https://open.spotify.com/track/00p5muWKVAVbUz9Wp4dZKt) | [Thom LaFond](https://open.spotify.com/artist/2NVtDeFBzHMUFQlzDswS8a) | [Inaudible](https://open.spotify.com/album/6xr0qixgwTRXgMUfun7ww5) | 5:14 |
-| 62 | [betrayal](https://open.spotify.com/track/4rVQH8kUO7o8Zacw0hMVbi) | [zphr](https://open.spotify.com/artist/6i676Pz8v1UZpALxNkz73N) | [betrayal](https://open.spotify.com/album/1k1GUjYRdKj2osd7SMtz8h) | 3:44 |
+| 61 | [betrayal](https://open.spotify.com/track/4rVQH8kUO7o8Zacw0hMVbi) | [zphr](https://open.spotify.com/artist/6i676Pz8v1UZpALxNkz73N) | [betrayal](https://open.spotify.com/album/1k1GUjYRdKj2osd7SMtz8h) | 3:44 |
+| 62 | [Inaudible](https://open.spotify.com/track/00p5muWKVAVbUz9Wp4dZKt) | [Thom LaFond](https://open.spotify.com/artist/2NVtDeFBzHMUFQlzDswS8a) | [Inaudible](https://open.spotify.com/album/6xr0qixgwTRXgMUfun7ww5) | 5:14 |
 | 63 | [Baraka](https://open.spotify.com/track/0HjOi8AnakBvS1oY5NEMlL) | [COLA REN](https://open.spotify.com/artist/4C1PrnDnrzoe4U8OyrONzs) | [Hailu](https://open.spotify.com/album/1VOzlKc0RL1MFMcPv94yO6) | 2:35 |
-| 64 | [Release +ϕ](https://open.spotify.com/track/4z1vmPuzHvVyT4T2zRwslI) | [ZULI](https://open.spotify.com/artist/5Kur13kkU4pOoNFAE8K0YF) | [Lambda](https://open.spotify.com/album/7uzOcKlkHCj0b1hn72UGUn) | 4:25 |
-| 65 | [Muzak For Mesozoic Showreel](https://open.spotify.com/track/3SSrgHRP1Ok1BXZdOkgV0O) | [Nikolaienko](https://open.spotify.com/artist/3fifybKFLHwKbEjATG02ig), [Arthur Mine](https://open.spotify.com/artist/6dtoiMrxTN33pqX8SWewie) | [Nostalgia Por Mesozóica](https://open.spotify.com/album/3bikUiYkbZgJl1A2iabJp0) | 2:49 |
+| 64 | [Muzak For Mesozoic Showreel](https://open.spotify.com/track/3SSrgHRP1Ok1BXZdOkgV0O) | [Nikolaienko](https://open.spotify.com/artist/3fifybKFLHwKbEjATG02ig), [Arthur Mine](https://open.spotify.com/artist/6dtoiMrxTN33pqX8SWewie) | [Nostalgia Por Mesozóica](https://open.spotify.com/album/3bikUiYkbZgJl1A2iabJp0) | 2:49 |
+| 65 | [Release +ϕ](https://open.spotify.com/track/4z1vmPuzHvVyT4T2zRwslI) | [ZULI](https://open.spotify.com/artist/5Kur13kkU4pOoNFAE8K0YF) | [Lambda](https://open.spotify.com/album/7uzOcKlkHCj0b1hn72UGUn) | 4:25 |
 | 66 | [Sky Time](https://open.spotify.com/track/0Br1XgqraY0UkXY56QQ0oS) | [YAI](https://open.spotify.com/artist/6CV1eZ3xM0Sfpfd6gkufrJ), [John Thayer](https://open.spotify.com/artist/0epYBMvUpoUYstNjLNHL4k), [David Lackner](https://open.spotify.com/artist/2tVUa3qDGMQQp0Qr3BgDYS) | [Sky Time](https://open.spotify.com/album/6a3obHasxduXehtFxlS7CX) | 3:02 |
 | 67 | [Drifting Around](https://open.spotify.com/track/1qcL2aoIbuIKsBiR3nXHe0) | [Donna Regina](https://open.spotify.com/artist/28d8oiCt6QMG9d5i95Pn5h) | [Northern Classic](https://open.spotify.com/album/49w9XEYsCNsmcRU0mM6Edr) | 5:36 |
 | 68 | [I'm here](https://open.spotify.com/track/7jgKM7kkr5V1vD000hAelA) | [Sorza](https://open.spotify.com/artist/0uzZejtu06gZYMtDUoSt9D) | [Pillars](https://open.spotify.com/album/1rUgzGPf4njtmLhKWbJ53v) | 3:54 |
@@ -82,16 +82,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 72 | [Arms, Armor](https://open.spotify.com/track/4rWmroQk2m8xBtNxpDVSXv) | [Slauson Malone 1](https://open.spotify.com/artist/6mWYIx4qV7et94cpRRU77N) | [EXCELSIOR](https://open.spotify.com/album/364BvIMiL3BsjqTJ9teX1E) | 1:05 |
 | 73 | [Jump Over Barrels](https://open.spotify.com/track/1KFEWFokv2egtzT3vzc7ct) | [Crash Course In Science](https://open.spotify.com/artist/7mifyf6uQQKKffciTy7sOK) | [Near Marineland](https://open.spotify.com/album/0e874Z59PIEjJNQadE3pvu) | 3:30 |
 | 74 | [hope's return](https://open.spotify.com/track/33Go1mGHePH38jrBcd2CMd) | [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG) | [hope's return](https://open.spotify.com/album/27D5Tl2yAmBYE8Qoqb4Z9Q) | 1:43 |
-| 75 | [Hesitations… \(Intro\)](https://open.spotify.com/track/0sNiWTqzD6LwYnLa9SGuac) | [Anysia Kym](https://open.spotify.com/artist/03546gvcoicKs6C10YdXvk) | [Truest](https://open.spotify.com/album/1wANarMlS8xKdwUxm4WwrI) | 2:30 |
-| 76 | [aurora](https://open.spotify.com/track/1JB63hFHq0Xz3buBY2x7vj) | [Ivy Knight](https://open.spotify.com/artist/2k3Q5efL6SiHfAsGqdXk4z) | [Near the Lake We Forget to Count the Days](https://open.spotify.com/album/000w07NjXTXbvy7AMaaawi) | 2:53 |
+| 75 | [aurora](https://open.spotify.com/track/1JB63hFHq0Xz3buBY2x7vj) | [Ivy Knight](https://open.spotify.com/artist/2k3Q5efL6SiHfAsGqdXk4z) | [Near the Lake We Forget to Count the Days](https://open.spotify.com/album/000w07NjXTXbvy7AMaaawi) | 2:53 |
+| 76 | [Hesitations… \(Intro\)](https://open.spotify.com/track/0sNiWTqzD6LwYnLa9SGuac) | [Anysia Kym](https://open.spotify.com/artist/03546gvcoicKs6C10YdXvk) | [Truest](https://open.spotify.com/album/1wANarMlS8xKdwUxm4WwrI) | 2:30 |
 | 77 | [Oase](https://open.spotify.com/track/00Ed6JEkpJFVZwWWZw42oY) | [Cavolo Nero](https://open.spotify.com/artist/5ewSUyw8Gl9p38R1uxHuJU) | [Nightshade](https://open.spotify.com/album/2Ak1vufF6gIchUNWk2B7nU) | 3:10 |
 | 78 | [wearywatergod](https://open.spotify.com/track/1iUlbWjRySPrE7OE8bqiFx) | [Stemlines](https://open.spotify.com/artist/2o0jf68Qiap2A3RIhvTcCX) | [L4TA](https://open.spotify.com/album/2YdqLlOOTpvfEG9zkfNZJc) | 1:08 |
 | 79 | [La Luz](https://open.spotify.com/track/52gzLw5jwmb0UPhsjbL1Xb) | [Tia Rosa](https://open.spotify.com/artist/220h1bpQcfo1fVqmTwvgpS) | [Misterio Lounge 3000](https://open.spotify.com/album/58pzHI7Hc7nhIJA9vfraww) | 3:43 |
 | 80 | [Sundown Muse](https://open.spotify.com/track/7H3KKn8XnIipixGjNGvK7m) | [ERHA](https://open.spotify.com/artist/1cJYrUDjb9XpXiQ8fdbECw) | [Sundown Muse](https://open.spotify.com/album/563p4ncIUA3CqMCcE5SJJs) | 4:21 |
 | 81 | [Crío Cuervos](https://open.spotify.com/track/1t7BihSMV0dlAlP259WKiW) | [Tucci](https://open.spotify.com/artist/5s5AualH5soDJ619wrZ2IW) | [Crío Cuervos](https://open.spotify.com/album/17GaCOxc4k6GZjvUj0HEld) | 3:58 |
 | 82 | [Psychological Housekeeping](https://open.spotify.com/track/1yJRRJgVFgN3nYtYas5Rfo) | [Famous Mammals](https://open.spotify.com/artist/78ubQZ3ywPoTIi8VF8JihE) | [Famous Mammals](https://open.spotify.com/album/58MaSPTHyIPoo6ePjpSX12) | 1:45 |
-| 83 | [Youth](https://open.spotify.com/track/0pHiRnZ4yHBA2xYAiC5OTP) | [House on the Strand](https://open.spotify.com/artist/1XelH5HqoOc2TcRaJT2E23) | [Heroine](https://open.spotify.com/album/3e7ratn5mY9I6wCDUalVx9) | 5:27 |
-| 84 | [ocean, sea, ocean.](https://open.spotify.com/track/23bA4F9fTGFCnGHwyLJAOO) | [YUSAKU ARAI](https://open.spotify.com/artist/18b1wB4Q8fdrAatkpCegf0) | [a two](https://open.spotify.com/album/1tsbblGgepVwBV7fXm8h4f) | 2:57 |
+| 83 | [ocean, sea, ocean.](https://open.spotify.com/track/23bA4F9fTGFCnGHwyLJAOO) | [YUSAKU ARAI](https://open.spotify.com/artist/18b1wB4Q8fdrAatkpCegf0) | [a two](https://open.spotify.com/album/1tsbblGgepVwBV7fXm8h4f) | 2:57 |
+| 84 | [Youth](https://open.spotify.com/track/0pHiRnZ4yHBA2xYAiC5OTP) | [House on the Strand](https://open.spotify.com/artist/1XelH5HqoOc2TcRaJT2E23) | [Heroine](https://open.spotify.com/album/3e7ratn5mY9I6wCDUalVx9) | 5:27 |
 | 85 | [As Happy as a Sandboy](https://open.spotify.com/track/1jcOLLOtYQ9lfIBCw64T16) | [Jay Glass Dubs](https://open.spotify.com/artist/2Uo8hdDlnsj9baLt1jPiVu), [Sissi Rada](https://open.spotify.com/artist/6tur6gkfmy5lrI9A4rIzlt) | [DJ HUMBLE \(Expanded Edition\)](https://open.spotify.com/album/1rhbprgJVR4NBkxwJZ4zwl) | 7:55 |
 | 86 | [Weimar 22](https://open.spotify.com/track/45tyh3NtIfD37jlNOj6rGp) | [R.N.A\. Organism](https://open.spotify.com/artist/44Rhiu2k3Yp0a6Y8VpTfxu) | [R.N.A.O Meets P.O.P.O](https://open.spotify.com/album/6EGSbTzt0UvsSr1OZSR0nI) | 4:11 |
 | 87 | [Gate VIII](https://open.spotify.com/track/0Zzwh201mYmQCxHtDKSkI2) | [Ka Baird](https://open.spotify.com/artist/5IzFojkr5NLxvRExo2OnG6) | [Bearings: Soundtracks for the Bardos](https://open.spotify.com/album/1qDLRV6CagogjyTHxSnwxE) | 4:00 |

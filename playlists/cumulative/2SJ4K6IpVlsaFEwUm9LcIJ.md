@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: sept\-oct 2024 \(previous playlists archived on my profile\)
 
-282 songs - 14 hr 45 min
+283 songs - 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Multi\-Family Garage Sale \(Bargain\-Bin Mix\)](https://open.spotify.com/track/314KmbRrSXcQHFujzdOr9v) | [Land of the Loops](https://open.spotify.com/artist/0H4Rek6UJ2GpLm5HduQ9uv) | [Bundle of Joy](https://open.spotify.com/album/6c1VIXuJZJBDkmNM236bXt) | 4:15 | 2024-05-24 | 2024-07-12 |
 | [My Head Falls Softly](https://open.spotify.com/track/2vWT6FckKmNnsT0IafgQ78) | [Kitty Craft](https://open.spotify.com/artist/5mmXz0LCVnPbgHcZ7KBJlj) | [Catskills](https://open.spotify.com/album/3ZBm3ZogFDZusSwJooRf1c) | 4:23 | 2024-04-18 | 2024-05-16 |
 | [My Time \- 2023 Remaster](https://open.spotify.com/track/4ftznvAQmZDXxamv1cQgs7) | [Telex](https://open.spotify.com/artist/6PzO2zYVuLxLwhZJfnP1Wj) | [Neurovision \(Remastered\)](https://open.spotify.com/album/1TJQmSZTMlHRTxmUlBt0Ck) | 4:21 | 2024-07-15 | 2024-09-08 |
+| [My Valuable Hunting Knife](https://open.spotify.com/track/4W5xR9p6Qa5kqUuDIcdvKD) | [Guided By Voices](https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl) | [Alien Lanes](https://open.spotify.com/album/4QV8iMlscaIpidQHcErzbE) | 2:00 | 2024-09-14 |  |
 | [MyLoveILove 12](https://open.spotify.com/track/5j109YHsQvawuVrm45qwDc) | [Bogdan Raczynski](https://open.spotify.com/artist/2bYCvT1nqpbbspU5DZG5nA) | [MyLoveILove](https://open.spotify.com/album/5ifjWl35H9cFxw1NcIzopE) | 1:36 | 2024-04-18 | 2024-05-16 |
 | [Naomi and Me](https://open.spotify.com/track/3KQmiV4dShQBaIUGbI2ZWu) | [Rocketship](https://open.spotify.com/artist/2dLzeuFyFPAYdWKU3UuYTA) | [Hey, Hey Girl 7"](https://open.spotify.com/album/4MCpw6grgnk4HK0QPkKk67) | 2:07 | 2024-01-13 | 2024-03-10 |
 | [Napule Canta E More](https://open.spotify.com/track/3qNtGvCC1tgeZFK9ClBz4k) | [Donatella Viggiano](https://open.spotify.com/artist/4FFwzgDJc7AaKVPYxQzwjk) | [Napoli Segreta](https://open.spotify.com/album/7wG7cketLF1ZzMAPWa2fcl) | 2:54 | 2024-02-28 | 2024-03-10 |

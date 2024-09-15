@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Ay Jalisco no te rajes!",
-  "num_followers": 22908,
+  "num_followers": 22961,
   "original_name": "Coraz\u00f3n Tapat\u00edo",
   "owner": {
     "name": "Spotify",
@@ -495,6 +495,22 @@
     {
       "added_at": "2024-07-11 15:20:34",
       "album": {
+        "name": "M\u00fasica de America",
+        "url": "https://open.spotify.com/album/3NoSCNr4O7hKlpibE7HiRR"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+        }
+      ],
+      "duration_ms": 176906,
+      "name": "Guadalajara",
+      "url": "https://open.spotify.com/track/7bqkK6DMlXwcIHbSzLq1xx"
+    },
+    {
+      "added_at": "2024-07-11 15:20:34",
+      "album": {
         "name": "En grande",
         "url": "https://open.spotify.com/album/5J6wDtwCGok12ta08ixCsA"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 260466,
       "name": "Host of a Ghost",
       "url": "https://open.spotify.com/track/0HTFDQQb7auJ2dZwXtPK5e"
-    },
-    {
-      "added_at": "2024-07-11 15:20:34",
-      "album": {
-        "name": "\u00c9xitos Rom\u00e1nticos (De Colecci\u00f3n)",
-        "url": "https://open.spotify.com/album/6h11WKrIIACDQSQKfGqKYL"
-      },
-      "artists": [
-        {
-          "name": "La Revoluci\u00f3n De Emiliano Zapata",
-          "url": "https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2"
-        }
-      ],
-      "duration_ms": 234493,
-      "name": "Mi Forma De Sentir",
-      "url": "https://open.spotify.com/track/7qLdzoN0DawHgS7idZDItd"
     },
     {
       "added_at": "2024-07-11 15:20:34",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-07-11 15:20:34",
       "album": {
-        "name": "M\u00fasica de America",
-        "url": "https://open.spotify.com/album/3NoSCNr4O7hKlpibE7HiRR"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
-        }
-      ],
-      "duration_ms": 176906,
-      "name": "Guadalajara",
-      "url": "https://open.spotify.com/track/7bqkK6DMlXwcIHbSzLq1xx"
-    },
-    {
-      "added_at": "2024-07-11 15:20:34",
-      "album": {
         "name": "Vicente Fernandez La Leyenda Viviente (Digi-Pack)",
         "url": "https://open.spotify.com/album/4N6NKru01oIgqTQ3MovJXW"
       },
@@ -607,6 +591,22 @@
     {
       "added_at": "2024-07-11 15:20:34",
       "album": {
+        "name": "\u00c9xitos Rom\u00e1nticos (De Colecci\u00f3n)",
+        "url": "https://open.spotify.com/album/6h11WKrIIACDQSQKfGqKYL"
+      },
+      "artists": [
+        {
+          "name": "La Revoluci\u00f3n De Emiliano Zapata",
+          "url": "https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2"
+        }
+      ],
+      "duration_ms": 234493,
+      "name": "Mi Forma De Sentir",
+      "url": "https://open.spotify.com/track/7qLdzoN0DawHgS7idZDItd"
+    },
+    {
+      "added_at": "2024-07-11 15:20:34",
+      "album": {
         "name": "16 Reales hits",
         "url": "https://open.spotify.com/album/5ZnGp62Dx8qN5TascIvItr"
       },
@@ -619,6 +619,38 @@
       "duration_ms": 188706,
       "name": "La culebra",
       "url": "https://open.spotify.com/track/3RqQrOBQkraszNm11qGTEP"
+    },
+    {
+      "added_at": "2024-07-11 15:20:34",
+      "album": {
+        "name": "Tenis M\u00e1gicos",
+        "url": "https://open.spotify.com/album/3TIOaRXflNZnZWgYjcCK1D"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "duration_ms": 154693,
+      "name": "Tenis m\u00e1gicos",
+      "url": "https://open.spotify.com/track/0ZWwLz1hWOiDkjU5Iop5ep"
+    },
+    {
+      "added_at": "2024-07-11 15:20:34",
+      "album": {
+        "name": "Fiesta Mexicana Con Mariachi (USA)",
+        "url": "https://open.spotify.com/album/1Yw1J4kHtQ9ONQtPpDnZyp"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "El son de la negra",
+      "url": "https://open.spotify.com/track/1kjMKI2xugTJvBFPZT140r"
     },
     {
       "added_at": "2024-07-11 15:20:34",
@@ -643,22 +675,6 @@
       "duration_ms": 229977,
       "name": "Guadalajara",
       "url": "https://open.spotify.com/track/3GtG0XwENlN6axQI33FjsR"
-    },
-    {
-      "added_at": "2024-07-11 15:20:34",
-      "album": {
-        "name": "Tenis M\u00e1gicos",
-        "url": "https://open.spotify.com/album/3TIOaRXflNZnZWgYjcCK1D"
-      },
-      "artists": [
-        {
-          "name": "Banda Peque\u00f1os Musical",
-          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
-        }
-      ],
-      "duration_ms": 154693,
-      "name": "Tenis m\u00e1gicos",
-      "url": "https://open.spotify.com/track/0ZWwLz1hWOiDkjU5Iop5ep"
     },
     {
       "added_at": "2024-07-11 15:20:34",
@@ -695,22 +711,6 @@
     {
       "added_at": "2024-07-11 15:20:34",
       "album": {
-        "name": "Fiesta Mexicana Con Mariachi (USA)",
-        "url": "https://open.spotify.com/album/1Yw1J4kHtQ9ONQtPpDnZyp"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "El son de la negra",
-      "url": "https://open.spotify.com/track/1kjMKI2xugTJvBFPZT140r"
-    },
-    {
-      "added_at": "2024-07-11 15:20:34",
-      "album": {
         "name": "Pito Perez",
         "url": "https://open.spotify.com/album/6oqejsCHRGasHg4adH98C4"
       },
@@ -739,6 +739,22 @@
       "duration_ms": 167120,
       "name": "Le\u00f1a de pirul",
       "url": "https://open.spotify.com/track/3G6c5nsqBaN1MyvxBCcEoJ"
+    },
+    {
+      "added_at": "2024-07-11 15:20:34",
+      "album": {
+        "name": "La M\u00e1s Completa Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/5YZnRB9emHtZ5yRQ4xTjc7"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+        }
+      ],
+      "duration_ms": 177306,
+      "name": "El Mariachi Loco",
+      "url": "https://open.spotify.com/track/0cEazkkPgRlEBvAfDcojC2"
     },
     {
       "added_at": "2024-07-11 15:20:34",
@@ -775,6 +791,22 @@
     {
       "added_at": "2024-07-11 15:20:34",
       "album": {
+        "name": "Jorge Negrete. Sus 40 Grandes Canciones (1911-1953)",
+        "url": "https://open.spotify.com/album/4fowTvcUyT2fJDYgor7l6b"
+      },
+      "artists": [
+        {
+          "name": "Jorge Negrete",
+          "url": "https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE"
+        }
+      ],
+      "duration_ms": 144266,
+      "name": "Ay, jalisco no te rajes (remastered)",
+      "url": "https://open.spotify.com/track/3W6QLGKk0ggZuk2jzPlxTO"
+    },
+    {
+      "added_at": "2024-07-11 15:20:34",
+      "album": {
         "name": "Lo Mejor De La Baraja Con El Rey",
         "url": "https://open.spotify.com/album/4AbxC9BjfOj9T5pQ665zzs"
       },
@@ -791,22 +823,6 @@
     {
       "added_at": "2024-07-11 15:20:34",
       "album": {
-        "name": "La M\u00e1s Completa Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/5YZnRB9emHtZ5yRQ4xTjc7"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
-        }
-      ],
-      "duration_ms": 177306,
-      "name": "El Mariachi Loco",
-      "url": "https://open.spotify.com/track/0cEazkkPgRlEBvAfDcojC2"
-    },
-    {
-      "added_at": "2024-07-11 15:20:34",
-      "album": {
         "name": "Atemahawke",
         "url": "https://open.spotify.com/album/1GMQtHzZ4lpTYmJgNzALHh"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 231640,
       "name": "Vaquero Gal\u00e1ctico",
       "url": "https://open.spotify.com/track/3Y0I0uc7DA9wu3CQc5LZTG"
-    },
-    {
-      "added_at": "2024-07-11 15:20:34",
-      "album": {
-        "name": "Jorge Negrete. Sus 40 Grandes Canciones (1911-1953)",
-        "url": "https://open.spotify.com/album/4fowTvcUyT2fJDYgor7l6b"
-      },
-      "artists": [
-        {
-          "name": "Jorge Negrete",
-          "url": "https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE"
-        }
-      ],
-      "duration_ms": 144266,
-      "name": "Ay, jalisco no te rajes (remastered)",
-      "url": "https://open.spotify.com/track/3W6QLGKk0ggZuk2jzPlxTO"
     }
   ],
   "unique_name": "Coraz\u00f3n Tapat\u00edo",

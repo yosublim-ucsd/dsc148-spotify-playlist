@@ -4,7 +4,7 @@
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-585 songs - 1 day 6 hr 26 min
+586 songs - 1 day 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,7 +320,7 @@
 | [Love Is Free](https://open.spotify.com/track/1wGXpLDlQg5ClZ2epImCEc) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Love Is Free](https://open.spotify.com/album/3veEW05WfqSbHSZWvy6Ftm) | 2:52 | 2023-08-11 |  |
 | [LOVELY BASTARDS](https://open.spotify.com/track/0EqczV3o6fwksegAavIHpX) | [ZWE1HVNDXR](https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB), [yatashigang](https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx) | [LOVELY BASTARDS](https://open.spotify.com/album/2b3Kiolsu42XiVvhRmTEsM) | 1:56 | 2024-01-19 |  |
 | [LSD](https://open.spotify.com/track/3Vwpo3aARHRjusbFsSlLk0) | [Kryder](https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O) | [LSD](https://open.spotify.com/album/7ll9IBL7030mFRxrsuqkUl) | 3:08 | 2022-05-06 | 2022-05-10 |
-| [Luv Me a Little](https://open.spotify.com/track/1SFA5zEVOsLhEg7ynbvQFT) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Luv Me A Little](https://open.spotify.com/album/7rZOkDS1qDISQN3kValLId) | 3:44 | 2023-01-23 |  |
+| [Luv Me a Little](https://open.spotify.com/track/1SFA5zEVOsLhEg7ynbvQFT) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Luv Me A Little](https://open.spotify.com/album/7rZOkDS1qDISQN3kValLId) | 3:44 | 2023-01-23 | 2024-09-15 |
 | [LUV U NEED U](https://open.spotify.com/track/3YVj9LLq5GMvBvoKubnUp0) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [LUV U NEED U](https://open.spotify.com/album/04ebYhavcGBpHqImHLMyml) | 2:26 | 2022-07-14 | 2022-07-26 |
 | [Mad Ting](https://open.spotify.com/track/1y0kCZvdRxr22scqgH6ci9) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Moody Good](https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH), [Killa P](https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ) | [Mad Ting](https://open.spotify.com/album/6xS7QXBUofgwTfAC37cQfg) | 3:14 | 2024-07-05 | 2024-08-17 |
 | [MADE 4 THIS](https://open.spotify.com/track/5KCgiQKyrpqldADnutzaj6) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [01953](https://open.spotify.com/album/6IcTEQmazY57A2WAQ2O3xW) | 2:42 | 2022-06-03 | 2022-06-23 |
@@ -550,6 +550,7 @@
 | [Violence](https://open.spotify.com/track/2raUfi0wM6gDa3RDKNQySD) | [Tristam](https://open.spotify.com/artist/28Ky95tmlHktB96DBUoB0g) | [Violence](https://open.spotify.com/album/4wBwT46IH2CMytFxJTZsME) | 3:33 | 2022-05-06 | 2022-07-29 |
 | [Vois sur ton chemin \- Techno Mix](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Vois sur ton chemin \(Techno Mix\)](https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB) | 2:58 | 2023-08-18 |  |
 | [Von dutch remix with skream and benga](https://open.spotify.com/track/6avei3GTDwm3u8jobPwGh5) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Benga](https://open.spotify.com/artist/6lyYDuLxgcxPLH5RjUPH5p) | [Von dutch remix with skream and benga](https://open.spotify.com/album/6e5PBZjpdbu2t39D9QoUgF) | 4:41 | 2024-08-16 | 2024-08-31 |
+| [VYSE](https://open.spotify.com/track/6Xgynq2WNmbfeDSX4JOvim) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [VALORANT Sounds Vol\. 1](https://open.spotify.com/album/5kDohAcW2lWTidVekIJQZp) | 2:32 | 2024-09-06 |  |
 | [Waiting](https://open.spotify.com/track/5IctAQm39y9qiMtbKdzLzf) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q), [Bianca](https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl) | [Waiting](https://open.spotify.com/album/07ndCcq4Rtg94YEaEwDTKI) | 3:30 | 2022-05-06 | 2022-07-29 |
 | [Wake Up](https://open.spotify.com/track/4oQVLOACv9GfeB9KcDRIo8) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Wake Up](https://open.spotify.com/album/7lFLWyaqcHEeFANruOXadS) | 2:53 | 2024-08-02 |  |
 | [Warriors](https://open.spotify.com/track/3f4fc8c8unrQeKecmUPEDR) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Edda Hayes](https://open.spotify.com/artist/0zJa53LLSg4TcZ5Lm4zFB8) | [Warriors](https://open.spotify.com/album/0uyb1O2aodxewxYrAHzqIn) | 3:24 | 2022-05-06 | 2023-07-19 |

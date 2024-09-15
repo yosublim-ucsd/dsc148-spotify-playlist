@@ -1,6 +1,6 @@
 {
   "description": "Explore the inner worlds floating in the imagination of experimental Ambient music producers.",
-  "num_followers": 198508,
+  "num_followers": 198539,
   "original_name": "Exospheres",
   "owner": {
     "name": "Spotify",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "Hilja",
+        "url": "https://open.spotify.com/album/2n4BmbmrbnrylB71xFoJIe"
+      },
+      "artists": [
+        {
+          "name": "Cucina Povera",
+          "url": "https://open.spotify.com/artist/46VnhKgQTmPBKdJBTuk0D1"
+        }
+      ],
+      "duration_ms": 321000,
+      "name": "Demetra",
+      "url": "https://open.spotify.com/track/3CIuL3T0PrjzfZ8ZqSmujh"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "Blonde",
         "url": "https://open.spotify.com/album/725lNa4TQ4kMUOphWG0iCl"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 250040,
       "name": "Blonde",
       "url": "https://open.spotify.com/track/1yy59D7L2Ym3wYLQct8dHR"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "Hilja",
-        "url": "https://open.spotify.com/album/2n4BmbmrbnrylB71xFoJIe"
-      },
-      "artists": [
-        {
-          "name": "Cucina Povera",
-          "url": "https://open.spotify.com/artist/46VnhKgQTmPBKdJBTuk0D1"
-        }
-      ],
-      "duration_ms": 321000,
-      "name": "Demetra",
-      "url": "https://open.spotify.com/track/3CIuL3T0PrjzfZ8ZqSmujh"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Grial",
-        "url": "https://open.spotify.com/album/0plvaGqOtMeRPkzUwDgd3X"
-      },
-      "artists": [
-        {
-          "name": "Verraco",
-          "url": "https://open.spotify.com/artist/4GfEnw0dFSSzB9M65k0dA1"
-        }
-      ],
-      "duration_ms": 299892,
-      "name": "Our New Order",
-      "url": "https://open.spotify.com/track/71kdBwFjBFIMn4ZBsFOlYa"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Sketches of Nowhere",
         "url": "https://open.spotify.com/album/7KdbQqhvfhmXOTCkJj6bC2"
       },
@@ -807,18 +791,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Caisson",
-        "url": "https://open.spotify.com/album/6iRkzAQN5FmXmuoimn26q7"
+        "name": "Grial",
+        "url": "https://open.spotify.com/album/0plvaGqOtMeRPkzUwDgd3X"
       },
       "artists": [
         {
-          "name": "Loscil",
-          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
+          "name": "Verraco",
+          "url": "https://open.spotify.com/artist/4GfEnw0dFSSzB9M65k0dA1"
         }
       ],
-      "duration_ms": 469333,
-      "name": "Caisson",
-      "url": "https://open.spotify.com/track/7CvIZIUj1wwT2Kdq1Mnyxv"
+      "duration_ms": 299892,
+      "name": "Our New Order",
+      "url": "https://open.spotify.com/track/71kdBwFjBFIMn4ZBsFOlYa"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -843,18 +827,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Tilting On Windmills",
-        "url": "https://open.spotify.com/album/0EUkYGPFu3duNURukbpleg"
+        "name": "Caisson",
+        "url": "https://open.spotify.com/album/6iRkzAQN5FmXmuoimn26q7"
       },
       "artists": [
         {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
+          "name": "Loscil",
+          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
         }
       ],
-      "duration_ms": 498065,
-      "name": "Tilting On Windmills",
-      "url": "https://open.spotify.com/track/7mvnU6KO4nC2C37BrbF4YL"
+      "duration_ms": 469333,
+      "name": "Caisson",
+      "url": "https://open.spotify.com/track/7CvIZIUj1wwT2Kdq1Mnyxv"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -871,6 +855,22 @@
       "duration_ms": 307546,
       "name": "Tangente",
       "url": "https://open.spotify.com/track/7CUePB3Lb3EMnNZEuQDMgN"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Tilting On Windmills",
+        "url": "https://open.spotify.com/album/0EUkYGPFu3duNURukbpleg"
+      },
+      "artists": [
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
+        }
+      ],
+      "duration_ms": 498065,
+      "name": "Tilting On Windmills",
+      "url": "https://open.spotify.com/track/7mvnU6KO4nC2C37BrbF4YL"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Auroras",
-        "url": "https://open.spotify.com/album/6STaRwLyivZTQosFvfYQnt"
-      },
-      "artists": [
-        {
-          "name": "Aeromancias",
-          "url": "https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw"
-        }
-      ],
-      "duration_ms": 154838,
-      "name": "Boreal",
-      "url": "https://open.spotify.com/track/4SfLJ0ZO8LTbrgxqNKnzys"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Sequences",
         "url": "https://open.spotify.com/album/0BhgTe2K6uO37VjJAtjD7B"
       },
@@ -1055,18 +1039,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "that day, on the beach",
-        "url": "https://open.spotify.com/album/5cL9c4WEeS33FzfbwYb4Ha"
+        "name": "Auroras",
+        "url": "https://open.spotify.com/album/6STaRwLyivZTQosFvfYQnt"
       },
       "artists": [
         {
-          "name": "Matt Kivel",
-          "url": "https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w"
+          "name": "Aeromancias",
+          "url": "https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw"
         }
       ],
-      "duration_ms": 151302,
-      "name": "memorial park",
-      "url": "https://open.spotify.com/track/4OoGwa6kp9TmsjXopMP5Yo"
+      "duration_ms": 154838,
+      "name": "Boreal",
+      "url": "https://open.spotify.com/track/4SfLJ0ZO8LTbrgxqNKnzys"
     },
     {
       "added_at": "2023-06-07 02:21:46",
@@ -1083,6 +1067,22 @@
       "duration_ms": 288000,
       "name": "Cosmic lake transparency - Original Mix",
       "url": "https://open.spotify.com/track/4beDadqk2att64FbvO3zvn"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "that day, on the beach",
+        "url": "https://open.spotify.com/album/5cL9c4WEeS33FzfbwYb4Ha"
+      },
+      "artists": [
+        {
+          "name": "Matt Kivel",
+          "url": "https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w"
+        }
+      ],
+      "duration_ms": 151302,
+      "name": "memorial park",
+      "url": "https://open.spotify.com/track/4OoGwa6kp9TmsjXopMP5Yo"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Solace",
-        "url": "https://open.spotify.com/album/4PL0vCcUTMBli1DuLJa8ge"
-      },
-      "artists": [
-        {
-          "name": "m.0",
-          "url": "https://open.spotify.com/artist/1Gc6C6mp22uQYKzXAZ6bme"
-        }
-      ],
-      "duration_ms": 401149,
-      "name": "Understanding",
-      "url": "https://open.spotify.com/track/2JXPq9pvPiQo2edh6ikySv"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Birthmark",
         "url": "https://open.spotify.com/album/3XTEDDQrax78NT8svV3tLj"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 189525,
       "name": "Birthmark",
       "url": "https://open.spotify.com/track/7COvUw2SjHzBsqbSqsx1On"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Solace",
+        "url": "https://open.spotify.com/album/4PL0vCcUTMBli1DuLJa8ge"
+      },
+      "artists": [
+        {
+          "name": "m.0",
+          "url": "https://open.spotify.com/artist/1Gc6C6mp22uQYKzXAZ6bme"
+        }
+      ],
+      "duration_ms": 401149,
+      "name": "Understanding",
+      "url": "https://open.spotify.com/track/2JXPq9pvPiQo2edh6ikySv"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Land III",
-        "url": "https://open.spotify.com/album/5HzaGyiK0jjF0zGILrZhmG"
-      },
-      "artists": [
-        {
-          "name": "Fax",
-          "url": "https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4"
-        },
-        {
-          "name": "Carmen Ruiz",
-          "url": "https://open.spotify.com/artist/6lT6X7ff95ucDbUfPkyZWB"
-        }
-      ],
-      "duration_ms": 284684,
-      "name": "Land III - Vocal Mix",
-      "url": "https://open.spotify.com/track/6UzWlTYOrLyRrBWjpwrehP"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Endlessness",
         "url": "https://open.spotify.com/album/0pHwRR0CdmJTwTU96ZCrIE"
       },
@@ -1283,6 +1263,26 @@
       "duration_ms": 199148,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/5lfY5qGSiGqpaVbkW3OCn9"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Land III",
+        "url": "https://open.spotify.com/album/5HzaGyiK0jjF0zGILrZhmG"
+      },
+      "artists": [
+        {
+          "name": "Fax",
+          "url": "https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4"
+        },
+        {
+          "name": "Carmen Ruiz",
+          "url": "https://open.spotify.com/artist/6lT6X7ff95ucDbUfPkyZWB"
+        }
+      ],
+      "duration_ms": 284684,
+      "name": "Land III - Vocal Mix",
+      "url": "https://open.spotify.com/track/6UzWlTYOrLyRrBWjpwrehP"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "A Biochemical Cascade",
-        "url": "https://open.spotify.com/album/6oeSCBHsgFScQbgtQIBcpt"
-      },
-      "artists": [
-        {
-          "name": "Yann Novak",
-          "url": "https://open.spotify.com/artist/6OWE5QBb8V4viSlZLjJv0w"
-        }
-      ],
-      "duration_ms": 514000,
-      "name": "A Biochemical Cascade",
-      "url": "https://open.spotify.com/track/4L3vsz9MxEZ5kMiT6U8Yrm"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Light Splitting",
         "url": "https://open.spotify.com/album/1amD8zqzlpSivemeUCIylU"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 261311,
       "name": "A Clear Path",
       "url": "https://open.spotify.com/track/3nGPxRTbi8628ZshMRjuQo"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "A Biochemical Cascade",
+        "url": "https://open.spotify.com/album/6oeSCBHsgFScQbgtQIBcpt"
+      },
+      "artists": [
+        {
+          "name": "Yann Novak",
+          "url": "https://open.spotify.com/artist/6OWE5QBb8V4viSlZLjJv0w"
+        }
+      ],
+      "duration_ms": 514000,
+      "name": "A Biochemical Cascade",
+      "url": "https://open.spotify.com/track/4L3vsz9MxEZ5kMiT6U8Yrm"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Mammatus",
-        "url": "https://open.spotify.com/album/6NZf1c6w62aoBAgaixdKD5"
-      },
-      "artists": [
-        {
-          "name": "Aatom",
-          "url": "https://open.spotify.com/artist/3jZNP1cGIr9jG32lxHUezh"
-        }
-      ],
-      "duration_ms": 234795,
-      "name": "Mammatus",
-      "url": "https://open.spotify.com/track/6giYnirz09CPhUuZpbUD9g"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Haust",
         "url": "https://open.spotify.com/album/7ylFmbJp3xHibLz9APxl69"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 301007,
       "name": "Haust",
       "url": "https://open.spotify.com/track/6HTQcwflvXohkWPTt6JYH4"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Mammatus",
+        "url": "https://open.spotify.com/album/6NZf1c6w62aoBAgaixdKD5"
+      },
+      "artists": [
+        {
+          "name": "Aatom",
+          "url": "https://open.spotify.com/artist/3jZNP1cGIr9jG32lxHUezh"
+        }
+      ],
+      "duration_ms": 234795,
+      "name": "Mammatus",
+      "url": "https://open.spotify.com/track/6giYnirz09CPhUuZpbUD9g"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Ambient 23",
-        "url": "https://open.spotify.com/album/5iXHMwhLzhDSs7e0WK4svQ"
+        "name": "Inner Rage",
+        "url": "https://open.spotify.com/album/3k7kOAsZhqLlIO0pouLde8"
       },
       "artists": [
         {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+          "name": "Edgar Mondrag\u00f3n",
+          "url": "https://open.spotify.com/artist/5I0dT5ftsahh9CXCvwWS0D"
         }
       ],
-      "duration_ms": 481906,
-      "name": "amb23 - 1",
-      "url": "https://open.spotify.com/track/1QRY2siHgU2LkwQWIGHcXz"
+      "duration_ms": 374679,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/71DKAvZJ4eDrFdtqGfxALd"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1675,18 +1675,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Inner Rage",
-        "url": "https://open.spotify.com/album/3k7kOAsZhqLlIO0pouLde8"
+        "name": "Amplitudes",
+        "url": "https://open.spotify.com/album/41je9hrZffgF9mq47cGiMk"
       },
       "artists": [
         {
-          "name": "Edgar Mondrag\u00f3n",
-          "url": "https://open.spotify.com/artist/5I0dT5ftsahh9CXCvwWS0D"
+          "name": "Tapes and Topographies",
+          "url": "https://open.spotify.com/artist/6rmx6yRqggZxsha4WKns43"
         }
       ],
-      "duration_ms": 374679,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/71DKAvZJ4eDrFdtqGfxALd"
+      "duration_ms": 328083,
+      "name": "Everyone is Far Away",
+      "url": "https://open.spotify.com/track/4fmMywOoOP53r34yowvadz"
     }
   ],
   "unique_name": "Exospheres",

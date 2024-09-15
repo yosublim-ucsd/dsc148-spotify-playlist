@@ -3021,6 +3021,24 @@
     },
     {
       "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/3iMXgxRFXEz8UfIFBYxGJ2"
+      },
+      "artists": [
+        {
+          "name": "Hudson Westbrook",
+          "url": "https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201211,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/0lgfKhIc7WUSdFrI2eGHSI"
+    },
+    {
+      "album": {
         "name": "Cody Hibbard",
         "url": "https://open.spotify.com/album/6xmxKXhPm7ZVISNoDsZo5K"
       },
@@ -8890,7 +8908,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 150572,
       "name": "Side of Goodbye",
       "url": "https://open.spotify.com/track/4qgbOxYNnvahjjZra6TSt7"
@@ -11356,7 +11374,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 157083,
       "name": "What's Left Of My Heart",
       "url": "https://open.spotify.com/track/4HFUJ38fn43mggSqrf04eZ"
@@ -12152,6 +12170,24 @@
       "duration_ms": 169013,
       "name": "Work Boots",
       "url": "https://open.spotify.com/track/1exnSf5fH7OBKDvxduf0LT"
+    },
+    {
+      "album": {
+        "name": "Worry is a Sickness",
+        "url": "https://open.spotify.com/album/3UDMgtZQoeXhbPqwUthAjf"
+      },
+      "artists": [
+        {
+          "name": "Ty Myers",
+          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254836,
+      "name": "Worry is a Sickness",
+      "url": "https://open.spotify.com/track/2gh1NyPkglSkDxNWE7DsAb"
     },
     {
       "album": {

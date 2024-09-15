@@ -1221,6 +1221,24 @@
     },
     {
       "album": {
+        "name": "Merrie Melodies (Songs From The Looney Tunes Show: Season Two)",
+        "url": "https://open.spotify.com/album/6ynsuIL1rJlsQseDnNvGFA"
+      },
+      "artists": [
+        {
+          "name": "Gossamer",
+          "url": "https://open.spotify.com/artist/3I4fQAQ8MgiQgm8CYLgsLK"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110480,
+      "name": "I Love to Sing-A",
+      "url": "https://open.spotify.com/track/5Bi3kM1ujFswxELWuJrGQ7"
+    },
+    {
+      "album": {
         "name": "Bugs Bunny at the Symphony",
         "url": "https://open.spotify.com/album/4Aq4wyLFrtmL1lHyivGM7U"
       },
@@ -1236,7 +1254,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 397533,
       "name": "I Love To Singa Medley",
       "url": "https://open.spotify.com/track/5eV5j7xDl6WivVpn1HTPa2"
@@ -1564,10 +1582,28 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 109345,
       "name": "Jingle Bells",
       "url": "https://open.spotify.com/track/5BiPKZ3JwuBTh4ZzFlIsEa"
+    },
+    {
+      "album": {
+        "name": "Rockabilly Christmas",
+        "url": "https://open.spotify.com/album/1mJdsGFjzT0mXl40lOaiTK"
+      },
+      "artists": [
+        {
+          "name": "Vel Mares",
+          "url": "https://open.spotify.com/artist/3ekxvk4BjnDM4abAjMMdkS"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112026,
+      "name": "Jingle Bells",
+      "url": "https://open.spotify.com/track/63IdGxvhFNLUTF0c1AYu3K"
     },
     {
       "album": {
@@ -2588,10 +2624,28 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 112193,
       "name": "Santa Claus",
       "url": "https://open.spotify.com/track/5lf0Bl45d237H27rHODN9q"
+    },
+    {
+      "album": {
+        "name": "Rockabilly Christmas",
+        "url": "https://open.spotify.com/album/1mJdsGFjzT0mXl40lOaiTK"
+      },
+      "artists": [
+        {
+          "name": "Jerry Clayton",
+          "url": "https://open.spotify.com/artist/1DdoCU0O89vGXhxVy39uZy"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114706,
+      "name": "Santa Claus",
+      "url": "https://open.spotify.com/track/4JYumgEjcYajupufPiAxj2"
     },
     {
       "album": {
@@ -2624,10 +2678,28 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 117217,
       "name": "Santa's Helper",
       "url": "https://open.spotify.com/track/7nsFctQij0emW7tzlrWGYk"
+    },
+    {
+      "album": {
+        "name": "Papa Ain't No Santa Clause, Mama Ain't No Christmas Tree",
+        "url": "https://open.spotify.com/album/1w5IX1EdD6LdZ8ZUh2k1r3"
+      },
+      "artists": [
+        {
+          "name": "Joe Poovey",
+          "url": "https://open.spotify.com/artist/6oooHoQD1XzETVJ7ZxU5Fz"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117813,
+      "name": "Santa's Helper",
+      "url": "https://open.spotify.com/track/70ZGtEnNstkl8rtu3xG8kV"
     },
     {
       "album": {

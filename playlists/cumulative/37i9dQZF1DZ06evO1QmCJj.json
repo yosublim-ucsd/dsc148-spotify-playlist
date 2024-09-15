@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-11",
-  "description": "This Is Lola Indigo. Los temas esenciales, todos en una lista.",
+  "description": "This is Lola Indigo. The essential tracks, all in one playlist.",
   "name": "This Is Lola Indigo",
   "tracks": [
     {
@@ -610,7 +610,7 @@
       ],
       "date_added": "2024-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-18",
+      "date_removed": null,
       "duration_ms": 193066,
       "name": "EL PANTALON - RUMBAS",
       "url": "https://open.spotify.com/track/5tt2V5NfowSz690MCLBlKO"
@@ -636,7 +636,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 193066,
       "name": "EL PANTALON - RUMBAS",
       "url": "https://open.spotify.com/track/7CsOowK8aWlxgjuZLW7pXA"
@@ -1250,6 +1250,24 @@
       "duration_ms": 160200,
       "name": "PARA OLVIDARME DE TI",
       "url": "https://open.spotify.com/track/35KAbrp0kn0kqjTVL7qHjE"
+    },
+    {
+      "album": {
+        "name": "PESADILLAS",
+        "url": "https://open.spotify.com/album/4IabA7t6hEqyzNiy00gDid"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "date_added": "2024-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195578,
+      "name": "PESADILLAS",
+      "url": "https://open.spotify.com/track/7HTReIcz7VKLyBWHpWqn5o"
     },
     {
       "album": {

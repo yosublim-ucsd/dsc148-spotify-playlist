@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-31",
-  "description": "This is Judas Priest. The essential tracks, all in one playlist.",
+  "description": "This is Judas Priest. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Judas Priest",
   "tracks": [
     {
@@ -1226,6 +1226,24 @@
       "duration_ms": 333533,
       "name": "Rock Hard Ride Free",
       "url": "https://open.spotify.com/track/5KQY3KDpQ3tO29W7iJNfFq"
+    },
+    {
+      "album": {
+        "name": "Rocka Rolla",
+        "url": "https://open.spotify.com/album/4qFmJ6JmYzINseZVQUS6Ra"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2024-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204865,
+      "name": "Rocka Rolla",
+      "url": "https://open.spotify.com/track/3tEsYuU9WAomyIpTSBEzyC"
     },
     {
       "album": {

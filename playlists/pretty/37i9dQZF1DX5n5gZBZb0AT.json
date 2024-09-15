@@ -1,6 +1,6 @@
 {
   "description": "all gains",
-  "num_followers": 872820,
+  "num_followers": 873074,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,26 @@
     {
       "added_at": "2024-05-08 15:21:25",
       "album": {
+        "name": "Mexican Phonk Eki",
+        "url": "https://open.spotify.com/album/1vQpZhp0nRdlUT4m2cgV4k"
+      },
+      "artists": [
+        {
+          "name": "NUEKI",
+          "url": "https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB"
+        },
+        {
+          "name": "TOLCHONOV",
+          "url": "https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4"
+        }
+      ],
+      "duration_ms": 98067,
+      "name": "Mexican Phonk Eki",
+      "url": "https://open.spotify.com/track/586x98q1tY2vlDlhN1BwQM"
+    },
+    {
+      "added_at": "2024-05-08 15:21:25",
+      "album": {
         "name": "RITMO DE TREINO",
         "url": "https://open.spotify.com/album/7kV5GsdeIupIcevrNDfFUz"
       },
@@ -511,26 +531,6 @@
       "duration_ms": 102923,
       "name": "RITMO DE TREINO",
       "url": "https://open.spotify.com/track/2pIC8fTfWwGjbo31YyNtzT"
-    },
-    {
-      "added_at": "2024-05-08 15:21:25",
-      "album": {
-        "name": "Mexican Phonk Eki",
-        "url": "https://open.spotify.com/album/1vQpZhp0nRdlUT4m2cgV4k"
-      },
-      "artists": [
-        {
-          "name": "NUEKI",
-          "url": "https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB"
-        },
-        {
-          "name": "TOLCHONOV",
-          "url": "https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4"
-        }
-      ],
-      "duration_ms": 98067,
-      "name": "Mexican Phonk Eki",
-      "url": "https://open.spotify.com/track/586x98q1tY2vlDlhN1BwQM"
     },
     {
       "added_at": "2024-05-08 15:21:25",

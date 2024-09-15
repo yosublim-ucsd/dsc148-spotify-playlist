@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,700 songs - 3 day 19 hr 22 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,701 songs - 3 day 19 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1708,5 +1708,6 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1698 | [Dear Grandma](https://open.spotify.com/track/6pY0MpqnjBESVuXYeXC7JQ) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx), [CODA](https://open.spotify.com/artist/1KT6ReUJlpsbGOptScmzDP) | [Dear Grandma](https://open.spotify.com/album/4eOzspNWLKorQmCYwB6UOo) | 3:42 |
 | 1699 | [Dirty Beat](https://open.spotify.com/track/0wB3VjJrLLhilTdH1JhVN5) | [Bumloco](https://open.spotify.com/artist/7aHh1erN0CVFVwDd7oG26M) | [Dirty Beat](https://open.spotify.com/album/6kA8XdcJ8LYn5oiwjsUC5J) | 2:43 |
 | 1700 | [Juice II](https://open.spotify.com/track/6DJVTMQq31bYvzNR441pMT) | [So Juice](https://open.spotify.com/artist/7MBMIGBbRcIAn4zZPOMNKR) | [Juice II EP](https://open.spotify.com/album/2jlH1CEKHzHMPmlDapyvNT) | 2:28 |
+| 1701 | [YOU AND I](https://open.spotify.com/track/3CmZLArSdppIyTGQiQkZjX) | [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa) | [YOU AND I](https://open.spotify.com/album/0Cl6QUemj8zkcm1oLdstuf) | 3:14 |
 
-Snapshot ID: `AAAG0TkD/ZYXOrxnIeIVO1fdm22VEHH1`
+Snapshot ID: `AAAG0hb02psyByCww24yiEDkBpf6zqQB`

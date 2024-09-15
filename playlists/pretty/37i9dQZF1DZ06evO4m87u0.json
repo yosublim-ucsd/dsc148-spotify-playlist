@@ -1,12 +1,12 @@
 {
-  "description": "This is The Black Keys. The essential tracks, all in one playlist.",
-  "num_followers": 286832,
+  "description": "This is The Black Keys. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 286859,
   "original_name": "This Is The Black Keys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuIvAAAAAADx2a12d5tq/DgUOZ5JR21c",
+  "snapshot_id": "ZuOAgAAAAABHc3h5JTuRe2rb6Z6cTpwK",
   "tracks": [
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Turn Blue",
-        "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
+        "name": "\"Let's Rock\"",
+        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 213226,
-      "name": "10 Lovers",
-      "url": "https://open.spotify.com/track/5HPnumlogzZtpLEaORZjz1"
+      "duration_ms": 178229,
+      "name": "Fire Walk With Me",
+      "url": "https://open.spotify.com/track/0UfkJ92b6D2CLHygzn8C6k"
     },
     {
       "added_at": null,
@@ -507,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Turn Blue",
+        "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 213226,
+      "name": "10 Lovers",
+      "url": "https://open.spotify.com/track/5HPnumlogzZtpLEaORZjz1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Big Come Up",
         "url": "https://open.spotify.com/album/4GcL493CWgWz5SVoxd7UIh"
       },
@@ -523,38 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\"Let's Rock\"",
-        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 178229,
-      "name": "Fire Walk With Me",
-      "url": "https://open.spotify.com/track/0UfkJ92b6D2CLHygzn8C6k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Turn Blue",
-        "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 222960,
-      "name": "Turn Blue",
-      "url": "https://open.spotify.com/track/1pwWrPxonLIE12WWu9NzgU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rubber Factory",
         "url": "https://open.spotify.com/album/1rlGDm1KQJfDyT5v1U8Xk5"
       },
@@ -567,22 +551,6 @@
       "duration_ms": 172093,
       "name": "Keep Me",
       "url": "https://open.spotify.com/track/5wGmaQYNYxJZrnWykQG3HF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Brothers",
-        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "She's Long Gone",
-      "url": "https://open.spotify.com/track/26ZnmGlPGXaOzPDydAP9D5"
     },
     {
       "added_at": null,
@@ -612,9 +580,25 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 268120,
-      "name": "In Time",
-      "url": "https://open.spotify.com/track/39e1gl7VaxuCev5ga7bvNq"
+      "duration_ms": 222960,
+      "name": "Turn Blue",
+      "url": "https://open.spotify.com/track/1pwWrPxonLIE12WWu9NzgU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "She's Long Gone",
+      "url": "https://open.spotify.com/track/26ZnmGlPGXaOzPDydAP9D5"
     },
     {
       "added_at": null,
@@ -639,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thickfreakness",
-        "url": "https://open.spotify.com/album/0GJH6shkenNdqkpGdsY8aa"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 228373,
-      "name": "Thickfreakness",
-      "url": "https://open.spotify.com/track/4m6uJViB1sb3OXErHUkkWk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\"Let's Rock\"",
         "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
       },
@@ -667,6 +635,38 @@
       "duration_ms": 160501,
       "name": "Sit Around And Miss You",
       "url": "https://open.spotify.com/track/4yBxXm4dDL00YGdO5G9ubK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Turn Blue",
+        "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 268120,
+      "name": "In Time",
+      "url": "https://open.spotify.com/track/39e1gl7VaxuCev5ga7bvNq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thickfreakness",
+        "url": "https://open.spotify.com/album/0GJH6shkenNdqkpGdsY8aa"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 228373,
+      "name": "Thickfreakness",
+      "url": "https://open.spotify.com/track/4m6uJViB1sb3OXErHUkkWk"
     },
     {
       "added_at": null,

@@ -447,6 +447,24 @@
     },
     {
       "album": {
+        "name": "Home Alone (Original Motion Picture Soundtrack) - Anniversary Edition",
+        "url": "https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85266,
+      "name": "Carol of the Bells",
+      "url": "https://open.spotify.com/track/4tHqQMWSqmL6YjXwsqthDI"
+    },
+    {
+      "album": {
         "name": "Carol of the Bells",
         "url": "https://open.spotify.com/album/5MJwxkGvLqvkoPcP0JbYC4"
       },
@@ -474,28 +492,6 @@
       "duration_ms": 129106,
       "name": "Carol of the Bells",
       "url": "https://open.spotify.com/track/2kQshpfW7a9Pj6BrVzgl63"
-    },
-    {
-      "album": {
-        "name": "Home Alone (Original Motion Picture Soundtrack) - Anniversary Edition",
-        "url": "https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY"
-      },
-      "artists": [
-        {
-          "name": "Mykola Dmytrovych Leontovych",
-          "url": "https://open.spotify.com/artist/6lBN3Tzt61u8i9AJoAhKzF"
-        },
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        }
-      ],
-      "date_added": "2023-12-08",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 85266,
-      "name": "Carol of the Bells",
-      "url": "https://open.spotify.com/track/4tHqQMWSqmL6YjXwsqthDI"
     },
     {
       "album": {

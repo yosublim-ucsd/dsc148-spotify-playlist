@@ -2049,6 +2049,24 @@
     },
     {
       "album": {
+        "name": "The Billy Fury Hit Parade",
+        "url": "https://open.spotify.com/album/6fRNMCvZ3lp5XOUvLTvPAx"
+      },
+      "artists": [
+        {
+          "name": "Billy Fury",
+          "url": "https://open.spotify.com/artist/7rtLZcKWGV4eaZsBwSKimf"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157333,
+      "name": "I'd Never Find Another You",
+      "url": "https://open.spotify.com/track/0mdCa3f0hJVCe02B54okhM"
+    },
+    {
+      "album": {
         "name": "Radio Luxembourg Sessions/The Sound Of Fury Demos",
         "url": "https://open.spotify.com/album/4GxeKxGHCCjTSLOn9nyoUi"
       },
@@ -2064,7 +2082,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 160693,
       "name": "I'd Never Find Another You",
       "url": "https://open.spotify.com/track/3NdGW143zQClqgvLN5OdPs"

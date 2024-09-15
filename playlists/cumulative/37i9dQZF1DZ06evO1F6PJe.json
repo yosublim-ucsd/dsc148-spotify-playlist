@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-06",
-  "description": "This is Joe Bonamassa. The essential tracks, all in one playlist.",
+  "description": "This is Joe Bonamassa. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Joe Bonamassa",
   "tracks": [
     {
@@ -2072,6 +2072,24 @@
       "duration_ms": 276309,
       "name": "Savannah",
       "url": "https://open.spotify.com/track/2gt07hYrmx6hnmxg1zwaT4"
+    },
+    {
+      "album": {
+        "name": "Scarlet Town",
+        "url": "https://open.spotify.com/album/3bDQzaW38BMWykUCiVrdFM"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2024-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 477238,
+      "name": "Scarlet Town",
+      "url": "https://open.spotify.com/track/1Kurxzp14RybdRiR31Ut3i"
     },
     {
       "album": {

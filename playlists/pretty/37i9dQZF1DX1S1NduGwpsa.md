@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: RAYE
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,333 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,384 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 3 | [My Future](https://open.spotify.com/track/6U47K1QjLeN3lcaWVb48SQ) | [Stella Cole](https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR) | [Stella Cole](https://open.spotify.com/album/4mH5g7GuW3KGMziYDMHMUx) | 3:21 |
 | 4 | [Sené](https://open.spotify.com/track/2CkKvzu4AmiZipQGRqxWy6) | [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY), [Lorenzo Bianchi Hoesch](https://open.spotify.com/artist/5vA57rzePpd4a6mejMCKvQ), [Emile Parisien](https://open.spotify.com/artist/0KYFSSpklRwCSM31sHD4s6) | [Sené](https://open.spotify.com/album/4CdJPdAgjzwMnx4L0bOhBV) | 6:34 |
 | 5 | [Delusions](https://open.spotify.com/track/3Oa2mEs79hevoyO8z2taA3) | [Aaron Parks](https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv) | [Delusions](https://open.spotify.com/album/5BWlMrfoZrYFwGugVUO85k) | 4:41 |
-| 6 | [NAVEGA \- Live at Union Chapel](https://open.spotify.com/track/62GylEoHLledwT6JkFn3Mx) | [Mayra Andrade](https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE) | [NAVEGA \(Live at Union Chapel\)](https://open.spotify.com/album/6ukCtzAgBbxTwJqUvW2WEJ) | 3:48 |
+| 6 | [NAVEGA \- Live at Union Chapel](https://open.spotify.com/track/62GylEoHLledwT6JkFn3Mx) | [Mayra Andrade](https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE) | [NAVEGA \- Live at Union Chapel](https://open.spotify.com/album/6ukCtzAgBbxTwJqUvW2WEJ) | 3:48 |
 | 7 | [Take It Higher](https://open.spotify.com/track/6LwlCtA2lARQe2Atz6v6Ly) | [Ashley Henry](https://open.spotify.com/artist/64bpQRbx4Nw2r7oIg1SAzw) | [Take It Higher](https://open.spotify.com/album/1v39mabJGNjblUNcqcwL0M) | 4:15 |
 | 8 | [The Smile of Rita](https://open.spotify.com/track/69SMAib2dFku6q4tzYLp20) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb) | [The Smile of Rita](https://open.spotify.com/album/1kLYvxNVrbZZo8BdhLoJkQ) | 5:01 |
 | 9 | [Summertime](https://open.spotify.com/track/5t9OXfSNOOc8F5JdO1OI6g) | [Avishai Cohen](https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l), [Roni Kaspi](https://open.spotify.com/artist/12mubYgIHWEtjzaEi41bv9), [Guy Moskovich](https://open.spotify.com/artist/3ayMZIWae6YcKu9kdj0pVK) | [Summertime](https://open.spotify.com/album/12pMtgGiB879imf4fnQj1I) | 4:23 |

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OdFBus1U8c.md) - [plain]
 
 > Set the bars high with Malayalam Hip Hop!<br/>Cover : Neeraj Madhav
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,736 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,904 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Eyy Banane](https://open.spotify.com/track/3K8t6RzlYZSCkVjI3kczzD) | [electronic kili](https://open.spotify.com/artist/6S9pxoEBK0Mczr3qE8H0GX), [Vinayak Sasikumar](https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS) | [Vaazha \- Original Motion Picture Soundtrack](https://open.spotify.com/album/5o8BwHw4pg8DZZzKGJocJx) | 4:30 |
 | 2 | [Manjaabi](https://open.spotify.com/track/28zlLbXJ0EyLJG0GI3JQ2U) | [M.H.R](https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g), [Efy Music](https://open.spotify.com/artist/1DDwkZwiamO6HSJdB6DtYY), [JOKER390P](https://open.spotify.com/artist/1IVjFQKbSitl1XikHLdxlW) | [Manjaabi](https://open.spotify.com/album/6SMtqT2P3YfPZ2BPq4TGJr) | 4:51 |
-| 3 | [Malabari Banger](https://open.spotify.com/track/0aXnTU90v6G1QVlimy0Kw8) | [M.H.R](https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g), [JOKER390P](https://open.spotify.com/artist/1IVjFQKbSitl1XikHLdxlW), [SA](https://open.spotify.com/artist/3eaS0SB97IZ1TVFv4XiTdm), [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc) | [Malabari Banger](https://open.spotify.com/album/4ttj4IiGCCeFImxIJ8b2Ap) | 4:06 |
+| 3 | [Malabari Banger](https://open.spotify.com/track/0aXnTU90v6G1QVlimy0Kw8) | [M.H.R](https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g), [JOKER390P](https://open.spotify.com/artist/1IVjFQKbSitl1XikHLdxlW), [SA](https://open.spotify.com/artist/6C2KYAOYKw2a8jnnNb6Ma3), [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc) | [Malabari Banger](https://open.spotify.com/album/4ttj4IiGCCeFImxIJ8b2Ap) | 4:06 |
 | 4 | [Kuthanthram \- Extended](https://open.spotify.com/track/4bWdEggTeY1184KQOYUeFS) | [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S), [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf) | [Manjummel Boys \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7HJZ57XsMHMgYsa7PpuZML) | 5:01 |
 | 5 | [Ballaatha Jaathi](https://open.spotify.com/track/1LBSyVTSeYbgBzV7AznMsN) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp), [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [BABY JEAN](https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b), [Rzee](https://open.spotify.com/artist/0JDjRH8br9CkytJV93g1Et) | [Ballaatha Jaathi](https://open.spotify.com/album/2lVMOwZzF8iqaPbO83XScW) | 3:50 |
 | 6 | [Arbab](https://open.spotify.com/track/4ManWRme0LIg5QDX06V1OY) | [Rish NK](https://open.spotify.com/artist/2W3jtBg0QranB8r6RZSUe5), [M.H.R](https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g) | [Arbab](https://open.spotify.com/album/4zFW5SKlDD2TkeGRKKEv2T) | 2:11 |

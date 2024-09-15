@@ -4,7 +4,7 @@
 
 > The hottest out the south\. Cover: Playboi Carti
 
-1,529 songs - 3 day 0 hr 31 min
+1,530 songs - 3 day 0 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -818,7 +818,7 @@
 | [MADE BY RICH GOD](https://open.spotify.com/track/24Qa5EPrnrbvHoiEfbzf02) | [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [MADE BY RICH GOD](https://open.spotify.com/album/5S9y8ypcsF1gncyr6fQ1mJ) | 1:54 | 2024-05-31 | 2024-06-08 |
 | [Made Me \(feat\. NoCap\)](https://open.spotify.com/track/3Vgihc6vWAzDroeW43oB6O) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Street Poetry](https://open.spotify.com/album/424KidkXx9YRSRIEqJwQzy) | 3:00 | 2022-03-04 | 2022-03-12 |
 | [MAFIA](https://open.spotify.com/track/08F16baYbciTva9P4BvpiI) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ESCAPE PLAN / MAFIA](https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve) | 4:00 | 2021-11-08 | 2022-01-15 |
-| [Mafia Bidnezzz](https://open.spotify.com/track/4pbzkHMzLvGQZELa3Zoi9W) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Mafia Bidnezzz](https://open.spotify.com/album/7x5JXpI8Uz3mvyMgJD8nut) | 1:51 | 2024-09-13 |  |
+| [Mafia Bidnezzz](https://open.spotify.com/track/4pbzkHMzLvGQZELa3Zoi9W) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Mafia Bidnezzz](https://open.spotify.com/album/7x5JXpI8Uz3mvyMgJD8nut) | 1:51 | 2024-09-13 | 2024-09-15 |
 | [Magic Don Juan \(Princess Diana\)](https://open.spotify.com/track/7pBcryEKcUEaWHwAu1wUyP) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:40 | 2024-03-22 | 2024-04-13 |
 | [Magic Johnson](https://open.spotify.com/track/2qttu4WQD8xQZ9DBXdp4L5) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [Valedictorian \[Deluxe\]](https://open.spotify.com/album/0HklW0u2UIH4rurxX6ML8q) | 2:17 | 2024-05-31 | 2024-06-08 |
 | [Magic Potion](https://open.spotify.com/track/1Zj9B6OHMCXs9ub0NL2ycj) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Magic Potion](https://open.spotify.com/album/0SerwPNkQt2DaMs5BOqzn5) | 2:01 | 2023-01-27 | 2023-03-04 |
@@ -1029,6 +1029,7 @@
 | [Passenger Princess \(Jibbitz\)](https://open.spotify.com/track/7G0MIYpMnZkEAg3cVjMPGd) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Stunna 4 Vegas](https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8) | [Passenger Princess \(Jibbitz\)](https://open.spotify.com/album/6UH4nolB5PbkBahuWxKkuZ) | 2:53 | 2024-09-13 |  |
 | [Passionfruit Lemonade!](https://open.spotify.com/track/2oaxUEugIcchrLkX32yiuP) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [You Never Was Mine](https://open.spotify.com/album/2uSzWk72wbQPnU8MG7agVp) | 2:03 | 2024-07-12 | 2024-07-19 |
 | [Passport Bros \(with J\. Cole\)](https://open.spotify.com/track/3Owi7BjAeziHBYS0gLvHTQ) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Passport Bros \(with J\. Cole\)](https://open.spotify.com/album/2oTvw7CyNOGw0ie3g6KnKe) | 2:44 | 2023-07-21 | 2023-07-29 |
+| [Passport Junkie](https://open.spotify.com/track/5ahdQDl9WGN9dNDDH0RKyJ) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Passport Junkie](https://open.spotify.com/album/7dzmFK2wNTKH6BGeaL20Fv) | 2:27 | 2024-09-14 |  |
 | [Patience \(feat\. Lil Baby\)](https://open.spotify.com/track/7ci1R1e89Zw0HumjHSN5XF) | [Bankroll Freddie](https://open.spotify.com/artist/20vLls6BmcHB0zEwpB91O2), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [From Trap To Rap 2](https://open.spotify.com/album/1tgH9psuYmcbLZPMX6yFAO) | 2:41 | 2022-07-29 | 2022-10-08 |
 | [Patty Cake \(feat\. Takeoff\)](https://open.spotify.com/track/485mSqbTvp0pdiK0UW2wbt) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [Rocket Power](https://open.spotify.com/album/0HRZ0CldV3tp7U2sTomtIf) | 2:13 | 2023-08-18 | 2023-08-26 |
 | [PBC](https://open.spotify.com/track/4DDiIZDlRldzWuCp47TIhU) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [PBC](https://open.spotify.com/album/06IJHrNnxOYwvOjT3RBl0i) | 2:34 | 2022-02-25 | 2022-03-12 |

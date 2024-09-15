@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6nwj9J2RnE.md) - [plain]
 
 > edgy en met karakter\. cover: YVES
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,230 likes - 40 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,229 likes - 40 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Safari](https://open.spotify.com/track/63m0FSZlrlvZsw4NqC2ZJA) | [YVES](https://open.spotify.com/artist/4QjFiRcZUcXUppYUR29MuQ) | [Safari](https://open.spotify.com/album/6Ls71z8Zwbzw6zMwxWkv2a) | 3:06 |
+| 1 | [Safari](https://open.spotify.com/track/63m0FSZlrlvZsw4NqC2ZJA) | [YVES](https://open.spotify.com/artist/4QjFiRcZUcXUppYUR29MuQ), [SHY](https://open.spotify.com/artist/3fF2BjyWjC59uxRfpuqXMt) | [Safari](https://open.spotify.com/album/6Ls71z8Zwbzw6zMwxWkv2a) | 3:06 |
 | 2 | [Begrijpen](https://open.spotify.com/track/6KQa90WZ8CYiurAmAULQ2A) | [Fresku](https://open.spotify.com/artist/5m1cLmgZIfEYPLejhLFR10) | [Begrijpen](https://open.spotify.com/album/0Uc96KfRENg7XxjYbntHfd) | 3:16 |
 | 3 | [Cherry Jenna](https://open.spotify.com/track/0h24UrPhMr4JfpedGFYCJ7) | [ISAÏ](https://open.spotify.com/artist/3h1ZRtE1YF2RpDeOm5unL2) | [Cherry Jenna](https://open.spotify.com/album/2VHfRNDamToZvkCwOJPJeX) | 2:41 |
 | 4 | [Scherpe Knuffels](https://open.spotify.com/track/6617xQW6elVgqDInCMI1wu) | [NAVARONE COLE](https://open.spotify.com/artist/1G3G1fCNjBgR3OwTmj2QHb) | [Scherpe Knuffels](https://open.spotify.com/album/0anx93DQrlfeKHUrghM61f) | 2:40 |

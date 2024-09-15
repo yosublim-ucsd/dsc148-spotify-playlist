@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuIvAAAAAABn2CtyGLtCdIVmnTC//QsB",
+  "snapshot_id": "ZuOAgAAAAACl9GsO9Re8tQlSPIbYHoKg",
   "tracks": [
     {
       "added_at": null,
@@ -235,6 +235,22 @@
       "duration_ms": 145674,
       "name": "Cautiously Optimistic",
       "url": "https://open.spotify.com/track/5DnCw5nWO9DnDIAhn96gx2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "poltergeist",
+        "url": "https://open.spotify.com/album/6sQBSsvaj7A5RLXq1Mc3aG"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 153777,
+      "name": "poltergeist",
+      "url": "https://open.spotify.com/track/3xl8e3MwYxHfu89GsjJp2K"
     },
     {
       "added_at": null,

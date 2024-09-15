@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvIwPsyNnKl.md) - [plain]
 
 > The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: ALLMO$T
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,219,536 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,220,152 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvIwPsyNnKl.md) - [plain]
 | 49 | [Ganun Talaga](https://open.spotify.com/track/7nwD00jIeBrnS0Ay9abC4T) | [1096 Gang](https://open.spotify.com/artist/1HkpK55jsORzgtOURbOeQH) | [Ganun Talaga](https://open.spotify.com/album/0egGF5IBQDYkzc74NLDqwf) | 3:49 |
 | 50 | [Head Honcho](https://open.spotify.com/track/7GXOXYdU950eRvk5rUAE8F) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Ez Mil](https://open.spotify.com/artist/1IQ4CjwKkdARjL5KtYiMt4) | [The Death of Slim Shady \(Coup De Grâce\)](https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6) | 3:54 |
 
-Snapshot ID: `ZuFTHwAAAACTCQ9VzbHhfycDohPGMOUT`
+Snapshot ID: `ZuFTHwAAAAC9ENG6vfbAtY/zWqz7bXkS`

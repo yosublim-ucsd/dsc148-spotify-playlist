@@ -4,7 +4,7 @@
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound.
 
-194 songs - 11 hr 23 min
+195 songs - 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,12 +72,13 @@
 | [FRESH AND NEW](https://open.spotify.com/track/6jkkBQC3drJYtL03cl6vS3) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK), [Frisco](https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw) | [FRESH AND NEW](https://open.spotify.com/album/6y5eGkaWm3HPeuMi8P7fiy) | 2:25 | 2024-07-05 |  |
 | [Friday Nights](https://open.spotify.com/track/4QQsSlu26MlInYyO9jXusj) | [EV](https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX) | [Friday Nights](https://open.spotify.com/album/0NhGRpBH1IEt6BQ69QSFDZ) | 3:25 | 2024-01-03 | 2024-05-11 |
 | [Girls Like You](https://open.spotify.com/track/6sYgR77BllMDNXYRY1PxVB) | [Cortese](https://open.spotify.com/artist/60Fn82pTq3Z4vyJPgBjH77), [Emma Cannon](https://open.spotify.com/artist/5lImHD87PNxK8nA7mGRRSN) | [Girls Like You](https://open.spotify.com/album/7qNTaqipmaWESVIFLLAX4p) | 4:26 | 2022-11-25 | 2024-02-09 |
-| [Givemeafeeling](https://open.spotify.com/track/0NVBRjhjjf7gFtlDW8uRKX) | [FINNfm](https://open.spotify.com/artist/0WRoMuHi5PCTTgFoW2BonE) | [Givemeafeeling](https://open.spotify.com/album/5Y65dlZF1POx8ynO3ItTka) | 3:06 | 2023-11-17 |  |
+| [Givemeafeeling](https://open.spotify.com/track/0NVBRjhjjf7gFtlDW8uRKX) | [FINNfm](https://open.spotify.com/artist/0WRoMuHi5PCTTgFoW2BonE) | [Givemeafeeling](https://open.spotify.com/album/5Y65dlZF1POx8ynO3ItTka) | 3:06 | 2023-11-17 | 2024-09-15 |
 | [Gunman](https://open.spotify.com/track/581XtO5wVBE75sIbhsi3E2) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y) | [ATW007](https://open.spotify.com/album/5vWIMn3AuJsvAZoOQe0CQk) | 3:31 | 2024-09-05 |  |
 | [Heavy](https://open.spotify.com/track/3WPrjsHFgOMAkjHB0G6fe6) | [Leila McKenzie](https://open.spotify.com/artist/0bCEQkLomEgAbRwJu2p9aF), [Happy Cat Jay](https://open.spotify.com/artist/01O6JMBezb5PN1Y1P5RTM6) | [Heavy](https://open.spotify.com/album/0PvyqBQvzdeWUar4hQUMlD) | 2:43 | 2022-11-25 | 2023-06-03 |
 | [Heavy Lovers](https://open.spotify.com/track/1N6iBHbVhJfb941mhLhALL) | [Y U QT](https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV) | [Heavy Lovers](https://open.spotify.com/album/5UGlhyNDMoEmLFI4Piul5m) | 6:58 | 2022-11-25 | 2024-05-11 |
 | [Henney & Coke](https://open.spotify.com/track/4GhHZmuz8WBif4eoHExyxi) | [Deadly Habitz](https://open.spotify.com/artist/5E0HN7sUup8JieEBZyO1sy) | [Lost City Archives, Vol\. 7](https://open.spotify.com/album/6lJ2oCvaXjbDRKrY1ZBSZp) | 4:05 | 2023-03-23 | 2024-06-01 |
 | [Hideout](https://open.spotify.com/track/1YHffsSjHbAFAsvwCD3U8A) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV) | [Hideout](https://open.spotify.com/album/2VCF6Pjwg0KAiCO5OlPP5N) | 3:08 | 2022-11-25 | 2024-01-04 |
+| [High \- MJ Cole Remix](https://open.spotify.com/track/0HLTkJFrnw319gmtA0Kh7W) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [High \- MJ Cole Remix](https://open.spotify.com/album/1m4ioXqEmxumANUTZnwMY0) | 3:12 | 2024-09-12 |  |
 | [Higher](https://open.spotify.com/track/6dRBgY551j2akEK2nkGXH8) | [Groovy D](https://open.spotify.com/artist/43iAneSLd8xkYP6lgczDIZ), [Anna Straker](https://open.spotify.com/artist/4irCZ5mqRsmTXEEbMvO2VZ), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Higher](https://open.spotify.com/album/03AEImI6IHDgVIiTuoD80h) | 4:48 | 2023-01-24 | 2023-02-13 |
 | [Higher \- Prozak Remix](https://open.spotify.com/track/4IE8Z3TFLU4K0rL7YsO5ER) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98), [Prozak](https://open.spotify.com/artist/1cFxOHBhTZDQuzNaIvzBel) | [Higher \(Prozak Remix\)](https://open.spotify.com/album/3fJ3Gf8ERWsUBL0H9NBZUp) | 4:29 | 2024-08-22 |  |
 | [hold on](https://open.spotify.com/track/40o7MmYto4JMsbRzVl514p) | [The Sanctuary](https://open.spotify.com/artist/3c7DW1zmCGBdgHy8HllzV2) | [hold on](https://open.spotify.com/album/2LxT6O6x3iPHYEcZ2qxfCQ) | 3:28 | 2022-11-25 | 2023-09-01 |

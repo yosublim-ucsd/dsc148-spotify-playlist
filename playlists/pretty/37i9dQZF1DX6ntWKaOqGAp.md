@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: BUMP OF CHICKEN
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,963 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,983 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 99 | [in the pocket](https://open.spotify.com/track/7cSnylYfrW2vho71jk52EC) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [in the pocket](https://open.spotify.com/album/7og4SwTc07Zan2RHIi0ufr) | 4:51 |
 | 100 | [NO FUTURE じゃいられない](https://open.spotify.com/track/7M1WNMttGs12kksFHM08Qg) | [The 50kaitenz](https://open.spotify.com/artist/4GmNxe3dmkeaW9yjxJlqxG) | [NO FUTURE じゃいられない](https://open.spotify.com/album/5P82m1bBStmR9wLouJbLRP) | 3:22 |
 
-Snapshot ID: `ZuMRPwAAAABHtzcox1LdQOJk1fGy4y3J`
+Snapshot ID: `ZuMRPwAAAAAhzSfKXt3nZ1mMSA4pQYgs`

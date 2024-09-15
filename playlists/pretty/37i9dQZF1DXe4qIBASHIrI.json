@@ -1,6 +1,6 @@
 {
   "description": "Los temas esenciales de la escena independiente nacional. Furland en portada. ",
-  "num_followers": 157848,
+  "num_followers": 157889,
   "original_name": "Indie Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
@@ -227,8 +227,8 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Donde los Ponys Pastan",
-        "url": "https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx"
+        "name": "Atemahawke",
+        "url": "https://open.spotify.com/album/1GMQtHzZ4lpTYmJgNzALHh"
       },
       "artists": [
         {
@@ -236,9 +236,9 @@
           "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
         }
       ],
-      "duration_ms": 322013,
-      "name": "Espiral",
-      "url": "https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS"
+      "duration_ms": 260466,
+      "name": "Host of a Ghost",
+      "url": "https://open.spotify.com/track/0HTFDQQb7auJ2dZwXtPK5e"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -379,8 +379,8 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Atemahawke",
-        "url": "https://open.spotify.com/album/1GMQtHzZ4lpTYmJgNzALHh"
+        "name": "Donde los Ponys Pastan",
+        "url": "https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
         }
       ],
-      "duration_ms": 260466,
-      "name": "Host of a Ghost",
-      "url": "https://open.spotify.com/track/0HTFDQQb7auJ2dZwXtPK5e"
+      "duration_ms": 322013,
+      "name": "Espiral",
+      "url": "https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Norte",
-        "url": "https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        }
-      ],
-      "duration_ms": 295800,
-      "name": "Pesadilla",
-      "url": "https://open.spotify.com/track/2jRdBWjexlkEjQNjl6huoM"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Elevator",
         "url": "https://open.spotify.com/album/2C2nZrvhfYm06xbhrUjjl9"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 277800,
       "name": "Corazon",
       "url": "https://open.spotify.com/track/16UE8ZYzWC2tTA4EmIM58B"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Norte",
+        "url": "https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 295800,
+      "name": "Pesadilla",
+      "url": "https://open.spotify.com/track/2jRdBWjexlkEjQNjl6huoM"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Norte",
-        "url": "https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        }
-      ],
-      "duration_ms": 285247,
-      "name": "Berl\u00edn",
-      "url": "https://open.spotify.com/track/4z55q1ocJQOiSwkFQAdUFO"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Rey Pila",
         "url": "https://open.spotify.com/album/1TqxGOWXOg9ds7mQicRSWS"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 212014,
       "name": "Un A\u00f1o Quebrado",
       "url": "https://open.spotify.com/track/5v6luZrMK75XQ8Kj64qklf"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Norte",
+        "url": "https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 285247,
+      "name": "Berl\u00edn",
+      "url": "https://open.spotify.com/track/4z55q1ocJQOiSwkFQAdUFO"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Lluvia",
-        "url": "https://open.spotify.com/album/07g3BVeM6QhWXfdLvRLlvy"
-      },
-      "artists": [
-        {
-          "name": "Baltazar",
-          "url": "https://open.spotify.com/artist/3bCoSxfUHJwe7ztAkZN7NW"
-        }
-      ],
-      "duration_ms": 254889,
-      "name": "Lluvia",
-      "url": "https://open.spotify.com/track/2I9OiNVmN2VyRXyd6b3iXI"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Levantate Sakuraba",
         "url": "https://open.spotify.com/album/1Qbmbt6pxdVfgX8mwCeHGS"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 213626,
       "name": "Chubaca Tiene un Secreto",
       "url": "https://open.spotify.com/track/7KhY4LpnabTWYCoShC9k0Z"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Lluvia",
+        "url": "https://open.spotify.com/album/07g3BVeM6QhWXfdLvRLlvy"
+      },
+      "artists": [
+        {
+          "name": "Baltazar",
+          "url": "https://open.spotify.com/artist/3bCoSxfUHJwe7ztAkZN7NW"
+        }
+      ],
+      "duration_ms": 254889,
+      "name": "Lluvia",
+      "url": "https://open.spotify.com/track/2I9OiNVmN2VyRXyd6b3iXI"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1579,26 +1579,18 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Si No Vas a Ser T\u00fa",
-        "url": "https://open.spotify.com/album/4gaVr59Phf6qtOHIGe12Bk"
+        "name": "Gazapo",
+        "url": "https://open.spotify.com/album/52KdB5pIsS20pJ7XdsneFT"
       },
       "artists": [
         {
-          "name": "Young Tender",
-          "url": "https://open.spotify.com/artist/19g2jApswUTCNqXFxx2lAx"
-        },
-        {
-          "name": "Los Blenders",
-          "url": "https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai"
-        },
-        {
-          "name": "She's A Tease",
-          "url": "https://open.spotify.com/artist/1Vv6KQLygM1XDyikIMaN9W"
+          "name": "Belafonte Sensacional",
+          "url": "https://open.spotify.com/artist/6GzJDY171oHEEUgvoais06"
         }
       ],
-      "duration_ms": 229225,
-      "name": "Si No Vas a Ser T\u00fa",
-      "url": "https://open.spotify.com/track/2vLFK4t0KQwNVQvnjGuMb8"
+      "duration_ms": 228010,
+      "name": "Valedor",
+      "url": "https://open.spotify.com/track/4OPMjEVvcoAOGu3XaB6nzd"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1635,18 +1627,18 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Gazapo",
-        "url": "https://open.spotify.com/album/52KdB5pIsS20pJ7XdsneFT"
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/0eNxFw87IuvCA01UpYYp4X"
       },
       "artists": [
         {
-          "name": "Belafonte Sensacional",
-          "url": "https://open.spotify.com/artist/6GzJDY171oHEEUgvoais06"
+          "name": "Sol Flamingo",
+          "url": "https://open.spotify.com/artist/2Ya7gUo3eaJQy56EZHOIhr"
         }
       ],
-      "duration_ms": 228010,
-      "name": "Valedor",
-      "url": "https://open.spotify.com/track/4OPMjEVvcoAOGu3XaB6nzd"
+      "duration_ms": 218060,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/3fa70p1SE2URA6Uf7EMI6c"
     }
   ],
   "unique_name": "Indie Mexicano: Cl\u00e1sicos",

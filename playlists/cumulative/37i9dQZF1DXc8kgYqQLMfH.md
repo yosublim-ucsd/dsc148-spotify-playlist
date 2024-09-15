@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,187 songs - 1 day 21 hr 13 min
+1,188 songs - 1 day 21 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,6 +283,7 @@
 | [Drifting](https://open.spotify.com/track/1wr8Q5WOf1VHvIW2XlJ6WS) | [CRFT](https://open.spotify.com/artist/4rwCk3DZwQa8uY7Cvfu4aM), [wowflower](https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU), [The Field Tapes](https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym) | [Drifting](https://open.spotify.com/album/5f5B4R0ddtk11JjCNpWPeY) | 2:02 | 2023-09-29 |  |
 | [Drifting](https://open.spotify.com/track/1mPjpQZdd5H4wvb4ZQ98Fm) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU), [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Yasper](https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt) | [Drifting](https://open.spotify.com/album/1DUBPVEvAeWMvG663pp5Qc) | 2:27 | 2021-11-10 | 2022-07-29 |
 | [Drifting](https://open.spotify.com/track/6sQEOXvW9JyMiihWyCZv1E) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Drifting](https://open.spotify.com/album/00mz7xgsCHhPWtpJmHmr9U) | 2:00 | 2023-02-17 |  |
+| [Drifting](https://open.spotify.com/track/0CCvZTfKcwHvC1oiNqfxrJ) | [Skeptika](https://open.spotify.com/artist/34yxdeDhSnUVmM0DZcExpT), [wavvzz](https://open.spotify.com/artist/33tg0cH66APhaWirPjOXEu), [Baen Mow](https://open.spotify.com/artist/2mt3wR9B4tg9KXvICFYhqM) | [Drifting](https://open.spotify.com/album/0ti1e5rTEzrzxqR5lXftEg) | 2:09 | 2024-09-13 |  |
 | [Drifting](https://open.spotify.com/track/3hzuW73077GPScFT8IELkX) | [Van El](https://open.spotify.com/artist/2kBXWpkCBsooA31kqTFuog), [Snazzy](https://open.spotify.com/artist/7lDQhKVaKvuNDftiiZVrYy), [morningtime](https://open.spotify.com/artist/7xwOP2sBEig4hhduDiYwHS) | [Drifting](https://open.spotify.com/album/6RW0gLcKjJMKa2DaI0EfvT) | 2:09 | 2022-07-22 | 2022-07-29 |
 | [Drifting Away](https://open.spotify.com/track/0WejHNxPNp7yenziyF8pqN) | [Smith Beats](https://open.spotify.com/artist/5HHXSrUf66808GVDTVmH1u) | [Drifting Away](https://open.spotify.com/album/5ngdtd2IOVku7OWA5q4V9G) | 2:15 | 2022-10-28 | 2023-04-28 |
 | [Drifts](https://open.spotify.com/track/6dVh5O3D90UCCHQdiecG6H) | [Dee\-Bee](https://open.spotify.com/artist/1XGiDqRs3GlALVKBFMyeeJ), [Calmas Records](https://open.spotify.com/artist/3xHHNJkwyots8LoDMxGD9k) | [Drifts](https://open.spotify.com/album/549V4q9YaZzdC1yVwuf1j6) | 1:48 | 2022-04-15 | 2023-09-16 |
@@ -755,7 +756,7 @@
 | [NS\-10M](https://open.spotify.com/track/4PQmzve7LIaJ5IVr64bemX) | [Clique Epique](https://open.spotify.com/artist/42s4wWqRaDFw25sMxt0FsT) | [NS\-10M](https://open.spotify.com/album/0T41HfuaZn1KlgucVAf8rx) | 2:21 | 2021-11-10 | 2022-05-27 |
 | [nubes](https://open.spotify.com/track/5ekYOmFPM44ltEgnJqcGcM) | [Claptu](https://open.spotify.com/artist/3rLOKzrmb7njqRKYSJgfY7), [fnonose](https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q) | [nubes](https://open.spotify.com/album/2RUGz3g25tIFe3pIxEQArr) | 2:42 | 2022-06-24 | 2022-07-29 |
 | [Nurtured Nature](https://open.spotify.com/track/2oZ7cCFzBa7z31KpZc56Be) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Alltid](https://open.spotify.com/album/0sizWPUvbr4jWzDeGowcHb) | 2:03 | 2023-01-13 |  |
-| [NY Breeze](https://open.spotify.com/track/5I51wS8eZm9sOHraU2jfZw) | [jomc](https://open.spotify.com/artist/4df3SkmhkfRbymFC0O93Nv) | [NY Breeze](https://open.spotify.com/album/1gbWnTRxPsh5cev8YSmAf7) | 1:54 | 2022-10-28 |  |
+| [NY Breeze](https://open.spotify.com/track/5I51wS8eZm9sOHraU2jfZw) | [jomc](https://open.spotify.com/artist/4df3SkmhkfRbymFC0O93Nv) | [NY Breeze](https://open.spotify.com/album/1gbWnTRxPsh5cev8YSmAf7) | 1:54 | 2022-10-28 | 2024-09-15 |
 | [oase](https://open.spotify.com/track/3q0ggMvQOe73GnUDY3nkhK) | [Happy Tobi](https://open.spotify.com/artist/1GyfVIZcP7PfEgpNnars9N) | [oase](https://open.spotify.com/album/542M7FTx3gAU7B9qaVnZ3f) | 1:12 | 2022-05-13 | 2022-06-10 |
 | [oblivion](https://open.spotify.com/track/4R2kOSRbf4gCFAFkebVmSG) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [oblivion](https://open.spotify.com/album/3kO3AwdvdYmpheRIATwD5I) | 1:43 | 2021-11-10 | 2022-07-29 |
 | [Oblivious](https://open.spotify.com/track/6JGRktSYyPOqIlUqxuEKQD) | [Late Night Tones](https://open.spotify.com/artist/52wkMMF7s4aXTW4WYKvKmC), [nate2timez](https://open.spotify.com/artist/0vABYweyJunNI8gFdnxXps) | [Oblivious](https://open.spotify.com/album/3W0zN0qXJxk0Syqim6RQuV) | 1:57 | 2022-12-16 | 2023-04-28 |

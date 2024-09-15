@@ -1,6 +1,6 @@
 {
   "description": "Yo Hai Haryanvi Hip-Hop! Cover: Dhanda Nyoliwala",
-  "num_followers": 39081,
+  "num_followers": 39143,
   "original_name": "Hip-Hop Haryanvi",
   "owner": {
     "name": "Spotify",
@@ -175,26 +175,6 @@
     {
       "added_at": "2024-09-13 16:08:35",
       "album": {
-        "name": "Rao Sahab Drill",
-        "url": "https://open.spotify.com/album/2ojtH1aQvxc6UEiDzlHejo"
-      },
-      "artists": [
-        {
-          "name": "Vkey",
-          "url": "https://open.spotify.com/artist/1BY7PxVLvuV63Ds9iPVXss"
-        },
-        {
-          "name": "SDEE",
-          "url": "https://open.spotify.com/artist/302ztHnZGveCVIu1cW9awZ"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Rao Sahab Drill",
-      "url": "https://open.spotify.com/track/0iiX5o434i4xb49x4LluyR"
-    },
-    {
-      "added_at": "2024-09-13 16:08:35",
-      "album": {
         "name": "GLORY",
         "url": "https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9"
       },
@@ -239,22 +219,6 @@
     {
       "added_at": "2024-09-13 16:08:35",
       "album": {
-        "name": "Block",
-        "url": "https://open.spotify.com/album/7Lf1Vng4s2wSghiTNz9dqI"
-      },
-      "artists": [
-        {
-          "name": "Dhanda Nyoliwala",
-          "url": "https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb"
-        }
-      ],
-      "duration_ms": 204066,
-      "name": "Block",
-      "url": "https://open.spotify.com/track/0XzK73hl9PBxh01JpYaqdn"
-    },
-    {
-      "added_at": "2024-09-13 16:08:35",
-      "album": {
         "name": "HMM",
         "url": "https://open.spotify.com/album/1appD8E7s8Zuju8u0NrQDi"
       },
@@ -271,6 +235,42 @@
       "duration_ms": 184000,
       "name": "HMM",
       "url": "https://open.spotify.com/track/1vGFCl9e0zVpFSl2K8oOGZ"
+    },
+    {
+      "added_at": "2024-09-13 16:08:35",
+      "album": {
+        "name": "Block",
+        "url": "https://open.spotify.com/album/7Lf1Vng4s2wSghiTNz9dqI"
+      },
+      "artists": [
+        {
+          "name": "Dhanda Nyoliwala",
+          "url": "https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb"
+        }
+      ],
+      "duration_ms": 204066,
+      "name": "Block",
+      "url": "https://open.spotify.com/track/0XzK73hl9PBxh01JpYaqdn"
+    },
+    {
+      "added_at": "2024-09-13 16:08:35",
+      "album": {
+        "name": "Rao Sahab Drill",
+        "url": "https://open.spotify.com/album/2ojtH1aQvxc6UEiDzlHejo"
+      },
+      "artists": [
+        {
+          "name": "Vkey",
+          "url": "https://open.spotify.com/artist/1BY7PxVLvuV63Ds9iPVXss"
+        },
+        {
+          "name": "SDEE",
+          "url": "https://open.spotify.com/artist/302ztHnZGveCVIu1cW9awZ"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Rao Sahab Drill",
+      "url": "https://open.spotify.com/track/0iiX5o434i4xb49x4LluyR"
     },
     {
       "added_at": "2024-09-13 16:08:35",
@@ -389,7 +389,7 @@
         },
         {
           "name": "Bulbul",
-          "url": "https://open.spotify.com/artist/74AoG8xO3Qrx0iJvsAu0bj"
+          "url": "https://open.spotify.com/artist/6wmebcPt18hHbgbyniTBmo"
         }
       ],
       "duration_ms": 184888,
@@ -707,26 +707,6 @@
     {
       "added_at": "2024-09-13 16:08:35",
       "album": {
-        "name": "Western Up",
-        "url": "https://open.spotify.com/album/59eweM489JYi1Lseo4Wx8k"
-      },
-      "artists": [
-        {
-          "name": "Eshan Bhati",
-          "url": "https://open.spotify.com/artist/2wjfEAuQR3ymFMZhyo7aBf"
-        },
-        {
-          "name": "Ajitesh",
-          "url": "https://open.spotify.com/artist/2QflLKBdw8HuzSNVCuIFE3"
-        }
-      ],
-      "duration_ms": 181995,
-      "name": "Western Up",
-      "url": "https://open.spotify.com/track/0tUTTFuPwxeA3FJzNwxEO5"
-    },
-    {
-      "added_at": "2024-09-13 16:08:35",
-      "album": {
         "name": "Bagdadi",
         "url": "https://open.spotify.com/album/54VGUtzXIowOk9m3NPOCpW"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 170526,
       "name": "Bagdadi",
       "url": "https://open.spotify.com/track/56kDXRd6Yy2w7034LaOwJN"
+    },
+    {
+      "added_at": "2024-09-13 16:08:35",
+      "album": {
+        "name": "Western Up",
+        "url": "https://open.spotify.com/album/59eweM489JYi1Lseo4Wx8k"
+      },
+      "artists": [
+        {
+          "name": "Eshan Bhati",
+          "url": "https://open.spotify.com/artist/2wjfEAuQR3ymFMZhyo7aBf"
+        },
+        {
+          "name": "Ajitesh",
+          "url": "https://open.spotify.com/artist/2QflLKBdw8HuzSNVCuIFE3"
+        }
+      ],
+      "duration_ms": 181995,
+      "name": "Western Up",
+      "url": "https://open.spotify.com/track/0tUTTFuPwxeA3FJzNwxEO5"
     },
     {
       "added_at": "2024-09-13 16:08:35",
@@ -1035,6 +1035,26 @@
     {
       "added_at": "2024-09-13 16:08:35",
       "album": {
+        "name": "Number Plate",
+        "url": "https://open.spotify.com/album/3najCBsi5OB1mwg3pTVfm5"
+      },
+      "artists": [
+        {
+          "name": "Sahil Dhull",
+          "url": "https://open.spotify.com/artist/1YhZbHSLY4DwUzlennljq8"
+        },
+        {
+          "name": "Shine",
+          "url": "https://open.spotify.com/artist/0tSuiGWMqg0KzeweQKeiIM"
+        }
+      ],
+      "duration_ms": 177857,
+      "name": "Number Plate",
+      "url": "https://open.spotify.com/track/7nNxDOSyABffGcaehhncXG"
+    },
+    {
+      "added_at": "2024-09-13 16:08:35",
+      "album": {
         "name": "Been",
         "url": "https://open.spotify.com/album/4YGwBcyeLlawZd9QYg21Xg"
       },
@@ -1059,26 +1079,6 @@
       "duration_ms": 184000,
       "name": "Been",
       "url": "https://open.spotify.com/track/4hs1cApFZPa3OeVgwqt0eG"
-    },
-    {
-      "added_at": "2024-09-13 16:08:35",
-      "album": {
-        "name": "Number Plate",
-        "url": "https://open.spotify.com/album/3najCBsi5OB1mwg3pTVfm5"
-      },
-      "artists": [
-        {
-          "name": "Sahil Dhull",
-          "url": "https://open.spotify.com/artist/1YhZbHSLY4DwUzlennljq8"
-        },
-        {
-          "name": "Shine",
-          "url": "https://open.spotify.com/artist/0tSuiGWMqg0KzeweQKeiIM"
-        }
-      ],
-      "duration_ms": 177857,
-      "name": "Number Plate",
-      "url": "https://open.spotify.com/track/7nNxDOSyABffGcaehhncXG"
     },
     {
       "added_at": "2024-09-13 16:08:35",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-09-13 16:08:35",
       "album": {
-        "name": "Criminal",
-        "url": "https://open.spotify.com/album/4RXG9KfqTKbtWhsSZwVTel"
-      },
-      "artists": [
-        {
-          "name": "Devender Ahlawat",
-          "url": "https://open.spotify.com/artist/0qzAeY2wBeUBxDUbBex1Hg"
-        }
-      ],
-      "duration_ms": 231157,
-      "name": "Criminal",
-      "url": "https://open.spotify.com/track/4yIUYWDDXTDkYl616suCaw"
-    },
-    {
-      "added_at": "2024-09-13 16:08:35",
-      "album": {
         "name": "AAHO",
         "url": "https://open.spotify.com/album/3tP7d652s8J8TitZHGGnZx"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 252000,
       "name": "AAHO",
       "url": "https://open.spotify.com/track/33LN6U5oQa8bHh03oqxajL"
+    },
+    {
+      "added_at": "2024-09-13 16:08:35",
+      "album": {
+        "name": "Criminal",
+        "url": "https://open.spotify.com/album/4RXG9KfqTKbtWhsSZwVTel"
+      },
+      "artists": [
+        {
+          "name": "Devender Ahlawat",
+          "url": "https://open.spotify.com/artist/0qzAeY2wBeUBxDUbBex1Hg"
+        }
+      ],
+      "duration_ms": 231157,
+      "name": "Criminal",
+      "url": "https://open.spotify.com/track/4yIUYWDDXTDkYl616suCaw"
     },
     {
       "added_at": "2024-09-13 16:08:35",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2024-09-13 16:08:35",
       "album": {
+        "name": "Jaat Brat",
+        "url": "https://open.spotify.com/album/3q0KhGknaKrmSTyr7PCbmf"
+      },
+      "artists": [
+        {
+          "name": "Sahil Dhull",
+          "url": "https://open.spotify.com/artist/1YhZbHSLY4DwUzlennljq8"
+        }
+      ],
+      "duration_ms": 182822,
+      "name": "Jaat Brat",
+      "url": "https://open.spotify.com/track/7mYpS6ZxxD5hVXtnorjceQ"
+    },
+    {
+      "added_at": "2024-09-13 16:08:35",
+      "album": {
         "name": "Power",
         "url": "https://open.spotify.com/album/2K1UUqgmoUp5BD7hjw602v"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 173999,
       "name": "Power",
       "url": "https://open.spotify.com/track/2QPQ4mqVJRVxqi1vGlFiXw"
-    },
-    {
-      "added_at": "2024-09-13 16:08:35",
-      "album": {
-        "name": "Jaat Brat",
-        "url": "https://open.spotify.com/album/3q0KhGknaKrmSTyr7PCbmf"
-      },
-      "artists": [
-        {
-          "name": "Sahil Dhull",
-          "url": "https://open.spotify.com/artist/1YhZbHSLY4DwUzlennljq8"
-        }
-      ],
-      "duration_ms": 182822,
-      "name": "Jaat Brat",
-      "url": "https://open.spotify.com/track/7mYpS6ZxxD5hVXtnorjceQ"
     },
     {
       "added_at": "2024-09-13 16:08:35",
@@ -1347,22 +1347,18 @@
     {
       "added_at": "2024-09-13 16:08:35",
       "album": {
-        "name": "32 Bore",
-        "url": "https://open.spotify.com/album/5uneWMrAfrjpvrKOZ9nGdC"
+        "name": "Jija",
+        "url": "https://open.spotify.com/album/2HUBhHvHWs9W4D875rv7Th"
       },
       "artists": [
         {
-          "name": "Fazilpuria",
-          "url": "https://open.spotify.com/artist/4oaJL0V5asQDh4sqplTVhX"
-        },
-        {
-          "name": "DG IMMORTALS",
-          "url": "https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy"
+          "name": "Gulzaar Chhaniwala",
+          "url": "https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo"
         }
       ],
-      "duration_ms": 144500,
-      "name": "32 Bore",
-      "url": "https://open.spotify.com/track/0EPQT3CkZHMHIJvCFZqYke"
+      "duration_ms": 158142,
+      "name": "Jija",
+      "url": "https://open.spotify.com/track/2LVEdZetab21aTPOHPMEoD"
     },
     {
       "added_at": "2024-09-13 16:08:35",
@@ -1383,18 +1379,22 @@
     {
       "added_at": "2024-09-13 16:08:35",
       "album": {
-        "name": "Jija",
-        "url": "https://open.spotify.com/album/2HUBhHvHWs9W4D875rv7Th"
+        "name": "32 Bore",
+        "url": "https://open.spotify.com/album/5uneWMrAfrjpvrKOZ9nGdC"
       },
       "artists": [
         {
-          "name": "Gulzaar Chhaniwala",
-          "url": "https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo"
+          "name": "Fazilpuria",
+          "url": "https://open.spotify.com/artist/4oaJL0V5asQDh4sqplTVhX"
+        },
+        {
+          "name": "DG IMMORTALS",
+          "url": "https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy"
         }
       ],
-      "duration_ms": 158142,
-      "name": "Jija",
-      "url": "https://open.spotify.com/track/2LVEdZetab21aTPOHPMEoD"
+      "duration_ms": 144500,
+      "name": "32 Bore",
+      "url": "https://open.spotify.com/track/0EPQT3CkZHMHIJvCFZqYke"
     },
     {
       "added_at": "2024-09-13 16:08:35",
@@ -1459,6 +1459,26 @@
     {
       "added_at": "2024-09-13 16:08:35",
       "album": {
+        "name": "No Love",
+        "url": "https://open.spotify.com/album/47UPjlcNYUogBn5QUm7zFF"
+      },
+      "artists": [
+        {
+          "name": "Kabira",
+          "url": "https://open.spotify.com/artist/75BrljVmqRx34PtL0O8qxa"
+        },
+        {
+          "name": "RP Singh",
+          "url": "https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ"
+        }
+      ],
+      "duration_ms": 239240,
+      "name": "No Love",
+      "url": "https://open.spotify.com/track/681FN54hdHlpYkXXgHoOlJ"
+    },
+    {
+      "added_at": "2024-09-13 16:08:35",
+      "album": {
         "name": "Chadh Chadh ke",
         "url": "https://open.spotify.com/album/5owDV9tN5oB4fge2YQTUsI"
       },
@@ -1487,26 +1507,6 @@
       "duration_ms": 141621,
       "name": "Ghar Jaane De",
       "url": "https://open.spotify.com/track/0AU0jnkTn516bqy2tJSlmp"
-    },
-    {
-      "added_at": "2024-09-13 16:08:35",
-      "album": {
-        "name": "No Love",
-        "url": "https://open.spotify.com/album/47UPjlcNYUogBn5QUm7zFF"
-      },
-      "artists": [
-        {
-          "name": "Kabira",
-          "url": "https://open.spotify.com/artist/75BrljVmqRx34PtL0O8qxa"
-        },
-        {
-          "name": "RP Singh",
-          "url": "https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ"
-        }
-      ],
-      "duration_ms": 239240,
-      "name": "No Love",
-      "url": "https://open.spotify.com/track/681FN54hdHlpYkXXgHoOlJ"
     },
     {
       "added_at": "2024-09-13 16:08:35",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2024-09-13 16:08:35",
       "album": {
+        "name": "Up-14 J & G",
+        "url": "https://open.spotify.com/album/1klxmkBEoXNTLd6VDpqmcm"
+      },
+      "artists": [
+        {
+          "name": "Addy Nagar",
+          "url": "https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5"
+        }
+      ],
+      "duration_ms": 137241,
+      "name": "Up-14 J & G",
+      "url": "https://open.spotify.com/track/5wzyhBuKjAfPgC0H10tZUJ"
+    },
+    {
+      "added_at": "2024-09-13 16:08:35",
+      "album": {
         "name": "This is Haryana",
         "url": "https://open.spotify.com/album/39lfhZMC6uszJC2VoB5XhH"
       },
@@ -1595,22 +1611,6 @@
     {
       "added_at": "2024-09-13 16:08:35",
       "album": {
-        "name": "Kaand",
-        "url": "https://open.spotify.com/album/1TZLTVAVHYPUsLwskjBHvs"
-      },
-      "artists": [
-        {
-          "name": "Kabira",
-          "url": "https://open.spotify.com/artist/75BrljVmqRx34PtL0O8qxa"
-        }
-      ],
-      "duration_ms": 186896,
-      "name": "Kaand",
-      "url": "https://open.spotify.com/track/202W8cvVBBKZw9uEwTs0BC"
-    },
-    {
-      "added_at": "2024-09-13 16:08:35",
-      "album": {
         "name": "No Fake",
         "url": "https://open.spotify.com/album/54xTuRGq24Av5cqavO8jmE"
       },
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2024-09-13 16:08:35",
       "album": {
-        "name": "Up-14 J & G",
-        "url": "https://open.spotify.com/album/1klxmkBEoXNTLd6VDpqmcm"
+        "name": "Kaand",
+        "url": "https://open.spotify.com/album/1TZLTVAVHYPUsLwskjBHvs"
       },
       "artists": [
         {
-          "name": "Addy Nagar",
-          "url": "https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5"
+          "name": "Kabira",
+          "url": "https://open.spotify.com/artist/75BrljVmqRx34PtL0O8qxa"
         }
       ],
-      "duration_ms": 137241,
-      "name": "Up-14 J & G",
-      "url": "https://open.spotify.com/track/5wzyhBuKjAfPgC0H10tZUJ"
+      "duration_ms": 186896,
+      "name": "Kaand",
+      "url": "https://open.spotify.com/track/202W8cvVBBKZw9uEwTs0BC"
     },
     {
       "added_at": "2024-09-13 16:08:35",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2024-09-13 16:08:35",
       "album": {
+        "name": "Jadugarni",
+        "url": "https://open.spotify.com/album/2dZx3ML6nkjS8tA1wgh3Ya"
+      },
+      "artists": [
+        {
+          "name": "Laath Saab",
+          "url": "https://open.spotify.com/artist/70Pg9iXpsz2qu0Zich16q7"
+        }
+      ],
+      "duration_ms": 164400,
+      "name": "Jadugarni",
+      "url": "https://open.spotify.com/track/5aLXtQEdnNajRY8JTv81C2"
+    },
+    {
+      "added_at": "2024-09-13 16:08:35",
+      "album": {
         "name": "Mtv Hustle 03 Represent Episode 5",
         "url": "https://open.spotify.com/album/1ilZ2aAxhdtzQDqBvtm1FR"
       },
@@ -1755,26 +1771,6 @@
       "duration_ms": 172549,
       "name": "Haryane Aale",
       "url": "https://open.spotify.com/track/5RQHt34f1wn4W8QMetB3Nf"
-    },
-    {
-      "added_at": "2024-09-13 16:08:35",
-      "album": {
-        "name": "Kalyug",
-        "url": "https://open.spotify.com/album/3RSgIg2SuGhUVe3TMi0I6o"
-      },
-      "artists": [
-        {
-          "name": "Shayam Sharma",
-          "url": "https://open.spotify.com/artist/61lpcC14tsSoXZyrjGXVEo"
-        },
-        {
-          "name": "KD DESIROCK",
-          "url": "https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0"
-        }
-      ],
-      "duration_ms": 218571,
-      "name": "Kalyug",
-      "url": "https://open.spotify.com/track/1PpD1pRsC67ir1qT7fvz5R"
     },
     {
       "added_at": "2024-09-13 16:08:35",
@@ -1815,18 +1811,38 @@
     {
       "added_at": "2024-09-13 16:08:35",
       "album": {
-        "name": "Jadugarni",
-        "url": "https://open.spotify.com/album/2dZx3ML6nkjS8tA1wgh3Ya"
+        "name": "Kalyug",
+        "url": "https://open.spotify.com/album/3RSgIg2SuGhUVe3TMi0I6o"
       },
       "artists": [
         {
-          "name": "Laath Saab",
-          "url": "https://open.spotify.com/artist/70Pg9iXpsz2qu0Zich16q7"
+          "name": "Shayam Sharma",
+          "url": "https://open.spotify.com/artist/61lpcC14tsSoXZyrjGXVEo"
+        },
+        {
+          "name": "KD DESIROCK",
+          "url": "https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0"
         }
       ],
-      "duration_ms": 164400,
-      "name": "Jadugarni",
-      "url": "https://open.spotify.com/track/5aLXtQEdnNajRY8JTv81C2"
+      "duration_ms": 218571,
+      "name": "Kalyug",
+      "url": "https://open.spotify.com/track/1PpD1pRsC67ir1qT7fvz5R"
+    },
+    {
+      "added_at": "2024-09-13 16:08:35",
+      "album": {
+        "name": "Original Gangster",
+        "url": "https://open.spotify.com/album/0eBL64eE3sRzvRNDqOH8UE"
+      },
+      "artists": [
+        {
+          "name": "Eshan Bhati",
+          "url": "https://open.spotify.com/artist/2wjfEAuQR3ymFMZhyo7aBf"
+        }
+      ],
+      "duration_ms": 181907,
+      "name": "Original Gangster",
+      "url": "https://open.spotify.com/track/6yganQdeXdluMvUWwEKQLI"
     },
     {
       "added_at": "2024-09-13 16:08:35",
@@ -1851,22 +1867,6 @@
       "duration_ms": 157285,
       "name": "Chalti Me",
       "url": "https://open.spotify.com/track/77CgnV5VgsRWakI6bvooR7"
-    },
-    {
-      "added_at": "2024-09-13 16:08:35",
-      "album": {
-        "name": "Original Gangster",
-        "url": "https://open.spotify.com/album/0eBL64eE3sRzvRNDqOH8UE"
-      },
-      "artists": [
-        {
-          "name": "Eshan Bhati",
-          "url": "https://open.spotify.com/artist/2wjfEAuQR3ymFMZhyo7aBf"
-        }
-      ],
-      "duration_ms": 181907,
-      "name": "Original Gangster",
-      "url": "https://open.spotify.com/track/6yganQdeXdluMvUWwEKQLI"
     },
     {
       "added_at": "2024-09-13 16:08:35",

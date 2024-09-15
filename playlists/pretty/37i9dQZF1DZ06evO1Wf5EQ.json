@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuIvAAAAAABFY9w+T+nhLvjhEQ5gho0B",
+  "snapshot_id": "ZuOAgAAAAAAskOkWHTxthOq+qlUZYwdK",
   "tracks": [
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ezra (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2UbyTUN7UOsnV6lT9ecAky"
+        "name": "Griselda (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/7LJJir3kuYjfwX020ZSQWw"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 92666,
-      "name": "Making New Friends",
-      "url": "https://open.spotify.com/track/3olrmNmOEF1J3oVRTy1Ghy"
+      "duration_ms": 66540,
+      "name": "LA MADRINA",
+      "url": "https://open.spotify.com/track/0urS2dyuVbSh4f4yv0uFrc"
     },
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Griselda (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/7LJJir3kuYjfwX020ZSQWw"
+        "name": "Ezra (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2UbyTUN7UOsnV6lT9ecAky"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 66540,
-      "name": "LA MADRINA",
-      "url": "https://open.spotify.com/track/0urS2dyuVbSh4f4yv0uFrc"
+      "duration_ms": 92666,
+      "name": "Making New Friends",
+      "url": "https://open.spotify.com/track/3olrmNmOEF1J3oVRTy1Ghy"
     },
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 103158,
-      "name": "Saint Luke's",
-      "url": "https://open.spotify.com/track/4LgoROt9rZS81HR1rlCjZd"
+      "duration_ms": 83131,
+      "name": "Calvin",
+      "url": "https://open.spotify.com/track/2GNgQFDxgVamyS8D2LL7wg"
     },
     {
       "added_at": null,
@@ -372,15 +372,15 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 83131,
-      "name": "Calvin",
-      "url": "https://open.spotify.com/track/2GNgQFDxgVamyS8D2LL7wg"
+      "duration_ms": 103158,
+      "name": "Saint Luke's",
+      "url": "https://open.spotify.com/track/4LgoROt9rZS81HR1rlCjZd"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Monsieur Spade (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/4xHv6i545xZKmZR2J5ui1u"
+        "name": "Griselda (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/7LJJir3kuYjfwX020ZSQWw"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 117693,
-      "name": "Gabrielle",
-      "url": "https://open.spotify.com/track/0RuBnQUTmflQVJi4VI556A"
+      "duration_ms": 317262,
+      "name": "MEDELL\u00cdN",
+      "url": "https://open.spotify.com/track/7fD4tAH2amFOsxoQO4q3Kf"
     }
   ],
   "unique_name": "This Is Carlos Rafael Rivera",

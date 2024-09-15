@@ -3234,7 +3234,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 192558,
       "name": "Black Star / High and Dry",
       "url": "https://open.spotify.com/track/2pA1zf5b4dwTVG1QOXz6Jn"
@@ -8636,7 +8636,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 159693,
       "name": "Drifting - Alternate Version / November 20, 1970",
       "url": "https://open.spotify.com/track/4Hu4RvIvbgQQqNLDuSBk3I"
@@ -11526,7 +11526,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 203256,
       "name": "Freezing (Arr. D'Angelo for Voice, Piano, Guitar and Bass)",
       "url": "https://open.spotify.com/track/6xx5ilZQtqQlg13FaUgMTI"
@@ -11803,6 +11803,32 @@
     },
     {
       "album": {
+        "name": "Fuel (feat. WESTSIDE BOOGIE & GRIP) - Shady Edition",
+        "url": "https://open.spotify.com/album/5mjH6kL3zysY2X8VZVb9BU"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "WESTSIDE BOOGIE",
+          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
+        },
+        {
+          "name": "GRIP",
+          "url": "https://open.spotify.com/artist/4Ew8VmfE06siL2THiMBwPP"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290422,
+      "name": "Fuel (feat. WESTSIDE BOOGIE & GRIP) - Shady Edition",
+      "url": "https://open.spotify.com/track/2By3Bbd6UYQqdhLnkMHZb6"
+    },
+    {
+      "album": {
         "name": "The Death of Slim Shady (Coup De Gr\u00e2ce): Expanded Mourner\u2019s Edition",
         "url": "https://open.spotify.com/album/31hcgCSu4mlA82syOFItur"
       },
@@ -11822,7 +11848,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 290422,
       "name": "Fuel - Shady Edition",
       "url": "https://open.spotify.com/track/68IkI6ttYOzNyS5iW2Zx70"
@@ -12046,7 +12072,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 213333,
       "name": "Garmonbozia",
       "url": "https://open.spotify.com/track/3lFLhPUOlNnUuI2EH953BI"
@@ -16838,6 +16864,48 @@
       "duration_ms": 190500,
       "name": "Karma",
       "url": "https://open.spotify.com/track/1wWJHPexeqfKSVoaFOKgai"
+    },
+    {
+      "album": {
+        "name": "Perchance to Dream Concept Album",
+        "url": "https://open.spotify.com/album/2zza9WICtWr7Nsc1ifLOzS"
+      },
+      "artists": [
+        {
+          "name": "Perchance to Dream",
+          "url": "https://open.spotify.com/artist/0cDL6wpZxjT9D6BqZf3tZu"
+        },
+        {
+          "name": "Sarah Dooley",
+          "url": "https://open.spotify.com/artist/6k2vsVZ13ZW2HPISPeaA2N"
+        },
+        {
+          "name": "Travis Harmon",
+          "url": "https://open.spotify.com/artist/6C2LU9CBMNWzR5RQCUXnC3"
+        },
+        {
+          "name": "Kate Ly Johnston",
+          "url": "https://open.spotify.com/artist/0VwlgVQ5TsZUbDYgJlr25A"
+        },
+        {
+          "name": "ZEE MACHINE",
+          "url": "https://open.spotify.com/artist/3v7HInx1B5wGtG90l8OgLg"
+        },
+        {
+          "name": "Will Riddle",
+          "url": "https://open.spotify.com/artist/0QXJkqLgyJQKrtIx0rs4KI"
+        },
+        {
+          "name": "Dominique Star",
+          "url": "https://open.spotify.com/artist/7IhopSm97RkykmrVGMVXlJ"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223500,
+      "name": "Karma Police",
+      "url": "https://open.spotify.com/track/7Cvr8oO5U5sRCCmyCoHfAb"
     },
     {
       "album": {
@@ -21822,7 +21890,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 264200,
       "name": "Never Going Back Again (Live at The Forum, Inglewood, CA, 10/21/82)",
       "url": "https://open.spotify.com/track/1vWW78pW5sCSEmRMsF29Ri"
@@ -33826,7 +33894,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 526655,
       "name": "Truckin' - Live at Cameron Indoor Stadium, Duke University, Durham, NC, 4/12/78",
       "url": "https://open.spotify.com/track/5vRJRc05qCLpCkuyaBFiFA"
@@ -33874,6 +33942,28 @@
       "duration_ms": 148018,
       "name": "Truman Sleeps (Arr. Cousins for Guitar)",
       "url": "https://open.spotify.com/track/0mCykTc0E0oHbrQ2sOwsOz"
+    },
+    {
+      "album": {
+        "name": "Truman sleeps (for guitar ensemble)",
+        "url": "https://open.spotify.com/album/0VabAGTGRwNdUO9gQPSkDt"
+      },
+      "artists": [
+        {
+          "name": "Sam Desmet",
+          "url": "https://open.spotify.com/artist/5QTABvkjM6kEih0kvyabWj"
+        },
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112098,
+      "name": "Truman sleeps (for guitar ensemble)",
+      "url": "https://open.spotify.com/track/7u9yi68ZCgVxIgF4ziEv9p"
     },
     {
       "album": {
@@ -36860,7 +36950,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 222840,
       "name": "Wrong Thing (with Kash'd Out)",
       "url": "https://open.spotify.com/track/129t075CqNbOCpsCcwiwJg"

@@ -256,7 +256,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-08",
+      "date_removed": null,
       "duration_ms": 244096,
       "name": "100 MESSAGGI",
       "url": "https://open.spotify.com/track/5bXgMzxuNymWhpwkgvYn4O"
@@ -5824,7 +5824,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 202576,
       "name": "Cambier\u00e0",
       "url": "https://open.spotify.com/track/5TKJ3c3FlWa8kZ3YIpRXaI"
@@ -8577,6 +8577,28 @@
     },
     {
       "album": {
+        "name": "LEGGENDARIO",
+        "url": "https://open.spotify.com/album/0Mefz37DxuT24EzQxr0ClI"
+      },
+      "artists": [
+        {
+          "name": "Side Baby",
+          "url": "https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT"
+        },
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177777,
+      "name": "CONVOGLIO (feat. Tony Effe)",
+      "url": "https://open.spotify.com/track/0AMQo5EwkBmYaedxmy4BuI"
+    },
+    {
+      "album": {
         "name": "Madreperla",
         "url": "https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1"
       },
@@ -9413,6 +9435,24 @@
     },
     {
       "album": {
+        "name": "Dancing In The Flames",
+        "url": "https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220036,
+      "name": "Dancing In The Flames",
+      "url": "https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9"
+    },
+    {
+      "album": {
         "name": "Dancing On Dangerous (feat. Sof\u00eda Reyes)",
         "url": "https://open.spotify.com/album/2JxYl1wEAY8SUgZdUMYQ6Z"
       },
@@ -10016,6 +10056,28 @@
       "duration_ms": 190122,
       "name": "Devastante",
       "url": "https://open.spotify.com/track/01XexSX2HDgVDxnnHEBblB"
+    },
+    {
+      "album": {
+        "name": "DI CAPRIO (feat. Niky Savage)",
+        "url": "https://open.spotify.com/album/1Bc0ufj4QsSISl1gApoJCa"
+      },
+      "artists": [
+        {
+          "name": "Fedez",
+          "url": "https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i"
+        },
+        {
+          "name": "Niky Savage",
+          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148363,
+      "name": "DI CAPRIO (feat. Niky Savage)",
+      "url": "https://open.spotify.com/track/34IZ1Uu91IxjGbGRtW4c63"
     },
     {
       "album": {
@@ -10800,7 +10862,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 195345,
       "name": "Don't Cry No More (feat. Geolier)",
       "url": "https://open.spotify.com/track/2vxtac8KET2UTMfT0d0awA"
@@ -11642,7 +11704,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 155493,
       "name": "EL PIBE DE ORO",
       "url": "https://open.spotify.com/track/69VAE3LA7jn5rGAsdflMOS"
@@ -13282,7 +13344,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 171678,
       "name": "First Day Out",
       "url": "https://open.spotify.com/track/6ipR5Hlvur9s4pXA8rJrLX"
@@ -17180,7 +17242,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 152904,
       "name": "Il Tempo Cura",
       "url": "https://open.spotify.com/track/5Bci187pV67UOsYp8q0hce"
@@ -22576,7 +22638,7 @@
       ],
       "date_added": "2024-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 166725,
       "name": "MALAVITA",
       "url": "https://open.spotify.com/track/49tdZnvKAnJP6Xb3PUucPD"
@@ -24842,7 +24904,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 147498,
       "name": "MIU MIU",
       "url": "https://open.spotify.com/track/0ZjxK3xSqyFEDKMMnA7fyl"
@@ -32671,6 +32733,24 @@
     },
     {
       "album": {
+        "name": "Romantico Ma Muori",
+        "url": "https://open.spotify.com/album/0js12ciEGYY4tTcCLKgwwY"
+      },
+      "artists": [
+        {
+          "name": "Pinguini Tattici Nucleari",
+          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166330,
+      "name": "Romantico Ma Muori",
+      "url": "https://open.spotify.com/track/5lTTuESHokJHpSsEvvSR64"
+    },
+    {
+      "album": {
         "name": "Untouchable",
         "url": "https://open.spotify.com/album/3qfHiYzq7kiJ1JkyCXNGMC"
       },
@@ -36368,6 +36448,28 @@
       "duration_ms": 178222,
       "name": "Street",
       "url": "https://open.spotify.com/track/1AA3XZWWaLTcOgVdeSWg3S"
+    },
+    {
+      "album": {
+        "name": "Street Life",
+        "url": "https://open.spotify.com/album/04p2ig4ktUoqhilY6au2HI"
+      },
+      "artists": [
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        },
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152749,
+      "name": "Street Life",
+      "url": "https://open.spotify.com/track/6Pa6bqbWnNZML34ex3s06q"
     },
     {
       "album": {
@@ -41720,6 +41822,28 @@
       "duration_ms": 203026,
       "name": "Zen",
       "url": "https://open.spotify.com/track/6VkiRPW2a93kVXdSt68ha8"
+    },
+    {
+      "album": {
+        "name": "ZERI IN PI\u00d9 (LOCURA) (feat. Laura Pausini)",
+        "url": "https://open.spotify.com/album/3rD7xtzumWvHnhr7x7JGkS"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247666,
+      "name": "ZERI IN PI\u00d9 (LOCURA) (feat. Laura Pausini)",
+      "url": "https://open.spotify.com/track/0EIWXIJea5Q92uBlPBhUB4"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > Nieuw deze week \- Nouveautés de la semaine\. Cover: Eefje de Visser
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,952 likes - 80 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,956 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 24 | [Cleats](https://open.spotify.com/track/7HWONeQrWpcjflAPGbH5L3) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Cleats](https://open.spotify.com/album/0VZGFBmqzdTFhMgMl7rsxB) | 3:41 |
 | 25 | [You And I](https://open.spotify.com/track/248XJMcsowzZrF1APvILhF) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [The Greatest Love](https://open.spotify.com/album/3jlE37AdgcZbfsfyMutyCE) | 5:00 |
 | 26 | [LEADERSHIP](https://open.spotify.com/track/2JDOsdjAtwKD4KNCNQmGhw) | [Miss Angel](https://open.spotify.com/artist/714BxIYCFvSENkMWlaCwfi) | [MISS'UNDERSTOOD](https://open.spotify.com/album/2Pxw94k2kzdJFcrXP6DGl3) | 2:10 |
-| 27 | [Een Schaduw In De Schemering \- Single Edit](https://open.spotify.com/track/7orcPMZCfPmaKX6laKvdJs) | [Eden](https://open.spotify.com/artist/0WDCVd5uAX4QvasaOzqe8V) | [Een Schaduw In De Schemering](https://open.spotify.com/album/4YAP4HUBlWt6IaOInUiNvv) | 4:05 |
+| 27 | [Een Schaduw In De Schemering \- Single Edit](https://open.spotify.com/track/7orcPMZCfPmaKX6laKvdJs) | [Eden](https://open.spotify.com/artist/5rz6M6BPrGcKg3F5khFgqy) | [Een Schaduw In De Schemering](https://open.spotify.com/album/4YAP4HUBlWt6IaOInUiNvv) | 4:05 |
 | 28 | [Zet Mich Toch Op Menne Fiets \(Ek Anthem 2024\)](https://open.spotify.com/track/3ZgAwBNVchhoYRGFnB9gbM) | [Daniël Busser](https://open.spotify.com/artist/0r0RFyxSpdl13hE2e0W0Qx) | [Zet Mich Toch Op Menne Fiets \(Ek Anthem 2024\)](https://open.spotify.com/album/0yGXBxT4rSMrgPCsGFyNGB) | 2:29 |
 | 29 | [Painkiller](https://open.spotify.com/track/1FmgTAoC16gigHr2mx1cmC) | [JEN](https://open.spotify.com/artist/0EZPJDbK2vKYgDisXtBHUY) | [Painkiller](https://open.spotify.com/album/45D55zXNlh80oV6hRXc8LP) | 2:26 |
 | 30 | [Hold You](https://open.spotify.com/track/2B9pVfQdvHlXAvjTWHrlrp) | [Isbells](https://open.spotify.com/artist/14dULnNGmLKnS59BzNrHi4) | [Hold You](https://open.spotify.com/album/580IwtdW0b5aSz7i5jWhYk) | 3:55 |

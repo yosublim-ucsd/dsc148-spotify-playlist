@@ -666,7 +666,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 114230,
       "name": "Alchemy",
       "url": "https://open.spotify.com/track/5oz38CIdam02h3Ys8pw9sX"
@@ -2840,7 +2840,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-03",
+      "date_removed": null,
       "duration_ms": 105697,
       "name": "cactus on my table",
       "url": "https://open.spotify.com/track/0KLNaZS6yJY6R3jyJJsXun"
@@ -8154,7 +8154,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 123020,
       "name": "For U",
       "url": "https://open.spotify.com/track/3Mh5VZAAeEPJETEm5C0Ikk"
@@ -10840,7 +10840,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 108169,
       "name": "I try to tell him",
       "url": "https://open.spotify.com/track/552NfkgzKgOqDCk8SQLhmS"
@@ -11150,7 +11150,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 112813,
       "name": "In Stereo",
       "url": "https://open.spotify.com/track/62iBZdo6p0XdcEzEgXtMzb"
@@ -18131,6 +18131,24 @@
     },
     {
       "album": {
+        "name": "Perception",
+        "url": "https://open.spotify.com/album/5P3uVvsBSqIU4GMqR6EeRf"
+      },
+      "artists": [
+        {
+          "name": "Supereffective",
+          "url": "https://open.spotify.com/artist/4ZeIehjJBLHHCy2SJu51p6"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142302,
+      "name": "Perception",
+      "url": "https://open.spotify.com/track/6771GihRWSltfIeiffL35K"
+    },
+    {
+      "album": {
         "name": "Perfect Moment",
         "url": "https://open.spotify.com/album/0kVPrRM5ESaI9uRJlpeBqa"
       },
@@ -19770,6 +19788,24 @@
       "duration_ms": 142500,
       "name": "River",
       "url": "https://open.spotify.com/track/3VGELY7USddorN2Spw5GrQ"
+    },
+    {
+      "album": {
+        "name": "river by a window",
+        "url": "https://open.spotify.com/album/15S3M61RhLznUafm0vm3mg"
+      },
+      "artists": [
+        {
+          "name": "galaxx",
+          "url": "https://open.spotify.com/artist/1CzuRZH2SFZgmKRxXHZawo"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151166,
+      "name": "river by a window",
+      "url": "https://open.spotify.com/track/2fI2f1Lhbnqtf1F96pf2dW"
     },
     {
       "album": {
@@ -27118,6 +27154,28 @@
       "duration_ms": 115764,
       "name": "With A View",
       "url": "https://open.spotify.com/track/6xmfm1qISCNu4wofhgjjjn"
+    },
+    {
+      "album": {
+        "name": "With Nature & Jazz",
+        "url": "https://open.spotify.com/album/27YoqMmwlaOs7bIcrvktbY"
+      },
+      "artists": [
+        {
+          "name": "RejSende",
+          "url": "https://open.spotify.com/artist/6VuJTb9pNKiBCcSlqBewpo"
+        },
+        {
+          "name": "Beats for Trees",
+          "url": "https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115300,
+      "name": "With Nature & Jazz",
+      "url": "https://open.spotify.com/track/2Y3U5hYqX7dzOWqAHAuRG7"
     },
     {
       "album": {

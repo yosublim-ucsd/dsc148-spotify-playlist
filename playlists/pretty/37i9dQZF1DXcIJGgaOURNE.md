@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIJGgaOURNE.md) - [plain]
 
 > <a href="spotify:artist:7A0awCXkE1FtSU8B0qwOJQ"> Jamie xx</a>'s favorite tracks\. Updated regularly\. Curated by Jamie xx\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,486 likes - 83 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,490 likes - 83 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIJGgaOURNE.md) - [plain]
 | 12 | [Forceps](https://open.spotify.com/track/26LQeL6yclvb4qtWs8O1hH) | [Dansa](https://open.spotify.com/artist/46k3g0aXI8FTb9AdDLNJHc) | [Kill The Body And The Head Will Die](https://open.spotify.com/album/06xs0umKb6XHl7gevib7St) | 4:07 |
 | 13 | [Nexus \- Danny Freakazoid Remix](https://open.spotify.com/track/0Yy9RXgQn69JVYMIh91vEp) | [DR\. KUCHO!](https://open.spotify.com/artist/263Gr9lGWR6ScnRGjxa3Ad) | [Nexus](https://open.spotify.com/album/08kEeAp2JycElTRsM05dUP) | 7:07 |
 | 14 | [The Attention Deficit Track \- Edit](https://open.spotify.com/track/7AKaUvMxAw88jMdy9wXYFW) | [Jackmaster](https://open.spotify.com/artist/1VQgvnkH9rOB2YkNr1ovuB), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [The Attention Deficit Track](https://open.spotify.com/album/45KWFCVez0XRbv74zCYSTc) | 3:48 |
-| 15 | [Cosmonautica \- Shadow Mix](https://open.spotify.com/track/2wA6Xipmg5nknOOvPTza49) | [Virtualmismo](https://open.spotify.com/artist/57J3lSWBzpZjzpHn8ogD65) | [Cosmonautica \(Rmx\)](https://open.spotify.com/album/0wSSyRkCyhm4t1eEPA96Lf) | 5:27 |
+| 15 | [Cosmonautica \- Shadow Mix](https://open.spotify.com/track/2wA6Xipmg5nknOOvPTza49) | [Virtualmismo](https://open.spotify.com/artist/57J3lSWBzpZjzpHn8ogD65) | [Cosmonautica Rmx](https://open.spotify.com/album/0wSSyRkCyhm4t1eEPA96Lf) | 5:27 |
 | 16 | [Vamos a la Playa \- 1983](https://open.spotify.com/track/3iB7lzsBC7PdJLU9k2nttT) | [Righeira](https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI) | [Best of Righeira \(Le meilleur des annees 80\)](https://open.spotify.com/album/1wch1bSItmAwqaJ1PhsSoB) | 3:37 |
 | 17 | [Idontknow](https://open.spotify.com/track/7nSBHckG4tTFkp0xqNZDs5) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Idontknow](https://open.spotify.com/album/1OuBffTkjBqwVVfj9I8hHr) | 5:21 |
 | 18 | [Woke](https://open.spotify.com/track/2WrFUeSUtemEzTolOVCc9e) | [Nachtbraker](https://open.spotify.com/artist/4mS8v6OGLE0fegaoJL1IVw) | [Woke EP](https://open.spotify.com/album/1O7mBSSxgoCpicpWmb43cN) | 5:07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Charly García en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,622 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,649 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [Un Deseo](https://open.spotify.com/track/39jTj8LSzm4tKKWVBzxBVk) | [BETA](https://open.spotify.com/artist/7pS2gi3aVVIZ3Bcm1Nvqdl) | [Un Deseo](https://open.spotify.com/album/5yzhBJ6HVBg9zmlszFMyea) | 2:48 |
 | 50 | [Aguaceros](https://open.spotify.com/track/62ddhHGY3Ue5iwvLyc9foQ) | [Ulises Máiz](https://open.spotify.com/artist/1qONT4ZphcM8nAmxARnnNC) | [Aguaceros](https://open.spotify.com/album/5JQjRZDUJu9zBOFr9rRIns) | 4:17 |
 
-Snapshot ID: `ZuP2ngAAAADxFxAlyCpC4sX/yAuiuu0y`
+Snapshot ID: `ZuP2ngAAAAArRhZV6dz/4aVJdlIEDchJ`

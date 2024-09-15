@@ -1,6 +1,6 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 75503,
+  "num_followers": 75530,
   "original_name": "Hardcore Rage 2024",
   "owner": {
     "name": "Spotify",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-09-09 11:52:21",
       "album": {
-        "name": "NEED FOR SPEED",
-        "url": "https://open.spotify.com/album/3bNU00DAypHgWuehEIl935"
-      },
-      "artists": [
-        {
-          "name": "Lil Texas",
-          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
-        }
-      ],
-      "duration_ms": 145200,
-      "name": "2 Tha Rhythm",
-      "url": "https://open.spotify.com/track/6rJxvDAAgoVDxi3x6ZMBYp"
-    },
-    {
-      "added_at": "2024-09-09 11:52:21",
-      "album": {
         "name": "Welcome To My Nightmare",
         "url": "https://open.spotify.com/album/7x2ImrxaXBL79nq6WaK0Ui"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 207157,
       "name": "Welcome To My Nightmare",
       "url": "https://open.spotify.com/track/7mXYCi1wA8n8zBN0ud211g"
+    },
+    {
+      "added_at": "2024-09-09 11:52:21",
+      "album": {
+        "name": "NEED FOR SPEED",
+        "url": "https://open.spotify.com/album/3bNU00DAypHgWuehEIl935"
+      },
+      "artists": [
+        {
+          "name": "Lil Texas",
+          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
+        }
+      ],
+      "duration_ms": 145200,
+      "name": "2 Tha Rhythm",
+      "url": "https://open.spotify.com/track/6rJxvDAAgoVDxi3x6ZMBYp"
     },
     {
       "added_at": "2024-09-09 11:52:21",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-09-09 11:52:21",
       "album": {
-        "name": "Swallow It",
-        "url": "https://open.spotify.com/album/5H5rbvZh68gtoN0dgTV76M"
-      },
-      "artists": [
-        {
-          "name": "Dr. Peacock",
-          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
-        }
-      ],
-      "duration_ms": 211858,
-      "name": "Swallow It",
-      "url": "https://open.spotify.com/track/7gnMMIlH6scodeu3kHINvs"
-    },
-    {
-      "added_at": "2024-09-09 11:52:21",
-      "album": {
         "name": "Bounce To This (Official Bounce Anthem 2024)",
         "url": "https://open.spotify.com/album/0JXxPzx1VLj9K59oWSW5AR"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 237714,
       "name": "Ignition",
       "url": "https://open.spotify.com/track/7dKBsM3Tp2dXPybxvCes9P"
+    },
+    {
+      "added_at": "2024-09-09 11:52:21",
+      "album": {
+        "name": "Swallow It",
+        "url": "https://open.spotify.com/album/5H5rbvZh68gtoN0dgTV76M"
+      },
+      "artists": [
+        {
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+        }
+      ],
+      "duration_ms": 211858,
+      "name": "Swallow It",
+      "url": "https://open.spotify.com/track/7gnMMIlH6scodeu3kHINvs"
     },
     {
       "added_at": "2024-09-09 11:52:21",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2024-09-09 11:52:21",
       "album": {
-        "name": "Make It Blow",
-        "url": "https://open.spotify.com/album/5yLdm7G94B4SDGL0kNH0xu"
-      },
-      "artists": [
-        {
-          "name": "Never Surrender",
-          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
-        },
-        {
-          "name": "Unresolved",
-          "url": "https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr"
-        }
-      ],
-      "duration_ms": 175500,
-      "name": "Make It Blow",
-      "url": "https://open.spotify.com/track/5mOPlGjV7TmXM4dkIgsMpU"
-    },
-    {
-      "added_at": "2024-09-09 11:52:21",
-      "album": {
         "name": "Go Insane",
         "url": "https://open.spotify.com/album/4R8s9MjRlSZvddk9uleGeG"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 195000,
       "name": "Go Insane",
       "url": "https://open.spotify.com/track/1oe3wAz4XvMtn6nFoldM1w"
+    },
+    {
+      "added_at": "2024-09-09 11:52:21",
+      "album": {
+        "name": "Make It Blow",
+        "url": "https://open.spotify.com/album/5yLdm7G94B4SDGL0kNH0xu"
+      },
+      "artists": [
+        {
+          "name": "Never Surrender",
+          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
+        },
+        {
+          "name": "Unresolved",
+          "url": "https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr"
+        }
+      ],
+      "duration_ms": 175500,
+      "name": "Make It Blow",
+      "url": "https://open.spotify.com/track/5mOPlGjV7TmXM4dkIgsMpU"
     },
     {
       "added_at": "2024-09-09 11:52:21",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2024-09-09 11:52:21",
       "album": {
-        "name": "Bass Face",
-        "url": "https://open.spotify.com/album/4LdrJQvh1iRoPY3pgVePE2"
-      },
-      "artists": [
-        {
-          "name": "D-Frek",
-          "url": "https://open.spotify.com/artist/72qaltoVzJ2iwZThuIxACd"
-        },
-        {
-          "name": "Da Mouth of Madness",
-          "url": "https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "Bass Face",
-      "url": "https://open.spotify.com/track/4AuEotNw42YumygG85tYyV"
-    },
-    {
-      "added_at": "2024-09-09 11:52:21",
-      "album": {
         "name": "The Roots (Official Harmony of Hardcore 2023 Anthem)",
         "url": "https://open.spotify.com/album/7awpx7LqeMQlpGyu5CoBbA"
       },
@@ -1327,18 +1307,22 @@
     {
       "added_at": "2024-09-09 11:52:21",
       "album": {
-        "name": "CocoNUTS",
-        "url": "https://open.spotify.com/album/5MrH86o5jPC8aWik7A4xMu"
+        "name": "Bass Face",
+        "url": "https://open.spotify.com/album/4LdrJQvh1iRoPY3pgVePE2"
       },
       "artists": [
         {
-          "name": "Never Surrender",
-          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
+          "name": "D-Frek",
+          "url": "https://open.spotify.com/artist/72qaltoVzJ2iwZThuIxACd"
+        },
+        {
+          "name": "Da Mouth of Madness",
+          "url": "https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv"
         }
       ],
-      "duration_ms": 202880,
-      "name": "CocoNUTS",
-      "url": "https://open.spotify.com/track/78TGLakuq5ucaHG4SVeVck"
+      "duration_ms": 187200,
+      "name": "Bass Face",
+      "url": "https://open.spotify.com/track/4AuEotNw42YumygG85tYyV"
     },
     {
       "added_at": "2024-09-09 11:52:21",
@@ -1403,6 +1387,22 @@
     {
       "added_at": "2024-09-09 11:52:21",
       "album": {
+        "name": "CocoNUTS",
+        "url": "https://open.spotify.com/album/5MrH86o5jPC8aWik7A4xMu"
+      },
+      "artists": [
+        {
+          "name": "Never Surrender",
+          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
+        }
+      ],
+      "duration_ms": 202880,
+      "name": "CocoNUTS",
+      "url": "https://open.spotify.com/track/78TGLakuq5ucaHG4SVeVck"
+    },
+    {
+      "added_at": "2024-09-09 11:52:21",
+      "album": {
         "name": "Gremlins",
         "url": "https://open.spotify.com/album/1asJFJ8TnBW94hCs9ArRkZ"
       },
@@ -1419,22 +1419,6 @@
       "duration_ms": 217142,
       "name": "Gremlins",
       "url": "https://open.spotify.com/track/1yYT2mfhVOT5ZlqM7ScAzi"
-    },
-    {
-      "added_at": "2024-09-09 11:52:21",
-      "album": {
-        "name": "I'm A Raver",
-        "url": "https://open.spotify.com/album/6ZGaPeQGX4vnaSu5bOHzEu"
-      },
-      "artists": [
-        {
-          "name": "Never Surrender",
-          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
-        }
-      ],
-      "duration_ms": 205664,
-      "name": "I'm A Raver",
-      "url": "https://open.spotify.com/track/1zdCuA3OezPXkK2raYt0BY"
     },
     {
       "added_at": "2024-09-09 11:52:21",
@@ -1507,6 +1491,22 @@
     {
       "added_at": "2024-09-09 11:52:21",
       "album": {
+        "name": "I'm A Raver",
+        "url": "https://open.spotify.com/album/6ZGaPeQGX4vnaSu5bOHzEu"
+      },
+      "artists": [
+        {
+          "name": "Never Surrender",
+          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
+        }
+      ],
+      "duration_ms": 205664,
+      "name": "I'm A Raver",
+      "url": "https://open.spotify.com/track/1zdCuA3OezPXkK2raYt0BY"
+    },
+    {
+      "added_at": "2024-09-09 11:52:21",
+      "album": {
         "name": "The Ultimate Sound",
         "url": "https://open.spotify.com/album/2yxYtxZZmQDIchjXz0gegW"
       },
@@ -1519,22 +1519,6 @@
       "duration_ms": 161419,
       "name": "The Ultimate Sound",
       "url": "https://open.spotify.com/track/2Jum2ypFvxaNcLWHUyi17g"
-    },
-    {
-      "added_at": "2024-09-09 11:52:21",
-      "album": {
-        "name": "Weltschmerz",
-        "url": "https://open.spotify.com/album/2XWVk6Dr7iGdaRqSsQ3Ljd"
-      },
-      "artists": [
-        {
-          "name": "D'ort",
-          "url": "https://open.spotify.com/artist/7H96PqbTkVRtQTdBNtiljh"
-        }
-      ],
-      "duration_ms": 185052,
-      "name": "Weltschmerz",
-      "url": "https://open.spotify.com/track/0iqtMeuABRFHRo3C9h4igj"
     },
     {
       "added_at": "2024-09-09 11:52:21",
@@ -1555,6 +1539,22 @@
     {
       "added_at": "2024-09-09 11:52:21",
       "album": {
+        "name": "Weltschmerz",
+        "url": "https://open.spotify.com/album/2XWVk6Dr7iGdaRqSsQ3Ljd"
+      },
+      "artists": [
+        {
+          "name": "D'ort",
+          "url": "https://open.spotify.com/artist/7H96PqbTkVRtQTdBNtiljh"
+        }
+      ],
+      "duration_ms": 185052,
+      "name": "Weltschmerz",
+      "url": "https://open.spotify.com/track/0iqtMeuABRFHRo3C9h4igj"
+    },
+    {
+      "added_at": "2024-09-09 11:52:21",
+      "album": {
         "name": "Blow Up",
         "url": "https://open.spotify.com/album/6m5sNwYESSevGMnqRJHImH"
       },
@@ -1567,26 +1567,6 @@
       "duration_ms": 204439,
       "name": "Blow Up",
       "url": "https://open.spotify.com/track/3GfmmpnJql1SqFBmJNPYVd"
-    },
-    {
-      "added_at": "2024-09-09 11:52:21",
-      "album": {
-        "name": "Uit M'n Naad!",
-        "url": "https://open.spotify.com/album/5HvNhHwer4tmPe5xGqUzUx"
-      },
-      "artists": [
-        {
-          "name": "Never Surrender",
-          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
-        },
-        {
-          "name": "Spitnoise",
-          "url": "https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl"
-        }
-      ],
-      "duration_ms": 202800,
-      "name": "Uit M'n Naad!",
-      "url": "https://open.spotify.com/track/5H1uRBGwXBuDnBYpK27ztt"
     },
     {
       "added_at": "2024-09-09 11:52:21",
@@ -1651,6 +1631,26 @@
     {
       "added_at": "2024-09-09 11:52:21",
       "album": {
+        "name": "Uit M'n Naad!",
+        "url": "https://open.spotify.com/album/5HvNhHwer4tmPe5xGqUzUx"
+      },
+      "artists": [
+        {
+          "name": "Never Surrender",
+          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
+        },
+        {
+          "name": "Spitnoise",
+          "url": "https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl"
+        }
+      ],
+      "duration_ms": 202800,
+      "name": "Uit M'n Naad!",
+      "url": "https://open.spotify.com/track/5H1uRBGwXBuDnBYpK27ztt"
+    },
+    {
+      "added_at": "2024-09-09 11:52:21",
+      "album": {
         "name": "Shadows in the Dark",
         "url": "https://open.spotify.com/album/39LODywZvMhYTjECv7poxU"
       },
@@ -1703,26 +1703,6 @@
     {
       "added_at": "2024-09-09 11:52:21",
       "album": {
-        "name": "I Need You",
-        "url": "https://open.spotify.com/album/78r6uveupLLOKxFECcEtQC"
-      },
-      "artists": [
-        {
-          "name": "Alpha Lion",
-          "url": "https://open.spotify.com/artist/02vWERJ8STBgtOeBEBIMno"
-        },
-        {
-          "name": "Desolate One",
-          "url": "https://open.spotify.com/artist/0iQCbp8TQLE4p6YBu8rBzm"
-        }
-      ],
-      "duration_ms": 160909,
-      "name": "I Need You",
-      "url": "https://open.spotify.com/track/24MO8oHZsd7carleJjgDCC"
-    },
-    {
-      "added_at": "2024-09-09 11:52:21",
-      "album": {
         "name": "Story of My Life",
         "url": "https://open.spotify.com/album/7x5NUFsIIJ3A2tzyoexj8c"
       },
@@ -1739,6 +1719,26 @@
       "duration_ms": 245373,
       "name": "Story of My Life",
       "url": "https://open.spotify.com/track/59X0xMrPXXexh70B8unJpc"
+    },
+    {
+      "added_at": "2024-09-09 11:52:21",
+      "album": {
+        "name": "I Need You",
+        "url": "https://open.spotify.com/album/78r6uveupLLOKxFECcEtQC"
+      },
+      "artists": [
+        {
+          "name": "Alpha Lion",
+          "url": "https://open.spotify.com/artist/02vWERJ8STBgtOeBEBIMno"
+        },
+        {
+          "name": "Desolate One",
+          "url": "https://open.spotify.com/artist/0iQCbp8TQLE4p6YBu8rBzm"
+        }
+      ],
+      "duration_ms": 160909,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/24MO8oHZsd7carleJjgDCC"
     },
     {
       "added_at": "2024-09-09 11:52:21",

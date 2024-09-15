@@ -1,12 +1,12 @@
 {
   "description": "This is Harold Budd. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 5239,
+  "num_followers": 5237,
   "original_name": "This Is Harold Budd",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuIvAAAAAADO5+jk9cP8PNHzGJRER22q",
+  "snapshot_id": "ZuOAgAAAAAATK3llC30UtkBHON6YSR1c",
   "tracks": [
     {
       "added_at": null,
@@ -775,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lovely Thunder",
+        "url": "https://open.spotify.com/album/1MUMyzhjWpYnTKjmpTF1YA"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 208133,
+      "name": "Ice Floes In Eden",
+      "url": "https://open.spotify.com/track/5C0DGc7M86XqwMRPeusb8r"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "After The Night Falls",
         "url": "https://open.spotify.com/album/37xpeBIwCGwIYKpyakvJZR"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 231480,
       "name": "Deva C",
       "url": "https://open.spotify.com/track/7EOEdgx7Gv98yNCIGlpVKq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lovely Thunder",
-        "url": "https://open.spotify.com/album/1MUMyzhjWpYnTKjmpTF1YA"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 208133,
-      "name": "Ice Floes In Eden",
-      "url": "https://open.spotify.com/track/5C0DGc7M86XqwMRPeusb8r"
     },
     {
       "added_at": null,
@@ -887,26 +887,6 @@
       "duration_ms": 222280,
       "name": "Gaze",
       "url": "https://open.spotify.com/track/3n0cTeF61Mg1tPsdh520Qg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Before the Day Breaks",
-        "url": "https://open.spotify.com/album/6dU0dQiQo7PF95dwQKKhlN"
-      },
-      "artists": [
-        {
-          "name": "Robin Guthrie",
-          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
-        },
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 321226,
-      "name": "A Minute, a Day, No More",
-      "url": "https://open.spotify.com/track/77GNj1dewpFsGfzkhujB0u"
     },
     {
       "added_at": null,

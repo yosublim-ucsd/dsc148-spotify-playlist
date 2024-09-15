@@ -1,6 +1,6 @@
 {
   "description": "metalcore at its best. Cover: thrown",
-  "num_followers": 933132,
+  "num_followers": 933194,
   "original_name": "The Core",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Fatalism",
-        "url": "https://open.spotify.com/album/6yMmUKkAfVoHJT71ZpoBi5"
-      },
-      "artists": [
-        {
-          "name": "Polaris",
-          "url": "https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX"
-        }
-      ],
-      "duration_ms": 268269,
-      "name": "Nightmare",
-      "url": "https://open.spotify.com/track/0jrOt6XnOTeZOd56U16Bfp"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Conflict",
         "url": "https://open.spotify.com/album/4duvgcgX88O1QzeoGl0DuE"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 144000,
       "name": "Conflict",
       "url": "https://open.spotify.com/track/7cMIJjvNrSxkLBoo7SnAvw"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Fatalism",
+        "url": "https://open.spotify.com/album/6yMmUKkAfVoHJT71ZpoBi5"
+      },
+      "artists": [
+        {
+          "name": "Polaris",
+          "url": "https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX"
+        }
+      ],
+      "duration_ms": 268269,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/0jrOt6XnOTeZOd56U16Bfp"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Sacrifice Me",
-        "url": "https://open.spotify.com/album/2WmsvVSrYIXgFXMfLoNcPN"
-      },
-      "artists": [
-        {
-          "name": "Unprocessed",
-          "url": "https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4"
-        }
-      ],
-      "duration_ms": 238736,
-      "name": "Sacrifice Me",
-      "url": "https://open.spotify.com/track/4iiH3Alazik7bOhJYDcYsK"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Divine",
         "url": "https://open.spotify.com/album/2hPKkbMX9RJTi2BCIX5czA"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 219676,
       "name": "Divine",
       "url": "https://open.spotify.com/track/1QCj1poCyvcNUkMV5hu4Ad"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Sacrifice Me",
+        "url": "https://open.spotify.com/album/2WmsvVSrYIXgFXMfLoNcPN"
+      },
+      "artists": [
+        {
+          "name": "Unprocessed",
+          "url": "https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4"
+        }
+      ],
+      "duration_ms": 238736,
+      "name": "Sacrifice Me",
+      "url": "https://open.spotify.com/track/4iiH3Alazik7bOhJYDcYsK"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/3HmGULnPeH7ZhDkQlDibh3"
+      },
+      "artists": [
+        {
+          "name": "Caskets",
+          "url": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK"
+        }
+      ],
+      "duration_ms": 212329,
+      "name": "In The Silence",
+      "url": "https://open.spotify.com/track/1klDKOUmMD566cwy91pqEO"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Architect (feat. Currents)",
         "url": "https://open.spotify.com/album/5WuZVUS6PaMWD6qveUZd6q"
       },
@@ -795,18 +811,18 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/3HmGULnPeH7ZhDkQlDibh3"
+        "name": "Drag Me Out",
+        "url": "https://open.spotify.com/album/50uzHOpVXSvmiXGX4Fe7vs"
       },
       "artists": [
         {
-          "name": "Caskets",
-          "url": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK"
+          "name": "Archers",
+          "url": "https://open.spotify.com/artist/5aJJUTEzIbxdogCW6Qpire"
         }
       ],
-      "duration_ms": 212329,
-      "name": "In The Silence",
-      "url": "https://open.spotify.com/track/1klDKOUmMD566cwy91pqEO"
+      "duration_ms": 201666,
+      "name": "Drag Me Out",
+      "url": "https://open.spotify.com/track/10ATQv1vPZbCK1PnIBUwer"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -827,22 +843,6 @@
       "duration_ms": 219360,
       "name": "snuff.tape",
       "url": "https://open.spotify.com/track/3DawDzCphRbthASL0BHNQa"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Drag Me Out",
-        "url": "https://open.spotify.com/album/50uzHOpVXSvmiXGX4Fe7vs"
-      },
-      "artists": [
-        {
-          "name": "Archers",
-          "url": "https://open.spotify.com/artist/5aJJUTEzIbxdogCW6Qpire"
-        }
-      ],
-      "duration_ms": 201666,
-      "name": "Drag Me Out",
-      "url": "https://open.spotify.com/track/10ATQv1vPZbCK1PnIBUwer"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -927,6 +927,26 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "The Cleansing",
+        "url": "https://open.spotify.com/album/4ibZ4TjoERMmx7fsVVYnaO"
+      },
+      "artists": [
+        {
+          "name": "August Burns Red",
+          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
+        },
+        {
+          "name": "Will Ramos",
+          "url": "https://open.spotify.com/artist/0LQyNolD82BRJeXoEr4bwa"
+        }
+      ],
+      "duration_ms": 480566,
+      "name": "The Cleansing",
+      "url": "https://open.spotify.com/track/5iODmMKclILMRCQZcuZz0C"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Mistake",
         "url": "https://open.spotify.com/album/173Zbg8d7uScUUd4c1NJRW"
       },
@@ -951,26 +971,6 @@
       "duration_ms": 202120,
       "name": "Mistake",
       "url": "https://open.spotify.com/track/4tOCjcTo8c4wH5krCVgwsw"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "The Cleansing",
-        "url": "https://open.spotify.com/album/4ibZ4TjoERMmx7fsVVYnaO"
-      },
-      "artists": [
-        {
-          "name": "August Burns Red",
-          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
-        },
-        {
-          "name": "Will Ramos",
-          "url": "https://open.spotify.com/artist/0LQyNolD82BRJeXoEr4bwa"
-        }
-      ],
-      "duration_ms": 480566,
-      "name": "The Cleansing",
-      "url": "https://open.spotify.com/track/5iODmMKclILMRCQZcuZz0C"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Elements",
-        "url": "https://open.spotify.com/album/3huRuct9l5HQFqBBe1A1OU"
-      },
-      "artists": [
-        {
-          "name": "Siamese",
-          "url": "https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0"
-        }
-      ],
-      "duration_ms": 225891,
-      "name": "Utopia",
-      "url": "https://open.spotify.com/track/5IAazt3sxyynZLvBzi5gR9"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Fade",
         "url": "https://open.spotify.com/album/7cFNlL6pXQpLXRn09MvdsI"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 171838,
       "name": "Fade",
       "url": "https://open.spotify.com/track/1V4inJk5yBs6RnpRk9R7ba"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Elements",
+        "url": "https://open.spotify.com/album/3huRuct9l5HQFqBBe1A1OU"
+      },
+      "artists": [
+        {
+          "name": "Siamese",
+          "url": "https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0"
+        }
+      ],
+      "duration_ms": 225891,
+      "name": "Utopia",
+      "url": "https://open.spotify.com/track/5IAazt3sxyynZLvBzi5gR9"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "The Cycles Of Trying To Cope",
-        "url": "https://open.spotify.com/album/2caVxg6PlddTgxtz8abZXM"
-      },
-      "artists": [
-        {
-          "name": "Like Moths To Flames",
-          "url": "https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw"
-        }
-      ],
-      "duration_ms": 232900,
-      "name": "Over the Garden Wall",
-      "url": "https://open.spotify.com/track/58FdBxzBdpnauS9BzW2caL"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Shrine (Deluxe Version)",
         "url": "https://open.spotify.com/album/4lVuGbhw2ly53pLTpyCDow"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 219666,
       "name": "Overthrone",
       "url": "https://open.spotify.com/track/5zXwa7RclZDap8ooWXEIyb"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "The Cycles Of Trying To Cope",
+        "url": "https://open.spotify.com/album/2caVxg6PlddTgxtz8abZXM"
+      },
+      "artists": [
+        {
+          "name": "Like Moths To Flames",
+          "url": "https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw"
+        }
+      ],
+      "duration_ms": 232900,
+      "name": "Over the Garden Wall",
+      "url": "https://open.spotify.com/track/58FdBxzBdpnauS9BzW2caL"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Harbinger",
-        "url": "https://open.spotify.com/album/73nvhhc1JQVZ5GyioAM6id"
+        "name": "Sayonara",
+        "url": "https://open.spotify.com/album/0M6v6jigZvNlLEEiqFxQpA"
       },
       "artists": [
         {
-          "name": "Many Eyes",
-          "url": "https://open.spotify.com/artist/001Hfjmktqije9a7IvGuFb"
+          "name": "Enemy Inside",
+          "url": "https://open.spotify.com/artist/4DX0ctdZRMWec9KCiigIXy"
         }
       ],
-      "duration_ms": 175506,
-      "name": "Harbinger",
-      "url": "https://open.spotify.com/track/5Tpr0ZPhoKpyLZtR7exdhh"
+      "duration_ms": 164254,
+      "name": "Sayonara",
+      "url": "https://open.spotify.com/track/4b7XlNxARNw1DB8qmkCdLk"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1679,18 +1679,18 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Sayonara",
-        "url": "https://open.spotify.com/album/0M6v6jigZvNlLEEiqFxQpA"
+        "name": "Harbinger",
+        "url": "https://open.spotify.com/album/73nvhhc1JQVZ5GyioAM6id"
       },
       "artists": [
         {
-          "name": "Enemy Inside",
-          "url": "https://open.spotify.com/artist/4DX0ctdZRMWec9KCiigIXy"
+          "name": "Many Eyes",
+          "url": "https://open.spotify.com/artist/001Hfjmktqije9a7IvGuFb"
         }
       ],
-      "duration_ms": 164254,
-      "name": "Sayonara",
-      "url": "https://open.spotify.com/track/4b7XlNxARNw1DB8qmkCdLk"
+      "duration_ms": 175506,
+      "name": "Harbinger",
+      "url": "https://open.spotify.com/track/5Tpr0ZPhoKpyLZtR7exdhh"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1715,18 +1715,18 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "House of Cards",
-        "url": "https://open.spotify.com/album/1MqezT0MiTKKIsysfrYT8C"
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/4Lg1DKWKRSRKe4y4ooIqjX"
       },
       "artists": [
         {
-          "name": "Awaken I Am",
-          "url": "https://open.spotify.com/artist/3BwbgahlwovSpRfctWi8zY"
+          "name": "Take The Name",
+          "url": "https://open.spotify.com/artist/0Lt4DRxPG70NoiBseFGVtf"
         }
       ],
-      "duration_ms": 239934,
-      "name": "House of Cards",
-      "url": "https://open.spotify.com/track/5hV45IS5XiCf1HPhmss5wu"
+      "duration_ms": 217285,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/02Lea2WjPTjuL4TGw6t1QY"
     }
   ],
   "unique_name": "The Core",

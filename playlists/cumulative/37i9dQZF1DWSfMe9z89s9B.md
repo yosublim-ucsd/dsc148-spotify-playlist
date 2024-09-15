@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Duckwrth
 
-1,290 songs - 2 day 20 hr 10 min
+1,292 songs - 2 day 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,7 +295,7 @@
 | [darjeeling \(feat jorja smith & unknown t\)](https://open.spotify.com/track/1utTJXz5WzG0tONsJYKywl) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [unkown t](https://open.spotify.com/artist/5AqD1wJMWt7gK0Ebq7JGo5) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 3:03 | 2022-04-01 | 2022-04-29 |
 | [Daughter Of The Sun](https://open.spotify.com/track/07x5IGHde3C9DdVGojqG5B) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Daughter Of The Sun](https://open.spotify.com/album/2vyy1M855VK7gP1yQF6AbS) | 3:57 | 2021-06-18 | 2022-08-13 |
 | [Day In The Life](https://open.spotify.com/track/0jQsuxl8WwYHAKDstAaFVB) | [BABYKIRA](https://open.spotify.com/artist/2WQJ535LhodE0a8LfyVnlX) | [Day In The Life](https://open.spotify.com/album/4QHe6j9qW4Yma5qSGIAC6B) | 3:00 | 2024-08-23 |  |
-| [day+night \(feat\. Wolfacejoeyy\)](https://open.spotify.com/track/15ZqvIC2zw8BWXD2hhLiAR) | [Reuben Aziz](https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh), [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [day+night \(feat\. Wolfacejoeyy\)](https://open.spotify.com/album/7qpuVhQPYGbtdkuNeoCElG) | 2:47 | 2024-08-16 |  |
+| [day+night \(feat\. Wolfacejoeyy\)](https://open.spotify.com/track/15ZqvIC2zw8BWXD2hhLiAR) | [Reuben Aziz](https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh), [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [day+night \(feat\. Wolfacejoeyy\)](https://open.spotify.com/album/7qpuVhQPYGbtdkuNeoCElG) | 2:47 | 2024-08-16 | 2024-09-15 |
 | [DAYDREAM](https://open.spotify.com/track/2dsbZwFPMYhchakMgL72DD) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 3:01 | 2022-11-11 | 2023-11-20 |
 | [daydreams](https://open.spotify.com/track/28gOU6aiAGqn3INdkrbabZ) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [daydreams](https://open.spotify.com/album/3dSPH738SBPAvQB1aybD4f) | 2:40 | 2022-04-01 | 2022-04-06 |
 | [Daygo \(w/ gianni & kyle\)](https://open.spotify.com/track/1cXbG5cSc9jJMCyW2VnBBv) | [KNOWN.](https://open.spotify.com/artist/1hq8aXIxLXBwfeXGD1sGot), [gianni & kyle](https://open.spotify.com/artist/5i4BaWy8YIun1u3RXwmlWn) | [Daygo \(w/ gianni & kyle\)](https://open.spotify.com/album/0GGqUvHTZgiXPDnIsed3Gz) | 3:12 | 2022-04-01 | 2022-09-24 |
@@ -396,7 +396,7 @@
 | [Find Out](https://open.spotify.com/track/4Rkm2ThV0B7TZLEF9IN7RN) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Girl In The Half Pearl](https://open.spotify.com/album/45oxyD0tdWU3AGK2w55W2w) | 2:28 | 2023-01-13 | 2023-10-26 |
 | [Find Out](https://open.spotify.com/track/2kZvZkGkLIsxjb7BrjreXd) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Find Out](https://open.spotify.com/album/5R5CwjBqr8gsA04OncfIYi) | 2:28 | 2023-01-13 | 2023-02-19 |
 | [find u](https://open.spotify.com/track/4nrPp7oq6Rhnbohqji1x71) | [Reuben Aziz](https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh) | [find u](https://open.spotify.com/album/79cTjmw9O6NVhQgpnaNqe6) | 1:58 | 2023-04-07 | 2024-06-29 |
-| [fingerprints](https://open.spotify.com/track/4VT53Nt4LR3znRIUu4ALs5) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [FOR STARTERS](https://open.spotify.com/album/316oNIv6BFvl4jomSmcGg2) | 2:26 | 2023-06-30 |  |
+| [fingerprints](https://open.spotify.com/track/4VT53Nt4LR3znRIUu4ALs5) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [FOR STARTERS](https://open.spotify.com/album/316oNIv6BFvl4jomSmcGg2) | 2:26 | 2023-06-30 | 2024-09-15 |
 | [First Time](https://open.spotify.com/track/1KUAR4EL6XLMwQKjnKhVRn) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Cruzafied](https://open.spotify.com/album/1QZpj0VyOifnOFn49qEeKv) | 3:37 | 2024-06-14 |  |
 | [fitt \(with Amaarae\)](https://open.spotify.com/track/7ulh0asPyRT8nEkh3qbjBc) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [fitt \(with Amaarae\)](https://open.spotify.com/album/0rcevx17L0BaFLryqgEQZo) | 3:36 | 2022-04-01 | 2022-04-15 |
 | [FKA MESS](https://open.spotify.com/track/71itF9z7kqBaUIgoi80WqG) | [ABRA](https://open.spotify.com/artist/3ZJxEmjYZd5VOqZ8o3aXiL) | [FKA MESS](https://open.spotify.com/album/44vzwRlX0KWqnEf225EZ5S) | 6:01 | 2023-03-31 | 2023-04-22 |
@@ -901,6 +901,7 @@
 | [Raspberry](https://open.spotify.com/track/6OIzTYJyxTwSThOiZohpNj) | [Meiki](https://open.spotify.com/artist/0PeMOHxFqX6zeHG9hFzPYd) | [Raspberry](https://open.spotify.com/album/4tmzsAfjA1hO99I5gFavPt) | 4:33 | 2022-07-15 | 2022-07-23 |
 | [raw](https://open.spotify.com/track/2bGd94PnM9kaQOCxOrIDh8) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [raw](https://open.spotify.com/album/4Hofq1L0O8op3NV454YqoC) | 3:06 | 2021-03-19 | 2022-08-09 |
 | [React](https://open.spotify.com/track/3ok8eAQioOTORzkuJ8pHZk) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [React](https://open.spotify.com/album/65scBPZ6DNuKCjcQkeJnjB) | 2:41 | 2024-05-03 |  |
+| [Read the Room](https://open.spotify.com/track/4SUFYzuSOqqVIwZJrkGD1W) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Nintindo Soul](https://open.spotify.com/album/1HaSycwssAOYNRmcdr1MXR) | 2:54 | 2024-09-13 |  |
 | [Really, Really](https://open.spotify.com/track/5GrO19oHIMSAVSPWjRhaRT) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Goodnight Dreamer](https://open.spotify.com/album/4N5BV2JlYBvLi1g3BSwMdi) | 2:26 | 2022-04-01 | 2022-04-13 |
 | [Rearrange](https://open.spotify.com/track/1APcu1K9e8tT6gqcxZ8PZS) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [Casper Sage](https://open.spotify.com/album/5DAYEhp2PPv7eDL5UTf4vr) | 4:26 | 2022-05-13 | 2022-07-16 |
 | [Red Room](https://open.spotify.com/track/0aefDhwto2nL2kTHIiil0J) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Red Room](https://open.spotify.com/album/6nMLINUfKd2p6mZ3El99Yj) | 3:52 | 2022-04-01 | 2022-04-16 |
@@ -1239,6 +1240,7 @@
 | [What You Need](https://open.spotify.com/track/4O9t8Qq941SAzdGlex4noA) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 3:03 | 2021-03-19 | 2022-07-01 |
 | [What's Left?](https://open.spotify.com/track/1x4CYMn8vexAXb5ZgenZqu) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [blanket](https://open.spotify.com/album/5XTSqh2cKQ6jkbqHChbK0m) | 2:51 | 2023-01-13 | 2023-01-28 |
 | [Whatever Simon Says](https://open.spotify.com/track/1tHUrfOKfRgzuGaa6lXcK7) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Whatever Simon Says](https://open.spotify.com/album/78UFlfxHiZnU7Jl3tdDZxn) | 3:32 | 2022-04-01 | 2022-08-09 |
+| [What’s It Take to Be a Star?](https://open.spotify.com/track/1PUSZJtA4Q7WGT6uX6lyQw) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [What’s It Take to Be a Star?](https://open.spotify.com/album/5b8CFomatusCobpOtmnNdJ) | 2:48 | 2024-09-13 |  |
 | [whelmed](https://open.spotify.com/track/4dj5RTVztRLROh8hJi8uHl) | [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [allthefeels](https://open.spotify.com/album/2DXytFWgK7lHidJLxTJzT2) | 4:08 | 2022-07-15 | 2023-05-14 |
 | [Where R We Now](https://open.spotify.com/track/3FM0krwj4HkhilemtYGhtq) | [Jay Wile](https://open.spotify.com/artist/1VvjB8ztJLmmj2fyL4TkCU), [Jay James](https://open.spotify.com/artist/03NiOycjVSDIuglwWSl4BH) | [Where R We Now](https://open.spotify.com/album/2FotJhseFZAcDsNHy7O4Ev) | 2:41 | 2023-06-16 | 2024-04-02 |
 | [While You Were Sleeping](https://open.spotify.com/track/7kWOuJFd1UenmFrr9z64H9) | [Annahstasia](https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE), [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [While You Were Sleeping](https://open.spotify.com/album/6tmcv5Ex2UwhFvNXScwD44) | 3:34 | 2023-04-07 | 2023-06-19 |

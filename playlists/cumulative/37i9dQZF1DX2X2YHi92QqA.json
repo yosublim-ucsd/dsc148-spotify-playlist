@@ -188,7 +188,7 @@
       ],
       "date_added": "2024-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 174730,
       "name": "Feel it Still",
       "url": "https://open.spotify.com/track/2iW6xpM6ift3Ro3CCNbbrM"
@@ -1988,6 +1988,28 @@
       "duration_ms": 152608,
       "name": "\u0422\u0438 \u0442\u0430\u043a \u043c\u0430\u043b\u043e \u0433\u043e\u0432\u043e\u0440\u0438\u0448",
       "url": "https://open.spotify.com/track/7mmU3dlHNkrA8sjaT4l03s"
+    },
+    {
+      "album": {
+        "name": "\u0423 \u0422\u041e\u0411\u0406",
+        "url": "https://open.spotify.com/album/76fJbyKNSOEIwX4sSzdKtL"
+      },
+      "artists": [
+        {
+          "name": "TAYNA",
+          "url": "https://open.spotify.com/artist/4aSOo4Ft3eF5rNS1idHvg1"
+        },
+        {
+          "name": "\u041b\u0415\u0412\u0406\u0422",
+          "url": "https://open.spotify.com/artist/0iWdKqUFX5qzMwnB5r5irh"
+        }
+      ],
+      "date_added": "2024-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "\u0423 \u0422\u041e\u0411\u0406",
+      "url": "https://open.spotify.com/track/0KHXGHrnVIyhWvr3BAPRG1"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 
 
-1,701 songs - 3 day 19 hr 25 min
+1,702 songs - 3 day 19 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1694,6 +1694,7 @@
 | [You & Me \[DJ KS Remix\]](https://open.spotify.com/track/2n9fh79TEJf9SSF7TVWZwS) | [Atef](https://open.spotify.com/artist/1b8QKXnA1e1CPFMosj8OMi), [Nikolett](https://open.spotify.com/artist/7vrHT0xS4atJvoF4iDJ9IL), [DJ KS](https://open.spotify.com/artist/6Y3XN4gzZVNhVdBe3OepSN) | [You & Me \[DJ KS Remix\]](https://open.spotify.com/album/41ss38ilgBOp9ZqWkaM7Zu) | 2:44 | 2024-03-29 |  |
 | [You Ain't Telling Me Shit](https://open.spotify.com/track/3eccAxEJG48KjYCT1rqBUC) | [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73) | [You Ain't Telling Me Shit](https://open.spotify.com/album/1kWRE5YZW0onMi01j5M2da) | 2:54 | 2022-09-14 |  |
 | [YOU AND I](https://open.spotify.com/track/4l5bnfhYrJiN5a6foPvR0m) | [Mish](https://open.spotify.com/artist/65kwwmTEJIlKRldGhmUM0b), [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW) | [RAVE LOVE](https://open.spotify.com/album/0jR0Be5fQFR88vVUDBahWs) | 2:49 | 2023-04-16 |  |
+| [YOU AND I](https://open.spotify.com/track/3CmZLArSdppIyTGQiQkZjX) | [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa) | [YOU AND I](https://open.spotify.com/album/0Cl6QUemj8zkcm1oLdstuf) | 3:14 | 2024-09-15 |  |
 | [You Are Mine](https://open.spotify.com/track/20szXJYQkLyuYRFkP0fWuG) | [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE) | [You Are Mine](https://open.spotify.com/album/3y5GWG3zwX6mqybmEOUZJY) | 4:06 | 2023-09-22 |  |
 | [You Are Mine \- Illuszion Remix](https://open.spotify.com/track/1Mz2Vm4sgKEOb7PJjNYLy2) | [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2), [illuszion](https://open.spotify.com/artist/1SxMLa74v5XKzGwdxWNhgp) | [You Are Mine \(Illuszion Remix\)](https://open.spotify.com/album/568NOj3iqG15twFjO88p88) | 2:34 | 2023-07-14 |  |
 | [You Can't See](https://open.spotify.com/track/5Tj5sDDsR87XVuaiikHW3q) | [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa) | [You Can't See](https://open.spotify.com/album/2ZQTb4VFMoElqmzHbPLycj) | 4:01 | 2023-03-31 |  |

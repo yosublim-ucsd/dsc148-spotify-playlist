@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 
 > Cryzin e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,119 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,150 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 43 | [Parece Caro](https://open.spotify.com/track/0uJNFBUlT6T6XqFRqDUZ7D) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx) | [Estrela do Rap](https://open.spotify.com/album/29BE8XW1c7IjLGXh1fvBoO) | 3:28 |
 | 44 | [Quebradas 2](https://open.spotify.com/track/68zUWvUbGAQxlc8cAVGkCO) | [MC Paulin da Capital](https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2), [Dj GM](https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC), [Mc Lipi](https://open.spotify.com/artist/0cjkWe9VXcECGiOEHFuTfc), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [Quebradas 2](https://open.spotify.com/album/59Vwfgt1SoNC6G7CRAfSlB) | 6:01 |
 | 45 | [24hrs](https://open.spotify.com/track/7h8IgSnEDjclxGvUKyfyvj) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [biggie diehl](https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy) | [24hrs](https://open.spotify.com/album/0dIToP40dUYcpMW9Gwso91) | 2:20 |
-| 46 | [2022](https://open.spotify.com/track/4tjE5KCgw98VypSqtVCh3W) | [Milthinho](https://open.spotify.com/artist/44MnHK78EcZw23nzqY1vFp) | [2022](https://open.spotify.com/album/7ysk3Rg7XyoRGqhiUmuxy1) | 3:38 |
+| 46 | [calor do momento](https://open.spotify.com/track/66nRZPGdQWXZhTSfvpIFDS) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp), [Cupertino](https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD), [Leo Guima](https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d) | [OS GAROTIN DE SÃO GONÇALO](https://open.spotify.com/album/07C0GZEXLAELHVNkBNeVXZ) | 3:19 |
 | 47 | [Vai Valer A Pena \- Ao Vivo](https://open.spotify.com/track/6kHf0Ax9bvwziqZgo948dP) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Sorte \(Ao Vivo / EP01\)](https://open.spotify.com/album/5KNpDTmQLlebpsHsGQ90pK) | 3:02 |
-| 48 | [calor do momento](https://open.spotify.com/track/66nRZPGdQWXZhTSfvpIFDS) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp), [Cupertino](https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD), [Leo Guima](https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d) | [OS GAROTIN DE SÃO GONÇALO](https://open.spotify.com/album/07C0GZEXLAELHVNkBNeVXZ) | 3:19 |
+| 48 | [2022](https://open.spotify.com/track/4tjE5KCgw98VypSqtVCh3W) | [Milthinho](https://open.spotify.com/artist/44MnHK78EcZw23nzqY1vFp) | [2022](https://open.spotify.com/album/7ysk3Rg7XyoRGqhiUmuxy1) | 3:38 |
 | 49 | [Resenha das Minas \- Ao Vivo](https://open.spotify.com/track/2HgHyUK0vQOSxK71EShKsS) | [Thais Macedo](https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP) | [Resenha das Minas 2, EP 1 \(Ao Vivo\)](https://open.spotify.com/album/04k20MDgqgj9pd3OimfVF7) | 2:45 |
 | 50 | [Despedida De Solteiro \- Ao Vivo](https://open.spotify.com/track/0ojITFsiarLcH7qzJvseWj) | [Grupo Benzadeus](https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Energia Benzadeus \(Ao Vivo\)](https://open.spotify.com/album/3EfjvhRjvdm99Gq1IGoFK2) | 2:33 |
 

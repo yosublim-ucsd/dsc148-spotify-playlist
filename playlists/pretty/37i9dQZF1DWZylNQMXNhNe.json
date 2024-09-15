@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novidades de artistas LGBTQIAPN+ est\u00e3o aqui. Foto: Boombeat, Jaloo",
-  "num_followers": 223987,
+  "num_followers": 223980,
   "original_name": "GLOW Brasil",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-07-12 16:01:12",
       "album": {
-        "name": "Batid\u00e3o Tropical Vol. 2",
-        "url": "https://open.spotify.com/album/7g1OoBZsRRCy2DA9NeASaw"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 192421,
-      "name": "Pede Pra Eu Ficar (Listen To Your Heart)",
-      "url": "https://open.spotify.com/track/0vPKkAQAh4L7wpNmAemr5E"
-    },
-    {
-      "added_at": "2024-07-12 16:01:12",
-      "album": {
         "name": "Silva & Liniker (Ao Vivo)",
         "url": "https://open.spotify.com/album/7KLR11ffMXPDqbsXVT9GtG"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 230746,
       "name": "Sorte - Ao Vivo",
       "url": "https://open.spotify.com/track/5OwOtdiPrzZHq0WQ7QYOKl"
+    },
+    {
+      "added_at": "2024-07-12 16:01:12",
+      "album": {
+        "name": "Batid\u00e3o Tropical Vol. 2",
+        "url": "https://open.spotify.com/album/7g1OoBZsRRCy2DA9NeASaw"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 192421,
+      "name": "Pede Pra Eu Ficar (Listen To Your Heart)",
+      "url": "https://open.spotify.com/track/0vPKkAQAh4L7wpNmAemr5E"
     },
     {
       "added_at": "2024-07-12 16:01:12",
@@ -883,6 +883,26 @@
     {
       "added_at": "2024-07-12 16:01:12",
       "album": {
+        "name": "FREV\u00c1LIA",
+        "url": "https://open.spotify.com/album/4S048cLKhn1TaH814OJPcz"
+      },
+      "artists": [
+        {
+          "name": "Romero Ferro",
+          "url": "https://open.spotify.com/artist/6RQQuhhlJwsjKJTW1P9PU9"
+        },
+        {
+          "name": "Gaby Amarantos",
+          "url": "https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L"
+        }
+      ],
+      "duration_ms": 224865,
+      "name": "Em Plena Lua De Mel",
+      "url": "https://open.spotify.com/track/19F1I2zcOOUMAc8KK4ntIO"
+    },
+    {
+      "added_at": "2024-07-12 16:01:12",
+      "album": {
         "name": "Amor Fati",
         "url": "https://open.spotify.com/album/3Lmn9e3tpif5pa791FhcBy"
       },
@@ -903,26 +923,6 @@
     {
       "added_at": "2024-07-12 16:01:12",
       "album": {
-        "name": "Cont\u00e9m1drama",
-        "url": "https://open.spotify.com/album/7mXmm1XHg7pOlCW7NUVWGY"
-      },
-      "artists": [
-        {
-          "name": "Tot\u00f4 de Babalong",
-          "url": "https://open.spotify.com/artist/0zsgeSGGHL9FLxTBcfNd2x"
-        },
-        {
-          "name": "Milla Zuti",
-          "url": "https://open.spotify.com/artist/3p53okrxm97yd0dQuVacgB"
-        }
-      ],
-      "duration_ms": 185404,
-      "name": "Caipirinha de Mil\u00e3o",
-      "url": "https://open.spotify.com/track/3NNtJ1cxR3olu3YfF1zup3"
-    },
-    {
-      "added_at": "2024-07-12 16:01:12",
-      "album": {
         "name": "Menino",
         "url": "https://open.spotify.com/album/0TqFDnB8H0HI57oPIKsZBg"
       },
@@ -939,22 +939,22 @@
     {
       "added_at": "2024-07-12 16:01:12",
       "album": {
-        "name": "FREV\u00c1LIA",
-        "url": "https://open.spotify.com/album/4S048cLKhn1TaH814OJPcz"
+        "name": "Cont\u00e9m1drama",
+        "url": "https://open.spotify.com/album/7mXmm1XHg7pOlCW7NUVWGY"
       },
       "artists": [
         {
-          "name": "Romero Ferro",
-          "url": "https://open.spotify.com/artist/6RQQuhhlJwsjKJTW1P9PU9"
+          "name": "Tot\u00f4 de Babalong",
+          "url": "https://open.spotify.com/artist/0zsgeSGGHL9FLxTBcfNd2x"
         },
         {
-          "name": "Gaby Amarantos",
-          "url": "https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L"
+          "name": "Milla Zuti",
+          "url": "https://open.spotify.com/artist/3p53okrxm97yd0dQuVacgB"
         }
       ],
-      "duration_ms": 224865,
-      "name": "Em Plena Lua De Mel",
-      "url": "https://open.spotify.com/track/19F1I2zcOOUMAc8KK4ntIO"
+      "duration_ms": 185404,
+      "name": "Caipirinha de Mil\u00e3o",
+      "url": "https://open.spotify.com/track/3NNtJ1cxR3olu3YfF1zup3"
     },
     {
       "added_at": "2024-07-12 16:01:12",

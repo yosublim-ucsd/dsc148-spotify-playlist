@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > The Weeknd au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,646 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,699 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 69 | [Don't Stop](https://open.spotify.com/track/4EDbDZdnAiiDW2gNbfAKcV) | [Jabberwocky](https://open.spotify.com/artist/7xfdx6PiB50V9VWI4Mq70R) | [Don't Stop](https://open.spotify.com/album/31etO9Gfm12vpTQmwYcFZo) | 4:20 |
 | 70 | [Make Love \(Que du Love, Pt\. 2\)](https://open.spotify.com/track/78M2p3tfDUcz7JF1lRaVHO) | [Kiddy Smile](https://open.spotify.com/artist/4Y5crYhYaEQKOzikPPIZDx) | [Make Love \(Que du Love, Pt\. 2\)](https://open.spotify.com/album/7gApEBLc3z9GH5Ow8Im5MH) | 2:57 |
 | 71 | [Paradise](https://open.spotify.com/track/1azGAlMz4aaKg3CbiLSxjL) | [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Paradise](https://open.spotify.com/album/6obOtGQ9VkQEg8q73peY7d) | 2:27 |
-| 72 | [Rozin](https://open.spotify.com/track/0JHH5LFZp29U9JaFWo54un) | [Jeune Lion](https://open.spotify.com/artist/4tTvRdLVGAsJyk9lEEx3Xb) | [Rozin](https://open.spotify.com/album/4nLPoP8ztwrajlS1n2SlYN) | 2:54 |
+| 72 | [ROZIN](https://open.spotify.com/track/0JHH5LFZp29U9JaFWo54un) | [Jeune Lion](https://open.spotify.com/artist/4tTvRdLVGAsJyk9lEEx3Xb) | [ROZIN](https://open.spotify.com/album/4nLPoP8ztwrajlS1n2SlYN) | 2:54 |
 | 73 | [Shuffle](https://open.spotify.com/track/2EYde8YgCxW4yYtzdgvN7y) | [Tshegue](https://open.spotify.com/artist/3eEAELTLLkQc0PD2S2xAhN) | [Shuffle](https://open.spotify.com/album/5xDLYzzH97dqGwGXjC7jtm) | 2:20 |
 | 74 | [Sitt'n Fi Chat](https://open.spotify.com/track/5OwJy5JpsupCWlKtGPKygh) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Sitt'n Fi Chat](https://open.spotify.com/album/4Fgp0m5xTV1gFodrFf2wsc) | 2:46 |
 | 75 | [Beautiful Day](https://open.spotify.com/track/263JoWo2G2ZhdpFSNx0naB) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa) | [Beautiful Day](https://open.spotify.com/album/3UAnVb3U0p7Muzgwux5W8s) | 3:09 |

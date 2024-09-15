@@ -1,6 +1,6 @@
 {
   "description": "A selection of the finest Hip Hop tracks from the illest Arab Rappers. Cover: The Synaptik ",
-  "num_followers": 132315,
+  "num_followers": 132322,
   "original_name": "Arab Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -339,26 +339,22 @@
     {
       "added_at": "2024-08-12 08:19:10",
       "album": {
-        "name": "2000GEN",
-        "url": "https://open.spotify.com/album/7LJMEIJvoJMwq2dXQDEAwk"
+        "name": "Garee2",
+        "url": "https://open.spotify.com/album/1xlYKH8POCbba3dWrA7Ruv"
       },
       "artists": [
         {
-          "name": "TURK",
-          "url": "https://open.spotify.com/artist/1wFfctC3FJR269GkjAajLL"
+          "name": "Muhab",
+          "url": "https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ"
         },
         {
-          "name": "Arsenik",
-          "url": "https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM"
-        },
-        {
-          "name": "ZIAD ZAZA",
-          "url": "https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM"
+          "name": "El Waili",
+          "url": "https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU"
         }
       ],
-      "duration_ms": 152607,
-      "name": "M3 3DM E7TRAMY",
-      "url": "https://open.spotify.com/track/0qql8zT1LEoL8NmbD4mtQ9"
+      "duration_ms": 69498,
+      "name": "Garee2",
+      "url": "https://open.spotify.com/track/6XKzZqXcUVVq8uqpT30WtB"
     },
     {
       "added_at": "2024-08-12 08:19:10",
@@ -379,22 +375,26 @@
     {
       "added_at": "2024-08-12 08:19:10",
       "album": {
-        "name": "Garee2",
-        "url": "https://open.spotify.com/album/1xlYKH8POCbba3dWrA7Ruv"
+        "name": "2000GEN",
+        "url": "https://open.spotify.com/album/7LJMEIJvoJMwq2dXQDEAwk"
       },
       "artists": [
         {
-          "name": "Muhab",
-          "url": "https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ"
+          "name": "TURK",
+          "url": "https://open.spotify.com/artist/1wFfctC3FJR269GkjAajLL"
         },
         {
-          "name": "El Waili",
-          "url": "https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU"
+          "name": "Arsenik",
+          "url": "https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM"
+        },
+        {
+          "name": "ZIAD ZAZA",
+          "url": "https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM"
         }
       ],
-      "duration_ms": 69498,
-      "name": "Garee2",
-      "url": "https://open.spotify.com/track/6XKzZqXcUVVq8uqpT30WtB"
+      "duration_ms": 152607,
+      "name": "M3 3DM E7TRAMY",
+      "url": "https://open.spotify.com/track/0qql8zT1LEoL8NmbD4mtQ9"
     },
     {
       "added_at": "2024-08-12 08:19:10",
@@ -431,6 +431,22 @@
       "duration_ms": 212869,
       "name": "3L Abyad",
       "url": "https://open.spotify.com/track/70mx55jeb49jYJkjVbNR6W"
+    },
+    {
+      "added_at": "2024-08-12 08:19:10",
+      "album": {
+        "name": "Hakeem",
+        "url": "https://open.spotify.com/album/2lEL8PvHsF1uPGX4TNOAQP"
+      },
+      "artists": [
+        {
+          "name": "Muhab",
+          "url": "https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ"
+        }
+      ],
+      "duration_ms": 146316,
+      "name": "Hakeem",
+      "url": "https://open.spotify.com/track/04BkxAeJge8nrb0VC3McuK"
     },
     {
       "added_at": "2024-08-12 08:19:10",
@@ -515,22 +531,6 @@
     {
       "added_at": "2024-08-12 08:19:10",
       "album": {
-        "name": "Hakeem",
-        "url": "https://open.spotify.com/album/2lEL8PvHsF1uPGX4TNOAQP"
-      },
-      "artists": [
-        {
-          "name": "Muhab",
-          "url": "https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ"
-        }
-      ],
-      "duration_ms": 146316,
-      "name": "Hakeem",
-      "url": "https://open.spotify.com/track/04BkxAeJge8nrb0VC3McuK"
-    },
-    {
-      "added_at": "2024-08-12 08:19:10",
-      "album": {
         "name": "YAKINE",
         "url": "https://open.spotify.com/album/7nRerBl4lUXufNvLS3OjTX"
       },
@@ -567,18 +567,18 @@
     {
       "added_at": "2024-08-12 08:19:10",
       "album": {
-        "name": "2x1",
-        "url": "https://open.spotify.com/album/5jVfTzpviF4GNj47qcrGbp"
+        "name": "Ayamy Betfoot",
+        "url": "https://open.spotify.com/album/5vjadUmDs4MBIsKzqjupE3"
       },
       "artists": [
         {
-          "name": "LFERDA",
-          "url": "https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v"
+          "name": "Abo El Anwar",
+          "url": "https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6"
         }
       ],
-      "duration_ms": 203694,
-      "name": "Zagalo",
-      "url": "https://open.spotify.com/track/7JhSP9fNLGM6l8XEpQIUBH"
+      "duration_ms": 182253,
+      "name": "Ayamy Betfoot",
+      "url": "https://open.spotify.com/track/0A1S5v9iqx8VcAr9EXJyYN"
     },
     {
       "added_at": "2024-08-12 08:19:10",
@@ -599,22 +599,6 @@
       "duration_ms": 150508,
       "name": "Lojy",
       "url": "https://open.spotify.com/track/3dAhErSXqu7WxM5wJp48By"
-    },
-    {
-      "added_at": "2024-08-12 08:19:10",
-      "album": {
-        "name": "Ayamy Betfoot",
-        "url": "https://open.spotify.com/album/5vjadUmDs4MBIsKzqjupE3"
-      },
-      "artists": [
-        {
-          "name": "Abo El Anwar",
-          "url": "https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6"
-        }
-      ],
-      "duration_ms": 182253,
-      "name": "Ayamy Betfoot",
-      "url": "https://open.spotify.com/track/0A1S5v9iqx8VcAr9EXJyYN"
     },
     {
       "added_at": "2024-08-12 08:19:10",
@@ -651,6 +635,22 @@
       "duration_ms": 161695,
       "name": "Fein El Dawa",
       "url": "https://open.spotify.com/track/003TuuUc1rrAiuq6Nora4X"
+    },
+    {
+      "added_at": "2024-08-12 08:19:10",
+      "album": {
+        "name": "2x1",
+        "url": "https://open.spotify.com/album/5jVfTzpviF4GNj47qcrGbp"
+      },
+      "artists": [
+        {
+          "name": "LFERDA",
+          "url": "https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v"
+        }
+      ],
+      "duration_ms": 203694,
+      "name": "Zagalo",
+      "url": "https://open.spotify.com/track/7JhSP9fNLGM6l8XEpQIUBH"
     },
     {
       "added_at": "2024-08-12 08:19:10",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-08-12 08:19:10",
       "album": {
-        "name": "RECTOVERSO",
-        "url": "https://open.spotify.com/album/1PXz6YGt7KNq52crGuY9v9"
-      },
-      "artists": [
-        {
-          "name": "Dollypran",
-          "url": "https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS"
-        }
-      ],
-      "duration_ms": 251748,
-      "name": "Ghetto Symphony",
-      "url": "https://open.spotify.com/track/0Qk2pgJxmfiAwH1jtjTTBc"
-    },
-    {
-      "added_at": "2024-08-12 08:19:10",
-      "album": {
         "name": "DOMA (feat. TooDope)",
         "url": "https://open.spotify.com/album/1mMvVmB0dpOWxJvIIF564a"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 180000,
       "name": "DOMA (feat. TooDope)",
       "url": "https://open.spotify.com/track/4cPz71LZVkKTdIzP3CwJM8"
+    },
+    {
+      "added_at": "2024-08-12 08:19:10",
+      "album": {
+        "name": "RECTOVERSO",
+        "url": "https://open.spotify.com/album/1PXz6YGt7KNq52crGuY9v9"
+      },
+      "artists": [
+        {
+          "name": "Dollypran",
+          "url": "https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS"
+        }
+      ],
+      "duration_ms": 251748,
+      "name": "Ghetto Symphony",
+      "url": "https://open.spotify.com/track/0Qk2pgJxmfiAwH1jtjTTBc"
     },
     {
       "added_at": "2024-08-12 08:19:10",

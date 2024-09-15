@@ -2,7 +2,7 @@
 
 ### [This Is Big Daddy Weave](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Rwe2O)
 
-> This is Big Daddy Weave\. Todos os maiores hits em uma só playlist.
+> This is Big Daddy Weave\. The essential tracks, all in one playlist.
 
 68 songs - 4 hr 40 min
 

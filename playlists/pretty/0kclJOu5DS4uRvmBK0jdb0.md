@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kclJOu5DS4uRvmBK0jdb0.md) - [plain]
 
 > SPORT FREI! <a href="http://www.rammstein.com">RAMMSTEIN</a>
 
-[Rammstein](https://open.spotify.com/user/rammsteinofficial) - 7,635 likes - 11 songs - 44 min 51 sec
+[Rammstein](https://open.spotify.com/user/rammsteinofficial) - 7,637 likes - 11 songs - 44 min 51 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/0kclJOu5DS4uRvmBK0jdb0.md) - [plain]
 | 6 | [Du hast](https://open.spotify.com/track/5awDvzxWfd53SSrsRZ8pXO) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht](https://open.spotify.com/album/2w6Vy8qZLU4niyQAHyu0Ag) | 3:54 |
 | 7 | [Du riechst so gut](https://open.spotify.com/track/1jj1iCvo4LbprmQnO4Aq87) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Made In Germany 1995 \- 2011 \- Special Edition](https://open.spotify.com/album/20mEbRzpqGIWyLtUO6LbjB) | 4:32 |
 | 8 | [Mein Land](https://open.spotify.com/track/1Cssm6TMieYSFz8gQyPzxa) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Made In Germany 1995 \- 2011 \- Special Edition](https://open.spotify.com/album/20mEbRzpqGIWyLtUO6LbjB) | 3:53 |
-| 9 | [Mehr](https://open.spotify.com/track/46FUbtFPleDVCwlNtTPOBN) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Liebe ist für alle da \(Special Edition\)](https://open.spotify.com/album/29J0MchD0OWNeiMNbPDwfa) | 4:08 |
+| 9 | [Mehr](https://open.spotify.com/track/46FUbtFPleDVCwlNtTPOBN) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Liebe ist für alle da \- Special Edition](https://open.spotify.com/album/29J0MchD0OWNeiMNbPDwfa) | 4:08 |
 | 10 | [Spring](https://open.spotify.com/track/0Z8q59waoxGjcRZDC3ffhH) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rosenrot](https://open.spotify.com/album/3PrS5X3QNdDUlBIE4bz6J2) | 5:24 |
 | 11 | [Morgenstern](https://open.spotify.com/track/0gf9HMeZDXRexbuM5CihZg) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Reise, Reise](https://open.spotify.com/album/74ydDCcXTco741y42ceRJ5) | 3:59 |
 

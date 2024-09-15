@@ -1174,6 +1174,24 @@
     {
       "album": {
         "name": "Love, Pain & The Whole Crazy Thing",
+        "url": "https://open.spotify.com/album/3txPRPVrAXeiO0pJ13kFX7"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317120,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/3hLH9mrL9oFb2G3LM26o8w"
+    },
+    {
+      "album": {
+        "name": "Love, Pain & The Whole Crazy Thing",
         "url": "https://open.spotify.com/album/4sTNnZi0xkMIaFs8tT96fl"
       },
       "artists": [
@@ -1184,7 +1202,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 317120,
       "name": "Shine",
       "url": "https://open.spotify.com/track/6IvF3lDMtJyF6WHuNa7axD"

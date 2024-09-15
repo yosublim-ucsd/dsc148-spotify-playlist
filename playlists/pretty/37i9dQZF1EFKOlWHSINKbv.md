@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOlWHSINKbv.md) - [plain]
 | 148 | [First Place Loser \- Bonus Track](https://open.spotify.com/track/1d5AxYa4bOiTaHTOC3UvTg) | [Diddy \- Dirty Money](https://open.spotify.com/artist/2QYEvpsWUOjqaYuxDPTCmV) | [Last Train To Paris \(Deluxe\)](https://open.spotify.com/album/4Ofqtk9mm4nmBuCPhctq0e) | 4:28 |
 | 149 | [die with a smile](https://open.spotify.com/track/1yXChjFxlhmoNFHFFR9sU2) | [euhlr](https://open.spotify.com/artist/7hMFnTqIUL7qZ8P0mG9MFk) | [die with a smile](https://open.spotify.com/album/127y78qXF7Wntjv9HjP1MA) | 4:05 |
 
-Snapshot ID: `AbcEIAAAAADsFfQ2Z2U4Zz3yKrPgS+cL`
+Snapshot ID: `AbcJ1QAAAACR2lMSaeNumHweS9QiYY+7`

@@ -4,7 +4,7 @@
 
 > Descubre los temas emergentes del mundo indie\. Foto: Yarea.
 
-185 songs - 9 hr 40 min
+186 songs - 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Ajedrez](https://open.spotify.com/track/2nMK2nFgxfTJdjyZPw8O04) | [MERINO](https://open.spotify.com/artist/6oUhPlreIDCXfoUSUcXOam) | [Ajedrez](https://open.spotify.com/album/6ig55uXsdJVqspmTyw2ibt) | 3:22 | 2024-08-08 |  |
 | [Al Amanecer](https://open.spotify.com/track/5FMnqUbLGqWi0Y12MCVYSN) | [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD) | [Al Amanecer](https://open.spotify.com/album/0tvM7MTPrI9bASHbYn89Xy) | 3:11 | 2024-07-11 |  |
 | [Al infierno](https://open.spotify.com/track/7JGdiO9JZ5ptciwfGIpXCP) | [Embusteros](https://open.spotify.com/artist/6f7lvc6nLaTvShpNCJNveE) | [Al infierno](https://open.spotify.com/album/18EbbTx2GElGvszuckMxzA) | 3:38 | 2024-06-27 |  |
-| [AL OTRO LADO](https://open.spotify.com/track/2VYGbSmszhkB0CKEZbVFNW) | [Blackpanda](https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma) | [AL OTRO LADO](https://open.spotify.com/album/6AAmEXwhaKrKWwg4hDhpXF) | 2:28 | 2024-06-27 |  |
+| [AL OTRO LADO](https://open.spotify.com/track/2VYGbSmszhkB0CKEZbVFNW) | [Blackpanda](https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma) | [AL OTRO LADO](https://open.spotify.com/album/6AAmEXwhaKrKWwg4hDhpXF) | 2:28 | 2024-06-27 | 2024-09-15 |
 | [Algo que ganar](https://open.spotify.com/track/3UJNuMmw1u6MAeuVOvkyMT) | [Casero](https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy) | [Algo que ganar](https://open.spotify.com/album/3mr5uPl1njqUecgDQyV8Hr) | 3:12 | 2024-07-04 | 2024-07-27 |
 | [ALGO\-RITMO](https://open.spotify.com/track/2n0GhbR961I6c20JUjQz1A) | [Malva Vela](https://open.spotify.com/artist/42gMsjzIofZl8uTc1NmRHz) | [ALGO\-RITMO](https://open.spotify.com/album/29KvJq9YBgSCBdmtDPVUej) | 3:26 | 2024-06-27 | 2024-07-12 |
 | [Amargura \(Cover para Movistar Plus+\)](https://open.spotify.com/track/2FFsZuWAHErJD6Chl5cye8) | [Maria Rodés](https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf) | [Amargura \(Cover para Movistar Plus+\)](https://open.spotify.com/album/27Z1U1bmE7S5COp8N9bLgL) | 3:04 | 2024-07-25 |  |
@@ -93,6 +93,7 @@
 | [I´M FUCKING FREE](https://open.spotify.com/track/0A75n3snD4oCDr1icus0IS) | [Luna Zuazu](https://open.spotify.com/artist/0aIiiEWwpITfHLl0JPtl0J) | [I´M FUCKING FREE](https://open.spotify.com/album/108w66KErOlKUiYhFVyhwX) | 2:31 | 2024-08-29 |  |
 | [Joga Bonito](https://open.spotify.com/track/5LEMwbRY353rXCH2KqivIR) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [Joga Bonito](https://open.spotify.com/album/1eTSgzybuVPF0NlBz6OTLf) | 2:42 | 2024-06-27 | 2024-08-09 |
 | [KORAJE](https://open.spotify.com/track/4m6if2f135zgTxCGhR1jAj) | [Malva Vela](https://open.spotify.com/artist/42gMsjzIofZl8uTc1NmRHz) | [KORAJE](https://open.spotify.com/album/57rBM3xWlhAHtGffXq8OZE) | 3:46 | 2024-06-27 |  |
+| [LA AVENTURA](https://open.spotify.com/track/28Yl5Fn4ahrXrBTm8zGJgl) | [León Benavente](https://open.spotify.com/artist/5wuBA4TiRM0CNjSXjsutn6) | [LA AVENTURA](https://open.spotify.com/album/64tqdgffrYyDYKTsJZ38IY) | 4:14 | 2024-09-12 |  |
 | [La Ceniza \(feat\. Valeria Castro\)](https://open.spotify.com/track/7AGYsCMcwID3CBGnwPUlyj) | [Ale Acosta](https://open.spotify.com/artist/1tqvdpL1WYZ7js010M2AJx), [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [La Ceniza \(feat\. Valeria Castro\)](https://open.spotify.com/album/3H9GNHRuz3ybedGvH5WCyo) | 3:26 | 2024-06-27 |  |
 | [la del cretino](https://open.spotify.com/track/3FqV5v3r3WZ0NFlFc1WgPX) | [vatocholo](https://open.spotify.com/artist/5lgauAo4BLN9PodnIxhxi8) | [la del cretino](https://open.spotify.com/album/6DxzzlM2KEKrcrPtdD34LO) | 3:36 | 2024-08-01 |  |
 | [La Niña \[2000\]](https://open.spotify.com/track/59zRZ7eFYSXVjzu4W6fx86) | [MERINO](https://open.spotify.com/artist/6oUhPlreIDCXfoUSUcXOam) | [La Niña \[2000\]](https://open.spotify.com/album/4Xj97iUQTO9v0Tr8RJN2D8) | 3:19 | 2024-09-05 |  |

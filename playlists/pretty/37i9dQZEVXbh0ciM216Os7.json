@@ -6,13 +6,13 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAABwaT123oqHWUFxONXPN7Nd",
+  "snapshot_id": "AAAAAAAAAACtXnr5Vej0bVcV9sA5sPlC",
   "tracks": [
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce): Expanded Mourner\u2019s Edition",
-        "url": "https://open.spotify.com/album/31hcgCSu4mlA82syOFItur"
+        "name": "Fuel (feat. WESTSIDE BOOGIE & GRIP) - Shady Edition",
+        "url": "https://open.spotify.com/album/5mjH6kL3zysY2X8VZVb9BU"
       },
       "artists": [
         {
@@ -29,8 +29,8 @@
         }
       ],
       "duration_ms": 290422,
-      "name": "Fuel - Shady Edition",
-      "url": "https://open.spotify.com/track/68IkI6ttYOzNyS5iW2Zx70"
+      "name": "Fuel (feat. WESTSIDE BOOGIE & GRIP) - Shady Edition",
+      "url": "https://open.spotify.com/track/2By3Bbd6UYQqdhLnkMHZb6"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -71,6 +71,26 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
+        "name": "LOVE LASTS FOREVER",
+        "url": "https://open.spotify.com/album/11ZryCurodmqJCHvj9AA6U"
+      },
+      "artists": [
+        {
+          "name": "Destroy Lonely",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 274308,
+      "name": "LOVE HURTS",
+      "url": "https://open.spotify.com/track/4wXb2K1fSCzl83qSpFELno"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
         "name": "we can't be friends (wait for your love) - acoustic (live from jungle city studios)",
         "url": "https://open.spotify.com/album/65X8oNWJyq6abR094X1hlD"
       },
@@ -83,30 +103,6 @@
       "duration_ms": 187781,
       "name": "we can't be friends (wait for your love) - acoustic (live from jungle city studios)",
       "url": "https://open.spotify.com/track/23itJEBZlued974YuPPLlq"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Still Infinite (Redux)",
-        "url": "https://open.spotify.com/album/5Xoc63wwvChUINoymyb7wH"
-      },
-      "artists": [
-        {
-          "name": "Sinopsis",
-          "url": "https://open.spotify.com/artist/78WnXRuk5xXAc9tAxyC5bE"
-        },
-        {
-          "name": "Kooley High",
-          "url": "https://open.spotify.com/artist/3OQjXzDIPZLM5AytPp5mNg"
-        },
-        {
-          "name": "Oddisee",
-          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
-        }
-      ],
-      "duration_ms": 215173,
-      "name": "Still Infinite (Redux)",
-      "url": "https://open.spotify.com/track/0BI7ifxyvzVmZrlFm19IIj"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -139,6 +135,30 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
+        "name": "Still Infinite (Redux)",
+        "url": "https://open.spotify.com/album/5Xoc63wwvChUINoymyb7wH"
+      },
+      "artists": [
+        {
+          "name": "Sinopsis",
+          "url": "https://open.spotify.com/artist/78WnXRuk5xXAc9tAxyC5bE"
+        },
+        {
+          "name": "Kooley High",
+          "url": "https://open.spotify.com/artist/3OQjXzDIPZLM5AytPp5mNg"
+        },
+        {
+          "name": "Oddisee",
+          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
+        }
+      ],
+      "duration_ms": 215173,
+      "name": "Still Infinite (Redux)",
+      "url": "https://open.spotify.com/track/0BI7ifxyvzVmZrlFm19IIj"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
         "name": "NO REST FOR THE WICKED",
         "url": "https://open.spotify.com/album/1Xx2LEAW97J9eWOa82cJCf"
       },
@@ -159,54 +179,34 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "LOVE LASTS FOREVER",
-        "url": "https://open.spotify.com/album/11ZryCurodmqJCHvj9AA6U"
+        "name": "So What - Live at Festival Mondial Du Jazz Antibes/Juan-Les-Pins, France - July 26, 1963",
+        "url": "https://open.spotify.com/album/3lsoWhkQVSWgFuFREKwpV2"
       },
       "artists": [
         {
-          "name": "Destroy Lonely",
-          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 274308,
-      "name": "LOVE HURTS",
-      "url": "https://open.spotify.com/track/4wXb2K1fSCzl83qSpFELno"
+      "duration_ms": 586291,
+      "name": "So What - Live at Festival Mondial Du Jazz Antibes/Juan-Les-Pins, France - July 26, 1963",
+      "url": "https://open.spotify.com/track/05DVJdzKMwe9YLIpWfscLP"
     },
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Cascade",
-        "url": "https://open.spotify.com/album/4IYnAmZ8GvmNFF2ZxxKT8L"
+        "name": "The Mountain",
+        "url": "https://open.spotify.com/album/7MUAEdMKxf7Cr2IcMT194x"
       },
       "artists": [
         {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+          "name": "Micah Thomas",
+          "url": "https://open.spotify.com/artist/1ocNmvgQknyDwriWQq3OrO"
         }
       ],
-      "duration_ms": 458858,
-      "name": "Fast Forward",
-      "url": "https://open.spotify.com/track/1pgK78vWoIm9cPhMKIola3"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "8 Days",
-        "url": "https://open.spotify.com/album/1lPG1cpJqD025tNy4r6vjD"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 130391,
-      "name": "8 Days",
-      "url": "https://open.spotify.com/track/6t2CRoMkLF78OdffqSsfhz"
+      "duration_ms": 461880,
+      "name": "The Mountain",
+      "url": "https://open.spotify.com/track/0vmDVZyhiK2Qj1v5bQasPP"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -251,18 +251,18 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "So What - Live at Festival Mondial Du Jazz Antibes/Juan-Les-Pins, France - July 26, 1963",
-        "url": "https://open.spotify.com/album/3lsoWhkQVSWgFuFREKwpV2"
+        "name": "8 Days",
+        "url": "https://open.spotify.com/album/1lPG1cpJqD025tNy4r6vjD"
       },
       "artists": [
         {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
         }
       ],
-      "duration_ms": 586291,
-      "name": "So What - Live at Festival Mondial Du Jazz Antibes/Juan-Les-Pins, France - July 26, 1963",
-      "url": "https://open.spotify.com/track/05DVJdzKMwe9YLIpWfscLP"
+      "duration_ms": 130391,
+      "name": "8 Days",
+      "url": "https://open.spotify.com/track/6t2CRoMkLF78OdffqSsfhz"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -307,22 +307,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "The Mountain",
-        "url": "https://open.spotify.com/album/7MUAEdMKxf7Cr2IcMT194x"
-      },
-      "artists": [
-        {
-          "name": "Micah Thomas",
-          "url": "https://open.spotify.com/artist/1ocNmvgQknyDwriWQq3OrO"
-        }
-      ],
-      "duration_ms": 461880,
-      "name": "The Mountain",
-      "url": "https://open.spotify.com/track/0vmDVZyhiK2Qj1v5bQasPP"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "precious mind",
         "url": "https://open.spotify.com/album/4fACXiTclY7KGctxsCfqgb"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 304453,
       "name": "precious mind (cassette remix)",
       "url": "https://open.spotify.com/track/3hH9FOTbKhYX3Ecpn5h7ko"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Cascade",
+        "url": "https://open.spotify.com/album/4IYnAmZ8GvmNFF2ZxxKT8L"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 458858,
+      "name": "Fast Forward",
+      "url": "https://open.spotify.com/track/1pgK78vWoIm9cPhMKIola3"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -448,13 +448,29 @@
           "url": "https://open.spotify.com/artist/6k2vsVZ13ZW2HPISPeaA2N"
         },
         {
+          "name": "Travis Harmon",
+          "url": "https://open.spotify.com/artist/6C2LU9CBMNWzR5RQCUXnC3"
+        },
+        {
+          "name": "Kate Ly Johnston",
+          "url": "https://open.spotify.com/artist/0VwlgVQ5TsZUbDYgJlr25A"
+        },
+        {
+          "name": "ZEE MACHINE",
+          "url": "https://open.spotify.com/artist/3v7HInx1B5wGtG90l8OgLg"
+        },
+        {
+          "name": "Will Riddle",
+          "url": "https://open.spotify.com/artist/0QXJkqLgyJQKrtIx0rs4KI"
+        },
+        {
           "name": "Dominique Star",
           "url": "https://open.spotify.com/artist/7IhopSm97RkykmrVGMVXlJ"
         }
       ],
-      "duration_ms": 192558,
-      "name": "Black Star / High and Dry",
-      "url": "https://open.spotify.com/track/2pA1zf5b4dwTVG1QOXz6Jn"
+      "duration_ms": 223500,
+      "name": "Karma Police",
+      "url": "https://open.spotify.com/track/7Cvr8oO5U5sRCCmyCoHfAb"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -563,26 +579,38 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Butterfly [Feat. Cory Henry and Marcus Miller]",
-        "url": "https://open.spotify.com/album/5wrahsI2cn60L2JVmMq0H0"
+        "name": "Checkpoint (Violence)",
+        "url": "https://open.spotify.com/album/01mPcb9CDbcdM5J91AcKMe"
       },
       "artists": [
         {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
         },
         {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        },
-        {
-          "name": "Marcus Miller",
-          "url": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
+          "name": "Amika Quartet",
+          "url": "https://open.spotify.com/artist/2gRwP2o6X7iLs9dBcwOnOX"
         }
       ],
-      "duration_ms": 266866,
-      "name": "Butterfly [Feat. Cory Henry and Marcus Miller]",
-      "url": "https://open.spotify.com/track/5KUx4ry3R7MMQmwkChFBJd"
+      "duration_ms": 236186,
+      "name": "Checkpoint (Violence)",
+      "url": "https://open.spotify.com/track/2NmBaYuBlwQrFxga3zbU2t"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Quit Calling",
+        "url": "https://open.spotify.com/album/7vzvlBOC8WhaaYSkizexmt"
+      },
+      "artists": [
+        {
+          "name": "Elly Cooke",
+          "url": "https://open.spotify.com/artist/5DqNmryn6SyOwDjfSbwOGe"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "Quit Calling",
+      "url": "https://open.spotify.com/track/7xnK7x5vHaAS6EDnKoRR6e"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -607,38 +635,26 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Quit Calling",
-        "url": "https://open.spotify.com/album/7vzvlBOC8WhaaYSkizexmt"
+        "name": "Butterfly [Feat. Cory Henry and Marcus Miller]",
+        "url": "https://open.spotify.com/album/5wrahsI2cn60L2JVmMq0H0"
       },
       "artists": [
         {
-          "name": "Elly Cooke",
-          "url": "https://open.spotify.com/artist/5DqNmryn6SyOwDjfSbwOGe"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "Quit Calling",
-      "url": "https://open.spotify.com/track/7xnK7x5vHaAS6EDnKoRR6e"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Checkpoint (Violence)",
-        "url": "https://open.spotify.com/album/01mPcb9CDbcdM5J91AcKMe"
-      },
-      "artists": [
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
         },
         {
-          "name": "Amika Quartet",
-          "url": "https://open.spotify.com/artist/2gRwP2o6X7iLs9dBcwOnOX"
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        },
+        {
+          "name": "Marcus Miller",
+          "url": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
         }
       ],
-      "duration_ms": 236186,
-      "name": "Checkpoint (Violence)",
-      "url": "https://open.spotify.com/track/2NmBaYuBlwQrFxga3zbU2t"
+      "duration_ms": 266866,
+      "name": "Butterfly [Feat. Cory Henry and Marcus Miller]",
+      "url": "https://open.spotify.com/track/5KUx4ry3R7MMQmwkChFBJd"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -667,118 +683,22 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Never Going Back Again (Live at The Forum, Inglewood, CA, 10/21/82)",
-        "url": "https://open.spotify.com/album/5lxEOZVIEEoOU65D8TJDzD"
+        "name": "Truman sleeps (for guitar ensemble)",
+        "url": "https://open.spotify.com/album/0VabAGTGRwNdUO9gQPSkDt"
       },
       "artists": [
         {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 264200,
-      "name": "Never Going Back Again (Live at The Forum, Inglewood, CA, 10/21/82)",
-      "url": "https://open.spotify.com/track/1vWW78pW5sCSEmRMsF29Ri"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Truckin' (Live at Cameron Indoor Stadium, Duke University, Durham, NC, 4/12/78)",
-        "url": "https://open.spotify.com/album/3YXDTDlbnnIuqIJw0keWCr"
-      },
-      "artists": [
-        {
-          "name": "Grateful Dead",
-          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
-        }
-      ],
-      "duration_ms": 526655,
-      "name": "Truckin' - Live at Cameron Indoor Stadium, Duke University, Durham, NC, 4/12/78",
-      "url": "https://open.spotify.com/track/5vRJRc05qCLpCkuyaBFiFA"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Drifting (Alternate Version / November 20, 1970)",
-        "url": "https://open.spotify.com/album/6pQU54mtNcKXRKXUJZX4Lw"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 159693,
-      "name": "Drifting - Alternate Version / November 20, 1970",
-      "url": "https://open.spotify.com/track/4Hu4RvIvbgQQqNLDuSBk3I"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Garmonbozia",
-        "url": "https://open.spotify.com/album/55fHYXYbh4M0TKLp3PLyuc"
-      },
-      "artists": [
-        {
-          "name": "Flying Lotus",
-          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Garmonbozia",
-      "url": "https://open.spotify.com/track/3lFLhPUOlNnUuI2EH953BI"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Wrong Thing (with Kash'd Out)",
-        "url": "https://open.spotify.com/album/0WSqUBxNebDF9ZzHygt3wT"
-      },
-      "artists": [
-        {
-          "name": "Dale and the ZDubs",
-          "url": "https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp"
+          "name": "Sam Desmet",
+          "url": "https://open.spotify.com/artist/5QTABvkjM6kEih0kvyabWj"
         },
-        {
-          "name": "Kash'd Out",
-          "url": "https://open.spotify.com/artist/7hZ19Z3zttnwEmwx43fivm"
-        }
-      ],
-      "duration_ms": 222840,
-      "name": "Wrong Thing (with Kash'd Out)",
-      "url": "https://open.spotify.com/track/129t075CqNbOCpsCcwiwJg"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Glass: Freezing (Arr. D'Angelo for Voice, Piano, Guitar and Bass)",
-        "url": "https://open.spotify.com/album/5E7FPFaByDMSe3YEVF8oL8"
-      },
-      "artists": [
         {
           "name": "Philip Glass",
           "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
-        },
-        {
-          "name": "Emily D'Angelo",
-          "url": "https://open.spotify.com/artist/3MxEBUmCEHonZDGfnB1PAn"
-        },
-        {
-          "name": "Sophia Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/0eh5mim3wGR8KZ3W9DCwuq"
-        },
-        {
-          "name": "Bruno Helstroffer",
-          "url": "https://open.spotify.com/artist/4SZJuk3dh3ICm8c4D1jACd"
-        },
-        {
-          "name": "Jonas Niederstadt",
-          "url": "https://open.spotify.com/artist/46W2YECsZAmWMq8kMQIZzX"
         }
       ],
-      "duration_ms": 203256,
-      "name": "Freezing (Arr. D'Angelo for Voice, Piano, Guitar and Bass)",
-      "url": "https://open.spotify.com/track/6xx5ilZQtqQlg13FaUgMTI"
+      "duration_ms": 112098,
+      "name": "Truman sleeps (for guitar ensemble)",
+      "url": "https://open.spotify.com/track/7u9yi68ZCgVxIgF4ziEv9p"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

@@ -4,7 +4,7 @@
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: Shingo Suzuki
 
-335 songs - 1 day 2 hr 58 min
+336 songs - 1 day 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Nemotown](https://open.spotify.com/track/7kl7M8K6SKirDJ45KrgAmA) | [Ai Higuchi](https://open.spotify.com/artist/0KZzmjrOQumJVVnoGRbXCu) | [Kono Taikutsu na Hibi o/Nemotown](https://open.spotify.com/album/3f63tbFjEyZVErqEqHp6t3) | 3:34 | 2023-09-12 | 2023-10-04 |
 | [New Friends 1](https://open.spotify.com/track/1PC2s55zuUhTv2f0GzMQ9t) | [中村海斗](https://open.spotify.com/artist/4rsih0eDP701WyFRusmZ5c) | [BLAQUE DAWN](https://open.spotify.com/album/5AEfXYcsVxs4VzDImZtTJS) | 7:38 | 2022-12-20 | 2023-04-19 |
 | [NEW POWER](https://open.spotify.com/track/4gDdNk7QLJ94bxKjy9VMDX) | [Answer to Remember](https://open.spotify.com/artist/0AmjQ7AztgqsgxwtNV7GL9), [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc), [井上銘](https://open.spotify.com/artist/1cw4DRIdgFVPpNEdx0xORg) | [NEW POWER](https://open.spotify.com/album/6gpYBMgbkFvyfhwVACxu8c) | 3:39 | 2024-07-09 |  |
+| [New World feat.ELAIZA](https://open.spotify.com/track/2SH3irAb48lnPA4zzxtTwX) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM), [ELAIZA](https://open.spotify.com/artist/45dMXQSIdhCQd5RUqDSpka) | [New World feat.ELAIZA](https://open.spotify.com/album/3bUMoQ0Cceo8MJp04N76wU) | 3:48 | 2024-09-10 |  |
 | [Night Cruise](https://open.spotify.com/track/5dGZZQGVOIjMjQCmguuYEo) | [T\-SQUARE](https://open.spotify.com/artist/7BwOjwl5mKpGVIvzvqEcie) | [PARADISE](https://open.spotify.com/album/5Sv5HS9ZNFdGsNwJkbLjQD) | 5:49 | 2022-09-06 | 2024-04-19 |
 | [null](https://open.spotify.com/track/0lNwTmuyzwkZ3lcQwjUIm6) | [PIANO SHIFT](https://open.spotify.com/artist/2NgVrbppUOWDrRtFqxiLgi) | [null](https://open.spotify.com/album/5OQnbpSFMWExzOv12Jqms7) | 3:38 | 2024-02-27 | 2024-06-12 |
 | [obsession](https://open.spotify.com/track/2sbXCzEskFPka5D80ZKzbG) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [LOTUS](https://open.spotify.com/album/35t0TpLbsQWFJQJXlwOyXV) | 4:26 | 2024-08-13 |  |
@@ -246,7 +247,7 @@
 | [Take the S Line](https://open.spotify.com/track/3h311N1RksKhDEphs0aa2B) | [Yusuke Shima](https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8), [河野祐亮](https://open.spotify.com/artist/6k7HOIGhoFAB6CHeElFDHD), [杉浦睦](https://open.spotify.com/artist/7AUgYo9pZu8ijMfRbnlo5G), [大津惇](https://open.spotify.com/artist/4uRyqAjxit8vJMVWvSM6AZ) | [Take the S Line](https://open.spotify.com/album/0l2y0Zoqz46rhbtBiPIlWS) | 6:31 | 2024-06-25 |  |
 | [Thanks For Emily](https://open.spotify.com/track/5pXuqemHKZqtHMTAbFRVFK) | [Fumika Asari](https://open.spotify.com/artist/0XhLhf8Kv1Ox6l7Y2l9gtK) | [Thanks For Emily](https://open.spotify.com/album/6SnmxEiNhgy8qvJGOsUOb8) | 5:39 | 2023-04-18 | 2023-05-17 |
 | [That's All](https://open.spotify.com/track/0Q4zuXMdTNhbALgnt0o9rN) | [矢崎恵理](https://open.spotify.com/artist/5u29jSzmiMAB7bfz8kroxU) | [That's All](https://open.spotify.com/album/2a6qGH7sR2pvBNhOnMxeJw) | 4:31 | 2024-07-09 | 2024-07-24 |
-| [The Great U's Train](https://open.spotify.com/track/09K7opjPdiz1VwEJCBk34v) | [桑原あい](https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [Dear Family](https://open.spotify.com/album/49xd23XOYzPdJkPdZWUHwz) | 2:12 | 2022-10-25 |  |
+| [The Great U's Train](https://open.spotify.com/track/09K7opjPdiz1VwEJCBk34v) | [桑原あい](https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [Dear Family](https://open.spotify.com/album/49xd23XOYzPdJkPdZWUHwz) | 2:12 | 2022-10-25 | 2024-09-15 |
 | [THE REASON](https://open.spotify.com/track/5xfX9hGoqTrtf8CKRooKDJ) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [THE REASON](https://open.spotify.com/album/4B2QFm17k16m1nokbJbieB) | 4:50 | 2023-02-28 | 2023-03-29 |
 | [The reasoning \- Session 03](https://open.spotify.com/track/4fm26UJ7Bufev5ZMmFFX7c) | [Yield Painting Further](https://open.spotify.com/artist/49FgSxPahFQMVJPAuJl6LB), [Tabu Zombie](https://open.spotify.com/artist/3Vp0jjkPKrwvBWfYCXyDRC) | [1617](https://open.spotify.com/album/4BKC37GM2VDp9fDFtopqTE) | 4:07 | 2024-05-23 | 2024-05-29 |
 | [The Star\-Crossed Lovers](https://open.spotify.com/track/1rb5DXtKEEj1RBYIqif0iA) | [Mao Sone](https://open.spotify.com/artist/674ZhINhNClUw6elVb96BG) | [The Star\-Crossed Lovers](https://open.spotify.com/album/4ztShkBEvgeWnP6yTgDxHn) | 3:17 | 2022-11-15 | 2022-12-21 |

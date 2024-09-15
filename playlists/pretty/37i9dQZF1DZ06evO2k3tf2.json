@@ -1,12 +1,12 @@
 {
   "description": "This is Twenty One Pilots. The essential tracks, all in one playlist.",
-  "num_followers": 1365066,
+  "num_followers": 1365229,
   "original_name": "This Is Twenty One Pilots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuIvAAAAAAANEcdht5pf+sjJ7hPp7ecc",
+  "snapshot_id": "ZuOAgAAAAAAm4xGB1XNw6z+X/+JSR7Wt",
   "tracks": [
     {
       "added_at": null,
@@ -139,8 +139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vessel",
-        "url": "https://open.spotify.com/album/2r2r78NE05YjyHyVbVgqFn"
+        "name": "Scaled And Icy",
+        "url": "https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ"
       },
       "artists": [
         {
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 163880,
-      "name": "House of Gold",
-      "url": "https://open.spotify.com/track/36tghkPg1AO4HsAzo6YpPp"
+      "duration_ms": 175044,
+      "name": "Shy Away",
+      "url": "https://open.spotify.com/track/2nG54Y4a3sH9YpfxMolOyi"
     },
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Scaled And Icy",
-        "url": "https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ"
+        "name": "Vessel",
+        "url": "https://open.spotify.com/album/2r2r78NE05YjyHyVbVgqFn"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 175044,
-      "name": "Shy Away",
-      "url": "https://open.spotify.com/track/2nG54Y4a3sH9YpfxMolOyi"
+      "duration_ms": 163880,
+      "name": "House of Gold",
+      "url": "https://open.spotify.com/track/36tghkPg1AO4HsAzo6YpPp"
     },
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 145946,
-      "name": "Levitate",
-      "url": "https://open.spotify.com/track/2uBhGx3m5iJrtsql8Qk00j"
+      "duration_ms": 258853,
+      "name": "Morph",
+      "url": "https://open.spotify.com/track/01vv2AjxgP4uUyb8waYO5Y"
     },
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 258853,
-      "name": "Morph",
-      "url": "https://open.spotify.com/track/01vv2AjxgP4uUyb8waYO5Y"
+      "duration_ms": 145946,
+      "name": "Levitate",
+      "url": "https://open.spotify.com/track/2uBhGx3m5iJrtsql8Qk00j"
     },
     {
       "added_at": null,

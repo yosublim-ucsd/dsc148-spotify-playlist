@@ -4,7 +4,7 @@
 
 > 해질녘 감성이 담긴 노래들과 함께 감상에 젖어보세요.
 
-173 songs - 10 hr 27 min
+174 songs - 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Only in the evening](https://open.spotify.com/track/2o87KX4RWcjQbikKl7MZIA) | [Mackelli](https://open.spotify.com/artist/3U1caC0cdwaoCO94Kj38C7) | [aftersunset](https://open.spotify.com/album/3P7ArYxQfuMfjL9eF122Ka) | 3:10 | 2024-03-08 |  |
 | [Only in the evening](https://open.spotify.com/track/3WgM1bEvbblhkE4MTLbXUA) | [Mackelli](https://open.spotify.com/artist/3U1caC0cdwaoCO94Kj38C7) | [aftersunset](https://open.spotify.com/album/6SVY8Ud5zymLWKQRh9GZeX) | 3:10 | 2022-07-04 | 2024-04-19 |
 | [Only we know…](https://open.spotify.com/track/1QeMKMxfFJf0HtsTZTr9Ha) | [YOON GUN](https://open.spotify.com/artist/15dggb3DQ4suwIfBmqb3nm) | [Only we know…](https://open.spotify.com/album/3T5vfOvVdoy86TptRs7zLd) | 3:27 | 2022-11-01 |  |
+| [Ordinary love](https://open.spotify.com/track/2wXyJLlxFChMbpWvjAUz2I) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [DNA Lover \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/2u3grouHAjXI1TqOeABqKs) | 2:49 | 2024-09-13 |  |
 | [Paper Plane](https://open.spotify.com/track/0DB7JrGZS4klU4dN7zSTzO) | [Swan](https://open.spotify.com/artist/2b9Q943vzno2HNZokj4ziM) | [In the End of Winter](https://open.spotify.com/album/1KAU3MJ6d27czezsWrdx9G) | 4:01 | 2023-11-03 | 2024-04-19 |
 | [Paper Plane](https://open.spotify.com/track/3Svzw7s61quYcD77evcW3p) | [Swan](https://open.spotify.com/artist/2b9Q943vzno2HNZokj4ziM) | [In the End of Winter](https://open.spotify.com/album/2OdCK6gCCjJd31DKLH76pW) | 4:01 | 2022-07-04 |  |
 | [Petal](https://open.spotify.com/track/1eozcOVAxDUMuDKWrkcmXR) | [Benaddict](https://open.spotify.com/artist/3hg1nO3FOk4vcE4DeundPz) | [Petal](https://open.spotify.com/album/3ePGY33BivCQUdDcBKqWKx) | 4:04 | 2024-03-08 |  |

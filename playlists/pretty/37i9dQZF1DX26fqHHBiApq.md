@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26fqHHBiApq.md) - [plain]
 
 > Fresh takes\- from new revisions and iconic covers to unexpected versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,480 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,521 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26fqHHBiApq.md) - [plain]
 | 99 | [A Picture from Life's Other Side](https://open.spotify.com/track/1bbC4RTCf7tDzYiZaTmglz) | [Woody Guthrie](https://open.spotify.com/artist/4rAgFKtlTr66ic18YZZyF1) | [Hard Travellin' \(Original Recordings\)](https://open.spotify.com/album/4Hw9HCpBEqkvCyPzEcl7Vw) | 3:07 |
 | 100 | [There'll Be No Teardrops Tonight](https://open.spotify.com/track/1GE5UxvlxX9rzfoTTi3ErS) | [The Flying Burrito Brothers](https://open.spotify.com/artist/0rESpKEusFHxhW59MIf7eM) | [Live from Tokyo](https://open.spotify.com/album/4cP2Alr0hfMtDYSM1mBAMn) | 2:42 |
 
-Snapshot ID: `ZrJ9pQAAAAC+IkLGsWZv9WcyysDeV6gn`
+Snapshot ID: `ZrJ9pQAAAADf2goPNDgNgB5U1hIDbkO5`

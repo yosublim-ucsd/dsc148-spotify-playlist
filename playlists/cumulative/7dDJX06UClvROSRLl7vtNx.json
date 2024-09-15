@@ -2691,6 +2691,28 @@
     },
     {
       "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/6vKDIm7hQAZXncP0Amssaj"
+      },
+      "artists": [
+        {
+          "name": "RAZZ",
+          "url": "https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l"
+        },
+        {
+          "name": "Karim",
+          "url": "https://open.spotify.com/artist/7ASTAqkubyvLAADXV9Hlvb"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146756,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/4JgGN5YPLx1w50O8buY1Lr"
+    },
+    {
+      "album": {
         "name": "Echoes of Light",
         "url": "https://open.spotify.com/album/3nzzFXZgX7OVJ29zCxVzRa"
       },
@@ -7800,6 +7822,32 @@
       "duration_ms": 162562,
       "name": "No Diggity",
       "url": "https://open.spotify.com/track/6Q9ls4l10fcTNeHdEq3kB1"
+    },
+    {
+      "album": {
+        "name": "No Other Love",
+        "url": "https://open.spotify.com/album/0hFUQbYgL26iBhkqXLxk99"
+      },
+      "artists": [
+        {
+          "name": "Geoff Duncan",
+          "url": "https://open.spotify.com/artist/1oXBhBpbEfp8p2mp5ipx2N"
+        },
+        {
+          "name": "Cal1",
+          "url": "https://open.spotify.com/artist/25dKyXEZPXG55aaNFQFbaJ"
+        },
+        {
+          "name": "l'essay",
+          "url": "https://open.spotify.com/artist/19X4W851yGGTB4rgz61cBs"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130093,
+      "name": "No Other Love",
+      "url": "https://open.spotify.com/track/6tekbBbL0YC854BVqGC61a"
     },
     {
       "album": {

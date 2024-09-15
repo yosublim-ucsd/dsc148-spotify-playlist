@@ -4,7 +4,7 @@
 
 > Tämän hetken kovimmat suomihitit\. Kannessa Etta.
 
-172 songs - 8 hr 23 min
+173 songs - 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Ei sydäntä saa](https://open.spotify.com/track/4caA9Fg4l0jv3R0bYjmGp2) | [Niilo](https://open.spotify.com/artist/49g8AvlUgRjVAO0h219rab) | [Ei sydäntä saa](https://open.spotify.com/album/5hwEwsnRnZfNwu99GouiNt) | 3:11 | 2024-07-11 | 2024-08-23 |
 | [Ekaa kertaa](https://open.spotify.com/track/0QDClEFoNZVkSjW6ADTiL2) | [TUULI](https://open.spotify.com/artist/4CvGI7cUCGi7gcG0X0nrwc) | [Ekaa kertaa](https://open.spotify.com/album/4XfVGVY6iTZS0ggYpMc7LF) | 3:13 | 2024-08-22 |  |
 | [Ekana](https://open.spotify.com/track/35zQA4ZcPpUv1CX5JSPCIF) | [Nasri](https://open.spotify.com/artist/7acOpaL3oIdFw8NugTqMJm) | [Ekana](https://open.spotify.com/album/6vLBltWNU8MI9NqDID036W) | 2:08 | 2024-07-02 | 2024-07-12 |
+| [Emojisydän](https://open.spotify.com/track/7rf5PlPnAowf0ZEIBbtP5Z) | [Pyzze](https://open.spotify.com/artist/3iTmpLBQG2vcR7eywDGAUZ), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [Pieni Prinssi](https://open.spotify.com/album/2xKngIuCsxZOr8TpIE2Pz5) | 3:02 | 2024-09-14 |  |
 | [En sitä tarkoittanut](https://open.spotify.com/track/00PdQeNpWlEzqrMN3eauPl) | [Edicti](https://open.spotify.com/artist/5sYAbWJ14L78hv98klUjqS), [F](https://open.spotify.com/artist/38wI9qgPMb7FoMu2IrzXht) | [En sitä tarkoittanut](https://open.spotify.com/album/58lUia8zs4GrvsxDt6v3vO) | 2:46 | 2024-07-02 | 2024-08-10 |
 | [Ensimmäinen](https://open.spotify.com/track/50tcwQjG65UpG70enZidJl) | [Figaro](https://open.spotify.com/artist/0WCZJZH5PtfXKwUQxjtNqn) | [Ensimmäinen](https://open.spotify.com/album/4Gc4tQY56HWjTYdeKz7UwS) | 3:29 | 2024-07-11 | 2024-08-02 |
 | [Erottaja](https://open.spotify.com/track/743aoKY7JQ1xSsKMX4PMwl) | [Reettabitch](https://open.spotify.com/artist/5XYFXTCJPZ9ZdvuJdEfUcQ) | [Erottaja](https://open.spotify.com/album/7vBFyUien1AoCsfmBlDWWc) | 2:58 | 2024-08-29 |  |

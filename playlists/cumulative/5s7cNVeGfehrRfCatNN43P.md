@@ -4,7 +4,7 @@
 
 > Song Of The Week at the top\. Standouts go to <a href="https://open.spotify.com/playlist/0qZqvnSwqnQJy3DnEuPgCy">Big Hit Energy</a> and <a href="https://open.spotify.com/playlist/5sjfG5VAi8rT3Dj76cUWEv">2022% Solid Pop Music</a>\. More: <a href="http://popjustice.com">Popjustice.com</a>.
 
-2,043 songs - 4 day 12 hr 28 min
+2,044 songs - 4 day 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -841,6 +841,7 @@
 | [I Don’t Wanna Fall Asleep Yet](https://open.spotify.com/track/4U2KEbB5CXEWFBET33uUtU) | [Shaun Farrugia](https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw) | [I Don’t Wanna Fall Asleep Yet](https://open.spotify.com/album/16HFUFXqNVk0pZkAkIPZIn) | 2:39 | 2022-07-15 | 2022-07-23 |
 | [I Drop Everything](https://open.spotify.com/track/3sAhAzTY4IdVT9HIUBcGdn) | [Cupid Girl](https://open.spotify.com/artist/1SfyDxRQj4ro8cluxkCaLq) | [I Drop Everything](https://open.spotify.com/album/7HS96tclxPIMWq814bXEE0) | 3:12 | 2023-03-31 | 2023-04-09 |
 | [I Feel Like Talking](https://open.spotify.com/track/1fvG20CuC91MejRPHrZx6C) | [Beren Olivia](https://open.spotify.com/artist/5WGPbnx9LqsQYXgpnUI3DZ) | [if we're being honest](https://open.spotify.com/album/7pyjbLToUit2XRVX90zXIZ) | 2:54 | 2024-05-17 | 2024-06-01 |
+| [I FOUND YOU](https://open.spotify.com/track/06EtCEDJ762K9frHeSkJS5) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki), [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w), [Felix](https://open.spotify.com/artist/6iRRErKYy1iojOaJoq6Ltk) | [I FOUND YOU](https://open.spotify.com/album/5bEQqVxc2VDjMHGvxiXx5p) | 2:53 | 2024-09-14 |  |
 | [I GOT YOU](https://open.spotify.com/track/35dhwUoJNlxrPyEIJkfDnx) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [I GOT YOU](https://open.spotify.com/album/6RZHj6L3NqrvcKeiBHQbjL) | 2:53 | 2024-02-02 | 2024-02-10 |
 | [I GOT YOU \(Feat\. Lauv\)](https://open.spotify.com/track/3X8L4DUPjLUE1cr8omydPT) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I GOT YOU \(Voyage ver.\)](https://open.spotify.com/album/5cnrcbdcdt6BJgAig9Tn3P) | 3:04 | 2024-02-09 | 2024-02-17 |
 | [I Had It All And Let It Go](https://open.spotify.com/track/6Zf3WRhjjmJiM6JtBAKHap) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Benjamin's \- 2023](https://open.spotify.com/album/4kxf4svW4dCTGTlUinpgO2) | 3:38 | 2023-06-09 | 2023-06-17 |

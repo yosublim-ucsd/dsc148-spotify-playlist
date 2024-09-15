@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 獨立就是硬地自主，音樂就要展現風格，加起來就是痛快！Cover: 守夜人 \(Night Keepers\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,673 likes - 125 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,675 likes - 125 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 33 | [要记得我说过的话](https://open.spotify.com/track/6zOmwflYbWwABy4AvofpsO) | [烟\(许佳豪\)](https://open.spotify.com/artist/2DXogZyZTpItlsIGCG6Qpt) | [要记得我说过的话](https://open.spotify.com/album/2NYI2RoH9Ht0xH3Mg8dw5c) | 3:43 |
 | 34 | [你失聯我失憶](https://open.spotify.com/track/1cNiRRSEbpIqMWdOJT4o6x) | [Cola B](https://open.spotify.com/artist/3LrZ1mrMzMFm5forQrdBVn) | [你失聯我失憶](https://open.spotify.com/album/1IZS6WYtT5m0EALM3cOsDH) | 3:17 |
 | 35 | [離開雨季](https://open.spotify.com/track/5w2ZlNFnODx4o3F4mCK3eS) | [陳宇祥](https://open.spotify.com/artist/2dgXpLFeXEZvzgD9Az4CvU) | [離開雨季](https://open.spotify.com/album/2zgRjZuxxjj98wDcBrYLc2) | 4:17 |
-| 36 | [心與你的距離](https://open.spotify.com/track/5AXM6cB0cXGLUi8mNHEuO5) | [劉心語](https://open.spotify.com/artist/30tmHMyWtJ7MlmkTPYdJMB), [盧子翔](https://open.spotify.com/artist/7iTTwWWhdVZFW2vIHGoyDf) | [心與你的距離](https://open.spotify.com/album/07VjSslrXPXWFveBh2AgTg) | 4:26 |
+| 36 | [心與你的距離](https://open.spotify.com/track/5AXM6cB0cXGLUi8mNHEuO5) | [劉心語](https://open.spotify.com/artist/30tmHMyWtJ7MlmkTPYdJMB), [Lucas 盧子翔](https://open.spotify.com/artist/4xzJhLwj8iD6dnNLM1NUVe) | [心與你的距離](https://open.spotify.com/album/07VjSslrXPXWFveBh2AgTg) | 4:26 |
 | 37 | [一切都會過去](https://open.spotify.com/track/73bcVrWq4kpMLYepdtxsyO) | [若恒](https://open.spotify.com/artist/7Bkl50hOMYEX2AqapoRaW0), [Allen Lee](https://open.spotify.com/artist/6Mtro3f0p7EjLxLeaLK248) | [一切都會過去](https://open.spotify.com/album/1fLDadFMDbVWyvoWx7pUsS) | 4:11 |
 | 38 | [I've been thinking about you all day and all night](https://open.spotify.com/track/7k5b866cwiko3hAk5Jc9QN) | [Potato馬鈴薯小弟](https://open.spotify.com/artist/0riRJxCMWZWKHfFcLpkpGq), [Woosic](https://open.spotify.com/artist/2Fw2S8a321wjtk7uyAOVTL) | [I've been thinking about you all day and all night](https://open.spotify.com/album/55Z6dwW11mHxyQegektWRP) | 3:32 |
 | 39 | [⾏動卑鄙](https://open.spotify.com/track/4dUhl2o7pSjrnSsp34C9Rb) | [Crossing\-跨世兄弟](https://open.spotify.com/artist/78JfivRUsg9hKmS5yIUpol) | [Diary](https://open.spotify.com/album/6leY9wlIyovc9h5EpXcULk) | 1:47 |

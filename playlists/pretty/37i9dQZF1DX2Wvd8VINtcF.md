@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearls of an oyster\. Cover: Felix Sandman
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,364 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,371 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 99 | [Kimbara](https://open.spotify.com/track/3iHrGCUXfZ4BoOy615Ydbk) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Kimbara](https://open.spotify.com/album/2lrh7eGF5BhF70i5VPJ3Nu) | 3:09 |
 | 100 | [Take Me To America \- Stuzzi Remix](https://open.spotify.com/track/2JAlP7vy7OoGMc6eWrXskM) | [Salvatore Ganacci](https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F), [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr) | [Take Me To America \(Stuzzi Remix\)](https://open.spotify.com/album/0rt5q4jo5izn8C70dLdALr) | 4:00 |
 
-Snapshot ID: `ZuQj6QAAAABdOQ9fumjt1ABF/wdvybXE`
+Snapshot ID: `ZuQj6QAAAAC09SsoQbJv+FDtFODZ/ily`

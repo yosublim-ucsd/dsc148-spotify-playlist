@@ -2177,6 +2177,24 @@
     },
     {
       "album": {
+        "name": "Dancing In The Flames",
+        "url": "https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220036,
+      "name": "Dancing In The Flames",
+      "url": "https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9"
+    },
+    {
+      "album": {
         "name": "Darl+ing",
         "url": "https://open.spotify.com/album/0Dl7e3uv3UrVDdZ6saplzH"
       },
@@ -10372,7 +10390,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 282463,
       "name": "The Astronaut",
       "url": "https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2"
@@ -12814,6 +12832,24 @@
       "duration_ms": 267530,
       "name": "\u5047\u4f7f\u4e16\u754c\u539f\u4f86\u4e0d\u50cf\u4f60\u9810\u671f",
       "url": "https://open.spotify.com/track/53HxUdYRCRMdzYPG0qhGUP"
+    },
+    {
+      "album": {
+        "name": "\u5076\u50cf\u5df2\u6b7b",
+        "url": "https://open.spotify.com/album/62lZg6tfdGMCfg82kTyiuW"
+      },
+      "artists": [
+        {
+          "name": "Gareth.T",
+          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212875,
+      "name": "\u5076\u50cf\u5df2\u6b7b",
+      "url": "https://open.spotify.com/track/6iocSqeYyXVcXX6IigUqmH"
     },
     {
       "album": {
@@ -16490,7 +16526,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-13",
+      "date_removed": null,
       "duration_ms": 260842,
       "name": "\u7b46\u53cb (\u96fb\u5f71\u300a\u6211\u8ac7\u7684\u90a3\u5834\u6200\u611b\u300b\u4e3b\u984c\u66f2)",
       "url": "https://open.spotify.com/track/6K0vTwio6ps1a33FWv06KT"
@@ -17236,7 +17272,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 235251,
       "name": "\u8d81\u4f60\u65c5\u884c\u6642\u642c\u8d70",
       "url": "https://open.spotify.com/track/77UfzMhwaH8Nl0LuydjrHH"
@@ -17546,7 +17582,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 221733,
       "name": "\u9694\u7246\u6709\u8033",
       "url": "https://open.spotify.com/track/4sguC2oBIqfn8WmMmReOYb"

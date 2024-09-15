@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uokaTN4FTR.md) - [plain]
 
 > The UK's biggest dance playlist! Cover: Fred again..
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,403,870 likes - 72 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,403,946 likes - 72 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

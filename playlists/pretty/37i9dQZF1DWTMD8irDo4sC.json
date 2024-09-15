@@ -1,6 +1,6 @@
 {
   "description": "Chill to these acoustic songs from the Middle East and North Africa. Cover: Labess.",
-  "num_followers": 69631,
+  "num_followers": 69649,
   "original_name": "Acoustic Arabic",
   "owner": {
     "name": "Spotify",
@@ -923,6 +923,22 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
+        "name": "Chura",
+        "url": "https://open.spotify.com/album/64MAkAwfYsJoMbI4cjinad"
+      },
+      "artists": [
+        {
+          "name": "\u0178uma",
+          "url": "https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW"
+        }
+      ],
+      "duration_ms": 163066,
+      "name": "Smek",
+      "url": "https://open.spotify.com/track/539btjh5wDRbAmC49tX1jb"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
         "name": "Fattah Al Ward",
         "url": "https://open.spotify.com/album/140bykvPQFbs8nc48OHN7g"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 286424,
       "name": "Holm",
       "url": "https://open.spotify.com/track/1BLbyhemxMhIds5cf4lHxx"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
-        "name": "Chura",
-        "url": "https://open.spotify.com/album/64MAkAwfYsJoMbI4cjinad"
-      },
-      "artists": [
-        {
-          "name": "\u0178uma",
-          "url": "https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW"
-        }
-      ],
-      "duration_ms": 163066,
-      "name": "Smek",
-      "url": "https://open.spotify.com/track/539btjh5wDRbAmC49tX1jb"
     },
     {
       "added_at": "2022-05-09 08:05:11",

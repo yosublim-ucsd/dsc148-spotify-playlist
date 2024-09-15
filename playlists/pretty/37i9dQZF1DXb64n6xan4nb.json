@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the popular Korean Cyworld bgm that embroidered the 2000s and 2010s. (\ud55c \uc2dc\uc808 \uac10\uc131\uc744 \ub300\ud45c\ud588\ub358 \uc2f8\uc774\uc6d4\ub4dc BGM\uc744 \uac10\uc0c1\ud574\ubcf4\uc138\uc694.)",
-  "num_followers": 31147,
+  "num_followers": 31154,
   "original_name": "CYWORLD BGM (\uc2f8\uc774\uc6d4\ub4dc BGM)",
   "owner": {
     "name": "Spotify",
@@ -831,6 +831,22 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
+        "name": "Exhibition 2",
+        "url": "https://open.spotify.com/album/0U916uzyklE8bn8hMlrX3t"
+      },
+      "artists": [
+        {
+          "name": "Exhibition",
+          "url": "https://open.spotify.com/artist/491V7IpquUlnGZDCbKXVPE"
+        }
+      ],
+      "duration_ms": 320055,
+      "name": "Druken Truth",
+      "url": "https://open.spotify.com/track/39FFkPyRLQtYBJkgV6ETAw"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
         "name": "Remake Romantic 2",
         "url": "https://open.spotify.com/album/6enjQFbMz6pMOLxWPBporQ"
       },
@@ -867,22 +883,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Exhibition 2",
-        "url": "https://open.spotify.com/album/0U916uzyklE8bn8hMlrX3t"
-      },
-      "artists": [
-        {
-          "name": "Exhibition",
-          "url": "https://open.spotify.com/artist/491V7IpquUlnGZDCbKXVPE"
-        }
-      ],
-      "duration_ms": 320055,
-      "name": "Druken Truth",
-      "url": "https://open.spotify.com/track/39FFkPyRLQtYBJkgV6ETAw"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "Op. 4",
         "url": "https://open.spotify.com/album/54OnWD6Ei0QGcjwsDBkS8F"
       },
@@ -899,22 +899,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "I Love You",
-        "url": "https://open.spotify.com/album/0foNSGMPnuffxpJXJdAirq"
-      },
-      "artists": [
-        {
-          "name": "Tim",
-          "url": "https://open.spotify.com/artist/1H0rJYjO99jtsKOtaXmYTY"
-        }
-      ],
-      "duration_ms": 246613,
-      "name": "I Love You",
-      "url": "https://open.spotify.com/track/3dt4wfq1JLr4OuDFF832C2"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "The Way I Am",
         "url": "https://open.spotify.com/album/2Mh0JWqsD08Wox0fwXaVsk"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 247852,
       "name": "A Letter to you Part.2",
       "url": "https://open.spotify.com/track/7fRegG6DYNpGClPDCp851s"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/0foNSGMPnuffxpJXJdAirq"
+      },
+      "artists": [
+        {
+          "name": "Tim",
+          "url": "https://open.spotify.com/artist/1H0rJYjO99jtsKOtaXmYTY"
+        }
+      ],
+      "duration_ms": 246613,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/3dt4wfq1JLr4OuDFF832C2"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Purple Drop",
-        "url": "https://open.spotify.com/album/1OSnHPkpPMWO8BEqwKfURo"
-      },
-      "artists": [
-        {
-          "name": "HUS",
-          "url": "https://open.spotify.com/artist/23m7tUHLULVyBAAIYHbsgT"
-        }
-      ],
-      "duration_ms": 218400,
-      "name": "Hawaian Couple",
-      "url": "https://open.spotify.com/track/1Yd6CizL523PL8IsdkmKCD"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "2nd",
         "url": "https://open.spotify.com/album/4PF4HZrptQ6d6b2ov5RqbW"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 249106,
       "name": "Like Yesterday",
       "url": "https://open.spotify.com/track/45k9BzXTsL9ieK6sdcfwJp"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "Purple Drop",
+        "url": "https://open.spotify.com/album/1OSnHPkpPMWO8BEqwKfURo"
+      },
+      "artists": [
+        {
+          "name": "HUS",
+          "url": "https://open.spotify.com/artist/23m7tUHLULVyBAAIYHbsgT"
+        }
+      ],
+      "duration_ms": 218400,
+      "name": "Hawaian Couple",
+      "url": "https://open.spotify.com/track/1Yd6CizL523PL8IsdkmKCD"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "TAKE",
-        "url": "https://open.spotify.com/album/78VoNmapJTpUoSgUcJN93v"
-      },
-      "artists": [
-        {
-          "name": "TAKE",
-          "url": "https://open.spotify.com/artist/2lNzqnNwPiE1mqUeZhrjMv"
-        }
-      ],
-      "duration_ms": 269731,
-      "name": "Butterfly Grave (2015)",
-      "url": "https://open.spotify.com/track/0e4dVbS45E8d7eB8QtaZAn"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "TIME FOR LOVE",
         "url": "https://open.spotify.com/album/4vOrKQQbPSjYGQRbixrdRi"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 228780,
       "name": "What if",
       "url": "https://open.spotify.com/track/0yqTCKcLaJfeVEUavlnYK3"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "TAKE",
+        "url": "https://open.spotify.com/album/78VoNmapJTpUoSgUcJN93v"
+      },
+      "artists": [
+        {
+          "name": "TAKE",
+          "url": "https://open.spotify.com/artist/2lNzqnNwPiE1mqUeZhrjMv"
+        }
+      ],
+      "duration_ms": 269731,
+      "name": "Butterfly Grave (2015)",
+      "url": "https://open.spotify.com/track/0e4dVbS45E8d7eB8QtaZAn"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "NEW SENSATION",
-        "url": "https://open.spotify.com/album/42TDA9jm3vXiUbc2FIWrVD"
-      },
-      "artists": [
-        {
-          "name": "TURBO",
-          "url": "https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G"
-        }
-      ],
-      "duration_ms": 253257,
-      "name": "\uc5b4\ub290 \uc9f8\uc988\ubc14...",
-      "url": "https://open.spotify.com/track/1u2GIyfP9dKfkpLiCsYNJx"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "I Have A Dream",
         "url": "https://open.spotify.com/album/3YtezvI7xfOPQvweV49HBY"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 251428,
       "name": "\uc0ac\ub791\ud574, \uc774 \ub9d0 \ubc16\uc5d4...",
       "url": "https://open.spotify.com/track/55Gh7kOThfeDEiO3MTvXOD"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "NEW SENSATION",
+        "url": "https://open.spotify.com/album/42TDA9jm3vXiUbc2FIWrVD"
+      },
+      "artists": [
+        {
+          "name": "TURBO",
+          "url": "https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G"
+        }
+      ],
+      "duration_ms": 253257,
+      "name": "\uc5b4\ub290 \uc9f8\uc988\ubc14...",
+      "url": "https://open.spotify.com/track/1u2GIyfP9dKfkpLiCsYNJx"
     },
     {
       "added_at": "2022-06-13 13:22:46",

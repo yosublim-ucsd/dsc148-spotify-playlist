@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > <a href="spotify:track:6uIVBE5DHG3szAnaOyvf3l">Rick Ross Pt.2</a> til folket 🔥 <a href="spotify:album:3flSwxGfLdPtCnnVWaSyK0">Medina</a> x <a href="spotify:artist:3pJK3CUpbnyX7ogDfAwa9J">Tessa</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,191 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,347 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 77 | [DADDY KEEPS CALLING](https://open.spotify.com/track/1iue9j6pHYFdk8pR0ekLJS) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY) | [DADDY KEEPS CALLING](https://open.spotify.com/album/3yceYuyQpneDvuHnkTR41C) | 2:37 |
 | 78 | [Dive](https://open.spotify.com/track/2Tfl2N7kIWmUkUjdzd32m4) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [Dive](https://open.spotify.com/album/1X6TuLsbcierWasXm7gtge) | 2:41 |
 | 79 | [You And I](https://open.spotify.com/track/248XJMcsowzZrF1APvILhF) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [The Greatest Love](https://open.spotify.com/album/3jlE37AdgcZbfsfyMutyCE) | 5:00 |
-| 80 | [Believe the Brain](https://open.spotify.com/track/7MKMOQ7XhefTPbz3Typs5k) | [velvy](https://open.spotify.com/artist/3QOzYZsjM7lKys2jAyg9JV) | [Believe the Brain](https://open.spotify.com/album/2V34cg4bBPaBWVFHk72SRH) | 3:20 |
+| 80 | [Believe the Brain](https://open.spotify.com/track/7MKMOQ7XhefTPbz3Typs5k) | [Velvy](https://open.spotify.com/artist/3QOzYZsjM7lKys2jAyg9JV) | [Believe the Brain](https://open.spotify.com/album/2V34cg4bBPaBWVFHk72SRH) | 3:20 |
 | 81 | [What’s It Take to Be a Star?](https://open.spotify.com/track/1PUSZJtA4Q7WGT6uX6lyQw) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [What’s It Take to Be a Star?](https://open.spotify.com/album/5b8CFomatusCobpOtmnNdJ) | 2:48 |
 | 82 | [Faithless](https://open.spotify.com/track/75WGKUulm21jqVSoZETrQT) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [Faithless](https://open.spotify.com/album/0mdOEm115gzcsxtjgHiTQP) | 3:35 |
 | 83 | [Just A Western \- Edit](https://open.spotify.com/track/32M6UpNkj8FOfbyQiF4GOJ) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Just A Western](https://open.spotify.com/album/1vVnnj9S99ub44XnSknEXZ) | 2:46 |

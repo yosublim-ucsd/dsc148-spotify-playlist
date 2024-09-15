@@ -4,7 +4,7 @@
 
 > Filthy bass bangers to soundtrack your sesh
 
-290 songs - 17 hr 10 min
+291 songs - 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [Races \(feat\. Blanco\)](https://open.spotify.com/track/346F7P0kUbfsnVDjoNuBIo) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [Races \(feat\. Blanco\)](https://open.spotify.com/album/54hfDrQUz2ALn962NVjkdj) | 2:20 | 2024-03-29 |  |
 | [Radio \- Remix](https://open.spotify.com/track/68kvypOTqfhvq4Se0HUIjN) | [James Hiraeth](https://open.spotify.com/artist/13lPKi6IQrIyWyyovYUbtA), [Local](https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2), [BSEARL](https://open.spotify.com/artist/3e3riRnIankd5kcDNvsZFi) | [Radio Remix](https://open.spotify.com/album/5t0y40M7XhW0V5PgYsKpXP) | 3:14 | 2024-03-22 |  |
 | [Rage](https://open.spotify.com/track/4pDMigVe00CtmHeqSD0Yvy) | [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [Rage](https://open.spotify.com/album/3Fm13iU479MJh6ePRdYU35) | 2:38 | 2024-02-23 | 2024-03-02 |
+| [Ram Pam \(feat\. Mystic Marley & Flowdan\)](https://open.spotify.com/track/4CBFPivDAGGSXFih8RyaVE) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Mystic Marley](https://open.spotify.com/artist/5WhXMSMSiOyEhXBNI6Lf2h), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Ram Pam \(feat\. Mystic Marley & Flowdan\)](https://open.spotify.com/album/5gKmNjiXT4IFO5ZLYXJB75) | 2:51 | 2024-09-12 |  |
 | [Rave Out](https://open.spotify.com/track/0cIkdVvxT2lalJFH254lYA) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [Rave Out](https://open.spotify.com/album/7HOsS5h3J7ddLvcOfX9RGX) | 2:28 | 2023-05-19 | 2024-07-27 |
 | [Ravers' Rules \- K\-Traxx Remix](https://open.spotify.com/track/62mnm7wEbz3os0bjVxNHdE) | [Technoboy](https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C) | [Ravers' Rules](https://open.spotify.com/album/0CUWceBDz851YDIxzFapQt) | 6:22 | 2023-12-27 | 2024-01-12 |
 | [RAW!](https://open.spotify.com/track/0upjyD41tJZjX8IlSLaNhp) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC), [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN), [Scorpio MC](https://open.spotify.com/artist/5FPIKRbEw5qcI7KJaQv1c1) | [RAW!](https://open.spotify.com/album/7s9SBne8c7nCJbuCdsEWNj) | 3:07 | 2024-06-28 |  |
@@ -240,7 +241,7 @@
 | [Shake the Foundations](https://open.spotify.com/track/41oMLrpW7SND8rk8GXYMsz) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC) | [Shake the Foundations](https://open.spotify.com/album/4ueQeW187BVwaMpMugNvT0) | 3:02 | 2023-10-06 | 2024-08-03 |
 | [Show Me](https://open.spotify.com/track/0fOYe1mfPRzQ64zvMcqA59) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Show Me](https://open.spotify.com/album/3aF004NM1hTojpV1EMPy1M) | 3:28 | 2023-09-22 | 2023-10-07 |
 | [Shut It Down](https://open.spotify.com/track/1KsTta93YQGtGid1W1x6ki) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Elipsa](https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske) | [Shut It Down](https://open.spotify.com/album/540Df5chb7iGHb1GSCYD8B) | 2:58 | 2023-04-13 | 2024-07-27 |
-| [Sinner](https://open.spotify.com/track/4n92wzBjtxwFb3d0f1jbtW) | [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w), [Tempza](https://open.spotify.com/artist/4L3I92jE3sohrZafi1UNdC), [Gardna](https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U) | [Sinner](https://open.spotify.com/album/46pWepYfmFsjoZIOQMz1GD) | 2:47 | 2024-09-05 |  |
+| [Sinner](https://open.spotify.com/track/4n92wzBjtxwFb3d0f1jbtW) | [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w), [Tempza](https://open.spotify.com/artist/4L3I92jE3sohrZafi1UNdC), [Gardna](https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U) | [Sinner](https://open.spotify.com/album/46pWepYfmFsjoZIOQMz1GD) | 2:47 | 2024-09-05 | 2024-09-15 |
 | [Sirens](https://open.spotify.com/track/3HeOOjms1LHV4U91lKcbwd) | [EV](https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX) | [Sirens](https://open.spotify.com/album/3L4Meb0nRGrUulc4Xp9esu) | 2:50 | 2023-10-06 | 2024-08-03 |
 | [Sliding](https://open.spotify.com/track/5iAp1pQB3dqB3rWfs38Yb6) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV), [Window Kid](https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p), [Charlie Choppa](https://open.spotify.com/artist/4aTBKDsrXC1os9HzfPuDTR) | [Sliding](https://open.spotify.com/album/5WvQFSYrjHNsZ85XP22GtT) | 4:17 | 2023-09-01 | 2023-11-21 |
 | [So Different](https://open.spotify.com/track/7ncQlEWDcux4xhuoGzY2Lc) | [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt), [TOYZZ](https://open.spotify.com/artist/79WxyVmZBcttTrPqhaAOwV) | [So Different](https://open.spotify.com/album/36Qxy0uYkoTu5sVWvIzoVZ) | 3:00 | 2024-07-25 |  |

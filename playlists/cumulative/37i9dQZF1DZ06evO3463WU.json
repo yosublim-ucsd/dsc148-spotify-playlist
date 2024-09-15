@@ -272,6 +272,24 @@
     {
       "album": {
         "name": "Una Noche Cualquiera",
+        "url": "https://open.spotify.com/album/0LXuwVw6rH9uJXQJFSeBe1"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2024-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220533,
+      "name": "Con El Alma En La Mano",
+      "url": "https://open.spotify.com/track/0aUeUXfdSkZp98jJ2XQ4CX"
+    },
+    {
+      "album": {
+        "name": "Una Noche Cualquiera",
         "url": "https://open.spotify.com/album/69gdI8NQ0yB8nfP6eoj4lC"
       },
       "artists": [
@@ -282,7 +300,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 220533,
       "name": "Con El Alma En La Mano",
       "url": "https://open.spotify.com/track/1f9qcAI1Kv4FS6Nk6MkpQb"
@@ -416,10 +434,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 227079,
       "name": "Donde Andar\u00e1",
       "url": "https://open.spotify.com/track/1AvJ3JBfma4kdkpY91rc4l"
+    },
+    {
+      "album": {
+        "name": "Del Campo a la Ciudad",
+        "url": "https://open.spotify.com/album/2Z7kNdzXDDRPZhQlyW6d67"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2024-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227950,
+      "name": "Donde Andar\u00e1",
+      "url": "https://open.spotify.com/track/0E8nEiE1PIVFf0Mex5NHsg"
     },
     {
       "album": {
@@ -888,6 +924,24 @@
     {
       "album": {
         "name": "Mis Canciones de Amor",
+        "url": "https://open.spotify.com/album/0JCDByU5HnFtMb2Ov4CJLV"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2024-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192992,
+      "name": "Mi Amor Sin Ella",
+      "url": "https://open.spotify.com/track/4JUq70BT6tT2LyPXjKpFVI"
+    },
+    {
+      "album": {
+        "name": "Mis Canciones de Amor",
         "url": "https://open.spotify.com/album/71EFMwN2oaKfHw7W9l1WIa"
       },
       "artists": [
@@ -898,7 +952,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 192992,
       "name": "Mi Amor Sin Ella",
       "url": "https://open.spotify.com/track/4PPFkIR5X1DwVr2SC1ZZdq"
@@ -2006,10 +2060,28 @@
       ],
       "date_added": "2024-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 190542,
       "name": "Una Tarde Como Cualquiera",
       "url": "https://open.spotify.com/track/3bQbNaVJBG3XishLUHdBWe"
+    },
+    {
+      "album": {
+        "name": "Cuenta Conmigo",
+        "url": "https://open.spotify.com/album/6LwOXQj6NDu67AwOBOD4Se"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2024-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190542,
+      "name": "Una Tarde Como Cualquiera",
+      "url": "https://open.spotify.com/track/7qYFRlIRjKMUtCMOAcQVzf"
     },
     {
       "album": {

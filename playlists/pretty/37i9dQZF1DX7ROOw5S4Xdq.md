@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Samuel Messias
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,522 likes - 50 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,553 likes - 50 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 41 | [A Mão de Deus \(Ao Vivo\)](https://open.spotify.com/track/6f5M4Y5Y6l0Mny9mWlWNWd) | [Thiago Oliveira](https://open.spotify.com/artist/6s7wHQDwchpij8hPEq2UCM) | [A Mão de Deus \(Ao Vivo\)](https://open.spotify.com/album/0MFZQap0k7rBjLglzpmUWs) | 4:01 |
 | 42 | [Deus de Maravilhas \(Legado\)](https://open.spotify.com/track/4sw6041XBnC3jFT50JXJak) | [Beno César](https://open.spotify.com/artist/2mnVdA4TjOXomvcMYpuUP2), [Sophia Vitória](https://open.spotify.com/artist/47neBS9tvIdGta1S3aq08v) | [Deus de Maravilhas \(Legado\)](https://open.spotify.com/album/1lWyqwIpdxTXKlZBaV2bqN) | 3:55 |
 | 43 | [Eu Sou o Que Sou](https://open.spotify.com/track/7m2I2xK4xdnYTXZ2xSALlV) | [Aline Souza](https://open.spotify.com/artist/0BHCwfUMWR6sfefxO9H0rI) | [Eu Sou o Que Sou](https://open.spotify.com/album/76YwOvxD9YNbuWtDqH9N6X) | 4:27 |
-| 44 | [Fé e Atitude \- Loop Session](https://open.spotify.com/track/41nq39VnAHSS6GVvTQewjJ) | [Ricarlo Rocha](https://open.spotify.com/artist/3vz4Z3xgADcZ7lw6CxtD2a) | [Fé e Atitude \- Loop Session](https://open.spotify.com/album/0bAjPBZizK6OI0LLBvn9eE) | 4:13 |
+| 44 | [Fé e Atitude \- One Take](https://open.spotify.com/track/41nq39VnAHSS6GVvTQewjJ) | [Ricarlo Rocha](https://open.spotify.com/artist/3vz4Z3xgADcZ7lw6CxtD2a) | [Fé e Atitude \- One Take](https://open.spotify.com/album/0bAjPBZizK6OI0LLBvn9eE) | 4:13 |
 | 45 | [Todos Os Dias \- Ao Vivo](https://open.spotify.com/track/6D69qZPo0vq1nrMWRSYWnT) | [Serginho Vílem](https://open.spotify.com/artist/213Sdfj6QVB67sEZBH6JKH), [GROOVESHIP](https://open.spotify.com/artist/3mc5kDWOfkEscpAtX43Jlj) | [Todos Os Dias \- Ao Vivo](https://open.spotify.com/album/4q6gvoL4JIGPccwlIbdHvx) | 3:21 |
 | 46 | [Nunca Vou Me Acostumar](https://open.spotify.com/track/5K3HUCB1oIvPmkpyH4nR1u) | [Gabriel Bulian](https://open.spotify.com/artist/5eihOAXqmEGCMspHHPSIa0) | [Meu Lugar](https://open.spotify.com/album/4P6lJLaIwUglbel1eRVVcL) | 3:45 |
 | 47 | [Tu És Vencedor](https://open.spotify.com/track/6CyfP46RF6fswbF4JeGTbB) | [Stefhany](https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9) | [Tu És Vencedor](https://open.spotify.com/album/3rD8xhyRqYD5m1Cft3uNLa) | 5:23 |

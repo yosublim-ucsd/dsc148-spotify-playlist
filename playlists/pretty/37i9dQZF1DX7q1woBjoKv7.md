@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 
 > California music breaking waves\. Curated by: <a href="spotify:artist:3QTDHixorJelOLxoxcjqGx">SiR</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,291 likes - 60 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,294 likes - 60 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 | 3 | [100 \- From the Original Motion Picture “The Color Purple”](https://open.spotify.com/track/2YIIWC8ow7SK7qpqt2p3rx) | [JANE HANDCOCK](https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD) | [100 \(From the Original Motion Picture “The Color Purple”\)](https://open.spotify.com/album/13sHylDFHpXZYRD5aVpGMg) | 3:04 |
 | 4 | [AIN’T NOTHIN](https://open.spotify.com/track/3yW269q7pnxzzDBVprmnFm) | [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [NOT HARD 2 UNDERSTAND](https://open.spotify.com/album/1YE3OeReW3UQjBvW3L2eYw) | 3:22 |
 | 5 | [Merry Bhrismas](https://open.spotify.com/track/3DekPk8oSJaEE5wPKCasom) | [Baby Stone Gorillas](https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3) | [Merry Bhrismas](https://open.spotify.com/album/57RMvuWawM54vrySEgF7sT) | 2:42 |
-| 6 | [Pop Out \(feat\. ScHoolboy Q\)](https://open.spotify.com/track/1WboXt3VYGGcYePmGUdLV4) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Cardo](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [The Night Shift](https://open.spotify.com/album/25oOBjKtoIRSYzC4h5Gl2G) | 2:58 |
+| 6 | [Pop Out \(feat\. ScHoolboy Q\)](https://open.spotify.com/track/1WboXt3VYGGcYePmGUdLV4) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Cardo Got Wings](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [The Night Shift](https://open.spotify.com/album/25oOBjKtoIRSYzC4h5Gl2G) | 2:58 |
 | 7 | [Touch Me Back](https://open.spotify.com/track/1FSetWBm1rFLb9sFgrCatD) | [Rayana Jay](https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Touch Me Back](https://open.spotify.com/album/5exQ4AzoytKiIsgWuiNPTL) | 2:44 |
 | 8 | [Alright](https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 2:53 |
 | 9 | [NOTHING EVEN MATTERS](https://open.spotify.com/track/5URTJ8nizZVFDSJVnyPjXf) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [HEAVY](https://open.spotify.com/album/26678sDHO3Xg8g6q3Fo1WX) | 3:39 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 | 22 | [Can't Fake What You Feel](https://open.spotify.com/track/62UXPpJDZ2v6TFZk6yzF40) | [Jordan Hawkins](https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Bad Gurl](https://open.spotify.com/album/6TYx8F8NIEDd7jqnyCuAxp) | 2:51 |
 | 23 | [MAKE IT UP](https://open.spotify.com/track/1zXefmngPj3d2nJEtwJNHd) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [MAKE IT UP](https://open.spotify.com/album/6F4piW1oRQJIDtL7wEgxrm) | 2:58 |
 | 24 | [NO SZNS](https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [NO SZNS](https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3) | 3:33 |
-| 25 | [Chops on the Blade](https://open.spotify.com/track/4XNzXJ4zd4TD5G23drsP3z) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Cardo](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p) | [The Night Shift](https://open.spotify.com/album/60hrxgJN3QfheGpVzEcUFR) | 3:36 |
+| 25 | [Chops on the Blade](https://open.spotify.com/track/4XNzXJ4zd4TD5G23drsP3z) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Cardo Got Wings](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p) | [The Night Shift](https://open.spotify.com/album/60hrxgJN3QfheGpVzEcUFR) | 3:36 |
 | 26 | [Rusty](https://open.spotify.com/track/06Lb3JRTvTGlfNzOLAKphA) | [Bla$ta](https://open.spotify.com/artist/2bfz6u4hgmuMljhyMPCzoZ), [Hombre](https://open.spotify.com/artist/4U8we6EBUUQLhGXdU7wdja) | [Be Extra Careful](https://open.spotify.com/album/1jCzbZ5jEBimyCpNfbRbXd) | 2:12 |
 | 27 | [Slow It Down \(feat\. 310babii\) \- Remix](https://open.spotify.com/track/3r97LXa3iVLKB6FHUbb0k1) | [John Mackk](https://open.spotify.com/artist/57Ay3Ye4cloEzuDSTYQ1kw), [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [Slow It Down \(feat\. Heembeezy\) \[Remix\]](https://open.spotify.com/album/5DfduHI6DbY2GX29AhT5qA) | 2:51 |
 | 28 | [Nun Average](https://open.spotify.com/track/1YwT0bOa25mRNyKIg331XH) | [Heembeezy](https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei), [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [Nun Average](https://open.spotify.com/album/5PBKs2mB0CwRrGMFkzGYcN) | 2:59 |

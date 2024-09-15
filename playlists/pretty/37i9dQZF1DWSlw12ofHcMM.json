@@ -1,6 +1,6 @@
 {
   "description": "bold tracks, serious swagger.",
-  "num_followers": 1344163,
+  "num_followers": 1344206,
   "original_name": "Swagger",
   "owner": {
     "name": "Spotify",
@@ -291,6 +291,22 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
+        "name": "Encore",
+        "url": "https://open.spotify.com/album/6EIlfHDKZxmDMjcaRbFj8d"
+      },
+      "artists": [
+        {
+          "name": "Anderson East",
+          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
+        }
+      ],
+      "duration_ms": 224520,
+      "name": "All on My Mind",
+      "url": "https://open.spotify.com/track/5GRPAVCMwnUNvIOKzDYYSb"
+    },
+    {
+      "added_at": "2024-08-23 15:39:31",
+      "album": {
         "name": "Run On",
         "url": "https://open.spotify.com/album/3QVFpfKAIEYE0GfSiUqQfk"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 212705,
       "name": "Run On",
       "url": "https://open.spotify.com/track/0pu3kHgI5lFwbPXQFK8CGz"
-    },
-    {
-      "added_at": "2024-08-23 15:39:31",
-      "album": {
-        "name": "Encore",
-        "url": "https://open.spotify.com/album/6EIlfHDKZxmDMjcaRbFj8d"
-      },
-      "artists": [
-        {
-          "name": "Anderson East",
-          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
-        }
-      ],
-      "duration_ms": 224520,
-      "name": "All on My Mind",
-      "url": "https://open.spotify.com/track/5GRPAVCMwnUNvIOKzDYYSb"
     },
     {
       "added_at": "2024-08-23 15:39:31",
@@ -423,26 +423,6 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
-        "name": "Avalanche",
-        "url": "https://open.spotify.com/album/0DQe0tsjxE9yfB2dntQmUR"
-      },
-      "artists": [
-        {
-          "name": "Torus",
-          "url": "https://open.spotify.com/artist/2hAbK9kNETmY7FHExyadGM"
-        },
-        {
-          "name": "The Blue Stones",
-          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
-        }
-      ],
-      "duration_ms": 204121,
-      "name": "Avalanche",
-      "url": "https://open.spotify.com/track/2J6FjuQNSU0tvcplhtl5AP"
-    },
-    {
-      "added_at": "2024-08-23 15:39:31",
-      "album": {
         "name": "Goin' Platinum!",
         "url": "https://open.spotify.com/album/6M5DQTTp3zGaWOH6hXsYJV"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 230373,
       "name": "High Ball Stepper",
       "url": "https://open.spotify.com/track/4YmSnlzkU5sF4X7aAiXAuY"
+    },
+    {
+      "added_at": "2024-08-23 15:39:31",
+      "album": {
+        "name": "Avalanche",
+        "url": "https://open.spotify.com/album/0DQe0tsjxE9yfB2dntQmUR"
+      },
+      "artists": [
+        {
+          "name": "Torus",
+          "url": "https://open.spotify.com/artist/2hAbK9kNETmY7FHExyadGM"
+        },
+        {
+          "name": "The Blue Stones",
+          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
+        }
+      ],
+      "duration_ms": 204121,
+      "name": "Avalanche",
+      "url": "https://open.spotify.com/track/2J6FjuQNSU0tvcplhtl5AP"
     },
     {
       "added_at": "2024-08-23 15:39:31",
@@ -679,18 +679,18 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
-        "name": "Ruby Red",
-        "url": "https://open.spotify.com/album/7Bsz8Wc2xeIZVr0XC23Vfk"
+        "name": "Axis Mundi",
+        "url": "https://open.spotify.com/album/1Br1pBqY2XH6L3cQpNUFLY"
       },
       "artists": [
         {
-          "name": "Suzanne Santo",
-          "url": "https://open.spotify.com/artist/1TUJBwovBrSV0NgaJ9cm5a"
+          "name": "Brown Bird",
+          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
         }
       ],
-      "duration_ms": 222026,
-      "name": "Blood on Your Knees",
-      "url": "https://open.spotify.com/track/3x6QbnhKGxweFWdqDl8289"
+      "duration_ms": 273866,
+      "name": "Smoke Rising",
+      "url": "https://open.spotify.com/track/54d6U1U3Y74mDmJJECZNNQ"
     },
     {
       "added_at": "2024-08-23 15:39:31",
@@ -711,18 +711,18 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
-        "name": "Axis Mundi",
-        "url": "https://open.spotify.com/album/1Br1pBqY2XH6L3cQpNUFLY"
+        "name": "Ruby Red",
+        "url": "https://open.spotify.com/album/7Bsz8Wc2xeIZVr0XC23Vfk"
       },
       "artists": [
         {
-          "name": "Brown Bird",
-          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
+          "name": "Suzanne Santo",
+          "url": "https://open.spotify.com/artist/1TUJBwovBrSV0NgaJ9cm5a"
         }
       ],
-      "duration_ms": 273866,
-      "name": "Smoke Rising",
-      "url": "https://open.spotify.com/track/54d6U1U3Y74mDmJJECZNNQ"
+      "duration_ms": 222026,
+      "name": "Blood on Your Knees",
+      "url": "https://open.spotify.com/track/3x6QbnhKGxweFWdqDl8289"
     },
     {
       "added_at": "2024-08-23 15:39:31",
@@ -795,26 +795,6 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
-        "name": "Yard Sale",
-        "url": "https://open.spotify.com/album/0f6Zs9gZdMift137nyLO2A"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Santo",
-          "url": "https://open.spotify.com/artist/1TUJBwovBrSV0NgaJ9cm5a"
-        },
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        }
-      ],
-      "duration_ms": 240168,
-      "name": "Fall for That",
-      "url": "https://open.spotify.com/track/2mvMmeybBKZHmxUAS2SrBO"
-    },
-    {
-      "added_at": "2024-08-23 15:39:31",
-      "album": {
         "name": "Wicked Ones",
         "url": "https://open.spotify.com/album/4wvFYSwOhDNl1sbtiEU8J8"
       },
@@ -843,6 +823,22 @@
       "duration_ms": 111967,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/14wY5SJ4WoyMi5GLVeew4c"
+    },
+    {
+      "added_at": "2024-08-23 15:39:31",
+      "album": {
+        "name": "Ain't No Angel",
+        "url": "https://open.spotify.com/album/4ADyT6cpGaqGdLRmlx7S5F"
+      },
+      "artists": [
+        {
+          "name": "Ron Pope",
+          "url": "https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O"
+        }
+      ],
+      "duration_ms": 223157,
+      "name": "Ain't No Angel",
+      "url": "https://open.spotify.com/track/6ATkdQDvgPt8W06XPjcB8Z"
     }
   ],
   "unique_name": "Swagger",

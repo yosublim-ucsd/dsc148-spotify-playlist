@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Ana Lua Caiano on cover. Artwork by Thami Nabil",
-  "num_followers": 171321,
+  "num_followers": 171425,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -1061,22 +1061,6 @@
       "url": "https://open.spotify.com/track/0uK2urblhFVH6P4Mlq4YOJ"
     },
     {
-      "added_at": "2024-07-17 04:00:00",
-      "album": {
-        "name": "Inaudible",
-        "url": "https://open.spotify.com/album/6xr0qixgwTRXgMUfun7ww5"
-      },
-      "artists": [
-        {
-          "name": "Thom LaFond",
-          "url": "https://open.spotify.com/artist/2NVtDeFBzHMUFQlzDswS8a"
-        }
-      ],
-      "duration_ms": 314142,
-      "name": "Inaudible",
-      "url": "https://open.spotify.com/track/00p5muWKVAVbUz9Wp4dZKt"
-    },
-    {
       "added_at": "2024-08-21 04:00:00",
       "album": {
         "name": "betrayal",
@@ -1093,6 +1077,22 @@
       "url": "https://open.spotify.com/track/4rVQH8kUO7o8Zacw0hMVbi"
     },
     {
+      "added_at": "2024-07-17 04:00:00",
+      "album": {
+        "name": "Inaudible",
+        "url": "https://open.spotify.com/album/6xr0qixgwTRXgMUfun7ww5"
+      },
+      "artists": [
+        {
+          "name": "Thom LaFond",
+          "url": "https://open.spotify.com/artist/2NVtDeFBzHMUFQlzDswS8a"
+        }
+      ],
+      "duration_ms": 314142,
+      "name": "Inaudible",
+      "url": "https://open.spotify.com/track/00p5muWKVAVbUz9Wp4dZKt"
+    },
+    {
       "added_at": "2024-06-19 06:00:00",
       "album": {
         "name": "Hailu",
@@ -1107,22 +1107,6 @@
       "duration_ms": 155000,
       "name": "Baraka",
       "url": "https://open.spotify.com/track/0HjOi8AnakBvS1oY5NEMlL"
-    },
-    {
-      "added_at": "2024-07-17 04:00:00",
-      "album": {
-        "name": "Lambda",
-        "url": "https://open.spotify.com/album/7uzOcKlkHCj0b1hn72UGUn"
-      },
-      "artists": [
-        {
-          "name": "ZULI",
-          "url": "https://open.spotify.com/artist/5Kur13kkU4pOoNFAE8K0YF"
-        }
-      ],
-      "duration_ms": 265000,
-      "name": "Release +\u03d5",
-      "url": "https://open.spotify.com/track/4z1vmPuzHvVyT4T2zRwslI"
     },
     {
       "added_at": "2024-08-14 14:21:25",
@@ -1143,6 +1127,22 @@
       "duration_ms": 169214,
       "name": "Muzak For Mesozoic Showreel",
       "url": "https://open.spotify.com/track/3SSrgHRP1Ok1BXZdOkgV0O"
+    },
+    {
+      "added_at": "2024-07-17 04:00:00",
+      "album": {
+        "name": "Lambda",
+        "url": "https://open.spotify.com/album/7uzOcKlkHCj0b1hn72UGUn"
+      },
+      "artists": [
+        {
+          "name": "ZULI",
+          "url": "https://open.spotify.com/artist/5Kur13kkU4pOoNFAE8K0YF"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "Release +\u03d5",
+      "url": "https://open.spotify.com/track/4z1vmPuzHvVyT4T2zRwslI"
     },
     {
       "added_at": "2024-08-14 14:21:25",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-08-21 04:00:00",
       "album": {
-        "name": "Truest",
-        "url": "https://open.spotify.com/album/1wANarMlS8xKdwUxm4WwrI"
-      },
-      "artists": [
-        {
-          "name": "Anysia Kym",
-          "url": "https://open.spotify.com/artist/03546gvcoicKs6C10YdXvk"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Hesitations\u2026 (Intro)",
-      "url": "https://open.spotify.com/track/0sNiWTqzD6LwYnLa9SGuac"
-    },
-    {
-      "added_at": "2024-08-21 04:00:00",
-      "album": {
         "name": "Near the Lake We Forget to Count the Days",
         "url": "https://open.spotify.com/album/000w07NjXTXbvy7AMaaawi"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 173428,
       "name": "aurora",
       "url": "https://open.spotify.com/track/1JB63hFHq0Xz3buBY2x7vj"
+    },
+    {
+      "added_at": "2024-08-21 04:00:00",
+      "album": {
+        "name": "Truest",
+        "url": "https://open.spotify.com/album/1wANarMlS8xKdwUxm4WwrI"
+      },
+      "artists": [
+        {
+          "name": "Anysia Kym",
+          "url": "https://open.spotify.com/artist/03546gvcoicKs6C10YdXvk"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Hesitations\u2026 (Intro)",
+      "url": "https://open.spotify.com/track/0sNiWTqzD6LwYnLa9SGuac"
     },
     {
       "added_at": "2024-07-17 04:00:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2024-08-21 04:00:00",
       "album": {
-        "name": "Heroine",
-        "url": "https://open.spotify.com/album/3e7ratn5mY9I6wCDUalVx9"
-      },
-      "artists": [
-        {
-          "name": "House on the Strand",
-          "url": "https://open.spotify.com/artist/1XelH5HqoOc2TcRaJT2E23"
-        }
-      ],
-      "duration_ms": 327804,
-      "name": "Youth",
-      "url": "https://open.spotify.com/track/0pHiRnZ4yHBA2xYAiC5OTP"
-    },
-    {
-      "added_at": "2024-08-21 04:00:00",
-      "album": {
         "name": "a two",
         "url": "https://open.spotify.com/album/1tsbblGgepVwBV7fXm8h4f"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 177622,
       "name": "ocean, sea, ocean.",
       "url": "https://open.spotify.com/track/23bA4F9fTGFCnGHwyLJAOO"
+    },
+    {
+      "added_at": "2024-08-21 04:00:00",
+      "album": {
+        "name": "Heroine",
+        "url": "https://open.spotify.com/album/3e7ratn5mY9I6wCDUalVx9"
+      },
+      "artists": [
+        {
+          "name": "House on the Strand",
+          "url": "https://open.spotify.com/artist/1XelH5HqoOc2TcRaJT2E23"
+        }
+      ],
+      "duration_ms": 327804,
+      "name": "Youth",
+      "url": "https://open.spotify.com/track/0pHiRnZ4yHBA2xYAiC5OTP"
     },
     {
       "added_at": "2024-08-14 14:21:25",

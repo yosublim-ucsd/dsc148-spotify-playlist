@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1kss636YZWThqotgyApqMj">Keith Urban</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-97 songs - 6 hr 27 min
+98 songs - 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [She Does](https://open.spotify.com/track/7AKls3pxbhAPrQwGsljDlS) | [Locksley](https://open.spotify.com/artist/5RNwd3Bm5pgaERdZcBr7om) | [The Coolest Songs in the World! Vol\. 6](https://open.spotify.com/album/6zDWqkDvOQLtAM0q07TLcb) | 1:50 | 2024-06-07 |  |
 | [She's Gotta Be](https://open.spotify.com/track/0NHAyjNPKCdvetMzjCbnk9) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Be Here](https://open.spotify.com/album/2IGgtSdgps7BjyZBtJGW89) | 4:52 | 2024-06-07 |  |
 | [She's My 11](https://open.spotify.com/track/0D82Yr6IjXqgjN7kpkF7q3) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Fuse \(Deluxe Edition\)](https://open.spotify.com/album/6LJH0InZpmgymwZ3hpsUYD) | 3:17 | 2024-06-07 |  |
-| [Shine](https://open.spotify.com/track/6IvF3lDMtJyF6WHuNa7axD) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Love, Pain & The Whole Crazy Thing](https://open.spotify.com/album/4sTNnZi0xkMIaFs8tT96fl) | 5:17 | 2024-06-07 |  |
+| [Shine](https://open.spotify.com/track/3hLH9mrL9oFb2G3LM26o8w) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Love, Pain & The Whole Crazy Thing](https://open.spotify.com/album/3txPRPVrAXeiO0pJ13kFX7) | 5:17 | 2024-09-14 |  |
+| [Shine](https://open.spotify.com/track/6IvF3lDMtJyF6WHuNa7axD) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Love, Pain & The Whole Crazy Thing](https://open.spotify.com/album/4sTNnZi0xkMIaFs8tT96fl) | 5:17 | 2024-06-07 | 2024-09-15 |
 | [Shut Out The Lights](https://open.spotify.com/track/3P3MBCqeKrfNYChwNgTfmQ) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Get Closer \(Deluxe Version\)](https://open.spotify.com/album/62MetN2sHDnc8vVth9iInk) | 4:18 | 2024-06-07 |  |
 | [Somebody Like You](https://open.spotify.com/track/0b9djfiuDIMw1zKH6gV74g) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Golden Road](https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7) | 5:23 | 2024-06-07 |  |
 | [Somewhere In My Car](https://open.spotify.com/track/3MFV4DgrAOXz6KURPQxRj9) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Somewhere In My Car](https://open.spotify.com/album/2WrjahkTYLrJe93TxCGIuM) | 3:15 | 2024-06-07 |  |

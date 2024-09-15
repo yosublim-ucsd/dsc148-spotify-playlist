@@ -1,6 +1,6 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 93363,
+  "num_followers": 93390,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,22 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
+        "name": "On A Journey",
+        "url": "https://open.spotify.com/album/1qg6gKQtN4rOrHQp1qv412"
+      },
+      "artists": [
+        {
+          "name": "K-Hand",
+          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
+        }
+      ],
+      "duration_ms": 271464,
+      "name": "On A Journey",
+      "url": "https://open.spotify.com/track/1DzZRyXgpD3IlRqsC7fqzD"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
         "name": "Waveform Transmission Vol. 2",
         "url": "https://open.spotify.com/album/0BmR9AfixKN0QsrkEHIXL2"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 208177,
       "name": "The Protector",
       "url": "https://open.spotify.com/track/0Gmv7RQPrem1m4Amdc4Hhk"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
-        "name": "On A Journey",
-        "url": "https://open.spotify.com/album/1qg6gKQtN4rOrHQp1qv412"
-      },
-      "artists": [
-        {
-          "name": "K-Hand",
-          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
-        }
-      ],
-      "duration_ms": 271464,
-      "name": "On A Journey",
-      "url": "https://open.spotify.com/track/1DzZRyXgpD3IlRqsC7fqzD"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -791,6 +791,26 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
+        "name": "Space Ibiza 2014 (25th Anniversary) [Unmixed DJ Version]",
+        "url": "https://open.spotify.com/album/6Un9KGv9hSJYnxKSxl2Txf"
+      },
+      "artists": [
+        {
+          "name": "Octave One",
+          "url": "https://open.spotify.com/artist/0CRfAs5qmkRgw9x9etNGqH"
+        },
+        {
+          "name": "Ann Saunderson",
+          "url": "https://open.spotify.com/artist/7IItD0N1A3unbTmcIzsCEK"
+        }
+      ],
+      "duration_ms": 518945,
+      "name": "Black Water - Full Strings Vocal Mix",
+      "url": "https://open.spotify.com/track/4GGjMkxZiV3Z7KqxcIMZJQ"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
         "name": "Innovator",
         "url": "https://open.spotify.com/album/1tCTyOZrTwwmIK4yV8KImY"
       },
@@ -835,26 +855,6 @@
       "duration_ms": 296013,
       "name": "Maintain",
       "url": "https://open.spotify.com/track/3YEtKgCDIWcMpX7tSndngc"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
-        "name": "Space Ibiza 2014 (25th Anniversary) [Unmixed DJ Version]",
-        "url": "https://open.spotify.com/album/6Un9KGv9hSJYnxKSxl2Txf"
-      },
-      "artists": [
-        {
-          "name": "Octave One",
-          "url": "https://open.spotify.com/artist/0CRfAs5qmkRgw9x9etNGqH"
-        },
-        {
-          "name": "Ann Saunderson",
-          "url": "https://open.spotify.com/artist/7IItD0N1A3unbTmcIzsCEK"
-        }
-      ],
-      "duration_ms": 518945,
-      "name": "Black Water - Full Strings Vocal Mix",
-      "url": "https://open.spotify.com/track/4GGjMkxZiV3Z7KqxcIMZJQ"
     },
     {
       "added_at": "2023-10-26 20:41:14",

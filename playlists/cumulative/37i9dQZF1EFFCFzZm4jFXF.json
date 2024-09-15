@@ -1951,6 +1951,24 @@
     },
     {
       "album": {
+        "name": "Wilder Days EP",
+        "url": "https://open.spotify.com/album/6XuJT50OLcO7j3oLNZM6Q3"
+      },
+      "artists": [
+        {
+          "name": "Tors",
+          "url": "https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217851,
+      "name": "Wilder Days",
+      "url": "https://open.spotify.com/track/7yiZtUUC5lPtoUxF5s0KH1"
+    },
+    {
+      "album": {
         "name": "Volume One",
         "url": "https://open.spotify.com/album/0U2US6liFchgyXBw7nZozm"
       },

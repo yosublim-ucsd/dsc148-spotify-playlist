@@ -4,7 +4,7 @@
 
 > All things <a href="spotify:genre:bass">bass</a> with ALLEYCVT
 
-980 songs - 2 day 7 hr 18 min
+981 songs - 2 day 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,7 @@
 | [CRY](https://open.spotify.com/track/1xeOJfKycH2GR5UDwDNjzu) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [CRY](https://open.spotify.com/album/3VzskMtVDfE6uU1JAci7Ct) | 2:28 | 2022-03-11 | 2022-10-29 |
 | [CRY \- Borgore Remix](https://open.spotify.com/track/6ekIi6kltHC195Y4z6vMb0) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz) | [Someone You Can Count On \(The Remixes\)](https://open.spotify.com/album/0QWKmiHrLOhsSp2r8vx40l) | 4:18 | 2023-07-21 | 2023-10-16 |
 | [Crybaby](https://open.spotify.com/track/0gxFH859NhbHOI4XnZjcrX) | [Cyclops](https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN) | [Crybaby](https://open.spotify.com/album/18Gk7jKabdh5TT3op7Vppl) | 2:15 | 2024-08-16 | 2024-08-24 |
-| [CUT ME OUT](https://open.spotify.com/track/7wa5lBm1Nl0kcXb9psV2Sj) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Digital Ethos](https://open.spotify.com/artist/1uzNrmjOsClb1k7DYwUlIX) | [CAN YOU SEE ME?](https://open.spotify.com/album/6tQ1vjB7ZXy8sKkGEtHs1X) | 3:42 | 2024-03-15 |  |
+| [CUT ME OUT](https://open.spotify.com/track/7wa5lBm1Nl0kcXb9psV2Sj) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Digital Ethos](https://open.spotify.com/artist/1uzNrmjOsClb1k7DYwUlIX) | [CAN YOU SEE ME?](https://open.spotify.com/album/6tQ1vjB7ZXy8sKkGEtHs1X) | 3:42 | 2024-03-15 | 2024-09-15 |
 | [Cyanide](https://open.spotify.com/track/3iFJjgV27J4vDs9N7RAAKs) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [Tommy Trash](https://open.spotify.com/artist/1tBU8jUEdVR3mqSsAqEGfD), [Lucille Croft](https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy), [Lord Gasp](https://open.spotify.com/artist/26fmgj9vUob3WnTDojZxBw) | [Cyanide](https://open.spotify.com/album/0PjSvHusBgifniYJcyBsBp) | 3:05 | 2023-12-15 | 2024-02-24 |
 | [Damage](https://open.spotify.com/track/6S0nRvCvWPpYg07vDqf1gM) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2) | [Damage](https://open.spotify.com/album/4NqxRinZeiR45um7j2AHC1) | 3:21 | 2024-06-14 | 2024-07-06 |
 | [DAMAGE](https://open.spotify.com/track/0afxbRf1Xy7IwYuzoJtDZy) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q) | [DAMAGE](https://open.spotify.com/album/6aCtnpIFYQIzSbH8suxXYR) | 3:33 | 2022-09-09 | 2023-07-29 |
@@ -608,6 +608,7 @@
 | [Nonstop](https://open.spotify.com/track/0SUc7tyzR0jSTBEElIzqxB) | [Drezo](https://open.spotify.com/artist/5uiDE9y1o7EEyDbNBo6vl9), [EDDIE](https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd) | [Nonstop](https://open.spotify.com/album/3tS6hhl22D2BWjA7Y0Vf35) | 4:54 | 2023-09-15 | 2023-10-28 |
 | [Not Bees](https://open.spotify.com/track/6XQoXvZzIIOsUVobKDwPtg) | [Space Laces](https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP), [Watch](https://open.spotify.com/artist/036bvTwDThpn1xsB38mBX3) | [High Vaultage EP](https://open.spotify.com/album/3FYAvx8nplQwbciVpHe7y5) | 3:24 | 2022-02-18 | 2023-02-25 |
 | [Not Enough](https://open.spotify.com/track/4EWfyPDwqBVWMBfzgvrI9y) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp), [EDDIE](https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd) | [Not Enough](https://open.spotify.com/album/1HOT0HOpQ9LXsmGVanpznD) | 3:02 | 2024-01-12 | 2024-02-10 |
+| [Not Even Love \- MUZZ Remix](https://open.spotify.com/track/4C6BVbsJTydFx5moRR71Q3) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg) | [Not Even Love \- MUZZ Remix](https://open.spotify.com/album/1SduTEJxRmJSEdQSuPHLwJ) | 3:11 | 2024-09-13 |  |
 | [Not Giving In](https://open.spotify.com/track/4BGisE3DH8PkP5ibmLkmQB) | [Culture Code](https://open.spotify.com/artist/2FF8wcGpikv5RFbAK1rvdZ) | [Not Giving In](https://open.spotify.com/album/7pIuUpNRFjdhvDjWoAWNxK) | 3:07 | 2022-11-11 | 2023-06-08 |
 | [Not In The Mood](https://open.spotify.com/track/3NYw5JI6wlqtGoCuZRzn6R) | [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo) | [Minha Vida \- Sadness](https://open.spotify.com/album/7hpaVvbrgihorMXpHVRhE4) | 1:50 | 2023-07-07 | 2023-08-12 |
 | [Not What U Think](https://open.spotify.com/track/0kRCnL7ceIGcqr9eZ7w7EU) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [Hailure](https://open.spotify.com/artist/1CVix4Yg8Q2o8YCFGNQUrn) | [Not What U Think](https://open.spotify.com/album/17Ya91S8QZICQqpEfeEmfK) | 2:13 | 2023-12-15 | 2023-12-23 |

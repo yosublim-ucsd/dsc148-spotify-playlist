@@ -1,6 +1,6 @@
 {
   "description": "Walk the threshold into the netherworld...",
-  "num_followers": 167590,
+  "num_followers": 167645,
   "original_name": "Hauntology",
   "owner": {
     "name": "Spotify",
@@ -673,22 +673,6 @@
       "url": "https://open.spotify.com/track/2yPwst86GlebGzgaO78CjQ"
     },
     {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
-        "name": "The Gone Away",
-        "url": "https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv"
-      },
-      "artists": [
-        {
-          "name": "Belbury Poly",
-          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
-        }
-      ],
-      "duration_ms": 241732,
-      "name": "The Gone Away",
-      "url": "https://open.spotify.com/track/5NDgIlcWR69yxix0SsI9jO"
-    },
-    {
       "added_at": "2022-03-11 06:00:33",
       "album": {
         "name": "Hypernormality",
@@ -707,6 +691,22 @@
       "duration_ms": 316693,
       "name": "St Henri",
       "url": "https://open.spotify.com/track/2Zu8GTKVR2iXR3ZJIbbky3"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
+        "name": "The Gone Away",
+        "url": "https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv"
+      },
+      "artists": [
+        {
+          "name": "Belbury Poly",
+          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
+        }
+      ],
+      "duration_ms": 241732,
+      "name": "The Gone Away",
+      "url": "https://open.spotify.com/track/5NDgIlcWR69yxix0SsI9jO"
     },
     {
       "added_at": "2023-02-14 04:48:37",
@@ -743,6 +743,22 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
+        "name": "Dragon Wings and Wizard Tales",
+        "url": "https://open.spotify.com/album/28yG3trjPCbTDtKbTgm9Pf"
+      },
+      "artists": [
+        {
+          "name": "Emerald Web",
+          "url": "https://open.spotify.com/artist/4pXW1cANcBgMaLvVwCfsMe"
+        }
+      ],
+      "duration_ms": 185773,
+      "name": "Flight of the Raven",
+      "url": "https://open.spotify.com/track/6PVBbkAbQVb9PxordrVHa8"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
         "name": "Tropical Cosmic Sounds from Space (Compiled by El Palmas)",
         "url": "https://open.spotify.com/album/24rDI2007s2dKov1MT5xiZ"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 136366,
       "name": "Arriving To Davida",
       "url": "https://open.spotify.com/track/5QsVuOfSlSr2n7KdpPcaoA"
-    },
-    {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
-        "name": "Dragon Wings and Wizard Tales",
-        "url": "https://open.spotify.com/album/28yG3trjPCbTDtKbTgm9Pf"
-      },
-      "artists": [
-        {
-          "name": "Emerald Web",
-          "url": "https://open.spotify.com/artist/4pXW1cANcBgMaLvVwCfsMe"
-        }
-      ],
-      "duration_ms": 185773,
-      "name": "Flight of the Raven",
-      "url": "https://open.spotify.com/track/6PVBbkAbQVb9PxordrVHa8"
     },
     {
       "added_at": "2023-05-09 00:58:52",
@@ -829,22 +829,6 @@
       "url": "https://open.spotify.com/track/7J4V7ZzCiHFZ3lGjIVTJh3"
     },
     {
-      "added_at": "2024-02-02 05:51:49",
-      "album": {
-        "name": "The Bloodwren pt. II",
-        "url": "https://open.spotify.com/album/1Tc8SGlaDltVNRgU80EjsF"
-      },
-      "artists": [
-        {
-          "name": "Ceiling Spirits",
-          "url": "https://open.spotify.com/artist/49k2eYCb3x1hQm4Fbu74DB"
-        }
-      ],
-      "duration_ms": 496300,
-      "name": "The Bloodwren pt. II",
-      "url": "https://open.spotify.com/track/7bTVWXk2jJUipSfGaSZG8b"
-    },
-    {
       "added_at": "2021-10-27 14:20:30",
       "album": {
         "name": "Galactic Sounds",
@@ -859,6 +843,22 @@
       "duration_ms": 130582,
       "name": "Galactic Pulse",
       "url": "https://open.spotify.com/track/6tgs5jLx331P1rjGeSLoZV"
+    },
+    {
+      "added_at": "2024-02-02 05:51:49",
+      "album": {
+        "name": "The Bloodwren pt. II",
+        "url": "https://open.spotify.com/album/1Tc8SGlaDltVNRgU80EjsF"
+      },
+      "artists": [
+        {
+          "name": "Ceiling Spirits",
+          "url": "https://open.spotify.com/artist/49k2eYCb3x1hQm4Fbu74DB"
+        }
+      ],
+      "duration_ms": 496300,
+      "name": "The Bloodwren pt. II",
+      "url": "https://open.spotify.com/track/7bTVWXk2jJUipSfGaSZG8b"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -1133,22 +1133,6 @@
       "url": "https://open.spotify.com/track/1kkwJyZZlp9WEmJvcQ0CZn"
     },
     {
-      "added_at": "2022-04-06 03:05:40",
-      "album": {
-        "name": "Their Dark Dominion",
-        "url": "https://open.spotify.com/album/1iazXYZ9hqFnkapgU1BrBf"
-      },
-      "artists": [
-        {
-          "name": "The Night Monitor",
-          "url": "https://open.spotify.com/artist/3CZX2LMIYMGF8CK70c6zMm"
-        }
-      ],
-      "duration_ms": 176652,
-      "name": "Moonlight and Magic",
-      "url": "https://open.spotify.com/track/3cSV9CdfTgLo6z7NtFZjtK"
-    },
-    {
       "added_at": "2021-10-27 14:20:30",
       "album": {
         "name": "Suiseki",
@@ -1163,6 +1147,22 @@
       "duration_ms": 188266,
       "name": "Condor",
       "url": "https://open.spotify.com/track/7Bc847O3AJsMwmvCFCwOvf"
+    },
+    {
+      "added_at": "2022-04-06 03:05:40",
+      "album": {
+        "name": "Their Dark Dominion",
+        "url": "https://open.spotify.com/album/1iazXYZ9hqFnkapgU1BrBf"
+      },
+      "artists": [
+        {
+          "name": "The Night Monitor",
+          "url": "https://open.spotify.com/artist/3CZX2LMIYMGF8CK70c6zMm"
+        }
+      ],
+      "duration_ms": 176652,
+      "name": "Moonlight and Magic",
+      "url": "https://open.spotify.com/track/3cSV9CdfTgLo6z7NtFZjtK"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -1301,22 +1301,6 @@
       "url": "https://open.spotify.com/track/4RZqAPcXS3eTasFttfgi1J"
     },
     {
-      "added_at": "2022-06-08 02:20:31",
-      "album": {
-        "name": "Umbra",
-        "url": "https://open.spotify.com/album/4JJ56IJQdwUNfcexYgJf3n"
-      },
-      "artists": [
-        {
-          "name": "Monica Hapsari",
-          "url": "https://open.spotify.com/artist/20A3XzYQEOFjheUWIfOK6j"
-        }
-      ],
-      "duration_ms": 437634,
-      "name": "Umbra",
-      "url": "https://open.spotify.com/track/65oyZGxKUxzfv12LglkHbO"
-    },
-    {
       "added_at": "2021-10-27 14:20:30",
       "album": {
         "name": "Study Series 02: Cycles and Seasons",
@@ -1331,6 +1315,22 @@
       "duration_ms": 242308,
       "name": "New Dimensions In",
       "url": "https://open.spotify.com/track/0lle1Oh7IBpWWvChKZRlEW"
+    },
+    {
+      "added_at": "2022-06-08 02:20:31",
+      "album": {
+        "name": "Umbra",
+        "url": "https://open.spotify.com/album/4JJ56IJQdwUNfcexYgJf3n"
+      },
+      "artists": [
+        {
+          "name": "Monica Hapsari",
+          "url": "https://open.spotify.com/artist/20A3XzYQEOFjheUWIfOK6j"
+        }
+      ],
+      "duration_ms": 437634,
+      "name": "Umbra",
+      "url": "https://open.spotify.com/track/65oyZGxKUxzfv12LglkHbO"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "Study Series 09: \"Projections\"",
-        "url": "https://open.spotify.com/album/2up3mfykEEM2l8IKMi60vb"
+        "name": "The Lighter Side of Concrete",
+        "url": "https://open.spotify.com/album/6SB1xBOPXQDv7GNfV3HPhj"
       },
       "artists": [
         {
-          "name": "Listening Center",
-          "url": "https://open.spotify.com/artist/0aRECIgfOv83734a9YRnki"
+          "name": "Jez Butler",
+          "url": "https://open.spotify.com/artist/0dajvXKe1K1ZufT6UIWjj5"
         }
       ],
-      "duration_ms": 271485,
-      "name": "Titoli",
-      "url": "https://open.spotify.com/track/2Rvjpyr0IV4LlJ2O7o6jVh"
+      "duration_ms": 136720,
+      "name": "Sun and Air",
+      "url": "https://open.spotify.com/track/6mY227eGkuUZ8KCp3YfAEE"
     },
     {
       "added_at": "2022-09-26 22:17:41",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "The Lighter Side of Concrete",
-        "url": "https://open.spotify.com/album/6SB1xBOPXQDv7GNfV3HPhj"
+        "name": "Study Series 09: \"Projections\"",
+        "url": "https://open.spotify.com/album/2up3mfykEEM2l8IKMi60vb"
       },
       "artists": [
         {
-          "name": "Jez Butler",
-          "url": "https://open.spotify.com/artist/0dajvXKe1K1ZufT6UIWjj5"
+          "name": "Listening Center",
+          "url": "https://open.spotify.com/artist/0aRECIgfOv83734a9YRnki"
         }
       ],
-      "duration_ms": 136720,
-      "name": "Sun and Air",
-      "url": "https://open.spotify.com/track/6mY227eGkuUZ8KCp3YfAEE"
+      "duration_ms": 271485,
+      "name": "Titoli",
+      "url": "https://open.spotify.com/track/2Rvjpyr0IV4LlJ2O7o6jVh"
     },
     {
       "added_at": "2022-05-24 01:10:52",
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "BARTLEBY ORIGINAL MOTION PICTURE SOUNDTRACK",
-        "url": "https://open.spotify.com/album/2CLOjzWJ7wak6MDKeRaQy6"
+        "name": "The Gone Away",
+        "url": "https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv"
       },
       "artists": [
         {
-          "name": "Jonathan Parker & Seth Asarnow",
-          "url": "https://open.spotify.com/artist/1TEa06TRee6kGWGyjX5W74"
+          "name": "Belbury Poly",
+          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
         }
       ],
-      "duration_ms": 83826,
-      "name": "BARTLEBY - Titles",
-      "url": "https://open.spotify.com/track/07K4C1sexV20UkgQaJCswj"
+      "duration_ms": 241258,
+      "name": "Corner of the Eye",
+      "url": "https://open.spotify.com/track/0yGROd1yLTCjlFxtVtXc9a"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "The Gone Away",
-        "url": "https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv"
+        "name": "BARTLEBY ORIGINAL MOTION PICTURE SOUNDTRACK",
+        "url": "https://open.spotify.com/album/2CLOjzWJ7wak6MDKeRaQy6"
       },
       "artists": [
         {
-          "name": "Belbury Poly",
-          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
+          "name": "Jonathan Parker & Seth Asarnow",
+          "url": "https://open.spotify.com/artist/1TEa06TRee6kGWGyjX5W74"
         }
       ],
-      "duration_ms": 241258,
-      "name": "Corner of the Eye",
-      "url": "https://open.spotify.com/track/0yGROd1yLTCjlFxtVtXc9a"
+      "duration_ms": 83826,
+      "name": "BARTLEBY - Titles",
+      "url": "https://open.spotify.com/track/07K4C1sexV20UkgQaJCswj"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -1521,22 +1521,6 @@
       "url": "https://open.spotify.com/track/6pXPxr0ZgW6mp3Oz2K5bZG"
     },
     {
-      "added_at": "2023-02-27 18:31:54",
-      "album": {
-        "name": "Origen",
-        "url": "https://open.spotify.com/album/4qbGp9cj61TMzAeFAtEUj8"
-      },
-      "artists": [
-        {
-          "name": "A. M.",
-          "url": "https://open.spotify.com/artist/2GetULOyoPrlJ6DentO2Wa"
-        }
-      ],
-      "duration_ms": 313600,
-      "name": "Francis K.",
-      "url": "https://open.spotify.com/track/7EIlPzBmqzRRUdriseY4XP"
-    },
-    {
       "added_at": "2021-10-27 14:20:30",
       "album": {
         "name": "Study Series 10: \"Message and Method\"",
@@ -1561,6 +1545,22 @@
       "url": "https://open.spotify.com/track/5hIzUNQb56g3ONQYnubdlL"
     },
     {
+      "added_at": "2023-02-27 18:31:54",
+      "album": {
+        "name": "Origen",
+        "url": "https://open.spotify.com/album/4qbGp9cj61TMzAeFAtEUj8"
+      },
+      "artists": [
+        {
+          "name": "A. M.",
+          "url": "https://open.spotify.com/artist/2GetULOyoPrlJ6DentO2Wa"
+        }
+      ],
+      "duration_ms": 313600,
+      "name": "Francis K.",
+      "url": "https://open.spotify.com/track/7EIlPzBmqzRRUdriseY4XP"
+    },
+    {
       "added_at": "2021-10-27 14:20:30",
       "album": {
         "name": "Im Hag",
@@ -1572,9 +1572,9 @@
           "url": "https://open.spotify.com/artist/7GsvaD3QjxU9RtBAzCU3De"
         }
       ],
-      "duration_ms": 131733,
-      "name": "Kilon",
-      "url": "https://open.spotify.com/track/70rEL6J2nQ6MPs3ovlomEn"
+      "duration_ms": 186658,
+      "name": "A Travel Agent's Dream",
+      "url": "https://open.spotify.com/track/5a7TKRBOr7g5W4Up8LwaFe"
     },
     {
       "added_at": "2022-03-04 04:32:00",
@@ -1688,9 +1688,9 @@
           "url": "https://open.spotify.com/artist/7GsvaD3QjxU9RtBAzCU3De"
         }
       ],
-      "duration_ms": 186658,
-      "name": "A Travel Agent's Dream",
-      "url": "https://open.spotify.com/track/5a7TKRBOr7g5W4Up8LwaFe"
+      "duration_ms": 131733,
+      "name": "Kilon",
+      "url": "https://open.spotify.com/track/70rEL6J2nQ6MPs3ovlomEn"
     }
   ],
   "unique_name": "Hauntology",

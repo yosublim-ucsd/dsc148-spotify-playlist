@@ -1,6 +1,6 @@
 {
   "description": "Para honrar a los muertos con el m\u00e1s sublime placer terrenal.",
-  "num_followers": 213078,
+  "num_followers": 213083,
   "original_name": "D\u00eda de Muertos",
   "owner": {
     "name": "Spotify",
@@ -355,6 +355,22 @@
     {
       "added_at": "2023-11-08 15:57:38",
       "album": {
+        "name": "Inmortales de Pedro Infante (USA)",
+        "url": "https://open.spotify.com/album/4ZMUQuAe77nOQXZ6aIoMg8"
+      },
+      "artists": [
+        {
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+        }
+      ],
+      "duration_ms": 165306,
+      "name": "Dios nunca muere",
+      "url": "https://open.spotify.com/track/6mIjLHD3t1bcsUwQjyh4wn"
+    },
+    {
+      "added_at": "2023-11-08 15:57:38",
+      "album": {
         "name": "Desde La Cantina - Live At Nuevo Le\u00f3n M\u00e9xico/2009",
         "url": "https://open.spotify.com/album/5516JjJfiO6IGxBuPjZIyy"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 193826,
       "name": "Te Vas \u00c1ngel M\u00edo - Live At Nuevo Le\u00f3n M\u00e9xico/2009",
       "url": "https://open.spotify.com/track/3a7sMVCjNMQ5B1cE3XXub8"
-    },
-    {
-      "added_at": "2023-11-08 15:57:38",
-      "album": {
-        "name": "Inmortales de Pedro Infante (USA)",
-        "url": "https://open.spotify.com/album/4ZMUQuAe77nOQXZ6aIoMg8"
-      },
-      "artists": [
-        {
-          "name": "Pedro Infante",
-          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
-        }
-      ],
-      "duration_ms": 165306,
-      "name": "Dios nunca muere",
-      "url": "https://open.spotify.com/track/6mIjLHD3t1bcsUwQjyh4wn"
     },
     {
       "added_at": "2023-11-08 15:57:38",
@@ -615,18 +615,18 @@
     {
       "added_at": "2023-11-08 15:57:38",
       "album": {
-        "name": "Los Versos de la Catrina",
-        "url": "https://open.spotify.com/album/6OZIPpGkC15B2VSaQ8iqJ7"
+        "name": "\"Por Siempre\"",
+        "url": "https://open.spotify.com/album/1H9VCendIQLE3QFcKDwQ5Q"
       },
       "artists": [
         {
-          "name": "Armando Palomas",
-          "url": "https://open.spotify.com/artist/1kv4ncfnnPUUXAlEOS55B4"
+          "name": "Amparo Ochoa",
+          "url": "https://open.spotify.com/artist/0qk9IE3icvkYLRii8qAko8"
         }
       ],
-      "duration_ms": 247453,
-      "name": "Los Versos de la Catrina",
-      "url": "https://open.spotify.com/track/2vrAYVaAM7VuEyhA0xgmT7"
+      "duration_ms": 310013,
+      "name": "La Calaca",
+      "url": "https://open.spotify.com/track/7hmDplqSftS7uQMxsEY9BU"
     },
     {
       "added_at": "2023-11-08 15:57:38",
@@ -647,18 +647,18 @@
     {
       "added_at": "2023-11-08 15:57:38",
       "album": {
-        "name": "Quema Quema Quema",
-        "url": "https://open.spotify.com/album/4xwCcFkvSWgvJVE52xbpJh"
+        "name": "Los Versos de la Catrina",
+        "url": "https://open.spotify.com/album/6OZIPpGkC15B2VSaQ8iqJ7"
       },
       "artists": [
         {
-          "name": "Kanaku y El Tigre",
-          "url": "https://open.spotify.com/artist/27GzlZraldlAG0k7oBqmUS"
+          "name": "Armando Palomas",
+          "url": "https://open.spotify.com/artist/1kv4ncfnnPUUXAlEOS55B4"
         }
       ],
-      "duration_ms": 232386,
-      "name": "Si Te Mueres Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/5eTGZFp34UWVN5IRTXTWor"
+      "duration_ms": 247453,
+      "name": "Los Versos de la Catrina",
+      "url": "https://open.spotify.com/track/2vrAYVaAM7VuEyhA0xgmT7"
     },
     {
       "added_at": "2023-11-08 15:57:38",
@@ -683,18 +683,18 @@
     {
       "added_at": "2023-11-08 15:57:38",
       "album": {
-        "name": "\"Por Siempre\"",
-        "url": "https://open.spotify.com/album/1H9VCendIQLE3QFcKDwQ5Q"
+        "name": "Quema Quema Quema",
+        "url": "https://open.spotify.com/album/4xwCcFkvSWgvJVE52xbpJh"
       },
       "artists": [
         {
-          "name": "Amparo Ochoa",
-          "url": "https://open.spotify.com/artist/0qk9IE3icvkYLRii8qAko8"
+          "name": "Kanaku y El Tigre",
+          "url": "https://open.spotify.com/artist/27GzlZraldlAG0k7oBqmUS"
         }
       ],
-      "duration_ms": 310013,
-      "name": "La Calaca",
-      "url": "https://open.spotify.com/track/7hmDplqSftS7uQMxsEY9BU"
+      "duration_ms": 232386,
+      "name": "Si Te Mueres Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/5eTGZFp34UWVN5IRTXTWor"
     },
     {
       "added_at": "2023-11-08 15:57:38",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-11-08 15:57:38",
       "album": {
-        "name": "Mexihkateokwikameh, Sacred Songs Of The Aztecs",
-        "url": "https://open.spotify.com/album/2AlrMT4U2E0P5MkeCz8oMt"
-      },
-      "artists": [
-        {
-          "name": "Tzotzollin",
-          "url": "https://open.spotify.com/artist/2bO4AJkMVzTJHpo3HbxtGx"
-        }
-      ],
-      "duration_ms": 131039,
-      "name": "Vengan Abuelitos",
-      "url": "https://open.spotify.com/track/7tIj0Jv4PUgfdWUSCfzfgh"
-    },
-    {
-      "added_at": "2023-11-08 15:57:38",
-      "album": {
         "name": "Cantando Con la Muerte",
         "url": "https://open.spotify.com/album/1N47s2RcEQ0P2vZkNeyt06"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 147200,
       "name": "Coplas del Muerto (Coplas) [M\u00e9xico]",
       "url": "https://open.spotify.com/track/0qOkrzZJWLTWDm8AanZwm6"
+    },
+    {
+      "added_at": "2023-11-08 15:57:38",
+      "album": {
+        "name": "Mexihkateokwikameh, Sacred Songs Of The Aztecs",
+        "url": "https://open.spotify.com/album/2AlrMT4U2E0P5MkeCz8oMt"
+      },
+      "artists": [
+        {
+          "name": "Tzotzollin",
+          "url": "https://open.spotify.com/artist/2bO4AJkMVzTJHpo3HbxtGx"
+        }
+      ],
+      "duration_ms": 131039,
+      "name": "Vengan Abuelitos",
+      "url": "https://open.spotify.com/track/7tIj0Jv4PUgfdWUSCfzfgh"
     },
     {
       "added_at": "2023-11-08 15:57:38",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-11-08 15:57:38",
       "album": {
-        "name": "Timoneki",
-        "url": "https://open.spotify.com/album/6ALKR76vFWvN7zZwD3cKYO"
-      },
-      "artists": [
-        {
-          "name": "Timoneki",
-          "url": "https://open.spotify.com/artist/1dcxpEMRhnUon25kF78fQW"
-        }
-      ],
-      "duration_ms": 276970,
-      "name": "Mictl\u00e1n",
-      "url": "https://open.spotify.com/track/0mv4wsluGcvNmoB0UonpX9"
-    },
-    {
-      "added_at": "2023-11-08 15:57:38",
-      "album": {
         "name": "Ahora",
         "url": "https://open.spotify.com/album/02QQSaeRpqQrmNkJS6V4Xs"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 194092,
       "name": "La Danza de la Muerte - D\u00eda de Muertos",
       "url": "https://open.spotify.com/track/45vSa9GcUjSdLNtf7bk05I"
+    },
+    {
+      "added_at": "2023-11-08 15:57:38",
+      "album": {
+        "name": "Timoneki",
+        "url": "https://open.spotify.com/album/6ALKR76vFWvN7zZwD3cKYO"
+      },
+      "artists": [
+        {
+          "name": "Timoneki",
+          "url": "https://open.spotify.com/artist/1dcxpEMRhnUon25kF78fQW"
+        }
+      ],
+      "duration_ms": 276970,
+      "name": "Mictl\u00e1n",
+      "url": "https://open.spotify.com/track/0mv4wsluGcvNmoB0UonpX9"
     },
     {
       "added_at": "2023-11-08 15:57:38",
@@ -1359,8 +1359,8 @@
     {
       "added_at": "2023-11-08 15:57:38",
       "album": {
-        "name": "M\u00e1s Alto",
-        "url": "https://open.spotify.com/album/2Gxxed1c45BQTqHbfBbmsG"
+        "name": "Espectro (En Vivo Desde Cuba)",
+        "url": "https://open.spotify.com/album/5gACjsTLSACfENz4Ansroh"
       },
       "artists": [
         {
@@ -1368,17 +1368,17 @@
           "url": "https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx"
         },
         {
-          "name": "Sole Gimenez",
-          "url": "https://open.spotify.com/artist/56FObtReljLqgs2bgQ0kZS"
+          "name": "Athanai",
+          "url": "https://open.spotify.com/artist/7MIemSpbjGiDPJP0SSyF68"
         },
         {
-          "name": "Pavel Cal",
-          "url": "https://open.spotify.com/artist/5Als1ZFRIWsXOBsNpDvVm9"
+          "name": "Dayron Ortiz",
+          "url": "https://open.spotify.com/artist/2bwwrFM6oWJ4sdKHFaYhKI"
         }
       ],
-      "duration_ms": 209706,
-      "name": "Dimensi\u00f3n Astral",
-      "url": "https://open.spotify.com/track/7FV7GdKvi1FFbP41PqI1y2"
+      "duration_ms": 268992,
+      "name": "Espectro (En Vivo Desde Cuba)",
+      "url": "https://open.spotify.com/track/46S0Ic3yTeYniFbB3Bh69Y"
     },
     {
       "added_at": "2023-11-08 15:57:38",
@@ -1483,8 +1483,8 @@
     {
       "added_at": "2023-11-08 15:57:38",
       "album": {
-        "name": "Espectro (En Vivo Desde Cuba)",
-        "url": "https://open.spotify.com/album/5gACjsTLSACfENz4Ansroh"
+        "name": "M\u00e1s Alto",
+        "url": "https://open.spotify.com/album/2Gxxed1c45BQTqHbfBbmsG"
       },
       "artists": [
         {
@@ -1492,17 +1492,17 @@
           "url": "https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx"
         },
         {
-          "name": "Athanai",
-          "url": "https://open.spotify.com/artist/7MIemSpbjGiDPJP0SSyF68"
+          "name": "Sole Gimenez",
+          "url": "https://open.spotify.com/artist/56FObtReljLqgs2bgQ0kZS"
         },
         {
-          "name": "Dayron Ortiz",
-          "url": "https://open.spotify.com/artist/2bwwrFM6oWJ4sdKHFaYhKI"
+          "name": "Pavel Cal",
+          "url": "https://open.spotify.com/artist/5Als1ZFRIWsXOBsNpDvVm9"
         }
       ],
-      "duration_ms": 268992,
-      "name": "Espectro (En Vivo Desde Cuba)",
-      "url": "https://open.spotify.com/track/46S0Ic3yTeYniFbB3Bh69Y"
+      "duration_ms": 209706,
+      "name": "Dimensi\u00f3n Astral",
+      "url": "https://open.spotify.com/track/7FV7GdKvi1FFbP41PqI1y2"
     },
     {
       "added_at": "2023-11-08 15:57:38",

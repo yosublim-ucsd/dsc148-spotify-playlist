@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 
 > nü\-metal revival is happening here and now with Linkin Park.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,734 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,912 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 | 10 | [Made Me This Way](https://open.spotify.com/track/2QmqloB5RrJ9JXIOSxM2fL) | [Silent Theory](https://open.spotify.com/artist/5BKEV71K0K8ZhTbNRVRAXR) | [Made Me This Way](https://open.spotify.com/album/4y5H1S6oL2W983ataQpdQi) | 3:30 |
 | 11 | [NO HOSTAGES](https://open.spotify.com/track/1JKl8OJifNb8TKABeeDi7F) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [NO HOSTAGES](https://open.spotify.com/album/4EHZn3KXmNfXDQqE8BU4AO) | 3:03 |
 | 12 | [Butterscotch Biscuits](https://open.spotify.com/track/1qeLuU138hKq7NTD5qtpRF) | [DREGG](https://open.spotify.com/artist/3jPUAhZngU2sEwsDm7Um6B) | [Butterscotch Biscuits](https://open.spotify.com/album/5e1P3vP44iAIDK21yypNEB) | 3:15 |
-| 13 | [The Optimist](https://open.spotify.com/track/5yuL23RxJeVqFvvV1BoYmS) | [10 Years](https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph), [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [The Optimist \(feat\. Conquer Divide\)](https://open.spotify.com/album/2P8zgLveCE6sxbnUc8bRqu) | 2:58 |
+| 13 | [The Optimist \(feat\. Conquer Divide\)](https://open.spotify.com/track/5yuL23RxJeVqFvvV1BoYmS) | [10 Years](https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph), [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [The Optimist \(feat\. Conquer Divide\)](https://open.spotify.com/album/2P8zgLveCE6sxbnUc8bRqu) | 2:58 |
 | 14 | [QWERTY](https://open.spotify.com/track/4XyH7K2OWCkpABzPU18B2B) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Papercuts](https://open.spotify.com/album/1xyqxAgu1JMOQe9AdRTNSl) | 3:21 |
 | 15 | [Jelly](https://open.spotify.com/track/5vx0e8wqX8wODZrCiJQsrZ) | [Thousand Thoughts](https://open.spotify.com/artist/27BickAUDQz5wziY0VOA2S) | [Jelly](https://open.spotify.com/album/4jQchA4qZLbHFnfIq8sUyI) | 1:57 |
 | 16 | [SO RAUS \(feat\. Fred Durst\)](https://open.spotify.com/track/47QjPV3o8PqDnruovlyc1F) | [Alligatoah](https://open.spotify.com/artist/0r0R5nIjDY04TfxRM10Bcb), [Fred Durst](https://open.spotify.com/artist/6xs3t4VrfszbO3YJg2wLPa) | [SO RAUS \(feat\. Fred Durst\)](https://open.spotify.com/album/5VVZUuK140VM27nsPrT1EC) | 3:16 |

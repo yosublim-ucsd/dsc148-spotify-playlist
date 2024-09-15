@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor del pop en español\. Foto: Ana Mena, Emilia
 
-[Spotify](https://open.spotify.com/user/spotify) - 965,343 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 965,340 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,14 +46,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 36 | [Tienes Que Saber](https://open.spotify.com/track/2Y9xXXMWqETUfonJjXP25k) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Naiara](https://open.spotify.com/artist/1VGOLh7hwVeKj2kqTkDAz6) | [Tienes Que Saber](https://open.spotify.com/album/5J1PllZ3mFwWYDm7xp8vo5) | 3:00 |
 | 37 | [Lo he intentado](https://open.spotify.com/track/5keRPCEuoUfmM4sxMtPvNZ) | [Marina Reche](https://open.spotify.com/artist/2fUMrRPj5xcEYXG5FoCTfw) | [Lo he intentado](https://open.spotify.com/album/7a8m6wJ1ggpaIadtBkeaX0) | 3:07 |
 | 38 | [TODAVÍA](https://open.spotify.com/track/6T4PDkwPhKi5qFwJuOZaKJ) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [TODAVÍA](https://open.spotify.com/album/45WAkTP0H8oIyXjQXEZkYw) | 2:50 |
-| 39 | [Puede K Nos Liemos](https://open.spotify.com/track/6SwuaIsG5cXhP8HD985c1d) | [Almacor](https://open.spotify.com/artist/5H9v9M3T2XhWT3XvOKo8sy), [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo) | [Puede K Nos Liemos](https://open.spotify.com/album/04gBRmcV12Qo94MZmQR6hX) | 2:36 |
-| 40 | [Tu Loca](https://open.spotify.com/track/3rNjg96AJMRTsRZ6GKRICw) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Tu Loca](https://open.spotify.com/album/2azunHTrQxU6hJ4qPFDQoP) | 3:10 |
-| 41 | [AMALFI](https://open.spotify.com/track/5dZWpk7YHEY9EqhXJRLlsf) | [Enol](https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O) | [AMALFI](https://open.spotify.com/album/7cCGN8rn9b3M72bdqHJEIc) | 2:16 |
-| 42 | [ENSÉÑAME \(feat\. Rozalén\)](https://open.spotify.com/track/0sfPsrIe2DKbOVnOUBP0eD) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD), [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [ENSÉÑAME \(feat\. Rozalén\)](https://open.spotify.com/album/1vj2abSeieEaoKQCTAYcgQ) | 3:11 |
+| 39 | [Tu Loca](https://open.spotify.com/track/3rNjg96AJMRTsRZ6GKRICw) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Tu Loca](https://open.spotify.com/album/2azunHTrQxU6hJ4qPFDQoP) | 3:10 |
+| 40 | [Puede K Nos Liemos](https://open.spotify.com/track/6SwuaIsG5cXhP8HD985c1d) | [Almacor](https://open.spotify.com/artist/5H9v9M3T2XhWT3XvOKo8sy), [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo) | [Puede K Nos Liemos](https://open.spotify.com/album/04gBRmcV12Qo94MZmQR6hX) | 2:36 |
+| 41 | [ENSÉÑAME \(feat\. Rozalén\)](https://open.spotify.com/track/0sfPsrIe2DKbOVnOUBP0eD) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD), [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [ENSÉÑAME \(feat\. Rozalén\)](https://open.spotify.com/album/1vj2abSeieEaoKQCTAYcgQ) | 3:11 |
+| 42 | [AMALFI](https://open.spotify.com/track/5dZWpk7YHEY9EqhXJRLlsf) | [Enol](https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O) | [AMALFI](https://open.spotify.com/album/7cCGN8rn9b3M72bdqHJEIc) | 2:16 |
 | 43 | [GARITO EN MALASAÑA](https://open.spotify.com/track/44KlWlxTCSrKqGG5Clm0CS) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo), [Came Beats](https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez) | [GARITO EN MALASAÑA](https://open.spotify.com/album/75dBKoirf2XBeXZHsMHsSV) | 2:35 |
 | 44 | [Mi + 1](https://open.spotify.com/track/7vr6sOiAkiDVteYSmg5FNU) | [Noan](https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM), [Sofia Ellar](https://open.spotify.com/artist/0zuqz96cs1dQcxc2FpLPcR) | [Mi + 1](https://open.spotify.com/album/6zNItkFIgiGd0ZK35jt6fM) | 2:46 |
-| 45 | [to lo ke](https://open.spotify.com/track/6aIXhiqT4Oec2VY1tPky8G) | [Stay Homas](https://open.spotify.com/artist/7fUEi9sgiLw8gwQ307T6IU), [KICKBOMBO](https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh) | [to lo ke](https://open.spotify.com/album/5lMTXM5AoxKNTAS084MQb0) | 2:46 |
-| 46 | [ni regalao](https://open.spotify.com/track/0ySzud3GsHz4U7HVQmbHVM) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [ni regalao](https://open.spotify.com/album/4hlDcUzlW1igkBjKmt90Ln) | 2:18 |
+| 45 | [ni regalao](https://open.spotify.com/track/0ySzud3GsHz4U7HVQmbHVM) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [ni regalao](https://open.spotify.com/album/4hlDcUzlW1igkBjKmt90Ln) | 2:18 |
+| 46 | [to lo ke](https://open.spotify.com/track/6aIXhiqT4Oec2VY1tPky8G) | [Stay Homas](https://open.spotify.com/artist/7fUEi9sgiLw8gwQ307T6IU), [KICKBOMBO](https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh) | [to lo ke](https://open.spotify.com/album/5lMTXM5AoxKNTAS084MQb0) | 2:46 |
 | 47 | [Sin Filtro](https://open.spotify.com/track/4Z5PBylYcd22Wp1YAhR7gT) | [Mar Lucas](https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI), [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo), [India Martinez](https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV) | [Sin Filtro](https://open.spotify.com/album/5FFN7Ju1YOxdSBcbO7Iqs5) | 2:57 |
 | 48 | [solo un nombre](https://open.spotify.com/track/4WOLdudWcyjYUuRYGYd8uY) | [mafalda cardenal](https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz) | [solo un nombre](https://open.spotify.com/album/4G9SYkkeCeO0jXTQxDOxFz) | 2:48 |
 | 49 | [Lo que fuimos](https://open.spotify.com/track/3ET7xi7oTO3g6ixCGgYzse) | [Marlon](https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs) | [Lo que fuimos](https://open.spotify.com/album/36Sg2N2IzHooZ2dTDmYSA2) | 2:47 |

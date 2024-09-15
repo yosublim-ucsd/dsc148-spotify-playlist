@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Dricka. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 34644,
+  "num_followers": 34656,
   "original_name": "This Is Mc Dricka",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuIvAAAAAADqd/LT31Udq4gEwRKJOqgz",
+  "snapshot_id": "ZuOAgAAAAACscy41PpRviE01vsBK9lhx",
   "tracks": [
     {
       "added_at": null,
@@ -479,82 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mandrake",
-        "url": "https://open.spotify.com/album/0UAKOc3fGQRCRUjmTDMClk"
-      },
-      "artists": [
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        }
-      ],
-      "duration_ms": 157440,
-      "name": "Mandrake",
-      "url": "https://open.spotify.com/track/1wBt59AABSYomRpGojX7cb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Set 1.0 Dieguinho Nvi",
-        "url": "https://open.spotify.com/album/5wIjV4nUx1IFn88A2LBxbJ"
-      },
-      "artists": [
-        {
-          "name": "Mc DR",
-          "url": "https://open.spotify.com/artist/02RhvXTIhg46MyWF8yN6GG"
-        },
-        {
-          "name": "MC Vinny",
-          "url": "https://open.spotify.com/artist/0dNyaMJp0r9zBYG86JgRDI"
-        },
-        {
-          "name": "Mc Nathan ZK",
-          "url": "https://open.spotify.com/artist/3H6EeCzAFfNTCayLXuZWdE"
-        },
-        {
-          "name": "MC Leozinho ZS",
-          "url": "https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "MC Lemos",
-          "url": "https://open.spotify.com/artist/4c4seBofkiiONBxLBd4CUa"
-        },
-        {
-          "name": "Mc CL",
-          "url": "https://open.spotify.com/artist/2I6tDfWEkn4Ozfb6ePjRX4"
-        },
-        {
-          "name": "MC Fioti",
-          "url": "https://open.spotify.com/artist/2W6kbe0nm96COrHzNmfLLd"
-        },
-        {
-          "name": "MC Digo STC",
-          "url": "https://open.spotify.com/artist/0UrOVJi0Ceoly8p9AQPwq5"
-        },
-        {
-          "name": "MC Vit\u00e3o JC",
-          "url": "https://open.spotify.com/artist/72Qyz5xPM7Gv4Qw5rH1jAD"
-        },
-        {
-          "name": "Dieguinho N.V.I",
-          "url": "https://open.spotify.com/artist/4ZdN3DiSgBLusuW3rVTsDi"
-        }
-      ],
-      "duration_ms": 487578,
-      "name": "Set 1.0 Dieguinho Nvi",
-      "url": "https://open.spotify.com/track/5exDLfQ3ix4XqXQMaw4evo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Empurra Empurra",
         "url": "https://open.spotify.com/album/3x9iKvJRCuHIvbr2AiOUgq"
       },
@@ -631,6 +555,82 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mandrake",
+        "url": "https://open.spotify.com/album/0UAKOc3fGQRCRUjmTDMClk"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        }
+      ],
+      "duration_ms": 157440,
+      "name": "Mandrake",
+      "url": "https://open.spotify.com/track/1wBt59AABSYomRpGojX7cb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Set 1.0 Dieguinho Nvi",
+        "url": "https://open.spotify.com/album/5wIjV4nUx1IFn88A2LBxbJ"
+      },
+      "artists": [
+        {
+          "name": "Mc DR",
+          "url": "https://open.spotify.com/artist/02RhvXTIhg46MyWF8yN6GG"
+        },
+        {
+          "name": "MC Vinny",
+          "url": "https://open.spotify.com/artist/0dNyaMJp0r9zBYG86JgRDI"
+        },
+        {
+          "name": "Mc Nathan ZK",
+          "url": "https://open.spotify.com/artist/3H6EeCzAFfNTCayLXuZWdE"
+        },
+        {
+          "name": "MC Leozinho ZS",
+          "url": "https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "MC Lemos",
+          "url": "https://open.spotify.com/artist/4c4seBofkiiONBxLBd4CUa"
+        },
+        {
+          "name": "Mc CL",
+          "url": "https://open.spotify.com/artist/2I6tDfWEkn4Ozfb6ePjRX4"
+        },
+        {
+          "name": "MC Fioti",
+          "url": "https://open.spotify.com/artist/2W6kbe0nm96COrHzNmfLLd"
+        },
+        {
+          "name": "MC Digo STC",
+          "url": "https://open.spotify.com/artist/0UrOVJi0Ceoly8p9AQPwq5"
+        },
+        {
+          "name": "MC Vit\u00e3o JC",
+          "url": "https://open.spotify.com/artist/72Qyz5xPM7Gv4Qw5rH1jAD"
+        },
+        {
+          "name": "Dieguinho N.V.I",
+          "url": "https://open.spotify.com/artist/4ZdN3DiSgBLusuW3rVTsDi"
+        }
+      ],
+      "duration_ms": 487578,
+      "name": "Set 1.0 Dieguinho Nvi",
+      "url": "https://open.spotify.com/track/5exDLfQ3ix4XqXQMaw4evo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Casal Mandrake",
         "url": "https://open.spotify.com/album/2NeOoMEaPlPKfO41ws0TRI"
       },
@@ -651,6 +651,38 @@
       "duration_ms": 139826,
       "name": "Casal Mandrake",
       "url": "https://open.spotify.com/track/5x6P0oWuUOHwKNPlDMm5vM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mega Da Rainha",
+        "url": "https://open.spotify.com/album/1mCnUUpeiGRAq3aiDaoBoT"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "MC Rick",
+          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
+        },
+        {
+          "name": "DJ DEIV\u00c3O",
+          "url": "https://open.spotify.com/artist/5dLVqC89Drj8IZ82EICZZk"
+        },
+        {
+          "name": "DJ Dozabri",
+          "url": "https://open.spotify.com/artist/06e0gXtUpvgPUZFrR2ywsg"
+        },
+        {
+          "name": "DJ S2K",
+          "url": "https://open.spotify.com/artist/0TXO7KlBZ3P4XMNnVrghEX"
+        }
+      ],
+      "duration_ms": 125769,
+      "name": "Quer Sair Da Minha Vida, Pode Sair",
+      "url": "https://open.spotify.com/track/7A0ZHoT5x6DHACj8Dpnz13"
     },
     {
       "added_at": null,
@@ -687,38 +719,6 @@
       "duration_ms": 136615,
       "name": "Vida do Crime",
       "url": "https://open.spotify.com/track/4XzzsqCYlcm1wGJM8oI01h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mega Da Rainha",
-        "url": "https://open.spotify.com/album/1mCnUUpeiGRAq3aiDaoBoT"
-      },
-      "artists": [
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "MC Rick",
-          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
-        },
-        {
-          "name": "DJ DEIV\u00c3O",
-          "url": "https://open.spotify.com/artist/5dLVqC89Drj8IZ82EICZZk"
-        },
-        {
-          "name": "DJ Dozabri",
-          "url": "https://open.spotify.com/artist/06e0gXtUpvgPUZFrR2ywsg"
-        },
-        {
-          "name": "DJ S2K",
-          "url": "https://open.spotify.com/artist/0TXO7KlBZ3P4XMNnVrghEX"
-        }
-      ],
-      "duration_ms": 125769,
-      "name": "Quer Sair Da Minha Vida, Pode Sair",
-      "url": "https://open.spotify.com/track/7A0ZHoT5x6DHACj8Dpnz13"
     },
     {
       "added_at": null,
@@ -1227,30 +1227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ca\u00e7a Fantasma, Vol. 1",
-        "url": "https://open.spotify.com/album/3gjhcGuAkjlH2QhHAK64Vy"
-      },
-      "artists": [
-        {
-          "name": "DJ Ws da Igrejinha",
-          "url": "https://open.spotify.com/artist/0NB5wv4kn6A919CLHUKRmk"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "DAL\u00c3MA",
-          "url": "https://open.spotify.com/artist/0dglu68sb1lWf1ACF9uOb6"
-        }
-      ],
-      "duration_ms": 134769,
-      "name": "Mentiroso Que Vem Junto",
-      "url": "https://open.spotify.com/track/5wr5mPRFg0hb3D7PZ7q6ux"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PANCADA",
         "url": "https://open.spotify.com/album/2PIe2lGJ5so2DrWDzSQR8o"
       },
@@ -1271,6 +1247,30 @@
       "duration_ms": 135616,
       "name": "PANCADA",
       "url": "https://open.spotify.com/track/4TsPXN8xOpRRaetAtnlKRU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ca\u00e7a Fantasma, Vol. 1",
+        "url": "https://open.spotify.com/album/3gjhcGuAkjlH2QhHAK64Vy"
+      },
+      "artists": [
+        {
+          "name": "DJ Ws da Igrejinha",
+          "url": "https://open.spotify.com/artist/0NB5wv4kn6A919CLHUKRmk"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "DAL\u00c3MA",
+          "url": "https://open.spotify.com/artist/0dglu68sb1lWf1ACF9uOb6"
+        }
+      ],
+      "duration_ms": 134769,
+      "name": "Mentiroso Que Vem Junto",
+      "url": "https://open.spotify.com/track/5wr5mPRFg0hb3D7PZ7q6ux"
     },
     {
       "added_at": null,
@@ -1491,26 +1491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Caldeir\u00e3o",
-        "url": "https://open.spotify.com/album/63v9to8cvqYjhU6om4CxPK"
-      },
-      "artists": [
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "DJ Ery",
-          "url": "https://open.spotify.com/artist/3fJhU7uVbc7ofhDXfBXJnS"
-        }
-      ],
-      "duration_ms": 122317,
-      "name": "Inten\u00e7\u00e3o do Vapo Vapo",
-      "url": "https://open.spotify.com/track/6I9j9YXfkomRrD4rzcwqko"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "38 Carregado",
         "url": "https://open.spotify.com/album/7rRRBPuisxQKGRQsglK20U"
       },
@@ -1535,6 +1515,26 @@
       "duration_ms": 126249,
       "name": "38 Carregado",
       "url": "https://open.spotify.com/track/4VqtUzguJZRomDHACkvwig"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Caldeir\u00e3o",
+        "url": "https://open.spotify.com/album/63v9to8cvqYjhU6om4CxPK"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "DJ Ery",
+          "url": "https://open.spotify.com/artist/3fJhU7uVbc7ofhDXfBXJnS"
+        }
+      ],
+      "duration_ms": 122317,
+      "name": "Inten\u00e7\u00e3o do Vapo Vapo",
+      "url": "https://open.spotify.com/track/6I9j9YXfkomRrD4rzcwqko"
     },
     {
       "added_at": null,

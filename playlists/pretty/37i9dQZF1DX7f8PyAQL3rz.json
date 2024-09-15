@@ -1,6 +1,6 @@
 {
   "description": "hari e gil, dois g\u00eanios",
-  "num_followers": 1400314,
+  "num_followers": 1400484,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -539,6 +539,26 @@
     {
       "added_at": "2024-09-13 19:49:45",
       "album": {
+        "name": "333",
+        "url": "https://open.spotify.com/album/5CP84pfi4AFe95UTACFWrk"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        },
+        {
+          "name": "Brand\u00e3o85",
+          "url": "https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse"
+        }
+      ],
+      "duration_ms": 285000,
+      "name": "Isso \u00e9 S\u00e9rio",
+      "url": "https://open.spotify.com/track/3Sa2gVQioE31DcG4nKNDqD"
+    },
+    {
+      "added_at": "2024-09-13 19:49:45",
+      "album": {
         "name": "Dos Pr\u00e9dios Deluxe",
         "url": "https://open.spotify.com/album/0D59BFMmnA87oPyk1oSe1b"
       },
@@ -591,22 +611,30 @@
     {
       "added_at": "2024-09-13 19:49:45",
       "album": {
-        "name": "333",
-        "url": "https://open.spotify.com/album/5CP84pfi4AFe95UTACFWrk"
+        "name": "Sem M\u00fasica",
+        "url": "https://open.spotify.com/album/0l6zDsnSn1lM6FWZknjsAI"
       },
       "artists": [
         {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+          "name": "Mc Daniel",
+          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
         },
         {
-          "name": "Brand\u00e3o85",
-          "url": "https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse"
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Blakbone",
+          "url": "https://open.spotify.com/artist/5pmOKG8qbFf3zvOXiRiN1L"
+        },
+        {
+          "name": "DJ Cash",
+          "url": "https://open.spotify.com/artist/2k6tWKmfbOKF1I8Vyft2XZ"
         }
       ],
-      "duration_ms": 285000,
-      "name": "Isso \u00e9 S\u00e9rio",
-      "url": "https://open.spotify.com/track/3Sa2gVQioE31DcG4nKNDqD"
+      "duration_ms": 130216,
+      "name": "N\u00e3o Para",
+      "url": "https://open.spotify.com/track/02hupCKclLtfyoQrp2xtfz"
     },
     {
       "added_at": "2024-09-13 19:49:45",
@@ -639,34 +667,6 @@
       "duration_ms": 232258,
       "name": "Tenho Que Me Decidir",
       "url": "https://open.spotify.com/track/697gwO5YoSGVAnlfREIZll"
-    },
-    {
-      "added_at": "2024-09-13 19:49:45",
-      "album": {
-        "name": "Sem M\u00fasica",
-        "url": "https://open.spotify.com/album/0l6zDsnSn1lM6FWZknjsAI"
-      },
-      "artists": [
-        {
-          "name": "Mc Daniel",
-          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Blakbone",
-          "url": "https://open.spotify.com/artist/5pmOKG8qbFf3zvOXiRiN1L"
-        },
-        {
-          "name": "DJ Cash",
-          "url": "https://open.spotify.com/artist/2k6tWKmfbOKF1I8Vyft2XZ"
-        }
-      ],
-      "duration_ms": 130216,
-      "name": "N\u00e3o Para",
-      "url": "https://open.spotify.com/track/02hupCKclLtfyoQrp2xtfz"
     },
     {
       "added_at": "2024-09-13 19:49:45",
@@ -755,26 +755,6 @@
     {
       "added_at": "2024-09-13 19:49:45",
       "album": {
-        "name": "Filho da Noite",
-        "url": "https://open.spotify.com/album/63K61G3WTZrRUHZzAUPqHn"
-      },
-      "artists": [
-        {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        }
-      ],
-      "duration_ms": 236666,
-      "name": "Filho da Noite",
-      "url": "https://open.spotify.com/track/40IXmplKTcyWPr9HNCik7e"
-    },
-    {
-      "added_at": "2024-09-13 19:49:45",
-      "album": {
         "name": "Ritmista 1.0",
         "url": "https://open.spotify.com/album/3WGjmOFzUrvNmkiiqevMbJ"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 615810,
       "name": "Ritmista 1.0",
       "url": "https://open.spotify.com/track/3ZNjlT5zR0jkEVzSSZCQeJ"
+    },
+    {
+      "added_at": "2024-09-13 19:49:45",
+      "album": {
+        "name": "Filho da Noite",
+        "url": "https://open.spotify.com/album/63K61G3WTZrRUHZzAUPqHn"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        }
+      ],
+      "duration_ms": 236666,
+      "name": "Filho da Noite",
+      "url": "https://open.spotify.com/track/40IXmplKTcyWPr9HNCik7e"
     },
     {
       "added_at": "2024-09-13 19:49:45",
@@ -1327,6 +1327,86 @@
     {
       "added_at": "2024-09-13 19:49:45",
       "album": {
+        "name": "Banco do Carona",
+        "url": "https://open.spotify.com/album/2asMgD4QCIQOJ8OiaB9Brw"
+      },
+      "artists": [
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "Mc Kako",
+          "url": "https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm"
+        },
+        {
+          "name": "DJ BOY",
+          "url": "https://open.spotify.com/artist/5ncITNKBT3RMa1U2NsuE7V"
+        },
+        {
+          "name": "Gabb MC",
+          "url": "https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2"
+        },
+        {
+          "name": "MC Jo\u00e3ozinho VT",
+          "url": "https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT"
+        },
+        {
+          "name": "MC Marks",
+          "url": "https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h"
+        },
+        {
+          "name": "MC Vine7",
+          "url": "https://open.spotify.com/artist/3UfwtvPZZea2HHwI23VtKP"
+        },
+        {
+          "name": "Mc Robs",
+          "url": "https://open.spotify.com/artist/5jysNZ8I6vAiNTsFbrIj1K"
+        }
+      ],
+      "duration_ms": 450410,
+      "name": "Banco do Carona",
+      "url": "https://open.spotify.com/track/7bz3kEKKtEONtzxB6jrnb5"
+    },
+    {
+      "added_at": "2024-09-13 19:49:45",
+      "album": {
+        "name": "Malvada",
+        "url": "https://open.spotify.com/album/0kmLncRA0tEjCwDJQb1Dcc"
+      },
+      "artists": [
+        {
+          "name": "TrapLaudo",
+          "url": "https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "Dj Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/1Zl5Ac1YyOHBkJKInGxbaS"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        }
+      ],
+      "duration_ms": 300487,
+      "name": "Malvada",
+      "url": "https://open.spotify.com/track/0Ce7kkIjy9gkXAaMAZAI9w"
+    },
+    {
+      "added_at": "2024-09-13 19:49:45",
+      "album": {
         "name": "M\u00f3 Temp\u00e3o Que Tu N\u00e3o Fala Comigo",
         "url": "https://open.spotify.com/album/6KgnlBPf54hiTXIBNtfYcJ"
       },
@@ -1371,86 +1451,6 @@
       "duration_ms": 532941,
       "name": "M\u00f3 Temp\u00e3o Que Tu N\u00e3o Fala Comigo",
       "url": "https://open.spotify.com/track/398GQsAm55L04n4LcBgzFP"
-    },
-    {
-      "added_at": "2024-09-13 19:49:45",
-      "album": {
-        "name": "Malvada",
-        "url": "https://open.spotify.com/album/0kmLncRA0tEjCwDJQb1Dcc"
-      },
-      "artists": [
-        {
-          "name": "TrapLaudo",
-          "url": "https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF"
-        },
-        {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
-        },
-        {
-          "name": "MC PH",
-          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
-        },
-        {
-          "name": "Dj Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/1Zl5Ac1YyOHBkJKInGxbaS"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
-        }
-      ],
-      "duration_ms": 300487,
-      "name": "Malvada",
-      "url": "https://open.spotify.com/track/0Ce7kkIjy9gkXAaMAZAI9w"
-    },
-    {
-      "added_at": "2024-09-13 19:49:45",
-      "album": {
-        "name": "Banco do Carona",
-        "url": "https://open.spotify.com/album/2asMgD4QCIQOJ8OiaB9Brw"
-      },
-      "artists": [
-        {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
-        },
-        {
-          "name": "Mc Kako",
-          "url": "https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm"
-        },
-        {
-          "name": "DJ BOY",
-          "url": "https://open.spotify.com/artist/5ncITNKBT3RMa1U2NsuE7V"
-        },
-        {
-          "name": "Gabb MC",
-          "url": "https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2"
-        },
-        {
-          "name": "MC Jo\u00e3ozinho VT",
-          "url": "https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT"
-        },
-        {
-          "name": "MC Marks",
-          "url": "https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h"
-        },
-        {
-          "name": "MC Vine7",
-          "url": "https://open.spotify.com/artist/3UfwtvPZZea2HHwI23VtKP"
-        },
-        {
-          "name": "Mc Robs",
-          "url": "https://open.spotify.com/artist/5jysNZ8I6vAiNTsFbrIj1K"
-        }
-      ],
-      "duration_ms": 450410,
-      "name": "Banco do Carona",
-      "url": "https://open.spotify.com/track/7bz3kEKKtEONtzxB6jrnb5"
     },
     {
       "added_at": "2024-09-13 19:49:45",
@@ -1623,26 +1623,6 @@
     {
       "added_at": "2024-09-13 19:49:45",
       "album": {
-        "name": "FOFOCA",
-        "url": "https://open.spotify.com/album/4SIFl6lye181i3ojcyb9yi"
-      },
-      "artists": [
-        {
-          "name": "MC Cebezinho",
-          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
-        },
-        {
-          "name": "DJ Oreia",
-          "url": "https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI"
-        }
-      ],
-      "duration_ms": 176410,
-      "name": "FOFOCA",
-      "url": "https://open.spotify.com/track/3ikta3kos99WEPFkwJRrVp"
-    },
-    {
-      "added_at": "2024-09-13 19:49:45",
-      "album": {
         "name": "Funk Supera\u00e7\u00e3o - Ao Vivo",
         "url": "https://open.spotify.com/album/2KvTPBd1l052Tnk3RxU6tt"
       },
@@ -1659,6 +1639,26 @@
       "duration_ms": 208241,
       "name": "Novos Ricos - Ao Vivo",
       "url": "https://open.spotify.com/track/68eRXsHoxQMBxtTR60hKPv"
+    },
+    {
+      "added_at": "2024-09-13 19:49:45",
+      "album": {
+        "name": "FOFOCA",
+        "url": "https://open.spotify.com/album/4SIFl6lye181i3ojcyb9yi"
+      },
+      "artists": [
+        {
+          "name": "MC Cebezinho",
+          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
+        },
+        {
+          "name": "DJ Oreia",
+          "url": "https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI"
+        }
+      ],
+      "duration_ms": 176410,
+      "name": "FOFOCA",
+      "url": "https://open.spotify.com/track/3ikta3kos99WEPFkwJRrVp"
     },
     {
       "added_at": "2024-09-13 19:49:45",
@@ -1847,102 +1847,6 @@
     {
       "added_at": "2024-09-13 19:49:45",
       "album": {
-        "name": "Quebradeira - inHouse",
-        "url": "https://open.spotify.com/album/3R0R92Ipy224tXmRse5Dq6"
-      },
-      "artists": [
-        {
-          "name": "Dreebeatmaker",
-          "url": "https://open.spotify.com/artist/1dErfzWzRA1g7wtNmfsV21"
-        },
-        {
-          "name": "Puterrier",
-          "url": "https://open.spotify.com/artist/0zbO4WWM2wJM3ulFmCbMwB"
-        },
-        {
-          "name": "Mc Moises da Torre",
-          "url": "https://open.spotify.com/artist/0Bk2K2tWJqsbhaYXzVag8b"
-        }
-      ],
-      "duration_ms": 210975,
-      "name": "Quebradeira - inHouse",
-      "url": "https://open.spotify.com/track/7hEZsGThggN4FpWS8xcISm"
-    },
-    {
-      "added_at": "2024-09-13 19:49:45",
-      "album": {
-        "name": "C\u00ea que p\u00f4s o fim",
-        "url": "https://open.spotify.com/album/29xDbaRsQUMG1bgNCTNbWh"
-      },
-      "artists": [
-        {
-          "name": "West Reis",
-          "url": "https://open.spotify.com/artist/5MZ71Xv0o1bOzgC0OYKkRp"
-        },
-        {
-          "name": "Luiz Lins",
-          "url": "https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0"
-        },
-        {
-          "name": "Mazili",
-          "url": "https://open.spotify.com/artist/44xLFZNn7TzOWooulLGAl4"
-        }
-      ],
-      "duration_ms": 181124,
-      "name": "C\u00ea que p\u00f4s o fim",
-      "url": "https://open.spotify.com/track/2dEh3OjLF6cKuZRCOwYncC"
-    },
-    {
-      "added_at": "2024-09-13 19:49:45",
-      "album": {
-        "name": "Voc\u00ea Parece Com Vergonha",
-        "url": "https://open.spotify.com/album/3dNBEUQg3uKKvpoCNEwicy"
-      },
-      "artists": [
-        {
-          "name": "Ajuliacosta",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Voc\u00ea Parece Com Vergonha",
-      "url": "https://open.spotify.com/track/5r4pDmk3fENDZCc06xrHsJ"
-    },
-    {
-      "added_at": "2024-09-13 19:49:45",
-      "album": {
-        "name": "Dacoromode",
-        "url": "https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Dj Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/1Zl5Ac1YyOHBkJKInGxbaS"
-        },
-        {
-          "name": "C\u00fapula",
-          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
-        }
-      ],
-      "duration_ms": 200039,
-      "name": "Ela joga no 7",
-      "url": "https://open.spotify.com/track/5vyu6cCIflFAmGZwnjyrq7"
-    },
-    {
-      "added_at": "2024-09-13 19:49:45",
-      "album": {
         "name": "DDD 011 - F1 BB",
         "url": "https://open.spotify.com/album/4I5fKviKZKdsqVLcpQ0oM0"
       },
@@ -1975,6 +1879,102 @@
       "duration_ms": 199354,
       "name": "DDD 011 - F1 BB",
       "url": "https://open.spotify.com/track/6mjoUuVBh6D6kxp3hRL4Td"
+    },
+    {
+      "added_at": "2024-09-13 19:49:45",
+      "album": {
+        "name": "Quebradeira - inHouse",
+        "url": "https://open.spotify.com/album/3R0R92Ipy224tXmRse5Dq6"
+      },
+      "artists": [
+        {
+          "name": "Dreebeatmaker",
+          "url": "https://open.spotify.com/artist/1dErfzWzRA1g7wtNmfsV21"
+        },
+        {
+          "name": "Puterrier",
+          "url": "https://open.spotify.com/artist/0zbO4WWM2wJM3ulFmCbMwB"
+        },
+        {
+          "name": "Mc Moises da Torre",
+          "url": "https://open.spotify.com/artist/0Bk2K2tWJqsbhaYXzVag8b"
+        }
+      ],
+      "duration_ms": 210975,
+      "name": "Quebradeira - inHouse",
+      "url": "https://open.spotify.com/track/7hEZsGThggN4FpWS8xcISm"
+    },
+    {
+      "added_at": "2024-09-13 19:49:45",
+      "album": {
+        "name": "Voc\u00ea Parece Com Vergonha",
+        "url": "https://open.spotify.com/album/3dNBEUQg3uKKvpoCNEwicy"
+      },
+      "artists": [
+        {
+          "name": "Ajuliacosta",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Voc\u00ea Parece Com Vergonha",
+      "url": "https://open.spotify.com/track/5r4pDmk3fENDZCc06xrHsJ"
+    },
+    {
+      "added_at": "2024-09-13 19:49:45",
+      "album": {
+        "name": "C\u00ea que p\u00f4s o fim",
+        "url": "https://open.spotify.com/album/29xDbaRsQUMG1bgNCTNbWh"
+      },
+      "artists": [
+        {
+          "name": "West Reis",
+          "url": "https://open.spotify.com/artist/5MZ71Xv0o1bOzgC0OYKkRp"
+        },
+        {
+          "name": "Luiz Lins",
+          "url": "https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0"
+        },
+        {
+          "name": "Mazili",
+          "url": "https://open.spotify.com/artist/44xLFZNn7TzOWooulLGAl4"
+        }
+      ],
+      "duration_ms": 181124,
+      "name": "C\u00ea que p\u00f4s o fim",
+      "url": "https://open.spotify.com/track/2dEh3OjLF6cKuZRCOwYncC"
+    },
+    {
+      "added_at": "2024-09-13 19:49:45",
+      "album": {
+        "name": "Dacoromode",
+        "url": "https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Dj Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/1Zl5Ac1YyOHBkJKInGxbaS"
+        },
+        {
+          "name": "C\u00fapula",
+          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
+        }
+      ],
+      "duration_ms": 200039,
+      "name": "Ela joga no 7",
+      "url": "https://open.spotify.com/track/5vyu6cCIflFAmGZwnjyrq7"
     }
   ],
   "unique_name": "creme",

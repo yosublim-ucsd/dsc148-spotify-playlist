@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9OZisIoJQhG.md) - [plain]
 
 > Uplifting classical melodies to help you rise and shine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 427,668 likes - 62 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 427,737 likes - 62 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9OZisIoJQhG.md) - [plain]
 | 28 | [Berceuse, Op\. 16](https://open.spotify.com/track/7sSSQHaGVwm0rNSlI2M7so) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Cocomi](https://open.spotify.com/artist/76LVGyW3On02K0by9U8YwV), [Niu Niu](https://open.spotify.com/artist/59coobPsuoo30nDvDa0SOi) | [Fauré: Berceuse, Op\. 16](https://open.spotify.com/album/3q7lJbflaSLEkDu3h5cazc) | 3:57 |
 | 29 | [Estrellita \(Arr\. Abril & Barrueco for Guitar\)](https://open.spotify.com/track/01yRkgF7l1pdFSCehiI7o9) | [Manuel Ponce](https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK), [Alexandra Whittingham](https://open.spotify.com/artist/54UqAWfr4SIdCc5xBapeMM) | [Ponce: Estrellita \(Arr\. Abril & Barrueco for Guitar\)](https://open.spotify.com/album/0ztyoeKvYBlkX64d5W8lKx) | 2:56 |
 | 30 | [Noktúrna \- Upright Piano](https://open.spotify.com/track/0uSyj4g5Qh5zCcbyMJufbY) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Noktúrna Variations](https://open.spotify.com/album/26z4j76XfqW15DPpGXEx3D) | 2:02 |
-| 31 | [Children's Song No\. 1 \(Arr\. for guitar by Forbes Henderson\)](https://open.spotify.com/track/6rpfMfLTgzfw7VzebK5Q9u) | [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq), [Sean Shibe](https://open.spotify.com/artist/4EFuBkf11kth7fbFXIpre5) | [Corea: Children's Song No\. 1](https://open.spotify.com/album/4v9sxGj2nTgRz1FQi2GoXE) | 1:51 |
+| 31 | [Children's Song No\. 1 \(Arr\. for guitar by Forbes Henderson\) \- Classical Session](https://open.spotify.com/track/6rpfMfLTgzfw7VzebK5Q9u) | [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq), [Sean Shibe](https://open.spotify.com/artist/4EFuBkf11kth7fbFXIpre5) | [Corea: Children's Song No\. 1](https://open.spotify.com/album/4v9sxGj2nTgRz1FQi2GoXE) | 1:51 |
 | 32 | [12 Songs, Op\. 21: V\. Lilacs \(Transcr\. Rachmaninoff for Solo Piano\)](https://open.spotify.com/track/4ObQ0m7VUtrgdEwpFeCKua) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Sergei Babayan](https://open.spotify.com/artist/79gBfLMlUJNdcXv1nc33oK) | [Rachmaninoff: Préludes; Études\-Tableaux; Moments musicaux](https://open.spotify.com/album/5952RUol8Nl7Ihk1zcaUb4) | 3:01 |
 | 33 | [Scarborough Fair \(Arr\. Parkin for Cello and Guitar\)](https://open.spotify.com/track/4wlNPczIullwvmwb4x0ltz) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Sheku Kanneh\-Mason](https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX), [Plínio Fernandes](https://open.spotify.com/artist/0FK16dJDaoLTqNO9YhawG8) | [Elgar](https://open.spotify.com/album/3PwJLGFcKrecmaRbJQYMSg) | 3:14 |
 | 34 | [Puccini: Gianni Schicchi, Act 1: "O mio babbino caro" \(Lauretta\)](https://open.spotify.com/track/6CNrNiNm7ryiG2PSw7YUEk) | [Giacomo Puccini](https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR), [Renaud Capuçon](https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L) | [Un violon à Paris \- Wagner: Albumblatt, WWV 94](https://open.spotify.com/album/6hyT0c6Qpyh40AUeJF4EYc) | 2:01 |

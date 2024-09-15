@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0JfKlntuxjdB6N1mp9PYoF">Cory Henry</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-95 songs - 6 hr 32 min
+96 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Black Man](https://open.spotify.com/track/5YeEoDVrHAMxkr415ZIGMx) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Something to Say](https://open.spotify.com/album/3Hz4JSR7mxab24T8K8jQOx) | 3:23 | 2024-05-01 |  |
 | [Blossoming](https://open.spotify.com/track/5qLfXhIURYTGvXi0R3X65J) | [Sadhguru](https://open.spotify.com/artist/0zbbPqp65ZqlfmcshStDNQ) | [Eternal Echoes](https://open.spotify.com/album/6EM63wmKINZdwud5zUiOmb) | 1:12 | 2024-08-25 |  |
 | [Burdens Down](https://open.spotify.com/track/0vEnFmphA8EoNwZDKlog5T) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 4:04 | 2024-05-01 |  |
+| [Choose Me](https://open.spotify.com/track/30N2Yr918Kn5EGyNIh7Mjb) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [Good Life](https://open.spotify.com/album/2aFulxeOIYdakdVXjgaHDz) | 4:42 | 2024-09-14 |  |
 | [Christmas Boogie](https://open.spotify.com/track/3qfGYjWVbvgfxrGRtZSbuL) | [Trilogy](https://open.spotify.com/artist/3c24oOZo7a3mchm4okumqw), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Christmas Uncovered](https://open.spotify.com/album/70AfPOE4qUXzqrzwG3o5ut) | 2:58 | 2024-05-01 |  |
 | [Christmas With You](https://open.spotify.com/track/2xUSSPsbyqVoTpLqsahVPF) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Christmas With You](https://open.spotify.com/album/55wRPgoziUFScNgNghfhDR) | 4:08 | 2024-05-01 |  |
 | [Clouds](https://open.spotify.com/track/60TSgKaHNHHa3aeniLVP84) | [Jairus Mozee](https://open.spotify.com/artist/77leQnJv5gxe4Nm3LvDYiG) | [San Pedro](https://open.spotify.com/album/1D4pVBPfFAvG3j1TElDHAy) | 6:31 | 2024-05-01 |  |

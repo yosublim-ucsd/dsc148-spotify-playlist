@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTskLhblDDwY.md) - [plain]
 
 > スローバックTHURSDAY一覧は<a href="spotify:genre:0JQ5DAqbMKFCEGYtBLwgyM">こちら</a>から。Cover: 松原みき◾️松田聖子、デビュー◾️山口百恵、引退　◾️ジョン・レノン死去 ◾️日本の自動車生産数がアメリカを抜いて1位に。◾️「ぶりっこ」「竹の子族」「テクノ」
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,700 likes - 100 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,705 likes - 100 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTskLhblDDwY.md) - [plain]
 | 39 | [Yes\-No \- アルバムヴァージョン](https://open.spotify.com/track/6C7H84b6soUzdgXj52peoe) | [Off Course](https://open.spotify.com/artist/5YQX51PLEtKQAKnMFt5jnG) | [We are](https://open.spotify.com/album/4xfeMb2mB0God3yG9KcjmS) | 4:35 |
 | 40 | [TOKIO \(Single Version\)](https://open.spotify.com/track/4Msk2brhNGrDw15PBFvn3i) | [Kenji Sawada](https://open.spotify.com/artist/4ODvJoXQmuckB89qwmCzTd) | [ROYAL STRAIGHT FLUSH \[3\]](https://open.spotify.com/album/06H6E4rZjHPWf6WUBxctE4) | 4:37 |
 | 41 | [蜃気楼](https://open.spotify.com/track/626cXtQS8iea2MwStw4VO6) | [CRYSTALKING](https://open.spotify.com/artist/4ZkxyrVGZwQYwjEHO99njF) | [蜃気楼](https://open.spotify.com/album/6GHkAvN70urENII8hSXlCG) | 3:58 |
-| 42 | [狂った果実](https://open.spotify.com/track/2DVRnvC6vFegpWdps3kz3P) | [Alice](https://open.spotify.com/artist/4E4iezRaf9PoT4yV2NYz0c) | [アリス・ザ・グレイテスト －アリス・ベスト2001－](https://open.spotify.com/album/1rdj1vPOIz87o4uTEITU6O) | 4:14 |
+| 42 | [狂った果実](https://open.spotify.com/track/2DVRnvC6vFegpWdps3kz3P) | [ALICE](https://open.spotify.com/artist/4E4iezRaf9PoT4yV2NYz0c) | [アリス・ザ・グレイテスト －アリス・ベスト2001－](https://open.spotify.com/album/1rdj1vPOIz87o4uTEITU6O) | 4:14 |
 | 43 | [ガラスのジェネレーション \(LPヴァージョン\)](https://open.spotify.com/track/7pZKEU5bOOaj1bkKYHfvdU) | [Motoharu Sano](https://open.spotify.com/artist/286Db6EQmfgB3SJYulhGqb) | [Heart Beat](https://open.spotify.com/album/6kQ6P2P8W5a5kUrbuH0lSd) | 3:34 |
 | 44 | [裸足の季節](https://open.spotify.com/track/2dhe1chdOESn1Xlm2NLuPd) | [Seiko Matsuda](https://open.spotify.com/artist/3E5NLQpQbd0eJ18XO9zC0h) | [裸足の季節](https://open.spotify.com/album/7ClSZZBgBIWpVkWjgrXiCZ) | 3:44 |
 | 45 | [Too Hot](https://open.spotify.com/track/0jNTJSaktLVy8iAi7KY2zB) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Ladies' Night](https://open.spotify.com/album/0zK7P6PLhBU02U9Tc98VSK) | 4:55 |
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTskLhblDDwY.md) - [plain]
 | 49 | [THIS IS A SONG FOR COCA\-COLA \- Remastered 2022](https://open.spotify.com/track/3cQjdIZtFiVstWpjyvHtac) | [Eikichi Yazawa](https://open.spotify.com/artist/6r4KqrquvtAy0fcJUU2VGB) | [アルバム未収録集 \(50th Anniversary Remastered\)](https://open.spotify.com/album/3zm7A7DGyIJnwz7f4uTlhi) | 3:13 |
 | 50 | [Wake Up](https://open.spotify.com/track/4LC137iMd8FMzJK6JrGq1C) | [Kazuo Zaitsu](https://open.spotify.com/artist/6BcIYPy8YuukxAZjFpBKcB) | [Wake Up](https://open.spotify.com/album/2XoEgCITot65a0R0TTyvsb) | 4:28 |
 | 51 | [人生の空から](https://open.spotify.com/track/7kcoZs3waH0CiDsMhX9z3E) | [Chiharu Matsuyama](https://open.spotify.com/artist/6IyRW1yZPSZtdH7uYOeqOq) | [起承転結 II](https://open.spotify.com/album/4aRa2FXcVmnDxNvTvfbhuS) | 3:20 |
-| 52 | [秋止符](https://open.spotify.com/track/4jBqI5lXNjX2QZpVpMZvoa) | [Alice](https://open.spotify.com/artist/4E4iezRaf9PoT4yV2NYz0c) | [ゴールデン☆ベスト アリス](https://open.spotify.com/album/1yAgDEBnBMBRIjKn42h2E4) | 4:12 |
+| 52 | [秋止符](https://open.spotify.com/track/4jBqI5lXNjX2QZpVpMZvoa) | [ALICE](https://open.spotify.com/artist/4E4iezRaf9PoT4yV2NYz0c) | [ゴールデン☆ベスト アリス](https://open.spotify.com/album/1yAgDEBnBMBRIjKn42h2E4) | 4:12 |
 | 53 | [ビューティフル・エネルギー](https://open.spotify.com/track/7k6HDU0nqW4IXGIT4ZROQi) | [Kai Band](https://open.spotify.com/artist/4monxaihAuYJfK2CxJdtoY) | [シングルス](https://open.spotify.com/album/646Qsuz32Rr204X9axfysP) | 4:30 |
 | 54 | [防人の詩](https://open.spotify.com/track/5RnsE3BkZYInY4ifAa9Eyh) | [Masashi Sada](https://open.spotify.com/artist/0hoYZWflKchdSXPXfCRVRO) | [昨日達…](https://open.spotify.com/album/5Z4v7gLbLG1uEg0nyleFiB) | 7:05 |
 | 55 | [Could You Be Loved](https://open.spotify.com/track/5O4erNlJ74PIF6kGol1ZrC) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Uprising](https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX) | 3:57 |

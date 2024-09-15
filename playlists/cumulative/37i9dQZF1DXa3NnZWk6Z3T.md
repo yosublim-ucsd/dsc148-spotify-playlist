@@ -4,7 +4,7 @@
 
 > Keep calm and enjoy this musical cafecito.
 
-379 songs - 21 hr 58 min
+380 songs - 22 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,6 +288,7 @@
 | [Por Venir](https://open.spotify.com/track/03Sue7vLnMzdKdANWJRFhf) | [Juku Ares](https://open.spotify.com/artist/02WiMWJUw1eRS0d2tEJauw), [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [Por Venir](https://open.spotify.com/album/6rMTca5nUI1OHbuawKqZ1v) | 2:57 | 2024-05-13 |  |
 | [Por Verte Llegar](https://open.spotify.com/track/6p6kREqbuJLlZiv86td57b) | [Mónica Giraldo](https://open.spotify.com/artist/1VQAstnifwchhAfmoecBkx) | [Todo Da Vueltas](https://open.spotify.com/album/3japeSKHpX7ialXmToKWhX) | 3:32 | 2021-12-09 | 2022-07-29 |
 | [Preso \(Grabado en ONErpm Studios\)](https://open.spotify.com/track/6CGN4Qx3KC3sFROIqXpKdS) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9), [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Preso \(Grabado en ONErpm Studios\)](https://open.spotify.com/album/7zeQVlK0bClZRzg7pc0bRt) | 2:55 | 2021-12-09 |  |
+| [Primera Cita](https://open.spotify.com/track/6KUzB9mbZ9zHFAI6klMtmZ) | [Debi Nova](https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r), [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW) | [Primera Cita](https://open.spotify.com/album/3I4UkECZBBvXTkM5T1Inoq) | 2:16 | 2024-09-13 |  |
 | [Péndulo \(feat\. Juan Pablo Vega\)](https://open.spotify.com/track/3DnW0doatLuxj7IGgobjGE) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Herminia](https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5) | 3:05 | 2021-12-09 |  |
 | [Que Lindos \- Acústico](https://open.spotify.com/track/5v27oyFLBcK5Sv4hXkyEME) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Canciones para escuchar en el río](https://open.spotify.com/album/1OSheaXw7vf5kvIF94qrTk) | 2:45 | 2023-03-15 |  |
 | [Que Pase El Mundo](https://open.spotify.com/track/3bHk6W0zqo8CxnPVMuMCyb) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [Cuando Todo Se Detiene](https://open.spotify.com/album/2a15XHOtyoDeGkjtvnyohq) | 3:33 | 2022-05-14 | 2024-04-19 |
@@ -313,7 +314,7 @@
 | [Sigo Caminando](https://open.spotify.com/track/1Po5Jxjh5gHCFiKIt6AQZR) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Alas Canciones](https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8) | 5:02 | 2021-12-09 | 2022-10-28 |
 | [Sin respirar](https://open.spotify.com/track/62HdGq5m6wEOY7Pvlc75GE) | [SNENiE](https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb) | [Sin respirar](https://open.spotify.com/album/0qTZiyp0vUHvUFt0xSIOMl) | 3:09 | 2024-05-13 |  |
 | [Sin Ti](https://open.spotify.com/track/1AsDi1YPkSy9ZuVBN4XHje) | [Santiago Saez](https://open.spotify.com/artist/6cH6fFLynkDD94hGNqacHV) | [Sin Ti](https://open.spotify.com/album/0CCFzerylMGnuPxFaolglv) | 3:10 | 2021-12-09 | 2024-05-14 |
-| [Sin Vergüenza](https://open.spotify.com/track/4bhJA7OPeieBHWfHMgNV0Q) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ), [Los Rivera Destino](https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid) | [Sin Vergüenza](https://open.spotify.com/album/1es98oWk5HeScQbQo4nX3Z) | 4:01 | 2021-12-09 |  |
+| [Sin Vergüenza](https://open.spotify.com/track/4bhJA7OPeieBHWfHMgNV0Q) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ), [Los Rivera Destino](https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid) | [Sin Vergüenza](https://open.spotify.com/album/1es98oWk5HeScQbQo4nX3Z) | 4:01 | 2021-12-09 | 2024-09-15 |
 | [Sin Vergüenza](https://open.spotify.com/track/52LqScn3sNgUk9nfMLN6yS) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ), [Los Rivera Destino](https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid) | [Sin Vergüenza](https://open.spotify.com/album/2Ct6wEvggnGK0Res4HIlCD) | 4:01 | 2023-11-10 | 2024-04-19 |
 | [Sofá de Cuero](https://open.spotify.com/track/6dNYrFxETEqQjnmF1HtBTj) | [Jah Chango](https://open.spotify.com/artist/0JL51D0tX8800NfzXLaNqM), [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Sofá de Cuero](https://open.spotify.com/album/6InJpyc0Y7eyBv3Rhm49n7) | 3:04 | 2022-04-07 | 2022-04-21 |
 | [Sola](https://open.spotify.com/track/3fqCowFYUnGI63qmxrrmmS) | [Nana Bersa](https://open.spotify.com/artist/7IzUZBSNYIuW7R5neM3AVq) | [Cariño](https://open.spotify.com/album/5BRqHpMjkqHfdlFa2O397S) | 3:25 | 2024-03-14 |  |

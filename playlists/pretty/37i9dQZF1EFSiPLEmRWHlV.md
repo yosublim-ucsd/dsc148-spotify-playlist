@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7m9p3l6oKvnMHJyEDsQvyA">Clementine Douglas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212 likes - 124 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 214 likes - 124 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 | 57 | [Stay With Me](https://open.spotify.com/track/6NPuaE61QbNqRb6vZxe8lZ) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Of The Trees](https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c) | [Comfort In Chaos](https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2) | 4:22 |
 | 58 | [Bang Bang \(feat\. Donna Missal\)](https://open.spotify.com/track/2nuQAULY22Sm8s4LsALj84) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [HISTORY](https://open.spotify.com/album/6IwONZNPHt81ip42NboklH) | 3:08 |
 | 59 | [Over & Over](https://open.spotify.com/track/5yxZgGzAoRUntxuqBeiX7a) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [Over & Over](https://open.spotify.com/album/1SAh2fP7h6BYUlNtZvlTj0) | 3:34 |
-| 60 | [Need Somebody](https://open.spotify.com/track/2lAKCOAltfHzrnWDCMfQ7r) | [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [Simon Jnr](https://open.spotify.com/artist/3O5LZDpnTjoMcOT2TVDI7K) | [Vibe Creator](https://open.spotify.com/album/2PRNnM6d2g86lr48Wp4rxU) | 2:52 |
-| 61 | [Give It To Me Good](https://open.spotify.com/track/11FsUxXUbxzr5mNqwioFFK) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [Give It To Me Good](https://open.spotify.com/album/1TP8dirEaMbBuw0JgL40GT) | 2:49 |
+| 60 | [Give It To Me Good](https://open.spotify.com/track/11FsUxXUbxzr5mNqwioFFK) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [Give It To Me Good](https://open.spotify.com/album/1TP8dirEaMbBuw0JgL40GT) | 2:49 |
+| 61 | [Need Somebody](https://open.spotify.com/track/2lAKCOAltfHzrnWDCMfQ7r) | [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [Simon Jnr](https://open.spotify.com/artist/3O5LZDpnTjoMcOT2TVDI7K) | [Vibe Creator](https://open.spotify.com/album/2PRNnM6d2g86lr48Wp4rxU) | 2:52 |
 | 62 | [Out My Mind](https://open.spotify.com/track/67x9A5uxv2QH7xnjUbIoCM) | [GW Harrison](https://open.spotify.com/artist/4SLEjYifqonlEHnZHLXnI4) | [Out My Mind](https://open.spotify.com/album/0WE5uN6u7HSF1tAS29gmP3) | 3:03 |
 | 63 | [Shock](https://open.spotify.com/track/6cS8DvSGYojElW2XB3NNVM) | [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i) | [Shock](https://open.spotify.com/album/4IPN0EOPic8pdQRRaNYW3A) | 2:22 |
 | 64 | [Lift You Up](https://open.spotify.com/track/766OCy2QMl814sxiR1gl6v) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Lift You Up](https://open.spotify.com/album/1UtcVAhnTCM1eqnCVZLEaI) | 2:13 |
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 | 81 | [Under Your Spell \(feat\. Clementine Douglas\)](https://open.spotify.com/track/58TtCuz5DDLeFZq0otJrMV) | [Trutopia](https://open.spotify.com/artist/5DiMSJgUwT3jluRsGj4h4o), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Under Your Spell \(feat\. Clementine Douglas\)](https://open.spotify.com/album/2wWHLHlI3xNVz9M5gOVi4U) | 3:39 |
 | 82 | [When I'm Alone](https://open.spotify.com/track/5Dk6mLcQ5EKYEkWSmLgQb5) | [Dennis Sheperd](https://open.spotify.com/artist/1wzytoanlxHqWXGCpUxnbY), [Joston](https://open.spotify.com/artist/7BZRNGgJbXaXPxtCQp3eSV), [Clementine Douglas](https://open.spotify.com/artist/5JK1Ax0uAufztPzZB0WqHa) | [Find the Sunrise](https://open.spotify.com/album/1WCqIa46hsuHtjhiFGT2ln) | 3:40 |
 | 83 | [Somebody To](https://open.spotify.com/track/1dJL5R596TtsWmQrES7l1b) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Are You With Me?](https://open.spotify.com/album/2Yv55gk5Sa144UCTfDthtf) | 3:52 |
-| 84 | [Back Around](https://open.spotify.com/track/3m7qHRUPOWazct8oCarycj) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Believe Me Now?](https://open.spotify.com/album/6OYYBT80KKtInCsTQEDN5c) | 2:36 |
+| 84 | [Back Around](https://open.spotify.com/track/3m9uxUtp0P8dF3U0Uny0uY) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Believe Me Now?](https://open.spotify.com/album/70szmVYkj3Y8y1wh3bxkMR) | 2:36 |
 | 85 | [Forever](https://open.spotify.com/track/3K8xkM4XtDBUQ84UOxwHMn) | [Joe Turner](https://open.spotify.com/artist/6mWRj2iXabH0pqlYnqYMup) | [Forever](https://open.spotify.com/album/4KpQinESn0cY0Sa1Alf18v) | 3:36 |
 | 86 | [Night To Remember](https://open.spotify.com/track/2t0foGmnz3XeGyAT7qs6QR) | [Ku De Ta](https://open.spotify.com/artist/39oQK5CtIHrU6EuaWtJpnU), [Sylvia Mwenze](https://open.spotify.com/artist/0tlyRkMBhTczE7WwefhApo) | [Night To Remember](https://open.spotify.com/album/0SKTNZZUfr0iXAalJxhLce) | 2:55 |
 | 87 | [Here With Me](https://open.spotify.com/track/0Bq6F58iu7wRKOTaOm7Oke) | [Dillon Nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Here With Me](https://open.spotify.com/album/3LfpH2HGdyq4sDbJWiqwHn) | 2:28 |
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 | 123 | [Healthy](https://open.spotify.com/track/0SDiNesytguub7hj5PDNu4) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Are You With Me?](https://open.spotify.com/album/2Yv55gk5Sa144UCTfDthtf) | 3:10 |
 | 124 | [Falling](https://open.spotify.com/track/7i95fZDQo6DIIMpbI3YxV5) | [Mandyngo](https://open.spotify.com/artist/7GPVVWlYgHMHha6F86wfxQ), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Falling](https://open.spotify.com/album/7L29duYYvRaVbGg2oBidYV) | 7:13 |
 
-Snapshot ID: `AbcEKgAAAAA0tT5+ZN1xF+muB4y1mJcv`
+Snapshot ID: `AbcJygAAAACufqjf9e7nni+3WdKmp1Ys`

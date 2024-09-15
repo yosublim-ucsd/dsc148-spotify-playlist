@@ -2,7 +2,7 @@
 
 ### [This Is Paramore](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4bEkUM)
 
-> This Is Paramore\. Los temas esenciales, todos en una lista.
+> This is Paramore\. En önemli parçalar, hepsi tek bir çalma listesinde.
 
 72 songs - 4 hr 18 min
 

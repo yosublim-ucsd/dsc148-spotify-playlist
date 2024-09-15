@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWwqj6dhkc3.md) - [plain]
 
 > La boyband más emblemática de los 90s tiene su playlist en Spotify.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,725 likes - 21 songs - 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,996 likes - 21 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

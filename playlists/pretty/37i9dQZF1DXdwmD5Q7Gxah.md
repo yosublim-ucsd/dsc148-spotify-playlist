@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > ‧₊˚ 🎐✩ 🫧 new albums from Fousheé, Dora Jar, MJ Lenderman, & Magdalena Bay ₊˚⊹♡
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,159,152 likes - 120 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,159,617 likes - 120 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

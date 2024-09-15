@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 
 > Appreciate the many miracles around you with these songs of worship.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,693 likes - 75 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,754 likes - 75 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pEiFLSS7sX.md) - [plain]
 | 68 | [Real Thing \(feat\. Sean Curran\)](https://open.spotify.com/track/50ECBEWF5HIJ8HqJowrZir) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o), [Sean Curran](https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c) | [Real Thing \(feat\. Sean Curran\)](https://open.spotify.com/album/1NMUdbkJswMTsGVScqZcxj) | 5:56 |
 | 69 | [All Hail King Jesus](https://open.spotify.com/track/0FRdprdBRrdo0jMxhK0hTy) | [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [More](https://open.spotify.com/album/2mGewKlkzqeAld4N3T1lfx) | 8:17 |
 | 70 | [Nothing Else / All I Need Is You \- Medley / Live](https://open.spotify.com/track/1FU3FhTkha9P7TtYqCDUdY) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Whitney Medina](https://open.spotify.com/artist/2aEALllrzX6yHYGQkQ3jgZ) | [Live At Church: Mixtape Vol\. 1](https://open.spotify.com/album/5TTMY7j38aJ11kqrsZoXtC) | 11:59 |
-| 71 | [House Of Miracles \- Live](https://open.spotify.com/track/2Td9w1ZBDw7VPvERVudmDw) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [House Of Miracles \(Live\)](https://open.spotify.com/album/6XwSI6fu7MRZulAaOqcbwI) | 7:33 |
-| 72 | [We Just Want to Worship \(Spontaneous\) \- Live](https://open.spotify.com/track/4NyBP8P9C6J6o1yxCeXhCB) | [LIFE Worship](https://open.spotify.com/artist/1ORYkhkN6flHlDSkWVsk4d), [Eby Corydon](https://open.spotify.com/artist/6EJe5fsw9zmyuJfYjCCezm) | [Speak to the Storm \(Live\)](https://open.spotify.com/album/3Dzff0jSwIghgeL33WEJn8) | 2:30 |
+| 71 | [We Just Want to Worship \(Spontaneous\) \- Live](https://open.spotify.com/track/4NyBP8P9C6J6o1yxCeXhCB) | [LIFE Worship](https://open.spotify.com/artist/1ORYkhkN6flHlDSkWVsk4d), [Eby Corydon](https://open.spotify.com/artist/6EJe5fsw9zmyuJfYjCCezm) | [Speak to the Storm \(Live\)](https://open.spotify.com/album/3Dzff0jSwIghgeL33WEJn8) | 2:30 |
+| 72 | [House Of Miracles \- Live](https://open.spotify.com/track/2Td9w1ZBDw7VPvERVudmDw) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [House Of Miracles \(Live\)](https://open.spotify.com/album/6XwSI6fu7MRZulAaOqcbwI) | 7:33 |
 | 73 | [Wonder \(Spontaneous\) \- Live](https://open.spotify.com/track/69PJBGTRrZZQrwbH4TxnIQ) | [Bethel Music\|Amanda Lindsey Cook](https://open.spotify.com/artist/5ZXoFwpHZ0y0Try39IKAZ2) | [You Make Me Brave \(Live\)](https://open.spotify.com/album/0u5bqt44z6UQEcHV7MVFvM) | 6:31 |
-| 74 | [Take Courage \(Radio Version\)](https://open.spotify.com/track/0GwFwWwKJMRx8LvNrna8Iv) | [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [Where His Light Was](https://open.spotify.com/album/1jamkW0fDJFlcF1wyAejsW) | 4:01 |
-| 75 | [Worthy](https://open.spotify.com/track/3eziquPpFrh0VxBlWC4XjW) | [Eric Thigpen](https://open.spotify.com/artist/7kIthpyjFRDaVQzt8n4RoR) | [Live with First Love, Vol\. One](https://open.spotify.com/album/47fiA31XOG4wc8z577YY7u) | 5:02 |
+| 74 | [Worthy](https://open.spotify.com/track/3eziquPpFrh0VxBlWC4XjW) | [Eric Thigpen](https://open.spotify.com/artist/7kIthpyjFRDaVQzt8n4RoR) | [Live with First Love, Vol\. One](https://open.spotify.com/album/47fiA31XOG4wc8z577YY7u) | 5:02 |
+| 75 | [Take Courage \(Radio Version\)](https://open.spotify.com/track/0GwFwWwKJMRx8LvNrna8Iv) | [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [Where His Light Was](https://open.spotify.com/album/1jamkW0fDJFlcF1wyAejsW) | 4:01 |
 
 Snapshot ID: `Zq3mVAAAAADCTbmfAp4aCVop9dQKZGWA`

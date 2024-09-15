@@ -2,9 +2,9 @@
 
 ### [This Is Bastille](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4xeFWM)
 
-> This is Bastille\. The essential tracks, all in one playlist.
+> This is Bastille\. Todos os maiores hits em uma só playlist.
 
-93 songs - 5 hr 19 min
+94 songs - 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Basket Case \- From ‘The Tick’ TV Series](https://open.spotify.com/track/3cfhXgklWpx5fCSYZOp9Wb) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Basket Case \- From ‘The Tick’ TV Series](https://open.spotify.com/album/1Eza0hy1Gsfqq3i9AG6yuw) | 2:33 | 2022-10-26 |  |
 | [Bite Down \(Bastille Vs\. HAIM\)](https://open.spotify.com/track/5FE8wW6YIKHFtSlbGLhYKB) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [VS\. \(Other People’s Heartache, Pt\. III\)](https://open.spotify.com/album/1YXsPGQingGkJZLA8uuQNL) | 2:59 | 2024-05-10 | 2024-07-24 |
 | [Blame](https://open.spotify.com/track/7yrx5A6zDOsd7Bn02WvbLH) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Wild World \- Complete Edition](https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE) | 2:55 | 2022-10-26 |  |
+| [Blue Sky & The Painter](https://open.spotify.com/track/1xuQoznYFrrw493RCb4IS9) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [“&” \(Ampersand\), Part Two](https://open.spotify.com/album/3vtvRu36Sh69lyYkMHY352) | 3:52 | 2024-09-15 |  |
 | [Can’t Fight This Feeling](https://open.spotify.com/track/6lYNtepnbJVzR0tAxj2lW7) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [London Contemporary Orchestra](https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M) | [Can’t Fight This Feeling](https://open.spotify.com/album/4GA0xqV2mfFmup90U0aOlu) | 3:18 | 2022-11-23 | 2024-02-26 |
 | [Come As You Are \- MTV Unplugged / Edit](https://open.spotify.com/track/6gVMFOIlHVIWDbEjpB5oA5) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Pompeii / Come As You Are \(MTV Unplugged\)](https://open.spotify.com/album/5o8QbgQysnN2Ox4ZLWnp5K) | 3:51 | 2023-04-27 | 2023-05-28 |
 | [Daniel In The Den](https://open.spotify.com/track/0ZasZDrI3OlDnkR5b13kj2) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:08 | 2024-03-13 | 2024-07-24 |

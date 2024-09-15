@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaxoJ3YwOh3.md) - [plain]
 
 > Enchanting vibes, to help you find a relaxing moment of wellness.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,297 likes - 89 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,361 likes - 89 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaxoJ3YwOh3.md) - [plain]
 | 88 | [Healing](https://open.spotify.com/track/120juWqk4ShxUDo1AzPAlA) | [The 2 Inversions](https://open.spotify.com/artist/2v62tGVulAui917rxpcmVJ) | [Healing](https://open.spotify.com/album/0FDntcyVJxyFwj4Xv13JTk) | 2:02 |
 | 89 | [Final Feliz](https://open.spotify.com/track/27LnREBusAgOoIreyVaOgL) | [Shah Feryan](https://open.spotify.com/artist/2k3wtmQ6gYbYAS7Mrv7wKx) | [Focus Forward](https://open.spotify.com/album/01Eil5njhrUuhnMV685rCR) | 3:00 |
 
-Snapshot ID: `ZsdFiwAAAACsxu6qnzNX71VSKMWkHa5Z`
+Snapshot ID: `ZsdFiwAAAAB+ToEFfYaaXXUbHKxSBCXb`

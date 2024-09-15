@@ -1,12 +1,12 @@
 {
   "description": "This Is Banda Peque\u00f1os Musical. Los temas esenciales, todos en una lista.",
-  "num_followers": 92690,
+  "num_followers": 92756,
   "original_name": "This Is Banda Peque\u00f1os Musical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuIvAAAAAAC9nK8GDh81UD74zUWMua0l",
+  "snapshot_id": "ZuOAgAAAAAAf8M+Hb6nIQpGdWTNYOE3R",
   "tracks": [
     {
       "added_at": null,
@@ -255,22 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Romantico incurable",
-        "url": "https://open.spotify.com/album/3HsHoBwT4L04KIfkYAfWjO"
-      },
-      "artists": [
-        {
-          "name": "Banda Peque\u00f1os Musical",
-          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
-        }
-      ],
-      "duration_ms": 223466,
-      "name": "Rom\u00e1ntico incurable",
-      "url": "https://open.spotify.com/track/0jxbA98tGD0s18YVfpOEco"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "25 Aniversario",
         "url": "https://open.spotify.com/album/58sbO4leQqMEydqYOHE1Xq"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 203640,
       "name": "Con 60 minutos",
       "url": "https://open.spotify.com/track/74eRlfZmAw26Q3d8t5o0tY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Romantico incurable",
+        "url": "https://open.spotify.com/album/3HsHoBwT4L04KIfkYAfWjO"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "duration_ms": 223466,
+      "name": "Rom\u00e1ntico incurable",
+      "url": "https://open.spotify.com/track/0jxbA98tGD0s18YVfpOEco"
     },
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoy y Siempre",
-        "url": "https://open.spotify.com/album/44tTvWJzOg7rxrMphXBZaL"
-      },
-      "artists": [
-        {
-          "name": "Banda Peque\u00f1os Musical",
-          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
-        }
-      ],
-      "duration_ms": 188653,
-      "name": "No necesitas a Carlo",
-      "url": "https://open.spotify.com/track/7iHKGbJSzClb7Q8IK9OH18"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dar\u00eda Todo por Ti",
         "url": "https://open.spotify.com/album/27CPLhGnj32W8AeYVO5aW9"
       },
@@ -335,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En grande",
-        "url": "https://open.spotify.com/album/5J6wDtwCGok12ta08ixCsA"
+        "name": "Hoy y Siempre",
+        "url": "https://open.spotify.com/album/44tTvWJzOg7rxrMphXBZaL"
       },
       "artists": [
         {
@@ -344,9 +328,9 @@
           "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
         }
       ],
-      "duration_ms": 175706,
-      "name": "La cuca",
-      "url": "https://open.spotify.com/track/7xnM2mrHUyb1Lr8gUhj4j7"
+      "duration_ms": 188653,
+      "name": "No necesitas a Carlo",
+      "url": "https://open.spotify.com/track/7iHKGbJSzClb7Q8IK9OH18"
     },
     {
       "added_at": null,
@@ -367,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoy y Siempre",
-        "url": "https://open.spotify.com/album/44tTvWJzOg7rxrMphXBZaL"
+        "name": "En grande",
+        "url": "https://open.spotify.com/album/5J6wDtwCGok12ta08ixCsA"
       },
       "artists": [
         {
@@ -376,9 +360,9 @@
           "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
         }
       ],
-      "duration_ms": 174400,
-      "name": "Mi coraz\u00f3n y yo",
-      "url": "https://open.spotify.com/track/6ALYG2LeuuLis4Yjnrnx2t"
+      "duration_ms": 175706,
+      "name": "La cuca",
+      "url": "https://open.spotify.com/track/7xnM2mrHUyb1Lr8gUhj4j7"
     },
     {
       "added_at": null,
@@ -399,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trayectoria",
-        "url": "https://open.spotify.com/album/4HEcnwhFZEvZrOZjJr4hFe"
+        "name": "Hoy y Siempre",
+        "url": "https://open.spotify.com/album/44tTvWJzOg7rxrMphXBZaL"
       },
       "artists": [
         {
@@ -408,9 +392,9 @@
           "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
         }
       ],
-      "duration_ms": 203773,
-      "name": "Tengo que regresar",
-      "url": "https://open.spotify.com/track/7GV3ncNCPyywOjPGU0oVCw"
+      "duration_ms": 174400,
+      "name": "Mi coraz\u00f3n y yo",
+      "url": "https://open.spotify.com/track/6ALYG2LeuuLis4Yjnrnx2t"
     },
     {
       "added_at": null,
@@ -427,6 +411,22 @@
       "duration_ms": 176000,
       "name": "Maldita Suerte",
       "url": "https://open.spotify.com/track/4kcMWe9I1GY4aTu2wx1OiE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trayectoria",
+        "url": "https://open.spotify.com/album/4HEcnwhFZEvZrOZjJr4hFe"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "duration_ms": 203773,
+      "name": "Tengo que regresar",
+      "url": "https://open.spotify.com/track/7GV3ncNCPyywOjPGU0oVCw"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoy y Siempre",
-        "url": "https://open.spotify.com/album/44tTvWJzOg7rxrMphXBZaL"
-      },
-      "artists": [
-        {
-          "name": "Banda Peque\u00f1os Musical",
-          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
-        }
-      ],
-      "duration_ms": 205813,
-      "name": "Me equivoqu\u00e9",
-      "url": "https://open.spotify.com/track/2b9l3Hx1Msq36CiiVoqmtX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hasta el Final",
         "url": "https://open.spotify.com/album/1du9JIb2Q5slXbYG4KbFPT"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 177213,
       "name": "Te extra\u00f1o",
       "url": "https://open.spotify.com/track/7wv6p1I2GWuZ1eQ1Iok3u1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hoy y Siempre",
+        "url": "https://open.spotify.com/album/44tTvWJzOg7rxrMphXBZaL"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "duration_ms": 205813,
+      "name": "Me equivoqu\u00e9",
+      "url": "https://open.spotify.com/track/2b9l3Hx1Msq36CiiVoqmtX"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recuerdos y algo m\u00e1s",
-        "url": "https://open.spotify.com/album/5fh8Fm5Xja28dihBZj0Sxg"
-      },
-      "artists": [
-        {
-          "name": "Banda Peque\u00f1os Musical",
-          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
-        }
-      ],
-      "duration_ms": 174133,
-      "name": "Qui\u00e9n",
-      "url": "https://open.spotify.com/track/0RD4ucWis1jf1HmmvLSCv5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tenis M\u00e1gicos",
         "url": "https://open.spotify.com/album/3TIOaRXflNZnZWgYjcCK1D"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 183973,
       "name": "Am\u00e1ndome",
       "url": "https://open.spotify.com/track/6IQFBLzWfJe5PGKnAfqaUc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recuerdos y algo m\u00e1s",
+        "url": "https://open.spotify.com/album/5fh8Fm5Xja28dihBZj0Sxg"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "duration_ms": 174133,
+      "name": "Qui\u00e9n",
+      "url": "https://open.spotify.com/track/0RD4ucWis1jf1HmmvLSCv5"
     },
     {
       "added_at": null,
@@ -655,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Con paso sensual",
+        "url": "https://open.spotify.com/album/7GQTANMGR0SlhvqbP1yw4A"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "duration_ms": 225173,
+      "name": "El retrato de mam\u00e1",
+      "url": "https://open.spotify.com/track/2L8uzQnGf2UUWeKHPbsv8F"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u00bfQu\u00e9 Pas\u00f3 Con Nuestro Amor?",
         "url": "https://open.spotify.com/album/2ktzaVGT4mFB6tMlFMH9xV"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 205681,
       "name": "\u00bfQu\u00e9 Pas\u00f3 Con Nuestro Amor?",
       "url": "https://open.spotify.com/track/6R5AJPv9aEyrpJXTgpqET2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Con paso sensual",
-        "url": "https://open.spotify.com/album/7GQTANMGR0SlhvqbP1yw4A"
-      },
-      "artists": [
-        {
-          "name": "Banda Peque\u00f1os Musical",
-          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
-        }
-      ],
-      "duration_ms": 225173,
-      "name": "El retrato de mam\u00e1",
-      "url": "https://open.spotify.com/track/2L8uzQnGf2UUWeKHPbsv8F"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 \u00c9xitos 2004-2005",
-        "url": "https://open.spotify.com/album/3xKyBeB8ovduhZwPtgPZBo"
-      },
-      "artists": [
-        {
-          "name": "Banda Peque\u00f1os Musical",
-          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
-        }
-      ],
-      "duration_ms": 254600,
-      "name": "Lo Que So\u00f1\u00e9",
-      "url": "https://open.spotify.com/track/7LpnnmmXpFRFCq0XjjdqSp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Con paso sensual",
         "url": "https://open.spotify.com/album/7GQTANMGR0SlhvqbP1yw4A"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 168240,
       "name": "El tonto",
       "url": "https://open.spotify.com/track/3GhoJww5tERbpuFtysGhKI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "15 \u00c9xitos 2004-2005",
+        "url": "https://open.spotify.com/album/3xKyBeB8ovduhZwPtgPZBo"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "duration_ms": 254600,
+      "name": "Lo Que So\u00f1\u00e9",
+      "url": "https://open.spotify.com/track/7LpnnmmXpFRFCq0XjjdqSp"
     },
     {
       "added_at": null,
@@ -787,6 +787,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En grande",
+        "url": "https://open.spotify.com/album/5J6wDtwCGok12ta08ixCsA"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "duration_ms": 142106,
+      "name": "Chiquilina",
+      "url": "https://open.spotify.com/track/3DiBjgOxP26LVm9BcosS7P"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "15 \u00c9xitos 2004-2005",
         "url": "https://open.spotify.com/album/3xKyBeB8ovduhZwPtgPZBo"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 204226,
       "name": "Como perros y gatos",
       "url": "https://open.spotify.com/track/06dgNqAiNlFPFA4l9xDF0k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En grande",
-        "url": "https://open.spotify.com/album/5J6wDtwCGok12ta08ixCsA"
-      },
-      "artists": [
-        {
-          "name": "Banda Peque\u00f1os Musical",
-          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
-        }
-      ],
-      "duration_ms": 142106,
-      "name": "Chiquilina",
-      "url": "https://open.spotify.com/track/3DiBjgOxP26LVm9BcosS7P"
     }
   ],
   "unique_name": "This Is Banda Peque\u00f1os Musical",

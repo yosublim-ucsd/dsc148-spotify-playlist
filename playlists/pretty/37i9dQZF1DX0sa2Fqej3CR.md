@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sa2Fqej3CR.md) - [plain]
 
 > 가장 소중한 내 편 \- 가족들을 생각하며 곡을 감상해보세요\. \(커버: ???\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 173 likes - 95 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 178 likes - 95 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [엄마 생각](https://open.spotify.com/track/0ls9JTv3X9QATrSQDdj56c) | [꼬마견\(Ggomagyun\)](https://open.spotify.com/artist/10w8K7zTMeKA1asBNvIGzG), [Yaein](https://open.spotify.com/artist/3ACBPowC8XZYkh4JjFzwgQ) | [Family Love](https://open.spotify.com/album/2OcBY84oimO731dGYSELhs) | 3:05 |
-| 2 | [Mother's Soulfood \(Feat\. Ra.D\)](https://open.spotify.com/track/1UVA0j0lkxiq8bqnVsYQZ1) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Ra.D](https://open.spotify.com/artist/6zPbaYJp7itQ8p0gPLqf2S) | [Last Days](https://open.spotify.com/album/68lIkpI3rmCFbjR0FKytTp) | 4:09 |
-| 3 | [Family Portrait \(2020\)](https://open.spotify.com/track/4Nk5zLRi4lmYpeJF7fpPwK) | [Kim Jin Ho](https://open.spotify.com/artist/0ZHGJr3gcX0fVYg1EQrcob) | [Family Portrait \(2020\)](https://open.spotify.com/album/6CAokph2LxSwTMczzgfeFu) | 6:43 |
-| 4 | [양화대교 \(Yanghwa Brdg\)](https://open.spotify.com/track/0AO2yQNGcH0ASHHU5lS4lT) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [양화대교 \(Yanghwa Brdg\) \- Single](https://open.spotify.com/album/06ngphQtoWwkns4H1tpXnq) | 3:49 |
-| 5 | [아버지 사진](https://open.spotify.com/track/1cG3HzvpUVegXwpEG9pYG7) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Seven,\(세븐 콤마\) <기억을 정리하며...>](https://open.spotify.com/album/6BKm7oswqYqeshbi9bpBwL) | 4:19 |
-| 6 | [like my father](https://open.spotify.com/track/6R9kPPbdTesxID7CtCAfvC) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [wonderlust](https://open.spotify.com/album/2pgzGj9PQ4nhc1l3NBlATj) | 2:58 |
-| 7 | [Mother](https://open.spotify.com/track/0md3x2yZXAkXeK3Pw7Sgfh) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Mother](https://open.spotify.com/album/43g68A9Q4Xltflzp3XwfLQ) | 2:56 |
+| 1 | [Mother's Soulfood \(Feat\. Ra.D\)](https://open.spotify.com/track/1UVA0j0lkxiq8bqnVsYQZ1) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Ra.D](https://open.spotify.com/artist/6zPbaYJp7itQ8p0gPLqf2S) | [Last Days](https://open.spotify.com/album/68lIkpI3rmCFbjR0FKytTp) | 4:09 |
+| 2 | [Family Portrait \(2020\)](https://open.spotify.com/track/4Nk5zLRi4lmYpeJF7fpPwK) | [Kim Jin Ho](https://open.spotify.com/artist/0ZHGJr3gcX0fVYg1EQrcob) | [Family Portrait \(2020\)](https://open.spotify.com/album/6CAokph2LxSwTMczzgfeFu) | 6:43 |
+| 3 | [양화대교 \(Yanghwa Brdg\)](https://open.spotify.com/track/0AO2yQNGcH0ASHHU5lS4lT) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [양화대교 \(Yanghwa Brdg\) \- Single](https://open.spotify.com/album/06ngphQtoWwkns4H1tpXnq) | 3:49 |
+| 4 | [아버지 사진](https://open.spotify.com/track/1cG3HzvpUVegXwpEG9pYG7) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Seven,\(세븐 콤마\) <기억을 정리하며...>](https://open.spotify.com/album/6BKm7oswqYqeshbi9bpBwL) | 4:19 |
+| 5 | [like my father](https://open.spotify.com/track/6R9kPPbdTesxID7CtCAfvC) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [wonderlust](https://open.spotify.com/album/2pgzGj9PQ4nhc1l3NBlATj) | 2:58 |
+| 6 | [Mother](https://open.spotify.com/track/0md3x2yZXAkXeK3Pw7Sgfh) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Mother](https://open.spotify.com/album/43g68A9Q4Xltflzp3XwfLQ) | 2:56 |
+| 7 | [엄마 생각](https://open.spotify.com/track/0ls9JTv3X9QATrSQDdj56c) | [꼬마견\(Ggomagyun\)](https://open.spotify.com/artist/10w8K7zTMeKA1asBNvIGzG), [Yaein](https://open.spotify.com/artist/3ACBPowC8XZYkh4JjFzwgQ) | [Family Love](https://open.spotify.com/album/2OcBY84oimO731dGYSELhs) | 3:05 |
 | 8 | [Mom In The Garden](https://open.spotify.com/track/31SalwIu5SbRarZZ5khuPY) | [Kim Jin Ho](https://open.spotify.com/artist/0ZHGJr3gcX0fVYg1EQrcob) | [Mom In The Garden](https://open.spotify.com/album/4NrgKe8TVSqtqoADcp7xQQ) | 4:39 |
 | 9 | [Father \(Feat\. Ra.D\)](https://open.spotify.com/track/4M9GqvIXtqPADntPncPTfv) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Ra.D](https://open.spotify.com/artist/6zPbaYJp7itQ8p0gPLqf2S) | [Last Days](https://open.spotify.com/album/68lIkpI3rmCFbjR0FKytTp) | 4:17 |
 | 10 | [Piggyback Ride \(Eobuba\)](https://open.spotify.com/track/7ta151FpY1tdSesH8tCPrm) | [Raina](https://open.spotify.com/artist/21dQ70DS91icGLN9J4mH7h), [Nada](https://open.spotify.com/artist/1YUbj9xRxaq0EoK5FRsS3U) | [MBN MISS BACK Part.2](https://open.spotify.com/album/016HQsnxsoYfT2RlO4659g) | 4:23 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sa2Fqej3CR.md) - [plain]
 | 94 | [아버지](https://open.spotify.com/track/7rTdW07B0EVBXztwo6GryQ) | [Park Wan Kyu](https://open.spotify.com/artist/3QUst1HlAmRuM48c5n5HSB) | [나는 가수다 경연 15\-2\. 내게 특별한 사람의 추천곡](https://open.spotify.com/album/4mvWk0HQ87eLop2UzOa0Ce) | 5:48 |
 | 95 | [Like My Father](https://open.spotify.com/track/5HJFNbxeL3tZK8LEicvjSk) | [Jung Chan Woo](https://open.spotify.com/artist/6odgFMXCTGCqia4uVkDfpm) | [Like My Father](https://open.spotify.com/album/4oZPPDZkkYdFyF8KzhFSxE) | 4:11 |
 
-Snapshot ID: `ZuRTcAAAAABj1dzB16IFoyFWdJDQ8hW/`
+Snapshot ID: `ZuY1vQAAAAAIYfQvoKAVAFLPuvbkwqhX`

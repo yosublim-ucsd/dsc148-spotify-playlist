@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-31",
-  "description": "This Is Lamb of God. Los temas esenciales, todos en una lista.",
+  "description": "This is Lamb of God. The essential tracks, all in one playlist.",
   "name": "This Is Lamb of God",
   "tracks": [
     {
@@ -222,10 +222,28 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 215058,
       "name": "Break You",
       "url": "https://open.spotify.com/track/6nQZeJoVPuebEKoHHtgb4N"
+    },
+    {
+      "album": {
+        "name": "Ashes of the Wake - 20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/7CwtVHoJ9cl6YEQjsSeEca"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "date_added": "2024-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215252,
+      "name": "Break You",
+      "url": "https://open.spotify.com/track/5RJClkZJRUza5iAXBdLjBj"
     },
     {
       "album": {
@@ -1387,6 +1405,24 @@
     },
     {
       "album": {
+        "name": "Ashes of the Wake - 20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/7CwtVHoJ9cl6YEQjsSeEca"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "date_added": "2024-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239251,
+      "name": "One Gun",
+      "url": "https://open.spotify.com/track/3XKMWLqzFfUeZgf3ndtjUJ"
+    },
+    {
+      "album": {
         "name": "VII: Sturm und Drang",
         "url": "https://open.spotify.com/album/4JvuAxQRUNbVcw66kFlXH9"
       },
@@ -1708,7 +1744,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 148653,
       "name": "Straight For The Sun",
       "url": "https://open.spotify.com/track/32LDIhVVsYEksBPoyfeKRo"
@@ -1780,7 +1816,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 239441,
       "name": "The Death Of Us - From The \"Bill & Ted Face The Music\" Soundtrack",
       "url": "https://open.spotify.com/track/3ipiVujau0BpkJ0PmYUtWx"
@@ -2134,6 +2170,24 @@
       "duration_ms": 278080,
       "name": "We Die Alone - Bonus Track",
       "url": "https://open.spotify.com/track/3ueBfJBpd8lQQyW3F1iD9N"
+    },
+    {
+      "album": {
+        "name": "Ashes of the Wake - 15th Anniversary",
+        "url": "https://open.spotify.com/album/3ffdUrEvCQJX6mn2ZTq93m"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "date_added": "2024-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208792,
+      "name": "What I've Become",
+      "url": "https://open.spotify.com/track/0sjZd1zLJ2ISjx8Sh0hIlB"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2aV0uA"

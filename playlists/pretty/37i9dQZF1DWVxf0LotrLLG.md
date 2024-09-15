@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del 2024\. Hit shuffle for a mixed listening experience\. Cover: Chencho Corleone
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,152 likes - 530 songs - 1 day 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,155 likes - 530 songs - 1 day 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

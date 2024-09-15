@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30w0JtSIv4j.md) - [plain]
 
 > Classic 90s and early 00s Hip\-Hop for the ultimate house party\. Cover: Missy Elliott
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,675,052 likes - 54 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,675,350 likes - 54 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30w0JtSIv4j.md) - [plain]
 | 16 | [Drop It Like It's Hot](https://open.spotify.com/track/2NBQmPrOEEjA8VbeWOQGxO) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [R&G \(Rhythm & Gangsta\): The Masterpiece](https://open.spotify.com/album/797fkvAtk0iZvP1HHPCWbp) | 4:26 |
 | 17 | [What's The Difference](https://open.spotify.com/track/2Dts49OexROL2KvCK2sokf) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Xzibit](https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou) | [2001 \(Explicit Version\)](https://open.spotify.com/album/5csXMdS69VOvh8MjyfwkjB) | 4:04 |
 | 18 | [Hate It Or Love It](https://open.spotify.com/track/60WcXjimfbhk6T0gj1Eufg) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [The Documentary](https://open.spotify.com/album/0d0QL1mV66wpb9cBvCSF0G) | 3:26 |
-| 19 | [Juicy \- 2005 Remaster](https://open.spotify.com/track/3xX9hoGEq1EuMGWZl8LQL1) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Ready to Die \(The Remaster; 2015 Remaster\)](https://open.spotify.com/album/2ymwUMeW3BySLhKNp8UQZ3) | 5:02 |
+| 19 | [Juicy \- 2005 Remaster](https://open.spotify.com/track/3xX9hoGEq1EuMGWZl8LQL1) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Ready to Die \- The Remaster; 2015 Remaster](https://open.spotify.com/album/2ymwUMeW3BySLhKNp8UQZ3) | 5:02 |
 | 20 | [21 Questions](https://open.spotify.com/track/70FCugJxa7XW04Np6iYJdI) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/5G5rgQHzdQnw32SI0WjIo5) | 3:44 |
 | 21 | [Bad Boy for Life](https://open.spotify.com/track/2eOuL8KesslTLQERQPu11D) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Black Rob](https://open.spotify.com/artist/1QPZhx0asYTBxD5RDqfU49), [Mark Curry](https://open.spotify.com/artist/20N6dS0vq9kMWXUqEkFrBA) | [The Saga Continues...](https://open.spotify.com/album/28BrFxsnBMjN689hOuf1jv) | 4:13 |
 | 22 | [Purple Pills](https://open.spotify.com/track/4EOpol0K5u620R2OLfoJ1B) | [D12](https://open.spotify.com/artist/5Qi4Bb7a8C0a00NZcA77L0) | [Devils Night](https://open.spotify.com/album/1goTTgn8yBzKNOCocQcMQy) | 5:04 |

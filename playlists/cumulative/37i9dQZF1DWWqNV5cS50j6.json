@@ -552,7 +552,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-24",
+      "date_removed": null,
       "duration_ms": 107313,
       "name": "A Cold Sunday",
       "url": "https://open.spotify.com/track/1Y1jtaZOJYgXBl7lKdLc9o"
@@ -1038,6 +1038,24 @@
       "duration_ms": 203750,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/51V7IK66jWw2AB3UZ18zxh"
+    },
+    {
+      "album": {
+        "name": "All in My Head",
+        "url": "https://open.spotify.com/album/7kjV04AJP1QFnQxZGPCZay"
+      },
+      "artists": [
+        {
+          "name": "Frank Sativa",
+          "url": "https://open.spotify.com/artist/10uDX8MnRj05PQIVGMygO2"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134070,
+      "name": "All in My Head",
+      "url": "https://open.spotify.com/track/5dWGLHS64oakLuzPJ7MIua"
     },
     {
       "album": {
@@ -2921,6 +2939,24 @@
     },
     {
       "album": {
+        "name": "Glue",
+        "url": "https://open.spotify.com/album/4SLobK9FvbKa5OtW4qLr3Q"
+      },
+      "artists": [
+        {
+          "name": "Kevin Abstract",
+          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170026,
+      "name": "Big Dog",
+      "url": "https://open.spotify.com/track/6PEqJY7YoICdN1lI7y2bwd"
+    },
+    {
+      "album": {
         "name": "Big Pussy",
         "url": "https://open.spotify.com/album/3aDrSVhq4TRAlAayrAC95o"
       },
@@ -3262,7 +3298,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 182357,
       "name": "Blink Twice",
       "url": "https://open.spotify.com/track/0mrawlgSrnmAoGxc8uG1mI"
@@ -3592,7 +3628,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 210133,
       "name": "Bon Bon",
       "url": "https://open.spotify.com/track/4Dr5pBJktWX8aZckCznE6q"
@@ -3853,6 +3889,24 @@
     },
     {
       "album": {
+        "name": "BRAND NEW",
+        "url": "https://open.spotify.com/album/6AcsCmVA0YDjmmK1qGV9ka"
+      },
+      "artists": [
+        {
+          "name": "KAIRO",
+          "url": "https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129582,
+      "name": "BRAND NEW",
+      "url": "https://open.spotify.com/track/5qvpRgqI26Ti9rrRuOznOB"
+    },
+    {
+      "album": {
         "name": "BRAVE NEW WORLD",
         "url": "https://open.spotify.com/album/43Os7lr3eToEhw9WfLBo7X"
       },
@@ -3900,7 +3954,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 163346,
       "name": "brown eyes*",
       "url": "https://open.spotify.com/track/5OOSqqoKCL4s7WIFNbSZPD"
@@ -7006,7 +7060,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 229610,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/3HPMlKfHRUCfHiPHSLn2tf"
@@ -7998,6 +8052,24 @@
       "duration_ms": 149192,
       "name": "DRIFTING AWAY",
       "url": "https://open.spotify.com/track/4AmA749nV2056TnXrMe2c1"
+    },
+    {
+      "album": {
+        "name": "Drive Me Crazy",
+        "url": "https://open.spotify.com/album/1vUqDAyooZ1aBCxEpS7H62"
+      },
+      "artists": [
+        {
+          "name": "Dayne Black",
+          "url": "https://open.spotify.com/artist/0rYZDQPo2mkkWPejOUZsI9"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150193,
+      "name": "Drive Me Crazy",
+      "url": "https://open.spotify.com/track/4Ipwmp9ToGuOsTQwZrde7e"
     },
     {
       "album": {
@@ -11023,6 +11095,24 @@
     },
     {
       "album": {
+        "name": "girlfriend ..",
+        "url": "https://open.spotify.com/album/3qaGYGQQyJZCpn8POSoNis"
+      },
+      "artists": [
+        {
+          "name": "Johnny Yukon",
+          "url": "https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147086,
+      "name": "girlfriend ..",
+      "url": "https://open.spotify.com/track/4YoLlQtpwBQpoRGF3j2wPp"
+    },
+    {
+      "album": {
         "name": "Girls",
         "url": "https://open.spotify.com/album/2fH2641iiOweBzDveY6QxM"
       },
@@ -11284,7 +11374,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 214046,
       "name": "GO AGAIN (feat. Superheaven)",
       "url": "https://open.spotify.com/track/2cNTMTh42p1dwMS3Kaea8E"
@@ -12240,7 +12330,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 161142,
       "name": "Hate Me",
       "url": "https://open.spotify.com/track/0QpiyJbgWUjyAQNqjIA5tO"
@@ -12673,6 +12763,24 @@
     },
     {
       "album": {
+        "name": "HER WAY",
+        "url": "https://open.spotify.com/album/5X25wwqMRIjLLOldYKxJWn"
+      },
+      "artists": [
+        {
+          "name": "Finn Foxell",
+          "url": "https://open.spotify.com/artist/1PK0iReBf7u59diWAXC3wR"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130588,
+      "name": "HER WAY",
+      "url": "https://open.spotify.com/track/7f6qfJ3FFsHQMc6wcP6B9T"
+    },
+    {
+      "album": {
         "name": "Things In The Way",
         "url": "https://open.spotify.com/album/2bGtxkYsnt72Vl7GejjZYD"
       },
@@ -12916,7 +13024,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 190074,
       "name": "HIGHJACK",
       "url": "https://open.spotify.com/track/57L5EYzCfHS7Jd58rV33lW"
@@ -14274,7 +14382,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 104975,
       "name": "i wonder",
       "url": "https://open.spotify.com/track/5NAQ94nrCj0b62rdhVxKnf"
@@ -14322,6 +14430,28 @@
       "duration_ms": 136744,
       "name": "I'm a Mess",
       "url": "https://open.spotify.com/track/1cfoP2ZOuwM5mcFUsZ1UH9"
+    },
+    {
+      "album": {
+        "name": "Zorb",
+        "url": "https://open.spotify.com/album/6kWMa5wuK9Jw1gtlHJaXRz"
+      },
+      "artists": [
+        {
+          "name": "Sycco",
+          "url": "https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0"
+        },
+        {
+          "name": "redveil",
+          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160223,
+      "name": "I'm Here Now",
+      "url": "https://open.spotify.com/track/55a14ZhAFXUbdNIKTT1b4N"
     },
     {
       "album": {
@@ -14944,6 +15074,24 @@
       "duration_ms": 175180,
       "name": "In Situ",
       "url": "https://open.spotify.com/track/7LVck898vegWlmM0Rwc81Z"
+    },
+    {
+      "album": {
+        "name": "Muuv",
+        "url": "https://open.spotify.com/album/3XA9DU8iWSwNgHf4bJnHdm"
+      },
+      "artists": [
+        {
+          "name": "Yeek",
+          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123428,
+      "name": "In The City, Outta Town (Dance)",
+      "url": "https://open.spotify.com/track/3ghoPalyReJD1MmBTNeR4Q"
     },
     {
       "album": {
@@ -16790,7 +16938,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 150468,
       "name": "LONELY MF",
       "url": "https://open.spotify.com/track/7AGOsBjHLrI2tjAlcsO5e7"
@@ -17858,6 +18006,24 @@
       "duration_ms": 187146,
       "name": "Martina Soleil (Living At The Same Time)",
       "url": "https://open.spotify.com/track/1BEjhtSuXdCf2NVofV71DD"
+    },
+    {
+      "album": {
+        "name": "Girl",
+        "url": "https://open.spotify.com/album/5sFj47dMyRaQo3sVoElik2"
+      },
+      "artists": [
+        {
+          "name": "Coco & Clair Clair",
+          "url": "https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158873,
+      "name": "Martini",
+      "url": "https://open.spotify.com/track/3s6AwrYAeJp8KwP0NQiebN"
     },
     {
       "album": {
@@ -21244,7 +21410,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 180580,
       "name": "PACKAPUNCH (feat. Danny Brown)",
       "url": "https://open.spotify.com/track/3bZXzHX8CkbMytaM3VGY3e"
@@ -23734,7 +23900,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 114056,
       "name": "Right now!",
       "url": "https://open.spotify.com/track/1lZlW5sarv3iIRluQGcFYj"
@@ -23770,7 +23936,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 137642,
       "name": "RIPPED JEANS",
       "url": "https://open.spotify.com/track/4nQTSJGyfCNNgw0jQVgk9S"
@@ -24154,6 +24320,24 @@
       "duration_ms": 112728,
       "name": "running back",
       "url": "https://open.spotify.com/track/2GIfPh0soztojStCU4hWcX"
+    },
+    {
+      "album": {
+        "name": "rush",
+        "url": "https://open.spotify.com/album/5e6mRAECzmgEduX7v7kgwi"
+      },
+      "artists": [
+        {
+          "name": "Marco Luka",
+          "url": "https://open.spotify.com/artist/4tjqHer0BFQbJ1FVyWhffM"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130588,
+      "name": "rush",
+      "url": "https://open.spotify.com/track/0kICcAeTYemPAAtBvDpttb"
     },
     {
       "album": {
@@ -24726,7 +24910,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 157664,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/0Rb0nCwXNKtq2TETOq3gjk"
@@ -24828,7 +25012,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 140000,
       "name": "SELL ME SICKNESS SELL ME HEALTH (EAZY T)",
       "url": "https://open.spotify.com/track/3pssREoUYhs7NTPF3iv6wL"
@@ -26906,7 +27090,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 142054,
       "name": "stArlight",
       "url": "https://open.spotify.com/track/0c84ujMSVptmZp1ZXXgJNz"
@@ -28664,7 +28848,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 173560,
       "name": "Tennessee (feat. Lil Nas X)",
       "url": "https://open.spotify.com/track/3AvfMmfCipJLdr9OozL1bv"
@@ -28842,6 +29026,24 @@
       "duration_ms": 146000,
       "name": "the apathy song",
       "url": "https://open.spotify.com/track/6L4BJnZqC8s77W0yqHYes6"
+    },
+    {
+      "album": {
+        "name": "The Big Leagues",
+        "url": "https://open.spotify.com/album/2lE1xTqPNmvbO1G3MnTttE"
+      },
+      "artists": [
+        {
+          "name": "Oliver Malcolm",
+          "url": "https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165333,
+      "name": "The Big Leagues",
+      "url": "https://open.spotify.com/track/350fMBx2Q0iGVBblBri46j"
     },
     {
       "album": {
@@ -30014,7 +30216,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 274266,
       "name": "Tommy",
       "url": "https://open.spotify.com/track/38piSUlzLXLqHqgrxSO4zE"
@@ -30514,7 +30716,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 113877,
       "name": "Try",
       "url": "https://open.spotify.com/track/5IQ4KtSJ65euoSNuzgHCZt"
@@ -30899,6 +31101,24 @@
     },
     {
       "album": {
+        "name": "Baggy$$",
+        "url": "https://open.spotify.com/album/0cX9ldzQG2UYMHo6ILXXYk"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152253,
+      "name": "UMPA",
+      "url": "https://open.spotify.com/track/470IhQSaAri29VEf2BZq7s"
+    },
+    {
+      "album": {
         "name": "Under Tongues",
         "url": "https://open.spotify.com/album/3papMg5gqRS5qpPg7wje4G"
       },
@@ -31174,7 +31394,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 152653,
       "name": "URRRGE!!!!!!!!!! (feat. A$AP Rocky)",
       "url": "https://open.spotify.com/track/0mxMMetknt24PVQxAHwXAZ"

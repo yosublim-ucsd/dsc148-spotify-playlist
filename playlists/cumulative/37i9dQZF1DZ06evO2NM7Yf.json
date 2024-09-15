@@ -355,6 +355,24 @@
     },
     {
       "album": {
+        "name": "poltergeist",
+        "url": "https://open.spotify.com/album/6sQBSsvaj7A5RLXq1Mc3aG"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "date_added": "2024-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153777,
+      "name": "poltergeist",
+      "url": "https://open.spotify.com/track/3xl8e3MwYxHfu89GsjJp2K"
+    },
+    {
+      "album": {
         "name": "Nosebleeds: Encore",
         "url": "https://open.spotify.com/album/19BoWVjerUhTZXmTlVGCoJ"
       },

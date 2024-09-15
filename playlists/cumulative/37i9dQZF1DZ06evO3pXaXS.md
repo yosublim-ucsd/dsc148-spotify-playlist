@@ -2,7 +2,7 @@
 
 ### [This Is The Police](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3pXaXS)
 
-> This Is The Police\. Kaikki olennaiset kappaleet yhdessä soittolistassa.
+> This is The Police\. The essential tracks, all in one playlist.
 
 69 songs - 4 hr 19 min
 

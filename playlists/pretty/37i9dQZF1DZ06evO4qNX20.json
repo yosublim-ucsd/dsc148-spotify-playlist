@@ -1,12 +1,12 @@
 {
   "description": "This Is Chalino Sanchez. Los temas esenciales, todos en una lista.",
-  "num_followers": 309270,
+  "num_followers": 309356,
   "original_name": "This Is Chalino Sanchez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuIvAAAAAADNrq6iw/Su9m/hKP1iF/Ib",
+  "snapshot_id": "ZuOAgAAAAAAze5jp9Jyv75eNRICBLHvj",
   "tracks": [
     {
       "added_at": null,
@@ -199,26 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nieves De Enero",
-        "url": "https://open.spotify.com/album/0l1m4FOStVJxLb3Ogf9EKn"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        },
-        {
-          "name": "Los Amables Del Norte",
-          "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K"
-        }
-      ],
-      "duration_ms": 208956,
-      "name": "Anastasio Pacheco",
-      "url": "https://open.spotify.com/track/2wcbC2ViEAKUjCx4pz1q6J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Adi\u00f3s A Chalino",
         "url": "https://open.spotify.com/album/1bNgOfg4GnCmHoF52wdVVF"
       },
@@ -235,6 +215,26 @@
       "duration_ms": 188011,
       "name": "Una Tarde",
       "url": "https://open.spotify.com/track/2I7dNLPnIshiEaGllzNRvP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nieves De Enero",
+        "url": "https://open.spotify.com/album/0l1m4FOStVJxLb3Ogf9EKn"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        },
+        {
+          "name": "Los Amables Del Norte",
+          "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K"
+        }
+      ],
+      "duration_ms": 208956,
+      "name": "Anastasio Pacheco",
+      "url": "https://open.spotify.com/track/2wcbC2ViEAKUjCx4pz1q6J"
     },
     {
       "added_at": null,
@@ -291,18 +291,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recordando A Chalino",
-        "url": "https://open.spotify.com/album/0p091X45za7loFjKaHPLaj"
+        "name": "Alma Enamorada",
+        "url": "https://open.spotify.com/album/0MKsMtUgIIJ0ITShmUqs8M"
       },
       "artists": [
         {
           "name": "Chalino Sanchez",
           "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        },
+        {
+          "name": "Los Amables Del Norte",
+          "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K"
         }
       ],
-      "duration_ms": 174927,
-      "name": "El P\u00e1vido N\u00e1vido",
-      "url": "https://open.spotify.com/track/3l1YSF2pus1uieW2uYU99Q"
+      "duration_ms": 180025,
+      "name": "Armando Aguirre",
+      "url": "https://open.spotify.com/track/1DKgGGbLAkBCOVDZZLFvSD"
     },
     {
       "added_at": null,
@@ -327,22 +331,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alma Enamorada",
-        "url": "https://open.spotify.com/album/0MKsMtUgIIJ0ITShmUqs8M"
+        "name": "Recordando A Chalino",
+        "url": "https://open.spotify.com/album/0p091X45za7loFjKaHPLaj"
       },
       "artists": [
         {
           "name": "Chalino Sanchez",
           "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        },
-        {
-          "name": "Los Amables Del Norte",
-          "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K"
         }
       ],
-      "duration_ms": 180025,
-      "name": "Armando Aguirre",
-      "url": "https://open.spotify.com/track/1DKgGGbLAkBCOVDZZLFvSD"
+      "duration_ms": 174927,
+      "name": "El P\u00e1vido N\u00e1vido",
+      "url": "https://open.spotify.com/track/3l1YSF2pus1uieW2uYU99Q"
     },
     {
       "added_at": null,

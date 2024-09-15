@@ -4,7 +4,7 @@
 
 > 사랑이 더욱 뜨겁게 섞일 때.
 
-252 songs - 13 hr 43 min
+253 songs - 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Dawn](https://open.spotify.com/track/1iUHDuJ3ZL6HrrgxQNVWF7) | [yey](https://open.spotify.com/artist/502fuIaKBgR51zNneCKFGj) | [Dawn](https://open.spotify.com/album/4r3f6kbozqZ1daPFEvmd0N) | 2:41 | 2022-05-03 | 2022-07-29 |
 | [Dawn Call](https://open.spotify.com/track/1e9JncQXdjM4DtFpyZrlU7) | [BB](https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6) | [Dawn Call](https://open.spotify.com/album/49P8OaQVu9YVHQcUoLLmoX) | 3:13 | 2022-06-09 | 2024-08-05 |
 | [Daydreaming](https://open.spotify.com/track/6bWpJP0DGtSO5r9aWFCYMh) | [Lee Juck](https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa) | [House of Lies \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/0NWeQSWJaihEyBVjvdns8A) | 3:53 | 2022-06-13 | 2022-07-29 |
-| [dear a.i](https://open.spotify.com/track/3jghe6qOB5kiwtXlrTuYFe) | [Jung Jin Woo](https://open.spotify.com/artist/5uVgoepJHC3fbOohI5gXc4) | [DEAR A.I](https://open.spotify.com/album/6COdSY0jHI0tMeCdA7C9qy) | 2:29 | 2024-08-10 |  |
+| [dear a.i](https://open.spotify.com/track/3jghe6qOB5kiwtXlrTuYFe) | [Jung Jin Woo](https://open.spotify.com/artist/5uVgoepJHC3fbOohI5gXc4) | [DEAR A.I](https://open.spotify.com/album/6COdSY0jHI0tMeCdA7C9qy) | 2:29 | 2024-08-10 | 2024-09-15 |
 | [Dejavu \(Song by SIM2\) \(Feat\. JUNNY\)](https://open.spotify.com/track/5ER4mtPENIKPNxmYCUNxIJ) | [SOUND PALETTE](https://open.spotify.com/artist/0vReM81CSMXlENdSzVSHQF), [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [PALETTE C\#505.](https://open.spotify.com/album/6I2eTUSibn3Y8uJZj1pTS8) | 3:36 | 2022-06-20 | 2022-06-28 |
 | [Dive Into](https://open.spotify.com/track/4i5Jxokc2PUjZDF3JPdzx5) | [Han Seungwoo](https://open.spotify.com/artist/2RSsuFG2pkU9sGZ85UzFgl) | [FRAME](https://open.spotify.com/album/5mrHp5MBbkAokYlDb41ere) | 3:04 | 2023-07-07 |  |
 | [Don't pretend](https://open.spotify.com/track/3yvjU1X8MziKtJP0QzqKbe) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [Malitabu](https://open.spotify.com/artist/1t1pVSzMxm5JAfsdvl4SWb) | [Don't pretend](https://open.spotify.com/album/7AVQj5RTLOTvoKMPZMBUEi) | 3:06 | 2022-05-03 | 2022-07-29 |
@@ -145,6 +145,7 @@
 | [Love Me Again](https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 3:02 | 2023-08-24 | 2024-08-11 |
 | [LSD \(Feat\. JUNNY\)](https://open.spotify.com/track/3NOeGLQJRQQGchoChRQg9s) | [vangdale](https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb), [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [mojo](https://open.spotify.com/album/2B26gj1V8eKsJ6yPXaZxkE) | 2:31 | 2022-05-03 |  |
 | [LUCID DREAM](https://open.spotify.com/track/4G7lfJ2BwHgwhPFuyF1Ix0) | [Jiyoung Kang](https://open.spotify.com/artist/7cEG2unrO9IXQZcVxK7WNV) | [LUCID DREAM](https://open.spotify.com/album/6IZWPcVfecATbfDL5g0P7Q) | 3:01 | 2022-07-08 | 2022-07-28 |
+| [LVSNG](https://open.spotify.com/track/3emY4tmPQU44ppnLiTcTL4) | [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [ME TIME](https://open.spotify.com/album/35yOKT2x4cwAPm0CQ8DF6s) | 2:17 | 2024-09-13 |  |
 | [LYING](https://open.spotify.com/track/1NpIpw2JRLaR0SNRGcRE4t) | [KHYO](https://open.spotify.com/artist/6qjs1HBGVhe68VFIUdRlNR), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [LYING](https://open.spotify.com/album/6yjppE7WDwovMGMjEQ6Kq6) | 3:28 | 2022-05-03 | 2022-07-21 |
 | [Melting Point](https://open.spotify.com/track/44VtzjjjBww4Rd9ypV8mNl) | [NiiHWA](https://open.spotify.com/artist/1OY65G9NJJHsSt1lGLZU6q) | [Melting Point](https://open.spotify.com/album/56YYIj6lRUN1DAzOIKm9Sg) | 3:41 | 2022-05-03 | 2022-07-17 |
 | [Mercedes \(Feat\. Leellamarz, Gist\)](https://open.spotify.com/track/2re0LAL6HYNgOjpQCh28rb) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk) | [Luxury Flow](https://open.spotify.com/album/5W5VJUDi7hHCWLFcbpyVDh) | 3:09 | 2024-08-10 |  |

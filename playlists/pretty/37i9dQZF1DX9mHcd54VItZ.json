@@ -1,6 +1,6 @@
 {
   "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/0XFfgHElyw0xANJDuQrHyL?si=1E2_gp6ZSxKg1sJ9d9Nhdg\">Ruff Majik</a>",
-  "num_followers": 19988,
+  "num_followers": 20001,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-07-28 19:12:15",
       "album": {
-        "name": "Ewigheid (Remastered 2024)",
-        "url": "https://open.spotify.com/album/2U8RKMXqNsceEJCC1XGaTa"
-      },
-      "artists": [
-        {
-          "name": "Millennium",
-          "url": "https://open.spotify.com/artist/4AaYTQtnZyjXm9JniWgGFw"
-        }
-      ],
-      "duration_ms": 240489,
-      "name": "Alleen - Remastered 2024",
-      "url": "https://open.spotify.com/track/5US58PJyctlJoImyWqsyvZ"
-    },
-    {
-      "added_at": "2024-07-28 19:12:15",
-      "album": {
         "name": "Wie's Bang",
         "url": "https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 212573,
       "name": "Dis 'N Land",
       "url": "https://open.spotify.com/track/0roieQC2tOtmF2oEme5rSV"
+    },
+    {
+      "added_at": "2024-07-28 19:12:15",
+      "album": {
+        "name": "Ewigheid (Remastered 2024)",
+        "url": "https://open.spotify.com/album/2U8RKMXqNsceEJCC1XGaTa"
+      },
+      "artists": [
+        {
+          "name": "Millennium",
+          "url": "https://open.spotify.com/artist/4AaYTQtnZyjXm9JniWgGFw"
+        }
+      ],
+      "duration_ms": 240489,
+      "name": "Alleen - Remastered 2024",
+      "url": "https://open.spotify.com/track/5US58PJyctlJoImyWqsyvZ"
     },
     {
       "added_at": "2024-07-28 19:12:15",
@@ -483,6 +483,22 @@
     {
       "added_at": "2024-07-28 19:12:15",
       "album": {
+        "name": "AfterlifeSatisfaction",
+        "url": "https://open.spotify.com/album/3n4E6vRepghCz4BW5JnsZw"
+      },
+      "artists": [
+        {
+          "name": "Springbok Nude Girls",
+          "url": "https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh"
+        }
+      ],
+      "duration_ms": 282973,
+      "name": "Genie",
+      "url": "https://open.spotify.com/track/1MKQjwVhZb9rtDv3RJKceX"
+    },
+    {
+      "added_at": "2024-07-28 19:12:15",
+      "album": {
         "name": "Crumble",
         "url": "https://open.spotify.com/album/1Uxd82K8UTywJLxLWzZzu2"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 161091,
       "name": "Crumble",
       "url": "https://open.spotify.com/track/6PCCjhYOqIeGPh1pxceMYA"
-    },
-    {
-      "added_at": "2024-07-28 19:12:15",
-      "album": {
-        "name": "AfterlifeSatisfaction",
-        "url": "https://open.spotify.com/album/3n4E6vRepghCz4BW5JnsZw"
-      },
-      "artists": [
-        {
-          "name": "Springbok Nude Girls",
-          "url": "https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh"
-        }
-      ],
-      "duration_ms": 282973,
-      "name": "Genie",
-      "url": "https://open.spotify.com/track/1MKQjwVhZb9rtDv3RJKceX"
     },
     {
       "added_at": "2024-07-28 19:12:15",
@@ -549,22 +549,6 @@
       "url": "https://open.spotify.com/track/1mBEtvBdWd7i4X3TxGJ0Ud"
     },
     {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/5toycwLOrTEoVW78Z8foya"
-      },
-      "artists": [
-        {
-          "name": "Sonofold",
-          "url": "https://open.spotify.com/artist/7nCXKf1BC7v0GcK04mx7qD"
-        }
-      ],
-      "duration_ms": 229400,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/4x3Ot7V42zIMh5cSf850n7"
-    },
-    {
       "added_at": "2024-07-28 19:12:15",
       "album": {
         "name": "Between Two Lives",
@@ -595,6 +579,22 @@
       "duration_ms": 193986,
       "name": "Hey Mister",
       "url": "https://open.spotify.com/track/6WYfKDuPFNiKS36G4FqRv8"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/5toycwLOrTEoVW78Z8foya"
+      },
+      "artists": [
+        {
+          "name": "Sonofold",
+          "url": "https://open.spotify.com/artist/7nCXKf1BC7v0GcK04mx7qD"
+        }
+      ],
+      "duration_ms": 229400,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/4x3Ot7V42zIMh5cSf850n7"
     },
     {
       "added_at": "2024-07-28 19:12:15",
@@ -645,6 +645,22 @@
       "url": "https://open.spotify.com/track/6yakQmh8oCDlnz9cvFEJVa"
     },
     {
+      "added_at": "2024-07-28 19:12:15",
+      "album": {
+        "name": "All Comes Round 20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/1R71jHIqikADJY5tAtNl4X"
+      },
+      "artists": [
+        {
+          "name": "Just Jinger",
+          "url": "https://open.spotify.com/artist/0xj7PKQWdYs0GRijWUtYTo"
+        }
+      ],
+      "duration_ms": 216533,
+      "name": "Like You Madly",
+      "url": "https://open.spotify.com/track/2gmnVYIuxe7mbgxjACZIp9"
+    },
+    {
       "added_at": "2024-08-15 22:00:00",
       "album": {
         "name": "Wild Shit",
@@ -663,22 +679,6 @@
       "duration_ms": 192339,
       "name": "Wild Shit",
       "url": "https://open.spotify.com/track/5IfKQAL3Ul0RfCLxxV7tty"
-    },
-    {
-      "added_at": "2024-07-28 19:12:15",
-      "album": {
-        "name": "All Comes Round 20th Anniversary Edition",
-        "url": "https://open.spotify.com/album/1R71jHIqikADJY5tAtNl4X"
-      },
-      "artists": [
-        {
-          "name": "Just Jinger",
-          "url": "https://open.spotify.com/artist/0xj7PKQWdYs0GRijWUtYTo"
-        }
-      ],
-      "duration_ms": 216533,
-      "name": "Like You Madly",
-      "url": "https://open.spotify.com/track/2gmnVYIuxe7mbgxjACZIp9"
     },
     {
       "added_at": "2024-07-28 19:12:15",

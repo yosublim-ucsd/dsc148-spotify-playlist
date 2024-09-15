@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 
 > Tällä listalla parasta tuoretta suomirockia\. Kannessa Leo Stillman.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,797 likes - 80 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,795 likes - 80 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 | 18 | [Rakkautta & anarkiaa](https://open.spotify.com/track/154heblJv4md1puOCiEFWq) | [Annika Nord](https://open.spotify.com/artist/38CUYNUjAo4KtM0aSp8rgs) | [Rakkautta & anarkiaa](https://open.spotify.com/album/4rfIZOi0exVOhOWxxyVc6U) | 3:31 |
 | 19 | [Itäväylä](https://open.spotify.com/track/1mBuoiWexvzrbHtscJQiH4) | [Sam Shaky](https://open.spotify.com/artist/21m35VZF1Yhlb5Nm2BeDH3) | [Itäväylä](https://open.spotify.com/album/2U6lKa2Eia3H7huo43JqrB) | 3:52 |
 | 20 | [Elät Vaan](https://open.spotify.com/track/2tQk2A6XDXKlhxw5cT2jYe) | [Remix](https://open.spotify.com/artist/60rrONrFQipKsTXYazdmQO), [Karoliina Kallio](https://open.spotify.com/artist/0PMSbS727MWOXbiEcSjSLm) | [Elät Vaan](https://open.spotify.com/album/4zTGHW1H5IxyUSYGcRmj6W) | 3:40 |
-| 21 | [Voi kun riittäis pieni taivas](https://open.spotify.com/track/2EBCiPiw41o3Uqpg5mFhW2) | [Jouko Hohko & Jukka Orman Taivaallinen Sotajoukko](https://open.spotify.com/artist/19OiCuwqMDp0jA137MgDAA) | [Voi kun riittäis pieni taivas](https://open.spotify.com/album/3v6atwO9AP6eNdLGd5WocU) | 3:47 |
+| 21 | [Voi kun riittäis pieni taivas](https://open.spotify.com/track/2EBCiPiw41o3Uqpg5mFhW2) | [Jouko Hohko & Jukka Orman Taivaallinen Sotajoukko](https://open.spotify.com/artist/19OiCuwqMDp0jA137MgDAA), [Jouko Hohko](https://open.spotify.com/artist/29xqY32T9vZdhrN2n2KU3f), [Jukka Orma](https://open.spotify.com/artist/30tgJpLphPAwrwbasvd7on) | [Voi kun riittäis pieni taivas](https://open.spotify.com/album/3v6atwO9AP6eNdLGd5WocU) | 3:47 |
 | 22 | [Sinussa on meri](https://open.spotify.com/track/5R1lLYpBdrOgJh8vrbincI) | [Esa Eloranta](https://open.spotify.com/artist/7DebIQncqcKWGJHP0Gtiee) | [Sinussa on meri](https://open.spotify.com/album/6tO9ULw0zmaoBmEbFuBzkz) | 3:52 |
 | 23 | [Kemin savut](https://open.spotify.com/track/0R3DcHNuWvQucIRjZWY8E1) | [Jukka Takalo](https://open.spotify.com/artist/5n4acUEkrslnTj3RZu2549) | [Jokivarsien laulut](https://open.spotify.com/album/2lTcH70XtPzLlOR9JBbbcg) | 3:53 |
 | 24 | [Me ollaan niin pienii](https://open.spotify.com/track/6vwccN8uniz3l1mNwVBdzl) | [Freesia](https://open.spotify.com/artist/4st8ZRjH23jaPQrJ0gPSvh) | [Me ollaan niin pienii](https://open.spotify.com/album/4YpveFiVXnqRxgAuw8DQdH) | 3:14 |

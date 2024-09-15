@@ -4,7 +4,7 @@
 
 > 
 
-1,968 songs - 4 day 10 hr 1 min
+1,969 songs - 4 day 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1358,6 +1358,7 @@
 | [PRIDE.](https://open.spotify.com/track/6IZvVAP7VPPnsGX6bvgkqg) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 4:35 | 2021-12-30 |  |
 | [Primadonna](https://open.spotify.com/track/5tFMuAw6X2R4NLx97g7n9q) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Electra Heart \(Deluxe\)](https://open.spotify.com/album/5N1aNUXaHDD7YsjhbCM9JZ) | 3:41 | 2021-08-05 |  |
 | [Princess Bubblegum](https://open.spotify.com/track/2O9KgUsmuon6Gycdmagc6t) | [ilyTOMMY](https://open.spotify.com/artist/4XWaILHqySwH1y6LhlYcsb) | [Princess Bubblegum](https://open.spotify.com/album/3pb0Q6sH9ZhxjOKvSVP5bE) | 1:35 | 2021-08-05 |  |
+| [PRIVET PRIVET 2009 ST](https://open.spotify.com/track/5S3g79HZI1lA7qEr1wBEni) | [Luke Willies](https://open.spotify.com/artist/3uIws1bbX1b53e0xJpz94r) | [PRIVET PRIVET 2009 ST](https://open.spotify.com/album/2sAFkotFrDHE5ZFPSDnM9z) | 1:34 | 2024-09-14 |  |
 | [Pro: Lov: Ad](https://open.spotify.com/track/7rR1msZYCT2MlrssnJMYgw) | [Sweet Trip](https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM) | [Velocity: Design: Comfort.](https://open.spotify.com/album/0eUUQ4rly8Q8PyJPWLgde2) | 5:46 | 2022-07-10 |  |
 | [Problematic](https://open.spotify.com/track/2JUZbl8qGPfb7ot5UElsWx) | [Get Scared](https://open.spotify.com/artist/5r9uIJCoquVtEkCkvcn8Ez) | [Built for Blame, Laced With Shame \- Spotify Exclusive](https://open.spotify.com/album/2ofURnpkPHvzfkFfNT5xo7) | 3:12 | 2022-05-25 |  |
 | [Prognosis](https://open.spotify.com/track/2K6idekZrz1H2okt4gJTO8) | [Blue Stahli](https://open.spotify.com/artist/4DWnSG0RYPAds8EIKY26q3) | [Obsidian](https://open.spotify.com/album/5qCrhczH7vQdb5823kDHgK) | 3:55 | 2021-08-05 |  |

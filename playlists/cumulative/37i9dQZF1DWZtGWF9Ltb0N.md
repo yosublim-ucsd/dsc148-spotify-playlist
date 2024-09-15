@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes to dive into.
 
-660 songs - 1 day 21 hr 32 min
+662 songs - 1 day 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Boks](https://open.spotify.com/track/6AhoZHpoeXmIyH37QrIDYN) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Unreleased Classics\. Vol.2 2004\-2006](https://open.spotify.com/album/4t4cgkh5JyDnl3lyD8RliW) | 5:36 | 2022-02-17 | 2022-04-08 |
 | [Boondow Bai](https://open.spotify.com/track/7cLgBeRNgizZbKr9CPeBOU) | [Dalek One](https://open.spotify.com/artist/3c3aIUcvGaeRYmqRm9rXqb) | [Boondow Bai](https://open.spotify.com/album/1bgC0CA9FzaT2NRKJ5GOCj) | 4:07 | 2022-02-17 | 2022-07-29 |
 | [Break Slow Fast](https://open.spotify.com/track/5hmGd8oiC1B8wNoT9sIEU2) | [Dirty Freud](https://open.spotify.com/artist/2c5NcXidirDDqL3sc3vW8S) | [The Villain in Someone's Story](https://open.spotify.com/album/2Tz9zXcUdWO1p0Hhi2tPte) | 3:16 | 2023-03-10 |  |
+| [Bright Shadows](https://open.spotify.com/track/3QJEatxNmx1QvARdoqvEzx) | [OkayJake](https://open.spotify.com/artist/1inEarlQOFZ2KWNnQDHqo3), [Gunpoint](https://open.spotify.com/artist/6OabPCZQ3SpVBtpqiK2lyu) | [Bright Shadows](https://open.spotify.com/album/0QuoHVee3ijR2C4186aoP3) | 2:36 | 2024-09-13 |  |
 | [Broken Chime](https://open.spotify.com/track/45W7PhgdmaZE3xJl0Athmz) | [DMVU](https://open.spotify.com/artist/59DcOmdlmKUgsUrb2S7Nb6) | [ENC006](https://open.spotify.com/album/0yhKhrIr1Be7WVjeAYyxIO) | 5:56 | 2022-07-08 | 2022-07-30 |
 | [Broken Chime](https://open.spotify.com/track/5NlGgnEhGpYorTmLOVvPu4) | [DMVU](https://open.spotify.com/artist/59DcOmdlmKUgsUrb2S7Nb6) | [ENC006](https://open.spotify.com/album/3ClKaZIqHTYaDK4ce0zlYw) | 5:56 | 2022-02-17 | 2022-07-29 |
 | [Brownsville \- Pillow VIP](https://open.spotify.com/track/50zEWBkv3X1iMFju3G4pI6) | [Ramsez](https://open.spotify.com/artist/6u8RwyERnGpgixqrLjyVGL), [Pillow](https://open.spotify.com/artist/3zkWQwDuWaGendMUpjnRq7) | [Lost Signals](https://open.spotify.com/album/1D6SAMAseEVl5wqe0X69Sy) | 3:19 | 2022-02-17 | 2022-07-29 |
@@ -172,6 +173,7 @@
 | [Elite](https://open.spotify.com/track/3At9iZJpHFkIsVFO4IKe4u) | [Abelation](https://open.spotify.com/artist/3ezpQc6XHKaha2SmkFsEfR), [Saka](https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv) | [Elite](https://open.spotify.com/album/3O6ivFNYkhrVLtEY82PRFM) | 3:53 | 2022-09-02 |  |
 | [Elixir](https://open.spotify.com/track/4wfauK3ulmGHEVk9qKscMw) | [Sub Basics](https://open.spotify.com/artist/6zpwlKhz2dq8BlG1BME5Zh) | [Vapour / Orbit / Elixir](https://open.spotify.com/album/14eSrhayOSBR9Hu6klUTzs) | 5:28 | 2022-02-17 | 2022-07-28 |
 | [Elixir](https://open.spotify.com/track/7AaEHev2MJB3ElXkXQKjmC) | [Sub Basics](https://open.spotify.com/artist/6zpwlKhz2dq8BlG1BME5Zh) | [Vapour / Orbit / Elixir](https://open.spotify.com/album/5sNLZbMhQUhXWxGXxDCE2U) | 5:28 | 2022-07-08 | 2022-07-30 |
+| [Empty](https://open.spotify.com/track/1QYGHQFxjCEU0Y4Il37Yum) | [Truth](https://open.spotify.com/artist/0ZDCCJSvjcdJZH9hOl1uYc), [Lelijveld](https://open.spotify.com/artist/6Lw1PpoEkLWn3Sb5dTevT3) | [Woden](https://open.spotify.com/album/0WTvs5HOEx5PrQQQp4uFrr) | 5:36 | 2024-09-13 |  |
 | [Encanto](https://open.spotify.com/track/0v15xYsmEWe8aiHTJoV5qk) | [3WA](https://open.spotify.com/artist/2HWBW5CHvjEMqmPL5HmPgp) | [Viagem / Encanto](https://open.spotify.com/album/0wxs4pvjCD7BjwJBPZcCs9) | 4:36 | 2022-02-17 | 2022-07-27 |
 | [Encanto](https://open.spotify.com/track/5e0vCGVLCZnK3qSjJmCfN5) | [3WA](https://open.spotify.com/artist/2HWBW5CHvjEMqmPL5HmPgp) | [Viagem / Encanto](https://open.spotify.com/album/4YpBu4TxO2JMveeFGe4DYS) | 4:36 | 2022-07-08 | 2022-07-30 |
 | [Enclave](https://open.spotify.com/track/2Y5yQ2iQMUfX7QNZV5JrNI) | [ATYYA](https://open.spotify.com/artist/36NAuk7D3nO0JFfgZf3XI7) | [Enclave](https://open.spotify.com/album/1cfqQahioFkRtitz6Et7qx) | 3:51 | 2024-02-09 |  |
@@ -385,7 +387,7 @@
 | [Neurological](https://open.spotify.com/track/6O0t3Pm3HcVbuR6SokUXby) | [Caspa](https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6) | [Vibrations](https://open.spotify.com/album/34E1kgCm1PZ6y0jdyGVXtc) | 4:34 | 2022-02-17 | 2023-01-14 |
 | [Night Flight](https://open.spotify.com/track/46lWKeYyIQN7F3OnZqjFMb) | [Biome](https://open.spotify.com/artist/5vdT5HnfZZMsPwy9XtM1ud) | [Night Flight](https://open.spotify.com/album/2BkHRyI4EYoEQUcOKCNbGT) | 4:22 | 2022-02-17 | 2023-02-11 |
 | [NO](https://open.spotify.com/track/7MWgZYpmaRYEj27TeKCc9X) | [EAZYBAKED](https://open.spotify.com/artist/1ZbT8FIqEc0cktnu6mNlvv) | [NO](https://open.spotify.com/album/0KFFRneuQj5lVZk7rYcpDp) | 3:25 | 2024-08-16 |  |
-| [No More](https://open.spotify.com/track/7qy8iDkGHlthmVFy6CKYhp) | [HWLS](https://open.spotify.com/artist/4ODo634wVqDxqgVSlXE2LO) | [Everything's Temporary](https://open.spotify.com/album/2hDAvX1vRBMPvB2kZJkxBR) | 3:21 | 2024-04-12 |  |
+| [No More](https://open.spotify.com/track/7qy8iDkGHlthmVFy6CKYhp) | [HWLS](https://open.spotify.com/artist/4ODo634wVqDxqgVSlXE2LO) | [Everything's Temporary](https://open.spotify.com/album/2hDAvX1vRBMPvB2kZJkxBR) | 3:21 | 2024-04-12 | 2024-09-15 |
 | [Noid](https://open.spotify.com/track/4nGups0fUicg4Khw30jXSx) | [Noer the Boy](https://open.spotify.com/artist/4PD6K1K2nNk6xIpFhtoSMT) | [Noid](https://open.spotify.com/album/6NBCoOBu1Wm9PfDGNS7mVu) | 3:41 | 2022-02-17 | 2022-09-11 |
 | [Norman](https://open.spotify.com/track/536U728aadWGV86KDvQs0m) | [p0gman](https://open.spotify.com/artist/3cw7SynPNBpGg16PRXJI2I) | [Norman](https://open.spotify.com/album/2EamMa2jk8G9CstjDqn8Aa) | 3:15 | 2022-02-17 | 2022-10-20 |
 | [Nostromo](https://open.spotify.com/track/1iuqxIMSa51b3XIt8PXyxn) | [Zygos](https://open.spotify.com/artist/7555FTON3X5sDFo7SD2W4o) | [Erf](https://open.spotify.com/album/58gNWJByyRMwUJ8a0gR244) | 3:39 | 2022-02-17 | 2022-07-29 |
@@ -399,7 +401,7 @@
 | [Oh So OK](https://open.spotify.com/track/3XmgHc4fYjr1ijaiPMdEfZ) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV) | [Oh So OK](https://open.spotify.com/album/3KlXQpnc1xdjEYHT4mT7XO) | 3:15 | 2024-05-10 | 2024-08-01 |
 | [Old & New](https://open.spotify.com/track/0TvSuQHGGyVODHyJ2GzYSF) | [Teffa](https://open.spotify.com/artist/3w8EiOMwnAuuWfPmX5kRqb) | [Old & New EP](https://open.spotify.com/album/2OHPsDdQ0pIWfly7ZWg3XJ) | 3:41 | 2022-02-17 | 2023-03-22 |
 | [Olifant](https://open.spotify.com/track/1Mukld06lxTZSXDsiGqyT3) | [TMSV](https://open.spotify.com/artist/3gy5cNrDadVI5kDFcYgelE) | [Zoned Out](https://open.spotify.com/album/7kztBY8GxGe5EdvSLT2nkg) | 5:15 | 2022-02-17 | 2023-02-18 |
-| [OMG](https://open.spotify.com/track/6MxPXzwQMsddiZ7evsLu3W) | [Tsuruda](https://open.spotify.com/artist/7CCrWKLbAto1EXI2eoG9Vu) | [OMG](https://open.spotify.com/album/1sx7gE6J1KLNR0f8uqmIlR) | 2:45 | 2024-02-16 |  |
+| [OMG](https://open.spotify.com/track/6MxPXzwQMsddiZ7evsLu3W) | [Tsuruda](https://open.spotify.com/artist/7CCrWKLbAto1EXI2eoG9Vu) | [OMG](https://open.spotify.com/album/1sx7gE6J1KLNR0f8uqmIlR) | 2:45 | 2024-02-16 | 2024-09-15 |
 | [On The Rocks](https://open.spotify.com/track/7ur5EWuxtY92yC8yasYhZg) | [Boogie T](https://open.spotify.com/artist/4zlw0jXUzd4dRcqI3Y1OiY) | [On The Rocks](https://open.spotify.com/album/6GgVFimVPQwycH7VTdtM5B) | 3:02 | 2024-03-22 |  |
 | [Oneness](https://open.spotify.com/track/77PQJG1op6vWwJldyXIi0E) | [Distance](https://open.spotify.com/artist/1FvQZpPhaVvSoQnpslxnvb) | [Oneness](https://open.spotify.com/album/6g69zaN5wm9YhmTX9PUoNC) | 4:10 | 2022-08-12 | 2023-07-22 |
 | [Operation High Jump](https://open.spotify.com/track/4j1kCLxPTg0Eoe9ORTCPVJ) | [Dark Tantrums](https://open.spotify.com/artist/3IS3VcgbwqLG5Oncu79fmE) | [Operation High Jump EP](https://open.spotify.com/album/6G1sToHWxMmSn8ul4tSvD4) | 5:43 | 2022-02-17 | 2022-07-29 |

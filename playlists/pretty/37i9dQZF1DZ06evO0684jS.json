@@ -1,12 +1,12 @@
 {
-  "description": "This is Nicki Minaj. The essential tracks, all in one playlist.",
-  "num_followers": 866981,
+  "description": "This is Nicki Minaj. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 867100,
   "original_name": "This Is Nicki Minaj",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuIvAAAAAAAERX7YaaUjnnF25tUrVo8j",
+  "snapshot_id": "ZuOAgAAAAACBJNOjE+Ap+5IOZncE26ho",
   "tracks": [
     {
       "added_at": null,
@@ -267,7 +267,7 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Pinkprint (International Deluxe Explicit)",
+        "name": "The Pinkprint - International Deluxe Explicit",
         "url": "https://open.spotify.com/album/40XGTQ7FN6Y3dZXJhKBe96"
       },
       "artists": [
@@ -767,7 +767,7 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Pinkprint (International Deluxe Explicit)",
+        "name": "The Pinkprint - International Deluxe Explicit",
         "url": "https://open.spotify.com/album/40XGTQ7FN6Y3dZXJhKBe96"
       },
       "artists": [
@@ -967,7 +967,7 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Pinkprint (Deluxe Edition)",
+        "name": "The Pinkprint - Deluxe Edition",
         "url": "https://open.spotify.com/album/5qs8T6ZHSrnllnOuUk6muC"
       },
       "artists": [
@@ -1079,26 +1079,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hot Girl Summer (feat. Nicki Minaj & Ty Dolla $ign)",
-        "url": "https://open.spotify.com/album/2Xqs4kJBrZAHN1XVqy9QOK"
+        "name": "Pink Friday 2",
+        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
       },
       "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        },
         {
           "name": "Nicki Minaj",
           "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 199427,
-      "name": "Hot Girl Summer (feat. Nicki Minaj & Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/5N1o6d8zGcSZSeMFkOUQOk"
+      "duration_ms": 132799,
+      "name": "Barbie Dangerous",
+      "url": "https://open.spotify.com/track/1fKT7RUtOf4xNEqctEFe5L"
     }
   ],
   "unique_name": "This Is Nicki Minaj",

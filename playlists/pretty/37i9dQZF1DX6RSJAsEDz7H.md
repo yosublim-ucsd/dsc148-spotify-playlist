@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RSJAsEDz7H.md) - [plain]
 
 > Listen to all the iconic tracks from GTA, all in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,114 likes - 144 songs - 10 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,277 likes - 144 songs - 10 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Still D.R.E.](https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [2001](https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N) | 4:30 |
-| 2 | [SOUTHSIDE](https://open.spotify.com/track/2wGKFglqnmWQdCqa1GMVIi) | [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98), [Cardo](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p) | [SOUTHSIDE](https://open.spotify.com/album/0rmYmwO3t0M88RsHRkzB7e) | 3:01 |
+| 2 | [SOUTHSIDE](https://open.spotify.com/track/2wGKFglqnmWQdCqa1GMVIi) | [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98), [Cardo Got Wings](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p) | [SOUTHSIDE](https://open.spotify.com/album/0rmYmwO3t0M88RsHRkzB7e) | 3:01 |
 | 3 | [It Was A Good Day](https://open.spotify.com/track/2qOm7ukLyHUXWyR4ZWLwxA) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [The Predator](https://open.spotify.com/album/71HM1CMYWeZzws8pyiEn46) | 4:20 |
 | 4 | [Welcome To The Jungle](https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 4:33 |
 | 5 | [THE CONTRACT – Mass](https://open.spotify.com/track/3I9LbsE1ukZG24wBOqCwiC) | [DāM\-FunK](https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z) | [DāM\-FunK Presents The Music of Grand Theft Auto Online Original Score](https://open.spotify.com/album/2bhA2miYR9z7etELwRl7Us) | 3:47 |

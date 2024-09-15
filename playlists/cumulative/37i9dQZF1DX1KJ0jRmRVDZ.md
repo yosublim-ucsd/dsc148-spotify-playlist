@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-1,193 songs - 2 day 20 hr 1 min
+1,194 songs - 2 day 20 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [Give Me Hack.](https://open.spotify.com/track/4YYwfHJXmbd4JPqnzxp2fN) | [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn) | [Give Me Hack.](https://open.spotify.com/album/0kwRgklTnQDN8MXbGjkkbe) | 2:33 | 2023-10-12 | 2023-10-25 |
 | [give me hack.](https://open.spotify.com/track/5TNnxcs3K8dFZT6u4xCzFW) | [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn) | [give me hack.](https://open.spotify.com/album/0OmVDeO71Ym4FMHHf4x2Uu) | 2:33 | 2023-10-12 | 2023-10-14 |
 | [GLOW](https://open.spotify.com/track/6AP21pc2X40IiXdiNZytN1) | [シユイ](https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O) | [GLOW](https://open.spotify.com/album/7vNqDHhm2UThG4t713JO1a) | 3:36 | 2023-10-05 | 2023-10-11 |
-| [Go\-Getters](https://open.spotify.com/track/1tAEybqqZ7d58wdgCwB9M9) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [Go\-Getters](https://open.spotify.com/album/7BLZ0IWHj61SqqsEcOEUTa) | 3:15 | 2024-07-09 |  |
+| [Go\-Getters](https://open.spotify.com/track/1tAEybqqZ7d58wdgCwB9M9) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [Go\-Getters](https://open.spotify.com/album/7BLZ0IWHj61SqqsEcOEUTa) | 3:15 | 2024-07-09 | 2024-09-15 |
 | [Good Style](https://open.spotify.com/track/75IaPQstjmMAeQywS5D4TY) | [Guiano](https://open.spotify.com/artist/1gIxoB0mBUoPr7rPyy31xf) | [Good Style](https://open.spotify.com/album/2XBhSYeokUllVBcnT3i4ll) | 3:56 | 2024-03-26 | 2024-04-11 |
 | [good time](https://open.spotify.com/track/7vLR5hYebH7l7CCRoZZ21f) | [UniteUp!](https://open.spotify.com/artist/21CL9McUjHLfV1g3rJKeBo), [二条瑛士郎](https://open.spotify.com/artist/0RIr0bT6YEaqInva42lKBS) | [good time](https://open.spotify.com/album/2J7uuTCcBiIqNYF3C8Zgky) | 3:34 | 2022-08-25 | 2022-09-15 |
 | [gozennreiji、gatasunokutsuha](https://open.spotify.com/track/2O3MN7anJ1TeBOTztMJ2mV) | [Soraru](https://open.spotify.com/artist/2hRrM4EVq5bjYRHQvX7goz) | [soukutomaerchensanka](https://open.spotify.com/album/4uXZxB5lmd7cTTaECdLZ3l) | 4:18 | 2022-10-04 | 2022-10-12 |
@@ -931,6 +931,7 @@
 | [已己巳己](https://open.spotify.com/track/4Uvh91D9Y7eKwW3AypSM0f) | [Sori Sawada](https://open.spotify.com/artist/2DVBuwrrWkKGMcohF3wVnF) | [已己巳己](https://open.spotify.com/album/7c58ceNSodMXpt6uhMHpHl) | 6:23 | 2024-02-13 | 2024-02-15 |
 | [常夜灯](https://open.spotify.com/track/01G8DBO1vGToXaaDCw1V4J) | [Sou](https://open.spotify.com/artist/04ZUR9nJSI7nr1ZrHKLGJ8) | [常夜灯](https://open.spotify.com/album/2dGGoQkcQWq7w8tzzfyMw5) | 4:00 | 2022-06-16 | 2022-07-15 |
 | [弱虫のラブソング](https://open.spotify.com/track/0M7ZN4vDM3RsOTvb1G8H8z) | [メガテラ・ゼロ](https://open.spotify.com/artist/4I7F7bTQ9tBnRI2razDP9B) | [弱虫のラブソング](https://open.spotify.com/album/2Os4vEqSNwNtX0xzsgDV6b) | 4:42 | 2022-07-28 | 2022-08-17 |
+| [弾きこもり](https://open.spotify.com/track/7nujhR6eck3NCE2oQRyDFz) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [弾きこもり](https://open.spotify.com/album/4qVclJ7bWURb4dn6pD693e) | 2:59 | 2024-09-03 |  |
 | [彼此のコレカラ](https://open.spotify.com/track/0RZ0eeWpnMBcH0MVKIqTsx) | [meiyo](https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9) | [彼此のコレカラ](https://open.spotify.com/album/69P9sIpAVY3mcUrzhwRKTX) | 2:33 | 2022-08-25 | 2022-09-07 |
 | [往生際の意味を知れ!](https://open.spotify.com/track/7sdzicvFf1SlZXBahVjSTn) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [往生際の意味を知れ!](https://open.spotify.com/album/6uW1aOg3jHnj4VN1l7rfwU) | 2:59 | 2023-03-08 | 2023-04-12 |
 | [心という名の不可解](https://open.spotify.com/track/5dwkmgutIFdurpXlzEyCtB) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [狂言](https://open.spotify.com/album/0tDsHtvN9YNuZjlqHvDY2P) | 4:29 | 2022-06-09 | 2022-10-28 |

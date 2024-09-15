@@ -15935,6 +15935,32 @@
     },
     {
       "album": {
+        "name": "I FOUND YOU",
+        "url": "https://open.spotify.com/album/5bEQqVxc2VDjMHGvxiXx5p"
+      },
+      "artists": [
+        {
+          "name": "Switch Disco",
+          "url": "https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki"
+        },
+        {
+          "name": "Charlotte Haining",
+          "url": "https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w"
+        },
+        {
+          "name": "Felix",
+          "url": "https://open.spotify.com/artist/6iRRErKYy1iojOaJoq6Ltk"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173409,
+      "name": "I FOUND YOU",
+      "url": "https://open.spotify.com/track/06EtCEDJ762K9frHeSkJS5"
+    },
+    {
+      "album": {
         "name": "I GOT YOU",
         "url": "https://open.spotify.com/album/6RZHj6L3NqrvcKeiBHQbjL"
       },

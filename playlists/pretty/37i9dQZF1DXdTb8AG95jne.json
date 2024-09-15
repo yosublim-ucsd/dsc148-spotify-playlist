@@ -1,6 +1,6 @@
 {
   "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: Savina & Drones(\uc0ac\ube44\ub098\uc564\ub4dc\ub860\uc988)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 473453,
+  "num_followers": 473531,
   "original_name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "owner": {
     "name": "Spotify",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-09-13 09:10:29",
       "album": {
-        "name": "COME CLOSER",
-        "url": "https://open.spotify.com/album/2rdXzqWmDgzIfjUPUovQiD"
-      },
-      "artists": [
-        {
-          "name": "LEO",
-          "url": "https://open.spotify.com/artist/6xr9i4ozDKCobWg5lUKHPj"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "Come Closer",
-      "url": "https://open.spotify.com/track/0Sep7VIdLwWPVhtxKsCxRm"
-    },
-    {
-      "added_at": "2024-09-13 09:10:29",
-      "album": {
         "name": "pool vol. 2 - Peanut Butter Sandwich",
         "url": "https://open.spotify.com/album/3yItJ86DsLRh9OynW2x8pV"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 231386,
       "name": "Peanut butter Sandwich",
       "url": "https://open.spotify.com/track/3A76bRRuVaIJrV8mrVeb21"
+    },
+    {
+      "added_at": "2024-09-13 09:10:29",
+      "album": {
+        "name": "COME CLOSER",
+        "url": "https://open.spotify.com/album/2rdXzqWmDgzIfjUPUovQiD"
+      },
+      "artists": [
+        {
+          "name": "LEO",
+          "url": "https://open.spotify.com/artist/6xr9i4ozDKCobWg5lUKHPj"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Come Closer",
+      "url": "https://open.spotify.com/track/0Sep7VIdLwWPVhtxKsCxRm"
     },
     {
       "added_at": "2024-09-13 09:10:29",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-09-13 09:10:29",
       "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/4o72fxboi0RopWUmOTRxoe"
-      },
-      "artists": [
-        {
-          "name": "Meaningful Stone",
-          "url": "https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt"
-        }
-      ],
-      "duration_ms": 259428,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/6eqqVvqRJS5T3WCYMsj946"
-    },
-    {
-      "added_at": "2024-09-13 09:10:29",
-      "album": {
         "name": "Hug me tight",
         "url": "https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 227756,
       "name": "Hug me tight",
       "url": "https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4"
+    },
+    {
+      "added_at": "2024-09-13 09:10:29",
+      "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/4o72fxboi0RopWUmOTRxoe"
+      },
+      "artists": [
+        {
+          "name": "Meaningful Stone",
+          "url": "https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt"
+        }
+      ],
+      "duration_ms": 259428,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/6eqqVvqRJS5T3WCYMsj946"
     },
     {
       "added_at": "2024-09-13 09:10:29",

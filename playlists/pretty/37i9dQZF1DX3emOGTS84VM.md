@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3emOGTS84VM.md) - [plain]
 
 > 二日酔いに効くサウンド…そんなものがあるのだろうか？でもコレなら確かに効くかも！をテーマに、Spotifyとblock.fmがお届けするチルアウトでスロウなコラボプレイリスト。毎週土曜日更新！
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,343 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,359 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [nothing to prove \- nothing to prove](https://open.spotify.com/track/00aCDlXZz5QkJkqTOfmf4Z) | [Allysha Joy](https://open.spotify.com/artist/3CzYPWEnpaODw56A53qxh3) | [The Making of Silk](https://open.spotify.com/album/1qKxPhi99A7V2phU2dGk7q) | 4:14 |
+| 1 | [nothing to prove](https://open.spotify.com/track/00aCDlXZz5QkJkqTOfmf4Z) | [Allysha Joy](https://open.spotify.com/artist/3CzYPWEnpaODw56A53qxh3) | [The Making of Silk](https://open.spotify.com/album/1qKxPhi99A7V2phU2dGk7q) | 4:14 |
 | 2 | [Bloody Bouquets](https://open.spotify.com/track/5qbJK62OGEkPB1jkeH1hTa) | [Demae](https://open.spotify.com/artist/1HkWfjmOohAg7lS9bv1QcL) | [Deliver Me](https://open.spotify.com/album/1loTEiFpkWnWgOEtAavZna) | 3:29 |
 | 3 | [Done With You \- Live](https://open.spotify.com/track/1vKgdhfQIqs2YyesSy4ZG2) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [God Said No \- Live](https://open.spotify.com/album/1C70Mzr5hMLbtDzyxcJHCn) | 2:57 |
 | 4 | [Bad News](https://open.spotify.com/track/7lMYOIoIM5c3E5t8tndUcv) | [Bathe](https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK) | [Inside Voice\(s\): Side A](https://open.spotify.com/album/53wjqCFLDtqYkthnsJlQeY) | 2:07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6r8hObcpBOeuCd7Zua3L5E.md) - [plain]
 
 > <a href="https://lnk.to/EndOfYearSaleOS">All these hits available to buy on vinyl here!</a> Sped up songs on the internet\. Sped up versions\. Sped up audio\. Speed audio\. Speed audios\. Speed up songs\. Nightcore\. Sped up nightcore.
 
-[Digster Global](https://open.spotify.com/user/digster.fm) - 24,231 likes - 51 songs - 2 hr 25 min
+[Digster Global](https://open.spotify.com/user/digster.fm) - 24,230 likes - 51 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/6r8hObcpBOeuCd7Zua3L5E.md) - [plain]
 | 18 | [moonlight \(kali uchis\) \- sped up version](https://open.spotify.com/track/1TL4lgjSoc9SeKKjLhDO1n) | [sped up viral](https://open.spotify.com/artist/3hYgfaELzhbTbvax70GtqM), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [moonlight \(kali uchis\) \[sped up version\]](https://open.spotify.com/album/74aBi8IE2YGBM3BfmpX1R1) | 2:36 |
 | 19 | [Die For You \- Sped Up](https://open.spotify.com/track/4LR9G3Vr27KaqrNm9aymBq) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Die For You](https://open.spotify.com/album/0hZdHrGRGnRKxmfabZme18) | 3:43 |
 | 20 | [LOOK DON'T TOUCH \- Sped Up](https://open.spotify.com/track/3SIJtSQcIuJukZ2awP3EJq) | [ODECORE](https://open.spotify.com/artist/3GMH7ApqfVpvBM1MuToQR7), [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [cade clair](https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm) | [LOOK DON'T TOUCH \(STARE STARE STARE\)](https://open.spotify.com/album/3quZlwSsK1qyhiwqLx95te) | 2:08 |
-| 21 | [Side Effects \- Sped Up](https://open.spotify.com/track/4GceGTyl2e3Fellw9Sgtw7) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH) | [Side Effects \(Shouse Remix\)](https://open.spotify.com/album/4YLDJpJeAGgnzhx3LDXDUL) | 2:05 |
+| 21 | [Side Effects \- Sped Up](https://open.spotify.com/track/4GceGTyl2e3Fellw9Sgtw7) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH) | [Side Effects \- Shouse Remix](https://open.spotify.com/album/4YLDJpJeAGgnzhx3LDXDUL) | 2:05 |
 | 22 | [Make Your Own Kind Of Music \- Sped Up](https://open.spotify.com/track/07cI1xbCgrynXsXb6MIg7R) | [Cass Elliot](https://open.spotify.com/artist/5jX7X3kRkfJTRqAdT7RcHk), [ex7stence](https://open.spotify.com/artist/24VULASL3GkrIpKGZUJQBd), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Make Your Own Kind Of Music \(Sped Up\)](https://open.spotify.com/album/1gCLPuA568YBJk5wcuPyfn) | 2:06 |
 | 23 | [LIMBO \- Sped Up Version](https://open.spotify.com/track/1KV4uK3MAneG77PM2bJhqs) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [LIMBO \(Sped Up Version\)](https://open.spotify.com/album/5gKGT4zR71qZ5ylVvWjzNB) | 3:06 |
 | 24 | [Wicked Games \- Sped Up](https://open.spotify.com/track/2gD25C4hWZoQeGNlfqCAK2) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER), [Esteve](https://open.spotify.com/artist/5vxQVYuckN4XHIB46zPvXy) | [Wicked Games \(Sped Up\)](https://open.spotify.com/album/4C5wHfZutXxy8BlqegHYHw) | 2:36 |

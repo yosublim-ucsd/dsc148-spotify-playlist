@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 
 > Poslechněte si ženy z Česka a Slovenska na plnou hlasitost\. Cover: LUISA
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,082 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,080 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 | 20 | [V Tento Deň](https://open.spotify.com/track/6boXz3YTTtPLIKgWOHq1zt) | [Karmen Pál\-Baláž](https://open.spotify.com/artist/3qBKcy63XBz6S907Xx9iIE) | [V Tento Deň](https://open.spotify.com/album/2fR7dASRtdYchdAy4oPf38) | 2:50 |
 | 21 | [Vzkaz](https://open.spotify.com/track/4GBrPCcRe9O8g7TNdGga1s) | [Nikol Votrubová](https://open.spotify.com/artist/4idR7ndr39sog0cikuhMlk) | [Vzkaz](https://open.spotify.com/album/4FlxUPV0wA6cLE16Yjz4JR) | 3:01 |
 | 22 | [Dance Like Me](https://open.spotify.com/track/626lpYVEUskwxlNPQCR5Jg) | [Barbora Piešová](https://open.spotify.com/artist/3DoE735qK35SCZrRIYlmgv) | [Dance Like Me](https://open.spotify.com/album/3jj9YMVT1HRDOpInXKi3J2) | 2:37 |
-| 23 | [busy feat\. Katannah](https://open.spotify.com/track/6b5Dc785SNrn9DCsrj7yWP) | [Pam Rabbit](https://open.spotify.com/artist/60jJZhMQOPHeCvoBosXVWU), [Katannah](https://open.spotify.com/artist/4FlpITxeMarYCggIrcOE6j) | [I LOVE THE INTERNET \(DELUXE\)](https://open.spotify.com/album/6FTME3xp0SfeYX2nz7R1gS) | 2:44 |
+| 23 | [busy feat\. Katannah](https://open.spotify.com/track/6b5Dc785SNrn9DCsrj7yWP) | [Pam Rabbit](https://open.spotify.com/artist/60jJZhMQOPHeCvoBosXVWU), [Katannah](https://open.spotify.com/artist/4FlpITxeMarYCggIrcOE6j) | [I LOVE THE INTERNET \- DELUXE](https://open.spotify.com/album/6FTME3xp0SfeYX2nz7R1gS) | 2:44 |
 | 24 | [VLNY](https://open.spotify.com/track/5yjYmx8drRBAkrzW8sPbO0) | [Ewa Farna](https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC) | [VLNY](https://open.spotify.com/album/0jQwunxrf55TOJytSMv1aY) | 2:57 |
 | 25 | [Slzy](https://open.spotify.com/track/6Ljm0tpsmGqhi9wBXD8yiz) | [Eva Buresova](https://open.spotify.com/artist/2wqjvdaJ8YYyZpJDptlFtu) | [Slzy](https://open.spotify.com/album/1prATMytrn7ZqUd29CLezu) | 3:19 |
 | 26 | [Dlouhá noc](https://open.spotify.com/track/0bOTQdie3IuSZUfbhgiudi) | [Helena Vondráčková](https://open.spotify.com/artist/3iHwsEoQOrf8uxVkLtWyD7), [Mark Voss](https://open.spotify.com/artist/7Ll0uPjEkxBOECEQBaOQik) | [Dlouhá noc \(Dance Hits Collection\)](https://open.spotify.com/album/05ge9Vfycgglfgzr0cWHrP) | 3:14 |

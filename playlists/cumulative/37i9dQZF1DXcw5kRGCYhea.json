@@ -303,6 +303,28 @@
     },
     {
       "album": {
+        "name": "Blaka",
+        "url": "https://open.spotify.com/album/3S27NFPQNAWEClcX7aRL8J"
+      },
+      "artists": [
+        {
+          "name": "FRIZZY",
+          "url": "https://open.spotify.com/artist/6lje8MItIXqiZ1fvg4ti3a"
+        },
+        {
+          "name": "Soufiane Az",
+          "url": "https://open.spotify.com/artist/28Q2uRWOQJHFGUy1VBCY04"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Blaka",
+      "url": "https://open.spotify.com/track/5lffk2bgHBfnNtAYbEQveZ"
+    },
+    {
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/029ymf5WOrdIbvXv1EdmSN"
       },
@@ -1460,7 +1482,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 143551,
       "name": "Madama",
       "url": "https://open.spotify.com/track/6jzV27cHgFjY5Cbl6HP8XK"
@@ -1610,6 +1632,24 @@
       "duration_ms": 194250,
       "name": "Mocro Mafia (feat. Maes)",
       "url": "https://open.spotify.com/track/0r8Pe1yr2aw04IXFP00sC5"
+    },
+    {
+      "album": {
+        "name": "Monaco",
+        "url": "https://open.spotify.com/album/66RMOoAVg0WDEs9hmv48ZT"
+      },
+      "artists": [
+        {
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+        }
+      ],
+      "date_added": "2024-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141314,
+      "name": "Monaco",
+      "url": "https://open.spotify.com/track/2tT8SYE7NnNDKbBsHWPIDY"
     },
     {
       "album": {
@@ -2504,7 +2544,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-15",
       "duration_ms": 165353,
       "name": "Tiki Taka",
       "url": "https://open.spotify.com/track/0K55ldOka1q2n10pRLSTvs"
