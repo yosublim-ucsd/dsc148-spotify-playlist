@@ -1,4 +1,4 @@
-## Playlists \(8192\)
+## Playlists \(8193\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -7809,6 +7809,7 @@
 - [oh no, our christmas tree, it's broken](/playlists/pretty/37i9dQZF1DX75ZvBeIGXoD.md)
 - [oiii](/playlists/pretty/37i9dQZF1DXcSVNtcbJ15L.md)
 - [omw](/playlists/pretty/37i9dQZF1DX8OR0U4UGusN.md)
+- [on repeat + repeat rewind](/playlists/pretty/1g3cN4JRE3PKmcCxL0OSN3.md)
 - [oriental lofi](/playlists/pretty/37i9dQZF1DWTdBIyTaKDBw.md)
 - [outliers](/playlists/pretty/37i9dQZF1DX7oMO417tEZs.md)
 - [pa llorar](/playlists/pretty/37i9dQZF1DX2dMFJ2AT5e5.md)
