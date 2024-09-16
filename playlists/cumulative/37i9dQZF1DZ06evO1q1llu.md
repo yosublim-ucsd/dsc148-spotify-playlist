@@ -2,7 +2,7 @@
 
 ### [This Is The Kid LAROI](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1q1llu)
 
-> This is The Kid LAROI\. Todos os maiores hits em uma só playlist.
+> This is The Kid LAROI\. The essential tracks, all in one playlist.
 
 56 songs - 2 hr 27 min
 

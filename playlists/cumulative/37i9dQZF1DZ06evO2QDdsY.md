@@ -2,7 +2,7 @@
 
 ### [This Is Valerie June](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2QDdsY)
 
-> This Is Valerie June\. Los temas esenciales, todos en una lista.
+> This is Valerie June\. The essential tracks, all in one playlist.
 
 75 songs - 4 hr 17 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Felipe Araújo com Felipe & Rodrigo, Matuê, Ana Castela  e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,936,314 likes - 83 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,936,496 likes - 83 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 82 | [Sequência de Tapa \- inHouse](https://open.spotify.com/track/4OD7hK71JTLS6r7swC8Fo8) | [Dj Ramon Sucesso](https://open.spotify.com/artist/4TU1r1V7Xp6Ov2X2irfm3J), [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2) | [Sequência de Tapa \- inHouse](https://open.spotify.com/album/6wmBk17q3Kgar4Sg3LV8kG) | 1:46 |
 | 83 | [tudo com você vira arte](https://open.spotify.com/track/63qiEme3qWfjJlkcRqdhdk) | [BIAB](https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF), [Maui](https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed) | [tudo com você vira arte](https://open.spotify.com/album/1CyRf28cqFaHTeYvFgmuPq) | 2:40 |
 
-Snapshot ID: `ZuRxGAAAAACEsJWzX795Z8WAbr62JQVe`
+Snapshot ID: `ZuRxGAAAAAA7rzITBiGMSkBXqqgawLle`

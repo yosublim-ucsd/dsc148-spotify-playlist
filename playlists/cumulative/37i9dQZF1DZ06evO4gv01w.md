@@ -2,7 +2,7 @@
 
 ### [This Is Larkin Poe](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4gv01w)
 
-> This is Larkin Poe\. Todos os maiores hits em uma só playlist.
+> This is Larkin Poe。アーティストの代表曲をひとつのプレイリストに。
 
 148 songs - 8 hr 24 min
 

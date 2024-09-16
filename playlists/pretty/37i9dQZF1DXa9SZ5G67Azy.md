@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9SZ5G67Azy.md) - [plain]
 
 > Un poco de esto, un poco de lo otro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,211 likes - 79 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,201 likes - 79 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

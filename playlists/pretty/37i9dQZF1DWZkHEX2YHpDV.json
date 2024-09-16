@@ -1,6 +1,6 @@
 {
   "description": "pop punk, emo, post-hardcore, alt & more. Cover: State Champs",
-  "num_followers": 456104,
+  "num_followers": 456129,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
@@ -515,22 +515,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Fake As Hell (with Avril Lavigne)",
-        "url": "https://open.spotify.com/album/39fNnKFUvJIyEyItTOoc9Z"
+        "name": "Blow It",
+        "url": "https://open.spotify.com/album/19O52p5ZCj30KUQ6rwPrpk"
       },
       "artists": [
         {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        },
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+          "name": "Jack Kays",
+          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
         }
       ],
-      "duration_ms": 179166,
-      "name": "Fake As Hell (with Avril Lavigne)",
-      "url": "https://open.spotify.com/track/7bbhu051CI6krV0M6lv7tl"
+      "duration_ms": 164283,
+      "name": "Blow It",
+      "url": "https://open.spotify.com/track/4uCDa4YimMEPVYux3C41Cl"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -547,22 +543,6 @@
       "duration_ms": 164546,
       "name": "Shhhh! Golf is On",
       "url": "https://open.spotify.com/track/5r7vuSx8Z7j4dK9I4Q6wch"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Blow It",
-        "url": "https://open.spotify.com/album/19O52p5ZCj30KUQ6rwPrpk"
-      },
-      "artists": [
-        {
-          "name": "Jack Kays",
-          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
-        }
-      ],
-      "duration_ms": 164283,
-      "name": "Blow It",
-      "url": "https://open.spotify.com/track/4uCDa4YimMEPVYux3C41Cl"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -611,6 +591,26 @@
       "duration_ms": 228372,
       "name": "Walk This World With Me",
       "url": "https://open.spotify.com/track/3YAbKZu8vQYOg8ddPOBV3T"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Fake As Hell (with Avril Lavigne)",
+        "url": "https://open.spotify.com/album/39fNnKFUvJIyEyItTOoc9Z"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        },
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 179166,
+      "name": "Fake As Hell (with Avril Lavigne)",
+      "url": "https://open.spotify.com/track/7bbhu051CI6krV0M6lv7tl"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -707,6 +707,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "People Watching",
+        "url": "https://open.spotify.com/album/3DS7XjGjZHW6aL8BSJogSE"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        }
+      ],
+      "duration_ms": 181881,
+      "name": "People Watching",
+      "url": "https://open.spotify.com/track/6WKc3CetpaIRyDmukASzYi"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "blindfolded",
         "url": "https://open.spotify.com/album/3JXhXZLWuq6noobhcwK22i"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 196301,
       "name": "GODDAMNITALL",
       "url": "https://open.spotify.com/track/1zXT1kn3JooDmW88EpqVVr"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "People Watching",
-        "url": "https://open.spotify.com/album/3DS7XjGjZHW6aL8BSJogSE"
-      },
-      "artists": [
-        {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
-        }
-      ],
-      "duration_ms": 181881,
-      "name": "People Watching",
-      "url": "https://open.spotify.com/track/6WKc3CetpaIRyDmukASzYi"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Nobody\u2019s",
-        "url": "https://open.spotify.com/album/46e2HEQghpFuXNVHTNz6hT"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 135897,
-      "name": "Nobody\u2019s",
-      "url": "https://open.spotify.com/track/609A6oa4P6iD0YY8cxNeMU"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Lessons That We Swear to Keep",
         "url": "https://open.spotify.com/album/6xlDMMUoYLehP6ctcYnApt"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 171160,
       "name": "A Part Is Better Than Zero",
       "url": "https://open.spotify.com/track/543wagQkIF3rRZQh12hoQH"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Nobody\u2019s",
+        "url": "https://open.spotify.com/album/46e2HEQghpFuXNVHTNz6hT"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 135897,
+      "name": "Nobody\u2019s",
+      "url": "https://open.spotify.com/track/609A6oa4P6iD0YY8cxNeMU"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Holy Smokes",
-        "url": "https://open.spotify.com/album/59n0gSGETWB3cvjHxVHPNu"
-      },
-      "artists": [
-        {
-          "name": "Bohnes",
-          "url": "https://open.spotify.com/artist/4aN7T7NNFFMRJgVbRPne8q"
-        }
-      ],
-      "duration_ms": 194039,
-      "name": "Holy Smokes",
-      "url": "https://open.spotify.com/track/0SACHSO3zWyljwcPkLOWOd"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Figure 8",
         "url": "https://open.spotify.com/album/6sdo6MlzIARRUlAqo8UMri"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 212727,
       "name": "Figure 8",
       "url": "https://open.spotify.com/track/5RZ1CPAYA2q3gxHBkZuJ84"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Holy Smokes",
+        "url": "https://open.spotify.com/album/59n0gSGETWB3cvjHxVHPNu"
+      },
+      "artists": [
+        {
+          "name": "Bohnes",
+          "url": "https://open.spotify.com/artist/4aN7T7NNFFMRJgVbRPne8q"
+        }
+      ],
+      "duration_ms": 194039,
+      "name": "Holy Smokes",
+      "url": "https://open.spotify.com/track/0SACHSO3zWyljwcPkLOWOd"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Sliding Doors",
-        "url": "https://open.spotify.com/album/5t77HLDFCo7yztX2rfj0Sr"
-      },
-      "artists": [
-        {
-          "name": "Boston Manor",
-          "url": "https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM"
-        }
-      ],
-      "duration_ms": 206333,
-      "name": "Sliding Doors",
-      "url": "https://open.spotify.com/track/0XlDSx6DftEGmjOS2TQ8wL"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "better than this",
         "url": "https://open.spotify.com/album/2VaKXOJ6RcIHwsYyWF6nlK"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 178165,
       "name": "better than this",
       "url": "https://open.spotify.com/track/53HsQKvda5AREIgqeCujU9"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Sliding Doors",
+        "url": "https://open.spotify.com/album/5t77HLDFCo7yztX2rfj0Sr"
+      },
+      "artists": [
+        {
+          "name": "Boston Manor",
+          "url": "https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM"
+        }
+      ],
+      "duration_ms": 206333,
+      "name": "Sliding Doors",
+      "url": "https://open.spotify.com/track/0XlDSx6DftEGmjOS2TQ8wL"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Swing and Sway",
-        "url": "https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW"
-      },
-      "artists": [
-        {
-          "name": "Greywind",
-          "url": "https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4"
-        }
-      ],
-      "duration_ms": 178253,
-      "name": "Swing and Sway",
-      "url": "https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Secondary Worship",
         "url": "https://open.spotify.com/album/7DL6CtEvsTtgX0C8MxmOWt"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 226903,
       "name": "Secondary Worship",
       "url": "https://open.spotify.com/track/4ypkMHJBXRdaaWdqwjixFc"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Swing and Sway",
+        "url": "https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW"
+      },
+      "artists": [
+        {
+          "name": "Greywind",
+          "url": "https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4"
+        }
+      ],
+      "duration_ms": 178253,
+      "name": "Swing and Sway",
+      "url": "https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "only overnight",
-        "url": "https://open.spotify.com/album/23bCI6XgLFrRQVQEORNP0R"
-      },
-      "artists": [
-        {
-          "name": "sace6",
-          "url": "https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS"
-        }
-      ],
-      "duration_ms": 182454,
-      "name": "only overnight",
-      "url": "https://open.spotify.com/track/1LR0zEve8HCcu3voGG076M"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Alameda County Fair",
         "url": "https://open.spotify.com/album/5w40aVPbA9bt9gQ4uYGh0P"
       },
@@ -1543,18 +1527,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "dead end friend",
-        "url": "https://open.spotify.com/album/4SZGDja3zMnkVIOf2UGzPZ"
+        "name": "only overnight",
+        "url": "https://open.spotify.com/album/23bCI6XgLFrRQVQEORNP0R"
       },
       "artists": [
         {
-          "name": "Four Year Strong",
-          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
+          "name": "sace6",
+          "url": "https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS"
         }
       ],
-      "duration_ms": 164887,
-      "name": "dead end friend",
-      "url": "https://open.spotify.com/track/6kAJ1j78stbpjEzFumaNAP"
+      "duration_ms": 182454,
+      "name": "only overnight",
+      "url": "https://open.spotify.com/track/1LR0zEve8HCcu3voGG076M"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1571,6 +1555,22 @@
       "duration_ms": 158175,
       "name": "WARZ0NE",
       "url": "https://open.spotify.com/track/3lJehRIz8KnVMbDgnVEhUP"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "dead end friend",
+        "url": "https://open.spotify.com/album/4SZGDja3zMnkVIOf2UGzPZ"
+      },
+      "artists": [
+        {
+          "name": "Four Year Strong",
+          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
+        }
+      ],
+      "duration_ms": 164887,
+      "name": "dead end friend",
+      "url": "https://open.spotify.com/track/6kAJ1j78stbpjEzFumaNAP"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Breaking Up With",
+        "url": "https://open.spotify.com/album/2FTXKWHVPdpZkRCYnG1d3L"
+      },
+      "artists": [
+        {
+          "name": "RedHook",
+          "url": "https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI"
+        }
+      ],
+      "duration_ms": 199412,
+      "name": "Breaking Up With",
+      "url": "https://open.spotify.com/track/5hJwhnnKiTgP3VySgUx5Xq"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Halloween Mixtape II",
         "url": "https://open.spotify.com/album/11K5RRCKRsn5RCYWBNniD5"
       },
@@ -1679,22 +1695,6 @@
       "duration_ms": 191539,
       "name": "Antidote",
       "url": "https://open.spotify.com/track/0ROIqKhl27uiOHlNZZV4XQ"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Breaking Up With",
-        "url": "https://open.spotify.com/album/2FTXKWHVPdpZkRCYnG1d3L"
-      },
-      "artists": [
-        {
-          "name": "RedHook",
-          "url": "https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI"
-        }
-      ],
-      "duration_ms": 199412,
-      "name": "Breaking Up With",
-      "url": "https://open.spotify.com/track/5hJwhnnKiTgP3VySgUx5Xq"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Can't See Straight",
-        "url": "https://open.spotify.com/album/76jpo9MP2lrWtR4x9qyDxU"
-      },
-      "artists": [
-        {
-          "name": "Can't Swim",
-          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
-        }
-      ],
-      "duration_ms": 63466,
-      "name": "Can't See Straight",
-      "url": "https://open.spotify.com/track/71MlY5h47k1txHLM1Z03qB"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "I'M IN THE MARKET TO PLEASE NO ONE",
         "url": "https://open.spotify.com/album/2vxhkK1zHVNKyf9VRdy6xP"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 160683,
       "name": "I'M IN THE MARKET TO PLEASE NO ONE",
       "url": "https://open.spotify.com/track/1kWQO5R5UylzN2myHqyi3r"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Can't See Straight",
+        "url": "https://open.spotify.com/album/76jpo9MP2lrWtR4x9qyDxU"
+      },
+      "artists": [
+        {
+          "name": "Can't Swim",
+          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
+        }
+      ],
+      "duration_ms": 63466,
+      "name": "Can't See Straight",
+      "url": "https://open.spotify.com/track/71MlY5h47k1txHLM1Z03qB"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Absolute Bloom",
-        "url": "https://open.spotify.com/album/5b6msyAHAio8tzWXOaYQsW"
-      },
-      "artists": [
-        {
-          "name": "Higher Power",
-          "url": "https://open.spotify.com/artist/6yv0Vd63iiAaW4665Cs9vT"
-        }
-      ],
-      "duration_ms": 205628,
-      "name": "Absolute Bloom",
-      "url": "https://open.spotify.com/track/2J2NIgMvtnIStg1ZfCiEjm"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Six Feet",
         "url": "https://open.spotify.com/album/1xFWyudHW6mEh3WYHPRRSI"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 181580,
       "name": "Six Feet",
       "url": "https://open.spotify.com/track/2aU60JTvtQOPQ7CPkpJrnz"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Absolute Bloom",
+        "url": "https://open.spotify.com/album/5b6msyAHAio8tzWXOaYQsW"
+      },
+      "artists": [
+        {
+          "name": "Higher Power",
+          "url": "https://open.spotify.com/artist/6yv0Vd63iiAaW4665Cs9vT"
+        }
+      ],
+      "duration_ms": 205628,
+      "name": "Absolute Bloom",
+      "url": "https://open.spotify.com/track/2J2NIgMvtnIStg1ZfCiEjm"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1859,6 +1859,26 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Don't Listen To My Voicemail",
+        "url": "https://open.spotify.com/album/76zdzOD8AliMDpch3KUtg3"
+      },
+      "artists": [
+        {
+          "name": "Your Broken Hero",
+          "url": "https://open.spotify.com/artist/2DTdvOlm8xrGEKe9JsaLeD"
+        },
+        {
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+        }
+      ],
+      "duration_ms": 178432,
+      "name": "Don't Listen To My Voicemail",
+      "url": "https://open.spotify.com/track/2n3GSvKOeHl2hp2htjjHh9"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "In The Morning",
         "url": "https://open.spotify.com/album/4eE2Pur89553Q6vc6wy73f"
       },
@@ -1883,22 +1903,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Don't Listen To My Voicemail",
-        "url": "https://open.spotify.com/album/76zdzOD8AliMDpch3KUtg3"
+        "name": "Thanks but No Thanks",
+        "url": "https://open.spotify.com/album/67uepYH5WaYipVDJnkWXyT"
       },
       "artists": [
         {
-          "name": "Your Broken Hero",
-          "url": "https://open.spotify.com/artist/2DTdvOlm8xrGEKe9JsaLeD"
-        },
-        {
-          "name": "Simple Plan",
-          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+          "name": "Can't Swim",
+          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
         }
       ],
-      "duration_ms": 178432,
-      "name": "Don't Listen To My Voicemail",
-      "url": "https://open.spotify.com/track/2n3GSvKOeHl2hp2htjjHh9"
+      "duration_ms": 186440,
+      "name": "i heard they found you face down inside your living room",
+      "url": "https://open.spotify.com/track/10lsv64UUfs9OSZyRG4aeB"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1931,22 +1947,6 @@
       "duration_ms": 210588,
       "name": "Make Your Way Back To Me",
       "url": "https://open.spotify.com/track/4rm0AaSomwKARe8tWmZa8X"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Thanks but No Thanks",
-        "url": "https://open.spotify.com/album/67uepYH5WaYipVDJnkWXyT"
-      },
-      "artists": [
-        {
-          "name": "Can't Swim",
-          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
-        }
-      ],
-      "duration_ms": 186440,
-      "name": "i heard they found you face down inside your living room",
-      "url": "https://open.spotify.com/track/10lsv64UUfs9OSZyRG4aeB"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -2219,22 +2219,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Stupefied",
-        "url": "https://open.spotify.com/album/2uDfhC6awFXvovXquieyzG"
-      },
-      "artists": [
-        {
-          "name": "Footballhead",
-          "url": "https://open.spotify.com/artist/2nwoELT7b1GI21sww1pRwd"
-        }
-      ],
-      "duration_ms": 172478,
-      "name": "Stupefied",
-      "url": "https://open.spotify.com/track/1Z9sCohQaZWYB8XzPMYMlp"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Over My Dead Body EP",
         "url": "https://open.spotify.com/album/1d5UIg8hyEyIi7olXI9nbT"
       },
@@ -2247,6 +2231,22 @@
       "duration_ms": 137229,
       "name": "Over My Dead Body",
       "url": "https://open.spotify.com/track/1ONYGY9f1xHTAVFbN2JkY9"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Stupefied",
+        "url": "https://open.spotify.com/album/2uDfhC6awFXvovXquieyzG"
+      },
+      "artists": [
+        {
+          "name": "Footballhead",
+          "url": "https://open.spotify.com/artist/2nwoELT7b1GI21sww1pRwd"
+        }
+      ],
+      "duration_ms": 172478,
+      "name": "Stupefied",
+      "url": "https://open.spotify.com/track/1Z9sCohQaZWYB8XzPMYMlp"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -2267,22 +2267,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Sour",
-        "url": "https://open.spotify.com/album/5M1Sl7MWUVktekMDVKZweJ"
-      },
-      "artists": [
-        {
-          "name": "Yours Truly",
-          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
-        }
-      ],
-      "duration_ms": 165858,
-      "name": "Sour",
-      "url": "https://open.spotify.com/track/1eEq2illl2lZlqawke83S8"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "American Psycho",
         "url": "https://open.spotify.com/album/2ILkMKiZC1vs6dtRKB3HvA"
       },
@@ -2295,6 +2279,22 @@
       "duration_ms": 185873,
       "name": "American Psycho",
       "url": "https://open.spotify.com/track/3oQkPjn9TE19bRxPPpWp08"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Sour",
+        "url": "https://open.spotify.com/album/5M1Sl7MWUVktekMDVKZweJ"
+      },
+      "artists": [
+        {
+          "name": "Yours Truly",
+          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
+        }
+      ],
+      "duration_ms": 165858,
+      "name": "Sour",
+      "url": "https://open.spotify.com/track/1eEq2illl2lZlqawke83S8"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -2351,6 +2351,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Waiting On Better Days",
+        "url": "https://open.spotify.com/album/0CmILxmHqhW8JdP6Re77Ze"
+      },
+      "artists": [
+        {
+          "name": "Wither Away",
+          "url": "https://open.spotify.com/artist/5qMmv2bWNnZOP0RLAzaHvM"
+        }
+      ],
+      "duration_ms": 214523,
+      "name": "Waiting On Better Days",
+      "url": "https://open.spotify.com/track/2wRaYER3ClLlHCRcq8FD7j"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Out Of My Mind",
         "url": "https://open.spotify.com/album/4HElf8g3yBVGo2usx3v68S"
       },
@@ -2371,18 +2387,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Waiting On Better Days",
-        "url": "https://open.spotify.com/album/0CmILxmHqhW8JdP6Re77Ze"
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/5AbO9dSzvvUI7OX8ttuuIC"
       },
       "artists": [
         {
-          "name": "Wither Away",
-          "url": "https://open.spotify.com/artist/5qMmv2bWNnZOP0RLAzaHvM"
+          "name": "Yours Truly",
+          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
         }
       ],
-      "duration_ms": 214523,
-      "name": "Waiting On Better Days",
-      "url": "https://open.spotify.com/track/2wRaYER3ClLlHCRcq8FD7j"
+      "duration_ms": 230976,
+      "name": "Call My Name",
+      "url": "https://open.spotify.com/track/5betEwymOveIl6bzmtFLle"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -2399,22 +2415,6 @@
       "duration_ms": 226573,
       "name": "lord have mercer",
       "url": "https://open.spotify.com/track/1lqmKTqstzskMaj8nwKLkJ"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Call My Name",
-        "url": "https://open.spotify.com/album/5AbO9dSzvvUI7OX8ttuuIC"
-      },
-      "artists": [
-        {
-          "name": "Yours Truly",
-          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
-        }
-      ],
-      "duration_ms": 230976,
-      "name": "Call My Name",
-      "url": "https://open.spotify.com/track/5betEwymOveIl6bzmtFLle"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -2471,22 +2471,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "How To Disappear",
-        "url": "https://open.spotify.com/album/677t2DpQNOqCZN6PFzPgJr"
-      },
-      "artists": [
-        {
-          "name": "Casey",
-          "url": "https://open.spotify.com/artist/7KqVvL7NOdUWyQg2B63cck"
-        }
-      ],
-      "duration_ms": 236181,
-      "name": "For Katie",
-      "url": "https://open.spotify.com/track/26icQ3gcv38DZXWX8euZYj"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/2IrrkgAgfGBo4ADlBNFTDl"
       },
@@ -2499,6 +2483,22 @@
       "duration_ms": 262800,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/1n1vdJoUCps9eEl1aK4lRO"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "How To Disappear",
+        "url": "https://open.spotify.com/album/677t2DpQNOqCZN6PFzPgJr"
+      },
+      "artists": [
+        {
+          "name": "Casey",
+          "url": "https://open.spotify.com/artist/7KqVvL7NOdUWyQg2B63cck"
+        }
+      ],
+      "duration_ms": 236181,
+      "name": "For Katie",
+      "url": "https://open.spotify.com/track/26icQ3gcv38DZXWX8euZYj"
     },
     {
       "added_at": "2024-08-23 04:00:00",

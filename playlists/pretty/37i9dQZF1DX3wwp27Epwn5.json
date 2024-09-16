@@ -1,6 +1,6 @@
 {
   "description": "Train insane with these Bollywood tracks.",
-  "num_followers": 193530,
+  "num_followers": 193586,
   "original_name": "Bollywood Workout",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,34 @@
     {
       "added_at": "2024-09-03 12:00:37",
       "album": {
+        "name": "Ghungroo (From \"War\")",
+        "url": "https://open.spotify.com/album/1FU97iwW5a0nV7wq3Mk5DQ"
+      },
+      "artists": [
+        {
+          "name": "Vishal-Shekhar",
+          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "duration_ms": 302935,
+      "name": "Ghungroo (From \"War\")",
+      "url": "https://open.spotify.com/track/0WdbnNKO0Jt4BZACSDQh44"
+    },
+    {
+      "added_at": "2024-09-03 12:00:37",
+      "album": {
         "name": "Humraah (From \"Malang - Unleash The Madness\")",
         "url": "https://open.spotify.com/album/1R72FwrqoofsuAM2xil26G"
       },
@@ -243,34 +271,6 @@
       "duration_ms": 188606,
       "name": "Illegal Weapon 2.0 (From \"Street Dancer 3D\")",
       "url": "https://open.spotify.com/track/5fXslGZPI5Cco6PKHzlSL3"
-    },
-    {
-      "added_at": "2024-09-03 12:00:37",
-      "album": {
-        "name": "Ghungroo (From \"War\")",
-        "url": "https://open.spotify.com/album/1FU97iwW5a0nV7wq3Mk5DQ"
-      },
-      "artists": [
-        {
-          "name": "Vishal-Shekhar",
-          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Shilpa Rao",
-          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
-        },
-        {
-          "name": "Kumaar",
-          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
-        }
-      ],
-      "duration_ms": 302935,
-      "name": "Ghungroo (From \"War\")",
-      "url": "https://open.spotify.com/track/0WdbnNKO0Jt4BZACSDQh44"
     },
     {
       "added_at": "2024-09-03 12:00:37",
@@ -527,30 +527,6 @@
     {
       "added_at": "2024-09-03 12:00:37",
       "album": {
-        "name": "Muqabla (From \"Street Dancer 3D\")",
-        "url": "https://open.spotify.com/album/3cK9AtRTNgQNfb2WzyhyYW"
-      },
-      "artists": [
-        {
-          "name": "Yash Narvekar",
-          "url": "https://open.spotify.com/artist/4RlnRVxKm3jnUzOP4czbIK"
-        },
-        {
-          "name": "Parampara Tandon",
-          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
-        },
-        {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
-        }
-      ],
-      "duration_ms": 176125,
-      "name": "Muqabla (From \"Street Dancer 3D\")",
-      "url": "https://open.spotify.com/track/28veUNu4veN0LOBVa0nFw8"
-    },
-    {
-      "added_at": "2024-09-03 12:00:37",
-      "album": {
         "name": "Malang (Title Track) [From \"Malang - Unleash The Madness\"]",
         "url": "https://open.spotify.com/album/6mMs3cpaMLQP3cOLG4wYRy"
       },
@@ -591,6 +567,30 @@
     {
       "added_at": "2024-09-03 12:00:37",
       "album": {
+        "name": "Muqabla (From \"Street Dancer 3D\")",
+        "url": "https://open.spotify.com/album/3cK9AtRTNgQNfb2WzyhyYW"
+      },
+      "artists": [
+        {
+          "name": "Yash Narvekar",
+          "url": "https://open.spotify.com/artist/4RlnRVxKm3jnUzOP4czbIK"
+        },
+        {
+          "name": "Parampara Tandon",
+          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        }
+      ],
+      "duration_ms": 176125,
+      "name": "Muqabla (From \"Street Dancer 3D\")",
+      "url": "https://open.spotify.com/track/28veUNu4veN0LOBVa0nFw8"
+    },
+    {
+      "added_at": "2024-09-03 12:00:37",
+      "album": {
         "name": "O Saki Saki (From \"Batla House\")",
         "url": "https://open.spotify.com/album/0te1B7RLmSG29MBoj0cKzq"
       },
@@ -623,58 +623,6 @@
     {
       "added_at": "2024-09-03 12:00:37",
       "album": {
-        "name": "Student of the Year (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1Q9pYTcpVfz0eJTZZczELy"
-      },
-      "artists": [
-        {
-          "name": "Vishal-Shekhar",
-          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
-        },
-        {
-          "name": "Shahid Mallya",
-          "url": "https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8"
-        },
-        {
-          "name": "Nisha Mascarenhas",
-          "url": "https://open.spotify.com/artist/06rb04GGkUUP0nZMWEs0P6"
-        },
-        {
-          "name": "Marianne D'Cruz Aiman",
-          "url": "https://open.spotify.com/artist/5kXfKycKZbS90vKTz62joF"
-        }
-      ],
-      "duration_ms": 262866,
-      "name": "Kukkad",
-      "url": "https://open.spotify.com/track/7DbE178OOsJfJKyiNObOsw"
-    },
-    {
-      "added_at": "2024-09-03 12:00:37",
-      "album": {
-        "name": "Garmi (From \"Street Dancer 3D\")",
-        "url": "https://open.spotify.com/album/6NYmsKroUtthf1XpzGSCx7"
-      },
-      "artists": [
-        {
-          "name": "Badshah",
-          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
-        },
-        {
-          "name": "Neha Kakkar",
-          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
-        },
-        {
-          "name": "Varun Dhawan",
-          "url": "https://open.spotify.com/artist/1P0xN5daAiUEebg0m8pY2O"
-        }
-      ],
-      "duration_ms": 182738,
-      "name": "Garmi (From \"Street Dancer 3D\") (feat. Varun Dhawan)",
-      "url": "https://open.spotify.com/track/6q9XTgfWilsnyiFofvYrIF"
-    },
-    {
-      "added_at": "2024-09-03 12:00:37",
-      "album": {
         "name": "Nadiyon Paar (Let the Music Play Again) [From \"Roohi\"]",
         "url": "https://open.spotify.com/album/2O5eyYEtqdbdixyQxDzCxi"
       },
@@ -699,6 +647,30 @@
       "duration_ms": 164045,
       "name": "Nadiyon Paar (Let the Music Play Again) (From \"Roohi\")",
       "url": "https://open.spotify.com/track/2PEo8JQ48mfEv8a2HLqDvt"
+    },
+    {
+      "added_at": "2024-09-03 12:00:37",
+      "album": {
+        "name": "Garmi (From \"Street Dancer 3D\")",
+        "url": "https://open.spotify.com/album/6NYmsKroUtthf1XpzGSCx7"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        },
+        {
+          "name": "Varun Dhawan",
+          "url": "https://open.spotify.com/artist/1P0xN5daAiUEebg0m8pY2O"
+        }
+      ],
+      "duration_ms": 182738,
+      "name": "Garmi (From \"Street Dancer 3D\") (feat. Varun Dhawan)",
+      "url": "https://open.spotify.com/track/6q9XTgfWilsnyiFofvYrIF"
     },
     {
       "added_at": "2024-09-03 12:00:37",
@@ -731,6 +703,34 @@
       "duration_ms": 179657,
       "name": "The Humma Song",
       "url": "https://open.spotify.com/track/7heMX7gyHP0mhTlNgd7Lxd"
+    },
+    {
+      "added_at": "2024-09-03 12:00:37",
+      "album": {
+        "name": "Student of the Year (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1Q9pYTcpVfz0eJTZZczELy"
+      },
+      "artists": [
+        {
+          "name": "Vishal-Shekhar",
+          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+        },
+        {
+          "name": "Shahid Mallya",
+          "url": "https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8"
+        },
+        {
+          "name": "Nisha Mascarenhas",
+          "url": "https://open.spotify.com/artist/06rb04GGkUUP0nZMWEs0P6"
+        },
+        {
+          "name": "Marianne D'Cruz Aiman",
+          "url": "https://open.spotify.com/artist/5kXfKycKZbS90vKTz62joF"
+        }
+      ],
+      "duration_ms": 262866,
+      "name": "Kukkad",
+      "url": "https://open.spotify.com/track/7DbE178OOsJfJKyiNObOsw"
     },
     {
       "added_at": "2024-09-03 12:00:37",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-09-03 12:00:37",
       "album": {
-        "name": "ONE - Original Never Ends",
-        "url": "https://open.spotify.com/album/1g1jWkfmIQPBwbUBc7VxTw"
-      },
-      "artists": [
-        {
-          "name": "Badshah",
-          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
-        }
-      ],
-      "duration_ms": 181764,
-      "name": "She Move It Like",
-      "url": "https://open.spotify.com/track/39vrbjCMTRXEdiIr2IsBgd"
-    },
-    {
-      "added_at": "2024-09-03 12:00:37",
-      "album": {
         "name": "Ginny Weds Sunny (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0uV4f6bZkuwb6BW1dZ3EPC"
       },
@@ -815,6 +799,26 @@
       "duration_ms": 226615,
       "name": "Sawan Mein Lag Gayi Aag",
       "url": "https://open.spotify.com/track/6oloWgrErtc8dG2WiV55gn"
+    },
+    {
+      "added_at": "2024-09-03 12:00:37",
+      "album": {
+        "name": "Buzz (feat. Badshah)",
+        "url": "https://open.spotify.com/album/5cPn3sDy8jjN5gnA0n0kHd"
+      },
+      "artists": [
+        {
+          "name": "Aastha Gill",
+          "url": "https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ"
+        },
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        }
+      ],
+      "duration_ms": 193413,
+      "name": "Buzz (feat. Badshah)",
+      "url": "https://open.spotify.com/track/3XYvdqcZrTmRntFDDbJkJd"
     },
     {
       "added_at": "2024-09-03 12:00:37",
@@ -847,46 +851,18 @@
     {
       "added_at": "2024-09-03 12:00:37",
       "album": {
-        "name": "Sonu Ke Titu Ki Sweety",
-        "url": "https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX"
+        "name": "ONE - Original Never Ends",
+        "url": "https://open.spotify.com/album/1g1jWkfmIQPBwbUBc7VxTw"
       },
       "artists": [
-        {
-          "name": "Yo Yo Honey Singh",
-          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
-        },
-        {
-          "name": "Simar Kaur",
-          "url": "https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1"
-        },
-        {
-          "name": "Ishers",
-          "url": "https://open.spotify.com/artist/1UHgzvQ7MJB9U2qlRtUJGo"
-        }
-      ],
-      "duration_ms": 226696,
-      "name": "Dil Chori",
-      "url": "https://open.spotify.com/track/6zojSFiUNySBy3Kd1JVCXb"
-    },
-    {
-      "added_at": "2024-09-03 12:00:37",
-      "album": {
-        "name": "Buzz (feat. Badshah)",
-        "url": "https://open.spotify.com/album/5cPn3sDy8jjN5gnA0n0kHd"
-      },
-      "artists": [
-        {
-          "name": "Aastha Gill",
-          "url": "https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ"
-        },
         {
           "name": "Badshah",
           "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
         }
       ],
-      "duration_ms": 193413,
-      "name": "Buzz (feat. Badshah)",
-      "url": "https://open.spotify.com/track/3XYvdqcZrTmRntFDDbJkJd"
+      "duration_ms": 181764,
+      "name": "She Move It Like",
+      "url": "https://open.spotify.com/track/39vrbjCMTRXEdiIr2IsBgd"
     },
     {
       "added_at": "2024-09-03 12:00:37",
@@ -939,42 +915,6 @@
     {
       "added_at": "2024-09-03 12:00:37",
       "album": {
-        "name": "Genda Phool (feat. Payal Dev)",
-        "url": "https://open.spotify.com/album/4wGiiYsZ5QR9vj3fa0L7UV"
-      },
-      "artists": [
-        {
-          "name": "Badshah",
-          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
-        },
-        {
-          "name": "Payal Dev",
-          "url": "https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7"
-        }
-      ],
-      "duration_ms": 170769,
-      "name": "Genda Phool (feat. Payal Dev)",
-      "url": "https://open.spotify.com/track/0gzu5mm36VJH2Zqu8sQPTf"
-    },
-    {
-      "added_at": "2024-09-03 12:00:37",
-      "album": {
-        "name": "Boss",
-        "url": "https://open.spotify.com/album/0mHODvSNdVtPZOP5pcNWep"
-      },
-      "artists": [
-        {
-          "name": "Yo Yo Honey Singh",
-          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
-        }
-      ],
-      "duration_ms": 282792,
-      "name": "Party All Night",
-      "url": "https://open.spotify.com/track/0fGImK9uWSruIRhKGyjUC0"
-    },
-    {
-      "added_at": "2024-09-03 12:00:37",
-      "album": {
         "name": "Mitron (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0jhDiAfzNalPhA0YmgI4df"
       },
@@ -995,6 +935,30 @@
       "duration_ms": 251640,
       "name": "Kamariya",
       "url": "https://open.spotify.com/track/5HJvDTnAaDWqhsE841I1QR"
+    },
+    {
+      "added_at": "2024-09-03 12:00:37",
+      "album": {
+        "name": "Sonu Ke Titu Ki Sweety",
+        "url": "https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        },
+        {
+          "name": "Simar Kaur",
+          "url": "https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1"
+        },
+        {
+          "name": "Ishers",
+          "url": "https://open.spotify.com/artist/1UHgzvQ7MJB9U2qlRtUJGo"
+        }
+      ],
+      "duration_ms": 226696,
+      "name": "Dil Chori",
+      "url": "https://open.spotify.com/track/6zojSFiUNySBy3Kd1JVCXb"
     },
     {
       "added_at": "2024-09-03 12:00:37",
@@ -1083,22 +1047,6 @@
     {
       "added_at": "2024-09-03 12:00:37",
       "album": {
-        "name": "Delhi Belly (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5InIzc3p2f9FRErhzNUPTi"
-      },
-      "artists": [
-        {
-          "name": "Ram Sampath",
-          "url": "https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx"
-        }
-      ],
-      "duration_ms": 241304,
-      "name": "Bhaag D.K. Bose, Aandhi Aayi",
-      "url": "https://open.spotify.com/track/1sxh0eqIb8ulYypPuq6ZRu"
-    },
-    {
-      "added_at": "2024-09-03 12:00:37",
-      "album": {
         "name": "Jawan",
         "url": "https://open.spotify.com/album/3WLJmMZUeDOuERFAk1Mxs6"
       },
@@ -1115,6 +1063,58 @@
       "duration_ms": 188102,
       "name": "Jawan Title Track",
       "url": "https://open.spotify.com/track/0lZhDg6xVjHLwL5zYd6nkL"
+    },
+    {
+      "added_at": "2024-09-03 12:00:37",
+      "album": {
+        "name": "Genda Phool (feat. Payal Dev)",
+        "url": "https://open.spotify.com/album/4wGiiYsZ5QR9vj3fa0L7UV"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Payal Dev",
+          "url": "https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7"
+        }
+      ],
+      "duration_ms": 170769,
+      "name": "Genda Phool (feat. Payal Dev)",
+      "url": "https://open.spotify.com/track/0gzu5mm36VJH2Zqu8sQPTf"
+    },
+    {
+      "added_at": "2024-09-03 12:00:37",
+      "album": {
+        "name": "Boss",
+        "url": "https://open.spotify.com/album/0mHODvSNdVtPZOP5pcNWep"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        }
+      ],
+      "duration_ms": 282792,
+      "name": "Party All Night",
+      "url": "https://open.spotify.com/track/0fGImK9uWSruIRhKGyjUC0"
+    },
+    {
+      "added_at": "2024-09-03 12:00:37",
+      "album": {
+        "name": "Delhi Belly (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5InIzc3p2f9FRErhzNUPTi"
+      },
+      "artists": [
+        {
+          "name": "Ram Sampath",
+          "url": "https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx"
+        }
+      ],
+      "duration_ms": 241304,
+      "name": "Bhaag D.K. Bose, Aandhi Aayi",
+      "url": "https://open.spotify.com/track/1sxh0eqIb8ulYypPuq6ZRu"
     },
     {
       "added_at": "2024-09-03 12:00:37",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-09-03 12:00:37",
       "album": {
-        "name": "Urvashi",
-        "url": "https://open.spotify.com/album/7gXEynlmX5QMPN4ZgyxMso"
-      },
-      "artists": [
-        {
-          "name": "Yo Yo Honey Singh",
-          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
-        }
-      ],
-      "duration_ms": 215483,
-      "name": "Urvashi",
-      "url": "https://open.spotify.com/track/342pJxy678kgQrZXCL9RG7"
-    },
-    {
-      "added_at": "2024-09-03 12:00:37",
-      "album": {
         "name": "Pushpa Pushpa (From \"Pushpa 2 The Rule\") [HINDI]",
         "url": "https://open.spotify.com/album/2B8A82Xt4J6AXZRXfFOQGh"
       },
@@ -1203,6 +1187,30 @@
       "duration_ms": 256040,
       "name": "Pushpa Pushpa (From \"Pushpa 2 The Rule\") [HINDI]",
       "url": "https://open.spotify.com/track/1o0bFBGkxgxCnu6mg2YrP1"
+    },
+    {
+      "added_at": "2024-09-03 12:00:37",
+      "album": {
+        "name": "Dus Bahane 2.0 (From \"Baaghi 3\") (feat. K.K., Shaan, Tulsi Kumar)",
+        "url": "https://open.spotify.com/album/6apDnjHHb93tIEiPyNxhba"
+      },
+      "artists": [
+        {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        },
+        {
+          "name": "Shekhar Ravjiani",
+          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+        },
+        {
+          "name": "Vishal-Shekhar",
+          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+        }
+      ],
+      "duration_ms": 201655,
+      "name": "Dus Bahane 2.0 (From \"Baaghi 3\") (feat. K.K., Shaan, Tulsi Kumar)",
+      "url": "https://open.spotify.com/track/0z9lOAVgQT5bysEKZ6Wwbk"
     }
   ],
   "unique_name": "Bollywood Workout",

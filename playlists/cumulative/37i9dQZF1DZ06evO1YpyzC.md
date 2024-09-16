@@ -4,7 +4,7 @@
 
 > This is Kane Brown\. The essential tracks, all in one playlist.
 
-89 songs - 4 hr 49 min
+90 songs - 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Cold Spot](https://open.spotify.com/track/3FbfTn3qdwNx9uKiefB9N9) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Kane Brown \(Deluxe Edition\)](https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp) | 3:37 | 2022-09-08 | 2023-03-23 |
 | [Comeback](https://open.spotify.com/track/0O39q1NfkVnMurlMwMAEZm) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Kane Brown \(Deluxe Edition\)](https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp) | 2:45 | 2022-09-21 | 2024-05-24 |
 | [Cool Again](https://open.spotify.com/track/5P3oaNpPDVLRJsL3152SEs) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Cool Again](https://open.spotify.com/album/2uqdv3ixmTDSnH1sZFk3y9) | 2:44 | 2022-09-08 |  |
-| [Country Classic \(From Twisters: The Album\)](https://open.spotify.com/track/58xxG8eWElqDvoDDKFPKNc) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Country Classic \(From Twisters: The Album\)](https://open.spotify.com/album/5unOxlH6I2wlFThxVhjJ3T) | 2:55 | 2024-07-21 |  |
+| [Country Classic](https://open.spotify.com/track/2iQ9sF1pVNmYLIv8fHhYPb) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Twisters: The Album](https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS) | 2:55 | 2024-09-16 |  |
+| [Country Classic \(From Twisters: The Album\)](https://open.spotify.com/track/58xxG8eWElqDvoDDKFPKNc) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Country Classic \(From Twisters: The Album\)](https://open.spotify.com/album/5unOxlH6I2wlFThxVhjJ3T) | 2:55 | 2024-07-21 | 2024-09-16 |
 | [Devil Don't Even Bother](https://open.spotify.com/track/6fmex87SKHr4B9vGCrBkzs) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 2:49 | 2022-09-10 | 2023-08-10 |
 | [Didn't Know What Love Was](https://open.spotify.com/track/7bPTaamEBQi5J5hvfsIZvf) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Mixtape Vol\. 1 \- EP](https://open.spotify.com/album/014fzAwHbsvUolo3ap8P38) | 3:07 | 2022-09-08 | 2022-09-10 |
 | [Different Man](https://open.spotify.com/track/2n99h7z08LvHr7Cjcnm1Ub) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 2:55 | 2022-09-10 |  |

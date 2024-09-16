@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes to dive into.
 
-662 songs - 1 day 21 hr 41 min
+663 songs - 1 day 21 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,6 +233,7 @@
 | [Global](https://open.spotify.com/track/3CuNX6KlrDFxBcwFp1NRwY) | [Egoless](https://open.spotify.com/artist/06kZZb0f2O9zUfFrkI7rKg) | [Decolonize](https://open.spotify.com/album/3Sz2i96qNwnlevouWxbeNz) | 6:27 | 2022-07-08 | 2024-04-05 |
 | [Global](https://open.spotify.com/track/418pbBTQTpUwNkydr9zo4y) | [Egoless](https://open.spotify.com/artist/06kZZb0f2O9zUfFrkI7rKg) | [Decolonize](https://open.spotify.com/album/2pVccXB0QBGOpfOGiNhasO) | 6:27 | 2022-02-17 | 2022-07-29 |
 | [Glory](https://open.spotify.com/track/2UnhLpz7PF9gZqq1v1YFSK) | [Odd Language](https://open.spotify.com/artist/6jo39RCQ903pfIWvev74XB) | [Glory](https://open.spotify.com/album/5q4tDYc2XCz2IdZjMQD8D8) | 3:05 | 2024-09-13 |  |
+| [Goblin \- 2024 Remaster](https://open.spotify.com/track/0EikGhoWleZXxtwJNUXtVy) | [Coki](https://open.spotify.com/artist/4WvwRJA3YhUn5J2caHXoAG) | [Goblin \(2024 Remaster & Hamdi Remix\)](https://open.spotify.com/album/6VV7XaCfPKDjwBT9tnA2TY) | 4:36 | 2024-09-13 |  |
 | [Good Day](https://open.spotify.com/track/16EHRzGqzzhNTiUpMx5r8n) | [Maddman](https://open.spotify.com/artist/7GCPF7s0Ud25ptkmIAKpqQ) | [Good Day](https://open.spotify.com/album/4CvS5NDYdK1wLZUN7MJQja) | 6:24 | 2022-02-17 | 2022-04-09 |
 | [GOOP](https://open.spotify.com/track/0tT6vs8ErNQ0yvgAXBdg3C) | [INFEKT](https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl) | [VEGGIE GAMES](https://open.spotify.com/album/6Zft5nkHMRA6f4Xfk9XSHt) | 2:40 | 2024-07-19 |  |
 | [gopher it](https://open.spotify.com/track/2YvxcEGBNgi1p4H3VDR0cy) | [um..](https://open.spotify.com/artist/4aTmeAJQIHvOYEpc5KxJ8x) | [gopher it](https://open.spotify.com/album/5kKegDHRlOi8UJjoSehl51) | 3:18 | 2022-07-01 | 2023-07-15 |
@@ -496,7 +497,7 @@
 | [Second Strike \(Kromestar Remix\)](https://open.spotify.com/track/2G181ro7GGNjCy7WzdFkRg) | [Daega Sound](https://open.spotify.com/artist/1LmBukKQBWsil6X00HYq37), [Kromestar](https://open.spotify.com/artist/0KcQg2Xc2IMImvAKbpZlhO) | [Gatekeeper / Second Strike](https://open.spotify.com/album/3L15AEBgZEAhS3H19Wae18) | 5:22 | 2022-02-17 | 2022-07-29 |
 | [Secret Society](https://open.spotify.com/track/2YcHCSassnhNCWu6KCQMCN) | [Pushloop](https://open.spotify.com/artist/4FgEa4SLDSV3oGpaFvlZi9) | [Midnight Wax](https://open.spotify.com/album/2JMJL7VIJZcZQjffjjwnVJ) | 4:06 | 2022-02-17 | 2024-08-24 |
 | [Seething Eyes](https://open.spotify.com/track/3BuSWoesMmhaEbvvw3schE) | [Slang Dogs](https://open.spotify.com/artist/53ZFs1OvVgCZVEVymMqnYj) | [Seething Eyes](https://open.spotify.com/album/1DLHwMmGwxEaIHTVm7vfIx) | 4:01 | 2024-04-05 |  |
-| [Seeu](https://open.spotify.com/track/5u5hHZkj4vRO3LolFcW26t) | [Floret Loret](https://open.spotify.com/artist/1SOahWJen3CxHs0e9eCmFe) | [Endeavors](https://open.spotify.com/album/2nvWDDeigkp5plUMbCP6pM) | 4:13 | 2024-08-19 |  |
+| [Seeu](https://open.spotify.com/track/5u5hHZkj4vRO3LolFcW26t) | [Floret Loret](https://open.spotify.com/artist/1SOahWJen3CxHs0e9eCmFe) | [Endeavors](https://open.spotify.com/album/2nvWDDeigkp5plUMbCP6pM) | 4:13 | 2024-08-19 | 2024-09-16 |
 | [Selekta](https://open.spotify.com/track/6RtL2HnugxsDR4MfUmMyHL) | [Goopsteppa](https://open.spotify.com/artist/0dXNe3Lre4kIsN8EKT5BxI) | [Selekta / Crstl Vip](https://open.spotify.com/album/6JTOLmMafGXTELc6iGoDrJ) | 3:00 | 2022-02-17 | 2023-08-16 |
 | [Sensi Dub](https://open.spotify.com/track/05OPr91FfXHTY1l0oONnss) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV) | [Sensi Dub](https://open.spotify.com/album/27fy27PL0uFmezHJK2kNJz) | 3:39 | 2024-03-29 |  |
 | [Shade](https://open.spotify.com/track/36ttV1VCMbegcpduOW6tMg) | [Zygos](https://open.spotify.com/artist/7555FTON3X5sDFo7SD2W4o) | [Pusher EP](https://open.spotify.com/album/7hKMjdXCErUw1KbZrRhqlF) | 4:36 | 2022-02-17 | 2022-07-29 |

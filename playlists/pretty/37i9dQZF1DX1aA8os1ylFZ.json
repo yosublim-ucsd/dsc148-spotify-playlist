@@ -1,6 +1,6 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 243193,
+  "num_followers": 243204,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-09-05 22:18:54",
       "album": {
-        "name": "11:11 (Deluxe)",
-        "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 175656,
-      "name": "Bruce Lee",
-      "url": "https://open.spotify.com/track/5AeEH69Mp87Zx3wNmyeAK0"
-    },
-    {
-      "added_at": "2024-09-05 22:18:54",
-      "album": {
         "name": "Good Good",
         "url": "https://open.spotify.com/album/42dnGUpj3OEU4anDNW69j3"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 188314,
       "name": "CALYPSO",
       "url": "https://open.spotify.com/track/3o2g4rjFVgHsRFSa2qcpgr"
+    },
+    {
+      "added_at": "2024-09-05 22:18:54",
+      "album": {
+        "name": "11:11 (Deluxe)",
+        "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 175656,
+      "name": "Bruce Lee",
+      "url": "https://open.spotify.com/track/5AeEH69Mp87Zx3wNmyeAK0"
     },
     {
       "added_at": "2024-09-05 22:18:54",
@@ -495,26 +495,6 @@
     {
       "added_at": "2024-09-05 22:18:54",
       "album": {
-        "name": "act iv: fckin u again (18+)",
-        "url": "https://open.spotify.com/album/6xarfJH1hiASL8Vs6KhtQK"
-      },
-      "artists": [
-        {
-          "name": "4batz",
-          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
-        },
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 195528,
-      "name": "act iv: fckin u again (18+)",
-      "url": "https://open.spotify.com/track/1NuOeIi5ChqiUZpbbLK8tr"
-    },
-    {
-      "added_at": "2024-09-05 22:18:54",
-      "album": {
         "name": "That's You",
         "url": "https://open.spotify.com/album/4oFFTDK2Af6FOPvoafwKjV"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 239384,
       "name": "Crystal Tears",
       "url": "https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf"
+    },
+    {
+      "added_at": "2024-09-05 22:18:54",
+      "album": {
+        "name": "act iv: fckin u again (18+)",
+        "url": "https://open.spotify.com/album/6xarfJH1hiASL8Vs6KhtQK"
+      },
+      "artists": [
+        {
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        },
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 195528,
+      "name": "act iv: fckin u again (18+)",
+      "url": "https://open.spotify.com/track/1NuOeIi5ChqiUZpbbLK8tr"
     },
     {
       "added_at": "2024-09-05 22:18:54",
@@ -675,18 +675,22 @@
     {
       "added_at": "2024-09-05 22:18:54",
       "album": {
-        "name": "Boys Like U",
-        "url": "https://open.spotify.com/album/20Lna2QqNErPjA4lRDUGoX"
+        "name": "Don't Give It Away",
+        "url": "https://open.spotify.com/album/4eFmR5Xt0nAXuYs85GS8IA"
       },
       "artists": [
         {
-          "name": "\u00c4yanna",
-          "url": "https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD"
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 155000,
-      "name": "Boys Like U",
-      "url": "https://open.spotify.com/track/1tUYtX5SrRj9MJQgZ9u2W3"
+      "duration_ms": 206143,
+      "name": "Don't Give It Away (with Chris Brown)",
+      "url": "https://open.spotify.com/track/6qtiBwLiezRyj82NVKfvez"
     },
     {
       "added_at": "2024-09-05 22:18:54",
@@ -707,22 +711,18 @@
     {
       "added_at": "2024-09-05 22:18:54",
       "album": {
-        "name": "Don't Give It Away",
-        "url": "https://open.spotify.com/album/4eFmR5Xt0nAXuYs85GS8IA"
+        "name": "Boys Like U",
+        "url": "https://open.spotify.com/album/20Lna2QqNErPjA4lRDUGoX"
       },
       "artists": [
         {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "\u00c4yanna",
+          "url": "https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD"
         }
       ],
-      "duration_ms": 206143,
-      "name": "Don't Give It Away (with Chris Brown)",
-      "url": "https://open.spotify.com/track/6qtiBwLiezRyj82NVKfvez"
+      "duration_ms": 155000,
+      "name": "Boys Like U",
+      "url": "https://open.spotify.com/track/1tUYtX5SrRj9MJQgZ9u2W3"
     },
     {
       "added_at": "2024-09-05 22:18:54",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-09-05 22:18:54",
       "album": {
-        "name": "Next Chapter",
-        "url": "https://open.spotify.com/album/1CYWwUlTWMQwT2M7rUnqkf"
-      },
-      "artists": [
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        }
-      ],
-      "duration_ms": 149966,
-      "name": "Hurts Me To Know",
-      "url": "https://open.spotify.com/track/0yZ6a47o7jfO5PmFjbQwCi"
-    },
-    {
-      "added_at": "2024-09-05 22:18:54",
-      "album": {
         "name": "Words of Affirmation",
         "url": "https://open.spotify.com/album/4A6aWWPzVnNEjqm29C93A7"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 186095,
       "name": "Words of Affirmation",
       "url": "https://open.spotify.com/track/4TeklWa1VJeKwDThRho8vy"
+    },
+    {
+      "added_at": "2024-09-05 22:18:54",
+      "album": {
+        "name": "Next Chapter",
+        "url": "https://open.spotify.com/album/1CYWwUlTWMQwT2M7rUnqkf"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "duration_ms": 149966,
+      "name": "Hurts Me To Know",
+      "url": "https://open.spotify.com/track/0yZ6a47o7jfO5PmFjbQwCi"
     },
     {
       "added_at": "2024-09-05 22:18:54",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2024-09-05 22:18:54",
       "album": {
+        "name": "COMING HOME (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7GZwgBHhaazZ2QnrvbpDPO"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 211644,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/4YYpXaONSBsD2wVAsfxFH6"
+    },
+    {
+      "added_at": "2024-09-05 22:18:54",
+      "album": {
         "name": "Double Tragedy",
         "url": "https://open.spotify.com/album/5Knkg9Hx7EoJE4ZnLX7f8H"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 165520,
       "name": "Double Tragedy",
       "url": "https://open.spotify.com/track/2Zs7Q7lJB1aUDL06rE2xN2"
-    },
-    {
-      "added_at": "2024-09-05 22:18:54",
-      "album": {
-        "name": "IRL",
-        "url": "https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 229040,
-      "name": "In My Bag",
-      "url": "https://open.spotify.com/track/3Hz7mhkeYyAG09l90fVKQo"
     },
     {
       "added_at": "2024-09-05 22:18:54",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2024-09-05 22:18:54",
       "album": {
+        "name": "IRL",
+        "url": "https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 229040,
+      "name": "In My Bag",
+      "url": "https://open.spotify.com/track/3Hz7mhkeYyAG09l90fVKQo"
+    },
+    {
+      "added_at": "2024-09-05 22:18:54",
+      "album": {
         "name": "Stranger",
         "url": "https://open.spotify.com/album/5tjjkvT0Tm06eXsJjV7sms"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 155624,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/4TRcHzOWfy7EmYYdci24jv"
-    },
-    {
-      "added_at": "2024-09-05 22:18:54",
-      "album": {
-        "name": "COMING HOME (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7GZwgBHhaazZ2QnrvbpDPO"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 211644,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/4YYpXaONSBsD2wVAsfxFH6"
     },
     {
       "added_at": "2024-09-05 22:18:54",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2024-09-05 22:18:54",
       "album": {
+        "name": "Split",
+        "url": "https://open.spotify.com/album/252FXpscMwNO4FXh194pf3"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "duration_ms": 161410,
+      "name": "Split",
+      "url": "https://open.spotify.com/track/5CjWTW7fjNIcyOfUvJNIC0"
+    },
+    {
+      "added_at": "2024-09-05 22:18:54",
+      "album": {
         "name": "You and I",
         "url": "https://open.spotify.com/album/4LOK8lJTo5ftB7gr4vnngj"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 186666,
       "name": "You and I",
       "url": "https://open.spotify.com/track/1EMy0gThjvmvKVQqBhBrPY"
-    },
-    {
-      "added_at": "2024-09-05 22:18:54",
-      "album": {
-        "name": "Split",
-        "url": "https://open.spotify.com/album/252FXpscMwNO4FXh194pf3"
-      },
-      "artists": [
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        }
-      ],
-      "duration_ms": 161410,
-      "name": "Split",
-      "url": "https://open.spotify.com/track/5CjWTW7fjNIcyOfUvJNIC0"
     },
     {
       "added_at": "2024-09-05 22:18:54",
@@ -1635,6 +1635,38 @@
     {
       "added_at": "2024-09-05 22:18:54",
       "album": {
+        "name": "Blessings",
+        "url": "https://open.spotify.com/album/2zfSKymGIjwMurTq4Viehr"
+      },
+      "artists": [
+        {
+          "name": "Neema Nekesa",
+          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
+        }
+      ],
+      "duration_ms": 133534,
+      "name": "Blessings",
+      "url": "https://open.spotify.com/track/2sW5exPWWtnoJDHbArBZPP"
+    },
+    {
+      "added_at": "2024-09-05 22:18:54",
+      "album": {
+        "name": "Give It All to Me",
+        "url": "https://open.spotify.com/album/1diluC1MnWkOX1JYvH9EG8"
+      },
+      "artists": [
+        {
+          "name": "Natalie La Rose",
+          "url": "https://open.spotify.com/artist/2qdONMCoDngQk0eV4Avs1i"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "Give It All to Me",
+      "url": "https://open.spotify.com/track/4arsEo4x9lpuEb7K6dn62B"
+    },
+    {
+      "added_at": "2024-09-05 22:18:54",
+      "album": {
         "name": "Gone Girl",
         "url": "https://open.spotify.com/album/0KGCksTaW4MwH3omcckWWU"
       },
@@ -1711,50 +1743,22 @@
     {
       "added_at": "2024-09-05 22:18:54",
       "album": {
-        "name": "Give It All to Me",
-        "url": "https://open.spotify.com/album/1diluC1MnWkOX1JYvH9EG8"
+        "name": "We're through",
+        "url": "https://open.spotify.com/album/4wPDZWxj7CB4xUBLQ7hIJn"
       },
       "artists": [
         {
-          "name": "Natalie La Rose",
-          "url": "https://open.spotify.com/artist/2qdONMCoDngQk0eV4Avs1i"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "Give It All to Me",
-      "url": "https://open.spotify.com/track/4arsEo4x9lpuEb7K6dn62B"
-    },
-    {
-      "added_at": "2024-09-05 22:18:54",
-      "album": {
-        "name": "Blessings",
-        "url": "https://open.spotify.com/album/2zfSKymGIjwMurTq4Viehr"
-      },
-      "artists": [
+          "name": "Kyara Shereen",
+          "url": "https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q"
+        },
         {
-          "name": "Neema Nekesa",
-          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
+          "name": "This is Lema",
+          "url": "https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv"
         }
       ],
-      "duration_ms": 133534,
-      "name": "Blessings",
-      "url": "https://open.spotify.com/track/2sW5exPWWtnoJDHbArBZPP"
-    },
-    {
-      "added_at": "2024-09-05 22:18:54",
-      "album": {
-        "name": "hoe bedoel je?",
-        "url": "https://open.spotify.com/album/4CN04dChYLqFWOaSDhtOG3"
-      },
-      "artists": [
-        {
-          "name": "Danny Dubb",
-          "url": "https://open.spotify.com/artist/1ZzmoEKSOVNm75SY7T1zBe"
-        }
-      ],
-      "duration_ms": 137846,
-      "name": "hoe bedoel je?",
-      "url": "https://open.spotify.com/track/7juYCJy0yvKaV8uvZJV4p9"
+      "duration_ms": 174000,
+      "name": "We're Through",
+      "url": "https://open.spotify.com/track/0rQKB1uvWhq4CAVNQxjPuj"
     }
   ],
   "unique_name": "R&B Magic",

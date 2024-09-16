@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOlWHSINKbv.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/34l1tsrbKtmGYuTEef0YFl">D'Mile</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,182 likes - 149 songs - 9 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,181 likes - 149 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOlWHSINKbv.md) - [plain]
 | 148 | [First Place Loser \- Bonus Track](https://open.spotify.com/track/1d5AxYa4bOiTaHTOC3UvTg) | [Diddy \- Dirty Money](https://open.spotify.com/artist/2QYEvpsWUOjqaYuxDPTCmV) | [Last Train To Paris \(Deluxe\)](https://open.spotify.com/album/4Ofqtk9mm4nmBuCPhctq0e) | 4:28 |
 | 149 | [die with a smile](https://open.spotify.com/track/1yXChjFxlhmoNFHFFR9sU2) | [euhlr](https://open.spotify.com/artist/7hMFnTqIUL7qZ8P0mG9MFk) | [die with a smile](https://open.spotify.com/album/127y78qXF7Wntjv9HjP1MA) | 4:05 |
 
-Snapshot ID: `AbcJ1QAAAACR2lMSaeNumHweS9QiYY+7`
+Snapshot ID: `AbcPdAAAAAA2JWPgCeNc4aYgYgce6L8p`

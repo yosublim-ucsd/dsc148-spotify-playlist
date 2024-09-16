@@ -1,6 +1,6 @@
 {
   "description": "Popun sevilen isimleri. Kapak: Mert \u00c7odur",
-  "num_followers": 133143,
+  "num_followers": 133174,
   "original_name": "Pop Radyo",
   "owner": {
     "name": "Spotify",
@@ -299,6 +299,22 @@
     {
       "added_at": "2024-09-12 21:00:00",
       "album": {
+        "name": "Yansam",
+        "url": "https://open.spotify.com/album/3jrBw3qp6f0oLYFUJUHxdo"
+      },
+      "artists": [
+        {
+          "name": "Amo988",
+          "url": "https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06"
+        }
+      ],
+      "duration_ms": 136800,
+      "name": "Yansam",
+      "url": "https://open.spotify.com/track/38gCk1mC6RwSm1iJK5qhsZ"
+    },
+    {
+      "added_at": "2024-09-12 21:00:00",
+      "album": {
         "name": "Olmu\u015fum Leyla",
         "url": "https://open.spotify.com/album/3KO4mFibY1L2nbqOateAOA"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 131470,
       "name": "Yarem",
       "url": "https://open.spotify.com/track/2sBp2g6P6VCG19hzu56IOg"
-    },
-    {
-      "added_at": "2024-09-12 21:00:00",
-      "album": {
-        "name": "Yansam",
-        "url": "https://open.spotify.com/album/3jrBw3qp6f0oLYFUJUHxdo"
-      },
-      "artists": [
-        {
-          "name": "Amo988",
-          "url": "https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06"
-        }
-      ],
-      "duration_ms": 136800,
-      "name": "Yansam",
-      "url": "https://open.spotify.com/track/38gCk1mC6RwSm1iJK5qhsZ"
     },
     {
       "added_at": "2024-09-12 21:00:00",
@@ -435,26 +435,6 @@
     {
       "added_at": "2024-09-12 21:00:00",
       "album": {
-        "name": "Ya\u015fam \u00c7i\u00e7e\u011fi",
-        "url": "https://open.spotify.com/album/0PEw8EZ84GWGe3YTeeBqbx"
-      },
-      "artists": [
-        {
-          "name": "Ziynet Sali",
-          "url": "https://open.spotify.com/artist/7zVYyYhGZxvPHPuhzReYHP"
-        },
-        {
-          "name": "Bilal Sonses",
-          "url": "https://open.spotify.com/artist/6iBdV6h17D1kOnK9lFyWo3"
-        }
-      ],
-      "duration_ms": 186393,
-      "name": "Yara",
-      "url": "https://open.spotify.com/track/15GIJTUYhVUO9zLJ2t8qcg"
-    },
-    {
-      "added_at": "2024-09-12 21:00:00",
-      "album": {
         "name": "An\u0131lara Dalar\u0131z",
         "url": "https://open.spotify.com/album/4LXEyR5YIqDAhA1sB7y4QP"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 150681,
       "name": "An\u0131lara Dalar\u0131z",
       "url": "https://open.spotify.com/track/0Rjq84ntnHd3olOXHPacVr"
+    },
+    {
+      "added_at": "2024-09-12 21:00:00",
+      "album": {
+        "name": "Ya\u015fam \u00c7i\u00e7e\u011fi",
+        "url": "https://open.spotify.com/album/0PEw8EZ84GWGe3YTeeBqbx"
+      },
+      "artists": [
+        {
+          "name": "Ziynet Sali",
+          "url": "https://open.spotify.com/artist/7zVYyYhGZxvPHPuhzReYHP"
+        },
+        {
+          "name": "Bilal Sonses",
+          "url": "https://open.spotify.com/artist/6iBdV6h17D1kOnK9lFyWo3"
+        }
+      ],
+      "duration_ms": 186393,
+      "name": "Yara",
+      "url": "https://open.spotify.com/track/15GIJTUYhVUO9zLJ2t8qcg"
     },
     {
       "added_at": "2024-09-12 21:00:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-09-12 21:00:00",
       "album": {
-        "name": "2017",
-        "url": "https://open.spotify.com/album/7bHm4NBxAUgM3XpfXmB7fv"
-      },
-      "artists": [
-        {
-          "name": "M Lisa",
-          "url": "https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc"
-        }
-      ],
-      "duration_ms": 127333,
-      "name": "2017",
-      "url": "https://open.spotify.com/track/4QccVW3CYYLzvTY0yCwcrZ"
-    },
-    {
-      "added_at": "2024-09-12 21:00:00",
-      "album": {
         "name": "Ka\u00e7ak G\u00f6\u00e7ek",
         "url": "https://open.spotify.com/album/5ckK7xIaAG6ZYxxdS6Emi5"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 223125,
       "name": "Ka\u00e7ak G\u00f6\u00e7ek",
       "url": "https://open.spotify.com/track/4y0kg2hqDbEG04NevUqNPF"
+    },
+    {
+      "added_at": "2024-09-12 21:00:00",
+      "album": {
+        "name": "2017",
+        "url": "https://open.spotify.com/album/7bHm4NBxAUgM3XpfXmB7fv"
+      },
+      "artists": [
+        {
+          "name": "M Lisa",
+          "url": "https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc"
+        }
+      ],
+      "duration_ms": 127333,
+      "name": "2017",
+      "url": "https://open.spotify.com/track/4QccVW3CYYLzvTY0yCwcrZ"
     },
     {
       "added_at": "2024-09-12 21:00:00",
@@ -667,6 +667,26 @@
     {
       "added_at": "2024-09-12 21:00:00",
       "album": {
+        "name": "G\u00f6rmem B\u00f6ylesini",
+        "url": "https://open.spotify.com/album/0ZR3vgtrtcwpKWZ9Naiic0"
+      },
+      "artists": [
+        {
+          "name": "Sefo",
+          "url": "https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ"
+        },
+        {
+          "name": "Simge",
+          "url": "https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu"
+        }
+      ],
+      "duration_ms": 192446,
+      "name": "G\u00f6rmem B\u00f6ylesini",
+      "url": "https://open.spotify.com/track/52EgkN1E6pqOJ0AL2YWxfs"
+    },
+    {
+      "added_at": "2024-09-12 21:00:00",
+      "album": {
         "name": "Kuantum 51",
         "url": "https://open.spotify.com/album/7jra0F6rSOJ36HIsTmwFfC"
       },
@@ -711,26 +731,6 @@
       "duration_ms": 161590,
       "name": "Lakin",
       "url": "https://open.spotify.com/track/7AjPgrmEzCBVkQWUiOncM3"
-    },
-    {
-      "added_at": "2024-09-12 21:00:00",
-      "album": {
-        "name": "G\u00f6rmem B\u00f6ylesini",
-        "url": "https://open.spotify.com/album/0ZR3vgtrtcwpKWZ9Naiic0"
-      },
-      "artists": [
-        {
-          "name": "Sefo",
-          "url": "https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ"
-        },
-        {
-          "name": "Simge",
-          "url": "https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu"
-        }
-      ],
-      "duration_ms": 192446,
-      "name": "G\u00f6rmem B\u00f6ylesini",
-      "url": "https://open.spotify.com/track/52EgkN1E6pqOJ0AL2YWxfs"
     },
     {
       "added_at": "2024-09-12 21:00:00",
@@ -927,6 +927,26 @@
     {
       "added_at": "2024-09-12 21:00:00",
       "album": {
+        "name": "Kalbim A\u011flama",
+        "url": "https://open.spotify.com/album/6HPjuhtibuFfdqhwRYF75H"
+      },
+      "artists": [
+        {
+          "name": "Kurtulu\u015f Ku\u015f",
+          "url": "https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq"
+        },
+        {
+          "name": "Siyam",
+          "url": "https://open.spotify.com/artist/20VUzeHAjxKUEJuXT6EiMo"
+        }
+      ],
+      "duration_ms": 130613,
+      "name": "Kalbim A\u011flama",
+      "url": "https://open.spotify.com/track/60dY0X3oT8s8DF5ZOsJ8zJ"
+    },
+    {
+      "added_at": "2024-09-12 21:00:00",
+      "album": {
         "name": "Bundan B\u00f6yle (From \"3391 Kilometre\")",
         "url": "https://open.spotify.com/album/1Baxuz24nv6BM6Ndnvschw"
       },
@@ -939,22 +959,6 @@
       "duration_ms": 163200,
       "name": "Bundan B\u00f6yle (From \"3391 Kilometre\")",
       "url": "https://open.spotify.com/track/6TCoqzZa9jZh4SlpCogpQM"
-    },
-    {
-      "added_at": "2024-09-12 21:00:00",
-      "album": {
-        "name": "Bi Polar",
-        "url": "https://open.spotify.com/album/4av9zmQcpcbMsewBcZnDKa"
-      },
-      "artists": [
-        {
-          "name": "Sertab Erener",
-          "url": "https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s"
-        }
-      ],
-      "duration_ms": 192217,
-      "name": "Bi Polar",
-      "url": "https://open.spotify.com/track/3ZXucsYAxBRUgG7XftxxLE"
     },
     {
       "added_at": "2024-09-12 21:00:00",
@@ -979,22 +983,18 @@
     {
       "added_at": "2024-09-12 21:00:00",
       "album": {
-        "name": "Kalbim A\u011flama",
-        "url": "https://open.spotify.com/album/6HPjuhtibuFfdqhwRYF75H"
+        "name": "Bi Polar",
+        "url": "https://open.spotify.com/album/4av9zmQcpcbMsewBcZnDKa"
       },
       "artists": [
         {
-          "name": "Kurtulu\u015f Ku\u015f",
-          "url": "https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq"
-        },
-        {
-          "name": "Siyam",
-          "url": "https://open.spotify.com/artist/20VUzeHAjxKUEJuXT6EiMo"
+          "name": "Sertab Erener",
+          "url": "https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s"
         }
       ],
-      "duration_ms": 130613,
-      "name": "Kalbim A\u011flama",
-      "url": "https://open.spotify.com/track/60dY0X3oT8s8DF5ZOsJ8zJ"
+      "duration_ms": 192217,
+      "name": "Bi Polar",
+      "url": "https://open.spotify.com/track/3ZXucsYAxBRUgG7XftxxLE"
     },
     {
       "added_at": "2024-09-12 21:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-09-12 21:00:00",
       "album": {
-        "name": "Kafam \u0130yi Esiyor",
-        "url": "https://open.spotify.com/album/3gc8ZG1oX26gZ9cEUpsYVi"
-      },
-      "artists": [
-        {
-          "name": "Bora Duran",
-          "url": "https://open.spotify.com/artist/0W0qg2fjQVk63h44Zdn4hI"
-        }
-      ],
-      "duration_ms": 166772,
-      "name": "Kafam \u0130yi Esiyor",
-      "url": "https://open.spotify.com/track/4l6L2WoQ8wy4CGpzhimwpp"
-    },
-    {
-      "added_at": "2024-09-12 21:00:00",
-      "album": {
         "name": "Ben B\u00f6yle",
         "url": "https://open.spotify.com/album/55EPPWTtxqRsqbyD7zkyng"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 130080,
       "name": "Ben B\u00f6yle",
       "url": "https://open.spotify.com/track/4QCav8A7C8fOrX2gQNShuh"
+    },
+    {
+      "added_at": "2024-09-12 21:00:00",
+      "album": {
+        "name": "Kafam \u0130yi Esiyor",
+        "url": "https://open.spotify.com/album/3gc8ZG1oX26gZ9cEUpsYVi"
+      },
+      "artists": [
+        {
+          "name": "Bora Duran",
+          "url": "https://open.spotify.com/artist/0W0qg2fjQVk63h44Zdn4hI"
+        }
+      ],
+      "duration_ms": 166772,
+      "name": "Kafam \u0130yi Esiyor",
+      "url": "https://open.spotify.com/track/4l6L2WoQ8wy4CGpzhimwpp"
     },
     {
       "added_at": "2024-09-12 21:00:00",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2024-09-12 21:00:00",
       "album": {
-        "name": "Defoluyorum",
-        "url": "https://open.spotify.com/album/5dRa7IoW7J5AOlF91Jd1ob"
-      },
-      "artists": [
-        {
-          "name": "Tan Ta\u015f\u00e7\u0131",
-          "url": "https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D"
-        },
-        {
-          "name": "Ramoon",
-          "url": "https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja"
-        }
-      ],
-      "duration_ms": 163823,
-      "name": "Defoluyorum",
-      "url": "https://open.spotify.com/track/7EDxgVcaD1RaIygbWlW6or"
-    },
-    {
-      "added_at": "2024-09-12 21:00:00",
-      "album": {
         "name": "Ad\u0131n\u0131 Yazd\u0131m",
         "url": "https://open.spotify.com/album/6A4vsUDLXGiDtqplTzSPon"
       },
@@ -1231,6 +1211,26 @@
       "duration_ms": 149669,
       "name": "Ad\u0131n\u0131 Yazd\u0131m",
       "url": "https://open.spotify.com/track/3U2n2bDXv2X4eIxQ0Rqsbw"
+    },
+    {
+      "added_at": "2024-09-12 21:00:00",
+      "album": {
+        "name": "Defoluyorum",
+        "url": "https://open.spotify.com/album/5dRa7IoW7J5AOlF91Jd1ob"
+      },
+      "artists": [
+        {
+          "name": "Tan Ta\u015f\u00e7\u0131",
+          "url": "https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D"
+        },
+        {
+          "name": "Ramoon",
+          "url": "https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja"
+        }
+      ],
+      "duration_ms": 163823,
+      "name": "Defoluyorum",
+      "url": "https://open.spotify.com/track/7EDxgVcaD1RaIygbWlW6or"
     },
     {
       "added_at": "2024-09-12 21:00:00",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2024-09-12 21:00:00",
       "album": {
-        "name": "YANGIN",
-        "url": "https://open.spotify.com/album/7CnFy0ArSpItDMwNsx2eIp"
+        "name": "Hallederiz",
+        "url": "https://open.spotify.com/album/1POH7nVd2kQVlq6tDj7lWQ"
       },
       "artists": [
         {
-          "name": "Aleyna Kalayc\u0131o\u011flu",
-          "url": "https://open.spotify.com/artist/3TKB1G75mSojFCZPks5KGJ"
+          "name": "Sezer Sar\u0131g\u00f6z",
+          "url": "https://open.spotify.com/artist/4itYEciRGKzdy6XwBQeaYl"
         }
       ],
-      "duration_ms": 138440,
-      "name": "YANGIN",
-      "url": "https://open.spotify.com/track/6HZLaC77dliSiengA0TUcd"
+      "duration_ms": 155853,
+      "name": "Hallederiz",
+      "url": "https://open.spotify.com/track/1amWETYioLvJ8rBJ60XmD9"
     }
   ],
   "unique_name": "Pop Radyo",

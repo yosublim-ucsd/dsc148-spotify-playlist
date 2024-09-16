@@ -1,6 +1,6 @@
 {
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
-  "num_followers": 798606,
+  "num_followers": 798615,
   "original_name": "Cafezinho",
   "owner": {
     "name": "Spotify",
@@ -131,6 +131,22 @@
     {
       "added_at": "2024-09-13 02:39:17",
       "album": {
+        "name": "Djavan",
+        "url": "https://open.spotify.com/album/3SrW9PsWq7ipPERLgck3tA"
+      },
+      "artists": [
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "duration_ms": 296106,
+      "name": "Oceano",
+      "url": "https://open.spotify.com/track/3iof6EclqePezHDibBiykI"
+    },
+    {
+      "added_at": "2024-09-13 02:39:17",
+      "album": {
         "name": "Ac\u00fastico (Ao Vivo)",
         "url": "https://open.spotify.com/album/7mgNhvsT5RpvIoq8q2DHFI"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 211080,
       "name": "Dona Cila",
       "url": "https://open.spotify.com/track/4eGOBCZyjEQ6WckqOVz0ES"
-    },
-    {
-      "added_at": "2024-09-13 02:39:17",
-      "album": {
-        "name": "Djavan",
-        "url": "https://open.spotify.com/album/3SrW9PsWq7ipPERLgck3tA"
-      },
-      "artists": [
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        }
-      ],
-      "duration_ms": 296106,
-      "name": "Oceano",
-      "url": "https://open.spotify.com/track/3iof6EclqePezHDibBiykI"
     },
     {
       "added_at": "2024-09-13 02:39:17",
@@ -375,26 +375,6 @@
     {
       "added_at": "2024-09-13 02:39:17",
       "album": {
-        "name": "Feito Pra Acabar",
-        "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Jeneci",
-          "url": "https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE"
-        },
-        {
-          "name": "Laura Lavieri",
-          "url": "https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za"
-        }
-      ],
-      "duration_ms": 268640,
-      "name": "Pra Sonhar",
-      "url": "https://open.spotify.com/track/2VJOJBlHlSzdsf1uBpReKe"
-    },
-    {
-      "added_at": "2024-09-13 02:39:17",
-      "album": {
         "name": "Um dia de domingo",
         "url": "https://open.spotify.com/album/6UsutqrIyl5NVGoP4i4hoz"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 251903,
       "name": "Um dia de domingo",
       "url": "https://open.spotify.com/track/4Hnc4ewhudTuDkXiyZ39Vm"
+    },
+    {
+      "added_at": "2024-09-13 02:39:17",
+      "album": {
+        "name": "Feito Pra Acabar",
+        "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Jeneci",
+          "url": "https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE"
+        },
+        {
+          "name": "Laura Lavieri",
+          "url": "https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za"
+        }
+      ],
+      "duration_ms": 268640,
+      "name": "Pra Sonhar",
+      "url": "https://open.spotify.com/track/2VJOJBlHlSzdsf1uBpReKe"
     },
     {
       "added_at": "2024-09-13 02:39:17",
@@ -651,6 +651,22 @@
     {
       "added_at": "2024-09-13 02:39:17",
       "album": {
+        "name": "Reconstru\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4MaXnFPKQXHK7voqrWGEPn"
+      },
+      "artists": [
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        }
+      ],
+      "duration_ms": 204895,
+      "name": "La\u00e7os",
+      "url": "https://open.spotify.com/track/67TkwLw4MU99lmHtUYo340"
+    },
+    {
+      "added_at": "2024-09-13 02:39:17",
+      "album": {
         "name": "Raizes Do Samba",
         "url": "https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 105253,
       "name": "Gostoso Demais - Ao Vivo",
       "url": "https://open.spotify.com/track/1Xg14zUBW0I9OrAaUII020"
-    },
-    {
-      "added_at": "2024-09-13 02:39:17",
-      "album": {
-        "name": "Reconstru\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/4MaXnFPKQXHK7voqrWGEPn"
-      },
-      "artists": [
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
-        }
-      ],
-      "duration_ms": 204895,
-      "name": "La\u00e7os",
-      "url": "https://open.spotify.com/track/67TkwLw4MU99lmHtUYo340"
     },
     {
       "added_at": "2024-09-13 02:39:17",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-09-13 02:39:17",
       "album": {
-        "name": "Ofert\u00f3rio (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3PlAbFQa9MEymxTgQC51wv"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 200045,
-      "name": "Reconvexo - Ao Vivo",
-      "url": "https://open.spotify.com/track/1yiQ58cQrQH2xLF2AuvFq2"
-    },
-    {
-      "added_at": "2024-09-13 02:39:17",
-      "album": {
         "name": "Goela Abaixo",
         "url": "https://open.spotify.com/album/6u9KVK2R84AIC5tR75SLAo"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 230849,
       "name": "Bem Bom",
       "url": "https://open.spotify.com/track/5GkqsV7wYPqZNjGfhSGWuf"
+    },
+    {
+      "added_at": "2024-09-13 02:39:17",
+      "album": {
+        "name": "Ofert\u00f3rio (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3PlAbFQa9MEymxTgQC51wv"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 200045,
+      "name": "Reconvexo - Ao Vivo",
+      "url": "https://open.spotify.com/track/1yiQ58cQrQH2xLF2AuvFq2"
     },
     {
       "added_at": "2024-09-13 02:39:17",
@@ -843,26 +843,6 @@
     {
       "added_at": "2024-09-13 02:39:17",
       "album": {
-        "name": "Milton + esperanza",
-        "url": "https://open.spotify.com/album/6lVRgFz4vQ3qoNT2nJfsar"
-      },
-      "artists": [
-        {
-          "name": "Milton Nascimento",
-          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
-        },
-        {
-          "name": "Esperanza Spalding",
-          "url": "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
-        }
-      ],
-      "duration_ms": 276906,
-      "name": "A Day in the Life",
-      "url": "https://open.spotify.com/track/3bRBaAPIdMqP53D29w19d5"
-    },
-    {
-      "added_at": "2024-09-13 02:39:17",
-      "album": {
         "name": "Por Pouco (Bit Box)",
         "url": "https://open.spotify.com/album/0h4xTADMMdMSOQraeakiEC"
       },
@@ -879,18 +859,22 @@
     {
       "added_at": "2024-09-13 02:39:17",
       "album": {
-        "name": "Flora - EP",
-        "url": "https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3"
+        "name": "Milton + esperanza",
+        "url": "https://open.spotify.com/album/6lVRgFz4vQ3qoNT2nJfsar"
       },
       "artists": [
         {
-          "name": "ALMAR",
-          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
+          "name": "Milton Nascimento",
+          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+        },
+        {
+          "name": "Esperanza Spalding",
+          "url": "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
         }
       ],
-      "duration_ms": 158000,
-      "name": "Vem conversar",
-      "url": "https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT"
+      "duration_ms": 276906,
+      "name": "A Day in the Life",
+      "url": "https://open.spotify.com/track/3bRBaAPIdMqP53D29w19d5"
     },
     {
       "added_at": "2024-09-13 02:39:17",
@@ -915,6 +899,22 @@
     {
       "added_at": "2024-09-13 02:39:17",
       "album": {
+        "name": "Flora - EP",
+        "url": "https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3"
+      },
+      "artists": [
+        {
+          "name": "ALMAR",
+          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Vem conversar",
+      "url": "https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT"
+    },
+    {
+      "added_at": "2024-09-13 02:39:17",
+      "album": {
         "name": "Quase Sem Querer",
         "url": "https://open.spotify.com/album/5v12mn6fKImJjZR9D3QZME"
       },
@@ -927,6 +927,22 @@
       "duration_ms": 216842,
       "name": "Quase Sem Querer",
       "url": "https://open.spotify.com/track/0dPfujTAOWHFvAef50QvGi"
+    },
+    {
+      "added_at": "2024-09-13 02:39:17",
+      "album": {
+        "name": "Pra Gente Acordar",
+        "url": "https://open.spotify.com/album/2IoDCH4Y4KTTTm399IUwzI"
+      },
+      "artists": [
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        }
+      ],
+      "duration_ms": 156906,
+      "name": "Voltar \u00e0 Bahia",
+      "url": "https://open.spotify.com/track/4pGs8iERniTESwC4pl6bXr"
     },
     {
       "added_at": "2024-09-13 02:39:17",
@@ -975,26 +991,6 @@
     {
       "added_at": "2024-09-13 02:39:17",
       "album": {
-        "name": "Voando (Nel Blu Dipinto Di Blu)",
-        "url": "https://open.spotify.com/album/1QQkssDjcaEVl6pJhSOWIQ"
-      },
-      "artists": [
-        {
-          "name": "Rita Lee",
-          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
-        },
-        {
-          "name": "Roberto De Carvalho",
-          "url": "https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1"
-        }
-      ],
-      "duration_ms": 236618,
-      "name": "Voando (Nel Blu Dipinto Di Blu)",
-      "url": "https://open.spotify.com/track/5eJ4kcwdET3HsQvwT5QSuX"
-    },
-    {
-      "added_at": "2024-09-13 02:39:17",
-      "album": {
         "name": "A Morte de um Deus de Sal",
         "url": "https://open.spotify.com/album/019T33OgzsIGyamxapvv6V"
       },
@@ -1031,18 +1027,22 @@
     {
       "added_at": "2024-09-13 02:39:17",
       "album": {
-        "name": "Pra Gente Acordar",
-        "url": "https://open.spotify.com/album/2IoDCH4Y4KTTTm399IUwzI"
+        "name": "Voando (Nel Blu Dipinto Di Blu)",
+        "url": "https://open.spotify.com/album/1QQkssDjcaEVl6pJhSOWIQ"
       },
       "artists": [
         {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+          "name": "Rita Lee",
+          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
+        },
+        {
+          "name": "Roberto De Carvalho",
+          "url": "https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1"
         }
       ],
-      "duration_ms": 156906,
-      "name": "Voltar \u00e0 Bahia",
-      "url": "https://open.spotify.com/track/4pGs8iERniTESwC4pl6bXr"
+      "duration_ms": 236618,
+      "name": "Voando (Nel Blu Dipinto Di Blu)",
+      "url": "https://open.spotify.com/track/5eJ4kcwdET3HsQvwT5QSuX"
     },
     {
       "added_at": "2024-09-13 02:39:17",
@@ -1127,42 +1127,6 @@
     {
       "added_at": "2024-09-13 02:39:17",
       "album": {
-        "name": "Tribalistas Ao Vivo",
-        "url": "https://open.spotify.com/album/5cnwEGGZCmPx1f3mLQK90b"
-      },
-      "artists": [
-        {
-          "name": "Tribalistas",
-          "url": "https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD"
-        }
-      ],
-      "duration_ms": 273727,
-      "name": "Vilarejo - Ao Vivo",
-      "url": "https://open.spotify.com/track/3E3jroGWmeblwYhW6YJvoK"
-    },
-    {
-      "added_at": "2024-09-13 02:39:17",
-      "album": {
-        "name": "Lanca Perfume E Outras Manias",
-        "url": "https://open.spotify.com/album/4XLbkcXDkeCPrCInaG9bvS"
-      },
-      "artists": [
-        {
-          "name": "Rita Lee",
-          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
-        },
-        {
-          "name": "Roberto De Carvalho",
-          "url": "https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1"
-        }
-      ],
-      "duration_ms": 314240,
-      "name": "Lan\u00e7a Perfume",
-      "url": "https://open.spotify.com/track/3RCoY39kzmHdnvCvHeGh3K"
-    },
-    {
-      "added_at": "2024-09-13 02:39:17",
-      "album": {
         "name": "Na Medida do Imposs\u00edvel Ao Vivo No Inhotim (\u00c1lbum Comentado)",
         "url": "https://open.spotify.com/album/6duND4qwkaiUAyVFsoJUfB"
       },
@@ -1175,6 +1139,22 @@
       "duration_ms": 207933,
       "name": "I Don't Want To Talk About It",
       "url": "https://open.spotify.com/track/79hHaRraMY1E8t8U2TS7jK"
+    },
+    {
+      "added_at": "2024-09-13 02:39:17",
+      "album": {
+        "name": "Tribalistas Ao Vivo",
+        "url": "https://open.spotify.com/album/5cnwEGGZCmPx1f3mLQK90b"
+      },
+      "artists": [
+        {
+          "name": "Tribalistas",
+          "url": "https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD"
+        }
+      ],
+      "duration_ms": 273727,
+      "name": "Vilarejo - Ao Vivo",
+      "url": "https://open.spotify.com/track/3E3jroGWmeblwYhW6YJvoK"
     },
     {
       "added_at": "2024-09-13 02:39:17",
@@ -1195,6 +1175,26 @@
       "duration_ms": 217384,
       "name": "Minha Felicidade",
       "url": "https://open.spotify.com/track/3vKTQ4R6ZZ9re7XIedJ5PQ"
+    },
+    {
+      "added_at": "2024-09-13 02:39:17",
+      "album": {
+        "name": "Lanca Perfume E Outras Manias",
+        "url": "https://open.spotify.com/album/4XLbkcXDkeCPrCInaG9bvS"
+      },
+      "artists": [
+        {
+          "name": "Rita Lee",
+          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
+        },
+        {
+          "name": "Roberto De Carvalho",
+          "url": "https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1"
+        }
+      ],
+      "duration_ms": 314240,
+      "name": "Lan\u00e7a Perfume",
+      "url": "https://open.spotify.com/track/3RCoY39kzmHdnvCvHeGh3K"
     },
     {
       "added_at": "2024-09-13 02:39:17",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-09-13 02:39:17",
       "album": {
-        "name": "Flecha do dedo / Paix\u00e3o faixa preta",
-        "url": "https://open.spotify.com/album/77vpBr3RbUPpWdRCMUcDEt"
-      },
-      "artists": [
-        {
-          "name": "Curumin",
-          "url": "https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI"
-        }
-      ],
-      "duration_ms": 244150,
-      "name": "Flecha do Dedo",
-      "url": "https://open.spotify.com/track/0L8kOZj7LC36d6WNbhprCr"
-    },
-    {
-      "added_at": "2024-09-13 02:39:17",
-      "album": {
         "name": "Abrigo",
         "url": "https://open.spotify.com/album/5YtOfqMu6MXmHOaSE5lI1E"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 223773,
       "name": "Abrigo",
       "url": "https://open.spotify.com/track/1eVwcm7KXmJ8cAfQ9jz2wm"
+    },
+    {
+      "added_at": "2024-09-13 02:39:17",
+      "album": {
+        "name": "Real / Surreal (Deluxe)",
+        "url": "https://open.spotify.com/album/5QR2xVbwCNxOBgssCLEmhP"
+      },
+      "artists": [
+        {
+          "name": "Scalene",
+          "url": "https://open.spotify.com/artist/4PTd1rpXV7XDffOuLY7M0z"
+        }
+      ],
+      "duration_ms": 170706,
+      "name": "Amanheceu",
+      "url": "https://open.spotify.com/track/2dnsqxCyWYslPCT6ajjUDI"
     }
   ],
   "unique_name": "Cafezinho",

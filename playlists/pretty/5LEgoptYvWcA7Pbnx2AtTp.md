@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5LEgoptYvWcA7Pbnx2AtTp.md) - [plain]
 
 > Questionable in both morals and taste.
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 7 likes - 92 songs - 5 hr 18 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 7 likes - 93 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,5 +100,6 @@ pretty - [cumulative](/playlists/cumulative/5LEgoptYvWcA7Pbnx2AtTp.md) - [plain]
 | 90 | [internet drama part 1 \(is this available?\)](https://open.spotify.com/track/1GmgqwSthVucbpFZDk1pJG) | [Lubalin](https://open.spotify.com/artist/6lt3CXKfhLXjYl2VFD6vN4) | [internet drama](https://open.spotify.com/album/2oiiVfDGVjRczMzpb41eju) | 0:48 |
 | 91 | [internet drama part 6 \(can u get pregante...?\)](https://open.spotify.com/track/1xTZAmsXYIg3fp3i5pci5k) | [Lubalin](https://open.spotify.com/artist/6lt3CXKfhLXjYl2VFD6vN4) | [internet drama](https://open.spotify.com/album/2oiiVfDGVjRczMzpb41eju) | 0:58 |
 | 92 | [kid drama part 1 \(dear diary\)](https://open.spotify.com/track/5JEVgraZCZil9ByyhbqiDE) | [Lubalin](https://open.spotify.com/artist/6lt3CXKfhLXjYl2VFD6vN4) | [internet drama](https://open.spotify.com/album/2oiiVfDGVjRczMzpb41eju) | 0:39 |
+| 93 | [Take on Me](https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Hunting High and Low](https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf) | 3:45 |
 
-Snapshot ID: `AAAAfOJ5u62IkDZsTkLIBKKB8+gx4YTs`
+Snapshot ID: `AAAAfUxQzLCxv9pPO2WLVblwyra5KFm1`

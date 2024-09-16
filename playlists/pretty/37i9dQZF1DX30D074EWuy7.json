@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Paolo Fresu",
-  "num_followers": 30219,
+  "num_followers": 30236,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -875,6 +875,26 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
+        "name": "Morabeza",
+        "url": "https://open.spotify.com/album/3n55TgC6Qv30oyw7yj11mY"
+      },
+      "artists": [
+        {
+          "name": "Tosca",
+          "url": "https://open.spotify.com/artist/2QezBWDHOoFeVCM3wlzTDu"
+        },
+        {
+          "name": "Gabriele Mirabassi",
+          "url": "https://open.spotify.com/artist/1McRzmSwfysOGYy2GPaSNE"
+        }
+      ],
+      "duration_ms": 165573,
+      "name": "Giuramento (feat. Gabriele Mirabassi)",
+      "url": "https://open.spotify.com/track/15zNDagxqRrKm4HWtcvTZv"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
         "name": "Chiara Civello 7752",
         "url": "https://open.spotify.com/album/1YZkGzLfEIJDzLugOASTMa"
       },
@@ -907,26 +927,6 @@
       "duration_ms": 238043,
       "name": "Un giardino",
       "url": "https://open.spotify.com/track/1xXKvZSKZGcBR4jNOvirl6"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "Morabeza",
-        "url": "https://open.spotify.com/album/3n55TgC6Qv30oyw7yj11mY"
-      },
-      "artists": [
-        {
-          "name": "Tosca",
-          "url": "https://open.spotify.com/artist/2QezBWDHOoFeVCM3wlzTDu"
-        },
-        {
-          "name": "Gabriele Mirabassi",
-          "url": "https://open.spotify.com/artist/1McRzmSwfysOGYy2GPaSNE"
-        }
-      ],
-      "duration_ms": 165573,
-      "name": "Giuramento (feat. Gabriele Mirabassi)",
-      "url": "https://open.spotify.com/track/15zNDagxqRrKm4HWtcvTZv"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Comes Love",
-        "url": "https://open.spotify.com/album/5XQ6X5WJEpdst4PFJFEpuS"
-      },
-      "artists": [
-        {
-          "name": "Alice Ricciardi",
-          "url": "https://open.spotify.com/artist/4PPBw8LWMH9HOTtAnmBzVl"
-        }
-      ],
-      "duration_ms": 292720,
-      "name": "Le Tue Mani",
-      "url": "https://open.spotify.com/track/497xZ3NsjcAXGs0yx3vs8V"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
         "name": "You've Changed",
         "url": "https://open.spotify.com/album/7hGEPf44dnLcXPOfs3RBdX"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 302689,
       "name": "Per Ricordarmi Di Te",
       "url": "https://open.spotify.com/track/4vYAHjRiwV0kjb4JIzLlHX"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "Comes Love",
+        "url": "https://open.spotify.com/album/5XQ6X5WJEpdst4PFJFEpuS"
+      },
+      "artists": [
+        {
+          "name": "Alice Ricciardi",
+          "url": "https://open.spotify.com/artist/4PPBw8LWMH9HOTtAnmBzVl"
+        }
+      ],
+      "duration_ms": 292720,
+      "name": "Le Tue Mani",
+      "url": "https://open.spotify.com/track/497xZ3NsjcAXGs0yx3vs8V"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Under Italian Skies",
-        "url": "https://open.spotify.com/album/5SxQviRKSPWbCJwgTGf737"
-      },
-      "artists": [
-        {
-          "name": "Roberta Gambarini",
-          "url": "https://open.spotify.com/artist/5tW1LNzRtpzKpzTK7HAWTS"
-        },
-        {
-          "name": "Andrea Donati",
-          "url": "https://open.spotify.com/artist/0NZCNObxYB5k1IDkSNZyc0"
-        }
-      ],
-      "duration_ms": 323533,
-      "name": "Impronte",
-      "url": "https://open.spotify.com/track/6dlMTPMkePiZ4YFn95Tcgv"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
         "name": "NAXOS",
         "url": "https://open.spotify.com/album/6S9eVbnJNclJ09sCN3lB3Z"
       },
@@ -1387,6 +1367,26 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
+        "name": "Under Italian Skies",
+        "url": "https://open.spotify.com/album/5SxQviRKSPWbCJwgTGf737"
+      },
+      "artists": [
+        {
+          "name": "Roberta Gambarini",
+          "url": "https://open.spotify.com/artist/5tW1LNzRtpzKpzTK7HAWTS"
+        },
+        {
+          "name": "Andrea Donati",
+          "url": "https://open.spotify.com/artist/0NZCNObxYB5k1IDkSNZyc0"
+        }
+      ],
+      "duration_ms": 323533,
+      "name": "Impronte",
+      "url": "https://open.spotify.com/track/6dlMTPMkePiZ4YFn95Tcgv"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
         "name": "IRA",
         "url": "https://open.spotify.com/album/4WhBN2WPPxAU5M5Tpw56PL"
       },
@@ -1423,26 +1423,6 @@
       "duration_ms": 584075,
       "name": "Norma: Casta diva - Arr. for Jazz Orchestra",
       "url": "https://open.spotify.com/track/6F2ZVnF2AXI3sG6bxq1o5x"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "L'AMANTE BUGIARDO",
-        "url": "https://open.spotify.com/album/0RPLTYJMUU6fMKpwRKnzmv"
-      },
-      "artists": [
-        {
-          "name": "Paolo Fresu",
-          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
-        },
-        {
-          "name": "Uri Caine",
-          "url": "https://open.spotify.com/artist/1l10UPSXfbHFvNnDN7kgbA"
-        }
-      ],
-      "duration_ms": 256560,
-      "name": "L'AMANTE BUGIARDO",
-      "url": "https://open.spotify.com/track/5Ek1lMjwxJ24Bb1vBAbPqD"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1503,6 +1483,26 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
+        "name": "L'AMANTE BUGIARDO",
+        "url": "https://open.spotify.com/album/0RPLTYJMUU6fMKpwRKnzmv"
+      },
+      "artists": [
+        {
+          "name": "Paolo Fresu",
+          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
+        },
+        {
+          "name": "Uri Caine",
+          "url": "https://open.spotify.com/artist/1l10UPSXfbHFvNnDN7kgbA"
+        }
+      ],
+      "duration_ms": 256560,
+      "name": "L'AMANTE BUGIARDO",
+      "url": "https://open.spotify.com/track/5Ek1lMjwxJ24Bb1vBAbPqD"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
         "name": "For Those I Never Knew",
         "url": "https://open.spotify.com/album/7z9FTyVUHqXqcpfClUrnM2"
       },
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Franco Cerri Jazz",
-        "url": "https://open.spotify.com/album/4VphmaeJQ8CAbRMRz9QDA8"
-      },
-      "artists": [
-        {
-          "name": "Franco Cerri",
-          "url": "https://open.spotify.com/artist/1kk5a0EzDK5su94EBYUKPw"
-        }
-      ],
-      "duration_ms": 79041,
-      "name": "Generazia",
-      "url": "https://open.spotify.com/track/2KWRSw7WgfSNcdiEWM8Q72"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
         "name": "La Grandiosa",
         "url": "https://open.spotify.com/album/2U163GgbFpiqJLRhNdtRyz"
       },
@@ -1575,6 +1559,22 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
+        "name": "Franco Cerri Jazz",
+        "url": "https://open.spotify.com/album/4VphmaeJQ8CAbRMRz9QDA8"
+      },
+      "artists": [
+        {
+          "name": "Franco Cerri",
+          "url": "https://open.spotify.com/artist/1kk5a0EzDK5su94EBYUKPw"
+        }
+      ],
+      "duration_ms": 79041,
+      "name": "Generazia",
+      "url": "https://open.spotify.com/track/2KWRSw7WgfSNcdiEWM8Q72"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
         "name": "Jazz vs Corona Vol. 1",
         "url": "https://open.spotify.com/album/7lx39OHaqoPliLZWcnjjlb"
       },
@@ -1587,6 +1587,22 @@
       "duration_ms": 209551,
       "name": "Luna di mezzogiorno",
       "url": "https://open.spotify.com/track/2zPjGvbjXbK0RSBrR17Pe4"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "Something In Our Way",
+        "url": "https://open.spotify.com/album/3gFETZs7VBLDGCIakDFE7x"
+      },
+      "artists": [
+        {
+          "name": "Danilo Rea",
+          "url": "https://open.spotify.com/artist/0px78Y2V2QRl3f8hNtxdst"
+        }
+      ],
+      "duration_ms": 336666,
+      "name": "You Can't Always Get What You Want",
+      "url": "https://open.spotify.com/track/5ULXaeY21pBRmXlRUshUHX"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1619,22 +1635,6 @@
       "duration_ms": 280537,
       "name": "CANDLEFACE THEME",
       "url": "https://open.spotify.com/track/41YcKoZizBFkK5ATTkLewm"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "Something In Our Way",
-        "url": "https://open.spotify.com/album/3gFETZs7VBLDGCIakDFE7x"
-      },
-      "artists": [
-        {
-          "name": "Danilo Rea",
-          "url": "https://open.spotify.com/artist/0px78Y2V2QRl3f8hNtxdst"
-        }
-      ],
-      "duration_ms": 336666,
-      "name": "You Can't Always Get What You Want",
-      "url": "https://open.spotify.com/track/5ULXaeY21pBRmXlRUshUHX"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Integra",
-        "url": "https://open.spotify.com/album/2nWPV4x5GdYmmqAyzCxQNz"
-      },
-      "artists": [
-        {
-          "name": "Ivan Segreto",
-          "url": "https://open.spotify.com/artist/0S88jeytYPjXsEzMZCgt19"
-        }
-      ],
-      "duration_ms": 254773,
-      "name": "Vibrare",
-      "url": "https://open.spotify.com/track/1W6JKo8Tmp5sapSLCGq7xC"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
         "name": "Dialogues",
         "url": "https://open.spotify.com/album/04mcwadpwSaYynroTEqYJg"
       },
@@ -1915,22 +1899,6 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Unconscious Collective",
-        "url": "https://open.spotify.com/album/3IVOpoj5MwZ3TE2iWM0FNL"
-      },
-      "artists": [
-        {
-          "name": "PS5",
-          "url": "https://open.spotify.com/artist/7nFGSs3Km6Li7tJocJbLdO"
-        }
-      ],
-      "duration_ms": 289634,
-      "name": "Transe Napolitaine",
-      "url": "https://open.spotify.com/track/2mb0WOhZHdTsIZIEbqLxBd"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
         "name": "Nauplia",
         "url": "https://open.spotify.com/album/0kOi2BR2cvfhtqBi7e7CqR"
       },
@@ -1947,6 +1915,38 @@
       "duration_ms": 248240,
       "name": "Come un ritratto",
       "url": "https://open.spotify.com/track/1xD323f4XEBlW1lfOeKtts"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "Integra",
+        "url": "https://open.spotify.com/album/2nWPV4x5GdYmmqAyzCxQNz"
+      },
+      "artists": [
+        {
+          "name": "Ivan Segreto",
+          "url": "https://open.spotify.com/artist/0S88jeytYPjXsEzMZCgt19"
+        }
+      ],
+      "duration_ms": 254773,
+      "name": "Vibrare",
+      "url": "https://open.spotify.com/track/1W6JKo8Tmp5sapSLCGq7xC"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "Unconscious Collective",
+        "url": "https://open.spotify.com/album/3IVOpoj5MwZ3TE2iWM0FNL"
+      },
+      "artists": [
+        {
+          "name": "PS5",
+          "url": "https://open.spotify.com/artist/7nFGSs3Km6Li7tJocJbLdO"
+        }
+      ],
+      "duration_ms": 289634,
+      "name": "Transe Napolitaine",
+      "url": "https://open.spotify.com/track/2mb0WOhZHdTsIZIEbqLxBd"
     },
     {
       "added_at": "2024-06-28 00:01:00",

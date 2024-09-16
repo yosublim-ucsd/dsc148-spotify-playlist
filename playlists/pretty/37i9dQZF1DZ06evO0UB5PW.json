@@ -1,12 +1,12 @@
 {
   "description": "This is Mastodon. The essential tracks, all in one playlist.",
-  "num_followers": 56231,
+  "num_followers": 56244,
   "original_name": "This Is Mastodon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuOAgAAAAACuSZ/eJfMciC493ti6qcfh",
+  "snapshot_id": "ZuTSAAAAAABkRlc9+6WdMOWnrMnWzoyG",
   "tracks": [
     {
       "added_at": null,
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
         }
       ],
-      "duration_ms": 240280,
-      "name": "Word to the Wise",
-      "url": "https://open.spotify.com/track/2aYtAI8xvZLUTZPYZMC6ad"
+      "duration_ms": 388200,
+      "name": "Roots Remain",
+      "url": "https://open.spotify.com/track/5llEJFL6NzKYgMTEb68XtL"
     },
     {
       "added_at": null,
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
         }
       ],
-      "duration_ms": 388200,
-      "name": "Roots Remain",
-      "url": "https://open.spotify.com/track/5llEJFL6NzKYgMTEb68XtL"
+      "duration_ms": 240280,
+      "name": "Word to the Wise",
+      "url": "https://open.spotify.com/track/2aYtAI8xvZLUTZPYZMC6ad"
     },
     {
       "added_at": null,

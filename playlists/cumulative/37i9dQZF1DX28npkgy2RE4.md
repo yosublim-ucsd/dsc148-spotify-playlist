@@ -4,7 +4,7 @@
 
 > New styles, deep sounds\. Cover: Helado Negro
 
-457 songs - 1 day 4 hr 6 min
+458 songs - 1 day 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [All Being Fine](https://open.spotify.com/track/0HqSDUbwhv5h3XSsFHdSQF) | [King Hannah](https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6) | [I'm Not Sorry, I Was Just Being Me](https://open.spotify.com/album/42anHsnzFORglZyMr9udzN) | 3:29 | 2023-10-27 | 2024-04-19 |
 | [All Being Fine](https://open.spotify.com/track/1AObGJHBNGq23MkG3ZDjbJ) | [King Hannah](https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6) | [I'm Not Sorry, I Was Just Being Me](https://open.spotify.com/album/329jZGec5ndGWyYUAX1xJC) | 3:29 | 2022-05-25 | 2024-01-13 |
 | [All Burn No Bridge](https://open.spotify.com/track/6T5IBcI8Ann5pRPSPSsyFf) | [Emily Wells](https://open.spotify.com/artist/0tKasOjdZBjHJCMsalvvjb) | [Regards to the End](https://open.spotify.com/album/1vhEXwW0WBxGiMBsL4ksaO) | 5:03 | 2022-04-01 |  |
-| [All My Dreams](https://open.spotify.com/track/5St1urzGD938Zo3BL12Mam) | [The Heavy Heavy](https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q) | [Life and Life Only](https://open.spotify.com/album/6DeM7Vy5gmjq9FbLUcZFMr) | 3:23 | 2023-03-24 |  |
+| [All My Dreams](https://open.spotify.com/track/5St1urzGD938Zo3BL12Mam) | [The Heavy Heavy](https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q) | [Life and Life Only](https://open.spotify.com/album/6DeM7Vy5gmjq9FbLUcZFMr) | 3:23 | 2023-03-24 | 2024-09-16 |
 | [All Now](https://open.spotify.com/track/7gEQuszu1NiKweV7zOTFr6) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [All Now](https://open.spotify.com/album/2f8gXFGCNXBRNJ7xdqxQuM) | 4:30 | 2024-03-01 |  |
 | [all of my lessons](https://open.spotify.com/track/5pngx2j5NVygoo72yqNaEF) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [all of my lessons](https://open.spotify.com/album/4unK854kzraNk7AGOP9aTO) | 2:56 | 2023-04-14 |  |
 | [All Of The Women \[Feat\. Sa\-Roc\] \- dim star remix](https://open.spotify.com/track/2YRj7gSXG4lq2jrtuW34i0) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [Sa\-Roc](https://open.spotify.com/artist/2tjZzUU3KKhsxlmNjV3VZg), [dim star](https://open.spotify.com/artist/3XH0xpgD87ICnmkcvi1Vq3) | [All Of The Women \[Feat\. Sa\-Roc\] \(dim star remix\)](https://open.spotify.com/album/6hX7DmBnsNpvQXc6eQ3AWK) | 4:39 | 2022-04-01 | 2022-07-15 |
@@ -25,6 +25,7 @@
 | [All The Good Times](https://open.spotify.com/track/1muz3TRXxuub3ERDZbNvQE) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [All The Good Times](https://open.spotify.com/album/1UjZW6c0fdVo5dYMbeuyq3) | 4:36 | 2022-04-01 | 2022-07-29 |
 | [All The Good Times](https://open.spotify.com/track/6Tv21RLLA1Dt6OtPNz8QDq) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Big Time](https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH) | 4:36 | 2022-07-11 | 2024-04-19 |
 | [Always Gonna Happen](https://open.spotify.com/track/4VIo9g5gTcLqbZEDbBMAr8) | [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [Always Gonna Happen](https://open.spotify.com/album/7Jp1J2Smum2GeJRpkZDohG) | 3:59 | 2022-07-11 | 2022-07-29 |
+| [American Life](https://open.spotify.com/track/3MjtWHOC0uCAx753vU5pBs) | [John Early](https://open.spotify.com/artist/1Wowp18ocqxJEuVAgVI3Qw), [The Lemon Squares](https://open.spotify.com/artist/4y49vrBcQRqyXSMsUmuV3f) | [Now More Than Ever](https://open.spotify.com/album/5BBpUPQSxVp9KbwFaYy0PP) | 5:18 | 2024-09-13 |  |
 | [Any Dreams?](https://open.spotify.com/track/68Iv09LPmQVMdg6sk1p06z) | [Saint Sister](https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14) | [Where I Should End](https://open.spotify.com/album/3bhefIMRjVWNQ73NN8QZ6v) | 5:18 | 2021-11-12 |  |
 | [Anywhere](https://open.spotify.com/track/11s7r8ffgXRZreqvMVPACS) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer](https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D) | 3:48 | 2022-07-11 | 2024-04-19 |
 | [Anywhere](https://open.spotify.com/track/5ZxFg3dgrAYd5G6NMKGU1l) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Hospital](https://open.spotify.com/album/1ENe8pdOhj33eDRWNv6Nd2) | 3:48 | 2022-07-11 | 2022-09-12 |

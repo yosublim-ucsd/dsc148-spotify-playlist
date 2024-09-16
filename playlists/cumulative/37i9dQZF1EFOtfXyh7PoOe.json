@@ -857,6 +857,24 @@
     },
     {
       "album": {
+        "name": "Verbathim",
+        "url": "https://open.spotify.com/album/6aLc5t3mdbmonoCZMAnZ7N"
+      },
+      "artists": [
+        {
+          "name": "Nemahsis",
+          "url": "https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f"
+        }
+      ],
+      "date_added": "2024-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "fine print",
+      "url": "https://open.spotify.com/track/2jffev12ZeINFfKAbBHzbP"
+    },
+    {
+      "album": {
         "name": "Flame Princess",
         "url": "https://open.spotify.com/album/6VqvodNkoL0C6DNu0wENXh"
       },
@@ -2274,10 +2292,28 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-16",
       "duration_ms": 116266,
       "name": "you wore it better",
       "url": "https://open.spotify.com/track/1kXDpU4bGa4NbxHzYQyp0z"
+    },
+    {
+      "album": {
+        "name": "Verbathim",
+        "url": "https://open.spotify.com/album/6aLc5t3mdbmonoCZMAnZ7N"
+      },
+      "artists": [
+        {
+          "name": "Nemahsis",
+          "url": "https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f"
+        }
+      ],
+      "date_added": "2024-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116266,
+      "name": "you wore it better",
+      "url": "https://open.spotify.com/track/487GiEQ1NhLnAVSMcEzfdu"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1EFOtfXyh7PoOe"

@@ -2,7 +2,7 @@
 
 ### [This Is Daddy Lumba](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3gEzVb)
 
-> This is Daddy Lumba\. The essential tracks, all in one playlist.
+> This is Daddy Lumba\. Tutti i brani in un'unica playlist.
 
 65 songs - 6 hr 9 min
 

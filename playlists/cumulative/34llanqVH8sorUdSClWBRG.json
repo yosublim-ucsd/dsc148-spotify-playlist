@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Transcendental Youth",
+        "url": "https://open.spotify.com/album/1AOcKK0PoTQtuRZVhOgJlp"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2024-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192653,
+      "name": "Cry for Judas",
+      "url": "https://open.spotify.com/track/6dzU8kkXmOGCMNyX149BX3"
+    },
+    {
+      "album": {
         "name": "Counterfeit Arcade",
         "url": "https://open.spotify.com/album/3OdykG7E7VoQwsG38E2Bux"
       },

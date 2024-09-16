@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 
 > Emo feels for the misunderstood\. Cover: mgk & Trippie Redd
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,601,969 likes - 150 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,602,124 likes - 150 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 73 | [Feel Alive \(feat\. Lil Tracy\)](https://open.spotify.com/track/2gfssLSjUEqJnrGyHMWemS) | [Brennan Savage](https://open.spotify.com/artist/6SSmy635N3a4oWmPk85xpK) | [Feel Alive \(feat\. Lil Tracy\)](https://open.spotify.com/album/767SOFGVixK5ZGpKVPZhgn) | 2:44 |
 | 74 | [She Likes My Tattoos](https://open.spotify.com/track/2Lle3tbO97Dd4I3deOZ92g) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [She Likes My Tattoos](https://open.spotify.com/album/5K2xRnUFqZBB1FoWoegvp7) | 2:44 |
 | 75 | [castle with the cobwebs](https://open.spotify.com/track/3cvFdYVef5nm0BFn1nqek3) | [sadeyes](https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0) | [castle with the cobwebs](https://open.spotify.com/album/1R6XgSsb1wlhwimb3yClxS) | 2:27 |
-| 76 | [I’ll Keep You Safe](https://open.spotify.com/track/1H3Q48ARz2ZEwbOl6s53Mq) | [Vluestar](https://open.spotify.com/artist/2FcgwIGEPmPyItFPscscDO) | [I’ll Keep You Safe](https://open.spotify.com/album/7tdgNlk73DWhsf6jPDlhCX) | 2:20 |
+| 76 | [I'll Keep You Safe](https://open.spotify.com/track/1H3Q48ARz2ZEwbOl6s53Mq) | [Vluestar](https://open.spotify.com/artist/2FcgwIGEPmPyItFPscscDO) | [I'll Keep You Safe](https://open.spotify.com/album/7tdgNlk73DWhsf6jPDlhCX) | 2:20 |
 | 77 | [4AM](https://open.spotify.com/track/2O2kaMSTwJqeKaE44YNthA) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [XFOREVER](https://open.spotify.com/album/6WJB3ie2QvOhlLj4sqcK1n) | 2:45 |
 | 78 | [Push Me Away \(feat\. Remington Leith of Palaye Royale\)](https://open.spotify.com/track/12JSxSPqJWXttqi2dJvYRh) | [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB), [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Do You Like Me Now \(feat\. Kellin Quinn of Sleeping With Sirens\)](https://open.spotify.com/album/4wFUDCIQM4X7OAKQc2KaJv) | 2:49 |
 | 79 | [starstruck](https://open.spotify.com/track/15AGcabJTNLdLc01X3OoO9) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 7](https://open.spotify.com/album/6vOQwXoPaRXUco9ob7xK9q) | 2:03 |

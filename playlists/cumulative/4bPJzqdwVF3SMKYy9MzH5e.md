@@ -4,7 +4,7 @@
 
 > 
 
-1,969 songs - 4 day 10 hr 2 min
+1,970 songs - 4 day 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1665,6 +1665,7 @@
 | [Take Me Home](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Take me home](https://open.spotify.com/album/4CykmPXyJzacASnoxR33ns) | 3:20 | 2022-12-23 |  |
 | [talk is overrated](https://open.spotify.com/track/7cflqPPi3zWfLFRRBTWeh6) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [idle](https://open.spotify.com/album/77EcAn5H4pGamI8JiwvP4T) | 3:09 | 2021-08-05 |  |
 | [Talk talk](https://open.spotify.com/track/62fqMvguJbsSs9HKhhRfuS) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:41 | 2024-06-10 |  |
+| [Talk talk featuring troye sivan](https://open.spotify.com/track/2LUD3874dlzeRa34Hi7ohW) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Talk talk featuring troye sivan](https://open.spotify.com/album/4hSYRtDjN1XbTqBKTw33sj) | 2:53 | 2024-09-15 |  |
 | [Talk To Me Nice](https://open.spotify.com/track/0k4C2siRScZQAb7eIEQDI5) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Talk To Me Nice](https://open.spotify.com/album/47SFbNznLU50PNraq3mIdn) | 3:49 | 2023-11-30 |  |
 | [Talkin](https://open.spotify.com/track/5YU1ZOUIhczicnVTC7I725) | [Killumantii](https://open.spotify.com/artist/3uihH9rY2n7IgCkO0Rjbe1) | [Yellow Tape](https://open.spotify.com/album/0TroBvRGd0frXPVgWfx8QK) | 2:44 | 2021-08-05 |  |
 | [Tantrum](https://open.spotify.com/track/3htJKHlAjUoRmNLheJ8uTV) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Tantrum](https://open.spotify.com/album/5IRp7hBdLQOz5gB90M1hg0) | 2:20 | 2021-08-05 |  |

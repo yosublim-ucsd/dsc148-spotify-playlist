@@ -1,12 +1,12 @@
 {
-  "description": "This is Madonna. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 668704,
+  "description": "This Is Madonna. Los temas esenciales, todos en una lista.",
+  "num_followers": 668781,
   "original_name": "This Is Madonna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuOAgAAAAAAe6xkOHCM5oW7aabI+gOub",
+  "snapshot_id": "ZuTSAAAAAACeHMxC5z6sIBkLT3i3konM",
   "tracks": [
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bedtime Stories",
-        "url": "https://open.spotify.com/album/1saoZHjleM0tAQQoCvpMrB"
+        "name": "Who's That Girl Soundtrack",
+        "url": "https://open.spotify.com/album/21vHnROXDZY51gJxsjTLXZ"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 321360,
-      "name": "Take a Bow",
-      "url": "https://open.spotify.com/track/5oqukcHWfqq7HGjyKwLX1y"
+      "duration_ms": 239173,
+      "name": "Who's That Girl",
+      "url": "https://open.spotify.com/track/3G0NNqwQ1sqRpySr6soHlH"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who's That Girl Soundtrack",
-        "url": "https://open.spotify.com/album/21vHnROXDZY51gJxsjTLXZ"
+        "name": "Bedtime Stories",
+        "url": "https://open.spotify.com/album/1saoZHjleM0tAQQoCvpMrB"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 239173,
-      "name": "Who's That Girl",
-      "url": "https://open.spotify.com/track/3G0NNqwQ1sqRpySr6soHlH"
+      "duration_ms": 321360,
+      "name": "Take a Bow",
+      "url": "https://open.spotify.com/track/5oqukcHWfqq7HGjyKwLX1y"
     },
     {
       "added_at": null,

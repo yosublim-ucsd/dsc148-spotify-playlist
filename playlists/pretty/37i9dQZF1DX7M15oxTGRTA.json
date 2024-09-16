@@ -1,6 +1,6 @@
 {
   "description": "Soul Music daqui e de fora, um toque de sensibilidade. Foto: Cassiano",
-  "num_followers": 139477,
+  "num_followers": 139550,
   "original_name": "Melodia & Nostalgia",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-07-09 17:06:54",
       "album": {
-        "name": "That's The Way Of The World",
-        "url": "https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 299333,
-      "name": "Reasons",
-      "url": "https://open.spotify.com/track/1srD2uc11TcQiOmHHrJp8M"
-    },
-    {
-      "added_at": "2024-07-09 17:06:54",
-      "album": {
         "name": "Spellbound",
         "url": "https://open.spotify.com/album/6gHhunUztPgpyBmzeie6MH"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 205906,
       "name": "If You Don't Know Me by Now (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/3NElqDNNnzvWYOwsbxLQKN"
+    },
+    {
+      "added_at": "2024-07-09 17:06:54",
+      "album": {
+        "name": "That's The Way Of The World",
+        "url": "https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 299333,
+      "name": "Reasons",
+      "url": "https://open.spotify.com/track/1srD2uc11TcQiOmHHrJp8M"
     },
     {
       "added_at": "2024-07-09 17:06:54",
@@ -451,8 +451,8 @@
     {
       "added_at": "2024-07-09 17:06:54",
       "album": {
-        "name": "Jarreau",
-        "url": "https://open.spotify.com/album/3shAfFQ9RZWalGR5JSgnTb"
+        "name": "Breakin' Away",
+        "url": "https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X"
       },
       "artists": [
         {
@@ -460,25 +460,9 @@
           "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
         }
       ],
-      "duration_ms": 258399,
-      "name": "Mornin'",
-      "url": "https://open.spotify.com/track/4TxBGpTxrNvRNhF39Dl3NQ"
-    },
-    {
-      "added_at": "2024-07-09 17:06:54",
-      "album": {
-        "name": "Off the Wall",
-        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 269333,
-      "name": "I Can't Help It",
-      "url": "https://open.spotify.com/track/1HibhNhwk2tljwC4BGGLXV"
+      "duration_ms": 226066,
+      "name": "We're in This Love Together",
+      "url": "https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v"
     },
     {
       "added_at": "2024-07-09 17:06:54",
@@ -495,22 +479,6 @@
       "duration_ms": 352586,
       "name": "All This Love",
       "url": "https://open.spotify.com/track/6ABtlkvl08XQo6Xu24FJaf"
-    },
-    {
-      "added_at": "2024-07-09 17:06:54",
-      "album": {
-        "name": "Life Is A Song Worth Singing (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 296880,
-      "name": "When Somebody Loves You Back",
-      "url": "https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw"
     },
     {
       "added_at": "2024-07-09 17:06:54",
@@ -535,18 +503,34 @@
     {
       "added_at": "2024-07-09 17:06:54",
       "album": {
-        "name": "The Best Of Stephanie Mills",
-        "url": "https://open.spotify.com/album/39zaDShYbKOKXiOLArBrhO"
+        "name": "Off the Wall",
+        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
       },
       "artists": [
         {
-          "name": "Stephanie Mills",
-          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 325173,
-      "name": "Never Knew Love Like This Before",
-      "url": "https://open.spotify.com/track/4EUlszQIxlPwiHJ6e6j6Gy"
+      "duration_ms": 269333,
+      "name": "I Can't Help It",
+      "url": "https://open.spotify.com/track/1HibhNhwk2tljwC4BGGLXV"
+    },
+    {
+      "added_at": "2024-07-09 17:06:54",
+      "album": {
+        "name": "Life Is A Song Worth Singing (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 296880,
+      "name": "When Somebody Loves You Back",
+      "url": "https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw"
     },
     {
       "added_at": "2024-07-09 17:06:54",
@@ -567,6 +551,74 @@
     {
       "added_at": "2024-07-09 17:06:54",
       "album": {
+        "name": "Silky Soul",
+        "url": "https://open.spotify.com/album/2IO8mNFG4FS3sdVWUG3qGC"
+      },
+      "artists": [
+        {
+          "name": "Maze",
+          "url": "https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt"
+        },
+        {
+          "name": "Frankie Beverly",
+          "url": "https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n"
+        }
+      ],
+      "duration_ms": 317026,
+      "name": "Can't Get over You",
+      "url": "https://open.spotify.com/track/0JoU0lwoMyWxGkljNJpJoM"
+    },
+    {
+      "added_at": "2024-07-09 17:06:54",
+      "album": {
+        "name": "Jarreau",
+        "url": "https://open.spotify.com/album/3shAfFQ9RZWalGR5JSgnTb"
+      },
+      "artists": [
+        {
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+        }
+      ],
+      "duration_ms": 258399,
+      "name": "Mornin'",
+      "url": "https://open.spotify.com/track/4TxBGpTxrNvRNhF39Dl3NQ"
+    },
+    {
+      "added_at": "2024-07-09 17:06:54",
+      "album": {
+        "name": "The Best Of Stephanie Mills",
+        "url": "https://open.spotify.com/album/39zaDShYbKOKXiOLArBrhO"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Mills",
+          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
+        }
+      ],
+      "duration_ms": 325173,
+      "name": "Never Knew Love Like This Before",
+      "url": "https://open.spotify.com/track/4EUlszQIxlPwiHJ6e6j6Gy"
+    },
+    {
+      "added_at": "2024-07-09 17:06:54",
+      "album": {
+        "name": "You've Got It Bad Girl",
+        "url": "https://open.spotify.com/album/4fbKwL6dBzBF07dOkc2yRB"
+      },
+      "artists": [
+        {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+        }
+      ],
+      "duration_ms": 244440,
+      "name": "Summer In The City",
+      "url": "https://open.spotify.com/track/39eFFeKv7QaTBIukk7TYVu"
+    },
+    {
+      "added_at": "2024-07-09 17:06:54",
+      "album": {
         "name": "All the Greatest Hits",
         "url": "https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ"
       },
@@ -579,42 +631,6 @@
       "duration_ms": 282480,
       "name": "Computer Love",
       "url": "https://open.spotify.com/track/677tTabxmQFZjoNlo2E6JW"
-    },
-    {
-      "added_at": "2024-07-09 17:06:54",
-      "album": {
-        "name": "Diana & Marvin (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1jbl32APgmqzDulRIqLQwC"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        },
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 177786,
-      "name": "Stop, Look, Listen (To Your Heart)",
-      "url": "https://open.spotify.com/track/0kKpGcvoXroKo1iNO5cDhi"
-    },
-    {
-      "added_at": "2024-07-09 17:06:54",
-      "album": {
-        "name": "Breakin' Away",
-        "url": "https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X"
-      },
-      "artists": [
-        {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
-        }
-      ],
-      "duration_ms": 226066,
-      "name": "We're in This Love Together",
-      "url": "https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v"
     },
     {
       "added_at": "2024-07-09 17:06:54",
@@ -635,22 +651,22 @@
     {
       "added_at": "2024-07-09 17:06:54",
       "album": {
-        "name": "Silky Soul",
-        "url": "https://open.spotify.com/album/2IO8mNFG4FS3sdVWUG3qGC"
+        "name": "Diana & Marvin (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1jbl32APgmqzDulRIqLQwC"
       },
       "artists": [
         {
-          "name": "Maze",
-          "url": "https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt"
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
         },
         {
-          "name": "Frankie Beverly",
-          "url": "https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n"
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
         }
       ],
-      "duration_ms": 317026,
-      "name": "Can't Get over You",
-      "url": "https://open.spotify.com/track/0JoU0lwoMyWxGkljNJpJoM"
+      "duration_ms": 177786,
+      "name": "Stop, Look, Listen (To Your Heart)",
+      "url": "https://open.spotify.com/track/0kKpGcvoXroKo1iNO5cDhi"
     },
     {
       "added_at": "2024-07-09 17:06:54",
@@ -687,22 +703,6 @@
     {
       "added_at": "2024-07-09 17:06:54",
       "album": {
-        "name": "You've Got It Bad Girl",
-        "url": "https://open.spotify.com/album/4fbKwL6dBzBF07dOkc2yRB"
-      },
-      "artists": [
-        {
-          "name": "Quincy Jones",
-          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
-        }
-      ],
-      "duration_ms": 244440,
-      "name": "Summer In The City",
-      "url": "https://open.spotify.com/track/39eFFeKv7QaTBIukk7TYVu"
-    },
-    {
-      "added_at": "2024-07-09 17:06:54",
-      "album": {
         "name": "The Essential Isley Brothers",
         "url": "https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v"
       },
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-07-09 17:06:54",
       "album": {
-        "name": "I Want You (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/28nUWsyczStUhYKXTY1IoW"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 388546,
-      "name": "Come Live With Me Angel",
-      "url": "https://open.spotify.com/track/7gs18umrgrIpRlDQIzKhpH"
-    },
-    {
-      "added_at": "2024-07-09 17:06:54",
-      "album": {
         "name": "Very Special",
         "url": "https://open.spotify.com/album/2mjNADEgtMAoNfXTLcFTn4"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 268173,
       "name": "Very Special",
       "url": "https://open.spotify.com/track/6wKAZB2lwOWeqpwquNHThG"
+    },
+    {
+      "added_at": "2024-07-09 17:06:54",
+      "album": {
+        "name": "I Want You (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/28nUWsyczStUhYKXTY1IoW"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 388546,
+      "name": "Come Live With Me Angel",
+      "url": "https://open.spotify.com/track/7gs18umrgrIpRlDQIzKhpH"
     },
     {
       "added_at": "2024-07-09 17:06:54",
@@ -835,6 +835,26 @@
     {
       "added_at": "2024-07-09 17:06:54",
       "album": {
+        "name": "Silky Soul",
+        "url": "https://open.spotify.com/album/2IO8mNFG4FS3sdVWUG3qGC"
+      },
+      "artists": [
+        {
+          "name": "Maze",
+          "url": "https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt"
+        },
+        {
+          "name": "Frankie Beverly",
+          "url": "https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n"
+        }
+      ],
+      "duration_ms": 405200,
+      "name": "Silky Soul",
+      "url": "https://open.spotify.com/track/13DPzltcv8RmuzQDfw2ItH"
+    },
+    {
+      "added_at": "2024-07-09 17:06:54",
+      "album": {
         "name": "The Jones Girls",
         "url": "https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD"
       },
@@ -847,6 +867,22 @@
       "duration_ms": 204720,
       "name": "Who Can I Run To",
       "url": "https://open.spotify.com/track/3sFoSCg2KoaCUrOeKYMqvI"
+    },
+    {
+      "added_at": "2024-07-09 17:06:54",
+      "album": {
+        "name": "Rejoice",
+        "url": "https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA"
+      },
+      "artists": [
+        {
+          "name": "The Emotions",
+          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
+        }
+      ],
+      "duration_ms": 267066,
+      "name": "Don't Ask My Neighbors",
+      "url": "https://open.spotify.com/track/2GZe8LsPldakpQy5T8151f"
     },
     {
       "added_at": "2024-07-09 17:06:54",
@@ -871,22 +907,6 @@
     {
       "added_at": "2024-07-09 17:06:54",
       "album": {
-        "name": "Rejoice",
-        "url": "https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA"
-      },
-      "artists": [
-        {
-          "name": "The Emotions",
-          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
-        }
-      ],
-      "duration_ms": 267066,
-      "name": "Don't Ask My Neighbors",
-      "url": "https://open.spotify.com/track/2GZe8LsPldakpQy5T8151f"
-    },
-    {
-      "added_at": "2024-07-09 17:06:54",
-      "album": {
         "name": "Open Our Eyes",
         "url": "https://open.spotify.com/album/5wELXR9l9i0ffOylTmpHV0"
       },
@@ -899,26 +919,6 @@
       "duration_ms": 290186,
       "name": "Devotion",
       "url": "https://open.spotify.com/track/2RH61BqMEeRjfND7MQBWHU"
-    },
-    {
-      "added_at": "2024-07-09 17:06:54",
-      "album": {
-        "name": "Silky Soul",
-        "url": "https://open.spotify.com/album/2IO8mNFG4FS3sdVWUG3qGC"
-      },
-      "artists": [
-        {
-          "name": "Maze",
-          "url": "https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt"
-        },
-        {
-          "name": "Frankie Beverly",
-          "url": "https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n"
-        }
-      ],
-      "duration_ms": 405200,
-      "name": "Silky Soul",
-      "url": "https://open.spotify.com/track/13DPzltcv8RmuzQDfw2ItH"
     },
     {
       "added_at": "2024-07-09 17:06:54",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2024-07-09 17:06:54",
       "album": {
-        "name": "Patti LaBelle's Greatest Hits",
-        "url": "https://open.spotify.com/album/12ENRe4Pw9qXVXz10nng3R"
-      },
-      "artists": [
-        {
-          "name": "Patti LaBelle",
-          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
-        },
-        {
-          "name": "Michael McDonald",
-          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
-        }
-      ],
-      "duration_ms": 283440,
-      "name": "On My Own - Single Version",
-      "url": "https://open.spotify.com/track/29UXndgjLVTUZ8b1Mhz9CR"
-    },
-    {
-      "added_at": "2024-07-09 17:06:54",
-      "album": {
         "name": "The Essential Isley Brothers",
         "url": "https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v"
       },
@@ -1095,6 +1075,26 @@
     {
       "added_at": "2024-07-09 17:06:54",
       "album": {
+        "name": "Patti LaBelle's Greatest Hits",
+        "url": "https://open.spotify.com/album/12ENRe4Pw9qXVXz10nng3R"
+      },
+      "artists": [
+        {
+          "name": "Patti LaBelle",
+          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
+        },
+        {
+          "name": "Michael McDonald",
+          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
+        }
+      ],
+      "duration_ms": 283440,
+      "name": "On My Own - Single Version",
+      "url": "https://open.spotify.com/track/29UXndgjLVTUZ8b1Mhz9CR"
+    },
+    {
+      "added_at": "2024-07-09 17:06:54",
+      "album": {
         "name": "On The Rise",
         "url": "https://open.spotify.com/album/6Q06918qdBmGSuMlfnERUb"
       },
@@ -1123,6 +1123,22 @@
       "duration_ms": 174400,
       "name": "You Are Everything",
       "url": "https://open.spotify.com/track/6VzG27NVjcEAP4af8ShhWM"
+    },
+    {
+      "added_at": "2024-07-09 17:06:54",
+      "album": {
+        "name": "Giving You the Best That I Got",
+        "url": "https://open.spotify.com/album/2X4C9NBLaFtUSZLPqTC50W"
+      },
+      "artists": [
+        {
+          "name": "Anita Baker",
+          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
+        }
+      ],
+      "duration_ms": 333533,
+      "name": "Good Love",
+      "url": "https://open.spotify.com/track/2MJl8m9AbWgXLq4Ku7wWCX"
     },
     {
       "added_at": "2024-07-09 17:06:54",
@@ -1163,22 +1179,6 @@
       "duration_ms": 288040,
       "name": "Cada Um, Cada Um",
       "url": "https://open.spotify.com/track/6cPQ0JkBDj9bVn3qFfhWse"
-    },
-    {
-      "added_at": "2024-07-09 17:06:54",
-      "album": {
-        "name": "Giving You the Best That I Got",
-        "url": "https://open.spotify.com/album/2X4C9NBLaFtUSZLPqTC50W"
-      },
-      "artists": [
-        {
-          "name": "Anita Baker",
-          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
-        }
-      ],
-      "duration_ms": 333533,
-      "name": "Good Love",
-      "url": "https://open.spotify.com/track/2MJl8m9AbWgXLq4Ku7wWCX"
     },
     {
       "added_at": "2024-07-09 17:06:54",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-07-09 17:06:54",
       "album": {
-        "name": "Caravan of Love (Expanded Version)",
-        "url": "https://open.spotify.com/album/523bPeVpOAl1NmtiDqQAQ7"
-      },
-      "artists": [
-        {
-          "name": "Isley, Jasper, Isley",
-          "url": "https://open.spotify.com/artist/3QpJtjdcw4jiQpic9R4Mr0"
-        }
-      ],
-      "duration_ms": 374920,
-      "name": "Insatiable Woman - 12\" Version",
-      "url": "https://open.spotify.com/track/005dZEnx7On15zBKACxlG7"
-    },
-    {
-      "added_at": "2024-07-09 17:06:54",
-      "album": {
         "name": "Propositions",
         "url": "https://open.spotify.com/album/0ma0R91MtPMQ7mFj5OgY9j"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 347560,
       "name": "Anticipation",
       "url": "https://open.spotify.com/track/2Q9ED4G5mwlAaxvmkYmvLJ"
+    },
+    {
+      "added_at": "2024-07-09 17:06:54",
+      "album": {
+        "name": "Caravan of Love (Expanded Version)",
+        "url": "https://open.spotify.com/album/523bPeVpOAl1NmtiDqQAQ7"
+      },
+      "artists": [
+        {
+          "name": "Isley, Jasper, Isley",
+          "url": "https://open.spotify.com/artist/3QpJtjdcw4jiQpic9R4Mr0"
+        }
+      ],
+      "duration_ms": 374920,
+      "name": "Insatiable Woman - 12\" Version",
+      "url": "https://open.spotify.com/track/005dZEnx7On15zBKACxlG7"
     },
     {
       "added_at": "2024-07-09 17:06:54",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-07-09 17:06:54",
       "album": {
-        "name": "Girassol",
-        "url": "https://open.spotify.com/album/2z2VudqDCv38Pp6VuQvQmw"
-      },
-      "artists": [
-        {
-          "name": "Marcos Valle",
-          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
-        }
-      ],
-      "duration_ms": 101150,
-      "name": "Girassol",
-      "url": "https://open.spotify.com/track/6qrwtFwKy3brvOIuDhDfQ1"
-    },
-    {
-      "added_at": "2024-07-09 17:06:54",
-      "album": {
         "name": "Nossa Imagina\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/5xigVAuBgDEeKPJMdEu3n9"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 215106,
       "name": "Num Para\u00edso",
       "url": "https://open.spotify.com/track/70EBZBh1LIwvYuzdvtvPCI"
+    },
+    {
+      "added_at": "2024-07-09 17:06:54",
+      "album": {
+        "name": "Girassol",
+        "url": "https://open.spotify.com/album/2z2VudqDCv38Pp6VuQvQmw"
+      },
+      "artists": [
+        {
+          "name": "Marcos Valle",
+          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
+        }
+      ],
+      "duration_ms": 101150,
+      "name": "Girassol",
+      "url": "https://open.spotify.com/track/6qrwtFwKy3brvOIuDhDfQ1"
     },
     {
       "added_at": "2024-07-09 17:06:54",
@@ -1427,22 +1427,6 @@
       "duration_ms": 200840,
       "name": "Sweet Thing",
       "url": "https://open.spotify.com/track/69eoS6bEWWfMac4TL36UiM"
-    },
-    {
-      "added_at": "2024-07-09 17:06:54",
-      "album": {
-        "name": "iCollection",
-        "url": "https://open.spotify.com/album/3yFSvoGiwt8MvGIhPvL4Sn"
-      },
-      "artists": [
-        {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
-        }
-      ],
-      "duration_ms": 300133,
-      "name": "Um dia de domingo",
-      "url": "https://open.spotify.com/track/41UtrfZQMk8598NmRIbZlt"
     },
     {
       "added_at": "2024-07-09 17:06:54",
@@ -1507,6 +1491,22 @@
       "duration_ms": 288440,
       "name": "You Make Me Feel Brand New",
       "url": "https://open.spotify.com/track/00CCi9yHJh7NjXcNT565Ja"
+    },
+    {
+      "added_at": "2024-07-09 17:06:54",
+      "album": {
+        "name": "iCollection",
+        "url": "https://open.spotify.com/album/3yFSvoGiwt8MvGIhPvL4Sn"
+      },
+      "artists": [
+        {
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+        }
+      ],
+      "duration_ms": 300133,
+      "name": "Um dia de domingo",
+      "url": "https://open.spotify.com/track/41UtrfZQMk8598NmRIbZlt"
     },
     {
       "added_at": "2024-07-09 17:06:54",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2024-07-09 17:06:54",
       "album": {
-        "name": "iCollection",
-        "url": "https://open.spotify.com/album/3yFSvoGiwt8MvGIhPvL4Sn"
-      },
-      "artists": [
-        {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
-        }
-      ],
-      "duration_ms": 291106,
-      "name": "Me d\u00ea motivos",
-      "url": "https://open.spotify.com/track/30DmZoDNZaaLTWtur7cI66"
-    },
-    {
-      "added_at": "2024-07-09 17:06:54",
-      "album": {
         "name": "Pizzazz",
         "url": "https://open.spotify.com/album/3PgLKHkINPRRRA76eT6QJY"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 428240,
       "name": "I'm Gonna Love You Just A Little More Baby",
       "url": "https://open.spotify.com/track/4sfcHQgJdkB3g9itexwsvk"
+    },
+    {
+      "added_at": "2024-07-09 17:06:54",
+      "album": {
+        "name": "iCollection",
+        "url": "https://open.spotify.com/album/3yFSvoGiwt8MvGIhPvL4Sn"
+      },
+      "artists": [
+        {
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+        }
+      ],
+      "duration_ms": 291106,
+      "name": "Me d\u00ea motivos",
+      "url": "https://open.spotify.com/track/30DmZoDNZaaLTWtur7cI66"
     },
     {
       "added_at": "2024-07-09 17:06:54",

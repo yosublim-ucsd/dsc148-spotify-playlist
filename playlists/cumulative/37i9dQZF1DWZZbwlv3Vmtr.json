@@ -4532,7 +4532,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-16",
       "duration_ms": 128037,
       "name": "Flapjack",
       "url": "https://open.spotify.com/track/0NdWscQuRW9hTfZZFhmtG8"
@@ -16736,6 +16736,24 @@
       "duration_ms": 133597,
       "name": "Unity",
       "url": "https://open.spotify.com/track/5pSAT98oNVHxDWfZn4jVDZ"
+    },
+    {
+      "album": {
+        "name": "Upfront",
+        "url": "https://open.spotify.com/album/1D8b1BsrDvQ3HsFXk6p7ed"
+      },
+      "artists": [
+        {
+          "name": "Korey Wade",
+          "url": "https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Upfront",
+      "url": "https://open.spotify.com/track/2V9Z7zw3B3zCmmdHc8Cg8d"
     },
     {
       "album": {

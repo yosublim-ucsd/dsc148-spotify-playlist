@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 
 > ¡Mujeres de los Andes, a todo volumen! Con una selección especial de Laura Pérez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,311 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,286 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 | 99 | [El Favorcito](https://open.spotify.com/track/4nHJp4ynAQQZgSlurkpBen) | [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Canciones Crudas](https://open.spotify.com/album/047ARD5KCqUWxg11bIll8Q) | 3:28 |
 | 100 | [Habitación](https://open.spotify.com/track/6Za9ddL9Q4Azhh1PKm2rXE) | [rulolo](https://open.spotify.com/artist/0wUnZqPe3TfKVj7Fbbgfqt), [Maya Endo](https://open.spotify.com/artist/05swzPCeWZMjApcUBYLyyi) | [Habitación](https://open.spotify.com/album/5ziLtNjrl2ZeyF4ZwauFQm) | 3:00 |
 
-Snapshot ID: `ZtfpFAAAAADrIow/6xJD0UWZUq2caS/c`
+Snapshot ID: `ZtfpFAAAAADLNds7knYtjeeU8YPNgqDz`

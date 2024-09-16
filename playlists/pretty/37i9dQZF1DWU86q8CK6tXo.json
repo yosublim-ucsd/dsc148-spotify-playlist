@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover: Tinashe",
-  "num_followers": 59236,
+  "num_followers": 59232,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
@@ -227,22 +227,6 @@
     {
       "added_at": "2024-09-06 14:51:57",
       "album": {
-        "name": "ORQU\u00cdDEAS PARTE 2 - Deluxe",
-        "url": "https://open.spotify.com/album/1quQQFsx3AcBBotzj9UXfS"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 202123,
-      "name": "Simple",
-      "url": "https://open.spotify.com/track/2xQIb4ZLQLAiWAZejlmOoR"
-    },
-    {
-      "added_at": "2024-09-06 14:51:57",
-      "album": {
         "name": "Sugar Honey Iced Tea",
         "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 217613,
       "name": "Brokey",
       "url": "https://open.spotify.com/track/1JF8LkQWZ8grXb2emqrNKn"
+    },
+    {
+      "added_at": "2024-09-06 14:51:57",
+      "album": {
+        "name": "ORQU\u00cdDEAS PARTE 2 - Deluxe",
+        "url": "https://open.spotify.com/album/1quQQFsx3AcBBotzj9UXfS"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 202123,
+      "name": "Simple",
+      "url": "https://open.spotify.com/track/2xQIb4ZLQLAiWAZejlmOoR"
     },
     {
       "added_at": "2024-09-06 14:51:57",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-09-06 14:51:57",
       "album": {
-        "name": "GIRLS GONE WILD",
-        "url": "https://open.spotify.com/album/7q2C8SwFYTyWCspWExMsZN"
-      },
-      "artists": [
-        {
-          "name": "Anycia",
-          "url": "https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I"
-        }
-      ],
-      "duration_ms": 141413,
-      "name": "GIRLS GONE WILD",
-      "url": "https://open.spotify.com/track/5nRyvWHWIb2F0CzIQfbaUr"
-    },
-    {
-      "added_at": "2024-09-06 14:51:57",
-      "album": {
         "name": "Out Of This World",
         "url": "https://open.spotify.com/album/78R8e1C824Qo6335JT41FD"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 216960,
       "name": "Out Of This World",
       "url": "https://open.spotify.com/track/0UcLSSdeAeNCn4T28S0EKO"
+    },
+    {
+      "added_at": "2024-09-06 14:51:57",
+      "album": {
+        "name": "GIRLS GONE WILD",
+        "url": "https://open.spotify.com/album/7q2C8SwFYTyWCspWExMsZN"
+      },
+      "artists": [
+        {
+          "name": "Anycia",
+          "url": "https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I"
+        }
+      ],
+      "duration_ms": 141413,
+      "name": "GIRLS GONE WILD",
+      "url": "https://open.spotify.com/track/5nRyvWHWIb2F0CzIQfbaUr"
     },
     {
       "added_at": "2024-09-06 14:51:57",

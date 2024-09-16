@@ -1,12 +1,12 @@
 {
   "description": "This is blink-182. The essential tracks, all in one playlist.",
-  "num_followers": 589122,
+  "num_followers": 589172,
   "original_name": "This Is blink-182",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuOAgAAAAAAFLV9JZ9alq9f5VGdU/Dkx",
+  "snapshot_id": "ZuTSAAAAAACnCSBh40C9oZf5jd6sm1gG",
   "tracks": [
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 235613,
-      "name": "Bored to Death",
-      "url": "https://open.spotify.com/track/12YGKHMw1l36tXlgU2Vrjj"
+      "duration_ms": 162720,
+      "name": "She's Out Of Her Mind",
+      "url": "https://open.spotify.com/track/4vQ6z9ZL5mdcQLmbZBvXrl"
     },
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 162720,
-      "name": "She's Out Of Her Mind",
-      "url": "https://open.spotify.com/track/4vQ6z9ZL5mdcQLmbZBvXrl"
+      "duration_ms": 235613,
+      "name": "Bored to Death",
+      "url": "https://open.spotify.com/track/12YGKHMw1l36tXlgU2Vrjj"
     },
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ONE MORE TIME...",
-        "url": "https://open.spotify.com/album/00txDYFrU4LjWqwKE8iQJA"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/31mnNcl6CzIcX8j9n75vYZ"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 126820,
-      "name": "CUT ME OFF",
-      "url": "https://open.spotify.com/track/2Zs1T1OXwcm6XgrIRvAfwH"
+      "duration_ms": 263573,
+      "name": "Not Now",
+      "url": "https://open.spotify.com/track/28yCMEplHbodvR19Aipah8"
     },
     {
       "added_at": null,
@@ -599,22 +599,6 @@
       "duration_ms": 191066,
       "name": "I Really Wish I Hated You",
       "url": "https://open.spotify.com/track/6KWcq5p0wsz97N3eoRUSH6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/31mnNcl6CzIcX8j9n75vYZ"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 263573,
-      "name": "Not Now",
-      "url": "https://open.spotify.com/track/28yCMEplHbodvR19Aipah8"
     },
     {
       "added_at": null,

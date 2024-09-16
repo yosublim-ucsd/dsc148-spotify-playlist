@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZQgENtHuxI.md) - [plain]
 
 > Sortez les pantalons pattes d‘eph et les chemises en satin !
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,483 likes - 100 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,476 likes - 100 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZQgENtHuxI.md) - [plain]
 | 57 | [Love's Theme](https://open.spotify.com/track/5FFaUuv02cSOcqtlzPnHee) | [The Love Unlimited Orchestra](https://open.spotify.com/artist/457yGSZecENoIuNWelRHhH) | [Rhapsody In White](https://open.spotify.com/album/15uGHYJx0RwYK8FdZIiedj) | 4:06 |
 | 58 | [Get Down On It](https://open.spotify.com/track/7bvmwKRBXS8oxoFKsCsjYn) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Something Special](https://open.spotify.com/album/1T1gVhiBTaMifkHTDKjSGy) | 4:53 |
 | 59 | [Genius Of Love](https://open.spotify.com/track/11aqD66CgNU4UXKGz9DtfZ) | [Tom Tom Club](https://open.spotify.com/artist/1m24736Bdew1oQVxTePOCo) | [Wordy Rappinghood](https://open.spotify.com/album/68Iowv229lKyHJZxSrfKL3) | 5:35 |
-| 60 | [Why \- 12" Version](https://open.spotify.com/track/3hI05NM8JnJvQLZMUnRvMa) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [Soup for One \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1rC8ILJkAi4b0p3uqaxZrK) | 8:13 |
+| 60 | [Why \- 12" Version](https://open.spotify.com/track/3hI05NM8JnJvQLZMUnRvMa) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [Soup for One \- Original Motion Picture Soundtrack](https://open.spotify.com/album/1rC8ILJkAi4b0p3uqaxZrK) | 8:13 |
 | 61 | [She's a Bad Mama Jama \(She's Built, She's Stacked\)](https://open.spotify.com/track/69U6e6ucPkxgzgbQ86uQUr) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Ultimate Funk](https://open.spotify.com/album/5KX7xEa6LK3fhstw0lVpBR) | 3:57 |
 | 62 | [Shame \- Single Version](https://open.spotify.com/track/0mvhxY8mngQRg2ZU44SNWV) | [Evelyn "Champagne" King](https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7) | [Smooth Talk \(Expanded Edition\)](https://open.spotify.com/album/36L8r12QGHalhbtn6wdtSa) | 8:19 |
 | 63 | [Dancer](https://open.spotify.com/track/4lteGaLzU5veJOe6wnOvz4) | [Gino Soccio](https://open.spotify.com/artist/3q2AjYY7FmiMh29bKki4EE) | [Outline](https://open.spotify.com/album/71NzsQgmjQ5rIm33Hpjv2V) | 8:28 |

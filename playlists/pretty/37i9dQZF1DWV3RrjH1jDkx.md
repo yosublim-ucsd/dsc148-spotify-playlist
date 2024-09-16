@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og masse ny musikk! 🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,580 likes - 103 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,622 likes - 103 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 35 | [H V D O L](https://open.spotify.com/track/2ZMH3fAwB2VlcmPOrFMnX6) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [H V D O L](https://open.spotify.com/album/4BkWRBQ1YISV5dYFaUD3bz) | 3:39 |
 | 36 | [Svart Hvitt](https://open.spotify.com/track/2VYkhKU6oHSQWRPf5Fj4hc) | [PandaPanda](https://open.spotify.com/artist/3bprEfGCk6tljbWjtvGQH5) | [Svart Hvitt](https://open.spotify.com/album/5Riqu2wfrqZCBEJHGTjWN6) | 1:57 |
 | 37 | [Cleats](https://open.spotify.com/track/7HWONeQrWpcjflAPGbH5L3) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Cleats](https://open.spotify.com/album/0VZGFBmqzdTFhMgMl7rsxB) | 3:41 |
-| 38 | [Peiling \(feat\. Greni\)](https://open.spotify.com/track/7ezryXKj7BMWtsfdp5o8kX) | [Klossmajor](https://open.spotify.com/artist/1XgbkJNbyHcYaa4WAjGlCc), [Greni](https://open.spotify.com/artist/7GgksazCOqOwZE9IoCpDLg) | [Peiling \(feat\. Greni\)](https://open.spotify.com/album/29D39IIN621Usm8AB3mv3l) | 3:20 |
+| 38 | [Peiling feat\. Øystein Greni](https://open.spotify.com/track/7ezryXKj7BMWtsfdp5o8kX) | [Klossmajor](https://open.spotify.com/artist/1XgbkJNbyHcYaa4WAjGlCc), [Greni](https://open.spotify.com/artist/7GgksazCOqOwZE9IoCpDLg) | [Peiling feat\. Øystein Greni](https://open.spotify.com/album/29D39IIN621Usm8AB3mv3l) | 3:20 |
 | 39 | [Dollar](https://open.spotify.com/track/1UkwHkHDCEoyoVLAxb6iWH) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [The Journey](https://open.spotify.com/album/1m40sV8ay2oarveKvfckRj) | 2:21 |
 | 40 | [Number and a Street](https://open.spotify.com/track/1NT3kVjvvjmDPt20F58EDr) | [Malin Pettersen](https://open.spotify.com/artist/3kVhFap6wa2EN5yrMZIupm) | [Seasons](https://open.spotify.com/album/64eTSlCRiKUolrsET9Kl2v) | 3:14 |
 | 41 | [Alene I En Klubb](https://open.spotify.com/track/4bJHo73cpA49FxAsGbSh0b) | [Leander](https://open.spotify.com/artist/0ptaRVnCDp9FHTdgbqDxdb) | [Alene I En Klubb](https://open.spotify.com/album/1g2uuViQLOnNWafAy0CP3u) | 2:42 |

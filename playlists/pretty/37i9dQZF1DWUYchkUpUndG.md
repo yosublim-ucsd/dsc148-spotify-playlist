@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: "<a href=https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb?si=mi9ltdkFRwWVMtKEJoMPvA>Joe Mettle</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,671 likes - 104 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,739 likes - 104 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

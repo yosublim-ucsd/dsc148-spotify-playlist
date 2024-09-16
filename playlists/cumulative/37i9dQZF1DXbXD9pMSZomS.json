@@ -2069,6 +2069,28 @@
     },
     {
       "album": {
+        "name": "Iced Coffee",
+        "url": "https://open.spotify.com/album/6TftWZf2uvREyJaKLlTL47"
+      },
+      "artists": [
+        {
+          "name": "ddp",
+          "url": "https://open.spotify.com/artist/0HspbEdYue08iRrGtnG0YY"
+        },
+        {
+          "name": "Turi",
+          "url": "https://open.spotify.com/artist/1oSMgnyRBHfOt26vBan09F"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157680,
+      "name": "Iced Coffee",
+      "url": "https://open.spotify.com/track/6rxQMY5SxOpSO1neanphxY"
+    },
+    {
+      "album": {
         "name": "Image",
         "url": "https://open.spotify.com/album/02e6feYjhxdcgdyfzkHDc0"
       },
@@ -4350,7 +4372,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-16",
       "duration_ms": 336025,
       "name": "The Body Move",
       "url": "https://open.spotify.com/track/7Ejtrc5RR6DPVAQHpbhL7W"

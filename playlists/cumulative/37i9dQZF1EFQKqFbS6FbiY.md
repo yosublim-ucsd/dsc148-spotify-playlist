@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-559 songs - 1 day 3 hr 13 min
+560 songs - 1 day 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [Emocionou \- Ao Vivo](https://open.spotify.com/track/0yaIh1QAlIb9Ie4XYGWqdQ) | [Humberto & Ronaldo](https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn), [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW) | [Evolution \(Ao Vivo\)](https://open.spotify.com/album/7i4gFjRrXE5WTKBhJhAapB) | 2:12 | 2023-12-30 |  |
 | [Encarcerado](https://open.spotify.com/track/3Z1v2vb4QQCQTloMzuIpf3) | [Laluna e Vinícius](https://open.spotify.com/artist/2FC4Om8SSHWcOzab7jTYGf) | [O Que Rola Com Você](https://open.spotify.com/album/1KTxeiiTjqZCPZKDM7LRsm) | 3:13 | 2023-12-30 |  |
 | [Enganado do Mês \- Ao Vivo](https://open.spotify.com/track/360Ik8fTGyFWZ9tL4hraJd) | [Lucas Seabra](https://open.spotify.com/artist/0aY2Z3Y957gARk8soaDNCA) | [Ao Vivo em Goiânia, Ep\. 01](https://open.spotify.com/album/6xliUxKRpUFsLiELD2fxNe) | 2:51 | 2024-03-26 |  |
+| [Enquanto Ele Dorme](https://open.spotify.com/track/68wAihrDvEPukfpO02f1jp) | [Allanzinho](https://open.spotify.com/artist/73qBqoOL5FnxUSdtTl5JQ0) | [O Repertório Que Você Confia!](https://open.spotify.com/album/3F1W8aNkBgOVkjHZFiDwUr) | 2:22 | 2024-09-15 |  |
 | [Então Vou Avisar \- Ao Vivo](https://open.spotify.com/track/6xdpofJoiJg7hbFMkHdr9w) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz), [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Então Vou Avisar \(Ao Vivo\)](https://open.spotify.com/album/25PqAhRcrAv3CeG5F2Mwqg) | 3:06 | 2023-12-30 | 2024-02-02 |
 | [Então Vou Avisar \- Ao Vivo](https://open.spotify.com/track/1imiMuvxpEkY0Zqepy0D9i) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz), [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Yasmin Santos Ao Vivo em São Paulo](https://open.spotify.com/album/4Izu6KXDCXGOjSEFUjBvYq) | 3:07 | 2024-01-01 |  |
 | [Erro Que Beija Demais \- Ao Vivo](https://open.spotify.com/track/6gOSTE0E6xcMuShizYxeAi) | [Alice Ianes](https://open.spotify.com/artist/5t9QE38oK2ziTKzi2s0nh5) | [Ao Vivo em Goiânia, Ep\. 2](https://open.spotify.com/album/6tkGC2RInYatoe1pvKymD1) | 2:28 | 2024-03-26 |  |

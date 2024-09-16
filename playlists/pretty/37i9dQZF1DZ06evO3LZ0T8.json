@@ -1,12 +1,12 @@
 {
   "description": "This is SUBSHIFT. The essential tracks, all in one playlist.",
-  "num_followers": 4261,
+  "num_followers": 4268,
   "original_name": "This Is SUBSHIFT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuOAgAAAAABEM+ZJnoyu+6qLcYNvDl7k",
+  "snapshot_id": "ZuTSAAAAAAAFKF894QZ1ffdlqjP0VD5x",
   "tracks": [
     {
       "added_at": null,
@@ -235,6 +235,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/6HC5lHejoIqI7L7JJd09jS"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        },
+        {
+          "name": "Umaedo",
+          "url": "https://open.spotify.com/artist/0SSciNLgRTNW5DQ7X8Df74"
+        }
+      ],
+      "duration_ms": 175424,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/1h1sfIlRRN1qgruivCtRc6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Back To You (Deluxe Pack)",
         "url": "https://open.spotify.com/album/6KtBNnZGglKI9hB3rLTt2K"
       },
@@ -259,22 +279,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/6HC5lHejoIqI7L7JJd09jS"
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/5dxB50EGjlSa9p1F9z2gfX"
       },
       "artists": [
         {
           "name": "SUBSHIFT",
           "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        },
-        {
-          "name": "Umaedo",
-          "url": "https://open.spotify.com/artist/0SSciNLgRTNW5DQ7X8Df74"
         }
       ],
-      "duration_ms": 175424,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/1h1sfIlRRN1qgruivCtRc6"
+      "duration_ms": 176648,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/5Bhpw5EbF6fLflC41NI4HD"
     },
     {
       "added_at": null,
@@ -295,8 +311,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/5dxB50EGjlSa9p1F9z2gfX"
+        "name": "Breakout",
+        "url": "https://open.spotify.com/album/7yQjA4ww0AJcvas0NJsuIc"
       },
       "artists": [
         {
@@ -304,9 +320,9 @@
           "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
         }
       ],
-      "duration_ms": 176648,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/5Bhpw5EbF6fLflC41NI4HD"
+      "duration_ms": 215284,
+      "name": "Breakout",
+      "url": "https://open.spotify.com/track/2cevf1aWBm8JcRiVCLv4OM"
     },
     {
       "added_at": null,
@@ -331,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Breakout",
-        "url": "https://open.spotify.com/album/7yQjA4ww0AJcvas0NJsuIc"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        }
-      ],
-      "duration_ms": 215284,
-      "name": "Breakout",
-      "url": "https://open.spotify.com/track/2cevf1aWBm8JcRiVCLv4OM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bad Decisions",
         "url": "https://open.spotify.com/album/3fTqyh23ImqLSKdBbUkhuM"
       },
@@ -359,6 +359,22 @@
       "duration_ms": 184280,
       "name": "Bad Decisions",
       "url": "https://open.spotify.com/track/2DsCTWTL6j3KpCkBow7B3O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/60DNwMVgnq9J3dV0yC0LcQ"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 215708,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/47SEt8Ftu5Vm69yRoFUDXr"
     },
     {
       "added_at": null,
@@ -383,22 +399,6 @@
       "duration_ms": 152351,
       "name": "Is It Me",
       "url": "https://open.spotify.com/track/4X4N9Oqw4BMOzZubKscOF1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/60DNwMVgnq9J3dV0yC0LcQ"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        }
-      ],
-      "duration_ms": 215708,
-      "name": "Dreamer",
-      "url": "https://open.spotify.com/track/47SEt8Ftu5Vm69yRoFUDXr"
     },
     {
       "added_at": null,
@@ -459,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Want",
+        "url": "https://open.spotify.com/album/3gLaucz6aCw44XgbEKfNrl"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 174260,
+      "name": "I Want",
+      "url": "https://open.spotify.com/track/2bPZ3ZODl6ri3OJm9d1kvd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "After Hours",
         "url": "https://open.spotify.com/album/3ZLBV0Pq2nEEN1XvCr6BGB"
       },
@@ -511,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Want",
-        "url": "https://open.spotify.com/album/3gLaucz6aCw44XgbEKfNrl"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        }
-      ],
-      "duration_ms": 174260,
-      "name": "I Want",
-      "url": "https://open.spotify.com/track/2bPZ3ZODl6ri3OJm9d1kvd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Mind / Let Me",
         "url": "https://open.spotify.com/album/23IvPVi8dtwCdEyDZNR294"
       },
@@ -539,22 +539,6 @@
       "duration_ms": 188322,
       "name": "My Mind",
       "url": "https://open.spotify.com/track/1CN3Ubg7fZzASeUQlwqqPn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Rhythm",
-        "url": "https://open.spotify.com/album/5l92sWpRLi1fkgxPKg3JL6"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        }
-      ],
-      "duration_ms": 189697,
-      "name": "The Rhythm",
-      "url": "https://open.spotify.com/track/6Cx33NW52i3IjTilbqaIR5"
     },
     {
       "added_at": null,
@@ -595,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Streets",
-        "url": "https://open.spotify.com/album/6GeDEhukBDiDhVAcsAY36I"
+        "name": "The Rhythm",
+        "url": "https://open.spotify.com/album/5l92sWpRLi1fkgxPKg3JL6"
       },
       "artists": [
         {
@@ -604,9 +588,9 @@
           "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
         }
       ],
-      "duration_ms": 158427,
-      "name": "The Streets",
-      "url": "https://open.spotify.com/track/6YQJlkvGbbxejDvtHL6W0y"
+      "duration_ms": 189697,
+      "name": "The Rhythm",
+      "url": "https://open.spotify.com/track/6Cx33NW52i3IjTilbqaIR5"
     },
     {
       "added_at": null,
@@ -627,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hustler",
-        "url": "https://open.spotify.com/album/4G5kxwulmOKmMoljPHDUle"
+        "name": "The Streets",
+        "url": "https://open.spotify.com/album/6GeDEhukBDiDhVAcsAY36I"
       },
       "artists": [
         {
@@ -636,9 +620,9 @@
           "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
         }
       ],
-      "duration_ms": 171473,
-      "name": "Hustler - Radio Edit",
-      "url": "https://open.spotify.com/track/4710XzPsGJPFKT30Yk9b5H"
+      "duration_ms": 158427,
+      "name": "The Streets",
+      "url": "https://open.spotify.com/track/6YQJlkvGbbxejDvtHL6W0y"
     },
     {
       "added_at": null,
@@ -655,6 +639,22 @@
       "duration_ms": 169455,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/0cjbNJIeYroXbn1q9Mbq8N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hustler",
+        "url": "https://open.spotify.com/album/4G5kxwulmOKmMoljPHDUle"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 171473,
+      "name": "Hustler - Radio Edit",
+      "url": "https://open.spotify.com/track/4710XzPsGJPFKT30Yk9b5H"
     },
     {
       "added_at": null,
@@ -679,6 +679,22 @@
       "duration_ms": 235650,
       "name": "Raise It Up",
       "url": "https://open.spotify.com/track/3VZu1gYJn13l0nevx4FSoV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ride or Die",
+        "url": "https://open.spotify.com/album/3OWhCtgffNKn97Zw6KKNSO"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 188857,
+      "name": "Ride or Die",
+      "url": "https://open.spotify.com/track/62qtbxjKbsVHUWkM9HQeyQ"
     },
     {
       "added_at": null,
@@ -719,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ride or Die",
-        "url": "https://open.spotify.com/album/3OWhCtgffNKn97Zw6KKNSO"
+        "name": "Shake the Bass 4",
+        "url": "https://open.spotify.com/album/7oVAZpsn4Bz3wxC41zmRPJ"
       },
       "artists": [
         {
@@ -728,9 +744,25 @@
           "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
         }
       ],
-      "duration_ms": 188857,
-      "name": "Ride or Die",
-      "url": "https://open.spotify.com/track/62qtbxjKbsVHUWkM9HQeyQ"
+      "duration_ms": 183848,
+      "name": "Honey Dip",
+      "url": "https://open.spotify.com/track/3kUbgmWmPezcFEIUiHICMD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Resonate",
+        "url": "https://open.spotify.com/album/1jPkspAoB7SIEPvoH8hS6b"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 187263,
+      "name": "Resonate",
+      "url": "https://open.spotify.com/track/7w9NUVZgPliQv7BKjaGFoU"
     },
     {
       "added_at": null,
@@ -751,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shake the Bass 4",
-        "url": "https://open.spotify.com/album/7oVAZpsn4Bz3wxC41zmRPJ"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        }
-      ],
-      "duration_ms": 183848,
-      "name": "Honey Dip",
-      "url": "https://open.spotify.com/track/3kUbgmWmPezcFEIUiHICMD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stereohype Rising, Vol. 1",
         "url": "https://open.spotify.com/album/2Sed8MSB9soQRUhIcLWhk2"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 238084,
       "name": "DNA - Extended Mix",
       "url": "https://open.spotify.com/track/4dDnCAPIY5SAgecGhm7yIO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Resonate",
-        "url": "https://open.spotify.com/album/1jPkspAoB7SIEPvoH8hS6b"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        }
-      ],
-      "duration_ms": 187263,
-      "name": "Resonate",
-      "url": "https://open.spotify.com/track/7w9NUVZgPliQv7BKjaGFoU"
     },
     {
       "added_at": null,

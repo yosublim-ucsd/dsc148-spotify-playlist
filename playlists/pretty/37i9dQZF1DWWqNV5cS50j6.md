@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > ?! ft\. Lil Yachty
 
-[Spotify](https://open.spotify.com/user/spotify) - 748,799 likes - 59 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 748,812 likes - 59 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

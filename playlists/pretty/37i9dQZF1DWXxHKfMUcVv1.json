@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica refrescante, para vencer el calor.",
-  "num_followers": 117087,
+  "num_followers": 117107,
   "original_name": "Mi Terer\u00e9",
   "owner": {
     "name": "Spotify",
@@ -299,6 +299,38 @@
     {
       "added_at": "2024-06-13 21:06:26",
       "album": {
+        "name": "Sentimientos Encontrados",
+        "url": "https://open.spotify.com/album/28VLJjvWgWvYfd4gDjWtQm"
+      },
+      "artists": [
+        {
+          "name": "Lucas Sugo",
+          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
+        }
+      ],
+      "duration_ms": 211240,
+      "name": "Cinco Minutos",
+      "url": "https://open.spotify.com/track/7Ihrw9IeHLBs9xiGJiSmAM"
+    },
+    {
+      "added_at": "2024-06-13 21:06:26",
+      "album": {
+        "name": "Gracias",
+        "url": "https://open.spotify.com/album/0J7CMzzFJYobHrVbgVluO7"
+      },
+      "artists": [
+        {
+          "name": "Lalo Y Los Descalzos",
+          "url": "https://open.spotify.com/artist/3k7FDxixhDQYNuxOtiN7jl"
+        }
+      ],
+      "duration_ms": 192786,
+      "name": "Si Yo Fuera El",
+      "url": "https://open.spotify.com/track/6s8svxgbUTerwHVInMIvBq"
+    },
+    {
+      "added_at": "2024-06-13 21:06:26",
+      "album": {
         "name": "Armadura De Rosas",
         "url": "https://open.spotify.com/album/7q1Ya9cTQeN1ryNie2dDaF"
       },
@@ -335,38 +367,6 @@
     {
       "added_at": "2024-06-13 21:06:26",
       "album": {
-        "name": "Sentimientos Encontrados",
-        "url": "https://open.spotify.com/album/28VLJjvWgWvYfd4gDjWtQm"
-      },
-      "artists": [
-        {
-          "name": "Lucas Sugo",
-          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
-        }
-      ],
-      "duration_ms": 211240,
-      "name": "Cinco Minutos",
-      "url": "https://open.spotify.com/track/7Ihrw9IeHLBs9xiGJiSmAM"
-    },
-    {
-      "added_at": "2024-06-13 21:06:26",
-      "album": {
-        "name": "Gracias",
-        "url": "https://open.spotify.com/album/0J7CMzzFJYobHrVbgVluO7"
-      },
-      "artists": [
-        {
-          "name": "Lalo Y Los Descalzos",
-          "url": "https://open.spotify.com/artist/3k7FDxixhDQYNuxOtiN7jl"
-        }
-      ],
-      "duration_ms": 192786,
-      "name": "Si Yo Fuera El",
-      "url": "https://open.spotify.com/track/6s8svxgbUTerwHVInMIvBq"
-    },
-    {
-      "added_at": "2024-06-13 21:06:26",
-      "album": {
         "name": "Bailalo Como Quieras, Que Esto Cumbia Villera",
         "url": "https://open.spotify.com/album/1BfrDLGjWr6BTQjW2ZTSAV"
       },
@@ -399,6 +399,26 @@
     {
       "added_at": "2024-06-13 21:06:26",
       "album": {
+        "name": "Paso la Vida Pensando",
+        "url": "https://open.spotify.com/album/5ALqv0I3fIIzZxzLjst4JG"
+      },
+      "artists": [
+        {
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        },
+        {
+          "name": "Lucas Sugo",
+          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
+        }
+      ],
+      "duration_ms": 242277,
+      "name": "Paso la Vida Pensando",
+      "url": "https://open.spotify.com/track/5o3DaEe3T1JeHZVK4hlZYj"
+    },
+    {
+      "added_at": "2024-06-13 21:06:26",
+      "album": {
         "name": "B\u00e1ilalo B\u00e1ilalo",
         "url": "https://open.spotify.com/album/20zOZgfdwPf5wiJYF033E9"
       },
@@ -427,26 +447,6 @@
       "duration_ms": 203253,
       "name": "Que Loco Amor",
       "url": "https://open.spotify.com/track/51LmGYcyw9WRnR2zopCF2C"
-    },
-    {
-      "added_at": "2024-06-13 21:06:26",
-      "album": {
-        "name": "Paso la Vida Pensando",
-        "url": "https://open.spotify.com/album/5ALqv0I3fIIzZxzLjst4JG"
-      },
-      "artists": [
-        {
-          "name": "18 Kilates",
-          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
-        },
-        {
-          "name": "Lucas Sugo",
-          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
-        }
-      ],
-      "duration_ms": 242277,
-      "name": "Paso la Vida Pensando",
-      "url": "https://open.spotify.com/track/5o3DaEe3T1JeHZVK4hlZYj"
     },
     {
       "added_at": "2024-06-13 21:06:26",
@@ -487,8 +487,8 @@
     {
       "added_at": "2024-06-13 21:06:26",
       "album": {
-        "name": "Mis Noches Sin Ti",
-        "url": "https://open.spotify.com/album/3G8XztonLrjIsct6j2MqfU"
+        "name": "Agua Para El Mar",
+        "url": "https://open.spotify.com/album/5INujTECiddlYoZWh72FGZ"
       },
       "artists": [
         {
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/4UErGdtNcywYiueyB9CTpd"
         }
       ],
-      "duration_ms": 205087,
-      "name": "Mis Noches Sin Ti",
-      "url": "https://open.spotify.com/track/1qwQffK92BNbtQj8GSqLGD"
+      "duration_ms": 185821,
+      "name": "Quiero!",
+      "url": "https://open.spotify.com/track/6uUEOBVkxDJZpcDGRnTPRq"
     },
     {
       "added_at": "2024-06-13 21:06:26",
@@ -567,6 +567,22 @@
     {
       "added_at": "2024-06-13 21:06:26",
       "album": {
+        "name": "Mis Noches Sin Ti",
+        "url": "https://open.spotify.com/album/3G8XztonLrjIsct6j2MqfU"
+      },
+      "artists": [
+        {
+          "name": "Paiko",
+          "url": "https://open.spotify.com/artist/4UErGdtNcywYiueyB9CTpd"
+        }
+      ],
+      "duration_ms": 205087,
+      "name": "Mis Noches Sin Ti",
+      "url": "https://open.spotify.com/track/1qwQffK92BNbtQj8GSqLGD"
+    },
+    {
+      "added_at": "2024-06-13 21:06:26",
+      "album": {
         "name": "Canciones Rotas",
         "url": "https://open.spotify.com/album/0gzoNPu1co0CfO6Bmoz2yM"
       },
@@ -631,22 +647,6 @@
     {
       "added_at": "2024-06-13 21:06:26",
       "album": {
-        "name": "Agua Para El Mar",
-        "url": "https://open.spotify.com/album/5INujTECiddlYoZWh72FGZ"
-      },
-      "artists": [
-        {
-          "name": "Paiko",
-          "url": "https://open.spotify.com/artist/4UErGdtNcywYiueyB9CTpd"
-        }
-      ],
-      "duration_ms": 185821,
-      "name": "Quiero!",
-      "url": "https://open.spotify.com/track/6uUEOBVkxDJZpcDGRnTPRq"
-    },
-    {
-      "added_at": "2024-06-13 21:06:26",
-      "album": {
         "name": "Kaimonomacaco",
         "url": "https://open.spotify.com/album/2U1Nf26RYrUngfJxeyszk1"
       },
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-06-13 21:06:26",
       "album": {
+        "name": "El Equilibrio",
+        "url": "https://open.spotify.com/album/2k1L3yDGHfoWxqYvgcY2fJ"
+      },
+      "artists": [
+        {
+          "name": "Kchiporros",
+          "url": "https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ"
+        }
+      ],
+      "duration_ms": 169928,
+      "name": "La Semilla",
+      "url": "https://open.spotify.com/track/4fzVmLfaolqU7L6J8i8byS"
+    },
+    {
+      "added_at": "2024-06-13 21:06:26",
+      "album": {
         "name": "Pense Que Te Olvide",
         "url": "https://open.spotify.com/album/4gDQufSUCOgyk8EZVMyhyE"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 263253,
       "name": "Bogando",
       "url": "https://open.spotify.com/track/24k6qrLWl6GsF8tFXgkKuo"
-    },
-    {
-      "added_at": "2024-06-13 21:06:26",
-      "album": {
-        "name": "El Equilibrio",
-        "url": "https://open.spotify.com/album/2k1L3yDGHfoWxqYvgcY2fJ"
-      },
-      "artists": [
-        {
-          "name": "Kchiporros",
-          "url": "https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ"
-        }
-      ],
-      "duration_ms": 169928,
-      "name": "La Semilla",
-      "url": "https://open.spotify.com/track/4fzVmLfaolqU7L6J8i8byS"
     },
     {
       "added_at": "2024-06-13 21:06:26",
@@ -787,30 +787,22 @@
     {
       "added_at": "2024-06-13 21:06:26",
       "album": {
-        "name": "Soy Latino",
-        "url": "https://open.spotify.com/album/1CiFEielADxVaFI0o1cb7e"
+        "name": "Loco Tu Forma de Ser",
+        "url": "https://open.spotify.com/album/2BIuDdc0UhRmwEHHFIgqAc"
       },
       "artists": [
         {
-          "name": "Tierra Adentro",
-          "url": "https://open.spotify.com/artist/0mYFlsYXbyTD5gmNnw3pO4"
+          "name": "Mama Santa",
+          "url": "https://open.spotify.com/artist/4yfN6I5gIxbvuSCWEgM3SW"
         },
         {
-          "name": "Nacho",
-          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
-        },
-        {
-          "name": "Felipe Pel\u00e1ez",
-          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
-        },
-        {
-          "name": "Cruz",
-          "url": "https://open.spotify.com/artist/1JZpCeGFkcB3EJi3Dejxlp"
+          "name": "Humbertiko",
+          "url": "https://open.spotify.com/artist/4asABLSEV1sp1qVQe7O1Fa"
         }
       ],
-      "duration_ms": 189658,
-      "name": "Soy Latino",
-      "url": "https://open.spotify.com/track/2knkDzKZ4VTwSbdnHxVSbI"
+      "duration_ms": 201480,
+      "name": "Loco Tu Forma de Ser",
+      "url": "https://open.spotify.com/track/5R2fgpQdSBWBYQIDILkiT9"
     },
     {
       "added_at": "2024-06-13 21:06:26",
@@ -839,22 +831,30 @@
     {
       "added_at": "2024-06-13 21:06:26",
       "album": {
-        "name": "Loco Tu Forma de Ser",
-        "url": "https://open.spotify.com/album/2BIuDdc0UhRmwEHHFIgqAc"
+        "name": "Soy Latino",
+        "url": "https://open.spotify.com/album/1CiFEielADxVaFI0o1cb7e"
       },
       "artists": [
         {
-          "name": "Mama Santa",
-          "url": "https://open.spotify.com/artist/4yfN6I5gIxbvuSCWEgM3SW"
+          "name": "Tierra Adentro",
+          "url": "https://open.spotify.com/artist/0mYFlsYXbyTD5gmNnw3pO4"
         },
         {
-          "name": "Humbertiko",
-          "url": "https://open.spotify.com/artist/4asABLSEV1sp1qVQe7O1Fa"
+          "name": "Nacho",
+          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
+        },
+        {
+          "name": "Felipe Pel\u00e1ez",
+          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
+        },
+        {
+          "name": "Cruz",
+          "url": "https://open.spotify.com/artist/1JZpCeGFkcB3EJi3Dejxlp"
         }
       ],
-      "duration_ms": 201480,
-      "name": "Loco Tu Forma de Ser",
-      "url": "https://open.spotify.com/track/5R2fgpQdSBWBYQIDILkiT9"
+      "duration_ms": 189658,
+      "name": "Soy Latino",
+      "url": "https://open.spotify.com/track/2knkDzKZ4VTwSbdnHxVSbI"
     },
     {
       "added_at": "2024-06-13 21:06:26",

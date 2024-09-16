@@ -1,12 +1,12 @@
 {
-  "description": "This is Bastille. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 215034,
+  "description": "This is Bastille. The essential tracks, all in one playlist.",
+  "num_followers": 215052,
   "original_name": "This Is Bastille",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuOAgAAAAADxBwerVKxhK91hK05awDUh",
+  "snapshot_id": "ZuTSAAAAAABuki5YpiADzLO9l7+VIXIr",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quarter Past Midnight",
-        "url": "https://open.spotify.com/album/70p5NvBOkvaxU1UeIxhE1Z"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 201799,
-      "name": "Quarter Past Midnight",
-      "url": "https://open.spotify.com/track/1etiUDkISHELzQGMY79ryt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "World Gone Mad (From Bright: The Album)",
         "url": "https://open.spotify.com/album/1eRw8LHFNcfucLRf0PWbHw"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 195700,
       "name": "World Gone Mad",
       "url": "https://open.spotify.com/track/1ZyQGXH9dZ4AecevHhKUxi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quarter Past Midnight",
+        "url": "https://open.spotify.com/album/70p5NvBOkvaxU1UeIxhE1Z"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 201799,
+      "name": "Quarter Past Midnight",
+      "url": "https://open.spotify.com/track/1etiUDkISHELzQGMY79ryt"
     },
     {
       "added_at": null,
@@ -527,22 +527,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vacation",
-        "url": "https://open.spotify.com/album/08RH5oSOsDss5CuJBzaPzz"
+        "name": "Doom Days",
+        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
       },
       "artists": [
-        {
-          "name": "FRENSHIP",
-          "url": "https://open.spotify.com/artist/7xEFii6utZmQ61kX59HmLH"
-        },
         {
           "name": "Bastille",
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 234410,
-      "name": "Won't Let You Go",
-      "url": "https://open.spotify.com/track/70F7cMgI25aFyipi4HsjoJ"
+      "duration_ms": 270254,
+      "name": "Those Nights",
+      "url": "https://open.spotify.com/track/4R06uQw0yBQXWmatdIOlch"
     },
     {
       "added_at": null,
@@ -563,18 +559,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doom Days",
-        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
+        "name": "Vacation",
+        "url": "https://open.spotify.com/album/08RH5oSOsDss5CuJBzaPzz"
       },
       "artists": [
+        {
+          "name": "FRENSHIP",
+          "url": "https://open.spotify.com/artist/7xEFii6utZmQ61kX59HmLH"
+        },
         {
           "name": "Bastille",
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 270254,
-      "name": "Those Nights",
-      "url": "https://open.spotify.com/track/4R06uQw0yBQXWmatdIOlch"
+      "duration_ms": 234410,
+      "name": "Won't Let You Go",
+      "url": "https://open.spotify.com/track/70F7cMgI25aFyipi4HsjoJ"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wild World - Complete Edition",
-        "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 175880,
-      "name": "Blame",
-      "url": "https://open.spotify.com/track/7yrx5A6zDOsd7Bn02WvbLH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Doom Days",
         "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
       },
@@ -671,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wild World - Complete Edition",
+        "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 175880,
+      "name": "Blame",
+      "url": "https://open.spotify.com/track/7yrx5A6zDOsd7Bn02WvbLH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Distorted Light Beam",
         "url": "https://open.spotify.com/album/5FnEu6Hpo6dZ8qIp3BX5Bz"
       },
@@ -687,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wild World - Complete Edition",
-        "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
+        "name": "\u201c&\u201d (Ampersand), Part Two",
+        "url": "https://open.spotify.com/album/3vtvRu36Sh69lyYkMHY352"
       },
       "artists": [
         {
@@ -696,49 +696,9 @@
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 204986,
-      "name": "Lethargy",
-      "url": "https://open.spotify.com/track/28mBT1l5sJrfSWn8KM3JLT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Good Grief - Don Diablo Remix",
-        "url": "https://open.spotify.com/album/3TPamu1C98GWxTNRNU5L1Q"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        },
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 239000,
-      "name": "Good Grief - Don Diablo Remix",
-      "url": "https://open.spotify.com/track/5dSFlPDHjAuYU1apyrRgqV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Time Is Now (Expanded Edition)",
-        "url": "https://open.spotify.com/album/51vRvV83RdWGP9FpzGe4SQ"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        },
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 214960,
-      "name": "I Know You (feat. Bastille)",
-      "url": "https://open.spotify.com/track/5lRzEC0Hyj92nEr9JkDxM2"
+      "duration_ms": 236626,
+      "name": "Leonard & Marianne",
+      "url": "https://open.spotify.com/track/21Ox3yvEmxEtJUIepY0UzM"
     },
     {
       "added_at": null,
@@ -768,9 +728,49 @@
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 204012,
-      "name": "The Currents",
-      "url": "https://open.spotify.com/track/5hcxUMmvcL66B1OqPPres2"
+      "duration_ms": 204986,
+      "name": "Lethargy",
+      "url": "https://open.spotify.com/track/28mBT1l5sJrfSWn8KM3JLT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Time Is Now (Expanded Edition)",
+        "url": "https://open.spotify.com/album/51vRvV83RdWGP9FpzGe4SQ"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        },
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 214960,
+      "name": "I Know You (feat. Bastille)",
+      "url": "https://open.spotify.com/track/5lRzEC0Hyj92nEr9JkDxM2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Grief - Don Diablo Remix",
+        "url": "https://open.spotify.com/album/3TPamu1C98GWxTNRNU5L1Q"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        },
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 239000,
+      "name": "Good Grief - Don Diablo Remix",
+      "url": "https://open.spotify.com/track/5dSFlPDHjAuYU1apyrRgqV"
     },
     {
       "added_at": null,
@@ -791,6 +791,22 @@
       "duration_ms": 352968,
       "name": "Pompeii - Audien Remix",
       "url": "https://open.spotify.com/track/2Kl1E3NdbzT7vVi93TffoX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wild World - Complete Edition",
+        "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 204012,
+      "name": "The Currents",
+      "url": "https://open.spotify.com/track/5hcxUMmvcL66B1OqPPres2"
     },
     {
       "added_at": null,
@@ -835,22 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wild World - Complete Edition",
-        "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 209106,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/7mq92gCVqxaZQuzE6h9ZBp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Basket Case - From \u2018The Tick\u2019 TV Series",
         "url": "https://open.spotify.com/album/1Eza0hy1Gsfqq3i9AG6yuw"
       },
@@ -863,6 +863,22 @@
       "duration_ms": 153548,
       "name": "Basket Case - From \u2018The Tick\u2019 TV Series",
       "url": "https://open.spotify.com/track/3cfhXgklWpx5fCSYZOp9Wb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wild World - Complete Edition",
+        "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 209106,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/7mq92gCVqxaZQuzE6h9ZBp"
     },
     {
       "added_at": null,
@@ -895,22 +911,6 @@
       "duration_ms": 182681,
       "name": "Remind Me",
       "url": "https://open.spotify.com/track/5DlwOwWvIA9MOGixQnkwXD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Doom Days - This Got Out Of Hand Edition",
-        "url": "https://open.spotify.com/album/2ZTutAjJEBw4mA5t4Edg1d"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 209760,
-      "name": "Hangin'",
-      "url": "https://open.spotify.com/track/3s7q7sn5DaRtAuOo2ft9BD"
     }
   ],
   "unique_name": "This Is Bastille",

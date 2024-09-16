@@ -197,6 +197,24 @@
     },
     {
       "album": {
+        "name": "Dive",
+        "url": "https://open.spotify.com/album/0wBh4uyMd0R0r6g75AMYPg"
+      },
+      "artists": [
+        {
+          "name": "Julie Bergan",
+          "url": "https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv"
+        }
+      ],
+      "date_added": "2024-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161357,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/512JeaMcrXJK2eKzu2VOHG"
+    },
+    {
+      "album": {
         "name": "Downtown",
         "url": "https://open.spotify.com/album/3PCZx0TcwxK6iT409tDUn8"
       },

@@ -4,7 +4,7 @@
 
 > The best in house music
 
-506 songs - 1 day 10 hr 12 min
+507 songs - 1 day 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -379,7 +379,7 @@
 | [Saved By The Record \(feat\. Josh Barry\)](https://open.spotify.com/track/0KQhwMvQHO17faalnd3Mjv) | [Sam Divine](https://open.spotify.com/artist/029RjYsk0DU8LKC92sUyXZ), [Josh Barry](https://open.spotify.com/artist/6oruQTIjrgFYzOSKhp7Kt6) | [Saved By The Record \(feat\. Josh Barry\)](https://open.spotify.com/album/01IqI0cGvFILDNbSWeVuPC) | 3:22 | 2024-04-26 |  |
 | [Saving Up](https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Saving Up](https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF) | 3:27 | 2024-04-11 |  |
 | [Say It](https://open.spotify.com/track/4xac76l55QO0SktrL2iQeY) | [Fein Cerra](https://open.spotify.com/artist/1OkT3YMHuOuDTIKsCJUWSm), [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg), [Mizbee](https://open.spotify.com/artist/2gqyi88Qa4bZ2AGYbFCPIh) | [Say It](https://open.spotify.com/album/6vH7aziXmsqAO8KL7zOOkB) | 2:28 | 2023-06-08 | 2024-09-13 |
-| [Searching for love \- Jackin' Vibes Mix](https://open.spotify.com/track/56apWnb2IzYgkHVI4rSLJ1) | [Kako Martinez](https://open.spotify.com/artist/74ORaG1yQCCQJONUGW31hD), [PINK COFFEE](https://open.spotify.com/artist/7BegyQyt6tGkCHMENnaqvC) | [Searching for love \(Jackin' vibes mix\)](https://open.spotify.com/album/6o4jU6zjvGwImC7zDl4JTj) | 5:57 | 2024-09-12 |  |
+| [Searching for love \- Jackin' Vibes Mix](https://open.spotify.com/track/56apWnb2IzYgkHVI4rSLJ1) | [Kako Martinez](https://open.spotify.com/artist/74ORaG1yQCCQJONUGW31hD), [PINK COFFEE](https://open.spotify.com/artist/7BegyQyt6tGkCHMENnaqvC) | [Searching for love \(Jackin' vibes mix\)](https://open.spotify.com/album/6o4jU6zjvGwImC7zDl4JTj) | 5:57 | 2024-09-12 | 2024-09-16 |
 | [See\-Line Woman \- Masters At Work Remix](https://open.spotify.com/track/37bkqeTSvtX2ruBFA1jtxF) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [Masters At Work](https://open.spotify.com/artist/5Fkj0k7EPUhIsESSIEA9f1) | [Verve Remixed](https://open.spotify.com/album/1tXfhj4nx8x18xvwCEKnTK) | 10:04 | 2022-05-05 | 2022-05-13 |
 | [Self Religion \(Believe In Me\) \[feat\. Fierce Ruling Diva\] \- Hardsoul Reconstruction](https://open.spotify.com/track/7E1ugNf7WRddAMnlWF1Zoo) | [Hardsoul](https://open.spotify.com/artist/1pOxKVLc0EXgcOSqyWOlKi), [Fierce Ruling Diva](https://open.spotify.com/artist/4i2zJlOSFkJ7pFJqUT53Hw) | [Self Religion \(Believe In Me\) \[feat\. Fierce Ruling Diva\] \[Remixes\]](https://open.spotify.com/album/20yqNx3COdJnJgF65BpI9f) | 8:22 | 2022-05-19 | 2022-06-21 |
 | [Serious](https://open.spotify.com/track/48Ict4mmBJTxBpY5CmpKgC) | [Seamus Haji](https://open.spotify.com/artist/2f6jGbE8VU74rb5AQtOdFz), [Mike Dunn](https://open.spotify.com/artist/55UOywvWbUD9c6C3NSGdft) | [Serious](https://open.spotify.com/album/0JShXoABxshoSXM0UKA5d2) | 4:54 | 2024-04-09 |  |
@@ -426,6 +426,7 @@
 | [Sunset Jam](https://open.spotify.com/track/4P5PgzROl9jfv7mHTjS2MM) | [Baltra](https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC) | [Sunset Jam](https://open.spotify.com/album/70laYWlNtjTmkZjdZ4A3uM) | 4:41 | 2022-04-20 | 2024-03-21 |
 | [Sunshine](https://open.spotify.com/track/1YmMirswl1qi0tc8Xbyh6w) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Calle EP](https://open.spotify.com/album/42oVlIMe03B1WQjTRaFlF3) | 3:44 | 2022-04-14 | 2023-11-06 |
 | [Supposed To Do](https://open.spotify.com/track/53QOuE2ZA8b4DTfKE0Pljd) | [Robosonic](https://open.spotify.com/artist/2XBuvmyzhH85j6sqv1fV3l), [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [RAHH](https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX) | [Supposed To Do](https://open.spotify.com/album/3LI9sswfUvO0IvgT2D6E1B) | 2:48 | 2022-12-22 | 2024-05-13 |
+| [Sweet Love](https://open.spotify.com/track/5APDSxDfH84AqrpIGzDYgU) | [Gissa](https://open.spotify.com/artist/2ei6WOXxaCUYqLJbD0Y2mo) | [Sweet Love](https://open.spotify.com/album/5L6hcxhOn0VfGB7eScOEej) | 4:09 | 2024-09-12 |  |
 | [Swimming Places](https://open.spotify.com/track/77cTXHD1QjXpoMDBysPU0Y) | [Julien Jabre](https://open.spotify.com/artist/3MKxO8huUSV0g9E08bJbBM) | [Swimming Places](https://open.spotify.com/album/4k3c2mFtwycTt2ZbOYLu4W) | 10:44 | 2022-06-22 | 2023-02-03 |
 | [Take Me Higher \- Original Mix](https://open.spotify.com/track/56gkSicj4dcPgZ3jw5IiRC) | [Art of Tones](https://open.spotify.com/artist/4TSLRQcJGybQuNA8ybueEy) | [Take Me Higher EP](https://open.spotify.com/album/7EtAS0HMbCUm95xmfJbyZT) | 5:49 | 2022-05-05 | 2022-07-19 |
 | [Take You High](https://open.spotify.com/track/69yTqNKtr2rdtpEMcc5hqK) | [KULI](https://open.spotify.com/artist/4yeXWtnhoSgWwRbJaTZhmj), [Municipal](https://open.spotify.com/artist/16Kr9q5VCyDw6elRITKlC6) | [Take You High](https://open.spotify.com/album/23BwMKdSQmHJYp8JEr1a68) | 2:40 | 2022-12-15 | 2024-04-26 |

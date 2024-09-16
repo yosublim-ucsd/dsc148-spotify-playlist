@@ -4,7 +4,7 @@
 
 > yiheeeeeeee
 
-165 songs - 9 hr 46 min
+166 songs - 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [comethru](https://open.spotify.com/track/18uwL0vNUanqZH0ro2QcOP) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [summer,](https://open.spotify.com/album/6Whp0T7d1SAt4gDUNkWWD1) | 3:01 | 2022-04-04 |  |
 | [COMING HOME \(feat\. NIKI\)](https://open.spotify.com/track/27Mp1HAFIhnLBsGXdFcGXG) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [COMING HOME \(feat\. NIKI\)](https://open.spotify.com/album/1BLMrCc9WNdafvEVXxdOab) | 3:30 | 2022-04-04 | 2022-07-29 |
 | [Could I Love You Any More \(feat\. Jason Mraz\)](https://open.spotify.com/track/6TbDpqKCksZNJjriFhPum8) | [Reneé Dominique](https://open.spotify.com/artist/2Xr7M6vawpp6zwKOMU7iBU), [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Could I Love You Any More \(feat\. Jason Mraz\)](https://open.spotify.com/album/1LYpuMBu82KpTYr6fALY3G) | 3:09 | 2022-04-04 | 2022-07-29 |
-| [Crush](https://open.spotify.com/track/4wCD0qOFNRu1Q6O3N6ycm4) | [David Archuleta](https://open.spotify.com/artist/2C9n4tQgNLhHPhSCmdsQnk) | [David Archuleta](https://open.spotify.com/album/4aZ3Mf9Tza576UhJ9kjYd7) | 3:33 | 2022-04-04 |  |
+| [Crush](https://open.spotify.com/track/4wCD0qOFNRu1Q6O3N6ycm4) | [David Archuleta](https://open.spotify.com/artist/2C9n4tQgNLhHPhSCmdsQnk) | [David Archuleta](https://open.spotify.com/album/4aZ3Mf9Tza576UhJ9kjYd7) | 3:33 | 2022-04-04 | 2024-09-16 |
 | [Dalangin](https://open.spotify.com/track/2cIxxsxXNvOXNFVvDJpF3x) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Dalangin](https://open.spotify.com/album/5HEC19abEhLQQ7IuNuKixV) | 4:12 | 2023-04-03 | 2023-06-29 |
 | [dancing in the kitchen](https://open.spotify.com/track/0ohcCrxZkBfFbkuRPOZQZX) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [dancing in the kitchen](https://open.spotify.com/album/3fHkjpHZjohpdtiJJdVtez) | 3:28 | 2022-04-04 | 2023-02-01 |
 | [DELULU](https://open.spotify.com/track/0CBDY0SfSIaVWnOFrwzSbv) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [DELULU](https://open.spotify.com/album/2RIrEQbhMyFMJo58o5bLDA) | 3:16 | 2023-10-18 | 2023-11-11 |
@@ -152,6 +152,7 @@
 | [Tadhana](https://open.spotify.com/track/4EwfQaG6ZTLW1NS2iJ48CC) | [Ace Banzuelo](https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U) | [Tadhana](https://open.spotify.com/album/3xFXjRWSlF7q18XHfcMuwD) | 3:11 | 2023-02-23 | 2023-03-12 |
 | [Tanging Dahilan](https://open.spotify.com/track/23sa0BogsmnZXkXT7bHDYK) | [Belle Mariano](https://open.spotify.com/artist/404RA7nuwzYA8WskpMgUp1) | [Daylight](https://open.spotify.com/album/0X7VQJn05fiB3BKGaxeI3M) | 3:08 | 2022-04-04 | 2022-07-29 |
 | [Telepath](https://open.spotify.com/track/3Z39gbqdaGL3WJXBG0gcuE) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Telepath](https://open.spotify.com/album/6npBFQje5ZenFSLErcNflE) | 3:14 | 2022-06-27 | 2022-11-28 |
+| [the cutest pair](https://open.spotify.com/track/0VVD95cRAppHSOGPYrfIG2) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [fangirl](https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt) | 2:38 | 2024-09-15 |  |
 | [The Search Is Over](https://open.spotify.com/track/7g7mYjkJzHkCye65pzfK7Q) | [NOBITA](https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V) | [The Search Is Over](https://open.spotify.com/album/0glELRFO61WFYXpQascxcK) | 4:01 | 2022-04-04 | 2022-06-17 |
 | [up at night \(feat\. justin bieber\)](https://open.spotify.com/track/4WghJOMjDpGdlk3b8aJIgy) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [up at night \(feat\. justin bieber\)](https://open.spotify.com/album/3vnJxSrVldmInhRwtcUG89) | 3:02 | 2022-04-04 | 2022-06-28 |
 | [Walang Aminan](https://open.spotify.com/track/17fq6LtVwn5AvyAkVZZL4z) | [huhsmile](https://open.spotify.com/artist/66jyWeUhy75IiWKCvAakuA) | [Walang Aminan](https://open.spotify.com/album/2vJjKU0dCcpILifHOCfTq9) | 2:34 | 2022-04-04 | 2022-06-17 |

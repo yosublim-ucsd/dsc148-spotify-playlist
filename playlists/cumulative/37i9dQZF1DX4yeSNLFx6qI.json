@@ -4712,7 +4712,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-16",
       "duration_ms": 192320,
       "name": "Tu Canci\u00f3n",
       "url": "https://open.spotify.com/track/2AS8N3sySr3xDS2dDG6oSv"
@@ -5020,6 +5020,24 @@
       "duration_ms": 190000,
       "name": "viernes 13 iv",
       "url": "https://open.spotify.com/track/2qaI5v34tf7eLeboINCCon"
+    },
+    {
+      "album": {
+        "name": "Viernes 13 V",
+        "url": "https://open.spotify.com/album/3D6zUPk0w4Q1W8rdpMA4D6"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220235,
+      "name": "Viernes 13 V",
+      "url": "https://open.spotify.com/track/1qD7smrCuA14ujnTCdkgBJ"
     },
     {
       "album": {

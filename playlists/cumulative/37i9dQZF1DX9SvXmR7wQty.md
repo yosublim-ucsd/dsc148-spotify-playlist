@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: GIMS
 
-2,803 songs - 6 day 5 hr 7 min
+2,804 songs - 6 day 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1818,7 +1818,7 @@
 | [Nouvelle administration](https://open.spotify.com/track/3bh1iLjPXYSzeNRfnobnpu) | [Philippe B](https://open.spotify.com/artist/7FvBLeBeCiWR09phkPyyrf) | [Nouvelle administration](https://open.spotify.com/album/1PYQvFT5MWMb12M1EAKY7u) | 3:18 | 2023-02-03 | 2023-02-18 |
 | [Nouvelle Vague](https://open.spotify.com/track/12kBPE64F24yAAACOg1LsI) | [Jalouse](https://open.spotify.com/artist/0XYVwgLGzOvJLhdIn4lzm5) | [Nouvelle Vague](https://open.spotify.com/album/5rGSU1o3d4yw0I82ZxIXKo) | 3:38 | 2022-10-14 | 2022-10-29 |
 | [nouvelle vie](https://open.spotify.com/track/6P2fUld8s7GRxc6Egris2H) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [nouvelle vie](https://open.spotify.com/album/2SCDDp4qknjCUBufmbuEyg) | 2:37 | 2024-05-17 | 2024-05-25 |
-| [Nouvelle vie](https://open.spotify.com/track/4nXsx2uiPr0fOYRLa6xB52) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Nouvelle vie](https://open.spotify.com/album/5KQCORt6AmV9VcZYYfTWVL) | 3:12 | 2024-08-09 |  |
+| [Nouvelle vie](https://open.spotify.com/track/4nXsx2uiPr0fOYRLa6xB52) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Nouvelle vie](https://open.spotify.com/album/5KQCORt6AmV9VcZYYfTWVL) | 3:12 | 2024-08-09 | 2024-09-16 |
 | [Nouvelle ère](https://open.spotify.com/track/5EGBzg0DuYFZFVLnG9rzjB) | [Beendo Z](https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO), [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Nouvelle ère](https://open.spotify.com/album/7g7Sfraq90lpgOko9oEbTt) | 3:06 | 2023-03-17 | 2023-04-15 |
 | [Novembre](https://open.spotify.com/track/2SlsXvnVdrAfWvYO3esHGM) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [Novembre](https://open.spotify.com/album/5vLkJ5UoYWwsXII9qZPQHM) | 3:10 | 2022-04-22 | 2022-04-29 |
 | [Noël blanc](https://open.spotify.com/track/0TzdxTeaStfhDADxoTeRaE) | [Gregory Charles](https://open.spotify.com/artist/5oZRVKPoEK2rVLYDv3ohoi), [Marc Hervieux](https://open.spotify.com/artist/574kdGr9fdC7k7ZUOpbNb5) | [Noël En Noir & Blanc](https://open.spotify.com/album/1zO0MHz7l9N9kaFEBAvQWA) | 2:57 | 2021-12-31 | 2022-01-22 |
@@ -2618,6 +2618,7 @@
 | [Un morceau de Sicre](https://open.spotify.com/track/2a3cTxYAOm6O2VRTQj8qxl) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Un morceau de Sicre](https://open.spotify.com/album/7LEv9OJgjyFBLqevLi6NvO) | 4:02 | 2023-10-20 | 2023-12-18 |
 | [Un murmure dans le décor](https://open.spotify.com/track/2ojnBSChKn8i7EsjVfNiJb) | [Sébastien Lacombe](https://open.spotify.com/artist/2MZsADwBuFuSv6eRNIQm1t) | [Un murmure dans le décor](https://open.spotify.com/album/0Mw4CysbKjPrN1DqDXPKFo) | 3:22 | 2022-03-25 | 2022-04-09 |
 | [Un Palmier Dans La Neige](https://open.spotify.com/track/5dviT0SFLaLbLcy9SpRt90) | [Kora \(CA\)](https://open.spotify.com/artist/7lHiOFpepHokhLTy6PNAL9), [Wuachuma](https://open.spotify.com/artist/6aD1s6Aopus9Yguowm39qJ) | [Un Palmier Dans La Neige](https://open.spotify.com/album/01ChPqyfVKKqEATEjPvA7d) | 7:00 | 2022-08-19 | 2022-09-03 |
+| [Un peu](https://open.spotify.com/track/6VaFJoPFZrbbV5hrxeBpVA) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Un peu](https://open.spotify.com/album/2K8CZHlvMVaGblwBOMsOUc) | 2:57 | 2024-09-13 |  |
 | [Un peu d'amour](https://open.spotify.com/track/2S8Mp8yS3W4tDlxpj0sCbY) | [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Un peu d'amour](https://open.spotify.com/album/0eUrSSgOBnidKw4sviTK7x) | 3:03 | 2024-07-05 | 2024-09-14 |
 | [Un Peu d'Amour](https://open.spotify.com/track/51pcyfpMb8YF2d5NONzheW) | [MAGENTA](https://open.spotify.com/artist/5du1Lf0YKbak13Ym58jKsA), [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Un Peu d'Amour](https://open.spotify.com/album/6oxjEeaBzvRABmCzy5JJce) | 5:31 | 2022-05-13 | 2022-05-20 |
 | [Un peu de magie](https://open.spotify.com/track/3k3Tj6cWPOrdZSOVN92Dtz) | [Philippe Brach](https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt) | [Les gens qu'on aime](https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9) | 3:02 | 2023-03-31 | 2023-04-29 |

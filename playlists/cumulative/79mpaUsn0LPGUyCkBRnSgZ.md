@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-739 songs - 2 day 0 hr 25 min
+740 songs - 2 day 0 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -380,6 +380,7 @@
 | [Let Me Drown](https://open.spotify.com/track/3YJ4uP7IHca1MrxoPD6NCC) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown](https://open.spotify.com/album/4SPc25NzdqOQt2IX4JDLUv) | 3:53 | 2023-01-14 |  |
 | [Let You Down](https://open.spotify.com/track/1wzwDKMN9m7NATxnsLqJAu) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [Honour and Glory](https://open.spotify.com/album/015KLRVrZoCEnW8jGGH0E3) | 3:28 | 2024-01-27 | 2024-03-28 |
 | [Life of Sin](https://open.spotify.com/track/7oop0Rsh4jhdOtglVL3Dmf) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Metamodern Sounds in Country Music](https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag) | 2:26 | 2023-06-03 |  |
+| [Life's Greatest Fool](https://open.spotify.com/track/70IVVzw7Wmi2EdYWlPwbnO) | [Gene Clark](https://open.spotify.com/artist/040Bv6cZTRh30LyyYVXgJX) | [No Other](https://open.spotify.com/album/0bHiuso3WXpchgSlfX48uY) | 4:44 | 2024-09-15 |  |
 | [Lift](https://open.spotify.com/track/7imDM0mCmxkNgt9ROwijiU) | [Katie Gately](https://open.spotify.com/artist/6FP6ynzSPeBFX46vkI1OsW) | [Color](https://open.spotify.com/album/5pVeEzOuaLQDIoJxOwyWDj) | 4:17 | 2024-01-18 |  |
 | [Like a Rolling Stone](https://open.spotify.com/track/3AhXZa8sUQht0UEdBJgpGc) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Highway 61 Revisited](https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD) | 6:09 | 2023-11-01 | 2024-09-10 |
 | [Lilian's Pavilion](https://open.spotify.com/track/1XbBXvgRlTJB6880Du8jlH) | [CEP](https://open.spotify.com/artist/2aooHIljVYIZhEFFNmIaEz) | [Drawing the Target Around the Arrow](https://open.spotify.com/album/1Uu3fza2uwuAM9kbn5EtBs) | 2:57 | 2023-10-17 |  |

@@ -4,7 +4,7 @@
 
 > Mental illness
 
-30 songs - 1 hr 37 min
+31 songs - 1 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Am I Awake?](https://open.spotify.com/track/5ZuFa017ebD1p6aU9zHTnT) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Idlewild: A Compilation](https://open.spotify.com/album/6oySHdG0nQzH5Belcm0fQi) | 3:03 | 2023-03-26 |  |
 | [Cash Machine](https://open.spotify.com/track/3aYphK1HrpzYbuBLz8PH6l) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful: Shorter, Thicker & Uglier \(Deluxe\)](https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob) | 2:56 | 2024-03-28 |  |
 | [Cigarette Ahegao](https://open.spotify.com/track/67VxWciiaYZYy3NTlyCtp7) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Public Void](https://open.spotify.com/album/49iT8dV8hZ5o7bqpOI5yfI) | 3:03 | 2024-01-17 |  |
+| [Cry for Judas](https://open.spotify.com/track/6dzU8kkXmOGCMNyX149BX3) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Transcendental Youth](https://open.spotify.com/album/1AOcKK0PoTQtuRZVhOgJlp) | 3:12 | 2024-09-15 |  |
 | [Diggin' Up Hatchets](https://open.spotify.com/track/22Qce4LVRx6PqsVhOXuaWs) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [Counterfeit Arcade](https://open.spotify.com/album/3OdykG7E7VoQwsG38E2Bux) | 3:58 | 2023-03-27 |  |
 | [Double Vision](https://open.spotify.com/track/0fsj3HxzBHev6EJ7OLFE3r) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Double Vision \(Expanded\)](https://open.spotify.com/album/6lu6DYE0eHHp1gd3QGUYhu) | 3:44 | 2023-11-20 |  |
 | [Escaping the Asylum](https://open.spotify.com/track/37t5WApvd9cluPunHf7IZ5) | [The Blake Robinson Synthetic Orchestra](https://open.spotify.com/artist/4rChEc17dTzO2ep7yajKfy) | [Originals Volume 2](https://open.spotify.com/album/5QqJtpXawzRkRKvyJCp8UM) | 2:16 | 2023-03-23 |  |

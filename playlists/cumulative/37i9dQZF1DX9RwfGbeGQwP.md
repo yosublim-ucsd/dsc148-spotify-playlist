@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,448 songs - 2 day 6 hr 33 min
+1,450 songs - 2 day 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Blackjack](https://open.spotify.com/track/1e0tOvl9ZaWyxGgGWEA4Md) | [Tabi](https://open.spotify.com/artist/5BE83iQiIHIQZwcHZYCZMK) | [Foggy Nights](https://open.spotify.com/album/3ECaZHFTwm4PVXlIjUN8Nc) | 3:33 | 2022-05-13 | 2022-11-26 |
 | [bleep](https://open.spotify.com/track/0VutyxcmjtC8Bs0QLcyIhb) | [tori yami](https://open.spotify.com/artist/3ZjRFcfag9ETSC777HOBDx) | [bleep](https://open.spotify.com/album/2MnmOWac8GbeCedTkbGldw) | 2:07 | 2022-09-02 |  |
 | [bloom](https://open.spotify.com/track/0dOnielazzJAafGsSBYmWl) | [nikk.](https://open.spotify.com/artist/0s8bZjPXviY1jTsu8ljegH) | [bloom](https://open.spotify.com/album/5BJau1GLTkarkCZ6fHkpDK) | 2:13 | 2023-02-24 |  |
+| [Bloom](https://open.spotify.com/track/1Ysrlbv0pgJGzTJs2rKHRa) | [Sloppy Jo](https://open.spotify.com/artist/2vllrQgjSlv6SFDmhio5un) | [Bloom](https://open.spotify.com/album/1hGnTXCqPpHFhw80OVFmqd) | 2:09 | 2024-09-13 |  |
 | [Blooming Magic](https://open.spotify.com/track/3uGGmGE2SGxmSHkRbF5EYb) | [Maria Flippo](https://open.spotify.com/artist/4xoGvyrl4NWTtyaSrWi0py) | [Blooming Magic](https://open.spotify.com/album/4bg9lNm1hXxFdTy8xxwtbJ) | 2:07 | 2022-09-16 | 2024-09-07 |
 | [blossom bliss](https://open.spotify.com/track/6rTcq4gZhytJ0IC1JJfCdE) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc) | [blossom bliss](https://open.spotify.com/album/4pUT8Gv5FBOgN9IPSkF4RT) | 2:24 | 2022-08-19 | 2023-01-13 |
 | [Blue](https://open.spotify.com/track/498MKKUZWsgfqIB0u5rCTl) | [Wieland & Ulrich](https://open.spotify.com/artist/4ocnTp8nDRYItXbkk2vwpN) | [Blue](https://open.spotify.com/album/7f9ozd5SzTQ5fQ25kAgNWJ) | 2:12 | 2022-07-22 | 2022-11-12 |
@@ -312,7 +313,7 @@
 | [Distance](https://open.spotify.com/track/7uQuR9ix1B7X8rFuTzOv29) | [Last Memories](https://open.spotify.com/artist/3UHYSVL2r6kB0niINk2097) | [Distance](https://open.spotify.com/album/1AfMrUInGVyCcKrGV0dC5k) | 2:43 | 2022-01-27 | 2022-05-27 |
 | [Distant Stars](https://open.spotify.com/track/1a5lJhsf5g5FAumPtuFycB) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Digestif](https://open.spotify.com/album/6XAIRCFzU3leT8kQZuQtdA) | 2:00 | 2022-11-11 | 2022-11-26 |
 | [Distant Stars](https://open.spotify.com/track/5eF05n2gqGMhPPaylRsrrU) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Distant Stars](https://open.spotify.com/album/0oHLMLJCT9ojmIs0EZW7RL) | 2:00 | 2022-05-13 | 2022-11-20 |
-| [Divine steps](https://open.spotify.com/track/7lMPIr6Ug0bzLfJOp2QDxV) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Divine steps](https://open.spotify.com/album/0TwgmFEoGyl5rsa2ADcRhc) | 1:46 | 2022-09-16 |  |
+| [Divine steps](https://open.spotify.com/track/7lMPIr6Ug0bzLfJOp2QDxV) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Divine steps](https://open.spotify.com/album/0TwgmFEoGyl5rsa2ADcRhc) | 1:46 | 2022-09-16 | 2024-09-16 |
 | [Do It Again](https://open.spotify.com/track/0jLLFyVz52mRyhHxZztxf0) | [halfpastseven](https://open.spotify.com/artist/7IA63FK0TU9WZO5bPZS2hk), [Jake Milliner](https://open.spotify.com/artist/5GbsEElDfxIjlM3rknGexS) | [Do It Again](https://open.spotify.com/album/3ofJPttUwGpEpwkcPypb8D) | 2:07 | 2023-09-22 | 2023-11-08 |
 | [Don Done](https://open.spotify.com/track/5SSLk1InW5lcBEDTI3QrXq) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Adrian Planitz](https://open.spotify.com/artist/2FibutZAPesy9g1MoOvlHa), [Gabb.](https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG) | [Don Done](https://open.spotify.com/album/7y2xNEreSbAMfw5wTxnB5W) | 2:11 | 2023-01-13 | 2023-02-16 |
 | [Don Done](https://open.spotify.com/track/66uJyJoHQjheshWqgUTahM) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Adrian Planitz](https://open.spotify.com/artist/2FibutZAPesy9g1MoOvlHa), [Gabb.](https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG) | [Don Done](https://open.spotify.com/album/6XdpwOQ8jpf9L88jLQbfWN) | 2:11 | 2023-02-13 | 2023-10-13 |
@@ -1030,6 +1031,7 @@
 | [Renegades](https://open.spotify.com/track/2aW6bhzUQ53imrld5G8VKY) | [Sleepy Tigers](https://open.spotify.com/artist/1DK5TN3sWOFCRHTQYODjpH) | [Renegades](https://open.spotify.com/album/7gbhY8Cdb3HLvTsoT5EgPc) | 2:58 | 2022-01-27 | 2023-03-09 |
 | [Rest Assured](https://open.spotify.com/track/0iNW8VuTW4JopOHFXo9Hmw) | [Popcorn Trees](https://open.spotify.com/artist/3dENObUHDNLm5lxRoPn2p1) | [Rest Assured](https://open.spotify.com/album/5rCipxXRKwo2xSf8CEkVw3) | 1:47 | 2023-04-20 |  |
 | [restful](https://open.spotify.com/track/1drYD8ukm3NeTW45JkCVP4) | [Gaccio](https://open.spotify.com/artist/5VFn6uezSGCIslQWRV5vhy) | [restful](https://open.spotify.com/album/551yGRG1Q9kX7h6h4gLzgz) | 2:06 | 2024-06-28 |  |
+| [Resurrecting](https://open.spotify.com/track/2uInLNvSTYxMaQqGFfXqYI) | [elephvnt](https://open.spotify.com/artist/5q1SBpeVA2vh8h9gfxjY36) | [Resurrecting](https://open.spotify.com/album/6XpGbMSnKn5Ljl2pLTQuaT) | 2:28 | 2024-09-13 |  |
 | [Retro Days](https://open.spotify.com/track/2MXFQr1vpjn0zydw33E6ZR) | [AHOSHI](https://open.spotify.com/artist/3srMUKCuz2uyIDil2av4aU) | [Retro Days](https://open.spotify.com/album/03WAKWZz7kIzkiC9IEL5Ev) | 1:44 | 2022-04-08 | 2023-04-21 |
 | [Retro Jam](https://open.spotify.com/track/0V85fXmfJc9ntKDdr6ghkd) | [Blu Tone](https://open.spotify.com/artist/2KRlpOMMxonrmdbVbETKZW) | [Retro Jam](https://open.spotify.com/album/1j0UX5DoUMifzpwA0P4nym) | 2:18 | 2022-05-13 | 2022-11-20 |
 | [Retro Jam](https://open.spotify.com/track/5jZ5IjsDGXQax377Tslqvh) | [Blu Tone](https://open.spotify.com/artist/2KRlpOMMxonrmdbVbETKZW) | [Retro Jam](https://open.spotify.com/album/7rBw7Zjroo8hf6nqjXoWhC) | 2:18 | 2022-11-11 | 2022-11-26 |
@@ -1363,7 +1365,7 @@
 | [Unsubmarine](https://open.spotify.com/track/6NBHmshG37zEi6efc7Dizj) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Myspys](https://open.spotify.com/album/3AIyDBHIB9Sk0ubLRKh9YB) | 2:17 | 2023-02-24 | 2024-05-14 |
 | [Untold Stories](https://open.spotify.com/track/1PG43ycJcN4SEU1FuAlUn8) | [Raouf Beats](https://open.spotify.com/artist/5KVCvRxkmEVquvmkLe0fII), [SpoonBeats](https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl) | [Untold Stories](https://open.spotify.com/album/3Cq4Ul7SXuKx4a6PY5IJDx) | 1:33 | 2022-09-02 | 2023-01-13 |
 | [up in cloud.](https://open.spotify.com/track/2GjRY3hwlCmUg1avfdU7Df) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [up in cloud.](https://open.spotify.com/album/664HCWnJxkAmkAZgFp8yBQ) | 1:52 | 2022-07-22 | 2022-11-12 |
-| [up we go](https://open.spotify.com/track/5B4tAArgQeG90fu29F8vXW) | [slowvibe](https://open.spotify.com/artist/3WEs7RfxMRuGpNYkVRYJcO) | [up we go](https://open.spotify.com/album/0gj0weMKku5rK2q6AUcX7Q) | 1:58 | 2023-05-19 |  |
+| [up we go](https://open.spotify.com/track/5B4tAArgQeG90fu29F8vXW) | [slowvibe](https://open.spotify.com/artist/3WEs7RfxMRuGpNYkVRYJcO) | [up we go](https://open.spotify.com/album/0gj0weMKku5rK2q6AUcX7Q) | 1:58 | 2023-05-19 | 2024-09-16 |
 | [Uptown Train](https://open.spotify.com/track/5LOf0bNrydlqUgro73awjW) | [Calm Like Carl](https://open.spotify.com/artist/4yliz9yN6pHtswgNVEjiw0) | [Uptown Train](https://open.spotify.com/album/3IMePNMlrZRLcjRj6D9bvz) | 2:52 | 2022-01-27 | 2023-05-20 |
 | [Uranus](https://open.spotify.com/track/0GLoFXswhlYIKPPmo7BLxi) | [Agu](https://open.spotify.com/artist/6Xf5UcRnwGjGJQMC42Bllw) | [Uranus](https://open.spotify.com/album/1onuaiheCQDuvJKyXoNheU) | 1:33 | 2022-12-09 | 2023-10-06 |
 | [Valore](https://open.spotify.com/track/3QUeY6hDoz3dAAGNYb4oJS) | [Ithari](https://open.spotify.com/artist/5i7mVCjMpXB2RUG57d6vdQ), [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [Lost in Space](https://open.spotify.com/artist/62aXOeeoR4j8XjHRJXIhMf) | [Valore](https://open.spotify.com/album/1HA2XdcA47eDmpf2ezrRRn) | 1:43 | 2022-11-25 | 2023-09-29 |

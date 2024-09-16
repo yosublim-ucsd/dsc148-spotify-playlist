@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 
 > This is Jai Wolf\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,040 likes - 32 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,039 likes - 31 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,6 +39,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 | 29 | [Your Way \(feat\. Day Wave\)](https://open.spotify.com/track/2AaNTnYTf24qzu5SsT5K8s) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [The Cure To Loneliness](https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ) | 4:26 |
 | 30 | [Manic Pixie Dream](https://open.spotify.com/track/6Tc4FcAwioZOazAmzcZtqr) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Cure To Loneliness \(5 Year Anniversary Deluxe\)](https://open.spotify.com/album/6N5PJKWEaaLLsSBAe6aIOG) | 3:31 |
 | 31 | [Half Hearted Interlude](https://open.spotify.com/track/73eZbV5vNeLulwZdBpL7la) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Cure To Loneliness \(5 Year Anniversary Deluxe\)](https://open.spotify.com/album/6N5PJKWEaaLLsSBAe6aIOG) | 1:28 |
-| 32 | [Around The World \(feat\. Now, Now\)](https://open.spotify.com/track/41AQdsicGXQQaRZKNjIojd) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Now, Now](https://open.spotify.com/artist/6ZitSwtBSGqj00w11GvMU3) | [The Cure To Loneliness \(5 Year Anniversary Deluxe\)](https://open.spotify.com/album/6N5PJKWEaaLLsSBAe6aIOG) | 4:43 |
 
-Snapshot ID: `ZuOAgAAAAAC6ugYdgKNN/ZDT7U4E9Pad`
+Snapshot ID: `ZuTSAAAAAAALvmgi+eTdKlLsQh/lnFc0`

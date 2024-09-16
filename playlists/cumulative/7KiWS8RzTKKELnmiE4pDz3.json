@@ -6149,6 +6149,24 @@
     },
     {
       "album": {
+        "name": "No Hooks",
+        "url": "https://open.spotify.com/album/6cbmULrZWVHJ0G0P4DDWLb"
+      },
+      "artists": [
+        {
+          "name": "Lud Foe",
+          "url": "https://open.spotify.com/artist/0Cu32uCaqDJYQADOev92Et"
+        }
+      ],
+      "date_added": "2024-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239349,
+      "name": "In and Out",
+      "url": "https://open.spotify.com/track/2oWaHVTGvuFk38iBRVRAaO"
+    },
+    {
+      "album": {
         "name": "AI YoungBoy 2",
         "url": "https://open.spotify.com/album/1nzUj7VkiaytMmf2KrhK2L"
       },

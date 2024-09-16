@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,960 songs - 10 day 23 hr 53 min
+6,961 songs - 10 day 23 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6089,7 +6089,7 @@
 | [The Jazz Club](https://open.spotify.com/track/6puYmKZrlWNnXGT39avBk1) | [kBeats](https://open.spotify.com/artist/5w3SUOG1J2oz1vsUQyvIyt), [Kuba](https://open.spotify.com/artist/28WkyS3nwct2W3sHjPg4xo) | [The Jazz Club](https://open.spotify.com/album/2ql7RxskYkui4IfKLzVWdH) | 2:10 | 2022-07-29 | 2022-11-11 |
 | [The Lamp Is High](https://open.spotify.com/track/6BPO4rLBfsAJsdgxG4ufFx) | [Bitte Please](https://open.spotify.com/artist/5C44ypd8rims1JNfLEiDRU) | [The Lamp Is High](https://open.spotify.com/album/4qaGJGT8SwXAGADyKiv4Xu) | 2:37 | 2019-06-24 | 2020-01-22 |
 | [The Last Dance](https://open.spotify.com/track/3F5BnYOp4NWrhPmBzqg4oN) | [Pausa Psi](https://open.spotify.com/artist/43Ojd4Mv19doUZziYeCs2S) | [The Last Dance](https://open.spotify.com/album/2jlwTBIR8pVA2NyFY5J9mW) | 2:38 | 2023-01-20 | 2023-05-04 |
-| [The Last Page](https://open.spotify.com/track/2ryUgsdWh1CTwhQ0HgUHBS) | [Nishimura Blaze](https://open.spotify.com/artist/0UkVabqymwYoKqA9FtrTYa) | [The Last Page](https://open.spotify.com/album/3IDCL10NjQ8ZU4DVl8nz4S) | 2:20 | 2023-12-01 |  |
+| [The Last Page](https://open.spotify.com/track/2ryUgsdWh1CTwhQ0HgUHBS) | [Nishimura Blaze](https://open.spotify.com/artist/0UkVabqymwYoKqA9FtrTYa) | [The Last Page](https://open.spotify.com/album/3IDCL10NjQ8ZU4DVl8nz4S) | 2:20 | 2023-12-01 | 2024-09-16 |
 | [The most obvious, ever](https://open.spotify.com/track/0sH3DR20Gs9bWxNWYCRReA) | [Jon Beauté](https://open.spotify.com/artist/1ExH27k1fKzrvoKkRWlCPv) | [The most obvious, ever](https://open.spotify.com/album/0ugHnrqagIDfleOugG8KBH) | 2:20 | 2022-12-23 | 2024-02-09 |
 | [The Mountain](https://open.spotify.com/track/7uS16BxAtHTTUgloivM6iy) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA), [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [The Mountain](https://open.spotify.com/album/3Zzkjg1S96savE5pLNTcwx) | 1:39 | 2021-11-20 | 2022-06-03 |
 | [The Movement](https://open.spotify.com/track/7qsMKa83CgK6jWK5kT24Lq) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY) | [The Movement](https://open.spotify.com/album/2UaQbeTEneUrWNV2nkQ5jo) | 2:20 | 2019-11-22 | 2021-02-03 |
@@ -6396,6 +6396,7 @@
 | [Under Starry Skies](https://open.spotify.com/track/5MDTk3PuBmktHEZsmmPxoV) | [Yasumu](https://open.spotify.com/artist/53rCVzFVlyntj7jEjnY2oM) | [Under Starry Skies](https://open.spotify.com/album/1e1CJ3rSzb2QaSrojqsHC8) | 1:54 | 2021-06-18 | 2022-01-14 |
 | [Under The Moon](https://open.spotify.com/track/4TwxqOEYh9gBvMhcqol841) | [Seau](https://open.spotify.com/artist/7peEnNi8wOyOWwuYGllh23), [Layers](https://open.spotify.com/artist/7DrYhFJgZejq1tztifxlU6) | [Under The Moon](https://open.spotify.com/album/4hC7LJEcYFOTt5ATAR95fN) | 2:14 | 2021-07-04 | 2022-03-11 |
 | [Under The Palm Trees](https://open.spotify.com/track/4NQSDtarzVzsi22y5KUN2D) | [Goldusk](https://open.spotify.com/artist/1vhLM6xIiTjnhzb54G7lXc) | [Under The Palm Trees](https://open.spotify.com/album/7LDhRNe4vzqy0Ug7Cxtbdh) | 1:37 | 2022-06-17 | 2022-10-07 |
+| [Under The Stars](https://open.spotify.com/track/62ZcMbemNH5zIhx0hrLUWf) | [Luke's Diner](https://open.spotify.com/artist/6hi19IKSuyrQ9kIBaGMaYl) | [Under The Stars](https://open.spotify.com/album/2NW8a1UX8cGoZxHCDFTlH8) | 2:10 | 2024-09-13 |  |
 | [Under the Stars](https://open.spotify.com/track/0XhNR4WryrxmGjG7TgrJY2) | [Noxz](https://open.spotify.com/artist/4gQHI7uYzGmbD7BRBtFLO2) | [Under the Stars](https://open.spotify.com/album/0ug33fV7YEFiZg5JHFDCFg) | 2:23 | 2022-11-18 | 2023-05-04 |
 | [Under the Stars](https://open.spotify.com/track/3f6oc5y5VlsA9VLmwHwk9O) | [Noxz](https://open.spotify.com/artist/4gQHI7uYzGmbD7BRBtFLO2) | [Under the Stars](https://open.spotify.com/album/1D37fgV6avyDwON4YA2oj3) | 2:23 | 2022-10-21 | 2022-11-24 |
 | [Under The Stars](https://open.spotify.com/track/2r0WLsamVimyYYy2kl0tt1) | [Ryuu竜](https://open.spotify.com/artist/7IjhfLAkztgdYu463O2bfF) | [Under The Stars](https://open.spotify.com/album/1tSsSExsII346Iub3Pkklj) | 1:28 | 2022-04-08 | 2022-07-16 |

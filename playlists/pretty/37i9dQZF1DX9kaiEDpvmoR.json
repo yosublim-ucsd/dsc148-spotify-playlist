@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 92190,
+  "num_followers": 92185,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,22 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
+        "name": "For Cryin' Out Loud!",
+        "url": "https://open.spotify.com/album/2nI6nzE1jBURI1jKNh22OL"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "duration_ms": 217232,
+      "name": "For Cryin' Out Loud!",
+      "url": "https://open.spotify.com/track/5fz1rfGFT3npQUmNnu998w"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
         "name": "F-1 Trillion",
         "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 183333,
       "name": "Have The Heart (Feat. Dolly Parton)",
       "url": "https://open.spotify.com/track/1sqXfPaRD7npnH712RZQAF"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
-        "name": "For Cryin' Out Loud!",
-        "url": "https://open.spotify.com/album/2nI6nzE1jBURI1jKNh22OL"
-      },
-      "artists": [
-        {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
-        }
-      ],
-      "duration_ms": 217232,
-      "name": "For Cryin' Out Loud!",
-      "url": "https://open.spotify.com/track/5fz1rfGFT3npQUmNnu998w"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "After All The Bars Are Closed",
-        "url": "https://open.spotify.com/album/07gfJHUBVX2VxXovVuUGjA"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 191839,
-      "name": "After All The Bars Are Closed",
-      "url": "https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
         "name": "Now or Never (feat. Lauren Alaina)",
         "url": "https://open.spotify.com/album/5qBLAcf1q3O8bvsyrweWNy"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 174946,
       "name": "Now or Never (feat. Lauren Alaina)",
       "url": "https://open.spotify.com/track/6GvYbJ7A0iAnGYFReRMxSa"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
+        "name": "After All The Bars Are Closed",
+        "url": "https://open.spotify.com/album/07gfJHUBVX2VxXovVuUGjA"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 191839,
+      "name": "After All The Bars Are Closed",
+      "url": "https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -451,6 +451,22 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
+        "name": "About A Woman",
+        "url": "https://open.spotify.com/album/6tDerbhPTlX8pa0hyRStZG"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 210891,
+      "name": "Somethin' 'Bout A Woman",
+      "url": "https://open.spotify.com/track/4ehCVk8StZrXolPSeFs5Ss"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
         "name": "K\u00e4nns s\u00e5 l\u00e4ngesen",
         "url": "https://open.spotify.com/album/5bAk5VXaU75Cy3J1TlTjw2"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 194760,
       "name": "Afloat",
       "url": "https://open.spotify.com/track/3qBYQW80LWrls8EuM6DEK0"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
-        "name": "About A Woman",
-        "url": "https://open.spotify.com/album/6tDerbhPTlX8pa0hyRStZG"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 210891,
-      "name": "Somethin' 'Bout A Woman",
-      "url": "https://open.spotify.com/track/4ehCVk8StZrXolPSeFs5Ss"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -687,6 +687,26 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
+        "name": "S\u00e4llskapssjuk",
+        "url": "https://open.spotify.com/album/32boYR11uVt6E8lAWjrHY4"
+      },
+      "artists": [
+        {
+          "name": "Per Gessle",
+          "url": "https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK"
+        },
+        {
+          "name": "Lena Philipsson",
+          "url": "https://open.spotify.com/artist/7rZYHhxGKbe1XepzlpDlKm"
+        }
+      ],
+      "duration_ms": 214783,
+      "name": "S\u00e4llskapssjuk",
+      "url": "https://open.spotify.com/track/4ugFejJaVMZsvSMgHX9Fjj"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
         "name": "Upp med hakan",
         "url": "https://open.spotify.com/album/3OAWeefFpKwzXX4JOINByi"
       },
@@ -719,26 +739,6 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "S\u00e4llskapssjuk",
-        "url": "https://open.spotify.com/album/32boYR11uVt6E8lAWjrHY4"
-      },
-      "artists": [
-        {
-          "name": "Per Gessle",
-          "url": "https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK"
-        },
-        {
-          "name": "Lena Philipsson",
-          "url": "https://open.spotify.com/artist/7rZYHhxGKbe1XepzlpDlKm"
-        }
-      ],
-      "duration_ms": 214783,
-      "name": "S\u00e4llskapssjuk",
-      "url": "https://open.spotify.com/track/4ugFejJaVMZsvSMgHX9Fjj"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
         "name": "Innan tystnaden tar vid",
         "url": "https://open.spotify.com/album/7IJJWqgkGGQSK3VdOH69wI"
       },
@@ -751,22 +751,6 @@
       "duration_ms": 394696,
       "name": "Europa",
       "url": "https://open.spotify.com/track/2jlj959NddsGSOCWG50UAv"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
-        "name": "Low",
-        "url": "https://open.spotify.com/album/4uymGW41PoRSJkM6vt1YRv"
-      },
-      "artists": [
-        {
-          "name": "Maja Francis",
-          "url": "https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c"
-        }
-      ],
-      "duration_ms": 217474,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/1fp4bZAAzicpIRFlnPANrP"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -787,6 +771,22 @@
       "duration_ms": 288155,
       "name": "Fri till slut - Spotify Singles",
       "url": "https://open.spotify.com/track/0LqMjug9C2LLSxsLfco0tg"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
+        "name": "Low",
+        "url": "https://open.spotify.com/album/4uymGW41PoRSJkM6vt1YRv"
+      },
+      "artists": [
+        {
+          "name": "Maja Francis",
+          "url": "https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c"
+        }
+      ],
+      "duration_ms": 217474,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/1fp4bZAAzicpIRFlnPANrP"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "Flowers at a Funeral",
-        "url": "https://open.spotify.com/album/4YXKLLSnxHt1Kvgb2OQLvg"
-      },
-      "artists": [
-        {
-          "name": "NOEL",
-          "url": "https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p"
-        }
-      ],
-      "duration_ms": 207360,
-      "name": "Flowers at a Funeral",
-      "url": "https://open.spotify.com/track/3tW7YR0lQoJds70KsLP0i7"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/76TbBcDjb01oZbMENx4ck9"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 224402,
       "name": "You",
       "url": "https://open.spotify.com/track/6evUjvTtpiHp2k734L6CKX"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
+        "name": "Flowers at a Funeral",
+        "url": "https://open.spotify.com/album/4YXKLLSnxHt1Kvgb2OQLvg"
+      },
+      "artists": [
+        {
+          "name": "NOEL",
+          "url": "https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p"
+        }
+      ],
+      "duration_ms": 207360,
+      "name": "Flowers at a Funeral",
+      "url": "https://open.spotify.com/track/3tW7YR0lQoJds70KsLP0i7"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "I'm Not Dead Yet",
-        "url": "https://open.spotify.com/album/0w1LDFIYZGBrvgAGHXiwbM"
-      },
-      "artists": [
-        {
-          "name": "Jill Johnson",
-          "url": "https://open.spotify.com/artist/2aaGbpl5Y2ykZsNFZM6ofw"
-        }
-      ],
-      "duration_ms": 199760,
-      "name": "If You Lose Her, You're A Loser",
-      "url": "https://open.spotify.com/track/1saALmRZoydumb6RaXpZnh"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
         "name": "Weak Point",
         "url": "https://open.spotify.com/album/1tLbj0WqyOa2zhZMP4wN2Y"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 285520,
       "name": "Weak Point",
       "url": "https://open.spotify.com/track/75HLPctDDaXOBjfp7mK6eh"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
+        "name": "I'm Not Dead Yet",
+        "url": "https://open.spotify.com/album/0w1LDFIYZGBrvgAGHXiwbM"
+      },
+      "artists": [
+        {
+          "name": "Jill Johnson",
+          "url": "https://open.spotify.com/artist/2aaGbpl5Y2ykZsNFZM6ofw"
+        }
+      ],
+      "duration_ms": 199760,
+      "name": "If You Lose Her, You're A Loser",
+      "url": "https://open.spotify.com/track/1saALmRZoydumb6RaXpZnh"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
+        "name": "Del av dig",
+        "url": "https://open.spotify.com/album/1XYWuLePZJFak970ii4pqh"
+      },
+      "artists": [
+        {
+          "name": "Gustaf Nor\u00e9n",
+          "url": "https://open.spotify.com/artist/1zR67M6RSKhUxeHfjZ1TWf"
+        }
+      ],
+      "duration_ms": 221418,
+      "name": "Del av dig",
+      "url": "https://open.spotify.com/track/3E19KKWWG37jr09vU8VDlb"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
         "name": "COWBOY",
         "url": "https://open.spotify.com/album/62OWWogIf1n6gAqTnFus1t"
       },
@@ -1235,22 +1251,6 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "Del av dig",
-        "url": "https://open.spotify.com/album/1XYWuLePZJFak970ii4pqh"
-      },
-      "artists": [
-        {
-          "name": "Gustaf Nor\u00e9n",
-          "url": "https://open.spotify.com/artist/1zR67M6RSKhUxeHfjZ1TWf"
-        }
-      ],
-      "duration_ms": 221418,
-      "name": "Del av dig",
-      "url": "https://open.spotify.com/track/3E19KKWWG37jr09vU8VDlb"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
         "name": "Min Elsa",
         "url": "https://open.spotify.com/album/3uNPo9qEdsW5q7eUev4tfC"
       },
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
+        "name": "Din parfym",
+        "url": "https://open.spotify.com/album/5KaD632xFUKm3yER78OgjZ"
+      },
+      "artists": [
+        {
+          "name": "Simon Forslund",
+          "url": "https://open.spotify.com/artist/4JnIwJLd03V0aofGGIH5uD"
+        }
+      ],
+      "duration_ms": 161298,
+      "name": "Din parfym",
+      "url": "https://open.spotify.com/track/2Q5XfAVYprDIHLCsCwZGBi"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
         "name": "The Way",
         "url": "https://open.spotify.com/album/2N1OuSrkbm0uvI5dwtUCdM"
       },
@@ -1327,6 +1343,22 @@
       "duration_ms": 208750,
       "name": "All v\u00e5r dans",
       "url": "https://open.spotify.com/track/6UBN3gqdmJwz6hdaDaCxAv"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
+        "name": "Tar det upp i topp",
+        "url": "https://open.spotify.com/album/2woeyU7TmFtihmbJEhWFC4"
+      },
+      "artists": [
+        {
+          "name": "Noice",
+          "url": "https://open.spotify.com/artist/1TVoFA7SMYs6AG3u83FP69"
+        }
+      ],
+      "duration_ms": 169200,
+      "name": "Tar det upp i topp",
+      "url": "https://open.spotify.com/track/6LKb4nGZhInLchAZpNGDX2"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -1399,34 +1431,18 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "Din parfym",
-        "url": "https://open.spotify.com/album/5KaD632xFUKm3yER78OgjZ"
+        "name": "I Had Some Help",
+        "url": "https://open.spotify.com/album/0R3ZYHphV3n1PZTc7GKYSo"
       },
       "artists": [
         {
-          "name": "Simon Forslund",
-          "url": "https://open.spotify.com/artist/4JnIwJLd03V0aofGGIH5uD"
+          "name": "Twenty One Two",
+          "url": "https://open.spotify.com/artist/2A5VOguZzXMBrg27MEUZcp"
         }
       ],
-      "duration_ms": 161298,
-      "name": "Din parfym",
-      "url": "https://open.spotify.com/track/2Q5XfAVYprDIHLCsCwZGBi"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
-        "name": "Tar det upp i topp",
-        "url": "https://open.spotify.com/album/2woeyU7TmFtihmbJEhWFC4"
-      },
-      "artists": [
-        {
-          "name": "Noice",
-          "url": "https://open.spotify.com/artist/1TVoFA7SMYs6AG3u83FP69"
-        }
-      ],
-      "duration_ms": 169200,
-      "name": "Tar det upp i topp",
-      "url": "https://open.spotify.com/track/6LKb4nGZhInLchAZpNGDX2"
+      "duration_ms": 176776,
+      "name": "I Had Some Help",
+      "url": "https://open.spotify.com/track/1exJmqcLsoq5h7RHDRzljm"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -1451,6 +1467,22 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
+        "name": "Tiden f\u00f6rsvinner",
+        "url": "https://open.spotify.com/album/5zWmdawhCC0ijjNQrL4mDM"
+      },
+      "artists": [
+        {
+          "name": "Tommy Nilsson",
+          "url": "https://open.spotify.com/artist/0PnNyzP7CgoDXZHr6cWOyq"
+        }
+      ],
+      "duration_ms": 206304,
+      "name": "Tiden f\u00f6rsvinner",
+      "url": "https://open.spotify.com/track/3THkpuPm9r1eu2Y2YXsHjb"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
         "name": "En bruten fj\u00e4der",
         "url": "https://open.spotify.com/album/7oMPbICTtq9EBUNC4m0Ojj"
       },
@@ -1471,42 +1503,6 @@
       "duration_ms": 245986,
       "name": "En bruten fj\u00e4der",
       "url": "https://open.spotify.com/track/4zFNhMW1uLHqc2cHM2kfQH"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
-        "name": "I Had Some Help",
-        "url": "https://open.spotify.com/album/0R3ZYHphV3n1PZTc7GKYSo"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Two",
-          "url": "https://open.spotify.com/artist/2A5VOguZzXMBrg27MEUZcp"
-        }
-      ],
-      "duration_ms": 176776,
-      "name": "I Had Some Help",
-      "url": "https://open.spotify.com/track/1exJmqcLsoq5h7RHDRzljm"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
-        "name": "I Will See You",
-        "url": "https://open.spotify.com/album/1OnU4nZKqwyvRQzvewu7sc"
-      },
-      "artists": [
-        {
-          "name": "Doug Seegers",
-          "url": "https://open.spotify.com/artist/2WO6GcXH1rWwzge9wOnuxm"
-        },
-        {
-          "name": "Eva Eastwood",
-          "url": "https://open.spotify.com/artist/0Oab0T0VwxapaYLWgHFWhH"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "I Will See You",
-      "url": "https://open.spotify.com/track/6qmXfmVuBXJw9iZML0k6cr"
     },
     {
       "added_at": "2024-09-12 22:00:00",

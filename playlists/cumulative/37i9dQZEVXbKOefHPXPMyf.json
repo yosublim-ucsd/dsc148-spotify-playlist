@@ -1190,7 +1190,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-16",
       "duration_ms": 218613,
       "name": "A Veces A Besos",
       "url": "https://open.spotify.com/track/6AQgrZrFu1xfuAmbyXmKAE"
@@ -2494,7 +2494,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-13",
+      "date_removed": null,
       "duration_ms": 212058,
       "name": "AM a PM",
       "url": "https://open.spotify.com/track/3M022Fu7EHuwG78jcXUxru"
@@ -5972,7 +5972,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-16",
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -12554,7 +12554,7 @@
       ],
       "date_added": "2024-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-16",
       "duration_ms": 152760,
       "name": "Disco",
       "url": "https://open.spotify.com/track/2Lumsra3kuU61wXkEKzKaK"
@@ -13114,7 +13114,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-16",
       "duration_ms": 153928,
       "name": "DOS D\u00cdAS",
       "url": "https://open.spotify.com/track/5lKFO0PrOC9jmOlPEdjHsL"
@@ -18504,7 +18504,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-16",
       "duration_ms": 185265,
       "name": "Good Graces",
       "url": "https://open.spotify.com/track/102YUQbYmwdBXS7jwamI90"
@@ -19722,7 +19722,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-24",
+      "date_removed": null,
       "duration_ms": 96302,
       "name": "Himno Nacional de Costa Rica",
       "url": "https://open.spotify.com/track/3adJjH5yb0dXQjo5v8Nhvg"
@@ -23386,7 +23386,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-24",
+      "date_removed": null,
       "duration_ms": 174026,
       "name": "La Patriotica Costarricense",
       "url": "https://open.spotify.com/track/6UHQmxFSzLnzuUT1FEMcvn"
@@ -24800,7 +24800,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-24",
+      "date_removed": null,
       "duration_ms": 199826,
       "name": "Linda Costa Rica",
       "url": "https://open.spotify.com/track/5uA9Qx6ZmjLoJbThB4qBhU"
@@ -38038,7 +38038,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-16",
       "duration_ms": 177371,
       "name": "Rip Sombra (Hades66)",
       "url": "https://open.spotify.com/track/71zEuQgfmEtHN2CNVM5KX2"
@@ -38618,6 +38618,24 @@
       "duration_ms": 220872,
       "name": "Salitre",
       "url": "https://open.spotify.com/track/6NXPhNtKgDn7OJaLaELuSH"
+    },
+    {
+      "album": {
+        "name": "Saludo a la Bandera",
+        "url": "https://open.spotify.com/album/1zZMDWtZkqesyMtV5Y4d0N"
+      },
+      "artists": [
+        {
+          "name": "Himnos y Cantos Patrioticos de CR",
+          "url": "https://open.spotify.com/artist/1qMwiaWrUilOs9Z2dQqnET"
+        }
+      ],
+      "date_added": "2024-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128809,
+      "name": "Saludo a la Bandera",
+      "url": "https://open.spotify.com/track/28oh511BxfHdYHXxJ5GSL1"
     },
     {
       "album": {
@@ -41932,7 +41950,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-24",
+      "date_removed": null,
       "duration_ms": 187338,
       "name": "Soy Tico",
       "url": "https://open.spotify.com/track/4WJE2pCFVd1KO4qDmQKda4"
@@ -41950,7 +41968,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-24",
+      "date_removed": null,
       "duration_ms": 181293,
       "name": "Soy Tico",
       "url": "https://open.spotify.com/track/6jOe3C5QBhvHG0boQglw8q"
@@ -42664,7 +42682,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-16",
       "duration_ms": 261213,
       "name": "Suelto",
       "url": "https://open.spotify.com/track/4gzdXnYl4s10PXMZn1XSlF"
@@ -43522,7 +43540,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-24",
+      "date_removed": null,
       "duration_ms": 201826,
       "name": "Tambito",
       "url": "https://open.spotify.com/track/0aL5NTTiEfvOZjzbiijmA0"
@@ -45336,7 +45354,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 188480,
       "name": "Tico de Coraz\u00f3n",
       "url": "https://open.spotify.com/track/0XJdkacqMD1gR0c4HTSdCF"
@@ -49392,7 +49410,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-16",
       "duration_ms": 233406,
       "name": "WE PRAY",
       "url": "https://open.spotify.com/track/2sKHevALE8DKDkwEo04Pbh"
@@ -50320,7 +50338,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-16",
       "duration_ms": 321741,
       "name": "WYA REMIX RED",
       "url": "https://open.spotify.com/track/4YnmQG1fnJR9LnTZtix70T"

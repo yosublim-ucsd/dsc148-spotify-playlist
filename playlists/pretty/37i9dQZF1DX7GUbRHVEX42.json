@@ -1,6 +1,6 @@
 {
   "description": "The best of current & contemporary Reggae. Welcome To Jamrock Reggae Cruise. Cover: H.E.R & Lila Ike",
-  "num_followers": 1121430,
+  "num_followers": 1121499,
   "original_name": "Irie",
   "owner": {
     "name": "Spotify",
@@ -179,26 +179,6 @@
     {
       "added_at": "2024-06-18 11:27:57",
       "album": {
-        "name": "Rebel Time",
-        "url": "https://open.spotify.com/album/0rrzx2Xg5leF42e0I7oCu7"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        },
-        {
-          "name": "Beres Hammond",
-          "url": "https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr"
-        }
-      ],
-      "duration_ms": 241734,
-      "name": "Rebel Time",
-      "url": "https://open.spotify.com/track/7tnoa5R79Bl3qa39yQSW5Q"
-    },
-    {
-      "added_at": "2024-06-18 11:27:57",
-      "album": {
         "name": "Higher Place",
         "url": "https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr"
       },
@@ -215,6 +195,26 @@
       "duration_ms": 208893,
       "name": "That's Not True",
       "url": "https://open.spotify.com/track/4MbHdE6u1WVqqzwbHLkKUL"
+    },
+    {
+      "added_at": "2024-06-18 11:27:57",
+      "album": {
+        "name": "Rebel Time",
+        "url": "https://open.spotify.com/album/0rrzx2Xg5leF42e0I7oCu7"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Beres Hammond",
+          "url": "https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr"
+        }
+      ],
+      "duration_ms": 241734,
+      "name": "Rebel Time",
+      "url": "https://open.spotify.com/track/7tnoa5R79Bl3qa39yQSW5Q"
     },
     {
       "added_at": "2024-06-18 11:27:57",
@@ -319,22 +319,18 @@
     {
       "added_at": "2024-06-18 11:27:57",
       "album": {
-        "name": "Vibe",
-        "url": "https://open.spotify.com/album/4vY5bGXeYLqW2gQqADFMty"
+        "name": "Cool Down",
+        "url": "https://open.spotify.com/album/4AGbPjkx87jkHek4TEoE93"
       },
       "artists": [
         {
-          "name": "Skip Marley",
-          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
-        },
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
         }
       ],
-      "duration_ms": 195829,
-      "name": "Vibe (feat. Popcaan)",
-      "url": "https://open.spotify.com/track/4VFk3eto9JaRlOQokHWZZB"
+      "duration_ms": 242230,
+      "name": "Cool Down",
+      "url": "https://open.spotify.com/track/7ktaE00AVIPqSNkyQ4GVEe"
     },
     {
       "added_at": "2024-06-18 11:27:57",
@@ -359,18 +355,42 @@
     {
       "added_at": "2024-06-18 11:27:57",
       "album": {
-        "name": "Cool Down",
-        "url": "https://open.spotify.com/album/4AGbPjkx87jkHek4TEoE93"
+        "name": "Vibe",
+        "url": "https://open.spotify.com/album/4vY5bGXeYLqW2gQqADFMty"
       },
       "artists": [
         {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+          "name": "Skip Marley",
+          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
         }
       ],
-      "duration_ms": 242230,
-      "name": "Cool Down",
-      "url": "https://open.spotify.com/track/7ktaE00AVIPqSNkyQ4GVEe"
+      "duration_ms": 195829,
+      "name": "Vibe (feat. Popcaan)",
+      "url": "https://open.spotify.com/track/4VFk3eto9JaRlOQokHWZZB"
+    },
+    {
+      "added_at": "2024-06-18 11:27:57",
+      "album": {
+        "name": "In Search Of Lost Time",
+        "url": "https://open.spotify.com/album/3kF6kDaK450bGM7rgOTVgW"
+      },
+      "artists": [
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        },
+        {
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+        }
+      ],
+      "duration_ms": 227613,
+      "name": "In Bloom (feat. Lila Ik\u00e9)",
+      "url": "https://open.spotify.com/track/3WwXaLYKNx0qJqyjnzDadx"
     },
     {
       "added_at": "2024-06-18 11:27:57",
@@ -427,26 +447,6 @@
     {
       "added_at": "2024-06-18 11:27:57",
       "album": {
-        "name": "In Search Of Lost Time",
-        "url": "https://open.spotify.com/album/3kF6kDaK450bGM7rgOTVgW"
-      },
-      "artists": [
-        {
-          "name": "Protoje",
-          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
-        },
-        {
-          "name": "Lila Ik\u00e9",
-          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
-        }
-      ],
-      "duration_ms": 227613,
-      "name": "In Bloom (feat. Lila Ik\u00e9)",
-      "url": "https://open.spotify.com/track/3WwXaLYKNx0qJqyjnzDadx"
-    },
-    {
-      "added_at": "2024-06-18 11:27:57",
-      "album": {
         "name": "Old Soul",
         "url": "https://open.spotify.com/album/0J6JtP3hyCEqenKHjrE0um"
       },
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-06-18 11:27:57",
       "album": {
-        "name": "Higher Place",
-        "url": "https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr"
-      },
-      "artists": [
-        {
-          "name": "Skip Marley",
-          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
-        }
-      ],
-      "duration_ms": 198362,
-      "name": "My World",
-      "url": "https://open.spotify.com/track/3acMAUnwxMKfuXIt3SNqDw"
-    },
-    {
-      "added_at": "2024-06-18 11:27:57",
-      "album": {
         "name": "Blaze Away",
         "url": "https://open.spotify.com/album/2VI5sZ40Lewd51hhtF58cc"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 189750,
       "name": "Blaze Away",
       "url": "https://open.spotify.com/track/3JBcOPPiLz7mQYSm6wMHpF"
+    },
+    {
+      "added_at": "2024-06-18 11:27:57",
+      "album": {
+        "name": "Same So",
+        "url": "https://open.spotify.com/album/2TRIUatF5kFierYyXW8zUq"
+      },
+      "artists": [
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        }
+      ],
+      "duration_ms": 208719,
+      "name": "Same So",
+      "url": "https://open.spotify.com/track/54Dt888vzNrG90F51f1kSW"
     },
     {
       "added_at": "2024-06-18 11:27:57",
@@ -539,6 +539,50 @@
       "duration_ms": 255839,
       "name": "What Do You Say (Move It Baby) - Damian \u201cJr. Gong\" Marley Remix",
       "url": "https://open.spotify.com/track/7jpublhStv0bwUo3ZdC0PS"
+    },
+    {
+      "added_at": "2024-06-18 11:27:57",
+      "album": {
+        "name": "The Kalling",
+        "url": "https://open.spotify.com/album/2IL0ko13l6DhK4gUebZXd9"
+      },
+      "artists": [
+        {
+          "name": "Kabaka Pyramid",
+          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
+        },
+        {
+          "name": "Stephen Marley",
+          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
+        },
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        },
+        {
+          "name": "Jesse Royal",
+          "url": "https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1"
+        }
+      ],
+      "duration_ms": 213977,
+      "name": "The Kalling",
+      "url": "https://open.spotify.com/track/7sWHIFWauKqIXFPvVA4UTa"
+    },
+    {
+      "added_at": "2024-06-18 11:27:57",
+      "album": {
+        "name": "Higher Place",
+        "url": "https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr"
+      },
+      "artists": [
+        {
+          "name": "Skip Marley",
+          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
+        }
+      ],
+      "duration_ms": 198362,
+      "name": "My World",
+      "url": "https://open.spotify.com/track/3acMAUnwxMKfuXIt3SNqDw"
     },
     {
       "added_at": "2024-06-18 11:27:57",
@@ -583,34 +627,6 @@
     {
       "added_at": "2024-06-18 11:27:57",
       "album": {
-        "name": "The Kalling",
-        "url": "https://open.spotify.com/album/2IL0ko13l6DhK4gUebZXd9"
-      },
-      "artists": [
-        {
-          "name": "Kabaka Pyramid",
-          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
-        },
-        {
-          "name": "Stephen Marley",
-          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
-        },
-        {
-          "name": "Protoje",
-          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
-        },
-        {
-          "name": "Jesse Royal",
-          "url": "https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1"
-        }
-      ],
-      "duration_ms": 213977,
-      "name": "The Kalling",
-      "url": "https://open.spotify.com/track/7sWHIFWauKqIXFPvVA4UTa"
-    },
-    {
-      "added_at": "2024-06-18 11:27:57",
-      "album": {
         "name": "Diamonds and Gold",
         "url": "https://open.spotify.com/album/15muGQPID5opsEsRptvSDz"
       },
@@ -635,18 +651,22 @@
     {
       "added_at": "2024-06-18 11:27:57",
       "album": {
-        "name": "Same So",
-        "url": "https://open.spotify.com/album/2TRIUatF5kFierYyXW8zUq"
+        "name": "Like Royalty (feat. Popcaan)",
+        "url": "https://open.spotify.com/album/1vRu5xDjU8UI01GFdvWrnP"
       },
       "artists": [
         {
           "name": "Protoje",
           "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
         }
       ],
-      "duration_ms": 208719,
-      "name": "Same So",
-      "url": "https://open.spotify.com/track/54Dt888vzNrG90F51f1kSW"
+      "duration_ms": 245986,
+      "name": "Like Royalty (feat. Popcaan)",
+      "url": "https://open.spotify.com/track/4ezz5XTWn8PPTuDagSM8pH"
     },
     {
       "added_at": "2024-06-18 11:27:57",
@@ -699,6 +719,22 @@
       "duration_ms": 179861,
       "name": "Alert",
       "url": "https://open.spotify.com/track/4FAqKCBFj52Myx3NJiXlv2"
+    },
+    {
+      "added_at": "2024-06-18 11:27:57",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/09dXLJqAXCOCrsFNZv9NzC"
+      },
+      "artists": [
+        {
+          "name": "Kabaka Pyramid",
+          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
+        }
+      ],
+      "duration_ms": 158784,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/4lelv8PEcOEpSxZGsYZWil"
     },
     {
       "added_at": "2024-06-18 11:27:57",
@@ -763,22 +799,6 @@
     {
       "added_at": "2024-06-18 11:27:57",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/09dXLJqAXCOCrsFNZv9NzC"
-      },
-      "artists": [
-        {
-          "name": "Kabaka Pyramid",
-          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
-        }
-      ],
-      "duration_ms": 158784,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/4lelv8PEcOEpSxZGsYZWil"
-    },
-    {
-      "added_at": "2024-06-18 11:27:57",
-      "album": {
         "name": "Refund",
         "url": "https://open.spotify.com/album/1ypi1cqSZXVQvC0emvumqp"
       },
@@ -811,26 +831,6 @@
       "duration_ms": 209856,
       "name": "Rose Petal",
       "url": "https://open.spotify.com/track/7xywfSEGrXeONik3afbjLf"
-    },
-    {
-      "added_at": "2024-06-18 11:27:57",
-      "album": {
-        "name": "Like Royalty (feat. Popcaan)",
-        "url": "https://open.spotify.com/album/1vRu5xDjU8UI01GFdvWrnP"
-      },
-      "artists": [
-        {
-          "name": "Protoje",
-          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
-        },
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        }
-      ],
-      "duration_ms": 245986,
-      "name": "Like Royalty (feat. Popcaan)",
-      "url": "https://open.spotify.com/track/4ezz5XTWn8PPTuDagSM8pH"
     },
     {
       "added_at": "2024-06-18 11:27:57",

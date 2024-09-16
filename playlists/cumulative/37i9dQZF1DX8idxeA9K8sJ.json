@@ -106,7 +106,7 @@
       ],
       "date_added": "2020-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-16",
       "duration_ms": 234546,
       "name": "Amandote",
       "url": "https://open.spotify.com/track/4FNzQAFYz8A2a7k5cyn3E2"
@@ -812,6 +812,24 @@
       "duration_ms": 235626,
       "name": "En alg\u00fan lugar",
       "url": "https://open.spotify.com/track/3UIENhLRdFIOuRan92cAQu"
+    },
+    {
+      "album": {
+        "name": "La M\u00e1s Completa Colecci\u00f3n (CD2)",
+        "url": "https://open.spotify.com/album/33Ng6NDvjCn5FfWN14Z3F5"
+      },
+      "artists": [
+        {
+          "name": "Laureano Brizuela",
+          "url": "https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv"
+        }
+      ],
+      "date_added": "2020-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242693,
+      "name": "Enamorandonos (Just Like Starting Over)",
+      "url": "https://open.spotify.com/track/1hbk34GiyNamnyGtKLe44U"
     },
     {
       "album": {

@@ -4,15 +4,17 @@
 
 > Risk\. Reward\. Repeat\. Listen to the music from Industry, now streaming on Max.
 
-147 songs - 10 hr 33 min
+152 songs - 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#Bad4Me](https://open.spotify.com/track/62uQgbuXrtPo2LAM0bl2xi) | [Etta Bond](https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA) | [\#Bad4Me](https://open.spotify.com/album/76N74IIAic4X7LThS0ADKQ) | 3:12 | 2024-08-12 |  |
+| [Always on My Mind \- 2003 Remaster](https://open.spotify.com/track/2SWn864dJI5RNyrp3F4Kp1) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [PopArt: The Hits](https://open.spotify.com/album/4wcFyCDvWuIAIIfemgtNUv) | 3:57 | 2024-09-16 |  |
 | [Apache](https://open.spotify.com/track/6YU4wNIjYHcwJ5l5sQAxUj) | [Alex Kennon](https://open.spotify.com/artist/1HMBuicB5RnpHxRDR51oMS), [Pete Tong](https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB) | [Apache](https://open.spotify.com/album/4QWohmdazunPv2FdfSZNMZ) | 4:11 | 2024-08-12 |  |
 | [Apricots](https://open.spotify.com/track/0WfOuXw05LJq4ik1lVvTzi) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Isles](https://open.spotify.com/album/0EdtTRCl3J22AnWrNpH1w9) | 4:06 | 2024-08-12 |  |
 | [Atlanta](https://open.spotify.com/track/3Kbu69vg1AblPAdftkZvtx) | [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t) | [Atlanta](https://open.spotify.com/album/2UzXIyRas6ty3YF8ctT7o7) | 7:18 | 2024-08-12 |  |
 | [Aura](https://open.spotify.com/track/1YRmwmoN3oBezY2ND8jhyH) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Bicep](https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo) | 5:16 | 2024-08-12 |  |
+| [Autoglide](https://open.spotify.com/track/71RwJ0cGDhgpNPwzTc0c85) | [Demi Riquísimo](https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac) | [Autoglide](https://open.spotify.com/album/04NKfkTNWsjnNL2LRJ8dEL) | 4:31 | 2024-09-16 |  |
 | [Believe](https://open.spotify.com/track/76ekLbfyuNyUFqTwr7qVLd) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [Believe](https://open.spotify.com/album/5H95zxOs0ctqostVPsULG1) | 3:22 | 2024-08-12 |  |
 | [better](https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [still slipping vol\. 1](https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA) | 5:01 | 2024-08-12 |  |
 | [Big City \(Everybody I Know Can Be Found Here\)](https://open.spotify.com/track/6s2Ly2ULRcY7R8zWem1352) | [Spacemen 3](https://open.spotify.com/artist/1ZOlVrZ2MtNSY9LcFYklDB) | [Big City \- Drive](https://open.spotify.com/album/1uBp3CI3FDBJoHrUYkogdZ) | 8:35 | 2024-08-12 |  |
@@ -57,6 +59,7 @@
 | [Flew The Coop](https://open.spotify.com/track/19CZjhjK3ChA8UYyJZSlUw) | [Adibanti](https://open.spotify.com/artist/3bXDOLmSQHIP7zAyY633kT) | [Adibanti \- EP](https://open.spotify.com/album/0jJx3OSHe7bQh5TrgE3438) | 3:23 | 2024-08-12 |  |
 | [Funnily Enough I Remember](https://open.spotify.com/track/1tQmsRs7dyoQ2L9L3QL8MH) | [Nathan Micay](https://open.spotify.com/artist/6U7MOIhacysUEnfJ41WfhC) | [Industry OST](https://open.spotify.com/album/7mCl94xKJvDxCsU8vtclOR) | 3:15 | 2024-08-12 |  |
 | [G.A.F](https://open.spotify.com/track/0QsvZiQTdilJ9WgoMfJasv) | [IAMDDB](https://open.spotify.com/artist/7za6M9P94wuMsOVCHopTsI) | [Hoodrich Vol\. 3](https://open.spotify.com/album/5fABa5up9Eit0AP1juW4Qm) | 3:19 | 2024-08-12 |  |
+| [Getting Away with It](https://open.spotify.com/track/0YZ7Q5i99vt9OEF8AEEaBV) | [Electronic](https://open.spotify.com/artist/3xYNGCooNIzKMAtJYKSOyq) | [Electronic](https://open.spotify.com/album/6g8Zu43gbKXEHqYs0ZKTcT) | 5:14 | 2024-09-16 |  |
 | [Gimme Love](https://open.spotify.com/track/2hfoyc7ve6xM4ZEiNIiU1B) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Gimme Love](https://open.spotify.com/album/3NhYseiC5dmIJMAOfaFeIU) | 3:34 | 2024-08-12 |  |
 | [Girls on Film \- 2010 Remaster](https://open.spotify.com/track/4EFkvOhgAmlHEfDfvfSoh5) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Duran Duran \(Deluxe Edition\)](https://open.spotify.com/album/2Tc7ILGF89w1PWOhzuZlqB) | 3:32 | 2024-08-19 |  |
 | [Glue](https://open.spotify.com/track/2aJDlirz6v2a4HREki98cP) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Bicep](https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo) | 4:29 | 2024-08-12 |  |
@@ -106,6 +109,7 @@
 | [New Romance](https://open.spotify.com/track/47htv7rED6WpgrPFM4J9pS) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo) | 4:12 | 2024-08-12 |  |
 | [Nice To Have](https://open.spotify.com/track/6ZXqxWmrcUBSnBbnVq5Gl0) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Nice To Have](https://open.spotify.com/album/5eDQGcfnBYtRPAiTPv6b31) | 3:52 | 2024-08-12 |  |
 | [Nobody Knows](https://open.spotify.com/track/2TM24qZOOgsmA94g6Ovy48) | [Pastor T.L\. Barrett and the Youth for Christ Choir](https://open.spotify.com/artist/66l6SXrWHLjXFHfv202kdA) | [Like a Ship \(Without a Sail\)](https://open.spotify.com/album/3NbIhR8hfscuwmD7MWBXpz) | 6:30 | 2024-09-09 |  |
+| [Not Over Yet](https://open.spotify.com/track/4fmQizrUXpVXaubqpNp5CE) | [Grace](https://open.spotify.com/artist/1DlbW0TOOja6uqR4CHAaeg) | [If I Could Fly](https://open.spotify.com/album/0asBvC8WrcVrNLZ5YkXI66) | 6:01 | 2024-09-16 |  |
 | [One More Rush](https://open.spotify.com/track/6NLD3MEG76JQTXZXdmewgI) | [Baril](https://open.spotify.com/artist/1Jp1PucyRXfgIrzxyq81Ot) | [One More Rush](https://open.spotify.com/album/3nRL4wC7InlFxQlMq0bnvV) | 5:12 | 2024-08-12 |  |
 | [Ooo](https://open.spotify.com/track/5mx7woTHttNr1tbFAIJeb7) | [IAMDDB](https://open.spotify.com/artist/7za6M9P94wuMsOVCHopTsI) | [Hoodrich Vol\. 3](https://open.spotify.com/album/5fABa5up9Eit0AP1juW4Qm) | 3:22 | 2024-08-12 |  |
 | [Opportunities \(Let's Make Lots of Money\)](https://open.spotify.com/track/0apB2QDN7ZrE91yDmw5JsY) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Essential Pet Shop Boys](https://open.spotify.com/album/1dNxWO6WfRzo8Vsre6GcPZ) | 3:38 | 2024-08-12 |  |
@@ -118,6 +122,7 @@
 | [Reverse Funnel](https://open.spotify.com/track/7hH6xXfOkGXJdmRAJoa6cd) | [Mython](https://open.spotify.com/artist/4xu2RB87uniuxEyYiPp0q5) | [Pyramid](https://open.spotify.com/album/4kWeBZ8ZNOLwUe9xC8GFfe) | 5:50 | 2024-08-12 |  |
 | [Reykjavik \- Bell Towers Remix](https://open.spotify.com/track/57m5MeydAJJwiYj7p7WvCk) | [Aksel & Aino](https://open.spotify.com/artist/4OC2ykcgmaj4XepHY1AEYO), [Bell Towers](https://open.spotify.com/artist/3F3cotbIlLpnz40GObI8QM) | [Reykjavik \(Bell Towers Remix\)](https://open.spotify.com/album/7cxPM3vMbgTzLDMErMEsKd) | 8:13 | 2024-08-12 |  |
 | [S Club Party](https://open.spotify.com/track/21ixeD8mGouF993kgb4MER) | [S Club](https://open.spotify.com/artist/0HNGrIbq1ZNO2mTp3tMW4L) | [S Club](https://open.spotify.com/album/6Aw5MrjWmWcjECqpsp1Fz5) | 3:30 | 2024-08-12 |  |
+| [Sealed with a Kiss](https://open.spotify.com/track/00pSTYAvWMO79Hr8zj5jM5) | [Santo & Johnny](https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK) | [Adagio](https://open.spotify.com/album/4w88QeWw7lHIDL9fvPdUfj) | 2:29 | 2024-09-16 |  |
 | [Second Death of My Face](https://open.spotify.com/track/0W9ilEPHvgT81GhxwqaIop) | [W\. H\. Lung](https://open.spotify.com/artist/6Xx57uhlmBUkH1DOxqTWZM) | [Incidental Music](https://open.spotify.com/album/5Lco0BgRQR6A8koweo3SN4) | 5:32 | 2024-08-12 |  |
 | [Shade](https://open.spotify.com/track/4kIRyUnl8elQFStSL8866M) | [IAMDDB](https://open.spotify.com/artist/7za6M9P94wuMsOVCHopTsI) | [Hoodrich Vol\. 3](https://open.spotify.com/album/5fABa5up9Eit0AP1juW4Qm) | 2:55 | 2024-08-12 |  |
 | [Shame On a Nuh \(feat\. Raekwon, Ol' Dirty Bastard & Method Man\)](https://open.spotify.com/track/46HzYc8lDViTRWUbOKU9FJ) | [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1), [Ol' Dirty Bastard](https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [Enter the Wu\-Tang \(36 Chambers\)](https://open.spotify.com/album/7otEvlhYLzpqiaxq3dT4Lg) | 2:56 | 2024-09-02 |  |

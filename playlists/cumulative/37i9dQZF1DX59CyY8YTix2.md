@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: ジェニーハイ + 詩羽
 
-1,713 songs - 4 day 10 hr 30 min
+1,714 songs - 4 day 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1183,6 +1183,7 @@
 | [フェイバリットボーイ](https://open.spotify.com/track/4S5zxn5xMQsNjnDNLGIWuD) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [恋を知っているすべてのあなたへ](https://open.spotify.com/album/6KE5rQedfMgEGFShffAQDd) | 4:29 | 2023-02-03 | 2023-03-03 |
 | [フランボワーズ・パルフェのために \- For Tracy Hyde ver.](https://open.spotify.com/track/4l262bR6NZZNI85OoL2sBL) | [For Tracy Hyde](https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy) | [フランボワーズ・パルフェのために](https://open.spotify.com/album/7dYn1Qg44ssT772rhVjlKz) | 3:31 | 2022-06-14 | 2022-06-29 |
 | [フランボワーズ・パルフェのために \- RAY ver.](https://open.spotify.com/track/02Tws9cin3ysmqFNzERZvQ) | [For Tracy Hyde](https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy), [RAY](https://open.spotify.com/artist/11XXERdBUPHGsCBbpyaMwz) | [フランボワーズ・パルフェのために](https://open.spotify.com/album/7coHxqWdl3yZsAwxWworPL) | 3:31 | 2022-06-30 | 2022-07-02 |
+| [ブラウス](https://open.spotify.com/track/6Le9gpLbfza1YM0GykV8L7) | [GOHOBI](https://open.spotify.com/artist/3rUTguiMzTMxzTFPSytp6M) | [ブラウス](https://open.spotify.com/album/2UbsbaoykSXD59sSc5Eupb) | 4:28 | 2024-09-10 |  |
 | [ブラックボックス](https://open.spotify.com/track/12ZNHYLBtfcrNWUepsoOzR) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [ブラックボックス](https://open.spotify.com/album/1TulMUgDxLY8Yy5gaauvMD) | 4:06 | 2024-07-09 |  |
 | [ブラックボックス](https://open.spotify.com/track/2egU7947vCMEnlJQcQH9WU) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [ブラックボックス](https://open.spotify.com/album/0CzObAue2PzRD3cjBW4kNQ) | 2:37 | 2024-04-16 | 2024-08-15 |
 | [ブルー](https://open.spotify.com/track/797vLBTS5VWXKbqz3LLTcA) | [mukeikaku](https://open.spotify.com/artist/13EKu7UHAU6sAqlIoRFQJw) | [ブルー](https://open.spotify.com/album/5AzlrPPAqQAkrmhtRGq2I9) | 4:21 | 2024-03-19 | 2024-03-21 |
@@ -1409,7 +1410,7 @@
 | [少女はライオンに恋をする](https://open.spotify.com/track/1Bn1LzB4QnhLSjEeQT0y6h) | [Aivy](https://open.spotify.com/artist/50ZZhrepUFMiOPypDlLDyv) | [少女はライオンに恋をする](https://open.spotify.com/album/5N5A6CWSpy6U4YA4mbXJne) | 2:19 | 2024-03-12 | 2024-04-24 |
 | [少女飛行](https://open.spotify.com/track/4t70UZVCc4QexLwUO6mS9u) | [NUMAZ](https://open.spotify.com/artist/6jNHs8dchJ4ho79RzZWTJf) | [少女飛行](https://open.spotify.com/album/7gvkivMjbhDUv2L3fUrwv6) | 5:01 | 2023-08-30 | 2023-09-06 |
 | [少年](https://open.spotify.com/track/1kMlMvY21mWORqvrEVVnPX) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [少年](https://open.spotify.com/album/3HghVTA1RhGHzVmvIcri32) | 3:54 | 2023-03-15 | 2023-03-16 |
-| [少年、風薫る](https://open.spotify.com/track/5Gpkdf4zVQkzuLgRvo1EVD) | [Atarayo](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [少年、風薫る](https://open.spotify.com/album/1aL9ekGR2i1rb3ubP0Jgnc) | 3:35 | 2024-06-18 |  |
+| [少年、風薫る](https://open.spotify.com/track/5Gpkdf4zVQkzuLgRvo1EVD) | [Atarayo](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [少年、風薫る](https://open.spotify.com/album/1aL9ekGR2i1rb3ubP0Jgnc) | 3:35 | 2024-06-18 | 2024-09-16 |
 | [少年漫画](https://open.spotify.com/track/6kABoVItnsChhg2M6xGzWR) | [Sundae May Club](https://open.spotify.com/artist/75EyBBrypGbb1fNT8dagLM) | [少女漫画](https://open.spotify.com/album/7CegbDJg1FbmQXFUslE0dN) | 4:03 | 2022-06-07 | 2022-07-13 |
 | [届く、未来へ](https://open.spotify.com/track/5iw7azKfMgpeXmkTMJWWmb) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [届く、未来へ](https://open.spotify.com/album/4gCtW532I0gFGOoJ2pn43U) | 3:37 | 2023-04-13 | 2023-09-15 |
 | [希う](https://open.spotify.com/track/7G4514kvcl7Jea1O1JUVIZ) | [meow](https://open.spotify.com/artist/2eUHtoViG2vBrLdBSXDEvC) | [talk"en"](https://open.spotify.com/album/7ILz8AUsrBdvEiyVbtpYQv) | 3:55 | 2022-06-14 | 2022-06-22 |

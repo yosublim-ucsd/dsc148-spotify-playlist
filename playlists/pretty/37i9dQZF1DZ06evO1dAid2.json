@@ -1,12 +1,12 @@
 {
   "description": "This is Chuck Berry. The essential tracks, all in one playlist.",
-  "num_followers": 129144,
+  "num_followers": 129151,
   "original_name": "This Is Chuck Berry",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuOAgAAAAACBj/nPm2aJ7HxODpwWzoQE",
+  "snapshot_id": "ZuTSAAAAAACUxJPuPq3HUbyw4qQBbMtf",
   "tracks": [
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chuck Berry In Memphis",
-        "url": "https://open.spotify.com/album/6YcMOYUcy7x4uOg7PasswM"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 150333,
-      "name": "I Do Really Love You",
-      "url": "https://open.spotify.com/track/2yJ5SBKkxC7MLHbrEPFQjK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live At Fillmore Auditorium",
         "url": "https://open.spotify.com/album/5FJCM8i8sWEjra1sXI9mIQ"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 161893,
       "name": "Flying Home - Live At Fillmore Auditorium, San Francisco, CA/1967",
       "url": "https://open.spotify.com/track/3eswSYTPy8wMVWcc05cLpv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chuck Berry In Memphis",
+        "url": "https://open.spotify.com/album/6YcMOYUcy7x4uOg7PasswM"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 150333,
+      "name": "I Do Really Love You",
+      "url": "https://open.spotify.com/track/2yJ5SBKkxC7MLHbrEPFQjK"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHUCK BERRY INTEGRAL 1955 - 1962",
-        "url": "https://open.spotify.com/album/43qi03EaHt7m1qEogvhCQ0"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 162626,
-      "name": "You Can't Catch Me",
-      "url": "https://open.spotify.com/track/7N0JjLQsEClnTFrl6EgWXj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blues",
         "url": "https://open.spotify.com/album/7tlJjyQw0cDB9R2lIXw2ey"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 125106,
       "name": "Still Got The Blues",
       "url": "https://open.spotify.com/track/5IpREDjsiqYQNvHqg4Qj3G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHUCK BERRY INTEGRAL 1955 - 1962",
+        "url": "https://open.spotify.com/album/43qi03EaHt7m1qEogvhCQ0"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 162626,
+      "name": "You Can't Catch Me",
+      "url": "https://open.spotify.com/track/7N0JjLQsEClnTFrl6EgWXj"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fresh Berry's",
-        "url": "https://open.spotify.com/album/02JS9znmNXHp24jyQaimL6"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 132413,
-      "name": "Ain't That Just Like A Woman",
-      "url": "https://open.spotify.com/track/6GjrZapKbtUORrjS2fXMmX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rockin' At The Hops",
         "url": "https://open.spotify.com/album/48jzxU4WCz6726keexOGoe"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 130506,
       "name": "Down The Road Apiece",
       "url": "https://open.spotify.com/track/40CEDufMDlElkfyBvWUtsE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fresh Berry's",
+        "url": "https://open.spotify.com/album/02JS9znmNXHp24jyQaimL6"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 132413,
+      "name": "Ain't That Just Like A Woman",
+      "url": "https://open.spotify.com/track/6GjrZapKbtUORrjS2fXMmX"
     },
     {
       "added_at": null,
@@ -703,38 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bio",
-        "url": "https://open.spotify.com/album/1xp040eLv4xv5lP1JOOeFU"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 264386,
-      "name": "Bio",
-      "url": "https://open.spotify.com/track/0bfxTlDQs6QGfwGNCiXVWE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "St. Louis To Liverpool",
-        "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 129840,
-      "name": "You Two",
-      "url": "https://open.spotify.com/track/3TuiKidTSxOK2bk9RPhrpN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "After School Session",
         "url": "https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH"
       },
@@ -751,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bio",
+        "url": "https://open.spotify.com/album/1xp040eLv4xv5lP1JOOeFU"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 264386,
+      "name": "Bio",
+      "url": "https://open.spotify.com/track/0bfxTlDQs6QGfwGNCiXVWE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "San Francisco Dues",
         "url": "https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 205733,
       "name": "San Francisco Dues",
       "url": "https://open.spotify.com/track/2ksmbGi6N2xe3ToE6V7rsd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "St. Louis To Liverpool",
+        "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 129840,
+      "name": "You Two",
+      "url": "https://open.spotify.com/track/3TuiKidTSxOK2bk9RPhrpN"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "St. Louis To Liverpool",
-        "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 178106,
-      "name": "Go Bobby Soxer",
-      "url": "https://open.spotify.com/track/4thIUA9RxwUcsjiUVo33Lt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "After School Session",
         "url": "https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 138693,
       "name": "Deep Feeling",
       "url": "https://open.spotify.com/track/5WzcyZ29VEeMimQpAiDc8q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chuck Berry On Stage (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2bQQlbekyxsh1NaFw2qdlV"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 91666,
+      "name": "Trick Or Treat",
+      "url": "https://open.spotify.com/track/4iTanMp15eReVbBMeQILEY"
     }
   ],
   "unique_name": "This Is Chuck Berry",

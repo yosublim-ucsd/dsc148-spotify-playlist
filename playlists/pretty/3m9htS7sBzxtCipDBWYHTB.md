@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3m9htS7sBzxtCipDBWYHTB.md) - [plain]
 
 > The numb flavor of depression
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 18 songs - 1 hr 5 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 19 songs - 1 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,5 +26,6 @@ pretty - [cumulative](/playlists/cumulative/3m9htS7sBzxtCipDBWYHTB.md) - [plain]
 | 16 | [Isle Of Flightless Birds](https://open.spotify.com/track/6cwemXIKrAQeP7TMErGwM3) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Twenty One Pilots](https://open.spotify.com/album/1Fexc96V24RL17Ko9VXUOM) | 5:45 |
 | 17 | [Dissonance](https://open.spotify.com/track/7mOD2D8wpU4X5XgZS0dhTA) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl) | [Disposable Everything](https://open.spotify.com/album/0uDWPhORO8SgKok6AuEyAc) | 2:00 |
 | 18 | [Devil Town](https://open.spotify.com/track/0vf2eBw2inhl8y61cYQMv2) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Cavetown](https://open.spotify.com/album/0ZyaO9oGhq7blYJzo3l65t) | 2:59 |
+| 19 | [Tucson Fog](https://open.spotify.com/track/5qxeZ6YpXUiNYLlaQOeLGu) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Hex of Infinite Binding EP](https://open.spotify.com/album/1MbrGdr3eLlzIZs4xW5CIZ) | 2:15 |
 
-Snapshot ID: `AAAAF5A4v/pRdWEMFcYkxL6WZB8UA3hY`
+Snapshot ID: `AAAAGLhsuHKzvI/ml5B+3ghsIKGBIqWT`

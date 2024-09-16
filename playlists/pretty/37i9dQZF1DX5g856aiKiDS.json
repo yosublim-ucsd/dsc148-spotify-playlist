@@ -1,6 +1,6 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 488014,
+  "num_followers": 488088,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
@@ -179,6 +179,22 @@
     {
       "added_at": "2024-09-13 09:13:39",
       "album": {
+        "name": "2 O' CLOCK",
+        "url": "https://open.spotify.com/album/2VAiqG6FNssKi5vOda6kil"
+      },
+      "artists": [
+        {
+          "name": "dori",
+          "url": "https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7"
+        }
+      ],
+      "duration_ms": 152320,
+      "name": "2 O' CLOCK",
+      "url": "https://open.spotify.com/track/36PxJOUB8qFTcDFp2M0h6K"
+    },
+    {
+      "added_at": "2024-09-13 09:13:39",
+      "album": {
         "name": "My Lovely Liar, Pt. 5 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/7yEfbgQkSzJi6L2Suoh8Pl"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 202173,
       "name": "Luv Luv Luv",
       "url": "https://open.spotify.com/track/5KgukBQlqxJrmFnrEVa5IZ"
-    },
-    {
-      "added_at": "2024-09-13 09:13:39",
-      "album": {
-        "name": "2 O' CLOCK",
-        "url": "https://open.spotify.com/album/2VAiqG6FNssKi5vOda6kil"
-      },
-      "artists": [
-        {
-          "name": "dori",
-          "url": "https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7"
-        }
-      ],
-      "duration_ms": 152320,
-      "name": "2 O' CLOCK",
-      "url": "https://open.spotify.com/track/36PxJOUB8qFTcDFp2M0h6K"
     },
     {
       "added_at": "2024-09-13 09:13:39",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-09-13 09:13:39",
       "album": {
-        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
-      },
-      "artists": [
-        {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
-        }
-      ],
-      "duration_ms": 189066,
-      "name": "I'm Fine",
-      "url": "https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY"
-    },
-    {
-      "added_at": "2024-09-13 09:13:39",
-      "album": {
         "name": "Love Next Door, Pt. 2 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/6uMWN9NIKp7YetrOMnL30S"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 196866,
       "name": "nostalgia",
       "url": "https://open.spotify.com/track/6472TSRvXlqcmg3iSh4GEi"
+    },
+    {
+      "added_at": "2024-09-13 09:13:39",
+      "album": {
+        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "duration_ms": 189066,
+      "name": "I'm Fine",
+      "url": "https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY"
     },
     {
       "added_at": "2024-09-13 09:13:39",
@@ -459,26 +459,6 @@
     {
       "added_at": "2024-09-13 09:13:39",
       "album": {
-        "name": "Like A Fool",
-        "url": "https://open.spotify.com/album/4wJPiw5ZoTJFRUt2r2zvCy"
-      },
-      "artists": [
-        {
-          "name": "NIve",
-          "url": "https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF"
-        },
-        {
-          "name": "Sam Kim",
-          "url": "https://open.spotify.com/artist/1hM9gaPdIoIvYrqS4MbJay"
-        }
-      ],
-      "duration_ms": 214426,
-      "name": "Like A Fool",
-      "url": "https://open.spotify.com/track/1E8Cztx0OIj4zm1IZh2XXj"
-    },
-    {
-      "added_at": "2024-09-13 09:13:39",
-      "album": {
         "name": "Morning Diaries EP 1",
         "url": "https://open.spotify.com/album/1Caan3Q8QWlPH81ZxuG1bz"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 187089,
       "name": "Gloomy Star (feat. 1ho & Chan)",
       "url": "https://open.spotify.com/track/2MQmvEq9tH7crlSCuIvwKI"
+    },
+    {
+      "added_at": "2024-09-13 09:13:39",
+      "album": {
+        "name": "Like A Fool",
+        "url": "https://open.spotify.com/album/4wJPiw5ZoTJFRUt2r2zvCy"
+      },
+      "artists": [
+        {
+          "name": "NIve",
+          "url": "https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF"
+        },
+        {
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/1hM9gaPdIoIvYrqS4MbJay"
+        }
+      ],
+      "duration_ms": 214426,
+      "name": "Like A Fool",
+      "url": "https://open.spotify.com/track/1E8Cztx0OIj4zm1IZh2XXj"
     },
     {
       "added_at": "2024-09-13 09:13:39",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-09-13 09:13:39",
       "album": {
-        "name": "IU 5th Album 'LILAC'",
-        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 229573,
-      "name": "Epilogue",
-      "url": "https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ"
-    },
-    {
-      "added_at": "2024-09-13 09:13:39",
-      "album": {
         "name": "Dingo X BIG Naughty",
         "url": "https://open.spotify.com/album/1bksL87asiBGZYwVyGR3kp"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 209386,
       "name": "INFJ (Feat. B.I, BANG YEDAM)",
       "url": "https://open.spotify.com/track/77GfQKz4WzULTEoLL286cT"
+    },
+    {
+      "added_at": "2024-09-13 09:13:39",
+      "album": {
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 229573,
+      "name": "Epilogue",
+      "url": "https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ"
     },
     {
       "added_at": "2024-09-13 09:13:39",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-09-13 09:13:39",
       "album": {
-        "name": "IU 5th Album 'LILAC'",
-        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 324280,
-      "name": "Hi spring Bye",
-      "url": "https://open.spotify.com/track/2M7a2Us8CEU1HZHj70byGX"
-    },
-    {
-      "added_at": "2024-09-13 09:13:39",
-      "album": {
         "name": "Lovey Dovey",
         "url": "https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 219093,
       "name": "Lovey Dovey (Feat. meenoi)",
       "url": "https://open.spotify.com/track/1s3AJx7XASsPSA2cKJdXG6"
+    },
+    {
+      "added_at": "2024-09-13 09:13:39",
+      "album": {
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 324280,
+      "name": "Hi spring Bye",
+      "url": "https://open.spotify.com/track/2M7a2Us8CEU1HZHj70byGX"
     },
     {
       "added_at": "2024-09-13 09:13:39",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-09-13 09:13:39",
       "album": {
-        "name": "The Spring of Twenty",
-        "url": "https://open.spotify.com/album/2DSxe9W0Mv0IU2YMAbljYb"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 190846,
-      "name": "Peach",
-      "url": "https://open.spotify.com/track/3hbi6hayJ6OibzGe3fWLwf"
-    },
-    {
-      "added_at": "2024-09-13 09:13:39",
-      "album": {
         "name": "THINKING Part.2",
         "url": "https://open.spotify.com/album/6HcRiA5scMhgM5lBMKX2ad"
       },
@@ -859,6 +843,26 @@
       "duration_ms": 218813,
       "name": "Being left (Feat. Dvwn)",
       "url": "https://open.spotify.com/track/7hg44Uac2HOBJCLWsHXMQp"
+    },
+    {
+      "added_at": "2024-09-13 09:13:39",
+      "album": {
+        "name": "Fxxxnds",
+        "url": "https://open.spotify.com/album/7rwRRay2hz12bl652kIOTH"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "Kim MinSeok",
+          "url": "https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA"
+        }
+      ],
+      "duration_ms": 209400,
+      "name": "Fxxxnds (Feat. Kim Min Seok of MeloMance)",
+      "url": "https://open.spotify.com/track/0S2GNnqAHC96zqB8ZIcxg4"
     },
     {
       "added_at": "2024-09-13 09:13:39",
@@ -919,22 +923,18 @@
     {
       "added_at": "2024-09-13 09:13:39",
       "album": {
-        "name": "Fxxxnds",
-        "url": "https://open.spotify.com/album/7rwRRay2hz12bl652kIOTH"
+        "name": "The Spring of Twenty",
+        "url": "https://open.spotify.com/album/2DSxe9W0Mv0IU2YMAbljYb"
       },
       "artists": [
         {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        },
-        {
-          "name": "Kim MinSeok",
-          "url": "https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA"
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         }
       ],
-      "duration_ms": 209400,
-      "name": "Fxxxnds (Feat. Kim Min Seok of MeloMance)",
-      "url": "https://open.spotify.com/track/0S2GNnqAHC96zqB8ZIcxg4"
+      "duration_ms": 190846,
+      "name": "Peach",
+      "url": "https://open.spotify.com/track/3hbi6hayJ6OibzGe3fWLwf"
     },
     {
       "added_at": "2024-09-13 09:13:39",

@@ -135,6 +135,24 @@
     },
     {
       "album": {
+        "name": "Appassire",
+        "url": "https://open.spotify.com/album/3up0NGmcBingnKLAq9w1JX"
+      },
+      "artists": [
+        {
+          "name": "Ganzo",
+          "url": "https://open.spotify.com/artist/4N4LelQ5TM7dEhi5TASLLw"
+        }
+      ],
+      "date_added": "2024-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166918,
+      "name": "Appassire",
+      "url": "https://open.spotify.com/track/1ADuVuz7CXlewLNi5BDLjS"
+    },
+    {
+      "album": {
         "name": "ROCKABILLY CARTER",
         "url": "https://open.spotify.com/album/4JhRql5w7yWaRipBuUM7ar"
       },

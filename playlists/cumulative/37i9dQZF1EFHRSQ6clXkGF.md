@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2sE0XOCyp1Qp8gfwRn8gjl">Joni Mitchell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-292 songs - 18 hr 42 min
+293 songs - 18 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Be Cool](https://open.spotify.com/track/6dlLIx8BCm6iiKWCg9NPcq) | [Sophie Milman](https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4) | [Take Love Easy](https://open.spotify.com/album/0kJ2PsNKRL8lA6jjeZcLDk) | 4:12 | 2024-01-29 |  |
 | [Big Yellow Taxi](https://open.spotify.com/track/5fztgDIt1Nq32VHJrAHq0Y) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC), [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Hard Candy](https://open.spotify.com/album/4ZY9wbPTIFpX5IdFemqIyZ) | 3:46 | 2024-01-29 |  |
 | [Black Crow](https://open.spotify.com/track/2PGBKxAZJxYGxajZ7iO5ai) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [The Girl In The Other Room](https://open.spotify.com/album/7dZFqyK7mEYr3tyatC7k0s) | 4:47 | 2024-01-29 |  |
-| [Blank is](https://open.spotify.com/track/2Oh0FyjVferSXwboHIKqeG) | [Irma Schultz\-Keller](https://open.spotify.com/artist/0HrsGmEpDafnFtECrKPyqd) | [Sånger för December \- CDON](https://open.spotify.com/album/7wAWwTPLFIvGDBoyDzlguE) | 4:12 | 2024-01-29 |  |
+| [Blank is](https://open.spotify.com/track/2Oh0FyjVferSXwboHIKqeG) | [Irma Schultz\-Keller](https://open.spotify.com/artist/0HrsGmEpDafnFtECrKPyqd) | [Sånger för December \- CDON](https://open.spotify.com/album/7wAWwTPLFIvGDBoyDzlguE) | 4:12 | 2024-01-29 | 2024-09-16 |
+| [Blank is](https://open.spotify.com/track/39ySH2BjbOXKuxgmUFgomR) | [Irma Schultz\-Keller](https://open.spotify.com/artist/0HrsGmEpDafnFtECrKPyqd) | [Sånger för december](https://open.spotify.com/album/5G6WoQ0aPQ6ZQLHou6aTOx) | 4:12 | 2024-09-15 |  |
 | [Blonde in the Bleachers](https://open.spotify.com/track/33vz15yfffUp8WHoSY4kxL) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [For the Roses](https://open.spotify.com/album/1yyPagl5Z7wE6rmJoqv8wj) | 2:42 | 2024-03-21 |  |
 | [Blue](https://open.spotify.com/track/1yWIsH3TC51gmzvQxZNCQC) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Blue](https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa) | 2:57 | 2024-03-21 |  |
 | [Blue Boy](https://open.spotify.com/track/5YZic8ezfc1HWBmYylYy8R) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Ladies of the Canyon](https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9) | 2:54 | 2024-03-21 |  |

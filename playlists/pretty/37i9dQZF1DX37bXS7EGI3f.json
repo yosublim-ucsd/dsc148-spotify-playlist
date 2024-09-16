@@ -1,6 +1,6 @@
 {
   "description": "Symphonic and power metal at its most epic. Cover: Nightwish\n",
-  "num_followers": 779769,
+  "num_followers": 779838,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2024-07-26 20:54:52",
       "album": {
-        "name": "Heroes",
-        "url": "https://open.spotify.com/album/2nFATbGbMdVWFd9OdtLLsN"
-      },
-      "artists": [
-        {
-          "name": "Stratovarius",
-          "url": "https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO"
-        }
-      ],
-      "duration_ms": 225073,
-      "name": "Heroes",
-      "url": "https://open.spotify.com/track/2PlPpcspUIj23Jh1chR46K"
-    },
-    {
-      "added_at": "2024-07-26 20:54:52",
-      "album": {
         "name": "Bleed Out",
         "url": "https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY"
       },
@@ -339,18 +323,18 @@
     {
       "added_at": "2024-07-26 20:54:52",
       "album": {
-        "name": "The Unkillable Soldier",
-        "url": "https://open.spotify.com/album/3wjhgpXJu4BWzOilpLkYte"
+        "name": "Heroes",
+        "url": "https://open.spotify.com/album/2nFATbGbMdVWFd9OdtLLsN"
       },
       "artists": [
         {
-          "name": "Sabaton",
-          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+          "name": "Stratovarius",
+          "url": "https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO"
         }
       ],
-      "duration_ms": 251000,
-      "name": "The Unkillable Soldier",
-      "url": "https://open.spotify.com/track/1h98WxD3tsMfb4YlB2wBDS"
+      "duration_ms": 225073,
+      "name": "Heroes",
+      "url": "https://open.spotify.com/track/2PlPpcspUIj23Jh1chR46K"
     },
     {
       "added_at": "2024-07-26 20:54:52",
@@ -411,6 +395,22 @@
     {
       "added_at": "2024-07-26 20:54:52",
       "album": {
+        "name": "The Unkillable Soldier",
+        "url": "https://open.spotify.com/album/3wjhgpXJu4BWzOilpLkYte"
+      },
+      "artists": [
+        {
+          "name": "Sabaton",
+          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+        }
+      ],
+      "duration_ms": 251000,
+      "name": "The Unkillable Soldier",
+      "url": "https://open.spotify.com/track/1h98WxD3tsMfb4YlB2wBDS"
+    },
+    {
+      "added_at": "2024-07-26 20:54:52",
+      "album": {
         "name": "Winter Storm Vigilantes",
         "url": "https://open.spotify.com/album/4JHwxd0eitIEtYQU3ffGPs"
       },
@@ -423,6 +423,22 @@
       "duration_ms": 312426,
       "name": "Winter Storm Vigilantes",
       "url": "https://open.spotify.com/track/7FBdViGNTaDNc2sl6MWGew"
+    },
+    {
+      "added_at": "2024-07-26 20:54:52",
+      "album": {
+        "name": "The Catalyst",
+        "url": "https://open.spotify.com/album/0Rfiyvva6juwbWHRApI5Hj"
+      },
+      "artists": [
+        {
+          "name": "Amaranthe",
+          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
+        }
+      ],
+      "duration_ms": 185266,
+      "name": "Outer Dimensions",
+      "url": "https://open.spotify.com/track/2cTj4pAJNev8vcJQCoGuQb"
     },
     {
       "added_at": "2024-07-26 20:54:52",
@@ -483,6 +499,26 @@
     {
       "added_at": "2024-07-26 20:54:52",
       "album": {
+        "name": "Frozen",
+        "url": "https://open.spotify.com/album/5MWTGZcBF5bGoKZHI9p9xz"
+      },
+      "artists": [
+        {
+          "name": "Mortemia",
+          "url": "https://open.spotify.com/artist/5RUUgjv8Q0H2osxIC3AYBi"
+        },
+        {
+          "name": "Federica Lanna",
+          "url": "https://open.spotify.com/artist/2l6anpRMp6T9iPMOlzkZUx"
+        }
+      ],
+      "duration_ms": 300560,
+      "name": "Frozen",
+      "url": "https://open.spotify.com/track/0s9S861lgoFOi4vXG3wsab"
+    },
+    {
+      "added_at": "2024-07-26 20:54:52",
+      "album": {
         "name": "Vultures Die Alone",
         "url": "https://open.spotify.com/album/32Ipg2losKbTMPoQGhArGN"
       },
@@ -519,42 +555,6 @@
     {
       "added_at": "2024-07-26 20:54:52",
       "album": {
-        "name": "The Catalyst",
-        "url": "https://open.spotify.com/album/0Rfiyvva6juwbWHRApI5Hj"
-      },
-      "artists": [
-        {
-          "name": "Amaranthe",
-          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
-        }
-      ],
-      "duration_ms": 185266,
-      "name": "Outer Dimensions",
-      "url": "https://open.spotify.com/track/2cTj4pAJNev8vcJQCoGuQb"
-    },
-    {
-      "added_at": "2024-07-26 20:54:52",
-      "album": {
-        "name": "Frozen",
-        "url": "https://open.spotify.com/album/5MWTGZcBF5bGoKZHI9p9xz"
-      },
-      "artists": [
-        {
-          "name": "Mortemia",
-          "url": "https://open.spotify.com/artist/5RUUgjv8Q0H2osxIC3AYBi"
-        },
-        {
-          "name": "Federica Lanna",
-          "url": "https://open.spotify.com/artist/2l6anpRMp6T9iPMOlzkZUx"
-        }
-      ],
-      "duration_ms": 300560,
-      "name": "Frozen",
-      "url": "https://open.spotify.com/track/0s9S861lgoFOi4vXG3wsab"
-    },
-    {
-      "added_at": "2024-07-26 20:54:52",
-      "album": {
         "name": "Forsaken (The Aftermath)",
         "url": "https://open.spotify.com/album/19sM9PTWBKHos2jARNfe06"
       },
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-07-26 20:54:52",
       "album": {
-        "name": "I Can Never Die",
-        "url": "https://open.spotify.com/album/57KoIX7WW3FtuJiXJwde5I"
-      },
-      "artists": [
-        {
-          "name": "Fleshgod Apocalypse",
-          "url": "https://open.spotify.com/artist/5ctFffJBdJe8PZL7W7NeML"
-        }
-      ],
-      "duration_ms": 270253,
-      "name": "I Can Never Die",
-      "url": "https://open.spotify.com/track/6lCVHF80Q4b3RWMkZWvENw"
-    },
-    {
-      "added_at": "2024-07-26 20:54:52",
-      "album": {
         "name": "Call My Name",
         "url": "https://open.spotify.com/album/4OSwoYZStFewvoB9RYM3XO"
       },
@@ -619,6 +603,22 @@
     {
       "added_at": "2024-07-26 20:54:52",
       "album": {
+        "name": "82nd All the Way",
+        "url": "https://open.spotify.com/album/3HCUmVHEIhTnDdQjdf60gb"
+      },
+      "artists": [
+        {
+          "name": "Amaranthe",
+          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
+        }
+      ],
+      "duration_ms": 201546,
+      "name": "82nd All the Way",
+      "url": "https://open.spotify.com/track/1GK39qL3zPowvvb0UpWGyQ"
+    },
+    {
+      "added_at": "2024-07-26 20:54:52",
+      "album": {
         "name": "Pro Xristou",
         "url": "https://open.spotify.com/album/3oXblizhnWNqlsWJrpagaB"
       },
@@ -631,6 +631,22 @@
       "duration_ms": 301533,
       "name": "The Apostate",
       "url": "https://open.spotify.com/track/1vAb78bGwENFZmf3T79ABo"
+    },
+    {
+      "added_at": "2024-07-26 20:54:52",
+      "album": {
+        "name": "I Can Never Die",
+        "url": "https://open.spotify.com/album/57KoIX7WW3FtuJiXJwde5I"
+      },
+      "artists": [
+        {
+          "name": "Fleshgod Apocalypse",
+          "url": "https://open.spotify.com/artist/5ctFffJBdJe8PZL7W7NeML"
+        }
+      ],
+      "duration_ms": 270253,
+      "name": "I Can Never Die",
+      "url": "https://open.spotify.com/track/6lCVHF80Q4b3RWMkZWvENw"
     },
     {
       "added_at": "2024-07-26 20:54:52",
@@ -679,22 +695,6 @@
       "duration_ms": 252157,
       "name": "A New Beginning",
       "url": "https://open.spotify.com/track/7C9nqo62jehSZ1AVLxU4Jn"
-    },
-    {
-      "added_at": "2024-07-26 20:54:52",
-      "album": {
-        "name": "82nd All the Way",
-        "url": "https://open.spotify.com/album/3HCUmVHEIhTnDdQjdf60gb"
-      },
-      "artists": [
-        {
-          "name": "Amaranthe",
-          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
-        }
-      ],
-      "duration_ms": 201546,
-      "name": "82nd All the Way",
-      "url": "https://open.spotify.com/track/1GK39qL3zPowvvb0UpWGyQ"
     },
     {
       "added_at": "2024-07-26 20:54:52",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-07-26 20:54:52",
       "album": {
-        "name": "Bloodclock",
-        "url": "https://open.spotify.com/album/3kixMRYRnhTP9ppQDPwHNc"
-      },
-      "artists": [
-        {
-          "name": "Fleshgod Apocalypse",
-          "url": "https://open.spotify.com/artist/5ctFffJBdJe8PZL7W7NeML"
-        }
-      ],
-      "duration_ms": 314373,
-      "name": "Bloodclock",
-      "url": "https://open.spotify.com/track/0v2TBqAtyK8p6yDusBNVAZ"
-    },
-    {
-      "added_at": "2024-07-26 20:54:52",
-      "album": {
         "name": "A Heartless Portrait (The Orph\u00e9an Testament)",
         "url": "https://open.spotify.com/album/7ks1taIwddDv4bjFrujxn2"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 263853,
       "name": "Call out the Dark",
       "url": "https://open.spotify.com/track/5IqvKkwIqeqc2s8DF0avei"
+    },
+    {
+      "added_at": "2024-07-26 20:54:52",
+      "album": {
+        "name": "Bloodclock",
+        "url": "https://open.spotify.com/album/3kixMRYRnhTP9ppQDPwHNc"
+      },
+      "artists": [
+        {
+          "name": "Fleshgod Apocalypse",
+          "url": "https://open.spotify.com/artist/5ctFffJBdJe8PZL7W7NeML"
+        }
+      ],
+      "duration_ms": 314373,
+      "name": "Bloodclock",
+      "url": "https://open.spotify.com/track/0v2TBqAtyK8p6yDusBNVAZ"
     },
     {
       "added_at": "2024-07-26 20:54:52",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-07-26 20:54:52",
       "album": {
-        "name": "On the Sea",
-        "url": "https://open.spotify.com/album/6HF4boalvZJFeDAafJqCaR"
-      },
-      "artists": [
-        {
-          "name": "Tungsten",
-          "url": "https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm"
-        }
-      ],
-      "duration_ms": 233343,
-      "name": "On the Sea",
-      "url": "https://open.spotify.com/track/140YrjpNRIohRgiUed4OIw"
-    },
-    {
-      "added_at": "2024-07-26 20:54:52",
-      "album": {
         "name": "Fairy of the Bog",
         "url": "https://open.spotify.com/album/1JahUk68dOo6qgqppAkfk1"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 276705,
       "name": "Fairy of the Bog",
       "url": "https://open.spotify.com/track/1bonbXXlT83xzDsyKIc0Am"
+    },
+    {
+      "added_at": "2024-07-26 20:54:52",
+      "album": {
+        "name": "On the Sea",
+        "url": "https://open.spotify.com/album/6HF4boalvZJFeDAafJqCaR"
+      },
+      "artists": [
+        {
+          "name": "Tungsten",
+          "url": "https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm"
+        }
+      ],
+      "duration_ms": 233343,
+      "name": "On the Sea",
+      "url": "https://open.spotify.com/track/140YrjpNRIohRgiUed4OIw"
     },
     {
       "added_at": "2024-07-26 20:54:52",
@@ -895,22 +895,6 @@
       "duration_ms": 249600,
       "name": "Reincarnation",
       "url": "https://open.spotify.com/track/3scNYs59MN2puKtlwnzq9Z"
-    },
-    {
-      "added_at": "2024-07-26 20:54:52",
-      "album": {
-        "name": "Pendulum",
-        "url": "https://open.spotify.com/album/3F7k4WguL6XUBe1CUW0dWm"
-      },
-      "artists": [
-        {
-          "name": "Fleshgod Apocalypse",
-          "url": "https://open.spotify.com/artist/5ctFffJBdJe8PZL7W7NeML"
-        }
-      ],
-      "duration_ms": 238800,
-      "name": "Pendulum",
-      "url": "https://open.spotify.com/track/0KlYaNfi8G70HSLYWW7aci"
     },
     {
       "added_at": "2024-07-26 20:54:52",
@@ -967,6 +951,22 @@
     {
       "added_at": "2024-07-26 20:54:52",
       "album": {
+        "name": "Pendulum",
+        "url": "https://open.spotify.com/album/3F7k4WguL6XUBe1CUW0dWm"
+      },
+      "artists": [
+        {
+          "name": "Fleshgod Apocalypse",
+          "url": "https://open.spotify.com/artist/5ctFffJBdJe8PZL7W7NeML"
+        }
+      ],
+      "duration_ms": 238800,
+      "name": "Pendulum",
+      "url": "https://open.spotify.com/track/0KlYaNfi8G70HSLYWW7aci"
+    },
+    {
+      "added_at": "2024-07-26 20:54:52",
+      "album": {
         "name": "Legends Never Die",
         "url": "https://open.spotify.com/album/4LXwDEQoiBqFe7ypPJkhjC"
       },
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2024-07-26 20:54:52",
       "album": {
-        "name": "Plays Metallica, Vol. 2",
-        "url": "https://open.spotify.com/album/5HUPKCaOKsbOz6pQR1i5YO"
-      },
-      "artists": [
-        {
-          "name": "Apocalyptica",
-          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
-        },
-        {
-          "name": "Robert Trujillo",
-          "url": "https://open.spotify.com/artist/3rROvEsUJJ9y55g1PLaA16"
-        }
-      ],
-      "duration_ms": 574634,
-      "name": "One (feat. Robert Trujillo) - Instrumental",
-      "url": "https://open.spotify.com/track/43qcGBcVT8wz2ntoS625vP"
-    },
-    {
-      "added_at": "2024-07-26 20:54:52",
-      "album": {
         "name": "Chasing Sunsets",
         "url": "https://open.spotify.com/album/6fQCWaGRbfcxZWwKR4Psav"
       },
@@ -1039,22 +1019,22 @@
     {
       "added_at": "2024-07-26 20:54:52",
       "album": {
-        "name": "R.E.D.",
-        "url": "https://open.spotify.com/album/6GIIE5AwJY3FJVwKinolTl"
+        "name": "Plays Metallica, Vol. 2",
+        "url": "https://open.spotify.com/album/5HUPKCaOKsbOz6pQR1i5YO"
       },
       "artists": [
         {
-          "name": "Simone Simons",
-          "url": "https://open.spotify.com/artist/5Mbm3otSC2eWtbfbwOBgw4"
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
         },
         {
-          "name": "Ayreon",
-          "url": "https://open.spotify.com/artist/2RSApl0SXcVT8Yiy4UaPSt"
+          "name": "Robert Trujillo",
+          "url": "https://open.spotify.com/artist/3rROvEsUJJ9y55g1PLaA16"
         }
       ],
-      "duration_ms": 243960,
-      "name": "R.E.D.",
-      "url": "https://open.spotify.com/track/1i02PIDgVFoDNcTVZv4Ccd"
+      "duration_ms": 574634,
+      "name": "One (feat. Robert Trujillo) - Instrumental",
+      "url": "https://open.spotify.com/track/43qcGBcVT8wz2ntoS625vP"
     },
     {
       "added_at": "2024-07-26 20:54:52",
@@ -1111,6 +1091,26 @@
       "duration_ms": 208859,
       "name": "Fire",
       "url": "https://open.spotify.com/track/6a4hIHS9wtWf2O0e8XgHGl"
+    },
+    {
+      "added_at": "2024-07-26 20:54:52",
+      "album": {
+        "name": "R.E.D.",
+        "url": "https://open.spotify.com/album/6GIIE5AwJY3FJVwKinolTl"
+      },
+      "artists": [
+        {
+          "name": "Simone Simons",
+          "url": "https://open.spotify.com/artist/5Mbm3otSC2eWtbfbwOBgw4"
+        },
+        {
+          "name": "Ayreon",
+          "url": "https://open.spotify.com/artist/2RSApl0SXcVT8Yiy4UaPSt"
+        }
+      ],
+      "duration_ms": 243960,
+      "name": "R.E.D.",
+      "url": "https://open.spotify.com/track/1i02PIDgVFoDNcTVZv4Ccd"
     },
     {
       "added_at": "2024-07-26 20:54:52",
@@ -1207,6 +1207,26 @@
     {
       "added_at": "2024-07-26 20:54:52",
       "album": {
+        "name": "Love Reign O'er Me",
+        "url": "https://open.spotify.com/album/4bYUQCRw0UMQaPdlMmPnce"
+      },
+      "artists": [
+        {
+          "name": "Edge Of Paradise",
+          "url": "https://open.spotify.com/artist/45MvWoWLKlKglPHeKiVlJY"
+        },
+        {
+          "name": "Judge & Jury",
+          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
+        }
+      ],
+      "duration_ms": 240106,
+      "name": "Love Reign O'er Me",
+      "url": "https://open.spotify.com/track/4iTx8xQFl22MH82TTrw8NQ"
+    },
+    {
+      "added_at": "2024-07-26 20:54:52",
+      "album": {
         "name": "Dragonwings",
         "url": "https://open.spotify.com/album/5myo6QeT0EwVkAVPw3MlR0"
       },
@@ -1239,26 +1259,6 @@
       "duration_ms": 209440,
       "name": "Krigsherren",
       "url": "https://open.spotify.com/track/5vKHU3aMlAzujMK2LcKPf7"
-    },
-    {
-      "added_at": "2024-07-26 20:54:52",
-      "album": {
-        "name": "Love Reign O'er Me",
-        "url": "https://open.spotify.com/album/4bYUQCRw0UMQaPdlMmPnce"
-      },
-      "artists": [
-        {
-          "name": "Edge Of Paradise",
-          "url": "https://open.spotify.com/artist/45MvWoWLKlKglPHeKiVlJY"
-        },
-        {
-          "name": "Judge & Jury",
-          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
-        }
-      ],
-      "duration_ms": 240106,
-      "name": "Love Reign O'er Me",
-      "url": "https://open.spotify.com/track/4iTx8xQFl22MH82TTrw8NQ"
     },
     {
       "added_at": "2024-07-26 20:54:52",
@@ -1315,6 +1315,26 @@
     {
       "added_at": "2024-07-26 20:54:52",
       "album": {
+        "name": "Aeterna",
+        "url": "https://open.spotify.com/album/12ihdZ3MmYvMcepMaOsYIY"
+      },
+      "artists": [
+        {
+          "name": "Simone Simons",
+          "url": "https://open.spotify.com/artist/5Mbm3otSC2eWtbfbwOBgw4"
+        },
+        {
+          "name": "Ayreon",
+          "url": "https://open.spotify.com/artist/2RSApl0SXcVT8Yiy4UaPSt"
+        }
+      ],
+      "duration_ms": 362346,
+      "name": "Aeterna",
+      "url": "https://open.spotify.com/track/0e0YvuEbZFJycBvYlIC2wz"
+    },
+    {
+      "added_at": "2024-07-26 20:54:52",
+      "album": {
         "name": "The Bell",
         "url": "https://open.spotify.com/album/4sw2lggNNlSRYa34GbEoTu"
       },
@@ -1339,26 +1359,6 @@
     {
       "added_at": "2024-07-26 20:54:52",
       "album": {
-        "name": "Aeterna",
-        "url": "https://open.spotify.com/album/12ihdZ3MmYvMcepMaOsYIY"
-      },
-      "artists": [
-        {
-          "name": "Simone Simons",
-          "url": "https://open.spotify.com/artist/5Mbm3otSC2eWtbfbwOBgw4"
-        },
-        {
-          "name": "Ayreon",
-          "url": "https://open.spotify.com/artist/2RSApl0SXcVT8Yiy4UaPSt"
-        }
-      ],
-      "duration_ms": 362346,
-      "name": "Aeterna",
-      "url": "https://open.spotify.com/track/0e0YvuEbZFJycBvYlIC2wz"
-    },
-    {
-      "added_at": "2024-07-26 20:54:52",
-      "album": {
         "name": "Target Acquired (feat. Megan McDuffee)",
         "url": "https://open.spotify.com/album/2V5RiMu96qwpW0dDY0LDXt"
       },
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-07-26 20:54:52",
       "album": {
-        "name": "World on Fire",
-        "url": "https://open.spotify.com/album/1q2nD6Ft2JwA6zTNrgezMj"
-      },
-      "artists": [
-        {
-          "name": "Stratovarius",
-          "url": "https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO"
-        }
-      ],
-      "duration_ms": 266000,
-      "name": "World on Fire",
-      "url": "https://open.spotify.com/track/4LyJfkFQTpMHRSj0rCBgdo"
-    },
-    {
-      "added_at": "2024-07-26 20:54:52",
-      "album": {
         "name": "Axes",
         "url": "https://open.spotify.com/album/2KtjpfdPn3rNCoRTdhHGtv"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 212493,
       "name": "Axes",
       "url": "https://open.spotify.com/track/5cMNQ2LmvEBTUL0ZKdxtPl"
+    },
+    {
+      "added_at": "2024-07-26 20:54:52",
+      "album": {
+        "name": "World on Fire",
+        "url": "https://open.spotify.com/album/1q2nD6Ft2JwA6zTNrgezMj"
+      },
+      "artists": [
+        {
+          "name": "Stratovarius",
+          "url": "https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO"
+        }
+      ],
+      "duration_ms": 266000,
+      "name": "World on Fire",
+      "url": "https://open.spotify.com/track/4LyJfkFQTpMHRSj0rCBgdo"
     },
     {
       "added_at": "2024-07-26 20:54:52",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-07-26 20:54:52",
       "album": {
-        "name": "We Are Legion",
-        "url": "https://open.spotify.com/album/1jexIhocz0R6rK1nbUU6Cq"
-      },
-      "artists": [
-        {
-          "name": "Eleine",
-          "url": "https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx"
-        }
-      ],
-      "duration_ms": 221720,
-      "name": "We Are Legion",
-      "url": "https://open.spotify.com/track/7zooUycg2N63RgfMuIHYFF"
-    },
-    {
-      "added_at": "2024-07-26 20:54:52",
-      "album": {
         "name": "Juokse Sin\u00e4 Humma",
         "url": "https://open.spotify.com/album/7iAwpnzJHBl22urMdnmaWN"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 196636,
       "name": "Juokse Sin\u00e4 Humma",
       "url": "https://open.spotify.com/track/0VuiLKm86hsS2DLDM2UVia"
+    },
+    {
+      "added_at": "2024-07-26 20:54:52",
+      "album": {
+        "name": "We Are Legion",
+        "url": "https://open.spotify.com/album/1jexIhocz0R6rK1nbUU6Cq"
+      },
+      "artists": [
+        {
+          "name": "Eleine",
+          "url": "https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx"
+        }
+      ],
+      "duration_ms": 221720,
+      "name": "We Are Legion",
+      "url": "https://open.spotify.com/track/7zooUycg2N63RgfMuIHYFF"
     },
     {
       "added_at": "2024-07-26 20:54:52",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2024-07-26 20:54:52",
       "album": {
-        "name": "Stories to Forget",
-        "url": "https://open.spotify.com/album/7dx2PWJ9lSRMPflWwiTjYY"
-      },
-      "artists": [
-        {
-          "name": "Words Of Farewell",
-          "url": "https://open.spotify.com/artist/1tcrgTKBUpGVRGnPz4breO"
-        }
-      ],
-      "duration_ms": 281187,
-      "name": "A Lesser King",
-      "url": "https://open.spotify.com/track/47QynH6AAUDiwxzQ8tnHcP"
-    },
-    {
-      "added_at": "2024-07-26 20:54:52",
-      "album": {
         "name": "The Unforgiven II",
         "url": "https://open.spotify.com/album/0aNJR9sGBb9z7bHnvLut8w"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 245274,
       "name": "The Unforgiven II",
       "url": "https://open.spotify.com/track/5QSV2hMPygCUBmGoyIeTrC"
+    },
+    {
+      "added_at": "2024-07-26 20:54:52",
+      "album": {
+        "name": "Stories to Forget",
+        "url": "https://open.spotify.com/album/7dx2PWJ9lSRMPflWwiTjYY"
+      },
+      "artists": [
+        {
+          "name": "Words Of Farewell",
+          "url": "https://open.spotify.com/artist/1tcrgTKBUpGVRGnPz4breO"
+        }
+      ],
+      "duration_ms": 281187,
+      "name": "A Lesser King",
+      "url": "https://open.spotify.com/track/47QynH6AAUDiwxzQ8tnHcP"
     },
     {
       "added_at": "2024-07-26 20:54:52",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2024-07-26 20:54:52",
       "album": {
-        "name": "The Beast Has Awoken",
-        "url": "https://open.spotify.com/album/3Ch8TYT2iPsUCjKAcCe4rc"
-      },
-      "artists": [
-        {
-          "name": "Hate World Hero",
-          "url": "https://open.spotify.com/artist/3fUpS8AGXpd7PO9I8bs4jh"
-        }
-      ],
-      "duration_ms": 213473,
-      "name": "The Beast Has Awoken",
-      "url": "https://open.spotify.com/track/1DCcgFZYNC4DbeysRwBpjo"
-    },
-    {
-      "added_at": "2024-07-26 20:54:52",
-      "album": {
         "name": "Call of the North",
         "url": "https://open.spotify.com/album/4w7w5ZXaUSAqY6qot06f5t"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 384066,
       "name": "Call of the North",
       "url": "https://open.spotify.com/track/4BS6jSRHgqNjL1eSlokBBd"
+    },
+    {
+      "added_at": "2024-07-26 20:54:52",
+      "album": {
+        "name": "The Beast Has Awoken",
+        "url": "https://open.spotify.com/album/3Ch8TYT2iPsUCjKAcCe4rc"
+      },
+      "artists": [
+        {
+          "name": "Hate World Hero",
+          "url": "https://open.spotify.com/artist/3fUpS8AGXpd7PO9I8bs4jh"
+        }
+      ],
+      "duration_ms": 213473,
+      "name": "The Beast Has Awoken",
+      "url": "https://open.spotify.com/track/1DCcgFZYNC4DbeysRwBpjo"
     },
     {
       "added_at": "2024-07-26 20:54:52",

@@ -2103,6 +2103,24 @@
     },
     {
       "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/1hGnTXCqPpHFhw80OVFmqd"
+      },
+      "artists": [
+        {
+          "name": "Sloppy Jo",
+          "url": "https://open.spotify.com/artist/2vllrQgjSlv6SFDmhio5un"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129923,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/1Ysrlbv0pgJGzTJs2rKHRa"
+    },
+    {
+      "album": {
         "name": "Blooming Magic",
         "url": "https://open.spotify.com/album/4bg9lNm1hXxFdTy8xxwtbJ"
       },
@@ -5836,7 +5854,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-16",
       "duration_ms": 106666,
       "name": "Divine steps",
       "url": "https://open.spotify.com/track/7lMPIr6Ug0bzLfJOp2QDxV"
@@ -19581,6 +19599,24 @@
     },
     {
       "album": {
+        "name": "Resurrecting",
+        "url": "https://open.spotify.com/album/6XpGbMSnKn5Ljl2pLTQuaT"
+      },
+      "artists": [
+        {
+          "name": "elephvnt",
+          "url": "https://open.spotify.com/artist/5q1SBpeVA2vh8h9gfxjY36"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148028,
+      "name": "Resurrecting",
+      "url": "https://open.spotify.com/track/2uInLNvSTYxMaQqGFfXqYI"
+    },
+    {
+      "album": {
         "name": "Retro Days",
         "url": "https://open.spotify.com/album/03WAKWZz7kIzkiC9IEL5Ev"
       },
@@ -25918,7 +25954,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-16",
       "duration_ms": 118500,
       "name": "up we go",
       "url": "https://open.spotify.com/track/5B4tAArgQeG90fu29F8vXW"

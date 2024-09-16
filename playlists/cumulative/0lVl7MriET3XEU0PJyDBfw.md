@@ -4,7 +4,7 @@
 
 > Your Tech House session for the dance floor \| Submit: houseiumpromo@gmail.com
 
-315 songs - 16 hr 25 min
+316 songs - 16 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Concentrate](https://open.spotify.com/track/3BmJBrQVekUXuUZbaGHjzU) | [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C), [TJR](https://open.spotify.com/artist/2L8yW8GIoirHEdeW4bWQXq) | [Concentrate](https://open.spotify.com/album/7JXGN7gAAXh8FGr04Y8qn3) | 2:48 | 2024-01-21 | 2024-02-06 |
 | [Control](https://open.spotify.com/track/4NLF0XgMRCT6ARMhuSIL1y) | [Pavarino](https://open.spotify.com/artist/2Fpae9iRbR4yJa3hScKIO2) | [Control](https://open.spotify.com/album/4zhVHvYUGAuyZnsSzZmtr2) | 2:51 | 2024-01-19 | 2024-02-06 |
 | [Control Me](https://open.spotify.com/track/4nqUCXokD9BYZJ5WFlC1aR) | [Avi Sic](https://open.spotify.com/artist/2zkKco91JEZWEnIYrWHZNe) | [Unlocked Vol\. 11](https://open.spotify.com/album/6Ig37HY8wzmFMG75aAuLYW) | 3:23 | 2024-06-23 | 2024-08-20 |
+| [DADDY KEEPS CALLING](https://open.spotify.com/track/1iue9j6pHYFdk8pR0ekLJS) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY) | [DADDY KEEPS CALLING](https://open.spotify.com/album/3yceYuyQpneDvuHnkTR41C) | 2:37 | 2024-09-15 |  |
 | [Dance To The Music](https://open.spotify.com/track/0izF9lgQMFggcKXaia48Xa) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob), [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Dance To The Music](https://open.spotify.com/album/6zcnuO88B7AClFIH7kB9Vq) | 2:38 | 2024-01-15 | 2024-01-30 |
 | [Dancefloor](https://open.spotify.com/track/4dfhKJo55TLlKlq6Mh1tmr) | [dhuss](https://open.spotify.com/artist/0VCdowS9c0KjYcVJAZCvBd) | [Dancefloor EP](https://open.spotify.com/album/4lSZzzNPHmYxETXGqp5mEM) | 4:18 | 2024-02-05 | 2024-06-24 |
 | [Dancefloor](https://open.spotify.com/track/7lk1IsQ6oS8c0cmW5Qr2EE) | [NuBass](https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO) | [Dancefloor](https://open.spotify.com/album/1jq4DZb0TM25hTPAssCQKa) | 3:26 | 2024-01-08 | 2024-01-22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX61fc6zAraeo.md) - [plain]
 
 > Dance tracks for your power moves
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,157 likes - 100 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,166 likes - 100 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX61fc6zAraeo.md) - [plain]
 | 99 | [What We Know \(feat\. Conor Byrne\)](https://open.spotify.com/track/0qODLyd99ldgvBHMVsScye) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Conor Byrne](https://open.spotify.com/artist/0hEeBhTVYUKs2B4PY2IdMB) | [What We Know \(feat\. Conor Byrne\)](https://open.spotify.com/album/1OeHZucueiMEy970AN5vHd) | 2:48 |
 | 100 | [Rest Of My Life](https://open.spotify.com/track/4OvFFy9nniyG6CsI86yNGL) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Endless Summer](https://open.spotify.com/artist/3E0d6yF8knEtWluzLbxCVA), [Sadie Rose Van](https://open.spotify.com/artist/26WIQmMRRABfsQCIhwtNns) | [Rest Of My Life](https://open.spotify.com/album/7zeA4kJCW5R6Qef90r2zQM) | 3:25 |
 
-Snapshot ID: `Zt7eTwAAAADbUdUTSApEOYQ3ik9+SoQk`
+Snapshot ID: `Zt7eTwAAAAB9xllhLvCnqtG9uN1EkiYe`

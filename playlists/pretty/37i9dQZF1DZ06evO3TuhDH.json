@@ -1,12 +1,12 @@
 {
-  "description": "This is Coi Leray. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 16850,
+  "description": "This is Coi Leray. The essential tracks, all in one playlist.",
+  "num_followers": 16854,
   "original_name": "This Is Coi Leray",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuOAgAAAAAByGrDWnudCy0uUTI28lMJC",
+  "snapshot_id": "ZuTSAAAAAADZ5odvX3ZKZaMHpGw7ZbkG",
   "tracks": [
     {
       "added_at": null,
@@ -899,6 +899,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dennis Daughter",
+        "url": "https://open.spotify.com/album/6MhWcjVKMVa7QbIELyjaUe"
+      },
+      "artists": [
+        {
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Nija",
+          "url": "https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW"
+        }
+      ],
+      "duration_ms": 199746,
+      "name": "Don't Get Me Started (feat. Coi Leray & Nija)",
+      "url": "https://open.spotify.com/track/5AmuyYZBlIbC9PuFM9hmso"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Run It Up",
         "url": "https://open.spotify.com/album/0sTMa5g20KXJCg3t0Z0jay"
       },
@@ -931,30 +955,6 @@
       "duration_ms": 150048,
       "name": "Ocean Prime (feat. Coi Leray)",
       "url": "https://open.spotify.com/track/17lzuZ03enjlAQ8RHBx3aN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dennis Daughter",
-        "url": "https://open.spotify.com/album/6MhWcjVKMVa7QbIELyjaUe"
-      },
-      "artists": [
-        {
-          "name": "Lola Brooke",
-          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "Nija",
-          "url": "https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW"
-        }
-      ],
-      "duration_ms": 199746,
-      "name": "Don't Get Me Started (feat. Coi Leray & Nija)",
-      "url": "https://open.spotify.com/track/5AmuyYZBlIbC9PuFM9hmso"
     },
     {
       "added_at": null,

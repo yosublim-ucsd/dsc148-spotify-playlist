@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-953 songs - 1 day 13 hr 0 min
+954 songs - 1 day 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,7 +244,7 @@
 | [Feelin'](https://open.spotify.com/track/3CTAJlaC50aDkUUmZtewWp) | [Konteks](https://open.spotify.com/artist/38lJ5B9ZBk3zsRKEf3oG2R) | [Feelin'](https://open.spotify.com/album/0OiKNfuaINRWoMkEBH8VhT) | 2:23 | 2022-05-13 | 2023-11-17 |
 | [Fine Wine](https://open.spotify.com/track/5amlvBPMvmgPxxcJhkpXHN) | [Arlos](https://open.spotify.com/artist/5PU5cwPems7pVldrGo4Bs5) | [Street Lights](https://open.spotify.com/album/0TeWAJONgq6SVHVd6KtwIb) | 2:53 | 2022-04-15 | 2022-09-03 |
 | [Fixed Emotions](https://open.spotify.com/track/7zqjFQqv1FEAv8nlEYLVoR) | [rec.memos](https://open.spotify.com/artist/6n2kivcHpNhuk2kQICjkBZ) | [Fixed Emotions](https://open.spotify.com/album/7LKwn7YZmvlrtABV6oNOHu) | 2:38 | 2022-04-15 |  |
-| [Flapjack](https://open.spotify.com/track/0NdWscQuRW9hTfZZFhmtG8) | [Ekfat](https://open.spotify.com/artist/6kprXciGZ5AQ8TtoDPFFVc) | [Flapjack](https://open.spotify.com/album/3KBnZadTY4pMrWaKsy55jg) | 2:08 | 2024-07-12 |  |
+| [Flapjack](https://open.spotify.com/track/0NdWscQuRW9hTfZZFhmtG8) | [Ekfat](https://open.spotify.com/artist/6kprXciGZ5AQ8TtoDPFFVc) | [Flapjack](https://open.spotify.com/album/3KBnZadTY4pMrWaKsy55jg) | 2:08 | 2024-07-12 | 2024-09-16 |
 | [Flavour](https://open.spotify.com/track/2bYLgnOMydPERsoIxpS9Z1) | [Horscht](https://open.spotify.com/artist/6xUv3alLm8Tv5pOqQAhXfk) | [Flavour](https://open.spotify.com/album/3JCKzZyp6umZDTKO8OWW1z) | 2:39 | 2022-11-11 | 2022-12-10 |
 | [Flavour](https://open.spotify.com/track/4gQBjZwMYUOUorjwSSEO1c) | [Horscht](https://open.spotify.com/artist/6xUv3alLm8Tv5pOqQAhXfk) | [Flavour](https://open.spotify.com/album/29vJCvpUojLc9lZ9axQykG) | 2:39 | 2022-08-19 | 2022-11-20 |
 | [Flight 99 \- Instrumental](https://open.spotify.com/track/2G40GyMdMf9NjvBCWuIVnV) | [Please Wait](https://open.spotify.com/artist/2f70Y2dW98FPfkO61AGa2E), [Ta\-ku](https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV), [matt mcwaters](https://open.spotify.com/artist/3jUCC3z6XfyxBbGir9OcHK) | [Flight 99 \(Remixes\)](https://open.spotify.com/album/3cpr9X6tMQzpapGrKpT1tX) | 2:51 | 2022-10-28 | 2022-11-24 |
@@ -891,6 +891,7 @@
 | [United We Belong](https://open.spotify.com/track/29tQwha5pdWNZIbYAAo7AA) | [Frankly, We Hold](https://open.spotify.com/artist/3iWvwND7pIhG7IUtdDsFKy) | [Open Skies](https://open.spotify.com/album/1JXMg78YhoyB4Xhx9dc7sC) | 2:02 | 2022-04-15 | 2022-10-29 |
 | [Unity](https://open.spotify.com/track/2esxMguB1vPwhv9GgKKMdL) | [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Unity](https://open.spotify.com/album/02HGvM4UDSIiUEOP7PfLMF) | 2:13 | 2022-11-11 | 2023-10-06 |
 | [Unity](https://open.spotify.com/track/5pSAT98oNVHxDWfZn4jVDZ) | [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Unity](https://open.spotify.com/album/38pRruNPK6CWlpASV8FnPb) | 2:13 | 2022-04-15 | 2022-11-20 |
+| [Upfront](https://open.spotify.com/track/2V9Z7zw3B3zCmmdHc8Cg8d) | [Korey Wade](https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv) | [Upfront](https://open.spotify.com/album/1D8b1BsrDvQ3HsFXk6p7ed) | 2:30 | 2024-09-13 |  |
 | [Upper Lows](https://open.spotify.com/track/3lrBu4V4yz4VuFPJe5HNWy) | [Beamer](https://open.spotify.com/artist/6AbxfHV92ca4w7SK7IN9Md) | [Upper Lows](https://open.spotify.com/album/0SdoJPwJWy3FPSqpIExNBh) | 2:02 | 2023-12-08 |  |
 | [Uptown Train](https://open.spotify.com/track/5LOf0bNrydlqUgro73awjW) | [Calm Like Carl](https://open.spotify.com/artist/4yliz9yN6pHtswgNVEjiw0) | [Uptown Train](https://open.spotify.com/album/3IMePNMlrZRLcjRj6D9bvz) | 2:52 | 2022-04-15 |  |
 | [valeu](https://open.spotify.com/track/5nF8Se3cxKW1c0NUa7gRu3) | [Kavv](https://open.spotify.com/artist/2s9AUbN500rutTnXy78HzE), [farewell](https://open.spotify.com/artist/4wGoZhMN4NyNoZqUgMxUxc) | [valeu](https://open.spotify.com/album/6vX9KKnUqUbXqvj7VeLzIf) | 1:25 | 2022-06-03 | 2022-10-29 |

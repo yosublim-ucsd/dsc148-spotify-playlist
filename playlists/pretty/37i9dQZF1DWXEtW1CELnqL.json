@@ -1,6 +1,6 @@
 {
   "description": "\ud83c\udfbe",
-  "num_followers": 66171,
+  "num_followers": 66197,
   "original_name": "Balec !",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-09-09 15:22:26",
       "album": {
-        "name": "Definitely Maybe (Deluxe Edition Remastered)",
-        "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 276666,
-      "name": "Live Forever - Remastered",
-      "url": "https://open.spotify.com/track/6TlQ5fbojNRuG0hPQMbxeW"
-    },
-    {
-      "added_at": "2024-09-09 15:22:26",
-      "album": {
         "name": "Three Cheers for Sweet Revenge",
         "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 186480,
       "name": "I'm Not Okay (I Promise)",
       "url": "https://open.spotify.com/track/7lRlq939cDG4SzWOF4VAnd"
+    },
+    {
+      "added_at": "2024-09-09 15:22:26",
+      "album": {
+        "name": "Definitely Maybe (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 276666,
+      "name": "Live Forever - Remastered",
+      "url": "https://open.spotify.com/track/6TlQ5fbojNRuG0hPQMbxeW"
     },
     {
       "added_at": "2024-09-09 15:22:26",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-09-09 15:22:26",
       "album": {
-        "name": "No Pads, No Helmets...Just Balls (15th Anniversary Tour Edition)",
-        "url": "https://open.spotify.com/album/3W6TEVlmaP22E4KvWY9HrS"
-      },
-      "artists": [
-        {
-          "name": "Simple Plan",
-          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
-        }
-      ],
-      "duration_ms": 198333,
-      "name": "I'm Just a Kid",
-      "url": "https://open.spotify.com/track/6otiaV2fagE3s8IvP6WkwG"
-    },
-    {
-      "added_at": "2024-09-09 15:22:26",
-      "album": {
         "name": "Morning View",
         "url": "https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 212733,
       "name": "Wish You Were Here",
       "url": "https://open.spotify.com/track/6KtLECDztnah63TNmV4Plw"
+    },
+    {
+      "added_at": "2024-09-09 15:22:26",
+      "album": {
+        "name": "No Pads, No Helmets...Just Balls (15th Anniversary Tour Edition)",
+        "url": "https://open.spotify.com/album/3W6TEVlmaP22E4KvWY9HrS"
+      },
+      "artists": [
+        {
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+        }
+      ],
+      "duration_ms": 198333,
+      "name": "I'm Just a Kid",
+      "url": "https://open.spotify.com/track/6otiaV2fagE3s8IvP6WkwG"
     },
     {
       "added_at": "2024-09-09 15:22:26",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-09-09 15:22:26",
       "album": {
-        "name": "Watch The World Burn",
-        "url": "https://open.spotify.com/album/5SjHojBg6zfZHMqWYjFzFE"
-      },
-      "artists": [
-        {
-          "name": "Falling In Reverse",
-          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
-        }
-      ],
-      "duration_ms": 203948,
-      "name": "Watch The World Burn",
-      "url": "https://open.spotify.com/track/4CiVz4bw7X1zjCaJ5ZwxUS"
-    },
-    {
-      "added_at": "2024-09-09 15:22:26",
-      "album": {
         "name": "Make Believe",
         "url": "https://open.spotify.com/album/4D8A8M0NJjEdQhusawyeDz"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 196093,
       "name": "Beverly Hills",
       "url": "https://open.spotify.com/track/1yKu2MhpwzDXXH2tzG6xoa"
+    },
+    {
+      "added_at": "2024-09-09 15:22:26",
+      "album": {
+        "name": "Watch The World Burn",
+        "url": "https://open.spotify.com/album/5SjHojBg6zfZHMqWYjFzFE"
+      },
+      "artists": [
+        {
+          "name": "Falling In Reverse",
+          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
+        }
+      ],
+      "duration_ms": 203948,
+      "name": "Watch The World Burn",
+      "url": "https://open.spotify.com/track/4CiVz4bw7X1zjCaJ5ZwxUS"
     },
     {
       "added_at": "2024-09-09 15:22:26",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-09-09 15:22:26",
       "album": {
-        "name": "The Battle Of Los Angeles",
-        "url": "https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX"
-      },
-      "artists": [
-        {
-          "name": "Rage Against The Machine",
-          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
-        }
-      ],
-      "duration_ms": 206200,
-      "name": "Guerrilla Radio",
-      "url": "https://open.spotify.com/track/1wsRitfRRtWyEapl0q22o8"
-    },
-    {
-      "added_at": "2024-09-09 15:22:26",
-      "album": {
         "name": "Around the Fur",
         "url": "https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu"
       },
@@ -539,6 +523,22 @@
     {
       "added_at": "2024-09-09 15:22:26",
       "album": {
+        "name": "The Battle Of Los Angeles",
+        "url": "https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX"
+      },
+      "artists": [
+        {
+          "name": "Rage Against The Machine",
+          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+        }
+      ],
+      "duration_ms": 206200,
+      "name": "Guerrilla Radio",
+      "url": "https://open.spotify.com/track/1wsRitfRRtWyEapl0q22o8"
+    },
+    {
+      "added_at": "2024-09-09 15:22:26",
+      "album": {
         "name": "Without You I'm Nothing",
         "url": "https://open.spotify.com/album/4wxoPjHSYFYurNyKaEiZNT"
       },
@@ -551,6 +551,22 @@
       "duration_ms": 213800,
       "name": "Every You Every Me",
       "url": "https://open.spotify.com/track/2Srd8Jgif3kc6ou6Z4pSYJ"
+    },
+    {
+      "added_at": "2024-09-09 15:22:26",
+      "album": {
+        "name": "Nevermind (Remastered)",
+        "url": "https://open.spotify.com/album/2UJcKiJxNryhL050F5Z1Fk"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 255080,
+      "name": "In Bloom",
+      "url": "https://open.spotify.com/track/2mvffzYUJ9Ld9xhsF5DUjU"
     },
     {
       "added_at": "2024-09-09 15:22:26",
@@ -583,22 +599,6 @@
       "duration_ms": 238560,
       "name": "Jumpsuit",
       "url": "https://open.spotify.com/track/1E1uGhNdBe6Dddbgs2KqtZ"
-    },
-    {
-      "added_at": "2024-09-09 15:22:26",
-      "album": {
-        "name": "Nevermind (Remastered)",
-        "url": "https://open.spotify.com/album/2UJcKiJxNryhL050F5Z1Fk"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 255080,
-      "name": "In Bloom",
-      "url": "https://open.spotify.com/track/2mvffzYUJ9Ld9xhsF5DUjU"
     },
     {
       "added_at": "2024-09-09 15:22:26",
@@ -747,6 +747,22 @@
     {
       "added_at": "2024-09-09 15:22:26",
       "album": {
+        "name": "POWER UP",
+        "url": "https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 185133,
+      "name": "Shot In The Dark",
+      "url": "https://open.spotify.com/track/0sfdiwck2xr4PteGOdyOfz"
+    },
+    {
+      "added_at": "2024-09-09 15:22:26",
+      "album": {
         "name": "EKKSTACY",
         "url": "https://open.spotify.com/album/5kBHoINYa2WwRaOK3vA7LC"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 129880,
       "name": "alright (feat. The Kid LAROI)",
       "url": "https://open.spotify.com/track/1uQ5oCjZvQsMZaBFAdkSuF"
-    },
-    {
-      "added_at": "2024-09-09 15:22:26",
-      "album": {
-        "name": "POWER UP",
-        "url": "https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 185133,
-      "name": "Shot In The Dark",
-      "url": "https://open.spotify.com/track/0sfdiwck2xr4PteGOdyOfz"
     },
     {
       "added_at": "2024-09-09 15:22:26",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-09-09 15:22:26",
       "album": {
-        "name": "Life Support / Ms. Supernova",
-        "url": "https://open.spotify.com/album/7F8VcXy0BU3Q02MEQjE5jy"
-      },
-      "artists": [
-        {
-          "name": "Friday Pilots Club",
-          "url": "https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY"
-        }
-      ],
-      "duration_ms": 191493,
-      "name": "Life Support",
-      "url": "https://open.spotify.com/track/3lZPoo1ZChb1CtEPtWQlhQ"
-    },
-    {
-      "added_at": "2024-09-09 15:22:26",
-      "album": {
         "name": "Pinkerton",
         "url": "https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 181706,
       "name": "Tired Of Sex",
       "url": "https://open.spotify.com/track/42hDrA9GTkuvpxjLtAshct"
+    },
+    {
+      "added_at": "2024-09-09 15:22:26",
+      "album": {
+        "name": "Life Support / Ms. Supernova",
+        "url": "https://open.spotify.com/album/7F8VcXy0BU3Q02MEQjE5jy"
+      },
+      "artists": [
+        {
+          "name": "Friday Pilots Club",
+          "url": "https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY"
+        }
+      ],
+      "duration_ms": 191493,
+      "name": "Life Support",
+      "url": "https://open.spotify.com/track/3lZPoo1ZChb1CtEPtWQlhQ"
     },
     {
       "added_at": "2024-09-09 15:22:26",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-09-09 15:22:26",
       "album": {
-        "name": "Guero",
-        "url": "https://open.spotify.com/album/1R0BP6MeMLigDNaoztxUAZ"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 202360,
-      "name": "E-Pro",
-      "url": "https://open.spotify.com/track/0HW0aSeNZ5nfLK2GdWNMDc"
-    },
-    {
-      "added_at": "2024-09-09 15:22:26",
-      "album": {
         "name": "Sundiver",
         "url": "https://open.spotify.com/album/3yEElJhMf5ZefKwMgvVRod"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 190485,
       "name": "Why I Sleep",
       "url": "https://open.spotify.com/track/4e9Nm8avtDWcqTPK0CMk6O"
+    },
+    {
+      "added_at": "2024-09-09 15:22:26",
+      "album": {
+        "name": "Guero",
+        "url": "https://open.spotify.com/album/1R0BP6MeMLigDNaoztxUAZ"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 202360,
+      "name": "E-Pro",
+      "url": "https://open.spotify.com/track/0HW0aSeNZ5nfLK2GdWNMDc"
     },
     {
       "added_at": "2024-09-09 15:22:26",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2024-09-09 15:22:26",
       "album": {
-        "name": "Punk Goes 90's, Vol. 2",
-        "url": "https://open.spotify.com/album/4OEnCG1PkPtwNwuIcb0Whv"
+        "name": "Datura",
+        "url": "https://open.spotify.com/album/3njhMNW0BGdOQN9108BEDY"
       },
       "artists": [
         {
-          "name": "Chunk! No, Captain Chunk!",
-          "url": "https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h"
+          "name": "Boston Manor",
+          "url": "https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM"
         }
       ],
-      "duration_ms": 199853,
-      "name": "All Star",
-      "url": "https://open.spotify.com/track/7Fj22K938ILXcyMicXxCGV"
+      "duration_ms": 206922,
+      "name": "Passenger",
+      "url": "https://open.spotify.com/track/53iB7e52u7afKK97orNIs4"
     },
     {
       "added_at": "2024-09-09 15:22:26",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2024-09-09 15:22:26",
       "album": {
-        "name": "Placebo",
-        "url": "https://open.spotify.com/album/7Jyg6ic5h9BDJ3WuYWYA6K"
+        "name": "Punk Goes 90's, Vol. 2",
+        "url": "https://open.spotify.com/album/4OEnCG1PkPtwNwuIcb0Whv"
       },
       "artists": [
         {
-          "name": "Placebo",
-          "url": "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
+          "name": "Chunk! No, Captain Chunk!",
+          "url": "https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h"
         }
       ],
-      "duration_ms": 162466,
-      "name": "Teenage Angst",
-      "url": "https://open.spotify.com/track/3GKEh2H15w9ZECfi1BtQ20"
+      "duration_ms": 199853,
+      "name": "All Star",
+      "url": "https://open.spotify.com/track/7Fj22K938ILXcyMicXxCGV"
     }
   ],
   "unique_name": "Balec !",

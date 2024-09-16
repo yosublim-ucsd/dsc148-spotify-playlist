@@ -4,7 +4,7 @@
 
 > Hottest indie sound from Asia\. Cover: Wantamnam 我地希望 \(Hong Kong\)
 
-1,516 songs - 3 day 19 hr 29 min
+1,517 songs - 3 day 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -929,7 +929,7 @@
 | [Phases](https://open.spotify.com/track/4gnuUKqRHZiA4Bq8h4wDfU) | [Dried Cassava](https://open.spotify.com/artist/0ZFOqczQaOVygEA3lFm244) | [Cease, See, Seize](https://open.spotify.com/album/0tBxX3Sw1N3KM7EILHcyUK) | 4:04 | 2023-02-23 | 2023-04-21 |
 | [phonecase](https://open.spotify.com/track/4Onk8ZymFGVPE5c9nXIdBv) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [phonecase](https://open.spotify.com/album/6Y08ATR8X7ZTZNai1hCn0X) | 2:48 | 2022-04-21 | 2022-06-17 |
 | [Picnic In The Park](https://open.spotify.com/track/1H9RljOIfrpDXj8tBYi746) | [Amiide](https://open.spotify.com/artist/7BKuLuQjskBFEVCk3JlDGR), [Chocoholic](https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1), [Jyodan](https://open.spotify.com/artist/7n0YtK7gMQVm6XPELdDFG6) | [Picnic In The Park](https://open.spotify.com/album/7vGvMZJ2EcjqALGYxRmAuB) | 2:57 | 2023-01-19 | 2023-02-03 |
-| [piece of mind](https://open.spotify.com/track/22GeaRbTM6J9MZLA9TqDx0) | [Cupnoodle](https://open.spotify.com/artist/2oxmVxoozyLgoIlPpz1QS2) | [piece of mind](https://open.spotify.com/album/6FiYjPbvIHjKo0pWLn8tt6) | 3:01 | 2024-06-13 |  |
+| [piece of mind](https://open.spotify.com/track/22GeaRbTM6J9MZLA9TqDx0) | [Cupnoodle](https://open.spotify.com/artist/2oxmVxoozyLgoIlPpz1QS2) | [piece of mind](https://open.spotify.com/album/6FiYjPbvIHjKo0pWLn8tt6) | 3:01 | 2024-06-13 | 2024-09-16 |
 | [Pillow Pillow](https://open.spotify.com/track/12LfBLjE0HMmDaGUZcZFs4) | [Plastic Plastic](https://open.spotify.com/artist/0YjEWrRKD9nBJfeF5eLdBd) | [Pillow Pillow](https://open.spotify.com/album/4qF8yKIEzjvIw3XUwJSmMO) | 3:16 | 2022-05-19 | 2022-07-08 |
 | [Pills](https://open.spotify.com/track/2fHOiCZWlGwLCEJx1Mpn3z) | [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6), [asiatic.wav](https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx) | [Pills](https://open.spotify.com/album/3PX7TASSTR0GE1TjHD246d) | 3:20 | 2022-04-28 | 2024-01-19 |
 | [Pink](https://open.spotify.com/track/6Xss284HURvzRGqyIrX0bS) | [Sepia Times](https://open.spotify.com/artist/4m02Ox4bbSriKKv6wo8gS5) | [The Art Of Human Part 2](https://open.spotify.com/album/7B8qalXIydIFlRqUcgJd4d) | 4:04 | 2022-10-28 | 2023-01-20 |
@@ -1437,6 +1437,7 @@
 | [ハナノヨウ](https://open.spotify.com/track/5WwC895TwQsdgxiH9qkuq5) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [ハナノヨウ](https://open.spotify.com/album/1NORsBbP4WjmIBG2P8OsCt) | 3:52 | 2024-08-08 | 2024-08-17 |
 | [メガフォン](https://open.spotify.com/track/3b97D6YMKoXseRjntwH5q0) | [BBHF](https://open.spotify.com/artist/5gEQL7osnggthis6rBwYoY) | [メガフォン](https://open.spotify.com/album/6LBUQPn9rnTdJFmH0vLUa1) | 2:38 | 2023-03-02 | 2023-04-09 |
 | [メビウス](https://open.spotify.com/track/4xrZ0pYCSyHm8OxB6GhjKh) | [mitsume](https://open.spotify.com/artist/59tUUyuaTFMty5kJE9Ojrq) | [メビウス](https://open.spotify.com/album/1M7OMt0g8q5YIgCLpBMmLz) | 3:34 | 2022-11-10 | 2022-11-18 |
+| [リトライ](https://open.spotify.com/track/4v5yPMmyTpEQ006Uocw2qn) | [Galileo Galilei](https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ) | [リトライ](https://open.spotify.com/album/2r5jWn7s25JwggSObjpLOH) | 4:04 | 2024-09-12 |  |
 | [一個眼神](https://open.spotify.com/track/6BtPxWB4UsgZraWugItyrn) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [一個眼神](https://open.spotify.com/album/4fVbAQA7z7qeE3eg5zV6Uu) | 2:57 | 2024-02-08 |  |
 | [不可救藥的...](https://open.spotify.com/track/1x0iPXaa8eWpvZdo1vyEtF) | [WHIZZ](https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe) | [不可救藥的...](https://open.spotify.com/album/1H2yIXcODEDvxaYEa4FQM5) | 3:03 | 2022-06-16 | 2022-08-05 |
 | [不稀罕別人給的完整 / 狂奔](https://open.spotify.com/track/1ybhaEBjWHBWzXyZO8Wtay) | [沈安](https://open.spotify.com/artist/2tT4arcwVKQK6wfZV23vTt) | [不稀罕別人給的完整 / 狂奔](https://open.spotify.com/album/4dFxr1czYW41LhmWo6LbRg) | 3:29 | 2022-04-21 | 2022-05-13 |

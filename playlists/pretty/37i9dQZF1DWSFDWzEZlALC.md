@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: JEREMIAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,926 likes - 80 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,997 likes - 80 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 79 | [22 Uhr](https://open.spotify.com/track/0WkJ8IabEc9Yys3HJ3NwI2) | [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg) | [22 Uhr](https://open.spotify.com/album/3IVfhWdEgtgUWZs9u5H7W8) | 2:18 |
 | 80 | [9 To 5](https://open.spotify.com/track/7HRHKWjJ2JOfygbeUtogCs) | [elia](https://open.spotify.com/artist/1UjKYskUYIgAunG722zG3I) | [9 To 5](https://open.spotify.com/album/52CcrM08IJ53pgktQMagvQ) | 2:50 |
 
-Snapshot ID: `ZuNkYAAAAABr9FjBiudpiLQRH/2yq1qF`
+Snapshot ID: `ZuNkYAAAAADgGOMb6Tx3nk4q/YUE6gdX`

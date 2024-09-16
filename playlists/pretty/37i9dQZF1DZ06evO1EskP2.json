@@ -1,12 +1,12 @@
 {
-  "description": "This is Anuhea. The essential tracks, all in one playlist.",
-  "num_followers": 2694,
+  "description": "This is: Anuhea. Alle wichtigen Tracks in einer Playlist.",
+  "num_followers": 2693,
   "original_name": "This Is Anuhea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuOAgAAAAACfaFppDaDFK3o6pJj1czu2",
+  "snapshot_id": "ZuTSAAAAAACuWe9RqKYH+aiElxLq6sKs",
   "tracks": [
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anuhea",
-        "url": "https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 284680,
-      "name": "Right Love, Wrong Time",
-      "url": "https://open.spotify.com/track/1KgBgZkEXySiIfzCZ3CGkR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Follow Me (Remix)",
         "url": "https://open.spotify.com/album/1M8gp8ALcQwerYOrPPm8Sp"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 195789,
       "name": "Follow Me (Remix)",
       "url": "https://open.spotify.com/track/3nwzpuw4jmld9GYGyUGBUa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anuhea",
+        "url": "https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 284680,
+      "name": "Right Love, Wrong Time",
+      "url": "https://open.spotify.com/track/1KgBgZkEXySiIfzCZ3CGkR"
     },
     {
       "added_at": null,

@@ -1424,7 +1424,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-16",
       "duration_ms": 272000,
       "name": "I Will See You",
       "url": "https://open.spotify.com/track/6qmXfmVuBXJw9iZML0k6cr"
@@ -3060,6 +3060,24 @@
       "duration_ms": 238406,
       "name": "The Way",
       "url": "https://open.spotify.com/track/1l2UjEWrKrdpqhbKMBcNVU"
+    },
+    {
+      "album": {
+        "name": "Tiden f\u00f6rsvinner",
+        "url": "https://open.spotify.com/album/5zWmdawhCC0ijjNQrL4mDM"
+      },
+      "artists": [
+        {
+          "name": "Tommy Nilsson",
+          "url": "https://open.spotify.com/artist/0PnNyzP7CgoDXZHr6cWOyq"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206304,
+      "name": "Tiden f\u00f6rsvinner",
+      "url": "https://open.spotify.com/track/3THkpuPm9r1eu2Y2YXsHjb"
     },
     {
       "album": {

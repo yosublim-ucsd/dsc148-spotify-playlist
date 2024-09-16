@@ -4,7 +4,7 @@
 
 > Grüezi! This is 100% made in Switzerland.
 
-107 songs - 5 hr 16 min
+108 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,13 +25,14 @@
 | [Body](https://open.spotify.com/track/1ucysYifutlHvdhT3wPH09) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Body](https://open.spotify.com/album/2XFkhBjRO8elEtoZovNbjg) | 2:19 | 2024-06-27 |  |
 | [Botanical Garden](https://open.spotify.com/track/7bx7MDIg8p098HHmsJebzl) | [Anna Erhard](https://open.spotify.com/artist/11OTiI6xYGpLxS3aoVkI9e) | [Botanical Garden](https://open.spotify.com/album/7bcLaytbnuWJCfqa2JdyBc) | 3:08 | 2024-06-27 | 2024-08-21 |
 | [Boys Do Cry](https://open.spotify.com/track/5A3JxIX04W5Ttu6Rxy5tWW) | [Marius Bear](https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb) | [Boys Do Cry](https://open.spotify.com/album/1PA9VlnwgXGN0W7K5YnkoI) | 2:56 | 2024-06-27 |  |
-| [Butterflies](https://open.spotify.com/track/5kdUm7nOGQs006nNNFxnAL) | [Jared Lembo](https://open.spotify.com/artist/7m40p3LDka0BxsiX0tZT9g) | [Butterflies](https://open.spotify.com/album/7LqoKNNpnPoNr9UUkB15cb) | 2:27 | 2024-09-06 |  |
+| [Butterflies](https://open.spotify.com/track/5kdUm7nOGQs006nNNFxnAL) | [Jared Lembo](https://open.spotify.com/artist/7m40p3LDka0BxsiX0tZT9g) | [Butterflies](https://open.spotify.com/album/7LqoKNNpnPoNr9UUkB15cb) | 2:27 | 2024-09-06 | 2024-09-16 |
 | [C:K:C](https://open.spotify.com/track/0EYSzxTPgTIDErmid8Jatk) | [IKAN HYU](https://open.spotify.com/artist/1kcgm5pRULbDb5gs7kDRNK) | [C:K:C](https://open.spotify.com/album/7chcPzPRIeFfAwi3Y2Vaxd) | 3:04 | 2024-09-06 |  |
 | [Call Me in L.A.](https://open.spotify.com/track/0AQa2zcUia32ZfDTUqL617) | [Bastian Baker](https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC) | [Stories of the XXI](https://open.spotify.com/album/5nGM72Vr3X2zq1bqxtC6GG) | 2:55 | 2024-06-27 | 2024-07-05 |
 | [Can't Be Loved](https://open.spotify.com/track/69H5EfyNRLIKd0WAPNQr0T) | [Bastian Baker](https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC) | [Can't Be Loved](https://open.spotify.com/album/5YmdC1mjV30uWAUfqT8uQo) | 2:51 | 2024-06-27 | 2024-09-14 |
 | [Champions](https://open.spotify.com/track/1stHdQgmNNeuVMjKlpobVs) | [Pegasus](https://open.spotify.com/artist/6IWxOu9w3PtIpLa7A178ad) | [Champions](https://open.spotify.com/album/0ojmsZGPDsKXQRYtua7bhT) | 2:32 | 2024-06-27 |  |
 | [Colorblind](https://open.spotify.com/track/7KOPqGFvR7m7TVRPuHSN6A) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Colorblind](https://open.spotify.com/album/2sWFFkdTvfXKd60zupdNN3) | 3:02 | 2024-06-27 |  |
 | [copypaste](https://open.spotify.com/track/7m9WgSEUPIgSxT6f7wL3U0) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [copypaste](https://open.spotify.com/album/5nv4OeXH8BGqmAYMnsqROB) | 3:20 | 2024-08-09 | 2024-08-24 |
+| [Corpse Bride](https://open.spotify.com/track/0bARGmIFiwDIp05EM3PIYt) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Corpse Bride](https://open.spotify.com/album/4LHyzaPhcYIfyyRfmdhHrs) | 3:07 | 2024-09-13 |  |
 | [Counting Days](https://open.spotify.com/track/6ujzmWSyfa57nVtjNO54G0) | [Jared Lembo](https://open.spotify.com/artist/7m40p3LDka0BxsiX0tZT9g) | [Counting Days](https://open.spotify.com/album/61hyS4rmGow2ddAzSQkfr2) | 2:44 | 2024-06-27 |  |
 | [Daredevil](https://open.spotify.com/track/1edoaqKUVDzWNs4flkvNPw) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Daredevil](https://open.spotify.com/album/1eLoAa0EpSIq1QhDUeEgaa) | 2:33 | 2024-06-27 | 2024-08-04 |
 | [Descontrol](https://open.spotify.com/track/2USP7uCFfx4BFm8KXual18) | [Loco Escrito](https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ), [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg) | [Descontrol](https://open.spotify.com/album/39VSGS38v6WGZsucZ1wa0r) | 2:38 | 2024-08-19 |  |

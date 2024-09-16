@@ -470,10 +470,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-16",
       "duration_ms": 252879,
       "name": "Blank is",
       "url": "https://open.spotify.com/track/2Oh0FyjVferSXwboHIKqeG"
+    },
+    {
+      "album": {
+        "name": "S\u00e5nger f\u00f6r december",
+        "url": "https://open.spotify.com/album/5G6WoQ0aPQ6ZQLHou6aTOx"
+      },
+      "artists": [
+        {
+          "name": "Irma Schultz-Keller",
+          "url": "https://open.spotify.com/artist/0HrsGmEpDafnFtECrKPyqd"
+        }
+      ],
+      "date_added": "2024-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252879,
+      "name": "Blank is",
+      "url": "https://open.spotify.com/track/39ySH2BjbOXKuxgmUFgomR"
     },
     {
       "album": {

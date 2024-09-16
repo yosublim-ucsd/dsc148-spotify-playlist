@@ -123,6 +123,30 @@
     {
       "added_at": "2024-08-16 20:28:24",
       "album": {
+        "name": "Conte\u00fado Expl\u00edcito, Pt. 1",
+        "url": "https://open.spotify.com/album/1WoPJwd3VWWp2BU0f8tFz3"
+      },
+      "artists": [
+        {
+          "name": "Cacife Clandestino",
+          "url": "https://open.spotify.com/artist/2RKcy8YT2w2QYn0D7TjiIi"
+        },
+        {
+          "name": "Felp 22",
+          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        }
+      ],
+      "duration_ms": 198805,
+      "name": "Vil\u00e3",
+      "url": "https://open.spotify.com/track/6u7Z4HEvyBO8r0wWhgFEho"
+    },
+    {
+      "added_at": "2024-08-16 20:28:24",
+      "album": {
         "name": "Contra N\u00f3s Ningu\u00e9m Ser\u00e1",
         "url": "https://open.spotify.com/album/23ieEuWkymGJWTP3PlXLRa"
       },
@@ -151,30 +175,6 @@
     {
       "added_at": "2024-08-16 20:28:24",
       "album": {
-        "name": "Conte\u00fado Expl\u00edcito, Pt. 1",
-        "url": "https://open.spotify.com/album/1WoPJwd3VWWp2BU0f8tFz3"
-      },
-      "artists": [
-        {
-          "name": "Cacife Clandestino",
-          "url": "https://open.spotify.com/artist/2RKcy8YT2w2QYn0D7TjiIi"
-        },
-        {
-          "name": "Felp 22",
-          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        }
-      ],
-      "duration_ms": 198805,
-      "name": "Vil\u00e3",
-      "url": "https://open.spotify.com/track/6u7Z4HEvyBO8r0wWhgFEho"
-    },
-    {
-      "added_at": "2024-08-16 20:28:24",
-      "album": {
         "name": "A Procura da Batida Perfeita",
         "url": "https://open.spotify.com/album/00J2Y1PJGdkxBhVMjjZ4uw"
       },
@@ -187,22 +187,6 @@
       "duration_ms": 184200,
       "name": "A Procura da Batida Perfeita",
       "url": "https://open.spotify.com/track/5RrGmkgqYdtpavrbDQhLMi"
-    },
-    {
-      "added_at": "2024-08-16 20:28:24",
-      "album": {
-        "name": "Nada Como um Dia Ap\u00f3s o Outro Dia, Vol. 1 & 2",
-        "url": "https://open.spotify.com/album/4HcPzKyKVtcZCwJgesoZWn"
-      },
-      "artists": [
-        {
-          "name": "Racionais MC's",
-          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
-        }
-      ],
-      "duration_ms": 303560,
-      "name": "Vida Loka, Pt. 1",
-      "url": "https://open.spotify.com/track/6m8AgjfI28ER6odzMxmHtR"
     },
     {
       "added_at": "2024-08-16 20:28:24",
@@ -227,6 +211,22 @@
       "duration_ms": 219466,
       "name": "CORRA",
       "url": "https://open.spotify.com/track/660jt1ifpZZJK6j4g9GX0Q"
+    },
+    {
+      "added_at": "2024-08-16 20:28:24",
+      "album": {
+        "name": "Nada Como um Dia Ap\u00f3s o Outro Dia, Vol. 1 & 2",
+        "url": "https://open.spotify.com/album/4HcPzKyKVtcZCwJgesoZWn"
+      },
+      "artists": [
+        {
+          "name": "Racionais MC's",
+          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
+        }
+      ],
+      "duration_ms": 303560,
+      "name": "Vida Loka, Pt. 1",
+      "url": "https://open.spotify.com/track/6m8AgjfI28ER6odzMxmHtR"
     },
     {
       "added_at": "2024-08-16 20:28:24",
@@ -303,6 +303,30 @@
       "duration_ms": 159730,
       "name": "Rosas e Rimas",
       "url": "https://open.spotify.com/track/1lg7G5zyf8apcquXJ7iPYR"
+    },
+    {
+      "added_at": "2024-08-16 20:28:24",
+      "album": {
+        "name": "Heresia",
+        "url": "https://open.spotify.com/album/2Mlk1lNZ2pzDxvLhLDVUw2"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        }
+      ],
+      "duration_ms": 223892,
+      "name": "O Mundo \u00e9 Nosso",
+      "url": "https://open.spotify.com/track/2DCmiAMyZGPLiDh47Upi9Z"
     },
     {
       "added_at": "2024-08-16 20:28:24",
@@ -427,26 +451,18 @@
     {
       "added_at": "2024-08-16 20:28:24",
       "album": {
-        "name": "Heresia",
-        "url": "https://open.spotify.com/album/2Mlk1lNZ2pzDxvLhLDVUw2"
+        "name": "Babylon By Gus Vol. 1 - o Ano do Macaco",
+        "url": "https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH"
       },
       "artists": [
         {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
         }
       ],
-      "duration_ms": 223892,
-      "name": "O Mundo \u00e9 Nosso",
-      "url": "https://open.spotify.com/track/2DCmiAMyZGPLiDh47Upi9Z"
+      "duration_ms": 256760,
+      "name": "Babylon By Gus",
+      "url": "https://open.spotify.com/track/4kDzgYkIVT1JHFpKZOPxGW"
     },
     {
       "added_at": "2024-08-16 20:28:24",
@@ -467,46 +483,6 @@
       "duration_ms": 239999,
       "name": "Mandona - Ac\u00fastico",
       "url": "https://open.spotify.com/track/0R4dwzW253KTxchGryT1H6"
-    },
-    {
-      "added_at": "2024-08-16 20:28:24",
-      "album": {
-        "name": "O L\u00edder em Movimento",
-        "url": "https://open.spotify.com/album/5YcCaIe5wa22O3vZsX0od5"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        },
-        {
-          "name": "Nansy Silvvz",
-          "url": "https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s"
-        }
-      ],
-      "duration_ms": 256161,
-      "name": "Universo",
-      "url": "https://open.spotify.com/track/5viYjPE1J4BxCwBeY5Jma1"
-    },
-    {
-      "added_at": "2024-08-16 20:28:24",
-      "album": {
-        "name": "Babylon By Gus Vol. 1 - o Ano do Macaco",
-        "url": "https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH"
-      },
-      "artists": [
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 256760,
-      "name": "Babylon By Gus",
-      "url": "https://open.spotify.com/track/4kDzgYkIVT1JHFpKZOPxGW"
     },
     {
       "added_at": "2024-08-16 20:28:24",
@@ -555,6 +531,30 @@
       "duration_ms": 145185,
       "name": "Nao Sei Mais",
       "url": "https://open.spotify.com/track/1M4q8oK4PlvHBvzgKs6e8O"
+    },
+    {
+      "added_at": "2024-08-16 20:28:24",
+      "album": {
+        "name": "O L\u00edder em Movimento",
+        "url": "https://open.spotify.com/album/5YcCaIe5wa22O3vZsX0od5"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        },
+        {
+          "name": "Nansy Silvvz",
+          "url": "https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s"
+        }
+      ],
+      "duration_ms": 256161,
+      "name": "Universo",
+      "url": "https://open.spotify.com/track/5viYjPE1J4BxCwBeY5Jma1"
     },
     {
       "added_at": "2024-08-16 20:28:24",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-08-16 20:28:24",
       "album": {
-        "name": "Oriente (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/4pRmsv8T3XHrdf7EgT9mRJ"
-      },
-      "artists": [
-        {
-          "name": "Oriente",
-          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
-        }
-      ],
-      "duration_ms": 529597,
-      "name": "Vagabundo Tamb\u00e9m Ama / Vida Longa Mundo Pequeno - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2DgQLg0xllUwBwAtMsYiNH"
-    },
-    {
-      "added_at": "2024-08-16 20:28:24",
-      "album": {
         "name": "NU",
         "url": "https://open.spotify.com/album/1BGWFAkM0Oz88Dq7v369eP"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 193799,
       "name": "N\u00f3s",
       "url": "https://open.spotify.com/track/1yHEBmkI2j3lhlVLU8yuTl"
+    },
+    {
+      "added_at": "2024-08-16 20:28:24",
+      "album": {
+        "name": "Oriente (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/4pRmsv8T3XHrdf7EgT9mRJ"
+      },
+      "artists": [
+        {
+          "name": "Oriente",
+          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
+        }
+      ],
+      "duration_ms": 529597,
+      "name": "Vagabundo Tamb\u00e9m Ama / Vida Longa Mundo Pequeno - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2DgQLg0xllUwBwAtMsYiNH"
     },
     {
       "added_at": "2024-08-16 20:28:24",
@@ -711,30 +711,6 @@
       "duration_ms": 272004,
       "name": "Sensa\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/6wqRHXRG301Xedy3wBCCwo"
-    },
-    {
-      "added_at": "2024-08-16 20:28:24",
-      "album": {
-        "name": "Roteiro Pra A\u00efnouz (Vol. 3)",
-        "url": "https://open.spotify.com/album/7hUHxgR9xS4sDrnsfPTtQW"
-      },
-      "artists": [
-        {
-          "name": "Don L",
-          "url": "https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu"
-        },
-        {
-          "name": "Nego Gallo",
-          "url": "https://open.spotify.com/artist/4nOrR26qgm2LzspkdRPdpq"
-        },
-        {
-          "name": "DJ Caique",
-          "url": "https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM"
-        }
-      ],
-      "duration_ms": 368024,
-      "name": "Aquela F\u00e9",
-      "url": "https://open.spotify.com/track/2HunnLQdWqDFTTKXd8PP5r"
     },
     {
       "added_at": "2024-08-16 20:28:24",
@@ -795,6 +771,30 @@
       "duration_ms": 181373,
       "name": "Como Deus Quiser",
       "url": "https://open.spotify.com/track/72ZGT5dwrp7lZ40ums6dHi"
+    },
+    {
+      "added_at": "2024-08-16 20:28:24",
+      "album": {
+        "name": "Roteiro Pra A\u00efnouz (Vol. 3)",
+        "url": "https://open.spotify.com/album/7hUHxgR9xS4sDrnsfPTtQW"
+      },
+      "artists": [
+        {
+          "name": "Don L",
+          "url": "https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu"
+        },
+        {
+          "name": "Nego Gallo",
+          "url": "https://open.spotify.com/artist/4nOrR26qgm2LzspkdRPdpq"
+        },
+        {
+          "name": "DJ Caique",
+          "url": "https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM"
+        }
+      ],
+      "duration_ms": 368024,
+      "name": "Aquela F\u00e9",
+      "url": "https://open.spotify.com/track/2HunnLQdWqDFTTKXd8PP5r"
     },
     {
       "added_at": "2024-08-16 20:28:24",
@@ -939,26 +939,6 @@
     {
       "added_at": "2024-08-16 20:28:24",
       "album": {
-        "name": "Kyoto",
-        "url": "https://open.spotify.com/album/60ye625Zeu700pj82Zgx5q"
-      },
-      "artists": [
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
-          "name": "Alaska",
-          "url": "https://open.spotify.com/artist/1D8yVlgOfpn6lW5UfwOMj7"
-        }
-      ],
-      "duration_ms": 186709,
-      "name": "Kyoto",
-      "url": "https://open.spotify.com/track/32XOaqmQqFWggQzrwGSuRn"
-    },
-    {
-      "added_at": "2024-08-16 20:28:24",
-      "album": {
         "name": "Malvad\u00e3o",
         "url": "https://open.spotify.com/album/2bRHA2sbwWGnRXuSEYc6Zq"
       },
@@ -999,18 +979,22 @@
     {
       "added_at": "2024-08-16 20:28:24",
       "album": {
-        "name": "Eletrocardiograma",
-        "url": "https://open.spotify.com/album/0M7Qar3a31HBBUGBREC4rg"
+        "name": "Kyoto",
+        "url": "https://open.spotify.com/album/60ye625Zeu700pj82Zgx5q"
       },
       "artists": [
         {
-          "name": "Flora Matos",
-          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Alaska",
+          "url": "https://open.spotify.com/artist/1D8yVlgOfpn6lW5UfwOMj7"
         }
       ],
-      "duration_ms": 224272,
-      "name": "Bora Dan\u00e7ar",
-      "url": "https://open.spotify.com/track/00XfUDUYQJ2hgG0vKpdwa6"
+      "duration_ms": 186709,
+      "name": "Kyoto",
+      "url": "https://open.spotify.com/track/32XOaqmQqFWggQzrwGSuRn"
     },
     {
       "added_at": "2024-08-16 20:28:24",
@@ -1083,6 +1067,22 @@
       "duration_ms": 186666,
       "name": "Dior",
       "url": "https://open.spotify.com/track/6iIN2VXurWz90YBHXOIziD"
+    },
+    {
+      "added_at": "2024-08-16 20:28:24",
+      "album": {
+        "name": "Eletrocardiograma",
+        "url": "https://open.spotify.com/album/0M7Qar3a31HBBUGBREC4rg"
+      },
+      "artists": [
+        {
+          "name": "Flora Matos",
+          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
+        }
+      ],
+      "duration_ms": 224272,
+      "name": "Bora Dan\u00e7ar",
+      "url": "https://open.spotify.com/track/00XfUDUYQJ2hgG0vKpdwa6"
     },
     {
       "added_at": "2024-08-16 20:28:24",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-08-16 20:28:24",
       "album": {
-        "name": "No Princi\u0301pio Era o Verbo - Babylon by Gus, Vol. II",
-        "url": "https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN"
-      },
-      "artists": [
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 191981,
-      "name": "Rolo Compressor",
-      "url": "https://open.spotify.com/track/5wFUgWRIVGPr0RnidObdEc"
-    },
-    {
-      "added_at": "2024-08-16 20:28:24",
-      "album": {
         "name": "Eu Tiro \u00c9 Onda (Remix)",
         "url": "https://open.spotify.com/album/46mzP0WCiw6q1zbd31AWoa"
       },
@@ -1267,6 +1251,38 @@
       "duration_ms": 174725,
       "name": "Eu Tiro \u00c9 Onda - Remix",
       "url": "https://open.spotify.com/track/7rY8HdRaxTUcJIP5ZV3Y5A"
+    },
+    {
+      "added_at": "2024-08-16 20:28:24",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/09pLe9TmUD5UxYWiWqjBqf"
+      },
+      "artists": [
+        {
+          "name": "Entre Linhas",
+          "url": "https://open.spotify.com/artist/0JGXguxnX2MUk3joFyJPjX"
+        },
+        {
+          "name": "Kuririn",
+          "url": "https://open.spotify.com/artist/6R85n4akSmUKlnYZ2QnzmC"
+        },
+        {
+          "name": "Kweller",
+          "url": "https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07"
+        },
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/6g0nBehL70Q9AW8jozS0JS"
+        },
+        {
+          "name": "Jay Kay",
+          "url": "https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki"
+        }
+      ],
+      "duration_ms": 217392,
+      "name": "Cake",
+      "url": "https://open.spotify.com/track/4c98woI6F0ptrGFyK8O1m2"
     }
   ],
   "unique_name": "Cole\u00e7\u00e3o Hip Hop",

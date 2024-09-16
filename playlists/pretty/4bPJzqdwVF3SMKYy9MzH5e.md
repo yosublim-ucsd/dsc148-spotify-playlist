@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,958 songs - 4 day 9 hr 20 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,959 songs - 4 day 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1966,5 +1966,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1956 | [Mirage](https://open.spotify.com/track/1w327AHTCoChRIkJUprAnV) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [A Collection of Fleeting Moments and Daydreams](https://open.spotify.com/album/1Ckbuzoh1dYKFnpNYmVEof) | 0:57 |
 | 1957 | [Mastercard](https://open.spotify.com/track/4DCm1yyODwqULv5zOb1mkW) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec) | [Mastercard](https://open.spotify.com/album/6jJkHZaIS3bBXBaafuY17p) | 3:19 |
 | 1958 | [PRIVET PRIVET 2009 ST](https://open.spotify.com/track/5S3g79HZI1lA7qEr1wBEni) | [Luke Willies](https://open.spotify.com/artist/3uIws1bbX1b53e0xJpz94r) | [PRIVET PRIVET 2009 ST](https://open.spotify.com/album/2sAFkotFrDHE5ZFPSDnM9z) | 1:34 |
+| 1959 | [Talk talk featuring troye sivan](https://open.spotify.com/track/2LUD3874dlzeRa34Hi7ohW) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Talk talk featuring troye sivan](https://open.spotify.com/album/4hSYRtDjN1XbTqBKTw33sj) | 2:53 |
 
-Snapshot ID: `AAADTo2OJadIwtKmGla0VohgryQ50xgm`
+Snapshot ID: `AAADT1PZo8LBsMFznoy3mK52LeXWWOk6`

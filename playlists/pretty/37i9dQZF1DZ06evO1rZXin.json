@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Vallarta Show. The essential tracks, all in one playlist.",
-  "num_followers": 6154,
+  "num_followers": 6156,
   "original_name": "This Is Banda Vallarta Show",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuOAgAAAAABxyQ24R0CMpWXrD0VQNVsx",
+  "snapshot_id": "ZuTSAAAAAABvfLKz26kZaqAaQp10dyoy",
   "tracks": [
     {
       "added_at": null,
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 173000,
-      "name": "El Jaripeo",
-      "url": "https://open.spotify.com/track/6G1a8yaZabFLVI1LNA5WHz"
+      "duration_ms": 155000,
+      "name": "El Mero Mero",
+      "url": "https://open.spotify.com/track/5ilob0TpOQa1bPb5it9JM0"
     },
     {
       "added_at": null,
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 155000,
-      "name": "El Mero Mero",
-      "url": "https://open.spotify.com/track/5ilob0TpOQa1bPb5it9JM0"
+      "duration_ms": 173000,
+      "name": "El Jaripeo",
+      "url": "https://open.spotify.com/track/6G1a8yaZabFLVI1LNA5WHz"
     },
     {
       "added_at": null,

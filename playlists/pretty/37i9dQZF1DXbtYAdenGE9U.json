@@ -1,6 +1,6 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 603096,
+  "num_followers": 603298,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
@@ -223,26 +223,6 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/1olrz5rnUp5iYb1KEztPVU"
-      },
-      "artists": [
-        {
-          "name": "Sash!",
-          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
-        },
-        {
-          "name": "La Trec",
-          "url": "https://open.spotify.com/artist/744Aa9RuKugKrpF6nt1kbv"
-        }
-      ],
-      "duration_ms": 212560,
-      "name": "Stay - Original Single Edit",
-      "url": "https://open.spotify.com/track/26oBh1fvCfQ5ZaBAgwnLAw"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
         "name": "Airwave",
         "url": "https://open.spotify.com/album/3NzdpoQtPQVRckK9opV5v8"
       },
@@ -271,6 +251,26 @@
       "duration_ms": 259200,
       "name": "Feel the Beat",
       "url": "https://open.spotify.com/track/5BZx0wikkFZF2BnaIo2qTy"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/1olrz5rnUp5iYb1KEztPVU"
+      },
+      "artists": [
+        {
+          "name": "Sash!",
+          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
+        },
+        {
+          "name": "La Trec",
+          "url": "https://open.spotify.com/artist/744Aa9RuKugKrpF6nt1kbv"
+        }
+      ],
+      "duration_ms": 212560,
+      "name": "Stay - Original Single Edit",
+      "url": "https://open.spotify.com/track/26oBh1fvCfQ5ZaBAgwnLAw"
     },
     {
       "added_at": "2024-07-23 09:55:55",
@@ -847,26 +847,6 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
-        "name": "Brave New World (The Opera Song)",
-        "url": "https://open.spotify.com/album/2SMRBYdW58eRRemc4oCZdX"
-      },
-      "artists": [
-        {
-          "name": "Jurgen Vries",
-          "url": "https://open.spotify.com/artist/3CMfhOqeai5QgtAWMqrRjg"
-        },
-        {
-          "name": "CMC",
-          "url": "https://open.spotify.com/artist/6AqyB5I1Cm0tWZkDFrZZFm"
-        }
-      ],
-      "duration_ms": 212658,
-      "name": "The Opera Song (Brave New World)",
-      "url": "https://open.spotify.com/track/5bdmsMmb8uYt7TKrfNYEdy"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
         "name": "A State Of Trance 1000 - Celebration Mix (Selected by Armin van Buuren)",
         "url": "https://open.spotify.com/album/5uaA8MAWIlzcvaH3770kaX"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 236521,
       "name": "ResuRection - Paul Oakenfold Full On Fluoro Mix",
       "url": "https://open.spotify.com/track/7yLvQTsNQALncCJdFdzqB2"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
+        "name": "Brave New World (The Opera Song)",
+        "url": "https://open.spotify.com/album/2SMRBYdW58eRRemc4oCZdX"
+      },
+      "artists": [
+        {
+          "name": "Jurgen Vries",
+          "url": "https://open.spotify.com/artist/3CMfhOqeai5QgtAWMqrRjg"
+        },
+        {
+          "name": "CMC",
+          "url": "https://open.spotify.com/artist/6AqyB5I1Cm0tWZkDFrZZFm"
+        }
+      ],
+      "duration_ms": 212658,
+      "name": "The Opera Song (Brave New World)",
+      "url": "https://open.spotify.com/track/5bdmsMmb8uYt7TKrfNYEdy"
     },
     {
       "added_at": "2024-07-23 09:55:55",

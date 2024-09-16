@@ -1562,7 +1562,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-16",
       "duration_ms": 207544,
       "name": "La Sal",
       "url": "https://open.spotify.com/track/3L2wfB3OYUvpbg2hm9gHEs"
@@ -2836,6 +2836,28 @@
       "duration_ms": 214986,
       "name": "Tu Nombre - En Vivo En El Gran Rex / 2015",
       "url": "https://open.spotify.com/track/5PMq23GYtgnhjad5cqvf38"
+    },
+    {
+      "album": {
+        "name": "Tu querer (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/12d5q0tkJ8A0XZQHqcHa6D"
+      },
+      "artists": [
+        {
+          "name": "Paz Carrara",
+          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
+        },
+        {
+          "name": "Plastilina",
+          "url": "https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160181,
+      "name": "Tu querer - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0Aau0spFV4q0bVePf6NJF1"
     },
     {
       "album": {

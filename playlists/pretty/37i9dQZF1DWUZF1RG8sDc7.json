@@ -1,6 +1,6 @@
 {
   "description": "Porque el coraz\u00f3n habla vallenato. \u00a1Ay ombe!",
-  "num_followers": 132258,
+  "num_followers": 132354,
   "original_name": "Vallenato Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
@@ -259,8 +259,8 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Son Para El Mundo",
-        "url": "https://open.spotify.com/album/3ZEyQVpEzDl18okCH0jsj3"
+        "name": "Ll\u00e9vame En Tus Sue\u00f1os",
+        "url": "https://open.spotify.com/album/0U918JSG8hJ9kb3R3geWlA"
       },
       "artists": [
         {
@@ -272,9 +272,9 @@
           "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
         }
       ],
-      "duration_ms": 237800,
-      "name": "Esta Vida",
-      "url": "https://open.spotify.com/track/367Cb3sFU9yiHJ9T3vciHk"
+      "duration_ms": 318133,
+      "name": "No Podr\u00e1n Separarnos",
+      "url": "https://open.spotify.com/track/2DlBKIc6XugYSmhP75h1BF"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -299,6 +299,22 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
+        "name": "Ave Libre",
+        "url": "https://open.spotify.com/album/0Wx044oRIRg2kvaJ6H9rsn"
+      },
+      "artists": [
+        {
+          "name": "Jean Carlos Centeno",
+          "url": "https://open.spotify.com/artist/2w1UJL5kYJJkvjo71fQjOB"
+        }
+      ],
+      "duration_ms": 293440,
+      "name": "Lo Busqu\u00e9",
+      "url": "https://open.spotify.com/track/0kUMc8s2EwaOg0XAv5lCnA"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
         "name": "Diferente",
         "url": "https://open.spotify.com/album/6GQZroG4H7wW0UrX12P3Kp"
       },
@@ -319,22 +335,6 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Ave Libre",
-        "url": "https://open.spotify.com/album/0Wx044oRIRg2kvaJ6H9rsn"
-      },
-      "artists": [
-        {
-          "name": "Jean Carlos Centeno",
-          "url": "https://open.spotify.com/artist/2w1UJL5kYJJkvjo71fQjOB"
-        }
-      ],
-      "duration_ms": 293440,
-      "name": "Lo Busqu\u00e9",
-      "url": "https://open.spotify.com/track/0kUMc8s2EwaOg0XAv5lCnA"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
         "name": "Eternamente",
         "url": "https://open.spotify.com/album/0xsLFXW6C2juv4RIGc57Xi"
       },
@@ -347,26 +347,6 @@
       "duration_ms": 306226,
       "name": "Ella Era Todo",
       "url": "https://open.spotify.com/track/1MldC2AUalcu3fYRFHalHS"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "Ll\u00e9vame En Tus Sue\u00f1os",
-        "url": "https://open.spotify.com/album/0U918JSG8hJ9kb3R3geWlA"
-      },
-      "artists": [
-        {
-          "name": "Jorge Celed\u00f3n",
-          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
-        },
-        {
-          "name": "Jimmy Zambrano",
-          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
-        }
-      ],
-      "duration_ms": 318133,
-      "name": "No Podr\u00e1n Separarnos",
-      "url": "https://open.spotify.com/track/2DlBKIc6XugYSmhP75h1BF"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -423,6 +403,46 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
+        "name": "Felipe Pel\u00e1ez 30 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/0f5F611gI9fLfW7N9wr5Zw"
+      },
+      "artists": [
+        {
+          "name": "Felipe Pel\u00e1ez",
+          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
+        },
+        {
+          "name": "Zabaleta",
+          "url": "https://open.spotify.com/artist/234WpokzuaWmbfhdocebBU"
+        }
+      ],
+      "duration_ms": 275186,
+      "name": "El Amor M\u00e1s Grande del Planeta",
+      "url": "https://open.spotify.com/track/1NUCgLFBPg0R4B6IPUcieM"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "Son Para El Mundo",
+        "url": "https://open.spotify.com/album/3ZEyQVpEzDl18okCH0jsj3"
+      },
+      "artists": [
+        {
+          "name": "Jorge Celed\u00f3n",
+          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
+        },
+        {
+          "name": "Jimmy Zambrano",
+          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
+        }
+      ],
+      "duration_ms": 237800,
+      "name": "Esta Vida",
+      "url": "https://open.spotify.com/track/367Cb3sFU9yiHJ9T3vciHk"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
         "name": "Coleccion Top 50",
         "url": "https://open.spotify.com/album/6C1Kx81vuSDKo3V1r0DLMY"
       },
@@ -459,22 +479,22 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Felipe Pel\u00e1ez 30 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/0f5F611gI9fLfW7N9wr5Zw"
+        "name": "Volando Alto",
+        "url": "https://open.spotify.com/album/0ayIAUZtT7tjy6tBk9i303"
       },
       "artists": [
         {
-          "name": "Felipe Pel\u00e1ez",
-          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
+          "name": "Los Chiches Vallenatos",
+          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
         },
         {
-          "name": "Zabaleta",
-          "url": "https://open.spotify.com/artist/234WpokzuaWmbfhdocebBU"
+          "name": "Amin Martinez",
+          "url": "https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi"
         }
       ],
-      "duration_ms": 275186,
-      "name": "El Amor M\u00e1s Grande del Planeta",
-      "url": "https://open.spotify.com/track/1NUCgLFBPg0R4B6IPUcieM"
+      "duration_ms": 315087,
+      "name": "El Amor Es Perd\u00f3n y Algo M\u00e1s",
+      "url": "https://open.spotify.com/track/6vWblQzMbEMXKq6uZMimhO"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -491,6 +511,26 @@
       "duration_ms": 277106,
       "name": "Cuando lleguen los millones",
       "url": "https://open.spotify.com/track/6RbTILaocvHxdrgLUYS8Mi"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "A Mi Manera",
+        "url": "https://open.spotify.com/album/6kpMEptxTLyqUZ1yjIqKTt"
+      },
+      "artists": [
+        {
+          "name": "Felipe Pel\u00e1ez",
+          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
+        },
+        {
+          "name": "Zabaleta",
+          "url": "https://open.spotify.com/artist/234WpokzuaWmbfhdocebBU"
+        }
+      ],
+      "duration_ms": 287346,
+      "name": "Te Amo y Te Amo",
+      "url": "https://open.spotify.com/track/1oGQsCmd5B0AyqX1YW0Qm7"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -531,46 +571,6 @@
       "duration_ms": 283186,
       "name": "Te Perdone",
       "url": "https://open.spotify.com/track/37Mws624mZBifGxHhg6bcq"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "Volando Alto",
-        "url": "https://open.spotify.com/album/0ayIAUZtT7tjy6tBk9i303"
-      },
-      "artists": [
-        {
-          "name": "Los Chiches Vallenatos",
-          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
-        },
-        {
-          "name": "Amin Martinez",
-          "url": "https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi"
-        }
-      ],
-      "duration_ms": 315087,
-      "name": "El Amor Es Perd\u00f3n y Algo M\u00e1s",
-      "url": "https://open.spotify.com/track/6vWblQzMbEMXKq6uZMimhO"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "A Mi Manera",
-        "url": "https://open.spotify.com/album/6kpMEptxTLyqUZ1yjIqKTt"
-      },
-      "artists": [
-        {
-          "name": "Felipe Pel\u00e1ez",
-          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
-        },
-        {
-          "name": "Zabaleta",
-          "url": "https://open.spotify.com/artist/234WpokzuaWmbfhdocebBU"
-        }
-      ],
-      "duration_ms": 287346,
-      "name": "Te Amo y Te Amo",
-      "url": "https://open.spotify.com/track/1oGQsCmd5B0AyqX1YW0Qm7"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -651,26 +651,6 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "\u00a1Juepa Je!",
-        "url": "https://open.spotify.com/album/1OB90EcEUuYoDRl3izM5b4"
-      },
-      "artists": [
-        {
-          "name": "Jorge Celed\u00f3n",
-          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
-        },
-        {
-          "name": "Jimmy Zambrano",
-          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
-        }
-      ],
-      "duration_ms": 294466,
-      "name": "El Invierno Pasado",
-      "url": "https://open.spotify.com/track/11LPNeouMLQ3GZM4IUHPWF"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
         "name": "Ya No Me Duele M\u00e1s",
         "url": "https://open.spotify.com/album/0eUcBIlIkSckfugOOwJLkL"
       },
@@ -683,6 +663,42 @@
       "duration_ms": 226731,
       "name": "Ya No Me Duele M\u00e1s",
       "url": "https://open.spotify.com/track/0n2npnG9p4XnPAopv39USd"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "Diferente",
+        "url": "https://open.spotify.com/album/6GQZroG4H7wW0UrX12P3Kp"
+      },
+      "artists": [
+        {
+          "name": "Felipe Pel\u00e1ez",
+          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
+        },
+        {
+          "name": "Manuel Juli\u00e1n",
+          "url": "https://open.spotify.com/artist/5N73Yokp47tjesghCSGnNC"
+        }
+      ],
+      "duration_ms": 249560,
+      "name": "Mi Celosa Hermosa",
+      "url": "https://open.spotify.com/track/2qBYoUdefV0JufBpNCGor1"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/3ui3NqdgXUaDc39zH3wfqC"
+      },
+      "artists": [
+        {
+          "name": "Patricia Teher\u00e1n",
+          "url": "https://open.spotify.com/artist/2pctdrQetn7EI0QpCm9RIF"
+        }
+      ],
+      "duration_ms": 293929,
+      "name": "Tarde Lo Conoci",
+      "url": "https://open.spotify.com/track/5BSjmkw4rsuZrCAKHg2LEc"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -707,22 +723,6 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/3ui3NqdgXUaDc39zH3wfqC"
-      },
-      "artists": [
-        {
-          "name": "Patricia Teher\u00e1n",
-          "url": "https://open.spotify.com/artist/2pctdrQetn7EI0QpCm9RIF"
-        }
-      ],
-      "duration_ms": 293929,
-      "name": "Tarde Lo Conoci",
-      "url": "https://open.spotify.com/track/5BSjmkw4rsuZrCAKHg2LEc"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
         "name": "Clasicos de la Provincia",
         "url": "https://open.spotify.com/album/2WtC5PE25yxWNPpAinn2in"
       },
@@ -739,22 +739,22 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Diferente",
-        "url": "https://open.spotify.com/album/6GQZroG4H7wW0UrX12P3Kp"
+        "name": "\u00a1Juepa Je!",
+        "url": "https://open.spotify.com/album/1OB90EcEUuYoDRl3izM5b4"
       },
       "artists": [
         {
-          "name": "Felipe Pel\u00e1ez",
-          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
+          "name": "Jorge Celed\u00f3n",
+          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
         },
         {
-          "name": "Manuel Juli\u00e1n",
-          "url": "https://open.spotify.com/artist/5N73Yokp47tjesghCSGnNC"
+          "name": "Jimmy Zambrano",
+          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
         }
       ],
-      "duration_ms": 249560,
-      "name": "Mi Celosa Hermosa",
-      "url": "https://open.spotify.com/track/2qBYoUdefV0JufBpNCGor1"
+      "duration_ms": 294466,
+      "name": "El Invierno Pasado",
+      "url": "https://open.spotify.com/track/11LPNeouMLQ3GZM4IUHPWF"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Los 50 vallenatos m\u00e1s recordados, dedicados, vendidos y sonados",
-        "url": "https://open.spotify.com/album/0GWpPeth4xZ57rVzXsOzam"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Gutierrez",
-          "url": "https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A"
-        }
-      ],
-      "duration_ms": 178226,
-      "name": "Anhelos",
-      "url": "https://open.spotify.com/track/0WeQDKg5LkQCn3LuplSjgH"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
         "name": "Con Encanto Juvenil",
         "url": "https://open.spotify.com/album/1s1TCQtgacmElBiT55Dl6X"
       },
@@ -935,6 +919,22 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
+        "name": "Los 50 vallenatos m\u00e1s recordados, dedicados, vendidos y sonados",
+        "url": "https://open.spotify.com/album/0GWpPeth4xZ57rVzXsOzam"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Gutierrez",
+          "url": "https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A"
+        }
+      ],
+      "duration_ms": 178226,
+      "name": "Anhelos",
+      "url": "https://open.spotify.com/track/0WeQDKg5LkQCn3LuplSjgH"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
         "name": "Rafael Orozco El \u00cddolo de Siempre",
         "url": "https://open.spotify.com/album/3OOfzYCpcJBvIWt4rAN6HX"
       },
@@ -947,22 +947,6 @@
       "duration_ms": 264720,
       "name": "Sombra Perdida",
       "url": "https://open.spotify.com/track/6CfZqZsIyWKrYGebzivkV6"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "Son los Gigantes",
-        "url": "https://open.spotify.com/album/0Z2iq6VX08puUldiB6Nkfu"
-      },
-      "artists": [
-        {
-          "name": "Los Gigantes Del Vallenato",
-          "url": "https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt"
-        }
-      ],
-      "duration_ms": 279200,
-      "name": "Vivo por Ti",
-      "url": "https://open.spotify.com/track/4YtHcEWXyGYpqhNfBEf9c6"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -983,6 +967,22 @@
       "duration_ms": 257642,
       "name": "Muchacha Encantadora",
       "url": "https://open.spotify.com/track/4M3WYnhqRxRSoWTGjhrUtr"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "Son los Gigantes",
+        "url": "https://open.spotify.com/album/0Z2iq6VX08puUldiB6Nkfu"
+      },
+      "artists": [
+        {
+          "name": "Los Gigantes Del Vallenato",
+          "url": "https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt"
+        }
+      ],
+      "duration_ms": 279200,
+      "name": "Vivo por Ti",
+      "url": "https://open.spotify.com/track/4YtHcEWXyGYpqhNfBEf9c6"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
+        "name": "Adi\u00f3s A La Diosa",
+        "url": "https://open.spotify.com/album/5ErmSBv1MCqT8Ch0O7V0Tc"
+      },
+      "artists": [
+        {
+          "name": "Patricia Teher\u00e1n",
+          "url": "https://open.spotify.com/artist/2pctdrQetn7EI0QpCm9RIF"
+        }
+      ],
+      "duration_ms": 277000,
+      "name": "Me Dejaste Sin Nada",
+      "url": "https://open.spotify.com/track/2DKDPVThEQQt4xjQO3qxgw"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
         "name": "Rafael Orozco El \u00cddolo de Siempre",
         "url": "https://open.spotify.com/album/3OOfzYCpcJBvIWt4rAN6HX"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 304560,
       "name": "Olv\u00eddala",
       "url": "https://open.spotify.com/track/0QUnzLeB2USzFv8OqJe8S8"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "Adi\u00f3s A La Diosa",
-        "url": "https://open.spotify.com/album/5ErmSBv1MCqT8Ch0O7V0Tc"
-      },
-      "artists": [
-        {
-          "name": "Patricia Teher\u00e1n",
-          "url": "https://open.spotify.com/artist/2pctdrQetn7EI0QpCm9RIF"
-        }
-      ],
-      "duration_ms": 277000,
-      "name": "Me Dejaste Sin Nada",
-      "url": "https://open.spotify.com/track/2DKDPVThEQQt4xjQO3qxgw"
     },
     {
       "added_at": "2024-03-28 01:45:52",

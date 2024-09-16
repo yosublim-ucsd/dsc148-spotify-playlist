@@ -1,12 +1,12 @@
 {
   "description": "This Is Alcolirykoz. Los temas esenciales, todos en una lista.",
-  "num_followers": 49170,
+  "num_followers": 49201,
   "original_name": "This Is Alcolirykoz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuOAgAAAAABi/e9UdtdOJJI4ZcIQ9UNy",
+  "snapshot_id": "ZuTSAAAAAABQEK2ZjmAv2fD4exGRF9hL",
   "tracks": [
     {
       "added_at": null,
@@ -678,11 +678,15 @@
         {
           "name": "Alcolirykoz",
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        },
+        {
+          "name": "Gordo Sarkasmus",
+          "url": "https://open.spotify.com/artist/38N7geKwv6xd2fESw199BD"
         }
       ],
-      "duration_ms": 228626,
-      "name": "Balada para No Dormir - Bonus Track",
-      "url": "https://open.spotify.com/track/1HE0o9BFJ0alWtLdi1fXfY"
+      "duration_ms": 215160,
+      "name": "Rifo los Lunes",
+      "url": "https://open.spotify.com/track/66IPFhhD4eLjUht9WD4b9p"
     },
     {
       "added_at": null,
@@ -746,15 +750,11 @@
         {
           "name": "Alcolirykoz",
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        },
-        {
-          "name": "Gordo Sarkasmus",
-          "url": "https://open.spotify.com/artist/38N7geKwv6xd2fESw199BD"
         }
       ],
-      "duration_ms": 215160,
-      "name": "Rifo los Lunes",
-      "url": "https://open.spotify.com/track/66IPFhhD4eLjUht9WD4b9p"
+      "duration_ms": 228626,
+      "name": "Balada para No Dormir - Bonus Track",
+      "url": "https://open.spotify.com/track/1HE0o9BFJ0alWtLdi1fXfY"
     },
     {
       "added_at": null,

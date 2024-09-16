@@ -1,6 +1,6 @@
 {
   "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
-  "num_followers": 72216,
+  "num_followers": 72299,
   "original_name": "100 Best African Love Songs ",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Rhythm & Blues",
-        "url": "https://open.spotify.com/album/5avPK0nUF9JHE01pCFW0mB"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 144026,
-      "name": "Rhythm & Blues",
-      "url": "https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Paris",
         "url": "https://open.spotify.com/album/7g3LFWfWuAdhaDt49N0cuM"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 257959,
       "name": "Paris",
       "url": "https://open.spotify.com/track/7JbLSEDlRdoJaXk5ddZae2"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Rhythm & Blues",
+        "url": "https://open.spotify.com/album/5avPK0nUF9JHE01pCFW0mB"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 144026,
+      "name": "Rhythm & Blues",
+      "url": "https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -523,26 +523,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Ngimtholile",
-        "url": "https://open.spotify.com/album/4QD2ETs2brilp1iVISIcNP"
-      },
-      "artists": [
-        {
-          "name": "Maverick Muji",
-          "url": "https://open.spotify.com/artist/3cKNrj7HVDPesBMpcHUI3o"
-        },
-        {
-          "name": "Nonny",
-          "url": "https://open.spotify.com/artist/2E5AfaDEL93X1TicLkBO2G"
-        }
-      ],
-      "duration_ms": 244062,
-      "name": "Ngimtholile",
-      "url": "https://open.spotify.com/track/4XQNZPkMyo1LxR3NYbVegt"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "DaKAR II",
         "url": "https://open.spotify.com/album/0dVMCPy4qwJoVxHP3qVgHC"
       },
@@ -563,18 +543,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Seasons",
-        "url": "https://open.spotify.com/album/7K4KWIiH8u4q319jECEwAZ"
+        "name": "Ngimtholile",
+        "url": "https://open.spotify.com/album/4QD2ETs2brilp1iVISIcNP"
       },
       "artists": [
         {
-          "name": "Lloyiso",
-          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
+          "name": "Maverick Muji",
+          "url": "https://open.spotify.com/artist/3cKNrj7HVDPesBMpcHUI3o"
+        },
+        {
+          "name": "Nonny",
+          "url": "https://open.spotify.com/artist/2E5AfaDEL93X1TicLkBO2G"
         }
       ],
-      "duration_ms": 227460,
-      "name": "Let Me Love You Now",
-      "url": "https://open.spotify.com/track/6EOTIOmlG2jZDw69KMmAH1"
+      "duration_ms": 244062,
+      "name": "Ngimtholile",
+      "url": "https://open.spotify.com/track/4XQNZPkMyo1LxR3NYbVegt"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -595,6 +579,22 @@
       "duration_ms": 223166,
       "name": "Can't Let You Go (feat. King Promise)",
       "url": "https://open.spotify.com/track/60HGKB4wbcZhClLTYIjzNw"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/7K4KWIiH8u4q319jECEwAZ"
+      },
+      "artists": [
+        {
+          "name": "Lloyiso",
+          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
+        }
+      ],
+      "duration_ms": 227460,
+      "name": "Let Me Love You Now",
+      "url": "https://open.spotify.com/track/6EOTIOmlG2jZDw69KMmAH1"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Midnight Train",
-        "url": "https://open.spotify.com/album/2R0nfEjaMFMb8qyPnQmDzK"
-      },
-      "artists": [
-        {
-          "name": "Sauti Sol",
-          "url": "https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo"
-        }
-      ],
-      "duration_ms": 237868,
-      "name": "Feel My Love",
-      "url": "https://open.spotify.com/track/7MJias3z7sLBVROiX9yb7m"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Touch My Blood",
         "url": "https://open.spotify.com/album/1cCpD6ImDJDP1nrsZVhV7O"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 304140,
       "name": "Jika",
       "url": "https://open.spotify.com/track/5CaUga1xSORieHUwZ5urnG"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Midnight Train",
+        "url": "https://open.spotify.com/album/2R0nfEjaMFMb8qyPnQmDzK"
+      },
+      "artists": [
+        {
+          "name": "Sauti Sol",
+          "url": "https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo"
+        }
+      ],
+      "duration_ms": 237868,
+      "name": "Feel My Love",
+      "url": "https://open.spotify.com/track/7MJias3z7sLBVROiX9yb7m"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Hawataweza",
-        "url": "https://open.spotify.com/album/5DS0VEV7sltoi329nDx1I0"
-      },
-      "artists": [
-        {
-          "name": "Wanavokali",
-          "url": "https://open.spotify.com/artist/0JeZtZ5PnJVYLsXDZsKKMP"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Hawataweza",
-      "url": "https://open.spotify.com/track/4P94MmzUvIwY3Jc6X4mzN0"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Malaika",
         "url": "https://open.spotify.com/album/1BNliBcI4tJ0g8t81w8n7z"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 442533,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/5mLqm5pmZozHmJltZrlUVT"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Hawataweza",
+        "url": "https://open.spotify.com/album/5DS0VEV7sltoi329nDx1I0"
+      },
+      "artists": [
+        {
+          "name": "Wanavokali",
+          "url": "https://open.spotify.com/artist/0JeZtZ5PnJVYLsXDZsKKMP"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Hawataweza",
+      "url": "https://open.spotify.com/track/4P94MmzUvIwY3Jc6X4mzN0"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1379,26 +1379,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Don't Keep Me Waiting",
-        "url": "https://open.spotify.com/album/0DwcT9VT9F293ojbvOaVzR"
-      },
-      "artists": [
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        },
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        }
-      ],
-      "duration_ms": 227864,
-      "name": "Don't Keep Me Waiting",
-      "url": "https://open.spotify.com/track/13TEzGeUmbKSyyZjDv6ygG"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Ebusuku",
         "url": "https://open.spotify.com/album/0HQ1l9VkXO0eXVCjGCophv"
       },
@@ -1427,6 +1407,26 @@
       "duration_ms": 293711,
       "name": "Thojana Ya Thesele",
       "url": "https://open.spotify.com/track/4DGI935vWIZhSAkL2KWPZg"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Don't Keep Me Waiting",
+        "url": "https://open.spotify.com/album/0DwcT9VT9F293ojbvOaVzR"
+      },
+      "artists": [
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        },
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "duration_ms": 227864,
+      "name": "Don't Keep Me Waiting",
+      "url": "https://open.spotify.com/track/13TEzGeUmbKSyyZjDv6ygG"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Uliza Kiatu",
-        "url": "https://open.spotify.com/album/02iYIjv0w9avU0ievBGw2p"
-      },
-      "artists": [
-        {
-          "name": "H_art the Band",
-          "url": "https://open.spotify.com/artist/0m6SCIzf7kP9iylizWmIp1"
-        }
-      ],
-      "duration_ms": 258226,
-      "name": "Uliza Kiatu",
-      "url": "https://open.spotify.com/track/2jpPjMCRGg976CM9VuhkEg"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "WATERSHED",
         "url": "https://open.spotify.com/album/58RwmQmY5uQjiL6Jb3oqsq"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 195652,
       "name": "Angel Of Mine",
       "url": "https://open.spotify.com/track/5uzVZ29dSPYmbgcRol3Gly"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Uliza Kiatu",
+        "url": "https://open.spotify.com/album/02iYIjv0w9avU0ievBGw2p"
+      },
+      "artists": [
+        {
+          "name": "H_art the Band",
+          "url": "https://open.spotify.com/artist/0m6SCIzf7kP9iylizWmIp1"
+        }
+      ],
+      "duration_ms": 258226,
+      "name": "Uliza Kiatu",
+      "url": "https://open.spotify.com/track/2jpPjMCRGg976CM9VuhkEg"
     },
     {
       "added_at": "2024-05-22 11:00:00",

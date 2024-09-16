@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: HOL!
 
-766 songs - 1 day 18 hr 39 min
+767 songs - 1 day 18 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Blackout](https://open.spotify.com/track/1PE5LrDuHq4maYBVmsWlHJ) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [Blackout](https://open.spotify.com/album/5spblclZJQbJPAHjRop7sl) | 3:00 | 2021-12-17 | 2022-03-12 |
 | [Blicky](https://open.spotify.com/track/6dqTrtYr6dA4iSeaH6AznX) | [Montell2099](https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0) | [Blicky](https://open.spotify.com/album/0PhkfAwhREkEktpubliFf1) | 3:32 | 2022-08-05 | 2023-09-16 |
 | [Blindfold](https://open.spotify.com/track/5rkJBRvyemuXYBffHZCdPa) | [Dirtyphonics](https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs) | [Blindfold](https://open.spotify.com/album/72gsKOBsJ129zrsETPrnmH) | 2:37 | 2021-12-17 | 2023-04-01 |
-| [Bloodshot](https://open.spotify.com/track/4Q7x6l8nCaDuYAX3NQqU4g) | [Cyclops](https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN) | [Bloodshot](https://open.spotify.com/album/1zoSsT8S3mjezVLikedEOr) | 2:43 | 2024-02-09 |  |
+| [Bloodshot](https://open.spotify.com/track/4Q7x6l8nCaDuYAX3NQqU4g) | [Cyclops](https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN) | [Bloodshot](https://open.spotify.com/album/1zoSsT8S3mjezVLikedEOr) | 2:43 | 2024-02-09 | 2024-09-16 |
 | [Blow It Up](https://open.spotify.com/track/2nkEpxFxBrSNszj50S98zv) | [Bear Grillz](https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe) | [Blow It Up](https://open.spotify.com/album/69v5JpYfoOurqNb4s5lGx9) | 2:27 | 2021-12-17 | 2022-03-12 |
 | [BLUDGEON](https://open.spotify.com/track/0eCgjHLjV9rXpqykWiTtnp) | [MARAUDA](https://open.spotify.com/artist/3YLUvWzk9eBm1WrHFlZxM4) | [BLUDGEON](https://open.spotify.com/album/0CSke85jF5vljIhbjYBS6h) | 2:57 | 2024-05-24 |  |
 | [Boarding Party](https://open.spotify.com/track/73mJVsxtk0oXxhxr0GqgeA) | [Space Wizard](https://open.spotify.com/artist/1wcleSLRiSdM4P0ugXdg3H) | [Boarding Party](https://open.spotify.com/album/2hG59Objv4njdYDRnM3wvr) | 2:53 | 2024-07-05 |  |
@@ -560,6 +560,7 @@
 | [Rise](https://open.spotify.com/track/71B802cRMsrJ0GuzJH8q8o) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Leah Culver](https://open.spotify.com/artist/0KEExJc1NKwmzJxQHbbkts) | [Rise](https://open.spotify.com/album/4RhhoTQSL1nuBWHOuL1Pau) | 3:42 | 2022-12-16 | 2024-08-20 |
 | [ROBOTS](https://open.spotify.com/track/4vlTbBs0C5Q0oqRMz2UZqa) | [ATLiens](https://open.spotify.com/artist/74RET4rCZPTGzhsLjD0i3g) | [ROBOTS](https://open.spotify.com/album/5vcFpmsE5uaxLtaqZH2227) | 2:40 | 2023-07-14 |  |
 | [Rock Bottom](https://open.spotify.com/track/7rjmFwiYQ3Fx1DaKBmBgIo) | [Barocka](https://open.spotify.com/artist/4xzmjx91Nm1UpngrW3oHWF), [Peter Piffen](https://open.spotify.com/artist/50LmKJrodjlTvdI6FvtvrK) | [Rock Bottom](https://open.spotify.com/album/2FRjuFK0cIPVT5n6X6lUzW) | 3:27 | 2022-02-11 | 2022-07-27 |
+| [ROLLIN](https://open.spotify.com/track/41c0iKsEUHhEcavB6srwiB) | [Ravenscoon](https://open.spotify.com/artist/7vfvYuEyJbh1Tf3QlOTAmZ), [Gardella](https://open.spotify.com/artist/3CCAetE0sFpegAh0V8xJLf), [ProbCause](https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY) | [PULSE](https://open.spotify.com/album/1EDg0tuikwPpOpIfqOTWDc) | 3:31 | 2024-09-13 |  |
 | [Rollin' Deep](https://open.spotify.com/track/192PapqBQXyC0vuiWc80Bb) | [EAZYBAKED](https://open.spotify.com/artist/1ZbT8FIqEc0cktnu6mNlvv) | [Rollin' Deep](https://open.spotify.com/album/61oj3yPyofMulvi48JQLZL) | 4:30 | 2024-02-23 | 2024-03-23 |
 | [Root Cause](https://open.spotify.com/track/0ynMhP1uUAXZN2dsyBEpVa) | [L\*o\*J](https://open.spotify.com/artist/3B4U99cPW8HihTM6ld3jVX) | [Root Cause](https://open.spotify.com/album/6oG6CcLhxkmRNTDS6EkK3B) | 3:16 | 2024-01-12 | 2024-01-20 |
 | [Ruckus](https://open.spotify.com/track/0H5JiTfzmAKl4six7oWVNa) | [Jkyl & Hyde](https://open.spotify.com/artist/23AH13eC6V0NB0QCkV6206) | [Ruckus](https://open.spotify.com/album/0qZj4pqYrKT3fzXslTuPux) | 3:30 | 2022-01-28 | 2022-03-12 |

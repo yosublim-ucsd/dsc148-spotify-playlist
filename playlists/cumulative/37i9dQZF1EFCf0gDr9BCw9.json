@@ -255,6 +255,24 @@
     },
     {
       "album": {
+        "name": "Lush Life: The Music of Billy Strayhorn",
+        "url": "https://open.spotify.com/album/79ih1hMMqaYaMXhdlXDxku"
+      },
+      "artists": [
+        {
+          "name": "Joe Henderson",
+          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
+        }
+      ],
+      "date_added": "2024-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 439973,
+      "name": "Blood Count",
+      "url": "https://open.spotify.com/track/0kX3qTP8uPVAxXV2oqOg1g"
+    },
+    {
+      "album": {
         "name": "BD Music Presents Billy Strayhorn Played by Duke Ellington",
         "url": "https://open.spotify.com/album/1FtPZ5ml8WFnCMwd3sKaPQ"
       },

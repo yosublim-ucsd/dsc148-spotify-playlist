@@ -1,12 +1,12 @@
 {
-  "description": "This is Binomio de Oro de Am\u00e9rica. The essential tracks, all in one playlist.",
-  "num_followers": 58198,
+  "description": "This Is Binomio de Oro de Am\u00e9rica. Los temas esenciales, todos en una lista.",
+  "num_followers": 58207,
   "original_name": "This Is Binomio de Oro de Am\u00e9rica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuOAgAAAAAC3mGOFoFjAVdJloxc3Hy3X",
+  "snapshot_id": "ZuTSAAAAAACxepscEo4J6DN1Lhsi50IL",
   "tracks": [
     {
       "added_at": null,
@@ -443,6 +443,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Impredecible",
+        "url": "https://open.spotify.com/album/2SDcMM27B25Z4ZHfkcVqA0"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 281332,
+      "name": "Impredecible",
+      "url": "https://open.spotify.com/track/0cNy83OqUpNDJ0OfHcoodK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Haciendo Historia",
+        "url": "https://open.spotify.com/album/4KHJDRsqmmLBODEC4ajvmr"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 296840,
+      "name": "No Me Resignare",
+      "url": "https://open.spotify.com/track/0bmLUt1Gt466W82eREpJsH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Solo Hits",
         "url": "https://open.spotify.com/album/0TuwCPLmXFqqbbeVuQjAR3"
       },
@@ -467,38 +499,6 @@
       "duration_ms": 289746,
       "name": "Como Hago?",
       "url": "https://open.spotify.com/track/61PSeaG0rMXe7KYfmLpXir"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Haciendo Historia",
-        "url": "https://open.spotify.com/album/4KHJDRsqmmLBODEC4ajvmr"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 296840,
-      "name": "No Me Resignare",
-      "url": "https://open.spotify.com/track/0bmLUt1Gt466W82eREpJsH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Impredecible",
-        "url": "https://open.spotify.com/album/2SDcMM27B25Z4ZHfkcVqA0"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 281332,
-      "name": "Impredecible",
-      "url": "https://open.spotify.com/track/0cNy83OqUpNDJ0OfHcoodK"
     },
     {
       "added_at": null,

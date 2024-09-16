@@ -4,7 +4,7 @@
 
 > ¡El mejor condimento para tus comidas!
 
-330 songs - 20 hr 33 min
+331 songs - 20 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Corazón Enamorado](https://open.spotify.com/track/54PSHIY4nF4CxtwBpSOqW6) | [Super Grupo Colombia](https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi) | [Super Grupo Colombia](https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK) | 4:08 | 2024-03-07 |  |
 | [Corazón Solitario](https://open.spotify.com/track/7pxs0seevgCsp3h23lUGBw) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Guarachando](https://open.spotify.com/album/18alqYy5VLW7BxT86gmAGI) | 4:03 | 2022-07-05 | 2022-07-23 |
 | [Corazón Solitario](https://open.spotify.com/track/7f7ChKewJr4Mjm8rDl53iP) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Guarachando](https://open.spotify.com/album/5uHNavgy4yM4orwoEBWMjO) | 4:04 | 2022-07-05 | 2024-04-19 |
+| [Cosecha de Mujeres](https://open.spotify.com/track/1lMxEHxFMSbwr6nVxlzQ1G) | [Chico Trujillo](https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co) | [Plato Único Bailable](https://open.spotify.com/album/14cao29REfwt7L3liH4hQh) | 2:36 | 2024-08-15 |  |
 | [Costumbres](https://open.spotify.com/track/35KBRpbQ8WKoORBjI5gYRv) | [Paula Rivas](https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia) | [Costumbres](https://open.spotify.com/album/1DoHwyQJRxRLhZiwQyp4Zn) | 3:53 | 2023-08-04 | 2023-08-19 |
 | [Cuando quieras](https://open.spotify.com/track/6lEk7bnyxoABOownxhgi6O) | [Guachupé](https://open.spotify.com/artist/1IbUoO6fomi5BxFk5X6n1K) | [La triste realidad](https://open.spotify.com/album/4t80y5mnOIGldbjMqDxfrN) | 3:53 | 2022-07-05 | 2022-07-22 |
 | [Culpable o No](https://open.spotify.com/track/0PNkST00gopYa35OLKfju2) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1) | [Culpable o No](https://open.spotify.com/album/7cpSPJeI3YMC56xp7lsz19) | 2:17 | 2022-07-05 | 2022-07-29 |
@@ -192,7 +193,7 @@
 | [Muchachita](https://open.spotify.com/track/7rmT7CeqEFft8Os5chlRFW) | [VI\-EM](https://open.spotify.com/artist/44hJXrVhoyA1fV1dn4wdHC), [Bonny Lovy](https://open.spotify.com/artist/2oM7LqPaoCUcHHHnsTtgn1) | [Muchachita](https://open.spotify.com/album/2nTJmiRskbuFjqqehqyUuU) | 2:43 | 2022-07-05 | 2022-07-29 |
 | [Muchachita Consentida](https://open.spotify.com/track/0g2BQnxQiAgetPk4gMKLsm) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn) | [Muchachita Consentida \(Baile Total\)](https://open.spotify.com/album/03cU4oIfDKNsqMkrfbu418) | 3:33 | 2022-07-05 | 2022-07-29 |
 | [Mujer Que Mal Me Pagas](https://open.spotify.com/track/3AkjGkz4mT0fvOLMSUlCyV) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Mujer Que Mal Me Pagas](https://open.spotify.com/album/3OScm1nKAb2EMUKI1n8Bj6) | 3:38 | 2022-07-05 |  |
-| [Mujer Traicionera](https://open.spotify.com/track/470NyufWXbCRyJTh35n4Go) | [Los Rancheros De Rio Maule](https://open.spotify.com/artist/6r90tCIVqGvSHLouiTUhQW) | [18 Exitos](https://open.spotify.com/album/0wYu6VATuQ9vuMvrZzXf2c) | 4:13 | 2024-08-15 |  |
+| [Mujer Traicionera](https://open.spotify.com/track/470NyufWXbCRyJTh35n4Go) | [Los Rancheros De Rio Maule](https://open.spotify.com/artist/6r90tCIVqGvSHLouiTUhQW) | [18 Exitos](https://open.spotify.com/album/0wYu6VATuQ9vuMvrZzXf2c) | 4:13 | 2024-08-15 | 2024-09-16 |
 | [Márchate ahora](https://open.spotify.com/track/3voxukrHBXctzxdSbCycey) | [Los Totora](https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2) | [Sin mirar Atrás](https://open.spotify.com/album/4XhxlkhkuQFRIOJCVN2Mpi) | 3:54 | 2022-07-05 |  |
 | [Más Que Tu Amigo](https://open.spotify.com/track/1Vy7WUJubV9JEoebuJ9dfe) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Tu Amor O Tu Desprecio](https://open.spotify.com/album/6335RBM5tYZal0oSZm6jvW) | 3:29 | 2022-07-05 |  |
 | [Nadie Como Tú](https://open.spotify.com/track/7kWbSoOh7bs3ZkahpomJl8) | [Los Extraños](https://open.spotify.com/artist/4o42b77fvOMfJGnDVo8aWK) | [Los Extranos](https://open.spotify.com/album/2h77JnCvPzKX5Oovrb93tr) | 3:43 | 2022-07-05 | 2024-09-03 |

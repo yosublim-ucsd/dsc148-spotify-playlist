@@ -1,6 +1,6 @@
 {
   "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/0XFfgHElyw0xANJDuQrHyL?si=1E2_gp6ZSxKg1sJ9d9Nhdg\">Ruff Majik</a>",
-  "num_followers": 20001,
+  "num_followers": 20017,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-07-28 19:12:15",
       "album": {
-        "name": "Surpass The Power",
-        "url": "https://open.spotify.com/album/7hCunCzhFrtnlE24iOtQwY"
-      },
-      "artists": [
-        {
-          "name": "Springbok Nude Girls",
-          "url": "https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh"
-        }
-      ],
-      "duration_ms": 233200,
-      "name": "Blue Eyes",
-      "url": "https://open.spotify.com/track/7DirY6NZx5zbsNChNHUZNb"
-    },
-    {
-      "added_at": "2024-07-28 19:12:15",
-      "album": {
         "name": "Terapie Vir Nou",
         "url": "https://open.spotify.com/album/2s7XUTruquG0eOrNIyqMQN"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 218117,
       "name": "Terapie Vir Nou",
       "url": "https://open.spotify.com/track/7K7JxiW7VcnJexqPaAY9Bd"
+    },
+    {
+      "added_at": "2024-07-28 19:12:15",
+      "album": {
+        "name": "Surpass The Power",
+        "url": "https://open.spotify.com/album/7hCunCzhFrtnlE24iOtQwY"
+      },
+      "artists": [
+        {
+          "name": "Springbok Nude Girls",
+          "url": "https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh"
+        }
+      ],
+      "duration_ms": 233200,
+      "name": "Blue Eyes",
+      "url": "https://open.spotify.com/track/7DirY6NZx5zbsNChNHUZNb"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-07-28 19:12:15",
       "album": {
-        "name": "Ewigheid (Remastered 2024)",
-        "url": "https://open.spotify.com/album/2U8RKMXqNsceEJCC1XGaTa"
-      },
-      "artists": [
-        {
-          "name": "Millennium",
-          "url": "https://open.spotify.com/artist/4AaYTQtnZyjXm9JniWgGFw"
-        }
-      ],
-      "duration_ms": 240489,
-      "name": "Alleen - Remastered 2024",
-      "url": "https://open.spotify.com/track/5US58PJyctlJoImyWqsyvZ"
-    },
-    {
-      "added_at": "2024-07-28 19:12:15",
-      "album": {
         "name": "Die Tuindwergies",
         "url": "https://open.spotify.com/album/4Yxsbbl1KwF9w2gMAEBGNl"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 243720,
       "name": "Lonely-lonely",
       "url": "https://open.spotify.com/track/0aTltS2EBEW76JBVQhIQ7a"
+    },
+    {
+      "added_at": "2024-07-28 19:12:15",
+      "album": {
+        "name": "Ewigheid (Remastered 2024)",
+        "url": "https://open.spotify.com/album/2U8RKMXqNsceEJCC1XGaTa"
+      },
+      "artists": [
+        {
+          "name": "Millennium",
+          "url": "https://open.spotify.com/artist/4AaYTQtnZyjXm9JniWgGFw"
+        }
+      ],
+      "duration_ms": 240489,
+      "name": "Alleen - Remastered 2024",
+      "url": "https://open.spotify.com/track/5US58PJyctlJoImyWqsyvZ"
     },
     {
       "added_at": "2024-07-28 19:12:15",
@@ -581,22 +581,6 @@
       "url": "https://open.spotify.com/track/6WYfKDuPFNiKS36G4FqRv8"
     },
     {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/5toycwLOrTEoVW78Z8foya"
-      },
-      "artists": [
-        {
-          "name": "Sonofold",
-          "url": "https://open.spotify.com/artist/7nCXKf1BC7v0GcK04mx7qD"
-        }
-      ],
-      "duration_ms": 229400,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/4x3Ot7V42zIMh5cSf850n7"
-    },
-    {
       "added_at": "2024-07-28 19:12:15",
       "album": {
         "name": "Penny Sleeps",
@@ -611,6 +595,22 @@
       "duration_ms": 174974,
       "name": "Penny Sleeps",
       "url": "https://open.spotify.com/track/4NEZzp4GvzVEP39OWAiGFd"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/5toycwLOrTEoVW78Z8foya"
+      },
+      "artists": [
+        {
+          "name": "Sonofold",
+          "url": "https://open.spotify.com/artist/7nCXKf1BC7v0GcK04mx7qD"
+        }
+      ],
+      "duration_ms": 229400,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/4x3Ot7V42zIMh5cSf850n7"
     },
     {
       "added_at": "2024-07-28 19:12:15",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-07-28 19:12:15",
       "album": {
-        "name": "Gee My Jou Alles",
-        "url": "https://open.spotify.com/album/1ouy7jZD8agQJ2KFSMLoLD"
-      },
-      "artists": [
-        {
-          "name": "Vancoet",
-          "url": "https://open.spotify.com/artist/2AT751CV7Ass28MqGa0CCG"
-        }
-      ],
-      "duration_ms": 212617,
-      "name": "Gee My Jou Alles",
-      "url": "https://open.spotify.com/track/6yakQmh8oCDlnz9cvFEJVa"
-    },
-    {
-      "added_at": "2024-07-28 19:12:15",
-      "album": {
         "name": "All Comes Round 20th Anniversary Edition",
         "url": "https://open.spotify.com/album/1R71jHIqikADJY5tAtNl4X"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 216533,
       "name": "Like You Madly",
       "url": "https://open.spotify.com/track/2gmnVYIuxe7mbgxjACZIp9"
+    },
+    {
+      "added_at": "2024-07-28 19:12:15",
+      "album": {
+        "name": "Gee My Jou Alles",
+        "url": "https://open.spotify.com/album/1ouy7jZD8agQJ2KFSMLoLD"
+      },
+      "artists": [
+        {
+          "name": "Vancoet",
+          "url": "https://open.spotify.com/artist/2AT751CV7Ass28MqGa0CCG"
+        }
+      ],
+      "duration_ms": 212617,
+      "name": "Gee My Jou Alles",
+      "url": "https://open.spotify.com/track/6yakQmh8oCDlnz9cvFEJVa"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -745,22 +745,6 @@
       "url": "https://open.spotify.com/track/6HvUCWnri9a7LKSJ7wNJ3W"
     },
     {
-      "added_at": "2024-09-06 06:15:37",
-      "album": {
-        "name": "Undercover Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/6Qx9G94fCsW7BcwZ1amHY2"
-      },
-      "artists": [
-        {
-          "name": "Stereo Club",
-          "url": "https://open.spotify.com/artist/4NJbKjkR9DcoyVT4ZXgAkv"
-        }
-      ],
-      "duration_ms": 201839,
-      "name": "Undercover Espa\u00f1ol",
-      "url": "https://open.spotify.com/track/6gX8UNx5OSKgVWxtsYxGvv"
-    },
-    {
       "added_at": "2024-07-28 19:12:15",
       "album": {
         "name": "Die gids vir grootword",
@@ -775,6 +759,22 @@
       "duration_ms": 217200,
       "name": "My Ek(skuus)",
       "url": "https://open.spotify.com/track/5BVm8JglDc7zHRuNTlux6D"
+    },
+    {
+      "added_at": "2024-09-06 06:15:37",
+      "album": {
+        "name": "Undercover Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/6Qx9G94fCsW7BcwZ1amHY2"
+      },
+      "artists": [
+        {
+          "name": "Stereo Club",
+          "url": "https://open.spotify.com/artist/4NJbKjkR9DcoyVT4ZXgAkv"
+        }
+      ],
+      "duration_ms": 201839,
+      "name": "Undercover Espa\u00f1ol",
+      "url": "https://open.spotify.com/track/6gX8UNx5OSKgVWxtsYxGvv"
     },
     {
       "added_at": "2024-07-28 19:12:15",
@@ -795,6 +795,22 @@
     {
       "added_at": "2024-07-28 19:12:15",
       "album": {
+        "name": "Heelal",
+        "url": "https://open.spotify.com/album/0MRr2149VZFyYQ5Yn0tgCw"
+      },
+      "artists": [
+        {
+          "name": "Ryno Velvet",
+          "url": "https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt"
+        }
+      ],
+      "duration_ms": 247146,
+      "name": "Katedraal",
+      "url": "https://open.spotify.com/track/0mJcJqP8GWSLCV2TMbnlIY"
+    },
+    {
+      "added_at": "2024-07-28 19:12:15",
+      "album": {
         "name": "Net Om Die Geraas In Te Asem",
         "url": "https://open.spotify.com/album/24XNRA90YKU8MOiI1Yaz65"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 141186,
       "name": "Sindikaat",
       "url": "https://open.spotify.com/track/0qkIdbHq4RHlUuVkj6eRcs"
-    },
-    {
-      "added_at": "2024-07-28 19:12:15",
-      "album": {
-        "name": "Klanke Van Die Antieke",
-        "url": "https://open.spotify.com/album/7KDyQTLYSUY4cb4ynkbhPZ"
-      },
-      "artists": [
-        {
-          "name": "Winterstasie",
-          "url": "https://open.spotify.com/artist/2OJzbtCzhkYel0Nfv8lx3P"
-        }
-      ],
-      "duration_ms": 184346,
-      "name": "Los My",
-      "url": "https://open.spotify.com/track/3kUB0uomWGCHUtGDi7TEzp"
     }
   ],
   "unique_name": "SA Rock ",

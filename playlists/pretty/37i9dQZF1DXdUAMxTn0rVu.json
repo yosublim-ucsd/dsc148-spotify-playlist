@@ -1,6 +1,6 @@
 {
   "description": "Essential songs from the late '90s, early 2000s underground hip-hop scene. Cover: The Alchemist ",
-  "num_followers": 529017,
+  "num_followers": 529226,
   "original_name": "I Love My Underground Classics",
   "owner": {
     "name": "Spotify",
@@ -119,6 +119,30 @@
     {
       "added_at": "2024-07-05 04:41:29",
       "album": {
+        "name": "Madvillainy",
+        "url": "https://open.spotify.com/album/19bQiwEKhXUBJWY6oV3KZk"
+      },
+      "artists": [
+        {
+          "name": "Madvillain",
+          "url": "https://open.spotify.com/artist/2aoFQUeHD1U7pL098lRsDU"
+        },
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        },
+        {
+          "name": "MF DOOM",
+          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+        }
+      ],
+      "duration_ms": 131866,
+      "name": "Meat Grinder",
+      "url": "https://open.spotify.com/track/4WM1hvYr2NC6bQnQXcj3sH"
+    },
+    {
+      "added_at": "2024-07-05 04:41:29",
+      "album": {
         "name": "Internal Affairs",
         "url": "https://open.spotify.com/album/4tAVbKbYeZ4fJ3jT5i3LQS"
       },
@@ -151,22 +175,6 @@
     {
       "added_at": "2024-07-05 04:41:29",
       "album": {
-        "name": "Kollage",
-        "url": "https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA"
-      },
-      "artists": [
-        {
-          "name": "Bahamadia",
-          "url": "https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO"
-        }
-      ],
-      "duration_ms": 214866,
-      "name": "Uknowhowwedu",
-      "url": "https://open.spotify.com/track/5KapB9KJnRsZrprzIAXycW"
-    },
-    {
-      "added_at": "2024-07-05 04:41:29",
-      "album": {
         "name": "1st Infantry",
         "url": "https://open.spotify.com/album/6bTrNPIYDpWVFoE3E7wpUk"
       },
@@ -195,50 +203,6 @@
     {
       "added_at": "2024-07-05 04:41:29",
       "album": {
-        "name": "Madvillainy",
-        "url": "https://open.spotify.com/album/19bQiwEKhXUBJWY6oV3KZk"
-      },
-      "artists": [
-        {
-          "name": "Madvillain",
-          "url": "https://open.spotify.com/artist/2aoFQUeHD1U7pL098lRsDU"
-        },
-        {
-          "name": "Madlib",
-          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
-        },
-        {
-          "name": "MF DOOM",
-          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
-        }
-      ],
-      "duration_ms": 131866,
-      "name": "Meat Grinder",
-      "url": "https://open.spotify.com/track/4WM1hvYr2NC6bQnQXcj3sH"
-    },
-    {
-      "added_at": "2024-07-05 04:41:29",
-      "album": {
-        "name": "Operation: Doomsday (Complete)",
-        "url": "https://open.spotify.com/album/5bjUbZPVTEQcb6W3LquX1E"
-      },
-      "artists": [
-        {
-          "name": "MF DOOM",
-          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
-        },
-        {
-          "name": "Pebbles The Invisible Girl",
-          "url": "https://open.spotify.com/artist/34lNC2xOF1VtnRHk5ZCtU6"
-        }
-      ],
-      "duration_ms": 298053,
-      "name": "Doomsday",
-      "url": "https://open.spotify.com/track/7EQvdUJqZ2i7SWvSB2VqGA"
-    },
-    {
-      "added_at": "2024-07-05 04:41:29",
-      "album": {
         "name": "Moment Of Truth",
         "url": "https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2"
       },
@@ -251,6 +215,22 @@
       "duration_ms": 177666,
       "name": "Work",
       "url": "https://open.spotify.com/track/1EiLrPd8JMTcQUr1aLEUKi"
+    },
+    {
+      "added_at": "2024-07-05 04:41:29",
+      "album": {
+        "name": "Kollage",
+        "url": "https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA"
+      },
+      "artists": [
+        {
+          "name": "Bahamadia",
+          "url": "https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO"
+        }
+      ],
+      "duration_ms": 214866,
+      "name": "Uknowhowwedu",
+      "url": "https://open.spotify.com/track/5KapB9KJnRsZrprzIAXycW"
     },
     {
       "added_at": "2024-07-05 04:41:29",
@@ -311,26 +291,22 @@
     {
       "added_at": "2024-07-05 04:41:29",
       "album": {
-        "name": "Violence Begets Violence",
-        "url": "https://open.spotify.com/album/1OT6Ow2YWScyicn8IIO8E5"
+        "name": "Operation: Doomsday (Complete)",
+        "url": "https://open.spotify.com/album/5bjUbZPVTEQcb6W3LquX1E"
       },
       "artists": [
         {
-          "name": "Jedi Mind Tricks",
-          "url": "https://open.spotify.com/artist/0PI3pXpUMScjweiw3IbADc"
+          "name": "MF DOOM",
+          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
         },
         {
-          "name": "Young Zee",
-          "url": "https://open.spotify.com/artist/4OqgHlGnIFHukth5CY1Ejj"
-        },
-        {
-          "name": "Pacewon",
-          "url": "https://open.spotify.com/artist/4xlnKEcLzFYoxRmAuxI2Yt"
+          "name": "Pebbles The Invisible Girl",
+          "url": "https://open.spotify.com/artist/34lNC2xOF1VtnRHk5ZCtU6"
         }
       ],
-      "duration_ms": 218293,
-      "name": "Design in Malice",
-      "url": "https://open.spotify.com/track/6Z9syPcYlnUvpMgmjQydIG"
+      "duration_ms": 298053,
+      "name": "Doomsday",
+      "url": "https://open.spotify.com/track/7EQvdUJqZ2i7SWvSB2VqGA"
     },
     {
       "added_at": "2024-07-05 04:41:29",
@@ -359,6 +335,50 @@
       "duration_ms": 115826,
       "name": "Fancy Clown",
       "url": "https://open.spotify.com/track/1YgDGKyKhFlimPw3mLavPG"
+    },
+    {
+      "added_at": "2024-07-05 04:41:29",
+      "album": {
+        "name": "Moment Of Truth",
+        "url": "https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2"
+      },
+      "artists": [
+        {
+          "name": "Gang Starr",
+          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        }
+      ],
+      "duration_ms": 221626,
+      "name": "Above The Clouds",
+      "url": "https://open.spotify.com/track/3ZBSXNYdTZVaBUQI3E2rF6"
+    },
+    {
+      "added_at": "2024-07-05 04:41:29",
+      "album": {
+        "name": "Violence Begets Violence",
+        "url": "https://open.spotify.com/album/1OT6Ow2YWScyicn8IIO8E5"
+      },
+      "artists": [
+        {
+          "name": "Jedi Mind Tricks",
+          "url": "https://open.spotify.com/artist/0PI3pXpUMScjweiw3IbADc"
+        },
+        {
+          "name": "Young Zee",
+          "url": "https://open.spotify.com/artist/4OqgHlGnIFHukth5CY1Ejj"
+        },
+        {
+          "name": "Pacewon",
+          "url": "https://open.spotify.com/artist/4xlnKEcLzFYoxRmAuxI2Yt"
+        }
+      ],
+      "duration_ms": 218293,
+      "name": "Design in Malice",
+      "url": "https://open.spotify.com/track/6Z9syPcYlnUvpMgmjQydIG"
     },
     {
       "added_at": "2024-07-05 04:41:29",
@@ -415,26 +435,6 @@
     {
       "added_at": "2024-07-05 04:41:29",
       "album": {
-        "name": "Moment Of Truth",
-        "url": "https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2"
-      },
-      "artists": [
-        {
-          "name": "Gang Starr",
-          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
-        },
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
-        }
-      ],
-      "duration_ms": 221626,
-      "name": "Above The Clouds",
-      "url": "https://open.spotify.com/track/3ZBSXNYdTZVaBUQI3E2rF6"
-    },
-    {
-      "added_at": "2024-07-05 04:41:29",
-      "album": {
         "name": "The LP",
         "url": "https://open.spotify.com/album/7hzM3Sa8BoCKrNqrKJqyz1"
       },
@@ -447,6 +447,30 @@
       "duration_ms": 208866,
       "name": "I Juswanna Chill",
       "url": "https://open.spotify.com/track/3ipzZgH1766XXRamVwk1Iw"
+    },
+    {
+      "added_at": "2024-07-05 04:41:29",
+      "album": {
+        "name": "Madvillainy",
+        "url": "https://open.spotify.com/album/19bQiwEKhXUBJWY6oV3KZk"
+      },
+      "artists": [
+        {
+          "name": "Madvillain",
+          "url": "https://open.spotify.com/artist/2aoFQUeHD1U7pL098lRsDU"
+        },
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        },
+        {
+          "name": "MF DOOM",
+          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+        }
+      ],
+      "duration_ms": 118853,
+      "name": "Accordion",
+      "url": "https://open.spotify.com/track/67vrmPygrZ9giGqHUSReAT"
     },
     {
       "added_at": "2024-07-05 04:41:29",
@@ -527,30 +551,6 @@
       "duration_ms": 245826,
       "name": "This Way",
       "url": "https://open.spotify.com/track/1unbLw4cvR8za4YpHFWcN7"
-    },
-    {
-      "added_at": "2024-07-05 04:41:29",
-      "album": {
-        "name": "Madvillainy",
-        "url": "https://open.spotify.com/album/19bQiwEKhXUBJWY6oV3KZk"
-      },
-      "artists": [
-        {
-          "name": "Madvillain",
-          "url": "https://open.spotify.com/artist/2aoFQUeHD1U7pL098lRsDU"
-        },
-        {
-          "name": "Madlib",
-          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
-        },
-        {
-          "name": "MF DOOM",
-          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
-        }
-      ],
-      "duration_ms": 118853,
-      "name": "Accordion",
-      "url": "https://open.spotify.com/track/67vrmPygrZ9giGqHUSReAT"
     },
     {
       "added_at": "2024-07-05 04:41:29",
@@ -723,6 +723,22 @@
     {
       "added_at": "2024-07-05 04:41:29",
       "album": {
+        "name": "Fan-Tas-Tic, Vol. 2",
+        "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
+      },
+      "artists": [
+        {
+          "name": "Slum Village",
+          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
+        }
+      ],
+      "duration_ms": 211132,
+      "name": "Get Dis Money",
+      "url": "https://open.spotify.com/track/6xrjmQMIIYgLgjCOeq2dee"
+    },
+    {
+      "added_at": "2024-07-05 04:41:29",
+      "album": {
         "name": "Revolutions Per Minute",
         "url": "https://open.spotify.com/album/3uwRp5ehO2wWRBKcpjjQdR"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 225253,
       "name": "Scary Movies",
       "url": "https://open.spotify.com/track/2xqAI0XVjrn3VpK0bWa0wD"
-    },
-    {
-      "added_at": "2024-07-05 04:41:29",
-      "album": {
-        "name": "Fan-Tas-Tic, Vol. 2",
-        "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
-      },
-      "artists": [
-        {
-          "name": "Slum Village",
-          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
-        }
-      ],
-      "duration_ms": 211132,
-      "name": "Get Dis Money",
-      "url": "https://open.spotify.com/track/6xrjmQMIIYgLgjCOeq2dee"
     },
     {
       "added_at": "2024-07-05 04:41:29",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-07-05 04:41:29",
       "album": {
-        "name": "Fan-Tas-Tic, Vol. 2",
-        "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
-      },
-      "artists": [
-        {
-          "name": "Slum Village",
-          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
-        }
-      ],
-      "duration_ms": 211892,
-      "name": "Climax",
-      "url": "https://open.spotify.com/track/7i47lf1W2WA41wagWBD3zH"
-    },
-    {
-      "added_at": "2024-07-05 04:41:29",
-      "album": {
         "name": "Masters of the Universe",
         "url": "https://open.spotify.com/album/69UJqktqkpO9QdzybUMxNK"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 241394,
       "name": "Reality Check",
       "url": "https://open.spotify.com/track/66YJddDOMyb9oj7vqI9CqU"
+    },
+    {
+      "added_at": "2024-07-05 04:41:29",
+      "album": {
+        "name": "Fan-Tas-Tic, Vol. 2",
+        "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
+      },
+      "artists": [
+        {
+          "name": "Slum Village",
+          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
+        }
+      ],
+      "duration_ms": 211892,
+      "name": "Climax",
+      "url": "https://open.spotify.com/track/7i47lf1W2WA41wagWBD3zH"
     },
     {
       "added_at": "2024-07-05 04:41:29",

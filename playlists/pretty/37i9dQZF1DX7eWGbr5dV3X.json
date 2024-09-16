@@ -1,6 +1,6 @@
 {
   "description": "Celebrate, amplify, and support LGBTQ+ API musicians. Cover: Towa Bird.",
-  "num_followers": 8721,
+  "num_followers": 8722,
   "original_name": "API Pride",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "in my head",
-        "url": "https://open.spotify.com/album/6LxluJA87ubb7G4prSX07I"
-      },
-      "artists": [
-        {
-          "name": "Mad Tsai",
-          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
-        }
-      ],
-      "duration_ms": 224940,
-      "name": "in my head",
-      "url": "https://open.spotify.com/track/4E4K8qooKOsDHpZrmquBGm"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Bloomingtale",
         "url": "https://open.spotify.com/album/3DWiN5mfUN65FX3UJ4M4v3"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 209360,
       "name": "Man Who Loves You",
       "url": "https://open.spotify.com/track/6vJogWl1AUnWilW3UCKQ8K"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "in my head",
+        "url": "https://open.spotify.com/album/6LxluJA87ubb7G4prSX07I"
+      },
+      "artists": [
+        {
+          "name": "Mad Tsai",
+          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
+        }
+      ],
+      "duration_ms": 224940,
+      "name": "in my head",
+      "url": "https://open.spotify.com/track/4E4K8qooKOsDHpZrmquBGm"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -243,34 +243,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "You Look so Good",
-        "url": "https://open.spotify.com/album/5r73WnvgjwL3ydzrtsmqpm"
+        "name": "whatever u like",
+        "url": "https://open.spotify.com/album/721LnudJW05TovLVLcSoMa"
       },
       "artists": [
         {
-          "name": "Priyanka",
-          "url": "https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO"
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
         }
       ],
-      "duration_ms": 170728,
-      "name": "You Look so Good",
-      "url": "https://open.spotify.com/track/66tyrSjqL9P6sZAb8TQm3X"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "NEVERLAND",
-        "url": "https://open.spotify.com/album/2y8I9aWRSnBXSUtVWVwBes"
-      },
-      "artists": [
-        {
-          "name": "Holland",
-          "url": "https://open.spotify.com/artist/3PA9tXcZqiaBXwopM9GPZP"
-        }
-      ],
-      "duration_ms": 222928,
-      "name": "NEVERLAND",
-      "url": "https://open.spotify.com/track/5e9gNMrGlVblMER6iN2tnJ"
+      "duration_ms": 200877,
+      "name": "whatever u like",
+      "url": "https://open.spotify.com/track/4tv72g5KnIy4XbyDBhEFgA"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -291,18 +275,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "whatever u like",
-        "url": "https://open.spotify.com/album/721LnudJW05TovLVLcSoMa"
+        "name": "You Look so Good",
+        "url": "https://open.spotify.com/album/5r73WnvgjwL3ydzrtsmqpm"
       },
       "artists": [
         {
-          "name": "UMI",
-          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+          "name": "Priyanka",
+          "url": "https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO"
         }
       ],
-      "duration_ms": 200877,
-      "name": "whatever u like",
-      "url": "https://open.spotify.com/track/4tv72g5KnIy4XbyDBhEFgA"
+      "duration_ms": 170728,
+      "name": "You Look so Good",
+      "url": "https://open.spotify.com/track/66tyrSjqL9P6sZAb8TQm3X"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -319,6 +303,22 @@
       "duration_ms": 184528,
       "name": "What Happened, Happened",
       "url": "https://open.spotify.com/track/2Ck8r31kURBqC7K2G9lLBo"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "NEVERLAND",
+        "url": "https://open.spotify.com/album/2y8I9aWRSnBXSUtVWVwBes"
+      },
+      "artists": [
+        {
+          "name": "Holland",
+          "url": "https://open.spotify.com/artist/3PA9tXcZqiaBXwopM9GPZP"
+        }
+      ],
+      "duration_ms": 222928,
+      "name": "NEVERLAND",
+      "url": "https://open.spotify.com/track/5e9gNMrGlVblMER6iN2tnJ"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -371,6 +371,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "No New Friends",
+        "url": "https://open.spotify.com/album/0JCwDW8OoRosByl0NWgluA"
+      },
+      "artists": [
+        {
+          "name": "Priyanka",
+          "url": "https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO"
+        }
+      ],
+      "duration_ms": 178823,
+      "name": "No New Friends",
+      "url": "https://open.spotify.com/track/3F3sFq64qFLeTcXqvjttH3"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Masterpiece (80s Remix)",
         "url": "https://open.spotify.com/album/2tJRA9WA7MHc8WbmHHAE9z"
       },
@@ -403,18 +419,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "No New Friends",
-        "url": "https://open.spotify.com/album/0JCwDW8OoRosByl0NWgluA"
+        "name": "Weekend",
+        "url": "https://open.spotify.com/album/3EcOE2h7DHr5m6IaALejAs"
       },
       "artists": [
         {
-          "name": "Priyanka",
-          "url": "https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO"
+          "name": "Emily Vu",
+          "url": "https://open.spotify.com/artist/3t3oOB1GYe4PFV2X6D29NS"
         }
       ],
-      "duration_ms": 178823,
-      "name": "No New Friends",
-      "url": "https://open.spotify.com/track/3F3sFq64qFLeTcXqvjttH3"
+      "duration_ms": 166044,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/0XoRbQwHULyjf0tO1S9abf"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -431,22 +447,6 @@
       "duration_ms": 241920,
       "name": "Honey Understand",
       "url": "https://open.spotify.com/track/3q5eBVe8qOa1x3f24xoBkc"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Weekend",
-        "url": "https://open.spotify.com/album/3EcOE2h7DHr5m6IaALejAs"
-      },
-      "artists": [
-        {
-          "name": "Emily Vu",
-          "url": "https://open.spotify.com/artist/3t3oOB1GYe4PFV2X6D29NS"
-        }
-      ],
-      "duration_ms": 166044,
-      "name": "Weekend",
-      "url": "https://open.spotify.com/track/0XoRbQwHULyjf0tO1S9abf"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -479,22 +479,6 @@
       "duration_ms": 220253,
       "name": "K I'm Mortal",
       "url": "https://open.spotify.com/track/4YOfMkWDidWbIFyDy7l39o"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Abide",
-        "url": "https://open.spotify.com/album/3s7Np4fVlWEsQv4R8b5IOO"
-      },
-      "artists": [
-        {
-          "name": "Summer C",
-          "url": "https://open.spotify.com/artist/4q0x2gtJstAX1i8B95hLO7"
-        }
-      ],
-      "duration_ms": 191684,
-      "name": "Abide",
-      "url": "https://open.spotify.com/track/5dBxM0ddTrg8VKEyM7BgTG"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -547,6 +531,22 @@
       "duration_ms": 247000,
       "name": "You Matter",
       "url": "https://open.spotify.com/track/1arOj3xVlQB9veK0piJnC4"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Abide",
+        "url": "https://open.spotify.com/album/3s7Np4fVlWEsQv4R8b5IOO"
+      },
+      "artists": [
+        {
+          "name": "Summer C",
+          "url": "https://open.spotify.com/artist/4q0x2gtJstAX1i8B95hLO7"
+        }
+      ],
+      "duration_ms": 191684,
+      "name": "Abide",
+      "url": "https://open.spotify.com/track/5dBxM0ddTrg8VKEyM7BgTG"
     },
     {
       "added_at": "2024-07-12 04:00:00",

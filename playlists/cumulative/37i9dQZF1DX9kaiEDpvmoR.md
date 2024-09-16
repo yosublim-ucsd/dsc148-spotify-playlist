@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-184 songs - 10 hr 27 min
+185 songs - 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [I Keep On Falling in Love](https://open.spotify.com/track/4hSFhD9TNsgiHg0LazilZI) | [The Moniker](https://open.spotify.com/artist/3lh0txPGRzXwKDsgMAtixi) | [I Keep On Falling in Love](https://open.spotify.com/album/0ymhQryQrdMfStblEmf8bB) | 3:30 | 2024-06-27 | 2024-08-30 |
 | [I Let the Good Ones Go](https://open.spotify.com/track/3Q30mwHAXv4cYoIQFiIWt8) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [A Chosen Family](https://open.spotify.com/album/5edXe34CzaJQps4q5ADGdr) | 3:55 | 2024-08-22 |  |
 | [I våra händer](https://open.spotify.com/track/1QJjgnpmj2kLnm3aSqohk8) | [Anna Stadling](https://open.spotify.com/artist/15xSyYUeEIQphb7lnNojQs) | [I våra händer](https://open.spotify.com/album/6Ss8sf2hBctLpp5yfVTWio) | 3:22 | 2024-06-27 | 2024-08-09 |
-| [I Will See You](https://open.spotify.com/track/6qmXfmVuBXJw9iZML0k6cr) | [Doug Seegers](https://open.spotify.com/artist/2WO6GcXH1rWwzge9wOnuxm), [Eva Eastwood](https://open.spotify.com/artist/0Oab0T0VwxapaYLWgHFWhH) | [I Will See You](https://open.spotify.com/album/1OnU4nZKqwyvRQzvewu7sc) | 4:32 | 2024-08-08 |  |
+| [I Will See You](https://open.spotify.com/track/6qmXfmVuBXJw9iZML0k6cr) | [Doug Seegers](https://open.spotify.com/artist/2WO6GcXH1rWwzge9wOnuxm), [Eva Eastwood](https://open.spotify.com/artist/0Oab0T0VwxapaYLWgHFWhH) | [I Will See You](https://open.spotify.com/album/1OnU4nZKqwyvRQzvewu7sc) | 4:32 | 2024-08-08 | 2024-09-16 |
 | [I Wrote Your Name \(Upon My Heart\)](https://open.spotify.com/track/6x52Hw5bZEpGbp3Ir6k7FJ) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [I Wrote Your Name \(Upon My Heart\)](https://open.spotify.com/album/6eZoMvARr3RHr8Xmteqcnu) | 3:20 | 2024-09-06 |  |
 | [I'm Coming Home](https://open.spotify.com/track/16gL4P1H5psxy9Zvg5kkDT) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [I'm Coming Home](https://open.spotify.com/album/6r9fKa9NKfZtwbXTVdf3Es) | 3:57 | 2024-06-27 | 2024-08-30 |
 | [If You Lose Her, You're A Loser](https://open.spotify.com/track/1saALmRZoydumb6RaXpZnh) | [Jill Johnson](https://open.spotify.com/artist/2aaGbpl5Y2ykZsNFZM6ofw) | [I'm Not Dead Yet](https://open.spotify.com/album/0w1LDFIYZGBrvgAGHXiwbM) | 3:19 | 2024-08-22 |  |
@@ -167,6 +167,7 @@
 | [The Man He Sees in Me](https://open.spotify.com/track/0Zm4ZDBtiZCDp69Cxs5TaB) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Man He Sees in Me](https://open.spotify.com/album/5oR5JuHZV4Yz7XvvBJHOCt) | 2:45 | 2024-06-27 | 2024-08-23 |
 | [The Player](https://open.spotify.com/track/6il2AODycNJgccBNoTQaLn) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [The Player](https://open.spotify.com/album/5qPKjblUkTscBgV0Hq8XUg) | 2:48 | 2024-08-22 |  |
 | [The Way](https://open.spotify.com/track/1l2UjEWrKrdpqhbKMBcNVU) | [The Boppers](https://open.spotify.com/artist/1vLVhyvTemQZ6bd5oY1Fql) | [The Way](https://open.spotify.com/album/2N1OuSrkbm0uvI5dwtUCdM) | 3:58 | 2024-08-08 |  |
+| [Tiden försvinner](https://open.spotify.com/track/3THkpuPm9r1eu2Y2YXsHjb) | [Tommy Nilsson](https://open.spotify.com/artist/0PnNyzP7CgoDXZHr6cWOyq) | [Tiden försvinner](https://open.spotify.com/album/5zWmdawhCC0ijjNQrL4mDM) | 3:26 | 2024-09-12 |  |
 | [True Romantic](https://open.spotify.com/track/0L9q3REkq7p1UEONWON7Vn) | [Linda Sundblad](https://open.spotify.com/artist/28WJiPB1WvNQzMLwM5Hb7G) | [True Romantic](https://open.spotify.com/album/3qK8CbdoXxqT1MJHvOGTIM) | 3:28 | 2024-06-27 | 2024-08-09 |
 | [UFO](https://open.spotify.com/track/32scuBdePLY3o4ZwJDWLRR) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [UFO](https://open.spotify.com/album/21f17oQynU60lyfT0wjj8U) | 3:00 | 2024-06-27 | 2024-08-09 |
 | [Upp med hakan](https://open.spotify.com/track/2sBeb4kF1dFxiWpjiokbmM) | [Axel Schylström](https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT) | [Upp med hakan](https://open.spotify.com/album/3OAWeefFpKwzXX4JOINByi) | 2:45 | 2024-06-27 |  |

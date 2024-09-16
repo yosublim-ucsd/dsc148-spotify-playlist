@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xzS2k.md) - [plain]
 
 ### [This Is Nothing](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3xzS2k)
 
-> This is Nothing\. The essential tracks, all in one playlist.
+> This is Nothing\. Tutti i brani in un'unica playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 2,351 likes - 37 songs - 2 hr 44 min
 
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xzS2k.md) - [plain]
 | 36 | [Pattern After Us \- DOTB B Side](https://open.spotify.com/track/0W2TihuUErag5W2UeWnMQp) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Spirit of the Stairs \- B\-Sides & Rarities](https://open.spotify.com/album/1FhTscmvDVVPQhTipBqsxF) | 3:40 |
 | 37 | [The Dives \(Lazarus in Ashes\)](https://open.spotify.com/track/2sEGs6OadzAdCKJV5GOzvD) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Downward Years to Come](https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj) | 2:38 |
 
-Snapshot ID: `ZuOAgAAAAAAS57XU57hyBg/aV2DjPfbW`
+Snapshot ID: `ZuTSAAAAAAAQ7wYNCmnTH2iIfhOGBYGh`

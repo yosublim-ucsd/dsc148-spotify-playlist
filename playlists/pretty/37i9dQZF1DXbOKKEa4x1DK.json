@@ -1,6 +1,6 @@
 {
   "description": "Para los enamorados y despechados.",
-  "num_followers": 7574,
+  "num_followers": 7605,
   "original_name": "Merengue De Amor",
   "owner": {
     "name": "Spotify",
@@ -111,18 +111,22 @@
     {
       "added_at": "2024-03-28 01:30:00",
       "album": {
-        "name": "Atrevido",
-        "url": "https://open.spotify.com/album/4DKgafmoXFZmhi73FJ0UQt"
+        "name": "En Accion!",
+        "url": "https://open.spotify.com/album/5nXmOTbpGP0z0qtYA1CXAb"
       },
       "artists": [
         {
-          "name": "Eddy Herrera",
-          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
+          "name": "Jossie Esteban",
+          "url": "https://open.spotify.com/artist/1n6WShjEhCUMCkHDpvwk8H"
+        },
+        {
+          "name": "La Patrulla 15",
+          "url": "https://open.spotify.com/artist/1oUHedCQed7UGcmwWyCv3O"
         }
       ],
-      "duration_ms": 280920,
-      "name": "Demasiado Romantica",
-      "url": "https://open.spotify.com/track/5e6DvXTWzC8i9MdsLZaTgb"
+      "duration_ms": 295933,
+      "name": "Un Hombre Busca Una Mujer",
+      "url": "https://open.spotify.com/track/0gUEASZhZGZb60JqyQwytv"
     },
     {
       "added_at": "2024-03-28 01:30:00",
@@ -143,22 +147,18 @@
     {
       "added_at": "2024-03-28 01:30:00",
       "album": {
-        "name": "En Accion!",
-        "url": "https://open.spotify.com/album/5nXmOTbpGP0z0qtYA1CXAb"
+        "name": "Atrevido",
+        "url": "https://open.spotify.com/album/4DKgafmoXFZmhi73FJ0UQt"
       },
       "artists": [
         {
-          "name": "Jossie Esteban",
-          "url": "https://open.spotify.com/artist/1n6WShjEhCUMCkHDpvwk8H"
-        },
-        {
-          "name": "La Patrulla 15",
-          "url": "https://open.spotify.com/artist/1oUHedCQed7UGcmwWyCv3O"
+          "name": "Eddy Herrera",
+          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
         }
       ],
-      "duration_ms": 295933,
-      "name": "Un Hombre Busca Una Mujer",
-      "url": "https://open.spotify.com/track/0gUEASZhZGZb60JqyQwytv"
+      "duration_ms": 280920,
+      "name": "Demasiado Romantica",
+      "url": "https://open.spotify.com/track/5e6DvXTWzC8i9MdsLZaTgb"
     },
     {
       "added_at": "2024-03-28 01:30:00",
@@ -207,22 +207,6 @@
       "duration_ms": 270920,
       "name": "Estoy Enamorado",
       "url": "https://open.spotify.com/track/1rYzUTFXaBOmZ3ibcb3CRu"
-    },
-    {
-      "added_at": "2024-03-28 01:30:00",
-      "album": {
-        "name": "A Tiempo",
-        "url": "https://open.spotify.com/album/4ZvFeFnbxwH4fpYLFEoMui"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
-        }
-      ],
-      "duration_ms": 303293,
-      "name": "Dile",
-      "url": "https://open.spotify.com/track/0eaCLC0UBpc0Wh0EikTe9u"
     },
     {
       "added_at": "2024-03-28 01:30:00",
@@ -279,6 +263,22 @@
     {
       "added_at": "2024-03-28 01:30:00",
       "album": {
+        "name": "A Tiempo",
+        "url": "https://open.spotify.com/album/4ZvFeFnbxwH4fpYLFEoMui"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+        }
+      ],
+      "duration_ms": 303293,
+      "name": "Dile",
+      "url": "https://open.spotify.com/track/0eaCLC0UBpc0Wh0EikTe9u"
+    },
+    {
+      "added_at": "2024-03-28 01:30:00",
+      "album": {
         "name": "Volando Alto",
         "url": "https://open.spotify.com/album/2EoojuFoL3YrvnKgR3kALw"
       },
@@ -295,22 +295,6 @@
     {
       "added_at": "2024-03-28 01:30:00",
       "album": {
-        "name": "Rey De Corazones",
-        "url": "https://open.spotify.com/album/0TcHNfk42IZKbx9ysCdrBF"
-      },
-      "artists": [
-        {
-          "name": "Manny Manuel",
-          "url": "https://open.spotify.com/artist/7gSCtDiDLABfTqTc1OYjKd"
-        }
-      ],
-      "duration_ms": 288280,
-      "name": "Si Una Vez",
-      "url": "https://open.spotify.com/track/4pDORttLOuVRInjTSZ3hlf"
-    },
-    {
-      "added_at": "2024-03-28 01:30:00",
-      "album": {
         "name": "Resistire",
         "url": "https://open.spotify.com/album/7pjcMXlN1lxfgBu0Z3ODFy"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 310226,
       "name": "Resistire",
       "url": "https://open.spotify.com/track/7FsESZMkzIJYQAekB2BsIb"
+    },
+    {
+      "added_at": "2024-03-28 01:30:00",
+      "album": {
+        "name": "Rey De Corazones",
+        "url": "https://open.spotify.com/album/0TcHNfk42IZKbx9ysCdrBF"
+      },
+      "artists": [
+        {
+          "name": "Manny Manuel",
+          "url": "https://open.spotify.com/artist/7gSCtDiDLABfTqTc1OYjKd"
+        }
+      ],
+      "duration_ms": 288280,
+      "name": "Si Una Vez",
+      "url": "https://open.spotify.com/track/4pDORttLOuVRInjTSZ3hlf"
     },
     {
       "added_at": "2024-03-28 01:30:00",
@@ -427,6 +427,22 @@
     {
       "added_at": "2024-03-28 01:30:00",
       "album": {
+        "name": "Lo Mejor De...To\u00f1o Rosario",
+        "url": "https://open.spotify.com/album/475agtJk3uN4dSg38QKx5t"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Rosario",
+          "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
+        }
+      ],
+      "duration_ms": 281760,
+      "name": "Desnudate Mujer",
+      "url": "https://open.spotify.com/track/33cVlyik4hIaS4gwiLCNcY"
+    },
+    {
+      "added_at": "2024-03-28 01:30:00",
+      "album": {
         "name": "Tonto Corazon",
         "url": "https://open.spotify.com/album/5Hs5ycdTJOpw7hMLHTo2mW"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 247120,
       "name": "Coraz\u00f3n De Nadie",
       "url": "https://open.spotify.com/track/4PtTs7pmraBdfXCYs0qSvn"
-    },
-    {
-      "added_at": "2024-03-28 01:30:00",
-      "album": {
-        "name": "Lo Mejor De...To\u00f1o Rosario",
-        "url": "https://open.spotify.com/album/475agtJk3uN4dSg38QKx5t"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1o Rosario",
-          "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
-        }
-      ],
-      "duration_ms": 281760,
-      "name": "Desnudate Mujer",
-      "url": "https://open.spotify.com/track/33cVlyik4hIaS4gwiLCNcY"
     },
     {
       "added_at": "2024-03-28 01:30:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-03-28 01:30:00",
       "album": {
-        "name": "Mi Historia",
-        "url": "https://open.spotify.com/album/4TsbE5HjgnJSbKrdiA8tQB"
-      },
-      "artists": [
-        {
-          "name": "Los Toros Band",
-          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
-        }
-      ],
-      "duration_ms": 289360,
-      "name": "Como Te Olvido",
-      "url": "https://open.spotify.com/track/5Sp82J8SkXaubjecTTdCBK"
-    },
-    {
-      "added_at": "2024-03-28 01:30:00",
-      "album": {
         "name": "Brujer\u00eda Con Chilli: On Fire, Episodio 2",
         "url": "https://open.spotify.com/album/0zBjJzad6oD7omkXaZEIjz"
       },
@@ -571,22 +555,6 @@
     {
       "added_at": "2024-03-28 01:30:00",
       "album": {
-        "name": "Am\u00e9rica Sin Queja",
-        "url": "https://open.spotify.com/album/0EEdtnbf5f5vhVBATOW2Fm"
-      },
-      "artists": [
-        {
-          "name": "Ram\u00f3n Orlando",
-          "url": "https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt"
-        }
-      ],
-      "duration_ms": 267706,
-      "name": "Te Compro Tu Novia",
-      "url": "https://open.spotify.com/track/4Dh7uW5uZAbpPCuWhgOYB0"
-    },
-    {
-      "added_at": "2024-03-28 01:30:00",
-      "album": {
         "name": "Exclusivo",
         "url": "https://open.spotify.com/album/6aK3BPI7eC3Tihn7mt70dM"
       },
@@ -599,6 +567,38 @@
       "duration_ms": 287040,
       "name": "Un Buen Perdedor",
       "url": "https://open.spotify.com/track/7oHEmIJtoLEEn3WgBxd9F2"
+    },
+    {
+      "added_at": "2024-03-28 01:30:00",
+      "album": {
+        "name": "Mi Historia",
+        "url": "https://open.spotify.com/album/4TsbE5HjgnJSbKrdiA8tQB"
+      },
+      "artists": [
+        {
+          "name": "Los Toros Band",
+          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
+        }
+      ],
+      "duration_ms": 289360,
+      "name": "Como Te Olvido",
+      "url": "https://open.spotify.com/track/5Sp82J8SkXaubjecTTdCBK"
+    },
+    {
+      "added_at": "2024-03-28 01:30:00",
+      "album": {
+        "name": "Am\u00e9rica Sin Queja",
+        "url": "https://open.spotify.com/album/0EEdtnbf5f5vhVBATOW2Fm"
+      },
+      "artists": [
+        {
+          "name": "Ram\u00f3n Orlando",
+          "url": "https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt"
+        }
+      ],
+      "duration_ms": 267706,
+      "name": "Te Compro Tu Novia",
+      "url": "https://open.spotify.com/track/4Dh7uW5uZAbpPCuWhgOYB0"
     },
     {
       "added_at": "2024-03-28 01:30:00",
@@ -631,6 +631,22 @@
       "duration_ms": 266626,
       "name": "Noches de Fantas\u00eda",
       "url": "https://open.spotify.com/track/52HZfvYGAbWx86xzFBeoQh"
+    },
+    {
+      "added_at": "2024-03-28 01:30:00",
+      "album": {
+        "name": "Me Olvide de Vivir",
+        "url": "https://open.spotify.com/album/5PdiRF2P994XMGCon5JnRD"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Rosario",
+          "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
+        }
+      ],
+      "duration_ms": 337800,
+      "name": "Donde",
+      "url": "https://open.spotify.com/track/3OoiMXkwdEbsSGPrJMGwlv"
     },
     {
       "added_at": "2024-03-28 01:30:00",
@@ -683,22 +699,6 @@
     {
       "added_at": "2024-03-28 01:30:00",
       "album": {
-        "name": "Me Olvide de Vivir",
-        "url": "https://open.spotify.com/album/5PdiRF2P994XMGCon5JnRD"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1o Rosario",
-          "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
-        }
-      ],
-      "duration_ms": 337800,
-      "name": "Donde",
-      "url": "https://open.spotify.com/track/3OoiMXkwdEbsSGPrJMGwlv"
-    },
-    {
-      "added_at": "2024-03-28 01:30:00",
-      "album": {
         "name": "Los A\u00f1os Dorados",
         "url": "https://open.spotify.com/album/1HOTq1XpgcX1Gg2KWw9ike"
       },
@@ -711,22 +711,6 @@
       "duration_ms": 271560,
       "name": "Si T\u00fa Eres Mi Hombre y Yo Tu Mujer",
       "url": "https://open.spotify.com/track/2k1zJtaVIDZdP0HDMKMEEu"
-    },
-    {
-      "added_at": "2024-03-28 01:30:00",
-      "album": {
-        "name": "Esc\u00fachame",
-        "url": "https://open.spotify.com/album/09bJwJxoqry4AZzHQLlGiH"
-      },
-      "artists": [
-        {
-          "name": "Joseph Fonseca",
-          "url": "https://open.spotify.com/artist/0XyTZ8tZBTUvsB9N2470r0"
-        }
-      ],
-      "duration_ms": 237560,
-      "name": "Que Levante la Mano",
-      "url": "https://open.spotify.com/track/4mPgxlYJlHWiy5BrzKxBe1"
     },
     {
       "added_at": "2024-03-28 01:30:00",
@@ -783,22 +767,6 @@
     {
       "added_at": "2024-03-28 01:30:00",
       "album": {
-        "name": "Juntos Con Sus \u00c9xitos",
-        "url": "https://open.spotify.com/album/0lKVudDiHqax3e3sj3AHrb"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Rosario",
-          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
-        }
-      ],
-      "duration_ms": 257426,
-      "name": "Mi Tonto Amor",
-      "url": "https://open.spotify.com/track/59v5xM3ExyPEMx62PDAlNm"
-    },
-    {
-      "added_at": "2024-03-28 01:30:00",
-      "album": {
         "name": "La Fiesta Esta Buena",
         "url": "https://open.spotify.com/album/2KfSSG74HKQnfD7GedWGcc"
       },
@@ -815,34 +783,18 @@
     {
       "added_at": "2024-03-28 01:30:00",
       "album": {
-        "name": "Vete y Dile",
-        "url": "https://open.spotify.com/album/6nudGjOlFRKCC2YFcaP2US"
+        "name": "Esc\u00fachame",
+        "url": "https://open.spotify.com/album/09bJwJxoqry4AZzHQLlGiH"
       },
       "artists": [
         {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+          "name": "Joseph Fonseca",
+          "url": "https://open.spotify.com/artist/0XyTZ8tZBTUvsB9N2470r0"
         }
       ],
-      "duration_ms": 291781,
-      "name": "Vete y Dile",
-      "url": "https://open.spotify.com/track/3XKNq4sd6UXmu1dKwIfhL5"
-    },
-    {
-      "added_at": "2024-03-28 01:30:00",
-      "album": {
-        "name": "Mi Tierra",
-        "url": "https://open.spotify.com/album/2Ew3tAeAVj7VG1V4WibJft"
-      },
-      "artists": [
-        {
-          "name": "El Jeffrey",
-          "url": "https://open.spotify.com/artist/0WfG4KbWJJoxomK5HH1kSX"
-        }
-      ],
-      "duration_ms": 224634,
-      "name": "Palabritas",
-      "url": "https://open.spotify.com/track/5epiks9AVbw6MoHRv41bPW"
+      "duration_ms": 237560,
+      "name": "Que Levante la Mano",
+      "url": "https://open.spotify.com/track/4mPgxlYJlHWiy5BrzKxBe1"
     },
     {
       "added_at": "2024-03-28 01:30:00",
@@ -863,6 +815,38 @@
     {
       "added_at": "2024-03-28 01:30:00",
       "album": {
+        "name": "Juntos Con Sus \u00c9xitos",
+        "url": "https://open.spotify.com/album/0lKVudDiHqax3e3sj3AHrb"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Rosario",
+          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
+        }
+      ],
+      "duration_ms": 257426,
+      "name": "Mi Tonto Amor",
+      "url": "https://open.spotify.com/track/59v5xM3ExyPEMx62PDAlNm"
+    },
+    {
+      "added_at": "2024-03-28 01:30:00",
+      "album": {
+        "name": "Vete y Dile",
+        "url": "https://open.spotify.com/album/6nudGjOlFRKCC2YFcaP2US"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+        }
+      ],
+      "duration_ms": 291781,
+      "name": "Vete y Dile",
+      "url": "https://open.spotify.com/track/3XKNq4sd6UXmu1dKwIfhL5"
+    },
+    {
+      "added_at": "2024-03-28 01:30:00",
+      "album": {
         "name": "Vida, Canci\u00f3n y Suerte",
         "url": "https://open.spotify.com/album/2WdxCp3m8IfjNxa2PLpf9u"
       },
@@ -879,6 +863,38 @@
       "duration_ms": 261240,
       "name": "Cobarde Cobarde",
       "url": "https://open.spotify.com/track/67978eUTI2KSUJVgrynk5F"
+    },
+    {
+      "added_at": "2024-03-28 01:30:00",
+      "album": {
+        "name": "Mi Tierra",
+        "url": "https://open.spotify.com/album/2Ew3tAeAVj7VG1V4WibJft"
+      },
+      "artists": [
+        {
+          "name": "El Jeffrey",
+          "url": "https://open.spotify.com/artist/0WfG4KbWJJoxomK5HH1kSX"
+        }
+      ],
+      "duration_ms": 224634,
+      "name": "Palabritas",
+      "url": "https://open.spotify.com/track/5epiks9AVbw6MoHRv41bPW"
+    },
+    {
+      "added_at": "2024-03-28 01:30:00",
+      "album": {
+        "name": "La Negra Mia",
+        "url": "https://open.spotify.com/album/5x4cKnzSCXbgNOEW4mz3SK"
+      },
+      "artists": [
+        {
+          "name": "Benny Sadel",
+          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
+        }
+      ],
+      "duration_ms": 254511,
+      "name": "Maldita Sea",
+      "url": "https://open.spotify.com/track/5YjpYs0P1BcT486h5IIAss"
     },
     {
       "added_at": "2024-03-28 01:30:00",
@@ -911,22 +927,6 @@
       "duration_ms": 284866,
       "name": "Si Alg\u00fan D\u00eda la Ves",
       "url": "https://open.spotify.com/track/3E7KCWu2HzLeI4J32B00DR"
-    },
-    {
-      "added_at": "2024-03-28 01:30:00",
-      "album": {
-        "name": "La Negra Mia",
-        "url": "https://open.spotify.com/album/5x4cKnzSCXbgNOEW4mz3SK"
-      },
-      "artists": [
-        {
-          "name": "Benny Sadel",
-          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
-        }
-      ],
-      "duration_ms": 254511,
-      "name": "Maldita Sea",
-      "url": "https://open.spotify.com/track/5YjpYs0P1BcT486h5IIAss"
     },
     {
       "added_at": "2024-03-28 01:30:00",

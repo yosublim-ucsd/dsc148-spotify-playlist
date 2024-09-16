@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-804 songs - 1 day 19 hr 46 min
+805 songs - 1 day 19 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [CHASING FANTASIES](https://open.spotify.com/track/3zMfCySyYt5H0vB4p8dd4n) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV) | [1\-800 FANTASY](https://open.spotify.com/album/4Hc9kwSIRb2jgE441FOueK) | 4:15 | 2024-07-19 |  |
 | [chasing the bus](https://open.spotify.com/track/2nvb9TWAONy5kzsqEUyT2z) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [chasing the bus](https://open.spotify.com/album/1YT9NhBcdQG2dlWouHhaSp) | 3:08 | 2024-02-02 |  |
 | [CHERIMOYA](https://open.spotify.com/track/2dldFaASbSWz8uzz9KY2al) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [CHERIMOYA](https://open.spotify.com/album/4PrcKgbbS0rudXsXJqfyR5) | 2:09 | 2023-02-10 | 2023-10-07 |
-| [Cherry Delight](https://open.spotify.com/track/4w2rs45lbR16nWa7UclbzN) | [1000 Beasts](https://open.spotify.com/artist/3gFKwhL6BbxCd4Meqm2AH9), [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI) | [Cherry Delight](https://open.spotify.com/album/5J3jmFBDseDbLmrtto1bcy) | 2:57 | 2023-09-08 |  |
+| [Cherry Delight](https://open.spotify.com/track/4w2rs45lbR16nWa7UclbzN) | [1000 Beasts](https://open.spotify.com/artist/3gFKwhL6BbxCd4Meqm2AH9), [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI) | [Cherry Delight](https://open.spotify.com/album/5J3jmFBDseDbLmrtto1bcy) | 2:57 | 2023-09-08 | 2024-09-16 |
 | [Cherry Ice Cream Sundae](https://open.spotify.com/track/2kp5QEtvCuWmDmc7prlDJq) | [Simpson](https://open.spotify.com/artist/0uaV2JpwdbHof3chjM8sow) | [Cherry Ice Cream Sundae](https://open.spotify.com/album/17BNqYJaKGeF9xwU2xCuy0) | 3:12 | 2021-12-15 | 2022-07-29 |
 | [Chevy Chase Drive](https://open.spotify.com/track/6mR3TfiZ6ZflkZyvu0VGIL) | [Eleaze](https://open.spotify.com/artist/1JHJf5BahbFUJxKvVeeuXF), [itsonlyha](https://open.spotify.com/artist/6BnPL6xFNq6krnKjdN8Ezo) | [Tales Never Told](https://open.spotify.com/album/1JHXQLaL4dPhiIjytfkv5e) | 4:18 | 2022-02-11 | 2022-07-29 |
 | [Childs Play \(feat\. Chance the Rapper\)](https://open.spotify.com/track/7GPstnufSTScEaw9dMxO9H) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Z](https://open.spotify.com/album/2qCyMMQ785sPH4Yx25GQZ8) | 3:36 | 2021-12-15 | 2022-09-17 |
@@ -141,6 +141,7 @@
 | [Come And Get It](https://open.spotify.com/track/5EgtpehGDHJyNQQVesb2fw) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu) | [Come And Get It](https://open.spotify.com/album/17FivesjC4MXXd1QOCOxXQ) | 2:26 | 2023-03-24 | 2024-06-16 |
 | [Common Ground](https://open.spotify.com/track/0GWOhOxjumDONeZ6YIZJkW) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM), [sneek](https://open.spotify.com/artist/6O4EoU7wO1VU8yAEhbIii5) | [sneek](https://open.spotify.com/album/48KwaEx2y9uL0cHJBoKacx) | 3:01 | 2023-11-19 | 2024-01-06 |
 | [Concentrate](https://open.spotify.com/track/78BHW3aMoR2UrF1Pg1W0oc) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Concentrate](https://open.spotify.com/album/12Q6rsos506fgL55F1c5Ca) | 4:41 | 2023-11-10 |  |
+| [Confusional](https://open.spotify.com/track/1QXk8zas7jeb6WhD9sS4Sh) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Malaya](https://open.spotify.com/artist/0qeCnlpThKmwCQezKhnVQb), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Nintindo Soul](https://open.spotify.com/album/1HaSycwssAOYNRmcdr1MXR) | 2:24 | 2024-09-13 |  |
 | [Connaissais de Face](https://open.spotify.com/track/0ibpvxLcFccvQJd0SjdUvW) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Mordechai](https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb) | 4:20 | 2022-06-30 | 2023-01-28 |
 | [Connaissais de Face](https://open.spotify.com/track/6cVstYpU7fB0IKhJJmaqVe) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Mordechai](https://open.spotify.com/album/06814vxpRbL5CPMk1CTvOk) | 4:20 | 2021-12-15 | 2022-07-29 |
 | [controllin](https://open.spotify.com/track/1Tmbe21KTdlEZcTXYPU7M3) | [ESTA.](https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO), [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [FRANCIS](https://open.spotify.com/album/4tIEFaeXJpNVw53d4AJwBs) | 4:44 | 2024-06-07 |  |

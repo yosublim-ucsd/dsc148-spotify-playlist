@@ -1,12 +1,12 @@
 {
-  "description": "This is Rammstein. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 1353448,
+  "description": "This is Rammstein. The essential tracks, all in one playlist.",
+  "num_followers": 1353618,
   "original_name": "This Is Rammstein",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuOAgAAAAAAZ97sAQESoE8l2Fc/S+eW5",
+  "snapshot_id": "ZuTSAAAAAAAmyBFggVOkUWekW3F/NIHa",
   "tracks": [
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Made In Germany 1995 - 2011 - Special Edition",
-        "url": "https://open.spotify.com/album/20mEbRzpqGIWyLtUO6LbjB"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        }
-      ],
-      "duration_ms": 233186,
-      "name": "Mein Land",
-      "url": "https://open.spotify.com/track/1Cssm6TMieYSFz8gQyPzxa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reise, Reise",
         "url": "https://open.spotify.com/album/74ydDCcXTco741y42ceRJ5"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 256306,
       "name": "Moskau",
       "url": "https://open.spotify.com/track/4L9UGREMQBfYLmGwlACgTV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Made In Germany 1995 - 2011 - Special Edition",
+        "url": "https://open.spotify.com/album/20mEbRzpqGIWyLtUO6LbjB"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "duration_ms": 233186,
+      "name": "Mein Land",
+      "url": "https://open.spotify.com/track/1Cssm6TMieYSFz8gQyPzxa"
     },
     {
       "added_at": null,

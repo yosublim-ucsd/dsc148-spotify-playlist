@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP?si=KA9iV8BtSVC0dbIMeBMOYQ">A\-Reece</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,784 likes - 54 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,831 likes - 54 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ties](https://open.spotify.com/track/6fhdHxw1hpcu61VYuLrCJS) | [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP) | [Kill The King: the mixtape](https://open.spotify.com/album/5XxghpaGYOjMYfaggN0g0t) | 3:00 |
+| 1 | [ties](https://open.spotify.com/track/6fhdHxw1hpcu61VYuLrCJS) | [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP), [Kid Kaydence](https://open.spotify.com/artist/6kX68XvI6XApszdzazHv0g) | [Kill The King: the mixtape](https://open.spotify.com/album/5XxghpaGYOjMYfaggN0g0t) | 3:00 |
 | 2 | [Uvalo](https://open.spotify.com/track/3H8XWGDteOl8nmUqeYrHw5) | [Usimamane](https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs), [Sjava](https://open.spotify.com/artist/40RlEnkG5w3RmLrFBZlZ2b) | [20th: Days Before Maud](https://open.spotify.com/album/41wiN7FdTbfUJHbjaQW1YH) | 5:24 |
 | 3 | [Amalanga \(feat\. TO Starquality, Chley & Kabza De Small\)](https://open.spotify.com/track/0nW9PrcihaknNnldmEx08O) | [Mas Musiq](https://open.spotify.com/artist/3fdFRgy3GmfiWQqeKbmFS8), [Lawd Weezy](https://open.spotify.com/artist/5DrdfQwRGTeV7erKmKVZ6i), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [TO Starquality](https://open.spotify.com/artist/34RwSIfWKAwRdIq6cdYnZv), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR) | [Lane Yam](https://open.spotify.com/album/28AZxEOZc6Tk7nAzecfuaY) | 6:25 |
 | 4 | [Rekisa Kapela \(feat\. Certified Dyan\)](https://open.spotify.com/track/2R9umN6jc2EoVlIEegbWOT) | [EeQue](https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Certified Dyan](https://open.spotify.com/artist/5lD4Tgz3swAAOiKq5F5f9Q) | [The EEQualizer](https://open.spotify.com/album/59OalmK2yPw6B6PLgQdW3U) | 6:01 |

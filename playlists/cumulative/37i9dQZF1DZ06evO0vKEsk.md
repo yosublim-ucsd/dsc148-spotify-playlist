@@ -2,7 +2,7 @@
 
 ### [This Is Bruna Karla](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0vKEsk)
 
-> This is Bruna Karla\. Todos os maiores hits em uma só playlist.
+> This is Bruna Karla\. Track\-track unggulan, semuanya dalam satu playlist.
 
 75 songs - 6 hr 21 min
 

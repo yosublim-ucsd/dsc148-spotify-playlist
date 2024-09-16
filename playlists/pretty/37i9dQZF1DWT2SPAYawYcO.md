@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Charli xcx, Troye Sivan
 
-[Spotify](https://open.spotify.com/user/spotify) - 379,950 likes - 86 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,978 likes - 86 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

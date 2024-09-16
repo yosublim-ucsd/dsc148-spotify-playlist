@@ -1,6 +1,6 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 125107,
+  "num_followers": 125161,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2024-07-10 08:16:23",
       "album": {
-        "name": "Alternative",
-        "url": "https://open.spotify.com/album/7wNYJAljvvFXlbpkB120Aw"
-      },
-      "artists": [
-        {
-          "name": "Pet Shop Boys",
-          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
-        }
-      ],
-      "duration_ms": 250973,
-      "name": "Miserablism",
-      "url": "https://open.spotify.com/track/20GBfHqwta4csdKTDVjZ9F"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
         "name": "Qualm",
         "url": "https://open.spotify.com/album/2hYmcjIinZoVCog5sP4k0H"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 491050,
       "name": "The Smell Of Suds And Steel",
       "url": "https://open.spotify.com/track/0wZ7yAcRnaY9Lz0YJiSizK"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
+        "name": "Alternative",
+        "url": "https://open.spotify.com/album/7wNYJAljvvFXlbpkB120Aw"
+      },
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "duration_ms": 250973,
+      "name": "Miserablism",
+      "url": "https://open.spotify.com/track/20GBfHqwta4csdKTDVjZ9F"
     },
     {
       "added_at": "2024-07-10 08:16:23",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-07-10 08:16:23",
       "album": {
-        "name": "Frequencies",
-        "url": "https://open.spotify.com/album/5HJhDqS70hQWNdOwQjY5b0"
-      },
-      "artists": [
-        {
-          "name": "LFO",
-          "url": "https://open.spotify.com/artist/2M0T4a1pkOC5nifN9W6e9e"
-        }
-      ],
-      "duration_ms": 207960,
-      "name": "LFO - Leeds Warehouse Mix",
-      "url": "https://open.spotify.com/track/1ENkpHz1LU2JlH0g3HnO2W"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
         "name": "Better Living Through Chemistry (20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/2GWrgTg7zDKCz1FxxG6htP"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 348826,
       "name": "Everybody Needs A 303",
       "url": "https://open.spotify.com/track/3kKa6jshpLfxKW9GOb3IXK"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
+        "name": "Frequencies",
+        "url": "https://open.spotify.com/album/5HJhDqS70hQWNdOwQjY5b0"
+      },
+      "artists": [
+        {
+          "name": "LFO",
+          "url": "https://open.spotify.com/artist/2M0T4a1pkOC5nifN9W6e9e"
+        }
+      ],
+      "duration_ms": 207960,
+      "name": "LFO - Leeds Warehouse Mix",
+      "url": "https://open.spotify.com/track/1ENkpHz1LU2JlH0g3HnO2W"
     },
     {
       "added_at": "2024-07-10 08:16:23",

@@ -2,7 +2,7 @@
 
 ### [This Is Jennifer Lopez](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1vOtdC)
 
-> This is Jennifer Lopez\. The essential tracks, all in one playlist.
+> This Is Jennifer Lopez\. Los temas esenciales, todos en una lista.
 
 79 songs - 4 hr 47 min
 
@@ -59,7 +59,7 @@
 | [Midnight Trip to Vegas](https://open.spotify.com/track/2eKXOcKmnCbyLGoAwxafDV) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Now](https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt) | 3:11 | 2024-02-28 | 2024-04-29 |
 | [Ni Tú Ni Yo \(feat\. Gente de Zona\)](https://open.spotify.com/track/5xMzazov0IHYllrc8U2K6F) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Ni Tú Ni Yo \(feat\. Gente de Zona\)](https://open.spotify.com/album/5ekcwlR6IVNcv2OMjcuz0G) | 3:35 | 2023-07-28 |  |
 | [No Me Ames \(with Marc Anthony\) \- Tropical Remix](https://open.spotify.com/track/2F9GxThWActrY2FsKiPguj) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [On The 6](https://open.spotify.com/album/43CV8Hxctvm8BUCesUaxMk) | 5:02 | 2023-07-28 |  |
-| [Nobody's Watching \(Marry Me\)](https://open.spotify.com/track/5hQ9Pn43MLtBzlBQSPVhEG) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Marry Me \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6seUERIBHA7qbR5ReDm66x) | 2:56 | 2023-08-03 |  |
+| [Nobody's Watching \(Marry Me\)](https://open.spotify.com/track/5hQ9Pn43MLtBzlBQSPVhEG) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Marry Me \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6seUERIBHA7qbR5ReDm66x) | 2:56 | 2023-08-03 | 2024-09-16 |
 | [not.going.anywhere.](https://open.spotify.com/track/1kNe74Q5XaOeaAc8Y0TSpS) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Now \(Deluxe\)](https://open.spotify.com/album/5n2H8XDZfGQS92t0dpTNtg) | 3:30 | 2024-03-09 | 2024-04-28 |
 | [not.going.anywhere.](https://open.spotify.com/track/5qwgsZAUH20Wlrmth5LXTx) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Now](https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt) | 3:30 | 2024-02-20 | 2024-03-10 |
 | [Olvídame y Pega la Vuelta](https://open.spotify.com/track/2tergQtVsHUBYlL76Kx93c) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Olvídame y Pega la Vuelta](https://open.spotify.com/album/7i0IU9ewVxt4do3QZZLXzN) | 3:31 | 2023-07-28 |  |
@@ -73,7 +73,7 @@
 | [Qué Hiciste](https://open.spotify.com/track/6jGH911Nz9lPCSK9pd4tVQ) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Como Ama Una Mujer](https://open.spotify.com/album/07ztulX4jyOAR5nUUYc2K6) | 4:57 | 2023-07-28 | 2024-07-10 |
 | [Rebound \(feat\. Anuel AA\)](https://open.spotify.com/track/0kc2XuAnTuAA4viTMoKsjV) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [This Is Me...Now \(Deluxe\)](https://open.spotify.com/album/5n2H8XDZfGQS92t0dpTNtg) | 3:19 | 2024-02-17 | 2024-07-03 |
 | [Se Acabó el Amor \- Urban Version](https://open.spotify.com/track/37ZbdPsSjAZjPTVKPi8Dii) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Se Acabó el Amor \(Urban Version\)](https://open.spotify.com/album/2mWZ8F5SXi9w8VRVkc0BZJ) | 3:50 | 2023-12-24 | 2024-01-14 |
-| [Te Guste](https://open.spotify.com/track/0ifLplTQxXkFZKMQpWCHii) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Te Guste](https://open.spotify.com/album/0TV9iQEnYeQeKZOfXhok1D) | 3:42 | 2023-07-28 | 2024-09-15 |
+| [Te Guste](https://open.spotify.com/track/0ifLplTQxXkFZKMQpWCHii) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Te Guste](https://open.spotify.com/album/0TV9iQEnYeQeKZOfXhok1D) | 3:42 | 2023-07-28 |  |
 | [Theme From Mahagony \(Do You Know Where You're Going To\)](https://open.spotify.com/track/7bNnrac7k9CkwQRQsfGb7x) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On The 6](https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc) | 3:34 | 2023-07-28 | 2023-11-11 |
 | [This Is Me…Now](https://open.spotify.com/track/5HsVnMsIHrC6aUeOs7Eco4) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me…Now](https://open.spotify.com/album/6bK4Nw216MJu7RK9IJgHCG) | 4:13 | 2024-02-05 | 2024-05-24 |
 | [This Time Around](https://open.spotify.com/track/6fveZbfaioqsGCZDaCEUqV) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Now](https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt) | 3:55 | 2024-03-04 | 2024-04-23 |

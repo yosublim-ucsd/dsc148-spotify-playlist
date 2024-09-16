@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 
 > Your Tech House session for the dance floor \| Submit: houseiumpromo@gmail.com
 
-[Houseium Playlists](https://open.spotify.com/user/jayke0108) - 11,016 likes - 60 songs - 3 hr 7 min
+[Houseium Playlists](https://open.spotify.com/user/jayke0108) - 11,014 likes - 61 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,5 +68,6 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 | 58 | [One On One \(feat\. marlonbeats\)](https://open.spotify.com/track/5UeW8R15toXJcw6Vk5dBb8) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [marlonbeats](https://open.spotify.com/artist/5CgKRZNH68S6yctIBLPOmx), [Diede](https://open.spotify.com/artist/2sNBakZRs72upiLJFzAQLZ) | [One On One \(feat\. marlonbeats\)](https://open.spotify.com/album/08QI4r07qv4sCiNGNp3DSF) | 2:18 |
 | 59 | [So Different](https://open.spotify.com/track/7ncQlEWDcux4xhuoGzY2Lc) | [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt), [TOYZZ](https://open.spotify.com/artist/79WxyVmZBcttTrPqhaAOwV) | [So Different](https://open.spotify.com/album/36Qxy0uYkoTu5sVWvIzoVZ) | 3:00 |
 | 60 | [There It Is](https://open.spotify.com/track/71b4fGIGMUacvD6fg6xltk) | [X & Ivy](https://open.spotify.com/artist/5GrYSX7RkjYmhl0eUWRcpH) | [There It Is](https://open.spotify.com/album/1HIhM9eys4WCCLvgcppZTl) | 3:09 |
+| 61 | [DADDY KEEPS CALLING](https://open.spotify.com/track/1iue9j6pHYFdk8pR0ekLJS) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY) | [DADDY KEEPS CALLING](https://open.spotify.com/album/3yceYuyQpneDvuHnkTR41C) | 2:37 |
 
-Snapshot ID: `AAAZA4XJ7DMnSmZxukQeshW6dETp7oE0`
+Snapshot ID: `AAAZBPj9AUGTdVBrbRILvVcfinRNWkHf`

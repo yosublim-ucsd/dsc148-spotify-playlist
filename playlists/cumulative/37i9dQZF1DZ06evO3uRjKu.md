@@ -2,7 +2,7 @@
 
 ### [This Is Vilma Palma e Vampiros](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3uRjKu)
 
-> This Is Vilma Palma e Vampiros\. Los temas esenciales, todos en una lista.
+> This Is Vilma Palma e Vampiros\. Les titres incontournables, réunis dans une seule et même playlist.
 
 70 songs - 4 hr 52 min
 

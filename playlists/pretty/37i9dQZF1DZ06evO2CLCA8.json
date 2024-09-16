@@ -1,12 +1,12 @@
 {
-  "description": "This is Tom Petty and the Heartbreakers. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 821,
+  "description": "This is Tom Petty and the Heartbreakers. The essential tracks, all in one playlist.",
+  "num_followers": 820,
   "original_name": "This Is Tom Petty and the Heartbreakers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuOAgAAAAAC4J27dnsT8reqoafPQ8hAi",
+  "snapshot_id": "ZuTSAAAAAAAlGNoYVAhYrJnt6J9NWq2W",
   "tracks": [
     {
       "added_at": null,
@@ -631,26 +631,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Concert For George (Live)",
-        "url": "https://open.spotify.com/album/6EvU9hFh2ZPeumNOFy1dAu"
+        "name": "The Live Anthology",
+        "url": "https://open.spotify.com/album/1O804nfr6T6BvswqLqd3Lh"
       },
       "artists": [
         {
           "name": "Tom Petty and the Heartbreakers",
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        },
-        {
-          "name": "Jeff Lynne",
-          "url": "https://open.spotify.com/artist/3bTAaMx9nf237AkBnGw3vL"
-        },
-        {
-          "name": "Dhani Harrison",
-          "url": "https://open.spotify.com/artist/0BNG5EOWoNlIE1Q1c4L0Kh"
         }
       ],
-      "duration_ms": 207067,
-      "name": "Handle With Care - Live",
-      "url": "https://open.spotify.com/track/47yw82GNS8dhab1nXfZSIx"
+      "duration_ms": 169893,
+      "name": "Alright for Now - Live",
+      "url": "https://open.spotify.com/track/24PCWkrRVYdt6b7TT9gd6s"
     },
     {
       "added_at": null,
@@ -687,18 +679,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Live Anthology",
-        "url": "https://open.spotify.com/album/1O804nfr6T6BvswqLqd3Lh"
+        "name": "Concert For George (Live)",
+        "url": "https://open.spotify.com/album/6EvU9hFh2ZPeumNOFy1dAu"
       },
       "artists": [
         {
           "name": "Tom Petty and the Heartbreakers",
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        },
+        {
+          "name": "Jeff Lynne",
+          "url": "https://open.spotify.com/artist/3bTAaMx9nf237AkBnGw3vL"
+        },
+        {
+          "name": "Dhani Harrison",
+          "url": "https://open.spotify.com/artist/0BNG5EOWoNlIE1Q1c4L0Kh"
         }
       ],
-      "duration_ms": 169893,
-      "name": "Alright for Now - Live",
-      "url": "https://open.spotify.com/track/24PCWkrRVYdt6b7TT9gd6s"
+      "duration_ms": 207067,
+      "name": "Handle With Care - Live",
+      "url": "https://open.spotify.com/track/47yw82GNS8dhab1nXfZSIx"
     },
     {
       "added_at": null,

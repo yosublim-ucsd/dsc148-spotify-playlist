@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RbzfW.md) - [plain]
 
 ### [This Is Rammstein](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3RbzfW)
 
-> This is Rammstein\. Todos os maiores hits em uma só playlist.
+> This is Rammstein\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,353,448 likes - 46 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,353,618 likes - 46 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RbzfW.md) - [plain]
 | 35 | [Mann gegen Mann](https://open.spotify.com/track/0GxIAMtKFYTQZpR1avO6HB) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rosenrot](https://open.spotify.com/album/3PrS5X3QNdDUlBIE4bz6J2) | 3:50 |
 | 36 | [Sehnsucht](https://open.spotify.com/track/3oWFQPp5lL5x907hCcCRa9) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht](https://open.spotify.com/album/2w6Vy8qZLU4niyQAHyu0Ag) | 4:04 |
 | 37 | [Pussy](https://open.spotify.com/track/50AB24h51HlBrp6PqOg50k) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Liebe ist für alle da \- Special Edition](https://open.spotify.com/album/29J0MchD0OWNeiMNbPDwfa) | 3:59 |
-| 38 | [Mein Land](https://open.spotify.com/track/1Cssm6TMieYSFz8gQyPzxa) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Made In Germany 1995 \- 2011 \- Special Edition](https://open.spotify.com/album/20mEbRzpqGIWyLtUO6LbjB) | 3:53 |
-| 39 | [Moskau](https://open.spotify.com/track/4L9UGREMQBfYLmGwlACgTV) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Reise, Reise](https://open.spotify.com/album/74ydDCcXTco741y42ceRJ5) | 4:16 |
+| 38 | [Moskau](https://open.spotify.com/track/4L9UGREMQBfYLmGwlACgTV) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Reise, Reise](https://open.spotify.com/album/74ydDCcXTco741y42ceRJ5) | 4:16 |
+| 39 | [Mein Land](https://open.spotify.com/track/1Cssm6TMieYSFz8gQyPzxa) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Made In Germany 1995 \- 2011 \- Special Edition](https://open.spotify.com/album/20mEbRzpqGIWyLtUO6LbjB) | 3:53 |
 | 40 | [Rammstein](https://open.spotify.com/track/0Zfh4uDmJz3D44Qy9nYMqu) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Herzeleid \- XXV Anniversary Edition – Remastered](https://open.spotify.com/album/6HlDm9fzYxk4vkkr3YEvSv) | 4:27 |
 | 41 | [Benzin](https://open.spotify.com/track/1XanLfYUUBB6bLbnSh1KyU) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rosenrot](https://open.spotify.com/album/3PrS5X3QNdDUlBIE4bz6J2) | 3:46 |
 | 42 | [Rammlied](https://open.spotify.com/track/1jBL8PB3CqDYjR0luCpX00) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Liebe ist für alle da \- Special Edition](https://open.spotify.com/album/29J0MchD0OWNeiMNbPDwfa) | 5:18 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RbzfW.md) - [plain]
 | 45 | [Wiener Blut](https://open.spotify.com/track/08JxNhMdDeknB1vXn8wO9q) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Liebe ist für alle da \- Special Edition](https://open.spotify.com/album/29J0MchD0OWNeiMNbPDwfa) | 3:52 |
 | 46 | [Heirate mich](https://open.spotify.com/track/33LTCp3HM36k7KuB7M3IHd) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Herzeleid \- XXV Anniversary Edition – Remastered](https://open.spotify.com/album/6HlDm9fzYxk4vkkr3YEvSv) | 4:44 |
 
-Snapshot ID: `ZuOAgAAAAAAZ97sAQESoE8l2Fc/S+eW5`
+Snapshot ID: `ZuTSAAAAAAAmyBFggVOkUWekW3F/NIHa`

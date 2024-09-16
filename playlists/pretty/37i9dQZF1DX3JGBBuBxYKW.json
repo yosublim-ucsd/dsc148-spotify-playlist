@@ -1,6 +1,6 @@
 {
   "description": "Reinas de la cumbia, de hoy y de siempre. \nFoto: Karina.",
-  "num_followers": 102399,
+  "num_followers": 102441,
   "original_name": "Cumbieras",
   "owner": {
     "name": "Spotify",
@@ -127,42 +127,6 @@
     {
       "added_at": "2024-08-02 17:21:35",
       "album": {
-        "name": "La Leyenda - Version Super Deluxe",
-        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 161906,
-      "name": "Baila Esta Cumbia",
-      "url": "https://open.spotify.com/track/3lFGBrRWUxpTfhhq6lGBRw"
-    },
-    {
-      "added_at": "2024-08-02 17:21:35",
-      "album": {
-        "name": "La Luna y T\u00fa",
-        "url": "https://open.spotify.com/album/6tj3hUb520RFwQHHM5Osyk"
-      },
-      "artists": [
-        {
-          "name": "Rafaga",
-          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
-        },
-        {
-          "name": "Soledad",
-          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
-        }
-      ],
-      "duration_ms": 216734,
-      "name": "La Luna y T\u00fa",
-      "url": "https://open.spotify.com/track/4PGopmEXr1E5OQa4eA8s8S"
-    },
-    {
-      "added_at": "2024-08-02 17:21:35",
-      "album": {
         "name": "Amor a Primera Vista",
         "url": "https://open.spotify.com/album/6FSP9t3yTTFO6hOBkIxOIY"
       },
@@ -187,6 +151,42 @@
       "duration_ms": 220941,
       "name": "Amor a Primera Vista",
       "url": "https://open.spotify.com/track/5M6bJO7Cfl4lnPoAHG0EdD"
+    },
+    {
+      "added_at": "2024-08-02 17:21:35",
+      "album": {
+        "name": "La Luna y T\u00fa",
+        "url": "https://open.spotify.com/album/6tj3hUb520RFwQHHM5Osyk"
+      },
+      "artists": [
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        },
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        }
+      ],
+      "duration_ms": 216734,
+      "name": "La Luna y T\u00fa",
+      "url": "https://open.spotify.com/track/4PGopmEXr1E5OQa4eA8s8S"
+    },
+    {
+      "added_at": "2024-08-02 17:21:35",
+      "album": {
+        "name": "La Leyenda - Version Super Deluxe",
+        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 161906,
+      "name": "Baila Esta Cumbia",
+      "url": "https://open.spotify.com/track/3lFGBrRWUxpTfhhq6lGBRw"
     },
     {
       "added_at": "2024-08-02 17:21:35",
@@ -231,22 +231,6 @@
     {
       "added_at": "2024-08-02 17:21:35",
       "album": {
-        "name": "Dreaming Of You",
-        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 184733,
-      "name": "Como La Flor",
-      "url": "https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF"
-    },
-    {
-      "added_at": "2024-08-02 17:21:35",
-      "album": {
         "name": "Ten\u00edas Que Ser T\u00fa",
         "url": "https://open.spotify.com/album/0S2fWlZm0i6m8CtlnspJyj"
       },
@@ -263,6 +247,26 @@
       "duration_ms": 141829,
       "name": "Ten\u00edas Que Ser T\u00fa",
       "url": "https://open.spotify.com/track/2rIKsynpXAj5bHFdY6ESE1"
+    },
+    {
+      "added_at": "2024-08-02 17:21:35",
+      "album": {
+        "name": "Tus Botellas",
+        "url": "https://open.spotify.com/album/72tcmJLIc4I1AX2DC23G04"
+      },
+      "artists": [
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        },
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        }
+      ],
+      "duration_ms": 202160,
+      "name": "Tus Botellas",
+      "url": "https://open.spotify.com/track/1k8BmoheA7yzC6MpyEqlKt"
     },
     {
       "added_at": "2024-08-02 17:21:35",
@@ -319,18 +323,18 @@
     {
       "added_at": "2024-08-02 17:21:35",
       "album": {
-        "name": "30 Aniversario",
-        "url": "https://open.spotify.com/album/7bYeeLp33ix2DiyM8f5It6"
+        "name": "Dreaming Of You",
+        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
       },
       "artists": [
         {
-          "name": "Margarita la diosa de la cumbia",
-          "url": "https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn"
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 288560,
-      "name": "Esc\u00e1ndalo",
-      "url": "https://open.spotify.com/track/1Ed4AvDGnUGtU0dYrnwLPg"
+      "duration_ms": 184733,
+      "name": "Como La Flor",
+      "url": "https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF"
     },
     {
       "added_at": "2024-08-02 17:21:35",
@@ -351,22 +355,18 @@
     {
       "added_at": "2024-08-02 17:21:35",
       "album": {
-        "name": "Tus Botellas",
-        "url": "https://open.spotify.com/album/72tcmJLIc4I1AX2DC23G04"
+        "name": "30 Aniversario",
+        "url": "https://open.spotify.com/album/7bYeeLp33ix2DiyM8f5It6"
       },
       "artists": [
         {
-          "name": "Soledad",
-          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
-        },
-        {
-          "name": "Eugenia Quevedo",
-          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+          "name": "Margarita la diosa de la cumbia",
+          "url": "https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn"
         }
       ],
-      "duration_ms": 202160,
-      "name": "Tus Botellas",
-      "url": "https://open.spotify.com/track/1k8BmoheA7yzC6MpyEqlKt"
+      "duration_ms": 288560,
+      "name": "Esc\u00e1ndalo",
+      "url": "https://open.spotify.com/track/1Ed4AvDGnUGtU0dYrnwLPg"
     },
     {
       "added_at": "2024-08-02 17:21:35",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-08-02 17:21:35",
       "album": {
-        "name": "Viru Kumbieron",
-        "url": "https://open.spotify.com/album/1CCcCWcacL3qH60tN70tp3"
-      },
-      "artists": [
-        {
-          "name": "Viru Kumbieron",
-          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
-        }
-      ],
-      "duration_ms": 250439,
-      "name": "No Te Creas Tan Importante",
-      "url": "https://open.spotify.com/track/0fwMnXtxDvVyz5qlcws0Uo"
-    },
-    {
-      "added_at": "2024-08-02 17:21:35",
-      "album": {
         "name": "Miau",
         "url": "https://open.spotify.com/album/5cYwo4qHagCDmawKmY12PY"
       },
@@ -663,6 +647,26 @@
       "duration_ms": 222013,
       "name": "Bien Warrior (feat. DJ Krass)",
       "url": "https://open.spotify.com/track/5n1NGn7RHU30QxQHk0onlZ"
+    },
+    {
+      "added_at": "2024-08-02 17:21:35",
+      "album": {
+        "name": "No Te das Cuenta",
+        "url": "https://open.spotify.com/album/5IfUGxWQMzNzLc8NtgtaqC"
+      },
+      "artists": [
+        {
+          "name": "Magui Olave",
+          "url": "https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE"
+        },
+        {
+          "name": "Dale Q' Va",
+          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
+        }
+      ],
+      "duration_ms": 244378,
+      "name": "No Te das Cuenta",
+      "url": "https://open.spotify.com/track/06vi5yYRhFBRoaD5E0fJTt"
     },
     {
       "added_at": "2024-08-02 17:21:35",
@@ -703,22 +707,18 @@
     {
       "added_at": "2024-08-02 17:21:35",
       "album": {
-        "name": "No Te das Cuenta",
-        "url": "https://open.spotify.com/album/5IfUGxWQMzNzLc8NtgtaqC"
+        "name": "Viru Kumbieron",
+        "url": "https://open.spotify.com/album/1CCcCWcacL3qH60tN70tp3"
       },
       "artists": [
         {
-          "name": "Magui Olave",
-          "url": "https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE"
-        },
-        {
-          "name": "Dale Q' Va",
-          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
+          "name": "Viru Kumbieron",
+          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
         }
       ],
-      "duration_ms": 244378,
-      "name": "No Te das Cuenta",
-      "url": "https://open.spotify.com/track/06vi5yYRhFBRoaD5E0fJTt"
+      "duration_ms": 250439,
+      "name": "No Te Creas Tan Importante",
+      "url": "https://open.spotify.com/track/0fwMnXtxDvVyz5qlcws0Uo"
     },
     {
       "added_at": "2024-08-02 17:21:35",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-08-02 17:21:35",
       "album": {
-        "name": "En Peligro de Extinci\u00f3n",
-        "url": "https://open.spotify.com/album/2lrLv3S0wuWr1U0iAsTyQ5"
-      },
-      "artists": [
-        {
-          "name": "Viru Kumbieron",
-          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
-        }
-      ],
-      "duration_ms": 221823,
-      "name": "En Peligro de Extinci\u00f3n",
-      "url": "https://open.spotify.com/track/3iJBKJpJ410zMHs2XgNifm"
-    },
-    {
-      "added_at": "2024-08-02 17:21:35",
-      "album": {
         "name": "Dos Infieles",
         "url": "https://open.spotify.com/album/1f54nsI9jCpMXNryg9RX4f"
       },
@@ -791,22 +775,6 @@
     {
       "added_at": "2024-08-02 17:21:35",
       "album": {
-        "name": "Karma",
-        "url": "https://open.spotify.com/album/6zl0Ny6UMSSXnmMzOYElmC"
-      },
-      "artists": [
-        {
-          "name": "Angela Leiva",
-          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
-        }
-      ],
-      "duration_ms": 176255,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/4SkPhoz2b5busK8p9yc4rB"
-    },
-    {
-      "added_at": "2024-08-02 17:21:35",
-      "album": {
         "name": "Placer y Olvido (En Vivo)",
         "url": "https://open.spotify.com/album/7wcqpXexsimtSCJWu5uYpP"
       },
@@ -819,6 +787,22 @@
       "duration_ms": 82400,
       "name": "Placer y Olvido",
       "url": "https://open.spotify.com/track/6oYPVRn8ioihapnk3hYGRU"
+    },
+    {
+      "added_at": "2024-08-02 17:21:35",
+      "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/6zl0Ny6UMSSXnmMzOYElmC"
+      },
+      "artists": [
+        {
+          "name": "Angela Leiva",
+          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+        }
+      ],
+      "duration_ms": 176255,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/4SkPhoz2b5busK8p9yc4rB"
     },
     {
       "added_at": "2024-08-02 17:21:35",
@@ -875,18 +859,18 @@
     {
       "added_at": "2024-08-02 17:21:35",
       "album": {
-        "name": "Mientes Tan Bien / Dejemoslo Asi / Te Hubieras Ido Antes / Costumbres (En Vivo)",
-        "url": "https://open.spotify.com/album/081TzgwcR2gay01IedQ5ua"
+        "name": "En Peligro de Extinci\u00f3n",
+        "url": "https://open.spotify.com/album/2lrLv3S0wuWr1U0iAsTyQ5"
       },
       "artists": [
         {
-          "name": "Erica",
-          "url": "https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7"
+          "name": "Viru Kumbieron",
+          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
         }
       ],
-      "duration_ms": 589000,
-      "name": "Mientes Tan Bien / Dejemoslo Asi / Te Hubieras Ido Antes / Costumbres - En Vivo",
-      "url": "https://open.spotify.com/track/1nFvxutg7mvAXvTDrmRvkV"
+      "duration_ms": 221823,
+      "name": "En Peligro de Extinci\u00f3n",
+      "url": "https://open.spotify.com/track/3iJBKJpJ410zMHs2XgNifm"
     },
     {
       "added_at": "2024-08-02 17:21:35",
@@ -907,6 +891,22 @@
       "duration_ms": 180748,
       "name": "Abr\u00e1zame y B\u00e9same",
       "url": "https://open.spotify.com/track/4ZiPUCqlr9XeW5JkuWansG"
+    },
+    {
+      "added_at": "2024-08-02 17:21:35",
+      "album": {
+        "name": "Solo un Momento",
+        "url": "https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "duration_ms": 222361,
+      "name": "No Te Ir\u00e1s",
+      "url": "https://open.spotify.com/track/3E1z3ls7cgoAZV98STE2rT"
     },
     {
       "added_at": "2024-08-02 17:21:35",
@@ -943,50 +943,18 @@
     {
       "added_at": "2024-08-02 17:21:35",
       "album": {
-        "name": "Amor de Cuarentena (Urbano)",
-        "url": "https://open.spotify.com/album/7oiQXn5G0q5kapu7i62Sn5"
+        "name": "Mientes Tan Bien / Dejemoslo Asi / Te Hubieras Ido Antes / Costumbres (En Vivo)",
+        "url": "https://open.spotify.com/album/081TzgwcR2gay01IedQ5ua"
       },
       "artists": [
         {
-          "name": "Viru Kumbieron",
-          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+          "name": "Erica",
+          "url": "https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7"
         }
       ],
-      "duration_ms": 194374,
-      "name": "Amor de Cuarentena - Urbano",
-      "url": "https://open.spotify.com/track/7N3XvjdeJ9cz9frgQA0gQ4"
-    },
-    {
-      "added_at": "2024-08-02 17:21:35",
-      "album": {
-        "name": "Solo un Momento",
-        "url": "https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG"
-      },
-      "artists": [
-        {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
-        }
-      ],
-      "duration_ms": 222361,
-      "name": "No Te Ir\u00e1s",
-      "url": "https://open.spotify.com/track/3E1z3ls7cgoAZV98STE2rT"
-    },
-    {
-      "added_at": "2024-08-02 17:21:35",
-      "album": {
-        "name": "Pobre perro",
-        "url": "https://open.spotify.com/album/1vSoPdmoCLwKM0nzzBQddc"
-      },
-      "artists": [
-        {
-          "name": "Natalia Corbal\u00e1n",
-          "url": "https://open.spotify.com/artist/1WI154Z6NR5a5g8FTNtd4q"
-        }
-      ],
-      "duration_ms": 262480,
-      "name": "Si se fue, se fue",
-      "url": "https://open.spotify.com/track/3g6Gva8wnZgWgeSWUIW9Zy"
+      "duration_ms": 589000,
+      "name": "Mientes Tan Bien / Dejemoslo Asi / Te Hubieras Ido Antes / Costumbres - En Vivo",
+      "url": "https://open.spotify.com/track/1nFvxutg7mvAXvTDrmRvkV"
     },
     {
       "added_at": "2024-08-02 17:21:35",
@@ -1007,6 +975,54 @@
     {
       "added_at": "2024-08-02 17:21:35",
       "album": {
+        "name": "El Mundo",
+        "url": "https://open.spotify.com/album/2BvuzOIT0RG2emuTC1fpfI"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "duration_ms": 213183,
+      "name": "El Mundo",
+      "url": "https://open.spotify.com/track/4tlQaF2e3VSQTlK22WRf7L"
+    },
+    {
+      "added_at": "2024-08-02 17:21:35",
+      "album": {
+        "name": "Amor de Cuarentena (Urbano)",
+        "url": "https://open.spotify.com/album/7oiQXn5G0q5kapu7i62Sn5"
+      },
+      "artists": [
+        {
+          "name": "Viru Kumbieron",
+          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+        }
+      ],
+      "duration_ms": 194374,
+      "name": "Amor de Cuarentena - Urbano",
+      "url": "https://open.spotify.com/track/7N3XvjdeJ9cz9frgQA0gQ4"
+    },
+    {
+      "added_at": "2024-08-02 17:21:35",
+      "album": {
+        "name": "Pobre perro",
+        "url": "https://open.spotify.com/album/1vSoPdmoCLwKM0nzzBQddc"
+      },
+      "artists": [
+        {
+          "name": "Natalia Corbal\u00e1n",
+          "url": "https://open.spotify.com/artist/1WI154Z6NR5a5g8FTNtd4q"
+        }
+      ],
+      "duration_ms": 262480,
+      "name": "Si se fue, se fue",
+      "url": "https://open.spotify.com/track/3g6Gva8wnZgWgeSWUIW9Zy"
+    },
+    {
+      "added_at": "2024-08-02 17:21:35",
+      "album": {
         "name": "Sigo Aqu\u00ed",
         "url": "https://open.spotify.com/album/3FgukOIBEtp48rnJMMnVaX"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 240015,
       "name": "Sigo Aqu\u00ed",
       "url": "https://open.spotify.com/track/2q51rLcp0nle6esMsJipOn"
-    },
-    {
-      "added_at": "2024-08-02 17:21:35",
-      "album": {
-        "name": "Es Mi Culpa",
-        "url": "https://open.spotify.com/album/47ReswkeLCiYbJrCW7OzyH"
-      },
-      "artists": [
-        {
-          "name": "Erica",
-          "url": "https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7"
-        }
-      ],
-      "duration_ms": 215067,
-      "name": "Es Mi Culpa",
-      "url": "https://open.spotify.com/track/4S4oqyulWVGMTmgG9FR7JB"
     },
     {
       "added_at": "2024-08-02 17:21:35",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2024-08-02 17:21:35",
       "album": {
+        "name": "Es Mi Culpa",
+        "url": "https://open.spotify.com/album/47ReswkeLCiYbJrCW7OzyH"
+      },
+      "artists": [
+        {
+          "name": "Erica",
+          "url": "https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7"
+        }
+      ],
+      "duration_ms": 215067,
+      "name": "Es Mi Culpa",
+      "url": "https://open.spotify.com/track/4S4oqyulWVGMTmgG9FR7JB"
+    },
+    {
+      "added_at": "2024-08-02 17:21:35",
+      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/4uFfy2wJJI0G3TyFADh5zU"
       },
@@ -1067,6 +1083,22 @@
       "duration_ms": 203973,
       "name": "Lo Que Fui para Ti",
       "url": "https://open.spotify.com/track/4zX4gJVNV5vVgLQNQ3zBkw"
+    },
+    {
+      "added_at": "2024-08-02 17:21:35",
+      "album": {
+        "name": "Perdoname",
+        "url": "https://open.spotify.com/album/4fBFuS9ywy0N2MRghagEJI"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "duration_ms": 217190,
+      "name": "Perdoname",
+      "url": "https://open.spotify.com/track/0Ki4mn5sAw9DEqZsJa9v5H"
     },
     {
       "added_at": "2024-08-02 17:21:35",
@@ -1087,54 +1119,6 @@
     {
       "added_at": "2024-08-02 17:21:35",
       "album": {
-        "name": "El Mundo",
-        "url": "https://open.spotify.com/album/2BvuzOIT0RG2emuTC1fpfI"
-      },
-      "artists": [
-        {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
-        }
-      ],
-      "duration_ms": 213183,
-      "name": "El Mundo",
-      "url": "https://open.spotify.com/track/4tlQaF2e3VSQTlK22WRf7L"
-    },
-    {
-      "added_at": "2024-08-02 17:21:35",
-      "album": {
-        "name": "Ayer Pedi",
-        "url": "https://open.spotify.com/album/2pXbX5czCgui6x2dq6TC5o"
-      },
-      "artists": [
-        {
-          "name": "Natalia Corbal\u00e1n",
-          "url": "https://open.spotify.com/artist/1WI154Z6NR5a5g8FTNtd4q"
-        }
-      ],
-      "duration_ms": 205032,
-      "name": "Ayer Pedi",
-      "url": "https://open.spotify.com/track/0Tc0FMFV5Q0cAaXTCSmglI"
-    },
-    {
-      "added_at": "2024-08-02 17:21:35",
-      "album": {
-        "name": "Amor T\u00f3xico",
-        "url": "https://open.spotify.com/album/0wGToLsV8vdaavtTQiPcUF"
-      },
-      "artists": [
-        {
-          "name": "Viru Kumbieron",
-          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
-        }
-      ],
-      "duration_ms": 247744,
-      "name": "Amor T\u00f3xico",
-      "url": "https://open.spotify.com/track/7hxfaH77Qepfk8ARHzSp2z"
-    },
-    {
-      "added_at": "2024-08-02 17:21:35",
-      "album": {
         "name": "Quiero Que Escuches",
         "url": "https://open.spotify.com/album/3qUrYi8m4uIyuYZOvIvJu7"
       },
@@ -1147,6 +1131,26 @@
       "duration_ms": 171038,
       "name": "Quiero Que Escuches",
       "url": "https://open.spotify.com/track/1MVxhslgnnGWUt3pWaQM2O"
+    },
+    {
+      "added_at": "2024-08-02 17:21:35",
+      "album": {
+        "name": "Ke Ganas de No Verte Nunca M\u00e1s",
+        "url": "https://open.spotify.com/album/196Wc6ZS9a9HR9ssndsO52"
+      },
+      "artists": [
+        {
+          "name": "Miss Bolivia",
+          "url": "https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx"
+        },
+        {
+          "name": "ROMEA",
+          "url": "https://open.spotify.com/artist/59sdqs9Q6lzOj4PXXKp8I1"
+        }
+      ],
+      "duration_ms": 142517,
+      "name": "Ke Ganas de No Verte Nunca M\u00e1s",
+      "url": "https://open.spotify.com/track/140I2RxPbPhFvBn1CiYGY3"
     }
   ],
   "unique_name": "Cumbieras",

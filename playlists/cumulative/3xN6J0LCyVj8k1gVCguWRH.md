@@ -4,7 +4,7 @@
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Summer 23 edition &amp; bonus tracks.
 
-3,926 songs - 9 day 4 hr 51 min
+3,928 songs - 9 day 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -749,6 +749,7 @@
 | [Cranes in the Sky \- Spotify Singles](https://open.spotify.com/track/0vtTKF9vZSaPY81sNHwpz4) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Cranes in the Sky \(Spotify Singles\)](https://open.spotify.com/album/260Kae28MIGcLpp248A869) | 4:28 | 2024-08-03 | 2024-08-15 |
 | [Crash \(Yabé Deep Mix\)](https://open.spotify.com/track/5n8HwMlwjGp0VdurDGvOJM) | [The Two Fake Blondes](https://open.spotify.com/artist/4Cie0MuOPLFZCYJFgf8aYi), [yabé](https://open.spotify.com/artist/6LUl64133PPCqiyKZorEvL) | [Crash \(Yabé Deep Mix\)](https://open.spotify.com/album/4IEg1BWzunj5kSuW45yJ17) | 4:11 | 2022-06-24 | 2022-07-16 |
 | [crashing every party](https://open.spotify.com/track/4QZdI519c2U0jAunNZrgbA) | [Eraste](https://open.spotify.com/artist/2pDMergC8CFvGq530afVNZ) | [crashing every party](https://open.spotify.com/album/03DSXHYS1N5xyazgG0x2N5) | 3:27 | 2022-04-29 | 2022-05-15 |
+| [Crave For It](https://open.spotify.com/track/5NKQgwHkcxKiX0V1anRcAo) | [Sincere LaSound](https://open.spotify.com/artist/45GIvwOot4xOnCTMll1XTV) | [Crave For It](https://open.spotify.com/album/02QQ5oubkPLBjY0GDlP1Ew) | 2:55 | 2024-09-15 |  |
 | [Craving](https://open.spotify.com/track/6OmH0KzbFiZTp0BkmPt65n) | [ISA](https://open.spotify.com/artist/25TgcWHKIx5DuoHjECQC2s) | [Debut Album](https://open.spotify.com/album/3TaTnYogaygo5TuHgfvQEh) | 3:06 | 2020-11-27 | 2020-12-12 |
 | [Crawl](https://open.spotify.com/track/4Z4vHArIeBDjCURV5UTYa1) | [LBR DPT](https://open.spotify.com/artist/4evsswEUZMesBf7Irxg8pC) | [Crawl](https://open.spotify.com/album/4oL32MDb8N28TYVsheCSXr) | 3:15 | 2021-10-22 | 2021-11-07 |
 | [Crazy \- Acoustic](https://open.spotify.com/track/4S8m8sDfswGQR6Apx2yw7U) | [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb) | [A Little Crazy \(Acoustic Version\)](https://open.spotify.com/album/0O9QWDkFAYXX5xzIBc6e6K) | 3:52 | 2022-12-23 | 2023-01-14 |
@@ -1290,6 +1291,7 @@
 | [Game Is On](https://open.spotify.com/track/1jQpoZAhmWIQ5zXbBYVc1I) | [Cabela and Schmitt](https://open.spotify.com/artist/2H54cElVw72XtIIXnlcja1) | [Game Is On](https://open.spotify.com/album/6d3lJxR3EMd9opfL0rv99k) | 5:17 | 2022-12-10 | 2023-01-03 |
 | [Game We Play](https://open.spotify.com/track/5To2GjlLj106cVJlXCoKjW) | [Sarah Tolle](https://open.spotify.com/artist/3vGD9oHaS2S8t6LehpCVQX) | [Game We Play](https://open.spotify.com/album/5ZOpfZD0bq8euNZmzhlFXC) | 3:32 | 2022-06-10 | 2022-06-26 |
 | [Games](https://open.spotify.com/track/0SuNV98PeMQeMUrqmmVerE) | [Henry Aberson](https://open.spotify.com/artist/30h4XxFyy4Ym28EAIdSr2G), [Nariah Taylor](https://open.spotify.com/artist/6juqczQpC33D80JUhPlHg1), [Korey Keys](https://open.spotify.com/artist/5Sw8OXURdKT26umYRH0LUP) | [Games](https://open.spotify.com/album/2wbXNTp2bLzNpV6UzmVooV) | 3:35 | 2024-05-03 | 2024-05-17 |
+| [Games](https://open.spotify.com/track/5c7NRC9qmmnVDPl4CGqoaj) | [Lee Clark Allen](https://open.spotify.com/artist/53EDGKx11Wy9nm3EPnPbra) | [Games](https://open.spotify.com/album/6gS9msTQWbxXH2yNt5FWu4) | 3:54 | 2024-09-15 |  |
 | [Games](https://open.spotify.com/track/3nISt6mN63h48gycpOWpBn) | [Other Gods](https://open.spotify.com/artist/4N8R9U2NFDW04IvnRVY2tj) | [Games](https://open.spotify.com/album/7EtdktQmPNc30bNF8DDu0s) | 3:23 | 2024-07-05 | 2024-07-17 |
 | [Ganas de Verte](https://open.spotify.com/track/0nE78Bc5Azu5kWum01TmKR) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [Ganas de Verte](https://open.spotify.com/album/3TesP5MzNjC4SWoE48o7Vz) | 3:49 | 2024-08-13 | 2024-08-25 |
 | [Garbage](https://open.spotify.com/track/04EmYOB99jJ52m45HRmq9h) | [Christopher Paul](https://open.spotify.com/artist/7ieFGttaEqvHGZVpwgVVWd) | [Garbage](https://open.spotify.com/album/5zciH50dlD5H946F1WVERZ) | 3:44 | 2019-10-17 | 2019-10-24 |

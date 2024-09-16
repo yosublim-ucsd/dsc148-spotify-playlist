@@ -1,12 +1,12 @@
 {
   "description": "This is Jelly Roll. The essential tracks, all in one playlist.",
-  "num_followers": 243365,
+  "num_followers": 243586,
   "original_name": "This Is Jelly Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuOAgAAAAACN/5i2UiCdkMafSk5maojf",
+  "snapshot_id": "ZuTSAAAAAADTF4UavVz+4aF0IR6uZAP/",
   "tracks": [
     {
       "added_at": null,
@@ -559,22 +559,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Leather",
-        "url": "https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY"
+        "name": "Leave The Light On (feat. Alexandra Kay) [From Twisters: The Album]",
+        "url": "https://open.spotify.com/album/2dt9s6lrC6C6m7omR6ElIi"
       },
       "artists": [
         {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        },
-        {
           "name": "Jelly Roll",
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "Alexandra Kay",
+          "url": "https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV"
         }
       ],
-      "duration_ms": 196053,
-      "name": "Whiskey Bent (feat. Jelly Roll)",
-      "url": "https://open.spotify.com/track/6bR32eVsUfzgZFAraoMITH"
+      "duration_ms": 200733,
+      "name": "Leave The Light On (feat. Alexandra Kay) [From Twisters: The Album]",
+      "url": "https://open.spotify.com/track/08iAR28HjxTqITee6Gq5vT"
     },
     {
       "added_at": null,
@@ -611,22 +611,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Leave The Light On (feat. Alexandra Kay) [From Twisters: The Album]",
-        "url": "https://open.spotify.com/album/2dt9s6lrC6C6m7omR6ElIi"
+        "name": "Leather",
+        "url": "https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY"
       },
       "artists": [
         {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
         },
         {
-          "name": "Alexandra Kay",
-          "url": "https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV"
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 200733,
-      "name": "Leave The Light On (feat. Alexandra Kay) [From Twisters: The Album]",
-      "url": "https://open.spotify.com/track/08iAR28HjxTqITee6Gq5vT"
+      "duration_ms": 196053,
+      "name": "Whiskey Bent (feat. Jelly Roll)",
+      "url": "https://open.spotify.com/track/6bR32eVsUfzgZFAraoMITH"
     },
     {
       "added_at": null,

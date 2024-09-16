@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 pros apaixonados",
-  "num_followers": 774565,
+  "num_followers": 774624,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-08-30 13:54:21",
       "album": {
-        "name": "A Rush of Blood to the Head",
-        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 309600,
-      "name": "The Scientist",
-      "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
-    },
-    {
-      "added_at": "2024-08-30 13:54:21",
-      "album": {
         "name": "Unapologetic - Deluxe",
         "url": "https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 218266,
       "name": "Apenas Mais uma de Amor",
       "url": "https://open.spotify.com/track/6YNCE5qtrTa7YcnAOAEsDQ"
+    },
+    {
+      "added_at": "2024-08-30 13:54:21",
+      "album": {
+        "name": "A Rush of Blood to the Head",
+        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 309600,
+      "name": "The Scientist",
+      "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
     },
     {
       "added_at": "2024-08-30 13:54:21",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-08-30 13:54:21",
       "album": {
-        "name": "Nando Reis - Voz e Viol\u00e3o - No Recreio, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5w3LIWPOW8U9QNkBBF3ViX"
-      },
-      "artists": [
-        {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
-        }
-      ],
-      "duration_ms": 233613,
-      "name": "All Star - Ao Vivo",
-      "url": "https://open.spotify.com/track/3g5FrnRdbmDQyWNiDIprts"
-    },
-    {
-      "added_at": "2024-08-30 13:54:21",
-      "album": {
         "name": "Musica para Churrasco, Vol. 2",
         "url": "https://open.spotify.com/album/0uyJYHNFzapFWD6nZvFBZ3"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 267413,
       "name": "Felicidade",
       "url": "https://open.spotify.com/track/2bDc2CMq7MMAURwnMJverx"
+    },
+    {
+      "added_at": "2024-08-30 13:54:21",
+      "album": {
+        "name": "Nando Reis - Voz e Viol\u00e3o - No Recreio, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5w3LIWPOW8U9QNkBBF3ViX"
+      },
+      "artists": [
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+        }
+      ],
+      "duration_ms": 233613,
+      "name": "All Star - Ao Vivo",
+      "url": "https://open.spotify.com/track/3g5FrnRdbmDQyWNiDIprts"
     },
     {
       "added_at": "2024-08-30 13:54:21",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-08-30 13:54:21",
       "album": {
-        "name": "Frejat Ao Vivo No Rock In Rio",
-        "url": "https://open.spotify.com/album/6hSYXe2y8uYY62B3PCiq3T"
-      },
-      "artists": [
-        {
-          "name": "Frejat",
-          "url": "https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw"
-        }
-      ],
-      "duration_ms": 215253,
-      "name": "Por Voc\u00ea - Ao Vivo",
-      "url": "https://open.spotify.com/track/4gqxE2PMdk6HvZKEqsQ8YE"
-    },
-    {
-      "added_at": "2024-08-30 13:54:21",
-      "album": {
         "name": "Silva & Liniker (Ao Vivo)",
         "url": "https://open.spotify.com/album/7KLR11ffMXPDqbsXVT9GtG"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 230746,
       "name": "Sorte - Ao Vivo",
       "url": "https://open.spotify.com/track/5OwOtdiPrzZHq0WQ7QYOKl"
+    },
+    {
+      "added_at": "2024-08-30 13:54:21",
+      "album": {
+        "name": "Frejat Ao Vivo No Rock In Rio",
+        "url": "https://open.spotify.com/album/6hSYXe2y8uYY62B3PCiq3T"
+      },
+      "artists": [
+        {
+          "name": "Frejat",
+          "url": "https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw"
+        }
+      ],
+      "duration_ms": 215253,
+      "name": "Por Voc\u00ea - Ao Vivo",
+      "url": "https://open.spotify.com/track/4gqxE2PMdk6HvZKEqsQ8YE"
     },
     {
       "added_at": "2024-08-30 13:54:21",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-08-30 13:54:21",
       "album": {
-        "name": "Sim E N\u00e3o",
-        "url": "https://open.spotify.com/album/5acqAo1oKQOAgVQG2sMYxu"
-      },
-      "artists": [
-        {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
-        }
-      ],
-      "duration_ms": 226040,
-      "name": "Espat\u00f3dea",
-      "url": "https://open.spotify.com/track/2TnJd3aCJcRcLylI44ms9f"
-    },
-    {
-      "added_at": "2024-08-30 13:54:21",
-      "album": {
         "name": "love leve",
         "url": "https://open.spotify.com/album/2yyeSZQC3SNGLWWeci8lbU"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 246280,
       "name": "Quando A Chuva Passar",
       "url": "https://open.spotify.com/track/5GBa8ib7raAkOKjwbMKPZJ"
+    },
+    {
+      "added_at": "2024-08-30 13:54:21",
+      "album": {
+        "name": "Sim E N\u00e3o",
+        "url": "https://open.spotify.com/album/5acqAo1oKQOAgVQG2sMYxu"
+      },
+      "artists": [
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+        }
+      ],
+      "duration_ms": 226040,
+      "name": "Espat\u00f3dea",
+      "url": "https://open.spotify.com/track/2TnJd3aCJcRcLylI44ms9f"
     },
     {
       "added_at": "2024-08-30 13:54:21",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-08-30 13:54:21",
       "album": {
-        "name": "Ivete Sangalo",
-        "url": "https://open.spotify.com/album/2c8gDfmmo6KnFSxWwL1COf"
-      },
-      "artists": [
-        {
-          "name": "Ivete Sangalo",
-          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
-        }
-      ],
-      "duration_ms": 249440,
-      "name": "Se Eu N\u00e3o Te Amasse Tanto Assim",
-      "url": "https://open.spotify.com/track/7LxiQ3v6iEaejUgnBBphNS"
-    },
-    {
-      "added_at": "2024-08-30 13:54:21",
-      "album": {
         "name": "Azul",
         "url": "https://open.spotify.com/album/3tWgDELRJCNsT4QHypCGXu"
       },
@@ -979,6 +963,22 @@
     {
       "added_at": "2024-08-30 13:54:21",
       "album": {
+        "name": "Ivete Sangalo",
+        "url": "https://open.spotify.com/album/2c8gDfmmo6KnFSxWwL1COf"
+      },
+      "artists": [
+        {
+          "name": "Ivete Sangalo",
+          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
+        }
+      ],
+      "duration_ms": 249440,
+      "name": "Se Eu N\u00e3o Te Amasse Tanto Assim",
+      "url": "https://open.spotify.com/track/7LxiQ3v6iEaejUgnBBphNS"
+    },
+    {
+      "added_at": "2024-08-30 13:54:21",
+      "album": {
         "name": "Dia Branco",
         "url": "https://open.spotify.com/album/20IoTN6bXOSLg8rclKnkeb"
       },
@@ -995,6 +995,22 @@
       "duration_ms": 147899,
       "name": "Dia Branco",
       "url": "https://open.spotify.com/track/1BRJxe2ozG73rxff5jyvjv"
+    },
+    {
+      "added_at": "2024-08-30 13:54:21",
+      "album": {
+        "name": "J\u00fapiter",
+        "url": "https://open.spotify.com/album/7BqdQdesXoceTMhwEfTOrj"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 156746,
+      "name": "Feliz e Ponto",
+      "url": "https://open.spotify.com/track/5I7NiZhyh9mvtdv33eBg94"
     },
     {
       "added_at": "2024-08-30 13:54:21",
@@ -1071,38 +1087,6 @@
     {
       "added_at": "2024-08-30 13:54:21",
       "album": {
-        "name": "J\u00fapiter",
-        "url": "https://open.spotify.com/album/7BqdQdesXoceTMhwEfTOrj"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 156746,
-      "name": "Feliz e Ponto",
-      "url": "https://open.spotify.com/track/5I7NiZhyh9mvtdv33eBg94"
-    },
-    {
-      "added_at": "2024-08-30 13:54:21",
-      "album": {
-        "name": "\u00c2mbar",
-        "url": "https://open.spotify.com/album/25iYTRlmDMaSMYMedcjkEl"
-      },
-      "artists": [
-        {
-          "name": "Tain\u00e1",
-          "url": "https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC"
-        }
-      ],
-      "duration_ms": 172586,
-      "name": "\u00c2mbar",
-      "url": "https://open.spotify.com/track/3tZSEpmI6vAJO5iAZVrQvN"
-    },
-    {
-      "added_at": "2024-08-30 13:54:21",
-      "album": {
         "name": "Top Hits",
         "url": "https://open.spotify.com/album/1QKWvjU1m1Eh2CJ2TsiPE8"
       },
@@ -1135,6 +1119,22 @@
     {
       "added_at": "2024-08-30 13:54:21",
       "album": {
+        "name": "\u00c2mbar",
+        "url": "https://open.spotify.com/album/25iYTRlmDMaSMYMedcjkEl"
+      },
+      "artists": [
+        {
+          "name": "Tain\u00e1",
+          "url": "https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC"
+        }
+      ],
+      "duration_ms": 172586,
+      "name": "\u00c2mbar",
+      "url": "https://open.spotify.com/track/3tZSEpmI6vAJO5iAZVrQvN"
+    },
+    {
+      "added_at": "2024-08-30 13:54:21",
+      "album": {
         "name": "A Cara do Amor da Minha Vida",
         "url": "https://open.spotify.com/album/0OvRM5meYXSh2A5n4vN2NC"
       },
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-08-30 13:54:21",
       "album": {
-        "name": "Ao Vivo Em Lisboa",
-        "url": "https://open.spotify.com/album/6FQczUJwjqNAjBVTnwsn0k"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 256155,
-      "name": "Bem Que Se Quis - Ao Vivo",
-      "url": "https://open.spotify.com/track/1nGI6ent4Eb8jmE4cnq3Gy"
-    },
-    {
-      "added_at": "2024-08-30 13:54:21",
-      "album": {
         "name": "Rosa",
         "url": "https://open.spotify.com/album/6DV3tGb5DBxry07vXqQAng"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 236535,
       "name": "Rio Dentro do Mar",
       "url": "https://open.spotify.com/track/3Ouigy15CzZ6mwsvl5OQCT"
+    },
+    {
+      "added_at": "2024-08-30 13:54:21",
+      "album": {
+        "name": "Ao Vivo Em Lisboa",
+        "url": "https://open.spotify.com/album/6FQczUJwjqNAjBVTnwsn0k"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 256155,
+      "name": "Bem Que Se Quis - Ao Vivo",
+      "url": "https://open.spotify.com/track/1nGI6ent4Eb8jmE4cnq3Gy"
     },
     {
       "added_at": "2024-08-30 13:54:21",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2024-08-30 13:54:21",
       "album": {
+        "name": "Anel de Coco Ac\u00fastico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1F3sVbUnq8vA3IR4154jI8"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 182768,
+      "name": "Anel de Coco - Ac\u00fastico | Ao Vivo",
+      "url": "https://open.spotify.com/track/7LuLv35fgBvI0FkzxT9r3l"
+    },
+    {
+      "added_at": "2024-08-30 13:54:21",
+      "album": {
         "name": "Moreno Veloso Solo in Tokyo",
         "url": "https://open.spotify.com/album/2Zpva2hppOpDesovKng8kB"
       },
@@ -1459,38 +1475,6 @@
       "duration_ms": 191933,
       "name": "Amor I Love You / Cita\u00e7\u00e3o: Trecho Da Obra Intitulada \"Primo Basilio\" De E\u00e7a De Queiroz Declamado Por Arnaldo Antunes",
       "url": "https://open.spotify.com/track/7zUNqxNQQ44iWnI6o4Oqlo"
-    },
-    {
-      "added_at": "2024-08-30 13:54:21",
-      "album": {
-        "name": "Anel de Coco Ac\u00fastico (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1F3sVbUnq8vA3IR4154jI8"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 182768,
-      "name": "Anel de Coco - Ac\u00fastico | Ao Vivo",
-      "url": "https://open.spotify.com/track/7LuLv35fgBvI0FkzxT9r3l"
-    },
-    {
-      "added_at": "2024-08-30 13:54:21",
-      "album": {
-        "name": "Medo Bobo",
-        "url": "https://open.spotify.com/album/0vkxfAIsBXsbWO9DNVlUaV"
-      },
-      "artists": [
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        }
-      ],
-      "duration_ms": 198058,
-      "name": "Medo Bobo",
-      "url": "https://open.spotify.com/track/17dS7mrtNwH05RFjgMjLFi"
     },
     {
       "added_at": "2024-08-30 13:54:21",
@@ -1543,6 +1527,22 @@
       "duration_ms": 184267,
       "name": "Fica",
       "url": "https://open.spotify.com/track/0lwrkYbCwtAWTI0OIWEnd6"
+    },
+    {
+      "added_at": "2024-08-30 13:54:21",
+      "album": {
+        "name": "Medo Bobo",
+        "url": "https://open.spotify.com/album/0vkxfAIsBXsbWO9DNVlUaV"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        }
+      ],
+      "duration_ms": 198058,
+      "name": "Medo Bobo",
+      "url": "https://open.spotify.com/track/17dS7mrtNwH05RFjgMjLFi"
     },
     {
       "added_at": "2024-08-30 13:54:21",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-08-30 13:54:21",
       "album": {
-        "name": "Portas",
-        "url": "https://open.spotify.com/album/3SnD7NKo8aqZAvjGdJFS5Y"
-      },
-      "artists": [
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "duration_ms": 132306,
-      "name": "Totalmente Seu",
-      "url": "https://open.spotify.com/track/66qJ1M2YHxh6mr7jn8RoFJ"
-    },
-    {
-      "added_at": "2024-08-30 13:54:21",
-      "album": {
         "name": "ANAVIT\u00d3RIA",
         "url": "https://open.spotify.com/album/1ENOliEGEgAf5DIupazP9t"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 206108,
       "name": "Singular",
       "url": "https://open.spotify.com/track/3eGK0WFi6ISJ9UZA6Za4HX"
+    },
+    {
+      "added_at": "2024-08-30 13:54:21",
+      "album": {
+        "name": "Portas",
+        "url": "https://open.spotify.com/album/3SnD7NKo8aqZAvjGdJFS5Y"
+      },
+      "artists": [
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        }
+      ],
+      "duration_ms": 132306,
+      "name": "Totalmente Seu",
+      "url": "https://open.spotify.com/track/66qJ1M2YHxh6mr7jn8RoFJ"
     },
     {
       "added_at": "2024-08-30 13:54:21",

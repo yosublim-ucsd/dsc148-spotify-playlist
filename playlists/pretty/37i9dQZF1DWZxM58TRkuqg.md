@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\. <br/>Cover: Yuna, Bunga Citra Lestari
 
-[Spotify](https://open.spotify.com/user/spotify) - 774,172 likes - 91 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 774,180 likes - 91 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

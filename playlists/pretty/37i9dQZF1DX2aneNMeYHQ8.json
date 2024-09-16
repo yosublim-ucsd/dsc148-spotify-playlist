@@ -1,6 +1,6 @@
 {
   "description": "alt, folk, and indie rock sprinkled into this sonic melting pot. Cover: Something Corporate",
-  "num_followers": 627961,
+  "num_followers": 627962,
   "original_name": "Rockin' Vibes",
   "owner": {
     "name": "Spotify",
@@ -583,6 +583,22 @@
     {
       "added_at": "2024-08-20 22:59:02",
       "album": {
+        "name": "Cub",
+        "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
+      },
+      "artists": [
+        {
+          "name": "Wunderhorse",
+          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
+        }
+      ],
+      "duration_ms": 183466,
+      "name": "Leader of the Pack",
+      "url": "https://open.spotify.com/track/1YYK8zYkBKxVaANQ7CkgYu"
+    },
+    {
+      "added_at": "2024-08-20 22:59:02",
+      "album": {
         "name": "The Beginning",
         "url": "https://open.spotify.com/album/5zvOWFaWR8NcgabR34oVnu"
       },
@@ -647,22 +663,6 @@
     {
       "added_at": "2024-08-20 22:59:02",
       "album": {
-        "name": "Cub",
-        "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
-      },
-      "artists": [
-        {
-          "name": "Wunderhorse",
-          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
-        }
-      ],
-      "duration_ms": 183466,
-      "name": "Leader of the Pack",
-      "url": "https://open.spotify.com/track/1YYK8zYkBKxVaANQ7CkgYu"
-    },
-    {
-      "added_at": "2024-08-20 22:59:02",
-      "album": {
         "name": "Waiting to Spill",
         "url": "https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C"
       },
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-08-20 22:59:02",
       "album": {
-        "name": "She's Leaving You",
-        "url": "https://open.spotify.com/album/07Wpt6vMno7YmKR4F5AoFp"
-      },
-      "artists": [
-        {
-          "name": "MJ Lenderman",
-          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
-        }
-      ],
-      "duration_ms": 278226,
-      "name": "She's Leaving You",
-      "url": "https://open.spotify.com/track/10cGyorRXoOc9RhVhY9Sru"
-    },
-    {
-      "added_at": "2024-08-20 22:59:02",
-      "album": {
         "name": "King",
         "url": "https://open.spotify.com/album/1kGXtKuYw5WuWUsMKKsTOE"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 280130,
       "name": "King",
       "url": "https://open.spotify.com/track/1VSngtLdJhrlfHkLxTyOXK"
+    },
+    {
+      "added_at": "2024-08-20 22:59:02",
+      "album": {
+        "name": "She's Leaving You",
+        "url": "https://open.spotify.com/album/07Wpt6vMno7YmKR4F5AoFp"
+      },
+      "artists": [
+        {
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+        }
+      ],
+      "duration_ms": 278226,
+      "name": "She's Leaving You",
+      "url": "https://open.spotify.com/track/10cGyorRXoOc9RhVhY9Sru"
     },
     {
       "added_at": "2024-08-20 22:59:02",
@@ -871,22 +871,18 @@
     {
       "added_at": "2024-08-20 22:59:02",
       "album": {
-        "name": "Death Valley High",
-        "url": "https://open.spotify.com/album/1z4pInY9WWAOfzWklGV4cb"
+        "name": "Into The Blue",
+        "url": "https://open.spotify.com/album/41Ss3n0sbQ4RSmWtVmQOnz"
       },
       "artists": [
         {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
-        },
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
         }
       ],
-      "duration_ms": 160882,
-      "name": "Death Valley High",
-      "url": "https://open.spotify.com/track/5TbPDrMOmLlmWtdXLvhLFG"
+      "duration_ms": 230466,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/4FKxGDh5UrcXdQwvYcLsi7"
     },
     {
       "added_at": "2024-08-20 22:59:02",
@@ -907,18 +903,22 @@
     {
       "added_at": "2024-08-20 22:59:02",
       "album": {
-        "name": "Into The Blue",
-        "url": "https://open.spotify.com/album/41Ss3n0sbQ4RSmWtVmQOnz"
+        "name": "Death Valley High",
+        "url": "https://open.spotify.com/album/1z4pInY9WWAOfzWklGV4cb"
       },
       "artists": [
         {
-          "name": "Aaron Frazer",
-          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        },
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
         }
       ],
-      "duration_ms": 230466,
-      "name": "Easy To Love",
-      "url": "https://open.spotify.com/track/4FKxGDh5UrcXdQwvYcLsi7"
+      "duration_ms": 160882,
+      "name": "Death Valley High",
+      "url": "https://open.spotify.com/track/5TbPDrMOmLlmWtdXLvhLFG"
     },
     {
       "added_at": "2024-08-20 22:59:02",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-08-20 22:59:02",
       "album": {
-        "name": "Tuesday",
-        "url": "https://open.spotify.com/album/3OJhV8FhTJQLH979qE2QXA"
-      },
-      "artists": [
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        }
-      ],
-      "duration_ms": 149600,
-      "name": "Tuesday",
-      "url": "https://open.spotify.com/track/073gctjGEOq9cXuFjldqxT"
-    },
-    {
-      "added_at": "2024-08-20 22:59:02",
-      "album": {
         "name": "Superstar",
         "url": "https://open.spotify.com/album/1qFrExdXI9pjXU30XulYae"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 193425,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/7Ew5us0FuyUZZ4p6jRP2r3"
+    },
+    {
+      "added_at": "2024-08-20 22:59:02",
+      "album": {
+        "name": "Tuesday",
+        "url": "https://open.spotify.com/album/3OJhV8FhTJQLH979qE2QXA"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "duration_ms": 149600,
+      "name": "Tuesday",
+      "url": "https://open.spotify.com/track/073gctjGEOq9cXuFjldqxT"
     },
     {
       "added_at": "2024-08-20 22:59:02",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2024-08-20 22:59:02",
       "album": {
+        "name": "Lucifer On The Sofa",
+        "url": "https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ"
+      },
+      "artists": [
+        {
+          "name": "Spoon",
+          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
+        }
+      ],
+      "duration_ms": 193277,
+      "name": "Wild",
+      "url": "https://open.spotify.com/track/05uhED0miR9OJYPalPi7tx"
+    },
+    {
+      "added_at": "2024-08-20 22:59:02",
+      "album": {
         "name": "Weird Goodbyes (feat. Bon Iver)",
         "url": "https://open.spotify.com/album/2HQGXK9797uB6Ir8yd7Das"
       },
@@ -1055,22 +1071,6 @@
     {
       "added_at": "2024-08-20 22:59:02",
       "album": {
-        "name": "Lucifer On The Sofa",
-        "url": "https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ"
-      },
-      "artists": [
-        {
-          "name": "Spoon",
-          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
-        }
-      ],
-      "duration_ms": 193277,
-      "name": "Wild",
-      "url": "https://open.spotify.com/track/05uhED0miR9OJYPalPi7tx"
-    },
-    {
-      "added_at": "2024-08-20 22:59:02",
-      "album": {
         "name": "Bad Luck",
         "url": "https://open.spotify.com/album/1nX5ipB1JDiptJyxwt4gTO"
       },
@@ -1083,22 +1083,6 @@
       "duration_ms": 202387,
       "name": "Bad Luck",
       "url": "https://open.spotify.com/track/1Ln6nNE0NKKCEmxSkBNGsT"
-    },
-    {
-      "added_at": "2024-08-20 22:59:02",
-      "album": {
-        "name": "You're So Impatient",
-        "url": "https://open.spotify.com/album/75hBHuaFQCVisHjw2l892X"
-      },
-      "artists": [
-        {
-          "name": "Pixies",
-          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
-        }
-      ],
-      "duration_ms": 128880,
-      "name": "You're So Impatient",
-      "url": "https://open.spotify.com/track/3C6DObIUb0dvgPtN1SsC0m"
     },
     {
       "added_at": "2024-08-20 22:59:02",
@@ -1123,6 +1107,22 @@
       "duration_ms": 203531,
       "name": "Walk Through Fire",
       "url": "https://open.spotify.com/track/1Mdmg7rBIqT1FxAge95Xmx"
+    },
+    {
+      "added_at": "2024-08-20 22:59:02",
+      "album": {
+        "name": "You're So Impatient",
+        "url": "https://open.spotify.com/album/75hBHuaFQCVisHjw2l892X"
+      },
+      "artists": [
+        {
+          "name": "Pixies",
+          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+        }
+      ],
+      "duration_ms": 128880,
+      "name": "You're So Impatient",
+      "url": "https://open.spotify.com/track/3C6DObIUb0dvgPtN1SsC0m"
     },
     {
       "added_at": "2024-08-20 22:59:02",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-08-20 22:59:02",
       "album": {
-        "name": "New Propeller",
-        "url": "https://open.spotify.com/album/725xhkAOsCFsKG9c39QtlF"
-      },
-      "artists": [
-        {
-          "name": "Nada Surf",
-          "url": "https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy"
-        }
-      ],
-      "duration_ms": 317893,
-      "name": "New Propeller",
-      "url": "https://open.spotify.com/track/7jL7NYXj9Ix92PlSno4Qsz"
-    },
-    {
-      "added_at": "2024-08-20 22:59:02",
-      "album": {
         "name": "Thinking About You",
         "url": "https://open.spotify.com/album/6Av9V14GQ4dIqQj9QLBhec"
       },
@@ -1571,18 +1555,18 @@
     {
       "added_at": "2024-08-20 22:59:02",
       "album": {
-        "name": "Stevie Nicks",
-        "url": "https://open.spotify.com/album/6oVEbvZItYDzzlXN8cUDcp"
+        "name": "New Propeller",
+        "url": "https://open.spotify.com/album/725xhkAOsCFsKG9c39QtlF"
       },
       "artists": [
         {
-          "name": "New West",
-          "url": "https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn"
+          "name": "Nada Surf",
+          "url": "https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy"
         }
       ],
-      "duration_ms": 167462,
-      "name": "Stevie Nicks",
-      "url": "https://open.spotify.com/track/15oZEfoDRFS7AzO2aeRpHk"
+      "duration_ms": 317893,
+      "name": "New Propeller",
+      "url": "https://open.spotify.com/track/7jL7NYXj9Ix92PlSno4Qsz"
     },
     {
       "added_at": "2024-08-20 22:59:02",
@@ -1603,6 +1587,38 @@
     {
       "added_at": "2024-08-20 22:59:02",
       "album": {
+        "name": "Stevie Nicks",
+        "url": "https://open.spotify.com/album/6oVEbvZItYDzzlXN8cUDcp"
+      },
+      "artists": [
+        {
+          "name": "New West",
+          "url": "https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn"
+        }
+      ],
+      "duration_ms": 167462,
+      "name": "Stevie Nicks",
+      "url": "https://open.spotify.com/track/15oZEfoDRFS7AzO2aeRpHk"
+    },
+    {
+      "added_at": "2024-08-20 22:59:02",
+      "album": {
+        "name": "Faithless",
+        "url": "https://open.spotify.com/album/02jRAhRPMCdjOGnp7vxFfh"
+      },
+      "artists": [
+        {
+          "name": "The Airborne Toxic Event",
+          "url": "https://open.spotify.com/artist/7xovAENFxmyEWhzbnHsB3Z"
+        }
+      ],
+      "duration_ms": 250565,
+      "name": "Faithless",
+      "url": "https://open.spotify.com/track/6Ehy2SxoGNmLoJQxGUr9fq"
+    },
+    {
+      "added_at": "2024-08-20 22:59:02",
+      "album": {
         "name": "This Is A Photograph",
         "url": "https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 164245,
       "name": "Rock Bottom",
       "url": "https://open.spotify.com/track/17ctpmqT0N9hGhXWWvOob5"
-    },
-    {
-      "added_at": "2024-08-20 22:59:02",
-      "album": {
-        "name": "House Parties",
-        "url": "https://open.spotify.com/album/03iw3EgMQIBS8kNH5hukrZ"
-      },
-      "artists": [
-        {
-          "name": "Dawes",
-          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
-        }
-      ],
-      "duration_ms": 234200,
-      "name": "House Parties",
-      "url": "https://open.spotify.com/track/24Zi5CRVX19Wi494VttArT"
     },
     {
       "added_at": "2024-08-20 22:59:02",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2024-08-20 22:59:02",
       "album": {
-        "name": "Faithless",
-        "url": "https://open.spotify.com/album/02jRAhRPMCdjOGnp7vxFfh"
+        "name": "House Parties",
+        "url": "https://open.spotify.com/album/03iw3EgMQIBS8kNH5hukrZ"
       },
       "artists": [
         {
-          "name": "The Airborne Toxic Event",
-          "url": "https://open.spotify.com/artist/7xovAENFxmyEWhzbnHsB3Z"
+          "name": "Dawes",
+          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
         }
       ],
-      "duration_ms": 250565,
-      "name": "Faithless",
-      "url": "https://open.spotify.com/track/6Ehy2SxoGNmLoJQxGUr9fq"
+      "duration_ms": 234200,
+      "name": "House Parties",
+      "url": "https://open.spotify.com/track/24Zi5CRVX19Wi494VttArT"
     },
     {
       "added_at": "2024-08-20 22:59:02",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2024-08-20 22:59:02",
       "album": {
-        "name": "Hard Working Man",
-        "url": "https://open.spotify.com/album/49kNMARqo9FtWJ8OFIGF7s"
-      },
-      "artists": [
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        }
-      ],
-      "duration_ms": 217066,
-      "name": "Hard Working Man",
-      "url": "https://open.spotify.com/track/2DaEFCMaprAH4vZmzQYaxc"
-    },
-    {
-      "added_at": "2024-08-20 22:59:02",
-      "album": {
         "name": "I Want It All Right Now",
         "url": "https://open.spotify.com/album/1oo5SXe74thWKkBPGrkYoG"
       },
@@ -1799,50 +1783,34 @@
     {
       "added_at": "2024-08-20 22:59:02",
       "album": {
-        "name": "Fill My Cup",
-        "url": "https://open.spotify.com/album/3ac6ncPJZAVymKeAFuAiYQ"
+        "name": "Fool\u2019s Parade",
+        "url": "https://open.spotify.com/album/32SQc8kyN2hbwgokkXfLwQ"
       },
       "artists": [
         {
-          "name": "The Dip",
-          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
+          "name": "Color Green",
+          "url": "https://open.spotify.com/artist/42Aj8msFQ4idllOK09Jj8Z"
         }
       ],
-      "duration_ms": 228026,
-      "name": "Fill My Cup",
-      "url": "https://open.spotify.com/track/0huzOhM3ghLoTXDSmqevHv"
+      "duration_ms": 220240,
+      "name": "Ball And Key",
+      "url": "https://open.spotify.com/track/6rodsrcCg5rqABZiE2RgFk"
     },
     {
       "added_at": "2024-08-20 22:59:02",
       "album": {
-        "name": "when we were young",
-        "url": "https://open.spotify.com/album/6kSSORbrUJCzT6ejYCJSHX"
+        "name": "Hard Working Man",
+        "url": "https://open.spotify.com/album/49kNMARqo9FtWJ8OFIGF7s"
       },
       "artists": [
         {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
         }
       ],
-      "duration_ms": 256178,
-      "name": "when we were young",
-      "url": "https://open.spotify.com/track/40UpmsBZs3vJhtnR4VROIl"
-    },
-    {
-      "added_at": "2024-08-20 22:59:02",
-      "album": {
-        "name": "Dance With a Stranger",
-        "url": "https://open.spotify.com/album/10OHYPihPROssNNZb5Q48F"
-      },
-      "artists": [
-        {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
-        }
-      ],
-      "duration_ms": 215031,
-      "name": "Dance With a Stranger",
-      "url": "https://open.spotify.com/track/2MWnv5lcdlzpmdziHLrx0Y"
+      "duration_ms": 217066,
+      "name": "Hard Working Man",
+      "url": "https://open.spotify.com/track/2DaEFCMaprAH4vZmzQYaxc"
     },
     {
       "added_at": "2024-08-20 22:59:02",
@@ -1867,6 +1835,54 @@
     {
       "added_at": "2024-08-20 22:59:02",
       "album": {
+        "name": "Fill My Cup",
+        "url": "https://open.spotify.com/album/3ac6ncPJZAVymKeAFuAiYQ"
+      },
+      "artists": [
+        {
+          "name": "The Dip",
+          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
+        }
+      ],
+      "duration_ms": 228026,
+      "name": "Fill My Cup",
+      "url": "https://open.spotify.com/track/0huzOhM3ghLoTXDSmqevHv"
+    },
+    {
+      "added_at": "2024-08-20 22:59:02",
+      "album": {
+        "name": "Dance With a Stranger",
+        "url": "https://open.spotify.com/album/10OHYPihPROssNNZb5Q48F"
+      },
+      "artists": [
+        {
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+        }
+      ],
+      "duration_ms": 215031,
+      "name": "Dance With a Stranger",
+      "url": "https://open.spotify.com/track/2MWnv5lcdlzpmdziHLrx0Y"
+    },
+    {
+      "added_at": "2024-08-20 22:59:02",
+      "album": {
+        "name": "when we were young",
+        "url": "https://open.spotify.com/album/6kSSORbrUJCzT6ejYCJSHX"
+      },
+      "artists": [
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        }
+      ],
+      "duration_ms": 256178,
+      "name": "when we were young",
+      "url": "https://open.spotify.com/track/40UpmsBZs3vJhtnR4VROIl"
+    },
+    {
+      "added_at": "2024-08-20 22:59:02",
+      "album": {
         "name": "Back to Moon Beach",
         "url": "https://open.spotify.com/album/34ZmHgTZ7OcRCsrTqbHpSQ"
       },
@@ -1879,22 +1895,6 @@
       "duration_ms": 334754,
       "name": "Another good year for the roses",
       "url": "https://open.spotify.com/track/7BQVqJwiQCnbE70DlpJoL5"
-    },
-    {
-      "added_at": "2024-08-20 22:59:02",
-      "album": {
-        "name": "Fool\u2019s Parade",
-        "url": "https://open.spotify.com/album/32SQc8kyN2hbwgokkXfLwQ"
-      },
-      "artists": [
-        {
-          "name": "Color Green",
-          "url": "https://open.spotify.com/artist/42Aj8msFQ4idllOK09Jj8Z"
-        }
-      ],
-      "duration_ms": 220240,
-      "name": "Ball And Key",
-      "url": "https://open.spotify.com/track/6rodsrcCg5rqABZiE2RgFk"
     },
     {
       "added_at": "2024-08-20 22:59:02",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2024-08-20 22:59:02",
       "album": {
-        "name": "Rolling Down The 405",
-        "url": "https://open.spotify.com/album/2kQbgOhma9JF9wanjAXGYC"
-      },
-      "artists": [
-        {
-          "name": "Jeremie Albino",
-          "url": "https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY"
-        }
-      ],
-      "duration_ms": 218239,
-      "name": "Rolling Down The 405",
-      "url": "https://open.spotify.com/track/0QXh2Z2ynE2TiNvQrUOz19"
-    },
-    {
-      "added_at": "2024-08-20 22:59:02",
-      "album": {
         "name": "Love out of Lemons",
         "url": "https://open.spotify.com/album/0jsAmlf5wVis6otmdokfsA"
       },
@@ -1991,6 +1975,22 @@
       "duration_ms": 212226,
       "name": "Love out of Lemons",
       "url": "https://open.spotify.com/track/2GXzTdHHiguNECDsp3hW0W"
+    },
+    {
+      "added_at": "2024-08-20 22:59:02",
+      "album": {
+        "name": "Rolling Down The 405",
+        "url": "https://open.spotify.com/album/2kQbgOhma9JF9wanjAXGYC"
+      },
+      "artists": [
+        {
+          "name": "Jeremie Albino",
+          "url": "https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY"
+        }
+      ],
+      "duration_ms": 218239,
+      "name": "Rolling Down The 405",
+      "url": "https://open.spotify.com/track/0QXh2Z2ynE2TiNvQrUOz19"
     },
     {
       "added_at": "2024-08-20 22:59:02",
@@ -2127,22 +2127,6 @@
     {
       "added_at": "2024-08-20 22:59:02",
       "album": {
-        "name": "Wine On Venus",
-        "url": "https://open.spotify.com/album/0I737Gmq6kTD1kTnbM4tSS"
-      },
-      "artists": [
-        {
-          "name": "Grace Bowers & The Hodge Podge",
-          "url": "https://open.spotify.com/artist/3JX7toZYBPbth2CCq78kBx"
-        }
-      ],
-      "duration_ms": 373480,
-      "name": "Wine on Venus",
-      "url": "https://open.spotify.com/track/2REteLfAVOxM9mhvDGYluh"
-    },
-    {
-      "added_at": "2024-08-20 22:59:02",
-      "album": {
         "name": "Mother Road",
         "url": "https://open.spotify.com/album/5LjmGiV7L4vzjS5F2cLPUf"
       },
@@ -2155,6 +2139,22 @@
       "duration_ms": 333280,
       "name": "Good Time",
       "url": "https://open.spotify.com/track/6KPjAsDsH425JhWiHAWHOK"
+    },
+    {
+      "added_at": "2024-08-20 22:59:02",
+      "album": {
+        "name": "Wine On Venus",
+        "url": "https://open.spotify.com/album/0I737Gmq6kTD1kTnbM4tSS"
+      },
+      "artists": [
+        {
+          "name": "Grace Bowers & The Hodge Podge",
+          "url": "https://open.spotify.com/artist/3JX7toZYBPbth2CCq78kBx"
+        }
+      ],
+      "duration_ms": 373480,
+      "name": "Wine on Venus",
+      "url": "https://open.spotify.com/track/2REteLfAVOxM9mhvDGYluh"
     },
     {
       "added_at": "2024-08-20 22:59:02",
@@ -2211,26 +2211,6 @@
     {
       "added_at": "2024-08-20 22:59:02",
       "album": {
-        "name": "Dime",
-        "url": "https://open.spotify.com/album/3zPYDjHecBsekQsjV3PXKE"
-      },
-      "artists": [
-        {
-          "name": "Aaron Frazer",
-          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
-        },
-        {
-          "name": "Cancamusa",
-          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
-        }
-      ],
-      "duration_ms": 197706,
-      "name": "Dime",
-      "url": "https://open.spotify.com/track/0HDUQhPXnunzwvqAmDpznE"
-    },
-    {
-      "added_at": "2024-08-20 22:59:02",
-      "album": {
         "name": "So Bad",
         "url": "https://open.spotify.com/album/2z9MKtIFok9MeyqMHOxCxL"
       },
@@ -2275,6 +2255,26 @@
       "duration_ms": 174610,
       "name": "Alarm Clock",
       "url": "https://open.spotify.com/track/2zkiwigwXhvi1YBdiczVhT"
+    },
+    {
+      "added_at": "2024-08-20 22:59:02",
+      "album": {
+        "name": "Dime",
+        "url": "https://open.spotify.com/album/3zPYDjHecBsekQsjV3PXKE"
+      },
+      "artists": [
+        {
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
+        },
+        {
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+        }
+      ],
+      "duration_ms": 197706,
+      "name": "Dime",
+      "url": "https://open.spotify.com/track/0HDUQhPXnunzwvqAmDpznE"
     },
     {
       "added_at": "2024-08-20 22:59:02",
@@ -2359,22 +2359,6 @@
     {
       "added_at": "2024-08-20 22:59:02",
       "album": {
-        "name": "Highlands",
-        "url": "https://open.spotify.com/album/3Deu9Zi3rLBf0zhZmNUXTw"
-      },
-      "artists": [
-        {
-          "name": "Middle Kids",
-          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
-        }
-      ],
-      "duration_ms": 211855,
-      "name": "Highlands",
-      "url": "https://open.spotify.com/track/177wGtLGKq5S8FqcagPDj6"
-    },
-    {
-      "added_at": "2024-08-20 22:59:02",
-      "album": {
         "name": "Best Of Me (Part 1)",
         "url": "https://open.spotify.com/album/3aybkAHGgsXJclDhzl8J55"
       },
@@ -2387,6 +2371,22 @@
       "duration_ms": 156789,
       "name": "Bad Side",
       "url": "https://open.spotify.com/track/5sP3cH0Gw02dt9mBT5n9Xz"
+    },
+    {
+      "added_at": "2024-08-20 22:59:02",
+      "album": {
+        "name": "Highlands",
+        "url": "https://open.spotify.com/album/3Deu9Zi3rLBf0zhZmNUXTw"
+      },
+      "artists": [
+        {
+          "name": "Middle Kids",
+          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+        }
+      ],
+      "duration_ms": 211855,
+      "name": "Highlands",
+      "url": "https://open.spotify.com/track/177wGtLGKq5S8FqcagPDj6"
     },
     {
       "added_at": "2024-08-20 22:59:02",
@@ -2471,18 +2471,18 @@
     {
       "added_at": "2024-08-20 22:59:02",
       "album": {
-        "name": "Dramamine",
-        "url": "https://open.spotify.com/album/1RgOz8zYC5GKsZEZPjQ0pT"
+        "name": "Tired Hearts",
+        "url": "https://open.spotify.com/album/206PHdzpiAp3dy97erlYuw"
       },
       "artists": [
         {
-          "name": "Middle Kids",
-          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+          "name": "BAILEN",
+          "url": "https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII"
         }
       ],
-      "duration_ms": 177473,
-      "name": "Dramamine",
-      "url": "https://open.spotify.com/track/4LkUIkfIw7f3l7eJnOj9OW"
+      "duration_ms": 204055,
+      "name": "Call It Like It Is",
+      "url": "https://open.spotify.com/track/676Y7rEtzssvdvvqEZLMnI"
     }
   ],
   "unique_name": "Rockin' Vibes",

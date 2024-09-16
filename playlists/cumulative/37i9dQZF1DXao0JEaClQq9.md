@@ -4,7 +4,7 @@
 
 > Modern heavenly sounds\. Cover: FKA Twigs
 
-628 songs - 1 day 15 hr 15 min
+629 songs - 1 day 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [\(to me\) your face is love](https://open.spotify.com/track/0rMmfE1Cblk78IC48wxT5i) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [\(to me\) your face is love](https://open.spotify.com/album/3pkXtqn98A5ANVrJSMQunk) | 3:36 | 2021-11-12 | 2022-07-29 |
 | [1st Soundscape](https://open.spotify.com/track/2YMY061QrP62VEA6thqCqm) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4) | [Wind Down](https://open.spotify.com/album/0SNkVpjU9S4zVxBoytcfON) | 3:44 | 2022-06-03 | 2022-07-24 |
 | [2021](https://open.spotify.com/track/7sy4upvDMtpz0jDCech44W) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [7G](https://open.spotify.com/album/16NHNs15w1bpkFiBOUgDaB) | 1:56 | 2021-06-03 | 2022-06-04 |
-| [4am](https://open.spotify.com/track/1F2guay5Aj7XNNvbuCx9p5) | [soft siren](https://open.spotify.com/artist/2231C2oqgdZQmJ0vh6bNX2), [CASHFORGOLD](https://open.spotify.com/artist/4FzthA7DjutA71z91I1DKX), [Sidewalks and Skeletons](https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1) | [4am](https://open.spotify.com/album/0sDl1OIYoL0dMgRQ50rHrH) | 2:57 | 2023-05-12 |  |
+| [4am](https://open.spotify.com/track/1F2guay5Aj7XNNvbuCx9p5) | [soft siren](https://open.spotify.com/artist/2231C2oqgdZQmJ0vh6bNX2), [CASHFORGOLD](https://open.spotify.com/artist/4FzthA7DjutA71z91I1DKX), [Sidewalks and Skeletons](https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1) | [4am](https://open.spotify.com/album/0sDl1OIYoL0dMgRQ50rHrH) | 2:57 | 2023-05-12 | 2024-09-16 |
 | [5 to 8 Hours a Day \(WWwaG\)](https://open.spotify.com/track/0SoEbU9NN28HxNAhkLDuEe) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn) | [I Killed Your Dog](https://open.spotify.com/album/2O01P3dwp47dyImCnTdfyo) | 4:30 | 2023-10-13 | 2024-01-13 |
 | [5.17](https://open.spotify.com/track/7i8wAKUOcb9BWK50mFOOHU) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [5.17](https://open.spotify.com/album/7CxtQw1cz4fQW4A0w81eeC) | 4:01 | 2022-04-08 | 2022-07-20 |
 | [500 ascended](https://open.spotify.com/track/1dncdmAcnFsm4geFSLV1Km) | [uh](https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu) | [humanus](https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN) | 7:32 | 2023-07-03 | 2023-07-08 |
@@ -630,6 +630,7 @@
 | [Woe \(I See It From Your Side\) \- Björk Remix](https://open.spotify.com/track/1cfLiIKKcBE2ReK1YW3Zu4) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Woe \(I See It From Your Side\) \[Björk Remix\]](https://open.spotify.com/album/385JXSHV11PUnppjIvepfb) | 3:44 | 2023-03-31 | 2023-04-15 |
 | [Wood](https://open.spotify.com/track/3EyxbmvNxqvFLmqRMc5Caw) | [Duval Timothy](https://open.spotify.com/artist/4t5XnkAKxcaYcDXI726A4Y), [Yu Su](https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0) | [Meeting with a Judas Tree](https://open.spotify.com/album/2JEmFCOxEi8Onik59bRrMg) | 3:32 | 2022-12-16 | 2023-01-18 |
 | [yellow is the color of her eyes](https://open.spotify.com/track/5EDBVVqd2ogoG89XVQOvsn) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [color theory](https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez) | 7:15 | 2021-06-03 | 2024-08-16 |
+| [You And I](https://open.spotify.com/track/248XJMcsowzZrF1APvILhF) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [The Greatest Love](https://open.spotify.com/album/3jlE37AdgcZbfsfyMutyCE) | 5:00 | 2024-09-13 |  |
 | [You Don't Get Me High Anymore](https://open.spotify.com/track/7EK3dE4L4eV6kfiQxDDQTh) | [Ziggy 2000](https://open.spotify.com/artist/1QTanwqlZCwb5kbYbkFI2r) | [You Don't Get Me High Anymore](https://open.spotify.com/album/74USk7JkeC5AkbPZg3Eg7o) | 4:05 | 2022-01-28 | 2022-04-20 |
 | [You Don't Own Me](https://open.spotify.com/track/5eaIe7XJ5JKtwKWv8c4PoG) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [You Don't Own Me](https://open.spotify.com/album/1YrfFAtUYvapMLU8620TTj) | 4:20 | 2022-09-09 | 2022-10-21 |
 | [You Lose!](https://open.spotify.com/track/6b39rpIiepKunZyFHwugZQ) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [You Lose!](https://open.spotify.com/album/2G1sZOFy7ReEHTLgpY5wzh) | 3:24 | 2021-09-24 | 2022-06-04 |

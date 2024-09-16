@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: Lukas Nelson & Sierra Ferrell
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,151 likes - 117 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,263 likes - 117 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

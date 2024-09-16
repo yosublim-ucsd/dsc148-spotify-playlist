@@ -4,7 +4,7 @@
 
 > Meet the future\. New artists on the horizon\. Cover: The Warning.
 
-1,634 songs - 3 day 17 hr 7 min
+1,637 songs - 3 day 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Accelerator](https://open.spotify.com/track/4O8KIGH2v0z5yR20nzFrWv) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Accelerator](https://open.spotify.com/album/59s90G0tc3u2Vg9FBWuObS) | 2:51 | 2024-03-29 | 2024-06-08 |
 | [Acid Rain](https://open.spotify.com/track/0u1qECibAI6V0t4cvItL2F) | [FLOSS](https://open.spotify.com/artist/6J9jA7iSuf9a6Apk8sKqhJ) | [Acid Rain](https://open.spotify.com/album/3Wr2vHubG92whTTJOgy9To) | 3:06 | 2024-03-29 | 2024-04-06 |
 | [Acto Final](https://open.spotify.com/track/6l2T9Y8Dx0xk0TKpuuF2D6) | [Mariangela](https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf) | [Sensible](https://open.spotify.com/album/1NjrLqsDn8YbgSHzotKfsJ) | 3:36 | 2024-02-02 | 2024-04-03 |
+| [Actress](https://open.spotify.com/track/4xW5io4CLYdYaGKenBYmvA) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [Actress](https://open.spotify.com/album/2fE2LB3306jWzjQXSHzio5) | 3:14 | 2024-09-13 |  |
 | [After School Sad Session](https://open.spotify.com/track/6TXFjtfLV3HvMna0mSoGEL) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [After School Sad Session](https://open.spotify.com/album/547GIcLRF21KNd9SnoBWfQ) | 2:25 | 2023-05-30 | 2023-10-06 |
 | [Afterglow](https://open.spotify.com/track/4HqdrhdEZPxzEIdZKVBLdX) | [KEYANA](https://open.spotify.com/artist/55xVPquXFuGsZjvx4i68GZ) | [Afterglow](https://open.spotify.com/album/6Ji3Fl8vFaadhk1ZBHUBkI) | 3:01 | 2022-02-03 | 2022-12-15 |
 | [AFTERPARTY](https://open.spotify.com/track/0NfsvBOFmD84c6qvpy3nkS) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [AFTERPARTY](https://open.spotify.com/album/5DQx0TobK6zTBz6RLcgMmS) | 3:13 | 2023-04-12 | 2023-07-08 |
@@ -69,7 +70,7 @@
 | [Alfonsina Y El Mar](https://open.spotify.com/track/2QVKzeaFuSmr6ckZLuKUDB) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Alfonsina Y El Mar](https://open.spotify.com/album/5y1BwfQejuUHwwRCc4f0Eh) | 4:39 | 2023-09-08 | 2023-10-14 |
 | [Algo Más](https://open.spotify.com/track/2Nu6wSCiR6W9Z7r9En79ML) | [Fátima Pinto](https://open.spotify.com/artist/4CCbR8akoap4IDhxSlxlzG) | [Algo Más](https://open.spotify.com/album/4EsB7A89kaCi7bVHBrs3Jf) | 3:00 | 2022-03-24 | 2022-04-13 |
 | [Alive](https://open.spotify.com/track/2K5PuNGkdskwGFAKNrNNBA) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [Alive](https://open.spotify.com/album/4vvqE8p4XzrFbS2mdAgihc) | 3:11 | 2022-04-07 | 2022-06-30 |
-| [All About Me](https://open.spotify.com/track/59HfHJcz1z8TMrZz6kjH9Y) | [Calum Bowie](https://open.spotify.com/artist/0BjKESiuU8dT323VIL8SqG) | [All About Me](https://open.spotify.com/album/5oMMQjSkPPFccLMqwY1zYK) | 2:59 | 2024-05-31 |  |
+| [All About Me](https://open.spotify.com/track/59HfHJcz1z8TMrZz6kjH9Y) | [Calum Bowie](https://open.spotify.com/artist/0BjKESiuU8dT323VIL8SqG) | [All About Me](https://open.spotify.com/album/5oMMQjSkPPFccLMqwY1zYK) | 2:59 | 2024-05-31 | 2024-09-16 |
 | [All I Want](https://open.spotify.com/track/55RcUZy6dOwmuuc58X8iUQ) | [The Panturas](https://open.spotify.com/artist/1eblwVFP5H4whVZrYmXQLl) | [Ombak Banyu Asmara](https://open.spotify.com/album/5sETnYAu5J0G3dMIfGRGBW) | 2:41 | 2022-02-03 | 2022-02-07 |
 | [All My Life](https://open.spotify.com/track/1AEdLtFcRC1HUBzj97XWTV) | [Charlie Boon](https://open.spotify.com/artist/6NGofnQORNQtnWXN3ef270) | [All My Life](https://open.spotify.com/album/19Vgz8pVKz3MkkR7x8uIZJ) | 2:26 | 2024-05-17 |  |
 | [All Over This Party](https://open.spotify.com/track/4Wbfb7B6ke5nJZUHX0P7mk) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [All Over This Party](https://open.spotify.com/album/4ofp2cEcuD3oelw7Qp3ooz) | 3:32 | 2022-11-15 | 2023-01-28 |
@@ -1009,6 +1010,7 @@
 | [Pa Acá](https://open.spotify.com/track/5WnqsCunwFaYlnhF8ZcekE) | [Igna](https://open.spotify.com/artist/1gMGY47VdNj1nF2NRyjd5t) | [Pa Acá](https://open.spotify.com/album/6GHCA312OwUvhTfkcnjrpS) | 3:00 | 2022-04-07 | 2022-04-14 |
 | [Pa' Contarla](https://open.spotify.com/track/2JQifUvo3SrpOnD4K6ZudU) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Seguimos Avanzando](https://open.spotify.com/album/0oN9LSWr8UQGbxfCZvk2RC) | 2:57 | 2022-03-24 | 2022-04-13 |
 | [Pa' La Playa](https://open.spotify.com/track/09w0xAsYZXE6M8oImjFsfz) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [Pa' La Playa](https://open.spotify.com/album/3b1gr4gRpXTdcp6oqnwM6y) | 2:32 | 2022-04-12 | 2022-04-21 |
+| [Paciencia \(Arial 6\)](https://open.spotify.com/track/5bCVgSGP4VKDyyY5xUFHpZ) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB) | [Paciencia \(Arial 6\)](https://open.spotify.com/album/3eC8nTX0FPZ7T9Teo7InZ6) | 3:10 | 2024-09-13 |  |
 | [Padaba Taka](https://open.spotify.com/track/07gUvSU765VtVbSoHPMHHO) | [dwta](https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy) | [Padaba Taka](https://open.spotify.com/album/0Vl0nkEU0moIeAlY3gbYjZ) | 4:37 | 2024-04-19 | 2024-08-24 |
 | [Pain](https://open.spotify.com/track/7CIERzyqIwLVKGp00YbHRO) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Pain](https://open.spotify.com/album/6N4ySRXQsXl6g9mCr7QPFx) | 1:38 | 2022-03-24 | 2022-09-16 |
 | [Paku Durjana](https://open.spotify.com/track/5vbqoD5GJOqWVqE4KFvnzZ) | [COËX](https://open.spotify.com/artist/5Ia90P1tKtsgewYwo24Jxr) | [Paku Durjana](https://open.spotify.com/album/6WqYQYvMxCFou2gVnk7B4E) | 3:24 | 2024-05-17 | 2024-06-24 |
@@ -1247,7 +1249,7 @@
 | [SUNSHINE STATE OF MIND](https://open.spotify.com/track/58HfnqKt4J6Xi358dYy09D) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [SUNSHINE STATE OF MIND](https://open.spotify.com/album/18KQkCCOj6mxSWlmgPNerN) | 2:53 | 2024-09-13 |  |
 | [Super Ball](https://open.spotify.com/track/6CBqqocRx76YtdMvGqD2HZ) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Two Moon](https://open.spotify.com/album/4nyNnOXb8GtIei89Y88HWa) | 3:23 | 2023-12-07 | 2024-04-19 |
 | [Supernova](https://open.spotify.com/track/0zY2rypOdM8xmsf4tUyafF) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Supernova](https://open.spotify.com/album/5jVewtOpycGENT1zZW4wpR) | 3:10 | 2023-05-08 | 2024-01-13 |
-| [Sweat](https://open.spotify.com/track/3wdbGER9TIbNeCXfOD2CTr) | [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N) | [Sweat](https://open.spotify.com/album/5vBlJU3wNcLv9Pobuzk988) | 2:00 | 2024-05-31 |  |
+| [Sweat](https://open.spotify.com/track/3wdbGER9TIbNeCXfOD2CTr) | [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N) | [Sweat](https://open.spotify.com/album/5vBlJU3wNcLv9Pobuzk988) | 2:00 | 2024-05-31 | 2024-09-16 |
 | [Sweat \(Island File\)](https://open.spotify.com/track/5Da5oMlJgqXvgTN1tcihZT) | [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Island Files](https://open.spotify.com/album/32oWDz4GWZLF0P5jSDJoLW) | 3:07 | 2024-08-23 |  |
 | [Sweetest Revenge](https://open.spotify.com/track/7ItOeQCyzT0Ud8IWXnOIfU) | [Libby Whitehouse](https://open.spotify.com/artist/0myPBTBG3ODlKVBEf5OSBe) | [Sweetest Revenge](https://open.spotify.com/album/1v2Ca1S73FwtFCD0dXLZAo) | 2:29 | 2024-05-31 |  |
 | [Szczęśliwa Wina](https://open.spotify.com/track/5mpaSyASd5ev6RMfSqW4cR) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [Szczęśliwa Wina](https://open.spotify.com/album/00MIiun6wtpS1KScwHB7aV) | 2:33 | 2024-06-24 | 2024-07-27 |
@@ -1259,6 +1261,7 @@
 | [Tahanan](https://open.spotify.com/track/5CUQnKjA6nlteCnxMKsjIu) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Tahanan](https://open.spotify.com/album/77pn87cuqQjBr9mb5H3mPE) | 4:53 | 2022-06-29 | 2022-09-16 |
 | [Tak Bisa Bilang](https://open.spotify.com/track/2rNMr1l3vFvJcIJh59QVLg) | [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Tak Bisa Bilang](https://open.spotify.com/album/6PWcf1Zb6nOjN5XJFIs1gH) | 4:09 | 2023-11-23 | 2024-03-09 |
 | [Tak Cukup Baik](https://open.spotify.com/track/06EYeJkCXMKd1i0BqN032n) | [Putu Maydea](https://open.spotify.com/artist/6Nhn9pZFDzY4jaw4F7Pj3b) | [Tak Cukup Baik](https://open.spotify.com/album/16s0a2G7O9g31uNLUwjRMe) | 4:14 | 2024-04-19 | 2024-05-21 |
+| [Tak Pernah Sendiri](https://open.spotify.com/track/0fL3GBgfFcfQ18iyJmTX1o) | [Abeliano](https://open.spotify.com/artist/5MVMpQxOa7Ax5ps1J6E2uE) | [Tak Pernah Sendiri](https://open.spotify.com/album/7j9qy88hw4ZKfQVJFwy0RX) | 4:01 | 2024-09-13 |  |
 | [Tak Segampang Itu](https://open.spotify.com/track/26cvTWJq2E1QqN4jyH2OTU) | [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx) | [Tak Segampang Itu](https://open.spotify.com/album/6gO5mDyNTqiIqHItRil4OG) | 3:51 | 2023-05-30 | 2024-01-20 |
 | [Take It Further](https://open.spotify.com/track/0rbT2Eihb1kA0XUOnYHnyS) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Take It Further](https://open.spotify.com/album/1W0l2EpYKLQkD0MhVPwIHE) | 3:21 | 2022-05-19 | 2022-08-02 |
 | [Take Me](https://open.spotify.com/track/7Ix7tEAw8le0lP3YSJFPp3) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Take Me](https://open.spotify.com/album/31yx6tPI7RvMRN0yvDqf4r) | 3:38 | 2024-04-19 | 2024-08-03 |
@@ -1326,7 +1329,7 @@
 | [Tonę](https://open.spotify.com/track/10W1VlePfIyjrUCTZ15Q1G) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Tonę](https://open.spotify.com/album/4xEZCZwXOlhAfgEYkZSU82) | 2:44 | 2022-09-08 | 2022-11-19 |
 | [Too Late](https://open.spotify.com/track/14Qnu50Sy8uZbJR3zEcbY4) | [Essosa](https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY) | [Essie's World](https://open.spotify.com/album/5POh4uMQRFPQuZcAMKAtRB) | 3:00 | 2024-08-16 |  |
 | [Too Much Time](https://open.spotify.com/track/52Cb0LJqGkhTf1FdZKUXRk) | [Eli Wilson](https://open.spotify.com/artist/5oQxK0KlCYoKZg8wS5Pm0p) | [Too Much Time](https://open.spotify.com/album/7qosDtVE1hK4dZyjJDHOjx) | 3:01 | 2024-05-17 |  |
-| [Too Soon](https://open.spotify.com/track/0WdQjRX7X6amz0BHRcD887) | [Alex Angelo](https://open.spotify.com/artist/6BnmXRCOnTy4iTBlbsgZ5J) | [Too Soon](https://open.spotify.com/album/4xECNkIR9p94yrYa35LAz3) | 4:12 | 2024-05-31 |  |
+| [Too Soon](https://open.spotify.com/track/0WdQjRX7X6amz0BHRcD887) | [Alex Angelo](https://open.spotify.com/artist/6BnmXRCOnTy4iTBlbsgZ5J) | [Too Soon](https://open.spotify.com/album/4xECNkIR9p94yrYa35LAz3) | 4:12 | 2024-05-31 | 2024-09-16 |
 | [Too Well](https://open.spotify.com/track/6Szgu8v7CAapag3XuuJX0b) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 2:36 | 2023-08-18 | 2023-11-18 |
 | [TOSCANA](https://open.spotify.com/track/6ejAYAdo08qbPLrH4FEfYe) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Cardellino](https://open.spotify.com/album/43ngUKpEMUdgNv3cHaWGKC) | 2:49 | 2022-03-24 | 2022-08-20 |
 | [Totoo](https://open.spotify.com/track/2xLdN3oHi4CG89H9g1DJXN) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [Kenaniah](https://open.spotify.com/album/50ZqQAS4Cp2ATe9w1MUHB7) | 4:40 | 2023-07-07 | 2024-03-09 |

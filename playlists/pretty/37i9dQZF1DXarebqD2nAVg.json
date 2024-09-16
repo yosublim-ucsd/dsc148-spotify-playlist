@@ -1,6 +1,6 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 451283,
+  "num_followers": 451368,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "a day with the kids",
-        "url": "https://open.spotify.com/album/6Ts9ETbP9B7PPMnIHnrOsQ"
-      },
-      "artists": [
-        {
-          "name": "blank maxxymus",
-          "url": "https://open.spotify.com/artist/0h8hl2SvfzyyxBQEkuu99K"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "a day with the kids",
-      "url": "https://open.spotify.com/track/0u8cOPcqtOMeBj4IgCDhN0"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
         "name": "In Comparison With",
         "url": "https://open.spotify.com/album/3vvMXi4IWwUbgQi7S2oxJP"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 202066,
       "name": "In Comparison With",
       "url": "https://open.spotify.com/track/2kRqoND9nTZ6ShVTWPQ3Y6"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
+        "name": "a day with the kids",
+        "url": "https://open.spotify.com/album/6Ts9ETbP9B7PPMnIHnrOsQ"
+      },
+      "artists": [
+        {
+          "name": "blank maxxymus",
+          "url": "https://open.spotify.com/artist/0h8hl2SvfzyyxBQEkuu99K"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "a day with the kids",
+      "url": "https://open.spotify.com/track/0u8cOPcqtOMeBj4IgCDhN0"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -211,22 +211,6 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "Smooth Fields",
-        "url": "https://open.spotify.com/album/3NzRqlA8AJyFqDQUdcT9ht"
-      },
-      "artists": [
-        {
-          "name": "Harvest Emotions",
-          "url": "https://open.spotify.com/artist/53JNLKdwnvLY8F2tA6T22K"
-        }
-      ],
-      "duration_ms": 170434,
-      "name": "Smooth Fields",
-      "url": "https://open.spotify.com/track/2MKtFmktpp2kMGKm4oaOcH"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
         "name": "Memories & Notes",
         "url": "https://open.spotify.com/album/3EeK9doDTJjMcpLw7gDQbt"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 113357,
       "name": "Memories & Notes",
       "url": "https://open.spotify.com/track/0LJeA9BFfwRfsOTxzhWzCF"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
+        "name": "Smooth Fields",
+        "url": "https://open.spotify.com/album/3NzRqlA8AJyFqDQUdcT9ht"
+      },
+      "artists": [
+        {
+          "name": "Harvest Emotions",
+          "url": "https://open.spotify.com/artist/53JNLKdwnvLY8F2tA6T22K"
+        }
+      ],
+      "duration_ms": 170434,
+      "name": "Smooth Fields",
+      "url": "https://open.spotify.com/track/2MKtFmktpp2kMGKm4oaOcH"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -295,22 +295,6 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "buffering",
-        "url": "https://open.spotify.com/album/3syTXC5V5QHDPFMVIbdQ8L"
-      },
-      "artists": [
-        {
-          "name": "drawn animal",
-          "url": "https://open.spotify.com/artist/1Y6lFDIG5QZMrt1AlvW89P"
-        }
-      ],
-      "duration_ms": 125500,
-      "name": "buffering",
-      "url": "https://open.spotify.com/track/56GSCStJ5kWkGg8X2Ofgvp"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
         "name": "Disconnect",
         "url": "https://open.spotify.com/album/3rhmOQwuwvh2YOevVyAcFQ"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 120615,
       "name": "Disconnect",
       "url": "https://open.spotify.com/track/0wtiWVOOK5PJ4yP3VcnTui"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
+        "name": "buffering",
+        "url": "https://open.spotify.com/album/3syTXC5V5QHDPFMVIbdQ8L"
+      },
+      "artists": [
+        {
+          "name": "drawn animal",
+          "url": "https://open.spotify.com/artist/1Y6lFDIG5QZMrt1AlvW89P"
+        }
+      ],
+      "duration_ms": 125500,
+      "name": "buffering",
+      "url": "https://open.spotify.com/track/56GSCStJ5kWkGg8X2Ofgvp"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -395,26 +395,6 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "another time",
-        "url": "https://open.spotify.com/album/0V4jU4MUj4Tw4il7avTRc7"
-      },
-      "artists": [
-        {
-          "name": "fnonose",
-          "url": "https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q"
-        },
-        {
-          "name": "morningtime",
-          "url": "https://open.spotify.com/artist/7xwOP2sBEig4hhduDiYwHS"
-        }
-      ],
-      "duration_ms": 154250,
-      "name": "another time",
-      "url": "https://open.spotify.com/track/3b9OgQr8jzUfdQPhe2Q9BW"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
         "name": "perspective",
         "url": "https://open.spotify.com/album/3q7cd1dOCKHaIsrovofGGk"
       },
@@ -451,6 +431,26 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
+        "name": "another time",
+        "url": "https://open.spotify.com/album/0V4jU4MUj4Tw4il7avTRc7"
+      },
+      "artists": [
+        {
+          "name": "fnonose",
+          "url": "https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q"
+        },
+        {
+          "name": "morningtime",
+          "url": "https://open.spotify.com/artist/7xwOP2sBEig4hhduDiYwHS"
+        }
+      ],
+      "duration_ms": 154250,
+      "name": "another time",
+      "url": "https://open.spotify.com/track/3b9OgQr8jzUfdQPhe2Q9BW"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
         "name": "Breakfast In Bed",
         "url": "https://open.spotify.com/album/1mAPw9uF9teoADOpISmCTa"
       },
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "dream surfer",
-        "url": "https://open.spotify.com/album/4uKVu6udzIh40UujqTfO97"
-      },
-      "artists": [
-        {
-          "name": "loyCOY",
-          "url": "https://open.spotify.com/artist/7pK6BN9GZMUosqH5DPKmC7"
-        }
-      ],
-      "duration_ms": 144892,
-      "name": "dream surfer",
-      "url": "https://open.spotify.com/track/2Wj1sIJ6XxtR8R8aJwEKVt"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
         "name": "soft plushies",
         "url": "https://open.spotify.com/album/6Yau9wpqAvrt9ahWvenwdu"
       },
@@ -511,22 +495,6 @@
       "duration_ms": 144005,
       "name": "soft plushies",
       "url": "https://open.spotify.com/track/0CxiIgeeY64oIFG0bbbYi1"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
-        "name": "No Awake Zone",
-        "url": "https://open.spotify.com/album/3Le5RTJqJ8uPcK3XEdOYC3"
-      },
-      "artists": [
-        {
-          "name": "Pat Laine",
-          "url": "https://open.spotify.com/artist/4ayEtUqC4VtbghdfnMjW9g"
-        }
-      ],
-      "duration_ms": 138370,
-      "name": "No Awake Zone",
-      "url": "https://open.spotify.com/track/1CjQkzy5U9tfFioVFXBqvp"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -563,18 +531,34 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "kyoto dreams",
-        "url": "https://open.spotify.com/album/3msbu1P8p3H5umoFgmosLT"
+        "name": "dream surfer",
+        "url": "https://open.spotify.com/album/4uKVu6udzIh40UujqTfO97"
       },
       "artists": [
         {
-          "name": "WAIIFUU",
-          "url": "https://open.spotify.com/artist/4HW4cjXaCVyNsbxUjyikIY"
+          "name": "loyCOY",
+          "url": "https://open.spotify.com/artist/7pK6BN9GZMUosqH5DPKmC7"
         }
       ],
-      "duration_ms": 144000,
-      "name": "kyoto dreams",
-      "url": "https://open.spotify.com/track/7EzZ5GTsVwWApFLJyv6znP"
+      "duration_ms": 144892,
+      "name": "dream surfer",
+      "url": "https://open.spotify.com/track/2Wj1sIJ6XxtR8R8aJwEKVt"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
+        "name": "No Awake Zone",
+        "url": "https://open.spotify.com/album/3Le5RTJqJ8uPcK3XEdOYC3"
+      },
+      "artists": [
+        {
+          "name": "Pat Laine",
+          "url": "https://open.spotify.com/artist/4ayEtUqC4VtbghdfnMjW9g"
+        }
+      ],
+      "duration_ms": 138370,
+      "name": "No Awake Zone",
+      "url": "https://open.spotify.com/track/1CjQkzy5U9tfFioVFXBqvp"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -627,6 +611,22 @@
       "duration_ms": 120374,
       "name": "polaris",
       "url": "https://open.spotify.com/track/1Z1EPGghmQHnXY7kHpjidh"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
+        "name": "kyoto dreams",
+        "url": "https://open.spotify.com/album/3msbu1P8p3H5umoFgmosLT"
+      },
+      "artists": [
+        {
+          "name": "WAIIFUU",
+          "url": "https://open.spotify.com/artist/4HW4cjXaCVyNsbxUjyikIY"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "kyoto dreams",
+      "url": "https://open.spotify.com/track/7EzZ5GTsVwWApFLJyv6znP"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "roamwave",
-        "url": "https://open.spotify.com/album/5IbovMKmZTv0ikkb3qmnSy"
-      },
-      "artists": [
-        {
-          "name": "ai sayuri",
-          "url": "https://open.spotify.com/artist/5YohkWp4bq0IUw4c0StwjJ"
-        }
-      ],
-      "duration_ms": 138663,
-      "name": "roamwave",
-      "url": "https://open.spotify.com/track/5LaOfGGkGFUyUdULSwGzwc"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
         "name": "Places I Remember",
         "url": "https://open.spotify.com/album/1WuUuPZOPUNuWg5B9Ubmw1"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 150029,
       "name": "River Day",
       "url": "https://open.spotify.com/track/5hgH4lqrKXSzauHoUiJV3q"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
+        "name": "roamwave",
+        "url": "https://open.spotify.com/album/5IbovMKmZTv0ikkb3qmnSy"
+      },
+      "artists": [
+        {
+          "name": "ai sayuri",
+          "url": "https://open.spotify.com/artist/5YohkWp4bq0IUw4c0StwjJ"
+        }
+      ],
+      "duration_ms": 138663,
+      "name": "roamwave",
+      "url": "https://open.spotify.com/track/5LaOfGGkGFUyUdULSwGzwc"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -743,6 +743,26 @@
       "duration_ms": 160000,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/6aKLdYN5qIQXhi5oorQO3g"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
+        "name": "Watching Walls",
+        "url": "https://open.spotify.com/album/19n7gbTqzfG0M7Ptnx999l"
+      },
+      "artists": [
+        {
+          "name": "Sleepermane",
+          "url": "https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI"
+        },
+        {
+          "name": "Dontcry",
+          "url": "https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU"
+        }
+      ],
+      "duration_ms": 131432,
+      "name": "Watching Walls",
+      "url": "https://open.spotify.com/track/5Pv4jIAe9BM9QZJxvMQTZG"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -775,26 +795,6 @@
       "duration_ms": 215713,
       "name": "memory",
       "url": "https://open.spotify.com/track/3kp7TJruKzJUlr3entkFZ2"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
-        "name": "Watching Walls",
-        "url": "https://open.spotify.com/album/19n7gbTqzfG0M7Ptnx999l"
-      },
-      "artists": [
-        {
-          "name": "Sleepermane",
-          "url": "https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI"
-        },
-        {
-          "name": "Dontcry",
-          "url": "https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU"
-        }
-      ],
-      "duration_ms": 131432,
-      "name": "Watching Walls",
-      "url": "https://open.spotify.com/track/5Pv4jIAe9BM9QZJxvMQTZG"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -927,6 +927,22 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
+        "name": "Last Summer",
+        "url": "https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8"
+      },
+      "artists": [
+        {
+          "name": "Barnes Blvd.",
+          "url": "https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc"
+        }
+      ],
+      "duration_ms": 163533,
+      "name": "Now, I See",
+      "url": "https://open.spotify.com/track/7xCYaDqhAOs5TfeDvY9Dqn"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
         "name": "No I'm Not",
         "url": "https://open.spotify.com/album/2Zya2z365pr9vclFnyZ0jh"
       },
@@ -963,22 +979,6 @@
     {
       "added_at": "2024-09-03 08:14:22",
       "album": {
-        "name": "Last Summer",
-        "url": "https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8"
-      },
-      "artists": [
-        {
-          "name": "Barnes Blvd.",
-          "url": "https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc"
-        }
-      ],
-      "duration_ms": 163533,
-      "name": "Now, I See",
-      "url": "https://open.spotify.com/track/7xCYaDqhAOs5TfeDvY9Dqn"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
         "name": "Stay In Bed",
         "url": "https://open.spotify.com/album/3US880QWOU3JqaIOguUilz"
       },
@@ -991,22 +991,6 @@
       "duration_ms": 124821,
       "name": "Stay In Bed",
       "url": "https://open.spotify.com/track/1ZRiNz4OJFI1oJ8A5EBA7k"
-    },
-    {
-      "added_at": "2024-09-03 08:14:22",
-      "album": {
-        "name": "clear blue atmosphere",
-        "url": "https://open.spotify.com/album/3x02MVIYzOPc6t6Mi6annZ"
-      },
-      "artists": [
-        {
-          "name": "Touristique",
-          "url": "https://open.spotify.com/artist/11rQUKWqk3opiirceuJVV2"
-        }
-      ],
-      "duration_ms": 140109,
-      "name": "clear blue atmosphere",
-      "url": "https://open.spotify.com/track/6s31znJTzvn34nJiPfBbHp"
     },
     {
       "added_at": "2024-09-03 08:14:22",
@@ -1027,6 +1011,22 @@
       "duration_ms": 164625,
       "name": "Moss",
       "url": "https://open.spotify.com/track/2juhNawrmbYjLxXdWqv600"
+    },
+    {
+      "added_at": "2024-09-03 08:14:22",
+      "album": {
+        "name": "clear blue atmosphere",
+        "url": "https://open.spotify.com/album/3x02MVIYzOPc6t6Mi6annZ"
+      },
+      "artists": [
+        {
+          "name": "Touristique",
+          "url": "https://open.spotify.com/artist/11rQUKWqk3opiirceuJVV2"
+        }
+      ],
+      "duration_ms": 140109,
+      "name": "clear blue atmosphere",
+      "url": "https://open.spotify.com/track/6s31znJTzvn34nJiPfBbHp"
     },
     {
       "added_at": "2024-09-03 08:14:22",

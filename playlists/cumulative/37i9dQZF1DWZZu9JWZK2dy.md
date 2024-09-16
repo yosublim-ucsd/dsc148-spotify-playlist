@@ -4,7 +4,7 @@
 
 > The hottest Anime hits of the 00s\.  2000年代のアニメシーンを特集。Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-118 songs - 8 hr 24 min
+119 songs - 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [グロリアス マインド](https://open.spotify.com/track/2lswHSoclUEk4jGm3k05Oe) | [ZARD](https://open.spotify.com/artist/2NKadilSWCwuqGp5QoDeUS) | [グロリアス マインド](https://open.spotify.com/album/3vXmyVTOeRbhYxHX7EAwA5) | 4:39 | 2021-09-14 |  |
 | [ケロッ! とマーチ](https://open.spotify.com/track/7ehux42uSQOUuhWS4yPBbb) | [角田信明](https://open.spotify.com/artist/1rxERGNemrVJr4p2ETJ56M), [いはたじゅり](https://open.spotify.com/artist/3znGaAtmH8rZLOjzDZztqi) | [TVアニメ『ケロロ軍曹』ケロロソング①](https://open.spotify.com/album/4a7xVKcnPtU6Vd1cLnxjod) | 3:11 | 2021-09-14 |  |
 | [ココロオドル \-original version\-](https://open.spotify.com/track/5tcnPaFhcpSLx7ihFwI9DM) | [nobodyknows+](https://open.spotify.com/artist/7lSZHedda1CjyJwI6Z9Zlj) | [ココロオドル](https://open.spotify.com/album/3TZVSXdXXbqCbb4oWx1hSf) | 4:13 | 2022-07-06 |  |
+| [サヤエンドウ](https://open.spotify.com/track/3gg8y6bMZrUeHoSRYKDDxs) | [NEWS](https://open.spotify.com/artist/2Sw8snRnez7gVPNd9UU07o) | [サヤエンドウ / 裸足のシンデレラボーイ](https://open.spotify.com/album/3nMIaOuksJGxkuBwCOruJw) | 4:16 | 2024-09-16 |  |
 | [ハレ晴レユカイ](https://open.spotify.com/track/651dM1w0QS5qG1qdL2zraO) | [Aya Hirano](https://open.spotify.com/artist/3i2cfgYBlN8krGOtCqEYHj), [茅原実里](https://open.spotify.com/artist/2BVUhHYQGZDr1YOQuySRuZ), [後藤邑子](https://open.spotify.com/artist/125fR1G9GJOC9YD8ZQ7a0Q) | [涼宮ハルヒの完奏〜コンプリートサウンドトラック〜](https://open.spotify.com/album/5Th1Ca5zP4rocYmRCY59NI) | 3:35 | 2021-09-14 |  |
 | [ブルーバード](https://open.spotify.com/track/2XpV9sHBexcNrz0Gyf3l18) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [Chou Ikimonobakari Tennen Kinen Members Best Selection](https://open.spotify.com/album/6CM8A3Uhws8mAcNOxpBRNq) | 3:35 | 2022-07-06 | 2024-04-19 |
 | [ブルーバード](https://open.spotify.com/track/5XKMGlkK6Rvro9sinQpxxZ) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [いきものばかり〜メンバーズBESTセレクション〜](https://open.spotify.com/album/4cmwCfGQ5SMNJnEL4dKB2B) | 3:35 | 2022-07-06 | 2022-11-13 |

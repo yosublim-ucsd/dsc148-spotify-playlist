@@ -1,12 +1,12 @@
 {
   "description": "This is $uicideboy$. The essential tracks, all in one playlist.",
-  "num_followers": 609349,
+  "num_followers": 609554,
   "original_name": "This Is $uicideboy$",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuOAgAAAAABWfMA9FsSRu7QHIZ7QJxfi",
+  "snapshot_id": "ZuTSAAAAAACCCb/7ZYUm4UTt7Ist7X8d",
   "tracks": [
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eternal Grey",
-        "url": "https://open.spotify.com/album/2hAoB9uIsHVFABuuOREFmB"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 128417,
-      "name": "O Pana!",
-      "url": "https://open.spotify.com/track/0cQvicmQo8syJ2Zv8aYDfN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Long Term Effects of SUFFERING",
         "url": "https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 165970,
       "name": "The Number You Have Dialed Is Not in Service",
       "url": "https://open.spotify.com/track/4gAtj23mqTx5pjfkzVaXhh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eternal Grey",
+        "url": "https://open.spotify.com/album/2hAoB9uIsHVFABuuOREFmB"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 128417,
+      "name": "O Pana!",
+      "url": "https://open.spotify.com/track/0cQvicmQo8syJ2Zv8aYDfN"
     },
     {
       "added_at": null,

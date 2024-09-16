@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Carnaval. The essential tracks, all in one playlist.",
-  "num_followers": 57530,
+  "num_followers": 57539,
   "original_name": "This Is Banda Carnaval",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuOAgAAAAAAJca1Cra7Ugj3KHNZJ6ijk",
+  "snapshot_id": "ZuTSAAAAAACV/4XsZbci3iwRxBOElo1U",
   "tracks": [
     {
       "added_at": null,
@@ -339,22 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde El Rancho",
-        "url": "https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 176066,
-      "name": "El Herradero - En Vivo Desde El Rancho",
-      "url": "https://open.spotify.com/track/1XSQE1KKdfIO8auVrK2l2s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Puros Corridos",
         "url": "https://open.spotify.com/album/7ydDpPVpV2VviGIIc5uYG1"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 102840,
       "name": "Caballo De Patas Blancas",
       "url": "https://open.spotify.com/track/2snAmWK7MqZMLHlAb0fu7f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo Desde El Rancho",
+        "url": "https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 176066,
+      "name": "El Herradero - En Vivo Desde El Rancho",
+      "url": "https://open.spotify.com/track/1XSQE1KKdfIO8auVrK2l2s"
     },
     {
       "added_at": null,
@@ -831,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Segunda Temporada",
-        "url": "https://open.spotify.com/album/3dcxUASRwab0TUUfBAcPQt"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 196106,
-      "name": "Volver\u00e1s A Ser Feliz",
-      "url": "https://open.spotify.com/track/2wusyy7MlbPm94ER4NQZHh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fibras Sensibles",
         "url": "https://open.spotify.com/album/1SIOva8bdGwBhujbFfWmUm"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 200720,
       "name": "Fibras Sensibles",
       "url": "https://open.spotify.com/track/3ecQDBEjejR0bXp2ZoeYTo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Segunda Temporada",
+        "url": "https://open.spotify.com/album/3dcxUASRwab0TUUfBAcPQt"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 196106,
+      "name": "Volver\u00e1s A Ser Feliz",
+      "url": "https://open.spotify.com/track/2wusyy7MlbPm94ER4NQZHh"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Descubre los temas emergentes del mundo indie\. Foto: Yarea.
 
-186 songs - 9 hr 44 min
+187 songs - 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Chico Bueno](https://open.spotify.com/track/16iyniG7adFrbPGJTZ5Fkk) | [Maria Rodés](https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf), [BRONQUIO](https://open.spotify.com/artist/5ChiL2aAGunqF9P4m3giP1) | [Chico Bueno](https://open.spotify.com/album/3fKEevUtThfO4c1R8gh1so) | 2:58 | 2024-09-05 |  |
 | [CHULA](https://open.spotify.com/track/0mXYr3Z0tRgBsMOJIHtRQ6) | [Chill Chicos](https://open.spotify.com/artist/6QkU4dEKBiGy3rOepPOhnG), [Korashe](https://open.spotify.com/artist/0HFSv9JWkZcY2K4yLGNaHS), [Kfé](https://open.spotify.com/artist/21Oja0BVOrXu4kGqK8MfDF) | [CHULA](https://open.spotify.com/album/003ywHveGjCjgWIvi5NQRK) | 2:40 | 2024-06-27 | 2024-07-27 |
 | [COM EL DIA I LA NIT](https://open.spotify.com/track/4oITtKgZh6lPRM1JSEb4sX) | [Oques Grasses](https://open.spotify.com/artist/5qPeAT4ikl6gJNUexAOEy0), [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj) | [Fruit del Deliri](https://open.spotify.com/album/5wrNopViDjNZqgmR6cpD9v) | 4:13 | 2024-06-27 | 2024-08-23 |
-| [COMO YO](https://open.spotify.com/track/506T6zVDUSlZ0d4pIMhMGJ) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [COMO YO](https://open.spotify.com/album/1CyXLV1RNiLbbrs0lvJ5m5) | 1:57 | 2024-06-27 |  |
+| [COMO YO](https://open.spotify.com/track/506T6zVDUSlZ0d4pIMhMGJ) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [COMO YO](https://open.spotify.com/album/1CyXLV1RNiLbbrs0lvJ5m5) | 1:57 | 2024-06-27 | 2024-09-16 |
 | [CON LOQ1 NACE](https://open.spotify.com/track/5gTcX23cK2d06dbuXBIqcH) | [ODDLIQUOR](https://open.spotify.com/artist/1rmlkMXVf5f6ilIVhjow34) | [CON LOQ1 NACE](https://open.spotify.com/album/3PKRHrJ4UgwN6caKvt3mYn) | 3:06 | 2024-08-01 |  |
 | [Con Miedo a Ti](https://open.spotify.com/track/1HWa85l0tYdSirf3M1DIdl) | [Queralt Lahoz](https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5) | [Alto Cielo](https://open.spotify.com/album/20mFqdvrOtScXNl72bAa8V) | 4:51 | 2024-06-27 |  |
 | [Con otra cabeza](https://open.spotify.com/track/5KdVewdmh5VWkCSxXBcl8o) | [LA MILAGROSA](https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP) | [Con otra cabeza](https://open.spotify.com/album/1XhcGwZwWx0cZ6Fi62gAVV) | 2:29 | 2024-06-27 |  |
@@ -52,6 +52,7 @@
 | [DEMONIO](https://open.spotify.com/track/6FQ4GVuaq7hTsFcSh7mqMZ) | [Maria Blaya](https://open.spotify.com/artist/0Ln3BisQiL0t2w7bsmju75) | [GRANDE](https://open.spotify.com/album/6cV5ziMH2KfyIxxooKNA4L) | 2:28 | 2024-06-27 | 2024-07-14 |
 | [Destra](https://open.spotify.com/track/3rxX1ViZZ1zF9FneNNMgQI) | [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [Destra](https://open.spotify.com/album/1YmTA0BCvH8mZgBYvsuJ8p) | 3:58 | 2024-08-22 | 2024-09-13 |
 | [Diamante](https://open.spotify.com/track/4F5gTSLd8FvbLkWlJHFQlq) | [Baiuca](https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS), [Alba Reche](https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK) | [Diamante](https://open.spotify.com/album/0uKwIyx6m6LUVpACtb8Qfq) | 3:12 | 2024-06-27 | 2024-09-06 |
+| [dos sombras](https://open.spotify.com/track/11qEJrBkjCFHIwhAFJYF6b) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [dos sombras](https://open.spotify.com/album/0OdUtb0AsbynTk3X6MFFZw) | 2:57 | 2024-09-12 |  |
 | [Drama en el Sonorama](https://open.spotify.com/track/4tDilCqVje9Wdx9a9USlPS) | [Anabel Lee](https://open.spotify.com/artist/5RUY9JzWtxRY6oRqH3xTIW), [Maren](https://open.spotify.com/artist/1dQFUUeoS0srP2hNrmzj5L) | [Drama en el Sonorama](https://open.spotify.com/album/2amy0hycTmlvLUmPMal70a) | 3:22 | 2024-08-15 | 2024-09-07 |
 | [d´ESCARNIO](https://open.spotify.com/track/3KJ52eq5xaJVKDHDz4JQPt) | [Fillas de Cassandra](https://open.spotify.com/artist/4OETSqPg52NUKHEQEroph5) | [d´ESCARNIO](https://open.spotify.com/album/2JNJtZgFI9JuxOy7qpeFeQ) | 2:39 | 2024-07-12 | 2024-08-02 |
 | [Echo de menos a los Arctic Monkeys](https://open.spotify.com/track/1gVe7hDguYKZyeUjdyuOsK) | [Tenda](https://open.spotify.com/artist/6q67yxb78jnAUnVXrbZBHS) | [Echo de menos a los Arctic Monkeys](https://open.spotify.com/album/1hLzA65hHzjmVkJGucZCwG) | 3:19 | 2024-06-27 |  |

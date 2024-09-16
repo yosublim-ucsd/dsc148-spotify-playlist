@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2sE0XOCyp1Qp8gfwRn8gjl">Joni Mitchell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,156 likes - 271 songs - 17 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,157 likes - 271 songs - 17 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 | 35 | [Hejira](https://open.spotify.com/track/5YoBEhJWkFwT0zsWD2rUst) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Hejira](https://open.spotify.com/album/3Z0qQc09rmk4JYtIaxEx2J) | 6:42 |
 | 36 | [The Hissing of Summer Lawns](https://open.spotify.com/track/6ar3x1gVqkABR1x6zQI9yH) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [The Hissing of Summer Lawns](https://open.spotify.com/album/3gUlFM3azK6ZIkKz1zK7Nj) | 3:01 |
 | 37 | [Fiddle And The Drum](https://open.spotify.com/track/6ld3GvsNCSzsomJWzizxA1) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [eMOTIVe](https://open.spotify.com/album/2UAin9VEGxiZRfe9Q7SKg4) | 3:06 |
-| 38 | [Down to You](https://open.spotify.com/track/3eH95cySq82dDtpwrGCCfQ) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Court and Spark](https://open.spotify.com/album/2akjxkzFolkeV72Yyv5KrM) | 5:38 |
-| 39 | [Car on a Hill](https://open.spotify.com/track/27VoOUIDXAAgmEXSjOJ1gD) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Court and Spark](https://open.spotify.com/album/2akjxkzFolkeV72Yyv5KrM) | 3:02 |
+| 38 | [Car on a Hill](https://open.spotify.com/track/27VoOUIDXAAgmEXSjOJ1gD) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Court and Spark](https://open.spotify.com/album/2akjxkzFolkeV72Yyv5KrM) | 3:02 |
+| 39 | [Down to You](https://open.spotify.com/track/3eH95cySq82dDtpwrGCCfQ) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Court and Spark](https://open.spotify.com/album/2akjxkzFolkeV72Yyv5KrM) | 5:38 |
 | 40 | [In France They Kiss on Main Street](https://open.spotify.com/track/16e1DJIznzArBOCSomdvSn) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [The Hissing of Summer Lawns](https://open.spotify.com/album/3gUlFM3azK6ZIkKz1zK7Nj) | 3:19 |
 | 41 | [Furry Sings the Blues](https://open.spotify.com/track/2fCvO4vU4LLEzHLsKKrVr7) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Hejira](https://open.spotify.com/album/3Z0qQc09rmk4JYtIaxEx2J) | 5:06 |
 | 42 | [Edith and the Kingpin](https://open.spotify.com/track/7CD5VhE2AWbCxqYHmpYoSi) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [The Hissing of Summer Lawns](https://open.spotify.com/album/3gUlFM3azK6ZIkKz1zK7Nj) | 3:35 |
@@ -202,7 +202,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 | 192 | [Face Lift](https://open.spotify.com/track/46tq4LNMUFGr24bb3yrHve) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Taming the Tiger](https://open.spotify.com/album/4YijzwtAqIRGtNiN4cB2aO) | 4:41 |
 | 193 | [He Played Real Good for Free \- Live in Houston, Texas, 1977](https://open.spotify.com/track/590OCTHTS7SqHR8rWzqNqg) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [Allies](https://open.spotify.com/album/6foKl7yAjPqOXJNLxBsm7x) | 3:59 |
 | 194 | [Come to the Sunshine \- Live](https://open.spotify.com/track/5wEPxKa8wMRXb4IsdOMy5h) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [The Way It Is \- Live in Cambridge, Massachusetts 10 Jan 1968 \(Remastered\)](https://open.spotify.com/album/5YxAPF1n3pHwmITlHhNEgI) | 3:03 |
-| 195 | [Blank is](https://open.spotify.com/track/2Oh0FyjVferSXwboHIKqeG) | [Irma Schultz\-Keller](https://open.spotify.com/artist/0HrsGmEpDafnFtECrKPyqd) | [Sånger för December \- CDON](https://open.spotify.com/album/7wAWwTPLFIvGDBoyDzlguE) | 4:12 |
+| 195 | [Blank is](https://open.spotify.com/track/39ySH2BjbOXKuxgmUFgomR) | [Irma Schultz\-Keller](https://open.spotify.com/artist/0HrsGmEpDafnFtECrKPyqd) | [Sånger för december](https://open.spotify.com/album/5G6WoQ0aPQ6ZQLHou6aTOx) | 4:12 |
 | 196 | [Midnight Cowboy \- Home Demo 1](https://open.spotify.com/track/1u12kDAhzjUqaMqHyZ3i5Z) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives, Vol\. 2: The Reprise Years \(1968\-1971\)](https://open.spotify.com/album/0o9FY7BfZYuf1ujyBcd77d) | 2:31 |
 | 197 | [The Way It Is \- Live](https://open.spotify.com/track/70pmbYJWPS8SrUMMHIpNId) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [The Way It Is \- Live in Cambridge, Massachusetts 10 Jan 1968 \(Remastered\)](https://open.spotify.com/album/5YxAPF1n3pHwmITlHhNEgI) | 7:45 |
 | 198 | [Winter Lady \(Live\)](https://open.spotify.com/track/32d1orsuPhYZV9SpCq3aW2) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Live at the Second Fret 1966](https://open.spotify.com/album/1G5IqWdfUnpTJnnePSDjGq) | 4:28 |
@@ -280,4 +280,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 | 270 | [Intro To California \(with James Taylor\) \- Live on In Concert, BBC, Paris Theatre, London, England, 10/29/1970](https://open.spotify.com/track/4RQHJvLC2tytuuFxqPR15u) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Joni Mitchell Archives, Vol\. 2: The Reprise Years \(1968\-1971\)](https://open.spotify.com/album/0o9FY7BfZYuf1ujyBcd77d) | 0:14 |
 | 271 | [Intro To Chelsea Morning: John Peel \- Live on Top Gear, BBC Radio, London, England, 9/23/1968](https://open.spotify.com/track/5RjnysVYo2c1aDi4w2A3OC) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives, Vol\. 2: The Reprise Years \(1968\-1971\)](https://open.spotify.com/album/0o9FY7BfZYuf1ujyBcd77d) | 0:14 |
 
-Snapshot ID: `AbcJ6AAAAACA8CIgSwxVv79cLZknSLm2`
+Snapshot ID: `AbcPfgAAAACSQIU+dk1AVmJvIGR0K5jG`

@@ -118462,7 +118462,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-16",
       "duration_ms": 140000,
       "name": "The Last Page",
       "url": "https://open.spotify.com/track/2ryUgsdWh1CTwhQ0HgUHBS"
@@ -124414,6 +124414,24 @@
       "duration_ms": 97349,
       "name": "Under The Palm Trees",
       "url": "https://open.spotify.com/track/4NQSDtarzVzsi22y5KUN2D"
+    },
+    {
+      "album": {
+        "name": "Under The Stars",
+        "url": "https://open.spotify.com/album/2NW8a1UX8cGoZxHCDFTlH8"
+      },
+      "artists": [
+        {
+          "name": "Luke's Diner",
+          "url": "https://open.spotify.com/artist/6hi19IKSuyrQ9kIBaGMaYl"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130774,
+      "name": "Under The Stars",
+      "url": "https://open.spotify.com/track/62ZcMbemNH5zIhx0hrLUWf"
     },
     {
       "album": {

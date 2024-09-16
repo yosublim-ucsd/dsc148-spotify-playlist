@@ -1,6 +1,6 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Joe Mettle",
-  "num_followers": 12137,
+  "num_followers": 12172,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
@@ -103,22 +103,18 @@
     {
       "added_at": "2024-09-06 09:51:33",
       "album": {
-        "name": "Agbebolo",
-        "url": "https://open.spotify.com/album/7GoCOy3dOZpcQRuzN8KAzh"
+        "name": "Testimony",
+        "url": "https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69"
       },
       "artists": [
         {
-          "name": "Celestine Donkor",
-          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
-        },
-        {
-          "name": "NHYIRABA GIDEON",
-          "url": "https://open.spotify.com/artist/36YCpQMAGIr64ocWijQ8Pl"
+          "name": "Team Eternity Ghana",
+          "url": "https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz"
         }
       ],
-      "duration_ms": 332695,
-      "name": "Agbebolo",
-      "url": "https://open.spotify.com/track/4aHsfGNJuwLRvmUKMavDOq"
+      "duration_ms": 289646,
+      "name": "Testimony",
+      "url": "https://open.spotify.com/track/6yowFXV5XidqYCgOyoqVHs"
     },
     {
       "added_at": "2024-09-06 09:51:33",
@@ -139,6 +135,26 @@
       "duration_ms": 733135,
       "name": "Oba Awon Oba",
       "url": "https://open.spotify.com/track/4H0ueBPmWD9XeqjeiNJVhf"
+    },
+    {
+      "added_at": "2024-09-06 09:51:33",
+      "album": {
+        "name": "Agbebolo",
+        "url": "https://open.spotify.com/album/7GoCOy3dOZpcQRuzN8KAzh"
+      },
+      "artists": [
+        {
+          "name": "Celestine Donkor",
+          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
+        },
+        {
+          "name": "NHYIRABA GIDEON",
+          "url": "https://open.spotify.com/artist/36YCpQMAGIr64ocWijQ8Pl"
+        }
+      ],
+      "duration_ms": 332695,
+      "name": "Agbebolo",
+      "url": "https://open.spotify.com/track/4aHsfGNJuwLRvmUKMavDOq"
     },
     {
       "added_at": "2024-09-06 09:51:33",
@@ -187,22 +203,6 @@
       "duration_ms": 584041,
       "name": "Onyame Tumfo (The Prayer Song)",
       "url": "https://open.spotify.com/track/2vPxKFymTxOgHhYszvBtJ8"
-    },
-    {
-      "added_at": "2024-09-06 09:51:33",
-      "album": {
-        "name": "Testimony",
-        "url": "https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69"
-      },
-      "artists": [
-        {
-          "name": "Team Eternity Ghana",
-          "url": "https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz"
-        }
-      ],
-      "duration_ms": 289646,
-      "name": "Testimony",
-      "url": "https://open.spotify.com/track/6yowFXV5XidqYCgOyoqVHs"
     },
     {
       "added_at": "2024-09-06 09:51:33",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-09-06 09:51:33",
       "album": {
-        "name": "Okrokrohene",
-        "url": "https://open.spotify.com/album/0eIX56hYf6WJBgNweasILX"
-      },
-      "artists": [
-        {
-          "name": "Celestine Donkor",
-          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
-        }
-      ],
-      "duration_ms": 366107,
-      "name": "Okrokrohene",
-      "url": "https://open.spotify.com/track/1hwfnRVEec9Ho2mgqimW5q"
-    },
-    {
-      "added_at": "2024-09-06 09:51:33",
-      "album": {
         "name": "Medaase",
         "url": "https://open.spotify.com/album/2tzNAlun1LHRqpW7r8ERRj"
       },
@@ -615,38 +599,6 @@
       "duration_ms": 199755,
       "name": "Medaase",
       "url": "https://open.spotify.com/track/5Kbi5Nl0wc77o3mGOOZs4w"
-    },
-    {
-      "added_at": "2024-09-06 09:51:33",
-      "album": {
-        "name": "Aseda",
-        "url": "https://open.spotify.com/album/7M7BxTDWlHdM85VKItKein"
-      },
-      "artists": [
-        {
-          "name": "Nacee",
-          "url": "https://open.spotify.com/artist/78yZ1ji9uBJVuMp8pXKoBK"
-        }
-      ],
-      "duration_ms": 256750,
-      "name": "Aseda",
-      "url": "https://open.spotify.com/track/5r8OPDPYNHojAhVsLnXuE1"
-    },
-    {
-      "added_at": "2024-09-06 09:51:33",
-      "album": {
-        "name": "Adom Grace",
-        "url": "https://open.spotify.com/album/02xD7F3MCsh7ELRQHpd1eJ"
-      },
-      "artists": [
-        {
-          "name": "Diana Hamilton",
-          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
-        }
-      ],
-      "duration_ms": 290527,
-      "name": "Adom Grace",
-      "url": "https://open.spotify.com/track/0VFbhDGfxAeAuc8YRyVpas"
     },
     {
       "added_at": "2024-09-06 09:51:33",
@@ -671,6 +623,38 @@
     {
       "added_at": "2024-09-06 09:51:33",
       "album": {
+        "name": "Okrokrohene",
+        "url": "https://open.spotify.com/album/0eIX56hYf6WJBgNweasILX"
+      },
+      "artists": [
+        {
+          "name": "Celestine Donkor",
+          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
+        }
+      ],
+      "duration_ms": 366107,
+      "name": "Okrokrohene",
+      "url": "https://open.spotify.com/track/1hwfnRVEec9Ho2mgqimW5q"
+    },
+    {
+      "added_at": "2024-09-06 09:51:33",
+      "album": {
+        "name": "Aseda",
+        "url": "https://open.spotify.com/album/7M7BxTDWlHdM85VKItKein"
+      },
+      "artists": [
+        {
+          "name": "Nacee",
+          "url": "https://open.spotify.com/artist/78yZ1ji9uBJVuMp8pXKoBK"
+        }
+      ],
+      "duration_ms": 256750,
+      "name": "Aseda",
+      "url": "https://open.spotify.com/track/5r8OPDPYNHojAhVsLnXuE1"
+    },
+    {
+      "added_at": "2024-09-06 09:51:33",
+      "album": {
         "name": "DND",
         "url": "https://open.spotify.com/album/3HbT4thk3EqWVSF278MPPX"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 163628,
       "name": "DND",
       "url": "https://open.spotify.com/track/00NKcAGMQcLgown5dtYfCs"
+    },
+    {
+      "added_at": "2024-09-06 09:51:33",
+      "album": {
+        "name": "Adom Grace",
+        "url": "https://open.spotify.com/album/02xD7F3MCsh7ELRQHpd1eJ"
+      },
+      "artists": [
+        {
+          "name": "Diana Hamilton",
+          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
+        }
+      ],
+      "duration_ms": 290527,
+      "name": "Adom Grace",
+      "url": "https://open.spotify.com/track/0VFbhDGfxAeAuc8YRyVpas"
     },
     {
       "added_at": "2024-09-06 09:51:33",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-09-06 09:51:33",
       "album": {
-        "name": "Nyansabuakwa Nyame",
-        "url": "https://open.spotify.com/album/2OzSHOEEUiFwjywLFwwrnq"
-      },
-      "artists": [
-        {
-          "name": "Diana Hamilton",
-          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
-        }
-      ],
-      "duration_ms": 356200,
-      "name": "Nyansabuakwa Nyame",
-      "url": "https://open.spotify.com/track/0JDNNVdxIvbnHMQiJGAdFD"
-    },
-    {
-      "added_at": "2024-09-06 09:51:33",
-      "album": {
         "name": "Agbadza Gospel Medley II (Live)",
         "url": "https://open.spotify.com/album/0a1CiR5KeyKrb3Zwh7Fp3I"
       },
@@ -847,6 +831,22 @@
     {
       "added_at": "2024-09-06 09:51:33",
       "album": {
+        "name": "Nyansabuakwa Nyame",
+        "url": "https://open.spotify.com/album/2OzSHOEEUiFwjywLFwwrnq"
+      },
+      "artists": [
+        {
+          "name": "Diana Hamilton",
+          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
+        }
+      ],
+      "duration_ms": 356200,
+      "name": "Nyansabuakwa Nyame",
+      "url": "https://open.spotify.com/track/0JDNNVdxIvbnHMQiJGAdFD"
+    },
+    {
+      "added_at": "2024-09-06 09:51:33",
+      "album": {
         "name": "Deeper Touch",
         "url": "https://open.spotify.com/album/5nOXDaaJq1brfEv9jEYAGP"
       },
@@ -863,6 +863,26 @@
     {
       "added_at": "2024-09-06 09:51:33",
       "album": {
+        "name": "Everything New",
+        "url": "https://open.spotify.com/album/0o47BIIFajogWoAvmNSSbc"
+      },
+      "artists": [
+        {
+          "name": "B Maestro",
+          "url": "https://open.spotify.com/artist/3s0sJL0fl33A5ewZWnRCqN"
+        },
+        {
+          "name": "Nana Yaw Ofori-Atta",
+          "url": "https://open.spotify.com/artist/1D6DzRCxKig1KCd4uDuHoL"
+        }
+      ],
+      "duration_ms": 177901,
+      "name": "Everything New",
+      "url": "https://open.spotify.com/track/4unb1qazX6qkMV4CG28XQY"
+    },
+    {
+      "added_at": "2024-09-06 09:51:33",
+      "album": {
         "name": "Mile (I Know)",
         "url": "https://open.spotify.com/album/5LoM0v1RExonDL9YhaNoo2"
       },
@@ -875,22 +895,6 @@
       "duration_ms": 342685,
       "name": "Mile (I Know)",
       "url": "https://open.spotify.com/track/728JCkxq0ZdM8BuvtorvJD"
-    },
-    {
-      "added_at": "2024-09-06 09:51:33",
-      "album": {
-        "name": "Efiri Nyame",
-        "url": "https://open.spotify.com/album/0nYa4h4NADQ8GkhgVw0iYl"
-      },
-      "artists": [
-        {
-          "name": "Ceccy Twum",
-          "url": "https://open.spotify.com/artist/388AN0RI2UvUm7RwCU5Twz"
-        }
-      ],
-      "duration_ms": 275706,
-      "name": "Me Ko M'Anim",
-      "url": "https://open.spotify.com/track/4aRLuPcQMUH6XnOoHdcXeH"
     }
   ],
   "unique_name": "Aseda",

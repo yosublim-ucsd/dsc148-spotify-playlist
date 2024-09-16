@@ -1,12 +1,12 @@
 {
   "description": "This is Sia. The essential tracks, all in one playlist.",
-  "num_followers": 1406021,
+  "num_followers": 1406090,
   "original_name": "This Is Sia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuOAgAAAAADqjsic56ICpQFJaS0Ui0re",
+  "snapshot_id": "ZuTSAAAAAAC+cBvIbVjvrUSUjovGmW1+",
   "tracks": [
     {
       "added_at": null,
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 241493,
-      "name": "Fire Meet Gasoline",
-      "url": "https://open.spotify.com/track/3Rw6shHCDFRWv3g2WmEFKv"
+      "duration_ms": 210613,
+      "name": "Big Girls Cry",
+      "url": "https://open.spotify.com/track/75xgoXAGed7jiNDdV8TNOe"
     },
     {
       "added_at": null,
@@ -844,9 +844,29 @@
           "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 210613,
-      "name": "Big Girls Cry",
-      "url": "https://open.spotify.com/track/75xgoXAGed7jiNDdV8TNOe"
+      "duration_ms": 241493,
+      "name": "Fire Meet Gasoline",
+      "url": "https://open.spotify.com/track/3Rw6shHCDFRWv3g2WmEFKv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Forgive You - Chromeo Remix (radio edit)",
+        "url": "https://open.spotify.com/album/23MEFQe6rT4UgP2JUPU9b7"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        }
+      ],
+      "duration_ms": 201123,
+      "name": "I Forgive You - Chromeo Remix (radio edit)",
+      "url": "https://open.spotify.com/track/7Bdtb10c2V4oVqsz8Ebkk5"
     },
     {
       "added_at": null,
@@ -947,26 +967,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MAP OF THE SOUL : 7",
-        "url": "https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 246816,
-      "name": "ON (Feat. Sia)",
-      "url": "https://open.spotify.com/track/4JWbH50WabthGhmtduR8b9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Infinite Icon",
         "url": "https://open.spotify.com/album/1nfalq2GeQblyDqn9wYzWx"
       },
@@ -987,26 +987,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "1+1 (feat. Amir) [Banx & Ranx Remix]",
-        "url": "https://open.spotify.com/album/6FsQVRlDW4YyTRtGMQrST7"
+        "name": "MAP OF THE SOUL : 7",
+        "url": "https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j"
       },
       "artists": [
         {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        },
+        {
           "name": "Sia",
           "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "Amir",
-          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
-        },
-        {
-          "name": "Banx & Ranx",
-          "url": "https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p"
         }
       ],
-      "duration_ms": 196240,
-      "name": "1+1 (feat. Amir) - Banx & Ranx Remix",
-      "url": "https://open.spotify.com/track/1OWLQ4FQrO13w6ssWgP8tk"
+      "duration_ms": 246816,
+      "name": "ON (Feat. Sia)",
+      "url": "https://open.spotify.com/track/4JWbH50WabthGhmtduR8b9"
     }
   ],
   "unique_name": "This Is Sia",

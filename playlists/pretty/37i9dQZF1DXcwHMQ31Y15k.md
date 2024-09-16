@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Woro Widowati
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,271 likes - 104 songs - 8 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,294 likes - 104 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 | 76 | [Nyekso Batin](https://open.spotify.com/track/25a5nkGxMqY1eIFM0B4kzf) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc), [Adinda Rahma](https://open.spotify.com/artist/6KV2AA76lGjBjBI2gb5giZ) | [Nyekso Batin](https://open.spotify.com/album/2wWEPAldjTiqs1trN6nxGF) | 4:28 |
 | 77 | [SAMAR \- Versi Akustik](https://open.spotify.com/track/5QBr8tq760ApYwE4I5ZxDg) | [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh), [Indah Meghaa](https://open.spotify.com/artist/4XK4lbqOW01VPgvOfLp9rD) | [SAMAR \(Versi Akustik\)](https://open.spotify.com/album/54Ls8koKZtyqqC7cWw1WtD) | 4:37 |
 | 78 | [Nyekso Batin](https://open.spotify.com/track/5UhAkrQMv5n9ID1Ut8qaRz) | [Ajeng Febria](https://open.spotify.com/artist/7fSK1XqTJMwzDw6zwjK8Sg) | [Nyekso Batin](https://open.spotify.com/album/4hwokUDyl4OCYVXIFVja2m) | 3:43 |
-| 79 | [Tresno Tekan Mati \- New Version](https://open.spotify.com/track/6dpx06KUkby9EfiUTLkiXd) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Tresno Tekan Mati \(New Version\)](https://open.spotify.com/album/5a2TytayKwqFURNG7ArVlw) | 4:31 |
+| 79 | [Tresno Tekan Mati \- New Version](https://open.spotify.com/track/6dpx06KUkby9EfiUTLkiXd) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Tresno Tekan Mati \- New Version](https://open.spotify.com/album/5a2TytayKwqFURNG7ArVlw) | 4:31 |
 | 80 | [SAMAR](https://open.spotify.com/track/7kInuBn9J1a0tXn4hbGJRZ) | [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh) | [SAMAR](https://open.spotify.com/album/3VWHaPhQyKU90o1YGS65Nk) | 4:24 |
 | 81 | [KISINAN 2](https://open.spotify.com/track/69xt31HhLvo0foFpM6iaaJ) | [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh) | [KISINAN 2](https://open.spotify.com/album/7szIetP8Jut39uiHTmbmM2) | 3:52 |
 | 82 | [Gampil](https://open.spotify.com/track/7yCRYkJJfyRrOswvni0P6U) | [NGATMOMBILUNG](https://open.spotify.com/artist/2QTbC45lx9ANi4Cm2hx09c) | [Gampil](https://open.spotify.com/album/2wftoe7LLLRQbWhC5PnkOp) | 4:35 |

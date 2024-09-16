@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > Emerging sounds in worship from everywhere\. Cover: <a href="spotify:artist:3yAv8udgy9z6yF6rREcgfB">Rock City Worship</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,707 likes - 70 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,724 likes - 70 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 69 | [Syllables \- Live](https://open.spotify.com/track/38Jt3FJBNN0azNIBiOsi4q) | [P&W](https://open.spotify.com/artist/6s0mYfHQjI3oWTWL5aChcU), [Tiff Willmott](https://open.spotify.com/artist/5wIQoZsxW6jA9LXiyIz23h), [Theunis Pretorius](https://open.spotify.com/artist/2Bcj0qZNJ7mf6ARhOCS3sZ) | [Live At Tehillah '23](https://open.spotify.com/album/79xzTpMx8DXgqTurPjOiLS) | 5:22 |
 | 70 | [Rest Of My Life](https://open.spotify.com/track/25lWrqB1D0SUrPSBjO3gNr) | [CCV Music](https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e) | [Rest Of My Life](https://open.spotify.com/album/2QATjCczaMUZPIUfk4oMb9) | 5:14 |
 
-Snapshot ID: `ZnirOgAAAAB2cGfcGHtBQuwMlblVuXEP`
+Snapshot ID: `ZnirOgAAAAD7VvL7nvZZ7QuJqBl5OLvG`

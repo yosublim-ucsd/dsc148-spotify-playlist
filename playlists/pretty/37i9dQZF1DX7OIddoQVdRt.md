@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 
 > Celebrate Gospel Heritage Month with weekly takeovers by Gospel legends!  This week's guest curator: <a href="spotify:artist:47opbYEKDjXnRk9uLscp11">Yolanda Adams</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 625,485 likes - 85 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 625,540 likes - 85 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

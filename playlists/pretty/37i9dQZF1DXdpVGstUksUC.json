@@ -1,6 +1,6 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 542102,
+  "num_followers": 542101,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Songs For The Deaf",
+        "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 278706,
+      "name": "No One Knows",
+      "url": "https://open.spotify.com/track/6NvRxjfYkkT2SpirAlmsjH"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Master of Reality (2014 Remaster)",
         "url": "https://open.spotify.com/album/7pGb2cOGVz6vLyaZaKOQ7D"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 310376,
       "name": "No One Loves Me and Neither Do I",
       "url": "https://open.spotify.com/track/4Mxef2s34ecbB6UtSdSf9E"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Songs For The Deaf",
-        "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 278706,
-      "name": "No One Knows",
-      "url": "https://open.spotify.com/track/6NvRxjfYkkT2SpirAlmsjH"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Rated R - Deluxe Edition",
-        "url": "https://open.spotify.com/album/10UBEkRjqtl0iT2BRAwcto"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 216013,
-      "name": "The Lost Art Of Keeping A Secret",
-      "url": "https://open.spotify.com/track/6FlAJtf8aSZOpEj9ITSfYh"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Deliverance",
         "url": "https://open.spotify.com/album/6zdNTQ1uS2ZzFZkExMqcAh"
       },
@@ -283,18 +267,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Welcome to Sky Valley",
-        "url": "https://open.spotify.com/album/2NU3mpjBFtZPUYjjT9pJoq"
+        "name": "Rated R - Deluxe Edition",
+        "url": "https://open.spotify.com/album/10UBEkRjqtl0iT2BRAwcto"
       },
       "artists": [
         {
-          "name": "Kyuss",
-          "url": "https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs"
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
         }
       ],
-      "duration_ms": 311906,
-      "name": "Demon Cleaner",
-      "url": "https://open.spotify.com/track/3HzOTfm6FVu4qXRDDdT3t0"
+      "duration_ms": 216013,
+      "name": "The Lost Art Of Keeping A Secret",
+      "url": "https://open.spotify.com/track/6FlAJtf8aSZOpEj9ITSfYh"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -311,6 +295,22 @@
       "duration_ms": 343306,
       "name": "Wires",
       "url": "https://open.spotify.com/track/4yl1IpHPuXUV2MjxXy6hZn"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Welcome to Sky Valley",
+        "url": "https://open.spotify.com/album/2NU3mpjBFtZPUYjjT9pJoq"
+      },
+      "artists": [
+        {
+          "name": "Kyuss",
+          "url": "https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs"
+        }
+      ],
+      "duration_ms": 311906,
+      "name": "Demon Cleaner",
+      "url": "https://open.spotify.com/track/3HzOTfm6FVu4qXRDDdT3t0"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Songs For The Deaf",
-        "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 352440,
-      "name": "Song For The Dead",
-      "url": "https://open.spotify.com/track/66UbHESsyfaXdoxlqVBa1T"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/3xcnM2zA3T1M50sJMxHKN2"
       },
@@ -375,22 +359,6 @@
       "duration_ms": 158013,
       "name": "The Fox",
       "url": "https://open.spotify.com/track/4Ej7SloeEgarsCcsxK8VRL"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "The Action Is Go",
-        "url": "https://open.spotify.com/album/7xYJinzZ19pVPVmEAakYv9"
-      },
-      "artists": [
-        {
-          "name": "Fu Manchu",
-          "url": "https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k"
-        }
-      ],
-      "duration_ms": 210866,
-      "name": "Evil Eye",
-      "url": "https://open.spotify.com/track/5UaB0lA47nZRJRrUk3AlEI"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -411,6 +379,38 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Songs For The Deaf",
+        "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 352440,
+      "name": "Song For The Dead",
+      "url": "https://open.spotify.com/track/66UbHESsyfaXdoxlqVBa1T"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "The Action Is Go",
+        "url": "https://open.spotify.com/album/7xYJinzZ19pVPVmEAakYv9"
+      },
+      "artists": [
+        {
+          "name": "Fu Manchu",
+          "url": "https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k"
+        }
+      ],
+      "duration_ms": 210866,
+      "name": "Evil Eye",
+      "url": "https://open.spotify.com/track/5UaB0lA47nZRJRrUk3AlEI"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Sunrise On The Sufferbus",
         "url": "https://open.spotify.com/album/1nIhPr8znyzNDDtUC76fO5"
       },
@@ -423,22 +423,6 @@
       "duration_ms": 213333,
       "name": "Rabbit One",
       "url": "https://open.spotify.com/track/3e2e4OstlQP6Gllt8VsMpA"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Songs For The Deaf",
-        "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 364924,
-      "name": "God Is In The Radio",
-      "url": "https://open.spotify.com/track/1dVWz4VM5QkgzHLjFEKM4u"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -503,6 +487,22 @@
       "duration_ms": 274400,
       "name": "Freya",
       "url": "https://open.spotify.com/track/4FWC84DQU9Y07aPdiBwTy3"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Songs For The Deaf",
+        "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 364924,
+      "name": "God Is In The Radio",
+      "url": "https://open.spotify.com/track/1dVWz4VM5QkgzHLjFEKM4u"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "A Drug Problem That Never Existed",
-        "url": "https://open.spotify.com/album/4WrxSGxM0V4ZnxPTQzmtJo"
-      },
-      "artists": [
-        {
-          "name": "Mondo Generator",
-          "url": "https://open.spotify.com/artist/5Ug0EkTXplXiip0C2OzVi7"
-        }
-      ],
-      "duration_ms": 155066,
-      "name": "So High, So Low",
-      "url": "https://open.spotify.com/track/0AxthAxmqrWe4OYd3KR0zq"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Rainbows Are Free",
         "url": "https://open.spotify.com/album/6mlZrNW9M8DNCEctuwdTJn"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 251253,
       "name": "Are You Dead",
       "url": "https://open.spotify.com/track/1P3gkOdyjK5ucr4N1ggLnq"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "A Drug Problem That Never Existed",
+        "url": "https://open.spotify.com/album/4WrxSGxM0V4ZnxPTQzmtJo"
+      },
+      "artists": [
+        {
+          "name": "Mondo Generator",
+          "url": "https://open.spotify.com/artist/5Ug0EkTXplXiip0C2OzVi7"
+        }
+      ],
+      "duration_ms": 155066,
+      "name": "So High, So Low",
+      "url": "https://open.spotify.com/track/0AxthAxmqrWe4OYd3KR0zq"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/3fLLE6oA9YHm1NsZwrKvpF"
-      },
-      "artists": [
-        {
-          "name": "All The Saints",
-          "url": "https://open.spotify.com/artist/1PZosGVPUJsUutzmjdWwSZ"
-        }
-      ],
-      "duration_ms": 311546,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/07BVvXzxEW7rVevyzMGoRY"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "In Search Of",
         "url": "https://open.spotify.com/album/0deN3iVx64asyGoRt3CdLL"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 306973,
       "name": "Neptune's Convoy",
       "url": "https://open.spotify.com/track/7xHGadsZ5bDQGejhO20dAc"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/3fLLE6oA9YHm1NsZwrKvpF"
+      },
+      "artists": [
+        {
+          "name": "All The Saints",
+          "url": "https://open.spotify.com/artist/1PZosGVPUJsUutzmjdWwSZ"
+        }
+      ],
+      "duration_ms": 311546,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/07BVvXzxEW7rVevyzMGoRY"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Tumuli Schroomaroom",
-        "url": "https://open.spotify.com/album/12XvsurHh60DXJCz2heaLz"
-      },
-      "artists": [
-        {
-          "name": "Acrimony",
-          "url": "https://open.spotify.com/artist/2pxnGBHxpXFIujVn8oRg37"
-        }
-      ],
-      "duration_ms": 599683,
-      "name": "Heavy Feather",
-      "url": "https://open.spotify.com/track/2xNNlMrmDEYzrr09jTzjOb"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Saved by Magic",
         "url": "https://open.spotify.com/album/1ZMIcvk2Mxow7HI9VUKBWD"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 334720,
       "name": "Kiss Away",
       "url": "https://open.spotify.com/track/35OoYjqJdg27FpA2zD9IYQ"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Tumuli Schroomaroom",
+        "url": "https://open.spotify.com/album/12XvsurHh60DXJCz2heaLz"
+      },
+      "artists": [
+        {
+          "name": "Acrimony",
+          "url": "https://open.spotify.com/artist/2pxnGBHxpXFIujVn8oRg37"
+        }
+      ],
+      "duration_ms": 599683,
+      "name": "Heavy Feather",
+      "url": "https://open.spotify.com/track/2xNNlMrmDEYzrr09jTzjOb"
     },
     {
       "added_at": "2024-07-19 04:00:00",

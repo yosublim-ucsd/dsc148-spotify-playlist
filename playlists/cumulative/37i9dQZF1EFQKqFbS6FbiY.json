@@ -3947,6 +3947,24 @@
     },
     {
       "album": {
+        "name": "O Repert\u00f3rio Que Voc\u00ea Confia!",
+        "url": "https://open.spotify.com/album/3F1W8aNkBgOVkjHZFiDwUr"
+      },
+      "artists": [
+        {
+          "name": "Allanzinho",
+          "url": "https://open.spotify.com/artist/73qBqoOL5FnxUSdtTl5JQ0"
+        }
+      ],
+      "date_added": "2024-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142222,
+      "name": "Enquanto Ele Dorme",
+      "url": "https://open.spotify.com/track/68wAihrDvEPukfpO02f1jp"
+    },
+    {
+      "album": {
         "name": "Ent\u00e3o Vou Avisar (Ao Vivo)",
         "url": "https://open.spotify.com/album/25PqAhRcrAv3CeG5F2Mwqg"
       },

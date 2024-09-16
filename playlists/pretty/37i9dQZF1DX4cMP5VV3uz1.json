@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 158285,
+  "num_followers": 158305,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -515,6 +515,30 @@
     {
       "added_at": "2024-09-12 23:00:00",
       "album": {
+        "name": "Ram Pam (feat. Mystic Marley & Flowdan)",
+        "url": "https://open.spotify.com/album/5gKmNjiXT4IFO5ZLYXJB75"
+      },
+      "artists": [
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        },
+        {
+          "name": "Mystic Marley",
+          "url": "https://open.spotify.com/artist/5WhXMSMSiOyEhXBNI6Lf2h"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        }
+      ],
+      "duration_ms": 171372,
+      "name": "Ram Pam (feat. Mystic Marley & Flowdan)",
+      "url": "https://open.spotify.com/track/4CBFPivDAGGSXFih8RyaVE"
+    },
+    {
+      "added_at": "2024-09-12 23:00:00",
+      "album": {
         "name": "Run (Part 1)",
         "url": "https://open.spotify.com/album/1NqOxMj2QqMhgne014NwQs"
       },
@@ -655,58 +679,6 @@
     {
       "added_at": "2024-09-12 23:00:00",
       "album": {
-        "name": "Jungle Diva",
-        "url": "https://open.spotify.com/album/0hYssqIhcO38ksOscEwsoK"
-      },
-      "artists": [
-        {
-          "name": "Lens",
-          "url": "https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz"
-        },
-        {
-          "name": "Sarah Ikumu",
-          "url": "https://open.spotify.com/artist/6nDkhVNHd7xpZGilqARZoS"
-        },
-        {
-          "name": "Pola & Bryson",
-          "url": "https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr"
-        },
-        {
-          "name": "goddard.",
-          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
-        }
-      ],
-      "duration_ms": 189176,
-      "name": "Jungle Diva",
-      "url": "https://open.spotify.com/track/3SOYIrIqTRHBb6BZweU4AS"
-    },
-    {
-      "added_at": "2024-09-12 23:00:00",
-      "album": {
-        "name": "Ram Pam (feat. Mystic Marley & Flowdan)",
-        "url": "https://open.spotify.com/album/5gKmNjiXT4IFO5ZLYXJB75"
-      },
-      "artists": [
-        {
-          "name": "Rudimental",
-          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
-        },
-        {
-          "name": "Mystic Marley",
-          "url": "https://open.spotify.com/artist/5WhXMSMSiOyEhXBNI6Lf2h"
-        },
-        {
-          "name": "Flowdan",
-          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
-        }
-      ],
-      "duration_ms": 171372,
-      "name": "Ram Pam (feat. Mystic Marley & Flowdan)",
-      "url": "https://open.spotify.com/track/4CBFPivDAGGSXFih8RyaVE"
-    },
-    {
-      "added_at": "2024-09-12 23:00:00",
-      "album": {
         "name": "Armed & Dangerous",
         "url": "https://open.spotify.com/album/5DmUFrxehvHSJbs2owHONM"
       },
@@ -807,6 +779,34 @@
     {
       "added_at": "2024-09-12 23:00:00",
       "album": {
+        "name": "Jungle Diva",
+        "url": "https://open.spotify.com/album/0hYssqIhcO38ksOscEwsoK"
+      },
+      "artists": [
+        {
+          "name": "Lens",
+          "url": "https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz"
+        },
+        {
+          "name": "Sarah Ikumu",
+          "url": "https://open.spotify.com/artist/6nDkhVNHd7xpZGilqARZoS"
+        },
+        {
+          "name": "Pola & Bryson",
+          "url": "https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr"
+        },
+        {
+          "name": "goddard.",
+          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
+        }
+      ],
+      "duration_ms": 189176,
+      "name": "Jungle Diva",
+      "url": "https://open.spotify.com/track/3SOYIrIqTRHBb6BZweU4AS"
+    },
+    {
+      "added_at": "2024-09-12 23:00:00",
+      "album": {
         "name": "I Miss The Old Macky",
         "url": "https://open.spotify.com/album/1dWGmCM3soNePkWxM0Saca"
       },
@@ -819,26 +819,6 @@
       "duration_ms": 155056,
       "name": "I Miss The Old Macky",
       "url": "https://open.spotify.com/track/3QwJmwvUKOnlmoeHDn8MVN"
-    },
-    {
-      "added_at": "2024-09-12 23:00:00",
-      "album": {
-        "name": "Inner Untitled EP",
-        "url": "https://open.spotify.com/album/3f6enOUoRVqTgPf0sc0rzc"
-      },
-      "artists": [
-        {
-          "name": "CLIPZ",
-          "url": "https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE"
-        },
-        {
-          "name": "Chy Cartier",
-          "url": "https://open.spotify.com/artist/4qxFzMJxrNzlv11J7pCY5q"
-        }
-      ],
-      "duration_ms": 125138,
-      "name": "New",
-      "url": "https://open.spotify.com/track/1EkCgHdly9oEWpTHkLBkNf"
     },
     {
       "added_at": "2024-09-12 23:00:00",
@@ -859,6 +839,26 @@
       "duration_ms": 253371,
       "name": "SECRETS",
       "url": "https://open.spotify.com/track/2MHfZtevUlcxFLbyhtT4Q3"
+    },
+    {
+      "added_at": "2024-09-12 23:00:00",
+      "album": {
+        "name": "Inner Untitled EP",
+        "url": "https://open.spotify.com/album/3f6enOUoRVqTgPf0sc0rzc"
+      },
+      "artists": [
+        {
+          "name": "CLIPZ",
+          "url": "https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE"
+        },
+        {
+          "name": "Chy Cartier",
+          "url": "https://open.spotify.com/artist/4qxFzMJxrNzlv11J7pCY5q"
+        }
+      ],
+      "duration_ms": 125138,
+      "name": "New",
+      "url": "https://open.spotify.com/track/1EkCgHdly9oEWpTHkLBkNf"
     },
     {
       "added_at": "2024-09-12 23:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-09-12 23:00:00",
       "album": {
-        "name": "Hazmat / Deserted",
-        "url": "https://open.spotify.com/album/6RodXXydXIJ7ExfVqmhsB6"
-      },
-      "artists": [
-        {
-          "name": "Basstripper",
-          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
-        }
-      ],
-      "duration_ms": 201517,
-      "name": "Deserted",
-      "url": "https://open.spotify.com/track/6ztA5JezwcOt3SkGYqAE96"
-    },
-    {
-      "added_at": "2024-09-12 23:00:00",
-      "album": {
         "name": "Destiny Part II",
         "url": "https://open.spotify.com/album/42KPhKTX0egGiml5nk0AJU"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 226285,
       "name": "Destiny Part II",
       "url": "https://open.spotify.com/track/4WPl1vqx0GIEKY62i517Xh"
+    },
+    {
+      "added_at": "2024-09-12 23:00:00",
+      "album": {
+        "name": "Hazmat / Deserted",
+        "url": "https://open.spotify.com/album/6RodXXydXIJ7ExfVqmhsB6"
+      },
+      "artists": [
+        {
+          "name": "Basstripper",
+          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
+        }
+      ],
+      "duration_ms": 201517,
+      "name": "Deserted",
+      "url": "https://open.spotify.com/track/6ztA5JezwcOt3SkGYqAE96"
     },
     {
       "added_at": "2024-09-12 23:00:00",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2024-09-12 23:00:00",
       "album": {
+        "name": "Bounce EP",
+        "url": "https://open.spotify.com/album/3is6qL8SHCRDJJXVOjXSev"
+      },
+      "artists": [
+        {
+          "name": "Sub Zero",
+          "url": "https://open.spotify.com/artist/3kMQ0Gx56mVysMT3fqyneR"
+        }
+      ],
+      "duration_ms": 181028,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/1xzO3WnBokjD2FksxDoTao"
+    },
+    {
+      "added_at": "2024-09-12 23:00:00",
+      "album": {
         "name": "So Different",
         "url": "https://open.spotify.com/album/36Qxy0uYkoTu5sVWvIzoVZ"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 180000,
       "name": "So Different",
       "url": "https://open.spotify.com/track/7ncQlEWDcux4xhuoGzY2Lc"
-    },
-    {
-      "added_at": "2024-09-12 23:00:00",
-      "album": {
-        "name": "Bounce EP",
-        "url": "https://open.spotify.com/album/3is6qL8SHCRDJJXVOjXSev"
-      },
-      "artists": [
-        {
-          "name": "Sub Zero",
-          "url": "https://open.spotify.com/artist/3kMQ0Gx56mVysMT3fqyneR"
-        }
-      ],
-      "duration_ms": 181028,
-      "name": "Bounce",
-      "url": "https://open.spotify.com/track/1xzO3WnBokjD2FksxDoTao"
     },
     {
       "added_at": "2024-09-12 23:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-09-12 23:00:00",
       "album": {
-        "name": "Cuppa Tea",
-        "url": "https://open.spotify.com/album/7iD9PHXnNZ6QBug89ipPqU"
-      },
-      "artists": [
-        {
-          "name": "EV",
-          "url": "https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX"
-        }
-      ],
-      "duration_ms": 206170,
-      "name": "Cuppa Tea",
-      "url": "https://open.spotify.com/track/5gXeX0bl0ohXbzYweimbrJ"
-    },
-    {
-      "added_at": "2024-09-12 23:00:00",
-      "album": {
         "name": "Bass & Treble",
         "url": "https://open.spotify.com/album/3RM2olXS37uK142eIS5DgH"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 228024,
       "name": "Bass & Treble",
       "url": "https://open.spotify.com/track/7MJqSAiwXwqHNlS46ESZP0"
+    },
+    {
+      "added_at": "2024-09-12 23:00:00",
+      "album": {
+        "name": "Cuppa Tea",
+        "url": "https://open.spotify.com/album/7iD9PHXnNZ6QBug89ipPqU"
+      },
+      "artists": [
+        {
+          "name": "EV",
+          "url": "https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX"
+        }
+      ],
+      "duration_ms": 206170,
+      "name": "Cuppa Tea",
+      "url": "https://open.spotify.com/track/5gXeX0bl0ohXbzYweimbrJ"
     },
     {
       "added_at": "2024-09-12 23:00:00",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2024-09-12 23:00:00",
       "album": {
+        "name": "Home In That Bass",
+        "url": "https://open.spotify.com/album/6n9bf2en9wnB2R0N15hFGT"
+      },
+      "artists": [
+        {
+          "name": "Andy C",
+          "url": "https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N"
+        }
+      ],
+      "duration_ms": 189310,
+      "name": "Home In That Bass",
+      "url": "https://open.spotify.com/track/2WtlAPdL3vRvGijgwaAP4z"
+    },
+    {
+      "added_at": "2024-09-12 23:00:00",
+      "album": {
         "name": "Don't Let Me Go",
         "url": "https://open.spotify.com/album/4whr45Olu7a2aO7GLEVWWP"
       },
@@ -1475,6 +1491,42 @@
       "duration_ms": 185142,
       "name": "Don't Let Me Go",
       "url": "https://open.spotify.com/track/3UGNkp6UluxzrztoMu9q1C"
+    },
+    {
+      "added_at": "2024-09-12 23:00:00",
+      "album": {
+        "name": "Sprinta (Bad Bad)",
+        "url": "https://open.spotify.com/album/7l0SqJre5CRZcGLcMztXrV"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs",
+          "url": "https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k"
+        },
+        {
+          "name": "KIPPO",
+          "url": "https://open.spotify.com/artist/4Bf3pfU2A6dHgR1eZwlE6N"
+        }
+      ],
+      "duration_ms": 199090,
+      "name": "Sprinta (Bad Bad)",
+      "url": "https://open.spotify.com/track/3KJD2bb7mnH0fnLDGSJ2dn"
+    },
+    {
+      "added_at": "2024-09-12 23:00:00",
+      "album": {
+        "name": "Spillage",
+        "url": "https://open.spotify.com/album/1ZRyG1HPCcnAc74eVUvvcz"
+      },
+      "artists": [
+        {
+          "name": "Dusky",
+          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
+        }
+      ],
+      "duration_ms": 201204,
+      "name": "Spillage",
+      "url": "https://open.spotify.com/track/5DOkN9MW96CUYQcF8clpCb"
     },
     {
       "added_at": "2024-09-12 23:00:00",
@@ -1507,26 +1559,6 @@
     {
       "added_at": "2024-09-12 23:00:00",
       "album": {
-        "name": "Sprinta (Bad Bad)",
-        "url": "https://open.spotify.com/album/7l0SqJre5CRZcGLcMztXrV"
-      },
-      "artists": [
-        {
-          "name": "Ana\u00efs",
-          "url": "https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k"
-        },
-        {
-          "name": "KIPPO",
-          "url": "https://open.spotify.com/artist/4Bf3pfU2A6dHgR1eZwlE6N"
-        }
-      ],
-      "duration_ms": 199090,
-      "name": "Sprinta (Bad Bad)",
-      "url": "https://open.spotify.com/track/3KJD2bb7mnH0fnLDGSJ2dn"
-    },
-    {
-      "added_at": "2024-09-12 23:00:00",
-      "album": {
         "name": "Serum's Gaff: Part 1",
         "url": "https://open.spotify.com/album/5hIYAOozeN1r6D52OwbQIi"
       },
@@ -1555,42 +1587,6 @@
       "duration_ms": 154482,
       "name": "UFO",
       "url": "https://open.spotify.com/track/1ulJc36cqWyrHbGp2WWEb0"
-    },
-    {
-      "added_at": "2024-09-12 23:00:00",
-      "album": {
-        "name": "BARRIN' ALOT (FREESTYLE)",
-        "url": "https://open.spotify.com/album/4gPTGKiUx3XkSb8kVzCGEi"
-      },
-      "artists": [
-        {
-          "name": "LZee",
-          "url": "https://open.spotify.com/artist/3HnjTikMlwQmZt88pd5ONe"
-        }
-      ],
-      "duration_ms": 125000,
-      "name": "BARRIN' ALOT (FREESTYLE)",
-      "url": "https://open.spotify.com/track/7HpTKnBG6kCKYxjjyTmolW"
-    },
-    {
-      "added_at": "2024-09-12 23:00:00",
-      "album": {
-        "name": "POW",
-        "url": "https://open.spotify.com/album/1y2JrNJFsvZmSoE3BjrjYZ"
-      },
-      "artists": [
-        {
-          "name": "AC13",
-          "url": "https://open.spotify.com/artist/2JckSanHaR24IYLgQv60zn"
-        },
-        {
-          "name": "Eksman",
-          "url": "https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7"
-        }
-      ],
-      "duration_ms": 274650,
-      "name": "POW",
-      "url": "https://open.spotify.com/track/3u7Iti3x8N4fKWUy0xgGOn"
     }
   ],
   "unique_name": "Proper Naughty ",

@@ -925,6 +925,24 @@
     },
     {
       "album": {
+        "name": "Actress",
+        "url": "https://open.spotify.com/album/2fE2LB3306jWzjQXSHzio5"
+      },
+      "artists": [
+        {
+          "name": "CATTY",
+          "url": "https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194754,
+      "name": "Actress",
+      "url": "https://open.spotify.com/track/4xW5io4CLYdYaGKenBYmvA"
+    },
+    {
+      "album": {
         "name": "After School Sad Session",
         "url": "https://open.spotify.com/album/547GIcLRF21KNd9SnoBWfQ"
       },
@@ -1190,7 +1208,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-16",
       "duration_ms": 179031,
       "name": "All About Me",
       "url": "https://open.spotify.com/track/59HfHJcz1z8TMrZz6kjH9Y"
@@ -19019,6 +19037,24 @@
     },
     {
       "album": {
+        "name": "Paciencia (Arial 6)",
+        "url": "https://open.spotify.com/album/3eC8nTX0FPZ7T9Teo7InZ6"
+      },
+      "artists": [
+        {
+          "name": "Susana Cala",
+          "url": "https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190463,
+      "name": "Paciencia (Arial 6)",
+      "url": "https://open.spotify.com/track/5bCVgSGP4VKDyyY5xUFHpZ"
+    },
+    {
+      "album": {
         "name": "Padaba Taka",
         "url": "https://open.spotify.com/album/0Vl0nkEU0moIeAlY3gbYjZ"
       },
@@ -23614,7 +23650,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-16",
       "duration_ms": 120078,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/3wdbGER9TIbNeCXfOD2CTr"
@@ -23824,6 +23860,24 @@
       "duration_ms": 254253,
       "name": "Tak Cukup Baik",
       "url": "https://open.spotify.com/track/06EYeJkCXMKd1i0BqN032n"
+    },
+    {
+      "album": {
+        "name": "Tak Pernah Sendiri",
+        "url": "https://open.spotify.com/album/7j9qy88hw4ZKfQVJFwy0RX"
+      },
+      "artists": [
+        {
+          "name": "Abeliano",
+          "url": "https://open.spotify.com/artist/5MVMpQxOa7Ax5ps1J6E2uE"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241309,
+      "name": "Tak Pernah Sendiri",
+      "url": "https://open.spotify.com/track/0fL3GBgfFcfQ18iyJmTX1o"
     },
     {
       "album": {
@@ -25076,7 +25130,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-16",
       "duration_ms": 252000,
       "name": "Too Soon",
       "url": "https://open.spotify.com/track/0WdQjRX7X6amz0BHRcD887"

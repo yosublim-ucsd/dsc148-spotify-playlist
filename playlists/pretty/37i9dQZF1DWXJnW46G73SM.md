@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف: مسلم
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,654 likes - 69 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,666 likes - 69 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 6 | [Borg El Rawaan Men Bernameg Beit El Saad](https://open.spotify.com/track/60kHAN6bjR7Yu1ynZPihGh) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Abla Fahita](https://open.spotify.com/artist/7nCehRAPvDbhCASqWuJj04) | [Borg El Rawaan Men Bernameg Beit El Saad](https://open.spotify.com/album/2Qq9bZQw3y7IoFS61Ho9Jr) | 2:30 |
 | 7 | [سايب ايدي](https://open.spotify.com/track/3mI1S82KlAxGcFZtsIgnOZ) | [Wezza Montaser](https://open.spotify.com/artist/7nMcSzdtvLtrKIXIuLnxmj) | [سايب ايدي](https://open.spotify.com/album/6DauqNjVYzPTpEgcR171us) | 2:14 |
 | 8 | [Hena Hena](https://open.spotify.com/track/1ld76Cgeeyf9onz2AdmhTJ) | [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [Hena Hena](https://open.spotify.com/album/6CjxysxsDyVNHP9v3WesPq) | 3:21 |
-| 9 | [Fein El Nas](https://open.spotify.com/track/1QA4kDMy4HsqglcqBfVMdP) | [SeLTa](https://open.spotify.com/artist/3bguvSKT0vGUlQ07zEyxfP), [Yasso\_ng](https://open.spotify.com/artist/3bVaTlKAPkd5KVDLxncl9X) | [Fein El Nas](https://open.spotify.com/album/6UuVUrX69oM2rD2xLWwSN1) | 3:32 |
+| 9 | [فين الناس](https://open.spotify.com/track/1QA4kDMy4HsqglcqBfVMdP) | [SeLTa](https://open.spotify.com/artist/3bguvSKT0vGUlQ07zEyxfP), [Yasso\_ng](https://open.spotify.com/artist/3bVaTlKAPkd5KVDLxncl9X) | [فين الناس](https://open.spotify.com/album/6UuVUrX69oM2rD2xLWwSN1) | 3:32 |
 | 10 | [اورنچ فري ماكس عيش كله فري \- روبي](https://open.spotify.com/track/3S8O0CO5D6XXzFgiNWTHTW) | [Orange](https://open.spotify.com/artist/2xlHEDzOINtGVm6XQ9pn3W), [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [اورنچ فري ماكس عيش كله فري \- روبي](https://open.spotify.com/album/0F0jClmLdwOpedhnnxfWiB) | 1:24 |
 | 11 | [Rozma](https://open.spotify.com/track/6Xwcz7MnRx2ULy94FEaPXK) | [Kozbara](https://open.spotify.com/artist/0EKrH3Q5caLq96nRdcYBkG), [Nourine](https://open.spotify.com/artist/4iArKSuVFF3i9FfnDBPM3K) | [Rozma](https://open.spotify.com/album/5zbqTtpHlYIahxnvZFqJAf) | 2:48 |
 | 12 | [NAPOLEON](https://open.spotify.com/track/7dPnp1JqAbnKhmg03Ag5xh) | [Mosalem](https://open.spotify.com/artist/0GAz4YKcVJUZHWQxvQit51), [Bashmohannad](https://open.spotify.com/artist/4GLe8RzslZ4xgt3Jl2Tz1m) | [NAPOLEON](https://open.spotify.com/album/7HZOcFd6Q59bZhuC0qUefw) | 3:07 |

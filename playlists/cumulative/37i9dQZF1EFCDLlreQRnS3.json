@@ -923,6 +923,24 @@
     },
     {
       "album": {
+        "name": "HALO",
+        "url": "https://open.spotify.com/album/64qanlJYo3CsSuzReUMA5n"
+      },
+      "artists": [
+        {
+          "name": "Rea Garvey",
+          "url": "https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv"
+        }
+      ],
+      "date_added": "2024-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130679,
+      "name": "I Give Up I Love You",
+      "url": "https://open.spotify.com/track/78iPQpg1w2gtjgV4CYdknl"
+    },
+    {
+      "album": {
         "name": "I Like You",
         "url": "https://open.spotify.com/album/2iKM8ya2CYQPkVefK8ywvV"
       },

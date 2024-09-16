@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Thais Macedo, Amanda Amado, Mannda Lym
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,231 likes - 75 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,683 likes - 75 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 6 | [Pra Mim Não É / Se Eu Te Pego Te Envergo / Instigante \- Ao Vivo](https://open.spotify.com/track/7splE3IVt1JihMGOsSwC5j) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Sorriso Maroto As Antigas \- Parte 2 \- Ao Vivo](https://open.spotify.com/album/5eDeOFbZmtMfYbmrhMEwPE) | 7:06 |
 | 7 | [Fala / Fulminante / Dependente \- Ao Vivo](https://open.spotify.com/track/1kObPUwSBsXcl71B0FMJk2) | [Suel](https://open.spotify.com/artist/4hpKB93agzoncsTXEstSpK) | [Remédio Amargo / Fala / Fulminante / Dependente \- DVD Fases \(Ao Vivo\)](https://open.spotify.com/album/1pgXQ1v9dFzYC4nNaWDNsO) | 5:36 |
 | 8 | [Vendaval / Um Sonho Bom / Direito de Te Amar](https://open.spotify.com/track/4aORqV0kOgsvEy4yP3QGTR) | [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz), [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki) | [Vendaval / Um Sonho Bom / Direito de Te Amar](https://open.spotify.com/album/1L2fa12dnia7mUH31DRLWm) | 4:51 |
-| 9 | [Vendaval \| Diz Pra Mim \| Cuidado, Cupido \| Homem\-Aranha \| Paciência](https://open.spotify.com/track/3y7KBZag9XjlUWlzcrXOa8) | [Yan](https://open.spotify.com/artist/7nVA7u9N6fIcxxTXJDl4hq), [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz) | [Pagodyando de Verão \- Ao Vivo](https://open.spotify.com/album/1RKj94vsJ1KDkMVRaHjWvh) | 9:22 |
+| 9 | [Vendaval \| Diz Pra Mim \| Cuidado, Cupido \| Homem\-Aranha \| Paciência \- Ao Vivo](https://open.spotify.com/track/3y7KBZag9XjlUWlzcrXOa8) | [Yan](https://open.spotify.com/artist/7nVA7u9N6fIcxxTXJDl4hq), [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz) | [Pagodyando de Verão \- Ao Vivo](https://open.spotify.com/album/1RKj94vsJ1KDkMVRaHjWvh) | 9:22 |
 | 10 | [Ponto Fraco / Dividido / Sonhos e Planos \- Sou Eu \- Ao Vivo](https://open.spotify.com/track/1LvI5DyAya6gbgMKH3Ez3M) | [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7) | [Encontrin 2 \- Parte 2 \(Ao Vivo\)](https://open.spotify.com/album/7gleHQ8dWibosCKaBWYIJ3) | 5:01 |
 | 11 | [Amanhã / Loucura do Seu Coração \- Ao Vivo](https://open.spotify.com/track/6ONv978PnRhrb1qIeOi9iW) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi), [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7) | [Sorriso Eu Gosto No Pagode \- Parte 2 \(Ao Vivo\)](https://open.spotify.com/album/2xcArGM32SN0HS6owAdKqg) | 6:13 |
 | 12 | [Nosso Lance / No Meu Olhar / Uma Estrela \- Ao Vivo](https://open.spotify.com/track/3w9ZpncSzPhqcW3xq7e1ST) | [Samba da Ladeira](https://open.spotify.com/artist/0IB2uaFC6Xm2I9VSaUlesk) | [Samba da Ladeira \(Ao Vivo\)](https://open.spotify.com/album/3kXFjarRTF0HDevJfahQgP) | 5:39 |

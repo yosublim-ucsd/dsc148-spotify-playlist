@@ -4,7 +4,7 @@
 
 > Questionable in both morals and taste.
 
-96 songs - 5 hr 23 min
+97 songs - 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Stop Being Poor](https://open.spotify.com/track/2n0OJhTkQBLw3mJyUbXI7D) | [ziwe](https://open.spotify.com/artist/4MPEpqfNghhc9u2QZhveib), [Patti Harrison](https://open.spotify.com/artist/3BNcOjxzqOP2N71Ygdw0Bk) | [Ziwe: a Famously Iconic Soundtrack \- EP](https://open.spotify.com/album/1gBsz23p2pNQJYyudz3cmm) | 2:14 | 2023-07-23 |  |
 | [Synopsis for Latecomers](https://open.spotify.com/track/6DhYcsWKfeCygCSX8Q7tmL) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [BOOK](https://open.spotify.com/album/5QbnWsYJtws83X3yXSOKkH) | 2:25 | 2023-03-26 |  |
 | [Take 'Em Down \(Take Your Trump Signs Down\)](https://open.spotify.com/track/4BjIajLqiUhAUVnR854RJr) | [Tom McGovern](https://open.spotify.com/artist/7sdTDjtp0SEve3nZk2mfEk) | [Take 'Em Down \(Take Your Trump Signs Down\)](https://open.spotify.com/album/2quKDe4qshXgtiGogCHq5v) | 1:01 | 2022-05-06 | 2023-07-09 |
+| [Take on Me](https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Hunting High and Low](https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf) | 3:45 | 2024-09-15 |  |
 | [Terry's Taxidermy](https://open.spotify.com/track/5JYQEV4kFJoEBFqADbdvSY) | [Teddy Hyde](https://open.spotify.com/artist/62DKpfVgNt372d3Zz6TRc7) | [Splittsville](https://open.spotify.com/album/5YbIovTXkJS00GlBNcdTeS) | 5:41 | 2023-04-01 |  |
 | [The Bidding](https://open.spotify.com/track/0HBrtXJohbIW4IhPZ50GmH) | [Tally Hall](https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL) | [Marvin's Marvelous Mechanical Museum](https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5) | 2:40 | 2022-05-06 |  |
 | [The Communists Have the Music](https://open.spotify.com/track/1FxKw2GFlIinh2m7jjied5) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [The Communists Have the Music](https://open.spotify.com/album/2aZQBVva4VopWmzXj2uoKr) | 2:27 | 2022-05-06 |  |

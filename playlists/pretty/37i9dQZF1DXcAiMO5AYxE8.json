@@ -1,6 +1,6 @@
 {
   "description": "All the best soul disco sounds for getting down.",
-  "num_followers": 514245,
+  "num_followers": 514343,
   "original_name": "Soulful Disco",
   "owner": {
     "name": "Spotify",
@@ -411,22 +411,6 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "My Time: A Boz Scaggs Anthology (1969-1997)",
-        "url": "https://open.spotify.com/album/3urpKmhg4HyYuEmODNdTdo"
-      },
-      "artists": [
-        {
-          "name": "Boz Scaggs",
-          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
-        }
-      ],
-      "duration_ms": 179533,
-      "name": "What Can I Say",
-      "url": "https://open.spotify.com/track/1bDjowPMtoft6kd33wUkof"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
         "name": "The Best of Disco",
         "url": "https://open.spotify.com/album/0Um71BYb1Zl8Oa6vSvn2ox"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 180906,
       "name": "Rock the Boat",
       "url": "https://open.spotify.com/track/2I6Jfs4VsWwpo3SI0yMEVz"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
+        "name": "My Time: A Boz Scaggs Anthology (1969-1997)",
+        "url": "https://open.spotify.com/album/3urpKmhg4HyYuEmODNdTdo"
+      },
+      "artists": [
+        {
+          "name": "Boz Scaggs",
+          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
+        }
+      ],
+      "duration_ms": 179533,
+      "name": "What Can I Say",
+      "url": "https://open.spotify.com/track/1bDjowPMtoft6kd33wUkof"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -459,6 +459,26 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
+        "name": "Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 213853,
+      "name": "The Love I Lost (feat. Teddy Pendergrass) - Single Version",
+      "url": "https://open.spotify.com/track/7AswIMJtp31Y62pgWFoQJI"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
         "name": "The Greatest Hits",
         "url": "https://open.spotify.com/album/1yvcYE6kYQR2OOdEgdkIKz"
       },
@@ -471,22 +491,6 @@
       "duration_ms": 326093,
       "name": "Going Back to My Roots - 12\" Version",
       "url": "https://open.spotify.com/track/1a4JG31yqWFwsFccPIxAYO"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
-        "name": "More Monty",
-        "url": "https://open.spotify.com/album/4p1GnIVsPGw6p7Gpc8W2Hh"
-      },
-      "artists": [
-        {
-          "name": "Vicki Sue Robinson",
-          "url": "https://open.spotify.com/artist/25pwh5JrKHzLv2FTPSvoqa"
-        }
-      ],
-      "duration_ms": 204200,
-      "name": "Turn the Beat Around",
-      "url": "https://open.spotify.com/track/1kR8zUFIRLXpk1v9aC2VcA"
     },
     {
       "added_at": "2021-07-04 17:34:32",
@@ -511,22 +515,18 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)",
-        "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N"
+        "name": "More Monty",
+        "url": "https://open.spotify.com/album/4p1GnIVsPGw6p7Gpc8W2Hh"
       },
       "artists": [
         {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+          "name": "Vicki Sue Robinson",
+          "url": "https://open.spotify.com/artist/25pwh5JrKHzLv2FTPSvoqa"
         }
       ],
-      "duration_ms": 213853,
-      "name": "The Love I Lost (feat. Teddy Pendergrass) - Single Version",
-      "url": "https://open.spotify.com/track/7AswIMJtp31Y62pgWFoQJI"
+      "duration_ms": 204200,
+      "name": "Turn the Beat Around",
+      "url": "https://open.spotify.com/track/1kR8zUFIRLXpk1v9aC2VcA"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -999,22 +999,6 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "Boogie Wonderland: The Best Of Earth, Wind & Fire",
-        "url": "https://open.spotify.com/album/0jk3NWc3eDE2X2i0B3p8lb"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 336293,
-      "name": "Let's Groove",
-      "url": "https://open.spotify.com/track/6ZFMq8W8dyUbTee0GDb08X"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
         "name": "Can You Feel It: The Jacksons Collection",
         "url": "https://open.spotify.com/album/2CvbITS0dlUwUtXoWD4OwS"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 358373,
       "name": "Can You Feel It",
       "url": "https://open.spotify.com/track/7zz6TEDnwmmRaUcRBHZDmq"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
+        "name": "Boogie Wonderland: The Best Of Earth, Wind & Fire",
+        "url": "https://open.spotify.com/album/0jk3NWc3eDE2X2i0B3p8lb"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 336293,
+      "name": "Let's Groove",
+      "url": "https://open.spotify.com/track/6ZFMq8W8dyUbTee0GDb08X"
     }
   ],
   "unique_name": "Soulful Disco",

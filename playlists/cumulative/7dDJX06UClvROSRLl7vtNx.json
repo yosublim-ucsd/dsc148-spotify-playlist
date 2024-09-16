@@ -408,7 +408,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-16",
       "duration_ms": 203571,
       "name": "Altea Y Lanzarote - Thom Merlin Afro House Edit",
       "url": "https://open.spotify.com/track/6sOHdjZhRT45T0L3PqAOSu"
@@ -460,7 +460,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-16",
       "duration_ms": 164026,
       "name": "Angel Face Disaster",
       "url": "https://open.spotify.com/track/4o3KCsVVSDOmyp0tTYyw8S"
@@ -1292,7 +1292,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-16",
       "duration_ms": 155364,
       "name": "Call it Home",
       "url": "https://open.spotify.com/track/3ZHSDjF5THq5xTq13zWf6F"
@@ -3562,7 +3562,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-16",
       "duration_ms": 174555,
       "name": "For Life (feat. Zak Abel & Nile Rodgers) - Vandelux Remix",
       "url": "https://open.spotify.com/track/5qTKHndp6DbjeMGaxbhrCY"
@@ -6839,6 +6839,28 @@
     },
     {
       "album": {
+        "name": "Love Drunk",
+        "url": "https://open.spotify.com/album/05WwObMDSb5zjGPzMjyTG6"
+      },
+      "artists": [
+        {
+          "name": "whosdave",
+          "url": "https://open.spotify.com/artist/1Y9xZnDpvnKa65HTpEwcPc"
+        },
+        {
+          "name": "Honey",
+          "url": "https://open.spotify.com/artist/4lQERYdwY63QCoTVxt0aP9"
+        }
+      ],
+      "date_added": "2024-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171964,
+      "name": "Love Drunk",
+      "url": "https://open.spotify.com/track/3kY2heeBodxc2S9g4QwcsE"
+    },
+    {
+      "album": {
         "name": "Love In California",
         "url": "https://open.spotify.com/album/3uec87fKWLQJHVx0azTTgj"
       },
@@ -8108,7 +8130,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-16",
       "duration_ms": 182874,
       "name": "One for Me",
       "url": "https://open.spotify.com/track/72wAXN8FFG7daJ2Pc9GKUZ"
@@ -8534,7 +8556,7 @@
       ],
       "date_added": "2024-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-16",
       "duration_ms": 130434,
       "name": "Play On My Mind",
       "url": "https://open.spotify.com/track/4ajULmqzU6vXyF4tLOvqgX"
@@ -8618,6 +8640,28 @@
       "duration_ms": 171130,
       "name": "Rain",
       "url": "https://open.spotify.com/track/7tD0sQp4WMnHTvB5PMy4cc"
+    },
+    {
+      "album": {
+        "name": "Raindrops",
+        "url": "https://open.spotify.com/album/4YsNm6qlvtN2HyKSBKPEpU"
+      },
+      "artists": [
+        {
+          "name": "Second Sun",
+          "url": "https://open.spotify.com/artist/4ITZhADtXQl7SXvQOlMmPS"
+        },
+        {
+          "name": "houselife",
+          "url": "https://open.spotify.com/artist/2ZMVshOlD7ULhDmDjgOF3h"
+        }
+      ],
+      "date_added": "2024-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150901,
+      "name": "Raindrops",
+      "url": "https://open.spotify.com/track/52Kt0ltJzMBebV9c1nPf8r"
     },
     {
       "album": {
@@ -9498,7 +9542,7 @@
       ],
       "date_added": "2024-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-05",
+      "date_removed": null,
       "duration_ms": 178235,
       "name": "Sleep",
       "url": "https://open.spotify.com/track/0rMuFOja3DhVSuXQeae25C"
@@ -9812,7 +9856,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-16",
       "duration_ms": 198636,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/04hI9cC9HWKpzzXrud2CvT"
@@ -10988,7 +11032,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-16",
       "duration_ms": 146086,
       "name": "The Power Of Love",
       "url": "https://open.spotify.com/track/4LF9qVQKdM46SQ3Rl2ZEhY"
@@ -11510,7 +11554,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-16",
       "duration_ms": 144915,
       "name": "Waiting For",
       "url": "https://open.spotify.com/track/6WqVq2NOScKWQVlSwkPVj5"
@@ -11742,7 +11786,7 @@
       ],
       "date_added": "2024-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-16",
       "duration_ms": 180500,
       "name": "We Are The People",
       "url": "https://open.spotify.com/track/25DdPIJnzM222Pj5gFttFI"

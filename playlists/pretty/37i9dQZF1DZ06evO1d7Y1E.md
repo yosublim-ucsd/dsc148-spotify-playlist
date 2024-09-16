@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1d7Y1E.md) - [plain]
 
 ### [This Is Mc Poze do Rodo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1d7Y1E)
 
-> This is Mc Poze do Rodo\. Todos os maiores hits em uma só playlist.
+> This is Mc Poze do Rodo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,829 likes - 47 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,847 likes - 47 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1d7Y1E.md) - [plain]
 | 46 | [Do Crime ao Funk](https://open.spotify.com/track/2RTYc5fDW0QyiqtxeR6Ajz) | [Bielzin](https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q) | [Do Crime ao Funk](https://open.spotify.com/album/3TDDFPraQaLpjLV3ZHFM9J) | 3:05 |
 | 47 | [Vai Chegar](https://open.spotify.com/track/3hNm8sXtMbSehcrI4zdecG) | [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD) | [Adrenalina](https://open.spotify.com/album/1TqRe6Z2nz1Lv2IbudwM0g) | 2:53 |
 
-Snapshot ID: `ZuOAgAAAAADad459hlBNThaP2Cp8IV08`
+Snapshot ID: `ZuTSAAAAAAAnsI/slvCGq2yG5g/YNzs0`

@@ -1,12 +1,12 @@
 {
   "description": "This Is Los Huracanes del Norte. Los temas esenciales, todos en una lista.",
-  "num_followers": 116284,
+  "num_followers": 116306,
   "original_name": "This Is Los Huracanes del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuOAgAAAAADoJQMEwVTq8P/8chxBNdDP",
+  "snapshot_id": "ZuTSAAAAAACtXA5S4A6g0ydi9p7rtqD3",
   "tracks": [
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puro Pa` Arriba",
-        "url": "https://open.spotify.com/album/4C1N5LValUfNBZAyXMeeyY"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 177032,
-      "name": "Paloma Querida",
-      "url": "https://open.spotify.com/track/2lwctfy8nVHNKRxyT8VSRo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ayer Me Contaron",
         "url": "https://open.spotify.com/album/7GtQxOc8GDolK0kWTeCAFa"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 168106,
       "name": "Ayer Me Contaron",
       "url": "https://open.spotify.com/track/4JUpFbpIehhvF0Ol88HqPN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Puro Pa` Arriba",
+        "url": "https://open.spotify.com/album/4C1N5LValUfNBZAyXMeeyY"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 177032,
+      "name": "Paloma Querida",
+      "url": "https://open.spotify.com/track/2lwctfy8nVHNKRxyT8VSRo"
     },
     {
       "added_at": null,

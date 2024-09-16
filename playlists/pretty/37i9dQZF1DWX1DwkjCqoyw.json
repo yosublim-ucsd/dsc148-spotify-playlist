@@ -1,6 +1,6 @@
 {
   "description": "The biggest crossover songs from the islands and the diaspora. Cover: Amanda Reifer",
-  "num_followers": 645147,
+  "num_followers": 645132,
   "original_name": "Island Pop",
   "owner": {
     "name": "Spotify",
@@ -359,6 +359,22 @@
     {
       "added_at": "2024-07-16 11:23:58",
       "album": {
+        "name": "You're Perfect",
+        "url": "https://open.spotify.com/album/6vZbWkCUqbIbEZnPaoDBFF"
+      },
+      "artists": [
+        {
+          "name": "Charly Black",
+          "url": "https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or"
+        }
+      ],
+      "duration_ms": 196973,
+      "name": "You're Perfect",
+      "url": "https://open.spotify.com/track/4iSWQ5Eadn5tZvvG9XNzYN"
+    },
+    {
+      "added_at": "2024-07-16 11:23:58",
+      "album": {
         "name": "Mariposa",
         "url": "https://open.spotify.com/album/296P0WTEXbp7n9NpVCsAqV"
       },
@@ -375,18 +391,18 @@
     {
       "added_at": "2024-07-16 11:23:58",
       "album": {
-        "name": "You're Perfect",
-        "url": "https://open.spotify.com/album/6vZbWkCUqbIbEZnPaoDBFF"
+        "name": "VENT",
+        "url": "https://open.spotify.com/album/0z0nfHRckCFmoxDkc5Ghd0"
       },
       "artists": [
         {
-          "name": "Charly Black",
-          "url": "https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or"
+          "name": "Dexta Daps",
+          "url": "https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY"
         }
       ],
-      "duration_ms": 196973,
-      "name": "You're Perfect",
-      "url": "https://open.spotify.com/track/4iSWQ5Eadn5tZvvG9XNzYN"
+      "duration_ms": 240000,
+      "name": "Call Me If",
+      "url": "https://open.spotify.com/track/7LzpbhQyI2HIyk73V8UE6r"
     },
     {
       "added_at": "2024-07-16 11:23:58",
@@ -423,6 +439,26 @@
       "duration_ms": 217464,
       "name": "Feelings (Remix)",
       "url": "https://open.spotify.com/track/5Bij2gXhLEUUxyPGcZZFFj"
+    },
+    {
+      "added_at": "2024-07-16 11:23:58",
+      "album": {
+        "name": "Higher Life",
+        "url": "https://open.spotify.com/album/3lhwBOftasfbBakMOQOAzX"
+      },
+      "artists": [
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        },
+        {
+          "name": "Chronic Law",
+          "url": "https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w"
+        }
+      ],
+      "duration_ms": 198032,
+      "name": "Higher Life",
+      "url": "https://open.spotify.com/track/45hcfulMM8BGDKFj6MnZv6"
     },
     {
       "added_at": "2024-07-16 11:23:58",
@@ -471,22 +507,6 @@
     {
       "added_at": "2024-07-16 11:23:58",
       "album": {
-        "name": "VENT",
-        "url": "https://open.spotify.com/album/0z0nfHRckCFmoxDkc5Ghd0"
-      },
-      "artists": [
-        {
-          "name": "Dexta Daps",
-          "url": "https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Call Me If",
-      "url": "https://open.spotify.com/track/7LzpbhQyI2HIyk73V8UE6r"
-    },
-    {
-      "added_at": "2024-07-16 11:23:58",
-      "album": {
         "name": "Vibe",
         "url": "https://open.spotify.com/album/4vY5bGXeYLqW2gQqADFMty"
       },
@@ -527,22 +547,18 @@
     {
       "added_at": "2024-07-16 11:23:58",
       "album": {
-        "name": "Higher Life",
-        "url": "https://open.spotify.com/album/3lhwBOftasfbBakMOQOAzX"
+        "name": "VENT",
+        "url": "https://open.spotify.com/album/0z0nfHRckCFmoxDkc5Ghd0"
       },
       "artists": [
         {
-          "name": "Kranium",
-          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
-        },
-        {
-          "name": "Chronic Law",
-          "url": "https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w"
+          "name": "Dexta Daps",
+          "url": "https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY"
         }
       ],
-      "duration_ms": 198032,
-      "name": "Higher Life",
-      "url": "https://open.spotify.com/track/45hcfulMM8BGDKFj6MnZv6"
+      "duration_ms": 207157,
+      "name": "Breaking News",
+      "url": "https://open.spotify.com/track/48OnqvjzYG8RYuyjXGquDg"
     },
     {
       "added_at": "2024-07-16 11:23:58",
@@ -563,38 +579,6 @@
       "duration_ms": 176666,
       "name": "Out Of This World",
       "url": "https://open.spotify.com/track/63a1huPGwNTMBXIkpIjr8X"
-    },
-    {
-      "added_at": "2024-07-16 11:23:58",
-      "album": {
-        "name": "VENT",
-        "url": "https://open.spotify.com/album/0z0nfHRckCFmoxDkc5Ghd0"
-      },
-      "artists": [
-        {
-          "name": "Dexta Daps",
-          "url": "https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY"
-        }
-      ],
-      "duration_ms": 207157,
-      "name": "Breaking News",
-      "url": "https://open.spotify.com/track/48OnqvjzYG8RYuyjXGquDg"
-    },
-    {
-      "added_at": "2024-07-16 11:23:58",
-      "album": {
-        "name": "Vibes",
-        "url": "https://open.spotify.com/album/5poktJ27bJeOOZkaKZ1ziN"
-      },
-      "artists": [
-        {
-          "name": "Skeng",
-          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
-        }
-      ],
-      "duration_ms": 148636,
-      "name": "Vibes",
-      "url": "https://open.spotify.com/track/1UWGmcBgQZH9govYtUoM4E"
     },
     {
       "added_at": "2024-07-16 11:23:58",
@@ -659,22 +643,18 @@
     {
       "added_at": "2024-07-16 11:23:58",
       "album": {
-        "name": "Party Girls (feat. Buju Banton)",
-        "url": "https://open.spotify.com/album/0ixL0K67B2xkOjom88AdXQ"
+        "name": "Vibes",
+        "url": "https://open.spotify.com/album/5poktJ27bJeOOZkaKZ1ziN"
       },
       "artists": [
         {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        },
-        {
-          "name": "Buju Banton",
-          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
+          "name": "Skeng",
+          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
         }
       ],
-      "duration_ms": 243094,
-      "name": "Party Girls (feat. Buju Banton)",
-      "url": "https://open.spotify.com/track/5h0uJbjD9QEvXwigegc5O5"
+      "duration_ms": 148636,
+      "name": "Vibes",
+      "url": "https://open.spotify.com/track/1UWGmcBgQZH9govYtUoM4E"
     },
     {
       "added_at": "2024-07-16 11:23:58",
@@ -699,18 +679,22 @@
     {
       "added_at": "2024-07-16 11:23:58",
       "album": {
-        "name": "Curious",
-        "url": "https://open.spotify.com/album/4v8HOUiwFEMkvYpnlzEsX4"
+        "name": "Party Girls (feat. Buju Banton)",
+        "url": "https://open.spotify.com/album/0ixL0K67B2xkOjom88AdXQ"
       },
       "artists": [
         {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        },
+        {
+          "name": "Buju Banton",
+          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
         }
       ],
-      "duration_ms": 161739,
-      "name": "Curious",
-      "url": "https://open.spotify.com/track/3kH4ElFSbaNiNejXE71dga"
+      "duration_ms": 243094,
+      "name": "Party Girls (feat. Buju Banton)",
+      "url": "https://open.spotify.com/track/5h0uJbjD9QEvXwigegc5O5"
     },
     {
       "added_at": "2024-07-16 11:23:58",
@@ -767,22 +751,6 @@
     {
       "added_at": "2024-07-16 11:23:58",
       "album": {
-        "name": "Likkle Miss",
-        "url": "https://open.spotify.com/album/4TJXGCegYt88zuBS88XYMk"
-      },
-      "artists": [
-        {
-          "name": "Skeng",
-          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
-        }
-      ],
-      "duration_ms": 134452,
-      "name": "Likkle Miss",
-      "url": "https://open.spotify.com/track/7vqvgXQ94BBiTtfzf6w7Nh"
-    },
-    {
-      "added_at": "2024-07-16 11:23:58",
-      "album": {
         "name": "Never Leave",
         "url": "https://open.spotify.com/album/1uHkmdfOvhr3Jj7mdLIIkp"
       },
@@ -799,6 +767,22 @@
       "duration_ms": 196153,
       "name": "Never Leave",
       "url": "https://open.spotify.com/track/6d5E28VYwyws9CY00lwxfq"
+    },
+    {
+      "added_at": "2024-07-16 11:23:58",
+      "album": {
+        "name": "Curious",
+        "url": "https://open.spotify.com/album/4v8HOUiwFEMkvYpnlzEsX4"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "duration_ms": 161739,
+      "name": "Curious",
+      "url": "https://open.spotify.com/track/3kH4ElFSbaNiNejXE71dga"
     },
     {
       "added_at": "2024-07-16 11:23:58",
@@ -839,22 +823,18 @@
     {
       "added_at": "2024-07-16 11:23:58",
       "album": {
-        "name": "Flava",
-        "url": "https://open.spotify.com/album/06hReu6yFLgRUbugobxapt"
+        "name": "Likkle Miss",
+        "url": "https://open.spotify.com/album/4TJXGCegYt88zuBS88XYMk"
       },
       "artists": [
         {
-          "name": "Valiant",
-          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
-        },
-        {
-          "name": "GuiltyBeatz",
-          "url": "https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em"
+          "name": "Skeng",
+          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
         }
       ],
-      "duration_ms": 153818,
-      "name": "Flava",
-      "url": "https://open.spotify.com/track/6WIQ5I5BssinqHkuxYWHSw"
+      "duration_ms": 134452,
+      "name": "Likkle Miss",
+      "url": "https://open.spotify.com/track/7vqvgXQ94BBiTtfzf6w7Nh"
     },
     {
       "added_at": "2024-07-16 11:23:58",
@@ -875,38 +855,22 @@
     {
       "added_at": "2024-07-16 11:23:58",
       "album": {
-        "name": "London",
-        "url": "https://open.spotify.com/album/616VWAHOKzHETulvW0RJNA"
+        "name": "Flava",
+        "url": "https://open.spotify.com/album/06hReu6yFLgRUbugobxapt"
       },
       "artists": [
         {
-          "name": "Skeng",
-          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
-        }
-      ],
-      "duration_ms": 151456,
-      "name": "London",
-      "url": "https://open.spotify.com/track/69GzHJZKbGZnYaEpHYaC4n"
-    },
-    {
-      "added_at": "2024-07-16 11:23:58",
-      "album": {
-        "name": "Pieces",
-        "url": "https://open.spotify.com/album/1qWTEKdNqMDHIq0mSivRTW"
-      },
-      "artists": [
-        {
-          "name": "Masicka",
-          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+          "name": "Valiant",
+          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
         },
         {
-          "name": "Jahshii",
-          "url": "https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7"
+          "name": "GuiltyBeatz",
+          "url": "https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em"
         }
       ],
-      "duration_ms": 219574,
-      "name": "Pieces (with Jahshii)",
-      "url": "https://open.spotify.com/track/6NaeXUltqK5j9NqCaiqRO4"
+      "duration_ms": 153818,
+      "name": "Flava",
+      "url": "https://open.spotify.com/track/6WIQ5I5BssinqHkuxYWHSw"
     },
     {
       "added_at": "2024-07-16 11:23:58",
@@ -923,6 +887,42 @@
       "duration_ms": 193802,
       "name": "Dark Room",
       "url": "https://open.spotify.com/track/5zD3d3m97Ferk4pgkUPEmb"
+    },
+    {
+      "added_at": "2024-07-16 11:23:58",
+      "album": {
+        "name": "BOUNCE",
+        "url": "https://open.spotify.com/album/1EIWqkCUf5ZR6FBaP0J8LV"
+      },
+      "artists": [
+        {
+          "name": "DING DONG",
+          "url": "https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7"
+        },
+        {
+          "name": "Dunw3ll",
+          "url": "https://open.spotify.com/artist/0GXid8LlvA2twALSqLKYQ0"
+        }
+      ],
+      "duration_ms": 153652,
+      "name": "BOUNCE",
+      "url": "https://open.spotify.com/track/744IMVuf8wEVECCOLThDHJ"
+    },
+    {
+      "added_at": "2024-07-16 11:23:58",
+      "album": {
+        "name": "London",
+        "url": "https://open.spotify.com/album/616VWAHOKzHETulvW0RJNA"
+      },
+      "artists": [
+        {
+          "name": "Skeng",
+          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
+        }
+      ],
+      "duration_ms": 151456,
+      "name": "London",
+      "url": "https://open.spotify.com/track/69GzHJZKbGZnYaEpHYaC4n"
     }
   ],
   "unique_name": "Island Pop",

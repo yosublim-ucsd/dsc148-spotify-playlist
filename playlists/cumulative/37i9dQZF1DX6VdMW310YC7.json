@@ -18222,7 +18222,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-16",
       "duration_ms": 166028,
       "name": "Lotus",
       "url": "https://open.spotify.com/track/6Cf07jcnseglB4x9BXIKDr"
@@ -33618,6 +33618,24 @@
       "duration_ms": 201724,
       "name": "You Belong",
       "url": "https://open.spotify.com/track/6DdEvjkxweoP9YGrJzH4i3"
+    },
+    {
+      "album": {
+        "name": "Kiss & Forget",
+        "url": "https://open.spotify.com/album/0BmeDz35wEqY5CKOA8vah0"
+      },
+      "artists": [
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218929,
+      "name": "You Belong To No-One",
+      "url": "https://open.spotify.com/track/4Zp4cKltb5SYVKnkKizfIG"
     },
     {
       "album": {

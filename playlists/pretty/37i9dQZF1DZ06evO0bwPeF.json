@@ -1,12 +1,12 @@
 {
   "description": "This is Helmet. The essential tracks, all in one playlist.",
-  "num_followers": 8383,
+  "num_followers": 8393,
   "original_name": "This Is Helmet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuOAgAAAAADgiDH5BK5tMJYsjtW9YBlb",
+  "snapshot_id": "ZuTSAAAAAADk2kbdtEwZ5yTI+Svc4DY2",
   "tracks": [
     {
       "added_at": null,
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
         }
       ],
-      "duration_ms": 156400,
-      "name": "Exactly What You Wanted",
-      "url": "https://open.spotify.com/track/1xl9a6GICzJisksmdrljt2"
+      "duration_ms": 199626,
+      "name": "Like I Care",
+      "url": "https://open.spotify.com/track/1UOkTycAtWGz5rgQxo1E9M"
     },
     {
       "added_at": null,
@@ -136,9 +136,9 @@
           "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
         }
       ],
-      "duration_ms": 199626,
-      "name": "Like I Care",
-      "url": "https://open.spotify.com/track/1UOkTycAtWGz5rgQxo1E9M"
+      "duration_ms": 156400,
+      "name": "Exactly What You Wanted",
+      "url": "https://open.spotify.com/track/1xl9a6GICzJisksmdrljt2"
     },
     {
       "added_at": null,
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
         }
       ],
-      "duration_ms": 133733,
-      "name": "Bad Mood",
-      "url": "https://open.spotify.com/track/5dYMGkyyXQ5mtkmYyYLlxZ"
+      "duration_ms": 159640,
+      "name": "FBLA",
+      "url": "https://open.spotify.com/track/1JfrCAoYpQKNdzefAvI1OS"
     },
     {
       "added_at": null,
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
         }
       ],
-      "duration_ms": 159640,
-      "name": "FBLA",
-      "url": "https://open.spotify.com/track/1JfrCAoYpQKNdzefAvI1OS"
+      "duration_ms": 133733,
+      "name": "Bad Mood",
+      "url": "https://open.spotify.com/track/5dYMGkyyXQ5mtkmYyYLlxZ"
     },
     {
       "added_at": null,
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
         }
       ],
-      "duration_ms": 221863,
-      "name": "Powder Puff",
-      "url": "https://open.spotify.com/track/2o1sbJtl8qV6a9FGpOAQ6g"
+      "duration_ms": 163649,
+      "name": "Big Shot",
+      "url": "https://open.spotify.com/track/02AudzNTg5zFxTlhXx1cYG"
     },
     {
       "added_at": null,
@@ -603,6 +603,22 @@
       "duration_ms": 263000,
       "name": "Sinatra",
       "url": "https://open.spotify.com/track/5n4HiXIkGjxlBlbeUbbBsv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Left",
+        "url": "https://open.spotify.com/album/4ejmUTypA9eTi4kAGNH9nL"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "duration_ms": 168856,
+      "name": "Make-Up",
+      "url": "https://open.spotify.com/track/3kdvSS7r98Ysi4OLX8buSD"
     },
     {
       "added_at": null,

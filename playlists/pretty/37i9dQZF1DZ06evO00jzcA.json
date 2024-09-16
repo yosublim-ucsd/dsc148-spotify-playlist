@@ -1,12 +1,12 @@
 {
-  "description": "This is KISS. The essential tracks, all in one playlist.",
-  "num_followers": 461916,
+  "description": "This Is KISS. Los temas esenciales, todos en una lista.",
+  "num_followers": 461961,
   "original_name": "This Is KISS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuOAgAAAAAD4RCyK5zzNA1sp5MfIQyX1",
+  "snapshot_id": "ZuTSAAAAAAAZc/vdX8cQ8s3myokqe31+",
   "tracks": [
     {
       "added_at": null,
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 171853,
-      "name": "Comin' Home - Live From MTV Unplugged/1995",
-      "url": "https://open.spotify.com/track/1qp9BUccsAqU9r9PdgJzk0"
+      "duration_ms": 175013,
+      "name": "Beth - Live",
+      "url": "https://open.spotify.com/track/5cPISbao7sZ27Cxj3la7lT"
     },
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 175013,
-      "name": "Beth - Live",
-      "url": "https://open.spotify.com/track/5cPISbao7sZ27Cxj3la7lT"
+      "duration_ms": 171853,
+      "name": "Comin' Home - Live From MTV Unplugged/1995",
+      "url": "https://open.spotify.com/track/1qp9BUccsAqU9r9PdgJzk0"
     },
     {
       "added_at": null,

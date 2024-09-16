@@ -334,7 +334,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-16",
       "duration_ms": 147629,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/5kdUm7nOGQs006nNNFxnAL"
@@ -446,6 +446,24 @@
       "duration_ms": 200937,
       "name": "copypaste",
       "url": "https://open.spotify.com/track/7m9WgSEUPIgSxT6f7wL3U0"
+    },
+    {
+      "album": {
+        "name": "Corpse Bride",
+        "url": "https://open.spotify.com/album/4LHyzaPhcYIfyyRfmdhHrs"
+      },
+      "artists": [
+        {
+          "name": "Eileen Alister",
+          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187053,
+      "name": "Corpse Bride",
+      "url": "https://open.spotify.com/track/0bARGmIFiwDIp05EM3PIYt"
     },
     {
       "album": {

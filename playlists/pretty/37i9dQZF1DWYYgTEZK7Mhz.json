@@ -1,6 +1,6 @@
 {
   "description": "Un'estate al mare, stile balenare \ud83c\udfdd\ufe0f Hit dell'estate italiana anni 60, 70 e 80!",
-  "num_followers": 36978,
+  "num_followers": 37003,
   "original_name": "Sapore di Sale",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Rocky Roberts",
-        "url": "https://open.spotify.com/album/4kAfPxlz8TxOvx7vyAY8xK"
-      },
-      "artists": [
-        {
-          "name": "Rocky Roberts",
-          "url": "https://open.spotify.com/artist/6eCgsu961ClH7K6NSsXaBh"
-        }
-      ],
-      "duration_ms": 113853,
-      "name": "Stasera mi butto",
-      "url": "https://open.spotify.com/track/7uZF6CYmfNQ2lqRYqDhSdc"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "Italian Classics: Fred Bongusto, Vol. 1",
         "url": "https://open.spotify.com/album/5nHzXZgjSFKOJqKkUGOyzQ"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 168642,
       "name": "Una rotonda sul mare",
       "url": "https://open.spotify.com/track/4qF6z47UqzpuA7lZOsXbQF"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "Rocky Roberts",
+        "url": "https://open.spotify.com/album/4kAfPxlz8TxOvx7vyAY8xK"
+      },
+      "artists": [
+        {
+          "name": "Rocky Roberts",
+          "url": "https://open.spotify.com/artist/6eCgsu961ClH7K6NSsXaBh"
+        }
+      ],
+      "duration_ms": 113853,
+      "name": "Stasera mi butto",
+      "url": "https://open.spotify.com/track/7uZF6CYmfNQ2lqRYqDhSdc"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Nico Fidenco",
-        "url": "https://open.spotify.com/album/3BodpekIovNHAQdlArIVjA"
-      },
-      "artists": [
-        {
-          "name": "Nico Fidenco",
-          "url": "https://open.spotify.com/artist/52d9m6IXscaaj65IyVecXP"
-        }
-      ],
-      "duration_ms": 160346,
-      "name": "Con Te Sulla Spiaggia",
-      "url": "https://open.spotify.com/track/5qL9G387FzVFVgV92WU34K"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "Edoardo Vianello",
         "url": "https://open.spotify.com/album/1atB7tFNLKhXOE9xMnHWER"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 159400,
       "name": "Pinne, Fucile Ed Occhiali",
       "url": "https://open.spotify.com/track/4FT12g1tzFgK2VAx3e0z26"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "Nico Fidenco",
+        "url": "https://open.spotify.com/album/3BodpekIovNHAQdlArIVjA"
+      },
+      "artists": [
+        {
+          "name": "Nico Fidenco",
+          "url": "https://open.spotify.com/artist/52d9m6IXscaaj65IyVecXP"
+        }
+      ],
+      "duration_ms": 160346,
+      "name": "Con Te Sulla Spiaggia",
+      "url": "https://open.spotify.com/track/5qL9G387FzVFVgV92WU34K"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Gianni Morandi",
-        "url": "https://open.spotify.com/album/1Z47BhRPU4sSFwXdJDYPsS"
-      },
-      "artists": [
-        {
-          "name": "Gianni Morandi",
-          "url": "https://open.spotify.com/artist/15FrhfFYJIx7Ijltkpjbsr"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Andavo A Cento All'Ora",
-      "url": "https://open.spotify.com/track/0JcxwcoLqFiqNXAAw2AeoH"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "I Marcellos Ferial",
         "url": "https://open.spotify.com/album/7Jib1N5PzwSylNrcgCc6jj"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 133240,
       "name": "Sei Diventata Nera",
       "url": "https://open.spotify.com/track/2M1MmdF0Uz1mnwOwVwdLtD"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "Gianni Morandi",
+        "url": "https://open.spotify.com/album/1Z47BhRPU4sSFwXdJDYPsS"
+      },
+      "artists": [
+        {
+          "name": "Gianni Morandi",
+          "url": "https://open.spotify.com/artist/15FrhfFYJIx7Ijltkpjbsr"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Andavo A Cento All'Ora",
+      "url": "https://open.spotify.com/track/0JcxwcoLqFiqNXAAw2AeoH"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Milva: i pi\u00f9 grandi successi",
-        "url": "https://open.spotify.com/album/5c1BQIDJNweYbWfePtKKKY"
-      },
-      "artists": [
-        {
-          "name": "Milva",
-          "url": "https://open.spotify.com/artist/2yTY8E1aIo4qaM9m5teX8N"
-        }
-      ],
-      "duration_ms": 179293,
-      "name": "Il mare nel cassetto",
-      "url": "https://open.spotify.com/track/5kxbVnUHcv8TXWI2E0ilSs"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "Peppino Di Capri",
         "url": "https://open.spotify.com/album/2jtQpCnF21YfepWwuM0tec"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 137346,
       "name": "Saint-Tropez Twist",
       "url": "https://open.spotify.com/track/0yzxnz8zp2ttEAWKgeD006"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "Milva: i pi\u00f9 grandi successi",
+        "url": "https://open.spotify.com/album/5c1BQIDJNweYbWfePtKKKY"
+      },
+      "artists": [
+        {
+          "name": "Milva",
+          "url": "https://open.spotify.com/artist/2yTY8E1aIo4qaM9m5teX8N"
+        }
+      ],
+      "duration_ms": 179293,
+      "name": "Il mare nel cassetto",
+      "url": "https://open.spotify.com/track/5kxbVnUHcv8TXWI2E0ilSs"
     },
     {
       "added_at": "2024-08-02 00:01:00",

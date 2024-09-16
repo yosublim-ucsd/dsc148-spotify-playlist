@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,678 songs - 4 day 19 hr 4 min
+1,679 songs - 4 day 19 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -903,7 +903,7 @@
 | [Lost Souls \- Nora En Pure Remix](https://open.spotify.com/track/2UsRV8KFvHaDFUJtzQADAu) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Ost](https://open.spotify.com/artist/6nd2xPiNkapZHlg6UvIVVx), [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Lost Souls \(Nora En Pure Remix\)](https://open.spotify.com/album/5eUHs8CussoumFCO2guELs) | 3:41 | 2020-03-18 | 2022-01-17 |
 | [Lost With You](https://open.spotify.com/track/3orHV9WQ9htKc6PwcypoRO) | [Lincoln Jesser](https://open.spotify.com/artist/3GxiyVFhM1CWoYBMfZ9hYG) | [Lost With You](https://open.spotify.com/album/3JXBRmD6zviu4BPHgN55BD) | 4:10 | 2020-05-18 | 2022-04-20 |
 | [Lotion Motion](https://open.spotify.com/track/33rZdJwtVLRrsRJDdakMHy) | [Mr\. Tape](https://open.spotify.com/artist/7ladzyDVpwhv848vat5v9P), [S2cool](https://open.spotify.com/artist/18X5MZR3H8elpauXHixRZE) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 5:32 | 2020-03-17 | 2022-01-13 |
-| [Lotus](https://open.spotify.com/track/6Cf07jcnseglB4x9BXIKDr) | [offrails](https://open.spotify.com/artist/23mhyCgUqodughYePYE52Y), [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Lotus](https://open.spotify.com/album/6gMUqpxi8SItGg5PDxs831) | 2:46 | 2024-09-13 |  |
+| [Lotus](https://open.spotify.com/track/6Cf07jcnseglB4x9BXIKDr) | [offrails](https://open.spotify.com/artist/23mhyCgUqodughYePYE52Y), [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Lotus](https://open.spotify.com/album/6gMUqpxi8SItGg5PDxs831) | 2:46 | 2024-09-13 | 2024-09-16 |
 | [love \(wip\)](https://open.spotify.com/track/5LInapZvnYwgLGXWQeGrIR) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Cassini](https://open.spotify.com/artist/3CVrkIBFko2Wj2ziZeQOhI) | [album1](https://open.spotify.com/album/09lJhufJEYwygdKq3vUa8t) | 4:22 | 2020-03-20 | 2021-01-11 |
 | [Love Affair](https://open.spotify.com/track/078RYWTtCzEcNCjvdP4yHL) | [São Miguel](https://open.spotify.com/artist/1iVxCBBr46gznMxUBnnuMq) | [001 EP](https://open.spotify.com/album/3uYSVjEDYM4sgw6G9txJkL) | 3:48 | 2021-10-22 | 2022-07-28 |
 | [Love Gone Cold](https://open.spotify.com/track/4NNnEa1hDQuuZgW7gtlbuc) | [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [Love Gone Cold](https://open.spotify.com/album/1Hs9xXoei21Nhi157X06ld) | 2:53 | 2021-10-28 | 2021-11-13 |
@@ -1666,6 +1666,7 @@
 | [You Always Know Everything](https://open.spotify.com/track/7x82Bt3Pvxf4GQwLBtrv8Z) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [You Always Know Everything](https://open.spotify.com/album/3Z2gmUawwu5AmNfK0t5SFp) | 3:05 | 2020-07-18 | 2022-05-27 |
 | [You and Me](https://open.spotify.com/track/2RuOeqFMhuYLVGbgGPQx2l) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Souls](https://open.spotify.com/album/5NBqQgOMgAHbJwDIFw9c0m) | 3:54 | 2020-03-16 | 2022-01-11 |
 | [You Belong](https://open.spotify.com/track/6DdEvjkxweoP9YGrJzH4i3) | [The Avener](https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0), [Laura Gibson](https://open.spotify.com/artist/396L5wXlifF7nfSLhP3tTH) | [You Belong](https://open.spotify.com/album/2PWCw2OW3gRzUnUmDJJoyb) | 3:21 | 2020-06-12 | 2020-07-03 |
+| [You Belong To No\-One](https://open.spotify.com/track/4Zp4cKltb5SYVKnkKizfIG) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [Kiss & Forget](https://open.spotify.com/album/0BmeDz35wEqY5CKOA8vah0) | 3:38 | 2024-09-13 |  |
 | [You Can Feel It](https://open.spotify.com/track/3PRF1MTFNTRChwpIEIBCwM) | [Sofasound](https://open.spotify.com/artist/3pOOUcLNTiZ8nljgMJDXQ6) | [You Can Feel It](https://open.spotify.com/album/63ZwQLMRmpZwqtzaNDv81D) | 3:08 | 2020-11-20 | 2022-04-21 |
 | [You Don't Know Me](https://open.spotify.com/track/6FyIvdHUFc1MAmPI2hUO2W) | [Arman Cekin](https://open.spotify.com/artist/7vUJCRmF1if4uhMp2V3tRP) | [You Don't Know Me](https://open.spotify.com/album/5Ygl8frZOVuPczttCkkDN4) | 3:22 | 2020-05-22 | 2020-07-03 |
 | [You Know That Feel Off Of Me](https://open.spotify.com/track/47G7kRIpFDQtgLxc3r0g5k) | [Tep No](https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8) | [You Know That Feel Off Of Me](https://open.spotify.com/album/6nogCR8ftk8AxTrwGx7aTx) | 3:38 | 2021-03-27 | 2022-12-29 |

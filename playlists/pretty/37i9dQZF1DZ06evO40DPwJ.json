@@ -1,12 +1,12 @@
 {
   "description": "This is Taio Cruz. The essential tracks, all in one playlist.",
-  "num_followers": 17351,
+  "num_followers": 17356,
   "original_name": "This Is Taio Cruz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuOAgAAAAAD7Nso5Kv0ja8GXD5OpRT4w",
+  "snapshot_id": "ZuTSAAAAAAD8V4JI/oqBRQGt7SXmybze",
   "tracks": [
     {
       "added_at": null,
@@ -343,22 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Departure",
-        "url": "https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp"
-      },
-      "artists": [
-        {
-          "name": "Taio Cruz",
-          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
-        }
-      ],
-      "duration_ms": 225306,
-      "name": "I Can Be",
-      "url": "https://open.spotify.com/track/49YfIDm5WBGKyUxL8Vt5FV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Signs",
         "url": "https://open.spotify.com/album/0iimd0kXrAa4g8wJ7piCXq"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 173119,
       "name": "Signs",
       "url": "https://open.spotify.com/track/3bOoVnf3pItMfU5PMossd9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Departure",
+        "url": "https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "duration_ms": 225306,
+      "name": "I Can Be",
+      "url": "https://open.spotify.com/track/49YfIDm5WBGKyUxL8Vt5FV"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Departure",
-        "url": "https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp"
-      },
-      "artists": [
-        {
-          "name": "Taio Cruz",
-          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
-        }
-      ],
-      "duration_ms": 231106,
-      "name": "Moving On",
-      "url": "https://open.spotify.com/track/1Go2VujfXEVvJ0eZ1cMrIU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Row The Body (feat. French Montana)",
         "url": "https://open.spotify.com/album/0SK5cDgoWVerVQbHne2epR"
       },
@@ -447,6 +431,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Departure",
+        "url": "https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "duration_ms": 231106,
+      "name": "Moving On",
+      "url": "https://open.spotify.com/track/1Go2VujfXEVvJ0eZ1cMrIU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Me On You",
         "url": "https://open.spotify.com/album/59rLZXhHthZStCJJbn1Rme"
       },
@@ -463,6 +463,26 @@
       "duration_ms": 196222,
       "name": "Me On You",
       "url": "https://open.spotify.com/track/3nD6hpOexPDS1LHtoL7bPM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jersey Shore Soundtrack",
+        "url": "https://open.spotify.com/album/4tDWS8dQ6CZWysamjY9eDX"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        },
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        }
+      ],
+      "duration_ms": 266413,
+      "name": "Break Your Heart - Mixin Marc And Tony Svejda Radio Edit",
+      "url": "https://open.spotify.com/track/4mVtx1WO9DmJDrYoTC17Nf"
     },
     {
       "added_at": null,
@@ -503,26 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jersey Shore Soundtrack",
-        "url": "https://open.spotify.com/album/4tDWS8dQ6CZWysamjY9eDX"
-      },
-      "artists": [
-        {
-          "name": "Taio Cruz",
-          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
-        },
-        {
-          "name": "Ludacris",
-          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
-        }
-      ],
-      "duration_ms": 266413,
-      "name": "Break Your Heart - Mixin Marc And Tony Svejda Radio Edit",
-      "url": "https://open.spotify.com/track/4mVtx1WO9DmJDrYoTC17Nf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rokstarr (Special Edition)",
         "url": "https://open.spotify.com/album/3h80tQ7iMvnWIE7EdtRhEm"
       },
@@ -535,6 +535,22 @@
       "duration_ms": 217280,
       "name": "No Other One - Remastered",
       "url": "https://open.spotify.com/track/5kcgBrYujE674rAnACCNkM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TY.O (International Version)",
+        "url": "https://open.spotify.com/album/0TjgUvNEDN2PegfZVkoggi"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "duration_ms": 228693,
+      "name": "Make It Last Forever",
+      "url": "https://open.spotify.com/track/3v6FtXE6M4JuKo9zeuprb8"
     },
     {
       "added_at": null,
@@ -575,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TY.O (International Version)",
-        "url": "https://open.spotify.com/album/0TjgUvNEDN2PegfZVkoggi"
-      },
-      "artists": [
-        {
-          "name": "Taio Cruz",
-          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
-        }
-      ],
-      "duration_ms": 228693,
-      "name": "Make It Last Forever",
-      "url": "https://open.spotify.com/track/3v6FtXE6M4JuKo9zeuprb8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Time For You",
         "url": "https://open.spotify.com/album/2qSrzMIwPfV7SvbajqhGV8"
       },
@@ -607,6 +607,22 @@
       "duration_ms": 199976,
       "name": "Time For You",
       "url": "https://open.spotify.com/track/7L7rl2MmkCU5I7XrTB48pB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TY.O (International Version)",
+        "url": "https://open.spotify.com/album/0TjgUvNEDN2PegfZVkoggi"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "duration_ms": 195893,
+      "name": "Play",
+      "url": "https://open.spotify.com/track/1Zy86iStgYViyKefN5cdkx"
     },
     {
       "added_at": null,
@@ -647,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TY.O (International Version)",
-        "url": "https://open.spotify.com/album/0TjgUvNEDN2PegfZVkoggi"
-      },
-      "artists": [
-        {
-          "name": "Taio Cruz",
-          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
-        }
-      ],
-      "duration_ms": 195893,
-      "name": "Play",
-      "url": "https://open.spotify.com/track/1Zy86iStgYViyKefN5cdkx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "2020",
         "url": "https://open.spotify.com/album/2XbDaMr4RWDAyTuDY8DxXL"
       },
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Rokstarr Hits Collection",
-        "url": "https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k"
-      },
-      "artists": [
-        {
-          "name": "Taio Cruz",
-          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
-        }
-      ],
-      "duration_ms": 211546,
-      "name": "Falling In Love",
-      "url": "https://open.spotify.com/track/3u9dgy0yEKAUh02mjGmczS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Third Strike",
         "url": "https://open.spotify.com/album/2FpLsBqaonzdN5GrpQIZmJ"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 208626,
       "name": "Second Chance",
       "url": "https://open.spotify.com/track/0vsKn0USf81XicoIV9XZ0P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Rokstarr Hits Collection",
+        "url": "https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "duration_ms": 211546,
+      "name": "Falling In Love",
+      "url": "https://open.spotify.com/track/3u9dgy0yEKAUh02mjGmczS"
     },
     {
       "added_at": null,

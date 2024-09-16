@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: BoyWithUke.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,247 likes - 93 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,297 likes - 93 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 92 | [Afterglow](https://open.spotify.com/track/7Lsf0sutIM9n4D0qXnEKWN) | [Leon of Athens](https://open.spotify.com/artist/5yiBeJaPO9FPgplB6HpGg0), [Transviolet](https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i) | [Afterglow](https://open.spotify.com/album/2qbRiJO6Qi4kJ7RNIcGfCQ) | 2:40 |
 | 93 | [Pura geografia](https://open.spotify.com/track/7hO8gFY9xTofMHbZIoSRGv) | [Maria Jaume](https://open.spotify.com/artist/2QYudLHQwV6MDxWpZZtMNO) | [Nostàlgia Airlines](https://open.spotify.com/album/5csb7A1tX7g8GCvar9WuLV) | 2:56 |
 
-Snapshot ID: `Ztp+QAAAAAATgDmdhRUEQ4Xdw6KQ6dYY`
+Snapshot ID: `Ztp+QAAAAADMj7hhJhKpwcgErTNA81Xe`

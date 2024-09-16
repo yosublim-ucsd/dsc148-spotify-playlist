@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcrbQpZuKaRH.md) - [plain]
 
 > Calming music with the sound of waves for a blissful meditation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,586 likes - 75 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,695 likes - 75 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcrbQpZuKaRH.md) - [plain]
 | 74 | [Deeper Blue](https://open.spotify.com/track/5fAcAkxJY7s1MOdGhtlgKI) | [Tonal Topographies](https://open.spotify.com/artist/7F6XWc2t17ADSbXAzwzQF8) | [Deeper Blue](https://open.spotify.com/album/4vvA8x5Toi05sywB2VbJsh) | 2:23 |
 | 75 | [Crystal Bay](https://open.spotify.com/track/6AusfuCpsjySUaQFHhMxOc) | [Asa Kora](https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj) | [Crystal Bay](https://open.spotify.com/album/7KppdZlfQYdf9Key43fas5) | 2:18 |
 
-Snapshot ID: `ZthhpQAAAACVfSicbUqTFtdXj3Sz8961`
+Snapshot ID: `ZthhpQAAAADd9VgF8UNQDbp9Sn4D5VN2`

@@ -6921,6 +6921,24 @@
     },
     {
       "album": {
+        "name": "No Other",
+        "url": "https://open.spotify.com/album/0bHiuso3WXpchgSlfX48uY"
+      },
+      "artists": [
+        {
+          "name": "Gene Clark",
+          "url": "https://open.spotify.com/artist/040Bv6cZTRh30LyyYVXgJX"
+        }
+      ],
+      "date_added": "2024-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284613,
+      "name": "Life's Greatest Fool",
+      "url": "https://open.spotify.com/track/70IVVzw7Wmi2EdYWlPwbnO"
+    },
+    {
+      "album": {
         "name": "Color",
         "url": "https://open.spotify.com/album/5pVeEzOuaLQDIoJxOwyWDj"
       },

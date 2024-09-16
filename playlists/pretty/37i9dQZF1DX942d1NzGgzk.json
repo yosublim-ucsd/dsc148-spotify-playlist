@@ -1,6 +1,6 @@
 {
   "description": "100% British - 100% R&B. Cover: Dayo Bello",
-  "num_followers": 149120,
+  "num_followers": 149158,
   "original_name": "R&B UK",
   "owner": {
     "name": "Spotify",
@@ -199,22 +199,6 @@
     {
       "added_at": "2024-09-12 23:00:00",
       "album": {
-        "name": "Crystal Tears",
-        "url": "https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 239384,
-      "name": "Crystal Tears",
-      "url": "https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf"
-    },
-    {
-      "added_at": "2024-09-12 23:00:00",
-      "album": {
         "name": "Thoughts I Never Said",
         "url": "https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 163298,
       "name": "Fine By Myself",
       "url": "https://open.spotify.com/track/6wPAtoGq4fvAHALzbgEjFP"
+    },
+    {
+      "added_at": "2024-09-12 23:00:00",
+      "album": {
+        "name": "Crystal Tears",
+        "url": "https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 239384,
+      "name": "Crystal Tears",
+      "url": "https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf"
     },
     {
       "added_at": "2024-09-12 23:00:00",
@@ -299,22 +299,18 @@
     {
       "added_at": "2024-09-12 23:00:00",
       "album": {
-        "name": "MET YOU AT A BAR",
-        "url": "https://open.spotify.com/album/5XFDNmKIETmCv4YabIQRHP"
+        "name": "SUNSET BLVD",
+        "url": "https://open.spotify.com/album/7KHNgbzkWGvK13wzjvUCig"
       },
       "artists": [
         {
           "name": "Jaz Karis",
           "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
-        },
-        {
-          "name": "Tone Stith",
-          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
         }
       ],
-      "duration_ms": 160941,
-      "name": "MET YOU AT A BAR",
-      "url": "https://open.spotify.com/track/1tqDKxcXd2dlni26L3BGQ3"
+      "duration_ms": 159131,
+      "name": "SUNSET BLVD",
+      "url": "https://open.spotify.com/track/3rW0QUNJRgzXLVCvML6uZM"
     },
     {
       "added_at": "2024-09-12 23:00:00",
@@ -395,6 +391,26 @@
     {
       "added_at": "2024-09-12 23:00:00",
       "album": {
+        "name": "MET YOU AT A BAR",
+        "url": "https://open.spotify.com/album/5XFDNmKIETmCv4YabIQRHP"
+      },
+      "artists": [
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        },
+        {
+          "name": "Tone Stith",
+          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
+        }
+      ],
+      "duration_ms": 160941,
+      "name": "MET YOU AT A BAR",
+      "url": "https://open.spotify.com/track/1tqDKxcXd2dlni26L3BGQ3"
+    },
+    {
+      "added_at": "2024-09-12 23:00:00",
+      "album": {
         "name": "Vitamins",
         "url": "https://open.spotify.com/album/7i9RLUQeVGAyonCjKDrP12"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 181290,
       "name": "Gave You My All",
       "url": "https://open.spotify.com/track/2WEgOHRhsCMNiV4qcWNxAX"
-    },
-    {
-      "added_at": "2024-09-12 23:00:00",
-      "album": {
-        "name": "SUNSET BLVD",
-        "url": "https://open.spotify.com/album/7KHNgbzkWGvK13wzjvUCig"
-      },
-      "artists": [
-        {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
-        }
-      ],
-      "duration_ms": 159131,
-      "name": "SUNSET BLVD",
-      "url": "https://open.spotify.com/track/3rW0QUNJRgzXLVCvML6uZM"
     },
     {
       "added_at": "2024-09-12 23:00:00",
@@ -515,6 +515,26 @@
       "duration_ms": 250769,
       "name": "RASTA PASTA (ft. Masego)",
       "url": "https://open.spotify.com/track/6jmc9xnc6QdM5x2Uj04T6m"
+    },
+    {
+      "added_at": "2024-09-12 23:00:00",
+      "album": {
+        "name": "TEQUILA",
+        "url": "https://open.spotify.com/album/5zpxn2BLJyQ9gZcKfKq8RX"
+      },
+      "artists": [
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        },
+        {
+          "name": "Reekado Banks",
+          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "TEQUILA",
+      "url": "https://open.spotify.com/track/3meLEmr860diy8furP4Bff"
     },
     {
       "added_at": "2024-09-12 23:00:00",
@@ -611,26 +631,6 @@
     {
       "added_at": "2024-09-12 23:00:00",
       "album": {
-        "name": "TEQUILA",
-        "url": "https://open.spotify.com/album/5zpxn2BLJyQ9gZcKfKq8RX"
-      },
-      "artists": [
-        {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
-        },
-        {
-          "name": "Reekado Banks",
-          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "TEQUILA",
-      "url": "https://open.spotify.com/track/3meLEmr860diy8furP4Bff"
-    },
-    {
-      "added_at": "2024-09-12 23:00:00",
-      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/6oNqp5To5PeNL5VLGGoHSB"
       },
@@ -699,6 +699,26 @@
       "duration_ms": 193684,
       "name": "No Bad Energy",
       "url": "https://open.spotify.com/track/4RuCu5EaKXY60YcOzdLZYt"
+    },
+    {
+      "added_at": "2024-09-12 23:00:00",
+      "album": {
+        "name": "CHILL ON ME",
+        "url": "https://open.spotify.com/album/1amVbKXct9YO5r2q7KK242"
+      },
+      "artists": [
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        },
+        {
+          "name": "June Freedom",
+          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
+        }
+      ],
+      "duration_ms": 215544,
+      "name": "CHILL ON ME",
+      "url": "https://open.spotify.com/track/31DeTEQ3Y8G0I7DmwqLusq"
     },
     {
       "added_at": "2024-09-12 23:00:00",
@@ -775,22 +795,22 @@
     {
       "added_at": "2024-09-12 23:00:00",
       "album": {
-        "name": "CHILL ON ME",
-        "url": "https://open.spotify.com/album/1amVbKXct9YO5r2q7KK242"
+        "name": "6 Feet Down",
+        "url": "https://open.spotify.com/album/6i93wnZ5LMF7g7mBgYGF3V"
       },
       "artists": [
         {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+          "name": "Tara Lily",
+          "url": "https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy"
         },
         {
-          "name": "June Freedom",
-          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
         }
       ],
-      "duration_ms": 215544,
-      "name": "CHILL ON ME",
-      "url": "https://open.spotify.com/track/31DeTEQ3Y8G0I7DmwqLusq"
+      "duration_ms": 168500,
+      "name": "6 Feet Down",
+      "url": "https://open.spotify.com/track/702iObycXld7AL2LQpTpUc"
     },
     {
       "added_at": "2024-09-12 23:00:00",
@@ -811,22 +831,22 @@
     {
       "added_at": "2024-09-12 23:00:00",
       "album": {
-        "name": "6 Feet Down",
-        "url": "https://open.spotify.com/album/6i93wnZ5LMF7g7mBgYGF3V"
+        "name": "Tell Jimmy I'm fine",
+        "url": "https://open.spotify.com/album/4LGyLyBYD059xQ1xsqzJ9N"
       },
       "artists": [
         {
-          "name": "Tara Lily",
-          "url": "https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy"
+          "name": "Pip Millett",
+          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
         },
         {
-          "name": "Theo Croker",
-          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
         }
       ],
-      "duration_ms": 168500,
-      "name": "6 Feet Down",
-      "url": "https://open.spotify.com/track/702iObycXld7AL2LQpTpUc"
+      "duration_ms": 187396,
+      "name": "Have your babies",
+      "url": "https://open.spotify.com/track/11pUhRUIkMIeSTVktv6ddL"
     },
     {
       "added_at": "2024-09-12 23:00:00",
@@ -863,6 +883,26 @@
     {
       "added_at": "2024-09-12 23:00:00",
       "album": {
+        "name": "NICE GIRLS",
+        "url": "https://open.spotify.com/album/65uwLNSqRZhRMMilQnb7lm"
+      },
+      "artists": [
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        },
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 149538,
+      "name": "NICE GIRLS",
+      "url": "https://open.spotify.com/track/30JrG6H4yDSDyLPStS69CG"
+    },
+    {
+      "added_at": "2024-09-12 23:00:00",
+      "album": {
         "name": "Boundaries",
         "url": "https://open.spotify.com/album/2UmzFdvxHsHnO7ZhIdvSzp"
       },
@@ -875,26 +915,6 @@
       "duration_ms": 161773,
       "name": "Unfamiliar",
       "url": "https://open.spotify.com/track/2du9UaU0EwtkVr7zfpq5QK"
-    },
-    {
-      "added_at": "2024-09-12 23:00:00",
-      "album": {
-        "name": "Tell Jimmy I'm fine",
-        "url": "https://open.spotify.com/album/4LGyLyBYD059xQ1xsqzJ9N"
-      },
-      "artists": [
-        {
-          "name": "Pip Millett",
-          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
-        },
-        {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
-        }
-      ],
-      "duration_ms": 187396,
-      "name": "Have your babies",
-      "url": "https://open.spotify.com/track/11pUhRUIkMIeSTVktv6ddL"
     },
     {
       "added_at": "2024-09-12 23:00:00",
@@ -915,22 +935,6 @@
     {
       "added_at": "2024-09-12 23:00:00",
       "album": {
-        "name": "25!",
-        "url": "https://open.spotify.com/album/5LUwpHUf8ba46od1ru404A"
-      },
-      "artists": [
-        {
-          "name": "Hamzaa",
-          "url": "https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs"
-        }
-      ],
-      "duration_ms": 129623,
-      "name": "25!",
-      "url": "https://open.spotify.com/track/0bxpbu9nyLiWVEoAB40hlz"
-    },
-    {
-      "added_at": "2024-09-12 23:00:00",
-      "album": {
         "name": "I Wanna",
         "url": "https://open.spotify.com/album/0sZxfPTPYUQ7tCmCjyiWy0"
       },
@@ -947,22 +951,18 @@
     {
       "added_at": "2024-09-12 23:00:00",
       "album": {
-        "name": "NICE GIRLS",
-        "url": "https://open.spotify.com/album/65uwLNSqRZhRMMilQnb7lm"
+        "name": "25!",
+        "url": "https://open.spotify.com/album/5LUwpHUf8ba46od1ru404A"
       },
       "artists": [
         {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
-        },
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+          "name": "Hamzaa",
+          "url": "https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs"
         }
       ],
-      "duration_ms": 149538,
-      "name": "NICE GIRLS",
-      "url": "https://open.spotify.com/track/30JrG6H4yDSDyLPStS69CG"
+      "duration_ms": 129623,
+      "name": "25!",
+      "url": "https://open.spotify.com/track/0bxpbu9nyLiWVEoAB40hlz"
     },
     {
       "added_at": "2024-09-12 23:00:00",

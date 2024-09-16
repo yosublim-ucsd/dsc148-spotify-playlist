@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Duckwrth
 
-1,292 songs - 2 day 20 hr 16 min
+1,293 songs - 2 day 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Big Brown Eyes \(feat\. Orion Sun\)](https://open.spotify.com/track/0Bo4PwDaG1wBfV4Syj14Xe) | [Nascent](https://open.spotify.com/artist/5727wMPGcNsG22DBboWpX6), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Big Brown Eyes \(feat\. Orion Sun\)](https://open.spotify.com/album/0gsgJuKn4UyUWmResKGKWu) | 3:04 | 2024-03-01 |  |
 | [Biking](https://open.spotify.com/track/2LAhOlxPHwpsxKi74FXi7O) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Biking](https://open.spotify.com/album/2NsIuJ6GalDZSyaRntN0ad) | 2:50 | 2024-09-06 |  |
 | [BILL$ \(SPED UP\)](https://open.spotify.com/track/4zworCuBwlCfrkcFWCRaIo) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [IN THE AIR/BILL$ \(SPED UP\)](https://open.spotify.com/album/7CBAUpy4gg6DkJsNAfBf58) | 2:00 | 2022-09-09 | 2023-02-18 |
+| [birds, bees](https://open.spotify.com/track/7fIHFXaxaFZ9TLxdZeYIRD) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Pointy Heights](https://open.spotify.com/album/7KonH0i4kmFvTrYbeIQts2) | 2:55 | 2024-09-13 |  |
 | [Bitch Don't Be Mad](https://open.spotify.com/track/24WhLBcWByvFMrt8NNQ0ax) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Habits](https://open.spotify.com/album/710KCDvLyaTZS6NHNw9URq) | 3:05 | 2021-04-30 | 2022-08-06 |
 | [Bitches Be \(with Jst Ray\)](https://open.spotify.com/track/24CY4TWscXoyZRrmsQdiq1) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Jst Ray](https://open.spotify.com/artist/4A2ptrgQSJtQrbfltEpoCR) | [she / her / black bitch](https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb) | 3:24 | 2022-08-05 | 2022-10-30 |
 | [Black Goose](https://open.spotify.com/track/42twCm34xVG0EQexL1BuPm) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [Black Goose](https://open.spotify.com/album/4QaBlPW42jSyeOv5dLg6pv) | 2:33 | 2023-10-06 | 2023-11-05 |
@@ -825,7 +826,7 @@
 | [Outta This World](https://open.spotify.com/track/7G07BhMd2IrDD23C0MHsww) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Outta This World](https://open.spotify.com/album/4AQJLbmwplWDQ5KvU4WJFG) | 2:45 | 2022-04-01 | 2022-08-13 |
 | [Palm Wine Dreamz](https://open.spotify.com/track/5aYuMcDrdKnfj9rjfKGeWW) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Palm Wine Dreamz](https://open.spotify.com/album/5oqMDtxSMqki1Kr2P3qr1b) | 3:51 | 2022-10-14 | 2022-10-29 |
 | [Paper Thin](https://open.spotify.com/track/1rV59uezLaLErSyjNHPhTJ) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Paper Thin](https://open.spotify.com/album/33fybrWr3dFLVT8ZViCSc7) | 4:58 | 2022-04-01 | 2022-04-14 |
-| [Paper Tigers](https://open.spotify.com/track/5eE5yG2wQW9xGuyPLqXygs) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Paper Tigers](https://open.spotify.com/album/6IUhzw8ZEYb9zhlSrJszVS) | 3:32 | 2024-05-03 |  |
+| [Paper Tigers](https://open.spotify.com/track/5eE5yG2wQW9xGuyPLqXygs) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Paper Tigers](https://open.spotify.com/album/6IUhzw8ZEYb9zhlSrJszVS) | 3:32 | 2024-05-03 | 2024-09-16 |
 | [paralyzed](https://open.spotify.com/track/5mJN7OPMym5RU7iODPV7SL) | [Souly Had](https://open.spotify.com/artist/20WmX0l9JgOpehDOAXY6iO) | [paralyzed](https://open.spotify.com/album/2pLMdZ6fSfEHkduFOLmZp9) | 2:01 | 2023-12-01 | 2024-06-29 |
 | [Paranoid](https://open.spotify.com/track/6j8HM3EDv4QQSq4M9cd0dY) | [Lani Rose](https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb) | [Paranoid](https://open.spotify.com/album/7JOv3QfjZAvwXUsUFoxI9N) | 3:21 | 2021-05-14 | 2022-04-15 |
 | [Parmesan](https://open.spotify.com/track/37d0TegvP0JpoAQcclpL3b) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3) | [Parmesan](https://open.spotify.com/album/2zPNCcIG1HfKJqXwubxbgW) | 2:38 | 2021-09-10 | 2022-06-27 |

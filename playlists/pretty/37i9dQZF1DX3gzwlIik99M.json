@@ -1,6 +1,6 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 204677,
+  "num_followers": 204678,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Arise",
-        "url": "https://open.spotify.com/album/7hgWmH16eu70yqrg5Pc3SM"
-      },
-      "artists": [
-        {
-          "name": "Sepultura",
-          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
-        }
-      ],
-      "duration_ms": 401413,
-      "name": "Desperate Cry",
-      "url": "https://open.spotify.com/track/3PWgD7Gk14tGxHIEK8PQ6o"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
         "name": "El Llamado de la Hembra",
         "url": "https://open.spotify.com/album/3SBJ4lkddKaLQ3tL57llOa"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 286653,
       "name": "Pueblo Motoquero",
       "url": "https://open.spotify.com/track/3Qwk2xcvEh6VDp5QiKdmS4"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
+        "name": "Arise",
+        "url": "https://open.spotify.com/album/7hgWmH16eu70yqrg5Pc3SM"
+      },
+      "artists": [
+        {
+          "name": "Sepultura",
+          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+        }
+      ],
+      "duration_ms": 401413,
+      "name": "Desperate Cry",
+      "url": "https://open.spotify.com/track/3PWgD7Gk14tGxHIEK8PQ6o"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Beneath the Remains",
-        "url": "https://open.spotify.com/album/3BDZvMYxZ6E8IuSQL2ew6Z"
-      },
-      "artists": [
-        {
-          "name": "Sepultura",
-          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
-        }
-      ],
-      "duration_ms": 265853,
-      "name": "Mass Hypnosis",
-      "url": "https://open.spotify.com/track/4NcNgZPCLDmOQQKnHvQ3w7"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
         "name": "Por Tu Honor",
         "url": "https://open.spotify.com/album/139KGXxHg2hwbNrHrCfU12"
       },
@@ -431,6 +415,22 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
+        "name": "Beneath the Remains",
+        "url": "https://open.spotify.com/album/3BDZvMYxZ6E8IuSQL2ew6Z"
+      },
+      "artists": [
+        {
+          "name": "Sepultura",
+          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+        }
+      ],
+      "duration_ms": 265853,
+      "name": "Mass Hypnosis",
+      "url": "https://open.spotify.com/track/4NcNgZPCLDmOQQKnHvQ3w7"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
         "name": "Acero",
         "url": "https://open.spotify.com/album/4HwQsHeVEPhMYyH49mMy2q"
       },
@@ -463,18 +463,18 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Blood-Rooted",
-        "url": "https://open.spotify.com/album/1FS91DJzXoWcl8p6AK0CYG"
+        "name": "Bajo la Cruz",
+        "url": "https://open.spotify.com/album/66dGx46zunw5g7zcaAJ2Fj"
       },
       "artists": [
         {
-          "name": "Sepultura",
-          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+          "name": "L\u00f6rihen",
+          "url": "https://open.spotify.com/artist/4HgUPVt7LhvdpUbZhmotgx"
         }
       ],
-      "duration_ms": 107693,
-      "name": "Policia",
-      "url": "https://open.spotify.com/track/56EDO4Z7CDAbFRHYRjZOmd"
+      "duration_ms": 295263,
+      "name": "Vida Eterna",
+      "url": "https://open.spotify.com/track/14nEPCQLWtMqV4uE1cRHFv"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -491,22 +491,6 @@
       "duration_ms": 71000,
       "name": "Sigo Siendo El Rey",
       "url": "https://open.spotify.com/track/1AFJELZeaTThbCeiGdgJhJ"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
-        "name": "Bajo la Cruz",
-        "url": "https://open.spotify.com/album/66dGx46zunw5g7zcaAJ2Fj"
-      },
-      "artists": [
-        {
-          "name": "L\u00f6rihen",
-          "url": "https://open.spotify.com/artist/4HgUPVt7LhvdpUbZhmotgx"
-        }
-      ],
-      "duration_ms": 295263,
-      "name": "Vida Eterna",
-      "url": "https://open.spotify.com/track/14nEPCQLWtMqV4uE1cRHFv"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -555,6 +539,22 @@
       "duration_ms": 218729,
       "name": "Castigador por Herencia",
       "url": "https://open.spotify.com/track/50YRa66db8G4ASXnqww06C"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
+        "name": "Blood-Rooted",
+        "url": "https://open.spotify.com/album/1FS91DJzXoWcl8p6AK0CYG"
+      },
+      "artists": [
+        {
+          "name": "Sepultura",
+          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+        }
+      ],
+      "duration_ms": 107693,
+      "name": "Policia",
+      "url": "https://open.spotify.com/track/56EDO4Z7CDAbFRHYRjZOmd"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Los Cantipuercos",
-        "url": "https://open.spotify.com/album/3kP7B2rRjs3m95HJHKlsjw"
-      },
-      "artists": [
-        {
-          "name": "Cuentos de los Hermanos Grind",
-          "url": "https://open.spotify.com/artist/05q0fmz5AnwuIilO7PxfbC"
-        }
-      ],
-      "duration_ms": 180693,
-      "name": "La Caperuputa y el Lobo Culi\u00f3n",
-      "url": "https://open.spotify.com/track/1zJZ9w43qRt85xZQNsgo9Y"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
         "name": "Dead Soul",
         "url": "https://open.spotify.com/album/2vW8nOEvd85a5Uz4u6qjcS"
       },
@@ -787,22 +771,18 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "From the Abyss",
-        "url": "https://open.spotify.com/album/1up9xpJ5f7Ke9lx0l3h5IE"
+        "name": "Los Cantipuercos",
+        "url": "https://open.spotify.com/album/3kP7B2rRjs3m95HJHKlsjw"
       },
       "artists": [
         {
-          "name": "Eshtadur",
-          "url": "https://open.spotify.com/artist/0IdWx63RAlOm5W5iOKPesn"
-        },
-        {
-          "name": "Richie Brown",
-          "url": "https://open.spotify.com/artist/3MzRiq8AdUqLiw2Fa17B7X"
+          "name": "Cuentos de los Hermanos Grind",
+          "url": "https://open.spotify.com/artist/05q0fmz5AnwuIilO7PxfbC"
         }
       ],
-      "duration_ms": 328800,
-      "name": "Lowborn Bastard",
-      "url": "https://open.spotify.com/track/1ntMUjQ5GPR8PdvPzzWKwd"
+      "duration_ms": 180693,
+      "name": "La Caperuputa y el Lobo Culi\u00f3n",
+      "url": "https://open.spotify.com/track/1zJZ9w43qRt85xZQNsgo9Y"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -819,6 +799,22 @@
       "duration_ms": 160106,
       "name": "Hoy Podes Pudrirte",
       "url": "https://open.spotify.com/track/4taoA7P7oh1whE2Z4EHJGc"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
+        "name": "Toca Madera",
+        "url": "https://open.spotify.com/album/4PDGOiVAnuuOS9L1RSZHY1"
+      },
+      "artists": [
+        {
+          "name": "Panzer",
+          "url": "https://open.spotify.com/artist/1tH9rZBW0zADWX6ZJP0v9N"
+        }
+      ],
+      "duration_ms": 211426,
+      "name": "Toca Madera",
+      "url": "https://open.spotify.com/track/6UhKwPu6inXi1dCSYjONfm"
     }
   ],
   "unique_name": "Metal del Nuestro",

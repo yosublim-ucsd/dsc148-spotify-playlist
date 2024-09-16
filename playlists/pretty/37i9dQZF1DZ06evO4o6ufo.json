@@ -1,12 +1,12 @@
 {
   "description": "This is Panter B\u00e9lico. The essential tracks, all in one playlist.",
-  "num_followers": 65659,
+  "num_followers": 65738,
   "original_name": "This Is Panter B\u00e9lico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuOAgAAAAACIWAekMTrFzid6Y34GBTRo",
+  "snapshot_id": "ZuTSAAAAAAC/RQiiI+BldCfml3WBSG9B",
   "tracks": [
     {
       "added_at": null,
@@ -111,22 +111,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cedo la Palabra",
-        "url": "https://open.spotify.com/album/3hCE0IRBPUcgQ7FI2u3TaG"
+        "name": "Borracho Enamorado",
+        "url": "https://open.spotify.com/album/0sr6urbaaWIMexVmk97TZK"
       },
       "artists": [
         {
-          "name": "Los Varones de Culiacan",
-          "url": "https://open.spotify.com/artist/3Bz4vStA4p6jwPXL6SDZ9d"
+          "name": "El Frizian",
+          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
         },
         {
           "name": "Panter B\u00e9lico",
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 180046,
-      "name": "Cedo la Palabra",
-      "url": "https://open.spotify.com/track/4aaQNd15yoMaTIghRfB8gj"
+      "duration_ms": 152776,
+      "name": "Borracho Enamorado",
+      "url": "https://open.spotify.com/track/6VcVBZ2b43kiDO6rQxmsYO"
     },
     {
       "added_at": null,
@@ -147,22 +147,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Borracho Enamorado",
-        "url": "https://open.spotify.com/album/0sr6urbaaWIMexVmk97TZK"
+        "name": "Cedo la Palabra",
+        "url": "https://open.spotify.com/album/3hCE0IRBPUcgQ7FI2u3TaG"
       },
       "artists": [
         {
-          "name": "El Frizian",
-          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
+          "name": "Los Varones de Culiacan",
+          "url": "https://open.spotify.com/artist/3Bz4vStA4p6jwPXL6SDZ9d"
         },
         {
           "name": "Panter B\u00e9lico",
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 152776,
-      "name": "Borracho Enamorado",
-      "url": "https://open.spotify.com/track/6VcVBZ2b43kiDO6rQxmsYO"
+      "duration_ms": 180046,
+      "name": "Cedo la Palabra",
+      "url": "https://open.spotify.com/track/4aaQNd15yoMaTIghRfB8gj"
     },
     {
       "added_at": null,
@@ -675,22 +675,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Culiac\u00e1n Deluxe (En Vivo)",
-        "url": "https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf"
+        "name": "Los Demonios (En Vivo)",
+        "url": "https://open.spotify.com/album/7qzPlne2yGnopoGcf6OnId"
       },
       "artists": [
         {
-          "name": "La Ventaja",
-          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
         },
         {
           "name": "Panter B\u00e9lico",
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 219174,
-      "name": "El Pistolero (En Vivo)",
-      "url": "https://open.spotify.com/track/4BQ4yefJv2VJNj6brqANze"
+      "duration_ms": 242227,
+      "name": "Los Demonios (En Vivo)",
+      "url": "https://open.spotify.com/track/1UTl1hclRcbFrQxQbq4Ocy"
     },
     {
       "added_at": null,
@@ -715,6 +715,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Culiac\u00e1n Deluxe (En Vivo)",
+        "url": "https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf"
+      },
+      "artists": [
+        {
+          "name": "La Ventaja",
+          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
+        },
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 219174,
+      "name": "El Pistolero (En Vivo)",
+      "url": "https://open.spotify.com/track/4BQ4yefJv2VJNj6brqANze"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En Acci\u00f3n",
         "url": "https://open.spotify.com/album/58jYWbYJ7HK7NoLvGWLnkO"
       },
@@ -735,26 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Demonios (En Vivo)",
-        "url": "https://open.spotify.com/album/7qzPlne2yGnopoGcf6OnId"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres Del Barranco",
-          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
-        },
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 242227,
-      "name": "Los Demonios (En Vivo)",
-      "url": "https://open.spotify.com/track/1UTl1hclRcbFrQxQbq4Ocy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
         "url": "https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR"
       },
@@ -771,22 +771,6 @@
       "duration_ms": 155991,
       "name": "El Compa Koki (En Vivo)",
       "url": "https://open.spotify.com/track/69778UGlmKlyVTkMkC9YvC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Mexicano",
-        "url": "https://open.spotify.com/album/4ELsblwZ6Dh4jEGbmI6NMl"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 203632,
-      "name": "Ac\u00e1 Entre Nos",
-      "url": "https://open.spotify.com/track/6EkflBPiKJi7JYfKq6Zpp9"
     },
     {
       "added_at": null,
@@ -827,6 +811,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Mexicano",
+        "url": "https://open.spotify.com/album/4ELsblwZ6Dh4jEGbmI6NMl"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 203632,
+      "name": "Ac\u00e1 Entre Nos",
+      "url": "https://open.spotify.com/track/6EkflBPiKJi7JYfKq6Zpp9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
         "url": "https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR"
       },
@@ -839,22 +839,6 @@
       "duration_ms": 178175,
       "name": "El Puente Roto (En Vivo)",
       "url": "https://open.spotify.com/track/7exNpJsnVhoErwT2wvO1AY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Mexicano",
-        "url": "https://open.spotify.com/album/4ELsblwZ6Dh4jEGbmI6NMl"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 174422,
-      "name": "La Ley Del Monte",
-      "url": "https://open.spotify.com/track/5EPXydzAN5pEXarJiqX4hn"
     },
     {
       "added_at": null,
@@ -895,6 +879,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Mexicano",
+        "url": "https://open.spotify.com/album/4ELsblwZ6Dh4jEGbmI6NMl"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 174422,
+      "name": "La Ley Del Monte",
+      "url": "https://open.spotify.com/track/5EPXydzAN5pEXarJiqX4hn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
         "url": "https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR"
       },
@@ -907,22 +907,6 @@
       "duration_ms": 155688,
       "name": "El Encuentro (En Vivo)",
       "url": "https://open.spotify.com/track/1D3OhGcH2CEdfIQn91LF8q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Mexicano",
-        "url": "https://open.spotify.com/album/4ELsblwZ6Dh4jEGbmI6NMl"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 132637,
-      "name": "El Rey",
-      "url": "https://open.spotify.com/track/0yRpco279sej0ajW7c7RZX"
     },
     {
       "added_at": null,
@@ -943,6 +927,26 @@
       "duration_ms": 157646,
       "name": "Pa' Morir Nacimos",
       "url": "https://open.spotify.com/track/2Fm2gfDFrrCMamS2pvOILQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Popurr\u00ed: La Muerte de Manuelon / El \u00c1rbol",
+        "url": "https://open.spotify.com/album/61EXPkgwfysplYrG10cgUK"
+      },
+      "artists": [
+        {
+          "name": "Mario \"El Cachorro\" Delgado",
+          "url": "https://open.spotify.com/artist/2C6aTaybjOqqtdTxKx8xTX"
+        },
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 496138,
+      "name": "Popurr\u00ed: La Muerte de Manuelon / El \u00c1rbol",
+      "url": "https://open.spotify.com/track/6RShqonMgBX0XRPtG7O2Am"
     }
   ],
   "unique_name": "This Is Panter B\u00e9lico",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRY0LMLy8wEU.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7GbHglX84yopo1gvURMV0X">Lindy Cofer</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26 likes - 28 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 25 likes - 29 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRY0LMLy8wEU.md) - [plain]
 | 24 | [It Is Written \- Live](https://open.spotify.com/track/1OeByuvv5fVL9hxEVhtb0P) | [Women Who Worship](https://open.spotify.com/artist/7JHvic6eP3yMrUCrRFtdbp), [Worship Together](https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Eniola Abioye](https://open.spotify.com/artist/0vUp0HrA2d7mcExuf5Wbo6) | [Women Who Worship \(Live\)](https://open.spotify.com/album/58A73mFc94fFlVhbX31Bf9) | 8:04 |
 | 25 | [We Say Yes](https://open.spotify.com/track/41Fkr5t1sCWtgfXiRI525y) | [Tito & Jessica Tosado](https://open.spotify.com/artist/09H2m7JYzvkXyvyaItqE6p) | [Victorious](https://open.spotify.com/album/7fgEWRYDoWFpRvkV0JPWcI) | 6:24 |
 | 26 | [Nothing You Can't Do](https://open.spotify.com/track/5ElLO48oy2MmZaCUImxEb7) | [Sean Feucht](https://open.spotify.com/artist/3DJuBJtjHdjAXlpIZCltTR) | [Let Us Worship \- Philadelphia](https://open.spotify.com/album/2JHJVdpsoO32fQq1xVDIDS) | 5:36 |
-| 27 | [I Say Yes](https://open.spotify.com/track/4cl5wJGNPFG8JCMuV0nrSc) | [Kyle & Lauren Smith](https://open.spotify.com/artist/2QQVbCqlBTX8dADl321HGM) | [Kyle & Lauren Smith](https://open.spotify.com/album/66jZaiCUO5d3hLz4U2MJ89) | 7:42 |
-| 28 | [Jesus the Beloved](https://open.spotify.com/track/6F3qYlwI29KXV8ONsVfWpK) | [TON Piano](https://open.spotify.com/artist/6UZdfxjhzXPhX6V6RSIMsX) | [Jesus the Beloved](https://open.spotify.com/album/1qrjT2tDne3bCcKa1Idj50) | 5:50 |
+| 27 | [Yes Again](https://open.spotify.com/track/2l6bRgJWeWbt3uNDPCRGdk) | [Darlene Zschech](https://open.spotify.com/artist/6ZLy8YFk7VbamsI5qbYXtw), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [Testament](https://open.spotify.com/album/5IKHrXR0XVGtkKgtaNvPks) | 5:58 |
+| 28 | [I Say Yes](https://open.spotify.com/track/4cl5wJGNPFG8JCMuV0nrSc) | [Kyle & Lauren Smith](https://open.spotify.com/artist/2QQVbCqlBTX8dADl321HGM) | [Kyle & Lauren Smith](https://open.spotify.com/album/66jZaiCUO5d3hLz4U2MJ89) | 7:42 |
+| 29 | [Jesus the Beloved](https://open.spotify.com/track/6F3qYlwI29KXV8ONsVfWpK) | [TON Piano](https://open.spotify.com/artist/6UZdfxjhzXPhX6V6RSIMsX) | [Jesus the Beloved](https://open.spotify.com/album/1qrjT2tDne3bCcKa1Idj50) | 5:50 |
 
-Snapshot ID: `AbcJ1QAAAABxm7AI7Q1vnF8YjJRPT2EJ`
+Snapshot ID: `AbcPiAAAAACm6kU7Uz5zF/nJFWF+Sbk0`
