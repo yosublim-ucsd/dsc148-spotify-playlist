@@ -6,7 +6,7 @@
     "name": "Zero625",
     "url": "https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm"
   },
-  "snapshot_id": "AAAAC3apQwggeGmSkKxVNXvoniIb04oJ",
+  "snapshot_id": "AAAADRLJSJdswV6rBpEEX64OH2gFhGvF",
   "tracks": [
     {
       "added_at": "2024-01-02 09:29:56",
@@ -135,6 +135,38 @@
       "duration_ms": 265773,
       "name": "Dude (Looks Like A Lady)",
       "url": "https://open.spotify.com/track/6gQUbFwwdYXlKdmqRoWKJe"
+    },
+    {
+      "added_at": "2024-09-16 08:43:38",
+      "album": {
+        "name": "Honey Moonshine",
+        "url": "https://open.spotify.com/album/5Aws1xUnOX5M0rBlJYa5nR"
+      },
+      "artists": [
+        {
+          "name": "The Haunted Windchimes",
+          "url": "https://open.spotify.com/artist/2f61F4arCAsrcU08xPxjV2"
+        }
+      ],
+      "duration_ms": 220786,
+      "name": "Sea Bride",
+      "url": "https://open.spotify.com/track/67sVehhDyuR9fztPByvCHn"
+    },
+    {
+      "added_at": "2024-09-16 23:01:49",
+      "album": {
+        "name": "Touch Up",
+        "url": "https://open.spotify.com/album/391bN6K5GtiVruKSrjQjL2"
+      },
+      "artists": [
+        {
+          "name": "Mother Mother",
+          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
+        }
+      ],
+      "duration_ms": 168320,
+      "name": "Verbatim",
+      "url": "https://open.spotify.com/track/4IA6pgGRmqfxWGAfyZ8cgR"
     }
   ],
   "unique_name": "Queerly Beloved",

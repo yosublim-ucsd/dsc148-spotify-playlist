@@ -1,13 +1,37 @@
 {
   "description": "The best of today's funk. Cover: MonoNeon",
-  "num_followers": 330428,
+  "num_followers": 330536,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtFDwAAAAABN0qG74yPLAlM+/C1y9NDw",
+  "snapshot_id": "Zuhm8QAAAADqOQNN95AlvlHq89z+9FUg",
   "tracks": [
+    {
+      "added_at": "2024-09-16 17:12:17",
+      "album": {
+        "name": "Disco Nights",
+        "url": "https://open.spotify.com/album/393ujegMe0hYDFSeNupT9p"
+      },
+      "artists": [
+        {
+          "name": "Jafunk",
+          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
+        },
+        {
+          "name": "Triple H Horns",
+          "url": "https://open.spotify.com/artist/1f1nzGebbDWyIsnKpKqqVN"
+        },
+        {
+          "name": "Yogi",
+          "url": "https://open.spotify.com/artist/5B9P0p88CmlArc27XLyRnB"
+        }
+      ],
+      "duration_ms": 181500,
+      "name": "New Way",
+      "url": "https://open.spotify.com/track/11H4y3J3uZiTRMKLQCcmSD"
+    },
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
@@ -59,30 +83,6 @@
       "duration_ms": 181399,
       "name": "Can\u2019t Explain This Love",
       "url": "https://open.spotify.com/track/6VhWAlezdLAky4AlWsXVx4"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Into the Night",
-        "url": "https://open.spotify.com/album/5rX9FsDuGiUXGdZnklcgQn"
-      },
-      "artists": [
-        {
-          "name": "Jafunk",
-          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
-        },
-        {
-          "name": "Triple H Horns",
-          "url": "https://open.spotify.com/artist/1f1nzGebbDWyIsnKpKqqVN"
-        },
-        {
-          "name": "Stefan Mahendra",
-          "url": "https://open.spotify.com/artist/17lfIZ8ozwR7vDYqRdr8UF"
-        }
-      ],
-      "duration_ms": 233385,
-      "name": "Into the Night",
-      "url": "https://open.spotify.com/track/7GStnyZffPUZaJpe27bmDx"
     },
     {
       "added_at": "2024-07-01 15:12:38",
@@ -139,6 +139,30 @@
       "duration_ms": 98181,
       "name": "Move Your Body",
       "url": "https://open.spotify.com/track/1ykn3V2Mv2JhE8dkDAbWji"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Into the Night",
+        "url": "https://open.spotify.com/album/5rX9FsDuGiUXGdZnklcgQn"
+      },
+      "artists": [
+        {
+          "name": "Jafunk",
+          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
+        },
+        {
+          "name": "Triple H Horns",
+          "url": "https://open.spotify.com/artist/1f1nzGebbDWyIsnKpKqqVN"
+        },
+        {
+          "name": "Stefan Mahendra",
+          "url": "https://open.spotify.com/artist/17lfIZ8ozwR7vDYqRdr8UF"
+        }
+      ],
+      "duration_ms": 233385,
+      "name": "Into the Night",
+      "url": "https://open.spotify.com/track/7GStnyZffPUZaJpe27bmDx"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -231,30 +255,6 @@
       "duration_ms": 282315,
       "name": "Queen",
       "url": "https://open.spotify.com/track/0t6qpXXwi9Mev4m2DaYr0D"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Yellow Daze",
-        "url": "https://open.spotify.com/album/5nrHNWI8YfZYzdFtVN973m"
-      },
-      "artists": [
-        {
-          "name": "Jafunk",
-          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
-        },
-        {
-          "name": "Triple H Horns",
-          "url": "https://open.spotify.com/artist/1f1nzGebbDWyIsnKpKqqVN"
-        },
-        {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
-        }
-      ],
-      "duration_ms": 177645,
-      "name": "Yellow Daze",
-      "url": "https://open.spotify.com/track/1MeoURhRLribQiy7BZReBV"
     },
     {
       "added_at": "2024-06-14 04:00:00",

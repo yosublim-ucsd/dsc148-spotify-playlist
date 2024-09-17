@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Out With the Crow",
+        "url": "https://open.spotify.com/album/1nbXKbgWArwy2KuLItW6qh"
+      },
+      "artists": [
+        {
+          "name": "The Haunted Windchimes",
+          "url": "https://open.spotify.com/artist/2f61F4arCAsrcU08xPxjV2"
+        }
+      ],
+      "date_added": "2024-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295960,
+      "name": "Make It Rain",
+      "url": "https://open.spotify.com/track/3m4Q0H3PIlxlBjERC7zWh2"
+    },
+    {
+      "album": {
         "name": "Bleed Out",
         "url": "https://open.spotify.com/album/20KGjm5xRROTqP0UY1EVRg"
       },

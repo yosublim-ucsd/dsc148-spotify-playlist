@@ -1314,7 +1314,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 123272,
       "name": "Atelj\u00e9 fever",
       "url": "https://open.spotify.com/track/6wjxC3J5cLHsvxkSKQGOe2"
@@ -2114,7 +2114,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 129923,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/1Ysrlbv0pgJGzTJs2rKHRa"
@@ -2536,7 +2536,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 120774,
       "name": "Breakfast at night",
       "url": "https://open.spotify.com/track/4YijVpWRynGePDCwqy9avA"
@@ -5539,6 +5539,24 @@
     },
     {
       "album": {
+        "name": "decorate",
+        "url": "https://open.spotify.com/album/3T1DwyLHdDde5oOxNGmwyt"
+      },
+      "artists": [
+        {
+          "name": "okayokay",
+          "url": "https://open.spotify.com/artist/633sZM1wdqt78ctvpVluum"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145626,
+      "name": "decorate",
+      "url": "https://open.spotify.com/track/5VlhG140Gp9NhWhS9Dky1y"
+    },
+    {
+      "album": {
         "name": "deep cracks",
         "url": "https://open.spotify.com/album/248nZk1KGE2d5Jbv9nwEfy"
       },
@@ -6073,6 +6091,24 @@
     },
     {
       "album": {
+        "name": "Dove",
+        "url": "https://open.spotify.com/album/08UlZLX299ul1lJfzylHaf"
+      },
+      "artists": [
+        {
+          "name": "Kupla",
+          "url": "https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127228,
+      "name": "Dove",
+      "url": "https://open.spotify.com/track/5s99iO6r9w8EPuH6aXDBPH"
+    },
+    {
+      "album": {
         "name": "Downpour",
         "url": "https://open.spotify.com/album/20wA5V3P3FkbJ934euFlE6"
       },
@@ -6294,7 +6330,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 110400,
       "name": "DRS Train",
       "url": "https://open.spotify.com/track/7qX1RxZ0kLJ225EyXsCC8v"
@@ -9302,7 +9338,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 116902,
       "name": "Good vs Easy",
       "url": "https://open.spotify.com/track/4Ma40kMN4c3mXWFvTMRuHx"
@@ -9426,6 +9462,24 @@
       "duration_ms": 93000,
       "name": "gravel trap",
       "url": "https://open.spotify.com/track/66yzKiMDLw08z8Oa9JlgrS"
+    },
+    {
+      "album": {
+        "name": "Gravity of Love",
+        "url": "https://open.spotify.com/album/7cL88M0zNEXKDWr7PQWFh8"
+      },
+      "artists": [
+        {
+          "name": "Kadeen B",
+          "url": "https://open.spotify.com/artist/5lK2qWZmdr8c6wUgCvZ9XV"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171560,
+      "name": "Gravity of Love",
+      "url": "https://open.spotify.com/track/4waRcANfO8zeGwZLGGmK8a"
     },
     {
       "album": {
@@ -10229,6 +10283,24 @@
     },
     {
       "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/2b4MQwic08GoiWdAoI76Q3"
+      },
+      "artists": [
+        {
+          "name": "Katashi Kait\u014d",
+          "url": "https://open.spotify.com/artist/7BDqewjn6oL3ryvHv78Wkx"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125738,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/1CcDRIoWnH19cOockC58UT"
+    },
+    {
+      "album": {
         "name": "Heartfelt",
         "url": "https://open.spotify.com/album/2a5Q5Ea0F4Oboq4hQesN7o"
       },
@@ -10808,6 +10880,24 @@
       "duration_ms": 140930,
       "name": "I G S D",
       "url": "https://open.spotify.com/track/0lhV41i2VQmivlyW6Kwnqj"
+    },
+    {
+      "album": {
+        "name": "I Just Want to Know You",
+        "url": "https://open.spotify.com/album/5CbZsUZjooxzpksZulU7DX"
+      },
+      "artists": [
+        {
+          "name": "Analog Bow",
+          "url": "https://open.spotify.com/artist/7kQ9kQ588r6INRWFlU1k1T"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "I Just Want to Know You",
+      "url": "https://open.spotify.com/track/7cBMqUyvjsRRC5RPMNPIJb"
     },
     {
       "album": {
@@ -11764,6 +11854,24 @@
       "duration_ms": 160178,
       "name": "Jatoba",
       "url": "https://open.spotify.com/track/23YwIqf1aZd62i9Cr1PwT9"
+    },
+    {
+      "album": {
+        "name": "Jazz Bulb",
+        "url": "https://open.spotify.com/album/0gpcPxNCYaOjMpvdwwbcUJ"
+      },
+      "artists": [
+        {
+          "name": "Knowsum",
+          "url": "https://open.spotify.com/artist/5n286gaq2TJok5XfBjSX7q"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81951,
+      "name": "Jazz Bulb",
+      "url": "https://open.spotify.com/track/3ZLsGN9QLlthbg68RW4N3G"
     },
     {
       "album": {
@@ -14157,6 +14265,24 @@
     },
     {
       "album": {
+        "name": "Make It",
+        "url": "https://open.spotify.com/album/4X9vWjNWlZ3qAtyDZ2ZhDj"
+      },
+      "artists": [
+        {
+          "name": "Berhanio",
+          "url": "https://open.spotify.com/artist/3ZkP4NjIpKfyaTf2hTAmkW"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118153,
+      "name": "Make It",
+      "url": "https://open.spotify.com/track/2teI76KKFE6qkpLZJs7tZ7"
+    },
+    {
+      "album": {
         "name": "Makeshift",
         "url": "https://open.spotify.com/album/6C9EiBaQNCe3hdiMs6nVS6"
       },
@@ -16280,7 +16406,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 108000,
       "name": "New Day",
       "url": "https://open.spotify.com/track/7tfPRq7O7QsyddB0LmLBhJ"
@@ -22798,7 +22924,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 133500,
       "name": "Suburbia",
       "url": "https://open.spotify.com/track/76cm105XdEKT4aVfLRmpiu"

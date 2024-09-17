@@ -1,12 +1,12 @@
 {
-  "description": "This is Harold Budd. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 5239,
+  "description": "This is Harold Budd. The essential tracks, all in one playlist.",
+  "num_followers": 5240,
   "original_name": "This Is Harold Budd",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuTSAAAAAACAG4K2Lw7XCSB0S19MwNVM",
+  "snapshot_id": "ZuYjgAAAAACOQm93lUE/8lyHZKyTZZoA",
   "tracks": [
     {
       "added_at": null,
@@ -707,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jane 12-21",
-        "url": "https://open.spotify.com/album/6RIxSz62ARCq1iXXqMRtTT"
+        "name": "La Bella Vista",
+        "url": "https://open.spotify.com/album/38mMknfb4LvKFcdbnTQ8TL"
       },
       "artists": [
         {
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 204960,
-      "name": "Jane 16 (For Pale Saints)",
-      "url": "https://open.spotify.com/track/5mIe6UMcv1iqGMnoEYYWf9"
+      "duration_ms": 120960,
+      "name": "Bell Tower",
+      "url": "https://open.spotify.com/track/1GoCV1beN8Bv6Wl4kmbMdW"
     },
     {
       "added_at": null,
@@ -739,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Bella Vista",
-        "url": "https://open.spotify.com/album/38mMknfb4LvKFcdbnTQ8TL"
+        "name": "Lovely Thunder",
+        "url": "https://open.spotify.com/album/1MUMyzhjWpYnTKjmpTF1YA"
       },
       "artists": [
         {
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 120960,
-      "name": "Bell Tower",
-      "url": "https://open.spotify.com/track/1GoCV1beN8Bv6Wl4kmbMdW"
+      "duration_ms": 208133,
+      "name": "Ice Floes In Eden",
+      "url": "https://open.spotify.com/track/5C0DGc7M86XqwMRPeusb8r"
     },
     {
       "added_at": null,
@@ -768,15 +768,15 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 93986,
-      "name": "Someone Almost There",
-      "url": "https://open.spotify.com/track/35TCHjntA1Nz3S7iZSkcur"
+      "duration_ms": 85586,
+      "name": "Arriving",
+      "url": "https://open.spotify.com/track/6hhZYB38RdXAok3StFocCK"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Lovely Thunder",
-        "url": "https://open.spotify.com/album/1MUMyzhjWpYnTKjmpTF1YA"
+        "name": "Jane 12-21",
+        "url": "https://open.spotify.com/album/6RIxSz62ARCq1iXXqMRtTT"
       },
       "artists": [
         {
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 208133,
-      "name": "Ice Floes In Eden",
-      "url": "https://open.spotify.com/track/5C0DGc7M86XqwMRPeusb8r"
+      "duration_ms": 204960,
+      "name": "Jane 16 (For Pale Saints)",
+      "url": "https://open.spotify.com/track/5mIe6UMcv1iqGMnoEYYWf9"
     },
     {
       "added_at": null,
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 85586,
-      "name": "Arriving",
-      "url": "https://open.spotify.com/track/6hhZYB38RdXAok3StFocCK"
+      "duration_ms": 161626,
+      "name": "A Change in the Weather",
+      "url": "https://open.spotify.com/track/5RczybJkJTDzxOH0iitHus"
     },
     {
       "added_at": null,
@@ -884,9 +884,9 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 222280,
-      "name": "Gaze",
-      "url": "https://open.spotify.com/track/3n0cTeF61Mg1tPsdh520Qg"
+      "duration_ms": 222760,
+      "name": "The Belles of Saint Andrew",
+      "url": "https://open.spotify.com/track/7AtA5R9G0HAkleSk9Z0kiU"
     },
     {
       "added_at": null,
@@ -904,9 +904,9 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 222760,
-      "name": "The Belles of Saint Andrew",
-      "url": "https://open.spotify.com/track/7AtA5R9G0HAkleSk9Z0kiU"
+      "duration_ms": 222280,
+      "name": "Gaze",
+      "url": "https://open.spotify.com/track/3n0cTeF61Mg1tPsdh520Qg"
     }
   ],
   "unique_name": "This Is Harold Budd",

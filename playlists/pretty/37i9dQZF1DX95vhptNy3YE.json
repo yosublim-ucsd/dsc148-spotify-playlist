@@ -1,6 +1,6 @@
 {
   "description": "Cryzin e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 375187,
+  "num_followers": 375198,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
@@ -423,34 +423,6 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
-        "name": "Vamo Marolar",
-        "url": "https://open.spotify.com/album/3oGU2np2FVq18SxoaCVQ9Z"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Palma",
-          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
-        },
-        {
-          "name": "HHR",
-          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
-        }
-      ],
-      "duration_ms": 181512,
-      "name": "Vamo Marolar",
-      "url": "https://open.spotify.com/track/6VzrPxShPXVXRLig62vl2p"
-    },
-    {
-      "added_at": "2024-09-13 03:01:00",
-      "album": {
         "name": "Avisa L\u00e1, Pt. 4",
         "url": "https://open.spotify.com/album/2Iwr0LA6hxZO7iEaH6J67j"
       },
@@ -483,6 +455,34 @@
       "duration_ms": 445000,
       "name": "Avisa L\u00e1, Pt. 4",
       "url": "https://open.spotify.com/track/0h7m2GwOZFptFrg7e7tiTn"
+    },
+    {
+      "added_at": "2024-09-13 03:01:00",
+      "album": {
+        "name": "Vamo Marolar",
+        "url": "https://open.spotify.com/album/3oGU2np2FVq18SxoaCVQ9Z"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Palma",
+          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
+        },
+        {
+          "name": "HHR",
+          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
+        }
+      ],
+      "duration_ms": 181512,
+      "name": "Vamo Marolar",
+      "url": "https://open.spotify.com/track/6VzrPxShPXVXRLig62vl2p"
     },
     {
       "added_at": "2024-09-13 03:01:00",
@@ -1339,22 +1339,22 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
-        "name": "Energia Benzadeus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3EfjvhRjvdm99Gq1IGoFK2"
+        "name": "Cora\u00e7\u00e3o e Beat",
+        "url": "https://open.spotify.com/album/28KkgrToYZdh3hxbM9rDIJ"
       },
       "artists": [
         {
-          "name": "Grupo Benzadeus",
-          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
         },
         {
-          "name": "Dilsinho",
-          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+          "name": "Perera DJ",
+          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
         }
       ],
-      "duration_ms": 153045,
-      "name": "Despedida De Solteiro - Ao Vivo",
-      "url": "https://open.spotify.com/track/0ojITFsiarLcH7qzJvseWj"
+      "duration_ms": 206769,
+      "name": "Modo Gal\u00e1tico",
+      "url": "https://open.spotify.com/track/4TjLgUP7cfLTsDt4mRDsOh"
     }
   ],
   "unique_name": "AMPLIFIKA",

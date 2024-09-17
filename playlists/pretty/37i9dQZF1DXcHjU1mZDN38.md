@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcHjU1mZDN38.md) - [plain]
 
 > This is Matt Hansen\. All the essential tunes, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,930 likes - 13 songs - 39 min 51 sec
+[Spotify](https://open.spotify.com/user/spotify) - 23,026 likes - 13 songs - 39 min 51 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

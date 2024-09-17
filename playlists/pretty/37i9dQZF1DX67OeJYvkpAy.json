@@ -1,6 +1,6 @@
 {
   "description": "the best of the deep end. cover: Stacy N.K.R.",
-  "num_followers": 89649,
+  "num_followers": 89647,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
@@ -247,6 +247,22 @@
     {
       "added_at": "2024-06-12 15:11:47",
       "album": {
+        "name": "In The Loop",
+        "url": "https://open.spotify.com/album/1ailFDm9fOYJ1gXTZf9fZS"
+      },
+      "artists": [
+        {
+          "name": "DC",
+          "url": "https://open.spotify.com/artist/6nhbYvnZfjS4KpuO0ZoZYD"
+        }
+      ],
+      "duration_ms": 195933,
+      "name": "Paro(noia)",
+      "url": "https://open.spotify.com/track/3K7mXKhaan7cLsHUg4VL2I"
+    },
+    {
+      "added_at": "2024-06-12 15:11:47",
+      "album": {
         "name": "Left Back (Remix)",
         "url": "https://open.spotify.com/album/2o0x78MDfVvBaDLhHZ3By8"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 180413,
       "name": "Left Back - Remix",
       "url": "https://open.spotify.com/track/43IYnqZj6slsFqPTmBNS4E"
-    },
-    {
-      "added_at": "2024-06-12 15:11:47",
-      "album": {
-        "name": "In The Loop",
-        "url": "https://open.spotify.com/album/1ailFDm9fOYJ1gXTZf9fZS"
-      },
-      "artists": [
-        {
-          "name": "DC",
-          "url": "https://open.spotify.com/artist/6nhbYvnZfjS4KpuO0ZoZYD"
-        }
-      ],
-      "duration_ms": 195933,
-      "name": "Paro(noia)",
-      "url": "https://open.spotify.com/track/3K7mXKhaan7cLsHUg4VL2I"
     },
     {
       "added_at": "2024-06-12 15:11:47",

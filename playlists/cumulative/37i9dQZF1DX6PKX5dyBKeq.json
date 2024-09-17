@@ -2050,7 +2050,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 150400,
       "name": "All The Thrills",
       "url": "https://open.spotify.com/track/2nZCiHNLcQihjSbTjO6MJT"
@@ -9822,6 +9822,28 @@
       "duration_ms": 133079,
       "name": "Demons - Edit",
       "url": "https://open.spotify.com/track/17e1qpIOIpM8vtIDna7IlQ"
+    },
+    {
+      "album": {
+        "name": "Demure",
+        "url": "https://open.spotify.com/album/1JjMu4LK6OkJEuRjJxXabX"
+      },
+      "artists": [
+        {
+          "name": "ArrDee",
+          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
+        },
+        {
+          "name": "LeoStayTrill",
+          "url": "https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX"
+        }
+      ],
+      "date_added": "2024-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141047,
+      "name": "Demure",
+      "url": "https://open.spotify.com/track/0Rr2gpHt1LEiVqB4lcLa8N"
     },
     {
       "album": {
@@ -29986,7 +30008,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 155395,
       "name": "RLY RLY",
       "url": "https://open.spotify.com/track/6z4rVYcNfGKCJaKPLGtabf"
@@ -35906,6 +35928,24 @@
       "duration_ms": 230243,
       "name": "Tony Soprano 2",
       "url": "https://open.spotify.com/track/5ynt5y5eAcCc1Kpl9u4MMt"
+    },
+    {
+      "album": {
+        "name": "Tony Soprano 3",
+        "url": "https://open.spotify.com/album/3tNDHapnIvSxJ30BoXFoOR"
+      },
+      "artists": [
+        {
+          "name": "Nines",
+          "url": "https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr"
+        }
+      ],
+      "date_added": "2024-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215157,
+      "name": "Tony Soprano 3",
+      "url": "https://open.spotify.com/track/0y4jUgtW1KlE9CCLxhNBZi"
     },
     {
       "album": {

@@ -1439,6 +1439,36 @@
     },
     {
       "album": {
+        "name": "Manasilaayo - From \"Vettaiyan\"",
+        "url": "https://open.spotify.com/album/1EWbkJ8zew7sXQnCbKI0Xz"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Malaysia Vasudevan",
+          "url": "https://open.spotify.com/artist/0qS0rxCY4YfrUx9GCTlDIW"
+        },
+        {
+          "name": "Deepthi Suresh",
+          "url": "https://open.spotify.com/artist/4PY2xnTu90K0hvkgcljRJl"
+        },
+        {
+          "name": "Yugendran Vasudevan",
+          "url": "https://open.spotify.com/artist/3UVLcqHc3pOMsWiZv2MeIZ"
+        }
+      ],
+      "date_added": "2024-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235629,
+      "name": "Manasilaayo (From \"Vettaiyan\")",
+      "url": "https://open.spotify.com/track/7KB0zREYCrQU3refE5x0M3"
+    },
+    {
+      "album": {
         "name": "Eeswaran (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/01o6a3aUODtx67UiWJnABf"
       },

@@ -4,7 +4,7 @@
 
 > Sit back and relax to the chillest pop\.  Cover: Knox
 
-1,918 songs - 4 day 7 hr 11 min
+1,919 songs - 4 day 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,7 +257,7 @@
 | [California and Me](https://open.spotify.com/track/768tjNAwyH3nIFee5BIdcl) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY) | [California and Me](https://open.spotify.com/album/2tt47cpLkXdRqYhOcp2C9x) | 3:36 | 2023-08-25 | 2023-09-09 |
 | [california from the backseat](https://open.spotify.com/track/17vwIZ7XPQzJE91ljTjuM5) | [Molly Seger](https://open.spotify.com/artist/0WtS5MfE3iVJN9puXPCjJ9) | [california from the backseat](https://open.spotify.com/album/41uZXshRhF6F1ivv7l58F9) | 3:12 | 2022-07-26 | 2022-10-15 |
 | [California Sober](https://open.spotify.com/track/0XyFRZsZj4VvcUknNAzrpY) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [California Sober](https://open.spotify.com/album/3KynhVtvF4X6uCVavqJaLm) | 2:42 | 2024-07-26 |  |
-| [Call It What You Want](https://open.spotify.com/track/5sSWM68OdmGO7ekX1wVWww) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [Call It What You Want](https://open.spotify.com/album/1X7pPUsv3FqEF0M9Xv4nMo) | 2:35 | 2024-08-16 |  |
+| [Call It What You Want](https://open.spotify.com/track/5sSWM68OdmGO7ekX1wVWww) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [Call It What You Want](https://open.spotify.com/album/1X7pPUsv3FqEF0M9Xv4nMo) | 2:35 | 2024-08-16 | 2024-09-17 |
 | [Call Me A Dreamer](https://open.spotify.com/track/5PMp84lVFm0SWEWOx1aQsw) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Call Me A Dreamer](https://open.spotify.com/album/3zKpAuwGhuBpavexvu6ySj) | 3:48 | 2022-01-07 | 2022-08-06 |
 | [Call My Name](https://open.spotify.com/track/3RUi4rBDYospTGr92P7Xin) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Call My Name](https://open.spotify.com/album/0DtFQfEdnLy29pxYoizSgn) | 3:21 | 2021-09-18 | 2021-12-04 |
 | [Calling All Angels \(with Quinn XCII\)](https://open.spotify.com/track/0elt9diH6UsDfMUR55BAx8) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp), [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Calling All Angels](https://open.spotify.com/album/6MwOHkTSixQtOyqDXtVdse) | 3:04 | 2021-09-11 | 2022-02-05 |
@@ -1384,6 +1384,7 @@
 | [Round & Round](https://open.spotify.com/track/108Jyy3f1vG8v6KeGQYHtb) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [Round & Round](https://open.spotify.com/album/1iB9YEnFPziUywwtTcbu40) | 2:48 | 2021-09-18 | 2021-11-20 |
 | [rubberband](https://open.spotify.com/track/05ABOPiW13nqIedJfqmfPM) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [rubberband](https://open.spotify.com/album/3CWYvhScPEskXPOYiXG8SH) | 2:27 | 2021-01-23 | 2021-06-12 |
 | [Ruin My Life](https://open.spotify.com/track/60pE6cLRCZy6wgjhP0Wu8w) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Ruin My Life](https://open.spotify.com/album/5kBzmnPiJAirnzMcSFPUmf) | 3:32 | 2022-11-11 | 2022-11-26 |
+| [Ruins](https://open.spotify.com/track/4OlSaHe8AxKZikrhzf8GnY) | [Ashley Park](https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn) | [Emily in Paris Season 4 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/79BnehvOChmwJkg3fbXNry) | 3:17 | 2024-09-16 |  |
 | [Rules](https://open.spotify.com/track/2XIwD3NmkwkFFohxfqcYxB) | [Arlissa](https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452) | [Rules](https://open.spotify.com/album/0IZ0oihPi9rH8eOpCzLJE3) | 3:13 | 2021-01-15 | 2021-03-19 |
 | [Run \(feat\. Ed Sheeran\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/4IQkfUsrwXol38VV3U7t7T) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:00 | 2021-11-13 | 2022-06-25 |
 | [run for the hills \(Spotify OUTSIDE Version\) \- Live from Malibu](https://open.spotify.com/track/1gMv5QSRDJ6SwcQGbTtAtB) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Spotify OUTSIDE](https://open.spotify.com/album/6iAheP6Xd45D2CocnMGMmE) | 2:44 | 2024-01-12 | 2024-02-17 |

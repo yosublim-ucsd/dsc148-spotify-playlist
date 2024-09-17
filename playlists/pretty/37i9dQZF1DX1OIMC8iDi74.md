@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap\. Cover: Marshmello & Viperactive
 
-[Spotify](https://open.spotify.com/user/spotify) - 886,264 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 886,277 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 76 | [IBTFY](https://open.spotify.com/track/09b31KaJfkzpPGNDsihd4t) | [UZ](https://open.spotify.com/artist/2hndbDJCfHwD1o2ZTzKLMo), [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [IBTFY](https://open.spotify.com/album/6OFi8jTH03PDyQni2LVACn) | 2:32 |
 | 77 | [DYSPHORIA](https://open.spotify.com/track/23DEUXkuHskvqvM1j5VrGa) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo) | [DYSPHORIA](https://open.spotify.com/album/3Kb1pVUl5FlOTf55LkBZRe) | 2:37 |
 | 78 | [Lost In Mumbai](https://open.spotify.com/track/3WZDLEcdZXE0TtLYrbJmmH) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN), [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Lost In Mumbai](https://open.spotify.com/album/641ITlNYNF5fjZUoWM97yC) | 3:00 |
-| 79 | [GO!](https://open.spotify.com/track/56VjJf0nMKrZ0aLBKmP2Rl) | [Montell2099](https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0), [Sam Bruno](https://open.spotify.com/artist/2PgOtERwe37cW1U9z7zAHb) | [GO!](https://open.spotify.com/album/1G57wFuySUQ5H33inqfD7V) | 3:06 |
-| 80 | [Shift](https://open.spotify.com/track/35ULphTQT2VBrDoO0cbAiO) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf), [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [Shift](https://open.spotify.com/album/6mT3Y11cQk2dSQBdjhrgCP) | 3:13 |
+| 79 | [Shift](https://open.spotify.com/track/35ULphTQT2VBrDoO0cbAiO) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf), [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [Shift](https://open.spotify.com/album/6mT3Y11cQk2dSQBdjhrgCP) | 3:13 |
+| 80 | [GO!](https://open.spotify.com/track/56VjJf0nMKrZ0aLBKmP2Rl) | [Montell2099](https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0), [Sam Bruno](https://open.spotify.com/artist/2PgOtERwe37cW1U9z7zAHb) | [GO!](https://open.spotify.com/album/1G57wFuySUQ5H33inqfD7V) | 3:06 |
 | 81 | [EYES ON ME](https://open.spotify.com/track/2EXdDj1XPGguvSikDzDWqg) | [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19) | [EYES ON ME](https://open.spotify.com/album/3j8dwHYVQ0uplIuhTehmSS) | 3:37 |
 | 82 | [LONESUM](https://open.spotify.com/track/1fBXuxv3zwdJHiFPolGZYe) | [Shadient](https://open.spotify.com/artist/6ADRET3UXTOmGBjjO67fNd), [nikko](https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq) | [LONESUM](https://open.spotify.com/album/2WH0ugu7j4bRskcIM6vpgM) | 4:01 |
 | 83 | [Run It Back](https://open.spotify.com/track/0rUjkyIMlPpm9jgvzycy1Z) | [Maddy O'Neal](https://open.spotify.com/artist/2G4VZIbfdmr60dYUB0oIxF), [DJ Paul](https://open.spotify.com/artist/2ledyuziz6YjLK5Dw483Oc), [Jason Leech](https://open.spotify.com/artist/1RPNr9u1LyyIjFVrXdIq1G) | [Run It Back](https://open.spotify.com/album/2rvmsImes4RKOYt0NWCT7F) | 3:02 |
@@ -95,9 +95,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 85 | [Blocked Up](https://open.spotify.com/track/0NEvAF25ReDYyBfh2NwZ7V) | [Lit Lords](https://open.spotify.com/artist/3epW3XPRivDLEECq50MXCi) | [Blocked Up](https://open.spotify.com/album/3MnwJe5dFSJ1aGKthkUgsv) | 2:31 |
 | 86 | [DICC \(feat\. Moore Kismet & UNIIQU3\)](https://open.spotify.com/track/1aKM5DQiZDFzhvg25lEWUg) | [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N), [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx), [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5) | [DICC \(feat\. Moore Kismet & UNIIQU3\)](https://open.spotify.com/album/2g6jlp3C1Fa3QoqCwixrTG) | 2:41 |
 | 87 | [Pulse Angel](https://open.spotify.com/track/1MJNPfHWMenmtuGPCMhx8L) | [Iglooghost](https://open.spotify.com/artist/7LCDnUQYE07fnKbo46SVLB) | [Tidal Memory Exo](https://open.spotify.com/album/7CQp27clxVYy6Ou6jXht6g) | 3:14 |
-| 88 | [Hertz Donut](https://open.spotify.com/track/6sAaasAUka6mKyyOTQUJPk) | [JAWNS](https://open.spotify.com/artist/5dXHoJzpLuiEug5rSXeCib) | [Dogwater](https://open.spotify.com/album/6SXovZDtjTYPfYTZ0yVxHx) | 2:36 |
-| 89 | [Lollo](https://open.spotify.com/track/2exbumTywZBrZVCUBulw0p) | [Onhell](https://open.spotify.com/artist/66SJhirDGiBwr3tfvu3a0t) | [Lollo](https://open.spotify.com/album/5K2nM0JZcOhnWx7q1KiWho) | 2:50 |
-| 90 | [Element](https://open.spotify.com/track/7sUcDPS4aKs3L171pM2iTP) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8), [Lizdek](https://open.spotify.com/artist/65Kq02oh0g3gRqfZ0fo8eG) | [Element](https://open.spotify.com/album/0IdRdaNv8lVXVI5ybDRKyx) | 2:00 |
+| 88 | [Lollo](https://open.spotify.com/track/2exbumTywZBrZVCUBulw0p) | [Onhell](https://open.spotify.com/artist/66SJhirDGiBwr3tfvu3a0t) | [Lollo](https://open.spotify.com/album/5K2nM0JZcOhnWx7q1KiWho) | 2:50 |
+| 89 | [Element](https://open.spotify.com/track/7sUcDPS4aKs3L171pM2iTP) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8), [Lizdek](https://open.spotify.com/artist/65Kq02oh0g3gRqfZ0fo8eG) | [Element](https://open.spotify.com/album/0IdRdaNv8lVXVI5ybDRKyx) | 2:00 |
+| 90 | [Hertz Donut](https://open.spotify.com/track/6sAaasAUka6mKyyOTQUJPk) | [JAWNS](https://open.spotify.com/artist/5dXHoJzpLuiEug5rSXeCib) | [Dogwater](https://open.spotify.com/album/6SXovZDtjTYPfYTZ0yVxHx) | 2:36 |
 | 91 | [Buckshots](https://open.spotify.com/track/2kyAeu0jE7sKArUWSQRFbH) | [GorillaT](https://open.spotify.com/artist/3zcOegUrWqti1S0lu4juJz), [Hostage Situation](https://open.spotify.com/artist/1UnA09CtdmT16mvmzbXnON) | [Buckshots](https://open.spotify.com/album/7mKDEqYo9CuJaN8S2vrwn5) | 2:41 |
 | 92 | [Seething Eyes](https://open.spotify.com/track/3BuSWoesMmhaEbvvw3schE) | [Slang Dogs](https://open.spotify.com/artist/53ZFs1OvVgCZVEVymMqnYj) | [Seething Eyes](https://open.spotify.com/album/1DLHwMmGwxEaIHTVm7vfIx) | 4:01 |
 | 93 | [Tik Tok](https://open.spotify.com/track/2DTTb0qR2NbMyHpHtnUbQx) | [Xotix](https://open.spotify.com/artist/4U9672jXtdpL01GCOiX7TW), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Tik Tok](https://open.spotify.com/album/07rbrKhpXSilbigKmsfn0J) | 2:44 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 97 | [Killa](https://open.spotify.com/track/5QmqjUaUOsq8c2KUOtgqdL) | [Space Wizard](https://open.spotify.com/artist/1wcleSLRiSdM4P0ugXdg3H), [Sora](https://open.spotify.com/artist/5DzPI26WZHcfgG9K2UTC7K) | [Killa](https://open.spotify.com/album/2XbLTWvDNnAXFjmNaegzfq) | 3:22 |
 | 98 | [Masyaf](https://open.spotify.com/track/3rRBJVFtEZ4vftRrX30804) | [Soltan](https://open.spotify.com/artist/6wIbmO0mcpIyQ6CFXIJmIy) | [Masyaf](https://open.spotify.com/album/3q4Hy70gEZstuwZJlFWPFO) | 2:32 |
 | 99 | [FEEL AGAIN](https://open.spotify.com/track/06R5NcXhfxHzw4b89lDB71) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [ellie d.](https://open.spotify.com/artist/1sb3Wnb1EfKjGrGZxC7uhh) | [FEEL AGAIN](https://open.spotify.com/album/4kHLkD35YdrfrJLdXeb3dW) | 2:47 |
-| 100 | [UH OH!](https://open.spotify.com/track/4hd3nmmHJ53ztZllQG6CQl) | [RemK](https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF) | [UH OH!](https://open.spotify.com/album/6tCOYN1hYjW0HcUrQ2IDu2) | 3:58 |
+| 100 | [HOOLIGAN](https://open.spotify.com/track/3SR00E4UULH7jt6fRPjdPo) | [TWERL](https://open.spotify.com/artist/3pJlam8yODJN1AEzmTVGko) | [Hooligan](https://open.spotify.com/album/18F3RokLnEIxRBF9LUh2G9) | 3:00 |
 
 Snapshot ID: `ZuSPLgAAAACx4B3T4PnRpGkaxpRVliRX`

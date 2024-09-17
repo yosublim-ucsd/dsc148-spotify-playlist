@@ -13690,7 +13690,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 290910,
       "name": "Waking up in a Dream",
       "url": "https://open.spotify.com/track/2kDzRYSeJpr7fOqRklgiYd"
@@ -14212,6 +14212,28 @@
       "duration_ms": 183013,
       "name": "Whisper",
       "url": "https://open.spotify.com/track/1YlWCasPU6Kdv147UaOOXJ"
+    },
+    {
+      "album": {
+        "name": "White Knuckles",
+        "url": "https://open.spotify.com/album/5ZKy72bbl42PhLGUz1u4oj"
+      },
+      "artists": [
+        {
+          "name": "NITTI",
+          "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
+        },
+        {
+          "name": "BRAYTON",
+          "url": "https://open.spotify.com/artist/2kWyIV9pjjzmbQo7ZY62VL"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210461,
+      "name": "White Knuckles",
+      "url": "https://open.spotify.com/track/3DEcNTbmihMylwMFGn0IUz"
     },
     {
       "album": {

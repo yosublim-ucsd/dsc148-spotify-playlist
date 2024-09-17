@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 
 > The tracks heating up the continent right now!  Cover:  <a href="https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY?si=v72h3\_yVR5Wn0D2toepJvA"> Fireboy DML</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,621,378 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,621,481 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 | 49 | [ARABAMBI](https://open.spotify.com/track/1CH0DtnpkZ6peTWY1EadHu) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [ARABAMBI](https://open.spotify.com/album/0aqdDNCzRkyTKA8fqy1NK1) | 3:10 |
 | 50 | [2 Headed Goat \(feat\. Maglera Doe Boy\)](https://open.spotify.com/track/7CLjQObdlzcRIagWpxxLEX) | [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L) | [2 Headed Goat \(feat\. Maglera Doe Boy\)](https://open.spotify.com/album/5Oqq3iTaCUByEo7O1edk3l) | 3:14 |
 
-Snapshot ID: `ZtrSdgAAAAB43+D/LNRz0VZmJjEiTDBj`
+Snapshot ID: `ZtrSdgAAAAAS/wofI64t7NXq1XJehX+2`

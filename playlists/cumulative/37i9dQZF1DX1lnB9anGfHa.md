@@ -4,7 +4,7 @@
 
 > A journey into the unknown, dark, and experimental.
 
-279 songs - 18 hr 55 min
+280 songs - 19 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Fimmine Fimmine](https://open.spotify.com/track/3PAxNbb4NnIJBnrH5QnFol) | [Mai Mai Mai](https://open.spotify.com/artist/5qVRuanPGaUlDLpcS4l7b3), [Vera Di Lecce](https://open.spotify.com/artist/2J86M7FAdzuVVYL5IMJYZZ) | [Rimorso](https://open.spotify.com/album/5wuZ3RGLtu6LimxV4kU1Tc) | 4:39 | 2022-09-21 | 2023-03-29 |
 | [Fimmine Fimmine](https://open.spotify.com/track/7ANEW2g8PEhk3pLP2UxPVT) | [Mai Mai Mai](https://open.spotify.com/artist/5qVRuanPGaUlDLpcS4l7b3), [Vera Di Lecce](https://open.spotify.com/artist/2J86M7FAdzuVVYL5IMJYZZ) | [Rimorso](https://open.spotify.com/album/35LHiySmiksIVj8dex7Xg7) | 4:39 | 2022-09-21 | 2022-11-09 |
 | [Fimmine Fimmine](https://open.spotify.com/track/7xqIXSb4H99NLZbZ15Uoac) | [Mai Mai Mai](https://open.spotify.com/artist/5qVRuanPGaUlDLpcS4l7b3), [Vera Di Lecce](https://open.spotify.com/artist/2J86M7FAdzuVVYL5IMJYZZ) | [Fimmine Fimmine](https://open.spotify.com/album/3Zg8UYhztCXajLc8D6zMTM) | 4:39 | 2022-09-21 | 2022-11-13 |
+| [For a Burning World](https://open.spotify.com/track/2zbtE3hz1Zb5chqQnw0BB0) | [Lord Of The Isles](https://open.spotify.com/artist/2PoiNhvPSC4fivyrDJOoru), [Ellen Renton](https://open.spotify.com/artist/1T7ltBiyXYSF6kKKdrqaGm) | [My Noise Is Nothing](https://open.spotify.com/album/7gD1HesHdAjyZU3mHBni6h) | 5:57 | 2024-09-16 |  |
 | [Get Still](https://open.spotify.com/track/0lsGoFkRfl7gQm892Za3cq) | [Alan Sparhawk](https://open.spotify.com/artist/7ljTofQBh5fR5SYfGHRYs8) | [Get Still](https://open.spotify.com/album/3UrtXMTUMXR2B5CP6IOuta) | 3:42 | 2024-08-23 |  |
 | [Ghost](https://open.spotify.com/track/36RLgJZrpFOaUe5QH8nuys) | [Mykalle](https://open.spotify.com/artist/6mgKqE0FKpgUK4Yf9ZBxi0) | [Da pacem](https://open.spotify.com/album/3J6HgjAfyIbnhT7DVgQrIK) | 4:35 | 2024-02-02 | 2024-08-08 |
 | [Glossy Bingo Stain](https://open.spotify.com/track/2Cq1hV8Aiy1xnJCaCSh5CR) | [Call Super](https://open.spotify.com/artist/1FVo44KTXqxo3JxXADWTd9) | [Eulo Cramps](https://open.spotify.com/album/08Y3QjcmVihRgFFtppaQNO) | 6:02 | 2023-10-06 | 2024-02-28 |
@@ -145,7 +146,7 @@
 | [Me Acoplo](https://open.spotify.com/track/0MuFAufcq283OanYu5Ku8X) | [Párpados](https://open.spotify.com/artist/1gbutEmKJfSHRgXoTyEQO7) | [Párpados](https://open.spotify.com/album/3FMot3T0ERF8jjJZ1Guoov) | 4:00 | 2020-10-20 | 2024-02-03 |
 | [medicine boy](https://open.spotify.com/track/6XsZvIUWNlA3bYM9SwiUq1) | [Heith](https://open.spotify.com/artist/5vU14I6K6uuqrxsP1jyoCy) | [medicine boy](https://open.spotify.com/album/51KQFFWYTK5FWEWTBV8MZo) | 3:37 | 2024-04-05 | 2024-07-19 |
 | [Mind Era](https://open.spotify.com/track/3b0EPvZqJV2BYe599jrhEd) | [Aïsha Devi](https://open.spotify.com/artist/4RtrEYqj2bINZ2HXWUG3j4) | [Death Is Home](https://open.spotify.com/album/2mbcBhD6LbNpx9Tzv5cPUP) | 4:32 | 2023-11-15 | 2023-11-23 |
-| [Mind Era](https://open.spotify.com/track/7ikwHilKD3pDtp9tcLTeCn) | [Aïsha Devi](https://open.spotify.com/artist/4RtrEYqj2bINZ2HXWUG3j4) | [Death Is Home](https://open.spotify.com/album/5HO1N4upxkWKuO3hdB4d2m) | 4:32 | 2024-04-18 |  |
+| [Mind Era](https://open.spotify.com/track/7ikwHilKD3pDtp9tcLTeCn) | [Aïsha Devi](https://open.spotify.com/artist/4RtrEYqj2bINZ2HXWUG3j4) | [Death Is Home](https://open.spotify.com/album/5HO1N4upxkWKuO3hdB4d2m) | 4:32 | 2024-04-18 | 2024-09-17 |
 | [Moans](https://open.spotify.com/track/6HNKZARS17j6rToqn9fpjd) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Ghosts](https://open.spotify.com/album/2nxnCjbaiAEJ4yBDMnQhJ8) | 4:33 | 2023-10-10 |  |
 | [Mojik \(Your Waves\)](https://open.spotify.com/track/1GFcIhsm65DXpeWo9JLT9S) | [Fatima Al Qadiri](https://open.spotify.com/artist/1pfunEyqsC4oKSBY9gr8lN) | [Mojik \(Your Waves\)](https://open.spotify.com/album/1XpqQ8QN4Cxq23yChIiDt1) | 3:13 | 2024-04-18 |  |
 | [Mojik \(Your Waves\)](https://open.spotify.com/track/3xP6lpcWrsIQPTuUXsx44F) | [Fatima Al Qadiri](https://open.spotify.com/artist/1pfunEyqsC4oKSBY9gr8lN) | [Mojik \(Your Waves\)](https://open.spotify.com/album/0ul8jTsk8rdnYAQVU43fmL) | 3:13 | 2024-01-26 | 2024-02-29 |

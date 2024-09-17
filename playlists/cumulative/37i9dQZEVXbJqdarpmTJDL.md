@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-1,776 songs - 3 day 22 hr 1 min
+1,777 songs - 3 day 22 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,7 +359,7 @@
 | [Dale](https://open.spotify.com/track/1nNIj9EJmlbSuDBfwIwE0Y) | [Mente Fuerte](https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH), [Baghdad](https://open.spotify.com/artist/5XABVWdxtyuupsE2YUGrma) | [Dale](https://open.spotify.com/album/1Ir91nN1hecPp4pfaLTkWt) | 2:48 | 2021-07-16 | 2022-04-22 |
 | [Dali](https://open.spotify.com/track/4H5J9hUKHyYynWdeOVQGJL) | [Oge](https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9), [Elena Tsagrinou](https://open.spotify.com/artist/4TgsxeFPNtkZ5lneq9AceU), [MG](https://open.spotify.com/artist/6SWOdiks4Ac3lMM8NCqDm0) | [STATUS](https://open.spotify.com/album/3o4jrfejp2xzBi41YSwMrP) | 2:38 | 2022-06-25 | 2022-06-27 |
 | [Dancer](https://open.spotify.com/track/24Zq6jOHkjoPOQn42ZyRJs) | [RACK](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [MENJU](https://open.spotify.com/artist/0LEXmZvtgBqS9MZgqpLU6f), [Oge](https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9) | [Dancer](https://open.spotify.com/album/4BlOpO1r4PS3zQ6pK5Otp1) | 2:52 | 2022-10-22 | 2023-05-18 |
-| [Dancing In The Flames](https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dancing In The Flames](https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g) | 3:40 | 2024-09-14 |  |
+| [Dancing In The Flames](https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dancing In The Flames](https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g) | 3:40 | 2024-09-14 | 2024-09-17 |
 | [DANEIKA](https://open.spotify.com/track/71ON3C4yMW8D6HEyvoomph) | [Dani Gambino](https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4), [Skouti Beats](https://open.spotify.com/artist/6xMhn1NIdNniwDtYroUnke), [Dj The Boy](https://open.spotify.com/artist/0MyAm8pgx6zC6FGXUHHoUj) | [Epikindinoi Polites](https://open.spotify.com/album/2LJy25bS5oVev1McEqaNWn) | 3:27 | 2023-03-18 | 2023-03-27 |
 | [Dark Piano](https://open.spotify.com/track/1iGXjQrjL2SbqconUISzRC) | [Thug Slime](https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0) | [Dark Piano](https://open.spotify.com/album/6kRPlJIp6l05MBxPAcO8b4) | 2:46 | 2023-01-28 | 2023-02-05 |
 | [Dark Side](https://open.spotify.com/track/6A8B1kJ9ZNHbl2uFPN6Wtm) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Dark Side](https://open.spotify.com/album/6Lzb7EjZXgtelxgBsZUhMS) | 2:57 | 2021-05-25 | 2021-05-29 |
@@ -405,6 +405,7 @@
 | [Die For You \- Remix](https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Die For You \(Remix\)](https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy) | 3:52 | 2023-02-25 | 2023-03-16 |
 | [Die Hard](https://open.spotify.com/track/6gI9b2VsoWhjhIuIeToDVs) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:59 | 2022-05-14 | 2022-05-16 |
 | [Die Together](https://open.spotify.com/track/35b0iM96Uid8KI5s83IEHM) | [Amanda Tenfjord](https://open.spotify.com/artist/187i912U6kpq0F0Z9uOVXr) | [Die Together](https://open.spotify.com/album/2wwjIcsUvhqDVJt95NrgQB) | 2:55 | 2022-03-12 | 2022-05-26 |
+| [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-09-16 |  |
 | [Diego](https://open.spotify.com/track/5qXrCYldye4GqQN3gk2HX2) | [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu), [Nuki](https://open.spotify.com/artist/5VyuxeMadrk0YwzaSplggN) | [Traplife](https://open.spotify.com/album/3nTsR92xyAHjKmlz7xNAT3) | 2:35 | 2023-04-29 | 2023-05-06 |
 | [Diego](https://open.spotify.com/track/1BU2rpXjavf2YHvTyfmku4) | [Mad Clip](https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd) | [Super Trapper II](https://open.spotify.com/album/2ceBhmjSZM70fotWrLnsUV) | 4:10 | 2021-09-04 | 2021-09-05 |
 | [DIFFERENT DRIP](https://open.spotify.com/track/77foJJowD08Zj7nXvJFGba) | [Saske](https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p), [Kareem Kalokoh](https://open.spotify.com/artist/6fIBCdiEDMUziaNwDi2Awb) | [Saskepticism Vol\. 2](https://open.spotify.com/album/3Ai3ffKaiKXsDXntUon5nP) | 3:07 | 2022-04-23 | 2022-04-28 |

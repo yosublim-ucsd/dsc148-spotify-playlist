@@ -1343,6 +1343,24 @@
     },
     {
       "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/3TR1Bd2VseCPtjaBgEzaI6"
+      },
+      "artists": [
+        {
+          "name": "JOSH CULLEN",
+          "url": "https://open.spotify.com/artist/3xn2W0ziGURPYJj372a6jQ"
+        }
+      ],
+      "date_added": "2024-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248639,
+      "name": "No Control ft. (e)motion engine",
+      "url": "https://open.spotify.com/track/0Rg0DIhiShdvZvF7snNZIt"
+    },
+    {
+      "album": {
         "name": "North Star",
         "url": "https://open.spotify.com/album/0IIo23clF6gI3MYNAyQqQv"
       },
@@ -2456,7 +2474,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 152358,
       "name": "Wag Naman",
       "url": "https://open.spotify.com/track/7BkZPPgzeuDMIoa44OPe8e"

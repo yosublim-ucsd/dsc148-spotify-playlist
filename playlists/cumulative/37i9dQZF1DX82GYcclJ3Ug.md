@@ -4,7 +4,7 @@
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Franz Ferdinand
 
-2,174 songs - 4 day 21 hr 16 min
+2,175 songs - 4 day 21 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -906,6 +906,7 @@
 | [Hybrid](https://open.spotify.com/track/1KcSoLTbW95AiUj8RLcPxr) | [Annie DiRusso](https://open.spotify.com/artist/58jk0945bnQBG9xfij6hHw) | [God, I Hate This Place](https://open.spotify.com/album/506D0KoP1j3ttcJACqWd3T) | 2:33 | 2023-04-28 | 2023-06-24 |
 | [Hyper Trophy](https://open.spotify.com/track/3kHSUwpxqdXaKONV3ECNL8) | [Citizen](https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor) | [Hyper Trophy](https://open.spotify.com/album/0Pt5wGMaHSrmNSjzHVag6e) | 2:55 | 2023-08-25 | 2023-10-07 |
 | [Hypnotic](https://open.spotify.com/track/5yarVg19cwa1wXPWF7VkXh) | [Dead Sara](https://open.spotify.com/artist/589tFv4Vf1K27wpf0uWz2j) | [Hypnotic](https://open.spotify.com/album/0G61eybChcoCvfNVSJW7jI) | 2:58 | 2021-11-26 | 2022-02-12 |
+| [HYPOCRITE](https://open.spotify.com/track/3k2MD6jq9BAoNgYy85UBQH) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [HYPOCRITE](https://open.spotify.com/album/1EuazudBc9kKhIPK0oThbO) | 3:18 | 2024-09-16 |  |
 | [I Am Happy](https://open.spotify.com/track/5nDwo3rYfPVzKTxFX7JBRy) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Del The Funky Homosapien](https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl) | [I Am Happy](https://open.spotify.com/album/2j3UeoEWrTnc6PVVbfBe6F) | 3:02 | 2024-07-19 | 2024-08-31 |
 | [I Can Do Better Than You](https://open.spotify.com/track/1iXLSF3ubFsM6vQAIvWwvR) | [Little Hurt](https://open.spotify.com/artist/3QN1rAppoKbXhExveckTuO) | [Lovely Hours](https://open.spotify.com/album/6UNyLXllCgkdwuDuudZFYY) | 2:26 | 2023-05-12 | 2023-07-29 |
 | [I Can't Drive](https://open.spotify.com/track/5D5YcH3dr3b53fi0F8cVsU) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [I Can't Drive](https://open.spotify.com/album/2G3tEj45E2F3slj2qsVAby) | 4:07 | 2022-03-25 | 2022-05-07 |

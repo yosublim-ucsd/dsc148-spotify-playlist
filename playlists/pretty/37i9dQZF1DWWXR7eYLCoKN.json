@@ -1,6 +1,6 @@
 {
   "description": "Sambinhas selecionados especialmente pra voc\u00ea curtir um dia de sol.",
-  "num_followers": 150872,
+  "num_followers": 150898,
   "original_name": "Samba & \u00e1gua fresca",
   "owner": {
     "name": "Spotify",
@@ -391,6 +391,22 @@
     {
       "added_at": "2024-07-19 03:01:00",
       "album": {
+        "name": "Raizes Do Samba",
+        "url": "https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT"
+      },
+      "artists": [
+        {
+          "name": "Cartola",
+          "url": "https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN"
+        }
+      ],
+      "duration_ms": 158800,
+      "name": "Alvorada",
+      "url": "https://open.spotify.com/track/7Bq17tNAUCLceZQOJMnj3D"
+    },
+    {
+      "added_at": "2024-07-19 03:01:00",
+      "album": {
         "name": "J\u00e1 ouviu falar de amor?",
         "url": "https://open.spotify.com/album/28L8pJVhVSS4WPj1rL37ov"
       },
@@ -407,18 +423,18 @@
     {
       "added_at": "2024-07-19 03:01:00",
       "album": {
-        "name": "Raizes Do Samba",
-        "url": "https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT"
+        "name": "Xande Canta Caetano",
+        "url": "https://open.spotify.com/album/7DG96zvwE2rauCCLwO1JWV"
       },
       "artists": [
         {
-          "name": "Cartola",
-          "url": "https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN"
+          "name": "Xande De Pilares",
+          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
         }
       ],
-      "duration_ms": 158800,
-      "name": "Alvorada",
-      "url": "https://open.spotify.com/track/7Bq17tNAUCLceZQOJMnj3D"
+      "duration_ms": 181665,
+      "name": "Lua de S\u00e3o Jorge",
+      "url": "https://open.spotify.com/track/0B5NMQDTeq7P6ti4CO9edA"
     },
     {
       "added_at": "2024-07-19 03:01:00",
@@ -439,22 +455,6 @@
       "duration_ms": 308906,
       "name": "Desde Que O Samba \u00c9 Samba",
       "url": "https://open.spotify.com/track/628hP5ZZjXTz4AnIyDfDZ0"
-    },
-    {
-      "added_at": "2024-07-19 03:01:00",
-      "album": {
-        "name": "Xande Canta Caetano",
-        "url": "https://open.spotify.com/album/7DG96zvwE2rauCCLwO1JWV"
-      },
-      "artists": [
-        {
-          "name": "Xande De Pilares",
-          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
-        }
-      ],
-      "duration_ms": 181665,
-      "name": "Lua de S\u00e3o Jorge",
-      "url": "https://open.spotify.com/track/0B5NMQDTeq7P6ti4CO9edA"
     },
     {
       "added_at": "2024-07-19 03:01:00",
@@ -531,22 +531,6 @@
       "duration_ms": 291760,
       "name": "O Amanh\u00e3",
       "url": "https://open.spotify.com/track/6bVN61aMSRNMM6vYdPfM7A"
-    },
-    {
-      "added_at": "2024-07-19 03:01:00",
-      "album": {
-        "name": "Meu Coco",
-        "url": "https://open.spotify.com/album/2WeCBdtzqLePJpI28q0mjz"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 212014,
-      "name": "Sem Samba N\u00e3o D\u00e1",
-      "url": "https://open.spotify.com/track/1pIwgYq2uM1Q2nu9DTODGP"
     },
     {
       "added_at": "2024-07-19 03:01:00",
@@ -635,6 +619,22 @@
     {
       "added_at": "2024-07-19 03:01:00",
       "album": {
+        "name": "Meu Coco",
+        "url": "https://open.spotify.com/album/2WeCBdtzqLePJpI28q0mjz"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 212014,
+      "name": "Sem Samba N\u00e3o D\u00e1",
+      "url": "https://open.spotify.com/track/1pIwgYq2uM1Q2nu9DTODGP"
+    },
+    {
+      "added_at": "2024-07-19 03:01:00",
+      "album": {
         "name": "Novo Samba Sempre Novo",
         "url": "https://open.spotify.com/album/5BW4rMXqWggq5fR8RHG1cf"
       },
@@ -651,22 +651,6 @@
       "duration_ms": 237234,
       "name": "Retalhos De Cetim",
       "url": "https://open.spotify.com/track/7cyFv6ZvrP45UN16w4Zotp"
-    },
-    {
-      "added_at": "2024-07-19 03:01:00",
-      "album": {
-        "name": "Sambas\u00e1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5oOP2shCd8ScEWH2mHDecV"
-      },
-      "artists": [
-        {
-          "name": "Roberta S\u00e1",
-          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
-        }
-      ],
-      "duration_ms": 215720,
-      "name": "Trilha do Amor - Ao Vivo",
-      "url": "https://open.spotify.com/track/62CE5q62TRlQn6IlkRY5e1"
     },
     {
       "added_at": "2024-07-19 03:01:00",
@@ -711,6 +695,22 @@
     {
       "added_at": "2024-07-19 03:01:00",
       "album": {
+        "name": "Sambas\u00e1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5oOP2shCd8ScEWH2mHDecV"
+      },
+      "artists": [
+        {
+          "name": "Roberta S\u00e1",
+          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
+        }
+      ],
+      "duration_ms": 215720,
+      "name": "Trilha do Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/62CE5q62TRlQn6IlkRY5e1"
+    },
+    {
+      "added_at": "2024-07-19 03:01:00",
+      "album": {
         "name": "Loucura: Adriana Calcanhotto Canta Lupic\u00ednio Rodrigues (Ao Vivo)",
         "url": "https://open.spotify.com/album/11wB3oHSDq1chRBqegtLa2"
       },
@@ -723,6 +723,22 @@
       "duration_ms": 120000,
       "name": "Nervos de A\u00e7o - Ao Vivo",
       "url": "https://open.spotify.com/track/0CmDA5WHBM2qk7pKkaao3V"
+    },
+    {
+      "added_at": "2024-07-19 03:01:00",
+      "album": {
+        "name": "\u00c1gua de Chuva no Mar (Do filme \"Um Casal Insepar\u00e1vel\")",
+        "url": "https://open.spotify.com/album/2Mz2TXMsFDEqrccgPKVUQo"
+      },
+      "artists": [
+        {
+          "name": "Mart'n\u00e1lia",
+          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
+        }
+      ],
+      "duration_ms": 248746,
+      "name": "\u00c1gua de Chuva no Mar - Do filme \"Um Casal Insepar\u00e1vel\"",
+      "url": "https://open.spotify.com/track/1PmJKK9Jclc230tru8UOHb"
     },
     {
       "added_at": "2024-07-19 03:01:00",
@@ -759,54 +775,6 @@
     {
       "added_at": "2024-07-19 03:01:00",
       "album": {
-        "name": "Mangueira - a Menina Dos Meus Olhos",
-        "url": "https://open.spotify.com/album/1fM9ENPGM3zEqigHsWQXCC"
-      },
-      "artists": [
-        {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
-        }
-      ],
-      "duration_ms": 157689,
-      "name": "Hist\u00f3rias Pra Ninar Gente Grande",
-      "url": "https://open.spotify.com/track/5thOB6WCgzFvmLzxz4sd5G"
-    },
-    {
-      "added_at": "2024-07-19 03:01:00",
-      "album": {
-        "name": "Canto Sagrado - Uma Homenagem \u00e0 Clara Nunes",
-        "url": "https://open.spotify.com/album/2Ma8jKWBczZsqzZS4jeIzo"
-      },
-      "artists": [
-        {
-          "name": "Fabiana Cozza",
-          "url": "https://open.spotify.com/artist/4LRB7RihmGCUE9TYFH6151"
-        }
-      ],
-      "duration_ms": 264933,
-      "name": "Tristeza P\u00e9 No Ch\u00e3o",
-      "url": "https://open.spotify.com/track/2NqeDvrZpwUQLP0Uwcdw4L"
-    },
-    {
-      "added_at": "2024-07-19 03:01:00",
-      "album": {
-        "name": "\u00c1gua de Chuva no Mar (Do filme \"Um Casal Insepar\u00e1vel\")",
-        "url": "https://open.spotify.com/album/2Mz2TXMsFDEqrccgPKVUQo"
-      },
-      "artists": [
-        {
-          "name": "Mart'n\u00e1lia",
-          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
-        }
-      ],
-      "duration_ms": 248746,
-      "name": "\u00c1gua de Chuva no Mar - Do filme \"Um Casal Insepar\u00e1vel\"",
-      "url": "https://open.spotify.com/track/1PmJKK9Jclc230tru8UOHb"
-    },
-    {
-      "added_at": "2024-07-19 03:01:00",
-      "album": {
         "name": "Sambas & Bossas",
         "url": "https://open.spotify.com/album/3BmqqPiJw5xmmQBdpr8Q3S"
       },
@@ -823,6 +791,38 @@
     {
       "added_at": "2024-07-19 03:01:00",
       "album": {
+        "name": "Mangueira - a Menina Dos Meus Olhos",
+        "url": "https://open.spotify.com/album/1fM9ENPGM3zEqigHsWQXCC"
+      },
+      "artists": [
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+        }
+      ],
+      "duration_ms": 157689,
+      "name": "Hist\u00f3rias Pra Ninar Gente Grande",
+      "url": "https://open.spotify.com/track/5thOB6WCgzFvmLzxz4sd5G"
+    },
+    {
+      "added_at": "2024-07-19 03:01:00",
+      "album": {
+        "name": "Minha Cara",
+        "url": "https://open.spotify.com/album/7j3svtZ7QYarjiH5LSFroe"
+      },
+      "artists": [
+        {
+          "name": "Mart'n\u00e1lia",
+          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
+        }
+      ],
+      "duration_ms": 237306,
+      "name": "Entretanto",
+      "url": "https://open.spotify.com/track/2AavGz7eGM802LKuaoJpmR"
+    },
+    {
+      "added_at": "2024-07-19 03:01:00",
+      "album": {
         "name": "NEKTAR",
         "url": "https://open.spotify.com/album/2ruBDW3PQgFhddir0gxIFg"
       },
@@ -835,6 +835,22 @@
       "duration_ms": 206442,
       "name": "LONGE LONGE DE MIM",
       "url": "https://open.spotify.com/track/6p69ERue7tvSXy4Eisa3jI"
+    },
+    {
+      "added_at": "2024-07-19 03:01:00",
+      "album": {
+        "name": "Canto Sagrado - Uma Homenagem \u00e0 Clara Nunes",
+        "url": "https://open.spotify.com/album/2Ma8jKWBczZsqzZS4jeIzo"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Cozza",
+          "url": "https://open.spotify.com/artist/4LRB7RihmGCUE9TYFH6151"
+        }
+      ],
+      "duration_ms": 264933,
+      "name": "Tristeza P\u00e9 No Ch\u00e3o",
+      "url": "https://open.spotify.com/track/2NqeDvrZpwUQLP0Uwcdw4L"
     },
     {
       "added_at": "2024-07-19 03:01:00",
@@ -947,22 +963,6 @@
     {
       "added_at": "2024-07-19 03:01:00",
       "album": {
-        "name": "Minha Cara",
-        "url": "https://open.spotify.com/album/7j3svtZ7QYarjiH5LSFroe"
-      },
-      "artists": [
-        {
-          "name": "Mart'n\u00e1lia",
-          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
-        }
-      ],
-      "duration_ms": 237306,
-      "name": "Entretanto",
-      "url": "https://open.spotify.com/track/2AavGz7eGM802LKuaoJpmR"
-    },
-    {
-      "added_at": "2024-07-19 03:01:00",
-      "album": {
         "name": "Mercado das Flores",
         "url": "https://open.spotify.com/album/61GPvMzsB5rWl3ADvybaup"
       },
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-07-19 03:01:00",
       "album": {
-        "name": "Samba Jazz, de Raiz Cl\u00e1udio Jorge 70",
-        "url": "https://open.spotify.com/album/4YIKXtcEx1IUK4eM6awnC4"
-      },
-      "artists": [
-        {
-          "name": "Cl\u00e1udio Jorge",
-          "url": "https://open.spotify.com/artist/1xvCT2DwPjwDTrRrgOkD8c"
-        }
-      ],
-      "duration_ms": 249933,
-      "name": "Samba Jazz, de Raiz",
-      "url": "https://open.spotify.com/track/3F2ib87cmlI1B9VaU12bnB"
-    },
-    {
-      "added_at": "2024-07-19 03:01:00",
-      "album": {
         "name": "Ind\u00edcio de Amor",
         "url": "https://open.spotify.com/album/27vtkCprC2mUoBnjYx96Vn"
       },
@@ -1043,42 +1027,18 @@
     {
       "added_at": "2024-07-19 03:01:00",
       "album": {
-        "name": "C\u00e2ncer Com Touro",
-        "url": "https://open.spotify.com/album/0vvr3GmtsWOq8EDBFG1xtp"
+        "name": "Samba Jazz, de Raiz Cl\u00e1udio Jorge 70",
+        "url": "https://open.spotify.com/album/4YIKXtcEx1IUK4eM6awnC4"
       },
       "artists": [
         {
-          "name": "Sambaiana",
-          "url": "https://open.spotify.com/artist/5gGjpgad4tcVWMv4mlOw7a"
-        },
-        {
-          "name": "Grace Profeta",
-          "url": "https://open.spotify.com/artist/6UvvBk4jun0UH6IiMAZCko"
-        },
-        {
-          "name": "Rayra Mayara",
-          "url": "https://open.spotify.com/artist/2JxBztEP6d5277y39owSBb"
-        },
-        {
-          "name": "Ju Moraes",
-          "url": "https://open.spotify.com/artist/19P3N1zEBTIeW3I0cyVthZ"
-        },
-        {
-          "name": "Lal\u00e1 Evangelista",
-          "url": "https://open.spotify.com/artist/5wTHY9NhwtH1Q84hJcwJHr"
-        },
-        {
-          "name": "Marcinha BB",
-          "url": "https://open.spotify.com/artist/4KGopYW2G8P41kyEXlYLU7"
-        },
-        {
-          "name": "Mar\u00edlia Sodr\u00e9",
-          "url": "https://open.spotify.com/artist/4vFvo1osQ1NCjyKnFD6hVh"
+          "name": "Cl\u00e1udio Jorge",
+          "url": "https://open.spotify.com/artist/1xvCT2DwPjwDTrRrgOkD8c"
         }
       ],
-      "duration_ms": 179891,
-      "name": "C\u00e2ncer Com Touro",
-      "url": "https://open.spotify.com/track/3uupLgLlD2ZIe6D1CuRVjW"
+      "duration_ms": 249933,
+      "name": "Samba Jazz, de Raiz",
+      "url": "https://open.spotify.com/track/3F2ib87cmlI1B9VaU12bnB"
     },
     {
       "added_at": "2024-07-19 03:01:00",
@@ -1139,6 +1099,46 @@
     {
       "added_at": "2024-07-19 03:01:00",
       "album": {
+        "name": "C\u00e2ncer Com Touro",
+        "url": "https://open.spotify.com/album/0vvr3GmtsWOq8EDBFG1xtp"
+      },
+      "artists": [
+        {
+          "name": "Sambaiana",
+          "url": "https://open.spotify.com/artist/5gGjpgad4tcVWMv4mlOw7a"
+        },
+        {
+          "name": "Grace Profeta",
+          "url": "https://open.spotify.com/artist/6UvvBk4jun0UH6IiMAZCko"
+        },
+        {
+          "name": "Rayra Mayara",
+          "url": "https://open.spotify.com/artist/2JxBztEP6d5277y39owSBb"
+        },
+        {
+          "name": "Ju Moraes",
+          "url": "https://open.spotify.com/artist/19P3N1zEBTIeW3I0cyVthZ"
+        },
+        {
+          "name": "Lal\u00e1 Evangelista",
+          "url": "https://open.spotify.com/artist/5wTHY9NhwtH1Q84hJcwJHr"
+        },
+        {
+          "name": "Marcinha BB",
+          "url": "https://open.spotify.com/artist/4KGopYW2G8P41kyEXlYLU7"
+        },
+        {
+          "name": "Mar\u00edlia Sodr\u00e9",
+          "url": "https://open.spotify.com/artist/4vFvo1osQ1NCjyKnFD6hVh"
+        }
+      ],
+      "duration_ms": 179891,
+      "name": "C\u00e2ncer Com Touro",
+      "url": "https://open.spotify.com/track/3uupLgLlD2ZIe6D1CuRVjW"
+    },
+    {
+      "added_at": "2024-07-19 03:01:00",
+      "album": {
         "name": "Onze (M\u00fasicas In\u00e9ditas de Adoniran Barbosa)",
         "url": "https://open.spotify.com/album/5XhVm7loNdz3YTAkTgDPgF"
       },
@@ -1167,6 +1167,22 @@
       "duration_ms": 210223,
       "name": "A Carta - Ao Vivo",
       "url": "https://open.spotify.com/track/5SBtvHWDye0wHQZzyIp9jz"
+    },
+    {
+      "added_at": "2024-07-19 03:01:00",
+      "album": {
+        "name": "Macieira",
+        "url": "https://open.spotify.com/album/1nfsB4TyQJUTefoMzBohSQ"
+      },
+      "artists": [
+        {
+          "name": "Tel\u00ea",
+          "url": "https://open.spotify.com/artist/2o8rkPYB1LuAn1CfN0xjm1"
+        }
+      ],
+      "duration_ms": 203680,
+      "name": "Macieira",
+      "url": "https://open.spotify.com/track/2Aa7811ydihpw3zDKimFDX"
     },
     {
       "added_at": "2024-07-19 03:01:00",
@@ -1219,22 +1235,6 @@
       "duration_ms": 241254,
       "name": "Conselheiro Calado",
       "url": "https://open.spotify.com/track/7MHTISeIULk2TxbJKJDWSO"
-    },
-    {
-      "added_at": "2024-07-19 03:01:00",
-      "album": {
-        "name": "Macieira",
-        "url": "https://open.spotify.com/album/1nfsB4TyQJUTefoMzBohSQ"
-      },
-      "artists": [
-        {
-          "name": "Tel\u00ea",
-          "url": "https://open.spotify.com/artist/2o8rkPYB1LuAn1CfN0xjm1"
-        }
-      ],
-      "duration_ms": 203680,
-      "name": "Macieira",
-      "url": "https://open.spotify.com/track/2Aa7811ydihpw3zDKimFDX"
     },
     {
       "added_at": "2024-07-19 03:01:00",

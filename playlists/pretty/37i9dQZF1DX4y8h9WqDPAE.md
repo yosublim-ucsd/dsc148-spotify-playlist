@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 
 > Where R&B meets Hip\-Hop, Pop and everything in between !  Cover: Kehlani
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,747,739 likes - 175 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,747,711 likes - 175 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

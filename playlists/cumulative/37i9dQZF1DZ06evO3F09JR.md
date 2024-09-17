@@ -4,7 +4,7 @@
 
 > This is Alessandro Cortini\. The essential tracks, all in one playlist.
 
-127 songs - 13 hr 6 min
+128 songs - 13 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [CORRI](https://open.spotify.com/track/5AFHQZ2mgLhyk8MzY5z4X2) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [SCURO CHIARO](https://open.spotify.com/album/7GdeIkHAyeOJDPpg34hNAg) | 4:17 | 2023-07-30 |  |
 | [Darkened Skies](https://open.spotify.com/track/1MUsuNmzi1f8KvtvkB5AI6) | [Alain Johannes](https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Norm Block](https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm) | [Tom Clancy's Ghost Recon Breakpoint \(Original Game Soundtrack\)](https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO) | 2:53 | 2022-12-30 |  |
 | [Dell'influenza](https://open.spotify.com/track/45xOHZqCBlK3JHSFN1SaxA) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Sonno](https://open.spotify.com/album/6fXNm5RvqVEMi2X7368caX) | 3:55 | 2024-09-01 | 2024-09-09 |
+| [Di passaggio](https://open.spotify.com/track/3gaEmxf6NoXZo2dhKqGi2C) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Sonno](https://open.spotify.com/album/6fXNm5RvqVEMi2X7368caX) | 4:52 | 2024-09-17 |  |
 | [Dietrofront](https://open.spotify.com/track/7BsVebGCG6XsIhzEzS45hl) | [Matteo Vallicelli](https://open.spotify.com/artist/21rQDMeCpg6ajDDdEbk1OL), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Esc](https://open.spotify.com/album/6bcV6kB4szpro5Odp4CcO0) | 6:17 | 2024-08-03 |  |
 | [Doggie Tattoo](https://open.spotify.com/track/2SCZ9BIG8enHSTKbRsZfPG) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Baseck](https://open.spotify.com/artist/3osPFn4n6nIX1cI3EOaJMq) | [Dirty A.D.](https://open.spotify.com/album/4VYWrDOWysHeCogEzl6i2H) | 5:47 | 2024-01-27 | 2024-08-30 |
 | [ECCO](https://open.spotify.com/track/2zplGQ1MtHa4dMtGtRGpmS) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [SCURO CHIARO](https://open.spotify.com/album/045jhBuqmI4EXPrtKY3RbD) | 4:30 | 2024-01-06 | 2024-06-01 |
@@ -65,7 +66,7 @@
 | [Inside The Ruins](https://open.spotify.com/track/35ZNF2MIZ0QsYK1tGcONKJ) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Illusion Of Time](https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi) | 6:09 | 2022-05-29 | 2024-06-26 |
 | [Interrupted By The Cloud Of Light](https://open.spotify.com/track/2piqRx94EW1ZC6jIcct63N) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Illusion Of Time](https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi) | 1:54 | 2022-08-07 |  |
 | [IV](https://open.spotify.com/track/5aFjxj67TfCqxztInFyhtp) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [IV](https://open.spotify.com/album/4Vb2SuRDHzpmrLH2KJSJmG) | 5:05 | 2024-09-05 |  |
-| [La Guardia](https://open.spotify.com/track/3W9EtXgVkjZfcSGPjsxU4f) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Risveglio](https://open.spotify.com/album/5fAdZa0NA7lkx1SSH5i7OG) | 6:36 | 2024-08-26 |  |
+| [La Guardia](https://open.spotify.com/track/3W9EtXgVkjZfcSGPjsxU4f) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Risveglio](https://open.spotify.com/album/5fAdZa0NA7lkx1SSH5i7OG) | 6:36 | 2024-08-26 | 2024-09-17 |
 | [La Meta](https://open.spotify.com/track/2ztGZ1f2NjiYY18CmI3BAN) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Risveglio](https://open.spotify.com/album/5fAdZa0NA7lkx1SSH5i7OG) | 2:07 | 2024-08-22 |  |
 | [LA STORIA](https://open.spotify.com/track/1zNwVaR5uKDJTtrWssSMwc) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [VOLUME MASSIMO](https://open.spotify.com/album/0eQcXzLkavsGjvi6wN81TK) | 5:42 | 2023-07-27 |  |
 | [LA STORIA](https://open.spotify.com/track/3OwdOsj1MA6ut2aiqY46Ir) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [VOLUME MASSIMO](https://open.spotify.com/album/21wC2FR62EbrsmfD1gpmhN) | 5:42 | 2023-06-29 | 2023-07-13 |

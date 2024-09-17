@@ -4,7 +4,7 @@
 
 > Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Marcelo Tofani, Marina Sena
 
-828 songs - 1 day 17 hr 36 min
+829 songs - 1 day 17 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Aquela Não Fui Eu](https://open.spotify.com/track/016qZ4Rt7sDJ6S9nxYUrrx) | [MADÚ](https://open.spotify.com/artist/2tJ2rv15e4PIhS6SSnOkxR) | [Aquela Não Fui Eu](https://open.spotify.com/album/52thyQCvkrlu9H6wcI0jD4) | 2:34 | 2023-03-31 | 2023-04-22 |
 | [Aquela Sobre o Fim](https://open.spotify.com/track/1MOxWRCuwriq5fEUqD4YCU) | [Juliah](https://open.spotify.com/artist/5iUxzlKaTdzdvH0Fwmz002) | [Playlist Sobre Date](https://open.spotify.com/album/6fFB8GgpN4OTZIVlzaszcx) | 2:52 | 2023-05-26 | 2023-06-17 |
 | [Arder de Amor \(Sol\)](https://open.spotify.com/track/5e0fW6tGj8vFlwRdW3isaW) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [COSMOS](https://open.spotify.com/album/6e9wu0uLU3dIBYz7GOh8Dv) | 4:14 | 2024-03-22 | 2024-05-11 |
-| [Ariana](https://open.spotify.com/track/0mDcEQc2cjNbK0BXIunJli) | [Igor Jansen](https://open.spotify.com/artist/54Pv9pzUjOxS46LyOsdnyz), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Meus Gostos](https://open.spotify.com/album/0zmmeosdFMUp97fVS7p9Sb) | 2:48 | 2024-07-19 |  |
+| [Ariana](https://open.spotify.com/track/0mDcEQc2cjNbK0BXIunJli) | [Igor Jansen](https://open.spotify.com/artist/54Pv9pzUjOxS46LyOsdnyz), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Meus Gostos](https://open.spotify.com/album/0zmmeosdFMUp97fVS7p9Sb) | 2:48 | 2024-07-19 | 2024-09-17 |
 | [Assanhadinha](https://open.spotify.com/track/3akR6DnboLGowHS3Zzk5IR) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [MC Durrony](https://open.spotify.com/artist/2s1GtomGAJ3fnqQBkUXbIL) | [Assanhadinha](https://open.spotify.com/album/4OCxpsJAeY4CjEovKLJXms) | 2:36 | 2023-09-15 | 2023-10-28 |
 | [Assault \(Crime Perfeito\)](https://open.spotify.com/track/7b8kjWj4TKWmWo2LX9Lkiz) | [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Azevedo](https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY), [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg) | [Assault \(Crime Perfeito\)](https://open.spotify.com/album/3tnFroQ43SHOKeCxMLAAxY) | 3:44 | 2020-10-20 | 2022-07-27 |
 | [Atenção](https://open.spotify.com/track/2V6GQIS5s2HsMoIpR9wi77) | [Letícia Hally](https://open.spotify.com/artist/47q3Hm8x4YEh0ZNocF323p) | [Atenção](https://open.spotify.com/album/5rbPngm7aHcm5QJLNwSdke) | 2:36 | 2023-09-15 | 2023-10-14 |
@@ -426,6 +426,7 @@
 | [Me Amarro Nela](https://open.spotify.com/track/2gf5XAIP3Vb94V4RhpuJX4) | [Nilo](https://open.spotify.com/artist/5uD6uRKj2xYxpqx8bscaco), [Giana Mello](https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi), [Guiggow](https://open.spotify.com/artist/5EQOHqyIiNMSVwndMmZRuN) | [Sonhei com você / Me Amarro Nela](https://open.spotify.com/album/5jtqUMEDYPccKAPINHCm2o) | 2:10 | 2023-12-15 | 2024-06-29 |
 | [me chama de sua](https://open.spotify.com/track/50QrmagG9X8vRa6MSZqFGB) | [Bruna Mendez](https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc), [BRUNÊ](https://open.spotify.com/artist/5h3hEweoebaD7dHjZEmKRf), [DeVito Cxrleone](https://open.spotify.com/artist/6VrY01U9G7eJtIFlvG4U0k) | [Love Songs, Vol\. I](https://open.spotify.com/album/3Y0u6P7Nnji4j01vGbH2ON) | 2:19 | 2024-03-29 |  |
 | [Me Deixa](https://open.spotify.com/track/1u6iYgTh8yBx2riLQWEHwI) | [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu), [JnrBeats](https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt) | [Me Deixa](https://open.spotify.com/album/1cDvl8vFwh5TTweTSZYmxk) | 2:29 | 2023-05-12 | 2023-06-17 |
+| [Me Deixa Viver](https://open.spotify.com/track/5iJvohWRfudJWPr7XpDHGM) | [GIANA](https://open.spotify.com/artist/4qB4n69ENaMdCb37AYd6wk) | [Me Deixa Viver](https://open.spotify.com/album/2nDaxKg56RVEtrnSATeAAV) | 3:14 | 2024-09-16 |  |
 | [me deixa voltar?](https://open.spotify.com/track/6k6LWMqzAQIA4LH32MRKEZ) | [Milla](https://open.spotify.com/artist/1IATW2PPpsnKIEIaDY5CvT) | [seu lugar](https://open.spotify.com/album/5xzvOsycoIt1q2wGfnkSXV) | 3:01 | 2023-02-14 | 2023-03-25 |
 | [Me Diz Quando A Gente Vai Se Ver](https://open.spotify.com/track/3V3rR9wRGtdlk5sdvCgqvZ) | [Cammie](https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5) | [Me Diz Quando A Gente Vai Se Ver](https://open.spotify.com/album/4HaYoVYUGvHcPX9dEhtFlg) | 2:55 | 2024-09-06 |  |
 | [Me dói, boy](https://open.spotify.com/track/4uCFdG7R68kRkddT2KYc29) | [Lori](https://open.spotify.com/artist/30zBkdxHh8fXgxTx99rwhH), [Matias](https://open.spotify.com/artist/3hHdEHtL3SZWDjjz4cAWP2), [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS) | [Me dói, boy](https://open.spotify.com/album/5tuAV2Ou1rWmoCKUZC1U3T) | 3:02 | 2023-02-14 | 2023-04-01 |

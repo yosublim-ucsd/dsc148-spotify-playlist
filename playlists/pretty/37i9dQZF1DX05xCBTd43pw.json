@@ -1,6 +1,6 @@
 {
   "description": "Gr\u00fcezi! This is 100% made in Switzerland. ",
-  "num_followers": 36696,
+  "num_followers": 36705,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,6 @@
     {
       "added_at": "2024-09-13 07:22:08",
       "album": {
-        "name": "i always remember all of my dreams",
-        "url": "https://open.spotify.com/album/5uul9EttWCRZtIkvxLwNwq"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Amaru",
-          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
-        }
-      ],
-      "duration_ms": 171800,
-      "name": "that life",
-      "url": "https://open.spotify.com/track/2h380v9zZM6kaarDPvijMk"
-    },
-    {
-      "added_at": "2024-09-13 07:22:08",
-      "album": {
         "name": "Rollen in den Norden",
         "url": "https://open.spotify.com/album/1nD5KpzwWkHiJPKZMH273C"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 150648,
       "name": "Rollen in den Norden",
       "url": "https://open.spotify.com/track/6azpoZEIlXsc4SkmfcOskn"
+    },
+    {
+      "added_at": "2024-09-13 07:22:08",
+      "album": {
+        "name": "i always remember all of my dreams",
+        "url": "https://open.spotify.com/album/5uul9EttWCRZtIkvxLwNwq"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Amaru",
+          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
+        }
+      ],
+      "duration_ms": 171800,
+      "name": "that life",
+      "url": "https://open.spotify.com/track/2h380v9zZM6kaarDPvijMk"
     },
     {
       "added_at": "2024-09-13 07:22:08",
@@ -359,8 +359,8 @@
     {
       "added_at": "2024-09-13 07:22:08",
       "album": {
-        "name": "i think i'm in love",
-        "url": "https://open.spotify.com/album/3XoVhwa02RGA8RYIucnNe9"
+        "name": "fire",
+        "url": "https://open.spotify.com/album/1hgAohjAQrlGl43jp3gipc"
       },
       "artists": [
         {
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
         }
       ],
-      "duration_ms": 187542,
-      "name": "i think i'm in love",
-      "url": "https://open.spotify.com/track/0U97wZxxQhrjUuTB9uqoke"
+      "duration_ms": 135866,
+      "name": "fire",
+      "url": "https://open.spotify.com/track/7odcXBYFpT2gzYBWBrKRlo"
     },
     {
       "added_at": "2024-09-13 07:22:08",
@@ -491,8 +491,8 @@
     {
       "added_at": "2024-09-13 07:22:08",
       "album": {
-        "name": "fire",
-        "url": "https://open.spotify.com/album/1hgAohjAQrlGl43jp3gipc"
+        "name": "i think i'm in love",
+        "url": "https://open.spotify.com/album/3XoVhwa02RGA8RYIucnNe9"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
         }
       ],
-      "duration_ms": 135866,
-      "name": "fire",
-      "url": "https://open.spotify.com/track/7odcXBYFpT2gzYBWBrKRlo"
+      "duration_ms": 187542,
+      "name": "i think i'm in love",
+      "url": "https://open.spotify.com/track/0U97wZxxQhrjUuTB9uqoke"
     },
     {
       "added_at": "2024-09-13 07:22:08",
@@ -539,18 +539,18 @@
     {
       "added_at": "2024-09-13 07:22:08",
       "album": {
-        "name": "Another Heart",
-        "url": "https://open.spotify.com/album/4l4nNA4kBnWJKWeGZyb12d"
+        "name": "Full 180",
+        "url": "https://open.spotify.com/album/3eieGX1EUezKzPNSdCtPER"
       },
       "artists": [
         {
-          "name": "ILIRA",
-          "url": "https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41"
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
         }
       ],
-      "duration_ms": 142786,
-      "name": "Another Heart",
-      "url": "https://open.spotify.com/track/4azu3mztPqAbJLDGrcraQK"
+      "duration_ms": 216249,
+      "name": "Full 180",
+      "url": "https://open.spotify.com/track/62UNeZ8qIJ4INYevYoQadG"
     },
     {
       "added_at": "2024-09-13 07:22:08",
@@ -603,18 +603,18 @@
     {
       "added_at": "2024-09-13 07:22:08",
       "album": {
-        "name": "Full 180",
-        "url": "https://open.spotify.com/album/3eieGX1EUezKzPNSdCtPER"
+        "name": "Another Heart",
+        "url": "https://open.spotify.com/album/4l4nNA4kBnWJKWeGZyb12d"
       },
       "artists": [
         {
-          "name": "Remo Forrer",
-          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+          "name": "ILIRA",
+          "url": "https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41"
         }
       ],
-      "duration_ms": 216249,
-      "name": "Full 180",
-      "url": "https://open.spotify.com/track/62UNeZ8qIJ4INYevYoQadG"
+      "duration_ms": 142786,
+      "name": "Another Heart",
+      "url": "https://open.spotify.com/track/4azu3mztPqAbJLDGrcraQK"
     },
     {
       "added_at": "2024-09-13 07:22:08",
@@ -631,6 +631,22 @@
       "duration_ms": 226334,
       "name": "Softly Speaking",
       "url": "https://open.spotify.com/track/7deNy580xvtMQzvzXhlBwF"
+    },
+    {
+      "added_at": "2024-09-13 07:22:08",
+      "album": {
+        "name": "Alright",
+        "url": "https://open.spotify.com/album/5lJ5Ns7bIDv0KWoEJUW5xM"
+      },
+      "artists": [
+        {
+          "name": "DANA",
+          "url": "https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr"
+        }
+      ],
+      "duration_ms": 202587,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/34GXxkoiX3dTC4GSGFY7xL"
     },
     {
       "added_at": "2024-09-13 07:22:08",
@@ -671,22 +687,6 @@
     {
       "added_at": "2024-09-13 07:22:08",
       "album": {
-        "name": "Alright",
-        "url": "https://open.spotify.com/album/5lJ5Ns7bIDv0KWoEJUW5xM"
-      },
-      "artists": [
-        {
-          "name": "DANA",
-          "url": "https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr"
-        }
-      ],
-      "duration_ms": 202587,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/34GXxkoiX3dTC4GSGFY7xL"
-    },
-    {
-      "added_at": "2024-09-13 07:22:08",
-      "album": {
         "name": "Home (The Voice Of Switzerland)",
         "url": "https://open.spotify.com/album/1nNkmovkHuMpCbdsELoYR8"
       },
@@ -719,6 +719,22 @@
     {
       "added_at": "2024-09-13 07:22:08",
       "album": {
+        "name": "Maggie",
+        "url": "https://open.spotify.com/album/527ETuK6j0NsH3ZlhdiUHp"
+      },
+      "artists": [
+        {
+          "name": "Linda Elys",
+          "url": "https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf"
+        }
+      ],
+      "duration_ms": 179617,
+      "name": "Maggie",
+      "url": "https://open.spotify.com/track/71xZNB0u4MKxLKSo0vsIjk"
+    },
+    {
+      "added_at": "2024-09-13 07:22:08",
+      "album": {
         "name": "Let You Down",
         "url": "https://open.spotify.com/album/0s3lcAryjPZFfLNB6gqWTk"
       },
@@ -735,18 +751,18 @@
     {
       "added_at": "2024-09-13 07:22:08",
       "album": {
-        "name": "Maggie",
-        "url": "https://open.spotify.com/album/527ETuK6j0NsH3ZlhdiUHp"
+        "name": "Nightmare",
+        "url": "https://open.spotify.com/album/7IZetdqf6INpVVT7Phr3hu"
       },
       "artists": [
         {
-          "name": "Linda Elys",
-          "url": "https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf"
+          "name": "Joya Marleen",
+          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
         }
       ],
-      "duration_ms": 179617,
-      "name": "Maggie",
-      "url": "https://open.spotify.com/track/71xZNB0u4MKxLKSo0vsIjk"
+      "duration_ms": 177269,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/0KDvS7va1nMUY1yBwXN6uZ"
     },
     {
       "added_at": "2024-09-13 07:22:08",
@@ -771,22 +787,6 @@
     {
       "added_at": "2024-09-13 07:22:08",
       "album": {
-        "name": "Nightmare",
-        "url": "https://open.spotify.com/album/7IZetdqf6INpVVT7Phr3hu"
-      },
-      "artists": [
-        {
-          "name": "Joya Marleen",
-          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
-        }
-      ],
-      "duration_ms": 177269,
-      "name": "Nightmare",
-      "url": "https://open.spotify.com/track/0KDvS7va1nMUY1yBwXN6uZ"
-    },
-    {
-      "added_at": "2024-09-13 07:22:08",
-      "album": {
         "name": "Colorblind",
         "url": "https://open.spotify.com/album/2sWFFkdTvfXKd60zupdNN3"
       },
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-09-13 07:22:08",
       "album": {
-        "name": "T\u00fa y Yo",
-        "url": "https://open.spotify.com/album/3E2PiQa0TO3ecSgrDDzN4e"
-      },
-      "artists": [
-        {
-          "name": "Loco Escrito",
-          "url": "https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ"
-        }
-      ],
-      "duration_ms": 164425,
-      "name": "T\u00fa y Yo",
-      "url": "https://open.spotify.com/track/1s5YXOdmyNk0KLEbKcKCRz"
-    },
-    {
-      "added_at": "2024-09-13 07:22:08",
-      "album": {
         "name": "Tribut",
         "url": "https://open.spotify.com/album/6CR79CTeKXHzHlRoDyDStP"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 197992,
       "name": "Tribut",
       "url": "https://open.spotify.com/track/0N1AE3zqGZYLmvffDCJkNy"
+    },
+    {
+      "added_at": "2024-09-13 07:22:08",
+      "album": {
+        "name": "T\u00fa y Yo",
+        "url": "https://open.spotify.com/album/3E2PiQa0TO3ecSgrDDzN4e"
+      },
+      "artists": [
+        {
+          "name": "Loco Escrito",
+          "url": "https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ"
+        }
+      ],
+      "duration_ms": 164425,
+      "name": "T\u00fa y Yo",
+      "url": "https://open.spotify.com/track/1s5YXOdmyNk0KLEbKcKCRz"
     },
     {
       "added_at": "2024-09-13 07:22:08",
@@ -867,8 +867,8 @@
     {
       "added_at": "2024-09-13 07:22:08",
       "album": {
-        "name": "rabbit holes",
-        "url": "https://open.spotify.com/album/3phEbmy3JlzoSijThN3gzE"
+        "name": "torn",
+        "url": "https://open.spotify.com/album/4tsVKMEScY3SQF6OkeDcbW"
       },
       "artists": [
         {
@@ -876,9 +876,9 @@
           "url": "https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe"
         }
       ],
-      "duration_ms": 216307,
-      "name": "rabbit holes",
-      "url": "https://open.spotify.com/track/1DIwckc1SPLX99Z0WdNGGi"
+      "duration_ms": 163115,
+      "name": "torn",
+      "url": "https://open.spotify.com/track/4Q4pIhQUUoqDagBCc81rX4"
     },
     {
       "added_at": "2024-09-13 07:22:08",
@@ -895,6 +895,22 @@
       "duration_ms": 164501,
       "name": "Counting Days",
       "url": "https://open.spotify.com/track/6ujzmWSyfa57nVtjNO54G0"
+    },
+    {
+      "added_at": "2024-09-13 07:22:08",
+      "album": {
+        "name": "SucieriaZH",
+        "url": "https://open.spotify.com/album/0HOt4Q0nybLug5MreioV5j"
+      },
+      "artists": [
+        {
+          "name": "Loco Escrito",
+          "url": "https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ"
+        }
+      ],
+      "duration_ms": 174296,
+      "name": "SucieriaZH",
+      "url": "https://open.spotify.com/track/1n5vXSrZ0xbFRG1JFi1L7t"
     },
     {
       "added_at": "2024-09-13 07:22:08",
@@ -935,6 +951,22 @@
     {
       "added_at": "2024-09-13 07:22:08",
       "album": {
+        "name": "Corpse Bride",
+        "url": "https://open.spotify.com/album/4LHyzaPhcYIfyyRfmdhHrs"
+      },
+      "artists": [
+        {
+          "name": "Eileen Alister",
+          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
+        }
+      ],
+      "duration_ms": 187053,
+      "name": "Corpse Bride",
+      "url": "https://open.spotify.com/track/0bARGmIFiwDIp05EM3PIYt"
+    },
+    {
+      "added_at": "2024-09-13 07:22:08",
+      "album": {
         "name": "Surfer Girl",
         "url": "https://open.spotify.com/album/7AUCY4FBxSUUzHp2YX5nkg"
       },
@@ -967,40 +999,8 @@
     {
       "added_at": "2024-09-13 07:22:08",
       "album": {
-        "name": "SucieriaZH",
-        "url": "https://open.spotify.com/album/0HOt4Q0nybLug5MreioV5j"
-      },
-      "artists": [
-        {
-          "name": "Loco Escrito",
-          "url": "https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ"
-        }
-      ],
-      "duration_ms": 174296,
-      "name": "SucieriaZH",
-      "url": "https://open.spotify.com/track/1n5vXSrZ0xbFRG1JFi1L7t"
-    },
-    {
-      "added_at": "2024-09-13 07:22:08",
-      "album": {
-        "name": "Corpse Bride",
-        "url": "https://open.spotify.com/album/4LHyzaPhcYIfyyRfmdhHrs"
-      },
-      "artists": [
-        {
-          "name": "Eileen Alister",
-          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
-        }
-      ],
-      "duration_ms": 187053,
-      "name": "Corpse Bride",
-      "url": "https://open.spotify.com/track/0bARGmIFiwDIp05EM3PIYt"
-    },
-    {
-      "added_at": "2024-09-13 07:22:08",
-      "album": {
-        "name": "torn",
-        "url": "https://open.spotify.com/album/4tsVKMEScY3SQF6OkeDcbW"
+        "name": "rabbit holes",
+        "url": "https://open.spotify.com/album/3phEbmy3JlzoSijThN3gzE"
       },
       "artists": [
         {
@@ -1008,9 +1008,25 @@
           "url": "https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe"
         }
       ],
-      "duration_ms": 163115,
-      "name": "torn",
-      "url": "https://open.spotify.com/track/4Q4pIhQUUoqDagBCc81rX4"
+      "duration_ms": 216307,
+      "name": "rabbit holes",
+      "url": "https://open.spotify.com/track/1DIwckc1SPLX99Z0WdNGGi"
+    },
+    {
+      "added_at": "2024-09-13 07:22:08",
+      "album": {
+        "name": "abused",
+        "url": "https://open.spotify.com/album/0FPHvkFMpuMpVfaNlxadU9"
+      },
+      "artists": [
+        {
+          "name": "LEILA",
+          "url": "https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg"
+        }
+      ],
+      "duration_ms": 188537,
+      "name": "abused",
+      "url": "https://open.spotify.com/track/04eAwj1S7LBrImIZVnl2yq"
     },
     {
       "added_at": "2024-09-13 07:22:08",
@@ -1051,38 +1067,6 @@
     {
       "added_at": "2024-09-13 07:22:08",
       "album": {
-        "name": "C:K:C",
-        "url": "https://open.spotify.com/album/7chcPzPRIeFfAwi3Y2Vaxd"
-      },
-      "artists": [
-        {
-          "name": "IKAN HYU",
-          "url": "https://open.spotify.com/artist/1kcgm5pRULbDb5gs7kDRNK"
-        }
-      ],
-      "duration_ms": 184159,
-      "name": "C:K:C",
-      "url": "https://open.spotify.com/track/0EYSzxTPgTIDErmid8Jatk"
-    },
-    {
-      "added_at": "2024-09-13 07:22:08",
-      "album": {
-        "name": "abused",
-        "url": "https://open.spotify.com/album/0FPHvkFMpuMpVfaNlxadU9"
-      },
-      "artists": [
-        {
-          "name": "LEILA",
-          "url": "https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg"
-        }
-      ],
-      "duration_ms": 188537,
-      "name": "abused",
-      "url": "https://open.spotify.com/track/04eAwj1S7LBrImIZVnl2yq"
-    },
-    {
-      "added_at": "2024-09-13 07:22:08",
-      "album": {
         "name": "Where Were You",
         "url": "https://open.spotify.com/album/4gNbqvaLePlFJDme8TfKeG"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 162836,
       "name": "Where Were You",
       "url": "https://open.spotify.com/track/0wQX5IoDmttPaz7imkbrCQ"
+    },
+    {
+      "added_at": "2024-09-13 07:22:08",
+      "album": {
+        "name": "C:K:C",
+        "url": "https://open.spotify.com/album/7chcPzPRIeFfAwi3Y2Vaxd"
+      },
+      "artists": [
+        {
+          "name": "IKAN HYU",
+          "url": "https://open.spotify.com/artist/1kcgm5pRULbDb5gs7kDRNK"
+        }
+      ],
+      "duration_ms": 184159,
+      "name": "C:K:C",
+      "url": "https://open.spotify.com/track/0EYSzxTPgTIDErmid8Jatk"
     },
     {
       "added_at": "2024-09-13 07:22:08",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2024-09-13 07:22:08",
       "album": {
-        "name": "Julia",
-        "url": "https://open.spotify.com/album/59GWFnfxZuC00B708ZeKvk"
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/7LqoKNNpnPoNr9UUkB15cb"
       },
       "artists": [
         {
-          "name": "Andryy",
-          "url": "https://open.spotify.com/artist/7EOSMyuCedHppuXhVBsbEP"
+          "name": "Jared Lembo",
+          "url": "https://open.spotify.com/artist/7m40p3LDka0BxsiX0tZT9g"
         }
       ],
-      "duration_ms": 194379,
-      "name": "Julia",
-      "url": "https://open.spotify.com/track/6CTHHyCpJqqZiHQ8IdTKX3"
+      "duration_ms": 147629,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/5kdUm7nOGQs006nNNFxnAL"
     }
   ],
   "unique_name": "Swiss Made",

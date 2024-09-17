@@ -4,7 +4,7 @@
 
 > New music from Black artists every Friday\. Cover: <a href="spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ">The Weeknd</a>
 
-3,767 songs - 7 day 21 hr 45 min
+3,768 songs - 7 day 21 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3386,7 +3386,7 @@
 | [Too Much](https://open.spotify.com/track/4rzfXpou7FRHP1kIAerMCH) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Too Much](https://open.spotify.com/album/38sQTEAfgwCCTWj5Grmosc) | 3:50 | 2024-06-21 | 2024-06-29 |
 | [Too Much Time](https://open.spotify.com/track/52Cb0LJqGkhTf1FdZKUXRk) | [Eli Wilson](https://open.spotify.com/artist/5oQxK0KlCYoKZg8wS5Pm0p) | [Too Much Time](https://open.spotify.com/album/7qosDtVE1hK4dZyjJDHOjx) | 3:01 | 2024-05-17 | 2024-05-25 |
 | [Too Nice](https://open.spotify.com/track/6TLsYdcjgjiBAFY1Vzhl5w) | [Jabb](https://open.spotify.com/artist/7pqRXXauuwGQqzrvvz0Azl) | [Too Nice](https://open.spotify.com/album/0EWmeppHgwRfPwCDqA2gf1) | 2:10 | 2023-01-13 | 2023-01-28 |
-| [Took A Trip](https://open.spotify.com/track/7j7zoMPF1A4nB78YGPwxFK) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Took A Trip](https://open.spotify.com/album/6c4JyjDh5EuyGCGeC1MUAH) | 3:08 | 2024-09-13 |  |
+| [Took A Trip](https://open.spotify.com/track/7j7zoMPF1A4nB78YGPwxFK) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Took A Trip](https://open.spotify.com/album/6c4JyjDh5EuyGCGeC1MUAH) | 3:08 | 2024-09-13 | 2024-09-17 |
 | [Toot It Up \(with Flo Milli\)](https://open.spotify.com/track/3WKralGDklxTjxcMkGKx2g) | [Sally Sossa](https://open.spotify.com/artist/58q28H7IgX06YXkPvUtGgR), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Toot It Up \(with Flo Milli\)](https://open.spotify.com/album/26TdIHP2CgrCBAfcwbexhP) | 2:49 | 2022-03-25 | 2022-04-23 |
 | [Top G](https://open.spotify.com/track/1N1gsO7kqA3bt9YqUXqARm) | [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay) | [Top G](https://open.spotify.com/album/75pxiiFLD7OdSdYQYUpyGK) | 3:33 | 2023-05-19 | 2023-09-16 |
 | [Top Notch \(feat\. Fivio Foreign\)](https://open.spotify.com/track/5pH8a5XwtyjHhGWXINFDgu) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Top Notch \(feat\. Fivio Foreign\)](https://open.spotify.com/album/6ZMqT0qr0Sh9lb1Ww2bU7M) | 2:49 | 2022-04-01 | 2022-04-16 |
@@ -3595,6 +3595,7 @@
 | [Werser](https://open.spotify.com/track/0lwtH7XuptGvmpej4zvoUo) | [ChopLife SoundSystem](https://open.spotify.com/artist/6s93Sx8tUcsqIWtCJJzQMw), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Chop Life, Vol\. 1: Mzansi Chronicles](https://open.spotify.com/album/2TvhWKLTi6Gv3LCndQDeM0) | 4:08 | 2023-11-29 | 2024-01-20 |
 | [Werser](https://open.spotify.com/track/5ysRcpZAYSHvqtMNKgQQ16) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Werser](https://open.spotify.com/album/1GkNzKt3pj4Gg2by8cokBI) | 4:08 | 2023-01-27 | 2023-02-18 |
 | [Wet](https://open.spotify.com/track/4RCwUGboTNqqrY2tgy37nF) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Wet](https://open.spotify.com/album/31TtTfGTyqjNQvTXa6Ig9u) | 2:16 | 2022-08-19 | 2022-09-10 |
+| [WET](https://open.spotify.com/track/6ZDnXyrBj9AxMNQ4yK7HUS) | [Mowalola](https://open.spotify.com/artist/6BjTMFkrQJF8cQlVsLFbUh), [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [WET](https://open.spotify.com/album/6SggZBrSlNC7MwC9kmTxKg) | 1:32 | 2024-09-16 |  |
 | [We’re All Gonna Die \(with Noah Kahan\)](https://open.spotify.com/track/2Eb2TKNAaE15Fqd4A3MFWU) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [We’re All Gonna Die](https://open.spotify.com/album/1uiwlKORLzoDvBsDiLdkm4) | 2:59 | 2023-03-17 | 2023-04-09 |
 | [WHAM](https://open.spotify.com/track/3Z9YfC5FAWMc2y5QrFpc4V) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [WHAM](https://open.spotify.com/album/7CVGbHHVEujwRkpIs4yoUT) | 2:56 | 2022-09-09 | 2022-10-01 |
 | [WHARF TALK \(feat\. A$AP Rocky\)](https://open.spotify.com/track/3u9PAti8muEXXvEjeFpQK0) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 3:24 | 2023-03-31 | 2023-04-22 |

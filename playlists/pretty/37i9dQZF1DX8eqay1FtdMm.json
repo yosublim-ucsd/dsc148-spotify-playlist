@@ -1,6 +1,6 @@
 {
   "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: Solji(\uc194\uc9c0)) (\uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 378499,
+  "num_followers": 378492,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
@@ -359,22 +359,6 @@
     {
       "added_at": "2024-09-13 09:07:48",
       "album": {
-        "name": "BLOSSOM - THE 3RD MINI ALBUM",
-        "url": "https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk"
-      },
-      "artists": [
-        {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
-        }
-      ],
-      "duration_ms": 215946,
-      "name": "About Time",
-      "url": "https://open.spotify.com/track/5QZTJG7X1ocodzYKmyhFoD"
-    },
-    {
-      "added_at": "2024-09-13 09:07:48",
-      "album": {
         "name": "Dandelion",
         "url": "https://open.spotify.com/album/5FvhtKgxtrYHULhgdwPTDO"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 274400,
       "name": "Dandelion",
       "url": "https://open.spotify.com/track/6Gxl4O8CQIHsYPlCMnimG7"
+    },
+    {
+      "added_at": "2024-09-13 09:07:48",
+      "album": {
+        "name": "BLOSSOM - THE 3RD MINI ALBUM",
+        "url": "https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "duration_ms": 215946,
+      "name": "About Time",
+      "url": "https://open.spotify.com/track/5QZTJG7X1ocodzYKmyhFoD"
     },
     {
       "added_at": "2024-09-13 09:07:48",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-09-13 09:07:48",
       "album": {
-        "name": "Lovers of the Red Sky OST Part.1",
-        "url": "https://open.spotify.com/album/2SjRTq6N8ZKcEcgOy78OAe"
-      },
-      "artists": [
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        }
-      ],
-      "duration_ms": 248066,
-      "name": "Is it me?",
-      "url": "https://open.spotify.com/track/2iKWzOAUsK6pps6faKWaZQ"
-    },
-    {
-      "added_at": "2024-09-13 09:07:48",
-      "album": {
         "name": "Story Of Two Years",
         "url": "https://open.spotify.com/album/6jhAP6Gdtm8iTcH8OMkeVt"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 246293,
       "name": "\ub108\ub97c \uc704\ud574",
       "url": "https://open.spotify.com/track/2yY6cliPDD0lyXgebWzhrr"
+    },
+    {
+      "added_at": "2024-09-13 09:07:48",
+      "album": {
+        "name": "Lovers of the Red Sky OST Part.1",
+        "url": "https://open.spotify.com/album/2SjRTq6N8ZKcEcgOy78OAe"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "duration_ms": 248066,
+      "name": "Is it me?",
+      "url": "https://open.spotify.com/track/2iKWzOAUsK6pps6faKWaZQ"
     },
     {
       "added_at": "2024-09-13 09:07:48",
@@ -1175,18 +1175,22 @@
     {
       "added_at": "2024-09-13 09:07:48",
       "album": {
-        "name": "Love That Only Heaven Allows",
-        "url": "https://open.spotify.com/album/6FrA8j1imC1nXzzXjb1Psy"
+        "name": "\uae34 \ubc24 (feat. GIRIBOY)",
+        "url": "https://open.spotify.com/album/3AuhCLxpvg4gWl2Oi8D043"
       },
       "artists": [
         {
-          "name": "AILEE",
-          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+          "name": "Seori",
+          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
+        },
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
         }
       ],
-      "duration_ms": 239527,
-      "name": "Love That Only Heaven Allows",
-      "url": "https://open.spotify.com/track/7KqDuh9FooIIU2aw7iJY3A"
+      "duration_ms": 210853,
+      "name": "\uae34 \ubc24 (feat. GIRIBOY)",
+      "url": "https://open.spotify.com/track/5YAO57ujV1cs5eubzyOL1E"
     },
     {
       "added_at": "2024-09-13 09:07:48",
@@ -1231,22 +1235,18 @@
     {
       "added_at": "2024-09-13 09:07:48",
       "album": {
-        "name": "\uae34 \ubc24 (feat. GIRIBOY)",
-        "url": "https://open.spotify.com/album/3AuhCLxpvg4gWl2Oi8D043"
+        "name": "Love That Only Heaven Allows",
+        "url": "https://open.spotify.com/album/6FrA8j1imC1nXzzXjb1Psy"
       },
       "artists": [
         {
-          "name": "Seori",
-          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
-        },
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
         }
       ],
-      "duration_ms": 210853,
-      "name": "\uae34 \ubc24 (feat. GIRIBOY)",
-      "url": "https://open.spotify.com/track/5YAO57ujV1cs5eubzyOL1E"
+      "duration_ms": 239527,
+      "name": "Love That Only Heaven Allows",
+      "url": "https://open.spotify.com/track/7KqDuh9FooIIU2aw7iJY3A"
     },
     {
       "added_at": "2024-09-13 09:07:48",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2024-09-13 09:07:48",
       "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/6MuCnZXw3dRrXfUvUjsPn6"
+        "name": "Roommates",
+        "url": "https://open.spotify.com/album/5Azd14om1goQJ4koUxhmvS"
       },
       "artists": [
         {
-          "name": "L (INFINITE)",
-          "url": "https://open.spotify.com/artist/2Vm2JJpUJzLoBEYQEVrmdV"
+          "name": "Junggigo",
+          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
         }
       ],
-      "duration_ms": 206666,
-      "name": "What's Not To Love",
-      "url": "https://open.spotify.com/track/45HfDac3XJkRZMqgS103Ih"
+      "duration_ms": 150520,
+      "name": "Roommates",
+      "url": "https://open.spotify.com/track/2FAamYOzmodzpf7x4Yl8UI"
     },
     {
       "added_at": "2024-09-13 09:07:48",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2024-09-13 09:07:48",
       "album": {
-        "name": "Roommates",
-        "url": "https://open.spotify.com/album/5Azd14om1goQJ4koUxhmvS"
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/6MuCnZXw3dRrXfUvUjsPn6"
       },
       "artists": [
         {
-          "name": "Junggigo",
-          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
+          "name": "L (INFINITE)",
+          "url": "https://open.spotify.com/artist/2Vm2JJpUJzLoBEYQEVrmdV"
         }
       ],
-      "duration_ms": 150520,
-      "name": "Roommates",
-      "url": "https://open.spotify.com/track/2FAamYOzmodzpf7x4Yl8UI"
+      "duration_ms": 206666,
+      "name": "What's Not To Love",
+      "url": "https://open.spotify.com/track/45HfDac3XJkRZMqgS103Ih"
     },
     {
       "added_at": "2024-09-13 09:07:48",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-09-13 09:07:48",
       "album": {
-        "name": "The Little Prince",
-        "url": "https://open.spotify.com/album/4IhQK9dp1h4Iex4cFzFEkY"
-      },
-      "artists": [
-        {
-          "name": "SEO EUNKWANG",
-          "url": "https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2"
-        }
-      ],
-      "duration_ms": 261372,
-      "name": "The Little Prince",
-      "url": "https://open.spotify.com/track/0LGmR0txlWO9k6NY24G7Uv"
-    },
-    {
-      "added_at": "2024-09-13 09:07:48",
-      "album": {
         "name": "5.5 [Dear]",
         "url": "https://open.spotify.com/album/5Xj2IIbt7LhiFppSWrLB6l"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 221946,
       "name": "Dear",
       "url": "https://open.spotify.com/track/6fPdsA80GQ6SwfCC1sO7Y9"
+    },
+    {
+      "added_at": "2024-09-13 09:07:48",
+      "album": {
+        "name": "The Little Prince",
+        "url": "https://open.spotify.com/album/4IhQK9dp1h4Iex4cFzFEkY"
+      },
+      "artists": [
+        {
+          "name": "SEO EUNKWANG",
+          "url": "https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2"
+        }
+      ],
+      "duration_ms": 261372,
+      "name": "The Little Prince",
+      "url": "https://open.spotify.com/track/0LGmR0txlWO9k6NY24G7Uv"
     },
     {
       "added_at": "2024-09-13 09:07:48",

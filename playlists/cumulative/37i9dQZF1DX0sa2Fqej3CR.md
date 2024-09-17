@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0sa2Fqej3CR.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0sa2Fqej3CR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0sa2Fqej3CR)
 
-### [가족 사진](https://open.spotify.com/playlist/37i9dQZF1DX0sa2Fqej3CR)
+### [가족 사진 \(Family Picture\)](https://open.spotify.com/playlist/37i9dQZF1DX0sa2Fqej3CR)
 
-> 가장 소중한 내 편 \- 가족들을 생각하며 곡을 감상해보세요\. \(커버: ???\)
+> 가장 소중한 내 편 \- 가족들을 생각하며 곡을 감상해보세요\. \(커버: 다이나믹 듀오\) My Most Precious Side \- Listen to the song while thinking of your family\. \(Cover: Dynamic Duo\)
 
 327 songs - 19 hr 4 min
 

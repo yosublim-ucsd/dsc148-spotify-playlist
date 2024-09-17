@@ -1,6 +1,6 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Joe Mettle",
-  "num_followers": 12172,
+  "num_followers": 12179,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
@@ -655,22 +655,22 @@
     {
       "added_at": "2024-09-06 09:51:33",
       "album": {
-        "name": "DND",
-        "url": "https://open.spotify.com/album/3HbT4thk3EqWVSF278MPPX"
+        "name": "Chale",
+        "url": "https://open.spotify.com/album/4XY20uumfyqrVMspFmBF17"
       },
       "artists": [
         {
-          "name": "Kofi Dartey",
-          "url": "https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr"
+          "name": "richieo",
+          "url": "https://open.spotify.com/artist/1I0DhnrGCFdgRHreaYacf0"
         },
         {
-          "name": "Nana Yaw Ofori-Atta",
-          "url": "https://open.spotify.com/artist/1D6DzRCxKig1KCd4uDuHoL"
+          "name": "Kofi Kinaata",
+          "url": "https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm"
         }
       ],
-      "duration_ms": 163628,
-      "name": "DND",
-      "url": "https://open.spotify.com/track/00NKcAGMQcLgown5dtYfCs"
+      "duration_ms": 146779,
+      "name": "Chale",
+      "url": "https://open.spotify.com/track/4hKnUUJ5YUz21mEKk1KyFs"
     },
     {
       "added_at": "2024-09-06 09:51:33",
@@ -691,22 +691,22 @@
     {
       "added_at": "2024-09-06 09:51:33",
       "album": {
-        "name": "Chale",
-        "url": "https://open.spotify.com/album/4XY20uumfyqrVMspFmBF17"
+        "name": "DND",
+        "url": "https://open.spotify.com/album/3HbT4thk3EqWVSF278MPPX"
       },
       "artists": [
         {
-          "name": "richieo",
-          "url": "https://open.spotify.com/artist/1I0DhnrGCFdgRHreaYacf0"
+          "name": "Kofi Dartey",
+          "url": "https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr"
         },
         {
-          "name": "Kofi Kinaata",
-          "url": "https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm"
+          "name": "Nana Yaw Ofori-Atta",
+          "url": "https://open.spotify.com/artist/1D6DzRCxKig1KCd4uDuHoL"
         }
       ],
-      "duration_ms": 146779,
-      "name": "Chale",
-      "url": "https://open.spotify.com/track/4hKnUUJ5YUz21mEKk1KyFs"
+      "duration_ms": 163628,
+      "name": "DND",
+      "url": "https://open.spotify.com/track/00NKcAGMQcLgown5dtYfCs"
     },
     {
       "added_at": "2024-09-06 09:51:33",
@@ -863,6 +863,22 @@
     {
       "added_at": "2024-09-06 09:51:33",
       "album": {
+        "name": "Mile (I Know)",
+        "url": "https://open.spotify.com/album/5LoM0v1RExonDL9YhaNoo2"
+      },
+      "artists": [
+        {
+          "name": "LUIGI MACLEAN",
+          "url": "https://open.spotify.com/artist/4gzBsQLndSUq2uUislBcq6"
+        }
+      ],
+      "duration_ms": 342685,
+      "name": "Mile (I Know)",
+      "url": "https://open.spotify.com/track/728JCkxq0ZdM8BuvtorvJD"
+    },
+    {
+      "added_at": "2024-09-06 09:51:33",
+      "album": {
         "name": "Everything New",
         "url": "https://open.spotify.com/album/0o47BIIFajogWoAvmNSSbc"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 177901,
       "name": "Everything New",
       "url": "https://open.spotify.com/track/4unb1qazX6qkMV4CG28XQY"
-    },
-    {
-      "added_at": "2024-09-06 09:51:33",
-      "album": {
-        "name": "Mile (I Know)",
-        "url": "https://open.spotify.com/album/5LoM0v1RExonDL9YhaNoo2"
-      },
-      "artists": [
-        {
-          "name": "LUIGI MACLEAN",
-          "url": "https://open.spotify.com/artist/4gzBsQLndSUq2uUislBcq6"
-        }
-      ],
-      "duration_ms": 342685,
-      "name": "Mile (I Know)",
-      "url": "https://open.spotify.com/track/728JCkxq0ZdM8BuvtorvJD"
     }
   ],
   "unique_name": "Aseda",

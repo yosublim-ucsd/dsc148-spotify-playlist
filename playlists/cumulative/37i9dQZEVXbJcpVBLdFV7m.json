@@ -195,6 +195,24 @@
     },
     {
       "album": {
+        "name": "90 60 90",
+        "url": "https://open.spotify.com/album/5TcMXl6NtNKo0vuUTgv6Y9"
+      },
+      "artists": [
+        {
+          "name": "Adnan Beats",
+          "url": "https://open.spotify.com/artist/1ZQi4OIO9sYLUzCX3GrLzs"
+        }
+      ],
+      "date_added": "2024-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206173,
+      "name": "90 60 90",
+      "url": "https://open.spotify.com/track/3W0fNploVeIygAt4L3dxg8"
+    },
+    {
+      "album": {
         "name": "A Bar Song (Tipsy)",
         "url": "https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ"
       },
@@ -796,7 +814,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-11",
+      "date_removed": null,
       "duration_ms": 115906,
       "name": "AURA",
       "url": "https://open.spotify.com/track/2TNv2GxMpIO8AyPiD7TLxj"
@@ -1258,7 +1276,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 346986,
       "name": "Between Two Points (with Romany Gilmour)",
       "url": "https://open.spotify.com/track/0YSXPrWwe8gqMhExX8MkC6"
@@ -5822,7 +5840,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-15",
+      "date_removed": null,
       "duration_ms": 204502,
       "name": "Kiss Me",
       "url": "https://open.spotify.com/track/63Qy55Cvff8uCqL7oOu1tt"
@@ -6250,7 +6268,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 152893,
       "name": "Like a Prayer - Choir Version From \u201cDeadpool & Wolverine\u201d",
       "url": "https://open.spotify.com/track/492ceDtqmafb6QD1Xfhpmo"
@@ -8492,7 +8510,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 134930,
       "name": "PELIGROSA",
       "url": "https://open.spotify.com/track/42wdz3j7gstgUuhoFLCXqd"
@@ -9328,7 +9346,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 144008,
       "name": "SALSA",
       "url": "https://open.spotify.com/track/1DXdVbo7nmKexoRJ0oN0k8"
@@ -12525,6 +12543,24 @@
     },
     {
       "album": {
+        "name": "WHINE IN BRAZIL FUNK",
+        "url": "https://open.spotify.com/album/6tuTOSJX2SjH8JBsh5uM30"
+      },
+      "artists": [
+        {
+          "name": "Ichiss",
+          "url": "https://open.spotify.com/artist/6wWEEpCzvBH6Z5EVZ86wJl"
+        }
+      ],
+      "date_added": "2024-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107971,
+      "name": "WHINE IN BRAZIL FUNK",
+      "url": "https://open.spotify.com/track/1Xvs6IKi0O1PWYzzIwxR2Q"
+    },
+    {
+      "album": {
         "name": "Levent Mozart",
         "url": "https://open.spotify.com/album/70eyxQobEKo2AMvS9PDHTx"
       },
@@ -14578,7 +14614,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 151891,
       "name": "\u0422\u0430\u0437\u0438 \u0441\u0442\u0430\u044f",
       "url": "https://open.spotify.com/track/3cIIjnMb2a17787ahmJym2"
@@ -14962,7 +14998,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-04",
+      "date_removed": null,
       "duration_ms": 201299,
       "name": "\u30b7\u30ab\u8272\u30c7\u30a4\u30ba",
       "url": "https://open.spotify.com/track/65DUeMw4riBUibAjktAnZD"

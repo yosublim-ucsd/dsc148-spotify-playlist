@@ -4,7 +4,7 @@
 
 > The best new electronic music\. Cover: Moonbootica
 
-4,180 songs - 15 day 2 hr 1 min
+4,181 songs - 15 day 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1094,6 +1094,7 @@
 | [Elevator](https://open.spotify.com/track/0uN1CisjEbMxUlE21W4VqE) | [ROBPM](https://open.spotify.com/artist/6QfZgJa0nrIKLwAdso7ai9) | [Elevator](https://open.spotify.com/album/3LYf7PPkVGRj18FssB1Y82) | 4:41 | 2022-05-12 | 2022-05-27 |
 | [Elixir](https://open.spotify.com/track/5nJWZ9YLKfpbQ3oY7L3N9f) | [German Brigante](https://open.spotify.com/artist/2h7fN6KOZVgWQ39sYK0jJm), [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [Elixir](https://open.spotify.com/album/7LdFRZ6JYw2assyjUEcPz7) | 7:08 | 2024-03-07 | 2024-03-29 |
 | [Ellipse](https://open.spotify.com/track/0jp8whu8DYgYMupBJkVvNP) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Ellipse](https://open.spotify.com/album/41MYb0d8BxiQhby575mvbj) | 6:51 | 2022-06-02 | 2022-06-24 |
+| [Elysia](https://open.spotify.com/track/2TI02l6A7NQR12nxMwego4) | [Gorje Hewek](https://open.spotify.com/artist/0HBaoUIo3fXlnWz1dc4mro), [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [HANA](https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o) | [Elysia](https://open.spotify.com/album/0QSztteYwoSQxMPhh7MKez) | 4:41 | 2024-09-16 |  |
 | [Elysion](https://open.spotify.com/track/1GdXLlVH1g3qxiYJJcEDFq) | [Jonas Schilling](https://open.spotify.com/artist/4KvdEbdoiioc52G5hno5gf) | [Elysion](https://open.spotify.com/album/2FxdK2Bp3V2AtjUt2m6UXr) | 4:41 | 2024-08-01 | 2024-08-23 |
 | [Elysium](https://open.spotify.com/track/0VmJzhgE3LmfzJa1FdYHkl) | [Clap Codex](https://open.spotify.com/artist/56e9JiuPAOzwsOa8TDe3xj), [Patrick Scuro](https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB) | [Elysium](https://open.spotify.com/album/524kHwv2rSFladLRO8ipCw) | 4:13 | 2022-05-20 | 2022-06-10 |
 | [Embers](https://open.spotify.com/track/3diM1HDnPvfxpimle36Jxx) | [Jonas Schilling](https://open.spotify.com/artist/4KvdEbdoiioc52G5hno5gf) | [Embers](https://open.spotify.com/album/1kOr0L5wvcsSh56yzuElvC) | 5:18 | 2024-02-15 | 2024-03-01 |
@@ -3353,7 +3354,7 @@
 | [Speed of Sound](https://open.spotify.com/track/4UFmK1Cvam4YaAoISiyUJG) | [El Mundo](https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej), [Zazou](https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1) | [Speed Of Sound](https://open.spotify.com/album/0saoiEzAyhQ3ihzzGflYnW) | 7:11 | 2022-05-05 | 2022-05-27 |
 | [Speed Trials On Acid \(feat\. Dan Diamond\)](https://open.spotify.com/track/3fdKyjUyrinYOZzf2788Tk) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW), [Dan Diamond](https://open.spotify.com/artist/2MXl3PpdGGUqQNgfboIImS) | [Speed Trials On Acid \(feat\. Dan Diamond\)](https://open.spotify.com/album/1bns5qLB6y3g6KEo9QGsfR) | 3:23 | 2022-04-14 | 2022-04-22 |
 | [Spellbound](https://open.spotify.com/track/4q9xSwu2rPct21ilW2Xs6J) | [The Yard Woman](https://open.spotify.com/artist/4vrLjXzQTMGCbrdAYtkpQE) | [Spellbound](https://open.spotify.com/album/0UBOXcWkjQ3WEfVV4VHB67) | 3:43 | 2024-05-02 | 2024-05-17 |
-| [Spielfreude \- Edit](https://open.spotify.com/track/6ABZ2XEOnm4WVoaDc8g8VO) | [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5), [An On Bast](https://open.spotify.com/artist/4qIHzBkWUueYNuEl3xCDHs) | [Spielfreude](https://open.spotify.com/album/1TtqTFPXxxHAtDDcd1qSUJ) | 4:07 | 2024-08-29 |  |
+| [Spielfreude \- Edit](https://open.spotify.com/track/6ABZ2XEOnm4WVoaDc8g8VO) | [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5), [An On Bast](https://open.spotify.com/artist/4qIHzBkWUueYNuEl3xCDHs) | [Spielfreude](https://open.spotify.com/album/1TtqTFPXxxHAtDDcd1qSUJ) | 4:07 | 2024-08-29 | 2024-09-17 |
 | [Spiral \- Edit](https://open.spotify.com/track/555xHSjplKrHgZteVOwJ7R) | [Philipp Wolf](https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH) | [Spiral \(Edit\)](https://open.spotify.com/album/1Xycot3BuBMYXvCFRMeZ88) | 3:41 | 2022-10-13 | 2022-11-04 |
 | [Spirit Wolf](https://open.spotify.com/track/5OyCAvX4BATl2vwub8Lkux) | [Julien Bracht](https://open.spotify.com/artist/10dTAeheJUqaoY9C0UxdHx), [Jan Ha](https://open.spotify.com/artist/2J88gi8eWXSnqlww0wbJCp) | [Radiance 001](https://open.spotify.com/album/5Fwi8NCqbnnchKsN1ztEiq) | 7:06 | 2023-09-21 | 2023-10-06 |
 | [Spiritual Experience](https://open.spotify.com/track/0xaYqC37eY4tNFdHQYG2yP) | [Skober](https://open.spotify.com/artist/4QJx1t358F7E4O1lZ8g0B2) | [Spiritual Experience](https://open.spotify.com/album/5SRjebL4m70r2YbqD4Dj8Y) | 4:33 | 2023-07-14 | 2023-08-04 |

@@ -4,7 +4,7 @@
 
 > featuring HARU NEMURI and Frost Children
 
-2,144 songs - 4 day 1 hr 38 min
+2,145 songs - 4 day 1 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1640,6 +1640,7 @@
 | [scorn](https://open.spotify.com/track/1DebtzEf3yvPC7qT5T3amB) | [Senses](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA) | [scorn](https://open.spotify.com/album/27tkHrrk30C6GRZ2KX46Ij) | 2:01 | 2023-11-17 | 2024-01-23 |
 | [scorpion](https://open.spotify.com/track/5JomM1MOkgDEjvxO2hoCL8) | [kurtains](https://open.spotify.com/artist/7b2FbxYmnpGMPqDe04QmyP) | [insignia's manor](https://open.spotify.com/album/4cGpcf400VAqKAIBeFeB9a) | 1:45 | 2021-10-14 | 2022-02-24 |
 | [Scripture](https://open.spotify.com/track/1GG23RRVNQiPbzEY8cBXNG) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Scripture](https://open.spotify.com/album/4lQGISDm9vPUNc7yhNoUmX) | 4:11 | 2021-10-06 | 2022-02-24 |
+| [search & destroy](https://open.spotify.com/track/4yR7QwLrd5ctle68uKaKrt) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [search & destroy](https://open.spotify.com/album/2740XBFuln7su35UWo3Awz) | 1:57 | 2024-09-16 |  |
 | [search party](https://open.spotify.com/track/4tYZQrEofMKE2XQ4pqCNLC) | [dltzk](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [search party](https://open.spotify.com/album/7Manv4fQi6ewZTLpDIvEyK) | 4:58 | 2021-10-20 | 2022-01-13 |
 | [Second hand embarrassment](https://open.spotify.com/track/7tVMsJriHeO3DoPV1d7L1j) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Second hand embarrassment](https://open.spotify.com/album/68dcU3nkn7E9FTi3NDcZtS) | 2:17 | 2021-03-26 | 2023-02-18 |
 | [Secretive!](https://open.spotify.com/track/6FcBDJCvcljKy0X44dexR0) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Kota Banks](https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT) | [Secretive!](https://open.spotify.com/album/4g6SsqBQbmgJQSBs5PRXkD) | 2:22 | 2021-02-26 | 2021-05-19 |

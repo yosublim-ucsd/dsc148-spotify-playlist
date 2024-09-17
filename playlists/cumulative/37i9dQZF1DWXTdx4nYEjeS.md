@@ -4,7 +4,7 @@
 
 > Música para acompañar esas rondas interminables de mate.
 
-1,009 songs - 2 day 13 hr 24 min
+1,010 songs - 2 day 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [7 Rings \- Acoustic Version](https://open.spotify.com/track/47PTdbgKqE5JZFCZ9Lh4al) | [The Mistrals](https://open.spotify.com/artist/2PSdm3Fy1O6xpCRUM5EJjk) | [7 Rings \(Acoustic Version\)](https://open.spotify.com/album/11S56kFlwa4KbADJTpSBJv) | 3:11 | 2022-04-08 | 2022-04-12 |
 | [A Donde](https://open.spotify.com/track/5MKUw71QcmPTPSfAaYc5Ll) | [Tobías Arribillaga](https://open.spotify.com/artist/39Qb5pWWJrCaj7Ol7KTJPZ) | [A Donde](https://open.spotify.com/album/64ABDGYVFdrrT8kIzNSDmH) | 3:24 | 2022-03-28 | 2022-04-12 |
 | [A la hora de las lentas](https://open.spotify.com/track/6A70dz4k38aramzGjpQ3KK) | [Dino Gastón Ciarlo](https://open.spotify.com/artist/482iqSnaP20OapnXbeXnTx) | [Dino y sus Ciarlobacterias](https://open.spotify.com/album/1VslO3d4STeU28cWpD1QZS) | 3:21 | 2022-03-24 | 2022-04-17 |
-| [A la Vez](https://open.spotify.com/track/5C9IeDOtfwkDUGd9aF2ELI) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [A la Vez](https://open.spotify.com/album/7MUsxK6X6NkL21K3yrjuQs) | 3:02 | 2022-01-07 |  |
+| [A la Vez](https://open.spotify.com/track/5C9IeDOtfwkDUGd9aF2ELI) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [A la Vez](https://open.spotify.com/album/7MUsxK6X6NkL21K3yrjuQs) | 3:02 | 2022-01-07 | 2024-09-17 |
 | [A Las Nueve](https://open.spotify.com/track/68cko9zdsKwaxgb98sF36S) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Otras Canciones](https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D) | 3:22 | 2021-12-24 |  |
 | [A Mí](https://open.spotify.com/track/7MmrcXVA7A5zZ2CbDuGHNa) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [A Mí](https://open.spotify.com/album/3tc9WifLZvWKnoWzLPmaeO) | 3:29 | 2022-03-28 |  |
 | [A Primera Vista \(En Vivo\)](https://open.spotify.com/track/5ILO4muNGt6OcH0sEQjyTG) | [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6) | [Mil Noches y un Instante \(En Vivo en el Teatro Gran Rex\)](https://open.spotify.com/album/0FEw1ELbSr36VjZRlOhpbx) | 3:28 | 2021-12-24 | 2022-07-29 |
@@ -373,6 +373,7 @@
 | [Estamos Bajo el Agua](https://open.spotify.com/track/2qFVAC8H6C3MsbkvIB2v4V) | [Agus Vivo](https://open.spotify.com/artist/6aULl90kAb6JwNUYjIgUdW), [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Estamos Bajo el Agua](https://open.spotify.com/album/36rh05hGcnspz2thYgqVEv) | 2:31 | 2022-03-24 | 2022-04-10 |
 | [Estaré](https://open.spotify.com/track/0QCn5vMKpE1QEqCTqKLTXB) | [Yacaré Manso](https://open.spotify.com/artist/0G6VQf773ZIIYkKs8QnW1V), [Rubén Insaurralde](https://open.spotify.com/artist/78Os3qUPDgeWZsz814LKNZ), [Pepis](https://open.spotify.com/artist/3IYr8PSMNTvkk5g1oawBqK) | [Estaré](https://open.spotify.com/album/0fwY3yRP7mcfHNygFyJbmx) | 2:17 | 2022-03-24 | 2022-04-15 |
 | [Este Mundo](https://open.spotify.com/track/6WK2LH6KzIN9guZDQgoFxo) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [Negro](https://open.spotify.com/album/0yw1Sq70Su7ZCEJV8jv9HY) | 4:25 | 2022-03-24 | 2022-04-01 |
+| [Estrellas al Caer](https://open.spotify.com/track/7Je1Wx6gRPt4dhnbgaEAOu) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [La Lógica del Escorpión](https://open.spotify.com/album/0k2JGzYRZQC3s3ZNTcyHoA) | 1:55 | 2024-09-13 |  |
 | [Eterno Amor](https://open.spotify.com/track/3wo5ZlsWZNVAeemkiel7Ds) | [Los Manseros Santiagueños](https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2) | [Mejor Que Nunca](https://open.spotify.com/album/7jSJ1FNwZOFzkVETCPSTLx) | 3:41 | 2021-12-24 | 2022-07-29 |
 | [Eterno Amor](https://open.spotify.com/track/4fhQ48hixjThGi2za030We) | [Los Manseros Santiagueños](https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2) | [Mejor Que Nunca](https://open.spotify.com/album/0MIp2J88uFC5z0y00SmmdT) | 3:41 | 2023-09-01 | 2024-03-08 |
 | [Eu Tein](https://open.spotify.com/track/3gKmh9Egvv1C2P0zF6FitK) | [Fémina](https://open.spotify.com/artist/6Saxi5uCjuMzIGcqqvTumR) | [Traspasa](https://open.spotify.com/album/1qph5pF1etpQ0vQRnzyCBa) | 4:02 | 2022-03-24 | 2022-04-20 |

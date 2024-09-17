@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 
 > 感受超級女聲力量。Cover:  Kiri T
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,246 likes - 366 songs - 22 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,244 likes - 366 songs - 22 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

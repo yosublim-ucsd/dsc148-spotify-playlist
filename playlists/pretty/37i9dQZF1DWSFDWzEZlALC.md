@@ -4,25 +4,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: JEREMIAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,997 likes - 80 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 435,075 likes - 80 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Meer](https://open.spotify.com/track/1CfXReZpkv5l10m1Zc1mGn) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Meer](https://open.spotify.com/album/1FJOvb5Be9ntGSps0DeNBs) | 3:46 |
 | 2 | [Blitzlicht](https://open.spotify.com/track/4Ro083Dj0kBhr6JslQjfLj) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Blitzlicht](https://open.spotify.com/album/2udJZcqPmnJwgcVgCGrBII) | 2:46 |
 | 3 | [Immer nachts](https://open.spotify.com/track/7uiA0x9kM8WR59rPgGdxIB) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Immer nachts](https://open.spotify.com/album/72tI9Q6jgsUiwknmmQLBh5) | 2:11 |
-| 4 | [seventies](https://open.spotify.com/track/4mzBvJs9lclIBFhuF9dSD7) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI) | [seventies](https://open.spotify.com/album/7otoxpOPVXeGEZT5ICsSaY) | 2:21 |
-| 5 | [Schlaflied \(feat\. MELLER\)](https://open.spotify.com/track/1gKwm6VnYXf12VFx4fRGhO) | [Katzi](https://open.spotify.com/artist/7wELxFDgA5UWcQ4LXFq99m), [MELLER](https://open.spotify.com/artist/01bwyExSOpCwS4qqAtglB9) | [Schlaflied \(feat\. MELLER\)](https://open.spotify.com/album/4RzJ7FaPYVCrAUwuj6mqQU) | 2:48 |
-| 6 | [schweigen uns an\_v3](https://open.spotify.com/track/3kmlBigDU4d3y9AgYghh70) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [schweigen uns an\_v3](https://open.spotify.com/album/58AmJ7bYjpsTZD0JqI0vvc) | 2:21 |
-| 7 | [SIGNS](https://open.spotify.com/track/2jwEvLG0lD5CU05dMbTBEQ) | [error](https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp) | [SIGNS](https://open.spotify.com/album/0q5qYh11cyZsMOiVPlVvAi) | 2:29 |
-| 8 | [letzter sommer](https://open.spotify.com/track/2NAeSJODXTDq6j4RBFysx4) | [Vince](https://open.spotify.com/artist/1xMPDJvoiQdje0jZ88uqzV), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [letzter sommer](https://open.spotify.com/album/36L9dKEIk2HSWTEFRBzyaV) | 2:38 |
-| 9 | [Verlierer](https://open.spotify.com/track/2UbMm8S5eqHwn27aUkPhAW) | [Pablu](https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3) | [Verlierer](https://open.spotify.com/album/71dS6MrDtwujmBnL9uBBoe) | 2:27 |
-| 10 | [jeans unten](https://open.spotify.com/track/5EszJ6Av72Chv7s6kJj41e) | [kevin](https://open.spotify.com/artist/3AnRJXttxRO7191Fxwkaxz) | [jeans unten](https://open.spotify.com/album/1iGk9DeM8rouGoOfRj11wn) | 2:32 |
+| 4 | [schweigen uns an\_v3](https://open.spotify.com/track/3kmlBigDU4d3y9AgYghh70) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [schweigen uns an\_v3](https://open.spotify.com/album/58AmJ7bYjpsTZD0JqI0vvc) | 2:21 |
+| 5 | [letzter sommer](https://open.spotify.com/track/2NAeSJODXTDq6j4RBFysx4) | [Vince](https://open.spotify.com/artist/1xMPDJvoiQdje0jZ88uqzV), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [letzter sommer](https://open.spotify.com/album/36L9dKEIk2HSWTEFRBzyaV) | 2:38 |
+| 6 | [Verlierer](https://open.spotify.com/track/2UbMm8S5eqHwn27aUkPhAW) | [Pablu](https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3) | [Verlierer](https://open.spotify.com/album/71dS6MrDtwujmBnL9uBBoe) | 2:27 |
+| 7 | [Regen und Meer](https://open.spotify.com/track/0gzxsjdciPPjxHYnMFboZj) | [frytz](https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO) | [Regen und Meer](https://open.spotify.com/album/0rbUqJgSgLV0z1333LA1xm) | 2:23 |
+| 8 | [seventies](https://open.spotify.com/track/4mzBvJs9lclIBFhuF9dSD7) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI) | [seventies](https://open.spotify.com/album/7otoxpOPVXeGEZT5ICsSaY) | 2:21 |
+| 9 | [Schlaflied \(feat\. MELLER\)](https://open.spotify.com/track/1gKwm6VnYXf12VFx4fRGhO) | [Katzi](https://open.spotify.com/artist/7wELxFDgA5UWcQ4LXFq99m), [MELLER](https://open.spotify.com/artist/01bwyExSOpCwS4qqAtglB9) | [Schlaflied \(feat\. MELLER\)](https://open.spotify.com/album/4RzJ7FaPYVCrAUwuj6mqQU) | 2:48 |
+| 10 | [SIGNS](https://open.spotify.com/track/2jwEvLG0lD5CU05dMbTBEQ) | [error](https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp) | [SIGNS](https://open.spotify.com/album/0q5qYh11cyZsMOiVPlVvAi) | 2:29 |
 | 11 | [Zurück ans Meer](https://open.spotify.com/track/1sY2XVttZlnC9yUWXCNK0J) | [Satero](https://open.spotify.com/artist/39Ny7kCVC5LuxOYDEjMuhJ) | [Zurück ans Meer](https://open.spotify.com/album/5h0Q69xyCGm2eiVRmIj7MT) | 2:06 |
-| 12 | [solitude](https://open.spotify.com/track/1uGkQ3pJ2IjaQiLF5c7Yh5) | [katlix](https://open.spotify.com/artist/2w9SZxjM9DUKiFsMhAk5Lr) | [solitude](https://open.spotify.com/album/4yFUrh1XARnDIKlk1jjWuD) | 2:37 |
-| 13 | [vier songs](https://open.spotify.com/track/1bI4H9gpTnZJ57uH4laEuf) | [Keule](https://open.spotify.com/artist/4YAtpT87My3LTvpLWWvG3Y) | [vier songs](https://open.spotify.com/album/54ecFuPYISdSgPudfDSYyl) | 2:14 |
-| 14 | [So leicht](https://open.spotify.com/track/0vYerVYaZpbilnp57EPra4) | [Apsilon](https://open.spotify.com/artist/6JqtADDgBVPjLBRFwqjuFm) | [So leicht](https://open.spotify.com/album/1D5TGD4lkOHfOrxVYlZG38) | 2:44 |
-| 15 | [Regen und Meer](https://open.spotify.com/track/0gzxsjdciPPjxHYnMFboZj) | [frytz](https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO) | [Regen und Meer](https://open.spotify.com/album/0rbUqJgSgLV0z1333LA1xm) | 2:23 |
+| 12 | [So leicht](https://open.spotify.com/track/0vYerVYaZpbilnp57EPra4) | [Apsilon](https://open.spotify.com/artist/6JqtADDgBVPjLBRFwqjuFm) | [So leicht](https://open.spotify.com/album/1D5TGD4lkOHfOrxVYlZG38) | 2:44 |
+| 13 | [jeans unten](https://open.spotify.com/track/5EszJ6Av72Chv7s6kJj41e) | [kevin](https://open.spotify.com/artist/3AnRJXttxRO7191Fxwkaxz) | [jeans unten](https://open.spotify.com/album/1iGk9DeM8rouGoOfRj11wn) | 2:32 |
+| 14 | [solitude](https://open.spotify.com/track/1uGkQ3pJ2IjaQiLF5c7Yh5) | [katlix](https://open.spotify.com/artist/2w9SZxjM9DUKiFsMhAk5Lr) | [solitude](https://open.spotify.com/album/4yFUrh1XARnDIKlk1jjWuD) | 2:37 |
+| 15 | [vier songs](https://open.spotify.com/track/1bI4H9gpTnZJ57uH4laEuf) | [Keule](https://open.spotify.com/artist/4YAtpT87My3LTvpLWWvG3Y) | [vier songs](https://open.spotify.com/album/54ecFuPYISdSgPudfDSYyl) | 2:14 |
 | 16 | [BYE X3 \(MIT JEREMIAS\)](https://open.spotify.com/track/0ULpry2sJKjbSzabrh0yL3) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [BYE X3 \(MIT JEREMIAS\)](https://open.spotify.com/album/5YTiunGRpgmom2Xr1PYtel) | 2:10 |
 | 17 | [btw](https://open.spotify.com/track/3GsBqvekTAOytIzDdbUjj4) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [btw](https://open.spotify.com/album/4zBl5NXyMGYUaNzijYWWfY) | 2:42 |
 | 18 | [STILL](https://open.spotify.com/track/1Vp0bkf6uEF72RMiPdsdn3) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [STILL](https://open.spotify.com/album/7fDHX5PvCaeZd9RYdhwB25) | 2:16 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 79 | [22 Uhr](https://open.spotify.com/track/0WkJ8IabEc9Yys3HJ3NwI2) | [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg) | [22 Uhr](https://open.spotify.com/album/3IVfhWdEgtgUWZs9u5H7W8) | 2:18 |
 | 80 | [9 To 5](https://open.spotify.com/track/7HRHKWjJ2JOfygbeUtogCs) | [elia](https://open.spotify.com/artist/1UjKYskUYIgAunG722zG3I) | [9 To 5](https://open.spotify.com/album/52CcrM08IJ53pgktQMagvQ) | 2:50 |
 
-Snapshot ID: `ZuNkYAAAAADgGOMb6Tx3nk4q/YUE6gdX`
+Snapshot ID: `ZuhZ0QAAAAAwJp49mQKA2vtAWEG/+Om6`

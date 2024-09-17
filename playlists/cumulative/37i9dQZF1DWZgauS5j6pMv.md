@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: MonoNeon
 
-449 songs - 1 day 2 hr 24 min
+450 songs - 1 day 2 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,6 +290,7 @@
 | [New Best Friend](https://open.spotify.com/track/21BjaubQRpZ4RybrI0NUyY) | [Juliette Reilly](https://open.spotify.com/artist/2HR1xMXsvA2zBfiiADeZo7), [UNSECRET](https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c) | [New Best Friend](https://open.spotify.com/album/1s5PZnVIPIyo1BMz5tqgYY) | 2:36 | 2022-02-25 | 2023-08-12 |
 | [New Guru](https://open.spotify.com/track/1iDxNtb7jleE8GqD4m81dA) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Antwaun Stanley](https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN) | [Schvitz](https://open.spotify.com/album/3TcGOgTAOLfRN69R74hxmI) | 3:24 | 2022-12-09 | 2024-04-19 |
 | [New Guru](https://open.spotify.com/track/7MV4NBFotO3y7Bpo9S6I2Y) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv), [Antwaun Stanley](https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN) | [New Guru](https://open.spotify.com/album/3GcUSJfHkUDGlrN94sC5CF) | 3:24 | 2022-12-09 |  |
+| [New Way](https://open.spotify.com/track/11H4y3J3uZiTRMKLQCcmSD) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Triple H Horns](https://open.spotify.com/artist/1f1nzGebbDWyIsnKpKqqVN), [Yogi](https://open.spotify.com/artist/5B9P0p88CmlArc27XLyRnB) | [Disco Nights](https://open.spotify.com/album/393ujegMe0hYDFSeNupT9p) | 3:01 | 2024-09-16 |  |
 | [Nickel & Dime](https://open.spotify.com/track/60Cert2E9OwA9rnl67Y2vj) | [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [Nickel & Dime](https://open.spotify.com/album/7nX4K9FAGdDGu662bdl8oI) | 2:39 | 2023-05-26 | 2023-07-29 |
 | [Nightlife](https://open.spotify.com/track/2HhwgxfCPDqxmpzKB0FlTL) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Triple H Horns](https://open.spotify.com/artist/1f1nzGebbDWyIsnKpKqqVN), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [Nightlife](https://open.spotify.com/album/3fJnk9OEpO346UKBj1dvyu) | 3:17 | 2023-08-04 | 2024-01-13 |
 | [No Apologies](https://open.spotify.com/track/34xXBHLrnUS2QzE6J5Et8G) | [Cocoa Sarai](https://open.spotify.com/artist/5Rh6PMrlYoyU5xhR36YAfX) | [No Apologies](https://open.spotify.com/album/3lmXNWYkfVeHb6hDQlzRf3) | 2:38 | 2021-05-21 | 2022-01-29 |
@@ -445,7 +446,7 @@
 | [Worthy](https://open.spotify.com/track/1krA127HmUwvlJXTqNiozw) | [Nuela Charles](https://open.spotify.com/artist/54l7IHesYhtkP9Dm4jN4Zl) | [Nuela Charles](https://open.spotify.com/album/2dOsYwZCIRAk7DVGrsjceZ) | 3:05 | 2022-05-27 | 2023-06-24 |
 | [Worthy](https://open.spotify.com/track/3wW5QHrAR5ZTUQq0KUU7Cz) | [Nuela Charles](https://open.spotify.com/artist/54l7IHesYhtkP9Dm4jN4Zl) | [Top of the World](https://open.spotify.com/album/5HUQK5qMKyPnM8mo314pgD) | 3:05 | 2022-05-27 | 2022-11-13 |
 | [YeahYeahYeah](https://open.spotify.com/track/7vipNil0y3l3idt9cM3ehi) | [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [YeahYeahYeah](https://open.spotify.com/album/3Js1lqJTK5j3fZaZGOixPU) | 5:17 | 2022-10-07 | 2023-02-18 |
-| [Yellow Daze](https://open.spotify.com/track/1MeoURhRLribQiy7BZReBV) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Triple H Horns](https://open.spotify.com/artist/1f1nzGebbDWyIsnKpKqqVN), [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Yellow Daze](https://open.spotify.com/album/5nrHNWI8YfZYzdFtVN973m) | 2:57 | 2024-06-07 |  |
+| [Yellow Daze](https://open.spotify.com/track/1MeoURhRLribQiy7BZReBV) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Triple H Horns](https://open.spotify.com/artist/1f1nzGebbDWyIsnKpKqqVN), [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Yellow Daze](https://open.spotify.com/album/5nrHNWI8YfZYzdFtVN973m) | 2:57 | 2024-06-07 | 2024-09-17 |
 | [You Are In My System](https://open.spotify.com/track/2kSStoNv9O3SLvOXebvuVt) | [Incognito](https://open.spotify.com/artist/5moJNCJeiNwuQAhDLJXULs), [Bluey](https://open.spotify.com/artist/3JYDa2gsS6juqnzBT9wdm9) | [Always There: 1981\-2021 \(40 Years & Still Groovin’\)](https://open.spotify.com/album/1gcxfIY8oeRYr203cTsjVP) | 5:43 | 2021-10-22 | 2022-09-24 |
 | [You Are In My System](https://open.spotify.com/track/4EM5tC6fQI3tuJpya8Z2gm) | [Incognito](https://open.spotify.com/artist/5moJNCJeiNwuQAhDLJXULs), [Bluey](https://open.spotify.com/artist/3JYDa2gsS6juqnzBT9wdm9) | [You Are In My System](https://open.spotify.com/album/5LKTVi5SNVzjTrYnwDNPiT) | 5:43 | 2021-10-22 | 2022-07-29 |
 | [You Don't Know](https://open.spotify.com/track/3HnTqNXder7RZTksBVxMVo) | [Sola Rosa](https://open.spotify.com/artist/5IppRAquE7RQdE9YmCKJ52), [Josh Barry](https://open.spotify.com/artist/6oruQTIjrgFYzOSKhp7Kt6) | [Chasing The Sun](https://open.spotify.com/album/0XUnao2RyJiTQIHPnWdwP9) | 3:47 | 2020-11-20 | 2022-04-09 |

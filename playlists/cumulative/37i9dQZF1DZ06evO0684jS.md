@@ -2,7 +2,7 @@
 
 ### [This Is Nicki Minaj](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0684jS)
 
-> This Is Nicki Minaj\. Kaikki olennaiset kappaleet yhdessä soittolistassa.
+> This is Nicki Minaj\. Todos os maiores hits em uma só playlist.
 
 70 songs - 4 hr 9 min
 

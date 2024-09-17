@@ -1,6 +1,6 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 603298,
+  "num_followers": 603467,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
@@ -867,26 +867,6 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
-        "name": "Brave New World (The Opera Song)",
-        "url": "https://open.spotify.com/album/2SMRBYdW58eRRemc4oCZdX"
-      },
-      "artists": [
-        {
-          "name": "Jurgen Vries",
-          "url": "https://open.spotify.com/artist/3CMfhOqeai5QgtAWMqrRjg"
-        },
-        {
-          "name": "CMC",
-          "url": "https://open.spotify.com/artist/6AqyB5I1Cm0tWZkDFrZZFm"
-        }
-      ],
-      "duration_ms": 212658,
-      "name": "The Opera Song (Brave New World)",
-      "url": "https://open.spotify.com/track/5bdmsMmb8uYt7TKrfNYEdy"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
         "name": "Southern Sun / Ready Steady Go",
         "url": "https://open.spotify.com/album/10vaUmlTOpclr1x7xjYS8h"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 235426,
       "name": "Southern Sun",
       "url": "https://open.spotify.com/track/6GZO2jSzaULhCH30DakBhu"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
+        "name": "Brave New World (The Opera Song)",
+        "url": "https://open.spotify.com/album/2SMRBYdW58eRRemc4oCZdX"
+      },
+      "artists": [
+        {
+          "name": "Jurgen Vries",
+          "url": "https://open.spotify.com/artist/3CMfhOqeai5QgtAWMqrRjg"
+        },
+        {
+          "name": "CMC",
+          "url": "https://open.spotify.com/artist/6AqyB5I1Cm0tWZkDFrZZFm"
+        }
+      ],
+      "duration_ms": 212658,
+      "name": "The Opera Song (Brave New World)",
+      "url": "https://open.spotify.com/track/5bdmsMmb8uYt7TKrfNYEdy"
     },
     {
       "added_at": "2024-07-23 09:55:55",

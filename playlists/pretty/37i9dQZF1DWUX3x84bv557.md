@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse pop! Cover: Bente & Roxeanne Hazes
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,697 likes - 70 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,703 likes - 70 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 69 | [Vol Geluk](https://open.spotify.com/track/39bzVRAtNSKI7xSmoKC4dX) | [Nigel Sean](https://open.spotify.com/artist/4INB4fkjhrcvgOrhkNtaxT) | [Vol Geluk](https://open.spotify.com/album/23seFRUDp7rC0fj2s972oU) | 1:52 |
 | 70 | [Geen Manieren](https://open.spotify.com/track/2ja2I9NnS2ujZ4woWMgJI1) | [Faske](https://open.spotify.com/artist/0WCFYAsNdBO9LraOxLoHoG) | [Geen Manieren](https://open.spotify.com/album/5tKWwsmBHRwyd4BsOmRUry) | 3:11 |
 
-Snapshot ID: `ZuNkYAAAAACIrvRn2K3UICWMWcRZpniP`
+Snapshot ID: `ZuNkYAAAAABYuGarXlCySFeLg8ae3KjQ`

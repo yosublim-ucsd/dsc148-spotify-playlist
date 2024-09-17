@@ -1,6 +1,6 @@
 {
   "description": "\u0417\u0430\u0442\u0438\u0448\u043d\u0430 \u043c\u0443\u0437\u0438\u043a\u0430 \u0434\u043b\u044f \u043f\u0440\u043e\u0433\u0443\u043b\u044f\u043d\u043e\u043a \u043f\u0435\u0440\u0448\u0438\u043c \u043f\u043e\u0436\u043e\u0432\u043a\u043b\u0438\u043c \u043b\u0438\u0441\u0442\u044f\u0447\u043a\u043e\u043c \ud83c\udf41",
-  "num_followers": 31531,
+  "num_followers": 31565,
   "original_name": "\u041e\u0441\u0456\u043d\u043d\u0456\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-09-01 22:04:49",
       "album": {
-        "name": "Chasing My Happiness",
-        "url": "https://open.spotify.com/album/3BrE2WivfUgrylO1SORHwX"
-      },
-      "artists": [
-        {
-          "name": "DEMCHUK",
-          "url": "https://open.spotify.com/artist/3TRGNgtC8KdP5XOWrwzpxO"
-        }
-      ],
-      "duration_ms": 126538,
-      "name": "Chasing My Happiness",
-      "url": "https://open.spotify.com/track/29jEfDkP0Vg2pQVaOX4EL4"
-    },
-    {
-      "added_at": "2024-09-01 22:04:49",
-      "album": {
         "name": "\u0412\u043e\u043b\u044f (full version)",
         "url": "https://open.spotify.com/album/4ZnOl68KK8mpwi9D13Fzhf"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 164636,
       "name": "\u0412\u043e\u043b\u044f - full version",
       "url": "https://open.spotify.com/track/3YdeXVe2cwGjHOCsgDPXsb"
+    },
+    {
+      "added_at": "2024-09-01 22:04:49",
+      "album": {
+        "name": "Chasing My Happiness",
+        "url": "https://open.spotify.com/album/3BrE2WivfUgrylO1SORHwX"
+      },
+      "artists": [
+        {
+          "name": "DEMCHUK",
+          "url": "https://open.spotify.com/artist/3TRGNgtC8KdP5XOWrwzpxO"
+        }
+      ],
+      "duration_ms": 126538,
+      "name": "Chasing My Happiness",
+      "url": "https://open.spotify.com/track/29jEfDkP0Vg2pQVaOX4EL4"
     },
     {
       "added_at": "2024-09-01 22:04:49",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-09-01 22:04:49",
       "album": {
-        "name": "\u041b\u0418\u041f\u0415\u041d\u042c",
-        "url": "https://open.spotify.com/album/1Yzj5Ne7KizKH3q3KYzSWH"
-      },
-      "artists": [
-        {
-          "name": "TUMAZAR",
-          "url": "https://open.spotify.com/artist/0sxk44sG1eS4XAnbGd3fjK"
-        }
-      ],
-      "duration_ms": 218571,
-      "name": "\u041b\u0418\u041f\u0415\u041d\u042c",
-      "url": "https://open.spotify.com/track/7KdEKTL1KxWpQ28NK3xLTp"
-    },
-    {
-      "added_at": "2024-09-01 22:04:49",
-      "album": {
         "name": "\u041e\u0441\u0456\u043d\u044c",
         "url": "https://open.spotify.com/album/4nZKzOG7XO24r5spCqXAvQ"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 158769,
       "name": "\u041e\u0441\u0456\u043d\u044c",
       "url": "https://open.spotify.com/track/1E5EqKZKqG8H7J8sawXmt5"
+    },
+    {
+      "added_at": "2024-09-01 22:04:49",
+      "album": {
+        "name": "\u041b\u0418\u041f\u0415\u041d\u042c",
+        "url": "https://open.spotify.com/album/1Yzj5Ne7KizKH3q3KYzSWH"
+      },
+      "artists": [
+        {
+          "name": "TUMAZAR",
+          "url": "https://open.spotify.com/artist/0sxk44sG1eS4XAnbGd3fjK"
+        }
+      ],
+      "duration_ms": 218571,
+      "name": "\u041b\u0418\u041f\u0415\u041d\u042c",
+      "url": "https://open.spotify.com/track/7KdEKTL1KxWpQ28NK3xLTp"
     },
     {
       "added_at": "2024-09-01 22:04:49",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-09-01 22:04:49",
       "album": {
-        "name": "\u0432\u0430\u043b\u044c\u0441 \u043f\u0456\u0434 \u0432\u0438\u0431\u0443\u0445\u0438",
-        "url": "https://open.spotify.com/album/2uxoj7vfms9GUFolkl3FFw"
-      },
-      "artists": [
-        {
-          "name": "ENLEO",
-          "url": "https://open.spotify.com/artist/09trukw4HlMz8i6TAn5Xpu"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "\u0432\u0430\u043b\u044c\u0441 \u043f\u0456\u0434 \u0432\u0438\u0431\u0443\u0445\u0438",
-      "url": "https://open.spotify.com/track/6ZvDRsoF2zharptwEoZZVM"
-    },
-    {
-      "added_at": "2024-09-01 22:04:49",
-      "album": {
         "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456 \u0434\u043d\u0456 \u043b\u0456\u0442\u0430",
         "url": "https://open.spotify.com/album/1AnEqWNGG6zADfC3VEUmam"
       },
@@ -767,6 +751,22 @@
     {
       "added_at": "2024-09-01 22:04:49",
       "album": {
+        "name": "\u0432\u0430\u043b\u044c\u0441 \u043f\u0456\u0434 \u0432\u0438\u0431\u0443\u0445\u0438",
+        "url": "https://open.spotify.com/album/2uxoj7vfms9GUFolkl3FFw"
+      },
+      "artists": [
+        {
+          "name": "ENLEO",
+          "url": "https://open.spotify.com/artist/09trukw4HlMz8i6TAn5Xpu"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "\u0432\u0430\u043b\u044c\u0441 \u043f\u0456\u0434 \u0432\u0438\u0431\u0443\u0445\u0438",
+      "url": "https://open.spotify.com/track/6ZvDRsoF2zharptwEoZZVM"
+    },
+    {
+      "added_at": "2024-09-01 22:04:49",
+      "album": {
         "name": "HONEY & \u041c\u0415\u0414",
         "url": "https://open.spotify.com/album/398VNqUmS1IQ6g3fELHZRZ"
       },
@@ -779,26 +779,6 @@
       "duration_ms": 204808,
       "name": "\u041c\u0415\u0414",
       "url": "https://open.spotify.com/track/5fsrqzuRfY4Or0bI1eqpVc"
-    },
-    {
-      "added_at": "2024-09-01 22:04:49",
-      "album": {
-        "name": "\u041a\u0440\u043e\u043a",
-        "url": "https://open.spotify.com/album/5RmNLxa2mvgkLFe517mLw7"
-      },
-      "artists": [
-        {
-          "name": "Cape Cod",
-          "url": "https://open.spotify.com/artist/5uMOOCjDjMCAahAJazvPYB"
-        },
-        {
-          "name": "Jamala",
-          "url": "https://open.spotify.com/artist/4EXfia20rgVLyubQiYtOIC"
-        }
-      ],
-      "duration_ms": 240245,
-      "name": "\u041a\u0440\u043e\u043a",
-      "url": "https://open.spotify.com/track/5XumuHs4pQg1LGIPAxCqoX"
     },
     {
       "added_at": "2024-09-01 22:04:49",
@@ -835,6 +815,26 @@
     {
       "added_at": "2024-09-01 22:04:49",
       "album": {
+        "name": "\u041a\u0440\u043e\u043a",
+        "url": "https://open.spotify.com/album/5RmNLxa2mvgkLFe517mLw7"
+      },
+      "artists": [
+        {
+          "name": "Cape Cod",
+          "url": "https://open.spotify.com/artist/5uMOOCjDjMCAahAJazvPYB"
+        },
+        {
+          "name": "Jamala",
+          "url": "https://open.spotify.com/artist/4EXfia20rgVLyubQiYtOIC"
+        }
+      ],
+      "duration_ms": 240245,
+      "name": "\u041a\u0440\u043e\u043a",
+      "url": "https://open.spotify.com/track/5XumuHs4pQg1LGIPAxCqoX"
+    },
+    {
+      "added_at": "2024-09-01 22:04:49",
+      "album": {
         "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456\u0439 \u0434\u0435\u043d\u044c \u043b\u0456\u0442\u0430",
         "url": "https://open.spotify.com/album/2Q3jqGAGrqJrjuDJ3WG4x8"
       },
@@ -863,6 +863,26 @@
       "duration_ms": 235531,
       "name": "Can You Believe",
       "url": "https://open.spotify.com/track/5q3jGywKjTjrn9nDrbWWdQ"
+    },
+    {
+      "added_at": "2024-09-01 22:04:49",
+      "album": {
+        "name": "\u043b\u044e\u0431\u043e\u0432 \u0441\u0438\u043b\u044c\u043d\u0456\u0448\u0430",
+        "url": "https://open.spotify.com/album/0uR8Wr5Oowkn5V8WbjDJ4p"
+      },
+      "artists": [
+        {
+          "name": "ENLEO",
+          "url": "https://open.spotify.com/artist/09trukw4HlMz8i6TAn5Xpu"
+        },
+        {
+          "name": "\u041c\u0430\u0448\u0430 \u041a\u043e\u043d\u0434\u0440\u0430\u0442\u0435\u043d\u043a\u043e",
+          "url": "https://open.spotify.com/artist/1YgQMGLeH8C8Y6552fZ3Lm"
+        }
+      ],
+      "duration_ms": 175115,
+      "name": "\u043b\u044e\u0431\u043e\u0432 \u0441\u0438\u043b\u044c\u043d\u0456\u0448\u0430",
+      "url": "https://open.spotify.com/track/6Uy69JIwmQY6kjTdL9jRah"
     },
     {
       "added_at": "2024-09-01 22:04:49",
@@ -899,22 +919,22 @@
     {
       "added_at": "2024-09-01 22:04:49",
       "album": {
-        "name": "\u043b\u044e\u0431\u043e\u0432 \u0441\u0438\u043b\u044c\u043d\u0456\u0448\u0430",
-        "url": "https://open.spotify.com/album/0uR8Wr5Oowkn5V8WbjDJ4p"
+        "name": "\u0423 \u0422\u041e\u0411\u0406",
+        "url": "https://open.spotify.com/album/76fJbyKNSOEIwX4sSzdKtL"
       },
       "artists": [
         {
-          "name": "ENLEO",
-          "url": "https://open.spotify.com/artist/09trukw4HlMz8i6TAn5Xpu"
+          "name": "TAYNA",
+          "url": "https://open.spotify.com/artist/4aSOo4Ft3eF5rNS1idHvg1"
         },
         {
-          "name": "\u041c\u0430\u0448\u0430 \u041a\u043e\u043d\u0434\u0440\u0430\u0442\u0435\u043d\u043a\u043e",
-          "url": "https://open.spotify.com/artist/1YgQMGLeH8C8Y6552fZ3Lm"
+          "name": "\u041b\u0415\u0412\u0406\u0422",
+          "url": "https://open.spotify.com/artist/0iWdKqUFX5qzMwnB5r5irh"
         }
       ],
-      "duration_ms": 175115,
-      "name": "\u043b\u044e\u0431\u043e\u0432 \u0441\u0438\u043b\u044c\u043d\u0456\u0448\u0430",
-      "url": "https://open.spotify.com/track/6Uy69JIwmQY6kjTdL9jRah"
+      "duration_ms": 150000,
+      "name": "\u0423 \u0422\u041e\u0411\u0406",
+      "url": "https://open.spotify.com/track/0KHXGHrnVIyhWvr3BAPRG1"
     },
     {
       "added_at": "2024-09-01 22:04:49",
@@ -951,26 +971,6 @@
     {
       "added_at": "2024-09-01 22:04:49",
       "album": {
-        "name": "\u0423 \u0422\u041e\u0411\u0406",
-        "url": "https://open.spotify.com/album/76fJbyKNSOEIwX4sSzdKtL"
-      },
-      "artists": [
-        {
-          "name": "TAYNA",
-          "url": "https://open.spotify.com/artist/4aSOo4Ft3eF5rNS1idHvg1"
-        },
-        {
-          "name": "\u041b\u0415\u0412\u0406\u0422",
-          "url": "https://open.spotify.com/artist/0iWdKqUFX5qzMwnB5r5irh"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "\u0423 \u0422\u041e\u0411\u0406",
-      "url": "https://open.spotify.com/track/0KHXGHrnVIyhWvr3BAPRG1"
-    },
-    {
-      "added_at": "2024-09-01 22:04:49",
-      "album": {
         "name": "\u041d\u043e\u0436\u0456",
         "url": "https://open.spotify.com/album/0v2WlcePcHwyL9uC5Wu2c9"
       },
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-09-01 22:04:49",
       "album": {
-        "name": "\u041d\u0435\u0439\u043c\u043e\u0432\u0456\u0440\u043d\u043e \u0442\u043e\u043d\u043a\u0430",
-        "url": "https://open.spotify.com/album/6my1K6UekghuCoude69cg7"
-      },
-      "artists": [
-        {
-          "name": "INGRET",
-          "url": "https://open.spotify.com/artist/43Gc9czfpJK1ijNMPOCtYy"
-        }
-      ],
-      "duration_ms": 189013,
-      "name": "\u041d\u0435\u0439\u043c\u043e\u0432\u0456\u0440\u043d\u043e \u0442\u043e\u043d\u043a\u0430",
-      "url": "https://open.spotify.com/track/0AA74JKFRsdzHhn3lggX4p"
-    },
-    {
-      "added_at": "2024-09-01 22:04:49",
-      "album": {
         "name": "\u0434\u0456\u043c",
         "url": "https://open.spotify.com/album/7k8o2atU77xjyz8wfAQcc2"
       },
@@ -1015,6 +999,26 @@
       "duration_ms": 205200,
       "name": "\u0434\u0456\u043c",
       "url": "https://open.spotify.com/track/2q6gjKaIQph1E60TjIp4ZF"
+    },
+    {
+      "added_at": "2024-09-01 22:04:49",
+      "album": {
+        "name": "Feel it Still",
+        "url": "https://open.spotify.com/album/5FqEr3NhzGUOv7tmKyHmpD"
+      },
+      "artists": [
+        {
+          "name": "Lola Marsh",
+          "url": "https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD"
+        },
+        {
+          "name": "Red Band",
+          "url": "https://open.spotify.com/artist/1Ba4dhPqLWmwj3Fwf9oWDs"
+        }
+      ],
+      "duration_ms": 174730,
+      "name": "Feel it Still",
+      "url": "https://open.spotify.com/track/2iW6xpM6ift3Ro3CCNbbrM"
     }
   ],
   "unique_name": "\u041e\u0441\u0456\u043d\u043d\u0456\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",

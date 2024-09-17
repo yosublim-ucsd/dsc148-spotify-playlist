@@ -1,12 +1,12 @@
 {
   "description": "A journey into the unknown, dark, and experimental.",
-  "num_followers": 228490,
+  "num_followers": 228606,
   "original_name": "Terra Incognita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuOAvAAAAADwOoLLnfDfyZGC8GnKWuoj",
+  "snapshot_id": "ZuiYDgAAAADH8ESm2Azy5/Si+LthqoPl",
   "tracks": [
     {
       "added_at": "2024-09-13 00:01:00",
@@ -77,20 +77,24 @@
       "url": "https://open.spotify.com/track/66xNqJZaoYfBHYbI2iV3ob"
     },
     {
-      "added_at": "2024-09-13 00:01:00",
+      "added_at": "2024-09-16 20:41:50",
       "album": {
-        "name": "Dicen Que Eres Arte",
-        "url": "https://open.spotify.com/album/3r6qB4Ao4PMzrhtgjhmryg"
+        "name": "My Noise Is Nothing",
+        "url": "https://open.spotify.com/album/7gD1HesHdAjyZU3mHBni6h"
       },
       "artists": [
         {
-          "name": "Z\u00f6elle",
-          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+          "name": "Lord Of The Isles",
+          "url": "https://open.spotify.com/artist/2PoiNhvPSC4fivyrDJOoru"
+        },
+        {
+          "name": "Ellen Renton",
+          "url": "https://open.spotify.com/artist/1T7ltBiyXYSF6kKKdrqaGm"
         }
       ],
-      "duration_ms": 164736,
-      "name": "Dicen Que Eres Arte",
-      "url": "https://open.spotify.com/track/2xQLcEFXb3hu8nqJDW3Z8t"
+      "duration_ms": 357818,
+      "name": "For a Burning World",
+      "url": "https://open.spotify.com/track/2zbtE3hz1Zb5chqQnw0BB0"
     },
     {
       "added_at": "2024-09-13 00:01:00",
@@ -283,6 +287,22 @@
     {
       "added_at": "2024-09-13 00:01:00",
       "album": {
+        "name": "Dicen Que Eres Arte",
+        "url": "https://open.spotify.com/album/3r6qB4Ao4PMzrhtgjhmryg"
+      },
+      "artists": [
+        {
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+        }
+      ],
+      "duration_ms": 164736,
+      "name": "Dicen Que Eres Arte",
+      "url": "https://open.spotify.com/track/2xQLcEFXb3hu8nqJDW3Z8t"
+    },
+    {
+      "added_at": "2024-09-13 00:01:00",
+      "album": {
         "name": "Dusk",
         "url": "https://open.spotify.com/album/4rBFXDL3kIxwqeicNkWK8q"
       },
@@ -427,22 +447,6 @@
     {
       "added_at": "2024-09-13 00:01:00",
       "album": {
-        "name": "thieves",
-        "url": "https://open.spotify.com/album/0Xs1Xc5yUxPlYFOKyJ0UV7"
-      },
-      "artists": [
-        {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
-        }
-      ],
-      "duration_ms": 178616,
-      "name": "thieves",
-      "url": "https://open.spotify.com/track/34ZXYNErf3WC4tgO0PAnUx"
-    },
-    {
-      "added_at": "2024-09-13 00:01:00",
-      "album": {
         "name": "SPIRA",
         "url": "https://open.spotify.com/album/1a8ThwO86pH1QSjVYAeC5H"
       },
@@ -455,6 +459,22 @@
       "duration_ms": 243466,
       "name": "Illa Sera",
       "url": "https://open.spotify.com/track/79ocQFpSVnyQ7qokQSYbU6"
+    },
+    {
+      "added_at": "2024-09-13 00:01:00",
+      "album": {
+        "name": "thieves",
+        "url": "https://open.spotify.com/album/0Xs1Xc5yUxPlYFOKyJ0UV7"
+      },
+      "artists": [
+        {
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+        }
+      ],
+      "duration_ms": 178616,
+      "name": "thieves",
+      "url": "https://open.spotify.com/track/34ZXYNErf3WC4tgO0PAnUx"
     },
     {
       "added_at": "2024-09-13 00:01:00",
@@ -663,6 +683,22 @@
     {
       "added_at": "2024-09-13 00:01:00",
       "album": {
+        "name": "The Best Sea",
+        "url": "https://open.spotify.com/album/6viJOxH6ZeWSFqiigxA1a1"
+      },
+      "artists": [
+        {
+          "name": "Marta Del Grandi",
+          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
+        }
+      ],
+      "duration_ms": 141897,
+      "name": "The Best Sea",
+      "url": "https://open.spotify.com/track/0s5KsQzfARUoA6aqOcZ2m1"
+    },
+    {
+      "added_at": "2024-09-13 00:01:00",
+      "album": {
         "name": "Shade Under Your Hands",
         "url": "https://open.spotify.com/album/4e284Hh1gNyh52cGN9F0vj"
       },
@@ -731,22 +767,6 @@
       "duration_ms": 261959,
       "name": "Wee Rosebud",
       "url": "https://open.spotify.com/track/4UZmFxgOxdrbgJyskDm3AS"
-    },
-    {
-      "added_at": "2024-09-13 00:01:00",
-      "album": {
-        "name": "The Best Sea",
-        "url": "https://open.spotify.com/album/6viJOxH6ZeWSFqiigxA1a1"
-      },
-      "artists": [
-        {
-          "name": "Marta Del Grandi",
-          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
-        }
-      ],
-      "duration_ms": 141897,
-      "name": "The Best Sea",
-      "url": "https://open.spotify.com/track/0s5KsQzfARUoA6aqOcZ2m1"
     },
     {
       "added_at": "2024-09-13 00:01:00",
@@ -847,22 +867,6 @@
     {
       "added_at": "2024-09-13 00:01:00",
       "album": {
-        "name": "Pt. I",
-        "url": "https://open.spotify.com/album/0WfthyeVmVxhwbs09RwtwK"
-      },
-      "artists": [
-        {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
-        }
-      ],
-      "duration_ms": 241009,
-      "name": "ANNA",
-      "url": "https://open.spotify.com/track/3JRRWAm5wR9pal37nIIbyc"
-    },
-    {
-      "added_at": "2024-09-13 00:01:00",
-      "album": {
         "name": "Hrudja",
         "url": "https://open.spotify.com/album/6BJAIjSg0DyxXNW2XEViMs"
       },
@@ -875,6 +879,22 @@
       "duration_ms": 237666,
       "name": "\u0160cune",
       "url": "https://open.spotify.com/track/3S801UkQT4b4RksDo2rxTM"
+    },
+    {
+      "added_at": "2024-09-13 00:01:00",
+      "album": {
+        "name": "Pt. I",
+        "url": "https://open.spotify.com/album/0WfthyeVmVxhwbs09RwtwK"
+      },
+      "artists": [
+        {
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+        }
+      ],
+      "duration_ms": 241009,
+      "name": "ANNA",
+      "url": "https://open.spotify.com/track/3JRRWAm5wR9pal37nIIbyc"
     },
     {
       "added_at": "2024-09-13 00:01:00",
@@ -1035,6 +1055,22 @@
     {
       "added_at": "2024-09-13 00:01:00",
       "album": {
+        "name": "I Hope You Can Forgive Me",
+        "url": "https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5"
+      },
+      "artists": [
+        {
+          "name": "Madison McFerrin",
+          "url": "https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e"
+        }
+      ],
+      "duration_ms": 55860,
+      "name": "Deep Sea",
+      "url": "https://open.spotify.com/track/4EqDAxDuFSsRFaxQRlpsCm"
+    },
+    {
+      "added_at": "2024-09-13 00:01:00",
+      "album": {
         "name": "I AM",
         "url": "https://open.spotify.com/album/6X6VBlL0Rsdl0JN9mVrK31"
       },
@@ -1063,22 +1099,6 @@
       "duration_ms": 522000,
       "name": "Vajranala",
       "url": "https://open.spotify.com/track/0262OfotysNpIAs6R1meEI"
-    },
-    {
-      "added_at": "2024-09-13 00:01:00",
-      "album": {
-        "name": "I Hope You Can Forgive Me",
-        "url": "https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5"
-      },
-      "artists": [
-        {
-          "name": "Madison McFerrin",
-          "url": "https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e"
-        }
-      ],
-      "duration_ms": 55860,
-      "name": "Deep Sea",
-      "url": "https://open.spotify.com/track/4EqDAxDuFSsRFaxQRlpsCm"
     },
     {
       "added_at": "2024-09-13 00:01:00",
@@ -1263,22 +1283,6 @@
       "duration_ms": 218000,
       "name": "Signal (Maral Remix)",
       "url": "https://open.spotify.com/track/0hRjNutbJnMSjsSzP6XwyD"
-    },
-    {
-      "added_at": "2024-09-13 00:01:00",
-      "album": {
-        "name": "Death Is Home",
-        "url": "https://open.spotify.com/album/5HO1N4upxkWKuO3hdB4d2m"
-      },
-      "artists": [
-        {
-          "name": "A\u00efsha Devi",
-          "url": "https://open.spotify.com/artist/4RtrEYqj2bINZ2HXWUG3j4"
-        }
-      ],
-      "duration_ms": 272990,
-      "name": "Mind Era",
-      "url": "https://open.spotify.com/track/7ikwHilKD3pDtp9tcLTeCn"
     }
   ],
   "unique_name": "Terra Incognita",

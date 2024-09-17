@@ -344,7 +344,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 158360,
       "name": "Blum - Big City Life",
       "url": "https://open.spotify.com/track/47Mdp52cM7pGwm5FmQcMPD"
@@ -1008,7 +1008,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 133714,
       "name": "Fountainebleu",
       "url": "https://open.spotify.com/track/0whf2gBRVWuZLqVZgg5Egn"
@@ -2280,7 +2280,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-16",
+      "date_removed": null,
       "duration_ms": 183550,
       "name": "Seven (feat. Latto) (Explicit Ver.)",
       "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
@@ -2578,7 +2578,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-16",
+      "date_removed": null,
       "duration_ms": 206019,
       "name": "Standing Next to You",
       "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"
@@ -3766,7 +3766,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-13",
+      "date_removed": null,
       "duration_ms": 174842,
       "name": "\u0414\u043e\u043c \u041f\u0435\u0440\u0438\u043d\u044c\u043e\u043d",
       "url": "https://open.spotify.com/track/0i8YObgqnjZYoYJOQbwLHq"
@@ -4090,7 +4090,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 162037,
       "name": "\u041a\u0438\u0441 \u041a\u0438\u0441 \u041a\u0438\u0441",
       "url": "https://open.spotify.com/track/062l4eq0DRJ28ZeobzF0Lz"
@@ -4976,7 +4976,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-14",
+      "date_removed": null,
       "duration_ms": 172094,
       "name": "\u043f\u043e\u0440\u0442\u0440\u0435\u0442\u044b - Acoustic",
       "url": "https://open.spotify.com/track/7ojBwkKhmZzXDjrqwfLH26"
@@ -5814,7 +5814,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 178526,
       "name": "\u0422\u0420\u042f\u0421\u0418",
       "url": "https://open.spotify.com/track/0Ooumv9fPKubna7qQlK9Xq"
@@ -6281,6 +6281,24 @@
     },
     {
       "album": {
+        "name": "\u0412\u043e\u043a\u0440\u0443\u0433 \u0441\u0432\u0435\u0442\u0430",
+        "url": "https://open.spotify.com/album/1cAWbHu8Cr5ovfa4IinouC"
+      },
+      "artists": [
+        {
+          "name": "Car-Man",
+          "url": "https://open.spotify.com/artist/1m5PTRE24aukZ7h4y5ebGF"
+        }
+      ],
+      "date_added": "2024-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298013,
+      "name": "\u0427\u0438\u043e-\u0427\u0438\u043e-\u0441\u0430\u043d",
+      "url": "https://open.spotify.com/track/5eRiD1X9qiWRnL9QQAtq2V"
+    },
+    {
+      "album": {
         "name": "\u0427\u0421\u0412",
         "url": "https://open.spotify.com/album/7thnTMZ6YHfUgaARJIl0eG"
       },
@@ -6318,7 +6336,7 @@
       ],
       "date_added": "2024-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 200100,
       "name": "\u0427\u0421\u0412",
       "url": "https://open.spotify.com/track/76CHKMe1uNd7IgZeCZufhs"

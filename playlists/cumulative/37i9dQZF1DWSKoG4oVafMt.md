@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Kulwinder Billa & Shivani Parihar
 
-914 songs - 2 day 1 hr 33 min
+915 songs - 2 day 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -397,6 +397,7 @@
 | [Kehkashan](https://open.spotify.com/track/2NTtfjk6ShR9uQcKJh1yX9) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 3:00 | 2023-09-29 | 2023-11-07 |
 | [Kehri Gali](https://open.spotify.com/track/1paDFKGNdKWOSq8sk4Bv8u) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Tini \- EP](https://open.spotify.com/album/2ieFpeF1ll67TuqGjmOJP3) | 3:33 | 2022-09-05 | 2022-09-16 |
 | [Khabbi Seat](https://open.spotify.com/track/4aK30RcFKxsiF1gjLlH5Gt) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Sweetaj Brar](https://open.spotify.com/artist/2B4azLEfuhlG2ykxCaQJWk) | [Khabbi Seat](https://open.spotify.com/album/0Q0QRo49mBz9zs7KKdZYrG) | 3:24 | 2021-12-02 | 2022-04-29 |
+| [Khat](https://open.spotify.com/track/5bEzjIHl3yG5fyQ7BSobyI) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59) | [Shukrana \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3zQmmjfL0y72hde3GHUGYp) | 2:53 | 2024-09-16 |  |
 | [Khayaal](https://open.spotify.com/track/4D8eFUu6Hvulrq6CGqGaLR) | [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN), [NDS](https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG) | [Khayaal](https://open.spotify.com/album/6YRCu9pm8bpzydmmddfXYG) | 2:42 | 2023-05-11 | 2024-04-04 |
 | [Khayal Rakhunga \- From "Any How Mitti Pao"](https://open.spotify.com/track/1pZiK3peitwvY0LqRxuDcd) | [Gurshabad](https://open.spotify.com/artist/557gXmWZK1P5T3yNLjvLXP), [Khushi Pandher](https://open.spotify.com/artist/6JgrVNpfoFwE3imEDPrzqJ) | [Khayal Rakhunga \(From "Any How Mitti Pao"\)](https://open.spotify.com/album/2xGEpbUAvug9LheBHtFkGW) | 2:19 | 2023-10-25 | 2024-03-29 |
 | [Khilona](https://open.spotify.com/track/59wY6mjaBDsLMrRXqe67Gl) | [Vibhor Parashar](https://open.spotify.com/artist/6q2TUP4nBtVhI7wyRwKXxu) | [Khilona](https://open.spotify.com/album/7FugdJh2s51qyNsFOhT5Eq) | 3:07 | 2022-05-10 | 2022-05-20 |
@@ -843,7 +844,7 @@
 | [Touch](https://open.spotify.com/track/7N1GIRDrB1l14np1AT6EED) | [Sama Blake](https://open.spotify.com/artist/19jOqaZTvseWAgi4PaQJrd), [Rameet Sandhu](https://open.spotify.com/artist/3DvttNUNkwPw64Hp3BFsEP) | [Touch](https://open.spotify.com/album/7xbXd6O3AFkSHBeCnZ14Gi) | 3:09 | 2022-07-15 | 2022-08-18 |
 | [Trouble Maker](https://open.spotify.com/track/3TAVm9vSyDhvTEHcdVesjV) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Mxrci](https://open.spotify.com/artist/2Nqey0jwMuyuUKuQ8f1d7D) | [Trouble Maker](https://open.spotify.com/album/7watxaAZ25ax1NQHbduhgU) | 2:38 | 2022-10-12 | 2023-02-04 |
 | [Tu](https://open.spotify.com/track/2GzjIHQ87BF2zgbmmthZzO) | [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [Tu](https://open.spotify.com/album/7JWCWWOkIr1AFB7jxjRgQ9) | 2:12 | 2024-07-31 |  |
-| [Tu Chahida](https://open.spotify.com/track/5cUr6puvXjDPgs4yTfSW3o) | [G Romio](https://open.spotify.com/artist/3rNBq6NdpGpcSAuNIgrY9Y) | [First Album](https://open.spotify.com/album/78HaqqhvApLn9ekzNudy3k) | 3:20 | 2024-08-28 |  |
+| [Tu Chahida](https://open.spotify.com/track/5cUr6puvXjDPgs4yTfSW3o) | [G Romio](https://open.spotify.com/artist/3rNBq6NdpGpcSAuNIgrY9Y) | [First Album](https://open.spotify.com/album/78HaqqhvApLn9ekzNudy3k) | 3:20 | 2024-08-28 | 2024-09-17 |
 | [Tu Hi Das De](https://open.spotify.com/track/65hNUaQSau704UtsRZVhKy) | [Tedi Pagg](https://open.spotify.com/artist/6tWHWFyjq1e6xsPDsOxhca), [Simar Panag](https://open.spotify.com/artist/17wXdpGNHQ2vJ1ccoToqGC), [Mickey Singh](https://open.spotify.com/artist/3KDhyMTFZlrfAO0zK18z4t) | [Tu Hi Das De](https://open.spotify.com/album/5ZYR477Cw4aZu3NDhBKXrW) | 2:52 | 2021-12-02 | 2022-12-16 |
 | [Tu Jaanda Ae](https://open.spotify.com/track/68inwrhs0ggPlJhlqVHuCM) | [Madhur Sharma](https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ) | [Tu Jaanda Ae](https://open.spotify.com/album/1LD9gtlHV6Mh4aeke1ebOw) | 4:10 | 2022-03-29 | 2022-04-06 |
 | [Tu Jhoom](https://open.spotify.com/track/2xRtXbFAmk3cW6xE1zF7ye) | [Naseebo Lal](https://open.spotify.com/artist/4sAweKU7CjDZ1bUEb6VF6a), [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl) | [Tu Jhoom](https://open.spotify.com/album/6VhS1BISA2PS23CmP0XH5M) | 6:37 | 2022-02-24 | 2022-04-06 |

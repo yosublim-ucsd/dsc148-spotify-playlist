@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 
 > The wave of Latin Electronic music\. Cover: NATTI NATASHA, Play\-N\-Skillz & Deorro
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,944,320 likes - 58 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,944,243 likes - 58 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

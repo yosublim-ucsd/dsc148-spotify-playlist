@@ -4,7 +4,7 @@
 
 > Themes to groove to from Telugu Movies!<br/><br/>Cover: Saripodhaa Sanivaaram
 
-141 songs - 7 hr 58 min
+142 songs - 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Leader Instrumental](https://open.spotify.com/track/4Ts5DWlmFI8DL8bqAY9RwN) | [Mickey J\. Meyer](https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk) | [Leader](https://open.spotify.com/album/6QcYjqogMZV4b1SIBAGdMk) | 3:24 | 2024-08-23 |  |
 | [Let's Party All Night](https://open.spotify.com/track/2eAw9wwoNsqLXVv8VjQgSX) | [Prudhvi Chandra](https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR), [M\. M\. Manasi](https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS) | [Jaya Janaki Nayaka \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2Jp6raaiCBdOWJMQofquHM) | 4:11 | 2021-06-24 | 2024-08-24 |
 | [Listen to Story \- Freak Pilla](https://open.spotify.com/track/3FslWKeri9zykXECz92NlL) | [Dinakar](https://open.spotify.com/artist/2g6YRAePxQ1H27zigqdtZH), [Neethu Naduvathettu](https://open.spotify.com/artist/7md9on9sWhaP0lj7992HBs) | [Lovers Day \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4gUIECPXhyYSekLbAexlHK) | 3:18 | 2021-06-24 | 2024-08-24 |
+| [Maa Nanna Super Hero Theme \(From "Maa Nanna Super Hero"\)](https://open.spotify.com/track/2oLLowJ2qGlV2yOuZUxSvr) | [Jay Krish](https://open.spotify.com/artist/3Yz04XcMjC097xmoo1VYob) | [Maa Nanna Super Hero Theme \(From "Maa Nanna Super Hero"\)](https://open.spotify.com/album/1Q7mJegyT3SauJqZLDLRwF) | 1:14 | 2024-09-16 |  |
 | [Mass Theme Of Pushpa](https://open.spotify.com/track/4kyFdoTanak2xGGLvxQE7u) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Pushpa The Rise \- OST](https://open.spotify.com/album/64Vs6t5DycA8LzjeIGDSHk) | 1:55 | 2024-08-23 |  |
 | [MCA](https://open.spotify.com/track/5MhnpBzKRDQpeAJgR7vmHV) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB) | [MCA \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4q7TQdPkWFRzo3CkhqQe4Q) | 3:17 | 2021-06-24 | 2022-07-29 |
 | [MCA](https://open.spotify.com/track/7h5QJLJ1KtgChdKnj8kXqG) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB) | [MCA](https://open.spotify.com/album/5sy3FZiEsKg1Kp4NaoJYuN) | 3:17 | 2021-06-24 | 2024-08-24 |

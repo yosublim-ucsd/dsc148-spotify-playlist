@@ -1,12 +1,12 @@
 {
   "description": "This is Damares. The essential tracks, all in one playlist.",
-  "num_followers": 29824,
+  "num_followers": 29834,
   "original_name": "This Is Damares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuTSAAAAAADmjrNQ7sARM6db6aZCMd7C",
+  "snapshot_id": "ZuYjgAAAAAAhkIVcO/fhESJTc+RhzJhP",
   "tracks": [
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Di\u00e1rio de um Vencedor",
-        "url": "https://open.spotify.com/album/0stFyCnSeAihWr9BG6yYco"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 324520,
-      "name": "Di\u00e1rio de um Vencedor",
-      "url": "https://open.spotify.com/track/1yiO84QLvUgVHvQa52heds"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Obra Prima",
         "url": "https://open.spotify.com/album/0frPLhLncGOeuKhGENGdG5"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 294226,
       "name": "Ressuscita",
       "url": "https://open.spotify.com/track/62VvRM3T2IdsjbBYJI6oqI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Di\u00e1rio de um Vencedor",
+        "url": "https://open.spotify.com/album/0stFyCnSeAihWr9BG6yYco"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 324520,
+      "name": "Di\u00e1rio de um Vencedor",
+      "url": "https://open.spotify.com/track/1yiO84QLvUgVHvQa52heds"
     },
     {
       "added_at": null,
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 221146,
-      "name": "T\u00f4 na Estrada",
-      "url": "https://open.spotify.com/track/6GUBGxoOA48cTTeOplSlBa"
+      "duration_ms": 260013,
+      "name": "Sou Teu Deus",
+      "url": "https://open.spotify.com/track/2Uhx9tWSDxNxi5SXTRnSD2"
     },
     {
       "added_at": null,
@@ -607,6 +607,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Acelera e Pisa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1AxsFgdjC8PtnPPJixKqS3"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+        },
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 363733,
+      "name": "\u00c9 Milagre (feat. Damares) - Ao Vivo",
+      "url": "https://open.spotify.com/track/38dPxKE0tOrddwKiMy7I48"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Maior Trof\u00e9u",
+        "url": "https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 221146,
+      "name": "T\u00f4 na Estrada",
+      "url": "https://open.spotify.com/track/6GUBGxoOA48cTTeOplSlBa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tudo Isso Vai Passar (Ao Vivo)",
         "url": "https://open.spotify.com/album/45U92rIVHr0cmdz8G422VS"
       },
@@ -627,24 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Maior Trof\u00e9u",
-        "url": "https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 260013,
-      "name": "Sou Teu Deus",
-      "url": "https://open.spotify.com/track/2Uhx9tWSDxNxi5SXTRnSD2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Acelera e Pisa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1AxsFgdjC8PtnPPJixKqS3"
+        "name": "Cad\u00ea o vencedor?",
+        "url": "https://open.spotify.com/album/07yxyLlox691nqPNZDyvNq"
       },
       "artists": [
         {
@@ -656,9 +676,9 @@
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 363733,
-      "name": "\u00c9 Milagre (feat. Damares) - Ao Vivo",
-      "url": "https://open.spotify.com/track/38dPxKE0tOrddwKiMy7I48"
+      "duration_ms": 222602,
+      "name": "N\u00e3o pare (Participa\u00e7\u00e3o especial de Damares)",
+      "url": "https://open.spotify.com/track/1vZgOwVMWo33msljJa4h5t"
     },
     {
       "added_at": null,
@@ -691,26 +711,6 @@
       "duration_ms": 333162,
       "name": "Pai, Preciso de Ti",
       "url": "https://open.spotify.com/track/324t5ZkCfdhBxP2t6708pD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cad\u00ea o vencedor?",
-        "url": "https://open.spotify.com/album/07yxyLlox691nqPNZDyvNq"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 e Felipe",
-          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
-        },
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 222602,
-      "name": "N\u00e3o pare (Participa\u00e7\u00e3o especial de Damares)",
-      "url": "https://open.spotify.com/track/1vZgOwVMWo33msljJa4h5t"
     },
     {
       "added_at": null,

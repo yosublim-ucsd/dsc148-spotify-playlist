@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Artie 5ive, Lazza, Fedez, Paky e tanti altri! 🔥
 
-4,134 songs - 7 day 17 hr 56 min
+4,135 songs - 7 day 17 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -856,7 +856,7 @@
 | [Closed](https://open.spotify.com/track/2Tjpjyz6I6vFwVl6ZdvTAt) | [BIG P](https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768) | [Closed](https://open.spotify.com/album/6rl4eAiplgEOlHAXS5URCh) | 2:22 | 2024-01-12 | 2024-01-26 |
 | [CLOUDY DAY](https://open.spotify.com/track/0RL7dKCBkD67XWhEwnSTmZ) | [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT) | [CLOUDY DAY](https://open.spotify.com/album/1FK48O0aV2LVrcSiSY0XtF) | 2:40 | 2024-04-11 | 2024-04-26 |
 | [Club](https://open.spotify.com/track/1OISpjS8zoP8HcGyFghGRK) | [Ramzes](https://open.spotify.com/artist/3lSnvqZegxgUxopOE6MUmR) | [Club](https://open.spotify.com/album/6MquyToGeCjLfBucQFz6b2) | 3:31 | 2023-08-31 | 2023-09-15 |
-| [COATTO](https://open.spotify.com/track/78XqI1GVzaDFubf7vX0k6b) | [Sayanbull](https://open.spotify.com/artist/4GjsuEcRjZZd1hFQLvWUr0), [Elmatadormc7](https://open.spotify.com/artist/7516jrFSCN9rahmTvPAYUu), [INCE](https://open.spotify.com/artist/06hLqaGYqDyCF8ZjaAyEaw), [Pa Pa](https://open.spotify.com/artist/7kjOfMliT3rGPA3QUFfVnj) | [COATTO](https://open.spotify.com/album/6ZJbRtGXFdcAB9rStcW2Wu) | 3:02 | 2024-08-01 |  |
+| [COATTO](https://open.spotify.com/track/78XqI1GVzaDFubf7vX0k6b) | [Sayanbull](https://open.spotify.com/artist/4GjsuEcRjZZd1hFQLvWUr0), [Elmatadormc7](https://open.spotify.com/artist/7516jrFSCN9rahmTvPAYUu), [INCE](https://open.spotify.com/artist/06hLqaGYqDyCF8ZjaAyEaw), [Pa Pa](https://open.spotify.com/artist/7kjOfMliT3rGPA3QUFfVnj) | [COATTO](https://open.spotify.com/album/6ZJbRtGXFdcAB9rStcW2Wu) | 3:02 | 2024-08-01 | 2024-09-17 |
 | [Cobra](https://open.spotify.com/track/4fr5R9HVMeBdfGz5FkitOZ) | [MBOSS](https://open.spotify.com/artist/5IHqA6YzPMGrf9CDjly4az) | [Cobra](https://open.spotify.com/album/0DOAphyyRRAt2zc53ZTPTy) | 2:17 | 2024-09-05 |  |
 | [Coca](https://open.spotify.com/track/3Aq001rBb8LfXcMyFZcQu9) | [Xhovana](https://open.spotify.com/artist/1qvJn4A1Y6gej2kJU0DWxX) | [Coca](https://open.spotify.com/album/0mnrKZTqrhh9kni2VKkrt4) | 1:49 | 2024-02-15 | 2024-02-28 |
 | [Cocaina](https://open.spotify.com/track/64qsPgi3QCzSSLz0lMxCn7) | [Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk) | [Bendicion](https://open.spotify.com/album/6VTLsm4M3WA9YTf3RNWMnz) | 2:40 | 2024-01-18 | 2024-02-16 |
@@ -2237,6 +2237,7 @@
 | [MAROCCO](https://open.spotify.com/track/5BfPmD1pXmC0Nl9bSUktSE) | [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n) | [MAROCCO](https://open.spotify.com/album/4wMH2tKaGLQCCToJle0B3d) | 2:14 | 2023-05-25 | 2023-06-16 |
 | [MARROQUI](https://open.spotify.com/track/7hSly6xmFPryis6ydfLtLM) | [LocoArmy](https://open.spotify.com/artist/5QxZpEkReGa0HfPC5ls6ZE) | [MARROQUI](https://open.spotify.com/album/7q2n1viHGVkO2cCrqemAU3) | 2:17 | 2024-07-11 | 2024-07-27 |
 | [Martelli](https://open.spotify.com/track/7EZcFoXgyNqMnv5bVMSHz8) | [Visco](https://open.spotify.com/artist/2mve4F86lnyHLkghjsMvPe) | [Martelli](https://open.spotify.com/album/44QVejjR4OABkqOxFet7Dt) | 2:28 | 2022-08-04 | 2022-08-26 |
+| [Martire](https://open.spotify.com/track/5dvY0ltq2IGGEni6YwXBt5) | [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41), [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m) | [Martire](https://open.spotify.com/album/2HdxQjLHp214525NWVxu5r) | 2:51 | 2024-09-16 |  |
 | [MARYMARY](https://open.spotify.com/track/7uMzYkzl5CH4TZnSzXUQoq) | [Disme](https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p) | [MARYMARY](https://open.spotify.com/album/3EprkkwftNaHwjMyVSh7cu) | 2:42 | 2023-04-06 | 2023-04-28 |
 | [Maschere](https://open.spotify.com/track/4Zj8tPNrU6paFDBpaWO6yk) | [Noemi Coozy](https://open.spotify.com/artist/0PDAJtFlTKotT8i0mu1THx), [Näthaniel](https://open.spotify.com/artist/5W3ZpbTC2fyFGujra4uVTF) | [Maschere](https://open.spotify.com/album/4P3pZAr1lww8HZmVWQX3nY) | 2:07 | 2024-02-15 | 2024-02-28 |
 | [MASCHIO ALPHA, linea novanta](https://open.spotify.com/track/5uwpDIYwdL3Wb3C4d6IuQ0) | [Garelli](https://open.spotify.com/artist/5appupCr1pI8I1k3AWstc6), [ThinkFast](https://open.spotify.com/artist/0zY3rKlVW1d0tMW7gZyX3T), [Inoki](https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF) | [MASCHIO ALPHA, linea novanta](https://open.spotify.com/album/217zuNvbfJBvtD0Y5gY2Ka) | 2:55 | 2024-04-18 | 2024-04-26 |

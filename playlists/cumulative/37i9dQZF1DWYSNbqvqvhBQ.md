@@ -2,7 +2,7 @@
 
 ### [Blijf Luisteren!](https://open.spotify.com/playlist/37i9dQZF1DWYSNbqvqvhBQ)
 
-> De mooiste en nieuwste liedjes van het moment\. Cover: Racoon
+> De mooiste en nieuwste liedjes van het moment\. Cover: Teddy Swims
 
 482 songs - 1 day 3 hr 49 min
 

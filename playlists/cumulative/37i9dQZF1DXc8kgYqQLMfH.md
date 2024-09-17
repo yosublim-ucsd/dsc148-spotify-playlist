@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,188 songs - 1 day 21 hr 15 min
+1,189 songs - 1 day 21 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -454,7 +454,7 @@
 | [Him & Her](https://open.spotify.com/track/6kUwrt8mM8wf0Od8UvoxOa) | [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ) | [Him & Her](https://open.spotify.com/album/0OCVJHGPMUguZzz8jxSiPb) | 1:53 | 2023-07-13 |  |
 | [Hokkaido Breeze](https://open.spotify.com/track/20aWMDQFYgx0da54JctdZd) | [Furry Beats](https://open.spotify.com/artist/74JcB9y2kqee7Fm3rrlAe5) | [Hokkaido Breeze](https://open.spotify.com/album/2FuriS42295H1EzGOwZV6x) | 2:20 | 2023-10-20 |  |
 | [Holding Hands](https://open.spotify.com/track/79QzmNjV2Xmei1z4Fdzb1V) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA) | [Bouju Beach](https://open.spotify.com/album/5LVeb10gfIZkCK9NdkQSvC) | 2:09 | 2022-06-17 | 2023-04-12 |
-| [holibay](https://open.spotify.com/track/59bssvn3WWvm7n8HlVDOuJ) | [breeze inn](https://open.spotify.com/artist/24KZ9h5aLXhkyzn90D7rVd) | [holibay](https://open.spotify.com/album/0w3CVjCoDg5bKMN80fFQCU) | 1:56 | 2022-01-27 |  |
+| [holibay](https://open.spotify.com/track/59bssvn3WWvm7n8HlVDOuJ) | [breeze inn](https://open.spotify.com/artist/24KZ9h5aLXhkyzn90D7rVd) | [holibay](https://open.spotify.com/album/0w3CVjCoDg5bKMN80fFQCU) | 1:56 | 2022-01-27 | 2024-09-17 |
 | [hollows](https://open.spotify.com/track/1LsBuFMHgiUlXYcH4PT2nv) | [ding m](https://open.spotify.com/artist/3YpyfRGmyOjU5Sdx6xMwBn) | [hollows](https://open.spotify.com/album/2S50kPdsCPHNGvUiUeW7A4) | 2:50 | 2021-11-10 | 2022-10-29 |
 | [hollywood](https://open.spotify.com/track/4YRFVSoRT3GFyd0rPaUnhe) | [rchie](https://open.spotify.com/artist/3RtQcltuh6uzO6ilFGIKFI) | [hollywood](https://open.spotify.com/album/4NvozMjJNnXVtnhEPzKuhp) | 2:25 | 2021-11-10 | 2022-04-08 |
 | [Home](https://open.spotify.com/track/7af9w0uRr13jR1Zg0rgPOp) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7) | [Forever Changing](https://open.spotify.com/album/2ShFGMi4aKdIC12sjHeaKr) | 2:50 | 2021-11-10 | 2022-07-22 |
@@ -836,6 +836,7 @@
 | [Purple](https://open.spotify.com/track/0VGdOE6W9O8D4RoVhO1vb9) | [SP\-Mato](https://open.spotify.com/artist/1UirLyIwdIElsaGCp0W4Ym) | [Purple](https://open.spotify.com/album/2xKHNEKqEBPnz6iJKpW4yv) | 1:50 | 2023-02-07 | 2023-10-13 |
 | [Purple & Yellow](https://open.spotify.com/track/5Q4X6JGfoZM89iGSNGt2XR) | [Idyllik Beat](https://open.spotify.com/artist/2iIteXiNI5fVOATQamujmX) | [Purple & Yellow](https://open.spotify.com/album/2pUZ78mijQuuZSH6Tsb0xz) | 2:15 | 2021-11-10 | 2023-05-20 |
 | [Puzzle Games](https://open.spotify.com/track/1hU8XWa2YZiQQK78ypYZNP) | [d'Andy](https://open.spotify.com/artist/6OBQW4uISzDYrUR5dEYhkb) | [Puzzle Games](https://open.spotify.com/album/7o7ujWd4hMX1EfVaXSfgNi) | 1:48 | 2023-03-16 |  |
+| [Quali Spec](https://open.spotify.com/track/1LrS2RIkDI9paZTReBpufA) | [Maggotts&Becketts](https://open.spotify.com/artist/5KcHdaJD7z9518eYGaAh07) | [Quali Spec](https://open.spotify.com/album/2quruZML6dfErb679MJ6Yl) | 2:46 | 2024-09-13 |  |
 | [quetzal](https://open.spotify.com/track/1agUl7NQusmxiJtbLm9oRS) | [tres islas](https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8) | [quetzal](https://open.spotify.com/album/4TzETeuVh0EakHs2gihYhu) | 2:12 | 2024-05-13 | 2024-06-22 |
 | [Rain Relaxation](https://open.spotify.com/track/4UNI7NvY0ti3jJikm4f4ld) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [Rain Relaxation](https://open.spotify.com/album/12rvDONgzBXcUOS62Z1GZZ) | 3:00 | 2021-11-10 |  |
 | [rainy day](https://open.spotify.com/track/2WUCGxGlpQdxjSLXyzsSBN) | [LAV8](https://open.spotify.com/artist/0n0N8rkm96ulhvOxNu6zK5) | [rainy day](https://open.spotify.com/album/68Tu5Ec4RPtuoHQ4s1asl1) | 2:17 | 2023-01-06 | 2024-05-14 |

@@ -330,7 +330,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 186091,
       "name": "Boldogtalans\u00e1g",
       "url": "https://open.spotify.com/track/1NJqCgWaY3kwdt2f7M1iui"
@@ -392,7 +392,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-16",
+      "date_removed": null,
       "duration_ms": 273818,
       "name": "cerem\u00f3nia",
       "url": "https://open.spotify.com/track/2IetMd5ZFurl1sjSAqhq2O"
@@ -414,7 +414,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 113046,
       "name": "CHOCO MOMMY",
       "url": "https://open.spotify.com/track/2V5x33qFjc72hmrrtG6ujv"
@@ -509,6 +509,28 @@
     },
     {
       "album": {
+        "name": "Die With A Smile",
+        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2024-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251667,
+      "name": "Die With A Smile",
+      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
+    },
+    {
+      "album": {
         "name": "Diet Pepsi",
         "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
       },
@@ -578,7 +600,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 183741,
       "name": "Doomsday Blue",
       "url": "https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g"
@@ -892,6 +914,28 @@
       "duration_ms": 218423,
       "name": "Good Luck, Babe!",
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
+    },
+    {
+      "album": {
+        "name": "Gyere Kisl\u00e1ny",
+        "url": "https://open.spotify.com/album/7u1VEXdOplmEB5UQPJEzUX"
+      },
+      "artists": [
+        {
+          "name": "Feh\u00e9r Kriszti\u00e1n",
+          "url": "https://open.spotify.com/artist/7nU1fhLUpYpzilqF5QkVdX"
+        },
+        {
+          "name": "Burai",
+          "url": "https://open.spotify.com/artist/35BhE5C6szF898n5WgUSgO"
+        }
+      ],
+      "date_added": "2024-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216521,
+      "name": "Gyere Kisl\u00e1ny",
+      "url": "https://open.spotify.com/track/4ZXIRnU7kU6HCxjIUEVgoH"
     },
     {
       "album": {
@@ -1260,7 +1304,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 207818,
       "name": "kelet",
       "url": "https://open.spotify.com/track/50oIkRQqZvOUIyW2x88FlD"
@@ -1282,6 +1326,28 @@
       "duration_ms": 199991,
       "name": "k\u00e9t \u00e9v",
       "url": "https://open.spotify.com/track/351nDPn6IUlP0fYmTmbkUc"
+    },
+    {
+      "album": {
+        "name": "K\u00f6rhinta",
+        "url": "https://open.spotify.com/album/4b9RDUzmk00XHOMzz9Wz4I"
+      },
+      "artists": [
+        {
+          "name": "P\u00e1pai Joci",
+          "url": "https://open.spotify.com/artist/1xYRrfmh7NjIUY6XuJhvVm"
+        },
+        {
+          "name": "L.L. Junior",
+          "url": "https://open.spotify.com/artist/3cG03cMdrtBCrmM0843f9O"
+        }
+      ],
+      "date_added": "2024-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205861,
+      "name": "K\u00f6rhinta",
+      "url": "https://open.spotify.com/track/3mUt3snLTNt90NCt1LOCbp"
     },
     {
       "album": {
@@ -1507,6 +1573,32 @@
     },
     {
       "album": {
+        "name": "Mes\u00e9lj m\u00e9g r\u00f3la",
+        "url": "https://open.spotify.com/album/17iZT4pMKSNFYsM7PKWVAg"
+      },
+      "artists": [
+        {
+          "name": "Wellhello",
+          "url": "https://open.spotify.com/artist/4URlJ0EofF5gUvCGDtxr3m"
+        },
+        {
+          "name": "Lil Frakk",
+          "url": "https://open.spotify.com/artist/0CJxR2iBZb64SRwApcj2Ev"
+        },
+        {
+          "name": "H\u0151s\u00f6k",
+          "url": "https://open.spotify.com/artist/5XWViNOFsgtYypFYRIEY9Y"
+        }
+      ],
+      "date_added": "2024-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "Mes\u00e9lj m\u00e9g r\u00f3la",
+      "url": "https://open.spotify.com/track/5KSrW9PVNhiNH74Z6Jdfoh"
+    },
+    {
+      "album": {
         "name": "IGAZIAK\u00c9RT",
         "url": "https://open.spotify.com/album/79TxTooMGOIBxL57zgx6n1"
       },
@@ -1624,7 +1716,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 173750,
       "name": "Mona Lisa",
       "url": "https://open.spotify.com/track/5My0SnKMr3ZNiIpzXJiwiM"
@@ -1964,7 +2056,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-28",
+      "date_removed": null,
       "duration_ms": 189354,
       "name": "Rampapapam",
       "url": "https://open.spotify.com/track/1E2flGJxXQNeBLRqQXiAsK"
@@ -2026,7 +2118,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 156194,
       "name": "Rocketship",
       "url": "https://open.spotify.com/track/5q2zRUEMUMh51Ipd97bmAa"
@@ -2048,7 +2140,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 176000,
       "name": "ROSSZ \u00d6TLET",
       "url": "https://open.spotify.com/track/5oMm7nr3dQsNDnVNzgeFeg"
@@ -2131,6 +2223,24 @@
     },
     {
       "album": {
+        "name": "SISS",
+        "url": "https://open.spotify.com/album/6cCrVfhvI1Wy9G5w55wxlM"
+      },
+      "artists": [
+        {
+          "name": "Bruno X Spacc",
+          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
+        }
+      ],
+      "date_added": "2024-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170934,
+      "name": "SISS",
+      "url": "https://open.spotify.com/track/2wYEY39laan1ePP1etfI1N"
+    },
+    {
+      "album": {
         "name": "Sivatag",
         "url": "https://open.spotify.com/album/0Z78ucckt1P6XNux1EoEBu"
       },
@@ -2168,7 +2278,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 213600,
       "name": "SOFIA COPPOLA",
       "url": "https://open.spotify.com/track/1LuXPfE3lgAzS8w5IcHAbL"
@@ -2325,6 +2435,40 @@
     },
     {
       "album": {
+        "name": "Szobor",
+        "url": "https://open.spotify.com/album/3tnRvPQ8kTpzh7HOizXLo7"
+      },
+      "artists": [
+        {
+          "name": "Wavy",
+          "url": "https://open.spotify.com/artist/6yhyLqCUsp3DMQDRRb6iEq"
+        },
+        {
+          "name": "Co Lee",
+          "url": "https://open.spotify.com/artist/7AFCBet5F4Pocp1il3bxv0"
+        },
+        {
+          "name": "Kolibri",
+          "url": "https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72"
+        },
+        {
+          "name": "FRANKO",
+          "url": "https://open.spotify.com/artist/4z7BpuAzNBJCtnkNjYNgKb"
+        },
+        {
+          "name": "Dan Pinto",
+          "url": "https://open.spotify.com/artist/5Bg0nn9wJutwmaNhhld2Xw"
+        }
+      ],
+      "date_added": "2024-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191240,
+      "name": "Szobor",
+      "url": "https://open.spotify.com/track/51VGaJxdSKbMe0MgUz77Or"
+    },
+    {
+      "album": {
         "name": "Vagy Mindent Vagy Semmit",
         "url": "https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH"
       },
@@ -2420,6 +2564,24 @@
       "duration_ms": 180141,
       "name": "The Code",
       "url": "https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8"
+    },
+    {
+      "album": {
+        "name": "The Emptiness Machine",
+        "url": "https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2024-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190427,
+      "name": "The Emptiness Machine",
+      "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
     },
     {
       "album": {
@@ -2620,7 +2782,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 123125,
       "name": "\u00d6rd\u00f6g N\u00f3rika",
       "url": "https://open.spotify.com/track/0NECD9bmlKlhxuZHQ5sq7J"

@@ -4,7 +4,7 @@
 
 > The future hits of today\. <br/>Cover: Kold AF
 
-153 songs - 7 hr 9 min
+154 songs - 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [64 °C](https://open.spotify.com/track/7CVTkhet8Si18yfTHtgVuS) | [Homa Homa](https://open.spotify.com/artist/7qUwTAQxAAxweAXWO7Lc2B), [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [64 °C](https://open.spotify.com/album/1MGRqLJfMviTuEBrgszK1d) | 2:30 | 2024-09-13 |  |
 | [A Million Things](https://open.spotify.com/track/1jG5GaaSjcX5F6qy6RuvbN) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [A Million Things](https://open.spotify.com/album/3m8ZRJvS9m5wEwScchXjlv) | 3:07 | 2024-06-28 | 2024-09-06 |
 | [Abeke](https://open.spotify.com/track/1rOcCMymtbyZBsbO6ADHtg) | [Godwin](https://open.spotify.com/artist/2mzRsCFnmBdMKFgSCVqE3Y), [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4) | [Abeke](https://open.spotify.com/album/1ixs4iAmZOhqTu6ZK3VrFv) | 4:07 | 2024-07-08 | 2024-09-13 |
+| [Agba Singing](https://open.spotify.com/track/1r1Xz7MMUotaxziNtqcstp) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Agba Singing](https://open.spotify.com/album/2Mt90xMkv1pP1ZxOpIvg1i) | 2:30 | 2024-09-16 |  |
 | [Alone](https://open.spotify.com/track/7mE7qAkm5kvgalbtZhTQ0v) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Alone](https://open.spotify.com/album/2N2sszhtSKyCQGLtGEigLG) | 2:33 | 2024-08-02 | 2024-08-30 |
 | [Alright](https://open.spotify.com/track/7CxmcGj4sXX9ZhjGUgOb3f) | [Niphkeys](https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa), [HADURAH](https://open.spotify.com/artist/4w8lSsts1Kw64Rzp1ItXco) | [Alright](https://open.spotify.com/album/0MLdJT6OYklHVHbX6hLhDi) | 2:54 | 2024-06-28 | 2024-08-26 |
 | [Amazing Grace](https://open.spotify.com/track/43RN0F4crBoN8Uv4YrRKUG) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn), [Yinka Bernie](https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL), [Bosco Soundtrack](https://open.spotify.com/artist/4vkkMvu0BYvfIsioM7U7w6) | [Amazing Grace](https://open.spotify.com/album/1kXYVUHCOO5rYsW5kWGXBu) | 3:11 | 2024-09-06 |  |
@@ -105,7 +106,7 @@
 | [My Way](https://open.spotify.com/track/3yLREZjJFnYLAN4aOUqqP6) | [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [My Way](https://open.spotify.com/album/5ew8bhyjYFzX6wgoMdEn4i) | 2:34 | 2024-09-13 |  |
 | [Naija Funk](https://open.spotify.com/track/368hIemlcjDPQuYulhJrHE) | [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Naija Funk](https://open.spotify.com/album/10MuD6qY8FZx08xgnlJc7O) | 2:06 | 2024-06-28 | 2024-07-09 |
 | [No Touching](https://open.spotify.com/track/44z2DxLiXMXUz8MVNM5V8u) | [Guchi](https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9) | [No Touching](https://open.spotify.com/album/2FQ31NoLa34SCId9LpYTso) | 2:41 | 2024-08-25 |  |
-| [Nobody](https://open.spotify.com/track/2Woou7ZB8SrnnpMey9ulxc) | [Tia](https://open.spotify.com/artist/3JAdD9AfJI9QymrEo49Qhp) | [Nobody](https://open.spotify.com/album/7uW3vWcXXhIqLSjHuH677g) | 2:30 | 2024-09-06 |  |
+| [Nobody](https://open.spotify.com/track/2Woou7ZB8SrnnpMey9ulxc) | [Tia](https://open.spotify.com/artist/3JAdD9AfJI9QymrEo49Qhp) | [Nobody](https://open.spotify.com/album/7uW3vWcXXhIqLSjHuH677g) | 2:30 | 2024-09-06 | 2024-09-17 |
 | [Nyash Na Nyash \(feat\. Young Jonn\) \- Remix](https://open.spotify.com/track/2jktscfZKJsDs2ELhEXg4R) | [Chella](https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Nyash Na Nyash \(Remix\) \[feat\. Young Jonn\]](https://open.spotify.com/album/1Rj31LivlulhX1VXlMwMWE) | 2:53 | 2024-09-06 |  |
 | [O.U.A.T](https://open.spotify.com/track/6W87j9MnByZwdNPmXPlAjn) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [O.U.A.T](https://open.spotify.com/album/1qrmA17zsvEfAbB5Ba5l0b) | 2:21 | 2024-06-28 | 2024-07-27 |
 | [Ogechi](https://open.spotify.com/track/6YYnBEMEaj960IX1evcTun) | [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM), [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh), [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA) | [Ogechi](https://open.spotify.com/album/3RrnJMe8E4SmVIzo393sLg) | 2:32 | 2024-06-28 | 2024-08-26 |

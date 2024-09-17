@@ -1,12 +1,12 @@
 {
   "description": "This Is El Komander. Los temas esenciales, todos en una lista.",
-  "num_followers": 211364,
+  "num_followers": 211406,
   "original_name": "This Is El Komander",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuTSAAAAAACI9wo7kLedM5y3vrjZ6wBd",
+  "snapshot_id": "ZuYjgAAAAAADDxWaDfSoar94NMPQfYeG",
   "tracks": [
     {
       "added_at": null,
@@ -835,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mujer Enamorada",
-        "url": "https://open.spotify.com/album/2SZLFyJMjzZgJPNJx2RabY"
+        "name": "En Vivo Desde Mis Caballerizas, Vol. 1",
+        "url": "https://open.spotify.com/album/59nx99DdT3xKtSZFw3bZcy"
       },
       "artists": [
         {
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 140511,
-      "name": "Mujer Enamorada",
-      "url": "https://open.spotify.com/track/3l00I1zbhGd2gRwdTQL89b"
+      "duration_ms": 248000,
+      "name": "Como Me Haces Falta - En Vivo",
+      "url": "https://open.spotify.com/track/7eRY3sxx881NHPg0R9zNWr"
     },
     {
       "added_at": null,
@@ -871,8 +871,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde Mis Caballerizas, Vol. 1",
-        "url": "https://open.spotify.com/album/59nx99DdT3xKtSZFw3bZcy"
+        "name": "Mujer Enamorada",
+        "url": "https://open.spotify.com/album/2SZLFyJMjzZgJPNJx2RabY"
       },
       "artists": [
         {
@@ -880,9 +880,9 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 248000,
-      "name": "Como Me Haces Falta - En Vivo",
-      "url": "https://open.spotify.com/track/7eRY3sxx881NHPg0R9zNWr"
+      "duration_ms": 140511,
+      "name": "Mujer Enamorada",
+      "url": "https://open.spotify.com/track/3l00I1zbhGd2gRwdTQL89b"
     },
     {
       "added_at": null,

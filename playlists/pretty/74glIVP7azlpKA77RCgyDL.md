@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 
 > Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artists: Lamb of God and Mastodon.
 
-[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 8,707 likes - 214 songs - 12 hr 43 min
+[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 8,706 likes - 214 songs - 12 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -6213,6 +6213,28 @@
     },
     {
       "album": {
+        "name": "rez\u00e1ndole a dios",
+        "url": "https://open.spotify.com/album/5hbndvSUgEj71m7Ujaxqui"
+      },
+      "artists": [
+        {
+          "name": "solopepe",
+          "url": "https://open.spotify.com/artist/6Bzp5cHR93uKQpbHTUVSF0"
+        },
+        {
+          "name": "catculator",
+          "url": "https://open.spotify.com/artist/4rATlgc18rtJ0xKhFci8Wi"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101470,
+      "name": "rez\u00e1ndole a dios",
+      "url": "https://open.spotify.com/track/6evXLYfdQM7fgrIAeVyaoL"
+    },
+    {
+      "album": {
         "name": "ROBOTRIL",
         "url": "https://open.spotify.com/album/5I1irY2R5RZiHXbqgjJt7H"
       },
@@ -6554,7 +6576,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 160000,
       "name": "Sickk Boii % Sex Toii",
       "url": "https://open.spotify.com/track/1ypfpYpyp65NPOVb88OFPu"

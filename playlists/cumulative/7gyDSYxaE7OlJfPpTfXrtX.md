@@ -4,7 +4,7 @@
 
 > The meds keep my eyes dry, but they don&\#x27;t prevent sorrow
 
-33 songs - 2 hr 10 min
+34 songs - 2 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Jimmy](https://open.spotify.com/track/00dPDZGBvNHhkbQSDV11os) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Welcome To The Madhouse \(Deluxe\)](https://open.spotify.com/album/1AZjTOqvw2ZogWZxnDlhEN) | 3:43 | 2022-09-07 |  |
 | [Lakeside View Apartments Suite](https://open.spotify.com/track/5Y7kurWaiHa8xqqF7NYI9t) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Transcendental Youth](https://open.spotify.com/album/7l2lKqa3E3oTrF3y6rHAzJ) | 3:58 | 2023-03-23 |  |
 | [Matthew 25:21](https://open.spotify.com/track/4TkrknkID0VW1dq0P91xnf) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Life Of The World To Come](https://open.spotify.com/album/1MxD6tOa9FMBKpQYLnUUYS) | 5:50 | 2023-03-23 |  |
+| [Paint It, Black](https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Aftermath](https://open.spotify.com/album/72qrnM4yUNMDDlWiqKc8iY) | 3:22 | 2024-09-16 |  |
 | [Pale Shelter](https://open.spotify.com/track/3bq6GVy7ol5FdMU0OtKVkz) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Hurting \- Deluxe Edition](https://open.spotify.com/album/6Sv5PjYWap5poTCrJJYjwk) | 4:03 | 2022-05-06 |  |
 | [Piano Man](https://open.spotify.com/track/1jEtkYYymmFGKEDLZ7ZisR) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [50 Years of the Piano Man](https://open.spotify.com/album/4nFLLh5qSlp2z2FuLpVERX) | 5:38 | 2022-05-06 |  |
 | [Sad](https://open.spotify.com/track/0M1yVnwZ5MjYP7ZzZPZUT1) | [Lemon Demon](https://open.spotify.com/artist/4llAOeA6kEF4ytaB2fsmcW) | [I Am Become Christmas EP](https://open.spotify.com/album/22L7nRsjdrYO3Mfufc3VhH) | 4:17 | 2022-08-01 |  |

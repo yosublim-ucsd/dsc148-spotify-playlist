@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 20,853 likes - 113 songs - 6 hr 35 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 20,851 likes - 113 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 9 | [I'll Be Right Back](https://open.spotify.com/track/0KMXPytIofw70T6sKnbsS9) | [RemK](https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF) | [I'll Be Right Back](https://open.spotify.com/album/5xT1UupUeqyMCy2SrDx6N3) | 4:13 |
 | 10 | [Thumper](https://open.spotify.com/track/0aus6qNMiaV0V7Z5pOqIxU) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [Sable Valley Summer, Vol\. 5](https://open.spotify.com/album/53zKVDbtCOB6rJ7D6uSkAb) | 2:19 |
 | 11 | [Ppl](https://open.spotify.com/track/7akBn8rG1rf6AT8wOKQZiT) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Ppl](https://open.spotify.com/album/6DpKHMIgwFQ7FJdnYewBsO) | 3:47 |
-| 12 | [SLUT ME OUT 3 \(feat\. Carey Washington\)](https://open.spotify.com/track/7FCsancbnLoZrmL6bX6Yti) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Carey Washington](https://open.spotify.com/artist/1o69wyMnma62W8juhb8gAH) | [SLUT ME OUT 3 \(feat\. Carey Washington\)](https://open.spotify.com/album/1OIvMyu96Ba38Mpb2rjdn9) | 2:23 |
+| 12 | [SLUT ME OUT 3 \(feat\. Carey Washington\)](https://open.spotify.com/track/7FCsancbnLoZrmL6bX6Yti) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Carey Washington](https://open.spotify.com/artist/1o69wyMnma62W8juhb8gAH) | [SLUT ME OUT 3 \(feat\. Carey Washington\)](https://open.spotify.com/album/1OIvMyu96Ba38Mpb2rjdn9) | 2:22 |
 | 13 | [Fast Forward](https://open.spotify.com/track/1pgK78vWoIm9cPhMKIola3) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Cascade](https://open.spotify.com/album/4IYnAmZ8GvmNFF2ZxxKT8L) | 7:38 |
 | 14 | [YA BODY](https://open.spotify.com/track/07jKK0hViPo33S5Y35QyvB) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd) | [YA BODY](https://open.spotify.com/album/4wpE3IlFOM1T571dAN94xU) | 3:03 |
 | 15 | [Pearl](https://open.spotify.com/track/1l4fsop2H0buZdcYaa7KM1) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D) | [Pearl](https://open.spotify.com/album/7uyyNpmNR8yE1MqPNnxik0) | 3:54 |

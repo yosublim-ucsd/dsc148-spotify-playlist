@@ -9862,6 +9862,24 @@
     {
       "album": {
         "name": "Culpable o No",
+        "url": "https://open.spotify.com/album/1aMBI4fbCN1vjMXNXlIQVO"
+      },
+      "artists": [
+        {
+          "name": "A los 4 Vientos",
+          "url": "https://open.spotify.com/artist/4mawQ0P4WNPzCoktK0zuBD"
+        }
+      ],
+      "date_added": "2024-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Culpable o No",
+      "url": "https://open.spotify.com/track/3IWYRkXwtcqaxhqYsPTb4h"
+    },
+    {
+      "album": {
+        "name": "Culpable o No",
         "url": "https://open.spotify.com/album/4uZUd0QsHillIoFzqyTlGw"
       },
       "artists": [
@@ -13940,7 +13958,7 @@
       ],
       "date_added": "2024-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 143418,
       "name": "Eres Tu",
       "url": "https://open.spotify.com/track/56iv7MN0cSDgHF9lliUDPj"
@@ -29046,7 +29064,7 @@
       ],
       "date_added": "2024-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 137647,
       "name": "No Te Pude Arrancar",
       "url": "https://open.spotify.com/track/4UIbIWKoNOP5TmeZ3OUvwD"
@@ -36012,7 +36030,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"
@@ -36738,7 +36756,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-24",
+      "date_removed": null,
       "duration_ms": 138160,
       "name": "Seremos Uno",
       "url": "https://open.spotify.com/track/0oeW47eszlvyvMG7OVogGM"
@@ -46578,6 +46596,24 @@
       "duration_ms": 149528,
       "name": "YUMMY!",
       "url": "https://open.spotify.com/track/3ftB5T412JJ20IgpQgeCW8"
+    },
+    {
+      "album": {
+        "name": "La M\u00fasica de la Negra Ester (En Vivo)",
+        "url": "https://open.spotify.com/album/3m46py1IffpjB5XilTfgX1"
+      },
+      "artists": [
+        {
+          "name": "La Regia Orquesta Quinteto",
+          "url": "https://open.spotify.com/artist/1dis6XUG0Qb9prSqHhFUcb"
+        }
+      ],
+      "date_added": "2024-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145578,
+      "name": "Zapatero Celoso - En Vivo",
+      "url": "https://open.spotify.com/track/4k6FrsUd6kCSbQGlkLegY5"
     },
     {
       "album": {

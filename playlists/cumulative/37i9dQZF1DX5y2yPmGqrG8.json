@@ -879,6 +879,24 @@
     },
     {
       "album": {
+        "name": "Nights",
+        "url": "https://open.spotify.com/album/3OgylkCHfph806816TzkGN"
+      },
+      "artists": [
+        {
+          "name": "Jupi/ter",
+          "url": "https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x"
+        }
+      ],
+      "date_added": "2024-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201164,
+      "name": "anything everything",
+      "url": "https://open.spotify.com/track/6MiBTgjS2GhBQaWCtUJMKn"
+    },
+    {
+      "album": {
         "name": "Soundness of Mind",
         "url": "https://open.spotify.com/album/6io2DZ1RNZoYC8BP3TPREE"
       },
@@ -1126,7 +1144,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 413977,
       "name": "Atlas",
       "url": "https://open.spotify.com/track/6i7i1fNug2GXwJXKbLTUDr"
@@ -6203,6 +6221,28 @@
     },
     {
       "album": {
+        "name": "My Noise Is Nothing",
+        "url": "https://open.spotify.com/album/7gD1HesHdAjyZU3mHBni6h"
+      },
+      "artists": [
+        {
+          "name": "Lord Of The Isles",
+          "url": "https://open.spotify.com/artist/2PoiNhvPSC4fivyrDJOoru"
+        },
+        {
+          "name": "Ellen Renton",
+          "url": "https://open.spotify.com/artist/1T7ltBiyXYSF6kKKdrqaGm"
+        }
+      ],
+      "date_added": "2024-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308841,
+      "name": "My Noise Is Nothing",
+      "url": "https://open.spotify.com/track/3TPGIWyE7xjm6VIUBVWiLG"
+    },
+    {
+      "album": {
         "name": "Red Ribbon",
         "url": "https://open.spotify.com/album/17mDWGdTnVS1h7yXMmrxUp"
       },
@@ -10620,7 +10660,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 170000,
       "name": "Winter's Lament",
       "url": "https://open.spotify.com/track/6SeSesTsbZgtyoY6GTyrEd"

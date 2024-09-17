@@ -770,7 +770,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 177208,
       "name": "BARMAN",
       "url": "https://open.spotify.com/track/2trw3sZEVbHxqzGX5mvgJI"
@@ -1574,7 +1574,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-14",
+      "date_removed": null,
       "duration_ms": 152760,
       "name": "Disco",
       "url": "https://open.spotify.com/track/2Lumsra3kuU61wXkEKzKaK"
@@ -1758,7 +1758,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 131612,
       "name": "Drama Queen",
       "url": "https://open.spotify.com/track/46QIU54LJWMnBTJ01Ylhex"
@@ -1812,7 +1812,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 113499,
       "name": "Drowning Love - Chasing Kou",
       "url": "https://open.spotify.com/track/0JcINBOEZFMchzVInOdk1V"
@@ -4192,7 +4192,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 136839,
       "name": "Levitating - Acoustic",
       "url": "https://open.spotify.com/track/6eqWA6blXyJWkt2BjZdX8d"
@@ -5392,7 +5392,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-13",
+      "date_removed": null,
       "duration_ms": 86983,
       "name": "NIGHTS LIKE THIS",
       "url": "https://open.spotify.com/track/1XBYiRV30ykHw5f4wm6qEn"
@@ -6304,7 +6304,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-19",
+      "date_removed": null,
       "duration_ms": 222280,
       "name": "Roi",
       "url": "https://open.spotify.com/track/7LPGJhkRDEW6KopWhD8DbX"
@@ -7834,7 +7834,7 @@
       ],
       "date_added": "2024-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-16",
+      "date_removed": null,
       "duration_ms": 68442,
       "name": "VAPO DO VAPO",
       "url": "https://open.spotify.com/track/1PXDJHodzKG2oBgWONv1By"
@@ -9820,7 +9820,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 201019,
       "name": "\u0433\u0434\u0435 \u0442\u044b?",
       "url": "https://open.spotify.com/track/5Om5hEHe2lKknhmveGXA2j"
@@ -11292,7 +11292,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 97033,
       "name": "\u043b\u044e\u0431\u0438 \u043c\u0435\u043d\u044f, \u0430\u043b\u0438\u043d\u0430",
       "url": "https://open.spotify.com/track/2w0VyjxphvyEPY9qYIFstk"
@@ -12514,7 +12514,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 110589,
       "name": "\u043f\u0430\u0434\u0448\u0438\u0439 \u0430\u043d\u0433\u0435\u043b",
       "url": "https://open.spotify.com/track/3crmtfhHNBj5OMcyDcVIa5"
@@ -13204,7 +13204,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-04",
+      "date_removed": null,
       "duration_ms": 110560,
       "name": "\u0421\u0430\u043d\u044f",
       "url": "https://open.spotify.com/track/6VFJBFvqTPOQSQhAGDsNeu"
@@ -13334,6 +13334,24 @@
       "duration_ms": 148500,
       "name": "\u0421\u043d\u0435\u0433 \u0440\u0430\u0441\u0442\u0430\u044f\u043b \u043d\u0430 \u043f\u043b\u0435\u0447\u0430\u0445",
       "url": "https://open.spotify.com/track/6mC2PY4sm4M0YFL9dsBMGc"
+    },
+    {
+      "album": {
+        "name": "\u041f\u0440\u043e\u0444\u0430\u043d\u0430\u0446\u0438\u044f",
+        "url": "https://open.spotify.com/album/6QGl7lFIyvt9BI74961d2d"
+      },
+      "artists": [
+        {
+          "name": "\u041e\u0432\u0441\u044f\u043d\u043a\u0438\u043d",
+          "url": "https://open.spotify.com/artist/6a5dhhVg61QjA7kMDLFSqt"
+        }
+      ],
+      "date_added": "2024-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195709,
+      "name": "\u0421\u043d\u044b",
+      "url": "https://open.spotify.com/track/3elEKVMMpKYSDt0LsUo8EE"
     },
     {
       "album": {
@@ -13556,6 +13574,24 @@
       "duration_ms": 100616,
       "name": "\u0421\u0422\u0412\u041e\u041b",
       "url": "https://open.spotify.com/track/5oRyJGRopWGXtnOL7jJfZR"
+    },
+    {
+      "album": {
+        "name": "\u0421\u0442\u043e \u043f\u0435\u0440\u0432\u044b\u0439",
+        "url": "https://open.spotify.com/album/7FWsDgb9q9tW3XQqI24cRP"
+      },
+      "artists": [
+        {
+          "name": "\u041a\u0430\u0442\u044f \u0421\u0430\u043c\u0431\u0443\u043a\u0430",
+          "url": "https://open.spotify.com/artist/5U5uf7Br9qdJZa70LoVdTF"
+        }
+      ],
+      "date_added": "2024-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295031,
+      "name": "\u0421\u0442\u043e \u043f\u0435\u0440\u0432\u044b\u0439",
+      "url": "https://open.spotify.com/track/2S4B5FkviPprttf23NgbTP"
     },
     {
       "album": {

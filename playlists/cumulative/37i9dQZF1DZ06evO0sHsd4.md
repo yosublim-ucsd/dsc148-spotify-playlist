@@ -2,7 +2,7 @@
 
 ### [This Is Jasiel Nuñez](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0sHsd4)
 
-> This is Jasiel Nuñez\. Tutti i brani in un'unica playlist.
+> This Is Jasiel Nuñez\. Los temas esenciales, todos en una lista.
 
 32 songs - 1 hr 43 min
 

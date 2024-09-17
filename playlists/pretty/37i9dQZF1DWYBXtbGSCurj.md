@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Aka Rasta
 
-[Spotify](https://open.spotify.com/user/spotify) - 449,892 likes - 75 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,883 likes - 75 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 74 | [Objetivo](https://open.spotify.com/track/16LXfGWa7r4v1TCiIifk2Y) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [Objetivo](https://open.spotify.com/album/4C26C6isVhZ9Q725U4Cp83) | 3:00 |
 | 75 | [Alvo](https://open.spotify.com/track/4PUSJf1ZCuLiiE8xyEE7Qd) | [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [Trinity](https://open.spotify.com/album/60JfiI4rqmujf7EmoDrCTQ) | 2:41 |
 
-Snapshot ID: `ZuQ5VAAAAADP0KssNHeVLoRzG8YS3OeH`
+Snapshot ID: `ZuQ5VAAAAADruHdJd7uLd/4jHQNAC+VN`

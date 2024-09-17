@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Navaan Sandhu
 
-484 songs - 23 hr 7 min
+485 songs - 23 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [CHANGA CHANGA](https://open.spotify.com/track/07pZr5hCkdQUrIqHxlZqEc) | [Jot Dhindsa](https://open.spotify.com/artist/6pJP9TynvFU2wR1pDMtwth), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2) | [THREE WAY](https://open.spotify.com/album/6mta4ktCakVsjVL7cVuJo3) | 2:15 | 2024-03-13 | 2024-03-20 |
 | [Characters](https://open.spotify.com/track/5b7BWs4nsatS4m72uaWRNi) | [Barinder Dhapai](https://open.spotify.com/artist/7unAVMZwYSIAChXVALfZ9B) | [Characters](https://open.spotify.com/album/5Reb4nVxEHFDAtMjDA1JP0) | 2:38 | 2023-10-06 | 2023-10-18 |
 | [Charcha](https://open.spotify.com/track/4vIbgvmbj6pFoLenVnzCdS) | [Korala Maan](https://open.spotify.com/artist/6WZ8WCYWROs8IyMJOPeJ4G) | [Charcha](https://open.spotify.com/album/2fNbxr9xOHz6X7eh6MuXtj) | 2:28 | 2024-04-24 | 2024-08-13 |
-| [Chaudhar](https://open.spotify.com/track/5KBE9WQ9pUZXz3SLJZf0hk) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON), [Labh Heera](https://open.spotify.com/artist/4ezwpwbRQF6wEWji17s3Bc), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Chaudhar](https://open.spotify.com/album/5oKWsH1gDsgD7c1jkYSKMt) | 4:12 | 2024-08-27 |  |
+| [Chaudhar](https://open.spotify.com/track/5KBE9WQ9pUZXz3SLJZf0hk) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON), [Labh Heera](https://open.spotify.com/artist/4ezwpwbRQF6wEWji17s3Bc), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Chaudhar](https://open.spotify.com/album/5oKWsH1gDsgD7c1jkYSKMt) | 4:12 | 2024-08-27 | 2024-09-17 |
 | [Check It Out](https://open.spotify.com/track/4VosVUajzm6nzGlSb6nP3L) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Check It Out](https://open.spotify.com/album/1vF3ag997oVOcaSYVlFytV) | 3:15 | 2023-06-28 | 2024-04-19 |
 | [Chor Chor](https://open.spotify.com/track/1RTmalkNzCllQCG2IJi6nc) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Rass](https://open.spotify.com/artist/3rDMzoRvRb5XfbZTk2gHCK) | [Limitless](https://open.spotify.com/album/3pf6uLZdrxvd7W75J443Dw) | 2:55 | 2023-10-25 | 2023-11-07 |
 | [Chup Chup](https://open.spotify.com/track/1gwu4J4HIbbQrPUHHRc415) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Roop Bhullar](https://open.spotify.com/artist/0sYnCQ9Eb3RbEHOqVQST8d) | [Keep It Gangsta](https://open.spotify.com/album/2yLZX2MHdXJK8nyFUmFGvW) | 2:35 | 2023-03-29 | 2023-05-06 |
@@ -250,6 +250,7 @@
 | [Kalakaar](https://open.spotify.com/track/1P2kP6CnEQunaOaOQVcxDE) | [Raka](https://open.spotify.com/artist/6DaYS7s7hXtNtuGwBICzVB) | [Kalakaar](https://open.spotify.com/album/0vbvJKEtYuVEeOKwAMvOxx) | 2:39 | 2023-05-24 | 2023-05-27 |
 | [Kaleja Lahori](https://open.spotify.com/track/3eykC3sqFyvzs0uieGB7xd) | [Ahmed Khan](https://open.spotify.com/artist/6S5gjIbHTmQ2uKljKjqLSp) | [Kaleja Lahori](https://open.spotify.com/album/6jbwBRb2vZJ0Y4U3Hw0tVd) | 2:19 | 2024-01-05 | 2024-01-12 |
 | [Kami Peshi](https://open.spotify.com/track/1MEo8QvW3Ibs4vTLtAYvAK) | [Hunar Sidhu](https://open.spotify.com/artist/19VorrOswCkaY0J4ZYIUYm) | [Kami Peshi](https://open.spotify.com/album/3WuZ5gSSr5VhlvCozPrupf) | 3:22 | 2024-07-04 | 2024-07-19 |
+| [Kamyabi](https://open.spotify.com/track/2GpThs67kEgRTVQP8nGchd) | [Ekam Chanoli](https://open.spotify.com/artist/2RR7qfIt6G3IOX0yp50aik), [Labh Heera](https://open.spotify.com/artist/4ezwpwbRQF6wEWji17s3Bc), [Music Empire](https://open.spotify.com/artist/4LqmswmlN0mAZs930MjGOt) | [Kamyabi](https://open.spotify.com/album/0Gkb9fmvLzzAC86g9ysgMM) | 3:35 | 2024-09-16 |  |
 | [Katal Hai](https://open.spotify.com/track/0ppQ1j4cxF7ASw4wI9xa07) | [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8), [Inder Dosanjh](https://open.spotify.com/artist/4uhm0dnOES3u20XHR4HTQY), [Enzo](https://open.spotify.com/artist/0QX0UY2UJtnhfEbqUbTz6h) | [Katal Hai](https://open.spotify.com/album/2eVE7V73mCGujc6VjBQjKx) | 2:28 | 2024-01-25 | 2024-02-03 |
 | [Khadaak](https://open.spotify.com/track/2l4WWoL2e7XL77hT3r4iee) | [Shooter Kahlon](https://open.spotify.com/artist/5oL0GAI8fKD0Wgbr4Em9AS), [Shevv](https://open.spotify.com/artist/2EQoFz6owAP4ATr5hGFRok), [Micheal](https://open.spotify.com/artist/4HITSZH8b5ITVXjg91mFY1) | [Khadaak](https://open.spotify.com/album/0Wjak0wq7GXx6Gkf0FN1Q5) | 2:37 | 2023-09-21 |  |
 | [Khauf \(From "Zindagi Zindabaad"\)](https://open.spotify.com/track/4AOblHfneYWvjUl1clwzLU) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Preet Hundal](https://open.spotify.com/artist/3jbXizgjZpi8FZ9g28wb1c), [Pardeep Malak](https://open.spotify.com/artist/2adVNkNRt1fiCW4vIeK2NO) | [Khauf \(From "Zindagi Zindabaad"\)](https://open.spotify.com/album/4k5j3g48igjYLTmFGITUSc) | 3:18 | 2023-10-11 | 2024-02-14 |

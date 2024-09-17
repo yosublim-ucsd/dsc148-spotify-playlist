@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:0bGDTQ78MVgI5Snqo9KJZw">Qrion</a>'s favorite tracks\. Updated regularly\. Curated by Qrion\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-393 songs - 1 day 9 hr 42 min
+394 songs - 1 day 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Beach Kisses \- 2023 Mix](https://open.spotify.com/track/2bUw0rwZ8gb5vYiZPALIXS) | [Dosem](https://open.spotify.com/artist/0zmnkCTbAxYsZAMIqXEzfS) | [Beach Kisses \(2023 Mix\)](https://open.spotify.com/album/2gPm45Eeibll0lTcpHJ0HT) | 3:08 | 2023-12-08 | 2024-04-27 |
 | [Bee Tent](https://open.spotify.com/track/5NlF0fdDZPt1d8Nq0bY9mp) | [rumu](https://open.spotify.com/artist/4Dw9XdPFz4nOKNjtzPFgEX) | [Creole / Bee Tent](https://open.spotify.com/album/1oRdiGHparn59Z9cDyU10i) | 6:25 | 2024-08-09 |  |
 | [Before Dawn](https://open.spotify.com/track/4eAz5Na2BaEVpPxhOrq5pc) | [Something Good](https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Sansa](https://open.spotify.com/artist/5ghRItoYhcGjBtH8xSGCC9) | [Before Dawn](https://open.spotify.com/album/3ClrFAuuK8LNzQg8kMo3zb) | 3:18 | 2023-05-26 | 2024-01-27 |
-| [Beyond Us](https://open.spotify.com/track/0WWcpVbhW4QSCDuOhv4uud) | [Eynka](https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg) | [Beyond Us](https://open.spotify.com/album/059cyUyqw5RwJJIFSACVLE) | 5:04 | 2024-02-23 |  |
+| [Beyond Us](https://open.spotify.com/track/0WWcpVbhW4QSCDuOhv4uud) | [Eynka](https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg) | [Beyond Us](https://open.spotify.com/album/059cyUyqw5RwJJIFSACVLE) | 5:04 | 2024-02-23 | 2024-09-17 |
 | [Black Rain \- Âme Remix](https://open.spotify.com/track/2xuCVDKo47AYxxjJtiTVCh) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Black Rain \(Âme Remix\)](https://open.spotify.com/album/3NkwIxvLuql04EXtIa9TfF) | 5:52 | 2023-01-12 | 2023-04-01 |
 | [Blame Me \- BAILE Remix](https://open.spotify.com/track/0HINRRVAivEq7IdZuqHf8f) | [QRTR](https://open.spotify.com/artist/2THXZEfcOePL7bRFl2DUwj), [Daniel de Lara](https://open.spotify.com/artist/6soPIhIMY989DfzQ7boSOI), [BAILE](https://open.spotify.com/artist/135mViPxje2MED7hOnn2j9) | [infina ad nausea: the remixes \[global magic pack\]](https://open.spotify.com/album/35vE6EkWGVKLNqyVp73ud4) | 5:59 | 2023-01-12 | 2023-03-11 |
 | [Blind Eye](https://open.spotify.com/track/1Q3RNUOiJKH4x85KOFKG65) | [Villager](https://open.spotify.com/artist/5NhirHwHO8nu6MrwjBizh7) | [Blind Eye EP](https://open.spotify.com/album/2deZuyl5M5gxpDmkgwLN1B) | 4:58 | 2023-01-12 | 2023-06-17 |
@@ -358,6 +358,7 @@
 | [The Unseen 22](https://open.spotify.com/track/1nYVZxGtv77AJpaqGKuU0U) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Soulkeeper / The Unseen 22](https://open.spotify.com/album/3kt2qEebdaNalFbLk8DR9a) | 6:35 | 2023-01-12 | 2023-01-28 |
 | [The World Keeps Turning](https://open.spotify.com/track/1sxGoYIDd1zPjLdxOgar7R) | [Nox Vahn](https://open.spotify.com/artist/2bqGPuC8kDCTLWieGOyWxu) | [When I'm With You EP](https://open.spotify.com/album/78J6ne4FcdzP9s7NiN6Mrr) | 3:46 | 2024-05-24 | 2024-09-15 |
 | [This Feeling](https://open.spotify.com/track/4kdY5p1f3aysdsGH2uzj1T) | [Scorz](https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn), [Silvio Soul](https://open.spotify.com/artist/37HzkmPYDZbgjgB9Ont3TE) | [This Feeling](https://open.spotify.com/album/70DRinqBAX17xz604tCR5M) | 3:50 | 2024-02-16 | 2024-09-15 |
+| [Thoughts of You](https://open.spotify.com/track/24eDvHZcWbmhRVpH4bQlQ4) | [Rob Tirea](https://open.spotify.com/artist/0D1FNjQMAVognp7FFrjGte) | [Thoughts of You](https://open.spotify.com/album/4e9Fdt1Bn1iTuG6qEm2L9F) | 3:22 | 2024-09-17 |  |
 | [Throw It All](https://open.spotify.com/track/1aOvZ3oLEOOSTUppmrn12e) | [Race Banyon](https://open.spotify.com/artist/5btOKBbjh04dkX7iqFERLL) | [Throw It All](https://open.spotify.com/album/5jEwhWJARZ5taz1Brp78Hy) | 5:03 | 2023-10-13 | 2024-03-02 |
 | [ticket to childhood](https://open.spotify.com/track/3nSIvZpvO6kU87bmSGwZVV) | [Vladimir Dubyshkin](https://open.spotify.com/artist/1ZzmTycawZ9YbMeiKcfKLL) | [The Botox Queen](https://open.spotify.com/album/0IVGnMI2xQWIHGYstkMg34) | 5:11 | 2023-01-12 | 2023-03-18 |
 | [To The Ground](https://open.spotify.com/track/2wEW81bVSkvqqNHDnSPPl9) | [Flashmob](https://open.spotify.com/artist/7xo0kZGwplHhSh8ORbToS8) | [To The Ground](https://open.spotify.com/album/4l0QIUrwO3MFuK61GeP7ru) | 3:00 | 2023-08-04 | 2023-10-28 |

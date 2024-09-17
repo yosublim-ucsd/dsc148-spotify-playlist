@@ -1086,7 +1086,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 190666,
       "name": "Big Dawgs",
       "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
@@ -1948,6 +1948,32 @@
       "duration_ms": 139133,
       "name": "Dior",
       "url": "https://open.spotify.com/track/53QrRlALFJfZgdcGLKwy5s"
+    },
+    {
+      "album": {
+        "name": "Do Pall",
+        "url": "https://open.spotify.com/album/2DRRtLZ5DcwMxN39lns41a"
+      },
+      "artists": [
+        {
+          "name": "Coachsahb",
+          "url": "https://open.spotify.com/artist/6Bh6azkXf8ySGXFCNuYifM"
+        },
+        {
+          "name": "Asa Singh Mastana",
+          "url": "https://open.spotify.com/artist/5MjQby5pq8m4mANED6jFbA"
+        },
+        {
+          "name": "Surinder Kaur",
+          "url": "https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC"
+        }
+      ],
+      "date_added": "2024-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209388,
+      "name": "Do Pall",
+      "url": "https://open.spotify.com/track/6dPCsJmys61wAVJIfsRPXi"
     },
     {
       "album": {

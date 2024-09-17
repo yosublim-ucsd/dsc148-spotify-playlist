@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-723 songs - 1 day 12 hr 13 min
+725 songs - 1 day 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Drum Machine](https://open.spotify.com/track/2vuMD95467vEtEUja63LxH) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt) | [Drum Machine](https://open.spotify.com/album/0MKp1ezYjLB8jzz8o9JIVN) | 2:26 | 2023-08-25 | 2023-12-23 |
 | [Drumz](https://open.spotify.com/track/6zn53vzo8Dz1zvoo2pRrbz) | [Wave Wave](https://open.spotify.com/artist/2jeqYJH4s0yEiqBpfer8s9), [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro) | [Drumz](https://open.spotify.com/album/2Ra6oSGqv15Kq0Lkik88ss) | 2:48 | 2023-05-25 | 2023-12-14 |
 | [Drunk](https://open.spotify.com/track/13TklxzA1yxtGHY5LDWWLx) | [G DOM](https://open.spotify.com/artist/4FkGuVMlxKYBXdjf62EB8G) | [Drunk](https://open.spotify.com/album/12JmsnVygqZZg898SZVeQj) | 3:41 | 2023-06-30 | 2023-07-14 |
+| [Dudu \(Goes Like This\)](https://open.spotify.com/track/5hp4pGZ3S45m7UCSqlaxJK) | [Alejandro Diego](https://open.spotify.com/artist/15zf3JdbSo0Q2um3mFkm3D), [Veve Milah](https://open.spotify.com/artist/4U1aujuzk3gLF3v0HNWZET) | [Dudu \(Goes Like This\)](https://open.spotify.com/album/2bmsBnjYFrfLfEKK67ouLR) | 3:01 | 2024-09-16 |  |
 | [Dummy – Chris Lake Remix](https://open.spotify.com/track/0SmyaVrzL7j3R9k3pkJgUh) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE) | [Dummy – Chris Lake Remix](https://open.spotify.com/album/6XqbzujsQpFewramig6kUM) | 2:53 | 2023-03-31 | 2023-04-15 |
 | [Dusk Till Dawn](https://open.spotify.com/track/49QogZO1TpFGN6p9tIkcJo) | [Anonymo](https://open.spotify.com/artist/7uZQ8p1Yr6ZwcfaC8fveIA) | [Dusk Till Dawn](https://open.spotify.com/album/6bVbbffANdbZWGKZS053oJ) | 7:06 | 2024-01-12 |  |
 | [Déjà vu](https://open.spotify.com/track/1tH2AvVypiNLmCXWqeh3TM) | [DOCTUM](https://open.spotify.com/artist/3MZCjzlSneUMjzcmwhX0ah) | [Déjà vu](https://open.spotify.com/album/3WJzfCE2HikKdC70KQlURl) | 3:45 | 2023-12-01 |  |
@@ -607,6 +608,7 @@
 | [Take U](https://open.spotify.com/track/1YwWHm6Ad1fizVPaQ8nrco) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Take U](https://open.spotify.com/album/1BsEalQCwpuAbqQloCDY9u) | 2:42 | 2023-12-01 |  |
 | [Taking The Lead](https://open.spotify.com/track/0zVM0ZoanmvbigiKcqJmcc) | [ZEZART](https://open.spotify.com/artist/4hOjMwZbhnhHmL9CoYmCBK) | [Taking The Lead](https://open.spotify.com/album/7xEu87Hg2vAoi5E9delp97) | 3:20 | 2023-11-24 |  |
 | [Talk Talk](https://open.spotify.com/track/3sxlSXXCQIPITS8xJBqcSc) | [Lelo](https://open.spotify.com/artist/4RQMCbKeR7VAJfDtoSRQlv) | [Talk Talk](https://open.spotify.com/album/4PSVtmEDxzjVs3BXqEJd86) | 3:29 | 2023-02-12 | 2023-04-13 |
+| [Talk to Me](https://open.spotify.com/track/03Du19uqh7mGTSfQwpgZLa) | [EL MO](https://open.spotify.com/artist/53f0uBVhxoPxSJtlCMGWuH), [Liliana](https://open.spotify.com/artist/6XChjeaOZ2HqbuVpupd9op) | [Talk to Me](https://open.spotify.com/album/2CCLNopJoGPhw2VpgTBJd6) | 2:40 | 2024-09-16 |  |
 | [Talk to Me](https://open.spotify.com/track/6OCsM9LVLyNBEWWYQEki9l) | [Rony Seikaly](https://open.spotify.com/artist/4AcGuUg7odrpcPUlrHGezB) | [Talk to Me](https://open.spotify.com/album/3gR4hWly26piBnKlv6kQQz) | 3:44 | 2023-05-01 | 2023-05-24 |
 | [Talk To Me \(with BRUX\)](https://open.spotify.com/track/60TJAdsTUJXxS4VDPWfmFL) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Anthony Attalla](https://open.spotify.com/artist/6UmrPT15mLI5ALbsDqwsQv), [BRUX](https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY) | [Talk To Me \(with BRUX\)](https://open.spotify.com/album/2shARbzXHKV7DDbTRmUDc4) | 3:02 | 2023-02-12 | 2023-04-13 |
 | [Tamo Bendecio](https://open.spotify.com/track/6q9NCdijVIwIzPwTfKn3zC) | [Bad Bunn](https://open.spotify.com/artist/4FYIy3bsaDrvC0LuW2kqzW) | [Tamo Bendecio](https://open.spotify.com/album/1fhWA3YZmPpJuWn3vtqDAB) | 2:09 | 2023-07-08 | 2023-07-14 |

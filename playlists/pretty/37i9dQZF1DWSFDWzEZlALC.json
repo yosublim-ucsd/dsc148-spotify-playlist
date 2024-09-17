@@ -1,12 +1,12 @@
 {
   "description": "Indie, Pop und Rap mit deutschen Texten. Cover: JEREMIAS",
-  "num_followers": 434997,
+  "num_followers": 435075,
   "original_name": "Wilde Herzen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuNkYAAAAADgGOMb6Tx3nk4q/YUE6gdX",
+  "snapshot_id": "ZuhZ0QAAAAAwJp49mQKA2vtAWEG/+Om6",
   "tracks": [
     {
       "added_at": "2024-09-12 22:00:00",
@@ -59,42 +59,6 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "seventies",
-        "url": "https://open.spotify.com/album/7otoxpOPVXeGEZT5ICsSaY"
-      },
-      "artists": [
-        {
-          "name": "Dominik Hartz",
-          "url": "https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI"
-        }
-      ],
-      "duration_ms": 141904,
-      "name": "seventies",
-      "url": "https://open.spotify.com/track/4mzBvJs9lclIBFhuF9dSD7"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
-        "name": "Schlaflied (feat. MELLER)",
-        "url": "https://open.spotify.com/album/4RzJ7FaPYVCrAUwuj6mqQU"
-      },
-      "artists": [
-        {
-          "name": "Katzi",
-          "url": "https://open.spotify.com/artist/7wELxFDgA5UWcQ4LXFq99m"
-        },
-        {
-          "name": "MELLER",
-          "url": "https://open.spotify.com/artist/01bwyExSOpCwS4qqAtglB9"
-        }
-      ],
-      "duration_ms": 168845,
-      "name": "Schlaflied (feat. MELLER)",
-      "url": "https://open.spotify.com/track/1gKwm6VnYXf12VFx4fRGhO"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
         "name": "schweigen uns an_v3",
         "url": "https://open.spotify.com/album/58AmJ7bYjpsTZD0JqI0vvc"
       },
@@ -111,22 +75,6 @@
       "duration_ms": 141582,
       "name": "schweigen uns an_v3",
       "url": "https://open.spotify.com/track/3kmlBigDU4d3y9AgYghh70"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
-        "name": "SIGNS",
-        "url": "https://open.spotify.com/album/0q5qYh11cyZsMOiVPlVvAi"
-      },
-      "artists": [
-        {
-          "name": "error",
-          "url": "https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp"
-        }
-      ],
-      "duration_ms": 149120,
-      "name": "SIGNS",
-      "url": "https://open.spotify.com/track/2jwEvLG0lD5CU05dMbTBEQ"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -167,18 +115,70 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "jeans unten",
-        "url": "https://open.spotify.com/album/1iGk9DeM8rouGoOfRj11wn"
+        "name": "Regen und Meer",
+        "url": "https://open.spotify.com/album/0rbUqJgSgLV0z1333LA1xm"
       },
       "artists": [
         {
-          "name": "kevin",
-          "url": "https://open.spotify.com/artist/3AnRJXttxRO7191Fxwkaxz"
+          "name": "frytz",
+          "url": "https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO"
         }
       ],
-      "duration_ms": 152203,
-      "name": "jeans unten",
-      "url": "https://open.spotify.com/track/5EszJ6Av72Chv7s6kJj41e"
+      "duration_ms": 143653,
+      "name": "Regen und Meer",
+      "url": "https://open.spotify.com/track/0gzxsjdciPPjxHYnMFboZj"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
+        "name": "seventies",
+        "url": "https://open.spotify.com/album/7otoxpOPVXeGEZT5ICsSaY"
+      },
+      "artists": [
+        {
+          "name": "Dominik Hartz",
+          "url": "https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI"
+        }
+      ],
+      "duration_ms": 141904,
+      "name": "seventies",
+      "url": "https://open.spotify.com/track/4mzBvJs9lclIBFhuF9dSD7"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
+        "name": "Schlaflied (feat. MELLER)",
+        "url": "https://open.spotify.com/album/4RzJ7FaPYVCrAUwuj6mqQU"
+      },
+      "artists": [
+        {
+          "name": "Katzi",
+          "url": "https://open.spotify.com/artist/7wELxFDgA5UWcQ4LXFq99m"
+        },
+        {
+          "name": "MELLER",
+          "url": "https://open.spotify.com/artist/01bwyExSOpCwS4qqAtglB9"
+        }
+      ],
+      "duration_ms": 168845,
+      "name": "Schlaflied (feat. MELLER)",
+      "url": "https://open.spotify.com/track/1gKwm6VnYXf12VFx4fRGhO"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
+        "name": "SIGNS",
+        "url": "https://open.spotify.com/album/0q5qYh11cyZsMOiVPlVvAi"
+      },
+      "artists": [
+        {
+          "name": "error",
+          "url": "https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp"
+        }
+      ],
+      "duration_ms": 149120,
+      "name": "SIGNS",
+      "url": "https://open.spotify.com/track/2jwEvLG0lD5CU05dMbTBEQ"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -195,6 +195,38 @@
       "duration_ms": 126391,
       "name": "Zur\u00fcck ans Meer",
       "url": "https://open.spotify.com/track/1sY2XVttZlnC9yUWXCNK0J"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
+        "name": "So leicht",
+        "url": "https://open.spotify.com/album/1D5TGD4lkOHfOrxVYlZG38"
+      },
+      "artists": [
+        {
+          "name": "Apsilon",
+          "url": "https://open.spotify.com/artist/6JqtADDgBVPjLBRFwqjuFm"
+        }
+      ],
+      "duration_ms": 164420,
+      "name": "So leicht",
+      "url": "https://open.spotify.com/track/0vYerVYaZpbilnp57EPra4"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
+        "name": "jeans unten",
+        "url": "https://open.spotify.com/album/1iGk9DeM8rouGoOfRj11wn"
+      },
+      "artists": [
+        {
+          "name": "kevin",
+          "url": "https://open.spotify.com/artist/3AnRJXttxRO7191Fxwkaxz"
+        }
+      ],
+      "duration_ms": 152203,
+      "name": "jeans unten",
+      "url": "https://open.spotify.com/track/5EszJ6Av72Chv7s6kJj41e"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -227,38 +259,6 @@
       "duration_ms": 134570,
       "name": "vier songs",
       "url": "https://open.spotify.com/track/1bI4H9gpTnZJ57uH4laEuf"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
-        "name": "So leicht",
-        "url": "https://open.spotify.com/album/1D5TGD4lkOHfOrxVYlZG38"
-      },
-      "artists": [
-        {
-          "name": "Apsilon",
-          "url": "https://open.spotify.com/artist/6JqtADDgBVPjLBRFwqjuFm"
-        }
-      ],
-      "duration_ms": 164420,
-      "name": "So leicht",
-      "url": "https://open.spotify.com/track/0vYerVYaZpbilnp57EPra4"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
-        "name": "Regen und Meer",
-        "url": "https://open.spotify.com/album/0rbUqJgSgLV0z1333LA1xm"
-      },
-      "artists": [
-        {
-          "name": "frytz",
-          "url": "https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO"
-        }
-      ],
-      "duration_ms": 143653,
-      "name": "Regen und Meer",
-      "url": "https://open.spotify.com/track/0gzxsjdciPPjxHYnMFboZj"
     },
     {
       "added_at": "2024-09-12 22:00:00",

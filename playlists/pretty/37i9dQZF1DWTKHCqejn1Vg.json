@@ -1,6 +1,6 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 32435,
+  "num_followers": 32439,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1 (K-Sexy & Romantic Songs)",
   "owner": {
     "name": "Spotify",
@@ -43,6 +43,22 @@
     {
       "added_at": "2024-09-13 09:14:57",
       "album": {
+        "name": "Hello, World - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/6t6uh1uD01cnqef1Y7NVxA"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "duration_ms": 192240,
+      "name": "Woo",
+      "url": "https://open.spotify.com/track/3OGSCPdVyj6FWJSm8bx70q"
+    },
+    {
+      "added_at": "2024-09-13 09:14:57",
+      "album": {
         "name": "INVITATION (Feat. Gaeko)",
         "url": "https://open.spotify.com/album/4WxRKPVsrzIaQ7ExLMvJ1u"
       },
@@ -59,22 +75,6 @@
       "duration_ms": 191359,
       "name": "INVITATION (Feat. Gaeko)",
       "url": "https://open.spotify.com/track/3ISOK4T54v6O1g1AB8FiEK"
-    },
-    {
-      "added_at": "2024-09-13 09:14:57",
-      "album": {
-        "name": "Hello, World - The 4th Mini Album",
-        "url": "https://open.spotify.com/album/6t6uh1uD01cnqef1Y7NVxA"
-      },
-      "artists": [
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        }
-      ],
-      "duration_ms": 192240,
-      "name": "Woo",
-      "url": "https://open.spotify.com/track/3OGSCPdVyj6FWJSm8bx70q"
     },
     {
       "added_at": "2024-09-13 09:14:57",
@@ -183,6 +183,22 @@
     {
       "added_at": "2024-09-13 09:14:57",
       "album": {
+        "name": "Hello, World - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/6t6uh1uD01cnqef1Y7NVxA"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "duration_ms": 173346,
+      "name": "Truth Be Told",
+      "url": "https://open.spotify.com/track/0NhfkWo4IBjNk8PnOM8Obg"
+    },
+    {
+      "added_at": "2024-09-13 09:14:57",
+      "album": {
         "name": "HORIZON : THE MIXTAPE",
         "url": "https://open.spotify.com/album/5eptgBCLHDrZ53lbVyXFrj"
       },
@@ -195,6 +211,22 @@
       "duration_ms": 81101,
       "name": "OVERZONE",
       "url": "https://open.spotify.com/track/52apyWv5B0JKYZWGC7yuMe"
+    },
+    {
+      "added_at": "2024-09-13 09:14:57",
+      "album": {
+        "name": "130 Mood : TRBL",
+        "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
+      },
+      "artists": [
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        }
+      ],
+      "duration_ms": 207129,
+      "name": "21",
+      "url": "https://open.spotify.com/track/2jiI8bNSDu7UxTtDCOqh3L"
     },
     {
       "added_at": "2024-09-13 09:14:57",
@@ -219,38 +251,6 @@
     {
       "added_at": "2024-09-13 09:14:57",
       "album": {
-        "name": "130 Mood : TRBL",
-        "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
-      },
-      "artists": [
-        {
-          "name": "DEAN",
-          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
-        }
-      ],
-      "duration_ms": 207129,
-      "name": "21",
-      "url": "https://open.spotify.com/track/2jiI8bNSDu7UxTtDCOqh3L"
-    },
-    {
-      "added_at": "2024-09-13 09:14:57",
-      "album": {
-        "name": "Hello, World - The 4th Mini Album",
-        "url": "https://open.spotify.com/album/6t6uh1uD01cnqef1Y7NVxA"
-      },
-      "artists": [
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        }
-      ],
-      "duration_ms": 173346,
-      "name": "Truth Be Told",
-      "url": "https://open.spotify.com/track/0NhfkWo4IBjNk8PnOM8Obg"
-    },
-    {
-      "added_at": "2024-09-13 09:14:57",
-      "album": {
         "name": "Flip",
         "url": "https://open.spotify.com/album/4rVJMhiG57vrG0nxB7Zmy8"
       },
@@ -263,6 +263,22 @@
       "duration_ms": 185893,
       "name": "Rendezvous",
       "url": "https://open.spotify.com/track/4Z2mXXSzuCDEHZtFGmy0X5"
+    },
+    {
+      "added_at": "2024-09-13 09:14:57",
+      "album": {
+        "name": "Bambi - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "duration_ms": 210893,
+      "name": "Cry For Love",
+      "url": "https://open.spotify.com/track/4QqROKO0RtV5CvxE7g90uw"
     },
     {
       "added_at": "2024-09-13 09:14:57",
@@ -283,22 +299,6 @@
       "duration_ms": 219080,
       "name": "Black Rose",
       "url": "https://open.spotify.com/track/3n3lKRN7oLcIW9i0wxDkX2"
-    },
-    {
-      "added_at": "2024-09-13 09:14:57",
-      "album": {
-        "name": "Peaches - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/1meyTrwRpRw7RnD8aoFfj0"
-      },
-      "artists": [
-        {
-          "name": "KAI",
-          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
-        }
-      ],
-      "duration_ms": 182120,
-      "name": "Come In",
-      "url": "https://open.spotify.com/track/5EwgzaaMsfgV21TAGeVUmF"
     },
     {
       "added_at": "2024-09-13 09:14:57",
@@ -327,18 +327,18 @@
     {
       "added_at": "2024-09-13 09:14:57",
       "album": {
-        "name": "Show Me The Money 9 Episode 3",
-        "url": "https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt"
+        "name": "Peaches - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/1meyTrwRpRw7RnD8aoFfj0"
       },
       "artists": [
         {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+          "name": "KAI",
+          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
         }
       ],
-      "duration_ms": 205999,
-      "name": "Infrared Camera",
-      "url": "https://open.spotify.com/track/0YRuXgAFpfsIx8GgsJBJu3"
+      "duration_ms": 182120,
+      "name": "Come In",
+      "url": "https://open.spotify.com/track/5EwgzaaMsfgV21TAGeVUmF"
     },
     {
       "added_at": "2024-09-13 09:14:57",
@@ -359,6 +359,22 @@
       "duration_ms": 216559,
       "name": "I Love It",
       "url": "https://open.spotify.com/track/6CBA5xTE7Z4cyA9rzlhFdA"
+    },
+    {
+      "added_at": "2024-09-13 09:14:57",
+      "album": {
+        "name": "Show Me The Money 9 Episode 3",
+        "url": "https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt"
+      },
+      "artists": [
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "duration_ms": 205999,
+      "name": "Infrared Camera",
+      "url": "https://open.spotify.com/track/0YRuXgAFpfsIx8GgsJBJu3"
     },
     {
       "added_at": "2024-09-13 09:14:57",
@@ -399,22 +415,6 @@
     {
       "added_at": "2024-09-13 09:14:57",
       "album": {
-        "name": "Bambi - The 3rd Mini Album",
-        "url": "https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p"
-      },
-      "artists": [
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        }
-      ],
-      "duration_ms": 210893,
-      "name": "Cry For Love",
-      "url": "https://open.spotify.com/track/4QqROKO0RtV5CvxE7g90uw"
-    },
-    {
-      "added_at": "2024-09-13 09:14:57",
-      "album": {
         "name": "CHASE - The 1st Mini Album",
         "url": "https://open.spotify.com/album/0rhJHOLAXHJpkwYdiAb07S"
       },
@@ -451,6 +451,22 @@
       "duration_ms": 267330,
       "name": "ROSE (feat. Skinny Brown, Homeboy)",
       "url": "https://open.spotify.com/track/1CB7xt4rCsyh0RY2eKA2oH"
+    },
+    {
+      "added_at": "2024-09-13 09:14:57",
+      "album": {
+        "name": "TENT 0.3",
+        "url": "https://open.spotify.com/album/2Lvb2FmWvthR6XPszLF41J"
+      },
+      "artists": [
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "duration_ms": 146402,
+      "name": "I Love Yuo",
+      "url": "https://open.spotify.com/track/6ENEZrqRJqUMNhTaOjlu6X"
     },
     {
       "added_at": "2024-09-13 09:14:57",
@@ -503,22 +519,6 @@
     {
       "added_at": "2024-09-13 09:14:57",
       "album": {
-        "name": "TENT 0.3",
-        "url": "https://open.spotify.com/album/2Lvb2FmWvthR6XPszLF41J"
-      },
-      "artists": [
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 146402,
-      "name": "I Love Yuo",
-      "url": "https://open.spotify.com/track/6ENEZrqRJqUMNhTaOjlu6X"
-    },
-    {
-      "added_at": "2024-09-13 09:14:57",
-      "album": {
         "name": "ROOM SERVICE",
         "url": "https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0"
       },
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-09-13 09:14:57",
       "album": {
-        "name": "OVERDRIVE",
-        "url": "https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1"
-      },
-      "artists": [
-        {
-          "name": "I.M",
-          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
-        }
-      ],
-      "duration_ms": 161640,
-      "name": "Blame",
-      "url": "https://open.spotify.com/track/2PviI6dkTJ2MM3omn3P9Id"
-    },
-    {
-      "added_at": "2024-09-13 09:14:57",
-      "album": {
         "name": "SOMO: FUME",
         "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 178186,
       "name": "Rebound",
       "url": "https://open.spotify.com/track/0naU7W4XICqrfTtwEzMu2x"
+    },
+    {
+      "added_at": "2024-09-13 09:14:57",
+      "album": {
+        "name": "OVERDRIVE",
+        "url": "https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1"
+      },
+      "artists": [
+        {
+          "name": "I.M",
+          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
+        }
+      ],
+      "duration_ms": 161640,
+      "name": "Blame",
+      "url": "https://open.spotify.com/track/2PviI6dkTJ2MM3omn3P9Id"
     },
     {
       "added_at": "2024-09-13 09:14:57",
@@ -799,6 +799,22 @@
     {
       "added_at": "2024-09-13 09:14:57",
       "album": {
+        "name": "savage",
+        "url": "https://open.spotify.com/album/6VmdIvbJsb9ScZHox6jzoW"
+      },
+      "artists": [
+        {
+          "name": "DPR CREAM",
+          "url": "https://open.spotify.com/artist/7bPplWv4cZ1q26UY2Wmcvw"
+        }
+      ],
+      "duration_ms": 138706,
+      "name": "savage",
+      "url": "https://open.spotify.com/track/14XHyR5B6XdSC80chxBajM"
+    },
+    {
+      "added_at": "2024-09-13 09:14:57",
+      "album": {
         "name": "White Snow",
         "url": "https://open.spotify.com/album/30nfsEtFfMujcgxWL2ifEV"
       },
@@ -839,22 +855,6 @@
     {
       "added_at": "2024-09-13 09:14:57",
       "album": {
-        "name": "savage",
-        "url": "https://open.spotify.com/album/6VmdIvbJsb9ScZHox6jzoW"
-      },
-      "artists": [
-        {
-          "name": "DPR CREAM",
-          "url": "https://open.spotify.com/artist/7bPplWv4cZ1q26UY2Wmcvw"
-        }
-      ],
-      "duration_ms": 138706,
-      "name": "savage",
-      "url": "https://open.spotify.com/track/14XHyR5B6XdSC80chxBajM"
-    },
-    {
-      "added_at": "2024-09-13 09:14:57",
-      "album": {
         "name": "MOON AND BACK",
         "url": "https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX"
       },
@@ -883,6 +883,22 @@
       "duration_ms": 191667,
       "name": "Leave",
       "url": "https://open.spotify.com/track/2JBNZs63jcrod7xJ8anwcA"
+    },
+    {
+      "added_at": "2024-09-13 09:14:57",
+      "album": {
+        "name": "ME TIME",
+        "url": "https://open.spotify.com/album/35yOKT2x4cwAPm0CQ8DF6s"
+      },
+      "artists": [
+        {
+          "name": "MIRANI",
+          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
+        }
+      ],
+      "duration_ms": 137973,
+      "name": "LVSNG",
+      "url": "https://open.spotify.com/track/3emY4tmPQU44ppnLiTcTL4"
     },
     {
       "added_at": "2024-09-13 09:14:57",
@@ -935,22 +951,6 @@
       "duration_ms": 184280,
       "name": "Dive Into",
       "url": "https://open.spotify.com/track/4i5Jxokc2PUjZDF3JPdzx5"
-    },
-    {
-      "added_at": "2024-09-13 09:14:57",
-      "album": {
-        "name": "ME TIME",
-        "url": "https://open.spotify.com/album/35yOKT2x4cwAPm0CQ8DF6s"
-      },
-      "artists": [
-        {
-          "name": "MIRANI",
-          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
-        }
-      ],
-      "duration_ms": 137973,
-      "name": "LVSNG",
-      "url": "https://open.spotify.com/track/3emY4tmPQU44ppnLiTcTL4"
     },
     {
       "added_at": "2024-09-13 09:14:57",
@@ -1059,26 +1059,22 @@
     {
       "added_at": "2024-09-13 09:14:57",
       "album": {
-        "name": "Luxury Flow",
-        "url": "https://open.spotify.com/album/5W5VJUDi7hHCWLFcbpyVDh"
+        "name": "[ Rorschach ] Part 1",
+        "url": "https://open.spotify.com/album/4oJZ6lxEkCpw8ESH9NrCdZ"
       },
       "artists": [
         {
-          "name": "The Quiett",
-          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
         },
         {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "Gist",
-          "url": "https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk"
+          "name": "YONKO",
+          "url": "https://open.spotify.com/artist/0rF8f4jHHztZoBPprNVVED"
         }
       ],
-      "duration_ms": 189823,
-      "name": "Mercedes (Feat. Leellamarz, Gist)",
-      "url": "https://open.spotify.com/track/2re0LAL6HYNgOjpQCh28rb"
+      "duration_ms": 235933,
+      "name": "Around (Feat. YONKO)",
+      "url": "https://open.spotify.com/track/1qMbjpnSAJQRc4uKuNZKO6"
     }
   ],
   "unique_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1 (K-Sexy & Romantic Songs)",

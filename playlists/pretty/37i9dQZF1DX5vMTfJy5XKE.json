@@ -1,12 +1,12 @@
 {
   "description": "'Tis the season! All new holiday releases. Cover: Cher",
-  "num_followers": 238695,
+  "num_followers": 238687,
   "original_name": "New Music Holiday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuO4wAAAAAAuW9kgPRlzDcIXng7ZDMuq",
+  "snapshot_id": "ZuhI7wAAAAC3lZ7SQ4kWZLBC/YnDVY/6",
   "tracks": [
     {
       "added_at": "2024-08-30 16:49:56",
@@ -71,6 +71,42 @@
       "duration_ms": 219120,
       "name": "Christmas Night With You",
       "url": "https://open.spotify.com/track/6lx1UIYeVhlLr40MA5Yjgl"
+    },
+    {
+      "added_at": "2024-09-16 15:04:15",
+      "album": {
+        "name": "Emily in Paris Season 4 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/79BnehvOChmwJkg3fbXNry"
+      },
+      "artists": [
+        {
+          "name": "Ashley Park",
+          "url": "https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn"
+        },
+        {
+          "name": "Kevin Dias",
+          "url": "https://open.spotify.com/artist/3UBr7nFzZBhdtfghEZiOrp"
+        }
+      ],
+      "duration_ms": 172199,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/3040AHnjXSrUCJzmO0yhJz"
+    },
+    {
+      "added_at": "2024-09-16 15:04:15",
+      "album": {
+        "name": "Red Christmas - From \"Descendants: The Rise of Red\"",
+        "url": "https://open.spotify.com/album/3E9QzmjoJlNmwUNPt3aaDC"
+      },
+      "artists": [
+        {
+          "name": "Kylie Cantrall",
+          "url": "https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX"
+        }
+      ],
+      "duration_ms": 163925,
+      "name": "Red Christmas - From \"Descendants: The Rise of Red\"",
+      "url": "https://open.spotify.com/track/6PB4cjXAxH1YxXHzug7i7L"
     },
     {
       "added_at": "2024-08-30 16:49:56",
@@ -899,22 +935,6 @@
       "duration_ms": 267390,
       "name": "Amazing Grace [Feat. The Tabernacle Choir at Temple Square, Mack Wilberg]",
       "url": "https://open.spotify.com/track/28jnXcjSRpWIOaM506zvGM"
-    },
-    {
-      "added_at": "2024-08-30 16:49:56",
-      "album": {
-        "name": "This Christmas (Feels Like Love)",
-        "url": "https://open.spotify.com/album/5gtWO7LWHde4S1PbSDHlyc"
-      },
-      "artists": [
-        {
-          "name": "Alex Sampson",
-          "url": "https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf"
-        }
-      ],
-      "duration_ms": 157849,
-      "name": "This Christmas (Feels Like Love)",
-      "url": "https://open.spotify.com/track/6P0BB4NFxOKlMCZQFXVKmm"
     }
   ],
   "unique_name": "New Music Holiday",

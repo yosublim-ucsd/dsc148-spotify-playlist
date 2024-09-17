@@ -1,12 +1,12 @@
 {
-  "description": "This Is Vicente Fern\u00e1ndez. Sus mejores \u00e9xitos, todos en una playlist.",
-  "num_followers": 1027872,
+  "description": "This Is Vicente Fern\u00e1ndez. Los temas esenciales, todos en una lista.",
+  "num_followers": 1028115,
   "original_name": "This Is Vicente Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuTSAAAAAAAVFZgb1Iu5SVaStl/+UgtM",
+  "snapshot_id": "ZuYjgAAAAAC11jgUipr2xhFDFwgOzOlI",
   "tracks": [
     {
       "added_at": null,
@@ -771,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vicente Fernandez La Leyenda Viviente (Digi-Pack)",
+        "url": "https://open.spotify.com/album/4N6NKru01oIgqTQ3MovJXW"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 212573,
+      "name": "M\u00e9xico Lindo Y Querido",
+      "url": "https://open.spotify.com/track/2r5HpO5yuhGHR0xDw7FTBr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Hombre Que M\u00e1s Te Amo",
         "url": "https://open.spotify.com/album/1mHnKPJaeo49qWrVILI3FO"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 214213,
       "name": "Perd\u00f3n (with Alejandro Fern\u00e1ndez) - Remasterizado 2005",
       "url": "https://open.spotify.com/track/7yXN5WniQqoKxtFIRQeRkk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Hijo Del Pueblo",
-        "url": "https://open.spotify.com/album/1TUMG8VFTVolUJLLdM2gQn"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 175133,
-      "name": "La Ley de la Vida",
-      "url": "https://open.spotify.com/track/4mg9oUjQMGJryksOuzvnCr"
     }
   ],
   "unique_name": "This Is Vicente Fern\u00e1ndez",

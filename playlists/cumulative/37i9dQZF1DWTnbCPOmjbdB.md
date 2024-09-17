@@ -4,7 +4,7 @@
 
 > Najlepsze polskie piosenki na czasie\. Cover: Roxie Węgiel, Maryla Rodowicz
 
-169 songs - 8 hr 0 min
+170 songs - 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Chłopak z sąsiedztwa](https://open.spotify.com/track/2kHWlk6Yw6vB4LfJJKIkiq) | [Arek Kłusowski](https://open.spotify.com/artist/34wHojIYy5Nrua9isD46O6) | [Chłopak z sąsiedztwa](https://open.spotify.com/album/2FTKqFfrFywSjEFKoPHvXY) | 2:50 | 2024-08-22 | 2024-09-06 |
 | [Co ja robię tu](https://open.spotify.com/track/1SaUfQNBUXlf6clnOKBrfe) | [Lanberry](https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8) | [Co ja robię tu](https://open.spotify.com/album/1T6p40fWQ3abElX4iU2xol) | 2:37 | 2024-07-01 |  |
 | [czarno\-białe sny](https://open.spotify.com/track/6inPDUhEEzK2kXY42YGdcq) | [Magda Bereda](https://open.spotify.com/artist/6NaOhgiHgKdbBk1SUaAt9d) | [czarno\-białe sny](https://open.spotify.com/album/7xLyeyHbIvo8YvbTvPPlSC) | 2:53 | 2024-07-18 | 2024-08-23 |
+| [Czuję Cię Obok](https://open.spotify.com/track/21v4fl1hJ2bAUtp5fnpkoP) | [FANKA](https://open.spotify.com/artist/5wUmzMcZxXPMi2qpddL0wg), [BRSC](https://open.spotify.com/artist/68b1ngOghaULNOIcy2nouz), [Mike Johnson](https://open.spotify.com/artist/4LOzPpIOHxj9TH5dLwf3zX) | [Czuję Cię Obok](https://open.spotify.com/album/4UftLy4wwU1yDanxA9DYdN) | 2:32 | 2024-09-16 |  |
 | [Czy Ty też to czujesz?](https://open.spotify.com/track/6PWIARqotQsWcvAb5Kzejc) | [Slavic DAMA](https://open.spotify.com/artist/7zyIbwt96luqV788BmvZxz), [Mikolaj Blascello](https://open.spotify.com/artist/3iVo9cA9TEZvegm5JGfxUU) | [Czy Ty też to czujesz?](https://open.spotify.com/album/7d03WD3fqVnJQbdCXxtmmS) | 3:58 | 2024-09-05 |  |
 | [Daj żyć](https://open.spotify.com/track/0ulgIgptCrAx67A0tQppuW) | [Sonia Maselik](https://open.spotify.com/artist/0MA7GBODPbcTV0v3FZj2tl), [Vixen](https://open.spotify.com/artist/5XKQ8fa0WdWBmgMFDmctCO) | [Daj żyć](https://open.spotify.com/album/0pxxDxee1EiOyjJIB8RgpL) | 2:22 | 2024-07-11 | 2024-08-30 |
 | [Dalej](https://open.spotify.com/track/62EtR6rTcBc3b6rCDz28S5) | [Smolasty](https://open.spotify.com/artist/5GwdnlZaSwKpHmjcAijATP) | [Dalej](https://open.spotify.com/album/15SEvkC5eR3X6duUgBQEue) | 2:07 | 2024-07-01 |  |
@@ -83,7 +84,7 @@
 | [milczę](https://open.spotify.com/track/4nCNsCZt14oI1GodbRKcRo) | [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [o nim](https://open.spotify.com/album/2O4KiVd5BApZSLcYvdYD08) | 3:15 | 2024-08-29 |  |
 | [MILION](https://open.spotify.com/track/5F3tMkclVSZ3sYyhU9knBx) | [LIJA](https://open.spotify.com/artist/46Ke0Gji5QAaMGvsTgBEj5) | [MILION](https://open.spotify.com/album/2uMYW6xYTT6yQeCZorgoaD) | 2:57 | 2024-09-12 |  |
 | [Miliony monet \(feat\. Wiktor Waligóra, Piotr Odoszewski & Kajetan Wolas\)](https://open.spotify.com/track/3u7NG0qKoxZPbdLiz2G6lp) | [PROJEKT WOW](https://open.spotify.com/artist/5PMVw2BdUOLVhFe0Hibkms), [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL), [Piotr Odoszewski](https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk), [Kajetan Wolas](https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj) | [Miliony monet](https://open.spotify.com/album/3ZrD1SPVM3EUSqbUM9AgW0) | 2:52 | 2024-07-25 | 2024-08-30 |
-| [Miłego lata](https://open.spotify.com/track/6qRA84oyd0yKDnTHbOkSlZ) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [Miłego lata](https://open.spotify.com/album/4vgTXHPyctIDYOBKellbeH) | 2:42 | 2024-07-01 |  |
+| [Miłego lata](https://open.spotify.com/track/6qRA84oyd0yKDnTHbOkSlZ) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [Miłego lata](https://open.spotify.com/album/4vgTXHPyctIDYOBKellbeH) | 2:42 | 2024-07-01 | 2024-09-17 |
 | [Miłość jest ślepa](https://open.spotify.com/track/3IQN4rjqZlmJgO4exMkaNT) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Kaprysy](https://open.spotify.com/album/47tDANOMCmdRDI5CVcjNKY) | 3:17 | 2024-07-01 |  |
 | [Motyla Noga!](https://open.spotify.com/track/0owLTquH2ggD4wd8wfQrlH) | [Wiktor Dyduła](https://open.spotify.com/artist/7FauNoLr3HWvWfsaBlFPhs) | [Motyla Noga!](https://open.spotify.com/album/0b4vzXuBzE6kCJ1blaYj0U) | 3:55 | 2024-08-22 |  |
 | [my](https://open.spotify.com/track/19dHt2hh8aaWNCDC3ReLZY) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [my](https://open.spotify.com/album/19GsnIluYB9d42QHswzfej) | 3:36 | 2024-07-11 |  |

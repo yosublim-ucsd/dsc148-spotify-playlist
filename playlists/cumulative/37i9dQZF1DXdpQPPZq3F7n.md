@@ -4,7 +4,7 @@
 
 > Let these songs be the background score to your love story\. Cover \- Bad Newz
 
-238 songs - 16 hr 42 min
+239 songs - 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Khairiyat](https://open.spotify.com/track/5O932cZmzOZGOGZz9RHx20) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Chhichhore](https://open.spotify.com/album/2Svje8vKEM4VCKxoRyAvA4) | 4:40 | 2022-05-19 | 2023-02-01 |
 | [Khairiyat \(Bonus Track\)](https://open.spotify.com/track/3oM90C4SZLYzVZJEZD5EQk) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Chhichhore](https://open.spotify.com/album/2Svje8vKEM4VCKxoRyAvA4) | 4:30 | 2022-12-27 | 2024-07-27 |
 | [Khamoshiyan](https://open.spotify.com/track/6zCQF5tu7HVwU9shhKqiuF) | [Jeet Gannguli](https://open.spotify.com/artist/2kkQthS9OLpK4UqNWYqoVl), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Khamoshiyan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6mJIpY6r2SzZbLN3ClYCbb) | 5:35 | 2023-01-30 | 2024-09-07 |
+| [Khoobsurat \(From "Stree 2"\)](https://open.spotify.com/track/1o8YPl0hyGbpRcHplXNvsm) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Khoobsurat \(From "Stree 2"\)](https://open.spotify.com/album/7w3sjjjgPbpSiSq1aSLABB) | 4:04 | 2024-09-16 |  |
 | [Kitni Haseen Hogi \(From "Hit \- The First Case"\)](https://open.spotify.com/track/6h6kOAlIeWdsqNopumppU5) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Sayeed Quadri](https://open.spotify.com/artist/2pGRniGOJSOvYoK3dGaBb8) | [Kitni Haseen Hogi \(From "Hit \- The First Case"\)](https://open.spotify.com/album/1okf7DbIC5vVPmU0p7dsQb) | 5:30 | 2022-07-08 | 2023-02-14 |
 | [La Ilaaj](https://open.spotify.com/track/5uYHDSKVHfHxBLgYf4H6SH) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Darlings \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2CC7SjZUz7ua9SwvwBJBmy) | 4:24 | 2022-08-03 | 2022-12-28 |
 | [Lae Dooba](https://open.spotify.com/track/4cNbz1UdBCrnGOg0NNP1iF) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Aiyaary \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0fvbSSTodKL0wMcoWRPfDz) | 3:49 | 2023-01-03 | 2023-03-18 |
@@ -244,7 +245,7 @@
 | [Yaar Ve \(From "Code Name Tiranga"\)](https://open.spotify.com/track/4hTIL3DCwfqwSuqRAnyJdy) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Vipin Patwa](https://open.spotify.com/artist/6SzYh3jdZpJxGulYuWlFb5), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Yaar Ve \(From "Code Name Tiranga"\)](https://open.spotify.com/album/71eEspGJM5UykbbRzIfUBL) | 4:02 | 2022-10-25 | 2023-03-18 |
 | [Ye Tune Kya Kiya](https://open.spotify.com/track/2cPUB8EOT6AfJ8oxhyoNXL) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ) | [Once Upon Ay Time In Mumbai Dobaara !](https://open.spotify.com/album/381lOukp7nV59bJS13TkPe) | 5:14 | 2022-05-19 | 2023-02-01 |
 | [Yeh Fitoor Mera](https://open.spotify.com/track/3hp6JfJIxkv3sl7E6p7DQj) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Fitoor](https://open.spotify.com/album/3ztDG95Y1zI3eaCTySv7DU) | 4:43 | 2022-05-19 | 2023-02-01 |
-| [Zaalima](https://open.spotify.com/track/1J9vyEntJ79CppvgUxJs75) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz) | [Raees \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5htEa8wThL3TBnRLmsuxzD) | 4:59 | 2023-12-11 |  |
+| [Zaalima](https://open.spotify.com/track/1J9vyEntJ79CppvgUxJs75) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz) | [Raees \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5htEa8wThL3TBnRLmsuxzD) | 4:59 | 2023-12-11 | 2024-09-17 |
 | [Zehnaseeb](https://open.spotify.com/track/3xF15SqY32Mno3UUMBirhU) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw) | [Hasee Toh Phasee \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3PxXJhlxSQkj8JO7IXy0FE) | 3:37 | 2023-03-27 | 2024-01-16 |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

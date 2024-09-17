@@ -1,6 +1,6 @@
 {
   "description": "Sit back and relax to our favorite local indie and R&B sounds.",
-  "num_followers": 573971,
+  "num_followers": 574024,
   "original_name": "Relax Tayo",
   "owner": {
     "name": "Spotify",
@@ -643,6 +643,22 @@
     {
       "added_at": "2024-09-04 08:53:29",
       "album": {
+        "name": "Baliw",
+        "url": "https://open.spotify.com/album/60jvhHVlmuAmEzdjRpkvue"
+      },
+      "artists": [
+        {
+          "name": "SUD",
+          "url": "https://open.spotify.com/artist/0jKQrxK2zHqxyOAyIMrUQt"
+        }
+      ],
+      "duration_ms": 218983,
+      "name": "Baliw",
+      "url": "https://open.spotify.com/track/7cHycXGo5HnVQ5NkI3dLWK"
+    },
+    {
+      "added_at": "2024-09-04 08:53:29",
+      "album": {
         "name": "Abot Langit (Ricovered)",
         "url": "https://open.spotify.com/album/23EBcDqjGPESxImYjrbJak"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 177692,
       "name": "Abot Langit - Ricovered",
       "url": "https://open.spotify.com/track/17FlJCEmLjIEHIfdhP960V"
-    },
-    {
-      "added_at": "2024-09-04 08:53:29",
-      "album": {
-        "name": "Baliw",
-        "url": "https://open.spotify.com/album/60jvhHVlmuAmEzdjRpkvue"
-      },
-      "artists": [
-        {
-          "name": "SUD",
-          "url": "https://open.spotify.com/artist/0jKQrxK2zHqxyOAyIMrUQt"
-        }
-      ],
-      "duration_ms": 218983,
-      "name": "Baliw",
-      "url": "https://open.spotify.com/track/7cHycXGo5HnVQ5NkI3dLWK"
     },
     {
       "added_at": "2024-09-04 08:53:29",

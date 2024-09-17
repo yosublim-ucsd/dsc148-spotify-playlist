@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6syClqvfM5aBL0Me93lq5Z.md) - [plain]
 
 > Dead dove, don&\#x27;t eat
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 32 songs - 1 hr 58 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 38 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,5 +40,11 @@ pretty - [cumulative](/playlists/cumulative/6syClqvfM5aBL0Me93lq5Z.md) - [plain]
 | 30 | [This Is America](https://open.spotify.com/track/0b9oOr2ZgvyQu88wzixux9) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [This Is America](https://open.spotify.com/album/7arx9qPJexCsDz67El4qvk) | 3:45 |
 | 31 | [Rät](https://open.spotify.com/track/4blPH3Uy89WnOnYlIv7Ev4) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Public Void](https://open.spotify.com/album/49iT8dV8hZ5o7bqpOI5yfI) | 3:14 |
 | 32 | [Born2Run](https://open.spotify.com/track/66Dvkzi4HyhKRJsBoOzQVa) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Born2Run](https://open.spotify.com/album/0zdCLnsn9pHHgxEMNEFjR7) | 2:34 |
+| 33 | [Workingman Unite](https://open.spotify.com/track/1VRobEk2Fpc9K2SeWTSTtq) | [Joe Glazer](https://open.spotify.com/artist/0mbpwhdmzWPMzw0881Ylzt) | [I Will Win: Songs of the Wobblies](https://open.spotify.com/album/2iZE8lCvHwLpbGHgGuAM3s) | 2:08 |
+| 34 | [Solidarity Forever](https://open.spotify.com/track/5NShvMH3lRmQPW4qc0hYKY) | [Pete Seeger](https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY) | [If I Had a Hammer: Songs of Hope and Struggle](https://open.spotify.com/album/21k0wecYa9yprQ937HR62H) | 2:54 |
+| 35 | [No Irish Need Apply](https://open.spotify.com/track/29QLU0cH9Ibwv12WRQMB9r) | [Joe Glazer](https://open.spotify.com/artist/0mbpwhdmzWPMzw0881Ylzt) | [We’ve Only Just Begun: A Century of Labor Song](https://open.spotify.com/album/67h5o3Y9jnOGMk9kfaJnoG) | 2:10 |
+| 36 | [Lady, What Do You Do All Day?](https://open.spotify.com/track/3LTn81Zr4LWGBXFz9kUDpi) | [Peggy Seeger](https://open.spotify.com/artist/0gXQn7UrpopDb2TIkmIjoU) | [Folkways Years, 1955\-1992: Songs of Love and Politics](https://open.spotify.com/album/3uDKUH0dPtS3Ii0CLB9Bw7) | 3:46 |
+| 37 | [Casey Jones \(The Union Scab\)](https://open.spotify.com/track/6h54Z2xhKwPKDI4yfv4dGA) | [Pete Seeger](https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY) | [If I Had a Hammer: Songs of Hope and Struggle](https://open.spotify.com/album/21k0wecYa9yprQ937HR62H) | 1:58 |
+| 38 | [We Didn't Start the Fire](https://open.spotify.com/track/3Cx4yrFaX8CeHwBMReOWXI) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Storm Front](https://open.spotify.com/album/1Vw2uoVkLAJFVViJ1QyK1D) | 4:47 |
 
-Snapshot ID: `AAAAIy0t3rYV2Kx9A/E/rGlwIJCnfHvz`
+Snapshot ID: `AAAAK1UzDAioU8gIbV4nvf788x/fyfyM`

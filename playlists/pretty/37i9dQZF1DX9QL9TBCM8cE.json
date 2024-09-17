@@ -1,6 +1,6 @@
 {
   "description": "Music from \"THE IDOLM@STER SHINY COLORS\". \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30b7\u30e3\u30a4\u30cb\u30fc\u30ab\u30e9\u30fc\u30ba\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.\n\n",
-  "num_followers": 27230,
+  "num_followers": 27238,
   "original_name": "THE IDOLM@STER SHINY COLORS \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30b7\u30e3\u30a4\u30cb\u30fc\u30ab\u30e9\u30fc\u30ba",
   "owner": {
     "name": "Spotify",
@@ -823,6 +823,22 @@
     {
       "added_at": "2024-08-13 18:21:31",
       "album": {
+        "name": "THE IDOLM@STER SHINY COLORS PANOR@MA WING 03",
+        "url": "https://open.spotify.com/album/1amhjTEry84P4TaaXupGGl"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30ab",
+          "url": "https://open.spotify.com/artist/6NpkNdWFWIvQpS1GLvdQrY"
+        }
+      ],
+      "duration_ms": 277266,
+      "name": "\u611a\u8005\u306e\u72ec\u767d",
+      "url": "https://open.spotify.com/track/4ThcKDoasWe7p4aPLrXlVJ"
+    },
+    {
+      "added_at": "2024-08-13 18:21:31",
+      "album": {
         "name": "THE IDOLM@STER SHINY COLORS FR@GMENT WING 02",
         "url": "https://open.spotify.com/album/1GZo9sFK2v23lzAWDVKhLi"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 224880,
       "name": "We can go now!",
       "url": "https://open.spotify.com/track/11BYRDBsnSUInB5mxkxoEg"
-    },
-    {
-      "added_at": "2024-08-13 18:21:31",
-      "album": {
-        "name": "THE IDOLM@STER SHINY COLORS FR@GMENT WING 03 (2023 Version)",
-        "url": "https://open.spotify.com/album/3U2w2LF7VOu4U0JwDwwDoN"
-      },
-      "artists": [
-        {
-          "name": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30ab",
-          "url": "https://open.spotify.com/artist/6NpkNdWFWIvQpS1GLvdQrY"
-        }
-      ],
-      "duration_ms": 350533,
-      "name": "NEO THEORY FANTASY - 2023 Ver.",
-      "url": "https://open.spotify.com/track/5zbDmtQxbl4uF06a3dk6RO"
     }
   ],
   "unique_name": "THE IDOLM@STER SHINY COLORS \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30b7\u30e3\u30a4\u30cb\u30fc\u30ab\u30e9\u30fc\u30ba",

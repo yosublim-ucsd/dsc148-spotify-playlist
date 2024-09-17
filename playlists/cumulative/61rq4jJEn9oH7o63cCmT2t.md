@@ -2,15 +2,16 @@
 
 ### [I Don't Want to Adult This Week](https://open.spotify.com/playlist/61rq4jJEn9oH7o63cCmT2t)
 
-> Holy fuck I&\#x27;m so tired
+> I am horrifically aware of my spine
 
-47 songs - 2 hr 40 min
+50 songs - 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1994](https://open.spotify.com/track/0nldraDxkeNlhAX5sLrK9u) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [worm food](https://open.spotify.com/album/6esicDmiVKUGrff14ahfrK) | 3:23 | 2023-03-08 |  |
 | [3 O'Clock Things](https://open.spotify.com/track/7JBORNKYEw0ubz6VyzS6DM) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [OK ORCHESTRA](https://open.spotify.com/album/1y2AzG31F4CuCKQ1rpIzaI) | 3:48 | 2023-04-21 |  |
 | [9 to 5](https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [9 To 5 And Odd Jobs](https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd) | 2:42 | 2023-06-03 |  |
+| [Allentown](https://open.spotify.com/track/59xhCcRskqyMtKzdvLZDfV) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Nylon Curtain](https://open.spotify.com/album/50bajZpetfL5T0iRCOR74J) | 3:50 | 2024-09-17 |  |
 | [Another One Rides the Bus](https://open.spotify.com/track/7iAnfpIHu1cDsxovakGoCq) | ["Weird Al" Yankovic](https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG) | [The Essential "Weird Al" Yankovic](https://open.spotify.com/album/2WMY5Qm6ztMQsAubpumeb4) | 2:35 | 2023-04-25 |  |
 | [Broom People](https://open.spotify.com/track/0C25wSjkvMK5n0MLz1x3bv) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Sunset Tree](https://open.spotify.com/album/2ocbRv0D5t7xaSCW6NJ8sZ) | 2:44 | 2023-01-07 |  |
 | [Bugbear](https://open.spotify.com/track/7Ichlrj4l5uV549sD6I4tN) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Spirit Orb](https://open.spotify.com/album/7MqiSoZIzNsCR00pJBFYUV) | 2:53 | 2022-05-07 |  |
@@ -30,9 +31,11 @@
 | [I've No More ..\. To Give](https://open.spotify.com/track/4Xm2Xo43O1rvB8GyrWq9Vl) | [Thomas Benjamin Wild Esq](https://open.spotify.com/artist/0xlt7JpfQEvG9to5B06oPL), [Damian Clark](https://open.spotify.com/artist/47WZyqxyj2CJFc1qSOEzel) | [Awkward Encounters While Walking My Dog](https://open.spotify.com/album/0sPURcvc9VDouO1Q0mmVyc) | 3:05 | 2023-08-24 |  |
 | [In My Apartment](https://open.spotify.com/track/2MtAUH5s7oPwlSXPfFga8N) | [Philip Labes](https://open.spotify.com/artist/2gzXe1MitsMjpK7NudXNZf) | [Summer](https://open.spotify.com/album/5vtiz4itXlqgCA3kMbdV78) | 3:34 | 2023-07-09 |  |
 | [In the Craters on the Moon \- The Jordan Lake Sessions Volume 3](https://open.spotify.com/track/1dvU7wUiWHA0ZfQx05FCKG) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Jordan Lake Sessions: Volumes 3 and 4](https://open.spotify.com/album/2oQ3dQki5q8qGmJdM9lAxu) | 3:56 | 2023-03-03 |  |
+| [It's Still Rock and Roll to Me](https://open.spotify.com/track/64UioB4Nmwgn2f4cbIpAkl) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Glass Houses](https://open.spotify.com/album/5sztejERqpktXEdemlUvU5) | 2:56 | 2024-09-16 |  |
 | [Let's Go Crazy](https://open.spotify.com/track/0QeI79sp1vS8L3JgpEO7mD) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 4:40 | 2023-06-03 |  |
 | [Moonsickness](https://open.spotify.com/track/4lOEGaLwY4yN2WFfGIq2Tr) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Public Void](https://open.spotify.com/album/49iT8dV8hZ5o7bqpOI5yfI) | 5:14 | 2024-01-17 |  |
 | [My Prius](https://open.spotify.com/track/6hAtV3tR7ywSPDGGkHgEBg) | [Tom McGovern](https://open.spotify.com/artist/7sdTDjtp0SEve3nZk2mfEk), [A.Rob](https://open.spotify.com/artist/7FjmAIhzIo6jd274dZlMZ1) | [My Prius](https://open.spotify.com/album/3bPLq8BVMLo5y3oYec00nz) | 1:58 | 2022-05-07 |  |
+| [Old Time Rock & Roll](https://open.spotify.com/track/5EOoMWIB9iK4ZpcSex9Ec7) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Stranger In Town](https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15) | 3:14 | 2024-09-16 |  |
 | [Once in a Lifetime](https://open.spotify.com/track/1Tr4K5MU5XYE44umXGDndd) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Remain in Light](https://open.spotify.com/album/1JvXxLsm0PxlGH4LXzqMGq) | 4:19 | 2023-08-06 |  |
 | [Reaganomics](https://open.spotify.com/track/6ForyBso37QPHoEM06IDwK) | [Lemon Demon](https://open.spotify.com/artist/4llAOeA6kEF4ytaB2fsmcW) | [Spirit Phone](https://open.spotify.com/album/4ocal2JegUDVQdP6KN1roI) | 3:31 | 2022-08-01 |  |
 | [Reasons To Never Date Again](https://open.spotify.com/track/4cSfEOM8k3j6xV8jNNGebE) | [Philip Labes](https://open.spotify.com/artist/2gzXe1MitsMjpK7NudXNZf) | [Spring](https://open.spotify.com/album/0FKUaMZRABK2f7HjJuyAfT) | 3:24 | 2023-07-09 |  |

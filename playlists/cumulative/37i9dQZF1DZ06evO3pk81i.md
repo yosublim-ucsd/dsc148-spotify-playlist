@@ -2,7 +2,7 @@
 
 ### [This Is Los Primos del Este](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3pk81i)
 
-> This is Los Primos del Este\. المقاطع الأساسية، كلها في قايمة أغاني واحدة.
+> This Is Los Primos del Este\. Los temas esenciales, todos en una lista.
 
 53 songs - 2 hr 45 min
 

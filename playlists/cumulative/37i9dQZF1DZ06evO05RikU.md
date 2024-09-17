@@ -2,7 +2,7 @@
 
 ### [This Is Sofía Reyes](https://open.spotify.com/playlist/37i9dQZF1DZ06evO05RikU)
 
-> This is Sofía Reyes\. Track\-track unggulan, semuanya dalam satu playlist.
+> This Is Sofía Reyes\. Los temas esenciales, todos en una lista.
 
 73 songs - 3 hr 44 min
 

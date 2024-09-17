@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Zeit für Kastanienmännchen, Laternenlieder und Kürbis schnitzen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,780 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,805 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,11 +29,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 19 | [Baller mit meinem Rad](https://open.spotify.com/track/4mqMxZjFLrTi7lwPdnYxHm) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Meine Mütze und Ich](https://open.spotify.com/album/6vSRPCkAhubRtCVxCR30R5) | 2:47 |
 | 20 | [Alle Vögel sind schon da](https://open.spotify.com/track/3o1gtPqPPleF3uz4OEXI9a) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Bei uns in der Kita \- 22 Lieder im Frühling + Sommer](https://open.spotify.com/album/7oe96EpBKDY6iAKkjHXmCc) | 1:48 |
 | 21 | [Fühl Mich So Gut](https://open.spotify.com/track/3HB4OsFD8whlTFsTIlMNrJ) | [KID CLIO](https://open.spotify.com/artist/0el85MBoUZfxM2HGSM7pku) | [HIGHFIVE!](https://open.spotify.com/album/4KNKGRw5piiCjnJYYhQu9S) | 2:02 |
-| 22 | [Es regnet, es regnet](https://open.spotify.com/track/4cDNhjC0sczUlUYYcTEQA2) | [Frank und seine Freunde](https://open.spotify.com/artist/3suvpngo1bNM6i7vh4hy7y) | [Die 44 beliebtesten Kinderlieder](https://open.spotify.com/album/3ILmIMWpPWUhmm0pgR4urO) | 1:14 |
+| 22 | [Bratkartoffellied](https://open.spotify.com/track/5Cuo019EmAoITD9BMCX8fC) | [Max Richard Leßmann](https://open.spotify.com/artist/69vPR9aR0CPLDKwTWxDXMG), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen 6](https://open.spotify.com/album/4tKopKYEuPMRgidTB1c8RS) | 2:22 |
 | 23 | [La Bamba](https://open.spotify.com/track/1UqY5fe0i1U4K5vVEQLpeg) | [DIKKA](https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob), [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Boom Schakkalakka](https://open.spotify.com/album/21iU8QtgINaMWyCLZGX9Mq) | 3:45 |
 | 24 | [Mein kleiner Kürbis](https://open.spotify.com/track/1qfmntr0uLVqUJKrbzXrPi) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Herbstlieder für Kinder](https://open.spotify.com/album/3DB9WITlUNbkGWWHvj94fL) | 3:59 |
 | 25 | [Der Herbst hat bunte Blätter](https://open.spotify.com/track/4mwmmoYfQX3zeV0Rvsm4kY) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Herbstlieder für Kinder](https://open.spotify.com/album/3DB9WITlUNbkGWWHvj94fL) | 2:26 |
-| 26 | [Bratkartoffellied](https://open.spotify.com/track/5Cuo019EmAoITD9BMCX8fC) | [Max Richard Leßmann](https://open.spotify.com/artist/69vPR9aR0CPLDKwTWxDXMG), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen 6](https://open.spotify.com/album/4tKopKYEuPMRgidTB1c8RS) | 2:22 |
+| 26 | [Es regnet, es regnet](https://open.spotify.com/track/4cDNhjC0sczUlUYYcTEQA2) | [Frank und seine Freunde](https://open.spotify.com/artist/3suvpngo1bNM6i7vh4hy7y) | [Die 44 beliebtesten Kinderlieder](https://open.spotify.com/album/3ILmIMWpPWUhmm0pgR4urO) | 1:14 |
 | 27 | [Ich lass mich nicht ärgern](https://open.spotify.com/track/5BgnKutSrMkOObNxyip4ND) | [Honigkuchenpferde](https://open.spotify.com/artist/6RZP8NdBwAbrDZnYpdJVcH), [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3), [Berlin Radio Children's Choir](https://open.spotify.com/artist/7meMu2NIiuBL1gyYYh0kjZ) | [Ich lass mich nicht ärgern](https://open.spotify.com/album/7tvCuNZWZj3oixkjhrfo1N) | 3:19 |
 | 28 | [Drachenwind](https://open.spotify.com/track/67vOXepMNB0ZDQlnANzsr5) | [Berend Intelmann](https://open.spotify.com/artist/7bHnUZwNT0xHUAUpNUNJ1v) | [Unter meinem Bett 7](https://open.spotify.com/album/5Q8R9IdUfGHGD36XvqkMIy) | 3:40 |
 | 29 | [Danke](https://open.spotify.com/track/2rsGUdNRjx9W3PYO4M4CeZ) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Kommt, wir wolln Laterne laufen](https://open.spotify.com/album/6zeXEvQUwV55xFB8hSE9nT) | 2:36 |

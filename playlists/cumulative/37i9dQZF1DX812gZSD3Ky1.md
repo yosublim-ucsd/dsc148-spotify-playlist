@@ -2,7 +2,7 @@
 
 ### [Viral Hits Thailand](https://open.spotify.com/playlist/37i9dQZF1DX812gZSD3Ky1)
 
-> รวมเพลงสากลสุดฮิต และเพลงในกระแสตอนนี้\. The latest hits & viral tracks right now\. Cover: The Weeknd
+> เพลงสากลฮิต และเพลงในกระแสตอนนี้\. ปก: The Weeknd
 
 212 songs - 11 hr 36 min
 

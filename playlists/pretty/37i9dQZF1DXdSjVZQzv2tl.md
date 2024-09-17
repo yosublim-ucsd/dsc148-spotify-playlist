@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: Jorge & Mateus, Henrique & Juliano
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,729,730 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,727,405 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 49 | [Poeirão \- Ao Vivo](https://open.spotify.com/track/5ZkwwBa9DlwuUFbXwrLeXF) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Deu Rolo de Novo, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/7B0EpsE17BgPH8zVUjjpNx) | 2:42 |
 | 50 | [Amor Não Dá Em Copo \- Ao Vivo](https://open.spotify.com/track/0GTUqRzwAacEI5Pll8YlBA) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Amor Não Dá Em Copo \(Ao Vivo\)](https://open.spotify.com/album/4HPTBpBwOsQl8nyagVIgrl) | 2:49 |
 
-Snapshot ID: `ZuOrZAAAAABrsCqRX3uBBnQlvhxu5T2h`
+Snapshot ID: `ZuOrZAAAAAAKsY3MICnrZ2deor4wU/Sl`

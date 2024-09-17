@@ -3079,6 +3079,24 @@
     },
     {
       "album": {
+        "name": "Beam Me Up",
+        "url": "https://open.spotify.com/album/2eAXEuljSiuSlxT9i3tYj4"
+      },
+      "artists": [
+        {
+          "name": "Adam Space",
+          "url": "https://open.spotify.com/artist/3q9oOLVN8jaGI6Ui3qB2LU"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123750,
+      "name": "Beam Me Up",
+      "url": "https://open.spotify.com/track/4iuQ5DwUqpOXfazF3S4pHG"
+    },
+    {
+      "album": {
         "name": "Beat Soup",
         "url": "https://open.spotify.com/album/6dEsyuYCALQJpT04B0Qvic"
       },
@@ -5038,7 +5056,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 173871,
       "name": "Camden",
       "url": "https://open.spotify.com/track/0lqhcmKE55QRrNhiioofSU"
@@ -6942,7 +6960,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 128000,
       "name": "Color Violet",
       "url": "https://open.spotify.com/track/4ZxMXRYsecrYMvVD8FPHwA"
@@ -8272,6 +8290,24 @@
       "duration_ms": 159025,
       "name": "Dear Summer",
       "url": "https://open.spotify.com/track/6GxxRUqVez9qwSusxecnES"
+    },
+    {
+      "album": {
+        "name": "decorate",
+        "url": "https://open.spotify.com/album/3T1DwyLHdDde5oOxNGmwyt"
+      },
+      "artists": [
+        {
+          "name": "okayokay",
+          "url": "https://open.spotify.com/artist/633sZM1wdqt78ctvpVluum"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145626,
+      "name": "decorate",
+      "url": "https://open.spotify.com/track/5VlhG140Gp9NhWhS9Dky1y"
     },
     {
       "album": {
@@ -13890,7 +13926,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 154736,
       "name": "Green Gardens",
       "url": "https://open.spotify.com/track/2kBigv5mWWcIAAPIi5lUaZ"
@@ -15759,6 +15795,24 @@
     },
     {
       "album": {
+        "name": "I Just Want to Know You",
+        "url": "https://open.spotify.com/album/5CbZsUZjooxzpksZulU7DX"
+      },
+      "artists": [
+        {
+          "name": "Analog Bow",
+          "url": "https://open.spotify.com/artist/7kQ9kQ588r6INRWFlU1k1T"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "I Just Want to Know You",
+      "url": "https://open.spotify.com/track/7cBMqUyvjsRRC5RPMNPIJb"
+    },
+    {
+      "album": {
         "name": "I Love You, Girl",
         "url": "https://open.spotify.com/album/0yHWLTdcCWTVbUeM7wOGAb"
       },
@@ -16240,6 +16294,24 @@
       "duration_ms": 134250,
       "name": "Indigo",
       "url": "https://open.spotify.com/track/2Q0Sgox8fZRoqE61pD9m2y"
+    },
+    {
+      "album": {
+        "name": "Infinite",
+        "url": "https://open.spotify.com/album/6bwZuUPeiPtZzQJaUovCh1"
+      },
+      "artists": [
+        {
+          "name": "H.1",
+          "url": "https://open.spotify.com/artist/3azKf6nXrUCI1RLZkX4Aj6"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149090,
+      "name": "Infinite",
+      "url": "https://open.spotify.com/track/5B0n3jxJZUr1Z4gnzHqW20"
     },
     {
       "album": {
@@ -20176,6 +20248,24 @@
       "duration_ms": 145813,
       "name": "Main Source",
       "url": "https://open.spotify.com/track/7dBkguRkblf2E86giR5AXF"
+    },
+    {
+      "album": {
+        "name": "Make It",
+        "url": "https://open.spotify.com/album/4X9vWjNWlZ3qAtyDZ2ZhDj"
+      },
+      "artists": [
+        {
+          "name": "Berhanio",
+          "url": "https://open.spotify.com/artist/3ZkP4NjIpKfyaTf2hTAmkW"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118153,
+      "name": "Make It",
+      "url": "https://open.spotify.com/track/2teI76KKFE6qkpLZJs7tZ7"
     },
     {
       "album": {
@@ -33258,7 +33348,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 136000,
       "name": "Swamplands",
       "url": "https://open.spotify.com/track/47VW4X0nwm5uXQ4KzOjW37"
@@ -36914,7 +37004,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 113339,
       "name": "Walk Through the Sky",
       "url": "https://open.spotify.com/track/1r467DzLbANDioW9MKeM1f"

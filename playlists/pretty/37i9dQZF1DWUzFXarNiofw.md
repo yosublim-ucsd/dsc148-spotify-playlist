@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Fousheé
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,046,935 likes - 206 songs - 10 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,047,011 likes - 206 songs - 10 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

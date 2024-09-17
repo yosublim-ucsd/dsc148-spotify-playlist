@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 
 > welcome to the underground\. greetings from fat dog.
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,784 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,772 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 | 99 | [Amelia](https://open.spotify.com/track/1FgKvZDQXOsOg6XzmXttC4) | [Sasha Assad](https://open.spotify.com/artist/206QVzYQsLZxNjrUaROEyQ) | [Tearstick](https://open.spotify.com/album/0uQY8Dkq9H0cAmgKDmiYfz) | 2:12 |
 | 100 | [Expensive Thrills](https://open.spotify.com/track/0ZmChmFVUK2N3Qz9k3jYiY) | [C Turtle](https://open.spotify.com/artist/4JoZT9uT2cj9DQ7i23pn4h) | [Expensive Thrills](https://open.spotify.com/album/5dpFQjEaHPiURz2ZF08nth) | 4:04 |
 
-Snapshot ID: `Zto38AAAAAAS9SV/xF5jR6UsO7Qv+uqE`
+Snapshot ID: `Zto38AAAAADERmpuKSED48qRpAMuDYIB`

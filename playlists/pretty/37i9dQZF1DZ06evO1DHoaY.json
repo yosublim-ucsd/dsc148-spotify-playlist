@@ -1,12 +1,12 @@
 {
   "description": "This Is Bob Marley & The Wailers. Los temas esenciales, todos en una lista.",
-  "num_followers": 2031755,
+  "num_followers": 2031832,
   "original_name": "This Is Bob Marley & The Wailers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuTSAAAAAAAzCv3tJcN+GMEALjmo98Mw",
+  "snapshot_id": "ZuYjgAAAAAA9KO4wc8KPZnYDBiapqx1t",
   "tracks": [
     {
       "added_at": null,
@@ -759,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Natty Dread",
+        "url": "https://open.spotify.com/album/1d8lF3nZpEIFeEbWmAt9Ey"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 310426,
+      "name": "Lively Up Yourself",
+      "url": "https://open.spotify.com/track/2Xr3NXOz1qg5Jddkm8k4fr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Justice (Get Up, Stand Up) (ft. Wiz Khalifa, Bob Marley & The Wailers)",
         "url": "https://open.spotify.com/album/0zZhdEIwCXO6hQqIZWxWuC"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 198772,
       "name": "Justice (Get Up, Stand Up)",
       "url": "https://open.spotify.com/track/0vSNrXPYNh0o7HdSLgsdIY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Natty Dread",
-        "url": "https://open.spotify.com/album/1d8lF3nZpEIFeEbWmAt9Ey"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 310426,
-      "name": "Lively Up Yourself",
-      "url": "https://open.spotify.com/track/2Xr3NXOz1qg5Jddkm8k4fr"
     }
   ],
   "unique_name": "This Is Bob Marley & The Wailers",

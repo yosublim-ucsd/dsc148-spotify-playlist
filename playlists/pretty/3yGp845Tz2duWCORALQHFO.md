@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-[EDM Sauce](https://open.spotify.com/user/edmsauce) - 25,779 likes - 53 songs - 2 hr 44 min
+[EDM Sauce](https://open.spotify.com/user/edmsauce) - 25,778 likes - 53 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 | 16 | [Home In That Bass](https://open.spotify.com/track/2WtlAPdL3vRvGijgwaAP4z) | [Andy C](https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N) | [Home In That Bass](https://open.spotify.com/album/6n9bf2en9wnB2R0N15hFGT) | 3:09 |
 | 17 | [Follow Me 2024](https://open.spotify.com/track/1nhO5n93ckiLOhb0eiMJIF) | [RAM](https://open.spotify.com/artist/4f0a5IgkYFHFts5Z9N9SDX), [Richard Durand](https://open.spotify.com/artist/7wne8sUhTAJdIsnuO4GjnR), [Digital Culture](https://open.spotify.com/artist/7JMIkI5oJTy7hNgNaIriN1), [Spacefrog](https://open.spotify.com/artist/67x379UokQc5TILNl9SrsP), [Derb](https://open.spotify.com/artist/3mPVA7KPcWK2iKju5lLFc8) | [Follow Me 2024](https://open.spotify.com/album/6S8dUWuzWZpbk9l0VYtWTI) | 3:44 |
 | 18 | [Resist](https://open.spotify.com/track/6zOQx3eE6KBeMIIzU5MY7c) | [Anton Fokin](https://open.spotify.com/artist/1R6vJR7oJ6P1JEWPTlFaJ4) | [Resist](https://open.spotify.com/album/7tVMkMP2ikD6uriFUHayd1) | 3:25 |
-| 19 | [Free \(with Ellie Goulding\) \- Joel Corry Remix](https://open.spotify.com/track/5BZdyRrJ1uBLGoXWtg2lFK) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Free \(with Ellie Goulding\) \- Joel Corry Remix](https://open.spotify.com/album/60clrfno0vl6igr1VXG6xT) | 3:03 |
+| 19 | [Free \(with Ellie Goulding\) \- Joel Corry Remix](https://open.spotify.com/track/5BZdyRrJ1uBLGoXWtg2lFK) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Free \(with Ellie Goulding\) \[Joel Corry Remix\]](https://open.spotify.com/album/60clrfno0vl6igr1VXG6xT) | 3:03 |
 | 20 | [Here We Go](https://open.spotify.com/track/5igQvvMg0BQFhI9E0VhiWd) | [D72](https://open.spotify.com/artist/6LwMT7S1AQrvSORZshZ9gt) | [Here We Go](https://open.spotify.com/album/4tBca7r0bZqMFtNfPsWOGg) | 2:13 |
 | 21 | [Struggle](https://open.spotify.com/track/15Gt5Kk0eHxbIeeuW21zFm) | [Manhart](https://open.spotify.com/artist/0ZSz1lehQ1CQU6OkKA32dd) | [Struggle](https://open.spotify.com/album/0heFBp1hKE9TCU8NbMiLW3) | 2:00 |
 | 22 | [Dance All Night](https://open.spotify.com/track/3OJENYg8GhnZnEQ5yEABB3) | [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt) | [Dance All Night](https://open.spotify.com/album/6YHaZMaNVJA45a1ocs6mmX) | 2:52 |

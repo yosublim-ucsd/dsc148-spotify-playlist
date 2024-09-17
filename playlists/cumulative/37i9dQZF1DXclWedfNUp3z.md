@@ -4,13 +4,14 @@
 
 > Mellow vibrations for green leaves, green thumbs and green ears.
 
-423 songs - 1 day 4 hr 53 min
+425 songs - 1 day 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#3 \(Rhubarb\)](https://open.spotify.com/track/47VFticYkP3UYOroGPjjD6) | [Brendan Eder Ensemble](https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK) | [\#3 \(Rhubarb\)](https://open.spotify.com/album/0R9wqsIlcwjmkpcIaRCJfK) | 7:17 | 2022-11-09 |  |
 | [+puzzle](https://open.spotify.com/track/4rZ6nmUhYVCcuk2ijWgcrW) | [Jupi/ter](https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x) | [+puzzle](https://open.spotify.com/album/7FK9vKwozsNBvoioINxFa7) | 4:14 | 2024-09-01 |  |
 | [\- \- \-](https://open.spotify.com/track/28SO6fgdGt1Z6OR6QlBK17) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Because of a Flower](https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd) | 5:15 | 2021-10-20 |  |
+| [13](https://open.spotify.com/track/7u5Flib6Wqt4dJ6NRhIXu9) | [Jupi/ter](https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x), [Henrik Meierkord](https://open.spotify.com/artist/1P3kpCPt72YWzJDjJ1Ii8D), [Sole Gipp Ossler](https://open.spotify.com/artist/4W6WFc9Q6Zx4SkrfO94D9W) | [Nights](https://open.spotify.com/album/3OgylkCHfph806816TzkGN) | 7:06 | 2024-09-16 |  |
 | [1:17 PM](https://open.spotify.com/track/7sX3ulXwDyyE5q5g8z3yUN) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [Timekeeper](https://open.spotify.com/album/4xBGAlIlejqITTgDkOBDIy) | 3:29 | 2021-10-20 | 2022-07-19 |
 | [4T Recordings](https://open.spotify.com/track/4Apw7hpz0mMcYeNhNZq3ml) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [4T Recordings](https://open.spotify.com/album/1TP8nDCTDUaVGFr6lfQ61r) | 3:17 | 2021-10-20 |  |
 | [8pm Crickets](https://open.spotify.com/track/554sCd11tHjsLk57OkM6Dh) | [Ben Seretan](https://open.spotify.com/artist/54N4voTBO17fp6dEegF4qa) | [Cicada Waves](https://open.spotify.com/album/4x027fiQuq8CqSCz02eTNp) | 6:22 | 2021-10-20 | 2022-07-29 |
@@ -30,7 +31,7 @@
 | [Alma](https://open.spotify.com/track/57y2pyz7GhZLKJxlogyoKV) | [Maddrigal](https://open.spotify.com/artist/3XZYeRXAdvgdNYxESV8Gbk) | [Alma](https://open.spotify.com/album/2xHpyX2kcipvxZTE8Xto6s) | 2:45 | 2021-10-20 | 2022-07-29 |
 | [ambrosia](https://open.spotify.com/track/0XHWlJxP9q5AfYnSyUeiM9) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H), [John Mark Nelson](https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB), [Hrishikesh Hirway](https://open.spotify.com/artist/2nMDfp8TJzahlTJr5Hvetf) | [OFFAIR: from the forest floor](https://open.spotify.com/album/2MwiCvx4taFv5VnrzCXQj0) | 3:02 | 2023-05-16 |  |
 | [among the trees](https://open.spotify.com/track/6bX6vCqqx7vf2rWh6hcD5b) | [Arden Records](https://open.spotify.com/artist/4t6K3qACkVu8WWrG3mvo0r), [sagun](https://open.spotify.com/artist/4YJkA3YshwZ8FwljpMW0II) | [among the trees](https://open.spotify.com/album/2xV69A1DRRJmSaNpXTMVBg) | 1:58 | 2022-04-23 | 2024-07-25 |
-| [An Avalanche](https://open.spotify.com/track/0ZJCGdZQbnMabeAh7sR9Sl) | [Lucinda Chua](https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ) | [Antidotes 2](https://open.spotify.com/album/64N8Ot3a2tr44vUlDvdeyR) | 3:20 | 2023-01-12 |  |
+| [An Avalanche](https://open.spotify.com/track/0ZJCGdZQbnMabeAh7sR9Sl) | [Lucinda Chua](https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ) | [Antidotes 2](https://open.spotify.com/album/64N8Ot3a2tr44vUlDvdeyR) | 3:20 | 2023-01-12 | 2024-09-17 |
 | [An Observation of Antimatter at Hotel Kabiki](https://open.spotify.com/track/3zORM4QYkdkw8QkaFd6CPD) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [An Observation of Antimatter at Hotel Kabiki](https://open.spotify.com/album/45KnxjCyMK5X1deAEr4MOs) | 3:13 | 2021-10-20 | 2024-04-19 |
 | [An Observation of Antimatter at Hotel Kabiki](https://open.spotify.com/track/4KgSkI0Xh9WBGJDD7NjabS) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [An Observation of Antimatter at Hotel Kabiki](https://open.spotify.com/album/4yqYiuUZMb85p2rE6Kg77A) | 3:13 | 2021-10-20 | 2022-07-28 |
 | [Anomaly](https://open.spotify.com/track/2qbm8KA7O83nPviXa5aK5I) | [Dania](https://open.spotify.com/artist/6zT9Hqr8CQBZGevQoo9S9O) | [Voz](https://open.spotify.com/album/3uY9APJcADScKquOCujhw3) | 2:31 | 2022-08-31 | 2022-10-07 |
@@ -48,7 +49,7 @@
 | [Balsamo](https://open.spotify.com/track/0nNFSkoWNaqYKTVx5V4AjE) | [Slowdonia](https://open.spotify.com/artist/5YItXypIuZXhnxRE7MRePn) | [Slowdonia EP](https://open.spotify.com/album/5umKaMh59FuSvZi2FFtK4s) | 4:25 | 2021-10-20 |  |
 | [Beauty Hospital](https://open.spotify.com/track/5ve1C4kmHQE3Dr93bP4qYp) | [Guavas](https://open.spotify.com/artist/2gg2qNLYW3EN6T1PYZ1LvI) | [Beauty Hospital](https://open.spotify.com/album/7ESnTwTcJAeRK1iMEf826F) | 1:45 | 2021-12-03 | 2022-04-29 |
 | [Beginning, Becoming](https://open.spotify.com/track/3qhG4d1DcIqxxmdqXGBHu9) | [Christopher Stracey](https://open.spotify.com/artist/3OtCzBJs5hFZapz4lY6aWa) | [Music for Growing Plants](https://open.spotify.com/album/3QsGjN0ERhyBi1IxXpNxhM) | 6:04 | 2021-10-20 |  |
-| [Behind the Eyes](https://open.spotify.com/track/7oFocF6NHEyASI4A8y0aCS) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR), [FSOL](https://open.spotify.com/artist/3jOeWmwth0yR5cuXLWXNme) | [@0](https://open.spotify.com/album/0lzZgKs9XvoMHjPpBLWYA3) | 6:26 | 2021-11-24 |  |
+| [Behind the Eyes](https://open.spotify.com/track/7oFocF6NHEyASI4A8y0aCS) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR), [FSOL](https://open.spotify.com/artist/3jOeWmwth0yR5cuXLWXNme) | [@0](https://open.spotify.com/album/0lzZgKs9XvoMHjPpBLWYA3) | 6:26 | 2021-11-24 | 2024-09-17 |
 | [Besides You](https://open.spotify.com/track/0Ux83HlRGB8O4DPFXMPuT3) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Oliver](https://open.spotify.com/album/1Zy4HydcCJHo5KstRHgiRG) | 1:20 | 2021-10-20 | 2022-04-21 |
 | [Birdy Island](https://open.spotify.com/track/2YbmzDGhrwcl5s1X3lLU5O) | [Howie Lee](https://open.spotify.com/artist/5y2TmxjZITDjLsfUxjlkcD) | [Birdy Island](https://open.spotify.com/album/2Juy4gK69leZMQohtTDJKv) | 2:27 | 2021-10-20 | 2023-12-15 |
 | [Birdy Island](https://open.spotify.com/track/5NMOIpKNftWJ42W9wFGxct) | [Howie Lee](https://open.spotify.com/artist/5y2TmxjZITDjLsfUxjlkcD) | [Birdy Island](https://open.spotify.com/album/3n2XRVTEOWVzxs6o0NcXgJ) | 2:27 | 2021-10-20 | 2022-07-29 |
@@ -88,6 +89,7 @@
 | [Columbus Park](https://open.spotify.com/track/18nfdd8jk4iiCUf5tLBLWZ) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [English Breakfast](https://open.spotify.com/album/6bqFWuCzfQjP3pvL5LtsP1) | 2:32 | 2021-10-20 | 2022-04-17 |
 | [Comfort](https://open.spotify.com/track/2UsNtVgKlx9FYhRHUAYIJn) | [Seaspray](https://open.spotify.com/artist/1Okty0KbID5pnDTfNKB7mO) | [Comfort](https://open.spotify.com/album/11o1wEU5W9S7e6ii4oVWE2) | 2:24 | 2022-04-09 |  |
 | [Comfort Chain](https://open.spotify.com/track/5BAXlRDW3YaPr3rfqV51TA) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Comfort Chain](https://open.spotify.com/album/7wkMsvkTZ6pq5GgSqDu9jK) | 3:04 | 2022-01-11 | 2023-05-17 |
+| [Continuum 3](https://open.spotify.com/track/0AXfx8KBcjY3TlrHmApvNr) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Endlessness](https://open.spotify.com/album/51CQQ3tQLRZlZJZ5jcpoGE) | 4:07 | 2024-09-16 |  |
 | [conversations with grandma](https://open.spotify.com/track/5GgoR6lurqxLpfMjNOMUmG) | [Delayde](https://open.spotify.com/artist/254ga0emOv4GhfUUw5J16h) | [blue moon](https://open.spotify.com/album/665irKdzu7aptrhBycT5NJ) | 1:26 | 2021-10-20 | 2023-08-03 |
 | [conversations with grandma](https://open.spotify.com/track/5Hfp1A85EAcD3fqHmAPbpN) | [Delayde](https://open.spotify.com/artist/254ga0emOv4GhfUUw5J16h) | [blue moon](https://open.spotify.com/album/439132aTNPy2bbctlYh3yN) | 1:26 | 2021-10-20 | 2024-04-19 |
 | [COT2ON](https://open.spotify.com/track/6lMcrN9rMYh0AKMGQbE30j) | [Kampala Social Club](https://open.spotify.com/artist/1j2z4kWUO6QrYTqzQVxoZS) | [COT2ON](https://open.spotify.com/album/7hYw5hD2lfDGzIhpov4bI3) | 4:52 | 2021-10-20 | 2022-07-28 |

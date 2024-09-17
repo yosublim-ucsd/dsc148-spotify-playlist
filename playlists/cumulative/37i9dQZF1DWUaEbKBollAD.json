@@ -496,7 +496,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 185379,
       "name": "Ego Is The Enemy",
       "url": "https://open.spotify.com/track/2omtwYPfscqQc2XjOSmJOy"
@@ -630,7 +630,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 352120,
       "name": "Freie Sicht feat. Acud - Tal Fussman Remix",
       "url": "https://open.spotify.com/track/5jjM09V3op14MffQeJeXAN"
@@ -684,7 +684,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 515820,
       "name": "Glitch In Time",
       "url": "https://open.spotify.com/track/5VbAmXpu7hkFdF31o0FSYZ"
@@ -968,6 +968,24 @@
       "duration_ms": 419164,
       "name": "Inside My Head",
       "url": "https://open.spotify.com/track/3YR7XdHKPA21815NjqWZeB"
+    },
+    {
+      "album": {
+        "name": "Interconnection EP",
+        "url": "https://open.spotify.com/album/6OWXUShb5cu2AEqxla3jY6"
+      },
+      "artists": [
+        {
+          "name": "Enrico Sangiuliano",
+          "url": "https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90"
+        }
+      ],
+      "date_added": "2024-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433544,
+      "name": "Interconnection",
+      "url": "https://open.spotify.com/track/0oTqSCja48s8TkUDUW5q9w"
     },
     {
       "album": {
@@ -1271,6 +1289,24 @@
     },
     {
       "album": {
+        "name": "Nothing Is Far",
+        "url": "https://open.spotify.com/album/5lCooEa5Sq1Btcy6Iy3Oxi"
+      },
+      "artists": [
+        {
+          "name": "Giorgia Angiuli",
+          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+        }
+      ],
+      "date_added": "2024-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238344,
+      "name": "Nothing Is Far",
+      "url": "https://open.spotify.com/track/7IK2VDLFjcWMCsui0M2AT6"
+    },
+    {
+      "album": {
         "name": "Obsidian (Oscar L Remix)",
         "url": "https://open.spotify.com/album/4Nf2HEt1CHXJPe6TTpxaeP"
       },
@@ -1374,6 +1410,28 @@
       "duration_ms": 441067,
       "name": "Racos",
       "url": "https://open.spotify.com/track/5dRF9o0qHnXWcjwL01H7yj"
+    },
+    {
+      "album": {
+        "name": "Radiance",
+        "url": "https://open.spotify.com/album/5c19YIY72XTdtNU8012KoF"
+      },
+      "artists": [
+        {
+          "name": "Kobosil",
+          "url": "https://open.spotify.com/artist/2ZvIFwl0BuQgHqWvDE80hC"
+        },
+        {
+          "name": "Ueberrest",
+          "url": "https://open.spotify.com/artist/7JipAMuZSlPJtbRVbi5vnS"
+        }
+      ],
+      "date_added": "2024-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273697,
+      "name": "Radiance",
+      "url": "https://open.spotify.com/track/7h26agLOPUr05uhxm3qeUC"
     },
     {
       "album": {
@@ -1606,7 +1664,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 358093,
       "name": "Shiva Manas Puja",
       "url": "https://open.spotify.com/track/7spGN3NecAk8fm5CARxL0X"
@@ -2090,6 +2148,24 @@
       "duration_ms": 335000,
       "name": "Warp Drive",
       "url": "https://open.spotify.com/track/6zdJnikLSW14nk8lrHcde5"
+    },
+    {
+      "album": {
+        "name": "What Would Gerry Do",
+        "url": "https://open.spotify.com/album/0dAsvt2RrjPUp4PVy8SsFz"
+      },
+      "artists": [
+        {
+          "name": "Juliet Fox",
+          "url": "https://open.spotify.com/artist/7zH0EpzFgwmwpnEprtvDig"
+        }
+      ],
+      "date_added": "2024-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145260,
+      "name": "What Would Gerry Do",
+      "url": "https://open.spotify.com/track/0AcAZoVPYbGf1oIEn8UDiG"
     },
     {
       "album": {

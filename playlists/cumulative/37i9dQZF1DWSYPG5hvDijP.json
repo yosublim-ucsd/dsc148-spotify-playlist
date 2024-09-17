@@ -2510,6 +2510,10 @@
         {
           "name": "Saabi Bhinder",
           "url": "https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr"
+        },
+        {
+          "name": "Aziz",
+          "url": "https://open.spotify.com/artist/5bKxXk1dtq9h6JwHUksEVU"
         }
       ],
       "date_added": "2024-09-12",
@@ -5401,6 +5405,28 @@
     },
     {
       "album": {
+        "name": "Main Hawa Mein Hu",
+        "url": "https://open.spotify.com/album/0BwhDzXo2T6ceWGwHN73yi"
+      },
+      "artists": [
+        {
+          "name": "Maninder Buttar",
+          "url": "https://open.spotify.com/artist/2sN4fSzAm2rAL0HIurPCEM"
+        },
+        {
+          "name": "Emiway Bantai",
+          "url": "https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I"
+        }
+      ],
+      "date_added": "2024-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Main Hawa Mein Hu",
+      "url": "https://open.spotify.com/track/1y80LDw4jNgs5X8o1pSXOY"
+    },
+    {
+      "album": {
         "name": "Mainland",
         "url": "https://open.spotify.com/album/3y5zOBt4JrHvS6vU90cAg5"
       },
@@ -8084,7 +8110,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 127753,
       "name": "TATHYA",
       "url": "https://open.spotify.com/track/0jBftnxpYmpxGFYSYGSbga"

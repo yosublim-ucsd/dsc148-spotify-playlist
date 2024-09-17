@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Marshall
 
-361 songs - 20 hr 46 min
+362 songs - 20 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,6 +320,7 @@
 | [Thoovum Mazhai](https://open.spotify.com/track/7cyFE1Eg8QmktBjmLt8hAy) | [Yashomati](https://open.spotify.com/artist/0F9yghjGcpuaz1ugJyvcum) | [Thoovum Mazhai](https://open.spotify.com/album/1SOBdMjcOnXxL88XIhL3vQ) | 4:25 | 2024-01-30 | 2024-05-21 |
 | [Thuhila](https://open.spotify.com/track/1oBnbrjFdHXL5Duoc8PWpk) | [Nicky.M](https://open.spotify.com/artist/58QgZsCB2X7kk31Og7Fw3Q), [Rajaganapathy](https://open.spotify.com/artist/2VuJo5b1VcEIruE52GtNLq), [Aathreya](https://open.spotify.com/artist/4YSpoNee7EIL8olUEZAQqs), [Jasomitha](https://open.spotify.com/artist/6kDxxqHkVJoLihu5tEpnj2), [Pranitha](https://open.spotify.com/artist/4k6qwsZB8oduj7v8eFsbNB), [Sathustica](https://open.spotify.com/artist/1P2nVyWqmPWbGiLGThqalS), [Sulaxshi](https://open.spotify.com/artist/21A7zn3z5igDaobPTQklK2) | [Thuhila](https://open.spotify.com/album/0Q76oGNJkWaBkkqLDDO45y) | 3:26 | 2024-06-14 | 2024-08-24 |
 | [Tiku Tiku](https://open.spotify.com/track/2zkaNq1IKAMj6ZJtrnJ8QS) | [Kaviisai Vallavan](https://open.spotify.com/artist/0Eour79zyRHEZLexWRu2Z3), [Semma Beatz](https://open.spotify.com/artist/4tsBTuI0pVEH7tcFVf2AT0) | [Tiku Tiku](https://open.spotify.com/album/6RgQLkX8shhcr54Ptc2lJ0) | 2:33 | 2023-08-31 | 2023-10-07 |
+| [Toxic Kadhal](https://open.spotify.com/track/1mTD4UxhM9A72ZQQ1oC8pn) | [Arun Raj](https://open.spotify.com/artist/2bhsKK1QgLs7fCGEYn0luF), [Archana](https://open.spotify.com/artist/0uaopoljpu56onTz2xGIDH) | [Toxic Kadhal](https://open.spotify.com/album/0BDNnJKefhW86IjcnwREHN) | 3:07 | 2024-09-16 |  |
 | [Ulagam Nee](https://open.spotify.com/track/0ACSHNzNI60yrSb0mJ5OjP) | [Arun VT](https://open.spotify.com/artist/1CJDeOUBqGYcXK9SFarXLf), [Julia Jarzyna](https://open.spotify.com/artist/5u7JCyDmmVMJhOgKqMVKkk), [Vaishnavi Ram](https://open.spotify.com/artist/74eCmKPynbdqAdGMeaRLjo) | [Ulagam Nee](https://open.spotify.com/album/3n2LpLN5PN9zO9tccrKEwc) | 5:06 | 2024-04-05 |  |
 | [Un Kaadhalaal \(From "MM Originals"\) \(Original Soundtrack\)](https://open.spotify.com/track/5jXXPxjxHz3jElEhThuf4h) | [Santhosh Balaji](https://open.spotify.com/artist/3DvjtASVI8Czc44WMEn3js), [Amina Rafiq](https://open.spotify.com/artist/5MeaQZAAyaP41gzU4FOGMu), [Aravind Karneeswaran](https://open.spotify.com/artist/6WhCmwXKt1znjtpjt9Xcvi), [Ziya Hadhijath](https://open.spotify.com/artist/1sxG5QLaWGQgod5F65vloL) | [Un Kaadhalaal \(From "MM Originals"\) \(Original Soundtrack\)](https://open.spotify.com/album/1hVP6zvpF7uwYodfGhy3os) | 3:44 | 2023-08-04 | 2024-02-29 |
 | [Un Vaarthai](https://open.spotify.com/track/0kcdwX7FLkKvfASTff9fyV) | [Prezanthi Shanmugavel](https://open.spotify.com/artist/3g7Jy7DBhczGb5HF5M8PKY), [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r) | [Un Vaarthai](https://open.spotify.com/album/4biQlvQx4Fwb36eqK1Ge4F) | 2:13 | 2024-02-09 | 2024-05-21 |

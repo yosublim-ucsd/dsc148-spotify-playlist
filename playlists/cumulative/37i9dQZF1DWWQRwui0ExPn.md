@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,961 songs - 10 day 23 hr 55 min
+6,963 songs - 11 day 0 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3769,7 +3769,7 @@
 | [Menagerie](https://open.spotify.com/track/5OdH0ihfMSg5MHXvzESpSB) | [pantology](https://open.spotify.com/artist/6BmJQyuJW3ghQ8qLROaOt0) | [Menagerie](https://open.spotify.com/album/0ijOw5bqVO3T2WmqLc5K25) | 3:15 | 2022-05-27 | 2022-09-23 |
 | [Mend](https://open.spotify.com/track/23b3SAVnOytveVQf3kj1YQ) | [Kinissue](https://open.spotify.com/artist/4CSOdm2yCuB71TxCfV105e), [Redmatic レド](https://open.spotify.com/artist/5V1bfKS8WRsJ9uwJNRQWoy) | [Never Enough](https://open.spotify.com/album/4Xf0JjP0oLcwPh7yHGjsY5) | 2:20 | 2023-02-07 | 2023-04-21 |
 | [Mental Fallout](https://open.spotify.com/track/5fxDE80ZPA32JXjZN87pQJ) | [Jorge Milliano](https://open.spotify.com/artist/2h3ZcRa4CSTILfWC4RRgZJ) | [Dosages](https://open.spotify.com/album/2DZ9XsRcXUf5E1RBR2MXL0) | 2:42 | 2019-09-22 | 2020-08-30 |
-| [Mercurial](https://open.spotify.com/track/4ig1CTLcyAxM7WQREJvuCD) | [Tamacto](https://open.spotify.com/artist/02EvIsE0XWi2HJmTXcK2QQ) | [Mercurial](https://open.spotify.com/album/387sBh9RZAdR4jhFYiv7r4) | 2:35 | 2024-04-26 |  |
+| [Mercurial](https://open.spotify.com/track/4ig1CTLcyAxM7WQREJvuCD) | [Tamacto](https://open.spotify.com/artist/02EvIsE0XWi2HJmTXcK2QQ) | [Mercurial](https://open.spotify.com/album/387sBh9RZAdR4jhFYiv7r4) | 2:35 | 2024-04-26 | 2024-09-17 |
 | [Mercury](https://open.spotify.com/track/2DFiFpJrFkWqiQzHO4FJms) | [Mayaewk](https://open.spotify.com/artist/20oT5LKCdO5vqCSgZ83OsQ), [Croupnoop](https://open.spotify.com/artist/1cbGJW4vh41OwcsuLtvRGx) | [Mercury](https://open.spotify.com/album/2KgTOgObCHs57ieXXld8wy) | 2:02 | 2021-10-02 | 2022-04-15 |
 | [Merisiili](https://open.spotify.com/track/6uG6ZzDveP2dlk2q8oTbtS) | [Elffire](https://open.spotify.com/artist/5r0Dqr2o43QLl81B4m9XvA) | [Merisiili](https://open.spotify.com/album/0A5fCHnzZ7q8dYLv3MPJL2) | 1:42 | 2022-03-19 | 2022-08-19 |
 | [Mesa Rework](https://open.spotify.com/track/7vBUIcz4umWi0AjdNNut72) | [Seaspray](https://open.spotify.com/artist/1Okty0KbID5pnDTfNKB7mO) | [Mesa Rework](https://open.spotify.com/album/6Qq3INZ22tOb4NYrff3s5f) | 1:50 | 2022-11-11 | 2023-01-20 |
@@ -4196,6 +4196,7 @@
 | [Nightshift](https://open.spotify.com/track/0UjObLzSHxr0CxgZr705wQ) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [Nightshift](https://open.spotify.com/album/4Co5ehAs27mQ73zHXr9k8m) | 1:52 | 2023-10-20 |  |
 | [Nightshift](https://open.spotify.com/track/1HozZPFkQc3xi2SMBe07pP) | [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [Nightshift](https://open.spotify.com/album/5Bl9EqhUZ5HYvl3XuMMzik) | 2:05 | 2022-07-22 | 2022-11-11 |
 | [nightshift \(red wine and cigs\)](https://open.spotify.com/track/55vo6aUFx7en3lD2uX6O9B) | [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy) | [unicorn \- EP](https://open.spotify.com/album/0DIW5NBdxvKMEiNONAvDYf) | 1:22 | 2019-06-22 | 2020-01-07 |
+| [nightvision](https://open.spotify.com/track/574p3oZ9clAcRkM74jhj4d) | [sellar](https://open.spotify.com/artist/2eE2igevXc1oO8cBldYZDy) | [nightvision](https://open.spotify.com/album/6F2olvguA8qhb9u3XJ7zP5) | 2:23 | 2024-09-13 |  |
 | [nightwalker](https://open.spotify.com/track/78eRRJcbSM643Ymm1X2KGD) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY) | [daydreams](https://open.spotify.com/album/5zIJZ4sjVANxrK28e2UTJD) | 2:19 | 2022-12-09 | 2023-10-20 |
 | [Nika’s Theme](https://open.spotify.com/track/70mavZVvl0md1xQT1xB0cO) | [Peace Attack](https://open.spotify.com/artist/7HE5Ri9gkbRRQtRpmySeB5) | [Nika’s Theme](https://open.spotify.com/album/4jJbDX69zf3D9glKQUoSYC) | 1:58 | 2023-07-13 | 2023-08-04 |
 | [Niki's Halva](https://open.spotify.com/track/3FzPkuEvFTX9HOR481kz2E) | [Jules Hiero](https://open.spotify.com/artist/2eK4vL0m6Ws2vg078EGk8J), [Baen Mow](https://open.spotify.com/artist/2mt3wR9B4tg9KXvICFYhqM) | [Kleoniki's Kitchen](https://open.spotify.com/album/5hiOnMndLSSsP0zW48jlRA) | 2:20 | 2022-10-28 | 2023-04-28 |
@@ -4536,7 +4537,7 @@
 | [Paradise Landing](https://open.spotify.com/track/4PY8Na1UYtnMhZun7MEGxa) | [Mama Aiuto](https://open.spotify.com/artist/1PSOEqcIZLUk8nkWH2rr9x), [Daphné](https://open.spotify.com/artist/6s3ZnLuOA2OTJijcjriiOs) | [Green Memory Grass](https://open.spotify.com/album/00ZmLKljHmPHYtB3nJtDFX) | 3:17 | 2022-07-15 | 2022-10-28 |
 | [Paralized](https://open.spotify.com/track/0uysLSYAkvapieJYKTvQTp) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ) | [Paralized](https://open.spotify.com/album/1NsUtfR1ZKtbHEpe39G8Wi) | 2:16 | 2023-11-24 |  |
 | [Parallels](https://open.spotify.com/track/49RJMiPukpB2hPrW0H4z2s) | [SōNE](https://open.spotify.com/artist/0vyQIO5WNw4aGfAaf9yUXi) | [Parallels](https://open.spotify.com/album/09nnMSw2kSm9iPYCFTd6Th) | 2:13 | 2022-02-25 | 2022-07-29 |
-| [Paramount Hearts](https://open.spotify.com/track/2y6cKJ36yyMTQADw7ayFlV) | [Cloud EO](https://open.spotify.com/artist/5KxxMuTdkoij6TXvTep7IU) | [Paramount Hearts](https://open.spotify.com/album/65nlCP4SioUEDfap0JZdem) | 2:11 | 2022-01-14 |  |
+| [Paramount Hearts](https://open.spotify.com/track/2y6cKJ36yyMTQADw7ayFlV) | [Cloud EO](https://open.spotify.com/artist/5KxxMuTdkoij6TXvTep7IU) | [Paramount Hearts](https://open.spotify.com/album/65nlCP4SioUEDfap0JZdem) | 2:11 | 2022-01-14 | 2024-09-17 |
 | [Parasite](https://open.spotify.com/track/0kou8x9zXPFMLpKm6cIwiC) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB) | [Parasite](https://open.spotify.com/album/0YilnGbilZNQBSCu5cHfKh) | 1:57 | 2021-08-11 | 2022-03-12 |
 | [Parga](https://open.spotify.com/track/3APFh2aqeOR1XlDj6iCwl1) | [Lovers Hifi](https://open.spotify.com/artist/6N2rWeJGrU9be5JfLaaT6z), [Mononome](https://open.spotify.com/artist/23Xbt1RdcMA2glA3aeHtZ3) | [Parga](https://open.spotify.com/album/0tQ4NF1XhOgjTfYmPXEHCB) | 2:20 | 2024-07-19 |  |
 | [Paris Dinner](https://open.spotify.com/track/6HfofkclnBlWbM6aofZfWg) | [SanelliX](https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu) | [Paris Dinner](https://open.spotify.com/album/0orL1Npoi60IYJ5aV4SPdv) | 1:55 | 2022-09-23 | 2023-01-13 |
@@ -5795,6 +5796,7 @@
 | [Sun Riding](https://open.spotify.com/track/5J8UhUivKXrMxX6vPDRKoU) | [Snowji](https://open.spotify.com/artist/1jBhtlpf2bKt06VAAjwmBK) | [Sun Riding](https://open.spotify.com/album/4sYa1MxwiKvC0OcBMWy3wM) | 2:04 | 2022-09-30 | 2022-11-20 |
 | [Sun Riding](https://open.spotify.com/track/5fHANX6mHrq1zs6LG6MGQx) | [Snowji](https://open.spotify.com/artist/1jBhtlpf2bKt06VAAjwmBK) | [Sun Riding](https://open.spotify.com/album/4SnDbkkdv3Akv960U93Syn) | 2:04 | 2022-11-18 | 2022-12-14 |
 | [Sun Riding](https://open.spotify.com/track/6hDLCD886XNIkyAIBFC9UO) | [Snowji](https://open.spotify.com/artist/1jBhtlpf2bKt06VAAjwmBK) | [Sun Riding](https://open.spotify.com/album/6TwIoLPG5oAK1gbb7ePGHi) | 2:04 | 2022-12-09 | 2023-01-13 |
+| [sun silhouette](https://open.spotify.com/track/4Bue5JBRadsoBqwOreNclG) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [sun silhouette](https://open.spotify.com/album/5ANiFyqm8d8hTC1S5yX93G) | 3:05 | 2024-09-13 |  |
 | [Sun Touched](https://open.spotify.com/track/3jAWiXqyCjN9Vx4Lw3A6em) | [J\. Lorenzo](https://open.spotify.com/artist/1znEpSLL4247fcHcMICTgN) | [Sun Touched](https://open.spotify.com/album/3dy5qT8pFt3wMNTXtmeNSS) | 2:43 | 2022-10-28 | 2023-01-20 |
 | [Sun\-Rainy](https://open.spotify.com/track/1hZEKLB9Xwgla0rkleh7sh) | [Phat Dizzy Dean](https://open.spotify.com/artist/1o0M8dJPrG2xg5u3gv9D6g) | [Sun\-Rainy](https://open.spotify.com/album/005AxaCubpQkVCI4cyiNOq) | 2:43 | 2023-10-06 |  |
 | [Sunbath](https://open.spotify.com/track/03c8CXUMTqMlEjaFkMmqMK) | [Fehdynannd](https://open.spotify.com/artist/5PlsrOCh4QemXdqrPwVBSy), [3 Doors Down](https://open.spotify.com/artist/2cDP3iMSeaVf3BHWHWQJ7G) | [Sunbath](https://open.spotify.com/album/0bKnkUAISqtjdn5mvI7ZAD) | 2:00 | 2022-01-21 | 2022-07-16 |

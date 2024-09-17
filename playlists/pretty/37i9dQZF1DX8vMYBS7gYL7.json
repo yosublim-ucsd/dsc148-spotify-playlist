@@ -1,6 +1,6 @@
 {
   "description": "Un poco de sabrosura y color para esos d\u00edas lluviosos.",
-  "num_followers": 45380,
+  "num_followers": 45400,
   "original_name": "Lluvia Tropical",
   "owner": {
     "name": "Spotify",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-09-06 21:17:56",
       "album": {
-        "name": "Coraz\u00f3n Bonito",
-        "url": "https://open.spotify.com/album/6doczKOn9Ol9Yjum4U3kqK"
-      },
-      "artists": [
-        {
-          "name": "Anthony Santos",
-          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
-        }
-      ],
-      "duration_ms": 299146,
-      "name": "Donde Estar\u00e1",
-      "url": "https://open.spotify.com/track/7oJ5gMtXIjVyx9plzoFkHU"
-    },
-    {
-      "added_at": "2024-09-06 21:17:56",
-      "album": {
         "name": "Bobby Valentin",
         "url": "https://open.spotify.com/album/5vgJDrOdBWFBm8CDmqC7f2"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 362506,
       "name": "El Mu\u00f1eco de la Ciudad",
       "url": "https://open.spotify.com/track/2WL3ME4dKCpCIs8bWBhMnK"
+    },
+    {
+      "added_at": "2024-09-06 21:17:56",
+      "album": {
+        "name": "Coraz\u00f3n Bonito",
+        "url": "https://open.spotify.com/album/6doczKOn9Ol9Yjum4U3kqK"
+      },
+      "artists": [
+        {
+          "name": "Anthony Santos",
+          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
+        }
+      ],
+      "duration_ms": 299146,
+      "name": "Donde Estar\u00e1",
+      "url": "https://open.spotify.com/track/7oJ5gMtXIjVyx9plzoFkHU"
     },
     {
       "added_at": "2024-09-06 21:17:56",

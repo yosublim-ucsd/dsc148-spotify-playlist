@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO0HqFDa.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO0HqFDa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO0HqFDa)
 
-### [This Is ラミン・ジャワディ](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0HqFDa)
+### [This Is Ramin Djawadi](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0HqFDa)
 
-> This is ラミン・ジャワディ。アーティストの代表曲をひとつのプレイリストに。
+> This is Ramin Djawadi\. Todos os maiores hits em uma só playlist.
 
 71 songs - 3 hr 34 min
 

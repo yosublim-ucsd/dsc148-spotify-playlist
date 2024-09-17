@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 
 > It's a main pop girl emergency 🆘  Cover: Katy Perry, Doechii
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,916 likes - 103 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,944 likes - 103 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

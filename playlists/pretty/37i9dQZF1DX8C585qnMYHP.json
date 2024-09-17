@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Ana Lua Caiano on cover. Artwork by Thami Nabil",
-  "num_followers": 171531,
+  "num_followers": 171624,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-08-21 04:00:00",
       "album": {
-        "name": "Living Room",
-        "url": "https://open.spotify.com/album/4iZQx2yaJNFhomxb2I64Lw"
-      },
-      "artists": [
-        {
-          "name": "Rom\u00e9o Poirier",
-          "url": "https://open.spotify.com/artist/1kQP1Xg6Q8bmdjXAirDQKG"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "Muscle de sable",
-      "url": "https://open.spotify.com/track/3qoY2HMgcyJTDEQVBm9Xx5"
-    },
-    {
-      "added_at": "2024-08-21 04:00:00",
-      "album": {
         "name": "Small Medium Large",
         "url": "https://open.spotify.com/album/3DpHrOJuKw6QSfcvLNanRO"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 123186,
       "name": "Window Sill Song",
       "url": "https://open.spotify.com/track/2hB0WBIk6FFqqqbW6lyw15"
+    },
+    {
+      "added_at": "2024-08-21 04:00:00",
+      "album": {
+        "name": "Living Room",
+        "url": "https://open.spotify.com/album/4iZQx2yaJNFhomxb2I64Lw"
+      },
+      "artists": [
+        {
+          "name": "Rom\u00e9o Poirier",
+          "url": "https://open.spotify.com/artist/1kQP1Xg6Q8bmdjXAirDQKG"
+        }
+      ],
+      "duration_ms": 241000,
+      "name": "Muscle de sable",
+      "url": "https://open.spotify.com/track/3qoY2HMgcyJTDEQVBm9Xx5"
     },
     {
       "added_at": "2024-08-21 04:00:00",
@@ -1145,6 +1145,22 @@
       "url": "https://open.spotify.com/track/4z1vmPuzHvVyT4T2zRwslI"
     },
     {
+      "added_at": "2024-08-21 04:00:00",
+      "album": {
+        "name": "Pillars",
+        "url": "https://open.spotify.com/album/1rUgzGPf4njtmLhKWbJ53v"
+      },
+      "artists": [
+        {
+          "name": "Sorza",
+          "url": "https://open.spotify.com/artist/0uzZejtu06gZYMtDUoSt9D"
+        }
+      ],
+      "duration_ms": 234312,
+      "name": "I'm here",
+      "url": "https://open.spotify.com/track/7jgKM7kkr5V1vD000hAelA"
+    },
+    {
       "added_at": "2024-08-14 14:21:25",
       "album": {
         "name": "Sky Time",
@@ -1171,22 +1187,6 @@
     {
       "added_at": "2024-08-21 04:00:00",
       "album": {
-        "name": "Pillars",
-        "url": "https://open.spotify.com/album/1rUgzGPf4njtmLhKWbJ53v"
-      },
-      "artists": [
-        {
-          "name": "Sorza",
-          "url": "https://open.spotify.com/artist/0uzZejtu06gZYMtDUoSt9D"
-        }
-      ],
-      "duration_ms": 234312,
-      "name": "I'm here",
-      "url": "https://open.spotify.com/track/7jgKM7kkr5V1vD000hAelA"
-    },
-    {
-      "added_at": "2024-08-21 04:00:00",
-      "album": {
         "name": "Northern Classic",
         "url": "https://open.spotify.com/album/49w9XEYsCNsmcRU0mM6Edr"
       },
@@ -1199,22 +1199,6 @@
       "duration_ms": 336786,
       "name": "Drifting Around",
       "url": "https://open.spotify.com/track/1qcL2aoIbuIKsBiR3nXHe0"
-    },
-    {
-      "added_at": "2024-07-17 04:00:00",
-      "album": {
-        "name": "Elixa",
-        "url": "https://open.spotify.com/album/5K1wTcRwBr2t9PMm1clF7K"
-      },
-      "artists": [
-        {
-          "name": "Th Blisks",
-          "url": "https://open.spotify.com/artist/2uiBUFM6ifJQVNkmSGtrPR"
-        }
-      ],
-      "duration_ms": 273373,
-      "name": "Do You Bless It?",
-      "url": "https://open.spotify.com/track/4o8Y3yuawVuSKu7VQAMy64"
     },
     {
       "added_at": "2024-08-07 03:33:24",
@@ -1231,6 +1215,22 @@
       "duration_ms": 131493,
       "name": "She\u2019s All We Have",
       "url": "https://open.spotify.com/track/1CQfbczeKKeYs4c0Sqkn5w"
+    },
+    {
+      "added_at": "2024-07-17 04:00:00",
+      "album": {
+        "name": "Elixa",
+        "url": "https://open.spotify.com/album/5K1wTcRwBr2t9PMm1clF7K"
+      },
+      "artists": [
+        {
+          "name": "Th Blisks",
+          "url": "https://open.spotify.com/artist/2uiBUFM6ifJQVNkmSGtrPR"
+        }
+      ],
+      "duration_ms": 273373,
+      "name": "Do You Bless It?",
+      "url": "https://open.spotify.com/track/4o8Y3yuawVuSKu7VQAMy64"
     },
     {
       "added_at": "2024-08-07 03:33:24",
@@ -1313,6 +1313,22 @@
       "url": "https://open.spotify.com/track/1JB63hFHq0Xz3buBY2x7vj"
     },
     {
+      "added_at": "2024-08-21 04:00:00",
+      "album": {
+        "name": "Truest",
+        "url": "https://open.spotify.com/album/1wANarMlS8xKdwUxm4WwrI"
+      },
+      "artists": [
+        {
+          "name": "Anysia Kym",
+          "url": "https://open.spotify.com/artist/03546gvcoicKs6C10YdXvk"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Hesitations\u2026 (Intro)",
+      "url": "https://open.spotify.com/track/0sNiWTqzD6LwYnLa9SGuac"
+    },
+    {
       "added_at": "2024-05-08 03:43:46",
       "album": {
         "name": "hope's return",
@@ -1331,18 +1347,18 @@
     {
       "added_at": "2024-08-21 04:00:00",
       "album": {
-        "name": "Truest",
-        "url": "https://open.spotify.com/album/1wANarMlS8xKdwUxm4WwrI"
+        "name": "Misterio Lounge 3000",
+        "url": "https://open.spotify.com/album/58pzHI7Hc7nhIJA9vfraww"
       },
       "artists": [
         {
-          "name": "Anysia Kym",
-          "url": "https://open.spotify.com/artist/03546gvcoicKs6C10YdXvk"
+          "name": "Tia Rosa",
+          "url": "https://open.spotify.com/artist/220h1bpQcfo1fVqmTwvgpS"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Hesitations\u2026 (Intro)",
-      "url": "https://open.spotify.com/track/0sNiWTqzD6LwYnLa9SGuac"
+      "duration_ms": 223098,
+      "name": "La Luz",
+      "url": "https://open.spotify.com/track/52gzLw5jwmb0UPhsjbL1Xb"
     },
     {
       "added_at": "2024-07-17 04:00:00",
@@ -1359,22 +1375,6 @@
       "duration_ms": 190066,
       "name": "Oase",
       "url": "https://open.spotify.com/track/00Ed6JEkpJFVZwWWZw42oY"
-    },
-    {
-      "added_at": "2024-08-21 04:00:00",
-      "album": {
-        "name": "Misterio Lounge 3000",
-        "url": "https://open.spotify.com/album/58pzHI7Hc7nhIJA9vfraww"
-      },
-      "artists": [
-        {
-          "name": "Tia Rosa",
-          "url": "https://open.spotify.com/artist/220h1bpQcfo1fVqmTwvgpS"
-        }
-      ],
-      "duration_ms": 223098,
-      "name": "La Luz",
-      "url": "https://open.spotify.com/track/52gzLw5jwmb0UPhsjbL1Xb"
     },
     {
       "added_at": "2024-03-20 13:59:17",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2024-08-21 04:00:00",
       "album": {
-        "name": "Airdrop 04 (Squeeze Yer Lemon)",
-        "url": "https://open.spotify.com/album/5WSxEXdCW5QSYIphB2nNMf"
-      },
-      "artists": [
-        {
-          "name": "Low End Activist",
-          "url": "https://open.spotify.com/artist/72oF97JtpHOAEYBMLzKKDg"
-        }
-      ],
-      "duration_ms": 258906,
-      "name": "Airdrop 04 (Squeeze Yer Lemon)",
-      "url": "https://open.spotify.com/track/3QloqA8jZIy0pQ2kZF88Be"
-    },
-    {
-      "added_at": "2024-08-21 04:00:00",
-      "album": {
         "name": "Cold Drinks, Hot Dreams",
         "url": "https://open.spotify.com/album/6pmWgl5yp6f1Gnhb8tAYKb"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 628000,
       "name": "Cold Drinks",
       "url": "https://open.spotify.com/track/3YJL34GQVRvMVIkJzMfbQj"
+    },
+    {
+      "added_at": "2024-08-21 04:00:00",
+      "album": {
+        "name": "Airdrop 04 (Squeeze Yer Lemon)",
+        "url": "https://open.spotify.com/album/5WSxEXdCW5QSYIphB2nNMf"
+      },
+      "artists": [
+        {
+          "name": "Low End Activist",
+          "url": "https://open.spotify.com/artist/72oF97JtpHOAEYBMLzKKDg"
+        }
+      ],
+      "duration_ms": 258906,
+      "name": "Airdrop 04 (Squeeze Yer Lemon)",
+      "url": "https://open.spotify.com/track/3QloqA8jZIy0pQ2kZF88Be"
     },
     {
       "added_at": "2024-08-21 04:00:00",

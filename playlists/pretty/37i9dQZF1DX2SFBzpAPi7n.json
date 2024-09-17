@@ -1,6 +1,6 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Xdinary Heros) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 238600,
+  "num_followers": 238578,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-09-13 09:12:17",
       "album": {
-        "name": "Void",
-        "url": "https://open.spotify.com/album/6kdRAzt9oU3X9eUdeTB0Yk"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 215476,
-      "name": "sorry",
-      "url": "https://open.spotify.com/track/2mqN6WJawRJzT2X9T5bdYV"
-    },
-    {
-      "added_at": "2024-09-13 09:12:17",
-      "album": {
         "name": "Fourever",
         "url": "https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 217067,
       "name": "Welcome to the Show",
       "url": "https://open.spotify.com/track/6je5cTal6PyeITNrOzkCoS"
+    },
+    {
+      "added_at": "2024-09-13 09:12:17",
+      "album": {
+        "name": "Void",
+        "url": "https://open.spotify.com/album/6kdRAzt9oU3X9eUdeTB0Yk"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 215476,
+      "name": "sorry",
+      "url": "https://open.spotify.com/track/2mqN6WJawRJzT2X9T5bdYV"
     },
     {
       "added_at": "2024-09-13 09:12:17",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-09-13 09:12:17",
       "album": {
-        "name": "light",
-        "url": "https://open.spotify.com/album/1eSyRapMqJE70YPpjuzbvP"
-      },
-      "artists": [
-        {
-          "name": "wave to earth",
-          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
-        }
-      ],
-      "duration_ms": 225949,
-      "name": "light",
-      "url": "https://open.spotify.com/track/4i2T7Nm4Q72sNnSlGADSm6"
-    },
-    {
-      "added_at": "2024-09-13 09:12:17",
-      "album": {
         "name": "DARK BLOOD",
         "url": "https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 192619,
       "name": "Karma",
       "url": "https://open.spotify.com/track/1RGaIn89VUtXvJCXz1tDNb"
+    },
+    {
+      "added_at": "2024-09-13 09:12:17",
+      "album": {
+        "name": "light",
+        "url": "https://open.spotify.com/album/1eSyRapMqJE70YPpjuzbvP"
+      },
+      "artists": [
+        {
+          "name": "wave to earth",
+          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
+        }
+      ],
+      "duration_ms": 225949,
+      "name": "light",
+      "url": "https://open.spotify.com/track/4i2T7Nm4Q72sNnSlGADSm6"
     },
     {
       "added_at": "2024-09-13 09:12:17",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-09-13 09:12:17",
       "album": {
-        "name": "Bluetory",
-        "url": "https://open.spotify.com/album/6uXXlobOpwaecX1eNZtW4O"
-      },
-      "artists": [
-        {
-          "name": "CNBLUE",
-          "url": "https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi"
-        }
-      ],
-      "duration_ms": 217835,
-      "name": "Loner",
-      "url": "https://open.spotify.com/track/7wqBDFp7JZfWp3aPaC4gHQ"
-    },
-    {
-      "added_at": "2024-09-13 09:12:17",
-      "album": {
         "name": "1st Single Album 'Harmony from Discord'",
         "url": "https://open.spotify.com/album/0AmeepTU81c9ghVpJpacNc"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 167800,
       "name": "Discord",
       "url": "https://open.spotify.com/track/2kTKlEtnGx5z8oi4O06yqC"
+    },
+    {
+      "added_at": "2024-09-13 09:12:17",
+      "album": {
+        "name": "Bluetory",
+        "url": "https://open.spotify.com/album/6uXXlobOpwaecX1eNZtW4O"
+      },
+      "artists": [
+        {
+          "name": "CNBLUE",
+          "url": "https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi"
+        }
+      ],
+      "duration_ms": 217835,
+      "name": "Loner",
+      "url": "https://open.spotify.com/track/7wqBDFp7JZfWp3aPaC4gHQ"
     },
     {
       "added_at": "2024-09-13 09:12:17",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-09-13 09:12:17",
       "album": {
-        "name": "LOVE",
-        "url": "https://open.spotify.com/album/7E0KQMrRuZRM0EcIPjlXSO"
-      },
-      "artists": [
-        {
-          "name": "ADOY",
-          "url": "https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC"
-        }
-      ],
-      "duration_ms": 235746,
-      "name": "Wonder",
-      "url": "https://open.spotify.com/track/0hx7Ee7zi8zft0gcv5BIcf"
-    },
-    {
-      "added_at": "2024-09-13 09:12:17",
-      "album": {
         "name": "[Apocalypse : Save us]",
         "url": "https://open.spotify.com/album/42mMFBIWT599FmtWK5op4a"
       },
@@ -1395,18 +1379,18 @@
     {
       "added_at": "2024-09-13 09:12:17",
       "album": {
-        "name": "ENTITY",
-        "url": "https://open.spotify.com/album/0aEUnGgi7O8zqqrH8ADg7E"
+        "name": "LOVE",
+        "url": "https://open.spotify.com/album/7E0KQMrRuZRM0EcIPjlXSO"
       },
       "artists": [
         {
-          "name": "Cha Eun-Woo",
-          "url": "https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU"
+          "name": "ADOY",
+          "url": "https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC"
         }
       ],
-      "duration_ms": 217226,
-      "name": "WHERE AM I",
-      "url": "https://open.spotify.com/track/0Kwlndk1WSXrHQrI7J1DJ5"
+      "duration_ms": 235746,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/0hx7Ee7zi8zft0gcv5BIcf"
     },
     {
       "added_at": "2024-09-13 09:12:17",
@@ -1427,6 +1411,22 @@
     {
       "added_at": "2024-09-13 09:12:17",
       "album": {
+        "name": "ENTITY",
+        "url": "https://open.spotify.com/album/0aEUnGgi7O8zqqrH8ADg7E"
+      },
+      "artists": [
+        {
+          "name": "Cha Eun-Woo",
+          "url": "https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU"
+        }
+      ],
+      "duration_ms": 217226,
+      "name": "WHERE AM I",
+      "url": "https://open.spotify.com/track/0Kwlndk1WSXrHQrI7J1DJ5"
+    },
+    {
+      "added_at": "2024-09-13 09:12:17",
+      "album": {
         "name": "Expectation - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/5toDKS5XF6fxrI4OgQjHYZ"
       },
@@ -1439,6 +1439,22 @@
       "duration_ms": 176186,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/6piqcwymeAa2yyqIP8AjNj"
+    },
+    {
+      "added_at": "2024-09-13 09:12:17",
+      "album": {
+        "name": "ZONE",
+        "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
+      },
+      "artists": [
+        {
+          "name": "JIHYO",
+          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+        }
+      ],
+      "duration_ms": 215466,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/0g6LJdn1CGodzl5zDB2IHi"
     },
     {
       "added_at": "2024-09-13 09:12:17",
@@ -1459,22 +1475,6 @@
       "duration_ms": 182693,
       "name": "Lips (Feat. GISELLE)",
       "url": "https://open.spotify.com/track/7aGZLiPMaMKupY4fwzDBb2"
-    },
-    {
-      "added_at": "2024-09-13 09:12:17",
-      "album": {
-        "name": "ZONE",
-        "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
-      },
-      "artists": [
-        {
-          "name": "JIHYO",
-          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
-        }
-      ],
-      "duration_ms": 215466,
-      "name": "Nightmare",
-      "url": "https://open.spotify.com/track/0g6LJdn1CGodzl5zDB2IHi"
     },
     {
       "added_at": "2024-09-13 09:12:17",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-09-13 09:12:17",
       "album": {
-        "name": "Once in a BLUE MOON",
-        "url": "https://open.spotify.com/album/2dGSPxLjF87UHncjk75Px4"
-      },
-      "artists": [
-        {
-          "name": "N.Flying",
-          "url": "https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb"
-        }
-      ],
-      "duration_ms": 215093,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/77WBsNSTTDrp7rkZEsbAcv"
-    },
-    {
-      "added_at": "2024-09-13 09:12:17",
-      "album": {
         "name": "Goddess of Despair",
         "url": "https://open.spotify.com/album/2pF0taAwEGNMFRfAyvWGnv"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 219760,
       "name": "Goddess of Despair",
       "url": "https://open.spotify.com/track/1kMuSPY0CrZsrrUfbGTbnf"
+    },
+    {
+      "added_at": "2024-09-13 09:12:17",
+      "album": {
+        "name": "Once in a BLUE MOON",
+        "url": "https://open.spotify.com/album/2dGSPxLjF87UHncjk75Px4"
+      },
+      "artists": [
+        {
+          "name": "N.Flying",
+          "url": "https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb"
+        }
+      ],
+      "duration_ms": 215093,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/77WBsNSTTDrp7rkZEsbAcv"
     },
     {
       "added_at": "2024-09-13 09:12:17",

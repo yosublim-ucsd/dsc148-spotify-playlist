@@ -1553,6 +1553,28 @@
     },
     {
       "album": {
+        "name": "My Noise Is Nothing",
+        "url": "https://open.spotify.com/album/7gD1HesHdAjyZU3mHBni6h"
+      },
+      "artists": [
+        {
+          "name": "Lord Of The Isles",
+          "url": "https://open.spotify.com/artist/2PoiNhvPSC4fivyrDJOoru"
+        },
+        {
+          "name": "Ellen Renton",
+          "url": "https://open.spotify.com/artist/1T7ltBiyXYSF6kKKdrqaGm"
+        }
+      ],
+      "date_added": "2024-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357818,
+      "name": "For a Burning World",
+      "url": "https://open.spotify.com/track/2zbtE3hz1Zb5chqQnw0BB0"
+    },
+    {
+      "album": {
         "name": "Get Still",
         "url": "https://open.spotify.com/album/3UrtXMTUMXR2B5CP6IOuta"
       },
@@ -2598,7 +2620,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 272990,
       "name": "Mind Era",
       "url": "https://open.spotify.com/track/7ikwHilKD3pDtp9tcLTeCn"

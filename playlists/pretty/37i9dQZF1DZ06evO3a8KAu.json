@@ -1,12 +1,12 @@
 {
-  "description": "This Is Ulices Chaidez. Los temas esenciales, todos en una lista.",
-  "num_followers": 47897,
+  "description": "This is Ulices Chaidez. The essential tracks, all in one playlist.",
+  "num_followers": 47903,
   "original_name": "This Is Ulices Chaidez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuTSAAAAAADZRIaBj+0EIUyj0l7jUnqt",
+  "snapshot_id": "ZuYjgAAAAABKgc02QyEpkny44jKPGVVl",
   "tracks": [
     {
       "added_at": null,
@@ -699,18 +699,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Ti",
-        "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
+        "name": "Exotic Corridos",
+        "url": "https://open.spotify.com/album/6tPkJeXGBpviuVmOymfncY"
       },
       "artists": [
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        },
         {
           "name": "Ulices Chaidez",
           "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
         }
       ],
-      "duration_ms": 184868,
-      "name": "Porque Llegaste Tu",
-      "url": "https://open.spotify.com/track/2heShBrEZjTXq9m3PYXmiM"
+      "duration_ms": 173476,
+      "name": "Cinderella de Mis Noches",
+      "url": "https://open.spotify.com/track/3qiFcwUBMD0ElzizrjmP73"
     },
     {
       "added_at": null,
@@ -731,22 +735,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Exotic Corridos",
-        "url": "https://open.spotify.com/album/6tPkJeXGBpviuVmOymfncY"
+        "name": "Por Ti",
+        "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
       },
       "artists": [
-        {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
-        },
         {
           "name": "Ulices Chaidez",
           "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
         }
       ],
-      "duration_ms": 173476,
-      "name": "Cinderella de Mis Noches",
-      "url": "https://open.spotify.com/track/3qiFcwUBMD0ElzizrjmP73"
+      "duration_ms": 184868,
+      "name": "Porque Llegaste Tu",
+      "url": "https://open.spotify.com/track/2heShBrEZjTXq9m3PYXmiM"
     },
     {
       "added_at": null,

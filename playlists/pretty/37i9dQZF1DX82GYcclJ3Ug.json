@@ -1,12 +1,12 @@
 {
   "description": "No rules. No boundaries. The best new alternative tracks. Cover: Franz Ferdinand",
-  "num_followers": 1126037,
+  "num_followers": 1126100,
   "original_name": "The New Alt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuO4wAAAAAC+li+fRjtxlK1JCpDx6Dfp",
+  "snapshot_id": "ZuigRgAAAAA6/TIRjDEMF2VVq6hUF+l9",
   "tracks": [
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1063,6 +1063,22 @@
       "duration_ms": 178997,
       "name": "Hate Myself",
       "url": "https://open.spotify.com/track/0p5kxmR6LA7vmOWfvIYegu"
+    },
+    {
+      "added_at": "2024-09-16 21:16:54",
+      "album": {
+        "name": "HYPOCRITE",
+        "url": "https://open.spotify.com/album/1EuazudBc9kKhIPK0oThbO"
+      },
+      "artists": [
+        {
+          "name": "Lauren Sanderson",
+          "url": "https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj"
+        }
+      ],
+      "duration_ms": 198832,
+      "name": "HYPOCRITE",
+      "url": "https://open.spotify.com/track/3k2MD6jq9BAoNgYy85UBQH"
     },
     {
       "added_at": "2024-09-13 04:00:00",

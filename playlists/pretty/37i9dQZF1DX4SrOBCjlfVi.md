@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Eminem, Juice WRLD, Babyface Ray and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,236 likes - 51 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,359 likes - 51 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 3 | [World Tour \(Aquafina\)](https://open.spotify.com/track/261EcPb2XfhnPWSnlMOi3G) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [The Pre\-Party](https://open.spotify.com/album/2rlWVKCWJo4vpOBl8RiYX4) | 2:35 |
 | 4 | [TELL ME \(feat\. Chlöe\)](https://open.spotify.com/track/5SUYx8DCjFhdU9d9Qu4Vnf) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [TELL ME \(feat\. Chlöe\)](https://open.spotify.com/album/7LS6PqmpJP8HTXgBFHTKYz) | 2:36 |
 | 5 | [Ferraris In The Rain \(feat\. ScHoolboy Q\)](https://open.spotify.com/track/1pm9njASb5DN0K7aMUwPNW) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Ferraris in The Rain \(feat\. ScHoolboy Q\)](https://open.spotify.com/album/1dWIttqeOcIy31kGnSBWUg) | 3:04 |
-| 6 | [SLUT ME OUT 3 \(feat\. Carey Washington\)](https://open.spotify.com/track/7FCsancbnLoZrmL6bX6Yti) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Carey Washington](https://open.spotify.com/artist/1o69wyMnma62W8juhb8gAH) | [SLUT ME OUT 3 \(feat\. Carey Washington\)](https://open.spotify.com/album/1OIvMyu96Ba38Mpb2rjdn9) | 2:23 |
+| 6 | [SLUT ME OUT 3 \(feat\. Carey Washington\)](https://open.spotify.com/track/7FCsancbnLoZrmL6bX6Yti) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Carey Washington](https://open.spotify.com/artist/1o69wyMnma62W8juhb8gAH) | [SLUT ME OUT 3 \(feat\. Carey Washington\)](https://open.spotify.com/album/1OIvMyu96Ba38Mpb2rjdn9) | 2:22 |
 | 7 | [Off White Rozay](https://open.spotify.com/track/4DDnNyzFo6KaIacYE7RP6p) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Off White Rozay](https://open.spotify.com/album/18I4Bx1FCtAeb9uUvtOYia) | 2:29 |
 | 8 | [Wavy Navy University](https://open.spotify.com/track/3U5eiVoVoTMIA0VGOLon45) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Wavy Navy University](https://open.spotify.com/album/4MNyohrffBggOjMf5xRHVa) | 2:00 |
 | 9 | [Passenger Princess \(Jibbitz\)](https://open.spotify.com/track/7G0MIYpMnZkEAg3cVjMPGd) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Stunna 4 Vegas](https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8) | [Passenger Princess \(Jibbitz\)](https://open.spotify.com/album/6UH4nolB5PbkBahuWxKkuZ) | 2:53 |

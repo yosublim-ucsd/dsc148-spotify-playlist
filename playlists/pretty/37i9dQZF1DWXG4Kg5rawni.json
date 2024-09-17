@@ -1,6 +1,6 @@
 {
   "description": "Amor aben\u00e7oado por Deus.",
-  "num_followers": 103642,
+  "num_followers": 103675,
   "original_name": "Gospel Rom\u00e2ntico",
   "owner": {
     "name": "Spotify",
@@ -211,6 +211,22 @@
     {
       "added_at": "2024-07-11 15:58:05",
       "album": {
+        "name": "Desde o Primeiro Sim",
+        "url": "https://open.spotify.com/album/2aO1eeu6qWK6orMxpqgp0Y"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 268190,
+      "name": "Desde o Primeiro Sim",
+      "url": "https://open.spotify.com/track/5RmyZkrPcN3YzdX6qinVtx"
+    },
+    {
+      "added_at": "2024-07-11 15:58:05",
+      "album": {
         "name": "Pamela Falando de Amor",
         "url": "https://open.spotify.com/album/1GGLOuf5RpSgokroQqOFHU"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 284862,
       "name": "Um Verso de Amor",
       "url": "https://open.spotify.com/track/5P8LnyPsmeNztjsir8e5ke"
-    },
-    {
-      "added_at": "2024-07-11 15:58:05",
-      "album": {
-        "name": "Desde o Primeiro Sim",
-        "url": "https://open.spotify.com/album/2aO1eeu6qWK6orMxpqgp0Y"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 268190,
-      "name": "Desde o Primeiro Sim",
-      "url": "https://open.spotify.com/track/5RmyZkrPcN3YzdX6qinVtx"
     },
     {
       "added_at": "2024-07-11 15:58:05",

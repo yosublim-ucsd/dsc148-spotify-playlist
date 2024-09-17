@@ -1245,6 +1245,24 @@
     },
     {
       "album": {
+        "name": "Ahora Que Te Vas",
+        "url": "https://open.spotify.com/album/6gueR9S37aE6VfsLB8nhQq"
+      },
+      "artists": [
+        {
+          "name": "Ro\u00e9l",
+          "url": "https://open.spotify.com/artist/6LIzCrmAXJCfqd7LxDQKen"
+        }
+      ],
+      "date_added": "2024-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173968,
+      "name": "Ahora Que Te Vas",
+      "url": "https://open.spotify.com/track/0LKV3P17mtqAg9nQZ7JcRP"
+    },
+    {
+      "album": {
         "name": "Air France",
         "url": "https://open.spotify.com/album/2X85S9XmobZvk1dQ17uVY7"
       },
@@ -3226,7 +3244,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -5088,7 +5106,7 @@
       ],
       "date_added": "2024-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 122528,
       "name": "Con Sonido",
       "url": "https://open.spotify.com/track/3mWNBn4Y889KaNJpOCacJZ"
@@ -28864,6 +28882,32 @@
       "duration_ms": 189767,
       "name": "Te He Prometido",
       "url": "https://open.spotify.com/track/648AlW4EB178aVgNOaBU6a"
+    },
+    {
+      "album": {
+        "name": "Te la Parto (Remix)",
+        "url": "https://open.spotify.com/album/6OWOFagw1LqgI9LTX9ZM0r"
+      },
+      "artists": [
+        {
+          "name": "La Mas Doll",
+          "url": "https://open.spotify.com/artist/0PPgD3dY7wrxsMe021mByK"
+        },
+        {
+          "name": "Yailin la Mas Viral",
+          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
+        },
+        {
+          "name": "Mapa Negro",
+          "url": "https://open.spotify.com/artist/30TfJAUX5Aeh7qKjyndmsO"
+        }
+      ],
+      "date_added": "2024-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131272,
+      "name": "Te la Parto - Remix",
+      "url": "https://open.spotify.com/track/1SwgbVS16zRVJTsMW3RHUR"
     },
     {
       "album": {

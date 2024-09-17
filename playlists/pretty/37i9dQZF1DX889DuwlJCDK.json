@@ -1,6 +1,6 @@
 {
   "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: \u304a\u3044\u3057\u304f\u308b\u30e1\u30ed\u30f3\u30d1\u30f3",
-  "num_followers": 15398,
+  "num_followers": 15404,
   "original_name": "\u9752\u6625\u3068\u4e00\u77ac",
   "owner": {
     "name": "Spotify",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2024-09-10 15:00:08",
       "album": {
-        "name": "\u30a8\u30f4\u30a9\u30ea\u30e5\u30fc\u30b7\u30e7\u30f3",
-        "url": "https://open.spotify.com/album/6ZNMQgMmhyqw38uhADJWUN"
+        "name": "\u30d8\u30c3\u30c9\u30e9\u30a4\u30ca\u30fc",
+        "url": "https://open.spotify.com/album/2LQcnPReDbYKybSOF9Azxh"
       },
       "artists": [
         {
-          "name": "WurtS",
-          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
+          "name": "\u30ec\u30c8\u30ed\u30ea\u30ed\u30f3",
+          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
         }
       ],
-      "duration_ms": 139200,
-      "name": "\u904a\u661fX",
-      "url": "https://open.spotify.com/track/4b027Us1fdSWTYKOHdACIE"
+      "duration_ms": 234566,
+      "name": "\u30d8\u30c3\u30c9\u30e9\u30a4\u30ca\u30fc",
+      "url": "https://open.spotify.com/track/5ESy12imzRxzr7hd43SNPg"
     },
     {
       "added_at": "2024-09-10 15:00:08",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-09-10 15:00:08",
       "album": {
-        "name": "\u30d8\u30c3\u30c9\u30e9\u30a4\u30ca\u30fc",
-        "url": "https://open.spotify.com/album/2LQcnPReDbYKybSOF9Azxh"
-      },
-      "artists": [
-        {
-          "name": "\u30ec\u30c8\u30ed\u30ea\u30ed\u30f3",
-          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
-        }
-      ],
-      "duration_ms": 234566,
-      "name": "\u30d8\u30c3\u30c9\u30e9\u30a4\u30ca\u30fc",
-      "url": "https://open.spotify.com/track/5ESy12imzRxzr7hd43SNPg"
-    },
-    {
-      "added_at": "2024-09-10 15:00:08",
-      "album": {
         "name": "\u30a8\u30a6\u30ec\u30ab",
         "url": "https://open.spotify.com/album/1wMuqByMRXmJzCTjmtZfLz"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 184201,
       "name": "\u30a8\u30a6\u30ec\u30ab",
       "url": "https://open.spotify.com/track/6RrkERm8gb8E1jzVGyz7l5"
+    },
+    {
+      "added_at": "2024-09-10 15:00:08",
+      "album": {
+        "name": "\u30a8\u30f4\u30a9\u30ea\u30e5\u30fc\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/6ZNMQgMmhyqw38uhADJWUN"
+      },
+      "artists": [
+        {
+          "name": "WurtS",
+          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "\u904a\u661fX",
+      "url": "https://open.spotify.com/track/4b027Us1fdSWTYKOHdACIE"
     },
     {
       "added_at": "2024-09-10 15:00:08",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2024-09-10 15:00:08",
       "album": {
-        "name": "\u610f\u89e3\u3051\u306a\u3044",
-        "url": "https://open.spotify.com/album/3kbsCLdjF3xWylKkSzvUtN"
+        "name": "Musica",
+        "url": "https://open.spotify.com/album/15OsgQLfIzPAHgb8tXQ5XA"
       },
       "artists": [
         {
-          "name": "ammo",
-          "url": "https://open.spotify.com/artist/3482dVicMV9A5tThd1ufSx"
+          "name": "Brandy Senki",
+          "url": "https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA"
         }
       ],
-      "duration_ms": 227798,
-      "name": "\u610f\u89e3\u3051\u306a\u3044",
-      "url": "https://open.spotify.com/track/6scErVzEb9MrpaMQCeTFld"
+      "duration_ms": 183637,
+      "name": "Musica",
+      "url": "https://open.spotify.com/track/1ZcyDDA4S9BQxJaVQNiKQ1"
     },
     {
       "added_at": "2024-09-10 15:00:08",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2024-09-10 15:00:08",
       "album": {
-        "name": "Musica",
-        "url": "https://open.spotify.com/album/15OsgQLfIzPAHgb8tXQ5XA"
+        "name": "\u610f\u89e3\u3051\u306a\u3044",
+        "url": "https://open.spotify.com/album/3kbsCLdjF3xWylKkSzvUtN"
       },
       "artists": [
         {
-          "name": "Brandy Senki",
-          "url": "https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA"
+          "name": "ammo",
+          "url": "https://open.spotify.com/artist/3482dVicMV9A5tThd1ufSx"
         }
       ],
-      "duration_ms": 183637,
-      "name": "Musica",
-      "url": "https://open.spotify.com/track/1ZcyDDA4S9BQxJaVQNiKQ1"
+      "duration_ms": 227798,
+      "name": "\u610f\u89e3\u3051\u306a\u3044",
+      "url": "https://open.spotify.com/track/6scErVzEb9MrpaMQCeTFld"
     },
     {
       "added_at": "2024-09-10 15:00:08",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-09-10 15:00:08",
       "album": {
-        "name": "Terminal",
-        "url": "https://open.spotify.com/album/3jkN1x44uOSBYsg5JbLTUa"
-      },
-      "artists": [
-        {
-          "name": "Ryukku to Soine Gohan",
-          "url": "https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D"
-        }
-      ],
-      "duration_ms": 278733,
-      "name": "long good-bye",
-      "url": "https://open.spotify.com/track/1bmg5GeIX2HhOOB1TrzWKF"
-    },
-    {
-      "added_at": "2024-09-10 15:00:08",
-      "album": {
         "name": "\u7fbd\u5316",
         "url": "https://open.spotify.com/album/2AbNjfO01Yyyeew0oYsHNR"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 145500,
       "name": "\u904e\u547c\u5438\u611b",
       "url": "https://open.spotify.com/track/2JPnyNJbfwBac5ij3jHaj2"
+    },
+    {
+      "added_at": "2024-09-10 15:00:08",
+      "album": {
+        "name": "Terminal",
+        "url": "https://open.spotify.com/album/3jkN1x44uOSBYsg5JbLTUa"
+      },
+      "artists": [
+        {
+          "name": "Ryukku to Soine Gohan",
+          "url": "https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D"
+        }
+      ],
+      "duration_ms": 278733,
+      "name": "long good-bye",
+      "url": "https://open.spotify.com/track/1bmg5GeIX2HhOOB1TrzWKF"
     }
   ],
   "unique_name": "\u9752\u6625\u3068\u4e00\u77ac",

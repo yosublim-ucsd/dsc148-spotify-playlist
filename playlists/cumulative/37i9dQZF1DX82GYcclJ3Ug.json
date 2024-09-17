@@ -16665,6 +16665,24 @@
     },
     {
       "album": {
+        "name": "HYPOCRITE",
+        "url": "https://open.spotify.com/album/1EuazudBc9kKhIPK0oThbO"
+      },
+      "artists": [
+        {
+          "name": "Lauren Sanderson",
+          "url": "https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj"
+        }
+      ],
+      "date_added": "2024-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198832,
+      "name": "HYPOCRITE",
+      "url": "https://open.spotify.com/track/3k2MD6jq9BAoNgYy85UBQH"
+    },
+    {
+      "album": {
         "name": "I Am Happy",
         "url": "https://open.spotify.com/album/2j3UeoEWrTnc6PVVbfBe6F"
       },

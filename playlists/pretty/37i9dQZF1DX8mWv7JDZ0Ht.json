@@ -1,6 +1,6 @@
 {
   "description": "Novidades do pop nacional pra te deixar mais leve! Foto: Gabriel Froede, Joyce Alane",
-  "num_followers": 435275,
+  "num_followers": 435250,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -383,6 +383,26 @@
     {
       "added_at": "2024-09-13 02:40:32",
       "album": {
+        "name": "N\u00d3S NUS",
+        "url": "https://open.spotify.com/album/5Q0BZT7rQ2pGzWaMXEVPgR"
+      },
+      "artists": [
+        {
+          "name": "Leo Cavalcanti",
+          "url": "https://open.spotify.com/artist/4kCmFwffgs5qxAX2kDeOru"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 304068,
+      "name": "N\u00d3S NUS",
+      "url": "https://open.spotify.com/track/3zRoNvRTovjZcycfZw7N7T"
+    },
+    {
+      "added_at": "2024-09-13 02:40:32",
+      "album": {
         "name": "Good Feeling About You (Brazilian Version)",
         "url": "https://open.spotify.com/album/3nZSdqzaXWAQiqpR3gMcOR"
       },
@@ -403,26 +423,6 @@
       "duration_ms": 196650,
       "name": "Good Feeling About You (Brazilian Version)",
       "url": "https://open.spotify.com/track/50Q5FldbFCv25ymPI0UqAo"
-    },
-    {
-      "added_at": "2024-09-13 02:40:32",
-      "album": {
-        "name": "N\u00d3S NUS",
-        "url": "https://open.spotify.com/album/5Q0BZT7rQ2pGzWaMXEVPgR"
-      },
-      "artists": [
-        {
-          "name": "Leo Cavalcanti",
-          "url": "https://open.spotify.com/artist/4kCmFwffgs5qxAX2kDeOru"
-        },
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 304068,
-      "name": "N\u00d3S NUS",
-      "url": "https://open.spotify.com/track/3zRoNvRTovjZcycfZw7N7T"
     },
     {
       "added_at": "2024-09-13 02:40:32",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-09-13 02:40:32",
       "album": {
-        "name": "me ama",
-        "url": "https://open.spotify.com/album/6pAbxvyXSCEhwVcGOFlFHj"
-      },
-      "artists": [
-        {
-          "name": "Georgia Castro",
-          "url": "https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ"
-        }
-      ],
-      "duration_ms": 226461,
-      "name": "me ama",
-      "url": "https://open.spotify.com/track/7abIkTM6Q5cC9uBKIyZ8hE"
-    },
-    {
-      "added_at": "2024-09-13 02:40:32",
-      "album": {
         "name": "Cria de Caxias",
         "url": "https://open.spotify.com/album/3J7pd00FYE2TSKfvwVVpn4"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 139541,
       "name": "Vit\u00f3ria",
       "url": "https://open.spotify.com/track/3qEXRDyn4B0mQQNlTOWzFT"
+    },
+    {
+      "added_at": "2024-09-13 02:40:32",
+      "album": {
+        "name": "me ama",
+        "url": "https://open.spotify.com/album/6pAbxvyXSCEhwVcGOFlFHj"
+      },
+      "artists": [
+        {
+          "name": "Georgia Castro",
+          "url": "https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ"
+        }
+      ],
+      "duration_ms": 226461,
+      "name": "me ama",
+      "url": "https://open.spotify.com/track/7abIkTM6Q5cC9uBKIyZ8hE"
     },
     {
       "added_at": "2024-09-13 02:40:32",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-09-13 02:40:32",
       "album": {
-        "name": "dos p\u00e9s a cabe\u00e7a",
-        "url": "https://open.spotify.com/album/3hRZ5gR2hn6EifOnilmllU"
-      },
-      "artists": [
-        {
-          "name": "Georgia Castro",
-          "url": "https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ"
-        }
-      ],
-      "duration_ms": 202286,
-      "name": "dos p\u00e9s a cabe\u00e7a",
-      "url": "https://open.spotify.com/track/5IWFZ5Od7wArGGxGo1kVAa"
-    },
-    {
-      "added_at": "2024-09-13 02:40:32",
-      "album": {
         "name": "Diante dos Olhos",
         "url": "https://open.spotify.com/album/4xQUvpsZBA4bAtyHRbYcUc"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 216988,
       "name": "Diante dos Olhos",
       "url": "https://open.spotify.com/track/4MS7gcn0uGhmzNWWl5RRwd"
+    },
+    {
+      "added_at": "2024-09-13 02:40:32",
+      "album": {
+        "name": "dos p\u00e9s a cabe\u00e7a",
+        "url": "https://open.spotify.com/album/3hRZ5gR2hn6EifOnilmllU"
+      },
+      "artists": [
+        {
+          "name": "Georgia Castro",
+          "url": "https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ"
+        }
+      ],
+      "duration_ms": 202286,
+      "name": "dos p\u00e9s a cabe\u00e7a",
+      "url": "https://open.spotify.com/track/5IWFZ5Od7wArGGxGo1kVAa"
     },
     {
       "added_at": "2024-09-13 02:40:32",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-09-13 02:40:32",
       "album": {
-        "name": "Prece",
-        "url": "https://open.spotify.com/album/5mXWvU6pyI85nzXB7jmPP2"
-      },
-      "artists": [
-        {
-          "name": "RAY",
-          "url": "https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot"
-        }
-      ],
-      "duration_ms": 227906,
-      "name": "Prece",
-      "url": "https://open.spotify.com/track/7lkPQvooh2A67blirWDP1j"
-    },
-    {
-      "added_at": "2024-09-13 02:40:32",
-      "album": {
         "name": "Como \u00e9 que se faz",
         "url": "https://open.spotify.com/album/59FTyUoEWJjgsLPvlTz4xh"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 244629,
       "name": "Como \u00e9 que se faz",
       "url": "https://open.spotify.com/track/5v6dcZq1rhA4m51X1x49c7"
+    },
+    {
+      "added_at": "2024-09-13 02:40:32",
+      "album": {
+        "name": "Prece",
+        "url": "https://open.spotify.com/album/5mXWvU6pyI85nzXB7jmPP2"
+      },
+      "artists": [
+        {
+          "name": "RAY",
+          "url": "https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot"
+        }
+      ],
+      "duration_ms": 227906,
+      "name": "Prece",
+      "url": "https://open.spotify.com/track/7lkPQvooh2A67blirWDP1j"
     },
     {
       "added_at": "2024-09-13 02:40:32",

@@ -1,6 +1,6 @@
 {
   "description": "como en una nube. Bedroom pop vibes featuring Paloma Morphy",
-  "num_followers": 51887,
+  "num_followers": 51902,
   "original_name": "dreamy \u2728",
   "owner": {
     "name": "Spotify",
@@ -859,26 +859,18 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
-        "name": "RESISTOL +",
-        "url": "https://open.spotify.com/album/4MzJewJ3ThSXETzrMG1wUT"
+        "name": "100m",
+        "url": "https://open.spotify.com/album/18xOhrxNNHE7MNVj6VNiyY"
       },
       "artists": [
         {
-          "name": "chicano wei",
-          "url": "https://open.spotify.com/artist/7EqiVYwHFYEKr843rp3NVt"
-        },
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        },
-        {
-          "name": "Chiquete",
-          "url": "https://open.spotify.com/artist/0XOIm8UCjrzJHRmSRzVRTP"
+          "name": "Caztro",
+          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
         }
       ],
-      "duration_ms": 190285,
-      "name": "RESISTOL +",
-      "url": "https://open.spotify.com/track/6WYgRI3X9b4Lqb4qroBrq7"
+      "duration_ms": 140547,
+      "name": "100m",
+      "url": "https://open.spotify.com/track/33QEJCjZdLkJEGILcGRndg"
     },
     {
       "added_at": "2024-07-05 06:00:00",
@@ -903,18 +895,26 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
-        "name": "100m",
-        "url": "https://open.spotify.com/album/18xOhrxNNHE7MNVj6VNiyY"
+        "name": "RESISTOL +",
+        "url": "https://open.spotify.com/album/4MzJewJ3ThSXETzrMG1wUT"
       },
       "artists": [
         {
-          "name": "Caztro",
-          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
+          "name": "chicano wei",
+          "url": "https://open.spotify.com/artist/7EqiVYwHFYEKr843rp3NVt"
+        },
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        },
+        {
+          "name": "Chiquete",
+          "url": "https://open.spotify.com/artist/0XOIm8UCjrzJHRmSRzVRTP"
         }
       ],
-      "duration_ms": 140547,
-      "name": "100m",
-      "url": "https://open.spotify.com/track/33QEJCjZdLkJEGILcGRndg"
+      "duration_ms": 190285,
+      "name": "RESISTOL +",
+      "url": "https://open.spotify.com/track/6WYgRI3X9b4Lqb4qroBrq7"
     },
     {
       "added_at": "2024-07-05 06:00:00",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
+        "name": "Amantes Astrales",
+        "url": "https://open.spotify.com/album/7b7z6A21xZfdpJNCPk94cT"
+      },
+      "artists": [
+        {
+          "name": "Kaia Lana",
+          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
+        }
+      ],
+      "duration_ms": 183056,
+      "name": "Amantes Astrales",
+      "url": "https://open.spotify.com/track/0dRTLMldDfPopHHYw9FzyA"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
         "name": "Fantasma",
         "url": "https://open.spotify.com/album/3Gwfk6hLAx66DXTW8xqJjo"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 201625,
       "name": "Fantasma",
       "url": "https://open.spotify.com/track/415oY7i4j1QVBVa5BM09nK"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
-        "name": "Amantes Astrales",
-        "url": "https://open.spotify.com/album/7b7z6A21xZfdpJNCPk94cT"
-      },
-      "artists": [
-        {
-          "name": "Kaia Lana",
-          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
-        }
-      ],
-      "duration_ms": 183056,
-      "name": "Amantes Astrales",
-      "url": "https://open.spotify.com/track/0dRTLMldDfPopHHYw9FzyA"
     },
     {
       "added_at": "2024-07-05 06:00:00",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
+        "name": "GARZA",
+        "url": "https://open.spotify.com/album/2eXBKS6GDiidtFKu10IFgJ"
+      },
+      "artists": [
+        {
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+        }
+      ],
+      "duration_ms": 206018,
+      "name": "GARZA",
+      "url": "https://open.spotify.com/track/26CbNWcJrCh6VX5MKU9ihD"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
         "name": "los pies",
         "url": "https://open.spotify.com/album/5DudjWk6xe6rJVTQpD2IIl"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 186673,
       "name": "los pies",
       "url": "https://open.spotify.com/track/3hZ20RZMCSjJfRdoyUVncW"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
-        "name": "GARZA",
-        "url": "https://open.spotify.com/album/2eXBKS6GDiidtFKu10IFgJ"
-      },
-      "artists": [
-        {
-          "name": "Cancamusa",
-          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
-        }
-      ],
-      "duration_ms": 206018,
-      "name": "GARZA",
-      "url": "https://open.spotify.com/track/26CbNWcJrCh6VX5MKU9ihD"
     },
     {
       "added_at": "2024-07-05 06:00:00",
@@ -1227,6 +1227,26 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
+        "name": "Acic\u00e1lame",
+        "url": "https://open.spotify.com/album/0l81vXuYP8EdwIjXG2YYrW"
+      },
+      "artists": [
+        {
+          "name": "Flac\u00f8",
+          "url": "https://open.spotify.com/artist/2MP4Sye1CkjSzki8eqG1ub"
+        },
+        {
+          "name": "RPLK",
+          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
+        }
+      ],
+      "duration_ms": 235596,
+      "name": "Acic\u00e1lame",
+      "url": "https://open.spotify.com/track/7pyY0YE7EJQ552qAK4l0mO"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
         "name": "Prendas Nuevas",
         "url": "https://open.spotify.com/album/0dRuyWtNthFiwfM054JJ10"
       },
@@ -1247,22 +1267,18 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
-        "name": "Acic\u00e1lame",
-        "url": "https://open.spotify.com/album/0l81vXuYP8EdwIjXG2YYrW"
+        "name": "Una noche que nunca termina",
+        "url": "https://open.spotify.com/album/0xcepcn70088Fgal5hLnsi"
       },
       "artists": [
         {
-          "name": "Flac\u00f8",
-          "url": "https://open.spotify.com/artist/2MP4Sye1CkjSzki8eqG1ub"
-        },
-        {
-          "name": "RPLK",
-          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
         }
       ],
-      "duration_ms": 235596,
-      "name": "Acic\u00e1lame",
-      "url": "https://open.spotify.com/track/7pyY0YE7EJQ552qAK4l0mO"
+      "duration_ms": 181987,
+      "name": "Una noche que nunca termina",
+      "url": "https://open.spotify.com/track/5FsobFWmtzBqmUw9qNkVhE"
     },
     {
       "added_at": "2024-07-05 06:00:00",
@@ -1287,26 +1303,6 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
-        "name": "Nada Que Perder",
-        "url": "https://open.spotify.com/album/4Jx1Ktxmbhn0mk5a2hGjoQ"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Centeno",
-          "url": "https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG"
-        },
-        {
-          "name": "Joaquina Mertz",
-          "url": "https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ"
-        }
-      ],
-      "duration_ms": 199853,
-      "name": "Nada Que Perder",
-      "url": "https://open.spotify.com/track/5ZKt9rCFpo7nssJp5hlkiu"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
         "name": "Fin De Los Tiempos",
         "url": "https://open.spotify.com/album/1sAIlus0nePmPgjEGJkqSL"
       },
@@ -1323,18 +1319,22 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
-        "name": "About You",
-        "url": "https://open.spotify.com/album/1Foa824MwXtyHNov2zbPHK"
+        "name": "Nada Que Perder",
+        "url": "https://open.spotify.com/album/4Jx1Ktxmbhn0mk5a2hGjoQ"
       },
       "artists": [
         {
-          "name": "Sexy Pigeon",
-          "url": "https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U"
+          "name": "Mar\u00eda Centeno",
+          "url": "https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG"
+        },
+        {
+          "name": "Joaquina Mertz",
+          "url": "https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ"
         }
       ],
-      "duration_ms": 174116,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/4QoZMxwAGm4yDYlNoHNyHN"
+      "duration_ms": 199853,
+      "name": "Nada Que Perder",
+      "url": "https://open.spotify.com/track/5ZKt9rCFpo7nssJp5hlkiu"
     }
   ],
   "unique_name": "dreamy \u2728",

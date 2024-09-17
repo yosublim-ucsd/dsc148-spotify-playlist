@@ -258,7 +258,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 217703,
       "name": "Annen som du",
       "url": "https://open.spotify.com/track/4DMSneArB5W5BTAz8A2ij4"
@@ -3182,6 +3182,28 @@
       "duration_ms": 267133,
       "name": "N\u00e5r m\u00e5nen lyser",
       "url": "https://open.spotify.com/track/0w9NPRolxSnW7eynjqeZp9"
+    },
+    {
+      "album": {
+        "name": "Peiling feat. \u00d8ystein Greni",
+        "url": "https://open.spotify.com/album/29D39IIN621Usm8AB3mv3l"
+      },
+      "artists": [
+        {
+          "name": "Klossmajor",
+          "url": "https://open.spotify.com/artist/1XgbkJNbyHcYaa4WAjGlCc"
+        },
+        {
+          "name": "Greni",
+          "url": "https://open.spotify.com/artist/7GgksazCOqOwZE9IoCpDLg"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Peiling feat. \u00d8ystein Greni",
+      "url": "https://open.spotify.com/track/7ezryXKj7BMWtsfdp5o8kX"
     },
     {
       "album": {

@@ -711,17 +711,17 @@
     {
       "added_at": "2024-08-01 22:01:00",
       "album": {
-        "name": "ULTRANCE",
+        "name": "",
         "url": "https://open.spotify.com/album/0eqxXDKHDPPYIUs59r6Vvv"
       },
       "artists": [
         {
-          "name": "NZIRIA",
-          "url": "https://open.spotify.com/artist/4bt8JAxE4tksg2VBgMCvIe"
+          "name": "artist",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
         }
       ],
-      "duration_ms": 339999,
-      "name": "ULTRANCE",
+      "duration_ms": 0,
+      "name": "",
       "url": "https://open.spotify.com/track/11O2CGvvumz63FcH4VYUMx"
     },
     {

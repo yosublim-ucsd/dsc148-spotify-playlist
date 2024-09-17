@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-369 songs - 21 hr 59 min
+370 songs - 22 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Fishes](https://open.spotify.com/track/44A7sEU3BaDxjAPE5aupcS) | [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi) | [We'll Talk Soon](https://open.spotify.com/album/62FAK7BPLY2AB0oq6mCJ0p) | 4:22 | 2024-04-18 |  |
 | [Fkn Around \(feat\. Megan Thee Stallion\) \- Cuppy Remix](https://open.spotify.com/track/15LBKnN52Sxs9RF3oU1ARA) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Cuppy](https://open.spotify.com/artist/12BjfR9LIzpDecdcMGvu7f) | [Fkn Around \(feat\. Megan Thee Stallion\) \[Cuppy Remix\]](https://open.spotify.com/album/0XoxlkhNlweuQ8E5GeELTr) | 3:14 | 2022-09-09 | 2022-09-16 |
 | [Flashing Lights](https://open.spotify.com/track/1sK3qSrr5cbVBbFobG2Gjh) | [Dragonfruit](https://open.spotify.com/artist/5XedNczaTKAEy9NrSXZeUy) | [Flashing Lights](https://open.spotify.com/album/25p8WJ7KjgpXVH5RvZqyxv) | 3:33 | 2023-02-16 |  |
+| [Flatlining \- Shamis Remix](https://open.spotify.com/track/07AeQ6h4PTbh3m8Fx89u6i) | [Rilan & The Bombardiers](https://open.spotify.com/artist/1yawxcvEJTTtsz2aX3yruE), [Shamis](https://open.spotify.com/artist/6zJSQoZfurX2beU3qbe717) | [Flatlining \- Shamis Remix](https://open.spotify.com/album/6AlwUsiyWlD7j6zdMSQMSO) | 5:24 | 2024-09-16 |  |
 | [For Free](https://open.spotify.com/track/3I9DuWW4ZeTuQ6lmLAHXZo) | [Adia](https://open.spotify.com/artist/7hodbs05Q9ZhGCgflz3xdM), [Brittney Carter](https://open.spotify.com/artist/32YAZ7xdjxw5RWBevTCUUM) | [For Free](https://open.spotify.com/album/23uNR1zjGaklSeBKCKcRPs) | 4:05 | 2024-05-24 |  |
 | [Found Without Searching](https://open.spotify.com/track/6ol1UDjGWnfNs5BvAP8suV) | [Calundé](https://open.spotify.com/artist/4cNiCiyVjl5qDdJYqiuxxX) | [Found Without Searching](https://open.spotify.com/album/5fW9qR76fuA5QBeSw0qENR) | 3:45 | 2022-09-09 |  |
 | [Frail Moments, Same Page](https://open.spotify.com/track/7fbyAOxgJJUeFL9p0M2AvZ) | [vAn](https://open.spotify.com/artist/31zEC5Veeh3aoNFfiv1poC) | [Frail Moments, Same Page](https://open.spotify.com/album/2k2rgwK0WgzWFJDck4ixeS) | 3:44 | 2022-09-09 | 2024-04-11 |

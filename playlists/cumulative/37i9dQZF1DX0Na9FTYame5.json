@@ -807,6 +807,28 @@
     },
     {
       "album": {
+        "name": "Happy ohne dich",
+        "url": "https://open.spotify.com/album/2lJ71g8MyDBA21XD06TiTV"
+      },
+      "artists": [
+        {
+          "name": "CIVO",
+          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
+        },
+        {
+          "name": "Maxe",
+          "url": "https://open.spotify.com/artist/6YTILOAf9umh7RMEJdigWm"
+        }
+      ],
+      "date_added": "2024-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133846,
+      "name": "Happy ohne dich",
+      "url": "https://open.spotify.com/track/39RD5peOciUGQEHzYt3rJe"
+    },
+    {
+      "album": {
         "name": "Herzfeind (Titelsong zum Film \u201eTrauzeugen\u201c)",
         "url": "https://open.spotify.com/album/7ck5XxkoEY7Y7K7QcHzrbZ"
       },
@@ -1692,7 +1714,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 101714,
       "name": "Normal ist",
       "url": "https://open.spotify.com/track/57S16PUBDXaKLYpEH9V4L5"
@@ -2117,6 +2139,24 @@
     },
     {
       "album": {
+        "name": "Tagebuch",
+        "url": "https://open.spotify.com/album/1QtK03Y9d4ufaBxbV5VPmn"
+      },
+      "artists": [
+        {
+          "name": "Symba",
+          "url": "https://open.spotify.com/artist/1VmIfQToGVtxmv2w3QtyVY"
+        }
+      ],
+      "date_added": "2024-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138999,
+      "name": "Tagebuch",
+      "url": "https://open.spotify.com/track/5uLJ84Xbogv04RLgMhJxNq"
+    },
+    {
+      "album": {
         "name": "tempo",
         "url": "https://open.spotify.com/album/3T77zsspapRdhGH9FXf4A7"
       },
@@ -2154,7 +2194,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 182602,
       "name": "Tinnitus",
       "url": "https://open.spotify.com/track/4SamJ1uIL2OzAFgDGdnhx0"

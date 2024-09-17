@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 
 > Entre na onda com hits tropicais e remixes para curtir a praia com amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,677 likes - 70 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,691 likes - 70 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 67 | [Aurora](https://open.spotify.com/track/5DEy27mge0YVglYMfjgak6) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Double MZK](https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI) | [Aurora](https://open.spotify.com/album/0TLb9JNDquLhasSkRI0mxA) | 2:30 |
 | 68 | [Roda Gigante](https://open.spotify.com/track/4ZbPzncqIaim9AhBaI5iO2) | [Jetlag Music](https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh), [Zabot](https://open.spotify.com/artist/0THJM1gyjt92ogxB0A9SrB), [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB) | [Roda Gigante](https://open.spotify.com/album/0pO3jAs20jXXsevyFf1R7o) | 2:58 |
 | 69 | [Mais um Dia](https://open.spotify.com/track/3ITlmTf0fgkY0YLWUQzGfk) | [Breno Miranda](https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n) | [Mais um Dia](https://open.spotify.com/album/5sdl2ykjnptMYB9ohAAxLR) | 2:18 |
-| 70 | [Make Me Wanna](https://open.spotify.com/track/7EwkcUIoPXh67ampCvRk6I) | [Selva](https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa), [Zerky](https://open.spotify.com/artist/3DAlQBPv5zWasPxV5Tr8ok) | [Alok Presents Brazilian Bass: Pt\. 1](https://open.spotify.com/album/1tgfni2oyGJMqrl73x3r6Z) | 2:53 |
+| 70 | [A Dois Passos do Paraíso \- Remix](https://open.spotify.com/track/1pXXIiYHe8sqZlE1yKQG6b) | [Blitz](https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ), [Guz Zanotto](https://open.spotify.com/artist/4s2oHxyGNA3QZBeWELgBJI), [Overdriver Duo](https://open.spotify.com/artist/37knAlDxPb6FSnBQJNzM18), [Evandro Carlos Tiburski](https://open.spotify.com/artist/3WnTOvr9Hr4aPgVXr7vun7) | [A Dois Passos do Paraíso \(Remix\)](https://open.spotify.com/album/1at0bvTPBCtDv2a9nPnlRB) | 3:29 |
 
 Snapshot ID: `ZuOrZAAAAABK4ThpFPuPM8bO+FX1l1o0`

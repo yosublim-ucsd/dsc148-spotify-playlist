@@ -1,12 +1,12 @@
 {
   "description": "The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist. Cover: Nines",
-  "num_followers": 984482,
+  "num_followers": 984483,
   "original_name": "Who We Be",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuQGWQAAAACEA4kd3ZCQePyhGhCdoXcL",
+  "snapshot_id": "ZugcTgAAAADynFukXFBSlWukC/Mjha/G",
   "tracks": [
     {
       "added_at": "2024-09-12 23:00:00",
@@ -107,6 +107,22 @@
       "duration_ms": 126792,
       "name": "A Lot",
       "url": "https://open.spotify.com/track/7K2Rpqgu1rvKInUmp5w4kJ"
+    },
+    {
+      "added_at": "2024-09-16 11:53:50",
+      "album": {
+        "name": "ALL RED",
+        "url": "https://open.spotify.com/album/3cdcIcidzGHVQW5e9qQgtx"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 148053,
+      "name": "ALL RED",
+      "url": "https://open.spotify.com/track/2cZOYofOX4d6g0OXxkaIjA"
     },
     {
       "added_at": "2024-09-13 08:34:24",
@@ -367,6 +383,26 @@
       "duration_ms": 172972,
       "name": "Senseless",
       "url": "https://open.spotify.com/track/0vsFfDnswdjpK4MV4TLBFo"
+    },
+    {
+      "added_at": "2024-09-16 11:53:50",
+      "album": {
+        "name": "Demure",
+        "url": "https://open.spotify.com/album/1JjMu4LK6OkJEuRjJxXabX"
+      },
+      "artists": [
+        {
+          "name": "ArrDee",
+          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
+        },
+        {
+          "name": "LeoStayTrill",
+          "url": "https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX"
+        }
+      ],
+      "duration_ms": 141047,
+      "name": "Demure",
+      "url": "https://open.spotify.com/track/0Rr2gpHt1LEiVqB4lcLa8N"
     },
     {
       "added_at": "2024-09-12 23:00:00",
@@ -1391,22 +1427,6 @@
     {
       "added_at": "2024-09-12 23:00:00",
       "album": {
-        "name": "Nelly & Kelly",
-        "url": "https://open.spotify.com/album/6EGAMJToxNacBIe6hbAYie"
-      },
-      "artists": [
-        {
-          "name": "Kairo Keyz",
-          "url": "https://open.spotify.com/artist/16WiaItNjYShr5vFzzg7nQ"
-        }
-      ],
-      "duration_ms": 126131,
-      "name": "Nelly & Kelly",
-      "url": "https://open.spotify.com/track/1D4Z3SdmxBPgzufaNEJZj6"
-    },
-    {
-      "added_at": "2024-09-12 23:00:00",
-      "album": {
         "name": "Just Imagine...",
         "url": "https://open.spotify.com/album/4ooUeAkwr8SmLFflcyKaYH"
       },
@@ -1459,26 +1479,6 @@
       "duration_ms": 143043,
       "name": "HIT or MISS",
       "url": "https://open.spotify.com/track/1Bv0bBB8jbDlHxKOuROr4A"
-    },
-    {
-      "added_at": "2024-09-12 23:00:00",
-      "album": {
-        "name": "Boom (feat. Tokischa)",
-        "url": "https://open.spotify.com/album/4Liw2H1qC6Nq3ojx8wQBOB"
-      },
-      "artists": [
-        {
-          "name": "Skillibeng",
-          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
-        },
-        {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-        }
-      ],
-      "duration_ms": 132644,
-      "name": "Boom (feat. Tokischa)",
-      "url": "https://open.spotify.com/track/0OCdChh8IoBCIm3kVGY3GN"
     }
   ],
   "unique_name": "Who We Be",

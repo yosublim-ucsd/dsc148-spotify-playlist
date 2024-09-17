@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1E4vLyj0srrBvo.md) - cumulative - [plain](/playlists/plain/37i9dQZF1E4vLyj0srrBvo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1E4vLyj0srrBvo)
 
-### [Radio de Grimes](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
+### [Rádio de Grimes](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
 
-> Con Pastel Ghost, Cults, Sidewalks and Skeletons y más
+> Com Pastel Ghost, Cults, Sidewalks and Skeletons e mais
 
 1,781 songs - 4 day 13 hr 31 min
 
@@ -519,7 +519,7 @@
 | [EUPHORIA](https://open.spotify.com/track/2GwT1y4I0Ay5OENzLuSEtq) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [DISCO3](https://open.spotify.com/album/3K10ND4pwiQr2qAMAzfr7l) | 3:27 | 2022-03-11 | 2022-05-23 |
 | [Eva](https://open.spotify.com/track/5Wn54pnxc4P9Pc37ti0dct) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Serotonin II](https://open.spotify.com/album/5HZHvhX5TpJJD6hTgn0j0D) | 3:34 | 2022-03-21 | 2022-10-15 |
 | [Even If It Hurts](https://open.spotify.com/track/4CwchvMNlpQSpQGKEK3sAw) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [La Linda](https://open.spotify.com/album/05ZdcQ2F8wSobCk3ypo15O) | 4:11 | 2020-10-21 | 2022-03-08 |
-| [Eventually](https://open.spotify.com/track/5M4yti0QxgqJieUYaEXcpw) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 5:18 | 2024-03-01 | 2024-09-16 |
+| [Eventually](https://open.spotify.com/track/5M4yti0QxgqJieUYaEXcpw) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 5:18 | 2024-03-01 |  |
 | [Everybody Wants to Love You](https://open.spotify.com/track/38OvTFIg5ZYRow2sA1jgKo) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Psychopomp](https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G) | 2:12 | 2022-10-10 | 2024-01-11 |
 | [Everybody Wants to Love You](https://open.spotify.com/track/3YufkKqsssZ8wt9T24ULSj) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Psychopomp](https://open.spotify.com/album/3i7EHinpu9J5MXKMzjpjZ0) | 2:12 | 2022-03-23 | 2022-05-04 |
 | [Everyday](https://open.spotify.com/track/2VYqgye3Wf9ySE4qYM3iJn) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Titanic Rising](https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk) | 5:07 | 2021-04-11 | 2022-03-05 |
@@ -661,7 +661,7 @@
 | [goods](https://open.spotify.com/track/1M0QewBY7mN46qYwqqVKdn) | [iamamiwhoami](https://open.spotify.com/artist/6UOcY6w4K6Ek5Lw5rFDHdP), [ionnalee](https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv) | [kin](https://open.spotify.com/album/22GqBntPW6pTyOTb3RjMFF) | 5:08 | 2022-03-09 | 2022-09-04 |
 | [Gospel For A New Century](https://open.spotify.com/track/46LX0sSwIU4GFLcj23ZfMA) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Heaven To A Tortured Mind](https://open.spotify.com/album/5wnCTZtzIZxasRSHzI1JeW) | 3:18 | 2020-10-28 | 2022-10-14 |
 | [Got My Number](https://open.spotify.com/track/10pb48uTPwADEC9yb7j2ty) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Clarity](https://open.spotify.com/album/3IcJmQcFPkitObupYRNgd7) | 2:54 | 2020-10-24 | 2021-06-20 |
-| [Goth](https://open.spotify.com/track/0uMZbmAAgOhdMrv25iPEH6) | [Sidewalks and Skeletons](https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1) | [White Light](https://open.spotify.com/album/0Iq6APTGuGPe875jV0rIw2) | 3:27 | 2022-03-27 |  |
+| [Goth](https://open.spotify.com/track/0uMZbmAAgOhdMrv25iPEH6) | [Sidewalks and Skeletons](https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1) | [White Light](https://open.spotify.com/album/0Iq6APTGuGPe875jV0rIw2) | 3:27 | 2022-03-27 | 2024-09-17 |
 | [Goth Star](https://open.spotify.com/track/6yORRMExAPC131MqwTHirp) | [Pictureplane](https://open.spotify.com/artist/5E1yjMbMNS3ghJbXtEvQCe) | [Dark Rift](https://open.spotify.com/album/6FQSyixzNoznVJJXhp7V3R) | 3:19 | 2022-07-25 | 2022-07-26 |
 | [Government Hooker](https://open.spotify.com/track/4KZAsdL0PeGvmPbSr0hyG4) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 4:14 | 2024-03-14 | 2024-03-28 |
 | [Goya](https://open.spotify.com/track/0oiUCdRLvhT0tDYG5unvaT) | [Labyrinth Ear](https://open.spotify.com/artist/51kDu9CfyGBpcgMwy8MlEd) | [Apparitions](https://open.spotify.com/album/0Yn5Yc4qK1wZMhjAJO0uQz) | 3:56 | 2023-04-12 | 2024-01-19 |
@@ -969,7 +969,7 @@
 | [Love Me Wrong](https://open.spotify.com/track/6XmLlAoo6JgsIP7xhMoGTz) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Cape God](https://open.spotify.com/album/4J8jmljF3FvpyhPjyB1fae) | 3:12 | 2021-02-03 | 2021-08-12 |
 | [Love Will Survive](https://open.spotify.com/track/4Z0FMcJOMGZHP3VlebB0NV) | [Martina Kaiser](https://open.spotify.com/artist/3bxNRkVOheBpQuMXfiETDX) | [Love Will Survive](https://open.spotify.com/album/4RSqbub4dvvNOOa6Y6V4Td) | 3:40 | 2022-04-04 | 2022-04-05 |
 | [Love/Paranoia](https://open.spotify.com/track/5h9hkYIBWTZYFRmF6Iz1gt) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 3:05 | 2024-02-23 | 2024-02-29 |
-| [Lovers From The Past](https://open.spotify.com/track/69cGlmgNyMf2K6AvmLBuRD) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [Lovers From The Past](https://open.spotify.com/album/6Z4eMptTUBwtdJHQeNV91N) | 3:19 | 2023-12-25 |  |
+| [Lovers From The Past](https://open.spotify.com/track/69cGlmgNyMf2K6AvmLBuRD) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [Lovers From The Past](https://open.spotify.com/album/6Z4eMptTUBwtdJHQeNV91N) | 3:19 | 2023-12-25 | 2024-09-17 |
 | [Lovers Rock](https://open.spotify.com/track/1H7zdcRD0gLGQY0w5ejGgX) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [French Exit](https://open.spotify.com/album/6WrxgVbi9Q96gV8tZMq3FH) | 3:33 | 2020-12-21 | 2021-05-08 |
 | [Lovers Rock](https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [French Exit](https://open.spotify.com/album/4Hai0uVzRbyTSaTPzxTY4e) | 3:33 | 2024-01-05 | 2024-07-11 |
 | [LUCID](https://open.spotify.com/track/5DVATjQZPVsm5kWbrPmekU) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [LUCID](https://open.spotify.com/album/77ouoghU4UrNpO63JWLR2C) | 3:38 | 2020-12-01 | 2021-05-06 |
@@ -1372,7 +1372,7 @@
 | [She Bangs Like a Fairy on Acid](https://open.spotify.com/track/3awA5h5b7xwPxCIlUK1p4c) | [Elita](https://open.spotify.com/artist/7ApzfFN0BmeeVJPsQBReRv) | [Dysania](https://open.spotify.com/album/4pOYgdkvLhLSydbYbJOeD2) | 2:55 | 2023-05-04 | 2024-03-05 |
 | [She Bangs Like a Fairy on Acid](https://open.spotify.com/track/4e2Jje6I9Y5hJVCg7QPnIv) | [Elita](https://open.spotify.com/artist/7ApzfFN0BmeeVJPsQBReRv) | [She Bangs Like a Fairy on Acid](https://open.spotify.com/album/1ZihE7uvcauy0odKAIJCY4) | 2:55 | 2023-03-08 | 2023-03-25 |
 | [She's My Collar \(feat\. Kali Uchis\)](https://open.spotify.com/track/3lIxtCaROdRDuTnNBDm3n2) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Humanz \(Deluxe\)](https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE) | 3:29 | 2024-04-19 | 2024-06-20 |
-| [Sheesh \(feat\. Grimes\)](https://open.spotify.com/track/56Y6V54T1d4ywfZMfk8DUS) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Hey u x](https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF) | 3:33 | 2022-09-26 | 2024-09-16 |
+| [Sheesh \(feat\. Grimes\)](https://open.spotify.com/track/56Y6V54T1d4ywfZMfk8DUS) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Hey u x](https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF) | 3:33 | 2022-09-26 |  |
 | [Shine a Light](https://open.spotify.com/track/57aTmoNXPe7axyq3107Szm) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Static](https://open.spotify.com/album/6WnfWrfsfu7T9TXbHIFHX9) | 3:14 | 2022-10-08 | 2022-10-12 |
 | [shines](https://open.spotify.com/track/5mfAiLCfK41fHfW4vlYw73) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4), [Black Dresses](https://open.spotify.com/artist/7FFwJQ58hAy7PMo4lUBW96) | [shines](https://open.spotify.com/album/3QaR7sFT3kj04Prl5j0erl) | 3:38 | 2023-08-20 | 2023-08-28 |
 | [Shinigami Eyes](https://open.spotify.com/track/0YQEWdfq3ajtNtK106Dr0k) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Shinigami Eyes](https://open.spotify.com/album/4wsyyLWO72hZ39U6hrl31A) | 2:39 | 2022-01-29 |  |

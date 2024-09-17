@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 
 > Musica dalla comunità LGBQTIA+ 🇮🇹 STE in cover ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,643 likes - 88 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,643 likes - 88 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 38 | [Chi Ama Brucia](https://open.spotify.com/track/6E72u7gme1bAjQjPs1H29m) | [Ragazza Milano](https://open.spotify.com/artist/0OY6LGQu7fk8V4X43c81zn) | [Chi Ama Brucia](https://open.spotify.com/album/1rVqCLxybZCUtyCfaF9SwO) | 2:06 |
 | 39 | [CARAMELLE](https://open.spotify.com/track/4YQ9Fbo5xyKlenSjmNbcqk) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [LA NOTTE](https://open.spotify.com/album/0ffV9Lc7faWdmmvEKHHpiA) | 2:43 |
 | 40 | [Young Forever](https://open.spotify.com/track/0eU6ogqTZmNiARD4PGNaJo) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Young Forever](https://open.spotify.com/album/0GIZIsdYluq59vJolVAOfc) | 3:50 |
-| 41 | [ULTRANCE](https://open.spotify.com/track/11O2CGvvumz63FcH4VYUMx) | [NZIRIA](https://open.spotify.com/artist/4bt8JAxE4tksg2VBgMCvIe) | [ULTRANCE](https://open.spotify.com/album/0eqxXDKHDPPYIUs59r6Vvv) | 5:39 |
+| 41 | [](https://open.spotify.com/track/11O2CGvvumz63FcH4VYUMx) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0eqxXDKHDPPYIUs59r6Vvv) | 0:00 |
 | 42 | [Bandiera Bianca \(feat\. Schiuma\)](https://open.spotify.com/track/4OuN0P20LGrI0glXatZqTs) | [Blue Phelix](https://open.spotify.com/artist/1CfqAv8GdSvNor3kAWFTEt), [Yosef](https://open.spotify.com/artist/378o9Oxd0RjAFnmFNjl6zB), [Schiuma](https://open.spotify.com/artist/3HjRoFEZwL58GYiXQ0KNlD) | [Bandiera Bianca \(feat\. Schiuma\)](https://open.spotify.com/album/0etE8FFEYUrvMnxDKNohy9) | 2:54 |
 | 43 | [Bloody Mary](https://open.spotify.com/track/6dfus00rufybawdDBasdG8) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [Bloody Mary](https://open.spotify.com/album/0nwNGmFOJkmEy5zI9rFwVr) | 2:15 |
 | 44 | [Piccola Inutile](https://open.spotify.com/track/2BrerWrh38QmRzjaeN9PMU) | [Queen of Saba](https://open.spotify.com/artist/26rDnlXGp18EMtbgV7OwsW) | [Piccola Inutile](https://open.spotify.com/album/220BF5aubxcU1oxYpl4qwg) | 3:19 |

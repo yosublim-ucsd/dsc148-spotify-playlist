@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Aaron Parks, David Ginyard Jr, Greg Tuohey & Jongkuk Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 936,526 likes - 100 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 936,607 likes - 100 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [Calling Dreams \(feat\. Flyana Boss\)](https://open.spotify.com/track/1thdb2b3h04HS0n3du72uN) | [Ebonie Smith](https://open.spotify.com/artist/3N2TVDR39zCIpfsg73ZzJS), [On Imagination](https://open.spotify.com/artist/7FB5WHVSU9Flq5TTbV11Fs), [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [On Imagination](https://open.spotify.com/album/1hcghxF9FXgIE7zeQ3C9Ev) | 1:17 |
 | 100 | [Universal Language](https://open.spotify.com/track/17XLE3fJtYTyP2t7J0zdvk) | [Myele Manzanza](https://open.spotify.com/artist/1UC8QBhdrzQGgnGPcdEMDd), [Matthew Sheens](https://open.spotify.com/artist/0JPXDx4VWAKMfFCVg2mw5E), [Matt Penman](https://open.spotify.com/artist/7HSQeZZSI9YNyVe2emSM9k) | [Universal Language](https://open.spotify.com/album/1bAhvqzvSwitN4OfRv8HNe) | 4:04 |
 
-Snapshot ID: `ZuO4/AAAAAAo42W0P793AeYVXXbNoNsU`
+Snapshot ID: `ZuO4/AAAAABDHrttr1S1Nin1hZSXY7t6`

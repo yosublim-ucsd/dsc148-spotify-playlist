@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6f8N8qe1L2qiB0f5U0sCp7">George Gershwin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 353 likes - 148 songs - 11 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 354 likes - 148 songs - 11 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 77 | [Niet Voor Mij Alleen](https://open.spotify.com/track/33T3wNvINj0gHMu18bgeJN) | [Kommil Foo](https://open.spotify.com/artist/68X7EQtVYHuUAYoFilK3wE) | [Wolf](https://open.spotify.com/album/3304CAyy9hPpSlCDS1UWA9) | 4:37 |
 | 78 | [Unidentified Piece for Banjo](https://open.spotify.com/track/7qwg41kYUkFQXhyl0jQ4b9) | [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU) | [Rhapsody in Blue \(grass\)](https://open.spotify.com/album/5XeyyuXub22TpOXd3B1RzB) | 3:19 |
 | 79 | [Promenade \(Walking The Dog\)](https://open.spotify.com/track/50ixhMuQBDlZcXFbOMW6Yq) | [Nelson Riddle](https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb) | [Ella Fitzgerald Sings The George And Ira Gershwin Song Book](https://open.spotify.com/album/0R4cTfOy202dHa2x1bMnsw) | 2:32 |
-| 80 | [Oh Dey's So Fresh And Fine \(Strawberry Woman\)](https://open.spotify.com/track/4ngD285cJ9UXUQZ2FbyOJL) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Plays Porgy And Bess](https://open.spotify.com/album/083nSCiHBU3Ah6IUQKzjxL) | 0:52 |
-| 81 | [King of Swing \- Quickstep / 50 BPM](https://open.spotify.com/track/0MIMPdE7YaanuLldAJmHfq) | [Dancelife](https://open.spotify.com/artist/44Hppr7s8DtpopWygoFRrj) | [Dancelife presents: Bring 14 Smiles to Your Feet](https://open.spotify.com/album/7Fuw2rzz5VV0Qen2QKGYO0) | 2:01 |
+| 80 | [King of Swing \- Quickstep / 50 BPM](https://open.spotify.com/track/0MIMPdE7YaanuLldAJmHfq) | [Dancelife](https://open.spotify.com/artist/44Hppr7s8DtpopWygoFRrj) | [Dancelife presents: Bring 14 Smiles to Your Feet](https://open.spotify.com/album/7Fuw2rzz5VV0Qen2QKGYO0) | 2:01 |
+| 81 | [Oh Dey's So Fresh And Fine \(Strawberry Woman\)](https://open.spotify.com/track/4ngD285cJ9UXUQZ2FbyOJL) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Plays Porgy And Bess](https://open.spotify.com/album/083nSCiHBU3Ah6IUQKzjxL) | 0:52 |
 | 82 | [Gershwin: Porgy and Bess, Act 2, Scene 1: "Oh, I can't sit down" \(Maria, Bess, Porgy, Chorus\)](https://open.spotify.com/track/10lJT9VwEPBlBBzxKJmguK) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Sir Willard White/Cynthia Haymon/Marietta Simpson/Glyndebourne Chorus/London Philharmonic Orchestra/Sir Simon Rattle](https://open.spotify.com/artist/2jIQ4wTk7o2nS6ZgXCO6gO), [Willard White](https://open.spotify.com/artist/4vteTJJmyFSu91w1rxv1Xv), [Cynthia Haymon](https://open.spotify.com/artist/6AtgdNp2Q7d9IpBTILhoHC), [Glyndebourne Festival Chorus](https://open.spotify.com/artist/1p4y529sRq6IlgVDY1lFu1), [Marietta Simpson](https://open.spotify.com/artist/0PT7kJyKkN793JgwIXjLTC), [Sir Simon Rattle](https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp), [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA) | [Gershwin: Porgy & Bess](https://open.spotify.com/album/6JOrscZTwb7OH6e5EM9Jyg) | 4:23 |
 | 83 | [Swiss Miss](https://open.spotify.com/track/6qeTkxWiaqZO8XDA2SgQNr) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Maurizio Zaccaria](https://open.spotify.com/artist/4fXE8DJVfCK0NjmUIGYVtQ) | [Gershwin: Complete Piano Works](https://open.spotify.com/album/3LY0vX4TBU0spPk0r0LXDZ) | 2:46 |
 | 84 | [How Long Has This Been Going On](https://open.spotify.com/track/2faM3FzoQh6vIH8I0tkjct) | [Chris Connor](https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ) | [A Foggy Day](https://open.spotify.com/album/55rZXmosS2ehCezw1vnqEg) | 2:32 |
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 147 | [Mary, Queen Of Scots](https://open.spotify.com/track/5CSSuStXPBgDlh9zpWiVI6) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [Primrose](https://open.spotify.com/album/3vzbMJ8Ft5sE4y8pzNv782) | 3:40 |
 | 148 | [If God Want to Kill Me](https://open.spotify.com/track/7FA747HPTXCToNteipCCab) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [George Gershwin's Complete Porgy and Bess \(Hd Remastered\)](https://open.spotify.com/album/1cCswl4XmfcFPvuExNOapI) | 2:05 |
 
-Snapshot ID: `AbcPiAAAAABDMmFIB5Gm/RHTULwfXgC1`
+Snapshot ID: `AbcVFAAAAAAhDF24VCFo06IIZjQjnVwd`

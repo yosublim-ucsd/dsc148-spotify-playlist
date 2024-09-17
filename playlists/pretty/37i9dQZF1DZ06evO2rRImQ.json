@@ -1,12 +1,12 @@
 {
   "description": "This Is Banda Los Recoditos. Los temas esenciales, todos en una lista.",
-  "num_followers": 193929,
+  "num_followers": 193950,
   "original_name": "This Is Banda Los Recoditos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuTSAAAAAADfiJlxyIY8Wdz1jx/NM9pr",
+  "snapshot_id": "ZuYjgAAAAABnwx5etEtRSCwpGtILZwip",
   "tracks": [
     {
       "added_at": null,
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Free",
-        "url": "https://open.spotify.com/album/6BmzjJPjWBVfTwbKMFdTUs"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 187666,
-      "name": "Cuando Te Entregues A \u00c9l",
-      "url": "https://open.spotify.com/track/6uh4lKGlcy14su96RvV6df"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Est\u00e1 Gustando",
         "url": "https://open.spotify.com/album/3LLGf8yNKPKud3ErCdOkAu"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 179933,
       "name": "Recu\u00e9rdenme As\u00ed",
       "url": "https://open.spotify.com/track/6RKSDzGKc79UlnB7rpgZxl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Free",
+        "url": "https://open.spotify.com/album/6BmzjJPjWBVfTwbKMFdTUs"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 187666,
+      "name": "Cuando Te Entregues A \u00c9l",
+      "url": "https://open.spotify.com/track/6uh4lKGlcy14su96RvV6df"
     },
     {
       "added_at": null,
@@ -495,26 +495,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vive La Casa",
-        "url": "https://open.spotify.com/album/7kSdNigQ9fxD8LCvA72PEg"
+        "name": "Siempre Te Voy a Recordar",
+        "url": "https://open.spotify.com/album/4DpjDJVVOVbtCtNWF3r7cJ"
       },
       "artists": [
         {
-          "name": "Banda El Recodo De Cruz Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/43VlOgQ69q6akopSjeH2J4"
-        },
-        {
           "name": "Banda Los Recoditos",
           "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        },
-        {
-          "name": "Fernando Corona",
-          "url": "https://open.spotify.com/artist/29YNHs1rF7R6Wtl0pY0sZm"
         }
       ],
-      "duration_ms": 189600,
-      "name": "Vive La Casa",
-      "url": "https://open.spotify.com/track/1dqV0xL8k2i0sdJ8yLapcI"
+      "duration_ms": 232489,
+      "name": "Siempre Te Voy A Recordar",
+      "url": "https://open.spotify.com/track/3JD6sfN3xeizYSOdb5Lsko"
     },
     {
       "added_at": null,
@@ -535,18 +527,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siempre Te Voy a Recordar",
-        "url": "https://open.spotify.com/album/4DpjDJVVOVbtCtNWF3r7cJ"
+        "name": "Vive La Casa",
+        "url": "https://open.spotify.com/album/7kSdNigQ9fxD8LCvA72PEg"
       },
       "artists": [
         {
+          "name": "Banda El Recodo De Cruz Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/43VlOgQ69q6akopSjeH2J4"
+        },
+        {
           "name": "Banda Los Recoditos",
           "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        },
+        {
+          "name": "Fernando Corona",
+          "url": "https://open.spotify.com/artist/29YNHs1rF7R6Wtl0pY0sZm"
         }
       ],
-      "duration_ms": 232489,
-      "name": "Siempre Te Voy A Recordar",
-      "url": "https://open.spotify.com/track/3JD6sfN3xeizYSOdb5Lsko"
+      "duration_ms": 189600,
+      "name": "Vive La Casa",
+      "url": "https://open.spotify.com/track/1dqV0xL8k2i0sdJ8yLapcI"
     },
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfecta",
-        "url": "https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "Esta Va Por Ti",
-      "url": "https://open.spotify.com/track/1bkcIokOXvuIoKK9YNIx0m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Baraja",
         "url": "https://open.spotify.com/album/0WeABPJfCiAM9DSAetL8CR"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 175560,
       "name": "La Baraja",
       "url": "https://open.spotify.com/track/1iq9EbjK0nWVdGmbCvXFV3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perfecta",
+        "url": "https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "Esta Va Por Ti",
+      "url": "https://open.spotify.com/track/1bkcIokOXvuIoKK9YNIx0m"
     },
     {
       "added_at": null,
@@ -783,6 +783,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Me Est\u00e1 Gustando",
+        "url": "https://open.spotify.com/album/3LLGf8yNKPKud3ErCdOkAu"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 153866,
+      "name": "Al Rescate",
+      "url": "https://open.spotify.com/track/6RYkjZLxo7xZSR9LNr57K9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Volver A Volar",
         "url": "https://open.spotify.com/album/5AcdviRjHFjsErdiU3RtWg"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 191226,
       "name": "Volver A Volar",
       "url": "https://open.spotify.com/track/1UTax2cvw1ehp87jkxbCXF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me Est\u00e1 Gustando",
-        "url": "https://open.spotify.com/album/3LLGf8yNKPKud3ErCdOkAu"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 153866,
-      "name": "Al Rescate",
-      "url": "https://open.spotify.com/track/6RYkjZLxo7xZSR9LNr57K9"
     },
     {
       "added_at": null,

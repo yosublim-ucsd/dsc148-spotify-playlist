@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 
 > 
 
-[Ryan Gards](https://open.spotify.com/user/1230953186) - 42 likes - 801 songs - 2 day 14 hr 46 min
+[Ryan Gards](https://open.spotify.com/user/1230953186) - 42 likes - 803 songs - 2 day 14 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -808,6 +808,8 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 | 798 | [September Rain \- 2020 Remaster](https://open.spotify.com/track/6A9YFkei6zWfPSxWxlBecY) | [Makoto Matsushita](https://open.spotify.com/artist/5qm3bAgsYq5aBOymqkM4gG) | [COLLECTION](https://open.spotify.com/album/2jlyowwrLvyN28JGsu4or2) | 4:31 |
 | 799 | [Tes idées](https://open.spotify.com/track/2oR6toJpUt1WpIKPPAioNI) | [Jules\-Henry Malaki](https://open.spotify.com/artist/70lZoqm8bQmomgLlPH9nAB) | [Makiyaj](https://open.spotify.com/album/6bGDkhhkbgk7BNJQ70f9oq) | 3:35 |
 | 800 | [Talento De Televisión](https://open.spotify.com/track/3fRIuTih8bzc0vtY9fHhvF) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Mis Favoritas](https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c) | 4:39 |
-| 801 | [Tamo Daleko](https://open.spotify.com/track/1KbWLWdswoUMSlBGP7MQR1) | [Branko Mataja](https://open.spotify.com/artist/3GUvYumHvxngYgB807pOOe) | [Over Fields And Mountains](https://open.spotify.com/album/7wYxQkN1kvtONeiUCiwRWS) | 2:06 |
+| 801 | [Tu Melodía](https://open.spotify.com/track/5aj6TYaCyWauBTaAlfR6Ke) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Jose Jose, El Principe](https://open.spotify.com/album/4odJZMwJ3hyuRX5xh8qifF) | 3:57 |
+| 802 | [Tamo Daleko](https://open.spotify.com/track/1KbWLWdswoUMSlBGP7MQR1) | [Branko Mataja](https://open.spotify.com/artist/3GUvYumHvxngYgB807pOOe) | [Over Fields And Mountains](https://open.spotify.com/album/7wYxQkN1kvtONeiUCiwRWS) | 2:06 |
+| 803 | [Hal Hal](https://open.spotify.com/track/0lrfWTxWwdZWWtJsXXL31z) | [Barış Manço](https://open.spotify.com/artist/3eVuump9qyK0YCQQo4mKbc) | [Hal Hal](https://open.spotify.com/album/1hvLeIVO5s6PvhsoE7Fxqf) | 3:31 |
 
-Snapshot ID: `AAADhUvu1+P+D4o5hEDrmAlXhhQjou1x`
+Snapshot ID: `AAADiOzqI4OSh8KmNhiOjUU9b+Gyuw6D`

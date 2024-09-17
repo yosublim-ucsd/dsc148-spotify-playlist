@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Maki
 
-149 songs - 9 hr 32 min
+151 songs - 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Alitaptap](https://open.spotify.com/track/3M9ZlNsdyW7O5yWYYhkqip) | [Matt Wilson](https://open.spotify.com/artist/5xPS5Chr0YYtb1VmZJqz38) | [Alitaptap](https://open.spotify.com/album/63v49wfOqvf4Z0NCMRtV1F) | 3:56 | 2024-07-11 |  |
 | [Apat Na Buwan](https://open.spotify.com/track/69OsnO3yklzvD3COZr7ys1) | [Janine](https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ) | [Apat Na Buwan](https://open.spotify.com/album/1Mf0kPZOr17J6mnGimMWWM) | 3:37 | 2024-08-16 |  |
 | [ARAW\-ARAW](https://open.spotify.com/track/0D4R1fDFh1DRzchL31XlDt) | [Yamada](https://open.spotify.com/artist/6TvBl6ilNrLLzaF6t60pOI) | [ARAW\-ARAW](https://open.spotify.com/album/4Xde2IrigkqgoXjYlJw6CE) | 2:46 | 2024-09-06 |  |
+| [Arrowmance](https://open.spotify.com/track/7hh6oTg0HAnNa4u1MQUxhq) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Arrowmance](https://open.spotify.com/album/5Oba8tJa6gnvccerqF1sdZ) | 5:03 | 2024-09-16 |  |
 | [Atin Ang Walang Hanggan](https://open.spotify.com/track/3wyps5olGora4qX2g02DuK) | [SunKissed Lola](https://open.spotify.com/artist/4bLLB1dbsRVUTcMpnDGDO2) | [Atin Ang Walang Hanggan](https://open.spotify.com/album/73Xv8DhknPr6TCBtPSBcPe) | 3:23 | 2024-07-08 |  |
 | [Aurora](https://open.spotify.com/track/3rRFT0NdIHEdtk18TqrjAY) | [TONEEJAY](https://open.spotify.com/artist/2KdFoq4IBXMzfia4ZCLDIs) | [Aurora](https://open.spotify.com/album/1zk01WEUn4lsTxjqkOIr5u) | 4:45 | 2024-07-02 | 2024-07-19 |
 | [Awitin Mo, Isasayaw Ko](https://open.spotify.com/track/5BWvcOgDDQdGEkxKpsojNc) | [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp) | [Awitin Mo, Isasayaw Ko](https://open.spotify.com/album/786KRmYsG0vWZJBNMdeeoi) | 4:57 | 2024-07-02 | 2024-09-07 |
@@ -142,6 +143,7 @@
 | [Tanga Mo Juan](https://open.spotify.com/track/13lwYFYmDDXeIBXW9IJaP9) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ) | [Tanga Mo Juan](https://open.spotify.com/album/1qS34W4EiMKNuZzIa85bn5) | 4:06 | 2024-07-02 | 2024-08-22 |
 | [Tear Gas \(2024\)](https://open.spotify.com/track/1B1AHUhJvqYygjw0VKyilj) | [Tanya Markova](https://open.spotify.com/artist/6ZwnyHAtqKLBYwRhZePddV) | [Tear Gas \(2024\)](https://open.spotify.com/album/5U6kxJVwI5xnyU4Bnoy3WU) | 3:42 | 2024-07-02 | 2024-07-09 |
 | [Teka Muna \(Sandali\)](https://open.spotify.com/track/3x92F7d3W7q0VEkMSNyMZC) | [Fly Mama!](https://open.spotify.com/artist/79bsx38e5AAvAb8d0FEuQK) | [Teka Muna \(Sandali\)](https://open.spotify.com/album/7z1kAAlmgAzjaP8zVSHw65) | 3:32 | 2024-07-17 |  |
+| [The Boy Who Cried Wolf](https://open.spotify.com/track/3dNKnbTBjliNTwCeLqlMG3) | [PABLO](https://open.spotify.com/artist/7wY8cwtF13xDJIHO7htMNk) | [ALON](https://open.spotify.com/album/0Cdn9HxsuQ3g6jdQ0PwLIY) | 4:05 | 2024-09-16 |  |
 | [Things You Said \(feat\. Moira Dela Torre\)](https://open.spotify.com/track/4H2Ih1tUC2OjIQCHhOnKiB) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT), [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Things You Said](https://open.spotify.com/album/5hLHJZoOp7mW4sCTxrc8TI) | 3:54 | 2024-07-02 |  |
 | [This Na Malambing](https://open.spotify.com/track/5ZIyDMWHtEjIS9YkmUY5zz) | [Ryannah J](https://open.spotify.com/artist/6qmz5baFW3JXKU7jUv3vJD), [Nateman](https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE) | [This Na Malambing](https://open.spotify.com/album/4gNnQzuEStRVzmWvpK1s6T) | 3:50 | 2024-07-02 | 2024-09-07 |
 | [Through The Years \- From “Lolo and the Kid"](https://open.spotify.com/track/4CkwBFexkKpSVt76urws7y) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ) | [Through The Years \- From “Lolo and the Kid"](https://open.spotify.com/album/5Q9CEhY1XZsLljY7e7EI7w) | 3:58 | 2024-08-30 |  |

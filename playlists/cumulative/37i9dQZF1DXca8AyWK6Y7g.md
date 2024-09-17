@@ -4,7 +4,7 @@
 
 > Livin' life! cover: Bea and her Business
 
-2,177 songs - 4 day 13 hr 28 min
+2,178 songs - 4 day 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1117,6 +1117,7 @@
 | [Leona](https://open.spotify.com/track/3nZdGftW9CLVQZ0j9hkPuL) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO PT\. 1](https://open.spotify.com/album/1sByjN7ag1X0ppsT6SdP8J) | 4:06 | 2021-06-25 | 2021-11-19 |
 | [Lesbians <3](https://open.spotify.com/track/6qNarhsEYw4h8GKvtU33lY) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Lesbians <3](https://open.spotify.com/album/4Q0AyfIv7BZjnGt2unFeY9) | 2:06 | 2024-06-07 | 2024-08-24 |
 | [Less](https://open.spotify.com/track/44Ghsk1TVBTKEB4ksQYhSV) | [Elise Eriksen](https://open.spotify.com/artist/4Z4AA4VE6yS9vOZdEXabS8), [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG) | [Less](https://open.spotify.com/album/7xb5oS0SLeWgk032ZcmNBc) | 3:31 | 2020-12-12 | 2021-11-10 |
+| [Let It Out](https://open.spotify.com/track/2a1NmiYCvPoiQDj47qz21D) | [Kim Tee](https://open.spotify.com/artist/7DA6NRbeRXME2U3tC5sjtp), [Myra Molloy](https://open.spotify.com/artist/30yozRF4B2uaL6eDBsLH96) | [Let It Out](https://open.spotify.com/album/3iiZwkIPdgeo7HNHso03bd) | 2:37 | 2024-09-16 |  |
 | [Let Me Down \(with Chelsea Cutler\)](https://open.spotify.com/track/0ulm3WgGZsMAgwwv0Zg00W) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Let Me Down](https://open.spotify.com/album/30hk8tSh4WijrOfesqXZLx) | 2:29 | 2022-12-02 | 2023-01-28 |
 | [Let Me Know](https://open.spotify.com/track/4V33aS5qju2ujbQt8JKi6P) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Pacifico](https://open.spotify.com/album/5PrhnVNOKoJC2aLLfabxuB) | 2:17 | 2021-06-26 | 2022-01-08 |
 | [Let Me Leave](https://open.spotify.com/track/2nTadlGdhBMhiXgO2y3RPN) | [Lily Kincade](https://open.spotify.com/artist/0NODVk6hwl48KNw9cfeT3c) | [Let Me Leave](https://open.spotify.com/album/4IceXl5pK5Zs3JaoAVlNYn) | 3:24 | 2024-07-08 | 2024-07-13 |
@@ -1844,7 +1845,7 @@
 | [Sunny Disposition](https://open.spotify.com/track/6nszLQaalCgiaRZ2biz1AV) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Sadtown USA](https://open.spotify.com/album/0yzrhB4aznxLMHf8KUR4ZT) | 2:58 | 2022-12-23 | 2023-01-15 |
 | [sunrise](https://open.spotify.com/track/3lTH6qyJ1FEoO6Wkm9vl0I) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [sunrise](https://open.spotify.com/album/6I4PzchQZwZPeArQwDqrrR) | 2:41 | 2022-03-11 | 2022-06-07 |
 | [Sunroof](https://open.spotify.com/track/2UGbgIze4hB9GkdAte1eiV) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [NOW That's What I Call Music! Vol\. 84](https://open.spotify.com/album/1vDJyYjUUvXYJaZmKsukJJ) | 2:40 | 2022-11-11 | 2022-11-13 |
-| [Sunroof](https://open.spotify.com/track/3RfTeIrWS8LNrfHYwechtt) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Sunroof](https://open.spotify.com/album/7xb8OvPMTdDSELqdWcddA0) | 2:43 | 2021-11-26 |  |
+| [Sunroof](https://open.spotify.com/track/3RfTeIrWS8LNrfHYwechtt) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Sunroof](https://open.spotify.com/album/7xb8OvPMTdDSELqdWcddA0) | 2:43 | 2021-11-26 | 2024-09-17 |
 | [Sunroof](https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Sunroof](https://open.spotify.com/album/0VaHnwzDug4AcDkejYDUl5) | 2:43 | 2022-01-14 | 2023-06-24 |
 | [Sunroof](https://open.spotify.com/track/5YqEzk3C5c3UZ1D5fJUlXA) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Good Times Go](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:43 | 2023-05-05 | 2024-04-19 |
 | [sunshine](https://open.spotify.com/track/3AnlmPe3kCwc0gaDkUBX2Z) | [Olmos](https://open.spotify.com/artist/60cVbnHVILVFAO7tl3crPV) | [sunshine](https://open.spotify.com/album/1GzDM6E01A4PqodtwxQXfR) | 2:21 | 2021-02-23 | 2021-11-20 |

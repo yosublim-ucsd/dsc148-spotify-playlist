@@ -4,7 +4,7 @@
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist\. Cover: Nines
 
-1,275 songs - 2 day 16 hr 40 min
+1,277 songs - 2 day 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [All Alone](https://open.spotify.com/track/7h4WdSxVKr8uciqXs3zAXw) | [Ryder](https://open.spotify.com/artist/2Lr6UcfZWL1Ur5spOaduOb), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Dré Six](https://open.spotify.com/artist/5eLN24mJrfPvsHv7tqJpA4) | [48 Hours](https://open.spotify.com/album/7B8hgK92g5E2WnKkKjEzRp) | 2:27 | 2023-12-01 | 2024-01-26 |
 | [All I Need](https://open.spotify.com/track/5V5MLWpaH416tfZl5e5z84) | [Miss Lafamilia](https://open.spotify.com/artist/5RUIxQGzPzXUD19Rb3W4e9) | [All I Need](https://open.spotify.com/album/1CjPP5G4HZ9AuiJrMLHm6A) | 2:53 | 2023-10-19 | 2023-11-18 |
 | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A) | 3:43 | 2023-05-15 | 2023-08-11 |
+| [ALL RED](https://open.spotify.com/track/2cZOYofOX4d6g0OXxkaIjA) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [ALL RED](https://open.spotify.com/album/3cdcIcidzGHVQW5e9qQgtx) | 2:28 | 2024-09-16 |  |
 | [Allergy](https://open.spotify.com/track/64Ntvzfh6V4Cq7i4O1XxW9) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Allergy](https://open.spotify.com/album/26TnKWNugPfAIOY2wt0vUr) | 2:32 | 2024-09-12 |  |
 | [Alone](https://open.spotify.com/track/3fULF5CQpgCGpnUeLmRvTL) | [Morrisson](https://open.spotify.com/artist/3bn93QEHOITZ4ARuiZdfRA) | [British Trap Royalty](https://open.spotify.com/album/2pDNZoSBEv4fdNFCBCFUOB) | 4:14 | 2024-07-19 |  |
 | [Alone With You](https://open.spotify.com/track/0W7brFokN6QtGRNp32RCQP) | [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL) | [Alone With You](https://open.spotify.com/album/1nTaMUZsk7VOqjpY0WQHWb) | 3:15 | 2022-02-25 | 2022-03-18 |
@@ -155,7 +156,7 @@
 | [Body Language](https://open.spotify.com/track/62nLRqVsG0Q4eCK45zuj28) | [Youngs Teflon](https://open.spotify.com/artist/5tdTldHOWl0iRO4jtII6tv), [Stardom](https://open.spotify.com/artist/0eN69yx9lBavEcUbkrfOMI) | [All Eyes On Me Against The World](https://open.spotify.com/album/7pThWqotwrgqpfu77ZVUvW) | 3:22 | 2022-03-18 | 2022-04-29 |
 | [Bon Appétit](https://open.spotify.com/track/0K56woQKVkZSgqxom9aNqO) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [Bon Appétit](https://open.spotify.com/album/5Tax49IzkZVlDraQdobhEk) | 3:17 | 2023-12-01 | 2024-01-26 |
 | [Bong Bing](https://open.spotify.com/track/2Nk5EgP9wXa3bpTU8V4i5t) | [Laa Lee](https://open.spotify.com/artist/4cb3HigJCNGP3rcRhVbYwS), [Cristale](https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27) | [Bong Bing](https://open.spotify.com/album/1jrrIPwjrDSsnx7Ciaqge6) | 2:48 | 2023-03-08 | 2023-03-09 |
-| [Boom \(feat\. Tokischa\)](https://open.spotify.com/track/0OCdChh8IoBCIm3kVGY3GN) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Boom \(feat\. Tokischa\)](https://open.spotify.com/album/4Liw2H1qC6Nq3ojx8wQBOB) | 2:12 | 2024-08-02 |  |
+| [Boom \(feat\. Tokischa\)](https://open.spotify.com/track/0OCdChh8IoBCIm3kVGY3GN) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Boom \(feat\. Tokischa\)](https://open.spotify.com/album/4Liw2H1qC6Nq3ojx8wQBOB) | 2:12 | 2024-08-02 | 2024-09-17 |
 | [Born \(feat\. Cashh\)](https://open.spotify.com/track/7jXTGAgzmvLJ40dKKJON2u) | [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [Cashh](https://open.spotify.com/artist/1CTdJErNqnCWNwtxJmleua) | [Reason to Smile](https://open.spotify.com/album/0RkFiGprYwfyALDs4tQLMC) | 3:26 | 2022-03-04 | 2022-04-29 |
 | [Born Fighter](https://open.spotify.com/track/1Bxl4Z0pv1gIDLgvxOy4tB) | [Jahshii](https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7) | [Born Fighter](https://open.spotify.com/album/4lj5UoUo0wkvwXO8rKRxhc) | 3:28 | 2022-08-23 | 2022-08-31 |
 | [Born Slippy \(Nuxx\)](https://open.spotify.com/track/7xQYVjs4wZNdCwO0EeAWMC) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [1992 \- 2012](https://open.spotify.com/album/68wdXsJmyuDfbozV2rDjXq) | 7:36 | 2023-09-16 | 2023-09-19 |
@@ -276,6 +277,7 @@
 | [DEH DEH](https://open.spotify.com/track/3eMpDpuaxr1QFnVSSfv9Zf) | [Wauve](https://open.spotify.com/artist/6iJTgr51htiTuj3r1cFSFO) | [DEH DEH](https://open.spotify.com/album/6Tbw38wfTTtHxspqGrdr5w) | 3:09 | 2022-10-23 | 2022-11-25 |
 | [Deli](https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..? \(Deluxe\)](https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk) | 2:06 | 2023-07-31 | 2023-09-15 |
 | [DELRESTO \(ECHOES\) \(feat\. Beyoncé\)](https://open.spotify.com/track/0OEe83mMZ5kaNw5uZQ7ilG) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:34 | 2023-07-31 | 2023-08-04 |
+| [Demure](https://open.spotify.com/track/0Rr2gpHt1LEiVqB4lcLa8N) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX) | [Demure](https://open.spotify.com/album/1JjMu4LK6OkJEuRjJxXabX) | 2:21 | 2024-09-16 |  |
 | [Denial](https://open.spotify.com/track/4MQnXVR8DJvsySuXYuzUtf) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Denial](https://open.spotify.com/album/7pU5A0t0YLo1BMH5OE67Uc) | 3:00 | 2022-06-09 | 2022-06-25 |
 | [Derby Day](https://open.spotify.com/track/47ljZvDes8HaEWYGd9RDhh) | [Dide](https://open.spotify.com/artist/29ifbSKLZbyWgfRoduS7S4) | [Derby Day](https://open.spotify.com/album/3ByrdC0Y3r0Is6P0ETdA9z) | 3:09 | 2023-08-10 | 2023-08-26 |
 | [Deserve It](https://open.spotify.com/track/0rLfMI04PHRfoaGLcCh816) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Deserve It](https://open.spotify.com/album/3nWY1AeTNK5WvAhVcQYvSO) | 3:13 | 2022-03-08 | 2022-03-09 |
@@ -770,7 +772,7 @@
 | [Neighbourhood Hero](https://open.spotify.com/track/03QtKGgldQkz00VPHiZtg1) | [M24](https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T) | [Neighbourhood Hero](https://open.spotify.com/album/1oquYifDek9GGLnd6XrhBP) | 3:16 | 2023-06-22 | 2023-08-04 |
 | [NEIGHBOURS](https://open.spotify.com/track/1q74d6pWGeHrGOifl6o2W9) | [BERWYN](https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR) | [NEIGHBOURS](https://open.spotify.com/album/5k1htUtASv8WIFomZCnb7a) | 3:06 | 2024-04-25 | 2024-06-01 |
 | [NELLA ROSE](https://open.spotify.com/track/1OIQekJTsZ7E62Ow5jraYN) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [NELLA ROSE](https://open.spotify.com/album/1EGIrg4GVc5kqNqYz17MkG) | 4:17 | 2023-09-22 | 2024-01-26 |
-| [Nelly & Kelly](https://open.spotify.com/track/1D4Z3SdmxBPgzufaNEJZj6) | [Kairo Keyz](https://open.spotify.com/artist/16WiaItNjYShr5vFzzg7nQ) | [Nelly & Kelly](https://open.spotify.com/album/6EGAMJToxNacBIe6hbAYie) | 2:06 | 2024-08-15 |  |
+| [Nelly & Kelly](https://open.spotify.com/track/1D4Z3SdmxBPgzufaNEJZj6) | [Kairo Keyz](https://open.spotify.com/artist/16WiaItNjYShr5vFzzg7nQ) | [Nelly & Kelly](https://open.spotify.com/album/6EGAMJToxNacBIe6hbAYie) | 2:06 | 2024-08-15 | 2024-09-17 |
 | [NEMZZZ TYPE BEAT](https://open.spotify.com/track/7plasP6SM6dCa9EXvFZeDE) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [NEMZZZ TYPE BEAT](https://open.spotify.com/album/0ux2h3FIMbfbfdPDVuQRIZ) | 2:53 | 2023-04-14 | 2023-06-23 |
 | [Never Leave](https://open.spotify.com/track/7u9bxbhHMcYZGRfAnGTyoy) | [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [WSTRN Season 3](https://open.spotify.com/album/7stgMji7x8jvLjibOwngE7) | 3:16 | 2023-03-08 | 2023-03-09 |
 | [Never Lose Me](https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Never Lose Me](https://open.spotify.com/album/4K5YnziH8o3NoEsxv8zviL) | 2:05 | 2024-01-05 | 2024-03-16 |

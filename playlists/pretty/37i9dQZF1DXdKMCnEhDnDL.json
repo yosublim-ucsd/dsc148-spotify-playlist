@@ -1,13 +1,33 @@
 {
   "description": "De beste Nederlandse liedjes. Cover: Hannah Mae & MAKSIM",
-  "num_followers": 495528,
+  "num_followers": 495575,
   "original_name": "Beste van NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuNkYAAAAACVOsIT0EUeBE1RZC/kTebG",
+  "snapshot_id": "Zufy1gAAAABoZknFq+Obclfu95iiJSds",
   "tracks": [
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
+        "name": "Ik Wil Dat Je Liegt",
+        "url": "https://open.spotify.com/album/5OpBG7QnV8Frg31RrAvjYV"
+      },
+      "artists": [
+        {
+          "name": "Hannah Mae",
+          "url": "https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG"
+        },
+        {
+          "name": "MAKSIM",
+          "url": "https://open.spotify.com/artist/5ncHUtKhiVsHlugFN0DCDl"
+        }
+      ],
+      "duration_ms": 174953,
+      "name": "Ik Wil Dat Je Liegt",
+      "url": "https://open.spotify.com/track/6ifKXZTqAuLA35TGCVuGBU"
+    },
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
@@ -43,26 +63,6 @@
       "duration_ms": 197204,
       "name": "Voor Je \u2018t Weet",
       "url": "https://open.spotify.com/track/0kQW438RAa27ixstP4bIhD"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
-        "name": "Ik Wil Dat Je Liegt",
-        "url": "https://open.spotify.com/album/5OpBG7QnV8Frg31RrAvjYV"
-      },
-      "artists": [
-        {
-          "name": "Hannah Mae",
-          "url": "https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG"
-        },
-        {
-          "name": "MAKSIM",
-          "url": "https://open.spotify.com/artist/5ncHUtKhiVsHlugFN0DCDl"
-        }
-      ],
-      "duration_ms": 174953,
-      "name": "Ik Wil Dat Je Liegt",
-      "url": "https://open.spotify.com/track/6ifKXZTqAuLA35TGCVuGBU"
     },
     {
       "added_at": "2024-09-12 22:00:00",

@@ -6737,6 +6737,28 @@
     },
     {
       "album": {
+        "name": "Toxic Kadhal",
+        "url": "https://open.spotify.com/album/0BDNnJKefhW86IjcnwREHN"
+      },
+      "artists": [
+        {
+          "name": "Arun Raj",
+          "url": "https://open.spotify.com/artist/2bhsKK1QgLs7fCGEYn0luF"
+        },
+        {
+          "name": "Archana",
+          "url": "https://open.spotify.com/artist/0uaopoljpu56onTz2xGIDH"
+        }
+      ],
+      "date_added": "2024-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187368,
+      "name": "Toxic Kadhal",
+      "url": "https://open.spotify.com/track/1mTD4UxhM9A72ZQQ1oC8pn"
+    },
+    {
+      "album": {
         "name": "Ulagam Nee",
         "url": "https://open.spotify.com/album/3n2LpLN5PN9zO9tccrKEwc"
       },

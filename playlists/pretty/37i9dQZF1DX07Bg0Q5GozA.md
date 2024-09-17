@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: PRISMA
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,207 likes - 74 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,214 likes - 74 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 73 | [Weave](https://open.spotify.com/track/246q6QozV9l3OKfUSnKTmu) | [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5) | [Harmonics Remixed](https://open.spotify.com/album/49NQJ0sWXgGSyZpu1zfCjm) | 5:07 |
 | 74 | [Sun In Your Eyes](https://open.spotify.com/track/1RVciWi78EFkx4QTijnEm3) | [David Bay](https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo) | [Mixed Signals EP](https://open.spotify.com/album/5cFGM02y32DmEGcPbneJIi) | 3:20 |
 
-Snapshot ID: `ZuNkYAAAAABm1R1B1+1ybAXPhZ3qv0pr`
+Snapshot ID: `ZuNkYAAAAACgCCYR4BYR2FYy6yAGz1QK`

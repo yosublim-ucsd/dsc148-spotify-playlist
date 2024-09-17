@@ -1,12 +1,12 @@
 {
-  "description": "This is Eminem. The essential tracks, all in one playlist.",
-  "num_followers": 3831771,
+  "description": "This is Eminem. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 3832300,
   "original_name": "This Is Eminem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuTSAAAAAABLqb/PpZLq+fVvOzrLqJka",
+  "snapshot_id": "ZuYjgAAAAACdsUTJiaw0SSzsKiTZ32ue",
   "tracks": [
     {
       "added_at": null,
@@ -334,11 +334,15 @@
         {
           "name": "Eminem",
           "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 41487,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/59151GHN7yr5g9B3bqlGdR"
+      "duration_ms": 230199,
+      "name": "Somebody Save Me",
+      "url": "https://open.spotify.com/track/4HMUrFl8y6rQCzEbaGEkcj"
     },
     {
       "added_at": null,
@@ -414,15 +418,11 @@
         {
           "name": "Eminem",
           "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 230199,
-      "name": "Somebody Save Me",
-      "url": "https://open.spotify.com/track/4HMUrFl8y6rQCzEbaGEkcj"
+      "duration_ms": 41487,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/59151GHN7yr5g9B3bqlGdR"
     },
     {
       "added_at": null,

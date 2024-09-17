@@ -1,12 +1,12 @@
 {
   "description": "?! ft. Lil Yachty",
-  "num_followers": 748812,
+  "num_followers": 748833,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuXB5AAAAACky1I6wvOJCRQvKeUM+Ns+",
+  "snapshot_id": "ZuiDsAAAAABNvYV5AqUEWJXucPnFY7T7",
   "tracks": [
     {
       "added_at": "2024-09-14 15:49:54",
@@ -107,6 +107,22 @@
       "duration_ms": 123428,
       "name": "In The City, Outta Town (Dance)",
       "url": "https://open.spotify.com/track/3ghoPalyReJD1MmBTNeR4Q"
+    },
+    {
+      "added_at": "2024-09-16 19:14:56",
+      "album": {
+        "name": "search & destroy",
+        "url": "https://open.spotify.com/album/2740XBFuln7su35UWo3Awz"
+      },
+      "artists": [
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "duration_ms": 117611,
+      "name": "search & destroy",
+      "url": "https://open.spotify.com/track/4yR7QwLrd5ctle68uKaKrt"
     },
     {
       "added_at": "2024-09-14 15:49:54",

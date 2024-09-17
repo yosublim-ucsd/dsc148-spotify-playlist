@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 
 > Découvrez les artistes à l'affiche de l’édition 2024 des Francos de Montréal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,406 likes - 125 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,408 likes - 125 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 74 | [J'espère encore que quelque part l'attente s'arrête](https://open.spotify.com/track/4Ehesap4bAGsZfUFOon9fW) | [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Lou\-Adriane Cassidy vous dit : Bonsoir](https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7) | 1:48 |
 | 75 | [Les Heures](https://open.spotify.com/track/0NooWH9hVyWAZXK0RDjRNr) | [Grand Eugène](https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT), [Dani Terreur](https://open.spotify.com/artist/5AWtYkPhj1X2cECuTUfq7Z) | [Les Heures](https://open.spotify.com/album/6kRNYVhQ0Q3mWHF85jGqkO) | 3:30 |
 | 76 | [Y peut mouiller](https://open.spotify.com/track/7oQdX58s6Hec7jH3CDEfge) | [Jeanne Côté](https://open.spotify.com/artist/2dNYXvbpBSHNjYc8eAvQB7) | [Suite pour personne](https://open.spotify.com/album/3s0746U6SBRp6vcisxxtcV) | 4:36 |
-| 77 | [Soleil](https://open.spotify.com/track/5DqD5ofjvx3AnXMDPgyUnX) | [Walter Astral](https://open.spotify.com/artist/70OFPH4Nv3kFhCgUU9oGqC) | [Jour](https://open.spotify.com/album/1WbuV4tbecNNhcudpZn8hS) | 3:25 |
-| 78 | [Derrière le jour](https://open.spotify.com/track/24Wd3taBrCp1XibT2sr6Kp) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn), [Albin de la Simone](https://open.spotify.com/artist/4VuZOySa9AIegZZzNIjPLC) | [Du feu dans les lilas](https://open.spotify.com/album/2gpYjjb2JFM6B6VwHQNE5V) | 3:31 |
+| 77 | [Derrière le jour](https://open.spotify.com/track/24Wd3taBrCp1XibT2sr6Kp) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn), [Albin de la Simone](https://open.spotify.com/artist/4VuZOySa9AIegZZzNIjPLC) | [Du feu dans les lilas](https://open.spotify.com/album/2gpYjjb2JFM6B6VwHQNE5V) | 3:31 |
+| 78 | [Soleil](https://open.spotify.com/track/5DqD5ofjvx3AnXMDPgyUnX) | [Walter Astral](https://open.spotify.com/artist/70OFPH4Nv3kFhCgUU9oGqC) | [Jour](https://open.spotify.com/album/1WbuV4tbecNNhcudpZn8hS) | 3:25 |
 | 79 | [Golden Hour](https://open.spotify.com/track/5NYZUSsgVjACxktniLsrEP) | [Cédrik St\-Onge](https://open.spotify.com/artist/2g0Adwuc91HneRGB8jbEq6) | [Osoyoos](https://open.spotify.com/album/2r6MzGblUSAmK3EAQuZqZj) | 3:55 |
 | 80 | [Anomie](https://open.spotify.com/track/4BooW1BcdEhGCS4j7Kpx9M) | [Galaxie](https://open.spotify.com/artist/4RGr0QWqqUMDcXBIWTJ1xa) | [À demain peut\-être](https://open.spotify.com/album/5xjD6pGqoH2Hgh8CqkwNtW) | 2:59 |
 | 81 | [Sac de sport](https://open.spotify.com/track/3H05HuJHXjXyaMa7WgnaAJ) | [Lary Kidd](https://open.spotify.com/artist/1dHfOiwJsDtNzIIrsQgXtX), [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo) | [Surhomme](https://open.spotify.com/album/6ogbVluVJc23tLVlAViiEo) | 3:15 |
@@ -95,10 +95,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 85 | [Polymorphe](https://open.spotify.com/track/2A8mCfjcGkxaAqnSEhCkwJ) | [Laurence\-Anne](https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B) | [Oniromancie](https://open.spotify.com/album/4BWbIevVWM9xQrd0KEHupI) | 3:36 |
 | 86 | [Le monde est fou](https://open.spotify.com/track/6vOi7yWHX7Qy9Eunm8ATOa) | [Alfa Rococo](https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n) | [Le monde est fou](https://open.spotify.com/album/5zw2EYeEDWW53kmmksiAM6) | 4:04 |
 | 87 | [Quelqu'un quand\-même](https://open.spotify.com/track/44qZlOo2ivJ5Cn6bHGsJfi) | [Heskis](https://open.spotify.com/artist/1l4zmi29P6ZWSehP5qOL7U) | [Holla](https://open.spotify.com/album/3QQQGEyXrL2ZSyce01FuDo) | 2:48 |
-| 88 | [DVTR](https://open.spotify.com/track/6kyU5s2JQj3kqjZ225Hwjv) | [DVTR](https://open.spotify.com/artist/2qLPU8fMazHXW2IzNklrZF) | [DVTR](https://open.spotify.com/album/0FQ99J1DvLNYP6x1uwHPYW) | 2:16 |
+| 88 | [ÇA APPELLE](https://open.spotify.com/track/7lVXC2IpkKj7J91C3mVdaS) | [KNLO](https://open.spotify.com/artist/56zW5cgHbn3F88lDBF6wAV), [Alaclair Ensemble](https://open.spotify.com/artist/6qQ2if1od4FAg6ilAETwMG) | [SAC À SURPRISE](https://open.spotify.com/album/2YEflT4OhLEpsQWoNsaP8E) | 2:49 |
 | 89 | [La fessée](https://open.spotify.com/track/58yY0A77OhfNWhTJ6wyWW1) | [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c) | [La fessée](https://open.spotify.com/album/0TXhfvemA79THgrX4Jcwet) | 3:57 |
-| 90 | [ÇA APPELLE](https://open.spotify.com/track/7lVXC2IpkKj7J91C3mVdaS) | [KNLO](https://open.spotify.com/artist/56zW5cgHbn3F88lDBF6wAV), [Alaclair Ensemble](https://open.spotify.com/artist/6qQ2if1od4FAg6ilAETwMG) | [SAC À SURPRISE](https://open.spotify.com/album/2YEflT4OhLEpsQWoNsaP8E) | 2:49 |
-| 91 | [En roulant vers Percé](https://open.spotify.com/track/4q22fntbDKxzaqr6yyCjte) | [Daniel Boucher](https://open.spotify.com/artist/48Y29W02kklBxTtxFHJitX) | [En roulant vers Percé](https://open.spotify.com/album/4DI4cTkWUEMrqEKKsujr8L) | 4:03 |
+| 90 | [En roulant vers Percé](https://open.spotify.com/track/4q22fntbDKxzaqr6yyCjte) | [Daniel Boucher](https://open.spotify.com/artist/48Y29W02kklBxTtxFHJitX) | [En roulant vers Percé](https://open.spotify.com/album/4DI4cTkWUEMrqEKKsujr8L) | 4:03 |
+| 91 | [DVTR](https://open.spotify.com/track/6kyU5s2JQj3kqjZ225Hwjv) | [DVTR](https://open.spotify.com/artist/2qLPU8fMazHXW2IzNklrZF) | [DVTR](https://open.spotify.com/album/0FQ99J1DvLNYP6x1uwHPYW) | 2:16 |
 | 92 | [C'est pire et c'est mieux](https://open.spotify.com/track/2nQSmjPsB6EmGUSTGf5AlF) | [Félix Dyotte](https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8), [Evelyne Brochu](https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC) | [C'est pire et c'est mieux](https://open.spotify.com/album/1gs9QEyRSZHgDr3edcKzD8) | 3:16 |
 | 93 | [AlgeVita](https://open.spotify.com/track/6YkVOrkg6wSrXQeVb0Pbtl) | [S’tano](https://open.spotify.com/artist/5K3ZdxXGFBy0mQXdLA4oIc) | [AlgeVita](https://open.spotify.com/album/5cH69HuM6EUg7Onj2rMzbt) | 2:34 |
 | 94 | [Salut Cowboy](https://open.spotify.com/track/0iURJWrm3Os8V0tsn0Kcwy) | [Guylaine Tanguay](https://open.spotify.com/artist/0Iuhto6zolchevPI47mKdD) | [Salut Cowboy](https://open.spotify.com/album/01ziKcrlE2Wnv6N6VYZ77a) | 3:36 |

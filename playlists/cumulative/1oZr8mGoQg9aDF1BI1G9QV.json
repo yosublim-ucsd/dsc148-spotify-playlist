@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Honey Moonshine",
+        "url": "https://open.spotify.com/album/5Aws1xUnOX5M0rBlJYa5nR"
+      },
+      "artists": [
+        {
+          "name": "The Haunted Windchimes",
+          "url": "https://open.spotify.com/artist/2f61F4arCAsrcU08xPxjV2"
+        }
+      ],
+      "date_added": "2024-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220786,
+      "name": "Sea Bride",
+      "url": "https://open.spotify.com/track/67sVehhDyuR9fztPByvCHn"
+    },
+    {
+      "album": {
         "name": "Hot Fuss",
         "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
       },
@@ -146,6 +164,24 @@
       "duration_ms": 215266,
       "name": "Steady, As She Goes",
       "url": "https://open.spotify.com/track/19iqWNzp5LwEdvntpEK8MP"
+    },
+    {
+      "album": {
+        "name": "Touch Up",
+        "url": "https://open.spotify.com/album/391bN6K5GtiVruKSrjQjL2"
+      },
+      "artists": [
+        {
+          "name": "Mother Mother",
+          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
+        }
+      ],
+      "date_added": "2024-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168320,
+      "name": "Verbatim",
+      "url": "https://open.spotify.com/track/4IA6pgGRmqfxWGAfyZ8cgR"
     }
   ],
   "url": "https://open.spotify.com/playlist/1oZr8mGoQg9aDF1BI1G9QV"

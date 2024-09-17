@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > Gli astri nascenti del pop italiano 🔮 Cover: CLARA
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,738 likes - 70 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,740 likes - 70 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 20 | [Quasi a casa](https://open.spotify.com/track/5kzB90XlmjURvXJXLDwtjX) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Quasi A Casa \- Original Motion Picture Soundtrack](https://open.spotify.com/album/2lgLRSgU1jxeZVBIyGpGi5) | 5:09 |
 | 21 | [BUM!](https://open.spotify.com/track/38Q2xq0AONmMqvlWDaB37Q) | [Anelie](https://open.spotify.com/artist/58oZhOpjpxETOI5AORvQUF), [Kr1](https://open.spotify.com/artist/4vsRoPHf54OF5D85j8jKej) | [BUM!](https://open.spotify.com/album/4oFDMkklZca0cnkgodTTas) | 3:09 |
 | 22 | [NON SI SENTE](https://open.spotify.com/track/7bfDgo8dpXlknY1oY6qrEE) | [Goza](https://open.spotify.com/artist/2kAd5sdqOUhnVjITFJE630) | [NON SI SENTE](https://open.spotify.com/album/3QvauRgBRj2n803UBuOEGq) | 2:52 |
-| 23 | [Vodka fragola \(feat\. Atipica\)](https://open.spotify.com/track/2f2iz5a5LuPlIFT2569Dcs) | [3D](https://open.spotify.com/artist/5K92J8NwWAlu6fRN2uoHVN), [Atipica](https://open.spotify.com/artist/4TUQ6BQXu82Qm219nYRqyh) | [Empirìa \- Deluxe Edition](https://open.spotify.com/album/0Xejjw52uw9IVUGHo6LYZv) | 2:45 |
+| 23 | [Vodka fragola \(feat\. Atipica\)](https://open.spotify.com/track/2f2iz5a5LuPlIFT2569Dcs) | [3D](https://open.spotify.com/artist/5K92J8NwWAlu6fRN2uoHVN), [Atipica](https://open.spotify.com/artist/4TUQ6BQXu82Qm219nYRqyh) | [Empirìa \(Deluxe Edition\)](https://open.spotify.com/album/0Xejjw52uw9IVUGHo6LYZv) | 2:45 |
 | 24 | [HO SMESSO DI PIANGERE](https://open.spotify.com/track/5hqWKyWU0J5DGhAgvNMMTp) | [PARIDE](https://open.spotify.com/artist/738jSDDsbX4Ge4Xa1lSN9F), [Kr1](https://open.spotify.com/artist/4vsRoPHf54OF5D85j8jKej) | [HO SMESSO DI PIANGERE](https://open.spotify.com/album/3BCIfL4HaWt6NwuYce1RSb) | 3:12 |
 | 25 | [Tutta La Notte](https://open.spotify.com/track/1UR2aaZOrbtIo9p5neDFPV) | [Ophelia Lia](https://open.spotify.com/artist/3VBPvCalDAaE5MJHkMAuDk) | [Tutta La Notte](https://open.spotify.com/album/4b9cgMhiyPQ52e7TVXriKg) | 3:12 |
 | 26 | [La versione migliore di me](https://open.spotify.com/track/1zWQjPa7yZCKxpuiqINZZS) | [Thoé](https://open.spotify.com/artist/6Ft5DoZtQ4aoquM97AjjBG) | [Alter Echo](https://open.spotify.com/album/1Fi6Swlb8LCsTk7E5szO1Z) | 3:13 |

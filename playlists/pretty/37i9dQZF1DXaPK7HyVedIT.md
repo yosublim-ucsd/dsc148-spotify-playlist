@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Devochka
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,245,611 likes - 79 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,245,591 likes - 79 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 78 | [Good Times](https://open.spotify.com/track/5onEEf02y74La3YKychBPy) | [Renato Cohen](https://open.spotify.com/artist/7C26wQyStqkNFW94iutvVD) | [Good Times](https://open.spotify.com/album/1dFJbWmnfP9cZtk98aKBCb) | 6:11 |
 | 79 | [Light It Up](https://open.spotify.com/track/3aM3elSql2STyiob9POgWY) | [HAWK.](https://open.spotify.com/artist/6kGgCcP1pFsfBy9Zj7KZft), [LOOZBONE](https://open.spotify.com/artist/41mgVbCJxhUtr9o9EpRchx), [Arkins](https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH) | [Light It Up](https://open.spotify.com/album/44U8tCNiznyv71RQ5sE1Ht) | 2:37 |
 
-Snapshot ID: `ZuOrZAAAAADnMoE/DXjBG4xlvrJKlK8i`
+Snapshot ID: `ZuOrZAAAAAA+Ke2hFZTo1hHUecB2ILxE`

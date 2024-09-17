@@ -4,7 +4,7 @@
 
 > pinoy alternative music \. Cover: ONE CLICK STRAIGHT
 
-138 songs - 8 hr 59 min
+139 songs - 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Nandito](https://open.spotify.com/track/3yO2w4yahMDqQ8dI3MtnZF) | [figvres](https://open.spotify.com/artist/4ShxxebL6hOdEveQSOVZkV) | [Nandito](https://open.spotify.com/album/3xlq1xz7FYfdFqzB6P4rE8) | 4:26 | 2024-07-19 |  |
 | [Nangungulila Sa'yo](https://open.spotify.com/track/2ksrs846bctGcYZjzsLxFj) | [Noah Alejandre](https://open.spotify.com/artist/3XGlotxI2yAE3RV0DX6oD2) | [Nangungulila Sa'yo](https://open.spotify.com/album/5gGQBiaHRGkE1Wm7hTOgbu) | 4:42 | 2024-02-09 | 2024-08-17 |
 | [Night and Day](https://open.spotify.com/track/1eMn5wODtO4TFj5OfYoPPv) | [Shoti](https://open.spotify.com/artist/68URuxUxsFzcPp2y3j0kjW) | [Night and Day](https://open.spotify.com/album/346R5cAIPZUJr7r4ZdHLaO) | 3:26 | 2024-07-19 |  |
+| [No Control ft\. \(e\)motion engine](https://open.spotify.com/track/0Rg0DIhiShdvZvF7snNZIt) | [JOSH CULLEN](https://open.spotify.com/artist/3xn2W0ziGURPYJj372a6jQ) | [Lost & Found](https://open.spotify.com/album/3TR1Bd2VseCPtjaBgEzaI6) | 4:08 | 2024-09-16 |  |
 | [North Star](https://open.spotify.com/track/4zd6nKsF7gDSEUeluTiIgt) | [lxni](https://open.spotify.com/artist/7KWLSIR8jCVAj9Gvhndhgm) | [North Star](https://open.spotify.com/album/0IIo23clF6gI3MYNAyQqQv) | 3:45 | 2023-10-13 | 2024-06-22 |
 | [Oh Giliw Ko](https://open.spotify.com/track/1WhbuhFMIV9DzgbNX6JV09) | [The Knobs](https://open.spotify.com/artist/5SChS914naD0ev5pHTFMdt) | [Oh Giliw Ko](https://open.spotify.com/album/0Oexw3mJOsG9gHFkgzmu5I) | 5:16 | 2024-07-12 |  |
 | [Pakiusap](https://open.spotify.com/track/6CyRHuzI8LcX1qtWtHaUPM) | [JERGE](https://open.spotify.com/artist/220RvBKeVFbVEZf3YE2tKC) | [Pakiusap](https://open.spotify.com/album/12JXkOGXbf1GPDJYdBvxeL) | 2:55 | 2023-10-13 | 2023-11-19 |
@@ -140,7 +141,7 @@
 | [tula’t awitin](https://open.spotify.com/track/7511599u12WzpKbpyDFg3T) | [Dear Dahlia](https://open.spotify.com/artist/5PstZ2n9tsytowjzUQJc2g) | [tula’t awitin](https://open.spotify.com/album/4Dhy6jsfza1wRGKd7dxROZ) | 3:52 | 2024-04-26 |  |
 | [tuluyan](https://open.spotify.com/track/6WHjGbBna42gfdydgwMunq) | [shang\-b](https://open.spotify.com/artist/0hGHGm9XtxvrOG3yB1IpWP) | [tuluyan](https://open.spotify.com/album/7frTZfk0Kk2PYK9iDKdtzb) | 4:50 | 2023-10-13 | 2023-11-19 |
 | [VIP](https://open.spotify.com/track/5SGgxgsbinITYDcJaOFw59) | [The Nomads](https://open.spotify.com/artist/6dfvmSow3REwLNbdpfcpOt) | [VIP](https://open.spotify.com/album/72A7ORj2vQe0AI1c3cQaHi) | 3:49 | 2024-06-21 | 2024-08-31 |
-| [Wag Naman](https://open.spotify.com/track/7BkZPPgzeuDMIoa44OPe8e) | [The Cohens](https://open.spotify.com/artist/5x3ZUgvYdLryFxvI4n1F1G) | [Wag Naman](https://open.spotify.com/album/65pOeGMiizBrW6NCBQHYBa) | 2:32 | 2024-04-26 |  |
+| [Wag Naman](https://open.spotify.com/track/7BkZPPgzeuDMIoa44OPe8e) | [The Cohens](https://open.spotify.com/artist/5x3ZUgvYdLryFxvI4n1F1G) | [Wag Naman](https://open.spotify.com/album/65pOeGMiizBrW6NCBQHYBa) | 2:32 | 2024-04-26 | 2024-09-17 |
 | [wagnamuna](https://open.spotify.com/track/6UmMczHfLTjZa81JShbl82) | [JERGE](https://open.spotify.com/artist/220RvBKeVFbVEZf3YE2tKC) | [wagnamuna](https://open.spotify.com/album/0bPxuKS1QWyc43bCBbk31e) | 2:45 | 2024-07-19 |  |
 | [Walang Label](https://open.spotify.com/track/5mcQZiopXnczEKf6OM4HWC) | [Eugene Layug](https://open.spotify.com/artist/7CUYtujDPCHjQokiG7L9F5) | [Walang Label](https://open.spotify.com/album/0qFt3vATFczRlwVGbZHbZO) | 4:15 | 2024-06-28 |  |
 | [WHERE IS THE L?E](https://open.spotify.com/track/3CR1mWThIKsALVzoSOBo9V) | [Franciskoe](https://open.spotify.com/artist/73s6RRWrA8DakmvmS4o8ae) | [WHERE IS THE L?E](https://open.spotify.com/album/1gn16qBOLYLe0mmtBc3tU8) | 2:49 | 2023-10-13 | 2024-04-27 |

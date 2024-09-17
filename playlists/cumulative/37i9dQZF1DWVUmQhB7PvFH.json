@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-21",
-  "description": "\u5343\u79a7\u5f8c\u7b2c\u4e00\u500b\u5341\u5e74\uff0c\u8b93\u6211\u5011\u85c9\u8457\u65cb\u5f8b\u56de\u5473...Cover: S.H.E",
+  "description": "\u5343\u79a7\u5f8c\u7b2c\u4e00\u500b\u5341\u5e74\uff0c\u8b93\u6211\u5011\u85c9\u8457\u65cb\u5f8b\u56de\u5473...Cover: \u8521\u5065\u96c5 (Tanya Chau)",
   "name": "2000\u5e74\u4ee3\u83ef\u8a9e\u91d1\u66f2",
   "tracks": [
     {
@@ -214,7 +214,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 265173,
       "name": "\u4e00\u4e86\u767e\u4e86",
       "url": "https://open.spotify.com/track/0qb3MrvFqqpLBdQrpYHgO4"
@@ -358,7 +358,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 287000,
       "name": "\u4e0d\u51c6\u54ed",
       "url": "https://open.spotify.com/track/53SmqGf87Bqd6ogAsnLkIw"
@@ -384,6 +384,24 @@
       "duration_ms": 281413,
       "name": "\u4e0d\u5f97\u4e0d\u611b",
       "url": "https://open.spotify.com/track/3TYzES2lL8BTPE4uudj0Hj"
+    },
+    {
+      "album": {
+        "name": "\u5c07\u611b",
+        "url": "https://open.spotify.com/album/5lsZJwMUH4YBhgWZ8HBBrA"
+      },
+      "artists": [
+        {
+          "name": "Faye Wong",
+          "url": "https://open.spotify.com/artist/3df3XLKuqTQ6iOSmi0K3Wp"
+        }
+      ],
+      "date_added": "2024-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262626,
+      "name": "\u4e0d\u7559",
+      "url": "https://open.spotify.com/track/5fwGdLXPulOfW3VHO5703Y"
     },
     {
       "album": {
@@ -795,6 +813,24 @@
     },
     {
       "album": {
+        "name": "\u6574\u500b\u516b\u6708",
+        "url": "https://open.spotify.com/album/29ZKvBsbfLS4alu1UBOoHB"
+      },
+      "artists": [
+        {
+          "name": "Phil Chang",
+          "url": "https://open.spotify.com/artist/7g65zUBhUAbiu4pAcoyWRd"
+        }
+      ],
+      "date_added": "2024-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341666,
+      "name": "\u5343\u91d1\u96e3\u8cb7",
+      "url": "https://open.spotify.com/track/48m3eygfPuMZUjWJIUUCns"
+    },
+    {
+      "album": {
         "name": "\u7d72\u8def",
         "url": "https://open.spotify.com/album/0CHbpwiT2lzuzIMLvXCe0f"
       },
@@ -914,7 +950,7 @@
       ],
       "date_added": "2024-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 265266,
       "name": "\u591a\u611b\u6211\u4e00\u5929",
       "url": "https://open.spotify.com/track/6m8XaBMtUedRBrZgPW1hMn"
@@ -1260,7 +1296,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 255440,
       "name": "\u5f53\u4f60\u5b64\u5355\u4f60\u4f1a\u60f3\u8d77\u8c01",
       "url": "https://open.spotify.com/track/558dTfMGywYbzFX0zVU4aC"
@@ -1416,6 +1452,28 @@
       "duration_ms": 226773,
       "name": "\u60e1\u4f5c\u5287",
       "url": "https://open.spotify.com/track/643hRiTY9vzD6P0cWO8UP3"
+    },
+    {
+      "album": {
+        "name": "\u60b2\u50b7\u6b62\u6b65",
+        "url": "https://open.spotify.com/album/2avuc4ydaSbKeWz4PcNryL"
+      },
+      "artists": [
+        {
+          "name": "William So",
+          "url": "https://open.spotify.com/artist/2oK5cSlJAH5s2Kx5e1zcvh"
+        },
+        {
+          "name": "\u674e\u5f69\u6a3a",
+          "url": "https://open.spotify.com/artist/5h9F17xJHRZuG0tHc1Qd3l"
+        }
+      ],
+      "date_added": "2024-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245706,
+      "name": "\u610f\u7336\u672a\u76e1",
+      "url": "https://open.spotify.com/track/15EndpMgcVbrlo89ddQ3Rh"
     },
     {
       "album": {
@@ -1628,7 +1686,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 247826,
       "name": "\u6211\u4e0d\u662f\u4f60\u60f3\u50cf\u90a3\u9ebc\u52c7\u6562",
       "url": "https://open.spotify.com/track/04wqY6mo2nbw7EhoTWpwmx"
@@ -1873,6 +1931,24 @@
     },
     {
       "album": {
+        "name": "\u6368\u5f97",
+        "url": "https://open.spotify.com/album/4G4eftynKC5F78pDdoVRjb"
+      },
+      "artists": [
+        {
+          "name": "Sammi Cheng",
+          "url": "https://open.spotify.com/artist/3XCnp5UV5wnNw49Xuka9qH"
+        }
+      ],
+      "date_added": "2024-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251506,
+      "name": "\u6368\u5f97",
+      "url": "https://open.spotify.com/track/7aPLvqzqum6JU5XvwTMF9t"
+    },
+    {
+      "album": {
         "name": "\u4e03\u91cc\u9999",
         "url": "https://open.spotify.com/album/6WdM1OfmVIPuQ56QPmaJIr"
       },
@@ -1942,6 +2018,24 @@
       "duration_ms": 273093,
       "name": "\u653e\u751f",
       "url": "https://open.spotify.com/track/1FYDHcFBASKDxhjkLLbh5X"
+    },
+    {
+      "album": {
+        "name": "\u5929\u9ad8\u5730\u539a",
+        "url": "https://open.spotify.com/album/4UQTxMsrwzLGtqtzPKOkyr"
+      },
+      "artists": [
+        {
+          "name": "\u4fe1\u6a02\u5718",
+          "url": "https://open.spotify.com/artist/1YfpT6Dl8tJDmYQKWRoxjn"
+        }
+      ],
+      "date_added": "2024-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281693,
+      "name": "\u65b7\u4e86\u601d\u5ff5",
+      "url": "https://open.spotify.com/track/3wFXU0V3BsjyO3hbnk3hf6"
     },
     {
       "album": {
@@ -2292,6 +2386,24 @@
       "duration_ms": 278400,
       "name": "\u6d0b\u8525",
       "url": "https://open.spotify.com/track/1YUqUoAsUNK3lWZ0L2paws"
+    },
+    {
+      "album": {
+        "name": "\u5f71\u5b50",
+        "url": "https://open.spotify.com/album/27xfXvSWav5A0hctlGxRAq"
+      },
+      "artists": [
+        {
+          "name": "Nicky Lee",
+          "url": "https://open.spotify.com/artist/6DuHQk8gJbyVlhajer8IuF"
+        }
+      ],
+      "date_added": "2024-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227526,
+      "name": "\u6d17\u724c",
+      "url": "https://open.spotify.com/track/1SKfuW7m645yVYSO5aZrle"
     },
     {
       "album": {
@@ -2984,7 +3096,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 280240,
       "name": "\u885d\u52d5",
       "url": "https://open.spotify.com/track/6x2HmNfNq7yx6YacS1kzKk"

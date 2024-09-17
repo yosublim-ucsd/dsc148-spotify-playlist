@@ -4,7 +4,7 @@
 
 > They got next\. Cover: <a href="spotify:artist:2qoQgPAilErOKCwE2Y8wOG">GloRilla</a>
 
-1,041 songs - 2 day 0 hr 17 min
+1,042 songs - 2 day 0 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,6 +302,7 @@
 | [EMOTIONS DIE YOUNG](https://open.spotify.com/track/6bma2tbLXpqO2bEGqMVh3S) | [Amber Ryann](https://open.spotify.com/artist/4mbv0HeV0rHkSW9CqqANPT) | [EMOTIONS DIE YOUNG](https://open.spotify.com/album/5ixY1CqyqRfuNZphz28rh6) | 2:49 | 2023-08-18 | 2024-02-17 |
 | [Empire Freestyle](https://open.spotify.com/track/0QpxLXaC4s2822YjpcCTMM) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq) | [Empire Freestyle](https://open.spotify.com/album/4KzwJuobGzPJb9VKkR7RY5) | 2:36 | 2024-06-14 | 2024-06-22 |
 | [End of Discussion](https://open.spotify.com/track/6uiXDPUMlKQjsUOZVVco8g) | [T Clipse](https://open.spotify.com/artist/2VUOGUpWy8Ckg92h8EjBIW) | [End of Discussion](https://open.spotify.com/album/4Ggdjb8Ube0rnfJyaJC3US) | 1:25 | 2022-12-30 | 2023-07-08 |
+| [Enemy](https://open.spotify.com/track/3ZGWzPGl4FurSdn18kiqJP) | [T99zy](https://open.spotify.com/artist/2iOv2a8p88ODjRF2Xoeuwk), [Bigmarco](https://open.spotify.com/artist/0HXJPhV1d9jw0vi6aDLnKv) | [Enemy](https://open.spotify.com/album/3BFaejIX1VmaHwRlPC5cgC) | 2:16 | 2024-09-16 |  |
 | [Equal Dirt](https://open.spotify.com/track/1XoANQIq3IKd0YsZTDd4RR) | [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [Been One](https://open.spotify.com/album/69bYMgvQpIYHsNNDxDTQqa) | 3:01 | 2023-11-09 | 2023-12-08 |
 | [Euphoric](https://open.spotify.com/track/7eVMSaoemrk7HiuZp33A3l) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Euphoric](https://open.spotify.com/album/4Myiyj4LgdPiGZg2BzOtt5) | 1:53 | 2022-09-16 | 2023-02-25 |
 | [Eve](https://open.spotify.com/track/4VWJqXO2lnHTPrDze7zeQe) | [Precious Pepala](https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1) | [Eve](https://open.spotify.com/album/1WcyjfjfTXfv1LaqLtJGqZ) | 3:21 | 2023-09-22 | 2024-02-10 |
@@ -633,7 +634,7 @@
 | [New Light](https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:37 | 2023-12-07 | 2023-12-16 |
 | [NEW RELIGION \(PIANO VERSION\)](https://open.spotify.com/track/65ZXf2Va5SkEcNGPRfUhrh) | [Joseph Solomon](https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN) | [NEW RELIGION \(PIANO VERSION\)](https://open.spotify.com/album/5ntK7Y0lOHBF5D6kutJcHz) | 4:31 | 2023-10-31 | 2024-01-27 |
 | [Next Best Exit](https://open.spotify.com/track/5AK6xch0zSVSZe3HJhxy6Y) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Next Best Exit](https://open.spotify.com/album/5BaqyXWFe7128CZfNaMISB) | 2:46 | 2023-09-08 | 2024-01-20 |
-| [NISSAN ALTIMA](https://open.spotify.com/track/0fsgieABBLYkx6rk5N3JUD) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [NISSAN ALTIMA](https://open.spotify.com/album/3P3ODJQfeECySRtPV8cJBZ) | 2:08 | 2024-08-02 |  |
+| [NISSAN ALTIMA](https://open.spotify.com/track/0fsgieABBLYkx6rk5N3JUD) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [NISSAN ALTIMA](https://open.spotify.com/album/3P3ODJQfeECySRtPV8cJBZ) | 2:08 | 2024-08-02 | 2024-09-17 |
 | [No Adlibs](https://open.spotify.com/track/0QLsYGMNleuoUZFGYqsgE2) | [Big Homiie G](https://open.spotify.com/artist/3IG49Dhngr903hQWOFzmlh) | [No Adlibs](https://open.spotify.com/album/2GptkZKyjaZGSwgrx0NLaQ) | 2:43 | 2023-12-15 | 2024-01-13 |
 | [No Air](https://open.spotify.com/track/6UqwQ2g7TO7Yr862JH2Jv0) | [YSN Fab](https://open.spotify.com/artist/4e7DLHD3L0VvT1ubv5oq0w) | [No Air](https://open.spotify.com/album/3p1rIfcot8bTQZxYAjNrLi) | 3:22 | 2023-09-29 | 2024-02-10 |
 | [No Closure](https://open.spotify.com/track/4d8eyF77ZplwhOSj1rqink) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [No Closure](https://open.spotify.com/album/00zNoLWUcrXKUnstmShe6q) | 3:05 | 2022-08-12 | 2022-10-29 |

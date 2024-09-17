@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,545 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,572 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 44 | [U Will Be Mine](https://open.spotify.com/track/7qZhWZkh309jgVao0Jo8DO) | [Hysta](https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O), [Radium](https://open.spotify.com/artist/5YG7cC1VX7Nh7AjUOf6PcG) | [U Will Be Mine](https://open.spotify.com/album/1Z4SqaLqiOma9BMs8M8MQo) | 3:11 |
 | 45 | [Shark Attack](https://open.spotify.com/track/1TwUqMISFgw9jU2c8cSOQI) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Thunder In Paradise](https://open.spotify.com/album/3UVOwqbr7xDioziembhjfF) | 2:39 |
 | 46 | [Creed Of Freakstyle](https://open.spotify.com/track/14IsD2FgLmBaGVsbCm1oIE) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS), [Restrained](https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV) | [Creed Of Freakstyle](https://open.spotify.com/album/5QgbUIZAldBQ6FmWDMXD6D) | 4:09 |
-| 47 | [My Way](https://open.spotify.com/track/3CW9KBOZUPEcEpjGYE1xW5) | [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6), [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [My Way](https://open.spotify.com/album/30XLtfdfPyuv79WA8Tqrep) | 3:15 |
+| 47 | [This Feeling](https://open.spotify.com/track/2H0eRy9vmts59596rouqUy) | [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE), [Ricardo Moreno](https://open.spotify.com/artist/3508HjNdwnzSespkyxLOUt) | [This Feeling](https://open.spotify.com/album/6cZWKvXdA4z02iC42gBWns) | 3:08 |
 | 48 | [HYPER](https://open.spotify.com/track/4GbecipoI4oyDE148vjkde) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [BOMBSQUAD](https://open.spotify.com/artist/7fyZZzdEhPZmZWrqrYS0tl), [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl) | [HYPER](https://open.spotify.com/album/5nONZdOuEns5bTt2y6Mbcg) | 3:26 |
-| 49 | [This Feeling](https://open.spotify.com/track/2H0eRy9vmts59596rouqUy) | [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE), [Ricardo Moreno](https://open.spotify.com/artist/3508HjNdwnzSespkyxLOUt) | [This Feeling](https://open.spotify.com/album/6cZWKvXdA4z02iC42gBWns) | 3:08 |
+| 49 | [My Way](https://open.spotify.com/track/3CW9KBOZUPEcEpjGYE1xW5) | [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6), [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [My Way](https://open.spotify.com/album/30XLtfdfPyuv79WA8Tqrep) | 3:15 |
 | 50 | [Stress](https://open.spotify.com/track/0Wv6K1VHhz6gWrbUqbutpN) | [Noxiouz](https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38) | [Stress](https://open.spotify.com/album/6Gr317KEInb9krkZg7ASJI) | 2:27 |
 | 51 | [Not Afraid to Fall](https://open.spotify.com/track/6YLTwVpwO2OwuKPq5MC5oe) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [Not Afraid to Fall](https://open.spotify.com/album/45XBkkNEnLzgSQJFWMqo92) | 3:05 |
 | 52 | [The Rusty Trombone](https://open.spotify.com/track/2BjnNxArj2lvXD7sqwQ0PL) | [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73), [S\-KILL](https://open.spotify.com/artist/6UPQ041bqYr2Oftpv3hLLq), [Principle](https://open.spotify.com/artist/3IfmtKe5jXM7GXvtHavhTG), [Rob The Rocket](https://open.spotify.com/artist/6EONY1bI70bNeyNF2lP5je) | [The Rusty Trombone](https://open.spotify.com/album/4Hu3riTVGkKf74N3qAwykS) | 2:53 |

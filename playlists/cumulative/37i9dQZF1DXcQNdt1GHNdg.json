@@ -81,6 +81,28 @@
     },
     {
       "album": {
+        "name": "315",
+        "url": "https://open.spotify.com/album/4k9UsTgIbbnFbGzSOHhykG"
+      },
+      "artists": [
+        {
+          "name": "Jasmeen Akhtar",
+          "url": "https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C"
+        },
+        {
+          "name": "Deep Harry",
+          "url": "https://open.spotify.com/artist/3CBgusVsS3fDEdPdUFYzpK"
+        }
+      ],
+      "date_added": "2024-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195422,
+      "name": "315",
+      "url": "https://open.spotify.com/track/3RRA9krpuvRVMQVPObOkhH"
+    },
+    {
+      "album": {
         "name": "410",
         "url": "https://open.spotify.com/album/0kUrdWYhWYGz71c0jaGnJe"
       },
@@ -532,6 +554,10 @@
         {
           "name": "Saabi Bhinder",
           "url": "https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr"
+        },
+        {
+          "name": "Aziz",
+          "url": "https://open.spotify.com/artist/5bKxXk1dtq9h6JwHUksEVU"
         }
       ],
       "date_added": "2024-09-10",
@@ -1068,7 +1094,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 103578,
       "name": "Kehar",
       "url": "https://open.spotify.com/track/5G82r4EkL411mLie4ABcTc"

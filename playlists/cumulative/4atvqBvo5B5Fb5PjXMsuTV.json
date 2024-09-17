@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 15 Sep 22:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 17 Sep 22:03 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -9058,7 +9058,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 258019,
       "name": "Dead Man's Party",
       "url": "https://open.spotify.com/track/3rRpozx2ZA7M3wFpA46BX6"
@@ -9094,7 +9094,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 154482,
       "name": "Deadpool X Wolverine",
       "url": "https://open.spotify.com/track/7H716i2hNsNiSjNAHufMLn"
@@ -15419,6 +15419,32 @@
     },
     {
       "album": {
+        "name": "Go Stupid",
+        "url": "https://open.spotify.com/album/1Ff3Kx4DU8dSoHwRK38yDt"
+      },
+      "artists": [
+        {
+          "name": "Whales",
+          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
+        },
+        {
+          "name": "Soltan",
+          "url": "https://open.spotify.com/artist/6wIbmO0mcpIyQ6CFXIJmIy"
+        },
+        {
+          "name": "Nat James",
+          "url": "https://open.spotify.com/artist/3OyUmeS7InBZFjCduVVhGa"
+        }
+      ],
+      "date_added": "2024-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147310,
+      "name": "Go Stupid",
+      "url": "https://open.spotify.com/track/08cSrWKeWhO6gHL3E3l0c6"
+    },
+    {
+      "album": {
         "name": "Go-Getters",
         "url": "https://open.spotify.com/album/7BLZ0IWHj61SqqsEcOEUTa"
       },
@@ -20028,7 +20054,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 156000,
       "name": "In The Party",
       "url": "https://open.spotify.com/track/5lAkzRumBNkcMbpAS3qt9n"
@@ -25026,6 +25052,24 @@
       "duration_ms": 166741,
       "name": "Motorcycle",
       "url": "https://open.spotify.com/track/1UHoE7uBnV3f9xrtil0ZL8"
+    },
+    {
+      "album": {
+        "name": "Motoroller",
+        "url": "https://open.spotify.com/album/1G8ln7CS3KXNmJbQEwDpkv"
+      },
+      "artists": [
+        {
+          "name": "Pixies",
+          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+        }
+      ],
+      "date_added": "2024-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162066,
+      "name": "Motoroller",
+      "url": "https://open.spotify.com/track/3qPzVN8VgE4SSCQRs0AadM"
     },
     {
       "album": {
@@ -32547,6 +32591,24 @@
     },
     {
       "album": {
+        "name": "Screamland",
+        "url": "https://open.spotify.com/album/5Wyf8ZkGHTXgfQWhJtWccI"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "date_added": "2024-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411742,
+      "name": "Screamland",
+      "url": "https://open.spotify.com/track/5NrPMxAaIXQJUAJepbEnWq"
+    },
+    {
+      "album": {
         "name": "Screech",
         "url": "https://open.spotify.com/album/1u51RXvLza9CkiTiReBT7Q"
       },
@@ -33478,6 +33540,24 @@
       "duration_ms": 215490,
       "name": "Sign",
       "url": "https://open.spotify.com/track/0d0K90wpp2CDfy7923mZ00"
+    },
+    {
+      "album": {
+        "name": "Sign",
+        "url": "https://open.spotify.com/album/4MEhn3oECu0jzdQaisxRrc"
+      },
+      "artists": [
+        {
+          "name": "Lilas Ikuta",
+          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
+        }
+      ],
+      "date_added": "2024-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Sign",
+      "url": "https://open.spotify.com/track/5n7dcUUhuP7t5gCW8QTEEU"
     },
     {
       "album": {
@@ -38652,7 +38732,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 221932,
       "name": "The Worst in Me",
       "url": "https://open.spotify.com/track/2kTsI1xJyJa1Oiw7jdibwN"
@@ -43862,7 +43942,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 118482,
       "name": "\u0413\u043e\u0440\u043d\u043e\u0441\u0442\u0430\u0439",
       "url": "https://open.spotify.com/track/3d2VjXDXKG3GWf2LrdqEz8"
@@ -44156,6 +44236,28 @@
       "duration_ms": 171586,
       "name": "\u304d\u3063\u3068\u305a\u3063\u3068 (Kitto Zutto)",
       "url": "https://open.spotify.com/track/0qBcaGhKAaqi8UzEeB2OIB"
+    },
+    {
+      "album": {
+        "name": "\u304d\u307f\u304c\u5927\u4eba\u306b\u306a\u3063\u305f\u3093\u3060",
+        "url": "https://open.spotify.com/album/79GcwGvxG8gB0UngBt23N3"
+      },
+      "artists": [
+        {
+          "name": "\u7406\u82bd",
+          "url": "https://open.spotify.com/artist/1rFELoNfdLOYWPwtrBN6zS"
+        },
+        {
+          "name": "\u7b39\u5ddd\u771f\u751f",
+          "url": "https://open.spotify.com/artist/4S3tEYMH3Mjdbn4mkBvqi0"
+        }
+      ],
+      "date_added": "2024-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189479,
+      "name": "\u304d\u307f\u304c\u5927\u4eba\u306b\u306a\u3063\u305f\u3093\u3060",
+      "url": "https://open.spotify.com/track/4QGubPnaWzfgF0oJbASCI6"
     },
     {
       "album": {

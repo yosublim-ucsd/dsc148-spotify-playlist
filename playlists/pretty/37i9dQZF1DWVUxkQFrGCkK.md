@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > crue!
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,071 likes - 304 songs - 21 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,179 likes - 304 songs - 21 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

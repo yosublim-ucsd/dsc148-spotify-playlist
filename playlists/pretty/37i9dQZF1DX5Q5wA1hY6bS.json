@@ -1,6 +1,6 @@
 {
   "description": "the best things in life can't be contained.",
-  "num_followers": 1438432,
+  "num_followers": 1438436,
   "original_name": "Wild & Free",
   "owner": {
     "name": "Spotify",
@@ -655,6 +655,22 @@
     {
       "added_at": "2024-09-03 18:29:36",
       "album": {
+        "name": "Good Luck, Kid",
+        "url": "https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi"
+      },
+      "artists": [
+        {
+          "name": "JOSEPH",
+          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
+        }
+      ],
+      "duration_ms": 223453,
+      "name": "Side Effects",
+      "url": "https://open.spotify.com/track/7l1JgKKbTh8n0o1ya4j67k"
+    },
+    {
+      "added_at": "2024-09-03 18:29:36",
+      "album": {
         "name": "American Novel: Ch. I",
         "url": "https://open.spotify.com/album/6aOqx8c8t5I7I3fg3OxSCX"
       },
@@ -671,18 +687,18 @@
     {
       "added_at": "2024-09-03 18:29:36",
       "album": {
-        "name": "Good Luck, Kid",
-        "url": "https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi"
+        "name": "Gloria",
+        "url": "https://open.spotify.com/album/65DRJr6ua9iSz4w1jsmann"
       },
       "artists": [
         {
-          "name": "JOSEPH",
-          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 223453,
-      "name": "Side Effects",
-      "url": "https://open.spotify.com/track/7l1JgKKbTh8n0o1ya4j67k"
+      "duration_ms": 216120,
+      "name": "Gloria",
+      "url": "https://open.spotify.com/track/2ZR7DiAXXAOUr85ZBreWt4"
     },
     {
       "added_at": "2024-09-03 18:29:36",
@@ -723,22 +739,6 @@
     {
       "added_at": "2024-09-03 18:29:36",
       "album": {
-        "name": "Gloria",
-        "url": "https://open.spotify.com/album/65DRJr6ua9iSz4w1jsmann"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 216120,
-      "name": "Gloria",
-      "url": "https://open.spotify.com/track/2ZR7DiAXXAOUr85ZBreWt4"
-    },
-    {
-      "added_at": "2024-09-03 18:29:36",
-      "album": {
         "name": "Boardwalks (Sonny Alven Remix)",
         "url": "https://open.spotify.com/album/2fkBdOnfmX6XgMyISZIBOY"
       },
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-09-03 18:29:36",
       "album": {
-        "name": "Dancing For The Answers - EP",
-        "url": "https://open.spotify.com/album/7J8GMfGTfVzoSdZsUgt0Bg"
-      },
-      "artists": [
-        {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
-        }
-      ],
-      "duration_ms": 216753,
-      "name": "Punta Cometa - Dancing For The Answers Alt Version",
-      "url": "https://open.spotify.com/track/0oiiHes8LMjKbofgD1aDcA"
-    },
-    {
-      "added_at": "2024-09-03 18:29:36",
-      "album": {
         "name": "Still",
         "url": "https://open.spotify.com/album/361LO5zSguzbNCQsOOEOd6"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 203673,
       "name": "Still",
       "url": "https://open.spotify.com/track/6HbXjawbH9bTwsCXAZgpDc"
+    },
+    {
+      "added_at": "2024-09-03 18:29:36",
+      "album": {
+        "name": "Dancing For The Answers - EP",
+        "url": "https://open.spotify.com/album/7J8GMfGTfVzoSdZsUgt0Bg"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "duration_ms": 216753,
+      "name": "Punta Cometa - Dancing For The Answers Alt Version",
+      "url": "https://open.spotify.com/track/0oiiHes8LMjKbofgD1aDcA"
     },
     {
       "added_at": "2024-09-03 18:29:36",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-09-03 18:29:36",
       "album": {
-        "name": "And The War Came",
-        "url": "https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED"
-      },
-      "artists": [
-        {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
-        }
-      ],
-      "duration_ms": 212800,
-      "name": "Dearly Departed (feat. Esm\u00e9 Patterson)",
-      "url": "https://open.spotify.com/track/0ewrI06EIDMGXvgJxuyF3U"
-    },
-    {
-      "added_at": "2024-09-03 18:29:36",
-      "album": {
         "name": "Wary + Strange",
         "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 217626,
       "name": "Fancy Drones (Fracture Me)",
       "url": "https://open.spotify.com/track/1l9LNsjdOQ3Wfkmnsjetxj"
+    },
+    {
+      "added_at": "2024-09-03 18:29:36",
+      "album": {
+        "name": "And The War Came",
+        "url": "https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED"
+      },
+      "artists": [
+        {
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        }
+      ],
+      "duration_ms": 212800,
+      "name": "Dearly Departed (feat. Esm\u00e9 Patterson)",
+      "url": "https://open.spotify.com/track/0ewrI06EIDMGXvgJxuyF3U"
     },
     {
       "added_at": "2024-09-03 18:29:36",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-09-03 18:29:36",
       "album": {
-        "name": "Between the Bed and Room",
-        "url": "https://open.spotify.com/album/10mhcC4Be6Y2oSkH40C8N6"
-      },
-      "artists": [
-        {
-          "name": "Robert John Ardiff",
-          "url": "https://open.spotify.com/artist/6EGnIjpNcG5bArBuOxcgJ7"
-        }
-      ],
-      "duration_ms": 236075,
-      "name": "People Talking",
-      "url": "https://open.spotify.com/track/3EgC9peIAOtKROIHsRqVVZ"
-    },
-    {
-      "added_at": "2024-09-03 18:29:36",
-      "album": {
         "name": "Cosmic Dancer",
         "url": "https://open.spotify.com/album/2iYmMZu2Fmum7r6tFyZ2zn"
       },
@@ -1127,18 +1111,18 @@
     {
       "added_at": "2024-09-03 18:29:36",
       "album": {
-        "name": "Front Porch",
-        "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
+        "name": "Between the Bed and Room",
+        "url": "https://open.spotify.com/album/10mhcC4Be6Y2oSkH40C8N6"
       },
       "artists": [
         {
-          "name": "Joy Williams",
-          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+          "name": "Robert John Ardiff",
+          "url": "https://open.spotify.com/artist/6EGnIjpNcG5bArBuOxcgJ7"
         }
       ],
-      "duration_ms": 209426,
-      "name": "When Creation Was Young",
-      "url": "https://open.spotify.com/track/4ZkZeQaJjmKuUPr7SOIjhU"
+      "duration_ms": 236075,
+      "name": "People Talking",
+      "url": "https://open.spotify.com/track/3EgC9peIAOtKROIHsRqVVZ"
     },
     {
       "added_at": "2024-09-03 18:29:36",
@@ -1163,6 +1147,22 @@
       "duration_ms": 221546,
       "name": "I Knew I Could Fly",
       "url": "https://open.spotify.com/track/1tLDBychkP96pHT664rJIY"
+    },
+    {
+      "added_at": "2024-09-03 18:29:36",
+      "album": {
+        "name": "Front Porch",
+        "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
+      },
+      "artists": [
+        {
+          "name": "Joy Williams",
+          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+        }
+      ],
+      "duration_ms": 209426,
+      "name": "When Creation Was Young",
+      "url": "https://open.spotify.com/track/4ZkZeQaJjmKuUPr7SOIjhU"
     },
     {
       "added_at": "2024-09-03 18:29:36",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2024-09-03 18:29:36",
       "album": {
+        "name": "Other Love Songs",
+        "url": "https://open.spotify.com/album/08gHftgrOWJDY4OlbOkxaQ"
+      },
+      "artists": [
+        {
+          "name": "Front Country",
+          "url": "https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj"
+        }
+      ],
+      "duration_ms": 296111,
+      "name": "If Something Breaks",
+      "url": "https://open.spotify.com/track/7DjrbcooF37ZDOLjOK33xN"
+    },
+    {
+      "added_at": "2024-09-03 18:29:36",
+      "album": {
         "name": "Angel",
         "url": "https://open.spotify.com/album/5vi6pUjMmkdtABSiTPSuvF"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 250080,
       "name": "You Don't Scare Me",
       "url": "https://open.spotify.com/track/6gNeydQ1T8JfthxH1PtuxM"
-    },
-    {
-      "added_at": "2024-09-03 18:29:36",
-      "album": {
-        "name": "Other Love Songs",
-        "url": "https://open.spotify.com/album/08gHftgrOWJDY4OlbOkxaQ"
-      },
-      "artists": [
-        {
-          "name": "Front Country",
-          "url": "https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj"
-        }
-      ],
-      "duration_ms": 296111,
-      "name": "If Something Breaks",
-      "url": "https://open.spotify.com/track/7DjrbcooF37ZDOLjOK33xN"
     },
     {
       "added_at": "2024-09-03 18:29:36",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2024-09-03 18:29:36",
       "album": {
-        "name": "Disposable",
-        "url": "https://open.spotify.com/album/0U8VvA7WAgXyYyfews1lkH"
-      },
-      "artists": [
-        {
-          "name": "Meadowlark",
-          "url": "https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs"
-        }
-      ],
-      "duration_ms": 217461,
-      "name": "Disposable",
-      "url": "https://open.spotify.com/track/3sjvVKrznUcaTRSbOno30p"
-    },
-    {
-      "added_at": "2024-09-03 18:29:36",
-      "album": {
         "name": "First Time Feeling",
         "url": "https://open.spotify.com/album/3qm2g5r2eWFVYiIGZVt4Ro"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 186016,
       "name": "First Time Feeling",
       "url": "https://open.spotify.com/track/35q6uD5WsqzRPEblLjj5dw"
+    },
+    {
+      "added_at": "2024-09-03 18:29:36",
+      "album": {
+        "name": "Disposable",
+        "url": "https://open.spotify.com/album/0U8VvA7WAgXyYyfews1lkH"
+      },
+      "artists": [
+        {
+          "name": "Meadowlark",
+          "url": "https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs"
+        }
+      ],
+      "duration_ms": 217461,
+      "name": "Disposable",
+      "url": "https://open.spotify.com/track/3sjvVKrznUcaTRSbOno30p"
     },
     {
       "added_at": "2024-09-03 18:29:36",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2024-09-03 18:29:36",
       "album": {
-        "name": "Lovely",
-        "url": "https://open.spotify.com/album/2oEbFVM6UA6sEVrc9ZJe8R"
+        "name": "What Will We Do",
+        "url": "https://open.spotify.com/album/3sEu90OiFEw1J1MZFvae7X"
       },
       "artists": [
         {
-          "name": "Lauren Jones",
-          "url": "https://open.spotify.com/artist/10EgNKwigpuf6nKo89u0va"
+          "name": "Lula Wiles",
+          "url": "https://open.spotify.com/artist/71gZrMk44x3W6NGg5OUJHY"
         }
       ],
-      "duration_ms": 225875,
-      "name": "Lovely",
-      "url": "https://open.spotify.com/track/6QvnE4jHzPdl6LuNLgo2Ey"
+      "duration_ms": 236733,
+      "name": "Love Gone Wrong",
+      "url": "https://open.spotify.com/track/4x3c8AbiCt9HV9E4rXsseZ"
     }
   ],
   "unique_name": "Wild & Free",

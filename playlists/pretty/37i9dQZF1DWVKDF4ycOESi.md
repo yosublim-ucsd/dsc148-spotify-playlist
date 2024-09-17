@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Pinguini Tattici Nucleari in cover + le migliori uscite di questa settimana!
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,190 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,231 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 80 | [Stronzate Da Rapper \(Non Ho Mai\)](https://open.spotify.com/track/1GCg104cXQ0pZoOrCOhYeH) | [Hammon](https://open.spotify.com/artist/606h9T2l7ABnfLC88vWoZ2) | [Stronzate Da Rapper \(Non Ho Mai\)](https://open.spotify.com/album/3itzxUx7HhUTPxQSFDoKVp) | 2:19 |
 | 81 | [SUCA](https://open.spotify.com/track/2RsiWaoL4v2EEADLGkgIk9) | [FUCKYOURCLIQUE](https://open.spotify.com/artist/796NCMJ5AQMdnutcb8EVeJ) | [SCUSATE IL RITARDO](https://open.spotify.com/album/1434ACkYCAphEJZF2Dljwt) | 2:57 |
 | 82 | [NO PIANO B](https://open.spotify.com/track/28blNhTrq5L3SdDdvOKao0) | [FreshMula](https://open.spotify.com/artist/6IwmCDDOJfupZ9uDvSwfPe), [Em](https://open.spotify.com/artist/0Wh6q94lZ2hN8LlTcR8mEI), [Odemosci](https://open.spotify.com/artist/6pybEiYhm8CekcE5DwGecR) | [NO PIANO B](https://open.spotify.com/album/2r3Oa0ap37rUiivB76vVQ0) | 2:38 |
-| 83 | [Vodka fragola \(feat\. Atipica\)](https://open.spotify.com/track/2f2iz5a5LuPlIFT2569Dcs) | [3D](https://open.spotify.com/artist/5K92J8NwWAlu6fRN2uoHVN), [Atipica](https://open.spotify.com/artist/4TUQ6BQXu82Qm219nYRqyh) | [Empirìa \- Deluxe Edition](https://open.spotify.com/album/0Xejjw52uw9IVUGHo6LYZv) | 2:45 |
+| 83 | [Vodka fragola \(feat\. Atipica\)](https://open.spotify.com/track/2f2iz5a5LuPlIFT2569Dcs) | [3D](https://open.spotify.com/artist/5K92J8NwWAlu6fRN2uoHVN), [Atipica](https://open.spotify.com/artist/4TUQ6BQXu82Qm219nYRqyh) | [Empirìa \(Deluxe Edition\)](https://open.spotify.com/album/0Xejjw52uw9IVUGHo6LYZv) | 2:45 |
 | 84 | [Wish You Knew](https://open.spotify.com/track/508Lt6htU4xJEwjHrDL1OD) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Wish You Knew](https://open.spotify.com/album/1ZEqSJ6WHYk6UydPRwqUEP) | 3:48 |
 | 85 | [You Belong To No\-One](https://open.spotify.com/track/4Zp4cKltb5SYVKnkKizfIG) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [Kiss & Forget](https://open.spotify.com/album/0BmeDz35wEqY5CKOA8vah0) | 3:38 |
 | 86 | [feel like home](https://open.spotify.com/track/5suIFrXr4gXhpEzFNjej85) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [feel like home](https://open.spotify.com/album/0BHk06yY5omfqv47S1vF4O) | 2:40 |

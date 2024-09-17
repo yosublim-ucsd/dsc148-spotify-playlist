@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv4Uniffjvs.md) - [plain]
 
 > <a href="spotify:artist:0zo109NM3S7CqHpvlXwqEN">VTSS</a>' favorite tracks\. Updated regularly\. Curated by VTSS\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,021 likes - 52 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,035 likes - 52 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv4Uniffjvs.md) - [plain]
 | 51 | [Venom](https://open.spotify.com/track/3QQRRlRlMSOSvkJW5UwxTk) | [King Doudou](https://open.spotify.com/artist/3aVceD1iZNjO7INFdXQaeZ) | [Más Rápido](https://open.spotify.com/album/5i0lQrl0OpkBVfJWLO29TQ) | 3:37 |
 | 52 | [WHIPPED CREAM](https://open.spotify.com/track/5QxAz2xPlAsCsIaNQdt081) | [DJ WIFI](https://open.spotify.com/artist/4GCjmaRvEuKxh1g5yLp91A) | [PARTY MUSIC](https://open.spotify.com/album/6lYIVYayWVmwcj0RvfuF0O) | 3:04 |
 
-Snapshot ID: `Zn5bvQAAAAAOEH7wsoi89R07GuoqUJwb`
+Snapshot ID: `Zn5bvQAAAAB2N0/PM0nES40BxNIcfU7D`

@@ -224,7 +224,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 143522,
       "name": "Ahhi Kuj Khatteya",
       "url": "https://open.spotify.com/track/6prYVb7vpt7o7zx7q2BaYM"
@@ -272,7 +272,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 155000,
       "name": "Albatta",
       "url": "https://open.spotify.com/track/3XAcx54wxdHMZVfb5EGHaD"
@@ -944,7 +944,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 148800,
       "name": "DIRECT FLOW",
       "url": "https://open.spotify.com/track/7CRjNrCH0IRCn6nUbkWIMb"
@@ -992,6 +992,10 @@
         {
           "name": "Saabi Bhinder",
           "url": "https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr"
+        },
+        {
+          "name": "Aziz",
+          "url": "https://open.spotify.com/artist/5bKxXk1dtq9h6JwHUksEVU"
         }
       ],
       "date_added": "2024-09-10",
@@ -1204,7 +1208,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 190153,
       "name": "Gangsta",
       "url": "https://open.spotify.com/track/3Vmo13MxVRKBszmfK61ONH"
@@ -1956,6 +1960,24 @@
       "duration_ms": 232173,
       "name": "Moosedrilla (feat. DIVINE)",
       "url": "https://open.spotify.com/track/67KTXqxMEyBMq3LApqCgNV"
+    },
+    {
+      "album": {
+        "name": "My Aura",
+        "url": "https://open.spotify.com/album/3VoZc4pBGN7ig2qCI4mbsc"
+      },
+      "artists": [
+        {
+          "name": "Jassi X",
+          "url": "https://open.spotify.com/artist/3rJlJIcCjbAyj4X08YQqsS"
+        }
+      ],
+      "date_added": "2024-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "My Aura",
+      "url": "https://open.spotify.com/track/5Mx6BZltl9Xk7QZqtd4BKX"
     },
     {
       "album": {
@@ -2731,6 +2753,32 @@
     },
     {
       "album": {
+        "name": "LOCKED IN",
+        "url": "https://open.spotify.com/album/5OcVtSXrIo6XSew4OUdWfa"
+      },
+      "artists": [
+        {
+          "name": "Sardar Khehra",
+          "url": "https://open.spotify.com/artist/3YhEUyspZuU7pfEzmpFCsP"
+        },
+        {
+          "name": "Zehr Vibe",
+          "url": "https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm"
+        },
+        {
+          "name": "4TheWorld",
+          "url": "https://open.spotify.com/artist/1NmxtNejR6ZXZUFcEyrBm1"
+        }
+      ],
+      "date_added": "2024-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142978,
+      "name": "Surrey Hood",
+      "url": "https://open.spotify.com/track/46kktmX3vKQ4VDRnk8B4lN"
+    },
+    {
+      "album": {
         "name": "Colonial Mindset",
         "url": "https://open.spotify.com/album/3p0Bw5SSaU6CJtRr4CqmJ5"
       },
@@ -2842,6 +2890,28 @@
       "duration_ms": 162000,
       "name": "They Don't Know",
       "url": "https://open.spotify.com/track/3rQmvM91VG7Yq3gqQXq6nu"
+    },
+    {
+      "album": {
+        "name": "LOCKED IN",
+        "url": "https://open.spotify.com/album/5OcVtSXrIo6XSew4OUdWfa"
+      },
+      "artists": [
+        {
+          "name": "Sardar Khehra",
+          "url": "https://open.spotify.com/artist/3YhEUyspZuU7pfEzmpFCsP"
+        },
+        {
+          "name": "4TheWorld",
+          "url": "https://open.spotify.com/artist/1NmxtNejR6ZXZUFcEyrBm1"
+        }
+      ],
+      "date_added": "2024-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140224,
+      "name": "Threat Call",
+      "url": "https://open.spotify.com/track/1iLwI5W2dGRnnTf9g6qlsj"
     },
     {
       "album": {

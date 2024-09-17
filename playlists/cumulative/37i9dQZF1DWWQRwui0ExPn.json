@@ -73214,7 +73214,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 155786,
       "name": "Mercurial",
       "url": "https://open.spotify.com/track/4ig1CTLcyAxM7WQREJvuCD"
@@ -81605,6 +81605,24 @@
     },
     {
       "album": {
+        "name": "nightvision",
+        "url": "https://open.spotify.com/album/6F2olvguA8qhb9u3XJ7zP5"
+      },
+      "artists": [
+        {
+          "name": "sellar",
+          "url": "https://open.spotify.com/artist/2eE2igevXc1oO8cBldYZDy"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143360,
+      "name": "nightvision",
+      "url": "https://open.spotify.com/track/574p3oZ9clAcRkM74jhj4d"
+    },
+    {
+      "album": {
         "name": "daydreams",
         "url": "https://open.spotify.com/album/5zIJZ4sjVANxrK28e2UTJD"
       },
@@ -88312,7 +88330,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 131180,
       "name": "Paramount Hearts",
       "url": "https://open.spotify.com/track/2y6cKJ36yyMTQADw7ayFlV"
@@ -112740,6 +112758,24 @@
       "duration_ms": 124000,
       "name": "Sun Riding",
       "url": "https://open.spotify.com/track/6hDLCD886XNIkyAIBFC9UO"
+    },
+    {
+      "album": {
+        "name": "sun silhouette",
+        "url": "https://open.spotify.com/album/5ANiFyqm8d8hTC1S5yX93G"
+      },
+      "artists": [
+        {
+          "name": "lilibu",
+          "url": "https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185688,
+      "name": "sun silhouette",
+      "url": "https://open.spotify.com/track/4Bue5JBRadsoBqwOreNclG"
     },
     {
       "album": {

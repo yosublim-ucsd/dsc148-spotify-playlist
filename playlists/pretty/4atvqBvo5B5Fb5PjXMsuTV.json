@@ -1,12 +1,12 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 15 Sep 22:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 17 Sep 22:03 UTC.",
   "num_followers": 84,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAALQCMJQelMO1aguYa6QndVEhJ0Ph/H",
+  "snapshot_id": "AAALRuBiVqOubp5AtgHEuIpzTLlrAIiu",
   "tracks": [
     {
       "added_at": "2024-09-13 10:03:43",
@@ -47,6 +47,98 @@
       "duration_ms": 218448,
       "name": "She Got Game",
       "url": "https://open.spotify.com/track/4gq0UfMdrlry2Lx1Gp6xW3"
+    },
+    {
+      "added_at": "2024-09-16 22:03:22",
+      "album": {
+        "name": "Screamland",
+        "url": "https://open.spotify.com/album/5Wyf8ZkGHTXgfQWhJtWccI"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 411742,
+      "name": "Screamland",
+      "url": "https://open.spotify.com/track/5NrPMxAaIXQJUAJepbEnWq"
+    },
+    {
+      "added_at": "2024-09-16 22:03:22",
+      "album": {
+        "name": "Motoroller",
+        "url": "https://open.spotify.com/album/1G8ln7CS3KXNmJbQEwDpkv"
+      },
+      "artists": [
+        {
+          "name": "Pixies",
+          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+        }
+      ],
+      "duration_ms": 162066,
+      "name": "Motoroller",
+      "url": "https://open.spotify.com/track/3qPzVN8VgE4SSCQRs0AadM"
+    },
+    {
+      "added_at": "2024-09-16 16:03:19",
+      "album": {
+        "name": "Sign",
+        "url": "https://open.spotify.com/album/4MEhn3oECu0jzdQaisxRrc"
+      },
+      "artists": [
+        {
+          "name": "Lilas Ikuta",
+          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Sign",
+      "url": "https://open.spotify.com/track/5n7dcUUhuP7t5gCW8QTEEU"
+    },
+    {
+      "added_at": "2024-09-16 04:04:02",
+      "album": {
+        "name": "\u304d\u307f\u304c\u5927\u4eba\u306b\u306a\u3063\u305f\u3093\u3060",
+        "url": "https://open.spotify.com/album/79GcwGvxG8gB0UngBt23N3"
+      },
+      "artists": [
+        {
+          "name": "\u7406\u82bd",
+          "url": "https://open.spotify.com/artist/1rFELoNfdLOYWPwtrBN6zS"
+        },
+        {
+          "name": "\u7b39\u5ddd\u771f\u751f",
+          "url": "https://open.spotify.com/artist/4S3tEYMH3Mjdbn4mkBvqi0"
+        }
+      ],
+      "duration_ms": 189479,
+      "name": "\u304d\u307f\u304c\u5927\u4eba\u306b\u306a\u3063\u305f\u3093\u3060",
+      "url": "https://open.spotify.com/track/4QGubPnaWzfgF0oJbASCI6"
+    },
+    {
+      "added_at": "2024-09-16 04:04:02",
+      "album": {
+        "name": "Go Stupid",
+        "url": "https://open.spotify.com/album/1Ff3Kx4DU8dSoHwRK38yDt"
+      },
+      "artists": [
+        {
+          "name": "Whales",
+          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
+        },
+        {
+          "name": "Soltan",
+          "url": "https://open.spotify.com/artist/6wIbmO0mcpIyQ6CFXIJmIy"
+        },
+        {
+          "name": "Nat James",
+          "url": "https://open.spotify.com/artist/3OyUmeS7InBZFjCduVVhGa"
+        }
+      ],
+      "duration_ms": 147310,
+      "name": "Go Stupid",
+      "url": "https://open.spotify.com/track/08cSrWKeWhO6gHL3E3l0c6"
     },
     {
       "added_at": "2024-09-14 22:03:00",
@@ -835,90 +927,6 @@
       "duration_ms": 199303,
       "name": "All Them Boys",
       "url": "https://open.spotify.com/track/4avnRoYfFXgYkfAopyQPXu"
-    },
-    {
-      "added_at": "2024-09-13 16:03:02",
-      "album": {
-        "name": "The Worst in Me",
-        "url": "https://open.spotify.com/album/0WGSrc4P7JfVAYdNzde2MQ"
-      },
-      "artists": [
-        {
-          "name": "Our Hollow, Our Home",
-          "url": "https://open.spotify.com/artist/6zrSK4adBQJaCJuhGNKJEl"
-        }
-      ],
-      "duration_ms": 221932,
-      "name": "The Worst in Me",
-      "url": "https://open.spotify.com/track/2kTsI1xJyJa1Oiw7jdibwN"
-    },
-    {
-      "added_at": "2024-09-13 10:03:43",
-      "album": {
-        "name": "\u0413\u043e\u0440\u043d\u043e\u0441\u0442\u0430\u0439",
-        "url": "https://open.spotify.com/album/78X55oBw6AQJ6GTLFq38IS"
-      },
-      "artists": [
-        {
-          "name": "\u0414\u0438\u0430\u043d\u0430 \u0410\u043d\u043a\u0443\u0434\u0438\u043d\u043e\u0432\u0430",
-          "url": "https://open.spotify.com/artist/7buSKsK1RlpIDc58mgrWnK"
-        }
-      ],
-      "duration_ms": 118482,
-      "name": "\u0413\u043e\u0440\u043d\u043e\u0441\u0442\u0430\u0439",
-      "url": "https://open.spotify.com/track/3d2VjXDXKG3GWf2LrdqEz8"
-    },
-    {
-      "added_at": "2024-09-13 10:03:43",
-      "album": {
-        "name": "Dead Man's Party",
-        "url": "https://open.spotify.com/album/38oI82wRnQPtqzrnKvPFWO"
-      },
-      "artists": [
-        {
-          "name": "Ludo",
-          "url": "https://open.spotify.com/artist/6ok7bEDf9CZ0448D59AaNL"
-        }
-      ],
-      "duration_ms": 258019,
-      "name": "Dead Man's Party",
-      "url": "https://open.spotify.com/track/3rRpozx2ZA7M3wFpA46BX6"
-    },
-    {
-      "added_at": "2024-09-13 04:04:37",
-      "album": {
-        "name": "In The Party",
-        "url": "https://open.spotify.com/album/5mUTjj6cSqUmgj5KmU9NED"
-      },
-      "artists": [
-        {
-          "name": "Dev Lemons",
-          "url": "https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO"
-        },
-        {
-          "name": "Billy Lemos",
-          "url": "https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "In The Party",
-      "url": "https://open.spotify.com/track/5lAkzRumBNkcMbpAS3qt9n"
-    },
-    {
-      "added_at": "2024-09-14 04:02:51",
-      "album": {
-        "name": "Deadpool X Wolverine",
-        "url": "https://open.spotify.com/album/3JaALfvJCUvU559EtyjP1H"
-      },
-      "artists": [
-        {
-          "name": "BIGBABYGUCCI",
-          "url": "https://open.spotify.com/artist/1ra8ujbJcZrV5aUjcfzFKs"
-        }
-      ],
-      "duration_ms": 154482,
-      "name": "Deadpool X Wolverine",
-      "url": "https://open.spotify.com/track/7H716i2hNsNiSjNAHufMLn"
     }
   ],
   "unique_name": "New Singles Now",

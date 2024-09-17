@@ -1,12 +1,12 @@
 {
-  "description": "This is El Harag\u00e1n y Compa\u00f1\u00eda. The essential tracks, all in one playlist.",
-  "num_followers": 32687,
+  "description": "This is El Harag\u00e1n y Compa\u00f1\u00eda. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 32692,
   "original_name": "This Is El Harag\u00e1n y Compa\u00f1\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuTSAAAAAADXdWiKGsrT4Z7WeCadrtoi",
+  "snapshot_id": "ZuYjgAAAAAD8ztDNcvYQAqaq16ILnxED",
   "tracks": [
     {
       "added_at": null,
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
         }
       ],
-      "duration_ms": 181394,
-      "name": "No Estoy Muerto",
-      "url": "https://open.spotify.com/track/6ZVHAIXNueVu9mbYnzuXAU"
+      "duration_ms": 188917,
+      "name": "Mi Mu\u00f1equita Sint\u00e9tica",
+      "url": "https://open.spotify.com/track/7KHDYWsMQJYemuYR08gtU6"
     },
     {
       "added_at": null,
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
         }
       ],
-      "duration_ms": 188917,
-      "name": "Mi Mu\u00f1equita Sint\u00e9tica",
-      "url": "https://open.spotify.com/track/7KHDYWsMQJYemuYR08gtU6"
+      "duration_ms": 181394,
+      "name": "No Estoy Muerto",
+      "url": "https://open.spotify.com/track/6ZVHAIXNueVu9mbYnzuXAU"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En el Coraz\u00f3n No Hay Nada",
-        "url": "https://open.spotify.com/album/0MgT5ax9TFZL9ltKrLs5M3"
-      },
-      "artists": [
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        }
-      ],
-      "duration_ms": 243159,
-      "name": "J.C. Del Barrio",
-      "url": "https://open.spotify.com/track/3S6ijIIkgWjQFA80cH7Q02"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Mas Grande Homenaje A Los Tigres Del Norte (Reissue)",
         "url": "https://open.spotify.com/album/2CV4KdKMJ4fNq29HLmGmri"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 306293,
       "name": "Un D\u00eda A La Vez",
       "url": "https://open.spotify.com/track/0XW8HrbqM5zRQ0zUvwWdQu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En el Coraz\u00f3n No Hay Nada",
+        "url": "https://open.spotify.com/album/0MgT5ax9TFZL9ltKrLs5M3"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "duration_ms": 243159,
+      "name": "J.C. Del Barrio",
+      "url": "https://open.spotify.com/track/3S6ijIIkgWjQFA80cH7Q02"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Alg\u00fan Lugar en el Cielo",
-        "url": "https://open.spotify.com/album/6Yf17T7xGRB0lMdGfNokEg"
-      },
-      "artists": [
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        }
-      ],
-      "duration_ms": 269106,
-      "name": "Vivir por Vivir",
-      "url": "https://open.spotify.com/track/6Hok72DzGIdQs7UITndTrp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rock Que Se Comparte",
         "url": "https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 212601,
       "name": "Tengo un Acoholico en Mi Casa",
       "url": "https://open.spotify.com/track/6aSZWceWgE6cMlKRvLn6yL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Alg\u00fan Lugar en el Cielo",
+        "url": "https://open.spotify.com/album/6Yf17T7xGRB0lMdGfNokEg"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "duration_ms": 269106,
+      "name": "Vivir por Vivir",
+      "url": "https://open.spotify.com/track/6Hok72DzGIdQs7UITndTrp"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Alg\u00fan Lugar en el Cielo",
-        "url": "https://open.spotify.com/album/6Yf17T7xGRB0lMdGfNokEg"
-      },
-      "artists": [
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        }
-      ],
-      "duration_ms": 263640,
-      "name": "Campe\u00f3n",
-      "url": "https://open.spotify.com/track/43g4eMXbhgpNY5tWXXVFmC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En el Coraz\u00f3n No Hay Nada",
         "url": "https://open.spotify.com/album/0MgT5ax9TFZL9ltKrLs5M3"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 266890,
       "name": "Aguja en la Ciudad",
       "url": "https://open.spotify.com/track/3RtmmS2IxTLbmOalW5cIk3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Alg\u00fan Lugar en el Cielo",
+        "url": "https://open.spotify.com/album/6Yf17T7xGRB0lMdGfNokEg"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "duration_ms": 263640,
+      "name": "Campe\u00f3n",
+      "url": "https://open.spotify.com/track/43g4eMXbhgpNY5tWXXVFmC"
     },
     {
       "added_at": null,

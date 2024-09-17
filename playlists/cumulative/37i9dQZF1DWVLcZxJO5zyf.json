@@ -3511,6 +3511,24 @@
     },
     {
       "album": {
+        "name": "Me Deixa Viver",
+        "url": "https://open.spotify.com/album/2nDaxKg56RVEtrnSATeAAV"
+      },
+      "artists": [
+        {
+          "name": "GIANA",
+          "url": "https://open.spotify.com/artist/4qB4n69ENaMdCb37AYd6wk"
+        }
+      ],
+      "date_added": "2024-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194722,
+      "name": "Me Deixa Viver",
+      "url": "https://open.spotify.com/track/5iJvohWRfudJWPr7XpDHGM"
+    },
+    {
+      "album": {
         "name": "Me d\u00f3i, boy",
         "url": "https://open.spotify.com/album/5tuAV2Ou1rWmoCKUZC1U3T"
       },
@@ -3968,6 +3986,32 @@
       "duration_ms": 142861,
       "name": "nada contra (ci\u00fame)",
       "url": "https://open.spotify.com/track/1YGLrVineKYS0UzvBAA3gH"
+    },
+    {
+      "album": {
+        "name": "Nem Me Convidou",
+        "url": "https://open.spotify.com/album/55TjH29MJyGdJ9K62fMqyz"
+      },
+      "artists": [
+        {
+          "name": "Zero Pacceli",
+          "url": "https://open.spotify.com/artist/62sKdgq98PB8klSTM8Qvaw"
+        },
+        {
+          "name": "Carla Sol",
+          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
+        },
+        {
+          "name": "Bi\u00e9",
+          "url": "https://open.spotify.com/artist/73RAtZuq0QHqk1iNuwQz8m"
+        }
+      ],
+      "date_added": "2024-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127433,
+      "name": "Nem Me Convidou",
+      "url": "https://open.spotify.com/track/21e9s5DxDb1JepKDg0tsOC"
     },
     {
       "album": {
@@ -6384,7 +6428,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 155805,
       "name": "to bem",
       "url": "https://open.spotify.com/track/4n7GVLsN4FBLyKhi0BySUq"

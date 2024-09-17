@@ -1932,7 +1932,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 252029,
       "name": "Chaudhar",
       "url": "https://open.spotify.com/track/5KBE9WQ9pUZXz3SLJZf0hk"
@@ -5326,6 +5326,32 @@
       "duration_ms": 202285,
       "name": "Kami Peshi",
       "url": "https://open.spotify.com/track/1MEo8QvW3Ibs4vTLtAYvAK"
+    },
+    {
+      "album": {
+        "name": "Kamyabi",
+        "url": "https://open.spotify.com/album/0Gkb9fmvLzzAC86g9ysgMM"
+      },
+      "artists": [
+        {
+          "name": "Ekam Chanoli",
+          "url": "https://open.spotify.com/artist/2RR7qfIt6G3IOX0yp50aik"
+        },
+        {
+          "name": "Labh Heera",
+          "url": "https://open.spotify.com/artist/4ezwpwbRQF6wEWji17s3Bc"
+        },
+        {
+          "name": "Music Empire",
+          "url": "https://open.spotify.com/artist/4LqmswmlN0mAZs930MjGOt"
+        }
+      ],
+      "date_added": "2024-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215233,
+      "name": "Kamyabi",
+      "url": "https://open.spotify.com/track/2GpThs67kEgRTVQP8nGchd"
     },
     {
       "album": {

@@ -1,13 +1,33 @@
 {
   "description": "Mooi van eigen bodem, nationaal in elke taal.",
-  "num_followers": 33909,
+  "num_followers": 33911,
   "original_name": "Made in NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuNkYAAAAAAMkXndRVdyz/VDF1XFGzKr",
+  "snapshot_id": "ZufyAwAAAAB6Dv6W32jenirrID5nZjzj",
   "tracks": [
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
+        "name": "(Die Man Is) Verliefd",
+        "url": "https://open.spotify.com/album/6MYXtFqWqatgAk5U91a3J2"
+      },
+      "artists": [
+        {
+          "name": "Jan Smit",
+          "url": "https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq"
+        },
+        {
+          "name": "3JS",
+          "url": "https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV"
+        }
+      ],
+      "duration_ms": 186799,
+      "name": "(Die Man Is) Verliefd",
+      "url": "https://open.spotify.com/track/3Sk76R83fWHlAO89n1IXgs"
+    },
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
@@ -39,26 +59,6 @@
       "duration_ms": 205530,
       "name": "Zin In Het Leven",
       "url": "https://open.spotify.com/track/5dyLNO5s3BKjKYmHAj75VK"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
-        "name": "(Die Man Is) Verliefd",
-        "url": "https://open.spotify.com/album/6MYXtFqWqatgAk5U91a3J2"
-      },
-      "artists": [
-        {
-          "name": "Jan Smit",
-          "url": "https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq"
-        },
-        {
-          "name": "3JS",
-          "url": "https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV"
-        }
-      ],
-      "duration_ms": 186799,
-      "name": "(Die Man Is) Verliefd",
-      "url": "https://open.spotify.com/track/3Sk76R83fWHlAO89n1IXgs"
     },
     {
       "added_at": "2024-09-12 22:00:00",

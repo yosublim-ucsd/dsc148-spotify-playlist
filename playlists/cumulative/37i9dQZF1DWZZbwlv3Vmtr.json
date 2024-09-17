@@ -4912,7 +4912,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 111818,
       "name": "Fresher Scents",
       "url": "https://open.spotify.com/track/2AyGe2TYtgvJ7xyM3db0jH"
@@ -5928,6 +5928,24 @@
       "duration_ms": 145791,
       "name": "Healing",
       "url": "https://open.spotify.com/track/7ww9dpRq9JazTQTbmQvt1F"
+    },
+    {
+      "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/2b4MQwic08GoiWdAoI76Q3"
+      },
+      "artists": [
+        {
+          "name": "Katashi Kait\u014d",
+          "url": "https://open.spotify.com/artist/7BDqewjn6oL3ryvHv78Wkx"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125738,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/1CcDRIoWnH19cOockC58UT"
     },
     {
       "album": {
@@ -15849,6 +15867,24 @@
     },
     {
       "album": {
+        "name": "These people I met",
+        "url": "https://open.spotify.com/album/6uCg5uHOd8gQDY3ino2Sgp"
+      },
+      "artists": [
+        {
+          "name": "plutones",
+          "url": "https://open.spotify.com/artist/5F5aValve5LdJk3f9KBL5u"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110833,
+      "name": "These people I met",
+      "url": "https://open.spotify.com/track/6Uga4Lwrw4rPORjwytgVRn"
+    },
+    {
+      "album": {
         "name": "this feels so right",
         "url": "https://open.spotify.com/album/2VyvMQUHPp3KIcIyiWbVjv"
       },
@@ -17518,7 +17554,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-17",
       "duration_ms": 228345,
       "name": "Wild poetry",
       "url": "https://open.spotify.com/track/1x0ohLWX95zrSrngK2Fa7R"

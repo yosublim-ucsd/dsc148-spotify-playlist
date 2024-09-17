@@ -2,7 +2,7 @@
 
 ### [Platinum Hits](https://open.spotify.com/playlist/37i9dQZF1DWVJyzEwVacEu)
 
-> Hits, hits hits van de afgelopen tijd\. Cover: CYRIL
+> Hits, hits, hits van de afgelopen tijd\. Cover: CYRIL
 
 221 songs - 11 hr 0 min
 

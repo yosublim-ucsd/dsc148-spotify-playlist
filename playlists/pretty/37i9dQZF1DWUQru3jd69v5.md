@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Low\-Red in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,212 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,217 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [TOP SECRET \(feat\. Papa V\)](https://open.spotify.com/track/3moH6gwEN3x5CxJRNffvPn) | [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N), [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [ilovethisbeat](https://open.spotify.com/artist/4KXuowxUNZQRZC5CoY1Z2P), [Pherro](https://open.spotify.com/artist/0GxUrQrSthXbfwGGw9QKDh) | [THE BIGGEST SBLAO](https://open.spotify.com/album/7CgOXOllcrg4B889ovCsPp) | 3:00 |
-| 2 | [FERRAGAMO](https://open.spotify.com/track/4UYYJ5KqDNzUnY0uNGUsDA) | [Fre\_nky](https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW) | [FERRAGAMO](https://open.spotify.com/album/4lnT6DIMGN7rXfM4BIBd5W) | 2:44 |
-| 3 | [NGMI](https://open.spotify.com/track/6B22FScIDhTgbwZ4iOasQQ) | [FUCKYOURCLIQUE](https://open.spotify.com/artist/796NCMJ5AQMdnutcb8EVeJ) | [NGMI](https://open.spotify.com/album/02JumOFfyMhhR7yeBec2Ek) | 2:10 |
-| 4 | [Mississippi Drive \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/3cX3mdvcLfvSShxKfXIr8T) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Cultura Italiana Pt.1](https://open.spotify.com/album/1b3MZM1zZG8yRK4Hpcf8pJ) | 2:32 |
+| 2 | [Mississippi Drive \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/3cX3mdvcLfvSShxKfXIr8T) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Cultura Italiana Pt.1](https://open.spotify.com/album/1b3MZM1zZG8yRK4Hpcf8pJ) | 2:32 |
+| 3 | [FERRAGAMO](https://open.spotify.com/track/4UYYJ5KqDNzUnY0uNGUsDA) | [Fre\_nky](https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW) | [FERRAGAMO](https://open.spotify.com/album/4lnT6DIMGN7rXfM4BIBd5W) | 2:44 |
+| 4 | [NGMI](https://open.spotify.com/track/6B22FScIDhTgbwZ4iOasQQ) | [FUCKYOURCLIQUE](https://open.spotify.com/artist/796NCMJ5AQMdnutcb8EVeJ) | [NGMI](https://open.spotify.com/album/02JumOFfyMhhR7yeBec2Ek) | 2:10 |
 | 5 | [Stronzate Da Rapper \(Non Ho Mai\)](https://open.spotify.com/track/1GCg104cXQ0pZoOrCOhYeH) | [Hammon](https://open.spotify.com/artist/606h9T2l7ABnfLC88vWoZ2) | [Stronzate Da Rapper \(Non Ho Mai\)](https://open.spotify.com/album/3itzxUx7HhUTPxQSFDoKVp) | 2:19 |
 | 6 | [Mentale](https://open.spotify.com/track/6FzhWQuJWyWvbdUad1xEPb) | [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [Mentale](https://open.spotify.com/album/1ijWVZdDagxdMarep595Uc) | 2:00 |
 | 7 | [Cassetta di Sicurezza](https://open.spotify.com/track/7zGptf2U9zBeAhoePwol3v) | [Suspect CB](https://open.spotify.com/artist/25qHQgRHUtHRnSZBzhixOz), [Ex∧](https://open.spotify.com/artist/3qif25LstGEGZsuUO6FsPJ) | [ECO](https://open.spotify.com/album/4Bs0C9219lQmNxLi9nLY91) | 1:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 49 | [quattro a.m.](https://open.spotify.com/track/17qEnEJcrb8fQOWlTP8tTs) | [Westcross](https://open.spotify.com/artist/6CWIvN7FdCWsZZYcfmYPzk) | [quattro a.m.](https://open.spotify.com/album/31740pq14YjuCJG1DEuMWp) | 1:39 |
 | 50 | [MODEM](https://open.spotify.com/track/0ol4jOFFh80BGkb6q4j0YL) | [Silnyya](https://open.spotify.com/artist/0MTV1wG5r8M1hTexjolpA5) | [MODEM](https://open.spotify.com/album/4elFRFXim5I69DKqaTofzS) | 2:18 |
 
-Snapshot ID: `ZuNknAAAAAAYWyycGTLz91zAFJk9AiBm`
+Snapshot ID: `ZugmDAAAAADz8mQLCdxJIkRs3/dxOjjB`

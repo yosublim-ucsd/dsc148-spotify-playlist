@@ -1,6 +1,6 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 556396,
+  "num_followers": 556401,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2024-09-02 04:34:18",
       "album": {
+        "name": "Salahkah Aku Terlalu Mencintaimu",
+        "url": "https://open.spotify.com/album/2x9G0zhfxZHPdbjsgdJJYu"
+      },
+      "artists": [
+        {
+          "name": "Fatin",
+          "url": "https://open.spotify.com/artist/4HeEXMr62GWTKpnqEiFOkC"
+        }
+      ],
+      "duration_ms": 232266,
+      "name": "Salahkah Aku Terlalu Mencintaimu",
+      "url": "https://open.spotify.com/track/6Ls0ZznOYYd7eQ52Cgqmkv"
+    },
+    {
+      "added_at": "2024-09-02 04:34:18",
+      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/2kFxReqreHFoL6kvgXUAGE"
       },
@@ -1159,26 +1175,6 @@
     {
       "added_at": "2024-09-02 04:34:18",
       "album": {
-        "name": "Memory Lane",
-        "url": "https://open.spotify.com/album/4kGiYX3VXOTPJPqCgphG0C"
-      },
-      "artists": [
-        {
-          "name": "TheOvertunes",
-          "url": "https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk"
-        },
-        {
-          "name": "Monita Tahalea",
-          "url": "https://open.spotify.com/artist/1xQXTnhREkLm14Wvrogo1g"
-        }
-      ],
-      "duration_ms": 236394,
-      "name": "Bicara (feat. Monita Tahalea)",
-      "url": "https://open.spotify.com/track/1Dxb9nWV16f5PthsUsV1XZ"
-    },
-    {
-      "added_at": "2024-09-02 04:34:18",
-      "album": {
         "name": "Gajah",
         "url": "https://open.spotify.com/album/0d5mFusjnb62TQWBft3zc6"
       },
@@ -1195,18 +1191,22 @@
     {
       "added_at": "2024-09-02 04:34:18",
       "album": {
-        "name": "Salahkah Aku Terlalu Mencintaimu",
-        "url": "https://open.spotify.com/album/2x9G0zhfxZHPdbjsgdJJYu"
+        "name": "Memory Lane",
+        "url": "https://open.spotify.com/album/4kGiYX3VXOTPJPqCgphG0C"
       },
       "artists": [
         {
-          "name": "Fatin",
-          "url": "https://open.spotify.com/artist/4HeEXMr62GWTKpnqEiFOkC"
+          "name": "TheOvertunes",
+          "url": "https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk"
+        },
+        {
+          "name": "Monita Tahalea",
+          "url": "https://open.spotify.com/artist/1xQXTnhREkLm14Wvrogo1g"
         }
       ],
-      "duration_ms": 232266,
-      "name": "Salahkah Aku Terlalu Mencintaimu",
-      "url": "https://open.spotify.com/track/6Ls0ZznOYYd7eQ52Cgqmkv"
+      "duration_ms": 236394,
+      "name": "Bicara (feat. Monita Tahalea)",
+      "url": "https://open.spotify.com/track/1Dxb9nWV16f5PthsUsV1XZ"
     },
     {
       "added_at": "2024-09-02 04:34:18",

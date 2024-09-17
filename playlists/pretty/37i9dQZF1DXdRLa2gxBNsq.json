@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: La Polla Records.",
-  "num_followers": 106926,
+  "num_followers": 106949,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-09-13 09:22:39",
       "album": {
-        "name": "Cicatriz en la Matrix",
-        "url": "https://open.spotify.com/album/51o67b23wyqqkYGN738zMG"
-      },
-      "artists": [
-        {
-          "name": "Lendakaris Muertos",
-          "url": "https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc"
-        }
-      ],
-      "duration_ms": 118986,
-      "name": "Tenemos a la Pasma",
-      "url": "https://open.spotify.com/track/2yGO1zOQ3psTV42DxtzF85"
-    },
-    {
-      "added_at": "2024-09-13 09:22:39",
-      "album": {
         "name": "Ni Descanso, Ni Paz!",
         "url": "https://open.spotify.com/album/0jndA7RswPbdGEYEe4Tq3Z"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 137102,
       "name": "Ni Descanso, Ni Paz!",
       "url": "https://open.spotify.com/track/0b5PjlQGnxkjNThxUmCSGP"
+    },
+    {
+      "added_at": "2024-09-13 09:22:39",
+      "album": {
+        "name": "Cicatriz en la Matrix",
+        "url": "https://open.spotify.com/album/51o67b23wyqqkYGN738zMG"
+      },
+      "artists": [
+        {
+          "name": "Lendakaris Muertos",
+          "url": "https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc"
+        }
+      ],
+      "duration_ms": 118986,
+      "name": "Tenemos a la Pasma",
+      "url": "https://open.spotify.com/track/2yGO1zOQ3psTV42DxtzF85"
     },
     {
       "added_at": "2024-09-13 09:22:39",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-09-13 09:22:39",
       "album": {
-        "name": "El Caso del Hombre Serio y Formal",
-        "url": "https://open.spotify.com/album/2ZRETKUQnO5xNj6WX0mKpq"
-      },
-      "artists": [
-        {
-          "name": "Generador",
-          "url": "https://open.spotify.com/artist/1tPQFhoZp0ZlULtuqNyGdm"
-        }
-      ],
-      "duration_ms": 190028,
-      "name": "El Caso del Hombre Serio y Formal",
-      "url": "https://open.spotify.com/track/4jSaHLFYNSAxgG4UY5swEe"
-    },
-    {
-      "added_at": "2024-09-13 09:22:39",
-      "album": {
         "name": "Froil\u00e1n de Todos los Antros",
         "url": "https://open.spotify.com/album/0hhFWgkYXpVX1kFrmqksLE"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 285640,
       "name": "Amor frenop\u00e1tico",
       "url": "https://open.spotify.com/track/6YjmFAhmoUJydfvpDj0PMT"
+    },
+    {
+      "added_at": "2024-09-13 09:22:39",
+      "album": {
+        "name": "El Caso del Hombre Serio y Formal",
+        "url": "https://open.spotify.com/album/2ZRETKUQnO5xNj6WX0mKpq"
+      },
+      "artists": [
+        {
+          "name": "Generador",
+          "url": "https://open.spotify.com/artist/1tPQFhoZp0ZlULtuqNyGdm"
+        }
+      ],
+      "duration_ms": 190028,
+      "name": "El Caso del Hombre Serio y Formal",
+      "url": "https://open.spotify.com/track/4jSaHLFYNSAxgG4UY5swEe"
     },
     {
       "added_at": "2024-09-13 09:22:39",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-09-13 09:22:39",
       "album": {
-        "name": "ANIMAL",
-        "url": "https://open.spotify.com/album/2ZQYiL82PqyExXwM8W7v9w"
-      },
-      "artists": [
-        {
-          "name": "Demenzia Sozial",
-          "url": "https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O"
-        }
-      ],
-      "duration_ms": 292538,
-      "name": "ANIMAL",
-      "url": "https://open.spotify.com/track/4bVlOjibXi9XLYHZCYz9Oh"
-    },
-    {
-      "added_at": "2024-09-13 09:22:39",
-      "album": {
         "name": "Todos Mis Enemigos Se Llaman Cayetano",
         "url": "https://open.spotify.com/album/4vRnzZz0zMqGjYpQzOQNZL"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 57840,
       "name": "Todos Mis Enemigos Se Llaman Cayetano",
       "url": "https://open.spotify.com/track/2DBfn7HocTGusEpvCr0xQc"
+    },
+    {
+      "added_at": "2024-09-13 09:22:39",
+      "album": {
+        "name": "ANIMAL",
+        "url": "https://open.spotify.com/album/2ZQYiL82PqyExXwM8W7v9w"
+      },
+      "artists": [
+        {
+          "name": "Demenzia Sozial",
+          "url": "https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O"
+        }
+      ],
+      "duration_ms": 292538,
+      "name": "ANIMAL",
+      "url": "https://open.spotify.com/track/4bVlOjibXi9XLYHZCYz9Oh"
     },
     {
       "added_at": "2024-09-13 09:22:39",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2024-09-13 09:22:39",
       "album": {
-        "name": "Arder\u00e1n",
-        "url": "https://open.spotify.com/album/2pxQN0Uj57ZfwsqIB02okC"
+        "name": "Borratxos y Orgullosos",
+        "url": "https://open.spotify.com/album/5ID6tz1P5QOQlS6z2ht7IE"
       },
       "artists": [
         {
-          "name": "\u00daltimo Rekurso",
-          "url": "https://open.spotify.com/artist/2Pu5Hl4ueNZTwSfAoOwmU9"
+          "name": "Josetxu Piperrak & The Riber Rock Band",
+          "url": "https://open.spotify.com/artist/3CMa7KMGEivE5STGjWSlxG"
         }
       ],
-      "duration_ms": 182335,
-      "name": "Arder\u00e1n",
-      "url": "https://open.spotify.com/track/1osGlQ2CrQeIvlEaIUOjzO"
+      "duration_ms": 223950,
+      "name": "Borratxos y Orgullosos",
+      "url": "https://open.spotify.com/track/3pcyr7HKRhEAf6RZ9UFLdc"
     },
     {
       "added_at": "2024-09-13 09:22:39",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2024-09-13 09:22:39",
       "album": {
-        "name": "Borratxos y Orgullosos",
-        "url": "https://open.spotify.com/album/5ID6tz1P5QOQlS6z2ht7IE"
+        "name": "Arder\u00e1n",
+        "url": "https://open.spotify.com/album/2pxQN0Uj57ZfwsqIB02okC"
       },
       "artists": [
         {
-          "name": "Josetxu Piperrak & The Riber Rock Band",
-          "url": "https://open.spotify.com/artist/3CMa7KMGEivE5STGjWSlxG"
+          "name": "\u00daltimo Rekurso",
+          "url": "https://open.spotify.com/artist/2Pu5Hl4ueNZTwSfAoOwmU9"
         }
       ],
-      "duration_ms": 223950,
-      "name": "Borratxos y Orgullosos",
-      "url": "https://open.spotify.com/track/3pcyr7HKRhEAf6RZ9UFLdc"
+      "duration_ms": 182335,
+      "name": "Arder\u00e1n",
+      "url": "https://open.spotify.com/track/1osGlQ2CrQeIvlEaIUOjzO"
     },
     {
       "added_at": "2024-09-13 09:22:39",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-09-13 09:22:39",
       "album": {
-        "name": "Y el Que Sea Feo Que Haga los Recaos de Noche",
-        "url": "https://open.spotify.com/album/5I2wNu3nGj7oHCIFtH1Yne"
-      },
-      "artists": [
-        {
-          "name": "Bellotaris Fallecidos",
-          "url": "https://open.spotify.com/artist/7witIEaYssgO9srRY85ZLl"
-        }
-      ],
-      "duration_ms": 96666,
-      "name": "Vpo",
-      "url": "https://open.spotify.com/track/3Eo8g7AdbPGmODRv3yZidD"
-    },
-    {
-      "added_at": "2024-09-13 09:22:39",
-      "album": {
         "name": "Una Noche M\u00e1s",
         "url": "https://open.spotify.com/album/4ejbet0sT4xw2xs4IAmxE7"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 212785,
       "name": "Una Noche M\u00e1s",
       "url": "https://open.spotify.com/track/4nUVcqvsg0jq4Z0KEfttXw"
+    },
+    {
+      "added_at": "2024-09-13 09:22:39",
+      "album": {
+        "name": "Y el Que Sea Feo Que Haga los Recaos de Noche",
+        "url": "https://open.spotify.com/album/5I2wNu3nGj7oHCIFtH1Yne"
+      },
+      "artists": [
+        {
+          "name": "Bellotaris Fallecidos",
+          "url": "https://open.spotify.com/artist/7witIEaYssgO9srRY85ZLl"
+        }
+      ],
+      "duration_ms": 96666,
+      "name": "Vpo",
+      "url": "https://open.spotify.com/track/3Eo8g7AdbPGmODRv3yZidD"
     },
     {
       "added_at": "2024-09-13 09:22:39",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2024-09-13 09:22:39",
       "album": {
+        "name": "Ahora que se ha ido el sol",
+        "url": "https://open.spotify.com/album/1uM5thAotEBcFCuF0G4eJl"
+      },
+      "artists": [
+        {
+          "name": "Konsumo Respeto",
+          "url": "https://open.spotify.com/artist/1RmcjyvKHwr9TCZqfHMflP"
+        }
+      ],
+      "duration_ms": 240986,
+      "name": "Herida de guerra",
+      "url": "https://open.spotify.com/track/16MDTJlQK8LcZW9IkladLD"
+    },
+    {
+      "added_at": "2024-09-13 09:22:39",
+      "album": {
         "name": "Semeya de la Rabia",
         "url": "https://open.spotify.com/album/7k0IbB4wqVVTof6Z8kGG1F"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 242320,
       "name": "Y sigo en pie",
       "url": "https://open.spotify.com/track/1mHavFRruSCwupKzTVGoys"
-    },
-    {
-      "added_at": "2024-09-13 09:22:39",
-      "album": {
-        "name": "Ahora que se ha ido el sol",
-        "url": "https://open.spotify.com/album/1uM5thAotEBcFCuF0G4eJl"
-      },
-      "artists": [
-        {
-          "name": "Konsumo Respeto",
-          "url": "https://open.spotify.com/artist/1RmcjyvKHwr9TCZqfHMflP"
-        }
-      ],
-      "duration_ms": 240986,
-      "name": "Herida de guerra",
-      "url": "https://open.spotify.com/track/16MDTJlQK8LcZW9IkladLD"
     },
     {
       "added_at": "2024-09-13 09:22:39",

@@ -2,7 +2,7 @@
 
 ### [This Is The Three Degrees](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1trEdl)
 
-> This is The Three Degrees\. The essential tracks, all in one playlist.
+> This is The Three Degrees\. Todos os maiores hits em uma só playlist.
 
 109 songs - 6 hr 45 min
 
@@ -52,7 +52,7 @@
 | [Isn't It a Pity](https://open.spotify.com/track/4wlBhCofkw3WkNKXo9wWni) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 3:52 | 2022-12-18 | 2022-12-22 |
 | [Isn't It a Pity](https://open.spotify.com/track/7jS85VOyC98H3uqIUFo0cj) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Playlist: The Best Of The Roulette Years](https://open.spotify.com/album/6XpWAy4yKqmaopZL0xeb15) | 3:52 | 2023-08-25 | 2023-08-31 |
 | [It's Raining Dub](https://open.spotify.com/track/7E6uigxRWr5GZDMlCEQDsV) | [Bunny Lee](https://open.spotify.com/artist/79gBZXBZwJs2cBerjhgAxI), [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Treasure Isle In Dub: Rare Dubs 1970\-1978](https://open.spotify.com/album/1cA0JUShXHlsosSZcWMfRt) | 3:43 | 2023-01-05 | 2024-01-17 |
-| [Jump The Gun](https://open.spotify.com/track/74HHvkOUslEi5ra2hifet1) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of](https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG) | 3:59 | 2022-05-25 | 2024-09-02 |
+| [Jump The Gun](https://open.spotify.com/track/74HHvkOUslEi5ra2hifet1) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of](https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG) | 3:59 | 2022-05-25 |  |
 | [La chanson poupulaire](https://open.spotify.com/track/42qwcVwoXW3rQgQS4BxgkQ) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International \(Expanded Edition\)](https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG) | 4:04 | 2022-05-25 |  |
 | [Lonelier Are Fools](https://open.spotify.com/track/7LDmwfODaICK03XxOZri6L) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International \(Expanded Edition\)](https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG) | 4:04 | 2022-05-25 |  |
 | [Lonely Town](https://open.spotify.com/track/53McY1IpPZJ8v4HyOMi9vm) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 2:53 | 2022-11-09 | 2022-12-13 |
@@ -99,7 +99,7 @@
 | [There's So Much Love All Around Me](https://open.spotify.com/track/3vOGzEPObrcf8EGtU7QBrY) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Uplifting Soul Classics](https://open.spotify.com/album/0Th6Y9UZNY12UVHKlb8pwd) | 2:39 | 2022-10-12 |  |
 | [This Is the House](https://open.spotify.com/track/7EDI0Ak3KRTgcCZndJJYaG) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [This Is the House](https://open.spotify.com/album/3g1eUz81JzJzie1W6CmbiM) | 3:41 | 2022-05-25 | 2023-11-11 |
 | [Through Misty Eyes \(Mono Version\)](https://open.spotify.com/track/060nY8Cccr0RQzDfHuHF5I) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 3:07 | 2022-12-12 | 2023-09-13 |
-| [Toast Of Love](https://open.spotify.com/track/3fHPWPG4Ef7cI7vOZYTeJZ) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of](https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG) | 3:41 | 2022-10-10 |  |
+| [Toast Of Love](https://open.spotify.com/track/3fHPWPG4Ef7cI7vOZYTeJZ) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of](https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG) | 3:41 | 2022-10-10 | 2024-09-17 |
 | [Together](https://open.spotify.com/track/0KXFMaPm7rgqv7vXwBGMTZ) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International](https://open.spotify.com/album/1iYIS3Gf48EDrGxU7Uif3G) | 4:37 | 2022-05-25 |  |
 | [Trade Winds](https://open.spotify.com/track/2uzwlTsKQimo498MeuJFgb) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 4:33 | 2023-02-13 | 2024-02-01 |
 | [We're All Alone](https://open.spotify.com/track/4hua7kkNIxSudKIxRmDk5n) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees \- The Very Best Of](https://open.spotify.com/album/6q15LPZbFU3wOVF35S6c2l) | 3:33 | 2022-05-25 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Las m\u00e1s pegadas. Cover: KAROL G",
-  "num_followers": 686714,
+  "num_followers": 686716,
   "original_name": "Tropical Hits",
   "owner": {
     "name": "Spotify",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Radio G\u00fcira",
+        "url": "https://open.spotify.com/album/3gMqG4ClTg0tjJGBCVx9UH"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 221531,
+      "name": "La Noviecita",
+      "url": "https://open.spotify.com/track/1LbrwVt7V2Qp3iJqo1a9h6"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "TROPICALIA",
         "url": "https://open.spotify.com/album/0MwcYv6ItA0eercc8IAwHJ"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 220880,
       "name": "Con Dinero y Sin Dinero",
       "url": "https://open.spotify.com/track/1wn4CZoE0MWbeV7yy03yyw"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Radio G\u00fcira",
-        "url": "https://open.spotify.com/album/3gMqG4ClTg0tjJGBCVx9UH"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 221531,
-      "name": "La Noviecita",
-      "url": "https://open.spotify.com/track/1LbrwVt7V2Qp3iJqo1a9h6"
     },
     {
       "added_at": "2024-08-23 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Dylan. The essential tracks, all in one playlist.",
-  "num_followers": 522837,
+  "num_followers": 522875,
   "original_name": "This Is Bob Dylan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuTSAAAAAACQsp44Q96VQNmW3KApO+R+",
+  "snapshot_id": "ZuYjgAAAAAD/i/enZxtYWrz24mBtYgmk",
   "tracks": [
     {
       "added_at": null,
@@ -487,6 +487,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Planet Waves",
+        "url": "https://open.spotify.com/album/3gYbjd76d8T5Ct5WxCxX5R"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 296133,
+      "name": "Forever Young - Slow Version",
+      "url": "https://open.spotify.com/track/4yWl0tnEanf3zmZzl9kbQn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Basement Tapes",
         "url": "https://open.spotify.com/album/6BOlD6UGUg45IsUXPSplkY"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 162880,
       "name": "You Ain't Goin' Nowhere",
       "url": "https://open.spotify.com/track/5WeQHNrOlxBv9NZTrz6xgE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Planet Waves",
-        "url": "https://open.spotify.com/album/3gYbjd76d8T5Ct5WxCxX5R"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 296133,
-      "name": "Forever Young - Slow Version",
-      "url": "https://open.spotify.com/track/4yWl0tnEanf3zmZzl9kbQn"
     },
     {
       "added_at": null,

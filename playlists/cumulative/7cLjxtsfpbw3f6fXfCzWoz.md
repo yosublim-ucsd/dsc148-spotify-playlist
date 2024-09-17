@@ -4,7 +4,7 @@
 
 > For the bisexuals.
 
-35 songs - 2 hr 5 min
+38 songs - 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Eyes Don’t Lie](https://open.spotify.com/track/2SoIn6rKqGXFtSmPelBamb) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Eyes Don’t Lie \(Acoustic\)](https://open.spotify.com/album/7GhoYUVCNtW9BOgw7YYVHm) | 3:56 | 2022-09-07 |  |
 | [I Don't Love You](https://open.spotify.com/track/0Jli6hojT6aSBcFg4L2P5f) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade / Living with Ghosts \(The 10th Anniversary Edition\)](https://open.spotify.com/album/29mlJg2PpuihKDNYZalIxw) | 3:58 | 2023-01-11 |  |
 | [I Want To Break Free \- Remastered 2011](https://open.spotify.com/track/6wiXLuJPmqambLyVJBg0fy) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen 40 Limited Edition Collector's Box Set Vol\. 3](https://open.spotify.com/album/4uuyUxFLxkU05tyu4VnA52) | 3:18 | 2023-03-21 |  |
+| [I Want You to Want Me](https://open.spotify.com/track/1JkZg3eMQTmTn93E8Yd3UL) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [In Color](https://open.spotify.com/album/2sXJQdHykPYcRQ7xFhwzMR) | 3:11 | 2024-09-16 |  |
 | [I Was Born To Love You](https://open.spotify.com/track/3K1Z590k8xkKWcyWjDUL2S) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Made In Heaven](https://open.spotify.com/album/2SFIh6siY4KYBNPHAV7xaI) | 4:49 | 2023-03-21 |  |
 | [I'm Still Standing](https://open.spotify.com/track/1jDJFeK9x3OZboIAHsY9k2) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Too Low For Zero](https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7) | 3:03 | 2023-05-05 |  |
 | [It's A Hard Life \- 2014 Remaster](https://open.spotify.com/track/61AP80MyPrlCdwveVOsKJy) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Forever \- Deluxe Edition](https://open.spotify.com/album/2nTP7Q6V06ATrZ2A4vUWo1) | 4:06 | 2023-03-21 |  |
@@ -39,9 +40,11 @@
 | [So Serious](https://open.spotify.com/track/2jo3bwXAGhVPL1Uh3dBWiB) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [ELO 50th Anniversary Vol\. 2](https://open.spotify.com/album/6U9L0ZDsCgNFTW7H7NPizN) | 2:41 | 2024-01-02 |  |
 | [Somebody To Love \- Remastered 2011](https://open.spotify.com/track/4RJdwSqHapVcW5DaRtTkv0) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Greatest Hits](https://open.spotify.com/album/6a8nlV9V8kPUbTTCJNVSsh) | 4:56 | 2023-03-21 |  |
 | [Tainted Love](https://open.spotify.com/track/58E1XVmZTODC67YNjneuXM) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Non\-Stop Erotic Cabaret](https://open.spotify.com/album/1R4TikWrz6Mz53aB66dZRn) | 2:33 | 2023-08-15 |  |
+| [Take A Chance On Me](https://open.spotify.com/track/5BckPAYcKEJuYs1eV1BHHe) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [The Album](https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt) | 4:03 | 2024-09-17 |  |
 | [The Mess Inside](https://open.spotify.com/track/3B7a3OW9h51WJKYQXD5IAo) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [All Hail West Texas \(Remastered\)](https://open.spotify.com/album/0SSMTJHDokOaKuaLaeSAYd) | 3:35 | 2023-03-23 |  |
 | [This Is How I Disappear](https://open.spotify.com/track/7vBczWEtVRGXkI5HOISv7L) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade / Living with Ghosts \(The 10th Anniversary Edition\)](https://open.spotify.com/album/29mlJg2PpuihKDNYZalIxw) | 3:59 | 2023-01-11 |  |
 | [Urgent](https://open.spotify.com/track/08onVqQ8YicJ98Ycm1qoLf) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [4 \(Expanded\)](https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu) | 4:31 | 2023-11-20 |  |
 | [Woke Up New](https://open.spotify.com/track/7usk7zdSDyBKeEF0THDKoK) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Get Lonely](https://open.spotify.com/album/559oW9AZQ7TxKkRQhe2fUh) | 2:57 | 2023-01-07 |  |
+| [You Might Think](https://open.spotify.com/track/35wVRTJlUu2kDkqXFegOKt) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [Heartbeat City \(Expanded Edition\)](https://open.spotify.com/album/7LPfdVDw4uXf9Bw5LQDESf) | 3:04 | 2024-09-16 |  |
 
 \*This playlist was first scraped on 2024-01-09. Prior content cannot be recovered.

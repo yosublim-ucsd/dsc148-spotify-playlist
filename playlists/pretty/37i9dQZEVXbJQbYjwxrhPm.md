@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Tuka Tuka](https://open.spotify.com/track/4zlMrhh3Le1JtimQxGKt0e) | [Krisko](https://open.spotify.com/artist/4oopAFtLdKXCoq2XoEjDZD) | [Tuka Tuka](https://open.spotify.com/album/4cx5JhmWbo2REbNu2EVHBW) | 3:16 |
 | 50 | [Лош или добър](https://open.spotify.com/track/2CLzpljGsOPW7GyWyPRRP9) | [Krisko](https://open.spotify.com/artist/4oopAFtLdKXCoq2XoEjDZD) | [Лош или добър](https://open.spotify.com/album/3Pg1TLcfvKqzm2uucnozzB) | 3:12 |
 
-Snapshot ID: `LnpLSAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LnuVwAAAAAAAAAAAAAAAAAAAAAAAAGVu`
