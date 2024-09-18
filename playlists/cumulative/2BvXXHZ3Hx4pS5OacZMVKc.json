@@ -253,6 +253,32 @@
     },
     {
       "album": {
+        "name": "Ares (Tear Up My Horizon)",
+        "url": "https://open.spotify.com/album/5oXOMGsmdvXOrVpNXeA2RX"
+      },
+      "artists": [
+        {
+          "name": "Fourier",
+          "url": "https://open.spotify.com/artist/1mm1gwco4OnHXbukzSAwJQ"
+        },
+        {
+          "name": "Reverse Prodigy",
+          "url": "https://open.spotify.com/artist/6zXaDDbpZlywcU9kb61gHI"
+        },
+        {
+          "name": "ZAM",
+          "url": "https://open.spotify.com/artist/4UaZN6cHIf89CepOqKQKPm"
+        }
+      ],
+      "date_added": "2024-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175058,
+      "name": "Ares (Tear Up My Horizon)",
+      "url": "https://open.spotify.com/track/7vdtjVAVnH6KPbm8jiWoZs"
+    },
+    {
+      "album": {
         "name": "Avatar",
         "url": "https://open.spotify.com/album/0VMsnqlax1FZNXdPzBHwn3"
       },

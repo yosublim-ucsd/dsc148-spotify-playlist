@@ -4,7 +4,7 @@
 
 > mood:  😎✈️
 
-104 songs - 5 hr 55 min
+105 songs - 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [YA Lili](https://open.spotify.com/track/12NyGvp4yFJys8L5XHo7FD) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [YA Lili](https://open.spotify.com/album/3lHjBXTO5HvJQ8nHLwyxaz) | 4:07 | 2024-02-29 | 2024-05-26 |
 | [Yak Adnya](https://open.spotify.com/track/2hN2qEJBO7jEnPTPx6EyMB) | [Tflow](https://open.spotify.com/artist/1gEQbGxdBq1vvCskS9qQBI) | [Tflow \#3](https://open.spotify.com/album/0hgYh8LXX79nMbqStev8o7) | 3:42 | 2024-08-02 |  |
 | [Yek Yek](https://open.spotify.com/track/617V6FOa1Qo3UIMn7y84fA) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Galess Fdar](https://open.spotify.com/album/2pJTYN66za2S6VZ0ceOKZP) | 3:31 | 2024-02-29 |  |
+| [Zahri](https://open.spotify.com/track/1TP6HBsrg4PttEmrvDUrje) | [Guzman](https://open.spotify.com/artist/49jkZYIbsXvow32tu6E75o) | [TEST](https://open.spotify.com/album/0uUk8fo1ksuyJO4tFuKuXq) | 2:33 | 2024-09-17 |  |
 | [Zahri](https://open.spotify.com/track/7epBNl7bl4Gi5UwA5tdmyN) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Zahri](https://open.spotify.com/album/3tsez1d6MZIe6QwkVfTc47) | 3:20 | 2024-02-29 | 2024-05-10 |
 | [Ça dépend](https://open.spotify.com/track/5IQgqdOpizKkUmiwAcyCuu) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L), [Syc](https://open.spotify.com/artist/6IayXElM5gfjgyWj9Ipbiu) | [Ça dépend](https://open.spotify.com/album/0nowTxq2NVPtVxJBLeDdwp) | 2:50 | 2024-02-29 |  |
 | [ça ira mieux](https://open.spotify.com/track/0S6Aanrei1yPQ2cOadDg9E) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX) | [ça ira mieux](https://open.spotify.com/album/3xKmJfhleJoPmardRq4bWq) | 2:04 | 2024-06-06 | 2024-07-23 |

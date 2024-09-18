@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-596 songs - 1 day 6 hr 14 min
+597 songs - 1 day 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Annabelle's Tea Party](https://open.spotify.com/track/6nPkoJ32PlIiCmmhnxxZKj) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T) | [Annabelle's Tea Party](https://open.spotify.com/album/0G2m4IHWmXSqKQFSPnQN24) | 3:08 | 2022-10-28 | 2023-04-28 |
 | [apart](https://open.spotify.com/track/0513aRXknqqlp96VbKLkL7) | [sumu](https://open.spotify.com/artist/3VJrstLqhMNsvGJ7wpScsB) | [apart](https://open.spotify.com/album/6KQ2yhVXzGlaajA8OctQq7) | 2:22 | 2024-02-27 |  |
 | [Are You With Me](https://open.spotify.com/track/27jSC6b62mY4cKfkWuiQBu) | [PLVTO](https://open.spotify.com/artist/2bFnCC8oPXbNJJ6V8e32XH) | [Are You With Me](https://open.spotify.com/album/4gfTtzR8BV1LFHyWWfOM2Q) | 3:11 | 2023-12-13 | 2024-05-15 |
+| [Ares \(Tear Up My Horizon\)](https://open.spotify.com/track/7vdtjVAVnH6KPbm8jiWoZs) | [Fourier](https://open.spotify.com/artist/1mm1gwco4OnHXbukzSAwJQ), [Reverse Prodigy](https://open.spotify.com/artist/6zXaDDbpZlywcU9kb61gHI), [ZAM](https://open.spotify.com/artist/4UaZN6cHIf89CepOqKQKPm) | [Ares \(Tear Up My Horizon\)](https://open.spotify.com/album/5oXOMGsmdvXOrVpNXeA2RX) | 2:55 | 2024-09-17 |  |
 | [Ark](https://open.spotify.com/track/270aqOuRwQS2xfNc3cj5VA) | [Star Party](https://open.spotify.com/artist/2VXRxdCCHHajU61ohOXnO1), [Zookeepers](https://open.spotify.com/artist/1frSJ3BwjRHE9jgMRQV5wC) | [Ark](https://open.spotify.com/album/3Mh7QKLQKyXPKlCCWivjX3) | 3:00 | 2023-08-08 | 2024-05-01 |
 | [Army](https://open.spotify.com/track/3j6s1vr84KzKlpF0QfHzDy) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Army](https://open.spotify.com/album/6DVaBrn0D40NiJCcL4faVZ) | 3:23 | 2023-08-08 | 2024-04-03 |
 | [Artificial Love](https://open.spotify.com/track/2f0rA5PoORaLqHd6OghZsC) | [Part Native](https://open.spotify.com/artist/31Fhago9BJoUASlISFmieX), [Oly](https://open.spotify.com/artist/46schiPKx3WhuYpa4XykpL) | [Artificial Love](https://open.spotify.com/album/00otmxypSxSWekoqUJwh1D) | 3:21 | 2022-10-13 | 2023-04-28 |

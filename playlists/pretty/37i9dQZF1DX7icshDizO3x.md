@@ -1,36 +1,36 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7icshDizO3x.md) - [plain](/playlists/plain/37i9dQZF1DX7icshDizO3x) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7icshDizO3x)
 
-### [Stray Kids Fan Connecting “SKZ TOY WORLD”](https://open.spotify.com/playlist/37i9dQZF1DX7icshDizO3x)
+### [On Tour Japan: Stray Kids](https://open.spotify.com/playlist/37i9dQZF1DX7icshDizO3x)
 
-> 「Stray Kids Fan Connecting 2024 “SKZ TOY WORLD”」最終日の一部MC音声入りセットリストを公開！
+> Stray Kids LIVE Blu\-ray 『Stray Kids 5\-STAR Dome Tour 2023』発売記念。プレイリストで公演を振り返ろう。
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,588 likes - 24 songs - 56 min 44 sec
+[Spotify](https://open.spotify.com/user/spotify) - 66,582 likes - 24 songs - 1 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Butterflies](https://open.spotify.com/track/3Oi8I8awZsuJtSEOGHuOXf) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Social Path / Super Bowl \-Japanese ver.\-](https://open.spotify.com/album/7xBMOCdTrdP3Y7rDBHp2AW) | 3:10 |
-| 2 | [Novel](https://open.spotify.com/track/4xr0Pc53xqpSEOWPMx0JI9) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [THE SOUND](https://open.spotify.com/album/4ZW5rXkLINHYqH2MIAhkP2) | 3:08 |
+| 1 | [Battle Ground](https://open.spotify.com/track/6TyUrD8PmqxYyPlYXNGLXq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [THE SOUND](https://open.spotify.com/album/4ZW5rXkLINHYqH2MIAhkP2) | 3:33 |
+| 2 | [FREEZE](https://open.spotify.com/track/2plJdCLTDrATAlL7pU8SeA) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/1byOOf9U3IiQN1cVHqRqEF) | 2:58 |
 | 3 | [ITEM](https://open.spotify.com/track/4dMD5fCmVMgbbGPGzanmpK) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [5\-STAR](https://open.spotify.com/album/5ZO7GSyxmHa2qwET9zsEe4) | 3:11 |
-| 4 | [Greetings from Stray Kids](https://open.spotify.com/track/2UjoFBAAvzxcemcNN88nkz) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Stray Kids Fan Connecting 2024 "SKZ TOY WORLD" audio liners](https://open.spotify.com/album/3dH4VpQIJw0ej4iU9OQQs6) | 0:10 |
-| 5 | [Opening Comment](https://open.spotify.com/track/5HSGt3w104dNO90xj64JCx) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Stray Kids Fan Connecting 2024 "SKZ TOY WORLD" audio liners](https://open.spotify.com/album/3dH4VpQIJw0ej4iU9OQQs6) | 0:23 |
-| 6 | [There](https://open.spotify.com/track/6gHeWGamtOYHBd1LBZ7Fv6) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [There](https://open.spotify.com/album/2j8BoKqZrMUYTARDIs9XDk) | 3:35 |
-| 7 | [WHY?](https://open.spotify.com/track/2NeJBfbWgs19WiBXAUPpBq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [WHY?](https://open.spotify.com/album/5mZvfyIv3rZ3ZCah58u6k2) | 3:48 |
-| 8 | [About "WHY?"](https://open.spotify.com/track/7sI3N3W15mzgGpIBttRVJ7) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Stray Kids Fan Connecting 2024 "SKZ TOY WORLD" audio liners](https://open.spotify.com/album/3dH4VpQIJw0ej4iU9OQQs6) | 0:32 |
-| 9 | [MEGAVERSE](https://open.spotify.com/track/3USu1p2lKTzoKFIRDeeJf8) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ROCK\-STAR](https://open.spotify.com/album/5Gpx9ZnR6gLRb9qDmaj3mg) | 3:05 |
-| 10 | [Hall of Fame](https://open.spotify.com/track/5MgUrkWwWmG88ZJoekItxo) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [5\-STAR](https://open.spotify.com/album/5ZO7GSyxmHa2qwET9zsEe4) | 2:51 |
-| 11 | [Comment 1](https://open.spotify.com/track/2njfCQDEX4rd0OAgU2ZDio) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Stray Kids Fan Connecting 2024 "SKZ TOY WORLD" audio liners](https://open.spotify.com/album/3dH4VpQIJw0ej4iU9OQQs6) | 2:43 |
-| 12 | [GET LIT](https://open.spotify.com/track/23VYz0E9oUxyNnW07CzfMN) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [5\-STAR](https://open.spotify.com/album/5ZO7GSyxmHa2qwET9zsEe4) | 2:51 |
-| 13 | [Social Path](https://open.spotify.com/track/0fkL0fOhEzRK8WFe2ixt2d) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Social Path](https://open.spotify.com/album/69mwX2uyO8FKCc8KkRMHw7) | 3:18 |
-| 14 | [Important Notice to STAY](https://open.spotify.com/track/0it9ByC6DeANdIANFDRacP) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Stray Kids Fan Connecting 2024 "SKZ TOY WORLD" audio liners](https://open.spotify.com/album/3dH4VpQIJw0ej4iU9OQQs6) | 0:56 |
-| 15 | [Booster](https://open.spotify.com/track/0UmzMKmO7Xsei8UtGTLjKY) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Cle : LEVANTER](https://open.spotify.com/album/2IhMyxT8egVowwnKB6taoG) | 3:40 |
-| 16 | [Comment 2](https://open.spotify.com/track/3i0ltn5hXmLwBDQv1koSlg) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Stray Kids Fan Connecting 2024 "SKZ TOY WORLD" audio liners](https://open.spotify.com/album/3dH4VpQIJw0ej4iU9OQQs6) | 0:37 |
-| 17 | [LALALALA](https://open.spotify.com/track/79f5CcWzdkkDVD4XAIQgKr) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ROCK\-STAR](https://open.spotify.com/album/5Gpx9ZnR6gLRb9qDmaj3mg) | 3:02 |
-| 18 | [BLIND SPOT](https://open.spotify.com/track/4PV7XCf0Kts7mWu4KPbi56) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ROCK\-STAR](https://open.spotify.com/album/5Gpx9ZnR6gLRb9qDmaj3mg) | 3:20 |
-| 19 | [Surprise Event](https://open.spotify.com/track/3Rxtf8zsDy2xZFMopgr7Ox) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Stray Kids Fan Connecting 2024 "SKZ TOY WORLD" audio liners](https://open.spotify.com/album/3dH4VpQIJw0ej4iU9OQQs6) | 0:58 |
-| 20 | [Farewell Message](https://open.spotify.com/track/6vDSBFMWGRNEswWnyqyDJI) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Stray Kids Fan Connecting 2024 "SKZ TOY WORLD" audio liners](https://open.spotify.com/album/3dH4VpQIJw0ej4iU9OQQs6) | 0:36 |
-| 21 | [FAM](https://open.spotify.com/track/6ilFCE6Ec0g4i6qbay0t6s) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ALL IN](https://open.spotify.com/album/06EHg8PHtDhbZMpE0jmhEn) | 3:35 |
-| 22 | [MIROH](https://open.spotify.com/track/4rDHgjmRMYpuXc60VoTcaJ) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/5dkqH8Cr6MHhxGV0vzIMOM) | 3:28 |
-| 23 | [Double Encore](https://open.spotify.com/track/51dmBd3manaEJEvhLZngqD) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Stray Kids Fan Connecting 2024 "SKZ TOY WORLD" audio liners](https://open.spotify.com/album/3dH4VpQIJw0ej4iU9OQQs6) | 0:17 |
-| 24 | [Haven](https://open.spotify.com/track/7EMFLHNx0hz82fKurCnQvo) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/0UNe68TUKuA57Xo0QrHliu) | 3:19 |
+| 4 | [CASE 143 \-Japanese ver.\-](https://open.spotify.com/track/24c1YnlFKxrAPINd69UlLd) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [THE SOUND](https://open.spotify.com/album/4ZW5rXkLINHYqH2MIAhkP2) | 3:13 |
+| 5 | [神メニュー \-Japanese ver.\-](https://open.spotify.com/track/79jqCoIi1bwD1w2KVCn4VL) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [神メニュー \-Japanese ver.\-](https://open.spotify.com/album/10q9fBdHHAqcBL1AwojxHa) | 2:50 |
+| 6 | [ALL IN](https://open.spotify.com/track/1bIbXKrXRxfNh1l9a9lN2Q) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ALL IN](https://open.spotify.com/album/4A9lWTDR5cObUYfO2IzK8c) | 3:07 |
+| 7 | [WOLFGANG](https://open.spotify.com/track/1VywiJLVD6B4cFkNj5tmKf) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NOEASY](https://open.spotify.com/album/5fNA1Hs2ddXrf8CWJk1Ww7) | 3:10 |
+| 8 | [MIROH](https://open.spotify.com/track/4rDHgjmRMYpuXc60VoTcaJ) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/5dkqH8Cr6MHhxGV0vzIMOM) | 3:28 |
+| 9 | [CIRCUS](https://open.spotify.com/track/2uw2ftfyS4yJLWiTtbxasE) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [CIRCUS](https://open.spotify.com/album/4IQHY28D4aHus9lGDlSdPp) | 3:14 |
+| 10 | [TOPLINE](https://open.spotify.com/track/2OQ30nbqnapjoMlcxKIAJu) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [Tiger JK](https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD) | [5\-STAR](https://open.spotify.com/album/5ZO7GSyxmHa2qwET9zsEe4) | 3:23 |
+| 11 | [S\-Class](https://open.spotify.com/track/6LuvVxHXQDtsPxtE07Ycbe) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [5\-STAR](https://open.spotify.com/album/5ZO7GSyxmHa2qwET9zsEe4) | 3:15 |
+| 12 | [CHILL \-Japanese ver.\-](https://open.spotify.com/track/77hrd0E1jOlJ4Gw5Dqzyoz) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [THE SOUND](https://open.spotify.com/album/4ZW5rXkLINHYqH2MIAhkP2) | 3:18 |
+| 13 | [SLUMP \-Japanese ver.\-](https://open.spotify.com/track/47bH8n39mkMHosMkniJRq0) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SLUMP \-Japanese ver.\-](https://open.spotify.com/album/7GP9GqO7fah2PnwEb9uRUF) | 2:17 |
+| 14 | [SUPER BOARD](https://open.spotify.com/track/4lcJyn1TIlgyx9pdq78Gfg) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [MAXIDENT](https://open.spotify.com/album/4KcYaqE7hjQ1g9ES0QV3bB) | 3:05 |
+| 15 | [My Pace Japanese version](https://open.spotify.com/track/3YQGUxwD2OvuiMhnoiIamL) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/5dkqH8Cr6MHhxGV0vzIMOM) | 3:11 |
+| 16 | [Question](https://open.spotify.com/track/5tuWRIcjZJXPKio9W8jFqh) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/5dkqH8Cr6MHhxGV0vzIMOM) | 3:04 |
+| 17 | [Social Path](https://open.spotify.com/track/3dxcr1h2eM5dgYeWjCQ41H) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Social Path / Super Bowl \-Japanese ver.\-](https://open.spotify.com/album/7xBMOCdTrdP3Y7rDBHp2AW) | 3:18 |
+| 18 | [Super Bowl \-Japanese ver.\-](https://open.spotify.com/track/74zvsuvIImK08x0SyRdw78) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Super Bowl \-Japanese ver.\-](https://open.spotify.com/album/2jUvXg4evkoQmyM9GU3CN3) | 3:05 |
+| 19 | [Hall of Fame](https://open.spotify.com/track/5MgUrkWwWmG88ZJoekItxo) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [5\-STAR](https://open.spotify.com/album/5ZO7GSyxmHa2qwET9zsEe4) | 2:51 |
+| 20 | [Astronaut](https://open.spotify.com/track/7kvRVikkyStN8wEGbn8Gbk) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/5dkqH8Cr6MHhxGV0vzIMOM) | 3:00 |
+| 21 | [Star Lost](https://open.spotify.com/track/2tfxfQC5uWAAVTwWCggr3U) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NOEASY](https://open.spotify.com/album/5fNA1Hs2ddXrf8CWJk1Ww7) | 3:35 |
+| 22 | [Fairytale](https://open.spotify.com/track/0XZL9R2exRu1Rpw6KSAeS4) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [CIRCUS](https://open.spotify.com/album/5lBLKPJtpcRwd0tJFIMw8A) | 2:52 |
+| 23 | [FAM](https://open.spotify.com/track/6ilFCE6Ec0g4i6qbay0t6s) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ALL IN](https://open.spotify.com/album/06EHg8PHtDhbZMpE0jmhEn) | 3:35 |
+| 24 | [Haven](https://open.spotify.com/track/2rvrEiO3OFHxjfnVYNVG0y) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/0Kp2UZGWRQHa3B5e8t93rI) | 3:19 |
 
-Snapshot ID: `Zn5tgAAAAACFP8fXekmT8uBUiDiMelBI`
+Snapshot ID: `Zuo0wgAAAAABbWjmGW7Qbbeeb/66Kay1`

@@ -4,7 +4,7 @@
 
 > Największe rapowe kawałki w tej chwili\. Cover: bambi
 
-422 songs - 19 hr 44 min
+423 songs - 19 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,7 @@
 | [Jestem](https://open.spotify.com/track/1KiBPzmUVcXwWiSUCixaJq) | [INDEB](https://open.spotify.com/artist/6Nlyt1MUEBe1jN0h7F4hn0), [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ) | [Jestem](https://open.spotify.com/album/26Wt3321UY40MOynNll5pr) | 2:56 | 2024-04-15 | 2024-04-26 |
 | [JESTEŚ POJ384NA](https://open.spotify.com/track/5f4h482eo40VoHJAX5rLYz) | [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id) | [<33](https://open.spotify.com/album/3nX8yqFelqnx29MHZ5Cdpi) | 2:44 | 2023-09-21 | 2023-11-17 |
 | [JOEY TRIBBIANI](https://open.spotify.com/track/5fLvitH2z3igxp5haldJhc) | [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id) | [2038: WARSZAWA](https://open.spotify.com/album/6TGFaonWhdetGw3xjH5Qa7) | 3:28 | 2023-12-28 | 2024-01-25 |
-| [JOHNNY DANG](https://open.spotify.com/track/2Q8WXdzGE4okUzDWbzKH48) | [Żabson](https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft) | [JOHNNY DANG](https://open.spotify.com/album/37cllReDw2lRsZsOdUl2lT) | 3:00 | 2024-08-19 |  |
+| [JOHNNY DANG](https://open.spotify.com/track/2Q8WXdzGE4okUzDWbzKH48) | [Żabson](https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft) | [JOHNNY DANG](https://open.spotify.com/album/37cllReDw2lRsZsOdUl2lT) | 3:00 | 2024-08-19 | 2024-09-18 |
 | [joint i sport](https://open.spotify.com/track/0LIK7vqBS8mnxcuOxr0eMI) | [kuqe 2115](https://open.spotify.com/artist/2FtYzWBUVhZ2vfy8S207Zf), [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko) | [joint i sport](https://open.spotify.com/album/08LaqjkYBC1bAKWdBv7FcP) | 2:38 | 2024-07-25 | 2024-08-23 |
 | [Jolie Jolie](https://open.spotify.com/track/2JJ6WnAfVglnYfxZubSukn) | [Blacha 2115](https://open.spotify.com/artist/71tiWMKZ5wpl6E0BdwVQza), [Venom Valentino](https://open.spotify.com/artist/4QqbTDfK1yAeJuNaPTivXy) | [Jolie Jolie](https://open.spotify.com/album/11iiBc9zHpGhPrLWCgVZ2K) | 2:33 | 2023-09-21 | 2024-01-26 |
 | [Już nie mogę przegrać](https://open.spotify.com/track/0zHgCovAQxTGXYt1oZHzlb) | [Aleshen](https://open.spotify.com/artist/4lmMkf4tLyEKBslusiNZdu), [Młody West](https://open.spotify.com/artist/1bOTP9P3CS97UwhBm2WekK), [BAHsick](https://open.spotify.com/artist/0TuA7E5H4nlEtWvpXSr7uv) | [Już nie mogę przegrać](https://open.spotify.com/album/7FuybaBARyucm0TMtoUI6g) | 2:41 | 2024-04-15 | 2024-05-17 |
@@ -196,6 +196,7 @@
 | [LICEUM \(SALA 27\)](https://open.spotify.com/track/6MRatjwwFoJt07cK1bt6FW) | [27.Fuckdemons](https://open.spotify.com/artist/2FhI5QfUYl5iIlUog9HHEw) | [LICEUM \(SALA 27\)](https://open.spotify.com/album/4SIhFEYOOqe0eDvetreSU9) | 3:42 | 2023-11-16 | 2023-12-01 |
 | [Life After Live](https://open.spotify.com/track/0EdRzc8tnZl7aJ4UbYcAiT) | [Białas](https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE), [Lanek](https://open.spotify.com/artist/7afPAbg5jb45KFUSnHIMFG), [SB Maffija](https://open.spotify.com/artist/0AEQNlJAZeghMaFyIYfrQG) | [Life After Live](https://open.spotify.com/album/6xbwZOOPhs2VryqJ3HnTtL) | 2:22 | 2024-02-01 | 2024-03-01 |
 | [Liga mistrzów](https://open.spotify.com/track/5tMMrW1OTjeR6QvdntqlkJ) | [Bonus RPK](https://open.spotify.com/artist/070tdNOiP3pIsGlqNfVkG3), [ReTo](https://open.spotify.com/artist/6QfFTZJHFSe9Xyes6DkAli), [Kizo](https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy), [Oskar83](https://open.spotify.com/artist/7BIHYaTeyOxOKV7EyHF0Z4), [Dj Taek](https://open.spotify.com/artist/5FhjSSoKazHVr8mWpiwW6R), [Wowo](https://open.spotify.com/artist/1EBJRC9rAAPpR2Ru3O6OY0) | [Liga mistrzów](https://open.spotify.com/album/4Vs1pRA4FovhQDxPHEWffJ) | 3:18 | 2024-04-15 | 2024-04-26 |
+| [Lloret de Mar](https://open.spotify.com/track/4S78rQHd6cSC8g2TfdNJTf) | [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id) | [Lloret de Mar](https://open.spotify.com/album/6umGWX7xQ0WgIDeZFsFFYX) | 2:05 | 2024-09-17 |  |
 | [lord dripiez](https://open.spotify.com/track/6iNKBRV0D1ExbbHanODj1D) | [Mlody Korden](https://open.spotify.com/artist/7pSrnhnLz5gKS5LZ9WvhlG) | [lord dripiez](https://open.spotify.com/album/1qnHasblxoblfP6zfipPyb) | 2:18 | 2024-04-29 | 2024-06-14 |
 | [LOWSĄ \(TikTok Version\)](https://open.spotify.com/track/2CsZkDJ6HpCHqiMAtzeDcT) | [Patryk MTS](https://open.spotify.com/artist/4M45bWSgfGzDGIG81IsoOJ), [BeMelo](https://open.spotify.com/artist/58n40EtcUlarXICnPb9ohx), [Deemz](https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt) | [LOWSĄ \(TikTok Version\)](https://open.spotify.com/album/2byJXWgL1wA6JUuj4RFHcC) | 2:15 | 2023-12-07 | 2023-12-15 |
 | [LUBIĘ WIDZIEĆ JAK KTOŚ KRWAWI](https://open.spotify.com/track/7ppZkw4HFDqU9ngyHV4qIv) | [Solar](https://open.spotify.com/artist/1KJvuZHmkpnrjIyTLhhwpb), [Bryan](https://open.spotify.com/artist/1JW9Q2DToFLptGpxXNKHWp) | [LUBIĘ WIDZIEĆ JAK KTOŚ KRWAWI](https://open.spotify.com/album/5ofc9bHhvaTS0oVu8dCXLP) | 2:46 | 2024-01-04 | 2024-01-12 |

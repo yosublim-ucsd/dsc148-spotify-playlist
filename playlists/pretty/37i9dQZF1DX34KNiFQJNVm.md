@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Felipe Araújo com Felipe & Rodrigo, Matuê, Ana Castela  e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,936,572 likes - 83 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,936,685 likes - 83 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 13 | [Topo da Minha Cabeça](https://open.spotify.com/track/6lAQU9g2xFvFYpQjogi4RL) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Barba Negra](https://open.spotify.com/artist/5BPmokvgi18I0XyI0sK0Rq) | [Topo da Minha Cabeça](https://open.spotify.com/album/0kUnqER78fdTcAEPDCpwo0) | 4:12 |
 | 14 | [Códigos](https://open.spotify.com/track/2PH0WcFIMJAs6TWkvt66GS) | [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo), [Mc Luki](https://open.spotify.com/artist/3I44LJGCaI0gSPPz3n16xn) | [Códigos](https://open.spotify.com/album/4uQxRXi2N4EALdWElPZRnu) | 3:29 |
 | 15 | [Botei a V.U Na Boca Do Povo](https://open.spotify.com/track/69yKMqExUqRC2rlHddG4Hu) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Até aqui, Slip nos ajudou](https://open.spotify.com/album/1lr9pXQK8ehO7mynb1XAhS) | 2:31 |
-| 16 | [Toca A Chorosa \- Ao Vivo](https://open.spotify.com/track/6aIZXdSHQlGDmyAtOM8kuh) | [PH e Michel](https://open.spotify.com/artist/2K4WKKLOh0k8NwbzDRgIqi), [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ) | [Toca A Chorosa \- Ao Vivo](https://open.spotify.com/album/4o6bSD0VLabYwbovGg692R) | 2:45 |
+| 16 | [Toca A Chorosa \- Ao Vivo](https://open.spotify.com/track/6aIZXdSHQlGDmyAtOM8kuh) | [PH e Michel](https://open.spotify.com/artist/2K4WKKLOh0k8NwbzDRgIqi), [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ) | [Toca A Chorosa \(Ao Vivo\)](https://open.spotify.com/album/4o6bSD0VLabYwbovGg692R) | 2:45 |
 | 17 | [Tô por Aí](https://open.spotify.com/track/0qnHUVrHcXuVbbuqeQkK6V) | [Rionegro & Solimões](https://open.spotify.com/artist/33NrinbbEctw1wsdKNgZeZ) | [Tô por Aí](https://open.spotify.com/album/50JXoOijHWJ6oD1IbL4PiI) | 3:21 |
 | 18 | [Por Toda Vida \- Ao Vivo](https://open.spotify.com/track/4TX9k4NLdF1UiYZuNFbL8Y) | [Nadson O Ferinha](https://open.spotify.com/artist/7KdmibNmW5J0q5YtGnJqQ8) | [Vibezinha do Ferinha, Ep 04 \- Ao Vivo](https://open.spotify.com/album/5YkjwUaNRPdqMSecGMItnS) | 2:20 |
 | 19 | [S De Sua](https://open.spotify.com/track/4RbB2PKisTyT3a6wNGRvnw) | [Paula Fernandes](https://open.spotify.com/artist/1nca3OA1kKCpP6aPJcBL92) | [Qual Amor Te Faz Feliz? \- EP2](https://open.spotify.com/album/29QKVMpS9vfsLgWLcSEQDs) | 2:45 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 82 | [Sequência de Tapa \- inHouse](https://open.spotify.com/track/4OD7hK71JTLS6r7swC8Fo8) | [Dj Ramon Sucesso](https://open.spotify.com/artist/4TU1r1V7Xp6Ov2X2irfm3J), [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2) | [Sequência de Tapa \- inHouse](https://open.spotify.com/album/6wmBk17q3Kgar4Sg3LV8kG) | 1:46 |
 | 83 | [tudo com você vira arte](https://open.spotify.com/track/63qiEme3qWfjJlkcRqdhdk) | [BIAB](https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF), [Maui](https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed) | [tudo com você vira arte](https://open.spotify.com/album/1CyRf28cqFaHTeYvFgmuPq) | 2:40 |
 
-Snapshot ID: `ZuRxGAAAAACEsJWzX795Z8WAbr62JQVe`
+Snapshot ID: `ZuRxGAAAAAAxWD4JmwoXVWE8c9KUjCZl`

@@ -4,7 +4,7 @@
 
 > 
 
-1,970 songs - 4 day 10 hr 5 min
+1,974 songs - 4 day 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [7 Words](https://open.spotify.com/track/6DoXuH326aAYEN8CnlLmhP) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Adrenaline](https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG) | 3:43 | 2023-06-06 |  |
 | [7 years](https://open.spotify.com/track/4jQDJPgw3qkc1T2f1safdy) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [BJ Burton](https://open.spotify.com/artist/79qKFHLgvS3SEabYpohRHz) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 3:15 | 2022-06-09 |  |
 | [745 sticky](https://open.spotify.com/track/2fwz9mBaELJCzXuEEEe35Y) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [1000 gecs](https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu) | 2:21 | 2021-11-14 |  |
+| [7676](https://open.spotify.com/track/3jBhASZVd2RrftiJEWYYc3) | [Death Souljah](https://open.spotify.com/artist/7cR5NVExHuLAIqS8fU5RFo) | [7676](https://open.spotify.com/album/2yCFIWho0f6SNisQ9FZ0e3) | 1:56 | 2024-09-18 |  |
 | [8](https://open.spotify.com/track/6X29iaaazwho3ab7GNue5r) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 2:53 | 2021-08-05 |  |
 | [800 db cloud](https://open.spotify.com/track/2MLuFz9Y3Vg3PF0Yf93M5c) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [1000 gecs](https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu) | 2:20 | 2021-11-14 |  |
 | [999](https://open.spotify.com/track/7H3bV5VsjmGfXdZHRqxH89) | [PlayaPhonk](https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D) | [999](https://open.spotify.com/album/4vx1O1NVgcbvROjsiAdzfL) | 1:52 | 2023-01-03 |  |
@@ -451,6 +452,7 @@
 | [Death by Dishonor](https://open.spotify.com/track/5VphpldmtVyZH6S8RpHWLT) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW), [Shakewell](https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB), [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY), [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) | [Death by Dishonor](https://open.spotify.com/album/5qRYOrYeEri6gV2PRFfn3H) | 3:12 | 2021-08-05 |  |
 | [Death Knell for a King](https://open.spotify.com/track/58KPGS8ZtjD4NH80UUkjws) | [Satan](https://open.spotify.com/artist/1LNgvz72fQVLe7ZNIw6Ipo) | [Cruel Magic](https://open.spotify.com/album/7KdiGTiJKqcgaV9BboPdtq) | 3:53 | 2022-12-30 |  |
 | [Death of a Bachelor](https://open.spotify.com/track/1BECwm5qkaBwlbfo4kpYx8) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 3:23 | 2021-08-05 |  |
+| [DEATH RATTLE](https://open.spotify.com/track/5NCXIjreIgVsGEaDpclbVs) | [Miguel Angeles](https://open.spotify.com/artist/14xRX3JR8H4RWh8R7V3fvZ) | [DEATH RATTLE](https://open.spotify.com/album/189IFXJK0O6orcVrUDwU7d) | 2:40 | 2024-09-18 |  |
 | [Debugged](https://open.spotify.com/track/0iW299Y3Vs8hawWYLwnQrS) | [C!erra My$t](https://open.spotify.com/artist/49xeZQkZtyvt4xAuZCKYwk) | [Witness of Another World](https://open.spotify.com/album/3C3XEC0CDqfGZY6XPkxAJO) | 1:24 | 2023-02-22 |  |
 | [Deceptacon](https://open.spotify.com/track/4yeILpRczJAXG6kAsE7pGk) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [The Punk Singer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DoTlKAupC8rNAdb0tNmZ2) | 3:04 | 2021-08-05 |  |
 | [Decibel Tool](https://open.spotify.com/track/4ePHFEaLIVruU7IG8zKv9O) | [Element](https://open.spotify.com/artist/7hb1BiulwZ6lAflLQeQVJU), [Kruelty](https://open.spotify.com/artist/30sKm4Zacgq8mC0l7vNmuD) | [Decibel Tool](https://open.spotify.com/album/1TOyCfDoaIBKF87fRTekqb) | 2:42 | 2023-05-17 |  |
@@ -1465,6 +1467,7 @@
 | [Same Shit](https://open.spotify.com/track/113ABbZblS6NJV4fCG15UX) | [KAIBA](https://open.spotify.com/artist/0z5bBTvQjQc5C3rwbPylgk), [Nikolai Rya](https://open.spotify.com/artist/2FxEM88d2NBY7wnAUriYBg) | [808 Alpha Hybrid](https://open.spotify.com/album/2tiDT778R4wvzjDSpF29gW) | 2:46 | 2021-08-05 |  |
 | [Santeria](https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 3:02 | 2021-08-05 |  |
 | [Sarcasm](https://open.spotify.com/track/4oIz2sSw4hyFxYbshVYJPD) | [Get Scared](https://open.spotify.com/artist/5r9uIJCoquVtEkCkvcn8Ez) | [Get Scared](https://open.spotify.com/album/4LhSQTbwuYCsF9OoW1OtDJ) | 3:17 | 2021-08-05 |  |
+| [Satan Was A Babyboomer](https://open.spotify.com/track/3IVrlcM5gDoj3lghHY9m7I) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Satan Was A Babyboomer](https://open.spotify.com/album/42nVxnZ0BD7Vt3sMK0t8Ss) | 7:07 | 2024-09-18 |  |
 | [Satanic Slumber Party](https://open.spotify.com/track/0ICUKBKREHRLjER0tpVUsQ) | [Elita](https://open.spotify.com/artist/7ApzfFN0BmeeVJPsQBReRv) | [Satanic Slumber Party](https://open.spotify.com/album/1DzDpnu7RRi9E7kAELM3Ec) | 3:03 | 2022-06-21 |  |
 | [Satellite from days of old, lead me to your access code](https://open.spotify.com/track/6EzsxLjtrmpe9WsapwDGxE) | [Blksmiith](https://open.spotify.com/artist/3K49BAizpfWdDws7kKsdwu) | [「DIGITAL TWIN」](https://open.spotify.com/album/1JjcGFfD4KGiG6m1mOgxnq) | 3:36 | 2023-04-23 |  |
 | [Saturday](https://open.spotify.com/track/423FiDerFgzeEcqKEOmZ81) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Take This to Your Grave](https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY) | 3:36 | 2021-12-30 |  |
@@ -1969,6 +1972,7 @@
 | [ZEZE \(feat\. Travis Scott & Offset\)](https://open.spotify.com/track/0FZ4Dmg8jJJAPJnvBIzD9z) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Dying to Live](https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp) | 3:48 | 2021-08-05 |  |
 | [Zombie Ritual](https://open.spotify.com/track/4K3qzy3AR3Lo02ybxs90gW) | [Death](https://open.spotify.com/artist/4f5V3PQ66nIrBCqugJtaGn) | [Scream Bloody Gore](https://open.spotify.com/album/0PvGbpxBh7faAVbeZM4sIm) | 4:33 | 2021-08-05 |  |
 | [Грустная сука](https://open.spotify.com/track/18hIrODUziu3KyUxeDKlcq) | [IC3PEAK](https://open.spotify.com/artist/3luonLzvSOxdU8ytCaEIK8) | [Сладкая жизнь](https://open.spotify.com/album/1x5XZhwID74j0tqkcU6hCy) | 3:19 | 2021-08-05 |  |
+| [ЗАВОД](https://open.spotify.com/track/0JCG4FU6reipiFnJ0sGloH) | [ZAPRAVKA](https://open.spotify.com/artist/4oCaLmRVMM4Ck4VGrmh4VC) | [ЗАВОД](https://open.spotify.com/album/3BT92x77jU94cOAqg92Ijw) | 2:03 | 2024-09-18 |  |
 | [Смерти Больше Нет](https://open.spotify.com/track/1PPXvuqGAF3UCbsveKoOIV) | [IC3PEAK](https://open.spotify.com/artist/3luonLzvSOxdU8ytCaEIK8) | [Сказка](https://open.spotify.com/album/63AxG9uYC7oKufwKXf68jC) | 3:22 | 2021-08-05 |  |
 | [Судно \(Борис Рижий\)](https://open.spotify.com/track/6DONTnamNDOJdO6DzCu71p) | [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [Этажи](https://open.spotify.com/album/1vPytXXwF0VXnof89Z91Pm) | 2:21 | 2021-08-05 |  |
 | [траур](https://open.spotify.com/track/4HshIGYVQfbCfS8xPKLNcL) | [вышел покурить](https://open.spotify.com/artist/1YMUxFiaKsU85N9YolW0W9) | [север](https://open.spotify.com/album/6L6rz0eEzrl8L8YDSZglvA) | 2:15 | 2021-08-05 |  |

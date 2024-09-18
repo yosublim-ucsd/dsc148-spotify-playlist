@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZabLDQymgK1.md) - [plain]
 
 > Homoelectric is a legendary queer\-clubbing utopia, creating a safe space at the heart of Manchester’s LGBTQIA+ scene\. This is their sound of Pride.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,192 likes - 50 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,196 likes - 50 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZabLDQymgK1.md) - [plain]
 | 22 | [Perspex Sex \- Ewan's Hi\-NRG Remix](https://open.spotify.com/track/0UuI04fLX0AFGIVqwzTZwZ) | [Freeform Five](https://open.spotify.com/artist/5moj04MGEjXS0834GF3wK5), [Ewan Pearson](https://open.spotify.com/artist/6PQgiQKFKgk7EJElgUPo7y) | [Perspex Sex \(Remixes\)](https://open.spotify.com/album/0nF7cu31srje4db7gbv3wH) | 8:00 |
 | 23 | [Mothership Reconnection \(feat\. Parliament/Funkadelic\) \- \(Daft Punk Remix\)](https://open.spotify.com/track/5aWVNrjqFHCATLIhS2na3t) | [Scott Grooves](https://open.spotify.com/artist/7hwWjHjLHvhSDngoe2Pkbe), [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH), [Funkadelic](https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru) | [Musique, Vol\. 1](https://open.spotify.com/album/4a0p1M12f7VaZWdoNSdEK4) | 4:00 |
 | 24 | [Another Man \- 2012 \- Remaster](https://open.spotify.com/track/33qq1FKftOqTzUMKYed45x) | [Barbara Mason](https://open.spotify.com/artist/5PmZd7YOaUgQwhOja44fmZ) | [The West End Story, Vol\. 2 \(2012 \- Remaster\)](https://open.spotify.com/album/5bYi0lm8inqOHBgx5bWpwd) | 6:56 |
-| 25 | [I Hear Music in the Streets](https://open.spotify.com/track/5HgE5eXfu0An2moseSM635) | [Unlimited Touch](https://open.spotify.com/artist/4VaFWblR1Rv24L8kAfhtxm) | [Searching to Find the One](https://open.spotify.com/album/31fKBqNpIIRDSiBoTv408q) | 6:53 |
+| 25 | [I Hear Music in the Streets \- François Kevorkian Mix](https://open.spotify.com/track/5HgE5eXfu0An2moseSM635) | [Unlimited Touch](https://open.spotify.com/artist/4VaFWblR1Rv24L8kAfhtxm) | [Searching to Find the One](https://open.spotify.com/album/31fKBqNpIIRDSiBoTv408q) | 6:53 |
 | 26 | [You Don't Know \- Special Remix](https://open.spotify.com/track/5vA6h1EpoCwqDpg1NyU7GE) | [Serious Intention](https://open.spotify.com/artist/4ujvWktT7I5RaDVWCiohjS) | [You Don't Know](https://open.spotify.com/album/3ibVYaJ4bKSoNQVan9WPmS) | 8:18 |
 | 27 | [Let Me Love You for Tonight \- House Club Version](https://open.spotify.com/track/3M2eKHfiVbAcdVbXq2vuHl) | [Kariya](https://open.spotify.com/artist/2v7BAefOHtrwbwIaeSrznH) | [Let Me Love You for Tonight](https://open.spotify.com/album/4O98lK9544U20ateVtGfaX) | 6:18 |
 | 28 | [Do You Feel Me](https://open.spotify.com/track/4Zx7dq5F1Zr3AIFv23uE0d) | [New York's Finest](https://open.spotify.com/artist/4VmSmg7wFRxvvzmAPtNaNg) | [Bassline: The Comp'](https://open.spotify.com/album/5wFzFToDwgoGBfdD49kvOJ) | 6:49 |

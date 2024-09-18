@@ -1,12 +1,12 @@
 {
   "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : Vasu Dixit, Manuality, Joel Sakkari",
-  "num_followers": 23482,
+  "num_followers": 23487,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuPoIQAAAAAzX1nc4a9SwfvK3JHe54iC",
+  "snapshot_id": "ZulD2QAAAADXox4aoTQLAZ0rRk2S2w6e",
   "tracks": [
     {
       "added_at": "2024-09-09 06:16:19",
@@ -111,6 +111,22 @@
       "duration_ms": 216428,
       "name": "Saniha",
       "url": "https://open.spotify.com/track/4wNFpCaaNnjZulNoOzi6Pn"
+    },
+    {
+      "added_at": "2024-09-17 08:54:39",
+      "album": {
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/7dToRHP9YSM59XDasnwIbw"
+      },
+      "artists": [
+        {
+          "name": "Ashwamedha Karthik",
+          "url": "https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2"
+        }
+      ],
+      "duration_ms": 137571,
+      "name": "First Love",
+      "url": "https://open.spotify.com/track/2TANr2y6MZbHRSqHYZ0juI"
     },
     {
       "added_at": "2024-08-27 07:27:56",
@@ -1411,26 +1427,6 @@
       "duration_ms": 264125,
       "name": "AMADA",
       "url": "https://open.spotify.com/track/5hyRMNjIVnHK4cvkjddsCG"
-    },
-    {
-      "added_at": "2024-04-01 07:12:09",
-      "album": {
-        "name": "Pade Pade",
-        "url": "https://open.spotify.com/album/6iCiUYkdLka3GrO8cpuTuf"
-      },
-      "artists": [
-        {
-          "name": "Akshay Pattanshetti",
-          "url": "https://open.spotify.com/artist/4aDW9nSPFchayJfx8qrur8"
-        },
-        {
-          "name": "Riyaz MN",
-          "url": "https://open.spotify.com/artist/26XD6i7V9Zq6OoTABiVjjw"
-        }
-      ],
-      "duration_ms": 184615,
-      "name": "Pade Pade",
-      "url": "https://open.spotify.com/track/63eNczU8Mm6NXK6qb2GhJr"
     }
   ],
   "unique_name": "Kannada Indie",

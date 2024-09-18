@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa Lukas Leon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,758 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,773 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Banksy](https://open.spotify.com/track/18fmER5eYZc0onTxcI9tnJ) | [Lukas Leon](https://open.spotify.com/artist/1lDaPfGRA6miVIOjZbY50n) | [Banksy](https://open.spotify.com/album/6uzeJCuFMAL2Wi27yaPaMx) | 2:37 |
 | 2 | [Dice](https://open.spotify.com/track/5xod0Sm1xqBRMpc5qQnZyc) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Dice](https://open.spotify.com/album/5nKMPmfTjHJMOM1ZQRdOTk) | 3:00 |
 | 3 | [Sitä samaa \(feat\. Bizi & Robin Packalen\)](https://open.spotify.com/track/35poFqiiThWrEIc7DGHvyi) | [Danitello](https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE), [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV), [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Sitä samaa \(feat\. Bizi & Robin Packalen\)](https://open.spotify.com/album/20JIHmHkQfrffYJgpEi5lX) | 2:56 |
-| 4 | [Yötön yö](https://open.spotify.com/track/00EI0kIF3M2K4wrxJmsXWF) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Yötön yö](https://open.spotify.com/album/7B02QWRfAKJ1D99ld6atac) | 2:49 |
+| 4 | [Suomalainen Superstara](https://open.spotify.com/track/4S61u0InVCx79RqYYMLTgC) | [jambo](https://open.spotify.com/artist/1fy2OEMI7TX9ayBKxErHK0), [Mikael Laurent](https://open.spotify.com/artist/5tflzG5jjh0ka3SrnOgewO) | [Suomalainen Superstara](https://open.spotify.com/album/7tLEy14aDUE1SQNd7yMQyW) | 3:02 |
 | 5 | [Ärsyttävä](https://open.spotify.com/track/6Wi8ubwyHMnwjCJxTmoEfJ) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Ärsyttävä](https://open.spotify.com/album/06oUPbFhbOhSePYf6paXqX) | 2:38 |
-| 6 | [Vitun hyvin](https://open.spotify.com/track/6jzj3EKhF4WcS6upHWimXp) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Vitun hyvin](https://open.spotify.com/album/54UQ1ZPAhJX98PuBIVIVSL) | 3:00 |
-| 7 | [Suomalainen Superstara](https://open.spotify.com/track/4S61u0InVCx79RqYYMLTgC) | [jambo](https://open.spotify.com/artist/1fy2OEMI7TX9ayBKxErHK0), [Mikael Laurent](https://open.spotify.com/artist/5tflzG5jjh0ka3SrnOgewO) | [Suomalainen Superstara](https://open.spotify.com/album/7tLEy14aDUE1SQNd7yMQyW) | 3:02 |
+| 6 | [Yötön yö](https://open.spotify.com/track/00EI0kIF3M2K4wrxJmsXWF) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Yötön yö](https://open.spotify.com/album/7B02QWRfAKJ1D99ld6atac) | 2:49 |
+| 7 | [Vitun hyvin](https://open.spotify.com/track/6jzj3EKhF4WcS6upHWimXp) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Vitun hyvin](https://open.spotify.com/album/54UQ1ZPAhJX98PuBIVIVSL) | 3:00 |
 | 8 | [Ikuinen elokuu](https://open.spotify.com/track/5L1Zw17VPvmxuWa8PppvbY) | [ROBIN](https://open.spotify.com/artist/7irUub9i4hf8MO0hwUaxUM), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Ikuinen elokuu](https://open.spotify.com/album/1HomvM6Akkl0H1uQBulmTZ) | 3:54 |
 | 9 | [Lightskinboy \(feat\. Sexmane\)](https://open.spotify.com/track/1PUwncTlHx89aP8nIfObSO) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Lightskinboy \(feat\. Sexmane\)](https://open.spotify.com/album/3ZtPi15BOXrYLDSrRH1eIv) | 2:26 |
 | 10 | [SELVIYTYJÄ](https://open.spotify.com/track/3atnoHWVZSbgeBUMoKXCJG) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf) | [SELVIYTYJÄ](https://open.spotify.com/album/2xlnq9qgRnJtP1wFh2GfyJ) | 2:23 |
@@ -30,12 +30,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 20 | [Stunttaa](https://open.spotify.com/track/3pHedpfRhjtt6Adzmu2kpO) | [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g) | [Stunttaa](https://open.spotify.com/album/4VnQeKI8vqpPcdxTedJFgJ) | 2:58 |
 | 21 | [Kusipää](https://open.spotify.com/track/6Z5OLH0shZIbkRDxx7xD11) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [<3](https://open.spotify.com/album/1XFTTD1GYqnF6WmTwKWMeo) | 2:48 |
 | 22 | [Mama We Made It \(feat\. MELO\)](https://open.spotify.com/track/4lENOvjyCPNfU2WIRjaFbb) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq), [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz) | [Mama We Made It \(feat\. MELO\)](https://open.spotify.com/album/5jgLgWJeOG6QMJYKxH0tQM) | 2:54 |
-| 23 | [Up](https://open.spotify.com/track/2ESCQGR2fFf3OScucQ6mci) | [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr), [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2) | [Mushkila](https://open.spotify.com/album/763qzlJigg3lsHzP6Knuy3) | 2:36 |
-| 24 | [Sirkus](https://open.spotify.com/track/0Ekrxw3lGOi3upnMTH90VY) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Sirkus](https://open.spotify.com/album/3ncKZQQaLP3Ikw1vpIX24F) | 2:52 |
-| 25 | [Täydellinen](https://open.spotify.com/track/19mKgvz3lPyUJBXvnXXuvv) | [Blacflaco](https://open.spotify.com/artist/7pRRxojl7QoW1M7s4Zhxo4) | [Täydellinen](https://open.spotify.com/album/4t2rUEiSmBtwVpe1tA7MkX) | 2:28 |
+| 23 | [Sirkus](https://open.spotify.com/track/0Ekrxw3lGOi3upnMTH90VY) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Sirkus](https://open.spotify.com/album/3ncKZQQaLP3Ikw1vpIX24F) | 2:52 |
+| 24 | [Täydellinen](https://open.spotify.com/track/19mKgvz3lPyUJBXvnXXuvv) | [Blacflaco](https://open.spotify.com/artist/7pRRxojl7QoW1M7s4Zhxo4) | [Täydellinen](https://open.spotify.com/album/4t2rUEiSmBtwVpe1tA7MkX) | 2:28 |
+| 25 | [Neliapila](https://open.spotify.com/track/4CuNx6T9rJWbwZ4KyEHYmr) | [LAVAREDO](https://open.spotify.com/artist/216ONfeqa8BHCqowYhDgWD) | [Neliapila](https://open.spotify.com/album/3rTVnlLuXWS1f9yYNukwio) | 2:33 |
 | 26 | [Painajaiset](https://open.spotify.com/track/4uja2Q6sXUYoGgjvWUlFez) | [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ) | [Kehykset](https://open.spotify.com/album/1V3KJYqBkdDSHFY3oAurAR) | 2:59 |
-| 27 | [Neliapila](https://open.spotify.com/track/4CuNx6T9rJWbwZ4KyEHYmr) | [LAVAREDO](https://open.spotify.com/artist/216ONfeqa8BHCqowYhDgWD) | [Neliapila](https://open.spotify.com/album/3rTVnlLuXWS1f9yYNukwio) | 2:33 |
-| 28 | [Fantastic](https://open.spotify.com/track/7iB24zoNKn1Vp3vCZ9VLEH) | [Purplape](https://open.spotify.com/artist/1f0beje3cU2AASjPmpGE7V) | [Fantastic](https://open.spotify.com/album/6QSNt9jzZpqyJcsI9QAg3J) | 2:28 |
+| 27 | [Fantastic](https://open.spotify.com/track/7iB24zoNKn1Vp3vCZ9VLEH) | [Purplape](https://open.spotify.com/artist/1f0beje3cU2AASjPmpGE7V) | [Fantastic](https://open.spotify.com/album/6QSNt9jzZpqyJcsI9QAg3J) | 2:28 |
+| 28 | [Up](https://open.spotify.com/track/2ESCQGR2fFf3OScucQ6mci) | [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr), [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2) | [Mushkila](https://open.spotify.com/album/763qzlJigg3lsHzP6Knuy3) | 2:36 |
 | 29 | [Pakumies](https://open.spotify.com/track/5cCNHGzNVKx2xAF5wtgCVk) | [Mäkki](https://open.spotify.com/artist/2510ceejHZpIpxbGpiovch) | [Pakumies](https://open.spotify.com/album/5NaDafoOkS8V3v2n90TBFM) | 2:31 |
 | 30 | [JORMA](https://open.spotify.com/track/27E5yfWXypHK18dcwEB0cV) | [Nebi](https://open.spotify.com/artist/0GFEJvcMqGLuhOUUZJavP4) | [JORMA](https://open.spotify.com/album/4c0HtgvUZ3Agx3AoLDP5bx) | 2:33 |
 | 31 | [Aakkosmurha \- Pt\. 2](https://open.spotify.com/track/30K7zpQJVg2beOCWJsS2Tw) | [Paleface](https://open.spotify.com/artist/5CNgBVZXUEEGqyzgjUAgDj) | [Aakkosmurha \- Pt\. 2](https://open.spotify.com/album/53cL1nw25jmDkKalBYso9Y) | 4:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 49 | [Ekaa kertaa](https://open.spotify.com/track/0QDClEFoNZVkSjW6ADTiL2) | [TUULI](https://open.spotify.com/artist/4CvGI7cUCGi7gcG0X0nrwc) | [Ekaa kertaa](https://open.spotify.com/album/4XfVGVY6iTZS0ggYpMc7LF) | 3:13 |
 | 50 | [TIPPA x OFF THE BOOTH \(S2\)](https://open.spotify.com/track/3zaDes14AojI2jAze3DdKN) | [OFF THE BOOTH](https://open.spotify.com/artist/6lneXpoKhbBtujfCjkMD6g), [TIPPA](https://open.spotify.com/artist/0kWknKjD7r2hNh8KntEx59) | [TIPPA x OFF THE BOOTH \(S2\)](https://open.spotify.com/album/1wfLF4m6Ur3ESBa4x68eEX) | 2:06 |
 
-Snapshot ID: `ZuWUyQAAAAA7qvAZNyNcRWP6HMNXzQQO`
+Snapshot ID: `ZulEfgAAAAA6VoliVSiLYCq59VwRYHcg`

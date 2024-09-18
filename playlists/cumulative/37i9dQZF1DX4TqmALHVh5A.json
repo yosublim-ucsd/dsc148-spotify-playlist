@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Bryan's Magic Tears",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : La Femme",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -2135,7 +2135,7 @@
     },
     {
       "album": {
-        "name": "M\u00e9chant gar\u00e7on (feat. Chien Noir)",
+        "name": "M\u00e9chant gar\u00e7on",
         "url": "https://open.spotify.com/album/2mGz7zRWccHazZEIZnXqBJ"
       },
       "artists": [
@@ -2152,7 +2152,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 176088,
-      "name": "M\u00e9chant gar\u00e7on (feat. Chien Noir)",
+      "name": "M\u00e9chant gar\u00e7on",
       "url": "https://open.spotify.com/track/0UxirFJ2VwSeVI2xLXgSuU"
     },
     {
@@ -3082,7 +3082,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 272746,
       "name": "Stream Roller",
       "url": "https://open.spotify.com/track/6no1ETaFSFnyGHWtki50zI"
@@ -3158,6 +3158,24 @@
       "duration_ms": 181400,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/4yeQykjmOJeVxxfEoyPfiA"
+    },
+    {
+      "album": {
+        "name": "tellement que jmen fiche :)",
+        "url": "https://open.spotify.com/album/4OSewRcz07w6ToOAT6pXiu"
+      },
+      "artists": [
+        {
+          "name": "Liv del Estal",
+          "url": "https://open.spotify.com/artist/2QFqSnoWpKrh7zmNrFQltY"
+        }
+      ],
+      "date_added": "2024-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147186,
+      "name": "tellement que jmen fiche :)",
+      "url": "https://open.spotify.com/track/2pz7x6wZwlDgDe38zDf0pG"
     },
     {
       "album": {

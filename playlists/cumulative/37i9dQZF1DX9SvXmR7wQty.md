@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: GIMS
 
-2,804 songs - 6 day 5 hr 10 min
+2,805 songs - 6 day 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1234,7 +1234,7 @@
 | [Kicks](https://open.spotify.com/track/4E35SNiisoI8tzq8JWSABO) | [Nightshifts](https://open.spotify.com/artist/1GLzXZd8MfzeQgkKKR7k8C), [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9) | [Kicks](https://open.spotify.com/album/5OLA2sIxJKMwDPFKxDFCcl) | 3:31 | 2022-03-11 | 2022-03-26 |
 | [Kid Sentiment](https://open.spotify.com/track/7eotaZbb99gmoxVFqZwKhu) | [Gazoline](https://open.spotify.com/artist/0jmQKrs8Mir77PffQBo0Jt) | [Gazoline III \(Deluxe\)](https://open.spotify.com/album/4uTqrqLcH4OABXRQGappdF) | 2:47 | 2023-11-17 | 2023-11-25 |
 | [Kilimanjaro](https://open.spotify.com/track/6uAjco2VicGZDJqdNLYywt) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [Kilimanjaro](https://open.spotify.com/album/3ApkOCkyKRXJ1tNFnbWbv6) | 2:45 | 2022-03-25 | 2022-04-09 |
-| [killa](https://open.spotify.com/track/6SHYeNSIkCXZy5m6pvFXkV) | [Rounhaa](https://open.spotify.com/artist/6jFcJYXzABu7Us9iwENUJe), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [killa](https://open.spotify.com/album/0Z67jZ23bypOD4ZpuOlriu) | 2:21 | 2024-07-26 |  |
+| [killa](https://open.spotify.com/track/6SHYeNSIkCXZy5m6pvFXkV) | [Rounhaa](https://open.spotify.com/artist/6jFcJYXzABu7Us9iwENUJe), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [killa](https://open.spotify.com/album/0Z67jZ23bypOD4ZpuOlriu) | 2:21 | 2024-07-26 | 2024-09-18 |
 | [KILLA \- From The "Falcon Lake" Soundtrack](https://open.spotify.com/track/0e3l1WD8ir3uHDnvgD8nwu) | [PL & Wheelie](https://open.spotify.com/artist/52czYuGgddMVmRsEenbJLv) | [KILLA \(From The "Falcon Lake" Soundtrack\)](https://open.spotify.com/album/2JjZCqrpGOE07sajCd9OWV) | 3:14 | 2022-11-11 | 2022-12-03 |
 | [KING](https://open.spotify.com/track/2fovnpipNfOTsEpi210iWm) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [KING](https://open.spotify.com/album/6b6vsgLeLJTGCLBwOtLPsB) | 3:49 | 2022-02-18 | 2022-03-05 |
 | [King\-V](https://open.spotify.com/track/1QgzTqitUmu9j6mnSS2C0t) | [Boutot](https://open.spotify.com/artist/7HFhi8w52p30roEfUmV7Mh) | [King\-V](https://open.spotify.com/album/11XbARlvVaV8ujs9BsGnhY) | 2:23 | 2022-04-22 | 2022-05-07 |
@@ -1586,6 +1586,7 @@
 | [Ma chérie](https://open.spotify.com/track/2Kle8vKrSquAU200Sb5WHp) | [Ici c'est Paris](https://open.spotify.com/artist/0XVAP17xehWKLmcb0DhtbZ), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Ma chérie](https://open.spotify.com/album/2Ff3vqpWfrBskuHurHzaK3) | 3:33 | 2022-08-19 | 2022-09-03 |
 | [Ma douce \(feat\. Soolking\)](https://open.spotify.com/track/17JXkST3znIDJ2zkpr0cZR) | [Emkal](https://open.spotify.com/artist/4ZPLdCBeYJBAjsLTWRcZEs), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Coeur ouvert](https://open.spotify.com/album/0QEGWT2rxEPmNmjnClMYVi) | 2:50 | 2022-09-30 | 2022-10-15 |
 | [Ma drogue](https://open.spotify.com/track/2AFT8fANFNiYV2ua5hkrS2) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Extraterrestre](https://open.spotify.com/album/4DqWj7iB2Xa2DQYiWcT7ks) | 2:48 | 2022-06-03 | 2022-06-18 |
+| [Ma Life](https://open.spotify.com/track/7yIqiHZosw9LaQ2UHRjmuN) | [Dadi](https://open.spotify.com/artist/2YRHC9O0GHvyHY38yFP434), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [TPLM](https://open.spotify.com/album/32HEw0WO1on4Pe8Yx8uxac) | 2:32 | 2024-09-13 |  |
 | [Ma maison aux vents fous](https://open.spotify.com/track/5x1nwSbFot6fn7P2Cr83RM) | [LARCHE](https://open.spotify.com/artist/1EIPhCiePboY8AlbZr4HMv) | [Ma maison aux vents fous](https://open.spotify.com/album/2RJy4uqDAHIESe5pk7bAUv) | 3:23 | 2022-07-08 | 2022-07-23 |
 | [Ma muse](https://open.spotify.com/track/04Y0l7UQzs13uyKXzCYi2p) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Ma muse / Je t'haine](https://open.spotify.com/album/6GuWrATXQamfjDlQdion0H) | 2:58 | 2023-09-22 | 2023-11-25 |
 | [Ma peau brûle](https://open.spotify.com/track/0CSnwni3GSWONb9hvpaxfx) | [Mayfly](https://open.spotify.com/artist/4VcvgYlholfTOH1dN15rSw) | [HIDEAWAY, Vol\. I](https://open.spotify.com/album/66LghYktR6TEc6bzm0wjuN) | 3:22 | 2023-01-13 | 2023-01-28 |

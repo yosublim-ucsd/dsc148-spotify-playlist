@@ -1,15 +1,15 @@
 {
   "description": "Enjoy music from \"Sound! Euphonium\"! /\u300c\u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e0\u300d\u306e\u697d\u66f2\u3092\uff11\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002\u00a9\u6b66\u7530\u7dbe\u4e43\u30fb\u5b9d\u5cf6\u793e\uff0f\u300e\u97ff\u3051\uff01\u300f\u88fd\u4f5c\u59d4\u54e1\u4f1a2024",
-  "num_followers": 22854,
+  "num_followers": 22862,
   "original_name": "Sound! Euphonium \u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e0 ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZiPYcAAAAAD4I33eKsPZKyiAjt1CAup3",
+  "snapshot_id": "ZumZcAAAAABJvvZSxtnNhOEJkGBT7Ocr",
   "tracks": [
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "ReCoda",
         "url": "https://open.spotify.com/album/6F6tJps2NxpypE3kLXKoeC"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/7zM1xbQFnLduqtTC5rOBF7"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "\u97f3\u8272\u306e\u5f7c\u65b9",
         "url": "https://open.spotify.com/album/2LVlczi0QExSEZylxJcwVR"
@@ -41,7 +41,67 @@
       "url": "https://open.spotify.com/track/6mAh7PZJltBqSTCMJufvMn"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e0\uff13\u300f\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30b7\u30f3\u30b0\u30eb Vol.1",
+        "url": "https://open.spotify.com/album/15Rm89ujvObxTjbZEFGoGv"
+      },
+      "artists": [
+        {
+          "name": "\u9ec4\u524d\u4e45\u7f8e\u5b50 (CV.\u9ed2\u6ca2\u3068\u3082\u3088)",
+          "url": "https://open.spotify.com/artist/0dm0KlFt3WNjcMkJ4uPHSH"
+        },
+        {
+          "name": "\u9ad8\u5742\u9e97\u5948 (CV.\u5b89\u6e08\u77e5\u4f73)",
+          "url": "https://open.spotify.com/artist/4FQEbStLFFjDH2TLg8ygCv"
+        }
+      ],
+      "duration_ms": 305946,
+      "name": "\u97f3\u8272\u306e\u8ecc\u8de1",
+      "url": "https://open.spotify.com/track/7rt7elfhDTmLekaTc1w3Dg"
+    },
+    {
+      "added_at": "2024-09-17 15:00:00",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e0\uff13\u300f\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30b7\u30f3\u30b0\u30eb Vol.1",
+        "url": "https://open.spotify.com/album/15Rm89ujvObxTjbZEFGoGv"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u8449\u6708 (CV.\u671d\u4e95\u5f69\u52a0)",
+          "url": "https://open.spotify.com/artist/3ELIwQPl6THsVuh7GqpfAr"
+        },
+        {
+          "name": "\u5ddd\u5cf6\u7dd1\u8f1d (CV.\u8c4a\u7530\u840c\u7d75)",
+          "url": "https://open.spotify.com/artist/7jopOu6IPr7HcEz1gN0R0V"
+        }
+      ],
+      "duration_ms": 212760,
+      "name": "\u30a2\u30f3\u30d3\u30b7\u30e3\u30b9\uff01",
+      "url": "https://open.spotify.com/track/66sbowWtMrxUnazeTrtjlr"
+    },
+    {
+      "added_at": "2024-09-17 15:00:00",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e0\uff13\u300f\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30b7\u30f3\u30b0\u30eb Vol.1",
+        "url": "https://open.spotify.com/album/15Rm89ujvObxTjbZEFGoGv"
+      },
+      "artists": [
+        {
+          "name": "\u9ec4\u524d\u4e45\u7f8e\u5b50 (CV.\u9ed2\u6ca2\u3068\u3082\u3088)",
+          "url": "https://open.spotify.com/artist/0dm0KlFt3WNjcMkJ4uPHSH"
+        },
+        {
+          "name": "\u585a\u672c\u79c0\u4e00 (CV.\u77f3\u8c37\u6625\u8cb4)",
+          "url": "https://open.spotify.com/artist/3CzH56mvFxo94zeIh8G1T9"
+        }
+      ],
+      "duration_ms": 213493,
+      "name": "\u30b9\u30c8\u30fc\u30ea\u30fc\u30e9\u30a4\u30f3",
+      "url": "https://open.spotify.com/track/0y1pO80rV5vsXrmWqwb9uv"
+    },
+    {
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e0\uff13\u300f \u5317\u5b87\u6cbb\u9ad8\u6821\u5439\u594f\u697d\u90e8 \u5439\u594f\u697d\u30b3\u30f3\u30af\u30fc\u30eb \u9ad8\u6821A\u90e8\u9580 \u81ea\u7531\u66f2",
         "url": "https://open.spotify.com/album/05ijLjAps065dnL4KJ8M9Y"
@@ -57,7 +117,7 @@
       "url": "https://open.spotify.com/track/1qDMiPz4EOMTAymhuvA7Jt"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e0\uff13\u300f \u5317\u5b87\u6cbb\u9ad8\u6821\u5439\u594f\u697d\u90e8 \u5439\u594f\u697d\u30b3\u30f3\u30af\u30fc\u30eb \u9ad8\u6821A\u90e8\u9580 \u81ea\u7531\u66f2",
         "url": "https://open.spotify.com/album/05ijLjAps065dnL4KJ8M9Y"
@@ -77,7 +137,7 @@
       "url": "https://open.spotify.com/track/2GYhupsJGvpnvRY4BHv85h"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e0\uff13\u300f \u5317\u5b87\u6cbb\u9ad8\u6821\u5439\u594f\u697d\u90e8 \u5439\u594f\u697d\u30b3\u30f3\u30af\u30fc\u30eb \u9ad8\u6821A\u90e8\u9580 \u81ea\u7531\u66f2",
         "url": "https://open.spotify.com/album/05ijLjAps065dnL4KJ8M9Y"
@@ -97,7 +157,7 @@
       "url": "https://open.spotify.com/track/0u9nuKou7JfEfEwJWzOGVy"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "\u30a2\u30f3\u30b5\u30f3\u30d6\u30eb",
         "url": "https://open.spotify.com/album/1OExhLrXdFhgimZhFLSVDU"
@@ -113,7 +173,7 @@
       "url": "https://open.spotify.com/track/2XZrOVEu53HqMIXtmyiQCS"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "\u30c8\u30a5\u30c3\u30c6\u30a3\uff01",
         "url": "https://open.spotify.com/album/6fX2kdAJmBTYcwXPm75w2C"
@@ -129,7 +189,7 @@
       "url": "https://open.spotify.com/track/1HG4l0uiZNqRb4BL5IWsr0"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "DREAM SOLISTER",
         "url": "https://open.spotify.com/album/49EFJDgTnXBTqMqssnMO0d"
@@ -145,7 +205,7 @@
       "url": "https://open.spotify.com/track/3WTbPUZ8tSzUJ0l8xkCQvG"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "\u30f4\u30a3\u30f4\u30a1\u30fc\u30c1\u30a7\uff01",
         "url": "https://open.spotify.com/album/5yWK0iYNusPpsYNYp3DAhP"
@@ -161,7 +221,7 @@
       "url": "https://open.spotify.com/track/4aLZES7VnzyCL3et27oUC0"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "\u30b5\u30a6\u30f3\u30c9\u30b9\u30b1\u30fc\u30d7",
         "url": "https://open.spotify.com/album/7IrialNx7k5girpn4r0kGx"
@@ -177,7 +237,7 @@
       "url": "https://open.spotify.com/track/2VBxqBpkRssCm20TCz3COY"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e02\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300c\u304a\u3093\u304c\u304f\u30a8\u30f3\u30c9\u30ec\u30b9\u300d",
         "url": "https://open.spotify.com/album/3qQmBRP0xB97fzfc81Cnb0"
@@ -193,7 +253,7 @@
       "url": "https://open.spotify.com/track/6necR83r3rD81jCN9dZOyF"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e0\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300c\u304a\u3082\u3044\u3067\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u300d (Incomplete Edition)",
         "url": "https://open.spotify.com/album/417bjRcLp5oVKwwr31aiGr"
@@ -209,7 +269,7 @@
       "url": "https://open.spotify.com/track/2WoyDLJFwPqDjUP7sNOjLv"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e02\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300c\u304a\u3093\u304c\u304f\u30a8\u30f3\u30c9\u30ec\u30b9\u300d",
         "url": "https://open.spotify.com/album/3qQmBRP0xB97fzfc81Cnb0"
@@ -225,7 +285,7 @@
       "url": "https://open.spotify.com/track/1X6mCsUeoFen8zA2MOrGPA"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e0\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300c\u304a\u3082\u3044\u3067\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u300d (Incomplete Edition)",
         "url": "https://open.spotify.com/album/417bjRcLp5oVKwwr31aiGr"
@@ -241,7 +301,7 @@
       "url": "https://open.spotify.com/track/1CKbnQ3P6DZC5lOyz7mZce"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "\u6620\u753b\u300e\u30ea\u30ba\u3068\u9752\u3044\u9ce5\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300cgirls,dance,staircase\u300d",
         "url": "https://open.spotify.com/album/5R1zRpVKFErbA55vyRRRPE"
@@ -257,7 +317,7 @@
       "url": "https://open.spotify.com/track/6IaT4SBi4mOhED9e6orKnf"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e02\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300c\u304a\u3093\u304c\u304f\u30a8\u30f3\u30c9\u30ec\u30b9\u300d",
         "url": "https://open.spotify.com/album/3qQmBRP0xB97fzfc81Cnb0"
@@ -273,7 +333,7 @@
       "url": "https://open.spotify.com/track/4JRILz3SGjJ9ynVjU2bqaL"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e0\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300c\u304a\u3082\u3044\u3067\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u300d (Incomplete Edition)",
         "url": "https://open.spotify.com/album/417bjRcLp5oVKwwr31aiGr"
@@ -289,7 +349,7 @@
       "url": "https://open.spotify.com/track/2nezSrDsIinoCZrxlb4F1E"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e0\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300c\u304a\u3082\u3044\u3067\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u300d (Incomplete Edition)",
         "url": "https://open.spotify.com/album/417bjRcLp5oVKwwr31aiGr"
@@ -305,7 +365,7 @@
       "url": "https://open.spotify.com/track/7tnTsAnnOcWgAc9RmE1KFe"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e0\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300c\u304a\u3082\u3044\u3067\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u300d (Incomplete Edition)",
         "url": "https://open.spotify.com/album/417bjRcLp5oVKwwr31aiGr"
@@ -325,7 +385,7 @@
       "url": "https://open.spotify.com/track/0esjNzOMnhIANTKH8WaPVA"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "\u300e\u5287\u5834\u7248 \u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e0\uff5e\u8a93\u3044\u306e\u30d5\u30a3\u30ca\u30fc\u30ec\uff5e\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300cThe Endless Melody\u300d (Incomplete Edition)",
         "url": "https://open.spotify.com/album/5QVU67cpifvolW1zFGYpGu"
@@ -341,7 +401,7 @@
       "url": "https://open.spotify.com/track/0gzymHa4J5ksjvx5PoVONZ"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "\u300e\u5287\u5834\u7248 \u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e0\uff5e\u8a93\u3044\u306e\u30d5\u30a3\u30ca\u30fc\u30ec\uff5e\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300cThe Endless Melody\u300d (Incomplete Edition)",
         "url": "https://open.spotify.com/album/5QVU67cpifvolW1zFGYpGu"
@@ -357,7 +417,7 @@
       "url": "https://open.spotify.com/track/0o2FCm7kwZnL06vqWCxdwD"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "Songbirds",
         "url": "https://open.spotify.com/album/4Pb1Px7D4XtomO4qKjuXNc"
@@ -373,7 +433,7 @@
       "url": "https://open.spotify.com/track/7bSd1aNSVD6XxyqxQXc1F6"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "\u300e\u5287\u5834\u7248 \u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e0\uff5e\u8a93\u3044\u306e\u30d5\u30a3\u30ca\u30fc\u30ec\uff5e\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300cThe Endless Melody\u300d (Incomplete Edition)",
         "url": "https://open.spotify.com/album/5QVU67cpifvolW1zFGYpGu"
@@ -389,7 +449,7 @@
       "url": "https://open.spotify.com/track/1EUr1YmdCv1pe1y37cg3x7"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e02\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300c\u304a\u3093\u304c\u304f\u30a8\u30f3\u30c9\u30ec\u30b9\u300d",
         "url": "https://open.spotify.com/album/3qQmBRP0xB97fzfc81Cnb0"
@@ -405,7 +465,7 @@
       "url": "https://open.spotify.com/track/1CUHVVov9lCzKSXZQZfdSB"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e02\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300c\u304a\u3093\u304c\u304f\u30a8\u30f3\u30c9\u30ec\u30b9\u300d",
         "url": "https://open.spotify.com/album/3qQmBRP0xB97fzfc81Cnb0"
@@ -421,7 +481,7 @@
       "url": "https://open.spotify.com/track/1q9Nr2iGUPDmoMzpV9FvyR"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e0\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300c\u304a\u3082\u3044\u3067\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u300d (Incomplete Edition)",
         "url": "https://open.spotify.com/album/417bjRcLp5oVKwwr31aiGr"
@@ -437,7 +497,7 @@
       "url": "https://open.spotify.com/track/54sF2TvD9noJNlF6zmAvVt"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e0\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300c\u304a\u3082\u3044\u3067\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u300d (Incomplete Edition)",
         "url": "https://open.spotify.com/album/417bjRcLp5oVKwwr31aiGr"
@@ -453,7 +513,7 @@
       "url": "https://open.spotify.com/track/2kpuh5Af2I7J277R3kPSP5"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e0\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300c\u304a\u3082\u3044\u3067\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u300d (Incomplete Edition)",
         "url": "https://open.spotify.com/album/417bjRcLp5oVKwwr31aiGr"
@@ -477,7 +537,7 @@
       "url": "https://open.spotify.com/track/68k9lr0VUVxiBPoo65RQTP"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e0\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300c\u304a\u3082\u3044\u3067\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u300d (Incomplete Edition)",
         "url": "https://open.spotify.com/album/417bjRcLp5oVKwwr31aiGr"
@@ -493,7 +553,7 @@
       "url": "https://open.spotify.com/track/6Syi3JxJotp0Ymhxt2gggQ"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e0\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300c\u304a\u3082\u3044\u3067\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u300d (Incomplete Edition)",
         "url": "https://open.spotify.com/album/417bjRcLp5oVKwwr31aiGr"
@@ -509,7 +569,7 @@
       "url": "https://open.spotify.com/track/7eYZUgquJIaw9hLW85rGm7"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e0\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300c\u304a\u3082\u3044\u3067\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u300d (Incomplete Edition)",
         "url": "https://open.spotify.com/album/417bjRcLp5oVKwwr31aiGr"
@@ -525,7 +585,7 @@
       "url": "https://open.spotify.com/track/33lsPz6jnFM3mnhMEF6TMO"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e0\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300c\u304a\u3082\u3044\u3067\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u300d (Incomplete Edition)",
         "url": "https://open.spotify.com/album/417bjRcLp5oVKwwr31aiGr"
@@ -541,7 +601,7 @@
       "url": "https://open.spotify.com/track/6qgijA2ubJjUJQHPsXKEmn"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e0\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300c\u304a\u3082\u3044\u3067\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u300d (Incomplete Edition)",
         "url": "https://open.spotify.com/album/417bjRcLp5oVKwwr31aiGr"
@@ -557,7 +617,7 @@
       "url": "https://open.spotify.com/track/5jUgcal9fWgCNWAMaERwC6"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e0\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300c\u304a\u3082\u3044\u3067\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u300d (Incomplete Edition)",
         "url": "https://open.spotify.com/album/417bjRcLp5oVKwwr31aiGr"
@@ -573,7 +633,7 @@
       "url": "https://open.spotify.com/track/3bQb5Rxv42rUV8xqls7hrZ"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e0\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300c\u304a\u3082\u3044\u3067\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u300d (Incomplete Edition)",
         "url": "https://open.spotify.com/album/417bjRcLp5oVKwwr31aiGr"
@@ -589,7 +649,7 @@
       "url": "https://open.spotify.com/track/2GVdZNYyyiaz3QzCh07DtU"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e02\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300c\u304a\u3093\u304c\u304f\u30a8\u30f3\u30c9\u30ec\u30b9\u300d",
         "url": "https://open.spotify.com/album/3qQmBRP0xB97fzfc81Cnb0"
@@ -605,7 +665,7 @@
       "url": "https://open.spotify.com/track/4jRlrDGoVK5GBtslIi7J6p"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e02\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300c\u304a\u3093\u304c\u304f\u30a8\u30f3\u30c9\u30ec\u30b9\u300d",
         "url": "https://open.spotify.com/album/3qQmBRP0xB97fzfc81Cnb0"
@@ -621,7 +681,7 @@
       "url": "https://open.spotify.com/track/0oHlo4nKKN8TZ7iFYOtSZs"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e02\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300c\u304a\u3093\u304c\u304f\u30a8\u30f3\u30c9\u30ec\u30b9\u300d",
         "url": "https://open.spotify.com/album/3qQmBRP0xB97fzfc81Cnb0"
@@ -637,7 +697,7 @@
       "url": "https://open.spotify.com/track/6cBvVgcSdvWCa9uRD6i20d"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e02\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300c\u304a\u3093\u304c\u304f\u30a8\u30f3\u30c9\u30ec\u30b9\u300d",
         "url": "https://open.spotify.com/album/3qQmBRP0xB97fzfc81Cnb0"
@@ -653,7 +713,7 @@
       "url": "https://open.spotify.com/track/3l42gmNCPapR1TZnWsmSGh"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e02\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300c\u304a\u3093\u304c\u304f\u30a8\u30f3\u30c9\u30ec\u30b9\u300d",
         "url": "https://open.spotify.com/album/3qQmBRP0xB97fzfc81Cnb0"
@@ -669,7 +729,7 @@
       "url": "https://open.spotify.com/track/74dCaBQklIv6qqf5Pm4UlM"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e02\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300c\u304a\u3093\u304c\u304f\u30a8\u30f3\u30c9\u30ec\u30b9\u300d",
         "url": "https://open.spotify.com/album/3qQmBRP0xB97fzfc81Cnb0"
@@ -685,7 +745,7 @@
       "url": "https://open.spotify.com/track/5OnZud9bcpwR1J7NFJqnce"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e02\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300c\u304a\u3093\u304c\u304f\u30a8\u30f3\u30c9\u30ec\u30b9\u300d",
         "url": "https://open.spotify.com/album/3qQmBRP0xB97fzfc81Cnb0"
@@ -701,7 +761,7 @@
       "url": "https://open.spotify.com/track/2snitvxO2v9tutNNxk7BTL"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e02\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300c\u304a\u3093\u304c\u304f\u30a8\u30f3\u30c9\u30ec\u30b9\u300d",
         "url": "https://open.spotify.com/album/3qQmBRP0xB97fzfc81Cnb0"
@@ -717,7 +777,7 @@
       "url": "https://open.spotify.com/track/6zwOBokjqoIrHV2m7ZqIIb"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e02\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300c\u304a\u3093\u304c\u304f\u30a8\u30f3\u30c9\u30ec\u30b9\u300d",
         "url": "https://open.spotify.com/album/3qQmBRP0xB97fzfc81Cnb0"
@@ -733,7 +793,7 @@
       "url": "https://open.spotify.com/track/6KESQe9Lha4hFqJzed7Z0r"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e02\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300c\u304a\u3093\u304c\u304f\u30a8\u30f3\u30c9\u30ec\u30b9\u300d",
         "url": "https://open.spotify.com/album/3qQmBRP0xB97fzfc81Cnb0"
@@ -749,7 +809,7 @@
       "url": "https://open.spotify.com/track/2rklne3NaQaIWPmwNCF6wS"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e02\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300c\u304a\u3093\u304c\u304f\u30a8\u30f3\u30c9\u30ec\u30b9\u300d",
         "url": "https://open.spotify.com/album/3qQmBRP0xB97fzfc81Cnb0"
@@ -765,7 +825,7 @@
       "url": "https://open.spotify.com/track/3DePr4pIZAmJe4LRpZxBLm"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e02\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300c\u304a\u3093\u304c\u304f\u30a8\u30f3\u30c9\u30ec\u30b9\u300d",
         "url": "https://open.spotify.com/album/3qQmBRP0xB97fzfc81Cnb0"
@@ -781,7 +841,7 @@
       "url": "https://open.spotify.com/track/0eNJn64uiHzr071fLEkkqb"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e02\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300c\u304a\u3093\u304c\u304f\u30a8\u30f3\u30c9\u30ec\u30b9\u300d",
         "url": "https://open.spotify.com/album/3qQmBRP0xB97fzfc81Cnb0"
@@ -797,7 +857,7 @@
       "url": "https://open.spotify.com/track/7DJTXLcL3x6KlXz69wahTy"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e02\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300c\u304a\u3093\u304c\u304f\u30a8\u30f3\u30c9\u30ec\u30b9\u300d",
         "url": "https://open.spotify.com/album/3qQmBRP0xB97fzfc81Cnb0"
@@ -813,7 +873,7 @@
       "url": "https://open.spotify.com/track/1dBvzOk8O13vOEoEPiujPk"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e02\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300c\u304a\u3093\u304c\u304f\u30a8\u30f3\u30c9\u30ec\u30b9\u300d",
         "url": "https://open.spotify.com/album/3qQmBRP0xB97fzfc81Cnb0"
@@ -829,7 +889,7 @@
       "url": "https://open.spotify.com/track/3XrIyYArOALLhuGfjXwcMp"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "\u300e\u5287\u5834\u7248 \u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e0\uff5e\u5317\u5b87\u6cbb\u9ad8\u6821\u5439\u594f\u697d\u90e8\u3078\u3088\u3046\u3053\u305d\uff5e\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300cReflection of youthful music\u300d",
         "url": "https://open.spotify.com/album/3agHwHTJ0sq5Gr55uQITHo"
@@ -845,7 +905,7 @@
       "url": "https://open.spotify.com/track/1PMiSXRRuzrs0RPN7S6u2u"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "\u300e\u5287\u5834\u7248 \u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e0\uff5e\u5c4a\u3051\u305f\u3044\u30e1\u30ed\u30c7\u30a3\uff5e\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300cThe only melody\u300d",
         "url": "https://open.spotify.com/album/1bZ1gxIXUs0d9LgUMnrD9W"
@@ -861,7 +921,7 @@
       "url": "https://open.spotify.com/track/1mf4u4El4EzKYuEe96WwYg"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "\u300e\u5287\u5834\u7248 \u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e0\uff5e\u8a93\u3044\u306e\u30d5\u30a3\u30ca\u30fc\u30ec\uff5e\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300cThe Endless Melody\u300d (Incomplete Edition)",
         "url": "https://open.spotify.com/album/5QVU67cpifvolW1zFGYpGu"
@@ -877,7 +937,7 @@
       "url": "https://open.spotify.com/track/7uUT5l0A1ymuD0Cl6tSkA8"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "\u300e\u5287\u5834\u7248 \u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e0\uff5e\u8a93\u3044\u306e\u30d5\u30a3\u30ca\u30fc\u30ec\uff5e\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300cThe Endless Melody\u300d (Incomplete Edition)",
         "url": "https://open.spotify.com/album/5QVU67cpifvolW1zFGYpGu"
@@ -893,7 +953,7 @@
       "url": "https://open.spotify.com/track/5HxvcaruModUF354FvA9Sn"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "\u300e\u5287\u5834\u7248 \u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e0\uff5e\u8a93\u3044\u306e\u30d5\u30a3\u30ca\u30fc\u30ec\uff5e\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300cThe Endless Melody\u300d (Incomplete Edition)",
         "url": "https://open.spotify.com/album/5QVU67cpifvolW1zFGYpGu"
@@ -909,23 +969,7 @@
       "url": "https://open.spotify.com/track/7LmlbwJM2kxclraEI7jAzK"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
-      "album": {
-        "name": "\u300e\u5287\u5834\u7248 \u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e0\uff5e\u8a93\u3044\u306e\u30d5\u30a3\u30ca\u30fc\u30ec\uff5e\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300cThe Endless Melody\u300d (Incomplete Edition)",
-        "url": "https://open.spotify.com/album/5QVU67cpifvolW1zFGYpGu"
-      },
-      "artists": [
-        {
-          "name": "\u5317\u5b87\u6cbb\u9ad8\u6821\u5439\u594f\u697d\u90e8",
-          "url": "https://open.spotify.com/artist/2KcsOu1hIobMNRXYFun6tF"
-        }
-      ],
-      "duration_ms": 524773,
-      "name": "\u30ea\u30ba\u3068\u9752\u3044\u9ce5 - \u30b3\u30f3\u30af\u30fc\u30eb\u7528\u7de8\u66f2Ver.",
-      "url": "https://open.spotify.com/track/0gIIgzIFgo38ElS4wdio3m"
-    },
-    {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "\u300e\u5287\u5834\u7248 \u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e0\uff5e\u8a93\u3044\u306e\u30d5\u30a3\u30ca\u30fc\u30ec\uff5e\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300cThe Endless Melody\u300d (Incomplete Edition)",
         "url": "https://open.spotify.com/album/5QVU67cpifvolW1zFGYpGu"
@@ -941,7 +985,7 @@
       "url": "https://open.spotify.com/track/5qnV6tRQ95b0r5YmTgmYW7"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "\u300e\u5287\u5834\u7248 \u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e0\uff5e\u8a93\u3044\u306e\u30d5\u30a3\u30ca\u30fc\u30ec\uff5e\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300cThe Endless Melody\u300d (Incomplete Edition)",
         "url": "https://open.spotify.com/album/5QVU67cpifvolW1zFGYpGu"
@@ -957,7 +1001,7 @@
       "url": "https://open.spotify.com/track/2Kp05YLnDNqtGNxjAG7pWp"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "\u6620\u753b\u300e\u30ea\u30ba\u3068\u9752\u3044\u9ce5\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300cgirls,dance,staircase\u300d",
         "url": "https://open.spotify.com/album/5R1zRpVKFErbA55vyRRRPE"
@@ -973,7 +1017,7 @@
       "url": "https://open.spotify.com/track/4ivZY8GRn8tGENdizwJ5Yi"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "\u6620\u753b\u300e\u30ea\u30ba\u3068\u9752\u3044\u9ce5\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300cgirls,dance,staircase\u300d",
         "url": "https://open.spotify.com/album/5R1zRpVKFErbA55vyRRRPE"
@@ -989,7 +1033,7 @@
       "url": "https://open.spotify.com/track/01GWnBOBYPX9UqcPvfqiwj"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "\u6620\u753b\u300e\u30ea\u30ba\u3068\u9752\u3044\u9ce5\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300cgirls,dance,staircase\u300d",
         "url": "https://open.spotify.com/album/5R1zRpVKFErbA55vyRRRPE"
@@ -1005,7 +1049,7 @@
       "url": "https://open.spotify.com/track/4HULIDMUmnFHuNbAgfGJaE"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "\u6620\u753b\u300e\u30ea\u30ba\u3068\u9752\u3044\u9ce5\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300cgirls,dance,staircase\u300d",
         "url": "https://open.spotify.com/album/5R1zRpVKFErbA55vyRRRPE"
@@ -1021,7 +1065,7 @@
       "url": "https://open.spotify.com/track/1KJqMFg93M37DxHSqrYNh9"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "\u6620\u753b\u300e\u30ea\u30ba\u3068\u9752\u3044\u9ce5\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300cgirls,dance,staircase\u300d",
         "url": "https://open.spotify.com/album/5R1zRpVKFErbA55vyRRRPE"
@@ -1037,7 +1081,7 @@
       "url": "https://open.spotify.com/track/3C7qsXBN0fxPrhKHPoS4Av"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "\u6620\u753b\u300e\u30ea\u30ba\u3068\u9752\u3044\u9ce5\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300cgirls,dance,staircase\u300d",
         "url": "https://open.spotify.com/album/5R1zRpVKFErbA55vyRRRPE"
@@ -1053,7 +1097,7 @@
       "url": "https://open.spotify.com/track/5mwt6xiQEW9gal1eJog6r9"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "\u6620\u753b\u300e\u30ea\u30ba\u3068\u9752\u3044\u9ce5\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300cgirls,dance,staircase\u300d",
         "url": "https://open.spotify.com/album/5R1zRpVKFErbA55vyRRRPE"
@@ -1069,7 +1113,7 @@
       "url": "https://open.spotify.com/track/04XhdVM3q2qPusWPEmg95c"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "\u6620\u753b\u300e\u30ea\u30ba\u3068\u9752\u3044\u9ce5\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300cgirls,dance,staircase\u300d",
         "url": "https://open.spotify.com/album/5R1zRpVKFErbA55vyRRRPE"
@@ -1085,7 +1129,7 @@
       "url": "https://open.spotify.com/track/16ziXZSHxwwytytxVD0L3G"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "\u6620\u753b\u300e\u30ea\u30ba\u3068\u9752\u3044\u9ce5\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300cgirls,dance,staircase\u300d",
         "url": "https://open.spotify.com/album/5R1zRpVKFErbA55vyRRRPE"
@@ -1101,7 +1145,7 @@
       "url": "https://open.spotify.com/track/7F27LLkQ6MqvumfsnLOWG6"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "\u30c8\u30a5\u30c3\u30c6\u30a3\uff01",
         "url": "https://open.spotify.com/album/6fX2kdAJmBTYcwXPm75w2C"
@@ -1117,7 +1161,7 @@
       "url": "https://open.spotify.com/track/0bTFiQcN9zvQ3tuA0pUxpy"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "\u30f4\u30a3\u30f4\u30a1\u30fc\u30c1\u30a7\uff01",
         "url": "https://open.spotify.com/album/5yWK0iYNusPpsYNYp3DAhP"
@@ -1133,7 +1177,7 @@
       "url": "https://open.spotify.com/track/0D4yjFM1NPtc0NUMDMlzZZ"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e0\u300f\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 Vol.1",
         "url": "https://open.spotify.com/album/0UB37dxUz3kL16D2FHOdU4"
@@ -1149,7 +1193,7 @@
       "url": "https://open.spotify.com/track/2WIx5TVciJA8lYWm5pgV5U"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e0\u300f\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 Vol.1",
         "url": "https://open.spotify.com/album/0UB37dxUz3kL16D2FHOdU4"
@@ -1165,23 +1209,7 @@
       "url": "https://open.spotify.com/track/2OGa9yqqeetF16mdBqV09b"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
-      "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300e\u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e0\u300f\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 Vol.1",
-        "url": "https://open.spotify.com/album/0UB37dxUz3kL16D2FHOdU4"
-      },
-      "artists": [
-        {
-          "name": "\u677e\u7530\u5f6c\u4eba",
-          "url": "https://open.spotify.com/artist/4M3dmIzlttQpX4aiJwb2z1"
-        }
-      ],
-      "duration_ms": 234813,
-      "name": "\u5317\u5b87\u6cbb\u56db\u91cd\u594f \u7b2c1\u756a \u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e0",
-      "url": "https://open.spotify.com/track/4ErFLBu11b0ynKpNU59NAF"
-    },
-    {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e0\u300f\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 Vol.2",
         "url": "https://open.spotify.com/album/0DFhrIs1wlmIF4KJNFsSOW"
@@ -1197,7 +1225,7 @@
       "url": "https://open.spotify.com/track/2jjSl7wyOOiFF9TzE7HqoV"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e0\u300f\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 Vol.2",
         "url": "https://open.spotify.com/album/0DFhrIs1wlmIF4KJNFsSOW"
@@ -1213,7 +1241,7 @@
       "url": "https://open.spotify.com/track/1PZEraAckB6goxe1pxDfSs"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e0\u300f\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 Vol.2",
         "url": "https://open.spotify.com/album/0DFhrIs1wlmIF4KJNFsSOW"
@@ -1229,7 +1257,7 @@
       "url": "https://open.spotify.com/track/0zNj8L18vy1yolowTxWNto"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e0\u300f\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 Vol.3",
         "url": "https://open.spotify.com/album/1GOxuKDtYQqHiDxEFKscbk"
@@ -1245,7 +1273,7 @@
       "url": "https://open.spotify.com/track/6vir8EEoXnjOQ12mx6uN7M"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e0\u300f\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 Vol.3",
         "url": "https://open.spotify.com/album/1GOxuKDtYQqHiDxEFKscbk"
@@ -1261,7 +1289,7 @@
       "url": "https://open.spotify.com/track/5jQmlIDyoKSrqiNdROPmYO"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e0\u300f\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 Vol.3",
         "url": "https://open.spotify.com/album/1GOxuKDtYQqHiDxEFKscbk"
@@ -1277,7 +1305,7 @@
       "url": "https://open.spotify.com/track/5dccdEHmKH638z0uUoG9ud"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e0\u300f\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 Vol.4",
         "url": "https://open.spotify.com/album/1iVp33p1vDOHc6Ddp6isit"
@@ -1293,7 +1321,7 @@
       "url": "https://open.spotify.com/track/73izwN8DtAzwKCAgvajn7Y"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e0\u300f\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 Vol.4",
         "url": "https://open.spotify.com/album/1iVp33p1vDOHc6Ddp6isit"
@@ -1309,7 +1337,7 @@
       "url": "https://open.spotify.com/track/0EzDjAr37jop7pZer5M70Z"
     },
     {
-      "added_at": "2024-04-20 15:00:00",
+      "added_at": "2024-09-17 15:00:00",
       "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e0\u300f\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 Vol.4",
         "url": "https://open.spotify.com/album/1iVp33p1vDOHc6Ddp6isit"

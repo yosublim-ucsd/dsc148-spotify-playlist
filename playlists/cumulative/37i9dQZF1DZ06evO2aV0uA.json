@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-31",
-  "description": "This Is Lamb of God. Los temas esenciales, todos en una lista.",
+  "description": "This is Lamb of God. The essential tracks, all in one playlist.",
   "name": "This Is Lamb of God",
   "tracks": [
     {
@@ -132,7 +132,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 345378,
       "name": "Ashes of the Wake",
       "url": "https://open.spotify.com/track/5I3jdI8YEfj1WZWa3KKbSA"
@@ -222,10 +222,28 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 263404,
       "name": "Blood Of The Scribe",
       "url": "https://open.spotify.com/track/4PBgVPXXnrBJXSUtFv5b2S"
+    },
+    {
+      "album": {
+        "name": "Ashes of the Wake - 20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/7CwtVHoJ9cl6YEQjsSeEca"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263703,
+      "name": "Blood Of The Scribe",
+      "url": "https://open.spotify.com/track/7FFS7cQvZ0QpuVvG2cMDKY"
     },
     {
       "album": {
@@ -716,7 +734,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-16",
+      "date_removed": null,
       "duration_ms": 230256,
       "name": "Evidence",
       "url": "https://open.spotify.com/track/4QTwNqLI3XQlf7H1YQJGfJ"
@@ -1030,10 +1048,28 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 240183,
       "name": "Hourglass",
       "url": "https://open.spotify.com/track/2pd1Lm8Jsslf2VdWQv0Je8"
+    },
+    {
+      "album": {
+        "name": "Ashes of the Wake - 20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/7CwtVHoJ9cl6YEQjsSeEca"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240244,
+      "name": "Hourglass",
+      "url": "https://open.spotify.com/track/36F2K4UDhheP6UWu1rOK9d"
     },
     {
       "album": {
@@ -1506,7 +1542,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-16",
+      "date_removed": null,
       "duration_ms": 190533,
       "name": "Purified",
       "url": "https://open.spotify.com/track/1cQS0BcV8HIVSWLeWunEp4"
@@ -1596,7 +1632,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 340099,
       "name": "Remorse Is for the Dead",
       "url": "https://open.spotify.com/track/3hlGku4KWtIF8gJY8CBBYo"
@@ -1888,10 +1924,28 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 277727,
       "name": "The Faded Line",
       "url": "https://open.spotify.com/track/46WIf1TzfOl4jfaWbGn9QT"
+    },
+    {
+      "album": {
+        "name": "Ashes of the Wake - 20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/7CwtVHoJ9cl6YEQjsSeEca"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278016,
+      "name": "The Faded Line",
+      "url": "https://open.spotify.com/track/1pTvDwpyvTbYXzmxyjfoXa"
     },
     {
       "album": {

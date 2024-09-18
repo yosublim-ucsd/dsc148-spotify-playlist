@@ -5553,6 +5553,36 @@
     },
     {
       "album": {
+        "name": "Bentley",
+        "url": "https://open.spotify.com/album/2ckdAH0yjemNnvuqsE3MEa"
+      },
+      "artists": [
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        },
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "Mateo on the Beatz",
+          "url": "https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg"
+        },
+        {
+          "name": "Gittobeatz",
+          "url": "https://open.spotify.com/artist/4rRwh9ghjocFABAwIwnunp"
+        }
+      ],
+      "date_added": "2024-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Bentley",
+      "url": "https://open.spotify.com/track/2oVpXTAmiotbE8akm04LwE"
+    },
+    {
+      "album": {
         "name": "BENTLEY (Jeremias Klein, Lucky Brown)",
         "url": "https://open.spotify.com/album/6DU7FVt21zJRDHhr2ykZqs"
       },
@@ -7616,7 +7646,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 147399,
       "name": "carta a mi pap\u00e1",
       "url": "https://open.spotify.com/track/7t5RhqDNaX82agwvyNhBI7"
@@ -9591,6 +9621,24 @@
     },
     {
       "album": {
+        "name": "CRAZY (Party Remixes 1)",
+        "url": "https://open.spotify.com/album/6kAsgfuulBOuyYLytWX7e2"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2024-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164554,
+      "name": "CRAZY",
+      "url": "https://open.spotify.com/track/4gxEY3Mh5FZZDAJAKPNrCS"
+    },
+    {
+      "album": {
         "name": "THE WORLD EP.FIN : WILL",
         "url": "https://open.spotify.com/album/1r0F1EzzNOaJyB7U0Jp5RH"
       },
@@ -11316,6 +11364,24 @@
       "duration_ms": 169303,
       "name": "Despertador",
       "url": "https://open.spotify.com/track/5yNwgJg8BVvTeopM1NLFRw"
+    },
+    {
+      "album": {
+        "name": "Despues de la 1 (Frikitona)",
+        "url": "https://open.spotify.com/album/3Clnlljd3TYBIAPr5O1R6Q"
+      },
+      "artists": [
+        {
+          "name": "Dj Agus Lima",
+          "url": "https://open.spotify.com/artist/6JSZJddy1dORbnzdx2ZLG9"
+        }
+      ],
+      "date_added": "2024-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140668,
+      "name": "Despues de la 1 (Frikitona)",
+      "url": "https://open.spotify.com/track/4ntpKl358A7Vue01uHmTx0"
     },
     {
       "album": {
@@ -13186,7 +13252,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 163666,
       "name": "El Traje del PSG",
       "url": "https://open.spotify.com/track/0aKBAAr9c9blu9ArZ3TGiT"
@@ -24334,6 +24400,44 @@
       "duration_ms": 195520,
       "name": "MANIAC",
       "url": "https://open.spotify.com/track/618OKP1lBkNJL8uZdNSvQE"
+    },
+    {
+      "album": {
+        "name": "Los 4F: El Origen",
+        "url": "https://open.spotify.com/album/3sODZXVEX8CNdsxypAfBPO"
+      },
+      "artists": [
+        {
+          "name": "LOS 4F",
+          "url": "https://open.spotify.com/artist/7vdDWCqSTK2O100wDjYvh5"
+        },
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        },
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        },
+        {
+          "name": "Easykid",
+          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
+        },
+        {
+          "name": "Kreamly",
+          "url": "https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk"
+        }
+      ],
+      "date_added": "2024-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189460,
+      "name": "MANI\u00c1TICA",
+      "url": "https://open.spotify.com/track/31EAQuRMpFiQGRflVnNAAu"
     },
     {
       "album": {
@@ -38454,7 +38558,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 218133,
       "name": "Soy Caporal",
       "url": "https://open.spotify.com/track/4WcSOqT7dLid2RDK3rIUHb"
@@ -43813,6 +43917,28 @@
     },
     {
       "album": {
+        "name": "Va colgando de un hilito (Guayabo Tech) [Remix]",
+        "url": "https://open.spotify.com/album/581MvUE7JrEICvJZRev9Dw"
+      },
+      "artists": [
+        {
+          "name": "Emily Galaviz",
+          "url": "https://open.spotify.com/artist/0oxb3uhVq0HQLq3Oi7OIp7"
+        },
+        {
+          "name": "Manuel Santos",
+          "url": "https://open.spotify.com/artist/0ljsXk0FXJT2x9sZlUTVZN"
+        }
+      ],
+      "date_added": "2024-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170811,
+      "name": "Va colgando de un hilito (Guayabo Tech)",
+      "url": "https://open.spotify.com/track/16jjGosTN8pq90QzEYFrL1"
+    },
+    {
+      "album": {
         "name": "Va colgando de un hilito (Guayabo Tech)",
         "url": "https://open.spotify.com/album/3x340A7bEOdmMo5PDr6gaz"
       },
@@ -43828,7 +43954,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 170811,
       "name": "Va colgando de un hilito (Guayabo Tech)",
       "url": "https://open.spotify.com/track/2b3Y03tjsQNRn5Hl5g6Z11"
@@ -45534,7 +45660,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 141818,
       "name": "www.hotxulito.com",
       "url": "https://open.spotify.com/track/3ubXujtdHQjKWm8JAAn9OP"

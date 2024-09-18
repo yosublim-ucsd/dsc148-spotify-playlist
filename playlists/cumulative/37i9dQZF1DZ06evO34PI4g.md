@@ -2,7 +2,7 @@
 
 ### [This Is System Of A Down](https://open.spotify.com/playlist/37i9dQZF1DZ06evO34PI4g)
 
-> This Is System Of A Down\. Los temas esenciales, todos en una lista.
+> This Is System Of A Down\. Todas as faixas essenciais numa única playlist.
 
 35 songs - 1 hr 55 min
 

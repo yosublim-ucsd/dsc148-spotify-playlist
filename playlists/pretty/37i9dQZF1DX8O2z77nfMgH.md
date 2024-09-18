@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. Portada: María Becerra
 
-[Spotify](https://open.spotify.com/user/spotify) - 883,767 likes - 51 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 883,756 likes - 51 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 22 | [Amor de Chat \- En vivo](https://open.spotify.com/track/0rBpusCK0zUkuEBrTcTpox) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Sergio Torres](https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg) | [Amor de Chat \- En Vivo](https://open.spotify.com/album/0NtnjBuRZchY2kvAN7UvTA) | 4:37 |
 | 23 | [Pasarla Bien](https://open.spotify.com/track/5KuLv5XWO2rMESQzd9QfAD) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM) | [Pasarla Bien](https://open.spotify.com/album/5l20i1oR3EmyhRe6COI9LX) | 3:13 |
 | 24 | [Rojo Manzana](https://open.spotify.com/track/0hFZqhaJ9h4VGrYiTrcArn) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Rojo Manzana](https://open.spotify.com/album/4ol1ixQWb7W6zId8HGc7H2) | 4:17 |
-| 25 | [El Beso de la Ciguatera \- Radio Edit](https://open.spotify.com/track/0bDxHrZiaRWgRjGDPFq2uA) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [El Beso de la Ciguatera \- Radio Edit](https://open.spotify.com/album/5Iyrbe0cT9FBKGNPuDU1jZ) | 2:42 |
+| 25 | [El Beso de la Ciguatera \- Radio Edit](https://open.spotify.com/track/0bDxHrZiaRWgRjGDPFq2uA) | [Yas Cepeda](https://open.spotify.com/artist/0QJLIqgHuWkj89BqRArjRP), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [El Beso de la Ciguatera \(Radio Edit\)](https://open.spotify.com/album/5Iyrbe0cT9FBKGNPuDU1jZ) | 2:42 |
 | 26 | [REPETIMOS](https://open.spotify.com/track/6fd06SYRA9Fj8oFUhiOFvh) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB), [Yotuel](https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [REPETIMOS](https://open.spotify.com/album/7219pqifUvqNOYNsYtgoeD) | 3:16 |
 | 27 | [Yo Ya Sé](https://open.spotify.com/track/79thbxA6OpIUMVu8mROice) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [La Lógica del Escorpión](https://open.spotify.com/album/0k2JGzYRZQC3s3ZNTcyHoA) | 2:03 |
 | 28 | [Cheque en Blanco](https://open.spotify.com/track/6F7gpbLIqVWiH8IEg9DEEE) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx), [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7) | [Cheque en Blanco](https://open.spotify.com/album/4RZBs6KDnx3naFPhUfFDrr) | 2:35 |

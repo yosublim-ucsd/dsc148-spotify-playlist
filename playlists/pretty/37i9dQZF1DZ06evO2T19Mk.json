@@ -1,12 +1,12 @@
 {
   "description": "This Is Fall Out Boy. Los temas esenciales, todos en una lista.",
-  "num_followers": 572056,
+  "num_followers": 572121,
   "original_name": "This Is Fall Out Boy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuYjgAAAAACzqibD8N/Uj0wKIokoKaQ8",
+  "snapshot_id": "Zud1AAAAAABLYxSAYriY9oWzyup0zu2f",
   "tracks": [
     {
       "added_at": null,
@@ -435,8 +435,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "MANIA",
-        "url": "https://open.spotify.com/album/16xtTZvPH6PXcwSqYqJHHG"
+        "name": "Save Rock And Roll",
+        "url": "https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU"
       },
       "artists": [
         {
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 210360,
-      "name": "HOLD ME TIGHT OR DON\u2019T",
-      "url": "https://open.spotify.com/track/0Q9vbV7G2Q6lts13nY9YGP"
+      "duration_ms": 204506,
+      "name": "Young Volcanoes",
+      "url": "https://open.spotify.com/track/4yXNMbZrsFJbPTH0WfhwEB"
     },
     {
       "added_at": null,
@@ -467,8 +467,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Save Rock And Roll",
-        "url": "https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU"
+        "name": "MANIA",
+        "url": "https://open.spotify.com/album/16xtTZvPH6PXcwSqYqJHHG"
       },
       "artists": [
         {
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 204506,
-      "name": "Young Volcanoes",
-      "url": "https://open.spotify.com/track/4yXNMbZrsFJbPTH0WfhwEB"
+      "duration_ms": 210360,
+      "name": "HOLD ME TIGHT OR DON\u2019T",
+      "url": "https://open.spotify.com/track/0Q9vbV7G2Q6lts13nY9YGP"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > musica da gridare 🗣️ Cover: blink\-182
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,498 likes - 98 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,505 likes - 98 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

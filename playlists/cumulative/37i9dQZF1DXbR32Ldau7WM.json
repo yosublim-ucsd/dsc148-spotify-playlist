@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "The biggest rock artists in Japan right now!  Cover: ASIAN KUNG-FU GENERATION",
+  "description": "The biggest rock artists in Japan right now!  Cover: HYDE",
   "name": "Big in Japan",
   "tracks": [
     {
@@ -1476,6 +1476,10 @@
         {
           "name": "PAS TASTA",
           "url": "https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS"
+        },
+        {
+          "name": "Eastern Margins",
+          "url": "https://open.spotify.com/artist/28U72qhceWcm0usxPCY0ut"
         }
       ],
       "date_added": "2024-09-03",
@@ -5069,6 +5073,24 @@
     },
     {
       "album": {
+        "name": "HYDE [INSIDE]",
+        "url": "https://open.spotify.com/album/10G25Djhchlk7HbV4rNdL2"
+      },
+      "artists": [
+        {
+          "name": "HYDE",
+          "url": "https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN"
+        }
+      ],
+      "date_added": "2024-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211413,
+      "name": "LET IT OUT",
+      "url": "https://open.spotify.com/track/3nhvXKbVOJOzuS7LbndnAV"
+    },
+    {
+      "album": {
         "name": "LET JERRY ROLL",
         "url": "https://open.spotify.com/album/2p65OHZz45jCO2lTAhMlUE"
       },
@@ -5570,7 +5592,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 223269,
       "name": "LOST",
       "url": "https://open.spotify.com/track/4MqmrcRFEFv2xkQLZWaCWf"
@@ -9116,6 +9138,24 @@
       "duration_ms": 266986,
       "name": "so far so good",
       "url": "https://open.spotify.com/track/0T9Xn3cCZvMfoqT2TFUvF1"
+    },
+    {
+      "album": {
+        "name": "HYDE [INSIDE]",
+        "url": "https://open.spotify.com/album/10G25Djhchlk7HbV4rNdL2"
+      },
+      "artists": [
+        {
+          "name": "HYDE",
+          "url": "https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN"
+        }
+      ],
+      "date_added": "2024-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243560,
+      "name": "SOCIAL VIRUS",
+      "url": "https://open.spotify.com/track/6SURzBzfgo2uGHuKUWiTu8"
     },
     {
       "album": {
@@ -14162,7 +14202,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 182880,
       "name": "\u30b7\u30fc\u30b0\u30e9\u30b9",
       "url": "https://open.spotify.com/track/75ydSk3JU7hqJFhyGQyhPZ"

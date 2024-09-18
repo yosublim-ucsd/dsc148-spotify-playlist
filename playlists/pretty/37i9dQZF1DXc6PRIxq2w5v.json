@@ -1,6 +1,6 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: Jess\u00e9 Alcantara",
-  "num_followers": 172919,
+  "num_followers": 172969,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
@@ -603,6 +603,26 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
+        "name": "N\u00e3o Tenha Medo",
+        "url": "https://open.spotify.com/album/3y3DBarikPjm77wkMRcjE5"
+      },
+      "artists": [
+        {
+          "name": "Thiag\u00e3o",
+          "url": "https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw"
+        },
+        {
+          "name": "Wesley Cruz",
+          "url": "https://open.spotify.com/artist/77A1ucBEoXxohcGB3fOSeN"
+        }
+      ],
+      "duration_ms": 250158,
+      "name": "N\u00e3o Tenha Medo",
+      "url": "https://open.spotify.com/track/0HX18TZeeix56yE4iMb83h"
+    },
+    {
+      "added_at": "2024-09-13 03:01:00",
+      "album": {
         "name": "Nome Sobre Todo Nome",
         "url": "https://open.spotify.com/album/1REKdbjMNhpUo6cTHhGacj"
       },
@@ -643,6 +663,26 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
+        "name": "Cora\u00e7\u00e3o Cansado",
+        "url": "https://open.spotify.com/album/647o2SxR5KwJMyiW8UjWwW"
+      },
+      "artists": [
+        {
+          "name": "Brunno Ramos",
+          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
+        },
+        {
+          "name": "Skinny Beats",
+          "url": "https://open.spotify.com/artist/0X7BxMRCyABTrHo168C09r"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Cora\u00e7\u00e3o Cansado",
+      "url": "https://open.spotify.com/track/00IM6KmIxhJGhJ6s4Rzutf"
+    },
+    {
+      "added_at": "2024-09-13 03:01:00",
+      "album": {
         "name": "Quebrantado (Remix)",
         "url": "https://open.spotify.com/album/20mQsfaFBgXfGYsa6eC5aP"
       },
@@ -667,26 +707,6 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
-        "name": "Cora\u00e7\u00e3o Cansado",
-        "url": "https://open.spotify.com/album/647o2SxR5KwJMyiW8UjWwW"
-      },
-      "artists": [
-        {
-          "name": "Brunno Ramos",
-          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
-        },
-        {
-          "name": "Skinny Beats",
-          "url": "https://open.spotify.com/artist/0X7BxMRCyABTrHo168C09r"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Cora\u00e7\u00e3o Cansado",
-      "url": "https://open.spotify.com/track/00IM6KmIxhJGhJ6s4Rzutf"
-    },
-    {
-      "added_at": "2024-09-13 03:01:00",
-      "album": {
         "name": "Tranquilo",
         "url": "https://open.spotify.com/album/13Bxv5nyhn9N4XzeO7TuPQ"
       },
@@ -703,22 +723,6 @@
       "duration_ms": 199115,
       "name": "Tranquilo",
       "url": "https://open.spotify.com/track/0YC9PmA7JeaupmtfIOugat"
-    },
-    {
-      "added_at": "2024-09-13 03:01:00",
-      "album": {
-        "name": "E F\u00e9",
-        "url": "https://open.spotify.com/album/30ds3ileHxbUp4oiuQOijT"
-      },
-      "artists": [
-        {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
-        }
-      ],
-      "duration_ms": 153400,
-      "name": "E F\u00e9",
-      "url": "https://open.spotify.com/track/2qfI1rpgbGjNoaqcOJVfc2"
     },
     {
       "added_at": "2024-09-13 03:01:00",
@@ -771,6 +775,22 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
+        "name": "E F\u00e9",
+        "url": "https://open.spotify.com/album/30ds3ileHxbUp4oiuQOijT"
+      },
+      "artists": [
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        }
+      ],
+      "duration_ms": 153400,
+      "name": "E F\u00e9",
+      "url": "https://open.spotify.com/track/2qfI1rpgbGjNoaqcOJVfc2"
+    },
+    {
+      "added_at": "2024-09-13 03:01:00",
+      "album": {
         "name": "Notas de um Cora\u00e7\u00e3o Amado",
         "url": "https://open.spotify.com/album/4x7FObYKO3bwa9kyZUE5M6"
       },
@@ -783,6 +803,66 @@
       "duration_ms": 133653,
       "name": "Al\u00e9m",
       "url": "https://open.spotify.com/track/2Y2qeRr0FjFOEJBP1AqtiC"
+    },
+    {
+      "added_at": "2024-09-13 03:01:00",
+      "album": {
+        "name": "Tempestade",
+        "url": "https://open.spotify.com/album/3lFAimQkwVjoZsdet0fBH1"
+      },
+      "artists": [
+        {
+          "name": "Calbertini",
+          "url": "https://open.spotify.com/artist/1D8wO50htejQzCFByxytKH"
+        },
+        {
+          "name": "Isaac Folly",
+          "url": "https://open.spotify.com/artist/7FTroPF49wOzN6lIHGKBBB"
+        }
+      ],
+      "duration_ms": 204827,
+      "name": "Tempestade",
+      "url": "https://open.spotify.com/track/7LpZJm6gu1XGnNSkmRknbO"
+    },
+    {
+      "added_at": "2024-09-13 03:01:00",
+      "album": {
+        "name": "Eu Era Servo",
+        "url": "https://open.spotify.com/album/4Cc72TrT4isWBvG2OvBu71"
+      },
+      "artists": [
+        {
+          "name": "Bruno Coutinho",
+          "url": "https://open.spotify.com/artist/65HfZgR1MCHevZEKBRjSGO"
+        },
+        {
+          "name": "Coutinho Records",
+          "url": "https://open.spotify.com/artist/66jcpEOU9SnhG1sjt4o9vS"
+        }
+      ],
+      "duration_ms": 171740,
+      "name": "Eu Era Servo",
+      "url": "https://open.spotify.com/track/0IRsbv7O7PeZhF0BR6aZyj"
+    },
+    {
+      "added_at": "2024-09-13 03:01:00",
+      "album": {
+        "name": "DNA",
+        "url": "https://open.spotify.com/album/4lSfrYeSmEDqnyBwq9FEUf"
+      },
+      "artists": [
+        {
+          "name": "Lookas",
+          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
+        },
+        {
+          "name": "Novidade Urbana",
+          "url": "https://open.spotify.com/artist/3DgCbsyCW1JOgEJEe8WrVy"
+        }
+      ],
+      "duration_ms": 142622,
+      "name": "DNA",
+      "url": "https://open.spotify.com/track/7e5Sa9V4FkAi8QD4yS2og3"
     },
     {
       "added_at": "2024-09-13 03:01:00",
@@ -811,62 +891,22 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
-        "name": "Tempestade",
-        "url": "https://open.spotify.com/album/3lFAimQkwVjoZsdet0fBH1"
+        "name": "Arca de No\u00e9",
+        "url": "https://open.spotify.com/album/3C6zDgnNsusSDOHTLJX5oX"
       },
       "artists": [
         {
-          "name": "Calbertini",
-          "url": "https://open.spotify.com/artist/1D8wO50htejQzCFByxytKH"
+          "name": "Lz Lipe",
+          "url": "https://open.spotify.com/artist/2ek8GnnKSrYAsKOJvOXzQb"
         },
         {
-          "name": "Isaac Folly",
-          "url": "https://open.spotify.com/artist/7FTroPF49wOzN6lIHGKBBB"
+          "name": "You Music",
+          "url": "https://open.spotify.com/artist/4qrGnlN8hrzJPXh66Qb171"
         }
       ],
-      "duration_ms": 204827,
-      "name": "Tempestade",
-      "url": "https://open.spotify.com/track/7LpZJm6gu1XGnNSkmRknbO"
-    },
-    {
-      "added_at": "2024-09-13 03:01:00",
-      "album": {
-        "name": "DNA",
-        "url": "https://open.spotify.com/album/4lSfrYeSmEDqnyBwq9FEUf"
-      },
-      "artists": [
-        {
-          "name": "Lookas",
-          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
-        },
-        {
-          "name": "Novidade Urbana",
-          "url": "https://open.spotify.com/artist/3DgCbsyCW1JOgEJEe8WrVy"
-        }
-      ],
-      "duration_ms": 142622,
-      "name": "DNA",
-      "url": "https://open.spotify.com/track/7e5Sa9V4FkAi8QD4yS2og3"
-    },
-    {
-      "added_at": "2024-09-13 03:01:00",
-      "album": {
-        "name": "Eu Era Servo",
-        "url": "https://open.spotify.com/album/4Cc72TrT4isWBvG2OvBu71"
-      },
-      "artists": [
-        {
-          "name": "Bruno Coutinho",
-          "url": "https://open.spotify.com/artist/65HfZgR1MCHevZEKBRjSGO"
-        },
-        {
-          "name": "Coutinho Records",
-          "url": "https://open.spotify.com/artist/66jcpEOU9SnhG1sjt4o9vS"
-        }
-      ],
-      "duration_ms": 171740,
-      "name": "Eu Era Servo",
-      "url": "https://open.spotify.com/track/0IRsbv7O7PeZhF0BR6aZyj"
+      "duration_ms": 176425,
+      "name": "Arca de No\u00e9",
+      "url": "https://open.spotify.com/track/6uPp6ZFJI1aMr2DoM5e1JF"
     },
     {
       "added_at": "2024-09-13 03:01:00",
@@ -891,46 +931,6 @@
       "duration_ms": 173617,
       "name": "Love Sangre",
       "url": "https://open.spotify.com/track/14vhf1UyE14WJzk7aXdyeo"
-    },
-    {
-      "added_at": "2024-09-13 03:01:00",
-      "album": {
-        "name": "Arca de No\u00e9",
-        "url": "https://open.spotify.com/album/3C6zDgnNsusSDOHTLJX5oX"
-      },
-      "artists": [
-        {
-          "name": "Lz Lipe",
-          "url": "https://open.spotify.com/artist/2ek8GnnKSrYAsKOJvOXzQb"
-        },
-        {
-          "name": "You Music",
-          "url": "https://open.spotify.com/artist/4qrGnlN8hrzJPXh66Qb171"
-        }
-      ],
-      "duration_ms": 176425,
-      "name": "Arca de No\u00e9",
-      "url": "https://open.spotify.com/track/6uPp6ZFJI1aMr2DoM5e1JF"
-    },
-    {
-      "added_at": "2024-09-13 03:01:00",
-      "album": {
-        "name": "N\u00e3o Tenha Medo",
-        "url": "https://open.spotify.com/album/3y3DBarikPjm77wkMRcjE5"
-      },
-      "artists": [
-        {
-          "name": "Thiag\u00e3o",
-          "url": "https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw"
-        },
-        {
-          "name": "Wesley Cruz",
-          "url": "https://open.spotify.com/artist/77A1ucBEoXxohcGB3fOSeN"
-        }
-      ],
-      "duration_ms": 250158,
-      "name": "N\u00e3o Tenha Medo",
-      "url": "https://open.spotify.com/track/0HX18TZeeix56yE4iMb83h"
     },
     {
       "added_at": "2024-09-13 03:01:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
-        "name": "Boas Novas",
-        "url": "https://open.spotify.com/album/7rdv5rmXPxT1PjG8GzN6Eg"
-      },
-      "artists": [
-        {
-          "name": "CAIQ",
-          "url": "https://open.spotify.com/artist/1KWpZUdDFZt8GXdU5Uza3z"
-        }
-      ],
-      "duration_ms": 126077,
-      "name": "Boas Novas",
-      "url": "https://open.spotify.com/track/7HFJFzYJIBTYoT9oyhtplR"
-    },
-    {
-      "added_at": "2024-09-13 03:01:00",
-      "album": {
         "name": "Mesma Miss\u00e3o",
         "url": "https://open.spotify.com/album/7MzCE7MhQmxJX7FyZYTGR2"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 163245,
       "name": "Mesma Miss\u00e3o",
       "url": "https://open.spotify.com/track/22pvTbhNThSeIaA40tjZSZ"
+    },
+    {
+      "added_at": "2024-09-13 03:01:00",
+      "album": {
+        "name": "Boas Novas",
+        "url": "https://open.spotify.com/album/7rdv5rmXPxT1PjG8GzN6Eg"
+      },
+      "artists": [
+        {
+          "name": "CAIQ",
+          "url": "https://open.spotify.com/artist/1KWpZUdDFZt8GXdU5Uza3z"
+        }
+      ],
+      "duration_ms": 126077,
+      "name": "Boas Novas",
+      "url": "https://open.spotify.com/track/7HFJFzYJIBTYoT9oyhtplR"
     },
     {
       "added_at": "2024-09-13 03:01:00",
@@ -1035,30 +1035,6 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
-        "name": "Purificado",
-        "url": "https://open.spotify.com/album/1FUN8psp7l2kciJvxccBiV"
-      },
-      "artists": [
-        {
-          "name": "Duardin",
-          "url": "https://open.spotify.com/artist/47MHCD4zIJB5McYx01HD95"
-        },
-        {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        }
-      ],
-      "duration_ms": 145125,
-      "name": "Purificado",
-      "url": "https://open.spotify.com/track/0Mh41QHiql9sTldoX8a4S5"
-    },
-    {
-      "added_at": "2024-09-13 03:01:00",
-      "album": {
         "name": "B\u00edblia no Jeans",
         "url": "https://open.spotify.com/album/1p3FBw3lyxNsvspB0k1xjb"
       },
@@ -1079,6 +1055,30 @@
       "duration_ms": 138591,
       "name": "B\u00edblia no Jeans",
       "url": "https://open.spotify.com/track/3bZhgep8ZbUA5Sl9jH2CKv"
+    },
+    {
+      "added_at": "2024-09-13 03:01:00",
+      "album": {
+        "name": "Purificado",
+        "url": "https://open.spotify.com/album/1FUN8psp7l2kciJvxccBiV"
+      },
+      "artists": [
+        {
+          "name": "Duardin",
+          "url": "https://open.spotify.com/artist/47MHCD4zIJB5McYx01HD95"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "duration_ms": 145125,
+      "name": "Purificado",
+      "url": "https://open.spotify.com/track/0Mh41QHiql9sTldoX8a4S5"
     },
     {
       "added_at": "2024-09-13 03:01:00",
@@ -1223,6 +1223,26 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
+        "name": "Prioridade",
+        "url": "https://open.spotify.com/album/3SSpd8yC1ueWdG5ojJlgId"
+      },
+      "artists": [
+        {
+          "name": "Luna Garcez",
+          "url": "https://open.spotify.com/artist/7EL0yj5j2H7vN6Xu1fKB5p"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Prioridade",
+      "url": "https://open.spotify.com/track/1RmOFNrRwuYH0IhRCm3Xwp"
+    },
+    {
+      "added_at": "2024-09-13 03:01:00",
+      "album": {
         "name": "Te Agrade\u00e7o",
         "url": "https://open.spotify.com/album/2OgK8zK56Xw5l5hMBryLhJ"
       },
@@ -1271,26 +1291,6 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
-        "name": "Prioridade",
-        "url": "https://open.spotify.com/album/3SSpd8yC1ueWdG5ojJlgId"
-      },
-      "artists": [
-        {
-          "name": "Luna Garcez",
-          "url": "https://open.spotify.com/artist/7EL0yj5j2H7vN6Xu1fKB5p"
-        },
-        {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Prioridade",
-      "url": "https://open.spotify.com/track/1RmOFNrRwuYH0IhRCm3Xwp"
-    },
-    {
-      "added_at": "2024-09-13 03:01:00",
-      "album": {
         "name": "Aba Pai",
         "url": "https://open.spotify.com/album/2MH7AKynaJf9qjIylGXMxz"
       },
@@ -1303,22 +1303,6 @@
       "duration_ms": 126720,
       "name": "Aba Pai",
       "url": "https://open.spotify.com/track/5RDiH1JScYwrGaQOCZnUqF"
-    },
-    {
-      "added_at": "2024-09-13 03:01:00",
-      "album": {
-        "name": "Prosseguir",
-        "url": "https://open.spotify.com/album/1zcpxR84B9nUyuFmrC1qdv"
-      },
-      "artists": [
-        {
-          "name": "Jhonysul",
-          "url": "https://open.spotify.com/artist/4EQD7XR4PvPsdCyQuJViP8"
-        }
-      ],
-      "duration_ms": 155300,
-      "name": "Prosseguir",
-      "url": "https://open.spotify.com/track/5YgA2Dmg3RVyss3Z47zljv"
     },
     {
       "added_at": "2024-09-13 03:01:00",
@@ -1343,6 +1327,22 @@
       "duration_ms": 192250,
       "name": "HARD ROCK",
       "url": "https://open.spotify.com/track/3bS9A48v94gHwNhdejVjLH"
+    },
+    {
+      "added_at": "2024-09-13 03:01:00",
+      "album": {
+        "name": "Prosseguir",
+        "url": "https://open.spotify.com/album/1zcpxR84B9nUyuFmrC1qdv"
+      },
+      "artists": [
+        {
+          "name": "Jhonysul",
+          "url": "https://open.spotify.com/artist/4EQD7XR4PvPsdCyQuJViP8"
+        }
+      ],
+      "duration_ms": 155300,
+      "name": "Prosseguir",
+      "url": "https://open.spotify.com/track/5YgA2Dmg3RVyss3Z47zljv"
     },
     {
       "added_at": "2024-09-13 03:01:00",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
+        "name": "Teologia Negra",
+        "url": "https://open.spotify.com/album/6WQaF4Ig4xJhtw6yFmyBMJ"
+      },
+      "artists": [
+        {
+          "name": "MN MC",
+          "url": "https://open.spotify.com/artist/5fdttSgrBEG0cGc93QlrZV"
+        }
+      ],
+      "duration_ms": 124714,
+      "name": "Teologia Negra",
+      "url": "https://open.spotify.com/track/6yoco3ulwjuskHpxH3h9qL"
+    },
+    {
+      "added_at": "2024-09-13 03:01:00",
+      "album": {
         "name": "Jesus Saves Bro",
         "url": "https://open.spotify.com/album/4tP8rcE5RLYaO1ff1FF5j4"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 127079,
       "name": "Desenvolvimento",
       "url": "https://open.spotify.com/track/4XrrvC2Q0rwz5StEzaVjcj"
-    },
-    {
-      "added_at": "2024-09-13 03:01:00",
-      "album": {
-        "name": "Teologia Negra",
-        "url": "https://open.spotify.com/album/6WQaF4Ig4xJhtw6yFmyBMJ"
-      },
-      "artists": [
-        {
-          "name": "MN MC",
-          "url": "https://open.spotify.com/artist/5fdttSgrBEG0cGc93QlrZV"
-        }
-      ],
-      "duration_ms": 124714,
-      "name": "Teologia Negra",
-      "url": "https://open.spotify.com/track/6yoco3ulwjuskHpxH3h9qL"
     },
     {
       "added_at": "2024-09-13 03:01:00",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
-        "name": "Me Faz Bem",
-        "url": "https://open.spotify.com/album/2yccid2zOW2rcTqzjmVwj4"
-      },
-      "artists": [
-        {
-          "name": "Deus&Marco",
-          "url": "https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k"
-        }
-      ],
-      "duration_ms": 186293,
-      "name": "Me Faz Bem",
-      "url": "https://open.spotify.com/track/332XZaNZUvAAsDsbtKknZE"
-    },
-    {
-      "added_at": "2024-09-13 03:01:00",
-      "album": {
         "name": "Paracetamol (Divisa de Fogo)",
         "url": "https://open.spotify.com/album/0xgEt4c2aFETYetdlnhLRh"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 161701,
       "name": "Paracetamol (Divisa de Fogo)",
       "url": "https://open.spotify.com/track/1nFbOSGxJ0d2fpjNv4nnSJ"
+    },
+    {
+      "added_at": "2024-09-13 03:01:00",
+      "album": {
+        "name": "Me Faz Bem",
+        "url": "https://open.spotify.com/album/2yccid2zOW2rcTqzjmVwj4"
+      },
+      "artists": [
+        {
+          "name": "Deus&Marco",
+          "url": "https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k"
+        }
+      ],
+      "duration_ms": 186293,
+      "name": "Me Faz Bem",
+      "url": "https://open.spotify.com/track/332XZaNZUvAAsDsbtKknZE"
     },
     {
       "added_at": "2024-09-13 03:01:00",

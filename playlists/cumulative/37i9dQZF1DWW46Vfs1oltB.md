@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: Paloalto\(팔로알토\)\)
 
-1,313 songs - 2 day 23 hr 13 min
+1,314 songs - 2 day 23 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1051,6 +1051,7 @@
 | [Spend over](https://open.spotify.com/track/1nv7wC6Jx8hLslcBob8Py8) | [YLN Foreign](https://open.spotify.com/artist/7Lhw1kKfHHKBfcvMSD3DLl), [Yumewanaii](https://open.spotify.com/artist/4oLq9qTt8P6pawQN1w9zL8), [Dbo](https://open.spotify.com/artist/7pMFAOPNBL5beBLW4Pohst) | [Drop The Bit The 3rd round Pt\. 1](https://open.spotify.com/album/4qymBh4IciyjJwgzwIVFUX) | 3:02 | 2022-04-14 | 2022-04-27 |
 | [SPICY](https://open.spotify.com/track/0KGn1PDH5cqmD4B8GMVfae) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [SPICY](https://open.spotify.com/album/187GdUKB6sx3DZaL6wpxnO) | 3:14 | 2021-12-21 | 2022-04-09 |
 | [SPICY \- Remix](https://open.spotify.com/track/0rZXS2o16WEtWP1UeifGVD) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3), [Omega Sapien](https://open.spotify.com/artist/46KQM3HJyONaKRTbcfNPlU), [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ), [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4) | [Spicy \(Remix\)](https://open.spotify.com/album/1YX6mf1K6FKXl1eeDhrBvG) | 5:10 | 2022-01-04 | 2022-06-10 |
+| [SPIDER\-MAN \(Feat\. ZENE THE ZILLA\)](https://open.spotify.com/track/2SqC2gYIKjTFoLnnRxThDQ) | [KOREANGROOVE](https://open.spotify.com/artist/51kKa2NlubrcVgPEoxUQv6), [ZENE THE ZILLA](https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN) | [SPIDER\-MAN](https://open.spotify.com/album/4h3sXi5DVi4qKbNU2Dtzgx) | 2:41 | 2024-09-17 |  |
 | [Spin The Block \(Feat\. Paul Blanco, 365LIT, LIL GIMCHI\)](https://open.spotify.com/track/3Egv0QvxRwI79rd5Y7XHg2) | [Way Ched](https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [365LIT](https://open.spotify.com/artist/65LSFEqRhq074aUBF1zF2e), [LIL GIMCHI](https://open.spotify.com/artist/6GlkZqxomTSlcJUh9WvVKQ) | [IT′S YOUR WAY](https://open.spotify.com/album/1fElnXqdUqkPD9qEGxwEYb) | 3:16 | 2022-01-11 | 2022-06-04 |
 | [Spoiler](https://open.spotify.com/track/3UgL5AEvrbwzH8xW2X1Tan) | [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K), [UNE](https://open.spotify.com/artist/1gPI21PhFmfBqPP118h5rS), [Son Simba](https://open.spotify.com/artist/4q2IjH8TVz7CNSzIiPDV6B), [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq), [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU), [Viann](https://open.spotify.com/artist/7yRs5f61v5AwXwVlUQ7bNE) | [Spoiler](https://open.spotify.com/album/3PS7OQhnvxQtgfyhmmbg1E) | 4:08 | 2021-12-21 | 2022-06-14 |
 | [Spooky Asian](https://open.spotify.com/track/65qJqiCri8ndBSPz2yYWvX) | [Dok2 Changmo](https://open.spotify.com/artist/2JaNBBdULPq5pb3P1sLEET) | [Spooky Asian](https://open.spotify.com/album/5s5NJQJJCTQh4LHkNGQy9B) | 3:28 | 2022-03-05 | 2022-05-26 |

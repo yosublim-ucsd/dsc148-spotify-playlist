@@ -10299,6 +10299,24 @@
     },
     {
       "album": {
+        "name": "Summer Dreams",
+        "url": "https://open.spotify.com/album/60ezehYNCecK9vXYGeidxB"
+      },
+      "artists": [
+        {
+          "name": "Nate VanDeusen",
+          "url": "https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU"
+        }
+      ],
+      "date_added": "2024-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Summer Dreams",
+      "url": "https://open.spotify.com/track/5VF5Z29RricPLDtUugnbOr"
+    },
+    {
+      "album": {
         "name": "Summer Is Infinite",
         "url": "https://open.spotify.com/album/1GnZB4TCMFyc5FXojnuNoz"
       },

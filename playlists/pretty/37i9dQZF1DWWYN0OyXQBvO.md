@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWYN0OyXQBvO.md) - [plain]
 
 > The world deserves a better ending\. Listen to the music from Fallout, the hit video game and epic Prime Video series.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,280 likes - 78 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,630 likes - 78 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWYN0OyXQBvO.md) - [plain]
 | 71 | [Butcher Pete, Pt\. 1](https://open.spotify.com/track/2zKdZWp2hUfjwCR1StkukS) | [Roy Brown](https://open.spotify.com/artist/1tawCzlbH40c30eztzufSu) | [Butcher Pete, Pt\. 1 & 2](https://open.spotify.com/album/2IMQjCyeBA3k8LHpVgHYP7) | 2:26 |
 | 72 | [Lone Star](https://open.spotify.com/track/6Z0UPq98UiEm7h1tHoYwzs) | [Tony Marcus](https://open.spotify.com/artist/4EZdRVun5qkw7LXRBeZ26d) | [Swing With Western](https://open.spotify.com/album/5eQIRiWuxu7dr3lhkryxFO) | 2:27 |
 | 73 | [We'll Meet Again](https://open.spotify.com/track/2iAlDwRozfuIgjvqSJWsw4) | [Vera Lynn](https://open.spotify.com/artist/2rJkmlVHePMo2gk0InTZRS) | [Vera Lynn](https://open.spotify.com/album/5W31vWCqTjTOYC7NwzwWd0) | 3:00 |
-| 74 | [It Was A Very Good Year \- 2008 Remastered](https://open.spotify.com/track/1vLPTWPfJSIrqOhNUWNfNY) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Nothing But The Best \- 2008 Remastered](https://open.spotify.com/album/3i67sGIVw8EBlgfSRv3Lj2) | 4:26 |
+| 74 | [It Was A Very Good Year \- 2008 Remastered](https://open.spotify.com/track/1vLPTWPfJSIrqOhNUWNfNY) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Nothing But The Best \(2008 Remastered\)](https://open.spotify.com/album/3i67sGIVw8EBlgfSRv3Lj2) | 4:26 |
 | 75 | [I'm the One You're Looking For](https://open.spotify.com/track/3NPjZ4tEGawJfMwSEVac7P) | [Lynda Carter](https://open.spotify.com/artist/7dinImt4nrJSPBD7Q5LDPC), [John Jarvis](https://open.spotify.com/artist/0U42bw7AY6q9kdTcCYNM5v), [Kerry Marx](https://open.spotify.com/artist/5yeO84zkSjDhZkeuGXoVCa) | [Fallout 4 \(Original Game Soundtrack\)](https://open.spotify.com/album/47C57TQNELQqnJDS22ZKj6) | 3:25 |
 | 76 | [Crazy He Calls Me](https://open.spotify.com/track/4WlyrphDkGOyX3JsLR8dKV) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lover Man](https://open.spotify.com/album/04yWOCDHFDexCzsJPlyBOd) | 3:05 |
 | 77 | [Good Rockin Tonight](https://open.spotify.com/track/08PeZeBDU73vHT23bkeydm) | [Roy Brown](https://open.spotify.com/artist/1tawCzlbH40c30eztzufSu) | [Good Rockin Tonight](https://open.spotify.com/album/62jk2SPFLwhsFOdsUwPzMT) | 3:36 |

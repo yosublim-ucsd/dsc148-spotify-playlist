@@ -4,24 +4,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 
 > Suomi\-indien tuoreimpia helmiä\. Kannessa Iron Country Sisters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,791 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,795 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Set Fire to Your Name](https://open.spotify.com/track/2yhalxlMecaCw4qZ81G2so) | [Iron Country Sisters](https://open.spotify.com/artist/4nqdOcDZGcXUgZLc8s5qzR) | [Grace](https://open.spotify.com/album/44FTVIj2KYN1xjdCvmu6Bc) | 3:17 |
-| 2 | [Väriympyrä](https://open.spotify.com/track/3uz4ZPxPgss1zqI7htj1yE) | [Joose Keskitalo](https://open.spotify.com/artist/5NVT5vzzlz2slm2gAoA5je), [The Mystic Revelation of Teppo Repo](https://open.spotify.com/artist/0dZa3VK8cBMlUQ8PsozrsR) | [Väriympyrä](https://open.spotify.com/album/4ZLHMZPjawszJ4r89d702E) | 2:44 |
-| 3 | [Hei Anna \(discolove\)](https://open.spotify.com/track/1qxy24d0QQIhdUDgB1RewZ) | [Nelli Milan](https://open.spotify.com/artist/4FphQ1kJVokUMR2pkwRzoH) | [Hei Anna \(discolove\)](https://open.spotify.com/album/4VzwRMAdMyulKf8brSjb1A) | 2:55 |
-| 4 | [Leipäkivet](https://open.spotify.com/track/2oUtWlK9rnTXMbM5meb0ah) | [Rosita Luu](https://open.spotify.com/artist/36Vdx8JtR9dT3MSbYX4apg) | [Yöeläin](https://open.spotify.com/album/13q8FAhJ2aczJl3UYMnVgI) | 4:23 |
-| 5 | [Menkää te juhliin](https://open.spotify.com/track/2X7V0Demz6ZZsxpELQ5N9z) | [Rakkaudella Janne](https://open.spotify.com/artist/4fzPZ93EGyHrsb2jXBFfEK) | [Menkää te juhliin](https://open.spotify.com/album/5J8qpz9UUK8zVN6RWwP5Lg) | 3:13 |
-| 6 | [Somewhere Else Than Here](https://open.spotify.com/track/100nbUWfWV6GABt0sGx6zx) | [Jonsjooel](https://open.spotify.com/artist/1ILOFjlM9mmizHFPtEjvQF) | [Somewhere Else Than Here](https://open.spotify.com/album/2OK9Kdcy6MkmPKte7CY5nV) | 2:53 |
-| 7 | [High](https://open.spotify.com/track/20INpNM0LYwKHd0ghtqOQD) | [Crimson Peak](https://open.spotify.com/artist/7GJg4UXlhiqLUNXVQjNOoB) | [Music About Feelings](https://open.spotify.com/album/3uiP4c1oPgsj7o3le60FUk) | 3:32 |
-| 8 | [Kanava kii](https://open.spotify.com/track/0I4XPyFJj08blQPr4WeCsq) | [Jari Raaste](https://open.spotify.com/artist/1Pt8I79A8fqtQNibfZFk1O) | [Kanava kii](https://open.spotify.com/album/30jnIOPoYaynQAcDJNaSlS) | 4:19 |
-| 9 | [Hei kuski \(feat\. Elias Gould\)](https://open.spotify.com/track/4KBaamH6sQDzO71LxFHXLJ) | [Pekka Nisu](https://open.spotify.com/artist/5pK0f3WYGPjuZ5aviic5fS), [Elias Gould](https://open.spotify.com/artist/2vMYb9ojrYEFFcz0IRF2b3) | [Hei kuski \(feat\. Elias Gould\)](https://open.spotify.com/album/0GYxct8Pog06gIMvnS5PF4) | 2:47 |
-| 10 | [onnellinen](https://open.spotify.com/track/1iR8pMrtxB2FufBN69L2zC) | [fibi](https://open.spotify.com/artist/3ZzkX4rxGFuxbIaavXhWoo) | [onnellinen & heinäkuu](https://open.spotify.com/album/5R2Nuzq754IZHOipNt9Iek) | 3:17 |
-| 11 | [Trouble](https://open.spotify.com/track/5VJMrzCBdZ3yldDcXkWd22) | [Conchis](https://open.spotify.com/artist/3YfNCMy8SPjE7H8Xg3rVoB) | [Trouble](https://open.spotify.com/album/7Dn3tCDZahfS8MeSMAaMsy) | 3:55 |
-| 12 | [Pilviin](https://open.spotify.com/track/47PGEhz9vM6w280gxajrD0) | [Syskofrenia](https://open.spotify.com/artist/3qIBEzZ5oYqS0fkBAw6wDB) | [Pilviin](https://open.spotify.com/album/52qljTFEBWpfjA6eANBYn0) | 3:37 |
-| 13 | [hometown](https://open.spotify.com/track/3jdieYfpnjMGe3cDULBQmT) | [NAILOV](https://open.spotify.com/artist/49TbRPtRh0j5xSrvBCjTM0) | [hometown](https://open.spotify.com/album/3sKF7gZ4vLd6NHugsFD9Hh) | 2:20 |
-| 14 | [Aikamatkustaja](https://open.spotify.com/track/1Hl1y31mskaUe67b3HaY3P) | [Kanerva](https://open.spotify.com/artist/5exh5RwXLMKrAxEpmrFZOi), [Asa](https://open.spotify.com/artist/0rHtbK2pK4r67coo9EsT7D) | [Aikamatkustaja](https://open.spotify.com/album/5qPuBfEZGnZnNlyaQgVOBD) | 3:07 |
+| 1 | [Aikamatkustaja](https://open.spotify.com/track/1Hl1y31mskaUe67b3HaY3P) | [Kanerva](https://open.spotify.com/artist/5exh5RwXLMKrAxEpmrFZOi), [Asa](https://open.spotify.com/artist/0rHtbK2pK4r67coo9EsT7D) | [Aikamatkustaja](https://open.spotify.com/album/5qPuBfEZGnZnNlyaQgVOBD) | 3:07 |
+| 2 | [Set Fire to Your Name](https://open.spotify.com/track/2yhalxlMecaCw4qZ81G2so) | [Iron Country Sisters](https://open.spotify.com/artist/4nqdOcDZGcXUgZLc8s5qzR) | [Grace](https://open.spotify.com/album/44FTVIj2KYN1xjdCvmu6Bc) | 3:17 |
+| 3 | [onnellinen](https://open.spotify.com/track/1iR8pMrtxB2FufBN69L2zC) | [fibi](https://open.spotify.com/artist/3ZzkX4rxGFuxbIaavXhWoo) | [onnellinen & heinäkuu](https://open.spotify.com/album/5R2Nuzq754IZHOipNt9Iek) | 3:17 |
+| 4 | [Somewhere Else Than Here](https://open.spotify.com/track/100nbUWfWV6GABt0sGx6zx) | [Jonsjooel](https://open.spotify.com/artist/1ILOFjlM9mmizHFPtEjvQF) | [Somewhere Else Than Here](https://open.spotify.com/album/2OK9Kdcy6MkmPKte7CY5nV) | 2:53 |
+| 5 | [Väriympyrä](https://open.spotify.com/track/3uz4ZPxPgss1zqI7htj1yE) | [Joose Keskitalo](https://open.spotify.com/artist/5NVT5vzzlz2slm2gAoA5je), [The Mystic Revelation of Teppo Repo](https://open.spotify.com/artist/0dZa3VK8cBMlUQ8PsozrsR) | [Väriympyrä](https://open.spotify.com/album/4ZLHMZPjawszJ4r89d702E) | 2:44 |
+| 6 | [Hei Anna \(discolove\)](https://open.spotify.com/track/1qxy24d0QQIhdUDgB1RewZ) | [Nelli Milan](https://open.spotify.com/artist/4FphQ1kJVokUMR2pkwRzoH) | [Hei Anna \(discolove\)](https://open.spotify.com/album/4VzwRMAdMyulKf8brSjb1A) | 2:55 |
+| 7 | [Leipäkivet](https://open.spotify.com/track/2oUtWlK9rnTXMbM5meb0ah) | [Rosita Luu](https://open.spotify.com/artist/36Vdx8JtR9dT3MSbYX4apg) | [Yöeläin](https://open.spotify.com/album/13q8FAhJ2aczJl3UYMnVgI) | 4:23 |
+| 8 | [Menkää te juhliin](https://open.spotify.com/track/2X7V0Demz6ZZsxpELQ5N9z) | [Rakkaudella Janne](https://open.spotify.com/artist/4fzPZ93EGyHrsb2jXBFfEK) | [Menkää te juhliin](https://open.spotify.com/album/5J8qpz9UUK8zVN6RWwP5Lg) | 3:13 |
+| 9 | [High](https://open.spotify.com/track/20INpNM0LYwKHd0ghtqOQD) | [Crimson Peak](https://open.spotify.com/artist/7GJg4UXlhiqLUNXVQjNOoB) | [Music About Feelings](https://open.spotify.com/album/3uiP4c1oPgsj7o3le60FUk) | 3:32 |
+| 10 | [Kanava kii](https://open.spotify.com/track/0I4XPyFJj08blQPr4WeCsq) | [Jari Raaste](https://open.spotify.com/artist/1Pt8I79A8fqtQNibfZFk1O) | [Kanava kii](https://open.spotify.com/album/30jnIOPoYaynQAcDJNaSlS) | 4:19 |
+| 11 | [Hei kuski \(feat\. Elias Gould\)](https://open.spotify.com/track/4KBaamH6sQDzO71LxFHXLJ) | [Pekka Nisu](https://open.spotify.com/artist/5pK0f3WYGPjuZ5aviic5fS), [Elias Gould](https://open.spotify.com/artist/2vMYb9ojrYEFFcz0IRF2b3) | [Hei kuski \(feat\. Elias Gould\)](https://open.spotify.com/album/0GYxct8Pog06gIMvnS5PF4) | 2:47 |
+| 12 | [Trouble](https://open.spotify.com/track/5VJMrzCBdZ3yldDcXkWd22) | [Conchis](https://open.spotify.com/artist/3YfNCMy8SPjE7H8Xg3rVoB) | [Trouble](https://open.spotify.com/album/7Dn3tCDZahfS8MeSMAaMsy) | 3:55 |
+| 13 | [Pilviin](https://open.spotify.com/track/47PGEhz9vM6w280gxajrD0) | [Syskofrenia](https://open.spotify.com/artist/3qIBEzZ5oYqS0fkBAw6wDB) | [Pilviin](https://open.spotify.com/album/52qljTFEBWpfjA6eANBYn0) | 3:37 |
+| 14 | [hometown](https://open.spotify.com/track/3jdieYfpnjMGe3cDULBQmT) | [NAILOV](https://open.spotify.com/artist/49TbRPtRh0j5xSrvBCjTM0) | [hometown](https://open.spotify.com/album/3sKF7gZ4vLd6NHugsFD9Hh) | 2:20 |
 | 15 | [Alive](https://open.spotify.com/track/0RjrVnxd3KnWHKLGj2ZNyO) | [Jaakko Aukusti](https://open.spotify.com/artist/2YTpOPQuz4J2CphaVIgSBj) | [Alive](https://open.spotify.com/album/3ehC2FHtHXbVnwDTQJT7KD) | 2:56 |
 | 16 | [Friedrichshain](https://open.spotify.com/track/6shjzWDbxwUuQzmhQAQJQQ) | [NEØV](https://open.spotify.com/artist/6TgS8LDntw71vz2Wf7TJ8h) | [Soft Atlas](https://open.spotify.com/album/4Krjmqw6gmzUQzhE5m1Duc) | 4:50 |
 | 17 | [Madonna mia](https://open.spotify.com/track/0AcSiP83WmYo8maq71HZRJ) | [Tappo Macina](https://open.spotify.com/artist/7M1We3Yi2OrsU7csT6cfpA) | [Madonna mia](https://open.spotify.com/album/2yAlr44fgLDOC76JhuxiN0) | 3:43 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 | 79 | [Seilorin tytär](https://open.spotify.com/track/60eLk78ZyxQnKxy4Wd3QoP) | [Laura Airaksinen](https://open.spotify.com/artist/1AHWLiCS9t30NbCkucHctd) | [Seilorin tytär](https://open.spotify.com/album/7yVA52cMHrEUs53LQuGIzm) | 3:11 |
 | 80 | [Go Easy Now](https://open.spotify.com/track/02DAeqhDwEs8MJa6xUTTKF) | [Ethel Suspense](https://open.spotify.com/artist/7yIOQQJwcRVZm562HCzzE9) | [Go Easy Now](https://open.spotify.com/album/5wFC3e0YhjHt7mf5noAaiK) | 3:46 |
 
-Snapshot ID: `ZuNWjAAAAABMpxTvSfceeXngAbP1qyob`
+Snapshot ID: `ZulK7AAAAACKoirZCdCm6XagxXLy3KZ3`

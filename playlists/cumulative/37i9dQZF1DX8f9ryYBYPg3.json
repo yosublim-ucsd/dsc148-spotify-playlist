@@ -805,6 +805,24 @@
     },
     {
       "album": {
+        "name": ".\u9ebb\u5929\u72fc",
+        "url": "https://open.spotify.com/album/7CBvmjdl9hfBuPahlmbDFz"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u89b3\u97f3\u5742\u72ec\u6b69)",
+          "url": "https://open.spotify.com/artist/1jFS1ybytbb9YCWaTnhQ7I"
+        }
+      ],
+      "date_added": "2024-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180826,
+      "name": "Andante",
+      "url": "https://open.spotify.com/track/4rqRNzMYjzG4sBaGjQnnSx"
+    },
+    {
+      "album": {
         "name": ".MAD TRIGGER CREW",
         "url": "https://open.spotify.com/album/3BChtlUGl3RGIjMSp5MLul"
       },
@@ -1364,7 +1382,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 1253183,
       "name": "Drama Track [Just A Friend]",
       "url": "https://open.spotify.com/track/1Obb4FHKmG9uhx5PQda3rM"
@@ -1386,7 +1404,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 1638998,
       "name": "Drama Track [Know Your Enemy side B.B VS M.T.C]",
       "url": "https://open.spotify.com/track/4D99j9XUjPNsLCym0aTqT3"
@@ -1408,7 +1426,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 2194584,
       "name": "Drama Track [Know Your Enemy Side F.P VS M]",
       "url": "https://open.spotify.com/track/4jfhSgzQLQTXyueuIqYAqC"
@@ -1430,7 +1448,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 970666,
       "name": "Drama Track [Louder Than A Bomb]",
       "url": "https://open.spotify.com/track/2vm6W4rKJmYNg3nODQE163"
@@ -1448,7 +1466,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 891778,
       "name": "Drama Track \u300cFling Posse Inc.\u300d",
       "url": "https://open.spotify.com/track/1cvBkFJBVWKOsLRiVeFtp7"
@@ -1466,7 +1484,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 2738733,
       "name": "Drama Track \u300cMixed Up\u300d",
       "url": "https://open.spotify.com/track/27XLH8ZrFhqwV1x3cdMztM"
@@ -1484,7 +1502,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 2701598,
       "name": "Drama Track \u300c\u516d\u8272\u304c\u4ea4\u308f\u308b\u6642\u3001\u300e\u300f\u304c\u59cb\u307e\u308b\u300d",
       "url": "https://open.spotify.com/track/14FfhRXhpbfy2neMS3z9ve"
@@ -1502,7 +1520,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 926126,
       "name": "Drama Track[29\u6b73\u306e\u30ea\u30a2\u30eb]",
       "url": "https://open.spotify.com/track/50lNjGsMqZTieELnDzdeTh"
@@ -1520,7 +1538,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 2447954,
       "name": "Drama Track[aikata back again]",
       "url": "https://open.spotify.com/track/2ORw2q9RIeMcPmJrPd8niz"
@@ -1538,7 +1556,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 3243938,
       "name": "Drama Track[Don't Play No Game That I Can't Win]",
       "url": "https://open.spotify.com/track/4QJyVIRVvMsDRemHpudY9Y"
@@ -1556,7 +1574,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 876602,
       "name": "Drama Track[Fight For Your Right]",
       "url": "https://open.spotify.com/track/2Ry6SPQ7IDlJHxccq8kX0T"
@@ -1574,7 +1592,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 1871541,
       "name": "Drama Track[Me Against The World]",
       "url": "https://open.spotify.com/track/0TDvnTq7JIAgQ3U5kkLkVT"
@@ -1592,7 +1610,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 1021949,
       "name": "Drama Track[Somebody Gotta Do It]",
       "url": "https://open.spotify.com/track/5a7AEE9I28KoPO2NQ0ktzQ"
@@ -1610,7 +1628,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 1093780,
       "name": "Drama Track[We Just Wanna Party with You]",
       "url": "https://open.spotify.com/track/3NDCDuHhK8YKvAfFtEl69L"
@@ -1628,7 +1646,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 2633096,
       "name": "Drama Track[\u4e0d\u9000\u8ee2\u306e\u5fc3\u306f\u6483\u3061\u7815\u3051\u306a\u3044]",
       "url": "https://open.spotify.com/track/6mgGWSAA7msILVHxoCsghx"
@@ -1646,7 +1664,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 1815913,
       "name": "Drama Track[\u8a3c\u8a00]",
       "url": "https://open.spotify.com/track/19vmmHiRpj9MFpOxpPJzbI"
@@ -1664,7 +1682,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 1765120,
       "name": "Drama Track\u300cA dream\u2026for good or evil\u300d",
       "url": "https://open.spotify.com/track/5uBULL8ZhdkWNs4popbOlO"
@@ -1682,7 +1700,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 1688346,
       "name": "Drama Track\u300cAikata(s)Back Again\u300d",
       "url": "https://open.spotify.com/track/5LWSH8nTMC2867OACHpOTC"
@@ -1700,7 +1718,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 1829720,
       "name": "Drama Track\u300cCatch Us If You Can\u300d",
       "url": "https://open.spotify.com/track/3ZoWZtJ5rRbzA0YVtucYTZ"
@@ -1718,7 +1736,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 1898866,
       "name": "Drama Track\u300cLife is what you make it\u300d",
       "url": "https://open.spotify.com/track/5qSexxPnRDqmrHmYJfVcch"
@@ -1736,7 +1754,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 913320,
       "name": "Drama Track\u300cNo one lives forever\u300d",
       "url": "https://open.spotify.com/track/550FXsa5337R5E4tVPDRwA"
@@ -1754,7 +1772,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 2764880,
       "name": "Drama Track\u300cThe Block Party -\u524d\u534a-\u300d",
       "url": "https://open.spotify.com/track/1SBltxCSVpDGhp7rDRAWDn"
@@ -1772,7 +1790,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 3228613,
       "name": "Drama Track\u300cThe Block Party -\u5f8c\u534a-\u300d",
       "url": "https://open.spotify.com/track/65gKBHXFNvjelDHDPAmEwg"
@@ -1790,7 +1808,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 2502588,
       "name": "Drama Track\u300c\u30de\u30ea\u30aa\u30cd\u30c3\u30c8\u306e\u5b64\u72ec\u3068\u6d99\u3068\u5e0c\u671b\u3068\u300d",
       "url": "https://open.spotify.com/track/79MIqoEZx5gxVjQPQilngb"
@@ -1808,7 +1826,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 1891293,
       "name": "Drama Track\u300c\u548c\u8877\u5171\u540c\u300d",
       "url": "https://open.spotify.com/track/1ulU3nCD1jp5D6anuOJMeF"
@@ -1826,7 +1844,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 2769899,
       "name": "Drama Track\u300c\u904e\u53bb\u304b\u3089\u306echaser\u300d",
       "url": "https://open.spotify.com/track/13QMaRgR5OI1mPph8Q3Xua"
@@ -1844,7 +1862,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 1844253,
       "name": "Drama Track\u300c\u9306\u3073\u3064\u3051\u3070\u9032\u3081\u305a\u3001\u81c6\u3059\u308c\u3070\u8a87\u308a\u3092\u5931\u3046\u3002\u6545\u306b\u6211\u3005\u306f\u5df1\u306b\u5426\u3092\u713c\u3079\u3001\u706b\u3092\u706f\u3057\u7d9a\u3051\u308b\u300d",
       "url": "https://open.spotify.com/track/2wGdtdglYW4T3oTsBsRmJb"
@@ -1862,7 +1880,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 2477773,
       "name": "Drama Track\u300eMy Generation\u300f",
       "url": "https://open.spotify.com/track/5lO9ud21cABBC6K6sAKHa3"
@@ -1880,7 +1898,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 1962398,
       "name": "Drama Track\u300eTime For Heroes\u300f",
       "url": "https://open.spotify.com/track/3gVYf0QcuZxEXYBrDWMy3t"
@@ -1898,7 +1916,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 2187070,
       "name": "Drama Track\uff62All in the same boat\uff63",
       "url": "https://open.spotify.com/track/51NFBhTPe6FqqzzHj9xl1q"
@@ -1916,7 +1934,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 2774032,
       "name": "Drama Track\uff62Helter Skelter\uff63",
       "url": "https://open.spotify.com/track/2V1howFtvMmArwLngAhzsK"
@@ -2832,7 +2850,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 181399,
       "name": "Rep Squad -MAD TRIGGER CREW Ver.-",
       "url": "https://open.spotify.com/track/1DCdzPr9v3WrNBjNwkOZ3l"
@@ -2850,7 +2868,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 181828,
       "name": "Rep Squad -\u3069\u3064\u3044\u305f\u308c\u672c\u8217 Ver.-",
       "url": "https://open.spotify.com/track/4hlW3CX2hUtuDrAOtLvnSS"
@@ -3840,7 +3858,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 852166,
       "name": "\u30a4\u30b1\u30d6\u30af\u30ed\u30fb\u30c7\u30a3\u30d3\u30b8\u30e7\u30f3 Buster Bros!!! Drama Track1",
       "url": "https://open.spotify.com/track/7HChYAp3GIgzxZ6ny2AnUk"
@@ -3858,7 +3876,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 381388,
       "name": "\u30a4\u30b1\u30d6\u30af\u30ed\u30fb\u30c7\u30a3\u30d3\u30b8\u30e7\u30f3 Buster Bros!!! Drama Track2",
       "url": "https://open.spotify.com/track/7Gw4FM3cnHl223uicaFIam"
@@ -3956,7 +3974,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 870359,
       "name": "\u30b7\u30d6\u30e4\u30fb\u30c7\u30a3\u30d3\u30b8\u30e7\u30f3 Fling Posse Drama Track1",
       "url": "https://open.spotify.com/track/75fljM8LRR9P8D0lPmT9TX"
@@ -3974,7 +3992,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 484759,
       "name": "\u30b7\u30d6\u30e4\u30fb\u30c7\u30a3\u30d3\u30b8\u30e7\u30f3 Fling Posse Drama Track2",
       "url": "https://open.spotify.com/track/4sd68hFhYpOwxcyzPMNJOU"
@@ -4032,7 +4050,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 1394455,
       "name": "\u30b7\u30f3\u30b8\u30e5\u30af\u30fb\u30c7\u30a3\u30d3\u30b8\u30e7\u30f3 \u9ebb\u5929\u72fc Drama Track1",
       "url": "https://open.spotify.com/track/0LQJjCp8yEF3DC6r15eg0I"
@@ -4050,7 +4068,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 453211,
       "name": "\u30b7\u30f3\u30b8\u30e5\u30af\u30fb\u30c7\u30a3\u30d3\u30b8\u30e7\u30f3 \u9ebb\u5929\u72fc Drama Track2",
       "url": "https://open.spotify.com/track/2MzccwlcwI4dKW2mqxyYpH"
@@ -4390,7 +4408,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 821507,
       "name": "\u30e8\u30b3\u30cf\u30de\u30fb\u30c7\u30a3\u30d3\u30b8\u30e7\u30f3 MAD TRIGGER CREW Drama Track1",
       "url": "https://open.spotify.com/track/4mMaQ2GhlGEnRZwEJOoocK"
@@ -4408,7 +4426,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 303319,
       "name": "\u30e8\u30b3\u30cf\u30de\u30fb\u30c7\u30a3\u30d3\u30b8\u30e7\u30f3 MAD TRIGGER CREW Drama Track2",
       "url": "https://open.spotify.com/track/305ZzFODZus8vODIsMgWuh"
@@ -4514,6 +4532,42 @@
       "duration_ms": 189186,
       "name": "\u5922\u306e\u5f7c\u65b9",
       "url": "https://open.spotify.com/track/2VodztgioHb77wnqQpeumX"
+    },
+    {
+      "album": {
+        "name": ".\u9ebb\u5929\u72fc",
+        "url": "https://open.spotify.com/album/7CBvmjdl9hfBuPahlmbDFz"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u4f0a\u5f09\u5189\u4e00\u4e8c\u4e09)",
+          "url": "https://open.spotify.com/artist/6eQaoV4hcIjHERsUBZILMp"
+        }
+      ],
+      "date_added": "2024-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211160,
+      "name": "\u59cb\u307e\u308a\u306e\u30e9\u30b9\u30c8\u30bd\u30f3\u30b0",
+      "url": "https://open.spotify.com/track/0xs8MSMZYzCKVrURzzvpfJ"
+    },
+    {
+      "album": {
+        "name": ".\u9ebb\u5929\u72fc",
+        "url": "https://open.spotify.com/album/7CBvmjdl9hfBuPahlmbDFz"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u795e\u5bae\u5bfa\u5bc2\u96f7)",
+          "url": "https://open.spotify.com/artist/6GLJqeXo7O5WlJFHjCrYDg"
+        }
+      ],
+      "date_added": "2024-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272360,
+      "name": "\u5a01\u98a8\u98af\u723d",
+      "url": "https://open.spotify.com/track/6vTYK0VoX8pAYJCQ9LgXPs"
     },
     {
       "album": {

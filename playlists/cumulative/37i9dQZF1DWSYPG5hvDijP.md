@@ -4,7 +4,7 @@
 
 > New Hip Hop from India.
 
-419 songs - 21 hr 34 min
+420 songs - 21 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Chalis](https://open.spotify.com/track/3Y2QAPM1Vsw7yKKnVMsxhD) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Chalis](https://open.spotify.com/album/5Mp4zVYRkIbJ4AZyXB27Nw) | 3:04 | 2024-07-29 | 2024-09-13 |
 | [Channa Ve](https://open.spotify.com/track/4ekflmlEIqeYEgZYx2p4xy) | [Rahul Sathu](https://open.spotify.com/artist/64UjPeMUmhyalooujVrEU3), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci) | [Channa Ve](https://open.spotify.com/album/0VfXeutoN0UChbGzlfcLka) | 3:57 | 2024-09-05 |  |
 | [Chhod Dala](https://open.spotify.com/track/5jv5MBWejIF8DX9huv5tKv) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Chhod Dala](https://open.spotify.com/album/4so9xrFmNkNW58CfxtjkbT) | 3:56 | 2023-04-24 | 2024-06-08 |
+| [Chhore](https://open.spotify.com/track/4vDdzKCAT9t45L4gKoXQGE) | [Zenxae](https://open.spotify.com/artist/2dszNFbKub1Eq174OKBifP), [NB Slayer](https://open.spotify.com/artist/1eUBpi6ogzKTogQtRCU3o0) | [Chhore](https://open.spotify.com/album/5PJnSQDa5IyXhk0ouMi0Dl) | 2:03 | 2024-09-17 |  |
 | [Choke Slam](https://open.spotify.com/track/49ci49d2SaiwpcvZVMfbnM) | [Naezy](https://open.spotify.com/artist/2oeTqp8DgAmtnP2WGc1OS2) | [Apocalypse](https://open.spotify.com/album/5s9DfBDESB5DWNXPbQBKwB) | 2:15 | 2023-04-24 | 2023-06-02 |
 | [Cigarette](https://open.spotify.com/track/7siESYnNXs5qpSE983tmfG) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Only Love Gets Reply](https://open.spotify.com/album/4AJ9rJiLuo4xWxUjvaXNdz) | 3:02 | 2024-06-05 | 2024-07-30 |
 | [Classy Chapri](https://open.spotify.com/track/4qKKIJ8VLxreHQbDSJB3xo) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [King Of The Streets](https://open.spotify.com/album/2hPOXAgxqTZvkg8qNKO88e) | 2:55 | 2023-06-09 | 2024-02-09 |
@@ -186,7 +187,7 @@
 | [Hip Hawp](https://open.spotify.com/track/4vOSb0R7owrxx1tkbtxKGy) | [SNIPER](https://open.spotify.com/artist/7nNMzQprutDZ3D5ZxUHJbK), [Hakeem](https://open.spotify.com/artist/5DEHzdtoptgfgV6iri6zgl) | [On Air](https://open.spotify.com/album/1aCFPgZG9BUc1KTsE2UfWp) | 2:38 | 2024-08-29 |  |
 | [HipHop](https://open.spotify.com/track/2P93lGrpCAYBsRDkwTAJUR) | [Archiesman Kundu](https://open.spotify.com/artist/17L6rZzYeBhlhbM2QrP1dp), [Rawhit](https://open.spotify.com/artist/7kgwOK3eQom7HQwkpbRwO9) | [HipHop](https://open.spotify.com/album/6HVA3RkFCgLUNPzWU8vPjX) | 2:37 | 2023-04-28 | 2023-06-02 |
 | [Hola Amigo](https://open.spotify.com/track/19pHSvXUwErAXFktkvYMk9) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [FAR FROM OVER](https://open.spotify.com/album/4013u1RNEHieH8NwnN0vNh) | 3:46 | 2023-08-29 | 2024-07-13 |
-| [HOMIE LOG](https://open.spotify.com/track/3YCQxZaUKfqDUjrtVClKtW) | [Thoratt](https://open.spotify.com/artist/7tzOyhYENH5JN2loiiUhvW), [FlamboyBeatz](https://open.spotify.com/artist/1nbhTxyeATtD6EPZR87bca) | [HOMIE LOG](https://open.spotify.com/album/7AR85L29sUGlakbyuLP6Nk) | 3:20 | 2024-08-16 |  |
+| [HOMIE LOG](https://open.spotify.com/track/3YCQxZaUKfqDUjrtVClKtW) | [Thoratt](https://open.spotify.com/artist/7tzOyhYENH5JN2loiiUhvW), [FlamboyBeatz](https://open.spotify.com/artist/1nbhTxyeATtD6EPZR87bca) | [HOMIE LOG](https://open.spotify.com/album/7AR85L29sUGlakbyuLP6Nk) | 3:20 | 2024-08-16 | 2024-09-18 |
 | [Hona Hi Tha](https://open.spotify.com/track/3ezm3DukK26vagWIIPvmgS) | [yungsta](https://open.spotify.com/artist/4HQz6xUrKEKQ8nmMKsfvkB), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Encore ABJ](https://open.spotify.com/artist/1GNRmzBPWT8hh6CYxkNiRy), [dilliboy](https://open.spotify.com/artist/37KYCGXSG8pWVFC0fQbWoh) | [MEEN](https://open.spotify.com/album/0x8LEMRVAJWEdX6cGEcJeu) | 4:22 | 2023-05-12 | 2024-06-18 |
 | [House Of Lies](https://open.spotify.com/track/7avo2LpNFXrgUgRtl9OsAL) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [House Of Lies](https://open.spotify.com/album/58U6KMHr9ApwuTXeKXIGa9) | 2:59 | 2024-05-24 | 2024-07-13 |
 | [HOUSEPHULL!](https://open.spotify.com/track/3QZVea80dqvsQEtmewjP2J) | [Tsumyoki](https://open.spotify.com/artist/19jx3wc1iRshvEKMvzZc1X) | [HOUSEPHULL](https://open.spotify.com/album/4XlrrW7oSZJDjjiOGwpV2E) | 2:26 | 2024-06-03 | 2024-06-15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NeseHaSkSz.md) - [plain]
 
 > Indian flute and nature sounds transport you to a hidden sacred place deep in the woods..\. Escape to your inner sanctuary to find recovery, healing and tranquility.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,981 likes - 114 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,158 likes - 114 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NeseHaSkSz.md) - [plain]
 | 113 | [Pads of Tranquility](https://open.spotify.com/track/3pv62N3Wub3yW6OJybgJ8X) | [Ajla Birak](https://open.spotify.com/artist/5twf3oUVCKE2cmSpWhjRuH) | [Sounds of Tranquility](https://open.spotify.com/album/2LWkP0NkebzpYLpm0cCBdk) | 2:20 |
 | 114 | [Forest Zen](https://open.spotify.com/track/5XMYAJZVTKVDLwWHu5bjV9) | [Sacred Bansuri](https://open.spotify.com/artist/7gESLNj728yT7IhMVE6nSD) | [Forest Zen](https://open.spotify.com/album/4RXntU6pbX3LWLXQFQGgrp) | 2:35 |
 
-Snapshot ID: `ZscmVwAAAABpds+fF1aNrJKyf1pN1+5M`
+Snapshot ID: `ZscmVwAAAABmCgbuGA0YbFn3keYxaX2Z`

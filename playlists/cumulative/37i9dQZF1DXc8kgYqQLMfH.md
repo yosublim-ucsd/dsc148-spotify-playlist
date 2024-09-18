@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,189 songs - 1 day 21 hr 18 min
+1,190 songs - 1 day 21 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -345,6 +345,7 @@
 | [Fat Cap](https://open.spotify.com/track/3nBvqYMvBUn00wIPnn28Yu) | [LoDub](https://open.spotify.com/artist/0r8v9ej0fnnyLhdF8YYz36) | [Fat Cap](https://open.spotify.com/album/2NGM9eRg0DXqUib1FZw6VH) | 2:27 | 2023-02-07 | 2024-08-23 |
 | [Feca Dreaming](https://open.spotify.com/track/1o2uZSeGGny9JwUwC5OjNH) | [yoranda](https://open.spotify.com/artist/6RASfL9QFAOiqYdKetXooz) | [Feca Dreaming](https://open.spotify.com/album/6J1P0Nr20nzQ3gc9pjpUrf) | 2:32 | 2023-04-20 |  |
 | [female instinct](https://open.spotify.com/track/7Bo9waxvipuELlsPODymet) | [natalie kenston](https://open.spotify.com/artist/392PBTDto12btpdlkc3L3K) | [female instinct](https://open.spotify.com/album/5IyKsBgHSX7zqQNTJorahs) | 1:24 | 2021-11-10 | 2022-06-03 |
+| [Fibonacci Sequence](https://open.spotify.com/track/1dQuDoTE50pWa0bvTx7xce) | [Wibke Komi](https://open.spotify.com/artist/5lEV6MZ6qSWTLAeGpTg5rI) | [Fibonacci Sequence](https://open.spotify.com/album/6W8ycDHnXNiLJ0Se569fKH) | 2:24 | 2024-09-13 |  |
 | [Fields](https://open.spotify.com/track/27jH99Hj03THQbpOU5XnWF) | [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC), [blndspot](https://open.spotify.com/artist/4YYlHGxwQoGgtikHADECAn), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Fields](https://open.spotify.com/album/28kyJFTa7twzNPVk68j1VT) | 2:05 | 2022-09-16 | 2023-10-06 |
 | [Filon](https://open.spotify.com/track/5HBsRUmY05whAWU5JiZkNd) | [Broky Flacko](https://open.spotify.com/artist/6FoTVSfKcKfug9cWxyttk6), [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Filon](https://open.spotify.com/album/4932oPGZ71IUz8VQ6UptGN) | 1:42 | 2022-10-28 | 2023-10-06 |
 | [Final Goodbye](https://open.spotify.com/track/2MB7zDWGS5WprHKjyxLJnt) | [Smith Beats](https://open.spotify.com/artist/5HHXSrUf66808GVDTVmH1u), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [Final Goodbye](https://open.spotify.com/album/1rMHSdUWRvrMew3r9Aj0d8) | 2:58 | 2023-01-06 |  |
@@ -827,7 +828,7 @@
 | [Posted](https://open.spotify.com/track/6sk7bDKXSSEemZOPkNPWGa) | [Leo Perna](https://open.spotify.com/artist/0nZVFbVPVpCz6leeVjpWf7) | [Posted](https://open.spotify.com/album/51YrUF6pCS8V2cUVoHaiQ0) | 2:20 | 2024-06-05 |  |
 | [Presence](https://open.spotify.com/track/6kO1idyRqaj2J5B2syUq7w) | [Elk Beats](https://open.spotify.com/artist/1Nl5io0qeF6ISnWrdTnFQB), [Lomme](https://open.spotify.com/artist/2UxHowdAHxVWPhQQswzpT6) | [Presence](https://open.spotify.com/album/0tedFfKSiGAXaYhjK83Xya) | 2:17 | 2023-01-06 |  |
 | [present](https://open.spotify.com/track/2ygHOivjzwJjy4ItsjweHv) | [The King Chameleon](https://open.spotify.com/artist/5a3jN23M7PMCPVFaASjHmK) | [present](https://open.spotify.com/album/5Qf3SwYMlSK7DDsFYffaso) | 3:02 | 2022-06-17 | 2023-09-22 |
-| [Press Start](https://open.spotify.com/track/7jLAhUlipXOkcvu9pz05hx) | [Kisiaria](https://open.spotify.com/artist/6vRLEJFTHryBVa2mZ4aBKX) | [Press Start](https://open.spotify.com/album/0Bj13pKUn9CEwe2QXU33tL) | 1:49 | 2022-10-28 |  |
+| [Press Start](https://open.spotify.com/track/7jLAhUlipXOkcvu9pz05hx) | [Kisiaria](https://open.spotify.com/artist/6vRLEJFTHryBVa2mZ4aBKX) | [Press Start](https://open.spotify.com/album/0Bj13pKUn9CEwe2QXU33tL) | 1:49 | 2022-10-28 | 2024-09-18 |
 | [Pretty Machine](https://open.spotify.com/track/4meg3qbldu4dlTv5e6hWsj) | [Eclips3](https://open.spotify.com/artist/6ivJbFCNcqWHdxM9y83LV9) | [Pretty Machine](https://open.spotify.com/album/5EQ08AeGmReXRD17x2ybJc) | 2:05 | 2023-02-07 |  |
 | [Propaganda](https://open.spotify.com/track/4pGFAdZGXhH0sdsygb6wIP) | [Aöm](https://open.spotify.com/artist/3lQeibogltk6xDaXJKCMjf) | [Propaganda](https://open.spotify.com/album/523RDjlbLVarxB690TTS50) | 2:13 | 2023-02-17 |  |
 | [Pulse](https://open.spotify.com/track/1QpkRFytAoWxnfMrHegiLn) | [Enter Etherial](https://open.spotify.com/artist/2NkdAoQipIsgUKqe3sLun2) | [Pulse](https://open.spotify.com/album/1eCNVdcm396voeH3TvvGMg) | 2:01 | 2022-08-19 | 2023-10-06 |

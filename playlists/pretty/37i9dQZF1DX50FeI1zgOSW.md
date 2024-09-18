@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Marshall
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,892 likes - 79 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,901 likes - 79 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 | 6 | [Penne Vaadi](https://open.spotify.com/track/15Fh1t5w0HSuzGZcLntCXu) | [Octave Rockers](https://open.spotify.com/artist/2vPzWyj6wCxhzVH91XAMc6) | [Penne Vaadi](https://open.spotify.com/album/1xindoyPyheCMn1s8ZGQhw) | 3:36 |
 | 7 | [Chin Tapak Dam Dam](https://open.spotify.com/track/0VfaoC0lESytCflz1j9Gfe) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Chin Tapak Dam Dam](https://open.spotify.com/album/4fyqARfsU6CFcA0MEX3Edh) | 3:06 |
 | 8 | [AM I LOSER](https://open.spotify.com/track/59x5gdFfYDoYEPB3XCrgSJ) | [ADY KRIZ](https://open.spotify.com/artist/4NpYZCwjj6a38XHpYOTbG2), [Roja Adithya](https://open.spotify.com/artist/1sjb96FgxElV2J9AqLW8dt), [Vignesh Ramakrishna](https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu) | [AM I LOSER](https://open.spotify.com/album/34CWQGVnf5rJEb0TdnnhrS) | 2:52 |
-| 9 | [Distant Hearts](https://open.spotify.com/track/7jaTzZavHZgzcqcAH4dvfA) | [Stv Andrew](https://open.spotify.com/artist/1tQ8HrJNZhEiLIxDlvd2Bd), [Ramprasad Nachimuthu](https://open.spotify.com/artist/4BGo0AEhutUT0nJdEUvU9y) | [Distant Hearts](https://open.spotify.com/album/66Usj77sp7rqjjN75lfYcr) | 3:53 |
+| 9 | [Distant Hearts](https://open.spotify.com/track/7jaTzZavHZgzcqcAH4dvfA) | [Stv Andrew](https://open.spotify.com/artist/1tQ8HrJNZhEiLIxDlvd2Bd), [Ramprasad Nachimuthu](https://open.spotify.com/artist/2tr1ozwY6ZXc0PqfEa2XrE) | [Distant Hearts](https://open.spotify.com/album/66Usj77sp7rqjjN75lfYcr) | 3:53 |
 | 10 | [Unna Pathen](https://open.spotify.com/track/1vzMSXTwhOSU8yTAPAhL53) | [Kutty](https://open.spotify.com/artist/4lGjzD05gTyFyYees76463) | [Unna Pathen](https://open.spotify.com/album/4uyzAqjOakQt6IZhc0l4uH) | 2:45 |
 | 11 | [Podu Mike](https://open.spotify.com/track/0wOiE642qD6UotxDqyKL8F) | [Killa K](https://open.spotify.com/artist/5azgDfqhzt3EezfJ36gDIf), [Yung Raja](https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm) | [Podu Mike](https://open.spotify.com/album/1J2DFOau5e9iYK3JSAy4sh) | 2:00 |
 | 12 | [Poti](https://open.spotify.com/track/14uJkehSJn6IUXhWfVtfng) | [Maalavika Sundar](https://open.spotify.com/artist/6FziTGxRwHQviQ4uZdSdIP) | [Yezhundhen Nimirndhen Nadandhen](https://open.spotify.com/album/0DvC4OwDXTYLRGZh8wk7iP) | 4:26 |

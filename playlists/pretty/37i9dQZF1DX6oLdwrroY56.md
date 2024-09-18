@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oLdwrroY56.md) - [plain]
 
 > pinoy alternative music \. Cover: ONE CLICK STRAIGHT
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,593 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,628 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Misteryoso](https://open.spotify.com/track/0kE1SmlJNLg14dgdo9kJws) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Misteryoso](https://open.spotify.com/album/6BqP9dOpxUGa7gCunYMw9a) | 3:41 |
 | 2 | [711](https://open.spotify.com/track/2ONW0ksoUixoxT7gfI9hWX) | [TONEEJAY](https://open.spotify.com/artist/2KdFoq4IBXMzfia4ZCLDIs) | [711](https://open.spotify.com/album/3rr7vncuxv64AzY98YwPIL) | 3:42 |
-| 3 | [No Control ft\. \(e\)motion engine](https://open.spotify.com/track/0Rg0DIhiShdvZvF7snNZIt) | [JOSH CULLEN](https://open.spotify.com/artist/3xn2W0ziGURPYJj372a6jQ) | [Lost & Found](https://open.spotify.com/album/3TR1Bd2VseCPtjaBgEzaI6) | 4:08 |
+| 3 | [No Control ft\. \(e\)motion engine](https://open.spotify.com/track/0Rg0DIhiShdvZvF7snNZIt) | [JOSH CULLEN](https://open.spotify.com/artist/3xn2W0ziGURPYJj372a6jQ) | [Lost & Found](https://open.spotify.com/album/3TR1Bd2VseCPtjaBgEzaI6) | 4:09 |
 | 4 | [SIGA](https://open.spotify.com/track/1TeuLilP2MQIup1Xd2Me5B) | [ONE CLICK STRAIGHT](https://open.spotify.com/artist/457BGAQIRpxlvY5gcbDjUQ) | [SIGA](https://open.spotify.com/album/0K22wqjAcKBoQXMa8LtV6H) | 3:51 |
 | 5 | [Isip](https://open.spotify.com/track/0QBPWTTVyV3VclqALtmLWv) | [Healy After Dark](https://open.spotify.com/artist/5xRllYZrqUU5by4KMyz9cY) | [Isip](https://open.spotify.com/album/4yBK4tfSJXauEBNwEcRvkV) | 4:25 |
 | 6 | [Patay](https://open.spotify.com/track/4YG4n8EHpRe5mLnDLxrdBM) | [Sean Archer](https://open.spotify.com/artist/19SziRzo0hKaQCP037qnkz) | [Patay](https://open.spotify.com/album/4g1PnUcI0HllNmIzc6Urj6) | 4:00 |

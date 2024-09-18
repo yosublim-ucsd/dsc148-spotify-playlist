@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: muque",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: \u6d66\u4e0a\u60f3\u8d77",
   "name": "RADAR: Early Noise ",
   "tracks": [
     {
@@ -1048,6 +1048,24 @@
       "duration_ms": 260161,
       "name": "alone",
       "url": "https://open.spotify.com/track/3MT2cvsBjP3SahkanbWfsD"
+    },
+    {
+      "album": {
+        "name": "Tales of the Night",
+        "url": "https://open.spotify.com/album/7qlCw6DMMLAJchFfTFjXDe"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30d0\u30b7\u30b9\u30bf\u30fc",
+          "url": "https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj"
+        }
+      ],
+      "date_added": "2024-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199608,
+      "name": "Alone and hallway window",
+      "url": "https://open.spotify.com/track/1HVpMLk4rsUgSqIC2KAuiK"
     },
     {
       "album": {
@@ -6166,7 +6184,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 180943,
       "name": "green tea",
       "url": "https://open.spotify.com/track/1PYFEo6Lt8tT6rvQBQsSF0"
@@ -6592,7 +6610,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 221943,
       "name": "Higher",
       "url": "https://open.spotify.com/track/1xgqWAixmkbPMmW3jypi5Q"
@@ -8835,6 +8853,24 @@
     },
     {
       "album": {
+        "name": "Linda",
+        "url": "https://open.spotify.com/album/3wSuJSoEgnr5qd30nPf9By"
+      },
+      "artists": [
+        {
+          "name": "luvis",
+          "url": "https://open.spotify.com/artist/0TkhuOSDpZ6NhRiPkmQ77M"
+        }
+      ],
+      "date_added": "2024-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192286,
+      "name": "Linda",
+      "url": "https://open.spotify.com/track/1QcS7T8lOfPr0CC4CsyOiD"
+    },
+    {
+      "album": {
         "name": "around dusk",
         "url": "https://open.spotify.com/album/4XG2t9y3aHT7IjCFn3jwNF"
       },
@@ -9757,6 +9793,24 @@
     },
     {
       "album": {
+        "name": "missing you",
+        "url": "https://open.spotify.com/album/5463XtZdcy2aJT7rhp1lWp"
+      },
+      "artists": [
+        {
+          "name": "\u51a8\u5ca1\u611b",
+          "url": "https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi"
+        }
+      ],
+      "date_added": "2024-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182166,
+      "name": "missing you",
+      "url": "https://open.spotify.com/track/0jiGZNqOlPUqGwyt9SsoMs"
+    },
+    {
+      "album": {
         "name": "misunderstanding",
         "url": "https://open.spotify.com/album/23k2d1ZEOCTJUCQQrPGlhM"
       },
@@ -9826,6 +9880,24 @@
       "duration_ms": 176586,
       "name": "Modern Romance",
       "url": "https://open.spotify.com/track/1qtPxolE1txs3mY0941zwq"
+    },
+    {
+      "album": {
+        "name": "MOKUME",
+        "url": "https://open.spotify.com/album/5hXP4a5iPitRyrx1swYCf5"
+      },
+      "artists": [
+        {
+          "name": "HOME",
+          "url": "https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB"
+        }
+      ],
+      "date_added": "2024-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241285,
+      "name": "MOKUME",
+      "url": "https://open.spotify.com/track/3bdUeyaMEK5GOrasxqQCmy"
     },
     {
       "album": {
@@ -11944,7 +12016,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 293629,
       "name": "Plastic Romance",
       "url": "https://open.spotify.com/track/7AxZFaSZFX9QhTiWHwh06g"
@@ -14110,7 +14182,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 210522,
       "name": "Someday",
       "url": "https://open.spotify.com/track/5kA1WAGq9SciyyeniJwK3v"
@@ -15528,6 +15600,24 @@
       "duration_ms": 218631,
       "name": "the wire",
       "url": "https://open.spotify.com/track/3FKAW8AaZmFYthqHvGg1hT"
+    },
+    {
+      "album": {
+        "name": "This Reality",
+        "url": "https://open.spotify.com/album/4O9BgAFqtf8WeqaW9AFR62"
+      },
+      "artists": [
+        {
+          "name": "\u65b0\u6771\u4eac",
+          "url": "https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0"
+        }
+      ],
+      "date_added": "2024-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213143,
+      "name": "This Reality",
+      "url": "https://open.spotify.com/track/1qEP3jjJWba4Yv2LMHLEta"
     },
     {
       "album": {
@@ -20898,7 +20988,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 166966,
       "name": "\u30b8\u30a7\u30e9\u30b7\u30fc",
       "url": "https://open.spotify.com/track/1D8CQdoa0S86dLwbSXkHq9"
@@ -21546,7 +21636,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 188130,
       "name": "\u30cf\u30a4\u30a8\u30fc\u30b9\u30ca\u30f3\u30d0\u30fc",
       "url": "https://open.spotify.com/track/6DuWwQPRJwbfTygikrxOJv"
@@ -23587,6 +23677,24 @@
     },
     {
       "album": {
+        "name": "\u904a\u6cf3\u306e\u97f3\u697d",
+        "url": "https://open.spotify.com/album/3gikLkjddA26RnH0l12cJ6"
+      },
+      "artists": [
+        {
+          "name": "\u6d66\u4e0a\u60f3\u8d77",
+          "url": "https://open.spotify.com/artist/3skzBofqLUYAat2xV2uuze"
+        }
+      ],
+      "date_added": "2024-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285824,
+      "name": "\u4eba\u306e\u30c0\u30f3\u30b9",
+      "url": "https://open.spotify.com/track/2QxNK2zmMkJFpa6T4fMhwL"
+    },
+    {
+      "album": {
         "name": "\u4eca\u306b\u5922\u4e2d\u3055 -Hooked on Now-",
         "url": "https://open.spotify.com/album/5ZGh2yHEgr89hO4KgX35xE"
       },
@@ -24694,6 +24802,42 @@
       "duration_ms": 196231,
       "name": "\u590f\u306e\u5922\u306f",
       "url": "https://open.spotify.com/track/7x6kyQTNiScCMXbEQlqF1u"
+    },
+    {
+      "album": {
+        "name": "\u590f\u3088",
+        "url": "https://open.spotify.com/album/5Z2I4wSUZqzPinSUZWP5ph"
+      },
+      "artists": [
+        {
+          "name": "\u3048\u3093\u3077\u3066\u3044",
+          "url": "https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh"
+        }
+      ],
+      "date_added": "2024-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299298,
+      "name": "\u590f\u3088",
+      "url": "https://open.spotify.com/track/7IFsYuLbVwgnz0567conyw"
+    },
+    {
+      "album": {
+        "name": "\u590f\u5b9f",
+        "url": "https://open.spotify.com/album/2mFCIzPIZzbWUIz0KHfEn4"
+      },
+      "artists": [
+        {
+          "name": "AKASAKI",
+          "url": "https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw"
+        }
+      ],
+      "date_added": "2024-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307220,
+      "name": "\u590f\u5b9f",
+      "url": "https://open.spotify.com/track/0OxBVRzo5bJcZklm3gsWOZ"
     },
     {
       "album": {
@@ -27086,7 +27230,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 206703,
       "name": "\u6975\u697d\u306e\u6d44\u571f",
       "url": "https://open.spotify.com/track/4F3lKIw4oAt2UTtqGUEPYR"
@@ -28972,7 +29116,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 153000,
       "name": "\u843d\u96f7",
       "url": "https://open.spotify.com/track/37iRJ7fevdwGaimDILzoRJ"

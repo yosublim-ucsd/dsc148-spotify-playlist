@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 
 > Net die beste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/0F0l2JFPA3u6cBpaqKCm6J?si=0\_DnvTkdR2\-F9vFMrQwb1A">Snotkop</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,454 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,497 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

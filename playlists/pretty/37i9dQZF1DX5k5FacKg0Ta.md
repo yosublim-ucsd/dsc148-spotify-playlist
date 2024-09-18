@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k5FacKg0Ta.md) - [plain]
 
 > Valikoima tuoreita ja hieman vanhempiakin suomalaisia jazz\-helmiä.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,854 likes - 76 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,852 likes - 76 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [It's All Happening](https://open.spotify.com/track/2uSWVj0giIMN4d2zyxvBdP) | [Sun Dog](https://open.spotify.com/artist/5jNgNVcMrjn4Vdkqf7SzSf), [Jimi Tenor](https://open.spotify.com/artist/69H6uUTI29XBzQXV1d3A7D), [Petri Kautto](https://open.spotify.com/artist/12OKfkYtOvRzuWmPe7Qjiv) | [It's All Happening](https://open.spotify.com/album/1TX8nK3HbY2Wdk7FyAF7pF) | 5:20 |
-| 2 | [Fastholma](https://open.spotify.com/track/4zpc1m5WNxpu0Fma2b2zxj) | [Sointi Jazz Orchestra](https://open.spotify.com/artist/04g062lZmJMKPKgMkL9E4q), [Petteri Hietamäki](https://open.spotify.com/artist/2QQslwPIkGGuHP7eYA2s6e) | [Fastholma](https://open.spotify.com/album/4AfCDCnQVUT0q6eF6DYDvW) | 7:05 |
+| 2 | [Fastholma](https://open.spotify.com/track/4zpc1m5WNxpu0Fma2b2zxj) | [Sointi Jazz Orchestra](https://open.spotify.com/artist/04g062lZmJMKPKgMkL9E4q), [Petteri Hietamäki](https://open.spotify.com/artist/2QQslwPIkGGuHP7eYA2s6e), [Aili Ikonen](https://open.spotify.com/artist/3vv6Rt7pE0XjUsWT8tmQsa) | [Fastholma](https://open.spotify.com/album/4AfCDCnQVUT0q6eF6DYDvW) | 7:05 |
 | 3 | [Filters](https://open.spotify.com/track/3L9ud04WNKCzgGaLoYRijH) | [Janne Halonen](https://open.spotify.com/artist/4MFMMAAOnLJZJiTknZT9RL) | [Music From The Zone](https://open.spotify.com/album/4MOlgwvKV8zo89fNXTSdkD) | 5:24 |
 | 4 | [A Lotta Love](https://open.spotify.com/track/22w1CQUCPwOVLvFwRQHyBq) | [Iiro Rantala](https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL) | [A Lotta Love](https://open.spotify.com/album/6M0HFD55JZFOCJUwpNTz04) | 5:42 |
 | 5 | [No Goodbyes \(reprise\)](https://open.spotify.com/track/6vvj2Whu2b9xCfPnYrl0hG) | [Matti Salo Quartet](https://open.spotify.com/artist/5XYVA9YzFohVTidBiIqFAN) | [4 + 4](https://open.spotify.com/album/4m23q0CPK3i2rXqke1DWgc) | 6:45 |

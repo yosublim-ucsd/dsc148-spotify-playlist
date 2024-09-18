@@ -4,7 +4,7 @@
 
 > 
 
-762 songs - 1 day 12 hr 33 min
+763 songs - 1 day 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Dirty Shoes \(feat\. Gunna\)](https://open.spotify.com/track/5yh7nX2VqXUWjBVAzEwtVn) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Slime Language](https://open.spotify.com/album/4OHfmMUq6xwCo8zfQuc9Rf) | 3:18 | 2024-06-24 |  |
 | [Disco Shit \(feat\. Freddie Gibbs\)](https://open.spotify.com/track/5GWQw74fr86tHask8d01Lg) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Netflix & Deal](https://open.spotify.com/album/35tPQpgvxQjbCBbOhq424T) | 2:51 | 2024-08-17 |  |
 | [Dizzy \- Bonus Version](https://open.spotify.com/track/4hRydm5LUCaTZFHMBALibQ) | [Slimesito](https://open.spotify.com/artist/1fqzcp3dzZD1YGQ2RT5pYs), [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Dizzy](https://open.spotify.com/album/3dJOFNc7vaO7m4nxZ7HhYF) | 2:48 | 2023-05-28 | 2023-12-14 |
+| [Dnt lië](https://open.spotify.com/track/6SKA4zY0zzYFdM74F2mPq1) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2 Alivë](https://open.spotify.com/album/0d1BFY8z15vye3KjtLvF3u) | 3:31 | 2024-09-17 |  |
 | [DOGTOOTH](https://open.spotify.com/track/6OfOzTitafSnsaunQLuNFw) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 2:41 | 2023-04-05 | 2023-05-09 |
 | [don't @ me](https://open.spotify.com/track/5RsjKNch572Mcdg5PS78yy) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [\#\#B4W2G](https://open.spotify.com/album/6yP1RHK4nruSXTlQspwRrP) | 2:31 | 2022-07-28 | 2023-05-09 |
 | [Dont Fall Off \(KTM Drip\)](https://open.spotify.com/track/5Wk9x85aF15JW1kVahYLsK) | [Jakub tłumaczenia](https://open.spotify.com/artist/1HFz1PXpCzdOJdyShiTD8y) | [The Party Never Ends](https://open.spotify.com/album/3WXOCQmch01IIR5q6t3mDZ) | 4:12 | 2022-06-30 | 2024-04-24 |

@@ -1,6 +1,6 @@
 {
   "description": "Chilled out dance classics to set the mood.",
-  "num_followers": 58897,
+  "num_followers": 58919,
   "original_name": "Chill Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -83,6 +83,22 @@
     {
       "added_at": "2024-08-05 06:16:01",
       "album": {
+        "name": "Dummy",
+        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
+      },
+      "artists": [
+        {
+          "name": "Portishead",
+          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+        }
+      ],
+      "duration_ms": 308626,
+      "name": "Glory Box",
+      "url": "https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC"
+    },
+    {
+      "added_at": "2024-08-05 06:16:01",
+      "album": {
         "name": "Music Sounds Better With You",
         "url": "https://open.spotify.com/album/7Kusf5plZjl76X5ARWJbNO"
       },
@@ -107,22 +123,6 @@
       "duration_ms": 260906,
       "name": "Music Sounds Better With You - Radio Edit",
       "url": "https://open.spotify.com/track/1mv4lh1rW1K6xhxhJmEezy"
-    },
-    {
-      "added_at": "2024-08-05 06:16:01",
-      "album": {
-        "name": "Dummy",
-        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
-      },
-      "artists": [
-        {
-          "name": "Portishead",
-          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
-        }
-      ],
-      "duration_ms": 308626,
-      "name": "Glory Box",
-      "url": "https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC"
     },
     {
       "added_at": "2024-08-05 06:16:01",
@@ -319,22 +319,6 @@
     {
       "added_at": "2024-08-05 06:16:01",
       "album": {
-        "name": "Portraits Outtakes",
-        "url": "https://open.spotify.com/album/49I1SKAgPZiPQ02ySZ5aUd"
-      },
-      "artists": [
-        {
-          "name": "Maribou State",
-          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
-        }
-      ],
-      "duration_ms": 192533,
-      "name": "Manila",
-      "url": "https://open.spotify.com/track/6V2QgOIMT94HhsfeIVbbZm"
-    },
-    {
-      "added_at": "2024-08-05 06:16:01",
-      "album": {
         "name": "Woman",
         "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
       },
@@ -351,18 +335,18 @@
     {
       "added_at": "2024-08-05 06:16:01",
       "album": {
-        "name": "5",
-        "url": "https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb"
+        "name": "Portraits Outtakes",
+        "url": "https://open.spotify.com/album/49I1SKAgPZiPQ02ySZ5aUd"
       },
       "artists": [
         {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+          "name": "Maribou State",
+          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
         }
       ],
-      "duration_ms": 193401,
-      "name": "Let Me Go",
-      "url": "https://open.spotify.com/track/5fzUKYfATEqxDmRWfbikAm"
+      "duration_ms": 192533,
+      "name": "Manila",
+      "url": "https://open.spotify.com/track/6V2QgOIMT94HhsfeIVbbZm"
     },
     {
       "added_at": "2024-08-05 06:16:01",
@@ -383,6 +367,22 @@
       "duration_ms": 234400,
       "name": "Starlight - Radio Edit",
       "url": "https://open.spotify.com/track/4UfupbARPxljVkBmuZlJnY"
+    },
+    {
+      "added_at": "2024-08-05 06:16:01",
+      "album": {
+        "name": "5",
+        "url": "https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 193401,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/5fzUKYfATEqxDmRWfbikAm"
     },
     {
       "added_at": "2024-08-05 06:16:01",
@@ -875,18 +875,18 @@
     {
       "added_at": "2024-08-05 06:16:01",
       "album": {
-        "name": "Between Darkness And Wonder",
-        "url": "https://open.spotify.com/album/12xoI77eWPK0YfDNRMbEqW"
+        "name": "Machine Dreams",
+        "url": "https://open.spotify.com/album/1223HNo18fRbvEKxMgiSa7"
       },
       "artists": [
         {
-          "name": "Lamb",
-          "url": "https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP"
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
         }
       ],
-      "duration_ms": 220813,
-      "name": "Angelica",
-      "url": "https://open.spotify.com/track/5Rq2hPEd7UWN6i9tME54dj"
+      "duration_ms": 293786,
+      "name": "Feather",
+      "url": "https://open.spotify.com/track/6WDAtzaXY7d31CkuoxYFcb"
     },
     {
       "added_at": "2024-08-05 06:16:01",
@@ -907,18 +907,18 @@
     {
       "added_at": "2024-08-05 06:16:01",
       "album": {
-        "name": "Machine Dreams",
-        "url": "https://open.spotify.com/album/1223HNo18fRbvEKxMgiSa7"
+        "name": "Between Darkness And Wonder",
+        "url": "https://open.spotify.com/album/12xoI77eWPK0YfDNRMbEqW"
       },
       "artists": [
         {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+          "name": "Lamb",
+          "url": "https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP"
         }
       ],
-      "duration_ms": 293786,
-      "name": "Feather",
-      "url": "https://open.spotify.com/track/6WDAtzaXY7d31CkuoxYFcb"
+      "duration_ms": 220813,
+      "name": "Angelica",
+      "url": "https://open.spotify.com/track/5Rq2hPEd7UWN6i9tME54dj"
     },
     {
       "added_at": "2024-08-05 06:16:01",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-08-05 06:16:01",
       "album": {
-        "name": "BRA",
-        "url": "https://open.spotify.com/album/5M9gDsoePB0kpZfBDfrL3O"
-      },
-      "artists": [
-        {
-          "name": "Bentley Rhythm Ace",
-          "url": "https://open.spotify.com/artist/28EZh7WvdbWwfOrf5lkvCk"
-        }
-      ],
-      "duration_ms": 307400,
-      "name": "Bentley's Gonna Sort You Out",
-      "url": "https://open.spotify.com/track/2GLl5SfGDhAEztVvEVRimA"
-    },
-    {
-      "added_at": "2024-08-05 06:16:01",
-      "album": {
         "name": "Outer Peace",
         "url": "https://open.spotify.com/album/1k6jh0c0c0mMCXPGT5D8LY"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 183752,
       "name": "Ordinary Pleasure",
       "url": "https://open.spotify.com/track/5MhdCkaa1vj51vaFTc3qia"
+    },
+    {
+      "added_at": "2024-08-05 06:16:01",
+      "album": {
+        "name": "BRA",
+        "url": "https://open.spotify.com/album/5M9gDsoePB0kpZfBDfrL3O"
+      },
+      "artists": [
+        {
+          "name": "Bentley Rhythm Ace",
+          "url": "https://open.spotify.com/artist/28EZh7WvdbWwfOrf5lkvCk"
+        }
+      ],
+      "duration_ms": 307400,
+      "name": "Bentley's Gonna Sort You Out",
+      "url": "https://open.spotify.com/track/2GLl5SfGDhAEztVvEVRimA"
     },
     {
       "added_at": "2024-08-05 06:16:01",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-08-05 06:16:01",
       "album": {
-        "name": "Destroy Rock & Roll",
-        "url": "https://open.spotify.com/album/4bmRs1mbIqoZXpxAzCRQ7E"
-      },
-      "artists": [
-        {
-          "name": "Mylo",
-          "url": "https://open.spotify.com/artist/5YjEVrNMrIRw2xGbjTN6Ti"
-        }
-      ],
-      "duration_ms": 255600,
-      "name": "Drop The Pressure",
-      "url": "https://open.spotify.com/track/4ctPexpFIKzjWl4sI7pxeR"
-    },
-    {
-      "added_at": "2024-08-05 06:16:01",
-      "album": {
         "name": "Suddenly",
         "url": "https://open.spotify.com/album/2vd7zTZKzRYcpemh2tRCj4"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 305480,
       "name": "Never Come Back",
       "url": "https://open.spotify.com/track/6u6gr3d6ZjBU79beyZcKOH"
+    },
+    {
+      "added_at": "2024-08-05 06:16:01",
+      "album": {
+        "name": "Destroy Rock & Roll",
+        "url": "https://open.spotify.com/album/4bmRs1mbIqoZXpxAzCRQ7E"
+      },
+      "artists": [
+        {
+          "name": "Mylo",
+          "url": "https://open.spotify.com/artist/5YjEVrNMrIRw2xGbjTN6Ti"
+        }
+      ],
+      "duration_ms": 255600,
+      "name": "Drop The Pressure",
+      "url": "https://open.spotify.com/track/4ctPexpFIKzjWl4sI7pxeR"
     },
     {
       "added_at": "2024-08-05 06:16:01",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-08-05 06:16:01",
       "album": {
-        "name": "Destroy Rock & Roll",
-        "url": "https://open.spotify.com/album/4bmRs1mbIqoZXpxAzCRQ7E"
-      },
-      "artists": [
-        {
-          "name": "Mylo",
-          "url": "https://open.spotify.com/artist/5YjEVrNMrIRw2xGbjTN6Ti"
-        }
-      ],
-      "duration_ms": 226080,
-      "name": "In My Arms",
-      "url": "https://open.spotify.com/track/11oHw0rlJ9A5TR8GUoe32Q"
-    },
-    {
-      "added_at": "2024-08-05 06:16:01",
-      "album": {
         "name": "Season High",
         "url": "https://open.spotify.com/album/5WQJ8sVhjbhhQ0ReiilyO2"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 408133,
       "name": "Offshore",
       "url": "https://open.spotify.com/track/35tn3KHGJjqhucpWGDQsMz"
+    },
+    {
+      "added_at": "2024-08-05 06:16:01",
+      "album": {
+        "name": "Destroy Rock & Roll",
+        "url": "https://open.spotify.com/album/4bmRs1mbIqoZXpxAzCRQ7E"
+      },
+      "artists": [
+        {
+          "name": "Mylo",
+          "url": "https://open.spotify.com/artist/5YjEVrNMrIRw2xGbjTN6Ti"
+        }
+      ],
+      "duration_ms": 226080,
+      "name": "In My Arms",
+      "url": "https://open.spotify.com/track/11oHw0rlJ9A5TR8GUoe32Q"
     }
   ],
   "unique_name": "Chill Dance Classics",

@@ -499,6 +499,28 @@
     },
     {
       "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e0\uff13\u300f\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30b7\u30f3\u30b0\u30eb Vol.1",
+        "url": "https://open.spotify.com/album/15Rm89ujvObxTjbZEFGoGv"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u8449\u6708 (CV.\u671d\u4e95\u5f69\u52a0)",
+          "url": "https://open.spotify.com/artist/3ELIwQPl6THsVuh7GqpfAr"
+        },
+        {
+          "name": "\u5ddd\u5cf6\u7dd1\u8f1d (CV.\u8c4a\u7530\u840c\u7d75)",
+          "url": "https://open.spotify.com/artist/7jopOu6IPr7HcEz1gN0R0V"
+        }
+      ],
+      "date_added": "2024-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212760,
+      "name": "\u30a2\u30f3\u30d3\u30b7\u30e3\u30b9\uff01",
+      "url": "https://open.spotify.com/track/66sbowWtMrxUnazeTrtjlr"
+    },
+    {
+      "album": {
         "name": "\u30b5\u30a6\u30f3\u30c9\u30b9\u30b1\u30fc\u30d7",
         "url": "https://open.spotify.com/album/7IrialNx7k5girpn4r0kGx"
       },
@@ -550,6 +572,28 @@
       "duration_ms": 324426,
       "name": "\u30b5\u30a6\u30f3\u30c9\u30b9\u30b1\u30fc\u30d7 - TRUE & Wind Orchestra Ver.",
       "url": "https://open.spotify.com/track/0eNJn64uiHzr071fLEkkqb"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e0\uff13\u300f\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30b7\u30f3\u30b0\u30eb Vol.1",
+        "url": "https://open.spotify.com/album/15Rm89ujvObxTjbZEFGoGv"
+      },
+      "artists": [
+        {
+          "name": "\u9ec4\u524d\u4e45\u7f8e\u5b50 (CV.\u9ed2\u6ca2\u3068\u3082\u3088)",
+          "url": "https://open.spotify.com/artist/0dm0KlFt3WNjcMkJ4uPHSH"
+        },
+        {
+          "name": "\u585a\u672c\u79c0\u4e00 (CV.\u77f3\u8c37\u6625\u8cb4)",
+          "url": "https://open.spotify.com/artist/3CzH56mvFxo94zeIh8G1T9"
+        }
+      ],
+      "date_added": "2024-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213493,
+      "name": "\u30b9\u30c8\u30fc\u30ea\u30fc\u30e9\u30a4\u30f3",
+      "url": "https://open.spotify.com/track/0y1pO80rV5vsXrmWqwb9uv"
     },
     {
       "album": {
@@ -744,7 +788,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 524773,
       "name": "\u30ea\u30ba\u3068\u9752\u3044\u9ce5 - \u30b3\u30f3\u30af\u30fc\u30eb\u7528\u7de8\u66f2Ver.",
       "url": "https://open.spotify.com/track/0gIIgzIFgo38ElS4wdio3m"
@@ -1032,7 +1076,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 234813,
       "name": "\u5317\u5b87\u6cbb\u56db\u91cd\u594f \u7b2c1\u756a \u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e0",
       "url": "https://open.spotify.com/track/4ErFLBu11b0ynKpNU59NAF"
@@ -1444,6 +1488,28 @@
       "duration_ms": 258413,
       "name": "\u97f3\u8272\u306e\u5f7c\u65b9",
       "url": "https://open.spotify.com/track/6mAh7PZJltBqSTCMJufvMn"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u97ff\u3051\uff01\u30e6\u30fc\u30d5\u30a9\u30cb\u30a2\u30e0\uff13\u300f\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30b7\u30f3\u30b0\u30eb Vol.1",
+        "url": "https://open.spotify.com/album/15Rm89ujvObxTjbZEFGoGv"
+      },
+      "artists": [
+        {
+          "name": "\u9ec4\u524d\u4e45\u7f8e\u5b50 (CV.\u9ed2\u6ca2\u3068\u3082\u3088)",
+          "url": "https://open.spotify.com/artist/0dm0KlFt3WNjcMkJ4uPHSH"
+        },
+        {
+          "name": "\u9ad8\u5742\u9e97\u5948 (CV.\u5b89\u6e08\u77e5\u4f73)",
+          "url": "https://open.spotify.com/artist/4FQEbStLFFjDH2TLg8ygCv"
+        }
+      ],
+      "date_added": "2024-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305946,
+      "name": "\u97f3\u8272\u306e\u8ecc\u8de1",
+      "url": "https://open.spotify.com/track/7rt7elfhDTmLekaTc1w3Dg"
     },
     {
       "album": {

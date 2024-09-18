@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,701 songs - 3 day 19 hr 25 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,702 songs - 3 day 19 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1709,5 +1709,6 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1699 | [Dirty Beat](https://open.spotify.com/track/0wB3VjJrLLhilTdH1JhVN5) | [Bumloco](https://open.spotify.com/artist/7aHh1erN0CVFVwDd7oG26M) | [Dirty Beat](https://open.spotify.com/album/6kA8XdcJ8LYn5oiwjsUC5J) | 2:43 |
 | 1700 | [Juice II](https://open.spotify.com/track/6DJVTMQq31bYvzNR441pMT) | [So Juice](https://open.spotify.com/artist/7MBMIGBbRcIAn4zZPOMNKR) | [Juice II EP](https://open.spotify.com/album/2jlH1CEKHzHMPmlDapyvNT) | 2:28 |
 | 1701 | [YOU AND I](https://open.spotify.com/track/3CmZLArSdppIyTGQiQkZjX) | [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa) | [YOU AND I](https://open.spotify.com/album/0Cl6QUemj8zkcm1oLdstuf) | 3:14 |
+| 1702 | [Feel Alive](https://open.spotify.com/track/1IvH3zJcZdwc8EJGXrxwWF) | [Manifest Destiny](https://open.spotify.com/artist/1XTpiNqD37eVQdS0xFqX3j), [Revolve](https://open.spotify.com/artist/1eboVfifg0y4tGo4HArDUn), [MC Flo](https://open.spotify.com/artist/6kn1zMFsqWQgdLSUN69j9R) | [Feel Alive](https://open.spotify.com/album/2q8W0i9SppQ7D778e3AGGT) | 2:47 |
 
-Snapshot ID: `AAAG0hb02psyByCww24yiEDkBpf6zqQB`
+Snapshot ID: `AAAG08dN4ccUmJd4PV45ZMORKOuMNVyr`

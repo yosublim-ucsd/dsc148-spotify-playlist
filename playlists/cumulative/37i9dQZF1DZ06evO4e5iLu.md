@@ -2,7 +2,7 @@
 
 ### [This Is KAROL G](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4e5iLu)
 
-> This is KAROL G\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> This Is KAROL G\. Los temas esenciales, todos en una lista.
 
 64 songs - 3 hr 28 min
 

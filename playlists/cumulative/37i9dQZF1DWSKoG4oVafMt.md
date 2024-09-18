@@ -4,11 +4,11 @@
 
 > The very best of Punjabi romance featuring Kulwinder Billa & Shivani Parihar
 
-915 songs - 2 day 1 hr 36 min
+916 songs - 2 day 1 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [100 Cho 100](https://open.spotify.com/track/7h9mEFGFq4J6gTiZTvaUPX) | [Akaal](https://open.spotify.com/artist/5EXjpk29ZE4OI3VSdkjZjn), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C) | [100 Cho 100](https://open.spotify.com/album/4q4zWLEJkTNtRT3eLAgQml) | 2:49 | 2024-08-28 |  |
+| [100 Cho 100](https://open.spotify.com/track/7h9mEFGFq4J6gTiZTvaUPX) | [Akaal](https://open.spotify.com/artist/5EXjpk29ZE4OI3VSdkjZjn), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C) | [100 Cho 100](https://open.spotify.com/album/4q4zWLEJkTNtRT3eLAgQml) | 2:49 | 2024-08-28 | 2024-09-18 |
 | [21 QUESTIONS](https://open.spotify.com/track/7v1wOTMZ2fmMlZ5cJTWvIj) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp) | [UNDISPUTED](https://open.spotify.com/album/5jwxgwhfEuWqBfKYPHaC34) | 2:42 | 2024-01-05 | 2024-01-16 |
 | [3 Saal](https://open.spotify.com/track/3ArpigFsF6ipOYVpzeDQRC) | [Bilal Saeed](https://open.spotify.com/artist/7hHDO4bJGlEaEHlY2lj1eZ) | [3 Saal](https://open.spotify.com/album/5EkE6jP3IpBWwPaba463Fk) | 2:54 | 2022-12-13 | 2023-01-24 |
 | [7 Janam](https://open.spotify.com/track/6la9hchXWt6n7m3YNIWbs3) | [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp), [Gaurrav Kakkarr](https://open.spotify.com/artist/29I8D8JWG00UE4zbZ1BkpY), [Ankita Saili](https://open.spotify.com/artist/2Q1yqRJQjjlQCmAcQafCgs) | [7 Janam \(From "Rowdy Singh"\) \- Single](https://open.spotify.com/album/3ia41o4ofgZmdllpZCOTIj) | 3:26 | 2022-08-31 | 2022-09-03 |
@@ -294,6 +294,7 @@
 | [Hi Bye](https://open.spotify.com/track/2KhgkUOwNVBQUGSkeaNzW8) | [Manavgeet Gill](https://open.spotify.com/artist/0IUwlPP1FEOxkArw3zciWl), [Hashmat Sultana](https://open.spotify.com/artist/6ez5nZKCRO9HY08CWrHZok) | [Hi Bye](https://open.spotify.com/album/3kos90we5ZKsZeOPHJTFhY) | 3:02 | 2022-07-15 | 2022-08-18 |
 | [Hometown](https://open.spotify.com/track/4LvIeOXZ4b9duvPEDUogot) | [Jassie Gill](https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA) | [Alll Rounder](https://open.spotify.com/album/7c7ygaIIg8bAtik7vGLwgS) | 3:16 | 2022-01-17 | 2022-02-01 |
 | [Hon Ni Dena](https://open.spotify.com/track/1Zn3Je9Gain80ZPQwLZQUv) | [Raas](https://open.spotify.com/artist/69Lcocv13gvr4uEhh2mEVu), [Semwal](https://open.spotify.com/artist/0uNhaTjKYwyBEKJoG7gPjq) | [Hon Ni Dena](https://open.spotify.com/album/3qp16rbNpjW8hyLebTMCDU) | 2:51 | 2022-06-28 | 2022-07-06 |
+| [Hukam Karo](https://open.spotify.com/track/6F39pz9HMJVJFanrvOE2Ld) | [Satbir Aujla](https://open.spotify.com/artist/6JuBBw98XzwRZ6KvN1PpLy) | [Throwback](https://open.spotify.com/album/2BeZAJihScWoZzjKK63Dq9) | 2:17 | 2024-09-17 |  |
 | [Hun Changa Ae](https://open.spotify.com/track/2kDfeQsKpDz07p6f0ALaOo) | [Satbir Aujla](https://open.spotify.com/artist/6JuBBw98XzwRZ6KvN1PpLy) | [Hun Changa Ae](https://open.spotify.com/album/1AvmoHXPkwmBGfeT4wdXiG) | 2:46 | 2022-12-14 | 2023-02-02 |
 | [Hypnotize \(From "Honeymoon"\)](https://open.spotify.com/track/1jUdVhaRk0PwJCK5PvDTsq) | [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8), [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Hypnotize \(From "Honeymoon"\)](https://open.spotify.com/album/6Ry57BDPUmf63YyjKWGZsz) | 2:37 | 2022-10-25 | 2022-12-16 |
 | [I T 's a G O O D D a Y](https://open.spotify.com/track/67DcAT2A7QoJPHeb6gULv3) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq), [Anker Deol](https://open.spotify.com/artist/6Ft1jFojxoiQxAddH2o5ZF) | [It's a Good Life](https://open.spotify.com/album/4X6GOxP1pKtbgsDaT0t91h) | 2:36 | 2022-11-28 | 2023-01-24 |

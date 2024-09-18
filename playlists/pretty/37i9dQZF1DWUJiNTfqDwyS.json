@@ -1,6 +1,6 @@
 {
   "description": "A collection of the best Metal covers out there. Cover: Gojira",
-  "num_followers": 377196,
+  "num_followers": 377208,
   "original_name": "Metal Covers",
   "owner": {
     "name": "Spotify",
@@ -547,6 +547,22 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
+        "name": "EVERYBODY (BLOODBROS BACK)",
+        "url": "https://open.spotify.com/album/3n1XGYmrurkbhXDEsQAcTm"
+      },
+      "artists": [
+        {
+          "name": "Blind Channel",
+          "url": "https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs"
+        }
+      ],
+      "duration_ms": 208396,
+      "name": "EVERYBODY (BLOODBROS BACK)",
+      "url": "https://open.spotify.com/track/3Uu0UjdQUBKuTQK4XsVMfe"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
         "name": "Under C\u00f6ver",
         "url": "https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 210639,
       "name": "Beat It",
       "url": "https://open.spotify.com/track/0O7fXel2uzgJraKd1NBSVb"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "EVERYBODY (BLOODBROS BACK)",
-        "url": "https://open.spotify.com/album/3n1XGYmrurkbhXDEsQAcTm"
-      },
-      "artists": [
-        {
-          "name": "Blind Channel",
-          "url": "https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs"
-        }
-      ],
-      "duration_ms": 208396,
-      "name": "EVERYBODY (BLOODBROS BACK)",
-      "url": "https://open.spotify.com/track/3Uu0UjdQUBKuTQK4XsVMfe"
     },
     {
       "added_at": "2024-09-13 04:00:00",

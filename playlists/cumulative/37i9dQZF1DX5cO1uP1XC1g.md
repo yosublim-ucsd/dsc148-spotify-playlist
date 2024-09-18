@@ -2,7 +2,7 @@
 
 ### [Yalla ](https://open.spotify.com/playlist/37i9dQZF1DX5cO1uP1XC1g)
 
-> The biggest Arabic hits all in one place\. Cover:  Angham
+> The biggest Arabic hits all in one place\. Cover:  Tul8te
 
 399 songs - 1 day 0 hr 3 min
 

@@ -1,6 +1,6 @@
 {
   "description": "viral, trend ve y\u00fckselenler. Kapak: Can To\u011frulca",
-  "num_followers": 488476,
+  "num_followers": 488672,
   "original_name": "trend 2024",
   "owner": {
     "name": "Spotify",
@@ -415,26 +415,6 @@
     {
       "added_at": "2024-09-12 21:00:00",
       "album": {
-        "name": "DACIA X YATIYA (Remix)",
-        "url": "https://open.spotify.com/album/2U6D1xZHeEoe7zmzPJmiVG"
-      },
-      "artists": [
-        {
-          "name": "Lvbel C5",
-          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
-        },
-        {
-          "name": "Melis Kar",
-          "url": "https://open.spotify.com/artist/4hdeFgoe7zQEJWXVIAm2yj"
-        }
-      ],
-      "duration_ms": 158971,
-      "name": "DACIA X YATIYA - Remix",
-      "url": "https://open.spotify.com/track/4RC8B7vYRcM6Kkg5x80ezG"
-    },
-    {
-      "added_at": "2024-09-12 21:00:00",
-      "album": {
         "name": "Yine \u00c7al\u0131yor",
         "url": "https://open.spotify.com/album/2d3z7xdD9R3sAKueFrV2jp"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 135372,
       "name": "Kafam\u0131n \u0130\u00e7i",
       "url": "https://open.spotify.com/track/30kd9r9pbMn6bs6CKyFOCu"
+    },
+    {
+      "added_at": "2024-09-12 21:00:00",
+      "album": {
+        "name": "DACIA X YATIYA (Remix)",
+        "url": "https://open.spotify.com/album/2U6D1xZHeEoe7zmzPJmiVG"
+      },
+      "artists": [
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        },
+        {
+          "name": "Melis Kar",
+          "url": "https://open.spotify.com/artist/4hdeFgoe7zQEJWXVIAm2yj"
+        }
+      ],
+      "duration_ms": 158971,
+      "name": "DACIA X YATIYA - Remix",
+      "url": "https://open.spotify.com/track/4RC8B7vYRcM6Kkg5x80ezG"
     },
     {
       "added_at": "2024-09-12 21:00:00",

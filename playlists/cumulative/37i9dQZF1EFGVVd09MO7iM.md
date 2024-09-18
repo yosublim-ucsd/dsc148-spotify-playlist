@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4wmgHQAAzg3gbnQWSyoMZp">Pharrell Williams</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-805 songs - 2 day 4 hr 14 min
+806 songs - 2 day 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -661,6 +661,7 @@
 | [Special](https://open.spotify.com/track/74z465KvfBQrAqovUVLkpo) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Malice 'N Wonderland](https://open.spotify.com/album/3N7agGkKrdlEHBrzSDTNmG) | 5:26 | 2024-02-01 |  |
 | [Special Delivery \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/3QwTlVYdxsjWPHJ0ZUmBcV) | [RJMrLA](https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Rodney Brown Jr](https://open.spotify.com/album/1vnYinE0S5ozezv7FVM0lI) | 2:46 | 2024-09-12 |  |
 | [Squeeze Me \- Music from The Spongebob Movie Sponge Out Of Water](https://open.spotify.com/track/7J0mZi4vIRqBR9pjAt90nX) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi) | [Squeeze Me \(Music from The Spongebob Movie Sponge Out Of Water\)](https://open.spotify.com/album/5PfGowkEACnsIGuFau0nrR) | 2:34 | 2024-01-29 |  |
+| [Stand Up](https://open.spotify.com/track/3CrpxfW3KJPfG6Z6XGZQhQ) | [Javier Colon](https://open.spotify.com/artist/3flTDj1VSZCktpBGZlNutt), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Come Through For You](https://open.spotify.com/album/5QKlmKhCgRgDmOeKdy84yN) | 3:07 | 2024-09-17 |  |
 | [Star](https://open.spotify.com/track/1FhagjsmYU1nJg8rsnObnI) | [702](https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo), [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2) | [Star](https://open.spotify.com/album/17MNAy6AWQ1T3WHJu9gveR) | 4:03 | 2024-09-12 |  |
 | [Star \(feat\. Lil Wayne & Nicky Minaj\)](https://open.spotify.com/track/5BlfpOUpn4vJtm8sedcnsi) | [Trap Thug Family](https://open.spotify.com/artist/5vaLtyVwbTErZSLqVRCd9b), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Trap Thug Family](https://open.spotify.com/album/2T5uqtLfuewixOOInuc6vC) | 4:46 | 2024-01-29 |  |
 | [Stare \(feat\. Pharrell Williams & Wiz Khalifa\)](https://open.spotify.com/track/41HF1rru9LtZCXTOBGFlk4) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Beach House 3](https://open.spotify.com/album/7Dj0aaKI4RpehMPqOu56mW) | 4:49 | 2024-09-12 |  |

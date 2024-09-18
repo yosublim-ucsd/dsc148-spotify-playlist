@@ -422,7 +422,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 142014,
       "name": "Ankhon Ka Kasoor",
       "url": "https://open.spotify.com/track/2Qil9eFB9arcc6DxCCdvX0"
@@ -1041,6 +1041,28 @@
     },
     {
       "album": {
+        "name": "Chhore",
+        "url": "https://open.spotify.com/album/5PJnSQDa5IyXhk0ouMi0Dl"
+      },
+      "artists": [
+        {
+          "name": "Zenxae",
+          "url": "https://open.spotify.com/artist/2dszNFbKub1Eq174OKBifP"
+        },
+        {
+          "name": "NB Slayer",
+          "url": "https://open.spotify.com/artist/1eUBpi6ogzKTogQtRCU3o0"
+        }
+      ],
+      "date_added": "2024-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123697,
+      "name": "Chhore",
+      "url": "https://open.spotify.com/track/4vDdzKCAT9t45L4gKoXQGE"
+    },
+    {
+      "album": {
         "name": "Chhore Zeher",
         "url": "https://open.spotify.com/album/2Tnf5mOhd2JOZLewsRyIKG"
       },
@@ -1616,7 +1638,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 164671,
       "name": "Desi Pavega",
       "url": "https://open.spotify.com/track/0yeaXNtt81sOxNFi8FmcQv"
@@ -3294,7 +3316,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 167172,
       "name": "Kede Kede Yaar",
       "url": "https://open.spotify.com/track/1aeIfm41wcpQiNSN9tjs6B"
@@ -3714,6 +3736,28 @@
       "duration_ms": 187329,
       "name": "MERCURY",
       "url": "https://open.spotify.com/track/6RbMiYrULpv1XVbXwipI9o"
+    },
+    {
+      "album": {
+        "name": "Mere Yaar",
+        "url": "https://open.spotify.com/album/4dHNblm88c7TXGh0KMjExH"
+      },
+      "artists": [
+        {
+          "name": "Sumit Seedpuriya",
+          "url": "https://open.spotify.com/artist/2Ts3AzZrjd3LNIQhjYQxQS"
+        },
+        {
+          "name": "Ankky Gullarpur",
+          "url": "https://open.spotify.com/artist/1xSKzQKoptMz3SCkQRS8ul"
+        }
+      ],
+      "date_added": "2024-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Mere Yaar",
+      "url": "https://open.spotify.com/track/2yridLhSLpmxlWPmxzUpQf"
     },
     {
       "album": {
@@ -5510,6 +5554,28 @@
       "duration_ms": 210702,
       "name": "Tell Me Who?",
       "url": "https://open.spotify.com/track/16ArpcNGoQE6ZN4YochJd4"
+    },
+    {
+      "album": {
+        "name": "Tera Palla Latke",
+        "url": "https://open.spotify.com/album/4qVs4MTsk6p21jEKLKZuED"
+      },
+      "artists": [
+        {
+          "name": "Mintu Bhardwaj",
+          "url": "https://open.spotify.com/artist/3cZMCslaxeiYoXwRzTaTaR"
+        },
+        {
+          "name": "RB Gujjar",
+          "url": "https://open.spotify.com/artist/2scdOxmJM6OYHj16gjaEl0"
+        }
+      ],
+      "date_added": "2024-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277714,
+      "name": "Tera Palla Latke",
+      "url": "https://open.spotify.com/track/2DSdPwYAH97elUhD58bUOp"
     },
     {
       "album": {

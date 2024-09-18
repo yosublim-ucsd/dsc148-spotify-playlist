@@ -12655,6 +12655,32 @@
     },
     {
       "album": {
+        "name": "Iva Nadeyo Daari (From \"Legend Director\")",
+        "url": "https://open.spotify.com/album/27lzFWqwsfa5s0SMlGa6Oa"
+      },
+      "artists": [
+        {
+          "name": "R. S. Ganesh Narayanan",
+          "url": "https://open.spotify.com/artist/3kwTVe2R8Z2rVMtW2Cf1dy"
+        },
+        {
+          "name": "Pranav Satish",
+          "url": "https://open.spotify.com/artist/2dxv96rKJF5dYWQ9Kbt961"
+        },
+        {
+          "name": "Prathviraj Sanki",
+          "url": "https://open.spotify.com/artist/1VuxXhswG7W5kigBK5JlBJ"
+        }
+      ],
+      "date_added": "2024-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279005,
+      "name": "Iva Nadeyo Daari (From \"Legend Director\")",
+      "url": "https://open.spotify.com/track/1D3PMR0ToyNimVRuozBWCF"
+    },
+    {
+      "album": {
         "name": "Ivane Avatara Purusha (From \"Avatara Purusha 2\")",
         "url": "https://open.spotify.com/album/7GzNuvCZAACCkPZpsHYbPb"
       },
@@ -16970,7 +16996,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 240137,
       "name": "Makkali Raa",
       "url": "https://open.spotify.com/track/67g7RYg40YqOFQ70h2Iz6x"

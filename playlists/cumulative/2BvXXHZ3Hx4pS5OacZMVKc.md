@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-365 songs - 19 hr 10 min
+366 songs - 19 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Alone](https://open.spotify.com/track/4kvIwyqoAVaho3Ea7feClh) | [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY) | [Alone EP](https://open.spotify.com/album/3QS6cvgnMj7JuA0gB12Lq8) | 3:34 | 2022-05-20 | 2023-08-11 |
 | [Annabelle's Tea Party](https://open.spotify.com/track/6nPkoJ32PlIiCmmhnxxZKj) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T) | [Annabelle's Tea Party](https://open.spotify.com/album/0G2m4IHWmXSqKQFSPnQN24) | 3:08 | 2022-10-28 | 2022-10-31 |
 | [Arcade Dwellers](https://open.spotify.com/track/3b3A8AcfVhRVVizAQmQls5) | [Chime](https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS), [MDK](https://open.spotify.com/artist/4AFmCAFHwoV2o3QR1Wgup4) | [Arcade Dwellers](https://open.spotify.com/album/1NMgVxkMZ92QCgLjAJswQ3) | 4:20 | 2022-02-03 | 2023-08-11 |
+| [Ares \(Tear Up My Horizon\)](https://open.spotify.com/track/7vdtjVAVnH6KPbm8jiWoZs) | [Fourier](https://open.spotify.com/artist/1mm1gwco4OnHXbukzSAwJQ), [Reverse Prodigy](https://open.spotify.com/artist/6zXaDDbpZlywcU9kb61gHI), [ZAM](https://open.spotify.com/artist/4UaZN6cHIf89CepOqKQKPm) | [Ares \(Tear Up My Horizon\)](https://open.spotify.com/album/5oXOMGsmdvXOrVpNXeA2RX) | 2:55 | 2024-09-17 |  |
 | [Avatar](https://open.spotify.com/track/7mjtzOAMQs11liY3WdgT5v) | [RYVN](https://open.spotify.com/artist/6TTZGloO0o4IMy4eIaj8gU) | [Avatar](https://open.spotify.com/album/0VMsnqlax1FZNXdPzBHwn3) | 2:34 | 2022-03-04 | 2023-08-11 |
 | [Away](https://open.spotify.com/track/43yExGeOSTvdXzq3GJpeVS) | [James Roche](https://open.spotify.com/artist/4b2kEE2HzyOwcP1rVNBJPT) | [Away](https://open.spotify.com/album/53RQT1BteGO1olm1EZLSUX) | 3:25 | 2022-05-03 | 2023-08-11 |
 | [Away From Me](https://open.spotify.com/track/0hmILZ2aTCcntfX9Hde96T) | [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t), [ESAI](https://open.spotify.com/artist/1mv8s2gObjHHdnlSGVW1pE) | [Away From Me](https://open.spotify.com/album/6TK2A3juCejutugbkArptL) | 3:02 | 2022-06-10 | 2023-08-11 |

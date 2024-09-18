@@ -1,6 +1,6 @@
 {
   "description": "Cryzin e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 375198,
+  "num_followers": 375199,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
@@ -1251,18 +1251,30 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
-        "name": "2022",
-        "url": "https://open.spotify.com/album/7ysk3Rg7XyoRGqhiUmuxy1"
+        "name": "OS GAROTIN DE S\u00c3O GON\u00c7ALO",
+        "url": "https://open.spotify.com/album/07C0GZEXLAELHVNkBNeVXZ"
       },
       "artists": [
         {
-          "name": "Milthinho",
-          "url": "https://open.spotify.com/artist/44MnHK78EcZw23nzqY1vFp"
+          "name": "Os Garotin",
+          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
+        },
+        {
+          "name": "Anchietx",
+          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
+        },
+        {
+          "name": "Cupertino",
+          "url": "https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD"
+        },
+        {
+          "name": "Leo Guima",
+          "url": "https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d"
         }
       ],
-      "duration_ms": 218687,
-      "name": "2022",
-      "url": "https://open.spotify.com/track/4tjE5KCgw98VypSqtVCh3W"
+      "duration_ms": 199081,
+      "name": "calor do momento",
+      "url": "https://open.spotify.com/track/66nRZPGdQWXZhTSfvpIFDS"
     },
     {
       "added_at": "2024-09-13 03:01:00",
@@ -1295,30 +1307,18 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
-        "name": "OS GAROTIN DE S\u00c3O GON\u00c7ALO",
-        "url": "https://open.spotify.com/album/07C0GZEXLAELHVNkBNeVXZ"
+        "name": "2022",
+        "url": "https://open.spotify.com/album/7ysk3Rg7XyoRGqhiUmuxy1"
       },
       "artists": [
         {
-          "name": "Os Garotin",
-          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
-        },
-        {
-          "name": "Anchietx",
-          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
-        },
-        {
-          "name": "Cupertino",
-          "url": "https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD"
-        },
-        {
-          "name": "Leo Guima",
-          "url": "https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d"
+          "name": "Milthinho",
+          "url": "https://open.spotify.com/artist/44MnHK78EcZw23nzqY1vFp"
         }
       ],
-      "duration_ms": 199081,
-      "name": "calor do momento",
-      "url": "https://open.spotify.com/track/66nRZPGdQWXZhTSfvpIFDS"
+      "duration_ms": 218687,
+      "name": "2022",
+      "url": "https://open.spotify.com/track/4tjE5KCgw98VypSqtVCh3W"
     },
     {
       "added_at": "2024-09-13 03:01:00",
@@ -1339,22 +1339,34 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
-        "name": "Cora\u00e7\u00e3o e Beat",
-        "url": "https://open.spotify.com/album/28KkgrToYZdh3hxbM9rDIJ"
+        "name": "THE BOX MEDLEY FUNK 3",
+        "url": "https://open.spotify.com/album/3oF7K2XdqdXvEQ7QXJgYO5"
       },
       "artists": [
         {
-          "name": "Mc Kadu",
-          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+          "name": "THE BOX",
+          "url": "https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw"
         },
         {
-          "name": "Perera DJ",
-          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
+          "name": "MC Neguinho do Kaxeta",
+          "url": "https://open.spotify.com/artist/27mVhYvJa7apj1zCoZ9TF2"
+        },
+        {
+          "name": "Mc Kelvinho",
+          "url": "https://open.spotify.com/artist/1S4ASTDQvMwm6jP95pIsYB"
+        },
+        {
+          "name": "MC Jo\u00e3ozinho VT",
+          "url": "https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT"
+        },
+        {
+          "name": "Mc Kauan",
+          "url": "https://open.spotify.com/artist/4TlVDevNpKDPEGlG805z6U"
         }
       ],
-      "duration_ms": 206769,
-      "name": "Modo Gal\u00e1tico",
-      "url": "https://open.spotify.com/track/4TjLgUP7cfLTsDt4mRDsOh"
+      "duration_ms": 303750,
+      "name": "THE BOX MEDLEY FUNK 3",
+      "url": "https://open.spotify.com/track/29GPtRKtxQhHWB2dDKx8uN"
     }
   ],
   "unique_name": "AMPLIFIKA",

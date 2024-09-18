@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,457 songs - 2 day 6 hr 53 min
+1,458 songs - 2 day 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,10 +116,11 @@
 | [Billie's Bar](https://open.spotify.com/track/1z4KRB9o5YR5O3JlIBh0Sj) | [dean.](https://open.spotify.com/artist/0mTHQbJ5kQuR1NBUSMcTuM), [Grisp](https://open.spotify.com/artist/4Ss8Vh1dqwdci0DqaNycZM) | [Billie's Bar](https://open.spotify.com/album/5sT02BUovRejCrQuxseS2E) | 2:24 | 2022-09-30 | 2023-02-25 |
 | [Birch Sap](https://open.spotify.com/track/5tiP9vXHi7Z12WkGyup8zV) | [ULMÄR](https://open.spotify.com/artist/7BJ1Z3VaSzoX2z4p6OtwFU) | [Beatology Vol\. 1](https://open.spotify.com/album/3PyZ6vA8aoyhW0nskqCZlj) | 2:37 | 2022-01-27 | 2023-03-09 |
 | [Bistro](https://open.spotify.com/track/69iNEgqempCiGJHriAvfPw) | [Billa Qause](https://open.spotify.com/artist/7aHDFeKOQ2mgSGb8DTQf8Y) | [Bistro](https://open.spotify.com/album/4X2MuZ9FmRpqsb21oRGkSs) | 2:05 | 2023-06-05 | 2023-11-25 |
+| [Black Night City](https://open.spotify.com/track/4odiW0SmqthuVnz67Tw2O1) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [Black Night City](https://open.spotify.com/album/2ZuRrBhh7DHOMyTECqUhaX) | 2:01 | 2024-09-13 |  |
 | [Blackjack](https://open.spotify.com/track/1e0tOvl9ZaWyxGgGWEA4Md) | [Tabi](https://open.spotify.com/artist/5BE83iQiIHIQZwcHZYCZMK) | [Foggy Nights](https://open.spotify.com/album/3ECaZHFTwm4PVXlIjUN8Nc) | 3:33 | 2022-05-13 | 2022-11-26 |
 | [bleep](https://open.spotify.com/track/0VutyxcmjtC8Bs0QLcyIhb) | [tori yami](https://open.spotify.com/artist/3ZjRFcfag9ETSC777HOBDx) | [bleep](https://open.spotify.com/album/2MnmOWac8GbeCedTkbGldw) | 2:07 | 2022-09-02 |  |
 | [bloom](https://open.spotify.com/track/0dOnielazzJAafGsSBYmWl) | [nikk.](https://open.spotify.com/artist/0s8bZjPXviY1jTsu8ljegH) | [bloom](https://open.spotify.com/album/5BJau1GLTkarkCZ6fHkpDK) | 2:13 | 2023-02-24 |  |
-| [Bloom](https://open.spotify.com/track/1Ysrlbv0pgJGzTJs2rKHRa) | [Sloppy Jo](https://open.spotify.com/artist/2vllrQgjSlv6SFDmhio5un) | [Bloom](https://open.spotify.com/album/1hGnTXCqPpHFhw80OVFmqd) | 2:09 | 2024-09-13 | 2024-09-17 |
+| [Bloom](https://open.spotify.com/track/1Ysrlbv0pgJGzTJs2rKHRa) | [Sloppy Jo](https://open.spotify.com/artist/2vllrQgjSlv6SFDmhio5un) | [Bloom](https://open.spotify.com/album/1hGnTXCqPpHFhw80OVFmqd) | 2:09 | 2024-09-13 |  |
 | [Blooming Magic](https://open.spotify.com/track/3uGGmGE2SGxmSHkRbF5EYb) | [Maria Flippo](https://open.spotify.com/artist/4xoGvyrl4NWTtyaSrWi0py) | [Blooming Magic](https://open.spotify.com/album/4bg9lNm1hXxFdTy8xxwtbJ) | 2:07 | 2022-09-16 | 2024-09-07 |
 | [blossom bliss](https://open.spotify.com/track/6rTcq4gZhytJ0IC1JJfCdE) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc) | [blossom bliss](https://open.spotify.com/album/4pUT8Gv5FBOgN9IPSkF4RT) | 2:24 | 2022-08-19 | 2023-01-13 |
 | [Blue](https://open.spotify.com/track/498MKKUZWsgfqIB0u5rCTl) | [Wieland & Ulrich](https://open.spotify.com/artist/4ocnTp8nDRYItXbkk2vwpN) | [Blue](https://open.spotify.com/album/7f9ozd5SzTQ5fQ25kAgNWJ) | 2:12 | 2022-07-22 | 2022-11-12 |
@@ -202,7 +203,7 @@
 | [Chillin'](https://open.spotify.com/track/5QasMxBFqYtWjljLCm7SR4) | [Lichtboje](https://open.spotify.com/artist/5OEJiMPYAGd8sgyvA89ygr), [Chris Cross](https://open.spotify.com/artist/0FbvvGVjcfuHRa6BywhbHn), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Chillin'](https://open.spotify.com/album/2erNlAiEBMmBNE9addE9bK) | 2:28 | 2022-04-08 | 2022-10-15 |
 | [Chilling by the lake](https://open.spotify.com/track/3ZtI3F9EqlIfgDmtdlVJXb) | [Kubuch](https://open.spotify.com/artist/1dSbVVizZlEH0XqcMJ5jJ8), [Adam Dejnarowicz](https://open.spotify.com/artist/7HWiJb3mzF3vnEYs0wIBdJ), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Chilling by the lake](https://open.spotify.com/album/57vXUREWBWEtyRkhDX17SV) | 2:08 | 2022-10-08 | 2023-09-22 |
 | [Chillpill](https://open.spotify.com/track/4WAL1RcMM1MUlSxLntpHjF) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Pysig](https://open.spotify.com/album/0dQVTWnBsV7WJLDQhKow4d) | 2:42 | 2022-12-16 | 2023-11-17 |
-| [chim](https://open.spotify.com/track/5XvMaCt17K5caQwsx8izP3) | [Macem Ly](https://open.spotify.com/artist/73vYL25O91Vg80WBvkEa7K) | [nghỉ ngơi](https://open.spotify.com/album/19PgLS9BeYBBr6yo1SuTrR) | 2:28 | 2023-04-20 |  |
+| [chim](https://open.spotify.com/track/5XvMaCt17K5caQwsx8izP3) | [Macem Ly](https://open.spotify.com/artist/73vYL25O91Vg80WBvkEa7K) | [nghỉ ngơi](https://open.spotify.com/album/19PgLS9BeYBBr6yo1SuTrR) | 2:28 | 2023-04-20 | 2024-09-18 |
 | [Chinatown](https://open.spotify.com/track/4JFEywEZvco1yrUW4UHC36) | [Call Lane](https://open.spotify.com/artist/0AJ4Z8Q5D5OM3llGtJXnXy) | [Capone](https://open.spotify.com/album/2WIJoDYo5qEnNBhwIcY5oQ) | 3:45 | 2022-01-27 | 2022-07-08 |
 | [Chirping Birds](https://open.spotify.com/track/5UQ6gqiN2mmbZJ7VhgGCb3) | [Snooze Operator](https://open.spotify.com/artist/5qtHCB1wotOjSqqexujcbk), [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [Chirping Birds](https://open.spotify.com/album/2k80liCYDxjaW4KaL2fIY6) | 1:48 | 2023-08-03 |  |
 | [Chocolate Cosmos](https://open.spotify.com/track/0sl6nQZO7BNqSLcKBVgKJp) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Mendeville](https://open.spotify.com/artist/3oul9NF2i2QuhpMzxEWoHD) | [Summer Dusk](https://open.spotify.com/album/3WfgziQVxnrHbwQtFEsqey) | 2:10 | 2024-08-30 |  |
@@ -840,7 +841,7 @@
 | [Music Saved My LIfe](https://open.spotify.com/track/15JkkJANNuG0EoGCWEo85q) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [Music Saved My Life](https://open.spotify.com/album/5QUt722cDFZ1ZGDesI5Kam) | 4:04 | 2022-01-27 | 2022-03-19 |
 | [My Favorite Things](https://open.spotify.com/track/0bM7Mq0kt0N4aCpyrnMVzW) | [Garot Michael Conklin](https://open.spotify.com/artist/64xZeZKFTNLDsueTpb6aFz) | [My Favorite Things](https://open.spotify.com/album/1uk5RZ7Gum3Xw71QNRmG1R) | 2:12 | 2022-09-02 | 2023-01-13 |
 | [My Kind Of Club](https://open.spotify.com/track/6styRj3YNO2j31nY2ZBR3i) | [Cutecake](https://open.spotify.com/artist/4siWS58eyzzQFTp3XJYKin) | [My Kind Of Club](https://open.spotify.com/album/5EcjvuoqZ0IkVcOQ2ryiYQ) | 2:18 | 2022-06-03 | 2022-12-10 |
-| [My Time](https://open.spotify.com/track/7tsdmsTis9koDeF4l0eZZ5) | [Rachelle Pertu](https://open.spotify.com/artist/4BtIZRedZ2qqlF6jBuwMIx) | [My Time](https://open.spotify.com/album/5H7f4wXCsSwqN6AhwZDBJL) | 1:39 | 2022-09-02 |  |
+| [My Time](https://open.spotify.com/track/7tsdmsTis9koDeF4l0eZZ5) | [Rachelle Pertu](https://open.spotify.com/artist/4BtIZRedZ2qqlF6jBuwMIx) | [My Time](https://open.spotify.com/album/5H7f4wXCsSwqN6AhwZDBJL) | 1:39 | 2022-09-02 | 2024-09-18 |
 | [My Treat](https://open.spotify.com/track/3s66gdZkMGrpjY04UyU5yX) | [Trish Lupin](https://open.spotify.com/artist/2tUWdnMothLxACGOxca5Nz) | [My Treat](https://open.spotify.com/album/2YNRCzDh6HNNQmDFOOLJu5) | 2:02 | 2024-08-23 |  |
 | [Mysteries](https://open.spotify.com/track/4Gs49fzepEtYLIlGDvHP7U) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA), [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [Mysteries](https://open.spotify.com/album/1wb2u1Q89azoYcZGWy11ZT) | 1:55 | 2022-04-08 | 2022-10-15 |
 | [Mystic Brew](https://open.spotify.com/track/5iCYkGw65uiGPR6pV1GjQK) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH), [Epektase](https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo) | [Mystic Brew](https://open.spotify.com/album/0d5CsrlgArNZirsLrxHxTY) | 2:06 | 2022-06-03 | 2022-12-10 |

@@ -2,7 +2,7 @@
 
 ### [This Is Sia](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3vuU6c)
 
-> This is Sia\. Todos os maiores hits em uma só playlist.
+> This Is Sia\. Los temas esenciales, todos en una lista.
 
 90 songs - 5 hr 28 min
 

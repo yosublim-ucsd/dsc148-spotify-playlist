@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,798 songs - 1 day 13 hr 3 min
+1,799 songs - 1 day 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1043,6 +1043,7 @@
 | [My Open Heart \- Ambient Cello Version](https://open.spotify.com/track/4GQrUynYm5y8hp6GK5tcnJ) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [My Open Heart \(Ambient Cello Version\)](https://open.spotify.com/album/5Z7IVIvRPlnqGB6UQ5kggn) | 1:00 | 2024-02-13 |  |
 | [Mysterious Hope](https://open.spotify.com/track/5TIdwYmfkKXkiXB2K4Wlkl) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Hope In Silence](https://open.spotify.com/album/6eE0uY90mWQ20vcz3MOtvP) | 1:02 | 2022-03-02 |  |
 | [Mysterious Skies](https://open.spotify.com/track/2MQQvgp2C2LWxGTPQUDGxc) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Beautiful Dreams](https://open.spotify.com/album/6Q8Qv4dPI9s1Fe5uKIbz3T) | 1:45 | 2024-01-29 |  |
+| [Mystery](https://open.spotify.com/track/1dKGTVFpfotVpBQIxzFzqs) | [Sunset Harmony](https://open.spotify.com/artist/6RYTVoYZSRtXlupVCm0uQf) | [Mystery](https://open.spotify.com/album/0oWZSswz3UkuOswqYFGt6w) | 1:00 | 2024-09-17 |  |
 | [Mystery Within](https://open.spotify.com/track/39bVp9knilos2IIKcm2otF) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Mystery Within](https://open.spotify.com/album/7nAchhMFoBJ7ffVp7FRav5) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [Mystery Within Arr\. For Cello And Felt Piano](https://open.spotify.com/track/4Q3b9GTYQgvwv9c3UIrPaE) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Mystery Within Arr\. For Cello And Felt Piano](https://open.spotify.com/album/1GyDL5FgPWUKWMXjNV5R8b) | 1:00 | 2023-04-19 | 2024-02-13 |
 | [Mystical](https://open.spotify.com/track/3q50BfOOBzEOHovDvgSVp7) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Slow Rising Hope](https://open.spotify.com/album/05bFtzLqr4sBPsxne7idU8) | 1:02 | 2022-01-16 | 2024-01-30 |

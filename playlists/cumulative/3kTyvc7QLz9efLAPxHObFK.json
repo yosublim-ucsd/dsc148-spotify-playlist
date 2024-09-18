@@ -10173,6 +10173,32 @@
     },
     {
       "album": {
+        "name": "Feel Alive",
+        "url": "https://open.spotify.com/album/2q8W0i9SppQ7D778e3AGGT"
+      },
+      "artists": [
+        {
+          "name": "Manifest Destiny",
+          "url": "https://open.spotify.com/artist/1XTpiNqD37eVQdS0xFqX3j"
+        },
+        {
+          "name": "Revolve",
+          "url": "https://open.spotify.com/artist/1eboVfifg0y4tGo4HArDUn"
+        },
+        {
+          "name": "MC Flo",
+          "url": "https://open.spotify.com/artist/6kn1zMFsqWQgdLSUN69j9R"
+        }
+      ],
+      "date_added": "2024-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167100,
+      "name": "Feel Alive",
+      "url": "https://open.spotify.com/track/1IvH3zJcZdwc8EJGXrxwWF"
+    },
+    {
+      "album": {
         "name": "Supermax",
         "url": "https://open.spotify.com/album/35XgR3Tg1pZnu8SBEu3eVM"
       },

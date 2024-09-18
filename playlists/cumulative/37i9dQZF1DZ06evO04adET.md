@@ -2,7 +2,7 @@
 
 ### [This Is Natanael Cano](https://open.spotify.com/playlist/37i9dQZF1DZ06evO04adET)
 
-> This is Natanael Cano\. De viktigaste låtarna samlade i en spellista.
+> This Is Natanael Cano\. Los temas esenciales, todos en una lista.
 
 85 songs - 4 hr 18 min
 

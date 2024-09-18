@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 
 > Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: The Dinosaur's Skin \(恐龍的皮\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,937 likes - 62 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,966 likes - 62 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

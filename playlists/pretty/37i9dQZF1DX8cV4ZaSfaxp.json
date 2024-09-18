@@ -1,6 +1,6 @@
 {
   "description": "\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694. (Cover: \uc815\uc608\uc778(Yein)) (A dazzling but very sad feeling. Enjoy the city pop music of Korean singers.)",
-  "num_followers": 54542,
+  "num_followers": 54561,
   "original_name": "\uc11c\uc6b8 \uc528\ud2f0\ud31d (Seoul City Pop)",
   "owner": {
     "name": "Spotify",
@@ -647,18 +647,18 @@
     {
       "added_at": "2024-09-13 09:12:55",
       "album": {
-        "name": "BASIC",
-        "url": "https://open.spotify.com/album/7EQD5wkntQXxh7zT2XEwGS"
+        "name": "Loving you",
+        "url": "https://open.spotify.com/album/2XxhfupYZDZdZNkAkUJH7w"
       },
       "artists": [
         {
-          "name": "Brown Eyed Girls",
-          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
+          "name": "YUKIKA",
+          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
         }
       ],
-      "duration_ms": 241144,
-      "name": "Brave New World",
-      "url": "https://open.spotify.com/track/5ZiUAIExpAoiY9VeJRx6PT"
+      "duration_ms": 213768,
+      "name": "Loving you",
+      "url": "https://open.spotify.com/track/0hra4xnIEuXUTF5B0efWNN"
     },
     {
       "added_at": "2024-09-13 09:12:55",
@@ -679,18 +679,18 @@
     {
       "added_at": "2024-09-13 09:12:55",
       "album": {
-        "name": "Loving you",
-        "url": "https://open.spotify.com/album/2XxhfupYZDZdZNkAkUJH7w"
+        "name": "BASIC",
+        "url": "https://open.spotify.com/album/7EQD5wkntQXxh7zT2XEwGS"
       },
       "artists": [
         {
-          "name": "YUKIKA",
-          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
+          "name": "Brown Eyed Girls",
+          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
         }
       ],
-      "duration_ms": 213768,
-      "name": "Loving you",
-      "url": "https://open.spotify.com/track/0hra4xnIEuXUTF5B0efWNN"
+      "duration_ms": 241144,
+      "name": "Brave New World",
+      "url": "https://open.spotify.com/track/5ZiUAIExpAoiY9VeJRx6PT"
     },
     {
       "added_at": "2024-09-13 09:12:55",
@@ -743,6 +743,22 @@
     {
       "added_at": "2024-09-13 09:12:55",
       "album": {
+        "name": "Scent",
+        "url": "https://open.spotify.com/album/5ub9WgwYDknUaigTqwnf2G"
+      },
+      "artists": [
+        {
+          "name": "YUKIKA",
+          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
+        }
+      ],
+      "duration_ms": 211149,
+      "name": "Scent",
+      "url": "https://open.spotify.com/track/1QHhyQMvuCrN1xrtLZttxk"
+    },
+    {
+      "added_at": "2024-09-13 09:12:55",
+      "album": {
         "name": "THIS CITY",
         "url": "https://open.spotify.com/album/7JH8wNVrPGvlU6Pbos34Hu"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 194400,
       "name": "THIS CITY",
       "url": "https://open.spotify.com/track/1SwSXX7JBvB25ZzJUqvVR8"
-    },
-    {
-      "added_at": "2024-09-13 09:12:55",
-      "album": {
-        "name": "RE_vive",
-        "url": "https://open.spotify.com/album/5ZR4gMvmyzSX7AApmIR88h"
-      },
-      "artists": [
-        {
-          "name": "Brown Eyed Girls",
-          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
-        }
-      ],
-      "duration_ms": 232906,
-      "name": "Wonder Woman",
-      "url": "https://open.spotify.com/track/6xvJJyGmKG0oOFcdJ5wF16"
     },
     {
       "added_at": "2024-09-13 09:12:55",
@@ -807,18 +807,34 @@
     {
       "added_at": "2024-09-13 09:12:55",
       "album": {
-        "name": "Scent",
-        "url": "https://open.spotify.com/album/5ub9WgwYDknUaigTqwnf2G"
+        "name": "RE_vive",
+        "url": "https://open.spotify.com/album/5ZR4gMvmyzSX7AApmIR88h"
       },
       "artists": [
         {
-          "name": "YUKIKA",
-          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
+          "name": "Brown Eyed Girls",
+          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
         }
       ],
-      "duration_ms": 211149,
-      "name": "Scent",
-      "url": "https://open.spotify.com/track/1QHhyQMvuCrN1xrtLZttxk"
+      "duration_ms": 232906,
+      "name": "Wonder Woman",
+      "url": "https://open.spotify.com/track/6xvJJyGmKG0oOFcdJ5wF16"
+    },
+    {
+      "added_at": "2024-09-13 09:12:55",
+      "album": {
+        "name": "Cocktail love",
+        "url": "https://open.spotify.com/album/5Zqacp0rDmrmB9k7PaqWws"
+      },
+      "artists": [
+        {
+          "name": "YEWON",
+          "url": "https://open.spotify.com/artist/2GJNbshsJuL7t4ME9LOwZ0"
+        }
+      ],
+      "duration_ms": 204053,
+      "name": "Cocktail love",
+      "url": "https://open.spotify.com/track/4fCvcM5qDmIoLsjgqB6mp8"
     },
     {
       "added_at": "2024-09-13 09:12:55",
@@ -895,22 +911,6 @@
       "duration_ms": 220230,
       "name": "City Night (feat. Jisun)",
       "url": "https://open.spotify.com/track/7rYsqkzEoRAVFLYnOXBw8J"
-    },
-    {
-      "added_at": "2024-09-13 09:12:55",
-      "album": {
-        "name": "Cocktail love",
-        "url": "https://open.spotify.com/album/5Zqacp0rDmrmB9k7PaqWws"
-      },
-      "artists": [
-        {
-          "name": "YEWON",
-          "url": "https://open.spotify.com/artist/2GJNbshsJuL7t4ME9LOwZ0"
-        }
-      ],
-      "duration_ms": 204053,
-      "name": "Cocktail love",
-      "url": "https://open.spotify.com/track/4fCvcM5qDmIoLsjgqB6mp8"
     },
     {
       "added_at": "2024-09-13 09:12:55",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-09-13 09:12:55",
       "album": {
-        "name": "I\u2019m not good at",
-        "url": "https://open.spotify.com/album/7rTw76epZxmCpniX4WVDjc"
-      },
-      "artists": [
-        {
-          "name": "Mitty",
-          "url": "https://open.spotify.com/artist/1RyHoiUL5MomO7N7kzgZjQ"
-        }
-      ],
-      "duration_ms": 223653,
-      "name": "I\u2019m not good at",
-      "url": "https://open.spotify.com/track/0lpvVtvprYHA8L0uBYTFtS"
-    },
-    {
-      "added_at": "2024-09-13 09:12:55",
-      "album": {
         "name": "mojo",
         "url": "https://open.spotify.com/album/2B26gj1V8eKsJ6yPXaZxkE"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 194266,
       "name": "Desire (Feat. \uc815\uc9c4\ud615, Vince)",
       "url": "https://open.spotify.com/track/0sMSGLrwt5KFttn3ksv8CK"
+    },
+    {
+      "added_at": "2024-09-13 09:12:55",
+      "album": {
+        "name": "I\u2019m not good at",
+        "url": "https://open.spotify.com/album/7rTw76epZxmCpniX4WVDjc"
+      },
+      "artists": [
+        {
+          "name": "Mitty",
+          "url": "https://open.spotify.com/artist/1RyHoiUL5MomO7N7kzgZjQ"
+        }
+      ],
+      "duration_ms": 223653,
+      "name": "I\u2019m not good at",
+      "url": "https://open.spotify.com/track/0lpvVtvprYHA8L0uBYTFtS"
     },
     {
       "added_at": "2024-09-13 09:12:55",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2024-09-13 09:12:55",
       "album": {
-        "name": "Cristal Love",
-        "url": "https://open.spotify.com/album/5sIhEUT8XBrUpdIsFkXkjK"
-      },
-      "artists": [
-        {
-          "name": "En Sokum",
-          "url": "https://open.spotify.com/artist/3RjGXbgDR40y0ZzZhCACfF"
-        }
-      ],
-      "duration_ms": 217058,
-      "name": "Cristal Love",
-      "url": "https://open.spotify.com/track/056ve9qgYBqfAadX29x9ds"
-    },
-    {
-      "added_at": "2024-09-13 09:12:55",
-      "album": {
         "name": "MINI",
         "url": "https://open.spotify.com/album/74DqQrYGTSS6NfqZY7Vml0"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 187653,
       "name": "Loveholic",
       "url": "https://open.spotify.com/track/6ti3JvY3ZSdqvTA7PaSA1e"
+    },
+    {
+      "added_at": "2024-09-13 09:12:55",
+      "album": {
+        "name": "Cristal Love",
+        "url": "https://open.spotify.com/album/5sIhEUT8XBrUpdIsFkXkjK"
+      },
+      "artists": [
+        {
+          "name": "En Sokum",
+          "url": "https://open.spotify.com/artist/3RjGXbgDR40y0ZzZhCACfF"
+        }
+      ],
+      "duration_ms": 217058,
+      "name": "Cristal Love",
+      "url": "https://open.spotify.com/track/056ve9qgYBqfAadX29x9ds"
     },
     {
       "added_at": "2024-09-13 09:12:55",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-09-13 09:12:55",
       "album": {
-        "name": "<K>",
-        "url": "https://open.spotify.com/album/69pBx0bi45GYip7oXcHbzu"
-      },
-      "artists": [
-        {
-          "name": "HeeJin",
-          "url": "https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks"
-        }
-      ],
-      "duration_ms": 188320,
-      "name": "Algorithm",
-      "url": "https://open.spotify.com/track/0i8K9oyDQSg5tPZUTHPwhX"
-    },
-    {
-      "added_at": "2024-09-13 09:12:55",
-      "album": {
         "name": "Monthly Project 2023 January Yoon Jong Shin - The Third",
         "url": "https://open.spotify.com/album/1rIQCBkQf1iYVCHK7hCxZr"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 255839,
       "name": "Monthly Project 2023 January Yoon Jong Shin - The Third",
       "url": "https://open.spotify.com/track/51ZFJYJmdt8nX2nInpDOJk"
+    },
+    {
+      "added_at": "2024-09-13 09:12:55",
+      "album": {
+        "name": "<K>",
+        "url": "https://open.spotify.com/album/69pBx0bi45GYip7oXcHbzu"
+      },
+      "artists": [
+        {
+          "name": "HeeJin",
+          "url": "https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks"
+        }
+      ],
+      "duration_ms": 188320,
+      "name": "Algorithm",
+      "url": "https://open.spotify.com/track/0i8K9oyDQSg5tPZUTHPwhX"
     },
     {
       "added_at": "2024-09-13 09:12:55",

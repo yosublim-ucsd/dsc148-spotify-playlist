@@ -4,7 +4,7 @@
 
 > Jahaan bhi dekho tera nishaan hai, mahraab\-i dil men teri azaan hai.
 
-187 songs - 20 hr 52 min
+188 songs - 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Allah Hu](https://open.spotify.com/track/6EWDE9xJuEGK4CD9SMnlm9) | [Hamza Akram Qawwal](https://open.spotify.com/artist/1SqOrcBazuYQ8pcw4UuseT), [Taimoor Akram](https://open.spotify.com/artist/1cwy0UsOCVBUtJcMq80gzq), [Abdul Akram](https://open.spotify.com/artist/7h8qDn9P06lpRw7ARJxXnC) | [Allah Hu](https://open.spotify.com/album/1cYcGtARBCMQNpNrj8iEcu) | 4:56 | 2022-06-21 | 2023-03-18 |
 | [Allah Hu](https://open.spotify.com/track/5COYSZGnYxlkoPYU2N9a8H) | [Saieen Zahoor](https://open.spotify.com/artist/3qicDXfpXrkSeFOJfHjG9q), [Abrar Ul Haq](https://open.spotify.com/artist/5Z1MqXZgG3ooTyK3oqQVpw), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Season 6](https://open.spotify.com/album/1zJtqhpXJiqVBOP91oM0Ky) | 6:56 | 2024-01-05 | 2024-06-22 |
 | [Allah Ke Bande \- Live](https://open.spotify.com/track/4MGTYzFHCVehaWLdvLlvSi) | [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4), [Paresh Kamath](https://open.spotify.com/artist/3PgeUFj9oHU4K4RGaITz2f), [Naresh Kamath](https://open.spotify.com/artist/79sho4jpEGoCCC51KHnNSJ) | [Kailasa](https://open.spotify.com/album/4RaycLPhCCJ8wglYD4cvmD) | 4:35 | 2022-08-02 | 2022-10-25 |
+| [Allah Ke Pyaare Nabi](https://open.spotify.com/track/1GIS9zEABZ38gTcj9a6nvz) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Richa Sharma](https://open.spotify.com/artist/2hgViyN0RqyQQpfjIb0g3W), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm) | [Allah Ke Pyaare Nabi](https://open.spotify.com/album/4zY0wj0LYdVETMqTuTfnFY) | 4:55 | 2024-09-17 |  |
 | [Allah Tero Naam](https://open.spotify.com/track/6sAausYGMZTP2GYVt9tbIm) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm), [Deepak Pandit](https://open.spotify.com/artist/2BZwCL3KVpmgrRmowHlU6B), [Jaidev](https://open.spotify.com/artist/7CaFdVY2rhLpErUD3vQsPh), [Sahir Ludhianvi](https://open.spotify.com/artist/1nLvkKjnfpnouM0Mpyd4cc) | [Allah Tero Naam](https://open.spotify.com/album/0mD0vgIJNp1LkrqESr3SGW) | 5:10 | 2024-06-21 |  |
 | [Allahu Akbar](https://open.spotify.com/track/0oulvgKe81qlq8UvIW3uha) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm), [Ahmed Jehanzeb](https://open.spotify.com/artist/5Vn3nku07sgnvFCS5Lw4wX) | [Coke Studio Season 10: Episode 1](https://open.spotify.com/album/5OFJg7KklIIfXF2xxtMCj8) | 8:39 | 2022-06-21 | 2024-01-06 |
 | [Arziyan](https://open.spotify.com/track/3V80Iv04B9XAqGHbXdtRT1) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4) | [Delhi\-6](https://open.spotify.com/album/2oEJvIPxiVWejbACLjq6Lh) | 8:39 | 2022-10-25 |  |

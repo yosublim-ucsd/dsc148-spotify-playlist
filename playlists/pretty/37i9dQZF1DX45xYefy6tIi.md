@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45xYefy6tIi.md) - [plain]
 
 > Jelly Roll and ESPN team up for a playlist celebrating “The Greatest Story Ever Played” as the hunt to crown a National Champion begins.
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,399 likes - 89 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,452 likes - 89 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45xYefy6tIi.md) - [plain]
 | 88 | [STRANGE FRIENDS](https://open.spotify.com/track/3FW4X3cgPYtL7yla6YyPfu) | [little image](https://open.spotify.com/artist/5Ljgq0b8I3YkUwp3gtB1wm) | [STRANGE FRIENDS](https://open.spotify.com/album/4t7gJ5vOuIDtQtULQcqKR5) | 2:34 |
 | 89 | [the me i was](https://open.spotify.com/track/5CPsaOIdRdBROb4dvIfKfM) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [biting my tongue](https://open.spotify.com/album/4Xl9cCcZARYBmV4SK9SysK) | 3:00 |
 
-Snapshot ID: `ZshdoAAAAACmIZjlT3uS6p4qbOkFrgdJ`
+Snapshot ID: `ZshdoAAAAACPmkSvaC/KcEuJ6vOTzBO5`

@@ -1,6 +1,6 @@
 {
   "description": "Les plus grands tubes de vari\u00e9t\u00e9 fran\u00e7aise d'hier et d'aujourd'hui. Photo : C\u00e9line Dion",
-  "num_followers": 480240,
+  "num_followers": 480257,
   "original_name": "Culture Tubes",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2024-07-25 10:27:51",
       "album": {
-        "name": "Fr\u00e9ro Delavega",
-        "url": "https://open.spotify.com/album/6vRDgJ6ZlOQ8DH1Y4Olx46"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9ro Delavega",
-          "url": "https://open.spotify.com/artist/6bebPrkEPr2xEkiHP3QkNT"
-        }
-      ],
-      "duration_ms": 178986,
-      "name": "Le chant des sir\u00e8nes",
-      "url": "https://open.spotify.com/track/0gSvEcIBXqiYqomjp6hKHj"
-    },
-    {
-      "added_at": "2024-07-25 10:27:51",
-      "album": {
         "name": "Regarde-moi",
         "url": "https://open.spotify.com/album/0yHJkjaOVLRH5VZajnYHr9"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 164567,
       "name": "Un jour je marierai un ange",
       "url": "https://open.spotify.com/track/5klPZRehMLpiKUchPAzKyR"
+    },
+    {
+      "added_at": "2024-07-25 10:27:51",
+      "album": {
+        "name": "Fr\u00e9ro Delavega",
+        "url": "https://open.spotify.com/album/6vRDgJ6ZlOQ8DH1Y4Olx46"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9ro Delavega",
+          "url": "https://open.spotify.com/artist/6bebPrkEPr2xEkiHP3QkNT"
+        }
+      ],
+      "duration_ms": 178986,
+      "name": "Le chant des sir\u00e8nes",
+      "url": "https://open.spotify.com/track/0gSvEcIBXqiYqomjp6hKHj"
     },
     {
       "added_at": "2024-07-25 10:27:51",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-07-25 10:27:51",
       "album": {
-        "name": "La vraie vie (Deluxe)",
-        "url": "https://open.spotify.com/album/3iTiNTUw39tyag6Ip8rnbM"
-      },
-      "artists": [
-        {
-          "name": "Bigflo & Oli",
-          "url": "https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs"
-        }
-      ],
-      "duration_ms": 238146,
-      "name": "Dommage",
-      "url": "https://open.spotify.com/track/4BEWiTPV0v87mBryf7gdxK"
-    },
-    {
-      "added_at": "2024-07-25 10:27:51",
-      "album": {
         "name": "Samedi soir sur la terre (Remastered)",
         "url": "https://open.spotify.com/album/4KXrFpUXZO6e5RdZ70HaK8"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 278253,
       "name": "Je t'aimais, je t'aime, je t'aimerai - Remastered",
       "url": "https://open.spotify.com/track/1sTWIzAlg8HapeWz2fXvfJ"
+    },
+    {
+      "added_at": "2024-07-25 10:27:51",
+      "album": {
+        "name": "La vraie vie (Deluxe)",
+        "url": "https://open.spotify.com/album/3iTiNTUw39tyag6Ip8rnbM"
+      },
+      "artists": [
+        {
+          "name": "Bigflo & Oli",
+          "url": "https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs"
+        }
+      ],
+      "duration_ms": 238146,
+      "name": "Dommage",
+      "url": "https://open.spotify.com/track/4BEWiTPV0v87mBryf7gdxK"
     },
     {
       "added_at": "2024-07-25 10:27:51",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-07-25 10:27:51",
       "album": {
-        "name": "Pour Un Flirt - Vol.1",
-        "url": "https://open.spotify.com/album/4rjlNg6YeoR9JqMaWhFi71"
-      },
-      "artists": [
-        {
-          "name": "Michel Delpech",
-          "url": "https://open.spotify.com/artist/4T795JhhCZMWM01DLcX98p"
-        }
-      ],
-      "duration_ms": 206160,
-      "name": "Pour un flirt",
-      "url": "https://open.spotify.com/track/0RDUfBXGq7lhBAqlyu0UAy"
-    },
-    {
-      "added_at": "2024-07-25 10:27:51",
-      "album": {
         "name": "Cure",
         "url": "https://open.spotify.com/album/0B7trrXpu1IShSqzJfB2Tw"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 184840,
       "name": "Kid",
       "url": "https://open.spotify.com/track/1EIhcoMZ3See5L28kNvuFe"
+    },
+    {
+      "added_at": "2024-07-25 10:27:51",
+      "album": {
+        "name": "Pour Un Flirt - Vol.1",
+        "url": "https://open.spotify.com/album/4rjlNg6YeoR9JqMaWhFi71"
+      },
+      "artists": [
+        {
+          "name": "Michel Delpech",
+          "url": "https://open.spotify.com/artist/4T795JhhCZMWM01DLcX98p"
+        }
+      ],
+      "duration_ms": 206160,
+      "name": "Pour un flirt",
+      "url": "https://open.spotify.com/track/0RDUfBXGq7lhBAqlyu0UAy"
     },
     {
       "added_at": "2024-07-25 10:27:51",

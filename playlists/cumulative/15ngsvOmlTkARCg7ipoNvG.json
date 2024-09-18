@@ -18683,6 +18683,24 @@
     },
     {
       "album": {
+        "name": "Mystery",
+        "url": "https://open.spotify.com/album/0oWZSswz3UkuOswqYFGt6w"
+      },
+      "artists": [
+        {
+          "name": "Sunset Harmony",
+          "url": "https://open.spotify.com/artist/6RYTVoYZSRtXlupVCm0uQf"
+        }
+      ],
+      "date_added": "2024-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60504,
+      "name": "Mystery",
+      "url": "https://open.spotify.com/track/1dKGTVFpfotVpBQIxzFzqs"
+    },
+    {
+      "album": {
         "name": "Mystery Within",
         "url": "https://open.spotify.com/album/7nAchhMFoBJ7ffVp7FRav5"
       },

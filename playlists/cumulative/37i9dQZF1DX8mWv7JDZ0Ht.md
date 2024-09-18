@@ -4,7 +4,7 @@
 
 > Novidades do pop nacional pra te deixar mais leve! Foto: Gabriel Froede, Joyce Alane
 
-687 songs - 1 day 10 hr 7 min
+688 songs - 1 day 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -503,7 +503,7 @@
 | [Rara](https://open.spotify.com/track/00GX7uIqyTPC5MQtnBahY5) | [Bruno Chelles](https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d), [Santino](https://open.spotify.com/artist/3uOdcexXWraBw0SYLSHxBa) | [Rara](https://open.spotify.com/album/2m5bdA9o8QOPWTcGE63pOn) | 3:17 | 2022-12-09 | 2023-07-01 |
 | [Rara Flor](https://open.spotify.com/track/4xLiEMTUxYJegJUTRvEAGz) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0) | [Rara Flor](https://open.spotify.com/album/1qQ4J7PUlwkRrSsA3o9VQc) | 2:21 | 2023-12-01 | 2024-01-06 |
 | [Recomeço](https://open.spotify.com/track/4n0Gle6yQqSdDZPeJZzef7) | [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K), [PRISCILLA](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa) | [Recomeço](https://open.spotify.com/album/09S98ejRLHvK2M3RaPULUw) | 2:41 | 2024-05-31 | 2024-07-13 |
-| [Recomeço \- Bonus Track](https://open.spotify.com/track/1Ll03UzfVOYrcWK4FgwEtH) | [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai) | [Concreto \(2024 Rework\)](https://open.spotify.com/album/1BEdpQGeHrhtjZekdaKUPJ) | 3:14 | 2024-03-15 |  |
+| [Recomeço \- Bonus Track](https://open.spotify.com/track/1Ll03UzfVOYrcWK4FgwEtH) | [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai) | [Concreto \(2024 Rework\)](https://open.spotify.com/album/1BEdpQGeHrhtjZekdaKUPJ) | 3:14 | 2024-03-15 | 2024-09-18 |
 | [Renata](https://open.spotify.com/track/4XMc6OTIFSzkcDKOLrA682) | [Braga](https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng), [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Renata](https://open.spotify.com/album/2NZvpmeIzbwYbTi0KODCYI) | 2:50 | 2023-11-10 | 2024-04-13 |
 | [Repara](https://open.spotify.com/track/3KSBVHgj03KdPFQ4SMIizC) | [Maielle](https://open.spotify.com/artist/2vGvYgHGWdoDDdtplJlMjX) | [Repara](https://open.spotify.com/album/60lO1rsH63Nx57oB1uwfnk) | 2:34 | 2023-02-10 | 2023-03-25 |
 | [Resolvi Seguir](https://open.spotify.com/track/6xuf56zGxebdc1oilPOs7D) | [Nicolas Candido](https://open.spotify.com/artist/5Zv9YrrNkqX5FaaAHtw3E6) | [Resolvi Seguir](https://open.spotify.com/album/1nVWMOfIQ5X6ckw08cHQoU) | 2:41 | 2023-04-14 | 2023-08-26 |
@@ -572,6 +572,7 @@
 | [Só Quero Te Agradecer](https://open.spotify.com/track/4zEt63lCEJlB3co0rfbtzz) | [Viegas](https://open.spotify.com/artist/6rTzxjnhz5roe983OC25he) | [Só Quero Te Agradecer](https://open.spotify.com/album/2kHLOvnLAY80tY4FVNfBWO) | 3:07 | 2024-05-06 | 2024-06-14 |
 | [Só Respira](https://open.spotify.com/track/1Fdc5RWSwgleXanROASz6g) | [Wanessa Camargo](https://open.spotify.com/artist/4tKyqcDgQpGEIvJlbhl07P) | [LIVRE](https://open.spotify.com/album/0pCt2pBy1WtmdFI637QUOr) | 3:15 | 2023-12-22 | 2024-03-23 |
 | [Só sei dançar com você](https://open.spotify.com/track/74L3wypDfhXMvAYE7mDq09) | [Enzo Yuki](https://open.spotify.com/artist/3Bw1XXhKZBD63mHPKiJZBR) | [Só sei dançar com você](https://open.spotify.com/album/6JqH7U3T62fe24mTWJsTZo) | 4:00 | 2024-07-26 |  |
+| [Só Sinto](https://open.spotify.com/track/7pRLX3MpPGEGBqjsKGZjsK) | [Cacá Magalhães](https://open.spotify.com/artist/0kV11iUwok3iJ3p32ollyk) | [Só Sinto](https://open.spotify.com/album/1B69BwQ41WdWl3d0etscfA) | 3:25 | 2024-09-17 |  |
 | [Tarde da Noite](https://open.spotify.com/track/70mYwaFqWLYywSVPcCVynb) | [Fraterna Trip](https://open.spotify.com/artist/2qJbdrwX5dlARkvyea6FfL), [Jambu](https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX) | [Tarde da Noite](https://open.spotify.com/album/3rBB9Rfs8jqN9YPOmisGWG) | 3:18 | 2023-08-18 | 2023-09-02 |
 | [Taça De Vidro \- Acústico](https://open.spotify.com/track/2Z8UD0wNevn16bEClkD6ae) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [Acústico Ana Gabriela](https://open.spotify.com/album/2iDfAGGJidhV0bKMpFpLzn) | 2:55 | 2023-11-17 | 2023-12-09 |
 | [tchau, baby!](https://open.spotify.com/track/526I73YCefYU1i3bVJZuns) | [Mar.iana](https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH) | [tchau, baby!](https://open.spotify.com/album/3s09GrsSUoAuBNEVtdVfi4) | 3:15 | 2023-01-20 | 2023-04-09 |

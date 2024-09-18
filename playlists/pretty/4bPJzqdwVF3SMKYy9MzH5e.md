@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,959 songs - 4 day 9 hr 22 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,963 songs - 4 day 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1967,5 +1967,9 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1957 | [Mastercard](https://open.spotify.com/track/4DCm1yyODwqULv5zOb1mkW) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec) | [Mastercard](https://open.spotify.com/album/6jJkHZaIS3bBXBaafuY17p) | 3:19 |
 | 1958 | [PRIVET PRIVET 2009 ST](https://open.spotify.com/track/5S3g79HZI1lA7qEr1wBEni) | [Luke Willies](https://open.spotify.com/artist/3uIws1bbX1b53e0xJpz94r) | [PRIVET PRIVET 2009 ST](https://open.spotify.com/album/2sAFkotFrDHE5ZFPSDnM9z) | 1:34 |
 | 1959 | [Talk talk featuring troye sivan](https://open.spotify.com/track/2LUD3874dlzeRa34Hi7ohW) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Talk talk featuring troye sivan](https://open.spotify.com/album/4hSYRtDjN1XbTqBKTw33sj) | 2:53 |
+| 1960 | [Satan Was A Babyboomer](https://open.spotify.com/track/3IVrlcM5gDoj3lghHY9m7I) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Satan Was A Babyboomer](https://open.spotify.com/album/42nVxnZ0BD7Vt3sMK0t8Ss) | 7:07 |
+| 1961 | [7676](https://open.spotify.com/track/3jBhASZVd2RrftiJEWYYc3) | [Death Souljah](https://open.spotify.com/artist/7cR5NVExHuLAIqS8fU5RFo) | [7676](https://open.spotify.com/album/2yCFIWho0f6SNisQ9FZ0e3) | 1:56 |
+| 1962 | [DEATH RATTLE](https://open.spotify.com/track/5NCXIjreIgVsGEaDpclbVs) | [Miguel Angeles](https://open.spotify.com/artist/14xRX3JR8H4RWh8R7V3fvZ) | [DEATH RATTLE](https://open.spotify.com/album/189IFXJK0O6orcVrUDwU7d) | 2:40 |
+| 1963 | [ЗАВОД](https://open.spotify.com/track/0JCG4FU6reipiFnJ0sGloH) | [ZAPRAVKA](https://open.spotify.com/artist/4oCaLmRVMM4Ck4VGrmh4VC) | [ЗАВОД](https://open.spotify.com/album/3BT92x77jU94cOAqg92Ijw) | 2:03 |
 
-Snapshot ID: `AAADT1PZo8LBsMFznoy3mK52LeXWWOk6`
+Snapshot ID: `AAADU6dO9hJvPUz9JznbpVK6AqwqviI8`

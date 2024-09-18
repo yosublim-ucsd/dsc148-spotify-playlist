@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-1,523 songs - 3 day 23 hr 16 min
+1,524 songs - 3 day 23 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,7 +213,7 @@
 | [Eye's Sentry](https://open.spotify.com/track/0nuWbGxJRzi8odd18gmtuH) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [Eye's Sentry](https://open.spotify.com/album/014ME8UQqhxH1tTWMue8dp) | 4:11 | 2024-02-27 | 2024-04-12 |
 | [Eye's Sentry\(Anime ver.\)](https://open.spotify.com/track/2mpkh5uQygtv1nY0q3Qlps) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [Eye's Sentry\(Anime ver.\)](https://open.spotify.com/album/5wqx65H0ar3eZiI3jU93Op) | 1:29 | 2024-01-06 | 2024-01-26 |
 | [Face2](https://open.spotify.com/track/5N1bKDzbdCKnReop9O2YEG) | [LOZAREENA](https://open.spotify.com/artist/5lRAsaQysYDBzpa1CT0qwV) | [Face2](https://open.spotify.com/album/15eTxMxc2yzCOC4wveboLD) | 3:41 | 2022-08-05 | 2022-10-05 |
-| [FACELESS](https://open.spotify.com/track/6vxT9Jfpp5vJs0A8w6NUJl) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [FACELESS](https://open.spotify.com/album/5EKoC23fdT9gTwbJOrfVZK) | 3:32 | 2024-07-12 |  |
+| [FACELESS](https://open.spotify.com/track/6vxT9Jfpp5vJs0A8w6NUJl) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [FACELESS](https://open.spotify.com/album/5EKoC23fdT9gTwbJOrfVZK) | 3:32 | 2024-07-12 | 2024-09-18 |
 | [FAKEit](https://open.spotify.com/track/2Fo6g5hxRpaR2rvrw8nhMi) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Laco](https://open.spotify.com/artist/7yEsBM3bZnkNfKyB9XGyyd) | [FAKEit](https://open.spotify.com/album/3LgahfFyNmXwudGoFtN9yC) | 2:54 | 2023-01-03 | 2023-04-09 |
 | [fam](https://open.spotify.com/track/1QRCIe2ViATfzwz37Fyfrm) | [遊遊](https://open.spotify.com/artist/0xcDdlgQye7CQJa1fdJrPj) | [fam](https://open.spotify.com/album/2WUdT0tdJaRCXzfCuuHUaf) | 3:56 | 2023-10-05 | 2023-11-08 |
 | [fam!](https://open.spotify.com/track/4MjiNr9rIzr0J8MBFl57MC) | [CHiCO](https://open.spotify.com/artist/7IV8K4vnEgJDGkfeyjjbWL) | [fam!](https://open.spotify.com/album/4I9XT7pjaMY7k58Y8DkQSq) | 3:38 | 2024-04-16 | 2024-06-08 |
@@ -1300,6 +1300,7 @@
 | [好きにしなよ](https://open.spotify.com/track/3Yyc0Ccj7lZ3VOgBFMlEQo) | [Anly](https://open.spotify.com/artist/5yJK9kmUG5wPAPDfaaandz) | [好きにしなよ](https://open.spotify.com/album/0himSAZSz3XxBPhX5JWs6p) | 4:26 | 2023-10-17 | 2024-01-12 |
 | [好きになっちゃダメな人](https://open.spotify.com/track/7dahojrN9JHJS4rmyfsYJI) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [好きになっちゃダメな人](https://open.spotify.com/album/6vE3rwCWwPzyCcV3Lz0Yoh) | 3:37 | 2023-09-28 | 2023-09-30 |
 | [好きになってはいけない理由](https://open.spotify.com/track/2wjIQfeVIJs2NKqtPE79nq) | [藤川千愛](https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg) | [好きになってはいけない理由](https://open.spotify.com/album/0HusXRFOf7XeaD7kPxr8ry) | 4:40 | 2023-10-03 | 2023-10-05 |
+| [威風颯爽](https://open.spotify.com/track/6vTYK0VoX8pAYJCQ9LgXPs) | [ヒプノシスマイク \-D.R.B\- \(神宮寺寂雷\)](https://open.spotify.com/artist/6GLJqeXo7O5WlJFHjCrYDg) | [.麻天狼](https://open.spotify.com/album/7CBvmjdl9hfBuPahlmbDFz) | 4:32 | 2024-09-17 |  |
 | [存在証明](https://open.spotify.com/track/0r1o3u1hfslfqiAu5ZA51O) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [存在証明](https://open.spotify.com/album/5ltpF1aQJAWeuEIBgpU6dK) | 3:27 | 2023-10-05 | 2024-01-10 |
 | [学級日誌](https://open.spotify.com/track/7ea6ouVJBX1qNlF4Bsbr14) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [学級日誌](https://open.spotify.com/album/7JeY33oaNNWi7PJJHQtUfq) | 3:57 | 2024-01-16 | 2024-04-11 |
 | [守りたいもの](https://open.spotify.com/track/0QpwFmdAK6mXvXTqlDgva4) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [守りたいもの](https://open.spotify.com/album/2qsxXjpEqtc87WWJAQt8fj) | 4:26 | 2024-04-10 | 2024-04-19 |

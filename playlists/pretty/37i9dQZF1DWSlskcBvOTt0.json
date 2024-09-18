@@ -1,6 +1,6 @@
 {
   "description": "Hypnotic melodic and afro <a href=\"spotify:genre:house\">house</a> to light up the night.",
-  "num_followers": 499090,
+  "num_followers": 499318,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Born In Blue",
-        "url": "https://open.spotify.com/album/1dCSXGLRWwfnBwWaadLv0v"
-      },
-      "artists": [
-        {
-          "name": "Chambord",
-          "url": "https://open.spotify.com/artist/5S5jGEkiJMWHt6XYasZOLJ"
-        },
-        {
-          "name": "Jaguar Jaguar",
-          "url": "https://open.spotify.com/artist/2R8sfGkLsBHLRIrJVmR2t4"
-        }
-      ],
-      "duration_ms": 290737,
-      "name": "Born In Blue",
-      "url": "https://open.spotify.com/track/5iiQYaqVsZK8ROt0dfOyS9"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Tanzania (Rampa Remix)",
         "url": "https://open.spotify.com/album/17X1yha8lkmFmVBuBTIoUP"
       },
@@ -1239,26 +1219,42 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Kabe",
-        "url": "https://open.spotify.com/album/4qNEPCKNBzuvJuo7MjqUuh"
+        "name": "Born In Blue",
+        "url": "https://open.spotify.com/album/1dCSXGLRWwfnBwWaadLv0v"
       },
       "artists": [
         {
-          "name": "Francis Mercier",
-          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+          "name": "Chambord",
+          "url": "https://open.spotify.com/artist/5S5jGEkiJMWHt6XYasZOLJ"
         },
         {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        },
-        {
-          "name": "Nomis (FR)",
-          "url": "https://open.spotify.com/artist/41uPRwE5e0yJSYUpb4LR6V"
+          "name": "Jaguar Jaguar",
+          "url": "https://open.spotify.com/artist/2R8sfGkLsBHLRIrJVmR2t4"
         }
       ],
-      "duration_ms": 212000,
-      "name": "Kabe",
-      "url": "https://open.spotify.com/track/7Kid813yq5ev5IZ6cyjqXe"
+      "duration_ms": 290737,
+      "name": "Born In Blue",
+      "url": "https://open.spotify.com/track/5iiQYaqVsZK8ROt0dfOyS9"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "3 Days Later",
+        "url": "https://open.spotify.com/album/5ClUY27aMSWKKIjaP2ybg4"
+      },
+      "artists": [
+        {
+          "name": "Adam Ten",
+          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
+        },
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 333658,
+      "name": "3 Days Later",
+      "url": "https://open.spotify.com/track/0divWrAf5awgfmCGyWhZ3j"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1287,42 +1283,26 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "3 Days Later",
-        "url": "https://open.spotify.com/album/5ClUY27aMSWKKIjaP2ybg4"
+        "name": "Kabe",
+        "url": "https://open.spotify.com/album/4qNEPCKNBzuvJuo7MjqUuh"
       },
       "artists": [
         {
-          "name": "Adam Ten",
-          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
         },
         {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 333658,
-      "name": "3 Days Later",
-      "url": "https://open.spotify.com/track/0divWrAf5awgfmCGyWhZ3j"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Peperuke (feat. Nes Mburu)",
-        "url": "https://open.spotify.com/album/3PNSiqqwzdFfy1U5Xvkqc0"
-      },
-      "artists": [
-        {
-          "name": "Alex Wann",
-          "url": "https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT"
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         },
         {
-          "name": "Nes Mburu",
-          "url": "https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd"
+          "name": "Nomis (FR)",
+          "url": "https://open.spotify.com/artist/41uPRwE5e0yJSYUpb4LR6V"
         }
       ],
-      "duration_ms": 216413,
-      "name": "Peperuke (feat. Nes Mburu)",
-      "url": "https://open.spotify.com/track/0d3MdoK5iKTFOUPQadokKZ"
+      "duration_ms": 212000,
+      "name": "Kabe",
+      "url": "https://open.spotify.com/track/7Kid813yq5ev5IZ6cyjqXe"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1347,6 +1327,26 @@
       "duration_ms": 194395,
       "name": "BADO",
       "url": "https://open.spotify.com/track/54ThjvbWJnmRSKI7Jp82cA"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Peperuke (feat. Nes Mburu)",
+        "url": "https://open.spotify.com/album/3PNSiqqwzdFfy1U5Xvkqc0"
+      },
+      "artists": [
+        {
+          "name": "Alex Wann",
+          "url": "https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT"
+        },
+        {
+          "name": "Nes Mburu",
+          "url": "https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd"
+        }
+      ],
+      "duration_ms": 216413,
+      "name": "Peperuke (feat. Nes Mburu)",
+      "url": "https://open.spotify.com/track/0d3MdoK5iKTFOUPQadokKZ"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1759,30 +1759,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Alemagou",
-        "url": "https://open.spotify.com/album/4PQGVbEWl3S7Os7Rhl6pk4"
-      },
-      "artists": [
-        {
-          "name": "Kimonos",
-          "url": "https://open.spotify.com/artist/32XZI46GRocn0V8ghzhDYN"
-        },
-        {
-          "name": "Sounds Of Rituals",
-          "url": "https://open.spotify.com/artist/1s7o0js6ITLMl4EN2m9YvK"
-        },
-        {
-          "name": "Kuuda",
-          "url": "https://open.spotify.com/artist/2aPOSo3CvB3a15zDorFBCh"
-        }
-      ],
-      "duration_ms": 338709,
-      "name": "Alemagou",
-      "url": "https://open.spotify.com/track/7wHBKBh6FHpwuCCdCdjEq9"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Asa",
         "url": "https://open.spotify.com/album/2ZqR3WdAJcLqzrAnrfTqyf"
       },
@@ -1811,6 +1787,30 @@
       "duration_ms": 273600,
       "name": "Love You Got",
       "url": "https://open.spotify.com/track/6Fn0PW0rmdTQ3jbpynyGIu"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Alemagou",
+        "url": "https://open.spotify.com/album/4PQGVbEWl3S7Os7Rhl6pk4"
+      },
+      "artists": [
+        {
+          "name": "Kimonos",
+          "url": "https://open.spotify.com/artist/32XZI46GRocn0V8ghzhDYN"
+        },
+        {
+          "name": "Sounds Of Rituals",
+          "url": "https://open.spotify.com/artist/1s7o0js6ITLMl4EN2m9YvK"
+        },
+        {
+          "name": "Kuuda",
+          "url": "https://open.spotify.com/artist/2aPOSo3CvB3a15zDorFBCh"
+        }
+      ],
+      "duration_ms": 338709,
+      "name": "Alemagou",
+      "url": "https://open.spotify.com/track/7wHBKBh6FHpwuCCdCdjEq9"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1875,6 +1875,22 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
+        "name": "Big Jet Plane",
+        "url": "https://open.spotify.com/album/4QmXejemlP9hnkj59WAsrL"
+      },
+      "artists": [
+        {
+          "name": "No Relation",
+          "url": "https://open.spotify.com/artist/4f7pPE64wmPVoqmkeReJpy"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Big Jet Plane",
+      "url": "https://open.spotify.com/track/4nYH1XzdmEroDn9aOpO33f"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
         "name": "Light Down",
         "url": "https://open.spotify.com/album/59t9U3I17pMqt5ixq3ELpb"
       },
@@ -1891,22 +1907,6 @@
       "duration_ms": 274576,
       "name": "Light Down",
       "url": "https://open.spotify.com/track/0wlYNRYVtGYJsJcd2xe31k"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Big Jet Plane",
-        "url": "https://open.spotify.com/album/4QmXejemlP9hnkj59WAsrL"
-      },
-      "artists": [
-        {
-          "name": "No Relation",
-          "url": "https://open.spotify.com/artist/4f7pPE64wmPVoqmkeReJpy"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Big Jet Plane",
-      "url": "https://open.spotify.com/track/4nYH1XzdmEroDn9aOpO33f"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -2035,18 +2035,26 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Tormenta",
-        "url": "https://open.spotify.com/album/1dSn5KBjSQjs4pL4Qixw3Y"
+        "name": "Anywhere",
+        "url": "https://open.spotify.com/album/12uDqYnWnF6wUirHfkjysQ"
       },
       "artists": [
         {
-          "name": "Marasi",
-          "url": "https://open.spotify.com/artist/0Dcekxlb2bwUGn3neC6J4J"
+          "name": "Ginton",
+          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
+        },
+        {
+          "name": "ChopLife SoundSystem",
+          "url": "https://open.spotify.com/artist/6s93Sx8tUcsqIWtCJJzQMw"
+        },
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
         }
       ],
-      "duration_ms": 189677,
-      "name": "Tormenta",
-      "url": "https://open.spotify.com/track/3AP0aiiXpP7gNVCUfevH3x"
+      "duration_ms": 146776,
+      "name": "Anywhere",
+      "url": "https://open.spotify.com/track/3qSeBxnHuBGBOi89SFb6Tf"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -2087,6 +2095,22 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
+        "name": "Tormenta",
+        "url": "https://open.spotify.com/album/1dSn5KBjSQjs4pL4Qixw3Y"
+      },
+      "artists": [
+        {
+          "name": "Marasi",
+          "url": "https://open.spotify.com/artist/0Dcekxlb2bwUGn3neC6J4J"
+        }
+      ],
+      "duration_ms": 189677,
+      "name": "Tormenta",
+      "url": "https://open.spotify.com/track/3AP0aiiXpP7gNVCUfevH3x"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
         "name": "Better Off Alone",
         "url": "https://open.spotify.com/album/3xHEASPayOb9AxWAOuDE33"
       },
@@ -2099,30 +2123,6 @@
       "duration_ms": 293793,
       "name": "Better Off Alone",
       "url": "https://open.spotify.com/track/2BFa2yuyuoNe3YalZLkefR"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Anywhere",
-        "url": "https://open.spotify.com/album/12uDqYnWnF6wUirHfkjysQ"
-      },
-      "artists": [
-        {
-          "name": "Ginton",
-          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
-        },
-        {
-          "name": "ChopLife SoundSystem",
-          "url": "https://open.spotify.com/artist/6s93Sx8tUcsqIWtCJJzQMw"
-        },
-        {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
-        }
-      ],
-      "duration_ms": 146776,
-      "name": "Anywhere",
-      "url": "https://open.spotify.com/track/3qSeBxnHuBGBOi89SFb6Tf"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -2151,50 +2151,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/1KzSi6di0a0c4ZotbQuyBI"
-      },
-      "artists": [
-        {
-          "name": "Tim Engelhardt",
-          "url": "https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE"
-        },
-        {
-          "name": "Sean Doron",
-          "url": "https://open.spotify.com/artist/1qc7Whymce7gEOJ92t4ocX"
-        }
-      ],
-      "duration_ms": 344738,
-      "name": "So Good",
-      "url": "https://open.spotify.com/track/1IR9m7mkEWAXkCA5cBfTz2"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/01D4KOudqfxOzPiQawG9PO"
-      },
-      "artists": [
-        {
-          "name": "WITH U",
-          "url": "https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV"
-        },
-        {
-          "name": "Albert Breaker",
-          "url": "https://open.spotify.com/artist/7ARLlH0R0zY7aeLrzeUYIf"
-        },
-        {
-          "name": "mohalizer",
-          "url": "https://open.spotify.com/artist/4mxLi0WiovhOvdkqofGO2i"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/1dFbbBKiOn1LnldZUSaWQ8"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Learning To Love",
         "url": "https://open.spotify.com/album/3MIFNQDa1cTXyyF8Lp4O4w"
       },
@@ -2215,6 +2171,26 @@
       "duration_ms": 255612,
       "name": "Learning To Love",
       "url": "https://open.spotify.com/track/1Mr0bOCAxXGYL1EVX92iS2"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/1KzSi6di0a0c4ZotbQuyBI"
+      },
+      "artists": [
+        {
+          "name": "Tim Engelhardt",
+          "url": "https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE"
+        },
+        {
+          "name": "Sean Doron",
+          "url": "https://open.spotify.com/artist/1qc7Whymce7gEOJ92t4ocX"
+        }
+      ],
+      "duration_ms": 344738,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/1IR9m7mkEWAXkCA5cBfTz2"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -2247,6 +2223,30 @@
       "duration_ms": 182375,
       "name": "Clareou",
       "url": "https://open.spotify.com/track/1Lg2aS1Hl1sKpfEoClcder"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/01D4KOudqfxOzPiQawG9PO"
+      },
+      "artists": [
+        {
+          "name": "WITH U",
+          "url": "https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV"
+        },
+        {
+          "name": "Albert Breaker",
+          "url": "https://open.spotify.com/artist/7ARLlH0R0zY7aeLrzeUYIf"
+        },
+        {
+          "name": "mohalizer",
+          "url": "https://open.spotify.com/artist/4mxLi0WiovhOvdkqofGO2i"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/1dFbbBKiOn1LnldZUSaWQ8"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -2395,22 +2395,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Human Rights",
-        "url": "https://open.spotify.com/album/1LLTlN8lue1Wwneob0Sm2y"
-      },
-      "artists": [
-        {
-          "name": "Jimi Jules",
-          "url": "https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd"
-        }
-      ],
-      "duration_ms": 294036,
-      "name": "Human Rights",
-      "url": "https://open.spotify.com/track/4VEzfo8GKXvW1f5oviqM1c"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "OnlyL",
         "url": "https://open.spotify.com/album/4hSZwUM3VO8bNwb1ufMra5"
       },
@@ -2431,6 +2415,22 @@
       "duration_ms": 367066,
       "name": "OnlyL ft. TSHA & NIMMO",
       "url": "https://open.spotify.com/track/6IgYMKfaqv8VIYYIbsmlpo"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Human Rights",
+        "url": "https://open.spotify.com/album/1LLTlN8lue1Wwneob0Sm2y"
+      },
+      "artists": [
+        {
+          "name": "Jimi Jules",
+          "url": "https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd"
+        }
+      ],
+      "duration_ms": 294036,
+      "name": "Human Rights",
+      "url": "https://open.spotify.com/track/4VEzfo8GKXvW1f5oviqM1c"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -2503,6 +2503,22 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/2707md8oZNvicxsOq7m6nU"
+      },
+      "artists": [
+        {
+          "name": "Antdot",
+          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
+        }
+      ],
+      "duration_ms": 279344,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/22FYG28v2UKUhnTO7ecOcn"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
         "name": "Real Love (Liva K Remix)",
         "url": "https://open.spotify.com/album/3joNpvmZheGoKgbIiQL1kd"
       },
@@ -2539,22 +2555,6 @@
       "duration_ms": 229180,
       "name": "Magic Circus",
       "url": "https://open.spotify.com/track/2kRuYyYqUMl9TSNuiKGuq7"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/2707md8oZNvicxsOq7m6nU"
-      },
-      "artists": [
-        {
-          "name": "Antdot",
-          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
-        }
-      ],
-      "duration_ms": 279344,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/22FYG28v2UKUhnTO7ecOcn"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -2599,26 +2599,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Ascension",
-        "url": "https://open.spotify.com/album/5kPFmoFmWkHiwnq3s0ZaBJ"
-      },
-      "artists": [
-        {
-          "name": "Eran Hersh",
-          "url": "https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW"
-        },
-        {
-          "name": "Kasango",
-          "url": "https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r"
-        }
-      ],
-      "duration_ms": 177540,
-      "name": "Ascension",
-      "url": "https://open.spotify.com/track/1d5J0Jhrq1t5KQAN5B7stF"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Out of Sight",
         "url": "https://open.spotify.com/album/5o602wD0yatOExl8G8qWkw"
       },
@@ -2639,18 +2619,22 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Maundu",
-        "url": "https://open.spotify.com/album/4qnrLtbLwfZoiyLogZOubO"
+        "name": "Ascension",
+        "url": "https://open.spotify.com/album/5kPFmoFmWkHiwnq3s0ZaBJ"
       },
       "artists": [
         {
-          "name": "Banyan",
-          "url": "https://open.spotify.com/artist/7tAaeOOFJ3i5EGaiacyDei"
+          "name": "Eran Hersh",
+          "url": "https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW"
+        },
+        {
+          "name": "Kasango",
+          "url": "https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r"
         }
       ],
-      "duration_ms": 136500,
-      "name": "Maundu",
-      "url": "https://open.spotify.com/track/3M9zD6847EoxgW0b2YEvBs"
+      "duration_ms": 177540,
+      "name": "Ascension",
+      "url": "https://open.spotify.com/track/1d5J0Jhrq1t5KQAN5B7stF"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -2675,6 +2659,22 @@
       "duration_ms": 201719,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/5jjjxOp1GH5C8lCgT1r432"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Maundu",
+        "url": "https://open.spotify.com/album/4qnrLtbLwfZoiyLogZOubO"
+      },
+      "artists": [
+        {
+          "name": "Banyan",
+          "url": "https://open.spotify.com/artist/7tAaeOOFJ3i5EGaiacyDei"
+        }
+      ],
+      "duration_ms": 136500,
+      "name": "Maundu",
+      "url": "https://open.spotify.com/track/3M9zD6847EoxgW0b2YEvBs"
     }
   ],
   "unique_name": "Tantra",

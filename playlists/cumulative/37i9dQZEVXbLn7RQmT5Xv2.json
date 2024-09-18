@@ -3502,7 +3502,7 @@
       ],
       "date_added": "2023-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 166999,
       "name": "El Dalaa",
       "url": "https://open.spotify.com/track/7wue5LasVYYkXBBmblfavk"
@@ -3956,7 +3956,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-12",
+      "date_removed": null,
       "duration_ms": 190328,
       "name": "Esmek Eh",
       "url": "https://open.spotify.com/track/2wEino4lZrzgdKQr9Kuqpw"
@@ -7386,6 +7386,24 @@
       "duration_ms": 205728,
       "name": "Mahragan Embaba Khat Ahmar",
       "url": "https://open.spotify.com/track/4b4aSVwWBnwMiSwU62mIUr"
+    },
+    {
+      "album": {
+        "name": "Khayali",
+        "url": "https://open.spotify.com/album/5SWgpFjAUrJOdYZ7LYTzrz"
+      },
+      "artists": [
+        {
+          "name": "Tamer Ashour",
+          "url": "https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F"
+        }
+      ],
+      "date_added": "2024-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227053,
+      "name": "Mahzouz",
+      "url": "https://open.spotify.com/track/2fNGw4weCNtNiP58znlTve"
     },
     {
       "album": {
@@ -17232,7 +17250,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 253894,
       "name": "\u0648 \u0627\u0641\u062a\u0643\u0631\u062a",
       "url": "https://open.spotify.com/track/2ZYxLGcohgsKpor8pGMc0o"

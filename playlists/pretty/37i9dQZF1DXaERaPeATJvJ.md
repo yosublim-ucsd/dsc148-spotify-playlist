@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaERaPeATJvJ.md) - [plain]
 
 > Nostalgia kancah musik Independen era 90an hingga 2000an\. Cover: Zeke and the Popo
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,835 likes - 116 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,843 likes - 116 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

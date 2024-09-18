@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek?si=HVD6qR1VTMKrW1SGfN77kQ">Porches</a>
 
-1,059 songs - 3 day 0 hr 38 min
+1,060 songs - 3 day 0 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -382,6 +382,7 @@
 | [Hand On Me](https://open.spotify.com/track/2uffOhl7IE6vbk8NtvpD9c) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Hand On Me](https://open.spotify.com/album/1ju50ud1Izkhb3sKfjVINg) | 3:35 | 2024-02-29 | 2024-04-11 |
 | [Hands Of Man](https://open.spotify.com/track/6FrW7htz75AtmZJZk59BEv) | [Ugly \(UK\)](https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf) | [Hands Of Man](https://open.spotify.com/album/3LzI2gXTQQ96VtaC2NYXF2) | 5:05 | 2023-12-13 | 2024-02-08 |
 | [Hangar](https://open.spotify.com/track/2maVPXqxqgn7w929ZxiH5o) | [Moreish Idols](https://open.spotify.com/artist/7DoCMYqpSbn3kgBSWDpnLP) | [Hangar](https://open.spotify.com/album/3aPHytsW9HCZ8UyQ1V5xnV) | 3:42 | 2022-06-16 | 2022-07-28 |
+| [Happier Than Ever](https://open.spotify.com/track/6Nhs9AGiApHVmgABL52CP4) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [Happier Than Ever](https://open.spotify.com/album/6pEgAKOang7GFsELVK6IG2) | 4:22 | 2024-09-17 |  |
 | [Hard Rock Potato](https://open.spotify.com/track/5NiDP5WtAn6N4HOzPbEoby) | [The Cool Greenhouse](https://open.spotify.com/artist/3t1nM1F3Ynmt6Ft7ouWYmW) | [Hard Rock Potato](https://open.spotify.com/album/67zxEhP3JZn15me2wta0k2) | 3:57 | 2022-08-17 | 2022-09-29 |
 | [Hares on the Mountain](https://open.spotify.com/track/3QBsP66ixM2caNrOYzcUng) | [Shirley Collins](https://open.spotify.com/artist/5rilpZJIb2NWJZVGtCdg6u) | [Hares On The Mountain](https://open.spotify.com/album/2iv4mGCshsTvywjUf128vO) | 3:08 | 2023-05-02 | 2023-06-22 |
 | [Has It Been a While](https://open.spotify.com/track/6eSkbv71Fy7FVIeTh1Wk7T) | [Trust Fund](https://open.spotify.com/artist/1MUKCI5HmTVIucSwcaH6sV) | [Has It Been a While](https://open.spotify.com/album/35NgzhilWZjY2PV0gxBed0) | 2:02 | 2024-08-14 |  |

@@ -1486,7 +1486,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 217289,
       "name": "Little Time",
       "url": "https://open.spotify.com/track/1WaQsiZuSKdjVx0NTrnpOX"
@@ -1881,7 +1881,7 @@
         },
         {
           "name": "SHY",
-          "url": "https://open.spotify.com/artist/3fF2BjyWjC59uxRfpuqXMt"
+          "url": "https://open.spotify.com/artist/0csylernbj0z7TB0WabTBb"
         }
       ],
       "date_added": "2024-09-12",
@@ -2544,6 +2544,32 @@
       "duration_ms": 150991,
       "name": "VERFBOMMENVERF",
       "url": "https://open.spotify.com/track/5a8XU0IawHs3qtkET6LiK0"
+    },
+    {
+      "album": {
+        "name": "Vergeet Jou Niet (feat. Wally)",
+        "url": "https://open.spotify.com/album/0BOxEoEM87IXA7Pw0XTIcz"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e8l",
+          "url": "https://open.spotify.com/artist/2dl0KJ2w556Fc4IdSqyECG"
+        },
+        {
+          "name": "Jeroen Antoine",
+          "url": "https://open.spotify.com/artist/7u1t7bEnCzS3tWMNNu7QgO"
+        },
+        {
+          "name": "Wally",
+          "url": "https://open.spotify.com/artist/5sKJpW8V9gGDpLIaBYbr8x"
+        }
+      ],
+      "date_added": "2024-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232340,
+      "name": "Vergeet Jou Niet (feat. Wally)",
+      "url": "https://open.spotify.com/track/648kXsKKtNVzzZeQiTAjQg"
     },
     {
       "album": {

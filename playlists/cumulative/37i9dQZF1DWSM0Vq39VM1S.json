@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-28",
-  "description": "Le rayon de soleil musical de votre matin\u00e9e.",
+  "description": "Le rayon de soleil musical de votre matin\u00e9e \ud83e\udd94",
   "name": "R\u00e9veil en douceur",
   "tracks": [
     {
@@ -182,7 +182,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 324253,
       "name": "Ailleurs",
       "url": "https://open.spotify.com/track/70a8PRbdLuwLVgVnwucYx0"
@@ -485,6 +485,24 @@
     },
     {
       "album": {
+        "name": "Capital Letters (Bossa Nova)",
+        "url": "https://open.spotify.com/album/6QiMiX7Rtxj0HmPXih3ski"
+      },
+      "artists": [
+        {
+          "name": "Halloran & Kate",
+          "url": "https://open.spotify.com/artist/26GKAYYuyr424SdSkr8xlQ"
+        }
+      ],
+      "date_added": "2024-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225205,
+      "name": "Capital Letters - Bossa Nova",
+      "url": "https://open.spotify.com/track/1eNJTz948RfGSC2gIPqhbo"
+    },
+    {
+      "album": {
         "name": "Troubadour",
         "url": "https://open.spotify.com/album/4GIeoRcpLeLwgxQK8jo183"
       },
@@ -778,6 +796,24 @@
       "duration_ms": 235988,
       "name": "Familiar",
       "url": "https://open.spotify.com/track/2EWnKuspetOzgfBtmaNZvJ"
+    },
+    {
+      "album": {
+        "name": "Feel It Still",
+        "url": "https://open.spotify.com/album/6ZTVVvfdenF1hpBfRfP5mp"
+      },
+      "artists": [
+        {
+          "name": "Tobey Rosen",
+          "url": "https://open.spotify.com/artist/7xW6v5mmwGhWtoZ0x2AhLN"
+        }
+      ],
+      "date_added": "2024-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150979,
+      "name": "Feel It Still",
+      "url": "https://open.spotify.com/track/742i8sKnLgkU8QFug7eGQ9"
     },
     {
       "album": {
@@ -1129,6 +1165,24 @@
     },
     {
       "album": {
+        "name": "Her Tape #1",
+        "url": "https://open.spotify.com/album/46Bec3H2EincHIIyyhEsMD"
+      },
+      "artists": [
+        {
+          "name": "Her",
+          "url": "https://open.spotify.com/artist/1T2WeXEi0XlZiPpjjDAY0L"
+        }
+      ],
+      "date_added": "2024-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258264,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/1x7Ts6pnwIwOOo0vSMNndW"
+    },
+    {
+      "album": {
         "name": "Home Again (Deluxe Version)",
         "url": "https://open.spotify.com/album/6b7DeWxueaZY0NNReD6TrK"
       },
@@ -1270,6 +1324,24 @@
       "duration_ms": 217349,
       "name": "I Do",
       "url": "https://open.spotify.com/track/5UGsdm9LW7qzoOKuwFtFjT"
+    },
+    {
+      "album": {
+        "name": "I Wanna Dance With Somebody",
+        "url": "https://open.spotify.com/album/7HWYxsxmncXzKUjOgA178r"
+      },
+      "artists": [
+        {
+          "name": "Bossa Players",
+          "url": "https://open.spotify.com/artist/5apIRYZ7s0gTvCb4qSpGHm"
+        }
+      ],
+      "date_added": "2024-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210177,
+      "name": "I Wanna Dance With Somebody",
+      "url": "https://open.spotify.com/track/5fXs1nXoJzOdJDkl8fOBTI"
     },
     {
       "album": {
@@ -1616,7 +1688,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 199477,
       "name": "Levitate",
       "url": "https://open.spotify.com/track/5xIXG98Trt1GvkVitYauo9"
@@ -1760,7 +1832,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 178003,
       "name": "Malory",
       "url": "https://open.spotify.com/track/4C5UxFQ0okYz2NGUGWtees"
@@ -1983,6 +2055,24 @@
     },
     {
       "album": {
+        "name": "Listener's Digest",
+        "url": "https://open.spotify.com/album/6VsiGQn3S3dgape5u4dZhB"
+      },
+      "artists": [
+        {
+          "name": "Roudoudou",
+          "url": "https://open.spotify.com/artist/6YTtkGLYyAHNUGD8PVL6SL"
+        }
+      ],
+      "date_added": "2024-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253706,
+      "name": "Peace and Tranquility to Earth",
+      "url": "https://open.spotify.com/track/7jKp4Yl1p89ByCMOjh2fHR"
+    },
+    {
+      "album": {
         "name": "The Virgin Suicides (Original Motion Picture Score)",
         "url": "https://open.spotify.com/album/2E1q8eohZZ1BUQ7Bq5WUIY"
       },
@@ -2034,7 +2124,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 240333,
       "name": "Rails of the Night",
       "url": "https://open.spotify.com/track/57qJCSxKFD5Q4tpR3EJDwC"
@@ -2078,6 +2168,24 @@
       "duration_ms": 204960,
       "name": "Road Trippin'",
       "url": "https://open.spotify.com/track/7Gpr3kKk4BMgItz6UbI73q"
+    },
+    {
+      "album": {
+        "name": "The Campfire Headphase",
+        "url": "https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2024-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364533,
+      "name": "Satellite Anthem Icarus",
+      "url": "https://open.spotify.com/track/4b3i2rXFZx9JqQQq9KuVAj"
     },
     {
       "album": {
@@ -2128,7 +2236,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 215013,
       "name": "Shadow In The Storm",
       "url": "https://open.spotify.com/track/5baV4ZFU0mhUVbrcZyv4FD"
@@ -2146,7 +2254,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 266380,
       "name": "Shelter - Edit",
       "url": "https://open.spotify.com/track/7sqcEITroQ4tnrFQtmCDFd"
@@ -2254,7 +2362,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 177026,
       "name": "So Real",
       "url": "https://open.spotify.com/track/5s9biQ8jLtbUnE76sxDtQ8"
@@ -2302,7 +2410,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 171981,
       "name": "Stockholm Syndrome",
       "url": "https://open.spotify.com/track/3bRBhUPG11tw4FiSAeSRbL"
@@ -2453,6 +2561,24 @@
     },
     {
       "album": {
+        "name": "Sweet Dreams (Are Made of This)",
+        "url": "https://open.spotify.com/album/417nFOw9t04mP8GCqMKqps"
+      },
+      "artists": [
+        {
+          "name": "Lisa Laew",
+          "url": "https://open.spotify.com/artist/1BJxvqEKk18whkqb6eNUSR"
+        }
+      ],
+      "date_added": "2024-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155555,
+      "name": "Sweet Dreams (Are Made of This) - Bossa Nova Version",
+      "url": "https://open.spotify.com/track/67PFYFZIywl6xjGVCpLJmW"
+    },
+    {
+      "album": {
         "name": "Like A Million Dreams (Live)",
         "url": "https://open.spotify.com/album/5QRgGWs8fZvzqvcHbIQqey"
       },
@@ -2500,7 +2626,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 224146,
       "name": "The Beginning",
       "url": "https://open.spotify.com/track/0eeIwG0vTlzUpkpeKA4MuK"
@@ -2799,6 +2925,24 @@
     },
     {
       "album": {
+        "name": "Vanille fraise",
+        "url": "https://open.spotify.com/album/41Ht5x3AgpMVmoFoIzaUPO"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        }
+      ],
+      "date_added": "2024-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238183,
+      "name": "Vanille fraise",
+      "url": "https://open.spotify.com/track/7nZ9CzhiFRPhOQCn7eDSnn"
+    },
+    {
+      "album": {
         "name": "Norman Fucking Rockwell!",
         "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
       },
@@ -2922,6 +3066,24 @@
       "duration_ms": 309240,
       "name": "Without You",
       "url": "https://open.spotify.com/track/5Tw2HCe45FErCET2mfaJj8"
+    },
+    {
+      "album": {
+        "name": "Wasteland, Baby!",
+        "url": "https://open.spotify.com/album/5j1ZsFyNCsnt62prbs85eE"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2024-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268293,
+      "name": "Would That I",
+      "url": "https://open.spotify.com/track/0L3oQdYUvVbsOOPJSkZ3C3"
     },
     {
       "album": {

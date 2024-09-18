@@ -2,9 +2,9 @@
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover:saram tto saram\(사람또사람\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover:Baek A\(백아\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-527 songs - 1 day 7 hr 20 min
+529 songs - 1 day 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,7 @@
 | [Hometown](https://open.spotify.com/track/40uuLH4QBKPL7JzhopBihc) | [The One](https://open.spotify.com/artist/3eAsBHDYXtCSn67Zynq3Qd) | [Hometown Sounds Samcheok Part.1](https://open.spotify.com/album/3Z72JdjTIYAepQl1yYdKyj) | 3:55 | 2022-03-31 | 2022-04-20 |
 | [HONEY \(Feat\. Crucial Star\)](https://open.spotify.com/track/2Lt1ZRU6nFY88vw24GdYLy) | [Chawoo](https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR), [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [HONEY](https://open.spotify.com/album/13G1o00M2cXesfbhj8p8H2) | 3:47 | 2021-12-10 |  |
 | [Hope You're Ruined \(Piano Ver.\)](https://open.spotify.com/track/5rRW7ODPgCmIAekrEnvEJM) | [KISSXS](https://open.spotify.com/artist/2WaoJEyJIJ08YWyu7IJAOI) | [K1SSES](https://open.spotify.com/album/7LPERZvWElTKYMB8UQXBsr) | 2:55 | 2022-03-31 | 2022-04-16 |
-| [Hospital](https://open.spotify.com/track/3TUJnv0USMSgUPtCHABe56) | [saram tto saram](https://open.spotify.com/artist/4khhm4gbowkhdIbNWxWXgT) | [the adult world](https://open.spotify.com/album/13V7PnYmzy7WWi1gIO2Cgj) | 3:19 | 2024-09-04 |  |
+| [Hospital](https://open.spotify.com/track/3TUJnv0USMSgUPtCHABe56) | [saram tto saram](https://open.spotify.com/artist/4khhm4gbowkhdIbNWxWXgT) | [the adult world](https://open.spotify.com/album/13V7PnYmzy7WWi1gIO2Cgj) | 3:19 | 2024-09-04 | 2024-09-18 |
 | [Hotels on the moon](https://open.spotify.com/track/39coYcIduCaqxFzq3LDYt3) | [Collective Arts](https://open.spotify.com/artist/2wqU6s6XzEQBmbVNvo8HRM), [citygodok](https://open.spotify.com/artist/61oCeImNWjf4x7hWo5NWEr) | [STORY\#20](https://open.spotify.com/album/5uelqrTP8JFBoweWwPY4tv) | 2:35 | 2022-06-18 | 2022-07-05 |
 | [how do i](https://open.spotify.com/track/0RNXXh47lufWmSro2CbsQh) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [bandages](https://open.spotify.com/album/1UZLvFGY6S1xSZJ8wnhnZW) | 3:34 | 2021-12-10 | 2022-07-28 |
 | [How Is Your Night](https://open.spotify.com/track/0b3gVNccZdoCLUZ4Dzaase) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [O\_ne](https://open.spotify.com/album/0fbVHkoxzHbm6RDa9IOUGC) | 4:23 | 2021-12-10 | 2022-07-29 |
@@ -180,7 +180,7 @@
 | [I know](https://open.spotify.com/track/64EESXEXKE7Tn664PvTXR3) | [Ants](https://open.spotify.com/artist/0VyTbC31dnoiKg02B3PQaL) | [From\. Ants](https://open.spotify.com/album/0iRidimS5YNDgVCNYi44Ll) | 3:41 | 2022-03-31 | 2022-04-17 |
 | [I Miss You](https://open.spotify.com/track/3UmMsNGBhI8tETHEPTEDmX) | [BBAhn](https://open.spotify.com/artist/3WAl6fRK6T9akrM3Cdl4ki) | [I Miss You](https://open.spotify.com/album/63FplSftSgYczV6JYb3Xw7) | 3:17 | 2022-03-31 | 2022-04-10 |
 | [I Miss You](https://open.spotify.com/track/0nF3xRy0k9fxRoi3OliAdW) | [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [I Miss You](https://open.spotify.com/album/11jHxIFQPqV7Y0hKxjc4TC) | 3:24 | 2021-12-10 | 2022-07-11 |
-| [I really like you](https://open.spotify.com/track/4FWhWkLAXTxhe8FRFYNFou) | [Seen Hyun Hee](https://open.spotify.com/artist/3vd412swJreRPEn4cyirZQ) | [I really like you](https://open.spotify.com/album/2C95lPgwGprKSlHYSiBZPG) | 4:11 | 2024-09-13 |  |
+| [I really like you](https://open.spotify.com/track/4FWhWkLAXTxhe8FRFYNFou) | [Seen Hyun Hee](https://open.spotify.com/artist/3vd412swJreRPEn4cyirZQ) | [I really like you](https://open.spotify.com/album/2C95lPgwGprKSlHYSiBZPG) | 4:11 | 2024-09-13 | 2024-09-18 |
 | [I said](https://open.spotify.com/track/0OqIypFPfrwEqyTsVVwboN) | [FR:EDEN](https://open.spotify.com/artist/6psIuXSnGPGKY93Wcj1qeW) | [ENTP](https://open.spotify.com/album/3CVo9XNjQnuNI0cBHfAhBY) | 2:54 | 2022-01-13 | 2022-06-07 |
 | [I said I love you](https://open.spotify.com/track/6o8LGsALvRgiaGdHsh6Uy1) | [WOO JEE WON](https://open.spotify.com/artist/073SnC1tmMizW8NO0qbCLU) | [Homeground](https://open.spotify.com/album/3S4IGPlVVFQlZKes6duYVZ) | 3:55 | 2023-11-03 | 2023-11-10 |
 | [I Wanna Be With You](https://open.spotify.com/track/4BRllgokpqghTc6b52mDMa) | [kimujoo](https://open.spotify.com/artist/73uqvuVKEZuS1oWupN2Btf) | [When I'm With You](https://open.spotify.com/album/08tAEJdZVHvS1I9RzZZaxp) | 3:24 | 2022-01-13 | 2022-06-12 |
@@ -214,6 +214,7 @@
 | [Inside](https://open.spotify.com/track/3SVvPN9zqICAetI0g9x5SN) | [KYUL](https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm) | [Inside](https://open.spotify.com/album/2jVzlkR05AEAzBAGdv1C4G) | 2:48 | 2022-03-31 | 2022-04-12 |
 | [invisible](https://open.spotify.com/track/7a3FZTbMXhvBHPK1gpA03u) | [HOHYUN](https://open.spotify.com/artist/15QTZYWWbRmiII0wpKIAmu) | [invisible](https://open.spotify.com/album/1aG1R1Q706NZOhXVd4ZWSM) | 4:14 | 2022-03-31 | 2022-04-11 |
 | [Is you](https://open.spotify.com/track/36HZ2Z3rvP3i4YFB5tUjY9) | [Jay chang](https://open.spotify.com/artist/7H2xroGGrPmbmHtwBOZyLT) | [Is you](https://open.spotify.com/album/7y8QDramTNvHWnbFANijH1) | 3:51 | 2022-02-10 | 2022-05-28 |
+| [It is what it is...](https://open.spotify.com/track/3H2RJlhKLW5vWY37zJ5MF2) | [YdBB](https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y), [Charming Jo](https://open.spotify.com/artist/2WD3kpF4RQRNucwkuHhKZo) | [It is what it is...](https://open.spotify.com/album/5BcEPVheofscMIjxJ5ZKMO) | 2:18 | 2024-09-18 |  |
 | [It's Love](https://open.spotify.com/track/5orHjvcyt71Sv1O4M1GSHf) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 3:57 | 2022-04-12 | 2023-09-20 |
 | [It’s Okay To Cry](https://open.spotify.com/track/5JxWTxU8trBOfLmeHReKHZ) | [LIM HEON IL](https://open.spotify.com/artist/1NaPFRqmf4eMTGfIR3eXwR), [Jeon Jin Hee](https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg) | [It’s Okay To Cry](https://open.spotify.com/album/3fcD3HSeakYnWjFc1wNoXy) | 4:26 | 2022-03-31 | 2022-04-09 |
 | [It′s You](https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [It′s You](https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC) | 3:13 | 2021-12-10 |  |
@@ -309,6 +310,7 @@
 | [Only You \(My love X CHEEZE\)](https://open.spotify.com/track/5PR7KeW3YOmGYVQcfMGyln) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Only You \(My love X CHEEZE\)](https://open.spotify.com/album/0tcoDdwZLT3fZssyMMn45r) | 3:13 | 2023-07-01 | 2023-07-20 |
 | [Ordinary Confession](https://open.spotify.com/track/6JIm38KbaDGfi65VGETDi9) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Ordinary Confession](https://open.spotify.com/album/45oQjPValwYlPUeOQKUd68) | 3:48 | 2023-05-09 | 2024-09-03 |
 | [Ordinary life](https://open.spotify.com/track/5Ivx0LkXUVGSybJgPXwQNE) | [IGWI](https://open.spotify.com/artist/4whp4PfaJKVotmQSuMlO4U) | [Ordinary life](https://open.spotify.com/album/6oTKzZ9cRz3xgAcbPRV3fT) | 4:06 | 2022-03-31 | 2022-04-16 |
+| [Our Days](https://open.spotify.com/track/1ts0mW7JtSKIyBZhEE6ekC) | [Baek A](https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx) | [Our Days \(Better Days X BaekA\)](https://open.spotify.com/album/5bKPyn2T27FE1sssGKUZWW) | 4:14 | 2024-09-18 |  |
 | [Our Forgiveness](https://open.spotify.com/track/6xVlRWDlQDna2yVCwOPE30) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Our Forgiveness](https://open.spotify.com/album/1K8aYJrq8a8WiwNniSuzrw) | 3:19 | 2022-09-05 | 2022-09-28 |
 | [our last winter 그게 우리의 마지막인 줄 알았다면 \(With Sung youngjoo\)](https://open.spotify.com/track/1AHQmB0Q7BpayL8YBanihL) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Seong Young Joo](https://open.spotify.com/artist/1rwgkN9FIOpXgzSOYAE0Nt) | [our last winter 그게 우리의 마지막인 줄 알았다면 \(With Sung youngjoo\)](https://open.spotify.com/album/5M518nxUKbUCvKIdaWujpc) | 3:59 | 2022-03-31 | 2022-04-19 |
 | [Our Road](https://open.spotify.com/track/20xuppDWJjs0KO7XWPhkWo) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Jirisan \(Original Television Soundtrack\) Pt\. 7](https://open.spotify.com/album/0rKLZ5eZFuyezfbkJeza3l) | 3:41 | 2021-12-10 | 2022-04-21 |

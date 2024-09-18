@@ -682,7 +682,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 269855,
       "name": "Calling Chirutha",
       "url": "https://open.spotify.com/track/67KpWVDRDc4LLUq7LCFMDr"
@@ -2854,7 +2854,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 190616,
       "name": "Nerattam",
       "url": "https://open.spotify.com/track/3CxbVu9oHMfHovXkEM26ES"
@@ -3360,6 +3360,24 @@
       "duration_ms": 192000,
       "name": "Panimathi",
       "url": "https://open.spotify.com/track/5ZyK3ukvDuLooLNY0ZHd0k"
+    },
+    {
+      "album": {
+        "name": "Panimathimukhi - Anilatharala",
+        "url": "https://open.spotify.com/album/3vgsy4uegWGgMfCduSThw9"
+      },
+      "artists": [
+        {
+          "name": "Ashwathi Hari",
+          "url": "https://open.spotify.com/artist/18Huo8X4RsqJ2WHHA7ha2Y"
+        }
+      ],
+      "date_added": "2024-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270239,
+      "name": "Panimathimukhi - Anilatharala",
+      "url": "https://open.spotify.com/track/1voUJLt8701cO62ecgIG6h"
     },
     {
       "album": {

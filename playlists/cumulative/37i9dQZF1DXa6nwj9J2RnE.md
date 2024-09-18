@@ -4,7 +4,7 @@
 
 > edgy en met karakter\. cover: YVES
 
-152 songs - 8 hr 8 min
+153 songs - 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Liar](https://open.spotify.com/track/4bBqtW6tslUJbzmEIKhjhq) | [Boy Bianchi](https://open.spotify.com/artist/2IZEwFhlEXMsBCyC4FbtC6) | [Restless](https://open.spotify.com/album/4szdNUevCiLlpj5BKdZrFd) | 3:54 | 2023-06-23 | 2023-09-01 |
 | [Lila](https://open.spotify.com/track/7KEYsxeFYN0ruMY6sGNdtf) | [Amy Root](https://open.spotify.com/artist/25BkQ40MvbdCyNbX8DJd73), [Wytiki](https://open.spotify.com/artist/0mzWYuMGJz6vrtg78cP7O4), [VAAGUE](https://open.spotify.com/artist/4P0mtkvvIWdZn9mNsKXTDs) | [Mirrors](https://open.spotify.com/album/7L161NHfeg5E3dHOvr5GZ0) | 4:17 | 2023-05-11 | 2024-07-27 |
 | [Little Girl](https://open.spotify.com/track/78JPkgiUKtPk16rgVwzwId) | [Luna Morgenstern](https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh) | [Little Girl](https://open.spotify.com/album/1RYifRrTMcLIrGKOxTyt6N) | 2:49 | 2023-02-23 | 2024-01-30 |
-| [Little Time](https://open.spotify.com/track/1WaQsiZuSKdjVx0NTrnpOX) | [Noha Saré](https://open.spotify.com/artist/2r3TXsrjx7eICwgL0Bk2l7) | [Little Time](https://open.spotify.com/album/3ejpXw3IeeMoaTTgm0KIoA) | 3:37 | 2023-08-31 |  |
+| [Little Time](https://open.spotify.com/track/1WaQsiZuSKdjVx0NTrnpOX) | [Noha Saré](https://open.spotify.com/artist/2r3TXsrjx7eICwgL0Bk2l7) | [Little Time](https://open.spotify.com/album/3ejpXw3IeeMoaTTgm0KIoA) | 3:37 | 2023-08-31 | 2024-09-18 |
 | [Longing](https://open.spotify.com/track/2U7WtnPe5yrL8Om5Ml6P3v) | [Wynnm](https://open.spotify.com/artist/5OKbhPqXR4Xve2CSXW4T5K) | [Longing](https://open.spotify.com/album/5sqMOHMgo59ybNc2XXuoM8) | 3:14 | 2023-02-23 | 2024-05-10 |
 | [Lost in a Dream](https://open.spotify.com/track/1BMKskvvqRdE6HfGcj8XbG) | [Gita Buhari](https://open.spotify.com/artist/24BUyCLuFoyt6qsfespK0D), [Fabrik](https://open.spotify.com/artist/0Tf7on9sUYYHevISgz3phb) | [Lost in a Dream](https://open.spotify.com/album/7JAvvJn4k4F9eD2czSDQUp) | 3:19 | 2023-02-23 | 2023-05-27 |
 | [M.I.A.](https://open.spotify.com/track/2k72CgD12K29xCHQrA9ToC) | [Jacin Trill](https://open.spotify.com/artist/4hKoG9QvxsFDLIntc6tZ0g) | [M.I.A.](https://open.spotify.com/album/50E2n5rDpO1uALeezN5M2W) | 2:07 | 2023-02-23 | 2023-04-01 |
@@ -103,7 +103,7 @@
 | [Pelechian](https://open.spotify.com/track/2txPrKoY55bOdb7eO0dxVz) | [Thomas Azier](https://open.spotify.com/artist/6AE7CSJUwDMnTXV4yKVLLv) | [Pelechian](https://open.spotify.com/album/4AlsQL5uhfmbH7uKQvZx4g) | 2:34 | 2023-02-23 | 2024-03-08 |
 | [PRADA STELEN](https://open.spotify.com/track/3KRNIDpr9CVCJ3ai2OGUlG) | [Abel](https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0), [IJSLAND](https://open.spotify.com/artist/6qldO9Y7hb0qI9J50uR1zW) | [IJSLAND](https://open.spotify.com/album/3Rqpc58WsgqBIDG3KVMiNB) | 3:11 | 2024-06-21 | 2024-09-10 |
 | [round and round](https://open.spotify.com/track/4trRNTD2vikuHOb0mJPWXe) | [DEHAZE](https://open.spotify.com/artist/3lFS8jJTgqYqETcnc8rpF4) | [round and round](https://open.spotify.com/album/0jkKfyJLmkKmCGYoo4GA7c) | 3:22 | 2024-03-28 |  |
-| [Safari](https://open.spotify.com/track/63m0FSZlrlvZsw4NqC2ZJA) | [YVES](https://open.spotify.com/artist/4QjFiRcZUcXUppYUR29MuQ), [SHY](https://open.spotify.com/artist/3fF2BjyWjC59uxRfpuqXMt) | [Safari](https://open.spotify.com/album/6Ls71z8Zwbzw6zMwxWkv2a) | 3:06 | 2024-09-12 |  |
+| [Safari](https://open.spotify.com/track/63m0FSZlrlvZsw4NqC2ZJA) | [YVES](https://open.spotify.com/artist/4QjFiRcZUcXUppYUR29MuQ), [SHY](https://open.spotify.com/artist/0csylernbj0z7TB0WabTBb) | [Safari](https://open.spotify.com/album/6Ls71z8Zwbzw6zMwxWkv2a) | 3:06 | 2024-09-12 |  |
 | [Same Room](https://open.spotify.com/track/50tVoG8Nxgm306HKSiwYZV) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [UI](https://open.spotify.com/album/27cG0rL8gIm1yQekB8ibjL) | 3:22 | 2023-02-23 | 2024-02-03 |
 | [Same Room](https://open.spotify.com/track/7JKcsNXSjFVKtA6YT7BNGZ) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [Cool Party](https://open.spotify.com/album/1G0VH29venEyfSgCtMddwo) | 3:22 | 2024-01-29 | 2024-03-08 |
 | [Scheef](https://open.spotify.com/track/2vMHhWv9bIS2IpVcwALlKZ) | [THYRZA](https://open.spotify.com/artist/6Y0fFuFrEgAyOD2eIMwUX5) | [Scheef](https://open.spotify.com/album/3KwnniiGH4XmOs5FQgIoSp) | 3:16 | 2023-05-25 | 2024-06-01 |
@@ -139,6 +139,7 @@
 | [Vallen](https://open.spotify.com/track/41eqyX8AkVLck2y8WE3y5j) | [Emilia Mabel](https://open.spotify.com/artist/5ui9cV71wlarlXk0uKYWVV) | [Vallen](https://open.spotify.com/album/5yjHp3FxUjwGgb6MWQHDFW) | 3:02 | 2023-02-23 | 2023-06-09 |
 | [Vanavond](https://open.spotify.com/track/5bNXaDNh0p6qQk1CWs9tVO) | [Gianski](https://open.spotify.com/artist/1tC6NRB6c1mVgV4xrqrOgy) | [Vanavond](https://open.spotify.com/album/5PpFQHdoDf04BYHH29Rtwy) | 2:34 | 2023-02-23 | 2024-05-10 |
 | [VERFBOMMENVERF](https://open.spotify.com/track/5a8XU0IawHs3qtkET6LiK0) | [Abel](https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ) | [VERFBOMMENVERF](https://open.spotify.com/album/7aKZV7ORfgsplHnJfchgTf) | 2:30 | 2023-05-25 | 2024-06-26 |
+| [Vergeet Jou Niet \(feat\. Wally\)](https://open.spotify.com/track/648kXsKKtNVzzZeQiTAjQg) | [Amèl](https://open.spotify.com/artist/2dl0KJ2w556Fc4IdSqyECG), [Jeroen Antoine](https://open.spotify.com/artist/7u1t7bEnCzS3tWMNNu7QgO), [Wally](https://open.spotify.com/artist/5sKJpW8V9gGDpLIaBYbr8x) | [Vergeet Jou Niet \(feat\. Wally\)](https://open.spotify.com/album/0BOxEoEM87IXA7Pw0XTIcz) | 3:52 | 2024-09-17 |  |
 | [Verloren Tijd](https://open.spotify.com/track/4M8HWpd7FGfbyOpVmlwX4n) | [Q'n](https://open.spotify.com/artist/6yPGLxm15IemtRMvXbnHTM) | [Verloren Tijd](https://open.spotify.com/album/24oUDWENsdExX80f3CClSJ) | 3:46 | 2023-02-23 | 2023-03-18 |
 | [Vijver](https://open.spotify.com/track/0nxo2TJxgC0hd8wMvlzXon) | [Wolfskers](https://open.spotify.com/artist/3DGVNPZVfaueCYe9OP9I1M) | [Vijver](https://open.spotify.com/album/10i1NxqMsxbSPqjosPb6AG) | 3:20 | 2023-06-23 | 2024-06-14 |
 | [Voor Mij](https://open.spotify.com/track/7pzkGhxM5Y99vKROli3Tpc) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK), [Jiggy Djé](https://open.spotify.com/artist/2deAwJr19wfxpqJ5duZyk1) | [Bae Doven No\. 3](https://open.spotify.com/album/778dqDSQrBMxfBiGjiiLfE) | 3:35 | 2023-02-23 | 2023-06-09 |

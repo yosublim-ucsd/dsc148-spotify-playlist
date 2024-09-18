@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Paulo Londra, Luck Ra, Valentino Merlo
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,554 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,602 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Princesa](https://open.spotify.com/track/1db75lVrSgDFZI1gZh8JlV) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [Princesa](https://open.spotify.com/album/7rd2Pb6dBQvrzgbJU3ihpC) | 2:46 |
 | 2 | [REPETIMOS](https://open.spotify.com/track/6fd06SYRA9Fj8oFUhiOFvh) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB), [Yotuel](https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [REPETIMOS](https://open.spotify.com/album/7219pqifUvqNOYNsYtgoeD) | 3:16 |
 | 3 | [La Pena](https://open.spotify.com/track/1ixyB5FPbpXJQGRG4jSIdK) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [La Pena](https://open.spotify.com/album/5AZrYlE2IghdBW9MZsA9Zu) | 2:02 |
-| 4 | [El Beso de la Ciguatera \- Radio Edit](https://open.spotify.com/track/0bDxHrZiaRWgRjGDPFq2uA) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [El Beso de la Ciguatera \- Radio Edit](https://open.spotify.com/album/5Iyrbe0cT9FBKGNPuDU1jZ) | 2:42 |
+| 4 | [El Beso de la Ciguatera \- Radio Edit](https://open.spotify.com/track/0bDxHrZiaRWgRjGDPFq2uA) | [Yas Cepeda](https://open.spotify.com/artist/0QJLIqgHuWkj89BqRArjRP), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [El Beso de la Ciguatera \(Radio Edit\)](https://open.spotify.com/album/5Iyrbe0cT9FBKGNPuDU1jZ) | 2:42 |
 | 5 | [Me tocó perder](https://open.spotify.com/track/42bWLJQt6LX3dk28o9i7QK) | [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Me tocó perder](https://open.spotify.com/album/5KT2qIb8oaHLzOrtboZi5x) | 2:06 |
 | 6 | [En la cara \- En Vivo](https://open.spotify.com/track/4buQ1OSw1JwfU2Qj9Cq2MY) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y), [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0) | [En la cara \- En Vivo](https://open.spotify.com/album/3LDA9nD7K36cegTBBWumuE) | 2:57 |
 | 7 | [Sistema](https://open.spotify.com/track/0mcdl5mY8qvOxk7pqLyv8v) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Sistema](https://open.spotify.com/album/53C2m73R5MYy2b4KfHvmC5) | 2:53 |

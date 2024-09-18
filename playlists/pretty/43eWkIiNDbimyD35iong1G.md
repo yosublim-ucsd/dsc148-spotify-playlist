@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/43eWkIiNDbimyD35iong1G.md) - [plain]
 
 > Celebrate your wedding with over 100 favorite love songs perfect for dancing at the reception party, saying your vows, walking down the aisle, and the romantic first dance❤️
 
-[Topsify US](https://open.spotify.com/user/warnermusicus) - 120,545 likes - 131 songs - 7 hr 52 min
+[Topsify US](https://open.spotify.com/user/warnermusicus) - 120,617 likes - 131 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/43eWkIiNDbimyD35iong1G.md) - [plain]
 | 86 | [You Bet Your Sweet, Sweet Love](https://open.spotify.com/track/08uko64fCznlv7h4YYKJyD) | [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et) | [Wedding Songs](https://open.spotify.com/album/55aDarji66T5sb3cWEpDWS) | 4:38 |
 | 87 | [Believe](https://open.spotify.com/track/12151UpTnGBWrpgJ8b8jmg) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Wedding Songs](https://open.spotify.com/album/55aDarji66T5sb3cWEpDWS) | 3:58 |
 | 88 | [Never Gonna Give You Up](https://open.spotify.com/track/4uLU6hMCjMI75M1A2tKUQC) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Whenever You Need Somebody](https://open.spotify.com/album/6N9PS4QXF1D0OWPk0Sxtb4) | 3:33 |
-| 89 | [Let's Dance \- Single Version, 2014 Remaster](https://open.spotify.com/track/36umtbUVPKxlgJzKcrQIwI) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Nothing Has Changed \(The Best of David Bowie\) \- Deluxe Edition](https://open.spotify.com/album/5CeaUy7mAbMw3nMI3ezmie) | 4:08 |
+| 89 | [Let's Dance \- Single Version, 2014 Remaster](https://open.spotify.com/track/36umtbUVPKxlgJzKcrQIwI) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Nothing Has Changed \(The Best of David Bowie\) \[Deluxe Edition\]](https://open.spotify.com/album/5CeaUy7mAbMw3nMI3ezmie) | 4:08 |
 | 90 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 |
 | 91 | [The Best \- Edit](https://open.spotify.com/track/5nenaH7uVgLOGnFakPxHAw) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Wedding Songs](https://open.spotify.com/album/55aDarji66T5sb3cWEpDWS) | 4:10 |
 | 92 | [About Damn Time](https://open.spotify.com/track/0WAZjg3J6VavTvnCCCa3sY) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Viral Hits: Rewind](https://open.spotify.com/album/0In57J2lQkZVXSkFTmzuut) | 3:11 |

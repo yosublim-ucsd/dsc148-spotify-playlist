@@ -1,12 +1,12 @@
 {
-  "description": "This is The White Stripes. The essential tracks, all in one playlist.",
-  "num_followers": 114536,
+  "description": "This is The White Stripes. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 114572,
   "original_name": "This Is The White Stripes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuYjgAAAAAD888+3uB5bVFdMLcM9sNqf",
+  "snapshot_id": "Zud1AAAAAADFHAPuv5WdCXTBC9pHI0lK",
   "tracks": [
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Party of Special Things to Do",
-        "url": "https://open.spotify.com/album/5fXunSrJYG8SNGKeGrHZ6U"
+        "name": "White Blood Cells",
+        "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 170133,
-      "name": "Party of Special Things to Do",
-      "url": "https://open.spotify.com/track/18bpRIiJ9dOYBSxgpaJItO"
+      "duration_ms": 186240,
+      "name": "Offend In Every Way",
+      "url": "https://open.spotify.com/track/1nO9QTV0ifjpleS2NDypin"
     },
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "White Blood Cells",
-        "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
+        "name": "Party of Special Things to Do",
+        "url": "https://open.spotify.com/album/5fXunSrJYG8SNGKeGrHZ6U"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 186240,
-      "name": "Offend In Every Way",
-      "url": "https://open.spotify.com/track/1nO9QTV0ifjpleS2NDypin"
+      "duration_ms": 170133,
+      "name": "Party of Special Things to Do",
+      "url": "https://open.spotify.com/track/18bpRIiJ9dOYBSxgpaJItO"
     },
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 114360,
-      "name": "When I Hear My Name",
-      "url": "https://open.spotify.com/track/6MIo2NS5cx125JqauDiFvP"
+      "duration_ms": 193693,
+      "name": "One More Cup of Coffee",
+      "url": "https://open.spotify.com/track/5xaDPU9lS1ZdaIdTiIuUI6"
     },
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 193693,
-      "name": "One More Cup of Coffee",
-      "url": "https://open.spotify.com/track/5xaDPU9lS1ZdaIdTiIuUI6"
+      "duration_ms": 114360,
+      "name": "When I Hear My Name",
+      "url": "https://open.spotify.com/track/6MIo2NS5cx125JqauDiFvP"
     },
     {
       "added_at": null,

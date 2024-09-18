@@ -655,6 +655,28 @@
     },
     {
       "album": {
+        "name": "It is what it is...",
+        "url": "https://open.spotify.com/album/5BcEPVheofscMIjxJ5ZKMO"
+      },
+      "artists": [
+        {
+          "name": "YdBB",
+          "url": "https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y"
+        },
+        {
+          "name": "Charming Jo",
+          "url": "https://open.spotify.com/artist/2WD3kpF4RQRNucwkuHhKZo"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138225,
+      "name": "It is what it is...",
+      "url": "https://open.spotify.com/track/3H2RJlhKLW5vWY37zJ5MF2"
+    },
+    {
+      "album": {
         "name": "BLEACHED",
         "url": "https://open.spotify.com/album/1xREcRvJFgP1rJMfRvh2aI"
       },

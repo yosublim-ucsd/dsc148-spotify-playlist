@@ -6096,7 +6096,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 129604,
       "name": "Another Wednesday",
       "url": "https://open.spotify.com/track/4RkxM3lyTA12J8LfFNBZ3w"
@@ -32806,6 +32806,32 @@
     {
       "album": {
         "name": "Drifting",
+        "url": "https://open.spotify.com/album/0ti1e5rTEzrzxqR5lXftEg"
+      },
+      "artists": [
+        {
+          "name": "Skeptika",
+          "url": "https://open.spotify.com/artist/34yxdeDhSnUVmM0DZcExpT"
+        },
+        {
+          "name": "wavvzz",
+          "url": "https://open.spotify.com/artist/33tg0cH66APhaWirPjOXEu"
+        },
+        {
+          "name": "Baen Mow",
+          "url": "https://open.spotify.com/artist/2mt3wR9B4tg9KXvICFYhqM"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129156,
+      "name": "Drifting",
+      "url": "https://open.spotify.com/track/0CCvZTfKcwHvC1oiNqfxrJ"
+    },
+    {
+      "album": {
+        "name": "Drifting",
         "url": "https://open.spotify.com/album/6DcxYurBD5nZRqlYmw0lRB"
       },
       "artists": [
@@ -57935,6 +57961,24 @@
     },
     {
       "album": {
+        "name": "Isular",
+        "url": "https://open.spotify.com/album/3S8ysn8QU1zPA1XkzFNzIA"
+      },
+      "artists": [
+        {
+          "name": "lorleaf",
+          "url": "https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92841,
+      "name": "Isular",
+      "url": "https://open.spotify.com/track/1XzURP8Kqghwdzw1Q3aABz"
+    },
+    {
+      "album": {
         "name": "It hasn't rained in like this in years",
         "url": "https://open.spotify.com/album/2KFQ1RLysJsdKvG2XBk0Hz"
       },
@@ -72884,7 +72928,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 153623,
       "name": "Melter",
       "url": "https://open.spotify.com/track/5HoXyhnvk6Y0kXCXVDbMKQ"
@@ -72902,7 +72946,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 123286,
       "name": "Melting",
       "url": "https://open.spotify.com/track/4QvdOlz6E05lpdtTvS9ZaT"
@@ -125488,6 +125532,24 @@
       "duration_ms": 139624,
       "name": "upah-upah",
       "url": "https://open.spotify.com/track/3b9qWdL1VIppZ8p4lNoPdZ"
+    },
+    {
+      "album": {
+        "name": "Upfront",
+        "url": "https://open.spotify.com/album/1D8b1BsrDvQ3HsFXk6p7ed"
+      },
+      "artists": [
+        {
+          "name": "Korey Wade",
+          "url": "https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Upfront",
+      "url": "https://open.spotify.com/track/2V9Z7zw3B3zCmmdHc8Cg8d"
     },
     {
       "album": {

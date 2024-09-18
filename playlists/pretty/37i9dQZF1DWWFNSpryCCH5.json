@@ -1,6 +1,6 @@
 {
   "description": "Revive aquellas grandes canciones desenchufadas.",
-  "num_followers": 1073857,
+  "num_followers": 1073878,
   "original_name": "Grandes Unplugged",
   "owner": {
     "name": "Spotify",
@@ -619,6 +619,22 @@
     {
       "added_at": "2021-02-10 21:16:07",
       "album": {
+        "name": "Los Tres MTV Unplugged",
+        "url": "https://open.spotify.com/album/5gbgCfKWGatY7WWDKcoGnW"
+      },
+      "artists": [
+        {
+          "name": "Los Tres",
+          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
+        }
+      ],
+      "duration_ms": 278066,
+      "name": "He Barrido el Sol - Unplugged Version",
+      "url": "https://open.spotify.com/track/4kEC1SCVFZkAccbN3NyjQz"
+    },
+    {
+      "added_at": "2021-02-10 21:16:07",
+      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/7HUFiEGHoty4bhJetqJa3h"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 313400,
       "name": "Hit Me - MTV Unplugged",
       "url": "https://open.spotify.com/track/3vKCtmzGnf87XsILKozKVX"
-    },
-    {
-      "added_at": "2021-02-10 21:16:07",
-      "album": {
-        "name": "Los Tres MTV Unplugged",
-        "url": "https://open.spotify.com/album/5gbgCfKWGatY7WWDKcoGnW"
-      },
-      "artists": [
-        {
-          "name": "Los Tres",
-          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
-        }
-      ],
-      "duration_ms": 278066,
-      "name": "He Barrido el Sol - Unplugged Version",
-      "url": "https://open.spotify.com/track/4kEC1SCVFZkAccbN3NyjQz"
     },
     {
       "added_at": "2021-02-10 21:16:07",

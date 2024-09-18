@@ -4,7 +4,7 @@
 
 > The label's essential tracks by Drake, PARTYNEXTDOOR, Naomi Sharon and more.
 
-242 songs - 15 hr 0 min
+243 songs - 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Her](https://open.spotify.com/track/4Wfe2jloKo95eFVnJEr5N1) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [A Place Like This](https://open.spotify.com/album/1iMD6TkaGBK3tYuD7hi16A) | 5:00 | 2023-06-01 | 2023-09-19 |
 | [Hotline Bling](https://open.spotify.com/track/0wwPcA6wtMf6HUMpIRdeP7) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 4:27 | 2023-06-01 | 2024-06-26 |
 | [Housekeeping Knows \(feat\. Latto\)](https://open.spotify.com/track/3YPEtDvQWStCH8eCq0Fl8Z) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [100 GIGS](https://open.spotify.com/album/5oT8PMXGWiPlhcl930fkII) | 3:06 | 2024-09-06 |  |
-| [How Far](https://open.spotify.com/track/6kjnlhXczcp4txznHhAEsD) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR) | [I Did What I Did](https://open.spotify.com/album/5KqCDDQsxLCHcgwlZ6UR1p) | 1:44 | 2024-06-25 |  |
+| [How Far](https://open.spotify.com/track/6kjnlhXczcp4txznHhAEsD) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR) | [I Did What I Did](https://open.spotify.com/album/5KqCDDQsxLCHcgwlZ6UR1p) | 1:44 | 2024-06-25 | 2024-09-18 |
 | [I Am Who I Am](https://open.spotify.com/track/4XkfMJCouzBbIXYYmA9B9m) | [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU) | [I Am Who I Am](https://open.spotify.com/album/6725TSXWsKWvwXEMV5V5e3) | 3:09 | 2023-06-01 | 2024-03-18 |
 | [I Believed It \(feat\. Mac Miller\)](https://open.spotify.com/track/2S443LbscYVkdv9LDUJlBn) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Cheers to the Best Memories](https://open.spotify.com/album/15D9ut0TGWReBDq4YRQoZA) | 4:06 | 2024-06-25 |  |
 | [IDGAF \(feat\. Yeat\)](https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:20 | 2023-10-16 |  |
@@ -130,6 +130,7 @@
 | [Long Nights](https://open.spotify.com/track/0QnyUB7rJhWLEEDgcT7i8g) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR) | [Long Nights](https://open.spotify.com/album/6cVwRJ0ttMRnCIWzY8zr9D) | 2:39 | 2023-07-25 |  |
 | [LOYAL \(feat\. Drake and Bad Bunny\) \- Remix](https://open.spotify.com/track/1aVut0Tb18c8BOpLGkfAhp) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [PARTYMOBILE](https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a) | 4:41 | 2023-06-01 | 2024-04-19 |
 | [LOYAL \(feat\. Drake and Bad Bunny\) \- Remix](https://open.spotify.com/track/6WGTfHSQtUcEx5vgpxTLCs) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [PARTYMOBILE](https://open.spotify.com/album/2T8UlI17u5hwTqu6zkpkW7) | 4:41 | 2024-04-12 | 2024-06-26 |
+| [M a k e I t T o T h e M o r n i n g](https://open.spotify.com/track/12VH4g5pTMZmrUVzfJq7F7) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 2:48 | 2024-09-17 |  |
 | [Major Distribution](https://open.spotify.com/track/1VtoDGE3g3P1Bh7kjn6YrC) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/41NvzpIHKpaYHKnh1bF3TN) | 2:50 | 2024-06-25 |  |
 | [Marvins Room](https://open.spotify.com/track/047fCsbO4NdmwCBn8pcUXl) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 5:47 | 2023-06-01 | 2024-04-19 |
 | [Marvins Room](https://open.spotify.com/track/2z3htsNRuhDN923ITatc56) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Take Care \(Deluxe\)](https://open.spotify.com/album/63WdJvk8G9hxJn8u5rswNh) | 5:47 | 2024-04-12 | 2024-06-26 |

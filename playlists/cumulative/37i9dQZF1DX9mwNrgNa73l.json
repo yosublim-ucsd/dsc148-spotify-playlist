@@ -659,6 +659,32 @@
     },
     {
       "album": {
+        "name": "Allah Ke Pyaare Nabi",
+        "url": "https://open.spotify.com/album/4zY0wj0LYdVETMqTuTfnFY"
+      },
+      "artists": [
+        {
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+        },
+        {
+          "name": "Richa Sharma",
+          "url": "https://open.spotify.com/artist/2hgViyN0RqyQQpfjIb0g3W"
+        },
+        {
+          "name": "Salim Merchant",
+          "url": "https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm"
+        }
+      ],
+      "date_added": "2024-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295640,
+      "name": "Allah Ke Pyaare Nabi",
+      "url": "https://open.spotify.com/track/1GIS9zEABZ38gTcj9a6nvz"
+    },
+    {
+      "album": {
         "name": "Allah Tero Naam",
         "url": "https://open.spotify.com/album/0mD0vgIJNp1LkrqESr3SGW"
       },

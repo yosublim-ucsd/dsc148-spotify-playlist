@@ -1811,6 +1811,32 @@
     },
     {
       "album": {
+        "name": "Challa Mundri",
+        "url": "https://open.spotify.com/album/6ds8vEvZ3dYIKpba384tSB"
+      },
+      "artists": [
+        {
+          "name": "Shivjot",
+          "url": "https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs"
+        },
+        {
+          "name": "The Boss",
+          "url": "https://open.spotify.com/artist/4BscBE6XCuJCR1ceYuqELH"
+        },
+        {
+          "name": "Avraj",
+          "url": "https://open.spotify.com/artist/07egKTPLN8xOxdHRHiqLB5"
+        }
+      ],
+      "date_added": "2024-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Challa Mundri",
+      "url": "https://open.spotify.com/track/10DEjukPmRRCLuinvG0mIR"
+    },
+    {
+      "album": {
         "name": "Champion",
         "url": "https://open.spotify.com/album/3TovgbjOuPxvLFXYFFCCIn"
       },
@@ -6126,7 +6152,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 190271,
       "name": "Majnoonh",
       "url": "https://open.spotify.com/track/6LpZccpdi0Hf9HpDlRn0it"
@@ -9852,6 +9878,32 @@
       "duration_ms": 135600,
       "name": "Vellian Nu Thok Ke",
       "url": "https://open.spotify.com/track/4KRqcDjAnSSlrf30THMe51"
+    },
+    {
+      "album": {
+        "name": "VELLY YAAR",
+        "url": "https://open.spotify.com/album/0Kgp2GO5az2QOHDvia9gng"
+      },
+      "artists": [
+        {
+          "name": "G Bhogal",
+          "url": "https://open.spotify.com/artist/7LDJqpnrGQmXpUxkKs5k0v"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        },
+        {
+          "name": "Mista Baaz",
+          "url": "https://open.spotify.com/artist/4WfXu0xIHhthU5Jb5x3hRq"
+        }
+      ],
+      "date_added": "2024-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154713,
+      "name": "VELLY YAAR",
+      "url": "https://open.spotify.com/track/1vUQvowuZIgEWtFMuZCpEY"
     },
     {
       "album": {

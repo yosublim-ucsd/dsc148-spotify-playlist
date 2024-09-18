@@ -1116,7 +1116,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-16",
+      "date_removed": null,
       "duration_ms": 179840,
       "name": "Come to the Land of the Argentine",
       "url": "https://open.spotify.com/track/1Wtqr2O8vAl5yfY5yYCLFx"
@@ -2854,10 +2854,28 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 206120,
       "name": "I'm Puttin' All My Eggs In One Basket",
       "url": "https://open.spotify.com/track/6wqACd2uBe7E8QDFNGMYpS"
+    },
+    {
+      "album": {
+        "name": "Blue Moon",
+        "url": "https://open.spotify.com/album/5K2vLgwzjuVSe07sDQjTbX"
+      },
+      "artists": [
+        {
+          "name": "Carmen McRae",
+          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
+        }
+      ],
+      "date_added": "2024-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141866,
+      "name": "I'm Putting All My Eggs In One Basket",
+      "url": "https://open.spotify.com/track/63OYNxGrbMgvoPFatr9X9C"
     },
     {
       "album": {
@@ -6510,7 +6528,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-15",
+      "date_removed": null,
       "duration_ms": 89746,
       "name": "They Call It Dancing",
       "url": "https://open.spotify.com/track/4YWHE8SDILJWqjn4F6XyJk"

@@ -4,7 +4,7 @@
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: GEMINI\(제미나이\)\)
 
-418 songs - 22 hr 53 min
+421 songs - 23 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Fantasy](https://open.spotify.com/track/1FUPXTw0698wKHMBElun5B) | [BAYLEE](https://open.spotify.com/artist/5VloOcSvEYe32tZhAZkgfc) | [Fantasy](https://open.spotify.com/album/6QlBmmJZzTUhfTFmRQ8bUS) | 2:48 | 2023-02-14 | 2023-08-18 |
 | [Fantasy \(feat\. Gary & ALi\)](https://open.spotify.com/track/1QOot7m7p0cDBL0Ei4qpCJ) | [Babylon](https://open.spotify.com/artist/3P16F9giedxmc5238b66bo), [GARY](https://open.spotify.com/artist/5myBH2YqzOgyWoTKCsydAi), [ALi](https://open.spotify.com/artist/62CcVzIaV3dNGEmE12YAL9) | [EGO 90'S PART 2](https://open.spotify.com/album/7zCPiOJpqtj70zmIjZIo0c) | 3:48 | 2022-12-15 | 2023-07-08 |
 | [faraway](https://open.spotify.com/track/6MysgWeikCdIVrDhPVSCZU) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [faraway](https://open.spotify.com/album/13csUC6m7mKJpmyfWG8bz8) | 3:49 | 2022-10-28 | 2023-07-08 |
+| [fault lines](https://open.spotify.com/track/5EuDxVPMn5qee0n3mnyHG1) | [b!ni](https://open.spotify.com/artist/1DfPDEvUAWsURAKZKL9JvU) | [fault lines](https://open.spotify.com/album/5nTwr9EE57mMSgJbd9GmwZ) | 2:10 | 2024-09-18 |  |
 | [FAVORITE](https://open.spotify.com/track/4sSo8hmQ1g7qt1iE1uMRDr) | [HUNJIYA](https://open.spotify.com/artist/3BX7RIMRQexSiSSshJFPzC) | [KHAMAI](https://open.spotify.com/album/0vnfG9S9NskFX5FPP1SxHR) | 3:07 | 2022-07-27 | 2023-01-14 |
 | [Fever](https://open.spotify.com/track/5nDSIB3JHYgCvZQSG1JwrV) | [Jooyoung](https://open.spotify.com/artist/1vct46rBqLNRbE9wCibXUH), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Sphere](https://open.spotify.com/album/4e9WFFgUKF98b0JKokADNX) | 3:00 | 2024-01-26 | 2024-05-28 |
 | [Film \(Feat\. Woshi\)](https://open.spotify.com/track/7apLdgVlb0oNefPZ4v1NOY) | [JOPH](https://open.spotify.com/artist/3Jn4TDQyolues3v10Ncj7D), [Woshi](https://open.spotify.com/artist/0yaXJ7iu4X7m7OS8qaOsHq) | [Film \(Feat\. Woshi\)](https://open.spotify.com/album/42ATmPhbmPJrjLsoUjKEcU) | 3:20 | 2023-01-20 | 2023-08-18 |
@@ -251,6 +252,7 @@
 | [Mileage \(Feat\. Gaeko\)](https://open.spotify.com/track/4XoEsmqX5CQ4y1xT19T92m) | [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [Mileage](https://open.spotify.com/album/5d9ateKsiHjEd3c17Yd376) | 3:04 | 2024-09-06 |  |
 | [Miles Away \(Feat\. GIRIBOY, KWACA\)](https://open.spotify.com/track/6lbTh61oYgmZZ6Hhl2jB9l) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [KWACA](https://open.spotify.com/artist/5Te248l4eDRueq73dqHFuF) | [Miles Away \(Feat\. GIRIBOY, KWACA\)](https://open.spotify.com/album/5AGq9Wwo1iDdBHPObjIuYY) | 2:35 | 2024-09-05 |  |
 | [Moebius](https://open.spotify.com/track/10QujSiWVb2ew8r1aqlbyS) | [En](https://open.spotify.com/artist/4sxk8eantzoB7SUyDlzydF) | [Moebius](https://open.spotify.com/album/712elbFWoQIhTAYEfKnCYZ) | 3:40 | 2023-01-13 | 2023-07-08 |
+| [Moon Walk](https://open.spotify.com/track/3Ophwf6lYZIL9d5VkX9D5x) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [Moon Walk](https://open.spotify.com/album/67TLxjG6p3SpZZ90AMnsg7) | 2:30 | 2024-09-18 |  |
 | [More and More](https://open.spotify.com/track/7dudDzqxkOs74CED8gXcKO) | [SOIN](https://open.spotify.com/artist/7EOsjIvg3a2dPyMW6XNn4U) | [More and More](https://open.spotify.com/album/0tAgvFyBpDkoTCbAxsu73h) | 3:18 | 2022-08-18 | 2023-01-21 |
 | [Morning Coffee](https://open.spotify.com/track/1KH1fP5NAN04rOqToDCewI) | [Odett](https://open.spotify.com/artist/093wAdPoQ0xBtB5Drjqd63) | [Morning Coffee](https://open.spotify.com/album/0WDC5MXoBXqZW9x1SohHbz) | 3:15 | 2023-06-01 | 2023-10-21 |
 | [Mother](https://open.spotify.com/track/0md3x2yZXAkXeK3Pw7Sgfh) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Mother](https://open.spotify.com/album/43g68A9Q4Xltflzp3XwfLQ) | 2:56 | 2022-05-28 | 2022-07-05 |
@@ -404,6 +406,7 @@
 | [With me](https://open.spotify.com/track/2MS6xZ1HG8Mur5AGrvuVUG) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [The Interest of Love \(Original Television Soundtrack, Pt\. 5\)](https://open.spotify.com/album/1g5n1707yYQ67EZHD8E65Q) | 3:46 | 2023-01-20 | 2023-08-18 |
 | [with you](https://open.spotify.com/track/6K8TFavarQRay2w70lPuVg) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb) | [with you](https://open.spotify.com/album/5mD1tkqkQTksb36na1ifOj) | 3:13 | 2022-05-28 | 2022-06-21 |
 | [Wondering](https://open.spotify.com/track/3g7s0ksdIltUCM82h9Zrnb) | [CHAI](https://open.spotify.com/artist/0zNxCxEjUGAsb6ygZd27fC) | [Wondering](https://open.spotify.com/album/1dY56fErmPTREtwhWN8ORI) | 4:05 | 2022-05-28 | 2022-06-15 |
+| [Woo\-Woo\-Ah\-Ah](https://open.spotify.com/track/6O5CTcegNJ4rYnT6Aleiel) | [CADEJO](https://open.spotify.com/artist/296ryPygSSpdsrZJk2x5Up) | [Woo\-Woo\-Ah\-Ah](https://open.spotify.com/album/7A3oBn1hSfPeRSDju4Xi6M) | 3:20 | 2024-09-18 |  |
 | [WORD](https://open.spotify.com/track/6lvHTbbCotiic58AA421g1) | [blessed.](https://open.spotify.com/artist/54Y80c5eEYbnlvCmIPKf6W) | [WORDS](https://open.spotify.com/album/5oGk1KUbLadVunvl2jaY6J) | 3:17 | 2024-05-14 | 2024-08-11 |
 | [Worth It](https://open.spotify.com/track/5IoVUdE0ux6eOFJh91Ys4n) | [eSNa](https://open.spotify.com/artist/2jfAd4z4B5dR7yhhwTOulQ) | [Worth It](https://open.spotify.com/album/7iGhLNqA3VgbPa9qnlUqsl) | 4:05 | 2023-02-14 | 2023-08-18 |
 | [Would You Still Love Me \(Feat\. MELOH\)](https://open.spotify.com/track/03CC9T66w6i25B8KPGcIxA) | [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk), [MELOH](https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg) | [Beginning](https://open.spotify.com/album/7D1eIygExQO5kvrCWF9mf0) | 3:40 | 2022-05-28 | 2022-07-28 |

@@ -4,7 +4,7 @@
 
 > De nieuwste Nederlandse pop! Cover: Bente & Roxeanne Hazes
 
-695 songs - 1 day 9 hr 30 min
+697 songs - 1 day 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,7 +220,8 @@
 | [Geef Me Over](https://open.spotify.com/track/6Gx4pWKnHhp7gyRDEH9N6f) | [Birgit Schuurman](https://open.spotify.com/artist/3t8YK94jSx9SebLHxsrAba) | [Geef Me Over](https://open.spotify.com/album/0Qi68mTfZhoCeAyztugCD2) | 3:26 | 2024-08-01 | 2024-08-30 |
 | [Geef Me Over](https://open.spotify.com/track/4aswIZFJRd9va6W0i7S0pO) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [Geef Me Over](https://open.spotify.com/album/2oYQVqtgq7tP7fjRgiFBNj) | 3:10 | 2024-01-04 | 2024-01-19 |
 | [Geen Afscheid](https://open.spotify.com/track/2BwUN986gM7c7IidyCP9Dr) | [Sarita Lorena](https://open.spotify.com/artist/5V9JsrZb5RjuvbzvJsA5gp) | [Geen Afscheid](https://open.spotify.com/album/4dOsneFTsRlUXPWVWrr7Ne) | 3:02 | 2024-04-11 | 2024-06-21 |
-| [Geen Manieren](https://open.spotify.com/track/2ja2I9NnS2ujZ4woWMgJI1) | [Faske](https://open.spotify.com/artist/0WCFYAsNdBO9LraOxLoHoG) | [Geen Manieren](https://open.spotify.com/album/5tKWwsmBHRwyd4BsOmRUry) | 3:11 | 2024-06-06 |  |
+| [Geen Kind Meer](https://open.spotify.com/track/5KVNPxLX6YVwmmHVjo2idf) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Beste Zangers 2024 \(Aflevering 1\- Karin Bloemen\)](https://open.spotify.com/album/3PiEas18tOEugpt9G2E201) | 3:37 | 2024-09-17 |  |
+| [Geen Manieren](https://open.spotify.com/track/2ja2I9NnS2ujZ4woWMgJI1) | [Faske](https://open.spotify.com/artist/0WCFYAsNdBO9LraOxLoHoG) | [Geen Manieren](https://open.spotify.com/album/5tKWwsmBHRwyd4BsOmRUry) | 3:11 | 2024-06-06 | 2024-09-18 |
 | [Geen Spijt](https://open.spotify.com/track/6AatDOwKjGhKeOBN6TgYUk) | [FAY](https://open.spotify.com/artist/2rYvyXWazKzVHanTL5GyCE) | [Geen Spijt](https://open.spotify.com/album/2FzO6i5P5sSGjjSt3DIuxE) | 2:31 | 2023-06-15 | 2023-09-15 |
 | [Gek Doen \(Annemijn\)](https://open.spotify.com/track/2dUuayEzxpegdZx2zdrJTF) | [Vincent Visser](https://open.spotify.com/artist/5Pt6RzzwjfVqE0TWHyK101) | [Gek Doen \(Annemijn\)](https://open.spotify.com/album/4beFwZAnElEtwVYVZEe9rX) | 2:00 | 2024-04-04 | 2024-06-01 |
 | [Gereserveerd Voor 1](https://open.spotify.com/track/7hGlPXc69sbNlRlKM19m8z) | [Giorgio Sanches](https://open.spotify.com/artist/4czBYH5Cx0BFCXixmMsgyU) | [Gereserveerd Voor 1](https://open.spotify.com/album/7JLLnJGZR2DVdj9tibkU27) | 2:43 | 2024-03-07 | 2024-05-10 |
@@ -240,6 +241,7 @@
 | [Grote Dromen, Klein Dorp](https://open.spotify.com/track/0uqEpwCl4BHilst3RZmGTV) | [Joël Domingos](https://open.spotify.com/artist/5LzkF8ZUuxdSg8BCEwrosb) | [Grote Dromen, Klein Dorp](https://open.spotify.com/album/4nbh9yi0MfNZfRgLTR66F4) | 2:21 | 2023-10-26 | 2023-11-10 |
 | [Haast](https://open.spotify.com/track/399bjhgodMuQoMkynf8rVM) | [ZWIJMEL](https://open.spotify.com/artist/7swrz956hjUaa1XUSXMdkd) | [Haast](https://open.spotify.com/album/1xXJ4D4MG5CDPqePtylf6T) | 2:44 | 2023-06-29 | 2023-09-22 |
 | [Haat Me](https://open.spotify.com/track/50ELw2DvK4J2Z02m0Vphed) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [Haat Me](https://open.spotify.com/album/6267wKbOwViwFSSz1PwuJv) | 3:35 | 2024-01-18 | 2024-04-12 |
+| [Had Dan Iets Gezegd](https://open.spotify.com/track/133yYNBvZN4qPnyqb0uVkS) | [Nienke Leone](https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46) | [Had Dan Iets Gezegd](https://open.spotify.com/album/41cYJ3gRXPpWgOmVbqRkOO) | 3:04 | 2024-09-17 |  |
 | [Had Zo Moeten Zijn](https://open.spotify.com/track/4RlFVnopFHn3ixsPo9TIqD) | [Daniel Kist](https://open.spotify.com/artist/3hcVwibmXAqkX0DIWxDVLA) | [Had Zo Moeten Zijn](https://open.spotify.com/album/1YzoABP7MyZ5SLTlmD6L2X) | 2:14 | 2024-09-12 |  |
 | [Handrem](https://open.spotify.com/track/4s72CMCZtnxbRIJPUzdC4C) | [DAVE](https://open.spotify.com/artist/1b8Wn3xSquDw84o7yJI6Jk) | [Handrem](https://open.spotify.com/album/4GuDTT55Ir0fHNa2ZRlmlb) | 2:21 | 2024-03-21 | 2024-04-12 |
 | [Harmonie](https://open.spotify.com/track/1RGseAlntVH6yD65xKi509) | [Nobu](https://open.spotify.com/artist/5yuxqGyvuCkRY8X53yVy5u) | [Harmonie](https://open.spotify.com/album/7ekoyoS7XjHdic9gqDGlxm) | 2:59 | 2024-01-18 | 2024-03-15 |
@@ -645,7 +647,7 @@
 | [Wat Als Het Lukt](https://open.spotify.com/track/0cyNDPp11HqsUH713X7WCe) | [Jasha Rudge](https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL) | [Bliksem & Donder](https://open.spotify.com/album/4eZx6Pc0j1rRJUmpdV9ThY) | 2:32 | 2023-06-15 | 2023-10-20 |
 | [Wat Blijft Er Over](https://open.spotify.com/track/6PdJ3PohDI313zycwdczFX) | [Marc Floor](https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc) | [Wat Blijft Er Over](https://open.spotify.com/album/4Vm0qRP5yCDn8DdKF1Mf2j) | 2:37 | 2024-02-08 | 2024-05-10 |
 | [Wat Doe Je Nou](https://open.spotify.com/track/2U1cBksfUvDB5YoVj0gdms) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Wat Doe Je Nou](https://open.spotify.com/album/34LFiUIgmU2Bp4YfF9CjI4) | 2:36 | 2023-02-23 | 2023-04-07 |
-| [Wat Er Ook Gebeurt](https://open.spotify.com/track/1DfvARmbKyxKZwa6Y6LQtF) | [Xerxes](https://open.spotify.com/artist/6y1vggOkn0ekeAgqG7AZKS) | [Wat Er Ook Gebeurt](https://open.spotify.com/album/68nAyxzH7dJkcsGnifgI5k) | 3:08 | 2024-06-06 |  |
+| [Wat Er Ook Gebeurt](https://open.spotify.com/track/1DfvARmbKyxKZwa6Y6LQtF) | [Xerxes](https://open.spotify.com/artist/6y1vggOkn0ekeAgqG7AZKS) | [Wat Er Ook Gebeurt](https://open.spotify.com/album/68nAyxzH7dJkcsGnifgI5k) | 3:08 | 2024-06-06 | 2024-09-18 |
 | [Wat Ik Met Je Moet](https://open.spotify.com/track/4tnR69RLKKnFHXwdoqhpLM) | [Amber Delil](https://open.spotify.com/artist/1vEHJYnp7FQ27RGabDTasf) | [Wat Ik Met Je Moet](https://open.spotify.com/album/5BnmpGWzBTpSo27O8uQCqF) | 3:00 | 2023-06-08 | 2023-09-22 |
 | [Wat Ik Ook Ga Doen](https://open.spotify.com/track/35BBNYg2fEtgYjkgJrGcg1) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Wat Ik Ook Ga Doen](https://open.spotify.com/album/4SQiHWRdAA9WfUF3tae3XY) | 2:38 | 2024-04-11 | 2024-07-27 |
 | [Wat ik Zocht](https://open.spotify.com/track/26k14Cfgd7XC3j6FeZ9SrW) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Beste Zangers 2023 \(MEAU\)](https://open.spotify.com/album/63FODmXDW9eScFLFN5dPVs) | 2:52 | 2023-10-19 | 2023-11-10 |

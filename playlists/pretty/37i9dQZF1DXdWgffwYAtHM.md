@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 
 > Podcasts que você precisa ter no RADAR\. Capa: <a href="spotify:show:08kk3SYhqXvEEH26Pc243s">Clube do Erro</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,690 likes - 9 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,691 likes - 9 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,4 +18,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 | 8 | [O JOVEM BRUXO CHAMADO NEIL GOBLE \- Histórias pra Adulto Dormir \(Som de Tempestade\)](https://open.spotify.com/episode/61iMn6OjTS2pTFYBC3ukir) | [Histórias pra adulto dormir](https://open.spotify.com/show/10naLy8QHctu1ODM0BqxEt) | [Histórias pra adulto dormir](https://open.spotify.com/album/10naLy8QHctu1ODM0BqxEt) | 15:15 |
 | 9 | [COISAS QUE IRRITAM](https://open.spotify.com/episode/2bygoBbucATKmmYha6oR6U) | [vibes em análise](https://open.spotify.com/show/42CNqtkx9yd1cIg0E6E9rL) | [vibes em análise](https://open.spotify.com/album/42CNqtkx9yd1cIg0E6E9rL) | 46:25 |
 
-Snapshot ID: `ZtXVRQAAAAABEnZPgnigNxfYIhbeHzOu`
+Snapshot ID: `ZtXVRQAAAACJ7Ntj8478RA+bS9Iinuht`

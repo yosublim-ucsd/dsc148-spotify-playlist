@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 514 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 513 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Tuka Tuka](https://open.spotify.com/track/4zlMrhh3Le1JtimQxGKt0e) | [Krisko](https://open.spotify.com/artist/4oopAFtLdKXCoq2XoEjDZD) | [Tuka Tuka](https://open.spotify.com/album/4cx5JhmWbo2REbNu2EVHBW) | 3:16 |
 | 50 | [Лош или добър](https://open.spotify.com/track/2CLzpljGsOPW7GyWyPRRP9) | [Krisko](https://open.spotify.com/artist/4oopAFtLdKXCoq2XoEjDZD) | [Лош или добър](https://open.spotify.com/album/3Pg1TLcfvKqzm2uucnozzB) | 3:12 |
 
-Snapshot ID: `LnuVwAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LnzuSAAAAAAAAAAAAAAAAAAAAAAAAGVu`

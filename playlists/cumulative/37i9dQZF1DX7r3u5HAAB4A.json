@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-08-30",
-  "description": "The many fruits of Caribbean culture under one tree. Cover:  <a href=\"spotify:artist:3IDfJpj4YVkaBl7Dd52Pxv\">Byron Messia</a>",
+  "description": "The many fruits of Caribbean culture under one tree. Cover:  <a href=\"spotify:artist:2HPaUgqeutzr3jx5a9WyDV\">PARTYNEXTDOOR</a>",
   "name": "Spice",
   "tracks": [
     {
@@ -162,6 +162,24 @@
       "duration_ms": 208903,
       "name": "Brain Freeze",
       "url": "https://open.spotify.com/track/5h7UTFQiHqJxK7lLzMnS6S"
+    },
+    {
+      "album": {
+        "name": "Bring It",
+        "url": "https://open.spotify.com/album/48WRCIKE9nz0txvGdVOnGE"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "date_added": "2024-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170763,
+      "name": "Bring It",
+      "url": "https://open.spotify.com/track/16ibXHvBc5Ahikg0qhcuVi"
     },
     {
       "album": {
@@ -420,7 +438,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 201594,
       "name": "Engine Room",
       "url": "https://open.spotify.com/track/34PxcvkeNjwzad9j08HkYC"
@@ -566,7 +584,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 137330,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/3HhdRHgiGbSH8rcGhJ0PGW"
@@ -857,6 +875,32 @@
     },
     {
       "album": {
+        "name": "Night Hawq Riddim",
+        "url": "https://open.spotify.com/album/1vaKS2D4GpoihRtGEJPwnX"
+      },
+      "artists": [
+        {
+          "name": "Jus Jay King",
+          "url": "https://open.spotify.com/artist/3RGRaqeExRfMuhsh3hVU8V"
+        },
+        {
+          "name": "Skinny Fabulous",
+          "url": "https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x"
+        },
+        {
+          "name": "Leadpipe",
+          "url": "https://open.spotify.com/artist/1AkeQ2eSrkcRQmaGGa5EAY"
+        }
+      ],
+      "date_added": "2024-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170375,
+      "name": "Not Alone",
+      "url": "https://open.spotify.com/track/1yBwSbIBJGXJGSEO9xRafp"
+    },
+    {
+      "album": {
         "name": "OUTSIDE",
         "url": "https://open.spotify.com/album/7ikYsPo0JfYjHwnSPESIvr"
       },
@@ -978,6 +1022,24 @@
       "duration_ms": 241734,
       "name": "Rebel Time",
       "url": "https://open.spotify.com/track/7tnoa5R79Bl3qa39yQSW5Q"
+    },
+    {
+      "album": {
+        "name": "Love Island Riddim",
+        "url": "https://open.spotify.com/album/58IbHZt2rtKDyrV9uHkFCq"
+      },
+      "artists": [
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        }
+      ],
+      "date_added": "2024-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209856,
+      "name": "Rose Petal",
+      "url": "https://open.spotify.com/track/1mtNAKbARp4CXxmrqvg2DU"
     },
     {
       "album": {
@@ -1200,7 +1262,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 241666,
       "name": "Tender Tender",
       "url": "https://open.spotify.com/track/6RCY2rQkUFt1LkWH5PHVtq"
@@ -1218,10 +1280,36 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 181445,
       "name": "Tequila La La La La",
       "url": "https://open.spotify.com/track/3fm7nlDQB74jy4NoPg3j57"
+    },
+    {
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/4MlNS3ebhAToBfk8KrgeIg"
+      },
+      "artists": [
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        },
+        {
+          "name": "DJ MAC",
+          "url": "https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc"
+        },
+        {
+          "name": "CrashDummy",
+          "url": "https://open.spotify.com/artist/0pyehJ4fIGvJMD8EXGLUAI"
+        }
+      ],
+      "date_added": "2024-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139248,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/6gx8SHpGPlFeHpPBl7FiMx"
     },
     {
       "album": {

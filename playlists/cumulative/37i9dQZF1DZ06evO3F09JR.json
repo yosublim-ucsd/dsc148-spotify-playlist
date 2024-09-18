@@ -500,7 +500,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 173320,
       "name": "Darkened Skies",
       "url": "https://open.spotify.com/track/1MUsuNmzi1f8KvtvkB5AI6"
@@ -1431,6 +1431,24 @@
     },
     {
       "album": {
+        "name": "Forse 2",
+        "url": "https://open.spotify.com/album/4JmAAKEYbMySw38RGe6apo"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398000,
+      "name": "Marcia",
+      "url": "https://open.spotify.com/track/4K0gtJiUge7hMLOudbc6jd"
+    },
+    {
+      "album": {
         "name": "Alessandro Cortini/Merzbow",
         "url": "https://open.spotify.com/album/1SbqO0MvsZVEnT0gVOsryU"
       },
@@ -2124,7 +2142,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 518000,
       "name": "Spettro I",
       "url": "https://open.spotify.com/track/3DG4yCO1Js4vwhpzTnzqVX"
@@ -2178,7 +2196,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-16",
+      "date_removed": null,
       "duration_ms": 448000,
       "name": "Spettro IV",
       "url": "https://open.spotify.com/track/7ayAahQbikfOt4KQ3lE9n6"
@@ -2222,7 +2240,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-09",
+      "date_removed": null,
       "duration_ms": 246773,
       "name": "Splinter Hell",
       "url": "https://open.spotify.com/track/2fANF3hLT8mIQutYbyK9uL"
@@ -2528,7 +2546,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 302834,
       "name": "VERDE",
       "url": "https://open.spotify.com/track/5ktQ1ULTNMSHFktFzxuQcl"

@@ -4,7 +4,7 @@
 
 > All the highlights from the world of indie! Cover: Albin Lee Meldau
 
-245 songs - 14 hr 4 min
+246 songs - 14 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Hum Hum](https://open.spotify.com/track/7ykt0KVowBOoMEesXLGGzQ) | [Kite](https://open.spotify.com/artist/0nhhoDCycjsJVHS8sk4vzW) | [VII](https://open.spotify.com/album/4ZTeNzwwljEbisqTq5zZlQ) | 4:18 | 2024-08-08 | 2024-09-13 |
 | [Husk](https://open.spotify.com/track/0iMSUfh4oQplV5OrmrlIbm) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Husk](https://open.spotify.com/album/13KxV6ezroXhAW7sPEG6QS) | 3:24 | 2024-09-12 |  |
 | [I Let the Good Ones Go](https://open.spotify.com/track/3Q30mwHAXv4cYoIQFiIWt8) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [A Chosen Family](https://open.spotify.com/album/5edXe34CzaJQps4q5ADGdr) | 3:55 | 2024-08-22 |  |
+| [I made my baby cry](https://open.spotify.com/track/0UuFazFQ0cPYxAgFG4R739) | [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [I made my baby cry](https://open.spotify.com/album/63juu0SyImhGnHK8S9HtUZ) | 2:55 | 2024-09-17 |  |
 | [I Used To Be A Real Piece Of Shit](https://open.spotify.com/track/4TdEpIsXQytCXjWxxegZdt) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [I Used To Be A Real Piece Of Shit](https://open.spotify.com/album/4SpOELLHyGJCAvRJsMYvuT) | 1:58 | 2024-09-05 |  |
 | [I Was A Sailor](https://open.spotify.com/track/2qO4PvWDojlplbvSrCBUvF) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [I Was A Sailor](https://open.spotify.com/album/2RPZ0G0ZFhbewbFhi6u4em) | 4:00 | 2024-06-27 | 2024-08-16 |
 | [I Went Dancing With My Sister \- Bonus Track](https://open.spotify.com/track/2E8p2xkMaloP8V7tSgi0Ba) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans \(Deluxe Edition\)](https://open.spotify.com/album/42lnsCNSZUkPBgFhvSOHwa) | 4:22 | 2024-06-27 | 2024-08-16 |
@@ -243,7 +244,7 @@
 | [Who Would I Be](https://open.spotify.com/track/0eSZbdHaaHKQ1nizBbCeyw) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Void](https://open.spotify.com/album/75mEqyUrrBb3wBz5yWNPnu) | 2:06 | 2024-06-27 | 2024-08-09 |
 | [Wild Heart](https://open.spotify.com/track/133gMbnHFdb5stViV7Bepf) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Wild Heart](https://open.spotify.com/album/6uVJObcq28mcUHXLoFDOaF) | 2:39 | 2024-08-01 |  |
 | [Wild Horses](https://open.spotify.com/track/7v8cpnWN2qbmMF7VTwg7lr) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [Cinema](https://open.spotify.com/album/2bxGYnrExMRNgevKUDFnSc) | 3:51 | 2024-08-29 |  |
-| [Without You \(feat\. eee gee\)](https://open.spotify.com/track/0QhufSlyQVv6o9X4erX7WS) | [Selma Judith](https://open.spotify.com/artist/5LLTM3JbwyRIPXqJMSH0hc), [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [Half truths from a broken heart](https://open.spotify.com/album/2nIJGhfS4tHqEl6gFDsjNz) | 4:12 | 2024-09-12 |  |
+| [Without You](https://open.spotify.com/track/0QhufSlyQVv6o9X4erX7WS) | [Selma Judith](https://open.spotify.com/artist/5LLTM3JbwyRIPXqJMSH0hc), [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [Half truths from a broken heart](https://open.spotify.com/album/2nIJGhfS4tHqEl6gFDsjNz) | 4:12 | 2024-09-12 |  |
 | [Wonderful Nothing](https://open.spotify.com/track/6Lto2Xj8y0U2bes2hmRMZu) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [I Love You So F\*\*\*ing Much](https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw) | 4:24 | 2024-07-25 |  |
 | [Yellow Woods](https://open.spotify.com/track/2o7DGafy5ZZ6JS8ZmSfzVH) | [Tobias Arbo](https://open.spotify.com/artist/11BozuxBoGgG4NtpvwJP15) | [Yellow Woods](https://open.spotify.com/album/419xwnKJ7o4V5jOZK5IleJ) | 3:27 | 2024-08-29 | 2024-09-06 |
 | [Yesterdays](https://open.spotify.com/track/7y4TtTnqAQnYprtUFzj0yX) | [Nothing In Common](https://open.spotify.com/artist/7a8QU2xPgOH1ly5JDbkeM5) | [Yesterdays](https://open.spotify.com/album/5TEyVFRjLXhtXNp7amcoPy) | 3:07 | 2024-08-15 | 2024-09-06 |

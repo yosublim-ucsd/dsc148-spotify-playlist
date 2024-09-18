@@ -1,12 +1,12 @@
 {
   "description": "Nur tote Fische schwimmen mit dem Strom. Cover: Yu",
-  "num_followers": 113774,
+  "num_followers": 23187,
   "original_name": "Gegen den Strom",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZufmOwAAAACUpQ1yJO5oZd6qFPTyPr8r",
+  "snapshot_id": "Zumf3AAAAAB0qKKl334ue16ZnXplGxFM",
   "tracks": [
     {
       "added_at": "2024-08-29 22:00:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Leere Flaschen",
-        "url": "https://open.spotify.com/album/1O60XqPGhSgEJ1LPDLlwgK"
-      },
-      "artists": [
-        {
-          "name": "Anda Morts",
-          "url": "https://open.spotify.com/artist/4I2FyJP0zs6IPgasQVwG7r"
-        }
-      ],
-      "duration_ms": 173090,
-      "name": "Leere Flaschen",
-      "url": "https://open.spotify.com/track/7vxZqMRKJAIGCJPVkZAIor"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Marmelade Und Himbeereis",
         "url": "https://open.spotify.com/album/064OxNn7XPDjxpmaKu57Di"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 228000,
       "name": "Marmelade Und Himbeereis",
       "url": "https://open.spotify.com/track/3CrC7C45IHGfkD5Z1SOSOH"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Leere Flaschen",
+        "url": "https://open.spotify.com/album/1O60XqPGhSgEJ1LPDLlwgK"
+      },
+      "artists": [
+        {
+          "name": "Anda Morts",
+          "url": "https://open.spotify.com/artist/4I2FyJP0zs6IPgasQVwG7r"
+        }
+      ],
+      "duration_ms": 173090,
+      "name": "Leere Flaschen",
+      "url": "https://open.spotify.com/track/7vxZqMRKJAIGCJPVkZAIor"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -547,18 +547,18 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Muttertag",
-        "url": "https://open.spotify.com/album/6gNgUadu6BYTDHjuBx6GWN"
+        "name": "Stures dummes Herz",
+        "url": "https://open.spotify.com/album/7iTZebDTdiXQC4uluRWoxi"
       },
       "artists": [
         {
-          "name": "Antilopen Gang",
-          "url": "https://open.spotify.com/artist/1HORQCHE3Q4m0tAKiRsIAB"
+          "name": "TR\u00c4NEN",
+          "url": "https://open.spotify.com/artist/4NKHTY0ghFbhkFwl29BxMD"
         }
       ],
-      "duration_ms": 66209,
-      "name": "Muttertag",
-      "url": "https://open.spotify.com/track/2Fk9KaQrSDCjOBYxcnQmFw"
+      "duration_ms": 176566,
+      "name": "Stures dummes Herz",
+      "url": "https://open.spotify.com/track/2Jw8Ij0rDWuUDKvkktFzrO"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Stures dummes Herz",
-        "url": "https://open.spotify.com/album/7iTZebDTdiXQC4uluRWoxi"
-      },
-      "artists": [
-        {
-          "name": "TR\u00c4NEN",
-          "url": "https://open.spotify.com/artist/4NKHTY0ghFbhkFwl29BxMD"
-        }
-      ],
-      "duration_ms": 176566,
-      "name": "Stures dummes Herz",
-      "url": "https://open.spotify.com/track/2Jw8Ij0rDWuUDKvkktFzrO"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Rumba",
         "url": "https://open.spotify.com/album/4fSjPl611azYLbPgIfHD4f"
       },
@@ -607,6 +591,38 @@
       "duration_ms": 236632,
       "name": "Rumba",
       "url": "https://open.spotify.com/track/53c422MkQ07JBRO2DsHYFf"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Mensch am Mond",
+        "url": "https://open.spotify.com/album/7zASnixcrPirKFIjhAwmXu"
+      },
+      "artists": [
+        {
+          "name": "Leftovers",
+          "url": "https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI"
+        }
+      ],
+      "duration_ms": 185250,
+      "name": "Mensch am Mond",
+      "url": "https://open.spotify.com/track/3ztlPP5pc0ZiX2Oa4YBYjx"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Muttertag",
+        "url": "https://open.spotify.com/album/6gNgUadu6BYTDHjuBx6GWN"
+      },
+      "artists": [
+        {
+          "name": "Antilopen Gang",
+          "url": "https://open.spotify.com/artist/1HORQCHE3Q4m0tAKiRsIAB"
+        }
+      ],
+      "duration_ms": 66209,
+      "name": "Muttertag",
+      "url": "https://open.spotify.com/track/2Fk9KaQrSDCjOBYxcnQmFw"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -639,22 +655,6 @@
       "duration_ms": 213586,
       "name": "Das Neue Normal",
       "url": "https://open.spotify.com/track/4JZzUgcFrkWisEO1yirDj7"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
-        "name": "Mensch am Mond",
-        "url": "https://open.spotify.com/album/7zASnixcrPirKFIjhAwmXu"
-      },
-      "artists": [
-        {
-          "name": "Leftovers",
-          "url": "https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI"
-        }
-      ],
-      "duration_ms": 185250,
-      "name": "Mensch am Mond",
-      "url": "https://open.spotify.com/track/3ztlPP5pc0ZiX2Oa4YBYjx"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -707,18 +707,18 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Vom Rand der Zeit",
-        "url": "https://open.spotify.com/album/6dOkDpALZWcL8uuic3LjoH"
+        "name": "zwei bier (la la la)",
+        "url": "https://open.spotify.com/album/4DmMom1MSf4NrKNgLtRDAa"
       },
       "artists": [
         {
-          "name": "Olli Schulz",
-          "url": "https://open.spotify.com/artist/3FFqyoSbYAiE91jM3DAUb1"
+          "name": "Leftovers",
+          "url": "https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI"
         }
       ],
-      "duration_ms": 203693,
-      "name": "So schreibt man seinen Song",
-      "url": "https://open.spotify.com/track/0r10l0wnJ9SwV0rnQxBORe"
+      "duration_ms": 209000,
+      "name": "zwei bier (la la la)",
+      "url": "https://open.spotify.com/track/5HlxYAqsU0vXhKVS0rvROI"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -739,6 +739,22 @@
       "duration_ms": 213750,
       "name": "aliens in paris",
       "url": "https://open.spotify.com/track/7F8jZcmpr2YK4CbDSTJDtF"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Vom Rand der Zeit",
+        "url": "https://open.spotify.com/album/6dOkDpALZWcL8uuic3LjoH"
+      },
+      "artists": [
+        {
+          "name": "Olli Schulz",
+          "url": "https://open.spotify.com/artist/3FFqyoSbYAiE91jM3DAUb1"
+        }
+      ],
+      "duration_ms": 203693,
+      "name": "So schreibt man seinen Song",
+      "url": "https://open.spotify.com/track/0r10l0wnJ9SwV0rnQxBORe"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -775,22 +791,6 @@
       "duration_ms": 139986,
       "name": "Geheimnis",
       "url": "https://open.spotify.com/track/50guZa3AiSjT2bXMm1xwQz"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
-        "name": "zwei bier (la la la)",
-        "url": "https://open.spotify.com/album/4DmMom1MSf4NrKNgLtRDAa"
-      },
-      "artists": [
-        {
-          "name": "Leftovers",
-          "url": "https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "zwei bier (la la la)",
-      "url": "https://open.spotify.com/track/5HlxYAqsU0vXhKVS0rvROI"
     },
     {
       "added_at": "2024-08-29 22:00:00",

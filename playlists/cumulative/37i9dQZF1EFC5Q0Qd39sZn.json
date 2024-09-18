@@ -10781,6 +10781,24 @@
     },
     {
       "album": {
+        "name": "Woman Up",
+        "url": "https://open.spotify.com/album/4ffdsTq7SUdO8I02yUxFsD"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Haddish",
+          "url": "https://open.spotify.com/artist/0bfU48sSFFAhlaKCL05dTG"
+        }
+      ],
+      "date_added": "2024-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197657,
+      "name": "Woman Up",
+      "url": "https://open.spotify.com/track/0vfrSpF5CDzJwQd9mVtOPs"
+    },
+    {
+      "album": {
         "name": "80's Revival",
         "url": "https://open.spotify.com/album/4ObiMqIu8DKqplcSB1jpY6"
       },

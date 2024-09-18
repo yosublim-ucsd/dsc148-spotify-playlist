@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "AAAc5szCnN5eX+kBy3gs2gy3Ei+sThP1",
+  "snapshot_id": "AAAc584th6KDYBta5SEErtbCPwzeHW5v",
   "tracks": [
     {
       "added_at": "2022-09-26 20:53:27",
@@ -3259,6 +3259,22 @@
       "duration_ms": 239349,
       "name": "In and Out",
       "url": "https://open.spotify.com/track/2oWaHVTGvuFk38iBRVRAaO"
+    },
+    {
+      "added_at": "2024-09-17 20:05:46",
+      "album": {
+        "name": "2 Aliv\u00eb",
+        "url": "https://open.spotify.com/album/0d1BFY8z15vye3KjtLvF3u"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 211986,
+      "name": "Dnt li\u00eb",
+      "url": "https://open.spotify.com/track/6SKA4zY0zzYFdM74F2mPq1"
     }
   ],
   "unique_name": "main ",

@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,238 songs - 6 day 17 hr 45 min
+4,239 songs - 6 day 17 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2015,6 +2015,7 @@
 | [Libra](https://open.spotify.com/track/3LnEtphQ01Be4wWYwhKWiC) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O), [Guavas](https://open.spotify.com/artist/2gg2qNLYW3EN6T1PYZ1LvI) | [Libra](https://open.spotify.com/album/11kO2FpIvQtGXuxxhTQSfb) | 1:44 | 2021-03-19 | 2021-07-02 |
 | [Libration](https://open.spotify.com/track/2VoDSrBiAJLuz7wtulZut6) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [MENACE ‘5’](https://open.spotify.com/album/0gTP034DQRukq0Ww71MFJj) | 3:04 | 2020-12-11 | 2021-01-29 |
 | [Libre](https://open.spotify.com/track/7rNefvFQ4Gxt4yCq3a7r6P) | [Jokujekku](https://open.spotify.com/artist/0L1eY5MVRiGxxfMa77yy3n), [Jk Beatbook](https://open.spotify.com/artist/1MKTpWgmy1GOLELKgYsSBz) | [Libre](https://open.spotify.com/album/0QTH0feDaR1QCe2J5GhaP8) | 2:14 | 2022-07-21 |  |
+| [Libre](https://open.spotify.com/track/4EDN0qy2vBNpTwW0iI0DkJ) | [Lenny B](https://open.spotify.com/artist/3PplCjTWQ2AbTboXJNCpSa), [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [Marvin Frey](https://open.spotify.com/artist/1ay8QiQk931SyvOAsGuqOM) | [Libre](https://open.spotify.com/album/47rH8hlUISnZdgCJxRcpBX) | 2:05 | 2024-09-16 |  |
 | [License To Chill](https://open.spotify.com/track/4CbhVp50fIwZlInji609vC) | [Shierro](https://open.spotify.com/artist/7EVtRX3E2y1wcAwd2YituJ) | [License To Chill](https://open.spotify.com/album/0HfOL5WJpcNvyIArMewASC) | 2:19 | 2022-11-17 | 2023-01-27 |
 | [Life](https://open.spotify.com/track/2vWYBEbjL6U6gxKPnofNUj) | [Remulak](https://open.spotify.com/artist/5epeii4aAE7NXFsBkqoJxB), [Robohands](https://open.spotify.com/artist/5qRtt9DQNy64ig66kCWFjX) | [Life](https://open.spotify.com/album/2IgGvnnNVETZUaGpCXJlqb) | 3:19 | 2019-06-26 | 2019-11-15 |
 | [Life](https://open.spotify.com/track/3ObpboFzz9FoI7Kkv24WUp) | [Vincent Rayn](https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG) | [Life](https://open.spotify.com/album/2EYejbP3V7PPlgA5dKXTih) | 2:26 | 2021-11-27 | 2021-12-10 |
@@ -3507,7 +3508,7 @@
 | [Sun Touch](https://open.spotify.com/track/2LQBdxMcs6Gz47nxwoEkix) | [Rudy Raw](https://open.spotify.com/artist/4ZITuhWAaVoUTge2JwIton), [Myríad](https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an) | [Sun Touch](https://open.spotify.com/album/0trJgnzSrhX2iqumV8MWqj) | 2:26 | 2022-12-01 | 2022-12-14 |
 | [Sun Touch](https://open.spotify.com/track/4UwLr7EgawoWfBO30za5Xz) | [Rudy Raw](https://open.spotify.com/artist/4ZITuhWAaVoUTge2JwIton), [Myríad](https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an) | [Sun Touch](https://open.spotify.com/album/5WTf8Oerbp3M8qCd2mWxkk) | 2:26 | 2021-09-18 | 2022-11-20 |
 | [suna](https://open.spotify.com/track/5cbzyUju2PFfsS1gPqMBo5) | [lōland](https://open.spotify.com/artist/5AUK3KLrqdHpcsRowJVJIn) | [yashinoki \| suna](https://open.spotify.com/album/66S6ZKiFczEOJUOXe075Ec) | 1:55 | 2020-07-18 | 2021-03-26 |
-| [Sunburst](https://open.spotify.com/track/15Zb6cPREKjnEBrHJSqs4o) | [Beats by Tobÿ](https://open.spotify.com/artist/7rbiDXzJIkf2MKPh9boQeF), [Tobÿ](https://open.spotify.com/artist/3EjoOshzwB9yIH8sLnbQnQ) | [Sunburst](https://open.spotify.com/album/0GQmqyn5aDYMklGFoYYPwT) | 2:48 | 2024-09-16 |  |
+| [Sunburst](https://open.spotify.com/track/15Zb6cPREKjnEBrHJSqs4o) | [Beats by Tobÿ](https://open.spotify.com/artist/7rbiDXzJIkf2MKPh9boQeF), [Tobÿ](https://open.spotify.com/artist/3EjoOshzwB9yIH8sLnbQnQ) | [Sunburst](https://open.spotify.com/album/0GQmqyn5aDYMklGFoYYPwT) | 2:48 | 2024-09-16 | 2024-09-18 |
 | [Sunburst](https://open.spotify.com/track/1bgDcniTe6JQsL04ovFSJC) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY), [Hugo](https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos) | [Sunburst](https://open.spotify.com/album/4EkA7gGF2GSRUYZMP88wgB) | 2:52 | 2022-11-17 | 2023-04-07 |
 | [Sunburst](https://open.spotify.com/track/7vRSHfzUEzC4kZE5gAOJmS) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY), [Hugo](https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos) | [Sunburst](https://open.spotify.com/album/09bqt07UQh9XUt0v4BFeBC) | 2:52 | 2022-04-07 | 2022-11-20 |
 | [Sunburst](https://open.spotify.com/track/0JOa92W6hgHePik69JHR5I) | [Epifania](https://open.spotify.com/artist/47OYz3d3DvnXpfaJ7i0z6b), [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j), [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK) | [Sunburst](https://open.spotify.com/album/4vJF230LwzfrAJ63bRFyr5) | 2:18 | 2021-06-22 | 2021-07-23 |

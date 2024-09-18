@@ -2,7 +2,7 @@
 
 ### [This Is Bonnie Raitt](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2MOc1x)
 
-> This Is Bonnie Raitt\. Los temas esenciales, todos en una lista.
+> This Is Bonnie Raitt\. Les titres incontournables, réunis dans une seule et même playlist.
 
 91 songs - 6 hr 15 min
 

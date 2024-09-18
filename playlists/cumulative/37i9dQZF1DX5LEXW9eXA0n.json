@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New & hot K-Pop ballads. (Cover: LEE CHANGSEOB(\uc774\ucc3d\uc12d)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "New & hot K-Pop ballads. (Cover: Kang Jin Ah(\uac15\uc9c4\uc544)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -20034,6 +20034,24 @@
       "duration_ms": 231346,
       "name": "To Me",
       "url": "https://open.spotify.com/track/6eLNBIUwf81FxFHekvd8Gu"
+    },
+    {
+      "album": {
+        "name": "To my distant friend",
+        "url": "https://open.spotify.com/album/5oHwfhmnT1lYYltG18qEJ0"
+      },
+      "artists": [
+        {
+          "name": "Kang Jin Ah",
+          "url": "https://open.spotify.com/artist/0ZWE1SWTPqm0AlsIm1jm4f"
+        }
+      ],
+      "date_added": "2024-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275000,
+      "name": "To my distant friend",
+      "url": "https://open.spotify.com/track/0YLE9JIvYDeM2Rkg6Mt5dy"
     },
     {
       "album": {

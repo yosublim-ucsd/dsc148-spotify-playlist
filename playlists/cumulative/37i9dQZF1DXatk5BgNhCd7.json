@@ -15175,10 +15175,14 @@
     },
     {
       "album": {
-        "name": "El Beso de la Ciguatera - Radio Edit",
+        "name": "El Beso de la Ciguatera (Radio Edit)",
         "url": "https://open.spotify.com/album/5Iyrbe0cT9FBKGNPuDU1jZ"
       },
       "artists": [
+        {
+          "name": "Yas Cepeda",
+          "url": "https://open.spotify.com/artist/0QJLIqgHuWkj89BqRArjRP"
+        },
         {
           "name": "Juan Luis Guerra 4.40",
           "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"

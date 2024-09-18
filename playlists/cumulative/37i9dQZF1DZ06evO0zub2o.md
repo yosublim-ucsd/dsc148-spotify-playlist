@@ -2,7 +2,7 @@
 
 ### [This Is Pantera](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0zub2o)
 
-> This is Pantera\. Les chansons essentielles, toutes regroupées dans une seule liste de lecture.
+> This Is Pantera\. Los temas esenciales, todos en una lista.
 
 59 songs - 4 hr 27 min
 

@@ -1,6 +1,6 @@
 {
   "description": "Um bom sambinha para acompanhar cada gole.",
-  "num_followers": 231979,
+  "num_followers": 231968,
   "original_name": "Caipirinha",
   "owner": {
     "name": "Spotify",
@@ -915,6 +915,22 @@
     {
       "added_at": "2024-08-16 03:01:00",
       "album": {
+        "name": "Nosso Bem Maior",
+        "url": "https://open.spotify.com/album/03EkDfv61ZKxH1UjGwOI7v"
+      },
+      "artists": [
+        {
+          "name": "Grupo Fundo De Quintal",
+          "url": "https://open.spotify.com/artist/1WkZvxuA4zCcFF9GChK6Vr"
+        }
+      ],
+      "duration_ms": 243413,
+      "name": "Nosso Bem Maior",
+      "url": "https://open.spotify.com/track/5hH6oJVLl2NzGbASEkT6cD"
+    },
+    {
+      "added_at": "2024-08-16 03:01:00",
+      "album": {
         "name": "Na Veia",
         "url": "https://open.spotify.com/album/6YkPuUcUIQVdivq1u8blQH"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 188058,
       "name": "Na veia (Participa\u00e7\u00e3o especial de Marcelo D2)",
       "url": "https://open.spotify.com/track/4Z6APQkEZQ7m1vpwisOua8"
-    },
-    {
-      "added_at": "2024-08-16 03:01:00",
-      "album": {
-        "name": "Nosso Bem Maior",
-        "url": "https://open.spotify.com/album/03EkDfv61ZKxH1UjGwOI7v"
-      },
-      "artists": [
-        {
-          "name": "Grupo Fundo De Quintal",
-          "url": "https://open.spotify.com/artist/1WkZvxuA4zCcFF9GChK6Vr"
-        }
-      ],
-      "duration_ms": 243413,
-      "name": "Nosso Bem Maior",
-      "url": "https://open.spotify.com/track/5hH6oJVLl2NzGbASEkT6cD"
     },
     {
       "added_at": "2024-08-16 03:01:00",

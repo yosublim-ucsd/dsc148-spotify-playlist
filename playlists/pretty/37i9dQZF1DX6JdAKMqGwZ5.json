@@ -1,29 +1,13 @@
 {
   "description": "Descubre los temas emergentes del mundo indie. Foto: Yarea.",
-  "num_followers": 195112,
+  "num_followers": 195125,
   "original_name": "Radar Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuNkYAAAAAAs/9SlP2gutSTKkQaZN0a0",
+  "snapshot_id": "ZulpNwAAAADi0YCYoNrKzOI7SUMS9kiS",
   "tracks": [
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
-        "name": "Espina",
-        "url": "https://open.spotify.com/album/5xB3QxKQ5uiNL3YH6aOLtu"
-      },
-      "artists": [
-        {
-          "name": "Yarea",
-          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
-        }
-      ],
-      "duration_ms": 183093,
-      "name": "Espina",
-      "url": "https://open.spotify.com/track/2rHjLXPpOmu5rKHPaUa8Qb"
-    },
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
@@ -75,6 +59,22 @@
       "duration_ms": 161986,
       "name": "YE YE",
       "url": "https://open.spotify.com/track/4eG0fRhHic7VBFL3BrPjaD"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
+        "name": "Espina",
+        "url": "https://open.spotify.com/album/5xB3QxKQ5uiNL3YH6aOLtu"
+      },
+      "artists": [
+        {
+          "name": "Yarea",
+          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
+        }
+      ],
+      "duration_ms": 183093,
+      "name": "Espina",
+      "url": "https://open.spotify.com/track/2rHjLXPpOmu5rKHPaUa8Qb"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -475,18 +475,18 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "Ens hem guanyat l'estiu",
-        "url": "https://open.spotify.com/album/4pyaZxtfP0YHcDfLvzW8ZR"
+        "name": "La Ni\u00f1a [2000]",
+        "url": "https://open.spotify.com/album/4Xj97iUQTO9v0Tr8RJN2D8"
       },
       "artists": [
         {
-          "name": "Pau Vallv\u00e9",
-          "url": "https://open.spotify.com/artist/2e9wKql4wZPFzTfNgpBa9s"
+          "name": "MERINO",
+          "url": "https://open.spotify.com/artist/6oUhPlreIDCXfoUSUcXOam"
         }
       ],
-      "duration_ms": 219440,
-      "name": "Ens hem guanyat l'estiu",
-      "url": "https://open.spotify.com/track/0U0S0quAHLkelr6bPsi7Z9"
+      "duration_ms": 199451,
+      "name": "La Ni\u00f1a [2000]",
+      "url": "https://open.spotify.com/track/59zRZ7eFYSXVjzu4W6fx86"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -523,18 +523,18 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "La Ni\u00f1a [2000]",
-        "url": "https://open.spotify.com/album/4Xj97iUQTO9v0Tr8RJN2D8"
+        "name": "Ens hem guanyat l'estiu",
+        "url": "https://open.spotify.com/album/4pyaZxtfP0YHcDfLvzW8ZR"
       },
       "artists": [
         {
-          "name": "MERINO",
-          "url": "https://open.spotify.com/artist/6oUhPlreIDCXfoUSUcXOam"
+          "name": "Pau Vallv\u00e9",
+          "url": "https://open.spotify.com/artist/2e9wKql4wZPFzTfNgpBa9s"
         }
       ],
-      "duration_ms": 199451,
-      "name": "La Ni\u00f1a [2000]",
-      "url": "https://open.spotify.com/track/59zRZ7eFYSXVjzu4W6fx86"
+      "duration_ms": 219440,
+      "name": "Ens hem guanyat l'estiu",
+      "url": "https://open.spotify.com/track/0U0S0quAHLkelr6bPsi7Z9"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -575,6 +575,26 @@
       "duration_ms": 213500,
       "name": "Es una pena",
       "url": "https://open.spotify.com/track/7ASXACpWPBo6yGQVV3HK3i"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
+        "name": "HIMNOS DE GUERRA",
+        "url": "https://open.spotify.com/album/3yzgOyDvJiXYYUpxztRHaF"
+      },
+      "artists": [
+        {
+          "name": "MERINO",
+          "url": "https://open.spotify.com/artist/6oUhPlreIDCXfoUSUcXOam"
+        },
+        {
+          "name": "Ivan Ferreiro",
+          "url": "https://open.spotify.com/artist/3qUrABCNqnkb5gc2YmPVzP"
+        }
+      ],
+      "duration_ms": 210982,
+      "name": "Demasiado Grande",
+      "url": "https://open.spotify.com/track/4VApNR3krAS6J2KEvF6f1w"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -643,26 +663,6 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "HIMNOS DE GUERRA",
-        "url": "https://open.spotify.com/album/3yzgOyDvJiXYYUpxztRHaF"
-      },
-      "artists": [
-        {
-          "name": "MERINO",
-          "url": "https://open.spotify.com/artist/6oUhPlreIDCXfoUSUcXOam"
-        },
-        {
-          "name": "Ivan Ferreiro",
-          "url": "https://open.spotify.com/artist/3qUrABCNqnkb5gc2YmPVzP"
-        }
-      ],
-      "duration_ms": 210982,
-      "name": "Demasiado Grande",
-      "url": "https://open.spotify.com/track/4VApNR3krAS6J2KEvF6f1w"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
         "name": "Alto Cielo",
         "url": "https://open.spotify.com/album/20mFqdvrOtScXNl72bAa8V"
       },
@@ -699,18 +699,18 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "Ressaca a sa platja",
-        "url": "https://open.spotify.com/album/5BVovxgoK6T5bN8Q5hNReZ"
+        "name": "LA AVENTURA",
+        "url": "https://open.spotify.com/album/64tqdgffrYyDYKTsJZ38IY"
       },
       "artists": [
         {
-          "name": "Maria Jaume",
-          "url": "https://open.spotify.com/artist/2QYudLHQwV6MDxWpZZtMNO"
+          "name": "Le\u00f3n Benavente",
+          "url": "https://open.spotify.com/artist/5wuBA4TiRM0CNjSXjsutn6"
         }
       ],
-      "duration_ms": 176654,
-      "name": "Ressaca a sa platja",
-      "url": "https://open.spotify.com/track/09HzKgLwCBBIyyG8bPS3rn"
+      "duration_ms": 254802,
+      "name": "LA AVENTURA",
+      "url": "https://open.spotify.com/track/28Yl5Fn4ahrXrBTm8zGJgl"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -731,18 +731,18 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "LA AVENTURA",
-        "url": "https://open.spotify.com/album/64tqdgffrYyDYKTsJZ38IY"
+        "name": "Ressaca a sa platja",
+        "url": "https://open.spotify.com/album/5BVovxgoK6T5bN8Q5hNReZ"
       },
       "artists": [
         {
-          "name": "Le\u00f3n Benavente",
-          "url": "https://open.spotify.com/artist/5wuBA4TiRM0CNjSXjsutn6"
+          "name": "Maria Jaume",
+          "url": "https://open.spotify.com/artist/2QYudLHQwV6MDxWpZZtMNO"
         }
       ],
-      "duration_ms": 254802,
-      "name": "LA AVENTURA",
-      "url": "https://open.spotify.com/track/28Yl5Fn4ahrXrBTm8zGJgl"
+      "duration_ms": 176654,
+      "name": "Ressaca a sa platja",
+      "url": "https://open.spotify.com/track/09HzKgLwCBBIyyG8bPS3rn"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
+        "name": "dos sombras",
+        "url": "https://open.spotify.com/album/0OdUtb0AsbynTk3X6MFFZw"
+      },
+      "artists": [
+        {
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+        }
+      ],
+      "duration_ms": 177811,
+      "name": "dos sombras",
+      "url": "https://open.spotify.com/track/11qEJrBkjCFHIwhAFJYF6b"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
         "name": "Volver",
         "url": "https://open.spotify.com/album/2IU2GsBYHx3o2KfiepY51l"
       },
@@ -1235,22 +1251,6 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "Bailar Llorando",
-        "url": "https://open.spotify.com/album/5iMaYIQuXTCxtSdN7ylLby"
-      },
-      "artists": [
-        {
-          "name": "Carmen 113",
-          "url": "https://open.spotify.com/artist/3wcfgYTtdxmXrhuUuq3kEe"
-        }
-      ],
-      "duration_ms": 163593,
-      "name": "Bailar Llorando",
-      "url": "https://open.spotify.com/track/7aZor2HjAffKI8PmQxw2oW"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
         "name": "Valle La Pena",
         "url": "https://open.spotify.com/album/5otGsLkao2fXLzjNqbgSio"
       },
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "dos sombras",
-        "url": "https://open.spotify.com/album/0OdUtb0AsbynTk3X6MFFZw"
+        "name": "Bailar Llorando",
+        "url": "https://open.spotify.com/album/5iMaYIQuXTCxtSdN7ylLby"
       },
       "artists": [
         {
-          "name": "Gala Nell",
-          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+          "name": "Carmen 113",
+          "url": "https://open.spotify.com/artist/3wcfgYTtdxmXrhuUuq3kEe"
         }
       ],
-      "duration_ms": 177811,
-      "name": "dos sombras",
-      "url": "https://open.spotify.com/track/11qEJrBkjCFHIwhAFJYF6b"
+      "duration_ms": 163593,
+      "name": "Bailar Llorando",
+      "url": "https://open.spotify.com/track/7aZor2HjAffKI8PmQxw2oW"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "I\u00b4M FUCKING FREE",
-        "url": "https://open.spotify.com/album/108w66KErOlKUiYhFVyhwX"
-      },
-      "artists": [
-        {
-          "name": "Luna Zuazu",
-          "url": "https://open.spotify.com/artist/0aIiiEWwpITfHLl0JPtl0J"
-        }
-      ],
-      "duration_ms": 151636,
-      "name": "I\u00b4M FUCKING FREE",
-      "url": "https://open.spotify.com/track/0A75n3snD4oCDr1icus0IS"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
         "name": "El Momento",
         "url": "https://open.spotify.com/album/2SLOxCeXdq9A8HQtUcq6IX"
       },
@@ -1591,18 +1575,18 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "Lirio",
-        "url": "https://open.spotify.com/album/5cQw2HSuKKW43knh2PvS90"
+        "name": "I\u00b4M FUCKING FREE",
+        "url": "https://open.spotify.com/album/108w66KErOlKUiYhFVyhwX"
       },
       "artists": [
         {
-          "name": "Maestro Espada",
-          "url": "https://open.spotify.com/artist/1nlawfs0lTdtL6cVPGvQLu"
+          "name": "Luna Zuazu",
+          "url": "https://open.spotify.com/artist/0aIiiEWwpITfHLl0JPtl0J"
         }
       ],
-      "duration_ms": 240853,
-      "name": "Lirio",
-      "url": "https://open.spotify.com/track/6zwZKkCRHb6dKUr0wL4UWw"
+      "duration_ms": 151636,
+      "name": "I\u00b4M FUCKING FREE",
+      "url": "https://open.spotify.com/track/0A75n3snD4oCDr1icus0IS"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -1623,6 +1607,22 @@
       "duration_ms": 204421,
       "name": "Braille",
       "url": "https://open.spotify.com/track/0GzcQHr6Ecz0kVjWccfOmY"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
+        "name": "Lirio",
+        "url": "https://open.spotify.com/album/5cQw2HSuKKW43knh2PvS90"
+      },
+      "artists": [
+        {
+          "name": "Maestro Espada",
+          "url": "https://open.spotify.com/artist/1nlawfs0lTdtL6cVPGvQLu"
+        }
+      ],
+      "duration_ms": 240853,
+      "name": "Lirio",
+      "url": "https://open.spotify.com/track/6zwZKkCRHb6dKUr0wL4UWw"
     },
     {
       "added_at": "2024-09-12 22:00:00",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "Amargura (Cover para Movistar Plus+)",
-        "url": "https://open.spotify.com/album/27Z1U1bmE7S5COp8N9bLgL"
-      },
-      "artists": [
-        {
-          "name": "Maria Rod\u00e9s",
-          "url": "https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf"
-        }
-      ],
-      "duration_ms": 184666,
-      "name": "Amargura (Cover para Movistar Plus+)",
-      "url": "https://open.spotify.com/track/2FFsZuWAHErJD6Chl5cye8"
-    },
-    {
-      "added_at": "2024-09-12 22:00:00",
-      "album": {
         "name": "NUNCA ES TARDE",
         "url": "https://open.spotify.com/album/4tnZ7ErjvSTD4cLVvGbU9I"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 188000,
       "name": "NUNCA ES TARDE",
       "url": "https://open.spotify.com/track/2xh2NMeCkSwQjIK4al3aCG"
+    },
+    {
+      "added_at": "2024-09-12 22:00:00",
+      "album": {
+        "name": "Ajedrez",
+        "url": "https://open.spotify.com/album/6ig55uXsdJVqspmTyw2ibt"
+      },
+      "artists": [
+        {
+          "name": "MERINO",
+          "url": "https://open.spotify.com/artist/6oUhPlreIDCXfoUSUcXOam"
+        }
+      ],
+      "duration_ms": 202413,
+      "name": "Ajedrez",
+      "url": "https://open.spotify.com/track/2nMK2nFgxfTJdjyZPw8O04"
     },
     {
       "added_at": "2024-09-12 22:00:00",

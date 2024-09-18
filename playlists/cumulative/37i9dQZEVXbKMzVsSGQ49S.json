@@ -2598,7 +2598,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 128196,
       "name": "Augnablik (feat. BR\u00cdET)",
       "url": "https://open.spotify.com/track/6uZNr8aRW5XPS1cJp6zO5C"
@@ -17642,7 +17642,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-16",
+      "date_removed": null,
       "duration_ms": 178205,
       "name": "I Had Some Help (Feat. Morgan Wallen)",
       "url": "https://open.spotify.com/track/5IZXB5IKAD2qlvTPJYDCFB"
@@ -20382,7 +20382,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 151593,
       "name": "KOSS \u00c1 \u00deIG (\u00c1ram\u00f3taskaup 2023)",
       "url": "https://open.spotify.com/track/1zgmrx3BSjowXq7zCoHhjd"
@@ -20440,7 +20440,7 @@
       ],
       "date_added": "2023-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 195464,
       "name": "Krumla",
       "url": "https://open.spotify.com/track/1ahTtx2UIz4Kj59aMbcwSh"
@@ -27243,6 +27243,24 @@
     },
     {
       "album": {
+        "name": "One Love",
+        "url": "https://open.spotify.com/album/509VUjjB5mQF4wF6aveYHP"
+      },
+      "artists": [
+        {
+          "name": "Delly Black",
+          "url": "https://open.spotify.com/artist/4XTR6YBQHWW76Kq5YeuBL4"
+        }
+      ],
+      "date_added": "2024-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178157,
+      "name": "One Love",
+      "url": "https://open.spotify.com/track/5jLc9yN9usPRRJxF6f0koQ"
+    },
+    {
+      "album": {
         "name": "Undrabarni\u00f0",
         "url": "https://open.spotify.com/album/7MslzMzNRYgE54paRQ0h8N"
       },
@@ -28552,7 +28570,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-13",
+      "date_removed": null,
       "duration_ms": 184516,
       "name": "Pink + White",
       "url": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8"

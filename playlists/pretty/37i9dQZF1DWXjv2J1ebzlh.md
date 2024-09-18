@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,622 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,652 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 51 | [Maktoub Aleina](https://open.spotify.com/track/1SvhjcZt9HTr7MpeAwaskE) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT) | [The SLAM! Years: 1983 \- 1988 \(Habibi Funk 018\)](https://open.spotify.com/album/0PXfnvr4FDsvG0xOWhOzuS) | 4:07 |
 | 52 | [Cumbia Sobre el Mar](https://open.spotify.com/track/61muv9lHtgN18qbm9oK9pH) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Flowering Inferno](https://open.spotify.com/artist/2JLqcc3mwS4Xf7xZuYwK0p) | [Dog With a Rope \(Quantic Presenta Flowering Inferno\)](https://open.spotify.com/album/0NiH3ROfMf9ZGYj07RP0B0) | 6:17 |
 | 53 | [Paint It Black](https://open.spotify.com/track/3w2F2Pb2Kv0ZzeGD7SfB30) | [Africa](https://open.spotify.com/artist/4bszODJhbxkwHlq0Inh6VU) | [Music From “Lil Brown” \- Remastered](https://open.spotify.com/album/1xe6dsE1l6EvVoxNJhzB14) | 7:28 |
-| 54 | [\(Poor Mi\) Israelites](https://open.spotify.com/track/6zsH33Xbm0gAtBTx9R2vP0) | [Desmond Dekker & The Aces](https://open.spotify.com/artist/4fmVPsGxjwP5ruiTEvIcOt) | [Intensified](https://open.spotify.com/album/0TmbH6BZWBBmDGHNErPLxa) | 2:36 |
+| 54 | [Tropical Suite: São Paulo](https://open.spotify.com/track/7Aa0lfRO9KDcVi7zLpCjTH) | [Poni Hoax](https://open.spotify.com/artist/7Dl9ZgaSmEt7a8aWMlAHXD) | [Tropical Suite](https://open.spotify.com/album/6C67gFfjaikafMKHgHHit3) | 2:06 |
 | 55 | [Tamiditine](https://open.spotify.com/track/2st24VONuY9hqiGAPkhyua) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Nomad](https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe) | 4:39 |
-| 56 | [Tropical Suite: São Paulo](https://open.spotify.com/track/7Aa0lfRO9KDcVi7zLpCjTH) | [Poni Hoax](https://open.spotify.com/artist/7Dl9ZgaSmEt7a8aWMlAHXD) | [Tropical Suite](https://open.spotify.com/album/6C67gFfjaikafMKHgHHit3) | 2:06 |
+| 56 | [\(Poor Mi\) Israelites](https://open.spotify.com/track/6zsH33Xbm0gAtBTx9R2vP0) | [Desmond Dekker & The Aces](https://open.spotify.com/artist/4fmVPsGxjwP5ruiTEvIcOt) | [Intensified](https://open.spotify.com/album/0TmbH6BZWBBmDGHNErPLxa) | 2:36 |
 | 57 | [Aloha! \(Main Title Theme\) \- from “The White Lotus: Season 1”](https://open.spotify.com/track/4jNa66Mi5PgcXrEaCiPNMu) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus \(Soundtrack from the HBO® Original Limited Series\)](https://open.spotify.com/album/0cZO3MDkGSpTmuTrH2vyhu) | 1:19 |
 | 58 | [Allah Yihmeeki](https://open.spotify.com/track/653KCEiNh1JpZySNEWJ5O1) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [DEIRA](https://open.spotify.com/album/5YgVt9lSgbdSaqB6WFar7d) | 2:43 |
 | 59 | [Nem Kaldi](https://open.spotify.com/track/5IW1jdBfYhZ8BVGGj7C8Nk) | [Derya Yıldırım & Grup Şimşek](https://open.spotify.com/artist/2Y0SH69uxHrHrjiZCuTSaT) | [Nem Kaldi](https://open.spotify.com/album/1GntqXjpN10NFBuayFWAGh) | 5:13 |

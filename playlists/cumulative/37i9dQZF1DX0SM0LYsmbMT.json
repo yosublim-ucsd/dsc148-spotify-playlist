@@ -40511,6 +40511,32 @@
     },
     {
       "album": {
+        "name": "Libre",
+        "url": "https://open.spotify.com/album/47rH8hlUISnZdgCJxRcpBX"
+      },
+      "artists": [
+        {
+          "name": "Lenny B",
+          "url": "https://open.spotify.com/artist/3PplCjTWQ2AbTboXJNCpSa"
+        },
+        {
+          "name": "Erwin Do",
+          "url": "https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S"
+        },
+        {
+          "name": "Marvin Frey",
+          "url": "https://open.spotify.com/artist/1ay8QiQk931SyvOAsGuqOM"
+        }
+      ],
+      "date_added": "2024-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125454,
+      "name": "Libre",
+      "url": "https://open.spotify.com/track/4EDN0qy2vBNpTwW0iI0DkJ"
+    },
+    {
+      "album": {
         "name": "License To Chill",
         "url": "https://open.spotify.com/album/0HfOL5WJpcNvyIArMewASC"
       },
@@ -70786,7 +70812,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 168881,
       "name": "Sunburst",
       "url": "https://open.spotify.com/track/15Zb6cPREKjnEBrHJSqs4o"

@@ -1,6 +1,6 @@
 {
   "description": "sonidos en constante mutaci\u00f3n \ud83e\udd8b\ud83c\udf44\u2728 feat. Arca & Tokischa",
-  "num_followers": 216130,
+  "num_followers": 216111,
   "original_name": "helium",
   "owner": {
     "name": "Spotify",
@@ -515,6 +515,22 @@
     {
       "added_at": "2024-09-13 03:00:00",
       "album": {
+        "name": "LA BABY ES MALA",
+        "url": "https://open.spotify.com/album/5g7ChyJQXO3OuI5dMiFodf"
+      },
+      "artists": [
+        {
+          "name": "Fran Laoren",
+          "url": "https://open.spotify.com/artist/2g1W9bFVmdIyxvktrdDiO4"
+        }
+      ],
+      "duration_ms": 152572,
+      "name": "LA BABY ES MALA",
+      "url": "https://open.spotify.com/track/2HrGfzBvWetERJ4oc4c7yx"
+    },
+    {
+      "added_at": "2024-09-13 03:00:00",
+      "album": {
         "name": "no era ateo",
         "url": "https://open.spotify.com/album/2krSNrLWLoasWBBx2yBtlF"
       },
@@ -547,22 +563,6 @@
     {
       "added_at": "2024-09-13 03:00:00",
       "album": {
-        "name": "LA BABY ES MALA",
-        "url": "https://open.spotify.com/album/5g7ChyJQXO3OuI5dMiFodf"
-      },
-      "artists": [
-        {
-          "name": "Fran Laoren",
-          "url": "https://open.spotify.com/artist/2g1W9bFVmdIyxvktrdDiO4"
-        }
-      ],
-      "duration_ms": 152572,
-      "name": "LA BABY ES MALA",
-      "url": "https://open.spotify.com/track/2HrGfzBvWetERJ4oc4c7yx"
-    },
-    {
-      "added_at": "2024-09-13 03:00:00",
-      "album": {
         "name": "Barbiet\u00faricos",
         "url": "https://open.spotify.com/album/7JfJdgYA7tvR79u619boAJ"
       },
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-09-13 03:00:00",
       "album": {
-        "name": "NO GRITAR\u00c9 TU NOMBRE",
-        "url": "https://open.spotify.com/album/48edR6gXJ7L4myjPBEILZq"
-      },
-      "artists": [
-        {
-          "name": "Xenia",
-          "url": "https://open.spotify.com/artist/4A4iJY0b5mySlZkZveuuPR"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "NO GRITAR\u00c9 TU NOMBRE",
-      "url": "https://open.spotify.com/track/0DHOq0zNiaAIEqvYhZ8BYv"
-    },
-    {
-      "added_at": "2024-09-13 03:00:00",
-      "album": {
         "name": "Rave Generator (feat. DJ Flapjack)",
         "url": "https://open.spotify.com/album/6enIuErd03wGWN1e7SthZX"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 182666,
       "name": "Rave Generator (feat. DJ Flapjack)",
       "url": "https://open.spotify.com/track/2wohA4HoBQCpmRSXNIrLbr"
+    },
+    {
+      "added_at": "2024-09-13 03:00:00",
+      "album": {
+        "name": "NO GRITAR\u00c9 TU NOMBRE",
+        "url": "https://open.spotify.com/album/48edR6gXJ7L4myjPBEILZq"
+      },
+      "artists": [
+        {
+          "name": "Xenia",
+          "url": "https://open.spotify.com/artist/4A4iJY0b5mySlZkZveuuPR"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "NO GRITAR\u00c9 TU NOMBRE",
+      "url": "https://open.spotify.com/track/0DHOq0zNiaAIEqvYhZ8BYv"
     },
     {
       "added_at": "2024-09-13 03:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-09-13 03:00:00",
       "album": {
-        "name": "Lejos del ruido",
-        "url": "https://open.spotify.com/album/0GTiRd3k4OSuXhdu7eIK7Q"
-      },
-      "artists": [
-        {
-          "name": "Stormykid",
-          "url": "https://open.spotify.com/artist/5h47EUJ6IZrCFO1paksFkb"
-        }
-      ],
-      "duration_ms": 188903,
-      "name": "Lejos del ruido",
-      "url": "https://open.spotify.com/track/3fqfkvTBREX3tMumY4d6bb"
-    },
-    {
-      "added_at": "2024-09-13 03:00:00",
-      "album": {
         "name": "QU\u00c9 M\u00c1S DA",
         "url": "https://open.spotify.com/album/0vPxyGWwFapgN1VLV65Wsi"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 153333,
       "name": "QU\u00c9 M\u00c1S DA",
       "url": "https://open.spotify.com/track/3ytTVQxppgPBANgAdYv3bs"
+    },
+    {
+      "added_at": "2024-09-13 03:00:00",
+      "album": {
+        "name": "Lejos del ruido",
+        "url": "https://open.spotify.com/album/0GTiRd3k4OSuXhdu7eIK7Q"
+      },
+      "artists": [
+        {
+          "name": "Stormykid",
+          "url": "https://open.spotify.com/artist/5h47EUJ6IZrCFO1paksFkb"
+        }
+      ],
+      "duration_ms": 188903,
+      "name": "Lejos del ruido",
+      "url": "https://open.spotify.com/track/3fqfkvTBREX3tMumY4d6bb"
     },
     {
       "added_at": "2024-09-13 03:00:00",
@@ -899,6 +899,22 @@
     {
       "added_at": "2024-09-13 03:00:00",
       "album": {
+        "name": "ANGELES - \u20b3",
+        "url": "https://open.spotify.com/album/1y3D3CbU4nsp4FYoza4CM1"
+      },
+      "artists": [
+        {
+          "name": "RIZHA",
+          "url": "https://open.spotify.com/artist/0uqXDD3RrzFosE8bZVFriI"
+        }
+      ],
+      "duration_ms": 166285,
+      "name": "\u20b3ngeles",
+      "url": "https://open.spotify.com/track/0i8kMCPiUYIU6mhyULXDYM"
+    },
+    {
+      "added_at": "2024-09-13 03:00:00",
+      "album": {
         "name": "Me rodean (feat. Orslok)",
         "url": "https://open.spotify.com/album/0hKClB3h5t5wsfmX4hLPxh"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 226789,
       "name": "Me rodean (feat. Orslok)",
       "url": "https://open.spotify.com/track/08KAerPtahxPaEFN6ydLUC"
-    },
-    {
-      "added_at": "2024-09-13 03:00:00",
-      "album": {
-        "name": "ANGELES - \u20b3",
-        "url": "https://open.spotify.com/album/1y3D3CbU4nsp4FYoza4CM1"
-      },
-      "artists": [
-        {
-          "name": "RIZHA",
-          "url": "https://open.spotify.com/artist/0uqXDD3RrzFosE8bZVFriI"
-        }
-      ],
-      "duration_ms": 166285,
-      "name": "\u20b3ngeles",
-      "url": "https://open.spotify.com/track/0i8kMCPiUYIU6mhyULXDYM"
     },
     {
       "added_at": "2024-09-13 03:00:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-09-13 03:00:00",
       "album": {
-        "name": "Trapboi",
-        "url": "https://open.spotify.com/album/5OrtZMQ3bMfybH4VxsxFfI"
-      },
-      "artists": [
-        {
-          "name": "Akafre$h",
-          "url": "https://open.spotify.com/artist/411qKyHGD5CZakuDDVOwfj"
-        }
-      ],
-      "duration_ms": 143534,
-      "name": "Trapboi",
-      "url": "https://open.spotify.com/track/0MLLCp68Wz4IhFPSy4eAZd"
-    },
-    {
-      "added_at": "2024-09-13 03:00:00",
-      "album": {
         "name": "MA\u00d1ANA",
         "url": "https://open.spotify.com/album/1SDQGLCBnHeu5UzoXQh4GG"
       },
@@ -1139,18 +1123,38 @@
     {
       "added_at": "2024-09-13 03:00:00",
       "album": {
-        "name": "mi castillo de naipes",
-        "url": "https://open.spotify.com/album/4YcbRvZK9tlBqSoEJMY5W2"
+        "name": "Trapboi",
+        "url": "https://open.spotify.com/album/5OrtZMQ3bMfybH4VxsxFfI"
       },
       "artists": [
         {
-          "name": "IMX X.",
-          "url": "https://open.spotify.com/artist/2qyy7vFRe9aa0n42yj90cU"
+          "name": "Akafre$h",
+          "url": "https://open.spotify.com/artist/411qKyHGD5CZakuDDVOwfj"
         }
       ],
-      "duration_ms": 138109,
-      "name": "mi castillo de naipes",
-      "url": "https://open.spotify.com/track/2T3E95QkSXfxLIBqR526MJ"
+      "duration_ms": 143534,
+      "name": "Trapboi",
+      "url": "https://open.spotify.com/track/0MLLCp68Wz4IhFPSy4eAZd"
+    },
+    {
+      "added_at": "2024-09-13 03:00:00",
+      "album": {
+        "name": "Clavao en visto",
+        "url": "https://open.spotify.com/album/4PieOcv1NKQUUS0j1usMh6"
+      },
+      "artists": [
+        {
+          "name": "2pawn",
+          "url": "https://open.spotify.com/artist/2vU403y4Qz3R1OLcQ34eF2"
+        },
+        {
+          "name": "AfterSub",
+          "url": "https://open.spotify.com/artist/75MRgkPfL3kXAVdh23TZls"
+        }
+      ],
+      "duration_ms": 220169,
+      "name": "Clavao en visto",
+      "url": "https://open.spotify.com/track/62c2PnBUOTSceT60t6DMmX"
     },
     {
       "added_at": "2024-09-13 03:00:00",
@@ -1167,6 +1171,22 @@
       "duration_ms": 140585,
       "name": "INOCENTE",
       "url": "https://open.spotify.com/track/1Q8iQTMgUPqnPWE1WSuXiW"
+    },
+    {
+      "added_at": "2024-09-13 03:00:00",
+      "album": {
+        "name": "mi castillo de naipes",
+        "url": "https://open.spotify.com/album/4YcbRvZK9tlBqSoEJMY5W2"
+      },
+      "artists": [
+        {
+          "name": "IMX X.",
+          "url": "https://open.spotify.com/artist/2qyy7vFRe9aa0n42yj90cU"
+        }
+      ],
+      "duration_ms": 138109,
+      "name": "mi castillo de naipes",
+      "url": "https://open.spotify.com/track/2T3E95QkSXfxLIBqR526MJ"
     },
     {
       "added_at": "2024-09-13 03:00:00",
@@ -1195,26 +1215,6 @@
       "duration_ms": 164442,
       "name": "hechizo final",
       "url": "https://open.spotify.com/track/3EvVrRxevFUiuS4ZX1pK7p"
-    },
-    {
-      "added_at": "2024-09-13 03:00:00",
-      "album": {
-        "name": "Te Hice una Cancion! (Remix)",
-        "url": "https://open.spotify.com/album/3fnDyewfo2fePIieMGfzb1"
-      },
-      "artists": [
-        {
-          "name": "ANGELSWING",
-          "url": "https://open.spotify.com/artist/4l93phc6zqgSBB18O4LqsI"
-        },
-        {
-          "name": "Nico Salas",
-          "url": "https://open.spotify.com/artist/4JoeqMyMO3SFmxwYk3Iclr"
-        }
-      ],
-      "duration_ms": 193714,
-      "name": "Te Hice una Cancion! - Remix",
-      "url": "https://open.spotify.com/track/3Q7YQ7Y0pWsSCQtEYcO3ZG"
     },
     {
       "added_at": "2024-09-13 03:00:00",
@@ -1251,6 +1251,26 @@
       "duration_ms": 120636,
       "name": "mverdeme^^",
       "url": "https://open.spotify.com/track/12VfBAI7Hee4BWhKpZPZR4"
+    },
+    {
+      "added_at": "2024-09-13 03:00:00",
+      "album": {
+        "name": "Te Hice una Cancion! (Remix)",
+        "url": "https://open.spotify.com/album/3fnDyewfo2fePIieMGfzb1"
+      },
+      "artists": [
+        {
+          "name": "ANGELSWING",
+          "url": "https://open.spotify.com/artist/4l93phc6zqgSBB18O4LqsI"
+        },
+        {
+          "name": "Nico Salas",
+          "url": "https://open.spotify.com/artist/4JoeqMyMO3SFmxwYk3Iclr"
+        }
+      ],
+      "duration_ms": 193714,
+      "name": "Te Hice una Cancion! - Remix",
+      "url": "https://open.spotify.com/track/3Q7YQ7Y0pWsSCQtEYcO3ZG"
     },
     {
       "added_at": "2024-09-13 03:00:00",
@@ -1427,26 +1447,6 @@
     {
       "added_at": "2024-09-13 03:00:00",
       "album": {
-        "name": "Clavao en visto",
-        "url": "https://open.spotify.com/album/4PieOcv1NKQUUS0j1usMh6"
-      },
-      "artists": [
-        {
-          "name": "2pawn",
-          "url": "https://open.spotify.com/artist/2vU403y4Qz3R1OLcQ34eF2"
-        },
-        {
-          "name": "AfterSub",
-          "url": "https://open.spotify.com/artist/75MRgkPfL3kXAVdh23TZls"
-        }
-      ],
-      "duration_ms": 220169,
-      "name": "Clavao en visto",
-      "url": "https://open.spotify.com/track/62c2PnBUOTSceT60t6DMmX"
-    },
-    {
-      "added_at": "2024-09-13 03:00:00",
-      "album": {
         "name": "OTRA MANERA",
         "url": "https://open.spotify.com/album/2kcQwmHV0CsYDdN43wJshu"
       },
@@ -1463,22 +1463,6 @@
       "duration_ms": 150769,
       "name": "OTRA MANERA",
       "url": "https://open.spotify.com/track/445QdAXedQct8b77lg3Der"
-    },
-    {
-      "added_at": "2024-09-13 03:00:00",
-      "album": {
-        "name": "NUESTRA CASA",
-        "url": "https://open.spotify.com/album/36wRfL8nsgyVqvlntNAtCb"
-      },
-      "artists": [
-        {
-          "name": "COR",
-          "url": "https://open.spotify.com/artist/4Dk1QpIraAhVR4fUl3xqFR"
-        }
-      ],
-      "duration_ms": 204774,
-      "name": "NUESTRA CASA",
-      "url": "https://open.spotify.com/track/67jRVCpm1X9zRp5nM7RByR"
     },
     {
       "added_at": "2024-09-13 03:00:00",
@@ -1503,6 +1487,22 @@
       "duration_ms": 136253,
       "name": "START GAME",
       "url": "https://open.spotify.com/track/73452FlLMk8qpxLJK9OzQH"
+    },
+    {
+      "added_at": "2024-09-13 03:00:00",
+      "album": {
+        "name": "NUESTRA CASA",
+        "url": "https://open.spotify.com/album/36wRfL8nsgyVqvlntNAtCb"
+      },
+      "artists": [
+        {
+          "name": "COR",
+          "url": "https://open.spotify.com/artist/4Dk1QpIraAhVR4fUl3xqFR"
+        }
+      ],
+      "duration_ms": 204774,
+      "name": "NUESTRA CASA",
+      "url": "https://open.spotify.com/track/67jRVCpm1X9zRp5nM7RByR"
     },
     {
       "added_at": "2024-09-13 03:00:00",
@@ -1675,6 +1675,34 @@
     {
       "added_at": "2024-09-13 03:00:00",
       "album": {
+        "name": "Vacaciones",
+        "url": "https://open.spotify.com/album/2rRvojU0dNIeoMN0DeItr6"
+      },
+      "artists": [
+        {
+          "name": "Juaxo",
+          "url": "https://open.spotify.com/artist/2HtcJoddH8GBPUlMpwonEZ"
+        },
+        {
+          "name": "Marts",
+          "url": "https://open.spotify.com/artist/2tTKkgWUmI2FV3aoxeqPmc"
+        },
+        {
+          "name": "Martin Margiela",
+          "url": "https://open.spotify.com/artist/4VUktrwTfi6xVdleeSngy0"
+        },
+        {
+          "name": "YungEest",
+          "url": "https://open.spotify.com/artist/025xeHKhaGt3DfQu8y7ULc"
+        }
+      ],
+      "duration_ms": 157750,
+      "name": "Vacaciones",
+      "url": "https://open.spotify.com/track/76509L8F0tfkf0sg1SpeSw"
+    },
+    {
+      "added_at": "2024-09-13 03:00:00",
+      "album": {
         "name": "Todo pa' mi",
         "url": "https://open.spotify.com/album/1vYI7Rnr8eEhVYchl3XIHj"
       },
@@ -1711,34 +1739,6 @@
     {
       "added_at": "2024-09-13 03:00:00",
       "album": {
-        "name": "Vacaciones",
-        "url": "https://open.spotify.com/album/2rRvojU0dNIeoMN0DeItr6"
-      },
-      "artists": [
-        {
-          "name": "Juaxo",
-          "url": "https://open.spotify.com/artist/2HtcJoddH8GBPUlMpwonEZ"
-        },
-        {
-          "name": "Marts",
-          "url": "https://open.spotify.com/artist/2tTKkgWUmI2FV3aoxeqPmc"
-        },
-        {
-          "name": "Martin Margiela",
-          "url": "https://open.spotify.com/artist/4VUktrwTfi6xVdleeSngy0"
-        },
-        {
-          "name": "YungEest",
-          "url": "https://open.spotify.com/artist/025xeHKhaGt3DfQu8y7ULc"
-        }
-      ],
-      "duration_ms": 157750,
-      "name": "Vacaciones",
-      "url": "https://open.spotify.com/track/76509L8F0tfkf0sg1SpeSw"
-    },
-    {
-      "added_at": "2024-09-13 03:00:00",
-      "album": {
         "name": "ALAS Y GARRAS",
         "url": "https://open.spotify.com/album/1jGCunUecbzbpPS0vyJdbt"
       },
@@ -1751,6 +1751,26 @@
       "duration_ms": 194560,
       "name": "TE MISSEO",
       "url": "https://open.spotify.com/track/3bi8iYbc7r3cfiAJWc4INV"
+    },
+    {
+      "added_at": "2024-09-13 03:00:00",
+      "album": {
+        "name": "rez\u00e1ndole a dios",
+        "url": "https://open.spotify.com/album/5hbndvSUgEj71m7Ujaxqui"
+      },
+      "artists": [
+        {
+          "name": "solopepe",
+          "url": "https://open.spotify.com/artist/6Bzp5cHR93uKQpbHTUVSF0"
+        },
+        {
+          "name": "catculator",
+          "url": "https://open.spotify.com/artist/4rATlgc18rtJ0xKhFci8Wi"
+        }
+      ],
+      "duration_ms": 101470,
+      "name": "rez\u00e1ndole a dios",
+      "url": "https://open.spotify.com/track/6evXLYfdQM7fgrIAeVyaoL"
     },
     {
       "added_at": "2024-09-13 03:00:00",
@@ -1819,6 +1839,22 @@
     {
       "added_at": "2024-09-13 03:00:00",
       "album": {
+        "name": "Cansao de to",
+        "url": "https://open.spotify.com/album/5eiE9AqooDUJJDJKO3m1YN"
+      },
+      "artists": [
+        {
+          "name": "M. Nieto",
+          "url": "https://open.spotify.com/artist/2Q0yEuio24OQjTukeA703c"
+        }
+      ],
+      "duration_ms": 179166,
+      "name": "Cansao de to",
+      "url": "https://open.spotify.com/track/536MbY3uZmOOpk7hhfZ5MF"
+    },
+    {
+      "added_at": "2024-09-13 03:00:00",
+      "album": {
         "name": "Girl!",
         "url": "https://open.spotify.com/album/1ply2s263uFYyGKghfuviG"
       },
@@ -1843,38 +1879,6 @@
     {
       "added_at": "2024-09-13 03:00:00",
       "album": {
-        "name": "Cansao de to",
-        "url": "https://open.spotify.com/album/5eiE9AqooDUJJDJKO3m1YN"
-      },
-      "artists": [
-        {
-          "name": "M. Nieto",
-          "url": "https://open.spotify.com/artist/2Q0yEuio24OQjTukeA703c"
-        }
-      ],
-      "duration_ms": 179166,
-      "name": "Cansao de to",
-      "url": "https://open.spotify.com/track/536MbY3uZmOOpk7hhfZ5MF"
-    },
-    {
-      "added_at": "2024-09-13 03:00:00",
-      "album": {
-        "name": "23B 53B Pntv Night-Time",
-        "url": "https://open.spotify.com/album/6BYfhoNKjDGHmB3KyStq5G"
-      },
-      "artists": [
-        {
-          "name": "Coffee",
-          "url": "https://open.spotify.com/artist/0Mgm5yjGlLHp1s8NK0oZKg"
-        }
-      ],
-      "duration_ms": 87557,
-      "name": "23B 53B Pntv Night-Time",
-      "url": "https://open.spotify.com/track/5CrADmQoF7noEM9lAfcHzQ"
-    },
-    {
-      "added_at": "2024-09-13 03:00:00",
-      "album": {
         "name": "La Vamo A Liar",
         "url": "https://open.spotify.com/album/1lj4YtkvrfmTFQLGrXSc4o"
       },
@@ -1891,6 +1895,22 @@
       "duration_ms": 188160,
       "name": "La Vamo A Liar",
       "url": "https://open.spotify.com/track/4j3BJAMyOTq4CLa9Un6yqu"
+    },
+    {
+      "added_at": "2024-09-13 03:00:00",
+      "album": {
+        "name": "23B 53B Pntv Night-Time",
+        "url": "https://open.spotify.com/album/6BYfhoNKjDGHmB3KyStq5G"
+      },
+      "artists": [
+        {
+          "name": "Coffee",
+          "url": "https://open.spotify.com/artist/0Mgm5yjGlLHp1s8NK0oZKg"
+        }
+      ],
+      "duration_ms": 87557,
+      "name": "23B 53B Pntv Night-Time",
+      "url": "https://open.spotify.com/track/5CrADmQoF7noEM9lAfcHzQ"
     },
     {
       "added_at": "2024-09-13 03:00:00",
@@ -1923,26 +1943,6 @@
       "duration_ms": 169750,
       "name": "Indescriptible",
       "url": "https://open.spotify.com/track/3YWFKAWYcVr1vlKdlkUMGw"
-    },
-    {
-      "added_at": "2024-09-13 03:00:00",
-      "album": {
-        "name": "rez\u00e1ndole a dios",
-        "url": "https://open.spotify.com/album/5hbndvSUgEj71m7Ujaxqui"
-      },
-      "artists": [
-        {
-          "name": "solopepe",
-          "url": "https://open.spotify.com/artist/6Bzp5cHR93uKQpbHTUVSF0"
-        },
-        {
-          "name": "catculator",
-          "url": "https://open.spotify.com/artist/4rATlgc18rtJ0xKhFci8Wi"
-        }
-      ],
-      "duration_ms": 101470,
-      "name": "rez\u00e1ndole a dios",
-      "url": "https://open.spotify.com/track/6evXLYfdQM7fgrIAeVyaoL"
     }
   ],
   "unique_name": "helium",

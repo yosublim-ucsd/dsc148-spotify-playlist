@@ -4,7 +4,7 @@
 
 > 6 in the morning
 
-1,039 songs - 3 day 6 hr 58 min
+1,039 songs - 3 day 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Broke Man](https://open.spotify.com/track/3WyFv142ucafFuRqJAcogS) | [Thomas Newson](https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5) | [Broke Man](https://open.spotify.com/album/1jp9pH3J4AD661hsZXudd7) | 5:42 | 2024-01-04 | 2024-01-19 |
 | [Broke My Heart \- Champion Remix](https://open.spotify.com/track/2GgOGIzfHAiJvFGDtRV2Cm) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54), [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR) | [Broke My Heart Remixes](https://open.spotify.com/album/2CTWvveW3GV8fkVB4TPpEs) | 4:21 | 2024-07-04 |  |
 | [Broken](https://open.spotify.com/track/6jcgxGVtyMC79ZIkeDFqK8) | [Miane](https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X) | [Broken](https://open.spotify.com/album/2qL7ZWl2MKYenZG9kzpbL5) | 3:30 | 2022-08-18 | 2023-04-17 |
-| [Brooklyn Bounce](https://open.spotify.com/track/1rHdrDtqZIs8vD6xv4QUnP) | [Spartaque](https://open.spotify.com/artist/2OpUrUeIF1sqWHwSbMPNkB) | [Brooklyn Bounce](https://open.spotify.com/album/70vwgdbTIonvFhBXmADFB0) | 3:40 | 2024-08-15 |  |
+| [Brooklyn Bounce](https://open.spotify.com/track/1rHdrDtqZIs8vD6xv4QUnP) | [Spartaque](https://open.spotify.com/artist/2OpUrUeIF1sqWHwSbMPNkB) | [Brooklyn Bounce](https://open.spotify.com/album/70vwgdbTIonvFhBXmADFB0) | 3:38 | 2024-08-15 |  |
 | [Bump Artist](https://open.spotify.com/track/1KPJ8va5CxcrWrpZ62HE5f) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Bump Artist EP](https://open.spotify.com/album/0P9dO1oLVImxme2Pi03QLb) | 3:23 | 2024-09-12 |  |
 | [Burma \- anamē AM Remix](https://open.spotify.com/track/5fpRYZjWCmV0Wdc2CiG4Ea) | [Lostep](https://open.spotify.com/artist/2k181sPkzUzAOhF4bR9LNR), [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi) | [Burma \(anamē Remixes\)](https://open.spotify.com/album/1xF1JlfD22PLnvcAnZSKQ9) | 3:43 | 2023-01-19 | 2023-03-13 |
 | [Burma \- anamē PM Remix](https://open.spotify.com/track/1CTrXCKR9CtwFUmGhLfgXf) | [Lostep](https://open.spotify.com/artist/2k181sPkzUzAOhF4bR9LNR), [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi) | [Burma \(anamē Remixes\)](https://open.spotify.com/album/1xF1JlfD22PLnvcAnZSKQ9) | 5:14 | 2022-12-08 | 2023-01-27 |

@@ -3981,6 +3981,24 @@
     },
     {
       "album": {
+        "name": "End Of Summer",
+        "url": "https://open.spotify.com/album/6jA4lmHRGWwYID57AjMScR"
+      },
+      "artists": [
+        {
+          "name": "Shayla Sereno",
+          "url": "https://open.spotify.com/artist/0d2oMUkzD4I5It0MFXNVpb"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127409,
+      "name": "End Of Summer",
+      "url": "https://open.spotify.com/track/6GFmBEHwcUw6rkLFFPrCrY"
+    },
+    {
+      "album": {
         "name": "endless",
         "url": "https://open.spotify.com/album/4aSNr7wccU4oFKg3QnqjsJ"
       },
@@ -7768,7 +7786,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 146728,
       "name": "Lazy Wave",
       "url": "https://open.spotify.com/track/0NnNuDaIWS2aPRkKCgTDvE"
@@ -10144,7 +10162,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 97857,
       "name": "Noon",
       "url": "https://open.spotify.com/track/692BbmPcX0H4AuiCSsVGxk"
@@ -16826,6 +16844,24 @@
       "duration_ms": 172242,
       "name": "Uptown Train",
       "url": "https://open.spotify.com/track/5LOf0bNrydlqUgro73awjW"
+    },
+    {
+      "album": {
+        "name": "Valentina",
+        "url": "https://open.spotify.com/album/03SOg6LS7UfQfhnNYLcagj"
+      },
+      "artists": [
+        {
+          "name": "Belinellie",
+          "url": "https://open.spotify.com/artist/5pQN7M94XWHOoRTYWHUBX5"
+        }
+      ],
+      "date_added": "2024-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115909,
+      "name": "Valentina",
+      "url": "https://open.spotify.com/track/34rlm9wkmSqrlN794BjwQk"
     },
     {
       "album": {

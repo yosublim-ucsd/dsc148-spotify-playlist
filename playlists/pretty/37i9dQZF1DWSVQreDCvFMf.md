@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Maki
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,299 likes - 77 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,366 likes - 77 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

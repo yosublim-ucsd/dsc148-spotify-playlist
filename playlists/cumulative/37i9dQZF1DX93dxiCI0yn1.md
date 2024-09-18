@@ -4,7 +4,7 @@
 
 > 新たな“ラップスタア“を発掘する人気オーディション番組「RAPSTAR 2024」歴代出場者、審査員の楽曲を特集。 Cover: Kohjiya
 
-292 songs - 14 hr 4 min
+295 songs - 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Higher Level](https://open.spotify.com/track/5T6bEcpQs7AJ7JUWOhyQmu) | [MELLMWOR1D](https://open.spotify.com/artist/2ntpUnudJuitrCi950QadZ), [Vinnie!](https://open.spotify.com/artist/5um8FTSWNYzkbjKHi3gY96) | [Higher Level](https://open.spotify.com/album/49S85wjKSUHY5DBqp60eXI) | 2:57 | 2024-02-27 | 2024-07-04 |
 | [HIP ATTACK](https://open.spotify.com/track/17kC9uMrArDF44ugV23b5A) | [Charlu](https://open.spotify.com/artist/0vVBkhJyOXmRoEnVMg6C77) | [HIP ATTACK](https://open.spotify.com/album/1RcRSP1vqESZ4Q0Hs6akbU) | 1:49 | 2024-07-04 |  |
 | [Holiday Wit U](https://open.spotify.com/track/7fYGPf5bN46Sn5cl5M0SO9) | [sheidA](https://open.spotify.com/artist/4cCmlLDD6JcIEM4RaDIxaZ), [D3adStock](https://open.spotify.com/artist/4dLZhocl3oLLpp6IcGlhjd) | [Holiday Wit U](https://open.spotify.com/album/68bFA1ux6IAc1BwAeT4h7p) | 2:05 | 2024-07-04 |  |
+| [Hood Melody](https://open.spotify.com/track/05GwXcLDcE3DyvLckae32Y) | [Carz](https://open.spotify.com/artist/2C8Pd4hyOnljituQXkTLZn), [guca owl](https://open.spotify.com/artist/4itoeqQ3NcIgbtec5B4GGf) | [For The Street](https://open.spotify.com/album/3RGFC8qxv4Rf5rnUu8hjCf) | 3:53 | 2024-09-17 |  |
 | [Hood X'mas](https://open.spotify.com/track/7czpEg3BEmX0RWL2lGgHzV) | [YELLASOMA](https://open.spotify.com/artist/2pwF9CAO9DDTrer0heIUjb) | [Hood X'mas](https://open.spotify.com/album/57aoiuXONOghJd1mXq8s36) | 1:50 | 2024-07-04 |  |
 | [HOT BOYZ](https://open.spotify.com/track/6f38jDhKaxNmFE6iQ2WOQz) | [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [YELLOW CHEDDAR](https://open.spotify.com/album/1nXkyeoVfIGflJNuydV0PL) | 2:13 | 2024-02-27 | 2024-04-19 |
 | [HOT BOYZ](https://open.spotify.com/track/0kG9RxZRojIgHVLA6YebnZ) | [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [HOT BOYZ](https://open.spotify.com/album/3D9G04TXoNkFEmZTdjqgT6) | 2:13 | 2024-02-14 | 2024-03-04 |
@@ -215,6 +216,7 @@
 | [REVENGE](https://open.spotify.com/track/3mraqIZDf7K1cspzUnXk0X) | [ShowyVICTOR](https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA), [Lil’Yukichi](https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA) | [REVENGE](https://open.spotify.com/album/0Ot1ECoHYOKsMz979FVI9y) | 3:25 | 2024-02-27 | 2024-07-04 |
 | [Rice Spice](https://open.spotify.com/track/18C3TKwi3wC4XF8oz8Imbs) | [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn) | [Rice Spice](https://open.spotify.com/album/05mKyVRNCAdDS45nMZanz2) | 1:50 | 2024-02-27 | 2024-07-04 |
 | [Rice Spice](https://open.spotify.com/track/34IAM1iapMADhwJc5kxxip) | [nana](https://open.spotify.com/artist/7uzEQGrUAupBJK2j3uQsoC) | [Rice Spice](https://open.spotify.com/album/0pQ7biuEQJGAMZJk5c3v6y) | 1:50 | 2023-10-24 | 2024-04-19 |
+| [ROAD](https://open.spotify.com/track/5Esv7z5hX4ZpLmeQ8k4AZf) | [AIRIE](https://open.spotify.com/artist/2xN2Y7hBcfqQiy3qI7j1Py), [Amo](https://open.spotify.com/artist/3eyhpuysSG6pj8ilwNpUhA) | [ROAD](https://open.spotify.com/album/3nEWCpLdahAORQaV4rarq9) | 2:11 | 2024-09-17 |  |
 | [Romance](https://open.spotify.com/track/75OqiU9QFLNeLTLvOCudWr) | [Tokyo Gal](https://open.spotify.com/artist/4Og0GstkKZkmI5BkkntBwX) | [Romance](https://open.spotify.com/album/6SUTDYK3cMr9mFR82UU5vG) | 2:38 | 2024-07-04 |  |
 | [Run This Town](https://open.spotify.com/track/17PLoEyJFNwsRN5y0M53Sg) | [Kay\-on](https://open.spotify.com/artist/2F81r2H2weMXa83CD2VD9H) | [Run This Town](https://open.spotify.com/album/0LtPST8JfL2ATb4IsBtRCS) | 2:34 | 2023-11-28 | 2024-04-19 |
 | [Run This Town](https://open.spotify.com/track/6du32fOtWrz5MjzcHLeoSu) | [Kay\-on](https://open.spotify.com/artist/2F81r2H2weMXa83CD2VD9H) | [Run This Town](https://open.spotify.com/album/24gXmJCFotpttZCFaZVXSr) | 2:34 | 2024-02-27 | 2024-07-04 |
@@ -296,6 +298,7 @@
 | [紙飛行機](https://open.spotify.com/track/2g97SOmQ7iROuInsxbWER5) | [Seeker4L](https://open.spotify.com/artist/0rzFpmPCcB3HseaSeGBHZE), [TOKYO世界](https://open.spotify.com/artist/5awYSpPNWD5u40s35biaKf) | [紙飛行機](https://open.spotify.com/album/5KKkz5t9xk89niLsxF9enW) | 2:29 | 2024-08-27 |  |
 | [街風](https://open.spotify.com/track/0MbLxwcxrw6v8bhDPcEdyE) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [REAL\-T](https://open.spotify.com/artist/6qupcgiWamRwRaYyiysUEP) | [街風](https://open.spotify.com/album/5Vzi4E8vCvCoHQchIavEr6) | 2:57 | 2024-02-27 | 2024-07-04 |
 | [言った!! \- Remix](https://open.spotify.com/track/4dCFBIiSAlNuvmrnfG2sh3) | [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM), [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn), [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [言った!! \(Remix\)](https://open.spotify.com/album/0Wqqc41PW0CFX9ztQ0eOGk) | 2:34 | 2024-07-04 |  |
+| [言った!! \- Remix](https://open.spotify.com/track/7D3Ie8dWI8Qjkvlwqc9uyn) | [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM), [Merry Delo](https://open.spotify.com/artist/1Q1IHJA1chZCn2P0ppiOfW), [Deech](https://open.spotify.com/artist/1eQUclEDhda3ZCUzi8NQME) | [言った!! \(Remix\)](https://open.spotify.com/album/3SYEeB542P7qpXbG4QrQjU) | 2:35 | 2024-09-17 |  |
 | [賽](https://open.spotify.com/track/4Vuk28dV5003gRz7NhhDY7) | [Kamui](https://open.spotify.com/artist/39PBUM5S4D2fVPFbzMUr6C), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [賽](https://open.spotify.com/album/02PHNFAl5Dc4Pui5VTKHax) | 2:05 | 2024-02-27 | 2024-07-04 |
 | [返答](https://open.spotify.com/track/0w7IwkrMz5wPDK8qSzD2ZK) | [ShowyVICTOR](https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA), [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY) | [REVENGE](https://open.spotify.com/album/4w98BIOWdMhWPGT2SnHiXQ) | 4:18 | 2023-11-28 | 2023-11-30 |
 | [逸話](https://open.spotify.com/track/469zONXVH5vy8loCFKMWZb) | [Tokyo Gal](https://open.spotify.com/artist/4Og0GstkKZkmI5BkkntBwX), [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7), [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS) | [Flash Back](https://open.spotify.com/album/1mlzyp5BtNpCqx5WQrhd58) | 3:22 | 2024-02-27 | 2024-07-04 |

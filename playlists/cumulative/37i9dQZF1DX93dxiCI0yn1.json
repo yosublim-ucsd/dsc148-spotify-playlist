@@ -2659,6 +2659,28 @@
     },
     {
       "album": {
+        "name": "For The Street",
+        "url": "https://open.spotify.com/album/3RGFC8qxv4Rf5rnUu8hjCf"
+      },
+      "artists": [
+        {
+          "name": "Carz",
+          "url": "https://open.spotify.com/artist/2C8Pd4hyOnljituQXkTLZn"
+        },
+        {
+          "name": "guca owl",
+          "url": "https://open.spotify.com/artist/4itoeqQ3NcIgbtec5B4GGf"
+        }
+      ],
+      "date_added": "2024-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233437,
+      "name": "Hood Melody",
+      "url": "https://open.spotify.com/track/05GwXcLDcE3DyvLckae32Y"
+    },
+    {
+      "album": {
         "name": "Hood X'mas",
         "url": "https://open.spotify.com/album/57aoiuXONOghJd1mXq8s36"
       },
@@ -4575,6 +4597,28 @@
     },
     {
       "album": {
+        "name": "ROAD",
+        "url": "https://open.spotify.com/album/3nEWCpLdahAORQaV4rarq9"
+      },
+      "artists": [
+        {
+          "name": "AIRIE",
+          "url": "https://open.spotify.com/artist/2xN2Y7hBcfqQiy3qI7j1Py"
+        },
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3eyhpuysSG6pj8ilwNpUhA"
+        }
+      ],
+      "date_added": "2024-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131333,
+      "name": "ROAD",
+      "url": "https://open.spotify.com/track/5Esv7z5hX4ZpLmeQ8k4AZf"
+    },
+    {
+      "album": {
         "name": "Romance",
         "url": "https://open.spotify.com/album/6SUTDYK3cMr9mFR82UU5vG"
       },
@@ -6374,6 +6418,32 @@
       "duration_ms": 154668,
       "name": "\u8a00\u3063\u305f!! - Remix",
       "url": "https://open.spotify.com/track/4dCFBIiSAlNuvmrnfG2sh3"
+    },
+    {
+      "album": {
+        "name": "\u8a00\u3063\u305f!! (Remix)",
+        "url": "https://open.spotify.com/album/3SYEeB542P7qpXbG4QrQjU"
+      },
+      "artists": [
+        {
+          "name": "MIKADO",
+          "url": "https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM"
+        },
+        {
+          "name": "Merry Delo",
+          "url": "https://open.spotify.com/artist/1Q1IHJA1chZCn2P0ppiOfW"
+        },
+        {
+          "name": "Deech",
+          "url": "https://open.spotify.com/artist/1eQUclEDhda3ZCUzi8NQME"
+        }
+      ],
+      "date_added": "2024-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155253,
+      "name": "\u8a00\u3063\u305f!! - Remix",
+      "url": "https://open.spotify.com/track/7D3Ie8dWI8Qjkvlwqc9uyn"
     },
     {
       "album": {

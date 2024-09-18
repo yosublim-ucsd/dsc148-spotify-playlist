@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTf69iQOGkD2.md) - [plain]
 
 > Sinta o flow do rap em estilo acústico ou romântico\. Foto: Tz Da Coronel, Mc PH, Filipe Ret, Mc Ryan SP, Lourena, L7NNON, Orochi, Ana Castela, Xamã
 
-[Spotify](https://open.spotify.com/user/spotify) - 597,966 likes - 75 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 597,977 likes - 75 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTf69iQOGkD2.md) - [plain]
 | 74 | [Melhor Lugar](https://open.spotify.com/track/3NvJOofNuM9TmYgxCfavsN) | [LUE](https://open.spotify.com/artist/50VHfozsQsmTf1R18RcuEN), [PedroWnx](https://open.spotify.com/artist/6xhWbJdf04v6FfSXOQWxP1), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr) | [Melhor Lugar](https://open.spotify.com/album/3dQpyO7nTetpK38phGBa0B) | 2:48 |
 | 75 | [Acústico Altamira \#20 \- Mulher Carioca](https://open.spotify.com/track/1dPYH7lKhUZHoaZMMeQHN3) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [John Bxd](https://open.spotify.com/artist/5PvvzrZ16XGd0VoU2FvUR8), [Lukkas](https://open.spotify.com/artist/3yJOjR6PkQh6QU6ZB8waUL), [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [Thebosh](https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI), [Hila Campelo](https://open.spotify.com/artist/5ekmhzyylAHmiQrzCS58vf), [Guetta FInelly](https://open.spotify.com/artist/1V9u0JLL2G1CTkI9Uf4nJX) | [Acústico Altamira \#20 \- Mulher Carioca](https://open.spotify.com/album/7IaErXiyLBdaxKDqzd892m) | 6:04 |
 
-Snapshot ID: `ZtpwbAAAAABsAe4E4xTTuVv2Xl18BY1m`
+Snapshot ID: `ZtpwbAAAAACbokptyHz/YMO+vhfw3KBi`

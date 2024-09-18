@@ -577,6 +577,24 @@
     },
     {
       "album": {
+        "name": "ESCAPE FROM NOW",
+        "url": "https://open.spotify.com/album/6htJSCESXHRJJUjiNPiIAz"
+      },
+      "artists": [
+        {
+          "name": "TRIGGER",
+          "url": "https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH"
+        }
+      ],
+      "date_added": "2024-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262453,
+      "name": "ESCAPE FROM NOW",
+      "url": "https://open.spotify.com/track/1dkh1PwgGlXfAPGk70rgsr"
+    },
+    {
+      "album": {
         "name": "DiSCOVER THE FUTURE",
         "url": "https://open.spotify.com/album/3T3IUShTLoWT6DCxs9U0dF"
       },
@@ -1040,7 +1058,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-18",
       "duration_ms": 272506,
       "name": "Leopard Eyes",
       "url": "https://open.spotify.com/track/1pBQJ0hZyFIwKCayM9nISj"

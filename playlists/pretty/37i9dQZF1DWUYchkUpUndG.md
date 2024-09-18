@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: "<a href=https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb?si=mi9ltdkFRwWVMtKEJoMPvA>Joe Mettle</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,754 likes - 104 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,778 likes - 104 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 65 | [Count Your Blessings](https://open.spotify.com/track/6jc0hTWOl6SO3Ryp5cSv5v) | [Raymond Okeke\-Macauley](https://open.spotify.com/artist/5HDazkxMmffXy5c26A1cSL), [Effie George](https://open.spotify.com/artist/6DbHM8quIwu4zQ9EvCAtBc) | [Count Your Blessings](https://open.spotify.com/album/1WFmSE1Vs7Hm9CesZXdCDm) | 2:16 |
 | 66 | [M'ADWENE \(MY MIND\)](https://open.spotify.com/track/2tKMEkWN8nsKZGdX1Xr4gb) | [ERIC JESHRUN](https://open.spotify.com/artist/2vWZ36mcSsJjZyvdafgmbG), [Akesse Brempong](https://open.spotify.com/artist/62l5OctR7XHGZo7H8iVSXb) | [M'ADWENE \(MY MIND\)](https://open.spotify.com/album/4CfRlvpmk52VKcGh1QXwjZ) | 13:35 |
 | 67 | [Nakupa Utukufu \(feat\. Zoe\)](https://open.spotify.com/track/7tnGzoqS9ITlwiQmlaTtgB) | [Boss MOG](https://open.spotify.com/artist/5bymobnzzgQnuh60dY84Ie), [Zoe](https://open.spotify.com/artist/4FaAab5oHVuSLoIK1G2icg) | [Nakupa Utukufu \(feat\. Zoe\)](https://open.spotify.com/album/6IrJsGlVLBtKcGquLif5v0) | 3:17 |
-| 68 | [Submit](https://open.spotify.com/track/39cuYIrqoi0K4cwLEjWrc5) | [Jlyricz](https://open.spotify.com/artist/4cubKpeUAFDsrOnFRs9DGi) | [Submit](https://open.spotify.com/album/05hSQtqnVXWkWUKvVVLvst) | 2:48 |
+| 68 | [Submit](https://open.spotify.com/track/39cuYIrqoi0K4cwLEjWrc5) | [Jlyricz](https://open.spotify.com/artist/4cubKpeUAFDsrOnFRs9DGi) | [Submit](https://open.spotify.com/album/05hSQtqnVXWkWUKvVVLvst) | 2:38 |
 | 69 | [NWUBE, IFECHUKWU](https://open.spotify.com/track/0qX9VrBp4PTRanb2Ga6p5F) | [Augustus Ezeodimegwu](https://open.spotify.com/artist/0bDjc4BIxPDUSeTL5mC1kB) | [NWUBE, IFECHUKWU](https://open.spotify.com/album/2yspXPFK44WMlOCjj9wVTd) | 3:22 |
 | 70 | [Pull Up](https://open.spotify.com/track/471kCm4NQbs0hxjvXqyhUy) | [Agent Snypa](https://open.spotify.com/artist/5LUpT5RzeYT5aH16GfEzHJ) | [Pull Up](https://open.spotify.com/album/3kxZfAnI7ABREdE2OH033g) | 2:37 |
 | 71 | [Blessings](https://open.spotify.com/track/2QpRmnHMHoIt3HqApTNCeS) | [Rukq Man](https://open.spotify.com/artist/5SSusUhF1NuqVlxrFULUhf) | [Blessings](https://open.spotify.com/album/5IdjRueijleqNDemwJVoQ3) | 2:24 |
